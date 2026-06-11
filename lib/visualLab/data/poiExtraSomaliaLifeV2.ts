@@ -3,7 +3,664 @@ import type { POI } from "./poi";
 
 export const poiExtraSomaliaLifeV2: POI[] = [
   {
-    id: "hargeisa-zoo-life-v2",
+    id: "hargeisa-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ttttt",
+                  "text": "Ein ausgewiesener städtischer Aussichtspunkt, der einen Blick auf die lokale Umgebung in Hargeisa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.036679,
+                        9.591114
+                  ]
+            },
+            {
+                  "name": "tec power plant ( soltelco)",
+                  "text": "Ein industrieller Aussichtspunkt mit Blick auf die Infrastruktur des Soltelco-Kraftwerks.",
+                  "category": "natural",
+                  "coords": [
+                        44.057886,
+                        9.560889
+                  ]
+            },
+            {
+                  "name": "538512 maryan nuur",
+                  "text": "Ein Aussichtspunkt in einem Wohngebiet in Hargeisa, der als lokales Wahrzeichen gilt.",
+                  "category": "natural",
+                  "coords": [
+                        44.049781,
+                        9.576304
+                  ]
+            },
+            {
+                  "name": "tec jameeco weyn",
+                  "text": "Ein städtischer Aussichtspunkt in der Nähe des weitläufigen Gebiets Jameeco Weyn.",
+                  "category": "natural",
+                  "coords": [
+                        44.047473,
+                        9.569034
+                  ]
+            },
+            {
+                  "name": "tec ban jarle",
+                  "text": "Ein städtischer Beobachtungspunkt, der einen bestimmten Ort in einem Viertel von Hargeisa markiert.",
+                  "category": "natural",
+                  "coords": [
+                        44.04737,
+                        9.572479
+                  ]
+            },
+            {
+                  "name": "tec power plant ( if iyo aakhiro )",
+                  "text": "Ein einzigartiger Aussichtspunkt zur Beobachtung der als If Iyo Aakhiro bekannten lokalen Kraftwerksinfrastruktur.",
+                  "category": "natural",
+                  "coords": [
+                        44.047378,
+                        9.579051
+                  ]
+            },
+            {
+                  "name": "TLS 517470",
+                  "text": "Ein nummerierter Telekommunikations-Aussichtspunkt im städtischen Netz von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.047585,
+                        9.577766
+                  ]
+            },
+            {
+                  "name": "534214 cali xuseen",
+                  "text": "Ein lokaler Aussichtspunkt auf Straßenebene in einem Viertel von Hargeisa, der als Wohnwahrzeichen dient.",
+                  "category": "natural",
+                  "coords": [
+                        44.049138,
+                        9.582678
+                  ]
+            },
+            {
+                  "name": "538468 khadra maxamed",
+                  "text": "Ein lokalisierter Aussichtspunkt in der Stadt, der als spezifischer Referenzpunkt für die Nachbarschaft dient.",
+                  "category": "natural",
+                  "coords": [
+                        44.052448,
+                        9.585722
+                  ]
+            },
+            {
+                  "name": "Iid daalibaan House (eng shibiin)",
+                  "text": "Ein Aussichtspunkt am Iid-Daalibaan-Haus, der als markantes lokales Wahrzeichen dient.",
+                  "category": "natural",
+                  "coords": [
+                        44.049684,
+                        9.591833
+                  ]
+            },
+            {
+                  "name": "Sheekh macruuf roud",
+                  "text": "Ein Aussichtspunkt am Straßenrand entlang der belebten Sheikh-Macruuf-Straße in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.049965,
+                        9.586886
+                  ]
+            },
+            {
+                  "name": "538057 SAAMIYA XASAN",
+                  "text": "Ein lokales Beobachtungswahrzeichen in einem Wohnsektor von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.053068,
+                        9.583152
+                  ]
+            },
+            {
+                  "name": "maxkamada",
+                  "text": "Ein städtischer Aussichtspunkt in unmittelbarer Nähe des örtlichen Gerichtsgebäudes von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.056868,
+                        9.558025
+                  ]
+            },
+            {
+                  "name": "tec tibiida",
+                  "text": "Ein städtischer Aussichtspunkt, der um die lokale technische oder Telekommunikationsinfrastruktur herum ausgewiesen ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.055088,
+                        9.558375
+                  ]
+            },
+            {
+                  "name": "tec udub",
+                  "text": "Ein städtischer Beobachtungspunkt in Hargeisa, der mit dem Gebiet der historischen politischen Partei Udub in Verbindung gebracht wird.",
+                  "category": "natural",
+                  "coords": [
+                        44.054156,
+                        9.558112
+                  ]
+            },
+            {
+                  "name": "shibiin 1",
+                  "text": "Ein lokalisierter Beobachtungspunkt im Stadtteil Shibiin von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.055621,
+                        9.633997
+                  ]
+            },
+            {
+                  "name": "shibiin bari",
+                  "text": "Ein spezifischer Aussichtspunkt im östlichen Teil des Stadtteils Shibiin.",
+                  "category": "natural",
+                  "coords": [
+                        44.05671,
+                        9.63368
+                  ]
+            },
+            {
+                  "name": "tls Tawer Qunyar daga",
+                  "text": "Ein Aussichtspunkt, der eine freie Sicht auf den Fernmeldeturm Qunyar Daga bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.051963,
+                        9.598432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ttttt",
+                  "text": "Kijelölt városi kilátópont, ahonnan jól megfigyelhető Hargeisa helyi környezete.",
+                  "category": "natural",
+                  "coords": [
+                        44.036679,
+                        9.591114
+                  ]
+            },
+            {
+                  "name": "tec power plant ( soltelco)",
+                  "text": "Ipari kilátópont, amely a Soltelco erőmű infrastruktúrájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.057886,
+                        9.560889
+                  ]
+            },
+            {
+                  "name": "538512 maryan nuur",
+                  "text": "Lakóövezeti kilátópont Hargeisában, amely a helyi szomszédság egyik tájékozódási pontja.",
+                  "category": "natural",
+                  "coords": [
+                        44.049781,
+                        9.576304
+                  ]
+            },
+            {
+                  "name": "tec jameeco weyn",
+                  "text": "Városi kilátópont, amely a kiterjedt Jameeco Weyn terület közelében helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        44.047473,
+                        9.569034
+                  ]
+            },
+            {
+                  "name": "tec ban jarle",
+                  "text": "Egy városi megfigyelőpont, amely egy adott környékbeli helyszínt jelöl Hargeisában.",
+                  "category": "natural",
+                  "coords": [
+                        44.04737,
+                        9.572479
+                  ]
+            },
+            {
+                  "name": "tec power plant ( if iyo aakhiro )",
+                  "text": "Különleges kilátópont, ahonnan az If Iyo Aakhiro néven ismert helyi erőmű infrastruktúrája figyelhető meg.",
+                  "category": "natural",
+                  "coords": [
+                        44.047378,
+                        9.579051
+                  ]
+            },
+            {
+                  "name": "TLS 517470",
+                  "text": "Számozott telekommunikációs kilátópont és tájékozódási pont a hargeisai városhálózaton belül.",
+                  "category": "natural",
+                  "coords": [
+                        44.047585,
+                        9.577766
+                  ]
+            },
+            {
+                  "name": "534214 cali xuseen",
+                  "text": "Utcaszintű helyi kilátópont egy hargeisai negyedben, amely lakossági tájékozódási pontként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        44.049138,
+                        9.582678
+                  ]
+            },
+            {
+                  "name": "538468 khadra maxamed",
+                  "text": "Egy lokális kilátópont a városban, amely egy konkrét szomszédság referenciapontjaként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        44.052448,
+                        9.585722
+                  ]
+            },
+            {
+                  "name": "Iid daalibaan House (eng shibiin)",
+                  "text": "Az Iid Daalibaan Ház mellett található kilátópont, amely egy jellegzetes helyi tájékozódási pont.",
+                  "category": "natural",
+                  "coords": [
+                        44.049684,
+                        9.591833
+                  ]
+            },
+            {
+                  "name": "Sheekh macruuf roud",
+                  "text": "Utca menti kilátópont Hargeisában, a forgalmas Sheikh Macruuf út mentén.",
+                  "category": "natural",
+                  "coords": [
+                        44.049965,
+                        9.586886
+                  ]
+            },
+            {
+                  "name": "538057 SAAMIYA XASAN",
+                  "text": "Helyi megfigyelési pont és tájékozódási pont egy hargeisai lakóövezetben.",
+                  "category": "natural",
+                  "coords": [
+                        44.053068,
+                        9.583152
+                  ]
+            },
+            {
+                  "name": "maxkamada",
+                  "text": "Városi kilátópont, amely a helyi hargeisai bíróság közvetlen közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        44.056868,
+                        9.558025
+                  ]
+            },
+            {
+                  "name": "tec tibiida",
+                  "text": "A helyi műszaki vagy távközlési infrastruktúra körül kijelölt városi kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        44.055088,
+                        9.558375
+                  ]
+            },
+            {
+                  "name": "tec udub",
+                  "text": "Városi megfigyelőpont Hargeisában, amely a történelmi Udub politikai párt területéhez kapcsolódik.",
+                  "category": "natural",
+                  "coords": [
+                        44.054156,
+                        9.558112
+                  ]
+            },
+            {
+                  "name": "shibiin 1",
+                  "text": "Egy lokalizált megfigyelőpont a hargeisai Shibiin környékén.",
+                  "category": "natural",
+                  "coords": [
+                        44.055621,
+                        9.633997
+                  ]
+            },
+            {
+                  "name": "shibiin bari",
+                  "text": "A Shibiin negyed keleti részén található specifikus kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        44.05671,
+                        9.63368
+                  ]
+            },
+            {
+                  "name": "tls Tawer Qunyar daga",
+                  "text": "Egy tájékozódási pont, ahonnan tiszta rálátás nyílik a Qunyar Daga távközlési toronyra.",
+                  "category": "natural",
+                  "coords": [
+                        44.051963,
+                        9.598432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ttttt",
+                  "text": "Un punct de belvedere urban desemnat, care oferă un loc pentru a observa împrejurimile din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036679,
+                        9.591114
+                  ]
+            },
+            {
+                  "name": "tec power plant ( soltelco)",
+                  "text": "Un punct de belvedere industrial care are vedere spre infrastructura centralei electrice Soltelco.",
+                  "category": "natural",
+                  "coords": [
+                        44.057886,
+                        9.560889
+                  ]
+            },
+            {
+                  "name": "538512 maryan nuur",
+                  "text": "Un punct de observare într-o zonă rezidențială din Hargeisa, remarcat ca reper al cartierului local.",
+                  "category": "natural",
+                  "coords": [
+                        44.049781,
+                        9.576304
+                  ]
+            },
+            {
+                  "name": "tec jameeco weyn",
+                  "text": "Un punct de belvedere urban situat în vecinătatea marii zone Jameeco Weyn.",
+                  "category": "natural",
+                  "coords": [
+                        44.047473,
+                        9.569034
+                  ]
+            },
+            {
+                  "name": "tec ban jarle",
+                  "text": "Un punct de observație al orașului care marchează o locație specifică a unui cartier din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.04737,
+                        9.572479
+                  ]
+            },
+            {
+                  "name": "tec power plant ( if iyo aakhiro )",
+                  "text": "Un punct de observație unic pentru a vedea infrastructura centralei electrice locale cunoscută sub numele de If Iyo Aakhiro.",
+                  "category": "natural",
+                  "coords": [
+                        44.047378,
+                        9.579051
+                  ]
+            },
+            {
+                  "name": "TLS 517470",
+                  "text": "Un reper numerotat de belvedere în domeniul telecomunicațiilor din rețeaua urbană a orașului Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.047585,
+                        9.577766
+                  ]
+            },
+            {
+                  "name": "534214 cali xuseen",
+                  "text": "Un punct de belvedere la nivelul străzii într-un cartier din Hargeisa, desemnat ca reper rezidențial.",
+                  "category": "natural",
+                  "coords": [
+                        44.049138,
+                        9.582678
+                  ]
+            },
+            {
+                  "name": "538468 khadra maxamed",
+                  "text": "Un punct de belvedere localizat din oraș, care servește drept punct de referință specific pentru cartier.",
+                  "category": "natural",
+                  "coords": [
+                        44.052448,
+                        9.585722
+                  ]
+            },
+            {
+                  "name": "Iid daalibaan House (eng shibiin)",
+                  "text": "Un punct de belvedere situat lângă Casa Iid Daalibaan, care servește drept reper local distinct.",
+                  "category": "natural",
+                  "coords": [
+                        44.049684,
+                        9.591833
+                  ]
+            },
+            {
+                  "name": "Sheekh macruuf roud",
+                  "text": "Un punct de belvedere pe marginea străzii, situat de-a lungul aglomeratului drum Sheikh Macruuf din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.049965,
+                        9.586886
+                  ]
+            },
+            {
+                  "name": "538057 SAAMIYA XASAN",
+                  "text": "Un reper de observație local situat într-un sector rezidențial din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.053068,
+                        9.583152
+                  ]
+            },
+            {
+                  "name": "maxkamada",
+                  "text": "Un punct de belvedere urban situat în imediata vecinătate a tribunalului local din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.056868,
+                        9.558025
+                  ]
+            },
+            {
+                  "name": "tec tibiida",
+                  "text": "Un punct de observare a orașului amenajat în jurul infrastructurii tehnice sau de telecomunicații locale.",
+                  "category": "natural",
+                  "coords": [
+                        44.055088,
+                        9.558375
+                  ]
+            },
+            {
+                  "name": "tec udub",
+                  "text": "Un punct de observație urban din Hargeisa asociat cu zona istorică a partidului politic Udub.",
+                  "category": "natural",
+                  "coords": [
+                        44.054156,
+                        9.558112
+                  ]
+            },
+            {
+                  "name": "shibiin 1",
+                  "text": "Un punct de observație localizat în cartierul Shibiin din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.055621,
+                        9.633997
+                  ]
+            },
+            {
+                  "name": "shibiin bari",
+                  "text": "Un punct de belvedere specific poziționat în secțiunea estică a cartierului Shibiin.",
+                  "category": "natural",
+                  "coords": [
+                        44.05671,
+                        9.63368
+                  ]
+            },
+            {
+                  "name": "tls Tawer Qunyar daga",
+                  "text": "Un punct de belvedere care oferă o vedere clară asupra turnului de telecomunicații Qunyar Daga.",
+                  "category": "natural",
+                  "coords": [
+                        44.051963,
+                        9.598432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ttttt",
+                  "text": "A designated urban viewpoint offering a spot to observe the local surroundings in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036679,
+                        9.591114
+                  ]
+            },
+            {
+                  "name": "tec power plant ( soltelco)",
+                  "text": "An industrial viewpoint overlooking the Soltelco power plant infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        44.057886,
+                        9.560889
+                  ]
+            },
+            {
+                  "name": "538512 maryan nuur",
+                  "text": "A residential-area vantage point in Hargeisa, noted as a local neighborhood landmark.",
+                  "category": "natural",
+                  "coords": [
+                        44.049781,
+                        9.576304
+                  ]
+            },
+            {
+                  "name": "tec jameeco weyn",
+                  "text": "An urban viewpoint located in the vicinity of the large Jameeco Weyn area.",
+                  "category": "natural",
+                  "coords": [
+                        44.047473,
+                        9.569034
+                  ]
+            },
+            {
+                  "name": "tec ban jarle",
+                  "text": "A city observation point marking a specific neighborhood location in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.04737,
+                        9.572479
+                  ]
+            },
+            {
+                  "name": "tec power plant ( if iyo aakhiro )",
+                  "text": "A unique vantage point observing the local power plant infrastructure known as If Iyo Aakhiro.",
+                  "category": "natural",
+                  "coords": [
+                        44.047378,
+                        9.579051
+                  ]
+            },
+            {
+                  "name": "TLS 517470",
+                  "text": "A numbered telecommunications viewpoint landmark within the Hargeisa urban grid.",
+                  "category": "natural",
+                  "coords": [
+                        44.047585,
+                        9.577766
+                  ]
+            },
+            {
+                  "name": "534214 cali xuseen",
+                  "text": "A local street-level viewpoint in a Hargeisa neighborhood, designated as a residential landmark.",
+                  "category": "natural",
+                  "coords": [
+                        44.049138,
+                        9.582678
+                  ]
+            },
+            {
+                  "name": "538468 khadra maxamed",
+                  "text": "A localized viewpoint in the city serving as a specific neighborhood reference point.",
+                  "category": "natural",
+                  "coords": [
+                        44.052448,
+                        9.585722
+                  ]
+            },
+            {
+                  "name": "Iid daalibaan House (eng shibiin)",
+                  "text": "A vantage point situated by the Iid Daalibaan House, serving as a distinct local landmark.",
+                  "category": "natural",
+                  "coords": [
+                        44.049684,
+                        9.591833
+                  ]
+            },
+            {
+                  "name": "Sheekh macruuf roud",
+                  "text": "A street-side viewpoint positioned along the bustling Sheikh Macruuf Road in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.049965,
+                        9.586886
+                  ]
+            },
+            {
+                  "name": "538057 SAAMIYA XASAN",
+                  "text": "A local observation landmark situated in a residential sector of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.053068,
+                        9.583152
+                  ]
+            },
+            {
+                  "name": "maxkamada",
+                  "text": "An urban viewpoint situated in the immediate vicinity of the local Hargeisa courthouse.",
+                  "category": "natural",
+                  "coords": [
+                        44.056868,
+                        9.558025
+                  ]
+            },
+            {
+                  "name": "tec tibiida",
+                  "text": "A city vantage point designated around local technical or telecommunications infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        44.055088,
+                        9.558375
+                  ]
+            },
+            {
+                  "name": "tec udub",
+                  "text": "An urban observation point in Hargeisa associated with the historic Udub political party area.",
+                  "category": "natural",
+                  "coords": [
+                        44.054156,
+                        9.558112
+                  ]
+            },
+            {
+                  "name": "shibiin 1",
+                  "text": "A localized observation point in the Shibiin neighborhood of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.055621,
+                        9.633997
+                  ]
+            },
+            {
+                  "name": "shibiin bari",
+                  "text": "A specific viewpoint positioned in the eastern section of the Shibiin neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        44.05671,
+                        9.63368
+                  ]
+            },
+            {
+                  "name": "tls Tawer Qunyar daga",
+                  "text": "A viewpoint landmark offering clear sights of the Qunyar Daga telecommunications tower.",
+                  "category": "natural",
+                  "coords": [
+                        44.051963,
+                        9.598432
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SO-WO",
     coords: [44.0535, 9.5623],
@@ -147,7 +804,52 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mogadishu-child-park-life-v2",
+    id: "mogadishu-child-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mnare Tower Lighthouse",
+                  "text": "Der Leuchtturm Mnare Tower ist ein Küstennavigationsfeuer, das Schiffe entlang der Küste des Indischen Ozeans in Mogadischu leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333297,
+                        2.038624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mnare Tower Lighthouse",
+                  "text": "A Mnare Tower világítótorony egy tengerparti navigációs jelzőfény, amely a Mogadishu melletti Indiai-óceán partvidékén vezeti a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333297,
+                        2.038624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mnare Tower Lighthouse",
+                  "text": "Farul Mnare Tower este un far de navigație de coastă care ghidează navele de-a lungul țărmului Oceanului Indian din Mogadishu.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333297,
+                        2.038624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mnare Tower Lighthouse",
+                  "text": "The Mnare Tower Lighthouse is a coastal navigation beacon that guides ships along Mogadishu's Indian Ocean shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333297,
+                        2.038624
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SO-BN",
     coords: [45.3333, 2.0400],
@@ -219,7 +921,52 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     },
   },
   {
-    id: "berbera-fishing-life-v2",
+    id: "berbera-fishing-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riiga gutuxeed",
+                  "text": "Mit Blick auf die lebhaften Küstengewässer zeigt dieser Aussichtspunkt die täglichen Aktivitäten der traditionellen Fischerflotten von Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        45.017407,
+                        10.378813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riiga gutuxeed",
+                  "text": "A nyüzsgő tengerparti vizekre néző kilátó Berbera hagyományos halászflottáinak napi tevékenységét emeli ki.",
+                  "category": "natural",
+                  "coords": [
+                        45.017407,
+                        10.378813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riiga gutuxeed",
+                  "text": "Cu vedere la apele de coastă vibrante, acest punct de belvedere evidențiază activitățile zilnice ale flotelor tradiționale de pescuit din Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        45.017407,
+                        10.378813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riiga gutuxeed",
+                  "text": "Overlooking the vibrant coastal waters, this viewpoint highlights the daily activities of Berbera's traditional fishing fleets.",
+                  "category": "natural",
+                  "coords": [
+                        45.017407,
+                        10.378813
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SO-SA",
     coords: [45.0167, 10.4333],
@@ -255,7 +1002,88 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     },
   },
   {
-    id: "kismayo-fruit-orchards-life-v2",
+    id: "kismayo-fruit-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Dieser Aussichtspunkt an der Küste von Kismayo überblickt einen weiten weißen Sandstrand an der somalischen Küste.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Diese belebte städtische Attraktion dient als markantes Wahrzeichen und Treffpunkt in der Stadt Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Ebből a kismayói partvidéki kilátóból széles fehér homokos partszakaszra nyílik kilátás a szomáliai tengerparton.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Ez a nyüzsgő városi látványosság kiemelkedő tájékozódási pontként és gyülekezőhelyként szolgál Kismayo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Acest punct de belvedere de coastă din Kismayo are vedere la o întindere largă de nisip alb de-a lungul coastei somaleze.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Această atracție urbană plină de viață servește ca un punct de reper proeminent și loc de adunare în orașul Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "This coastal viewpoint in Kismayo overlooks a sweeping stretch of white sand along the Somali coastline.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "This bustling urban attraction serves as a prominent landmark and gathering place in the city of Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SO-LB",
     coords: [42.5450, -0.3540],
@@ -327,7 +1155,88 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     },
   },
   {
-    id: "baidoa-farm-life-v2",
+    id: "baidoa-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buundada",
+                  "text": "Buundada ist ein aktiver lokaler Übergangspunkt, der im ländlichen Farmleben rund um Baidoa eine wichtige Rolle spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            },
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Afar Irdoodka ist ein bemerkenswerter Knotenpunkt oder Torbereich, der die traditionellen Handelsrouten in der Nähe von Baidoa widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buundada",
+                  "text": "A Buundada egy aktív helyi átkelőhely, amely döntő szerepet játszik a Baidoa körüli vidéki tanyasi életben.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            },
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Az Afar Irdoodka egy figyelemre méltó kereszteződés vagy kapu, amely a Baidoa melletti hagyományos kereskedelmi útvonalakat tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buundada",
+                  "text": "Buundada este un punct activ de trecere locală care joacă un rol crucial în viața rurală agricolă din jurul orașului Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            },
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Afar Irdoodka este o intersecție remarcabilă sau o zonă de poartă care reflectă rutele comerciale tradiționale din apropiere de Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buundada",
+                  "text": "Buundada is an active local crossing point that plays a crucial role in the rural farm life surrounding Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            },
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Afar Irdoodka is a notable intersection or gateway area reflecting the traditional trade routes near Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SO-BY",
     coords: [43.6500, 3.1167],
@@ -543,7 +1452,304 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     },
   },
   {
-    id: "ceerigaabo-orchard-life-v2",
+    id: "ceerigaabo-orchard-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dayaxa",
+                  "text": "Der Aussichtspunkt Dayaxa überblickt die üppigen Obstgartenlandschaften und das erhöhte Gelände der Region Sanaag.",
+                  "category": "natural",
+                  "coords": [
+                        47.362106,
+                        10.619813
+                  ]
+            },
+            {
+                  "name": "jaamacada",
+                  "text": "Dieser erhöhte Ort bietet weitreichende Ausblicke auf das örtliche Bildungsviertel und die grüne Umgebung von Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.352604,
+                        10.623213
+                  ]
+            },
+            {
+                  "name": "dawlada hoose",
+                  "text": "Dieser städtische Aussichtspunkt blickt auf das Bürgerzentrum und die städtischen Gebäude von Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.368605,
+                        10.62243
+                  ]
+            },
+            {
+                  "name": "shaafici",
+                  "text": "Der Aussichtspunkt Shaafici fängt das raue, natürliche Gelände ein, das für das Ceerigaabo-Hochland charakteristisch ist.",
+                  "category": "natural",
+                  "coords": [
+                        47.366342,
+                        10.620063
+                  ]
+            },
+            {
+                  "name": "boosta",
+                  "text": "Ein Aussichtspunkt, der freie Ausblicke auf das zentrale Postzentrum und die umliegenden Straßen von Ceerigaabo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        47.368313,
+                        10.619154
+                  ]
+            },
+            {
+                  "name": "tuulo dacar",
+                  "text": "Dieser Aussichtspunkt überblickt eine traditionelle Dorfsiedlung, eingebettet in die üppige Obstgartenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        47.36703,
+                        10.615964
+                  ]
+            },
+            {
+                  "name": "bardaha",
+                  "text": "Bardaha bietet einen ruhigen Ort, um die vielfältige Flora und das hügelige Gelände der Region zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        47.364772,
+                        10.616698
+                  ]
+            },
+            {
+                  "name": "Dayacan",
+                  "text": "Der Aussichtspunkt Dayacan bietet weitreichende Ausblicke über die landwirtschaftlichen Flächen der Region Sanaag.",
+                  "category": "natural",
+                  "coords": [
+                        47.363608,
+                        10.610137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dayaxa",
+                  "text": "A Dayaxa kilátó a Sanaag régió buja gyümölcsös tájaira és magaslati terepére nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        47.362106,
+                        10.619813
+                  ]
+            },
+            {
+                  "name": "jaamacada",
+                  "text": "Ez a magaslati pont tágas kilátást nyújt Ceerigaabo helyi oktatási negyedére és zöldellő környezetére.",
+                  "category": "natural",
+                  "coords": [
+                        47.352604,
+                        10.623213
+                  ]
+            },
+            {
+                  "name": "dawlada hoose",
+                  "text": "Ez a városi kilátópont Ceerigaabo civil központjára és önkormányzati épületeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        47.368605,
+                        10.62243
+                  ]
+            },
+            {
+                  "name": "shaafici",
+                  "text": "A Shaafici kilátó megörökíti a Ceerigaabo-felföldre jellemző zord, természetes terepet.",
+                  "category": "natural",
+                  "coords": [
+                        47.366342,
+                        10.620063
+                  ]
+            },
+            {
+                  "name": "boosta",
+                  "text": "Megfigyelőpont, amely tiszta rálátást biztosít a központi postahivatalra és Ceerigaabo környező utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        47.368313,
+                        10.619154
+                  ]
+            },
+            {
+                  "name": "tuulo dacar",
+                  "text": "Ez a kilátó egy hagyományos falusi településre néz, amely a buja gyümölcsös tájban fészkel.",
+                  "category": "natural",
+                  "coords": [
+                        47.36703,
+                        10.615964
+                  ]
+            },
+            {
+                  "name": "bardaha",
+                  "text": "A Bardaha békés helyet kínál, ahonnan megcsodálható a régió változatos növényvilága és hullámzó terepe.",
+                  "category": "natural",
+                  "coords": [
+                        47.364772,
+                        10.616698
+                  ]
+            },
+            {
+                  "name": "Dayacan",
+                  "text": "A Dayacan kilátó elsöprő kilátást nyújt a Sanaag régió mezőgazdasági területeire.",
+                  "category": "natural",
+                  "coords": [
+                        47.363608,
+                        10.610137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dayaxa",
+                  "text": "Punctul de belvedere Dayaxa are vedere la peisajele cu livezi luxuriante și terenul înalt al regiunii Sanaag.",
+                  "category": "natural",
+                  "coords": [
+                        47.362106,
+                        10.619813
+                  ]
+            },
+            {
+                  "name": "jaamacada",
+                  "text": "Acest loc înalt oferă perspective vaste asupra cartierului educațional local și a împrejurimilor verzi din Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.352604,
+                        10.623213
+                  ]
+            },
+            {
+                  "name": "dawlada hoose",
+                  "text": "Acest punct de observație urban are vedere la centrul civic și clădirile municipale din Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.368605,
+                        10.62243
+                  ]
+            },
+            {
+                  "name": "shaafici",
+                  "text": "Punctul de belvedere Shaafici captează terenul accidentat și natural caracteristic ținuturilor înalte din Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.366342,
+                        10.620063
+                  ]
+            },
+            {
+                  "name": "boosta",
+                  "text": "Un punct de observație care oferă vederi clare asupra centrului poștal și a străzilor din jur din Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.368313,
+                        10.619154
+                  ]
+            },
+            {
+                  "name": "tuulo dacar",
+                  "text": "Acest punct de belvedere are vedere la o așezare de sat tradițională cuibărită în peisajul luxuriant al livezilor.",
+                  "category": "natural",
+                  "coords": [
+                        47.36703,
+                        10.615964
+                  ]
+            },
+            {
+                  "name": "bardaha",
+                  "text": "Bardaha oferă un loc liniștit pentru a privi flora diversă a regiunii și terenul vălurit.",
+                  "category": "natural",
+                  "coords": [
+                        47.364772,
+                        10.616698
+                  ]
+            },
+            {
+                  "name": "Dayacan",
+                  "text": "Punctul de belvedere Dayacan prezintă priveliști ample asupra terenurilor agricole din regiunea Sanaag.",
+                  "category": "natural",
+                  "coords": [
+                        47.363608,
+                        10.610137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dayaxa",
+                  "text": "The Dayaxa viewpoint overlooks the lush orchard landscapes and elevated terrain of the Sanaag region.",
+                  "category": "natural",
+                  "coords": [
+                        47.362106,
+                        10.619813
+                  ]
+            },
+            {
+                  "name": "jaamacada",
+                  "text": "This elevated spot provides expansive perspectives over the local educational district and green surroundings of Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.352604,
+                        10.623213
+                  ]
+            },
+            {
+                  "name": "dawlada hoose",
+                  "text": "This urban vantage point looks out over the civic center and municipal buildings of Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.368605,
+                        10.62243
+                  ]
+            },
+            {
+                  "name": "shaafici",
+                  "text": "The Shaafici viewpoint captures the rugged, natural terrain characteristic of the Ceerigaabo highlands.",
+                  "category": "natural",
+                  "coords": [
+                        47.366342,
+                        10.620063
+                  ]
+            },
+            {
+                  "name": "boosta",
+                  "text": "An observation point providing clear views over the central postal hub and surrounding streets of Ceerigaabo.",
+                  "category": "natural",
+                  "coords": [
+                        47.368313,
+                        10.619154
+                  ]
+            },
+            {
+                  "name": "tuulo dacar",
+                  "text": "This viewpoint overlooks a traditional village settlement nestled within the lush orchard landscape.",
+                  "category": "natural",
+                  "coords": [
+                        47.36703,
+                        10.615964
+                  ]
+            },
+            {
+                  "name": "bardaha",
+                  "text": "Bardaha offers a peaceful spot to gaze over the region's diverse flora and rolling terrain.",
+                  "category": "natural",
+                  "coords": [
+                        47.364772,
+                        10.616698
+                  ]
+            },
+            {
+                  "name": "Dayacan",
+                  "text": "The Dayacan viewpoint presents sweeping vistas over the agricultural lands of the Sanaag region.",
+                  "category": "natural",
+                  "coords": [
+                        47.363608,
+                        10.610137
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SO-SA",
     coords: [47.3667, 10.6167],
@@ -687,7 +1893,556 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     },
   },
   {
-    id: "burao-pasture-life-v2",
+    id: "burao-pasture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faisal home",
+                  "text": "Dieses traditionelle Wohnhaus spiegelt den lokalen Baustil der Weidelandschaften von Burao wider.",
+                  "category": "landmark",
+                  "coords": [
+                        45.522875,
+                        9.532713
+                  ]
+            },
+            {
+                  "name": "Geerashka faluuja",
+                  "text": "Diese lokale Gewerbegarage und Attraktion ist ein wichtiger Knotenpunkt für Reisende in der Region Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530185,
+                        9.527596
+                  ]
+            },
+            {
+                  "name": "Havoyoco",
+                  "text": "Dieses organisatorische Wahrzeichen ist Teil der zivilen Struktur, die den pastoralen Lebensstil der Gemeinde Burao unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528464,
+                        9.529472
+                  ]
+            },
+            {
+                  "name": "Hafa yoko",
+                  "text": "Ein markanter Gemeinschaftsort inmitten des dynamischen Alltagslebens der Weidezone von Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.526744,
+                        9.530607
+                  ]
+            },
+            {
+                  "name": "Salama check ing point",
+                  "text": "Dieser Straßenkontrollpunkt fungiert als markante Durchgangsmarkierung für den Verkehr, der in die Weidelandschaften von Burao einfährt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528129,
+                        9.528323
+                  ]
+            },
+            {
+                  "name": "Masjidka bilaal",
+                  "text": "Diese Gemeindemoschee verfügt über ein markantes Minarett und dient als spiritueller Versammlungsort für die Einheimischen von Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530851,
+                        9.526647
+                  ]
+            },
+            {
+                  "name": "Cayngal",
+                  "text": "Ein anerkannter lokaler Treffpunkt, der das ländliche, pastorale Erbe der Gegend von Burao verkörpert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.531915,
+                        9.525539
+                  ]
+            },
+            {
+                  "name": "Dalwanaaje hotel",
+                  "text": "Dieses regionale Hotel bietet Reisenden, die die Weidebezirke von Burao erkunden, einen Ort der Ruhe und Gastfreundschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533444,
+                        9.524931
+                  ]
+            },
+            {
+                  "name": "Laki cabdi maydhane ( ENG:Shibiin )",
+                  "text": "Ein weitläufiger Aussichtspunkt mit herrlichem Blick auf die sonnenverwöhnten Weidelandschaften von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.534976,
+                        9.528036
+                  ]
+            },
+            {
+                  "name": "Soofe hotel",
+                  "text": "Eine lokal etablierte Unterkunft, die sich von den flachen Ebenen der Burao-Landschaft abhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.535632,
+                        9.529197
+                  ]
+            },
+            {
+                  "name": "Local government burcao",
+                  "text": "Das ummauerte Verwaltungsgelände von Burao kümmert sich um die städtische Verwaltung dieser dynamischen Hirtenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534274,
+                        9.529103
+                  ]
+            },
+            {
+                  "name": "Biriijka burco old",
+                  "text": "Diese historische Brücke diente einst als Hauptübergang über die saisonalen Flussbetten von Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534591,
+                        9.530886
+                  ]
+            },
+            {
+                  "name": "Cantrol burco",
+                  "text": "Ein wichtiger Transitkontrollpunkt, der den Waren- und Personenstrom in die ländlichen Gebiete von Burao überwacht.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533064,
+                        9.555405
+                  ]
+            },
+            {
+                  "name": "kaantaroolka burco",
+                  "text": "Dieser Aussichtspunkt in der Nähe des Kontrollpunkts der Stadt ermöglicht es Reisenden, die staubigen Ebenen vor Burao zu überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        45.502157,
+                        9.598156
+                  ]
+            },
+            {
+                  "name": "waasac fuel station burco. by eng shibiin",
+                  "text": "Diese erhöhte Straßenanlage bietet einen Aussichtspunkt auf den geschäftigen Verkehr auf den Weidewegen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.539084,
+                        9.518526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faisal home",
+                  "text": "Ez a hagyományos lakóépület Burao legelővidékének helyi építészeti stílusát tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.522875,
+                        9.532713
+                  ]
+            },
+            {
+                  "name": "Geerashka faluuja",
+                  "text": "Ez a helyi kereskedelmi garázs és látványosság fontos központja a Burao régióban közlekedő utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530185,
+                        9.527596
+                  ]
+            },
+            {
+                  "name": "Havoyoco",
+                  "text": "Ez a szervezeti tájékozódási pont a Burao közösség pásztori életmódját támogató polgári szövet része.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528464,
+                        9.529472
+                  ]
+            },
+            {
+                  "name": "Hafa yoko",
+                  "text": "Egy jellegzetes közösségi hely, amely a Burao legelőzóna dinamikus mindennapi életének közepén található.",
+                  "category": "landmark",
+                  "coords": [
+                        45.526744,
+                        9.530607
+                  ]
+            },
+            {
+                  "name": "Salama check ing point",
+                  "text": "Ez az út menti ellenőrzőpont kiemelkedő tranzitjelzőként szolgál a Burao legelőkre belépő forgalom számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528129,
+                        9.528323
+                  ]
+            },
+            {
+                  "name": "Masjidka bilaal",
+                  "text": "Ez a közösségi mecset jellegzetes minarettel rendelkezik, és spirituális gyülekezőhelyként szolgál Burao helyi lakosai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530851,
+                        9.526647
+                  ]
+            },
+            {
+                  "name": "Cayngal",
+                  "text": "Egy elismert helyi gyülekezőhely, amely a Burao környék vidéki, pásztori örökségét testesíti meg.",
+                  "category": "landmark",
+                  "coords": [
+                        45.531915,
+                        9.525539
+                  ]
+            },
+            {
+                  "name": "Dalwanaaje hotel",
+                  "text": "Ez a regionális szálloda pihenést és vendégszeretetet kínál a Burao legelővidékeit felfedező utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533444,
+                        9.524931
+                  ]
+            },
+            {
+                  "name": "Laki cabdi maydhane ( ENG:Shibiin )",
+                  "text": "Egy kiterjedt kilátópont, amely lenyűgöző panorámát nyújt a napsütötte Burao legelőkre.",
+                  "category": "natural",
+                  "coords": [
+                        45.534976,
+                        9.528036
+                  ]
+            },
+            {
+                  "name": "Soofe hotel",
+                  "text": "Egy helyi szinten megalapozott szálláshely, amely kiemelkedik a buraói táj síkságából.",
+                  "category": "landmark",
+                  "coords": [
+                        45.535632,
+                        9.529197
+                  ]
+            },
+            {
+                  "name": "Local government burcao",
+                  "text": "Burao fallal körülvett közigazgatási épületegyüttese intézi ennek a dinamikus pásztorvárosnak az önkormányzati ügyeit.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534274,
+                        9.529103
+                  ]
+            },
+            {
+                  "name": "Biriijka burco old",
+                  "text": "Ez a történelmi híd egykor fő átkelőként szolgált Burao szezonális folyómedrei felett.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534591,
+                        9.530886
+                  ]
+            },
+            {
+                  "name": "Cantrol burco",
+                  "text": "Egy kulcsfontosságú tranzit ellenőrzőpont, amely megfigyeli az áruk és emberek áramlását Burao vidéki határaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533064,
+                        9.555405
+                  ]
+            },
+            {
+                  "name": "kaantaroolka burco",
+                  "text": "Ez a város ellenőrzőpontja közelében lévő kilátó lehetővé teszi az utazók számára, hogy felmérjék a Buraóhoz közeledő poros síkságokat.",
+                  "category": "natural",
+                  "coords": [
+                        45.502157,
+                        9.598156
+                  ]
+            },
+            {
+                  "name": "waasac fuel station burco. by eng shibiin",
+                  "text": "Ez a megemelt út menti létesítmény kilátást nyújt a Burao legelőin áthaladó forgalmas közlekedésre.",
+                  "category": "natural",
+                  "coords": [
+                        45.539084,
+                        9.518526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faisal home",
+                  "text": "Acest reper rezidențial tradițional reflectă stilul arhitectural local al pășunilor din Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.522875,
+                        9.532713
+                  ]
+            },
+            {
+                  "name": "Geerashka faluuja",
+                  "text": "Acest garaj comercial și atracție locală este un centru esențial pentru călătorii care traversează regiunea Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530185,
+                        9.527596
+                  ]
+            },
+            {
+                  "name": "Havoyoco",
+                  "text": "Acest reper organizațional face parte din structura civică ce susține stilul de viață pastoral al comunității din Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528464,
+                        9.529472
+                  ]
+            },
+            {
+                  "name": "Hafa yoko",
+                  "text": "Un loc comunitar distinct, situat în mijlocul vieții de zi cu zi dinamice din zona de pășuni Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.526744,
+                        9.530607
+                  ]
+            },
+            {
+                  "name": "Salama check ing point",
+                  "text": "Acest punct de control rutier acționează ca un marcaj de tranzit proeminent pentru traficul care intră în pășunile Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528129,
+                        9.528323
+                  ]
+            },
+            {
+                  "name": "Masjidka bilaal",
+                  "text": "Această moschee comunitară are un minaret distinct și servește drept loc de adunare spirituală pentru localnicii din Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530851,
+                        9.526647
+                  ]
+            },
+            {
+                  "name": "Cayngal",
+                  "text": "Un punct de adunare local recunoscut care întruchipează moștenirea rurală și pastorală a zonei Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.531915,
+                        9.525539
+                  ]
+            },
+            {
+                  "name": "Dalwanaaje hotel",
+                  "text": "Acest hotel regional oferă un loc de odihnă și ospitalitate călătorilor care explorează districtele de pășuni din Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533444,
+                        9.524931
+                  ]
+            },
+            {
+                  "name": "Laki cabdi maydhane ( ENG:Shibiin )",
+                  "text": "Un punct de observație întins, care oferă vederi panoramice ale pășunilor însorite din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.534976,
+                        9.528036
+                  ]
+            },
+            {
+                  "name": "Soofe hotel",
+                  "text": "O unitate de cazare stabilită la nivel local, care iese în evidență pe câmpiile plate ale peisajului Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.535632,
+                        9.529197
+                  ]
+            },
+            {
+                  "name": "Local government burcao",
+                  "text": "Complexul administrativ cu ziduri din Burao se ocupă de guvernarea municipală a acestui oraș pastoral dinamic.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534274,
+                        9.529103
+                  ]
+            },
+            {
+                  "name": "Biriijka burco old",
+                  "text": "Acest pod istoric a servit odinioară drept punct de trecere principal peste albiile sezoniere ale orașului Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534591,
+                        9.530886
+                  ]
+            },
+            {
+                  "name": "Cantrol burco",
+                  "text": "Un punct cheie de control al tranzitului care monitorizează fluxul de mărfuri și persoane care intră în limitele rurale ale orașului Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533064,
+                        9.555405
+                  ]
+            },
+            {
+                  "name": "kaantaroolka burco",
+                  "text": "Acest punct de observație de lângă punctul de control al orașului permite călătorilor să supravegheze câmpiile prăfuite care se apropie de Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.502157,
+                        9.598156
+                  ]
+            },
+            {
+                  "name": "waasac fuel station burco. by eng shibiin",
+                  "text": "Această facilitate rutieră ridicată oferă un punct de observație asupra traficului aglomerat care traversează rutele pășunilor din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.539084,
+                        9.518526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faisal home",
+                  "text": "This traditional residential landmark reflects the local architectural style of the Burao pasturelands.",
+                  "category": "landmark",
+                  "coords": [
+                        45.522875,
+                        9.532713
+                  ]
+            },
+            {
+                  "name": "Geerashka faluuja",
+                  "text": "This local commercial garage and attraction is an essential hub for travelers navigating the Burao region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530185,
+                        9.527596
+                  ]
+            },
+            {
+                  "name": "Havoyoco",
+                  "text": "This organizational landmark is part of the civic fabric supporting the Burao community's pastoral lifestyle.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528464,
+                        9.529472
+                  ]
+            },
+            {
+                  "name": "Hafa yoko",
+                  "text": "A distinct community spot situated amidst the dynamic daily life of the Burao pasture zone.",
+                  "category": "landmark",
+                  "coords": [
+                        45.526744,
+                        9.530607
+                  ]
+            },
+            {
+                  "name": "Salama check ing point",
+                  "text": "This roadside checkpoint acts as a prominent transit marker for traffic entering the Burao pasturelands.",
+                  "category": "landmark",
+                  "coords": [
+                        45.528129,
+                        9.528323
+                  ]
+            },
+            {
+                  "name": "Masjidka bilaal",
+                  "text": "This community mosque features a distinct minaret and serves as a spiritual gathering place for the locals of Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.530851,
+                        9.526647
+                  ]
+            },
+            {
+                  "name": "Cayngal",
+                  "text": "A recognized local gathering point that embodies the rural, pastoral heritage of the Burao area.",
+                  "category": "landmark",
+                  "coords": [
+                        45.531915,
+                        9.525539
+                  ]
+            },
+            {
+                  "name": "Dalwanaaje hotel",
+                  "text": "This regional hotel offers a place of rest and hospitality for travelers exploring the Burao pasture districts.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533444,
+                        9.524931
+                  ]
+            },
+            {
+                  "name": "Laki cabdi maydhane ( ENG:Shibiin )",
+                  "text": "An expansive observation point offering sweeping views of the sunbaked Burao pasturelands.",
+                  "category": "natural",
+                  "coords": [
+                        45.534976,
+                        9.528036
+                  ]
+            },
+            {
+                  "name": "Soofe hotel",
+                  "text": "A locally established accommodation that stands out against the flat plains of the Burao landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        45.535632,
+                        9.529197
+                  ]
+            },
+            {
+                  "name": "Local government burcao",
+                  "text": "The walled administrative compound of Burao handles the municipal governance of this dynamic pastoral city.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534274,
+                        9.529103
+                  ]
+            },
+            {
+                  "name": "Biriijka burco old",
+                  "text": "This historic structural bridge once served as a primary crossing over the seasonal riverbeds of Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.534591,
+                        9.530886
+                  ]
+            },
+            {
+                  "name": "Cantrol burco",
+                  "text": "A key transit checkpoint that monitors the flow of goods and people entering the rural limits of Burao.",
+                  "category": "landmark",
+                  "coords": [
+                        45.533064,
+                        9.555405
+                  ]
+            },
+            {
+                  "name": "kaantaroolka burco",
+                  "text": "This observation spot near the city's control point allows travelers to survey the dusty plains approaching Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.502157,
+                        9.598156
+                  ]
+            },
+            {
+                  "name": "waasac fuel station burco. by eng shibiin",
+                  "text": "This elevated roadside facility offers a vantage point over the bustling traffic traversing the Burao pasture routes.",
+                  "category": "natural",
+                  "coords": [
+                        45.539084,
+                        9.518526
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SO-TO",
     coords: [45.5333, 9.5167],
@@ -1047,7 +2802,88 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     },
   },
   {
-    id: "berbera-park-life-v2",
+    id: "berbera-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baathela Beach",
+                  "text": "Der Baathela Beach bietet einen sandigen Küstenabschnitt am Golf von Aden in Berbera.",
+                  "category": "recreational",
+                  "coords": [
+                        45.030344,
+                        10.465954
+                  ]
+            },
+            {
+                  "name": "TLS BERBERA F/PLACE",
+                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick über die Hafenstadt Berbera und die umliegende Küste.",
+                  "category": "natural",
+                  "coords": [
+                        45.03636,
+                        10.465934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baathela Beach",
+                  "text": "A Baathela Beach homokos tengerparti szakaszt kínál az Ádeni-öböl mentén Berberában.",
+                  "category": "recreational",
+                  "coords": [
+                        45.030344,
+                        10.465954
+                  ]
+            },
+            {
+                  "name": "TLS BERBERA F/PLACE",
+                  "text": "Ez a kilátó panorámás kilátást nyújt Berbera kikötővárosára és a környező tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        45.03636,
+                        10.465934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baathela Beach",
+                  "text": "Plaja Baathela oferă o întindere de coastă cu nisip de-a lungul Golfului Aden din Berbera.",
+                  "category": "recreational",
+                  "coords": [
+                        45.030344,
+                        10.465954
+                  ]
+            },
+            {
+                  "name": "TLS BERBERA F/PLACE",
+                  "text": "Acest punct de belvedere oferă priveliști panoramice asupra orașului-port Berbera și a coastei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        45.03636,
+                        10.465934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baathela Beach",
+                  "text": "Baathela Beach offers a sandy coastal stretch along the Gulf of Aden in Berbera.",
+                  "category": "recreational",
+                  "coords": [
+                        45.030344,
+                        10.465954
+                  ]
+            },
+            {
+                  "name": "TLS BERBERA F/PLACE",
+                  "text": "This viewpoint offers panoramic vistas over the port city of Berbera and the surrounding coastline.",
+                  "category": "natural",
+                  "coords": [
+                        45.03636,
+                        10.465934
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SO-SA",
     coords: [45.0333, 10.4500],

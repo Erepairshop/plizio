@@ -39,7 +39,124 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "murchison-falls-life-v2",
+    id: "murchison-falls-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kabarega Falls",
+                  "text": "Die Kabarega Falls, die den Victoria-Nil kraftvoll durch eine schmale Schlucht zwängen, sind die spektakuläre namensgebende Attraktion des Murchison Falls National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        31.685853,
+                        2.278463
+                  ]
+            },
+            {
+                  "name": "Parking lot at Murchison falls",
+                  "text": "Dieser ausgewiesene Parkplatz dient als Hauptausgangspunkt für Besucher, die die dramatischen Wanderwege rund um die Murchison Falls erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.68697,
+                        2.277602
+                  ]
+            },
+            {
+                  "name": "Baker's Point",
+                  "text": "Baker's Point ist ein historischer felsiger Aussichtspunkt in der Nähe der Murchison Falls, der nach Sir Samuel Baker benannt ist und unglaubliche Ausblicke auf das tosende Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.682811,
+                        2.276685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kabarega Falls",
+                  "text": "A Viktória-Nílust egy szűk szurdokon erőteljesen átpréselő Kabarega-vízesés a Murchison-vízesés Nemzeti Park látványos névadó látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        31.685853,
+                        2.278463
+                  ]
+            },
+            {
+                  "name": "Parking lot at Murchison falls",
+                  "text": "Ez a kijelölt parkoló szolgál elsődleges kiindulópontként a Murchison-vízesés körüli drámai ösvényeket felfedező látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        31.68697,
+                        2.277602
+                  ]
+            },
+            {
+                  "name": "Baker's Point",
+                  "text": "A Baker's Point egy történelmi sziklás kilátó a Murchison-vízesés közelében, amelyet Sir Samuel Bakerről neveztek el, és hihetetlen kilátást nyújt a zúgó vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        31.682811,
+                        2.276685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kabarega Falls",
+                  "text": "Cascada Kabarega, care forțează cu putere Nilul Victoria printr-un defileu îngust, este atracția spectaculoasă care dă numele Parcului Național Murchison Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        31.685853,
+                        2.278463
+                  ]
+            },
+            {
+                  "name": "Parking lot at Murchison falls",
+                  "text": "Această parcare desemnată servește drept punct principal de plecare pentru vizitatorii care explorează traseele dramatice din jurul cascadei Murchison.",
+                  "category": "landmark",
+                  "coords": [
+                        31.68697,
+                        2.277602
+                  ]
+            },
+            {
+                  "name": "Baker's Point",
+                  "text": "Baker's Point este un punct istoric de belvedere stâncos, situat lângă cascada Murchison și numit după Sir Samuel Baker, oferind vederi incredibile asupra apelor zgomotoase.",
+                  "category": "natural",
+                  "coords": [
+                        31.682811,
+                        2.276685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kabarega Falls",
+                  "text": "Kabarega Falls, powerfully forcing the Victoria Nile through a narrow gorge, is the spectacular namesake attraction of Murchison Falls National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        31.685853,
+                        2.278463
+                  ]
+            },
+            {
+                  "name": "Parking lot at Murchison falls",
+                  "text": "This designated parking lot serves as the primary starting point for visitors exploring the dramatic trails around Murchison Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        31.68697,
+                        2.277602
+                  ]
+            },
+            {
+                  "name": "Baker's Point",
+                  "text": "Baker's Point is a historic rocky viewpoint near Murchison Falls named after Sir Samuel Baker, offering incredible views of the roaring waters.",
+                  "category": "natural",
+                  "coords": [
+                        31.682811,
+                        2.276685
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [31.6833, 2.275],
@@ -147,7 +264,268 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "lake-mburo-life-v2",
+    id: "lake-mburo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kingfisher campsite",
+                  "text": "Ein rustikaler Campingplatz in der vielfältigen Savannen- und Feuchtgebietsumgebung des Lake Mburo, ideal für Naturliebhaber.",
+                  "category": "landmark",
+                  "coords": [
+                        30.945414,
+                        -0.668831
+                  ]
+            },
+            {
+                  "name": "LAKE MBURO - Sanga Park Entrance",
+                  "text": "Dies ist eines der Haupteingangstore, das Zugang zur reichen Tierwelt und der malerischen Savanne des Lake Mburo Nationalparks bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.930529,
+                        -0.599652
+                  ]
+            },
+            {
+                  "name": "African buffalo",
+                  "text": "Die Sichtung des beeindruckenden afrikanischen Büffels ist ein Höhepunkt der Tierbeobachtung in den vielfältigen Ökosystemen rund um den Lake Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.957258,
+                        -0.655703
+                  ]
+            },
+            {
+                  "name": "Lake Mburo quad biking",
+                  "text": "Diese Attraktion bietet eine abenteuerliche Möglichkeit, die rauen Savannenpfade zu erkunden und der Tierwelt rund um den Lake Mburo auf einem Quad zu begegnen.",
+                  "category": "landmark",
+                  "coords": [
+                        30.953091,
+                        -0.63771
+                  ]
+            },
+            {
+                  "name": "Goliath heron",
+                  "text": "Die ausgedehnten Feuchtgebiete des Lake Mburo bieten hervorragende Möglichkeiten, den riesigen Goliathreiher, den größten lebenden Reiher der Welt, zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.924205,
+                        -0.679636
+                  ]
+            },
+            {
+                  "name": "Reed cormorant",
+                  "text": "Der Riedscharbe, der oft beim Fischen oder Trocknen seiner Flügel beobachtet werden kann, ist ein häufiger Wasservogel in den Feuchtgebieten des Lake Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925943,
+                        -0.681263
+                  ]
+            },
+            {
+                  "name": "Shoebill",
+                  "text": "Der schwer fassbare und prähistorisch anmutende Schuhschnabel-Storch kann manchmal bei der Jagd in den dichten, sumpfigen Randgebieten des Lake Mburo gesichtet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925963,
+                        -0.683087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kingfisher campsite",
+                  "text": "A Mburo-tó változatos szavannai és vizenyős környezetében található rusztikus kemping ideális a természet szerelmeseinek.",
+                  "category": "landmark",
+                  "coords": [
+                        30.945414,
+                        -0.668831
+                  ]
+            },
+            {
+                  "name": "LAKE MBURO - Sanga Park Entrance",
+                  "text": "Ez az egyik fő bejárati kapu, amely hozzáférést biztosít a Mburo-tó Nemzeti Park gazdag vadvilágához és festői szavannájához.",
+                  "category": "landmark",
+                  "coords": [
+                        30.930529,
+                        -0.599652
+                  ]
+            },
+            {
+                  "name": "African buffalo",
+                  "text": "A félelmetes afrikai kafferbivaly megpillantása a Mburo-tó körüli változatos ökoszisztémák vadvilág-megfigyelésének egyik fénypontja.",
+                  "category": "landmark",
+                  "coords": [
+                        30.957258,
+                        -0.655703
+                  ]
+            },
+            {
+                  "name": "Lake Mburo quad biking",
+                  "text": "Ez a látványosság kalandos módot kínál a zord szavannai ösvények felfedezésére és a Mburo-tó körüli vadvilág megfigyelésére quaddal.",
+                  "category": "landmark",
+                  "coords": [
+                        30.953091,
+                        -0.63771
+                  ]
+            },
+            {
+                  "name": "Goliath heron",
+                  "text": "A Mburo-tó kiterjedt vizenyős területei kiváló lehetőséget nyújtanak a hatalmas góliátgém, a világ legnagyobb élő gémfajának megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        30.924205,
+                        -0.679636
+                  ]
+            },
+            {
+                  "name": "Reed cormorant",
+                  "text": "A gyakran halászni lemerülő vagy szárnyait szárító afrikai kárókatona a Mburo-tó vizes élőhelyeinek gyakori vízimadara.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925943,
+                        -0.681263
+                  ]
+            },
+            {
+                  "name": "Shoebill",
+                  "text": "A rejtőzködő és őskori külsejű papucscsőrű madár néha megfigyelhető a Mburo-tó sűrű, mocsaras peremein vadászva.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925963,
+                        -0.683087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kingfisher campsite",
+                  "text": "Un camping rustic situat în mediul divers de savană și zonă umedă a Lacului Mburo, ideal pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        30.945414,
+                        -0.668831
+                  ]
+            },
+            {
+                  "name": "LAKE MBURO - Sanga Park Entrance",
+                  "text": "Aceasta este una dintre porțile principale de intrare care oferă acces la viața sălbatică bogată și savana pitorească a Parcului Național Lacul Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.930529,
+                        -0.599652
+                  ]
+            },
+            {
+                  "name": "African buffalo",
+                  "text": "Observarea formidabilului bivol african este un punct de atracție al vizionării faunei sălbatice în ecosistemele diverse din jurul Lacului Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.957258,
+                        -0.655703
+                  ]
+            },
+            {
+                  "name": "Lake Mburo quad biking",
+                  "text": "Această atracție oferă o modalitate plină de aventură de a explora traseele accidentate din savană și de a întâlni viața sălbatică în jurul Lacului Mburo cu un ATV.",
+                  "category": "landmark",
+                  "coords": [
+                        30.953091,
+                        -0.63771
+                  ]
+            },
+            {
+                  "name": "Goliath heron",
+                  "text": "Zonele umede extinse ale Lacului Mburo oferă oportunități excelente de a observa masivul stârc Goliat, cel mai mare stârc viu din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        30.924205,
+                        -0.679636
+                  ]
+            },
+            {
+                  "name": "Reed cormorant",
+                  "text": "Văzut adesea scufundându-se după pești sau uscându-și aripile, cormoranul african este o pasăre acvatică comună rezidentă în zonele umede ale Lacului Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925943,
+                        -0.681263
+                  ]
+            },
+            {
+                  "name": "Shoebill",
+                  "text": "Evazivul cocostârc cu aspect preistoric, Pasărea sabot, poate fi uneori observat vânând în marginile dense și mlăștinoase ale Lacului Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925963,
+                        -0.683087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingfisher campsite",
+                  "text": "A rustic campsite situated within the diverse savanna and wetland environment of Lake Mburo, ideal for nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        30.945414,
+                        -0.668831
+                  ]
+            },
+            {
+                  "name": "LAKE MBURO - Sanga Park Entrance",
+                  "text": "This is one of the primary entry gates providing access to the rich wildlife and scenic savanna of Lake Mburo National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        30.930529,
+                        -0.599652
+                  ]
+            },
+            {
+                  "name": "African buffalo",
+                  "text": "Spotting the formidable African buffalo is a highlight of wildlife viewing in the diverse ecosystems surrounding Lake Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.957258,
+                        -0.655703
+                  ]
+            },
+            {
+                  "name": "Lake Mburo quad biking",
+                  "text": "This attraction offers an adventurous way to explore the rugged savanna trails and encounter wildlife around Lake Mburo on a quad bike.",
+                  "category": "landmark",
+                  "coords": [
+                        30.953091,
+                        -0.63771
+                  ]
+            },
+            {
+                  "name": "Goliath heron",
+                  "text": "The extensive wetlands of Lake Mburo provide excellent opportunities to observe the massive Goliath heron, the world's largest living heron.",
+                  "category": "landmark",
+                  "coords": [
+                        30.924205,
+                        -0.679636
+                  ]
+            },
+            {
+                  "name": "Reed cormorant",
+                  "text": "Often seen diving for fish or drying its wings, the reed cormorant is a common aquatic bird resident in the Lake Mburo wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925943,
+                        -0.681263
+                  ]
+            },
+            {
+                  "name": "Shoebill",
+                  "text": "The elusive and prehistoric-looking shoebill stork can sometimes be spotted hunting in the dense, swampy margins of Lake Mburo.",
+                  "category": "landmark",
+                  "coords": [
+                        30.925963,
+                        -0.683087
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-KI",
     coords: [30.9333, -0.6],
@@ -183,7 +561,88 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "kidepo-valley-life-v2",
+    id: "kidepo-valley-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chief Warden's House",
+                  "text": "Erkunden Sie die verwitterten Ruinen des Hauses des Chefwildhüters, die einen Einblick in die frühe Parkverwaltung des Kidepo-Tals bieten.",
+                  "category": "historical",
+                  "coords": [
+                        33.729789,
+                        3.737612
+                  ]
+            },
+            {
+                  "name": "Nataba Gate to KNP",
+                  "text": "Das Nataba-Tor dient als offizieller Eingang und heißt Besucher in der rauen Wildnis des Kidepo-Nationalparks willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        33.819694,
+                        3.686484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chief Warden's House",
+                  "text": "Fedezze fel a fővadőr házának romjait, amelyek bepillantást engednek a Kidepo-völgy korai parkigazgatásába.",
+                  "category": "historical",
+                  "coords": [
+                        33.729789,
+                        3.737612
+                  ]
+            },
+            {
+                  "name": "Nataba Gate to KNP",
+                  "text": "A Nataba-kapu hivatalos belépési pontként szolgál, amely a Kidepo Nemzeti Park zord vadonjába fogadja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        33.819694,
+                        3.686484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chief Warden's House",
+                  "text": "Explorați ruinele casei rangerului șef, care oferă o perspectivă asupra administrației timpurii a parcului din Kidepo Valley.",
+                  "category": "historical",
+                  "coords": [
+                        33.729789,
+                        3.737612
+                  ]
+            },
+            {
+                  "name": "Nataba Gate to KNP",
+                  "text": "Poarta Nataba servește drept punct oficial de intrare, întâmpinând vizitatorii în sălbăticia accidentată a Parcului Național Kidepo.",
+                  "category": "landmark",
+                  "coords": [
+                        33.819694,
+                        3.686484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chief Warden's House",
+                  "text": "Explore the weathered ruins of the Chief Warden's House, offering a glimpse into the early park administration of Kidepo Valley.",
+                  "category": "historical",
+                  "coords": [
+                        33.729789,
+                        3.737612
+                  ]
+            },
+            {
+                  "name": "Nataba Gate to KNP",
+                  "text": "The Nataba Gate serves as an official entry point, welcoming visitors to the rugged wilderness of Kidepo National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        33.819694,
+                        3.686484
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-KA",
     coords: [33.7833, 3.7333],
@@ -219,7 +678,88 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "ngamba-island-life-v2",
+    id: "ngamba-island-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "One Minute South Beach",
+                  "text": "Ein malerisches Seeufer-Resort an den sandigen Ufern des Victoriasees.",
+                  "category": "recreational",
+                  "coords": [
+                        32.655644,
+                        -0.018946
+                  ]
+            },
+            {
+                  "name": "House Residential",
+                  "text": "Ein ruhiges Wohngebiet am Strand, das friedliche Ausblicke über den Victoriasee bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.583253,
+                        0.093707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "One Minute South Beach",
+                  "text": "Egy festői tóparti üdülőhely a Viktória-tó homokos partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        32.655644,
+                        -0.018946
+                  ]
+            },
+            {
+                  "name": "House Residential",
+                  "text": "Egy nyugodt lakónegyedi strandszakasz, amely békés kilátást nyújt a Viktória-tóra.",
+                  "category": "recreational",
+                  "coords": [
+                        32.583253,
+                        0.093707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "One Minute South Beach",
+                  "text": "O stațiune pitorească pe malul lacului, pe țărmurile nisipoase ale Lacului Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.655644,
+                        -0.018946
+                  ]
+            },
+            {
+                  "name": "House Residential",
+                  "text": "O zonă rezidențială liniștită pe plajă, oferind priveliști pașnice asupra Lacului Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.583253,
+                        0.093707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "One Minute South Beach",
+                  "text": "A scenic lakeside resort area on the sandy shores of Lake Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.655644,
+                        -0.018946
+                  ]
+            },
+            {
+                  "name": "House Residential",
+                  "text": "A tranquil residential beach area offering serene views over Lake Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.583253,
+                        0.093707
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-KI",
     coords: [32.65, 0.05],
@@ -291,7 +831,232 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "rwenzori-mountains-life-v2",
+    id: "rwenzori-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cagni",
+                  "text": "Der abgelegene Cagni-Gipfel ist Teil des zerklüfteten Rwenzori-Gebirges und zeichnet sich durch sein steiles, felsiges alpines Terrain aus.",
+                  "category": "natural",
+                  "coords": [
+                        29.92032,
+                        0.35862
+                  ]
+            },
+            {
+                  "name": "Rukenga",
+                  "text": "Der felsige Rukenga-Gipfel erhebt sich markant in der nebelverhangenen, vergletscherten Landschaft des Rwenzori-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        29.929579,
+                        0.319583
+                  ]
+            },
+            {
+                  "name": "Sella",
+                  "text": "Der Sella Peak ist ein beeindruckender vergletscherter Gipfel in der hochgelegenen afro-alpinen Zone des Rwenzori-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        29.891237,
+                        0.33287
+                  ]
+            },
+            {
+                  "name": "Wollaston",
+                  "text": "Der Wollaston Peak ist ein imposanter Bergrücken inmitten der seltenen Riesenlobelien des Rwenzori-Hochlandes.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.364542
+                  ]
+            },
+            {
+                  "name": "Moore",
+                  "text": "Dieser hoch aufragende Alpengipfel ist nach einem prominenten frühen Entdecker der rauen, eisigen Gipfel des Rwenzori-Massivs benannt.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.367203
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "Der Edward Peak in der Rwenzori-Kette zeichnet sich durch einen anspruchsvollen, eisbedeckten Zustieg aus, der technisches Klettern erfordert.",
+                  "category": "natural",
+                  "coords": [
+                        29.892856,
+                        0.361795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cagni",
+                  "text": "A zord Rwenzori-hegység részét képező távoli Cagni-csúcsot meredek, sziklás alpesi terep jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        29.92032,
+                        0.35862
+                  ]
+            },
+            {
+                  "name": "Rukenga",
+                  "text": "A sziklás Rukenga-csúcs kiemelkedik a Rwenzori-hegység ködbe burkolózó, eljegesedett tájából.",
+                  "category": "natural",
+                  "coords": [
+                        29.929579,
+                        0.319583
+                  ]
+            },
+            {
+                  "name": "Sella",
+                  "text": "A Sella-csúcs egy félelmetes, eljegesedett hegycsúcs a Rwenzori magasan fekvő afro-alpesi övezetében.",
+                  "category": "natural",
+                  "coords": [
+                        29.891237,
+                        0.33287
+                  ]
+            },
+            {
+                  "name": "Wollaston",
+                  "text": "A Wollaston-csúcs egy impozáns hegygerinc a Rwenzori-felföld ritka óriás lobéliái között.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.364542
+                  ]
+            },
+            {
+                  "name": "Moore",
+                  "text": "Ezt a magasba tornyosuló alpesi csúcsot a Rwenzori-masszívum zord, jeges csúcsainak egyik kiemelkedő korai felfedezőjéről nevezték el.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.367203
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "A Rwenzori-hegységben található Edward-csúcs kihívást jelentő, jéggel borított megközelítése technikai hegymászó tudást igényel.",
+                  "category": "natural",
+                  "coords": [
+                        29.892856,
+                        0.361795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cagni",
+                  "text": "Făcând parte din lanțul accidentat Rwenzori, vârful izolat Cagni este caracterizat de terenul său alpin stâncos și abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        29.92032,
+                        0.35862
+                  ]
+            },
+            {
+                  "name": "Rukenga",
+                  "text": "Vârful stâncos Rukenga se înalță proeminent în peisajul glaciar și învăluit în ceață al Munților Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.929579,
+                        0.319583
+                  ]
+            },
+            {
+                  "name": "Sella",
+                  "text": "Vârful Sella reprezintă o culme glaciară formidabilă în zona afro-alpină de mare altitudine a munților Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.891237,
+                        0.33287
+                  ]
+            },
+            {
+                  "name": "Wollaston",
+                  "text": "Vârful Wollaston este o creastă montană impunătoare, situată printre rarele lobelii uriașe din zonele înalte ale munților Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.364542
+                  ]
+            },
+            {
+                  "name": "Moore",
+                  "text": "Acest vârf alpin impunător poartă numele unui explorator proeminent al culmilor aspre și înghețate ale masivului Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.367203
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "Vârful Edward prezintă un traseu de acces acoperit de gheață și plin de provocări, care necesită abilități tehnice de alpinism în munții Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.892856,
+                        0.361795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cagni",
+                  "text": "Part of the rugged Rwenzori range, the remote Cagni peak is characterized by its steep, rocky alpine terrain.",
+                  "category": "natural",
+                  "coords": [
+                        29.92032,
+                        0.35862
+                  ]
+            },
+            {
+                  "name": "Rukenga",
+                  "text": "The rocky Rukenga peak rises prominently within the mist-shrouded, glaciated landscape of the Rwenzori Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        29.929579,
+                        0.319583
+                  ]
+            },
+            {
+                  "name": "Sella",
+                  "text": "Sella Peak stands as a formidable glaciated summit within the high-altitude afro-alpine zone of the Rwenzoris.",
+                  "category": "natural",
+                  "coords": [
+                        29.891237,
+                        0.33287
+                  ]
+            },
+            {
+                  "name": "Wollaston",
+                  "text": "Wollaston Peak is an imposing mountainous crest set amid the rare giant lobelia plants of the Rwenzori highlands.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.364542
+                  ]
+            },
+            {
+                  "name": "Moore",
+                  "text": "This towering alpine peak is named for a prominent early explorer of the harsh, icy summits of the Rwenzori massif.",
+                  "category": "natural",
+                  "coords": [
+                        29.910021,
+                        0.367203
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "Edward Peak features a challenging, ice-covered approach demanding technical climbing skills within the Rwenzori range.",
+                  "category": "natural",
+                  "coords": [
+                        29.892856,
+                        0.361795
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-KA",
     coords: [29.8833, 0.3833],
@@ -327,7 +1092,88 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "semuliki-life-v2",
+    id: "semuliki-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sempaya Hot Springs (female)",
+                  "text": "Diese kochende Thermalquelle in Semuliki, die als „weibliche“ Quelle bekannt ist, wird traditionell mit weiblichen Ahnengeistern in Verbindung gebracht.",
+                  "category": "landmark",
+                  "coords": [
+                        30.165564,
+                        0.835282
+                  ]
+            },
+            {
+                  "name": "Sempaya Hot Springs (male)",
+                  "text": "Die „männliche“ heiße Quelle verfügt über einen dampfenden geothermischen Ausfluss, der über einen Pfad durch einen üppigen Palmenwald erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        30.162922,
+                        0.833098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sempaya Hot Springs (female)",
+                  "text": "A Semuliki „női” forrásaként ismert forró vizű geotermikus medencét a hagyomány a női ősök szellemeivel hozza összefüggésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        30.165564,
+                        0.835282
+                  ]
+            },
+            {
+                  "name": "Sempaya Hot Springs (male)",
+                  "text": "A „férfi” hőforrás gőzölgő geotermikus kitörése egy buja pálmaerdőn keresztül vezető ösvényen érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        30.162922,
+                        0.833098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sempaya Hot Springs (female)",
+                  "text": "Cunoscut ca izvorul „feminin”, acest bazin geotermal clocotitor din Semuliki este asociat în mod tradițional cu spiritele ancestrale feminine.",
+                  "category": "landmark",
+                  "coords": [
+                        30.165564,
+                        0.835282
+                  ]
+            },
+            {
+                  "name": "Sempaya Hot Springs (male)",
+                  "text": "Izvorul termal „masculin” prezintă o gură geotermală aburindă, accesibilă printr-o potecă ce străbate o pădure luxuriantă de palmieri.",
+                  "category": "landmark",
+                  "coords": [
+                        30.162922,
+                        0.833098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sempaya Hot Springs (female)",
+                  "text": "Known as the \"female\" spring, this boiling geothermal pool in Semuliki is traditionally associated with female ancestral spirits.",
+                  "category": "landmark",
+                  "coords": [
+                        30.165564,
+                        0.835282
+                  ]
+            },
+            {
+                  "name": "Sempaya Hot Springs (male)",
+                  "text": "The \"male\" hot spring features a steaming geothermal spout accessed by a trail through a lush palm forest.",
+                  "category": "landmark",
+                  "coords": [
+                        30.162922,
+                        0.833098
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [30.1333, 0.7833],
@@ -363,7 +1209,52 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "tororo-rock-kid-life-v2",
+    id: "tororo-rock-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tororo Rock",
+                  "text": "Dieser markante Vulkankegel, der steil aus den umliegenden Ebenen aufragt, dominiert die lokale Skyline und wird von Telekommunikationsmasten gekrönt.",
+                  "category": "natural",
+                  "coords": [
+                        34.183446,
+                        0.685239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tororo Rock",
+                  "text": "A környező síkságokból meredeken kiemelkedő, hatalmas vulkáni kúp uralja a helyi látképet, a csúcsát pedig távközlési árbocok hálózata koronázza.",
+                  "category": "natural",
+                  "coords": [
+                        34.183446,
+                        0.685239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tororo Rock",
+                  "text": "Ridicându-se abrupt din câmpiile înconjurătoare, acest dop vulcanic proeminent domină orizontul local și este încoronat de catarge de telecomunicații.",
+                  "category": "natural",
+                  "coords": [
+                        34.183446,
+                        0.685239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tororo Rock",
+                  "text": "Rising steeply from the surrounding plains, this prominent volcanic plug dominates the local skyline and is crowned by a network of telecom masts.",
+                  "category": "natural",
+                  "coords": [
+                        34.183446,
+                        0.685239
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "UG-TO",
     coords: [34.18, 0.69],
@@ -435,7 +1326,52 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "coffee-region-elgon-life-v2",
+    id: "coffee-region-elgon-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bulucheke",
+                  "text": "Diese hoch gelegene Aussichtsstation bietet weitreichende Ausblicke auf die terrassierten Kaffeeplantagen an den Hängen des Mount Elgon.",
+                  "category": "natural",
+                  "coords": [
+                        34.369024,
+                        1.045356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bulucheke",
+                  "text": "Ez a magasan fekvő kilátóállomás pazar kilátást nyújt a Mount Elgon lejtőin elterülő teraszos kávéültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        34.369024,
+                        1.045356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bulucheke",
+                  "text": "Această stație de observare la mare altitudine oferă perspective ample asupra plantațiilor de cafea terasate de pe pantele Muntelui Elgon.",
+                  "category": "natural",
+                  "coords": [
+                        34.369024,
+                        1.045356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bulucheke (BULU 001)",
+                  "text": "This high-altitude viewing station provides sweeping perspectives over the lush, terraced coffee plantations clinging to the slopes of Mount Elgon.",
+                  "category": "natural",
+                  "coords": [
+                        34.369024,
+                        1.045356
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UG-MA",
     coords: [34.4, 1.1],
@@ -471,7 +1407,52 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "tea-plantations-tooro-life-v2",
+    id: "tea-plantations-tooro-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karangora",
+                  "text": "Der Karangora-Gipfel erhebt sich über die umliegende Landschaft und bietet einen weiten Blick über die örtlichen Teeplantagen.",
+                  "category": "natural",
+                  "coords": [
+                        30.122114,
+                        0.634152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karangora",
+                  "text": "A környező táj fölé magasodó Karangora-csúcsról messzire ellátni a helyi teaültetvények felett.",
+                  "category": "natural",
+                  "coords": [
+                        30.122114,
+                        0.634152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karangora",
+                  "text": "Ridicându-se deasupra peisajului înconjurător, vârful Karangora oferă vederi extinse asupra plantațiilor locale de ceai.",
+                  "category": "natural",
+                  "coords": [
+                        30.122114,
+                        0.634152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karangora",
+                  "text": "Rising above the surrounding landscape, the Karangora peak offers expansive views over the local tea plantations.",
+                  "category": "natural",
+                  "coords": [
+                        30.122114,
+                        0.634152
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UG-TO",
     coords: [30.2, 0.6],
@@ -507,7 +1488,124 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "sugar-plantations-jinja-life-v2",
+    id: "sugar-plantations-jinja-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Busoga Kingdom Palace House",
+                  "text": "Dieser stattliche Wohnpalast in der Gegend von Jinja dient als wichtiges kulturelles Symbol des traditionellen Königreichs Busoga.",
+                  "category": "castle",
+                  "coords": [
+                        33.23233,
+                        0.483042
+                  ]
+            },
+            {
+                  "name": "RAILWAY MUSEUM",
+                  "text": "Das Uganda Railway Museum zeigt historische Lokomotiven und Waggons und dokumentiert die transformativen Auswirkungen der Eisenbahn auf Ostafrika.",
+                  "category": "museum",
+                  "coords": [
+                        33.218468,
+                        0.445351
+                  ]
+            },
+            {
+                  "name": "Niice place",
+                  "text": "Inmitten der weitläufigen Zuckerrohrplantagen in der Nähe von Jinja bietet dieser lokale Treffpunkt eine entspannte Atmosphäre umgeben von grünen Feldern.",
+                  "category": "landmark",
+                  "coords": [
+                        33.243901,
+                        0.438333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Busoga Kingdom Palace House",
+                  "text": "Ez a Jinja környéki impozáns lakópalota a hagyományos Busoga Királyság fontos kulturális szimbólumaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        33.23233,
+                        0.483042
+                  ]
+            },
+            {
+                  "name": "RAILWAY MUSEUM",
+                  "text": "A veterán mozdonyokat és történelmi vagonokat felvonultató Ugandai Vasúti Múzeum a vasút Kelet-Afrikára gyakorolt átalakító hatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.218468,
+                        0.445351
+                  ]
+            },
+            {
+                  "name": "Niice place",
+                  "text": "A Jinja melletti kiterjedt cukorültetvények között található helyi szórakozóhely nyugodt légkört kínál a zöldellő mezők ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.243901,
+                        0.438333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Busoga Kingdom Palace House",
+                  "text": "Acest palat rezidențial impunător din zona Jinja servește drept un important simbol cultural al Regatului tradițional Busoga.",
+                  "category": "castle",
+                  "coords": [
+                        33.23233,
+                        0.483042
+                  ]
+            },
+            {
+                  "name": "RAILWAY MUSEUM",
+                  "text": "Prezentând locomotive de epocă și vagoane istorice, Muzeul Căilor Ferate din Uganda documentează impactul transformator al căii ferate asupra Africii de Est.",
+                  "category": "museum",
+                  "coords": [
+                        33.218468,
+                        0.445351
+                  ]
+            },
+            {
+                  "name": "Niice place",
+                  "text": "Situat printre plantațiile întinse de trestie de zahăr din apropiere de Jinja, acest loc de întâlnire local oferă o atmosferă relaxantă înconjurat de câmpuri verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        33.243901,
+                        0.438333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Busoga Kingdom Palace House",
+                  "text": "This stately residential palace in the Jinja area serves as an important cultural symbol of the traditional Busoga Kingdom.",
+                  "category": "castle",
+                  "coords": [
+                        33.23233,
+                        0.483042
+                  ]
+            },
+            {
+                  "name": "RAILWAY MUSEUM",
+                  "text": "Showcasing vintage locomotives and historical carriages, the Uganda Railway Museum chronicles the transformative impact of the railway on East Africa.",
+                  "category": "museum",
+                  "coords": [
+                        33.218468,
+                        0.445351
+                  ]
+            },
+            {
+                  "name": "Niice place",
+                  "text": "Set among the sweeping sugar plantations near Jinja, this casual local hangout offers a relaxing atmosphere surrounded by green fields.",
+                  "category": "landmark",
+                  "coords": [
+                        33.243901,
+                        0.438333
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UG-BU",
     coords: [33.2, 0.45],
@@ -579,7 +1677,52 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "cocoa-plantations-life-v2",
+    id: "cocoa-plantations-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nturage",
+                  "text": "Ein bewaldeter Berggipfel, der in eine von regionalen Kakaoplantagen geprägte Landschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        30.292794,
+                        0.763495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nturage",
+                  "text": "Egy erdős hegycsúcs, amely egy regionális kakaóültetvények által uralt tájba ágyazódik.",
+                  "category": "natural",
+                  "coords": [
+                        30.292794,
+                        0.763495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nturage",
+                  "text": "Un vârf de munte împădurit situat într-un peisaj dominat de plantații regionale de cacao.",
+                  "category": "natural",
+                  "coords": [
+                        30.292794,
+                        0.763495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nturage",
+                  "text": "A forested mountain peak nestled in a landscape dominated by regional cocoa plantations.",
+                  "category": "natural",
+                  "coords": [
+                        30.292794,
+                        0.763495
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UG-BU",
     coords: [30.25, 0.8],
@@ -615,7 +1758,52 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "fish-farming-lake-life-v2",
+    id: "fish-farming-lake-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oguzulu Resort Beach and Campsite",
+                  "text": "Dieses Resort am Seeufer verfügt über einen Sandstrand und Campingmöglichkeiten im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        32.834328,
+                        0.156304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oguzulu Resort Beach and Campsite",
+                  "text": "A tóparton található üdülőhely homokos stranddal és szabadtéri kempingezési lehetőséggel várja vendégeit.",
+                  "category": "recreational",
+                  "coords": [
+                        32.834328,
+                        0.156304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oguzulu Resort Beach and Campsite",
+                  "text": "Situat pe malul lacului, acest complex are o zonă de plajă cu nisip și facilități de camping în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        32.834328,
+                        0.156304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oguzulu Resort Beach and Campsite",
+                  "text": "Located along the lakeside, this resort features a sandy beach area and outdoor camping facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        32.834328,
+                        0.156304
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UG-KI",
     coords: [32.8, 0.1],
@@ -903,7 +2091,52 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "chikwawa-sanctuary-life-v2",
+    id: "chikwawa-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukaleba Central Proposed National Park",
+                  "text": "Dieses vorgeschlagene Waldnaturschutzgebiet zielt darauf ab, die bewaldeten Hänge und Uferzonen am Viktoriasee zu bewahren.",
+                  "category": "natural",
+                  "coords": [
+                        33.384592,
+                        0.381572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukaleba Central Proposed National Park",
+                  "text": "Ennek a javasolt erdei természetvédelmi területnek a célja a Viktória-tó erdős lejtőinek és part menti zónáinak megőrzése.",
+                  "category": "natural",
+                  "coords": [
+                        33.384592,
+                        0.381572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukaleba Central Proposed National Park",
+                  "text": "Această rezervație naturală forestieră propusă are ca scop conservarea versanților împăduriți și a zonelor litorale de pe Lacul Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        33.384592,
+                        0.381572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukaleba Central Proposed National Park",
+                  "text": "This proposed forest nature reserve aims to conserve the wooded slopes and littoral zones along Lake Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        33.384592,
+                        0.381572
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [33.3, 0.4],
@@ -939,7 +2172,88 @@ export const poiExtraUgandaLifeV2: POI[] = [
     },
   },
   {
-    id: "budongo-forest-life-v2",
+    id: "budongo-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyabyeya Hill",
+                  "text": "Der Nyabyeya Hill ist eine landschaftlich reizvolle, erhöhte Naturattraktion in der Nähe des Budongo Forest, umgeben von dichten tropischen Wäldern.",
+                  "category": "landmark",
+                  "coords": [
+                        31.541804,
+                        1.673617
+                  ]
+            },
+            {
+                  "name": "Kirche Unserer Lieben Frau, Königin von Polen",
+                  "text": "Die katholische Kirche Our Lady Queen of Poland wurde während des Zweiten Weltkriegs auf bemerkenswerte Weise von polnischen Flüchtlingen in der Siedlung Nyabyeya erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        31.541431,
+                        1.67732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyabyeya Hill",
+                  "text": "A Nyabyeya-hegy egy festői magaslati természeti látványosság a Budongo-erdő közelében, sűrű trópusi erdőkkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        31.541804,
+                        1.673617
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Poland Catholic Church",
+                  "text": "A Lengyelország Királynője katolikus templomot figyelemre méltó módon a második világháború alatt építették lengyel menekültek a nyabyeyai településen.",
+                  "category": "religious",
+                  "coords": [
+                        31.541431,
+                        1.67732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyabyeya Hill",
+                  "text": "Nyabyeya Hill este o atracție naturală pitorească situată la înălțime lângă Pădurea Budongo, înconjurată de păduri tropicale dense.",
+                  "category": "landmark",
+                  "coords": [
+                        31.541804,
+                        1.673617
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Poland Catholic Church",
+                  "text": "Biserica Catolică Sfânta Fecioară Maria Regina Poloniei a fost construită în mod remarcabil de refugiații polonezi în timpul celui de-al Doilea Război Mondial, în așezarea Nyabyeya.",
+                  "category": "religious",
+                  "coords": [
+                        31.541431,
+                        1.67732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyabyeya Hill",
+                  "text": "Nyabyeya Hill is a scenic elevated natural attraction near the Budongo Forest, surrounded by dense tropical woodlands.",
+                  "category": "landmark",
+                  "coords": [
+                        31.541804,
+                        1.673617
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Poland Catholic Church",
+                  "text": "Our Lady Queen of Poland Catholic Church was remarkably built by Polish refugees during World War II in the Nyabyeya settlement.",
+                  "category": "religious",
+                  "coords": [
+                        31.541431,
+                        1.67732
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [31.5, 1.7],

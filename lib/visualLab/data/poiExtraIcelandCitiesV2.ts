@@ -251,7 +251,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Þjóðleikhúsið",
-                  "text": "Das Nationaltheater von Island ist eine führende Institution für darstellende Künste in Reykjavík.",
+                  "text": "1950 eröffnet, entworfen von Guðjón Samúelsson – das Nationaltheater Islands.",
                   "category": "cultural",
                   "coords": [
                         -21.931153,
@@ -260,7 +260,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Dómkirkjan",
-                  "text": "Die Domkirche von Reykjavík ist der Sitz des lutherischen Bischofs von Island.",
+                  "text": "Der Reykjavíker Dom, die Kathedrale von Reykjavík, wurde 1790 erbaut.",
                   "category": "religious",
                   "coords": [
                         -21.939331,
@@ -740,7 +740,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Þjóðleikhúsið",
-                  "text": "Az Izlandi Nemzeti Színház a színművészet vezető intézménye Reykjavíkban.",
+                  "text": "1950-ben nyitották meg, Guðjón Samúelsson tervezte – Izland Nemzeti Színháza.",
                   "category": "cultural",
                   "coords": [
                         -21.931153,
@@ -749,7 +749,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Dómkirkjan",
-                  "text": "Reykjavík székesegyháza az izlandi evangélikus püspök székhelye.",
+                  "text": "A Reykjavíki dóm 1790-ben épült.",
                   "category": "religious",
                   "coords": [
                         -21.939331,
@@ -1229,7 +1229,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Þjóðleikhúsið",
-                  "text": "Teatrul Național al Islandei este o instituție de top pentru artele spectacolului din Reykjavík.",
+                  "text": "Deschis în 1950, proiectat de Guðjón Samúelsson – Teatrul Național al Islandei.",
                   "category": "cultural",
                   "coords": [
                         -21.931153,
@@ -1238,7 +1238,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Dómkirkjan",
-                  "text": "Catedrala din Reykjavík este sediul episcopului lutheran al Islandei.",
+                  "text": "Catedrala din Reykjavík a fost construită în 1790.",
                   "category": "religious",
                   "coords": [
                         -21.939331,
@@ -1718,7 +1718,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "National Theatre of Iceland",
-                  "text": "The National Theatre of Iceland is a leading institution for performing arts in Reykjavík.",
+                  "text": "Opened in 1950, designed by architect Guðjón Samúelsson – the National Theatre of Iceland.",
                   "category": "cultural",
                   "coords": [
                         -21.931153,
@@ -1727,7 +1727,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Reykjavík Cathedral",
-                  "text": "Reykjavík Cathedral is the seat of the Lutheran Bishop of Iceland.",
+                  "text": "Reykjavík Cathedral was built in 1790.",
                   "category": "religious",
                   "coords": [
                         -21.939331,
@@ -2245,7 +2245,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Hjallakirkja",
-                  "text": "Eine lutherische Pfarrkirche in Kópavogur.",
+                  "text": "Die Hjallakirkja in Kopavogur wurde 1993 erbaut.",
                   "category": "religious",
                   "coords": [
                         -21.866068,
@@ -2679,7 +2679,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Hjallakirkja",
-                  "text": "Evangélikus plébániatemplom Kópavogurban.",
+                  "text": "A Hjallakirkja Kopavogurban 1993-ban épült.",
                   "category": "religious",
                   "coords": [
                         -21.866068,
@@ -3113,7 +3113,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Hjallakirkja",
-                  "text": "O biserică parohială luterană în Kópavogur.",
+                  "text": "Biserica Hjallakirkja din Kopavogur a fost construită în 1993.",
                   "category": "religious",
                   "coords": [
                         -21.866068,
@@ -3547,7 +3547,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Hjallakirkja",
-                  "text": "A Lutheran parish church in Kópavogur.",
+                  "text": "Hjallakirkja in Kopavogur was built in 1993.",
                   "category": "religious",
                   "coords": [
                         -21.866068,
@@ -5543,7 +5543,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Fríkirkjan í Hafnarfirði",
-                  "text": "Eine Freikirche in der Region Garðabær.",
+                  "text": "Die Fríkirkjan í Hafnarfirði, eine Freikirche, wurde 1913 erbaut.",
                   "category": "religious",
                   "coords": [
                         -21.954826,
@@ -5561,7 +5561,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Digraneskirkja",
-                  "text": "Eine moderne Kirche in Garðabær.",
+                  "text": "Die Digraneskirkja wurde 1994 erbaut.",
                   "category": "religious",
                   "coords": [
                         -21.886374,
@@ -5788,7 +5788,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Fríkirkjan í Hafnarfirði",
-                  "text": "Szabadtemplom Garðabær környékén.",
+                  "text": "A Fríkirkjan í Hafnarfirði, egy szabad egyház, 1913-ban épült.",
                   "category": "religious",
                   "coords": [
                         -21.954826,
@@ -5806,7 +5806,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Digraneskirkja",
-                  "text": "Modern templom Garðabærben.",
+                  "text": "A Digraneskirkja 1994-ben épült.",
                   "category": "religious",
                   "coords": [
                         -21.886374,
@@ -6033,7 +6033,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Fríkirkjan í Hafnarfirði",
-                  "text": "O biserică liberă în regiunea Garðabær.",
+                  "text": "Fríkirkjan í Hafnarfirði, o biserică liberă, a fost construită în 1913.",
                   "category": "religious",
                   "coords": [
                         -21.954826,
@@ -6051,7 +6051,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Digraneskirkja",
-                  "text": "O biserică modernă în Garðabær.",
+                  "text": "Biserica Digraneskirkja a fost construită în 1994.",
                   "category": "religious",
                   "coords": [
                         -21.886374,
@@ -6278,7 +6278,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Fríkirkjan í Hafnarfirði",
-                  "text": "A free church in the Garðabær area.",
+                  "text": "Fríkirkjan í Hafnarfirði, a free church, was built in 1913.",
                   "category": "religious",
                   "coords": [
                         -21.954826,
@@ -6296,7 +6296,7 @@ imageHint: "Keflavik harbor and rocky coastline",
             },
             {
                   "name": "Digraneskirkja",
-                  "text": "A modern church in Garðabær.",
+                  "text": "Digraneskirkja was built in 1994.",
                   "category": "religious",
                   "coords": [
                         -21.886374,

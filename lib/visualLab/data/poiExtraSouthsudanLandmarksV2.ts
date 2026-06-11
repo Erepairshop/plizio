@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthsudanLandmarksV2: POI[] = [
   {
-    id: "john-garang-mausoleum-landmarks-v2",
+    id: "john-garang-mausoleum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point of interes",
+                  "text": "Dieser Ort von Interesse befindet sich in der Nähe des Denkmals für den verstorbenen südsudanesischen Führer John Garang.",
+                  "category": "landmark",
+                  "coords": [
+                        31.589794,
+                        4.830921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point of interes",
+                  "text": "Ez az érdekes pont a néhai dél-szudáni vezető, John Garang emlékművének közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.589794,
+                        4.830921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point of interes",
+                  "text": "Acest punct de interes este situat lângă monumentul dedicat regretatului lider sud-sudanez John Garang.",
+                  "category": "landmark",
+                  "coords": [
+                        31.589794,
+                        4.830921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point of interes",
+                  "text": "This point of interest is situated near the monument dedicated to the late South Sudanese leader John Garang.",
+                  "category": "landmark",
+                  "coords": [
+                        31.589794,
+                        4.830921
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.583, 4.839],
@@ -51,7 +96,304 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "juba-stadium-landmarks-v2",
+    id: "juba-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Acces Gate",
+                  "text": "Ein primäres Eingangstor, das den Zugang in der Nähe des belebten Juba-Stadionkomplexes regelt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.594276,
+                        4.852137
+                  ]
+            },
+            {
+                  "name": "Back gate of SSCC",
+                  "text": "Der Hintereingang zum Gelände des Südsudanesischen Kirchenrates in der Nähe des Juba-Stadions.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59748,
+                        4.851551
+                  ]
+            },
+            {
+                  "name": "IGAD,Liason Office. Intergovernmental mental authority of development",
+                  "text": "Das Verbindungsbüro der Zwischenstaatlichen Behörde für Entwicklung in der Nähe des Juba-Stadions.",
+                  "category": "landmark",
+                  "coords": [
+                        31.597802,
+                        4.856379
+                  ]
+            },
+            {
+                  "name": "South Sudan Liberation Movement Youth League",
+                  "text": "Das Hauptquartier oder der Treffpunkt für den Jugendflügel der Befreiungsbewegung des Südsudans.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59564,
+                        4.866087
+                  ]
+            },
+            {
+                  "name": "JICA",
+                  "text": "Das örtliche Büro der japanischen Agentur für internationale Zusammenarbeit in der Nähe des Juba-Stadions.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595929,
+                        4.862622
+                  ]
+            },
+            {
+                  "name": "UNESCO Compound",
+                  "text": "Das sicher ummauerte lokale Gelände der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591549,
+                        4.86609
+                  ]
+            },
+            {
+                  "name": "Movcon Unmiss tomping",
+                  "text": "Das Bewegungs-Kontrollzentrum der UNMISS-Friedensmission auf der Tomping-Basis in der Nähe von Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596657,
+                        4.869998
+                  ]
+            },
+            {
+                  "name": "DO-PU.",
+                  "text": "Eine lokale Verwaltungs- oder Betriebseinrichtung in der Nähe des Juba-Stadions.",
+                  "category": "landmark",
+                  "coords": [
+                        31.593852,
+                        4.849897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acces Gate",
+                  "text": "Egy elsődleges bejárati kapu, amely a nyüzsgő jubai stadionkomplexumhoz közeli forgalmat szabályozza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.594276,
+                        4.852137
+                  ]
+            },
+            {
+                  "name": "Back gate of SSCC",
+                  "text": "A Dél-szudáni Egyházak Tanácsa épületegyüttesének hátsó bejárata a jubai stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59748,
+                        4.851551
+                  ]
+            },
+            {
+                  "name": "IGAD,Liason Office. Intergovernmental mental authority of development",
+                  "text": "A Kormányközi Fejlesztési Hatóság (IGAD) összekötő irodája a jubai stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.597802,
+                        4.856379
+                  ]
+            },
+            {
+                  "name": "South Sudan Liberation Movement Youth League",
+                  "text": "A Dél-szudáni Felszabadítási Mozgalom ifjúsági szárnyának székhelye vagy gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59564,
+                        4.866087
+                  ]
+            },
+            {
+                  "name": "JICA",
+                  "text": "A Japán Nemzetközi Együttműködési Ügynökség (JICA) helyi irodája a jubai stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595929,
+                        4.862622
+                  ]
+            },
+            {
+                  "name": "UNESCO Compound",
+                  "text": "Az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezetének biztonságosan körülvett helyi komplexuma.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591549,
+                        4.86609
+                  ]
+            },
+            {
+                  "name": "Movcon Unmiss tomping",
+                  "text": "Az UNMISS békefenntartó misszió mozgásirányító központja a Juba melletti Tomping bázison.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596657,
+                        4.869998
+                  ]
+            },
+            {
+                  "name": "DO-PU.",
+                  "text": "Helyi adminisztratív vagy operatív létesítmény a jubai stadion szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.593852,
+                        4.849897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acces Gate",
+                  "text": "O poartă principală de intrare care reglementează accesul în apropierea complexului plin de viață al Stadionului Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.594276,
+                        4.852137
+                  ]
+            },
+            {
+                  "name": "Back gate of SSCC",
+                  "text": "Intrarea din spate a complexului Consiliului Bisericilor din Sudanul de Sud de lângă Stadionul Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59748,
+                        4.851551
+                  ]
+            },
+            {
+                  "name": "IGAD,Liason Office. Intergovernmental mental authority of development",
+                  "text": "Biroul de legătură pentru Autoritatea Interguvernamentală pentru Dezvoltare situat lângă Stadionul Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.597802,
+                        4.856379
+                  ]
+            },
+            {
+                  "name": "South Sudan Liberation Movement Youth League",
+                  "text": "Sediul sau locul de adunare pentru aripa de tineret a Mișcării de Eliberare a Sudanului de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59564,
+                        4.866087
+                  ]
+            },
+            {
+                  "name": "JICA",
+                  "text": "Biroul local pentru Agenția Japoneză de Cooperare Internațională de lângă Stadionul Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595929,
+                        4.862622
+                  ]
+            },
+            {
+                  "name": "UNESCO Compound",
+                  "text": "Complexul local securizat al Organizației Națiunilor Unite pentru Educație, Știință și Cultură.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591549,
+                        4.86609
+                  ]
+            },
+            {
+                  "name": "Movcon Unmiss tomping",
+                  "text": "Centrul de control al mișcării pentru misiunea de menținere a păcii UNMISS la baza Tomping de lângă Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596657,
+                        4.869998
+                  ]
+            },
+            {
+                  "name": "DO-PU.",
+                  "text": "O facilitate administrativă sau operațională locală situată în vecinătatea Stadionului Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.593852,
+                        4.849897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acces Gate",
+                  "text": "A primary entry gate regulating access near the bustling Juba Stadium complex.",
+                  "category": "landmark",
+                  "coords": [
+                        31.594276,
+                        4.852137
+                  ]
+            },
+            {
+                  "name": "Back gate of SSCC",
+                  "text": "The rear entrance to the South Sudan Council of Churches compound near Juba Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59748,
+                        4.851551
+                  ]
+            },
+            {
+                  "name": "IGAD,Liason Office. Intergovernmental mental authority of development",
+                  "text": "The liaison office for the Intergovernmental Authority on Development located near Juba Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        31.597802,
+                        4.856379
+                  ]
+            },
+            {
+                  "name": "South Sudan Liberation Movement Youth League",
+                  "text": "The headquarters or gathering place for the youth wing of the South Sudan Liberation Movement.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59564,
+                        4.866087
+                  ]
+            },
+            {
+                  "name": "JICA",
+                  "text": "The local office for the Japan International Cooperation Agency near Juba Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595929,
+                        4.862622
+                  ]
+            },
+            {
+                  "name": "UNESCO Compound",
+                  "text": "The securely walled local compound for the United Nations Educational, Scientific and Cultural Organization.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591549,
+                        4.86609
+                  ]
+            },
+            {
+                  "name": "Movcon Unmiss tomping",
+                  "text": "The movement control center for the UNMISS peacekeeping mission at the Tomping base near Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596657,
+                        4.869998
+                  ]
+            },
+            {
+                  "name": "DO-PU.",
+                  "text": "A local administrative or operational facility situated in the vicinity of Juba Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        31.593852,
+                        4.849897
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.597, 4.854],
@@ -99,7 +441,52 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "freedom-bridge-juba-landmarks-v2",
+    id: "freedom-bridge-juba-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "King oul GAS station",
+                  "text": "Die Tankstelle King Oul ist ein moderner Tankstopp, der Dienstleistungen in der Nähe der Freiheitsbrücke in Juba anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612186,
+                        4.817498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King oul GAS station",
+                  "text": "A King Oul benzinkút egy modern tankolóhely, amely szolgáltatásokat nyújt a jubai Szabadság híd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612186,
+                        4.817498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King oul GAS station",
+                  "text": "Benzinăria King Oul este o oprire modernă de realimentare care oferă servicii în apropierea Podului Libertății din Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612186,
+                        4.817498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King oul GAS station",
+                  "text": "The King Oul gas station is a modern refuelling stop providing services near the Freedom Bridge in Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612186,
+                        4.817498
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.606, 4.819],
@@ -195,7 +582,88 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "all-saints-cathedral-juba-landmarks-v2",
+    id: "all-saints-cathedral-juba-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyakuron Cultural Center",
+                  "text": "Das Nyakuron Cultural Center ist ein lebendiges Museum und ein Ausstellungsraum, der das Erbe und die Künste des Südsudan feiert.",
+                  "category": "museum",
+                  "coords": [
+                        31.584771,
+                        4.845624
+                  ]
+            },
+            {
+                  "name": "Nyakuron Exhibition Center",
+                  "text": "Das Nyakuron Exhibition Center beherbergt verschiedene Kunstausstellungen und kulturelle Veranstaltungen, die lokale Traditionen in Juba präsentieren.",
+                  "category": "museum",
+                  "coords": [
+                        31.584711,
+                        4.842589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyakuron Cultural Center",
+                  "text": "A Nyakuron Kulturális Központ egy nyüzsgő múzeum és kiállítótér, amely a dél-szudáni örökséget és művészeteket ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        31.584771,
+                        4.845624
+                  ]
+            },
+            {
+                  "name": "Nyakuron Exhibition Center",
+                  "text": "A Nyakuron Kiállítási Központban különböző művészeti bemutatókat és kulturális eseményeket tartanak, amelyek a helyi hagyományokat mutatják be Jubában.",
+                  "category": "museum",
+                  "coords": [
+                        31.584711,
+                        4.842589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyakuron Cultural Center",
+                  "text": "Centrul Cultural Nyakuron este un muzeu vibrant și un spațiu expozițional care celebrează patrimoniul și artele din Sudanul de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        31.584771,
+                        4.845624
+                  ]
+            },
+            {
+                  "name": "Nyakuron Exhibition Center",
+                  "text": "Centrul Expozițional Nyakuron găzduiește diverse expoziții de artă și evenimente culturale care prezintă tradițiile locale în Juba.",
+                  "category": "museum",
+                  "coords": [
+                        31.584711,
+                        4.842589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyakuron Cultural Center",
+                  "text": "The Nyakuron Cultural Center is a vibrant museum and exhibition space celebrating South Sudanese heritage and arts.",
+                  "category": "museum",
+                  "coords": [
+                        31.584771,
+                        4.845624
+                  ]
+            },
+            {
+                  "name": "Nyakuron Exhibition Center",
+                  "text": "The Nyakuron Exhibition Center hosts various art displays and cultural events showcasing local traditions in Juba.",
+                  "category": "museum",
+                  "coords": [
+                        31.584711,
+                        4.842589
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.585, 4.845],
@@ -243,7 +711,160 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "juba-university-landmarks-v2",
+    id: "juba-university-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ministry of",
+                  "text": "Der offizielle Arbeitsplatz oder Wohnsitz, der mit dem Minister für Präsidialangelegenheiten in der Nähe der Universität Juba verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58354,
+                        4.851145
+                  ]
+            },
+            {
+                  "name": "WHO",
+                  "text": "Das örtliche Büro der Weltgesundheitsorganisation in der Nähe der Universität Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.585613,
+                        4.851793
+                  ]
+            },
+            {
+                  "name": "Ministries of cabinet Affairs.Secretariat general.",
+                  "text": "Das Gebäude des Verwaltungsekretariats für Kabinettsangelegenheiten in der Umgebung der Universität Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584343,
+                        4.852301
+                  ]
+            },
+            {
+                  "name": "Acces gate",
+                  "text": "Eine der Haupteingangsbarrieren, die gesicherten Zugang zum Gelände der Universität Juba bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591337,
+                        4.85195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ministry of",
+                  "text": "Az elnöki ügyekért felelős miniszter hivatalos munkahelye vagy rezidenciája a Jubai Egyetem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58354,
+                        4.851145
+                  ]
+            },
+            {
+                  "name": "WHO",
+                  "text": "Az Egészségügyi Világszervezet helyi irodája a Jubai Egyetem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.585613,
+                        4.851793
+                  ]
+            },
+            {
+                  "name": "Ministries of cabinet Affairs.Secretariat general.",
+                  "text": "A kabinetügyek adminisztratív titkárságának épülete a Jubai Egyetem szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584343,
+                        4.852301
+                  ]
+            },
+            {
+                  "name": "Acces gate",
+                  "text": "A Jubai Egyetem területére történő biztonságos belépést biztosító egyik fő kapu.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591337,
+                        4.85195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ministry of",
+                  "text": "Locul de muncă oficial sau reședința asociată cu Ministrul Afacerilor Prezidențiale din apropierea Universității din Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58354,
+                        4.851145
+                  ]
+            },
+            {
+                  "name": "WHO",
+                  "text": "Biroul local al Organizației Mondiale a Sănătății situat în apropierea Universității din Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.585613,
+                        4.851793
+                  ]
+            },
+            {
+                  "name": "Ministries of cabinet Affairs.Secretariat general.",
+                  "text": "Clădirea secretariatului administrativ pentru afacerile cabinetului din vecinătatea Universității Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584343,
+                        4.852301
+                  ]
+            },
+            {
+                  "name": "Acces gate",
+                  "text": "Una dintre barierele principale de intrare care oferă acces securizat la terenurile Universității din Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591337,
+                        4.85195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Minister of Presidential Affairs.Nhial Dhang Nhial.",
+                  "text": "The official workplace or residence associated with the Minister of Presidential Affairs near Juba University.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58354,
+                        4.851145
+                  ]
+            },
+            {
+                  "name": "WHO",
+                  "text": "The local office of the World Health Organization situated near Juba University.",
+                  "category": "landmark",
+                  "coords": [
+                        31.585613,
+                        4.851793
+                  ]
+            },
+            {
+                  "name": "Ministries of cabinet Affairs.Secretariat general.",
+                  "text": "The administrative secretariat building for cabinet affairs in the Juba University vicinity.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584343,
+                        4.852301
+                  ]
+            },
+            {
+                  "name": "Acces gate",
+                  "text": "One of the main entry barriers providing secured access to the Juba University grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591337,
+                        4.85195
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.588, 4.850],
@@ -291,7 +912,160 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nyakuron-cultural-center-landmarks-v2",
+    id: "nyakuron-cultural-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "WAMO.Point of interes.",
+                  "text": "Der WAMO-Interessenpunkt fungiert als Gemeindetreffpunkt in der Nähe des lebendigen Nyakuron-Kulturzentrums.",
+                  "category": "landmark",
+                  "coords": [
+                        31.570608,
+                        4.844548
+                  ]
+            },
+            {
+                  "name": "Psihical rehabilitation",
+                  "text": "Das Referenzzentrum für physische Rehabilitation bietet grundlegende Gesundheits- und Genesungsdienste für die Gemeinde in Juba an.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574802,
+                        4.84579
+                  ]
+            },
+            {
+                  "name": "Shortcut",
+                  "text": "Diese lokale Abkürzung dient als informeller, aber beliebter Fußgängerweg durch das belebte Nyakuron-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        31.576722,
+                        4.849527
+                  ]
+            },
+            {
+                  "name": "Christians church",
+                  "text": "Diese christliche Kirchenstruktur integriert Wohnräume mit gemeinschaftlichen Kultstätten im Gebiet von Nyakuron.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574434,
+                        4.846968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "WAMO.Point of interes.",
+                  "text": "A WAMO érdekes pont egy közösségi gyülekezőhelyként működik a nyüzsgő Nyakuron Kulturális Központ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.570608,
+                        4.844548
+                  ]
+            },
+            {
+                  "name": "Psihical rehabilitation",
+                  "text": "A Fizikai Rehabilitációs Referencia Központ alapvető egészségügyi és gyógyulási szolgáltatásokat nyújt a jubai közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574802,
+                        4.84579
+                  ]
+            },
+            {
+                  "name": "Shortcut",
+                  "text": "Ez a helyi rövidítés egy kötetlen, de népszerű gyalogos útvonalként szolgál a forgalmas Nyakuron negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        31.576722,
+                        4.849527
+                  ]
+            },
+            {
+                  "name": "Christians church",
+                  "text": "Ez a keresztény templomépület egyaránt magában foglal lakótereket és közösségi istentiszteleti helyeket a Nyakuron területen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574434,
+                        4.846968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "WAMO.Point of interes.",
+                  "text": "Punctul de interes WAMO acționează ca un loc de adunare a comunității în apropierea vibrantului Centru Cultural Nyakuron.",
+                  "category": "landmark",
+                  "coords": [
+                        31.570608,
+                        4.844548
+                  ]
+            },
+            {
+                  "name": "Psihical rehabilitation",
+                  "text": "Centrul de referință pentru reabilitare fizică oferă servicii esențiale de sănătate și recuperare în cadrul comunității din Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574802,
+                        4.84579
+                  ]
+            },
+            {
+                  "name": "Shortcut",
+                  "text": "Această scurtătură locală servește drept cale pietonală informală, dar populară, de navigare în districtul aglomerat Nyakuron.",
+                  "category": "landmark",
+                  "coords": [
+                        31.576722,
+                        4.849527
+                  ]
+            },
+            {
+                  "name": "Christians church",
+                  "text": "Această structură a unei biserici creștine integrează spații de locuit tip apartament cu locuri de cult comunale în zona Nyakuron.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574434,
+                        4.846968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "WAMO.Point of interes.",
+                  "text": "The WAMO point of interest acts as a community gathering spot near the vibrant Nyakuron Cultural Center.",
+                  "category": "landmark",
+                  "coords": [
+                        31.570608,
+                        4.844548
+                  ]
+            },
+            {
+                  "name": "Psihical rehabilitation reference centre",
+                  "text": "The Physical Rehabilitation Reference Centre provides essential health and recovery services within the Juba community.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574802,
+                        4.84579
+                  ]
+            },
+            {
+                  "name": "Shortcut",
+                  "text": "This local shortcut serves as an informal yet popular pedestrian pathway navigating the busy Nyakuron district.",
+                  "category": "landmark",
+                  "coords": [
+                        31.576722,
+                        4.849527
+                  ]
+            },
+            {
+                  "name": "Christians church",
+                  "text": "This Christian church structure integrates apartment living spaces with communal places of worship in the Nyakuron area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.574434,
+                        4.846968
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.575, 4.848],
@@ -339,7 +1113,52 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-legislative-assembly-juba-landmarks-v2",
+    id: "national-legislative-assembly-juba-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "VP",
+                  "text": "Das Büro und die Residenz von Vizepräsident Abdelebagi ist ein stark gesicherter Komplex in der Nähe der Nationalen Gesetzgebenden Versammlung.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59294,
+                        4.843519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "VP",
+                  "text": "Abdelebagi alelnök irodája és rezidenciája egy szigorúan őrzött épületegyüttes a Nemzeti Törvényhozó Nemzetgyűlés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59294,
+                        4.843519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "VP",
+                  "text": "Biroul și reședința vicepreședintelui Abdelebagi reprezintă un complex extrem de securizat în apropierea Adunării Legislative Naționale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59294,
+                        4.843519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "VP Abdelebagi office(residence)",
+                  "text": "The office and residence of Vice President Abdelebagi is a highly secured compound near the National Legislative Assembly.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59294,
+                        4.843519
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.589, 4.846],
@@ -387,7 +1206,160 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "jubek-memorial-landmarks-v2",
+    id: "jubek-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "To & from LTA",
+                  "text": "Ein lokaler Transit- oder Wegweiser in der Nähe der Jubek-Denkmäler.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58671,
+                        4.863689
+                  ]
+            },
+            {
+                  "name": "Regina's residence",
+                  "text": "Ein privates Wohngebäude, das als lokales Wahrzeichen in der Nähe des Jubek-Denkmals bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584216,
+                        4.859096
+                  ]
+            },
+            {
+                  "name": "Point of interes",
+                  "text": "Ein lokaler Orientierungspunkt, der sich im Bereich des Jubek-Denkmals befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.580748,
+                        4.859891
+                  ]
+            },
+            {
+                  "name": "Legal advisor",
+                  "text": "Ein Gebäude oder Büro, das der Rechtsberatung in der Nähe der Jubek-Denkmäler dient.",
+                  "category": "landmark",
+                  "coords": [
+                        31.581573,
+                        4.85337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "To & from LTA",
+                  "text": "Egy helyi tranzit- vagy útvonaljelző a Jubek emlékművek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58671,
+                        4.863689
+                  ]
+            },
+            {
+                  "name": "Regina's residence",
+                  "text": "Egy magánlakóház, amelyet helyi tájékozódási pontként tartanak számon a Jubek emlékmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584216,
+                        4.859096
+                  ]
+            },
+            {
+                  "name": "Point of interes",
+                  "text": "A Jubek emlékmű negyedében található helyi nevezetesség vagy tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        31.580748,
+                        4.859891
+                  ]
+            },
+            {
+                  "name": "Legal advisor",
+                  "text": "Egy jogi tanácsadásra szolgáló irodaépület a Jubek emlékmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.581573,
+                        4.85337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "To & from LTA",
+                  "text": "Un punct de tranzit sau de trecere situat în apropierea reperelor memoriale Jubek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58671,
+                        4.863689
+                  ]
+            },
+            {
+                  "name": "Regina's residence",
+                  "text": "O clădire rezidențială privată recunoscută ca reper local lângă memorialul Jubek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584216,
+                        4.859096
+                  ]
+            },
+            {
+                  "name": "Point of interes",
+                  "text": "Un punct de interes localizat situat în districtul memorial Jubek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.580748,
+                        4.859891
+                  ]
+            },
+            {
+                  "name": "Legal advisor",
+                  "text": "O clădire sau un birou dedicat consilierii juridice în apropierea reperelor memoriale Jubek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.581573,
+                        4.85337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "To & from LTA",
+                  "text": "A local transit or path marker situated near the Jubek memorial landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        31.58671,
+                        4.863689
+                  ]
+            },
+            {
+                  "name": "Regina's residence",
+                  "text": "A private residential building noted as a local landmark near the Jubek memorial.",
+                  "category": "landmark",
+                  "coords": [
+                        31.584216,
+                        4.859096
+                  ]
+            },
+            {
+                  "name": "Point of interes",
+                  "text": "A localized point of note situated within the Jubek memorial district.",
+                  "category": "landmark",
+                  "coords": [
+                        31.580748,
+                        4.859891
+                  ]
+            },
+            {
+                  "name": "Legal advisor",
+                  "text": "A building or office dedicated to legal counsel near the Jubek memorial landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        31.581573,
+                        4.85337
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.580, 4.855],
@@ -1155,7 +2127,160 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "old-juba-bridge-landmarks-v2",
+    id: "old-juba-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malakia Play Ground",
+                  "text": "Der Malakia Play Ground bietet eine offene Freizeitfläche für Sport und Gemeindetreffen in Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.607018,
+                        4.837041
+                  ]
+            },
+            {
+                  "name": "Ministry of Higher Education and Science.",
+                  "text": "Das Ministerium für Hochschulbildung und Wissenschaft ist eine wichtige Regierungseinrichtung, die die akademischen Richtlinien in Juba lenkt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608105,
+                        4.836038
+                  ]
+            },
+            {
+                  "name": "St. Theresa Cathedral",
+                  "text": "Die St.-Theresia-Kathedrale ist ein bedeutendes katholisches Gotteshaus in Juba, bekannt für ihre wichtige Rolle in der lokalen christlichen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        31.600317,
+                        4.827329
+                  ]
+            },
+            {
+                  "name": "Juba Bridge",
+                  "text": "Die Juba-Brücke ist ein wichtiges Bauwerk, das den Weißen Nil überspannt und die Hauptstadt mit den umliegenden Regionen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608683,
+                        4.822884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malakia Play Ground",
+                  "text": "A Malakia játszótér nyitott rekreációs teret kínál a sportoláshoz és a közösségi összejövetelekhez Jubában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.607018,
+                        4.837041
+                  ]
+            },
+            {
+                  "name": "Ministry of Higher Education and Science.",
+                  "text": "A Felsőoktatási és Tudományos Minisztérium egy kulcsfontosságú kormányzati létesítmény, amely az akadémiai irányelveket határozza meg Jubában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608105,
+                        4.836038
+                  ]
+            },
+            {
+                  "name": "St. Theresa Cathedral",
+                  "text": "A Szent Teréz-székesegyház Juba jelentős katolikus istentiszteleti helye, amely a helyi keresztény közösségben betöltött fontos szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        31.600317,
+                        4.827329
+                  ]
+            },
+            {
+                  "name": "Juba Bridge",
+                  "text": "A Juba híd egy létfontosságú átkelőhely a Fehér-Nílus felett, amely a fővárost a környező régiókkal köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608683,
+                        4.822884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malakia Play Ground",
+                  "text": "Terenul de joacă Malakia oferă un spațiu de recreere deschis pentru sport și adunări comunitare în Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.607018,
+                        4.837041
+                  ]
+            },
+            {
+                  "name": "Ministry of Higher Education and Science.",
+                  "text": "Ministerul Învățământului Superior și Științei este o unitate guvernamentală cheie care direcționează politicile academice în Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608105,
+                        4.836038
+                  ]
+            },
+            {
+                  "name": "St. Theresa Cathedral",
+                  "text": "Catedrala Sfânta Tereza este un important lăcaș de cult catolic din Juba, cunoscut pentru rolul său semnificativ în comunitatea creștină locală.",
+                  "category": "religious",
+                  "coords": [
+                        31.600317,
+                        4.827329
+                  ]
+            },
+            {
+                  "name": "Juba Bridge",
+                  "text": "Podul Juba este o structură de trecere vitală care traversează râul Nilul Alb, conectând capitala la regiunile înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608683,
+                        4.822884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malakia Play Ground",
+                  "text": "Malakia Play Ground offers an open recreational space for sports and community gatherings in Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.607018,
+                        4.837041
+                  ]
+            },
+            {
+                  "name": "Ministry of Higher Education and Science.",
+                  "text": "The Ministry of Higher Education and Science is a key government facility directing academic policies in Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608105,
+                        4.836038
+                  ]
+            },
+            {
+                  "name": "St. Theresa Cathedral",
+                  "text": "St. Theresa Cathedral is a major Catholic place of worship in Juba, known for its significant role in the local Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        31.600317,
+                        4.827329
+                  ]
+            },
+            {
+                  "name": "Juba Bridge",
+                  "text": "The Juba Bridge is a vital crossing structure that spans the White Nile river, connecting the capital to the surrounding regions.",
+                  "category": "landmark",
+                  "coords": [
+                        31.608683,
+                        4.822884
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SS-EC",
     coords: [31.608, 4.825],

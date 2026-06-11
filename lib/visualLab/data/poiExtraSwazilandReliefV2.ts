@@ -51,7 +51,52 @@ export const poiExtraSwazilandReliefV2: POI[] = [
     },
   },
   {
-    id: "nyonyane-peak-relief-v2",
+    id: "nyonyane-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Poacher's Point",
+                  "text": "Poacher's Point bietet einen weiten Panoramablick über das zerklüftete Gelände rund um den Nyonyane Peak.",
+                  "category": "natural",
+                  "coords": [
+                        31.170826,
+                        -26.472335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poacher's Point",
+                  "text": "A Poacher's Point széles panorámát kínál a Nyonyane-csúcsot körülvevő zord terepre.",
+                  "category": "natural",
+                  "coords": [
+                        31.170826,
+                        -26.472335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poacher's Point",
+                  "text": "Poacher's Point oferă o vedere panoramică vastă asupra terenului accidentat din jurul Vârfului Nyonyane.",
+                  "category": "natural",
+                  "coords": [
+                        31.170826,
+                        -26.472335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poacher's Point",
+                  "text": "Poacher's Point offers sweeping panoramic views over the rugged terrain surrounding Nyonyane Peak.",
+                  "category": "natural",
+                  "coords": [
+                        31.170826,
+                        -26.472335
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SZ-MA",
     coords: [31.18, -26.47],
@@ -147,7 +192,52 @@ export const poiExtraSwazilandReliefV2: POI[] = [
     },
   },
   {
-    id: "gobholo-caves-relief-v2",
+    id: "gobholo-caves-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Holy Resurrection church",
+                  "text": "Diese 1989 geweihte Kultstätte dient der lokalen Religionsgemeinschaft in der Hauptstadt Mbabane.",
+                  "category": "religious",
+                  "coords": [
+                        31.147697,
+                        -26.30444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holy Resurrection church",
+                  "text": "Az 1989-ben felszentelt istentiszteleti hely a helyi vallási közösséget szolgálja a fővárosban, Mbabane-ban.",
+                  "category": "religious",
+                  "coords": [
+                        31.147697,
+                        -26.30444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Holy Resurrection church",
+                  "text": "Sfințit în 1989, acest lăcaș de cult deservește comunitatea religioasă locală din capitala Mbabane.",
+                  "category": "religious",
+                  "coords": [
+                        31.147697,
+                        -26.30444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Resurrection church of Mbabane",
+                  "text": "Consecrated in 1989, this place of worship serves the local religious community in the capital city of Mbabane.",
+                  "category": "religious",
+                  "coords": [
+                        31.147697,
+                        -26.30444
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SZ-HH",
     coords: [31.15, -26.31],
@@ -291,7 +381,160 @@ export const poiExtraSwazilandReliefV2: POI[] = [
     },
   },
   {
-    id: "makonjwa-mountains-relief-v2",
+    id: "makonjwa-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sibubule",
+                  "text": "Der Gipfel des Sibubule erhebt sich markant innerhalb des alten Grünsteingürtels der Makonjwa-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        31.0933,
+                        -25.9583
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "Dieser alte Minentunnel ist ein dunkles, raues Überbleibsel aus der historischen Zeit des Goldrauschs in dieser Region.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            },
+            {
+                  "name": "Songimvelo Nature Reserve",
+                  "text": "Das Songimvelo Nature Reserve schützt hügelige Savannen und bewaldete Schluchten entlang der malerischen Grenze zwischen Südafrika und Eswatini.",
+                  "category": "natural",
+                  "coords": [
+                        31.05,
+                        -25.953611
+                  ]
+            },
+            {
+                  "name": "Songimvelo Game Reserve",
+                  "text": "Dieses ausgedehnte Wildreservat bietet inmitten einiger der ältesten geologischen Felsformationen der Erde einen Lebensraum für eine vielfältige Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        31.032295,
+                        -25.947691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sibubule",
+                  "text": "A Sibubule csúcsa kiemelkedően magasodik a Makonjwa-hegység ősi zöldkő-övezetében.",
+                  "category": "natural",
+                  "coords": [
+                        31.0933,
+                        -25.9583
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "Ez a régi bányajárat a régió történelmi aranyláz korszakának sötét, zord maradványaként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            },
+            {
+                  "name": "Songimvelo Nature Reserve",
+                  "text": "A Songimvelo Természetvédelmi Terület Dél-Afrika és Szváziföld festői határa mentén terül el, védve a dombos szavannákat és fás szurdokokat.",
+                  "category": "natural",
+                  "coords": [
+                        31.05,
+                        -25.953611
+                  ]
+            },
+            {
+                  "name": "Songimvelo Game Reserve",
+                  "text": "Ez a kiterjedt vadrezervátum változatos vadvilágnak ad otthont a Föld néhány legrégebbi geológiai sziklaképződménye között.",
+                  "category": "natural",
+                  "coords": [
+                        31.032295,
+                        -25.947691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sibubule",
+                  "text": "Vârful Sibubule se ridică proeminent în cadrul străvechii centuri de roci verzi din Munții Makonjwa.",
+                  "category": "natural",
+                  "coords": [
+                        31.0933,
+                        -25.9583
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "Acest vechi tunel de mină rămâne o relicvă întunecată și accidentată a epocii istorice a goanei după aur din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            },
+            {
+                  "name": "Songimvelo Nature Reserve",
+                  "text": "Rezervația Naturală Songimvelo protejează savanele ondulate și ravene împădurite de-a lungul graniței pitorești dintre Africa de Sud și Eswatini.",
+                  "category": "natural",
+                  "coords": [
+                        31.05,
+                        -25.953611
+                  ]
+            },
+            {
+                  "name": "Songimvelo Game Reserve",
+                  "text": "Această rezervație vastă de vânătoare oferă un habitat pentru diverse animale sălbatice în mijlocul unora dintre cele mai vechi formațiuni stâncoase geologice de pe Pământ.",
+                  "category": "natural",
+                  "coords": [
+                        31.032295,
+                        -25.947691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sibubule",
+                  "text": "The peak of Sibubule rises prominently within the ancient greenstone belt of the Makonjwa Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        31.0933,
+                        -25.9583
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "This old mine tunnel stands as a dark, rugged remnant of the region's historic gold rush era.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            },
+            {
+                  "name": "Songimvelo Nature Reserve",
+                  "text": "The Songimvelo Nature Reserve safeguards rolling savannas and wooded ravines along the scenic border of South Africa and Eswatini.",
+                  "category": "natural",
+                  "coords": [
+                        31.05,
+                        -25.953611
+                  ]
+            },
+            {
+                  "name": "Songimvelo Game Reserve",
+                  "text": "This expansive game reserve provides a habitat for diverse wildlife amidst some of the oldest geological rock formations on Earth.",
+                  "category": "natural",
+                  "coords": [
+                        31.032295,
+                        -25.947691
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SZ-HH",
     coords: [31.10, -25.95],
@@ -531,7 +774,52 @@ export const poiExtraSwazilandReliefV2: POI[] = [
     },
   },
   {
-    id: "lowveld-plain-relief-v2",
+    id: "lowveld-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Big Bend Conservancy",
+                  "text": "Die Big Bend Conservancy liegt in der Lowveld-Ebene von Swasiland und schützt wichtige Feuchtgebietsökosysteme entlang des Great Usutu River.",
+                  "category": "natural",
+                  "coords": [
+                        31.854057,
+                        -26.68912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Big Bend Conservancy",
+                  "text": "Az e-swatini Lowveld síkságon fekvő Big Bend Conservancy a Great Usutu-folyó mentén található létfontosságú vizesélőhelyeket védi.",
+                  "category": "natural",
+                  "coords": [
+                        31.854057,
+                        -26.68912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Big Bend Conservancy",
+                  "text": "Situată în câmpia Eswatini Lowveld, Big Bend Conservancy protejează ecosistemele vitale de zone umede de-a lungul marelui râu Usutu.",
+                  "category": "natural",
+                  "coords": [
+                        31.854057,
+                        -26.68912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Big Bend Conservancy",
+                  "text": "Set within the Eswatini Lowveld plain, the Big Bend Conservancy protects vital wetland ecosystems along the Great Usutu River.",
+                  "category": "natural",
+                  "coords": [
+                        31.854057,
+                        -26.68912
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SZ-LU",
     coords: [31.85, -26.75],
@@ -627,7 +915,52 @@ export const poiExtraSwazilandReliefV2: POI[] = [
     },
   },
   {
-    id: "great-usutu-basin-relief-v2",
+    id: "great-usutu-basin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nkonyeni",
+                  "text": "Nkonyeni ist ein Naturschutzgebiet im Einzugsgebiet des Great Usutu River.",
+                  "category": "natural",
+                  "coords": [
+                        31.413699,
+                        -26.681389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nkonyeni",
+                  "text": "Nkonyeni egy természetvédelmi terület, amely a Nagy-Usutu folyó medencéjében található.",
+                  "category": "natural",
+                  "coords": [
+                        31.413699,
+                        -26.681389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nkonyeni",
+                  "text": "Nkonyeni este o rezervație naturală situată în bazinul râului Great Usutu.",
+                  "category": "natural",
+                  "coords": [
+                        31.413699,
+                        -26.681389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nkonyeni",
+                  "text": "Nkonyeni is a nature reserve area situated within the Great Usutu River basin.",
+                  "category": "natural",
+                  "coords": [
+                        31.413699,
+                        -26.681389
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SZ-MA",
     coords: [31.45, -26.68],
@@ -771,7 +1104,88 @@ export const poiExtraSwazilandReliefV2: POI[] = [
     },
   },
   {
-    id: "ngonini-forest-relief-v2",
+    id: "ngonini-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lomati Nature Reserve",
+                  "text": "Dieses Naturreservat in der Nähe dichter Waldlandschaften schützt die lokale Artenvielfalt und die natürlichen Flusslebensräume.",
+                  "category": "natural",
+                  "coords": [
+                        31.259565,
+                        -25.826469
+                  ]
+            },
+            {
+                  "name": "Makhonjwa Nature Reserve",
+                  "text": "Dieses geschützte Reservat erstreckt sich über das alte, gebirgige Gelände, das für seine geologische Bedeutung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.2593,
+                        -25.825393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lomati Nature Reserve",
+                  "text": "A sűrű erdei tájak közelében található természetvédelmi terület a helyi biodiverzitást és a természetes folyami élőhelyeket óvja.",
+                  "category": "natural",
+                  "coords": [
+                        31.259565,
+                        -25.826469
+                  ]
+            },
+            {
+                  "name": "Makhonjwa Nature Reserve",
+                  "text": "Ez a védett rezervátum azon az ősi, hegyvidéki terepen terül el, amely geológiai jelentőségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        31.2593,
+                        -25.825393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lomati Nature Reserve",
+                  "text": "Situată în apropierea peisajelor forestiere dense, această rezervație naturală protejează biodiversitatea locală și habitatele fluviale naturale.",
+                  "category": "natural",
+                  "coords": [
+                        31.259565,
+                        -25.826469
+                  ]
+            },
+            {
+                  "name": "Makhonjwa Nature Reserve",
+                  "text": "Această rezervație protejată se întinde pe terenul montan antic, renumit pentru semnificația sa geologică.",
+                  "category": "natural",
+                  "coords": [
+                        31.2593,
+                        -25.825393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lomati Nature Reserve",
+                  "text": "Set near dense forest landscapes, this nature reserve safeguards local biodiversity and natural river habitats.",
+                  "category": "natural",
+                  "coords": [
+                        31.259565,
+                        -25.826469
+                  ]
+            },
+            {
+                  "name": "Makhonjwa Nature Reserve",
+                  "text": "This protected reserve spans the ancient, mountainous terrain renowned for its geological significance.",
+                  "category": "natural",
+                  "coords": [
+                        31.2593,
+                        -25.825393
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SZ-HH",
     coords: [31.28, -25.78],

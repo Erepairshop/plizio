@@ -543,7 +543,88 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     },
   },
   {
-    id: "sar-refinery-mbao-economic-v2",
+    id: "sar-refinery-mbao-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Scène de spectacle",
+                  "text": "Diese Theaterbühne bietet einen kulturellen Aufführungsort im Viertel Mbao in Dakar.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.322748,
+                        14.734506
+                  ]
+            },
+            {
+                  "name": "Plage Ab-Gokh",
+                  "text": "Dieser weitläufige Sandstrand an der Küste von Mbao zieht Einheimische zum Entspannen am Wasser an.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.327532,
+                        14.729833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Scène de spectacle",
+                  "text": "Ez a színházi színpad kulturális előadásoknak ad otthont Dakar Mbao negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.322748,
+                        14.734506
+                  ]
+            },
+            {
+                  "name": "Plage Ab-Gokh",
+                  "text": "Ez a tágas homokos tengerpart Mbao partjainál vonzza a vízparti kikapcsolódásra vágyó helyieket.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.327532,
+                        14.729833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Scène de spectacle",
+                  "text": "Această scenă de teatru găzduiește spectacole culturale în cartierul Mbao din Dakar.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.322748,
+                        14.734506
+                  ]
+            },
+            {
+                  "name": "Plage Ab-Gokh",
+                  "text": "Această plajă vastă de nisip de pe coasta Mbao atrage localnicii pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.327532,
+                        14.729833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scène de spectacle",
+                  "text": "This theatrical stage provides a venue for cultural performances in the Mbao district of Dakar.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.322748,
+                        14.734506
+                  ]
+            },
+            {
+                  "name": "Plage Ab-Gokh",
+                  "text": "This expansive sandy beach along the Mbao coast attracts locals for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.327532,
+                        14.729833
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SN-DK",
     coords: [-17.337, 14.739],
@@ -783,7 +864,160 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-saint-louis-economic-v2",
+    id: "port-saint-louis-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de la Photographie",
+                  "text": "Das Fotomuseum in Saint-Louis bewahrt die visuelle Geschichte der Region durch umfangreiche Archive historischer Drucke.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505277,
+                        16.023887
+                  ]
+            },
+            {
+                  "name": "Port de pêche",
+                  "text": "Dieser geschäftige Fischerhafen bietet einen authentischen Aussichtspunkt auf die bunten Pirogen, die mit dem Tagesfang in Saint-Louis ankommen.",
+                  "category": "natural",
+                  "coords": [
+                        -16.506721,
+                        16.026032
+                  ]
+            },
+            {
+                  "name": "Iba Ndiaye",
+                  "text": "Dieses nach einem renommierten Maler benannte Kunstzentrum zelebriert das zeitgenössische senegalesische Schaffen in Saint-Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.504766,
+                        16.020924
+                  ]
+            },
+            {
+                  "name": "IFAN",
+                  "text": "Das IFAN-Museum in Saint-Louis präsentiert Sammlungen, die sich auf traditionelle Künste, Handwerk und das ethnografische Erbe des Senegal konzentrieren.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505683,
+                        16.018909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la Photographie",
+                  "text": "A saint-louis-i Fotográfiai Múzeum a régió vizuális történelmét őrzi történelmi nyomatok kiterjedt archívumán keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505277,
+                        16.023887
+                  ]
+            },
+            {
+                  "name": "Port de pêche",
+                  "text": "Ez a nyüzsgő halászkikötő autentikus kilátást nyújt a Saint-Louisba a napi fogással érkező színes pirogokra.",
+                  "category": "natural",
+                  "coords": [
+                        -16.506721,
+                        16.026032
+                  ]
+            },
+            {
+                  "name": "Iba Ndiaye",
+                  "text": "A neves festőről elnevezett művészeti központ a kortárs szenegáli kreativitást ünnepli Saint-Louisban.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.504766,
+                        16.020924
+                  ]
+            },
+            {
+                  "name": "IFAN",
+                  "text": "A saint-louis-i IFAN múzeum Szenegál hagyományos művészetére, kézművességére és néprajzi örökségére fókuszáló gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505683,
+                        16.018909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la Photographie",
+                  "text": "Muzeul de Fotografie din Saint-Louis păstrează istoria vizuală a regiunii prin arhive vaste de tipărituri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505277,
+                        16.023887
+                  ]
+            },
+            {
+                  "name": "Port de pêche",
+                  "text": "Acest port de pescuit plin de viață oferă un punct de belvedere autentic asupra pirogilor colorate care sosesc cu captura zilei în Saint-Louis.",
+                  "category": "natural",
+                  "coords": [
+                        -16.506721,
+                        16.026032
+                  ]
+            },
+            {
+                  "name": "Iba Ndiaye",
+                  "text": "Numit după un pictor renumit, acest centru de artă celebrează creativitatea senegaleză contemporană din Saint-Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.504766,
+                        16.020924
+                  ]
+            },
+            {
+                  "name": "IFAN",
+                  "text": "Muzeul IFAN din Saint-Louis prezintă colecții axate pe artele tradiționale, meșteșugurile și patrimoniul etnografic al Senegalului.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505683,
+                        16.018909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de la Photographie",
+                  "text": "The Museum of Photography in Saint-Louis preserves the visual history of the region through extensive archives of historical prints.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505277,
+                        16.023887
+                  ]
+            },
+            {
+                  "name": "Port de pêche",
+                  "text": "This bustling fishing port offers an authentic viewpoint over the colorful pirogues arriving with the day's catch in Saint-Louis.",
+                  "category": "natural",
+                  "coords": [
+                        -16.506721,
+                        16.026032
+                  ]
+            },
+            {
+                  "name": "Iba Ndiaye",
+                  "text": "Named after a renowned painter, this arts center celebrates contemporary Senegalese creativity in Saint-Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.504766,
+                        16.020924
+                  ]
+            },
+            {
+                  "name": "IFAN",
+                  "text": "The IFAN museum in Saint-Louis presents collections focused on the traditional arts, crafts, and ethnographic heritage of Senegal.",
+                  "category": "museum",
+                  "coords": [
+                        -16.505683,
+                        16.018909
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SN-SL",
     coords: [-16.505, 16.023],
@@ -903,7 +1137,52 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     },
   },
   {
-    id: "matam-phosphates-economic-v2",
+    id: "matam-phosphates-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt classée de Diamel",
+                  "text": "Dieses klassifizierte Waldgebiet bewahrt die natürliche Vegetation in der Nähe der Bergbauregion von Matam.",
+                  "category": "natural",
+                  "coords": [
+                        -13.289952,
+                        15.728492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt classée de Diamel",
+                  "text": "Ez a besorolt erdő megőrzi a természetes növényzetet a matami bányászati régió közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -13.289952,
+                        15.728492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt classée de Diamel",
+                  "text": "Această pădure clasificată păstrează vegetația naturală din apropierea regiunii miniere Matam.",
+                  "category": "natural",
+                  "coords": [
+                        -13.289952,
+                        15.728492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt classée de Diamel",
+                  "text": "This classified forest reserve preserves the natural vegetation near the mining region of Matam.",
+                  "category": "natural",
+                  "coords": [
+                        -13.289952,
+                        15.728492
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SN-MT",
     coords: [-13.31, 15.65],
@@ -1023,7 +1302,88 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     },
   },
   {
-    id: "malicounda-solar-plant-economic-v2",
+    id: "malicounda-solar-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madinatou salam",
+                  "text": "Dieses markante Anwesen in Malicounda ist für seine besondere Architektur und seine lokale kulturelle Bedeutung bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        -16.940773,
+                        14.446475
+                  ]
+            },
+            {
+                  "name": "Rond point Saly",
+                  "text": "Dieses zentrale Kreisverkehr-Denkmal dient als wichtiger Orientierungspunkt in der geschäftigen Küstengegend.",
+                  "category": "historical",
+                  "coords": [
+                        -16.981105,
+                        14.446254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madinatou salam",
+                  "text": "Ez a kiemelkedő malicoundai birtok jellegzetes építészetéről és helyi kulturális jelentőségéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -16.940773,
+                        14.446475
+                  ]
+            },
+            {
+                  "name": "Rond point Saly",
+                  "text": "Ez a központi körforgalom-emlékmű fontos tájékozódási pontként szolgál a forgalmas tengerparti területen.",
+                  "category": "historical",
+                  "coords": [
+                        -16.981105,
+                        14.446254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madinatou salam",
+                  "text": "Această proprietate proeminentă din Malicounda este cunoscută pentru arhitectura sa distinctă și semnificația culturală locală.",
+                  "category": "castle",
+                  "coords": [
+                        -16.940773,
+                        14.446475
+                  ]
+            },
+            {
+                  "name": "Rond point Saly",
+                  "text": "Acest monument central cu sens giratoriu servește drept punct de reper cheie pentru navigație în zona de coastă aglomerată.",
+                  "category": "historical",
+                  "coords": [
+                        -16.981105,
+                        14.446254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madinatou salam",
+                  "text": "This prominent estate in Malicounda is known for its distinct architecture and local cultural significance.",
+                  "category": "castle",
+                  "coords": [
+                        -16.940773,
+                        14.446475
+                  ]
+            },
+            {
+                  "name": "Rond point Saly",
+                  "text": "This central roundabout monument serves as a key navigational landmark in the busy coastal area.",
+                  "category": "historical",
+                  "coords": [
+                        -16.981105,
+                        14.446254
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SN-TH",
     coords: [-16.983, 14.372],
@@ -1383,7 +1743,52 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     },
   },
   {
-    id: "tobene-power-plant-economic-v2",
+    id: "tobene-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Notre-Dame-de-l’Assomption",
+                  "text": "Diese katholische Kirche in der Nähe des Kraftwerks Tobène ist ein lokaler Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        -16.985456,
+                        14.92084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Notre-Dame-de-l’Assomption",
+                  "text": "Ez a katolikus templom a Tobène erőmű közelében található, és a helyi közösség hitéletét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -16.985456,
+                        14.92084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Notre-Dame-de-l’Assomption",
+                  "text": "Această biserică catolică din apropierea centralei Tobène este un loc de cult pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -16.985456,
+                        14.92084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Notre-Dame-de-l’Assomption",
+                  "text": "This Catholic church near the Tobène power plant serves as a local place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -16.985456,
+                        14.92084
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SN-TH",
     coords: [-16.918, 14.896],

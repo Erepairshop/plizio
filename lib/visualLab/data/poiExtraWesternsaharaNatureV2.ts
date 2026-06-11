@@ -179,7 +179,52 @@ export const westernsaharaNatureV2: POI[] = [
     image: "/poi-images/westernsahara-cabo-bojador-coast-nature-v2.webp",
   },
   {
-    id: "westernsahara-oued-draa-delta-nature-v2",
+    id: "westernsahara-oued-draa-delta-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "maybe Tank?",
+                  "text": "Dieser Aussichtspunkt am Oued Draa-Delta wird von den Überresten gepanzerter Fahrzeuge aus vergangenen Konflikten gesäumt.",
+                  "category": "natural",
+                  "coords": [
+                        -11.033007,
+                        28.746847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "maybe Tank?",
+                  "text": "Ezt az Oued Draa-delta melletti kilátót a korábbi konfliktusokból származó páncélozott járművek maradványai szegélyezik.",
+                  "category": "natural",
+                  "coords": [
+                        -11.033007,
+                        28.746847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "maybe Tank?",
+                  "text": "Acest punct de belvedere de la delta Oued Draa este marcat de rămășițele vehiculelor blindate din conflictele trecute.",
+                  "category": "natural",
+                  "coords": [
+                        -11.033007,
+                        28.746847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "maybe Tank?",
+                  "text": "This viewpoint overlooking the Oued Draa delta is marked by the rusted remains of armored vehicles from past conflicts.",
+                  "category": "natural",
+                  "coords": [
+                        -11.033007,
+                        28.746847
+                  ]
+            }
+      ]
+},
     type: "river",
     name: { de: "Oued Draa Delta", hu: "Oued Draa delta", ro: "Delta Oued Draa", en: "Oued Draa Delta" },
     coords: [-11.08, 28.75],
@@ -223,7 +268,52 @@ export const westernsaharaNatureV2: POI[] = [
     image: "/poi-images/westernsahara-oued-draa-delta-nature-v2.webp",
   },
   {
-    id: "westernsahara-plateau-de-le-guerra-nature-v2",
+    id: "westernsahara-plateau-de-le-guerra-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fishing huts",
+                  "text": "Diese verfallenen Fischerhütten überblicken das Wasser entlang der trockenen Halbinsel La Güera.",
+                  "category": "historical",
+                  "coords": [
+                        -17.026854,
+                        21.294397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fishing huts",
+                  "text": "Ezek a romos halászkunyhók a száraz La Güera-félsziget menti vizekre néznek.",
+                  "category": "historical",
+                  "coords": [
+                        -17.026854,
+                        21.294397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fishing huts",
+                  "text": "Aceste colibe de pescari în ruină au vedere la apele de-a lungul peninsulei aride La Güera.",
+                  "category": "historical",
+                  "coords": [
+                        -17.026854,
+                        21.294397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fishing huts",
+                  "text": "These ruined fishing huts overlook the waters along the arid La Güera peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        -17.026854,
+                        21.294397
+                  ]
+            }
+      ]
+},
     type: "mountain",
     name: { de: "Plateau de Le Guerra", hu: "Plateau de Le Guerra", ro: "Plateau de Le Guerra", en: "Plateau de Le Guerra" },
     coords: [-16.98, 21.33],
@@ -311,7 +401,196 @@ export const westernsaharaNatureV2: POI[] = [
     image: "/poi-images/westernsahara-sebkha-dakhla-nature-v2.webp",
   },
   {
-    id: "westernsahara-ras-nouadhibou-coast-nature-v2",
+    id: "westernsahara-ras-nouadhibou-coast-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tower of the Navy",
+                  "text": "Der Tower of the Navy ist ein historischer Leuchtturm, der an der rauen Küste des Cap Blanc über den Atlantik wacht.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.094449,
+                        20.826046
+                  ]
+            },
+            {
+                  "name": "Weißes Kap",
+                  "text": "Das White Cape, auch Ras Nouadhibou genannt, ist eine markante Halbinsel, die durch ihre steilen, hellen Klippen auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.050187,
+                        20.769965
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Dieser historische, 1910 erbaute Leuchtturm steht an der rauen Küste der Halbinsel Ras Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.047674,
+                        20.772287
+                  ]
+            },
+            {
+                  "name": "Administration",
+                  "text": "Diese historischen Verwaltungsruinen befinden sich auf der windgepeitschten Halbinsel Ras Nouadhibou.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089755,
+                        20.832491
+                  ]
+            },
+            {
+                  "name": "Spanish fort",
+                  "text": "Diese Überreste stammen von einer spanischen Festung aus der Kolonialzeit an der felsigen Küste.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089431,
+                        20.827095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tower of the Navy",
+                  "text": "A Tower of the Navy egy történelmi világítótorony, amely a Cap Blanc zord partvidékén őrzi az Atlanti-óceánt.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.094449,
+                        20.826046
+                  ]
+            },
+            {
+                  "name": "White Cape",
+                  "text": "A Fehér-fok, más néven Ras Nouadhibou, egy kiemelkedő félsziget, amely meredek, világos szikláiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.050187,
+                        20.769965
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Ez az 1910-ben épült történelmi világítótorony a Ras Nouadhibou félsziget zord partvidékén áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.047674,
+                        20.772287
+                  ]
+            },
+            {
+                  "name": "Administration",
+                  "text": "Ezek a történelmi közigazgatási romok a szélfútta Ras Nouadhibou félszigeten találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089755,
+                        20.832491
+                  ]
+            },
+            {
+                  "name": "Spanish fort",
+                  "text": "Ezek a maradványok egy gyarmati korszakból származó, sziklás partra épült spanyol erődítményhez tartoznak.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089431,
+                        20.827095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tower of the Navy",
+                  "text": "Tower of the Navy este un far istoric care străjuiește Oceanul Atlantic pe coasta accidentată de la Cap Blanc.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.094449,
+                        20.826046
+                  ]
+            },
+            {
+                  "name": "White Cape",
+                  "text": "Capul Alb, cunoscut și sub numele de Ras Nouadhibou, este o peninsulă proeminentă care se remarcă prin stâncile sale abrupte și de culoare deschisă.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.050187,
+                        20.769965
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Acest far istoric, construit în 1910, se află pe coasta stâncoasă a peninsulei Ras Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.047674,
+                        20.772287
+                  ]
+            },
+            {
+                  "name": "Administration",
+                  "text": "Aceste ruine administrative istorice sunt situate pe peninsula bătută de vânturi Ras Nouadhibou.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089755,
+                        20.832491
+                  ]
+            },
+            {
+                  "name": "Spanish fort",
+                  "text": "Aceste vestigii aparțin unei fortificații spaniole din epoca colonială, construită pe coasta stâncoasă.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089431,
+                        20.827095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tower of the Navy",
+                  "text": "The Tower of the Navy is a historic lighthouse standing watch over the rugged Atlantic coast of Ras Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.094449,
+                        20.826046
+                  ]
+            },
+            {
+                  "name": "White Cape",
+                  "text": "White Cape, or Ras Nouadhibou, is a dramatic peninsula known for its steep, pale cliffs plunging into the ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.050187,
+                        20.769965
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Built in 1910, this historic lighthouse stands on the rugged coast of the Ras Nouadhibou peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.047674,
+                        20.772287
+                  ]
+            },
+            {
+                  "name": "Administration",
+                  "text": "These historic administrative ruins are located on the wind-swept Ras Nouadhibou peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089755,
+                        20.832491
+                  ]
+            },
+            {
+                  "name": "Spanish fort",
+                  "text": "These remnants belong to a colonial-era Spanish fortification built on the rocky coast.",
+                  "category": "historical",
+                  "coords": [
+                        -17.089431,
+                        20.827095
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Küstenlinie Ras Nouadhibou", hu: "Ras Nouadhibou partvonala", ro: "Linia de coastă Ras Nouadhibou", en: "Ras Nouadhibou Coastline" },
     coords: [-17.03, 20.78],

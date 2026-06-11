@@ -147,7 +147,52 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     },
   },
   {
-    id: "bumbuna-forest-life-v2",
+    id: "bumbuna-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simbili",
+                  "text": "Der markante geografische Gipfel Simbili im Gebiet bumbuna-forest-life-v2 fordert Wanderer mit seinen steilen natürlichen Hängen heraus.",
+                  "category": "natural",
+                  "coords": [
+                        -11.686859,
+                        8.976338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simbili",
+                  "text": "A bumbuna-forest-life-v2 területén található Simbili egy figyelemre méltó hegycsúcs, amely meredek természetes lejtőivel várja a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        -11.686859,
+                        8.976338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simbili",
+                  "text": "Simbili este un vârf geografic remarcabil situat în zona bumbuna-forest-life-v2, provocând drumeții cu pantele sale naturale abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        -11.686859,
+                        8.976338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simbili",
+                  "text": "Simbili is a notable geographical peak located in the bumbuna-forest-life-v2 area, challenging hikers with its steep natural inclines.",
+                  "category": "natural",
+                  "coords": [
+                        -11.686859,
+                        8.976338
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SL-N",
     coords: [-11.73, 9.05],
@@ -291,7 +336,52 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     },
   },
   {
-    id: "pampana-river-hippo-life-v2",
+    id: "pampana-river-hippo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masamank",
+                  "text": "Der natürliche Gipfel des Masamank bietet einen Aussichtspunkt über das Gebiet pampana-river-hippo-life-v2 und zeichnet sich durch Felsvorsprünge und dichte lokale Vegetation aus.",
+                  "category": "natural",
+                  "coords": [
+                        -11.780436,
+                        8.741443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masamank",
+                  "text": "A pampana-river-hippo-life-v2 terület felett kilátást nyújtó Masamank természetes csúcsát sziklás kiszögellések és sűrű helyi növényzet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        -11.780436,
+                        8.741443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masamank",
+                  "text": "Oferind un punct de observație asupra zonei pampana-river-hippo-life-v2, vârful natural Masamank prezintă aflorimente stâncoase și o vegetație locală densă.",
+                  "category": "natural",
+                  "coords": [
+                        -11.780436,
+                        8.741443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masamank",
+                  "text": "Providing a vantage point over the pampana-river-hippo-life-v2 area, the natural peak of Masamank features rocky outcrops and dense local vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -11.780436,
+                        8.741443
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SL-N",
     coords: [-11.8, 8.7],
@@ -579,7 +669,52 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     },
   },
   {
-    id: "moyamba-oil-palm-life-v2",
+    id: "moyamba-oil-palm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bayiye",
+                  "text": "Bayiye ist ein Berggipfel in der Gegend von moyamba-oil-palm-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -12.465076,
+                        8.106645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bayiye",
+                  "text": "A Bayiye egy hegycsúcs a moyamba-oil-palm-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        -12.465076,
+                        8.106645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bayiye",
+                  "text": "Bayiye este un vârf muntos situat în zona moyamba-oil-palm-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -12.465076,
+                        8.106645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bayiye",
+                  "text": "Bayiye is a mountain peak situated in the moyamba-oil-palm-life-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        -12.465076,
+                        8.106645
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SL-S",
     coords: [-12.43, 8.16],
@@ -675,7 +810,124 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     },
   },
   {
-    id: "tane-ginger-farms-life-v2",
+    id: "tane-ginger-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tenene hills",
+                  "text": "Die Tenene-Hügel zeichnen sich durch ihr raues natürliches Terrain aus und bilden einen markanten Höhenrücken im Gebiet tane-ginger-farms-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -11.811899,
+                        8.825333
+                  ]
+            },
+            {
+                  "name": "Komboyan",
+                  "text": "Als einsamer Gipfel in der Landschaft von tane-ginger-farms-life-v2 erhebt sich Komboyan und ist ein markantes natürliches Wahrzeichen für lokale Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        -11.784514,
+                        8.835919
+                  ]
+            },
+            {
+                  "name": "Physio House",
+                  "text": "Die verfallende Struktur des Physio House in der Region tane-ginger-farms-life-v2 steht als greifbare Erinnerung an die ältere architektonische Vergangenheit der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tenene hills",
+                  "text": "A zord, természetes domborzatukról ismert Tenene-dombok egy kiemelkedő hegygerincet alkotnak a tane-ginger-farms-life-v2 területen.",
+                  "category": "natural",
+                  "coords": [
+                        -11.811899,
+                        8.825333
+                  ]
+            },
+            {
+                  "name": "Komboyan",
+                  "text": "A tane-ginger-farms-life-v2 tájából magányosan kiemelkedő Komboyan csúcsa a helyi túrázók egyik meghatározó természetes tájékozódási pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -11.784514,
+                        8.835919
+                  ]
+            },
+            {
+                  "name": "Physio House",
+                  "text": "A tane-ginger-farms-life-v2 régióban található Physio House omladozó szerkezete a terület régebbi építészeti múltjának fizikai mementójaként áll.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tenene hills",
+                  "text": "Caracterizate prin terenul lor natural accidentat, dealurile Tenene formează o creastă înaltă proeminentă în zona tane-ginger-farms-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -11.811899,
+                        8.825333
+                  ]
+            },
+            {
+                  "name": "Komboyan",
+                  "text": "Ridicându-se ca un vârf solitar în peisajul tane-ginger-farms-life-v2, Komboyan este un reper natural definitoriu pentru drumeții locali.",
+                  "category": "natural",
+                  "coords": [
+                        -11.784514,
+                        8.835919
+                  ]
+            },
+            {
+                  "name": "Physio House",
+                  "text": "Situată în regiunea tane-ginger-farms-life-v2, structura în descompunere a Casei Physio rămâne ca o amintire fizică a trecutului arhitectural mai vechi al zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tenene hills",
+                  "text": "Characterised by their rugged natural terrain, the Tenene hills form a prominent elevated ridge in the tane-ginger-farms-life-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        -11.811899,
+                        8.825333
+                  ]
+            },
+            {
+                  "name": "Komboyan",
+                  "text": "Rising as a solitary peak within the tane-ginger-farms-life-v2 landscape, Komboyan is a defining natural landmark for local hikers.",
+                  "category": "natural",
+                  "coords": [
+                        -11.784514,
+                        8.835919
+                  ]
+            },
+            {
+                  "name": "Physio House",
+                  "text": "Located in the tane-ginger-farms-life-v2 region, the decaying structure of Physio House stands as a physical reminder of the area's older architectural past.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SL-N",
     coords: [-11.8, 8.8],
@@ -771,7 +1023,88 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     },
   },
   {
-    id: "lakka-childrens-beach-life-v2",
+    id: "lakka-childrens-beach-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hamilton Beach",
+                  "text": "Der Hamilton Beach in der Region lakka-childrens-beach-life-v2 ist für seinen weitläufigen Sandstrand bekannt und ein beliebtes Küstenziel zum Sonnenbaden und Schwimmen im Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.262419,
+                        8.386843
+                  ]
+            },
+            {
+                  "name": "Lakka Beach",
+                  "text": "Der von Palmen gesäumte Lakka Beach bietet Besuchern des Gebiets lakka-childrens-beach-life-v2 einen malerischen sandigen Küstenstreifen am Atlantischen Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.26428,
+                        8.390741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hamilton Beach",
+                  "text": "A hosszú homokos partjáról ismert Hamilton Beach a lakka-childrens-beach-life-v2 régió népszerű tengerparti úti célja a napozók és az óceánban fürdőzők körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.262419,
+                        8.386843
+                  ]
+            },
+            {
+                  "name": "Lakka Beach",
+                  "text": "A pálmafákkal szegélyezett Lakka Beach egy festői homokos partvidéket kínál az Atlanti-óceán mentén a lakka-childrens-beach-life-v2 területre látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.26428,
+                        8.390741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hamilton Beach",
+                  "text": "Cunoscută pentru țărmul său vast de nisip, Plaja Hamilton din regiunea lakka-childrens-beach-life-v2 este o destinație de coastă populară pentru plajă și înot în ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.262419,
+                        8.386843
+                  ]
+            },
+            {
+                  "name": "Lakka Beach",
+                  "text": "Mărginită de palmieri, Plaja Lakka oferă vizitatorilor zonei lakka-childrens-beach-life-v2 o fâșie pitorească de coastă cu nisip de-a lungul Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.26428,
+                        8.390741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hamilton Beach",
+                  "text": "Known for its expansive sandy shoreline, Hamilton Beach in the lakka-childrens-beach-life-v2 region is a popular coastal destination for sunbathing and ocean swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.262419,
+                        8.386843
+                  ]
+            },
+            {
+                  "name": "Lakka Beach",
+                  "text": "Fringed by palm trees, Lakka Beach offers visitors to the lakka-childrens-beach-life-v2 area a picturesque sandy coastal strip along the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.26428,
+                        8.390741
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SL-W",
     coords: [-13.26, 8.40],
@@ -915,7 +1248,88 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     },
   },
   {
-    id: "lumley-beach-playground-life-v2",
+    id: "lumley-beach-playground-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "marcul",
+                  "text": "Marcul bietet einen malerischen Aussichtspunkt an der Küste mit Blick auf die Sandstrände und Spielplätze von Lumley Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -13.264692,
+                        8.451481
+                  ]
+            },
+            {
+                  "name": "Lumbley Beach",
+                  "text": "Der Lumbley Beach ist ein beliebter Sandstrand, der für seinen lebhaften Küstenstreifen und die nahe gelegenen Spielplätze bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.278565,
+                        8.454257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "marcul",
+                  "text": "A Marcul egy festői tengerparti kilátó, amely a Lumley strand homokos szakaszaira és játszótereire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -13.264692,
+                        8.451481
+                  ]
+            },
+            {
+                  "name": "Lumbley Beach",
+                  "text": "A Lumbley Beach egy népszerű homokos tengerparti szakasz, amely nyüzsgő partvonaláról és közeli játszótereiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.278565,
+                        8.454257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "marcul",
+                  "text": "Marcul oferă un punct de belvedere pitoresc pe coastă, cu vedere la porțiunile de nisip și locurile de joacă de la Lumley Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -13.264692,
+                        8.451481
+                  ]
+            },
+            {
+                  "name": "Lumbley Beach",
+                  "text": "Lumbley Beach este o plajă cu nisip populară, cunoscută pentru coasta sa vibrantă și locurile de joacă din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.278565,
+                        8.454257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "marcul",
+                  "text": "Marcul provides a scenic coastal viewpoint overlooking the sandy stretches and playgrounds of Lumley Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -13.264692,
+                        8.451481
+                  ]
+            },
+            {
+                  "name": "Lumbley Beach",
+                  "text": "Lumbley Beach is a popular sandy coastal stretch known for its vibrant shoreline and nearby playgrounds.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.278565,
+                        8.454257
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SL-W",
     coords: [-13.28, 8.46],

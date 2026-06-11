@@ -528,7 +528,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Théatre Outremont",
-                  "text": "Das Théatre Outremont ist ein historisches Theater im Outremont-Viertel von Montreal, das Aufführungen beherbergt.",
+                  "text": "1929 im Art-Déco-Stil erbautes Theater in Montreal, entworfen von René Charbonneau und Emmanuel Briffa.",
                   "category": "cultural",
                   "coords": [
                         -73.608597,
@@ -845,7 +845,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Théatre Outremont",
-                  "text": "A Théatre Outremont egy történelmi színház Montreal Outremont negyedében, előadásokat tart.",
+                  "text": "1929-ben épült art déco stílusú színház Montrealban, René Charbonneau és Emmanuel Briffa tervezte.",
                   "category": "cultural",
                   "coords": [
                         -73.608597,
@@ -1162,7 +1162,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Théatre Outremont",
-                  "text": "Teatrul Outremont este un teatru istoric în cartierul Outremont din Montreal, care găzduiește spectacole.",
+                  "text": "Teatru în stil Art Deco construit în 1929 la Montreal, proiectat de René Charbonneau și Emmanuel Briffa.",
                   "category": "cultural",
                   "coords": [
                         -73.608597,
@@ -1479,7 +1479,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Théatre Outremont",
-                  "text": "Théatre Outremont is a historic theatre in the Outremont district of Montreal, hosting performances.",
+                  "text": "Art Deco theater built 1929 in Montreal, designed by René Charbonneau and Emmanuel Briffa.",
                   "category": "cultural",
                   "coords": [
                         -73.608597,
@@ -12953,7 +12953,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Point Atkinson Lighthouse",
-                  "text": "Der Point Atkinson Lighthouse ist ein historischer Leuchtturm am Eingang zum Vancouver Harbour.",
+                  "text": "Der 1912 erbaute Point Atkinson Lighthouse nahe der Lions Gate Bridge ist ein denkmalgeschützter Leuchtturm.",
                   "category": "landmark",
                   "coords": [
                         -123.264586,
@@ -13297,7 +13297,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Point Atkinson Lighthouse",
-                  "text": "A Point Atkinson Lighthouse egy történelmi világítótorony a Vancouveri kikötő bejáratánál.",
+                  "text": "Az 1912-ben épült Point Atkinson Lighthouse a Lions Gate híd közelében műemlék világítótorony.",
                   "category": "landmark",
                   "coords": [
                         -123.264586,
@@ -13641,7 +13641,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Point Atkinson Lighthouse",
-                  "text": "Farul Point Atkinson este un far istoric la intrarea în Portul Vancouver.",
+                  "text": "Farul Point Atkinson Lighthouse de lângă Podul Lions Gate, construit în 1912, este monument istoric federal.",
                   "category": "landmark",
                   "coords": [
                         -123.264586,
@@ -13985,7 +13985,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
             },
             {
                   "name": "Point Atkinson Lighthouse",
-                  "text": "Point Atkinson Lighthouse is a historic lighthouse at the entrance to Vancouver Harbour.",
+                  "text": "Built in 1912, this lighthouse near the Lions Gate Bridge is a federally designated heritage site.",
                   "category": "landmark",
                   "coords": [
                         -123.264586,

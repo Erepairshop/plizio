@@ -91,7 +91,88 @@ export const westernsaharaCitiesV2: POI[] = [
     image: "/poi-images/westernsahara-guelta-zemmur-cities-v2.webp",
   },
   {
-    id: "westernsahara-bir-mogrein-cities-v2",
+    id: "westernsahara-bir-mogrein-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nassrani",
+                  "text": "Der Nassrani ist ein markanter Wüstengipfel, der sich steil aus der trockenen Landschaft nahe Bir Moghrein erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -11.570693,
+                        25.233589
+                  ]
+            },
+            {
+                  "name": "Caserne militaire",
+                  "text": "Die Caserne in der Nähe von Bir Moghrein ist eine stark befestigte ehemalige Kaserne mitten in der Wüste.",
+                  "category": "castle",
+                  "coords": [
+                        -11.581103,
+                        25.225618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nassrani",
+                  "text": "A Nassrani egy feltűnő sivatagi csúcs, amely meredeken emelkedik ki a Bir Moghrein közeli száraz tájból.",
+                  "category": "natural",
+                  "coords": [
+                        -11.570693,
+                        25.233589
+                  ]
+            },
+            {
+                  "name": "Caserne militaire",
+                  "text": "A Bir Moghrein közelében található Caserne egy erősen megerősített egykori laktanya a sivatag közepén.",
+                  "category": "castle",
+                  "coords": [
+                        -11.581103,
+                        25.225618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nassrani",
+                  "text": "Nassrani este un vârf deșertic proeminent, care se ridică abrupt din peisajul arid din apropiere de Bir Moghrein.",
+                  "category": "natural",
+                  "coords": [
+                        -11.570693,
+                        25.233589
+                  ]
+            },
+            {
+                  "name": "Caserne militaire",
+                  "text": "Caserne, situată lângă Bir Moghrein, este o fostă cazarmă puternic fortificată în mijlocul deșertului.",
+                  "category": "castle",
+                  "coords": [
+                        -11.581103,
+                        25.225618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nassrani",
+                  "text": "Nassrani is a prominent desert peak rising sharply from the arid landscape near Bir Moghrein.",
+                  "category": "natural",
+                  "coords": [
+                        -11.570693,
+                        25.233589
+                  ]
+            },
+            {
+                  "name": "Caserne",
+                  "text": "The Caserne near Bir Moghrein is a heavily fortified former military garrison situated deep in the desert.",
+                  "category": "castle",
+                  "coords": [
+                        -11.581103,
+                        25.225618
+                  ]
+            }
+      ]
+},
     type: "town",
     name: { de: "Bir Mogrein", hu: "Bir Mogrein", ro: "Bir Mogrein", en: "Bir Mogrein" },
     coords: [-11.603, 25.222],

@@ -93,7 +93,88 @@ export const mauritaniaLifeV2: POI[] = [
     image: "/poi-images/mauritania-banc-d-arguin-life-v2.webp",
   },
   {
-    id: "mauritania-mahe-reserve-life-v2",
+    id: "mauritania-mahe-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Périmètre de Reboisement de Tounguen",
+                  "text": "Dieses Aufforstungsgebiet in Tounguen unterstreicht die lokalen Bemühungen zur Wiederherstellung der natürlichen Vegetation und zur Bekämpfung der Wüstenbildung.",
+                  "category": "natural",
+                  "coords": [
+                        -15.766667,
+                        16.533333
+                  ]
+            },
+            {
+                  "name": "e de Tinebunar",
+                  "text": "Das Naturschutzgebiet Tinebunar schützt die regionale Artenvielfalt innerhalb der mauretanischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -15.782249,
+                        16.548008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Périmètre de Reboisement de Tounguen",
+                  "text": "Ez a toungueni erdősítési terület a természetes növényzet helyreállítására és az elsivatagosodás leküzdésére irányuló helyi erőfeszítéseket emeli ki.",
+                  "category": "natural",
+                  "coords": [
+                        -15.766667,
+                        16.533333
+                  ]
+            },
+            {
+                  "name": "e de Tinebunar",
+                  "text": "A Tinebunar természetvédelmi terület megóvja a regionális biológiai sokféleséget a mauritániai tájon belül.",
+                  "category": "natural",
+                  "coords": [
+                        -15.782249,
+                        16.548008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Périmètre de Reboisement de Tounguen",
+                  "text": "Acest perimetru de reîmpădurire din Tounguen evidențiază eforturile locale de a restabili vegetația naturală și de a combate deșertificarea.",
+                  "category": "natural",
+                  "coords": [
+                        -15.766667,
+                        16.533333
+                  ]
+            },
+            {
+                  "name": "e de Tinebunar",
+                  "text": "Rezervația naturală Tinebunar protejează biodiversitatea regională din cadrul peisajului mauritan.",
+                  "category": "natural",
+                  "coords": [
+                        -15.782249,
+                        16.548008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Périmètre de Reboisement de Tounguen",
+                  "text": "This reforestation area in Tounguen highlights local efforts to restore natural vegetation and combat desertification.",
+                  "category": "natural",
+                  "coords": [
+                        -15.766667,
+                        16.533333
+                  ]
+            },
+            {
+                  "name": "e de Tinebunar",
+                  "text": "The Tinebunar nature reserve safeguards regional biodiversity within the Mauritanian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -15.782249,
+                        16.548008
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "wildlife",
     name: { de: "Reservat Mahe", hu: "Mahe rezervátum", ro: "Rezervația Mahe", en: "Mahe Reserve" },
@@ -183,7 +264,52 @@ export const mauritaniaLifeV2: POI[] = [
     image: "/poi-images/mauritania-azefal-wildlife-life-v2.webp",
   },
   {
-    id: "mauritania-el-mouhoub-life-v2",
+    id: "mauritania-el-mouhoub-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt Classée de Toueïdiéri",
+                  "text": "Der klassifizierte Wald Toueïdiéri ist ein geschütztes Naturgebiet, das der Erhaltung der regionalen Artenvielfalt dient.",
+                  "category": "natural",
+                  "coords": [
+                        -14.251727,
+                        16.747093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt Classée de Toueïdiéri",
+                  "text": "A Toueïdiéri minősített erdő egy megőrzött természeti terület, amelynek célja a regionális biológiai sokféleség fenntartása.",
+                  "category": "natural",
+                  "coords": [
+                        -14.251727,
+                        16.747093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt Classée de Toueïdiéri",
+                  "text": "Pădurea clasificată Toueïdiéri este o zonă naturală conservată menită să mențină biodiversitatea regională.",
+                  "category": "natural",
+                  "coords": [
+                        -14.251727,
+                        16.747093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt Classée de Toueïdiéri",
+                  "text": "The Toueïdiéri classified forest is a preserved natural area aimed at maintaining regional biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -14.251727,
+                        16.747093
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "wildlife",
     name: { de: "Feuchtgebiet El Mouhoub", hu: "El Mouhoub vizes élőhely", ro: "Zona umedă El Mouhoub", en: "El Mouhoub Wetland" },
@@ -318,7 +444,52 @@ export const mauritaniaLifeV2: POI[] = [
     image: "/poi-images/mauritania-tagant-plateau-life-v2.webp",
   },
   {
-    id: "mauritania-keur-macene-life-v2",
+    id: "mauritania-keur-macene-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Brack",
+                  "text": "Le Brack ist ein lokales Denkmal, das als Wahrzeichen in der Gegend von Keur Macene steht.",
+                  "category": "historical",
+                  "coords": [
+                        -16.075597,
+                        16.400899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Brack",
+                  "text": "A Le Brack egy helyi emlékmű, amely tájékozódási pontként szolgál Keur Macene térségében.",
+                  "category": "historical",
+                  "coords": [
+                        -16.075597,
+                        16.400899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Brack",
+                  "text": "Le Brack este un monument local care se remarcă în zona Keur Macene.",
+                  "category": "historical",
+                  "coords": [
+                        -16.075597,
+                        16.400899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Brack",
+                  "text": "Le Brack is a local monument standing as a landmark in the Keur Macene area.",
+                  "category": "historical",
+                  "coords": [
+                        -16.075597,
+                        16.400899
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "wildlife",
     name: { de: "Keur Macene Feuchtgebiet", hu: "Keur Macene vizes élőhely", ro: "Zona umedă Keur Macene", en: "Keur Macene Wetland" },
@@ -588,7 +759,52 @@ export const mauritaniaLifeV2: POI[] = [
     image: "/poi-images/mauritania-kiffa-wildlife-life-v2.webp",
   },
   {
-    id: "mauritania-oase-atart-life-v2",
+    id: "mauritania-oase-atart-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Radio Atar r",
+                  "text": "Ein kulturelles Theater und lokaler Rundfunkort in der Oasenstadt Atar.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Radio Atar r",
+                  "text": "Egy kulturális színház és helyi műsorszóró helyszín Atar oázisvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Radio Atar r",
+                  "text": "Un teatru cultural și post de radiodifuziune local situat în orașul-oază Atar.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Radio Atar r",
+                  "text": "A cultural theatre and local broadcasting venue situated in the oasis city of Atar.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "forest",
     name: { de: "Oase Atar", hu: "Atar oázis", ro: "Oaza Atar", en: "Atar Oasis" },

@@ -1960,7 +1960,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin animalier de Monaco",
-                  "text": "Der zoologische Garten von Monaco im Stadtteil Fontvieille.",
+                  "text": "Zoologischer Garten von Monaco in Les Revoires, eröffnet 1954, mit tropischen Vögeln und Affen.",
                   "category": "family",
                   "coords": [
                         7.418647,
@@ -2394,7 +2394,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin animalier de Monaco",
-                  "text": "Monaco állatkertje Fontvieille negyedben.",
+                  "text": "Monacói Állatkert Les Revoires-ban, 1954-ben nyílt meg, trópusi madarakkal és majmokkal.",
                   "category": "family",
                   "coords": [
                         7.418647,
@@ -2828,7 +2828,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin animalier de Monaco",
-                  "text": "Grădina zoologică din Monaco situată în districtul Fontvieille.",
+                  "text": "Grădina Zoologică a Monaco în Les Revoires, deschisă în 1954, cu păsări tropicale și maimuțe.",
                   "category": "family",
                   "coords": [
                         7.418647,
@@ -3262,7 +3262,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Zoological Garden of Monaco",
-                  "text": "The zoological garden of Monaco located in the Fontvieille district.",
+                  "text": "Zoological Garden of Monaco in Les Revoires, opened in 1954, featuring tropical birds and monkeys.",
                   "category": "family",
                   "coords": [
                         7.418647,

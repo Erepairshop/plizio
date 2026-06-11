@@ -154,7 +154,124 @@ export const poiExtraUgandaReliefV2: POI[] = [
     },
   },
   {
-    id: "kigezi-highlands-relief-v2",
+    id: "kigezi-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Bunyonyi View",
+                  "text": "Ein malerischer Aussichtspunkt, der die dramatische Topographie und die von Inseln übersäten Gewässer der Kigezi-Highlands einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        29.804965,
+                        -1.216313
+                  ]
+            },
+            {
+                  "name": "Mount Muhabura View",
+                  "text": "Ein spektakulärer Aussichtspunkt, der den steilen, imposanten Vulkankegel des Mount Muhabura in der Ferne offenbart.",
+                  "category": "natural",
+                  "coords": [
+                        29.773066,
+                        -1.275294
+                  ]
+            },
+            {
+                  "name": "Echuya Central Proposed National Park",
+                  "text": "Ein vorgeschlagener Nationalpark, der ein hoch gelegenes Waldökosystem schützt, das für die lokale Artenvielfalt in den Kigezi-Highlands von entscheidender Bedeutung ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.819488,
+                        -1.282192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Bunyonyi View",
+                  "text": "Festői kilátás, amely megörökíti a Kigezi-felföldre jellemző drámai domborzatot és a szigetekkel tarkított vizeket.",
+                  "category": "natural",
+                  "coords": [
+                        29.804965,
+                        -1.216313
+                  ]
+            },
+            {
+                  "name": "Mount Muhabura View",
+                  "text": "Látványos kilátó, ahonnan a távolban magasodó Muhabura-hegy meredek, impozáns vulkáni kúpja tárul elénk.",
+                  "category": "natural",
+                  "coords": [
+                        29.773066,
+                        -1.275294
+                  ]
+            },
+            {
+                  "name": "Echuya Central Proposed National Park",
+                  "text": "Egy javasolt nemzeti park, amely a Kigezi-felföld helyi biológiai sokfélesége szempontjából létfontosságú, nagy tengerszint feletti magasságban lévő erdei ökoszisztémát véd.",
+                  "category": "natural",
+                  "coords": [
+                        29.819488,
+                        -1.282192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Bunyonyi View",
+                  "text": "O priveliște pitorească ce surprinde topografia dramatică și apele presărate cu insule, tipice zonelor înalte din Kigezi.",
+                  "category": "natural",
+                  "coords": [
+                        29.804965,
+                        -1.216313
+                  ]
+            },
+            {
+                  "name": "Mount Muhabura View",
+                  "text": "Un punct de belvedere spectaculos care dezvăluie conul vulcanic abrupt și impunător al Muntelui Muhabura, ridicându-se în depărtare.",
+                  "category": "natural",
+                  "coords": [
+                        29.773066,
+                        -1.275294
+                  ]
+            },
+            {
+                  "name": "Echuya Central Proposed National Park",
+                  "text": "Un parc național propus care protejează un ecosistem forestier de mare altitudine, vital pentru biodiversitatea locală din zonele înalte din Kigezi.",
+                  "category": "natural",
+                  "coords": [
+                        29.819488,
+                        -1.282192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Bunyonyi View",
+                  "text": "A scenic outlook capturing the dramatic topography and the island-dotted waters typical of the Kigezi highlands.",
+                  "category": "natural",
+                  "coords": [
+                        29.804965,
+                        -1.216313
+                  ]
+            },
+            {
+                  "name": "Mount Muhabura View",
+                  "text": "A spectacular viewpoint revealing the steep, imposing volcanic cone of Mount Muhabura rising in the distance.",
+                  "category": "natural",
+                  "coords": [
+                        29.773066,
+                        -1.275294
+                  ]
+            },
+            {
+                  "name": "Echuya Central Proposed National Park",
+                  "text": "A proposed national park protecting a high-altitude forest ecosystem vital for local biodiversity in the Kigezi highlands.",
+                  "category": "natural",
+                  "coords": [
+                        29.819488,
+                        -1.282192
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UG-307",
     coords: [29.8, -1.2],
@@ -198,7 +315,52 @@ export const poiExtraUgandaReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-napak-relief-v2",
+    id: "mount-napak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kochemaluk",
+                  "text": "Als markanter, rauer Gipfel innerhalb des Vulkanmassivs des Mount Napak bietet der Kochemaluk einen steilen Aufstieg für erfahrene Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        34.3533,
+                        2.1833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kochemaluk",
+                  "text": "A Mount Napak vulkáni masszívum kiemelkedő, zord csúcsaként a Kochemaluk meredek mászást kínál a tapasztalt túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        34.3533,
+                        2.1833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kochemaluk",
+                  "text": "Fiind un vârf accidentat proeminent în cadrul masivului vulcanic Muntele Napak, Kochemaluk oferă o urcare abruptă pentru excursioniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        34.3533,
+                        2.1833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kochemaluk",
+                  "text": "As a prominent rugged peak within the Mount Napak volcanic massif, Kochemaluk provides a steep climb for seasoned hikers.",
+                  "category": "natural",
+                  "coords": [
+                        34.3533,
+                        2.1833
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UG-501",
     coords: [34.3, 2.2],
@@ -330,7 +492,52 @@ export const poiExtraUgandaReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-kisinga-relief-v2",
+    id: "mount-kisinga-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mihunga Hotsprings pool",
+                  "text": "Vor einer bergigen Kulisse gelegen, bietet dieses natürliche Thermalbecken Badegästen die Möglichkeit, in geothermisch beheiztem Wasser zu entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        30.028842,
+                        0.354697
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mihunga Hotsprings pool",
+                  "text": "A hegyvidéki háttér előtt fekvő természetes termálmedence lehetőséget kínál a fürdőzőknek, hogy geotermikusan fűtött vízben áztassák magukat.",
+                  "category": "recreational",
+                  "coords": [
+                        30.028842,
+                        0.354697
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mihunga Hotsprings pool",
+                  "text": "Situată pe un fundal montan, această piscină termală naturală permite vizitatorilor să se scalde în ape încălzite geotermal.",
+                  "category": "recreational",
+                  "coords": [
+                        30.028842,
+                        0.354697
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mihunga Hotsprings pool",
+                  "text": "Set against a mountainous backdrop, this natural thermal pool allows bathers to soak in geothermally heated waters.",
+                  "category": "recreational",
+                  "coords": [
+                        30.028842,
+                        0.354697
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UG-405",
     coords: [30.1, 0.4],
@@ -418,7 +625,52 @@ export const poiExtraUgandaReliefV2: POI[] = [
     },
   },
   {
-    id: "kigezi-terraces-relief-v2",
+    id: "kigezi-terraces-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kibuzige",
+                  "text": "Ein markanter Berggipfel, der sich dramatisch über die terrassierten Landschaften der Kigezi-Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        29.8808,
+                        -1.1642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kibuzige",
+                  "text": "Kiemelkedő hegycsúcs, amely drámaian magasodik a Kigezi régió teraszos tájai fölé.",
+                  "category": "natural",
+                  "coords": [
+                        29.8808,
+                        -1.1642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kibuzige",
+                  "text": "Un vârf de munte proeminent care se înalță spectaculos deasupra peisajelor terasate din regiunea Kigezi.",
+                  "category": "natural",
+                  "coords": [
+                        29.8808,
+                        -1.1642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kibuzige",
+                  "text": "A prominent mountain peak rising dramatically above the terraced landscapes of the Kigezi region.",
+                  "category": "natural",
+                  "coords": [
+                        29.8808,
+                        -1.1642
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UG-307",
     coords: [29.9, -1.1],

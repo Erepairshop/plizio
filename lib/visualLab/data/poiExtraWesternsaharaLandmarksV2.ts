@@ -91,7 +91,52 @@ export const westernsaharaLandmarksV2: POI[] = [
     image: "/poi-images/westernsahara-smara-fort-landmarks-v2.webp",
   },
   {
-    id: "westernsahara-dakhla-lighthouse-landmarks-v2",
+    id: "westernsahara-dakhla-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oum Labouir",
+                  "text": "Dieser weite Sandstrand ist für seine hervorragenden Windverhältnisse bekannt und ein äußerst beliebtes Ziel zum Kitesurfen.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.922008,
+                        23.763068
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oum Labouir",
+                  "text": "A kiváló szélviszonyairól ismert, kiterjedt homokos strand rendkívül népszerű célpont a kiteszörfözők körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.922008,
+                        23.763068
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oum Labouir",
+                  "text": "Cunoscută pentru condițiile sale excelente de vânt, această vastă plajă cu nisip este o destinație extrem de populară pentru kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.922008,
+                        23.763068
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oum Labouir",
+                  "text": "Known for its excellent wind conditions, this expansive sandy beach is a highly popular destination for kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.922008,
+                        23.763068
+                  ]
+            }
+      ]
+},
     type: "tower",
     name: { de: "Leuchtturm von Dakhla", hu: "Dakhla-i világítótorony", ro: "Farul din Dakhla", en: "Lighthouse of Dakhla" },
     coords: [-15.9458, 23.7145],

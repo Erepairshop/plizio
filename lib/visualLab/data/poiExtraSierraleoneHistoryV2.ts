@@ -67,7 +67,52 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     },
   },
   {
-    id: "old-fourah-bay-college-history-v2",
+    id: "old-fourah-bay-college-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "H H Fofannah Enterprise",
+                  "text": "Dieser Theatersaal, der als kultureller Veranstaltungsort im Gebiet old-fourah-bay-college-history-v2 betrieben wird, bietet eine Bühne für lokale Theater- und Performance-Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.222057,
+                        8.486167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "H H Fofannah Enterprise",
+                  "text": "Az old-fourah-bay-college-history-v2 területén kulturális helyszínként működő színháztér a helyi drámai és előadó-művészeti események színtere.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.222057,
+                        8.486167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "H H Fofannah Enterprise",
+                  "text": "Funcționând ca un loc cultural în zona old-fourah-bay-college-history-v2, acest spațiu teatral oferă o scenă pentru piese de teatru și spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.222057,
+                        8.486167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "H H Fofannah Enterprise",
+                  "text": "Operating as a cultural venue in the old-fourah-bay-college-history-v2 area, this theatre space provides a stage for local drama and performance events.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.222057,
+                        8.486167
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SL-W",
     coords: [-13.2189, 8.4842],
@@ -375,7 +420,52 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     },
   },
   {
-    id: "kings-gate-history-v2",
+    id: "kings-gate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adjai Crowther Amphitheatre",
+                  "text": "Dieses Freilicht-Amphitheater in der Nähe des historischen King's Gate ist nach Bischof Samuel Adjai Crowther benannt und beherbergt Gemeindeversammlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.221808,
+                        8.476477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adjai Crowther Amphitheatre",
+                  "text": "A történelmi King's Gate közelében található szabadtéri amfiteátrum Samuel Adjai Crowther püspök nevét viseli, és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.221808,
+                        8.476477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adjai Crowther Amphitheatre",
+                  "text": "Situat lângă poarta istorică King's Gate, acest amfiteatru în aer liber poartă numele episcopului Samuel Adjai Crowther și găzduiește evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.221808,
+                        8.476477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adjai Crowther Amphitheatre",
+                  "text": "Located near the historic King's Gate, this open-air amphitheatre is named after Bishop Samuel Adjai Crowther and hosts community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.221808,
+                        8.476477
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SL-W",
     coords: [-13.2183, 8.4756],
@@ -439,7 +529,52 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     },
   },
   {
-    id: "maroons-church-history-v2",
+    id: "maroons-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. John's Maroon Church",
+                  "text": "Dieses historische Gebäude der Methodistenkirche spiegelt das Erbe der Maroon-Siedler in der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        -13.236743,
+                        8.485684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. John's Maroon Church",
+                  "text": "Ez a történelmi metodista templomépület a régióban letelepedett maroonok örökségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        -13.236743,
+                        8.485684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. John's Maroon Church",
+                  "text": "Această clădire istorică a bisericii metodiste reflectă moștenirea coloniștilor maroni din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -13.236743,
+                        8.485684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. John's Maroon Church",
+                  "text": "This historic Methodist church building reflects the heritage of the Maroon settlers in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -13.236743,
+                        8.485684
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SL-W",
     coords: [-13.2372, 8.4853],
@@ -503,7 +638,88 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     },
   },
   {
-    id: "boundary-marker-history-v2",
+    id: "boundary-marker-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Railway Museum",
+                  "text": "Dieses Museum im Gebiet boundary-marker-history-v2 bewahrt Schienenfahrzeuge und historische Waggons und dokumentiert die physische Geschichte des ehemaligen Eisenbahnnetzes von Sierra Leone.",
+                  "category": "museum",
+                  "coords": [
+                        -13.208847,
+                        8.489415
+                  ]
+            },
+            {
+                  "name": "Old Fourah Bay College",
+                  "text": "Mit seiner klassischen Steinarchitektur bleibt das Gebäude des Old Fourah Bay College eine bedeutende historische Attraktion im Bezirk boundary-marker-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.209522,
+                        8.492375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Railway Museum",
+                  "text": "A gördülőállományt és a régi kocsikat megőrző múzeum a boundary-marker-history-v2 területen Sierra Leone egykori vasúthálózatának fizikai történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -13.208847,
+                        8.489415
+                  ]
+            },
+            {
+                  "name": "Old Fourah Bay College",
+                  "text": "A klasszikus kőépítészetet bemutató Old Fourah Bay College épülete a boundary-marker-history-v2 negyed egyik kiemelkedő történelmi látványossága marad.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.209522,
+                        8.492375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Railway Museum",
+                  "text": "Păstrând material rulant și vagoane de epocă, acest muzeu din zona boundary-marker-history-v2 prezintă istoria fizică a fostei rețele feroviare din Sierra Leone.",
+                  "category": "museum",
+                  "coords": [
+                        -13.208847,
+                        8.489415
+                  ]
+            },
+            {
+                  "name": "Old Fourah Bay College",
+                  "text": "Afișând o arhitectură clasică din piatră, structura Vechiului Colegiu Fourah Bay rămâne o atracție istorică proeminentă în districtul boundary-marker-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.209522,
+                        8.492375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Railway Museum",
+                  "text": "Preserving rolling stock and vintage carriages, this museum in the boundary-marker-history-v2 area chronicles the physical history of Sierra Leone's former rail network.",
+                  "category": "museum",
+                  "coords": [
+                        -13.208847,
+                        8.489415
+                  ]
+            },
+            {
+                  "name": "Old Fourah Bay College",
+                  "text": "Displaying classical stone architecture, the structure of the Old Fourah Bay College remains a prominent historical attraction in the boundary-marker-history-v2 district.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.209522,
+                        8.492375
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SL-W",
     coords: [-13.2086, 8.4914],
@@ -567,7 +783,52 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     },
   },
   {
-    id: "regent-church-ruins-history-v2",
+    id: "regent-church-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tacaguma Chimpanzee Sanctuary",
+                  "text": "Diese bekannte Attraktion im Gebiet regent-church-ruins-history-v2 schützt dichte regionale Waldlebensräume und bietet ein sicheres Gehege für gerettete Schimpansen.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.204627,
+                        8.430245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tacaguma Chimpanzee Sanctuary",
+                  "text": "A sűrű regionális erdei élőhelyeket védő, jól ismert látványosság a regent-church-ruins-history-v2 területén biztonságos kifutót nyújt a megmentett csimpánzok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.204627,
+                        8.430245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tacaguma Chimpanzee Sanctuary",
+                  "text": "Protejând habitatele dense de pădure regională, această atracție cunoscută din zona regent-church-ruins-history-v2 oferă un țarc sigur pentru cimpanzeii salvați.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.204627,
+                        8.430245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tacaguma Chimpanzee Sanctuary",
+                  "text": "Protecting dense regional forest habitats, this well-known attraction in the regent-church-ruins-history-v2 area provides a safe enclosure for rescued chimpanzees.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.204627,
+                        8.430245
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SL-W",
     coords: [-13.2100, 8.4350],
@@ -631,7 +892,52 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     },
   },
   {
-    id: "heddles-farm-history-v2",
+    id: "heddles-farm-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leicester Peak",
+                  "text": "Die felsige Erhebung des Leicester Peak thront über der Landschaft von heddles-farm-history-v2 und stellt eines der markantesten natürlichen Wahrzeichen der Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        -13.223817,
+                        8.449635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leicester Peak",
+                  "text": "A heddles-farm-history-v2 táj fölé magasodó Leicester Peak sziklás magaslata a terület egyik kiemelkedő természetes tájékozódási pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -13.223817,
+                        8.449635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leicester Peak",
+                  "text": "Înălțându-se deasupra peisajului heddles-farm-history-v2, altitudinea stâncoasă a Leicester Peak reprezintă unul dintre reperele naturale proeminente ale zonei.",
+                  "category": "natural",
+                  "coords": [
+                        -13.223817,
+                        8.449635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leicester Peak",
+                  "text": "Towering over the heddles-farm-history-v2 landscape, the rocky elevation of Leicester Peak represents one of the area's prominent natural landmarks.",
+                  "category": "natural",
+                  "coords": [
+                        -13.223817,
+                        8.449635
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SL-W",
     coords: [-13.2200, 8.4600],
@@ -695,7 +1001,52 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     },
   },
   {
-    id: "bathurst-village-history-v2",
+    id: "bathurst-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tacugama Chimpanzee Sanctuary",
+                  "text": "Eingebettet im bewaldeten Gebiet bathurst-village-history-v2 fungiert dieses Schutzgebiet als aktiver Rettungs-Campingplatz für die Rehabilitation gefährdeter Primaten.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.206283,
+                        8.419978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tacugama Chimpanzee Sanctuary",
+                  "text": "A fás bathurst-village-history-v2 területen megbúvó menedékhely a veszélyeztetett főemlősök rehabilitációját szolgáló aktív mentőtáborként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.206283,
+                        8.419978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tacugama Chimpanzee Sanctuary",
+                  "text": "Ascuns în zona împădurită bathurst-village-history-v2, acest sanctuar funcționează ca o tabără activă de salvare pentru reabilitarea primatelor pe cale de dispariție.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.206283,
+                        8.419978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tacugama Chimpanzee Sanctuary",
+                  "text": "Nestled in the forested bathurst-village-history-v2 area, this sanctuary functions as an active rescue camp site for endangered primate rehabilitation.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.206283,
+                        8.419978
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SL-W",
     coords: [-13.1950, 8.4200],

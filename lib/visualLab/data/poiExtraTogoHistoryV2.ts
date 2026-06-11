@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraTogoHistoryV2: POI[] = [
   {
-    id: "chateau-viale-history-v2",
+    id: "chateau-viale-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "place de l'independance",
+                  "text": "Ein historischer öffentlicher Platz in der Nähe von Château Viale, der an die nationale Unabhängigkeit Togos erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        0.649688,
+                        6.973494
+                  ]
+            },
+            {
+                  "name": "valleé des chauve souris",
+                  "text": "Ein natürliches Tal in der Nähe von Château Viale, das dafür bekannt ist, große Kolonien einheimischer Fledermäuse zu beherbergen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.635205,
+                        6.952517
+                  ]
+            },
+            {
+                  "name": "foret des chauves souris",
+                  "text": "Ein dichtes Waldgebiet in der Nähe von Château Viale, das als wichtiger natürlicher Lebensraum für lokale Fledermauspopulationen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        0.633181,
+                        6.950017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "place de l'independance",
+                  "text": "Történelmi közösségi tér Château Viale közelében, amely Togo nemzeti függetlenségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        0.649688,
+                        6.973494
+                  ]
+            },
+            {
+                  "name": "valleé des chauve souris",
+                  "text": "Természetes völgy Château Viale közelében, amely az őshonos denevérek nagy kolóniáinak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        0.635205,
+                        6.952517
+                  ]
+            },
+            {
+                  "name": "foret des chauves souris",
+                  "text": "Sűrű erdős terület Château Viale közelében, amely a helyi denevérpopulációk egyik fő természetes élőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        0.633181,
+                        6.950017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "place de l'independance",
+                  "text": "O piață publică istorică lângă Château Viale, care comemorează independența națională a statului Togo.",
+                  "category": "historical",
+                  "coords": [
+                        0.649688,
+                        6.973494
+                  ]
+            },
+            {
+                  "name": "valleé des chauve souris",
+                  "text": "O vale naturală din apropierea Château Viale, cunoscută pentru găzduirea unor colonii mari de lilieci indigeni.",
+                  "category": "landmark",
+                  "coords": [
+                        0.635205,
+                        6.952517
+                  ]
+            },
+            {
+                  "name": "foret des chauves souris",
+                  "text": "O zonă dens împădurită de lângă Château Viale, care servește drept habitat natural major pentru populațiile locale de lilieci.",
+                  "category": "landmark",
+                  "coords": [
+                        0.633181,
+                        6.950017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "place de l'independance",
+                  "text": "A historic public square near Château Viale commemorating Togo's national independence.",
+                  "category": "historical",
+                  "coords": [
+                        0.649688,
+                        6.973494
+                  ]
+            },
+            {
+                  "name": "valleé des chauve souris",
+                  "text": "A natural valley near Château Viale known for hosting large colonies of indigenous bats.",
+                  "category": "landmark",
+                  "coords": [
+                        0.635205,
+                        6.952517
+                  ]
+            },
+            {
+                  "name": "foret des chauves souris",
+                  "text": "A dense forested area near Château Viale that serves as a major natural habitat for local bat populations.",
+                  "category": "landmark",
+                  "coords": [
+                        0.633181,
+                        6.950017
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-P",
     coords: [0.648, 6.952],
@@ -51,7 +168,88 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "maison-esclaves-agbodrafo-history-v2",
+    id: "maison-esclaves-agbodrafo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "O Lodge",
+                  "text": "Der O Lodge Wasserpark ist ein Erholungskomplex mit Wasseraktivitäten in der Nähe der historischen Sklavenhandel-Stätten von Agbodrafo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.463144,
+                        6.209602
+                  ]
+            },
+            {
+                  "name": "Maison des esclaves",
+                  "text": "Das aus dem Jahr 1835 stammende Wood Home in Agbodrafo ist ein mahnendes Museum zur Geschichte des transatlantischen Sklavenhandels.",
+                  "category": "museum",
+                  "coords": [
+                        1.476845,
+                        6.2038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "O Lodge",
+                  "text": "Az O Lodge Water Park egy vízi tevékenységeket kínáló rekreációs komplexum Agbodrafo történelmi rabszolga-kereskedelmi helyszíneinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.463144,
+                        6.209602
+                  ]
+            },
+            {
+                  "name": "Maison des esclaves",
+                  "text": "Az 1835-ből származó agbodrafói Wood Home egy megrázó múzeum, amely a transzatlanti rabszolga-kereskedelem történetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        1.476845,
+                        6.2038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "O Lodge",
+                  "text": "O Lodge Water Park este un complex de agrement care oferă activități acvatice în apropierea siturilor istorice ale comerțului cu sclavi din Agbodrafo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.463144,
+                        6.209602
+                  ]
+            },
+            {
+                  "name": "Maison des esclaves",
+                  "text": "Datând din 1835, Wood Home din Agbodrafo este un muzeu solemn dedicat păstrării istoriei comerțului transatlantic cu sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        1.476845,
+                        6.2038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "O Lodge Water Park / Hotel",
+                  "text": "O Lodge Water Park is a recreational complex offering aquatic activities near the historical slave trade sites of Agbodrafo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.463144,
+                        6.209602
+                  ]
+            },
+            {
+                  "name": "Wood Home",
+                  "text": "Dating back to 1835, the Wood Home in Agbodrafo is a sobering museum dedicated to preserving the history of the transatlantic slave trade.",
+                  "category": "museum",
+                  "coords": [
+                        1.476845,
+                        6.2038
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-M",
     coords: [1.478, 6.223],
@@ -99,7 +297,52 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "musee-national-lome-history-v2",
+    id: "musee-national-lome-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la Libération",
+                  "text": "Der öffentliche Themenpark bietet angelegte Grünflächen und Gedenkdenkmäler im Herzen der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.22346,
+                        6.13134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la Libération",
+                  "text": "A nyilvános tematikus park parkosított zöldterületekkel és emlékművekkel rendelkezik a város szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.22346,
+                        6.13134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la Libération",
+                  "text": "Parcul tematic public prezintă spații verzi amenajate și monumente comemorative în inima orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        1.22346,
+                        6.13134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la Libération",
+                  "text": "The public theme park features landscaped green spaces and commemorative monuments in the heart of the city.",
+                  "category": "recreational",
+                  "coords": [
+                        1.22346,
+                        6.13134
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-M",
     coords: [1.224, 6.132],
@@ -147,7 +390,52 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "palais-gouverneurs-history-v2",
+    id: "palais-gouverneurs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Atebai",
+                  "text": "Das Centre Atebai ist ein Museum für kulturelles Erbe in der Nähe des historischen Palais des Gouverneurs.",
+                  "category": "museum",
+                  "coords": [
+                        1.208724,
+                        6.120756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Atebai",
+                  "text": "A Centre Atebai egy kulturális örökséggel foglalkozó múzeum a történelmi Palais des Gouverneurs közelében.",
+                  "category": "museum",
+                  "coords": [
+                        1.208724,
+                        6.120756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Atebai",
+                  "text": "Centrul Atebai este un muzeu axat pe moștenirea culturală, situat aproape de istoricul Palais des Gouverneurs.",
+                  "category": "museum",
+                  "coords": [
+                        1.208724,
+                        6.120756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Atebai",
+                  "text": "Centre Atebai is a museum focusing on cultural heritage, located close to the historic Palais des Gouverneurs.",
+                  "category": "museum",
+                  "coords": [
+                        1.208724,
+                        6.120756
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-M",
     coords: [1.213, 6.121],
@@ -243,7 +531,52 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "cathedrale-sacre-coeur-history-v2",
+    id: "cathedrale-sacre-coeur-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monico Metal Supply",
+                  "text": "Monico Metal Supply dient als unerwarteter industrieller Anziehungspunkt in der Nähe der großen Cathédrale Sacré-Cœur.",
+                  "category": "landmark",
+                  "coords": [
+                        1.222832,
+                        6.13049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monico Metal Supply",
+                  "text": "A Monico Metal Supply egy váratlan ipari érdekesség a nagy Cathédrale Sacré-Cœur közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.222832,
+                        6.13049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monico Metal Supply",
+                  "text": "Monico Metal Supply servește ca un punct de atracție industrial neașteptat lângă marea Cathédrale Sacré-Cœur.",
+                  "category": "landmark",
+                  "coords": [
+                        1.222832,
+                        6.13049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monico Metal Supply",
+                  "text": "Monico Metal Supply serves as an unexpected industrial point of interest near the grand Cathédrale Sacré-Cœur.",
+                  "category": "landmark",
+                  "coords": [
+                        1.222832,
+                        6.13049
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-M",
     coords: [1.223, 6.130],
@@ -435,7 +768,88 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "grottes-maproug-history-v2",
+    id: "grottes-maproug-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "Die Fosse aux lions ist ein anerkanntes Naturschutzgebiet mit dichten Waldgebieten und wichtigen natürlichen Lebensräumen für die regionale Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            },
+            {
+                  "name": "ZAAP de Dalwak",
+                  "text": "ZAAP de Dalwak ist eine weitläufige landwirtschaftliche Entwicklungszone, die die modernen Feldinitiativen und die ländliche Organisation der Region hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        0.201859,
+                        10.77364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "A Fosse aux lions egy elismert természetvédelmi terület, amely sűrű erdőségekkel és a regionális vadvilág számára létfontosságú természetes élőhelyekkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            },
+            {
+                  "name": "ZAAP de Dalwak",
+                  "text": "A ZAAP de Dalwak egy kiterjedt mezőgazdasági fejlesztési övezet, amely bemutatja a régió modern szántóföldi kezdeményezéseit és vidéki szerveződését.",
+                  "category": "landmark",
+                  "coords": [
+                        0.201859,
+                        10.77364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "Fosse aux lions este o rezervație naturală recunoscută, cu zone dens împădurite și habitate naturale vitale pentru fauna regională.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            },
+            {
+                  "name": "ZAAP de Dalwak",
+                  "text": "ZAAP de Dalwak este o zonă de dezvoltare agricolă extinsă care evidențiază inițiativele moderne de câmp și organizarea rurală a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        0.201859,
+                        10.77364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "The Fosse aux lions is a recognized nature reserve featuring dense forested areas and vital natural habitats for regional wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            },
+            {
+                  "name": "ZAAP de Dalwak",
+                  "text": "ZAAP de Dalwak is an expansive agricultural development zone that highlights the region's modern field initiatives and rural organization.",
+                  "category": "landmark",
+                  "coords": [
+                        0.201859,
+                        10.77364
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-S",
     coords: [0.205, 10.802],
@@ -531,7 +945,160 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "ruines-radio-kamina-history-v2",
+    id: "ruines-radio-kamina-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument aux morts Mari iba",
+                  "text": "Dieses Kriegerdenkmal in der Nähe der Funkruinen von Kamina erinnert an die gefallenen Soldaten der Region Mari iba.",
+                  "category": "historical",
+                  "coords": [
+                        1.161209,
+                        7.529875
+                  ]
+            },
+            {
+                  "name": "Cimetière de okpodji",
+                  "text": "Der Okpodji-Friedhof ist eine monumentale Ruhestätte, die sich durch traditionelle Grabsteine aus der historischen Region Kamina auszeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        1.150991,
+                        7.555169
+                  ]
+            },
+            {
+                  "name": "Cimetière de gbecon",
+                  "text": "Der in der Nähe der Kamina-Ruinen gelegene Gbecon-Friedhof bewahrt die angestammten Begräbnisstätten der örtlichen Gemeinschaft.",
+                  "category": "historical",
+                  "coords": [
+                        1.147955,
+                        7.559334
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "Dieses Denkmal in der Nähe der historischen Funkstation Kamina markiert ein geschütztes Gebiet des traditionellen Gemeindewaldes.",
+                  "category": "historical",
+                  "coords": [
+                        1.192445,
+                        7.529644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux morts Mari iba",
+                  "text": "A Kamina rádióállomás romjai közelében található háborús emlékmű a Mari iba régió elesett katonáinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        1.161209,
+                        7.529875
+                  ]
+            },
+            {
+                  "name": "Cimetière de okpodji",
+                  "text": "Az Okpodji temető egy monumentális nyughely, amelyet a Kamina történelmi terület hagyományos sírjelzései jellemeznek.",
+                  "category": "historical",
+                  "coords": [
+                        1.150991,
+                        7.555169
+                  ]
+            },
+            {
+                  "name": "Cimetière de gbecon",
+                  "text": "A Kamina romjai közelében található Gbecon temető a helyi közösség ősi temetkezési helyeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        1.147955,
+                        7.559334
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "Ez a történelmi Kamina rádióállomás közelében lévő emlékmű egy védett hagyományos közösségi erdősávot jelöl ki.",
+                  "category": "historical",
+                  "coords": [
+                        1.192445,
+                        7.529644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux morts Mari iba",
+                  "text": "Situat în apropierea ruinelor radio Kamina, acest memorial de război comemorează soldații căzuți în regiunea Mari iba.",
+                  "category": "historical",
+                  "coords": [
+                        1.161209,
+                        7.529875
+                  ]
+            },
+            {
+                  "name": "Cimetière de okpodji",
+                  "text": "Cimitirul Okpodji este un loc de odihnă monumental caracterizat de pietre funerare tradiționale din zona istorică Kamina.",
+                  "category": "historical",
+                  "coords": [
+                        1.150991,
+                        7.555169
+                  ]
+            },
+            {
+                  "name": "Cimetière de gbecon",
+                  "text": "Situat în apropierea ruinelor Kamina, Cimitirul Gbecon păstrează cimitirele ancestrale ale comunității locale.",
+                  "category": "historical",
+                  "coords": [
+                        1.147955,
+                        7.559334
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "Acest monument din apropierea sitului istoric radio Kamina desemnează o porțiune protejată a pădurii comunitare tradiționale.",
+                  "category": "historical",
+                  "coords": [
+                        1.192445,
+                        7.529644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument aux morts Mari iba",
+                  "text": "Located near the Kamina radio ruins, this war memorial commemorates the fallen soldiers of the Mari iba region.",
+                  "category": "historical",
+                  "coords": [
+                        1.161209,
+                        7.529875
+                  ]
+            },
+            {
+                  "name": "Cimetière de okpodji",
+                  "text": "The Okpodji Cemetery is a monumental resting place characterized by traditional grave markers from the Kamina historical area.",
+                  "category": "historical",
+                  "coords": [
+                        1.150991,
+                        7.555169
+                  ]
+            },
+            {
+                  "name": "Cimetière de gbecon",
+                  "text": "Situated near the Kamina ruins, the Gbecon Cemetery preserves the ancestral burial grounds of the local community.",
+                  "category": "historical",
+                  "coords": [
+                        1.147955,
+                        7.559334
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "This monument near the historic Kamina radio site designates a protected swath of traditional community forest.",
+                  "category": "historical",
+                  "coords": [
+                        1.192445,
+                        7.529644
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-P",
     coords: [1.152, 7.558],
@@ -627,7 +1194,160 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "wharf-lome-history-v2",
+    id: "wharf-lome-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin",
+                  "text": "Dieser historische Moulin ist eine traditionelle Windmühle in der Nähe des alten Docks von Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.20715,
+                        6.133716
+                  ]
+            },
+            {
+                  "name": "Mouilin",
+                  "text": "Dieser Mouilin ist eine ikonische windbetriebene Mühlenstruktur, die im historischen Hafenviertel von Lomé erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        1.199669,
+                        6.126359
+                  ]
+            },
+            {
+                  "name": "Place FAO",
+                  "text": "Die Place FAO ist ein öffentlicher Platz in Lomé mit einem Monument, das der Ernährungs- und Landwirtschaftsorganisation gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        1.213621,
+                        6.127442
+                  ]
+            },
+            {
+                  "name": "Centre Sculpture d'art",
+                  "text": "Das Centre Sculpture d'art in Lomé ist ein spezialisiertes Museum, das kunstvolle togoische Holz- und Steinschnitzereien präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        1.209031,
+                        6.141217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin",
+                  "text": "Ez a történelmi Moulin egy hagyományos szélmalomépület, amely a régi loméi rakpart közelében áll.",
+                  "category": "landmark",
+                  "coords": [
+                        1.20715,
+                        6.133716
+                  ]
+            },
+            {
+                  "name": "Mouilin",
+                  "text": "Ez a Mouilin egy ikonikus, széllel hajtott malomépület, amelyet Lomé történelmi rakparti negyedében őriztek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        1.199669,
+                        6.126359
+                  ]
+            },
+            {
+                  "name": "Place FAO",
+                  "text": "A Place FAO egy köztéri emlékmű Loméban, amelyet az Élelmezésügyi és Mezőgazdasági Szervezetnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        1.213621,
+                        6.127442
+                  ]
+            },
+            {
+                  "name": "Centre Sculpture d'art",
+                  "text": "A loméi Centre Sculpture d'art egy specializált múzeum, amely bonyolult togói fa- és kőfaragványokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        1.209031,
+                        6.141217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin",
+                  "text": "Această moară de vânt istorică, Moulin, este o structură tradițională situată lângă vechiul debarcader din Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.20715,
+                        6.133716
+                  ]
+            },
+            {
+                  "name": "Mouilin",
+                  "text": "Acest Mouilin este o structură emblematică de moară acționată de vânt, păstrată în districtul istoric al debarcaderului din Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.199669,
+                        6.126359
+                  ]
+            },
+            {
+                  "name": "Place FAO",
+                  "text": "Place FAO este o piață publică monumentală din Lomé, dedicată Organizației pentru Alimentație și Agricultură.",
+                  "category": "historical",
+                  "coords": [
+                        1.213621,
+                        6.127442
+                  ]
+            },
+            {
+                  "name": "Centre Sculpture d'art",
+                  "text": "Centre Sculpture d'art din Lomé este un muzeu specializat care expune sculpturi complicate în lemn și piatră din Togo.",
+                  "category": "museum",
+                  "coords": [
+                        1.209031,
+                        6.141217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin",
+                  "text": "This historic Moulin is a traditional windmill structure standing near the old Lomé wharf.",
+                  "category": "landmark",
+                  "coords": [
+                        1.20715,
+                        6.133716
+                  ]
+            },
+            {
+                  "name": "Mouilin",
+                  "text": "This Mouilin is an iconic wind-powered mill structure preserved in the historic wharf district of Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.199669,
+                        6.126359
+                  ]
+            },
+            {
+                  "name": "Place FAO",
+                  "text": "Place FAO is a public monument square in Lomé dedicated to the Food and Agriculture Organization.",
+                  "category": "historical",
+                  "coords": [
+                        1.213621,
+                        6.127442
+                  ]
+            },
+            {
+                  "name": "Centre Sculpture d'art",
+                  "text": "The Centre Sculpture d'art in Lomé is a specialized museum showcasing intricate Togolese wood and stone carvings.",
+                  "category": "museum",
+                  "coords": [
+                        1.209031,
+                        6.141217
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-M",
     coords: [1.211, 6.128],
@@ -675,7 +1395,160 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "marche-fetiches-akodessewa-history-v2",
+    id: "marche-fetiches-akodessewa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre de loisirs Cité BOAD",
+                  "text": "Das Centre de loisirs Cité BOAD ist eine Freizeitanlage unweit des berühmten Voodoo-Marktes Akodessewa.",
+                  "category": "landmark",
+                  "coords": [
+                        1.320796,
+                        6.168737
+                  ]
+            },
+            {
+                  "name": "Marcelo Beach",
+                  "text": "Marcelo Beach ist ein Strandresort, das Erholung in der Nähe des historischen Viertels Akodessewa bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.314448,
+                        6.155089
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "Coco Beach ist ein Strandresort mit Sandstrand, nur eine kurze Fahrt vom Voodoo-Markt Akodessewa entfernt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.298732,
+                        6.150411
+                  ]
+            },
+            {
+                  "name": "SMAT",
+                  "text": "SMAT ist ein lokales Kunstzentrum in der Nähe des Akodessewa-Marktes, das den kulturellen Ausdruck Togos fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        1.295831,
+                        6.15607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre de loisirs Cité BOAD",
+                  "text": "A Centre de loisirs Cité BOAD egy szabadidős létesítmény a híres akodessewai fetispiactól nem messze.",
+                  "category": "landmark",
+                  "coords": [
+                        1.320796,
+                        6.168737
+                  ]
+            },
+            {
+                  "name": "Marcelo Beach",
+                  "text": "A Marcelo Beach egy tengerparti üdülőhely, amely pihenést kínál a történelmi Akodessewa negyed közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.314448,
+                        6.155089
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "A Coco Beach egy homokos tengerparti üdülőhely, rövid távolságra az akodessewai fetispiactól.",
+                  "category": "recreational",
+                  "coords": [
+                        1.298732,
+                        6.150411
+                  ]
+            },
+            {
+                  "name": "SMAT",
+                  "text": "A SMAT egy helyi művészeti központ az akodessewai piac közelében, amely a togói kultúrát népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        1.295831,
+                        6.15607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre de loisirs Cité BOAD",
+                  "text": "Centre de loisirs Cité BOAD este un complex de agrement situat la mică distanță de faimoasa piață de fetișuri Akodessewa.",
+                  "category": "landmark",
+                  "coords": [
+                        1.320796,
+                        6.168737
+                  ]
+            },
+            {
+                  "name": "Marcelo Beach",
+                  "text": "Marcelo Beach este o stațiune de coastă care oferă relaxare lângă districtul istoric Akodessewa.",
+                  "category": "recreational",
+                  "coords": [
+                        1.314448,
+                        6.155089
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "Coco Beach este o stațiune litorală cu țărmuri nisipoase, situată la scurtă distanță de piața de fetișuri Akodessewa.",
+                  "category": "recreational",
+                  "coords": [
+                        1.298732,
+                        6.150411
+                  ]
+            },
+            {
+                  "name": "SMAT",
+                  "text": "SMAT este un centru de arte local care promovează expresiile culturale togoleze lângă piața Akodessewa.",
+                  "category": "cultural",
+                  "coords": [
+                        1.295831,
+                        6.15607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre de loisirs Cité BOAD",
+                  "text": "The Centre de loisirs Cité BOAD is a recreational facility situated near the famous Akodessewa Fetish Market.",
+                  "category": "landmark",
+                  "coords": [
+                        1.320796,
+                        6.168737
+                  ]
+            },
+            {
+                  "name": "Marcelo Beach",
+                  "text": "Marcelo Beach is a coastal resort offering relaxation near the historic Akodessewa district.",
+                  "category": "recreational",
+                  "coords": [
+                        1.314448,
+                        6.155089
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "Coco Beach is a seaside resort featuring sandy shores just a short distance from the Akodessewa Fetish Market.",
+                  "category": "recreational",
+                  "coords": [
+                        1.298732,
+                        6.150411
+                  ]
+            },
+            {
+                  "name": "SMAT",
+                  "text": "SMAT is a local arts centre promoting Togolese cultural expressions near the Akodessewa market.",
+                  "category": "cultural",
+                  "coords": [
+                        1.295831,
+                        6.15607
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-M",
     coords: [1.282, 6.152],
@@ -771,7 +1644,196 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "quartier-historique-aneho-history-v2",
+    id: "quartier-historique-aneho-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place Akofin",
+                  "text": "Der Place Akofin ist ein Freilufttheater im historischen Viertel von Aného, in dem kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "Das Memorial d'Adokoin Kpadji steht im historischen Viertel von Aného als steinernes Denkmal für die lokalen Vorfahren und das kulturelle Erbe.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "Die Galerie Africa Ligth stellt im Herzen des historischen Viertels von Aného traditionelle und zeitgenössische westafrikanische Kunst aus.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "Das Monument de Jesus ist eine religiöse Statue, die als spirituelles Wahrzeichen in der Altstadt von Aného dient.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "Diese traditionelle Windmühle zum Maismahlen ist ein funktionales Zeugnis des landwirtschaftlichen Erbes in den historischen Vierteln von Aného.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Akofin",
+                  "text": "A Place Akofin egy szabadtéri színházi tér, amely kulturális előadásoknak ad otthont Aného történelmi negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "A Memorial d'Adokoin Kpadji Aného történelmi negyedében álló kőemlékmű, amelyet a helyi ősöknek és az örökségnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "A Galerie Africa Ligth hagyományos és kortárs nyugat-afrikai művészeti alkotásokat állít ki Aného történelmi negyedének szívében.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "A Monument de Jesus egy vallási szobor, amely spirituális tájékozódási pontként szolgál Aného óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "Ez a hagyományos kukoricaőrlő szélmalom a mezőgazdasági örökség ma is működő darabja Aného történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Akofin",
+                  "text": "Place Akofin este un spațiu teatral în aer liber care găzduiește spectacole culturale în cartierul istoric din Aného.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "Memorial d'Adokoin Kpadji se înalță în cartierul istoric din Aného ca un monument de piatră dedicat strămoșilor și moștenirii locale.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "Galerie Africa Ligth expune artă vest-africană tradițională și contemporană în inima cartierului istoric din Aného.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "Monument de Jesus este o statuie religioasă care servește drept reper spiritual în centrul vechi din Aného.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "Această moară de vânt tradițională pentru măcinarea porumbului este o piesă funcțională a patrimoniului agricol din cartierele istorice din Aného.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Akofin",
+                  "text": "Place Akofin is an open-air theatre space hosting cultural performances within the historic district of Aného.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "The Memorial d'Adokoin Kpadji stands in Aného's historic quarter as a stone monument dedicated to local ancestors and heritage.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "Galerie Africa Ligth exhibits traditional and contemporary West African art in the heart of Aného's historic district.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "The Monument de Jesus is a religious statue serving as a spiritual landmark in the old town of Aného.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "This traditional corn-grinding windmill is a functional piece of agricultural heritage within Aného's historic neighborhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-M",
     coords: [1.602, 6.231],
@@ -915,7 +1977,88 @@ export const poiExtraTogoHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-allemand-sansanne-mango-history-v2",
+    id: "fort-allemand-sansanne-mango-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farver's house",
+                  "text": "Farver's House ist ein befestigter historischer Wohnsitz, der mit einer dicken Verteidigungsarchitektur aus der Kolonialzeit erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "Farver's 2.0 ist eine verbliebene historische Sehenswürdigkeit, die das Erbe der alten deutschen Festungsanlagen in Sansanné-Mango widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farver's house",
+                  "text": "A Farver-ház egy erődített történelmi rezidencia, amely a gyarmati korból származó vastag védelmi építészettel épült.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "A Farver's 2.0 egy fennmaradt történelmi nevezetesség, amely a régi német erődítmények örökségét tükrözi Sansanné-Mangóban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farver's house",
+                  "text": "Casa lui Farver este o reședință istorică fortificată, construită cu o arhitectură defensivă groasă din epoca colonială.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "Farver's 2.0 este un punct de atracție istoric rămas care reflectă moștenirea vechilor instalații ale fortului german din Sansanné-Mango.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farver's house",
+                  "text": "Farver's house is a fortified historical residence built with thick defensive architecture from the colonial era.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "Farver's 2.0 is a remnant historical point of interest reflecting the legacy of the old German fort installations in Sansanné-Mango.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TG-S",
     coords: [0.472, 10.362],

@@ -430,7 +430,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Eine historische Kirche in Valletta, die dem heiligen Augustinus gewidmet ist.",
+                  "text": "Geschützte Augustinerkirche.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -981,7 +981,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Történelmi templom Vallettában, amelyet Szent Ágostonnak szenteltek.",
+                  "text": "Védett Ágoston-templom.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -1532,7 +1532,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "O biserică istorică din Valletta dedicată Sfântului Augustin.",
+                  "text": "Biserica Sfântul Augustin protejată.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -2083,7 +2083,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Augustine",
-                  "text": "A historic church in Valletta dedicated to Saint Augustine.",
+                  "text": "Listed church of Saint Augustine.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -2326,7 +2326,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Fort Ricasoli",
-                  "text": "Fort Ricasoli ist eine historische Bastionsfestung und Burganlage in Sliema.",
+                  "text": "Festung erbaut 1698.",
                   "category": "castle",
                   "coords": [
                         14.526926,
@@ -2416,7 +2416,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
-                  "text": "Die Church of Saint Catherine of Alexandria ist ein historischer Ort der Andacht in Sliema.",
+                  "text": "1576 erbaute Kirche der heiligen Katharina von Alexandrien.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -2551,7 +2551,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Die Saint Paul's Anglican Cathedral ist ein markantes Kulturerbe in Sliema.",
+                  "text": "Geschützte anglikanische Pro-Kathedrale.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -2560,7 +2560,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Die Stella Maris Parish Church ist eine historische Pfarrkirche und Kulturerbe in Sliema.",
+                  "text": "Geschützte Pfarrkirche Stella Maris.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -2587,7 +2587,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Saint Publius Parish Church ist eine historische Sehenswürdigkeit in Sliema.",
+                  "text": "Geschützte Pfarrkirche des heiligen Publius.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -2596,7 +2596,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "Church of Our Lady of Pilar ist eine historische Sehenswürdigkeit in Sliema.",
+                  "text": "Geschützte Kirche Unserer Lieben Frau von Pilar.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -2605,7 +2605,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja ta' San Nikola",
-                  "text": "Church of Saint Nicholas ist eine historische Sehenswürdigkeit in Sliema.",
+                  "text": "Geschützte Niklaskirche.",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -2886,7 +2886,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Fort Ricasoli",
-                  "text": "A Fort Ricasoli egy történelmi bástyás erőd és kastély Sliema területén.",
+                  "text": "1698-ban épült erőd.",
                   "category": "castle",
                   "coords": [
                         14.526926,
@@ -2976,7 +2976,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
-                  "text": "A Church of Saint Catherine of Alexandria egy történelmi istentiszteleti hely Sliema városában.",
+                  "text": "1576-ban épült Alexandriai Szent Katalin-templom.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -3111,7 +3111,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "A Saint Paul's Anglican Cathedral egy kiemelkedő műemlék épület Sliema városában.",
+                  "text": "Védett anglikán pro-katedrális.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -3120,7 +3120,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "A Stella Maris Parish Church egy történelmi örökségi helyszín és plébániatemplom Sliema területén.",
+                  "text": "Védett Stella Maris-plébániatemplom.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -3147,7 +3147,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Saint Publius Parish Church egy történelmi örökségi helyszín Sliema városában.",
+                  "text": "Védett Szent Publius-plébániatemplom.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -3156,7 +3156,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "Church of Our Lady of Pilar egy történelmi örökségi helyszín Sliema városában.",
+                  "text": "Védett Miasszonyunk a Pilár-ból templom.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -3165,7 +3165,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja ta' San Nikola",
-                  "text": "Church of Saint Nicholas egy történelmi örökségi helyszín Sliema városában.",
+                  "text": "Védett Szent Miklós-templom.",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -3446,7 +3446,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Fort Ricasoli",
-                  "text": "Fortul Ricasoli este un fort bastion istoric situat în Sliema.",
+                  "text": "Fortăreață construită în 1698.",
                   "category": "castle",
                   "coords": [
                         14.526926,
@@ -3536,7 +3536,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
-                  "text": "Biserica Sfânta Ecaterina din Alexandria este un lăcaș de cult istoric situat în Sliema.",
+                  "text": "Biserica Sfânta Ecaterina din Alexandria, construită în 1576.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -3671,7 +3671,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Catedrala Anglicană Sfântul Pavel este un reper de patrimoniu proeminent situat în Sliema.",
+                  "text": "Pro-catedrală anglicană protejată.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -3680,7 +3680,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Biserica Parohială Stella Maris este un sit istoric de patrimoniu și o biserică parohială situată în Sliema.",
+                  "text": "Biserica parohială Stella Maris protejată.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -3707,7 +3707,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Saint Publius Parish Church este un sit de patrimoniu istoric situat în Sliema.",
+                  "text": "Biserica parohială Sfântul Publius protejată.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -3716,7 +3716,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "Church of Our Lady of Pilar este un sit de patrimoniu istoric situat în Sliema.",
+                  "text": "Biserica Maica Domnului de la Pilar protejată.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -3725,7 +3725,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja ta' San Nikola",
-                  "text": "Church of Saint Nicholas este un sit de patrimoniu istoric situat în Sliema.",
+                  "text": "Biserica Sfântul Nicolae protejată.",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -4006,7 +4006,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Fort Ricasoli",
-                  "text": "Fort Ricasoli is a historic bastioned fort and castle located in Sliema.",
+                  "text": "Fort built in 1698.",
                   "category": "castle",
                   "coords": [
                         14.526926,
@@ -4096,7 +4096,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Catherine of Alexandria",
-                  "text": "The Church of Saint Catherine of Alexandria is a historic place of worship situated in Sliema.",
+                  "text": "Church of Saint Catherine of Alexandria built in 1576.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -4231,7 +4231,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Paul's Anglican Cathedral",
-                  "text": "Saint Paul's Anglican Cathedral is a prominent heritage landmark situated in Sliema.",
+                  "text": "Listed Anglican pro-cathedral.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -4240,7 +4240,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Parish Church",
-                  "text": "Stella Maris Parish Church is a historic heritage site and parish church located in Sliema.",
+                  "text": "Listed Stella Maris parish church.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -4267,7 +4267,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Publius Parish Church",
-                  "text": "Saint Publius Parish Church is a historic heritage site located in Sliema.",
+                  "text": "Listed Saint Publius parish church.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -4276,7 +4276,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Pilar",
-                  "text": "Church of Our Lady of Pilar is a historic heritage site located in Sliema.",
+                  "text": "Listed church of Our Lady of Pilar.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -4285,7 +4285,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Nicholas",
-                  "text": "Church of Saint Nicholas is a historic heritage site located in Sliema.",
+                  "text": "Listed church of Saint Nicholas.",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -4537,7 +4537,7 @@ export const poiExtraMaltaCities: POI[] = [
       "de": [
             {
                   "name": "Torri tal-Madliena",
-                  "text": "Ein Wachturm aus dem 17. Jahrhundert an der Küste von Madliena.",
+                  "text": "Ein denkmalgeschützter Turm (Grade II) von 1658 in St. Julian's.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -5097,7 +5097,7 @@ export const poiExtraMaltaCities: POI[] = [
       "hu": [
             {
                   "name": "Torri tal-Madliena",
-                  "text": "17. századi őrtorony Madliena tengerpartján.",
+                  "text": "Egy 1658-ból származó, II. fokozatú védett torony St. Julian'sban.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -5657,7 +5657,7 @@ export const poiExtraMaltaCities: POI[] = [
       "ro": [
             {
                   "name": "Torri tal-Madliena",
-                  "text": "Un turn de veghe din secolul al XVII-lea pe coasta Madliena.",
+                  "text": "Un turn de gradul II din 1658 în St. Julian's.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -6217,7 +6217,7 @@ export const poiExtraMaltaCities: POI[] = [
       "en": [
             {
                   "name": "Torri tal-Madliena",
-                  "text": "A 17th-century watchtower on the coast of Madliena.",
+                  "text": "A Grade 2 fortified tower from 1658 in St. Julian's.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -7162,7 +7162,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Eine markante anglikanische Kathedrale, bekannt für ihren weithin sichtbaren Kirchturm.",
+                  "text": "Geschützte anglikanische Pro-Kathedrale.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -7767,7 +7767,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Jellegzetes anglikán székesegyház, amely kiemelkedő tornyáról ismert.",
+                  "text": "Védett anglikán pro-katedrális.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -8372,7 +8372,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "O catedrală anglicană emblematică, cunoscută pentru turla sa proeminentă.",
+                  "text": "Pro-catedrală anglicană protejată.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -8977,7 +8977,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Paul's Anglican Cathedral",
-                  "text": "A landmark Anglican cathedral known for its prominent spire.",
+                  "text": "Listed Anglican pro-cathedral.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -9427,7 +9427,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
-                  "text": "Church of Saint Catherine of Alexandria ist ein Gotteshaus in Msida.",
+                  "text": "1576 erbaute Kirche der heiligen Katharina von Alexandrien.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -9589,7 +9589,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Saint Paul's Anglican Cathedral ist eine historische Sehenswürdigkeit in Msida.",
+                  "text": "Geschützte anglikanische Pro-Kathedrale.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -9598,7 +9598,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Stella Maris Parish Church ist eine historische Sehenswürdigkeit in Msida.",
+                  "text": "Geschützte Pfarrkirche Stella Maris.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -9607,7 +9607,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Berġa ta' Bavjera",
-                  "text": "Auberge of Bavière ist eine historische Sehenswürdigkeit in Msida.",
+                  "text": "Eine denkmalgeschützte Auberge (Grade II) von 1696 in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.514179,
@@ -9616,7 +9616,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Die Church of Saint Augustine ist eine historische Stätte in Msida.",
+                  "text": "Geschützte Augustinerkirche.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -9625,7 +9625,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Die Saint Publius Parish Church ist eine bemerkenswerte historische Stätte in Msida.",
+                  "text": "Geschützte Pfarrkirche des heiligen Publius.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -9634,7 +9634,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "Die Church of Our Lady of Pilar ist eine historische Stätte in Msida.",
+                  "text": "Die denkmalgeschützte Kirche Unserer Lieben Frau vom Pfeiler (Stufe 2) in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -9643,7 +9643,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja ta' San Nikola",
-                  "text": "Die Church of Saint Nicholas ist eine historische Stätte in Msida.",
+                  "text": "Die denkmalgeschützte St.-Nikolaus-Kirche (Stufe 2) in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -9661,7 +9661,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Die Saint Mary's Parish Church ist eine historische Stätte in Msida.",
+                  "text": "Die denkmalgeschützte Marien-Pfarrkirche (Stufe 2) in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -9670,7 +9670,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Sant' Elena",
-                  "text": "Die Parish Church of Saint Helen ist eine historische Stätte in Msida.",
+                  "text": "Die denkmalgeschützte Pfarrkirche der Heiligen Helena (Stufe 2) in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -10032,7 +10032,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
-                  "text": "Church of Saint Catherine of Alexandria egy vallási épület Msida városában.",
+                  "text": "1576-ban épült Alexandriai Szent Katalin-templom.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -10194,7 +10194,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Saint Paul's Anglican Cathedral egy történelmi örökségi helyszín Msida városában.",
+                  "text": "Védett anglikán pro-katedrális.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -10203,7 +10203,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Stella Maris Parish Church egy történelmi örökségi helyszín Msida városában.",
+                  "text": "Védett Stella Maris-plébániatemplom.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -10212,7 +10212,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Berġa ta' Bavjera",
-                  "text": "Auberge of Bavière egy történelmi örökségi helyszín Msida városában.",
+                  "text": "Egy 1696-ban épült, II. fokozatú védett fogadó Msidában.",
                   "category": "landmark",
                   "coords": [
                         14.514179,
@@ -10221,7 +10221,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "A Church of Saint Augustine egy történelmi műemlék Msida városában.",
+                  "text": "Védett Ágoston-templom.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -10230,7 +10230,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "A Saint Publius Parish Church egy jelentős történelmi műemlék Msida városában.",
+                  "text": "Védett Szent Publius-plébániatemplom.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -10239,7 +10239,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "A Church of Our Lady of Pilar egy történelmi műemlék Msida városában.",
+                  "text": "A Msidai Miasszonyunk-template (2. fokozatú műemlék) temploma.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -10248,7 +10248,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja ta' San Nikola",
-                  "text": "A Church of Saint Nicholas egy történelmi műemlék Msida városában.",
+                  "text": "A Msidai Szent Miklós-templom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -10266,7 +10266,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "A Saint Mary's Parish Church egy történelmi műemlék Msida városában.",
+                  "text": "A Msidai Szűz Mária-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -10275,7 +10275,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Sant' Elena",
-                  "text": "A Parish Church of Saint Helen egy történelmi műemlék Msida városában.",
+                  "text": "A Msidai Szent Ilona-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -10637,7 +10637,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
-                  "text": "Church of Saint Catherine of Alexandria este un lăcaș de cult situat în Msida.",
+                  "text": "Biserica Sfânta Ecaterina din Alexandria, construită în 1576.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -10799,7 +10799,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Saint Paul's Anglican Cathedral este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "Pro-catedrală anglicană protejată.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -10808,7 +10808,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Stella Maris Parish Church este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "Biserica parohială Stella Maris protejată.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -10817,7 +10817,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Berġa ta' Bavjera",
-                  "text": "Auberge of Bavière este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "O clădire de tip auberge din 1696, de gradul II, în Msida.",
                   "category": "landmark",
                   "coords": [
                         14.514179,
@@ -10826,7 +10826,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Church of Saint Augustine este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "Biserica Sfântul Augustin protejată.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -10835,7 +10835,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Saint Publius Parish Church este un sit de patrimoniu istoric notabil din Msida.",
+                  "text": "Biserica parohială Sfântul Publius protejată.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -10844,7 +10844,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "Church of Our Lady of Pilar este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "Biserica Maicii Domnului din Stâlp (monument de gradul 2) din Msida.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -10853,7 +10853,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja ta' San Nikola",
-                  "text": "Church of Saint Nicholas este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "Biserica Sfântul Nicolae (monument de gradul 2) din Msida.",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -10871,7 +10871,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Saint Mary's Parish Church este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "Biserica parohială Sfânta Maria (monument de gradul 2) din Msida.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -10880,7 +10880,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Sant' Elena",
-                  "text": "Parish Church of Saint Helen este un sit de patrimoniu istoric situat în Msida.",
+                  "text": "Biserica parohială Sfânta Elena (monument de gradul 2) din Msida.",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -11242,7 +11242,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Catherine of Alexandria",
-                  "text": "Church of Saint Catherine of Alexandria is a place of worship situated in Msida.",
+                  "text": "Church of Saint Catherine of Alexandria built in 1576.",
                   "category": "religious",
                   "coords": [
                         14.51104,
@@ -11404,7 +11404,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Paul's Anglican Cathedral",
-                  "text": "Saint Paul's Anglican Cathedral is a historic heritage site located in Msida.",
+                  "text": "Listed Anglican pro-cathedral.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -11413,7 +11413,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Parish Church",
-                  "text": "Stella Maris Parish Church is a historic heritage site located in Msida.",
+                  "text": "Listed Stella Maris parish church.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -11422,7 +11422,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Auberge of Bavière",
-                  "text": "Auberge of Bavière is a historic heritage site located in Msida.",
+                  "text": "A Grade 2 historic auberge built in 1696 in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.514179,
@@ -11431,7 +11431,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Augustine",
-                  "text": "The Church of Saint Augustine is a historic heritage site located in Msida.",
+                  "text": "Listed church of Saint Augustine.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -11440,7 +11440,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Publius Parish Church",
-                  "text": "The Saint Publius Parish Church is a notable historic heritage site in Msida.",
+                  "text": "Listed Saint Publius parish church.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -11449,7 +11449,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Pilar",
-                  "text": "The Church of Our Lady of Pilar is a historic heritage site located in Msida.",
+                  "text": "Grade-2-listed Church of Our Lady of Pilar in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -11458,7 +11458,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Nicholas",
-                  "text": "The Church of Saint Nicholas is a historic heritage site located in Msida.",
+                  "text": "Grade-2-listed Church of Saint Nicholas in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.51692,
@@ -11476,7 +11476,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Mary's Parish Church",
-                  "text": "Saint Mary's Parish Church is a historic heritage site located in Msida.",
+                  "text": "Grade-2-listed Saint Mary's Parish Church in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -11485,7 +11485,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Helen",
-                  "text": "The Parish Church of Saint Helen is a notable historic heritage site in Msida.",
+                  "text": "Grade-2-listed Parish Church of Saint Helen in Msida.",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -16645,7 +16645,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Madliena",
-                  "text": "Torri tal-Madliena ist eine historische Burgstruktur in Pembroke.",
+                  "text": "Ein denkmalgeschützter Turm (Grade II) von 1658 in Pembroke.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -16888,7 +16888,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Die Stella Maris Parish Church ist eine historische Stätte in Pembroke.",
+                  "text": "Die denkmalgeschützte Stella-Marris-Pfarrkirche (Stufe 2) am Meer in Pembroke.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -17124,7 +17124,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Madliena",
-                  "text": "A Torri tal-Madliena egy történelmi kastélyépület Pembroke városában.",
+                  "text": "Egy 1658-ból származó, II. fokozatú védett torony Pembroke-ban.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -17367,7 +17367,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "A Stella Maris Parish Church egy történelmi műemlék Pembroke városában.",
+                  "text": "A Pembroke-i Stella Maris-plébániatemplom (2. fokozatú műemlék) a tengerparton.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -17603,7 +17603,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Madliena",
-                  "text": "Torri tal-Madliena este o structură istorică tip castel situată în Pembroke.",
+                  "text": "Un turn de gradul II din 1658 în Pembroke.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -17846,7 +17846,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Stella Maris Parish Church este un sit de patrimoniu istoric situat în Pembroke.",
+                  "text": "Biserica parohială Stella Maris (monument de gradul 2) pe malul mării în Pembroke.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -18082,7 +18082,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Madliena",
-                  "text": "Torri tal-Madliena is a historic castle structure located in Pembroke.",
+                  "text": "A Grade 2 tower from 1658 in Pembroke.",
                   "category": "castle",
                   "coords": [
                         14.473061,
@@ -18325,7 +18325,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Parish Church",
-                  "text": "Stella Maris Parish Church is a historic heritage site located in Pembroke.",
+                  "text": "Grade-2-listed seaside Stella Maris Parish Church in Pembroke.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -18856,7 +18856,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Eine anglikanische Prokathedrale, deren Turm ein Wahrzeichen der Skyline von Valletta ist.",
+                  "text": "Die denkmalgeschützte anglikanische St.-Pauls-Kathedrale (Stufe 2) in San Ġwann.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -19353,7 +19353,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Anglikán társszékesegyház, amelynek tornya Valletta sziluettjének jellegzetes pontja.",
+                  "text": "A San Ġwann-i Szent Pál-anglikán székesegyház (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -19850,7 +19850,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "O pro-catedrală anglicană a cărei turlă este un punct de reper al orizontului orașului Valletta.",
+                  "text": "Catedrala anglicană Sfântul Paul (monument de gradul 2) din San Ġwann.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -20347,7 +20347,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Paul's Anglican Cathedral",
-                  "text": "An Anglican pro-cathedral whose steeple is a landmark of the Valletta skyline.",
+                  "text": "Grade-2-listed Saint Paul's Anglican Cathedral in San Ġwann.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -20734,7 +20734,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "Prähistorische megalithische Tempelanlage in Malta.",
+                  "text": "Die prähistorischen Tempel von Ħal Tarxien (Stufe 1) in Pietà.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -20869,7 +20869,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Die einzige Moschee in Malta, gelegen in Paola.",
+                  "text": "Die 1982 erbaute Mariam-Al-Batool-Moschee in Pietà.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -20923,7 +20923,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Eine monumentale Basilika in Paola.",
+                  "text": "Eine moderne Pfarrkirche von 1959 in Pietà.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -21040,7 +21040,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Die älteste Pfarrkirche in Sliema.",
+                  "text": "Die denkmalgeschützte Stella-Marris-Pfarrkirche (Stufe 2) in Pietà.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -21348,7 +21348,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "Prehisztorikus megalitikus templomegyüttes Máltán.",
+                  "text": "A Ħal Tarxien-i őskori templomok (1. fokozatú műemlék) Pietàban.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -21483,7 +21483,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Málta egyetlen mecsetje, amely Paola városában található.",
+                  "text": "A pietà-i Mariam Al-Batool mecset, 1982-ben épült.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -21537,7 +21537,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Monumentális bazilika Paola városában.",
+                  "text": "Egy 1959-ben épült modern plébániatemplom Pietàban.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -21654,7 +21654,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Sliema legrégebbi plébániatemploma.",
+                  "text": "A pietà-i Stella Maris-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -21962,7 +21962,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "Complex de temple megalitice preistorice din Malta.",
+                  "text": "Templele preistorice Ħal Tarxien (monument de gradul 1) din Pietà.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -22097,7 +22097,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Singura moschee din Malta, situată în Paola.",
+                  "text": "Moscheea Mariam Al-Batool (construită în 1982) din Pietà.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -22151,7 +22151,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "O bazilică monumentală situată în Paola.",
+                  "text": "O biserică parohială modernă construită în 1959 în Pietà.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -22268,7 +22268,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Cea mai veche biserică parohială din Sliema.",
+                  "text": "Biserica parohială Stella Maris (monument de gradul 2) din Pietà.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -22576,7 +22576,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Ħal Tarxien Temples",
-                  "text": "Prehistoric megalithic temple complex in Malta.",
+                  "text": "Ħal Tarxien Temples (Grade 1) in Pietà.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -22711,7 +22711,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mariam Al-Batool Mosque",
-                  "text": "The only mosque in Malta, located in Paola.",
+                  "text": "Mariam Al-Batool Mosque (built 1982) in Pietà.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -22765,7 +22765,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Christ the King",
-                  "text": "A monumental basilica located in Paola.",
+                  "text": "A modern parish church built in 1959 in Pietà.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -22882,7 +22882,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Parish Church",
-                  "text": "The oldest parish church in Sliema.",
+                  "text": "Grade-2-listed Stella Maris Parish Church in Pietà.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -23278,7 +23278,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Die Mariam-Al-Batool-Moschee ist ein wichtiges islamisches Gotteshaus in Ħamrun.",
+                  "text": "Die 1982 erbaute Mariam-Al-Batool-Moschee in Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -23314,7 +23314,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Die Parish Church of Christ the King ist ein markantes Gotteshaus in Ħamrun.",
+                  "text": "Eine moderne Pfarrkirche von 1959 in Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -23395,7 +23395,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Die anglikanische Kathedrale St. Paul ist eine anerkannte Kulturerbestätte in Ħamrun.",
+                  "text": "Die denkmalgeschützte anglikanische St.-Pauls-Kathedrale (Stufe 2) in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -23404,7 +23404,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Die Augustinerkirche ist ein erhaltenes denkmalgeschütztes Gebäude in Ħamrun.",
+                  "text": "Die denkmalgeschützte Augustinus-Kirche (Stufe 2) in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -23413,7 +23413,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Die Pfarrkirche St. Publius ist ein bedeutendes religiöses Erbe in Ħamrun.",
+                  "text": "Die denkmalgeschützte Pfarrkirche des Heiligen Publius (Stufe 2) in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -23422,7 +23422,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "Die Kirche Unserer Lieben Frau von Pilar ist eine geschätzte kulturelle Erbestätte in Ħamrun.",
+                  "text": "Die denkmalgeschützte Kirche Unserer Lieben Frau vom Pfeiler (Stufe 2) in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -23431,7 +23431,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Die Saint Mary's Parish Church ist eine traditionelle historische Kirche in Ħamrun.",
+                  "text": "Die denkmalgeschützte Marien-Pfarrkirche (Stufe 2) in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -23512,7 +23512,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "Die Church of the Madonna of Lourdes ist ein religiöses Gotteshaus in Ħamrun.",
+                  "text": "Die 1963 erbaute Kirche der Madonna von Lourdes in Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -23856,7 +23856,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "A Mariam Al-Batool mecset egy fontos iszlám istentiszteleti hely Ħamrunban.",
+                  "text": "A ħamruni Mariam Al-Batool mecset, 1982-ben épült.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -23892,7 +23892,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "A Krisztus Király plébániatemplom egy kiemelkedő istentiszteleti hely Ħamrunban.",
+                  "text": "Egy 1959-ben épült modern plébániatemplom Ħamrunban.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -23973,7 +23973,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "A Szent Pál anglikán katedrális egy elismert örökségi helyszín Ħamrunban.",
+                  "text": "A ħamruni Szent Pál-anglikán székesegyház (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -23982,7 +23982,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "A Szent Ágoston-templom egy megőrzött műemléképület Ħamrunban.",
+                  "text": "A ħamruni Szent Ágoston-templom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -23991,7 +23991,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "A Szent Publius plébániatemplom egy jelentős vallási örökségi nevezetesség Ħamrunban.",
+                  "text": "A ħamruni Szent Publius-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -24000,7 +24000,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "A Pilar Miasszonyunk templom egy megbecsült kulturális örökségi helyszín Ħamrunban.",
+                  "text": "A ħamruni Miasszonyunk-template (2. fokozatú műemlék) temploma.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -24009,7 +24009,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "A Szűz Mária plébániatemplom egy hagyományos örökségvédelmi templom Ħamrunban.",
+                  "text": "A ħamruni Szűz Mária-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -24090,7 +24090,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "A Lourdes-i Madonna temploma egy vallási istentiszteleti hely Ħamrunban.",
+                  "text": "A ħamruni Lourdes-i Szűzanya-templom, 1963-ban épült.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -24434,7 +24434,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Moscheea Mariam Al-Batool este un important lăcaș de cult islamic din Ħamrun.",
+                  "text": "Moscheea Mariam Al-Batool (construită în 1982) din Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -24470,7 +24470,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Biserica parohială Cristos Regele este un lăcaș de cult proeminent din Ħamrun.",
+                  "text": "O biserică parohială modernă construită în 1959 în Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -24551,7 +24551,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Katidral Anglikan ta' San Pawl",
-                  "text": "Catedrala anglicană Sfântul Pavel este un sit de patrimoniu recunoscut situat în Ħamrun.",
+                  "text": "Catedrala anglicană Sfântul Paul (monument de gradul 2) din Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -24560,7 +24560,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Biserica Sfântul Augustin este o clădire de patrimoniu conservată situată în Ħamrun.",
+                  "text": "Biserica Sfântul Augustin (monument de gradul 2) din Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -24569,7 +24569,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Biserica parohială Sfântul Publius este un reper de patrimoniu religios semnificativ din Ħamrun.",
+                  "text": "Biserica parohială Sfântul Publius (monument de gradul 2) din Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -24578,7 +24578,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna tal-Pilar",
-                  "text": "Biserica Maicii Domnului din Pilar este un valoros sit de patrimoniu cultural din Ħamrun.",
+                  "text": "Biserica Maicii Domnului din Stâlp (monument de gradul 2) din Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -24587,7 +24587,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Biserica parohială Sfânta Maria este o biserică tradițională de patrimoniu situată în Ħamrun.",
+                  "text": "Biserica parohială Sfânta Maria (monument de gradul 2) din Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -24668,7 +24668,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "Biserica Maicii Domnului din Lourdes este un lăcaș de cult religios din Ħamrun.",
+                  "text": "Biserica Maicii Domnului de la Lourdes (construită în 1963) din Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -25012,7 +25012,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mariam Al-Batool Mosque",
-                  "text": "The Mariam Al-Batool Mosque is an important Islamic place of worship in Ħamrun.",
+                  "text": "Mariam Al-Batool Mosque (built 1982) in Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -25048,7 +25048,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Christ the King",
-                  "text": "The Parish Church of Christ the King is a prominent place of worship in Ħamrun.",
+                  "text": "A modern parish church built in 1959 in Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -25129,7 +25129,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Paul's Anglican Cathedral",
-                  "text": "Saint Paul's Anglican Cathedral is a recognized heritage site located in Ħamrun.",
+                  "text": "Grade-2-listed Saint Paul's Anglican Cathedral in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.512013,
@@ -25138,7 +25138,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Augustine",
-                  "text": "The Church of Saint Augustine is a preserved heritage building located in Ħamrun.",
+                  "text": "Grade-2-listed Church of Saint Augustine in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -25147,7 +25147,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Publius Parish Church",
-                  "text": "Saint Publius Parish Church is a significant religious heritage landmark in Ħamrun.",
+                  "text": "Grade-2-listed Saint Publius Parish Church in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -25156,7 +25156,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Pilar",
-                  "text": "The Church of Our Lady of Pilar is a valued cultural heritage site in Ħamrun.",
+                  "text": "Grade-2-listed Church of Our Lady of Pilar in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.512918,
@@ -25165,7 +25165,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Mary's Parish Church",
-                  "text": "Saint Mary's Parish Church is a traditional heritage church located in Ħamrun.",
+                  "text": "Grade-2-listed Saint Mary's Parish Church in Ħamrun.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -25246,7 +25246,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of the Madonna of Lourdes",
-                  "text": "The Church of the Madonna of Lourdes is a religious place of worship in Ħamrun.",
+                  "text": "Church of the Madonna of Lourdes (built 1963) in Ħamrun.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -33289,7 +33289,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Eine große Basilika und Pfarrkirche in der Stadt Paola.",
+                  "text": "Eine moderne Pfarrkirche von 1959 in Senglea (L-Isla).",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -33361,7 +33361,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Eine historische Pfarrkirche im Herzen von Sliema.",
+                  "text": "Die denkmalgeschützte Stella-Marris-Pfarrkirche (Stufe 2) in Senglea, einer historischen Festungsstadt am Grand Harbour.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -33876,7 +33876,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Hatalmas bazilika és plébániatemplom Paola városában.",
+                  "text": "Egy 1959-ben épült modern plébániatemplom Sengleában (L-Isla).",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -33948,7 +33948,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "Történelmi plébániatemplom Sliema szívében.",
+                  "text": "A Senglea-i (L-Isla) Stella Maris-plébániatemplom (2. fokozatú műemlék) a Nagy Kikötőnél fekvő történelmi erődvárosban.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -34463,7 +34463,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "O bazilică mare și biserică parohială situată în orașul Paola.",
+                  "text": "O biserică parohială modernă construită în 1959 în Senglea (L-Isla).",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -34535,7 +34535,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Sliema Parish Church",
-                  "text": "O biserică parohială istorică situată în inima orașului Sliema.",
+                  "text": "Biserica parohială Stella Maris (monument de gradul 2) din Senglea, un oraș istoric fortificat pe Grand Harbour.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -35050,7 +35050,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Christ the King",
-                  "text": "A large basilica and parish church located in the town of Paola.",
+                  "text": "A modern parish church built in 1959 in Senglea (L-Isla).",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -35122,7 +35122,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Stella Maris Parish Church",
-                  "text": "A historic parish church located in the heart of Sliema.",
+                  "text": "Grade-2-listed Stella Maris Parish Church in Senglea, a historic fortified city on the Grand Harbour.",
                   "category": "landmark",
                   "coords": [
                         14.50416,
@@ -35619,7 +35619,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Karmnu",
-                  "text": "Die Parish Church of Our Lady of Mount Carmel ist eine bemerkenswerte Kultstätte in Cospicua (Bormla).",
+                  "text": "Die denkmalgeschützte Pfarrkirche Unserer Lieben Frau vom Berge Karmel (Stufe 2) in Cospicua (Bormla).",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -35745,7 +35745,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Die Church of Saint Augustine ist ein Kulturerbe und eine Kirche in Cospicua (Bormla).",
+                  "text": "Die denkmalgeschützte Augustinus-Kirche (Stufe 2) in Cospicua (Bormla).",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -35754,7 +35754,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Die Saint Publius Parish Church ist ein bedeutendes Kulturerbe und eine Kirche in Cospicua (Bormla).",
+                  "text": "Die denkmalgeschützte Pfarrkirche des Heiligen Publius (Stufe 2) in Cospicua (Bormla).",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -36206,7 +36206,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Karmnu",
-                  "text": "A Parish Church of Our Lady of Mount Carmel egy figyelemre méltó istentiszteleti hely Cospicua (Bormla) városában.",
+                  "text": "A Cospicua-i (Bormla) Kármel-hegyi Boldogasszony-plébániatemplom (2. fokozatú műemlék).",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -36332,7 +36332,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "A Church of Saint Augustine egy örökségi helyszín és templom Cospicua (Bormla) városában.",
+                  "text": "A Cospicua-i (Bormla) Szent Ágoston-templom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -36341,7 +36341,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "A Saint Publius Parish Church egy kiemelkedő örökségi helyszín és templom Cospicua (Bormla) városában.",
+                  "text": "A Cospicua-i (Bormla) Szent Publius-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -36793,7 +36793,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Karmnu",
-                  "text": "Parish Church of Our Lady of Mount Carmel este un lăcaș de cult notabil din Cospicua (Bormla).",
+                  "text": "Biserica parohială Maica Domnului de pe Muntele Carmel (monument de gradul 2) din Cospicua (Bormla).",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -36919,7 +36919,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' Santu Wistin",
-                  "text": "Church of Saint Augustine este un sit de patrimoniu și o biserică situată în Cospicua (Bormla).",
+                  "text": "Biserica Sfântul Augustin (monument de gradul 2) din Cospicua (Bormla).",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -36928,7 +36928,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Saint Publius Parish Church este un sit de patrimoniu proeminent și o biserică din Cospicua (Bormla).",
+                  "text": "Biserica parohială Sfântul Publius (monument de gradul 2) din Cospicua (Bormla).",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -37380,7 +37380,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Our Lady of Mount Carmel",
-                  "text": "The Parish Church of Our Lady of Mount Carmel is a notable place of worship in Cospicua (Bormla).",
+                  "text": "Grade-2-listed Parish Church of Our Lady of Mount Carmel in Cospicua (Bormla).",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -37506,7 +37506,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of Saint Augustine",
-                  "text": "The Church of Saint Augustine is a heritage site and church situated in Cospicua (Bormla).",
+                  "text": "Grade-2-listed Church of Saint Augustine in Cospicua (Bormla).",
                   "category": "landmark",
                   "coords": [
                         14.510831,
@@ -37515,7 +37515,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Publius Parish Church",
-                  "text": "The Saint Publius Parish Church is a prominent heritage site and church in Cospicua (Bormla).",
+                  "text": "Grade-2-listed Saint Publius Parish Church in Cospicua (Bormla).",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -40661,7 +40661,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "Ħal Tarxien Temples ist eine archäologische Stätte in Tarxien.",
+                  "text": "UNESCO-Welterbe: Die prähistorischen Megalithtempel von Ħal Tarxien in Tarxien.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -40724,7 +40724,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Arkata ta' Hompesch",
-                  "text": "Hompesch Arch ist ein Denkmal in Tarxien.",
+                  "text": "Der denkmalgeschützte Hompesch-Bogen (Stufe 2) in Tarxien, ein triumphbogen aus dem 18. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -40751,7 +40751,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Gregory's Church",
-                  "text": "Saint Gregory's Church ist eine Kultstätte in Tarxien.",
+                  "text": "Die 1492 erbaute St.-Gregorius-Kirche in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.538272,
@@ -40769,7 +40769,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Mariam Al-Batool Mosque ist eine Kultstätte in Tarxien.",
+                  "text": "Die 1982 erbaute Mariam-Al-Batool-Moschee in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -40778,7 +40778,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Karmnu",
-                  "text": "Parish Church of Our Lady of Mount Carmel ist eine Kultstätte in Tarxien.",
+                  "text": "Die denkmalgeschützte Pfarrkirche Unserer Lieben Frau vom Berge Karmel (Stufe 2) in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -40814,7 +40814,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Parish Church of Christ the King ist eine Kultstätte in Tarxien.",
+                  "text": "Eine moderne Pfarrkirche von 1959 in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -40832,7 +40832,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Saint Publius Parish Church ist eine Kulturstätte in Tarxien.",
+                  "text": "Die denkmalgeschützte Pfarrkirche des Heiligen Publius (Stufe 2) in Tarxien.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -40841,7 +40841,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Ipoġew ta' Ħal Saflieni",
-                  "text": "Ħal Saflieni Hypogeum ist eine Kulturstätte in Tarxien.",
+                  "text": "UNESCO-Welterbe: Das prähistorische unterirdische Hypogäum von Ħal Saflieni in Tarxien.",
                   "category": "landmark",
                   "coords": [
                         14.506892,
@@ -40913,7 +40913,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "Church of the Madonna of Lourdes ist eine Kultstätte in Tarxien.",
+                  "text": "Die 1963 erbaute Kirche der Madonna von Lourdes in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -41104,7 +41104,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "A Ħal Tarxien Temples egy régészeti lelőhely Tarxien városában.",
+                  "text": "Az UNESCO Világörökség része: A Ħal Tarxien-i őskori megalit templomok Tarxienben.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -41167,7 +41167,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Arkata ta' Hompesch",
-                  "text": "A Hompesch Arch egy emlékmű Tarxien városában.",
+                  "text": "A tarxieni Hompesch-ív (2. fokozatú műemlék), egy 18. századi diadalív.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -41194,7 +41194,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Gregory's Church",
-                  "text": "A Saint Gregory's Church egy imahely Tarxien városában.",
+                  "text": "A tarxieni Szent Gergely-templom, 1492-ben épült.",
                   "category": "religious",
                   "coords": [
                         14.538272,
@@ -41212,7 +41212,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "A Mariam Al-Batool Mosque egy imahely Tarxien városában.",
+                  "text": "A tarxieni Mariam Al-Batool mecset, 1982-ben épült.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -41221,7 +41221,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Karmnu",
-                  "text": "A Parish Church of Our Lady of Mount Carmel egy imahely Tarxien városában.",
+                  "text": "A tarxieni Kármel-hegyi Boldogasszony-plébániatemplom (2. fokozatú műemlék).",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -41257,7 +41257,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "A Parish Church of Christ the King egy imahely Tarxien városában.",
+                  "text": "Egy 1959-ben épült modern plébániatemplom Tarxienben.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -41275,7 +41275,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "A Saint Publius Parish Church egy örökségi helyszín Tarxien városában.",
+                  "text": "A tarxieni Szent Publius-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -41284,7 +41284,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Ipoġew ta' Ħal Saflieni",
-                  "text": "A Ħal Saflieni Hypogeum egy örökségi helyszín Tarxien városában.",
+                  "text": "Az UNESCO Világörökség része: A Ħal Saflieni-i őskori föld alatti hipogeum Tarxienben.",
                   "category": "landmark",
                   "coords": [
                         14.506892,
@@ -41356,7 +41356,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "A Church of the Madonna of Lourdes egy imahely Tarxien városában.",
+                  "text": "A tarxieni Lourdes-i Szűzanya-templom, 1963-ban épült.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -41547,7 +41547,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "Ħal Tarxien Temples este un sit arheologic situat în Tarxien.",
+                  "text": "Patrimoniul UNESCO: Templele megalitice preistorice Ħal Tarxien din Tarxien.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -41610,7 +41610,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Arkata ta' Hompesch",
-                  "text": "Hompesch Arch este un monument situat în Tarxien.",
+                  "text": "Arcul Hompesch (monument de gradul 2) din Tarxien, un arc de triumf din secolul al XVIII-lea.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -41637,7 +41637,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Gregory's Church",
-                  "text": "Saint Gregory's Church este un lăcaș de cult situat în Tarxien.",
+                  "text": "Biserica Sfântul Grigore (construită în 1492) din Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.538272,
@@ -41655,7 +41655,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Mariam Al-Batool Mosque este un lăcaș de cult situat în Tarxien.",
+                  "text": "Moscheea Mariam Al-Batool (construită în 1982) din Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -41664,7 +41664,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Karmnu",
-                  "text": "Parish Church of Our Lady of Mount Carmel este un lăcaș de cult situat în Tarxien.",
+                  "text": "Biserica parohială Maica Domnului de pe Muntele Carmel (monument de gradul 2) din Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -41700,7 +41700,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Parish Church of Christ the King este un lăcaș de cult situat în Tarxien.",
+                  "text": "O biserică parohială modernă construită în 1959 în Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -41718,7 +41718,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja ta' San Publiju",
-                  "text": "Saint Publius Parish Church este un sit de patrimoniu situat în Tarxien.",
+                  "text": "Biserica parohială Sfântul Publius (monument de gradul 2) din Tarxien.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -41727,7 +41727,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Ipoġew ta' Ħal Saflieni",
-                  "text": "Ħal Saflieni Hypogeum este un sit de patrimoniu situat în Tarxien.",
+                  "text": "Patrimoniul UNESCO: Hipogeul preistoric subteran Ħal Saflieni din Tarxien.",
                   "category": "landmark",
                   "coords": [
                         14.506892,
@@ -41799,7 +41799,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "Church of the Madonna of Lourdes este un lăcaș de cult situat în Tarxien.",
+                  "text": "Biserica Maicii Domnului de la Lourdes (construită în 1963) din Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -41990,7 +41990,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Ħal Tarxien Temples",
-                  "text": "Ħal Tarxien Temples is an archaeological site located in Tarxien.",
+                  "text": "UNESCO World Heritage: Ħal Tarxien prehistoric megalithic temples in Tarxien.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -42053,7 +42053,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Hompesch Arch",
-                  "text": "Hompesch Arch is a monument located in Tarxien.",
+                  "text": "Grade-2-listed Hompesch Arch in Tarxien, an 18th-century triumphal gate.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -42080,7 +42080,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Gregory's Church",
-                  "text": "Saint Gregory's Church is a place of worship located in Tarxien.",
+                  "text": "Saint Gregory's Church (built 1492) in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.538272,
@@ -42098,7 +42098,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mariam Al-Batool Mosque",
-                  "text": "Mariam Al-Batool Mosque is a place of worship located in Tarxien.",
+                  "text": "Mariam Al-Batool Mosque (built 1982) in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -42107,7 +42107,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Our Lady of Mount Carmel",
-                  "text": "Parish Church of Our Lady of Mount Carmel is a place of worship located in Tarxien.",
+                  "text": "Grade-2-listed Parish Church of Our Lady of Mount Carmel in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.520882,
@@ -42143,7 +42143,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Christ the King",
-                  "text": "Parish Church of Christ the King is a place of worship located in Tarxien.",
+                  "text": "A modern parish church built in 1959 in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -42161,7 +42161,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Publius Parish Church",
-                  "text": "Saint Publius Parish Church is a heritage site located in Tarxien.",
+                  "text": "Grade-2-listed Saint Publius Parish Church in Tarxien.",
                   "category": "landmark",
                   "coords": [
                         14.504731,
@@ -42170,7 +42170,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Ħal Saflieni Hypogeum",
-                  "text": "Ħal Saflieni Hypogeum is a heritage site located in Tarxien.",
+                  "text": "UNESCO World Heritage: Ħal Saflieni prehistoric underground hypogeum in Tarxien.",
                   "category": "landmark",
                   "coords": [
                         14.506892,
@@ -42242,7 +42242,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of the Madonna of Lourdes",
-                  "text": "Church of the Madonna of Lourdes is a place of worship located in Tarxien.",
+                  "text": "Church of the Madonna of Lourdes (built 1963) in Tarxien.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -42602,7 +42602,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Die Mariam Al-Batool Moschee ist das einzige islamische Gotteshaus auf Malta.",
+                  "text": "Die 1982 erbaute Mariam-Al-Batool-Moschee in Luqa.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -42928,7 +42928,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "A Mariam Al-Batool mecset Málta egyetlen iszlám temploma.",
+                  "text": "A luqai Mariam Al-Batool mecset, 1982-ben épült.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -43254,7 +43254,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Moscheea Mariam Al-Batool este singurul lăcaș de cult islamic din Malta.",
+                  "text": "Moscheea Mariam Al-Batool (construită în 1982) din Luqa.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -43580,7 +43580,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mariam Al-Batool Mosque",
-                  "text": "The Mariam Al-Batool Mosque is the only mosque on the island of Malta.",
+                  "text": "Mariam Al-Batool Mosque (built 1982) in Luqa.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -43985,7 +43985,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Die historische Pfarrkirche von Kirkop, die dem heiligen Leonhard geweiht ist.",
+                  "text": "Die denkmalgeschützte Pfarrkirche des Heiligen Leonhard (Stufe 2) in Gudja.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -44347,7 +44347,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Kirkop történelmi plébániatemploma, amelyet Szent Lénárdnak szenteltek.",
+                  "text": "A gudjai Szent Lénárd-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -44709,7 +44709,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Biserica parohială istorică din Kirkop, dedicată Sfântului Leonard.",
+                  "text": "Biserica parohială Sfântul Leonard (monument de gradul 2) din Gudja.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -45071,7 +45071,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Leonard",
-                  "text": "The historic parish church of Kirkop, dedicated to Saint Leonard.",
+                  "text": "Grade-2-listed Parish Church of Saint Leonard in Gudja.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -45278,7 +45278,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "Ħal Tarxien Temples ist eine archäologische Stätte in Għaxaq.",
+                  "text": "Die prähistorischen Tempel von Ħal Tarxien (Stufe 1) in Għaxaq.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -45476,7 +45476,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "Die Parish Church of the Madonna of Pompei ist eine bedeutende Kulturerbestätte in Għaxaq.",
+                  "text": "Die denkmalgeschützte Pfarrkirche der Madonna von Pompeji (Stufe 2) in Għaxaq.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -45503,7 +45503,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Die Parish Church of Saint Leonard ist eine anerkannte Kulturerbestätte in Għaxaq.",
+                  "text": "Die denkmalgeschützte Pfarrkirche des Heiligen Leonhard (Stufe 2) in Għaxaq.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -45521,7 +45521,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Die Parish Church of Christ the King ist ein markantes Gotteshaus in Għaxaq.",
+                  "text": "Eine moderne Pfarrkirche von 1959 in Għaxaq.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -45640,7 +45640,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "A Ħal Tarxien Temples egy régészeti lelőhely Għaxaq városában.",
+                  "text": "A ħal tarxieni őskori templomok (1. fokozatú műemlék) Għaxaqban.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -45838,7 +45838,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "A Parish Church of the Madonna of Pompei egy jelentős örökségvédelmi helyszín Għaxaq városában.",
+                  "text": "A għaxaqi Pompei-i Szűzanya-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -45865,7 +45865,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "A Parish Church of Saint Leonard egy elismert örökségvédelmi helyszín Għaxaq városában.",
+                  "text": "A għaxaqi Szent Lénárd-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -45883,7 +45883,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "A Parish Church of Christ the King egy kiemelkedő istentiszteleti hely Għaxaq városában.",
+                  "text": "Egy 1959-ben épült modern plébániatemplom Għaxaqban.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -46002,7 +46002,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "It-Tempji ta' Ħal Tarxien",
-                  "text": "Ħal Tarxien Temples este un sit arheologic situat în Għaxaq.",
+                  "text": "Templele preistorice Ħal Tarxien (monument de gradul 1) din Għaxaq.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -46200,7 +46200,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "Biserica parohială Madonna of Pompei este un sit de patrimoniu notabil din Għaxaq.",
+                  "text": "Biserica parohială Maica Domnului de la Pompei (monument de gradul 2) din Għaxaq.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -46227,7 +46227,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Biserica parohială Saint Leonard este un sit de patrimoniu recunoscut, situat în Għaxaq.",
+                  "text": "Biserica parohială Sfântul Leonard (monument de gradul 2) din Għaxaq.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -46245,7 +46245,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Biserica parohială Christ the King este un lăcaș de cult proeminent situat în Għaxaq.",
+                  "text": "O biserică parohială modernă construită în 1959 în Għaxaq.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -46364,7 +46364,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Ħal Tarxien Temples",
-                  "text": "Ħal Tarxien Temples is an archaeological site located in Għaxaq.",
+                  "text": "Ħal Tarxien Temples (Grade 1) in Għaxaq.",
                   "category": "historical",
                   "coords": [
                         14.511897,
@@ -46562,7 +46562,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of the Madonna of Pompei",
-                  "text": "The Parish Church of the Madonna of Pompei is a notable heritage site in Għaxaq.",
+                  "text": "Grade-2-listed Parish Church of the Madonna of Pompei in Għaxaq.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -46589,7 +46589,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Leonard",
-                  "text": "The Parish Church of Saint Leonard is a recognized heritage site located in Għaxaq.",
+                  "text": "Grade-2-listed Parish Church of Saint Leonard in Għaxaq.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -46607,7 +46607,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Christ the King",
-                  "text": "The Parish Church of Christ the King is a prominent place of worship located in Għaxaq.",
+                  "text": "A modern parish church built in 1959 in Għaxaq.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -46949,7 +46949,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Die größte Kirche Maltas in Paola, gewidmet Christus dem König.",
+                  "text": "Eine moderne Pfarrkirche von 1959 in Santa Luċija.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -47048,7 +47048,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "Ein katholisches Kirchengebäude in Santa Luċija.",
+                  "text": "Die 1963 erbaute Kirche der Madonna von Lourdes in Santa Luċija.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -47482,7 +47482,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Málta legnagyobb temploma Paolában, Krisztus Király tiszteletére.",
+                  "text": "Egy 1959-ben épült modern plébániatemplom Santa Luċijában.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -47581,7 +47581,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "Katolikus templomépület Santa Luċijában.",
+                  "text": "A Santa Luċija-i Lourdes-i Szűzanya-templom, 1963-ban épült.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -48015,7 +48015,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Kristu Re",
-                  "text": "Cea mai mare biserică din Malta, situată în Paola, dedicată lui Cristos Rege.",
+                  "text": "O biserică parohială modernă construită în 1959 în Santa Luċija.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -48114,7 +48114,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja tal-Madonna ta' Lourdes",
-                  "text": "O clădire bisericească catolică în Santa Luċija.",
+                  "text": "Biserica Maicii Domnului de la Lourdes (construită în 1963) din Santa Luċija.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -48548,7 +48548,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Christ the King",
-                  "text": "The largest church in Malta, located in Paola and dedicated to Christ the King.",
+                  "text": "A modern parish church built in 1959 in Santa Luċija.",
                   "category": "religious",
                   "coords": [
                         14.508216,
@@ -48647,7 +48647,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Church of the Madonna of Lourdes",
-                  "text": "A Catholic church building located in Santa Luċija.",
+                  "text": "Church of the Madonna of Lourdes (built 1963) in Santa Luċija.",
                   "category": "religious",
                   "coords": [
                         14.502937,
@@ -50617,7 +50617,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "Die Parish Church of the Madonna of Pompei ist eine katholische Pfarrkirche und Kulturerbestätte in Marsaxlokk.",
+                  "text": "Die denkmalgeschützte Pfarrkirche der Madonna von Pompeji (Stufe 2) im Fischerdorf Marsaxlokk.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -51078,7 +51078,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "A Parish Church of the Madonna of Pompei egy katolikus plébániatemplom és örökségi helyszín Marsaxlokkban.",
+                  "text": "A marsaxlokki Pompei-i Szűzanya-plébániatemplom (2. fokozatú műemlék) a halászfaluban.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -51539,7 +51539,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "Parish Church of the Madonna of Pompei este o biserică parohială catolică și sit de patrimoniu în Marsaxlokk.",
+                  "text": "Biserica parohială Maica Domnului de la Pompei (monument de gradul 2) în satul pescăresc Marsaxlokk.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -52000,7 +52000,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of the Madonna of Pompei",
-                  "text": "The Parish Church of the Madonna of Pompei is a Catholic parish church and heritage site in Marsaxlokk.",
+                  "text": "Grade-2-listed Parish Church of the Madonna of Pompei in the fishing village of Marsaxlokk.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -52690,7 +52690,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Die einzige offizielle Moschee auf den maltesischen Inseln.",
+                  "text": "Die 1982 erbaute Mariam-Al-Batool-Moschee in Żabbar.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -53115,7 +53115,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "A máltai szigetek egyetlen hivatalos mecsetje.",
+                  "text": "A żabbari Mariam Al-Batool mecset, 1982-ben épült.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -53540,7 +53540,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Moskea Mariam Al-Batool",
-                  "text": "Singura moschee oficială de pe insulele malteze.",
+                  "text": "Moscheea Mariam Al-Batool (construită în 1982) din Żabbar.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -53965,7 +53965,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mariam Al-Batool Mosque",
-                  "text": "The only official mosque located in the Maltese Islands.",
+                  "text": "Mariam Al-Batool Mosque (built 1982) in Żabbar.",
                   "category": "religious",
                   "coords": [
                         14.508842,
@@ -54880,7 +54880,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Arkata ta' Hompesch",
-                  "text": "Der Hompesch Arch ist ein markantes monumentales Tor in Żejtun.",
+                  "text": "Der denkmalgeschützte Hompesch-Bogen (Stufe 2) in Żejtun, ein triumphbogen aus dem 18. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -54997,7 +54997,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "Die Parish Church of the Madonna of Pompei ist eine als Kulturerbe anerkannte katholische Kirche in Żejtun.",
+                  "text": "Die denkmalgeschützte Pfarrkirche der Madonna von Pompeji (Stufe 2) in Żejtun.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -55332,7 +55332,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Arkata ta' Hompesch",
-                  "text": "A Hompesch Arch egy kiemelkedő monumentális kapu Żejtun városában.",
+                  "text": "A żejtuni Hompesch-ív (2. fokozatú műemlék), egy 18. századi diadalív.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -55449,7 +55449,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "A Parish Church of the Madonna of Pompei egy katolikus templom és örökségi helyszín Żejtunban.",
+                  "text": "A żejtuni Pompei-i Szűzanya-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -55784,7 +55784,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "L-Arkata ta' Hompesch",
-                  "text": "Hompesch Arch este o poartă monumentală proeminentă situată în Żejtun.",
+                  "text": "Arcul Hompesch (monument de gradul 2) din Żejtun, un arc de triumf din secolul al XVIII-lea.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -55901,7 +55901,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Madonna ta' Pompei",
-                  "text": "Parish Church of the Madonna of Pompei este o biserică catolică recunoscută ca sit de patrimoniu în Żejtun.",
+                  "text": "Biserica parohială Maica Domnului de la Pompei (monument de gradul 2) din Żejtun.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -56236,7 +56236,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Hompesch Arch",
-                  "text": "The Hompesch Arch is a prominent monumental gate located in Żejtun.",
+                  "text": "Grade-2-listed Hompesch Arch in Żejtun, an 18th-century triumphal gate.",
                   "category": "historical",
                   "coords": [
                         14.527126,
@@ -56353,7 +56353,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of the Madonna of Pompei",
-                  "text": "The Parish Church of the Madonna of Pompei is a Catholic church recognized as a heritage site in Żejtun.",
+                  "text": "Grade-2-listed Parish Church of the Madonna of Pompei in Żejtun.",
                   "category": "landmark",
                   "coords": [
                         14.544597,
@@ -56767,7 +56767,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Eine historische Kirche in Kirkop, die dem Heiligen Leonhard gewidmet ist.",
+                  "text": "Die denkmalgeschützte Pfarrkirche des Heiligen Leonhard (Stufe 2) in Qrendi.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -57120,7 +57120,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Szent Lénárdnak szentelt történelmi templom Kirkopban, Qrendi közelében.",
+                  "text": "A qrendi Szent Lénárd-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -57473,7 +57473,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "O biserică istorică în Kirkop, dedicată Sfântului Leonard.",
+                  "text": "Biserica parohială Sfântul Leonard (monument de gradul 2) din Qrendi.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -57826,7 +57826,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Leonard",
-                  "text": "A historical church in Kirkop dedicated to Saint Leonard.",
+                  "text": "Grade-2-listed Parish Church of Saint Leonard in Qrendi.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -58204,7 +58204,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Die historische Pfarrkirche von Kirkop, die dem Heiligen Leonhard gewidmet ist.",
+                  "text": "Die denkmalgeschützte Pfarrkirche des Heiligen Leonhard (Stufe 2) in Mqabba.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -58476,7 +58476,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Kirkop történelmi plébániatemploma, amelyet Szent Lénárd tiszteletére szenteltek.",
+                  "text": "A mqabbai Szent Lénárd-plébániatemplom (2. fokozatú műemlék).",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -58748,7 +58748,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Biserica parohială istorică din Kirkop, dedicată Sfântului Leonard.",
+                  "text": "Biserica parohială Sfântul Leonard (monument de gradul 2) din Mqabba.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -59020,7 +59020,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Leonard",
-                  "text": "The historic parish church of Kirkop, dedicated to Saint Leonard.",
+                  "text": "Grade-2-listed Parish Church of Saint Leonard in Mqabba.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -59299,7 +59299,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Die Pfarrkirche des Heiligen Leonhard ist eine anerkannte Kulturerbestätte und ein religiöses Wahrzeichen in Kirkop.",
+                  "text": "Barocke Pfarrkirche St. Leonard in Kirkop, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -59580,7 +59580,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "A Szent Lénárd plébániatemplom egy elismert örökségi helyszín és vallási nevezetesség Kirkopban.",
+                  "text": "Szent Leonard plébániatemplom Kirkopban, barokk stílusban, műemlék.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -59861,7 +59861,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Biserica Parohială a Sfântului Leonard este un sit de patrimoniu recunoscut și un reper religios în Kirkop.",
+                  "text": "Biserica parohială Sfântul Leonard din Kirkop, barocă, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -60142,7 +60142,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Leonard",
-                  "text": "The Parish Church of Saint Leonard is a recognized heritage site and religious landmark in Kirkop.",
+                  "text": "Baroque parish church of St. Leonard in Kirkop, Grade 2 listed.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -60796,7 +60796,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Die historische Pfarrkirche von Kirkop, die dem Heiligen Leonhard gewidmet ist.",
+                  "text": "Pfarrkirche St. Leonard in Żurrieq, barocker Bau mit markanter Kuppel.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -61113,7 +61113,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Kirkop történelmi plébániatemploma, amelyet Szent Lénárd tiszteletére szenteltek.",
+                  "text": "Szent Leonard plébániatemplom Żurrieqben, barokk épület kupolával.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -61430,7 +61430,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Kirkop Parish Church",
-                  "text": "Biserica parohială istorică din Kirkop, dedicată Sfântului Leonard.",
+                  "text": "Biserica Sfântul Leonard din Żurrieq, barocă, cu o cupolă distinctivă.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -61747,7 +61747,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Leonard",
-                  "text": "The historic parish church of Kirkop, dedicated to Saint Leonard.",
+                  "text": "Parish church of St. Leonard in Żurrieq, Baroque with a prominent dome.",
                   "category": "landmark",
                   "coords": [
                         14.485787,
@@ -62062,7 +62062,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja Parrokkjali Marija Assunta",
-                  "text": "Knisja Parrokkjali Marija Assunta ist eine anerkannte Kulturerbestätte in der Nähe von Siġġiewi.",
+                  "text": "Pfarrkirche Mariä Himmelfahrt in Siġġiewi, Barockbau in der Festungsstadt.",
                   "category": "landmark",
                   "coords": [
                         14.457468,
@@ -62334,7 +62334,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja Parrokkjali Marija Assunta",
-                  "text": "A Knisja Parrokkjali Marija Assunta egy elismert örökségi helyszín Siġġiewi közelében.",
+                  "text": "Mária mennybevétele plébániatemplom Siġġiewiben, barokk stílusú az erődített városban.",
                   "category": "landmark",
                   "coords": [
                         14.457468,
@@ -62606,7 +62606,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja Parrokkjali Marija Assunta",
-                  "text": "Knisja Parrokkjali Marija Assunta este un sit de patrimoniu recunoscut situat în apropiere de Siġġiewi.",
+                  "text": "Biserica parohială Adormirea Maicii Domnului din Siġġiewi, barocă în orașul fortificat.",
                   "category": "landmark",
                   "coords": [
                         14.457468,
@@ -62878,7 +62878,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Knisja Parrokkjali Marija Assunta",
-                  "text": "Knisja Parrokkjali Marija Assunta is a recognized heritage site located near Siġġiewi.",
+                  "text": "Parish church of the Assumption in Siġġiewi, Baroque, located in the fortified city.",
                   "category": "landmark",
                   "coords": [
                         14.457468,
@@ -69639,7 +69639,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Die Saint Mary's Parish Church ist eine bemerkenswerte Kulturerbestätte in Balzan.",
+                  "text": "Pfarrkirche St. Maria in Balzan, denkmalgeschützter Barockbau mit Glockenturm.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -70208,7 +70208,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "A Saint Mary's Parish Church egy jelentős örökségi helyszín Balzan városában.",
+                  "text": "Szent Mária plébániatemplom Balzanban, barokk, műemlék, harangtoronnyal.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -70777,7 +70777,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Saint Mary's Parish Church este un important sit de patrimoniu situat în Balzan.",
+                  "text": "Biserica Sfânta Maria din Balzan, barocă, monument istoric, cu turn clopotniță.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -71346,7 +71346,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Mary's Parish Church",
-                  "text": "Saint Mary's Parish Church is a notable heritage site located in Balzan.",
+                  "text": "Parish church of St. Mary in Balzan, Baroque, Grade 2 listed, with a bell tower.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -74319,7 +74319,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "Palazzo Parisio & Gardens ist eine markante Schlossanlage in Mosta.",
+                  "text": "Palazzo Parisio mit Gärten in Mosta, erbaut 1900, mit prächtigen Sälen.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -74634,7 +74634,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "Torri tal-Kaptan, oder der Kapitänsturm, ist ein historischer Turm in Mosta.",
+                  "text": "Torri tal-Kaptan in Mosta, Wachturm von 1566.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -74690,7 +74690,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "A Palazzo Parisio & Gardens egy kiemelkedő kastélyépület Mosta városában.",
+                  "text": "Palazzo Parisio és kertjei Mostában, 1900-ban épült, dísztermekkel.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -75005,7 +75005,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "A Torri tal-Kaptan, vagyis a Kapitány-torony egy történelmi torony Mostában.",
+                  "text": "Torri tal-Kaptan Mostában, 1566-ban épült őrtorony.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -75061,7 +75061,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "Palazzo Parisio & Gardens este o structură de castel proeminentă situată în Mosta.",
+                  "text": "Palazzo Parisio cu grădini în Mosta, construit în 1900, cu săli fastuoase.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -75376,7 +75376,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "Torri tal-Kaptan, sau Turnul Căpitanului, este un turn istoric situat în Mosta.",
+                  "text": "Torri tal-Kaptan în Mosta, turn de veghe din 1566.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -75432,7 +75432,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "Palazzo Parisio & Gardens is a prominent castle structure located in Mosta.",
+                  "text": "Palazzo Parisio & Gardens in Mosta, built in 1900, featuring grand halls.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -75747,7 +75747,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "Torri tal-Kaptan, or the Captain's Tower, is a historical tower located in Mosta.",
+                  "text": "Captain's Tower in Mosta, a watchtower built in 1566.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -75846,7 +75846,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "Ein prächtiger Palast aus dem 19. Jahrhundert mit weitläufigen Gärten.",
+                  "text": "Palazzo Parisio mit Gärten in Naxxar, erbaut 1900, heute Museum und Café.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -76152,7 +76152,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Eine alte Kirche im Renaissance-Stil in Birkirkara.",
+                  "text": "Pfarrkirche St. Maria in Naxxar, barocker Bau mit Marmoraltar.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -76161,7 +76161,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Sant' Elena",
-                  "text": "Eine beeindruckende barocke Basilika in Birkirkara.",
+                  "text": "Basilika St. Helena in Naxxar, barocke Pfarrkirche, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -76197,7 +76197,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "Ein befestigter Wohnturm aus dem 16. Jahrhundert.",
+                  "text": "Torri tal-Kaptan in Naxxar, Wachturm von 1566.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -76370,7 +76370,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "Pompás 19. századi palota kiterjedt kertekkel.",
+                  "text": "Palazzo Parisio és kertjei Naxxarban, 1900-ban épült, ma múzeum és kávézó.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -76676,7 +76676,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "Régi, reneszánsz stílusú templom Birkirkarában.",
+                  "text": "Szent Mária plébániatemplom Naxxarban, barokk, márványoltárral.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -76685,7 +76685,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Sant' Elena",
-                  "text": "Lenyűgöző barokk bazilika Birkirkarában.",
+                  "text": "Szent Ilona-bazilika Naxxarban, barokk plébániatemplom, műemlék.",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -76721,7 +76721,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "16. századi erődített lakótorony.",
+                  "text": "Torri tal-Kaptan Naxxarban, 1566-ban épült őrtorony.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -76894,7 +76894,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "Un palat somptuos din secolul al XIX-lea, cu grădini vaste.",
+                  "text": "Palazzo Parisio cu grădini în Naxxar, construit în 1900, acum muzeu și cafenea.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -77200,7 +77200,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Il-Knisja Parrokkjali ta' Santa Marija",
-                  "text": "O biserică veche în stil renascentist în Birkirkara.",
+                  "text": "Biserica Sfânta Maria din Naxxar, barocă, cu altar de marmură.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -77209,7 +77209,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Sant' Elena",
-                  "text": "O bazilică barocă impresionantă în Birkirkara.",
+                  "text": "Basilica Sfânta Elena din Naxxar, biserică parohială barocă, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -77245,7 +77245,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "Un turn de locuință fortificat din secolul al XVI-lea.",
+                  "text": "Torri tal-Kaptan în Naxxar, turn de veghe din 1566.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -77418,7 +77418,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Palazzo Parisio & Gardens",
-                  "text": "A grand 19th-century palace with extensive gardens.",
+                  "text": "Palazzo Parisio & Gardens in Naxxar, built in 1900, now a museum and café.",
                   "category": "castle",
                   "coords": [
                         14.44423,
@@ -77724,7 +77724,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Saint Mary's Parish Church",
-                  "text": "An old Renaissance-style church in Birkirkara.",
+                  "text": "Parish church of St. Mary in Naxxar, Baroque, with a marble high altar.",
                   "category": "landmark",
                   "coords": [
                         14.463,
@@ -77733,7 +77733,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Parish Church of Saint Helen",
-                  "text": "An impressive baroque basilica in Birkirkara.",
+                  "text": "Basilica of St. Helen in Naxxar, a Baroque parish church, Grade 2 listed.",
                   "category": "landmark",
                   "coords": [
                         14.465354,
@@ -77769,7 +77769,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tal-Kaptan",
-                  "text": "A 16th-century fortified residential tower.",
+                  "text": "Captain's Tower in Naxxar, a watchtower built in 1566.",
                   "category": "tower",
                   "coords": [
                         14.442447,
@@ -85971,7 +85971,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri ta' Lippija",
-                  "text": "Ein kleiner Wachturm aus dem 17. Jahrhundert in Mġarr.",
+                  "text": "Ein denkmalgeschützter Wachturm (Grade II) von 1637 in Mġarr.",
                   "category": "tower",
                   "coords": [
                         14.34606,
@@ -86225,7 +86225,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri ta' Lippija",
-                  "text": "17. századi kis őrtorony Mġarr közelében.",
+                  "text": "Egy 1637-ből származó, II. fokozatú védett őrtorony Mġarrban.",
                   "category": "tower",
                   "coords": [
                         14.34606,
@@ -86479,7 +86479,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri ta' Lippija",
-                  "text": "Un mic turn de veghe din secolul al XVII-lea situat în Mġarr.",
+                  "text": "Un turn de veghe de gradul II din 1637 în Mġarr.",
                   "category": "tower",
                   "coords": [
                         14.34606,
@@ -86733,7 +86733,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri ta' Lippija",
-                  "text": "A small 17th-century watchtower located in Mġarr.",
+                  "text": "A Grade 2 watchtower from 1637 in Mġarr.",
                   "category": "tower",
                   "coords": [
                         14.34606,
@@ -88766,7 +88766,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Bażilika Marija Bambina",
-                  "text": "Die Basilika der Geburt der Jungfrau Maria ist eine wichtige historische Stätte in Xewkija.",
+                  "text": "Basilika Mariä Geburt in Xewkija, riesige Kuppel, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         14.265023,
@@ -89164,7 +89164,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Bażilika Marija Bambina",
-                  "text": "A Kisboldogasszony-bazilika fontos történelmi örökség Xewkija városában.",
+                  "text": "Kisboldogasszony-bazilika Xewkijában, hatalmas kupolával, műemlék.",
                   "category": "landmark",
                   "coords": [
                         14.265023,
@@ -89562,7 +89562,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Bażilika Marija Bambina",
-                  "text": "Bazilica Nașterea Maicii Domnului este un important sit de patrimoniu din Xewkija.",
+                  "text": "Basilica Nașterii Maicii Domnului din Xewkija, cu o cupolă uriașă, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         14.265023,
@@ -89960,7 +89960,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Basilica of the Nativity of Our Lady",
-                  "text": "The Basilica of the Nativity of Our Lady is an important heritage site in Xewkija.",
+                  "text": "Basilica of the Nativity of Our Lady in Xewkija, with a massive dome, Grade 2 listed.",
                   "category": "landmark",
                   "coords": [
                         14.265023,
@@ -93392,7 +93392,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mġarr ix-Xini Tower",
-                  "text": "Der Küstenturm von Mġarr ix-Xini ist eine historische Festungsanlage in Qala.",
+                  "text": "Eine denkmalgeschützte Küstenbefestigung (Grade II) von 1661 in Qala.",
                   "category": "fortress",
                   "coords": [
                         14.274399,
@@ -93646,7 +93646,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mġarr ix-Xini Tower",
-                  "text": "A Mġarr ix-Xini part menti torony egy történelmi erődítmény Qala városában.",
+                  "text": "Egy 1661-ben épült, II. fokozatú védett tengerparti erődítmény Qalában.",
                   "category": "fortress",
                   "coords": [
                         14.274399,
@@ -93900,7 +93900,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mġarr ix-Xini Tower",
-                  "text": "Turnul de coastă Mġarr ix-Xini este o fortificație istorică din Qala.",
+                  "text": "O fortificație costieră de gradul II din 1661 în Qala.",
                   "category": "fortress",
                   "coords": [
                         14.274399,
@@ -94154,7 +94154,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Mġarr ix-Xini Coastal Tower",
-                  "text": "The Mġarr ix-Xini Coastal Tower is a historic fortification in Qala.",
+                  "text": "A Grade 2 coastal fortification built in 1661 in Qala.",
                   "category": "fortress",
                   "coords": [
                         14.274399,
@@ -95669,7 +95669,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tax-Xlendi",
-                  "text": "Torri tax-Xlendi ist ein historischer Wachturm und eine bemerkenswerte Attraktion in Xlendi.",
+                  "text": "Ein denkmalgeschützter Turm (Grade II) von 1640 mit Blick auf die Bucht von Xlendi.",
                   "category": "landmark",
                   "coords": [
                         14.213125,
@@ -95887,7 +95887,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tax-Xlendi",
-                  "text": "A Torri tax-Xlendi egy történelmi őrtorony és jelentős látványosság Xlendi városában.",
+                  "text": "Egy 1640-ből származó, II. fokozatú védett torony, mely a Xlendi-öbölre néz.",
                   "category": "landmark",
                   "coords": [
                         14.213125,
@@ -96105,7 +96105,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tax-Xlendi",
-                  "text": "Torri tax-Xlendi este un turn de veghe istoric și o atracție notabilă în Xlendi.",
+                  "text": "Un turn de gradul II din 1640 care domină golful Xlendi.",
                   "category": "landmark",
                   "coords": [
                         14.213125,
@@ -96323,7 +96323,7 @@ export const poiExtraMaltaCities: POI[] = [
             },
             {
                   "name": "Torri tax-Xlendi",
-                  "text": "Torri tax-Xlendi is a historical watchtower and notable attraction in Xlendi.",
+                  "text": "A Grade 2 tower from 1640 overlooking Xlendi Bay.",
                   "category": "landmark",
                   "coords": [
                         14.213125,

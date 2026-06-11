@@ -3,7 +3,592 @@ import type { POI } from "./poi";
 
 export const poiExtraBeninLifeV2: POI[] = [
   {
-    id: "songhai-center-life-v2",
+    id: "songhai-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terrain Polyvalent Site Nouveau",
+                  "text": "Dieses vielseitige Außenspielfeld im Songhai Center dient als zentraler Treffpunkt für Gemeindesport und lokale Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.627974,
+                        6.529999
+                  ]
+            },
+            {
+                  "name": "Ouadada",
+                  "text": "Dieses lebendige Kulturzentrum fördert das lokale Kunsthandwerk von Porto-Novo durch regelmäßige Workshops und Kunstausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.607897,
+                        6.500684
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs des personnes du troisième âge",
+                  "text": "Dieses spezielle Freizeitzentrum bietet künstlerische Aktivitäten, gesellschaftliche Veranstaltungen und eine einladende Umgebung für Senioren.",
+                  "category": "cultural",
+                  "coords": [
+                        2.666217,
+                        6.513715
+                  ]
+            },
+            {
+                  "name": "Brigade Territoriale D'ADJARRA",
+                  "text": "Aus einer befestigten lokalen Struktur heraus operierend, dient diese territoriale Brigade als wichtiger Sicherheitsaußenposten für die Gemeinde Adjarra.",
+                  "category": "fortress",
+                  "coords": [
+                        2.649987,
+                        6.518047
+                  ]
+            },
+            {
+                  "name": "Centre d'aide au personnes Handicapés",
+                  "text": "Diese in einem sicheren und geschlossenen Gelände untergebrachte Einrichtung bietet wichtige Unterstützung und Ressourcen für Menschen mit Behinderungen.",
+                  "category": "fortress",
+                  "coords": [
+                        2.653729,
+                        6.517735
+                  ]
+            },
+            {
+                  "name": "Palais Royal D'adjarra",
+                  "text": "Dieser traditionelle königliche Palast ist die historische Residenz der lokalen Monarchie und ein Hüter der überlieferten Bräuche von Adjarra.",
+                  "category": "castle",
+                  "coords": [
+                        2.66166,
+                        6.530748
+                  ]
+            },
+            {
+                  "name": "Les tams tams de Alphonse - atelier et cours",
+                  "text": "In diesem interaktiven Workshop können Besucher auf lokal geschnitzten Tam-Tams traditionelle westafrikanische Trommeltechniken erlernen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662747,
+                        6.531734
+                  ]
+            },
+            {
+                  "name": "Boutique",
+                  "text": "In einer alten Mühlenstruktur bietet diese urige Boutique lokal produzierte Waren der landwirtschaftlichen Gemeinde Songhai an.",
+                  "category": "landmark",
+                  "coords": [
+                        2.664174,
+                        6.525674
+                  ]
+            },
+            {
+                  "name": "Centre des jeunes et loisirs de la Commune d'adjarra",
+                  "text": "Dieses dynamische Gemeindezentrum in Adjarra bietet der örtlichen Jugend Räume für Freizeitkünste und soziale Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        2.664034,
+                        6.521238
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Diese rustikale landwirtschaftliche Mühle ist ein wichtiger Treffpunkt der Gemeinde, an dem lokale Bauern ihren geernteten Mais zu Mehl mahlen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.672347,
+                        6.521463
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Dieses feierliche Kriegerdenkmal ist mit steinernen Inschriften versehen, die die gefallenen Soldaten der Region ehren.",
+                  "category": "historical",
+                  "coords": [
+                        2.668247,
+                        6.52262
+                  ]
+            },
+            {
+                  "name": "Vulgarisateur",
+                  "text": "Als markanter Punkt am Straßenrand bietet diese lokale Open-Air-Reifenreparaturwerkstatt einen echten Einblick in den täglichen Straßenhandel.",
+                  "category": "natural",
+                  "coords": [
+                        2.673833,
+                        6.512948
+                  ]
+            },
+            {
+                  "name": "tour de rivere noir",
+                  "text": "Die Black River Tour ist eine malerische Wasserstraßenattraktion in der Gegend von songhai-center-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662429,
+                        6.537908
+                  ]
+            },
+            {
+                  "name": "Site place public",
+                  "text": "Site place public ist ein öffentlicher Open-Air-Treffpunkt in songhai-center-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.660815,
+                        6.563113
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle",
+                  "text": "Dieses geschützte Naturschutzgebiet bewahrt das lokale Ökosystem im Bezirk songhai-center-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        2.652876,
+                        6.558048
+                  ]
+            },
+            {
+                  "name": "Marché de Ouando",
+                  "text": "Der Marché de Ouando ist ein belebter traditioneller Marktplatz, der als wichtiges Handelszentrum in songhai-center-life-v2 dient.",
+                  "category": "cultural",
+                  "coords": [
+                        2.611071,
+                        6.506432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terrain Polyvalent Site Nouveau",
+                  "text": "A Songhai Központon belül található többcélú szabadtéri pálya a közösségi sportok és a helyi rendezvények központja.",
+                  "category": "landmark",
+                  "coords": [
+                        2.627974,
+                        6.529999
+                  ]
+            },
+            {
+                  "name": "Ouadada",
+                  "text": "Ez a nyüzsgő kulturális központ rendszeres workshopok és művészeti kiállítások szervezésével támogatja Porto-Novo helyi kézműveseit.",
+                  "category": "cultural",
+                  "coords": [
+                        2.607897,
+                        6.500684
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs des personnes du troisième âge",
+                  "text": "Ez a dedikált szabadidőközpont művészeti tevékenységeket, közösségi eseményeket és barátságos környezetet biztosít az idősek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.666217,
+                        6.513715
+                  ]
+            },
+            {
+                  "name": "Brigade Territoriale D'ADJARRA",
+                  "text": "Az erődített helyi építményből működő területi brigád Adjarra község kulcsfontosságú biztonsági előőrseként szolgál.",
+                  "category": "fortress",
+                  "coords": [
+                        2.649987,
+                        6.518047
+                  ]
+            },
+            {
+                  "name": "Centre d'aide au personnes Handicapés",
+                  "text": "A biztonságosan elkerített területen elhelyezkedő létesítmény alapvető támogatást és erőforrásokat nyújt a fogyatékkal élők számára.",
+                  "category": "fortress",
+                  "coords": [
+                        2.653729,
+                        6.517735
+                  ]
+            },
+            {
+                  "name": "Palais Royal D'adjarra",
+                  "text": "Ez a hagyományos királyi palota a helyi monarchia történelmi rezidenciája és Adjarra ősi szokásainak őrzője.",
+                  "category": "castle",
+                  "coords": [
+                        2.66166,
+                        6.530748
+                  ]
+            },
+            {
+                  "name": "Les tams tams de Alphonse - atelier et cours",
+                  "text": "Ezen az interaktív workshopon a látogatók a hagyományos nyugat-afrikai dobolási technikákat sajátíthatják el a helyben faragott tam-tamokon.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662747,
+                        6.531734
+                  ]
+            },
+            {
+                  "name": "Boutique",
+                  "text": "A régi malom épületében működő különleges butik a Songhai mezőgazdasági közösség helyben termelt áruit árusítja.",
+                  "category": "landmark",
+                  "coords": [
+                        2.664174,
+                        6.525674
+                  ]
+            },
+            {
+                  "name": "Centre des jeunes et loisirs de la Commune d'adjarra",
+                  "text": "Ez a dinamikus adjarrai közösségi központ rekreációs művészeteknek és közösségi tevékenységeknek ad helyet a helyi fiatalok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.664034,
+                        6.521238
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Ez a rusztikus mezőgazdasági malom alapvető közösségi központ, ahol a helyi gazdák lisztté őrölik a betakarított kukoricát.",
+                  "category": "landmark",
+                  "coords": [
+                        2.672347,
+                        6.521463
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Ez az ünnepélyes háborús emlékmű a régió elesett katonáinak emléket állító kőfeliratokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        2.668247,
+                        6.52262
+                  ]
+            },
+            {
+                  "name": "Vulgarisateur",
+                  "text": "A feltűnő útmenti pontként működő, szabadtéri helyi gumijavító műhely valódi bepillantást enged a mindennapi utcai kereskedelembe.",
+                  "category": "natural",
+                  "coords": [
+                        2.673833,
+                        6.512948
+                  ]
+            },
+            {
+                  "name": "tour de rivere noir",
+                  "text": "A Black River Tour egy festői vízi látványosság a songhai-center-life-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662429,
+                        6.537908
+                  ]
+            },
+            {
+                  "name": "Site place public",
+                  "text": "A Site place public egy szabadtéri közösségi gyülekezőhely a songhai-center-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        2.660815,
+                        6.563113
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle",
+                  "text": "Ez a védett természetvédelmi terület megőrzi a helyi ökoszisztémát a songhai-center-life-v2 kerületben.",
+                  "category": "natural",
+                  "coords": [
+                        2.652876,
+                        6.558048
+                  ]
+            },
+            {
+                  "name": "Marché de Ouando",
+                  "text": "A Marché de Ouando egy nyüzsgő hagyományos piac, amely jelentős kereskedelmi központként szolgál a songhai-center-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        2.611071,
+                        6.506432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terrain Polyvalent Site Nouveau",
+                  "text": "Situat în cadrul Centrului Songhai, acest teren în aer liber cu destinație multiplă servește ca un centru pentru sporturile comunității și evenimentele locale.",
+                  "category": "landmark",
+                  "coords": [
+                        2.627974,
+                        6.529999
+                  ]
+            },
+            {
+                  "name": "Ouadada",
+                  "text": "Acest centru cultural vibrant susține artele și meseriile locale din Porto-Novo găzduind ateliere regulate și expoziții artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        2.607897,
+                        6.500684
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs des personnes du troisième âge",
+                  "text": "Acest centru de recreere dedicat oferă activități artistice, evenimente sociale și un mediu primitor pentru persoanele în vârstă.",
+                  "category": "cultural",
+                  "coords": [
+                        2.666217,
+                        6.513715
+                  ]
+            },
+            {
+                  "name": "Brigade Territoriale D'ADJARRA",
+                  "text": "Funcționând dintr-o structură locală fortificată, această brigadă teritorială servește ca un avanpost cheie de securitate pentru comuna Adjarra.",
+                  "category": "fortress",
+                  "coords": [
+                        2.649987,
+                        6.518047
+                  ]
+            },
+            {
+                  "name": "Centre d'aide au personnes Handicapés",
+                  "text": "Găzduită într-un complex închis și sigur, această unitate dedicată oferă sprijin și resurse esențiale pentru persoanele cu dizabilități.",
+                  "category": "fortress",
+                  "coords": [
+                        2.653729,
+                        6.517735
+                  ]
+            },
+            {
+                  "name": "Palais Royal D'adjarra",
+                  "text": "Acest palat regal tradițional reprezintă reședința istorică a monarhiei locale și un gardian al obiceiurilor ancestrale din Adjarra.",
+                  "category": "castle",
+                  "coords": [
+                        2.66166,
+                        6.530748
+                  ]
+            },
+            {
+                  "name": "Les tams tams de Alphonse - atelier et cours",
+                  "text": "La acest atelier interactiv, vizitatorii pot învăța tehnici tradiționale de tobe din Africa de Vest pe tam-tamuri sculptate local.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662747,
+                        6.531734
+                  ]
+            },
+            {
+                  "name": "Boutique",
+                  "text": "Funcționând într-o veche structură de moară, această butic pitoresc vinde bunuri produse local de comunitatea agricolă Songhai.",
+                  "category": "landmark",
+                  "coords": [
+                        2.664174,
+                        6.525674
+                  ]
+            },
+            {
+                  "name": "Centre des jeunes et loisirs de la Commune d'adjarra",
+                  "text": "Acest centru comunitar dinamic din Adjarra oferă tinerilor locali spații pentru arte recreative și activități sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.664034,
+                        6.521238
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Această moară agricolă rustică este un centru comunitar esențial, folosit de fermierii locali pentru a măcina porumbul recoltat în făină.",
+                  "category": "landmark",
+                  "coords": [
+                        2.672347,
+                        6.521463
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Acest monument memorial de război solemn prezintă marcaje de piatră inscripționate, onorând soldații căzuți din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        2.668247,
+                        6.52262
+                  ]
+            },
+            {
+                  "name": "Vulgarisateur",
+                  "text": "Funcționând ca un punct vizibil la marginea drumului, acest atelier local de reparații anvelope în aer liber oferă o privire autentică asupra comerțului stradal de zi cu zi.",
+                  "category": "natural",
+                  "coords": [
+                        2.673833,
+                        6.512948
+                  ]
+            },
+            {
+                  "name": "tour de rivere noir",
+                  "text": "Black River Tour funcționează ca o atracție pitorească pe apă în zona songhai-center-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662429,
+                        6.537908
+                  ]
+            },
+            {
+                  "name": "Site place public",
+                  "text": "Site place public este o atracție de adunare publică în aer liber situată în songhai-center-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.660815,
+                        6.563113
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle",
+                  "text": "Această rezervație naturală protejată conservă ecosistemul local din districtul songhai-center-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        2.652876,
+                        6.558048
+                  ]
+            },
+            {
+                  "name": "Marché de Ouando",
+                  "text": "Marché de Ouando este o piață tradițională plină de viață, care servește ca un centru comercial major în songhai-center-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        2.611071,
+                        6.506432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terrain Polyvalent Site Nouveau",
+                  "text": "Located within the Songhai Center, this multi-purpose outdoor field serves as a central hub for community sports and local events.",
+                  "category": "landmark",
+                  "coords": [
+                        2.627974,
+                        6.529999
+                  ]
+            },
+            {
+                  "name": "Ouadada",
+                  "text": "This vibrant cultural centre champions Porto-Novo's local arts and crafts by hosting regular workshops and artistic exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        2.607897,
+                        6.500684
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs des personnes du troisième âge",
+                  "text": "This dedicated recreation center provides artistic activities, social events, and a welcoming environment for senior citizens.",
+                  "category": "cultural",
+                  "coords": [
+                        2.666217,
+                        6.513715
+                  ]
+            },
+            {
+                  "name": "Brigade Territoriale D'ADJARRA",
+                  "text": "Operating out of a fortified local structure, this territorial brigade serves as a key security outpost for the Adjarra commune.",
+                  "category": "fortress",
+                  "coords": [
+                        2.649987,
+                        6.518047
+                  ]
+            },
+            {
+                  "name": "Centre d'aide au personnes Handicapés",
+                  "text": "Housed within a secure enclosed compound, this dedicated facility provides essential support and resources for people with disabilities.",
+                  "category": "fortress",
+                  "coords": [
+                        2.653729,
+                        6.517735
+                  ]
+            },
+            {
+                  "name": "Palais Royal D'adjarra",
+                  "text": "This traditional royal palace stands as the historic residence of the local monarchy and a guardian of Adjarra's ancestral customs.",
+                  "category": "castle",
+                  "coords": [
+                        2.66166,
+                        6.530748
+                  ]
+            },
+            {
+                  "name": "Alphonse’s Tam Tams- workshop and lessons",
+                  "text": "At this interactive workshop, visitors can learn traditional West African drumming techniques on locally carved tam-tams.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662747,
+                        6.531734
+                  ]
+            },
+            {
+                  "name": "Boutique",
+                  "text": "Operating out of an old mill structure, this quaint boutique sells locally produced goods from the Songhai agricultural community.",
+                  "category": "landmark",
+                  "coords": [
+                        2.664174,
+                        6.525674
+                  ]
+            },
+            {
+                  "name": "Centre des jeunes et loisirs de la Commune d'adjarra",
+                  "text": "This dynamic community center in Adjarra provides the local youth with spaces for recreational arts and social activities.",
+                  "category": "cultural",
+                  "coords": [
+                        2.664034,
+                        6.521238
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "This rustic agricultural mill is an essential community hub used by local farmers to grind their harvested maize into flour.",
+                  "category": "landmark",
+                  "coords": [
+                        2.672347,
+                        6.521463
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "This solemn war memorial features inscribed stone markers honoring the fallen soldiers of the region.",
+                  "category": "historical",
+                  "coords": [
+                        2.668247,
+                        6.52262
+                  ]
+            },
+            {
+                  "name": "Vulgarisateur",
+                  "text": "Functioning as a prominent roadside spot, this open-air local tire repair workshop offers a true glimpse into daily street commerce.",
+                  "category": "natural",
+                  "coords": [
+                        2.673833,
+                        6.512948
+                  ]
+            },
+            {
+                  "name": "Black River Tour",
+                  "text": "The Black River Tour operates as a scenic waterway attraction in the songhai-center-life-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        2.662429,
+                        6.537908
+                  ]
+            },
+            {
+                  "name": "Site place public",
+                  "text": "Site place public is an open-air public gathering attraction situated in songhai-center-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.660815,
+                        6.563113
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle",
+                  "text": "This protected nature reserve preserves the local ecosystem within the songhai-center-life-v2 district.",
+                  "category": "natural",
+                  "coords": [
+                        2.652876,
+                        6.558048
+                  ]
+            },
+            {
+                  "name": "Marché de Ouando",
+                  "text": "The Marché de Ouando is a bustling traditional marketplace serving as a major commercial hub in songhai-center-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        2.611071,
+                        6.506432
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BJ-OU",
     coords: [2.625, 6.505],
@@ -195,7 +780,88 @@ export const poiExtraBeninLifeV2: POI[] = [
     },
   },
   {
-    id: "savalou-yam-fields-life-v2",
+    id: "savalou-yam-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais royal de Savalou",
+                  "text": "Der königliche Palast von Savalou dient heute als Museum, das die lokale Geschichte und Kultur inmitten der Yamswurzel-Anbaugebiete zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.972247,
+                        7.931661
+                  ]
+            },
+            {
+                  "name": "Chasse & FA",
+                  "text": "Das Museum Chasse & FA in Savalou widmet sich den traditionellen Jagdmethoden und der lokalen Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        1.987208,
+                        7.929595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais royal de Savalou",
+                  "text": "A savaloui királyi palota ma múzeumként működik, amely a helyi történelmet mutatja be a jamgyökérföldek vidékén.",
+                  "category": "museum",
+                  "coords": [
+                        1.972247,
+                        7.931661
+                  ]
+            },
+            {
+                  "name": "Chasse & FA",
+                  "text": "A savaloui Chasse & FA múzeum a hagyományos vadászati módszereknek és a helyi kultúrának szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        1.987208,
+                        7.929595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais royal de Savalou",
+                  "text": "Palatul regal din Savalou funcționează ca un muzeu ce prezintă istoria locală, situat în regiunea agricolă cunoscută pentru cultivarea ignamelor.",
+                  "category": "museum",
+                  "coords": [
+                        1.972247,
+                        7.931661
+                  ]
+            },
+            {
+                  "name": "Chasse & FA",
+                  "text": "Muzeul Chasse & FA din Savalou este dedicat metodelor tradiționale de vânătoare și culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        1.987208,
+                        7.929595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais royal de Savalou",
+                  "text": "The royal palace of Savalou serves as a museum showcasing local history, located in a region renowned for its yam fields.",
+                  "category": "museum",
+                  "coords": [
+                        1.972247,
+                        7.931661
+                  ]
+            },
+            {
+                  "name": "Chasse & FA",
+                  "text": "The Chasse & FA museum in Savalou is dedicated to traditional hunting methods and local cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        1.987208,
+                        7.929595
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BJ-CO",
     coords: [1.97, 7.93],
@@ -339,7 +1005,196 @@ export const poiExtraBeninLifeV2: POI[] = [
     },
   },
   {
-    id: "drabo-monkey-sanctuary-life-v2",
+    id: "drabo-monkey-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulinier",
+                  "text": "Eine traditionelle Windmühlenstruktur in der Nähe des Affenschutzgebietes in der Region Drabo.",
+                  "category": "landmark",
+                  "coords": [
+                        2.250447,
+                        6.485832
+                  ]
+            },
+            {
+                  "name": "Complexe touristique agoualand(CTA)",
+                  "text": "Ein Touristenkomplex mit Freizeitangeboten in der Nähe des Affenschutzgebietes von Drabo.",
+                  "category": "landmark",
+                  "coords": [
+                        2.296964,
+                        6.481142
+                  ]
+            },
+            {
+                  "name": "JADET",
+                  "text": "Eine lokale Touristenattraktion inmitten der natürlichen Umgebung des Affenschutzgebietes von Drabo.",
+                  "category": "landmark",
+                  "coords": [
+                        2.333906,
+                        6.495105
+                  ]
+            },
+            {
+                  "name": "milieu marche 2",
+                  "text": "Ein geschäftiger lokaler Marktplatz in der Nähe von Drabo, der einen Einblick in den regionalen Handel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        2.337117,
+                        6.501657
+                  ]
+            },
+            {
+                  "name": "Forêt sanctuaire des singes à ventre roux de Drabo-Gbo",
+                  "text": "Ein geschütztes Naturreservat in Drabo-Gbo, das speziell der Erhaltung der gefährdeten Rotbauchmeerkatzen gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        2.301368,
+                        6.5017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulinier",
+                  "text": "Hagyományos szélmalom építmény a drabói majomrezervátum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.250447,
+                        6.485832
+                  ]
+            },
+            {
+                  "name": "Complexe touristique agoualand(CTA)",
+                  "text": "Turisztikai komplexum a drabói majomrezervátum közelében, amely szabadidős tevékenységeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        2.296964,
+                        6.481142
+                  ]
+            },
+            {
+                  "name": "JADET",
+                  "text": "Helyi turisztikai látványosság a drabói majomrezervátum természetes környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.333906,
+                        6.495105
+                  ]
+            },
+            {
+                  "name": "milieu marche 2",
+                  "text": "Nyüzsgő helyi piac Drabo közelében, amely bepillantást enged a régió mindennapi kereskedelmébe.",
+                  "category": "landmark",
+                  "coords": [
+                        2.337117,
+                        6.501657
+                  ]
+            },
+            {
+                  "name": "Forêt sanctuaire des singes à ventre roux de Drabo-Gbo",
+                  "text": "Védett természetvédelmi terület Drabo-Gbo-ban, amelyet kifejezetten a veszélyeztetett vöröshasú cerkófok védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        2.301368,
+                        6.5017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulinier",
+                  "text": "O structură tradițională de moară de vânt, situată lângă sanctuarul de maimuțe din regiunea Drabo.",
+                  "category": "landmark",
+                  "coords": [
+                        2.250447,
+                        6.485832
+                  ]
+            },
+            {
+                  "name": "Complexe touristique agoualand(CTA)",
+                  "text": "Un complex turistic care oferă activități recreative și facilități în apropierea sanctuarului de maimuțe din Drabo.",
+                  "category": "landmark",
+                  "coords": [
+                        2.296964,
+                        6.481142
+                  ]
+            },
+            {
+                  "name": "JADET",
+                  "text": "O atracție turistică locală situată în împrejurimile naturale ale zonei sanctuarului de maimuțe Drabo.",
+                  "category": "landmark",
+                  "coords": [
+                        2.333906,
+                        6.495105
+                  ]
+            },
+            {
+                  "name": "milieu marche 2",
+                  "text": "O piață locală plină de viață lângă Drabo, care oferă o privire asupra comerțului regional de zi cu zi.",
+                  "category": "landmark",
+                  "coords": [
+                        2.337117,
+                        6.501657
+                  ]
+            },
+            {
+                  "name": "Forêt sanctuaire des singes à ventre roux de Drabo-Gbo",
+                  "text": "O rezervație naturală protejată din Drabo-Gbo, dedicată în mod special conservării maimuțelor cu burtă roșie, pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        2.301368,
+                        6.5017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulinier",
+                  "text": "A traditional windmill structure located near the monkey sanctuary in the Drabo region.",
+                  "category": "landmark",
+                  "coords": [
+                        2.250447,
+                        6.485832
+                  ]
+            },
+            {
+                  "name": "Complexe touristique agoualand(CTA)",
+                  "text": "A tourist complex offering recreational activities and amenities near the Drabo monkey sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        2.296964,
+                        6.481142
+                  ]
+            },
+            {
+                  "name": "JADET",
+                  "text": "A local tourist attraction situated within the natural surroundings of the Drabo monkey sanctuary area.",
+                  "category": "landmark",
+                  "coords": [
+                        2.333906,
+                        6.495105
+                  ]
+            },
+            {
+                  "name": "milieu marche 2",
+                  "text": "A bustling local marketplace setting near Drabo offering a glimpse into everyday regional commerce.",
+                  "category": "landmark",
+                  "coords": [
+                        2.337117,
+                        6.501657
+                  ]
+            },
+            {
+                  "name": "Forêt sanctuaire des singes à ventre roux de Drabo-Gbo",
+                  "text": "A protected nature reserve in Drabo-Gbo specifically dedicated to the conservation of the endangered red-bellied monkeys.",
+                  "category": "natural",
+                  "coords": [
+                        2.301368,
+                        6.5017
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BJ-AQ",
     coords: [2.32, 6.53],
@@ -435,7 +1290,52 @@ export const poiExtraBeninLifeV2: POI[] = [
     },
   },
   {
-    id: "pendjari-lion-territory-life-v2",
+    id: "pendjari-lion-territory-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de la Pendjari",
+                  "text": "Dieses Naturreservat ist weithin bekannt als Schutzgebiet für Löwen und andere Wildtiere in der westafrikanischen Savanne.",
+                  "category": "natural",
+                  "coords": [
+                        1.5299,
+                        11.238742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de la Pendjari",
+                  "text": "Ez a természetvédelmi terület széles körben ismert az oroszlánok és más vadon élő állatok nyugat-afrikai szavannai menedékeként.",
+                  "category": "natural",
+                  "coords": [
+                        1.5299,
+                        11.238742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de la Pendjari",
+                  "text": "Această rezervație naturală este o zonă protejată faimoasă pentru leii și alte animale sălbatice din savana vest-africană.",
+                  "category": "natural",
+                  "coords": [
+                        1.5299,
+                        11.238742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pendjari National Park",
+                  "text": "This nature reserve is widely recognized as a sanctuary for lions and other wildlife in the West African savanna.",
+                  "category": "natural",
+                  "coords": [
+                        1.5299,
+                        11.238742
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BJ-AK",
     coords: [1.5, 11.3],
@@ -627,7 +1527,88 @@ export const poiExtraBeninLifeV2: POI[] = [
     },
   },
   {
-    id: "grand-popo-turtle-beach-life-v2",
+    id: "grand-popo-turtle-beach-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Village de Pêcheur",
+                  "text": "Ein traditionelles Fischerdorf in der Nähe von Grand-Popo, in dem Besucher das tägliche Leben der Küstengemeinde beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        1.794287,
+                        6.270922
+                  ]
+            },
+            {
+                  "name": "Petit Musée",
+                  "text": "Ein kleines lokales Museum in Grand-Popo, das Artefakte aus der Geschichte der Küstenregion zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.82511,
+                        6.278851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Village de Pêcheur",
+                  "text": "Hagyományos halászfalu Grand-Popo közelében, ahol a látogatók megfigyelhetik a parti közösség mindennapi életét.",
+                  "category": "landmark",
+                  "coords": [
+                        1.794287,
+                        6.270922
+                  ]
+            },
+            {
+                  "name": "Petit Musée",
+                  "text": "Egy kis helyi múzeum Grand-Popóban, amely a tengerparti régió történelmének műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.82511,
+                        6.278851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Village de Pêcheur",
+                  "text": "Un sat tradițional de pescari lângă Grand-Popo, unde vizitatorii pot observa viața de zi cu zi a comunității de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        1.794287,
+                        6.270922
+                  ]
+            },
+            {
+                  "name": "Petit Musée",
+                  "text": "Un mic muzeu local din Grand-Popo care prezintă artefacte din istoria regiunii de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        1.82511,
+                        6.278851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Village de Pêcheur",
+                  "text": "A traditional fishing village near Grand-Popo where visitors can observe the daily coastal life of the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        1.794287,
+                        6.270922
+                  ]
+            },
+            {
+                  "name": "Petit Musée",
+                  "text": "A small local museum in Grand-Popo showcasing artifacts from the coastal region's history.",
+                  "category": "museum",
+                  "coords": [
+                        1.82511,
+                        6.278851
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BJ-MO",
     coords: [1.83, 6.27],
@@ -723,7 +1704,124 @@ export const poiExtraBeninLifeV2: POI[] = [
     },
   },
   {
-    id: "magic-park-cotonou-life-v2",
+    id: "magic-park-cotonou-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "Die Fondation Zinsou ist ein prominenter Ausstellungsraum, der der zeitgenössischen afrikanischen Kunst in magic-park-cotonou-life-v2 gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        2.420686,
+                        6.362555
+                  ]
+            },
+            {
+                  "name": "Hall des Arts, Loisirs et Sports",
+                  "text": "Dieses Mehrzweck-Kunstzentrum in magic-park-cotonou-life-v2 beherbergt verschiedene kulturelle Veranstaltungen, Aufführungen und sportliche Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        2.420427,
+                        6.360412
+                  ]
+            },
+            {
+                  "name": "Centre de promotion de l’artisanat",
+                  "text": "Dieses lebendige Zentrum in magic-park-cotonou-life-v2 bietet Werkstätten und Stände, an denen lokale Kunsthandwerker traditionelle beninische Waren herstellen und verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.418958,
+                        6.359489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "A Fondation Zinsou a kortárs afrikai művészetnek szentelt kiemelkedő kiállítótér a magic-park-cotonou-life-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.420686,
+                        6.362555
+                  ]
+            },
+            {
+                  "name": "Hall des Arts, Loisirs et Sports",
+                  "text": "Ez a magic-park-cotonou-life-v2 területén található többcélú művészeti központ különféle kulturális eseményeknek, előadásoknak és sporttevékenységeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        2.420427,
+                        6.360412
+                  ]
+            },
+            {
+                  "name": "Centre de promotion de l’artisanat",
+                  "text": "Ebben a magic-park-cotonou-life-v2-ben található nyüzsgő központban műhelyek és standok találhatók, ahol a helyi kézművesek hagyományos benini termékeket készítenek és árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        2.418958,
+                        6.359489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "Fondation Zinsou este un spațiu expozițional proeminent dedicat artei africane contemporane în magic-park-cotonou-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.420686,
+                        6.362555
+                  ]
+            },
+            {
+                  "name": "Hall des Arts, Loisirs et Sports",
+                  "text": "Acest centru de arte polivalent din magic-park-cotonou-life-v2 găzduiește diverse evenimente culturale, spectacole și activități sportive.",
+                  "category": "cultural",
+                  "coords": [
+                        2.420427,
+                        6.360412
+                  ]
+            },
+            {
+                  "name": "Centre de promotion de l’artisanat",
+                  "text": "Acest centru vibrant din magic-park-cotonou-life-v2 prezintă ateliere și tarabe unde meșteșugarii locali creează și vând bunuri tradiționale benineze.",
+                  "category": "landmark",
+                  "coords": [
+                        2.418958,
+                        6.359489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "The Fondation Zinsou is a prominent exhibition space dedicated to contemporary African art in magic-park-cotonou-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.420686,
+                        6.362555
+                  ]
+            },
+            {
+                  "name": "Hall des Arts, Loisirs et Sports",
+                  "text": "This multi-purpose arts centre in magic-park-cotonou-life-v2 hosts various cultural events, performances, and sports activities.",
+                  "category": "cultural",
+                  "coords": [
+                        2.420427,
+                        6.360412
+                  ]
+            },
+            {
+                  "name": "Centre de promotion de l’artisanat",
+                  "text": "This vibrant center in magic-park-cotonou-life-v2 features workshops and stalls where local artisans craft and sell traditional Beninese goods.",
+                  "category": "landmark",
+                  "coords": [
+                        2.418958,
+                        6.359489
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BJ-LI",
     coords: [2.42, 6.36],
@@ -867,7 +1965,52 @@ export const poiExtraBeninLifeV2: POI[] = [
     },
   },
   {
-    id: "abomey-calavi-botanical-garden-life-v2",
+    id: "abomey-calavi-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "GRATITUDE ARCONVILLE",
+                  "text": "Ein lokales Wahrzeichen und eine Attraktion im Gebiet Arconville in der Nähe von Abomey-Calavi.",
+                  "category": "landmark",
+                  "coords": [
+                        2.348254,
+                        6.475933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GRATITUDE ARCONVILLE",
+                  "text": "Helyi nevezetesség és látványosság az Abomey-Calavi melletti Arconville területén.",
+                  "category": "landmark",
+                  "coords": [
+                        2.348254,
+                        6.475933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GRATITUDE ARCONVILLE",
+                  "text": "Un punct de reper și o atracție locală situată în zona Arconville de lângă Abomey-Calavi.",
+                  "category": "landmark",
+                  "coords": [
+                        2.348254,
+                        6.475933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GRATITUDE ARCONVILLE",
+                  "text": "A local landmark and attraction located in the Arconville area near Abomey-Calavi.",
+                  "category": "landmark",
+                  "coords": [
+                        2.348254,
+                        6.475933
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BJ-AQ",
     coords: [2.35, 6.45],
@@ -915,7 +2058,124 @@ export const poiExtraBeninLifeV2: POI[] = [
     },
   },
   {
-    id: "tanguieta-baobab-forest-life-v2",
+    id: "tanguieta-baobab-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument",
+                  "text": "Dieses steinerne Denkmal steht inmitten der Affenbrotbaumwälder der Region Tanguiéta.",
+                  "category": "historical",
+                  "coords": [
+                        1.27524,
+                        10.614287
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Das Kriegerdenkmal in Tanguiéta ehrt die gefallenen Soldaten der umliegenden Region.",
+                  "category": "historical",
+                  "coords": [
+                        1.268706,
+                        10.633394
+                  ]
+            },
+            {
+                  "name": "MAT",
+                  "text": "Dieses lokale Monument MAT markiert einen historischen Orientierungspunkt in der Region Tanguiéta.",
+                  "category": "historical",
+                  "coords": [
+                        1.268689,
+                        10.636288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument",
+                  "text": "Ez a kőemlékmű Tanguiéta régió majomkenyérfa-erdeiben áll.",
+                  "category": "historical",
+                  "coords": [
+                        1.27524,
+                        10.614287
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "A tanguiétai háborús emlékmű a környező régió elesett katonái előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        1.268706,
+                        10.633394
+                  ]
+            },
+            {
+                  "name": "MAT",
+                  "text": "Ez a helyi MAT emlékmű egy történelmi tájékozódási pontot jelöl Tanguiéta régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        1.268689,
+                        10.636288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument",
+                  "text": "Acest monument de piatră se află în mijlocul pădurilor de baobab din regiunea Tanguiéta.",
+                  "category": "historical",
+                  "coords": [
+                        1.27524,
+                        10.614287
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Monumentul eroilor din Tanguiéta onorează soldații căzuți din regiunea înconjurătoare.",
+                  "category": "historical",
+                  "coords": [
+                        1.268706,
+                        10.633394
+                  ]
+            },
+            {
+                  "name": "MAT",
+                  "text": "Acest monument local MAT marchează un punct de reper istoric în regiunea Tanguiéta.",
+                  "category": "historical",
+                  "coords": [
+                        1.268689,
+                        10.636288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument",
+                  "text": "This stone monument stands amidst the baobab forests of the Tanguiéta region.",
+                  "category": "historical",
+                  "coords": [
+                        1.27524,
+                        10.614287
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "The war memorial in Tanguiéta honors the fallen soldiers of the surrounding region.",
+                  "category": "historical",
+                  "coords": [
+                        1.268706,
+                        10.633394
+                  ]
+            },
+            {
+                  "name": "MAT",
+                  "text": "This local MAT monument marks a historic landmark in the Tanguiéta region.",
+                  "category": "historical",
+                  "coords": [
+                        1.268689,
+                        10.636288
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BJ-AK",
     coords: [1.27, 10.62],

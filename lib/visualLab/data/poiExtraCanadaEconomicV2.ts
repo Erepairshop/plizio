@@ -8274,7 +8274,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving House",
-                  "text": "Irving House ist ein historisches Hausmuseum in Burnaby.",
+                  "text": "Das 1859 erbaute Irving House nahe der Ölraffinerie ist ein geschütztes Museum.",
                   "category": "museum",
                   "coords": [
                         -122.90627,
@@ -8582,7 +8582,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving House",
-                  "text": "Az Irving House egy történelmi házmúzeum Burnabyban.",
+                  "text": "Az 1859-ben épült Irving House az olajfinomító közelében műemlék múzeum.",
                   "category": "museum",
                   "coords": [
                         -122.90627,
@@ -8890,7 +8890,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving House",
-                  "text": "Irving House este un muzeu de casă istorică din Burnaby.",
+                  "text": "Irving House, construită în 1859 lângă rafinăria de petrol, este un muzeu monument istoric.",
                   "category": "museum",
                   "coords": [
                         -122.90627,
@@ -9198,7 +9198,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving House",
-                  "text": "Irving House is a historic house museum in Burnaby.",
+                  "text": "Built in 1859, this historic house museum near the Oil Refinery is a listed heritage site.",
                   "category": "museum",
                   "coords": [
                         -122.90627,
@@ -11532,7 +11532,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Gratiot Light",
-                  "text": "Fort Gratiot Light ist ein Leuchtturm in Sarnia; er ist der älteste Leuchtturm in Michigan.",
+                  "text": "Der 1829 erbaute Fort Gratiot Light in der petrochemischen Region ist ein denkmalgeschützter Leuchtturm.",
                   "category": "landmark",
                   "coords": [
                         -82.422431,
@@ -11867,7 +11867,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Gratiot Light",
-                  "text": "A Fort Gratiot Light egy világítótorony Sarniában; ez a legrégebbi világítótorony Michiganben.",
+                  "text": "Az 1829-ben épült Fort Gratiot Light a petrolkémiai területen műemlék világítótorony.",
                   "category": "landmark",
                   "coords": [
                         -82.422431,
@@ -12202,7 +12202,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Gratiot Light",
-                  "text": "Fort Gratiot Light este un far în Sarnia; este cel mai vechi far din Michigan.",
+                  "text": "Farul Fort Gratiot Light din zona petrochimică, construit în 1829, este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -82.422431,
@@ -12537,7 +12537,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Gratiot Light",
-                  "text": "Fort Gratiot Light is a lighthouse in Sarnia; it is the oldest lighthouse in Michigan.",
+                  "text": "This lighthouse, built in 1829, is a National Register-listed landmark in the Petrochemical area.",
                   "category": "landmark",
                   "coords": [
                         -82.422431,

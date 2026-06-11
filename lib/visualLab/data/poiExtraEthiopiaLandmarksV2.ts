@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraEthiopiaLandmarksV2: POI[] = [
   {
-    id: "addis-ababa-stadium-landmarks-v2",
+    id: "addis-ababa-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "አዲስ አበባ ስታዲዮም",
+                  "text": "Das als Denkmal gelistete Stadion ist ein historischer Ort für sportliche Großereignisse in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        38.756094,
+                        9.013682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "አዲስ አበባ ስታዲዮም",
+                  "text": "A műemlékként nyilvántartott stadion a város jelentős sporteseményeinek történelmi helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        38.756094,
+                        9.013682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "አዲስ አበባ ስታዲዮም",
+                  "text": "Stadionul, clasat ca monument, este un loc istoric pentru evenimentele sportive majore din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        38.756094,
+                        9.013682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "አዲስ አበባ ስታዲዮም",
+                  "text": "The monument-listed stadium is a historic venue for major sporting events in the city.",
+                  "category": "historical",
+                  "coords": [
+                        38.756094,
+                        9.013682
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.755, 9.012],
@@ -53,7 +98,628 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     
      image: "/poi-images/addis-ababa-stadium-landmarks-v2.webp"},
   {
-    id: "au-headquarters-landmarks-v2",
+    id: "au-headquarters-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aroga beret",
+                  "text": "Foda ist ein lokaler Anziehungspunkt in den Wohnstraßen nahe dem Hauptquartier der Afrikanischen Union.",
+                  "category": "landmark",
+                  "coords": [
+                        38.691123,
+                        8.979581
+                  ]
+            },
+            {
+                  "name": "ገረመው ቤት",
+                  "text": "Das Geremew Home ist ein lokaler Aussichtspunkt, der Blicke auf das Viertel rund um das Hauptquartier der Afrikanischen Union bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.694455,
+                        8.982457
+                  ]
+            },
+            {
+                  "name": "አትራክሽን area",
+                  "text": "Der አትራክሽን (Attraktions)-Bereich ist eine lokale Sehenswürdigkeit im Viertel der Afrikanischen Union.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689323,
+                        8.995392
+                  ]
+            },
+            {
+                  "name": "ፋምናስ ቤት",
+                  "text": "FamNas ist ein lokaler Aussichtspunkt mit Blick auf die städtischen Straßen in der Nähe des AU-Hauptquartiers.",
+                  "category": "natural",
+                  "coords": [
+                        38.682546,
+                        8.993905
+                  ]
+            },
+            {
+                  "name": "ቤት",
+                  "text": "Das Abebech Home ist ein Aussichtspunkt in einem Wohngebiet unweit des Hauptquartiers der Afrikanischen Union.",
+                  "category": "natural",
+                  "coords": [
+                        38.694988,
+                        8.976429
+                  ]
+            },
+            {
+                  "name": "Taxi station to menharya",
+                  "text": "Diese Taxistation nach Menharya ist ein belebter lokaler Verkehrsknotenpunkt in der Nähe des AU-Hauptquartiers.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706061,
+                        8.976006
+                  ]
+            },
+            {
+                  "name": "Sal Art Gallery",
+                  "text": "Die Sal Art Gallery ist ein Ausstellungsraum für lokale Kunst im Bezirk des Hauptquartiers der Afrikanischen Union.",
+                  "category": "museum",
+                  "coords": [
+                        38.739879,
+                        8.998551
+                  ]
+            },
+            {
+                  "name": "Hamza home",
+                  "text": "Das Hamza Home ist ein lokaler Anziehungspunkt und Wohnsitz nahe dem AU-Hauptquartier.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738569,
+                        9.003398
+                  ]
+            },
+            {
+                  "name": "KOICA",
+                  "text": "Das Büro von KOICA Ethiopia ist der Stützpunkt der südkoreanischen Entwicklungsagentur und ein lokales Wahrzeichen nahe der AU.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738776,
+                        8.993888
+                  ]
+            },
+            {
+                  "name": "je kobil mewchia",
+                  "text": "Je kobil mewchia ist ein Straßenaussichtspunkt im Viertel des AU-Hauptquartiers.",
+                  "category": "natural",
+                  "coords": [
+                        38.744272,
+                        8.978005
+                  ]
+            },
+            {
+                  "name": "መካኒሳ ኣቦ",
+                  "text": "Mekanisa Abo ist eine lokale Attraktion im Mekanisa-Viertel in der Nähe des Geländes der Afrikanischen Union.",
+                  "category": "landmark",
+                  "coords": [
+                        38.734215,
+                        8.982729
+                  ]
+            },
+            {
+                  "name": "Zoma Museum",
+                  "text": "Das Zoma Museum ist ein umweltbewusstes Kunstmuseum mit traditioneller, vernakulärer Architektur und kunstvoll geformten Lehmmauern.",
+                  "category": "museum",
+                  "coords": [
+                        38.731002,
+                        8.97901
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "Keyo ist eine kleine lokale Sehenswürdigkeit im Bezirk der Afrikanischen Union.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721272,
+                        8.984134
+                  ]
+            },
+            {
+                  "name": "የሰአዳ ግኝት",
+                  "text": "Seada's Discovery ist ein lokaler Ausflugs- und Entdeckungsort unweit des AU-Hauptquartiers.",
+                  "category": "landmark",
+                  "coords": [
+                        38.712864,
+                        8.989521
+                  ]
+            },
+            {
+                  "name": "አየር ጤና ድልድይ",
+                  "text": "Die Ayer Tena-Brücke (አየር ጤና ድልድይ) bietet einen Aussichtspunkt über das Verkehrsnetz nahe dem AU-Hauptquartier.",
+                  "category": "natural",
+                  "coords": [
+                        38.711848,
+                        8.997479
+                  ]
+            },
+            {
+                  "name": "Abrish",
+                  "text": "Abrish ist eine kleine Nachbarschaftsattraktion im Gebiet des AU-Hauptquartiers.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719061,
+                        8.996952
+                  ]
+            },
+            {
+                  "name": "አዲስ አበባ ጎልፍ ክለብ",
+                  "text": "Der Addis Ababa Golf Club ist ein grüner städtischer Platz mit landschaftlich reizvollen Fairways und Aussichtspunkten im Viertel der Afrikanischen Union.",
+                  "category": "natural",
+                  "coords": [
+                        38.721825,
+                        9.003863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aroga beret",
+                  "text": "A Foda egy helyi látványosság az Afrikai Unió központja melletti lakóutcákban.",
+                  "category": "landmark",
+                  "coords": [
+                        38.691123,
+                        8.979581
+                  ]
+            },
+            {
+                  "name": "ገረመው ቤት",
+                  "text": "A Geremew Home egy helyi kilátó, amely az Afrikai Unió központja körüli negyedre néz.",
+                  "category": "natural",
+                  "coords": [
+                        38.694455,
+                        8.982457
+                  ]
+            },
+            {
+                  "name": "አትራክሽን area",
+                  "text": "Az አትራክሽን (Látványosság) terület egy helyi nevezetesség az Afrikai Unió negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689323,
+                        8.995392
+                  ]
+            },
+            {
+                  "name": "ፋምናስ ቤት",
+                  "text": "A FamNas egy helyi kilátópont, amely az AU központjának közelében lévő városi utcákra néz.",
+                  "category": "natural",
+                  "coords": [
+                        38.682546,
+                        8.993905
+                  ]
+            },
+            {
+                  "name": "ቤት",
+                  "text": "Az Abebech Home egy lakóövezeti kilátó az Afrikai Unió központja közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.694988,
+                        8.976429
+                  ]
+            },
+            {
+                  "name": "Taxi station to menharya",
+                  "text": "Ez a Menharya felé tartó taxiállomás egy forgalmas helyi közlekedési csomópont az AU központjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706061,
+                        8.976006
+                  ]
+            },
+            {
+                  "name": "Sal Art Gallery",
+                  "text": "A Sal Art Gallery egy helyi művészeti kiállítótér az Afrikai Unió központjának kerületében.",
+                  "category": "museum",
+                  "coords": [
+                        38.739879,
+                        8.998551
+                  ]
+            },
+            {
+                  "name": "Hamza home",
+                  "text": "A Hamza Home egy helyi látványosság és lakóhely az AU központja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738569,
+                        9.003398
+                  ]
+            },
+            {
+                  "name": "KOICA",
+                  "text": "A KOICA Ethiopia irodája a dél-koreai fejlesztési ügynökség bázisa és egy helyi tájékozódási pont az AU közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738776,
+                        8.993888
+                  ]
+            },
+            {
+                  "name": "je kobil mewchia",
+                  "text": "A je kobil mewchia egy utcai kilátópont az AU központjának negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        38.744272,
+                        8.978005
+                  ]
+            },
+            {
+                  "name": "መካኒሳ ኣቦ",
+                  "text": "A Mekanisa Abo egy helyi látványosság a Mekanisa negyedben, az Afrikai Unió területének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.734215,
+                        8.982729
+                  ]
+            },
+            {
+                  "name": "Zoma Museum",
+                  "text": "A Zoma Múzeum egy környezettudatos művészeti múzeum, amely hagyományos népi építészetet és faragott sárfalakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        38.731002,
+                        8.97901
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "A Keyo egy kis helyi látványosság az Afrikai Unió negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721272,
+                        8.984134
+                  ]
+            },
+            {
+                  "name": "የሰአዳ ግኝት",
+                  "text": "A Seada's Discovery egy helyi kiránduló- és felfedezőhely az AU központja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.712864,
+                        8.989521
+                  ]
+            },
+            {
+                  "name": "አየር ጤና ድልድይ",
+                  "text": "Az Ayer Tena híd (አየር ጤና ድልድይ) kilátópontként szolgál a közlekedési hálózat felett az AU központjának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.711848,
+                        8.997479
+                  ]
+            },
+            {
+                  "name": "Abrish",
+                  "text": "Az Abrish egy kis szomszédsági látványosság az AU központjának területén.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719061,
+                        8.996952
+                  ]
+            },
+            {
+                  "name": "አዲስ አበባ ጎልፍ ክለብ",
+                  "text": "Az Addisz-Abeba Golf Klub egy zöld városi pálya, amely parkosított pályaszakaszokat és kilátópontokat kínál az Afrikai Unió negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        38.721825,
+                        9.003863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aroga beret",
+                  "text": "Foda este un punct de atracție local pe străzile rezidențiale din apropierea sediului Uniunii Africane.",
+                  "category": "landmark",
+                  "coords": [
+                        38.691123,
+                        8.979581
+                  ]
+            },
+            {
+                  "name": "ገረመው ቤት",
+                  "text": "Geremew Home este un punct de belvedere local care oferă priveliști asupra cartierului din jurul sediului Uniunii Africane.",
+                  "category": "natural",
+                  "coords": [
+                        38.694455,
+                        8.982457
+                  ]
+            },
+            {
+                  "name": "አትራክሽን area",
+                  "text": "Zona አትራክሽን (Atracție) este un punct de reper local în cartierul Uniunii Africane.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689323,
+                        8.995392
+                  ]
+            },
+            {
+                  "name": "ፋምናስ ቤት",
+                  "text": "FamNas este un punct de belvedere local orientat spre străzile urbane de lângă sediul UA.",
+                  "category": "natural",
+                  "coords": [
+                        38.682546,
+                        8.993905
+                  ]
+            },
+            {
+                  "name": "ቤት",
+                  "text": "Abebech Home este un punct de belvedere situat într-o zonă rezidențială din apropierea sediului Uniunii Africane.",
+                  "category": "natural",
+                  "coords": [
+                        38.694988,
+                        8.976429
+                  ]
+            },
+            {
+                  "name": "Taxi station to menharya",
+                  "text": "Această stație de taxi spre Menharya este un nod de transport local aglomerat lângă sediul UA.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706061,
+                        8.976006
+                  ]
+            },
+            {
+                  "name": "Sal Art Gallery",
+                  "text": "Galeria de Artă Sal este un spațiu expozițional pentru arta locală în districtul sediului Uniunii Africane.",
+                  "category": "museum",
+                  "coords": [
+                        38.739879,
+                        8.998551
+                  ]
+            },
+            {
+                  "name": "Hamza home",
+                  "text": "Hamza Home este o atracție locală și un punct rezidențial în apropierea sediului UA.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738569,
+                        9.003398
+                  ]
+            },
+            {
+                  "name": "KOICA",
+                  "text": "Biroul KOICA Etiopia este baza agenției sud-coreene de dezvoltare și un reper local în apropierea UA.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738776,
+                        8.993888
+                  ]
+            },
+            {
+                  "name": "je kobil mewchia",
+                  "text": "Je kobil mewchia este un punct de belvedere stradal în cartierul sediului UA.",
+                  "category": "natural",
+                  "coords": [
+                        38.744272,
+                        8.978005
+                  ]
+            },
+            {
+                  "name": "መካኒሳ ኣቦ",
+                  "text": "Mekanisa Abo este o atracție locală în cartierul Mekanisa, în apropierea complexului Uniunii Africane.",
+                  "category": "landmark",
+                  "coords": [
+                        38.734215,
+                        8.982729
+                  ]
+            },
+            {
+                  "name": "Zoma Museum",
+                  "text": "Muzeul Zoma este un muzeu de artă eco-sensibil, care prezintă o arhitectură vernaculară tradițională și ziduri sculptate din noroi.",
+                  "category": "museum",
+                  "coords": [
+                        38.731002,
+                        8.97901
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "Keyo este un mic punct de atracție local în districtul Uniunii Africane.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721272,
+                        8.984134
+                  ]
+            },
+            {
+                  "name": "የሰአዳ ግኝት",
+                  "text": "Seada's Discovery este un loc local de atracție și explorare nu departe de sediul UA.",
+                  "category": "landmark",
+                  "coords": [
+                        38.712864,
+                        8.989521
+                  ]
+            },
+            {
+                  "name": "አየር ጤና ድልድይ",
+                  "text": "Podul Ayer Tena (አየር ጤና ድልድይ) oferă un punct de belvedere asupra rețelei de trafic de lângă sediul UA.",
+                  "category": "natural",
+                  "coords": [
+                        38.711848,
+                        8.997479
+                  ]
+            },
+            {
+                  "name": "Abrish",
+                  "text": "Abrish este o mică atracție de cartier în zona sediului UA.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719061,
+                        8.996952
+                  ]
+            },
+            {
+                  "name": "አዲስ አበባ ጎልፍ ክለብ",
+                  "text": "Clubul de Golf Addis Abeba este un teren urban verde care oferă zone de fairway amenajate și puncte de belvedere în cartierul Uniunii Africane.",
+                  "category": "natural",
+                  "coords": [
+                        38.721825,
+                        9.003863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foda",
+                  "text": "Foda is a local attraction point in the residential streets near the African Union headquarters.",
+                  "category": "landmark",
+                  "coords": [
+                        38.691123,
+                        8.979581
+                  ]
+            },
+            {
+                  "name": "Geremew Home",
+                  "text": "Geremew Home is a local viewpoint offering sights over the neighborhood surrounding the African Union headquarters.",
+                  "category": "natural",
+                  "coords": [
+                        38.694455,
+                        8.982457
+                  ]
+            },
+            {
+                  "name": "አትራክሽን area",
+                  "text": "The አትራክሽን (Attraction) area is a local landmark spot in the African Union district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689323,
+                        8.995392
+                  ]
+            },
+            {
+                  "name": "FamNas",
+                  "text": "FamNas is a local viewpoint overlooking the urban streets near the AU headquarters.",
+                  "category": "natural",
+                  "coords": [
+                        38.682546,
+                        8.993905
+                  ]
+            },
+            {
+                  "name": "Abebech Home",
+                  "text": "Abebech Home is a residential-area viewpoint situated not far from the African Union headquarters.",
+                  "category": "natural",
+                  "coords": [
+                        38.694988,
+                        8.976429
+                  ]
+            },
+            {
+                  "name": "Taxi station to menharya",
+                  "text": "This taxi station to menharya is a busy local transport hub serving the area near the AU headquarters.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706061,
+                        8.976006
+                  ]
+            },
+            {
+                  "name": "Sal Art Gallery",
+                  "text": "Sal Art Gallery is a local art exhibition space in the African Union headquarters district.",
+                  "category": "museum",
+                  "coords": [
+                        38.739879,
+                        8.998551
+                  ]
+            },
+            {
+                  "name": "Hamza home",
+                  "text": "Hamza home is a local attraction and residential landmark near the AU headquarters.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738569,
+                        9.003398
+                  ]
+            },
+            {
+                  "name": "KOICA Ethiopia",
+                  "text": "The KOICA Ethiopia office is the South Korean development agency's base and a local landmark near the AU.",
+                  "category": "landmark",
+                  "coords": [
+                        38.738776,
+                        8.993888
+                  ]
+            },
+            {
+                  "name": "je kobil mewchia",
+                  "text": "Je kobil mewchia is a street-level viewpoint in the AU headquarters neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        38.744272,
+                        8.978005
+                  ]
+            },
+            {
+                  "name": "Mekanisa Abo",
+                  "text": "Mekanisa Abo is a local attraction in the Mekanisa neighborhood near the African Union compound.",
+                  "category": "landmark",
+                  "coords": [
+                        38.734215,
+                        8.982729
+                  ]
+            },
+            {
+                  "name": "Zoma Museum",
+                  "text": "The Zoma Museum is an eco-sensitive art museum featuring traditional vernacular architecture and sculpted mud walls.",
+                  "category": "museum",
+                  "coords": [
+                        38.731002,
+                        8.97901
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "Keyo is a small local attraction spot in the African Union district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721272,
+                        8.984134
+                  ]
+            },
+            {
+                  "name": "Seada's Discovery",
+                  "text": "Seada's Discovery is a local attraction and exploration spot not far from the AU headquarters.",
+                  "category": "landmark",
+                  "coords": [
+                        38.712864,
+                        8.989521
+                  ]
+            },
+            {
+                  "name": "አየር ጤና ድልድይ",
+                  "text": "The Ayer Tena bridge (አየር ጤና ድልድይ) provides a viewpoint over the transit network near the AU headquarters.",
+                  "category": "natural",
+                  "coords": [
+                        38.711848,
+                        8.997479
+                  ]
+            },
+            {
+                  "name": "Abrish",
+                  "text": "Abrish is a small neighborhood attraction in the AU headquarters area.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719061,
+                        8.996952
+                  ]
+            },
+            {
+                  "name": "Addis Ababa Golf Club",
+                  "text": "The Addis Ababa Golf Club is a green urban course offering landscaped fairways and viewpoints in the African Union district.",
+                  "category": "natural",
+                  "coords": [
+                        38.721825,
+                        9.003863
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.745, 8.995],
@@ -151,7 +817,52 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un monument remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/cbe-headquarters-landmarks-v2.webp"},
   {
-    id: "meyazia-27-monument-landmarks-v2",
+    id: "meyazia-27-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victory Monument",
+                  "text": "Der spitze Obelisk am Meyazia-27-Platz gedenkt der Befreiung Äthiopiens von der italienischen Herrschaft.",
+                  "category": "historical",
+                  "coords": [
+                        38.763377,
+                        9.032899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victory Monument",
+                  "text": "A Meyazia 27 téren álló hegyes obeliszk Etiópia olasz uralom alóli felszabadulásának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        38.763377,
+                        9.032899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victory Monument",
+                  "text": "Obeliscul ascuțit din Piața Meyazia 27 comemorează eliberarea Etiopiei de sub dominația italiană.",
+                  "category": "historical",
+                  "coords": [
+                        38.763377,
+                        9.032899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victory Monument",
+                  "text": "The pointed obelisk at Meyazia 27 Square commemorates the liberation of Ethiopia from Italian rule.",
+                  "category": "historical",
+                  "coords": [
+                        38.763377,
+                        9.032899
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.761, 9.034],
@@ -199,7 +910,124 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un monument remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/meyazia-27-monument-landmarks-v2.webp"},
   {
-    id: "tiglachin-monument-landmarks-v2",
+    id: "tiglachin-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Post Museum",
+                  "text": "Die Ausstellungen dokumentieren die Geschichte der äthiopischen Post und zeigen historische Briefmarken.",
+                  "category": "museum",
+                  "coords": [
+                        38.752667,
+                        9.019899
+                  ]
+            },
+            {
+                  "name": "Art Exhibition",
+                  "text": "Eine lokale Galerie, die sich auf die Förderung zeitgenössischer Kunstwerke spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        38.757553,
+                        9.020164
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "Der große Theatersaal mit seiner steinernen Fassade ist ein Zentrum für äthiopische Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        38.752179,
+                        9.016056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Post Museum",
+                  "text": "A kiállítások az etióp posta történetét dokumentálják, és történelmi bélyegeket mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        38.752667,
+                        9.019899
+                  ]
+            },
+            {
+                  "name": "Art Exhibition",
+                  "text": "Helyi galéria, amely a kortárs művészeti alkotások népszerűsítésére szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        38.757553,
+                        9.020164
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "A kőhomlokzatú nagy színházterem az etióp színművészet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        38.752179,
+                        9.016056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Post Museum",
+                  "text": "Expozițiile documentează istoria poștei etiopiene și prezintă timbre istorice.",
+                  "category": "museum",
+                  "coords": [
+                        38.752667,
+                        9.019899
+                  ]
+            },
+            {
+                  "name": "Art Exhibition",
+                  "text": "O galerie locală specializată în promovarea operelor de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        38.757553,
+                        9.020164
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "Sala mare de teatru cu fațada sa din piatră este un centru pentru artele scenice etiopiene.",
+                  "category": "cultural",
+                  "coords": [
+                        38.752179,
+                        9.016056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Post Museum",
+                  "text": "The exhibitions document the history of the Ethiopian postal service and feature historical stamps.",
+                  "category": "museum",
+                  "coords": [
+                        38.752667,
+                        9.019899
+                  ]
+            },
+            {
+                  "name": "Art Exhibition",
+                  "text": "A local gallery specializing in the promotion of contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        38.757553,
+                        9.020164
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "The large theatre hall with its stone facade is a center for Ethiopian performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        38.752179,
+                        9.016056
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.751, 9.018],
@@ -247,7 +1075,520 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un monument remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/tiglachin-monument-landmarks-v2.webp"},
   {
-    id: "yekatit-12-monument-landmarks-v2",
+    id: "yekatit-12-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hyena View (morning)",
+                  "text": "Ein Aussichtspunkt, der dafür bekannt ist, dass man hier in den frühen Morgenstunden wilde Hyänen bei der Nahrungssuche beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        38.806542,
+                        9.112429
+                  ]
+            },
+            {
+                  "name": "Under cliffs",
+                  "text": "Ein dramatischer Aussichtspunkt direkt unterhalb steiler, felsiger Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        38.778446,
+                        9.115155
+                  ]
+            },
+            {
+                  "name": "Menelik II Palace",
+                  "text": "Eine historische kaiserliche Anlage, die heute als Museum dient und die königliche Geschichte Äthiopiens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        38.764444,
+                        9.089194
+                  ]
+            },
+            {
+                  "name": "scenic meadow",
+                  "text": "Eine üppige, offene Rasenfläche, die einen friedlichen Ort für Panoramablicke auf Stadt und Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.760334,
+                        9.113181
+                  ]
+            },
+            {
+                  "name": "Scenic View",
+                  "text": "Ein erhöhter Aussichtspunkt, der weite, freie Ausblicke auf die ausgedehnte Stadtlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.757762,
+                        9.112367
+                  ]
+            },
+            {
+                  "name": "Mire man",
+                  "text": "Ein erhöhter städtischer Aussichtspunkt mit Blick auf die belebten Straßen und Viertel unten.",
+                  "category": "natural",
+                  "coords": [
+                        38.756248,
+                        9.059879
+                  ]
+            },
+            {
+                  "name": "19 ቀበሌ ድልድይ",
+                  "text": "Eine lokale Brückenstruktur, die als Beobachtungspunkt im lebendigen 19 Kebele-Viertel fungiert.",
+                  "category": "natural",
+                  "coords": [
+                        38.757232,
+                        9.060375
+                  ]
+            },
+            {
+                  "name": "Kuskuam Taitu Bitul School",
+                  "text": "Ein historisches Bildungsgelände, das malerische Ausblicke auf die umliegende Gemeinde Kuskuam bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.756949,
+                        9.078187
+                  ]
+            },
+            {
+                  "name": "Madre Teresa",
+                  "text": "Eine lokale Einrichtung und Sehenswürdigkeit, die historisch den wohltätigen Missionen von Mutter Teresa gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764311,
+                        9.042156
+                  ]
+            },
+            {
+                  "name": "የካቲት 12 መታሰቢያ ሐውልት",
+                  "text": "Ein hoch aufragender Obelisk in Addis Abeba zum Gedenken an die Opfer des Massakers von 1937 während der italienischen Besatzung.",
+                  "category": "historical",
+                  "coords": [
+                        38.761224,
+                        9.043849
+                  ]
+            },
+            {
+                  "name": "Beka ranch",
+                  "text": "Eine rustikale lokale Ranch, die Besuchern in der Nähe des Stadtzentrums ein Stück traditionelles landwirtschaftliches Leben bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784103,
+                        9.076269
+                  ]
+            },
+            {
+                  "name": "Lion",
+                  "text": "Eine markante lokale Attraktion, die sich durch ihr auffälliges Denkmal oder Gehege auszeichnet, das Löwen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762026,
+                        9.042895
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut",
+                  "text": "Ein lebendiges Kulturzentrum, das die deutsche Sprache und den internationalen Kunstaustausch in der Hauptstadt fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        38.76447,
+                        9.048828
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Dieses Museum im ehemaligen Palast von Kaiser Haile Selassie zeigt die große kulturelle Vielfalt und das Erbe Äthiopiens.",
+                  "category": "museum",
+                  "coords": [
+                        38.757687,
+                        9.046719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hyena View (morning)",
+                  "text": "Megfigyelőhely, amely arról ismert, hogy a kora reggeli órákban táplálékot kereső vadhiénákat lehet itt megfigyelni.",
+                  "category": "natural",
+                  "coords": [
+                        38.806542,
+                        9.112429
+                  ]
+            },
+            {
+                  "name": "Under cliffs",
+                  "text": "Drámai megfigyelőhely, amely közvetlenül a meredek, sziklás sziklafalak alatt helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        38.778446,
+                        9.115155
+                  ]
+            },
+            {
+                  "name": "Menelik II Palace",
+                  "text": "Történelmi császári épületegyüttes, amely ma múzeumként működik, és Etiópia királyi történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        38.764444,
+                        9.089194
+                  ]
+            },
+            {
+                  "name": "scenic meadow",
+                  "text": "Buja, nyílt füves terület, amely békés helyet kínál a városra és a természetre nyíló panorámás kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        38.760334,
+                        9.113181
+                  ]
+            },
+            {
+                  "name": "Scenic View",
+                  "text": "Magaslati kilátópont, amely széles, zavartalan kilátást nyújt a kiterjedt városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        38.757762,
+                        9.112367
+                  ]
+            },
+            {
+                  "name": "Mire man",
+                  "text": "Magaslati városi kilátópont, ahonnan kilátás nyílik az alatta elterülő forgalmas utcákra és városrészekre.",
+                  "category": "natural",
+                  "coords": [
+                        38.756248,
+                        9.059879
+                  ]
+            },
+            {
+                  "name": "19 ቀበሌ ድልድይ",
+                  "text": "Helyi hídszerkezet, amely megfigyelőpontként működik az élénk 19 Kebele negyedben.",
+                  "category": "natural",
+                  "coords": [
+                        38.757232,
+                        9.060375
+                  ]
+            },
+            {
+                  "name": "Kuskuam Taitu Bitul School",
+                  "text": "Történelmi oktatási kampusz területe, amely festői kilátást nyújt a környező Kuskuam közösségre.",
+                  "category": "natural",
+                  "coords": [
+                        38.756949,
+                        9.078187
+                  ]
+            },
+            {
+                  "name": "Madre Teresa",
+                  "text": "Helyi intézmény és érdekesség, amelyet történelmileg Teréz anya jótékonysági misszióinak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764311,
+                        9.042156
+                  ]
+            },
+            {
+                  "name": "የካቲት 12 መታሰቢያ ሐውልት",
+                  "text": "Tornyosuló obeliszk Addisz-Abebában, amely az olasz megszállás alatt elkövetett 1937-es mészárlás áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        38.761224,
+                        9.043849
+                  ]
+            },
+            {
+                  "name": "Beka ranch",
+                  "text": "Rusztikus helyi farm, amely a városközpont közelében nyújt ízelítőt a hagyományos mezőgazdasági életből.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784103,
+                        9.076269
+                  ]
+            },
+            {
+                  "name": "Lion",
+                  "text": "Különleges helyi látványosság, amelyet egy feltűnő, oroszlánoknak szentelt emlékmű vagy elkerített terület jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762026,
+                        9.042895
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut",
+                  "text": "Nyüzsgő kulturális központ a fővárosban, amely a német nyelvet és a nemzetközi művészeti cserét népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        38.76447,
+                        9.048828
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "A Haile Selassie császár egykori palotájában helyet kapó múzeum Etiópia hatalmas kulturális sokszínűségét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        38.757687,
+                        9.046719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hyena View (morning)",
+                  "text": "Un punct de observație renumit pentru observarea hienelor sălbatice care caută hrană în primele ore ale dimineții.",
+                  "category": "natural",
+                  "coords": [
+                        38.806542,
+                        9.112429
+                  ]
+            },
+            {
+                  "name": "Under cliffs",
+                  "text": "Un punct de observație dramatic situat direct sub fețele abrupte și stâncoase ale stâncilor.",
+                  "category": "natural",
+                  "coords": [
+                        38.778446,
+                        9.115155
+                  ]
+            },
+            {
+                  "name": "Menelik II Palace",
+                  "text": "Un complex imperial istoric care funcționează acum ca muzeu ce detaliază istoria regală a Etiopiei.",
+                  "category": "museum",
+                  "coords": [
+                        38.764444,
+                        9.089194
+                  ]
+            },
+            {
+                  "name": "scenic meadow",
+                  "text": "O zonă cu iarbă deschisă și luxuriantă, oferind un loc liniștit pentru vederi panoramice ale orașului și naturii.",
+                  "category": "natural",
+                  "coords": [
+                        38.760334,
+                        9.113181
+                  ]
+            },
+            {
+                  "name": "Scenic View",
+                  "text": "Un punct de observație la înălțime care oferă priveliști largi și neobstrucționate asupra vastului peisaj urban.",
+                  "category": "natural",
+                  "coords": [
+                        38.757762,
+                        9.112367
+                  ]
+            },
+            {
+                  "name": "Mire man",
+                  "text": "Un punct de observație urban la înălțime, cu vedere spre străzile și cartierele aglomerate de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        38.756248,
+                        9.059879
+                  ]
+            },
+            {
+                  "name": "19 ቀበሌ ድልድይ",
+                  "text": "O structură locală de pod care funcționează ca punct de observație în vibrantul cartier 19 Kebele.",
+                  "category": "natural",
+                  "coords": [
+                        38.757232,
+                        9.060375
+                  ]
+            },
+            {
+                  "name": "Kuskuam Taitu Bitul School",
+                  "text": "O zonă de campus educațional istoric care oferă vederi pitorești asupra comunității Kuskuam din jur.",
+                  "category": "natural",
+                  "coords": [
+                        38.756949,
+                        9.078187
+                  ]
+            },
+            {
+                  "name": "Madre Teresa",
+                  "text": "O instituție locală și un punct de atracție dedicat istoric misiunilor caritabile ale Maicii Tereza.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764311,
+                        9.042156
+                  ]
+            },
+            {
+                  "name": "የካቲት 12 መታሰቢያ ሐውልት",
+                  "text": "Un obelisc falnic în Addis Abeba care comemorează victimele masacrului din 1937 din timpul ocupației italiene.",
+                  "category": "historical",
+                  "coords": [
+                        38.761224,
+                        9.043849
+                  ]
+            },
+            {
+                  "name": "Beka ranch",
+                  "text": "O fermă locală rustică ce oferă vizitatorilor o fărâmă din viața agricolă tradițională în apropierea centrului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784103,
+                        9.076269
+                  ]
+            },
+            {
+                  "name": "Lion",
+                  "text": "O atracție locală distinctă caracterizată de monumentul sau incinta sa impresionantă dedicată leilor.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762026,
+                        9.042895
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut",
+                  "text": "Un centru cultural vibrant care promovează limba germană și schimbul internațional de artă în capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        38.76447,
+                        9.048828
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Găzduit în fostul palat al Împăratului Haile Selassie, acest muzeu prezintă vasta diversitate culturală și patrimoniul Etiopiei.",
+                  "category": "museum",
+                  "coords": [
+                        38.757687,
+                        9.046719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hyena View (morning)",
+                  "text": "An observation point well-known for spotting wild hyenas scavenging during the early morning hours.",
+                  "category": "natural",
+                  "coords": [
+                        38.806542,
+                        9.112429
+                  ]
+            },
+            {
+                  "name": "Under cliffs",
+                  "text": "A dramatic observation spot situated directly beneath steep, rocky cliff faces.",
+                  "category": "natural",
+                  "coords": [
+                        38.778446,
+                        9.115155
+                  ]
+            },
+            {
+                  "name": "Menelik II Palace",
+                  "text": "A historic imperial compound that now functions as a museum detailing Ethiopia's royal history.",
+                  "category": "museum",
+                  "coords": [
+                        38.764444,
+                        9.089194
+                  ]
+            },
+            {
+                  "name": "scenic meadow",
+                  "text": "A lush, open grassy area providing a peaceful spot for panoramic city and nature views.",
+                  "category": "natural",
+                  "coords": [
+                        38.760334,
+                        9.113181
+                  ]
+            },
+            {
+                  "name": "Scenic View",
+                  "text": "An elevated vantage point providing sweeping, unobstructed vistas over the sprawling urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        38.757762,
+                        9.112367
+                  ]
+            },
+            {
+                  "name": "Mire man",
+                  "text": "An elevated urban lookout point overlooking the busy streets and neighborhoods below.",
+                  "category": "natural",
+                  "coords": [
+                        38.756248,
+                        9.059879
+                  ]
+            },
+            {
+                  "name": "19 kebele dildiy",
+                  "text": "A local bridge structure functioning as an observation spot in the vibrant 19 Kebele neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        38.757232,
+                        9.060375
+                  ]
+            },
+            {
+                  "name": "Kuskuam Taitu Bitul School",
+                  "text": "A historic educational campus area providing scenic views over the surrounding Kuskuam community.",
+                  "category": "natural",
+                  "coords": [
+                        38.756949,
+                        9.078187
+                  ]
+            },
+            {
+                  "name": "Madre Teresa",
+                  "text": "A local institution and point of interest historically dedicated to Mother Teresa's charitable missions.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764311,
+                        9.042156
+                  ]
+            },
+            {
+                  "name": "Yekatit 12 monument",
+                  "text": "A towering obelisk in Addis Ababa commemorating the victims of the 1937 massacre during the Italian occupation.",
+                  "category": "historical",
+                  "coords": [
+                        38.761224,
+                        9.043849
+                  ]
+            },
+            {
+                  "name": "Beka ranch",
+                  "text": "A rustic local ranch offering visitors a slice of traditional agricultural life near the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784103,
+                        9.076269
+                  ]
+            },
+            {
+                  "name": "Lion",
+                  "text": "A distinct local attraction characterized by its striking monument or enclosure dedicated to lions.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762026,
+                        9.042895
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut",
+                  "text": "A vibrant cultural center promoting the German language and international arts exchange in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        38.76447,
+                        9.048828
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Set within Emperor Haile Selassie's former palace, this museum showcases Ethiopia's vast cultural diversity and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        38.757687,
+                        9.046719
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.761, 9.043],
@@ -295,7 +1636,52 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un monument remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/yekatit-12-monument-landmarks-v2.webp"},
   {
-    id: "menelik-ii-monument-landmarks-v2",
+    id: "menelik-ii-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tewodros Square ቴዎድሮስ አደባባይ",
+                  "text": "Auf dem Platz steht ein Kanonendenkmal, das an Kaiser Tewodros II. erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        38.75162,
+                        9.027057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tewodros Square ቴዎድሮስ አደባባይ",
+                  "text": "A téren egy ágyúemlékmű áll, amely II. Teodorosz császárnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        38.75162,
+                        9.027057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tewodros Square ቴዎድሮስ አደባባይ",
+                  "text": "În piață se află un monument cu tun care îl comemorează pe împăratul Tewodros al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        38.75162,
+                        9.027057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tewodros Square | ቴዎድሮስ አደባባይ",
+                  "text": "The square features a cannon monument commemorating Emperor Tewodros II.",
+                  "category": "historical",
+                  "coords": [
+                        38.75162,
+                        9.027057
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.752, 9.03],
@@ -343,7 +1729,88 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un site remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/menelik-ii-monument-landmarks-v2.webp"},
   {
-    id: "abune-petros-monument-landmarks-v2",
+    id: "abune-petros-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fekat circus artists association",
+                  "text": "Der Veranstaltungsort widmet sich Zirkuskünsten und bietet lokalen Künstlern eine Trainingsstätte.",
+                  "category": "cultural",
+                  "coords": [
+                        38.749416,
+                        9.029093
+                  ]
+            },
+            {
+                  "name": "Alliance Ethio Frances አሊያንስ ኢትዮ ፍራንሴስ የባሕል ማዕከል",
+                  "text": "Das franko-äthiopische Kunstzentrum organisiert regelmäßig kulturelle Ausstellungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        38.744569,
+                        9.032135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fekat circus artists association",
+                  "text": "A helyszín a cirkuszművészetnek szenteli magát, és gyakorlóhelyet biztosít a helyi művészek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        38.749416,
+                        9.029093
+                  ]
+            },
+            {
+                  "name": "Alliance Ethio Frances አሊያንስ ኢትዮ ፍራንሴስ የባሕል ማዕከል",
+                  "text": "A francia-etióp művészeti központ rendszeresen szervez kulturális kiállításokat és előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        38.744569,
+                        9.032135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fekat circus artists association",
+                  "text": "Locația este dedicată artelor circului și oferă un spațiu de antrenament pentru artiștii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        38.749416,
+                        9.029093
+                  ]
+            },
+            {
+                  "name": "Alliance Ethio Frances አሊያንስ ኢትዮ ፍራንሴስ የባሕል ማዕከል",
+                  "text": "Centrul de artă franco-etiopian organizează cu regularitate expoziții culturale și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        38.744569,
+                        9.032135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fekat circus artists association",
+                  "text": "The venue is dedicated to circus arts and provides a training space for local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        38.749416,
+                        9.029093
+                  ]
+            },
+            {
+                  "name": "Alliance Ethio Frances አሊያንስ ኢትዮ ፍራንሴስ የባሕል ማዕከል",
+                  "text": "The Franco-Ethiopian arts center regularly organizes cultural exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        38.744569,
+                        9.032135
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.748, 9.03],
@@ -391,7 +1858,232 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un monument remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/abune-petros-monument-landmarks-v2.webp"},
   {
-    id: "grand-anwar-mosque-landmarks-v2",
+    id: "grand-anwar-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ቤቴል አደባባይ",
+                  "text": "Ein lebhafter Kreisverkehr-Aussichtspunkt, der einen hervorragenden Aussichtspunkt bietet, um den Puls der umliegenden Stadt zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        38.694119,
+                        9.003725
+                  ]
+            },
+            {
+                  "name": "ስልጤ ሰፈር",
+                  "text": "Ein kultureller Aussichtspunkt mit Blick auf das lebendige Viertel, das historisch von der ethnischen Gemeinschaft der Silte besiedelt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        38.670565,
+                        8.995754
+                  ]
+            },
+            {
+                  "name": "አብነት አደባባይ",
+                  "text": "Der Abnet-Kreisverkehr ist ein runder, lokaler Verkehrsknotenpunkt und Orientierungspunkt nahe der Großen Anwar-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        38.733378,
+                        9.020372
+                  ]
+            },
+            {
+                  "name": "HOME",
+                  "text": "HOME ist ein kleiner, lokaler Museumsausstellungsraum im Viertel der Großen Anwar-Moschee.",
+                  "category": "museum",
+                  "coords": [
+                        38.735811,
+                        9.017771
+                  ]
+            },
+            {
+                  "name": "Mercato",
+                  "text": "Der Addis Mercato ist ein riesiger, weitläufiger Freiluftmarkt in der äthiopischen Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        38.739604,
+                        9.029628
+                  ]
+            },
+            {
+                  "name": "ታላቁ አንዋር መስጊድ",
+                  "text": "Die Große Anwar-Moschee ist die größte Moschee in Addis Abeba und besticht durch ihre beeindruckende Architektur im belebten Mercato-Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        38.740829,
+                        9.032785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ቤቴል አደባባይ",
+                  "text": "Nyüzsgő körforgalmi kilátópont, amely kiváló megfigyelőhelyet kínál a környező városi lüktetés megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        38.694119,
+                        9.003725
+                  ]
+            },
+            {
+                  "name": "ስልጤ ሰፈር",
+                  "text": "Kulturális kilátópont, amely arra a nyüzsgő negyedre néz, amelyet történelmileg a szilti etnikai közösség telepített be.",
+                  "category": "natural",
+                  "coords": [
+                        38.670565,
+                        8.995754
+                  ]
+            },
+            {
+                  "name": "አብነት አደባባይ",
+                  "text": "Az Abnet körforgalom egy kör alakú helyi közlekedési csomópont és tájékozódási pont a Nagy Anwar Mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.733378,
+                        9.020372
+                  ]
+            },
+            {
+                  "name": "HOME",
+                  "text": "A HOME egy kis helyi múzeumi kiállítótér a Nagy Anwar Mecset negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        38.735811,
+                        9.017771
+                  ]
+            },
+            {
+                  "name": "Mercato",
+                  "text": "Az Addis Mercato egy hatalmas, kiterjedt szabadtéri piac az etióp fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        38.739604,
+                        9.029628
+                  ]
+            },
+            {
+                  "name": "ታላቁ አንዋር መስጊድ",
+                  "text": "Az Anwar Nagymecset Addisz-Abeba legnagyobb mecsete, amely lenyűgöző építészettel büszkélkedhet a nyüzsgő Mercato negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        38.740829,
+                        9.032785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ቤቴል አደባባይ",
+                  "text": "Un punct de belvedere plin de viață cu sens giratoriu, oferind un unghi excelent pentru a observa pulsul urban din jur.",
+                  "category": "natural",
+                  "coords": [
+                        38.694119,
+                        9.003725
+                  ]
+            },
+            {
+                  "name": "ስልጤ ሰፈር",
+                  "text": "Un punct de observație cultural cu vedere spre cartierul vibrant colonizat istoric de comunitatea etnică Silte.",
+                  "category": "natural",
+                  "coords": [
+                        38.670565,
+                        8.995754
+                  ]
+            },
+            {
+                  "name": "አብነት አደባባይ",
+                  "text": "Sensul giratoriu Abnet este un nod de trafic local circular și un punct de reper lângă Marea Moschee Anwar.",
+                  "category": "landmark",
+                  "coords": [
+                        38.733378,
+                        9.020372
+                  ]
+            },
+            {
+                  "name": "HOME",
+                  "text": "HOME este un mic spațiu de expoziție muzeală locală situat în cartierul Marii Moschei Anwar.",
+                  "category": "museum",
+                  "coords": [
+                        38.735811,
+                        9.017771
+                  ]
+            },
+            {
+                  "name": "Mercato",
+                  "text": "Addis Mercato este o piață vastă, în aer liber, care se întinde în capitala etiopiană.",
+                  "category": "cultural",
+                  "coords": [
+                        38.739604,
+                        9.029628
+                  ]
+            },
+            {
+                  "name": "ታላቁ አንዋር መስጊድ",
+                  "text": "Marea Moschee Anwar este cea mai mare moschee din Addis Abeba, remarcându-se prin arhitectura sa impresionantă în cartierul aglomerat Mercato.",
+                  "category": "religious",
+                  "coords": [
+                        38.740829,
+                        9.032785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Betel Adebabay",
+                  "text": "A lively roundabout viewpoint offering an excellent vantage point to observe the surrounding urban pulse.",
+                  "category": "natural",
+                  "coords": [
+                        38.694119,
+                        9.003725
+                  ]
+            },
+            {
+                  "name": "ስልጤ ሰፈር",
+                  "text": "A cultural viewpoint overlooking the vibrant neighborhood historically settled by the Silte ethnic community.",
+                  "category": "natural",
+                  "coords": [
+                        38.670565,
+                        8.995754
+                  ]
+            },
+            {
+                  "name": "Abnet roundabout",
+                  "text": "The Abnet roundabout is a circular local traffic junction and landmark near the Grand Anwar Mosque area.",
+                  "category": "landmark",
+                  "coords": [
+                        38.733378,
+                        9.020372
+                  ]
+            },
+            {
+                  "name": "HOME",
+                  "text": "HOME is a small local museum exhibition space situated in the Grand Anwar Mosque district.",
+                  "category": "museum",
+                  "coords": [
+                        38.735811,
+                        9.017771
+                  ]
+            },
+            {
+                  "name": "Mercato",
+                  "text": "The Addis Mercato is a vast, sprawling open-air marketplace in the Ethiopian capital.",
+                  "category": "cultural",
+                  "coords": [
+                        38.739604,
+                        9.029628
+                  ]
+            },
+            {
+                  "name": "Anwar Grand Mosque",
+                  "text": "The Anwar Grand Mosque is the largest mosque in Addis Ababa, featuring impressive architecture in the bustling Mercato district.",
+                  "category": "religious",
+                  "coords": [
+                        38.740829,
+                        9.032785
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.735, 9.028],
@@ -439,7 +2131,268 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un site remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/grand-anwar-mosque-landmarks-v2.webp"},
   {
-    id: "medhane-alem-cathedral-landmarks-v2",
+    id: "medhane-alem-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Between Mickel & bulbula ring road",
+                  "text": "Dieser Aussichtspunkt zwischen der Mickel- und der Bulbula-Ringstraße bietet Blicke auf den städtischen Verkehr nahe der Medhane-Alem-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        38.775165,
+                        8.972092
+                  ]
+            },
+            {
+                  "name": "Buteeye street",
+                  "text": "Die Buteeye-Straße ist ein städtischer Aussichtspunkt im Bezirk der Medhane-Alem-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        38.777045,
+                        8.9788
+                  ]
+            },
+            {
+                  "name": "ተስፋሚካኤል መንገድ",
+                  "text": "Die Tesfamichael-Straße bietet einen Aussichtspunkt auf das Straßenbild im Viertel der Medhane-Alem-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        38.78977,
+                        9.005652
+                  ]
+            },
+            {
+                  "name": "ሜትሮፖሊታን ሪል እስቴት",
+                  "text": "Metropolitan Real Estate ist ein Wohnbau-Orientierungspunkt im Bezirk der Medhane-Alem-Kathedrale.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784977,
+                        8.993113
+                  ]
+            },
+            {
+                  "name": "Addis perka",
+                  "text": "አዲሱ ፐርኬ (Adisu Perke) ist eine lokale Attraktion im Gebiet rund um die Medhane-Alem-Kathedrale.",
+                  "category": "landmark",
+                  "coords": [
+                        38.788534,
+                        8.987364
+                  ]
+            },
+            {
+                  "name": "mana jirenya",
+                  "text": "Mana Jirenya ist ein Wohn-Aussichtspunkt im Bezirk der Medhane-Alem-Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        38.784188,
+                        8.959359
+                  ]
+            },
+            {
+                  "name": "Adwa Park",
+                  "text": "Der Adwa-Park ist ein grünes, städtisches Naturschutzgebiet, das Erholungsraum im Bereich der Medhane-Alem-Kathedrale bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.801814,
+                        8.988098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Between Mickel & bulbula ring road",
+                  "text": "Ez a Mickel és a Bulbula körgyűrű közötti kilátó a Medhane Alem katedrális melletti városi forgalomra nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        38.775165,
+                        8.972092
+                  ]
+            },
+            {
+                  "name": "Buteeye street",
+                  "text": "A Buteeye utca egy városi kilátópont a Medhane Alem katedrális negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        38.777045,
+                        8.9788
+                  ]
+            },
+            {
+                  "name": "ተስፋሚካኤል መንገድ",
+                  "text": "A Tesfamichael utca kilátópontot nyújt a Medhane Alem katedrális negyedének utcaképére.",
+                  "category": "natural",
+                  "coords": [
+                        38.78977,
+                        9.005652
+                  ]
+            },
+            {
+                  "name": "ሜትሮፖሊታን ሪል እስቴት",
+                  "text": "A Metropolitan Real Estate egy lakóépületi tájékozódási pont a Medhane Alem katedrális kerületében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784977,
+                        8.993113
+                  ]
+            },
+            {
+                  "name": "Addis perka",
+                  "text": "Az አዲሱ ፐርኬ (Adisu Perke) egy helyi látványosság a Medhane Alem katedrális körüli területen.",
+                  "category": "landmark",
+                  "coords": [
+                        38.788534,
+                        8.987364
+                  ]
+            },
+            {
+                  "name": "mana jirenya",
+                  "text": "A Mana Jirenya egy lakóövezeti kilátópont a Medhane Alem katedrális kerületében.",
+                  "category": "natural",
+                  "coords": [
+                        38.784188,
+                        8.959359
+                  ]
+            },
+            {
+                  "name": "Adwa Park",
+                  "text": "Az Adwa Park egy zöld városi természetvédelmi terület, amely rekreációs teret kínál a Medhane Alem katedrális övezetében.",
+                  "category": "natural",
+                  "coords": [
+                        38.801814,
+                        8.988098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Between Mickel & bulbula ring road",
+                  "text": "Acest punct de belvedere, situat între șoseaua de centură Mickel și Bulbula, oferă priveliști asupra traficului urban de lângă Catedrala Medhane Alem.",
+                  "category": "natural",
+                  "coords": [
+                        38.775165,
+                        8.972092
+                  ]
+            },
+            {
+                  "name": "Buteeye street",
+                  "text": "Strada Buteeye este un punct de belvedere urban în districtul Catedralei Medhane Alem.",
+                  "category": "natural",
+                  "coords": [
+                        38.777045,
+                        8.9788
+                  ]
+            },
+            {
+                  "name": "ተስፋሚካኤል መንገድ",
+                  "text": "Strada Tesfamichael oferă un punct de belvedere stradal în cartierul Catedralei Medhane Alem.",
+                  "category": "natural",
+                  "coords": [
+                        38.78977,
+                        9.005652
+                  ]
+            },
+            {
+                  "name": "ሜትሮፖሊታን ሪል እስቴት",
+                  "text": "Metropolitan Real Estate este un punct de reper imobiliar rezidențial în districtul Catedralei Medhane Alem.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784977,
+                        8.993113
+                  ]
+            },
+            {
+                  "name": "Addis perka",
+                  "text": "አዲሱ ፐርኬ (Adisu Perke) este o atracție locală în zona din jurul Catedralei Medhane Alem.",
+                  "category": "landmark",
+                  "coords": [
+                        38.788534,
+                        8.987364
+                  ]
+            },
+            {
+                  "name": "mana jirenya",
+                  "text": "Mana Jirenya este un punct de belvedere rezidențial în districtul Catedralei Medhane Alem.",
+                  "category": "natural",
+                  "coords": [
+                        38.784188,
+                        8.959359
+                  ]
+            },
+            {
+                  "name": "Adwa Park",
+                  "text": "Parcul Adwa este o rezervație naturală urbană verde, care oferă spațiu de recreere în zona Catedralei Medhane Alem.",
+                  "category": "natural",
+                  "coords": [
+                        38.801814,
+                        8.988098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Between Mickel & bulbula ring road",
+                  "text": "This viewpoint between Mickel and the bulbula ring road offers sights of the urban traffic near Medhane Alem Cathedral.",
+                  "category": "natural",
+                  "coords": [
+                        38.775165,
+                        8.972092
+                  ]
+            },
+            {
+                  "name": "Buteeye street",
+                  "text": "Buteeye street is an urban viewpoint located in the Medhane Alem Cathedral district.",
+                  "category": "natural",
+                  "coords": [
+                        38.777045,
+                        8.9788
+                  ]
+            },
+            {
+                  "name": "Tesfamichael Street",
+                  "text": "Tesfamichael Street offers a street-level viewpoint in the Medhane Alem Cathedral neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        38.78977,
+                        9.005652
+                  ]
+            },
+            {
+                  "name": "Metropolitan real estate",
+                  "text": "Metropolitan real estate is a residential development landmark in the Medhane Alem Cathedral district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.784977,
+                        8.993113
+                  ]
+            },
+            {
+                  "name": "አዲሱ ፐርኬ",
+                  "text": "አዲሱ ፐርኬ (Adisu Perke) is a local neighborhood attraction in the area surrounding Medhane Alem Cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        38.788534,
+                        8.987364
+                  ]
+            },
+            {
+                  "name": "mana jirenya",
+                  "text": "Mana jirenya is a residential viewpoint in the Medhane Alem Cathedral district.",
+                  "category": "natural",
+                  "coords": [
+                        38.784188,
+                        8.959359
+                  ]
+            },
+            {
+                  "name": "Adwa Park",
+                  "text": "Adwa Park is a green urban nature reserve providing recreational space in the Medhane Alem Cathedral zone.",
+                  "category": "natural",
+                  "coords": [
+                        38.801814,
+                        8.988098
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.786, 8.997],
@@ -487,7 +2440,160 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un site remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/medhane-alem-cathedral-landmarks-v2.webp"},
   {
-    id: "holy-trinity-cathedral-landmarks-v2",
+    id: "holy-trinity-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hope Outdoor",
+                  "text": "Diese Freiluftgalerie nahe der Dreifaltigkeitskathedrale präsentiert urbane afrikanische Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        38.774109,
+                        9.03778
+                  ]
+            },
+            {
+                  "name": "Arat kilo children and youth center",
+                  "text": "Das Theaterzentrum im Viertel Arat Kilo bietet Aufführungen und Workshops für Jugendliche.",
+                  "category": "cultural",
+                  "coords": [
+                        38.766802,
+                        9.032378
+                  ]
+            },
+            {
+                  "name": "Archaeology Museum",
+                  "text": "Das archäologische Museum in der Nähe der Kathedrale beherbergt historische Funde der Region.",
+                  "category": "museum",
+                  "coords": [
+                        38.765327,
+                        9.032995
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "In dieser bedeutenden orthodoxen Kathedrale befindet sich die Grabstätte von Kaiser Haile Selassie.",
+                  "category": "religious",
+                  "coords": [
+                        38.766473,
+                        9.030801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hope Outdoor",
+                  "text": "A Szentháromság-székesegyház közelében található szabadtéri galéria városi afrikai művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        38.774109,
+                        9.03778
+                  ]
+            },
+            {
+                  "name": "Arat kilo children and youth center",
+                  "text": "Az Arat Kilo negyedben található színházi központ előadásokat és workshopokat kínál fiataloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        38.766802,
+                        9.032378
+                  ]
+            },
+            {
+                  "name": "Archaeology Museum",
+                  "text": "A katedrális közelében található régészeti múzeum a régió történelmi leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        38.765327,
+                        9.032995
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "Ebben a jelentős ortodox katedrálisban található Hailé Szelasszié császár sírja.",
+                  "category": "religious",
+                  "coords": [
+                        38.766473,
+                        9.030801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hope Outdoor",
+                  "text": "Această galerie în aer liber de lângă Catedrala Sfânta Treime prezintă lucrări de artă urbană africană.",
+                  "category": "museum",
+                  "coords": [
+                        38.774109,
+                        9.03778
+                  ]
+            },
+            {
+                  "name": "Arat kilo children and youth center",
+                  "text": "Centrul de teatru din cartierul Arat Kilo oferă spectacole și ateliere pentru tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        38.766802,
+                        9.032378
+                  ]
+            },
+            {
+                  "name": "Archaeology Museum",
+                  "text": "Muzeul arheologic din apropierea catedralei adăpostește descoperiri istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        38.765327,
+                        9.032995
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "Această importantă catedrală ortodoxă adăpostește mormântul împăratului Haile Selassie.",
+                  "category": "religious",
+                  "coords": [
+                        38.766473,
+                        9.030801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hope Outdoor",
+                  "text": "This open-air gallery near the Holy Trinity Cathedral presents urban African artwork.",
+                  "category": "museum",
+                  "coords": [
+                        38.774109,
+                        9.03778
+                  ]
+            },
+            {
+                  "name": "አራት ኪሎ ህፃናትና ወጣቶች ማዕከል",
+                  "text": "The theatre center in the Arat Kilo district offers performances and workshops for the youth.",
+                  "category": "cultural",
+                  "coords": [
+                        38.766802,
+                        9.032378
+                  ]
+            },
+            {
+                  "name": "Archaeology Museum",
+                  "text": "The archaeological museum near the cathedral houses historical finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        38.765327,
+                        9.032995
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "This major Orthodox cathedral houses the tomb of Emperor Haile Selassie.",
+                  "category": "religious",
+                  "coords": [
+                        38.766473,
+                        9.030801
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.766, 9.031],
@@ -535,7 +2641,196 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "st-georges-cathedral-landmarks-v2",
+    id: "st-georges-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zeki Musa house",
+                  "text": "Ein historisches Wohnhaus, das die lokale Architektur nahe der Georgskathedrale widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.743148,
+                        9.037752
+                  ]
+            },
+            {
+                  "name": "Burkina",
+                  "text": "Eine charakteristische Attraktion im lebhaften Viertel rund um die Kathedrale.",
+                  "category": "landmark",
+                  "coords": [
+                        38.744509,
+                        9.05047
+                  ]
+            },
+            {
+                  "name": "Statue of Menelik II",
+                  "text": "Die bronzene Reiterstatue erinnert an Kaiser Menelik II. und die Schlacht von Adwa.",
+                  "category": "historical",
+                  "coords": [
+                        38.75239,
+                        9.035851
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Die achteckige Kirche wurde zum Gedenken an den Sieg über die Italiener bei Adwa errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        38.75131,
+                        9.036764
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "Die Ruinen dieser palastartigen Anlage zeugen von der frühen königlichen Bebauung des Viertels.",
+                  "category": "historical",
+                  "coords": [
+                        38.753017,
+                        9.036909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zeki Musa house",
+                  "text": "Egy történelmi lakóház, amely a Szent György-székesegyház környékének helyi építészetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        38.743148,
+                        9.037752
+                  ]
+            },
+            {
+                  "name": "Burkina",
+                  "text": "Jellegzetes látványosság a katedrális körüli nyüzsgő negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.744509,
+                        9.05047
+                  ]
+            },
+            {
+                  "name": "Statue of Menelik II",
+                  "text": "A bronz lovasszobor II. Menelik császárnak és az aduai csatának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        38.75239,
+                        9.035851
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "A nyolcszögletű templomot az olaszok felett aratott aduai győzelem emlékére építették.",
+                  "category": "religious",
+                  "coords": [
+                        38.75131,
+                        9.036764
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "A palotaszerű épületegyüttes romjai a negyed korai királyi beépítéséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        38.753017,
+                        9.036909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zeki Musa house",
+                  "text": "O casă rezidențială istorică care reflectă arhitectura locală de lângă Catedrala Sf. Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        38.743148,
+                        9.037752
+                  ]
+            },
+            {
+                  "name": "Burkina",
+                  "text": "O atracție caracteristică în cartierul plin de viață din jurul catedralei.",
+                  "category": "landmark",
+                  "coords": [
+                        38.744509,
+                        9.05047
+                  ]
+            },
+            {
+                  "name": "Statue of Menelik II",
+                  "text": "Statuia ecvestră de bronz îl comemorează pe împăratul Menelik al II-lea și bătălia de la Adwa.",
+                  "category": "historical",
+                  "coords": [
+                        38.75239,
+                        9.035851
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Biserica octogonală a fost construită pentru a comemora victoria asupra italienilor la Adwa.",
+                  "category": "religious",
+                  "coords": [
+                        38.75131,
+                        9.036764
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "Ruinele acestui complex palatin stau mărturie a dezvoltării regale timpurii a cartierului.",
+                  "category": "historical",
+                  "coords": [
+                        38.753017,
+                        9.036909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zeki Musa house",
+                  "text": "A historic residential house reflecting the local architecture near St. George's Cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        38.743148,
+                        9.037752
+                  ]
+            },
+            {
+                  "name": "Burkina",
+                  "text": "A characteristic attraction in the lively district surrounding the cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        38.744509,
+                        9.05047
+                  ]
+            },
+            {
+                  "name": "Statue of Menelik II",
+                  "text": "The bronze equestrian statue commemorates Emperor Menelik II and the Battle of Adwa.",
+                  "category": "historical",
+                  "coords": [
+                        38.75239,
+                        9.035851
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "The octagonal church was built to commemorate the victory over the Italians at Adwa.",
+                  "category": "religious",
+                  "coords": [
+                        38.75131,
+                        9.036764
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "The ruins of this palatial complex bear witness to the early royal development of the district.",
+                  "category": "historical",
+                  "coords": [
+                        38.753017,
+                        9.036909
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.751, 9.036],
@@ -583,7 +2878,160 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "jubilee-palace-landmarks-v2",
+    id: "jubilee-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ghion Hotel Park",
+                  "text": "Ein grüner Park innerhalb eines Hotelkomplexes, der Schatten unter großen Bäumen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761827,
+                        9.013562
+                  ]
+            },
+            {
+                  "name": "National Palace",
+                  "text": "Die von Kaiser Haile Selassie erbaute königliche Residenz dient heute als Sitz des Präsidenten.",
+                  "category": "castle",
+                  "coords": [
+                        38.760387,
+                        9.016687
+                  ]
+            },
+            {
+                  "name": "ኢትዮጵያ ፓርክ",
+                  "text": "Eine städtische Grünfläche nahe dem Jubiläumspalast, die zur Erholung einlädt.",
+                  "category": "park",
+                  "coords": [
+                        38.763475,
+                        9.01824
+                  ]
+            },
+            {
+                  "name": "አፍሪካ ፓርክ",
+                  "text": "Dieser Park in der Nähe des Palastes bietet Spazierwege und schattige Rastplätze.",
+                  "category": "park",
+                  "coords": [
+                        38.763162,
+                        9.015648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ghion Hotel Park",
+                  "text": "Egy zöldellő park a szállodakomplexumon belül, amely árnyékot ad a nagy fák alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761827,
+                        9.013562
+                  ]
+            },
+            {
+                  "name": "National Palace",
+                  "text": "Hailé Szelasszié császár által épített egykori királyi rezidencia ma az elnök székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        38.760387,
+                        9.016687
+                  ]
+            },
+            {
+                  "name": "ኢትዮጵያ ፓርክ",
+                  "text": "A Jubileumi Palota közelében található városi zöldterület, amely pihenésre csábít.",
+                  "category": "park",
+                  "coords": [
+                        38.763475,
+                        9.01824
+                  ]
+            },
+            {
+                  "name": "አፍሪካ ፓርክ",
+                  "text": "A palota közelében lévő park sétányokat és árnyékos pihenőhelyeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        38.763162,
+                        9.015648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ghion Hotel Park",
+                  "text": "Un parc verde în cadrul complexului hotelier, care oferă umbră sub copacii mari.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761827,
+                        9.013562
+                  ]
+            },
+            {
+                  "name": "National Palace",
+                  "text": "Fosta reședință regală construită de împăratul Haile Selassie servește acum drept sediu prezidențial.",
+                  "category": "castle",
+                  "coords": [
+                        38.760387,
+                        9.016687
+                  ]
+            },
+            {
+                  "name": "ኢትዮጵያ ፓርክ",
+                  "text": "Un spațiu verde urban lângă Palatul Jubileului, ideal pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        38.763475,
+                        9.01824
+                  ]
+            },
+            {
+                  "name": "አፍሪካ ፓርክ",
+                  "text": "Acest parc din apropierea palatului oferă alei și locuri de odihnă umbrite.",
+                  "category": "park",
+                  "coords": [
+                        38.763162,
+                        9.015648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghion Hotel Park",
+                  "text": "A verdant park within a hotel complex offering shade under large trees.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761827,
+                        9.013562
+                  ]
+            },
+            {
+                  "name": "National Palace",
+                  "text": "The former royal residence built by Emperor Haile Selassie now serves as the presidential seat.",
+                  "category": "castle",
+                  "coords": [
+                        38.760387,
+                        9.016687
+                  ]
+            },
+            {
+                  "name": "Ethiopia Park",
+                  "text": "An urban green space near the Jubilee Palace, ideal for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        38.763475,
+                        9.01824
+                  ]
+            },
+            {
+                  "name": "Africa Park",
+                  "text": "This park near the palace features walking paths and shaded resting spots.",
+                  "category": "park",
+                  "coords": [
+                        38.763162,
+                        9.015648
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.761, 9.014],
@@ -631,7 +3079,52 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-museum-ethiopia-landmarks-v2",
+    id: "national-museum-ethiopia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum of Ethiopia",
+                  "text": "Dieses Museum ist international bekannt für die Ausstellung des Teilskeletts des Vormenschen Lucy.",
+                  "category": "museum",
+                  "coords": [
+                        38.761709,
+                        9.038405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum of Ethiopia",
+                  "text": "Ez a múzeum nemzetközileg ismert a Lucy nevű előember részleges csontvázának kiállításáról.",
+                  "category": "museum",
+                  "coords": [
+                        38.761709,
+                        9.038405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum of Ethiopia",
+                  "text": "Acest muzeu este cunoscut la nivel internațional pentru expunerea scheletului parțial al hominidului Lucy.",
+                  "category": "museum",
+                  "coords": [
+                        38.761709,
+                        9.038405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Ethiopia",
+                  "text": "This museum is internationally renowned for displaying the partial skeleton of the hominid Lucy.",
+                  "category": "museum",
+                  "coords": [
+                        38.761709,
+                        9.038405
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.761, 9.038],
@@ -679,7 +3172,52 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un monument remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/national-museum-ethiopia-landmarks-v2.webp"},
   {
-    id: "red-terror-martyrs-memorial-landmarks-v2",
+    id: "red-terror-martyrs-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meskel Square",
+                  "text": "Dieser weite öffentliche Platz in Addis Abeba dient als wichtiger Versammlungsort für religiöse und nationale Feste.",
+                  "category": "park",
+                  "coords": [
+                        38.761271,
+                        9.010068
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meskel Square",
+                  "text": "Ez a hatalmas addisz-abebai központ tér jelentős gyülekezőhelyként szolgál a vallási és nemzeti fesztiválok alkalmával.",
+                  "category": "park",
+                  "coords": [
+                        38.761271,
+                        9.010068
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meskel Square",
+                  "text": "Această vastă piață publică din Addis Abeba servește drept un punct de adunare major pentru festivaluri religioase și naționale.",
+                  "category": "park",
+                  "coords": [
+                        38.761271,
+                        9.010068
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meskel Square",
+                  "text": "This vast public square in Addis Ababa serves as a major gathering point for religious and national festivals.",
+                  "category": "park",
+                  "coords": [
+                        38.761271,
+                        9.010068
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.761, 9.01],
@@ -727,7 +3265,124 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "meskel-square-landmarks-v2",
+    id: "meskel-square-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "WUBE Art Store",
+                  "text": "Dieses Kunstzentrum am Meskel-Platz stellt Werke lokaler äthiopischer Künstler aus.",
+                  "category": "cultural",
+                  "coords": [
+                        38.767547,
+                        9.004839
+                  ]
+            },
+            {
+                  "name": "Dedebi",
+                  "text": "Eine städtische Attraktion, die das geschäftige Treiben rund um den Meskel-Platz bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767978,
+                        9.009167
+                  ]
+            },
+            {
+                  "name": "“Red Terror” Martyrs’ Memorial Museum",
+                  "text": "Das Museum erinnert mit Fotos und Artefakten an die Opfer des Derg-Regimes.",
+                  "category": "museum",
+                  "coords": [
+                        38.762954,
+                        9.010178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "WUBE Art Store",
+                  "text": "Ez a Meskel téren található művészeti központ helyi etióp művészek alkotásait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        38.767547,
+                        9.004839
+                  ]
+            },
+            {
+                  "name": "Dedebi",
+                  "text": "Városi látványosság, amely gazdagítja a Meskel tér körüli nyüzsgést.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767978,
+                        9.009167
+                  ]
+            },
+            {
+                  "name": "“Red Terror” Martyrs’ Memorial Museum",
+                  "text": "A múzeum fényképekkel és tárgyi emlékekkel emlékezik meg a Derg-rezsim áldozatairól.",
+                  "category": "museum",
+                  "coords": [
+                        38.762954,
+                        9.010178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "WUBE Art Store",
+                  "text": "Acest centru de artă din Piața Meskel expune lucrări ale artiștilor etiopieni locali.",
+                  "category": "cultural",
+                  "coords": [
+                        38.767547,
+                        9.004839
+                  ]
+            },
+            {
+                  "name": "Dedebi",
+                  "text": "O atracție urbană care îmbogățește atmosfera animată din jurul Pieței Meskel.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767978,
+                        9.009167
+                  ]
+            },
+            {
+                  "name": "“Red Terror” Martyrs’ Memorial Museum",
+                  "text": "Muzeul comemorează victimele regimului Derg prin fotografii și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        38.762954,
+                        9.010178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "WUBE Art Store",
+                  "text": "This arts centre at Meskel Square exhibits works by local Ethiopian artists.",
+                  "category": "cultural",
+                  "coords": [
+                        38.767547,
+                        9.004839
+                  ]
+            },
+            {
+                  "name": "Dedebi",
+                  "text": "An urban attraction that enriches the bustling atmosphere around Meskel Square.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767978,
+                        9.009167
+                  ]
+            },
+            {
+                  "name": "“Red Terror” Martyrs’ Memorial Museum",
+                  "text": "The museum commemorates the victims of the Derg regime through photographs and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        38.762954,
+                        9.010178
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.762, 9.01],
@@ -775,7 +3430,160 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "biete-medhane-alem-landmarks-v2",
+    id: "biete-medhane-alem-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Tabor",
+                  "text": "Ein hochgelegener Aussichtspunkt an den Hängen des Berges Tabor mit Blick auf die Stadt Lalibela.",
+                  "category": "natural",
+                  "coords": [
+                        39.04361,
+                        12.031083
+                  ]
+            },
+            {
+                  "name": "Bet Mikael",
+                  "text": "Eine halbmonolithische Felsenkirche, die Teil des UNESCO-Weltkulturerbe-Komplexes in Lalibela ist.",
+                  "category": "religious",
+                  "coords": [
+                        39.043041,
+                        12.033559
+                  ]
+            },
+            {
+                  "name": "Lalibela View",
+                  "text": "Ein erhöhter Aussichtspunkt, der weite Panoramablicke über die alten Felsenkirchen von Lalibela bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.060443,
+                        12.047888
+                  ]
+            },
+            {
+                  "name": "Southeastern Group",
+                  "text": "Eine markante Ansammlung alter, miteinander verbundener monolithischer Kirchen, die die südöstliche Gruppe in Lalibela bilden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04469,
+                        12.031697
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Tabor",
+                  "text": "Magasan fekvő kilátóhely a Tábor-hegy lejtőin, kilátással Lalibela városára.",
+                  "category": "natural",
+                  "coords": [
+                        39.04361,
+                        12.031083
+                  ]
+            },
+            {
+                  "name": "Bet Mikael",
+                  "text": "Egy félig monolitikus sziklatemplom, amely a lalibelai UNESCO Világörökség részét képező komplexum része.",
+                  "category": "religious",
+                  "coords": [
+                        39.043041,
+                        12.033559
+                  ]
+            },
+            {
+                  "name": "Lalibela View",
+                  "text": "Magaslati megfigyelőpont, amely lenyűgöző panorámát nyújt Lalibela ősi sziklatemplomaira.",
+                  "category": "natural",
+                  "coords": [
+                        39.060443,
+                        12.047888
+                  ]
+            },
+            {
+                  "name": "Southeastern Group",
+                  "text": "Ősi, egymással összeköttetésben álló monolitikus templomok kiemelkedő csoportja, amely a lalibelai délkeleti csoportot alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04469,
+                        12.031697
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Tabor",
+                  "text": "Un punct de belvedere la mare altitudine, situat pe versanții Muntelui Tabor, cu vedere spre orașul Lalibela.",
+                  "category": "natural",
+                  "coords": [
+                        39.04361,
+                        12.031083
+                  ]
+            },
+            {
+                  "name": "Bet Mikael",
+                  "text": "O biserică săpată în stâncă, semi-monolitică, ce face parte din complexul Patrimoniului Mondial UNESCO din Lalibela.",
+                  "category": "religious",
+                  "coords": [
+                        39.043041,
+                        12.033559
+                  ]
+            },
+            {
+                  "name": "Lalibela View",
+                  "text": "Un punct de observație înalt care oferă o panoramă vastă asupra vechilor biserici săpate în stâncă din Lalibela.",
+                  "category": "natural",
+                  "coords": [
+                        39.060443,
+                        12.047888
+                  ]
+            },
+            {
+                  "name": "Southeastern Group",
+                  "text": "Un grup proeminent de biserici monolitice antice interconectate care formează grupul de sud-est din Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04469,
+                        12.031697
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Tabor",
+                  "text": "A high-altitude viewpoint situated on the slopes of Mount Tabor overlooking the town of Lalibela.",
+                  "category": "natural",
+                  "coords": [
+                        39.04361,
+                        12.031083
+                  ]
+            },
+            {
+                  "name": "Bet Mikael",
+                  "text": "A semi-monolithic rock-hewn church forming part of the UNESCO World Heritage site complex in Lalibela.",
+                  "category": "religious",
+                  "coords": [
+                        39.043041,
+                        12.033559
+                  ]
+            },
+            {
+                  "name": "Lalibela View",
+                  "text": "An elevated observation point providing sweeping panoramic vistas over the ancient rock churches of Lalibela.",
+                  "category": "natural",
+                  "coords": [
+                        39.060443,
+                        12.047888
+                  ]
+            },
+            {
+                  "name": "Southeastern Group",
+                  "text": "A prominent cluster of ancient, interconnected monolithic churches forming the southeastern group in Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04469,
+                        12.031697
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AM",
     coords: [39.043, 12.031],
@@ -871,7 +3679,88 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "obelisk-of-axum-landmarks-v2",
+    id: "obelisk-of-axum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "Dieses dreisprachige Denkmal mit der Ezana-Inschrift trägt Texte in Ge'ez, Sabäisch und Griechisch und dokumentiert die Geschichte des antiken aksumitischen Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        38.724649,
+                        14.124222
+                  ]
+            },
+            {
+                  "name": "Enda Nebura'ed Palace Ruins",
+                  "text": "Die Palastruinen von Enda Nebura'ed offenbaren die Steinfundamente und strukturellen Überreste einer antiken Eliteresidenz nahe den Obelisken von Aksum.",
+                  "category": "historical",
+                  "coords": [
+                        38.723948,
+                        14.125261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "Ez a háromnyelvű Ezana-feliratot hordozó emlékmű ge'ez, szabeus és görög nyelvű szöveggel örökíti meg az ősi Akszúmi Birodalom történelmét.",
+                  "category": "historical",
+                  "coords": [
+                        38.724649,
+                        14.124222
+                  ]
+            },
+            {
+                  "name": "Enda Nebura'ed Palace Ruins",
+                  "text": "Az Enda Nebura'ed palota romjai egy ősi elit rezidencia kőalapzatait és szerkezeti maradványait tárják fel az axumi obeliszkek közelében.",
+                  "category": "historical",
+                  "coords": [
+                        38.723948,
+                        14.125261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "Acest monument trilingv cu inscripția Ezana poartă texte în gî'îz, sabeeană și greacă, consemnând istoria anticului imperiu axumit.",
+                  "category": "historical",
+                  "coords": [
+                        38.724649,
+                        14.124222
+                  ]
+            },
+            {
+                  "name": "Enda Nebura'ed Palace Ruins",
+                  "text": "Ruinele palatului Enda Nebura'ed dezvăluie fundațiile de piatră și resturile structurale ale unei vechi reședințe de elită lângă obeliscurile din Axum.",
+                  "category": "historical",
+                  "coords": [
+                        38.723948,
+                        14.125261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "This trilingual Ezana Inscription monument bears text in Ge'ez, Sabaean, and Greek, recording the history of the ancient Aksumite empire.",
+                  "category": "historical",
+                  "coords": [
+                        38.724649,
+                        14.124222
+                  ]
+            },
+            {
+                  "name": "Enda Nebura'ed Palace Ruins",
+                  "text": "The Enda Nebura'ed Palace Ruins reveal the stone foundations and structural remnants of an ancient elite residence near the Axum obelisks.",
+                  "category": "historical",
+                  "coords": [
+                        38.723948,
+                        14.125261
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-TI",
     coords: [38.718, 14.13],
@@ -1063,7 +3952,52 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palace-of-jimma-aba-jifar-landmarks-v2",
+    id: "palace-of-jimma-aba-jifar-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "አባ ጅፋር ቤተመንግስት",
+                  "text": "Der Palast von König Aba Jifar ist ein erhaltener Museumskomplex mit Holzarchitektur, der einst als königliche Residenz in Jimma diente.",
+                  "category": "museum",
+                  "coords": [
+                        36.872819,
+                        7.701035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "አባ ጅፋር ቤተመንግስት",
+                  "text": "Az Aba Jifar király palotája egy fennmaradt faépítészeti múzeumkomplexum, amely egykor királyi rezidenciaként szolgált Jimmában.",
+                  "category": "museum",
+                  "coords": [
+                        36.872819,
+                        7.701035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "አባ ጅፋር ቤተመንግስት",
+                  "text": "Palatul Regelui Aba Jifar este un complex muzeal conservat, cu arhitectură din lemn, care a servit cândva ca reședință regală în Jimma.",
+                  "category": "museum",
+                  "coords": [
+                        36.872819,
+                        7.701035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King Aba Jifar palace",
+                  "text": "King Aba Jifar palace is a preserved wooden architectural museum complex that once served as the royal residence in Jimma.",
+                  "category": "museum",
+                  "coords": [
+                        36.872819,
+                        7.701035
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-OR",
     coords: [36.837, 7.682],
@@ -1111,7 +4045,88 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "al-nejashi-mosque-landmarks-v2",
+    id: "al-nejashi-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Nejashi Mosque",
+                  "text": "Die Al-Nejashi-Moschee ist eine historische islamische Kultstätte, die dafür bekannt ist, den frühen Gefährten des Propheten Mohammed in Äthiopien Zuflucht gewährt zu haben.",
+                  "category": "religious",
+                  "coords": [
+                        39.598703,
+                        13.875538
+                  ]
+            },
+            {
+                  "name": "Emmanuel Church",
+                  "text": "Die Emmanuel-Kirche ist eine lokale christliche Sehenswürdigkeit mit traditioneller religiöser Architektur in derselben Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        39.610925,
+                        13.888076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Nejashi Mosque",
+                  "text": "Az Al-Nejashi mecset egy történelmi iszlám imahely, amely arról híres, hogy menedéket nyújtott Mohamed próféta korai társainak Etiópiában.",
+                  "category": "religious",
+                  "coords": [
+                        39.598703,
+                        13.875538
+                  ]
+            },
+            {
+                  "name": "Emmanuel Church",
+                  "text": "Az Emmanuel-templom egy helyi keresztény látványosság, amely hagyományos vallási építészettel büszkélkedhet a szomszédságban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.610925,
+                        13.888076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Nejashi Mosque",
+                  "text": "Moscheea Al Nejashi este un lăcaș de cult islamic istoric, renumit pentru că i-a adăpostit pe primii însoțitori ai Profetului Muhammad în Etiopia.",
+                  "category": "religious",
+                  "coords": [
+                        39.598703,
+                        13.875538
+                  ]
+            },
+            {
+                  "name": "Emmanuel Church",
+                  "text": "Biserica Emmanuel este o atracție creștină locală care prezintă o arhitectură religioasă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        39.610925,
+                        13.888076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Nejashi Mosque",
+                  "text": "The Al Nejashi Mosque is a historic Islamic place of worship, widely known for sheltering the early companions of the Prophet Muhammad in Ethiopia.",
+                  "category": "religious",
+                  "coords": [
+                        39.598703,
+                        13.875538
+                  ]
+            },
+            {
+                  "name": "Emmanuel Church",
+                  "text": "Emmanuel Church is a local Christian attraction featuring traditional religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        39.610925,
+                        13.888076
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-TI",
     coords: [39.608, 13.885],
@@ -1159,7 +4174,88 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "dire-dawa-train-station-landmarks-v2",
+    id: "dire-dawa-train-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Millennium Park ",
+                  "text": "Eine öffentliche Parkanlage in der Nähe des historischen Bahnhofs von Dire Dawa.",
+                  "category": "landmark",
+                  "coords": [
+                        41.862319,
+                        9.602846
+                  ]
+            },
+            {
+                  "name": "Nationalpalast",
+                  "text": "Ein historisches Palastgebäude in der Nähe der Wahrzeichen des Bahnhofs von Dire Dawa.",
+                  "category": "castle",
+                  "coords": [
+                        41.861548,
+                        9.591239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Millennium Park ",
+                  "text": "Egy nyilvános park a történelmi Dire Dawa vasútállomás közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        41.862319,
+                        9.602846
+                  ]
+            },
+            {
+                  "name": "ብሄራዊ ቤተ መንግስት",
+                  "text": "Egy történelmi palotaépület Dire Dawa vasútállomásának nevezetességei közelében.",
+                  "category": "castle",
+                  "coords": [
+                        41.861548,
+                        9.591239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Millennium Park ",
+                  "text": "Un parc public situat în apropierea gării istorice din Dire Dawa.",
+                  "category": "landmark",
+                  "coords": [
+                        41.862319,
+                        9.602846
+                  ]
+            },
+            {
+                  "name": "ብሄራዊ ቤተ መንግስት",
+                  "text": "O clădire de palat istorică situată lângă punctele de reper ale gării din Dire Dawa.",
+                  "category": "castle",
+                  "coords": [
+                        41.861548,
+                        9.591239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Millennium Park ",
+                  "text": "A public park attraction located near the historic Dire Dawa train station.",
+                  "category": "landmark",
+                  "coords": [
+                        41.862319,
+                        9.602846
+                  ]
+            },
+            {
+                  "name": "ብሄራዊ ቤተ መንግስት",
+                  "text": "A historic palace building situated near the landmarks of Dire Dawa's railway station.",
+                  "category": "castle",
+                  "coords": [
+                        41.861548,
+                        9.591239
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-DD",
     coords: [41.865, 9.593],
@@ -1207,7 +4303,268 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "adey-abeba-stadium-landmarks-v2",
+    id: "adey-abeba-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kim",
+                  "text": "Kim ist eine kleine lokale Sehenswürdigkeit im Viertel des Adey Abeba-Stadions.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761289,
+                        8.99541
+                  ]
+            },
+            {
+                  "name": "Transnational Engineers ",
+                  "text": "Das Bürogebäude der Transnational Engineers bietet einen Aussichtspunkt auf das Viertel des Adey Abeba-Stadions.",
+                  "category": "natural",
+                  "coords": [
+                        38.762426,
+                        8.98768
+                  ]
+            },
+            {
+                  "name": "Sahay hotel adiis",
+                  "text": "Das Sahay Hotel bietet Aussichtspunkte von seinem Gebäude nahe dem Adey Abeba-Stadion.",
+                  "category": "natural",
+                  "coords": [
+                        38.76608,
+                        8.984253
+                  ]
+            },
+            {
+                  "name": "መኪና ፈታ",
+                  "text": "መኪና ፈታ ist eine kleine lokale Attraktion in den Straßen rund um das Adey Abeba-Stadion.",
+                  "category": "landmark",
+                  "coords": [
+                        38.768287,
+                        8.99261
+                  ]
+            },
+            {
+                  "name": "ራይድ መስቀል ፍላወር ቢሮ",
+                  "text": "Das Ride Office (Meskel Flower) ist ein Büro für Mitfahrgelegenheiten und ein lokaler Orientierungspunkt nahe dem Adey Abeba-Stadion.",
+                  "category": "landmark",
+                  "coords": [
+                        38.766315,
+                        8.995318
+                  ]
+            },
+            {
+                  "name": "Condominium Amalgamated",
+                  "text": "Das zusammengelegte Eigentumswohnungskomplex bietet weitläufige Aussichtspunkte nahe dem Adey Abeba-Stadion.",
+                  "category": "natural",
+                  "coords": [
+                        38.761671,
+                        8.997597
+                  ]
+            },
+            {
+                  "name": "Eternal Media and Promotion",
+                  "text": "Dieser Aussichtspunkt in der Nähe des Stadions bietet einen städtischen Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        38.759126,
+                        8.996297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kim",
+                  "text": "A Kim egy kis helyi látványosság az Adey Abeba Stadion negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761289,
+                        8.99541
+                  ]
+            },
+            {
+                  "name": "Transnational Engineers ",
+                  "text": "A Transnational Engineers irodaháza kilátópontot nyújt az Adey Abeba Stadion negyedére.",
+                  "category": "natural",
+                  "coords": [
+                        38.762426,
+                        8.98768
+                  ]
+            },
+            {
+                  "name": "Sahay hotel adiis",
+                  "text": "A Sahay Hotel épületéből kilátás nyílik az Adey Abeba Stadionra.",
+                  "category": "natural",
+                  "coords": [
+                        38.76608,
+                        8.984253
+                  ]
+            },
+            {
+                  "name": "መኪና ፈታ",
+                  "text": "A መኪና ፈታ egy kis helyi látványosság az Adey Abeba Stadiont körülvevő utcákban.",
+                  "category": "landmark",
+                  "coords": [
+                        38.768287,
+                        8.99261
+                  ]
+            },
+            {
+                  "name": "ራይድ መስቀል ፍላወር ቢሮ",
+                  "text": "A Ride Office (Meskel Flower) egy fuvarmegosztó iroda és helyi tájékozódási pont az Adey Abeba Stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.766315,
+                        8.995318
+                  ]
+            },
+            {
+                  "name": "Condominium Amalgamated",
+                  "text": "Az egyesített társasházi komplexum kiterjedt kilátópontokat kínál az Adey Abeba Stadion közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.761671,
+                        8.997597
+                  ]
+            },
+            {
+                  "name": "Eternal Media and Promotion",
+                  "text": "Ez a stadion közelében található kilátó panorámás kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        38.759126,
+                        8.996297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kim",
+                  "text": "Kim este o mică atracție locală în cartierul Stadionului Adey Abeba.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761289,
+                        8.99541
+                  ]
+            },
+            {
+                  "name": "Transnational Engineers ",
+                  "text": "Clădirea de birouri Transnational Engineers oferă un punct de belvedere asupra cartierului Stadionului Adey Abeba.",
+                  "category": "natural",
+                  "coords": [
+                        38.762426,
+                        8.98768
+                  ]
+            },
+            {
+                  "name": "Sahay hotel adiis",
+                  "text": "Hotelul Sahay oferă puncte de belvedere din clădirea sa aflată în apropierea Stadionului Adey Abeba.",
+                  "category": "natural",
+                  "coords": [
+                        38.76608,
+                        8.984253
+                  ]
+            },
+            {
+                  "name": "መኪና ፈታ",
+                  "text": "መኪና ፈታ este o mică atracție locală pe străzile din jurul Stadionului Adey Abeba.",
+                  "category": "landmark",
+                  "coords": [
+                        38.768287,
+                        8.99261
+                  ]
+            },
+            {
+                  "name": "ራይድ መስቀል ፍላወር ቢሮ",
+                  "text": "Ride Office (Meskel Flower) este un birou de ride-hailing și un punct de reper local lângă Stadionul Adey Abeba.",
+                  "category": "landmark",
+                  "coords": [
+                        38.766315,
+                        8.995318
+                  ]
+            },
+            {
+                  "name": "Condominium Amalgamated",
+                  "text": "Complexul rezidențial de condominii comasate oferă puncte de belvedere extinse lângă Stadionul Adey Abeba.",
+                  "category": "natural",
+                  "coords": [
+                        38.761671,
+                        8.997597
+                  ]
+            },
+            {
+                  "name": "Eternal Media and Promotion",
+                  "text": "Acest punct de belvedere din apropierea stadionului oferă o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        38.759126,
+                        8.996297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kim",
+                  "text": "Kim is a small local attraction spot in the Adey Abeba Stadium neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        38.761289,
+                        8.99541
+                  ]
+            },
+            {
+                  "name": "Transnational Engineers ",
+                  "text": "The Transnational Engineers office building provides a viewpoint over the Adey Abeba Stadium district.",
+                  "category": "natural",
+                  "coords": [
+                        38.762426,
+                        8.98768
+                  ]
+            },
+            {
+                  "name": "Sahay hotel adiis",
+                  "text": "Sahay hotel adiis offers viewpoints from its establishment near the Adey Abeba Stadium.",
+                  "category": "natural",
+                  "coords": [
+                        38.76608,
+                        8.984253
+                  ]
+            },
+            {
+                  "name": "መኪና ፈታ",
+                  "text": "መኪና ፈታ is a small local attraction in the streets surrounding the Adey Abeba Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        38.768287,
+                        8.99261
+                  ]
+            },
+            {
+                  "name": "Ride office meskel flower",
+                  "text": "The Ride office (Meskel flower) is a ride-hailing facility and local landmark near the Adey Abeba Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        38.766315,
+                        8.995318
+                  ]
+            },
+            {
+                  "name": "Condominium amalgamated",
+                  "text": "The amalgamated condominium complex provides expansive residential viewpoints near the Adey Abeba Stadium.",
+                  "category": "natural",
+                  "coords": [
+                        38.761671,
+                        8.997597
+                  ]
+            },
+            {
+                  "name": "Eternal Media and Promotion",
+                  "text": "This viewpoint near the stadium offers panoramic urban views.",
+                  "category": "natural",
+                  "coords": [
+                        38.759126,
+                        8.996297
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AA",
     coords: [38.755, 9.0],
@@ -1255,7 +4612,52 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "arthur-rimbaud-center-landmarks-v2",
+    id: "arthur-rimbaud-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Juma Mosque View",
+                  "text": "Dieser malerische Aussichtspunkt bietet eine hervorragende, erhöhte Perspektive auf die markanten Minarette der zentralen Juma-Moschee von Harar.",
+                  "category": "natural",
+                  "coords": [
+                        42.136901,
+                        9.314607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Juma Mosque View",
+                  "text": "Ez a festői kilátó kiváló magaslati perspektívát nyújt Harar központi Juma mecsetjének kiemelkedő minaretjeire.",
+                  "category": "natural",
+                  "coords": [
+                        42.136901,
+                        9.314607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Juma Mosque View",
+                  "text": "Acest punct de observație pitoresc oferă o perspectivă excelentă, ridicată asupra minaretelor proeminente ale Moscheii centrale Juma din Harar.",
+                  "category": "natural",
+                  "coords": [
+                        42.136901,
+                        9.314607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Juma Mosque View",
+                  "text": "This scenic lookout provides an excellent elevated perspective of the prominent minarets of Harar's central Juma Mosque.",
+                  "category": "natural",
+                  "coords": [
+                        42.136901,
+                        9.314607
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-HA",
     coords: [42.135, 9.311],
@@ -1303,7 +4705,268 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "harar-jugol-walls-landmarks-v2",
+    id: "harar-jugol-walls-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hyena Feeding Spot",
+                  "text": "An diesem staubigen Ort direkt vor den alten Mauern von Harar setzen einheimische \"Hyänenmänner\" die generationenalte Tradition fort, wilde Tüpfelhyänen mit der Hand zu füttern.",
+                  "category": "landmark",
+                  "coords": [
+                        42.146671,
+                        9.303866
+                  ]
+            },
+            {
+                  "name": "Thume Kumbi",
+                  "text": "Thume Kumbi ist eine faszinierende historische Stätte, die in das dichte, alte städtische Gefüge von Harar Jugol integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.142529,
+                        9.307656
+                  ]
+            },
+            {
+                  "name": "Harari Community Museum",
+                  "text": "In der ummauerten Stadt bewahrt dieses Museum aufwendige traditionelle Harari-Kleidung, alte Korane und einheimisches Kunsthandwerk auf.",
+                  "category": "museum",
+                  "coords": [
+                        42.140057,
+                        9.310596
+                  ]
+            },
+            {
+                  "name": "Abida Mosque Drum Place",
+                  "text": "Dieser einzigartige Innenhof der Abida-Moschee wird traditionell für rhythmisches Trommeln während religiöser Zeremonien in Harar genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.139015,
+                        9.312162
+                  ]
+            },
+            {
+                  "name": "Haile Selassie House",
+                  "text": "Diese historische mehrstöckige Residenz diente einst als Elternhaus von Kaiser Haile Selassie innerhalb der ummauerten Stadt Harar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137368,
+                        9.309728
+                  ]
+            },
+            {
+                  "name": "Harar cultural museum",
+                  "text": "Diese kulturelle Einrichtung widmet sich dem Schutz des einzigartigen architektonischen Erbes und der lebendigen ethnischen Traditionen der Harari.",
+                  "category": "museum",
+                  "coords": [
+                        42.137621,
+                        9.310974
+                  ]
+            },
+            {
+                  "name": "Blacksmiths",
+                  "text": "Das traditionelle Schmiedeviertel in Harar summt vom Klang der Handwerker, die über offenen Feuern Metallwerkzeuge und kunstvolle Souvenirs schmieden.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137082,
+                        9.307702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hyena Feeding Spot",
+                  "text": "Ezen a poros helyen, közvetlenül Harar ősi falain kívül, a helyi \"hiénaemberek\" folytatják a vad foltos hiénák kézből történő etetésének generációkra visszanyúló hagyományát.",
+                  "category": "landmark",
+                  "coords": [
+                        42.146671,
+                        9.303866
+                  ]
+            },
+            {
+                  "name": "Thume Kumbi",
+                  "text": "A Thume Kumbi egy lenyűgöző történelmi helyszín, amely Harar Jugol sűrű, ősi városszerkezetébe illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        42.142529,
+                        9.307656
+                  ]
+            },
+            {
+                  "name": "Harari Community Museum",
+                  "text": "A fallal körülvett városban található múzeum bonyolult hagyományos harari ruházatot, régi Koránokat és őslakos kézműves tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        42.140057,
+                        9.310596
+                  ]
+            },
+            {
+                  "name": "Abida Mosque Drum Place",
+                  "text": "Az Abida mecset ezen egyedi udvarát hagyományosan ritmikus dobolásra használják a harari vallási szertartások során.",
+                  "category": "landmark",
+                  "coords": [
+                        42.139015,
+                        9.312162
+                  ]
+            },
+            {
+                  "name": "Haile Selassie House",
+                  "text": "Ez a történelmi többszintes rezidencia egykor Haile Selassie császár gyermekkori otthonaként szolgált a fallal körülvett Harar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137368,
+                        9.309728
+                  ]
+            },
+            {
+                  "name": "Harar cultural museum",
+                  "text": "Ez a kulturális intézmény a harari nép egyedülálló építészeti örökségének és élénk etnikai hagyományainak megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        42.137621,
+                        9.310974
+                  ]
+            },
+            {
+                  "name": "Blacksmiths",
+                  "text": "Harar hagyományos kovácsnegyede zeng a kézművesek zajától, amint fém szerszámokat és bonyolult ajándéktárgyakat kovácsolnak a nyílt láng felett.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137082,
+                        9.307702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hyena Feeding Spot",
+                  "text": "În acest loc prăfuit situat chiar în afara zidurilor antice din Harar, „oamenii hienelor” locali continuă tradiția veche de generații de a hrăni cu mâna hienele pătate sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        42.146671,
+                        9.303866
+                  ]
+            },
+            {
+                  "name": "Thume Kumbi",
+                  "text": "Thume Kumbi este un sit istoric fascinant integrat în țesutul urban dens și antic al Harar Jugol.",
+                  "category": "landmark",
+                  "coords": [
+                        42.142529,
+                        9.307656
+                  ]
+            },
+            {
+                  "name": "Harari Community Museum",
+                  "text": "Situat în orașul fortificat, acest muzeu păstrează îmbrăcăminte tradițională Harari complicată, Coranuri vechi și meșteșuguri indigene.",
+                  "category": "museum",
+                  "coords": [
+                        42.140057,
+                        9.310596
+                  ]
+            },
+            {
+                  "name": "Abida Mosque Drum Place",
+                  "text": "Acest spațiu unic din curtea Moscheii Abida este folosit în mod tradițional pentru tobe ritmice în timpul ceremoniilor religioase din Harar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.139015,
+                        9.312162
+                  ]
+            },
+            {
+                  "name": "Haile Selassie House",
+                  "text": "Această reședință istorică cu mai multe etaje a servit cândva drept casă a copilăriei împăratului Haile Selassie în orașul fortificat Harar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137368,
+                        9.309728
+                  ]
+            },
+            {
+                  "name": "Harar cultural museum",
+                  "text": "Această instituție culturală este dedicată salvgardării moștenirii arhitecturale unice și a tradițiilor etnice vibrante ale poporului Harari.",
+                  "category": "museum",
+                  "coords": [
+                        42.137621,
+                        9.310974
+                  ]
+            },
+            {
+                  "name": "Blacksmiths",
+                  "text": "Cartierul tradițional al fierarilor din Harar freamătă de sunetul artizanilor care forjează unelte din metal și suveniruri complicate deasupra focurilor deschise.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137082,
+                        9.307702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hyena Feeding Spot",
+                  "text": "At this dusty site just outside Harar's ancient walls, local \"hyena men\" continue the generations-old tradition of hand-feeding wild spotted hyenas.",
+                  "category": "landmark",
+                  "coords": [
+                        42.146671,
+                        9.303866
+                  ]
+            },
+            {
+                  "name": "Thume Kumbi",
+                  "text": "Thume Kumbi is an intriguing historic site integrated into the dense, ancient urban fabric of Harar Jugol.",
+                  "category": "landmark",
+                  "coords": [
+                        42.142529,
+                        9.307656
+                  ]
+            },
+            {
+                  "name": "Harari Community Museum",
+                  "text": "Situated within the walled city, this museum preserves intricate traditional Harari clothing, old Qurans, and indigenous crafts.",
+                  "category": "museum",
+                  "coords": [
+                        42.140057,
+                        9.310596
+                  ]
+            },
+            {
+                  "name": "Abida Mosque Drum Place",
+                  "text": "This unique courtyard space at the Abida Mosque is traditionally used for rhythmic drumming during religious ceremonies in Harar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.139015,
+                        9.312162
+                  ]
+            },
+            {
+                  "name": "Haile Selassie House",
+                  "text": "This historic multi-story residence once served as the childhood home of Emperor Haile Selassie within the walled city of Harar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137368,
+                        9.309728
+                  ]
+            },
+            {
+                  "name": "Harar cultural museum",
+                  "text": "This cultural institution is dedicated to safeguarding the unique architectural heritage and vibrant ethnic traditions of the Harari people.",
+                  "category": "museum",
+                  "coords": [
+                        42.137621,
+                        9.310974
+                  ]
+            },
+            {
+                  "name": "Blacksmiths",
+                  "text": "The traditional blacksmiths' quarter in Harar hums with the sound of artisans forging metal tools and intricate souvenirs over open fires.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137082,
+                        9.307702
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-HA",
     coords: [42.138, 9.31],
@@ -1351,7 +5014,88 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       fr: ["Un site remarquable.", "Attire de nombreux visiteurs."],
     }, image: "/poi-images/harar-jugol-walls-landmarks-v2.webp"},
     {
-    id: "biete-amanuel-landmarks-v2",
+    id: "biete-amanuel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "አሸተን የመኪና ማቆሚያ",
+                  "text": "Ein praktischer Parkplatz, der als Ausgangspunkt für Besucher dient, die in Richtung Asheton Maryam in Lalibela wandern.",
+                  "category": "landmark",
+                  "coords": [
+                        39.069786,
+                        12.020789
+                  ]
+            },
+            {
+                  "name": "Stone Hole",
+                  "text": "Ein bemerkenswertes Loch, das vollständig aus massivem Fels gehauen wurde und als einzigartige historische Attraktion in der Nähe von Lalibela fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.072055,
+                        12.019362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "አሸተን የመኪና ማቆሚያ",
+                  "text": "Praktikus parkoló, amely kiindulópontként szolgál a Lalibelában az Asheton Maryam felé túrázó látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.069786,
+                        12.020789
+                  ]
+            },
+            {
+                  "name": "Stone Hole",
+                  "text": "A tömör sziklából teljesen kivájt figyelemre méltó lyuk, amely egyedülálló történelmi látványosságként működik Lalibela közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.072055,
+                        12.019362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "አሸተን የመኪና ማቆሚያ",
+                  "text": "O zonă de parcare practică ce servește drept punct de plecare pentru vizitatorii care fac drumeții către Asheton Maryam în Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.069786,
+                        12.020789
+                  ]
+            },
+            {
+                  "name": "Stone Hole",
+                  "text": "O gaură notabilă sculptată în întregime din stâncă solidă, care funcționează ca o atracție istorică unică în apropiere de Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.072055,
+                        12.019362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asheton Car Parking",
+                  "text": "A practical parking area serving as a starting point for visitors trekking towards Asheton Maryam in Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.069786,
+                        12.020789
+                  ]
+            },
+            {
+                  "name": "Stone Hole",
+                  "text": "A notable hole carved entirely out of solid rock, functioning as a unique historic attraction near Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.072055,
+                        12.019362
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ET-AM",
     coords: [39.044, 12.03],

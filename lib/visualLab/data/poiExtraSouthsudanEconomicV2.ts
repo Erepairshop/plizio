@@ -147,7 +147,160 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     },
   },
   {
-    id: "juba-river-port-economic-v2",
+    id: "juba-river-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Juba River Port",
+                  "text": "Ein geschäftiger wirtschaftlicher Knotenpunkt, der den Bootsverkehr und die Frachttransporte auf dem Weißen Nil abwickelt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.620234,
+                        4.858298
+                  ]
+            },
+            {
+                  "name": "National Constituțional Review Commission (NCRC)",
+                  "text": "Das Verwaltungsbüro, das für die Überprüfung der Verfassung des Südsudans zuständig ist und sich in der Nähe des Flusshafens befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.613007,
+                        4.852771
+                  ]
+            },
+            {
+                  "name": "Liz Jub",
+                  "text": "Ein bemerkenswertes lokales Wohnhaus in der Nähe des belebten Flusshafens von Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612679,
+                        4.854878
+                  ]
+            },
+            {
+                  "name": "Sunken Ferry",
+                  "text": "Das teilweise versunkene Wrack einer Fähre, das in den Gewässern des Weißen Nils rostet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.618446,
+                        4.837311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Juba River Port",
+                  "text": "A Fehér-Níluson haladó hajóforgalmat és áruszállítást bonyolító nyüzsgő gazdasági csomópont.",
+                  "category": "landmark",
+                  "coords": [
+                        31.620234,
+                        4.858298
+                  ]
+            },
+            {
+                  "name": "National Constituțional Review Commission (NCRC)",
+                  "text": "A Dél-Szudán alkotmányának felülvizsgálatáért felelős közigazgatási iroda, amely a folyami kikötő közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.613007,
+                        4.852771
+                  ]
+            },
+            {
+                  "name": "Liz Jub",
+                  "text": "A nyüzsgő jubai folyami kikötő szomszédságában található nevezetes helyi lakóház.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612679,
+                        4.854878
+                  ]
+            },
+            {
+                  "name": "Sunken Ferry",
+                  "text": "Egy komp részlegesen elsüllyedt, rozsdásodó roncsa a Fehér-Nílus vizében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.618446,
+                        4.837311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Juba River Port",
+                  "text": "Un centru economic plin de viață care gestionează traficul de bărci și transporturile de mărfuri de-a lungul Nilului Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        31.620234,
+                        4.858298
+                  ]
+            },
+            {
+                  "name": "National Constituțional Review Commission (NCRC)",
+                  "text": "Biroul administrativ responsabil cu revizuirea constituției Sudanului de Sud, situat lângă portul fluvial.",
+                  "category": "landmark",
+                  "coords": [
+                        31.613007,
+                        4.852771
+                  ]
+            },
+            {
+                  "name": "Liz Jub",
+                  "text": "O locuință rezidențială locală notabilă situată în vecinătatea plin de viață a portului fluvial Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612679,
+                        4.854878
+                  ]
+            },
+            {
+                  "name": "Sunken Ferry",
+                  "text": "Epava parțial scufundată a unui feribot care ruginește în apele Nilului Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        31.618446,
+                        4.837311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Juba River Port",
+                  "text": "A bustling economic hub handling boat traffic and cargo shipments along the White Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        31.620234,
+                        4.858298
+                  ]
+            },
+            {
+                  "name": "National Constituțional Review Commission (NCRC)",
+                  "text": "The administrative office responsible for reviewing South Sudan's constitution, located near the river port.",
+                  "category": "landmark",
+                  "coords": [
+                        31.613007,
+                        4.852771
+                  ]
+            },
+            {
+                  "name": "Liz Jubek's house",
+                  "text": "A notable local residential house located in the vicinity of the bustling Juba River Port.",
+                  "category": "landmark",
+                  "coords": [
+                        31.612679,
+                        4.854878
+                  ]
+            },
+            {
+                  "name": "Sunken Ferry",
+                  "text": "The partially submerged wreck of a ferry boat rusting in the waters of the White Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        31.618446,
+                        4.837311
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SS-EC",
     coords: [31.62, 4.85],
@@ -435,7 +588,52 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     },
   },
   {
-    id: "kapoeta-gold-mines-economic-v2",
+    id: "kapoeta-gold-mines-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church ruins",
+                  "text": "Die Kirchenruinen zeigen die bröckelnden Steinfundamente eines historischen Gotteshauses in der Nähe des Goldabbaugebiets von Kapoeta.",
+                  "category": "historical",
+                  "coords": [
+                        33.603988,
+                        4.741603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church ruins",
+                  "text": "A templomromok egy történelmi istentiszteleti hely omladozó kőalapjait mutatják a kapoetai aranybányászati körzet közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.603988,
+                        4.741603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church ruins",
+                  "text": "Ruinele bisericii prezintă fundațiile de piatră fărâmicioase ale unui lăcaș de cult istoric din apropierea districtului de extracție a aurului Kapoeta.",
+                  "category": "historical",
+                  "coords": [
+                        33.603988,
+                        4.741603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church ruins",
+                  "text": "The church ruins feature the crumbling stone foundations of a historical place of worship near the Kapoeta gold mining district.",
+                  "category": "historical",
+                  "coords": [
+                        33.603988,
+                        4.741603
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SS-EE",
     coords: [33.58, 4.77],

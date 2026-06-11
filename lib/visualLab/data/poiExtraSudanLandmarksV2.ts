@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraSudanLandmarksV2: POI[] = [
   {
-    id: "pyramids-of-meroe-landmarks-v2",
+    id: "pyramids-of-meroe-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hamdab",
+                  "text": "Die archäologische Stätte von Hamdab offenbart die ausgegrabenen Grundmauern einer antiken Siedlung in der Nähe des Zentrums von Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.694056,
+                        16.914767
+                  ]
+            },
+            {
+                  "name": "Pyramids of Meroe",
+                  "text": "Diese UNESCO-Welterbestätte umfasst Dutzende steil aufragende antike nubische Pyramiden, die markant aus dem Sand der Wüste aufragen.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750303,
+                        16.937323
+                  ]
+            },
+            {
+                  "name": "Tickets and entrance",
+                  "text": "Dieses Verwaltungsgebäude am Wüstenrand dient als formeller Zugang und Ticketschalter für die Erkundung der Pyramiden von Meroe.",
+                  "category": "museum",
+                  "coords": [
+                        33.753872,
+                        16.932185
+                  ]
+            },
+            {
+                  "name": "Amun temple",
+                  "text": "Die verbliebenen Steinwidder und Säulen des Amun-Tempels markieren den zeremoniellen Zugang, der der Königsstadt Meroe diente.",
+                  "category": "historical",
+                  "coords": [
+                        33.711194,
+                        16.936812
+                  ]
+            },
+            {
+                  "name": "Temple of the Sun",
+                  "text": "Dieser antike Sonnentempel ist ein monumentales Zeugnis der kuschitischen Verehrung in Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.721884,
+                        16.930019
+                  ]
+            },
+            {
+                  "name": "Pyramid beg. w18",
+                  "text": "Diese nubische Pyramide (beg. w18) mit ihren steilen Flanken ist ein markantes Grabmonument der kuschitischen Elite.",
+                  "category": "historical",
+                  "coords": [
+                        33.728922,
+                        16.932355
+                  ]
+            },
+            {
+                  "name": "Pyramid",
+                  "text": "Die verwitterten Steine dieser Pyramidenruine markieren eine historische Grabstätte der Kuschiten.",
+                  "category": "historical",
+                  "coords": [
+                        33.728658,
+                        16.933287
+                  ]
+            },
+            {
+                  "name": "Meroe Royal Baths",
+                  "text": "Die Ruinen der Königlichen Bäder von Meroe zeigen überraschende römische Einflüsse in der antiken kuschitischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        33.709064,
+                        16.937292
+                  ]
+            },
+            {
+                  "name": "Information and furnace model",
+                  "text": "Dieses Informationsmodell demonstriert die hoch entwickelten antiken Eisenschmelztechniken, die in Meroe angewandt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        33.714763,
+                        16.93437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hamdab",
+                  "text": "Hamdab régészeti lelőhelye egy Meroé központjához közeli ősi település feltárt alapfalait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        33.694056,
+                        16.914767
+                  ]
+            },
+            {
+                  "name": "Pyramids of Meroe",
+                  "text": "Ez az UNESCO világörökségi helyszín tucatnyi meredeken emelkedő, ősi núbiai piramist foglal magában, amelyek élesen elütnek a sivatag homokjától.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750303,
+                        16.937323
+                  ]
+            },
+            {
+                  "name": "Tickets and entrance",
+                  "text": "Ez a sivatag szélén található adminisztratív épület hivatalos bejáratként és jegypénztárként szolgál a Meroé piramisok felfedezéséhez.",
+                  "category": "museum",
+                  "coords": [
+                        33.753872,
+                        16.932185
+                  ]
+            },
+            {
+                  "name": "Amun temple",
+                  "text": "Az Ámon-templom megmaradt kő kosai és oszlopai jelzik a ceremoniális bejáratot, amely Meroé királyi városát szolgálta ki.",
+                  "category": "historical",
+                  "coords": [
+                        33.711194,
+                        16.936812
+                  ]
+            },
+            {
+                  "name": "Temple of the Sun",
+                  "text": "Ez az ókori naptemplom a kusita istentisztelet monumentális emléke Meroéban.",
+                  "category": "historical",
+                  "coords": [
+                        33.721884,
+                        16.930019
+                  ]
+            },
+            {
+                  "name": "Pyramid beg. w18",
+                  "text": "Ez a meredek falú núbiai piramis (beg. w18) a kusita elit egykori temetkezési helye.",
+                  "category": "historical",
+                  "coords": [
+                        33.728922,
+                        16.932355
+                  ]
+            },
+            {
+                  "name": "Pyramid",
+                  "text": "Ennek a piramisromnak a mállott kövei egy történelmi kusita temetkezési helyet jelölnek.",
+                  "category": "historical",
+                  "coords": [
+                        33.728658,
+                        16.933287
+                  ]
+            },
+            {
+                  "name": "Meroe Royal Baths",
+                  "text": "A meroéi királyi fürdők romjai meglepő római hatásokat mutatnak az ókori kusita fővárosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.709064,
+                        16.937292
+                  ]
+            },
+            {
+                  "name": "Information and furnace model",
+                  "text": "Ez az információs modell bemutatja a Meroéban alkalmazott magasan fejlett ókori vasolvasztási technikákat.",
+                  "category": "landmark",
+                  "coords": [
+                        33.714763,
+                        16.93437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hamdab",
+                  "text": "Situl arheologic Hamdab dezvăluie fundațiile excavate ale unei așezări antice aflate în apropierea centrului Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.694056,
+                        16.914767
+                  ]
+            },
+            {
+                  "name": "Pyramids of Meroe",
+                  "text": "Acest sit de patrimoniu UNESCO prezintă zeci de piramide nubiene antice abrupte, care se ridică vizibil din nisipul deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750303,
+                        16.937323
+                  ]
+            },
+            {
+                  "name": "Tickets and entrance",
+                  "text": "Această clădire administrativă de la marginea deșertului servește drept poartă oficială și casă de bilete pentru explorarea Piramidelor din Meroe.",
+                  "category": "museum",
+                  "coords": [
+                        33.753872,
+                        16.932185
+                  ]
+            },
+            {
+                  "name": "Amun temple",
+                  "text": "Berbecii de piatră și coloanele rămase ale templului lui Amon marchează intrarea ceremonială care deservea orașul regal Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.711194,
+                        16.936812
+                  ]
+            },
+            {
+                  "name": "Temple of the Sun",
+                  "text": "Acest templu antic al soarelui este un monument al venerației cușite din Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.721884,
+                        16.930019
+                  ]
+            },
+            {
+                  "name": "Pyramid beg. w18",
+                  "text": "Această piramidă nubiană cu pereți abrupți (beg. w18) este un monument funerar al elitei cușite.",
+                  "category": "historical",
+                  "coords": [
+                        33.728922,
+                        16.932355
+                  ]
+            },
+            {
+                  "name": "Pyramid",
+                  "text": "Pietrele erodate ale acestei ruine de piramidă marchează un loc de veci istoric al cușiților.",
+                  "category": "historical",
+                  "coords": [
+                        33.728658,
+                        16.933287
+                  ]
+            },
+            {
+                  "name": "Meroe Royal Baths",
+                  "text": "Ruinele Băilor Regale din Meroe prezintă influențe romane surprinzătoare în capitala antică cușită.",
+                  "category": "historical",
+                  "coords": [
+                        33.709064,
+                        16.937292
+                  ]
+            },
+            {
+                  "name": "Information and furnace model",
+                  "text": "Acest model informativ demonstrează tehnicile antice extrem de dezvoltate de topire a fierului folosite la Meroe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.714763,
+                        16.93437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hamdab",
+                  "text": "The archaeological site of Hamdab reveals the excavated foundation walls of an ancient settlement near the center of Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.694056,
+                        16.914767
+                  ]
+            },
+            {
+                  "name": "Pyramids of Meroe",
+                  "text": "This UNESCO heritage site features dozens of steeply pitched ancient Nubian pyramids rising prominently from the desert sand.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750303,
+                        16.937323
+                  ]
+            },
+            {
+                  "name": "Tickets and entrance",
+                  "text": "This administrative building at the desert's edge serves as the formal gateway and ticket office for exploring the Pyramids of Meroe.",
+                  "category": "museum",
+                  "coords": [
+                        33.753872,
+                        16.932185
+                  ]
+            },
+            {
+                  "name": "Amun temple",
+                  "text": "The remaining stone rams and pillars of the Amun temple mark the ceremonial entrance that served the royal city of Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.711194,
+                        16.936812
+                  ]
+            },
+            {
+                  "name": "Temple of the Sun",
+                  "text": "This ancient sun temple is a monumental testament to Kushite worship in Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.721884,
+                        16.930019
+                  ]
+            },
+            {
+                  "name": "Pyramid beg. w18",
+                  "text": "This steep-sided Nubian pyramid (beg. w18) stands as a prominent funerary monument for the Kushite elite.",
+                  "category": "historical",
+                  "coords": [
+                        33.728922,
+                        16.932355
+                  ]
+            },
+            {
+                  "name": "Pyramid",
+                  "text": "The weathered stones of this pyramid ruin mark a historical burial site of the Kushites.",
+                  "category": "historical",
+                  "coords": [
+                        33.728658,
+                        16.933287
+                  ]
+            },
+            {
+                  "name": "Meroe Royal Baths",
+                  "text": "The ruins of the Meroe Royal Baths showcase surprising Roman influences within the ancient Kushite capital.",
+                  "category": "historical",
+                  "coords": [
+                        33.709064,
+                        16.937292
+                  ]
+            },
+            {
+                  "name": "Information and furnace model",
+                  "text": "This information model demonstrates the highly developed ancient iron smelting techniques used in Meroe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.714763,
+                        16.93437
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-NR",
     coords: [33.7489, 16.9372],
@@ -71,7 +404,124 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sudan-national-museum-landmarks-v2",
+    id: "sudan-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Traditional music and dance, Friday 3pm",
+                  "text": "Eine kulturelle Attraktion mit wöchentlichen traditionellen Aufführungen neben dem sudanesischen Nationalmuseum.",
+                  "category": "landmark",
+                  "coords": [
+                        32.498164,
+                        15.596727
+                  ]
+            },
+            {
+                  "name": "Souvenir market",
+                  "text": "Ein geschäftiger Markt mit lokalem Kunsthandwerk neben dem Nationalmuseum des Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        32.513402,
+                        15.59747
+                  ]
+            },
+            {
+                  "name": "National Museum of Sudan",
+                  "text": "Das größte Museum des Landes, das nubische Altertümer und umgesiedelte antike Tempel beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        32.508361,
+                        15.606106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Traditional music and dance, Friday 3pm",
+                  "text": "Kulturális látványosság, ahol hetente hagyományos előadásokat tartanak a Nemzeti Múzeum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.498164,
+                        15.596727
+                  ]
+            },
+            {
+                  "name": "Souvenir market",
+                  "text": "Egy nyüzsgő piac, amely helyi kézműves termékeket és árukat kínál a Szudáni Nemzeti Múzeum mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        32.513402,
+                        15.59747
+                  ]
+            },
+            {
+                  "name": "National Museum of Sudan",
+                  "text": "Az ország legnagyobb múzeuma, amely núbiai régiségeknek és áttelepített ősi templomoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        32.508361,
+                        15.606106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Traditional music and dance, Friday 3pm",
+                  "text": "O atracție culturală care oferă spectacole tradiționale săptămânale lângă Muzeul Național.",
+                  "category": "landmark",
+                  "coords": [
+                        32.498164,
+                        15.596727
+                  ]
+            },
+            {
+                  "name": "Souvenir market",
+                  "text": "O piață plină de viață care oferă meșteșuguri și bunuri locale lângă Muzeul Național al Sudanului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.513402,
+                        15.59747
+                  ]
+            },
+            {
+                  "name": "National Museum of Sudan",
+                  "text": "Cel mai mare muzeu al țării care adăpostește antichități nubiene și temple antice relocate.",
+                  "category": "museum",
+                  "coords": [
+                        32.508361,
+                        15.606106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Traditional music and dance, Friday 3pm",
+                  "text": "A cultural attraction featuring weekly traditional performances near the National Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        32.498164,
+                        15.596727
+                  ]
+            },
+            {
+                  "name": "Souvenir market",
+                  "text": "A bustling market offering local crafts and goods next to the Sudan National Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        32.513402,
+                        15.59747
+                  ]
+            },
+            {
+                  "name": "National Museum of Sudan",
+                  "text": "The country's largest museum housing Nubian antiquities and relocated ancient temples.",
+                  "category": "museum",
+                  "coords": [
+                        32.508361,
+                        15.606106
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5085, 15.6038],
@@ -139,7 +589,124 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "al-nilin-mosque-landmarks-v2",
+    id: "al-nilin-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boat trips, £20",
+                  "text": "Besucher können an diesem Dock kleine Motorboote für malerische Ausflüge auf dem Nil mieten.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490898,
+                        15.626978
+                  ]
+            },
+            {
+                  "name": "Resta",
+                  "text": "Dieses hochgelegene Aussichtsrestaurant bietet traditionelle Shisha sowie Mahlzeiten mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        32.494425,
+                        15.633187
+                  ]
+            },
+            {
+                  "name": "Eltabya Omdurman",
+                  "text": "Diese Verteidigungsfestung am Flussufer verfügt über dicke Mauern, die gebaut wurden, um den Zugang entlang der Wasserstraße zu kontrollieren.",
+                  "category": "fortress",
+                  "coords": [
+                        32.492775,
+                        15.632464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boat trips, £20",
+                  "text": "A látogatók kis motorcsónakokat bérelhetnek ezen a dokkon, hogy festői kirándulásokat tegyenek a Níluson.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490898,
+                        15.626978
+                  ]
+            },
+            {
+                  "name": "Resta",
+                  "text": "Ez a magaslati kilátóhely hagyományos vízipipát és ételeket kínál panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        32.494425,
+                        15.633187
+                  ]
+            },
+            {
+                  "name": "Eltabya Omdurman",
+                  "text": "Ez a folyóparti védelmi erőd vastag falakkal rendelkezik, amelyeket a vízi úton való hozzáférés ellenőrzésére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        32.492775,
+                        15.632464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boat trips, £20",
+                  "text": "Vizitatorii pot închiria bărci mici cu motor de la acest doc pentru excursii pitorești pe Nil.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490898,
+                        15.626978
+                  ]
+            },
+            {
+                  "name": "Resta",
+                  "text": "Acest punct de belvedere înalt oferă narghilea tradițională alături de mese cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        32.494425,
+                        15.633187
+                  ]
+            },
+            {
+                  "name": "Eltabya Omdurman",
+                  "text": "Acest fort defensiv de pe malul râului prezintă ziduri groase construite pentru a controla accesul de-a lungul căii navigabile.",
+                  "category": "fortress",
+                  "coords": [
+                        32.492775,
+                        15.632464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boat trips, £20",
+                  "text": "Visitors can hire small motorboats from this dock for scenic excursions along the Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490898,
+                        15.626978
+                  ]
+            },
+            {
+                  "name": "Restaurant and shishya",
+                  "text": "This elevated viewpoint establishment offers traditional shisha alongside meals with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        32.494425,
+                        15.633187
+                  ]
+            },
+            {
+                  "name": "Eltabya Omdurman",
+                  "text": "This riverside defensive fort features thick walls built to control access along the waterway.",
+                  "category": "fortress",
+                  "coords": [
+                        32.492775,
+                        15.632464
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.4939, 15.6158],
@@ -399,7 +966,160 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mac-nimir-bridge-landmarks-v2",
+    id: "mac-nimir-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "Ein intimes Kunststudio und eine Galerie an der Mac-Nimir-Brücke.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "United Nations Development Programme (UNDP)",
+                  "text": "Ein monumentaler Ort in Verbindung mit den UNDP-Büros in der Nähe der Mac-Nimir-Brücke.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Ein Museum, das das vielfältige Stammes- und Kulturerbe des Sudan in der Nähe der Mac-Nimir-Brücke bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        32.53426,
+                        15.607997
+                  ]
+            },
+            {
+                  "name": "Natural History Museum",
+                  "text": "Ein Museum mit Ausstellungen zur regionalen Flora und Fauna an der Mac-Nimir-Brücke.",
+                  "category": "museum",
+                  "coords": [
+                        32.5398,
+                        15.608858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "Egy intim művészeti stúdió és galéria a Mac Nimir híd közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "United Nations Development Programme (UNDP)",
+                  "text": "Az UNDP irodáihoz kapcsolódó monumentális helyszín a Mac Nimir híd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Szudán sokszínű törzsi és kulturális örökségét őrző múzeum a Mac Nimir híd közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.53426,
+                        15.607997
+                  ]
+            },
+            {
+                  "name": "Natural History Museum",
+                  "text": "A regionális növény- és állatvilágot bemutató múzeum a Mac Nimir híd közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.5398,
+                        15.608858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "Un studio de artă intim și o galerie lângă Podul Mac Nimir.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "United Nations Development Programme (UNDP)",
+                  "text": "Un sit monumental asociat cu birourile PNUD de lângă Podul Mac Nimir.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Un muzeu care păstrează moștenirea tribală și culturală diversă a Sudanului lângă Podul Mac Nimir.",
+                  "category": "museum",
+                  "coords": [
+                        32.53426,
+                        15.607997
+                  ]
+            },
+            {
+                  "name": "Natural History Museum",
+                  "text": "Un muzeu care prezintă expoziții cu flora și fauna regională lângă Podul Mac Nimir.",
+                  "category": "museum",
+                  "coords": [
+                        32.5398,
+                        15.608858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "An intimate art studio and gallery near the Mac Nimir Bridge.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "United Nations Development Programme (UNDP)",
+                  "text": "A monumental site associated with the UNDP offices near the Mac Nimir Bridge.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "A museum preserving Sudan's diverse tribal and cultural heritage near the Mac Nimir Bridge.",
+                  "category": "museum",
+                  "coords": [
+                        32.53426,
+                        15.607997
+                  ]
+            },
+            {
+                  "name": "Natural History Museum",
+                  "text": "A museum featuring regional flora and fauna exhibits near the Mac Nimir Bridge.",
+                  "category": "museum",
+                  "coords": [
+                        32.5398,
+                        15.608858
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5317, 15.6117],
@@ -467,7 +1187,52 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "al-kabir-mosque-khartoum-landmarks-v2",
+    id: "al-kabir-mosque-khartoum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Turkish Tombs",
+                  "text": "Historische Gräber mit Architektur aus der osmanischen Zeit in der Nähe der Al-Kabir-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        32.52888,
+                        15.603748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turkish Tombs",
+                  "text": "Történelmi sírok oszmán kori építészettel az Al-Kabir mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.52888,
+                        15.603748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turkish Tombs",
+                  "text": "Morminte istorice care reflectă arhitectura din epoca otomană lângă Moscheea Al-Kabir.",
+                  "category": "landmark",
+                  "coords": [
+                        32.52888,
+                        15.603748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turkish Tombs",
+                  "text": "Historical tombs reflecting Ottoman-era architecture near the Al-Kabir Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        32.52888,
+                        15.603748
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5278, 15.6017],
@@ -739,7 +1504,160 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "white-nile-bridge-landmarks-v2",
+    id: "white-nile-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camels",
+                  "text": "Eine lokale Attraktion mit Kamelen in der Nähe der Brücke über den Weißen Nil.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488913,
+                        15.617084
+                  ]
+            },
+            {
+                  "name": "Omdruman Bridge",
+                  "text": "Eine große Brückenstruktur, die als Attraktion über den Weißen Nil dient.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488698,
+                        15.615141
+                  ]
+            },
+            {
+                  "name": "Al Muqran Family Park",
+                  "text": "Ein familienorientierter Themenpark am Zusammenfluss der Nil-Flüsse in der Nähe der Brücke über den Weißen Nil.",
+                  "category": "recreational",
+                  "coords": [
+                        32.495153,
+                        15.612419
+                  ]
+            },
+            {
+                  "name": "Muzan",
+                  "text": "Ein lokaler Vergnügungspark mit Fahrgeschäften in der Nähe der Brücke über den Weißen Nil.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488286,
+                        15.602356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camels",
+                  "text": "Egy helyi, tevéket felvonultató látványosság a Fehér-Nílus hídja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488913,
+                        15.617084
+                  ]
+            },
+            {
+                  "name": "Omdruman Bridge",
+                  "text": "Egy hatalmas híd, amely látványosságként ível át a Fehér-Níluson.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488698,
+                        15.615141
+                  ]
+            },
+            {
+                  "name": "Al Muqran Family Park",
+                  "text": "Egy családközpontú tematikus park a Nílus folyók összefolyásánál, a Fehér-Nílus hídja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.495153,
+                        15.612419
+                  ]
+            },
+            {
+                  "name": "Muzan",
+                  "text": "Egy helyi vidámpark, amely körhintákat kínál a Fehér-Nílus hídja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488286,
+                        15.602356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camels",
+                  "text": "O atracție locală cu cămile, situată lângă Podul de pe Nilul Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488913,
+                        15.617084
+                  ]
+            },
+            {
+                  "name": "Omdruman Bridge",
+                  "text": "O structură de pod majoră care servește ca atracție la trecerea Nilului Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488698,
+                        15.615141
+                  ]
+            },
+            {
+                  "name": "Al Muqran Family Park",
+                  "text": "Un parc de distracții pentru familii situat la confluența Nilului, lângă Podul de pe Nilul Alb.",
+                  "category": "recreational",
+                  "coords": [
+                        32.495153,
+                        15.612419
+                  ]
+            },
+            {
+                  "name": "Muzan",
+                  "text": "Un parc de distracții local care oferă atracții lângă Podul de pe Nilul Alb.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488286,
+                        15.602356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camels",
+                  "text": "A local attraction featuring camels situated near the White Nile Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488913,
+                        15.617084
+                  ]
+            },
+            {
+                  "name": "Omdruman Bridge",
+                  "text": "A major bridge structure serving as an attraction crossing the White Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        32.488698,
+                        15.615141
+                  ]
+            },
+            {
+                  "name": "Al Muqran Family Park",
+                  "text": "A family-oriented theme park located at the confluence of the Niles near the White Nile Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        32.495153,
+                        15.612419
+                  ]
+            },
+            {
+                  "name": "Muzan",
+                  "text": "A local theme park offering rides near the White Nile Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488286,
+                        15.602356
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.4917, 15.6133],
@@ -807,7 +1725,52 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "burri-bridge-landmarks-v2",
+    id: "burri-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buri Family Park",
+                  "text": "Der Buri Family Park ist ein familienfreundlicher Freizeitpark mit gepflegten Spazierwegen und Spielbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555776,
+                        15.607255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buri Family Park",
+                  "text": "A Buri Family Park egy családbarát vidámpark, amely gondozott sétányokkal és játszóterekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555776,
+                        15.607255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buri Family Park",
+                  "text": "Buri Family Park este un parc de distracții pentru familii, oferind alei amenajate și zone de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555776,
+                        15.607255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buri Family Park",
+                  "text": "Buri Family Park is a family-oriented theme park featuring landscaped walking paths and play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555776,
+                        15.607255
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5517, 15.6017],
@@ -943,7 +1906,160 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ntc-tower-landmarks-v2",
+    id: "ntc-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Syrian Club",
+                  "text": "Ein gesellschaftlicher und theatralischer Veranstaltungsort für die syrische Gemeinschaft in der Nähe des NTC Towers.",
+                  "category": "cultural",
+                  "coords": [
+                        32.542207,
+                        15.587632
+                  ]
+            },
+            {
+                  "name": "Palace Hall",
+                  "text": "Eine Aussichtshalle, die einen Blick über das Gelände des NTC Towers bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.544144,
+                        15.586188
+                  ]
+            },
+            {
+                  "name": "O Zone",
+                  "text": "Eine beliebte Open-Air-Attraktion und ein Café-Bereich am NTC Tower.",
+                  "category": "landmark",
+                  "coords": [
+                        32.537521,
+                        15.58556
+                  ]
+            },
+            {
+                  "name": "Dabanga Gallery",
+                  "text": "Eine Kunstgalerie in der Nähe des NTC Towers, die sudanesisches Handwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.539146,
+                        15.588934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Syrian Club",
+                  "text": "A szíriai közösség társadalmi és színházi helyszíne az NTC Torony közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.542207,
+                        15.587632
+                  ]
+            },
+            {
+                  "name": "Palace Hall",
+                  "text": "Egy kilátócsarnok, ahonnan kilátás nyílik az NTC Torony területére.",
+                  "category": "natural",
+                  "coords": [
+                        32.544144,
+                        15.586188
+                  ]
+            },
+            {
+                  "name": "O Zone",
+                  "text": "Egy népszerű szabadtéri látványosság és kávézó az NTC Torony közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.537521,
+                        15.58556
+                  ]
+            },
+            {
+                  "name": "Dabanga Gallery",
+                  "text": "Egy művészeti galéria az NTC Torony közelében, amely szudáni kézműves termékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.539146,
+                        15.588934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Syrian Club",
+                  "text": "Un loc social și teatral pentru comunitatea siriană lângă Turnul NTC.",
+                  "category": "cultural",
+                  "coords": [
+                        32.542207,
+                        15.587632
+                  ]
+            },
+            {
+                  "name": "Palace Hall",
+                  "text": "O sală de vizionare care oferă perspective asupra zonei Turnului NTC.",
+                  "category": "natural",
+                  "coords": [
+                        32.544144,
+                        15.586188
+                  ]
+            },
+            {
+                  "name": "O Zone",
+                  "text": "O atracție populară în aer liber și o zonă de cafenea lângă Turnul NTC.",
+                  "category": "landmark",
+                  "coords": [
+                        32.537521,
+                        15.58556
+                  ]
+            },
+            {
+                  "name": "Dabanga Gallery",
+                  "text": "O galerie de artă care prezintă măiestria sudaneză lângă Turnul NTC.",
+                  "category": "museum",
+                  "coords": [
+                        32.539146,
+                        15.588934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Syrian Club",
+                  "text": "A social and theatrical venue for the Syrian community near the NTC Tower.",
+                  "category": "cultural",
+                  "coords": [
+                        32.542207,
+                        15.587632
+                  ]
+            },
+            {
+                  "name": "Palace Hall",
+                  "text": "A viewing hall offering perspectives over the NTC Tower area.",
+                  "category": "natural",
+                  "coords": [
+                        32.544144,
+                        15.586188
+                  ]
+            },
+            {
+                  "name": "O Zone",
+                  "text": "A popular open-air attraction and café area near the NTC Tower.",
+                  "category": "landmark",
+                  "coords": [
+                        32.537521,
+                        15.58556
+                  ]
+            },
+            {
+                  "name": "Dabanga Gallery",
+                  "text": "An art gallery showcasing Sudanese craftsmanship near the NTC Tower.",
+                  "category": "museum",
+                  "coords": [
+                        32.539146,
+                        15.588934
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5450, 15.5867],
@@ -1011,7 +2127,52 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "corinthia-hotel-khartoum-landmarks-v2",
+    id: "corinthia-hotel-khartoum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Friendship Conference Hall",
+                  "text": "Ein großer Konferenz- und Theaterkomplex in der Nähe des markanten Corinthia Hotels.",
+                  "category": "cultural",
+                  "coords": [
+                        32.511123,
+                        15.605725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Friendship Conference Hall",
+                  "text": "Egy nagy konferencia- és színházkomplexum a jellegzetes Corinthia Hotel közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.511123,
+                        15.605725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Friendship Conference Hall",
+                  "text": "Un complex mare de conferințe și teatre situat lângă distinctivul Hotel Corinthia.",
+                  "category": "cultural",
+                  "coords": [
+                        32.511123,
+                        15.605725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Friendship Conference Hall",
+                  "text": "A large conference and theatre complex located near the distinctive Corinthia Hotel.",
+                  "category": "cultural",
+                  "coords": [
+                        32.511123,
+                        15.605725
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5139, 15.6067],
@@ -1147,7 +2308,124 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "amun-temple-jebel-barkal-landmarks-v2",
+    id: "amun-temple-jebel-barkal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyramids of Jebel Barkal",
+                  "text": "Die steilen Pyramiden von Jebel Barkal dienen als majestätische Königsgräber direkt am Fuße eines markanten Sandsteinberges.",
+                  "category": "historical",
+                  "coords": [
+                        31.822284,
+                        18.538064
+                  ]
+            },
+            {
+                  "name": "Mut Temple",
+                  "text": "Der antike Mut-Tempel am Jebel Barkal verfügt über Heiligtümer, die auf einzigartige Weise tief in die Felswand des Berges gehauen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        31.828906,
+                        18.534755
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Dieses lokale Museum zeigt eine Sammlung gut erhaltener historischer Statuen und Relikte, die rund um Jebel Barkal ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        31.830985,
+                        18.539492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyramids of Jebel Barkal",
+                  "text": "A meredek falú Jebel Barkal piramisok fenséges királyi sírokként szolgálnak közvetlenül egy kiemelkedő homokkőhegy lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        31.822284,
+                        18.538064
+                  ]
+            },
+            {
+                  "name": "Mut Temple",
+                  "text": "A Jebel Barkal-i ősi Mut-templom szentélyeit egyedülálló módon, mélyen a hegy sziklafalába faragták.",
+                  "category": "historical",
+                  "coords": [
+                        31.828906,
+                        18.534755
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Ez a helyi múzeum a Jebel Barkal körül feltárt jól megőrzött történelmi szobrok és relikviák gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.830985,
+                        18.539492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyramids of Jebel Barkal",
+                  "text": "Piramidele cu laturi abrupte de la Jebel Barkal servesc drept morminte regale maiestuoase chiar la baza unui munte de gresie distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        31.822284,
+                        18.538064
+                  ]
+            },
+            {
+                  "name": "Mut Temple",
+                  "text": "Templul antic al lui Mut de la Jebel Barkal are sanctuare sculptate în mod unic și adânc în peretele de stâncă al muntelui.",
+                  "category": "historical",
+                  "coords": [
+                        31.828906,
+                        18.534755
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Acest muzeu local expune o colecție de statui și relicve istorice bine conservate dezgropate în jurul Jebel Barkal.",
+                  "category": "museum",
+                  "coords": [
+                        31.830985,
+                        18.539492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyramids of Jebel Barkal",
+                  "text": "The steep-sided Pyramids of Jebel Barkal serve as majestic royal tombs located right at the base of a distinctive sandstone mountain.",
+                  "category": "historical",
+                  "coords": [
+                        31.822284,
+                        18.538064
+                  ]
+            },
+            {
+                  "name": "Mut Temple",
+                  "text": "The ancient Temple of Mut at Jebel Barkal features sanctuaries uniquely carved deep directly into the mountain's rock face.",
+                  "category": "historical",
+                  "coords": [
+                        31.828906,
+                        18.534755
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "This local museum displays a collection of well-preserved historical statues and relics unearthed from the area around Jebel Barkal.",
+                  "category": "museum",
+                  "coords": [
+                        31.830985,
+                        18.539492
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-NO",
     coords: [31.8317, 18.5358],
@@ -1215,7 +2493,52 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "temple-of-apedemak-naqa-landmarks-v2",
+    id: "temple-of-apedemak-naqa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karabat Wad Ezeiriq",
+                  "text": "Karabat Wad Ezeiriq ist ein abgelegener Gipfel, der die trockene, mit Buschwerk bedeckte Landschaft in der Nähe des Apedemak-Tempels unterbricht.",
+                  "category": "natural",
+                  "coords": [
+                        33.3429,
+                        16.2939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karabat Wad Ezeiriq",
+                  "text": "A Karabat Wad Ezeiriq egy távoli hegycsúcs, amely megtöri a száraz, cserjésekkel borított tájat az Apedemak-templom közelében.",
+                  "category": "natural",
+                  "coords": [
+                        33.3429,
+                        16.2939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karabat Wad Ezeiriq",
+                  "text": "Karabat Wad Ezeiriq este un vârf izolat care punctează peisajul arid, acoperit de tufișuri, de lângă Templul lui Apedemak.",
+                  "category": "natural",
+                  "coords": [
+                        33.3429,
+                        16.2939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karabat Wad Ezeiriq",
+                  "text": "Karabat Wad Ezeiriq is a remote peak that punctuates the arid, scrub-covered landscape near the Temple of Apedemak.",
+                  "category": "natural",
+                  "coords": [
+                        33.3429,
+                        16.2939
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-NR",
     coords: [33.3089, 16.2719],
@@ -1351,7 +2674,160 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "el-kurru-necropolis-landmarks-v2",
+    id: "el-kurru-necropolis-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zuma",
+                  "text": "Zuma ist eine denkmalgeschützte archäologische Stätte in el-kurru-necropolis-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.741301,
+                        18.369604
+                  ]
+            },
+            {
+                  "name": "Petrified Forrest",
+                  "text": "Diese Touristenattraktion in el-kurru-necropolis-landmarks-v2 zeigt die Überreste eines versteinerten Waldes.",
+                  "category": "landmark",
+                  "coords": [
+                        31.734664,
+                        18.429925
+                  ]
+            },
+            {
+                  "name": "Petrified Forest",
+                  "text": "Dieser Aussichtspunkt in el-kurru-necropolis-landmarks-v2 bietet einen Blick auf die Landschaft des versteinerten Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        31.734956,
+                        18.428032
+                  ]
+            },
+            {
+                  "name": "El Kurru",
+                  "text": "Die denkmalgeschützte Ausgrabungsstätte von El Kurru befindet sich in der Nähe von el-kurru-necropolis-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.770461,
+                        18.408906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zuma",
+                  "text": "A Zuma egy műemlékvédelem alatt álló régészeti lelőhely el-kurru-necropolis-landmarks-v2 közelében.",
+                  "category": "historical",
+                  "coords": [
+                        31.741301,
+                        18.369604
+                  ]
+            },
+            {
+                  "name": "Petrified Forrest",
+                  "text": "Ez az el-kurru-necropolis-landmarks-v2-ben található látványosság egy megkövesedett erdő maradványait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        31.734664,
+                        18.429925
+                  ]
+            },
+            {
+                  "name": "Petrified Forest",
+                  "text": "Ez az el-kurru-necropolis-landmarks-v2-ben található kilátó a megkövesedett erdő tájára nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        31.734956,
+                        18.428032
+                  ]
+            },
+            {
+                  "name": "El Kurru",
+                  "text": "El Kurru műemlékvédelem alatt álló régészeti lelőhelye el-kurru-necropolis-landmarks-v2 közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        31.770461,
+                        18.408906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zuma",
+                  "text": "Zuma este un sit arheologic cu statut de patrimoniu, situat în el-kurru-necropolis-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.741301,
+                        18.369604
+                  ]
+            },
+            {
+                  "name": "Petrified Forrest",
+                  "text": "Această atracție turistică din el-kurru-necropolis-landmarks-v2 expune rămășițele unei păduri pietrificate.",
+                  "category": "landmark",
+                  "coords": [
+                        31.734664,
+                        18.429925
+                  ]
+            },
+            {
+                  "name": "Petrified Forest",
+                  "text": "Acest punct de belvedere din el-kurru-necropolis-landmarks-v2 oferă o privire de ansamblu asupra pădurii pietrificate.",
+                  "category": "natural",
+                  "coords": [
+                        31.734956,
+                        18.428032
+                  ]
+            },
+            {
+                  "name": "El Kurru",
+                  "text": "Situl arheologic de patrimoniu El Kurru este situat în apropiere de el-kurru-necropolis-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.770461,
+                        18.408906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zuma",
+                  "text": "Zuma is a heritage-listed archaeological site located in el-kurru-necropolis-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.741301,
+                        18.369604
+                  ]
+            },
+            {
+                  "name": "Petrified Forrest",
+                  "text": "This tourist attraction in el-kurru-necropolis-landmarks-v2 showcases the remains of a petrified forest.",
+                  "category": "landmark",
+                  "coords": [
+                        31.734664,
+                        18.429925
+                  ]
+            },
+            {
+                  "name": "Petrified Forest",
+                  "text": "This viewpoint in el-kurru-necropolis-landmarks-v2 offers sweeping views over the petrified forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        31.734956,
+                        18.428032
+                  ]
+            },
+            {
+                  "name": "El Kurru",
+                  "text": "The heritage-listed archaeological site of El Kurru is located near el-kurru-necropolis-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.770461,
+                        18.408906
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-NO",
     coords: [31.7689, 18.4092],
@@ -1487,7 +2963,88 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "old-dongola-cathedral-landmarks-v2",
+    id: "old-dongola-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dongola Cathedrals",
+                  "text": "Dieser museale Ort in old-dongola-cathedral-landmarks-v2 bewahrt die historischen Relikte der Dongola-Kathedralen.",
+                  "category": "museum",
+                  "coords": [
+                        30.742335,
+                        18.225635
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony the Great (Kom H)",
+                  "text": "Diese archäologische Stätte in old-dongola-cathedral-landmarks-v2 birgt die Ruinen des Klosters des Heiligen Antonius des Großen.",
+                  "category": "historical",
+                  "coords": [
+                        30.745659,
+                        18.234099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dongola Cathedrals",
+                  "text": "Ez az old-dongola-cathedral-landmarks-v2-ben található múzeumi helyszín a dongolai katedrálisok történelmi emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        30.742335,
+                        18.225635
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony the Great (Kom H)",
+                  "text": "Ez az old-dongola-cathedral-landmarks-v2-ben található régészeti lelőhely Nagy Szent Antal kolostorának romjait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        30.745659,
+                        18.234099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dongola Cathedrals",
+                  "text": "Acest spațiu muzeal din old-dongola-cathedral-landmarks-v2 păstrează relicvele istorice ale catedralelor din Dongola.",
+                  "category": "museum",
+                  "coords": [
+                        30.742335,
+                        18.225635
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony the Great (Kom H)",
+                  "text": "Acest sit arheologic din old-dongola-cathedral-landmarks-v2 ascunde ruinele Mănăstirii Sfântul Antonie cel Mare.",
+                  "category": "historical",
+                  "coords": [
+                        30.745659,
+                        18.234099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dongola Cathedrals",
+                  "text": "This museum site in old-dongola-cathedral-landmarks-v2 preserves the historic relics of the Dongola Cathedrals.",
+                  "category": "museum",
+                  "coords": [
+                        30.742335,
+                        18.225635
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony the Great (Kom H)",
+                  "text": "This archaeological site in old-dongola-cathedral-landmarks-v2 uncovers the ruins of the Monastery of St Anthony the Great.",
+                  "category": "historical",
+                  "coords": [
+                        30.745659,
+                        18.234099
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-NO",
     coords: [30.7397, 18.2231],
@@ -1555,7 +3112,88 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "khatmiyya-mosque-landmarks-v2",
+    id: "khatmiyya-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jebel Taka/Kassala Mountains",
+                  "text": "Totiel Rocks ist ein zerklüfteter geologischer Aussichtspunkt, der atemberaubende Ausblicke über Kassala und die markanten Taka-Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.430197,
+                        15.420408
+                  ]
+            },
+            {
+                  "name": "Historical El-Said Alhassan Mosque",
+                  "text": "Die historische El-Said-Alhassan-Moschee ist eine alte religiöse Attraktion in Kassala mit traditioneller Backsteinarchitektur und einem markanten Kuppeldach.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421823,
+                        15.431832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jebel Taka/Kassala Mountains",
+                  "text": "A Totiel-sziklák egy zord geológiai kilátóhely, ahonnan lélegzetelállító kilátás nyílik Kassalára és a jellegzetes Taka-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        36.430197,
+                        15.420408
+                  ]
+            },
+            {
+                  "name": "Historical El-Said Alhassan Mosque",
+                  "text": "A történelmi El-Said Alhassan mecset egy régi vallási látványosság Kassalában, amely hagyományos téglaépítészettel és jellegzetes kupolás tetővel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421823,
+                        15.431832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jebel Taka/Kassala Mountains",
+                  "text": "Stâncile Totiel reprezintă un punct de belvedere geologic accidentat, oferind priveliști uluitoare asupra Kassalei și a Munților Taka.",
+                  "category": "natural",
+                  "coords": [
+                        36.430197,
+                        15.420408
+                  ]
+            },
+            {
+                  "name": "Historical El-Said Alhassan Mosque",
+                  "text": "Moscheea Istorică El-Said Alhassan este o veche atracție religioasă din Kassala, având o arhitectură tradițională din cărămidă și un acoperiș distinctiv cu cupolă.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421823,
+                        15.431832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Totiel Rocks/Mountains",
+                  "text": "Totiel Rocks is a rugged geological viewpoint offering breathtaking vistas over Kassala and the distinctive Taka Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        36.430197,
+                        15.420408
+                  ]
+            },
+            {
+                  "name": "Historical El-Said Alhassan Mosque",
+                  "text": "The Historical El-Said Alhassan Mosque is an old religious attraction in Kassala featuring traditional brick architecture and a distinctive domed roof.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421823,
+                        15.431832
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KS",
     coords: [36.4167, 15.4417],
@@ -1623,7 +3261,52 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "soleb-temple-landmarks-v2",
+    id: "soleb-temple-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "temple d'Amon",
+                  "text": "Die historische Tempelattraktion verfügt über antike Säulenruinen, die der ägyptischen Gottheit Amun gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        30.334037,
+                        20.436333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "temple d'Amon",
+                  "text": "A történelmi templomlátványosság az egyiptomi istenségnek, Ámonnak szentelt ősi oszlopromokkal büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.334037,
+                        20.436333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "temple d'Amon",
+                  "text": "Atracția templului istoric prezintă ruine de coloane antice dedicate zeității egiptene Amon.",
+                  "category": "landmark",
+                  "coords": [
+                        30.334037,
+                        20.436333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "temple d'Amon",
+                  "text": "The historic temple attraction features ancient column ruins dedicated to the Egyptian deity Amun.",
+                  "category": "landmark",
+                  "coords": [
+                        30.334037,
+                        20.436333
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-NO",
     coords: [30.3347, 20.4372],
@@ -1759,7 +3442,52 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "western-deffufa-kerma-landmarks-v2",
+    id: "western-deffufa-kerma-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Kerma",
+                  "text": "Das Kerma-Museum stellt seltene nubische Artefakte und detaillierte Modelle der historischen Deffufa-Stätten aus.",
+                  "category": "museum",
+                  "coords": [
+                        30.411837,
+                        19.600786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Kerma",
+                  "text": "A kermai múzeum ritka núbiai műtárgyakat és a történelmi deffufa-lelőhelyek részletes modelljeit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        30.411837,
+                        19.600786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Kerma",
+                  "text": "Muzeul Kerma expune artefacte nubiene rare și modele detaliate ale siturilor istorice Deffufa.",
+                  "category": "museum",
+                  "coords": [
+                        30.411837,
+                        19.600786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Kerma",
+                  "text": "The Kerma Museum exhibits rare Nubian artifacts and detailed architectural models of the nearby Deffufa sites.",
+                  "category": "museum",
+                  "coords": [
+                        30.411837,
+                        19.600786
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-NO",
     coords: [30.4131, 19.6006],
@@ -1895,7 +3623,52 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "khartoum-international-fairgrounds-landmarks-v2",
+    id: "khartoum-international-fairgrounds-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iranian Cultural Center",
+                  "text": "Das Iranian Cultural Center ist eine Kunsteinrichtung zur Förderung des iranischen Kulturerbes in Khartum.",
+                  "category": "cultural",
+                  "coords": [
+                        32.550172,
+                        15.576285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iranian Cultural Center",
+                  "text": "Az Iráni Kulturális Központ az iráni örökséget népszerűsítő művészeti létesítmény Kartúmban.",
+                  "category": "cultural",
+                  "coords": [
+                        32.550172,
+                        15.576285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iranian Cultural Center",
+                  "text": "Centrul Cultural Iranian este o instituție de artă care promovează patrimoniul iranian în Khartoum.",
+                  "category": "cultural",
+                  "coords": [
+                        32.550172,
+                        15.576285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iranian Cultural Center",
+                  "text": "The Iranian Cultural Center is an arts facility promoting Iranian heritage in Khartoum.",
+                  "category": "cultural",
+                  "coords": [
+                        32.550172,
+                        15.576285
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5483, 15.5867],
@@ -1963,7 +3736,160 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "manshia-bridge-landmarks-v2",
+    id: "manshia-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Traditional music and dance, Friday 7-8 pm",
+                  "text": "Eine kulturelle Attraktion an der Manshia-Brücke, die wöchentlich traditionelle Musik- und Tanzaufführungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587759,
+                        15.599844
+                  ]
+            },
+            {
+                  "name": "Yorpower",
+                  "text": "Ein Aussichtspunkt in der Nähe der Manshia-Brücke.",
+                  "category": "natural",
+                  "coords": [
+                        32.579399,
+                        15.560472
+                  ]
+            },
+            {
+                  "name": "Someet Gallery",
+                  "text": "Eine Kunstgalerie in der Nähe der Manshia-Brücke, die lokale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.570568,
+                        15.583822
+                  ]
+            },
+            {
+                  "name": "Rachid Diab Arts Centre",
+                  "text": "Ein kulturelles Kunstzentrum an der Manshia-Brücke, das sich der sudanesischen bildenden Kunst widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        32.581592,
+                        15.567563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Traditional music and dance, Friday 7-8 pm",
+                  "text": "Egy kulturális látványosság a Manshia híd közelében, ahol hetente hagyományos zenés-táncos előadásokat tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587759,
+                        15.599844
+                  ]
+            },
+            {
+                  "name": "Yorpower",
+                  "text": "Egy kilátópont a Manshia híd nevezetességeinek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        32.579399,
+                        15.560472
+                  ]
+            },
+            {
+                  "name": "Someet Gallery",
+                  "text": "Egy helyi műveket kiállító művészeti galéria a Manshia híd közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.570568,
+                        15.583822
+                  ]
+            },
+            {
+                  "name": "Rachid Diab Arts Centre",
+                  "text": "A szudáni vizuális művészeteknek szentelt kulturális központ a Manshia híd közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.581592,
+                        15.567563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Traditional music and dance, Friday 7-8 pm",
+                  "text": "O atracție culturală lângă Podul Manshia care oferă spectacole săptămânale de muzică și dans tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587759,
+                        15.599844
+                  ]
+            },
+            {
+                  "name": "Yorpower",
+                  "text": "Un punct de observație situat în apropierea punctelor de reper ale Podului Manshia.",
+                  "category": "natural",
+                  "coords": [
+                        32.579399,
+                        15.560472
+                  ]
+            },
+            {
+                  "name": "Someet Gallery",
+                  "text": "O galerie de artă care expune lucrări locale lângă Podul Manshia.",
+                  "category": "museum",
+                  "coords": [
+                        32.570568,
+                        15.583822
+                  ]
+            },
+            {
+                  "name": "Rachid Diab Arts Centre",
+                  "text": "Un centru de artă culturală dedicat artelor vizuale sudaneze lângă Podul Manshia.",
+                  "category": "cultural",
+                  "coords": [
+                        32.581592,
+                        15.567563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Traditional music and dance, Friday 7-8 pm",
+                  "text": "A lively cultural attraction near the Manshia Bridge offering weekly traditional music and dance performances.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587759,
+                        15.599844
+                  ]
+            },
+            {
+                  "name": "Yorpower",
+                  "text": "A distinct vantage point located near the Manshia Bridge landmarks.",
+                  "category": "natural",
+                  "coords": [
+                        32.579399,
+                        15.560472
+                  ]
+            },
+            {
+                  "name": "Someet Gallery",
+                  "text": "An art gallery exhibiting local works near the Manshia Bridge.",
+                  "category": "museum",
+                  "coords": [
+                        32.570568,
+                        15.583822
+                  ]
+            },
+            {
+                  "name": "Rachid Diab Arts Centre",
+                  "text": "A cultural arts centre dedicated to Sudanese visual arts near the Manshia Bridge.",
+                  "category": "cultural",
+                  "coords": [
+                        32.581592,
+                        15.567563
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SD-KH",
     coords: [32.5567, 15.5883],

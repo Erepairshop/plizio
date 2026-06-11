@@ -3169,7 +3169,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
             },
             {
                   "name": "Aberthau",
-                  "text": "Aberthau ist ein Herrenhaus in Vancouver.",
+                  "text": "Das 1909 von Maclure & Fox entworfene Aberthau nahe dem Aquarium ist ein denkmalgeschütztes historisches Haus.",
                   "category": "historical",
                   "coords": [
                         -123.205139,
@@ -3387,7 +3387,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
             },
             {
                   "name": "Aberthau",
-                  "text": "Az Aberthau egy kúria Vancouverben.",
+                  "text": "A Maclure & Fox által tervezett, 1909-ben épült Aberthau az akvárium közelében műemlék történelmi ház.",
                   "category": "historical",
                   "coords": [
                         -123.205139,
@@ -3605,7 +3605,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
             },
             {
                   "name": "Aberthau",
-                  "text": "Aberthau este un conac în Vancouver.",
+                  "text": "Aberthau, proiectată de Maclure & Fox în 1909 lângă Acvariu, este o casă istorică monument.",
                   "category": "historical",
                   "coords": [
                         -123.205139,
@@ -3823,7 +3823,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
             },
             {
                   "name": "Aberthau",
-                  "text": "Aberthau is a manor in Vancouver.",
+                  "text": "Designed by Maclure & Fox, this historic house built in 1909 near the Aquarium is a heritage-listed site.",
                   "category": "historical",
                   "coords": [
                         -123.205139,

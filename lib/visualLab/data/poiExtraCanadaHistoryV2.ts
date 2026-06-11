@@ -11710,7 +11710,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Lighthouse",
-                  "text": "Der Trial Islands Lighthouse ist ein Leuchtturm vor der Küste Victorias.",
+                  "text": "Der 1970 erbaute Trial Islands Lighthouse nahe Castle Victoria ist ein denkmalgeschützter Leuchtturm.",
                   "category": "landmark",
                   "coords": [
                         -123.305117,
@@ -12063,7 +12063,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Lighthouse",
-                  "text": "A Trial Islands Lighthouse egy világítótorony Victoria partjainál.",
+                  "text": "Az 1970-ben épült Trial Islands Lighthouse a Castle Victoria közelében műemlék világítótorony.",
                   "category": "landmark",
                   "coords": [
                         -123.305117,
@@ -12416,7 +12416,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Lighthouse",
-                  "text": "Farul de pe Insulele Trial este un far în largul coastei Victoriei.",
+                  "text": "Farul Trial Islands Lighthouse de lângă Castle Victoria, construit în 1970, este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -123.305117,
@@ -12769,7 +12769,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Lighthouse",
-                  "text": "Trial Islands Lighthouse is a lighthouse off the coast of Victoria.",
+                  "text": "This lighthouse on the Trial Islands, built in 1970, is a listed heritage site near Castle Victoria.",
                   "category": "landmark",
                   "coords": [
                         -123.305117,
@@ -21019,7 +21019,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "London Farmhouse",
-                  "text": "London Farmhouse ist eine Attraktion in gulf-of-georgia-cannery-history-v2. Es ist ein historischer Bauernhof.",
+                  "text": "Das 1898 erbaute London Farmhouse nahe der Georgia Cannery ist ein unter Denkmalschutz stehendes Anwesen.",
                   "category": "landmark",
                   "coords": [
                         -123.151138,
@@ -21300,7 +21300,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "London Farmhouse",
-                  "text": "London Farmhouse egy látványosság gulf-of-georgia-cannery-history-v2-ben. Ez egy örökségi gazdaság.",
+                  "text": "Az 1898-ban épült London Farmhouse a Georgia Cannery közelében műemlék tanya.",
                   "category": "landmark",
                   "coords": [
                         -123.151138,
@@ -21581,7 +21581,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "London Farmhouse",
-                  "text": "London Farmhouse este o atracție în gulf-of-georgia-cannery-history-v2. Este o fermă istorică.",
+                  "text": "London Farmhouse, construită în 1898 lângă Georgia Cannery, este un monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -123.151138,
@@ -21862,7 +21862,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "London Farmhouse",
-                  "text": "London Farmhouse is an attraction in gulf-of-georgia-cannery-history-v2. It is a heritage farm.",
+                  "text": "This farmhouse dating from 1898 is a heritage-listed landmark near the Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.151138,

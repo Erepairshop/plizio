@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraZimbabweHistoryV2: POI[] = [
   {
-    id: "great-zimbabwe-history-v2",
+    id: "great-zimbabwe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Große Einfriedung",
+                  "text": "Das Great Enclosure von Great Zimbabwe besticht durch seine massiven, bis zu elf Meter hohen, mörtellosen Steinmauern.",
+                  "category": "historical",
+                  "coords": [
+                        30.934308,
+                        -20.272927
+                  ]
+            },
+            {
+                  "name": "Mauchs-Ruine",
+                  "text": "Die Mauch Ruins, benannt nach dem deutschen Forscher Karl Mauch, sind Teil des trockengemauerten Valley Complex in Great Zimbabwe.",
+                  "category": "historical",
+                  "coords": [
+                        30.935271,
+                        -20.272403
+                  ]
+            },
+            {
+                  "name": "Nationalmonument Groß-Simbabwe",
+                  "text": "Das UNESCO-Welterbe Great Zimbabwe ist eine weitläufige Ruinenstadt, die als Zentrum des historischen Munhumutapa-Reiches errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        30.933198,
+                        -20.270936
+                  ]
+            },
+            {
+                  "name": "Östliche Einfriedung",
+                  "text": "Im Eastern Enclosure von Great Zimbabwe, einem rituellen Bereich des Hill Complex, wurden die berühmten Specksteinvögel entdeckt.",
+                  "category": "historical",
+                  "coords": [
+                        30.934507,
+                        -20.267191
+                  ]
+            },
+            {
+                  "name": "Westliche Einfriedung",
+                  "text": "Das Western Enclosure ist der stark ummauerte Hauptwohnbereich der Herrscher innerhalb des hochgelegenen Hill Complex von Great Zimbabwe.",
+                  "category": "historical",
+                  "coords": [
+                        30.932284,
+                        -20.267449
+                  ]
+            },
+            {
+                  "name": "Great Zimbabwe Ruins National Park",
+                  "text": "Dieses Naturschutzgebiet schützt die ausgedehnten mittelalterlichen Trockenmauern und die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        30.934208,
+                        -20.269683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Great Enclosure",
+                  "text": "Nagy-Zimbabwe Nagy Körfala (Great Enclosure) lenyűgöző, akár tizenegy méter magas, kötőanyag nélkül rakott kőfalaival vonzza a tekintetet.",
+                  "category": "historical",
+                  "coords": [
+                        30.934308,
+                        -20.272927
+                  ]
+            },
+            {
+                  "name": "Mauch Ruins",
+                  "text": "A Karl Mauch német kutatóról elnevezett Mauch-romok a Nagy-Zimbabwe területén található, kötőanyag nélkül épült Völgy-komplexum részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        30.935271,
+                        -20.272403
+                  ]
+            },
+            {
+                  "name": "Great Zimbabwe",
+                  "text": "Az UNESCO Világörökség részét képező Nagy-Zimbabwe egy kiterjedt romváros, amely a történelmi Munhumutapa Birodalom központjaként épült.",
+                  "category": "historical",
+                  "coords": [
+                        30.933198,
+                        -20.270936
+                  ]
+            },
+            {
+                  "name": "Eastern Enclosure",
+                  "text": "Nagy-Zimbabwe Keleti Körfalában (Eastern Enclosure), a Hegyi Komplexum rituális részén fedezték fel a híres szappankő madarakat.",
+                  "category": "historical",
+                  "coords": [
+                        30.934507,
+                        -20.267191
+                  ]
+            },
+            {
+                  "name": "Western Enclosure",
+                  "text": "A Nyugati Körfal (Western Enclosure) az uralkodók erősen körülfalazott fő lakóterülete Nagy-Zimbabwe magasan fekvő Hegyi Komplexumán belül.",
+                  "category": "historical",
+                  "coords": [
+                        30.932284,
+                        -20.267449
+                  ]
+            },
+            {
+                  "name": "Great Zimbabwe Ruins National Park",
+                  "text": "Ez a természetvédelmi terület a kiterjedt középkori szárazkő építményeket és a környező tájat védi.",
+                  "category": "natural",
+                  "coords": [
+                        30.934208,
+                        -20.269683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Great Enclosure",
+                  "text": "Marea Incintă (Great Enclosure) din Marele Zimbabwe impresionează prin zidurile sale masive de piatră fără mortar, înalte de până la unsprezece metri.",
+                  "category": "historical",
+                  "coords": [
+                        30.934308,
+                        -20.272927
+                  ]
+            },
+            {
+                  "name": "Mauch Ruins",
+                  "text": "Ruinele Mauch, numite după exploratorul german Karl Mauch, fac parte din Complexul Văii, construit din piatră seacă, din Marele Zimbabwe.",
+                  "category": "historical",
+                  "coords": [
+                        30.935271,
+                        -20.272403
+                  ]
+            },
+            {
+                  "name": "Great Zimbabwe",
+                  "text": "Monumentul Național Marele Zimbabwe, sit al Patrimoniului Mondial UNESCO, este un vast oraș în ruine, construit ca centru al istoricului Imperiu Munhumutapa.",
+                  "category": "historical",
+                  "coords": [
+                        30.933198,
+                        -20.270936
+                  ]
+            },
+            {
+                  "name": "Eastern Enclosure",
+                  "text": "În Incinta de Est a Marelui Zimbabwe, o zonă ritualică din Complexul Dealului, au fost descoperite faimoasele păsări din steatit.",
+                  "category": "historical",
+                  "coords": [
+                        30.934507,
+                        -20.267191
+                  ]
+            },
+            {
+                  "name": "Western Enclosure",
+                  "text": "Incinta de Vest (Western Enclosure) este principala zonă rezidențială puternic fortificată a conducătorilor din cadrul Complexului Dealului, situat la înălțime în Marele Zimbabwe.",
+                  "category": "historical",
+                  "coords": [
+                        30.932284,
+                        -20.267449
+                  ]
+            },
+            {
+                  "name": "Great Zimbabwe Ruins National Park",
+                  "text": "Această rezervație naturală protejează structurile medievale extinse din piatră uscată și peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        30.934208,
+                        -20.269683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Great Enclosure",
+                  "text": "The Great Enclosure at Great Zimbabwe captivates with its massive dry-stone walls that reach up to eleven metres in height.",
+                  "category": "historical",
+                  "coords": [
+                        30.934308,
+                        -20.272927
+                  ]
+            },
+            {
+                  "name": "Mauch Ruins",
+                  "text": "The Mauch Ruins, named after the German explorer Karl Mauch, form part of the dry-stone Valley Complex at Great Zimbabwe.",
+                  "category": "historical",
+                  "coords": [
+                        30.935271,
+                        -20.272403
+                  ]
+            },
+            {
+                  "name": "Great Zimbabwe National Monument",
+                  "text": "The UNESCO World Heritage site of Great Zimbabwe is an expansive ruined city constructed as the centre of the historic Mutapa Empire.",
+                  "category": "historical",
+                  "coords": [
+                        30.933198,
+                        -20.270936
+                  ]
+            },
+            {
+                  "name": "Eastern Enclosure",
+                  "text": "The famous soapstone birds were discovered in the Eastern Enclosure of Great Zimbabwe, a ritual area within the Hill Complex.",
+                  "category": "historical",
+                  "coords": [
+                        30.934507,
+                        -20.267191
+                  ]
+            },
+            {
+                  "name": "Western Enclosure",
+                  "text": "The Western Enclosure is the heavily walled main residential area of the rulers within the elevated Hill Complex of Great Zimbabwe.",
+                  "category": "historical",
+                  "coords": [
+                        30.932284,
+                        -20.267449
+                  ]
+            },
+            {
+                  "name": "Great Zimbabwe Ruins National Park",
+                  "text": "This nature reserve protects the extensive medieval dry-stone structures and the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        30.934208,
+                        -20.269683
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MV",
     coords: [30.9333, -20.2667],
@@ -60,7 +285,232 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "khami-ruins-history-v2",
+    id: "khami-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nothern Platform",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Blick über die antiken Steinruinen der Anlage.",
+                  "category": "natural",
+                  "coords": [
+                        28.423538,
+                        -20.143327
+                  ]
+            },
+            {
+                  "name": "Khami Ruins (World Heritage Site)",
+                  "text": "Diese Welterbestätte beeindruckt mit den kunstvollen Trockenmauern der ehemaligen Hauptstadt des Butua-Königreichs.",
+                  "category": "landmark",
+                  "coords": [
+                        28.423271,
+                        -20.144243
+                  ]
+            },
+            {
+                  "name": "Game Board",
+                  "text": "Dieser Aussichtspunkt blickt auf historische, in Stein gehauene Spielbretter, die von den frühen Bewohnern hinterlassen wurden.",
+                  "category": "natural",
+                  "coords": [
+                        28.425261,
+                        -20.149706
+                  ]
+            },
+            {
+                  "name": "Passage Platform",
+                  "text": "Eine erhöhte Plattform, die Ausblicke auf die schmalen, von Steinmauern gesäumten Gänge der Ruinen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.426378,
+                        -20.149797
+                  ]
+            },
+            {
+                  "name": "Dam Wall",
+                  "text": "Ein Aussichtspunkt nahe den historischen steinernen Wasserspeicheranlagen der alten Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        28.428286,
+                        -20.147636
+                  ]
+            },
+            {
+                  "name": "Sbura",
+                  "text": "Ein historischer, turmartiger Bau, der als Leuchtturm inmitten der antiken Ruinenlandschaft diente.",
+                  "category": "landmark",
+                  "coords": [
+                        28.490846,
+                        -20.131562
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nothern Platform",
+                  "text": "Ez a megemelt kilátóhely széles kilátást nyújt a komplexum ősi kőromjaira.",
+                  "category": "natural",
+                  "coords": [
+                        28.423538,
+                        -20.143327
+                  ]
+            },
+            {
+                  "name": "Khami Ruins (World Heritage Site)",
+                  "text": "Ez a világörökségi helyszín a Butua Királyság egykori fővárosának művészi szárazkő falaival nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        28.423271,
+                        -20.144243
+                  ]
+            },
+            {
+                  "name": "Game Board",
+                  "text": "Ez a kilátó azokra a történelmi, kőbe vájt játéktáblákra néz, amelyeket a korai lakosok hagytak hátra.",
+                  "category": "natural",
+                  "coords": [
+                        28.425261,
+                        -20.149706
+                  ]
+            },
+            {
+                  "name": "Passage Platform",
+                  "text": "Egy megemelt emelvény, amely kilátást nyújt a romok szűk, kőfalakkal szegélyezett átjáróira.",
+                  "category": "natural",
+                  "coords": [
+                        28.426378,
+                        -20.149797
+                  ]
+            },
+            {
+                  "name": "Dam Wall",
+                  "text": "Egy kilátóhely az ősi város történelmi kő víztározó létesítményeinek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.428286,
+                        -20.147636
+                  ]
+            },
+            {
+                  "name": "Sbura",
+                  "text": "Egy történelmi, toronyszerű építmény, amely világítótoronyként szolgált az ősi romvidék közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.490846,
+                        -20.131562
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nothern Platform",
+                  "text": "Acest punct de belvedere înalt oferă o vedere panoramică asupra ruinelor antice de piatră ale complexului.",
+                  "category": "natural",
+                  "coords": [
+                        28.423538,
+                        -20.143327
+                  ]
+            },
+            {
+                  "name": "Khami Ruins (World Heritage Site)",
+                  "text": "Acest sit al Patrimoniului Mondial impresionează prin zidurile elaborate din piatră uscată ale fostei capitale a Regatului Butua.",
+                  "category": "landmark",
+                  "coords": [
+                        28.423271,
+                        -20.144243
+                  ]
+            },
+            {
+                  "name": "Game Board",
+                  "text": "Acest punct de belvedere are vedere la table de joc istorice sculptate în piatră, lăsate în urmă de locuitorii timpurii.",
+                  "category": "natural",
+                  "coords": [
+                        28.425261,
+                        -20.149706
+                  ]
+            },
+            {
+                  "name": "Passage Platform",
+                  "text": "O platformă înălțată care oferă vederi ale pasajelor înguste, mărginite de ziduri de piatră ale ruinelor.",
+                  "category": "natural",
+                  "coords": [
+                        28.426378,
+                        -20.149797
+                  ]
+            },
+            {
+                  "name": "Dam Wall",
+                  "text": "Un punct de belvedere situat lângă structurile istorice de stocare a apei din piatră ale orașului antic.",
+                  "category": "natural",
+                  "coords": [
+                        28.428286,
+                        -20.147636
+                  ]
+            },
+            {
+                  "name": "Sbura",
+                  "text": "O structură istorică asemănătoare unui turn, care servea drept far în mijlocul peisajului antic în ruine.",
+                  "category": "landmark",
+                  "coords": [
+                        28.490846,
+                        -20.131562
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nothern Platform",
+                  "text": "This elevated viewpoint offers sweeping views over the complex's ancient stone ruins.",
+                  "category": "natural",
+                  "coords": [
+                        28.423538,
+                        -20.143327
+                  ]
+            },
+            {
+                  "name": "Khami Ruins (World Heritage Site)",
+                  "text": "This World Heritage site impresses with the elaborate dry-stone walls of the former capital of the Butua Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        28.423271,
+                        -20.144243
+                  ]
+            },
+            {
+                  "name": "Game Board",
+                  "text": "This viewpoint overlooks historic stone-carved game boards left behind by the early inhabitants.",
+                  "category": "natural",
+                  "coords": [
+                        28.425261,
+                        -20.149706
+                  ]
+            },
+            {
+                  "name": "Passage Platform",
+                  "text": "An elevated platform offering views of the ruins' narrow, stone-walled passages.",
+                  "category": "natural",
+                  "coords": [
+                        28.426378,
+                        -20.149797
+                  ]
+            },
+            {
+                  "name": "Dam Wall",
+                  "text": "A viewpoint located near the historic stone water reservoir structures of the ancient city.",
+                  "category": "natural",
+                  "coords": [
+                        28.428286,
+                        -20.147636
+                  ]
+            },
+            {
+                  "name": "Sbura",
+                  "text": "A historic tower-like structure that served as a lighthouse amidst the ancient ruin landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        28.490846,
+                        -20.131562
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-BU",
     coords: [28.4253, -20.1558],
@@ -117,7 +567,52 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "ziwa-ruins-history-v2",
+    id: "ziwa-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ziwa Ruins",
+                  "text": "Die Ziwa Ruins in ziwa-ruins-history-v2 zeugen von den weitläufigen landwirtschaftlichen Steinterrassen einer vergangenen Zivilisation.",
+                  "category": "historical",
+                  "coords": [
+                        32.63705,
+                        -18.135298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ziwa Ruins",
+                  "text": "A ziwa-ruins-history-v2-ben található Ziwa Ruins egy letűnt civilizáció kiterjedt, kőből épült mezőgazdasági teraszainak nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        32.63705,
+                        -18.135298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ziwa Ruins",
+                  "text": "Ruinele Ziwa din ziwa-ruins-history-v2 dezvăluie extinsele terase agricole de piatră lăsate în urmă de o civilizație străveche.",
+                  "category": "historical",
+                  "coords": [
+                        32.63705,
+                        -18.135298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ziwa Ruins",
+                  "text": "The Ziwa Ruins in ziwa-ruins-history-v2 showcase the extensive stone agricultural terracing of an ancient civilization.",
+                  "category": "historical",
+                  "coords": [
+                        32.63705,
+                        -18.135298
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MA",
     coords: [32.6333, -18.1333],
@@ -351,7 +846,88 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "matobo-hills-rock-art-history-v2",
+    id: "matobo-hills-rock-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nswatugi Cave",
+                  "text": "Dieser Aussichtspunkt bietet Zugang zu einer Höhle, die für ihre kunstvollen antiken Felsmalereien bewundert wird.",
+                  "category": "natural",
+                  "coords": [
+                        28.474961,
+                        -20.535619
+                  ]
+            },
+            {
+                  "name": "Mother & Child rock formation",
+                  "text": "Eine natürliche Felsformation, die einer Mutter mit Kind in den Matobo-Bergen ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.432465,
+                        -20.564799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nswatugi Cave",
+                  "text": "Ez a kilátóhely egy olyan barlanghoz nyújt hozzáférést, amelyet művészi ősi sziklafestményeiért csodálnak.",
+                  "category": "natural",
+                  "coords": [
+                        28.474961,
+                        -20.535619
+                  ]
+            },
+            {
+                  "name": "Mother & Child rock formation",
+                  "text": "Egy anyát és gyermekét formázó természetes sziklaképződmény a Matobo-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.432465,
+                        -20.564799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nswatugi Cave",
+                  "text": "Acest punct de belvedere oferă acces la o peșteră admirată pentru picturile sale rupestre antice elaborate.",
+                  "category": "natural",
+                  "coords": [
+                        28.474961,
+                        -20.535619
+                  ]
+            },
+            {
+                  "name": "Mother & Child rock formation",
+                  "text": "O formațiune stâncoasă naturală care seamănă cu o mamă și un copil în Dealurile Matobo.",
+                  "category": "landmark",
+                  "coords": [
+                        28.432465,
+                        -20.564799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nswatugi Cave",
+                  "text": "This viewpoint provides access to a cave admired for its elaborate ancient rock paintings.",
+                  "category": "natural",
+                  "coords": [
+                        28.474961,
+                        -20.535619
+                  ]
+            },
+            {
+                  "name": "Mother & Child rock formation",
+                  "text": "A natural rock formation resembling a mother and child in the Matobo Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        28.432465,
+                        -20.564799
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MS",
     coords: [28.5, -20.55],
@@ -411,7 +987,124 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "national-heroes-acre-history-v2",
+    id: "national-heroes-acre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heroes Acre",
+                  "text": "Diese monumentale Begräbnisstätte aus Granit mit Obelisk ehrt die gefallenen Kämpfer des simbabwischen Befreiungskampfes.",
+                  "category": "landmark",
+                  "coords": [
+                        30.987922,
+                        -17.835256
+                  ]
+            },
+            {
+                  "name": "kays",
+                  "text": "Dieses einzigartig gestaltete, schlossartige Bauwerk befindet sich in der prestigeträchtigen Gegend rund um den National Heroes Acre.",
+                  "category": "castle",
+                  "coords": [
+                        30.976116,
+                        -17.856085
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "Dieser themenbezogene Freizeitpark bietet Fahrgeschäfte und Unterhaltung in der Nähe des Geländes des National Heroes Acre.",
+                  "category": "recreational",
+                  "coords": [
+                        31.001399,
+                        -17.825803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heroes Acre",
+                  "text": "Ez a monumentális gránit temető és obeliszk Zimbabwe felszabadítási küzdelmének elesett harcosai előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        30.987922,
+                        -17.835256
+                  ]
+            },
+            {
+                  "name": "kays",
+                  "text": "Ez az egyedi tervezésű, kastényszerű építmény a Nemzeti Hősök Emlékművét körülvevő rangos területen található.",
+                  "category": "castle",
+                  "coords": [
+                        30.976116,
+                        -17.856085
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "Ez a tematikus szabadidőpark vidámparki túrákat és szórakozást kínál a Nemzeti Hősök Emlékműve közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        31.001399,
+                        -17.825803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heroes Acre",
+                  "text": "Acest teren monumental de înmormântare din granit și obeliscul onorează luptătorii căzuți în lupta de eliberare a statului Zimbabwe.",
+                  "category": "landmark",
+                  "coords": [
+                        30.987922,
+                        -17.835256
+                  ]
+            },
+            {
+                  "name": "kays",
+                  "text": "Această structură cu un design unic, asemănătoare unui castel, este situată în zona prestigioasă din jurul National Heroes Acre.",
+                  "category": "castle",
+                  "coords": [
+                        30.976116,
+                        -17.856085
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "Acest parc tematic de recreere oferă atracții de bâlci și divertisment lângă terenurile National Heroes Acre.",
+                  "category": "recreational",
+                  "coords": [
+                        31.001399,
+                        -17.825803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heroes Acre",
+                  "text": "This monumental granite burial ground and obelisk honors the fallen fighters of Zimbabwe's liberation struggle.",
+                  "category": "landmark",
+                  "coords": [
+                        30.987922,
+                        -17.835256
+                  ]
+            },
+            {
+                  "name": "kays",
+                  "text": "This uniquely designed, castle-like structure is situated in the prestigious area surrounding the National Heroes Acre.",
+                  "category": "castle",
+                  "coords": [
+                        30.976116,
+                        -17.856085
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "This themed recreational park provides fairground rides and entertainment near the National Heroes Acre grounds.",
+                  "category": "recreational",
+                  "coords": [
+                        31.001399,
+                        -17.825803
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-HA",
     coords: [30.985, -17.833],
@@ -591,7 +1284,124 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "bumbusi-national-monument-history-v2",
+    id: "bumbusi-national-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bumboosie Ruins",
+                  "text": "Uralte Steinruinen einer historischen Siedlung, die die frühe Architekturgeschichte der Region offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        26.228714,
+                        -18.558334
+                  ]
+            },
+            {
+                  "name": "Rock Carvings",
+                  "text": "Eine Attraktion mit alten Petroglyphen, die von frühen Jägern und Sammlern in die Felsen geritzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        26.199941,
+                        -18.513321
+                  ]
+            },
+            {
+                  "name": "Bambusi Ruins",
+                  "text": "Archäologische Ruinen mit Steinmauern, die die komplexen gesellschaftlichen Strukturen der Vorfahren in der Region widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        26.184893,
+                        -18.514649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bumboosie Ruins",
+                  "text": "Történelmi település ősi kőromjai, amelyek feltárják a régió korai építészeti történetét.",
+                  "category": "historical",
+                  "coords": [
+                        26.228714,
+                        -18.558334
+                  ]
+            },
+            {
+                  "name": "Rock Carvings",
+                  "text": "Egy látványosság ősi sziklarajzokkal, amelyeket korai vadászó-gyűjtögetők véstek a sziklákba.",
+                  "category": "landmark",
+                  "coords": [
+                        26.199941,
+                        -18.513321
+                  ]
+            },
+            {
+                  "name": "Bambusi Ruins",
+                  "text": "Kőfalú régészeti romok, amelyek a régió őseinek összetett társadalmi struktúráit tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        26.184893,
+                        -18.514649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bumboosie Ruins",
+                  "text": "Ruinele antice din piatră ale unei așezări istorice, dezvăluind istoria arhitecturală timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        26.228714,
+                        -18.558334
+                  ]
+            },
+            {
+                  "name": "Rock Carvings",
+                  "text": "O atracție cu petroglife antice sculptate în stânci de primii vânători-culegători.",
+                  "category": "landmark",
+                  "coords": [
+                        26.199941,
+                        -18.513321
+                  ]
+            },
+            {
+                  "name": "Bambusi Ruins",
+                  "text": "Ruine arheologice cu ziduri de piatră care reflectă structurile societale complexe ale strămoșilor din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        26.184893,
+                        -18.514649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bumboosie Ruins",
+                  "text": "Ancient stone ruins of a historical settlement, revealing the early architectural history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        26.228714,
+                        -18.558334
+                  ]
+            },
+            {
+                  "name": "Rock Carvings",
+                  "text": "An attraction featuring ancient petroglyphs etched into the rocks by early hunter-gatherers.",
+                  "category": "landmark",
+                  "coords": [
+                        26.199941,
+                        -18.513321
+                  ]
+            },
+            {
+                  "name": "Bambusi Ruins",
+                  "text": "Stone-walled archaeological ruins reflecting the complex societal structures of the region's ancestors.",
+                  "category": "historical",
+                  "coords": [
+                        26.184893,
+                        -18.514649
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MN",
     coords: [26.1833, -18.5],
@@ -651,7 +1461,412 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "domboshava-caves-history-v2",
+    id: "domboshava-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prospective Showground Meetinghouse",
+                  "text": "Dieser lokale Versammlungsort liegt im felsigen Gelände in der Nähe der historischen Domboshava-Höhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.185289,
+                        -17.572948
+                  ]
+            },
+            {
+                  "name": "Showground",
+                  "text": "Dieses Freiluft-Ausstellungsgelände dient der Gemeinde rund um die Domboshava-Höhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.183768,
+                        -17.572986
+                  ]
+            },
+            {
+                  "name": "Pote Primary School",
+                  "text": "Diese Bildungseinrichtung bietet Unterricht für Kinder in der ländlichen Region der Domboshava-Höhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095111,
+                        -17.559168
+                  ]
+            },
+            {
+                  "name": "Beverly Home",
+                  "text": "Dieses Wohngebäude wurde inmitten der für die Domboshava-Region typischen Granithügel errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.076384,
+                        -17.658696
+                  ]
+            },
+            {
+                  "name": "Tariro Rufaneti",
+                  "text": "Dieser besondere Ort liegt eingebettet in die felsige Landschaft in der Nähe der Domboshava-Höhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.07444,
+                        -17.658091
+                  ]
+            },
+            {
+                  "name": "PaMujo Willo",
+                  "text": "Diese Gemeindeattraktion befindet sich in der Nähe der markanten geologischen Formationen von Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.08701,
+                        -17.667759
+                  ]
+            },
+            {
+                  "name": "Nyazungu Home Northview Park",
+                  "text": "Dieses Wohngebäude befindet sich im Bereich Northview Park am Rande der Granitfelsen von Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.094615,
+                        -17.66568
+                  ]
+            },
+            {
+                  "name": "Mafaiti Home",
+                  "text": "Dieses lokale Haus ist Teil der Siedlung, die sich unter den berühmten Felsformationen von Domboshava ausbreitet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.100221,
+                        -17.666964
+                  ]
+            },
+            {
+                  "name": "David Omega Shawane",
+                  "text": "Diese besondere Stätte liegt in der rauen, von Felsbrocken übersäten Umgebung, die für Domboshava charakteristisch ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.160832,
+                        -17.658376
+                  ]
+            },
+            {
+                  "name": "Domboshawa",
+                  "text": "Diese riesige Granitkuppel ist berühmt für ihre rötlichen Flechten und den weiten Blick über die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168847,
+                        -17.60823
+                  ]
+            },
+            {
+                  "name": "Domboshava Cave, cavepaintings",
+                  "text": "Dieser natürliche Felsunterstand bewahrt lebendige, antike Felsmalereien der San an seinen Granitwänden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174664,
+                        -17.610019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prospective Showground Meetinghouse",
+                  "text": "Ez a helyi gyülekezeti hely a történelmi Domboshava-barlangok körüli sziklás terepen található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.185289,
+                        -17.572948
+                  ]
+            },
+            {
+                  "name": "Showground",
+                  "text": "Ez a szabadtéri kiállítótér a Domboshava-barlangok környékén élő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        31.183768,
+                        -17.572986
+                  ]
+            },
+            {
+                  "name": "Pote Primary School",
+                  "text": "Ez az oktatási intézmény a vidéki Domboshava-barlangok régiójának gyermekeit oktatja.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095111,
+                        -17.559168
+                  ]
+            },
+            {
+                  "name": "Beverly Home",
+                  "text": "Ez a helyi lakóingatlan a Domboshava területre jellemző gránitdombok között épült.",
+                  "category": "landmark",
+                  "coords": [
+                        31.076384,
+                        -17.658696
+                  ]
+            },
+            {
+                  "name": "Tariro Rufaneti",
+                  "text": "Ez a különleges látványosság a sziklás tájba simulva található, közel a Domboshava-barlangokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        31.07444,
+                        -17.658091
+                  ]
+            },
+            {
+                  "name": "PaMujo Willo",
+                  "text": "Ez a közösségi látványosság a Domboshava kiemelkedő geológiai képződményei közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.08701,
+                        -17.667759
+                  ]
+            },
+            {
+                  "name": "Nyazungu Home Northview Park",
+                  "text": "Ez a lakóépület a Domboshava gránitkibúvásaival határos Northview Park területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.094615,
+                        -17.66568
+                  ]
+            },
+            {
+                  "name": "Mafaiti Home",
+                  "text": "Ez a helyi ház a híres Domboshava sziklaképződmények alatt elterülő település része.",
+                  "category": "landmark",
+                  "coords": [
+                        31.100221,
+                        -17.666964
+                  ]
+            },
+            {
+                  "name": "David Omega Shawane",
+                  "text": "Ez a különleges helyszín a Domboshava-ra jellemző, sziklákkal teli, zord környezetben található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.160832,
+                        -17.658376
+                  ]
+            },
+            {
+                  "name": "Domboshawa",
+                  "text": "Ez a hatalmas gránitkupola híres vöröses zuzmóiról és a környező vidékre nyíló lenyűgöző kilátásról.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168847,
+                        -17.60823
+                  ]
+            },
+            {
+                  "name": "Domboshava Cave, cavepaintings",
+                  "text": "Ez a természetes sziklamenedék élénk, ősi szan sziklarajzokat őriz a gránitfalakon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174664,
+                        -17.610019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prospective Showground Meetinghouse",
+                  "text": "Acest loc de întâlnire local este situat în terenul stâncos de lângă peșterile istorice Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.185289,
+                        -17.572948
+                  ]
+            },
+            {
+                  "name": "Showground",
+                  "text": "Acest spațiu expozițional în aer liber servește comunitatea care trăiește în jurul peșterilor Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.183768,
+                        -17.572986
+                  ]
+            },
+            {
+                  "name": "Pote Primary School",
+                  "text": "Această unitate de învățământ oferă școlarizare pentru copiii din regiunea rurală a peșterilor Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095111,
+                        -17.559168
+                  ]
+            },
+            {
+                  "name": "Beverly Home",
+                  "text": "Această proprietate rezidențială locală este construită printre dealurile de granit caracteristice zonei Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.076384,
+                        -17.658696
+                  ]
+            },
+            {
+                  "name": "Tariro Rufaneti",
+                  "text": "Acest punct de atracție specific este cuibărit în peisajul stâncos din apropierea peșterilor Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.07444,
+                        -17.658091
+                  ]
+            },
+            {
+                  "name": "PaMujo Willo",
+                  "text": "Această atracție comunitară este situată lângă formațiunile geologice proeminente din Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.08701,
+                        -17.667759
+                  ]
+            },
+            {
+                  "name": "Nyazungu Home Northview Park",
+                  "text": "Această clădire rezidențială este situată în zona Northview Park, la marginea aflorimentelor de granit din Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.094615,
+                        -17.66568
+                  ]
+            },
+            {
+                  "name": "Mafaiti Home",
+                  "text": "Această casă locală face parte din așezarea care se întinde sub faimoasele formațiuni stâncoase Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.100221,
+                        -17.666964
+                  ]
+            },
+            {
+                  "name": "David Omega Shawane",
+                  "text": "Acest loc particular se află în mediul accidentat, plin de bolovani, caracteristic zonei Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.160832,
+                        -17.658376
+                  ]
+            },
+            {
+                  "name": "Domboshawa",
+                  "text": "Acest dom enorm de granit este renumit pentru lichenii săi roșiatici și pentru vederea panoramică asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168847,
+                        -17.60823
+                  ]
+            },
+            {
+                  "name": "Domboshava Cave, cavepaintings",
+                  "text": "Acest adăpost natural de stâncă păstrează artă rupestră antică San, pictată pe pereții de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174664,
+                        -17.610019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prospective Showground Meetinghouse",
+                  "text": "This local meeting venue is situated in the rocky terrain near the historic Domboshava caves.",
+                  "category": "landmark",
+                  "coords": [
+                        31.185289,
+                        -17.572948
+                  ]
+            },
+            {
+                  "name": "Showground",
+                  "text": "This open-air exhibition space serves the community living around the Domboshava caves.",
+                  "category": "landmark",
+                  "coords": [
+                        31.183768,
+                        -17.572986
+                  ]
+            },
+            {
+                  "name": "Pote Primary School",
+                  "text": "This educational facility provides schooling for children in the rural Domboshava caves region.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095111,
+                        -17.559168
+                  ]
+            },
+            {
+                  "name": "Beverly Home",
+                  "text": "This local residential property is built amongst the granite hills characteristic of the Domboshava area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.076384,
+                        -17.658696
+                  ]
+            },
+            {
+                  "name": "Tariro Rufaneti",
+                  "text": "This specific point of interest is nestled in the rocky landscape close to the Domboshava caves.",
+                  "category": "landmark",
+                  "coords": [
+                        31.07444,
+                        -17.658091
+                  ]
+            },
+            {
+                  "name": "PaMujo Willo",
+                  "text": "This community attraction is located near the prominent geological formations of Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.08701,
+                        -17.667759
+                  ]
+            },
+            {
+                  "name": "Nyazungu Home Northview Park",
+                  "text": "This residential building is situated in the Northview Park area bordering the Domboshava granite outcrops.",
+                  "category": "landmark",
+                  "coords": [
+                        31.094615,
+                        -17.66568
+                  ]
+            },
+            {
+                  "name": "Mafaiti Home",
+                  "text": "This local house is part of the settlement spreading out beneath the famous Domboshava rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        31.100221,
+                        -17.666964
+                  ]
+            },
+            {
+                  "name": "David Omega Shawane",
+                  "text": "This particular site sits in the rugged, boulder-strewn environment characteristic of Domboshava.",
+                  "category": "landmark",
+                  "coords": [
+                        31.160832,
+                        -17.658376
+                  ]
+            },
+            {
+                  "name": "Domboshawa",
+                  "text": "This enormous granite dome is famous for its reddish lichen and sweeping views over the surrounding countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168847,
+                        -17.60823
+                  ]
+            },
+            {
+                  "name": "Domboshava Cave, cavepaintings",
+                  "text": "This natural rock shelter preserves vivid ancient San rock art painted on the granite walls.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174664,
+                        -17.610019
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-ME",
     coords: [31.1333, -17.6],
@@ -711,7 +1926,88 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "chinhoyi-caves-history-v2",
+    id: "chinhoyi-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chinhoyi Cave",
+                  "text": "Der Aussichtspunkt der Chinhoyi-Höhle blickt auf ein bemerkenswertes System von Kalkstein- und Dolomithöhlen, das ein leuchtend kobaltblaues Wasserbecken verbirgt.",
+                  "category": "natural",
+                  "coords": [
+                        30.12961,
+                        -17.356477
+                  ]
+            },
+            {
+                  "name": "Lions Den",
+                  "text": "Lions Den ist eine Wildtierattraktion in der Nähe der Chinhoyi-Höhlen, wo Besucher die regionale Savannenfauna in speziellen Gehegen beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        30.128117,
+                        -17.352946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chinhoyi Cave",
+                  "text": "A Chinhoyi-barlang kilátója egy lenyűgöző mészkő- és dolomitbarlang-rendszerre néz, amely egy élénk kobaltkék medencét rejt.",
+                  "category": "natural",
+                  "coords": [
+                        30.12961,
+                        -17.356477
+                  ]
+            },
+            {
+                  "name": "Lions Den",
+                  "text": "A Lions Den egy vadvilági látványosság a Chinhoyi-barlangok közelében, ahol a látogatók a regionális szavanna állatvilágát figyelhetik meg a kifutókban.",
+                  "category": "recreational",
+                  "coords": [
+                        30.128117,
+                        -17.352946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chinhoyi Cave",
+                  "text": "Punctul de belvedere al Peșterii Chinhoyi oferă o privire asupra unui remarcabil sistem de caverne de calcar și dolomit care ascund un bazin de un albastru-cobalt vibrant.",
+                  "category": "natural",
+                  "coords": [
+                        30.12961,
+                        -17.356477
+                  ]
+            },
+            {
+                  "name": "Lions Den",
+                  "text": "Lions Den este o atracție cu animale sălbatice lângă Peșterile Chinhoyi, unde vizitatorii pot observa fauna regională de savană în incinte dedicate.",
+                  "category": "recreational",
+                  "coords": [
+                        30.128117,
+                        -17.352946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chinhoyi Cave",
+                  "text": "The Chinhoyi Cave viewpoint looks out over a remarkable system of limestone and dolomite caverns concealing a vibrant cobalt-blue pool.",
+                  "category": "natural",
+                  "coords": [
+                        30.12961,
+                        -17.356477
+                  ]
+            },
+            {
+                  "name": "Lions Den",
+                  "text": "Lions Den is a wildlife attraction near the Chinhoyi Caves where visitors can observe regional savanna fauna in dedicated enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        30.128117,
+                        -17.352946
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MW",
     coords: [30.1333, -17.35],
@@ -771,7 +2067,52 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "dianas-vow-rock-art-history-v2",
+    id: "dianas-vow-rock-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diana's Vow rock art",
+                  "text": "Diese archäologische Stätte bewahrt alte Felszeichnungen von historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        32.295978,
+                        -18.360699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diana's Vow rock art",
+                  "text": "Ez a régészeti lelőhely ősi, történelmi jelentőségű sziklarajzokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        32.295978,
+                        -18.360699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diana's Vow rock art",
+                  "text": "Acest sit arheologic păstrează artă rupestră veche de importanță istorică.",
+                  "category": "historical",
+                  "coords": [
+                        32.295978,
+                        -18.360699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diana's Vow rock art",
+                  "text": "This archaeological site preserves ancient rock art of historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        32.295978,
+                        -18.360699
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MA",
     coords: [32.3, -18.3333],
@@ -1011,7 +2352,88 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "old-fort-victoria-history-v2",
+    id: "old-fort-victoria-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "St Francis Italian Church",
+                  "text": "Diese historische Kapelle wurde während des Zweiten Weltkriegs von italienischen Kriegsgefangenen erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        30.866232,
+                        -20.069439
+                  ]
+            },
+            {
+                  "name": "EAG Art Museum",
+                  "text": "Dieses Kunstmuseum präsentiert lokale Werke und kulturelle Ausstellungen in großzügigen Galerieräumen.",
+                  "category": "museum",
+                  "coords": [
+                        30.833024,
+                        -20.078062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St Francis Italian Church",
+                  "text": "Ezt a történelmi kápolnát olasz hadifoglyok építették a második világháború alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        30.866232,
+                        -20.069439
+                  ]
+            },
+            {
+                  "name": "EAG Art Museum",
+                  "text": "Ez a művészeti múzeum helyi alkotásokat és kulturális kiállításokat mutat be tágas galériaterekben.",
+                  "category": "museum",
+                  "coords": [
+                        30.833024,
+                        -20.078062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St Francis Italian Church",
+                  "text": "Această capelă istorică a fost construită de prizonierii de război italieni în timpul celui de-al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        30.866232,
+                        -20.069439
+                  ]
+            },
+            {
+                  "name": "EAG Art Museum",
+                  "text": "Acest muzeu de artă prezintă lucrări locale și expoziții culturale în spații de galerie generoase.",
+                  "category": "museum",
+                  "coords": [
+                        30.833024,
+                        -20.078062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Francis Italian Church",
+                  "text": "This historic chapel was constructed by Italian prisoners of war during World War II.",
+                  "category": "landmark",
+                  "coords": [
+                        30.866232,
+                        -20.069439
+                  ]
+            },
+            {
+                  "name": "EAG Art Museum",
+                  "text": "This art museum showcases local works and cultural exhibits in spacious gallery rooms.",
+                  "category": "museum",
+                  "coords": [
+                        30.833024,
+                        -20.078062
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MV",
     coords: [30.8333, -20.0833],
@@ -1071,7 +2493,376 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-tuli-history-v2",
+    id: "fort-tuli-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tuli Pioneer Cemetary",
+                  "text": "Der Tuli Pioneer Cemetery bewahrt die historischen Gräber früher Siedler und Soldaten der British South Africa Company.",
+                  "category": "landmark",
+                  "coords": [
+                        29.16806,
+                        -21.929585
+                  ]
+            },
+            {
+                  "name": "Site of Old Browns Hotel",
+                  "text": "Das Gelände des Old Browns Hotel markiert die Ruinen einer frühen kolonialen Unterkunft, die einst Pionieren auf der Durchreise in Fort Tuli diente.",
+                  "category": "landmark",
+                  "coords": [
+                        29.189195,
+                        -21.934241
+                  ]
+            },
+            {
+                  "name": "Pioneer Plaque",
+                  "text": "Die Pioneer Plaque ist ein Gedenkmonument, das die historische Route und die Ankunft der Pioneer Column im späten 19. Jahrhundert dokumentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.190753,
+                        -21.927173
+                  ]
+            },
+            {
+                  "name": "Pioneer Botanical Reserve",
+                  "text": "Das Pioneer Botanical Reserve schützt die einheimische Ufervegetation und alte Affenbrotbäume entlang des Shashe-Flusstals.",
+                  "category": "natural",
+                  "coords": [
+                        29.188044,
+                        -21.918668
+                  ]
+            },
+            {
+                  "name": "Pioneer Rubbish dump",
+                  "text": "Der Pioneer Rubbish Dump ist eine faszinierende archäologische Stätte, übersät mit Glasflaschen und Artefakten aus dem 19. Jahrhundert, die von der ursprünglichen Kolonialgarnison hinterlassen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        29.178157,
+                        -21.937555
+                  ]
+            },
+            {
+                  "name": "Tolo River Botanical Reserve",
+                  "text": "Das Tolo River Botanical Reserve präsentiert ein empfindliches Fluss-Ökosystem, umgeben von zerklüfteten Sandsteinrücken.",
+                  "category": "natural",
+                  "coords": [
+                        29.179289,
+                        -21.949953
+                  ]
+            },
+            {
+                  "name": "Tuli Safari Area",
+                  "text": "Die Tuli Safari Area ist eine riesige, nicht eingezäunte Wildnis, die durch massive Affenbrotbäume und große wandernde Elefantenherden gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.121341,
+                        -21.963129
+                  ]
+            },
+            {
+                  "name": "Tuli Prison",
+                  "text": "Das historische Tuli-Gefängnis zeigt die steinernen Überreste des ursprünglichen Pioniergefängnisses aus dem späten 19. Jahrhundert, das zur Aufrechterhaltung der Ordnung in dem abgelegenen Außenposten erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        29.17832,
+                        -21.930996
+                  ]
+            },
+            {
+                  "name": "Fort Tuli Pioneers",
+                  "text": "Die Stätte der Fort Tuli Pioneers umfasst die strategischen Ruinen auf dem Hügel, wo die Pioneer Column 1890 ihre erste Verteidigungsfestung errichtete.",
+                  "category": "landmark",
+                  "coords": [
+                        29.175722,
+                        -21.930861
+                  ]
+            },
+            {
+                  "name": "South Camp Botanical Reserve",
+                  "text": "Das South Camp Botanical Reserve ist ein geschützter Lebensraum, der für seine dichten Mopane-Wälder und historischen Verbindungen zu frühen Pionierlagern bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.21406,
+                        -21.975579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tuli Pioneer Cemetary",
+                  "text": "A Tuli Pioneer Cemetery a British South Africa Company korai telepeseinek és katonáinak történelmi sírjait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.16806,
+                        -21.929585
+                  ]
+            },
+            {
+                  "name": "Site of Old Browns Hotel",
+                  "text": "Az Old Browns Hotel helye egy korai gyarmati szálláshely romjait jelöli, amely egykor a Fort Tulin áthaladó úttörőket szolgálta ki.",
+                  "category": "landmark",
+                  "coords": [
+                        29.189195,
+                        -21.934241
+                  ]
+            },
+            {
+                  "name": "Pioneer Plaque",
+                  "text": "A Pioneer Plaque egy emlékmű, amely a Pioneer Column történelmi útvonalát és 19. század végi érkezését részletezi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.190753,
+                        -21.927173
+                  ]
+            },
+            {
+                  "name": "Pioneer Botanical Reserve",
+                  "text": "A Pioneer Botanical Reserve a Shashe-folyó völgyének őshonos ártéri növényzetét és ősi baobabfáit védi.",
+                  "category": "natural",
+                  "coords": [
+                        29.188044,
+                        -21.918668
+                  ]
+            },
+            {
+                  "name": "Pioneer Rubbish dump",
+                  "text": "A Pioneer Rubbish Dump egy lenyűgöző régészeti lelőhely, amely tele van 19. századi üvegpalackokkal és az eredeti gyarmati helyőrség által hátrahagyott tárgyakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        29.178157,
+                        -21.937555
+                  ]
+            },
+            {
+                  "name": "Tolo River Botanical Reserve",
+                  "text": "A Tolo River Botanical Reserve egy érzékeny folyóparti ökoszisztémát mutat be, amelyet zord homokkőgerincek vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        29.179289,
+                        -21.949953
+                  ]
+            },
+            {
+                  "name": "Tuli Safari Area",
+                  "text": "A Tuli Safari Area egy hatalmas, kerítetlen vadon, amelyet masszív baobabfák és nagy vándorló elefántcsordák jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        29.121341,
+                        -21.963129
+                  ]
+            },
+            {
+                  "name": "Tuli Prison",
+                  "text": "A történelmi Tuli börtön a 19. század végi eredeti úttörő börtön kőmaradványait őrzi, amelyet a távoli előőrs rendjének fenntartására építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        29.17832,
+                        -21.930996
+                  ]
+            },
+            {
+                  "name": "Fort Tuli Pioneers",
+                  "text": "A Fort Tuli Pioneers helyszíne magában foglalja azokat a stratégiai hegytetői romokat, ahol a Pioneer Column 1890-ben felépítette első védelmi erődjét.",
+                  "category": "landmark",
+                  "coords": [
+                        29.175722,
+                        -21.930861
+                  ]
+            },
+            {
+                  "name": "South Camp Botanical Reserve",
+                  "text": "A South Camp Botanical Reserve egy védett élőhely, amely sűrű mopane erdőiről és a korai úttörőtáborokhoz fűződő történelmi kapcsolatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.21406,
+                        -21.975579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tuli Pioneer Cemetary",
+                  "text": "Cimitirul Pionierilor Tuli păstrează mormintele istorice ale primilor coloniști și soldați ai British South Africa Company.",
+                  "category": "landmark",
+                  "coords": [
+                        29.16806,
+                        -21.929585
+                  ]
+            },
+            {
+                  "name": "Site of Old Browns Hotel",
+                  "text": "Situl vechiului hotel Browns marchează ruinele unei unități de cazare coloniale timpurii care a deservit cândva pionierii ce treceau prin Fort Tuli.",
+                  "category": "landmark",
+                  "coords": [
+                        29.189195,
+                        -21.934241
+                  ]
+            },
+            {
+                  "name": "Pioneer Plaque",
+                  "text": "Placa Pionierilor este un monument comemorativ care detaliază traseul istoric și sosirea Coloanei Pionierilor la sfârșitul secolului al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        29.190753,
+                        -21.927173
+                  ]
+            },
+            {
+                  "name": "Pioneer Botanical Reserve",
+                  "text": "Rezervația Botanică a Pionierilor protejează vegetația riverană indigenă și copacii baobab antici de-a lungul văii râului Shashe.",
+                  "category": "natural",
+                  "coords": [
+                        29.188044,
+                        -21.918668
+                  ]
+            },
+            {
+                  "name": "Pioneer Rubbish dump",
+                  "text": "Groapa de Gunoi a Pionierilor este un sit arheologic fascinant, plin cu sticle de sticlă din secolul al XIX-lea și artefacte lăsate de garnizoana colonială originală.",
+                  "category": "landmark",
+                  "coords": [
+                        29.178157,
+                        -21.937555
+                  ]
+            },
+            {
+                  "name": "Tolo River Botanical Reserve",
+                  "text": "Rezervația Botanică a Râului Tolo prezintă un ecosistem riveran delicat, înconjurat de creste de gresie accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        29.179289,
+                        -21.949953
+                  ]
+            },
+            {
+                  "name": "Tuli Safari Area",
+                  "text": "Zona de Safari Tuli este o sălbăticie vastă, neîngrădită, caracterizată prin copaci baobab masivi și turme mari de elefanți rătăcitori.",
+                  "category": "natural",
+                  "coords": [
+                        29.121341,
+                        -21.963129
+                  ]
+            },
+            {
+                  "name": "Tuli Prison",
+                  "text": "Închisoarea istorică Tuli prezintă rămășițele de piatră ale închisorii originale a pionierilor de la sfârșitul secolului al XIX-lea, construită pentru a menține ordinea în avanpostul îndepărtat.",
+                  "category": "landmark",
+                  "coords": [
+                        29.17832,
+                        -21.930996
+                  ]
+            },
+            {
+                  "name": "Fort Tuli Pioneers",
+                  "text": "Situl Pionierilor din Fort Tuli include ruinele strategice din vârful dealului unde Coloana Pionierilor și-a construit primul fort defensiv în 1890.",
+                  "category": "landmark",
+                  "coords": [
+                        29.175722,
+                        -21.930861
+                  ]
+            },
+            {
+                  "name": "South Camp Botanical Reserve",
+                  "text": "Rezervația Botanică South Camp este un habitat protejat, cunoscut pentru pădurile sale dense de Mopane și legăturile istorice cu taberele timpurii ale pionierilor.",
+                  "category": "natural",
+                  "coords": [
+                        29.21406,
+                        -21.975579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tuli Pioneer Cemetary",
+                  "text": "The Tuli Pioneer Cemetery preserves the historic graves of early British South Africa Company settlers and soldiers.",
+                  "category": "landmark",
+                  "coords": [
+                        29.16806,
+                        -21.929585
+                  ]
+            },
+            {
+                  "name": "Site of Old Browns Hotel",
+                  "text": "The Site of Old Browns Hotel marks the ruins of an early colonial accommodation that once served pioneers passing through Fort Tuli.",
+                  "category": "landmark",
+                  "coords": [
+                        29.189195,
+                        -21.934241
+                  ]
+            },
+            {
+                  "name": "Pioneer Plaque",
+                  "text": "The Pioneer Plaque is a commemorative monument detailing the historical route and arrival of the Pioneer Column in the late 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        29.190753,
+                        -21.927173
+                  ]
+            },
+            {
+                  "name": "Pioneer Botanical Reserve",
+                  "text": "The Pioneer Botanical Reserve protects the indigenous riparian vegetation and ancient baobab trees along the Shashe River valley.",
+                  "category": "natural",
+                  "coords": [
+                        29.188044,
+                        -21.918668
+                  ]
+            },
+            {
+                  "name": "Pioneer Rubbish dump",
+                  "text": "The Pioneer Rubbish Dump is a fascinating archaeological site filled with 19th-century glass bottles and artifacts left by the original colonial garrison.",
+                  "category": "landmark",
+                  "coords": [
+                        29.178157,
+                        -21.937555
+                  ]
+            },
+            {
+                  "name": "Tolo River Botanical Reserve",
+                  "text": "The Tolo River Botanical Reserve showcases a delicate riverine ecosystem surrounded by rugged sandstone ridges.",
+                  "category": "natural",
+                  "coords": [
+                        29.179289,
+                        -21.949953
+                  ]
+            },
+            {
+                  "name": "Tuli Safari Area",
+                  "text": "The Tuli Safari Area is a vast, unfenced wilderness characterized by massive baobabs and large wandering elephant herds.",
+                  "category": "natural",
+                  "coords": [
+                        29.121341,
+                        -21.963129
+                  ]
+            },
+            {
+                  "name": "Tuli Prison",
+                  "text": "The historical Tuli Prison features the stone remnants of the original late 19th-century pioneer gaol built to maintain order in the remote outpost.",
+                  "category": "landmark",
+                  "coords": [
+                        29.17832,
+                        -21.930996
+                  ]
+            },
+            {
+                  "name": "Fort Tuli Pioneers",
+                  "text": "The Fort Tuli Pioneers site includes the strategic hilltop ruins where the Pioneer Column first constructed their defensive fort in 1890.",
+                  "category": "landmark",
+                  "coords": [
+                        29.175722,
+                        -21.930861
+                  ]
+            },
+            {
+                  "name": "South Camp Botanical Reserve",
+                  "text": "The South Camp Botanical Reserve is a protected habitat known for its dense Mopane woodlands and historical ties to early pioneer encampments.",
+                  "category": "natural",
+                  "coords": [
+                        29.21406,
+                        -21.975579
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MS",
     coords: [29.2, -21.9167],
@@ -1191,7 +2982,88 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "allan-wilson-memorial-history-v2",
+    id: "allan-wilson-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pomongwe Cave",
+                  "text": "Eine weitläufige Höhle, die durch ihre tiefe archäologische Geschichte und antike Felskunst fasziniert.",
+                  "category": "historical",
+                  "coords": [
+                        28.513254,
+                        -20.547705
+                  ]
+            },
+            {
+                  "name": "Matobo National Park",
+                  "text": "Dieses beeindruckende Naturschutzgebiet ist für seine balancierenden Granitkuppen und seine reiche Artenvielfalt berühmt.",
+                  "category": "natural",
+                  "coords": [
+                        28.525934,
+                        -20.537446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pomongwe Cave",
+                  "text": "Kiterjedt barlang, amely mély régészeti történelmével és ősi sziklaművészetével nyűgöz le.",
+                  "category": "historical",
+                  "coords": [
+                        28.513254,
+                        -20.547705
+                  ]
+            },
+            {
+                  "name": "Matobo National Park",
+                  "text": "Ez a lenyűgöző természetvédelmi terület egyensúlyozó gránitszikláiról és gazdag biodiverzitásáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        28.525934,
+                        -20.537446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pomongwe Cave",
+                  "text": "O peșteră extinsă care fascinează prin istoria sa arheologică profundă și arta rupestră antică.",
+                  "category": "historical",
+                  "coords": [
+                        28.513254,
+                        -20.547705
+                  ]
+            },
+            {
+                  "name": "Matobo National Park",
+                  "text": "Această rezervație naturală impresionantă este renumită pentru formațiunile sale stâncoase de granit în echilibru și pentru biodiversitatea bogată.",
+                  "category": "natural",
+                  "coords": [
+                        28.525934,
+                        -20.537446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pomongwe Cave",
+                  "text": "An expansive cave that fascinates with its deep archaeological history and ancient rock art.",
+                  "category": "historical",
+                  "coords": [
+                        28.513254,
+                        -20.547705
+                  ]
+            },
+            {
+                  "name": "Matobo National Park",
+                  "text": "This stunning nature reserve is famous for its balancing granite kopjes and rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        28.525934,
+                        -20.537446
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MS",
     coords: [28.5167, -20.55],
@@ -1251,7 +3123,52 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "pioneer-cemetery-harare-history-v2",
+    id: "pioneer-cemetery-harare-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ZBC Radio Zimbabwe",
+                  "text": "Die Sendestudios dieses nationalen Radiosenders befinden sich in der Nähe des Geländes des historischen Pionierfriedhofs.",
+                  "category": "cultural",
+                  "coords": [
+                        31.031681,
+                        -17.856173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ZBC Radio Zimbabwe",
+                  "text": "Ennek a nemzeti rádióállomásnak a műsorszóró stúdiói a történelmi Úttörő Temető területének közelében találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        31.031681,
+                        -17.856173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ZBC Radio Zimbabwe",
+                  "text": "Studiourile de difuzare ale acestui post național de radio sunt situate în apropierea terenurilor istoricului Cimitir al Pionierilor.",
+                  "category": "cultural",
+                  "coords": [
+                        31.031681,
+                        -17.856173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ZBC Radio Zimbabwe",
+                  "text": "The broadcasting studios of this national radio station are located near the grounds of the historic Pioneer Cemetery.",
+                  "category": "cultural",
+                  "coords": [
+                        31.031681,
+                        -17.856173
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-HA",
     coords: [31.0333, -17.85],
@@ -1311,7 +3228,124 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "the-kopje-history-v2",
+    id: "the-kopje-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Exhibition Park",
+                  "text": "Dieses große landwirtschaftliche Ausstellungsgelände in der Nähe des Kopje veranstaltet regelmäßig Handelsmessen und Landwirtschaftsausstellungen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.027523,
+                        -17.832505
+                  ]
+            },
+            {
+                  "name": "City View Point",
+                  "text": "Dieser erhöhte Aussichtspunkt auf dem Kopje-Hügel bietet ein umfassendes Panorama auf die Skyline von Harare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.038284,
+                        -17.840607
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Museum of Human Sciences",
+                  "text": "Dieses Museum in der Nähe des historischen Kopje zeigt eine renommierte Sammlung ethnografischer Artefakte und das berühmte Lemba-Artefakt.",
+                  "category": "museum",
+                  "coords": [
+                        31.038852,
+                        -17.832337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Exhibition Park",
+                  "text": "Ez a Kopje közelében található nagy mezőgazdasági kiállítási terület rendszeresen ad otthont vásároknak és mezőgazdasági kiállításoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        31.027523,
+                        -17.832505
+                  ]
+            },
+            {
+                  "name": "City View Point",
+                  "text": "Ez a Kopje dombon található megemelt kilátó átfogó panorámát nyújt a hararei városkép felett.",
+                  "category": "landmark",
+                  "coords": [
+                        31.038284,
+                        -17.840607
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Museum of Human Sciences",
+                  "text": "Ez a történelmi Kopje közelében található múzeum híres néprajzi műtárgyak gyűjteményét és a híres Lemba-leletet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.038852,
+                        -17.832337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Exhibition Park",
+                  "text": "Acest mare centru expozițional agricol de lângă Kopje găzduiește periodic târguri comerciale și expoziții agricole.",
+                  "category": "landmark",
+                  "coords": [
+                        31.027523,
+                        -17.832505
+                  ]
+            },
+            {
+                  "name": "City View Point",
+                  "text": "Acest punct de observație elevat de pe dealul Kopje oferă o panoramă vastă a orizontului orașului Harare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.038284,
+                        -17.840607
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Museum of Human Sciences",
+                  "text": "Acest muzeu din apropierea istoricului Kopje expune o colecție renumită de artefacte etnografice și faimosul artefact Lemba.",
+                  "category": "museum",
+                  "coords": [
+                        31.038852,
+                        -17.832337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Exhibition Park",
+                  "text": "This large agricultural showground near the Kopje hosts regular trade fairs and farming exhibitions.",
+                  "category": "landmark",
+                  "coords": [
+                        31.027523,
+                        -17.832505
+                  ]
+            },
+            {
+                  "name": "City View Point",
+                  "text": "This elevated lookout on the Kopje hill offers a comprehensive panorama of the Harare city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        31.038284,
+                        -17.840607
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Museum of Human Sciences",
+                  "text": "This museum near the historic Kopje displays a renowned collection of ethnographic artifacts and the famous Lemba artifact.",
+                  "category": "museum",
+                  "coords": [
+                        31.038852,
+                        -17.832337
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-HA",
     coords: [31.0333, -17.8333],
@@ -1431,7 +3465,124 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "king-mzilikazis-grave-history-v2",
+    id: "king-mzilikazis-grave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Bulawayo",
+                  "text": "Ein monumentaler Ort, der die historische Hauptstadt des Ndebele-Königreichs markiert.",
+                  "category": "historical",
+                  "coords": [
+                        28.653004,
+                        -20.339414
+                  ]
+            },
+            {
+                  "name": "King Mzilikazi Tomb",
+                  "text": "Die verehrte letzte Ruhestätte und bedeutende archäologische Stätte des Gründerkönigs der Ndebele.",
+                  "category": "historical",
+                  "coords": [
+                        28.591364,
+                        -20.376904
+                  ]
+            },
+            {
+                  "name": "Inkosi Mzilikazi Memorial Site",
+                  "text": "Ein Denkmal, das dem Vermächtnis und der Herrschaft des historischen Ndebele-Führers gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        28.575084,
+                        -20.326729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Bulawayo",
+                  "text": "Egy monumentális helyszín, amely a Ndebele Királyság történelmi fővárosát jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        28.653004,
+                        -20.339414
+                  ]
+            },
+            {
+                  "name": "King Mzilikazi Tomb",
+                  "text": "A Ndebele alapító király tisztelt végső nyughelye és jelentős régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        28.591364,
+                        -20.376904
+                  ]
+            },
+            {
+                  "name": "Inkosi Mzilikazi Memorial Site",
+                  "text": "Egy emlékmű, amelyet a történelmi Ndebele vezető örökségének és uralkodásának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        28.575084,
+                        -20.326729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Bulawayo",
+                  "text": "Un sit monumental care marchează capitala istorică a regatului Ndebele.",
+                  "category": "historical",
+                  "coords": [
+                        28.653004,
+                        -20.339414
+                  ]
+            },
+            {
+                  "name": "King Mzilikazi Tomb",
+                  "text": "Locul de odihnă venerat și situl arheologic semnificativ al regelui fondator Ndebele.",
+                  "category": "historical",
+                  "coords": [
+                        28.591364,
+                        -20.376904
+                  ]
+            },
+            {
+                  "name": "Inkosi Mzilikazi Memorial Site",
+                  "text": "Un monument dedicat moștenirii și domniei istoricului lider Ndebele.",
+                  "category": "historical",
+                  "coords": [
+                        28.575084,
+                        -20.326729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Bulawayo",
+                  "text": "A monumental site marking the historic capital of the Ndebele kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        28.653004,
+                        -20.339414
+                  ]
+            },
+            {
+                  "name": "King Mzilikazi Tomb",
+                  "text": "The revered final resting place and significant archaeological site of the foundational Ndebele king.",
+                  "category": "historical",
+                  "coords": [
+                        28.591364,
+                        -20.376904
+                  ]
+            },
+            {
+                  "name": "Inkosi Mzilikazi Memorial Site",
+                  "text": "A monument dedicated to the legacy and reign of the historic Ndebele leader.",
+                  "category": "historical",
+                  "coords": [
+                        28.575084,
+                        -20.326729
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MS",
     coords: [28.6167, -20.3167],
@@ -1611,7 +3762,52 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-rixon-history-v2",
+    id: "fort-rixon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhlodhlo Ruins",
+                  "text": "Eine archäologische Stätte, die die Überreste einer alten Siedlung mit beeindruckenden Trockenmauern zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        29.331284,
+                        -19.946806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhlodhlo Ruins",
+                  "text": "Egy régészeti lelőhely, amely egy ősi település maradványait mutatja be lenyűgöző szárazkő falakkal.",
+                  "category": "museum",
+                  "coords": [
+                        29.331284,
+                        -19.946806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhlodhlo Ruins",
+                  "text": "Un sit arheologic care prezintă rămășițele unei așezări antice cu ziduri impresionante din piatră uscată.",
+                  "category": "museum",
+                  "coords": [
+                        29.331284,
+                        -19.946806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhlodhlo Ruins",
+                  "text": "An archaeological site featuring the remains of an ancient settlement with impressive dry-stone walls.",
+                  "category": "museum",
+                  "coords": [
+                        29.331284,
+                        -19.946806
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MS",
     coords: [29.3333, -20.0167],
@@ -1731,7 +3927,232 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     },
   },
   {
-    id: "victoria-falls-bridge-history-v2",
+    id: "victoria-falls-bridge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chikopokopo",
+                  "text": "Eine auf die Luftfahrt ausgerichtete Attraktion, die aufregende Hubschrauberflüge mit atemberaubenden Luftperspektiven über die majestätischen Victoriafälle anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.810007,
+                        -17.964773
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "Die Startplattform für eine adrenalingeladene Seilrutsche, die sich direkt über die tiefe Schlucht des Sambesi-Flusses erstreckt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "Die abschließende Landezone für die spektakuläre Schluchtenschaukel und Seilrutsche, die sicher am Rand der Sambesi-Schlucht liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "Ein dramatischer Aussichtspunkt mit Blick hinab in den wirbelnden, turbulenten Strudel, wo das Wasser der Victoriafälle in die schmale Schlucht stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "Ein informatives Museum, das die bemerkenswerte Ingenieursgeschichte und den komplexen Bau der berühmten Victoria Falls Bridge detailliert darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "Eine Extremsportattraktion, bei der Wagemutige im freien Fall stürzen, bevor sie in einem riesigen Bogen über die tiefe Sambesi-Schlucht schwingen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chikopokopo",
+                  "text": "A repülésre fókuszáló látványosság, amely izgalmas helikopteres repüléseket kínál, légi kilátást nyújtva a fenséges Viktória-vízesésre.",
+                  "category": "landmark",
+                  "coords": [
+                        25.810007,
+                        -17.964773
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "Az indítóállomás egy adrenalinnövelő drótkötélpályához, amely közvetlenül a mély Zambézi-folyó szurdoka felett húzódik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "A látványos szurdokhinta és drótkötélpálya végső leszálló zónája, amely biztonságosan a Zambézi-szurdok szélén helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "Drámai kilátópont, ahonnan le lehet tekinteni az örvénylő, viharos medencébe, ahol a Viktória-vízesés vize a szűk szurdokba zuhan.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "Informatív múzeum, amely részletezi az ikonikus Viktória-vízesés híd figyelemre méltó mérnöki történelmét és bonyolult építését.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "Extrémsport-látványosság, ahol a merészek szabadesésben zuhannak, mielőtt egy óriási ívben kilengenének a mély Zambézi-folyó szurdoka felett.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chikopokopo",
+                  "text": "O atracție axată pe aviație care oferă zboruri palpitante cu elicopterul cu perspective aeriene asupra maiestuoasei Cascade Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.810007,
+                        -17.964773
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "Platforma de lansare pentru o plimbare cu tiroliana plină de adrenalină, care se întinde direct peste defileul adânc al râului Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "Zona de aterizare finală pentru spectaculosul leagăn deasupra defileului și tiroliană, situată în siguranță pe marginea defileului Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "Un punct de observație dramatic cu vedere în jos spre vârtejul turbulent în care apele Cascadei Victoria se prăbușesc în defileul îngust.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "Un muzeu informațional care detaliază istoria inginerească remarcabilă și construcția complexă a emblematicului Pod al Cascadei Victoria.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "O atracție de sport extrem în care curajoșii sunt în cădere liberă înainte de a se legăna pe un arc uriaș deasupra defileului adânc al râului Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chikopokopo",
+                  "text": "An aviation-focused attraction providing thrilling helicopter flights offering aerial perspectives over the majestic Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.810007,
+                        -17.964773
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "The launching platform for an adrenaline-pumping zipline ride that stretches directly across the deep Zambezi River gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "The concluding landing zone for the spectacular gorge swing and zipline, situated securely on the edge of the Zambezi gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "A dramatic vantage point looking down into the swirling, turbulent whirlpool where the waters of Victoria Falls crash into the narrow gorge.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "An informational museum detailing the remarkable engineering history and intricate construction of the iconic Victoria Falls Bridge.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "An extreme sports attraction where daredevils free-fall before swinging widely in a giant arc over the deep Zambezi river gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZW-MN",
     coords: [25.8572, -17.9283],

@@ -35,7 +35,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/okavango-delta-animal-habitat-life-v2.webp"},
   {
-    id: "chobe-national-park-animal-habitat-life-v2",
+    id: "chobe-national-park-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chobe Forest Reserve",
+                  "text": "Das Chobe Forest Reserve im chobe-national-park-animal-habitat-life-v2 schützt dichte Baumbestände, die vielen Wildtieren als Lebensraum dienen.",
+                  "category": "natural",
+                  "coords": [
+                        24.506182,
+                        -18.277585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chobe Forest Reserve",
+                  "text": "A chobe-national-park-animal-habitat-life-v2-ben található Chobe Forest Reserve sűrű erdőket véd, amelyek számos vadállatnak nyújtanak élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        24.506182,
+                        -18.277585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chobe Forest Reserve",
+                  "text": "Rezervația Chobe Forest Reserve din chobe-national-park-animal-habitat-life-v2 protejează suprafețe împădurite dense esențiale pentru viața sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        24.506182,
+                        -18.277585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chobe Forest Reserve",
+                  "text": "The Chobe Forest Reserve protects dense woodland ecosystems essential for wildlife habitats within chobe-national-park-animal-habitat-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        24.506182,
+                        -18.277585
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-NW",
     coords: [24.50, -18.25],
@@ -99,7 +144,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/makgadikgadi-pans-animal-habitat-life-v2.webp"},
     {
-    id: "gaborone-game-reserve-animal-habitat-life-v2",
+    id: "gaborone-game-reserve-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Decoon",
+                  "text": "Decoon ist eine Attraktion im Gebiet gaborone-game-reserve-animal-habitat-life-v2, die Einblicke in den Lebensraum des lokalen Wildreservats bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.914189,
+                        -24.624279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Decoon",
+                  "text": "A Decoon egy látványosság a gaborone-game-reserve-animal-habitat-life-v2 területen, amely betekintést nyújt a helyi vadrezervátum élőhelyébe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.914189,
+                        -24.624279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Decoon",
+                  "text": "Decoon este o atracție din gaborone-game-reserve-animal-habitat-life-v2, care oferă informații despre habitatul rezervației locale de vânătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        25.914189,
+                        -24.624279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Decoon",
+                  "text": "Decoon is an attraction in gaborone-game-reserve-animal-habitat-life-v2 offering insights into the local game reserve habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        25.914189,
+                        -24.624279
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-SE",
     coords: [25.92, -24.63],
@@ -131,7 +221,160 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/gaborone-game-reserve-animal-habitat-life-v2.webp"},
   {
-    id: "mokolodi-nature-reserve-animal-habitat-life-v2",
+    id: "mokolodi-nature-reserve-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mokolodi Reptile Park",
+                  "text": "Der Mokolodi Reptile Park in mokolodi-nature-reserve-animal-habitat-life-v2 zeigt Ausstellungen verschiedener Schlangen und einheimischer Reptilien.",
+                  "category": "landmark",
+                  "coords": [
+                        25.815005,
+                        -24.738689
+                  ]
+            },
+            {
+                  "name": "Lion Park",
+                  "text": "Der Lion Park in mokolodi-nature-reserve-animal-habitat-life-v2 ist ein Zoo, der sich der Präsentation von Löwen in weitläufigen Gehegen widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816165,
+                        -24.786468
+                  ]
+            },
+            {
+                  "name": "Cheetah Enclosure",
+                  "text": "Das Cheetah Enclosure in mokolodi-nature-reserve-animal-habitat-life-v2 ist ein spezialisiertes Zoogehege, in dem Besucher die schnellsten Landsäugetiere der Welt sehen können.",
+                  "category": "recreational",
+                  "coords": [
+                        25.812442,
+                        -24.736243
+                  ]
+            },
+            {
+                  "name": "Mokolodi Nature Reserve",
+                  "text": "Das Mokolodi Nature Reserve ist ein weitläufiges Naturschutzgebiet, das für seine Schutzbemühungen und seine Nashornpopulation bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.780519,
+                        -24.755044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mokolodi Reptile Park",
+                  "text": "A Mokolodi Hüllőpark a mokolodi-nature-reserve-animal-habitat-life-v2 területen különféle kígyók és őshonos hüllők kiállításait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        25.815005,
+                        -24.738689
+                  ]
+            },
+            {
+                  "name": "Lion Park",
+                  "text": "Az Oroszlánpark a mokolodi-nature-reserve-animal-habitat-life-v2 területen egy állatkert, amely az oroszlánok tágas kifutókban történő bemutatásának szentelt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816165,
+                        -24.786468
+                  ]
+            },
+            {
+                  "name": "Cheetah Enclosure",
+                  "text": "A Gepárdkifutó a mokolodi-nature-reserve-animal-habitat-life-v2 területen egy speciális állatkerti élőhely, ahol a látogatók a világ leggyorsabb szárazföldi emlőseit tekinthetik meg.",
+                  "category": "recreational",
+                  "coords": [
+                        25.812442,
+                        -24.736243
+                  ]
+            },
+            {
+                  "name": "Mokolodi Nature Reserve",
+                  "text": "A Mokolodi Természetvédelmi Terület egy kiterjedt védett vadvilági terület, amely természetvédelmi erőfeszítéseiről és orrszarvúpopulációjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.780519,
+                        -24.755044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mokolodi Reptile Park",
+                  "text": "Parcul de Reptile Mokolodi din mokolodi-nature-reserve-animal-habitat-life-v2 prezintă expoziții cu diverși șerpi și reptile indigene.",
+                  "category": "landmark",
+                  "coords": [
+                        25.815005,
+                        -24.738689
+                  ]
+            },
+            {
+                  "name": "Lion Park",
+                  "text": "Parcul Leilor din mokolodi-nature-reserve-animal-habitat-life-v2 este o grădină zoologică dedicată prezentării leilor în adăposturi expansive.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816165,
+                        -24.786468
+                  ]
+            },
+            {
+                  "name": "Cheetah Enclosure",
+                  "text": "Țarcul Gheparzilor din mokolodi-nature-reserve-animal-habitat-life-v2 este un habitat zoologic specializat care permite vizitatorilor să vadă cele mai rapide mamifere terestre din lume.",
+                  "category": "recreational",
+                  "coords": [
+                        25.812442,
+                        -24.736243
+                  ]
+            },
+            {
+                  "name": "Mokolodi Nature Reserve",
+                  "text": "Rezervația Naturală Mokolodi este o zonă protejată întinsă pentru viața sălbatică, cunoscută pentru eforturile sale de conservare și populația de rinoceri.",
+                  "category": "natural",
+                  "coords": [
+                        25.780519,
+                        -24.755044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mokolodi Reptile Park",
+                  "text": "Mokolodi Reptile Park in mokolodi-nature-reserve-animal-habitat-life-v2 features exhibits of various snakes and indigenous reptiles.",
+                  "category": "landmark",
+                  "coords": [
+                        25.815005,
+                        -24.738689
+                  ]
+            },
+            {
+                  "name": "Lion Park",
+                  "text": "The Lion Park in mokolodi-nature-reserve-animal-habitat-life-v2 is a zoo dedicated to showcasing lions in expansive enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816165,
+                        -24.786468
+                  ]
+            },
+            {
+                  "name": "Cheetah Enclosure",
+                  "text": "The Cheetah Enclosure in mokolodi-nature-reserve-animal-habitat-life-v2 is a specialized zoo habitat allowing visitors to see the world's fastest land mammals.",
+                  "category": "recreational",
+                  "coords": [
+                        25.812442,
+                        -24.736243
+                  ]
+            },
+            {
+                  "name": "Mokolodi Nature Reserve",
+                  "text": "Mokolodi Nature Reserve is a sprawling protected wildlife area known for its conservation efforts and rhinoceros population.",
+                  "category": "natural",
+                  "coords": [
+                        25.780519,
+                        -24.755044
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-SE",
     coords: [25.85, -24.75],
@@ -163,7 +406,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mokolodi-nature-reserve-animal-habitat-life-v2.webp"},
   {
-    id: "northern-tulifarm-agriculture-life-v2",
+    id: "northern-tulifarm-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Northern Tuli Game Reserve",
+                  "text": "Das Northern Tuli Game Reserve bietet eine weite, geschützte Wildnis, die für ihre markanten Felsformationen und frei lebenden Wildtiere bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.081486,
+                        -22.134041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Northern Tuli Game Reserve",
+                  "text": "A Northern Tuli Game Reserve hatalmas kiterjedésű, védett vadon, amely drámai sziklakibúvásairól és szabadon kószáló vadállatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.081486,
+                        -22.134041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Northern Tuli Game Reserve",
+                  "text": "Rezervația de vânătoare Northern Tuli oferă o vastă întindere de sălbăticie protejată, cunoscută pentru aflorimentele stâncoase dramatice și fauna care cutreieră liber.",
+                  "category": "natural",
+                  "coords": [
+                        29.081486,
+                        -22.134041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Northern Tuli Game Reserve",
+                  "text": "Northern Tuli Game Reserve offers a vast expanse of protected wilderness known for its dramatic rocky outcrops and free-roaming wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        29.081486,
+                        -22.134041
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BW-CE",
     coords: [29.15, -22.18],
@@ -195,7 +483,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/northern-tulifarm-agriculture-life-v2.webp"},
   {
-    id: "boteti-river-region-animal-habitat-life-v2",
+    id: "boteti-river-region-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rakops",
+                  "text": "Ein Dorf in der Boteti-Flussregion, das als Tor zu den endlosen Makgadikgadi-Salzpfannen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        24.438151,
+                        -21.094694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rakops",
+                  "text": "Egy falu a Boteti-folyó régiójában, amely kapuként szolgál a Makgadikgadi-sóserpenyők felé.",
+                  "category": "landmark",
+                  "coords": [
+                        24.438151,
+                        -21.094694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rakops",
+                  "text": "Un sat din regiunea râului Boteti, care servește drept poartă către întinsele saline Makgadikgadi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.438151,
+                        -21.094694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rakops",
+                  "text": "A village in the Boteti River region serving as a gateway to the expansive Makgadikgadi Pans.",
+                  "category": "landmark",
+                  "coords": [
+                        24.438151,
+                        -21.094694
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-CE",
     coords: [24.40, -21.15],
@@ -259,7 +592,160 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/central-kalahari-game-reserve-animal-habitat-life-v2.webp"},
   {
-    id: "moremi-game-reserve-animal-habitat-life-v2",
+    id: "moremi-game-reserve-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "Ein riesiger, alter Affenbrotbaum als Attraktion, der prominent im vielfältigen Ökosystem des Moremi-Wildreservats steht.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483904,
+                        -19.362292
+                  ]
+            },
+            {
+                  "name": "Makoba Viewpoint",
+                  "text": "Der Makoba Viewpoint bietet weite Panoramablicke über die Feuchtbiotope des Moremi Game Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        23.519915,
+                        -19.472299
+                  ]
+            },
+            {
+                  "name": "Crossing to T junction Gomoti river",
+                  "text": "Diese Flussüberquerung führt in Richtung der Gomoti-Flussmündung und navigiert durch die sandigen und schlammigen Pisten von Moremi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.520281,
+                        -19.48708
+                  ]
+            },
+            {
+                  "name": "1st T junction from Black Pool to Gomoti river",
+                  "text": "Diese strategische Wildniskreuzung markiert den Schnittpunkt auf der landschaftlich reizvollen Route zwischen dem Black Pool und dem Gomoti-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511458,
+                        -19.494231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "Egy hatalmas, ősi baobabfa látványossága, amely kiemelkedik a Moremi Vadaspark változatos ökoszisztémájából.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483904,
+                        -19.362292
+                  ]
+            },
+            {
+                  "name": "Makoba Viewpoint",
+                  "text": "A Makoba-kilátó széles panorámát nyújt a Moremi Vadrezervátum vizes élőhelyeire.",
+                  "category": "natural",
+                  "coords": [
+                        23.519915,
+                        -19.472299
+                  ]
+            },
+            {
+                  "name": "Crossing to T junction Gomoti river",
+                  "text": "Ez a folyami átkelő a Gomoti-folyó elágazása felé vezet, a Moremi homokos és iszapos ösvényein keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        23.520281,
+                        -19.48708
+                  ]
+            },
+            {
+                  "name": "1st T junction from Black Pool to Gomoti river",
+                  "text": "Ez a stratégiai vadonbeli elágazás a Fekete-medence és a Gomoti-folyó közötti festői útvonalon található.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511458,
+                        -19.494231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "Un baobab uriaș și străvechi, o atracție proeminentă în ecosistemul divers al Rezervației de Vânătoare Moremi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483904,
+                        -19.362292
+                  ]
+            },
+            {
+                  "name": "Makoba Viewpoint",
+                  "text": "Makoba Viewpoint oferă o panoramă vastă asupra zonelor umede din Rezervația Moremi Game.",
+                  "category": "natural",
+                  "coords": [
+                        23.519915,
+                        -19.472299
+                  ]
+            },
+            {
+                  "name": "Crossing to T junction Gomoti river",
+                  "text": "Această trecere a râului duce spre intersecția râului Gomoti, navigând pe traseele nisipoase și noroioase din Moremi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.520281,
+                        -19.48708
+                  ]
+            },
+            {
+                  "name": "1st T junction from Black Pool to Gomoti river",
+                  "text": "Această intersecție strategică în sălbăticie marchează nodul de-a lungul rutei pitorești dintre zona Black Pool și râul Gomoti.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511458,
+                        -19.494231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "A massive, ancient baobab tree attraction standing prominently in the diverse ecosystem of the Moremi Game Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483904,
+                        -19.362292
+                  ]
+            },
+            {
+                  "name": "Makoba Viewpoint",
+                  "text": "Makoba Viewpoint provides sweeping panoramas over the wetland habitats of the Moremi Game Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        23.519915,
+                        -19.472299
+                  ]
+            },
+            {
+                  "name": "Crossing to T junction Gomoti river",
+                  "text": "This river crossing leads towards the Gomoti River junction, navigating the challenging sandy and muddy tracks of Moremi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.520281,
+                        -19.48708
+                  ]
+            },
+            {
+                  "name": "1st T junction from Black Pool to Gomoti river",
+                  "text": "This strategic wilderness junction marks the intersection along the scenic route between the Black Pool area and the Gomoti River.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511458,
+                        -19.494231
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-NW",
     coords: [23.50, -19.41],
@@ -291,7 +777,232 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/moremi-game-reserve-animal-habitat-life-v2.webp"},
   {
-    id: "nxai-pan-national-park-animal-habitat-life-v2",
+    id: "nxai-pan-national-park-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "waterhole",
+                  "text": "Ein wichtiger Beobachtungspunkt in der Nxai-Pfanne, an dem sich an die Wüste angepasste Wildtiere zum Trinken versammeln.",
+                  "category": "natural",
+                  "coords": [
+                        24.761344,
+                        -19.936241
+                  ]
+            },
+            {
+                  "name": "Waterhole #2",
+                  "text": "Eine wichtige Wasserstelle für Elefanten und Löwen, die durch die Nxai-Pfanne streifen.",
+                  "category": "natural",
+                  "coords": [
+                        24.74158,
+                        -19.931419
+                  ]
+            },
+            {
+                  "name": "waterhole #1",
+                  "text": "Ein Aussichtspunkt an einer wichtigen Wasserquelle in der trockenen Nationalparklandschaft, ideal für Tierbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        24.764915,
+                        -19.915438
+                  ]
+            },
+            {
+                  "name": "Look out point and hide",
+                  "text": "Ein getarnter Aussichtspunkt, der eine erhöhte Perspektive über ein belebtes Wasserloch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.772429,
+                        -19.949968
+                  ]
+            },
+            {
+                  "name": "Waterhole #4",
+                  "text": "Ein ruhiger Beobachtungspunkt in der Nxai-Pfanne mit Blick auf eine Wasserquelle, die häufig von Giraffen aufgesucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        24.754137,
+                        -19.880202
+                  ]
+            },
+            {
+                  "name": "Nxai Pan National Park",
+                  "text": "Ein weitläufiges Naturschutzgebiet rund um ein fossiles Seebett, das für seine Affenbrotbäume und Gepardenpopulation bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.825769,
+                        -19.920652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "waterhole",
+                  "text": "Létfontosságú megfigyelőpont a Nxai-serpenyőben, ahol sivataghoz alkalmazkodott vadon élő állatok gyűlnek össze inni.",
+                  "category": "natural",
+                  "coords": [
+                        24.761344,
+                        -19.936241
+                  ]
+            },
+            {
+                  "name": "Waterhole #2",
+                  "text": "Egy elengedhetetlen itatóhely a Nxai-serpenyőben kóborló elefántok és oroszlánok számára.",
+                  "category": "natural",
+                  "coords": [
+                        24.74158,
+                        -19.931419
+                  ]
+            },
+            {
+                  "name": "waterhole #1",
+                  "text": "Kiemelkedő vízforrás-kilátó a száraz nemzeti park táján, amely tökéletes a vadleshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.764915,
+                        -19.915438
+                  ]
+            },
+            {
+                  "name": "Look out point and hide",
+                  "text": "Rejtett kilátó, amely magaslati perspektívát nyújt egy forgalmas itató fölött.",
+                  "category": "natural",
+                  "coords": [
+                        24.772429,
+                        -19.949968
+                  ]
+            },
+            {
+                  "name": "Waterhole #4",
+                  "text": "Egy csendes megfigyelőpont a Nxai-serpenyőben, ahonnan rálátás nyílik egy zsiráfok által gyakran látogatott vízforrásra.",
+                  "category": "natural",
+                  "coords": [
+                        24.754137,
+                        -19.880202
+                  ]
+            },
+            {
+                  "name": "Nxai Pan National Park",
+                  "text": "Kiterjedt természetvédelmi terület egy fosszilis tómeder körül, amely baobabfáiról és gepárdpopulációjáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        24.825769,
+                        -19.920652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "waterhole",
+                  "text": "Un punct de observare vital în Nxai Pan, unde viața sălbatică adaptată la deșert se adună pentru a bea.",
+                  "category": "natural",
+                  "coords": [
+                        24.761344,
+                        -19.936241
+                  ]
+            },
+            {
+                  "name": "Waterhole #2",
+                  "text": "Un punct de adăpare esențial pentru elefanții și leii care cutreieră Nxai Pan.",
+                  "category": "natural",
+                  "coords": [
+                        24.74158,
+                        -19.931419
+                  ]
+            },
+            {
+                  "name": "waterhole #1",
+                  "text": "Un punct de belvedere la o sursă critică de apă din peisajul arid al parcului național, perfect pentru observarea animalelor.",
+                  "category": "natural",
+                  "coords": [
+                        24.764915,
+                        -19.915438
+                  ]
+            },
+            {
+                  "name": "Look out point and hide",
+                  "text": "Un adăpost camuflat care oferă o perspectivă înaltă asupra unui ochi de apă aglomerat.",
+                  "category": "natural",
+                  "coords": [
+                        24.772429,
+                        -19.949968
+                  ]
+            },
+            {
+                  "name": "Waterhole #4",
+                  "text": "Un punct de observație liniștit din Nxai Pan, cu vedere la o sursă de apă frecventată de girafe.",
+                  "category": "natural",
+                  "coords": [
+                        24.754137,
+                        -19.880202
+                  ]
+            },
+            {
+                  "name": "Nxai Pan National Park",
+                  "text": "O rezervație naturală vastă centrată în jurul albiei unui lac fosil, renumită pentru baobabi și populația de gheparzi.",
+                  "category": "natural",
+                  "coords": [
+                        24.825769,
+                        -19.920652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "waterhole",
+                  "text": "A vital viewing spot in the Nxai Pan where desert-adapted wildlife gather to drink.",
+                  "category": "natural",
+                  "coords": [
+                        24.761344,
+                        -19.936241
+                  ]
+            },
+            {
+                  "name": "Waterhole #2",
+                  "text": "An essential watering point for elephants and lions roaming the Nxai Pan.",
+                  "category": "natural",
+                  "coords": [
+                        24.74158,
+                        -19.931419
+                  ]
+            },
+            {
+                  "name": "waterhole #1",
+                  "text": "A critical water source viewpoint in the arid national park landscape, perfect for game viewing.",
+                  "category": "natural",
+                  "coords": [
+                        24.764915,
+                        -19.915438
+                  ]
+            },
+            {
+                  "name": "Look out point and hide",
+                  "text": "A camouflaged shelter viewpoint providing an elevated perspective over a busy watering hole.",
+                  "category": "natural",
+                  "coords": [
+                        24.772429,
+                        -19.949968
+                  ]
+            },
+            {
+                  "name": "Waterhole #4",
+                  "text": "A quiet observation point in the Nxai Pan overlooking a water source frequented by giraffes.",
+                  "category": "natural",
+                  "coords": [
+                        24.754137,
+                        -19.880202
+                  ]
+            },
+            {
+                  "name": "Nxai Pan National Park",
+                  "text": "A sprawling nature reserve centered around a fossil lakebed, famous for its baobabs and cheetah population.",
+                  "category": "natural",
+                  "coords": [
+                        24.825769,
+                        -19.920652
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-CE",
     coords: [24.83, -19.91],
@@ -323,7 +1034,88 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/nxai-pan-national-park-animal-habitat-life-v2.webp"},
   {
-    id: "kubu-island-kid-landmark-life-v2",
+    id: "kubu-island-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roam Rock",
+                  "text": "Ein markanter, felsiger Aussichtspunkt in der Nähe der Makgadikgadi-Salzpfannen.",
+                  "category": "natural",
+                  "coords": [
+                        25.832846,
+                        -20.89207
+                  ]
+            },
+            {
+                  "name": "Kubu Island",
+                  "text": "Ein trockener Granitfels-Aussichtspunkt in den Makgadikgadi-Salzpfannen, der für seine uralten Affenbrotbäume bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.822975,
+                        -20.894043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roam Rock",
+                  "text": "Feltűnő, sziklás kilátó a Makgadikgadi-sóserpenyők közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.832846,
+                        -20.89207
+                  ]
+            },
+            {
+                  "name": "Kubu Island",
+                  "text": "Száraz gránitszikla-kilátó a Makgadikgadi-sóserpenyőkben, amely ősi baobabfáiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        25.822975,
+                        -20.894043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roam Rock",
+                  "text": "Un punct de belvedere stâncos proeminent situat lângă salinele Makgadikgadi.",
+                  "category": "natural",
+                  "coords": [
+                        25.832846,
+                        -20.89207
+                  ]
+            },
+            {
+                  "name": "Kubu Island",
+                  "text": "O insulă din stâncă de granit, un punct de belvedere în salinele Makgadikgadi, renumită pentru baobabii săi străvechi.",
+                  "category": "natural",
+                  "coords": [
+                        25.822975,
+                        -20.894043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roam Rock",
+                  "text": "A striking rocky outcrop viewpoint located near the Makgadikgadi salt pans.",
+                  "category": "natural",
+                  "coords": [
+                        25.832846,
+                        -20.89207
+                  ]
+            },
+            {
+                  "name": "Kubu Island",
+                  "text": "A dry granite rock island viewpoint in the Makgadikgadi salt pans, renowned for its ancient baobab trees.",
+                  "category": "natural",
+                  "coords": [
+                        25.822975,
+                        -20.894043
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BW-CE",
     coords: [25.82, -20.89],
@@ -355,7 +1147,88 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/kubu-island-kid-landmark-life-v2.webp"},
   {
-    id: "khama-rhino-sanctuary-animal-habitat-life-v2",
+    id: "khama-rhino-sanctuary-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khama Rhino Sanctuary",
+                  "text": "Ein von der Gemeinde getragenes Naturschutzprojekt, das zum Schutz von Breit- und Spitzmaulnashörnern gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        26.720377,
+                        -22.234509
+                  ]
+            },
+            {
+                  "name": "Khama Hide",
+                  "text": "Ein versteckter Beobachtungsposten, an dem Besucher Nashörner sicher an einem nahegelegenen Wasserloch beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        26.685547,
+                        -22.236852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khama Rhino Sanctuary",
+                  "text": "Egy közösségi alapú vadvédelmi projekt, amelyet a szélesszájú és a keskenyszájú orrszarvúak védelmére hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        26.720377,
+                        -22.234509
+                  ]
+            },
+            {
+                  "name": "Khama Hide",
+                  "text": "Rejtett megfigyelőpont, ahol a látogatók biztonságosan figyelhetik az orrszarvúakat egy közeli itatónál.",
+                  "category": "natural",
+                  "coords": [
+                        26.685547,
+                        -22.236852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khama Rhino Sanctuary",
+                  "text": "Un proiect comunitar pentru viața sălbatică, înființat pentru a proteja atât rinocerii albi, cât și pe cei negri.",
+                  "category": "landmark",
+                  "coords": [
+                        26.720377,
+                        -22.234509
+                  ]
+            },
+            {
+                  "name": "Khama Hide",
+                  "text": "Un punct de observație ascuns unde vizitatorii pot urmări în siguranță rinocerii la un ochi de apă din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        26.685547,
+                        -22.236852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khama Rhino Sanctuary",
+                  "text": "A community-based wildlife project established to protect both white and black rhinos.",
+                  "category": "landmark",
+                  "coords": [
+                        26.720377,
+                        -22.234509
+                  ]
+            },
+            {
+                  "name": "Khama Hide",
+                  "text": "A concealed observation viewpoint where visitors can safely watch rhinos at a nearby waterhole.",
+                  "category": "natural",
+                  "coords": [
+                        26.685547,
+                        -22.236852
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-CE",
     coords: [26.70, -22.31],
@@ -414,7 +1287,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     },
   },
   {
-    id: "maun-education-center-kid-landmark-life-v2",
+    id: "maun-education-center-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez Osi",
+                  "text": "Chez Osi ist eine lebhafte lokale Attraktion in der Nähe des Bildungszentrums von Maun, die dafür bekannt ist, einen Eindruck von echter regionaler Gastfreundschaft zu vermitteln.",
+                  "category": "landmark",
+                  "coords": [
+                        23.404138,
+                        -19.99607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez Osi",
+                  "text": "A Chez Osi egy élénk helyi látványosság a mauni oktatási központ közelében, amely az autentikus regionális vendéglátás megismertetéséről népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        23.404138,
+                        -19.99607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez Osi",
+                  "text": "Chez Osi este o atracție locală plină de viață lângă centrul educațional din Maun, populară pentru oferirea unui gust din autentica ospitalitate regională.",
+                  "category": "landmark",
+                  "coords": [
+                        23.404138,
+                        -19.99607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez Osi",
+                  "text": "Chez Osi is a lively local attraction near the Maun education center, popular for offering a taste of authentic regional hospitality.",
+                  "category": "landmark",
+                  "coords": [
+                        23.404138,
+                        -19.99607
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BW-NW",
     coords: [23.41, -19.98],
@@ -446,7 +1364,484 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/maun-education-center-kid-landmark-life-v2.webp"},
   {
-    id: "tuli-block-cattle-farming-agriculture-life-v2",
+    id: "tuli-block-cattle-farming-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Limpopo River Viewpoint",
+                  "text": "Der Limpopo River Viewpoint blickt hinab auf die sandigen Flussbetten und üppigen Uferwälder, die den Verlauf der internationalen Grenze markieren.",
+                  "category": "natural",
+                  "coords": [
+                        28.555531,
+                        -22.561642
+                  ]
+            },
+            {
+                  "name": "Sipping Pools",
+                  "text": "Die Sipping Pools sind natürliche Felsmulden, in denen sich saisonaler Regen sammelt und die eine vielfältige Vogelwelt sowie durstige Säugetiere der Savanne anziehen.",
+                  "category": "natural",
+                  "coords": [
+                        28.561409,
+                        -22.551018
+                  ]
+            },
+            {
+                  "name": "Old Maritz Farm",
+                  "text": "Diese verwitterten Farmruinen im Tuli-Block spiegeln die frühe Agrargeschichte und das raue Pionierleben der Region wider.",
+                  "category": "historical",
+                  "coords": [
+                        28.568372,
+                        -22.447295
+                  ]
+            },
+            {
+                  "name": "Klopper House",
+                  "text": "Die steinernen Überreste dieses ehemaligen Gehöfts liegen verstreut in der landwirtschaftlichen Landschaft des Tuli-Blocks.",
+                  "category": "historical",
+                  "coords": [
+                        28.548865,
+                        -22.476811
+                  ]
+            },
+            {
+                  "name": "Lubbesrust Boutique Lodge",
+                  "text": "Diese elegante Boutique-Lodge, die im März 2019 eröffnet wurde, bietet ein luxuriöses Herrenhaus-Erlebnis inmitten der rauen Landschaft des Tuli-Blocks.",
+                  "category": "historical",
+                  "coords": [
+                        28.544136,
+                        -22.484781
+                  ]
+            },
+            {
+                  "name": "Sundowners Spot",
+                  "text": "Dieser erhöhte natürliche Aussichtspunkt im Tuli-Block ist ideal gelegen, um die farbenfrohen abendlichen Sonnenuntergänge über der Savanne zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        28.549161,
+                        -22.495495
+                  ]
+            },
+            {
+                  "name": "Elephant Castle Area",
+                  "text": "Dieses geschlossene Wildtiergebiet im Tuli-Block widmet sich der Beobachtung und dem Schutz majestätischer lokaler Elefantenherden.",
+                  "category": "recreational",
+                  "coords": [
+                        28.499571,
+                        -22.481511
+                  ]
+            },
+            {
+                  "name": "River Viewpoint",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen weiten Blick über das Flusswasser, das die trockene Region des Tuli-Blocks durchschneidet.",
+                  "category": "natural",
+                  "coords": [
+                        28.55174,
+                        -22.564385
+                  ]
+            },
+            {
+                  "name": "Potholes Entrance",
+                  "text": "Dieser Aussichtspunkt markiert das Tor zu einzigartigen geologischen Formationen und blickt auf die vom Wasser geformten Felslöcher des Tuli-Blocks.",
+                  "category": "natural",
+                  "coords": [
+                        28.54621,
+                        -22.568766
+                  ]
+            },
+            {
+                  "name": "Harry's Camp",
+                  "text": "Von diesem Aussichtspunkt in einem abgelegenen Buschcamp im Tuli-Block aus können Besucher die umliegende Wildnis nach umherstreifenden Tieren absuchen.",
+                  "category": "natural",
+                  "coords": [
+                        28.522988,
+                        -22.58479
+                  ]
+            },
+            {
+                  "name": "Crocodiles",
+                  "text": "Dieser erhöhte Beobachtungspunkt am Flussufer im Tuli-Block ist strategisch positioniert, um große Krokodile beim Sonnenbaden im Schlamm zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        28.514061,
+                        -22.587623
+                  ]
+            },
+            {
+                  "name": "Hippo Pools",
+                  "text": "Mit Blick auf tiefe, ruhige Wasserflächen im Tuli-Block ist dieser Aussichtspunkt ein hervorragender Ort, um untergetauchte Flusspferde beim Luftholen zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        28.50866,
+                        -22.587495
+                  ]
+            },
+            {
+                  "name": "Limpopo Lipadi Game and Wilderness Reserve",
+                  "text": "Dieses riesige private Wildtierschutzgebiet im Tuli-Block schützt vielfältige Lebensräume an den Ufern des Limpopo-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        28.51615,
+                        -22.501814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limpopo River Viewpoint",
+                  "text": "A Limpopo folyó kilátója a nemzetközi határt nyomon követő homokos medrekre és buja ártéri erdőkre néz le.",
+                  "category": "natural",
+                  "coords": [
+                        28.555531,
+                        -22.561642
+                  ]
+            },
+            {
+                  "name": "Sipping Pools",
+                  "text": "A Sipping Pools természetes sziklamélyedések, ahol az időszakos esők összegyűlnek, vonzva a változatos madárvilágot és a szomjas szavannai emlősöket.",
+                  "category": "natural",
+                  "coords": [
+                        28.561409,
+                        -22.551018
+                  ]
+            },
+            {
+                  "name": "Old Maritz Farm",
+                  "text": "A Tuli-blokk ezen omladozó farmromjai a régió korai mezőgazdasági történetét és a telepesek zord életét tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        28.568372,
+                        -22.447295
+                  ]
+            },
+            {
+                  "name": "Klopper House",
+                  "text": "Ennek az egykori tanyának a kőmaradványai a Tuli-blokk mezőgazdasági vidékén szétszórva fekszenek.",
+                  "category": "historical",
+                  "coords": [
+                        28.548865,
+                        -22.476811
+                  ]
+            },
+            {
+                  "name": "Lubbesrust Boutique Lodge",
+                  "text": "A 2019 márciusában megnyílt elegáns butikszállás fényűző udvarházi élményt kínál a Tuli-blokk zord táján.",
+                  "category": "historical",
+                  "coords": [
+                        28.544136,
+                        -22.484781
+                  ]
+            },
+            {
+                  "name": "Sundowners Spot",
+                  "text": "Ez a Tuli-blokkban található magasan fekvő természetes kilátópont ideális a szavanna felett lemenő nap színes sugarainak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.549161,
+                        -22.495495
+                  ]
+            },
+            {
+                  "name": "Elephant Castle Area",
+                  "text": "A Tuli-blokkban található elzárt vadvédelmi terület a fenséges helyi elefántcsordák megfigyelésére és védelmére szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.499571,
+                        -22.481511
+                  ]
+            },
+            {
+                  "name": "River Viewpoint",
+                  "text": "Ez a festői kilátópont széles, panorámás kilátást nyújt a száraz Tuli-blokk régión átszelő folyóvizekre.",
+                  "category": "natural",
+                  "coords": [
+                        28.55174,
+                        -22.564385
+                  ]
+            },
+            {
+                  "name": "Potholes Entrance",
+                  "text": "Az egyedülálló geológiai képződmények kapuját jelző kilátópontról a Tuli-blokk víz vájta sziklaüregeire nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        28.54621,
+                        -22.568766
+                  ]
+            },
+            {
+                  "name": "Harry's Camp",
+                  "text": "A Tuli-blokk egyik távoli bozótos táborában található kilátópontról a látogatók a környező vadonban barangoló állatokat pásztázhatják.",
+                  "category": "natural",
+                  "coords": [
+                        28.522988,
+                        -22.58479
+                  ]
+            },
+            {
+                  "name": "Crocodiles",
+                  "text": "Ez a Tuli-blokkban, a folyóparton magasan fekvő megfigyelőhely stratégiailag kiváló az iszapban napozó hatalmas krokodilok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.514061,
+                        -22.587623
+                  ]
+            },
+            {
+                  "name": "Hippo Pools",
+                  "text": "A Tuli-blokk mély, nyugodt vizű szakaszaira néző kilátópont kiváló hely a víz alá merült, levegőért felbukkanó vízilobak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.50866,
+                        -22.587495
+                  ]
+            },
+            {
+                  "name": "Limpopo Lipadi Game and Wilderness Reserve",
+                  "text": "Ez a hatalmas magántulajdonban lévő vadvédelmi terület a Tuli-blokkban változatos élőhelyeket véd a Limpopo folyó partján.",
+                  "category": "natural",
+                  "coords": [
+                        28.51615,
+                        -22.501814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limpopo River Viewpoint",
+                  "text": "Punctul de belvedere al râului Limpopo oferă o priveliște asupra albiilor nisipoase și a pădurilor riverane luxuriante care urmăresc granița internațională.",
+                  "category": "natural",
+                  "coords": [
+                        28.555531,
+                        -22.561642
+                  ]
+            },
+            {
+                  "name": "Sipping Pools",
+                  "text": "Sipping Pools sunt depresiuni naturale în stâncă unde se adună ploile sezoniere, atrăgând o avifaună diversă și mamifere însetate din savană.",
+                  "category": "natural",
+                  "coords": [
+                        28.561409,
+                        -22.551018
+                  ]
+            },
+            {
+                  "name": "Old Maritz Farm",
+                  "text": "Aceste ruine agricole erodate din blocul Tuli reflectă istoria agrară timpurie a regiunii și viața aspră a pionierilor.",
+                  "category": "historical",
+                  "coords": [
+                        28.568372,
+                        -22.447295
+                  ]
+            },
+            {
+                  "name": "Klopper House",
+                  "text": "Rămășițele de piatră ale acestei foste gospodării se află împrăștiate peisajul agricol din blocul Tuli.",
+                  "category": "historical",
+                  "coords": [
+                        28.548865,
+                        -22.476811
+                  ]
+            },
+            {
+                  "name": "Lubbesrust Boutique Lodge",
+                  "text": "Deschisă în martie 2019, această elegantă cabană de tip boutique oferă o experiență luxoasă de conac în mijlocul peisajului accidentat din blocul Tuli.",
+                  "category": "historical",
+                  "coords": [
+                        28.544136,
+                        -22.484781
+                  ]
+            },
+            {
+                  "name": "Sundowners Spot",
+                  "text": "Acest punct de belvedere natural și înalt din blocul Tuli este situat ideal pentru a admira apusurile colorate de seară peste savană.",
+                  "category": "natural",
+                  "coords": [
+                        28.549161,
+                        -22.495495
+                  ]
+            },
+            {
+                  "name": "Elephant Castle Area",
+                  "text": "Situată în blocul Tuli, această zonă faunistică împrejmuită este dedicată observării și protejării majestuoaselor turme locale de elefanți.",
+                  "category": "recreational",
+                  "coords": [
+                        28.499571,
+                        -22.481511
+                  ]
+            },
+            {
+                  "name": "River Viewpoint",
+                  "text": "Acest punct de belvedere pitoresc oferă priveliști ample asupra apelor râului care străbat regiunea aridă a blocului Tuli.",
+                  "category": "natural",
+                  "coords": [
+                        28.55174,
+                        -22.564385
+                  ]
+            },
+            {
+                  "name": "Potholes Entrance",
+                  "text": "Marcând poarta de acces către formațiuni geologice unice, acest punct de belvedere oferă o panoramă asupra marmitelor de stâncă sculptate de apă din blocul Tuli.",
+                  "category": "natural",
+                  "coords": [
+                        28.54621,
+                        -22.568766
+                  ]
+            },
+            {
+                  "name": "Harry's Camp",
+                  "text": "Situat într-o tabără izolată din tufișurile blocului Tuli, acest punct de observație permite vizitatorilor să scruteze sălbăticia înconjurătoare în căutarea animalelor.",
+                  "category": "natural",
+                  "coords": [
+                        28.522988,
+                        -22.58479
+                  ]
+            },
+            {
+                  "name": "Crocodiles",
+                  "text": "Acest loc de observație ridicat pe malul râului în blocul Tuli este poziționat strategic pentru a urmări crocodilii mari la soare pe noroi.",
+                  "category": "natural",
+                  "coords": [
+                        28.514061,
+                        -22.587623
+                  ]
+            },
+            {
+                  "name": "Hippo Pools",
+                  "text": "Oferind o panoramă asupra unor întinderi de apă adânci și calme din blocul Tuli, acest punct de belvedere este excelent pentru a vedea hipopotamii ieșind la suprafață pentru aer.",
+                  "category": "natural",
+                  "coords": [
+                        28.50866,
+                        -22.587495
+                  ]
+            },
+            {
+                  "name": "Limpopo Lipadi Game and Wilderness Reserve",
+                  "text": "Această vastă rezervație naturală privată din blocul Tuli protejează habitate diverse de-a lungul malurilor râului Limpopo.",
+                  "category": "natural",
+                  "coords": [
+                        28.51615,
+                        -22.501814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limpopo River Viewpoint",
+                  "text": "The Limpopo River Viewpoint looks down upon the sandy riverbeds and lush riparian forests tracing the international border.",
+                  "category": "natural",
+                  "coords": [
+                        28.555531,
+                        -22.561642
+                  ]
+            },
+            {
+                  "name": "Sipping Pools",
+                  "text": "The Sipping Pools are natural rock depressions where seasonal rains collect, drawing diverse birdlife and thirsty savanna mammals.",
+                  "category": "natural",
+                  "coords": [
+                        28.561409,
+                        -22.551018
+                  ]
+            },
+            {
+                  "name": "Old Maritz Farm",
+                  "text": "These weathered farm ruins in the Tuli Block reflect the region's early agricultural history and rugged pioneer life.",
+                  "category": "historical",
+                  "coords": [
+                        28.568372,
+                        -22.447295
+                  ]
+            },
+            {
+                  "name": "Klopper House",
+                  "text": "The stone remains of this former homestead lie scattered across the agricultural landscape of the Tuli Block.",
+                  "category": "historical",
+                  "coords": [
+                        28.548865,
+                        -22.476811
+                  ]
+            },
+            {
+                  "name": "Lubbesrust Boutique Lodge",
+                  "text": "Opened in March 2019, this elegant boutique lodge offers a luxurious manor experience amid the rugged Tuli Block landscape.",
+                  "category": "historical",
+                  "coords": [
+                        28.544136,
+                        -22.484781
+                  ]
+            },
+            {
+                  "name": "Sundowners Spot",
+                  "text": "This elevated natural vantage point in the Tuli Block is ideally situated for watching the colorful evening sunsets over the savanna.",
+                  "category": "natural",
+                  "coords": [
+                        28.549161,
+                        -22.495495
+                  ]
+            },
+            {
+                  "name": "Elephant Castle Area",
+                  "text": "Situated in the Tuli Block, this enclosed wildlife area is dedicated to observing and protecting majestic local elephant herds.",
+                  "category": "recreational",
+                  "coords": [
+                        28.499571,
+                        -22.481511
+                  ]
+            },
+            {
+                  "name": "River Viewpoint",
+                  "text": "This scenic lookout point provides wide, sweeping views over the riverwaters cutting through the arid Tuli Block region.",
+                  "category": "natural",
+                  "coords": [
+                        28.55174,
+                        -22.564385
+                  ]
+            },
+            {
+                  "name": "Potholes Entrance",
+                  "text": "Marking the gateway to unique geological formations, this viewpoint overlooks the water-carved rock potholes of the Tuli Block.",
+                  "category": "natural",
+                  "coords": [
+                        28.54621,
+                        -22.568766
+                  ]
+            },
+            {
+                  "name": "Harry's Camp",
+                  "text": "Set at a remote bush camp in the Tuli Block, this vantage point allows visitors to scan the surrounding wilderness for roaming wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        28.522988,
+                        -22.58479
+                  ]
+            },
+            {
+                  "name": "Crocodiles",
+                  "text": "This elevated riverbank observation spot in the Tuli Block is strategically positioned for watching large crocodiles sunning themselves on the mud.",
+                  "category": "natural",
+                  "coords": [
+                        28.514061,
+                        -22.587623
+                  ]
+            },
+            {
+                  "name": "Hippo Pools",
+                  "text": "Overlooking deep, calm stretches of water in the Tuli Block, this viewpoint is an excellent spot to see submerged hippopotamuses surfacing for air.",
+                  "category": "natural",
+                  "coords": [
+                        28.50866,
+                        -22.587495
+                  ]
+            },
+            {
+                  "name": "Limpopo Lipadi Game and Wilderness Reserve",
+                  "text": "This vast privately-owned wilderness reserve in the Tuli Block protects diverse habitats along the banks of the Limpopo River.",
+                  "category": "natural",
+                  "coords": [
+                        28.51615,
+                        -22.501814
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BW-CE",
     coords: [28.50, -22.50],
@@ -472,7 +1867,160 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       en: ["The region is approximately 10 to 20 kilometers wide and 400 kilometers long.", "The strip was originally intended for the Cape-to-Cairo railway route.", "The Limpopo River defines the entire southern boundary of the Tuli Block.", "It contains some of the largest private game reserves in Botswana, like Mashatu.", "The area is a major contributor to Botswana's commercial beef exports.", "Geological features such as Solomon's Wall are iconic landmarks in the region."],
     }, image: "/poi-images/tuli-block-cattle-farming-agriculture-life-v2.webp"},
   {
-    id: "limpopo-river-wildlife-corridor-animal-habitat-life-v2",
+    id: "limpopo-river-wildlife-corridor-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vembe Nature Reserve",
+                  "text": "Das Vembe Nature Reserve ist ein ökologisches Refugium am Limpopo-Fluss, das wichtige Wildtierkorridore für wandernde Säugetiere schützt.",
+                  "category": "natural",
+                  "coords": [
+                        29.236667,
+                        -22.213056
+                  ]
+            },
+            {
+                  "name": "Little Muck Hide",
+                  "text": "Das Little Muck Hide bietet Tierfreunden einen abgelegenen, erhöhten Unterstand, um Wildtiere zu fotografieren, die die nahegelegenen Wasserlöcher des Limpopo aufsuchen.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250176,
+                        -22.260032
+                  ]
+            },
+            {
+                  "name": "Mapungubwe National Park",
+                  "text": "Der Mapungubwe-Nationalpark ist ein UNESCO-Weltkulturerbe, in dessen Zentrum ein Sandsteinhügel liegt, der einst die Hauptstadt eines alten afrikanischen Königreichs war.",
+                  "category": "natural",
+                  "coords": [
+                        29.325266,
+                        -22.226417
+                  ]
+            },
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "Das Venetia - Limpopo Nature Reserve zeichnet sich durch weite, mit Affenbrotbäumen bewachsene Ebenen aus, die rund um den Betrieb der nahegelegenen Venetia-Diamantenmine entstanden sind.",
+                  "category": "natural",
+                  "coords": [
+                        29.357781,
+                        -22.257914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vembe Nature Reserve",
+                  "text": "A Vembe Természetvédelmi Terület egy ökológiai menedékhely a Limpopo-folyó mentén, amely létfontosságú vadvilági folyosókat őriz a vándorló emlősök számára.",
+                  "category": "natural",
+                  "coords": [
+                        29.236667,
+                        -22.213056
+                  ]
+            },
+            {
+                  "name": "Little Muck Hide",
+                  "text": "A Little Muck Hide egy eldugott, magasított búvóhely a vadvilág szerelmeseinek, ahonnan lefotózhatják a közeli Limpopo vízlelőhelyeit látogató állatokat.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250176,
+                        -22.260032
+                  ]
+            },
+            {
+                  "name": "Mapungubwe National Park",
+                  "text": "A Mapungubwe Nemzeti Park egy UNESCO világörökségi helyszín, amelynek középpontjában egy homokkő domb áll, mely egykor egy ősi afrikai királyság fővárosa volt.",
+                  "category": "natural",
+                  "coords": [
+                        29.325266,
+                        -22.226417
+                  ]
+            },
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "A Venetia - Limpopo Természetvédelmi Terület kiterjedt, baobabfákkal tarkított síkságokkal rendelkezik, amelyeket a közeli Venetia gyémántbánya működése körül alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        29.357781,
+                        -22.257914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vembe Nature Reserve",
+                  "text": "Rezervația Naturală Vembe este un refugiu ecologic situat de-a lungul râului Limpopo, protejând coridoare vitale de viață sălbatică pentru mamiferele migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        29.236667,
+                        -22.213056
+                  ]
+            },
+            {
+                  "name": "Little Muck Hide",
+                  "text": "Ascunzătoarea Little Muck oferă o structură retrasă și înălțată pentru pasionații de viață sălbatică, pentru a fotografia animalele care frecventează ochiurile de apă din apropierea râului Limpopo.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250176,
+                        -22.260032
+                  ]
+            },
+            {
+                  "name": "Mapungubwe National Park",
+                  "text": "Parcul Național Mapungubwe este un sit al Patrimoniului Mondial UNESCO, centrat pe un deal de gresie care a fost odată capitala unui vechi regat african.",
+                  "category": "natural",
+                  "coords": [
+                        29.325266,
+                        -22.226417
+                  ]
+            },
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "Rezervația Naturală Venetia - Limpopo prezintă câmpii întinse cu baobabi, înființate în jurul operațiunilor din apropierea minei de diamante Venetia.",
+                  "category": "natural",
+                  "coords": [
+                        29.357781,
+                        -22.257914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vembe Nature Reserve",
+                  "text": "Vembe Nature Reserve is an ecological haven situated along the Limpopo River, safeguarding vital wildlife corridors for migrating mammals.",
+                  "category": "natural",
+                  "coords": [
+                        29.236667,
+                        -22.213056
+                  ]
+            },
+            {
+                  "name": "Little Muck Hide",
+                  "text": "Little Muck Hide provides a secluded, elevated structure for wildlife enthusiasts to photograph game frequenting the nearby Limpopo waterholes.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250176,
+                        -22.260032
+                  ]
+            },
+            {
+                  "name": "Mapungubwe National Park",
+                  "text": "Mapungubwe National Park is a UNESCO World Heritage site centered on a sandstone hill that was once the capital of an ancient African kingdom.",
+                  "category": "natural",
+                  "coords": [
+                        29.325266,
+                        -22.226417
+                  ]
+            },
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "The Venetia - Limpopo Nature Reserve features expansive baobab-studded plains established around the operations of the nearby Venetia Diamond Mine.",
+                  "category": "natural",
+                  "coords": [
+                        29.357781,
+                        -22.257914
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-CE",
     coords: [29.30, -22.25],
@@ -615,7 +2163,88 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/kalahari-savanna-agriculture-life-v2.webp"},
   {
-    id: "gaborone-zoo-kid-landmark-life-v2",
+    id: "gaborone-zoo-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fikile",
+                  "text": "Fikile ist eine familienfreundliche Attraktion im Gebiet gaborone-zoo-kid-landmark-life-v2, die speziell auf jüngere Besucher zugeschnitten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.943258,
+                        -24.615007
+                  ]
+            },
+            {
+                  "name": "Church of St. Sava",
+                  "text": "Die Kirche St. Sava ist ein serbisch-orthodoxes Gotteshaus in der Region gaborone-zoo-kid-landmark-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        25.988109,
+                        -24.553465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fikile",
+                  "text": "A Fikile egy családbarát látványosság a gaborone-zoo-kid-landmark-life-v2 területen, amelyet kifejezetten a fiatalabb látogatók számára terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.943258,
+                        -24.615007
+                  ]
+            },
+            {
+                  "name": "Church of St. Sava",
+                  "text": "A Szent Száva-templom egy szerb ortodox istentiszteleti hely a gaborone-zoo-kid-landmark-life-v2 területen.",
+                  "category": "religious",
+                  "coords": [
+                        25.988109,
+                        -24.553465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fikile",
+                  "text": "Fikile este o atracție potrivită pentru familii în zona gaborone-zoo-kid-landmark-life-v2, adaptată special pentru vizitatorii mai tineri.",
+                  "category": "landmark",
+                  "coords": [
+                        25.943258,
+                        -24.615007
+                  ]
+            },
+            {
+                  "name": "Church of St. Sava",
+                  "text": "Biserica Sf. Sava este un lăcaș de cult ortodox sârbesc din zona gaborone-zoo-kid-landmark-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        25.988109,
+                        -24.553465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fikile",
+                  "text": "Fikile is a family-friendly attraction in the gaborone-zoo-kid-landmark-life-v2 area tailored for younger visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        25.943258,
+                        -24.615007
+                  ]
+            },
+            {
+                  "name": "Church of St. Sava",
+                  "text": "The Church of St. Sava is a Serbian Orthodox place of worship in the gaborone-zoo-kid-landmark-life-v2 area.",
+                  "category": "religious",
+                  "coords": [
+                        25.988109,
+                        -24.553465
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BW-SE",
     coords: [25.95, -24.62],
@@ -641,7 +2270,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       en: ["The reserve was officially opened to the public in 1988.", "It covers a total area of 600 hectares within the city limits.", "Visitors can often spot white rhinos near the reserve's internal roads.", "The park features designated picnic areas and bird-watching hides.", "It is one of the few fully fenced game reserves in Botswana.", "The bird population consists of over 150 distinct recorded species."],
     }, image: "/poi-images/gaborone-zoo-kid-landmark-life-v2.webp"},
   {
-    id: "makgadikgadi-zebra-migration-animal-habitat-life-v2",
+    id: "makgadikgadi-zebra-migration-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makgadikgadi Pans National Park",
+                  "text": "Dieses riesige Savannenreservat ist dafür bekannt, dass es riesige Salzpfannen umfasst und eine der größten Zebrawanderungen in Afrika beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        24.764002,
+                        -20.516699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makgadikgadi Pans National Park",
+                  "text": "Ez a hatalmas szavanna-rezervátum hatalmas sós síkságairól ismert, és Afrika egyik legnagyobb zebravonulásának ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        24.764002,
+                        -20.516699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makgadikgadi Pans National Park",
+                  "text": "Această vastă rezervație de savană este renumită pentru că înglobează zone uriașe de sare și găzduiește una dintre cele mai mari migrații de zebre din Africa.",
+                  "category": "natural",
+                  "coords": [
+                        24.764002,
+                        -20.516699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makgadikgadi Pans National Park",
+                  "text": "This vast savanna reserve is renowned for encompassing enormous salt pans and hosting one of the largest zebra migrations in Africa.",
+                  "category": "natural",
+                  "coords": [
+                        24.764002,
+                        -20.516699
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-CE",
     coords: [24.80, -20.50],
@@ -738,7 +2412,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/boteti-river-birdwatching-kid-landmark-life-v2.webp"},
   {
-    id: "tuli-wildlife-sanctuary-animal-habitat-life-v2",
+    id: "tuli-wildlife-sanctuary-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maloutswa Hide",
+                  "text": "Das Maloutswa Hide ist ein getarntes Aussichtsdeck, das ideal gelegen ist, um Elefanten und Raubtiere zu beobachten, die sich an der lokalen Wasserstelle versammeln.",
+                  "category": "natural",
+                  "coords": [
+                        29.229071,
+                        -22.192439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maloutswa Hide",
+                  "text": "A Maloutswa Hide egy álcázott kilátóterasz, amely tökéletes helyen található a helyi itatónál gyülekező elefántok és ragadozók megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        29.229071,
+                        -22.192439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maloutswa Hide",
+                  "text": "Ascunzătoarea Maloutswa este o punte de vizionare camuflată, situată perfect pentru a observa elefanții și prădătorii care se adună la ochiul de apă local.",
+                  "category": "natural",
+                  "coords": [
+                        29.229071,
+                        -22.192439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maloutswa Hide",
+                  "text": "The Maloutswa Hide is a camouflaged viewing deck situated perfectly for spotting elephants and predators gathering at the local watering hole.",
+                  "category": "natural",
+                  "coords": [
+                        29.229071,
+                        -22.192439
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BW-CE",
     coords: [29.20, -22.15],
@@ -797,7 +2516,52 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       fr: [],
     }, image: "/poi-images/kalahari-wildlife-corridor-animal-habitat-life-v2.webp"},
   {
-    id: "gaborone-nature-trail-kid-landmark-life-v2",
+    id: "gaborone-nature-trail-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maitisong",
+                  "text": "Dieses Theater ist ein wichtiger kultureller Treffpunkt in Gaborone.",
+                  "category": "cultural",
+                  "coords": [
+                        25.932882,
+                        -24.647246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maitisong",
+                  "text": "Ez a színház egy fontos kulturális találkozóhely Gaborone városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.932882,
+                        -24.647246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maitisong",
+                  "text": "Acest teatru este un important centru cultural din Gaborone.",
+                  "category": "cultural",
+                  "coords": [
+                        25.932882,
+                        -24.647246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maitisong",
+                  "text": "This theatre is a major cultural venue in Gaborone.",
+                  "category": "cultural",
+                  "coords": [
+                        25.932882,
+                        -24.647246
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BW-SE",
     coords: [25.93, -24.64],

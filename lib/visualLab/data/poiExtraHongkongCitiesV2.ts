@@ -43,7 +43,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "Museum für Tee-Utensilien im Flagstaff House in Central.",
+                  "text": "Das Flagstaff House Museum of Tea Ware in Central wurde 1984 eröffnet und ist ein denkmalgeschütztes Gebäude.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -79,7 +79,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Zentrum zur Erforschung des kulturellen Erbes.",
+                  "text": "Das Hong Kong Heritage Discovery Centre in Central wurde im Oktober 2005 in einem historischen Kolonialgebäude eröffnet.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -142,7 +142,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone of the City of Victoria",
-                  "text": "Historischer Grenzstein der Stadt Victoria.",
+                  "text": "Der Boundary Stone in Central ist ein Granitgrenzstein von 1903, der die Stadt Victoria markierte.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -151,7 +151,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Ehemalige zentrale Regierungsgebäude.",
+                  "text": "Justice Place in Central sind die ehemaligen Regierungsgebäude aus der Kolonialzeit, heute Sitz des Justizministeriums (Denkmal).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -160,7 +160,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "Comedy-Club für Live-Auftritte.",
+                  "text": "Der TakeOut Comedy Club in Central wurde im Februar 2007 eröffnet und bietet Live-Comedy.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -187,7 +187,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Kulturzentrum für Musik und darstellende Künste.",
+                  "text": "Das Hong Kong Cultural Centre in Central wurde 1989 eröffnet und ist ein Veranstaltungsort für darstellende Kunst an der Victoria Harbour.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -205,7 +205,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tai Kwun",
-                  "text": "Kunst- und Kulturerbezentrum im ehemaligen Gefängniskomplex.",
+                  "text": "Tai Kwun in Central ist ein Kultur- und Kunstzentrum, das im Mai 2018 im ehemaligen Polizeikomplex der Central Police Station eröffnet wurde.",
                   "category": "cultural",
                   "coords": [
                         114.154003,
@@ -223,7 +223,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "Historische anglikanische Kathedrale.",
+                  "text": "Die St. John’s Cathedral in Central ist die älteste anglikanische Kirche Hongkongs aus dem 19. Jahrhundert (Denkmal).",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -250,7 +250,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Bedeutende römisch-katholische Kathedrale.",
+                  "text": "Die Cathedral of the Immaculate Conception in Central wurde 1888 erbaut und ist ein denkmalgeschütztes Bauwerk.",
                   "category": "religious",
                   "coords": [
                         114.153874,
@@ -259,7 +259,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jamia Mosque",
-                  "text": "Historische Moschee für die muslimische Gemeinschaft.",
+                  "text": "Die Jamia Mosque in Central wurde am 15. August 1915 eröffnet und ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         114.151922,
@@ -349,7 +349,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "Tempel zu Ehren des Schutzheiligen der Zimmerleute.",
+                  "text": "Der Lo Pan Tempel in Central ist ein taoistischer Tempel, der dem Schutzpatron der Bauherren gewidmet ist (Denkmal).",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -457,7 +457,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "Gedenkpark zu Ehren von König George V.",
+                  "text": "Der King George V Memorial Park in Central wurde 1936 eröffnet und liegt an den Hängen des Victoria Peak mit Sportmöglichkeiten.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -558,7 +558,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "Teázási eszközök múzeuma a Flagstaff House-ban, Centralban.",
+                  "text": "A Central-i Flagstaff House Teáskészlet Múzeum 1984-ben nyílt meg, műemlék épület.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -594,7 +594,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Központ a kulturális örökség feltárására.",
+                  "text": "A Hongkongi Örökség Felfedező Központ Centralban 2005 októberében nyílt meg egy történelmi gyarmati épületben.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -657,7 +657,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone of the City of Victoria",
-                  "text": "Victoria városának történelmi határköve.",
+                  "text": "A Central-i Boundary Stone egy 1903-as gránit határkő, amely Victoria városát jelölte.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -666,7 +666,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "A központi kormányzati hivatalok egykori épülete.",
+                  "text": "A Central-i Justice Place egykori gyarmati kormányzati épületek, ma az Igazságügyi Minisztérium (műemlék).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -675,7 +675,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "Comedy club élő előadásokkal.",
+                  "text": "A Central-i TakeOut Comedy Club 2007 februárjában nyílt meg, élő komédiákat kínál.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -702,7 +702,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Kulturális központ zene és előadóművészet számára.",
+                  "text": "A Hongkongi Kulturális Központ Centralban 1989-ben nyílt meg, előadó-művészeti helyszín a Victoria Harbour partján.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -720,7 +720,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tai Kwun",
-                  "text": "Művészeti és kulturális örökségi központ egykori börtönkomplexumban.",
+                  "text": "A Central-i Tai Kwun egy kulturális és művészeti központ, amely 2018 májusában nyílt meg a volt Central Police Station komplexumban.",
                   "category": "cultural",
                   "coords": [
                         114.154003,
@@ -738,7 +738,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "Történelmi anglikán katedrális.",
+                  "text": "A Central-i Szent János-székesegyház Hongkong legrégebbi anglikán temploma a 19. századból (műemlék).",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -765,7 +765,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Jelentős római katolikus székesegyház.",
+                  "text": "A Central-i Szeplőtelen Fogantatás székesegyház 1888-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         114.153874,
@@ -774,7 +774,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jamia Mosque",
-                  "text": "Történelmi mecset a muszlim közösség számára.",
+                  "text": "A Central-i Jamia mecset 1915. augusztus 15-én nyílt meg, műemlék.",
                   "category": "religious",
                   "coords": [
                         114.151922,
@@ -864,7 +864,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "Templom az ácsok védőszentjének tiszteletére.",
+                  "text": "A Central-i Lo Pan templom egy taoista templom, amely az építők védőszentjének szentelt (műemlék).",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -972,7 +972,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "Emlékpark V. György király tiszteletére.",
+                  "text": "A Central-i King George V Memorial Park 1936-ban nyílt meg, a Victoria Peak lejtőin található sportolási lehetőségekkel.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -1073,7 +1073,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "Muzeu de ustensile pentru ceai găzduit în Flagstaff House în Central.",
+                  "text": "Muzeul de ceai Flagstaff House din Central, deschis în 1984, clădire monument istoric.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -1109,7 +1109,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Centru dedicat explorării patrimoniului cultural.",
+                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong, în Central, deschis în octombrie 2005, se află într-o clădire colonială istorică.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -1172,7 +1172,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone of the City of Victoria",
-                  "text": "Piatră de hotar istorică a orașului Victoria.",
+                  "text": "Piatra de hotar Boundary Stone din Central este un marcaj de granit din 1903 care delimita orașul Victoria.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -1181,7 +1181,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Clădirile fostelor birouri guvernamentale centrale.",
+                  "text": "Justice Place din Central este fosta clădire a guvernului colonial, acum sediul Departamentului de Justiție (monument istoric).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -1190,7 +1190,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "Club de comedie pentru spectacole live.",
+                  "text": "Clubul de comedie TakeOut din Central, deschis în februarie 2007, oferă spectacole de comedie live.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -1217,7 +1217,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Centru cultural pentru muzică și artele spectacolului.",
+                  "text": "Centrul Cultural din Hong Kong, în Central, deschis în 1989, este un loc de spectacole pe malul portului Victoria.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -1235,7 +1235,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tai Kwun",
-                  "text": "Centru de artă și patrimoniu într-un fost complex penitenciar.",
+                  "text": "Tai Kwun din Central este un centru cultural și artistic deschis în mai 2018 în fostul complex al secției de poliție din Central.",
                   "category": "cultural",
                   "coords": [
                         114.154003,
@@ -1253,7 +1253,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "Catedrală anglicană istorică.",
+                  "text": "Catedrala Sfântul Ioan din Central este cea mai veche biserică anglicană din Hong Kong, din secolul al XIX-lea (monument istoric).",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -1280,7 +1280,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Catedrală romano-catolică importantă.",
+                  "text": "Catedrala Imaculatei Concepții din Central, construită în 1888, monument istoric.",
                   "category": "religious",
                   "coords": [
                         114.153874,
@@ -1289,7 +1289,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jamia Mosque",
-                  "text": "Moschee istorică pentru comunitatea musulmană.",
+                  "text": "Moscheea Jamia din Central, inaugurată la 15 august 1915, monument istoric.",
                   "category": "religious",
                   "coords": [
                         114.151922,
@@ -1379,7 +1379,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "Templu în cinstea patronului spiritual al tâmplarilor.",
+                  "text": "Templul Lo Pan din Central este un templu taoist dedicat patronului constructorilor (monument istoric).",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -1487,7 +1487,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "Parc memorial în onoarea regelui George al V-lea.",
+                  "text": "Parcul Memorial King George V din Central, deschis în 1936, se află pe pantele Victoria Peak, cu facilități sportive.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -1588,7 +1588,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "Museum of tea ware housed in Flagstaff House in Central.",
+                  "text": "Flagstaff House Museum of Tea Ware in Central, opened in 1984, occupies a listed historic building.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -1624,7 +1624,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Center dedicated to exploring cultural heritage.",
+                  "text": "Hong Kong Heritage Discovery Centre in Central opened in October 2005, housed in a historic colonial building.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -1687,7 +1687,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone, City of Victoria",
-                  "text": "Historic boundary stone of Victoria City.",
+                  "text": "Boundary Stone in Central is a granite boundary marker from 1903 that delineated the City of Victoria.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -1696,7 +1696,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Former central government office buildings.",
+                  "text": "Justice Place in Central is the former colonial government office, now housing the Department of Justice (heritage building).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -1705,7 +1705,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "Comedy club featuring live performances.",
+                  "text": "TakeOut Comedy Club in Central opened in February 2007, featuring live comedy shows.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -1732,7 +1732,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Cultural center for music and performing arts.",
+                  "text": "Hong Kong Cultural Centre in Central, opened in 1989, is a performing arts venue on the Victoria Harbour waterfront.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -1750,7 +1750,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tai Kwun",
-                  "text": "Arts and heritage center in a former prison complex.",
+                  "text": "Tai Kwun in Central is a heritage and arts centre opened in May 2018 in the former Central Police Station compound.",
                   "category": "cultural",
                   "coords": [
                         114.154003,
@@ -1768,7 +1768,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "Historic Anglican cathedral.",
+                  "text": "St. John's Cathedral in Central is Hong Kong's oldest Anglican church, built in the 19th century (heritage site).",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -1795,7 +1795,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Significant Roman Catholic cathedral.",
+                  "text": "Cathedral of the Immaculate Conception in Central, built in 1888, is a listed historic building.",
                   "category": "religious",
                   "coords": [
                         114.153874,
@@ -1804,7 +1804,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jamia Mosque",
-                  "text": "Historic mosque serving the Muslim community.",
+                  "text": "Jamia Mosque in Central, opened on 15 August 1915, is a listed historic building.",
                   "category": "religious",
                   "coords": [
                         114.151922,
@@ -1894,7 +1894,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "Temple honoring the patron saint of carpenters.",
+                  "text": "Lo Pan Temple in Central is a Taoist temple dedicated to the patron saint of builders (heritage site).",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -2002,7 +2002,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "Memorial park honoring King George V.",
+                  "text": "King George V Memorial Park in Central, opened in 1936, is located on the slopes of Victoria Peak with sports facilities.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -6379,7 +6379,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Das Hong Kong Heritage Discovery Centre ist ein Museum in Mong Kok.",
+                  "text": "Das Hong Kong Heritage Discovery Centre in Mong Kok wurde im Oktober 2005 in einem historischen Gebäude eröffnet.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -6388,7 +6388,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "Das Tung Wah Museum ist ein Museum in Mong Kok.",
+                  "text": "Das Tung Wah Museum in Mong Kok ist ein Museum im ehemaligen Tung Wah Hospital, einem denkmalgeschützten Gebäude von 1870.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -6433,7 +6433,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Das Hong Kong Cultural Centre ist ein großes Kunstzentrum in Mong Kok.",
+                  "text": "Das Hong Kong Cultural Centre wurde 1989 eröffnet und bietet Konzertsäle und Theater.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -6559,7 +6559,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Der Yau Ma Tei Wholesale Fruit Market ist eine prominente historische Attraktion in Mong Kok.",
+                  "text": "Der Yau Ma Tei Obstgroßmarkt ist ein denkmalgeschützter Markt der Stufe 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -6840,7 +6840,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "A Hong Kong Heritage Discovery Centre egy múzeum Mong Kokban.",
+                  "text": "A Hongkongi Örökség Felfedező Központ Mong Kokban 2005 októberében nyílt meg egy történelmi épületben.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -6849,7 +6849,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "A Tung Wah Museum egy múzeum Mong Kokban.",
+                  "text": "A Mong Kok-i Tung Wah Múzeum a volt Tung Wah kórházban található, egy 1870-es műemlék épületben.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -6894,7 +6894,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "A Hong Kong Cultural Centre egy jelentős művészeti központ Mong Kokban.",
+                  "text": "A Hong Kong Kulturális Központ 1989-ben nyílt meg, koncerttermekkel és színházakkal.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -7020,7 +7020,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "A Yau Ma Tei Wholesale Fruit Market egy kiemelkedő történelmi látványosság Mong Kokban.",
+                  "text": "A Yau Ma Tei Gyümölcs-nagykereskedelmi Piac 4. fokozatú műemlék piac.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -7301,7 +7301,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Hong Kong Heritage Discovery Centre este un muzeu situat în Mong Kok.",
+                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong, în Mong Kok, deschis în octombrie 2005, se află într-o clădire istorică.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -7310,7 +7310,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum este un muzeu situat în Mong Kok.",
+                  "text": "Muzeul Tung Wah din Mong Kok este un muzeu în fostul spital Tung Wah, o clădire istorică din 1870.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -7355,7 +7355,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Hong Kong Cultural Centre este un centru de artă major situat în Mong Kok.",
+                  "text": "Centrul Cultural Hong Kong, deschis în 1989, găzduiește săli de concerte și teatre.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -7481,7 +7481,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market este o atracție istorică proeminentă din Mong Kok.",
+                  "text": "Piața angro de fructe Yau Ma Tei este o piață istorică de gradul 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -7762,7 +7762,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "The Hong Kong Heritage Discovery Centre is a museum situated in Mong Kok.",
+                  "text": "Hong Kong Heritage Discovery Centre in Mong Kok opened in October 2005 in a historic building.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -7771,7 +7771,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "The Tung Wah Museum is a museum located in Mong Kok.",
+                  "text": "Tung Wah Museum in Mong Kok is a museum in the former Tung Wah Hospital, a heritage building from 1870.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -7816,7 +7816,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "The Hong Kong Cultural Centre is a major arts centre situated in Mong Kok.",
+                  "text": "Hong Kong Cultural Centre, opened in 1989, houses concert halls and theatres.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -7942,7 +7942,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "The Yau Ma Tei Wholesale Fruit Market is a prominent historical attraction in Mong Kok.",
+                  "text": "Yau Ma Tei Wholesale Fruit Market is a Grade 4 historic market.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -11311,7 +11311,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tin Hau Tempel in Cha Kwo Ling (Kwun Tong)",
-                  "text": "Der Tin Hau Tempel in Cha Kwo Ling (Kwun Tong) ist ein traditioneller Kultbau.",
+                  "text": "Der Tin-Hau-Tempel (Cha Kwo Ling) ist ein denkmalgeschützter Tempel der Stufe 5, der der Meeresgöttin Tin Hau gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         114.229657,
@@ -11736,7 +11736,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cha Kwo Ling-i Tin Hau templom (Kwun Tong)",
-                  "text": "A Cha Kwo Ling-i Tin Hau templom (Kwun Tong) egy hagyományos szakrális épület.",
+                  "text": "A Tin Hau-templom (Cha Kwo Ling) egy 5. fokozatú műemlék templom, amely a tengeristennőnek, Tin Haunak van szentelve.",
                   "category": "religious",
                   "coords": [
                         114.229657,
@@ -12161,7 +12161,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Templul Tin Hau din Cha Kwo Ling (Kwun Tong)",
-                  "text": "Templul Tin Hau din Cha Kwo Ling (Kwun Tong) este un lăcaș de cult tradițional.",
+                  "text": "Templul Tin Hau (Cha Kwo Ling) este un templu istoric de gradul 5 dedicat zeiței mării Tin Hau.",
                   "category": "religious",
                   "coords": [
                         114.229657,
@@ -12586,7 +12586,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tin Hau Temple (Cha Kwo Ling)",
-                  "text": "The Tin Hau Temple in Cha Kwo Ling (Kwun Tong) is a traditional place of worship.",
+                  "text": "Tin Hau Temple (Cha Kwo Ling) is a Grade 5 historic temple dedicated to the sea goddess Tin Hau.",
                   "category": "religious",
                   "coords": [
                         114.229657,
@@ -19303,7 +19303,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Sam Tung Uk Museum",
-                  "text": "Das Sam Tung Uk Museum ist ein bedeutendes historisches Hausmuseum in Tsing Yi.",
+                  "text": "Das Sam Tung Uk Museum ist ein restauriertes Hakka-Dorf und denkmalgeschützt der Stufe 2.",
                   "category": "landmark",
                   "coords": [
                         114.120226,
@@ -19339,7 +19339,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tsing Tsuen Bridge",
-                  "text": "Die Tsing Tsuen Bridge ist ein markantes Bauwerk in Tsing Yi.",
+                  "text": "Die Tsing Tsuen Brücke wurde am 10. Dezember 1987 eröffnet und verbindet Tsing Yi mit Tsuen Wan.",
                   "category": "landmark",
                   "coords": [
                         114.11027,
@@ -19348,7 +19348,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "Die Kwai Tsing Bridge ist eine anerkannte Brückenverbindung in Tsing Yi.",
+                  "text": "Die Kwai Tsing Brücke (Duplikat der Tsing Yi South Bridge) wurde am 26. Juli 1999 eröffnet.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -19357,7 +19357,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "Die Cheung Tsing Bridge ist eine bekannte Brücke für den Verkehr in Tsing Yi.",
+                  "text": "Die Cheung Tsing Brücke wurde am 22. Mai 1997 eröffnet und ist Teil der Tsing Yi Nordbrücke.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -19764,7 +19764,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Sam Tung Uk Museum",
-                  "text": "A Sam Tung Uk Museum egy jelentős történelmi házmúzeum Tsing Yi-ben.",
+                  "text": "A Sam Tung Uk Múzeum egy helyreállított Hakka falu, 2. fokozatú műemlék.",
                   "category": "landmark",
                   "coords": [
                         114.120226,
@@ -19800,7 +19800,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tsing Tsuen Bridge",
-                  "text": "A Tsing Tsuen Bridge egy kiemelkedő híd Tsing Yi városában.",
+                  "text": "A Tsing Tsuen hidat 1987. december 10-én nyitották meg, összekötve Tsing Yi-t Tsuen Wannal.",
                   "category": "landmark",
                   "coords": [
                         114.11027,
@@ -19809,7 +19809,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "A Kwai Tsing Bridge egy elismert híd Tsing Yi-ben.",
+                  "text": "A Kwai Tsing hidat (a Tsing Yi déli híd párját) 1999. július 26-án nyitották meg.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -19818,7 +19818,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "A Cheung Tsing Bridge egy jelentős közlekedési híd Tsing Yi városában.",
+                  "text": "A Cheung Tsing hidat 1997. május 22-én nyitották meg, a Tsing Yi északi híd része.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -20225,7 +20225,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Sam Tung Uk Museum",
-                  "text": "Sam Tung Uk Museum este un notabil muzeu casă istorică situat în Tsing Yi.",
+                  "text": "Muzeul Sam Tung Uk este un sat Hakka restaurat, monument istoric de gradul 2.",
                   "category": "landmark",
                   "coords": [
                         114.120226,
@@ -20261,7 +20261,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tsing Tsuen Bridge",
-                  "text": "Tsing Tsuen Bridge este un pod proeminent situat în Tsing Yi.",
+                  "text": "Podul Tsing Tsuen a fost deschis pe 10 decembrie 1987, legând Tsing Yi de Tsuen Wan.",
                   "category": "landmark",
                   "coords": [
                         114.11027,
@@ -20270,7 +20270,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "Kwai Tsing Bridge este un pod recunoscut ce conectează Tsing Yi.",
+                  "text": "Podul Kwai Tsing (duplicatul Podului de Sud Tsing Yi) a fost deschis pe 26 iulie 1999.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -20279,7 +20279,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "Cheung Tsing Bridge este un pod notabil ce facilitează transportul în Tsing Yi.",
+                  "text": "Podul Cheung Tsing a fost deschis pe 22 mai 1997, parte a Podului de Nord Tsing Yi.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -20686,7 +20686,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Sam Tung Uk Museum",
-                  "text": "Sam Tung Uk Museum is a notable historic house museum located in Tsing Yi.",
+                  "text": "Sam Tung Uk Museum is a restored Hakka village, a Grade 2 historic site.",
                   "category": "landmark",
                   "coords": [
                         114.120226,
@@ -20722,7 +20722,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tsing Tsuen Bridge",
-                  "text": "Tsing Tsuen Bridge is a prominent bridge structure located in Tsing Yi.",
+                  "text": "Tsing Tsuen Bridge, opened December 10, 1987, connects Tsing Yi to Tsuen Wan.",
                   "category": "landmark",
                   "coords": [
                         114.11027,
@@ -20731,7 +20731,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "Kwai Tsing Bridge is a recognized bridge connecting Tsing Yi.",
+                  "text": "Kwai Tsing Bridge (Duplicate Tsing Yi South Bridge) opened July 26, 1999.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -20740,7 +20740,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "Cheung Tsing Bridge is a notable bridge facilitating transport in Tsing Yi.",
+                  "text": "Cheung Tsing Bridge, opened May 22, 1997, is part of the Tsing Yi North Bridge.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -21418,7 +21418,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Anglikanische Kirche Shatin in Fo Tan.",
+                  "text": "Die Shatin Anglican Church wurde 1991 eröffnet und dient der anglikanischen Gemeinde im Raum Shatin.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -21708,7 +21708,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Shatin anglikán templom Fo Tanban.",
+                  "text": "A Shatin Anglikán Templom 1991-ben nyílt meg, a Shatin környéki anglikán közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -21998,7 +21998,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Biserica anglicană Shatin din Fo Tan.",
+                  "text": "Biserica Anglicană Shatin a fost deschisă în 1991, deservind comunitatea anglicană din zona Shatin.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -22288,7 +22288,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Shatin Anglican Church in Fo Tan.",
+                  "text": "Shatin Anglican Church, opened in 1991, serves the Anglican community in the Shatin area.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -22435,7 +22435,7 @@ export const hongkongCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "Das Tung Wah Museum ist ein bedeutendes historisches Museum in Sham Shui Po.",
+                  "text": "Das Tung Wah Museum (Stufe 2) ist ein ehemaliges Krankenhaus und zeigt die Geschichte der Tung Wah-Gruppe.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -22507,7 +22507,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung",
-                  "text": "Shui Yuet Kung ist eine bekannte Kultstätte in Sham Shui Po.",
+                  "text": "Der Shui Yuet Kung (Mondpalast) ist ein denkmalgeschützter Tempel der Stufe 5, der der Mondgöttin gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -22941,7 +22941,7 @@ export const hongkongCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "A Tung Wah Museum egy jelentős történelmi múzeum Sham Shui Po-ban.",
+                  "text": "A Tung Wah Múzeum (2. fokozat) egykori kórház, a Tung Wah csoport történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -23013,7 +23013,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung",
-                  "text": "A Shui Yuet Kung egy jól ismert istentiszteleti hely Sham Shui Po területén.",
+                  "text": "A Shui Yuet Kung (Holdpalota) egy 5. fokozatú műemlék templom, a holdistennőnek szentelve.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -23447,7 +23447,7 @@ export const hongkongCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum este un muzeu istoric semnificativ situat în Sham Shui Po.",
+                  "text": "Muzeul Tung Wah (gradul 2) a fost un spital, acum prezintă istoria Grupului Tung Wah.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -23519,7 +23519,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung",
-                  "text": "Shui Yuet Kung este un lăcaș de cult bine cunoscut situat în Sham Shui Po.",
+                  "text": "Shui Yuet Kung (Palatul Lunii) este un templu istoric de gradul 5 dedicat zeiței lunii.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -23953,7 +23953,7 @@ export const hongkongCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum is a significant historical museum located in Sham Shui Po.",
+                  "text": "Tung Wah Museum (Grade 2) is a former hospital showcasing the history of the Tung Wah Group.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -24025,7 +24025,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung",
-                  "text": "Shui Yuet Kung is a well-known place of worship located in Sham Shui Po.",
+                  "text": "Shui Yuet Kung (Moon Palace) is a Grade 5 historic temple dedicated to the Moon Goddess.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -24505,7 +24505,7 @@ export const hongkongCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum ist ein bekanntes Museum in Kowloon Tong.",
+                  "text": "Das Tung Wah Museum (Stufe 2) in Kowloon Tong war ein Krankenhaus und zeigt nun die Geschichte der Tung Wah-Gruppe.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -24613,7 +24613,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market ist eine bekannte Attraktion in Kowloon Tong.",
+                  "text": "Der Yau Ma Tei Obstgroßmarkt in Kowloon Tong ist ein denkmalgeschützter Markt der Stufe 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -25011,7 +25011,7 @@ export const hongkongCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "A Tung Wah Museum egy figyelemre méltó múzeum Kowloon Tongban.",
+                  "text": "A Tung Wah Múzeum (2. fokozat) Kowloon Tongban egykori kórház, a Tung Wah csoport történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -25119,7 +25119,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "A Yau Ma Tei Wholesale Fruit Market egy figyelemre méltó látványosság Kowloon Tongban.",
+                  "text": "A Yau Ma Tei Gyümölcs-nagykereskedelmi Piac Kowloon Tongban 4. fokozatú műemlék piac.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -25517,7 +25517,7 @@ export const hongkongCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum este un muzeu notabil situat în Kowloon Tong.",
+                  "text": "Muzeul Tung Wah (gradul 2) din Kowloon Tong a fost un spital, acum prezintă istoria Grupului Tung Wah.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -25625,7 +25625,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market este o atracție notabilă situată în Kowloon Tong.",
+                  "text": "Piața angro de fructe Yau Ma Tei din Kowloon Tong este o piață istorică de gradul 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -26023,7 +26023,7 @@ export const hongkongCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum is a notable museum located in Kowloon Tong.",
+                  "text": "Tung Wah Museum (Grade 2) in Kowloon Tong was a hospital, now showcases the history of the Tung Wah Group.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -26131,7 +26131,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market is a notable attraction located in Kowloon Tong.",
+                  "text": "Yau Ma Tei Wholesale Fruit Market in Kowloon Tong is a Grade 4 historic market.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -26620,7 +26620,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Wong-Tai-Sin-Tempel",
-                  "text": "Der Wong Tai Sin Tempel ist ein berühmtes religiöses Wahrzeichen in Wong Tai Sin.",
+                  "text": "Der Wong Tai Sin Tempel, 1921 gegründet, ist ein taoistischer Tempelkomplex, der Wong Tai Sin gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         114.193654,
@@ -27135,7 +27135,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Wong Tai Sin templom",
-                  "text": "A Wong Tai Sin templom egy híres vallási nevezetesség Wong Tai Sinben.",
+                  "text": "A Wong Tai Sin templom, 1921-ben alapították, taoista templomegyüttes Wong Tai Sinnak szentelve.",
                   "category": "religious",
                   "coords": [
                         114.193654,
@@ -27650,7 +27650,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Templul Wong Tai Sin",
-                  "text": "Templul Wong Tai Sin este un reper religios celebru în Wong Tai Sin.",
+                  "text": "Templul Wong Tai Sin, fondat în 1921, este un complex taoist dedicat lui Wong Tai Sin.",
                   "category": "religious",
                   "coords": [
                         114.193654,
@@ -28165,7 +28165,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Wong Tai Sin Temple",
-                  "text": "Wong Tai Sin Temple is a famous religious landmark in Wong Tai Sin.",
+                  "text": "Wong Tai Sin Temple, founded in 1921, is a Taoist temple complex dedicated to Wong Tai Sin.",
                   "category": "religious",
                   "coords": [
                         114.193654,
@@ -33595,7 +33595,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Museum of Medical Sciences",
-                  "text": "Hong Kong Museum of Medical Sciences ist ein bekanntes Museum in Kennedy Town.",
+                  "text": "Das Hong Kong Museum of Medical Sciences in Kennedy Town wurde 1996 eröffnet und ist ein denkmalgeschütztes Gebäude.",
                   "category": "museum",
                   "coords": [
                         114.148562,
@@ -33604,7 +33604,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Dr Sun Yat-sen Museum",
-                  "text": "Dr Sun Yat-sen Museum ist ein bekanntes Museum in Kennedy Town.",
+                  "text": "Das Dr. Sun Yat-sen Museum wurde am 12. Dezember 2006 im Kom Tong Hall eröffnet.",
                   "category": "museum",
                   "coords": [
                         114.150789,
@@ -33631,7 +33631,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone, City of Victoria",
-                  "text": "Boundary Stone, City of Victoria ist ein bekanntes Denkmal in Kennedy Town.",
+                  "text": "Der Boundary Stone of Victoria City wurde 1903 errichtet, um die Grenze der Stadt zu markieren.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -33640,7 +33640,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Justice Place ist ein bekanntes Rathaus in Kennedy Town.",
+                  "text": "Justice Place (ehemalige Zentralregierungsgebäude) ist ein denkmalgeschütztes Gebäude der Stufe 3.",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -33649,7 +33649,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "TakeOut Comedy Club ist ein bekanntes Theater in Kennedy Town.",
+                  "text": "Der TakeOut Comedy Club, im Februar 2007 eröffnet, war Hongkongs erster Stand-up-Comedy-Club.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -33712,7 +33712,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "The Bethanie ist eine historische Kirche in Kennedy Town.",
+                  "text": "Das Bethanie in Kennedy Town wurde 1875 als Sanatorium erbaut und ist ein denkmalgeschütztes Bauwerk.",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -33757,7 +33757,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "Der Lo Pan Temple ist ein traditioneller Tempel in Kennedy Town.",
+                  "text": "Der Lo Pan Tempel ist ein denkmalgeschützter Tempel der Stufe 2, der dem Schutzpatron der Bauarbeiter, Lo Pan, gewidmet ist.",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -33802,7 +33802,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "Der King George V Memorial Park ist ein öffentlicher Park in Kennedy Town.",
+                  "text": "Der King George V Memorial Park, eröffnet 1936, ist ein Gedenkpark mit Sportanlagen.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -34065,7 +34065,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Museum of Medical Sciences",
-                  "text": "A(z) Hong Kong Museum of Medical Sciences egy nevezetes múzeum Kennedy Town városrészben.",
+                  "text": "A Kennedy Town-i Hongkongi Orvostudományi Múzeum 1996-ban nyílt meg, műemlék épület.",
                   "category": "museum",
                   "coords": [
                         114.148562,
@@ -34074,7 +34074,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Dr Sun Yat-sen Museum",
-                  "text": "A(z) Dr Sun Yat-sen Museum egy nevezetes múzeum Kennedy Town városrészben.",
+                  "text": "A Dr. Sun Yat-sen Múzeum 2006. december 12-én nyílt meg a Kom Tong Hallban.",
                   "category": "museum",
                   "coords": [
                         114.150789,
@@ -34101,7 +34101,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone of the City of Victoria",
-                  "text": "A(z) Boundary Stone, City of Victoria egy nevezetes emlékmű Kennedy Town városrészben.",
+                  "text": "A Victoria City határkövét 1903-ban állították fel a város határának jelölésére.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -34110,7 +34110,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "A(z) Justice Place egy nevezetes városháza Kennedy Town városrészben.",
+                  "text": "A Justice Place (egykori Központi Kormányzati Épületek) egy 3. fokozatú műemlék épület.",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -34119,7 +34119,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "A(z) TakeOut Comedy Club egy nevezetes színház Kennedy Town városrészben.",
+                  "text": "A TakeOut Comedy Club, 2007 februárjában nyílt meg, Hongkong első stand-up comedy klubja volt.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -34182,7 +34182,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "A The Bethanie egy történelmi templom Kennedy Town városrészben.",
+                  "text": "A Kennedy Town-i Bethanie 1875-ben épült szanatóriumként, műemlék.",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -34227,7 +34227,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "A Lo Pan Temple egy hagyományos templom Kennedy Townban.",
+                  "text": "A Lo Pan templom egy 2. fokozatú műemlék templom, Lo Pannak, az építők védőszentjének szentelve.",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -34272,7 +34272,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "A King George V Memorial Park egy nyilvános park Kennedy Townban.",
+                  "text": "A King George V Memorial Park, 1936-ban nyílt meg, egy emlékpark sportlétesítményekkel.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -34535,7 +34535,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Museum of Medical Sciences",
-                  "text": "Hong Kong Museum of Medical Sciences este un muzeu notabil situat în Kennedy Town.",
+                  "text": "Muzeul de Științe Medicale din Hong Kong (Kennedy Town), deschis în 1996, clădire monument istoric.",
                   "category": "museum",
                   "coords": [
                         114.148562,
@@ -34544,7 +34544,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Dr Sun Yat-sen Museum",
-                  "text": "Dr Sun Yat-sen Museum este un muzeu notabil situat în Kennedy Town.",
+                  "text": "Muzeul Dr. Sun Yat-sen a fost deschis pe 12 decembrie 2006 în Kom Tong Hall.",
                   "category": "museum",
                   "coords": [
                         114.150789,
@@ -34571,7 +34571,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone, City of Victoria",
-                  "text": "Boundary Stone, City of Victoria este un monument notabil situat în Kennedy Town.",
+                  "text": "Piatra de hotar a orașului Victoria a fost ridicată în 1903 pentru a marca granița orașului.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -34580,7 +34580,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Justice Place este o primărie notabilă situată în Kennedy Town.",
+                  "text": "Justice Place (foste Clădiri Guvernamentale Centrale) este o clădire istorică de gradul 3.",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -34589,7 +34589,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "TakeOut Comedy Club este un teatru notabil situat în Kennedy Town.",
+                  "text": "TakeOut Comedy Club, deschis în februarie 2007, a fost primul club de stand-up comedy din Hong Kong.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -34652,7 +34652,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "The Bethanie este o biserică istorică din Kennedy Town.",
+                  "text": "Bethanie din Kennedy Town, construită în 1875 ca sanatoriu, monument istoric.",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -34697,7 +34697,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "Lo Pan Temple este un templu tradițional din Kennedy Town.",
+                  "text": "Templul Lo Pan este un templu istoric de gradul 2 dedicat lui Lo Pan, patronul constructorilor.",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -34742,7 +34742,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "King George V Memorial Park este un parc public din Kennedy Town.",
+                  "text": "Parcul Memorial King George V, deschis în 1936, este un parc memorial cu facilități sportive.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -35005,7 +35005,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Museum of Medical Sciences",
-                  "text": "Hong Kong Museum of Medical Sciences is a notable museum located in Kennedy Town.",
+                  "text": "Hong Kong Museum of Medical Sciences in Kennedy Town, opened in 1996, is in a listed historic building.",
                   "category": "museum",
                   "coords": [
                         114.148562,
@@ -35014,7 +35014,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Dr Sun Yat-sen Museum",
-                  "text": "Dr Sun Yat-sen Museum is a notable museum located in Kennedy Town.",
+                  "text": "Dr Sun Yat-sen Museum, opened December 12, 2006, is housed in Kom Tong Hall.",
                   "category": "museum",
                   "coords": [
                         114.150789,
@@ -35041,7 +35041,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Boundary Stone, City of Victoria",
-                  "text": "Boundary Stone, City of Victoria is a notable monument located in Kennedy Town.",
+                  "text": "Boundary Stone of Victoria City, erected in 1903, marks the boundary of the city.",
                   "category": "historical",
                   "coords": [
                         114.131271,
@@ -35050,7 +35050,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Justice Place is a notable town hall located in Kennedy Town.",
+                  "text": "Justice Place, the former Central Government Offices, is a Grade 3 historic building.",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -35059,7 +35059,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "TakeOut Comedy Club",
-                  "text": "TakeOut Comedy Club is a notable theatre located in Kennedy Town.",
+                  "text": "TakeOut Comedy Club, opened in February 2007, was Hong Kong's first stand-up comedy club.",
                   "category": "cultural",
                   "coords": [
                         114.152717,
@@ -35122,7 +35122,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "The Bethanie is a historic church located in Kennedy Town.",
+                  "text": "The Bethanie in Kennedy Town, built in 1875 as a sanatorium, is a listed historic building.",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -35167,7 +35167,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Lo Pan Temple",
-                  "text": "The Lo Pan Temple is a traditional temple situated in Kennedy Town.",
+                  "text": "Lo Pan Temple is a Grade 2 historic temple dedicated to Lo Pan, patron saint of builders.",
                   "category": "landmark",
                   "coords": [
                         114.131941,
@@ -35212,7 +35212,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "King George V Memorial Park",
-                  "text": "King George V Memorial Park is a public park situated in Kennedy Town.",
+                  "text": "King George V Memorial Park, opened in 1936, is a memorial park with sports facilities.",
                   "category": "park",
                   "coords": [
                         114.144379,
@@ -35665,7 +35665,7 @@ export const hongkongCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "Das Flagstaff House Museum of Tea Ware ist ein Museum in Happy Valley, das sich der Teekultur widmet.",
+                  "text": "In einem denkmalgeschützten Gebäude (Grade III) von 1984 zeigt dieses Museum Teezeremonie-Geschirr.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -35728,7 +35728,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Das Hong Kong Cultural Centre ist ein großes Kunstzentrum in Happy Valley.",
+                  "text": "Das Hong Kong Cultural Centre in Happy Valley wurde 1989 eröffnet und bietet Konzertsäle und Theater.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -35755,7 +35755,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "St. John's Cathedral ist eine bedeutende Kathedrale und Andachtsstätte in Happy Valley.",
+                  "text": "Die St. John's Cathedral ist eine denkmalgeschützte Kathedrale der Stufe 3.",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -36171,7 +36171,7 @@ export const hongkongCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "A Flagstaff House Museum of Tea Ware egy teakultúrának szentelt múzeum Happy Valley-ben.",
+                  "text": "Egy 1984 óta védett épületben (III. fokozat) működő teáskészlet-múzeum.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -36234,7 +36234,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "A Hong Kong Cultural Centre egy nagy művészeti központ Happy Valley-ben.",
+                  "text": "A Hong Kong Kulturális Központ Happy Valleyben 1989-ben nyílt meg, koncerttermekkel és színházakkal.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -36261,7 +36261,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "A St. John's Cathedral egy jelentős katedrális és istentiszteleti hely Happy Valley-ben.",
+                  "text": "A Szent János-székesegyház egy 3. fokozatú műemlék katedrális.",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -36677,7 +36677,7 @@ export const hongkongCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "Flagstaff House Museum of Tea Ware este un muzeu dedicat culturii ceaiului din Happy Valley.",
+                  "text": "Adăpostit într-o clădire istorică de gradul III din 1984, acest muzeu expune veselă de ceai.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -36740,7 +36740,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Hong Kong Cultural Centre este un mare centru de artă în Happy Valley.",
+                  "text": "Centrul Cultural Hong Kong din Happy Valley, deschis în 1989, găzduiește săli de concerte și teatre.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -36767,7 +36767,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "St. John's Cathedral este o catedrală și un lăcaș de cult important din Happy Valley.",
+                  "text": "Catedrala Sf. Ioan este o catedrală istorică de gradul 3.",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -37183,7 +37183,7 @@ export const hongkongCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Flagstaff House Museum of Tea Ware",
-                  "text": "The Flagstaff House Museum of Tea Ware is a museum dedicated to tea culture in Happy Valley.",
+                  "text": "Housed in a Grade III historic building since 1984, this museum displays tea ware.",
                   "category": "museum",
                   "coords": [
                         114.162498,
@@ -37246,7 +37246,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "The Hong Kong Cultural Centre is a major arts centre located in Happy Valley.",
+                  "text": "Hong Kong Cultural Centre in Happy Valley, opened in 1989, houses concert halls and theatres.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -37273,7 +37273,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Cathedral",
-                  "text": "St. John's Cathedral is a significant cathedral and place of worship in Happy Valley.",
+                  "text": "St. John's Cathedral is a Grade 3 historic cathedral.",
                   "category": "religious",
                   "coords": [
                         114.15966,
@@ -38311,7 +38311,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "The Bethanie ist eine bekannte Kirche in Ap Lei Chau.",
+                  "text": "Eine denkmalgeschützte ehemalige französische Missionsstation von 1875 (Grade II).",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -38718,7 +38718,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "A The Bethanie egy templom Ap Lei Chau területén.",
+                  "text": "Egy 1875-ben épült, II. fokozatú védett egykori francia missziós épület.",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -39125,7 +39125,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "The Bethanie este o biserică notabilă din Ap Lei Chau.",
+                  "text": "O fostă misiune franceză din 1875, protejată ca monument de gradul II.",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -39532,7 +39532,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "The Bethanie",
-                  "text": "The Bethanie is a notable church situated in Ap Lei Chau.",
+                  "text": "A Grade II historic former French mission built in 1875.",
                   "category": "religious",
                   "coords": [
                         114.13534,
@@ -39688,7 +39688,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Das Hong Kong Cultural Centre in Jordan ist ein bedeutendes Zentrum für darstellende Kunst.",
+                  "text": "Das Hong Kong Cultural Centre in Jordan wurde 1989 eröffnet und bietet Konzertsäle und Theater.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -39751,7 +39751,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung Tempel",
-                  "text": "Der Shui Yuet Kung Tempel ist ein Ort der Verehrung in Jordan.",
+                  "text": "Der Shui Yuet Kung in Jordan ist ein denkmalgeschützter Tempel der Stufe 5, der der Mondgöttin gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -39823,7 +39823,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Großhandels-Obstmarkt",
-                  "text": "Der Yau Ma Tei Großhandels-Obstmarkt ist ein traditioneller Markt in Jordan.",
+                  "text": "Der Yau Ma Tei Obstgroßmarkt in Jordan ist ein denkmalgeschützter Markt der Stufe 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -40167,7 +40167,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jordanben található Hong Kong Cultural Centre",
-                  "text": "A Jordanben található Hong Kong Cultural Centre a művészeti előadások fontos központja.",
+                  "text": "A Hong Kong Kulturális Központ Jordanban 1989-ben nyílt meg, koncerttermekkel és színházakkal.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -40230,7 +40230,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung templom",
-                  "text": "A Shui Yuet Kung templom egy vallási hely Jordanben.",
+                  "text": "A Shui Yuet Kung Jordanban egy 5. fokozatú műemlék templom, a holdistennőnek szentelve.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -40302,7 +40302,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei nagykereskedelmi gyümölcspiac",
-                  "text": "A Yau Ma Tei nagykereskedelmi gyümölcspiac egy hagyományos piac Jordanben.",
+                  "text": "A Yau Ma Tei Gyümölcs-nagykereskedelmi Piac Jordanban 4. fokozatú műemlék piac.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -40646,7 +40646,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre din Jordan",
-                  "text": "Hong Kong Cultural Centre din Jordan este un centru major pentru artele spectacolului.",
+                  "text": "Centrul Cultural Hong Kong din Jordan, deschis în 1989, găzduiește săli de concerte și teatre.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -40709,7 +40709,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Templul Shui Yuet Kung",
-                  "text": "Templul Shui Yuet Kung este un loc de cult în Jordan.",
+                  "text": "Shui Yuet Kung din Jordan este un templu istoric de gradul 5 dedicat zeiței lunii.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -40781,7 +40781,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Piața de fructe en-gros Yau Ma Tei",
-                  "text": "Piața de fructe en-gros Yau Ma Tei este o piață tradițională din Jordan.",
+                  "text": "Piața angro de fructe Yau Ma Tei din Jordan este o piață istorică de gradul 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -41125,7 +41125,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Hong Kong Cultural Centre in Jordan is a major centre for performing arts.",
+                  "text": "Hong Kong Cultural Centre in Jordan, opened in 1989, houses concert halls and theatres.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -41188,7 +41188,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung",
-                  "text": "Shui Yuet Kung is a place of worship in Jordan.",
+                  "text": "Shui Yuet Kung in Jordan is a Grade 5 historic temple dedicated to the Moon Goddess.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -41260,7 +41260,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market is a traditional market in Jordan.",
+                  "text": "Yau Ma Tei Wholesale Fruit Market in Jordan is a Grade 4 historic market.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -42226,7 +42226,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Hong Kong Heritage Discovery Centre ist ein bekanntes Museum in Prince Edward.",
+                  "text": "Das Hong Kong Heritage Discovery Centre wurde im Oktober 2005 in den ehemaligen Whitfield-Kasernen eröffnet.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -42235,7 +42235,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum ist ein Museum in Prince Edward.",
+                  "text": "Das Tung Wah Museum in Prince Edward (Stufe 2) war ein Krankenhaus und zeigt die Geschichte der Tung Wah-Gruppe.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -42379,7 +42379,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market ist eine Sehenswürdigkeit in Prince Edward.",
+                  "text": "Der Yau Ma Tei Obstgroßmarkt in Prince Edward ist ein denkmalgeschützter Markt der Stufe 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -42714,7 +42714,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "A Hong Kong Heritage Discovery Centre egy múzeum Prince Edward területén.",
+                  "text": "A Hong Kong Örökségvédelmi Központ 2005 októberében nyílt meg a volt Whitfield laktanyában.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -42723,7 +42723,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "A Tung Wah Museum egy múzeum Prince Edward városában.",
+                  "text": "A Tung Wah Múzeum Prince Edwardban (2. fokozat) egykori kórház, a Tung Wah csoport történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -42867,7 +42867,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "A Yau Ma Tei Wholesale Fruit Market egy látványosság Prince Edward városában.",
+                  "text": "A Yau Ma Tei Gyümölcs-nagykereskedelmi Piac Prince Edwardban 4. fokozatú műemlék piac.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -43202,7 +43202,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Hong Kong Heritage Discovery Centre este un muzeu notabil din Prince Edward.",
+                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong a fost deschis în octombrie 2005 în fosta cazarmă Whitfield.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -43211,7 +43211,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum este un muzeu în Prince Edward.",
+                  "text": "Muzeul Tung Wah din Prince Edward (gradul 2) a fost un spital, acum prezintă istoria Grupului Tung Wah.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -43355,7 +43355,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market este o atracție în Prince Edward.",
+                  "text": "Piața angro de fructe Yau Ma Tei din Prince Edward este o piață istorică de gradul 4.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -43690,7 +43690,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Hong Kong Heritage Discovery Centre is a notable museum situated in Prince Edward.",
+                  "text": "Hong Kong Heritage Discovery Centre, opened in October 2005, is housed in the former Whitfield Barracks.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -43699,7 +43699,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum is a notable museum located in Prince Edward.",
+                  "text": "Tung Wah Museum in Prince Edward (Grade 2) was a hospital, now showcases the history of the Tung Wah Group.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -43843,7 +43843,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market is a notable attraction located in Prince Edward.",
+                  "text": "Yau Ma Tei Wholesale Fruit Market in Prince Edward is a Grade 4 historic market.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -45628,7 +45628,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jao Tsung-I Academy",
-                  "text": "Jao Tsung-I Academy ist ein Krankenhaus in Mei Foo.",
+                  "text": "Die Jao Tsung-I Akademie (Stufe 3) ist ein ehemaliges Krankenhaus, das in ein Kulturzentrum umgewandelt wurde.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -45637,7 +45637,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "Kwai Tsing Bridge ist eine Brücke in Mei Foo.",
+                  "text": "Die Kwai Tsing Brücke in Mei Foo (Duplikat der Tsing Yi South Bridge) wurde am 26. Juli 1999 eröffnet.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -45646,7 +45646,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "Cheung Tsing Bridge ist eine Brücke in Mei Foo.",
+                  "text": "Die Cheung Tsing Brücke in Mei Foo wurde am 22. Mai 1997 eröffnet und ist Teil der Tsing Yi Nordbrücke.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -45655,7 +45655,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwan Tai Temple",
-                  "text": "Kwan Tai Temple ist eine Kultstätte in Mei Foo.",
+                  "text": "Der Kwan Tai Tempel in Mei Foo ist ein denkmalgeschützter Tempel der Stufe 4, der Kwan Tai (Guandi) gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         114.161505,
@@ -46089,7 +46089,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jao Tsung-I Academy",
-                  "text": "A(z) Jao Tsung-I Academy egy kórház Mei Foo területén.",
+                  "text": "A Jao Tsung-I Akadémia (3. fokozat) egykori kórház, kulturális központtá alakították.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -46098,7 +46098,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "A(z) Kwai Tsing Bridge egy híd Mei Foo területén.",
+                  "text": "A Kwai Tsing híd Mei Fooban (a Tsing Yi déli híd párja) 1999. július 26-án nyílt meg.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -46107,7 +46107,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "A(z) Cheung Tsing Bridge egy híd Mei Foo területén.",
+                  "text": "A Cheung Tsing híd Mei Fooban 1997. május 22-én nyílt meg, a Tsing Yi északi híd része.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -46116,7 +46116,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwan Tai Temple",
-                  "text": "A(z) Kwan Tai Temple egy vallási épület Mei Foo területén.",
+                  "text": "A Kwan Tai templom Mei Fooban egy 4. fokozatú műemlék templom, Kwan Tainak (Guandi) szentelve.",
                   "category": "religious",
                   "coords": [
                         114.161505,
@@ -46550,7 +46550,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jao Tsung-I Academy",
-                  "text": "Jao Tsung-I Academy este un spital din Mei Foo.",
+                  "text": "Academia Jao Tsung-I (gradul 3) a fost un spital transformat în centru cultural.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -46559,7 +46559,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "Kwai Tsing Bridge este un pod din Mei Foo.",
+                  "text": "Podul Kwai Tsing din Mei Foo (duplicatul Podului de Sud Tsing Yi) a fost deschis pe 26 iulie 1999.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -46568,7 +46568,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "Cheung Tsing Bridge este un pod din Mei Foo.",
+                  "text": "Podul Cheung Tsing din Mei Foo a fost deschis pe 22 mai 1997, parte a Podului de Nord Tsing Yi.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -46577,7 +46577,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwan Tai Temple",
-                  "text": "Kwan Tai Temple este un lăcaș de cult din Mei Foo.",
+                  "text": "Templul Kwan Tai din Mei Foo este un templu istoric de gradul 4 dedicat lui Kwan Tai (Guandi).",
                   "category": "religious",
                   "coords": [
                         114.161505,
@@ -47011,7 +47011,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jao Tsung-I Academy",
-                  "text": "Jao Tsung-I Academy is a hospital located in Mei Foo.",
+                  "text": "Jao Tsung-I Academy (Grade 3) is a former hospital turned cultural centre.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -47020,7 +47020,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwai Tsing Bridge",
-                  "text": "Kwai Tsing Bridge is a bridge located in Mei Foo.",
+                  "text": "Kwai Tsing Bridge in Mei Foo (Duplicate Tsing Yi South Bridge) opened July 26, 1999.",
                   "category": "landmark",
                   "coords": [
                         114.114031,
@@ -47029,7 +47029,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cheung Tsing Bridge",
-                  "text": "Cheung Tsing Bridge is a bridge located in Mei Foo.",
+                  "text": "Cheung Tsing Bridge in Mei Foo, opened May 22, 1997, is part of the Tsing Yi North Bridge.",
                   "category": "landmark",
                   "coords": [
                         114.113435,
@@ -47038,7 +47038,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Kwan Tai Temple",
-                  "text": "Kwan Tai Temple is a place of worship located in Mei Foo.",
+                  "text": "Kwan Tai Temple in Mei Foo is a Grade 4 historic temple dedicated to Kwan Tai (Guandi).",
                   "category": "religious",
                   "coords": [
                         114.161505,
@@ -47347,7 +47347,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "Ein Park an der Hoi Bun Road.",
+                  "text": "Der Hoi Bun Road Park wurde am 25. August 2021 am Kai Tak Waterfront eröffnet.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -47853,7 +47853,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "Park a Hoi Bun Roadnál.",
+                  "text": "A Hoi Bun Road Park 2021. augusztus 25-én nyílt meg a Kai Tak vízparton.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -48359,7 +48359,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "Un parc pe Hoi Bun Road.",
+                  "text": "Parcul Hoi Bun Road a fost deschis pe 25 august 2021 pe malul apei Kai Tak.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -48865,7 +48865,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "A park on Hoi Bun Road.",
+                  "text": "Hoi Bun Road Park, opened August 25, 2021, is a waterfront park along Kai Tak.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -57922,7 +57922,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Anglikanische Kirche in Tsang Tai Uk.",
+                  "text": "Die Shatin Anglican Church in Tsang Tai Uk wurde 1991 eröffnet und dient der anglikanischen Gemeinde im Raum Shatin.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -58239,7 +58239,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Anglikán templom Tsang Tai Uk városában.",
+                  "text": "A Shatin Anglikán Templom Tsang Tai Ukban 1991-ben nyílt meg, a Shatin környéki anglikán közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -58556,7 +58556,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Biserică anglicană în Tsang Tai Uk.",
+                  "text": "Biserica Anglicană Shatin din Tsang Tai Uk a fost deschisă în 1991, deservind comunitatea anglicană din zona Shatin.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -58873,7 +58873,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shatin Anglican Church",
-                  "text": "Anglican church in Tsang Tai Uk.",
+                  "text": "Shatin Anglican Church in Tsang Tai Uk, opened in 1991, serves the Anglican community in the Shatin area.",
                   "category": "religious",
                   "coords": [
                         114.204397,
@@ -63331,7 +63331,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "Big Wave Bay Rock Carving ist eine bemerkenswerte archäologische Stätte in Shek O.",
+                  "text": "Die Big Wave Bay Rock Carving in Shek O ist eine denkmalgeschützte Felsritzung der Stufe 2 aus der Bronzezeit.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -63367,7 +63367,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cape D'Aguilar Lighthouse",
-                  "text": "Das Cape D'Aguilar Lighthouse ist ein historischer maritimer Leuchtturm in Shek O.",
+                  "text": "Ein Leuchtturm von 1875 (Grade IV) an der Südostspitze Hongkongs.",
                   "category": "landmark",
                   "coords": [
                         114.259141,
@@ -63576,7 +63576,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "A Big Wave Bay Rock Carving egy nevezetes régészeti lelőhely Shek O-ban.",
+                  "text": "A Big Wave Bay sziklavéset Shek Oban egy 2. fokozatú műemlék sziklavéset a bronzkorból.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -63612,7 +63612,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cape D'Aguilar világítótorony",
-                  "text": "A Cape D'Aguilar világítótorony egy történelmi tengerészeti építmény Shek O-ban.",
+                  "text": "Egy 1875-ben épült, IV. fokozatú világítótorony Hongkong délkeleti csücskén.",
                   "category": "landmark",
                   "coords": [
                         114.259141,
@@ -63821,7 +63821,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "Big Wave Bay Rock Carving este un sit arheologic notabil situat în Shek O.",
+                  "text": "Gravura pe stâncă Big Wave Bay din Shek O este o sculptură rupestră istorică de gradul 2 din epoca bronzului.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -63857,7 +63857,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Farul Cape D'Aguilar",
-                  "text": "Farul Cape D'Aguilar este un far maritim istoric situat în Shek O.",
+                  "text": "Un far din 1875, de gradul IV, la capătul sud-estic al insulei Hong Kong.",
                   "category": "landmark",
                   "coords": [
                         114.259141,
@@ -64066,7 +64066,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "Big Wave Bay Rock Carving is a notable archaeological site located in Shek O.",
+                  "text": "Big Wave Bay Rock Carving in Shek O is a Grade 2 historic rock carving from the Bronze Age.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -64102,7 +64102,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Cape D'Aguilar Lighthouse",
-                  "text": "Cape D'Aguilar Lighthouse is a historic maritime lighthouse situated in Shek O.",
+                  "text": "A Grade IV listed lighthouse from 1875 at the southeastern tip of Hong Kong Island.",
                   "category": "landmark",
                   "coords": [
                         114.259141,
@@ -64366,7 +64366,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "Historische Felszeichnung in der Big Wave Bay.",
+                  "text": "Die Big Wave Bay Rock Carving in Big Wave Bay ist eine denkmalgeschützte Felsritzung der Stufe 2 aus der Bronzezeit.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -64638,7 +64638,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "Történelmi sziklarajz a Big Wave Bay területén.",
+                  "text": "A Big Wave Bay sziklavéset Big Wave Bayben egy 2. fokozatú műemlék sziklavéset a bronzkorból.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -64910,7 +64910,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "Sculptură istorică în stâncă în Big Wave Bay.",
+                  "text": "Gravura pe stâncă Big Wave Bay din Big Wave Bay este o sculptură rupestră istorică de gradul 2 din epoca bronzului.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -65182,7 +65182,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Big Wave Bay Rock Carving",
-                  "text": "Historical rock carving in Big Wave Bay.",
+                  "text": "Big Wave Bay Rock Carving in Big Wave Bay is a Grade 2 historic rock carving from the Bronze Age.",
                   "category": "historical",
                   "coords": [
                         114.248786,
@@ -65662,7 +65662,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Das Hong Kong Heritage Discovery Centre ist ein Museum, das dem lokalen Erbe in der Gegend der Shanghai Street gewidmet ist.",
+                  "text": "Das Hong Kong Heritage Discovery Centre in der Shanghai Street wurde im Oktober 2005 in den ehemaligen Whitfield-Kasernen eröffnet.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -66141,7 +66141,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "A Hong Kong Heritage Discovery Centre a helyi örökségnek szentelt múzeum a Shanghai Street környékén.",
+                  "text": "A Hong Kong Örökségvédelmi Központ a Shanghai Streeten 2005 októberében nyílt meg a volt Whitfield laktanyában.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -66620,7 +66620,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Hong Kong Heritage Discovery Centre este un muzeu dedicat moștenirii locale în zona Shanghai Street.",
+                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong de pe Shanghai Street a fost deschis în octombrie 2005 în fosta cazarmă Whitfield.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -67099,7 +67099,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "The Hong Kong Heritage Discovery Centre is a museum dedicated to local heritage in the Shanghai Street area.",
+                  "text": "Hong Kong Heritage Discovery Centre on Shanghai Street, opened in October 2005, is housed in the former Whitfield Barracks.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -67633,7 +67633,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Film Archive",
-                  "text": "Das Hong Kong Film Archive ist ein Museum in Lei Yue Mun, das sich der Filmgeschichte widmet.",
+                  "text": "Das Hong Kong Film Archive in Lei Yue Mun wurde im Januar 2001 eröffnet und bewahrt Hongkongs Filme.",
                   "category": "museum",
                   "coords": [
                         114.222124,
@@ -68094,7 +68094,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Film Archive",
-                  "text": "A Hong Kong Film Archive egy Lei Yue Mun-i múzeum, amely a filmtörténetnek szentelt.",
+                  "text": "A Hong Kong Filmarchívum Lei Yue Munban 2001 januárjában nyílt meg, Hongkong filmjeit őrzi.",
                   "category": "museum",
                   "coords": [
                         114.222124,
@@ -68555,7 +68555,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Arhiva de Film din Hong Kong",
-                  "text": "Arhiva de Film din Hong Kong este un muzeu din Lei Yue Mun dedicat istoriei filmului.",
+                  "text": "Arhiva de Film Hong Kong din Lei Yue Mun a fost deschisă în ianuarie 2001, păstrând filmele din Hong Kong.",
                   "category": "museum",
                   "coords": [
                         114.222124,
@@ -69016,7 +69016,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Film Archive",
-                  "text": "The Hong Kong Film Archive is a museum in Lei Yue Mun dedicated to film history.",
+                  "text": "Hong Kong Film Archive in Lei Yue Mun, opened in January 2001, preserves Hong Kong films.",
                   "category": "museum",
                   "coords": [
                         114.222124,
@@ -71809,7 +71809,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jao Tsung-I Academy",
-                  "text": "Die Jao Tsung-I Academy ist ein kulturelles Zentrum in Shek Kip Mei.",
+                  "text": "Die Jao Tsung-I Akademie in Shek Kip Mei (Stufe 3) ist ein ehemaliges Krankenhaus, das in ein Kulturzentrum umgewandelt wurde.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -72306,7 +72306,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jao Tsung-I Akadémia",
-                  "text": "A Jao Tsung-I Akadémia egy kulturális központ Shek Kip Meiben.",
+                  "text": "A Jao Tsung-I Akadémia Shek Kip Meiben (3. fokozat) egykori kórház, kulturális központtá alakították.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -72803,7 +72803,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Academia Jao Tsung-I",
-                  "text": "Academia Jao Tsung-I este un centru cultural în Shek Kip Mei.",
+                  "text": "Academia Jao Tsung-I din Shek Kip Mei (gradul 3) a fost un spital transformat în centru cultural.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -73300,7 +73300,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Jao Tsung-I Academy",
-                  "text": "Jao Tsung-I Academy is a cultural centre in Shek Kip Mei.",
+                  "text": "Jao Tsung-I Academy in Shek Kip Mei (Grade 3) is a former hospital turned cultural centre.",
                   "category": "landmark",
                   "coords": [
                         114.142307,
@@ -75742,7 +75742,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Das Hong Kong Heritage Discovery Centre ist ein anerkanntes Museum in Ho Man Tin.",
+                  "text": "Das Hong Kong Heritage Discovery Centre in Ho Man Tin wurde im Oktober 2005 in den ehemaligen Whitfield-Kasernen eröffnet.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -75751,7 +75751,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "Das Tung Wah Museum ist ein bemerkenswertes Museum in Ho Man Tin.",
+                  "text": "Das Tung Wah Museum in Ho Man Tin (Stufe 2) war ein Krankenhaus und zeigt die Geschichte der Tung Wah-Gruppe.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -75787,7 +75787,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Das Hong Kong Cultural Centre ist ein wichtiges Kunstzentrum in Ho Man Tin.",
+                  "text": "Das Hong Kong Cultural Centre, ein Veranstaltungsort für darstellende Künste, wurde 1989 eröffnet.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -75913,7 +75913,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market ist eine Sehenswürdigkeit in Ho Man Tin. Es ist ein bekannter Ort.",
+                  "text": "Der Yau Ma Tei Großmarkt für Obst ist ein denkmalgeschütztes Gebäude (Grad 4) in Ho Man Tin.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -76212,7 +76212,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hongkongi Örökség Felfedező Központ",
-                  "text": "A Hongkongi Örökség Felfedező Központ egy elismert múzeum Ho Man Tinben.",
+                  "text": "A Hong Kong Örökségvédelmi Központ Ho Man Tinban 2005 októberében nyílt meg a volt Whitfield laktanyában.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -76221,7 +76221,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Múzeum",
-                  "text": "A Tung Wah Múzeum egy jelentős múzeum Ho Man Tinben.",
+                  "text": "A Tung Wah Múzeum Ho Man Tinban (2. fokozat) egykori kórház, a Tung Wah csoport történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -76257,7 +76257,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hongkongi Kulturális Központ",
-                  "text": "A Hongkongi Kulturális Központ egy jelentős művészeti központ Ho Man Tinben.",
+                  "text": "A Hongkongi Kulturális Központ 1989-ben nyílt meg, előadóművészeti központként.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -76383,7 +76383,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "A(z) Yau Ma Tei Wholesale Fruit Market egy látványosság Ho Man Tin városában. Ez egy ismert hely.",
+                  "text": "A Yau Ma Tei Nagybani Gyümölcspiac műemlék (4. fokozat) Ho Man Tinben.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -76682,7 +76682,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Centrul de Descoperire a Patrimoniului din Hong Kong",
-                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong este un muzeu recunoscut situat în Ho Man Tin.",
+                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong din Ho Man Tin a fost deschis în octombrie 2005 în fosta cazarmă Whitfield.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -76691,7 +76691,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Tung Wah",
-                  "text": "Muzeul Tung Wah este un muzeu notabil situat în Ho Man Tin.",
+                  "text": "Muzeul Tung Wah din Ho Man Tin (gradul 2) a fost un spital, acum prezintă istoria Grupului Tung Wah.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -76727,7 +76727,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Centrul Cultural din Hong Kong",
-                  "text": "Centrul Cultural din Hong Kong este un centru de arte major situat în Ho Man Tin.",
+                  "text": "Centrul Cultural Hong Kong, un loc pentru artele spectacolului, a fost deschis în 1989.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -76853,7 +76853,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market este o atracție în Ho Man Tin. Este un loc bine-cunoscut.",
+                  "text": "Piața en-gros de fructe Yau Ma Tei este o clădire de patrimoniu (gradul 4) în Ho Man Tin.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -77152,7 +77152,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "The Hong Kong Heritage Discovery Centre is a recognized museum located in Ho Man Tin.",
+                  "text": "Hong Kong Heritage Discovery Centre in Ho Man Tin, opened in October 2005, is housed in the former Whitfield Barracks.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -77161,7 +77161,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Tung Wah Museum",
-                  "text": "Tung Wah Museum is a notable museum situated in Ho Man Tin.",
+                  "text": "Tung Wah Museum in Ho Man Tin (Grade 2) was a hospital, now showcases the history of the Tung Wah Group.",
                   "category": "museum",
                   "coords": [
                         114.171856,
@@ -77197,7 +77197,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "The Hong Kong Cultural Centre is a major arts centre situated in Ho Man Tin.",
+                  "text": "The Hong Kong Cultural Centre, a performing arts venue, opened in 1989.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -77323,7 +77323,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "Yau Ma Tei Wholesale Fruit Market is an attraction in Ho Man Tin. It is a well-known location.",
+                  "text": "The Yau Ma Tei Wholesale Fruit Market is a heritage-listed building (Grade 4) in Ho Man Tin.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -77758,7 +77758,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung in Ma Tau Wai",
-                  "text": "Shui Yuet Kung in Ma Tau Wai ist ein traditioneller Tempel.",
+                  "text": "Der Shui Yuet Kung ist ein denkmalgeschützter Tempel (Grad 5) in Ma Tau Wai.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -77794,7 +77794,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market in Ma Tau Wai",
-                  "text": "Der Yau Ma Tei Wholesale Fruit Market in Ma Tau Wai ist ein geschäftiger Großhandelsmarkt.",
+                  "text": "Der Yau Ma Tei Großmarkt für Obst ist ein denkmalgeschütztes Gebäude (Grad 4) in Ma Tau Wai.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -78001,7 +78001,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park in Ma Tau Wai",
-                  "text": "Hoi Bun Road Park in Ma Tau Wai ist eine städtische Parkanlage.",
+                  "text": "Der Hoi Bun Road Park wurde am 25. August 2021 eröffnet.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -78255,7 +78255,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Ma Tau Wai-i Shui Yuet Kung",
-                  "text": "A Ma Tau Wai-i Shui Yuet Kung egy hagyományos templom.",
+                  "text": "A Shui Yuet Kung templom műemlék (5. fokozat) Ma Tau Waiban.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -78291,7 +78291,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Ma Tau Wai-i Yau Ma Tei Wholesale Fruit Market",
-                  "text": "A Ma Tau Wai-i Yau Ma Tei Wholesale Fruit Market egy forgalmas nagykereskedelmi piac.",
+                  "text": "A Yau Ma Tei Nagybani Gyümölcspiac műemlék (4. fokozat) Ma Tau Waiban.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -78498,7 +78498,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Ma Tau Wai-i Hoi Bun Road Park",
-                  "text": "A Ma Tau Wai-i Hoi Bun Road Park egy városi park.",
+                  "text": "A Hoi Bun Road Park 2021. augusztus 25-én nyílt meg.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -78752,7 +78752,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung din Ma Tau Wai",
-                  "text": "Shui Yuet Kung din Ma Tau Wai este un templu tradițional.",
+                  "text": "Templul Shui Yuet Kung este un lăcaș de cult protejat (gradul 5) în Ma Tau Wai.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -78788,7 +78788,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market din Ma Tau Wai",
-                  "text": "Yau Ma Tei Wholesale Fruit Market din Ma Tau Wai este o piață angro aglomerată.",
+                  "text": "Piața en-gros de fructe Yau Ma Tei este o clădire de patrimoniu (gradul 4) în Ma Tau Wai.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -78995,7 +78995,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park din Ma Tau Wai",
-                  "text": "Hoi Bun Road Park din Ma Tau Wai este un parc urban.",
+                  "text": "Parcul Hoi Bun Road a fost deschis pe 25 august 2021.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -79249,7 +79249,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Shui Yuet Kung",
-                  "text": "Shui Yuet Kung in Ma Tau Wai is a traditional temple.",
+                  "text": "Shui Yuet Kung is a heritage-listed temple (Grade 5) in Ma Tau Wai.",
                   "category": "religious",
                   "coords": [
                         114.172918,
@@ -79285,7 +79285,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Yau Ma Tei Wholesale Fruit Market",
-                  "text": "The Yau Ma Tei Wholesale Fruit Market in Ma Tau Wai is a busy wholesale market.",
+                  "text": "The Yau Ma Tei Wholesale Fruit Market is a heritage-listed building (Grade 4) in Ma Tau Wai.",
                   "category": "landmark",
                   "coords": [
                         114.168289,
@@ -79492,7 +79492,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "Hoi Bun Road Park in Ma Tau Wai is an urban park.",
+                  "text": "Hoi Bun Road Park opened on 25 August 2021.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -80341,7 +80341,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "Hoi Bun Road Park ist ein bekannter Park in Choi Hung.",
+                  "text": "Der Hoi Bun Road Park wurde am 25. August 2021 eröffnet.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -80856,7 +80856,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "A(z) Hoi Bun Road Park egy jelentős park Choi Hung városában.",
+                  "text": "A Hoi Bun Road Park 2021. augusztus 25-én nyílt meg.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -81371,7 +81371,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "Hoi Bun Road Park este un parc notabil situat în Choi Hung.",
+                  "text": "Parcul Hoi Bun Road a fost deschis pe 25 august 2021.",
                   "category": "park",
                   "coords": [
                         114.215678,
@@ -81886,7 +81886,7 @@ export const hongkongCitiesV2: POI[] = [
             },
             {
                   "name": "Hoi Bun Road Park",
-                  "text": "Hoi Bun Road Park is a notable park located in Choi Hung.",
+                  "text": "Hoi Bun Road Park opened on 25 August 2021.",
                   "category": "park",
                   "coords": [
                         114.215678,

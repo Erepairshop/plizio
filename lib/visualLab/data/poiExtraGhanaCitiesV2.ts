@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraGhanaCitiesV2: POI[] = [
   {
-    id: "accra-cities-v2",
+    id: "accra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alliance Française",
+                  "text": "Dieses lebendige Kulturzentrum fördert den französisch-ghanaischen Austausch durch Kunstausstellungen und dynamische musikalische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.181941,
+                        5.597477
+                  ]
+            },
+            {
+                  "name": "Accra Zoo",
+                  "text": "Die schattigen Waldgehege des Zoos bieten einen direkten Einblick in die vielfältige einheimische Tierwelt Westafrikas.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.202575,
+                        5.625402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alliance Française",
+                  "text": "Ez az élénk kulturális központ francia-ghánai cserekapcsolatokat ápol művészeti kiállításokon és vibráló zenei előadásokon keresztül.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.181941,
+                        5.597477
+                  ]
+            },
+            {
+                  "name": "Accra Zoo",
+                  "text": "Az állatkert árnyékos erdei kifutói közvetlen bepillantást engednek Nyugat-Afrika változatos őshonos élővilágába.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.202575,
+                        5.625402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alliance Française",
+                  "text": "Acest centru cultural animat promovează schimburile franco-ghaneze prin expoziții de artă și spectacole muzicale dinamice.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.181941,
+                        5.597477
+                  ]
+            },
+            {
+                  "name": "Accra Zoo",
+                  "text": "Incintele împădurite și umbrite ale grădinii zoologice oferă o privire directă asupra faunei sălbatice indigene diverse a Africii de Vest.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.202575,
+                        5.625402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alliance Française",
+                  "text": "This lively cultural centre fosters French-Ghanaian exchange through art exhibitions and dynamic musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.181941,
+                        5.597477
+                  ]
+            },
+            {
+                  "name": "Accra Zoo",
+                  "text": "The zoo's shaded forest enclosures offer a direct glimpse into West Africa's diverse indigenous wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.202575,
+                        5.625402
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GH-AA",
     coords: [-0.187, 5.6037],
@@ -37,7 +118,124 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kumasi-cities-v2",
+    id: "kumasi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capt. Robert Sutherland Rattray B. Sc. (Oxon) Sculpture",
+                  "text": "Diese Skulptur ehrt Capt. Rattray, einen wegweisenden Anthropologen und Piloten, der die Aschanti-Kultur im frühen 20. Jahrhundert umfassend dokumentierte.",
+                  "category": "historical",
+                  "coords": [
+                        -1.625129,
+                        6.681503
+                  ]
+            },
+            {
+                  "name": "Sir Donald Stewart Tower and Clock",
+                  "text": "Dieser Uhrturm aus der Kolonialzeit ist eine historische Hommage an Sir Donald Stewart, den ersten britischen Chief Commissioner der Aschanti-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -1.6235,
+                        6.690214
+                  ]
+            },
+            {
+                  "name": "Ghana Armed Forces Museum",
+                  "text": "Untergebracht im historischen Kumasi Fort, stellt dieses Museum britisch-ghanaische Militärrelikte, Waffen und Medaillen aus der Kolonialzeit aus.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624951,
+                        6.691425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capt. Robert Sutherland Rattray B. Sc. (Oxon) Sculpture",
+                  "text": "Ez a szobor Rattray kapitánynak, az úttörő antropológusnak és pilótának állít emléket, aki a 20. század elején behatóan dokumentálta az asanti kultúrát.",
+                  "category": "historical",
+                  "coords": [
+                        -1.625129,
+                        6.681503
+                  ]
+            },
+            {
+                  "name": "Sir Donald Stewart Tower and Clock",
+                  "text": "Ez a gyarmati korszakból származó óratorony Sir Donald Stewart, az asanti régió első brit főbiztosának állít történelmi emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -1.6235,
+                        6.690214
+                  ]
+            },
+            {
+                  "name": "Ghana Armed Forces Museum",
+                  "text": "A történelmi Kumasi erődben helyet kapó múzeum brit-ghánai katonai emlékeket, fegyvereket és a gyarmati korból származó kitüntetéseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624951,
+                        6.691425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capt. Robert Sutherland Rattray B. Sc. (Oxon) Sculpture",
+                  "text": "Această sculptură îl onorează pe Căpitanul Rattray, un antropolog și pilot pionier care a documentat profund cultura Ashanti la începutul secolului al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -1.625129,
+                        6.681503
+                  ]
+            },
+            {
+                  "name": "Sir Donald Stewart Tower and Clock",
+                  "text": "Acest turn cu ceas din epoca colonială reprezintă un tribut istoric adus lui Sir Donald Stewart, primul comisar șef britanic al regiunii Ashanti.",
+                  "category": "historical",
+                  "coords": [
+                        -1.6235,
+                        6.690214
+                  ]
+            },
+            {
+                  "name": "Ghana Armed Forces Museum",
+                  "text": "Găzduit în istoricul Fort Kumasi, acest muzeu expune relicve militare britanice-ghaneze, armament și medalii datând din epoca colonială.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624951,
+                        6.691425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capt. Robert Sutherland Rattray B. Sc. (Oxon) Sculpture",
+                  "text": "This sculpture honors Capt. Rattray, a pioneering anthropologist and pilot who deeply documented Ashanti culture during the early 20th century.",
+                  "category": "historical",
+                  "coords": [
+                        -1.625129,
+                        6.681503
+                  ]
+            },
+            {
+                  "name": "Sir Donald Stewart Tower and Clock",
+                  "text": "This colonial-era clock tower stands as a historical tribute to Sir Donald Stewart, the first British Chief Commissioner of the Ashanti region.",
+                  "category": "historical",
+                  "coords": [
+                        -1.6235,
+                        6.690214
+                  ]
+            },
+            {
+                  "name": "Ghana Armed Forces Museum",
+                  "text": "Housed within the historic Kumasi Fort, this museum exhibits British-Ghanaian military relics, weaponry, and medals dating back to the colonial era.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624951,
+                        6.691425
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AH",
     coords: [-1.6244, 6.6885],
@@ -77,7 +275,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tamale-cities-v2",
+    id: "tamale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Our Lady of Announciation",
+                  "text": "Ein katholisches Denkmal in Tamale, das dem religiösen Ereignis der Verkündigung gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -0.835225,
+                        9.401422
+                  ]
+            },
+            {
+                  "name": "National Culture",
+                  "text": "Ein Museum in Tamale, das das regionale und nationale Kulturerbe bewahrt und ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.839543,
+                        9.403588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Our Lady of Announciation",
+                  "text": "Katolikus emlékmű Tamaléban, amelyet az Angyali üdvözlet vallási eseményének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -0.835225,
+                        9.401422
+                  ]
+            },
+            {
+                  "name": "National Culture",
+                  "text": "Egy múzeum Tamaléban, amely megőrzi és bemutatja a regionális és nemzeti kulturális örökséget.",
+                  "category": "museum",
+                  "coords": [
+                        -0.839543,
+                        9.403588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Our Lady of Announciation",
+                  "text": "Un monument catolic în Tamale dedicat evenimentului religios al Bunei Vestiri.",
+                  "category": "historical",
+                  "coords": [
+                        -0.835225,
+                        9.401422
+                  ]
+            },
+            {
+                  "name": "National Culture",
+                  "text": "Un muzeu în Tamale care conservă și prezintă patrimoniul cultural regional și național.",
+                  "category": "museum",
+                  "coords": [
+                        -0.839543,
+                        9.403588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Lady of Announciation",
+                  "text": "A Catholic monument in Tamale dedicated to the religious event of the Annunciation.",
+                  "category": "historical",
+                  "coords": [
+                        -0.835225,
+                        9.401422
+                  ]
+            },
+            {
+                  "name": "National Culture",
+                  "text": "A museum in Tamale preserving and showcasing the regional and national cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -0.839543,
+                        9.403588
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-NP",
     coords: [-0.8393, 9.4008],
@@ -414,7 +693,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Augustaborg",
-                  "text": "Fort Augustaborg in Teshie.",
+                  "text": "Fort Augustaborg in Teshie ist eine dänische Kolonialfestung an der Küste Ghanas, erbaut 1787.",
                   "category": "fortress",
                   "coords": [
                         -0.10143,
@@ -434,7 +713,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Augustaborg",
-                  "text": "Augustaborg erőd, Tesie.",
+                  "text": "A Teshie-i Fort Augustaborg egy dán gyarmati erőd a ghánai parton, 1787-ben épült.",
                   "category": "fortress",
                   "coords": [
                         -0.10143,
@@ -454,7 +733,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Augustaborg",
-                  "text": "Fortul Augustaborg din Teshie.",
+                  "text": "Fort Augustaborg din Teshie este o fortăreață colonială daneză pe coasta ghaneză, construită în 1787.",
                   "category": "fortress",
                   "coords": [
                         -0.10143,
@@ -474,7 +753,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Augustaborg",
-                  "text": "Fort Augustaborg in Teshie.",
+                  "text": "Fort Augustaborg in Teshie is a Danish colonial fort on the Ghanaian coast, built in 1787.",
                   "category": "fortress",
                   "coords": [
                         -0.10143,
@@ -1526,7 +1805,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "ho-cities-v2",
+    id: "ho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Volta Regional Museum",
+                  "text": "Das Volta Regional Museum in Ho stellt die ethnografische Geschichte und Kultur der Volta-Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        0.468867,
+                        6.608625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Volta Regional Museum",
+                  "text": "A Volta Regionális Múzeum Ho városában a Volta régió néprajzi történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        0.468867,
+                        6.608625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Volta Regional Museum",
+                  "text": "Muzeul Regional Volta din Ho expune istoria etnografică și cultura Regiunii Volta.",
+                  "category": "museum",
+                  "coords": [
+                        0.468867,
+                        6.608625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Volta Regional Museum",
+                  "text": "The Volta Regional Museum in Ho exhibits the ethnographic history and culture of the Volta Region.",
+                  "category": "museum",
+                  "coords": [
+                        0.468867,
+                        6.608625
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-TV",
     coords: [0.4713, 6.6008],
@@ -1598,7 +1922,124 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "dome-cities-v2",
+    id: "dome-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "Eine große Brauerei, die als erste etablierte kommerzielle Brauerei des Landes gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "Eine bedeutende Brauerei, die beliebte lokale und internationale Getränkemarken herstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            },
+            {
+                  "name": "Ghana South Africa Culture Clump",
+                  "text": "Ein spezieller Ort des kulturellen Austauschs, der das gemeinsame Erbe der beiden afrikanischen Nationen feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.229067,
+                        5.630702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "Jelentős sörfőzde, amely az ország elsőként alapított kereskedelmi sörgyáraként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "Népszerű helyi és nemzetközi italmárkákat előállító kiemelkedő sörgyár.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            },
+            {
+                  "name": "Ghana South Africa Culture Clump",
+                  "text": "A két afrikai nemzet közös örökségét ünneplő, a kulturális cserének szentelt tér.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.229067,
+                        5.630702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "O fabrică de bere majoră recunoscută ca prima fabrică de bere comercială înființată în țară.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "O importantă fabrică de bere care produce mărci populare locale și internaționale de băuturi.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            },
+            {
+                  "name": "Ghana South Africa Culture Clump",
+                  "text": "Un spațiu dedicat schimburilor culturale care celebrează moștenirea comună a celor două națiuni africane.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.229067,
+                        5.630702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "A major brewing facility that stands as the first established commercial brewery in the country.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "A prominent brewing plant producing popular local and international beverage brands.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            },
+            {
+                  "name": "Ghana South Africa Culture Clump",
+                  "text": "A dedicated cultural exchange space celebrating the shared heritage of the two African nations.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.229067,
+                        5.630702
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.2333, 5.65],
@@ -2588,7 +3029,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "yendi-cities-v2",
+    id: "yendi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gbewaa palace",
+                  "text": "Der historische traditionelle Gbewaa-Palast, der als königliche Residenz in der Stadt Yendi dient.",
+                  "category": "castle",
+                  "coords": [
+                        -0.001431,
+                        9.442974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gbewaa palace",
+                  "text": "A történelmi Gbewaa hagyományos palota, amely királyi rezidenciaként szolgál Yendi városában.",
+                  "category": "castle",
+                  "coords": [
+                        -0.001431,
+                        9.442974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gbewaa palace",
+                  "text": "Palatul tradițional istoric Gbewaa care servește drept reședință regală în orașul Yendi.",
+                  "category": "castle",
+                  "coords": [
+                        -0.001431,
+                        9.442974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gbewaa palace",
+                  "text": "The historic Gbewaa traditional palace serving as a royal residence in the city of Yendi.",
+                  "category": "castle",
+                  "coords": [
+                        -0.001431,
+                        9.442974
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-NP",
     coords: [-0.0099, 9.4427],
@@ -2777,7 +3263,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "navrongo-cities-v2",
+    id: "navrongo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral Basilica of Our Lady of Seven Sorrows",
+                  "text": "Die Cathedral Basilica of Our Lady of Seven Sorrows ist eine bedeutende katholische Kirche, die für ihre traditionelle Lehmziegelarchitektur berühmt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077878,
+                        10.884251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral Basilica of Our Lady of Seven Sorrows",
+                  "text": "A Cathedral Basilica of Our Lady of Seven Sorrows egy jelentős katolikus templom, amely hagyományos vályogtégla építészetéről híres.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077878,
+                        10.884251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral Basilica of Our Lady of Seven Sorrows",
+                  "text": "Bazilica Catedrală a Maicii Domnului a Celor Șapte Dureri este o importantă biserică catolică, renumită pentru arhitectura sa tradițională din cărămidă de lut.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077878,
+                        10.884251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral Basilica of Our Lady of Seven Sorrows",
+                  "text": "The Cathedral Basilica of Our Lady of Seven Sorrows is a prominent Catholic church celebrated for its traditional mud-brick architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077878,
+                        10.884251
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-UE",
     coords: [-1.0921, 10.8956],
@@ -3038,7 +3569,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "agogo-cities-v2",
+    id: "agogo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agogo Chief's Palace",
+                  "text": "Als traditioneller Sitz der lokalen Autorität ist dieser imposante Palast ein Symbol des kulturellen Erbes in der Stadt Agogo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.081266,
+                        6.798033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agogo Chief's Palace",
+                  "text": "A helyi hatóság hagyományos székhelyeként szolgáló impozáns palota a kulturális örökség szimbóluma Agogo városában.",
+                  "category": "castle",
+                  "coords": [
+                        -1.081266,
+                        6.798033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agogo Chief's Palace",
+                  "text": "Servind drept sediu tradițional al autorității locale, acest palat impunător este un simbol al moștenirii culturale în orașul Agogo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.081266,
+                        6.798033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agogo Chief's Palace",
+                  "text": "Serving as the traditional seat of local authority, this imposing palace stands as a symbol of cultural heritage in the city of Agogo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.081266,
+                        6.798033
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AH",
     coords: [-1.0833, 6.8],
@@ -3182,7 +3758,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "aflao-cities-v2",
+    id: "aflao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Pledge Beach",
+                  "text": "Dieser Sandstrand in Aflao bietet eine weite Küstenlinie am Golf von Guinea.",
+                  "category": "recreational",
+                  "coords": [
+                        1.184674,
+                        6.1064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Pledge Beach",
+                  "text": "Ez az Aflaóban található homokos strand hosszú partszakaszt kínál a Guineai-öböl mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.184674,
+                        6.1064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Pledge Beach",
+                  "text": "Această plajă de nisip din Aflao oferă o zonă extinsă de coastă la Golful Guineei.",
+                  "category": "recreational",
+                  "coords": [
+                        1.184674,
+                        6.1064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Pledge Beach",
+                  "text": "This sandy beach in Aflao features a sweeping coastline along the Gulf of Guinea.",
+                  "category": "recreational",
+                  "coords": [
+                        1.184674,
+                        6.1064
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-TV",
     coords: [1.1917, 6.1167],
@@ -3290,7 +3911,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "saltpond-cities-v2",
+    id: "saltpond-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abandze Beach Resort",
+                  "text": "Diese Küstenunterkunft bietet luftige Zimmer am Meer und direkten Zugang zu den Sandstränden von Saltpond.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.090771,
+                        5.194889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abandze Beach Resort",
+                  "text": "Ez a tengerparti szállás szellős, óceánra néző szobákat és közvetlen hozzáférést kínál Saltpond homokos strandjaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.090771,
+                        5.194889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abandze Beach Resort",
+                  "text": "Această unitate de cazare de coastă oferă camere aerisite la malul mării și acces direct la plajele cu nisip din Saltpond.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.090771,
+                        5.194889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abandze Beach Resort",
+                  "text": "This coastal accommodation offers breezy oceanfront rooms and direct access to the sandy beaches of Saltpond.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.090771,
+                        5.194889
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-CP",
     coords: [-1.0667, 5.2],
@@ -3366,7 +4032,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Patience",
-                  "text": "Fort Patience in Apam.",
+                  "text": "Fort Patience in Apam ist eine niederländische Festung aus dem 17. Jahrhundert an der Küste Ghanas (UNESCO-Weltkulturerbe).",
                   "category": "castle",
                   "coords": [
                         -0.728116,
@@ -3377,7 +4043,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Patience",
-                  "text": "Patience erőd, Apam.",
+                  "text": "Az Apam-i Fort Patience egy 17. századi holland erőd a ghánai parton (UNESCO Világörökség).",
                   "category": "castle",
                   "coords": [
                         -0.728116,
@@ -3388,7 +4054,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Patience",
-                  "text": "Fortul Patience din Apam.",
+                  "text": "Fort Patience din Apam este o fortăreață olandeză din secolul al XVII-lea pe coasta ghaneză, Patrimoniu UNESCO.",
                   "category": "castle",
                   "coords": [
                         -0.728116,
@@ -3399,7 +4065,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Patience",
-                  "text": "Fort Patience in Apam.",
+                  "text": "Fort Patience in Apam is a 17th-century Dutch fort on the Ghanaian coast, a UNESCO World Heritage site.",
                   "category": "castle",
                   "coords": [
                         -0.728116,
@@ -3812,7 +4478,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "denu-cities-v2",
+    id: "denu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Denu Beach",
+                  "text": "Dieses Strandresort in Denu lädt mit seinem direkten Zugang zum Meer zum tropischen Badeurlaub ein.",
+                  "category": "recreational",
+                  "coords": [
+                        1.151534,
+                        6.091964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Denu Beach",
+                  "text": "Ez a denui tengerparti üdülőhely közvetlen tengerparti hozzáférésével trópusi kikapcsolódásra csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        1.151534,
+                        6.091964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Denu Beach",
+                  "text": "Această stațiune pe plajă din Denu invită la o vacanță tropicală, având acces direct la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        1.151534,
+                        6.091964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Denu Beach",
+                  "text": "This beach resort in Denu offers direct ocean access for a tropical coastal getaway.",
+                  "category": "recreational",
+                  "coords": [
+                        1.151534,
+                        6.091964
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-TV",
     coords: [1.15, 6.1],

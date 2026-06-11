@@ -123,7 +123,52 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     }
   },
   {
-    id: "zambezi-escarpment-relief-v2",
+    id: "zambezi-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mana-Pools-Nationalpark",
+                  "text": "Dieses im Jahr 1975 gegründete Naturschutzgebiet ist für seine Lage am Sambesi bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        29.460497,
+                        -15.968885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mana Pools National Park",
+                  "text": "Ezt az 1975-ben alapított természetvédelmi területet a Zambézi folyó menti elhelyezkedése teszi ismertté.",
+                  "category": "natural",
+                  "coords": [
+                        29.460497,
+                        -15.968885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mana Pools National Park",
+                  "text": "Această rezervație naturală înființată în 1975 este cunoscută pentru locația sa pe râul Zambezi.",
+                  "category": "natural",
+                  "coords": [
+                        29.460497,
+                        -15.968885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mana Pools National Park",
+                  "text": "This nature reserve established in 1975 is known for its location on the Zambezi River.",
+                  "category": "natural",
+                  "coords": [
+                        29.460497,
+                        -15.968885
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZW-MA",
     coords: [29.5, -16.0],
@@ -167,7 +212,52 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     }
   },
   {
-    id: "chimanimani-mountains-relief-v2",
+    id: "chimanimani-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "Die Bridal Veil Falls bei Chimanimani stürzen malerisch über zerklüftete Felsen und ähneln in ihrer Form einem eleganten Brautschleier.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "A Chimanimani közelében található Bridal Veil Falls festőien zuhog le a sziklákon, formája egy elegáns menyasszonyi fátyolra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "Cascada Bridal Veil de lângă Chimanimani se varsă pitoresc peste stânci accidentate, având forma unui voal de mireasă elegant.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "The Bridal Veil Falls near Chimanimani cascade picturesquely over jagged rocks, resembling an elegant bridal veil.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.9, -19.8],
@@ -255,7 +345,124 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     }
   },
   {
-    id: "vumba-mountains-relief-v2",
+    id: "vumba-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyachowa Falls Entrance",
+                  "text": "Dieser Ausgangspunkt in den Vumba-Bergen markiert den Beginn des Pfades, der hinab zu den kaskadenartigen Nyachowa-Fällen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.689298,
+                        -19.112122
+                  ]
+            },
+            {
+                  "name": "Botanic Garden",
+                  "text": "In den hochgelegenen Vumba-Bergen gelegen, bietet diese Attraktion üppige Gärten mit Hochlandfarnen und Orchideen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.781377,
+                        -19.115889
+                  ]
+            },
+            {
+                  "name": "Start path to Chinamata Falls",
+                  "text": "Dieser schattige Startpunkt des Weges führt Wanderer durch dichten Bergwald zum Chinamata-Wasserfall.",
+                  "category": "landmark",
+                  "coords": [
+                        32.767879,
+                        -19.100917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyachowa Falls Entrance",
+                  "text": "Ez a Vumba-hegységben található kiindulópont jelzi a zuhatagos Nyachowa-vízeséshez vezető ösvény kezdetét.",
+                  "category": "landmark",
+                  "coords": [
+                        32.689298,
+                        -19.112122
+                  ]
+            },
+            {
+                  "name": "Botanic Garden",
+                  "text": "A magasan fekvő Vumba-hegységben található látványosság buja kertjeiben hegyvidéki páfrányok és orchideák pompáznak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.781377,
+                        -19.115889
+                  ]
+            },
+            {
+                  "name": "Start path to Chinamata Falls",
+                  "text": "Ez az árnyékos ösvény a sűrű hegyi erdőn keresztül vezeti a túrázókat a Chinamata-vízesés felé.",
+                  "category": "landmark",
+                  "coords": [
+                        32.767879,
+                        -19.100917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyachowa Falls Entrance",
+                  "text": "Acest început de traseu din Munții Vumba marchează începutul potecii care coboară spre cascadele Nyachowa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.689298,
+                        -19.112122
+                  ]
+            },
+            {
+                  "name": "Botanic Garden",
+                  "text": "Situată în Munții Vumba la înălțime, această atracție prezintă grădini luxuriante pline de ferigi de munte și orhidee.",
+                  "category": "landmark",
+                  "coords": [
+                        32.781377,
+                        -19.115889
+                  ]
+            },
+            {
+                  "name": "Start path to Chinamata Falls",
+                  "text": "Acest punct de plecare al traseului umbrit conduce excursioniștii prin pădurea deasă de munte spre cascada Chinamata.",
+                  "category": "landmark",
+                  "coords": [
+                        32.767879,
+                        -19.100917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyachowa Falls Entrance",
+                  "text": "This trailhead in the Vumba Mountains marks the start of the path leading down to the cascading Nyachowa Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        32.689298,
+                        -19.112122
+                  ]
+            },
+            {
+                  "name": "Botanic Garden",
+                  "text": "Situated in the elevated Vumba Mountains, this attraction features lush gardens filled with highland ferns and orchids.",
+                  "category": "landmark",
+                  "coords": [
+                        32.781377,
+                        -19.115889
+                  ]
+            },
+            {
+                  "name": "Start path to Chinamata Falls",
+                  "text": "This shaded trail starting point leads hikers through dense mountain forest toward the Chinamata waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        32.767879,
+                        -19.100917
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.7, -19.1],
@@ -771,7 +978,52 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     }
   },
   {
-    id: "mashonaland-plateau-relief-v2",
+    id: "mashonaland-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Rhodesian fort from Chimurenga 2",
+                  "text": "Die verfallenen Steinmauern dieses militärischen Außenpostens aus der Kolonialzeit stehen auf dem hügeligen Gelände des Mashonaland-Plateaus.",
+                  "category": "historical",
+                  "coords": [
+                        31.587317,
+                        -17.49543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Rhodesian fort from Chimurenga 2",
+                  "text": "Ennek a gyarmati korszakból származó katonai előőrsnek az omladozó kőfalai a Mashonaland-fennsík hullámzó terepén állnak.",
+                  "category": "historical",
+                  "coords": [
+                        31.587317,
+                        -17.49543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Rhodesian fort from Chimurenga 2",
+                  "text": "Zidurile de piatră fărâmicioase ale acestui avanpost militar din epoca colonială se află pe terenul vălurit al platoului Mashonaland.",
+                  "category": "historical",
+                  "coords": [
+                        31.587317,
+                        -17.49543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Rhodesian fort from Chimurenga 2",
+                  "text": "The crumbling stone walls of this colonial-era military outpost sit atop the rolling terrain of the Mashonaland plateau.",
+                  "category": "historical",
+                  "coords": [
+                        31.587317,
+                        -17.49543
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZW-MC",
     coords: [31.5, -17.5],
@@ -947,7 +1199,88 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     }
   },
   {
-    id: "nyanga-valley-relief-v2",
+    id: "nyanga-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "World's View",
+                  "text": "Dieser spektakuläre, hochgelegene Aussichtspunkt bietet weite Panoramablicke über die hügelige Landschaft des Nyanga-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        32.774458,
+                        -18.159204
+                  ]
+            },
+            {
+                  "name": "World's View Toposcope",
+                  "text": "An einem der höchsten zugänglichen Punkte gelegen, hilft dieses Toposkop den Besuchern, ferne Gipfel und Wahrzeichen im Nyanga-Tal zu identifizieren.",
+                  "category": "natural",
+                  "coords": [
+                        32.77438,
+                        -18.163787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "World's View",
+                  "text": "Ez a látványos, magasan fekvő kilátó hatalmas panorámát kínál a Nyanga-völgy lankás tájára.",
+                  "category": "natural",
+                  "coords": [
+                        32.774458,
+                        -18.159204
+                  ]
+            },
+            {
+                  "name": "World's View Toposcope",
+                  "text": "Az egyik legmagasabb megközelíthető ponton elhelyezkedő toposzkóp segít a látogatóknak azonosítani a Nyanga-völgy távoli csúcsait és nevezetességeit.",
+                  "category": "natural",
+                  "coords": [
+                        32.77438,
+                        -18.163787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "World's View",
+                  "text": "Acest punct de belvedere spectaculos și înalt oferă o panoramă vastă asupra peisajului ondulat al văii Nyanga.",
+                  "category": "natural",
+                  "coords": [
+                        32.774458,
+                        -18.159204
+                  ]
+            },
+            {
+                  "name": "World's View Toposcope",
+                  "text": "Situat în unul dintre cele mai înalte puncte accesibile, acest toposcop ajută vizitatorii să identifice vârfurile și reperele îndepărtate din valea Nyanga.",
+                  "category": "natural",
+                  "coords": [
+                        32.77438,
+                        -18.163787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "World's View",
+                  "text": "This spectacular elevated viewpoint offers vast panoramic vistas across the rolling landscape of the Nyanga valley.",
+                  "category": "natural",
+                  "coords": [
+                        32.774458,
+                        -18.159204
+                  ]
+            },
+            {
+                  "name": "World's View Toposcope",
+                  "text": "Positioned at one of the highest accessible points, this toposcope helps visitors identify distant peaks and landmarks across the Nyanga valley.",
+                  "category": "natural",
+                  "coords": [
+                        32.77438,
+                        -18.163787
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZW-MA",
     coords: [32.8, -18.2],
@@ -991,7 +1324,52 @@ export const poiExtraZimbabweReliefV2: POI[] = [
     }
   },
   {
-    id: "buzi-basin-relief-v2",
+    id: "buzi-basin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chimanimani new road",
+                  "text": "Die Chimanimani New Road bietet entlang der Buzi-Senke spektakuläre Aussichten auf die zerklüfteten Berglandschaften der Eastern Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        32.933612,
+                        -20.038251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chimanimani new road",
+                  "text": "A Buzi-medence mentén haladó Chimanimani New Road látványos kilátást nyújt a Keleti-felföld zord hegyi tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        32.933612,
+                        -20.038251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chimanimani new road",
+                  "text": "Noul drum Chimanimani de-a lungul bazinului Buzi oferă vederi spectaculoase asupra peisajelor montane accidentate din Eastern Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        32.933612,
+                        -20.038251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimanimani new road",
+                  "text": "The Chimanimani new road offers spectacular views along the Buzi basin looking towards the rugged mountain landscapes of the Eastern Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        32.933612,
+                        -20.038251
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZW-MA",
     coords: [33.0, -20.0],

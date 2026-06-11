@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthafricaCitiesV2: POI[] = [
   {
-    id: "southafrica-cape-town-cities-v2",
+    id: "southafrica-cape-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statue of Nelson Mandela",
+                  "text": "Die Statue von Nelson Mandela ist ein Denkmal zu Ehren des historischen Anti-Apartheid-Führers.",
+                  "category": "historical",
+                  "coords": [
+                        18.423929,
+                        -33.925232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue of Nelson Mandela",
+                  "text": "A Nelson Mandela szobor a történelmi apartheid-ellenes vezetőnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        18.423929,
+                        -33.925232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue of Nelson Mandela",
+                  "text": "Statuia lui Nelson Mandela este un monument dedicat liderului istoric anti-apartheid.",
+                  "category": "historical",
+                  "coords": [
+                        18.423929,
+                        -33.925232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue of Nelson Mandela",
+                  "text": "The Statue of Nelson Mandela stands as a monument honoring the historic anti-apartheid leader.",
+                  "category": "historical",
+                  "coords": [
+                        18.423929,
+                        -33.925232
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-WC",
     coords: [18.4232, -33.9249],
@@ -40,7 +85,592 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       en: ["Legislative capital of South Africa and Western Cape provincial capital.", "Established on April 6, 1652, as a VOC supply station.", "Table Mountain is over 260 million years old, older than the Andes.", "Robben Island was declared a UNESCO World Heritage Site in 1999.", "Kirstenbosch was founded in 1913 to preserve native fynbos flora.", "Dr. Christiaan Barnard performed the first heart transplant here in 1967.", "Cape Town is the most popular international tourist destination in Africa.", "The city experiences the 'South Easter' wind, known as the 'Cape Doctor'."],
     }, image: "/poi-images/southafrica-cape-town-cities-v2.webp"},
   {
-    id: "southafrica-pretoria-cities-v2",
+    id: "southafrica-pretoria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "South African State Theatre",
+                  "text": "Das South African State Theatre in Pretoria ist ein riesiger Komplex für darstellende Künste mit mehreren Bühnen, die Schauspiel-, Opern-, Ballett- und Musicalproduktionen gewidmet sind.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194666,
+                        -25.746776
+                  ]
+            },
+            {
+                  "name": "Old Synagogue",
+                  "text": "Die Alte Synagoge in Pretoria ist eine historische jüdische Kultstätte und ein architektonisches Wahrzeichen, das früher als Austragungsort für den berüchtigten Hochverratsprozess diente.",
+                  "category": "religious",
+                  "coords": [
+                        28.188164,
+                        -25.742615
+                  ]
+            },
+            {
+                  "name": "Church Square",
+                  "text": "Der Church Square in Pretoria ist das historische Zentrum der Stadt, umrahmt von imposanter Architektur aus dem späten 19. Jahrhundert und zentriert um eine markante Bronzestatue von Paul Kruger.",
+                  "category": "park",
+                  "coords": [
+                        28.188063,
+                        -25.746403
+                  ]
+            },
+            {
+                  "name": "Pretoria Zoo",
+                  "text": "Der weitläufige Zoo von Pretoria, offiziell der Nationale Zoologische Garten von Südafrika, beherbergt Tausende von Tieren und ein umfangreiches Aquariensystem.",
+                  "category": "recreational",
+                  "coords": [
+                        28.191193,
+                        -25.734788
+                  ]
+            },
+            {
+                  "name": "Liesl Meintjies",
+                  "text": "Die Attraktion Liesl Meintjies in Pretoria fungiert als spezialisiertes Museum, das einzigartige lokale Sammlungen und historische Artefakte bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        28.197652,
+                        -25.740851
+                  ]
+            },
+            {
+                  "name": "Women's Living Heritage Museum",
+                  "text": "Das Women's Living Heritage Museum in Pretoria ehrt die zentrale Rolle der südafrikanischen Frauen im Befreiungskampf und befindet sich an prominenter Stelle in der Nähe des Sammy Marks Square.",
+                  "category": "museum",
+                  "coords": [
+                        28.193715,
+                        -25.746683
+                  ]
+            },
+            {
+                  "name": "Scimtar horned oryx",
+                  "text": "Das Gehege der Säbelantilope in Pretoria zeigt diese elegante, hellhäutige Wüstenantilope, die sich hervorragend an trockene Umgebungen angepasst hat und durch ihre langen, gebogenen Hörner gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188161,
+                        -25.737568
+                  ]
+            },
+            {
+                  "name": "American Flamingos",
+                  "text": "Das Watbecken der Kubaflamingos in Pretoria zeigt diese ikonischen, leuchtend rosafarbenen Vögel, während sie im flachen Wasser ihre Nahrung filtern.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189249,
+                        -25.737632
+                  ]
+            },
+            {
+                  "name": "Ringtailed Lemur",
+                  "text": "Dieses Zoogehege in Pretoria beherbergt Kattas, die für ihre markanten schwarz-weiß gestreiften Schwänze bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18983,
+                        -25.73576
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx",
+                  "text": "In einem Zoo in Pretoria zeigt dieser Lebensraum die Arabische Oryxantilope, eine Wüstenantilope, die für ihre langen, geraden Hörner bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.190434,
+                        -25.733876
+                  ]
+            },
+            {
+                  "name": "Red River Hog",
+                  "text": "Diese Ausstellung in Pretoria zeigt Pinselohrschweine, Wildschweine aus Afrika, die sich durch ihr markantes rötliches Haar und ihre büscheligen Ohren auszeichnen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.191509,
+                        -25.733688
+                  ]
+            },
+            {
+                  "name": "Emus",
+                  "text": "Dieses Vogelgehege in Pretoria zeigt Emus, große, flugunfähige Vögel aus Australien, die für ihre Schnelligkeit und ihr zotteliges Gefieder bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189253,
+                        -25.733214
+                  ]
+            },
+            {
+                  "name": "Pygmy Hippos",
+                  "text": "Dieser halbaquatische Lebensraum in Pretoria zeigt Zwergflusspferde, einen zurückgezogen lebenden und kleineren Waldbewohner, der mit dem Flusspferd verwandt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188581,
+                        -25.73412
+                  ]
+            },
+            {
+                  "name": "Ducks and Geese",
+                  "text": "Ein ruhiger Teichbereich in diesem Wildpark in Pretoria beherbergt einen vielfältigen Schwarm von Gründelenten und schnatternden Gänsen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188576,
+                        -25.735035
+                  ]
+            },
+            {
+                  "name": "Rovos Rail",
+                  "text": "Der Rovos Rail Bahnhof in Pretoria ist der Ausgangspunkt für luxuriöse Oldtimer-Zugreisen durch das südliche Afrika in wunderschön restaurierten Holzwaggons.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18987,
+                        -25.718165
+                  ]
+            },
+            {
+                  "name": "American alligators",
+                  "text": "Eine sichere Wasseranlage in Pretoria hält amerikanische Alligatoren, sodass Besucher diese schwer gepanzerten Breitmaulreptilien aus sicherer Entfernung betrachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188159,
+                        -25.738699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "South African State Theatre",
+                  "text": "A pretoriai Dél-afrikai Állami Színház egy hatalmas előadóművészeti komplexum, amely számos színpaddal rendelkezik a dráma-, opera-, balett- és musicalprodukciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194666,
+                        -25.746776
+                  ]
+            },
+            {
+                  "name": "Old Synagogue",
+                  "text": "A pretoriai Régi Zsinagóga történelmi zsidó istentiszteleti hely és építészeti nevezetesség, amely korábban a hírhedt hazaárulási per helyszíneként szolgált.",
+                  "category": "religious",
+                  "coords": [
+                        28.188164,
+                        -25.742615
+                  ]
+            },
+            {
+                  "name": "Church Square",
+                  "text": "A pretoriai Church Square a város történelmi központja, amelyet impozáns, 19. század végi épületek vesznek körül, középpontjában pedig Paul Kruger kiemelkedő bronzszobra áll.",
+                  "category": "park",
+                  "coords": [
+                        28.188063,
+                        -25.746403
+                  ]
+            },
+            {
+                  "name": "Pretoria Zoo",
+                  "text": "A hivatalosan Dél-afrikai Nemzeti Állatkertnek nevezett kiterjedt pretoriai állatkert több ezer állatnak és egy kiterjedt akváriumrendszernek ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        28.191193,
+                        -25.734788
+                  ]
+            },
+            {
+                  "name": "Liesl Meintjies",
+                  "text": "A pretoriai Liesl Meintjies látványosság egy speciális múzeumként működik, amely egyedi helyi gyűjteményeket és történelmi tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        28.197652,
+                        -25.740851
+                  ]
+            },
+            {
+                  "name": "Women's Living Heritage Museum",
+                  "text": "A pretoriai Women's Living Heritage Museum a dél-afrikai nők felszabadítási küzdelemben betöltött kulcsfontosságú szerepe előtt tiszteleg, a Sammy Marks Square közelében.",
+                  "category": "museum",
+                  "coords": [
+                        28.193715,
+                        -25.746683
+                  ]
+            },
+            {
+                  "name": "Scimtar horned oryx",
+                  "text": "A pretoriai kardszarvú antilop kiállítás ezt az elegáns, világos szőrű sivatagi antilopot mutatja be, amely egyedülállóan alkalmazkodott a száraz környezethez, és hosszú, ívelt szarvairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188161,
+                        -25.737568
+                  ]
+            },
+            {
+                  "name": "American Flamingos",
+                  "text": "A pretoriai amerikai flamingók gázlómedencéje megmutatja ezeket az ikonikus, élénk rózsaszín tollú madarakat, amint a sekély vízben szűrögetve táplálkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189249,
+                        -25.737632
+                  ]
+            },
+            {
+                  "name": "Ringtailed Lemur",
+                  "text": "Ez a pretoriai állatkerti kifutó a jellegzetes fekete-fehér csíkos farkukról ismert gyűrűsfarkú makiknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18983,
+                        -25.73576
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx",
+                  "text": "A pretoriai állatkertben található élőhely az arab bejzát mutatja be, amely egy hosszú, egyenes szarváról ismert sivatagi antilop.",
+                  "category": "landmark",
+                  "coords": [
+                        28.190434,
+                        -25.733876
+                  ]
+            },
+            {
+                  "name": "Red River Hog",
+                  "text": "Ez a pretoriai bemutató a bojtosfülű disznókat mutatja be, amelyek vöröses szőrükről és bojtos fülükről ismert afrikai vadkocák.",
+                  "category": "landmark",
+                  "coords": [
+                        28.191509,
+                        -25.733688
+                  ]
+            },
+            {
+                  "name": "Emus",
+                  "text": "Ez a pretoriai madárkifutó emukat mutat be, amelyek Ausztráliában őshonos nagy, röpképtelen madarak, és gyorsaságukról és bozontos tollazatukról ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189253,
+                        -25.733214
+                  ]
+            },
+            {
+                  "name": "Pygmy Hippos",
+                  "text": "Ez a pretoriai félig vízi élőhely a törpevízilovakat mutatja be, amelyek a közönséges víziló visszahúzódó és kisebb, erdőlakó rokonai.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188581,
+                        -25.73412
+                  ]
+            },
+            {
+                  "name": "Ducks and Geese",
+                  "text": "Ennek a pretoriai vadasparknak egy békés taván a hápogó kacsák és gágogó libák változatos csapata él.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188576,
+                        -25.735035
+                  ]
+            },
+            {
+                  "name": "Rovos Rail",
+                  "text": "A pretoriai Rovos Rail állomás a Dél-Afrikán átívelő, gyönyörűen felújított fakocsikkal közlekedő, luxus nosztalgiavonatok indulási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18987,
+                        -25.718165
+                  ]
+            },
+            {
+                  "name": "American alligators",
+                  "text": "Egy biztonságos pretoriai vízi létesítmény amerikai aligátoroknak ad otthont, így a látogatók tisztes távolságból figyelhetik meg ezeket a páncélos, széles orrú hüllőket.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188159,
+                        -25.738699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "South African State Theatre",
+                  "text": "Teatrul de Stat din Africa de Sud din Pretoria este un complex masiv de artele spectacolului, cu mai multe scene dedicate producțiilor de dramă, operă, balet și musicaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194666,
+                        -25.746776
+                  ]
+            },
+            {
+                  "name": "Old Synagogue",
+                  "text": "Vechea Sinagogă din Pretoria este un lăcaș de cult evreiesc istoric și un reper arhitectural care a funcționat anterior ca loc de desfășurare a infamului Proces de Trădare.",
+                  "category": "religious",
+                  "coords": [
+                        28.188164,
+                        -25.742615
+                  ]
+            },
+            {
+                  "name": "Church Square",
+                  "text": "Church Square din Pretoria este centrul istoric al orașului, încadrat de o arhitectură impunătoare de la sfârșitul secolului al XIX-lea și centrat în jurul unei proeminente statui de bronz a lui Paul Kruger.",
+                  "category": "park",
+                  "coords": [
+                        28.188063,
+                        -25.746403
+                  ]
+            },
+            {
+                  "name": "Pretoria Zoo",
+                  "text": "Oficial Grădina Zoologică Națională a Africii de Sud, întinsa Grădină Zoologică din Pretoria găzduiește mii de animale și un sistem extins de acvarii.",
+                  "category": "recreational",
+                  "coords": [
+                        28.191193,
+                        -25.734788
+                  ]
+            },
+            {
+                  "name": "Liesl Meintjies",
+                  "text": "Atracția Liesl Meintjies din Pretoria funcționează ca un muzeu specializat care păstrează colecții locale unice și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        28.197652,
+                        -25.740851
+                  ]
+            },
+            {
+                  "name": "Women's Living Heritage Museum",
+                  "text": "Muzeul Patrimoniului Viu al Femeilor din Pretoria onorează rolul esențial al femeilor sud-africane în lupta de eliberare, fiind situat în mod proeminent lângă Sammy Marks Square.",
+                  "category": "museum",
+                  "coords": [
+                        28.193715,
+                        -25.746683
+                  ]
+            },
+            {
+                  "name": "Scimtar horned oryx",
+                  "text": "Expoziția de oryx cu coarne sabie din Pretoria prezintă această antilopă de deșert elegantă, cu blană deschisă la culoare, care este adaptată în mod unic la medii aride și caracterizată prin coarnele sale lungi și curbate.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188161,
+                        -25.737568
+                  ]
+            },
+            {
+                  "name": "American Flamingos",
+                  "text": "Bazinul de apă mică al flamingo-urilor americane din Pretoria prezintă aceste păsări iconice, cu pene de un roz strălucitor, în timp ce se hrănesc prin filtrare în apele puțin adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189249,
+                        -25.737632
+                  ]
+            },
+            {
+                  "name": "Ringtailed Lemur",
+                  "text": "Acest adăpost din grădina zoologică din Pretoria găzduiește lemuri cu coadă inelată, cunoscuți pentru cozile lor dungate în alb și negru.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18983,
+                        -25.73576
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx",
+                  "text": "Situat într-o grădină zoologică din Pretoria, acest habitat expune orixul arab, o antilopă de deșert cunoscută pentru coarnele sale lungi și drepte.",
+                  "category": "landmark",
+                  "coords": [
+                        28.190434,
+                        -25.733876
+                  ]
+            },
+            {
+                  "name": "Red River Hog",
+                  "text": "Această expoziție din Pretoria prezintă porcii roșii de râu, porci sălbatici din Africa, caracterizați prin părul lor roșiatic și urechile cu smocuri.",
+                  "category": "landmark",
+                  "coords": [
+                        28.191509,
+                        -25.733688
+                  ]
+            },
+            {
+                  "name": "Emus",
+                  "text": "Acest adăpost de păsări din Pretoria prezintă emu, păsări mari nezburătoare originare din Australia, cunoscute pentru viteza și penajul lor stufos.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189253,
+                        -25.733214
+                  ]
+            },
+            {
+                  "name": "Pygmy Hippos",
+                  "text": "Acest habitat semi-acvatic din Pretoria prezintă hipopotami pitici, un văr mai retras și mai mic al hipopotamului comun, adaptat la viața în pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188581,
+                        -25.73412
+                  ]
+            },
+            {
+                  "name": "Ducks and Geese",
+                  "text": "Un iaz liniștit din acest parc zoologic din Pretoria găzduiește un stol divers de rațe și gâște zgomotoase.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188576,
+                        -25.735035
+                  ]
+            },
+            {
+                  "name": "Rovos Rail",
+                  "text": "Gara Rovos Rail din Pretoria este punctul de plecare pentru călătorii luxoase cu trenuri de epocă prin Africa de Sud, oferind vagoane din lemn frumos restaurate.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18987,
+                        -25.718165
+                  ]
+            },
+            {
+                  "name": "American alligators",
+                  "text": "O facilitate acvatică securizată din Pretoria deține aligatori americani, permițând vizitatorilor să vadă de la o distanță sigură aceste reptile puternic blindate.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188159,
+                        -25.738699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "South African State Theatre",
+                  "text": "The South African State Theatre in Pretoria is a massive performing arts complex featuring multiple stages dedicated to drama, opera, ballet, and musical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194666,
+                        -25.746776
+                  ]
+            },
+            {
+                  "name": "Old Synagogue",
+                  "text": "The Old Synagogue in Pretoria is a historic Jewish place of worship and architectural landmark that previously functioned as the venue for the infamous Treason Trial.",
+                  "category": "religious",
+                  "coords": [
+                        28.188164,
+                        -25.742615
+                  ]
+            },
+            {
+                  "name": "Church Square",
+                  "text": "Church Square in Pretoria is the historic center of the city, framed by imposing late 19th-century architecture and centered around a prominent bronze statue of Paul Kruger.",
+                  "category": "park",
+                  "coords": [
+                        28.188063,
+                        -25.746403
+                  ]
+            },
+            {
+                  "name": "Pretoria Zoo",
+                  "text": "Officially the National Zoological Garden of South Africa, the sprawling Pretoria Zoo is home to thousands of animals and an extensive aquarium system.",
+                  "category": "recreational",
+                  "coords": [
+                        28.191193,
+                        -25.734788
+                  ]
+            },
+            {
+                  "name": "Liesl Meintjies",
+                  "text": "The Liesl Meintjies attraction in Pretoria operates as a specialized museum preserving unique local collections and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        28.197652,
+                        -25.740851
+                  ]
+            },
+            {
+                  "name": "Women's Living Heritage Museum",
+                  "text": "The Women's Living Heritage Museum in Pretoria honors the pivotal role of South African women in the liberation struggle, situated prominently near Sammy Marks Square.",
+                  "category": "museum",
+                  "coords": [
+                        28.193715,
+                        -25.746683
+                  ]
+            },
+            {
+                  "name": "Scimtar horned oryx",
+                  "text": "The scimitar-horned oryx exhibit in Pretoria showcases this elegant, pale-coated desert antelope that is uniquely adapted to arid environments and characterized by its long, curved horns.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188161,
+                        -25.737568
+                  ]
+            },
+            {
+                  "name": "American Flamingos",
+                  "text": "The American flamingos wading pool in Pretoria displays these iconic, brightly pink-feathered birds as they filter-feed in the shallow waters.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189249,
+                        -25.737632
+                  ]
+            },
+            {
+                  "name": "Ringtailed Lemur",
+                  "text": "This zoo enclosure in Pretoria features ring-tailed lemurs, known for their striking black-and-white striped tails.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18983,
+                        -25.73576
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx",
+                  "text": "Located within a Pretoria zoo, this habitat displays the Arabian oryx, a desert antelope known for its long, straight horns.",
+                  "category": "landmark",
+                  "coords": [
+                        28.190434,
+                        -25.733876
+                  ]
+            },
+            {
+                  "name": "Red River Hog",
+                  "text": "This Pretoria exhibit features red river hogs, wild pigs from Africa characterized by their striking reddish hair and tufted ears.",
+                  "category": "landmark",
+                  "coords": [
+                        28.191509,
+                        -25.733688
+                  ]
+            },
+            {
+                  "name": "Emus",
+                  "text": "This aviary enclosure in Pretoria features emus, large flightless birds native to Australia known for their speed and shaggy plumage.",
+                  "category": "landmark",
+                  "coords": [
+                        28.189253,
+                        -25.733214
+                  ]
+            },
+            {
+                  "name": "Pygmy Hippos",
+                  "text": "This semi-aquatic habitat in Pretoria features pygmy hippos, a reclusive and smaller forest-dwelling cousin of the common hippopotamus.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188581,
+                        -25.73412
+                  ]
+            },
+            {
+                  "name": "Ducks and Geese",
+                  "text": "A tranquil pond area within this Pretoria wildlife park is home to a diverse flock of dabbling ducks and honking geese.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188576,
+                        -25.735035
+                  ]
+            },
+            {
+                  "name": "Rovos Rail",
+                  "text": "The Rovos Rail station in Pretoria is the departure point for luxurious vintage train journeys across Southern Africa, featuring beautifully restored wooden carriages.",
+                  "category": "landmark",
+                  "coords": [
+                        28.18987,
+                        -25.718165
+                  ]
+            },
+            {
+                  "name": "American alligators",
+                  "text": "A secure aquatic facility in Pretoria holds American alligators, allowing visitors to view these heavily armored, broad-snouted reptiles from a safe distance.",
+                  "category": "landmark",
+                  "coords": [
+                        28.188159,
+                        -25.738699
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-GT",
     coords: [28.1881, -25.7461],
@@ -77,7 +707,592 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       en: ["Administrative capital of the Republic of South Africa.", "Established in 1855 as the capital of the South African Republic.", "Famous for the blooming of 70,000 Jacaranda trees annually.", "Seat of the South African Presidency at the Union Buildings.", "Home to the University of Pretoria, a leading research institution.", "Hosts the second largest number of embassies in the world.", "The city’s Voortrekker Monument is a National Heritage Site.", "Located at an altitude of approximately 4,393 feet."],
     }, image: "/poi-images/southafrica-pretoria-cities-v2.webp"},
   {
-    id: "southafrica-bloemfontein-cities-v2",
+    id: "southafrica-bloemfontein-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Womans Memorial",
+                  "text": "Ein hoch aufragender Sandsteinobelisk, der an die burischen Frauen und Kinder erinnert, die während des Südafrikanischen Krieges in Konzentrationslagern starben.",
+                  "category": "historical",
+                  "coords": [
+                        26.208357,
+                        -29.141603
+                  ]
+            },
+            {
+                  "name": "Bram Fischer Museum",
+                  "text": "Dieses städtische Museum widmet sich der Bewahrung des Erbes und der persönlichen Geschichte des bekannten Anti-Apartheid-Anwalts Bram Fischer.",
+                  "category": "museum",
+                  "coords": [
+                        26.21257,
+                        -29.108381
+                  ]
+            },
+            {
+                  "name": "Sesotho Literature Museum (Dingolweng)",
+                  "text": "Das Museum archiviert und zelebriert das reiche Erbe der literarischen Werke und frühen Manuskripte in Sesotho.",
+                  "category": "museum",
+                  "coords": [
+                        26.216012,
+                        -29.116597
+                  ]
+            },
+            {
+                  "name": "First Raadsaal Museum",
+                  "text": "Dieses Einraummuseum ist im ältesten erhaltenen Gebäude Bloemfonteins untergebracht und zeigt die frühe politische Geschichte des Freistaats.",
+                  "category": "museum",
+                  "coords": [
+                        26.216538,
+                        -29.120487
+                  ]
+            },
+            {
+                  "name": "Polmed",
+                  "text": "Dieses moderne städtische Gebäude beherbergt die Einrichtungen einer medizinischen Kasse im Geschäftsviertel der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.221499,
+                        -29.116588
+                  ]
+            },
+            {
+                  "name": "Lwazi",
+                  "text": "Eine markante moderne städtische Attraktion, die der umliegenden Gemeindelandschaft architektonisches Interesse verleiht.",
+                  "category": "landmark",
+                  "coords": [
+                        26.219665,
+                        -29.107655
+                  ]
+            },
+            {
+                  "name": "Art museum",
+                  "text": "Ein klassischer städtischer Galerieraum, der eine vielfältige Sammlung regionaler Gemälde und Skulpturen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.219946,
+                        -29.098847
+                  ]
+            },
+            {
+                  "name": "The Yard Bloemfontein",
+                  "text": "Ein lebendiges Kunst- und Lifestyle-Zentrum mit offenen Innenhöfen für lokale Boutiquen und kreative Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        26.204994,
+                        -29.1027
+                  ]
+            },
+            {
+                  "name": "Bloemfontein Toy Museum",
+                  "text": "In diesem nostalgischen Indoor-Museum können Besucher umfangreiche Ausstellungen von Oldtimer-Spielzeug und Modelleisenbahnen erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        26.213703,
+                        -29.091086
+                  ]
+            },
+            {
+                  "name": "Reizis Square",
+                  "text": "Diese belebte kommerzielle Attraktion vereint Boutiquen und Außengastronomie an einem modernisierten städtischen Platz.",
+                  "category": "landmark",
+                  "coords": [
+                        26.24618,
+                        -29.095624
+                  ]
+            },
+            {
+                  "name": "7 Dams Conservancy",
+                  "text": "Ein geschütztes Naturschutzgebiet, das von Wanderwegen durchzogen ist, die um mehrere markante Wasserreservoirs führen.",
+                  "category": "natural",
+                  "coords": [
+                        26.218176,
+                        -29.06676
+                  ]
+            },
+            {
+                  "name": "White Horse",
+                  "text": "Ein markantes Pferdedenkmal aus bemalten weißen Steinen, die über den Hang des Naval Hill verteilt sind.",
+                  "category": "historical",
+                  "coords": [
+                        26.238888,
+                        -29.100442
+                  ]
+            },
+            {
+                  "name": "Wynand Mouton-Teater",
+                  "text": "Ein etabliertes Universitätstheater mit einem steilen Zuschauerraum für studentische und professionelle Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.185999,
+                        -29.108432
+                  ]
+            },
+            {
+                  "name": "Franklin Game Reserve",
+                  "text": "Einzigartig durch seine zentrale Lage, beherbergt dieses städtische Naturschutzgebiet auf dem Naval Hill frei herumlaufende Giraffen und Antilopen.",
+                  "category": "natural",
+                  "coords": [
+                        26.232796,
+                        -29.100128
+                  ]
+            },
+            {
+                  "name": "Free State National Botanical Garden",
+                  "text": "Dieser weitläufige botanische Garten präsentiert die einheimische Flora des trockenen Klimas und die markanten Dolerit-Hügel des Freistaats.",
+                  "category": "park",
+                  "coords": [
+                        26.213126,
+                        -29.050886
+                  ]
+            },
+            {
+                  "name": "St Andrew and St Michael",
+                  "text": "Diese am 30. November 1866 gegründete historische Kathedrale besticht durch traditionelles Mauerwerk und hohe Buntglasfenster.",
+                  "category": "religious",
+                  "coords": [
+                        26.219411,
+                        -29.121085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Womans Memorial",
+                  "text": "Egy tornyosuló homokkő obeliszk, amely a dél-afrikai háború alatt koncentrációs táborokban elhunyt búr nőknek és gyermekeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        26.208357,
+                        -29.141603
+                  ]
+            },
+            {
+                  "name": "Bram Fischer Museum",
+                  "text": "Ez a városi múzeum a neves apartheidellenes ügyvéd, Bram Fischer örökségének és személyes történetének megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        26.21257,
+                        -29.108381
+                  ]
+            },
+            {
+                  "name": "Sesotho Literature Museum (Dingolweng)",
+                  "text": "A múzeum a sesotho irodalmi művek és korai kéziratok gazdag örökségét archiválja és ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        26.216012,
+                        -29.116597
+                  ]
+            },
+            {
+                  "name": "First Raadsaal Museum",
+                  "text": "A Bloemfontein legrégebbi fennmaradt épületében található egytermes múzeum Szabadállam korai politikai történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.216538,
+                        -29.120487
+                  ]
+            },
+            {
+                  "name": "Polmed",
+                  "text": "Ez a modern városi épület egészségbiztosítási létesítményeknek ad otthont a város üzleti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.221499,
+                        -29.116588
+                  ]
+            },
+            {
+                  "name": "Lwazi",
+                  "text": "Egy jellegzetes, modern városi látványosság, amely építészeti érdekességgel gazdagítja a környező önkormányzati tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        26.219665,
+                        -29.107655
+                  ]
+            },
+            {
+                  "name": "Art museum",
+                  "text": "Klasszikus városi galériatér, amely regionális festmények és szobrok változatos gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        26.219946,
+                        -29.098847
+                  ]
+            },
+            {
+                  "name": "The Yard Bloemfontein",
+                  "text": "Élénk művészeti és életmódközpont nyitott udvari terekkel a helyi butikok és kreatív műhelyek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        26.204994,
+                        -29.1027
+                  ]
+            },
+            {
+                  "name": "Bloemfontein Toy Museum",
+                  "text": "A látogatók a klasszikus játékok és modellvonatok kiterjedt kiállításait fedezhetik fel ebben a nosztalgikus fedett múzeumban.",
+                  "category": "museum",
+                  "coords": [
+                        26.213703,
+                        -29.091086
+                  ]
+            },
+            {
+                  "name": "Reizis Square",
+                  "text": "Ez a nyüzsgő kereskedelmi látványosság butikokat és szabadtéri éttermeket ötvöz egy modernizált városi téren.",
+                  "category": "landmark",
+                  "coords": [
+                        26.24618,
+                        -29.095624
+                  ]
+            },
+            {
+                  "name": "7 Dams Conservancy",
+                  "text": "Védett természetvédelmi terület, amelyet számos különböző víztározót megkerülő túraútvonalak szelnek át.",
+                  "category": "natural",
+                  "coords": [
+                        26.218176,
+                        -29.06676
+                  ]
+            },
+            {
+                  "name": "White Horse",
+                  "text": "Egy feltűnő lovas emlékmű, amelyet a Naval Hill hegyoldalán elszórtan elhelyezett, fehérre festett kövekből hoztak létre.",
+                  "category": "historical",
+                  "coords": [
+                        26.238888,
+                        -29.100442
+                  ]
+            },
+            {
+                  "name": "Wynand Mouton-Teater",
+                  "text": "Egy jól bejáratott egyetemi színház, amely meredek nézőtérrel rendelkezik diákok és profik drámai előadásaihoz.",
+                  "category": "cultural",
+                  "coords": [
+                        26.185999,
+                        -29.108432
+                  ]
+            },
+            {
+                  "name": "Franklin Game Reserve",
+                  "text": "A központi elhelyezkedése miatt egyedülálló, a Naval Hillen található városi természetvédelmi terület szabadon kószáló zsiráfoknak és antilopoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        26.232796,
+                        -29.100128
+                  ]
+            },
+            {
+                  "name": "Free State National Botanical Garden",
+                  "text": "Ez a kiterjedt botanikus kert Szabadállam őshonos, száraz éghajlatú flóráját és feltűnő dolerit sziklaképződményeit mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        26.213126,
+                        -29.050886
+                  ]
+            },
+            {
+                  "name": "St Andrew and St Michael",
+                  "text": "Az 1866. november 30-án alapított történelmi katedrális hagyományos kőfaragással és magasba nyúló ólomüveg ablakokkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        26.219411,
+                        -29.121085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Womans Memorial",
+                  "text": "Un obelisc impunător de gresie care comemorează femeile și copiii buri care au murit în lagărele de concentrare în timpul Războiului Sud-African.",
+                  "category": "historical",
+                  "coords": [
+                        26.208357,
+                        -29.141603
+                  ]
+            },
+            {
+                  "name": "Bram Fischer Museum",
+                  "text": "Acest muzeu urban este dedicat conservării moștenirii și istoriei personale a remarcabilului avocat anti-apartheid Bram Fischer.",
+                  "category": "museum",
+                  "coords": [
+                        26.21257,
+                        -29.108381
+                  ]
+            },
+            {
+                  "name": "Sesotho Literature Museum (Dingolweng)",
+                  "text": "Muzeul arhivează și celebrează bogata moștenire a operelor literare și a manuscriselor timpurii în limba sesotho.",
+                  "category": "museum",
+                  "coords": [
+                        26.216012,
+                        -29.116597
+                  ]
+            },
+            {
+                  "name": "First Raadsaal Museum",
+                  "text": "Găzduit în cea mai veche clădire rămasă din Bloemfontein, acest muzeu cu o singură cameră prezintă istoria politică timpurie a Statului Liber.",
+                  "category": "museum",
+                  "coords": [
+                        26.216538,
+                        -29.120487
+                  ]
+            },
+            {
+                  "name": "Polmed",
+                  "text": "Această clădire urbană modernă găzduiește sediul unei case de asigurări medicale în districtul comercial al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        26.221499,
+                        -29.116588
+                  ]
+            },
+            {
+                  "name": "Lwazi",
+                  "text": "O atracție urbană modernă distinctivă care adaugă un interes arhitectural peisajului municipal înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        26.219665,
+                        -29.107655
+                  ]
+            },
+            {
+                  "name": "Art museum",
+                  "text": "Un spațiu clasic de galerie urbană care expune o colecție diversă de picturi și sculpturi regionale.",
+                  "category": "museum",
+                  "coords": [
+                        26.219946,
+                        -29.098847
+                  ]
+            },
+            {
+                  "name": "The Yard Bloemfontein",
+                  "text": "Un centru vibrant de artă și stil de viață care include spații deschise în curte pentru buticuri locale și ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        26.204994,
+                        -29.1027
+                  ]
+            },
+            {
+                  "name": "Bloemfontein Toy Museum",
+                  "text": "Vizitatorii pot explora expoziții ample de jucării de epocă și trenulețe în miniatură în acest muzeu interior nostalgic.",
+                  "category": "museum",
+                  "coords": [
+                        26.213703,
+                        -29.091086
+                  ]
+            },
+            {
+                  "name": "Reizis Square",
+                  "text": "Această atracție comercială plină de viață combină magazine tip boutique și restaurante în aer liber într-o piață urbană modernizată.",
+                  "category": "landmark",
+                  "coords": [
+                        26.24618,
+                        -29.095624
+                  ]
+            },
+            {
+                  "name": "7 Dams Conservancy",
+                  "text": "O rezervație naturală protejată, străbătută de trasee de drumeție care ocolesc mai multe rezervoare distincte de apă.",
+                  "category": "natural",
+                  "coords": [
+                        26.218176,
+                        -29.06676
+                  ]
+            },
+            {
+                  "name": "White Horse",
+                  "text": "Un monument ecvestru impresionant, creat din pietre albe vopsite, răspândite pe versantul dealului Naval Hill.",
+                  "category": "historical",
+                  "coords": [
+                        26.238888,
+                        -29.100442
+                  ]
+            },
+            {
+                  "name": "Wynand Mouton-Teater",
+                  "text": "O locație teatrală universitară consacrată, cu o sală cu gradene abrupte pentru spectacole dramatice studențești și profesionale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.185999,
+                        -29.108432
+                  ]
+            },
+            {
+                  "name": "Franklin Game Reserve",
+                  "text": "Unică prin locația sa centrală, această rezervație naturală urbană de pe Naval Hill adăpostește girafe și antilope care se plimbă libere.",
+                  "category": "natural",
+                  "coords": [
+                        26.232796,
+                        -29.100128
+                  ]
+            },
+            {
+                  "name": "Free State National Botanical Garden",
+                  "text": "Această vastă grădină botanică prezintă flora autohtonă adaptată la climă uscată și formațiunile stâncoase impresionante de dolerit din Statul Liber.",
+                  "category": "park",
+                  "coords": [
+                        26.213126,
+                        -29.050886
+                  ]
+            },
+            {
+                  "name": "St Andrew and St Michael",
+                  "text": "Înființată pe 30 noiembrie 1866, această catedrală istorică se remarcă prin zidăria tradițională și ferestrele înalte cu vitralii.",
+                  "category": "religious",
+                  "coords": [
+                        26.219411,
+                        -29.121085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Womans Memorial",
+                  "text": "A towering sandstone obelisk commemorating the Boer women and children who died in concentration camps during the South African War.",
+                  "category": "historical",
+                  "coords": [
+                        26.208357,
+                        -29.141603
+                  ]
+            },
+            {
+                  "name": "Bram Fischer Museum",
+                  "text": "This urban museum is dedicated to preserving the legacy and personal history of the notable anti-apartheid lawyer Bram Fischer.",
+                  "category": "museum",
+                  "coords": [
+                        26.21257,
+                        -29.108381
+                  ]
+            },
+            {
+                  "name": "Sesotho Literature Museum (Dingolweng)",
+                  "text": "The museum archives and celebrates the rich heritage of Sesotho literary works and early manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        26.216012,
+                        -29.116597
+                  ]
+            },
+            {
+                  "name": "First Raadsaal Museum",
+                  "text": "Housed in Bloemfontein's oldest remaining building, this single-room museum showcases the early political history of the Free State.",
+                  "category": "museum",
+                  "coords": [
+                        26.216538,
+                        -29.120487
+                  ]
+            },
+            {
+                  "name": "Polmed",
+                  "text": "This modern urban building houses medical scheme facilities within the city's commercial district.",
+                  "category": "landmark",
+                  "coords": [
+                        26.221499,
+                        -29.116588
+                  ]
+            },
+            {
+                  "name": "Lwazi",
+                  "text": "A distinctive modern urban attraction adding architectural interest to the surrounding municipal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        26.219665,
+                        -29.107655
+                  ]
+            },
+            {
+                  "name": "Art museum",
+                  "text": "A classic urban gallery space exhibiting a diverse collection of regional paintings and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        26.219946,
+                        -29.098847
+                  ]
+            },
+            {
+                  "name": "The Yard Bloemfontein",
+                  "text": "A vibrant arts and lifestyle centre featuring open courtyard spaces for local boutiques and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        26.204994,
+                        -29.1027
+                  ]
+            },
+            {
+                  "name": "Bloemfontein Toy Museum",
+                  "text": "Visitors can explore extensive displays of vintage toys and model trains in this nostalgic indoor museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.213703,
+                        -29.091086
+                  ]
+            },
+            {
+                  "name": "Reizis Square",
+                  "text": "This bustling commercial attraction combines boutique shops and outdoor dining in a modernized urban square.",
+                  "category": "landmark",
+                  "coords": [
+                        26.24618,
+                        -29.095624
+                  ]
+            },
+            {
+                  "name": "7 Dams Conservancy",
+                  "text": "A protected nature reserve crisscrossed by hiking trails that navigate around several distinct water reservoirs.",
+                  "category": "natural",
+                  "coords": [
+                        26.218176,
+                        -29.06676
+                  ]
+            },
+            {
+                  "name": "White Horse",
+                  "text": "A striking equine monument created from painted white stones spread across the hillside of Naval Hill.",
+                  "category": "historical",
+                  "coords": [
+                        26.238888,
+                        -29.100442
+                  ]
+            },
+            {
+                  "name": "Wynand Mouton-Teater",
+                  "text": "An established university theatre venue featuring a steep auditorium for student and professional dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        26.185999,
+                        -29.108432
+                  ]
+            },
+            {
+                  "name": "Franklin Game Reserve",
+                  "text": "Unique for its central location, this urban nature reserve on Naval Hill houses free-roaming giraffes and antelopes.",
+                  "category": "natural",
+                  "coords": [
+                        26.232796,
+                        -29.100128
+                  ]
+            },
+            {
+                  "name": "Free State National Botanical Garden",
+                  "text": "This sprawling botanical garden showcases the indigenous dry-climate flora and striking dolerite koppies of the Free State.",
+                  "category": "park",
+                  "coords": [
+                        26.213126,
+                        -29.050886
+                  ]
+            },
+            {
+                  "name": "St Andrew and St Michael",
+                  "text": "Established on 30 November 1866, this historic cathedral features traditional stonework and soaring stained-glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        26.219411,
+                        -29.121085
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-FS",
     coords: [26.216, -29.1141],
@@ -1738,7 +2953,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grey Street Mosque",
-                  "text": "Die Grey Street Mosque ist eine bekannte Kultstätte in Durban.",
+                  "text": "Grey-Street-Moschee in Durban, erbaut 1930.",
                   "category": "religious",
                   "coords": [
                         31.016704,
@@ -1983,7 +3198,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grey Street Mosque",
-                  "text": "A Grey Street Mosque egy híres mecset Durban városában.",
+                  "text": "Grey Street-i mecset Durbanban, 1930-ban épült.",
                   "category": "religious",
                   "coords": [
                         31.016704,
@@ -2228,7 +3443,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grey Street Mosque",
-                  "text": "Grey Street Mosque este un lăcaș de cult remarcabil în Durban.",
+                  "text": "Moscheea Grey Street din Durban, construită în 1930.",
                   "category": "religious",
                   "coords": [
                         31.016704,
@@ -2473,7 +3688,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grey Street Mosque",
-                  "text": "The Grey Street Mosque is a well-known place of worship located in Durban.",
+                  "text": "Grey Street Mosque in Durban, built in 1930.",
                   "category": "religious",
                   "coords": [
                         31.016704,
@@ -2547,7 +3762,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Donkin Hill Lighthouse",
-                  "text": "Donkin Hill Lighthouse ist ein bekannter Leuchtturm in Gqeberha.",
+                  "text": "Donkin-Hill-Leuchtturm in Gqeberha, fertiggestellt im Juni 1861.",
                   "category": "landmark",
                   "coords": [
                         25.620615,
@@ -2738,7 +3953,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Donkin Hill Lighthouse",
-                  "text": "A Donkin Hill Lighthouse egy figyelemre méltó világítótorony Gqeberha városában.",
+                  "text": "Donkin Hill világítótorony Gqeberhában, 1861 júniusában készült el.",
                   "category": "landmark",
                   "coords": [
                         25.620615,
@@ -2929,7 +4144,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Donkin Hill Lighthouse",
-                  "text": "Donkin Hill Lighthouse este un far notabil situat în Gqeberha.",
+                  "text": "Farul Donkin Hill din Gqeberha, finalizat în iunie 1861.",
                   "category": "landmark",
                   "coords": [
                         25.620615,
@@ -3120,7 +4335,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Donkin Hill Lighthouse",
-                  "text": "Donkin Hill Lighthouse is a notable lighthouse located in Gqeberha.",
+                  "text": "Donkin Hill Lighthouse in Gqeberha, completed in June 1861.",
                   "category": "landmark",
                   "coords": [
                         25.620615,
@@ -3747,7 +4962,196 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-polokwane-cities-v2",
+    id: "southafrica-polokwane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pietersburg Wildreservaat",
+                  "text": "Dieses Naturschutzgebiet neben Polokwane bietet malerische Wanderwege durch geschützte, trockene Buschveld-Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        29.475,
+                        -23.961111
+                  ]
+            },
+            {
+                  "name": "Polokwane Art Museum",
+                  "text": "Dieses städtische Kunstmuseum in Polokwane beherbergt eine umfangreiche Sammlung zeitgenössischer südafrikanischer Gemälde und Skulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        29.453462,
+                        -23.907494
+                  ]
+            },
+            {
+                  "name": "Christ Church Cathedral",
+                  "text": "Diese anglikanische Kathedrale in Polokwane zeichnet sich durch eine traditionelle Ziegelfassade und wunderschöne Buntglasfenster aus.",
+                  "category": "religious",
+                  "coords": [
+                        29.455607,
+                        -23.904249
+                  ]
+            },
+            {
+                  "name": "Openair Snakepark Polokwane",
+                  "text": "Dieser Freiluftzoo in Polokwane konzentriert sich auf die Ausstellung verschiedener einheimischer giftiger und ungiftiger Schlangenarten.",
+                  "category": "recreational",
+                  "coords": [
+                        29.434929,
+                        -23.924987
+                  ]
+            },
+            {
+                  "name": "Pietersburg Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet ist bekannt für seine zugänglichen Tierbeobachtungen in der Nähe von Polokwane und schützt einen unberührten Abschnitt der einheimischen Savanne.",
+                  "category": "natural",
+                  "coords": [
+                        29.473172,
+                        -23.960277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pietersburg Wildreservaat",
+                  "text": "A Polokwane mellett található természetvédelmi terület festői ösvényeket kínál a megőrzött száraz bushveld síkságokon.",
+                  "category": "natural",
+                  "coords": [
+                        29.475,
+                        -23.961111
+                  ]
+            },
+            {
+                  "name": "Polokwane Art Museum",
+                  "text": "Ez a polokwanei városi művészeti galéria a kortárs dél-afrikai festmények és szobrok kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        29.453462,
+                        -23.907494
+                  ]
+            },
+            {
+                  "name": "Christ Church Cathedral",
+                  "text": "A Polokwanéban található anglikán katedrális hagyományos tégla homlokzattal és gyönyörű ólomüveg ablakokkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        29.455607,
+                        -23.904249
+                  ]
+            },
+            {
+                  "name": "Openair Snakepark Polokwane",
+                  "text": "Ez a szabadtéri polokwanei állatkert különféle őshonos mérges és nem mérges kígyófajok bemutatására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        29.434929,
+                        -23.924987
+                  ]
+            },
+            {
+                  "name": "Pietersburg Nature Reserve",
+                  "text": "A Polokwane közelében könnyen megközelíthető vadmegfigyeléséről ismert természetvédelmi terület az őshonos szavanna egy érintetlen szakaszát védi.",
+                  "category": "natural",
+                  "coords": [
+                        29.473172,
+                        -23.960277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pietersburg Wildreservaat",
+                  "text": "Situată adiacent orașului Polokwane, această rezervație naturală oferă trasee pitorești prin câmpiile uscate protejate cu tufișuri.",
+                  "category": "natural",
+                  "coords": [
+                        29.475,
+                        -23.961111
+                  ]
+            },
+            {
+                  "name": "Polokwane Art Museum",
+                  "text": "Această galerie de artă municipală din Polokwane găzduiește o colecție extinsă de picturi și sculpturi contemporane sud-africane.",
+                  "category": "museum",
+                  "coords": [
+                        29.453462,
+                        -23.907494
+                  ]
+            },
+            {
+                  "name": "Christ Church Cathedral",
+                  "text": "Situată în Polokwane, această catedrală anglicană prezintă o fațadă tradițională din cărămidă și vitralii frumoase.",
+                  "category": "religious",
+                  "coords": [
+                        29.455607,
+                        -23.904249
+                  ]
+            },
+            {
+                  "name": "Openair Snakepark Polokwane",
+                  "text": "Această grădină zoologică în aer liber din Polokwane se concentrează pe expunerea diferitelor specii indigene de șerpi veninoși și neveninoși.",
+                  "category": "recreational",
+                  "coords": [
+                        29.434929,
+                        -23.924987
+                  ]
+            },
+            {
+                  "name": "Pietersburg Nature Reserve",
+                  "text": "Cunoscută pentru vizionarea accesibilă a vânatului aproape de Polokwane, această rezervație naturală protejează o secțiune virgină de savană indigenă.",
+                  "category": "natural",
+                  "coords": [
+                        29.473172,
+                        -23.960277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pietersburg Wildreservaat",
+                  "text": "Situated adjacent to Polokwane, this nature reserve offers scenic trails through preserved dry bushveld plains.",
+                  "category": "natural",
+                  "coords": [
+                        29.475,
+                        -23.961111
+                  ]
+            },
+            {
+                  "name": "Polokwane Art Museum",
+                  "text": "This municipal art gallery in Polokwane houses an extensive collection of contemporary South African paintings and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        29.453462,
+                        -23.907494
+                  ]
+            },
+            {
+                  "name": "Christ Church Cathedral",
+                  "text": "Located in Polokwane, this Anglican cathedral features a traditional brick facade and beautiful stained-glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        29.455607,
+                        -23.904249
+                  ]
+            },
+            {
+                  "name": "Openair Snakepark Polokwane",
+                  "text": "This open-air zoo facility in Polokwane focuses on displaying various indigenous venomous and non-venomous snake species.",
+                  "category": "recreational",
+                  "coords": [
+                        29.434929,
+                        -23.924987
+                  ]
+            },
+            {
+                  "name": "Pietersburg Nature Reserve",
+                  "text": "Known for its accessible game viewing close to Polokwane, this nature reserve protects a pristine section of indigenous savanna.",
+                  "category": "natural",
+                  "coords": [
+                        29.473172,
+                        -23.960277
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-LP",
     coords: [29.4688, -23.9045],
@@ -3785,7 +5189,196 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-mbombela-cities-v2",
+    id: "southafrica-mbombela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Civiccentre Theatre",
+                  "text": "Das Civiccentre Theatre ist ein zentraler kultureller Veranstaltungsort in Mbombela, an dem regelmäßig lokale Theateraufführungen und Gemeinde-Events stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        30.975485,
+                        -25.47588
+                  ]
+            },
+            {
+                  "name": "Likweti Nature Estate",
+                  "text": "Das Likweti Nature Estate ist ein von Wildtieren bewohntes Naturschutzgebiet, in dem Giraffen und Zebras frei zwischen der einheimischen Buschveld-Vegetation grasen.",
+                  "category": "natural",
+                  "coords": [
+                        31.042788,
+                        -25.417218
+                  ]
+            },
+            {
+                  "name": "Shandon Eco Estate",
+                  "text": "Das Shandon Eco Estate verbindet umweltfreundliches Wohnen mit Naturschutz und ermöglicht es frei lebenden Wildtieren, die natürliche Savannenlandschaft zu durchstreifen.",
+                  "category": "natural",
+                  "coords": [
+                        31.017747,
+                        -25.508643
+                  ]
+            },
+            {
+                  "name": "Lowveld National Botanical Garden",
+                  "text": "Der im August 1984 gegründete Lowveld National Botanical Garden zeigt eine riesige Sammlung von Palmfarnen und einen spektakulären künstlich angelegten Regenwald am Krokodilfluss.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973997,
+                        -25.445122
+                  ]
+            },
+            {
+                  "name": "Nelspruit Nature Reserve",
+                  "text": "Das 1972 gegründete Nelspruit Nature Reserve schützt eine zerklüftete städtische Grünfläche, die durch dichtes Buschveld und steiles, felsiges Gelände gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        30.993179,
+                        -25.488264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Civiccentre Theatre",
+                  "text": "A Civiccentre Színház egy központi kulturális helyszín Mbombelában, amely rendszeresen ad otthont helyi színházi előadásoknak és közösségi eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        30.975485,
+                        -25.47588
+                  ]
+            },
+            {
+                  "name": "Likweti Nature Estate",
+                  "text": "A Likweti Nature Estate egy lakóövezeti vadvédelmi terület, ahol zsiráfok és zebrák legelésznek szabadon az őshonos bushveld növényzet között.",
+                  "category": "natural",
+                  "coords": [
+                        31.042788,
+                        -25.417218
+                  ]
+            },
+            {
+                  "name": "Shandon Eco Estate",
+                  "text": "A Shandon Eco Estate az ökotudatos lakhatást ötvözi a természetvédelemmel, lehetővé téve a szabadon kószáló vadon élő állatok számára, hogy átszeljék a természetes szavanna tájat.",
+                  "category": "natural",
+                  "coords": [
+                        31.017747,
+                        -25.508643
+                  ]
+            },
+            {
+                  "name": "Lowveld National Botanical Garden",
+                  "text": "Az 1984 augusztusában alapított Lowveld Nemzeti Botanikus Kert a cikászok hatalmas gyűjteményét és egy lenyűgöző mesterséges esőerdőt mutat be a Krokodil-folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973997,
+                        -25.445122
+                  ]
+            },
+            {
+                  "name": "Nelspruit Nature Reserve",
+                  "text": "Az 1972-ben alapított Nelspruit Természetvédelmi Terület egy egyenetlen városi zöldterületet véd, amelyet sűrű szavanna és meredek, sziklás terep jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        30.993179,
+                        -25.488264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Civiccentre Theatre",
+                  "text": "Teatrul Civiccentre este o locație culturală centrală din Mbombela, găzduind în mod regulat spectacole de teatru locale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        30.975485,
+                        -25.47588
+                  ]
+            },
+            {
+                  "name": "Likweti Nature Estate",
+                  "text": "Likweti Nature Estate este o rezervație de animale sălbatice rezidențială, unde girafele și zebrele pasc liber printre vegetația indigenă de bushveld.",
+                  "category": "natural",
+                  "coords": [
+                        31.042788,
+                        -25.417218
+                  ]
+            },
+            {
+                  "name": "Shandon Eco Estate",
+                  "text": "Shandon Eco Estate combină viața ecologică cu conservarea, permițând faunei sălbatice în libertate să traverseze peisajul său natural de savană.",
+                  "category": "natural",
+                  "coords": [
+                        31.017747,
+                        -25.508643
+                  ]
+            },
+            {
+                  "name": "Lowveld National Botanical Garden",
+                  "text": "Înființată în august 1984, Grădina Botanică Națională Lowveld prezintă o colecție vastă de cicadee și o pădure tropicală spectaculoasă creată de om de-a lungul râului Crocodile.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973997,
+                        -25.445122
+                  ]
+            },
+            {
+                  "name": "Nelspruit Nature Reserve",
+                  "text": "Fondată în 1972, Rezervația Naturală Nelspruit protejează un spațiu verde urban accidentat, caracterizat prin bushveld dens și teren stâncos abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        30.993179,
+                        -25.488264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Civiccentre Theatre",
+                  "text": "The Civiccentre Theatre is a central cultural venue in Mbombela, regularly hosting local theatrical performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        30.975485,
+                        -25.47588
+                  ]
+            },
+            {
+                  "name": "Likweti Nature Estate",
+                  "text": "Likweti Nature Estate is a residential wildlife reserve where giraffes and zebras graze freely among the indigenous bushveld vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        31.042788,
+                        -25.417218
+                  ]
+            },
+            {
+                  "name": "Shandon Eco Estate",
+                  "text": "The Shandon Eco Estate combines eco-friendly living with conservation, allowing free-roaming wildlife to traverse its natural savanna landscape.",
+                  "category": "natural",
+                  "coords": [
+                        31.017747,
+                        -25.508643
+                  ]
+            },
+            {
+                  "name": "Lowveld National Botanical Garden",
+                  "text": "Established in August 1984, the Lowveld National Botanical Garden showcases a vast collection of cycads and a spectacular man-made rainforest alongside the Crocodile River.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973997,
+                        -25.445122
+                  ]
+            },
+            {
+                  "name": "Nelspruit Nature Reserve",
+                  "text": "Founded in 1972, the Nelspruit Nature Reserve protects a rugged urban green space characterized by dense bushveld and steep, rocky terrain.",
+                  "category": "natural",
+                  "coords": [
+                        30.993179,
+                        -25.488264
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-MP",
     coords: [30.9753, -25.4753],
@@ -3823,7 +5416,160 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-kimberley-cities-v2",
+    id: "southafrica-kimberley-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kimberley Transport Museum",
+                  "text": "Dieses Transportmuseum in Kimberley bietet detaillierte Einblicke in die historische Entwicklung der lokalen Eisenbahn.",
+                  "category": "museum",
+                  "coords": [
+                        24.769777,
+                        -28.735965
+                  ]
+            },
+            {
+                  "name": "De Beers Mine",
+                  "text": "Dieser Aussichtspunkt bietet einen eindrucksvollen Blick auf die historische De Beers Diamantenmine in Kimberley.",
+                  "category": "natural",
+                  "coords": [
+                        24.773562,
+                        -28.736865
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "Dieser Aussichtspunkt am Kamfers-Stausee in Kimberley ist ein bekannter Ort zur Beobachtung tausender Zwergflamingos.",
+                  "category": "natural",
+                  "coords": [
+                        24.760446,
+                        -28.660088
+                  ]
+            },
+            {
+                  "name": "Kamfers Dam Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet nahe Kimberley umfasst einen See, der eine wichtige künstliche Brutinsel für Zwergflamingos beheimatet.",
+                  "category": "natural",
+                  "coords": [
+                        24.760886,
+                        -28.675624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kimberley Transport Museum",
+                  "text": "Ez a Kimberley városában található közlekedési múzeum a helyi vasút történelmi fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.769777,
+                        -28.735965
+                  ]
+            },
+            {
+                  "name": "De Beers Mine",
+                  "text": "Ez a kilátó lenyűgöző panorámát nyújt a történelmi De Beers gyémántbányára Kimberley-ben.",
+                  "category": "natural",
+                  "coords": [
+                        24.773562,
+                        -28.736865
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "Ez a Kimberley-ben, a Kamfers-gátnál található kilátó több ezer kis flamingó megfigyelésének népszerű helyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        24.760446,
+                        -28.660088
+                  ]
+            },
+            {
+                  "name": "Kamfers Dam Nature Reserve",
+                  "text": "Ez a Kimberley közelében lévő természetvédelmi terület egy tavat foglal magába, amely a kis flamingók fontos mesterséges költőszigete.",
+                  "category": "natural",
+                  "coords": [
+                        24.760886,
+                        -28.675624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kimberley Transport Museum",
+                  "text": "Acest muzeu al transporturilor din Kimberley oferă o privire detaliată asupra dezvoltării istorice a căilor ferate locale.",
+                  "category": "museum",
+                  "coords": [
+                        24.769777,
+                        -28.735965
+                  ]
+            },
+            {
+                  "name": "De Beers Mine",
+                  "text": "Acest punct de belvedere oferă o priveliște impresionantă asupra istoricei mine de diamante De Beers din Kimberley.",
+                  "category": "natural",
+                  "coords": [
+                        24.773562,
+                        -28.736865
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "Acest punct de observație de la barajul Kamfers din Kimberley este faimos pentru turmele mari de păsări flamingo pitice.",
+                  "category": "natural",
+                  "coords": [
+                        24.760446,
+                        -28.660088
+                  ]
+            },
+            {
+                  "name": "Kamfers Dam Nature Reserve",
+                  "text": "Această rezervație naturală de lângă Kimberley include un lac care găzduiește o importantă insulă artificială pentru reproducerea păsărilor flamingo pitice.",
+                  "category": "natural",
+                  "coords": [
+                        24.760886,
+                        -28.675624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kimberley Transport Museum",
+                  "text": "Located in Kimberley, this transport museum provides a detailed look into the historic development of the local railway system.",
+                  "category": "museum",
+                  "coords": [
+                        24.769777,
+                        -28.735965
+                  ]
+            },
+            {
+                  "name": "De Beers Mine",
+                  "text": "This viewpoint offers a striking perspective over the historic De Beers diamond mine in Kimberley.",
+                  "category": "natural",
+                  "coords": [
+                        24.773562,
+                        -28.736865
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "Overlooking the Kamfers Dam in Kimberley, this viewpoint is renowned for observing thousands of breeding lesser flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        24.760446,
+                        -28.660088
+                  ]
+            },
+            {
+                  "name": "Kamfers Dam Nature Reserve",
+                  "text": "Located near Kimberley, this nature reserve protects a lake that hosts a crucial artificial breeding island for lesser flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        24.760886,
+                        -28.675624
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-NC",
     coords: [24.7623, -28.7282],
@@ -3861,7 +5607,376 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-pietermaritzburg-cities-v2",
+    id: "southafrica-pietermaritzburg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Voortreker",
+                  "text": "Dieser Museumskomplex in Pietermaritzburg beherbergt umfangreiche Sammlungen historischer Artefakte, die die Migration und das Leben der Voortrekker-Pioniere detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        30.382976,
+                        -29.600036
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Dieser markante Hügel bietet einen hervorragenden natürlichen Aussichtspunkt über die städtische Bebauung und die umliegenden Täler von Pietermaritzburg.",
+                  "category": "natural",
+                  "coords": [
+                        30.341297,
+                        -29.622704
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Park Nature Reserve",
+                  "text": "Dieses kompakte Reservat fungiert als Hauptsitz von Ezemvelo KZN Wildlife und verfügt über gut gepflegte Wanderwege sowie ein kleines Nashorngehege.",
+                  "category": "natural",
+                  "coords": [
+                        30.321139,
+                        -29.567052
+                  ]
+            },
+            {
+                  "name": "TWC theatre",
+                  "text": "Dieser lokale Veranstaltungsort für darstellende Künste beherbergt eine Vielzahl von Theaterproduktionen und kulturellen Ereignissen in Pietermaritzburg.",
+                  "category": "cultural",
+                  "coords": [
+                        30.348476,
+                        -29.600182
+                  ]
+            },
+            {
+                  "name": "Winston Churchill Theatre",
+                  "text": "Dieser der Theaterkunst gewidmete Veranstaltungsort in Pietermaritzburg inszeniert Live-Stücke und lokale Aufführungen in einem intimen Zuschauerraum.",
+                  "category": "cultural",
+                  "coords": [
+                        30.391472,
+                        -29.615531
+                  ]
+            },
+            {
+                  "name": "Tatham Art Gallery",
+                  "text": "Diese bedeutende Galerie, die sich in einem historischen ehemaligen Gebäude des Obersten Gerichtshofs befindet, zeigt eine beeindruckende Sammlung südafrikanischer und europäischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        30.379257,
+                        -29.602367
+                  ]
+            },
+            {
+                  "name": "Kwa-Zulu Natal National Botanical Gardens",
+                  "text": "Dieser historische Garten aus dem Jahr 1874 besticht durch eine spektakuläre Platanenallee und vielfältige Sammlungen einheimischer Pflanzen aus der östlichen Region Südafrikas.",
+                  "category": "landmark",
+                  "coords": [
+                        30.347005,
+                        -29.60458
+                  ]
+            },
+            {
+                  "name": "Bisley Valley Nature Reserve",
+                  "text": "Dieses Dornsavannen-Reservat am Stadtrand von Pietermaritzburg ist bekannt für seine dort ansässige Giraffenpopulation und hervorragende Vogelbeobachtungsmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        30.391127,
+                        -29.6638
+                  ]
+            },
+            {
+                  "name": "Comrades Marathon House",
+                  "text": "Dieses spezialisierte Museum bewahrt die reiche Geschichte, Erinnerungsstücke und triumphale Geschichten des zermürbenden jährlichen Ultramarathons zwischen Durban und Pietermaritzburg auf.",
+                  "category": "museum",
+                  "coords": [
+                        30.395304,
+                        -29.614217
+                  ]
+            },
+            {
+                  "name": "Doreen Clark Nature Reserve",
+                  "text": "Dieses im Februar 1969 gegründete, kleine bewaldete Schutzgebiet bietet ein ruhiges Refugium für einheimische Flora und Fauna in der Nähe von Pietermaritzburg.",
+                  "category": "natural",
+                  "coords": [
+                        30.288777,
+                        -29.577834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Voortreker",
+                  "text": "Ez a pietermaritzburgi múzeumkomplexum kiterjedt történelmi műtárgygyűjteményeknek ad otthont, amelyek a úttörő Voortrekkerek vándorlását és életét mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        30.382976,
+                        -29.600036
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Ez a kiemelkedő domb lenyűgöző természetes kilátópontot nyújt Pietermaritzburg városi terjeszkedésére és a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        30.341297,
+                        -29.622704
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Park Nature Reserve",
+                  "text": "Az Ezemvelo KZN Wildlife központjaként működő, viszonylag kis területű rezervátum jól karbantartott túraútvonalakkal és egy kis orrszarvúkifutóval rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        30.321139,
+                        -29.567052
+                  ]
+            },
+            {
+                  "name": "TWC theatre",
+                  "text": "Ez a helyi előadóművészeti helyszín számos drámai produkciónak és kulturális eseménynek ad otthont Pietermaritzburg nyüzsgő közösségében.",
+                  "category": "cultural",
+                  "coords": [
+                        30.348476,
+                        -29.600182
+                  ]
+            },
+            {
+                  "name": "Winston Churchill Theatre",
+                  "text": "A színházművészetnek szentelt pietermaritzburgi közösségi színtér élő színdarabokat és helyi előadásokat mutat be egy meghitt nézőtéren.",
+                  "category": "cultural",
+                  "coords": [
+                        30.391472,
+                        -29.615531
+                  ]
+            },
+            {
+                  "name": "Tatham Art Gallery",
+                  "text": "A Történelmi, egykori Legfelsőbb Bíróság épületében található nagy galéria a dél-afrikai és európai képzőművészet lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.379257,
+                        -29.602367
+                  ]
+            },
+            {
+                  "name": "Kwa-Zulu Natal National Botanical Gardens",
+                  "text": "Az 1874-ben alapított történelmi kert lenyűgöző platánfasorral és Dél-Afrika keleti régiójából származó őshonos növények változatos gyűjteményével büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.347005,
+                        -29.60458
+                  ]
+            },
+            {
+                  "name": "Bisley Valley Nature Reserve",
+                  "text": "Ez a Pietermaritzburg szélén található bozótos rezervátum jól ismert rezidens zsiráfpopulációjáról és kiváló madármegfigyelési lehetőségeiről.",
+                  "category": "natural",
+                  "coords": [
+                        30.391127,
+                        -29.6638
+                  ]
+            },
+            {
+                  "name": "Comrades Marathon House",
+                  "text": "Ez a specializált múzeum őrzi a Durban és Pietermaritzburg közötti fárasztó éves ultramaraton gazdag történelmét, emléktárgyait és diadalmas történeteit.",
+                  "category": "museum",
+                  "coords": [
+                        30.395304,
+                        -29.614217
+                  ]
+            },
+            {
+                  "name": "Doreen Clark Nature Reserve",
+                  "text": "Ez az 1969 februárjában alapított, kis kiterjedésű, erdős védett terület nyugodt menedéket nyújt az őshonos növény- és állatvilágnak Pietermaritzburg közelében.",
+                  "category": "natural",
+                  "coords": [
+                        30.288777,
+                        -29.577834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Voortreker",
+                  "text": "Acest complex muzeal din Pietermaritzburg adăpostește colecții extinse de artefacte istorice care detaliază migrația și viețile pionierilor Voortrekker.",
+                  "category": "museum",
+                  "coords": [
+                        30.382976,
+                        -29.600036
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Acest deal proeminent oferă un punct de observație natural impunător asupra extinderii urbane și a văilor înconjurătoare din Pietermaritzburg.",
+                  "category": "natural",
+                  "coords": [
+                        30.341297,
+                        -29.622704
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Park Nature Reserve",
+                  "text": "Funcționând ca sediu pentru Ezemvelo KZN Wildlife, această rezervație compactă are trasee de plimbare bine întreținute și un mic țarc pentru rinoceri.",
+                  "category": "natural",
+                  "coords": [
+                        30.321139,
+                        -29.567052
+                  ]
+            },
+            {
+                  "name": "TWC theatre",
+                  "text": "Această locație locală de artele spectacolului găzduiește o varietate de producții dramatice și evenimente culturale în cadrul comunității vibrante din Pietermaritzburg.",
+                  "category": "cultural",
+                  "coords": [
+                        30.348476,
+                        -29.600182
+                  ]
+            },
+            {
+                  "name": "Winston Churchill Theatre",
+                  "text": "Dedicat artelor teatrale, acest spațiu comunitar din Pietermaritzburg pune în scenă piese live și spectacole locale într-un cadru intim.",
+                  "category": "cultural",
+                  "coords": [
+                        30.391472,
+                        -29.615531
+                  ]
+            },
+            {
+                  "name": "Tatham Art Gallery",
+                  "text": "Situată într-o clădire istorică care a fost anterior sediul Curții Supreme, această galerie majoră expune o colecție impresionantă de artă plastică sud-africană și europeană.",
+                  "category": "museum",
+                  "coords": [
+                        30.379257,
+                        -29.602367
+                  ]
+            },
+            {
+                  "name": "Kwa-Zulu Natal National Botanical Gardens",
+                  "text": "Înființată în 1874, această grădină istorică prezintă o alee spectaculoasă cu platani și colecții diverse de plante indigene din regiunea estică a Africii de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        30.347005,
+                        -29.60458
+                  ]
+            },
+            {
+                  "name": "Bisley Valley Nature Reserve",
+                  "text": "Această rezervație cu vegetație spinoasă de la periferia orașului Pietermaritzburg este bine cunoscută pentru populația sa rezidentă de girafe și pentru oportunitățile excelente de observare a păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        30.391127,
+                        -29.6638
+                  ]
+            },
+            {
+                  "name": "Comrades Marathon House",
+                  "text": "Acest muzeu specializat păstrează istoria bogată, suvenirurile și poveștile triumfătoare ale epuizantului ultramaraton anual dintre Durban și Pietermaritzburg.",
+                  "category": "museum",
+                  "coords": [
+                        30.395304,
+                        -29.614217
+                  ]
+            },
+            {
+                  "name": "Doreen Clark Nature Reserve",
+                  "text": "Înființată în februarie 1969, această mică arie protejată împădurită oferă un sanctuar liniștit pentru flora și fauna indigenă din apropiere de Pietermaritzburg.",
+                  "category": "natural",
+                  "coords": [
+                        30.288777,
+                        -29.577834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Voortreker",
+                  "text": "This museum complex in Pietermaritzburg houses extensive collections of historical artifacts detailing the migration and lives of the pioneer Voortrekkers.",
+                  "category": "museum",
+                  "coords": [
+                        30.382976,
+                        -29.600036
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "This prominent hill provides a commanding natural vantage point over the urban sprawl and surrounding valleys of Pietermaritzburg.",
+                  "category": "natural",
+                  "coords": [
+                        30.341297,
+                        -29.622704
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Park Nature Reserve",
+                  "text": "Functioning as the headquarters for Ezemvelo KZN Wildlife, this compact reserve features well-maintained walking trails and a small rhino enclosure.",
+                  "category": "natural",
+                  "coords": [
+                        30.321139,
+                        -29.567052
+                  ]
+            },
+            {
+                  "name": "TWC theatre",
+                  "text": "This local performing arts venue hosts a variety of dramatic productions and cultural events within the vibrant community of Pietermaritzburg.",
+                  "category": "cultural",
+                  "coords": [
+                        30.348476,
+                        -29.600182
+                  ]
+            },
+            {
+                  "name": "Winston Churchill Theatre",
+                  "text": "Dedicated to theatrical arts, this community venue in Pietermaritzburg stages live plays and local performances in an intimate auditorium setting.",
+                  "category": "cultural",
+                  "coords": [
+                        30.391472,
+                        -29.615531
+                  ]
+            },
+            {
+                  "name": "Tatham Art Gallery",
+                  "text": "Located in a historic former Supreme Court building, this major gallery displays an impressive collection of South African and European fine art.",
+                  "category": "museum",
+                  "coords": [
+                        30.379257,
+                        -29.602367
+                  ]
+            },
+            {
+                  "name": "Kwa-Zulu Natal National Botanical Gardens",
+                  "text": "Established in 1874, this historic garden features a spectacular plane tree avenue and diverse collections of indigenous plants from South Africa's eastern region.",
+                  "category": "landmark",
+                  "coords": [
+                        30.347005,
+                        -29.60458
+                  ]
+            },
+            {
+                  "name": "Bisley Valley Nature Reserve",
+                  "text": "This thornveld reserve on the outskirts of Pietermaritzburg is well known for its resident giraffe population and excellent birdwatching opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        30.391127,
+                        -29.6638
+                  ]
+            },
+            {
+                  "name": "Comrades Marathon House",
+                  "text": "This specialized museum preserves the rich history, memorabilia, and triumphant stories of the grueling annual ultramarathon between Durban and Pietermaritzburg.",
+                  "category": "museum",
+                  "coords": [
+                        30.395304,
+                        -29.614217
+                  ]
+            },
+            {
+                  "name": "Doreen Clark Nature Reserve",
+                  "text": "Established in February 1969, this small, forested protected area provides a tranquil sanctuary for indigenous flora and fauna near Pietermaritzburg.",
+                  "category": "natural",
+                  "coords": [
+                        30.288777,
+                        -29.577834
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-NL",
     coords: [30.3794, -29.6006],
@@ -3988,7 +6103,232 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-mahikeng-cities-v2",
+    id: "southafrica-mahikeng-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mafikeng Campsite",
+                  "text": "Die historischen Überreste des Mafikeng Campsite erinnern an die Zeltlager und Feldbefestigungen während der Belagerung von Mafeking.",
+                  "category": "historical",
+                  "coords": [
+                        25.735795,
+                        -25.847254
+                  ]
+            },
+            {
+                  "name": "Manyane Game Lodge",
+                  "text": "Die zerfallenen Grundmauern der Manyane Game Lodge liegen am Rande des Wildreservats, wo sich die Natur das Gelände zurückerobert.",
+                  "category": "historical",
+                  "coords": [
+                        25.734111,
+                        -25.843236
+                  ]
+            },
+            {
+                  "name": "Entrance to Mafikeng Nature Reserve",
+                  "text": "Am Haupteingang zur Mafikeng Nature Reserve beginnt eine Landschaft aus Kalahari-Sand und Akazienbäumen, in der Breitmaulnashörner geschützt leben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.694457,
+                        -25.860033
+                  ]
+            },
+            {
+                  "name": "Lotlamoreng Dam and Nature Reserve",
+                  "text": "Das Lotlamoreng Dam and Nature Reserve ist ein Feuchtgebiets-Schutzgebiet rund um einen großen Staudamm, das zahlreiche Wasservögel beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        25.6075,
+                        -25.874444
+                  ]
+            },
+            {
+                  "name": "Mahikeng Museum",
+                  "text": "Das Mahikeng Museum stellt historische Artefakte und Dokumente aus, die die berühmte Belagerung von Mafeking während des Burenkrieges detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        25.642088,
+                        -25.863442
+                  ]
+            },
+            {
+                  "name": "Mafikeng Nature Reserve",
+                  "text": "Die Mafikeng Nature Reserve erstreckt sich über 4600 Hektar offene Graslandschaften und Akazienbuschland am Rande der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        25.730616,
+                        -25.866036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mafikeng Campsite",
+                  "text": "A Mafikeng Campsite történelmi maradványai a Mafeking ostroma idején épült sátortáborokra és tábori erődítményekre emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        25.735795,
+                        -25.847254
+                  ]
+            },
+            {
+                  "name": "Manyane Game Lodge",
+                  "text": "A Manyane Game Lodge romos alapjai a vadrezervátum szélén találhatók, ahol a természet lassan visszahódítja a területet.",
+                  "category": "historical",
+                  "coords": [
+                        25.734111,
+                        -25.843236
+                  ]
+            },
+            {
+                  "name": "Entrance to Mafikeng Nature Reserve",
+                  "text": "A Mafikeng Nature Reserve főbejáratánál kezdődik a kalahári homokból és akáciafákból álló táj, ahol védett szélesszájú orrszarvúk élnek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.694457,
+                        -25.860033
+                  ]
+            },
+            {
+                  "name": "Lotlamoreng Dam and Nature Reserve",
+                  "text": "A Lotlamoreng Dam and Nature Reserve egy nagy gát körüli vizesélőhely-védelmi terület, amely számos vízimadárnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        25.6075,
+                        -25.874444
+                  ]
+            },
+            {
+                  "name": "Mahikeng Museum",
+                  "text": "A Mahikeng Museum olyan történelmi tárgyakat és dokumentumokat állít ki, amelyek részletesen bemutatják Mafeking híres ostromát a búr háború idején.",
+                  "category": "museum",
+                  "coords": [
+                        25.642088,
+                        -25.863442
+                  ]
+            },
+            {
+                  "name": "Mafikeng Nature Reserve",
+                  "text": "A Mafikeng Nature Reserve 4600 hektárnyi nyílt füves pusztán és akáciás bozótosban terül el a város szélén.",
+                  "category": "natural",
+                  "coords": [
+                        25.730616,
+                        -25.866036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mafikeng Campsite",
+                  "text": "Rămășițele istorice ale Mafikeng Campsite amintesc de taberele de corturi și fortificațiile de campanie din timpul asediului Mafekingului.",
+                  "category": "historical",
+                  "coords": [
+                        25.735795,
+                        -25.847254
+                  ]
+            },
+            {
+                  "name": "Manyane Game Lodge",
+                  "text": "Fundațiile ruinate ale Manyane Game Lodge se află la marginea rezervației de animale sălbatice, unde natura recucerește încet terenul.",
+                  "category": "historical",
+                  "coords": [
+                        25.734111,
+                        -25.843236
+                  ]
+            },
+            {
+                  "name": "Entrance to Mafikeng Nature Reserve",
+                  "text": "La intrarea principală în Mafikeng Nature Reserve începe un peisaj de nisip de Kalahari și salcâmi, unde trăiesc rinoceri albi protejați.",
+                  "category": "landmark",
+                  "coords": [
+                        25.694457,
+                        -25.860033
+                  ]
+            },
+            {
+                  "name": "Lotlamoreng Dam and Nature Reserve",
+                  "text": "Lotlamoreng Dam and Nature Reserve este o rezervație de zone umede în jurul unui baraj mare, adăpostind numeroase păsări de apă.",
+                  "category": "natural",
+                  "coords": [
+                        25.6075,
+                        -25.874444
+                  ]
+            },
+            {
+                  "name": "Mahikeng Museum",
+                  "text": "Mahikeng Museum expune artefacte istorice și documente care descriu în detaliu faimosul asediu al Mafekingului în timpul Războiului Bur.",
+                  "category": "museum",
+                  "coords": [
+                        25.642088,
+                        -25.863442
+                  ]
+            },
+            {
+                  "name": "Mafikeng Nature Reserve",
+                  "text": "Mafikeng Nature Reserve se întinde pe 4600 de hectare de pajiști deschise și desișuri de salcâmi la marginea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        25.730616,
+                        -25.866036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mafikeng Campsite",
+                  "text": "The historical remnants of the Mafikeng Campsite serve as a reminder of the tent camps and field fortifications during the Siege of Mafeking.",
+                  "category": "historical",
+                  "coords": [
+                        25.735795,
+                        -25.847254
+                  ]
+            },
+            {
+                  "name": "Manyane Game Lodge",
+                  "text": "The ruined foundations of the Manyane Game Lodge lie on the edge of the game reserve, where nature is slowly reclaiming the grounds.",
+                  "category": "historical",
+                  "coords": [
+                        25.734111,
+                        -25.843236
+                  ]
+            },
+            {
+                  "name": "Entrance to Mafikeng Nature Reserve",
+                  "text": "At the main entrance to the Mafikeng Nature Reserve begins a landscape of Kalahari sand and acacia trees where protected white rhinos live.",
+                  "category": "landmark",
+                  "coords": [
+                        25.694457,
+                        -25.860033
+                  ]
+            },
+            {
+                  "name": "Lotlamoreng Dam and Nature Reserve",
+                  "text": "The Lotlamoreng Dam and Nature Reserve is a wetland sanctuary surrounding a large dam, hosting numerous waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        25.6075,
+                        -25.874444
+                  ]
+            },
+            {
+                  "name": "Mahikeng Museum",
+                  "text": "The Mahikeng Museum exhibits historical artefacts and documents detailing the famous Siege of Mafeking during the Boer War.",
+                  "category": "museum",
+                  "coords": [
+                        25.642088,
+                        -25.863442
+                  ]
+            },
+            {
+                  "name": "Mafikeng Nature Reserve",
+                  "text": "The Mafikeng Nature Reserve spans 4,600 hectares of open grasslands and acacia scrubland on the edge of the city.",
+                  "category": "natural",
+                  "coords": [
+                        25.730616,
+                        -25.866036
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-NW",
     coords: [25.6442, -25.8652],
@@ -4026,7 +6366,124 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-bhisho-cities-v2",
+    id: "southafrica-bhisho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Forge",
+                  "text": "Dieses historische Denkmal nahe Bhisho erinnert an die industrielle und kulturelle Entwicklung der Region am Ostkap.",
+                  "category": "historical",
+                  "coords": [
+                        27.386802,
+                        -32.872538
+                  ]
+            },
+            {
+                  "name": "King Williams Town Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet nahe King William's Town schützt wichtige Ökosysteme und die einheimische Flora der Amathole-Region.",
+                  "category": "natural",
+                  "coords": [
+                        27.413424,
+                        -32.864937
+                  ]
+            },
+            {
+                  "name": "Amathole Museum",
+                  "text": "Dieses 1884 gegründete Naturkundemuseum ist berühmt für die Ausstellung von Huberta, dem weit gereisten Flusspferd Südafrikas.",
+                  "category": "museum",
+                  "coords": [
+                        27.391633,
+                        -32.877028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Forge",
+                  "text": "Ez a Bhisho közelében található történelmi emlékmű a Kelet-Fokföld ipari és kulturális fejlődésének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.386802,
+                        -32.872538
+                  ]
+            },
+            {
+                  "name": "King Williams Town Nature Reserve",
+                  "text": "Ez a King William's Town közelében fekvő természetvédelmi terület az Amathole-régió fontos ökoszisztémáit és őshonos növényvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.413424,
+                        -32.864937
+                  ]
+            },
+            {
+                  "name": "Amathole Museum",
+                  "text": "Az 1884-ben alapított természettudományi múzeum Huberta, Dél-Afrika leghíresebb és sokat utazott vízilova kiállításáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        27.391633,
+                        -32.877028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Forge",
+                  "text": "Acest monument istoric din apropiere de Bhisho comemorează dezvoltarea industrială și culturală a regiunii Eastern Cape.",
+                  "category": "historical",
+                  "coords": [
+                        27.386802,
+                        -32.872538
+                  ]
+            },
+            {
+                  "name": "King Williams Town Nature Reserve",
+                  "text": "Această rezervație naturală de lângă King William's Town protejează ecosisteme importante și flora autohtonă a regiunii Amathole.",
+                  "category": "natural",
+                  "coords": [
+                        27.413424,
+                        -32.864937
+                  ]
+            },
+            {
+                  "name": "Amathole Museum",
+                  "text": "Acest muzeu de istorie naturală fondat în 1884 este renumit pentru expunerea lui Huberta, cel mai călătorit hipopotam din Africa de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        27.391633,
+                        -32.877028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Forge",
+                  "text": "Located near Bhisho, this historic monument commemorates the industrial and cultural evolution of the Eastern Cape region.",
+                  "category": "historical",
+                  "coords": [
+                        27.386802,
+                        -32.872538
+                  ]
+            },
+            {
+                  "name": "King Williams Town Nature Reserve",
+                  "text": "This nature reserve near King William's Town protects vital local ecosystems and the indigenous flora of the Amathole region.",
+                  "category": "natural",
+                  "coords": [
+                        27.413424,
+                        -32.864937
+                  ]
+            },
+            {
+                  "name": "Amathole Museum",
+                  "text": "Founded in 1884, this natural history museum is renowned for housing the preserved remains of Huberta, South Africa's most famous traveling hippopotamus.",
+                  "category": "museum",
+                  "coords": [
+                        27.391633,
+                        -32.877028
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZA-EC",
     coords: [27.437, -32.846],
@@ -4153,7 +6610,196 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-george-cities-v2",
+    id: "southafrica-george-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Garden Route Birds Of Prey",
+                  "text": "Diese spezielle Wildtierattraktion bietet dynamische Flugvorführungen und rehabilitiert verletzte Adler, Eulen und Falken, die am Südwestkap heimisch sind.",
+                  "category": "landmark",
+                  "coords": [
+                        22.463417,
+                        -33.946841
+                  ]
+            },
+            {
+                  "name": "Unity Park",
+                  "text": "Dieser landschaftlich gestaltete öffentliche Denkmalbereich im Zentrum von George bietet einen Versammlungsort, der an die Solidarität und das Erbe der Gemeinschaft erinnern soll.",
+                  "category": "historical",
+                  "coords": [
+                        22.459081,
+                        -33.955759
+                  ]
+            },
+            {
+                  "name": "George 200 year/Centenary Plaque",
+                  "text": "Dieser historische Marker, der an einem markanten Stein befestigt ist, wurde zur Feier des zweihundertjährigen Bestehens der Stadt errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        22.454574,
+                        -33.961214
+                  ]
+            },
+            {
+                  "name": "Outeniqua Powervan",
+                  "text": "Dieser einzigartige Schienenbus ist seit 1999 in Betrieb und nimmt die Fahrgäste mit auf eine malerische Reise entlang historischer Eisenbahnschienen hinauf in die bewaldeten Outeniqua-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.474252,
+                        -33.963195
+                  ]
+            },
+            {
+                  "name": "Arts Theatre",
+                  "text": "Dieser lokale Veranstaltungsort dient als kulturelles Zentrum der Region und bietet ein vielfältiges Programm mit Theaterstücken, Musicals und Gemeindeproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.457897,
+                        -33.956031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garden Route Birds Of Prey",
+                  "text": "Ez a különleges vadvilági látványosság dinamikus repülési bemutatóknak ad otthont, és a Dél-Fokföldön őshonos sérült sasokat, baglyokat és sólymokat rehabilitálja.",
+                  "category": "landmark",
+                  "coords": [
+                        22.463417,
+                        -33.946841
+                  ]
+            },
+            {
+                  "name": "Unity Park",
+                  "text": "A George központjában található parkosított köztéri műemlékterület olyan gyülekezési teret biztosít, amelyet a közösségi szolidaritás és örökség emlékére hoztak létre.",
+                  "category": "historical",
+                  "coords": [
+                        22.459081,
+                        -33.955759
+                  ]
+            },
+            {
+                  "name": "George 200 year/Centenary Plaque",
+                  "text": "Egy kiemelkedő kövön rögzített történelmi jelzőt a város alapításának kétszázadik évfordulójának megünneplésére állították fel.",
+                  "category": "historical",
+                  "coords": [
+                        22.454574,
+                        -33.961214
+                  ]
+            },
+            {
+                  "name": "Outeniqua Powervan",
+                  "text": "Az 1999 óta üzemelő egyedülálló sínbusz festői utazásra viszi az utasokat történelmi vasúti síneken fel az erdős Outeniqua-hegységbe.",
+                  "category": "landmark",
+                  "coords": [
+                        22.474252,
+                        -33.963195
+                  ]
+            },
+            {
+                  "name": "Arts Theatre",
+                  "text": "A régió kulturális központjaként szolgáló helyi előadóhely drámai színdarabok, musicalek és közösségi produkciók változatos programjának ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        22.457897,
+                        -33.956031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Garden Route Birds Of Prey",
+                  "text": "Această atracție specializată în viața sălbatică găzduiește demonstrații dinamice de zbor și reabilitează vulturi, bufnițe și șoimi răniți originari din Capul de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        22.463417,
+                        -33.946841
+                  ]
+            },
+            {
+                  "name": "Unity Park",
+                  "text": "Situată central în George, această zonă monumentală publică amenajată oferă un spațiu de adunare conceput pentru a comemora solidaritatea și moștenirea comunității.",
+                  "category": "historical",
+                  "coords": [
+                        22.459081,
+                        -33.955759
+                  ]
+            },
+            {
+                  "name": "George 200 year/Centenary Plaque",
+                  "text": "Fixat pe o piatră proeminentă, acest marcaj istoric a fost ridicat pentru a sărbători bicentenarul înființării orașului.",
+                  "category": "historical",
+                  "coords": [
+                        22.454574,
+                        -33.961214
+                  ]
+            },
+            {
+                  "name": "Outeniqua Powervan",
+                  "text": "Funcționând din 1999, acest autobuz feroviar unic duce pasagerii într-o călătorie pitorească de-a lungul șinelor istorice de cale ferată până în Munții Outeniqua împăduriți.",
+                  "category": "landmark",
+                  "coords": [
+                        22.474252,
+                        -33.963195
+                  ]
+            },
+            {
+                  "name": "Arts Theatre",
+                  "text": "Servind ca un hub cultural pentru regiune, această locație locală de spectacole găzduiește un program divers de piese dramatice, muzicale și producții comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        22.457897,
+                        -33.956031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Garden Route Birds Of Prey",
+                  "text": "This specialized wildlife attraction hosts dynamic flight demonstrations and rehabilitates injured eagles, owls, and falcons native to the Southern Cape.",
+                  "category": "landmark",
+                  "coords": [
+                        22.463417,
+                        -33.946841
+                  ]
+            },
+            {
+                  "name": "Unity Park",
+                  "text": "Situated centrally in George, this landscaped public monument area provides a gathering space designed to commemorate community solidarity and heritage.",
+                  "category": "historical",
+                  "coords": [
+                        22.459081,
+                        -33.955759
+                  ]
+            },
+            {
+                  "name": "George 200 year/Centenary Plaque",
+                  "text": "Affixed to a prominent stone, this historical marker was erected to celebrate the bi-centennial anniversary of the city's establishment.",
+                  "category": "historical",
+                  "coords": [
+                        22.454574,
+                        -33.961214
+                  ]
+            },
+            {
+                  "name": "Outeniqua Powervan",
+                  "text": "Operating since 1999, this unique railbus takes passengers on a scenic journey along historic railway tracks up into the forested Outeniqua Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.474252,
+                        -33.963195
+                  ]
+            },
+            {
+                  "name": "Arts Theatre",
+                  "text": "Serving as a cultural hub for the region, this local performance venue hosts a diverse program of dramatic plays, musicals, and community productions.",
+                  "category": "cultural",
+                  "coords": [
+                        22.457897,
+                        -33.956031
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-WC",
     coords: [22.4611, -33.9631],
@@ -4197,7 +6843,556 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-stellenbosch-cities-v2",
+    id: "southafrica-stellenbosch-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drostdy Theatre",
+                  "text": "Dieses intime Theater in Stellenbosch veranstaltet regelmäßig lokale Theaterproduktionen und musikalische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858807,
+                        -33.935825
+                  ]
+            },
+            {
+                  "name": "Ilse Schermers Art Gallery",
+                  "text": "Ein spezieller Galerieraum in Stellenbosch, der zeitgenössische visuelle Kunstwerke von aufstrebenden südafrikanischen Künstlern ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        18.859862,
+                        -33.938759
+                  ]
+            },
+            {
+                  "name": "PJ Olivier Art Centre",
+                  "text": "Dieses engagierte Kunstzentrum in Stellenbosch bietet kreative Bildung und lebendige Ausstellungsräume für aufstrebende junge Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858154,
+                        -33.937705
+                  ]
+            },
+            {
+                  "name": "Voorgelegen",
+                  "text": "Dieses historische Museumsanwesen in Stellenbosch zeichnet sich durch wunderschön erhaltene Architektur und historische Räume aus, die die koloniale Vergangenheit der Stadt widerspiegeln.",
+                  "category": "museum",
+                  "coords": [
+                        18.858113,
+                        -33.939008
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "Ein nostalgisches Museum in Stellenbosch, das eine umfangreiche Sammlung von zartem Vintage-Spielzeug, Miniaturautos und antiken Puppen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        18.857079,
+                        -33.937768
+                  ]
+            },
+            {
+                  "name": "Oom Samie se Winkel",
+                  "text": "Dieser berühmte Handelsposten im viktorianischen Stil in Stellenbosch wurde 1904 gegründet und bietet eine nostalgische Auswahl an Kuriositäten, Antiquitäten und lokalen Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        18.8558,
+                        -33.939547
+                  ]
+            },
+            {
+                  "name": "Van der Stel Liquor Shop",
+                  "text": "Ein monumentales, historisches Spirituosengeschäft in Stellenbosch, das das langjährige Weinbauerbe und die Brandy-Produktion der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        18.861018,
+                        -33.936151
+                  ]
+            },
+            {
+                  "name": "Rupert Museum",
+                  "text": "Dieses herausragende Kunstmuseum in Stellenbosch präsentiert eine beeindruckende erstklassige Sammlung südafrikanischer zeitgenössischer Kunst des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        18.849815,
+                        -33.941834
+                  ]
+            },
+            {
+                  "name": "Adam Small",
+                  "text": "Benannt nach dem gefeierten südafrikanischen Schriftsteller, inszeniert dieser moderne Theaterkomplex in Stellenbosch dynamische Drama- und Musikproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.860979,
+                        -33.933909
+                  ]
+            },
+            {
+                  "name": "Stellenbosch University Museum",
+                  "text": "Dieses akademische Museum auf dem Campus bewahrt umfassende anthropologische Artefakte und kulturelle Kunstsammlungen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.863014,
+                        -33.93526
+                  ]
+            },
+            {
+                  "name": "Stellenbosch Botanical Garden",
+                  "text": "Dieser historische botanische Garten der Universität in Stellenbosch besticht durch hoch aufragende Bäume, seltene Sukkulenten und eine vielfältige einheimische Flora.",
+                  "category": "park",
+                  "coords": [
+                        18.864903,
+                        -33.936186
+                  ]
+            },
+            {
+                  "name": "Moedergemeente",
+                  "text": "Diese historische niederländisch-reformierte Kirche in Stellenbosch wurde 1686 gegründet und verfügt über eine markante weiße Fassade und aufwendige Holzbänke.",
+                  "category": "religious",
+                  "coords": [
+                        18.864183,
+                        -33.937664
+                  ]
+            },
+            {
+                  "name": "Village Museum",
+                  "text": "Dieser Freilichtmuseumskomplex in Stellenbosch umfasst vier sorgfältig restaurierte historische Häuser, von denen jedes so eingerichtet ist, dass es eine andere Ära der Stadtentwicklung repräsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.86316,
+                        -33.93737
+                  ]
+            },
+            {
+                  "name": "Oude Libertas Amphitheatre",
+                  "text": "Inmitten alter Eichen gelegen, veranstaltet dieses malerische Freilicht-Amphitheater in Stellenbosch bezaubernde Sommerkonzerte und Theateraufführungen unter dem Sternenhimmel.",
+                  "category": "cultural",
+                  "coords": [
+                        18.839489,
+                        -33.940277
+                  ]
+            },
+            {
+                  "name": "Jan Marais Nature Reserve",
+                  "text": "Dieser städtische Park und das Naturschutzgebiet in Stellenbosch bieten ruhige Wanderwege durch eine lebendige Vielfalt von einheimischem Fynbos und Wildblumengärten.",
+                  "category": "park",
+                  "coords": [
+                        18.876261,
+                        -33.932704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drostdy Theatre",
+                  "text": "Ez a hangulatos stellenboschi színház rendszeresen ad otthont helyi színházi produkcióknak és zenei előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858807,
+                        -33.935825
+                  ]
+            },
+            {
+                  "name": "Ilse Schermers Art Gallery",
+                  "text": "Egy elkötelezett galéria Stellenboschban, amely feltörekvő dél-afrikai művészek kortárs vizuális alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        18.859862,
+                        -33.938759
+                  ]
+            },
+            {
+                  "name": "PJ Olivier Art Centre",
+                  "text": "Ez a stellenboschi dedikált művészeti központ kreatív oktatást és élénk kiállítótereket biztosít a feltörekvő fiatal művészek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858154,
+                        -33.937705
+                  ]
+            },
+            {
+                  "name": "Voorgelegen",
+                  "text": "Ez a történelmi stellenboschi múzeumi ingatlan gyönyörűen megőrzött építészettel és a város gyarmati múltját tükröző korabeli szobákkal büszkélkedhet.",
+                  "category": "museum",
+                  "coords": [
+                        18.858113,
+                        -33.939008
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "Nosztalgikus múzeum Stellenboschban, amely finom vintage játékok, miniatűr autók és antik babák kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.857079,
+                        -33.937768
+                  ]
+            },
+            {
+                  "name": "Oom Samie se Winkel",
+                  "text": "Az 1904-ben alapított, híres viktoriánus stílusú stellenboschi kereskedőállomás kuriozumok, régiségek és helyi áruk nosztalgikus választékát kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        18.8558,
+                        -33.939547
+                  ]
+            },
+            {
+                  "name": "Van der Stel Liquor Shop",
+                  "text": "Egy monumentális történelmi italbolt Stellenboschban, amely a régió régóta fennálló borászati örökségét és pálinkakészítését tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        18.861018,
+                        -33.936151
+                  ]
+            },
+            {
+                  "name": "Rupert Museum",
+                  "text": "Ez a kiemelkedő stellenboschi művészeti múzeum a 20. századi dél-afrikai kortárs művészet lenyűgöző elsőrangú gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.849815,
+                        -33.941834
+                  ]
+            },
+            {
+                  "name": "Adam Small",
+                  "text": "Az elismert dél-afrikai íróról elnevezett modern stellenboschi színházi komplexum dinamikus drámai és zenei produkciókat visz színre.",
+                  "category": "cultural",
+                  "coords": [
+                        18.860979,
+                        -33.933909
+                  ]
+            },
+            {
+                  "name": "Stellenbosch University Museum",
+                  "text": "A kampuszon található egyetemi múzeum átfogó antropológiai tárgyakat és a régió kulturális művészeti gyűjteményeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        18.863014,
+                        -33.93526
+                  ]
+            },
+            {
+                  "name": "Stellenbosch Botanical Garden",
+                  "text": "A stellenboschi egyetem ezen történelmi botanikus kertje magas fákkal, ritka pozsgás növényekkel és változatos őshonos növényvilággal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        18.864903,
+                        -33.936186
+                  ]
+            },
+            {
+                  "name": "Moedergemeente",
+                  "text": "Az 1686-ban alapított történelmi holland református templom Stellenboschban feltűnő fehér homlokzattal és bonyolult fapadokkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        18.864183,
+                        -33.937664
+                  ]
+            },
+            {
+                  "name": "Village Museum",
+                  "text": "Ez a stellenboschi szabadtéri múzeumkomplexum négy gondosan felújított történelmi házat mutat be, amelyek mindegyike a város fejlődésének más-más korszakát képviseli.",
+                  "category": "museum",
+                  "coords": [
+                        18.86316,
+                        -33.93737
+                  ]
+            },
+            {
+                  "name": "Oude Libertas Amphitheatre",
+                  "text": "Az ősi tölgyfák között elhelyezkedő festői, szabadtéri stellenboschi amfiteátrum varázslatos nyári koncerteknek és színházi előadásoknak ad otthont a csillagos ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.839489,
+                        -33.940277
+                  ]
+            },
+            {
+                  "name": "Jan Marais Nature Reserve",
+                  "text": "Ez a stellenboschi városi park és természetvédelmi terület békés sétautakat kínál az őshonos fynbos és vadvirágos kertek élénk pompáján keresztül.",
+                  "category": "park",
+                  "coords": [
+                        18.876261,
+                        -33.932704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drostdy Theatre",
+                  "text": "Acest teatru intim de artă a spectacolului din Stellenbosch găzduiește cu regularitate producții teatrale locale și spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858807,
+                        -33.935825
+                  ]
+            },
+            {
+                  "name": "Ilse Schermers Art Gallery",
+                  "text": "Un spațiu de galerie dedicat din Stellenbosch, care expune opere de artă vizuală contemporană ale artiștilor sud-africani emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        18.859862,
+                        -33.938759
+                  ]
+            },
+            {
+                  "name": "PJ Olivier Art Centre",
+                  "text": "Acest centru de artă dedicat din Stellenbosch oferă educație creativă și spații de expoziție pline de viață pentru tinerii artiști aspiranți.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858154,
+                        -33.937705
+                  ]
+            },
+            {
+                  "name": "Voorgelegen",
+                  "text": "Această proprietate istorică a muzeului din Stellenbosch prezintă o arhitectură frumos conservată și camere de epocă care reflectă trecutul colonial al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        18.858113,
+                        -33.939008
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "Un muzeu nostalgic din Stellenbosch care adăpostește o colecție vastă de jucării de epocă delicate, mașini în miniatură și păpuși antice.",
+                  "category": "museum",
+                  "coords": [
+                        18.857079,
+                        -33.937768
+                  ]
+            },
+            {
+                  "name": "Oom Samie se Winkel",
+                  "text": "Înființat în 1904, acest faimos punct de comerț în stil victorian din Stellenbosch oferă o gamă nostalgică de curiozități, antichități și bunuri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        18.8558,
+                        -33.939547
+                  ]
+            },
+            {
+                  "name": "Van der Stel Liquor Shop",
+                  "text": "Un magazin istoric monumental de băuturi alcoolice din Stellenbosch, care reflectă patrimoniul viticol de lungă durată și producția de brandy a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        18.861018,
+                        -33.936151
+                  ]
+            },
+            {
+                  "name": "Rupert Museum",
+                  "text": "Acest proeminent muzeu de artă din Stellenbosch prezintă o impresionantă colecție de primă clasă de artă contemporană sud-africană din secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        18.849815,
+                        -33.941834
+                  ]
+            },
+            {
+                  "name": "Adam Small",
+                  "text": "Numit după apreciatul scriitor sud-african, acest complex teatral modern din Stellenbosch pune în scenă drame dinamice și producții muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.860979,
+                        -33.933909
+                  ]
+            },
+            {
+                  "name": "Stellenbosch University Museum",
+                  "text": "Situat în campus, acest muzeu academic păstrează artefacte antropologice cuprinzătoare și colecții de artă culturală ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.863014,
+                        -33.93526
+                  ]
+            },
+            {
+                  "name": "Stellenbosch Botanical Garden",
+                  "text": "Această grădină botanică istorică a universității din Stellenbosch are copaci falnici, suculente rare și o floră indigenă diversă.",
+                  "category": "park",
+                  "coords": [
+                        18.864903,
+                        -33.936186
+                  ]
+            },
+            {
+                  "name": "Moedergemeente",
+                  "text": "Înființată în 1686, această biserică istorică reformată olandeză din Stellenbosch prezintă o fațadă albă uimitoare și bănci din lemn sculptate complex.",
+                  "category": "religious",
+                  "coords": [
+                        18.864183,
+                        -33.937664
+                  ]
+            },
+            {
+                  "name": "Village Museum",
+                  "text": "Acest complex muzeal în aer liber din Stellenbosch prezintă patru case istorice atent restaurate, fiecare mobilată pentru a reprezenta o epocă diferită a dezvoltării orașului.",
+                  "category": "museum",
+                  "coords": [
+                        18.86316,
+                        -33.93737
+                  ]
+            },
+            {
+                  "name": "Oude Libertas Amphitheatre",
+                  "text": "Situat printre stejari seculari, acest amfiteatru pitoresc în aer liber din Stellenbosch găzduiește concerte de vară încântătoare și spectacole de teatru sub stele.",
+                  "category": "cultural",
+                  "coords": [
+                        18.839489,
+                        -33.940277
+                  ]
+            },
+            {
+                  "name": "Jan Marais Nature Reserve",
+                  "text": "Acest parc urban și rezervație naturală din Stellenbosch oferă alei de plimbare liniștite printr-o expoziție vibrantă de fynbos indigen și grădini cu flori sălbatice.",
+                  "category": "park",
+                  "coords": [
+                        18.876261,
+                        -33.932704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drostdy Theatre",
+                  "text": "This intimate performing arts theatre in Stellenbosch regularly hosts local theatrical productions and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858807,
+                        -33.935825
+                  ]
+            },
+            {
+                  "name": "Ilse Schermers Art Gallery",
+                  "text": "A dedicated gallery space in Stellenbosch exhibiting contemporary visual artworks by emerging South African artists.",
+                  "category": "museum",
+                  "coords": [
+                        18.859862,
+                        -33.938759
+                  ]
+            },
+            {
+                  "name": "PJ Olivier Art Centre",
+                  "text": "This dedicated arts centre in Stellenbosch provides creative education and lively exhibition spaces for aspiring young artists.",
+                  "category": "cultural",
+                  "coords": [
+                        18.858154,
+                        -33.937705
+                  ]
+            },
+            {
+                  "name": "Voorgelegen",
+                  "text": "This historic museum property in Stellenbosch features beautifully preserved architecture and period rooms reflecting the town's colonial past.",
+                  "category": "museum",
+                  "coords": [
+                        18.858113,
+                        -33.939008
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "A nostalgic museum in Stellenbosch housing an extensive collection of delicate vintage toys, miniature cars, and antique dolls.",
+                  "category": "museum",
+                  "coords": [
+                        18.857079,
+                        -33.937768
+                  ]
+            },
+            {
+                  "name": "Oom Samie se Winkel",
+                  "text": "Established in 1904, this famous Victorian-style trading post in Stellenbosch offers a nostalgic array of curios, antiques, and local goods.",
+                  "category": "landmark",
+                  "coords": [
+                        18.8558,
+                        -33.939547
+                  ]
+            },
+            {
+                  "name": "Van der Stel Liquor Shop",
+                  "text": "A monumental historic liquor shop in Stellenbosch that reflects the region's long-standing viticultural heritage and brandy production.",
+                  "category": "historical",
+                  "coords": [
+                        18.861018,
+                        -33.936151
+                  ]
+            },
+            {
+                  "name": "Rupert Museum",
+                  "text": "This prominent art museum in Stellenbosch showcases an impressive premier collection of 20th-century South African contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        18.849815,
+                        -33.941834
+                  ]
+            },
+            {
+                  "name": "Adam Small",
+                  "text": "Named after the acclaimed South African writer, this modern Stellenbosch theatre complex stages dynamic drama and musical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        18.860979,
+                        -33.933909
+                  ]
+            },
+            {
+                  "name": "Stellenbosch University Museum",
+                  "text": "Located on the campus, this academic museum preserves comprehensive anthropological artifacts and cultural art collections of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.863014,
+                        -33.93526
+                  ]
+            },
+            {
+                  "name": "Stellenbosch Botanical Garden",
+                  "text": "This historic university botanical garden in Stellenbosch features towering trees, rare succulents, and diverse indigenous flora.",
+                  "category": "park",
+                  "coords": [
+                        18.864903,
+                        -33.936186
+                  ]
+            },
+            {
+                  "name": "Moedergemeente",
+                  "text": "Established in 1686, this historic Dutch Reformed church in Stellenbosch features a striking white facade and intricate wooden pews.",
+                  "category": "religious",
+                  "coords": [
+                        18.864183,
+                        -33.937664
+                  ]
+            },
+            {
+                  "name": "Village Museum",
+                  "text": "This open-air museum complex in Stellenbosch features four carefully restored historic houses, each furnished to represent a different era of the town's development.",
+                  "category": "museum",
+                  "coords": [
+                        18.86316,
+                        -33.93737
+                  ]
+            },
+            {
+                  "name": "Oude Libertas Amphitheatre",
+                  "text": "Set amidst ancient oak trees, this scenic open-air amphitheatre in Stellenbosch hosts enchanting summer concerts and theatrical performances under the stars.",
+                  "category": "cultural",
+                  "coords": [
+                        18.839489,
+                        -33.940277
+                  ]
+            },
+            {
+                  "name": "Jan Marais Nature Reserve",
+                  "text": "This urban park and nature reserve in Stellenbosch offers peaceful walking paths through a vibrant display of indigenous fynbos and wildflower gardens.",
+                  "category": "park",
+                  "coords": [
+                        18.876261,
+                        -33.932704
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-WC",
     coords: [18.8602, -33.9321],
@@ -4868,7 +8063,88 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-beaufort-west-cities-v2",
+    id: "southafrica-beaufort-west-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beaufort West Museum",
+                  "text": "Dieses 1939 gegründete lokale Museum bewahrt und präsentiert die Geschichte von Beaufort West.",
+                  "category": "museum",
+                  "coords": [
+                        22.583031,
+                        -32.350502
+                  ]
+            },
+            {
+                  "name": "Beaufort West Blockhouse",
+                  "text": "Ein historisches defensives Blockhaus-Fort in der Stadt Beaufort West.",
+                  "category": "fortress",
+                  "coords": [
+                        22.577481,
+                        -32.345407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beaufort West Museum",
+                  "text": "Az 1939-ben alapított helyi múzeum Beaufort West történelmét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.583031,
+                        -32.350502
+                  ]
+            },
+            {
+                  "name": "Beaufort West Blockhouse",
+                  "text": "Történelmi védelmi blokkház erődítmény Beaufort West városában.",
+                  "category": "fortress",
+                  "coords": [
+                        22.577481,
+                        -32.345407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beaufort West Museum",
+                  "text": "Înființat în 1939, acest muzeu local păstrează și expune istoria orașului Beaufort West.",
+                  "category": "museum",
+                  "coords": [
+                        22.583031,
+                        -32.350502
+                  ]
+            },
+            {
+                  "name": "Beaufort West Blockhouse",
+                  "text": "O structură istorică a unui fort de apărare tip blockhouse situat în orașul Beaufort West.",
+                  "category": "fortress",
+                  "coords": [
+                        22.577481,
+                        -32.345407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beaufort West Museum",
+                  "text": "Established in 1939, this local museum preserves and exhibits the history of Beaufort West.",
+                  "category": "museum",
+                  "coords": [
+                        22.583031,
+                        -32.350502
+                  ]
+            },
+            {
+                  "name": "Beaufort West Blockhouse",
+                  "text": "A historic defensive blockhouse fort structure located in the town of Beaufort West.",
+                  "category": "fortress",
+                  "coords": [
+                        22.577481,
+                        -32.345407
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-WC",
     coords: [22.5833, -32.35],
@@ -5239,7 +8515,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cape St Blaize",
-                  "text": "Cape St Blaize ist ein historischer Leuchtturm in Mossel Bay.",
+                  "text": "Leuchtturm Cape St. Blaize in Mossel Bay, erbaut 1864.",
                   "category": "landmark",
                   "coords": [
                         22.156373,
@@ -5340,7 +8616,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cape St Blaize",
-                  "text": "A Cape St Blaize egy történelmi világítótorony Mossel Bay városában.",
+                  "text": "Cape St. Blaize világítótorony Mossel Bayben, 1864-ben épült.",
                   "category": "landmark",
                   "coords": [
                         22.156373,
@@ -5441,7 +8717,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cape St Blaize",
-                  "text": "Cape St Blaize este un far istoric situat în Mossel Bay.",
+                  "text": "Farul Cape St. Blaize din Mossel Bay, construit în 1864.",
                   "category": "landmark",
                   "coords": [
                         22.156373,
@@ -5542,7 +8818,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cape St Blaize",
-                  "text": "Cape St Blaize is a historic lighthouse located in Mossel Bay.",
+                  "text": "Cape St. Blaize Lighthouse in Mossel Bay, built in 1864.",
                   "category": "landmark",
                   "coords": [
                         22.156373,
@@ -6806,7 +10082,88 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-bethlehem-cities-v2",
+    id: "southafrica-bethlehem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bethlehem Museum Trust",
+                  "text": "Dieses heimatgeschichtliche Museum in Bethlehem bewahrt kulturelle Artefakte und landwirtschaftliche Geräte, die das Pioniererbe der Stadt detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        28.315391,
+                        -28.231455
+                  ]
+            },
+            {
+                  "name": "Pretorius Kloof",
+                  "text": "Dieser ruhige Stadtpark in Bethlehem verfügt über einen schattigen Wanderweg, der dem gewundenen Lauf des Jordaan-Flusses folgt.",
+                  "category": "park",
+                  "coords": [
+                        28.312215,
+                        -28.242441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bethlehem Museum Trust",
+                  "text": "Ez a bethlehemi helytörténeti múzeum kulturális tárgyakat és mezőgazdasági berendezéseket őriz, amelyek bemutatják a város úttörő örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        28.315391,
+                        -28.231455
+                  ]
+            },
+            {
+                  "name": "Pretorius Kloof",
+                  "text": "Ebben a csendes bethlehemi városi parkban egy árnyékos sétaútvonal található, amely a Jordaan folyó kanyargós útját követi.",
+                  "category": "park",
+                  "coords": [
+                        28.312215,
+                        -28.242441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bethlehem Museum Trust",
+                  "text": "Acest muzeu de istorie locală din Bethlehem păstrează artefacte culturale și echipamente agricole care detaliază moștenirea de pionierat a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        28.315391,
+                        -28.231455
+                  ]
+            },
+            {
+                  "name": "Pretorius Kloof",
+                  "text": "Acest parc urban liniștit din Bethlehem prezintă un traseu de plimbare umbrit, care urmează cursul șerpuitor al râului Jordaan.",
+                  "category": "park",
+                  "coords": [
+                        28.312215,
+                        -28.242441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bethlehem Museum Trust",
+                  "text": "This local history museum in Bethlehem preserves cultural artifacts and agricultural equipment detailing the town's pioneering heritage.",
+                  "category": "museum",
+                  "coords": [
+                        28.315391,
+                        -28.231455
+                  ]
+            },
+            {
+                  "name": "Pretorius Kloof",
+                  "text": "This tranquil urban park in Bethlehem features a shaded walking trail following the winding path of the Jordaan River.",
+                  "category": "park",
+                  "coords": [
+                        28.312215,
+                        -28.242441
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-FS",
     coords: [28.31, -28.2308],
@@ -7241,7 +10598,52 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-ladysmith-cities-v2",
+    id: "southafrica-ladysmith-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ladysmith Siege Museum",
+                  "text": "Ein historisches Museum, das die zermürbende 118-tägige Belagerung der Stadt während des Anglo-Buren-Krieges detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        29.780789,
+                        -28.559096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ladysmith Siege Museum",
+                  "text": "Történelmi múzeum, amely a város az angol-búr háború alatti fárasztó 118 napos ostromát részletezi.",
+                  "category": "museum",
+                  "coords": [
+                        29.780789,
+                        -28.559096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ladysmith Siege Museum",
+                  "text": "Un muzeu istoric care detaliază asediul obositor de 118 zile al orașului în timpul Războiului Anglo-Bur.",
+                  "category": "museum",
+                  "coords": [
+                        29.780789,
+                        -28.559096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ladysmith Siege Museum",
+                  "text": "A historical museum detailing the grueling 118-day siege of the city during the Anglo-Boer War.",
+                  "category": "museum",
+                  "coords": [
+                        29.780789,
+                        -28.559096
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-NL",
     coords: [29.7825, -28.558],

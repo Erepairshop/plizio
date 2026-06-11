@@ -12,7 +12,124 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       hu: ["Abuja népessége mára meghaladja a 3 millió főt a vonzáskörzettel együtt.", "A város hét kerületre (Districts) van osztva, mint Maitama vagy Asokoro.", "A Zuma-szikla Nigéria 100 nairás bankjegyén is szerepel.", "Abuja klímája trópusi nedves és száraz, áprilistól októberig tartó esővel.", "Az Abuja Light Rail az első ilyen típusú hálózat Nyugat-Afrikában.", "A város tengerszint feletti magassága 360 és 625 méter között változik.", "Itt található a Nemzeti Stadion, amely 60 000 néző befogadására alkalmas.", "A kormányzati negyedet 'Three Arms Zone'-nak nevezik."],
       ro: ["Abuja acoperă o suprafață de aproximativ 7.315 km pătrați (FCT).", "Aso Rock înseamnă 'Victorios' în limba poporului Gbagyi.", "Marea Moschee Națională are patru minarete de 120 de metri înălțime.", "Centrul Creștin Național a fost finalizat în 2005.", "Orașul este gazda celebrului festival de carnaval Abuja Carnival.", "Temperatura medie în timpul zilei este de 28-30 de grade Celsius.", "Gwarinpa Estate este considerat cel mai mare proiect rezidențial din Africa.", "Abuja este conectată prin tren de mare viteză cu orașul Kaduna."],
       en: ["The decision to move the capital from Lagos was made by General Murtala Mohammed.", "Abuja is located at the confluence of the Niger and Benue river regions.", "The city's design includes an inner and outer ring road system.", "Home to the Ship House, the headquarters of the Nigerian Ministry of Defence.", "The Aso Rock is the largest rock formation in the city's vicinity.", "Abuja is considered the fastest-growing city in Africa by some estimates.", "The city's Central Business District contains the National Library.", "International summits such as CHOGM have been hosted in Abuja."],
-    }, image: "/poi-images/ng-abuja-cities-v2.webp"},   {     id: "ng-lagos-ikeja-cities-v2",     type: "state-capital",     parent: "NG-LA",     coords: [3.3396, 6.6018],     name: { de: "Ikeja", hu: "Ikeja", ro: "Ikeja", en: "Ikeja"},
+    }, image: "/poi-images/ng-abuja-cities-v2.webp"},   {     id: "ng-lagos-ikeja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aircraft",
+                  "text": "Das Aircraft-Museum in Ikeja, Lagos, präsentiert ausgemusterte Flugzeuge und Exponate, die die Luftfahrtgeschichte Nigerias veranschaulichen.",
+                  "category": "museum",
+                  "coords": [
+                        3.333805,
+                        6.589127
+                  ]
+            },
+            {
+                  "name": "Lasu Museum",
+                  "text": "Das Lasu Museum in Lagos beherbergt akademische und historische Sammlungen, die eng mit dem Erbe der Lagos State University verbunden sind.",
+                  "category": "museum",
+                  "coords": [
+                        3.330284,
+                        6.62895
+                  ]
+            },
+            {
+                  "name": "New Afrika Shrine",
+                  "text": "Der New Afrika Shrine in Ikeja ist ein ikonisches Open-Air-Unterhaltungszentrum, das das musikalische Erbe des Afrobeat-Pioniers Fela Kuti feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        3.356883,
+                        6.62286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aircraft",
+                  "text": "A lagosi Ikeja városrészben található Aircraft múzeum leselejtezett repülőgépeket mutat be, amelyek Nigéria repüléstörténetét szemléltetik.",
+                  "category": "museum",
+                  "coords": [
+                        3.333805,
+                        6.589127
+                  ]
+            },
+            {
+                  "name": "Lasu Museum",
+                  "text": "A lagosi Lasu Múzeum tudományos és történelmi gyűjteményeknek ad otthont, amelyek szorosan kötődnek a Lagosi Állami Egyetem örökségéhez.",
+                  "category": "museum",
+                  "coords": [
+                        3.330284,
+                        6.62895
+                  ]
+            },
+            {
+                  "name": "New Afrika Shrine",
+                  "text": "Az ikejai New Afrika Shrine egy ikonikus szabadtéri szórakoztatóközpont, amely az afrobeat úttörője, Fela Kuti örökségét ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        3.356883,
+                        6.62286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aircraft",
+                  "text": "Muzeul Aircraft din Ikeja, Lagos, prezintă avioane scoase din uz, ilustrând istoria aeronautică a Nigeriei.",
+                  "category": "museum",
+                  "coords": [
+                        3.333805,
+                        6.589127
+                  ]
+            },
+            {
+                  "name": "Lasu Museum",
+                  "text": "Muzeul Lasu din Lagos găzduiește colecții academice și istorice strâns legate de moștenirea Universității de Stat din Lagos.",
+                  "category": "museum",
+                  "coords": [
+                        3.330284,
+                        6.62895
+                  ]
+            },
+            {
+                  "name": "New Afrika Shrine",
+                  "text": "New Afrika Shrine din Ikeja este un centru de divertisment emblematic în aer liber, care celebrează moștenirea pionierului muzicii afrobeat, Fela Kuti.",
+                  "category": "landmark",
+                  "coords": [
+                        3.356883,
+                        6.62286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aircraft",
+                  "text": "The Aircraft museum in Ikeja, Lagos features decommissioned aviation displays showcasing Nigeria's aeronautical history.",
+                  "category": "museum",
+                  "coords": [
+                        3.333805,
+                        6.589127
+                  ]
+            },
+            {
+                  "name": "Lasu Museum",
+                  "text": "The Lasu Museum in Lagos houses academic and historical collections closely tied to the Lagos State University's heritage.",
+                  "category": "museum",
+                  "coords": [
+                        3.330284,
+                        6.62895
+                  ]
+            },
+            {
+                  "name": "New Afrika Shrine",
+                  "text": "The New Afrika Shrine in Ikeja is an iconic open-air entertainment center celebrating the legacy of Afrobeat pioneer Fela Kuti.",
+                  "category": "landmark",
+                  "coords": [
+                        3.356883,
+                        6.62286
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-LA",     coords: [3.3396, 6.6018],     name: { de: "Ikeja", hu: "Ikeja", ro: "Ikeja", en: "Ikeja"},
     image: "/poi-images/ng-lagos-ikeja-cities-v2.webp",     description: {       de: "Ikeja ist die Hauptstadt des Bundesstaates Lagos und beherbergt den geschäftigen Murtala-Muhammed-Flughafen.",       hu: "Ikeja Lagos állam fővárosa, ahol a forgalmas Murtala Muhammed repülőtér is található.",       ro: "Ikeja este capitala statului Lagos, găzduind aglomeratul aeroport Murtala Muhammed.",       en: "Ikeja is the capital of Lagos State, home to the bustling Murtala Muhammed Airport."     , es: "Ikeja es la capital del estado de Lagos y alberga el concurrido Aeropuerto Murtala Muhammed.", pt: "Ikeja é a capital do estado de Lagos e abriga o movimentado Aeroporto Murtala Muhammed.", fr: "Ikeja est la capitale de l'État de Lagos et abrite l'aéroport animé Murtala-Muhammed."},     facts: {       de: ["Wichtiges Industriezentrum.", "Berühmt für das Computer Village."],       hu: ["Jelentős ipari központ.", "Híres a Computer Village nevű tech piacról."],       ro: ["Centru industrial major.", "Renumit pentru Computer Village."],       en: ["Major industrial hub.", "Famous for the Computer Village tech market."]     , es: ["Importante centro industrial.", "Famosa por el Computer Village."], pt: ["Importante centro industrial.", "Famosa pela Computer Village."], fr: ["Centre industriel important.", "Célèbre pour le Computer Village."]},
     descriptionAdvanced: {
       de: "Ikeja, die offizielle Hauptstadt des Bundesstaates Lagos, ist weit mehr als nur ein administrativer Vorort der riesigen Metropole Lagos; sie bildet das industrielle und logistische Rückgrat der bevölkerungsreichsten Region Nigerias. Ursprünglich als ländliche Siedlung des Awori-Stammes der Yoruba gegründet, hat sich Ikeja im Laufe des 20. Jahrhunderts zu einem hochmodernen städtischen Zentrum entwickelt. Die Stadt beherbergt den Murtala Muhammed International Airport, den wichtigsten Luftverkehrsknotenpunkt Westafrikas, der Ikeja eine unmittelbare globale Anbindung verleiht und die lokale Wirtschaft massiv prägt. Wirtschaftlich ist Ikeja ein Gigant: Das Ikeja Industrial Estate ist Sitz zahlreicher nationaler und multinationaler Unternehmen, deren Spektrum von der Textilproduktion bis hin zur Pharmazie reicht. Ein besonderes technologisches Highlight ist das weltberühmte Computer Village im Viertel Otigba, das als größter Marktplatz für Technologie und Mobilkommunikation in ganz Afrika gilt und täglich zehntausende Besucher anzieht. Als Regierungssitz beherbergt Ikeja das Alausa-Viertel, in dem sich das State House, das Parlament und die Ministerien in einer modernen, parkähnlichen Umgebung befinden. Kulturell bietet die Stadt eine lebendige Szene, die untrennbar mit dem Erbe von Fela Kuti verknüpft ist; der New Afrika Shrine ist ein global bekannter Ort für Musik, Politik und sozialen Aktivismus. Trotz der intensiven Urbanisierung und der hohen Bevölkerungsdichte gibt es in Ikeja auch exklusive Wohngebiete wie die Ikeja Government Reserved Area (GRA), die durch schattige Alleen und großzügige Grundstücke besticht. Die Stadt steht als Symbol für Nigerias urbanen Fortschritt, kämpft jedoch auch mit den Herausforderungen einer Megastadt, wie Verkehrsüberlastung und dem Bedarf an ständiger Erneuerung der Infrastruktur. Dennoch bleibt Ikeja der unverzichtbare Motor, der die wirtschaftliche Dynamik des gesamten Bundesstaates Lagos antreibt.",
@@ -25,7 +142,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       hu: ["Ikeja 1976 óta Lagos állam fővárosa, átvéve ezt a szerepet a tengerparti Lagos szigettől.", "Itt található a Murtala Muhammed Nemzetközi Repülőtér, amely Nigéria legfontosabb légiközlekedési kapuja.", "A városrészben működő Computer Village a kontinens legnagyobb IT-piaca, ahol naponta több millió dollár értékű áru cserél gazdát.", "Az Alausa kormányzati negyed ad otthont az állami parlamentnek és a kormányzó hivatalának.", "A New Afrika Shrine zenei klub Ikeja egyik leghíresebb kulturális látványossága, a modern afrikai zene zarándokhelye.", "A város eredeti lakói az Awori jorubák voltak, akiknek kulturális hatása ma is érezhető a helyi szokásokban.", "Ikeja ipari parkjai felelősek a nigériai feldolgozóipar jelentős részéért, különösen az élelmiszer- és textilágazatban.", "A lagosi gyorsvasút (Blue and Red Line) fontos állomása Ikeja, amely alapvetően javítja a metropolisz közlekedését."],
       ro: ["Ikeja a fost desemnată capitală a statului Lagos în 1976, separând funcția administrativă de cea comercială a portului Lagos.", "Aeroportul Internațional Murtala Muhammed din Ikeja gestionează peste 80% din traficul aerian internațional al Nigeriei.", "Districtul Otigba găzduiește Computer Village, un hub tehnologic care atrage mii de experți IT și comercianți zilnic.", "New Afrika Shrine, situat în inima orașului, este centrul mondial al muzicii Afrobeat și un loc de pelerinaj cultural.", "Alausa este centrul administrativ planificat unde se află Secretariatul de Stat și Parlamentul regional.", "Orașul a început ca o mică așezare a tribului Awori, care se ocupa inițial cu agricultura înainte de boom-ul industrial.", "Ikeja are cea mai mare densitate de centre comerciale moderne și hoteluri internaționale din afara insulelor Lagos.", "Zona GRA (Government Reserved Area) păstrează structura urbană din epoca colonială, cu străzi largi și multă vegetație."],
       en: ["Ikeja became the capital of Lagos State in 1976, facilitating the decentralization of administrative functions from Lagos Island.", "Murtala Muhammed International Airport in Ikeja is the busiest air hub in West Africa by both passenger and cargo volume.", "Computer Village is recognized as the largest ICT market in Africa, significantly contributing to the local informal economy.", "The New Afrika Shrine is a world-famous cultural center in Ikeja, carrying on the legacy of musician and activist Fela Kuti.", "Alausa serves as the primary administrative district, housing the Lagos State Governor's Office and the House of Assembly.", "The city was originally settled by the Awori people, a subgroup of the Yoruba known for their unique dialect and traditions.", "Ikeja Industrial Estate is one of the oldest and most successful industrial clusters in Nigeria, hosting diverse manufacturing firms.", "The recent completion of the Ikeja Mega Bus Terminal has transformed it into a world-class multimodal transportation center."],
-    }, image: "/poi-images/ng-lagos-ikeja-cities-v2.webp"},   {     id: "ng-lagos-city-cities-v2",     type: "city",     parent: "NG-LA",     coords: [3.3792, 6.5244],     name: { de: "Lagos", hu: "Lagos", ro: "Lagos", en: "Lagos"},
+    }, image: "/poi-images/ng-lagos-ikeja-cities-v2.webp"},   {     id: "ng-lagos-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lagoon Front Resort",
+                  "text": "Direkt an den Gewässern der Lagune von Lagos gelegen, bietet dieses Küstenresort malerische Ausblicke auf das Wasser und einen ruhigen Rückzugsort am Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        3.400993,
+                        6.519273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lagoon Front Resort",
+                  "text": "Közvetlenül a lagosi lagúna vizénél fekvő tengerparti üdülőhely festői vízi kilátást és nyugodt vízparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        3.400993,
+                        6.519273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lagoon Front Resort",
+                  "text": "Situată chiar pe apele Lagunei Lagos, această stațiune de coastă oferă vederi acvatice pitorești și o evadare liniștită pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        3.400993,
+                        6.519273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lagoon Front Resort",
+                  "text": "Set directly on the waters of the Lagos Lagoon, this coastal resort offers scenic aquatic views and a tranquil waterfront escape.",
+                  "category": "recreational",
+                  "coords": [
+                        3.400993,
+                        6.519273
+                  ]
+            }
+      ]
+},     type: "city",     parent: "NG-LA",     coords: [3.3792, 6.5244],     name: { de: "Lagos", hu: "Lagos", ro: "Lagos", en: "Lagos"},
     image: "/poi-images/ng-lagos-city-cities-v2.webp",     description: {       de: "Lagos ist die bevölkerungsreichste Stadt Nigerias und das größte finanzielle und wirtschaftliche Zentrum Westafrikas.",       hu: "Lagos Nigéria legnépesebb városa, valamint Nyugat-Afrika legnagyobb pénzügyi és gazdasági központja.",       ro: "Lagos este cel mai populat oraș din Nigeria și cel mai mare centru financiar din Africa de Vest.",       en: "Lagos is the most populous city in Nigeria and the largest financial and economic center in West Africa."     , es: "Lagos es la ciudad más poblada de Nigeria y el mayor centro financiero y económico de África Occidental.", pt: "Lagos é a cidade mais populosa da Nigéria e o maior centro financeiro e económico da África Ocidental.", fr: "Lagos est la ville la plus peuplée du Nigeria et le plus grand centre financier et économique d'Afrique de l'Ouest."},     facts: {       de: ["Ehemalige Hauptstadt Nigerias.", "Liegt an der Küste des Golfs von Guinea."],       hu: ["Nigéria egykori fővárosa.", "A Guineai-öböl partján fekszik."],       ro: ["Fosta capitală a Nigeriei.", "Situat pe coasta Golfului Guineei."],       en: ["Former capital of Nigeria.", "Located on the coast of the Gulf of Guinea."]     , es: ["Antigua capital de Nigeria.", "Situada en la costa del Golfo de Guinea."], pt: ["Antiga capital da Nigéria.", "Localizada na costa do Golfo da Guiné."], fr: ["Ancienne capitale du Nigeria.", "Située sur la côte du golfe de Guinée."]}, image: "/poi-images/ng-lagos-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Lagos ist die größte Stadt Nigerias und die bevölkerungsreichste Metropolregion auf dem afrikanischen Kontinent. Gelegen am Golf von Guinea, erstreckt sich die Stadt über ein komplexes System aus Inseln und dem Festland, die durch ein Netz von Brücken verbunden sind. Ursprünglich eine kleine Siedlung des Awori-Volkes namens Eko, entwickelte sich Lagos während der Kolonialzeit zum wichtigsten Hafen Westafrikas und war bis 1991 die Hauptstadt Nigerias. Heute ist die Stadt das unangefochtene wirtschaftliche Kraftzentrum des Landes, das den Großteil des nigerianischen Finanzsektors, der Unterhaltungsindustrie (Nollywood) und des Überseehandels beherbergt. Besonders markant ist das Kontrastprogramm zwischen den exklusiven Vierteln auf Victoria Island und Ikoyi sowie den dicht besiedelten Gebieten auf dem Festland. Lagos ist zudem ein kultureller Schmelztiegel, in dem Menschen aus allen Teilen Nigerias und Westafrikas zusammenkommen, was zu einer einzigartigen Dynamik und einer blühenden Kunstszene führt. Die Stadt kämpft jedoch mit massiven infrastrukturellen Problemen wie chronischen Verkehrsstaus und unzureichender Abwasserentsorgung.",
@@ -45,7 +207,88 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       pt: ["Mais de 15 milhões de habitantes na região metropolitana", "Antiga capital da Nigéria até 12/12/1991", "O porto de Apapa é um dos maiores da África Ocidental", "A Third Mainland Bridge tem 11,8 quilómetros de comprimento", "Fundada pela tribo Awori dos Iorubás", "Centro da indústria cinematográfica nigeriana Nollywood"],
       fr: ["Plus de 15 millions d'habitants dans la zone métropolitaine", "Ancienne capitale du Nigeria jusqu'au 12.12.1991", "Le port d'Apapa est l'un des plus grands d'Afrique de l'Ouest", "Le Third Mainland Bridge mesure 11,8 kilomètres de long", "Fondée par la tribu Awori des Yoruba", "Centre de l'industrie cinématographique nigériane Nollywood"],
     },
-  },   {     id: "ng-kano-city-cities-v2",     type: "state-capital",     parent: "NG-KN",     coords: [8.5167, 12.0022],     name: { de: "Kano-Stadt", hu: "Kano", ro: "Kano", en: "Kano"},
+  },   {     id: "ng-kano-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kofar Mazugal",
+                  "text": "Das historische Tor Kofar Mazugal ist ein erhaltener Teil der alten Stadtmauern von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.518049,
+                        12.015071
+                  ]
+            },
+            {
+                  "name": "Kofar Wambai",
+                  "text": "Kofar Wambai ist ein monumentales Tor, das in die historischen Stadtmauern von Kano integriert war.",
+                  "category": "historical",
+                  "coords": [
+                        8.521307,
+                        12.005703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kofar Mazugal",
+                  "text": "A Kofar Mazugal történelmi kapu Kano ősi városfalainak egyik fennmaradt része.",
+                  "category": "historical",
+                  "coords": [
+                        8.518049,
+                        12.015071
+                  ]
+            },
+            {
+                  "name": "Kofar Wambai",
+                  "text": "A Kofar Wambai egy monumentális kapu, amely Kano történelmi városfalaiba épült.",
+                  "category": "historical",
+                  "coords": [
+                        8.521307,
+                        12.005703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kofar Mazugal",
+                  "text": "Poarta istorică Kofar Mazugal este o parte conservată a vechilor ziduri ale orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.518049,
+                        12.015071
+                  ]
+            },
+            {
+                  "name": "Kofar Wambai",
+                  "text": "Kofar Wambai este o poartă monumentală integrată în vechile ziduri ale orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.521307,
+                        12.005703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kofar Mazugal",
+                  "text": "The historic Kofar Mazugal gate is a preserved section of the ancient Kano City Walls.",
+                  "category": "historical",
+                  "coords": [
+                        8.518049,
+                        12.015071
+                  ]
+            },
+            {
+                  "name": "Kofar Wambai",
+                  "text": "Kofar Wambai is a monumental gate built into the historic ancient Kano City Walls.",
+                  "category": "historical",
+                  "coords": [
+                        8.521307,
+                        12.005703
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-KN",     coords: [8.5167, 12.0022],     name: { de: "Kano-Stadt", hu: "Kano", ro: "Kano", en: "Kano"},
     image: "/poi-images/ng-kano-city-cities-v2.webp",     description: {       de: "Die Metropole Kano ist das historische Handelszentrum Nordnigerias mit jahrhundertealter Stadtmauer.",       hu: "A nagyvárosi Kano Észak-Nigéria történelmi kereskedelmi központja, évszázados városfalakkal.",       ro: "Metropola Kano este centrul comercial istoric din nordul Nigeriei, având ziduri de oraș vechi de secole.",       en: "The metropolis of Kano is the historical trading center of Northern Nigeria with centuries-old city walls."     , es: "La metrópolis de Kano es el centro comercial histórico del norte de Nigeria, con su muralla centenaria.", pt: "A metrópole de Kano é o centro comercial histórico do norte da Nigéria, com a sua muralha secular.", fr: "La métropole de Kano est le centre commercial historique du nord du Nigéria avec ses remparts séculaires."},     facts: {       de: ["Eines der ältesten Emirate.", "Zentrum der Leder- und Textilproduktion."],       hu: ["Az egyik legrégebbi emirátus.", "A bőr- és textilgyártás központja."],       ro: ["Unul dintre cele mai vechi emirate.", "Centru al producției de piele și textile."],       en: ["One of the oldest emirates.", "Center of leather and textile production."]     , es: ["Uno de los emiratos más antiguos.", "Centro de producción de cuero y textiles."], pt: ["Um dos emirados mais antigos.", "Centro de produção de couro e têxteis."], fr: ["L'un des plus anciens émirats.", "Centre de production de cuir et de textiles."]}, image: "/poi-images/ng-kano-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kano, die zweitgrößte Stadt Nigerias und Hauptstadt des gleichnamigen Bundesstaates, ist eine der ältesten kontinuierlich bewohnten Städte Subsahara-Afrikas mit einer Geschichte, die über tausend Jahre zurückreicht. Die Stadt war jahrhundertelang der wichtigste Endpunkt der Transsahara-Handelsrouten, wo Karawanen aus Nordafrika Gold, Salz und Elfenbein gegen lokale Textilien und Lederwaren tauschten. Das Herz der Altstadt wird von den antiken Stadtmauern (Kano City Walls) umschlossen, die einst einen Umfang von über 14 Kilometern hatten und als eines der beeindruckendsten Verteidigungsbauwerke des Kontinents galten. Der Gidan Rumfa, der Palast des Emirs von Kano, ist ein architektonisches Meisterwerk aus dem 15. Jahrhundert und dient noch heute als Residenz des traditionellen Herrschers. Ein weiteres kulturelles Highlight sind die Kurmi-Märkte, die zu den ältesten und größten Märkten Westafrikas gehören und in denen noch heute das traditionelle Handwerk floriert. Besonders berühmt sind die Kofar Mata Dye Pits, wo Stoffe seit über 500 Jahren mit Indigo in tiefem Blau gefärbt werden. Geografisch liegt Kano in einer weiten Savannenlandschaft, geprägt vom Dala-Hügel, dem mythischen Ursprungsort der Stadt. Wirtschaftlich ist Kano das kommerzielle Nervenzentrum Nordnigerias, bekannt für seine Getreidebörsen, Lederfabriken und eine wachsende Konsumgüterindustrie. Die Stadt ist auch ein Zentrum des islamischen Lernens mit der Bayero University und zahlreichen historischen Koranschulen. Die jährlichen Durbar-Festivals, bei denen berittene Krieger in prunkvollen Gewändern den Emir ehren, ziehen Besucher aus aller Welt an. Trotz der rasanten Modernisierung und einer Bevölkerung von mehreren Millionen Menschen bewahrt Kano seinen Stolz auf seine Hausa-Fulani-Traditionen und bleibt ein Symbol für afrikanische Beständigkeit und Unternehmergeist.",
@@ -73,7 +316,268 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Ibadan a fost fondat în 1829 după prăbușirea Imperiului Oyo.", "Este al treilea cel mai populat oraș din Nigeria după Lagos și Kano.", "Turnul Bower are o înălțime de 18 metri și oferă vizibilitate asupra orașului.", "Cocoa House a fost construită integral din veniturile exportului de cacao.", "Grădina Zoologică a Universității din Ibadan este una dintre cele mai vechi din țară.", "Piața Bodija este faimoasă pentru comerțul cu cereale și vite.", "Ibadan are o suprafață urbană totală de peste 3.000 km pătrați.", "Orașul a fost sediul primei stații de televiziune din Africa (WNTV) în 1959."],
       en: ["Ibadan was founded in 1829 as a settlement for Yoruba war lords.", "The University of Ibadan is often referred to as the 'First and the Best'.", "Cocoa House, completed in 1965, was once the tallest building in tropical Africa.", "The city is strategically located 128 km inland from Lagos.", "Ibadan is known for its seven hills: Mapo, Ake, Aremo, etc.", "The International Institute of Tropical Agriculture (IITA) is located here.", "Ibadan's main city hall, Mapo Hall, was commissioned in 1929.", "The city is the capital of Oyo State and a major center of Yoruba culture."],
     },
-  },   {     id: "ng-port-harcourt-cities-v2",     type: "state-capital",     parent: "NG-RI",     coords: [7.0498, 4.8156],     name: { de: "Port Harcourt", hu: "Port Harcourt", ro: "Port Harcourt", en: "Port Harcourt"},
+  },   {     id: "ng-port-harcourt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lounge",
+                  "text": "Die Lounge ist ein lokaler Treffpunkt in Port Harcourt, an dem die Stadtbewohner bei Getränken und Unterhaltung zusammenkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.064028,
+                        4.827505
+                  ]
+            },
+            {
+                  "name": "Palace of His Royal Highness",
+                  "text": "Der Palace of His Royal Highness fungiert als ummauerte traditionelle Residenz und Verwaltungshof für einen lokalen Monarchen in Port Harcourt.",
+                  "category": "castle",
+                  "coords": [
+                        7.03368,
+                        4.8349
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Dieser öffentliche Park bietet eine landschaftlich gestaltete städtische Grünfläche zur Erholung im Freien inmitten der geschäftigen Umgebung von Port Harcourt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.016086,
+                        4.835965
+                  ]
+            },
+            {
+                  "name": "Karis Event place",
+                  "text": "Karis Event Place ist ein kommerzieller Veranstaltungsort, der für die Ausrichtung von Hochzeiten und großen gesellschaftlichen Zusammenkünften in Port Harcourt konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.027648,
+                        4.83277
+                  ]
+            },
+            {
+                  "name": "epirikom royal highness palace",
+                  "text": "Der Epirikom Royal Highness Palace ist der formelle traditionelle Sitz der lokalen Führung und weist für die Epirikom-Gemeinde typische kulturelle Motive auf.",
+                  "category": "castle",
+                  "coords": [
+                        6.981998,
+                        4.829407
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Pleasure Park",
+                  "text": "Der Port Harcourt Pleasure Park ist ein großes öffentliches Erholungszentrum mit Klettertürmen, Tretbooten und einer Minigolfanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        7.01116,
+                        4.837411
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Zoo",
+                  "text": "Der Zoo von Port Harcourt ist ein 1974 gegründeter staatlicher zoologischer Garten, der eine vielfältige lokale Tierwelt, darunter Primaten und Großkatzen, beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.046547,
+                        4.811666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lounge",
+                  "text": "A Lounge egy helyi találkozóhely Port Harcourtban, ahol a városi lakosok italok és szórakoztató műsorok mellett társalognak.",
+                  "category": "landmark",
+                  "coords": [
+                        7.064028,
+                        4.827505
+                  ]
+            },
+            {
+                  "name": "Palace of His Royal Highness",
+                  "text": "A Palace of His Royal Highness hagyományos, fallal körülvett rezidenciaként és adminisztratív udvarként működik egy helyi uralkodó számára Port Harcourtban.",
+                  "category": "castle",
+                  "coords": [
+                        7.03368,
+                        4.8349
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Ez a nyilvános park parkosított városi zöldterületet biztosít a szabadtéri kikapcsolódáshoz Port Harcourt nyüzsgő környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.016086,
+                        4.835965
+                  ]
+            },
+            {
+                  "name": "Karis Event place",
+                  "text": "A Karis Event Place egy dedikált kereskedelmi helyszín, amelyet esküvők és nagy társadalmi összejövetelek megrendezésére terveztek Port Harcourtban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.027648,
+                        4.83277
+                  ]
+            },
+            {
+                  "name": "epirikom royal highness palace",
+                  "text": "Az Epirikom Királyi Fenség Palotája a helyi vezetés formális hagyományos székhelye, amely az Epirikom közösségre jellemző kulturális motívumokat hordoz.",
+                  "category": "castle",
+                  "coords": [
+                        6.981998,
+                        4.829407
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Pleasure Park",
+                  "text": "A Port Harcourt Pleasure Park egy nagy nyilvános rekreációs központ mászótornyokkal, vízibiciklikkel és minigolfpályával.",
+                  "category": "recreational",
+                  "coords": [
+                        7.01116,
+                        4.837411
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Zoo",
+                  "text": "A Port Harcourt-i Állatkert egy 1974-ben alapított, állami tulajdonban lévő zoológiai park, amely változatos helyi vadon élő állatoknak, köztük főemlősöknek és nagymacskáknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        7.046547,
+                        4.811666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lounge",
+                  "text": "The Lounge este un loc de întâlnire local din Port Harcourt, unde locuitorii socializează cu băuturi și divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        7.064028,
+                        4.827505
+                  ]
+            },
+            {
+                  "name": "Palace of His Royal Highness",
+                  "text": "Palatul Alteței Sale Regale funcționează ca reședință tradițională și curte administrativă pentru un monarh local din Port Harcourt.",
+                  "category": "castle",
+                  "coords": [
+                        7.03368,
+                        4.8349
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Acest parc public oferă un spațiu verde urban amenajat pentru recreere în aer liber în mijlocul mediului agitat din Port Harcourt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.016086,
+                        4.835965
+                  ]
+            },
+            {
+                  "name": "Karis Event place",
+                  "text": "Karis Event Place funcționează ca un spațiu comercial dedicat, proiectat pentru a găzdui nunți și mari adunări sociale în Port Harcourt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.027648,
+                        4.83277
+                  ]
+            },
+            {
+                  "name": "epirikom royal highness palace",
+                  "text": "Palatul Alteței Sale Regale Epirikom este sediul formal tradițional al conducerii locale, având motive culturale distincte pentru comunitatea Epirikom.",
+                  "category": "castle",
+                  "coords": [
+                        6.981998,
+                        4.829407
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Pleasure Park",
+                  "text": "Port Harcourt Pleasure Park este un centru public mare de recreere dotat cu turnuri de alpinism, hidrobiciclete și un teren de mini-golf.",
+                  "category": "recreational",
+                  "coords": [
+                        7.01116,
+                        4.837411
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Zoo",
+                  "text": "Grădina Zoologică din Port Harcourt este un parc zoologic de stat fondat în 1974, care găzduiește o diversitate de animale sălbatice locale, inclusiv primate și feline mari.",
+                  "category": "recreational",
+                  "coords": [
+                        7.046547,
+                        4.811666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lounge",
+                  "text": "The Lounge is a local gathering spot in Port Harcourt where urban residents socialize over drinks and entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        7.064028,
+                        4.827505
+                  ]
+            },
+            {
+                  "name": "Palace of His Royal Highness",
+                  "text": "The Palace of His Royal Highness functions as the walled traditional residence and administrative court for a local monarch in Port Harcourt.",
+                  "category": "castle",
+                  "coords": [
+                        7.03368,
+                        4.8349
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "This public park provides a landscaped urban green space for outdoor recreation amidst the bustling environment of Port Harcourt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.016086,
+                        4.835965
+                  ]
+            },
+            {
+                  "name": "Karis Event place",
+                  "text": "Karis Event Place operates as a dedicated commercial venue designed to host weddings and large social gatherings in Port Harcourt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.027648,
+                        4.83277
+                  ]
+            },
+            {
+                  "name": "epirikom royal highness palace",
+                  "text": "The Epirikom Royal Highness Palace is the formal traditional seat of local leadership, featuring cultural motifs distinct to the Epirikom community.",
+                  "category": "castle",
+                  "coords": [
+                        6.981998,
+                        4.829407
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Pleasure Park",
+                  "text": "Port Harcourt Pleasure Park is a large public recreation center featuring climbing towers, pedal boats, and a mini-golf course.",
+                  "category": "recreational",
+                  "coords": [
+                        7.01116,
+                        4.837411
+                  ]
+            },
+            {
+                  "name": "Port Harcourt Zoo",
+                  "text": "Port Harcourt Zoo is a state-owned zoological park established in 1974 that houses diverse local wildlife including primates and large felines.",
+                  "category": "recreational",
+                  "coords": [
+                        7.046547,
+                        4.811666
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-RI",     coords: [7.0498, 4.8156],     name: { de: "Port Harcourt", hu: "Port Harcourt", ro: "Port Harcourt", en: "Port Harcourt"},
     image: "/poi-images/ng-port-harcourt-cities-v2.webp",     description: {       de: "Port Harcourt, oft als Gartenstadt bezeichnet, ist das Herz der nigerianischen Erdölindustrie im Nigerdelta.",       hu: "Port Harcourt, amelyet gyakran Kertvárosnak is neveznek, a nigériai olajipar szíve a Niger-deltában.",       ro: "Port Harcourt, numit adesea Orașul Grădină, este inima industriei petroliere nigeriene din Delta Nigerului.",       en: "Port Harcourt, often called the Garden City, is the heart of the Nigerian oil industry in the Niger Delta."     , es: "Port Harcourt, a menudo llamada la Ciudad Jardín, es el corazón de la industria petrolera nigeriana en el delta del Níger.", pt: "Port Harcourt, muitas vezes chamada de Cidade Jardim, é o coração da indústria petrolífera nigeriana no Delta do Níger.", fr: "Port Harcourt, souvent appelée la ville-jardin, est le cœur de l'industrie pétrolière nigériane dans le delta du Niger."},     facts: {       de: ["Gegründet im Jahr 1912.", "Besitzt einen wichtigen Seehafen."],       hu: ["1912-ben alapították.", "Fontos tengeri kikötővel rendelkezik."],       ro: ["Fondat în 1912.", "Deține un port maritim important."],       en: ["Founded in 1912.", "Has a major seaport."]     , es: ["Fundada en el año 1912.", "Posee un importante puerto marítimo."], pt: ["Fundada no ano de 1912.", "Possui um importante porto marítimo."], fr: ["Fondée en 1912.", "Possède un port maritime important."]}, image: "/poi-images/ng-port-harcourt-cities-v2.webp",
     descriptionAdvanced: {
       de: "Port Harcourt, oft liebevoll als „Pitakwa“ oder die „Gartenstadt“ bezeichnet, ist die pulsierende Hauptstadt des Bundesstaates Rivers und das unbestrittene Zentrum der nigerianischen Öl- und Gasindustrie. Gelegen im weitläufigen Niger-Delta an den Ufern des Bonny River, fungiert die Stadt als einer der bedeutendsten Tiefseehäfen Westafrikas. Gegründet wurde Port Harcourt im Jahr 1912 durch den britischen Gouverneur Lord Lugard, um als Exporthafen für die Kohle aus Enugu zu dienen. Heute ist die Stadt das Rückgrat der nigerianischen Wirtschaft, da sie den Großteil der nationalen Rohölförderung und -verarbeitung koordiniert. Die Raffinerien und petrochemischen Anlagen prägen die industrielle Landschaft der Außenbezirke. Trotz dieser industriellen Ausrichtung hat Port Harcourt Teile seines ursprünglichen Charmes als Gartenstadt bewahrt, insbesondere in den älteren Wohngebieten mit ihren von Bäumen gesäumten Alleen. Die Stadt ist ein Schmelztiegel der Kulturen, in dem die ursprünglichen Bevölkerungsgruppen der Ikwerre und Ijaw zusammen mit Menschen aus ganz Nigeria und der Welt leben. Kulturell ist die Stadt für ihre lebhafte Musikszene, exzellente Meeresfrüchte-Küche und das jährliche „Carniriv“-Festival bekannt, das die kulturelle Vielfalt des Niger-Deltas feiert. Port Harcourt ist zudem ein wichtiger Bildungsstandort mit Institutionen wie der University of Port Harcourt und der Rivers State University. Die Infrastruktur der Stadt hat in den letzten Jahren massive Investitionen erfahren, darunter moderne Überführungen und der Ausbau des internationalen Flughafens, um dem Status als regionale Wirtschaftsmetropole gerecht zu werden. Die klimatischen Bedingungen sind durch hohe Luftfeuchtigkeit und ergiebige Regenfälle geprägt, was die üppige, fast dschungelartige Vegetation in der Umgebung begünstigt. Als Stadt der Kontraste vereint Port Harcourt den harten Glanz der Ölindustrie mit der entspannten Lebensart des Deltas.",
@@ -87,7 +591,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Fondat în 1912 de Lord Lugard pentru exportul de cărbune.", "Este centrul logistic și administrativ al producției de petrol din Nigeria.", "Orașul are supranumele de „Garden City” datorită parcurilor sale.", "Situat pe râul Bonny, un braț important al Deltei Nigerului.", "Găzduiește rafinării de petrol majore și complexe petrochimice.", "Este sediul Universității din Port Harcourt (UNIPORT).", "Dispune de un port maritim și un aeroport internațional de top.", "Etnia Ikwerre reprezintă principalul grup indigen din oraș."],
       en: ["Established in 1912 and named after the British Secretary of State for the Colonies.", "Known as the oil capital of Nigeria, hosting major refineries.", "Nicknamed the 'Garden City' for its historical lush green spaces.", "Strategically located on the Bonny River, facilitating maritime trade.", "Home to the University of Port Harcourt, a top-tier research institution.", "The city serves as the operational base for multinational oil companies.", "Features a prominent international airport and key railway connections.", "Host to 'Carniriv', one of West Africa's largest cultural festivals."],
     },
-  },   {     id: "ng-benin-city-cities-v2",     type: "state-capital",     parent: "NG-ED",     coords: [5.6277, 6.335],     name: { de: "Benin City", hu: "Benin City", ro: "Benin City", en: "Benin City"},
+  },   {     id: "ng-benin-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BENIN MOAT",
+                  "text": "Der Graben von Benin ist ein massives System historischer Verteidigungswälle aus Erde, die einst das alte Königreich Benin umgaben und schützten.",
+                  "category": "historical",
+                  "coords": [
+                        5.635172,
+                        6.366902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BENIN MOAT",
+                  "text": "A Benini várárok egy hatalmas történelmi védelmi földműrendszer, amely egykor az ősi Benini Királyságot vette körül és védte.",
+                  "category": "historical",
+                  "coords": [
+                        5.635172,
+                        6.366902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BENIN MOAT",
+                  "text": "Șanțul Beninului este un sistem masiv de fortificații istorice din pământ care a înconjurat și a protejat cândva vechiul Regat al Beninului.",
+                  "category": "historical",
+                  "coords": [
+                        5.635172,
+                        6.366902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BENIN MOAT",
+                  "text": "The Benin Moat is a massive system of historic defensive earthworks that once surrounded and protected the ancient Kingdom of Benin.",
+                  "category": "historical",
+                  "coords": [
+                        5.635172,
+                        6.366902
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-ED",     coords: [5.6277, 6.335],     name: { de: "Benin City", hu: "Benin City", ro: "Benin City", en: "Benin City"},
     image: "/poi-images/ng-benin-city-cities-v2.webp",     description: {       de: "Benin City ist das Zentrum des historischen Königreichs Benin, das weltweit für seine Bronzekunstwerke geschätzt wird.",       hu: "Benin City a történelmi Benini Királyság központja, amely világszerte ismert bronz művészeti alkotásairól.",       ro: "Benin City este centrul regatului istoric Benin, apreciat la nivel global pentru arta sa din bronz.",       en: "Benin City is the center of the historical Benin Kingdom, globally appreciated for its bronze artwork."     , es: "Benin City es el centro del histórico Reino de Benín, apreciado en todo el mundo por sus obras de arte en bronce.", pt: "Benin City é o centro do histórico Reino do Benim, apreciado em todo o mundo pelas suas obras de arte em bronze.", fr: "Benin City est le centre de l'ancien royaume du Bénin, mondialement apprécié pour ses œuvres d'art en bronze."},     facts: {       de: ["Bekannt für die Benin-Bronzen.", "Zentrum der Gummiindustrie."],       hu: ["A benini bronzokról ismert.", "A gumiipar központja."],       ro: ["Cunoscut pentru bronzurile de la Benin.", "Centrul industriei cauciucului."],       en: ["Known for the Benin Bronzes.", "Center of the rubber industry."]     , es: ["Conocida por los bronces de Benín.", "Centro de la industria del caucho."], pt: ["Conhecida pelos bronzes do Benim.", "Centro da indústria da borracha."], fr: ["Connue pour les bronzes du Bénin.", "Centre de l'industrie du caoutchouc."]}, image: "/poi-images/ng-benin-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Benin City, die Hauptstadt des Bundesstaates Edo im Süden Nigerias, ist eine Metropole von außergewöhnlicher historischer Tiefe und kultureller Bedeutung. Gegründet etwa im 11. Jahrhundert als Zentrum des Königreichs Benin, entwickelte sich die Stadt zu einem der fortschrittlichsten urbanen Komplexe im präkolonialen Afrika. Bekannt für ihre gewaltigen Verteidigungswälle, die einst als eines der größten von Menschenhand geschaffenen Bauwerke der Welt galten, zeugt die Stadt noch heute von einer glanzvollen Vergangenheit. Die Architektur des alten Benin wurde durch die britische Strafexpedition von 1897 weitgehend zerstört, doch das spirituelle Herz der Stadt, der Palast des Oba von Benin, bleibt ein zentrales Symbol der Edo-Kultur. In der modernen Ära hat sich Benin City zu einem wichtigen wirtschaftlichen Zentrum entwickelt, das besonders für seine Kautschukproduktion und den Anbau von Ölpalmen bekannt ist. Die fruchtbaren Regenwaldböden der Umgebung bieten ideale Bedingungen für die Landwirtschaft, während die Stadt selbst als Knotenpunkt für den Handel zwischen Lagos und dem Osten des Landes fungiert. Die Igun Street, ein UNESCO-geschütztes Viertel, beherbergt die berühmten Bronzegießer, deren Vorfahren die weltbekannten Benin-Bronzen schufen. Das Bildungswesen wird durch die renommierte University of Benin geprägt, die Tausende von Studenten anzieht. Geographisch liegt die Stadt auf einem Plateau etwa 80 Meter über dem Meeresspiegel und genießt ein tropisches Klima mit einer ausgeprägten Regenzeit. Die soziale Struktur ist tief in den Traditionen der Edo verwurzelt, wobei der Oba weiterhin eine maßgebliche moralische und kulturelle Autorität darstellt. Trotz der Herausforderungen moderner Urbanisierung bewahrt Benin City einen einzigartigen Charakter, der antike Traditionen mit dem Streben nach industriellem Fortschritt verbindet. Die Stadt ist zudem ein Zentrum für die nigerianische Filmindustrie und Kunstszene, was ihren Status als kulturelle Hauptstadt des Südens festigt.",
@@ -101,7 +650,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Fondat în secolul al XI-lea, orașul a fost capitala legendarului Imperiu Benin.", "Zidurile orașului au fost distruse în mare parte de britanici în expediția din 1897.", "Este centrul principal pentru producția de cauciuc natural din Nigeria.", "Universitatea din Benin este una dintre primele universități federale ale țării.", "Strada Igun este faimoasă pentru turnarea bronzului prin metoda 'cerii pierdute'.", "Climatul este tropical umed, cu o temperatură medie anuală de 27 de grade Celsius.", "Populația metropolitană depășește în prezent 1,5 milioane de locuitori.", "Oba de Benin este considerat succesorul direct al dinastiei fondate în secolul XII."],
       en: ["Established in the 11th century, it is one of West Africa's oldest cities.", "The City Walls were recorded by Guinness World Records as the world's largest earthworks.", "It serves as the administrative capital of Edo State in southern Nigeria.", "The city is a major center for Nigeria's palm oil and rubber exports.", "Home to the University of Benin (UNIBEN), established in 1970.", "The Royal Palace of the Oba is a central architectural and cultural landmark.", "Igun Street is the primary location for traditional bronze and brass casting.", "The 1897 British invasion led to the global dispersal of the Benin Bronzes."],
     },
-  },   {     id: "ng-kaduna-city-cities-v2",     type: "state-capital",     parent: "NG-KD",     coords: [7.4383, 10.5105],     name: { de: "Kaduna-Stadt", hu: "Kaduna", ro: "Kaduna", en: "Kaduna"},
+  },   {     id: "ng-kaduna-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Afuwa Photos",
+                  "text": "Das Gebäude der Afuwa Photos wird als lokales Veranstaltungszentrum und Theater in Kaduna genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        7.432305,
+                        10.512776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Afuwa Photos",
+                  "text": "Az Afuwa Photos épületét helyi rendezvényközpontként és színházként használják Kadunában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.432305,
+                        10.512776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Afuwa Photos",
+                  "text": "Clădirea Afuwa Photos este folosită ca centru de evenimente local și teatru în Kaduna.",
+                  "category": "cultural",
+                  "coords": [
+                        7.432305,
+                        10.512776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Afuwa Photos",
+                  "text": "The Afuwa Photos building is used as a local event center and theatre in Kaduna.",
+                  "category": "cultural",
+                  "coords": [
+                        7.432305,
+                        10.512776
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-KD",     coords: [7.4383, 10.5105],     name: { de: "Kaduna-Stadt", hu: "Kaduna", ro: "Kaduna", en: "Kaduna"},
     image: "/poi-images/ng-kaduna-city-cities-v2.webp",     description: {       de: "Die strategisch gelegene Siedlung Kaduna ist ein bedeutender Handelsknotenpunkt am Flussufer, der Nord und Süd verbindet.",       hu: "A stratégiai fekvésű Kaduna egy jelentős folyóparti kereskedelmi csomópont, amely északot és délt köti össze.",       ro: "Așezarea strategică Kaduna este un important nod comercial pe malul râului, conectând nordul cu sudul.",       en: "The strategically located settlement of Kaduna is a major riverside trade hub connecting the North and South."     , es: "El asentamiento de Kaduna, estratégicamente ubicado, es un importante nudo comercial a orillas del río que conecta el norte y el sur.", pt: "O assentamento estrategicamente localizado de Kaduna é um importante centro comercial na margem do rio, ligando o Norte e o Sul.", fr: "Le site stratégique de Kaduna est un carrefour commercial majeur sur les rives du fleuve, reliant le nord et le sud."},     facts: {       de: ["Wichtiges Industriezentrum im Norden.", "Benannt nach den Krokodilen im Fluss."],       hu: ["Fontos északi ipari központ.", "A folyóban élő krokodilokról kapta a nevét."],       ro: ["Centru industrial major din nord.", "Numit după crocodilii din râu."],       en: ["Major northern industrial center.", "Named after the crocodiles in the river."]     , es: ["Importante centro industrial del norte.", "Nombrada así por los cocodrilos del río."], pt: ["Importante centro industrial no norte.", "Nomeada devido aos crocodilos no rio."], fr: ["Centre industriel majeur du nord.", "Nommée d'après les crocodiles de la rivière."]}, image: "/poi-images/ng-kaduna-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kaduna, die Hauptstadt des gleichnamigen Bundesstaates, ist eine der bedeutendsten Industriemetropolen im Norden Nigerias und war einst das politische Zentrum des gesamten britischen Nordnigerias. Gegründet wurde die Stadt im Jahr 1913 von Lord Lugard als strategischer Knotenpunkt am Kaduna-Fluss. Der Name 'Kaduna' leitet sich vom Hausa-Wort für Krokodile ab, die früher in großer Zahl im Fluss lebten. Die Stadt zeichnet sich durch einen schachbrettartigen Grundriss aus, der während der Kolonialzeit entworfen wurde und sie von vielen organisch gewachsenen afrikanischen Städten unterscheidet. Kaduna war jahrzehntelang das Herz der nigerianischen Textilindustrie, was ihr den Beinamen 'Textilstadt' einbrachte, auch wenn dieser Sektor heute vor großen Herausforderungen steht. Dennoch bleibt die Stadt ein wichtiges Wirtschaftszentrum mit Ölraffinerien, Automobilmontagewerken und einer starken Präsenz des Verteidigungssektors. Die Architektur in der Innenstadt, insbesondere die Lugard Hall, spiegelt die koloniale Macht wider, während moderne Moscheen und Kirchen die religiöse Vielfalt der Bevölkerung unterstreichen. Bildungstechnisch ist die Region durch die Nähe zur Ahmadu Bello University in Zaria und zahlreiche Militärakademien in der Stadt selbst führend im Land. Der Kaduna-Fluss teilt die Stadt in zwei Hälften und bietet fruchtbares Schwemmland für die lokale Landwirtschaft. Kulturell ist Kaduna ein Treffpunkt zwischen dem islamischen Norden und den christlichen Einflüssen des Südens, was zu einer dynamischen, wenn auch manchmal spannungsgeladenen Atmosphäre führt. Das Kaduna Museum bietet tiefe Einblicke in die Kunst der Nok-Kultur und die Geschichte der nördlichen Emirate. Parks wie der Gamji Park dienen als grüne Lungen der Stadt und sind beliebte Treffpunkte für Familien. Mit ihrer strategischen Lage an der Eisenbahnlinie von Lagos nach Kano bleibt Kaduna ein unverzichtbarer Verkehrsknotenpunkt für den nationalen Handel.",
@@ -129,7 +723,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Jos este situat la coordonatele geografice 9°56′N 8°53′E.", "Orașul a fost capitala Regiunii de Nord a Nigeriei în timpul colonialismului.", "Economia se bazează pe industria alimentară, inclusiv fabrica de bere NASCO.", "Grădina Botanică din Jos este una dintre cele mai vechi din Nigeria.", "Dealurile Shere sunt folosite adesea pentru antrenamentele forțelor speciale.", "Temperatura medie în timpul sezonului rece poate scădea până la 7 grade Celsius.", "Orașul dispune de un centru de formare pentru controlorii de trafic aerian.", "Zăcămintele de columbit din zonă sunt printre cele mai bogate din lume."],
       en: ["The city's name is reportedly derived from 'Jash,' a local village name.", "Jos is home to the National Institute for Policy and Strategic Studies (NIPSS).", "The tin mining era left behind hundreds of man-made lakes and ponds around the city.", "The Museum of Traditional Nigerian Architecture is located within the Jos Museum complex.", "The city hosted the first major tin smelting plant in Nigeria in 1961.", "Jos has a high concentration of research institutes due to its unique ecology.", "The population is a mix of Afizere, Anaguta, and Berom indigenous groups.", "Jos is the headquarters of several Christian missionary organizations in West Africa."],
     },
-  },   {     id: "ng-ilorin-cities-v2",     type: "state-capital",     parent: "NG-KW",     coords: [4.5505, 8.5],     name: { de: "Ilorin", hu: "Ilorin", ro: "Ilorin", en: "Ilorin"},
+  },   {     id: "ng-ilorin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilorin National Museum",
+                  "text": "Das Ilorin National Museum stellt eine vielfältige Sammlung kultureller Artefakte und historischer Gegenstände aus der Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        4.584398,
+                        8.482165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilorin National Museum",
+                  "text": "Az Ilorin Nemzeti Múzeum a régió kulturális és történelmi emlékeinek változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.584398,
+                        8.482165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilorin National Museum",
+                  "text": "Muzeul Național Ilorin expune o colecție diversă de artefacte culturale și obiecte de patrimoniu istoric din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        4.584398,
+                        8.482165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilorin National Museum",
+                  "text": "The Ilorin National Museum exhibits a diverse collection of cultural artifacts and heritage items from across the region.",
+                  "category": "museum",
+                  "coords": [
+                        4.584398,
+                        8.482165
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-KW",     coords: [4.5505, 8.5],     name: { de: "Ilorin", hu: "Ilorin", ro: "Ilorin", en: "Ilorin"},
     image: "/poi-images/ng-ilorin-cities-v2.webp",     description: {       de: "Ilorin fungiert als Brücke zwischen der Yoruba-Kultur im Süden und den islamischen Einflüssen aus dem Norden.",       hu: "Ilorin hídként szolgál a déli joruba kultúra és az északi iszlám hatások között.",       ro: "Ilorin funcționează ca o punte între cultura Yoruba din sud și influențele islamice din nord.",       en: "Ilorin serves as a bridge between the Yoruba culture in the south and the Islamic influences from the north."     , es: "Ilorin actúa como un puente entre la cultura Yoruba del sur y las influencias islámicas del norte.", pt: "Ilorin atua como uma ponte entre a cultura Iorubá no sul e as influências islâmicas do norte.", fr: "Ilorin sert de pont entre la culture Yoruba au sud et les influences islamiques du nord."},     facts: {       de: ["Große zentrale Moschee.", "Zentrum traditioneller Töpferwaren."],       hu: ["Nagy központi mecsettel rendelkezik.", "A hagyományos fazekasság központja."],       ro: ["Mare moschee centrală.", "Centru al ceramicii tradiționale."],       en: ["Large central mosque.", "Center of traditional pottery."]     , es: ["Gran Mezquita Central.", "Centro de alfarería tradicional."], pt: ["Grande Mesquita Central.", "Centro de cerâmica tradicional."], fr: ["Grande mosquée centrale.", "Centre de poterie traditionnelle."]}, image: "/poi-images/ng-ilorin-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ilorin, die Hauptstadt des Bundesstaates Kwara, nimmt eine einzigartige Stellung in der Geografie und Geschichte Nigerias ein. Gelegen an der Schwelle zwischen dem bewaldeten Süden und der offenen Savanne des Nordens, fungiert die Stadt seit Jahrhunderten als kulturelles und wirtschaftliches Bindeglied. Die Geschichte von Ilorin ist faszinierend und komplex: Ursprünglich ein Außenposten des Oyo-Reiches, wurde die Stadt im frühen 19. Jahrhundert zu einem Zentrum des Widerstands und schließlich zum Sitz eines Fulani-Emirats. Diese historische Entwicklung führte zu einer einzigartigen Verschmelzung von Yoruba-Traditionen und islamischen Einflüssen, die das Stadtbild und das soziale Gefüge bis heute prägen. Ilorin wird oft als \"Tor zum Norden\" bezeichnet, was seine Bedeutung als Transitpunkt unterstreicht.\n\nDie Wirtschaft von Ilorin ist vielfältig und profitiert von der zentralen Lage der Stadt. Sie ist ein bedeutendes Zentrum für Handel und Landwirtschaft, wobei die Region für die Produktion von Yams, Mais und Zuckerrohr bekannt ist. Die Stadt beherbergt zudem wachsende Industriezweige, darunter Lebensmittelverarbeitung und die Herstellung von Konsumgütern. Ein weltberühmtes Merkmal von Ilorin ist das traditionelle Töpferhandwerk, insbesondere im Dada-Viertel, wo Frauen seit Generationen nach überlieferten Methoden Keramik von höchster Qualität herstellen. Der Handel floriert in den zahlreichen Märkten, wie dem Oja-Oba, wo Waren aus allen Teilen des Landes zusammenkommen.\n\nBildung spielt in Ilorin eine zentrale Rolle. Die University of Ilorin ist eine der renommiertesten Universitäten Nigerias und bekannt für ihren stabilen akademischen Kalender. Die Stadt ist auch ein Zentrum für islamische Gelehrsamkeit. Kulturelle Highlights sind der Palast des Emirs, die imposante Zentralmoschee und das Kwara State Stadium. Das soziale Leben in Ilorin ist durch religiöse Toleranz und ein tiefes Gemeinschaftsgefühl geprägt. Trotz der Modernisierung hat die Stadt ihren entspannten Charakter bewahrt, was sie zu einem angenehmen Wohnort macht. Mit einer verbesserten Infrastruktur, einschließlich eines internationalen Flughafens und guter Straßenverbindungen, ist Ilorin bestens gerüstet, um seine Rolle als zentraler Knotenpunkt in Nigeria weiter auszubauen.",
@@ -143,7 +782,124 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Ilorin este situat la o altitudine de 305 metri deasupra nivelului mării.", "Orașul este cunoscut drept un centru de excelență în educație.", "Marea Moschee din Ilorin a fost reconstruită în 1991 într-un stil modern.", "Statul Kwara este adesea numit 'Statul Armoniei' datorită orașului Ilorin.", "Olăritul în Ilorin este o profesie transmisă exclusiv în rândul femeilor.", "Orașul este legat prin calea ferată de Jebba la nord și Osogbo la sud.", "Ilorin are un climat tropical umed și uscat (Aw).", "Echipa de fotbal Kwara United FC își are sediul în oraș."],
       en: ["Ilorin is the 6th largest city in Nigeria by population.", "The city was founded by a Yoruba general named Afonja.", "The University of Ilorin has the largest land area of any Nigerian university.", "Traditional weaving of Aso-Oke cloth is a major local craft.", "The city's central mosque can accommodate over 20,000 worshippers.", "Ilorin International Airport serves as a major cargo hub.", "The city acts as a linguistic transition zone between Yoruba and Hausa.", "The Dada traditional pottery site is a protected cultural heritage area."],
     },
-  },   {     id: "ng-maiduguri-cities-v2",     type: "state-capital",     parent: "NG-BO",     coords: [13.1536, 11.8333],     name: { de: "Maiduguri", hu: "Maiduguri", ro: "Maiduguri", en: "Maiduguri"},
+  },   {     id: "ng-maiduguri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shehu of Borno's Palace",
+                  "text": "Dieser Palastkomplex in Maiduguri, der als traditionelle Residenz des Shehu von Borno dient, präsentiert eine unverwechselbare regionale islamische Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        13.160363,
+                        11.848131
+                  ]
+            },
+            {
+                  "name": "test",
+                  "text": "Dieser bescheidene Anziehungspunkt im städtischen Umfeld von Maiduguri markiert einen lokalen Stopp für Besucher, die die Nachbarschaft erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.152914,
+                        11.84235
+                  ]
+            },
+            {
+                  "name": "Sanda Kyarimi Park Zoo",
+                  "text": "Dieser weitläufige zoologische Park in Maiduguri kombiniert Wildtiergehege mit schattigen botanischen Reservatsbereichen innerhalb der Stadtgrenzen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.146959,
+                        11.83238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shehu of Borno's Palace",
+                  "text": "A borno-i shehu hagyományos rezidenciájaként szolgáló maiduguri palotakomplexum jellegzetes regionális iszlám építészetet és történelmi udvarokat mutat be.",
+                  "category": "castle",
+                  "coords": [
+                        13.160363,
+                        11.848131
+                  ]
+            },
+            {
+                  "name": "test",
+                  "text": "A Maiduguri városi környezetében található szerény látványosság helyi megállót jelent a környéket felfedező látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        13.152914,
+                        11.84235
+                  ]
+            },
+            {
+                  "name": "Sanda Kyarimi Park Zoo",
+                  "text": "Ez a kiterjedt maiduguri állattani park a vadvilág kifutóit árnyékos botanikai rezervátumokkal ötvözi a város határain belül.",
+                  "category": "recreational",
+                  "coords": [
+                        13.146959,
+                        11.83238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shehu of Borno's Palace",
+                  "text": "Servind ca reședință tradițională a lui Shehu din Borno, acest complex de palat din Maiduguri prezintă o arhitectură islamică regională distinctă și curți istorice.",
+                  "category": "castle",
+                  "coords": [
+                        13.160363,
+                        11.848131
+                  ]
+            },
+            {
+                  "name": "test",
+                  "text": "Aflat în mediul urban al orașului Maiduguri, acest punct modest de atracție marchează o oprire localizată pentru vizitatorii care explorează cartierul.",
+                  "category": "landmark",
+                  "coords": [
+                        13.152914,
+                        11.84235
+                  ]
+            },
+            {
+                  "name": "Sanda Kyarimi Park Zoo",
+                  "text": "Acest parc zoologic extins din Maiduguri combină incintele pentru viața sălbatică cu zone de rezervație botanică umbrită în limitele orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        13.146959,
+                        11.83238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shehu of Borno's Palace",
+                  "text": "Serving as the traditional residence of the Shehu of Borno, this palatial complex in Maiduguri showcases distinct regional Islamic architecture and historic courtyards.",
+                  "category": "castle",
+                  "coords": [
+                        13.160363,
+                        11.848131
+                  ]
+            },
+            {
+                  "name": "test",
+                  "text": "Found within Maiduguri's urban environment, this modest attraction point marks a localized stop for visitors exploring the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        13.152914,
+                        11.84235
+                  ]
+            },
+            {
+                  "name": "Sanda Kyarimi Park Zoo",
+                  "text": "This expansive zoological park in Maiduguri combines wildlife enclosures with shaded botanical reserve areas within the city limits.",
+                  "category": "recreational",
+                  "coords": [
+                        13.146959,
+                        11.83238
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-BO",     coords: [13.1536, 11.8333],     name: { de: "Maiduguri", hu: "Maiduguri", ro: "Maiduguri", en: "Maiduguri"},
     image: "/poi-images/ng-maiduguri-cities-v2.webp",     description: {       de: "Maiduguri ist das Tor zur Tschadsee-Region und ein wichtiges historisches islamisches Lernzentrum.",       hu: "Maiduguri a Csád-tó régiójának kapuja, és egy fontos történelmi iszlám oktatási központ.",       ro: "Maiduguri este poarta către regiunea Lacului Ciad și un important centru istoric de învățământ islamic.",       en: "Maiduguri is the gateway to the Lake Chad region and a major historical Islamic center of learning."     , es: "Maiduguri es la puerta de entrada a la región del lago Chad y un importante centro histórico de aprendizaje islámico.", pt: "Maiduguri é a porta de entrada para a região do Lago Chade e um importante centro histórico de aprendizagem islâmica.", fr: "Maiduguri est la porte d'entrée de la région du lac Tchad et un important centre historique d'apprentissage islamique."},     facts: {       de: ["Hauptstadt des Bundesstaates Borno.", "Endstation der nördlichen Eisenbahnstrecke."],       hu: ["Borno állam fővárosa.", "Az északi vasútvonal végállomása."],       ro: ["Capitala statului Borno.", "Terminusul liniei de cale ferată de nord."],       en: ["Capital of Borno State.", "Terminus of the northern railway line."]     , es: ["Capital del estado de Borno.", "Estación terminal de la línea de ferrocarril del norte."], pt: ["Capital do estado de Borno.", "Estação terminal da linha ferroviária do norte."], fr: ["Capitale de l'État de Borno.", "Terminus de la ligne de chemin de fer du nord."]}, image: "/poi-images/ng-maiduguri-cities-v2.webp",
     descriptionAdvanced: {
       de: "Maiduguri, oft lokal als Yerwa bezeichnet, ist die pulsierende Hauptstadt des Bundesstaates Borno und das unangefochtene kulturelle sowie wirtschaftliche Zentrum des nordöstlichen Nigerias. Die Stadt wurde erst 1907 von den Briten als Militär- und Verwaltungsaußenposten gegründet, entwickelte sich jedoch rasch auf einem strategischen Bergrücken oberhalb des Ngadda-Flusses. Historisch ist Maiduguri untrennbar mit dem Erbe des Kanem-Bornu-Reiches verbunden, das einst weite Teile der Tschadsee-Region beherrschte. Die Kultur des Kanuri-Volkes prägt bis heute das Stadtbild, von der traditionellen Architektur über die farbenfrohen Trachten bis hin zu den kulinarischen Spezialitäten. Die geografische Lage am Rande der Sahel-Savanne bestimmt das trockene und heiße Klima, wobei die Temperaturen im Sommer oft die 40-Grad-Marke überschreiten. Wirtschaftlich fungiert Maiduguri als vitaler Handelsplatz für das gesamte Tschadseebecken; der Monday Market ist einer der größten und lebhaftesten Märkte Westafrikas, auf dem Vieh, Häute, Getreide und handgefertigte Waren aus den Nachbarländern Kamerun, Tschad und Niger gehandelt werden. Als bedeutendes Bildungszentrum beherbergt die Stadt die University of Maiduguri, eine der renommiertesten Institutionen Nordnigerias, die Studierende aus dem ganzen Land anzieht. Trotz der sicherheitspolitischen Herausforderungen in der jüngeren Geschichte hat Maiduguri eine beeindruckende Resilienz bewiesen und bleibt ein Symbol für die Beständigkeit der Sahel-Kulturen. Die Stadt ist durch eine wichtige Eisenbahnlinie mit Port Harcourt und durch einen internationalen Flughafen mit der Außenwelt verbunden. Die ethnische Vielfalt ist enorm: Neben den Kanuri leben hier Hausa, Fulani, Shuwa-Araber und viele andere Gruppen friedlich zusammen. Maiduguri ist nicht nur ein administrativer Sitz, sondern ein lebendiges Mosaik aus Tradition und Moderne, das trotz widriger Umstände seine Position als regionales Kraftzentrum behauptet.",
@@ -157,7 +913,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Maiduguri a fost stabilit drept capitală administrativă în 1907, datorită poziției sale defensive avantajoase.", "Orașul este sediul Shehu-lui de Borno, liderul tradițional al poporului Kanuri și succesor al imperiului Kanem-Bornu.", "Piața de Luni (Monday Market) este celebră pentru comerțul cu animale și pielărie de înaltă calitate.", "Universitatea din Maiduguri găzduiește una dintre cele mai dotate biblioteci universitare din nordul Nigeriei.", "Râul Ngadda traversează orașul, fiind esențial pentru irigarea culturilor de legume în sezonul uscat.", "Maiduguri este conectat prin calea ferată de terminalele maritime din sud, facilitând exportul de arahide și bumbac.", "Temperaturile din timpul zilei pot atinge frecvent 45 de grade Celsius în lunile martie și aprilie.", "Populația orașului este renumită pentru reziliența sa în fața condițiilor climatice și de securitate dificile."],
       en: ["Maiduguri was founded in 1907 as a British military outpost to consolidate control over the northeastern frontier.", "The city is the seat of the Shehu of Borno, a traditional monarch whose lineage dates back to the Sayfawa dynasty.", "The Monday Market is the commercial lungs of the city, serving as a hub for trade with Cameroon, Chad, and Niger.", "The University of Maiduguri (UNIMAID) is a premier educational institution established in 1975.", "The Ngadda River is a seasonal waterway that historically influenced the settlement's urban layout and agriculture.", "It serves as the northernmost terminus of the Eastern line of the Nigerian Railway Corporation.", "The city experiences a semi-arid climate with a prolonged dry season and high evaporation rates.", "The local economy is heavily reliant on the export of livestock, dried fish, and artisanal leather products."],
     },
-  },   {     id: "ng-enugu-city-cities-v2",     type: "state-capital",     parent: "NG-EN",     coords: [7.5083, 6.452],     name: { de: "Enugu (Stadt)", hu: "Enugu", ro: "Enugu", en: "Enugu"},
+  },   {     id: "ng-enugu-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Enugu's National Museum of Unity",
+                  "text": "Das im Jahr 2006 eröffnete National Museum of Unity in Enugu präsentiert das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.508829,
+                        6.461774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Enugu's National Museum of Unity",
+                  "text": "A 2006-ban megnyílt enugui Nemzeti Egység Múzeuma a régió kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.508829,
+                        6.461774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Enugu's National Museum of Unity",
+                  "text": "Deschis în 2006, Muzeul Național al Unității din Enugu prezintă moștenirea culturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        7.508829,
+                        6.461774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enugu's National Museum of Unity",
+                  "text": "Opened in 2006, Enugu's National Museum of Unity showcases the region's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        7.508829,
+                        6.461774
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-EN",     coords: [7.5083, 6.452],     name: { de: "Enugu (Stadt)", hu: "Enugu", ro: "Enugu", en: "Enugu"},
     image: "/poi-images/ng-enugu-city-cities-v2.webp",     description: {       de: "Die Kohlestadt Enugu war früher das koloniale Bergbauzentrum für Kohle und ist heute ein kultureller Knotenpunkt der Igbo.",       hu: "A szénvárosként ismert Enugu régen a gyarmati szénbányászat központja volt, ma pedig az igbók kulturális csomópontja.",       ro: "Orașul cărbunelui, Enugu, a fost anterior centrul colonial minier și este astăzi un nod cultural Igbo.",       en: "The coal city of Enugu was formerly the colonial coal mining center and is today an Igbo cultural hub."     , es: "La ciudad del carbón de Enugu fue en su día el centro minero colonial de este mineral y hoy es un núcleo cultural de los igbo.", pt: "A cidade do carvão de Enugu foi outrora o centro mineiro colonial de carvão e é hoje um polo cultural dos igbo.", fr: "La cité minière d'Enugu était autrefois le centre minier colonial pour le charbon et est aujourd'hui un carrefour culturel des Igbo."},     facts: {       de: ["Ehemalige Hauptstadt der Republik Biafra.", "Zentrum der Nollywood-Filmindustrie."],       hu: ["Biafra Köztársaság egykori fővárosa.", "A Nollywood filmipar központja."],       ro: ["Fosta capitală a Republicii Biafra.", "Centrul industriei cinematografice Nollywood."],       en: ["Former capital of the Republic of Biafra.", "Center of the Nollywood film industry."]     , es: ["Antigua capital de la República de Biafra.", "Centro de la industria cinematográfica de Nollywood."], pt: ["Antiga capital da República de Biafra.", "Centro da indústria cinematográfica de Nollywood."], fr: ["Ancienne capitale de la République du Biafra.", "Centre de l'industrie cinématographique Nollywood."]}, image: "/poi-images/ng-enugu-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Enugu, oft als die \"Kohlenstadt\" bezeichnet, ist die administrative Hauptstadt des gleichnamigen Bundesstaates im Südosten Nigerias. Die Geschichte der Stadt ist untrennbar mit der Entdeckung von Kohle im Jahr 1909 durch den britischen Geologen Albert Ernest Kitson in den Udi-Hügeln verbunden. Diese Entdeckung markierte den Beginn einer rasanten industriellen Entwicklung, die zur Gründung der Stadt und zum Bau der Eisenbahnlinie nach Port Harcourt führte. In der Kolonialzeit entwickelte sich Enugu zu einem strategischen Knotenpunkt für die britische Verwaltung in Westafrika. Ein besonders prägendes Kapitel der Stadtgeschichte ist die Rolle als erste Hauptstadt der Republik Biafra während des nigerianischen Bürgerkriegs von 1967 bis 1970, was der Stadt eine tiefgreifende symbolische Bedeutung für die Igbo-Bevölkerung verleiht.\n\nGeografisch liegt Enugu in einem Becken, das von den markanten Steilhängen der Udi-Hochebene umgeben ist. Diese Lage sorgt für ein im Vergleich zum Umland etwas milderes Klima, obwohl es weiterhin zum tropischen Savannentyp gehört. Die Stadtstruktur ist geprägt von einer Mischung aus kolonialen Planvierteln wie dem Government Reserved Area (GRA) und modernen Wohngebieten. Die Wirtschaft hat sich seit dem Niedergang der Kohleindustrie stark diversifiziert. Heute dominieren der Dienstleistungssektor, der großflächige Handel und die öffentliche Verwaltung. Enugu hat sich zudem als eines der wichtigsten Zentren für die nigerianische Filmindustrie (Nollywood) etabliert, da die malerische Umgebung der Hügel oft als Kulisse dient.\n\nKulturell ist Enugu das Herz der Igbo-Kultur. Jährliche Feste wie das New Yam Festival (Iri Ji) und das Mmanwu-Maskenfestival ziehen Besucher aus dem ganzen Land an. Die Stadt beherbergt bedeutende Bildungseinrichtungen, darunter den Enugu-Campus der University of Nigeria. Zu den architektonischen und touristischen Sehenswürdigkeiten gehören der Polo Park Mall, das Nationalmuseum und die historische Milken Hill Road, die einen spektakulären Panoramablick bietet. Die Infrastruktur wird stetig modernisiert, wobei der internationale Flughafen Akanu Ibiam die Region mit globalen Märkten verbindet. Enugu bleibt ein Ort, an dem Tradition und moderner Fortschritt auf einzigartige Weise aufeinandertreffen.",
@@ -256,7 +1057,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       pt: ["O seu apelido é 'Enyimba City' (Cidade dos Elefantes).", "Casa do Ariaria International Market.", "Local da famosa revolta das mulheres de 1929.", "Importante centro de fabricação de têxteis e calçado.", "Ligação ferroviária a Port Harcourt desde 1915.", "Sede do bem-sucedido clube de futebol Enyimba F.C."],
       fr: ["Surnommée 'Enyimba City' (la ville éléphant).", "Abrite l'Ariaria International Market.", "Lieu de la célèbre révolte des femmes de 1929.", "Centre majeur de fabrication de textiles et de chaussures.", "Liaison ferroviaire vers Port Harcourt depuis 1915.", "Siège du club de football à succès Enyimba F.C."],
     },
-  },   {     id: "ng-onitsha-cities-v2",     type: "city",     parent: "NG-AN",     coords: [6.7833, 6.1667],     name: { de: "Onitsha", hu: "Onitsha", ro: "Onitsha", en: "Onitsha"},
+  },   {     id: "ng-onitsha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral Basilica of the Most Holy Trinity",
+                  "text": "Die Cathedral Basilica of the Most Holy Trinity ist ein großes katholisches Gotteshaus, das die Reliquien des seligen Cyprian Michael Iwene Tansi enthält.",
+                  "category": "religious",
+                  "coords": [
+                        6.776991,
+                        6.161216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral Basilica of the Most Holy Trinity",
+                  "text": "A Szentháromság-székesegyház egy nagyszabású katolikus istentiszteleti hely, amely Boldog Cyprian Michael Iwene Tansi ereklyéit őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        6.776991,
+                        6.161216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral Basilica of the Most Holy Trinity",
+                  "text": "Catedrala Bazilică a Preasfintei Treimi este un mare lăcaș de cult catolic care conține moaștele Fericitului Cyprian Michael Iwene Tansi.",
+                  "category": "religious",
+                  "coords": [
+                        6.776991,
+                        6.161216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral Basilica of the Most Holy Trinity",
+                  "text": "The Cathedral Basilica of the Most Holy Trinity is a grand Catholic place of worship containing the relics of Blessed Cyprian Michael Iwene Tansi.",
+                  "category": "religious",
+                  "coords": [
+                        6.776991,
+                        6.161216
+                  ]
+            }
+      ]
+},     type: "city",     parent: "NG-AN",     coords: [6.7833, 6.1667],     name: { de: "Onitsha", hu: "Onitsha", ro: "Onitsha", en: "Onitsha"},
     image: "/poi-images/ng-onitsha-cities-v2.webp",     description: {       de: "Onitsha beherbergt den angeblich größten Freiluftmarkt Westafrikas und ist ein vitaler Flusshafen am Niger.",       hu: "Onitshában található Nyugat-Afrika állítólagos legnagyobb szabadtéri piaca, és egy létfontosságú folyami kikötő a Nigeren.",       ro: "Onitsha găzduiește cea mai mare piață în aer liber din Africa de Vest și este un port fluvial vital pe Niger.",       en: "Onitsha hosts what is arguably West Africa's largest open-air market and is a vital river port on the Niger."     , es: "Onitsha alberga el que supuestamente es el mayor mercado al aire libre de África Occidental y es un puerto fluvial vital en el Níger.", pt: "Onitsha abriga o que supostamente é o maior mercado ao ar livre da África Ocidental e é um porto fluvial vital no Níger.", fr: "Onitsha abrite ce qui est prétendument le plus grand marché en plein air d'Afrique de l'Ouest et est un port fluvial vital sur le Niger."},     facts: {       de: ["Hauptumschlagplatz für Güter.", "Liegt direkt am Niger-Fluss."],       hu: ["Az áruk fő elosztó központja.", "Közvetlenül a Niger folyó partján fekszik."],       ro: ["Principalul centru de tranzit pentru mărfuri.", "Situat direct pe râul Niger."],       en: ["Main transit hub for goods.", "Located directly on the Niger River."]     , es: ["Principal punto de transbordo de mercancías.", "Situada directamente a orillas del río Níger."], pt: ["Principal ponto de transbordo de mercadorias.", "Situada diretamente às margens do rio Níger."], fr: ["Principal point de transbordement de marchandises.", "Située directement au bord du fleuve Niger."]}, image: "/poi-images/ng-onitsha-cities-v2.webp",
     descriptionAdvanced: {
       de: "Onitsha, strategisch am Ostufer des Niger-Flusses gelegen, ist einer der bedeutendsten Handelshäfen Nigerias und ein Tor zum Südosten des Landes. Die Stadt wurde im 16. Jahrhundert von Einwanderern aus dem Benin-Reich gegründet und entwickelte sich unter der Herrschaft des Obi von Onitsha zu einem einflussreichen Stadtstaat. Während der britischen Kolonialzeit wurde Onitsha zu einem zentralen Knotenpunkt für den Handel mit Palmöl und Textilien, was durch den Bau der Niger-Brücke in den 1960er Jahren weiter verstärkt wurde. Heute beherbergt die Stadt den Onitsha Main Market, der oft als der größte Markt Afrikas in Bezug auf Fläche und Warenvielfalt bezeichnet wird. Onitsha ist auch ein bedeutendes Zentrum für Bildung und religiöses Leben, mit einer beeindruckenden Anzahl an Kirchen, Kathedralen und Schulen, die die kulturelle Landschaft prägen. Die Stadt dient als lebenswichtiges logistisches Bindeglied für den Transport von Gütern zwischen den Seehäfen im Süden und den Binnenmärkten im Norden. Trotz der hohen Bevölkerungsdichte und der intensiven Urbanisierung bewahrt Onitsha seine traditionellen Bräuche, die jährlich während des Ofala-Festivals gefeiert werden.",
@@ -613,7 +1459,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Orașul este situat la coordonatele 7°37′N 5°13′E în sud-vestul Nigeriei.", "Ado Ekiti este centrul comercial principal pentru produsele din bauxită din regiune.", "Universitatea de Stat Ekiti (EKSU) are peste 25.000 de studenți înscriși.", "Clima locală înregistrează o medie anuală de precipitații de aproximativ 1400 mm.", "Piața Oja Bisi este cea mai mare structură comercială modernă din statul Ekiti.", "Orașul a fost un centru strategic în timpul războaielor inter-tribale Yoruba din secolul XIX.", "Sectorul serviciilor publice angajează peste 30% din forța de muncă urbană.", "Ado Ekiti dispune de conexiuni rutiere directe către Lagos, situat la circa 300 km distanță."],
       en: ["Ado Ekiti serves as the headquarters of the Ado-Ekiti Local Government Area.", "The city's name is often hyphenated as Ado-Ekiti in official government documents.", "It is located in the tropical rainforest zone, though much primary forest is now farmland.", "The city's elevation contributes to a moderate tropical savanna climate (Aw).", "The Ewi's palace contains historical artifacts dating back several centuries.", "Major industries include small-scale textile manufacturing and food processing.", "The city has seen rapid spatial expansion since Ekiti State was carved out of Ondo State.", "Ado Ekiti is a major hub for the production and distribution of high-quality timber."],
     },
-  },   {     id: "ng-akure-cities-v2",     type: "state-capital",     parent: "NG-ON",     coords: [5.195, 7.2526],     name: { de: "Akure", hu: "Akure", ro: "Akure", en: "Akure"},
+  },   {     id: "ng-akure-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crystal Brand",
+                  "text": "Crystal Brand ist ein Zentrum für kreative Künste in Akure, das sich der Präsentation lokaler bildender Kunst und Design widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.153025,
+                        7.286134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crystal Brand",
+                  "text": "A Crystal Brand egy kreatív művészeti központ Akurében, amely a helyi vizuális művészetek és a design bemutatásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        5.153025,
+                        7.286134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crystal Brand",
+                  "text": "Crystal Brand este un centru de arte creative din Akure, dedicat prezentării artelor vizuale și designului local.",
+                  "category": "cultural",
+                  "coords": [
+                        5.153025,
+                        7.286134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crystal Brand",
+                  "text": "Crystal Brand is a creative arts centre in Akure dedicated to showcasing local visual arts and design.",
+                  "category": "cultural",
+                  "coords": [
+                        5.153025,
+                        7.286134
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-ON",     coords: [5.195, 7.2526],     name: { de: "Akure", hu: "Akure", ro: "Akure", en: "Akure"},
     image: "/poi-images/ng-akure-cities-v2.webp",     description: {       de: "Akure verdankt seinen Reichtum dem Kakaoanbau und verbindet dörflichen Charme mit urbaner Expansion.",       hu: "Akure gazdagságát a kakaótermesztésnek köszönheti, és a falusi bájt a városi terjeszkedéssel ötvözi.",       ro: "Akure își datorează bogăția cultivării de cacao și combină farmecul rural cu expansiunea urbană.",       en: "Akure owes its wealth to cocoa farming and combines village charm with urban expansion."     , es: "Akure debe su riqueza al cultivo del cacao y combina el encanto rural con la expansión urbana.", pt: "Akure deve a sua riqueza ao cultivo do cacau e combina o charme rural com a expansão urbana.", fr: "Akure doit sa richesse à la culture du cacao et allie charme villageois et expansion urbaine."},     facts: {       de: ["Wichtiges Kakao-Handelszentrum.", "Rasches Bevölkerungswachstum."],       hu: ["Fontos kakaókereskedelmi központ.", "Gyors népességnövekedés jellemzi."],       ro: ["Centru major de comerț cu cacao.", "Creștere rapidă a populației."],       en: ["Major cocoa trading center.", "Rapid population growth."]     , es: ["Importante centro de comercio de cacao.", "Rápido crecimiento de la población."], pt: ["Importante centro de comércio de cacau.", "Rápido crescimento populacional."], fr: ["Centre important du commerce du cacao.", "Croissance démographique rapide."]}, image: "/poi-images/ng-akure-cities-v2.webp",
     descriptionAdvanced: {
       de: "Akure, die pulsierende Hauptstadt des Bundesstaates Ondo im Südwesten Nigerias, ist ein bedeutendes Zentrum der Yoruba-Kultur und ein wichtiger wirtschaftlicher Knotenpunkt. Die Stadt liegt in einer Übergangszone zwischen dem dichten Regenwald und der Savanne, was ihr ein fruchtbares Hinterland beschert. Historisch ist Akure der Sitz des Deji von Akure, dessen Palast im Stadtzentrum ein beeindruckendes Zeugnis der traditionellen Architektur und sozialen Hierarchie ist. Die Geschichte der Stadt reicht weit in die präkoloniale Zeit zurück und ist von einer starken Eigenständigkeit geprägt. Heute ist Akure vor allem für seine Rolle im Kakaohandel bekannt; die Region ist einer der größten Produzenten des Landes, was die Stadt zu einem geschäftigen Handelsplatz für Agrarexporte macht. Ein weiterer Pfeiler der Stadtidentität ist die Federal University of Technology Akure (FUTA), eine der führenden technischen Hochschulen Nigerias. Die Anwesenheit tausender Studenten und Akademiker hat die Stadt modernisiert und zur Entstehung eines lebendigen Dienstleistungs- und Technologiesektors beigetragen. Geographisch ist Akure durch sanfte Hügel und Granitformationen gekennzeichnet, die der Landschaft eine besondere Charakteristik verleihen. Die Stadt verfügt über eine gut entwickelte Infrastruktur, darunter ein Inlandsflughafen, der sie mit Lagos und Abuja verbindet. Das Stadtbild ist eine Mischung aus geschäftigen Märkten wie dem Erekesan-Markt, modernen Regierungsgebäuden und ruhigen Wohnvierteln. Kulturell ist Akure für seine Gastfreundschaft und seine kulinarischen Spezialitäten bekannt, wobei Gerichte aus lokalem Mais und Yams eine zentrale Rolle spielen. Die Bevölkerung ist überwiegend Yoruba, doch die Stadt zieht aufgrund ihrer wirtschaftlichen Chancen Menschen aus ganz Nigeria an. Die jährlichen Festivals, die dem Schutzpatron der Stadt gewidmet sind, ziehen Besucher aus der gesamten Region an und unterstreichen die tiefe Verwurzelung der Bewohner in ihren Traditionen trotz des rasanten urbanen Wachstums.",
@@ -627,7 +1518,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Coordonatele geografice ale orașului sunt 7°15′N 5°11′E.", "Akure este sediul postului de radio și televiziune de stat Ondo.", "Orașul are o rată de creștere urbană anuală de aproximativ 3,5%.", "Festivalul Igogo este cel mai mare eveniment cultural anual din Akure.", "Spitalul Universitar de Stat din Akure este un centru medical regional major.", "Altitudinea medie a orașului este de 350 de metri peste nivelul mării.", "Akure a fost un centru important de rezistență în timpul perioadei coloniale.", "Sectorul bancar și financiar a cunoscut o expansiune de 200% în ultimul deceniu."],
       en: ["Akure is the administrative headquarters of the Akure South Local Government Area.", "The city is surrounded by hills that provide a scenic backdrop to the urban sprawl.", "A major portion of the city's workforce is employed in the state civil service.", "Akure is home to several research institutes dedicated to cocoa and agriculture.", "The city’s road network connects it to neighboring state capitals like Osogbo and Ado Ekiti.", "Traditional weaving (Aso Oke) is still a practiced craft in parts of the city.", "The modern Akure Shopping Mall is one of the largest retail outlets in the region.", "Akure has a tropical wet and dry climate with a prolonged rainy season from March to October."],
     },
-  },   {     id: "ng-abeokuta-cities-v2",     type: "state-capital",     parent: "NG-OG",     coords: [3.35, 7.15],     name: { de: "Abeokuta", hu: "Abeokuta", ro: "Abeokuta", en: "Abeokuta"},
+  },   {     id: "ng-abeokuta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuti Heritage Museum",
+                  "text": "Dieses Museum in Abeokuta bewahrt das musikalische und politische Erbe der einflussreichen Kuti-Familie.",
+                  "category": "museum",
+                  "coords": [
+                        3.346709,
+                        7.150772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuti Heritage Museum",
+                  "text": "Ez az Abeokutában található múzeum a befolyásos Kuti család zenei és politikai örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        3.346709,
+                        7.150772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuti Heritage Museum",
+                  "text": "Acest muzeu din Abeokuta păstrează moștenirea muzicală și politică a influentei familii Kuti.",
+                  "category": "museum",
+                  "coords": [
+                        3.346709,
+                        7.150772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuti Heritage Museum",
+                  "text": "This museum in Abeokuta preserves the musical and political heritage of the influential Kuti family.",
+                  "category": "museum",
+                  "coords": [
+                        3.346709,
+                        7.150772
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-OG",     coords: [3.35, 7.15],     name: { de: "Abeokuta", hu: "Abeokuta", ro: "Abeokuta", en: "Abeokuta"},
     image: "/poi-images/ng-abeokuta-cities-v2.webp",     description: {       de: "Die Felsenstadt Abeokuta wird von dem massiven Olumo Rock überragt, der als historische Festung diente.",       hu: "A sziklaváros Abeokuta fölé magasodik a masszív Olumo-szikla, amely egykor történelmi erődítményként szolgált.",       ro: "Orașul stâncos Abeokuta este dominat de masivul Olumo Rock, care a servit ca fortăreață istorică.",       en: "The rock city of Abeokuta is dominated by the massive Olumo Rock, which served as a historical fortress."     , es: "La ciudad de roca de Abeokuta está dominada por la maciza Olumo Rock, que sirvió como fortaleza histórica.", pt: "A cidade rochosa de Abeokuta é dominada pela maciça Olumo Rock, que serviu como fortaleza histórica.", fr: "La ville rocheuse d'Abeokuta est dominée par l'imposant Olumo Rock, qui servait autrefois de forteresse historique."},     facts: {       de: ["Bedeutet übersetzt 'Zuflucht unter Felsen'.", "Zentrum der traditionellen Adire-Textilien."],       hu: ["A neve azt jelenti: 'Menedék a sziklák alatt'.", "A hagyományos Adire textíliák központja."],       ro: ["Numele înseamnă 'Refugiu sub stânci'.", "Centru al textilelor tradiționale Adire."],       en: ["Name translates to 'Refuge under rocks'.", "Center of traditional Adire textiles."]     , es: ["Significa 'refugio bajo las rocas'.", "Centro de los textiles tradicionales Adire."], pt: ["Significa 'refúgio sob as rochas'.", "Centro dos têxteis tradicionais Adire."], fr: ["Signifie 'refuge sous les rochers'.", "Centre des textiles traditionnels Adire."]}, image: "/poi-images/ng-abeokuta-cities-v2.webp",
     descriptionAdvanced: {
       de: "Abeokuta, die Hauptstadt des Bundesstaates Ogun im Südwesten Nigerias, ist eine Stadt von enormer historischer und kultureller Bedeutung. Der Name bedeutet wörtlich 'unter dem Felsen' und bezieht sich auf den majestätischen Olumo Rock, der den Stadtgründern, den Egba-Yoruba, im Jahr 1830 als Zufluchtsort während der Stammeskriege diente. Dieser riesige Granitfelsen dominiert noch heute das Stadtbild und ist eines der bekanntesten Touristenziele Nigerias. Geographisch liegt die Stadt am Ufer des Ogun-Flusses, umgeben von einer hügeligen Landschaft mit fruchtbaren Böden. Abeokuta war historisch ein Zentrum für den Handel mit Baumwolle und Indigo; die traditionelle Adire-Textilfärbekunst, bei der wunderschöne indigoblaue Muster entstehen, ist hier weltberühmt. Die Wirtschaft der Stadt ist heute vielfältig und umfasst den Bergbau (insbesondere Kalkstein und Granit), die Landwirtschaft (Kakao, Kautschuk, Ölpalmen) und den Dienstleistungssektor. Abeokuta ist stolz auf sein Erbe als Bildungszentrum und beherbergt die Federal University of Agriculture (FUNAAB). Die Stadt hat zahlreiche berühmte Persönlichkeiten hervorgebracht, darunter den Nobelpreisträger Wole Soyinka und den Musiker Fela Kuti. Architektonisch bietet die Stadt einen Mix aus traditionellen Palästen, wie dem des Alake von Egbaland, und kolonialen Gebäuden wie der Centenary Hall. In den letzten Jahren wurde die Infrastruktur massiv modernisiert, einschließlich der Anbindung an die neue Eisenbahnstrecke nach Lagos und Ibadan. Der Itoku-Markt ist das Herz des Adire-Handels, wo Besucher die Handwerkskunst direkt erleben können. Abeokuta bleibt ein Symbol für den Widerstand und den kulturellen Stolz der Yoruba und ist ein unverzichtbarer Ort für jeden, der die Geschichte Westafrikas verstehen will.",
@@ -655,7 +1591,88 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Adăpostește Pădurea Sacră Osun-Osogbo, sit al patrimoniului mondial UNESCO.", "Orașul este centrul vopsirii textilelor prin tehnica tradițională „adire”.", "Râul Osun este considerat sacru și dă numele statului și orașului.", "Multe sculpturi din pădurea sacră au fost realizate de artista Susanne Wenger.", "Este un nod feroviar crucial pe ruta principală dinspre Lagos spre nord.", "Găzduiește un important laminor de oțel, motor al industriei locale.", "Festivalul Osun-Osogbo este un eveniment cultural de importanță globală.", "Populația este majoritar Yoruba, păstrând tradiții ancestrale vii."],
       en: ["Home to the Osun-Osogbo Sacred Grove, a UNESCO World Heritage site.", "Renowned as the national center for traditional indigo-dyed 'adire' fabrics.", "The city is named after the goddess Osun, associated with the local river.", "Features a unique blend of modern art and ancient Yoruba spirituality.", "A major industrial hub hosting one of Nigeria's steel rolling mills.", "The annual Osun-Osogbo festival is a key event for the African diaspora.", "Strategically located on the main railway line linking Lagos to Kano.", "The Ataoja's Palace is a significant cultural and architectural landmark."],
     },
-  },   {     id: "ng-bauchi-city-cities-v2",     type: "state-capital",     parent: "NG-BA",     coords: [9.8439, 10.3158],     name: { de: "Bauchi (Stadt)", hu: "Bauchi", ro: "Bauchi", en: "Bauchi"},
+  },   {     id: "ng-bauchi-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emir's Palace",
+                  "text": "Der Emir-Palast ist ein großer, traditioneller Architekturkomplex, der als königliche Residenz in Bauchi dient.",
+                  "category": "castle",
+                  "coords": [
+                        9.846498,
+                        10.309923
+                  ]
+            },
+            {
+                  "name": "Open Air Theater Complex",
+                  "text": "Dieser weitläufige Freilichttheater-Komplex in Bauchi beherbergt verschiedene lokale Kulturaufführungen und öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.83175,
+                        10.314671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emir's Palace",
+                  "text": "Az emír palotája egy hatalmas, hagyományos építészeti komplexum, amely királyi rezidenciaként szolgál Bauchiban.",
+                  "category": "castle",
+                  "coords": [
+                        9.846498,
+                        10.309923
+                  ]
+            },
+            {
+                  "name": "Open Air Theater Complex",
+                  "text": "Ez a hatalmas bauchii szabadtéri színházkomplexum különféle helyi kulturális előadásoknak és nyilvános eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        9.83175,
+                        10.314671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emir's Palace",
+                  "text": "Palatul Emirului este un complex arhitectural tradițional grandios care servește drept reședință regală în Bauchi.",
+                  "category": "castle",
+                  "coords": [
+                        9.846498,
+                        10.309923
+                  ]
+            },
+            {
+                  "name": "Open Air Theater Complex",
+                  "text": "Acest complex extins de teatru în aer liber din Bauchi găzduiește diverse spectacole culturale locale și evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        9.83175,
+                        10.314671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emir's Palace",
+                  "text": "The Emir's Palace is a grand, traditional architectural complex serving as the royal residence in Bauchi.",
+                  "category": "castle",
+                  "coords": [
+                        9.846498,
+                        10.309923
+                  ]
+            },
+            {
+                  "name": "Open Air Theater Complex",
+                  "text": "This expansive open-air theatre complex in Bauchi hosts various local cultural performances and public events.",
+                  "category": "cultural",
+                  "coords": [
+                        9.83175,
+                        10.314671
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-BA",     coords: [9.8439, 10.3158],     name: { de: "Bauchi (Stadt)", hu: "Bauchi", ro: "Bauchi", en: "Bauchi"},
     image: "/poi-images/ng-bauchi-city-cities-v2.webp",     description: {       de: "Die ruhige Stadt Bauchi dient als Tor zum Yankari-Nationalpark und hat ein reiches islamisches Erbe.",       hu: "A békés Bauchi városa a Yankari Nemzeti Park kapujaként szolgál, és gazdag iszlám örökséggel rendelkezik.",       ro: "Liniștitul oraș Bauchi servește ca poartă către Parcul Național Yankari și are o bogată moștenire islamică.",       en: "The peaceful city of Bauchi serves as the gateway to the Yankari National Park and has a rich Islamic heritage."     , es: "La tranquila ciudad de Bauchi sirve como puerta de entrada al Parque Nacional Yankari y cuenta con una rica herencia islámica.", pt: "A tranquila cidade de Bauchi serve como porta de entrada para o Parque Nacional Yankari e possui uma rica herança islâmica.", fr: "La ville paisible de Bauchi sert de porte d'entrée au parc national de Yankari et possède un riche patrimoine islamique."},     facts: {       de: ["Grab des ersten Premierministers.", "Zentrum der Landwirtschaft im Nordosten."],       hu: ["Az első miniszterelnök sírja itt található.", "Az északkeleti mezőgazdaság központja."],       ro: ["Mormântul primului prim-ministru.", "Centrul agriculturii din nord-est."],       en: ["Tomb of the first prime minister.", "Center of agriculture in the northeast."]     , es: ["Tumba del primer Primer Ministro.", "Centro de la agricultura en el noreste."], pt: ["Túmulo do primeiro Primeiro-Ministro.", "Centro da agricultura no nordeste."], fr: ["Tombeau du premier Premier ministre.", "Centre de l'agriculture dans le nord-est."]}, image: "/poi-images/ng-bauchi-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Bauchi, die Hauptstadt des gleichnamigen Bundesstaates im Nordosten Nigerias, ist ein faszinierendes Zentrum der Geschichte, Kultur und Natur. Gegründet im frühen 19. Jahrhundert von Baushe, einem Jäger und treuen Gefährten von Usman dan Fodio, entwickelte sich die Stadt schnell zu einem bedeutenden Emirat innerhalb des Sokoto-Kalifats. Die Stadtmauern von Bauchi, von denen heute noch Reste zu sehen sind, zeugen von ihrer militärischen und strategischen Bedeutung in der Vergangenheit. Eines der bedeutendsten Bauwerke der Stadt ist die Grabstätte von Sir Abubakar Tafawa Balewa, dem ersten Premierminister des unabhängigen Nigeria. Dieses Denkmal ist nicht nur ein Ort der nationalen Ehrung, sondern auch ein Beispiel für moderne islamische Architektur. Geographisch liegt Bauchi am Rande des Jos-Plateaus in einer Übergangszone zwischen Savanne und Bergland, was ihr ein angenehmeres Klima als vielen anderen Städten im Norden verleiht. Die Stadt ist weltbekannt als Tor zum Yankari-Nationalpark, dem wichtigsten Wildschutzgebiet Nigerias, das südöstlich der Stadt liegt. Die Wirtschaft von Bauchi basiert primär auf der Landwirtschaft, dem Handel und dem Dienstleistungssektor. Produkte wie Hirse, Mais, Erdnüsse und Vieh werden auf den geschäftigen Märkten der Stadt gehandelt. Die Abubakar Tafawa Balewa University (ATBU) ist ein akademisches Exzellenzzentrum, das Studenten aus ganz Westafrika anzieht und der Stadt eine lebendige Atmosphäre verleiht. Die Bevölkerung ist ethnisch vielfältig, wobei Hausa, Fulani und Gerawa die Mehrheit bilden, was sich in einer reichen kulinarischen und kulturellen Tradition widerspiegelt. Die jährlichen Durbar-Festivals, bei denen prachtvoll geschmückte Reiter den Emir ehren, sind spektakuläre Ereignisse, die die tiefe Verbundenheit der Bewohner mit ihrem aristokratischen Erbe zeigen. Bauchi ist zudem ein wichtiger Verkehrsknotenpunkt, der den Nordosten mit der Hauptstadt Abuja und dem Süden verbindet. Trotz der modernen Herausforderungen bewahrt Bauchi den Charme einer historischen Oase, in der traditionelle Werte und modernes Streben nach Bildung und Fortschritt Hand in Hand gehen.",
@@ -669,7 +1686,88 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Coordonatele geografice ale orașului Bauchi sunt 10°18′N 9°50′E.", "Orașul a fost un centru major de rezistență împotriva expansiunii coloniale.", "Temperatura medie în Bauchi variază între 22°C și 32°C pe parcursul anului.", "Mausoleul lui Balewa a fost proiectat de arhitecți nigerieni și inaugurat în 1979.", "Piața Wunti este cel mai mare hub comercial pentru electronice din nord-est.", "Bauchi are o rată de creștere a populației de aproximativ 3% pe an.", "Orașul găzduiește sediul Diviziei 3 Armate a Nigeriei.", "Lacul Gubi este o destinație populară pentru activități de recreere locale."],
       en: ["Bauchi serves as the administrative seat of the Bauchi Local Government Area.", "The city's ancient walls originally had nine gates, some of which are being restored.", "Bauchi is located approximately 450 kilometers northeast of the capital, Abuja.", "The city is a major collection point for groundnuts produced in the northern plains.", "ATBU University specializes in engineering, agriculture, and science technology.", "Traditional weaving of 'Babban Riga' (large robes) is a major craft industry.", "The Bauchi State Library is one of the largest and oldest in Northern Nigeria.", "The city acts as a gateway connecting the central Jos Plateau to the Chad Basin."],
     },
-  },   {     id: "ng-owerri-cities-v2",     type: "state-capital",     parent: "NG-IM",     coords: [7.0253, 5.4833],     name: { de: "Owerri", hu: "Owerri", ro: "Owerri", en: "Owerri"},
+  },   {     id: "ng-owerri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "RosyKids Montesori",
+                  "text": "RosyKids Montessori fungiert als Bildungseinrichtung für Kinder, die in einem institutionellen Gebäudekomplex in Owerri untergebracht ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.010874,
+                        5.4816
+                  ]
+            },
+            {
+                  "name": "Art Noveau Event Centre",
+                  "text": "Das Art Noveau Event Centre bietet einen stilisierten kommerziellen Raum für die Ausrichtung kreativer Ausstellungen und großer Empfänge in Owerri.",
+                  "category": "cultural",
+                  "coords": [
+                        7.017175,
+                        5.483303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RosyKids Montesori",
+                  "text": "A RosyKids Montessori gyermekoktatási intézményként működik egy Owerri-i intézményi komplexumban.",
+                  "category": "religious",
+                  "coords": [
+                        7.010874,
+                        5.4816
+                  ]
+            },
+            {
+                  "name": "Art Noveau Event Centre",
+                  "text": "Az Art Noveau Event Centre egy stilizált kereskedelmi teret biztosít kreatív kiállítások és nagy fogadások megrendezésére Owerriben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.017175,
+                        5.483303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RosyKids Montesori",
+                  "text": "RosyKids Montessori funcționează ca o unitate de învățământ pentru copii, stabilită într-un complex instituțional din Owerri.",
+                  "category": "religious",
+                  "coords": [
+                        7.010874,
+                        5.4816
+                  ]
+            },
+            {
+                  "name": "Art Noveau Event Centre",
+                  "text": "Centrul de evenimente Art Noveau oferă un spațiu comercial stilizat pentru găzduirea de expoziții creative și recepții ample în Owerri.",
+                  "category": "cultural",
+                  "coords": [
+                        7.017175,
+                        5.483303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "RosyKids Montesori",
+                  "text": "RosyKids Montessori functions as a children's educational facility established within an institutional compound in Owerri.",
+                  "category": "religious",
+                  "coords": [
+                        7.010874,
+                        5.4816
+                  ]
+            },
+            {
+                  "name": "Art Noveau Event Centre",
+                  "text": "The Art Noveau Event Centre provides a stylized commercial space for hosting creative exhibitions and large receptions in Owerri.",
+                  "category": "cultural",
+                  "coords": [
+                        7.017175,
+                        5.483303
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-IM",     coords: [7.0253, 5.4833],     name: { de: "Owerri", hu: "Owerri", ro: "Owerri", en: "Owerri"},
     image: "/poi-images/ng-owerri-cities-v2.webp",     description: {       de: "Owerri ist als Unterhaltungshauptstadt Nigerias bekannt und bietet eine immense Dichte an Hotels und Ausgehmöglichkeiten.",       hu: "Owerri Nigéria szórakoztatóipari fővárosaként ismert, ahol rengeteg szálloda és éjszakai szórakozóhely található.",       ro: "Owerri este cunoscut drept capitala divertismentului din Nigeria, oferind o densitate imensă de hoteluri și viață de noapte.",       en: "Owerri is known as the entertainment capital of Nigeria, offering an immense density of hotels and nightlife."     , es: "Owerri es conocida como la capital del entretenimiento de Nigeria y ofrece una inmensa densidad de hoteles y opciones de ocio nocturno.", pt: "Owerri é conhecida como a capital do entretenimento da Nigéria e oferece uma imensa densidade de hotéis e opções de vida noturna.", fr: "Owerri est connue comme la capitale du divertissement du Nigeria et offre une immense densité d'hôtels et de lieux de sortie."},     facts: {       de: ["Hohe Konzentration von Bildungsstätten.", "Herzstück der Igbo-Kultur."],       hu: ["Magas az oktatási intézmények koncentrációja.", "Az igbo kultúra központi eleme."],       ro: ["Concentrație mare de instituții de învățământ.", "Inima culturii Igbo."],       en: ["High concentration of educational institutions.", "Heart of the Igbo culture."]     , es: ["Alta concentración de instituciones educativas.", "Corazón de la cultura igbo."], pt: ["Alta concentração de instituições educativas.", "Coração da cultura igbo."], fr: ["Haute concentration d'établissements d'enseignement.", "Cœur de la culture Igbo."]}, image: "/poi-images/ng-owerri-cities-v2.webp",
     descriptionAdvanced: {
       de: "Owerri, die lebhafte Hauptstadt des Bundesstaates Imo im Südosten Nigerias, gilt als das kulturelle und kommerzielle Herz des Igbo-Landes. Gegebenenfalls als „Unterhaltungshauptstadt Nigerias“ bezeichnet, ist die Stadt weit über ihre Grenzen hinaus für ihr pulsierendes Nachtleben, ihre erstklassigen Hotels und ihre gastfreundliche Atmosphäre bekannt. Owerri liegt eingebettet zwischen den Flüssen Otamiri und Nworie, deren Zusammenfluss der Stadt eine besondere geografische Identität verleiht. Die Geschichte von Owerri als administratives Zentrum begann während der britischen Kolonialzeit, doch ihre Bedeutung wuchs massiv nach der Gründung des Imo-Staates im Jahr 1976. Wirtschaftlich profitiert die Stadt von ihrer strategischen Lage im Zentrum des Igbo-Herzlandes, was sie zu einem bedeutenden Handelsplatz für landwirtschaftliche Erzeugnisse wie Palmöl, Mais und Maniok macht. Owerri hat sich zudem zu einem wichtigen Bildungszentrum entwickelt, das namhafte Institutionen wie die Federal University of Technology Owerri (FUTO) und die Imo State University beherbergt. Diese akademische Präsenz verleiht der Stadt eine jugendliche Energie und fördert Innovationen in verschiedenen Sektoren. Ein architektonisches Highlight ist die Assumpta-Kathedrale, eine der größten Kirchen Westafrikas, deren markante Kuppel das Stadtbild prägt. Kulturell ist Owerri tief in den Traditionen der Igbo verwurzelt, was sich in zahlreichen Festen, der lokalen Küche und der lebhaften Kunstszene widerspiegelt. Die Stadt hat in den letzten Jahren eine rasante urbane Expansion erlebt, wobei moderne Infrastrukturprojekte, darunter Einkaufszentren und neue Wohngebiete, entstanden sind. Trotz der Modernisierung hat Owerri seinen Ruf als Stadt der Entspannung und des Feierns bewahrt, was sie zu einem beliebten Ziel für Inlandstouristen macht. Die klimatischen Bedingungen sind tropisch-feucht, mit üppiger Vegetation, die die Stadt umgibt und ihr ein grünes Erscheinungsbild verleiht.",
@@ -711,7 +1809,88 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Umuahia este situată la aproximativ 590 km sud de capitala federală Abuja.", "Orașul este centrul administrativ al statului Abia din anul 1991.", "Altitudinea maximă în zona urbană este de 152 de metri.", "Piața Orie Umuahia este unul dintre cele mai vechi centre comerciale din regiune.", "Muzeul Războiului conține singura navă de război biafreză conservată.", "Orașul beneficiază de un climat tropical cu două sezoane distincte.", "Umuahia este cunoscută pentru festivalul anual 'New Yam Festival'.", "Principala sursă de apă pentru oraș este râul Imo din apropiere."],
       en: ["The city's railway station was completed by the British in 1916.", "Umuahia hosts the Michael Okpara University of Agriculture, Umudike.", "The National War Museum was established to promote national reconciliation.", "The city serves as the headquarters for both Umuahia North and South LGAs.", "The Ojukwu Bunker, a key historic site, is located within the city limits.", "Umuahia's terrain is characterized by a dissected plateau landscape.", "It is a major transit point for commuters traveling between Aba and Enugu.", "The town was originally settled by the Ibeku and Olokoro clans."],
     },
-  },   {     id: "ng-awka-cities-v2",     type: "state-capital",     parent: "NG-AN",     coords: [7.0667, 6.2167],     name: { de: "Awka", hu: "Awka", ro: "Awka", en: "Awka"},
+  },   {     id: "ng-awka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cattle Market Awka",
+                  "text": "Der Viehmarkt in Awka ist ein weitläufiges Handelszentrum, in dem Hirten und lokale Händler zum Viehhandel zusammenkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137311,
+                        6.247348
+                  ]
+            },
+            {
+                  "name": "unzik zoo",
+                  "text": "Der Unizik-Zoo an der Nnamdi Azikiwe University in Awka beherbergt verschiedene einheimische Tierarten für Bildungsforschung und öffentliche Besichtigungen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.104001,
+                        6.253174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cattle Market Awka",
+                  "text": "Az awkai szarvasmarhapiac egy hatalmas kereskedelmi csomópont, ahol a pásztorok és a helyi kereskedők gyűlnek össze állatokat cserélni.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137311,
+                        6.247348
+                  ]
+            },
+            {
+                  "name": "unzik zoo",
+                  "text": "Az awkai Nnamdi Azikiwe Egyetemen található Unizik Állatkert különböző őshonos állatfajoknak ad otthont oktatási kutatások és a nagyközönség számára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.104001,
+                        6.253174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cattle Market Awka",
+                  "text": "Piața de vite din Awka este un centru comercial vast, unde păstorii și comercianții locali se adună pentru a face comerț cu animale.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137311,
+                        6.247348
+                  ]
+            },
+            {
+                  "name": "unzik zoo",
+                  "text": "Grădina Zoologică Unizik, situată la Universitatea Nnamdi Azikiwe din Awka, găzduiește diverse specii de animale native pentru cercetare educațională și vizionare publică.",
+                  "category": "recreational",
+                  "coords": [
+                        7.104001,
+                        6.253174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cattle Market Awka",
+                  "text": "The Cattle Market in Awka is a sprawling commercial hub where herdsmen and local traders converge to trade livestock.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137311,
+                        6.247348
+                  ]
+            },
+            {
+                  "name": "unzik zoo",
+                  "text": "The Unizik Zoo, located at the Nnamdi Azikiwe University in Awka, houses various native animal species for educational research and public viewing.",
+                  "category": "recreational",
+                  "coords": [
+                        7.104001,
+                        6.253174
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-AN",     coords: [7.0667, 6.2167],     name: { de: "Awka", hu: "Awka", ro: "Awka", en: "Awka"},
     image: "/poi-images/ng-awka-cities-v2.webp",     description: {       de: "Awka war historisch für seine herausragenden Eisenschmiede bekannt und hat sich zu einem pulsierenden Verwaltungszentrum gewandelt.",       hu: "Awka történelmileg kiváló vasműveseiről volt ismert, mára nyüzsgő adminisztratív központtá alakult.",       ro: "Awka a fost istoric cunoscută pentru fierarii săi excepționali și s-a transformat într-un vibrant centru administrativ.",       en: "Awka was historically known for its outstanding ironsmiths and has transformed into a vibrant administrative center."     , es: "Awka fue históricamente conocida por sus destacados herreros y se ha transformado en un vibrante centro administrativo.", pt: "Awka foi historicamente conhecida pelos seus excelentes ferreiros e transformou-se num vibrante centro administrativo.", fr: "Awka était historiquement connue pour ses forgerons exceptionnels et s'est transformée en un centre administratif dynamique."},     facts: {       de: ["Zentrum der Igbo-Technologie.", "Sitz der Nnamdi Azikiwe University."],       hu: ["Az igbo technológia központja.", "A Nnamdi Azikiwe Egyetem székhelye."],       ro: ["Centrul tehnologiei Igbo.", "Sediul Universității Nnamdi Azikiwe."],       en: ["Center of Igbo technology.", "Seat of Nnamdi Azikiwe University."]     , es: ["Centro de la tecnología Igbo.", "Sede de la Nnamdi Azikiwe University."], pt: ["Centro da tecnologia Igbo.", "Sede da Nnamdi Azikiwe University."], fr: ["Centre de la technologie Igbo.", "Siège de la Nnamdi Azikiwe University."]}, image: "/poi-images/ng-awka-cities-v2.webp",
     descriptionAdvanced: {
       de: "Awka, die Hauptstadt des Bundesstaates Anambra im Südosten Nigerias, ist eine geschichtsträchtige Stadt, die vor allem für ihre jahrhundertealte Tradition des Schmiedehandwerks und der Metallverarbeitung bekannt ist. Gelegen im Herzen des Igbolandes, liegt Awka strategisch günstig an der Hauptverkehrsader zwischen den Metropolen Enugu und Onitsha. Historisch gesehen war die Stadt ein Zentrum für die Herstellung von Werkzeugen, Waffen und rituellen Objekten, was den Schmieden von Awka weit über die Region hinaus Ruhm einbrachte. Diese handwerkliche Meisterschaft legte den Grundstein für die heutige industrielle und unternehmerische Energie der Stadt. Seit der Ernennung zur Hauptstadt im Jahr 1991 hat sich Awka rasant gewandelt. Das Stadtbild wird heute durch moderne Regierungsgebäude, expandierende Wohnviertel und eine wachsende Anzahl von Handelszentren geprägt. Ein bedeutender Impulsgeber für die Stadtentwicklung ist die Nnamdi Azikiwe University (UNIZIK), die Awka den Charakter einer lebendigen Universitätsstadt verleiht. Tausende Studenten prägen das soziale Leben und fördern den Dienstleistungssektor. Geographisch liegt Awka in einer hügeligen Ebene, die durch fruchtbare Böden und ein tropisches Savannenklima gekennzeichnet ist. Die Wirtschaft der Stadt stützt sich neben der Verwaltung auf den Handel mit landwirtschaftlichen Produkten wie Yams, Maniok und Palmöl sowie auf kleine und mittlere Industriebetriebe. Kulturell ist Awka tief in den Traditionen der Igbo verwurzelt. Die traditionellen Institutionen, angeführt von lokalen Herrschern, spielen nach wie vor eine wichtige Rolle im gesellschaftlichen Gefüge. Das Imo-Awka-Festival ist der kulturelle Höhepunkt des Jahres, bei dem Maskentänze, Musik und traditionelle Riten die Stadt in ein farbenfrohes Spektakel verwandeln. Trotz der Modernisierung und des zunehmenden Verkehrsaufkommens bewahrt Awka einen starken Gemeinschaftsgeist. Die Stadt gilt als wichtiges Bildungs- und Verwaltungszentrum, das eine Schlüsselrolle in der sozioökonomischen Entwicklung des dicht besiedelten Bundesstaates Anambra spielt. Für Besucher bietet Awka einen authentischen Einblick in die handwerkliche Genialität und die kulturelle Widerstandsfähigkeit des Igbo-Volkes.",
@@ -725,7 +1904,268 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Coordonatele orașului Awka sunt 6°12′N 7°04′E.", "Orașul este situat la aproximativ 600 km de capitala federală Abuja.", "Awka a fost un punct cheie în logistica forțelor Biafra în timpul războiului civil.", "Piața Eke Awka este cel mai mare centru comercial tradițional din oraș.", "Rata de ocupare a hotelurilor din Awka este printre cele mai mari din sud-est.", "Orașul are un climat tropical de savană cu temperaturi ridicate tot anul.", "Arta turnării bronzului din Awka este expusă în muzee naționale din Nigeria.", "Guvernul statului Anambra are sediul în Complexul Administrativ de la Jerome Udoji."],
       en: ["Awka was the site of the first Nigerian iron smelting furnace discovered by archaeologists.", "The city's name is often associated with the 'Awka Council of Guilds'.", "Awka is located midway between the cities of Enugu and Onitsha.", "The city has a major concentration of printing and publishing firms.", "The Opeti and Obibia streams flow through the city, providing natural drainage.", "Awka is a major center for the production of traditional Igbo musical instruments.", "The city's road network was significantly upgraded under the 'Anambra Urban Renewal' project.", "Awka serves as the seat of the Anglican and Catholic Dioceses of the region."],
     },
-  },   {     id: "ng-yenagoa-cities-v2",     type: "state-capital",     parent: "NG-BY",     coords: [6.2642, 4.9333],     name: { de: "Yenagoa", hu: "Yenagoa", ro: "Yenagoa", en: "Yenagoa"},
+  },   {     id: "ng-yenagoa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golden Gate Multipurpose Hall",
+                  "text": "Die Golden Gate Multipurpose Hall bietet einen vielseitigen Innenbereich für die Ausrichtung verschiedener Veranstaltungen und Bankette in Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.342013,
+                        4.951714
+                  ]
+            },
+            {
+                  "name": "Nengi's Place",
+                  "text": "Nengi's Place ist ein lokaler städtischer Treffpunkt, der Unterhaltung und sozialen Raum für die Bewohner von Yenagoa bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317275,
+                        4.925962
+                  ]
+            },
+            {
+                  "name": "D. S. P. Alamiesiegha Memorial Hall",
+                  "text": "Die D. S. P. Alamiesiegha Memorial Hall fungiert als städtisches Gedenktheater, das kulturelle Aufführungen in Yenagoa veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        6.276637,
+                        4.939481
+                  ]
+            },
+            {
+                  "name": "Alamieyesiegha Castle",
+                  "text": "Alamieyesiegha Castle ist ein markantes Anwesen in Yenagoa, das sich durch seine imposante Architektur und seine Verbindung zur regionalen politischen Geschichte auszeichnet.",
+                  "category": "castle",
+                  "coords": [
+                        6.34329,
+                        4.948846
+                  ]
+            },
+            {
+                  "name": "Peace Park",
+                  "text": "Der Peace Park bietet eine begrünte Außenanlage zur Entspannung und für die öffentliche Erholung im Herzen von Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.275098,
+                        4.93485
+                  ]
+            },
+            {
+                  "name": "Gabriel Okara Cultural Centre",
+                  "text": "Das Gabriel Okara Cultural Centre ist ein wichtiger Theatersaal, der sich der Präsentation der darstellenden Künste und des künstlerischen Erbes der Region widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        6.269053,
+                        4.934526
+                  ]
+            },
+            {
+                  "name": "Royal Tulip Castle",
+                  "text": "Das Royal Tulip Castle ist ein mit schlossartigen architektonischen Elementen erbautes Anwesen, das gehobene Unterkünfte und große Veranstaltungsräume in Yenagoa bietet.",
+                  "category": "castle",
+                  "coords": [
+                        6.269561,
+                        4.949156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Golden Gate Multipurpose Hall",
+                  "text": "A Golden Gate Multipurpose Hall sokoldalú beltéri teret kínál különféle események és bankettek megrendezésére Yenagoában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.342013,
+                        4.951714
+                  ]
+            },
+            {
+                  "name": "Nengi's Place",
+                  "text": "A Nengi's Place egy helyi városi látványosság, amely szórakozási és közösségi teret nyújt Yenagoa lakosainak.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317275,
+                        4.925962
+                  ]
+            },
+            {
+                  "name": "D. S. P. Alamiesiegha Memorial Hall",
+                  "text": "A D. S. P. Alamiesiegha Emlékcsarnok egy emlékműként szolgáló városi színház, amely kulturális előadásoknak ad otthont Yenagoában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.276637,
+                        4.939481
+                  ]
+            },
+            {
+                  "name": "Alamieyesiegha Castle",
+                  "text": "Az Alamieyesiegha kastély egy jelentős birtok Yenagoában, amelyet impozáns építészeti szerkezete és a regionális politikai történelemmel való kapcsolata tesz különlegessé.",
+                  "category": "castle",
+                  "coords": [
+                        6.34329,
+                        4.948846
+                  ]
+            },
+            {
+                  "name": "Peace Park",
+                  "text": "A Peace Park egy parkosított szabadtéri zöldterületet kínál a kikapcsolódásra és a nyilvános rekreációra Yenagoa szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.275098,
+                        4.93485
+                  ]
+            },
+            {
+                  "name": "Gabriel Okara Cultural Centre",
+                  "text": "A Gabriel Okara Kulturális Központ jelentős színházi helyszínként szolgál, amely a régió előadóművészetének és művészeti örökségének bemutatására összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        6.269053,
+                        4.934526
+                  ]
+            },
+            {
+                  "name": "Royal Tulip Castle",
+                  "text": "A Royal Tulip Castle egy kastélyszerű építészeti elemekkel épült birtok, amely exkluzív szállást és lenyűgöző rendezvénytereket kínál Yenagoában.",
+                  "category": "castle",
+                  "coords": [
+                        6.269561,
+                        4.949156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golden Gate Multipurpose Hall",
+                  "text": "Sala polivalentă Golden Gate oferă un spațiu interior versatil pentru găzduirea diverselor evenimente și banchete în Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.342013,
+                        4.951714
+                  ]
+            },
+            {
+                  "name": "Nengi's Place",
+                  "text": "Nengi's Place funcționează ca o atracție urbană locală care oferă divertisment și spațiu de socializare pentru locuitorii din Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317275,
+                        4.925962
+                  ]
+            },
+            {
+                  "name": "D. S. P. Alamiesiegha Memorial Hall",
+                  "text": "Sala Memorială D. S. P. Alamiesiegha servește ca un teatru civic comemorativ ce găzduiește spectacole culturale în Yenagoa.",
+                  "category": "cultural",
+                  "coords": [
+                        6.276637,
+                        4.939481
+                  ]
+            },
+            {
+                  "name": "Alamieyesiegha Castle",
+                  "text": "Castelul Alamieyesiegha este o proprietate proeminentă în Yenagoa, recunoscută pentru structura sa arhitecturală impunătoare și asocierea cu istoria politică regională.",
+                  "category": "castle",
+                  "coords": [
+                        6.34329,
+                        4.948846
+                  ]
+            },
+            {
+                  "name": "Peace Park",
+                  "text": "Peace Park oferă un spațiu verde amenajat pentru relaxare și recreere publică în inima orașului Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.275098,
+                        4.93485
+                  ]
+            },
+            {
+                  "name": "Gabriel Okara Cultural Centre",
+                  "text": "Centrul Cultural Gabriel Okara este un teatru principal dedicat promovării artelor spectacolului și moștenirii artistice din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        6.269053,
+                        4.934526
+                  ]
+            },
+            {
+                  "name": "Royal Tulip Castle",
+                  "text": "Castelul Royal Tulip este o proprietate construită cu elemente arhitecturale asemănătoare unui castel, oferind cazare de lux și spații mari pentru evenimente în Yenagoa.",
+                  "category": "castle",
+                  "coords": [
+                        6.269561,
+                        4.949156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Gate Multipurpose Hall",
+                  "text": "Golden Gate Multipurpose Hall offers a versatile indoor space for hosting varied events and banquets in Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.342013,
+                        4.951714
+                  ]
+            },
+            {
+                  "name": "Nengi's Place",
+                  "text": "Nengi's Place operates as a local urban attraction providing entertainment and social space for residents in Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317275,
+                        4.925962
+                  ]
+            },
+            {
+                  "name": "D. S. P. Alamiesiegha Memorial Hall",
+                  "text": "The D. S. P. Alamiesiegha Memorial Hall functions as a commemorative civic theatre hosting cultural performances in Yenagoa.",
+                  "category": "cultural",
+                  "coords": [
+                        6.276637,
+                        4.939481
+                  ]
+            },
+            {
+                  "name": "Alamieyesiegha Castle",
+                  "text": "Alamieyesiegha Castle is a prominent estate in Yenagoa distinguished by its imposing architectural structure and association with regional political history.",
+                  "category": "castle",
+                  "coords": [
+                        6.34329,
+                        4.948846
+                  ]
+            },
+            {
+                  "name": "Peace Park",
+                  "text": "Peace Park provides a landscaped outdoor green space for relaxation and public recreation in the heart of Yenagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        6.275098,
+                        4.93485
+                  ]
+            },
+            {
+                  "name": "Gabriel Okara Cultural Centre",
+                  "text": "The Gabriel Okara Cultural Centre serves as a major theatrical venue dedicated to showcasing the region's performing arts and artistic heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        6.269053,
+                        4.934526
+                  ]
+            },
+            {
+                  "name": "Royal Tulip Castle",
+                  "text": "Royal Tulip Castle is an estate built with castle-like architectural elements, offering upscale accommodations and grand event spaces in Yenagoa.",
+                  "category": "castle",
+                  "coords": [
+                        6.269561,
+                        4.949156
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-BY",     coords: [6.2642, 4.9333],     name: { de: "Yenagoa", hu: "Yenagoa", ro: "Yenagoa", en: "Yenagoa"},
     image: "/poi-images/ng-yenagoa-cities-v2.webp",     description: {       de: "Die wasserreiche Stadt Yenagoa liegt inmitten der Mangrovensümpfe und koordiniert die Ölproduktion des Ijaw-Volkes.",       hu: "A vizekben gazdag Yenagoa a mangrovemocsarak közepén fekszik, és az ijaw nép olajkitermelését koordinálja.",       ro: "Orașul bogat în apă Yenagoa este situat în mijlocul mlaștinilor de mangrove și coordonează producția de petrol a poporului Ijaw.",       en: "The water-rich city of Yenagoa lies amidst the mangrove swamps and coordinates the oil production of the Ijaw people."     , es: "La ciudad de Yenagoa, rica en agua, está situada entre pantanos de manglares y coordina la producción de petróleo del pueblo Ijaw.", pt: "A cidade de Yenagoa, rica em água, situa-se entre pântanos de mangais e coordena a produção de petróleo do povo Ijaw.", fr: "La ville de Yenagoa, riche en eau, est située au milieu des marécages de mangroves et coordonne la production de pétrole du peuple Ijaw."},     facts: {       de: ["Tief verwurzelt in der Fischerei.", "Umgrenzt von zahlreichen Bächen."],       hu: ["Mélyen gyökerezik a halászatban.", "Számos patak határolja."],       ro: ["Adânc înrădăcinat în pescuit.", "Mărginit de numeroase pâraie."],       en: ["Deeply rooted in fishing.", "Bordered by numerous creeks."]     , es: ["Profundamente arraigada en la pesca.", "Rodeada de numerosos arroyos."], pt: ["Profundamente enraizada na pesca.", "Cercada por inúmeros riachos."], fr: ["Profondément ancrée dans la pêche.", "Entourée de nombreux ruisseaux."]}, image: "/poi-images/ng-yenagoa-cities-v2.webp",
     descriptionAdvanced: {
       de: "Yenagoa, die Hauptstadt des Bundesstaates Bayelsa in Nigeria, liegt tief im Herzen des Niger-Deltas, einer Region von enormer wirtschaftlicher und ökologischer Bedeutung. Die Stadt wurde 1996 zur Hauptstadt ernannt, als Bayelsa von Rivers State abgetrennt wurde, und hat seitdem eine rasante, wenn auch herausfordernde Transformation durchgemacht. Geografisch ist Yenagoa fast vollständig von Wasserwegen und Sumpfgebieten umgeben, was das Stadtbild maßgeblich prägt und die Infrastrukturentwicklung erschwert. Das Klima ist extrem feucht und tropisch, mit heftigen Regenfällen über den größten Teil des Jahres. Die Wirtschaft der Stadt ist untrennbar mit der Erdölindustrie verbunden, da Bayelsa zu den ölreichsten Gebieten Nigerias gehört; Yenagoa dient hierbei als administratives Zentrum für staatliche Regulierungsbehörden und Ölgesellschaften. Ein markantes Wahrzeichen der Stadt ist der Melford Okilo Expressway, der die Hauptader des urbanen Lebens bildet, sowie das moderne Regierungsgebäude (Government House) und das Gloryland Castle. Die Bevölkerung besteht überwiegend aus den Ijaw (Izon), dem viertgrößten Volk Nigerias, deren Kultur eng mit dem Leben am Wasser verbunden ist. Dies spiegelt sich in traditionellen Bootsrennen, Fischereifestivals und einer Küche wider, die reich an Meeresfrüchten und Kochbananen ist. Yenagoa beherbergt auch wichtige Bildungseinrichtungen wie die Niger Delta University in der Nähe, die zur intellektuellen Entwicklung der Jugend beiträgt. Trotz der Reichtümer aus dem Ölsektor kämpft die Stadt mit Umweltproblemen und dem Bedarf an besserer Stadtplanung, um den Schutz der einzigartigen Delta-Biodiversität mit dem urbanen Wachstum in Einklang zu bringen. Der Bau des Bayelsa International Airport hat die Erreichbarkeit der Stadt verbessert und soll Yenagoa als regionales Wirtschaftszentrum stärken. Die Stadt bleibt ein Symbol für das Versprechen von Wohlstand im Niger-Delta und ist ein Zentrum des politischen Bewusstseins für die Rechte der indigenen Völker der Region.",
@@ -739,7 +2179,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Yenagoa se află la aproximativ 40 km nord de Golful Guineei.", "Orașul a crescut de la o populație de sub 20.000 în 1990 la sute de mii astăzi.", "Podurile suspendate sunt elemente cheie ale infrastructurii urbane.", "Cea mai caldă lună este februarie, cu temperaturi de peste 32°C.", "Orașul găzduiește sediul central al poliției statului Bayelsa.", "Economia se bazează pe pescuit tradițional și industria de petrol.", "Piața Swali este cel mai mare hub comercial din Yenagoa.", "Yenagoa este punctul de plecare pentru transportul spre insula Brass."],
       en: ["The city is located within the Yenagoa Local Government Area.", "Yenagoa serves as the gateway to the deep-sea oil fields of the Atlantic.", "The NCDMB building in Yenagoa is 17 stories tall, making it a regional landmark.", "The city was originally a collection of farming and fishing hamlets.", "Yenagoa is roughly 500 miles south of the federal capital, Abuja.", "The vegetation is dominated by freshwater swamp forests.", "Major cultural attractions include the Isaac Boro Memorial Park.", "Yenagoa is one of the fastest-growing cities in the South-South geopolitical zone."],
     },
-  },   {     id: "ng-makurdi-cities-v2",     type: "state-capital",     parent: "NG-BE",     coords: [8.5333, 7.7333],     name: { de: "Makurdi", hu: "Makurdi", ro: "Makurdi", en: "Makurdi"},
+  },   {     id: "ng-makurdi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "WURUKUM ROUND ABOUT",
+                  "text": "Der Wurukum Round About ist ein großer Verkehrsknotenpunkt in Makurdi mit einem zentralen Skulpturendenkmal, das Pendler begrüßt.",
+                  "category": "historical",
+                  "coords": [
+                        8.54642,
+                        7.727485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "WURUKUM ROUND ABOUT",
+                  "text": "A Wurukum körforgalom egy jelentős közlekedési csomópont Makurdiban, amelynek közepén egy szobrászati emlékmű köszönti az ingázókat.",
+                  "category": "historical",
+                  "coords": [
+                        8.54642,
+                        7.727485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "WURUKUM ROUND ABOUT",
+                  "text": "Sensul giratoriu Wurukum este o intersecție rutieră majoră din Makurdi, având un monument sculptural central care întâmpină navetiștii.",
+                  "category": "historical",
+                  "coords": [
+                        8.54642,
+                        7.727485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "WURUKUM ROUND ABOUT",
+                  "text": "The Wurukum Round About is a major traffic circle in Makurdi, featuring a central sculptural monument that greets commuters.",
+                  "category": "historical",
+                  "coords": [
+                        8.54642,
+                        7.727485
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-BE",     coords: [8.5333, 7.7333],     name: { de: "Makurdi", hu: "Makurdi", ro: "Makurdi", en: "Makurdi"},
     image: "/poi-images/ng-makurdi-cities-v2.webp",     description: {       de: "Makurdi ist eine bedeutende Militärbasis und das Epizentrum für die massiven Agrarerträge der Benue-Ebene.",       hu: "Makurdi jelentős katonai bázis és a Benue-síkság hatalmas mezőgazdasági hozamainak epicentruma.",       ro: "Makurdi este o bază militară majoră și epicentrul pentru randamentele agricole masive ale câmpiilor Benue.",       en: "Makurdi is a major military base and the epicenter for the massive agricultural yields of the Benue plains."     , es: "Makurdi es una base militar significativa y el epicentro de los masivos rendimientos agrícolas de la llanura del Benue.", pt: "Makurdi é uma base militar significativa e o epicentro dos maciços rendimentos agrícolas da planície do Benue.", fr: "Makurdi est une base militaire importante et l'épicentre des rendements agricoles massifs de la plaine de la Bénoué."},     facts: {       de: ["Heimat eines großen Luftwaffenstützpunkts.", "Liegt an den Ufern des Flusses Benue."],       hu: ["Nagy légitámaszpontnak ad otthont.", "A Benue folyó partján fekszik."],       ro: ["Găzduiește o bază importantă a forțelor aeriene.", "Situat pe malurile râului Benue."],       en: ["Home to a major Air Force base.", "Located on the banks of the River Benue."]     , es: ["Hogar de una gran base de la fuerza aérea.", "Situada a orillas del río Benue."], pt: ["Sede de uma grande base da força aérea.", "Localizada nas margens do rio Benue."], fr: ["Siège d'une grande base aérienne.", "Située sur les rives de la Bénoué."]}, image: "/poi-images/ng-makurdi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Makurdi, am südlichen Ufer des majestätischen Benue-Flusses gelegen, ist die Hauptstadt des Bundesstaates Benue und wird weithin als der Lebensmittelkorb der Nation bezeichnet. Die Gründung der Stadt geht auf den Beginn des 20. Jahrhunderts zurück, als sie als wichtiger Flusshafen und Bahnhof an der östlichen Eisenbahnlinie an Bedeutung gewann. Die Geografie Makurdis wird dominiert vom Benue, dem zweitgrößten Fluss Nigerias, der nicht nur eine lebenswichtige Quelle für Bewässerung und Fischerei darstellt, sondern auch die ikonische Makurdi-Brücke beherbergt, ein Meisterwerk der Ingenieurskunst, das den Norden mit dem Osten Nigerias verbindet. Wirtschaftlich ist die Stadt ein Kraftzentrum für den Agrarhandel; ihre weitläufigen Märkte quellen über vor Yams, Reis, Sesam und Sojabohnen, die in alle Ecken der Föderation transportiert werden. Makurdi ist zudem ein bedeutender militärischer und bildungspolitischer Knotenpunkt; hier befindet sich ein großer Stützpunkt der nigerianischen Luftwaffe sowie zwei angesehene Universitäten: die Benue State University und die Federal University of Agriculture. Die kulturelle Landschaft ist ein reichhaltiger Wandteppich, der von den ethnischen Gruppen der Tiv, Idoma und Igede gewebt wurde, deren Feste und traditionelle Tänze zu den farbenprächtigsten des Landes gehören. Trotz seiner Lage im Binnenland ist die Luftfeuchtigkeit aufgrund der Nähe zum Fluss hoch, was eine üppige Umgebung schafft, in der tropische Flora gedeiht. In den letzten Jahren hat Makurdi eine signifikante Stadterneuerung erlebt, wobei neue Boulevards und öffentliche Räume seinen Status als moderne Landeshauptstadt gestärkt haben. Die strategische Position am Benue garantiert der Stadt eine dauerhafte Relevanz im nigerianischen Binnenschifffahrtsnetz, während ihr lebhafter Gastgewerbesektor sie zu einem einladenden Ziel für Reisende macht, die den mittleren Gürtel des Landes erkunden. Das Klima ist tropisch-savannengeprägt, mit einer ausgeprägten Regenzeit, die die umliegenden Ackerflächen nährt und den Reichtum der Region sichert.",
@@ -753,7 +2238,196 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Makurdi a fost înființat la începutul secolului XX, profitând de navigabilitatea râului Benue.", "Podul peste râul Benue din Makurdi este o piesă de inginerie istorică, facilitând comerțul inter-regional.", "Statul Benue, cu capitala la Makurdi, furnizează peste 30% din necesarul de igname al Nigeriei.", "Orașul găzduiește Comandamentul Aerian Tactic al Nigeriei, fiind un punct strategic de apărare.", "Universitatea Federală de Agricultură din oraș dezvoltă noi soiuri de cereale rezistente la secetă.", "Nivelul fluviului Benue variază considerabil între sezonul ploios și cel uscat, afectând navigația.", "Makurdi este renumit pentru diversitatea sa etnică, fiind un punct de întâlnire pentru culturile Tiv și Idoma.", "Infrastructura feroviară din Makurdi este în curs de modernizare pentru a crește volumul de mărfuri transportate."],
       en: ["Makurdi was founded in the early 20th century as a river port to export local agricultural produce.", "The Makurdi Bridge is one of the longest bridges in Nigeria and is critical for both rail and road transit.", "Benue State is nicknamed the Food Basket of the Nation, with Makurdi acting as its central distribution point.", "The city houses a major base of the Nigerian Air Force, which plays a key role in regional security operations.", "The Federal University of Agriculture, Makurdi, is a leading center for agro-innovation and food security studies.", "Makurdi is a major stop on the Eastern line of the Nigerian Railway, linking Port Harcourt to Maiduguri.", "The Benue River at Makurdi is nearly 1 kilometer wide during the peak of the rainy season.", "The city is the heart of the Tiv nation, the fourth largest ethnic group in Nigeria, known for their agrarian heritage."],
     },
-  },   {     id: "ng-asaba-cities-v2",     type: "state-capital",     parent: "NG-DE",     coords: [6.7333, 6.2],     name: { de: "Asaba", hu: "Asaba", ro: "Asaba", en: "Asaba"},
+  },   {     id: "ng-asaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "63 BDE CENTRAL MOSQUE ASABA",
+                  "text": "Die 63 Brigade Central Mosque dient sowohl als bedeutendes islamisches Gotteshaus als auch als anerkanntes Gemeindedenkmal für das Militärpersonal in Asaba.",
+                  "category": "historical",
+                  "coords": [
+                        6.70284,
+                        6.235355
+                  ]
+            },
+            {
+                  "name": "GD POST NUMBER 2 GATE TANGO 4",
+                  "text": "GD Post Number 2 Gate Tango 4 ist ein bekannter Kontrollpunkt und ein lokales Wahrzeichen in Asaba.",
+                  "category": "landmark",
+                  "coords": [
+                        6.702976,
+                        6.236298
+                  ]
+            },
+            {
+                  "name": "Sunny WELDER ibori golf Asaba",
+                  "text": "Dieser Aussichtspunkt in der Nähe des Ibori Golf and Country Club bietet einen Panoramablick über die landschaftlich gestalteten Golfplätze von Asaba.",
+                  "category": "natural",
+                  "coords": [
+                        6.702211,
+                        6.238014
+                  ]
+            },
+            {
+                  "name": "74 ASABA",
+                  "text": "74 Asaba fungiert als markanter lokaler Ort und städtischer Anziehungspunkt innerhalb des Gemeindegebiets von Asaba.",
+                  "category": "landmark",
+                  "coords": [
+                        6.701708,
+                        6.239965
+                  ]
+            },
+            {
+                  "name": "The Nelson Mandela Gardens",
+                  "text": "Die Nelson Mandela Gardens sind ein landschaftlich gestalteter Erholungspark mit verschiedenen botanischen Anlagen und Freizeiteinrichtungen im Freien in Asaba.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664575,
+                        6.210339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "63 BDE CENTRAL MOSQUE ASABA",
+                  "text": "A 63. Dandár Központi Mecsetje jelentős iszlám istentiszteleti helyként és a katonai személyzet elismert közösségi emlékműveként is szolgál Asabában.",
+                  "category": "historical",
+                  "coords": [
+                        6.70284,
+                        6.235355
+                  ]
+            },
+            {
+                  "name": "GD POST NUMBER 2 GATE TANGO 4",
+                  "text": "A GD Post Number 2 Gate Tango 4 egy felismerhető ellenőrzőpont és helyi tájékozódási pont Asabában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.702976,
+                        6.236298
+                  ]
+            },
+            {
+                  "name": "Sunny WELDER ibori golf Asaba",
+                  "text": "Ez az Ibori Golf and Country Club közelében lévő kilátópont panorámás rálátást nyújt Asaba parkosított golfpályáira.",
+                  "category": "natural",
+                  "coords": [
+                        6.702211,
+                        6.238014
+                  ]
+            },
+            {
+                  "name": "74 ASABA",
+                  "text": "A 74 Asaba egy jellegzetes helyi létesítmény és városi látványosság, amely Asaba önkormányzati területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        6.701708,
+                        6.239965
+                  ]
+            },
+            {
+                  "name": "The Nelson Mandela Gardens",
+                  "text": "A Nelson Mandela Gardens egy parkosított rekreációs park, amely változatos botanikai kiállításokat és szabadtéri pihenőhelyeket kínál Asabában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664575,
+                        6.210339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "63 BDE CENTRAL MOSQUE ASABA",
+                  "text": "Moscheea Centrală a Brigăzii 63 servește atât ca un lăcaș de cult islamic proeminent, cât și ca un monument recunoscut pentru personalul militar din Asaba.",
+                  "category": "historical",
+                  "coords": [
+                        6.70284,
+                        6.235355
+                  ]
+            },
+            {
+                  "name": "GD POST NUMBER 2 GATE TANGO 4",
+                  "text": "GD Post Number 2 Gate Tango 4 este un punct de control recunoscut și un reper local situat în Asaba.",
+                  "category": "landmark",
+                  "coords": [
+                        6.702976,
+                        6.236298
+                  ]
+            },
+            {
+                  "name": "Sunny WELDER ibori golf Asaba",
+                  "text": "Acest punct de belvedere de lângă Ibori Golf and Country Club oferă perspective panoramice asupra terenurilor de golf amenajate din Asaba.",
+                  "category": "natural",
+                  "coords": [
+                        6.702211,
+                        6.238014
+                  ]
+            },
+            {
+                  "name": "74 ASABA",
+                  "text": "74 Asaba funcționează ca un sit local distinct și un punct de atracție urban situat în zona municipală a orașului Asaba.",
+                  "category": "landmark",
+                  "coords": [
+                        6.701708,
+                        6.239965
+                  ]
+            },
+            {
+                  "name": "The Nelson Mandela Gardens",
+                  "text": "Grădinile Nelson Mandela reprezintă un parc de recreere amenajat, cu diverse expoziții botanice și zone de agrement în aer liber din Asaba.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664575,
+                        6.210339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "63 BDE CENTRAL MOSQUE ASABA",
+                  "text": "The 63 Brigade Central Mosque serves as both a prominent Islamic place of worship and a recognized community monument for military personnel in Asaba.",
+                  "category": "historical",
+                  "coords": [
+                        6.70284,
+                        6.235355
+                  ]
+            },
+            {
+                  "name": "GD POST NUMBER 2 GATE TANGO 4",
+                  "text": "GD Post Number 2 Gate Tango 4 is a recognizable checkpoint and local landmark structure situated within Asaba.",
+                  "category": "landmark",
+                  "coords": [
+                        6.702976,
+                        6.236298
+                  ]
+            },
+            {
+                  "name": "Sunny WELDER ibori golf Asaba",
+                  "text": "This viewpoint near the Ibori Golf and Country Club offers panoramic sightlines over the landscaped golfing greens of Asaba.",
+                  "category": "natural",
+                  "coords": [
+                        6.702211,
+                        6.238014
+                  ]
+            },
+            {
+                  "name": "74 ASABA",
+                  "text": "74 Asaba functions as a distinctive local site and urban point of interest located within the municipal area of Asaba.",
+                  "category": "landmark",
+                  "coords": [
+                        6.701708,
+                        6.239965
+                  ]
+            },
+            {
+                  "name": "The Nelson Mandela Gardens",
+                  "text": "The Nelson Mandela Gardens is a landscaped recreational park featuring diverse botanical displays and outdoor leisure areas in Asaba.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664575,
+                        6.210339
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-DE",     coords: [6.7333, 6.2],     name: { de: "Asaba", hu: "Asaba", ro: "Asaba", en: "Asaba"},
     image: "/poi-images/ng-asaba-cities-v2.webp",     description: {       de: "Asaba bietet einen grandiosen Blick auf den Niger-Fluss und fungiert als westliches Einfallstor zum Igbo-Kernland.",       hu: "Asaba nagyszerű kilátást nyújt a Niger folyóra, és nyugati kapuként szolgál az igbók törzsterülete felé.",       ro: "Asaba oferă o vedere minunată asupra râului Niger și acționează ca o poartă vestică către inima Igbo.",       en: "Asaba offers a grand view of the Niger River and acts as the western gateway to the Igbo heartland."     , es: "Asaba ofrece una vista grandiosa del río Níger y funciona como puerta de entrada occidental al corazón del territorio Igbo.", pt: "Asaba oferece uma vista grandiosa do rio Níger e funciona como porta de entrada ocidental para o coração do território Igbo.", fr: "Asaba offre une vue grandiose sur le fleuve Niger et sert de porte d'entrée occidentale vers le cœur du pays Igbo."},     facts: {       de: ["Ort eines tragischen Massakers 1967.", "Verbunden mit Onitsha durch eine Brücke."],       hu: ["Egy tragikus 1967-es mészárlás helyszíne.", "Híd köti össze Onitshával."],       ro: ["Locul unui masacru tragic în 1967.", "Conectat cu Onitsha printr-un pod."],       en: ["Site of a tragic massacre in 1967.", "Connected to Onitsha by a bridge."]     , es: ["Lugar de una trágica masacre en 1967.", "Conectada con Onitsha a través de un puente."], pt: ["Local de um massacre trágico em 1967.", "Ligada a Onitsha por uma ponte."], fr: ["Lieu d'un massacre tragique en 1967.", "Reliée à Onitsha par un pont."]}, image: "/poi-images/ng-asaba-cities-v2.webp",
     descriptionAdvanced: {
       de: "Asaba, die Hauptstadt des Bundesstaates Delta im Süden Nigerias, ist eine Stadt von strategischer Bedeutung und historischer Tiefe. Sie liegt am westlichen Ufer des majestätischen Niger-Flusses, direkt gegenüber der geschäftigen Handelsstadt Onitsha. Die geografische Lage an diesem lebenswichtigen Wasserweg hat Asaba seit Jahrhunderten geprägt. Historisch gesehen war die Stadt ein wichtiger Handelsplatz während der Kolonialzeit und diente zeitweise als Hauptquartier der Royal Niger Company. Die Bewohner von Asaba gehören überwiegend der ethnischen Gruppe der Anioma an, die einen Dialekt des Igbo sprechen und eine reiche kulturelle Identität besitzen. Im Gegensatz zu vielen anderen nigerianischen Industriestädten ist Asaba für seine vergleichsweise ruhige, fast aristokratische Atmosphäre bekannt, was sie zu einem bevorzugten Wohnort für Regierungsbeamte und wohlhabende Geschäftsleute macht. Seit der Ernennung zur Landeshauptstadt im Jahr 1991 hat die Stadt einen beispiellosen Bauboom erlebt. Das Delta State Government House und zahlreiche Ministerien prägen das moderne Stadtbild. Ein Meilenstein der Entwicklung war der Bau des Asaba International Airport, der die Region direkt mit den nationalen Wirtschaftszentren verbindet. Die Wirtschaft von Asaba stützt sich neben der Verwaltung auf den Handel, die Fischerei im Niger und eine wachsende Filmindustrie; die Stadt ist ein bedeutender Standort für \"Nollywood\"-Produktionen. Die Asaba-Onitsha-Brücke ist ein lebenswichtiger Korridor, der den Osten des Landes mit dem Westen verbindet und täglich enorme Warenströme ermöglicht. Kulturell ist die Stadt stolz auf ihre traditionellen Institutionen, angeführt vom Asagba von Asaba, dem traditionellen Oberhaupt. Die jährlichen Festivals feiern die Ernte und die Ahnen und sind geprägt von kunstvollen Tänzen und traditioneller Musik. Mit ihren gepflegten Uferpromenaden und den aufstrebenden Hotels positioniert sich Asaba zunehmend auch als Ziel für Konferenztourismus und Reisende, die die natürliche Schönheit des Niger-Flusses erleben möchten.",
@@ -767,7 +2441,124 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Coordonatele orașului sunt 6°12′N 6°44′E pe malul drept al Nigerului.", "Asaba are o suprafață administrativă de aproximativ 268 km².", "Orașul găzduiește sediul central al multor bănci comerciale din regiunea Deltei.", "Temperatura medie anuală în Asaba este de aproximativ 27,2°C.", "Pescuitul artizanal în Niger contribuie încă la dieta locală a populației.", "Stadionul Stephen Keshi din Asaba este una dintre cele mai moderne arene sportive.", "Orașul are o rată de alfabetizare de peste 85%, printre cele mai mari din țară.", "Asaba se află la o distanță de circa 460 km de capitala federală Abuja."],
       en: ["Asaba is the headquarters of Oshimili South Local Government Area.", "The city is a major producer of textiles and handicrafts in Delta State.", "Asaba's strategic location makes it a gateway to the Igbo-speaking heartland.", "The city features several high-end resorts along the banks of the Niger River.", "Asaba is home to the Federal College of Education (Technical).", "The local dialect, Enuani, is a distinctive and melodic version of the Igbo language.", "Inland water transport is a growing sector connecting Asaba to riverine communities.", "The city has hosted major international sporting events, including African Athletics Championships."],
     },
-  },   {     id: "ng-abakaliki-cities-v2",     type: "state-capital",     parent: "NG-EB",     coords: [8.1147, 6.3249],     name: { de: "Abakaliki", hu: "Abakaliki", ro: "Abakaliki", en: "Abakaliki"},
+  },   {     id: "ng-abakaliki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trade Fair",
+                  "text": "Der Trade Fair-Komplex in Abakaliki ist ein großes Messegelände, auf dem jährlich regionale Handels- und Landwirtschaftsveranstaltungen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.085183,
+                        6.326457
+                  ]
+            },
+            {
+                  "name": "Presco Junction Abakaliki",
+                  "text": "Presco Junction ist ein belebter Verkehrsknotenpunkt in Abakaliki, umgeben von aktiven Straßenverkäufern und städtischem Pendlerverkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        8.083829,
+                        6.325737
+                  ]
+            },
+            {
+                  "name": "amusement park",
+                  "text": "Dieser lokale Vergnügungspark in Abakaliki bietet mechanische Fahrgeschäfte und Erholungsräume, die auf Familienausflüge am Wochenende zugeschnitten sind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.103594,
+                        6.329006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trade Fair",
+                  "text": "Az abakaliki Trade Fair komplexum egy nagy kiállítási terület, amely évente ad otthont regionális kereskedelmi és mezőgazdasági eseményeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        8.085183,
+                        6.326457
+                  ]
+            },
+            {
+                  "name": "Presco Junction Abakaliki",
+                  "text": "A Presco Junction egy forgalmas tranzitcsomópont Abakalikiben, amelyet aktív utcai árusok és a városi ingázó forgalom vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        8.083829,
+                        6.325737
+                  ]
+            },
+            {
+                  "name": "amusement park",
+                  "text": "Ez az abakaliki helyi vidámpark mechanikus játékokat és a családi hétvégi kirándulásokra szabott rekreációs tereket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        8.103594,
+                        6.329006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trade Fair",
+                  "text": "Complexul Trade Fair din Abakaliki este un teren vast de expoziții care găzduiește anual evenimente regionale de comerț și agricultură.",
+                  "category": "landmark",
+                  "coords": [
+                        8.085183,
+                        6.326457
+                  ]
+            },
+            {
+                  "name": "Presco Junction Abakaliki",
+                  "text": "Presco Junction este un nod de tranzit aglomerat din Abakaliki, înconjurat de vânzători ambulanți activi și de traficul urban al navetiștilor.",
+                  "category": "landmark",
+                  "coords": [
+                        8.083829,
+                        6.325737
+                  ]
+            },
+            {
+                  "name": "amusement park",
+                  "text": "Acest parc de distracții local din Abakaliki oferă atracții mecanice și spații de recreere concepute pentru ieșirile de weekend în familie.",
+                  "category": "landmark",
+                  "coords": [
+                        8.103594,
+                        6.329006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trade Fair",
+                  "text": "The Trade Fair complex in Abakaliki is a large exhibition ground that hosts annual regional commerce and agricultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        8.085183,
+                        6.326457
+                  ]
+            },
+            {
+                  "name": "Presco Junction Abakaliki",
+                  "text": "Presco Junction is a bustling transit node in Abakaliki, surrounded by active street vendors and urban commuter traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        8.083829,
+                        6.325737
+                  ]
+            },
+            {
+                  "name": "amusement park",
+                  "text": "This local amusement park in Abakaliki offers mechanical rides and recreational spaces tailored for family weekend outings.",
+                  "category": "landmark",
+                  "coords": [
+                        8.103594,
+                        6.329006
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-EB",     coords: [8.1147, 6.3249],     name: { de: "Abakaliki", hu: "Abakaliki", ro: "Abakaliki", en: "Abakaliki"},
     image: "/poi-images/ng-abakaliki-cities-v2.webp",     description: {       de: "Dank moderner Infrastrukturprojekte hat sich Abakaliki von einem landwirtschaftlichen Zentrum zu einer rasch modernisierenden Metropole entwickelt.",       hu: "A modern infrastrukturális projekteknek köszönhetően Abakaliki mezőgazdasági központból gyorsan modernizálódó metropolisszá fejlődött.",       ro: "Datorită proiectelor moderne de infrastructură, Abakaliki s-a transformat dintr-un centru agricol într-o metropolă cu o modernizare rapidă.",       en: "Thanks to modern infrastructure projects, Abakaliki has transformed from an agricultural center into a rapidly modernizing metropolis."     , es: "Gracias a proyectos de infraestructura modernos, Abakaliki ha pasado de ser un centro agrícola a una metrópolis en rápida modernización.", pt: "Graças a projetos de infraestrutura modernos, Abakaliki transformou-se de um centro agrícola numa metrópole em rápida modernização.", fr: "Grâce à des projets d'infrastructure modernes, Abakaliki est passée d'un centre agricole à une métropole en pleine modernisation."},     facts: {       de: ["Zentrum des Reisanbaus.", "Bekannt für Kalksteinvorkommen."],       hu: ["A rizstermesztés központja.", "Mészkő lelőhelyeiről ismert."],       ro: ["Centrul cultivării orezului.", "Cunoscut pentru depozitele de calcar."],       en: ["Center of rice cultivation.", "Known for limestone deposits."]     , es: ["Centro del cultivo de arroz.", "Conocida por yacimientos de piedra caliza."], pt: ["Centro do cultivo de arroz.", "Conhecida por jazidas de calcário."], fr: ["Centre de la riziculture.", "Connue pour ses gisements de calcaire."]}, image: "/poi-images/ng-abakaliki-cities-v2.webp",
     descriptionAdvanced: {
       de: "Abakaliki, die Hauptstadt des Bundesstaates Ebonyi im Südosten Nigerias, ist ein bedeutendes Zentrum für Landwirtschaft und Bergbau. Die Stadt, die historisch ein wichtiger Handelsplatz für die Volksgruppen der Igbo, insbesondere der Ezza, Izzi und Ikwo, war, erlebte 1996 mit der Gründung des Bundesstaates Ebonyi einen enormen Entwicklungsschub. Geographisch liegt Abakaliki in einer fruchtbaren Ebene, die von tropischen Regenwäldern und Savannen umgeben ist. Die Region ist landesweit bekannt als die 'Reiskammer' Nigerias; die Reismühle von Abakaliki gilt als eine der größten in ganz Westafrika. Neben dem Reisanbau sind der Anbau von Yamswurzeln, Maniok und Ölpalmen tragende Säulen der lokalen Wirtschaft. Doch nicht nur die Oberfläche ist reich; unter der Erde lagern bedeutende Vorkommen an Blei, Zink und Kalkstein, die in zahlreichen Steinbrüchen rund um die Stadt abgebaut werden. In den letzten Jahren hat die Stadt unter der Leitung der Landesregierung eine bemerkenswerte infrastrukturelle Transformation durchlaufen, mit neuen Straßen, Brücken und modernen öffentlichen Gebäuden. Ein architektonisches Wahrzeichen ist die Abakaliki Greater Rice Power Plant, die die Abfälle der Reisproduktion zur Energiegewinnung nutzt. Kulturell ist die Stadt tief in den Igbo-Traditionen verwurzelt, was sich in den farbenfrohen New Yam Festivals widerspiegelt, die jährlich im August gefeiert werden. Die Stadt beherbergt zudem die Ebonyi State University (EBSU), die junge Talente aus der gesamten Region anzieht. Trotz der Modernisierung hat Abakaliki seinen Charakter als gastfreundliche und naturverbundene Stadt bewahrt, wobei der Abakaliki Golf Course und die nahegelegenen Seen Erholungsraum bieten. Die Stadt fungiert als wichtiger Verkehrsknotenpunkt zwischen Enugu im Westen und Cross River State im Osten.",
@@ -781,7 +2572,412 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Abakaliki este situat la intersecția drumurilor spre Enugu și Calabar.", "Orașul găzduiește Centrul de Excelență pentru Orez al Nigeriei.", "Ebonyi State University a fost înființată în anul 1999.", "Producția de sare din regiune datează de peste 400 de ani.", "Abakaliki a fost un punct important în timpul Războiului Civil din Nigeria.", "Temperatura medie anuală este de aproximativ 27 de grade Celsius.", "Orașul are un stadion modern, Pa Ngele Oruta Stadium.", "Principala etnie este Igbo, cu dialectele locale specifice."],
       en: ["Abakaliki is located at coordinates 6.3249° N, 8.1147° E.", "The city became the state capital when Ebonyi was carved out of Enugu and Abia.", "Home to the Abakaliki Greater Rice Power Plant, a bio-energy project.", "The city is a major collection point for palm oil and kernels.", "Abakaliki has a high density of stone crushing and quarrying sites.", "The population has surpassed 200,000 in the metropolitan area.", "The Abakaliki Mall is one of the largest shopping centers in the southeast.", "The city serves as a hub for the Export of Ebonyi Rice nationwide."],
     },
-  },   {     id: "ng-gombe-city-cities-v2",     type: "state-capital",     parent: "NG-GO",     coords: [11.1667, 10.2833],     name: { de: "Gombe (Stadt)", hu: "Gombe", ro: "Gombe", en: "Gombe"},
+  },   {     id: "ng-gombe-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "JEWEL FM RADIO GOMBE 103.5 MHZ",
+                  "text": "Mit einer Sendefrequenz von 103,5 MHz ist Jewel FM ein bekannter Radiosender und lokaler Medienknotenpunkt in der Stadt Gombe.",
+                  "category": "cultural",
+                  "coords": [
+                        11.078549,
+                        10.289507
+                  ]
+            },
+            {
+                  "name": "PROGRESS RADIO GOMBE 97.3.",
+                  "text": "Progress Radio Gombe sendet auf 97,3 MHz und dient als wichtiger Kommunikations- und Kulturort für die Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.075735,
+                        10.291997
+                  ]
+            },
+            {
+                  "name": "Gidan Dikachin Shongo ldirisa",
+                  "text": "Dieser lokale Theatersaal in Gombe ist ein Veranstaltungsort für regionale kulturelle Aufführungen und Gemeinschaftstreffen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.085284,
+                        10.292921
+                  ]
+            },
+            {
+                  "name": "SRC Garden, Gombe State University",
+                  "text": "Diese Gartenanlage auf dem Campus der Gombe State University bietet eine begrünte Erholungsfläche für Studierende.",
+                  "category": "landmark",
+                  "coords": [
+                        11.174915,
+                        10.306357
+                  ]
+            },
+            {
+                  "name": "faculty of law",
+                  "text": "Dieser als akademischer Hörsaal genutzte Raum ist in den Komplex der Juristischen Fakultät in Gombe integriert.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172719,
+                        10.307311
+                  ]
+            },
+            {
+                  "name": "Ibrahim Musa Umar",
+                  "text": "Dieser Theatersaal in Gombe ist nach einer lokalen Persönlichkeit benannt und beherbergt Gemeindeaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.171135,
+                        10.302879
+                  ]
+            },
+            {
+                  "name": "Faculty of Education Library",
+                  "text": "Dieser akademische Versammlungsraum und Hörsaal ist direkt an die Bibliothek der erziehungswissenschaftlichen Fakultät in Gombe angeschlossen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172025,
+                        10.306234
+                  ]
+            },
+            {
+                  "name": "SLT A",
+                  "text": "Dieser spezielle Hörsaal in den akademischen Einrichtungen von Gombe ist für große wissenschaftliche und technische Studentenpräsentationen ausgestattet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.175232,
+                        10.305329
+                  ]
+            },
+            {
+                  "name": "Zoological park",
+                  "text": "Dieser als lebendiges Museum fungierende zoologische Park in Gombe zeigt verschiedene regionale Tierarten in Gehegen.",
+                  "category": "museum",
+                  "coords": [
+                        11.17664,
+                        10.304051
+                  ]
+            },
+            {
+                  "name": "Diploma site",
+                  "text": "Dieser spezielle Veranstaltungsort in Gombe wird hauptsächlich für akademische Zeremonien und Präsentationen im Zusammenhang mit Diplomen genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.173622,
+                        10.300474
+                  ]
+            },
+            {
+                  "name": "Field 2",
+                  "text": "Dieser Freiluftsportplatz bietet eine Rasenfläche für Freizeitaktivitäten und lokale Spiele in Gombe.",
+                  "category": "landmark",
+                  "coords": [
+                        11.160395,
+                        10.242595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "JEWEL FM RADIO GOMBE 103.5 MHZ",
+                  "text": "A 103,5 MHz-en sugárzó Jewel FM egy jelentős rádióállomás és helyi médiaközpont Gombe városában.",
+                  "category": "cultural",
+                  "coords": [
+                        11.078549,
+                        10.289507
+                  ]
+            },
+            {
+                  "name": "PROGRESS RADIO GOMBE 97.3.",
+                  "text": "A Progress Radio Gombe a 97,3 MHz-en sugároz, és fontos kommunikációs és kulturális színtérként szolgál a város számára.",
+                  "category": "cultural",
+                  "coords": [
+                        11.075735,
+                        10.291997
+                  ]
+            },
+            {
+                  "name": "Gidan Dikachin Shongo ldirisa",
+                  "text": "Ez a gombe-i helyi színház regionális kulturális előadásoknak és közösségi összejöveteleknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.085284,
+                        10.292921
+                  ]
+            },
+            {
+                  "name": "SRC Garden, Gombe State University",
+                  "text": "A Gombe Állami Egyetem kampuszán található kert parkosított zöldterületet kínál a hallgatók és a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        11.174915,
+                        10.306357
+                  ]
+            },
+            {
+                  "name": "faculty of law",
+                  "text": "Az egyetemi előadóteremként funkcionáló helyszín a gombe-i jogi kar épületegyüttesének része.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172719,
+                        10.307311
+                  ]
+            },
+            {
+                  "name": "Ibrahim Musa Umar",
+                  "text": "Ezt a gombe-i színháztermet egy helyi személyiségről nevezték el, és közösségi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.171135,
+                        10.302879
+                  ]
+            },
+            {
+                  "name": "Faculty of Education Library",
+                  "text": "Ez az egyetemi közösségi tér és előadóterem közvetlenül kapcsolódik a gombe-i Pedagógiai Kar könyvtárához.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172025,
+                        10.306234
+                  ]
+            },
+            {
+                  "name": "SLT A",
+                  "text": "A gombe-i akadémiai létesítményekben található előadóterem a hallgatók nagy tudományos és technológiai prezentációihoz van felszerelve.",
+                  "category": "cultural",
+                  "coords": [
+                        11.175232,
+                        10.305329
+                  ]
+            },
+            {
+                  "name": "Zoological park",
+                  "text": "Az élő múzeumként működő gombe-i állattani park különféle regionális vadon élő állatfajokat mutat be elkerített élőhelyeken.",
+                  "category": "museum",
+                  "coords": [
+                        11.17664,
+                        10.304051
+                  ]
+            },
+            {
+                  "name": "Diploma site",
+                  "text": "Ezt a dedikált gombe-i helyszínt elsősorban egyetemi ceremóniákhoz és diplomákhoz kapcsolódó prezentációkhoz használják.",
+                  "category": "cultural",
+                  "coords": [
+                        11.173622,
+                        10.300474
+                  ]
+            },
+            {
+                  "name": "Field 2",
+                  "text": "Ez a szabadtéri sportpálya füves területet biztosít szabadidős tevékenységekhez és helyi mérkőzésekhez Gombében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.160395,
+                        10.242595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "JEWEL FM RADIO GOMBE 103.5 MHZ",
+                  "text": "Transmițând pe frecvența 103,5 MHz, Jewel FM este un post de radio proeminent și un centru media local în orașul Gombe.",
+                  "category": "cultural",
+                  "coords": [
+                        11.078549,
+                        10.289507
+                  ]
+            },
+            {
+                  "name": "PROGRESS RADIO GOMBE 97.3.",
+                  "text": "Progress Radio Gombe transmite pe 97,3 MHz, servind ca un important loc de comunicare și cultură pentru oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        11.075735,
+                        10.291997
+                  ]
+            },
+            {
+                  "name": "Gidan Dikachin Shongo ldirisa",
+                  "text": "Această sală de teatru locală din Gombe găzduiește spectacole culturale regionale și adunări comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        11.085284,
+                        10.292921
+                  ]
+            },
+            {
+                  "name": "SRC Garden, Gombe State University",
+                  "text": "Situată în campusul Universității de Stat din Gombe, această grădină oferă un spațiu verde amenajat pentru studenți și vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        11.174915,
+                        10.306357
+                  ]
+            },
+            {
+                  "name": "faculty of law",
+                  "text": "Funcționând ca o sală de curs academică, această locație este integrată în complexul Facultății de Drept din Gombe.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172719,
+                        10.307311
+                  ]
+            },
+            {
+                  "name": "Ibrahim Musa Umar",
+                  "text": "Acest spațiu teatral din Gombe poartă numele unei personalități locale și găzduiește prezentări comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        11.171135,
+                        10.302879
+                  ]
+            },
+            {
+                  "name": "Faculty of Education Library",
+                  "text": "Acest spațiu de adunare academică și sală de curs este conectat direct la resursele bibliotecii Facultății de Educație din Gombe.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172025,
+                        10.306234
+                  ]
+            },
+            {
+                  "name": "SLT A",
+                  "text": "Această sală de curs specifică din cadrul facilităților academice din Gombe este echipată pentru mari prezentări studențești de știință și tehnologie.",
+                  "category": "cultural",
+                  "coords": [
+                        11.175232,
+                        10.305329
+                  ]
+            },
+            {
+                  "name": "Zoological park",
+                  "text": "Funcționând ca un muzeu viu, acest parc zoologic din Gombe expune diverse specii regionale de animale sălbatice în habitate închise.",
+                  "category": "museum",
+                  "coords": [
+                        11.17664,
+                        10.304051
+                  ]
+            },
+            {
+                  "name": "Diploma site",
+                  "text": "Această locație dedicată din Gombe este utilizată în primul rând pentru ceremonii academice și prezentări legate de diplome.",
+                  "category": "cultural",
+                  "coords": [
+                        11.173622,
+                        10.300474
+                  ]
+            },
+            {
+                  "name": "Field 2",
+                  "text": "Acest teren de sport în aer liber oferă un spațiu cu iarbă pentru activități recreative și meciuri locale în Gombe.",
+                  "category": "landmark",
+                  "coords": [
+                        11.160395,
+                        10.242595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "JEWEL FM RADIO GOMBE 103.5 MHZ",
+                  "text": "Broadcasting on 103.5 MHz, Jewel FM is a prominent radio station and local media hub in the city of Gombe.",
+                  "category": "cultural",
+                  "coords": [
+                        11.078549,
+                        10.289507
+                  ]
+            },
+            {
+                  "name": "PROGRESS RADIO GOMBE 97.3.",
+                  "text": "Progress Radio Gombe broadcasts at 97.3 MHz, serving as an important communication and cultural venue for the city.",
+                  "category": "cultural",
+                  "coords": [
+                        11.075735,
+                        10.291997
+                  ]
+            },
+            {
+                  "name": "Gidan Dikachin Shongo ldirisa",
+                  "text": "This local theatre venue in Gombe hosts regional cultural performances and community gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        11.085284,
+                        10.292921
+                  ]
+            },
+            {
+                  "name": "SRC Garden, Gombe State University",
+                  "text": "Situated on the Gombe State University campus, this garden attraction offers a landscaped green space for students and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        11.174915,
+                        10.306357
+                  ]
+            },
+            {
+                  "name": "faculty of law",
+                  "text": "Functioning as an academic lecture theatre, this venue is integrated into the Faculty of Law complex in Gombe.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172719,
+                        10.307311
+                  ]
+            },
+            {
+                  "name": "Ibrahim Musa Umar",
+                  "text": "This dedicated theatre space in Gombe is named in honor of a local figure and hosts community presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        11.171135,
+                        10.302879
+                  ]
+            },
+            {
+                  "name": "Faculty of Education Library",
+                  "text": "This academic gathering space and lecture theatre is directly connected to the Faculty of Education's library resources in Gombe.",
+                  "category": "cultural",
+                  "coords": [
+                        11.172025,
+                        10.306234
+                  ]
+            },
+            {
+                  "name": "SLT A",
+                  "text": "This specific lecture theatre within Gombe's academic facilities is equipped for large student science and technology presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        11.175232,
+                        10.305329
+                  ]
+            },
+            {
+                  "name": "Zoological park",
+                  "text": "Functioning as a living museum, this zoological park in Gombe exhibits various regional wildlife species in enclosed habitats.",
+                  "category": "museum",
+                  "coords": [
+                        11.17664,
+                        10.304051
+                  ]
+            },
+            {
+                  "name": "Diploma site",
+                  "text": "This dedicated venue in Gombe is primarily utilized for academic ceremonies and diploma-related presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        11.173622,
+                        10.300474
+                  ]
+            },
+            {
+                  "name": "Field 2",
+                  "text": "This open-air sports field provides a grassy clearing for recreational activities and local matches in Gombe.",
+                  "category": "landmark",
+                  "coords": [
+                        11.160395,
+                        10.242595
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-GO",     coords: [11.1667, 10.2833],     name: { de: "Gombe (Stadt)", hu: "Gombe", ro: "Gombe", en: "Gombe"},
     image: "/poi-images/ng-gombe-city-cities-v2.webp",     description: {       de: "Gombe fungiert als Handelsdrehscheibe für die umliegende Savannenregion und verknüpft die landwirtschaftlichen Gemeinden.",       hu: "Gombe kereskedelmi központként funkcionál a környező szavannás régió számára, összekötve a mezőgazdasági közösségeket.",       ro: "Gombe acționează ca un nod comercial pentru regiunea savanei din jur și conectează comunitățile agricole.",       en: "Gombe acts as a commercial hub for the surrounding savanna region and links agricultural communities."     , es: "Gombe funciona como un centro comercial para la región de sabana circundante y vincula a las comunidades agrícolas.", pt: "Gombe funciona como um centro comercial para a região de savana circundante e liga as comunidades agrícolas.", fr: "Gombe sert de plaque tournante commerciale pour la région de savane environnante et relie les communautés agricoles."},     facts: {       de: ["Oft als 'Juwel in der Savanne' bezeichnet.", "Wichtiger Produzent von Erdnüssen."],       hu: ["Gyakran nevezik a szavanna ékszerének.", "Jelentős földimogyoró-termelő."],       ro: ["Adesea numit 'Bijuteria din Savană'.", "Producător important de arahide."],       en: ["Often called the 'Jewel in the Savannah'.", "Important producer of groundnuts."]     , es: ["A menudo llamada la 'joya de la sabana'.", "Importante productor de cacahuetes."], pt: ["Muitas vezes chamada de 'joia da savana'.", "Importante produtor de amendoim."], fr: ["Souvent appelée le 'joueau de la savane'.", "Important producteur d'arachides."]}, image: "/poi-images/ng-gombe-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Gombe, die Hauptstadt des gleichnamigen Bundesstaates im Nordosten Nigerias, ist ein dynamisches urbanes Zentrum in der Übergangszone zwischen der Sudan- und der Guineasavanne. Die Stadt blickt auf eine reiche Geschichte zurück, die eng mit dem Gombe-Emirat verbunden ist, das zu Beginn des 19. Jahrhunderts im Zuge des Dschihads von Usman dan Fodio gegründet wurde. Seit der Ernennung zur Hauptstadt des neu geschaffenen Bundesstaates im Jahr 1996 hat Gombe eine rasante Transformation von einer ländlichen Provinzstadt zu einer modernen Metropole durchlaufen. Die Stadtplanung der letzten Jahrzehnte hat breite Boulevards, moderne Verwaltungsgebäude und eine verbesserte Infrastruktur hervorgebracht, was Gombe den Beinamen \"Juwel in der Savanne\" eingebracht hat.\n\nGeografisch ist die Region durch fruchtbare Ebenen und sanfte Hügel geprägt, wobei der nahegelegene Dadin-Kowa-Stausee eine zentrale Rolle für die Wasserversorgung und die Landwirtschaft spielt. Dieser Stausee ermöglicht nicht nur großflächige Bewässerungsprojekte, sondern dient auch der Stromerzeugung. Die Wirtschaft von Gombe ist traditionell stark agrarisch geprägt, mit einem Schwerpunkt auf dem Anbau von Baumwolle, Erdnüssen, Mais und Hirse. Die Stadt fungiert als wichtigster Marktplatz der Region, auf dem Vieh und landwirtschaftliche Erzeugnisse gehandelt werden. In jüngster Zeit hat auch die Industrie an Bedeutung gewonnen, insbesondere durch die Zementproduktion in der Umgebung und lebensmittelverarbeitende Betriebe.\n\nDie kulturelle Identität von Gombe ist ein Mosaik aus verschiedenen ethnischen Gruppen, darunter die Fulani, Hausa, Bolewa und Tangale. Diese Vielfalt spiegelt sich in der Architektur, der lokalen Küche und den traditionellen Festen wider, wie etwa dem jährlichen Durbar-Festival, bei dem farbenfrohe Reiterparaden die militärische und kulturelle Geschichte des Emirats ehren. Gombe ist zudem ein wichtiges Bildungszentrum im Nordosten, beherbergt die Gombe State University und mehrere spezialisierte Fachhochschulen. Trotz der Herausforderungen in der Region gilt die Stadt als relativ stabil und friedlich, was sie zu einem attraktiven Standort für Investitionen und zu einem Knotenpunkt für den Handel zwischen dem Norden und dem Osten Nigerias macht.",
@@ -795,7 +2991,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Gombe a devenit capitală de stat pe 1 octombrie 1996.", "Orașul este renumit pentru piețele sale de cereale și animale.", "Barajul Dadin Kowa furnizează energie hidroelectrică regiunii.", "Universitatea de Stat Gombe a fost înființată în 2004.", "Altitudinea medie a orașului este de 380 de metri.", "Gombe are unul dintre cele mai moderne stadioane din nordul Nigeriei.", "Aeroportul Lawanti a fost deschis traficului comercial în 2008.", "Emirul din Gombe este una dintre cele mai influente figuri locale."],
       en: ["Gombe became a state capital in 1996 during Abacha's administration.", "The city is nicknamed the 'Jewel in the Savannah' for its beauty.", "The Dadin Kowa Dam supports a 40MW hydroelectric power project.", "Gombe Lawanti International Airport serves the city's air travel needs.", "The city is a major collection point for cotton and groundnuts.", "Gombe State University is located in the heart of the city.", "The Emir of Gombe's palace is a central landmark for visitors.", "The city's population has grown significantly since the late 1990s."],
     },
-  },   {     id: "ng-dutse-cities-v2",     type: "state-capital",     parent: "NG-JI",     coords: [9.3333, 11.75],     name: { de: "Dutse", hu: "Dutse", ro: "Dutse", en: "Dutse"},
+  },   {     id: "ng-dutse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saminu Turaki Towers",
+                  "text": "Die Saminu Turaki Towers sind markante Monumente, die das moderne Stadtbild von Dutse prägen.",
+                  "category": "historical",
+                  "coords": [
+                        9.341364,
+                        11.692511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saminu Turaki Towers",
+                  "text": "A Saminu Turaki tornyok feltűnő emlékművek, amelyek Dutse modern városképét alakítják.",
+                  "category": "historical",
+                  "coords": [
+                        9.341364,
+                        11.692511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saminu Turaki Towers",
+                  "text": "Turnurile Saminu Turaki sunt monumente remarcabile care modelează peisajul urban modern din Dutse.",
+                  "category": "historical",
+                  "coords": [
+                        9.341364,
+                        11.692511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saminu Turaki Towers",
+                  "text": "The Saminu Turaki Towers are prominent monuments that shape the modern cityscape of Dutse.",
+                  "category": "historical",
+                  "coords": [
+                        9.341364,
+                        11.692511
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-JI",     coords: [9.3333, 11.75],     name: { de: "Dutse", hu: "Dutse", ro: "Dutse", en: "Dutse"},
     image: "/poi-images/ng-dutse-cities-v2.webp",     description: {       de: "Dutse ist von markanten felsigen Hügeln umgeben, die der Stadt ihren Namen gaben und das Stadtbild prägen.",       hu: "Dutse jellegzetes sziklás dombokkal van körülvéve, amelyek a város nevét is adták és formálják a városképet.",       ro: "Dutse este înconjurat de dealuri stâncoase izbitoare care dau numele orașului și modelează peisajul urban.",       en: "Dutse is surrounded by striking rocky hills that give the city its name and shape the cityscape."     , es: "Dutse está rodeada de prominentes colinas rocosas que dieron nombre a la ciudad y marcan su paisaje urbano.", pt: "Dutse está rodeada por colinas rochosas proeminentes que deram nome à cidade e moldam a sua paisagem urbana.", fr: "Dutse est entourée de collines rocheuses marquantes qui ont donné son nom à la ville et façonnent le paysage urbain."},     facts: {       de: ["Name bedeutet 'Felsen' auf Hausa.", "Hat eine wachsende Bundesuniversität."],       hu: ["Neve hauszául 'sziklát' jelent.", "Növekvő szövetségi egyetemmel rendelkezik."],       ro: ["Numele înseamnă 'stâncă' în Hausa.", "Are o universitate federală în creștere."],       en: ["Name means 'rock' in Hausa.", "Has a growing federal university."]     , es: ["El nombre significa 'roca' en hausa.", "Cuenta con una creciente universidad federal."], pt: ["O nome significa 'rocha' em hausa.", "Tem uma universidade federal em crescimento."], fr: ["Le nom signifie 'rocher' en haoussa.", "Possède une université fédérale en pleine croissance."]}, image: "/poi-images/ng-dutse-cities-v2.webp",
     descriptionAdvanced: {
       de: "Dutse, die Hauptstadt des Bundesstaates Jigawa im Norden Nigerias, ist eine Stadt von markanter landschaftlicher Schönheit und historischer Bedeutung. Der Name 'Dutse' leitet sich vom Hausa-Wort für 'Fels' ab, was auf die eindrucksvollen Granitformationen und Hügel hinweist, die das Stadtbild und das Umland prägen. Seit der Gründung von Jigawa im Jahr 1991 hat sich Dutse von einer ländlichen Siedlung zu einer modernen Landeshauptstadt entwickelt. Geographisch liegt die Stadt in der nordsudanesischen Savanne, einer Region mit fruchtbaren Böden, die Dutse zu einem landwirtschaftlichen Kraftzentrum machen. Die Stadt ist besonders bekannt für die Produktion von Datteln, Hibiskus und verschiedenen Getreidesorten. Die Dattelpalmenhaine von Dutse sind legendär und verleihen der Stadt ein fast oasenartiges Flair. Wirtschaftlich profitiert die Stadt zudem von einem modernen IT-Sektor; Dutse wurde als Sitz eines 'Galaxy IT Park' ausgewählt, was die Ambitionen des Staates im Bereich der digitalen Wirtschaft unterstreicht. Kulturell ist Dutse der Sitz eines bedeutenden Emirats, wobei der Palast des Emirs von Dutse ein prachtvolles Beispiel für nordsudanesische islamische Architektur darstellt. Die Stadt ist bekannt für ihre Ruhe und Sicherheit, was sie von anderen großen Metropolen im Norden unterscheidet. Das Bildungswesen wird durch die Federal University Dutse (FUD) dominiert, die eine wachsende Zahl von Studenten aus ganz Nigeria anzieht. Die Infrastruktur der Stadt zeichnet sich durch breite, gut geplante Straßen und einen modernen Flughafen (Dutse International Airport) aus, der vor allem für den Export landwirtschaftlicher Güter und Pilgerreisen konzipiert wurde. Die Granitfelsen dienen nicht nur als visuelles Wahrzeichen, sondern werden auch für die lokale Bauindustrie genutzt. Dutse ist zudem ein Zentrum für die traditionelle Handwerkskunst, insbesondere die Weberei und Töpferei. Trotz des rasanten Wachstums bleibt die Stadt eng mit ihren bäuerlichen Wurzeln verbunden, wobei die jährlichen Erntefeste zu den kulturellen Höhepunkten zählen.",
@@ -809,7 +3050,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Numele orașului provine de la formațiunile stâncoase gigantice din jur.", "Dutse a devenit capitală în 1991, când statul Jigawa a fost creat din statul Kano.", "Este principalul furnizor de curmale și flori de hibiscus pentru piața nigeriană.", "Universitatea Federală Dutse este un motor economic major pentru oraș.", "Orașul beneficiază de un aeroport internațional cu facilități moderne de cargo.", "Este sediul Emiratului Dutse, condus de un lider tradițional influent.", "Dutse este considerat unul dintre cele mai sigure orașe din nordul Nigeriei.", "Arhitectura guvernamentală modernă respectă formele naturale ale reliefului stâncos."],
       en: ["The city's name 'Dutse' literally means 'Rock' in the Hausa language.", "Became the capital of Jigawa State following its creation in August 1991.", "Renowned as Nigeria’s premier hub for date palm and hibiscus cultivation.", "Home to the Federal University Dutse (FUD), a top-tier academic institution.", "The city features the Jigawa IT Park, a center for digital innovation.", "The Dutse International Airport is a major hub for agricultural exports.", "The Dutse Emirate’s palace is a key historical and architectural landmark.", "Famous for its massive granite hills which provide a unique microclimate."],
     },
-  },   {     id: "ng-katsina-city-cities-v2",     type: "state-capital",     parent: "NG-KT",     coords: [7.6, 12.9833],     name: { de: "Katsina (Stadt)", hu: "Katsina", ro: "Katsina", en: "Katsina"},
+  },   {     id: "ng-katsina-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kofar Kwaya City Gate",
+                  "text": "Das monumentale Kofar Kwaya Stadttor von Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.597579,
+                        12.976107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kofar Kwaya City Gate",
+                  "text": "Katsina városának monumentális Kofar Kwaya kapuja.",
+                  "category": "historical",
+                  "coords": [
+                        7.597579,
+                        12.976107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kofar Kwaya City Gate",
+                  "text": "Poarta monumentală a orașului Kofar Kwaya din Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.597579,
+                        12.976107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kofar Kwaya City Gate",
+                  "text": "The monumental Kofar Kwaya city gate of Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.597579,
+                        12.976107
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-KT",     coords: [7.6, 12.9833],     name: { de: "Katsina (Stadt)", hu: "Katsina", ro: "Katsina", en: "Katsina"},
     image: "/poi-images/ng-katsina-city-cities-v2.webp",     description: {       de: "Die ummauerte Stadt Katsina blickt auf eine lange Tradition als Zentrum für islamische Gelehrsamkeit und Handel zurück.",       hu: "A fallal körülvett Katsina hosszú hagyományokra tekint vissza az iszlám tudományosság és a kereskedelem központjaként.",       ro: "Orașul fortificat Katsina are o lungă tradiție ca centru de burse islamice și comerț.",       en: "The walled city of Katsina looks back on a long tradition as a center for Islamic scholarship and trade."     , es: "La ciudad amurallada de Katsina cuenta con una larga tradición como centro de erudición islámica y comercio.", pt: "A cidade amuralhada de Katsina tem uma longa tradição como centro de erudição islâmica e comércio.", fr: "La ville fortifiée de Katsina possède une longue tradition en tant que centre d'érudition islamique et de commerce."},     facts: {       de: ["Austragungsort von Durbar-Festivals.", "Ein bedeutendes Emirat im Norden."],       hu: ["A Durbar-fesztiválok helyszíne.", "Egy jelentős északi emirátus."],       ro: ["Locația festivalurilor Durbar.", "Un emirat semnificativ din nord."],       en: ["Host of Durbar festivals.", "A significant northern emirate."]     , es: ["Lugar de celebración de festivales Durbar.", "Un importante emirato del norte."], pt: ["Local de festivais Durbar.", "Um importante emirado no norte."], fr: ["Lieu de célébration des festivals Durbar.", "Un émirat important du nord."]}, image: "/poi-images/ng-katsina-city-cities-v2.webp",
     descriptionAdvanced: {
       de: "Katsina, die historische Hauptstadt des gleichnamigen Bundesstaates im äußersten Norden Nigerias, gilt als eine der Wiegen der Hausa-Zivilisation und des islamischen Lernens in Westafrika. Die Stadt wurde im 11. Jahrhundert gegründet und entwickelte sich schnell zu einem der sieben ursprünglichen Hausa-Staaten (Hausa Bakwai). Über Jahrhunderte hinweg war Katsina ein entscheidender Handelsposten für Karawanen, die die Sahara überquerten, und stand in ständiger Konkurrenz zum benachbarten Kano. Das markanteste Wahrzeichen der Stadt ist das Gobarau-Minarett, ein beeindruckendes Bauwerk aus Lehmziegeln, das über 15 Meter hoch ist und vor über 600 Jahren als Teil der ersten Universität der Region errichtet wurde. Die Stadtmauern von Katsina, die einst die gesamte Siedlung umschlossen, zeugen von der strategischen Bedeutung des Ortes. Der Palast des Emirs von Katsina ist ein weiteres architektonisches Juwel, das die traditionelle Hausa-Baukunst mit ihren kunstvollen Reliefs und flachen Dächern repräsentiert. Geografisch liegt Katsina in einer semi-ariden Zone nahe der Grenze zur Republik Niger, was das Klima und die Landwirtschaft prägt. Die Wirtschaft der Stadt basiert auf dem Handel mit Vieh, Hirse, Sorghum und Erdnüssen sowie auf dem traditionellen Handwerk wie Töpferei und Weberei. Katsina ist auch als 'Stadt der Bildung' bekannt, da sie einige der ältesten westlichen Schulen Nordnigerias beherbergt, darunter das berühmte Katsina College. Die Bevölkerung ist tief in ihren Traditionen verwurzelt, was sich besonders während der farbenfrohen Durbar-Festivals zeigt. In den letzten Jahren hat sich die Stadt zu einem modernen Verwaltungszentrum entwickelt, ohne dabei ihren historischen Charme zu verlieren. Die Nähe zur Grenze macht Katsina zu einem wichtigen Tor für den grenzüberschreitenden Handel und kulturellen Austausch mit den Sahel-Staaten.",
@@ -837,7 +3123,88 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Birnin Kebbi a devenit capitală de stat în 1991, odată cu crearea statului Kebbi.", "Orașul este sediul tradițional al Emiratului Gwandu.", "Este considerat principalul centru de securitate alimentară pentru orez în Nigeria.", "Râul Sokoto oferă resurse vitale pentru pescuit și agricultură prin inundații sezoniere.", "Aeroportul Internațional Sir Ahmadu Bello deservește orașul și regiunea.", "Religia dominantă este Islamul, influențând arhitectura și legile locale.", "Climatul este de tip semi-arid, cu un sezon ploios scurt din mai până în septembrie.", "Economia se bazează pe comerțul cu bovine și cereale în piețele locale mari."],
       en: ["Capital of Kebbi State and the historic seat of the Gwandu Emirate.", "Located on the banks of the Sokoto River in northwestern Nigeria.", "Key driver of Nigeria's 'Rice Revolution' with massive irrigation projects.", "The city's name translates to 'The Fortified City of Kebbi' in Hausa.", "Home to the Federal University Birnin Kebbi (FUBK).", "Strategic trading post near the borders of Niger and Benin Republic.", "Features a mix of modern administration and traditional adobe architecture.", "Serves as a major center for livestock and onion trade in the Sahel."],
     },
-  },   {     id: "ng-lokoja-cities-v2",     type: "state-capital",     parent: "NG-KO",     coords: [6.7333, 7.8],     name: { de: "Lokoja", hu: "Lokoja", ro: "Lokoja", en: "Lokoja"},
+  },   {     id: "ng-lokoja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cenotaph",
+                  "text": "Der Kenotaph von Lokoja ist eine Gedenkstätte zu Ehren der gefallenen Soldaten aus den historischen Konflikten der Region.",
+                  "category": "historical",
+                  "coords": [
+                        6.743746,
+                        7.799265
+                  ]
+            },
+            {
+                  "name": "Lokoja National Museum",
+                  "text": "Das 2006 gegründete Nationalmuseum in Lokoja zeigt koloniale Artefakte und das kulturelle Erbe aus der frühen Verwaltungsgeschichte Nigerias.",
+                  "category": "museum",
+                  "coords": [
+                        6.74071,
+                        7.804692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cenotaph",
+                  "text": "A lokojai kenotáfium egy emlékmű, amelyet a régió történelmi konfliktusaiban elesett katonák tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        6.743746,
+                        7.799265
+                  ]
+            },
+            {
+                  "name": "Lokoja National Museum",
+                  "text": "A 2006-ban alapított lokojai Nemzeti Múzeum gyarmati leleteket és Nigéria korai közigazgatási történelmének kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.74071,
+                        7.804692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cenotaph",
+                  "text": "Cenotaful din Lokoja este o structură memorială dedicată onorării soldaților căzuți în conflictele istorice ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        6.743746,
+                        7.799265
+                  ]
+            },
+            {
+                  "name": "Lokoja National Museum",
+                  "text": "Înființat în 2006, Muzeul Național din Lokoja expune artefacte coloniale și patrimoniul cultural din istoria administrativă timpurie a Nigeriei.",
+                  "category": "museum",
+                  "coords": [
+                        6.74071,
+                        7.804692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cenotaph",
+                  "text": "The Lokoja Cenotaph is a memorial structure dedicated to honoring fallen soldiers from the region's historical conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        6.743746,
+                        7.799265
+                  ]
+            },
+            {
+                  "name": "Lokoja National Museum",
+                  "text": "Established in 2006, the Lokoja National Museum displays colonial artifacts and cultural heritage from Nigeria's early administrative history.",
+                  "category": "museum",
+                  "coords": [
+                        6.74071,
+                        7.804692
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-KO",     coords: [6.7333, 7.8],     name: { de: "Lokoja", hu: "Lokoja", ro: "Lokoja", en: "Lokoja"},
     image: "/poi-images/ng-lokoja-cities-v2.webp",     description: {       de: "Lokoja markiert den geografischen Knotenpunkt Nigerias, wo sich der mächtige Niger und der Benue vereinen.",       hu: "Lokoja Nigéria földrajzi csomópontja, ahol a hatalmas Niger és a Benue folyók összefolynak.",       ro: "Lokoja marchează joncțiunea geografică a Nigeriei, unde se unesc puternicele râuri Niger și Benue.",       en: "Lokoja marks the geographical junction of Nigeria where the mighty Niger and Benue rivers merge."     , es: "Lokoja marca el nudo geográfico de Nigeria, donde se unen los poderosos ríos Níger y Benue.", pt: "Lokoja marca o nó geográfico da Nigéria, onde os poderosos rios Níger e Benue se unem.", fr: "Lokoja marque le carrefour géographique du Nigeria, où le puissant Niger et la Bénoué se rejoignent."},     facts: {       de: ["Erste administrative Hauptstadt von Nigeria.", "Wichtiger Flusshafen."],       hu: ["Nigéria első adminisztratív fővárosa.", "Fontos folyami kikötő."],       ro: ["Prima capitală administrativă a Nigeriei.", "Port fluvial important."],       en: ["First administrative capital of Nigeria.", "Important river port."]     , es: ["Primera capital administrativa de Nigeria.", "Importante puerto fluvial."], pt: ["Primeira capital administrativa da Nigéria.", "Importante porto fluvial."], fr: ["Première capitale administrative du Nigeria.", "Port fluvial important."]}, image: "/poi-images/ng-lokoja-cities-v2.webp",
     descriptionAdvanced: {
       de: "Lokoja ist eine Stadt von außergewöhnlicher historischer und geografischer Bedeutung, gelegen am majestätischen Zusammenfluss der Flüsse Niger und Benue im Zentrum Nigerias. Diese strategische Lage machte die Stadt zu einem der wichtigsten Tore für die Erkundung und Kolonialisierung des nigerianischen Hinterlandes. Im 19. Jahrhundert diente Lokoja als erste Hauptstadt des britischen Protektorats Nordnigeria und war ein bedeutendes Zentrum für den Sklavenhandel, bevor es zu einem der ersten Orte wurde, an denen die christliche Missionierung und westliche Bildung Einzug hielten. Ein dominantes geografisches Merkmal ist der Mount Patti, ein über 450 Meter hoher Tafelberg, von dessen Gipfel aus man einen atemberaubenden Blick auf das Zusammentreffen der beiden größten Flüsse Westafrikas hat. Historisch ist der Berg eng mit Lord Lugard verbunden, dem Generalgouverneur Nigerias, der von hier aus die Verwaltung leitete; sein Wohnhaus ist heute ein Museum. Die Stadt ist ein Schmelztiegel der Kulturen, in dem Gruppen wie die Igala, Ebira, Yoruba und Hausa seit Generationen zusammenleben, was Lokoja eine reiche sprachliche und kulturelle Vielfalt verleiht. Wirtschaftlich profitiert die Stadt massiv von ihrer Rolle als Verkehrsknotenpunkt zwischen dem Norden und dem Süden Nigerias sowie von der Flussfischerei und dem Handel. In der näheren Umgebung befinden sich bedeutende Eisenerzvorkommen, insbesondere bei Ajaokuta, was der Stadt eine Schlüsselrolle in der nationalen Schwerindustrie verleiht. Als Hauptstadt des Bundesstaates Kogi beherbergt Lokoja moderne Verwaltungsgebäude, die im Kontrast zu den erhaltenen kolonialen Bauten stehen, wie etwa dem ersten Krankenhaus Nordnigerias oder der ersten europäischen Schule. Das feuchte tropische Klima und die Nähe zum Wasser prägen den Lebensrhythmus und machen die Stadt zu einem faszinierenden Ziel für historisch interessierte Reisende.",
@@ -851,7 +3218,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Lokoja este situată la confluența râurilor Niger și Benue, fiind un punct strategic de navigație fluvială.", "Orașul a servit drept sediu administrativ pentru Royal Niger Company înainte de a deveni capitală colonială.", "Muntele Patti, cu o înălțime de 450 de metri, a fost folosit ca post de observație militară în trecut.", "Lokoja găzduiește primul spital construit în nordul Nigeriei, datând din perioada administrației Lugard.", "Orașul este un nod rutier major, făcând legătura între capitala federală Abuja și sudul petrolier.", "Cenotaful de Fier din Lokoja marchează locul unde sclavii eliberați erau aduși pentru a fi înregistrați.", "Zăcămintele de fier din regiune sunt printre cele mai mari din lume, susținând industria siderurgică națională.", "Universitatea Federală din Lokoja este centrul de cercetare și educație superioară al statului Kogi."],
       en: ["Lokoja is uniquely situated at the confluence of the Niger and Benue Rivers, Nigeria's two largest waterways.", "It served as the first capital of Northern Nigeria and was a major base for the Royal Niger Company.", "Mount Patti is a prominent 450-meter-high plateau providing the most famous scenic view in the city.", "The city is home to the first primary school in Northern Nigeria, established by missionaries in the mid-1800s.", "The Iron of Liberty monument commemorates the spot where slaves were freed during the colonial transition.", "Lokoja serves as a critical junction for commuters traveling between the Federal Capital Territory and the south.", "The Ajaokuta Steel Mill, located nearby, is intended to be the backbone of Nigeria's industrialization.", "The Federal University Lokoja was established in 2011 to expand access to tertiary education in the middle belt."],
     },
-  },   {     id: "ng-lafia-cities-v2",     type: "state-capital",     parent: "NG-NA",     coords: [8.5167, 8.4833],     name: { de: "Lafia", hu: "Lafia", ro: "Lafia", en: "Lafia"},
+  },   {     id: "ng-lafia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "John Castle",
+                  "text": "John Castle ist ein bemerkenswertes lokales Anwesen in Lafia, das durch sein grandioses, von Schlössern inspiriertes architektonisches Design auffällt.",
+                  "category": "castle",
+                  "coords": [
+                        8.543472,
+                        8.519643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "John Castle",
+                  "text": "A John Castle egy jelentős helyi birtok Lafiában, amely grandiózus, kastélyok által ihletett építészeti kialakításával tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        8.543472,
+                        8.519643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "John Castle",
+                  "text": "John Castle este o proprietate locală notabilă din Lafia, care iese în evidență prin designul său arhitectural grandios, inspirat de castele.",
+                  "category": "castle",
+                  "coords": [
+                        8.543472,
+                        8.519643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "John Castle",
+                  "text": "John Castle is a notable local estate in Lafia that stands out with its grand, castle-inspired architectural design.",
+                  "category": "castle",
+                  "coords": [
+                        8.543472,
+                        8.519643
+                  ]
+            }
+      ]
+},     type: "state-capital",     parent: "NG-NA",     coords: [8.5167, 8.4833],     name: { de: "Lafia", hu: "Lafia", ro: "Lafia", en: "Lafia"},
     image: "/poi-images/ng-lafia-cities-v2.webp",     description: {       de: "Lafia agiert als landwirtschaftlicher Sammelpunkt für die Fruchtbarkeit des Bundesstaates Nasarawa und hat einen belebten Eisenbahnanschluss.",       hu: "Lafia a Nasarawa állam termékenységének mezőgazdasági gyűjtőpontja, és forgalmas vasúti összeköttetéssel rendelkezik.",       ro: "Lafia acționează ca un punct de colectare agricolă pentru fertilitatea statului Nasarawa și are o conexiune feroviară aglomerată.",       en: "Lafia acts as an agricultural collection point for the fertility of Nasarawa State and has a busy railway connection."     , es: "Lafia actúa como punto de recolección agrícola para la fertilidad del estado de Nasarawa y cuenta con una concurrida conexión ferroviaria.", pt: "Lafia atua como um ponto de recolha agrícola para a fertilidade do estado de Nasarawa e tem uma ligação ferroviária movimentada.", fr: "Lafia sert de point de collecte agricole pour les terres fertiles de l'État de Nasarawa et dispose d'une liaison ferroviaire animée."},     facts: {       de: ["Gegründet im 19. Jahrhundert.", "Zentrum des lokalen Yamswurzel-Handels."],       hu: ["A 19. században alapították.", "A helyi jamgyökér-kereskedelem központja."],       ro: ["Fondat în secolul al XIX-lea.", "Centrul comerțului local de igname."],       en: ["Founded in the 19th century.", "Center of local yam trade."]     , es: ["Fundada en el siglo XIX.", "Centro del comercio local de ñame."], pt: ["Fundada no século XIX.", "Centro do comércio local de inhame."], fr: ["Fondée au XIXe siècle.", "Centre du commerce local de l'igname."]}, image: "/poi-images/ng-lafia-cities-v2.webp",
     descriptionAdvanced: {
       de: "Die Stadt Lafia, die administrative Hauptstadt des nigerianischen Bundesstaates Nasarawa, stellt ein bedeutendes urbanes Zentrum im sogenannten Middle Belt des Landes dar. Ihre Entstehung im späten 18. Jahrhundert geht auf die Wanderbewegungen des Beri-Beri-Volkes zurück, das unter der Führung von Muhammad Dunama aus der Region Bornu einwanderte und das Lafia-Emirat begründete. Diese historische Wurzel ist bis heute in der Stadtstruktur präsent, insbesondere durch den prachtvollen Palast des Emirs, der als kultureller Fixpunkt fungiert. Geografisch liegt Lafia in der fruchtbaren Benue-Senke auf einer Höhe von etwa 290 Metern über dem Meeresspiegel. Das Klima ist tropisch-feucht mit einer ausgeprägten Regenzeit von April bis Oktober, was die Umgebung zu einem der wichtigsten landwirtschaftlichen Erzeugungsgebiete Nigerias macht. Die Region ist insbesondere für ihre massiven Yams-Ernten bekannt, die auf den lokalen Märkten wie dem Shabu-Markt gehandelt und bis nach Lagos und Kano transportiert werden. Neben der Landwirtschaft spielt der Bergbau eine wachsende Rolle, da in der Umgebung bedeutende Vorkommen an Kohle und Baryt entdeckt wurden, die die industrielle Basis der Stadt stärken. Seit der Ernennung zur Landeshauptstadt im Jahr 1996 hat Lafia eine rasante Transformation durchlaufen. Die Infrastruktur wurde massiv ausgebaut, neue Regierungsgebäude entstanden entlang der Hauptverkehrsachsen, und die Gründung der Federal University Lafia im Jahr 2010 hat die Stadt als intellektuelles Zentrum etabliert. Sportlich ist die Stadt durch Nasarawa United im nationalen Fußball fest verankert. Die verkehrstechnische Anbindung über die Eisenbahnstrecke von Port Harcourt nach Kaduna sowie die Fernstraßen nach Abuja und Makurdi machen Lafia zu einem unverzichtbaren logistischen Knotenpunkt im Herzen Nigerias. Die soziale Struktur der Stadt zeichnet sich durch eine friedliche Koexistenz verschiedener ethnischer Gruppen wie den Gwandara, Alago und Eggon aus, die gemeinsam das dynamische und vielfältige Stadtleben prägen.",
@@ -1217,7 +3629,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       pt: [],
       fr: [],
     },
-  },   {     id: "ng-ife-cities-v2",     type: "city",     parent: "NG-OS",     coords: [4.5667, 7.4667],     name: { de: "Ife", hu: "Ife", ro: "Ife", en: "Ife"},
+  },   {     id: "ng-ife-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "OROLEYE JUNCTION MODAKEKE",
+                  "text": "Dieser belebte Knotenpunkt in der Stadt Modakeke dient als zentraler Anlaufpunkt für den lokalen Handel und das tägliche Straßenleben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.556328,
+                        7.458738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "OROLEYE JUNCTION MODAKEKE",
+                  "text": "Ez a nyüzsgő útkereszteződés Modakeke városában a helyi kereskedelem és a mindennapi utcai élet egyik fő központja.",
+                  "category": "landmark",
+                  "coords": [
+                        4.556328,
+                        7.458738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "OROLEYE JUNCTION MODAKEKE",
+                  "text": "Această intersecție aglomerată din orașul Modakeke servește ca un punct focal major pentru comerțul local și viața de zi cu zi.",
+                  "category": "landmark",
+                  "coords": [
+                        4.556328,
+                        7.458738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "OROLEYE JUNCTION MODAKEKE",
+                  "text": "This bustling junction in the town of Modakeke serves as a major focal point for local commerce and daily street life.",
+                  "category": "landmark",
+                  "coords": [
+                        4.556328,
+                        7.458738
+                  ]
+            }
+      ]
+},     type: "city",     parent: "NG-OS",     coords: [4.5667, 7.4667],     name: { de: "Ife", hu: "Ife", ro: "Ife", en: "Ife"},
     image: "/poi-images/ng-ife-cities-v2.webp",     description: {       de: "Ile-Ife gilt als die spirituelle Geburtsstätte der Yoruba und ist weltbekannt für realistische antike Bronzeköpfe.",       hu: "Ile-Ife a joruba nép spirituális szülőhelyének számít, és világszerte ismert realisztikus ókori bronzfejeiről.",       ro: "Ile-Ife este considerat locul de naștere spiritual al poporului Yoruba și este renumit la nivel mondial pentru capetele sale antice din bronz realiste.",       en: "Ile-Ife is considered the spiritual birthplace of the Yoruba people and is world-renowned for its realistic ancient bronze heads."     , es: "Ile-Ife es considerada la cuna espiritual de los yoruba y es mundialmente famosa por sus realistas cabezas de bronce antiguas.", pt: "Ile-Ife é considerada o berço espiritual dos yoruba e é mundialmente famosa pelas suas realistas cabeças de bronze antigas.", fr: "Ile-Ife est considérée comme le berceau spirituel des Yoruba et est mondialement connue pour ses têtes de bronze antiques réalistes."},     facts: {       de: ["Ort der Obafemi Awolowo Universität.", "Der Ooni von Ife ist das spirituelle Oberhaupt."],       hu: ["Az Obafemi Awolowo Egyetem helyszíne.", "Ife Ooni-ja a spirituális vezető."],       ro: ["Locul Universității Obafemi Awolowo.", "Ooni de la Ife este liderul spiritual."],       en: ["Site of Obafemi Awolowo University.", "The Ooni of Ife is the spiritual head."]     , es: ["Sede de la Universidad Obafemi Awolowo.", "El Ooni de Ife es el líder espiritual."], pt: ["Sede da Universidade Obafemi Awolowo.", "O Ooni de Ife é o líder espiritual."], fr: ["Siège de l'Université Obafemi Awolowo.", "L'Ooni d'Ife est le chef spirituel."]}, image: "/poi-images/ng-ife-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ile-Ife, im Bundesstaat Osun gelegen, gilt als die spirituelle Wiege der Yoruba-Zivilisation und als eine der ältesten Städte Westafrikas. Nach der Yoruba-Mythologie ist dies der Ort, an dem die Welt erschaffen wurde und an dem die ersten Menschen vom Himmel herabstiegen. Die Stadt erreichte ihre kulturelle Blütezeit zwischen dem 11. und 15. Jahrhundert, eine Ära, die durch die weltberühmten Ife-Bronzeköpfe und Terrakotta-Skulpturen verewigt wurde. Diese Kunstwerke zeugen von einem außergewöhnlichen Niveau an technischer Raffinesse und Naturalismus. Das Oberhaupt der Stadt ist der Ooni von Ife, der als höchster spiritueller Führer aller Yoruba gilt und im prächtigen Enuwa-Palast residiert. In der Moderne ist Ife die Heimat der Obafemi Awolowo University (OAU), einer der führenden akademischen Institutionen Nigerias, deren Campus für seine beeindruckende Architektur bekannt ist. Die Stadt bleibt ein Magnet für Historiker, Archäologen und Pilger, die die heiligen Haine und historischen Stätten der Region besuchen.",

@@ -51,7 +51,124 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "bimbia-slave-port-history-v2",
+    id: "bimbia-slave-port-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bimbia Slave Trade Site",
+                  "text": "Diese düstere historische Attraktion bewahrt die physischen Überreste des transatlantischen Sklavenhandels am ehemaligen Hafen von Bimbia.",
+                  "category": "landmark",
+                  "coords": [
+                        9.257448,
+                        3.963813
+                  ]
+            },
+            {
+                  "name": "Canon",
+                  "text": "Dieses historische Artilleriegeschütz dient als Außenattraktion, die die koloniale Hafenvergangenheit der Region Bimbia markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.253258,
+                        3.959723
+                  ]
+            },
+            {
+                  "name": "Bismarckturm",
+                  "text": "Die Ruinen dieses monumentalen Turms stehen in Bimbia als verblasstes steinernes Zeugnis der ehemaligen deutschen Kolonialpräsenz.",
+                  "category": "historical",
+                  "coords": [
+                        9.211865,
+                        3.951957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bimbia Slave Trade Site",
+                  "text": "Ez a komor történelmi látványosság őrzi a transzatlanti rabszolgakereskedelem fizikai maradványait Bimbia egykori kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.257448,
+                        3.963813
+                  ]
+            },
+            {
+                  "name": "Canon",
+                  "text": "Ez a történelmi tüzérségi eszköz olyan szabadtéri látványosságként szolgál, amely Bimbia régiójának gyarmati kikötői múltját jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.253258,
+                        3.959723
+                  ]
+            },
+            {
+                  "name": "Bismarck Tower",
+                  "text": "Ennek a monumentális toronynak a romjai Bimbiában az egykori német gyarmati jelenlét megfakult kőből épült bizonyítékaként állnak.",
+                  "category": "historical",
+                  "coords": [
+                        9.211865,
+                        3.951957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bimbia Slave Trade Site",
+                  "text": "Această atracție istorică sumbră păstrează rămășițele fizice ale comerțului transatlantic cu sclavi în fostul port Bimbia.",
+                  "category": "landmark",
+                  "coords": [
+                        9.257448,
+                        3.963813
+                  ]
+            },
+            {
+                  "name": "Canon",
+                  "text": "Această piesă istorică de artilerie servește ca atracție în aer liber ce marchează trecutul portuar colonial al regiunii Bimbia.",
+                  "category": "landmark",
+                  "coords": [
+                        9.253258,
+                        3.959723
+                  ]
+            },
+            {
+                  "name": "Bismarck Tower",
+                  "text": "Ruinele acestui turn monumental se înalță în Bimbia ca un testament palid din piatră al fostei prezențe coloniale germane.",
+                  "category": "historical",
+                  "coords": [
+                        9.211865,
+                        3.951957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bimbia Slave Trade Site",
+                  "text": "This somber historic attraction preserves the physical remnants of the transatlantic slave trade at the former port of Bimbia.",
+                  "category": "landmark",
+                  "coords": [
+                        9.257448,
+                        3.963813
+                  ]
+            },
+            {
+                  "name": "Canon",
+                  "text": "This historical artillery piece serves as an outdoor attraction marking the colonial port past of the Bimbia region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.253258,
+                        3.959723
+                  ]
+            },
+            {
+                  "name": "Bismarck Tower",
+                  "text": "The ruins of this monumental tower stand in Bimbia as a faded stone testament to the former German colonial presence.",
+                  "category": "historical",
+                  "coords": [
+                        9.211865,
+                        3.951957
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-SW",
     coords: [9.2431, 3.9556],
@@ -99,7 +216,88 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
     {
-    id: "prime-ministers-lodge-history-v2",
+    id: "prime-ministers-lodge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument des Cinquantenaires",
+                  "text": "Dieses Gedenkmonument gilt als historisches Wahrzeichen im Bezirk der Prime Ministers' Lodge.",
+                  "category": "historical",
+                  "coords": [
+                        9.230085,
+                        4.157836
+                  ]
+            },
+            {
+                  "name": "Old Presidential Palace",
+                  "text": "Dieser ehemalige Kolonialpalast ist eng mit der Amtszeit des deutschen Gouverneurs Jesko von Puttkamer verbunden.",
+                  "category": "castle",
+                  "coords": [
+                        9.228772,
+                        4.157039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument des Cinquantenaires",
+                  "text": "Ez az emlékmű történelmi mérföldkőként szolgál a miniszterelnöki rezidencia negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        9.230085,
+                        4.157836
+                  ]
+            },
+            {
+                  "name": "Old Presidential Palace",
+                  "text": "Ez az egykori gyarmati palota szorosan kötődik Jesko von Puttkamer német kormányzó hivatali idejéhez.",
+                  "category": "castle",
+                  "coords": [
+                        9.228772,
+                        4.157039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument des Cinquantenaires",
+                  "text": "Acest monument comemorativ reprezintă un reper istoric în cartierul lojei primului ministru.",
+                  "category": "historical",
+                  "coords": [
+                        9.230085,
+                        4.157836
+                  ]
+            },
+            {
+                  "name": "Old Presidential Palace",
+                  "text": "Acest fost palat colonial este strâns asociat cu mandatul guvernatorului german Jesko von Puttkamer.",
+                  "category": "castle",
+                  "coords": [
+                        9.228772,
+                        4.157039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument des Cinquantenaires",
+                  "text": "This commemorative monument stands as a historic marker in the prime ministers' lodge district.",
+                  "category": "historical",
+                  "coords": [
+                        9.230085,
+                        4.157836
+                  ]
+            },
+            {
+                  "name": "Old Presidential Palace",
+                  "text": "This former colonial palace is closely associated with the tenure of German governor Jesko von Puttkamer.",
+                  "category": "castle",
+                  "coords": [
+                        9.228772,
+                        4.157039
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-SW",
     coords: [9.2325, 4.1542],
@@ -147,7 +345,52 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "bismarck-fountain-history-v2",
+    id: "bismarck-fountain-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alliance franco_ camerounaise",
+                  "text": "Das Alliance franco-camerounaise ist ein kulturelles Kunstzentrum nahe dem Bismarck-Brunnen, das sich dem kulturellen Austausch widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.244338,
+                        4.153881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alliance franco_ camerounaise",
+                  "text": "Az Alliance franco-camerounaise egy kulturális cserekapcsolatoknak szentelt művészeti központ a Bismarck-kút közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.244338,
+                        4.153881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alliance franco_ camerounaise",
+                  "text": "Alliance franco-camerounaise este un centru de arte dedicat schimburilor culturale, situat lângă Fântâna Bismarck.",
+                  "category": "cultural",
+                  "coords": [
+                        9.244338,
+                        4.153881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alliance franco_ camerounaise",
+                  "text": "The Alliance franco-camerounaise is an arts centre dedicated to cultural exchange located near the Bismarck Fountain.",
+                  "category": "cultural",
+                  "coords": [
+                        9.244338,
+                        4.153881
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-SW",
     coords: [9.2435, 4.1558],
@@ -195,7 +438,88 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "charles-atangana-palace-history-v2",
+    id: "charles-atangana-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espace lumière",
+                  "text": "Ein dynamisches Kunstzentrum, das Ausstellungsräume und kreative Workshops im historischen Palastviertel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.502884,
+                        3.852769
+                  ]
+            },
+            {
+                  "name": "Chapelle De Christ",
+                  "text": "Eine friedliche christliche Kapelle, die einen ruhigen Ort des Gebets und der Besinnung nahe dem Palast bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.45084,
+                        3.8463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace lumière",
+                  "text": "Egy dinamikus művészeti központ, amely kiállítótereket és kreatív workshopokat kínál a történelmi palotanegyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        11.502884,
+                        3.852769
+                  ]
+            },
+            {
+                  "name": "Chapelle De Christ",
+                  "text": "Egy békés keresztény kápolna, amely a palota közelében csendes helyet kínál az imádkozásra és elmélkedésre.",
+                  "category": "landmark",
+                  "coords": [
+                        11.45084,
+                        3.8463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace lumière",
+                  "text": "Un centru de artă dinamic care oferă spații expoziționale și ateliere creative în districtul istoric al palatului.",
+                  "category": "cultural",
+                  "coords": [
+                        11.502884,
+                        3.852769
+                  ]
+            },
+            {
+                  "name": "Chapelle De Christ",
+                  "text": "O capelă creștină liniștită, care oferă un loc tăcut de rugăciune și reflecție în apropierea palatului.",
+                  "category": "landmark",
+                  "coords": [
+                        11.45084,
+                        3.8463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace lumière",
+                  "text": "A dynamic arts center offering exhibition spaces and creative workshops in the historical palace district.",
+                  "category": "cultural",
+                  "coords": [
+                        11.502884,
+                        3.852769
+                  ]
+            },
+            {
+                  "name": "Chapelle De Christ",
+                  "text": "A serene Christian chapel offering a quiet place of prayer and reflection near the palace.",
+                  "category": "landmark",
+                  "coords": [
+                        11.45084,
+                        3.8463
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-CE",
     coords: [11.5019, 3.848],
@@ -243,7 +567,160 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "mankon-fons-palace-history-v2",
+    id: "mankon-fons-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fru Raoul Grandma",
+                  "text": "Dieser lokale Aussichtspunkt in der Nähe des historischen Mankon-Palastes bietet malerische Blicke über das umliegende Wohngebiet.",
+                  "category": "natural",
+                  "coords": [
+                        10.213397,
+                        6.007304
+                  ]
+            },
+            {
+                  "name": "Fru Raoul Mom",
+                  "text": "Dieser Aussichtspunkt in der Nähe des traditionellen Palastgeländes blickt auf den historischen Bezirk von Mankon.",
+                  "category": "natural",
+                  "coords": [
+                        10.220772,
+                        6.006357
+                  ]
+            },
+            {
+                  "name": "Boa",
+                  "text": "Das Boa ist ein bemerkenswertes burgähnliches Bauwerk im historischen Viertel des Mankon-Palastes.",
+                  "category": "castle",
+                  "coords": [
+                        10.18089,
+                        5.983299
+                  ]
+            },
+            {
+                  "name": "Nkwen Fon's palace",
+                  "text": "Der Palast des Nkwen-Fon ist ein traditioneller, befestigter königlicher Komplex und das kulturelle Herz des Nkwen-Volkes.",
+                  "category": "castle",
+                  "coords": [
+                        10.191543,
+                        5.994534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fru Raoul Grandma",
+                  "text": "A történelmi Mankon-palota közelében fekvő helyi kilátó festői panorámát nyújt a környező lakóövezetre.",
+                  "category": "natural",
+                  "coords": [
+                        10.213397,
+                        6.007304
+                  ]
+            },
+            {
+                  "name": "Fru Raoul Mom",
+                  "text": "A hagyományos palotaudvar közelében található kilátópontról a történelmi Mankon negyedre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        10.220772,
+                        6.006357
+                  ]
+            },
+            {
+                  "name": "Boa",
+                  "text": "A Boa egy figyelemre méltó, kastélyszerű építmény a Mankon-palota történelmi negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        10.18089,
+                        5.983299
+                  ]
+            },
+            {
+                  "name": "Nkwen Fon's palace",
+                  "text": "A Nkwen Fon palotája egy hagyományos, erődített királyi központ, amely a nkwen nép kulturális szíve.",
+                  "category": "castle",
+                  "coords": [
+                        10.191543,
+                        5.994534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fru Raoul Grandma",
+                  "text": "Acest punct de belvedere local din apropierea palatului istoric Mankon oferă vederi pitorești asupra zonei rezidențiale înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        10.213397,
+                        6.007304
+                  ]
+            },
+            {
+                  "name": "Fru Raoul Mom",
+                  "text": "Situat în apropierea domeniului palatului tradițional, acest punct de observație local are vedere la cartierul istoric Mankon.",
+                  "category": "natural",
+                  "coords": [
+                        10.220772,
+                        6.006357
+                  ]
+            },
+            {
+                  "name": "Boa",
+                  "text": "Boa este o structură notabilă asemănătoare unui castel, amplasată în cartierul istoric al Palatului Mankon.",
+                  "category": "castle",
+                  "coords": [
+                        10.18089,
+                        5.983299
+                  ]
+            },
+            {
+                  "name": "Nkwen Fon's palace",
+                  "text": "Palatul Nkwen Fon este un complex regal tradițional fortificat, servind ca centru cultural al poporului Nkwen.",
+                  "category": "castle",
+                  "coords": [
+                        10.191543,
+                        5.994534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fru Raoul Grandma",
+                  "text": "This local viewpoint near the historic Mankon Fon's Palace offers scenic views over the surrounding residential area.",
+                  "category": "natural",
+                  "coords": [
+                        10.213397,
+                        6.007304
+                  ]
+            },
+            {
+                  "name": "Fru Raoul Mom",
+                  "text": "Situated near the traditional palace grounds, this local vantage point overlooks the historic Mankon district.",
+                  "category": "natural",
+                  "coords": [
+                        10.220772,
+                        6.006357
+                  ]
+            },
+            {
+                  "name": "Boa",
+                  "text": "The Boa is a notable castle-like structure nestled within the historic district of the Mankon Fon's Palace.",
+                  "category": "castle",
+                  "coords": [
+                        10.18089,
+                        5.983299
+                  ]
+            },
+            {
+                  "name": "Nkwen Fon's palace",
+                  "text": "The Nkwen Fon's Palace is a traditional, fortified royal compound serving as the cultural heart of the Nkwen people.",
+                  "category": "castle",
+                  "coords": [
+                        10.191543,
+                        5.994534
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-NW",
     coords: [10.1581, 5.9586],
@@ -387,7 +864,88 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "reunification-monument-history-v2",
+    id: "reunification-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salle de Danse",
+                  "text": "Ein lokaler Tanzsaal unweit des Denkmals, der einen lebendigen Raum für traditionelle und zeitgenössische Aufführungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.515883,
+                        3.853514
+                  ]
+            },
+            {
+                  "name": "Place de la réunification Pl. 3001",
+                  "text": "Ein malerischer Aussichtspunkt an dem markanten öffentlichen Platz, der an die historische Wiedervereinigung des Landes erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        11.513356,
+                        3.851903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salle de Danse",
+                  "text": "Egy helyi táncterem az emlékmű közelében, amely élénk teret biztosít a hagyományos és kortárs előadások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        11.515883,
+                        3.853514
+                  ]
+            },
+            {
+                  "name": "Place de la réunification Pl. 3001",
+                  "text": "Festői kilátópont, amely az ország történelmi újraegyesítésének emléket állító, kiemelkedő középületnél található.",
+                  "category": "natural",
+                  "coords": [
+                        11.513356,
+                        3.851903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salle de Danse",
+                  "text": "O sală de dans locală din apropierea monumentului, care oferă un spațiu plin de viață pentru spectacole tradiționale și contemporane.",
+                  "category": "landmark",
+                  "coords": [
+                        11.515883,
+                        3.853514
+                  ]
+            },
+            {
+                  "name": "Place de la réunification Pl. 3001",
+                  "text": "Un punct de belvedere pitoresc situat în piața publică importantă care comemorează reunificarea istorică a țării.",
+                  "category": "natural",
+                  "coords": [
+                        11.513356,
+                        3.851903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salle de Danse",
+                  "text": "A local dance hall near the monument that provides a lively space for traditional and contemporary performances.",
+                  "category": "landmark",
+                  "coords": [
+                        11.515883,
+                        3.853514
+                  ]
+            },
+            {
+                  "name": "Place de la réunification Pl. 3001",
+                  "text": "A scenic viewpoint located at the prominent public square commemorating the country's historic reunification.",
+                  "category": "natural",
+                  "coords": [
+                        11.513356,
+                        3.851903
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-CE",
     coords: [11.5122, 3.8561],
@@ -483,7 +1041,124 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "bandjoun-chiefdom-history-v2",
+    id: "bandjoun-chiefdom-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "Dieses Denkmal in Bandjoun ist dem Roi KAMGA Joseph II gewidmet, einem prominenten historischen König.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            },
+            {
+                  "name": "Musée de Bandjoun",
+                  "text": "Das Musée de Bandjoun zeigt eine reiche Sammlung traditioneller königlicher Bamileke-Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        10.409694,
+                        5.349228
+                  ]
+            },
+            {
+                  "name": "Chefferie Bahouan",
+                  "text": "Die Chefferie Bahouan ist ein etabliertes traditionelles königliches Anwesen in der Region Bandjoun.",
+                  "category": "landmark",
+                  "coords": [
+                        10.368104,
+                        5.368773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "Ez a bandjouni emlékmű II. KAMGA Joseph királynak (Roi), egy kiemelkedő történelmi uralkodónak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            },
+            {
+                  "name": "Musée de Bandjoun",
+                  "text": "A Musée de Bandjoun a hagyományos bamileke királyi tárgyak gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.409694,
+                        5.349228
+                  ]
+            },
+            {
+                  "name": "Chefferie Bahouan",
+                  "text": "A Chefferie Bahouan egy bejáratott hagyományos királyi birtok a Bandjoun régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.368104,
+                        5.368773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "Acest monument din Bandjoun îi este dedicat lui Roi KAMGA Joseph II, un rege istoric proeminent.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            },
+            {
+                  "name": "Musée de Bandjoun",
+                  "text": "Musée de Bandjoun expune o colecție bogată de artefacte regale tradiționale Bamileke.",
+                  "category": "museum",
+                  "coords": [
+                        10.409694,
+                        5.349228
+                  ]
+            },
+            {
+                  "name": "Chefferie Bahouan",
+                  "text": "Chefferie Bahouan este o moșie regală tradițională consacrată în regiunea Bandjoun.",
+                  "category": "landmark",
+                  "coords": [
+                        10.368104,
+                        5.368773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "This monument in Bandjoun is dedicated to Roi KAMGA Joseph II, a prominent historical king.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            },
+            {
+                  "name": "Musée de Bandjoun",
+                  "text": "The Musée de Bandjoun displays a rich collection of traditional Bamileke royal artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        10.409694,
+                        5.349228
+                  ]
+            },
+            {
+                  "name": "Chefferie Bahouan",
+                  "text": "Chefferie Bahouan is an established traditional royal estate in the Bandjoun region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.368104,
+                        5.368773
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-OU",
     coords: [10.4086, 5.3589],
@@ -531,7 +1206,52 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "diy-gid-biy-ruins-history-v2",
+    id: "diy-gid-biy-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Oupay",
+                  "text": "Dieser Gipfel ist als höchster Punkt des Mandara-Gebirges bekannt und bietet schroffes, felsiges Gelände sowie weite Ausblicke über die Grenzregion.",
+                  "category": "natural",
+                  "coords": [
+                        13.780908,
+                        10.887649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Oupay",
+                  "text": "A Mandara-hegység legmagasabb csúcsaként ismert hegy zord, sziklás terepet és széles kilátást kínál a regionális határvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        13.780908,
+                        10.887649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Oupay",
+                  "text": "Recunoscut ca cel mai înalt vârf din Munții Mandara, această culme oferă un teren accidentat, stâncos și vederi panoramice asupra zonelor de graniță regionale.",
+                  "category": "natural",
+                  "coords": [
+                        13.780908,
+                        10.887649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Oupay",
+                  "text": "Recognized as the highest peak in the Mandara Mountains, this summit offers rugged, rocky terrain and sweeping views over the regional borderlands.",
+                  "category": "natural",
+                  "coords": [
+                        13.780908,
+                        10.887649
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-EN",
     coords: [13.7833, 10.95],
@@ -579,7 +1299,124 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "old-german-cemetery-douala-history-v2",
+    id: "old-german-cemetery-douala-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc de jeux",
+                  "text": "Dieser örtliche Spielplatz bietet einen lebendigen Erholungsraum für Kinder vor der Kulisse der historischen Viertel der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.689828,
+                        4.046726
+                  ]
+            },
+            {
+                  "name": "Villa Mandessi Bell",
+                  "text": "Diese in den frühen 1900er Jahren erbaute Backsteinresidenz aus der Kolonialzeit war einst das opulente Zuhause eines wohlhabenden lokalen Kaufmanns.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688537,
+                        4.045115
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Sawa",
+                  "text": "Dieses im Dezember 2023 eröffnete moderne Kulturzentrum widmet sich der Bewahrung und Präsentation des Erbes des Sawa-Volkes.",
+                  "category": "cultural",
+                  "coords": [
+                        9.690991,
+                        4.044742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc de jeux",
+                  "text": "Ez a helyi játszótér élénk rekreációs teret biztosít a gyermekek számára a város történelmi negyedeinek hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.689828,
+                        4.046726
+                  ]
+            },
+            {
+                  "name": "Villa Mandessi Bell",
+                  "text": "A 20. század elején épült, gyarmati korszakból származó téglaépület egykor egy gazdag helyi kereskedő fényűző otthona volt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688537,
+                        4.045115
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Sawa",
+                  "text": "A 2023 decemberében megnyílt modern kulturális központ a sawa nép örökségének megőrzésére és bemutatására szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        9.690991,
+                        4.044742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc de jeux",
+                  "text": "Acest loc de joacă local oferă un spațiu de recreere vibrant pentru copii, pe fundalul cartierelor istorice ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        9.689828,
+                        4.046726
+                  ]
+            },
+            {
+                  "name": "Villa Mandessi Bell",
+                  "text": "Construită la începutul secolului al XX-lea, această reședință din cărămidă din epoca colonială a fost odată casa opulentă a unui negustor local bogat.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688537,
+                        4.045115
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Sawa",
+                  "text": "Deschis în decembrie 2023, acest centru cultural modern este dedicat păstrării și prezentării moștenirii poporului Sawa.",
+                  "category": "cultural",
+                  "coords": [
+                        9.690991,
+                        4.044742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc de jeux",
+                  "text": "This local playground provides a vibrant recreational space for children set against the backdrop of the city's historic districts.",
+                  "category": "landmark",
+                  "coords": [
+                        9.689828,
+                        4.046726
+                  ]
+            },
+            {
+                  "name": "Villa Mandessi Bell",
+                  "text": "Built in the early 20th century, this colonial-era brick residence was once the opulent home of a wealthy local merchant.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688537,
+                        4.045115
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Sawa",
+                  "text": "Opened in December 2023, this modern cultural centre is dedicated to preserving and showcasing the heritage of the Sawa people.",
+                  "category": "cultural",
+                  "coords": [
+                        9.690991,
+                        4.044742
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-LT",
     coords: [9.6892, 4.0456],
@@ -723,7 +1560,88 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "ngaoundere-lamidat-history-v2",
+    id: "ngaoundere-lamidat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du cinquantenaire",
+                  "text": "Dieses Denkmal in Ngaoundéré befindet sich in der Nähe des historischen Lamidats und erinnert mit seiner modernen Architektur an den 50. Jahrestag der Unabhängigkeit Kameruns.",
+                  "category": "historical",
+                  "coords": [
+                        13.564864,
+                        7.332222
+                  ]
+            },
+            {
+                  "name": "Bois de Mardock",
+                  "text": "Der Bois de Mardock ist ein ruhiger Stadtpark in Ngaoundéré, der einen schattigen, grünen Rückzugsort abseits des geschäftigen Stadtzentrums bietet.",
+                  "category": "park",
+                  "coords": [
+                        13.562879,
+                        7.333259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du cinquantenaire",
+                  "text": "A történelmi Lamidat közelében található ngaoundéréi emlékmű modern építészetével Kamerun függetlenségének 50. évfordulójának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        13.564864,
+                        7.332222
+                  ]
+            },
+            {
+                  "name": "Bois de Mardock",
+                  "text": "A Bois de Mardock egy nyugodt városi park Ngaoundérében, amely árnyékos zöld menedéket nyújt a nyüzsgő városközponttól távol.",
+                  "category": "park",
+                  "coords": [
+                        13.562879,
+                        7.333259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du cinquantenaire",
+                  "text": "Situat în apropierea istoricului Lamidat, acest monument din Ngaoundéré comemorează a 50-a aniversare a independenței Camerunului printr-o arhitectură modernă izbitoare.",
+                  "category": "historical",
+                  "coords": [
+                        13.564864,
+                        7.332222
+                  ]
+            },
+            {
+                  "name": "Bois de Mardock",
+                  "text": "Bois de Mardock este un parc municipal liniștit în Ngaoundéré, oferind un refugiu verde și umbrit departe de centrul plin de viață al orașului.",
+                  "category": "park",
+                  "coords": [
+                        13.562879,
+                        7.333259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du cinquantenaire",
+                  "text": "Located near the historic Lamidat, this monument in Ngaoundéré commemorates the 50th anniversary of Cameroon's independence with striking modern architecture.",
+                  "category": "historical",
+                  "coords": [
+                        13.564864,
+                        7.332222
+                  ]
+            },
+            {
+                  "name": "Bois de Mardock",
+                  "text": "The Bois de Mardock is a tranquil municipal park in Ngaoundéré, providing a shaded green retreat away from the bustling city center.",
+                  "category": "park",
+                  "coords": [
+                        13.562879,
+                        7.333259
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-AD",
     coords: [13.5853, 7.32],
@@ -771,7 +1689,124 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "king-bell-palace-history-v2",
+    id: "king-bell-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancien Siège Woermann Linie",
+                  "text": "Dieses Gebäude aus der Kolonialzeit diente einst als regionaler Hauptsitz einer großen deutschen Schifffahrtsgesellschaft, die am frühen westafrikanischen Seehandel beteiligt war.",
+                  "category": "landmark",
+                  "coords": [
+                        9.686261,
+                        4.04536
+                  ]
+            },
+            {
+                  "name": "Ancien Hôpital Général",
+                  "text": "Dieses historisch bedeutsame medizinische Gebäude spiegelt die frühen europäischen architektonischen Einflüsse wider, die während der Kolonialverwaltung von Douala eingeführt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.684759,
+                        4.04002
+                  ]
+            },
+            {
+                  "name": "Doual'art",
+                  "text": "Doual'art ist ein bahnbrechendes Zentrum für zeitgenössische Kunst, das sich urbanen ästhetischen Interventionen, öffentlichen Installationen und der Unterstützung moderner afrikanischer Schöpfer widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.686914,
+                        4.043773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancien Siège Woermann Linie",
+                  "text": "Ez a koloniális korszakból származó épület egykor egy nagy német hajózási társaság regionális központjaként szolgált, amely részt vett a korai nyugat-afrikai tengeri kereskedelemben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.686261,
+                        4.04536
+                  ]
+            },
+            {
+                  "name": "Ancien Hôpital Général",
+                  "text": "Ez a történelmileg jelentős orvosi épület a Douala gyarmati közigazgatása során bevezetett korai európai építészeti hatásokat tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.684759,
+                        4.04002
+                  ]
+            },
+            {
+                  "name": "Doual'art",
+                  "text": "A Doual'art egy úttörő kortárs művészeti központ, amely városi esztétikai beavatkozásoknak, köztéri installációknak és modern afrikai alkotók támogatásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        9.686914,
+                        4.043773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancien Siège Woermann Linie",
+                  "text": "Această clădire din epoca colonială a servit odată ca sediu regional pentru o mare companie germană de transport maritim implicată în comerțul maritim timpuriu din Africa de Vest.",
+                  "category": "landmark",
+                  "coords": [
+                        9.686261,
+                        4.04536
+                  ]
+            },
+            {
+                  "name": "Ancien Hôpital Général",
+                  "text": "Această clădire medicală cu importanță istorică reflectă influențele arhitecturale europene timpurii introduse în timpul administrației coloniale din Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.684759,
+                        4.04002
+                  ]
+            },
+            {
+                  "name": "Doual'art",
+                  "text": "Doual'art este un centru de artă contemporană de pionierat dedicat intervențiilor estetice urbane, instalațiilor publice și sprijinirii creatorilor africani moderni.",
+                  "category": "cultural",
+                  "coords": [
+                        9.686914,
+                        4.043773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancien Siège Woermann Linie",
+                  "text": "This colonial-era building once served as the regional headquarters for a major German shipping company involved in early West African maritime trade.",
+                  "category": "landmark",
+                  "coords": [
+                        9.686261,
+                        4.04536
+                  ]
+            },
+            {
+                  "name": "Ancien Hôpital Général",
+                  "text": "This historically significant medical building reflects the early European architectural influences introduced during the colonial administration of Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.684759,
+                        4.04002
+                  ]
+            },
+            {
+                  "name": "Doual'art",
+                  "text": "Doual'art is a pioneering contemporary art center dedicated to urban aesthetic interventions, public installations, and supporting modern African creators.",
+                  "category": "cultural",
+                  "coords": [
+                        9.686914,
+                        4.043773
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-LT",
     coords: [9.6861, 4.0442],
@@ -867,7 +1902,196 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "batoufam-chiefdom-history-v2",
+    id: "batoufam-chiefdom-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chefferie Bayangam",
+                  "text": "Die Chefferie Bayangam ist ein traditioneller, befestigter Häuptlingskomplex in der Nähe von Batoufam.",
+                  "category": "castle",
+                  "coords": [
+                        10.451866,
+                        5.296112
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangoua",
+                  "text": "Dieses traditionelle Bangoua-Häuptlingstum ist eine wichtige kulturelle Sehenswürdigkeit bei Batoufam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.480464,
+                        5.206248
+                  ]
+            },
+            {
+                  "name": "Péage Batoufam",
+                  "text": "Die Mautstelle Péage Batoufam dient als Aussichtspunkt am Straßenrand mit Blick auf die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.454185,
+                        5.245779
+                  ]
+            },
+            {
+                  "name": "Chefferie de Batoufam",
+                  "text": "Die Chefferie de Batoufam ist ein traditioneller Häuptlingskomplex, der die lokale Kulturgeschichte präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469705,
+                        5.262977
+                  ]
+            },
+            {
+                  "name": "Musée de la Chefferie Bangoua",
+                  "text": "Dieses Museum in der Nähe von Batoufam bewahrt historische Artefakte des traditionellen Bangoua-Häuptlingstums.",
+                  "category": "museum",
+                  "coords": [
+                        10.479226,
+                        5.207153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chefferie Bayangam",
+                  "text": "A Chefferie Bayangam egy hagyományos, erődített törzsfőnöki épületegyüttes Batoufam közelében.",
+                  "category": "castle",
+                  "coords": [
+                        10.451866,
+                        5.296112
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangoua",
+                  "text": "Ez a hagyományos Bangoua törzsfőnökség jelentős kulturális látványosság Batoufam mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        10.480464,
+                        5.206248
+                  ]
+            },
+            {
+                  "name": "Péage Batoufam",
+                  "text": "A Péage Batoufam fizetőkapu területe út menti kilátóként is szolgál a helyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        10.454185,
+                        5.245779
+                  ]
+            },
+            {
+                  "name": "Chefferie de Batoufam",
+                  "text": "A Chefferie de Batoufam egy hagyományos törzsfőnökség, amely a helyi kulturális történelmet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469705,
+                        5.262977
+                  ]
+            },
+            {
+                  "name": "Musée de la Chefferie Bangoua",
+                  "text": "Ez a Batoufam közelében található múzeum a hagyományos Bangoua törzsfőnökség történelmi tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        10.479226,
+                        5.207153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chefferie Bayangam",
+                  "text": "Chefferie Bayangam este un complex tradițional fortificat de căpetenie, situat în apropiere de Batoufam.",
+                  "category": "castle",
+                  "coords": [
+                        10.451866,
+                        5.296112
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangoua",
+                  "text": "Această căpetenie tradițională Bangoua servește ca o importantă atracție culturală în apropiere de Batoufam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.480464,
+                        5.206248
+                  ]
+            },
+            {
+                  "name": "Péage Batoufam",
+                  "text": "Zona stației de taxare Péage Batoufam servește ca un punct de belvedere pe marginea drumului, cu vedere la peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        10.454185,
+                        5.245779
+                  ]
+            },
+            {
+                  "name": "Chefferie de Batoufam",
+                  "text": "Chefferie de Batoufam este un complex tradițional de căpetenie care prezintă istoria culturală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469705,
+                        5.262977
+                  ]
+            },
+            {
+                  "name": "Musée de la Chefferie Bangoua",
+                  "text": "Acest muzeu din apropiere de Batoufam păstrează și expune artefacte istorice ale căpeteniei tradiționale Bangoua.",
+                  "category": "museum",
+                  "coords": [
+                        10.479226,
+                        5.207153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chefferie Bayangam",
+                  "text": "The Chefferie Bayangam is a traditional, fortified chiefdom complex located near Batoufam.",
+                  "category": "castle",
+                  "coords": [
+                        10.451866,
+                        5.296112
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangoua",
+                  "text": "This traditional Bangoua chiefdom serves as an important cultural attraction near Batoufam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.480464,
+                        5.206248
+                  ]
+            },
+            {
+                  "name": "Péage Batoufam",
+                  "text": "The Péage Batoufam area serves as a roadside viewpoint overlooking the local chiefdom landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.454185,
+                        5.245779
+                  ]
+            },
+            {
+                  "name": "Chefferie de Batoufam",
+                  "text": "The Chefferie de Batoufam is a traditional chiefdom complex showcasing the local cultural history.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469705,
+                        5.262977
+                  ]
+            },
+            {
+                  "name": "Museum of Bangoua Chieftaincy",
+                  "text": "This museum near Batoufam preserves and displays historical artifacts of the traditional Bangoua chieftaincy.",
+                  "category": "museum",
+                  "coords": [
+                        10.479226,
+                        5.207153
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-OU",
     coords: [10.4561, 5.2831],
@@ -963,7 +2187,52 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "king-akwas-palace-history-v2",
+    id: "king-akwas-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hôpital Laquintinie",
+                  "text": "Dieser in der Kolonialzeit gegründete große Krankenhauskomplex ist ein monumentales Zeugnis des medizinischen und historischen Erbes von Douala.",
+                  "category": "historical",
+                  "coords": [
+                        9.703103,
+                        4.048201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hôpital Laquintinie",
+                  "text": "A gyarmati korban alapított nagy kórházkomplexum Douala orvosi és történelmi örökségének monumentális darabja.",
+                  "category": "historical",
+                  "coords": [
+                        9.703103,
+                        4.048201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hôpital Laquintinie",
+                  "text": "Fondat în epoca colonială, acest mare complex spitalicesc se remarcă ca o piesă monumentală a moștenirii medicale și istorice a orașului Douala.",
+                  "category": "historical",
+                  "coords": [
+                        9.703103,
+                        4.048201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hôpital Laquintinie",
+                  "text": "Founded in the colonial era, this large hospital complex stands as a monumental piece of Douala's medical and historical heritage.",
+                  "category": "historical",
+                  "coords": [
+                        9.703103,
+                        4.048201
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-LT",
     coords: [9.7042, 4.0489],
@@ -1011,7 +2280,592 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "dschang-colonial-center-history-v2",
+    id: "dschang-colonial-center-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chefferie Lepoh",
+                  "text": "Die Chefferie Lepoh ist ein traditionelles Häuptlingstum in der Nähe von Dschang, das durch die charakteristische Bamileke-Architektur besticht und als wichtiges Zentrum lokaler Regierungsführung dient.",
+                  "category": "castle",
+                  "coords": [
+                        10.079483,
+                        5.510638
+                  ]
+            },
+            {
+                  "name": "chefferie Nteu",
+                  "text": "Der Komplex der Chefferie Nteu bewahrt das Erbe der Ahnen und die filigranen kulturellen Strukturen des Bamileke-Volkes in der Region Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        10.079655,
+                        5.472536
+                  ]
+            },
+            {
+                  "name": "Chefferie de Ntsingbeu",
+                  "text": "Als traditioneller königlicher Hof ist die Chefferie de Ntsingbeu in der Nähe von Dschang für ihre filigranen Bambusstrukturen und ihre kulturelle Bedeutung bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        10.11758,
+                        5.455228
+                  ]
+            },
+            {
+                  "name": "Musée du Groupement Bafou",
+                  "text": "Das Musée du Groupement Bafou beherbergt eine reiche Sammlung von Bamileke-Artefakten, darunter königliche Insignien und traditionelle Masken aus der Gegend von Dschang.",
+                  "category": "museum",
+                  "coords": [
+                        10.113386,
+                        5.474396
+                  ]
+            },
+            {
+                  "name": "Farm_Zunla",
+                  "text": "Farm_Zunla bietet weitreichende landwirtschaftliche Ausblicke auf das fruchtbare Hochland von Dschang, wo traditionelle Anbaumethoden mit der hügeligen Landschaft verschmelzen.",
+                  "category": "natural",
+                  "coords": [
+                        10.1356,
+                        5.480987
+                  ]
+            },
+            {
+                  "name": "Chefferie Fongo Tongo",
+                  "text": "Die Chefferie Fongo Tongo ist ein imposanter traditioneller Palastkomplex in der Nähe von Dschang, der sich durch seine hohen konischen Dächer und seine Rolle bei regionalen Zeremonien auszeichnet.",
+                  "category": "castle",
+                  "coords": [
+                        9.996423,
+                        5.510085
+                  ]
+            },
+            {
+                  "name": "chefferie letsa",
+                  "text": "Die Chefferie Letsa ist ein authentischer traditioneller Bamileke-Hof in der Nähe von Dschang, der die jahrhundertealten Bräuche und das architektonische Erbe der Gemeinschaft aufrechterhält.",
+                  "category": "castle",
+                  "coords": [
+                        10.0528,
+                        5.492647
+                  ]
+            },
+            {
+                  "name": "Chefferie Foto",
+                  "text": "Die Chefferie Foto ist ein traditioneller Palastkomplex der Bamileke-Häuptlingstümer im Gebiet von Dschang.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067995,
+                        5.466448
+                  ]
+            },
+            {
+                  "name": "chefferie keleng",
+                  "text": "Die Chefferie Keleng dient als lokale königliche Residenz und zeigt traditionelle Bamileke-Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        10.074527,
+                        5.448314
+                  ]
+            },
+            {
+                  "name": "Chefferie Bastsengla",
+                  "text": "Die Chefferie Bastsengla ist ein traditioneller Palastkomplex, der das lokale Häuptlingserbe repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        10.108489,
+                        5.454063
+                  ]
+            },
+            {
+                  "name": "Chefferie Ntsinlekouet",
+                  "text": "Die Chefferie Ntsinlekouet ist ein königliches Burgviertel in der traditionellen Region Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        10.11201,
+                        5.456174
+                  ]
+            },
+            {
+                  "name": "Chefferie Bazifeng",
+                  "text": "Die Chefferie Bazifeng steht als traditioneller Häuptlingspalast von tiefer kultureller Bedeutung.",
+                  "category": "castle",
+                  "coords": [
+                        10.103005,
+                        5.466473
+                  ]
+            },
+            {
+                  "name": "chaefferie de Tsinbing",
+                  "text": "Die Chefferie de Tsinbing ist eine traditionelle Häuptlingsburg, die lokale Verwaltungstraditionen bewahrt.",
+                  "category": "castle",
+                  "coords": [
+                        10.079316,
+                        5.453031
+                  ]
+            },
+            {
+                  "name": "chefferie yaguem",
+                  "text": "Die Chefferie Yaguem ist ein regionaler königlicher Hof und traditionelles Verwaltungszentrum der Häuptlingstümer.",
+                  "category": "castle",
+                  "coords": [
+                        10.075983,
+                        5.446053
+                  ]
+            },
+            {
+                  "name": "Chefferie Ndzong",
+                  "text": "Die Chefferie Ndzong ist eine traditionelle Häuptlingsresidenz mit charakteristischer lokaler königlicher Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        10.077831,
+                        5.466066
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations",
+                  "text": "Das Musée des Civilisations in Dschang zeigt die Geschichte und Kultur der verschiedenen ethnischen Gruppen Kameruns.",
+                  "category": "museum",
+                  "coords": [
+                        10.065416,
+                        5.450112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chefferie Lepoh",
+                  "text": "A Chefferie Lepoh egy hagyományos törzsfőnökség Dschang közelében, amely jellegzetes bamileke építészettel büszkélkedhet, és a helyi kormányzás fontos központjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        10.079483,
+                        5.510638
+                  ]
+            },
+            {
+                  "name": "chefferie Nteu",
+                  "text": "A Chefferie Nteu komplexum megőrzi a bamileke nép ősi örökségét és bonyolult kulturális struktúráit a Dschang régióban.",
+                  "category": "castle",
+                  "coords": [
+                        10.079655,
+                        5.472536
+                  ]
+            },
+            {
+                  "name": "Chefferie de Ntsingbeu",
+                  "text": "Hagyományos királyi udvarként a Dschang melletti Chefferie de Ntsingbeu bonyolult bambuszszerkezeteiről és kulturális jelentőségéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        10.11758,
+                        5.455228
+                  ]
+            },
+            {
+                  "name": "Musée du Groupement Bafou",
+                  "text": "A Musée du Groupement Bafou bamileke műtárgyak gazdag gyűjteményének ad otthont, köztük királyi jelvényeknek és hagyományos maszkoknak a Dschang környékéről.",
+                  "category": "museum",
+                  "coords": [
+                        10.113386,
+                        5.474396
+                  ]
+            },
+            {
+                  "name": "Farm_Zunla",
+                  "text": "A Farm_Zunla lenyűgöző mezőgazdasági kilátást nyújt a termékeny dschangi fennsíkra, ahol a hagyományos gazdálkodási módszerek zökkenőmentesen beleolvadnak a dombos tájba.",
+                  "category": "natural",
+                  "coords": [
+                        10.1356,
+                        5.480987
+                  ]
+            },
+            {
+                  "name": "Chefferie Fongo Tongo",
+                  "text": "A Chefferie Fongo Tongo egy impozáns hagyományos palotakomplexum Dschang közelében, amelyet magas kúpos tetői és a regionális szertartásokban betöltött szerepe különböztet meg.",
+                  "category": "castle",
+                  "coords": [
+                        9.996423,
+                        5.510085
+                  ]
+            },
+            {
+                  "name": "chefferie letsa",
+                  "text": "A Chefferie Letsa egy autentikus bamileke hagyományos udvar Dschang közelében, amely fenntartja a közösség évszázados szokásait és építészeti örökségét.",
+                  "category": "castle",
+                  "coords": [
+                        10.0528,
+                        5.492647
+                  ]
+            },
+            {
+                  "name": "Chefferie Foto",
+                  "text": "A Chefferie Foto egy hagyományos bamileke törzsfői rezidencia a Dschang régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067995,
+                        5.466448
+                  ]
+            },
+            {
+                  "name": "chefferie keleng",
+                  "text": "A Chefferie Keleng helyi királyi rezidenciaként szolgál, amely bemutatja a hagyományos bamileke építészetet.",
+                  "category": "castle",
+                  "coords": [
+                        10.074527,
+                        5.448314
+                  ]
+            },
+            {
+                  "name": "Chefferie Bastsengla",
+                  "text": "A Chefferie Bastsengla egy hagyományos palotakomplexum, amely a helyi törzsfői örökséget képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        10.108489,
+                        5.454063
+                  ]
+            },
+            {
+                  "name": "Chefferie Ntsinlekouet",
+                  "text": "A Chefferie Ntsinlekouet egy királyi várkomplexum, amely a hagyományos Dschang régióban található.",
+                  "category": "castle",
+                  "coords": [
+                        10.11201,
+                        5.456174
+                  ]
+            },
+            {
+                  "name": "Chefferie Bazifeng",
+                  "text": "A Chefferie Bazifeng mély kulturális jelentőséggel bíró hagyományos törzsfői palota.",
+                  "category": "castle",
+                  "coords": [
+                        10.103005,
+                        5.466473
+                  ]
+            },
+            {
+                  "name": "chaefferie de Tsinbing",
+                  "text": "A Chefferie de Tsinbing egy hagyományos törzsfői vár, amely megőrzi a helyi közigazgatási hagyományokat.",
+                  "category": "castle",
+                  "coords": [
+                        10.079316,
+                        5.453031
+                  ]
+            },
+            {
+                  "name": "chefferie yaguem",
+                  "text": "A Chefferie Yaguem egy regionális királyi udvar és hagyományos törzsfői közigazgatási központ.",
+                  "category": "castle",
+                  "coords": [
+                        10.075983,
+                        5.446053
+                  ]
+            },
+            {
+                  "name": "Chefferie Ndzong",
+                  "text": "A Chefferie Ndzong egy hagyományos törzsfői rezidencia, amely jellegzetes helyi királyi építészettel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        10.077831,
+                        5.466066
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations",
+                  "text": "A dschangi Musée des Civilisations Kamerun különböző etnikai csoportjainak történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.065416,
+                        5.450112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chefferie Lepoh",
+                  "text": "Chefferie Lepoh este o căpetenie tradițională din apropiere de Dschang, având arhitectură caracteristică Bamileke și servind ca un centru vital de guvernare locală.",
+                  "category": "castle",
+                  "coords": [
+                        10.079483,
+                        5.510638
+                  ]
+            },
+            {
+                  "name": "chefferie Nteu",
+                  "text": "Complexul Chefferie Nteu păstrează moștenirea ancestrală și structurile culturale complexe ale poporului Bamileke din regiunea Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        10.079655,
+                        5.472536
+                  ]
+            },
+            {
+                  "name": "Chefferie de Ntsingbeu",
+                  "text": "Servind ca o curte regală tradițională, Chefferie de Ntsingbeu de lângă Dschang este remarcabilă pentru structurile sale complexe din bambus și semnificația culturală.",
+                  "category": "castle",
+                  "coords": [
+                        10.11758,
+                        5.455228
+                  ]
+            },
+            {
+                  "name": "Musée du Groupement Bafou",
+                  "text": "Musée du Groupement Bafou găzduiește o colecție bogată de artefacte Bamileke, inclusiv însemne regale și măști tradiționale din zona Dschang.",
+                  "category": "museum",
+                  "coords": [
+                        10.113386,
+                        5.474396
+                  ]
+            },
+            {
+                  "name": "Farm_Zunla",
+                  "text": "Farm_Zunla oferă priveliști agricole ample asupra câmpiilor fertile din Dschang, unde metodele tradiționale de cultivare se îmbină cu peisajul deluros.",
+                  "category": "natural",
+                  "coords": [
+                        10.1356,
+                        5.480987
+                  ]
+            },
+            {
+                  "name": "Chefferie Fongo Tongo",
+                  "text": "Chefferie Fongo Tongo este un complex de palat tradițional impunător de lângă Dschang, remarcat prin acoperișurile sale conice înalte și rolul său în ceremoniile regionale.",
+                  "category": "castle",
+                  "coords": [
+                        9.996423,
+                        5.510085
+                  ]
+            },
+            {
+                  "name": "chefferie letsa",
+                  "text": "Chefferie Letsa este o curte tradițională Bamileke autentică lângă Dschang, menținând obiceiurile seculare și moștenirea arhitecturală a comunității.",
+                  "category": "castle",
+                  "coords": [
+                        10.0528,
+                        5.492647
+                  ]
+            },
+            {
+                  "name": "Chefferie Foto",
+                  "text": "Chefferie Foto este un complex tradițional de căpetenie Bamileke din zona Dschang.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067995,
+                        5.466448
+                  ]
+            },
+            {
+                  "name": "chefferie keleng",
+                  "text": "Chefferie Keleng servește ca reședință regală locală, prezentând arhitectura tradițională Bamileke.",
+                  "category": "castle",
+                  "coords": [
+                        10.074527,
+                        5.448314
+                  ]
+            },
+            {
+                  "name": "Chefferie Bastsengla",
+                  "text": "Chefferie Bastsengla este un complex de palate tradițional care reprezintă moștenirea căpeteniilor locale.",
+                  "category": "castle",
+                  "coords": [
+                        10.108489,
+                        5.454063
+                  ]
+            },
+            {
+                  "name": "Chefferie Ntsinlekouet",
+                  "text": "Chefferie Ntsinlekouet este un complex regal situat în regiunea tradițională Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        10.11201,
+                        5.456174
+                  ]
+            },
+            {
+                  "name": "Chefferie Bazifeng",
+                  "text": "Chefferie Bazifeng reprezintă un palat tradițional de căpetenie cu o profundă semnificație culturală.",
+                  "category": "castle",
+                  "coords": [
+                        10.103005,
+                        5.466473
+                  ]
+            },
+            {
+                  "name": "chaefferie de Tsinbing",
+                  "text": "Chefferie de Tsinbing este un castel tradițional de căpetenie care păstrează tradițiile administrative locale.",
+                  "category": "castle",
+                  "coords": [
+                        10.079316,
+                        5.453031
+                  ]
+            },
+            {
+                  "name": "chefferie yaguem",
+                  "text": "Chefferie Yaguem este o curte regală regională și un centru administrativ tradițional.",
+                  "category": "castle",
+                  "coords": [
+                        10.075983,
+                        5.446053
+                  ]
+            },
+            {
+                  "name": "Chefferie Ndzong",
+                  "text": "Chefferie Ndzong este o reședință tradițională de căpetenie, prezentând o arhitectură regală locală caracteristică.",
+                  "category": "castle",
+                  "coords": [
+                        10.077831,
+                        5.466066
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations",
+                  "text": "Musée des Civilisations din Dschang expune istoria și cultura diverselor grupuri etnice din Camerun.",
+                  "category": "museum",
+                  "coords": [
+                        10.065416,
+                        5.450112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chefferie Lepoh",
+                  "text": "Chefferie Lepoh is a traditional chiefdom near Dschang, featuring characteristic Bamileke architecture and serving as a vital center of local governance.",
+                  "category": "castle",
+                  "coords": [
+                        10.079483,
+                        5.510638
+                  ]
+            },
+            {
+                  "name": "chefferie Nteu",
+                  "text": "The Chefferie Nteu complex preserves the ancestral heritage and intricate cultural structures of the Bamileke people in the Dschang region.",
+                  "category": "castle",
+                  "coords": [
+                        10.079655,
+                        5.472536
+                  ]
+            },
+            {
+                  "name": "Chefferie de Ntsingbeu",
+                  "text": "Serving as a traditional royal court, the Chefferie de Ntsingbeu near Dschang is notable for its intricate bamboo structures and cultural significance.",
+                  "category": "castle",
+                  "coords": [
+                        10.11758,
+                        5.455228
+                  ]
+            },
+            {
+                  "name": "Musée du Groupement Bafou",
+                  "text": "The Musée du Groupement Bafou houses a rich collection of Bamileke artifacts, including royal regalia and traditional masks from the Dschang area.",
+                  "category": "museum",
+                  "coords": [
+                        10.113386,
+                        5.474396
+                  ]
+            },
+            {
+                  "name": "Farm_Zunla",
+                  "text": "Farm_Zunla offers sweeping agricultural views of the fertile Dschang highlands, where traditional farming methods blend with the rolling landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.1356,
+                        5.480987
+                  ]
+            },
+            {
+                  "name": "Chefferie Fongo Tongo",
+                  "text": "The Chefferie Fongo Tongo is an imposing traditional palace complex near Dschang, distinguished by its high conical roofs and role in regional ceremonies.",
+                  "category": "castle",
+                  "coords": [
+                        9.996423,
+                        5.510085
+                  ]
+            },
+            {
+                  "name": "chefferie letsa",
+                  "text": "Chefferie Letsa is an authentic Bamileke traditional court near Dschang, maintaining the centuries-old customs and architectural heritage of the community.",
+                  "category": "castle",
+                  "coords": [
+                        10.0528,
+                        5.492647
+                  ]
+            },
+            {
+                  "name": "Chefferie Foto",
+                  "text": "Chefferie Foto is a traditional Bamileke chiefdom compound in the Dschang area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067995,
+                        5.466448
+                  ]
+            },
+            {
+                  "name": "chefferie keleng",
+                  "text": "Chefferie Keleng serves as a local royal residence showcasing traditional Bamileke architecture.",
+                  "category": "castle",
+                  "coords": [
+                        10.074527,
+                        5.448314
+                  ]
+            },
+            {
+                  "name": "Chefferie Bastsengla",
+                  "text": "Chefferie Bastsengla is a traditional palace complex representing the local chiefdom heritage.",
+                  "category": "castle",
+                  "coords": [
+                        10.108489,
+                        5.454063
+                  ]
+            },
+            {
+                  "name": "Chefferie Ntsinlekouet",
+                  "text": "Chefferie Ntsinlekouet is a royal castle compound situated in the traditional Dschang region.",
+                  "category": "castle",
+                  "coords": [
+                        10.11201,
+                        5.456174
+                  ]
+            },
+            {
+                  "name": "Chefferie Bazifeng",
+                  "text": "Chefferie Bazifeng stands as a traditional chief's palace with deep cultural significance.",
+                  "category": "castle",
+                  "coords": [
+                        10.103005,
+                        5.466473
+                  ]
+            },
+            {
+                  "name": "chaefferie de Tsinbing",
+                  "text": "Chefferie de Tsinbing is a customary chief's castle preserving local administrative traditions.",
+                  "category": "castle",
+                  "coords": [
+                        10.079316,
+                        5.453031
+                  ]
+            },
+            {
+                  "name": "chefferie yaguem",
+                  "text": "Chefferie Yaguem is a regional royal court and traditional chiefdom administrative center.",
+                  "category": "castle",
+                  "coords": [
+                        10.075983,
+                        5.446053
+                  ]
+            },
+            {
+                  "name": "Chefferie Ndzong",
+                  "text": "Chefferie Ndzong is a traditional chiefdom residence featuring characteristic local royal architecture.",
+                  "category": "castle",
+                  "coords": [
+                        10.077831,
+                        5.466066
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations",
+                  "text": "The Musée des Civilisations in Dschang exhibits the history and culture of Cameroon's diverse ethnic groups.",
+                  "category": "museum",
+                  "coords": [
+                        10.065416,
+                        5.450112
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-OU",
     coords: [10.0525, 5.4489],
@@ -1107,7 +2961,52 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "pitoa-slave-market-site-history-v2",
+    id: "pitoa-slave-market-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barrage de retenu d'eau Loumbou",
+                  "text": "Der Loumbou-Staudamm dient als wichtige Wasserressource und Erholungsgebiet in der Nähe der historischen Stätten von Pitoa.",
+                  "category": "recreational",
+                  "coords": [
+                        13.54334,
+                        9.34059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barrage de retenu d'eau Loumbou",
+                  "text": "A Loumbou-víztározó gát kulcsfontosságú vízkészletként és rekreációs területként szolgál Pitoa történelmi helyszínei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.54334,
+                        9.34059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barrage de retenu d'eau Loumbou",
+                  "text": "Barajul de retenție a apei Loumbou servește ca o resursă crucială de apă și zonă de recreere în apropierea siturilor istorice din Pitoa.",
+                  "category": "recreational",
+                  "coords": [
+                        13.54334,
+                        9.34059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barrage de retenu d'eau Loumbou",
+                  "text": "The Loumbou water retention dam serves as a crucial water resource and recreational area near the historical sites of Pitoa.",
+                  "category": "recreational",
+                  "coords": [
+                        13.54334,
+                        9.34059
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-NO",
     coords: [13.5292, 9.3908],
@@ -1251,7 +3150,52 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     }
   },
   {
-    id: "saints-peter-and-paul-cathedral-history-v2",
+    id: "saints-peter-and-paul-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doual'Art",
+                  "text": "Doual'Art ist ein Museum für zeitgenössische Kunst in Douala.",
+                  "category": "museum",
+                  "coords": [
+                        9.687122,
+                        4.043575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doual'Art",
+                  "text": "A Doual'Art egy kortárs művészeti múzeum Doualában.",
+                  "category": "museum",
+                  "coords": [
+                        9.687122,
+                        4.043575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doual'Art",
+                  "text": "Doual'Art este un muzeu de artă contemporană situat în Douala.",
+                  "category": "museum",
+                  "coords": [
+                        9.687122,
+                        4.043575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doual'Art",
+                  "text": "Doual'Art is a contemporary art museum situated in Douala.",
+                  "category": "museum",
+                  "coords": [
+                        9.687122,
+                        4.043575
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CM-LT",
     coords: [9.6881, 4.0439],

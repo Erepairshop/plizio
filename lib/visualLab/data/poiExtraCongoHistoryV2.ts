@@ -48,7 +48,124 @@ export const poiExtraCongoHistoryV2: POI[] = [
       fr: ["Liste indicative de l'UNESCO", "Mémorial pour les victimes", "Port d'exportation majeur", "Ruines historiques"],
     }, image: "/poi-images/cg-loango-slave-port-history-v2.webp"},
   {
-    id: "cg-diosso-royal-palace-history-v2",
+    id: "cg-diosso-royal-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorges de Diosso",
+                  "text": "Aussichtspunkt mit spektakulärem Blick über die von Erosion geformten roten Lateritklippen.",
+                  "category": "natural",
+                  "coords": [
+                        11.848857,
+                        -4.616742
+                  ]
+            },
+            {
+                  "name": "Musee De Diosso",
+                  "text": "Das Museum ist in der ehemaligen königlichen Residenz des Ma-Loango-Königreichs untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        11.852376,
+                        -4.625539
+                  ]
+            },
+            {
+                  "name": "Club des gorges",
+                  "text": "Eine lokale Attraktion in der Nähe der markanten roten Lateritschluchten von Diosso.",
+                  "category": "landmark",
+                  "coords": [
+                        11.843825,
+                        -4.61396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorges de Diosso",
+                  "text": "Kilátó, ahonnan látványos kilátás nyílik az erózió által formált vörös laterit sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        11.848857,
+                        -4.616742
+                  ]
+            },
+            {
+                  "name": "Musee De Diosso",
+                  "text": "A múzeum a Ma-Loango királyság egykori királyi rezidenciájában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        11.852376,
+                        -4.625539
+                  ]
+            },
+            {
+                  "name": "Club des gorges",
+                  "text": "Helyi látványosság Diosso feltűnő vörös laterit szurdokai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.843825,
+                        -4.61396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorges de Diosso",
+                  "text": "Punct de belvedere care oferă vederi spectaculoase asupra stâncilor roșii de laterit sculptate de eroziune.",
+                  "category": "natural",
+                  "coords": [
+                        11.848857,
+                        -4.616742
+                  ]
+            },
+            {
+                  "name": "Musee De Diosso",
+                  "text": "Muzeul este găzduit în fosta reședință regală a regatului Ma-Loango.",
+                  "category": "museum",
+                  "coords": [
+                        11.852376,
+                        -4.625539
+                  ]
+            },
+            {
+                  "name": "Club des gorges",
+                  "text": "O atracție locală situată lângă uimitoarele chei roșii de laterit din Diosso.",
+                  "category": "landmark",
+                  "coords": [
+                        11.843825,
+                        -4.61396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorges de Diosso",
+                  "text": "Viewpoint offering spectacular views over the red laterite cliffs carved by erosion.",
+                  "category": "natural",
+                  "coords": [
+                        11.848857,
+                        -4.616742
+                  ]
+            },
+            {
+                  "name": "Museum of Diosso",
+                  "text": "The museum is housed in the former royal residence of the Ma-Loango kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        11.852376,
+                        -4.625539
+                  ]
+            },
+            {
+                  "name": "Club des gorges",
+                  "text": "A local attraction situated near the striking red laterite gorges of Diosso.",
+                  "category": "landmark",
+                  "coords": [
+                        11.843825,
+                        -4.61396
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CG-5",
     coords: [11.85, -4.63],
@@ -93,7 +210,52 @@ export const poiExtraCongoHistoryV2: POI[] = [
       fr: ["Siège du Mâ Loango", "Patrimoine culturel", "Musée à Diosso", "Structure de pouvoir traditionnelle"],
     }, image: "/poi-images/cg-diosso-royal-palace-history-v2.webp"},
   {
-    id: "cg-linzolo-mission-history-v2",
+    id: "cg-linzolo-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ntima Eco Village",
+                  "text": "Das Ntima Eco Village in Linzolo ist eine umweltfreundliche Anlage, die nachhaltigen ländlichen Tourismus mit traditionellen Baustilen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.100366,
+                        -4.493018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ntima Eco Village",
+                  "text": "A linzolói Ntima Eco Village egy környezetbarát létesítmény, amely a fenntartható vidéki turizmust hagyományos építészeti stílusokkal ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        15.100366,
+                        -4.493018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ntima Eco Village",
+                  "text": "Ntima Eco Village din Linzolo este un complex ecologic care combină turismul rural durabil cu stilurile tradiționale de construcție.",
+                  "category": "landmark",
+                  "coords": [
+                        15.100366,
+                        -4.493018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ntima Eco Village",
+                  "text": "The Ntima Eco Village in Linzolo is an eco-friendly facility that combines sustainable rural tourism with traditional building styles.",
+                  "category": "landmark",
+                  "coords": [
+                        15.100366,
+                        -4.493018
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CG-12",
     coords: [15.15, -4.43],
@@ -183,7 +345,88 @@ export const poiExtraCongoHistoryV2: POI[] = [
       fr: ["Par l'architecte Roger Erell", "Début de construction en 1943", "Tuiles vertes", "Symbole de Brazzaville"],
     }, image: "/poi-images/cg-sainte-anne-basilica-history-v2.webp"},
   {
-    id: "cg-brazza-mausoleum-history-v2",
+    id: "cg-brazza-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plus jamais ça",
+                  "text": "Das Denkmal Plus jamais ça ist eine eindringliche Gedenkstätte, die die Botschaft von dauerhaftem Frieden und Gewaltlosigkeit betont.",
+                  "category": "historical",
+                  "coords": [
+                        15.293271,
+                        -4.261326
+                  ]
+            },
+            {
+                  "name": "La Tanière",
+                  "text": "La Tanière ist ein bemerkenswerter schlossähnlicher Komplex in Brazzaville, der für seine unverwechselbare Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.296977,
+                        -4.263382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plus jamais ça",
+                  "text": "A Plus jamais ça emlékmű egy megrendítő alkotás, amely a tartós béke és az erőszakmentesség üzenetét hangsúlyozza.",
+                  "category": "historical",
+                  "coords": [
+                        15.293271,
+                        -4.261326
+                  ]
+            },
+            {
+                  "name": "La Tanière",
+                  "text": "A La Tanière egy figyelemre méltó kastélyszerű komplexum Brazzaville-ben, amely jellegzetes építészeti kialakításáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        15.296977,
+                        -4.263382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plus jamais ça",
+                  "text": "Monumentul Plus jamais ça servește ca un memorial emoționant care subliniază mesajul de pace durabilă și non-violență.",
+                  "category": "historical",
+                  "coords": [
+                        15.293271,
+                        -4.261326
+                  ]
+            },
+            {
+                  "name": "La Tanière",
+                  "text": "La Tanière este un complex notabil asemănător unui castel din Brazzaville, recunoscut pentru amprenta sa arhitecturală distinctivă.",
+                  "category": "castle",
+                  "coords": [
+                        15.296977,
+                        -4.263382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plus jamais ça",
+                  "text": "The Plus jamais ça monument serves as a poignant memorial emphasizing the message of enduring peace and non-violence.",
+                  "category": "historical",
+                  "coords": [
+                        15.293271,
+                        -4.261326
+                  ]
+            },
+            {
+                  "name": "La Tanière",
+                  "text": "La Tanière is a notable castle-like complex in Brazzaville, recognized for its distinctive architectural footprint.",
+                  "category": "castle",
+                  "coords": [
+                        15.296977,
+                        -4.263382
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CG-BZV",
     coords: [15.29, -4.26],
@@ -274,7 +517,124 @@ export const poiExtraCongoHistoryV2: POI[] = [
     }
   },
   {
-    id: "cg-case-de-gaulle-history-v2",
+    id: "cg-case-de-gaulle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Schoelcher",
+                  "text": "Das Monument Schoelcher in Brazzaville würdigt Victor Schœlcher, eine Schlüsselfigur bei der Abschaffung der Sklaverei.",
+                  "category": "historical",
+                  "coords": [
+                        15.256451,
+                        -4.282063
+                  ]
+            },
+            {
+                  "name": "Square de Gaulle",
+                  "text": "Der Square de Gaulle in Brazzaville bietet einen monumentalen Platz zu Ehren des Anführers des Freien Frankreichs.",
+                  "category": "historical",
+                  "coords": [
+                        15.25345,
+                        -4.284625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Claver de Brazzaville",
+                  "text": "Die Église Saint-Pierre-Claver de Brazzaville ist eine markante Kirche, die für ihre modernistische Sakralarchitektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.249243,
+                        -4.295803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Schoelcher",
+                  "text": "A brazzaville-i Monument Schoelcher Victor Schœlcher, a rabszolgaság eltörlésének kulcsfigurája előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        15.256451,
+                        -4.282063
+                  ]
+            },
+            {
+                  "name": "Square de Gaulle",
+                  "text": "A brazzaville-i Square de Gaulle egy monumentális térrel állít emléket a Szabad Franciaország vezetőjének.",
+                  "category": "historical",
+                  "coords": [
+                        15.25345,
+                        -4.284625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Claver de Brazzaville",
+                  "text": "Az Église Saint-Pierre-Claver de Brazzaville egy jelentős istentiszteleti hely, amely jellegzetes modernista vallási építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        15.249243,
+                        -4.295803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Schoelcher",
+                  "text": "Monument Schoelcher din Brazzaville îi aduce un omagiu lui Victor Schœlcher, o figură cheie în abolirea sclaviei.",
+                  "category": "historical",
+                  "coords": [
+                        15.256451,
+                        -4.282063
+                  ]
+            },
+            {
+                  "name": "Square de Gaulle",
+                  "text": "Square de Gaulle din Brazzaville are un spațiu monumental în onoarea liderului Franței Libere.",
+                  "category": "historical",
+                  "coords": [
+                        15.25345,
+                        -4.284625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Claver de Brazzaville",
+                  "text": "Église Saint-Pierre-Claver de Brazzaville este un loc de cult remarcabil, cunoscut pentru arhitectura sa religioasă modernistă distinctă.",
+                  "category": "religious",
+                  "coords": [
+                        15.249243,
+                        -4.295803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Schoelcher",
+                  "text": "Monument Schoelcher in Brazzaville pays tribute to Victor Schœlcher, a key figure in the abolition of slavery.",
+                  "category": "historical",
+                  "coords": [
+                        15.256451,
+                        -4.282063
+                  ]
+            },
+            {
+                  "name": "Square de Gaulle",
+                  "text": "Square de Gaulle in Brazzaville features a monumental space honoring the leader of Free France.",
+                  "category": "historical",
+                  "coords": [
+                        15.25345,
+                        -4.284625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Claver de Brazzaville",
+                  "text": "Église Saint-Pierre-Claver de Brazzaville is a prominent place of worship known for its distinct modernist religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        15.249243,
+                        -4.295803
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CG-BZV",
     coords: [15.25, -4.28],
@@ -409,7 +769,88 @@ export const poiExtraCongoHistoryV2: POI[] = [
       fr: ["Sur la côte atlantique", "Navigation pour les navires", "Partie de la ville portuaire", "Histoire maritime"],
     }, image: "/poi-images/cg-pointe-noire-lighthouse-history-v2.webp"},
   {
-    id: "cg-brazzaville-train-station-history-v2",
+    id: "cg-brazzaville-train-station-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statues des fameux africains",
+                  "text": "Statues des fameux africains ist eine Freiluftattraktion, die Denkmäler einflussreicher Persönlichkeiten vom gesamten afrikanischen Kontinent präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.27324,
+                        -4.278506
+                  ]
+            },
+            {
+                  "name": "Residence Les Flamboyants",
+                  "text": "Residence Les Flamboyants ist eine charakteristische Sehenswürdigkeit mit Architektur aus der Kolonialzeit inmitten tropischer Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        15.266508,
+                        -4.27438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statues des fameux africains",
+                  "text": "A Statues des fameux africains egy szabadtéri látványosság, amely az afrikai kontinens befolyásos vezetőinek emlékműveit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        15.27324,
+                        -4.278506
+                  ]
+            },
+            {
+                  "name": "Residence Les Flamboyants",
+                  "text": "A Residence Les Flamboyants egy jellegzetes, gyarmati kori építészetet bemutató látványosság a trópusi növényzet közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        15.266508,
+                        -4.27438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statues des fameux africains",
+                  "text": "Statues des fameux africains este o atracție în aer liber care prezintă monumente ale unor lideri influenți de pe întregul continent african.",
+                  "category": "landmark",
+                  "coords": [
+                        15.27324,
+                        -4.278506
+                  ]
+            },
+            {
+                  "name": "Residence Les Flamboyants",
+                  "text": "Residence Les Flamboyants este o atracție caracteristică ce prezintă arhitectură din epoca colonială în mijlocul verdeții tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        15.266508,
+                        -4.27438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statues des fameux africains",
+                  "text": "Statues des fameux africains is an outdoor attraction presenting monuments of influential leaders from across the African continent.",
+                  "category": "landmark",
+                  "coords": [
+                        15.27324,
+                        -4.278506
+                  ]
+            },
+            {
+                  "name": "Residence Les Flamboyants",
+                  "text": "Residence Les Flamboyants is a characteristic attraction featuring colonial-era architecture amidst tropical greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        15.266508,
+                        -4.27438
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CG-BZV",
     coords: [15.27, -4.275],
@@ -887,7 +1328,124 @@ export const poiExtraCongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "cg-independence-bridge-history-v2",
+    id: "cg-independence-bridge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolée Marien Ngouabi",
+                  "text": "Das Mausolée Marien Ngouabi ist die monumentale Ruhestätte des ehemaligen Präsidenten der Republik Kongo.",
+                  "category": "historical",
+                  "coords": [
+                        15.274007,
+                        -4.279892
+                  ]
+            },
+            {
+                  "name": "Mémorial Pierre Savorgnan de Brazza",
+                  "text": "Das Mémorial Pierre Savorgnan de Brazza ist ein Museum und Mausoleum zum Gedenken an den in Italien geborenen französischen Entdecker und Gründer von Brazzaville.",
+                  "category": "museum",
+                  "coords": [
+                        15.279379,
+                        -4.278502
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Russe",
+                  "text": "Das Centre Culturel Russe in Brazzaville fördert russische Kunst, Sprache und den kulturellen Austausch in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282736,
+                        -4.27668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolée Marien Ngouabi",
+                  "text": "A Mausolée Marien Ngouabi a Kongói Köztársaság egykori elnökének dedikált monumentális nyughely.",
+                  "category": "historical",
+                  "coords": [
+                        15.274007,
+                        -4.279892
+                  ]
+            },
+            {
+                  "name": "Mémorial Pierre Savorgnan de Brazza",
+                  "text": "A Mémorial Pierre Savorgnan de Brazza egy múzeum és mauzóleum, amely az olasz születésű francia felfedezőnek, Brazzaville alapítójának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        15.279379,
+                        -4.278502
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Russe",
+                  "text": "A brazzaville-i Centre Culturel Russe az orosz művészeteket, nyelvet és kulturális csereprogramokat népszerűsíti a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282736,
+                        -4.27668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolée Marien Ngouabi",
+                  "text": "Mausolée Marien Ngouabi este un loc de odihnă monumental dedicat fostului președinte al Republicii Congo.",
+                  "category": "historical",
+                  "coords": [
+                        15.274007,
+                        -4.279892
+                  ]
+            },
+            {
+                  "name": "Mémorial Pierre Savorgnan de Brazza",
+                  "text": "Mémorial Pierre Savorgnan de Brazza este un muzeu și mausoleu care îl comemorează pe exploratorul francez de origine italiană care a fondat Brazzaville.",
+                  "category": "museum",
+                  "coords": [
+                        15.279379,
+                        -4.278502
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Russe",
+                  "text": "Centre Culturel Russe din Brazzaville promovează arta rusă, limba și schimburile culturale în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282736,
+                        -4.27668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausolée Marien Ngouabi",
+                  "text": "Mausolée Marien Ngouabi is a monumental resting place dedicated to the former President of the Republic of the Congo.",
+                  "category": "historical",
+                  "coords": [
+                        15.274007,
+                        -4.279892
+                  ]
+            },
+            {
+                  "name": "Mémorial Pierre Savorgnan de Brazza",
+                  "text": "Mémorial Pierre Savorgnan de Brazza is a museum and mausoleum commemorating the Italian-born French explorer who founded Brazzaville.",
+                  "category": "museum",
+                  "coords": [
+                        15.279379,
+                        -4.278502
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Russe",
+                  "text": "Centre Culturel Russe in Brazzaville promotes Russian arts, language, and cultural exchanges within the city.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282736,
+                        -4.27668
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CG-BZV",
     coords: [15.28, -4.28],

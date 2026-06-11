@@ -3,7 +3,556 @@ import type { POI } from "./poi";
 
 export const poiExtraEgyptHistoryV2: POI[] = [
   {
-    id: "eg-cai-giza-pyramids-history-v2",
+    id: "eg-cai-giza-pyramids-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Zaeem",
+                  "text": "Lokales Theater im historischen Bezirk Gizeh, nahe den Pyramiden gelegen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.161667,
+                        29.994888
+                  ]
+            },
+            {
+                  "name": "Mastabas",
+                  "text": "Flachdachige, rechteckige altägyptische Gräber, die die Hauptpyramiden des Gizeh-Plateaus umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        31.135182,
+                        29.977517
+                  ]
+            },
+            {
+                  "name": "Western cemetery",
+                  "text": "Ausgedehntes antikes Gräberfeld westlich der Großen Pyramide mit Gräbern hoher Beamter.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130989,
+                        29.979904
+                  ]
+            },
+            {
+                  "name": "The hill of the garden",
+                  "text": "Erhabene Landschaftserhebung innerhalb der weitläufigen Nekropole von Gizeh.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10732,
+                        29.969806
+                  ]
+            },
+            {
+                  "name": "Photo point of Pyramids",
+                  "text": "Aussichtspunkt in der Wüste mit Panoramablick, bei dem alle drei Hauptpyramiden von Gizeh visuell in einer Linie liegen.",
+                  "category": "natural",
+                  "coords": [
+                        31.123902,
+                        29.974455
+                  ]
+            },
+            {
+                  "name": "Mastaba of Penmeru (G 2197)",
+                  "text": "Antikes rechteckiges Grab eines königlichen Bekannten, das sich im Westfeld von Gizeh befindet.",
+                  "category": "historical",
+                  "coords": [
+                        31.131892,
+                        29.980689
+                  ]
+            },
+            {
+                  "name": "la \"Maquette\"",
+                  "text": "Strukturruine auf dem Gizeh-Plateau, die vermutlich als Architekturmodell oder Grundrissrichtlinie diente.",
+                  "category": "historical",
+                  "coords": [
+                        31.136011,
+                        29.979345
+                  ]
+            },
+            {
+                  "name": "King Farouk's Pyramids House",
+                  "text": "Ehemaliges königliches Rasthaus in der Nähe der Großen Pyramiden, das von Ägyptens letztem König genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136011,
+                        29.980254
+                  ]
+            },
+            {
+                  "name": "Funerary Temple of Khafre",
+                  "text": "Massiver Steintempelkomplex am östlichen Fuß der Chephren-Pyramide.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13254,
+                        29.975989
+                  ]
+            },
+            {
+                  "name": "Mykerinos-Pyramide",
+                  "text": "Die kleinste der drei Hauptpyramiden von Gizeh, bekannt für ihre untere Verkleidung aus rotem Assuan-Granit.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128261,
+                        29.97251
+                  ]
+            },
+            {
+                  "name": "Builders' quarters",
+                  "text": "Archäologische Überreste des riesigen Arbeiterdorfes, in dem die Erbauer der Gizeh-Pyramiden lebten.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127868,
+                        29.975974
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Cemetery",
+                  "text": "Ausgegrabene antike Grabstätte im westlichen Sektor der Gizeh-Nekropole.",
+                  "category": "historical",
+                  "coords": [
+                        31.127154,
+                        29.98187
+                  ]
+            },
+            {
+                  "name": "Cheops-Pyramide",
+                  "text": "Die älteste und größte der Gizeh-Pyramiden, die ursprünglich 146,6 Meter hoch war.",
+                  "category": "landmark",
+                  "coords": [
+                        31.134212,
+                        29.979169
+                  ]
+            },
+            {
+                  "name": "G5110 Tomb of Duaenre",
+                  "text": "Antikes Grab eines Wesirs aus dem Alten Reich, gelegen in der riesigen Nekropole von Gizeh.",
+                  "category": "historical",
+                  "coords": [
+                        31.131996,
+                        29.978387
+                  ]
+            },
+            {
+                  "name": "Chephren-Pyramide",
+                  "text": "Die zweitgrößte Pyramide in Gizeh, leicht erkennbar an den intakten Verkleidungssteinen, die an ihrer Spitze erhalten geblieben sind.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130737,
+                        29.97599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Zaeem",
+                  "text": "Helyi színház a történelmi gízai kerületben, közel a piramisokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        31.161667,
+                        29.994888
+                  ]
+            },
+            {
+                  "name": "Mastabas",
+                  "text": "Lapos tetejű, téglalap alakú ókori egyiptomi sírok, amelyek a gízai fennsík fő piramisait veszik körül.",
+                  "category": "landmark",
+                  "coords": [
+                        31.135182,
+                        29.977517
+                  ]
+            },
+            {
+                  "name": "Western cemetery",
+                  "text": "A Nagy Piramistól nyugatra fekvő kiterjedt ókori temető, amely magas rangú tisztviselők sírjait tartalmazza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130989,
+                        29.979904
+                  ]
+            },
+            {
+                  "name": "The hill of the garden",
+                  "text": "Magaslati tájelem a kiterjedt gízai nekropolisz komplexumon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10732,
+                        29.969806
+                  ]
+            },
+            {
+                  "name": "Azonos piramisok fotó pontja",
+                  "text": "Sivatagi kilátópont, amely panorámás kilátást nyújt arra, ahogy a három fő gízai piramis vizuálisan egy vonalba esik.",
+                  "category": "natural",
+                  "coords": [
+                        31.123902,
+                        29.974455
+                  ]
+            },
+            {
+                  "name": "Mastaba of Penmeru (G 2197)",
+                  "text": "Egy királyi ismerősnek tulajdonított ősi téglalap alakú sír, amely a gízai nyugati temetőben található.",
+                  "category": "historical",
+                  "coords": [
+                        31.131892,
+                        29.980689
+                  ]
+            },
+            {
+                  "name": "la \"Maquette\"",
+                  "text": "Romos építmény a gízai fennsíkon, amelyről úgy tartják, hogy építészeti modellként vagy elrendezési útmutatóként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        31.136011,
+                        29.979345
+                  ]
+            },
+            {
+                  "name": "King Farouk's Pyramids House",
+                  "text": "A Nagy Piramisok közelében található egykori királyi pihenőház, amelyet Egyiptom utolsó királya használt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136011,
+                        29.980254
+                  ]
+            },
+            {
+                  "name": "Funerary Temple of Khafre",
+                  "text": "Masszív kőtemplom-komplexum a Hafré-piramis keleti lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13254,
+                        29.975989
+                  ]
+            },
+            {
+                  "name": "Menkauré-piramis",
+                  "text": "A három fő gízai piramis legkisebbike, amely vörös asszuáni gránitból készült alsó burkolatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128261,
+                        29.97251
+                  ]
+            },
+            {
+                  "name": "Builders' quarters",
+                  "text": "A gízai piramisokat építő munkások számára kialakított hatalmas falu régészeti maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127868,
+                        29.975974
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Cemetery",
+                  "text": "A gízai nekropolisz nyugati szektorában található feltárt ősi temetkezési hely.",
+                  "category": "historical",
+                  "coords": [
+                        31.127154,
+                        29.98187
+                  ]
+            },
+            {
+                  "name": "Gízai Nagy Piramis, Khufu - Keops piramis",
+                  "text": "A gízai piramisok legrégebbi és legnagyobbika, amely eredetileg 146,6 méter magas volt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.134212,
+                        29.979169
+                  ]
+            },
+            {
+                  "name": "G5110 Tomb of Duaenre",
+                  "text": "Az Óbirodalom egyik vezérének ősi sírja, amely a hatalmas gízai nekropoliszban található.",
+                  "category": "historical",
+                  "coords": [
+                        31.131996,
+                        29.978387
+                  ]
+            },
+            {
+                  "name": "Kefrén piramis, Hafré piramis",
+                  "text": "A gízai második legnagyobb piramis, amely könnyen felismerhető a csúcsán megmaradt ép burkolókövekről.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130737,
+                        29.97599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Zaeem",
+                  "text": "Teatru local situat în districtul istoric Giza, aproape de piramide.",
+                  "category": "cultural",
+                  "coords": [
+                        31.161667,
+                        29.994888
+                  ]
+            },
+            {
+                  "name": "Mastabas",
+                  "text": "Morminte antice egiptene rectangulare, cu acoperiș plat, care înconjoară piramidele principale de pe platoul Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.135182,
+                        29.977517
+                  ]
+            },
+            {
+                  "name": "Western cemetery",
+                  "text": "Teren antic vast de înmormântare, situat la vest de Marea Piramidă, care conține mormintele unor înalți oficiali.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130989,
+                        29.979904
+                  ]
+            },
+            {
+                  "name": "The hill of the garden",
+                  "text": "Formațiune de relief elevată situată în interiorul vastului complex al necropolei din Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10732,
+                        29.969806
+                  ]
+            },
+            {
+                  "name": "Photo point of Pyramids",
+                  "text": "Punct de observație din deșert care oferă o vedere panoramică în care toate cele trei piramide principale din Giza se aliniază vizual.",
+                  "category": "natural",
+                  "coords": [
+                        31.123902,
+                        29.974455
+                  ]
+            },
+            {
+                  "name": "Mastaba of Penmeru (G 2197)",
+                  "text": "Mormânt antic dreptunghiular aparținând unei cunoștințe regale, situat în cimitirul vestic din Giza.",
+                  "category": "historical",
+                  "coords": [
+                        31.131892,
+                        29.980689
+                  ]
+            },
+            {
+                  "name": "la \"Maquette\"",
+                  "text": "Structură în ruină de pe platoul Giza, despre care se crede că a servit drept model arhitectural sau ghid de amplasare.",
+                  "category": "historical",
+                  "coords": [
+                        31.136011,
+                        29.979345
+                  ]
+            },
+            {
+                  "name": "King Farouk's Pyramids House",
+                  "text": "Fostă casă de odihnă regală situată lângă Marile Piramide, folosită de ultimul rege al Egiptului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136011,
+                        29.980254
+                  ]
+            },
+            {
+                  "name": "Funerary Temple of Khafre",
+                  "text": "Complex masiv de temple din piatră situat la baza estică a Piramidei lui Khafre.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13254,
+                        29.975989
+                  ]
+            },
+            {
+                  "name": "Pyramid of Menkaure",
+                  "text": "Cea mai mică dintre cele trei piramide principale din Giza, remarcabilă pentru învelișul său inferior din granit roșu de Aswan.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128261,
+                        29.97251
+                  ]
+            },
+            {
+                  "name": "Builders' quarters",
+                  "text": "Rămășițele arheologice ale vastului sat de muncitori în care au locuit lucrătorii care au construit piramidele din Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127868,
+                        29.975974
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Cemetery",
+                  "text": "Sit funerar antic excavat situat în sectorul vestic al necropolei din Giza.",
+                  "category": "historical",
+                  "coords": [
+                        31.127154,
+                        29.98187
+                  ]
+            },
+            {
+                  "name": "Piramida lui Keops",
+                  "text": "Cea mai veche și mai mare dintre piramidele din Giza, având inițial o înălțime de 146,6 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        31.134212,
+                        29.979169
+                  ]
+            },
+            {
+                  "name": "G5110 Tomb of Duaenre",
+                  "text": "Mormânt antic al unui vizir din Vechiul Regat, situat în vasta necropolă din Giza.",
+                  "category": "historical",
+                  "coords": [
+                        31.131996,
+                        29.978387
+                  ]
+            },
+            {
+                  "name": "Pyramid of Khafre",
+                  "text": "A doua piramidă ca mărime din Giza, ușor de identificat prin pietrele de placare intacte rămase la vârful ei.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130737,
+                        29.97599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Zaeem",
+                  "text": "Local theatre venue situated in the historic Giza district, close to the pyramids.",
+                  "category": "cultural",
+                  "coords": [
+                        31.161667,
+                        29.994888
+                  ]
+            },
+            {
+                  "name": "Mastabas",
+                  "text": "Flat-roofed, rectangular ancient Egyptian tombs surrounding the main pyramids of the Giza plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        31.135182,
+                        29.977517
+                  ]
+            },
+            {
+                  "name": "Western cemetery",
+                  "text": "Extensive ancient burial ground located to the west of the Great Pyramid, containing tombs of high officials.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130989,
+                        29.979904
+                  ]
+            },
+            {
+                  "name": "The hill of the garden",
+                  "text": "Elevated landscape feature located within the sprawling Giza necropolis complex.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10732,
+                        29.969806
+                  ]
+            },
+            {
+                  "name": "Pyramid alignment viewpoint",
+                  "text": "Desert vantage point offering a panoramic view where all three main Giza pyramids align visually.",
+                  "category": "natural",
+                  "coords": [
+                        31.123902,
+                        29.974455
+                  ]
+            },
+            {
+                  "name": "Mastaba of Penmeru (G 2197)",
+                  "text": "Ancient rectangular tomb belonging to a royal acquaintance, situated in the Giza West Field.",
+                  "category": "historical",
+                  "coords": [
+                        31.131892,
+                        29.980689
+                  ]
+            },
+            {
+                  "name": "la \"Maquette\"",
+                  "text": "Ruined structure on the Giza plateau believed to have served as an architectural model or layout guide.",
+                  "category": "historical",
+                  "coords": [
+                        31.136011,
+                        29.979345
+                  ]
+            },
+            {
+                  "name": "King Farouk's Pyramids House",
+                  "text": "Former royal rest house located near the Great Pyramids, used by Egypt's last king.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136011,
+                        29.980254
+                  ]
+            },
+            {
+                  "name": "Funerary Temple of Khafre",
+                  "text": "Massive stone temple complex located at the eastern base of the Pyramid of Khafre.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13254,
+                        29.975989
+                  ]
+            },
+            {
+                  "name": "Pyramid of Menkaure",
+                  "text": "The smallest of the three main Pyramids of Giza, notable for its lower casing of red Aswan granite.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128261,
+                        29.97251
+                  ]
+            },
+            {
+                  "name": "Builders' quarters",
+                  "text": "Archaeological remains of the vast worker village where the laborers who constructed the Giza pyramids lived.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127868,
+                        29.975974
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Cemetery",
+                  "text": "Excavated ancient burial site located in the western sector of the Giza necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        31.127154,
+                        29.98187
+                  ]
+            },
+            {
+                  "name": "Great Pyramid of Giza",
+                  "text": "The oldest and largest of the Giza pyramids, originally standing at 146.6 meters tall.",
+                  "category": "landmark",
+                  "coords": [
+                        31.134212,
+                        29.979169
+                  ]
+            },
+            {
+                  "name": "G5110 Tomb of Duaenre",
+                  "text": "Ancient tomb of a vizier from the Old Kingdom, located in the vast Giza necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        31.131996,
+                        29.978387
+                  ]
+            },
+            {
+                  "name": "Pyramid of Khafre",
+                  "text": "The second-largest pyramid at Giza, easily identifiable by the intact casing stones remaining at its apex.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130737,
+                        29.97599
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-C",
     coords: [31.1342, 29.9792],
@@ -38,7 +587,592 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Le temps de construction de la Grande Pyramide est estimé à environ 20 ans.", "La Grande Pyramide mesurait à l'origine 146,6 mètres de haut.", "Composée d'environ 2,3 millions de blocs de pierre.", "Terminée vers 2560 av. J.-C. comme tombeau du pharaon Khéops.", "Les côtés sont alignés presque exactement selon les quatre points cardinaux.", "Inscrit au patrimoine mondial de l'UNESCO depuis 1979."],
     }, image: "/poi-images/eg-cai-giza-pyramids-history-v2.webp"},
   {
-    id: "eg-cai-sphinx-history-v2",
+    id: "eg-cai-sphinx-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "3. salah khatab",
+                  "text": "Ein Herrenhaus in der historischen Gegend nahe der Wüstengrenze bei den Pyramiden von Gizeh.",
+                  "category": "historical",
+                  "coords": [
+                        31.156391,
+                        29.978607
+                  ]
+            },
+            {
+                  "name": "Elmanfy City",
+                  "text": "Eine Attraktion, die sich im städtischen Trubel rund um das historische Gizeh-Plateau befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.155899,
+                        29.974924
+                  ]
+            },
+            {
+                  "name": "Drs riada",
+                  "text": "Ein lokaler Anziehungspunkt in unmittelbarer Nähe der Zufahrtswege zum historischen Pyramidenkomplex von Gizeh.",
+                  "category": "landmark",
+                  "coords": [
+                        31.150776,
+                        29.982908
+                  ]
+            },
+            {
+                  "name": "Central field of Mastabas and rock cut tombs",
+                  "text": "Ein weitläufiges archäologisches Gebiet mit antiken, flachgedeckten Mastaba-Gräbern, die in den Fels gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.138001,
+                        29.973947
+                  ]
+            },
+            {
+                  "name": "Elgabry horse club",
+                  "text": "Ein Reitverein, der Ausritte in der Nähe des Randes des Wüstenplateaus von Gizeh anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.142124,
+                        29.973723
+                  ]
+            },
+            {
+                  "name": "Sphinxstele des Thutmosis IV.",
+                  "text": "Eine antike Granitstele, die von Pharao Thutmosis IV. direkt zwischen den Pranken der Großen Sphinx aufgestellt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137837,
+                        29.975268
+                  ]
+            },
+            {
+                  "name": "Tomb of Meresankh III",
+                  "text": "Ein dekoriertes Mastaba-Grab für Königin Meresanch III. mit außergewöhnlich gut erhaltenen Wandreliefs und Felsstatuen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137739,
+                        29.9778
+                  ]
+            },
+            {
+                  "name": "loads of horse and buggy rides in the desert sand right along the fence",
+                  "text": "Ein belebtes Touristengebiet entlang des Zauns der Gizeh-Anlage, wo traditionelle Kutschfahrten im Wüstensand angeboten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128463,
+                        29.959034
+                  ]
+            },
+            {
+                  "name": "Panorama point II.",
+                  "text": "Ein ausgewiesener Aussichtspunkt hoch im Wüstensand, der einen weiten Panoramablick auf die Pyramiden von Gizeh bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.127918,
+                        29.966465
+                  ]
+            },
+            {
+                  "name": "Photo point of Pyramids",
+                  "text": "Ein spezieller Fotopunkt in der Wüste, an dem sich die drei Hauptpyramiden von Gizeh optisch in einer einzigen Perspektive aneinanderreihen.",
+                  "category": "natural",
+                  "coords": [
+                        31.125004,
+                        29.96788
+                  ]
+            },
+            {
+                  "name": "Pyramiden von Gizeh",
+                  "text": "Eine ikonische altägyptische Nekropole mit der massiven Großen Pyramide, die während der vierten Dynastie erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        31.125244,
+                        29.969156
+                  ]
+            },
+            {
+                  "name": "mine",
+                  "text": "Die verbliebenen Schnitte einer antiken Abbaustätte bei Gizeh, wo Gestein für monumentale Bauten gewonnen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        31.134819,
+                        29.975086
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Ein abendliches Spektakel mit bunten Lasern, das die Sphinx und die Pyramiden beleuchtet und die Geschichte der Pharaonen erzählt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13961,
+                        29.974572
+                  ]
+            },
+            {
+                  "name": "Funerary Temple of Menkaure",
+                  "text": "Ein antiker Totentempel, der an die Mykerinos-Pyramide angebaut ist und riesige, unpolierte Kernblöcke aus Kalkstein aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129215,
+                        29.972521
+                  ]
+            },
+            {
+                  "name": "Valley Temple of Menkaure",
+                  "text": "Die ausgegrabenen Ruinen des Taltempels von Pharao Mykerinos, in dessen Lehmziegelmauern berühmte Schiefertriaden entdeckt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136366,
+                        29.972507
+                  ]
+            },
+            {
+                  "name": "Menkaure quarry",
+                  "text": "Der antike, felsige Steinbruch südlich der Gizeh-Ebene, in dem massive Blöcke aus lokalem Kalkstein für die Mykerinos-Pyramide geschlagen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130485,
+                        29.971193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "3. salah khatab",
+                  "text": "Egy udvarház a gízai piramisok közelében, a sivatag határán lévő történelmi negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        31.156391,
+                        29.978607
+                  ]
+            },
+            {
+                  "name": "Elmanfy City",
+                  "text": "Egy helyi látványosság a történelmi gízai fennsíkot körülvevő sűrűn beépített, nyüzsgő városi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        31.155899,
+                        29.974924
+                  ]
+            },
+            {
+                  "name": "Drs riada",
+                  "text": "Egy helyi látványosság közvetlenül a történelmi gízai piramiskomplexumhoz vezető utak mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.150776,
+                        29.982908
+                  ]
+            },
+            {
+                  "name": "Central field of Mastabas and rock cut tombs",
+                  "text": "Egy kiterjedt régészeti terület, amely közvetlenül a sziklába vájt ókori lapos tetejű masztaba sírokat rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.138001,
+                        29.973947
+                  ]
+            },
+            {
+                  "name": "Elgabry horse club",
+                  "text": "Egy lovasklub, amely lovaglási lehetőségeket kínál a gízai sivatagi fennsík pereme közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.142124,
+                        29.973723
+                  ]
+            },
+            {
+                  "name": "Sphinx Stele",
+                  "text": "Egy ókori gránit sztélé, amelyet IV. Thotmesz fáraó helyezett el a Nagy Szfinx mancsai között.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137837,
+                        29.975268
+                  ]
+            },
+            {
+                  "name": "Tomb of Meresankh III",
+                  "text": "Egy III. Merszanh királyné számára épült masztaba sír, amelyet kivételesen jól megőrzött falidomborművek és sziklaszobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137739,
+                        29.9778
+                  ]
+            },
+            {
+                  "name": "loads of horse and buggy rides in the desert sand right along the fence",
+                  "text": "Egy nyüzsgő turistaterület a gízai komplexum kerítése mentén, ahol hagyományos lovas kocsis túrákat kínálnak a sivatagi homokban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128463,
+                        29.959034
+                  ]
+            },
+            {
+                  "name": "Panoráma II. pont",
+                  "text": "Egy kijelölt sivatagi kilátópont, ahonnan elsöprő panoráma nyílik a távolban magasodó gízai piramisokra.",
+                  "category": "natural",
+                  "coords": [
+                        31.127918,
+                        29.966465
+                  ]
+            },
+            {
+                  "name": "Photo point of Pyramids",
+                  "text": "Egy különleges sivatagi fotópont, ahonnan a három fő gízai piramis egyetlen vonalban, tökéletes perspektívában sorakozik fel.",
+                  "category": "natural",
+                  "coords": [
+                        31.125004,
+                        29.96788
+                  ]
+            },
+            {
+                  "name": "Gízai piramisok",
+                  "text": "Egy ikonikus ókori egyiptomi nekropolisz, amelynek legismertebb építménye a Negyedik Dinasztia idején épült masszív Hufu-piramis.",
+                  "category": "historical",
+                  "coords": [
+                        31.125244,
+                        29.969156
+                  ]
+            },
+            {
+                  "name": "akna",
+                  "text": "Egy ősi kőbánya megmaradt vágatai Gíza közelében, ahol a monumentális építkezésekhez termelték ki a mészkövet.",
+                  "category": "historical",
+                  "coords": [
+                        31.134819,
+                        29.975086
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Színes lézerekkel kísért esti látványosság, amely megvilágítja a Szfinxet és a piramisokat, miközben a fáraók történetét meséli el.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13961,
+                        29.974572
+                  ]
+            },
+            {
+                  "name": "Temetési templom",
+                  "text": "A Menkauré-piramishoz közvetlenül csatlakozó ókori halotti templom, amely hatalmas, csiszolatlan mészkő magblokkokból épült.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129215,
+                        29.972521
+                  ]
+            },
+            {
+                  "name": "Menkaure Völgytemploma",
+                  "text": "Menkauré fáraó völgytemplomának vályogtégla falakkal kiegészített feltárt romjai, ahol a királyt ábrázoló híres pala triádokat fedezték fel.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136366,
+                        29.972507
+                  ]
+            },
+            {
+                  "name": "Menkaure kőbánya",
+                  "text": "A gízai fennsíktól délre fekvő ősi, sziklás kőbánya, ahol a hatalmas helyi mészkőtömböket vágták a Menkauré-piramis építéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130485,
+                        29.971193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "3. salah khatab",
+                  "text": "Un conac situat în zona istorică din apropierea graniței deșertului și a piramidelor din Giza.",
+                  "category": "historical",
+                  "coords": [
+                        31.156391,
+                        29.978607
+                  ]
+            },
+            {
+                  "name": "Elmanfy City",
+                  "text": "O atracție situată în zona urbană aglomerată care înconjoară istoricul platou Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.155899,
+                        29.974924
+                  ]
+            },
+            {
+                  "name": "Drs riada",
+                  "text": "Un punct de atracție local aflat în imediata apropiere a drumurilor de acces către complexul istoric al piramidelor din Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.150776,
+                        29.982908
+                  ]
+            },
+            {
+                  "name": "Central field of Mastabas and rock cut tombs",
+                  "text": "O zonă arheologică extinsă care conține morminte antice de tip mastaba cu acoperiș plat, sculptate în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.138001,
+                        29.973947
+                  ]
+            },
+            {
+                  "name": "Elgabry horse club",
+                  "text": "Un club ecvestru care oferă experiențe de călărie aproape de marginea platoului deșertic Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.142124,
+                        29.973723
+                  ]
+            },
+            {
+                  "name": "Sphinx Stele",
+                  "text": "O stelă antică din granit plasată între labele Marelui Sfinx de către faraonul Tutmes al IV-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137837,
+                        29.975268
+                  ]
+            },
+            {
+                  "name": "Tomb of Meresankh III",
+                  "text": "Un mormânt mastaba construit pentru regina Meresankh a III-a, cu reliefuri de perete și statui tăiate în stâncă excepțional de bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137739,
+                        29.9778
+                  ]
+            },
+            {
+                  "name": "loads of horse and buggy rides in the desert sand right along the fence",
+                  "text": "O zonă turistică plină de viață de-a lungul gardului complexului Giza, unde sunt oferite plimbări cu trăsura tradițională prin nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128463,
+                        29.959034
+                  ]
+            },
+            {
+                  "name": "Panorama point II.",
+                  "text": "Un punct de belvedere desemnat în deșert, care oferă vederi panoramice ample asupra piramidelor din Giza.",
+                  "category": "natural",
+                  "coords": [
+                        31.127918,
+                        29.966465
+                  ]
+            },
+            {
+                  "name": "Photo point of Pyramids",
+                  "text": "Un loc special de observare în deșert, unde cele trei piramide principale din Giza se aliniază vizual într-o singură perspectivă.",
+                  "category": "natural",
+                  "coords": [
+                        31.125004,
+                        29.96788
+                  ]
+            },
+            {
+                  "name": "Piramidele din Giza",
+                  "text": "O necropolă antică egipteană iconică, care găzduiește masiva Mare Piramidă construită în timpul celei de-a patra dinastii.",
+                  "category": "historical",
+                  "coords": [
+                        31.125244,
+                        29.969156
+                  ]
+            },
+            {
+                  "name": "mine",
+                  "text": "Urmele unei vechi cariere de extracție de lângă Giza, de unde a fost obținută piatra brută pentru construcții monumentale.",
+                  "category": "historical",
+                  "coords": [
+                        31.134819,
+                        29.975086
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Un spectacol de seară cu lasere colorate care luminează Sfinxul și piramidele, în timp ce povestește istoria faraonilor.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13961,
+                        29.974572
+                  ]
+            },
+            {
+                  "name": "Funerary Temple of Menkaure",
+                  "text": "Un vechi templu funerar atașat Piramidei lui Menkaure, care prezintă blocuri centrale uriașe, neșlefuite, din calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129215,
+                        29.972521
+                  ]
+            },
+            {
+                  "name": "Valley Temple of Menkaure",
+                  "text": "Ruinele excavate ale templului din vale al faraonului Menkaure, cu adăugiri din cărămidă de noroi unde au fost descoperite faimoasele triade de șist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136366,
+                        29.972507
+                  ]
+            },
+            {
+                  "name": "Menkaure quarry",
+                  "text": "Vechea carieră stâncoasă de la sud de platoul Giza, de unde au fost tăiate blocuri masive de calcar pentru a construi Piramida lui Menkaure.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130485,
+                        29.971193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "3. salah khatab",
+                  "text": "A manor property located in the historic area near the desert border and the Giza pyramids.",
+                  "category": "historical",
+                  "coords": [
+                        31.156391,
+                        29.978607
+                  ]
+            },
+            {
+                  "name": "Elmanfy City",
+                  "text": "An attraction situated in the bustling urban area that directly borders the historic Giza plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        31.155899,
+                        29.974924
+                  ]
+            },
+            {
+                  "name": "Drs riada",
+                  "text": "A local attraction located just off the main access routes to the historic Giza pyramid complex.",
+                  "category": "landmark",
+                  "coords": [
+                        31.150776,
+                        29.982908
+                  ]
+            },
+            {
+                  "name": "Central field of Mastabas and rock cut tombs",
+                  "text": "An extensive archaeological area containing ancient flat-roofed mastaba tombs carved directly into the bedrock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.138001,
+                        29.973947
+                  ]
+            },
+            {
+                  "name": "Elgabry horse club",
+                  "text": "An equestrian club offering horse riding experiences near the edge of the sandy Giza desert plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        31.142124,
+                        29.973723
+                  ]
+            },
+            {
+                  "name": "Sphinx Stele",
+                  "text": "An ancient granite stele placed securely between the colossal paws of the Great Sphinx by Pharaoh Thutmose IV.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137837,
+                        29.975268
+                  ]
+            },
+            {
+                  "name": "Tomb of Meresankh III",
+                  "text": "A decorated mastaba tomb built for Queen Meresankh III, featuring exceptionally well-preserved wall reliefs and rock-cut statues.",
+                  "category": "landmark",
+                  "coords": [
+                        31.137739,
+                        29.9778
+                  ]
+            },
+            {
+                  "name": "loads of horse and buggy rides in the desert sand right along the fence",
+                  "text": "A bustling tourist area along the Giza complex fence where traditional horse and buggy rides are offered in the desert sand.",
+                  "category": "landmark",
+                  "coords": [
+                        31.128463,
+                        29.959034
+                  ]
+            },
+            {
+                  "name": "Panorama point II.",
+                  "text": "A designated desert vantage point offering sweeping panoramic views across the sands to the great Giza pyramids.",
+                  "category": "natural",
+                  "coords": [
+                        31.127918,
+                        29.966465
+                  ]
+            },
+            {
+                  "name": "Pyramid alignment viewpoint",
+                  "text": "A specific viewing spot in the desert where the three main Giza pyramids visually align in a single, striking perspective.",
+                  "category": "natural",
+                  "coords": [
+                        31.125004,
+                        29.96788
+                  ]
+            },
+            {
+                  "name": "Giza Pyramids",
+                  "text": "An iconic ancient Egyptian necropolis featuring the massive Great Pyramid constructed during the Fourth Dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        31.125244,
+                        29.969156
+                  ]
+            },
+            {
+                  "name": "mine",
+                  "text": "The rugged remnants of an ancient quarrying site near Giza where huge blocks of stone were extracted for monumental construction.",
+                  "category": "historical",
+                  "coords": [
+                        31.134819,
+                        29.975086
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "An evening spectacle using colorful light projections on the Sphinx and pyramids to narrate the ancient history of the pharaohs.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13961,
+                        29.974572
+                  ]
+            },
+            {
+                  "name": "Funerary Temple of Menkaure",
+                  "text": "An ancient mortuary temple attached to the Pyramid of Menkaure, showcasing huge, unpolished core blocks of local limestone.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129215,
+                        29.972521
+                  ]
+            },
+            {
+                  "name": "Valley Temple of Menkaure",
+                  "text": "The excavated ruins of Pharaoh Menkaure's valley temple, featuring mud-brick additions where significant slate triad statues of the king were discovered.",
+                  "category": "landmark",
+                  "coords": [
+                        31.136366,
+                        29.972507
+                  ]
+            },
+            {
+                  "name": "Menkaure quarry",
+                  "text": "The ancient, rocky quarry site south of the Giza plateau where massive blocks of local limestone were cut to build the Pyramid of Menkaure.",
+                  "category": "landmark",
+                  "coords": [
+                        31.130485,
+                        29.971193
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-C",
     coords: [31.1376, 29.9753],
@@ -73,7 +1207,160 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Plus grande statue au monde taillée dans un seul bloc de roche.", "Probablement construite sous le règne du pharaon Khéphren (env. 2500 av. J.-C.).", "Le nez a probablement été perdu avant le XVe siècle.", "Ce n'est qu'en 1925 qu'elle a été entièrement dégagée du sable.", "La « Stèle du rêve » entre ses pattes mesure 3,6 mètres de haut.", "Composé de différentes couches de calcaire de dureté variable."],
     }, image: "/poi-images/eg-cai-sphinx-history-v2.webp"},
   {
-    id: "eg-lxr-valley-kings-history-v2",
+    id: "eg-lxr-valley-kings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "TT25",
+                  "text": "Dieses in den Fels gehauene thebanische Grab enthält die bemalten Grabkammern von Amenemhab, einem altägyptischen Beamten aus dem Neuen Reich.",
+                  "category": "historical",
+                  "coords": [
+                        32.599934,
+                        25.733307
+                  ]
+            },
+            {
+                  "name": "Tal der Könige",
+                  "text": "Versteckt in einer einsamen Wüstenschlucht beherbergt diese berühmte Attraktion mehr als sechzig unterirdische, in den Fels gehauene Pharaonengräber, darunter die legendäre Grabstätte des Tutanchamun.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601652,
+                        25.73985
+                  ]
+            },
+            {
+                  "name": "West Valley",
+                  "text": "Diese ruhige Wüstenattraktion, oft auch als Tal der Affen bezeichnet, beherbergt eine kleinere Anzahl großer Königsgräber aus der 18. Dynastie.",
+                  "category": "landmark",
+                  "coords": [
+                        32.595007,
+                        25.742668
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Diese historische Attraktion zeigt hoch aufragende Steinsäulen und erodierte Mauern, die mit klassischen ägyptischen Hieroglyphen verziert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608802,
+                        25.765928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TT25",
+                  "text": "Ez a thébai sziklába vájt sír Amenemheb, az Újbirodalom egyik ókori egyiptomi tisztviselőjének festett temetkezési kamráit tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        32.599934,
+                        25.733307
+                  ]
+            },
+            {
+                  "name": "Királyok völgye",
+                  "text": "A kietlen sivatagi szurdokban megbúvó híres látványosság több mint hatvan fáraó földalatti sziklasírját rejti, köztük Tutanhamon legendás temetkezési helyét.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601652,
+                        25.73985
+                  ]
+            },
+            {
+                  "name": "West Valley",
+                  "text": "A gyakran a Majmok völgyeként emlegetett csendes sivatagi látványosság kisebb számú nagy királyi sírt rejt a 18. dinasztia idejéből.",
+                  "category": "landmark",
+                  "coords": [
+                        32.595007,
+                        25.742668
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ez a történelmi látványosság tornyosuló kőoszlopokat és klasszikus egyiptomi hieroglifákkal díszített erodált falakat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608802,
+                        25.765928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TT25",
+                  "text": "Acest mormânt teban sculptat în stâncă conține camerele de înmormântare pictate ale lui Amenemheb, un oficial egiptean antic din Noul Regat.",
+                  "category": "historical",
+                  "coords": [
+                        32.599934,
+                        25.733307
+                  ]
+            },
+            {
+                  "name": "Valley of the Kings",
+                  "text": "Ascunsă într-un defileu deșertic pustiu, această atracție faimoasă adăpostește peste șaizeci de morminte de faraoni tăiate în stâncă subterană, inclusiv legendarul loc de înmormântare al lui Tutankhamon.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601652,
+                        25.73985
+                  ]
+            },
+            {
+                  "name": "West Valley",
+                  "text": "Adesea denumită Valea Maimuțelor, această atracție deșertică liniștită conține un număr mai mic de morminte regale mari din a 18-a dinastie.",
+                  "category": "landmark",
+                  "coords": [
+                        32.595007,
+                        25.742668
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Această atracție istorică prezintă coloane de piatră impunătoare și pereți erodați, împodobiți cu hieroglife egiptene clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608802,
+                        25.765928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TT25",
+                  "text": "This Theban rock-cut tomb contains the painted burial chambers of Amenemheb, an ancient Egyptian official from the New Kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        32.599934,
+                        25.733307
+                  ]
+            },
+            {
+                  "name": "Valley of the Kings",
+                  "text": "Hidden within a desolate desert gorge, this famous attraction houses more than sixty subterranean rock-cut tombs of pharaohs, including the legendary burial site of Tutankhamun.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601652,
+                        25.73985
+                  ]
+            },
+            {
+                  "name": "West Valley",
+                  "text": "Often referred to as the Valley of the Monkeys, this quiet desert attraction contains a smaller number of large royal tombs from the 18th Dynasty.",
+                  "category": "landmark",
+                  "coords": [
+                        32.595007,
+                        25.742668
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "This historic attraction showcases towering stone columns and eroded walls adorned with classic Egyptian hieroglyphics.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608802,
+                        25.765928
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-LX",
     coords: [32.6014, 25.7402],
@@ -108,7 +1395,484 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["63 tombes répertoriées (KV1 à KV63) ont été découvertes à ce jour.", "L'utilisation a commencé avec Thoutmôsis Ier vers 1500 av. J.-C.", "La tombe de Toutânkhamon (KV62) a été trouvée le 4 novembre 1922.", "Le fils de Ramsès II possède plus de 120 chambres dans la tombe KV5.", "La vallée fait partie du patrimoine mondial de l'UNESCO depuis 1979.", "Les tombes sont creusées dans le calcaire de la montagne El-Qurn."],
     }, image: "/poi-images/eg-lxr-valley-kings-history-v2.webp"},
   {
-    id: "eg-lxr-karnak-history-v2",
+    id: "eg-lxr-karnak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Freilichtmuseum",
+                  "text": "Dieses archäologische Museum zeigt rekonstruierte antike Schreine, darunter die berühmte Weiße und Rote Kapelle, die aus den Pylonen von Karnak wieder zusammengesetzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        32.657537,
+                        25.720322
+                  ]
+            },
+            {
+                  "name": "Temple of Montu (Medamud)",
+                  "text": "Dieses antike Monument war Montu, dem falkenköpfigen ägyptischen Kriegsgott, gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        32.710172,
+                        25.734239
+                  ]
+            },
+            {
+                  "name": "Temple of Ptah",
+                  "text": "Diese Karnak-Tempelruinen sind dem Schöpfergott Ptah gewidmet und verfügen über ein dunkles Heiligtum, in dem eine Statue der Löwengöttin Sachmet steht.",
+                  "category": "historical",
+                  "coords": [
+                        32.659683,
+                        25.71961
+                  ]
+            },
+            {
+                  "name": "Great Hypostyle Hall",
+                  "text": "Diese gewaltige antike Säulenhalle verfügt über 134 aufragende Sandsteinsäulen, die ursprünglich überdacht und von Sethos I. und Ramses II. reich verziert wurden.",
+                  "category": "historical",
+                  "coords": [
+                        32.657923,
+                        25.718573
+                  ]
+            },
+            {
+                  "name": "Tempel des Chons",
+                  "text": "Dieser außergewöhnlich gut erhaltene Tempel aus dem Neuen Reich war Chons, dem altägyptischen Mondgott, gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        32.655858,
+                        25.716773
+                  ]
+            },
+            {
+                  "name": "Temple of Montu",
+                  "text": "Als einer der vier Hauptbezirke in Karnak bildeten diese Ruinen das primäre Heiligtum für den thebanischen Kriegsgott.",
+                  "category": "landmark",
+                  "coords": [
+                        32.660645,
+                        25.720134
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens of Thutmose III",
+                  "text": "Die Wände dieses antiken Raums sind mit detaillierten Reliefs exotischer Pflanzen und Tiere verziert, die Thutmosis III. von seinen syrischen Feldzügen mitbrachte.",
+                  "category": "landmark",
+                  "coords": [
+                        32.659773,
+                        25.717765
+                  ]
+            },
+            {
+                  "name": "Karnak-Tempel",
+                  "text": "Dieser riesige, von der UNESCO geschützte pharaonische Komplex ist eine weitläufige Mischung aus zerfallenen Tempeln, Kapellen und massiven Sandsteinpylonen, die im Laufe von 2.000 Jahren erbaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        32.6578,
+                        25.716669
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Heqadjet",
+                  "text": "Diese kleine Steinkapelle enthält kunstvolle Wandreliefs, die die Gottesgemahlinnen des Amun bei der Teilnahme an heiligen Ritualen darstellen.",
+                  "category": "historical",
+                  "coords": [
+                        32.661132,
+                        25.717849
+                  ]
+            },
+            {
+                  "name": "Chapel of Kamutef",
+                  "text": "Die Ruinen dieser speziellen pharaonischen Kapelle waren dem Fruchtbarkeits- und Schöpfergott Min-Amun-Kamutef gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        32.65887,
+                        25.718162
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Wennefer Neb djefau",
+                  "text": "Diese antiken Steinfundamente gehören zu einem kleinen Heiligtum, das speziell Osiris Wennefer, dem ägyptischen Herrn der Speisen, gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.658705,
+                        25.719522
+                  ]
+            },
+            {
+                  "name": "Port of the Temple",
+                  "text": "Diese verfallenen Steinplattformen fungierten ursprünglich als zeremonielle Anlegestelle, an der heilige Boote und Prozessionsbarken vom Nil eintrafen.",
+                  "category": "historical",
+                  "coords": [
+                        32.655977,
+                        25.719144
+                  ]
+            },
+            {
+                  "name": "Temple Barque Chapel of Ramesses III",
+                  "text": "Dieses antike Sandsteinbauwerk diente als zeremonielle Zwischenstation, an der Priester bei großen religiösen Prozessionen die heilige Barke des Amun abstellten.",
+                  "category": "historical",
+                  "coords": [
+                        32.657013,
+                        25.718328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Open-Air Museum",
+                  "text": "Ez a régészeti múzeum rekonstruált ősi szentélyeket mutat be, köztük a híres Fehér és Vörös Kápolnát, amelyeket a karnaki pülónokból építettek újra.",
+                  "category": "museum",
+                  "coords": [
+                        32.657537,
+                        25.720322
+                  ]
+            },
+            {
+                  "name": "Temple of Montu (Medamud)",
+                  "text": "Ezt az ősi műemléket Montunak, a sólyomfejű egyiptomi hadistennek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        32.710172,
+                        25.734239
+                  ]
+            },
+            {
+                  "name": "Temple of Ptah",
+                  "text": "Ezeket a karnaki templomromokat Ptah teremtőistennek szentelték, sötét szentélyükben pedig Szahmet oroszlánistennő szobra áll.",
+                  "category": "historical",
+                  "coords": [
+                        32.659683,
+                        25.71961
+                  ]
+            },
+            {
+                  "name": "Great Hypostyle Hall",
+                  "text": "Ez a hatalmas ókori oszlopcsarnok 134 magasodó homokkő oszloppal rendelkezik, amelyeket eredetileg tető fedett, és I. Széthi, valamint II. Ramszesz gazdagon díszített.",
+                  "category": "historical",
+                  "coords": [
+                        32.657923,
+                        25.718573
+                  ]
+            },
+            {
+                  "name": "Temple of Khonsu",
+                  "text": "Ezt a kivételesen jó állapotban fennmaradt Újbirodalom-kori templomot Honszunak, az ókori egyiptomi holdistennek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        32.655858,
+                        25.716773
+                  ]
+            },
+            {
+                  "name": "Temple of Montu",
+                  "text": "A karnaki négy fő templomkerület egyikeként ezek a romok alkották a thébai hadisten elsődleges szentélyét.",
+                  "category": "landmark",
+                  "coords": [
+                        32.660645,
+                        25.720134
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens of Thutmose III",
+                  "text": "Ennek az ősi teremnek a falait egzotikus növények és állatok részletes domborművei díszítik, amelyeket III. Thotmesz hozott magával szíriai hadjáratairól.",
+                  "category": "landmark",
+                  "coords": [
+                        32.659773,
+                        25.717765
+                  ]
+            },
+            {
+                  "name": "Karnak Temple Complex",
+                  "text": "Ez a hatalmas, UNESCO-listás fáraókori komplexum a 2000 év alatt épült, pusztuló templomok, kápolnák és masszív homokkő pülónok kiterjedt keveréke.",
+                  "category": "landmark",
+                  "coords": [
+                        32.6578,
+                        25.716669
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Heqadjet",
+                  "text": "Ez a kis kőkápolna bonyolult fali domborműveket tartalmaz, amelyek Amon isteni imádóit ábrázolják szent rituálékon való részvételük közben.",
+                  "category": "historical",
+                  "coords": [
+                        32.661132,
+                        25.717849
+                  ]
+            },
+            {
+                  "name": "Chapel of Kamutef",
+                  "text": "Ennek a különleges fáraókori kápolnának a romjait Min-Amon-Kamutef termékenység- és teremtőistennek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        32.65887,
+                        25.718162
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Wennefer Neb djefau",
+                  "text": "Ezek az ősi kőalapok egy kis szentélyhez tartoznak, amelyet kifejezetten Ozirisz Wennefernek, a táplálék egyiptomi urának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.658705,
+                        25.719522
+                  ]
+            },
+            {
+                  "name": "Port of the Temple",
+                  "text": "Ezek a romos kőplatformok eredetileg ceremoniális kikötőként működtek, ahová a Nílusról érkező szent csónakok és körmeneti bárkák kötöttek ki.",
+                  "category": "historical",
+                  "coords": [
+                        32.655977,
+                        25.719144
+                  ]
+            },
+            {
+                  "name": "Temple Barque Chapel of Ramesses III",
+                  "text": "Ez az ősi homokkő építmény ceremoniális állomásként szolgált, ahol a papok a nagy vallási körmenetek során megpihentették Amon szent bárkáját.",
+                  "category": "historical",
+                  "coords": [
+                        32.657013,
+                        25.718328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Open-Air Museum",
+                  "text": "Acest muzeu arheologic expune altare antice reconstruite, inclusiv faimoasele Capele Albă și Roșie, reasamblate din pilonii de la Karnak.",
+                  "category": "museum",
+                  "coords": [
+                        32.657537,
+                        25.720322
+                  ]
+            },
+            {
+                  "name": "Temple of Montu (Medamud)",
+                  "text": "Acest monument antic a fost dedicat lui Montu, zeul egiptean al războiului cu cap de șoim.",
+                  "category": "historical",
+                  "coords": [
+                        32.710172,
+                        25.734239
+                  ]
+            },
+            {
+                  "name": "Temple of Ptah",
+                  "text": "Aceste ruine ale templului din Karnak sunt dedicate zeului creator Ptah și dispun de un sanctuar întunecat care adăpostește o statuie a zeiței leoaice Sekhmet.",
+                  "category": "historical",
+                  "coords": [
+                        32.659683,
+                        25.71961
+                  ]
+            },
+            {
+                  "name": "Great Hypostyle Hall",
+                  "text": "Această colonadă antică masivă prezintă 134 de coloane impunătoare din gresie, care inițial aveau acoperiș și erau bogat decorate de Seti I și Ramses al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        32.657923,
+                        25.718573
+                  ]
+            },
+            {
+                  "name": "Temple of Khonsu",
+                  "text": "Acest templu excepțional de bine conservat din Noul Regat a fost dedicat lui Khonsu, zeul antic egiptean al lunii.",
+                  "category": "historical",
+                  "coords": [
+                        32.655858,
+                        25.716773
+                  ]
+            },
+            {
+                  "name": "Temple of Montu",
+                  "text": "Servind ca una dintre cele patru incinte principale de la Karnak, aceste ruine au format sanctuarul primar al zeului teban al războiului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.660645,
+                        25.720134
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens of Thutmose III",
+                  "text": "Pereții acestei camere antice sunt sculptați cu reliefuri detaliate de plante și animale exotice aduse din campaniile siriene ale lui Thutmose al III-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        32.659773,
+                        25.717765
+                  ]
+            },
+            {
+                  "name": "Karnak Temple Complex",
+                  "text": "Acest vast complex faraonic, aflat pe lista patrimoniului mondial UNESCO, este un amestec imens de temple decăzute, capele și piloni masivi din gresie, construite pe parcursul a 2.000 de ani.",
+                  "category": "landmark",
+                  "coords": [
+                        32.6578,
+                        25.716669
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Heqadjet",
+                  "text": "Această mică capelă de piatră conține reliefuri murale complexe care înfățișează Adoratoarele Divine ale lui Amon participând la ritualuri sacre.",
+                  "category": "historical",
+                  "coords": [
+                        32.661132,
+                        25.717849
+                  ]
+            },
+            {
+                  "name": "Chapel of Kamutef",
+                  "text": "Ruinele acestei capele faraonice specializate au fost dedicate divinității fertilității și creației, Min-Amun-Kamutef.",
+                  "category": "historical",
+                  "coords": [
+                        32.65887,
+                        25.718162
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Wennefer Neb djefau",
+                  "text": "Aceste fundații antice de piatră aparțin unui mic sanctuar dedicat în mod specific lui Osiris Wennefer, domnul egiptean al proviziilor.",
+                  "category": "historical",
+                  "coords": [
+                        32.658705,
+                        25.719522
+                  ]
+            },
+            {
+                  "name": "Port of the Temple",
+                  "text": "Aceste platforme de piatră ruinate au funcționat inițial ca doc ceremonial, unde bărcile sacre și barjele de procesiune soseau de pe Nil.",
+                  "category": "historical",
+                  "coords": [
+                        32.655977,
+                        25.719144
+                  ]
+            },
+            {
+                  "name": "Temple Barque Chapel of Ramesses III",
+                  "text": "Această structură antică din gresie a servit ca o stație de odihnă ceremonială unde preoții așezau barca sacră a lui Amon în timpul marilor procesiuni religioase.",
+                  "category": "historical",
+                  "coords": [
+                        32.657013,
+                        25.718328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Open-Air Museum",
+                  "text": "This archaeological museum displays reconstructed ancient shrines, including the famous White and Red Chapels reassembled from Karnak's pylons.",
+                  "category": "museum",
+                  "coords": [
+                        32.657537,
+                        25.720322
+                  ]
+            },
+            {
+                  "name": "Temple of Montu (Medamud)",
+                  "text": "This ancient monument was dedicated to Montu, the falcon-headed Egyptian god of war.",
+                  "category": "historical",
+                  "coords": [
+                        32.710172,
+                        25.734239
+                  ]
+            },
+            {
+                  "name": "Temple of Ptah",
+                  "text": "These Karnak temple ruins are dedicated to the creator god Ptah and feature a dark sanctuary housing a statue of the lioness goddess Sekhmet.",
+                  "category": "historical",
+                  "coords": [
+                        32.659683,
+                        25.71961
+                  ]
+            },
+            {
+                  "name": "Great Hypostyle Hall",
+                  "text": "This massive ancient colonnade features 134 towering sandstone columns, originally roofed and richly decorated by Seti I and Ramesses II.",
+                  "category": "historical",
+                  "coords": [
+                        32.657923,
+                        25.718573
+                  ]
+            },
+            {
+                  "name": "Temple of Khonsu",
+                  "text": "This exceptionally well-preserved New Kingdom temple was dedicated to Khonsu, the ancient Egyptian moon god.",
+                  "category": "historical",
+                  "coords": [
+                        32.655858,
+                        25.716773
+                  ]
+            },
+            {
+                  "name": "Temple of Montu",
+                  "text": "Serving as one of the four main enclosures at Karnak, these ruins formed the primary sanctuary for the Theban war god.",
+                  "category": "landmark",
+                  "coords": [
+                        32.660645,
+                        25.720134
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens of Thutmose III",
+                  "text": "The walls of this ancient room are carved with detailed reliefs of exotic plants and animals brought back from the Syrian campaigns of Thutmose III.",
+                  "category": "landmark",
+                  "coords": [
+                        32.659773,
+                        25.717765
+                  ]
+            },
+            {
+                  "name": "Karnak Temple Complex",
+                  "text": "This vast, UNESCO-listed pharaonic complex is a sprawling mix of decayed temples, chapels, and massive sandstone pylons built over 2,000 years.",
+                  "category": "landmark",
+                  "coords": [
+                        32.6578,
+                        25.716669
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Heqadjet",
+                  "text": "This small stone chapel contains intricate wall reliefs depicting the Divine Adoratrices of Amun participating in sacred rituals.",
+                  "category": "historical",
+                  "coords": [
+                        32.661132,
+                        25.717849
+                  ]
+            },
+            {
+                  "name": "Chapel of Kamutef",
+                  "text": "The ruins of this specialized pharaonic chapel were dedicated to the fertility and creator deity Min-Amun-Kamutef.",
+                  "category": "historical",
+                  "coords": [
+                        32.65887,
+                        25.718162
+                  ]
+            },
+            {
+                  "name": "Chapel of Osiris Wennefer Neb djefau",
+                  "text": "These ancient stone foundations belong to a small sanctuary specifically dedicated to Osiris Wennefer, the Egyptian lord of provisions.",
+                  "category": "historical",
+                  "coords": [
+                        32.658705,
+                        25.719522
+                  ]
+            },
+            {
+                  "name": "Port of the Temple",
+                  "text": "These ruined stone platforms originally functioned as the ceremonial dock where sacred boats and processional barges arrived from the Nile.",
+                  "category": "historical",
+                  "coords": [
+                        32.655977,
+                        25.719144
+                  ]
+            },
+            {
+                  "name": "Temple Barque Chapel of Ramesses III",
+                  "text": "This ancient sandstone structure served as a ceremonial way-station where priests would rest the sacred barque of Amun during grand religious processions.",
+                  "category": "historical",
+                  "coords": [
+                        32.657013,
+                        25.718328
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-LX",
     coords: [32.6583, 25.7188],
@@ -143,7 +1907,196 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Le plus grand complexe religieux antique au monde, dédié au dieu Amon, à son épouse Mout et à leur fils Khonsou.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-lxr-karnak-history-v2.webp"},
   {
-    id: "eg-lxr-luxor-temple-history-v2",
+    id: "eg-lxr-luxor-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banana Island",
+                  "text": "Auf einer ruhigen Felukenfahrt flussaufwärts auf dem Nil gelegen, ist diese kleine Inselattraktion mit üppigen Bananenplantagen und lokalen Obstbäumen gefüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "Nūn Art Gallery",
+                  "text": "Dieser kulturelle Knotenpunkt kombiniert eine entspannte Café-Umgebung mit kuratierten Kunstausstellungen und präsentiert traditionelle ägyptische Handwerkskunst sowie zeitgenössische lokale Gemälde.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "Diese nützliche Attraktion, die täglich den Nil überquert, bietet den Passagieren einen weiten Blick über das Wasser und die fernen thebanischen Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "Luxor-Tempel",
+                  "text": "Diese von der UNESCO gelistete Attraktion thront majestätisch im Stadtzentrum und ist berühmt für ihren massiven Pylon von Ramses II. und die große Kolonnade von Amenhotep III.",
+                  "category": "landmark",
+                  "coords": [
+                        32.639174,
+                        25.699687
+                  ]
+            },
+            {
+                  "name": "Chapel of Serapis",
+                  "text": "Diese Tempelruinen bewahren die Lehmziegel- und Steinreste einer kleinen römischen Kapelle, die der synkretistischen griechisch-ägyptischen Gottheit Serapis gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banana Island",
+                  "text": "Ez a Níluson felfelé haladó, csendes felukkás hajóúton elérhető kis szigeti látványosság buja banánültetvényekkel és helyi gyümölcsfákkal van tele.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "Nūn Art Gallery",
+                  "text": "A pihentető kávézói környezetet gondosan összeállított művészeti kiállításokkal ötvöző kulturális központ a hagyományos egyiptomi kézművességet és a kortárs helyi festményeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "A Níluson naponta közlekedő, praktikus látványosságból a vízre és a távoli thébai hegyekre nyílik pazar kilátás.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "Luxor Temple",
+                  "text": "Ez az UNESCO-listán szereplő látványosság fenségesen magasodik a városközpontban; híres a II. Ramszesz által épített masszív pülonjáról és III. Amenhotep nagy oszlopsoráról.",
+                  "category": "landmark",
+                  "coords": [
+                        32.639174,
+                        25.699687
+                  ]
+            },
+            {
+                  "name": "Chapel of Serapis",
+                  "text": "Ezek a templomromok egy kis római kori kápolna vályogtégla- és kőmaradványait őrzik, amelyet a szinkretikus görög-egyiptomi istenségnek, Szerápisznak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banana Island",
+                  "text": "Situată la capătul unei plimbări liniștite cu feluca pe Nil, această mică insulă atracție este plină de plantații luxuriante de banane și pomi fructiferi locali.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "Nūn Art Gallery",
+                  "text": "Combinând o atmosferă relaxantă de cafenea cu expoziții de artă selectate, acest hub cultural prezintă măiestria tradițională egipteană și picturi locale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "Operând zilnic peste Nil, această atracție utilitară oferă pasagerilor vederi panoramice ale apei și ale munților tebani din depărtare.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "Luxor Temple",
+                  "text": "Această atracție inclusă în lista UNESCO se înalță maiestuos în centrul orașului, fiind renumită pentru pilonul său masiv construit de Ramses al II-lea și marea colonadă a lui Amenhotep al III-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        32.639174,
+                        25.699687
+                  ]
+            },
+            {
+                  "name": "Chapel of Serapis",
+                  "text": "Aceste ruine ale templului păstrează rămășițele din cărămidă de noroi și piatră ale unei mici capele din epoca romană dedicate divinității sincretice greco-egiptene Serapis.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banana Island",
+                  "text": "Situated on a tranquil felucca sail up the Nile, this small island attraction is filled with lush banana plantations and local fruit trees.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "Nut Art Store & Kaffee",
+                  "text": "Combining a relaxing cafe setting with curated art displays, this cultural hub showcases traditional Egyptian craftsmanship and contemporary local paintings.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "Operating daily across the Nile, this utilitarian attraction provides passengers with sweeping views of the water and the distant Theban mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "Luxor Temple",
+                  "text": "This UNESCO-listed attraction stands majestically in the city center, renowned for its massive pylon built by Ramesses II and the grand colonnade of Amenhotep III.",
+                  "category": "landmark",
+                  "coords": [
+                        32.639174,
+                        25.699687
+                  ]
+            },
+            {
+                  "name": "Chapel of Serapis",
+                  "text": "These temple ruins preserve the mud-brick and stone remnants of a small Roman-era chapel dedicated to the syncretic Greco-Egyptian deity Serapis.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-LX",
     coords: [32.6394, 25.6995],
@@ -178,7 +2131,88 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Un grand complexe de temples de l'Égypte ancienne sur la rive est du Nil dans la ville aujourd'hui connue sous le nom de Louxor.", "Situé sur le territoire de la République arabe d'Égypte.", "En relation avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-lxr-luxor-temple-history-v2.webp"},
   {
-    id: "eg-asw-abu-simbel-history-v2",
+    id: "eg-asw-abu-simbel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Simbel Temples salvage documentation center",
+                  "text": "Dieses Museum dokumentiert akribisch das unglaubliche UNESCO-Ingenieurprojekt der 1960er Jahre, bei dem die massiven Abu-Simbel-Tempel zersägt und umgesiedelt wurden, um sie vor Überflutung zu retten.",
+                  "category": "museum",
+                  "coords": [
+                        31.616622,
+                        22.340198
+                  ]
+            },
+            {
+                  "name": "Abu Simbel",
+                  "text": "Diese beiden kolossalen Felsentempel wurden vollständig zerlegt und auf höher gelegenes Gelände gebracht, um sie vor dem steigenden Nilwasser zu bewahren.",
+                  "category": "landmark",
+                  "coords": [
+                        31.625755,
+                        22.337255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Simbel Temples salvage documentation center",
+                  "text": "Ez a múzeum aprólékosan dokumentálja a hihetetlen 1960-as évekbeli UNESCO mérnöki projektet, amely a hatalmas Abu Szimbel-templomokat feldarabolta és áthelyezte, hogy megmentse őket az elárasztástól.",
+                  "category": "museum",
+                  "coords": [
+                        31.616622,
+                        22.340198
+                  ]
+            },
+            {
+                  "name": "Abu Szimbel",
+                  "text": "Ezt a két kolosszális sziklatemplomot teljesen szétszedték és magasabb területre szállították abban a történelmi erőfeszítésben, hogy megóvják őket a Nílus emelkedő vizétől.",
+                  "category": "landmark",
+                  "coords": [
+                        31.625755,
+                        22.337255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Simbel Temples salvage documentation center",
+                  "text": "Acest muzeu documentează meticulos incredibilul proiect de inginerie UNESCO din anii 1960, care a tăiat și a relocat templele masive de la Abu Simbel pentru a le salva de la inundații.",
+                  "category": "museum",
+                  "coords": [
+                        31.616622,
+                        22.340198
+                  ]
+            },
+            {
+                  "name": "Abu Simbel Temples",
+                  "text": "Aceste două temple colosale tăiate în stâncă au fost complet dezasamblate și mutate pe un teren mai înalt într-un efort istoric de a le păstra de apele în creștere ale Nilului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.625755,
+                        22.337255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Simbel Temples salvage documentation center",
+                  "text": "This museum meticulously documents the incredible 1960s UNESCO engineering project that cut and relocated the massive Abu Simbel temples to save them from flooding.",
+                  "category": "museum",
+                  "coords": [
+                        31.616622,
+                        22.340198
+                  ]
+            },
+            {
+                  "name": "Abu Simbel Temples",
+                  "text": "These two colossal rock-cut temples were completely disassembled and moved to higher ground in a historic effort to preserve them from the rising Nile waters.",
+                  "category": "landmark",
+                  "coords": [
+                        31.625755,
+                        22.337255
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ASN",
     coords: [31.6258, 22.337],
@@ -213,7 +2247,196 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["La construction a duré environ 20 ans (v. 1264–1244 av. J.-C.).", "Les statues assises de la façade mesurent chacune 20 mètres de haut.", "Le temple a été redécouvert en 1813 par Jean-Louis Burckhardt.", "L'opération de sauvetage de l'UNESCO a coûté environ 40 millions de dollars.", "Le soleil éclaire le sanctuaire le 22 février et le 22 octobre.", "L'intérieur s'enfonce de 60 mètres dans la roche naturelle."],
     }, image: "/poi-images/eg-asw-abu-simbel-history-v2.webp"},
   {
-    id: "eg-asw-philae-history-v2",
+    id: "eg-asw-philae-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nile Museum",
+                  "text": "Dieses Museum befasst sich mit der Geschichte des Nils, seinen lebenswichtigen Wassermanagementsystemen und lokalen Bewässerungsprojekten.",
+                  "category": "museum",
+                  "coords": [
+                        32.883969,
+                        24.040801
+                  ]
+            },
+            {
+                  "name": "Philae",
+                  "text": "Der historische Tempelkomplex dieser Insel, der sich ursprünglich nahe dem Ersten Katarakt befand, wurde mühsam auf die Insel Agilkia umgesiedelt, um Überschwemmungen zu entgehen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889628,
+                        24.020972
+                  ]
+            },
+            {
+                  "name": "Hisn al-Bab",
+                  "text": "Diese archäologische Stätte enthält die Ruinen einer bedeutenden spätrömischen und byzantinischen Grenzfestung entlang des Nils.",
+                  "category": "historical",
+                  "coords": [
+                        32.890506,
+                        24.011827
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Dieses dramatische Abendspektakel beleuchtet eindrucksvoll die antiken Mauern des Philae-Tempels, während Geschichten über die Göttin Isis erzählt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        32.884333,
+                        24.024497
+                  ]
+            },
+            {
+                  "name": "Tempel der Hathor",
+                  "text": "Die Ruinen dieses kleinen Tempels weisen bezaubernde Steinreliefs von Musikern und dem Zwergengott Bes auf, die die Göttin Hathor ehren.",
+                  "category": "historical",
+                  "coords": [
+                        32.884455,
+                        24.025465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nile Museum",
+                  "text": "Ez a múzeum a Nílus folyó történelmére, létfontosságú vízgazdálkodási rendszereire és a helyi öntözési projektekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        32.883969,
+                        24.040801
+                  ]
+            },
+            {
+                  "name": "Philae",
+                  "text": "A sziget eredetileg az első katarakta közelében fekvő történelmi templomkomplexumát gondos munkával az Agilkia-szigetre helyezték át az áradások miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889628,
+                        24.020972
+                  ]
+            },
+            {
+                  "name": "Hisn al-Bab",
+                  "text": "Ezen a régészeti lelőhelyen egy jelentős késő római és bizánci határmenti erőd romjai találhatók a Nílus mentén.",
+                  "category": "historical",
+                  "coords": [
+                        32.890506,
+                        24.011827
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Ez a drámai esti látványosság élénken megvilágítja a Philae-templom ősi falait, miközben Ízisz istennő történeteit meséli el.",
+                  "category": "landmark",
+                  "coords": [
+                        32.884333,
+                        24.024497
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor",
+                  "text": "Ennek a kis templomnak a romjai zenészeket és Besz törpeistent ábrázoló elragadó kődomborművekkel tisztelegnek Hathor istennő előtt.",
+                  "category": "historical",
+                  "coords": [
+                        32.884455,
+                        24.025465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nile Museum",
+                  "text": "Acest muzeu se concentrează pe istoria fluviului Nil, pe sistemele sale vitale de gestionare a apelor și pe proiectele locale de irigații.",
+                  "category": "museum",
+                  "coords": [
+                        32.883969,
+                        24.040801
+                  ]
+            },
+            {
+                  "name": "Philae",
+                  "text": "Situat inițial lângă Prima Cataractă, complexul istoric de temple al acestei insule a fost relocat cu migală pe insula Agilkia pentru a scăpa de inundații.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889628,
+                        24.020972
+                  ]
+            },
+            {
+                  "name": "Hisn al-Bab",
+                  "text": "Acest sit arheologic conține ruinele unei fortărețe de frontieră importante din perioada romană târzie și bizantină, de-a lungul Nilului.",
+                  "category": "historical",
+                  "coords": [
+                        32.890506,
+                        24.011827
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Acest spectacol dramatic de seară iluminează viu zidurile antice ale Templului Philae, relatând în același timp povești despre zeița Isis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.884333,
+                        24.024497
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor",
+                  "text": "Ruinele acestui mic templu prezintă reliefuri încântătoare în piatră cu muzicieni și zeul pitic Bes onorând-o pe zeița Hathor.",
+                  "category": "historical",
+                  "coords": [
+                        32.884455,
+                        24.025465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nile Museum",
+                  "text": "This museum focuses on the history of the Nile River, its vital water management systems, and local irrigation projects.",
+                  "category": "museum",
+                  "coords": [
+                        32.883969,
+                        24.040801
+                  ]
+            },
+            {
+                  "name": "Philae",
+                  "text": "Originally located near the First Cataract, this island's historic temple complex was painstakingly relocated to Agilkia Island to escape flooding.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889628,
+                        24.020972
+                  ]
+            },
+            {
+                  "name": "Hisn al-Bab",
+                  "text": "This archaeological site contains the ruins of a significant Late Roman and Byzantine border fortress along the Nile.",
+                  "category": "historical",
+                  "coords": [
+                        32.890506,
+                        24.011827
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "This dramatic evening spectacle vividly illuminates the ancient walls of the Philae Temple while narrating stories of the goddess Isis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.884333,
+                        24.024497
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor",
+                  "text": "The ruins of this small temple feature delightful stone reliefs of musicians and the dwarf god Bes honoring the goddess Hathor.",
+                  "category": "historical",
+                  "coords": [
+                        32.884455,
+                        24.025465
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ASN",
     coords: [32.8844, 24.0253],
@@ -248,7 +2471,232 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Complexe de temples sur une île de l'ancien barrage d'Assouan, dédié à la déesse Isis.", "Située sur le territoire de la République arabe d'Égypte.", "Est en lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-asw-philae-history-v2.webp"},
   {
-    id: "eg-lxr-hatshepsut-history-v2",
+    id: "eg-lxr-hatshepsut-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Replica of Tut Ankh Amon Tomb",
+                  "text": "Diese exakte Nachbildung des Grabes von Tutanchamun wurde geschaffen, um die Erhaltung des stark frequentierten Originals zu unterstützen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62784,
+                        25.739614
+                  ]
+            },
+            {
+                  "name": "Temple of Thutmoses III",
+                  "text": "Der Tempel von Thutmosis III. in Deir el-Bahari wurde einst durch einen Felssturz am Bergkessel schwer beschädigt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.60598,
+                        25.737929
+                  ]
+            },
+            {
+                  "name": "Deir el-Bahari",
+                  "text": "Deir el-Bahari ist ein gewaltiger, amphitheatralischer Talkessel, der für seine eindrucksvollen königlichen Totentempel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.607458,
+                        25.737552
+                  ]
+            },
+            {
+                  "name": "Valley of the nobles Asasif",
+                  "text": "Das Tal der Adligen in der Asasif-Region ist eine thebanische Nekropole, die vor allem große Grabanlagen aus der 25. und 26. Dynastie umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        32.611306,
+                        25.734283
+                  ]
+            },
+            {
+                  "name": "Tomb of Montuemhet (TT 34)",
+                  "text": "Das thebanische Grab des Montuemhet (TT 34) gehört zu den größten und aufwendigsten Privatgräbern der Spätzeit in Theben.",
+                  "category": "historical",
+                  "coords": [
+                        32.610494,
+                        25.735337
+                  ]
+            },
+            {
+                  "name": "TT71",
+                  "text": "Das thebanische Grab TT71 war für Senenmut, den einflussreichen Beamten und Architekten unter Königin Hatschepsut, vorgesehen.",
+                  "category": "historical",
+                  "coords": [
+                        32.607917,
+                        25.733267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Replica of Tut Ankh Amon Tomb",
+                  "text": "Tutanhamon sírjának ezt a pontos másolatát azért hozták létre, hogy segítsenek megóvni a nagymértékben látogatott eredeti helyszínt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62784,
+                        25.739614
+                  ]
+            },
+            {
+                  "name": "II. Tutmozisz temploma",
+                  "text": "A Dejr el-Bahariban található III. Thotmesz-templomot egykor súlyosan megrongálta a hegykatlanból lezúduló kőomlás.",
+                  "category": "landmark",
+                  "coords": [
+                        32.60598,
+                        25.737929
+                  ]
+            },
+            {
+                  "name": "Hatsepszut királynő temploma",
+                  "text": "Dejr el-Bahari egy hatalmas, amfiteátrumszerű hegykatlan, amely lenyűgöző királyi halotti templomairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.607458,
+                        25.737552
+                  ]
+            },
+            {
+                  "name": "Valley of the nobles Asasif",
+                  "text": "A Nemesek völgye Aszaszif területén egy thébai nekropolisz, amely főleg a 25. és 26. dinasztiából származó nagy sírokat foglalja magába.",
+                  "category": "historical",
+                  "coords": [
+                        32.611306,
+                        25.734283
+                  ]
+            },
+            {
+                  "name": "Tomb of Montuemhet (TT 34)",
+                  "text": "Montuemhat thébai sírja (TT 34) a későkor egyik legnagyobb és legkidolgozottabb magánsírja Thébában.",
+                  "category": "historical",
+                  "coords": [
+                        32.610494,
+                        25.735337
+                  ]
+            },
+            {
+                  "name": "TT71",
+                  "text": "A TT71-es thébai sírt Szenenmut, Hatsepszut királynő befolyásos tisztviselője és építésze számára készítették.",
+                  "category": "historical",
+                  "coords": [
+                        32.607917,
+                        25.733267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Replica of Tut Ankh Amon Tomb",
+                  "text": "Această replică exactă a mormântului lui Tutankhamon a fost creată pentru a ajuta la conservarea originalului intens vizitat.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62784,
+                        25.739614
+                  ]
+            },
+            {
+                  "name": "Temple of Thutmoses III",
+                  "text": "Templul lui Tutmes al III-lea de la Deir el-Bahari a fost odată grav avariat de o cădere de stânci din amfiteatrul muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.60598,
+                        25.737929
+                  ]
+            },
+            {
+                  "name": "Deir el-Bahari",
+                  "text": "Deir el-Bahari este un imens amfiteatru natural de stâncă, renumit pentru templele sale funerare regale spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        32.607458,
+                        25.737552
+                  ]
+            },
+            {
+                  "name": "Valley of the nobles Asasif",
+                  "text": "Valea nobililor din zona Asasif este o necropolă tebană care cuprinde în principal morminte mari din dinastiile a 25-a și a 26-a.",
+                  "category": "historical",
+                  "coords": [
+                        32.611306,
+                        25.734283
+                  ]
+            },
+            {
+                  "name": "Tomb of Montuemhet (TT 34)",
+                  "text": "Mormântul teban al lui Montuemhet (TT 34) se numără printre cele mai mari și mai elaborate morminte private din Perioada Târzie la Teba.",
+                  "category": "historical",
+                  "coords": [
+                        32.610494,
+                        25.735337
+                  ]
+            },
+            {
+                  "name": "TT71",
+                  "text": "Mormântul teban TT71 a fost conceput pentru Senenmut, influentul oficial și arhitect din timpul reginei Hatshepsut.",
+                  "category": "historical",
+                  "coords": [
+                        32.607917,
+                        25.733267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Replica of Tut Ankh Amon Tomb",
+                  "text": "This exact replica of Tut Ankh Amon's tomb was created to help preserve the heavily visited original site.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62784,
+                        25.739614
+                  ]
+            },
+            {
+                  "name": "Temple of Thutmoses III",
+                  "text": "The Temple of Thutmoses III at Deir el-Bahari was once severely damaged by a rockfall from the cliffs above.",
+                  "category": "landmark",
+                  "coords": [
+                        32.60598,
+                        25.737929
+                  ]
+            },
+            {
+                  "name": "Deir el-Bahari",
+                  "text": "Deir el-Bahari is a dramatic, amphitheatre-like basin of cliffs renowned for containing a complex of spectacular royal mortuary temples.",
+                  "category": "landmark",
+                  "coords": [
+                        32.607458,
+                        25.737552
+                  ]
+            },
+            {
+                  "name": "Valley of the nobles Asasif",
+                  "text": "The Valley of the Nobles at El-Assasif is a Theban necropolis featuring predominantly large tomb complexes from the 25th and 26th Dynasties.",
+                  "category": "historical",
+                  "coords": [
+                        32.611306,
+                        25.734283
+                  ]
+            },
+            {
+                  "name": "Tomb of Montuemhet (TT 34)",
+                  "text": "The Theban Tomb of Montuemhet (TT 34) is among the largest and most elaborate private tombs of the Late Period in Thebes.",
+                  "category": "historical",
+                  "coords": [
+                        32.610494,
+                        25.735337
+                  ]
+            },
+            {
+                  "name": "TT71",
+                  "text": "Theban Tomb TT71 was constructed for Senenmut, the highly influential official and architect during the reign of Queen Hatshepsut.",
+                  "category": "historical",
+                  "coords": [
+                        32.607917,
+                        25.733267
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-LX",
     coords: [32.6065, 25.7383],
@@ -283,7 +2731,1276 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Un chef-d'œuvre architectural à Deir el-Bahari, construit en terrasses à flanc de falaise.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-lxr-hatshepsut-history-v2.webp"},
   {
-    id: "eg-gz-saqqara-history-v2",
+    id: "eg-gz-saqqara-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unfinished Pyramid of Abusir",
+                  "text": "Dieses unvollendete Pyramidenbauwerk in eg-gz-saqqara-history-v2 ist ein faszinierendes antikes Monument der Nekropole von Abusir.",
+                  "category": "historical",
+                  "coords": [
+                        31.20167,
+                        29.89861
+                  ]
+            },
+            {
+                  "name": "Qakare Ibi",
+                  "text": "Dieses Monument in eg-gz-saqqara-history-v2 ist die kleine antike Pyramide des Pharaos Qakare Ibi.",
+                  "category": "historical",
+                  "coords": [
+                        31.21778,
+                        29.84167
+                  ]
+            },
+            {
+                  "name": "Bubasteion",
+                  "text": "Diese archäologische Stätte in eg-gz-saqqara-history-v2 umfasst einen Tempelkomplex, der der Katzengöttin Bastet gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        31.223981,
+                        29.873527
+                  ]
+            },
+            {
+                  "name": "Gisr el-Mudir",
+                  "text": "Diese archäologische Stätte in eg-gz-saqqara-history-v2 ist als die Große Einfriedung bekannt und gilt als eine der ältesten bekannten Steinmauern Ägyptens.",
+                  "category": "historical",
+                  "coords": [
+                        31.20615,
+                        29.866834
+                  ]
+            },
+            {
+                  "name": "Serapeum",
+                  "text": "Diese archäologische Stätte in eg-gz-saqqara-history-v2 umfasst unterirdische Galerien mit riesigen Granitsarkophagen der heiligen Apis-Stiere.",
+                  "category": "historical",
+                  "coords": [
+                        31.209575,
+                        29.875944
+                  ]
+            },
+            {
+                  "name": "Tombs of 3rd Dynasty",
+                  "text": "Diese denkmalgeschützte Attraktion in eg-gz-saqqara-history-v2 umfasst antike Grabstätten aus der 3. Dynastie Ägyptens.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213285,
+                        29.87682
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi I",
+                  "text": "Diese denkmalgeschützte Pyramide in eg-gz-saqqara-history-v2 ist berühmt für die umfangreichen antiken Pyramidentexte an ihren Innenwänden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.21899,
+                        29.854432
+                  ]
+            },
+            {
+                  "name": "Djoser-Pyramide Komplex In Sakkara",
+                  "text": "Dieser Komplex in eg-gz-saqqara-history-v2 beherbergt die Stufenpyramide, die als das früheste kolossale Steinbauwerk Ägyptens gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.217431,
+                        29.869984
+                  ]
+            },
+            {
+                  "name": "Djoser-Pyramide",
+                  "text": "Diese denkmalgeschützte Stufenpyramide in eg-gz-saqqara-history-v2 wurde vom Baumeister Imhotep für den Pharao Djoser errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216561,
+                        29.871214
+                  ]
+            },
+            {
+                  "name": "Titi Pyramide",
+                  "text": "Diese denkmalgeschützte Pyramide in eg-gz-saqqara-history-v2 ist für die gut erhaltenen Pyramidentexte in ihrer Grabkammer bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.221755,
+                        29.875165
+                  ]
+            },
+            {
+                  "name": "Pyramid of Nyuserre",
+                  "text": "Diese denkmalgeschützte Attraktion in eg-gz-saqqara-history-v2 ist ein verfallener Pyramidenkomplex in der Nekropole von Abusir.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203631,
+                        29.895543
+                  ]
+            },
+            {
+                  "name": "Sun Temple of Userkaf",
+                  "text": "Dieser denkmalgeschützte antike Sonnentempel in eg-gz-saqqara-history-v2 wurde von Userkaf, dem Gründer der 5. Dynastie, erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.199171,
+                        29.90005
+                  ]
+            },
+            {
+                  "name": "Unfinished Pyramid of Neferefe",
+                  "text": "Diese unvollendete, denkmalgeschützte Pyramide in eg-gz-saqqara-history-v2 enthält Reste eines Totentempels und alter Papyrusarchive.",
+                  "category": "landmark",
+                  "coords": [
+                        31.201695,
+                        29.893711
+                  ]
+            },
+            {
+                  "name": "Sonnenheiligtum des Niuserre",
+                  "text": "Diese denkmalgeschützte Stätte in eg-gz-saqqara-history-v2, auch bekannt als Abu Gorab, beherbergt die Überreste eines massiven Sonnenobelisken.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19408,
+                        29.90402
+                  ]
+            },
+            {
+                  "name": "Mastabat al-Fir’aun",
+                  "text": "Diese denkmalgeschützte Anlage in eg-gz-saqqara-history-v2 ist das große, rechteckige Grab von Schepseskaf, das die Form einer riesigen Mastaba hat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.215276,
+                        29.838938
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi II",
+                  "text": "Dieser denkmalgeschützte Komplex in eg-gz-saqqara-history-v2 umgibt die Pyramide von Pepi II., der für seine außergewöhnlich lange Regierungszeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213515,
+                        29.840289
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djedkare-Isesi",
+                  "text": "Diese denkmalgeschützte Pyramide aus der späten 5. Dynastie in eg-gz-saqqara-history-v2 ist lokal auch als „Die Wache“ bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.220947,
+                        29.850964
+                  ]
+            },
+            {
+                  "name": "Unas-Pyramide",
+                  "text": "Diese denkmalgeschützte Pyramide in eg-gz-saqqara-history-v2 ist berühmt, da sie die ältesten bekannten Exemplare der Pyramidentexte enthält.",
+                  "category": "landmark",
+                  "coords": [
+                        31.214935,
+                        29.868188
+                  ]
+            },
+            {
+                  "name": "Buried Pyramid",
+                  "text": "Diese unvollendete, denkmalgeschützte Stufenpyramidenanlage in eg-gz-saqqara-history-v2 wurde für den Pharao Sechemchet erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213649,
+                        29.866153
+                  ]
+            },
+            {
+                  "name": "Pyramid of Userkaf",
+                  "text": "Diese denkmalgeschützte Pyramide in eg-gz-saqqara-history-v2 ist aufgrund ihres trümmerhaften Aussehens lokal als „Ruinenpyramide“ bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.218881,
+                        29.87342
+                  ]
+            },
+            {
+                  "name": "Mastaba of Ti",
+                  "text": "Diese reich verzierte antike Grabstätte in eg-gz-saqqara-history-v2 wird für ihre detaillierten Reliefs des täglichen Lebens im Alten Reich gefeiert.",
+                  "category": "landmark",
+                  "coords": [
+                        31.211919,
+                        29.877586
+                  ]
+            },
+            {
+                  "name": "Headless Pyramid",
+                  "text": "Diese verfallene Pyramidenstruktur in eg-gz-saqqara-history-v2 gehörte vermutlich dem Pharao Menkauhor.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222926,
+                        29.875564
+                  ]
+            },
+            {
+                  "name": "Pyramid of Neferirkare",
+                  "text": "Diese denkmalgeschützte Pyramide in eg-gz-saqqara-history-v2 ist das höchste Bauwerk der Nekropole von Abusir und wurde ursprünglich als Stufenpyramide errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.202429,
+                        29.894971
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sahure",
+                  "text": "Dieser denkmalgeschützte Pyramidenkomplex in eg-gz-saqqara-history-v2 legte den Standardgrundriss für die nachfolgenden Königsgräber des Alten Reiches fest.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203393,
+                        29.897536
+                  ]
+            },
+            {
+                  "name": "Abu Sir",
+                  "text": "Diese archäologische Stätte in eg-gz-saqqara-history-v2 ist eine ausgedehnte Nekropole des Alten Reiches, bekannt für ihre hohe Dichte an Pyramiden und Sonnentempeln der 5. Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        31.209867,
+                        29.883192
+                  ]
+            },
+            {
+                  "name": "Sacred Animal Necropolis Site",
+                  "text": "Diese archäologische Stätte in eg-gz-saqqara-history-v2 umfasst riesige unterirdische Katakomben mit den mumifizierten Überresten von Millionen heiliger Tiere.",
+                  "category": "historical",
+                  "coords": [
+                        31.215302,
+                        29.881742
+                  ]
+            },
+            {
+                  "name": "Imhotep Museum",
+                  "text": "Dieses Museum in eg-gz-saqqara-history-v2 präsentiert archäologische Funde aus der Nekropole von Sakkara, darunter antike Statuen, Mumien und Holzsärge.",
+                  "category": "museum",
+                  "coords": [
+                        31.224846,
+                        29.869834
+                  ]
+            },
+            {
+                  "name": "Abu Girab",
+                  "text": "Diese Ruinenstätte in eg-gz-saqqara-history-v2 umfasst die Überreste antiker Sonnentempel, die zur Verehrung des ägyptischen Sonnengottes Ra erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        31.198183,
+                        29.903088
+                  ]
+            },
+            {
+                  "name": "Philosopher's Circle",
+                  "text": "Diese denkmalgeschützte archäologische Stätte in eg-gz-saqqara-history-v2 ist ein hellenistischer Anbau an das Serapeum und zeigt Statuen bedeutender griechischer Philosophen und Dichter.",
+                  "category": "historical",
+                  "coords": [
+                        31.212533,
+                        29.874829
+                  ]
+            },
+            {
+                  "name": "Ahramat Abu Sir",
+                  "text": "Diese archäologische Stätte in eg-gz-saqqara-history-v2 umfasst eine Gruppe von Stufenpyramiden des Alten Reiches, die durch Steinräuber schwer beschädigt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        31.205526,
+                        29.896093
+                  ]
+            },
+            {
+                  "name": "Deir Apa Jeremiah",
+                  "text": "Diese Ruinen in eg-gz-saqqara-history-v2 gehören zu einem weitläufigen alten koptischen Kloster, das inmitten der älteren pharaonischen Gräber erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        31.219343,
+                        29.866415
+                  ]
+            },
+            {
+                  "name": "Mastaba of Nikauisesi",
+                  "text": "Diese Ruinenstruktur in eg-gz-saqqara-history-v2 ist das verbliebene Grab des bedeutenden altägyptischen Beamten Nikauisesi.",
+                  "category": "historical",
+                  "coords": [
+                        31.22138,
+                        29.876203
+                  ]
+            },
+            {
+                  "name": "Pillared courtyard",
+                  "text": "Eine archäologische Stätte, die die Überreste eines antiken Säulenhofs in der Region Sakkara zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        31.204372,
+                        29.897602
+                  ]
+            },
+            {
+                  "name": "South Saqqara",
+                  "text": "Ein weitläufiges archäologisches Gebiet mit mehreren antiken Grabstrukturen im südlichen Teil der Nekropole von Sakkara.",
+                  "category": "historical",
+                  "coords": [
+                        31.214811,
+                        29.840063
+                  ]
+            },
+            {
+                  "name": "Mastaba of Meruduka",
+                  "text": "Ein denkmalgeschützter antiker Mastaba-Grabkomplex in Sakkara, der für seine äußerst detaillierten Wandreliefs bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216662,
+                        29.883305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Unfinished Pyramid of Abusir",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található, befejezetlen piramisépítmény az abuszíri nekropolisz lenyűgöző ókori műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        31.20167,
+                        29.89861
+                  ]
+            },
+            {
+                  "name": "Qakare Ibi",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található műemlék Qakare Ibi fáraó kisméretű ókori piramisa.",
+                  "category": "historical",
+                  "coords": [
+                        31.21778,
+                        29.84167
+                  ]
+            },
+            {
+                  "name": "Bubasteion",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található régészeti lelőhely a Bastet macskaistennőnek szentelt ókori templomkomplexumot foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        31.223981,
+                        29.873527
+                  ]
+            },
+            {
+                  "name": "Gisr el-Mudir",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található régészeti lelőhely, a Nagy Körzet, Egyiptom egyik legrégebbi ismert kőépítménye.",
+                  "category": "historical",
+                  "coords": [
+                        31.20615,
+                        29.866834
+                  ]
+            },
+            {
+                  "name": "Szerafeum",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található régészeti lelőhely a szent Ápisz-bikák hatalmas gránit szarkofágjait rejtő földalatti galériákat foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        31.209575,
+                        29.875944
+                  ]
+            },
+            {
+                  "name": "3. dinasztia sírjai",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található, világörökségi védelem alatt álló látványosság az egyiptomi 3. dinasztia ókori sírjait foglalja magában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213285,
+                        29.87682
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi I",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található világörökségi piramis a belső falaira vésett kiterjedt ókori piramisszövegekről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.21899,
+                        29.854432
+                  ]
+            },
+            {
+                  "name": "Szakkarai lépcsős piramis-komplexum",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található komplexum a Lépcsős piramisnak ad otthont, amelyet a legkorábbi egyiptomi kolosszális kőépületnek tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        31.217431,
+                        29.869984
+                  ]
+            },
+            {
+                  "name": "Dzsószer piramis",
+                  "text": "Ezt az eg-gz-saqqara-history-v2-ben található, műemlékvédelem alatt álló lépcsős piramist Imhotep építette Dzsószer fáraó számára.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216561,
+                        29.871214
+                  ]
+            },
+            {
+                  "name": "Pyramid of Teti",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található műemlék piramis a sírkamrájában található, jól megőrzött piramisszövegekről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.221755,
+                        29.875165
+                  ]
+            },
+            {
+                  "name": "Pyramid of Nyuserre",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található, világörökségi védelem alatt álló romos piramiskomplexum az abuszíri nekropoliszban található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203631,
+                        29.895543
+                  ]
+            },
+            {
+                  "name": "Sun Temple of Userkaf",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található, világörökségi védelem alatt álló ókori naptemplom, amelyet Uszerkaf, az 5. dinasztia alapítója építtetett.",
+                  "category": "landmark",
+                  "coords": [
+                        31.199171,
+                        29.90005
+                  ]
+            },
+            {
+                  "name": "Unfinished Pyramid of Neferefe",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található, világörökségi befejezetlen piramis egy halotti templom maradványait és ősi papiruszarchívumokat rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.201695,
+                        29.893711
+                  ]
+            },
+            {
+                  "name": "Sun Temple of Niuserre",
+                  "text": "Ez az Abu Gorab néven is ismert, eg-gz-saqqara-history-v2-ben található világörökségi helyszín egy hatalmas napobeliszk maradványait rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19408,
+                        29.90402
+                  ]
+            },
+            {
+                  "name": "Mastabat al-Fir’aun",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található világörökségi helyszín Sepszeszkaf nagy, téglalap alakú sírja, amely piramis helyett egy óriási masztabát formáz.",
+                  "category": "landmark",
+                  "coords": [
+                        31.215276,
+                        29.838938
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi II",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található világörökségi komplexum II. Pepi piramisát veszi körül, aki a történelem egyik leghosszabb ideig uralkodó fáraója volt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213515,
+                        29.840289
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djedkare-Isesi",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található, a késő 5. dinasztia idején épült világörökségi piramis a helyiek körében „Az Őrszem” néven is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        31.220947,
+                        29.850964
+                  ]
+            },
+            {
+                  "name": "Unasz piramis",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található műemlék piramis arról híres, hogy a piramisszövegek legkorábbi ismert példányait tartalmazza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.214935,
+                        29.868188
+                  ]
+            },
+            {
+                  "name": "Buried Pyramid",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található, befejezetlen világörökségi lépcsőspiramis-komplexum Szehemhet fáraó számára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213649,
+                        29.866153
+                  ]
+            },
+            {
+                  "name": "Userkaf piramisa",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található műemlék piramis a jelenlegi, törmelékre emlékeztető kinézete miatt a helyiek körében „Romos piramis” néven ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        31.218881,
+                        29.87342
+                  ]
+            },
+            {
+                  "name": "Mastaba of Ti",
+                  "text": "Ezt az eg-gz-saqqara-history-v2-ben található, gazdagon díszített ókori sírt az Óbirodalom mindennapi életét ábrázoló részletes domborművei teszik híressé.",
+                  "category": "landmark",
+                  "coords": [
+                        31.211919,
+                        29.877586
+                  ]
+            },
+            {
+                  "name": "Headless Pyramid",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található romos piramisépítmény, amely a feltételezések szerint Menkauhór fáraóhoz tartozott.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222926,
+                        29.875564
+                  ]
+            },
+            {
+                  "name": "Pyramid of Neferirkare",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található világörökségi piramis az abuszíri nekropolisz legmagasabb építménye, amely eredetileg lépcsős piramisnak épült, majd később kibővítették.",
+                  "category": "landmark",
+                  "coords": [
+                        31.202429,
+                        29.894971
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sahure",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található világörökségi piramiskomplexum határozta meg a későbbi óbirodalmi királysírok standard alaprajzát.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203393,
+                        29.897536
+                  ]
+            },
+            {
+                  "name": "Abu Sir",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található régészeti lelőhely egy kiterjedt óbirodalmi nekropolisz, amely az 5. dinasztia piramisainak és naptemplomainak koncentrációjáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        31.209867,
+                        29.883192
+                  ]
+            },
+            {
+                  "name": "Sacred Animal Necropolis Site",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található régészeti lelőhely hatalmas földalatti katakombák hálózata, amely több millió szent állat mumifikált maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        31.215302,
+                        29.881742
+                  ]
+            },
+            {
+                  "name": "Imhotep Museum",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található múzeum a szakkarai nekropoliszból származó leleteket, köztük ókori szobrokat, múmiákat és fakoporsókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        31.224846,
+                        29.869834
+                  ]
+            },
+            {
+                  "name": "Abu Girab",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található romterület az egyiptomi napisten, Ré tiszteletére épült ősi naptemplomok maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        31.198183,
+                        29.903088
+                  ]
+            },
+            {
+                  "name": "Filozófusok köre",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található világörökségi régészeti lelőhely a Szerapeum hellénisztikus kiegészítése, amely neves görög filozófusok és költők szobrait vonultatja fel.",
+                  "category": "historical",
+                  "coords": [
+                        31.212533,
+                        29.874829
+                  ]
+            },
+            {
+                  "name": "Ahramat Abu Sir",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található régészeti lelőhely az Óbirodalom lépcsős piramisainak egy csoportját foglalja magában, amelyeket kőrablók súlyosan megrongáltak.",
+                  "category": "historical",
+                  "coords": [
+                        31.205526,
+                        29.896093
+                  ]
+            },
+            {
+                  "name": "Deir Apa Jeremiah",
+                  "text": "Ezek az eg-gz-saqqara-history-v2-ben található romok egy kiterjedt ősi kopt kolostorhoz tartoznak, amely a régebbi fáraókori sírok közé épült.",
+                  "category": "historical",
+                  "coords": [
+                        31.219343,
+                        29.866415
+                  ]
+            },
+            {
+                  "name": "Mastaba of Nikauisesi",
+                  "text": "Ez az eg-gz-saqqara-history-v2-ben található romos építmény egy Nikauisesi nevű fontos ókori egyiptomi tisztviselő sírja.",
+                  "category": "historical",
+                  "coords": [
+                        31.22138,
+                        29.876203
+                  ]
+            },
+            {
+                  "name": "Pillared courtyard",
+                  "text": "Régészeti lelőhely a szakkarai régióban, amely egy ókori oszlopos udvar maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        31.204372,
+                        29.897602
+                  ]
+            },
+            {
+                  "name": "South Saqqara",
+                  "text": "Kiterjedt régészeti terület a szakkarai nekropolisz déli részén, amely számos ókori sírépítményt foglal magába.",
+                  "category": "historical",
+                  "coords": [
+                        31.214811,
+                        29.840063
+                  ]
+            },
+            {
+                  "name": "Mastaba of Meruduka",
+                  "text": "Örökségvédelem alatt álló ókori masztaba sírkomplexum Szakkarában, amely rendkívül részletes fali domborműveiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216662,
+                        29.883305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Unfinished Pyramid of Abusir",
+                  "text": "Această structură de piramidă neterminată din eg-gz-saqqara-history-v2 este un monument antic fascinant al necropolei de la Abusir.",
+                  "category": "historical",
+                  "coords": [
+                        31.20167,
+                        29.89861
+                  ]
+            },
+            {
+                  "name": "Qakare Ibi",
+                  "text": "Acest monument din eg-gz-saqqara-history-v2 este mica piramidă antică construită pentru faraonul Qakare Ibi.",
+                  "category": "historical",
+                  "coords": [
+                        31.21778,
+                        29.84167
+                  ]
+            },
+            {
+                  "name": "Bubasteion",
+                  "text": "Acest sit arheologic din eg-gz-saqqara-history-v2 cuprinde un complex de temple dedicat zeiței pisică Bastet.",
+                  "category": "historical",
+                  "coords": [
+                        31.223981,
+                        29.873527
+                  ]
+            },
+            {
+                  "name": "Gisr el-Mudir",
+                  "text": "Acest sit arheologic din eg-gz-saqqara-history-v2, cunoscut sub numele de Marea Incintă, este una dintre cele mai vechi structuri de piatră din Egipt.",
+                  "category": "historical",
+                  "coords": [
+                        31.20615,
+                        29.866834
+                  ]
+            },
+            {
+                  "name": "Serapeum",
+                  "text": "Acest sit arheologic din eg-gz-saqqara-history-v2 cuprinde galerii subterane cu sarcofage masive de granit ale taurilor sacri Apis.",
+                  "category": "historical",
+                  "coords": [
+                        31.209575,
+                        29.875944
+                  ]
+            },
+            {
+                  "name": "Tombs of 3rd Dynasty",
+                  "text": "Această atracție de patrimoniu din eg-gz-saqqara-history-v2 cuprinde morminte antice aparținând celei de-a III-a Dinastii a Egiptului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213285,
+                        29.87682
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi I",
+                  "text": "Această piramidă de patrimoniu din eg-gz-saqqara-history-v2 este renumită pentru textele extinse ale piramidelor antice sculptate pe pereții săi interiori.",
+                  "category": "landmark",
+                  "coords": [
+                        31.21899,
+                        29.854432
+                  ]
+            },
+            {
+                  "name": "Djoser Pyramid complex in Sakkara",
+                  "text": "Acest complex din eg-gz-saqqara-history-v2 găzduiește Piramida în trepte, considerată cea mai veche clădire colosală de piatră din Egipt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.217431,
+                        29.869984
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djoser",
+                  "text": "Această piramidă în trepte de patrimoniu din eg-gz-saqqara-history-v2 a fost construită de Imhotep pentru faraonul Djoser.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216561,
+                        29.871214
+                  ]
+            },
+            {
+                  "name": "Pyramid of Teti",
+                  "text": "Această piramidă de patrimoniu din eg-gz-saqqara-history-v2 este cunoscută pentru textele piramidelor bine conservate din interiorul camerei sale funerare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.221755,
+                        29.875165
+                  ]
+            },
+            {
+                  "name": "Pyramid of Nyuserre",
+                  "text": "Această atracție de patrimoniu din eg-gz-saqqara-history-v2 este un complex de piramide în ruină situat în necropola Abusir.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203631,
+                        29.895543
+                  ]
+            },
+            {
+                  "name": "Sun Temple of Userkaf",
+                  "text": "Acest antic templu solar de patrimoniu din eg-gz-saqqara-history-v2 a fost construit de Userkaf, fondatorul celei de-a 5-a Dinastii.",
+                  "category": "landmark",
+                  "coords": [
+                        31.199171,
+                        29.90005
+                  ]
+            },
+            {
+                  "name": "Unfinished Pyramid of Neferefe",
+                  "text": "Această piramidă neterminată de patrimoniu din eg-gz-saqqara-history-v2 conține rămășițele unui templu funerar și arhive vechi de papirus.",
+                  "category": "landmark",
+                  "coords": [
+                        31.201695,
+                        29.893711
+                  ]
+            },
+            {
+                  "name": "Sun Temple of Niuserre",
+                  "text": "Cunoscut și sub numele de Abu Gorab, acest sit de patrimoniu din eg-gz-saqqara-history-v2 prezintă rămășițele unui obelisc solar masiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19408,
+                        29.90402
+                  ]
+            },
+            {
+                  "name": "Mastabat al-Fir’aun",
+                  "text": "Această atracție de patrimoniu din eg-gz-saqqara-history-v2 este mormântul mare și dreptunghiular al lui Shepseskaf, având forma unei mastabe uriașe, nu a unei piramide.",
+                  "category": "landmark",
+                  "coords": [
+                        31.215276,
+                        29.838938
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi II",
+                  "text": "Acest complex de patrimoniu din eg-gz-saqqara-history-v2 înconjoară piramida lui Pepi al II-lea, cunoscut pentru a fi unul dintre faraonii cu cea mai lungă domnie.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213515,
+                        29.840289
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djedkare-Isesi",
+                  "text": "Această piramidă de patrimoniu din eg-gz-saqqara-history-v2, construită în perioada târzie a celei de-a V-a Dinastii, este cunoscută local sub numele de „Santinela”.",
+                  "category": "landmark",
+                  "coords": [
+                        31.220947,
+                        29.850964
+                  ]
+            },
+            {
+                  "name": "Pyramid of Unas",
+                  "text": "Această piramidă de patrimoniu din eg-gz-saqqara-history-v2 este faimoasă pentru că găzduiește cele mai vechi exemple cunoscute de texte ale piramidelor.",
+                  "category": "landmark",
+                  "coords": [
+                        31.214935,
+                        29.868188
+                  ]
+            },
+            {
+                  "name": "Buried Pyramid",
+                  "text": "Acest complex neterminat de piramide în trepte de patrimoniu din eg-gz-saqqara-history-v2 a fost construit pentru faraonul Sekhemkhet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213649,
+                        29.866153
+                  ]
+            },
+            {
+                  "name": "Pyramid of Userkaf",
+                  "text": "Această piramidă de patrimoniu din eg-gz-saqqara-history-v2 este cunoscută local sub numele de „Piramida Ruinată” din cauza aspectului său actual de moloz.",
+                  "category": "landmark",
+                  "coords": [
+                        31.218881,
+                        29.87342
+                  ]
+            },
+            {
+                  "name": "Mastaba of Ti",
+                  "text": "Acest mormânt antic extrem de decorat din eg-gz-saqqara-history-v2 este celebrat pentru reliefurile sale detaliate despre viața de zi cu zi în Vechiul Regat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.211919,
+                        29.877586
+                  ]
+            },
+            {
+                  "name": "Headless Pyramid",
+                  "text": "Această structură de piramidă ruinată din eg-gz-saqqara-history-v2 este considerată pe scară largă a fi aparținut faraonului Menkauhor.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222926,
+                        29.875564
+                  ]
+            },
+            {
+                  "name": "Pyramid of Neferirkare",
+                  "text": "Această piramidă de patrimoniu din eg-gz-saqqara-history-v2 este cea mai înaltă din necropola Abusir, fiind construită inițial ca piramidă în trepte și extinsă ulterior.",
+                  "category": "landmark",
+                  "coords": [
+                        31.202429,
+                        29.894971
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sahure",
+                  "text": "Acest complex de piramide de patrimoniu din eg-gz-saqqara-history-v2 a stabilit aspectul standard pentru mormintele regale ulterioare din Vechiul Regat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203393,
+                        29.897536
+                  ]
+            },
+            {
+                  "name": "Abu Sir",
+                  "text": "Acest sit arheologic din eg-gz-saqqara-history-v2 este o necropolă extinsă a Vechiului Regat, cunoscută pentru concentrația sa de piramide și temple solare din a 5-a Dinastie.",
+                  "category": "historical",
+                  "coords": [
+                        31.209867,
+                        29.883192
+                  ]
+            },
+            {
+                  "name": "Sacred Animal Necropolis Site",
+                  "text": "Acest sit arheologic din eg-gz-saqqara-history-v2 este un complex masiv de catacombe subterane care conține rămășițele mumificate a milioane de animale sacre.",
+                  "category": "historical",
+                  "coords": [
+                        31.215302,
+                        29.881742
+                  ]
+            },
+            {
+                  "name": "Imhotep Museum",
+                  "text": "Acest muzeu din eg-gz-saqqara-history-v2 expune descoperiri din necropola Saqqara, inclusiv statui antice, mumii și sicrie din lemn.",
+                  "category": "museum",
+                  "coords": [
+                        31.224846,
+                        29.869834
+                  ]
+            },
+            {
+                  "name": "Abu Girab",
+                  "text": "Aceste ruine din eg-gz-saqqara-history-v2 conțin rămășițele templelor solare antice construite pentru venerarea zeului soare egiptean Ra.",
+                  "category": "historical",
+                  "coords": [
+                        31.198183,
+                        29.903088
+                  ]
+            },
+            {
+                  "name": "Philosopher's Circle",
+                  "text": "Acest sit arheologic de patrimoniu din eg-gz-saqqara-history-v2 este o adăugire elenistică la Serapeum, prezentând statui ale unor filozofi și poeți greci proeminenți.",
+                  "category": "historical",
+                  "coords": [
+                        31.212533,
+                        29.874829
+                  ]
+            },
+            {
+                  "name": "Ahramat Abu Sir",
+                  "text": "Acest sit arheologic din eg-gz-saqqara-history-v2 conține un grup de piramide în trepte din Vechiul Regat, grav deteriorate de hoții de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        31.205526,
+                        29.896093
+                  ]
+            },
+            {
+                  "name": "Deir Apa Jeremiah",
+                  "text": "Aceste ruine din eg-gz-saqqara-history-v2 reprezintă un fost monastir coptic antic extins, construit în mijlocul mormintelor faraonice mai vechi.",
+                  "category": "historical",
+                  "coords": [
+                        31.219343,
+                        29.866415
+                  ]
+            },
+            {
+                  "name": "Mastaba of Nikauisesi",
+                  "text": "Această structură funerară în ruină din eg-gz-saqqara-history-v2 a aparținut unui important oficial antic egiptean pe nume Nikauisesi.",
+                  "category": "historical",
+                  "coords": [
+                        31.22138,
+                        29.876203
+                  ]
+            },
+            {
+                  "name": "Pillared courtyard",
+                  "text": "Un sit arheologic care prezintă rămășițele unei curți antice cu stâlpi în regiunea Saqqara.",
+                  "category": "historical",
+                  "coords": [
+                        31.204372,
+                        29.897602
+                  ]
+            },
+            {
+                  "name": "South Saqqara",
+                  "text": "O zonă arheologică extinsă care cuprinde mai multe structuri funerare antice în partea de sud a necropolei Saqqara.",
+                  "category": "historical",
+                  "coords": [
+                        31.214811,
+                        29.840063
+                  ]
+            },
+            {
+                  "name": "Mastaba of Meruduka",
+                  "text": "Un complex antic de morminte mastaba din Saqqara, clasat ca patrimoniu, faimos pentru reliefurile sale de perete foarte detaliate.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216662,
+                        29.883305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Unfinished Pyramid of Abusir",
+                  "text": "This incomplete pyramid structure in eg-gz-saqqara-history-v2 is a fascinating ancient monument within the Abusir necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        31.20167,
+                        29.89861
+                  ]
+            },
+            {
+                  "name": "Qakare Ibi",
+                  "text": "This monument in eg-gz-saqqara-history-v2 is the small ancient pyramid built for the pharaoh Qakare Ibi.",
+                  "category": "historical",
+                  "coords": [
+                        31.21778,
+                        29.84167
+                  ]
+            },
+            {
+                  "name": "Bubasteion",
+                  "text": "This archaeological site in eg-gz-saqqara-history-v2 features an ancient temple complex dedicated to the cat goddess Bastet.",
+                  "category": "historical",
+                  "coords": [
+                        31.223981,
+                        29.873527
+                  ]
+            },
+            {
+                  "name": "Gisr el-Mudir",
+                  "text": "Known as the Great Enclosure, this archaeological site in eg-gz-saqqara-history-v2 is one of the oldest known stone structures in Egypt.",
+                  "category": "historical",
+                  "coords": [
+                        31.20615,
+                        29.866834
+                  ]
+            },
+            {
+                  "name": "Serapeum",
+                  "text": "This archaeological site in eg-gz-saqqara-history-v2 features subterranean galleries housing the massive granite sarcophagi of the sacred Apis bulls.",
+                  "category": "historical",
+                  "coords": [
+                        31.209575,
+                        29.875944
+                  ]
+            },
+            {
+                  "name": "Tombs of 3rd Dynasty",
+                  "text": "This heritage-listed attraction in eg-gz-saqqara-history-v2 comprises ancient burial sites belonging to the 3rd Dynasty of Egypt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213285,
+                        29.87682
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi I",
+                  "text": "This heritage-listed pyramid in eg-gz-saqqara-history-v2 is famous for the extensive ancient Pyramid Texts carved on its interior walls.",
+                  "category": "landmark",
+                  "coords": [
+                        31.21899,
+                        29.854432
+                  ]
+            },
+            {
+                  "name": "Djoser Pyramid complex in Sakkara",
+                  "text": "This complex in eg-gz-saqqara-history-v2 features the Step Pyramid, widely considered the earliest colossal stone building in Egypt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.217431,
+                        29.869984
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djoser",
+                  "text": "This heritage-listed stepped pyramid in eg-gz-saqqara-history-v2 was built by the architect Imhotep for Pharaoh Djoser.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216561,
+                        29.871214
+                  ]
+            },
+            {
+                  "name": "Pyramid of Teti",
+                  "text": "This heritage-listed pyramid in eg-gz-saqqara-history-v2 is known for the well-preserved Pyramid Texts inside its burial chamber.",
+                  "category": "landmark",
+                  "coords": [
+                        31.221755,
+                        29.875165
+                  ]
+            },
+            {
+                  "name": "Pyramid of Nyuserre",
+                  "text": "This heritage-listed ruined pyramid complex in eg-gz-saqqara-history-v2 is situated within the Abusir necropolis.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203631,
+                        29.895543
+                  ]
+            },
+            {
+                  "name": "Sun Temple of Userkaf",
+                  "text": "This heritage-listed ancient solar temple in eg-gz-saqqara-history-v2 was built by Userkaf, the founder of the 5th Dynasty.",
+                  "category": "landmark",
+                  "coords": [
+                        31.199171,
+                        29.90005
+                  ]
+            },
+            {
+                  "name": "Unfinished Pyramid of Neferefe",
+                  "text": "This heritage-listed unfinished pyramid in eg-gz-saqqara-history-v2 contains the remnants of a mortuary temple and ancient papyrus archives.",
+                  "category": "landmark",
+                  "coords": [
+                        31.201695,
+                        29.893711
+                  ]
+            },
+            {
+                  "name": "Sun Temple of Niuserre",
+                  "text": "Also known as Abu Gorab, this heritage-listed site in eg-gz-saqqara-history-v2 features the remains of a massive ancient solar obelisk.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19408,
+                        29.90402
+                  ]
+            },
+            {
+                  "name": "Mastabat al-Fir’aun",
+                  "text": "This heritage-listed attraction in eg-gz-saqqara-history-v2 is the large, rectangular tomb of Shepseskaf, shaped like a giant mastaba rather than a pyramid.",
+                  "category": "landmark",
+                  "coords": [
+                        31.215276,
+                        29.838938
+                  ]
+            },
+            {
+                  "name": "Pyramid of Pepi II",
+                  "text": "This heritage-listed complex in eg-gz-saqqara-history-v2 surrounds the pyramid of Pepi II, known for being one of the longest-reigning pharaohs.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213515,
+                        29.840289
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djedkare-Isesi",
+                  "text": "This heritage-listed pyramid in eg-gz-saqqara-history-v2, built during the late Fifth Dynasty, is locally known as \"The Sentinel\".",
+                  "category": "landmark",
+                  "coords": [
+                        31.220947,
+                        29.850964
+                  ]
+            },
+            {
+                  "name": "Pyramid of Unas",
+                  "text": "This heritage-listed pyramid in eg-gz-saqqara-history-v2 is famous for containing the earliest known examples of the Pyramid Texts.",
+                  "category": "landmark",
+                  "coords": [
+                        31.214935,
+                        29.868188
+                  ]
+            },
+            {
+                  "name": "Buried Pyramid",
+                  "text": "This unfinished heritage-listed step pyramid complex in eg-gz-saqqara-history-v2 was built for the pharaoh Sekhemkhet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.213649,
+                        29.866153
+                  ]
+            },
+            {
+                  "name": "Pyramid of Userkaf",
+                  "text": "This heritage-listed pyramid in eg-gz-saqqara-history-v2 is known locally as the \"Ruined Pyramid\" due to its current rubble-like appearance.",
+                  "category": "landmark",
+                  "coords": [
+                        31.218881,
+                        29.87342
+                  ]
+            },
+            {
+                  "name": "Mastaba of Ti",
+                  "text": "This highly decorated ancient tomb in eg-gz-saqqara-history-v2 is celebrated for its detailed reliefs depicting daily life in the Old Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        31.211919,
+                        29.877586
+                  ]
+            },
+            {
+                  "name": "Headless Pyramid",
+                  "text": "This ruined pyramid structure in eg-gz-saqqara-history-v2 is widely believed to have belonged to the pharaoh Menkauhor.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222926,
+                        29.875564
+                  ]
+            },
+            {
+                  "name": "Pyramid of Neferirkare",
+                  "text": "This heritage-listed pyramid in eg-gz-saqqara-history-v2 is the tallest in the Abusir necropolis, originally built as a step pyramid and later expanded.",
+                  "category": "landmark",
+                  "coords": [
+                        31.202429,
+                        29.894971
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sahure",
+                  "text": "This heritage-listed pyramid complex in eg-gz-saqqara-history-v2 established the standard layout for subsequent Old Kingdom royal tombs.",
+                  "category": "landmark",
+                  "coords": [
+                        31.203393,
+                        29.897536
+                  ]
+            },
+            {
+                  "name": "Abu Sir",
+                  "text": "This archaeological site in eg-gz-saqqara-history-v2 is an extensive Old Kingdom necropolis known for its concentration of 5th Dynasty pyramids and sun temples.",
+                  "category": "historical",
+                  "coords": [
+                        31.209867,
+                        29.883192
+                  ]
+            },
+            {
+                  "name": "Sacred Animal Necropolis Site",
+                  "text": "This archaeological site in eg-gz-saqqara-history-v2 is a massive complex of subterranean catacombs containing mummified remains of millions of sacred animals.",
+                  "category": "historical",
+                  "coords": [
+                        31.215302,
+                        29.881742
+                  ]
+            },
+            {
+                  "name": "Imhotep Museum",
+                  "text": "This museum in eg-gz-saqqara-history-v2 showcases significant discoveries from the Saqqara necropolis, including ancient statues, mummies, and wooden coffins.",
+                  "category": "museum",
+                  "coords": [
+                        31.224846,
+                        29.869834
+                  ]
+            },
+            {
+                  "name": "Abu Girab",
+                  "text": "These ruins in eg-gz-saqqara-history-v2 contain the remnants of ancient solar temples built to venerate the Egyptian sun god Ra.",
+                  "category": "historical",
+                  "coords": [
+                        31.198183,
+                        29.903088
+                  ]
+            },
+            {
+                  "name": "Philosopher's Circle",
+                  "text": "This heritage-listed archaeological site in eg-gz-saqqara-history-v2 is a Hellenistic addition to the Serapeum featuring statues of prominent Greek philosophers and poets.",
+                  "category": "historical",
+                  "coords": [
+                        31.212533,
+                        29.874829
+                  ]
+            },
+            {
+                  "name": "Ahramat Abu Sir",
+                  "text": "This archaeological site in eg-gz-saqqara-history-v2 contains a group of Old Kingdom step pyramids heavily damaged by historical stone robbers.",
+                  "category": "historical",
+                  "coords": [
+                        31.205526,
+                        29.896093
+                  ]
+            },
+            {
+                  "name": "Deir Apa Jeremiah",
+                  "text": "These ruins in eg-gz-saqqara-history-v2 are the remains of an expansive ancient Coptic monastery built amidst the older pharaonic tombs.",
+                  "category": "historical",
+                  "coords": [
+                        31.219343,
+                        29.866415
+                  ]
+            },
+            {
+                  "name": "Mastaba of Nikauisesi",
+                  "text": "This ruined tomb structure in eg-gz-saqqara-history-v2 belonged to an important ancient Egyptian official named Nikauisesi.",
+                  "category": "historical",
+                  "coords": [
+                        31.22138,
+                        29.876203
+                  ]
+            },
+            {
+                  "name": "Pillared courtyard",
+                  "text": "An archaeological site featuring the remains of an ancient pillared courtyard in the Saqqara region.",
+                  "category": "historical",
+                  "coords": [
+                        31.204372,
+                        29.897602
+                  ]
+            },
+            {
+                  "name": "South Saqqara",
+                  "text": "An extensive archaeological area comprising several ancient burial structures in the southern part of the Saqqara necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        31.214811,
+                        29.840063
+                  ]
+            },
+            {
+                  "name": "Mastaba of Meruduka",
+                  "text": "A heritage-listed ancient mastaba tomb complex in Saqqara, famous for its highly detailed wall reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        31.216662,
+                        29.883305
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-GZ",
     coords: [31.2165, 29.8712],
@@ -353,7 +4070,160 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Le plus ancien édifice colossal en pierre d'Égypte, qui a marqué le début de l'évolution de l'architecture pyramidale.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-gz-djoser-history-v2.webp"},
   {
-    id: "eg-cai-memphis-history-v2",
+    id: "eg-cai-memphis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "SAK S 3",
+                  "text": "Eine antike monumentale Grabstruktur, die sich im weiteren archäologischen Gebiet von Memphis befindet.",
+                  "category": "historical",
+                  "coords": [
+                        31.223775,
+                        29.833972
+                  ]
+            },
+            {
+                  "name": "Memphis",
+                  "text": "Die denkmalgeschützten archäologischen Überreste der von Menes gegründeten antiken ägyptischen Hauptstadt Inebu-Hedj.",
+                  "category": "historical",
+                  "coords": [
+                        31.2585,
+                        29.854191
+                  ]
+            },
+            {
+                  "name": "Mit Rahina Museum",
+                  "text": "Ein Freilichtmuseum in Memphis, dessen Herzstück eine gewaltige Kolossalstatue Ramses' II. aus Kalkstein ist.",
+                  "category": "museum",
+                  "coords": [
+                        31.255224,
+                        29.849488
+                  ]
+            },
+            {
+                  "name": "Helwan necropolis",
+                  "text": "Eine riesige antike archäologische Stätte in der Wüste mit Tausenden von Gräbern aus der frühdynastischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        31.295579,
+                        29.883675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SAK S 3",
+                  "text": "Egy ókori monumentális sírépítmény a memphiszi régészeti terület tágabb környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        31.223775,
+                        29.833972
+                  ]
+            },
+            {
+                  "name": "Memphis",
+                  "text": "A Ménész által alapított Inebu-hedzs ókori egyiptomi főváros örökségvédelem alatt álló régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        31.2585,
+                        29.854191
+                  ]
+            },
+            {
+                  "name": "Mit Rahina Museum",
+                  "text": "Szabadtéri múzeum Memphiszben, amelynek legfőbb látványossága II. Ramszesz hatalmas mészkő kolosszusa.",
+                  "category": "museum",
+                  "coords": [
+                        31.255224,
+                        29.849488
+                  ]
+            },
+            {
+                  "name": "Helwan necropolis",
+                  "text": "Hatalmas ókori régészeti lelőhely a sivatagban, amely a korai dinasztikus korszakból származó több ezer sírt rejt.",
+                  "category": "historical",
+                  "coords": [
+                        31.295579,
+                        29.883675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SAK S 3",
+                  "text": "O structură monumentală de mormânt antică situată în zona arheologică mai largă din Memphis.",
+                  "category": "historical",
+                  "coords": [
+                        31.223775,
+                        29.833972
+                  ]
+            },
+            {
+                  "name": "Memphis",
+                  "text": "Rămășițele arheologice clasate ca patrimoniu ale vechii capitale egiptene Inebu-hedj, fondată de Menes.",
+                  "category": "historical",
+                  "coords": [
+                        31.2585,
+                        29.854191
+                  ]
+            },
+            {
+                  "name": "Mit Rahina Museum",
+                  "text": "Un muzeu în aer liber din Memphis care prezintă o statuie colosală masivă de calcar a lui Ramses al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        31.255224,
+                        29.849488
+                  ]
+            },
+            {
+                  "name": "Helwan necropolis",
+                  "text": "Un vast sit arheologic antic în deșert care conține mii de morminte din perioada dinastică timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        31.295579,
+                        29.883675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SAK S 3",
+                  "text": "An ancient monumental tomb structure located within the broader archaeological area of Memphis.",
+                  "category": "historical",
+                  "coords": [
+                        31.223775,
+                        29.833972
+                  ]
+            },
+            {
+                  "name": "Memphis",
+                  "text": "The heritage-listed archaeological remains of the ancient Egyptian capital of Inebu-hedj, founded by Menes.",
+                  "category": "historical",
+                  "coords": [
+                        31.2585,
+                        29.854191
+                  ]
+            },
+            {
+                  "name": "Mit Rahina Museum",
+                  "text": "An open-air museum in Memphis that prominently features a massive colossal limestone statue of Ramesses II.",
+                  "category": "museum",
+                  "coords": [
+                        31.255224,
+                        29.849488
+                  ]
+            },
+            {
+                  "name": "Helwan necropolis",
+                  "text": "A vast ancient archaeological site in the desert containing thousands of tombs from the Early Dynastic Period.",
+                  "category": "historical",
+                  "coords": [
+                        31.295579,
+                        29.883675
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-C",
     coords: [31.2536, 29.8499],
@@ -388,7 +4258,376 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["L'ancienne capitale d'Aneb-Hetch, le premier nome de la Basse-Égypte, et de l'Ancien Empire d'Égypte.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-cai-memphis-history-v2.webp"},
   {
-    id: "eg-lxr-memnon-history-v2",
+    id: "eg-lxr-memnon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Birket Habu",
+                  "text": "Diese riesige archäologische Stätte offenbart die monumentalen Erdarbeiten eines massiven künstlichen Hafens und Sees, die während der Regierungszeit von Amenhotep III. ausgehoben wurden.",
+                  "category": "historical",
+                  "coords": [
+                        32.594607,
+                        25.705305
+                  ]
+            },
+            {
+                  "name": "Thebanische Nekropole",
+                  "text": "Diese archäologische UNESCO-Welterbestätte erstreckt sich über das Westufer des Nils und birgt eine unglaubliche Dichte an Totentempeln und in den Fels gehauenen Königsgräbern.",
+                  "category": "historical",
+                  "coords": [
+                        32.602632,
+                        25.713029
+                  ]
+            },
+            {
+                  "name": "LX_SW_P002_MUSEUM001",
+                  "text": "Dieses örtliche Museum und Attraktion zeigt die traditionellen Methoden zur Herstellung von altägyptischem Papyrus neben handgemalten mythologischen Kunstwerken.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622008,
+                        25.715051
+                  ]
+            },
+            {
+                  "name": "Qasr el-Agoûz",
+                  "text": "Diese archäologische Stätte schützt einen kleinen, gut erhaltenen ptolemäischen Steintempel, der ursprünglich dem ibisköpfigen Gott Thot gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        32.600578,
+                        25.716966
+                  ]
+            },
+            {
+                  "name": "Temple of Amenhotep & Temple of Tuthmosis",
+                  "text": "Diese benachbarten archäologischen Ruinen bergen die verwitterten Fundamente und fragmentarischen Säulenbasen der angrenzenden Totentempel, die von Amenhotep und Thutmosis erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        32.603371,
+                        25.722323
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Amenhotep III",
+                  "text": "Heute weitgehend verfallen, mit Ausnahme der Memnonkolosse, war diese einst kolossale archäologische Stätte der größte Totentempelkomplex in der thebanischen Nekropole.",
+                  "category": "historical",
+                  "coords": [
+                        32.608578,
+                        25.721539
+                  ]
+            },
+            {
+                  "name": "Memnonkolosse",
+                  "text": "Diese spektakuläre Attraktion besteht aus zwei massiven Steinstatuen des Pharaos Amenhotep III., die achtzehn Meter hoch am Eingang zu seinem zerstörten Totentempel stehen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610441,
+                        25.720498
+                  ]
+            },
+            {
+                  "name": "Madinet Habu",
+                  "text": "Diese als Freilichtmuseum dienende Stätte zeigt die tief eingeschnittenen Schlachtenreliefs und die gut erhaltenen bemalten Säulen des Totentempels von Ramses III.",
+                  "category": "museum",
+                  "coords": [
+                        32.602052,
+                        25.71747
+                  ]
+            },
+            {
+                  "name": "Totentempel des Ramses III.",
+                  "text": "Diese riesige Attraktion besticht durch den tadellos erhaltenen Totentempel von Ramses III., der von massiven Lehmziegelmauern und einem markanten befestigten Torhaus im syrischen Stil umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.600985,
+                        25.7197
+                  ]
+            },
+            {
+                  "name": "Temple of Tutankhamen, Ay and Horemheb",
+                  "text": "Diese archäologische Stätte zeichnet die Fundamente eines Totentempels nach, der ursprünglich von Tutanchamun begonnen und nacheinander von seinen Nachfolgern Eje und Haremhab erweitert und usurpiert wurde.",
+                  "category": "historical",
+                  "coords": [
+                        32.601662,
+                        25.721136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Birket Habu",
+                  "text": "Ez a hatalmas régészeti lelőhely egy III. Amenhotep uralkodása alatt kiásott hatalmas mesterséges kikötő és tó monumentális földmunkáit tárja elénk.",
+                  "category": "historical",
+                  "coords": [
+                        32.594607,
+                        25.705305
+                  ]
+            },
+            {
+                  "name": "Theban Necropolis",
+                  "text": "Ez az UNESCO Világörökség részét képező régészeti lelőhely a Nílus nyugati partján terül el, és hihetetlen sűrűségben tartalmaz halotti templomokat és sziklába vájt királyi sírokat.",
+                  "category": "historical",
+                  "coords": [
+                        32.602632,
+                        25.713029
+                  ]
+            },
+            {
+                  "name": "LX_SW_P002_MUSEUM001",
+                  "text": "Ez a helyi múzeum és látványosság az ókori egyiptomi papirusz készítésének hagyományos módszereit mutatja be a kézzel festett mitológiai alkotások mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622008,
+                        25.715051
+                  ]
+            },
+            {
+                  "name": "Qasr el-Agoûz",
+                  "text": "Ez a régészeti lelőhely egy kicsi, jól megőrzött ptolemaioszi kőtemplomot véd, amelyet eredetileg az íbiszfejű Thot istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.600578,
+                        25.716966
+                  ]
+            },
+            {
+                  "name": "Amenhotep és Tuthmosis templom",
+                  "text": "Ezek a szomszédos régészeti romok az Amenhotep és Thotmesz által épített, egymás melletti halotti templomok mállott alapjait és töredékes oszloptalpait rejtik.",
+                  "category": "historical",
+                  "coords": [
+                        32.603371,
+                        25.722323
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Amenhotep III",
+                  "text": "A ma már jórészt romos – a Memnón-kolosszusokat leszámítva – egykor hatalmas régészeti lelőhely a thébai nekropolisz legnagyobb halotti templomkomplexuma volt.",
+                  "category": "historical",
+                  "coords": [
+                        32.608578,
+                        25.721539
+                  ]
+            },
+            {
+                  "name": "Colossi of Memnon",
+                  "text": "Ez a látványos attrakció III. Amenhotep fáraó két hatalmas, tizennyolc méter magas kőszobrából áll, amelyek romos halotti templomának bejáratánál állnak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610441,
+                        25.720498
+                  ]
+            },
+            {
+                  "name": "Madinet Habu",
+                  "text": "A szabadtéri múzeumként működő helyszín III. Ramszesz halotti templomának mélyen bemetszett csatadomborműveit és megőrzött festett oszlopait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.602052,
+                        25.71747
+                  ]
+            },
+            {
+                  "name": "III. Ramses templom",
+                  "text": "Ez a hatalmas látványosság III. Ramszesz kifogástalanul megőrzött halotti templomát vonultatja fel, melyet masszív vályogtéglából épült falak és egy jellegzetes szíriai stílusú megerősített kapuépület vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        32.600985,
+                        25.7197
+                  ]
+            },
+            {
+                  "name": "Tutenkamon templom",
+                  "text": "Ez a régészeti lelőhely egy halotti templom alapjait őrzi, amelyet eredetileg Tutanhamon kezdett el építeni, majd utódai, Ay és Horemheb egymás után kibővítettek és kisajátítottak.",
+                  "category": "historical",
+                  "coords": [
+                        32.601662,
+                        25.721136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Birket Habu",
+                  "text": "Acest vast sit arheologic dezvăluie terasamentele monumentale ale unui port artificial și lac masiv, excavate în timpul domniei lui Amenhotep al III-lea.",
+                  "category": "historical",
+                  "coords": [
+                        32.594607,
+                        25.705305
+                  ]
+            },
+            {
+                  "name": "Theban Necropolis",
+                  "text": "Acest sit arheologic inclus în Patrimoniul Mondial UNESCO se întinde pe malul vestic al Nilului, conținând o densitate incredibilă de temple mortuare și morminte regale tăiate în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        32.602632,
+                        25.713029
+                  ]
+            },
+            {
+                  "name": "LX_SW_P002_MUSEUM001",
+                  "text": "Acest muzeu și atracție locală expune metodele tradiționale de creare a papirusului antic egiptean alături de opere de artă mitologice pictate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622008,
+                        25.715051
+                  ]
+            },
+            {
+                  "name": "Qasr el-Agoûz",
+                  "text": "Acest sit arheologic protejează un mic templu de piatră ptolemeic, bine conservat, dedicat inițial zeului cu cap de ibis Thoth.",
+                  "category": "historical",
+                  "coords": [
+                        32.600578,
+                        25.716966
+                  ]
+            },
+            {
+                  "name": "Temple of Amenhotep & Temple of Tuthmosis",
+                  "text": "Aceste ruine arheologice învecinate conțin fundațiile erodate și bazele fragmentare de coloane ale templelor mortuare adiacente construite de Amenhotep și Tuthmosis.",
+                  "category": "historical",
+                  "coords": [
+                        32.603371,
+                        25.722323
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Amenhotep III",
+                  "text": "Acum în mare parte în ruină, cu excepția Coloșilor lui Memnon, acest sit arheologic odinioară colosal a fost cel mai mare complex de temple mortuare din necropola tebană.",
+                  "category": "historical",
+                  "coords": [
+                        32.608578,
+                        25.721539
+                  ]
+            },
+            {
+                  "name": "Colossi of Memnon",
+                  "text": "Această atracție spectaculoasă constă din două statui masive de piatră ale faraonului Amenhotep al III-lea, înalte de optsprezece metri la intrarea în templul său mortuar ruinat.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610441,
+                        25.720498
+                  ]
+            },
+            {
+                  "name": "Madinet Habu",
+                  "text": "Funcționând ca un muzeu în aer liber, acest site prezintă reliefurile de luptă profund incizate și coloanele pictate conservate ale templului mortuar al lui Ramses al III-lea.",
+                  "category": "museum",
+                  "coords": [
+                        32.602052,
+                        25.71747
+                  ]
+            },
+            {
+                  "name": "Medinet Habu",
+                  "text": "Această atracție uriașă prezintă templul mortuar impecabil conservat al lui Ramses al III-lea, înconjurat de ziduri masive din cărămidă de noroi și de un turn de poartă fortificat distinctiv în stil sirian.",
+                  "category": "landmark",
+                  "coords": [
+                        32.600985,
+                        25.7197
+                  ]
+            },
+            {
+                  "name": "Temple of Tutankhamen, Ay and Horemheb",
+                  "text": "Acest sit arheologic urmărește fundațiile unui templu mortuar început inițial de Tutankhamon și extins și uzurpat secvențial de succesorii săi Ay și Horemheb.",
+                  "category": "historical",
+                  "coords": [
+                        32.601662,
+                        25.721136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Birket Habu",
+                  "text": "This vast archaeological site reveals the monumental earthworks of a massive artificial harbor and lake excavated during the reign of Amenhotep III.",
+                  "category": "historical",
+                  "coords": [
+                        32.594607,
+                        25.705305
+                  ]
+            },
+            {
+                  "name": "Theban Necropolis",
+                  "text": "This UNESCO World Heritage archaeological site spans the west bank of the Nile, containing an incredible density of mortuary temples and rock-cut royal tombs.",
+                  "category": "historical",
+                  "coords": [
+                        32.602632,
+                        25.713029
+                  ]
+            },
+            {
+                  "name": "Le Scarabe Papyrus Museum",
+                  "text": "This local museum and attraction exhibits the traditional methods of crafting ancient Egyptian papyrus alongside hand-painted mythological artwork.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622008,
+                        25.715051
+                  ]
+            },
+            {
+                  "name": "Qasr el-Agoûz",
+                  "text": "This archaeological site protects a small, well-preserved Ptolemaic stone temple originally dedicated to the ibis-headed god Thoth.",
+                  "category": "historical",
+                  "coords": [
+                        32.600578,
+                        25.716966
+                  ]
+            },
+            {
+                  "name": "Temple of Amenhotep & Temple of Tuthmosis",
+                  "text": "These neighboring archaeological ruins contain the weathered foundations and fragmentary column bases of the adjacent mortuary temples built by Amenhotep and Tuthmosis.",
+                  "category": "historical",
+                  "coords": [
+                        32.603371,
+                        25.722323
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Amenhotep III",
+                  "text": "Now largely ruined except for the Colossi of Memnon, this once-colossal archaeological site was the largest mortuary temple complex in the Theban necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        32.608578,
+                        25.721539
+                  ]
+            },
+            {
+                  "name": "Colossi of Memnon",
+                  "text": "This spectacular attraction consists of two massive stone statues of Pharaoh Amenhotep III, standing eighteen meters high at the entrance to his ruined mortuary temple.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610441,
+                        25.720498
+                  ]
+            },
+            {
+                  "name": "Madinet Habu",
+                  "text": "Acting as an open-air museum, this site showcases the deeply incised battle reliefs and preserved painted columns of Ramesses III's mortuary temple.",
+                  "category": "museum",
+                  "coords": [
+                        32.602052,
+                        25.71747
+                  ]
+            },
+            {
+                  "name": "Medinet Habu",
+                  "text": "This huge attraction features the impeccably preserved mortuary temple of Ramesses III, surrounded by massive mud-brick enclosure walls and a distinctive Syrian-style fortified gatehouse.",
+                  "category": "landmark",
+                  "coords": [
+                        32.600985,
+                        25.7197
+                  ]
+            },
+            {
+                  "name": "Temple of Tutankhamen, Ay and Horemheb",
+                  "text": "This archaeological site traces the foundations of a mortuary temple originally started by Tutankhamun and sequentially expanded and usurped by his successors Ay and Horemheb.",
+                  "category": "historical",
+                  "coords": [
+                        32.601662,
+                        25.721136
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-LX",
     coords: [32.6105, 25.7205],
@@ -423,7 +4662,700 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Construits vers 1350 av. J.-C. sous Aménophis III.", "Les statues pèsent environ 720 tonnes chacune.", "Le matériau est du quartzite provenant des environs du Caire (à 600 km).", "Le « chant » de la statue a commencé après un séisme en 27 av. J.-C.", "On trouve 107 inscriptions de l'époque romaine sur les jambes.", "Les statues mesurent environ 14 mètres sans socle et 18 mètres avec socle."],
     }, image: "/poi-images/eg-lxr-memnon-history-v2.webp"},
   {
-    id: "eg-lxr-valley-queens-history-v2",
+    id: "eg-lxr-valley-queens-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palace of Amenhotep 3",
+                  "text": "Die Ruinen des Palastes von Amenhotep III. am Westufer umfassten einst riesige königliche Residenzen aus Lehmziegeln.",
+                  "category": "historical",
+                  "coords": [
+                        32.591178,
+                        25.715341
+                  ]
+            },
+            {
+                  "name": "TT3 - Tomb of Pashedu",
+                  "text": "Das Grab TT3 des Paschedu, eines königlichen Handwerkers, ist berühmt für seine farbenfrohen Darstellungen altägyptischer Götter.",
+                  "category": "historical",
+                  "coords": [
+                        32.600426,
+                        25.728493
+                  ]
+            },
+            {
+                  "name": "Valley of the Three Pits",
+                  "text": "Das Tal der drei Gruben ist ein abgelegener Bereich der thebanischen Nekropole, der durch tiefe, schachtartige Felsformationen gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.596392,
+                        25.729382
+                  ]
+            },
+            {
+                  "name": "Dayr al-Rumi",
+                  "text": "Die archäologische Stätte Dayr al-Rumi birgt die faszinierenden Ruinen einer antiken Klosteranlage nahe dem Tal der Königinnen.",
+                  "category": "historical",
+                  "coords": [
+                        32.594634,
+                        25.728676
+                  ]
+            },
+            {
+                  "name": "Valley of Prince Ahmose",
+                  "text": "Das Tal des Prinzen Ahmose ist ein faszinierendes archäologisches Gebiet, das nach einer königlichen Figur aus dem frühen Neuen Reich benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593709,
+                        25.726868
+                  ]
+            },
+            {
+                  "name": "Shrine of Ptah Meretzeger",
+                  "text": "Diese archäologische Stätte umfasst einen in den Fels gehauenen Schrein, der der Göttin Meretseger und dem Gott Ptah gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.598314,
+                        25.72746
+                  ]
+            },
+            {
+                  "name": "West Chapels (I - VII)",
+                  "text": "Diese antiken archäologischen Kapellen sind in das felsige Gelände der westlichen thebanischen Nekropole gehauen.",
+                  "category": "historical",
+                  "coords": [
+                        32.599258,
+                        25.721285
+                  ]
+            },
+            {
+                  "name": "Deir El-Medineh",
+                  "text": "Diese Wüstenruinen zeichnen die Fundamente des antiken Dorfes nach, in dem einst die Handwerker der Königsgräber lebten und arbeiteten.",
+                  "category": "historical",
+                  "coords": [
+                        32.601368,
+                        25.72801
+                  ]
+            },
+            {
+                  "name": "Valley of the Rope",
+                  "text": "Diese Attraktion im Wüstenwadi ist bekannt für ihr raues, felsiges Gelände, das zu abgelegenen altägyptischen Grabstätten führt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593732,
+                        25.730515
+                  ]
+            },
+            {
+                  "name": "Wadi Sikkat Taqat Zayid",
+                  "text": "Diese archäologische Stätte befindet sich in einem trockenen Wüstenwadi der thebanischen Hügel und erforscht antike Pfade und Felsformationen.",
+                  "category": "historical",
+                  "coords": [
+                        32.581076,
+                        25.732599
+                  ]
+            },
+            {
+                  "name": "Wadi Jabbanat al Qurud",
+                  "text": "Diese archäologische Stätte liegt in einer abgelegenen Wüstenschlucht und ist historisch als Begräbnisstätte für königliche Haustiere und niedere Hofmitglieder bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        32.577252,
+                        25.733865
+                  ]
+            },
+            {
+                  "name": "Wadi al Gharbi",
+                  "text": "Dieses trockene archäologische Wadi befindet sich im westlichen Zweig der königlichen Nekropole und birgt die abgelegenen Gräber späterer Pharaonen des Neuen Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        32.571207,
+                        25.735267
+                  ]
+            },
+            {
+                  "name": "Kom el-Samak",
+                  "text": "Diese archäologischen Ruinen umfassen die Lehmziegelreste eines antiken Pavillons, der ursprünglich für die Jubiläumsfeste von Amenhotep III. erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        32.578946,
+                        25.697703
+                  ]
+            },
+            {
+                  "name": "Deir Tadrus el-Muharib",
+                  "text": "Diese historische koptische Kultstätte, die dem Heiligen Theodor dem Krieger gewidmet ist, verfügt über traditionelle Kuppeln und steht inmitten der Ruinen des Westufers.",
+                  "category": "religious",
+                  "coords": [
+                        32.589239,
+                        25.716794
+                  ]
+            },
+            {
+                  "name": "Tal der Königinnen",
+                  "text": "Diese ikonische Wüstenattraktion birgt die in den Fels gehauenen Gräber von Pharaonenfrauen und -prinzen, vor allem das spektakulär bemalte Grab der Königin Nefertari.",
+                  "category": "landmark",
+                  "coords": [
+                        32.59276,
+                        25.727803
+                  ]
+            },
+            {
+                  "name": "Temple d'Amon",
+                  "text": "Diese archäologische Stätte schützt die antiken Steinüberreste und Säulenbasen eines Heiligtums, das der höchsten ägyptischen Gottheit Amun gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.594573,
+                        25.718209
+                  ]
+            },
+            {
+                  "name": "Malqata",
+                  "text": "Die weitläufigen Lehmziegelruinen dieser archäologischen Stätte zeichnen den riesigen Palastkomplex des Pharaos Amenhotep III. und seiner großen königlichen Gemahlin Tiye nach.",
+                  "category": "historical",
+                  "coords": [
+                        32.592502,
+                        25.715783
+                  ]
+            },
+            {
+                  "name": "Deir el-Shelwit",
+                  "text": "Diese Ruinen umfassen einen kleinen, isolierten griechisch-römischen Tempel, der der Göttin Isis gewidmet ist und gut erhaltene Reliefs sowie einen markanten Propylon aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        32.578666,
+                        25.695115
+                  ]
+            },
+            {
+                  "name": "Kom el-'Abd",
+                  "text": "Diese archäologische Stätte besteht aus antiken Lehmziegelfundamenten und baulichen Überresten, die über den Wüstensand des Westufers verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        32.564233,
+                        25.692115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palace of Amenhotep 3",
+                  "text": "III. Amenhotep palotájának nyugati parti romjai egykor hatalmas, vályogtéglából épült királyi rezidenciákat foglaltak magukba.",
+                  "category": "historical",
+                  "coords": [
+                        32.591178,
+                        25.715341
+                  ]
+            },
+            {
+                  "name": "TT3 - Tomb of Pashedu",
+                  "text": "Pasedu királyi kézműves TT3-as sírja az ókori egyiptomi istenek élénk színű ábrázolásairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        32.600426,
+                        25.728493
+                  ]
+            },
+            {
+                  "name": "Valley of the Three Pits",
+                  "text": "A Három gödör völgye a thébai nekropolisz egyik eldugott része, amelyet mély, aknaszerű sziklaképződmények jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.596392,
+                        25.729382
+                  ]
+            },
+            {
+                  "name": "Dayr al-Rumi",
+                  "text": "A Dayr al-Rumi régészeti lelőhely egy ősi kolostorkomplexum lenyűgöző romjait rejti a Királynék völgye közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.594634,
+                        25.728676
+                  ]
+            },
+            {
+                  "name": "Valley of Prince Ahmose",
+                  "text": "Ahmesz herceg völgye egy lenyűgöző régészeti terület, amely az Újbirodalom elejéről származó egyik királyi alak nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593709,
+                        25.726868
+                  ]
+            },
+            {
+                  "name": "Shrine of Ptah Meretzeger",
+                  "text": "Ez a régészeti lelőhely egy sziklába vájt szentélyt foglal magába, amelyet Meretszeger istennőnek és Ptah istennek szenteltek az ókori munkásfalu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.598314,
+                        25.72746
+                  ]
+            },
+            {
+                  "name": "West Chapels (I - VII)",
+                  "text": "Ezeket az ősi régészeti kápolnákat a nyugati thébai nekropolisz sziklás terepébe vájták.",
+                  "category": "historical",
+                  "coords": [
+                        32.599258,
+                        25.721285
+                  ]
+            },
+            {
+                  "name": "Deir El-Medineh",
+                  "text": "Ezek a sivatagi romok annak az ősi falunak az alapjait mutatják be, ahol egykor a királyi sírok kézművesei éltek és dolgoztak.",
+                  "category": "historical",
+                  "coords": [
+                        32.601368,
+                        25.72801
+                  ]
+            },
+            {
+                  "name": "Valley of the Rope",
+                  "text": "Ez a sivatagi vádi látványosság a zord, sziklás terepéről ismert, amely eldugott ókori egyiptomi temetkezési helyekhez vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593732,
+                        25.730515
+                  ]
+            },
+            {
+                  "name": "Wadi Sikkat Taqat Zayid",
+                  "text": "Ez a régészeti lelőhely a thébai dombok egyik száraz sivatagi vádijában található, ahol ősi ösvényeket és sziklaalakzatokat fedezhetünk fel.",
+                  "category": "historical",
+                  "coords": [
+                        32.581076,
+                        25.732599
+                  ]
+            },
+            {
+                  "name": "Wadi Jabbanat al Qurud",
+                  "text": "A távoli sivatagi szurdokban található régészeti lelőhely történelmileg a királyi háziállatok és az udvar kisebb tagjainak temetkezési helyeként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        32.577252,
+                        25.733865
+                  ]
+            },
+            {
+                  "name": "Wadi al Gharbi",
+                  "text": "A királyi nekropolisz nyugati ágában található ez a száraz régészeti vádi, amely a későbbi Újbirodalom fáraóinak eldugott sírjait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        32.571207,
+                        25.735267
+                  ]
+            },
+            {
+                  "name": "Kom el-Samak",
+                  "text": "Ezek a régészeti romok egy ősi pavilon vályogtégla maradványait rejtik, amelyet eredetileg III. Amenhotep jubileumi ünnepségeire építettek.",
+                  "category": "historical",
+                  "coords": [
+                        32.578946,
+                        25.697703
+                  ]
+            },
+            {
+                  "name": "Deir Tadrus el-Muharib",
+                  "text": "Ez a Harcos Szent Tivadarnak szentelt történelmi kopt istentiszteleti hely hagyományos kupolákkal büszkélkedhet a nyugati part romjai között.",
+                  "category": "religious",
+                  "coords": [
+                        32.589239,
+                        25.716794
+                  ]
+            },
+            {
+                  "name": "Valley of the Queens",
+                  "text": "Ez az ikonikus sivatagi látványosság a fáraók feleségeinek és hercegeinek sziklába vájt sírjait rejti, amelyek közül a legnevezetesebb Nefertari királyné látványosan festett sírja.",
+                  "category": "landmark",
+                  "coords": [
+                        32.59276,
+                        25.727803
+                  ]
+            },
+            {
+                  "name": "Temple d'Amon",
+                  "text": "Ez a régészeti lelőhely a legfőbb egyiptomi istenségnek, Ámonnak szentelt szentély ősi kőmaradványait és oszloptalpait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        32.594573,
+                        25.718209
+                  ]
+            },
+            {
+                  "name": "Malqata",
+                  "text": "Ennek a régészeti lelőhelynek a kiterjedt vályogtégla romjai III. Amenhotep fáraó és nagy királyi hitvese, Tije hatalmas palotakomplexumának nyomait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        32.592502,
+                        25.715783
+                  ]
+            },
+            {
+                  "name": "Deir el-Shelwit",
+                  "text": "Ezek a romok egy Ízisz istennőnek szentelt kicsi, elszigetelt görög-római templomot foglalnak magukba, jól karbantartott domborművekkel és egy kiemelkedő propülonnal.",
+                  "category": "historical",
+                  "coords": [
+                        32.578666,
+                        25.695115
+                  ]
+            },
+            {
+                  "name": "Kom el-'Abd",
+                  "text": "Ez a régészeti lelőhely ősi vályogtéglából épült alapokból és a Ciszjordánia sivatagi homokjában szétszórt szerkezeti maradványokból áll.",
+                  "category": "historical",
+                  "coords": [
+                        32.564233,
+                        25.692115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palace of Amenhotep 3",
+                  "text": "Ruinele palatului lui Amenhotep al III-lea de pe malul vestic au inclus cândva vaste reședințe regale din cărămidă de noroi.",
+                  "category": "historical",
+                  "coords": [
+                        32.591178,
+                        25.715341
+                  ]
+            },
+            {
+                  "name": "TT3 - Tomb of Pashedu",
+                  "text": "Mormântul TT3 al lui Pashedu, un meșter regal, este faimos pentru reprezentările sale colorate ale zeilor egipteni antici.",
+                  "category": "historical",
+                  "coords": [
+                        32.600426,
+                        25.728493
+                  ]
+            },
+            {
+                  "name": "Valley of the Three Pits",
+                  "text": "Valea celor Trei Gropi este o zonă izolată a necropolei tebane, caracterizată prin formațiuni stâncoase adânci, asemănătoare unor puțuri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.596392,
+                        25.729382
+                  ]
+            },
+            {
+                  "name": "Dayr al-Rumi",
+                  "text": "Situl arheologic Dayr al-Rumi adăpostește ruinele fascinante ale unui complex monahal antic aflat lângă Valea Reginelor.",
+                  "category": "historical",
+                  "coords": [
+                        32.594634,
+                        25.728676
+                  ]
+            },
+            {
+                  "name": "Valley of Prince Ahmose",
+                  "text": "Valea Prințului Ahmose este o zonă arheologică fascinantă, numită după un personaj regal de la începutul Noului Regat.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593709,
+                        25.726868
+                  ]
+            },
+            {
+                  "name": "Shrine of Ptah Meretzeger",
+                  "text": "Acest sit arheologic prezintă un altar tăiat în stâncă, dedicat zeiței Meretseger și zeului Ptah, situat lângă satul antic al muncitorilor.",
+                  "category": "historical",
+                  "coords": [
+                        32.598314,
+                        25.72746
+                  ]
+            },
+            {
+                  "name": "West Chapels (I - VII)",
+                  "text": "Aceste capele arheologice antice sunt sculptate în terenul stâncos al necropolei tebane vestice.",
+                  "category": "historical",
+                  "coords": [
+                        32.599258,
+                        25.721285
+                  ]
+            },
+            {
+                  "name": "Deir El-Medineh",
+                  "text": "Aceste ruine deșertice urmăresc fundațiile satului antic în care au trăit și au lucrat artizanii mormintelor regale.",
+                  "category": "historical",
+                  "coords": [
+                        32.601368,
+                        25.72801
+                  ]
+            },
+            {
+                  "name": "Valley of the Rope",
+                  "text": "Această atracție din wadi-ul deșertic este cunoscută pentru terenul său accidentat și stâncos care duce către locuri de înmormântare egiptene antice izolate.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593732,
+                        25.730515
+                  ]
+            },
+            {
+                  "name": "Wadi Sikkat Taqat Zayid",
+                  "text": "Acest sit arheologic este situat într-un wadi uscat din deșertul dealurilor tebane, explorând poteci antice și formațiuni stâncoase.",
+                  "category": "historical",
+                  "coords": [
+                        32.581076,
+                        25.732599
+                  ]
+            },
+            {
+                  "name": "Wadi Jabbanat al Qurud",
+                  "text": "Situat într-un defileu deșertic îndepărtat, acest sit arheologic este cunoscut istoric ca loc de înmormântare pentru animalele de companie regale și membrii minori ai curții.",
+                  "category": "historical",
+                  "coords": [
+                        32.577252,
+                        25.733865
+                  ]
+            },
+            {
+                  "name": "Wadi al Gharbi",
+                  "text": "Situat în ramura vestică a necropolei regale, acest wadi arheologic arid conține mormintele izolate ale faraonilor târzii din Noul Regat.",
+                  "category": "historical",
+                  "coords": [
+                        32.571207,
+                        25.735267
+                  ]
+            },
+            {
+                  "name": "Kom el-Samak",
+                  "text": "Aceste ruine arheologice prezintă rămășițele din cărămidă de noroi ale unui pavilion antic construit inițial pentru festivalurile jubiliare ale lui Amenhotep al III-lea.",
+                  "category": "historical",
+                  "coords": [
+                        32.578946,
+                        25.697703
+                  ]
+            },
+            {
+                  "name": "Deir Tadrus el-Muharib",
+                  "text": "Acest lăcaș de cult coptic istoric, dedicat Sfântului Teodor Războinicul, are cupole tradiționale și se află printre ruinele de pe malul de vest.",
+                  "category": "religious",
+                  "coords": [
+                        32.589239,
+                        25.716794
+                  ]
+            },
+            {
+                  "name": "Valley of the Queens",
+                  "text": "Această atracție deșertică iconică conține mormintele tăiate în stâncă ale soțiilor și prinților faraonilor, în special mormântul spectaculos pictat al reginei Nefertari.",
+                  "category": "landmark",
+                  "coords": [
+                        32.59276,
+                        25.727803
+                  ]
+            },
+            {
+                  "name": "Temple d'Amon",
+                  "text": "Acest sit arheologic protejează rămășițele antice de piatră și bazele coloanelor unui sanctuar dedicat divinității egiptene supreme Amon.",
+                  "category": "historical",
+                  "coords": [
+                        32.594573,
+                        25.718209
+                  ]
+            },
+            {
+                  "name": "Malqata",
+                  "text": "Ruinele întinse din cărămidă de noroi ale acestui sit arheologic urmăresc vastul complex al palatului faraonului Amenhotep al III-lea și al marii sale soții regale Tiye.",
+                  "category": "historical",
+                  "coords": [
+                        32.592502,
+                        25.715783
+                  ]
+            },
+            {
+                  "name": "Deir el-Shelwit",
+                  "text": "Aceste ruine cuprind un mic templu greco-roman izolat, dedicat zeiței Isis, care prezintă reliefuri bine conservate și un propilon proeminent.",
+                  "category": "historical",
+                  "coords": [
+                        32.578666,
+                        25.695115
+                  ]
+            },
+            {
+                  "name": "Kom el-'Abd",
+                  "text": "Acest sit arheologic este format din fundații antice de cărămidă de noroi și rămășițe structurale împrăștiate pe nisipurile deșertice de pe malul de vest.",
+                  "category": "historical",
+                  "coords": [
+                        32.564233,
+                        25.692115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace of Amenhotep 3",
+                  "text": "The West Bank ruins of the Palace of Amenhotep 3 once encompassed sprawling royal residences constructed from mudbrick.",
+                  "category": "historical",
+                  "coords": [
+                        32.591178,
+                        25.715341
+                  ]
+            },
+            {
+                  "name": "TT3 - Tomb of Pashedu",
+                  "text": "Tomb TT3 of Pashedu, an ancient royal artisan, is renowned for its vividly colored depictions of ancient Egyptian deities.",
+                  "category": "historical",
+                  "coords": [
+                        32.600426,
+                        25.728493
+                  ]
+            },
+            {
+                  "name": "Valley of the Three Pits",
+                  "text": "The Valley of the Three Pits is a secluded section of the Theban necropolis characterized by deep, shaft-like rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        32.596392,
+                        25.729382
+                  ]
+            },
+            {
+                  "name": "Dayr al-Rumi",
+                  "text": "The archaeological site of Dayr al-Rumi holds the fascinating ruins of an ancient monastic complex located near the Valley of the Queens.",
+                  "category": "historical",
+                  "coords": [
+                        32.594634,
+                        25.728676
+                  ]
+            },
+            {
+                  "name": "Valley of Prince Ahmose",
+                  "text": "The Valley of Prince Ahmose is an intriguing archaeological area named after a royal figure from the early New Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593709,
+                        25.726868
+                  ]
+            },
+            {
+                  "name": "Shrine of Ptah Meretzeger",
+                  "text": "This archaeological site features a rock-cut shrine dedicated to the goddess Meretseger and the god Ptah, located near the ancient workers' village.",
+                  "category": "historical",
+                  "coords": [
+                        32.598314,
+                        25.72746
+                  ]
+            },
+            {
+                  "name": "West Chapels (I - VII)",
+                  "text": "These ancient archaeological chapels are cut into the rocky terrain of the western Theban necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        32.599258,
+                        25.721285
+                  ]
+            },
+            {
+                  "name": "Deir El-Medineh",
+                  "text": "These desert ruins trace the foundations of the ancient village where the artisans of the royal tombs once lived and worked.",
+                  "category": "historical",
+                  "coords": [
+                        32.601368,
+                        25.72801
+                  ]
+            },
+            {
+                  "name": "Valley of the Rope",
+                  "text": "This desert wadi attraction is known for its rugged, rocky terrain leading towards secluded ancient Egyptian burial sites.",
+                  "category": "landmark",
+                  "coords": [
+                        32.593732,
+                        25.730515
+                  ]
+            },
+            {
+                  "name": "Wadi Sikkat Taqat Zayid",
+                  "text": "This archaeological site is situated within a dry desert wadi of the Theban hills, exploring ancient pathways and rock formations.",
+                  "category": "historical",
+                  "coords": [
+                        32.581076,
+                        25.732599
+                  ]
+            },
+            {
+                  "name": "Wadi Jabbanat al Qurud",
+                  "text": "Set in a remote desert gorge, this archaeological site is historically known as the burial place for royal pets and minor members of the court.",
+                  "category": "historical",
+                  "coords": [
+                        32.577252,
+                        25.733865
+                  ]
+            },
+            {
+                  "name": "Wadi al Gharbi",
+                  "text": "Located in the western branch of the royal necropolis, this arid archaeological wadi contains the secluded tombs of later New Kingdom pharaohs.",
+                  "category": "historical",
+                  "coords": [
+                        32.571207,
+                        25.735267
+                  ]
+            },
+            {
+                  "name": "Kom el-Samak",
+                  "text": "These archaeological ruins feature the mud-brick remains of an ancient pavilion originally built for the jubilee festivals of Amenhotep III.",
+                  "category": "historical",
+                  "coords": [
+                        32.578946,
+                        25.697703
+                  ]
+            },
+            {
+                  "name": "Deir Tadrus el-Muharib",
+                  "text": "This historic Coptic place of worship, dedicated to St. Theodore the Warrior, features traditional domes and stands amid the ruins of the West Bank.",
+                  "category": "religious",
+                  "coords": [
+                        32.589239,
+                        25.716794
+                  ]
+            },
+            {
+                  "name": "Valley of the Queens",
+                  "text": "This iconic desert attraction contains the rock-cut tombs of pharaohs' wives and princes, most notably the spectacularly painted tomb of Queen Nefertari.",
+                  "category": "landmark",
+                  "coords": [
+                        32.59276,
+                        25.727803
+                  ]
+            },
+            {
+                  "name": "Temple d'Amon",
+                  "text": "This archaeological site protects the ancient stone remains and column bases of a sanctuary dedicated to the supreme Egyptian deity Amun.",
+                  "category": "historical",
+                  "coords": [
+                        32.594573,
+                        25.718209
+                  ]
+            },
+            {
+                  "name": "Malqata",
+                  "text": "The sprawling mud-brick ruins of this archaeological site trace the vast palace complex of Pharaoh Amenhotep III and his great royal wife Tiye.",
+                  "category": "historical",
+                  "coords": [
+                        32.592502,
+                        25.715783
+                  ]
+            },
+            {
+                  "name": "Deir el-Shelwit",
+                  "text": "These ruins encompass a small, isolated Greco-Roman temple dedicated to the goddess Isis, featuring well-preserved reliefs and a prominent propylon.",
+                  "category": "historical",
+                  "coords": [
+                        32.578666,
+                        25.695115
+                  ]
+            },
+            {
+                  "name": "Kom el-'Abd",
+                  "text": "This archaeological site consists of ancient mud-brick foundations and structural remnants scattered across the desert sands of the West Bank.",
+                  "category": "historical",
+                  "coords": [
+                        32.564233,
+                        25.692115
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-LX",
     coords: [32.5932, 25.7285],
@@ -458,7 +5390,124 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Comprend plus de 90 tombes enregistrées datant de 1550 à 1070 av. J.-C.", "Le tombeau de Néfertari (QV66) a été découvert en 1904 par Ernesto Schiaparelli.", "Les peintures murales du tombeau de Néfertari couvrent une surface d'environ 520 mètres carrés.", "À l'origine, le lieu était destiné aux princes et princesses de la XVIIIe dynastie.", "Le nom égyptien ancien Ta-Set-Neferu se traduit par « Place de la Beauté ».", "L'UNESCO a classé la vallée avec Thèbes au patrimoine mondial en 1979."],
     }, image: "/poi-images/eg-lxr-valley-queens-history-v2.webp"},
   {
-    id: "eg-asw-edfu-history-v2",
+    id: "eg-asw-edfu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Diese abendliche Ton- und Lichtshow beleuchtet die massiven Pylone und Säulen des altägyptischen Edfu-Tempels.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "Dieser Aussichtspunkt bietet einen hervorragenden Blick auf die imposante Fassade des Horus-Tempels in Edfu.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            },
+            {
+                  "name": "Edfu Temple",
+                  "text": "Der ptolemäische Edfu-Tempel ist eines der am besten erhaltenen antiken Heiligtümer in ganz Ägypten.",
+                  "category": "landmark",
+                  "coords": [
+                        32.872351,
+                        24.977076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Ez az esti hang- és fényjáték az ókori egyiptomi Edfu-templom hatalmas pülonjait és oszlopait világítja meg.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "Ez a kilátó nagyszerű rálátást biztosít az edfui Hórusz-templom impozáns homlokzatára.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            },
+            {
+                  "name": "Edfu Temple",
+                  "text": "A ptolemaioszi Edfu-templom az egyik legjobban megőrzött ókori szentély egész Egyiptomban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.872351,
+                        24.977076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sound & Light Show",
+                  "text": "Acest spectacol de sunet și lumină de seară iluminează masivii piloni și coloane ale anticului Templu Edfu.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "Acest punct de belvedere oferă o vedere excelentă către fațada impunătoare a Templului lui Horus din Edfu.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            },
+            {
+                  "name": "Edfu Temple",
+                  "text": "Templul ptolemeic din Edfu este unul dintre cele mai bine conservate sanctuare antice din tot Egiptul.",
+                  "category": "landmark",
+                  "coords": [
+                        32.872351,
+                        24.977076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sound & Light Show",
+                  "text": "This evening sound and light show illuminates the massive pylons and columns of the ancient Edfu Temple.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "This viewpoint provides an excellent line of sight towards the imposing facade of the Temple of Horus in Edfu.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            },
+            {
+                  "name": "Edfu Temple",
+                  "text": "The Ptolemaic Edfu Temple is one of the best-preserved ancient sanctuaries in all of Egypt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.872351,
+                        24.977076
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ASN",
     coords: [32.8735, 24.9781],
@@ -493,7 +5542,124 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["La construction a commencé le 23 août 237 av. J.-C. sous Ptolémée III.", "L'achèvement du complexe a eu lieu en 57 av. J.-C.", "Le pylône d'entrée massif mesure 36 mètres de haut et 79 mètres de large.", "Le Naos (sanctuaire) du Saint des Saints est en granit noir.", "Auguste Mariette a commencé les fouilles systématiques du temple en 1860.", "Le temple est le deuxième plus grand d'Égypte après celui de Karnak."],
     }, image: "/poi-images/eg-asw-edfu-history-v2.webp"},
   {
-    id: "eg-asw-kom-ombo-history-v2",
+    id: "eg-asw-kom-ombo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camel market, Sunday 5-10 am",
+                  "text": "Auf diesem traditionellen, jeden Sonntagmorgen stattfindenden Markt werden Hunderte von Kamelen gehandelt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941152,
+                        24.409415
+                  ]
+            },
+            {
+                  "name": "Daraw camel market",
+                  "text": "Der Kamelmarkt von Daraw ist einer der größten Umschlagplätze für Dromedare aus dem Sudan in Ägypten.",
+                  "category": "landmark",
+                  "coords": [
+                        32.942154,
+                        24.412036
+                  ]
+            },
+            {
+                  "name": "Doppeltempel von Kom Ombo",
+                  "text": "Der Tempel von Kom Ombo ist ein einzigartiger architektonischer Doppelkomplex, der direkt am Nilufer erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        32.928394,
+                        24.452148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camel market, Sunday 5-10 am",
+                  "text": "Ezen a hagyományos, minden vasárnap reggel megrendezett piacon tevék százait cserélik el.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941152,
+                        24.409415
+                  ]
+            },
+            {
+                  "name": "Daraw camel market",
+                  "text": "A darawi tevepiac az egyik legnagyobb elosztóközpont a Szudánból érkező dromedárok számára Egyiptomban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.942154,
+                        24.412036
+                  ]
+            },
+            {
+                  "name": "Temple of Kom Ombo",
+                  "text": "A Kom Ombo-i templom egy egyedülálló, közvetlenül a Nílus partján épült kettős építészeti komplexum.",
+                  "category": "landmark",
+                  "coords": [
+                        32.928394,
+                        24.452148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camel market, Sunday 5-10 am",
+                  "text": "În această piață tradițională, care are loc în fiecare duminică dimineața, se comercializează sute de cămile.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941152,
+                        24.409415
+                  ]
+            },
+            {
+                  "name": "Daraw camel market",
+                  "text": "Piața de cămile din Daraw este unul dintre cele mai mari centre de tranzacționare din Egipt pentru dromedarii din Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        32.942154,
+                        24.412036
+                  ]
+            },
+            {
+                  "name": "Temple of Kom Ombo",
+                  "text": "Templul din Kom Ombo este un complex arhitectural dublu unic, construit chiar pe malul Nilului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.928394,
+                        24.452148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camel market, Sunday 5-10 am",
+                  "text": "Hundreds of camels are traded at this traditional livestock market held every Sunday morning.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941152,
+                        24.409415
+                  ]
+            },
+            {
+                  "name": "Daraw camel market",
+                  "text": "The Daraw camel market is one of the largest trading hubs in Egypt for dromedaries arriving from Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        32.942154,
+                        24.412036
+                  ]
+            },
+            {
+                  "name": "Temple of Kom Ombo",
+                  "text": "The Temple of Kom Ombo is a unique double architectural complex built right on the banks of the Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        32.928394,
+                        24.452148
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ASN",
     coords: [32.9282, 24.4522],
@@ -528,7 +5694,412 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Temple double inhabituel dédié au dieu crocodile Sobek et au dieu faucon Haroëris.", "Située sur le territoire de la République arabe d'Égypte.", "Est en lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-asw-kom-ombo-history-v2.webp"},
   {
-    id: "eg-shg-abydos-history-v2",
+    id: "eg-shg-abydos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kom El Sultan",
+                  "text": "Kom El Sultan ist eine archäologische Stätte im alten ägyptischen Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.911148,
+                        26.192546
+                  ]
+            },
+            {
+                  "name": "Al Araba al Madfunah",
+                  "text": "Al Araba al Madfunah ist eine Ausgrabungsstätte auf dem Gebiet der historischen Stadt Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.911111,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Tomb of Djet (Z)",
+                  "text": "Das Grab von Djet (Z) ist die archäologische Ruhestätte eines Pharaos der Ersten Dynastie in Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.907606,
+                        26.174808
+                  ]
+            },
+            {
+                  "name": "Abydos",
+                  "text": "Abydos ist eine der ältesten archäologischen Stätten des alten Ägyptens, bekannt für ihre weitreichenden Nekropolen.",
+                  "category": "historical",
+                  "coords": [
+                        31.918927,
+                        26.18501
+                  ]
+            },
+            {
+                  "name": "Mortuary temple of Senwosret III",
+                  "text": "Der Totentempel von Senwosret III. ist eine monumentale archäologische Anlage im Süden von Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.929536,
+                        26.178266
+                  ]
+            },
+            {
+                  "name": "Pyramid of Ahmose",
+                  "text": "Die Pyramide von Ahmose in Abydos wurde als Kenotaph und nicht als echtes Grab erbaut.",
+                  "category": "historical",
+                  "coords": [
+                        31.93778,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sinki",
+                  "text": "Die Ruinen der Pyramide von Sinki zeugen von einer unvollendeten Stufenpyramide in Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.966377,
+                        26.157787
+                  ]
+            },
+            {
+                  "name": "Tomb of Khasekhemwy (V)",
+                  "text": "Das trapezförmige Grab von Chasechemui (V) in Abydos war das letzte und größte der frühen Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        31.908052,
+                        26.172726
+                  ]
+            },
+            {
+                  "name": "Shunet ez Zebib",
+                  "text": "Shunet ez Zebib ist eine gewaltige Einfriedung aus Lehmziegeln aus der Zweiten Dynastie in Abydos.",
+                  "category": "landmark",
+                  "coords": [
+                        31.908031,
+                        26.1895
+                  ]
+            },
+            {
+                  "name": "Temple of Ramesses II",
+                  "text": "Der Tempel von Ramses II. in Abydos besticht durch seine noch immer leuchtenden Reliefs und Farben.",
+                  "category": "historical",
+                  "coords": [
+                        31.916347,
+                        26.186618
+                  ]
+            },
+            {
+                  "name": "Tomb of Senwosret III",
+                  "text": "Das Grab von Senwosret III. ist eine tief in den Fels gehauene Anlage unter dem Wüstensand von Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.92487,
+                        26.170928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kom El Sultan",
+                  "text": "Kom El Sultan egy régészeti lelőhely az ókori egyiptomi Abüdoszban.",
+                  "category": "historical",
+                  "coords": [
+                        31.911148,
+                        26.192546
+                  ]
+            },
+            {
+                  "name": "Al Araba al Madfunah",
+                  "text": "Al Araba al Madfunah egy ásatási terület a történelmi Abüdosz városának helyén.",
+                  "category": "historical",
+                  "coords": [
+                        31.911111,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Tomb of Djet (Z)",
+                  "text": "A Dzset (Z) sírja egy első dinasztiabeli fáraó régészeti nyughelye Abüdoszban.",
+                  "category": "historical",
+                  "coords": [
+                        31.907606,
+                        26.174808
+                  ]
+            },
+            {
+                  "name": "Abydos",
+                  "text": "Abüdosz az ókori Egyiptom egyik legrégebbi régészeti lelőhelye, amely hatalmas nekropoliszairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        31.918927,
+                        26.18501
+                  ]
+            },
+            {
+                  "name": "Mortuary temple of Senwosret III",
+                  "text": "III. Szenuszert halotti temploma egy monumentális régészeti komplexum Abüdosz déli részén.",
+                  "category": "historical",
+                  "coords": [
+                        31.929536,
+                        26.178266
+                  ]
+            },
+            {
+                  "name": "Pyramid of Ahmose",
+                  "text": "Az abüdoszi Jahmesz-piramis kenotáfiumként, és nem valódi sírként épült.",
+                  "category": "historical",
+                  "coords": [
+                        31.93778,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sinki",
+                  "text": "A Sinki-piramis romjai egy befejezetlen lépcsős piramis maradványai Abüdoszban.",
+                  "category": "historical",
+                  "coords": [
+                        31.966377,
+                        26.157787
+                  ]
+            },
+            {
+                  "name": "Tomb of Khasekhemwy (V)",
+                  "text": "Haszehemui (V) trapéz alakú sírja Abüdoszban a korai dinasztia utolsó és legnagyobb temetkezési helye volt.",
+                  "category": "historical",
+                  "coords": [
+                        31.908052,
+                        26.172726
+                  ]
+            },
+            {
+                  "name": "Shunet ez Zebib",
+                  "text": "A Shunet ez Zebib egy hatalmas vályogtéglás kerítés a második dinasztia idejéből Abüdoszban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.908031,
+                        26.1895
+                  ]
+            },
+            {
+                  "name": "Temple of Ramesses II",
+                  "text": "A II. Ramszesz-templom Abüdoszban máig élénk színekkel rendelkező domborműveiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        31.916347,
+                        26.186618
+                  ]
+            },
+            {
+                  "name": "Tomb of Senwosret III",
+                  "text": "III. Szenuszert sírja egy mélyen a sziklába vájt komplexum Abüdosz sivatagi homokja alatt.",
+                  "category": "historical",
+                  "coords": [
+                        31.92487,
+                        26.170928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kom El Sultan",
+                  "text": "Kom El Sultan este un sit arheologic din anticul Abydos egiptean.",
+                  "category": "historical",
+                  "coords": [
+                        31.911148,
+                        26.192546
+                  ]
+            },
+            {
+                  "name": "Al Araba al Madfunah",
+                  "text": "Al Araba al Madfunah este un sit arheologic aflat pe teritoriul orașului istoric Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.911111,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Tomb of Djet (Z)",
+                  "text": "Mormântul lui Djet (Z) este locul de odihnă arheologic al unui faraon din Prima Dinastie, la Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.907606,
+                        26.174808
+                  ]
+            },
+            {
+                  "name": "Abydos",
+                  "text": "Abydos este unul dintre cele mai vechi situri arheologice ale Egiptului antic, renumit pentru necropolele sale vaste.",
+                  "category": "historical",
+                  "coords": [
+                        31.918927,
+                        26.18501
+                  ]
+            },
+            {
+                  "name": "Mortuary temple of Senwosret III",
+                  "text": "Templul funerar al lui Senwosret al III-lea este un complex arheologic monumental aflat în sudul orașului Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.929536,
+                        26.178266
+                  ]
+            },
+            {
+                  "name": "Pyramid of Ahmose",
+                  "text": "Piramida lui Ahmose din Abydos a fost construită ca un cenotaf, nu ca un mormânt propriu-zis.",
+                  "category": "historical",
+                  "coords": [
+                        31.93778,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sinki",
+                  "text": "Ruinele Piramidei Sinki aparțin unei piramide în trepte neterminate din Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.966377,
+                        26.157787
+                  ]
+            },
+            {
+                  "name": "Tomb of Khasekhemwy (V)",
+                  "text": "Mormântul în formă de trapez al lui Khasekhemwy (V) din Abydos a fost ultimul și cel mai mare din prima dinastie.",
+                  "category": "historical",
+                  "coords": [
+                        31.908052,
+                        26.172726
+                  ]
+            },
+            {
+                  "name": "Shunet ez Zebib",
+                  "text": "Shunet ez Zebib este o incintă masivă din cărămizi de noroi din a Doua Dinastie, situată în Abydos.",
+                  "category": "landmark",
+                  "coords": [
+                        31.908031,
+                        26.1895
+                  ]
+            },
+            {
+                  "name": "Temple of Ramesses II",
+                  "text": "Templul lui Ramses al II-lea din Abydos iese în evidență prin reliefurile și culorile sale care s-au păstrat vii.",
+                  "category": "historical",
+                  "coords": [
+                        31.916347,
+                        26.186618
+                  ]
+            },
+            {
+                  "name": "Tomb of Senwosret III",
+                  "text": "Mormântul lui Senwosret al III-lea este o structură săpată adânc în stâncă sub nisipul deșertului din Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.92487,
+                        26.170928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kom El Sultan",
+                  "text": "Kom El Sultan is an archaeological site located in ancient Egyptian Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.911148,
+                        26.192546
+                  ]
+            },
+            {
+                  "name": "Al Araba al Madfunah",
+                  "text": "Al Araba al Madfunah is an archaeological site located on the grounds of historic Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.911111,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Tomb of Djet (Z)",
+                  "text": "The Tomb of Djet (Z) is the archaeological resting place of a First Dynasty pharaoh in Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.907606,
+                        26.174808
+                  ]
+            },
+            {
+                  "name": "Abydos",
+                  "text": "Abydos is one of the oldest archaeological sites of ancient Egypt, renowned for its extensive necropolises.",
+                  "category": "historical",
+                  "coords": [
+                        31.918927,
+                        26.18501
+                  ]
+            },
+            {
+                  "name": "Mortuary temple of Senwosret III",
+                  "text": "The Mortuary temple of Senwosret III is a monumental archaeological complex located in south Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.929536,
+                        26.178266
+                  ]
+            },
+            {
+                  "name": "Pyramid of Ahmose",
+                  "text": "The Pyramid of Ahmose in Abydos was built as a cenotaph rather than a true tomb.",
+                  "category": "historical",
+                  "coords": [
+                        31.93778,
+                        26.175
+                  ]
+            },
+            {
+                  "name": "Pyramid of Sinki",
+                  "text": "The ruins of the Pyramid of Sinki belong to an unfinished step pyramid in Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.966377,
+                        26.157787
+                  ]
+            },
+            {
+                  "name": "Tomb of Khasekhemwy (V)",
+                  "text": "The trapezoidal Tomb of Khasekhemwy (V) in Abydos was the final and largest of the early dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        31.908052,
+                        26.172726
+                  ]
+            },
+            {
+                  "name": "Shunet ez Zebib",
+                  "text": "Shunet ez Zebib is a massive mudbrick enclosure from the Second Dynasty located in Abydos.",
+                  "category": "landmark",
+                  "coords": [
+                        31.908031,
+                        26.1895
+                  ]
+            },
+            {
+                  "name": "Temple of Ramesses II",
+                  "text": "The Temple of Ramesses II in Abydos stands out for its well-preserved reliefs and vibrant colors.",
+                  "category": "historical",
+                  "coords": [
+                        31.916347,
+                        26.186618
+                  ]
+            },
+            {
+                  "name": "Tomb of Senwosret III",
+                  "text": "The Tomb of Senwosret III is a deeply rock-cut complex hidden beneath the desert sand of Abydos.",
+                  "category": "historical",
+                  "coords": [
+                        31.92487,
+                        26.170928
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-SHG",
     coords: [31.9188, 26.1848],
@@ -563,7 +6134,124 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Le temple de Séthi Ier a été construit vers 1280 av. J.-C.", "La table d'Abydos contient les noms de 76 pharaons.", "L'Osireion se situe environ 15 mètres sous le niveau du temple de Séthi.", "Abydos fut le lieu des premières sépultures royales de la Ire dynastie.", "Le temple possède un plan inhabituel en forme de L.", "Les reliefs sont considérés comme les mieux conservés de la XIXe dynastie."],
     }, image: "/poi-images/eg-shg-abydos-history-v2.webp"},
   {
-    id: "eg-qen-dendera-history-v2",
+    id: "eg-qen-dendera-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "svu theater",
+                  "text": "Das SVU Theater ist eine Kultureinrichtung auf dem Gelände der South Valley University nahe Dendera.",
+                  "category": "cultural",
+                  "coords": [
+                        32.74255,
+                        26.192022
+                  ]
+            },
+            {
+                  "name": "Tempel der Hathor",
+                  "text": "Der Hathor-Tempel in Dendera ist berühmt für seine prächtige Säulenhalle mit aufwendigen astronomischen Deckenmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        32.670236,
+                        26.141953
+                  ]
+            },
+            {
+                  "name": "Römischisches Geburtshaus",
+                  "text": "Dieses römische Geburtshaus (Mammisi) im Dendera-Tempel ist dem göttlichen Kind Ihy gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        32.670066,
+                        26.143082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "svu theater",
+                  "text": "A SVU Színház egy kulturális intézmény a South Valley University területén, Dendera közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.74255,
+                        26.192022
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor",
+                  "text": "A denderai Hathor-templom híres a bonyolult csillagászati mennyezetfestményekkel díszített oszlopcsarnokáról.",
+                  "category": "landmark",
+                  "coords": [
+                        32.670236,
+                        26.141953
+                  ]
+            },
+            {
+                  "name": "Roman Mammisi",
+                  "text": "Ezt a római születésházat (mammiszi) a denderai templomban az isteni gyermeknek, Ihinek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        32.670066,
+                        26.143082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "svu theater",
+                  "text": "Teatrul SVU este o instituție culturală situată în campusul South Valley University de lângă Dendera.",
+                  "category": "cultural",
+                  "coords": [
+                        32.74255,
+                        26.192022
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor",
+                  "text": "Templul lui Hathor din Dendera este renumit pentru sala sa cu coloane grandioase și tavane astronomice detaliate.",
+                  "category": "landmark",
+                  "coords": [
+                        32.670236,
+                        26.141953
+                  ]
+            },
+            {
+                  "name": "Roman Mammisi",
+                  "text": "Această casă de naștere romană (mammisi) din templul Dendera îi este dedicată copilului divin Ihy.",
+                  "category": "historical",
+                  "coords": [
+                        32.670066,
+                        26.143082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "svu theater",
+                  "text": "The SVU Theater is a cultural venue located on the campus of South Valley University near Dendera.",
+                  "category": "cultural",
+                  "coords": [
+                        32.74255,
+                        26.192022
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor",
+                  "text": "The Temple of Hathor in Dendera is renowned for its magnificent pillared hall featuring intricate astronomical ceiling paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        32.670236,
+                        26.141953
+                  ]
+            },
+            {
+                  "name": "Roman Mammisi",
+                  "text": "This Roman birth house (mammisi) within the Dendera temple is dedicated to the divine child Ihy.",
+                  "category": "historical",
+                  "coords": [
+                        32.670066,
+                        26.143082
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-KN",
     coords: [32.6703, 26.1417],
@@ -598,7 +6286,304 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Le temple d'Hathor actuel a été construit entre 125 av. J.-C. et 60 apr. J.-C.", "Le zodiaque de Dendérah a été transporté en France en 1821.", "Le plafond de la première salle hypostyle représente les 12 signes du zodiaque.", "Un relief de Cléopâtre VII et Césarion se trouve sur le mur arrière.", "Le lac sacré du complexe est aujourd'hui à sec, mais entièrement préservé.", "Dendérah était le centre le plus important du culte de la déesse Hathor."],
     }, image: "/poi-images/eg-qen-dendera-history-v2.webp"},
   {
-    id: "eg-cai-citadel-history-v2",
+    id: "eg-cai-citadel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Corniche of Mokattam",
+                  "text": "Die Corniche von Mokattam bietet von den Hügeln aus einen weiten Panoramablick über die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.275711,
+                        30.016116
+                  ]
+            },
+            {
+                  "name": "National Military museum",
+                  "text": "Das Nationale Militärmuseum in der Zitadelle dokumentiert die Militärgeschichte des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        31.262565,
+                        30.030925
+                  ]
+            },
+            {
+                  "name": "El Geyoushy Mosque",
+                  "text": "Die El-Geyoushy-Moschee ist ein historisches fatimidisches Bauwerk auf den Mokattam-Hügeln.",
+                  "category": "historical",
+                  "coords": [
+                        31.268375,
+                        30.022111
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "Das Polizeimuseum in der Zitadelle von Kairo beleuchtet die Geschichte der Strafverfolgung.",
+                  "category": "museum",
+                  "coords": [
+                        31.26023,
+                        30.030074
+                  ]
+            },
+            {
+                  "name": "Sulayman Pasha Mosque",
+                  "text": "Die Sulayman-Pascha-Moschee in der Zitadelle zeichnet sich durch ihren osmanischen Baustil aus.",
+                  "category": "religious",
+                  "coords": [
+                        31.264247,
+                        30.031219
+                  ]
+            },
+            {
+                  "name": "Saint Samaan The Tanner Monastery",
+                  "text": "Das Kloster des Heiligen Samaan des Gerbers ist eine beeindruckende Höhlenkirche, die in die Mokattam-Hügel gehauen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        31.276,
+                        30.031051
+                  ]
+            },
+            {
+                  "name": "The Carriage Museum",
+                  "text": "Das Kutschenmuseum in der Zitadelle beherbergt eine Sammlung historischer königlicher Prunkwagen.",
+                  "category": "museum",
+                  "coords": [
+                        31.263515,
+                        30.029423
+                  ]
+            },
+            {
+                  "name": "Salah El Din Citadel",
+                  "text": "Die Salah-El-Din-Zitadelle ist eine weitreichende islamische Festungsanlage auf dem Mokattam-Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261467,
+                        30.029835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Corniche of Mokattam",
+                  "text": "A Mokattam Corniche széles panorámát nyújt a városra a dombok tetejéről.",
+                  "category": "landmark",
+                  "coords": [
+                        31.275711,
+                        30.016116
+                  ]
+            },
+            {
+                  "name": "National Military museum",
+                  "text": "A Citadellában található Nemzeti Hadtörténeti Múzeum az ország katonai múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.262565,
+                        30.030925
+                  ]
+            },
+            {
+                  "name": "El Geyoushy Mosque",
+                  "text": "Az El Geyoushy mecset egy történelmi fátimida építmény a Mokattam-dombokon.",
+                  "category": "historical",
+                  "coords": [
+                        31.268375,
+                        30.022111
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "A kairói Citadellában található Rendőrségi Múzeum a bűnüldözés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.26023,
+                        30.030074
+                  ]
+            },
+            {
+                  "name": "Sulayman Pasha Mosque",
+                  "text": "A Citadellában álló Sulayman pasa mecset oszmán építészeti stílusával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        31.264247,
+                        30.031219
+                  ]
+            },
+            {
+                  "name": "Saint Samaan The Tanner Monastery",
+                  "text": "A Tímár Szent Simon kolostor egy lenyűgöző, a Mokattam-dombok szikláiba vájt barlangtemplom.",
+                  "category": "religious",
+                  "coords": [
+                        31.276,
+                        30.031051
+                  ]
+            },
+            {
+                  "name": "The Carriage Museum",
+                  "text": "A Citadellában lévő Hintómúzeum történelmi királyi hintók gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        31.263515,
+                        30.029423
+                  ]
+            },
+            {
+                  "name": "Salah El Din Citadel",
+                  "text": "A Szaladin-citadella egy kiterjedt iszlám erődítmény a Mokattam-dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261467,
+                        30.029835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Corniche of Mokattam",
+                  "text": "Cornișa Mokattam oferă o vedere panoramică extinsă asupra orașului de pe dealuri.",
+                  "category": "landmark",
+                  "coords": [
+                        31.275711,
+                        30.016116
+                  ]
+            },
+            {
+                  "name": "National Military museum",
+                  "text": "Muzeul Militar Național din Citadelă prezintă istoria militară a țării.",
+                  "category": "museum",
+                  "coords": [
+                        31.262565,
+                        30.030925
+                  ]
+            },
+            {
+                  "name": "El Geyoushy Mosque",
+                  "text": "Moscheea El Geyoushy este o structură istorică fatimidă situată pe dealurile Mokattam.",
+                  "category": "historical",
+                  "coords": [
+                        31.268375,
+                        30.022111
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "Muzeul Poliției din Citadela Cairo ilustrează istoria forțelor de ordine.",
+                  "category": "museum",
+                  "coords": [
+                        31.26023,
+                        30.030074
+                  ]
+            },
+            {
+                  "name": "Sulayman Pasha Mosque",
+                  "text": "Moscheea Sulayman Pasha din Citadelă se distinge prin stilul său arhitectural otoman.",
+                  "category": "religious",
+                  "coords": [
+                        31.264247,
+                        30.031219
+                  ]
+            },
+            {
+                  "name": "Saint Samaan The Tanner Monastery",
+                  "text": "Mănăstirea Sfântului Samaan Tăbăcarul este o impresionantă biserică rupestră sculptată în dealurile Mokattam.",
+                  "category": "religious",
+                  "coords": [
+                        31.276,
+                        30.031051
+                  ]
+            },
+            {
+                  "name": "The Carriage Museum",
+                  "text": "Muzeul Trăsurilor din Citadelă găzduiește o colecție de trăsuri regale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        31.263515,
+                        30.029423
+                  ]
+            },
+            {
+                  "name": "Salah El Din Citadel",
+                  "text": "Citadela Salah El Din este o fortificație islamică extinsă situată pe dealul Mokattam.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261467,
+                        30.029835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Corniche of Mokattam",
+                  "text": "The Corniche of Mokattam offers sweeping panoramic views of the city from atop the hills.",
+                  "category": "landmark",
+                  "coords": [
+                        31.275711,
+                        30.016116
+                  ]
+            },
+            {
+                  "name": "National Military museum",
+                  "text": "The National Military Museum within the Citadel exhibits the country's military history.",
+                  "category": "museum",
+                  "coords": [
+                        31.262565,
+                        30.030925
+                  ]
+            },
+            {
+                  "name": "El Geyoushy Mosque",
+                  "text": "The El Geyoushy Mosque is a historic Fatimid structure perched on the Mokattam hills.",
+                  "category": "historical",
+                  "coords": [
+                        31.268375,
+                        30.022111
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "The Police Museum in the Cairo Citadel displays the history of law enforcement.",
+                  "category": "museum",
+                  "coords": [
+                        31.26023,
+                        30.030074
+                  ]
+            },
+            {
+                  "name": "Sulayman Pasha Mosque",
+                  "text": "The Sulayman Pasha Mosque in the Citadel is noted for its Ottoman architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        31.264247,
+                        30.031219
+                  ]
+            },
+            {
+                  "name": "Saint Samaan The Tanner Monastery",
+                  "text": "The Monastery of Saint Samaan the Tanner is a remarkable cave church carved into the Mokattam hills.",
+                  "category": "religious",
+                  "coords": [
+                        31.276,
+                        30.031051
+                  ]
+            },
+            {
+                  "name": "The Carriage Museum",
+                  "text": "The Carriage Museum in the Citadel houses a collection of historical royal carriages.",
+                  "category": "museum",
+                  "coords": [
+                        31.263515,
+                        30.029423
+                  ]
+            },
+            {
+                  "name": "Salah El Din Citadel",
+                  "text": "The Salah El Din Citadel is an expansive Islamic fortification situated on the Mokattam hill.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261467,
+                        30.029835
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-C",
     coords: [31.2611, 30.0299],
@@ -633,7 +6618,124 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Forteresse islamique médiévale au Caire, construite par Saladin contre les croisés.", "Située sur le territoire de la République arabe d'Égypte.", "Est en lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-cai-citadel-history-v2.webp"},
   {
-    id: "eg-cai-islamic-cairo-history-v2",
+    id: "eg-cai-islamic-cairo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sharia al Muizz Li Din Allah",
+                  "text": "Diese meilenlange historische Fußgängerzone beherbergt eine der weltweit größten Ansammlungen von mittelalterlichen Architekturschätzen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260071,
+                        30.046728
+                  ]
+            },
+            {
+                  "name": "Coffee shop meeting place",
+                  "text": "Ein traditionelles Ahwa (Kaffeehaus) im historischen Viertel, das inmitten des geschäftigen Straßenlebens starken lokalen Tee und Shisha anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261544,
+                        30.047928
+                  ]
+            },
+            {
+                  "name": "Hussein Mosque",
+                  "text": "Als eine der heiligsten islamischen Stätten Ägyptens verfügt diese Moschee über silberne Schreine und soll den Kopf von Hussein, dem Enkel des Propheten Mohammed, bergen.",
+                  "category": "religious",
+                  "coords": [
+                        31.263219,
+                        30.047844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sharia al Muizz Li Din Allah",
+                  "text": "Ez a több mint egy kilométer hosszú történelmi sétálóutca a középkori építészeti kincsek egyik legnagyobb koncentrációját rejti a világon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260071,
+                        30.046728
+                  ]
+            },
+            {
+                  "name": "Coffee shop meeting place",
+                  "text": "A történelmi negyedben megbúvó hagyományos ahwa (kávéház), amely erős helyi teát és vízipipát kínál a nyüzsgő utcai élet közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261544,
+                        30.047928
+                  ]
+            },
+            {
+                  "name": "Hussein Mosque",
+                  "text": "Egyiptom egyik legszentebb iszlám helyszíneként ez a mecset ezüst szentélyekkel rendelkezik, és úgy tartják, hogy itt őrzik Husszeinnek, Mohamed próféta unokájának fejét.",
+                  "category": "religious",
+                  "coords": [
+                        31.263219,
+                        30.047844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sharia al Muizz Li Din Allah",
+                  "text": "Această stradă pietonală istorică lungă de o milă deține una dintre cele mai mari concentrații de comori arhitecturale medievale din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260071,
+                        30.046728
+                  ]
+            },
+            {
+                  "name": "Coffee shop meeting place",
+                  "text": "O ahwa (cafenea) tradițională situată în cartierul istoric, care servește ceai local tare și shisha în mijlocul vieții aglomerate a străzii.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261544,
+                        30.047928
+                  ]
+            },
+            {
+                  "name": "Hussein Mosque",
+                  "text": "Unul dintre cele mai sfinte situri islamice din Egipt, această moschee are altare de argint și se crede că aici s-ar afla capul lui Hussein, nepotul profetului Mahomed.",
+                  "category": "religious",
+                  "coords": [
+                        31.263219,
+                        30.047844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharia al Muizz Li Din Allah",
+                  "text": "This mile-long historic pedestrian street holds one of the world's greatest concentrations of medieval architectural treasures.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260071,
+                        30.046728
+                  ]
+            },
+            {
+                  "name": "Coffee shop meeting place",
+                  "text": "A traditional ahwa (coffeehouse) nestled in the historic district, serving strong local tea and shisha amidst bustling street life.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261544,
+                        30.047928
+                  ]
+            },
+            {
+                  "name": "Hussein Mosque",
+                  "text": "One of Egypt's holiest Islamic sites, this mosque features silver shrines and is believed to contain the head of Hussein, grandson of Prophet Muhammad.",
+                  "category": "religious",
+                  "coords": [
+                        31.263219,
+                        30.047844
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-C",
     coords: [31.2618, 30.0478],
@@ -668,7 +6770,160 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Le noyau historique du Caire avec une profusion d'architecture islamique datant de plusieurs siècles.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-cai-islamic-cairo-history-v2.webp"},
   {
-    id: "eg-cai-coptic-cairo-history-v2",
+    id: "eg-cai-coptic-cairo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Om Kalthom Museum",
+                  "text": "Das Om-Kalthom-Museum auf der Insel Roda ehrt das Erbe der legendären ägyptischen Sängerin.",
+                  "category": "museum",
+                  "coords": [
+                        31.224884,
+                        30.007622
+                  ]
+            },
+            {
+                  "name": "Roman Tower",
+                  "text": "Der Römische Turm in Koptisch-Kairo besteht aus den Ruinen einer alten Verteidigungsanlage des Babylon-Forts.",
+                  "category": "historical",
+                  "coords": [
+                        31.229891,
+                        30.005916
+                  ]
+            },
+            {
+                  "name": "Kirche der Heiligen Barbara",
+                  "text": "Die Kirche der Heiligen Barbara in Koptisch-Kairo ist ein historisches orthodoxes Gotteshaus, das der bekannten Märtyrerin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.231323,
+                        30.006131
+                  ]
+            },
+            {
+                  "name": "Excavation Area",
+                  "text": "Eine archäologische Stätte, die antike Fundamente im Bereich des koptischen Kairo freilegt.",
+                  "category": "historical",
+                  "coords": [
+                        31.238344,
+                        30.005957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Om Kalthom Museum",
+                  "text": "A Roda szigetén található Om Kalthom Múzeum a legendás egyiptomi énekesnő örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        31.224884,
+                        30.007622
+                  ]
+            },
+            {
+                  "name": "Roman Tower",
+                  "text": "A kopt Kairóban található Római Torony a babiloni erőd egykori védművének romja.",
+                  "category": "historical",
+                  "coords": [
+                        31.229891,
+                        30.005916
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Church",
+                  "text": "A kopt Kairóban található Szent Borbála-templom egy történelmi ortodox imahely, amelyet az ismert vértanúnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.231323,
+                        30.006131
+                  ]
+            },
+            {
+                  "name": "Excavation Area",
+                  "text": "Egy régészeti lelőhely, amely ókori alapokat tár fel a kopt Kairó területén.",
+                  "category": "historical",
+                  "coords": [
+                        31.238344,
+                        30.005957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Om Kalthom Museum",
+                  "text": "Muzeul Om Kalthom de pe Insula Roda onorează moștenirea legendarei cântărețe egiptene.",
+                  "category": "museum",
+                  "coords": [
+                        31.224884,
+                        30.007622
+                  ]
+            },
+            {
+                  "name": "Roman Tower",
+                  "text": "Turnul Roman din Cairo Coptic este o ruină a vechilor apărări ale Fortăreței Babilon.",
+                  "category": "historical",
+                  "coords": [
+                        31.229891,
+                        30.005916
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Church",
+                  "text": "Biserica Sfânta Barbara din Cairo Coptic este un lăcaș de cult ortodox istoric, dedicat cunoscutei martire.",
+                  "category": "landmark",
+                  "coords": [
+                        31.231323,
+                        30.006131
+                  ]
+            },
+            {
+                  "name": "Excavation Area",
+                  "text": "Un sit arheologic care scoate la iveală fundații antice în zona orașului copt Cairo.",
+                  "category": "historical",
+                  "coords": [
+                        31.238344,
+                        30.005957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Om Kalthom Museum",
+                  "text": "The Om Kalthom Museum on Roda Island honors the legacy of the legendary Egyptian singer.",
+                  "category": "museum",
+                  "coords": [
+                        31.224884,
+                        30.007622
+                  ]
+            },
+            {
+                  "name": "Roman Tower",
+                  "text": "The Roman Tower in Coptic Cairo consists of the ruins of an ancient defense structure of the Babylon Fortress.",
+                  "category": "historical",
+                  "coords": [
+                        31.229891,
+                        30.005916
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Church",
+                  "text": "Saint Barbara Church in Coptic Cairo is a historic Orthodox place of worship dedicated to the well-known martyr.",
+                  "category": "landmark",
+                  "coords": [
+                        31.231323,
+                        30.006131
+                  ]
+            },
+            {
+                  "name": "Excavation Area",
+                  "text": "An open-air archaeological site revealing ancient foundations in Coptic Cairo.",
+                  "category": "historical",
+                  "coords": [
+                        31.238344,
+                        30.005957
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-C",
     coords: [31.23, 30.0062],
@@ -703,7 +6958,160 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Une partie du vieux Caire comprenant la forteresse de Babylone, le musée copte et de nombreuses églises anciennes.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-cai-coptic-cairo-history-v2.webp"},
   {
-    id: "eg-alx-qaitbay-history-v2",
+    id: "eg-alx-qaitbay-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lighthouse of Alexandria",
+                  "text": "Die versunkenen und teilweise ausgegrabenen archäologischen Ruinen des berühmten antiken Weltwunders, das vom Ptolemäerreich erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        29.885672,
+                        31.213996
+                  ]
+            },
+            {
+                  "name": "Alexandria Aquarium",
+                  "text": "Eine Einrichtung für Meereslebewesen, die mediterrane Fische und Korallenarten in der Nähe der Qaitbay-Zitadelle ausstellt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.884054,
+                        31.212385
+                  ]
+            },
+            {
+                  "name": "El Morsi Abou El Abbas Mosque",
+                  "text": "Eine reich verzierte Moschee, die über dem Grab des andalusischen Sufi-Heiligen Abu al-Abbas al-Mursi aus dem 13. Jahrhundert errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        29.882238,
+                        31.20564
+                  ]
+            },
+            {
+                  "name": "Abul-Abbas Beach",
+                  "text": "Ein Sandstrand am Mittelmeer, der in der Nähe des historischen Qaitbay-Viertels Zugang zur Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.883388,
+                        31.207426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lighthouse of Alexandria",
+                  "text": "A Ptolemaiosz-királyság által épített híres ókori világcsoda víz alatti és részben feltárt régészeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        29.885672,
+                        31.213996
+                  ]
+            },
+            {
+                  "name": "Alexandria Aquarium",
+                  "text": "A Földközi-tengeri halakat és korallfajokat bemutató tengeri létesítmény a Qaitbay fellegvár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.884054,
+                        31.212385
+                  ]
+            },
+            {
+                  "name": "El Morsi Abou El Abbas Mosque",
+                  "text": "Erősen díszített mecset, amely a 13. századi andalúz szúfi szent, Abu al-Abbas al-Mursi sírja fölé épült.",
+                  "category": "religious",
+                  "coords": [
+                        29.882238,
+                        31.20564
+                  ]
+            },
+            {
+                  "name": "Abul-Abbas Beach",
+                  "text": "Homokos Földközi-tengeri strand, amely parti hozzáférést biztosít a történelmi Qaitbay negyed közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.883388,
+                        31.207426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lighthouse of Alexandria",
+                  "text": "Ruinele arheologice scufundate și parțial excavate ale faimoasei minuni antice a lumii construite de Regatul Ptolemaic.",
+                  "category": "historical",
+                  "coords": [
+                        29.885672,
+                        31.213996
+                  ]
+            },
+            {
+                  "name": "Alexandria Aquarium",
+                  "text": "O facilitate a vieții marine care expune pești mediteraneeni și specii de corali în apropierea Citadelei Qaitbay.",
+                  "category": "recreational",
+                  "coords": [
+                        29.884054,
+                        31.212385
+                  ]
+            },
+            {
+                  "name": "El Morsi Abou El Abbas Mosque",
+                  "text": "O moschee foarte bogat decorată, construită deasupra mormântului sfântului sufit andaluz din secolul al XIII-lea, Abu al-Abbas al-Mursi.",
+                  "category": "religious",
+                  "coords": [
+                        29.882238,
+                        31.20564
+                  ]
+            },
+            {
+                  "name": "Abul-Abbas Beach",
+                  "text": "O plajă cu nisip la Marea Mediterană, care oferă acces la coastă în apropierea cartierului istoric Qaitbay.",
+                  "category": "recreational",
+                  "coords": [
+                        29.883388,
+                        31.207426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lighthouse of Alexandria",
+                  "text": "The submerged and partially excavated archaeological ruins of the famous ancient wonder of the world built by the Ptolemaic Kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        29.885672,
+                        31.213996
+                  ]
+            },
+            {
+                  "name": "Alexandria Aquarium",
+                  "text": "A marine life facility exhibiting Mediterranean fish and coral species near the Citadel of Qaitbay.",
+                  "category": "recreational",
+                  "coords": [
+                        29.884054,
+                        31.212385
+                  ]
+            },
+            {
+                  "name": "El Morsi Abou El Abbas Mosque",
+                  "text": "A highly decorated mosque built over the tomb of the 13th-century Andalusian Sufi saint Abu al-Abbas al-Mursi.",
+                  "category": "religious",
+                  "coords": [
+                        29.882238,
+                        31.20564
+                  ]
+            },
+            {
+                  "name": "Abul-Abbas Beach",
+                  "text": "A sandy Mediterranean beach providing coastal access near the historic Qaitbay district.",
+                  "category": "recreational",
+                  "coords": [
+                        29.883388,
+                        31.207426
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ALX",
     coords: [29.8856, 31.2139],
@@ -738,7 +7146,52 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Une forteresse défensive du XVe siècle sur la côte de la Méditerranée à Alexandrie.", "Située sur le territoire de la République arabe d'Égypte.", "Est en lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-alx-qaitbay-history-v2.webp"},
   {
-    id: "eg-alx-kom-shoqafa-history-v2",
+    id: "eg-alx-kom-shoqafa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Katakomben von Kom asch-Schuqafa",
+                  "text": "Diese historische Touristenattraktion umfasst antike römisch-ägyptische Grabstätten und Tunnel.",
+                  "category": "landmark",
+                  "coords": [
+                        29.893037,
+                        31.17855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catacombs of Kom el Shoqafa",
+                  "text": "Ez a történelmi turisztikai látványosság ókori római-egyiptomi temetkezési helyeket és alagutakat foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.893037,
+                        31.17855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catacombs of Kom el Shoqafa",
+                  "text": "Această atracție turistică istorică cuprinde morminte și tuneluri antice romano-egiptene.",
+                  "category": "landmark",
+                  "coords": [
+                        29.893037,
+                        31.17855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catacombs of Kom el Shoqafa",
+                  "text": "This historical tourist attraction encompasses ancient Roman-Egyptian burial sites and tunnels.",
+                  "category": "landmark",
+                  "coords": [
+                        29.893037,
+                        31.17855
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ALX",
     coords: [29.8966, 31.1786],
@@ -773,7 +7226,52 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Un site archéologique historique à Alexandrie et l'une des sept merveilles du Moyen Âge.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou les zones désertiques voisines."],
     }, image: "/poi-images/eg-alx-kom-shoqafa-history-v2.webp"},
   {
-    id: "eg-alx-pompeys-pillar-history-v2",
+    id: "eg-alx-pompeys-pillar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pompeiussäule",
+                  "text": "Die Pompejussäule ist eine gewaltige römische Triumphäule, die aus rotem Assuan-Granit gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        29.896393,
+                        31.182581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pompei's Pillar",
+                  "text": "Pompeius oszlopa egy vörös asszuáni gránitból faragott hatalmas római diadaloszlop.",
+                  "category": "historical",
+                  "coords": [
+                        29.896393,
+                        31.182581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pompei's Pillar",
+                  "text": "Stâlpul lui Pompei este o columnă triumfală romană masivă, sculptată din granit roșu de Aswan.",
+                  "category": "historical",
+                  "coords": [
+                        29.896393,
+                        31.182581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pompei's Pillar",
+                  "text": "Pompey's Pillar is a massive Roman triumphal column carved from red Aswan granite.",
+                  "category": "historical",
+                  "coords": [
+                        29.896393,
+                        31.182581
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ALX",
     coords: [29.896, 31.182],
@@ -808,7 +7306,412 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["La hauteur totale du monument est exactement de 26,85 mètres.", "Le fût se compose d'un seul bloc de granit rouge d'Assouan.", "La colonne a été érigée en 297 apr. J.-C. pour l'empereur Dioclétien.", "Le diamètre inférieur de la colonne est d'environ 2,71 mètres.", "Le poids estimé du fût de granit est de 285 tonnes.", "Elle se trouve sur les ruines du temple du Serapeum."],
     }, image: "/poi-images/eg-alx-pompeys-pillar-history-v2.webp"},
   {
-    id: "eg-gz-dahshur-history-v2",
+    id: "eg-gz-dahshur-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyramid of the Two Angles",
+                  "text": "Eine antike archäologische Stätte mit den Überresten einer einzigartig abgewinkelten Pyramidenstruktur in Dahschur.",
+                  "category": "historical",
+                  "coords": [
+                        31.200032,
+                        29.783338
+                  ]
+            },
+            {
+                  "name": "Northern Mazghuna pyramid",
+                  "text": "Die aus Lehmziegeln bestehenden Ruinen einer unvollendeten altägyptischen Pyramide an der archäologischen Stätte von Masghuna.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.7675
+                  ]
+            },
+            {
+                  "name": "Dahschur",
+                  "text": "Eine königliche Nekropole in der Wüste am Westufer des Nils, die für ihre frühen und gut erhaltenen Pyramiden bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.206406,
+                        29.799041
+                  ]
+            },
+            {
+                  "name": "Spitze der Roten Pyramide",
+                  "text": "Ein Denkmal, das den markanten architektonischen Schlusssteinbereich der berühmten Knickpyramide in Dahschur markiert.",
+                  "category": "historical",
+                  "coords": [
+                        31.20626,
+                        29.808634
+                  ]
+            },
+            {
+                  "name": "Haram Senusret III",
+                  "text": "Die antiken archäologischen Überreste des ursprünglich für den Pharao Sesostris III. in Dahschur errichteten Pyramidenkomplexes.",
+                  "category": "historical",
+                  "coords": [
+                        31.218474,
+                        29.819013
+                  ]
+            },
+            {
+                  "name": "Southern Mazghuna pyramid",
+                  "text": "Eine antike, ruinierte Pyramidenstruktur, die hauptsächlich aus Lehmziegeln besteht und sich im südlichen Teil des Masghuna-Gebiets befindet.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.76167
+                  ]
+            },
+            {
+                  "name": "Knickpyramide",
+                  "text": "Eine unter Pharao Snofru erbaute altägyptische Pyramide, die für die einzigartige Änderung ihres äußeren Neigungswinkels berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.209468,
+                        29.790236
+                  ]
+            },
+            {
+                  "name": "Sesostris-III.-Pyramide",
+                  "text": "Eine denkmalgeschützte Lehmziegelpyramide, die für den Pharao Sesostris III. aus dem Mittleren Reich in der Nekropole von Dahschur errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225732,
+                        29.818851
+                  ]
+            },
+            {
+                  "name": "Lepsius-L-Pyramide",
+                  "text": "Eine antike archäologische Stätte mit den Ruinen einer unvollendeten Pyramide, die ursprünglich von Karl Richard Lepsius katalogisiert wurde.",
+                  "category": "historical",
+                  "coords": [
+                        31.211672,
+                        29.810797
+                  ]
+            },
+            {
+                  "name": "Southern South Saqqara pyramid",
+                  "text": "Eine denkmalgeschützte antike Pyramide am südlichen Rand der Nekropole von Sakkara, die größtenteils auf ihre Substruktur reduziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222407,
+                        29.830645
+                  ]
+            },
+            {
+                  "name": "Pyramid of Khendjer",
+                  "text": "Eine denkmalgeschützte Ruinenpyramide aus Lehmziegeln, die für den Pharao Chendjer aus der 13. Dynastie erbaut wurde und für ihre komplexe Substruktur bemerkenswert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.223948,
+                        29.832371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyramid of the Two Angles",
+                  "text": "Ókori régészeti lelőhely, amely egy egyedülálló dőlésszögű piramis építmény maradványait mutatja be Dahsúrban.",
+                  "category": "historical",
+                  "coords": [
+                        31.200032,
+                        29.783338
+                  ]
+            },
+            {
+                  "name": "Northern Mazghuna pyramid",
+                  "text": "Egy befejezetlen ókori egyiptomi piramis romos vályogtéglamaradványai a mazghunai régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.7675
+                  ]
+            },
+            {
+                  "name": "Dahshur",
+                  "text": "A Nílus nyugati partján, a sivatagban fekvő királyi nekropolisz, amely korai és jól megőrzött piramisairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.206406,
+                        29.799041
+                  ]
+            },
+            {
+                  "name": "Tip of the Red Pyramid",
+                  "text": "Egy emlékmű, amely a híres dahsúri Vörös piramis jellegzetes építészeti zárókövét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        31.20626,
+                        29.808634
+                  ]
+            },
+            {
+                  "name": "Haram Senusret III",
+                  "text": "A III. Szenuszert fáraó számára eredetileg Dahsúrban épített piramiskomplexum ókori régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        31.218474,
+                        29.819013
+                  ]
+            },
+            {
+                  "name": "Southern Mazghuna pyramid",
+                  "text": "Az ókori, főként vályogtéglából épült romos piramisépítmény a mazghunai terület déli részén található.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.76167
+                  ]
+            },
+            {
+                  "name": "Tört falú piramis",
+                  "text": "A Sznofru fáraó alatt épült ókori egyiptomi piramis, amely külső dőlésszögének egyedülálló megváltozásáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.209468,
+                        29.790236
+                  ]
+            },
+            {
+                  "name": "Pyramid of Senusret III",
+                  "text": "A dahsúri nekropoliszban épült örökségvédelem alatt álló vályogtéglapiramis, amelyet a Középbirodalom fáraója, III. Szenuszert számára emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225732,
+                        29.818851
+                  ]
+            },
+            {
+                  "name": "Lepsius L Pyramid",
+                  "text": "Ókori régészeti lelőhely egy befejezetlen piramis romjaival, amelyet eredetileg Karl Richard Lepsius katalogizált.",
+                  "category": "historical",
+                  "coords": [
+                        31.211672,
+                        29.810797
+                  ]
+            },
+            {
+                  "name": "Southern South Saqqara pyramid",
+                  "text": "A szakkarai nekropolisz legdélebbi pontján található, örökségvédelem alatt álló ókori piramis, amely nagyrészt már csak az alépítményéből áll.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222407,
+                        29.830645
+                  ]
+            },
+            {
+                  "name": "Pyramid of Khendjer",
+                  "text": "A 13. dinasztia fáraója, Hendzser számára épült örökségvédelem alatt álló romos vályogtégla piramis, amely bonyolult alépítményéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        31.223948,
+                        29.832371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyramid of the Two Angles",
+                  "text": "Un vechi sit arheologic care prezintă rămășițele unei structuri piramidale cu unghiuri unice în Dahshur.",
+                  "category": "historical",
+                  "coords": [
+                        31.200032,
+                        29.783338
+                  ]
+            },
+            {
+                  "name": "Northern Mazghuna pyramid",
+                  "text": "Rămășițele de cărămidă din lut ale unei piramide egiptene antice neterminate, situată în situl arheologic Mazghuna.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.7675
+                  ]
+            },
+            {
+                  "name": "Dahshur",
+                  "text": "O necropolă regală situată în deșertul de pe malul de vest al Nilului, renumită pentru piramidele sale timpurii și bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        31.206406,
+                        29.799041
+                  ]
+            },
+            {
+                  "name": "Tip of the Red Pyramid",
+                  "text": "Un monument care marchează zona arhitecturală distinctă a pietrei de temelie a faimoasei Piramide Roșii din Dahshur.",
+                  "category": "historical",
+                  "coords": [
+                        31.20626,
+                        29.808634
+                  ]
+            },
+            {
+                  "name": "Haram Senusret III",
+                  "text": "Rămășițele arheologice antice ale complexului piramidal construit inițial pentru faraonul Senusret al III-lea în Dahshur.",
+                  "category": "historical",
+                  "coords": [
+                        31.218474,
+                        29.819013
+                  ]
+            },
+            {
+                  "name": "Southern Mazghuna pyramid",
+                  "text": "O structură piramidală antică în ruină, compusă în principal din cărămidă de lut, situată în partea de sud a zonei Mazghuna.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.76167
+                  ]
+            },
+            {
+                  "name": "Bent Pyramid",
+                  "text": "O piramidă egipteană antică construită sub faraonul Sneferu, faimoasă pentru schimbarea unică a unghiului său de înclinare exterioară.",
+                  "category": "landmark",
+                  "coords": [
+                        31.209468,
+                        29.790236
+                  ]
+            },
+            {
+                  "name": "Pyramid of Senusret III",
+                  "text": "O piramidă din cărămidă de lut clasată ca patrimoniu, construită pentru faraonul din Regatul Mijlociu Senusret al III-lea în necropola Dahshur.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225732,
+                        29.818851
+                  ]
+            },
+            {
+                  "name": "Lepsius L Pyramid",
+                  "text": "Un vechi sit arheologic care conține ruinele unei piramide neterminate, catalogată inițial de Karl Richard Lepsius.",
+                  "category": "historical",
+                  "coords": [
+                        31.211672,
+                        29.810797
+                  ]
+            },
+            {
+                  "name": "Southern South Saqqara pyramid",
+                  "text": "O piramidă antică, clasată ca patrimoniu, situată la extremitatea sudică a necropolei Saqqara, redusă în mare parte la substructura sa.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222407,
+                        29.830645
+                  ]
+            },
+            {
+                  "name": "Pyramid of Khendjer",
+                  "text": "O piramidă ruinată din cărămidă de lut, clasată ca patrimoniu, construită pentru faraonul Khendjer din a 13-a dinastie, notabilă pentru substructura sa complexă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.223948,
+                        29.832371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyramid of the Two Angles",
+                  "text": "An ancient archaeological site featuring the remains of a uniquely angled pyramid structure in Dahshur.",
+                  "category": "historical",
+                  "coords": [
+                        31.200032,
+                        29.783338
+                  ]
+            },
+            {
+                  "name": "Northern Mazghuna pyramid",
+                  "text": "The ruined mudbrick remains of an unfinished ancient Egyptian pyramid located at the Mazghuna archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.7675
+                  ]
+            },
+            {
+                  "name": "Dahshur",
+                  "text": "A royal necropolis situated in the desert on the west bank of the Nile, renowned for its early and well-preserved pyramids.",
+                  "category": "landmark",
+                  "coords": [
+                        31.206406,
+                        29.799041
+                  ]
+            },
+            {
+                  "name": "Tip of the Red Pyramid",
+                  "text": "A monument marking the distinctive architectural capstone area of the famous Red Pyramid in Dahshur.",
+                  "category": "historical",
+                  "coords": [
+                        31.20626,
+                        29.808634
+                  ]
+            },
+            {
+                  "name": "Haram Senusret III",
+                  "text": "The ancient archaeological remains of the pyramid complex originally built for Pharaoh Senusret III in Dahshur.",
+                  "category": "historical",
+                  "coords": [
+                        31.218474,
+                        29.819013
+                  ]
+            },
+            {
+                  "name": "Southern Mazghuna pyramid",
+                  "text": "An ancient ruined pyramid structure composed primarily of mudbrick, located in the southern part of the Mazghuna area.",
+                  "category": "historical",
+                  "coords": [
+                        31.22083,
+                        29.76167
+                  ]
+            },
+            {
+                  "name": "Bent Pyramid",
+                  "text": "An ancient Egyptian pyramid built under Pharaoh Sneferu, famous for the unique change in its outer inclination angle.",
+                  "category": "landmark",
+                  "coords": [
+                        31.209468,
+                        29.790236
+                  ]
+            },
+            {
+                  "name": "Pyramid of Senusret III",
+                  "text": "A heritage-listed mudbrick pyramid constructed for the Middle Kingdom pharaoh Senusret III within the Dahshur necropolis.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225732,
+                        29.818851
+                  ]
+            },
+            {
+                  "name": "Lepsius L Pyramid",
+                  "text": "An ancient archaeological site containing the ruins of an unfinished pyramid originally cataloged by Karl Richard Lepsius.",
+                  "category": "historical",
+                  "coords": [
+                        31.211672,
+                        29.810797
+                  ]
+            },
+            {
+                  "name": "Southern South Saqqara pyramid",
+                  "text": "A heritage-listed ancient pyramid located at the southern extreme of the Saqqara necropolis, mostly reduced to its substructure.",
+                  "category": "landmark",
+                  "coords": [
+                        31.222407,
+                        29.830645
+                  ]
+            },
+            {
+                  "name": "Pyramid of Khendjer",
+                  "text": "A heritage-listed ruined mudbrick pyramid built for the 13th dynasty pharaoh Khendjer, notable for its complex substructure.",
+                  "category": "landmark",
+                  "coords": [
+                        31.223948,
+                        29.832371
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-GZ",
     coords: [31.2085, 29.8055],
@@ -843,7 +7746,88 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["La pyramide rouge est la troisième plus haute pyramide d'Égypte avec 104 mètres.", "L'angle d'inclinaison de la pyramide rhomboïdale change à 47 mètres de hauteur.", "Snéfrou a régné d'environ 2613 à 2589 av. J.-C.", "La pyramide rouge a été construite en calcaire local rougeâtre.", "La pyramide noire d'Amenemhat III est composée de briques de terre cuite.", "Dahchour a été inscrit sur la liste du patrimoine mondial de l'UNESCO en 1979."],
     }, image: "/poi-images/eg-gz-dahshur-history-v2.webp"},
   {
-    id: "eg-bns-meidum-history-v2",
+    id: "eg-bns-meidum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maidun Pyramid",
+                  "text": "Die Maidun-Pyramide ist eine altägyptische Stätte, die für ihre eingestürzte Stufenstruktur berühmt ist.",
+                  "category": "historical",
+                  "coords": [
+                        31.157128,
+                        29.388371
+                  ]
+            },
+            {
+                  "name": "Mastaba M17",
+                  "text": "Mastaba M17 ist ein altägyptisches Lehmziegelgrab in der Nähe der Meidum-Pyramide.",
+                  "category": "historical",
+                  "coords": [
+                        31.158575,
+                        29.389618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maidun Pyramid",
+                  "text": "A meidumi piramis egy ókori egyiptomi helyszín, amely összeomlott lépcsős szerkezetéről híres.",
+                  "category": "historical",
+                  "coords": [
+                        31.157128,
+                        29.388371
+                  ]
+            },
+            {
+                  "name": "Mastaba M17",
+                  "text": "Az M17-es masztaba egy ókori egyiptomi vályogtégla-sír a meidumi piramis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        31.158575,
+                        29.389618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maidun Pyramid",
+                  "text": "Piramida de la Meidum este un sit egiptean antic faimos pentru structura sa în trepte prăbușită.",
+                  "category": "historical",
+                  "coords": [
+                        31.157128,
+                        29.388371
+                  ]
+            },
+            {
+                  "name": "Mastaba M17",
+                  "text": "Mastaba M17 este un mormânt egiptean antic din cărămidă de lut, situat lângă Piramida de la Meidum.",
+                  "category": "historical",
+                  "coords": [
+                        31.158575,
+                        29.389618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maidun Pyramid",
+                  "text": "The Maidun Pyramid is an ancient Egyptian site famous for its collapsed, stepped structure.",
+                  "category": "historical",
+                  "coords": [
+                        31.157128,
+                        29.388371
+                  ]
+            },
+            {
+                  "name": "Mastaba M17",
+                  "text": "Mastaba M17 is an ancient Egyptian mudbrick tomb located near the Meidum Pyramid.",
+                  "category": "historical",
+                  "coords": [
+                        31.158575,
+                        29.389618
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-BNS",
     coords: [31.1574, 29.3879],
@@ -878,7 +7862,124 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["La pyramide avait initialement une hauteur prévue d'environ 92 mètres.", "Aujourd'hui, la tour centrale s'élève à environ 65 mètres au-dessus du monticule.", "Elle se compose d'un noyau de sept ou huit degrés de pierre.", "L'entrée se trouve sur la face nord à 18,5 mètres de hauteur.", "La chambre funéraire possède une voûte en encorbellement innovante pour l'époque.", "À proximité se trouve le mastaba 17 avec un énorme sarcophage en granit."],
     }, image: "/poi-images/eg-bns-meidum-history-v2.webp"},
   {
-    id: "eg-asn-kalabsha-history-v2",
+    id: "eg-asn-kalabsha-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Denkmal der ägyptisch-russischen Freundschaft",
+                  "text": "Dieses hoch aufragende Betonmonument in Form einer gigantischen, stilisierten Lotusblume erinnert an die Unterstützung der Sowjetunion beim Bau des Assuan-Staudamms.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867019,
+                        23.97085
+                  ]
+            },
+            {
+                  "name": "Felsentempel von Bet el-Wali",
+                  "text": "Dieser direkt in den umgebenden Fels gehauene antike Tempel zeigt lebendige historische Reliefs aus der Regierungszeit von Ramses II.",
+                  "category": "landmark",
+                  "coords": [
+                        32.866311,
+                        23.961796
+                  ]
+            },
+            {
+                  "name": "Tempel von Kalabscha",
+                  "text": "Dieser große, freistehende Tempel, der vor den Wassern des Nassersees gerettet wurde, war dem nubischen Sonnengott Mandulis gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867454,
+                        23.960854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The monument of Friendship between Egypt and Soviet Union",
+                  "text": "A gigantikus, stilizált lótuszvirágot formázó magasodó betonemlékmű a Szovjetunió segítségének állít emléket az Asszuáni-gát építésében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867019,
+                        23.97085
+                  ]
+            },
+            {
+                  "name": "Beit el Wali templom",
+                  "text": "A közvetlenül a környező sziklából kivájt ősi templom élénk történelmi domborműveket mutat be II. Ramszesz uralkodásának idejéből.",
+                  "category": "landmark",
+                  "coords": [
+                        32.866311,
+                        23.961796
+                  ]
+            },
+            {
+                  "name": "Kalabsha-i templom",
+                  "text": "Ezt a nagy, szabadon álló templomot, amelyet a Nasszer-tó vizétől megmentve áthelyeztek, Mandulisz núbiai napistennek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867454,
+                        23.960854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The monument of Friendship between Egypt and Soviet Union",
+                  "text": "Având forma unei gigantice flori de lotus stilizate, acest monument falnic din beton comemorează asistența Uniunii Sovietice în construirea Marelui Baraj de la Aswan.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867019,
+                        23.97085
+                  ]
+            },
+            {
+                  "name": "Temple of Beit el-Wali",
+                  "text": "Sculptat direct în stânca din jur, acest templu antic prezintă reliefuri istorice vii din timpul domniei lui Ramses al II-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        32.866311,
+                        23.961796
+                  ]
+            },
+            {
+                  "name": "Temple of Kalabsha",
+                  "text": "Acest mare templu independent, relocat pentru a fi salvat de apele Lacului Nasser, a fost dedicat zeului solar nubian Mandulis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867454,
+                        23.960854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The monument of Friendship between Egypt and Soviet Union",
+                  "text": "Shaped like a gigantic, stylized lotus flower, this towering concrete monument commemorates the Soviet Union's assistance in building the Aswan High Dam.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867019,
+                        23.97085
+                  ]
+            },
+            {
+                  "name": "Temple of Beit el-Wali",
+                  "text": "Hewn directly from the surrounding rock, this ancient temple showcases vivid historical reliefs from the reign of Ramesses II.",
+                  "category": "landmark",
+                  "coords": [
+                        32.866311,
+                        23.961796
+                  ]
+            },
+            {
+                  "name": "Temple of Kalabsha",
+                  "text": "This large freestanding temple, relocated to save it from the waters of Lake Nasser, was dedicated to the Nubian solar god Mandulis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.867454,
+                        23.960854
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ASN",
     coords: [32.867, 23.961],
@@ -913,7 +8014,484 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Ancien temple égyptien, à l'origine à Bab al-Kalabsha, déplacé en raison du barrage.", "Située sur le territoire de la République arabe d'Égypte.", "Est en lien avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-asn-kalabsha-history-v2.webp"},
   {
-    id: "eg-mn-amarna-history-v2",
+    id: "eg-mn-amarna-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Tomb of Eknathon",
+                  "text": "Dieses denkmalgeschützte Felsengrab wurde in einem abgelegenen östlichen Wadi für den Pharao Echnaton errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.984953,
+                        27.6264
+                  ]
+            },
+            {
+                  "name": "Southern tombs",
+                  "text": "Dieses antike Felsengrab gehört zur südlichen Gruppe, die für die Adligen von Amarna in die Kalksteinklippen gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        30.914896,
+                        27.610426
+                  ]
+            },
+            {
+                  "name": "Northern tombs",
+                  "text": "Dieses denkmalgeschützte antike Grab gehört zur nördlichen Gruppe, die für hohe Beamte in die Kalksteinklippen gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        30.927632,
+                        27.663733
+                  ]
+            },
+            {
+                  "name": "Archeological site Akhetaton",
+                  "text": "Diese weitläufigen Wüstenruinen repräsentieren die kurzlebige Hauptstadt, die vom Pharao Echnaton gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        30.898561,
+                        27.6451
+                  ]
+            },
+            {
+                  "name": "Kom el-Nana",
+                  "text": "Diese archäologische Stätte enthält die Fundamente eines großen Sonnentempelbezirks südlich der Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        30.888673,
+                        27.619392
+                  ]
+            },
+            {
+                  "name": "U Stele of Aton (Ehnaton)",
+                  "text": "Diese antike Grenzstele wurde direkt in den Fels gehauen, um die territorialen Grenzen von Echnatons Stadt zu markieren.",
+                  "category": "historical",
+                  "coords": [
+                        30.938053,
+                        27.645728
+                  ]
+            },
+            {
+                  "name": "Northern palace",
+                  "text": "Die Ruinen dieser antiken königlichen Residenz liegen abseits der Innenstadt und verfügten einst über formelle Gärten und Tiergehege.",
+                  "category": "landmark",
+                  "coords": [
+                        30.903515,
+                        27.669946
+                  ]
+            },
+            {
+                  "name": "Great Aten Temple",
+                  "text": "Diese denkmalgeschützte antike Stätte birgt die Grundmauern eines riesigen, dachlosen Tempels, der der Verehrung der Sonnenscheibe diente.",
+                  "category": "landmark",
+                  "coords": [
+                        30.900848,
+                        27.650491
+                  ]
+            },
+            {
+                  "name": "Amarna",
+                  "text": "Die umfangreichen archäologischen Überreste von Achetaton, der von Pharao Echnaton gegründeten Hauptstadt im alten Ägypten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.899138,
+                        27.64633
+                  ]
+            },
+            {
+                  "name": "Small Aten Temple",
+                  "text": "Ein altägyptischer Tempelkomplex, der in seiner Architektur und Anlage vollständig dem Sonnengott Aton geweiht war.",
+                  "category": "landmark",
+                  "coords": [
+                        30.896183,
+                        27.645167
+                  ]
+            },
+            {
+                  "name": "King's House",
+                  "text": "Die Ruinen einer königlichen Residenz, die vom Pharao und seiner Familie während der Amarna-Zeit genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        30.89656,
+                        27.646532
+                  ]
+            },
+            {
+                  "name": "Great Palace, Harem Quarters",
+                  "text": "Die ausgegrabenen Fundamente der Wohn- und Haremstraktes innerhalb des riesigen Großen Palastes von Amarna.",
+                  "category": "landmark",
+                  "coords": [
+                        30.895301,
+                        27.647193
+                  ]
+            },
+            {
+                  "name": "Great Palace, Coronation Hall",
+                  "text": "Die Überreste einer großen Zeremonienhalle, die für königliche Veranstaltungen im Komplex des Großen Palastes genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        30.894301,
+                        27.645734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amarnai királysír",
+                  "text": "Ezt a világörökségi védelem alatt álló sziklasírt egy távoli keleti vádiban építették Ehnaton fáraó számára.",
+                  "category": "landmark",
+                  "coords": [
+                        30.984953,
+                        27.6264
+                  ]
+            },
+            {
+                  "name": "Déli sírok",
+                  "text": "Ez az ősi sziklasír a déli csoporthoz tartozik, amelyet Amarna nemesei számára vájtak a mészkősziklákba.",
+                  "category": "landmark",
+                  "coords": [
+                        30.914896,
+                        27.610426
+                  ]
+            },
+            {
+                  "name": "Északi sírok",
+                  "text": "Ez a műemlékvédelem alatt álló ősi sír az északi csoporthoz tartozik, amelyet magas rangú tisztviselők számára vájtak a mészkősziklákba.",
+                  "category": "landmark",
+                  "coords": [
+                        30.927632,
+                        27.663733
+                  ]
+            },
+            {
+                  "name": "Archeological site Akhetaton",
+                  "text": "Ezek a kiterjedt sivatagi romok az Ehnaton fáraó által alapított rövid életű fővárost jelentik.",
+                  "category": "historical",
+                  "coords": [
+                        30.898561,
+                        27.6451
+                  ]
+            },
+            {
+                  "name": "Kom el-Nana",
+                  "text": "Ez a régészeti lelőhely egy jelentős naptemplom kerítésének alapjait tartalmazza a fővárostól délre.",
+                  "category": "historical",
+                  "coords": [
+                        30.888673,
+                        27.619392
+                  ]
+            },
+            {
+                  "name": "U Stele of Aton (Ehnaton)",
+                  "text": "Ezt az ősi határkövet közvetlenül az alapkőzetbe vájták, hogy megjelölje Ehnaton városának területi határait.",
+                  "category": "historical",
+                  "coords": [
+                        30.938053,
+                        27.645728
+                  ]
+            },
+            {
+                  "name": "Ehnaton Északi-palotája",
+                  "text": "Ennek az ősi királyi rezidenciának a romjai a központi várostól elkülönülve helyezkednek el, és egykor formális kertekkel és állatkertekkel rendelkeztek.",
+                  "category": "landmark",
+                  "coords": [
+                        30.903515,
+                        27.669946
+                  ]
+            },
+            {
+                  "name": "Great Aten Temple",
+                  "text": "Ez a műemlékvédelem alatt álló ősi lelőhely egy hatalmas, tető nélküli templom alapjait őrzi, amelyet a napkorong imádatának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        30.900848,
+                        27.650491
+                  ]
+            },
+            {
+                  "name": "Amarna",
+                  "text": "Ahet-Aton, az Ehnaton fáraó által alapított ókori egyiptomi főváros kiterjedt régészeti lelőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        30.899138,
+                        27.64633
+                  ]
+            },
+            {
+                  "name": "Kis Aton templom",
+                  "text": "Az ókori egyiptomi templomkomplexumot építészete és elrendezése alapján teljes egészében Aton napistennek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        30.896183,
+                        27.645167
+                  ]
+            },
+            {
+                  "name": "Királyi ház",
+                  "text": "Egy királyi rezidencia romjai, amelyet a fáraó és családja használt az Amarna-korszakban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.89656,
+                        27.646532
+                  ]
+            },
+            {
+                  "name": "Great Palace, Harem Quarters",
+                  "text": "Az Amarnai Nagy Palota hatalmas épületegyüttesén belüli lakó- és háremnegyedek feltárt alapjai.",
+                  "category": "landmark",
+                  "coords": [
+                        30.895301,
+                        27.647193
+                  ]
+            },
+            {
+                  "name": "Nagy palota",
+                  "text": "A Nagy Palota komplexumában található, egykor királyi eseményekre használt pompás ceremóniaterem maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        30.894301,
+                        27.645734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Tomb of Eknathon",
+                  "text": "Acest mormânt săpat în stâncă, inclus în patrimoniu, a fost construit într-un wadi estic izolat pentru faraonul Akhenaten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.984953,
+                        27.6264
+                  ]
+            },
+            {
+                  "name": "Southern tombs",
+                  "text": "Acest mormânt antic săpat în stâncă face parte din grupul sudic sculptat în stâncile de calcar pentru nobilii din Amarna.",
+                  "category": "landmark",
+                  "coords": [
+                        30.914896,
+                        27.610426
+                  ]
+            },
+            {
+                  "name": "Northern tombs",
+                  "text": "Acest mormânt antic de patrimoniu aparține grupului nordic sculptat în stâncile de calcar pentru înalții oficiali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.927632,
+                        27.663733
+                  ]
+            },
+            {
+                  "name": "Archeological site Akhetaton",
+                  "text": "Aceste ruine extinse din deșert reprezintă capitala cu o existență scurtă fondată de faraonul Akhenaten.",
+                  "category": "historical",
+                  "coords": [
+                        30.898561,
+                        27.6451
+                  ]
+            },
+            {
+                  "name": "Kom el-Nana",
+                  "text": "Acest sit arheologic conține fundațiile unei incinte substanțiale a unui templu solar la sud de orașul principal.",
+                  "category": "historical",
+                  "coords": [
+                        30.888673,
+                        27.619392
+                  ]
+            },
+            {
+                  "name": "U Stele of Aton (Ehnaton)",
+                  "text": "Această stelă antică de hotar a fost sculptată direct în stânca de bază pentru a marca limitele teritoriale ale orașului lui Akhenaten.",
+                  "category": "historical",
+                  "coords": [
+                        30.938053,
+                        27.645728
+                  ]
+            },
+            {
+                  "name": "Northern palace",
+                  "text": "Ruinele acestei vechi reședințe regale sunt separate de orașul central, prezentând cândva grădini formale și incinte pentru animale.",
+                  "category": "landmark",
+                  "coords": [
+                        30.903515,
+                        27.669946
+                  ]
+            },
+            {
+                  "name": "Great Aten Temple",
+                  "text": "Acest sit antic de patrimoniu conține resturile fundației unui vast templu fără acoperiș dedicat venerației discului solar.",
+                  "category": "landmark",
+                  "coords": [
+                        30.900848,
+                        27.650491
+                  ]
+            },
+            {
+                  "name": "Amarna",
+                  "text": "Vestigiile arheologice extinse ale orașului Akhetaton, capitala înființată de faraonul Akhenaton în Egiptul antic.",
+                  "category": "landmark",
+                  "coords": [
+                        30.899138,
+                        27.64633
+                  ]
+            },
+            {
+                  "name": "Small Aten Temple",
+                  "text": "Un complex de temple din Egiptul antic dedicat în întregime, prin arhitectura sa, zeului soare Aton.",
+                  "category": "landmark",
+                  "coords": [
+                        30.896183,
+                        27.645167
+                  ]
+            },
+            {
+                  "name": "King's House",
+                  "text": "Ruinele unei reședințe regale folosite de faraon și familia sa în perioada Amarna.",
+                  "category": "landmark",
+                  "coords": [
+                        30.89656,
+                        27.646532
+                  ]
+            },
+            {
+                  "name": "Great Palace, Harem Quarters",
+                  "text": "Fundațiile excavate ale cartierelor rezidențiale și ale haremului din vastul Mare Palat din Amarna.",
+                  "category": "landmark",
+                  "coords": [
+                        30.895301,
+                        27.647193
+                  ]
+            },
+            {
+                  "name": "Great Palace, Coronation Hall",
+                  "text": "Rămășițele unei mari săli de ceremonii folosite pentru evenimente regale în complexul Marelui Palat.",
+                  "category": "landmark",
+                  "coords": [
+                        30.894301,
+                        27.645734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Tomb of Eknathon",
+                  "text": "This heritage-listed rock-cut tomb was constructed in a remote eastern wadi for the pharaoh Akhenaten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.984953,
+                        27.6264
+                  ]
+            },
+            {
+                  "name": "Southern tombs",
+                  "text": "This ancient rock-cut tomb is part of the southern group carved into the limestone cliffs for the nobles of Amarna.",
+                  "category": "landmark",
+                  "coords": [
+                        30.914896,
+                        27.610426
+                  ]
+            },
+            {
+                  "name": "Northern tombs",
+                  "text": "This heritage-listed ancient tomb belongs to the northern cluster carved into the limestone cliffs for high officials.",
+                  "category": "landmark",
+                  "coords": [
+                        30.927632,
+                        27.663733
+                  ]
+            },
+            {
+                  "name": "Archeological site Akhetaton",
+                  "text": "These extensive desert ruins represent the short-lived capital city founded by the pharaoh Akhenaten.",
+                  "category": "historical",
+                  "coords": [
+                        30.898561,
+                        27.6451
+                  ]
+            },
+            {
+                  "name": "Kom el-Nana",
+                  "text": "This archaeological site contains the foundational ruins of a substantial sun temple enclosure south of the main city.",
+                  "category": "historical",
+                  "coords": [
+                        30.888673,
+                        27.619392
+                  ]
+            },
+            {
+                  "name": "U Stele of Aton (Ehnaton)",
+                  "text": "This ancient boundary stele was carved directly into the bedrock to mark the territorial limits of Akhenaten's city.",
+                  "category": "historical",
+                  "coords": [
+                        30.938053,
+                        27.645728
+                  ]
+            },
+            {
+                  "name": "Northern palace",
+                  "text": "The ruins of this ancient royal residence are set apart from the central city, once featuring formal gardens and animal enclosures.",
+                  "category": "landmark",
+                  "coords": [
+                        30.903515,
+                        27.669946
+                  ]
+            },
+            {
+                  "name": "Great Aten Temple",
+                  "text": "This heritage-listed ancient site contains the foundational remains of a vast, unroofed temple dedicated to the worship of the sun disk.",
+                  "category": "landmark",
+                  "coords": [
+                        30.900848,
+                        27.650491
+                  ]
+            },
+            {
+                  "name": "Amarna",
+                  "text": "The extensive archaeological remains of Akhetaten, the capital city established by Pharaoh Akhenaten in ancient Egypt.",
+                  "category": "landmark",
+                  "coords": [
+                        30.899138,
+                        27.64633
+                  ]
+            },
+            {
+                  "name": "Small Aten Temple",
+                  "text": "An ancient Egyptian temple complex dedicated entirely in its layout to the worship of the sun god Aten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.896183,
+                        27.645167
+                  ]
+            },
+            {
+                  "name": "King's House",
+                  "text": "The ruins of a royal residence used by the pharaoh and his family during the Amarna period.",
+                  "category": "landmark",
+                  "coords": [
+                        30.89656,
+                        27.646532
+                  ]
+            },
+            {
+                  "name": "Great Palace, Harem Quarters",
+                  "text": "The excavated foundations of the domestic and harem quarters within the vast Great Palace of Amarna.",
+                  "category": "landmark",
+                  "coords": [
+                        30.895301,
+                        27.647193
+                  ]
+            },
+            {
+                  "name": "Great Palace, Coronation Hall",
+                  "text": "The remains of a grand ceremonial hall used for royal events within the Great Palace complex.",
+                  "category": "landmark",
+                  "coords": [
+                        30.894301,
+                        27.645734
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-MN",
     coords: [30.9006, 27.6401],
@@ -948,7 +8526,628 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["La ville fut fondée vers la 5e année du règne d'Akhenaton.", "Elle s'étend sur 12 kilomètres le long de la rive est du Nil.", "14 stèles frontalières monumentales marquaient les limites de la ville.", "Le célèbre buste de Néfertiti y fut découvert en 1912.", "La ville fut abandonnée après seulement 15 ans d'occupation environ.", "Le Grand Temple d'Aton n'avait pas de toit afin de recevoir la lumière du soleil."],
     }, image: "/poi-images/eg-mn-amarna-history-v2.webp"},
   {
-    id: "eg-lxr-ramesseum-history-v2",
+    id: "eg-lxr-ramesseum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abo Eish Alabaster Factory",
+                  "text": "Die Alabaster Shops nahe dem Ramesseum bieten handgeschnitzte ägyptische Steinarbeiten nach antiker Tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        32.623316,
+                        25.733132
+                  ]
+            },
+            {
+                  "name": "TT296 Tomb of Nefersekheru",
+                  "text": "Das Grab TT296 in Theben-West gehört dem altägyptischen Beamten Nefersecheru und ist für seine feinen Wandmalereien bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.611968,
+                        25.73251
+                  ]
+            },
+            {
+                  "name": "TT52 (Nakht)",
+                  "text": "Das Grab TT52 gehört Nacht, einem Astronom des Amun, und beherbergt lebendige Szenen aus dem antiken Landleben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610737,
+                        25.732674
+                  ]
+            },
+            {
+                  "name": "TT69 (Menna)",
+                  "text": "Das thebanische Grab 69 gehörte Menna und zeigt detailreiche Malereien zur Landwirtschaft und Erntezeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608969,
+                        25.732166
+                  ]
+            },
+            {
+                  "name": "Crater de las Ostracas",
+                  "text": "Der Crater de las Ostracas ist eine Ausgrabungsstätte nahe dem Ramesseum, an der hunderte beschriftete Kalksteinscherben gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        32.60309,
+                        25.729149
+                  ]
+            },
+            {
+                  "name": "Totentempel des Sethos I.",
+                  "text": "Der Totentempel von Sethos I. in Qurna (Luxor) beeindruckt mit seinen massiven Pylonen und einem Königspalast.",
+                  "category": "landmark",
+                  "coords": [
+                        32.628541,
+                        25.73247
+                  ]
+            },
+            {
+                  "name": "Dra' Abu el-Naga'",
+                  "text": "Dra' Abu el-Naga' ist eine antike thebanische Nekropole, die sich am Westufer des Nils befindet.",
+                  "category": "historical",
+                  "coords": [
+                        32.621461,
+                        25.736789
+                  ]
+            },
+            {
+                  "name": "Balloons",
+                  "text": "Diese Heißluftballonfahrten bieten einen atemberaubenden Blick aus der Vogelperspektive auf die antiken Tempelanlagen am Westufer von Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.618826,
+                        25.731405
+                  ]
+            },
+            {
+                  "name": "TT 414",
+                  "text": "Das thebanische Grab TT 414 diente als letzte Ruhestätte für Ankh-hor, einen hohen Beamten.",
+                  "category": "historical",
+                  "coords": [
+                        32.614402,
+                        25.733609
+                  ]
+            },
+            {
+                  "name": "Tomb of Sheshonk (TT27)",
+                  "text": "Das Grab des Scheschonq (TT27) ist eine bedeutende thebanische Begräbnisstätte für den Obersten Hausmeier der Gottesgemahlin des Amun.",
+                  "category": "historical",
+                  "coords": [
+                        32.616098,
+                        25.732835
+                  ]
+            },
+            {
+                  "name": "Totentempel des Thutmosis III.",
+                  "text": "Der Totentempel von Thutmosis III. war dem Kult dieses mächtigen Pharaos gewidmet und lag am Rande des thebanischen Fruchtlandes.",
+                  "category": "historical",
+                  "coords": [
+                        32.613043,
+                        25.730168
+                  ]
+            },
+            {
+                  "name": "Temple of Amenhotep II",
+                  "text": "Die Ruinen des Totentempels von Amenhotep II. zeugen von den einstigen Kultanlagen für diesen Pharao der 18. Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        32.611399,
+                        25.728621
+                  ]
+            },
+            {
+                  "name": "Tomb of Puyemre (TT39)",
+                  "text": "Das thebanische Grab des Puimre (TT39), dem Zweiten Propheten des Amun, zeichnet sich durch seine detaillierten Wandmalereien aus.",
+                  "category": "historical",
+                  "coords": [
+                        32.613456,
+                        25.733629
+                  ]
+            },
+            {
+                  "name": "Topos Saint-Marc",
+                  "text": "Topos Saint-Marc ist eine archäologische Stätte, die die Überreste einer alten koptischen Klosteranlage am Westufer umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        32.604003,
+                        25.72688
+                  ]
+            },
+            {
+                  "name": "Temple of Merneptah",
+                  "text": "Der Totentempel des Merenptah ist berühmt als der ursprüngliche Fundort der sogenannten Israel-Stele.",
+                  "category": "historical",
+                  "coords": [
+                        32.606582,
+                        25.724977
+                  ]
+            },
+            {
+                  "name": "Chapel of Nebneteru",
+                  "text": "Die Kapelle des Nebneteru ist eine kleine, faszinierende Kultstätte innerhalb der weitläufigen thebanischen Nekropole.",
+                  "category": "historical",
+                  "coords": [
+                        32.607908,
+                        25.72683
+                  ]
+            },
+            {
+                  "name": "Temple of Wadjmose",
+                  "text": "Dieser archäologische Bereich enthält die Ruinen des Gedenktempels für Prinz Wadjmose, einem Sohn von Thutmosis I.",
+                  "category": "historical",
+                  "coords": [
+                        32.609383,
+                        25.727272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abo Eish Alabaster Factory",
+                  "text": "A Ramesseum közelében található alabástrom boltok ősi hagyományok alapján kézzel faragott egyiptomi kőtárgyakat kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.623316,
+                        25.733132
+                  ]
+            },
+            {
+                  "name": "TT296 Tomb of Nefersekheru",
+                  "text": "A thébai nyugati parton található TT296-os sír Neferszeheru ókori egyiptomi tisztviselőé, és finom falfestményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.611968,
+                        25.73251
+                  ]
+            },
+            {
+                  "name": "TT52 (Nakht)",
+                  "text": "A TT52-es sír Naht, Ámon egyik csillagásza nyughelye, és élénk jeleneteket ábrázol az ókori vidéki életből.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610737,
+                        25.732674
+                  ]
+            },
+            {
+                  "name": "TT69 (Menna)",
+                  "text": "A 69-es thébai sír Menna tulajdona volt, és a mezőgazdaságot, valamint a szüreti szertartásokat ábrázoló részletes festményeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608969,
+                        25.732166
+                  ]
+            },
+            {
+                  "name": "Crater de las Ostracas",
+                  "text": "A Crater de las Ostracas egy ásatási terület a Ramesseum közelében, ahol több száz feliratos mészkőtöredéket találtak.",
+                  "category": "historical",
+                  "coords": [
+                        32.60309,
+                        25.729149
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Seti I",
+                  "text": "I. Széthi kurnai (Luxor) halotti temploma hatalmas pülónjaival és egy királyi palotával nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        32.628541,
+                        25.73247
+                  ]
+            },
+            {
+                  "name": "Dra' Abu el-Naga'",
+                  "text": "Dra' Abu el-Naga' egy ókori thébai nekropolisz a Nílus nyugati partján.",
+                  "category": "historical",
+                  "coords": [
+                        32.621461,
+                        25.736789
+                  ]
+            },
+            {
+                  "name": "Balloons",
+                  "text": "Ezek a hőlégballonos utazások madártávlatból nyújtanak lélegzetelállító kilátást Luxor nyugati partjának ősi templomaira.",
+                  "category": "landmark",
+                  "coords": [
+                        32.618826,
+                        25.731405
+                  ]
+            },
+            {
+                  "name": "TT 414",
+                  "text": "A TT 414-es thébai sír Ankh-hor, egy magas rangú ókori egyiptomi tisztviselő végső nyughelyéül szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        32.614402,
+                        25.733609
+                  ]
+            },
+            {
+                  "name": "Tomb of Sheshonk (TT27)",
+                  "text": "Sesonk sírja (TT27) egy jelentős thébai temetkezési helyszín, amely Ámon isteni feleségének fő háznagya számára készült.",
+                  "category": "historical",
+                  "coords": [
+                        32.616098,
+                        25.732835
+                  ]
+            },
+            {
+                  "name": "III. Tuthmozisz templom",
+                  "text": "III. Thotmesz halotti templomát a hatalmas fáraó kultuszának szentelték a thébai termékeny földek peremén.",
+                  "category": "historical",
+                  "coords": [
+                        32.613043,
+                        25.730168
+                  ]
+            },
+            {
+                  "name": "II. Amenhotep templom",
+                  "text": "II. Amenhotep halotti templomának romjai a 18. dinasztia fáraójának egykori kultuszhelyét őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        32.611399,
+                        25.728621
+                  ]
+            },
+            {
+                  "name": "Tomb of Puyemre (TT39)",
+                  "text": "Pujemré (TT39), Ámon második prófétájának thébai sírját részletes falfestményei teszik különlegessé.",
+                  "category": "historical",
+                  "coords": [
+                        32.613456,
+                        25.733629
+                  ]
+            },
+            {
+                  "name": "Topos Saint-Marc",
+                  "text": "A Topos Saint-Marc egy régészeti lelőhely, amely egy ősi kopt kolostorkomplexum maradványait foglalja magába a nyugati parton.",
+                  "category": "historical",
+                  "coords": [
+                        32.604003,
+                        25.72688
+                  ]
+            },
+            {
+                  "name": "Merneptah templom",
+                  "text": "Merenptah halotti temploma elsősorban arról híres, hogy itt találták meg az úgynevezett Izrael-sztélét.",
+                  "category": "historical",
+                  "coords": [
+                        32.606582,
+                        25.724977
+                  ]
+            },
+            {
+                  "name": "Nebneterou kápolna",
+                  "text": "A Nebneteru-kápolna egy kisebb, lenyűgöző kultuszhely a kiterjedt thébai nekropolisz területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.607908,
+                        25.72683
+                  ]
+            },
+            {
+                  "name": "Temple of Wadjmose",
+                  "text": "Ez a régészeti terület I. Thotmesz fia, Wadzsmesz herceg emléktemplomának romjait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        32.609383,
+                        25.727272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abo Eish Alabaster Factory",
+                  "text": "Magazinele de alabastru din apropierea Ramesseumului oferă obiecte din piatră egipteană sculptate manual după tradiții antice.",
+                  "category": "landmark",
+                  "coords": [
+                        32.623316,
+                        25.733132
+                  ]
+            },
+            {
+                  "name": "TT296 Tomb of Nefersekheru",
+                  "text": "Mormântul TT296 de pe malul vestic teban îi aparține oficialului antic egiptean Nefersekheru și este cunoscut pentru picturile sale murale fine.",
+                  "category": "landmark",
+                  "coords": [
+                        32.611968,
+                        25.73251
+                  ]
+            },
+            {
+                  "name": "TT52 (Nakht)",
+                  "text": "Mormântul TT52 aparține lui Nakht, un astronom al lui Amon, și prezintă scene pline de viață din mediul rural antic.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610737,
+                        25.732674
+                  ]
+            },
+            {
+                  "name": "TT69 (Menna)",
+                  "text": "Mormântul teban 69 i-a aparținut lui Menna și etalează picturi detaliate despre agricultură și ceremoniile de recoltare.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608969,
+                        25.732166
+                  ]
+            },
+            {
+                  "name": "Crater de las Ostracas",
+                  "text": "Crater de las Ostracas este o zonă de excavații de lângă Ramesseum unde s-au găsit sute de cioburi de calcar inscripționate.",
+                  "category": "historical",
+                  "coords": [
+                        32.60309,
+                        25.729149
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Seti I",
+                  "text": "Templul funerar al lui Seti I din Qurna (Luxor) impresionează prin pilonii săi masivi și printr-un palat regal.",
+                  "category": "landmark",
+                  "coords": [
+                        32.628541,
+                        25.73247
+                  ]
+            },
+            {
+                  "name": "Dra' Abu el-Naga'",
+                  "text": "Dra' Abu el-Naga' este o veche necropolă tebană situată pe malul vestic al Nilului.",
+                  "category": "historical",
+                  "coords": [
+                        32.621461,
+                        25.736789
+                  ]
+            },
+            {
+                  "name": "Balloons",
+                  "text": "Aceste zboruri cu balonul cu aer cald oferă o panoramă uluitoare de sus asupra templelor antice de pe malul vestic din Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.618826,
+                        25.731405
+                  ]
+            },
+            {
+                  "name": "TT 414",
+                  "text": "Mormântul teban TT 414 a servit drept loc de veci pentru Ankh-hor, un înalt oficial.",
+                  "category": "historical",
+                  "coords": [
+                        32.614402,
+                        25.733609
+                  ]
+            },
+            {
+                  "name": "Tomb of Sheshonk (TT27)",
+                  "text": "Mormântul lui Sheshonk (TT27) este un sit funerar teban important, construit pentru majordomul șef al adoratoarei divine a lui Amon.",
+                  "category": "historical",
+                  "coords": [
+                        32.616098,
+                        25.732835
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Thutmose III",
+                  "text": "Templul funerar al lui Tutmes al III-lea a fost dedicat cultului acestui faraon puternic și era situat la marginea terenurilor fertile tebane.",
+                  "category": "historical",
+                  "coords": [
+                        32.613043,
+                        25.730168
+                  ]
+            },
+            {
+                  "name": "Temple of Amenhotep II",
+                  "text": "Ruinele templului funerar al lui Amenhotep al II-lea mărturisesc existența locurilor de cult pentru acest faraon din dinastia a 18-a.",
+                  "category": "historical",
+                  "coords": [
+                        32.611399,
+                        25.728621
+                  ]
+            },
+            {
+                  "name": "Tomb of Puyemre (TT39)",
+                  "text": "Mormântul teban al lui Puyemre (TT39), cel de-al doilea profet al lui Amon, se remarcă prin picturile sale murale detaliate.",
+                  "category": "historical",
+                  "coords": [
+                        32.613456,
+                        25.733629
+                  ]
+            },
+            {
+                  "name": "Topos Saint-Marc",
+                  "text": "Topos Saint-Marc este un sit arheologic care cuprinde rămășițele unui vechi complex monahal coptic pe malul vestic.",
+                  "category": "historical",
+                  "coords": [
+                        32.604003,
+                        25.72688
+                  ]
+            },
+            {
+                  "name": "Temple of Merneptah",
+                  "text": "Templul funerar al lui Merneptah este renumit ca locul original al descoperirii cunoscutei Stele a lui Israel.",
+                  "category": "historical",
+                  "coords": [
+                        32.606582,
+                        25.724977
+                  ]
+            },
+            {
+                  "name": "Chapel of Nebneteru",
+                  "text": "Capela lui Nebneteru este un mic și fascinant loc de cult în cadrul vastei necropole tebane.",
+                  "category": "historical",
+                  "coords": [
+                        32.607908,
+                        25.72683
+                  ]
+            },
+            {
+                  "name": "Temple of Wadjmose",
+                  "text": "Această zonă arheologică conține ruinele templului memorial dedicat prințului Wadjmose, un fiu al lui Tutmes I.",
+                  "category": "historical",
+                  "coords": [
+                        32.609383,
+                        25.727272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alabaster Shops",
+                  "text": "The Alabaster Shops near the Ramesseum offer hand-carved Egyptian stone crafts made following ancient traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        32.623316,
+                        25.733132
+                  ]
+            },
+            {
+                  "name": "TT296 Tomb of Nefersekheru",
+                  "text": "Tomb TT296 on the Theban West Bank belongs to the ancient Egyptian official Nefersekheru, known for its fine wall paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        32.611968,
+                        25.73251
+                  ]
+            },
+            {
+                  "name": "TT52 (Nakht)",
+                  "text": "Tomb TT52 belongs to Nakht, an astronomer of Amun, and features lively scenes of ancient rural life.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610737,
+                        25.732674
+                  ]
+            },
+            {
+                  "name": "Theban Tomb 69 (Menna)",
+                  "text": "Theban Tomb 69 belonged to Menna and showcases detailed paintings of agriculture and harvesting ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        32.608969,
+                        25.732166
+                  ]
+            },
+            {
+                  "name": "Crater de las Ostracas",
+                  "text": "Crater de las Ostracas is an excavation area near the Ramesseum where hundreds of inscribed limestone sherds were discovered.",
+                  "category": "historical",
+                  "coords": [
+                        32.60309,
+                        25.729149
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Seti I",
+                  "text": "The Mortuary Temple of Seti I in Qurna (Luxor) impresses with its massive pylons and a royal palace.",
+                  "category": "landmark",
+                  "coords": [
+                        32.628541,
+                        25.73247
+                  ]
+            },
+            {
+                  "name": "Dra' Abu el-Naga'",
+                  "text": "Dra' Abu el-Naga' is an ancient Theban necropolis located on the West Bank of the Nile.",
+                  "category": "historical",
+                  "coords": [
+                        32.621461,
+                        25.736789
+                  ]
+            },
+            {
+                  "name": "hot-air balloon",
+                  "text": "These hot-air balloon rides offer breathtaking bird's-eye views over the ancient temple complexes on Luxor's West Bank.",
+                  "category": "landmark",
+                  "coords": [
+                        32.618826,
+                        25.731405
+                  ]
+            },
+            {
+                  "name": "TT 414",
+                  "text": "Theban Tomb TT 414 served as the final resting place for Ankh-hor, a high-ranking official.",
+                  "category": "historical",
+                  "coords": [
+                        32.614402,
+                        25.733609
+                  ]
+            },
+            {
+                  "name": "Tomb of Sheshonk (TT27)",
+                  "text": "The Tomb of Sheshonk (TT27) is a notable Theban burial site built for the chief steward of the Divine Adoratrice of Amun.",
+                  "category": "historical",
+                  "coords": [
+                        32.616098,
+                        25.732835
+                  ]
+            },
+            {
+                  "name": "Mortuary Temple of Thutmose III",
+                  "text": "The Mortuary Temple of Thutmose III was dedicated to the cult of this powerful pharaoh, situated on the edge of the Theban cultivation.",
+                  "category": "historical",
+                  "coords": [
+                        32.613043,
+                        25.730168
+                  ]
+            },
+            {
+                  "name": "Temple of Amenhotep II",
+                  "text": "The ruins of the Temple of Amenhotep II mark the site of the mortuary cult complex for this 18th-dynasty pharaoh.",
+                  "category": "historical",
+                  "coords": [
+                        32.611399,
+                        25.728621
+                  ]
+            },
+            {
+                  "name": "Tomb of Puyemre (TT39)",
+                  "text": "The Theban Tomb of Puyemre (TT39), the Second Prophet of Amun, is notable for its detailed ancient wall paintings.",
+                  "category": "historical",
+                  "coords": [
+                        32.613456,
+                        25.733629
+                  ]
+            },
+            {
+                  "name": "Topos Saint-Marc",
+                  "text": "Topos Saint-Marc is an archaeological site comprising the remnants of an ancient Coptic monastic complex on the West Bank.",
+                  "category": "historical",
+                  "coords": [
+                        32.604003,
+                        25.72688
+                  ]
+            },
+            {
+                  "name": "Temple of Merneptah",
+                  "text": "The mortuary Temple of Merneptah is most famous as the original discovery site of the historical Israel Stele.",
+                  "category": "historical",
+                  "coords": [
+                        32.606582,
+                        25.724977
+                  ]
+            },
+            {
+                  "name": "Chapel of Nebneteru",
+                  "text": "The Chapel of Nebneteru is a small but intriguing ancient cult site nestled within the vast Theban necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        32.607908,
+                        25.72683
+                  ]
+            },
+            {
+                  "name": "Temple of Wadjmose",
+                  "text": "This archaeological area contains the ruins of the memorial temple dedicated to Prince Wadjmose, a son of Thutmose I.",
+                  "category": "historical",
+                  "coords": [
+                        32.609383,
+                        25.727272
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-LX",
     coords: [32.6105, 25.7278],
@@ -1018,7 +9217,196 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       fr: ["Un magnifique complexe de temples de l'Égypte ancienne à Abydos, célèbre pour ses reliefs fins.", "Situé sur le territoire de la République arabe d'Égypte.", "En relation avec le Nil ou la zone désertique voisine."],
     }, image: "/poi-images/eg-shg-seti-temple-history-v2.webp"},
   {
-    id: "eg-alx-roman-amp-history-v2",
+    id: "eg-alx-roman-amp-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nabi Daniel Mosque",
+                  "text": "Diese historische Moschee verfügt über eine Krypta, in der traditionell die Überreste des Propheten Daniel vermutet werden.",
+                  "category": "religious",
+                  "coords": [
+                        29.902403,
+                        31.194532
+                  ]
+            },
+            {
+                  "name": "ElMadina Arts",
+                  "text": "ElMadina Arts ist ein Zentrum für zeitgenössische Kunst, das lokale kreative Initiativen in der Stadt fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901196,
+                        31.194088
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "Das Museum of Fine Arts beherbergt eine bedeutende Sammlung nahöstlicher und ägyptischer bildender Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        29.913503,
+                        31.195094
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "Das Instituto Cervantes ist ein Kulturzentrum, das sich der Förderung der spanischen Sprache und Kultur in der Region widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        29.911668,
+                        31.1999
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Dieses antike römische Amphitheater verfügt über gut erhaltene stufenförmige Sitzreihen aus der klassischen Epoche.",
+                  "category": "historical",
+                  "coords": [
+                        29.903669,
+                        31.194448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabi Daniel Mosque",
+                  "text": "Ez a történelmi mecset egy kriptával rendelkezik, amely a hagyomány szerint Dániel próféta földi maradványait őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        29.902403,
+                        31.194532
+                  ]
+            },
+            {
+                  "name": "ElMadina Arts",
+                  "text": "Az ElMadina Arts egy kortárs művészeti központ, amely a város helyi kreatív kezdeményezéseit támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901196,
+                        31.194088
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "A Szépművészeti Múzeum a közel-keleti és egyiptomi vizuális művészetek kiemelkedő gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        29.913503,
+                        31.195094
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "Az Instituto Cervantes a spanyol nyelv és kultúra népszerűsítésének szentelt kulturális központ a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        29.911668,
+                        31.1999
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Ez az ókori római amfiteátrum a klasszikus korból származó, jól megőrzött lépcsőzetes üléssorokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        29.903669,
+                        31.194448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabi Daniel Mosque",
+                  "text": "Această moschee istorică are o criptă despre care tradiția spune că ar conține rămășițele profetului Daniel.",
+                  "category": "religious",
+                  "coords": [
+                        29.902403,
+                        31.194532
+                  ]
+            },
+            {
+                  "name": "ElMadina Arts",
+                  "text": "ElMadina Arts este un centru de artă contemporană care încurajează inițiativele creative locale din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901196,
+                        31.194088
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "Muzeul de Arte Frumoase găzduiește o colecție importantă de arte vizuale egiptene și din Orientul Mijlociu.",
+                  "category": "museum",
+                  "coords": [
+                        29.913503,
+                        31.195094
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "Instituto Cervantes este un centru de artă dedicat promovării limbii și culturii spaniole în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        29.911668,
+                        31.1999
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Acest amfiteatru roman antic prezintă scaune etajate bine conservate din epoca clasică.",
+                  "category": "historical",
+                  "coords": [
+                        29.903669,
+                        31.194448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabi Daniel Mosque",
+                  "text": "This historic mosque features a crypt traditionally believed to hold the remains of the prophet Daniel.",
+                  "category": "religious",
+                  "coords": [
+                        29.902403,
+                        31.194532
+                  ]
+            },
+            {
+                  "name": "ElMadina Arts",
+                  "text": "ElMadina Arts is a contemporary arts centre fostering local creative initiatives in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901196,
+                        31.194088
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "The Museum of Fine Arts houses a prominent collection of Middle Eastern and Egyptian visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        29.913503,
+                        31.195094
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "The Instituto Cervantes is an arts centre dedicated to promoting Spanish language and culture in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        29.911668,
+                        31.1999
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "This ancient Roman amphitheatre features well-preserved tiered seating from the classical era.",
+                  "category": "historical",
+                  "coords": [
+                        29.903669,
+                        31.194448
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "EG-ALX",
     coords: [29.9056, 31.1925],

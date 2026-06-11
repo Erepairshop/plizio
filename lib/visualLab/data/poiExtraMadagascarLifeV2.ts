@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraMadagascarLifeV2: POI[] = [
   {
-    id: "andasibe-mantadia-life-v2",
+    id: "andasibe-mantadia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc à orchidées",
+                  "text": "Ein spezieller botanischer Garten im Regenwald, der eine reiche Vielfalt an einheimischen madagassischen Orchideenarten präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.413574,
+                        -18.932844
+                  ]
+            },
+            {
+                  "name": "VOI MMA",
+                  "text": "Ein von der Gemeinde verwaltetes Waldreservat in Andasibe, das sich dem Erhalt der einheimischen Lemuren und der Regenwaldlebensräume widmet.",
+                  "category": "natural",
+                  "coords": [
+                        48.417145,
+                        -18.928909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc à orchidées",
+                  "text": "Speciális botanikus kert az esőerdőben, amely az őshonos madagaszkári orchideafajok gazdag választékát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        48.413574,
+                        -18.932844
+                  ]
+            },
+            {
+                  "name": "VOI MMA",
+                  "text": "Andasibe közösségi kezelésben lévő erdőrezervátuma, amely az őshonos makik és az esőerdei élőhelyek megőrzésével foglalkozik.",
+                  "category": "natural",
+                  "coords": [
+                        48.417145,
+                        -18.928909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc à orchidées",
+                  "text": "O grădină botanică specializată în pădurea tropicală, prezentând o varietate bogată de specii de orhidee indigene malgașe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.413574,
+                        -18.932844
+                  ]
+            },
+            {
+                  "name": "VOI MMA",
+                  "text": "O rezervație forestieră administrată de comunitate în Andasibe, dedicată conservării lemurilor nativi și a habitatelor din pădurile tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        48.417145,
+                        -18.928909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orchid Garden",
+                  "text": "A specialized botanical garden within the rainforest showcasing a rich variety of indigenous Malagasy orchid species.",
+                  "category": "landmark",
+                  "coords": [
+                        48.413574,
+                        -18.932844
+                  ]
+            },
+            {
+                  "name": "VOI MMA",
+                  "text": "A community-managed forest reserve in Andasibe dedicated to the conservation of native lemurs and rainforest habitats.",
+                  "category": "natural",
+                  "coords": [
+                        48.417145,
+                        -18.928909
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-A",
     coords: [48.418, -18.933],
@@ -73,7 +154,88 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "kirindy-wald-life-v2",
+    id: "kirindy-wald-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirindy Private Reserve",
+                  "text": "Dieser private trockene Laubwald ist weltweit als idealer Ort bekannt, um Raubtiere wie die Fossa in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        44.657379,
+                        -20.067072
+                  ]
+            },
+            {
+                  "name": "Baobab Sacré",
+                  "text": "Umhüllt von traditionellen Stoffen und umgeben von Opfergaben, ist dieser uralte Affenbrotbaum mit dickem Stamm eine zutiefst verehrte spirituelle Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        44.597028,
+                        -20.067283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kirindy Private Reserve",
+                  "text": "Ez a privát száraz lombhullató erdő világszerte ismert, mint ideális hely olyan ragadozók, mint a fossza természetes élőhelyén történő megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        44.657379,
+                        -20.067072
+                  ]
+            },
+            {
+                  "name": "Baobab Sacré",
+                  "text": "A hagyományos szövetekbe burkolt és felajánlásokkal körülvett ősi, vastag törzsű majomkenyérfa mélyen tisztelt spirituális hely.",
+                  "category": "landmark",
+                  "coords": [
+                        44.597028,
+                        -20.067283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kirindy Private Reserve",
+                  "text": "Această pădure privată de foioase uscată este renumită la nivel mondial ca un loc ideal pentru a observa prădători precum fosa în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        44.657379,
+                        -20.067072
+                  ]
+            },
+            {
+                  "name": "Baobab Sacré",
+                  "text": "Înfășurat în țesături tradiționale și înconjurat de ofrande, acest copac străvechi de baobab cu trunchi gros este un loc spiritual profund venerat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.597028,
+                        -20.067283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kirindy Private Reserve",
+                  "text": "This private dry deciduous forest is globally renowned as an ideal place to spot predators like the fossa in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        44.657379,
+                        -20.067072
+                  ]
+            },
+            {
+                  "name": "Sacred Baobab",
+                  "text": "Wrapped in traditional fabrics and surrounded by offerings, this ancient, thick-trunked baobab tree is a deeply revered spiritual site.",
+                  "category": "landmark",
+                  "coords": [
+                        44.597028,
+                        -20.067283
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-M",
     coords: [44.667, -20.083],
@@ -248,7 +410,88 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "vakona-lemuren-insel-life-v2",
+    id: "vakona-lemuren-insel-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve privée Vakôna",
+                  "text": "Dieser private Zoo bietet Schutzräume für verschiedene Lemurenarten in ihrer natürlichen Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        48.43371,
+                        -18.894093
+                  ]
+            },
+            {
+                  "name": "Lemur Island",
+                  "text": "Diese Insel ist als zoologisches Schutzgebiet für einheimische madagassische Lemuren bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        48.430509,
+                        -18.889129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve privée Vakôna",
+                  "text": "Ez a magánállatkert menedéket nyújt a különböző maki fajoknak természetes élőhelyükön.",
+                  "category": "recreational",
+                  "coords": [
+                        48.43371,
+                        -18.894093
+                  ]
+            },
+            {
+                  "name": "Lemur Island",
+                  "text": "Ez a sziget egy zoológiai menedékhely az őshonos madagaszkári makik számára.",
+                  "category": "recreational",
+                  "coords": [
+                        48.430509,
+                        -18.889129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve privée Vakôna",
+                  "text": "Această grădină zoologică privată oferă adăpost pentru diverse specii de lemurieni în mediul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        48.43371,
+                        -18.894093
+                  ]
+            },
+            {
+                  "name": "Lemur Island",
+                  "text": "Această insulă este recunoscută ca un sanctuar zoologic pentru lemurienii nativi din Madagascar.",
+                  "category": "recreational",
+                  "coords": [
+                        48.430509,
+                        -18.889129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve privée Vakôna",
+                  "text": "This private zoo reserve provides a sanctuary for various lemur species in their natural environment.",
+                  "category": "recreational",
+                  "coords": [
+                        48.43371,
+                        -18.894093
+                  ]
+            },
+            {
+                  "name": "Lemur Island",
+                  "text": "This island serves as a zoological sanctuary dedicated to native Malagasy lemurs.",
+                  "category": "recreational",
+                  "coords": [
+                        48.430509,
+                        -18.889129
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-A",
     coords: [48.43, -18.92],
@@ -283,7 +526,124 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "ampefy-geyser-park-life-v2",
+    id: "ampefy-geyser-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chutes de la Lilly",
+                  "text": "Dieser spektakuläre Wasserfall stürzt über altes Vulkangestein und erzeugt einen konstanten, kühlenden Nebel über dem üppigen Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        46.684136,
+                        -19.031544
+                  ]
+            },
+            {
+                  "name": "Ambohiniazy",
+                  "text": "Dieser alte archäologische Hügel birgt die Ahnengräber der frühen Bewohner, eingebettet vor der Kulisse ruhender Vulkane.",
+                  "category": "historical",
+                  "coords": [
+                        46.791926,
+                        -19.087832
+                  ]
+            },
+            {
+                  "name": "Ilot de la sainte vierge",
+                  "text": "Diese ruhige Felseninsel ist über einen kleinen Damm im See erreichbar und wird von einer auffälligen weißen Statue der Jungfrau Maria gekrönt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.767166,
+                        -19.071205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chutes de la Lilly",
+                  "text": "Az ősi vulkáni kőzeteken lezúduló látványos vízesés folyamatos, hűsítő ködöt hoz létre a buja völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        46.684136,
+                        -19.031544
+                  ]
+            },
+            {
+                  "name": "Ambohiniazy",
+                  "text": "Ez az ősi régészeti halom a korai lakosok ősi sírjait rejti, a szunnyadó vulkánok háttere előtt.",
+                  "category": "historical",
+                  "coords": [
+                        46.791926,
+                        -19.087832
+                  ]
+            },
+            {
+                  "name": "Ilot de la sainte vierge",
+                  "text": "A tóban egy kis töltésen keresztül megközelíthető, nyugodt sziklás szigetecskét Szűz Mária lenyűgöző fehér szobra koronázza meg.",
+                  "category": "landmark",
+                  "coords": [
+                        46.767166,
+                        -19.071205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chutes de la Lilly",
+                  "text": "Căzută spectaculos peste roci vulcanice antice, această cascadă uluitoare creează o ceață constantă, răcoroasă, peste valea luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.684136,
+                        -19.031544
+                  ]
+            },
+            {
+                  "name": "Ambohiniazy",
+                  "text": "Această movilă arheologică antică adăpostește mormintele ancestrale ale primilor locuitori, așezate pe un fundal de vulcani adormiți.",
+                  "category": "historical",
+                  "coords": [
+                        46.791926,
+                        -19.087832
+                  ]
+            },
+            {
+                  "name": "Ilot de la sainte vierge",
+                  "text": "Accesibilă printr-un mic dig în lac, această insuliță stâncoasă și liniștită este încoronată de o statuie albă impresionantă a Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        46.767166,
+                        -19.071205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chutes de la Lilly",
+                  "text": "Plunging dramatically over ancient volcanic rocks, this spectacular waterfall creates a constant, cooling mist over the lush valley.",
+                  "category": "landmark",
+                  "coords": [
+                        46.684136,
+                        -19.031544
+                  ]
+            },
+            {
+                  "name": "Ambohiniazy",
+                  "text": "This ancient archaeological mound holds the ancestral tombs of early inhabitants, set against a backdrop of dormant volcanoes.",
+                  "category": "historical",
+                  "coords": [
+                        46.791926,
+                        -19.087832
+                  ]
+            },
+            {
+                  "name": "Ilot de la sainte vierge",
+                  "text": "Accessible via a small causeway in the lake, this tranquil rocky islet is crowned by a striking white statue of the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        46.767166,
+                        -19.071205
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MG-V",
     coords: [46.7, -19.1],
@@ -353,7 +713,52 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "maroantsetra-vanille-farm-life-v2",
+    id: "maroantsetra-vanille-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Die zerfallenden Steinreste eines alten maritimen Leuchtfeuers stehen ruhig in der Nähe von Maroantsetra und bieten einen Einblick in die koloniale Vergangenheit.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Egy régi tengeri világítótorony omladozó kőmaradványai állnak csendben Maroantsetra közelében, bepillantást engedve a gyarmati múltba.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Rămășițele de piatră fărâmițate ale unui vechi far maritim stau liniștite lângă Maroantsetra, oferind o privire în trecutul său colonial.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "The crumbling stone remains of an old maritime beacon stand quietly near Maroantsetra, offering a glimpse into its colonial past.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440574
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MG-A",
     coords: [49.73, -15.43],
@@ -458,7 +863,88 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "lakato-lemuren-schutz-life-v2",
+    id: "lakato-lemuren-schutz-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gendarmerie Museum",
+                  "text": "Ein Museum, das die Geschichte, Uniformen und Artefakte der nationalen Gendarmerie ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        48.224257,
+                        -18.950434
+                  ]
+            },
+            {
+                  "name": "Mozea Tolom-Panafahana 1947",
+                  "text": "Ein historisches Museum, das an die Ereignisse und das Erbe des Madagaskar-Aufstands von 1947 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        48.230593,
+                        -18.94816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gendarmerie Museum",
+                  "text": "A nemzeti csendőrség történetét, egyenruháit és tárgyi emlékeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        48.224257,
+                        -18.950434
+                  ]
+            },
+            {
+                  "name": "Mozea Tolom-Panafahana 1947",
+                  "text": "A történelmi múzeum az 1947-es madagaszkári felkelés eseményeinek és örökségének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        48.230593,
+                        -18.94816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gendarmerie Museum",
+                  "text": "Un muzeu dedicat care expune istoria, uniformele și artefactele forțelor jandarmeriei naționale.",
+                  "category": "museum",
+                  "coords": [
+                        48.224257,
+                        -18.950434
+                  ]
+            },
+            {
+                  "name": "Mozea Tolom-Panafahana 1947",
+                  "text": "Un muzeu istoric care comemorează evenimentele și moștenirea Revoltei Malgașe din 1947.",
+                  "category": "museum",
+                  "coords": [
+                        48.230593,
+                        -18.94816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gendarmerie Museum",
+                  "text": "A dedicated museum exhibiting the history, uniforms, and artifacts of the national gendarmerie forces.",
+                  "category": "museum",
+                  "coords": [
+                        48.224257,
+                        -18.950434
+                  ]
+            },
+            {
+                  "name": "Museum of 1947",
+                  "text": "A historical museum commemorating the events and legacy of the 1947 Malagasy Uprising.",
+                  "category": "museum",
+                  "coords": [
+                        48.230593,
+                        -18.94816
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-A",
     coords: [48.3, -18.9],
@@ -528,7 +1014,88 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "nosy-tanikely-marine-life-v2",
+    id: "nosy-tanikely-marine-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre d'interpretation",
+                  "text": "Ein Bildungsmuseum auf Nosy Tanikely, das detaillierte Informationen über die reiche Meereswelt und die Korallenriff-Ökosysteme des umliegenden Meeresschutzgebiets bietet.",
+                  "category": "museum",
+                  "coords": [
+                        48.236201,
+                        -13.482925
+                  ]
+            },
+            {
+                  "name": "Nosy Tanikely",
+                  "text": "Ein kleines maritimes Inselreservat mit unberührten Sandstränden und kristallklarem Wasser, das bei Schnorchlern und Tauchern beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        48.238102,
+                        -13.482852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre d'interpretation",
+                  "text": "A Nosy Tanikely szigeten található oktatási múzeum, amely a környező tengeri rezervátum gazdag tengeri élővilágát és korallzátony-ökoszisztémáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.236201,
+                        -13.482925
+                  ]
+            },
+            {
+                  "name": "Nosy Tanikely",
+                  "text": "Egy kis szigeti tengeri rezervátum, amely érintetlen homokos strandokkal és kristálytiszta vizekkel büszkélkedhet, és népszerű a búvárkodók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        48.238102,
+                        -13.482852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre d'interpretation",
+                  "text": "Un muzeu educațional pe Nosy Tanikely care detaliază viața marină bogată și ecosistemele de recif de corali din rezervația marină înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        48.236201,
+                        -13.482925
+                  ]
+            },
+            {
+                  "name": "Nosy Tanikely",
+                  "text": "O mică insulă rezervație marină care se mândrește cu plaje de nisip imaculate și ape cristaline, populară printre pasionații de snorkeling și scufundări.",
+                  "category": "recreational",
+                  "coords": [
+                        48.238102,
+                        -13.482852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre d'interpretation",
+                  "text": "An educational museum on Nosy Tanikely detailing the rich marine life and coral reef ecosystems of the surrounding marine reserve.",
+                  "category": "museum",
+                  "coords": [
+                        48.236201,
+                        -13.482925
+                  ]
+            },
+            {
+                  "name": "Nosy Tanikely",
+                  "text": "A small island marine reserve boasting pristine sandy beaches and crystal-clear waters popular for snorkeling and diving.",
+                  "category": "recreational",
+                  "coords": [
+                        48.238102,
+                        -13.482852
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-D",
     coords: [48.24, -13.48],
@@ -563,7 +1130,88 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "toliara-botanischer-garten-life-v2",
+    id: "toliara-botanischer-garten-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "Plage de la Batterie ist ein sandiger Küstenstreifen, der oft für lange Strandspaziergänge am Ozean besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        43.642335,
+                        -23.357431
+                  ]
+            },
+            {
+                  "name": "Playa de la Batterie",
+                  "text": "Playa de la Batterie ist ein offener Sandstrand, der einen Panoramablick auf die Küstengewässer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        43.628922,
+                        -23.329972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "A Plage de la Batterie egy homokos part menti sáv, amelyet gyakran látogatnak az óceán menti hosszú sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        43.642335,
+                        -23.357431
+                  ]
+            },
+            {
+                  "name": "Playa de la Batterie",
+                  "text": "A Playa de la Batterie egy nyitott homokos strand, ahonnan panorámás kilátás nyílik a part menti vizekre.",
+                  "category": "recreational",
+                  "coords": [
+                        43.628922,
+                        -23.329972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "Plage de la Batterie este o fâșie de coastă cu nisip frecventată adesea pentru plimbări lungi de-a lungul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        43.642335,
+                        -23.357431
+                  ]
+            },
+            {
+                  "name": "Playa de la Batterie",
+                  "text": "Playa de la Batterie este o plajă deschisă cu nisip, care oferă vederi panoramice ale apelor de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        43.628922,
+                        -23.329972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "Plage de la Batterie is a sandy coastal strip often frequented for long walks along the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        43.642335,
+                        -23.357431
+                  ]
+            },
+            {
+                  "name": "Playa de la Batterie",
+                  "text": "Playa de la Batterie is an open sandy beach offering panoramic views of the coastal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        43.628922,
+                        -23.329972
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MG-T",
     coords: [43.66, -23.35],
@@ -598,7 +1246,52 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "manakara-kanal-life-v2",
+    id: "manakara-kanal-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument aux morts malgaches",
+                  "text": "Dieses Denkmal in der Nähe des Kanals von Manakara ehrt die gefallenen madagassischen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        48.010883,
+                        -22.169004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux morts malgaches",
+                  "text": "Ez a Manakara-csatorna közelében található emlékmű a hősi halált halt madagaszkáriaknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        48.010883,
+                        -22.169004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux morts malgaches",
+                  "text": "Acest monument de lângă canalul Manakara onorează memoria soldaților malgași căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        48.010883,
+                        -22.169004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument aux morts malgaches",
+                  "text": "This monument near the Manakara canal honors the memory of fallen Malagasy people.",
+                  "category": "historical",
+                  "coords": [
+                        48.010883,
+                        -22.169004
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MG-F",
     coords: [48.0, -22.14],
@@ -633,7 +1326,160 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "mahajanga-strand-life-v2",
+    id: "mahajanga-strand-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cirque Rouge",
+                  "text": "Ein dramatisches natürliches Amphitheater aus leuchtend roten, rosa und ockerfarbenen Ton- und Sandsteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        46.353065,
+                        -15.634643
+                  ]
+            },
+            {
+                  "name": "Petit Pavois",
+                  "text": "Ein Küstenort mit Strandbungalows, eingebettet an die Sandstrände in der Nähe von Mahajanga.",
+                  "category": "recreational",
+                  "coords": [
+                        46.332879,
+                        -15.656495
+                  ]
+            },
+            {
+                  "name": "Grand Pavois",
+                  "text": "Ein bekanntes Feriendorf am Meer, berühmt für seinen breiten weißen Sandstrand und die Nähe zum Cirque Rouge.",
+                  "category": "recreational",
+                  "coords": [
+                        46.343223,
+                        -15.638012
+                  ]
+            },
+            {
+                  "name": "Phare de Katsepy",
+                  "text": "Ein hoch aufragender Leuchtturm aus dem 20. Jahrhundert auf der anderen Seite der Bucht von Mahajanga, der einen Panoramablick auf die Straße von Mosambik bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.216647,
+                        -15.716113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cirque Rouge",
+                  "text": "Drámai természetes amfiteátrum, amely élénkvörös, rózsaszín és okker agyag- és homokkő képződményekből áll.",
+                  "category": "landmark",
+                  "coords": [
+                        46.353065,
+                        -15.634643
+                  ]
+            },
+            {
+                  "name": "Petit Pavois",
+                  "text": "Tengerparti üdülőhely tengerparti bungalókkal, amelyek a homokos partok mentén, Mahajanga közelében találhatók.",
+                  "category": "recreational",
+                  "coords": [
+                        46.332879,
+                        -15.656495
+                  ]
+            },
+            {
+                  "name": "Grand Pavois",
+                  "text": "Jól ismert tengerparti üdülőfalu, amely széles, fehér homokos strandjáról és a Cirque Rouge közelségéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        46.343223,
+                        -15.638012
+                  ]
+            },
+            {
+                  "name": "Phare de Katsepy",
+                  "text": "A Mahajangával szemközti öböl túlpartján található, 1900-as évekbeli magasító világítótorony panorámás kilátást nyújt a Mozambiki-csatornára.",
+                  "category": "landmark",
+                  "coords": [
+                        46.216647,
+                        -15.716113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cirque Rouge",
+                  "text": "Un amfiteatru natural spectaculos compus din formațiuni de argilă și gresie de culoare roșu intens, roz și ocru.",
+                  "category": "landmark",
+                  "coords": [
+                        46.353065,
+                        -15.634643
+                  ]
+            },
+            {
+                  "name": "Petit Pavois",
+                  "text": "O stațiune de coastă cu bungalouri pe plajă, cuibărite de-a lungul malurilor de nisip de lângă Mahajanga.",
+                  "category": "recreational",
+                  "coords": [
+                        46.332879,
+                        -15.656495
+                  ]
+            },
+            {
+                  "name": "Grand Pavois",
+                  "text": "Un sat de vacanță pe litoral bine-cunoscut, renumit pentru plaja sa largă cu nisip alb și proximitatea față de Cirque Rouge.",
+                  "category": "recreational",
+                  "coords": [
+                        46.343223,
+                        -15.638012
+                  ]
+            },
+            {
+                  "name": "Phare de Katsepy",
+                  "text": "Un far impunător din anii 1900, situat peste golf de Mahajanga, oferind vederi panoramice ale Canalului Mozambic.",
+                  "category": "landmark",
+                  "coords": [
+                        46.216647,
+                        -15.716113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cirque Rouge",
+                  "text": "A dramatic natural amphitheater composed of vivid red, pink, and ochre clay and sandstone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        46.353065,
+                        -15.634643
+                  ]
+            },
+            {
+                  "name": "Petit Pavois",
+                  "text": "A coastal resort featuring beachfront bungalows nestled along the sandy shores near Mahajanga.",
+                  "category": "recreational",
+                  "coords": [
+                        46.332879,
+                        -15.656495
+                  ]
+            },
+            {
+                  "name": "Grand Pavois",
+                  "text": "A well-known seaside holiday village renowned for its wide white-sand beach and proximity to the Cirque Rouge.",
+                  "category": "recreational",
+                  "coords": [
+                        46.343223,
+                        -15.638012
+                  ]
+            },
+            {
+                  "name": "Phare de Katsepy",
+                  "text": "A towering 1900s lighthouse situated across the bay from Mahajanga, offering panoramic views of the Mozambique Channel.",
+                  "category": "landmark",
+                  "coords": [
+                        46.216647,
+                        -15.716113
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MG-M",
     coords: [46.3, -15.7],
@@ -732,7 +1578,88 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "fianarantsoa-weingut-life-v2",
+    id: "fianarantsoa-weingut-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Acien Rova Ialalananindro",
+                  "text": "Die historischen Überreste eines traditionellen madagassischen königlichen Geheges oder einer Burg im Hochland um Fianarantsoa.",
+                  "category": "castle",
+                  "coords": [
+                        47.143886,
+                        -21.42384
+                  ]
+            },
+            {
+                  "name": "Lapan'i Vohimasina",
+                  "text": "Eine traditionelle Attraktion in Fianarantsoa, die das architektonische Erbe und die Kulturgeschichte der lokalen Betsileo widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.154853,
+                        -21.418631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acien Rova Ialalananindro",
+                  "text": "Egy hagyományos madagaszkári királyi rezidencia vagy vár történelmi maradványai a Fianarantsoa körüli hegyvidéken.",
+                  "category": "castle",
+                  "coords": [
+                        47.143886,
+                        -21.42384
+                  ]
+            },
+            {
+                  "name": "Lapan'i Vohimasina",
+                  "text": "Fianarantsoa hagyományos látványossága, amely a helyi betsileo építészeti örökséget és kultúrtörténetet tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        47.154853,
+                        -21.418631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acien Rova Ialalananindro",
+                  "text": "Rămășițele istorice ale unei incinte regale sau castel tradițional malgaș, situat în zonele înalte din jurul orașului Fianarantsoa.",
+                  "category": "castle",
+                  "coords": [
+                        47.143886,
+                        -21.42384
+                  ]
+            },
+            {
+                  "name": "Lapan'i Vohimasina",
+                  "text": "O atracție tradițională din Fianarantsoa care reflectă patrimoniul arhitectural și istoria culturală locală a etniei Betsileo.",
+                  "category": "landmark",
+                  "coords": [
+                        47.154853,
+                        -21.418631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acien Rova Ialalananindro",
+                  "text": "The historic remnants of a traditional Malagasy royal enclosure or castle located in the highlands around Fianarantsoa.",
+                  "category": "castle",
+                  "coords": [
+                        47.143886,
+                        -21.42384
+                  ]
+            },
+            {
+                  "name": "Lapan'i Vohimasina",
+                  "text": "A traditional attraction in Fianarantsoa reflecting local Betsileo architectural heritage and cultural history.",
+                  "category": "landmark",
+                  "coords": [
+                        47.154853,
+                        -21.418631
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MG-F",
     coords: [47.1, -21.4],
@@ -767,7 +1694,52 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "nosy-komba-lemuren-life-v2",
+    id: "nosy-komba-lemuren-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lokobe",
+                  "text": "Der Lokobe-Nationalpark schützt den letzten verbleibenden primären Sambirano-Wald auf Nosy Be und ist ein wichtiges Schutzgebiet für den gefährdeten Mohrenmaki.",
+                  "category": "natural",
+                  "coords": [
+                        48.325914,
+                        -13.400788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lokobe",
+                  "text": "A Nosy Be szigetének utolsó megmaradt elsődleges Sambirano-erdejét védő Lokobe Nemzeti Park a veszélyeztetett szerecsenmaki kulcsfontosságú menedéke.",
+                  "category": "natural",
+                  "coords": [
+                        48.325914,
+                        -13.400788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lokobe",
+                  "text": "Protejând ultima pădure primară Sambirano rămasă pe Nosy Be, Parcul Național Lokobe este un sanctuar critic pentru lemurul negru pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        48.325914,
+                        -13.400788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lokobe",
+                  "text": "Protecting the last remaining primary Sambirano forest on Nosy Be, Lokobe National Park is a critical sanctuary for the endangered black lemur.",
+                  "category": "natural",
+                  "coords": [
+                        48.325914,
+                        -13.400788
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-D",
     coords: [48.35, -13.4],
@@ -837,7 +1809,52 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "antsirabe-thermalbad-life-v2",
+    id: "antsirabe-thermalbad-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "Ein einzigartiges Museum in Antsirabe, das sich dem geistigen Eigentum und lokalen madagassischen Erfindungen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "Egy egyedülálló múzeum Antsirabében, amelyet a szellemi tulajdonnak és a helyi madagaszkári találmányoknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "Un muzeu unic în Antsirabe dedicat proprietății intelectuale și invențiilor locale malgașe.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "A unique museum in Antsirabe dedicated to intellectual property and local Malagasy inventions.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MG-V",
     coords: [47.04, -19.87],
@@ -872,7 +1889,52 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "ankarafantsika-vogelbeobachtung-life-v2",
+    id: "ankarafantsika-vogelbeobachtung-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand Canyon",
+                  "text": "Eine dramatisch erodierte Sandsteinschlucht im Ankarafantsika-Nationalpark, die tiefrote und weiße Klippen aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786628,
+                        -16.333715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand Canyon",
+                  "text": "Drámaian erodálódott homokkő szurdok az Ankarafantsika Nemzeti Parkban, mélyvörös és fehér sziklákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786628,
+                        -16.333715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand Canyon",
+                  "text": "Un defileu de gresie erodat spectaculos în Parcul Național Ankarafantsika, prezentând stânci adânci roșii și albe.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786628,
+                        -16.333715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Canyon",
+                  "text": "A dramatically eroded sandstone gorge within Ankarafantsika National Park, showcasing deep red and white colored cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786628,
+                        -16.333715
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-M",
     coords: [46.8, -16.3],
@@ -942,7 +2004,88 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "tampolo-naturreservat-life-v2",
+    id: "tampolo-naturreservat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Champ de pierre",
+                  "text": "Das Champ de pierre ist eine markante geologische Formation im Tampolo-Reservat, die sich durch eine weite Fläche verwitterter Felsbrocken inmitten des Küstenwaldes auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.393933,
+                        -17.2878
+                  ]
+            },
+            {
+                  "name": "Station ESSA-Forêts de Tampolo",
+                  "text": "Die Station ESSA-Forêts de Tampolo fungiert als forstwirtschaftliches Forschungszentrum und Ökomuseum, das sich der Erhaltung der ostmadagassischen Küstenflora widmet.",
+                  "category": "museum",
+                  "coords": [
+                        49.408577,
+                        -17.287225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Champ de pierre",
+                  "text": "A Champ de pierre egy lenyűgöző geológiai képződmény a Tampolo rezervátumban, amelyet a part menti erdőben szétszórt, mállott sziklák hatalmas kiterjedése jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        49.393933,
+                        -17.2878
+                  ]
+            },
+            {
+                  "name": "Station ESSA-Forêts de Tampolo",
+                  "text": "A Station ESSA-Forêts de Tampolo erdészeti kutatóközpontként és ökomúzeumként működik, amelyet Madagaszkár keleti parti flórájának megőrzésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        49.408577,
+                        -17.287225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Champ de pierre",
+                  "text": "Champ de pierre este o formațiune geologică impresionantă din rezervația Tampolo, caracterizată printr-o întindere vastă de bolovani erodați împrăștiați în mijlocul pădurii de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        49.393933,
+                        -17.2878
+                  ]
+            },
+            {
+                  "name": "Station ESSA-Forêts de Tampolo",
+                  "text": "Stația ESSA-Forêts din Tampolo funcționează ca un centru de cercetare forestieră și ecomuzeu dedicat conservării florei de coastă estice a Madagascarului.",
+                  "category": "museum",
+                  "coords": [
+                        49.408577,
+                        -17.287225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Champ de pierre",
+                  "text": "Champ de pierre is a striking geological formation within the Tampolo reserve, characterized by a vast expanse of weathered boulders scattered amid coastal forest.",
+                  "category": "landmark",
+                  "coords": [
+                        49.393933,
+                        -17.2878
+                  ]
+            },
+            {
+                  "name": "Station ESSA-Forêts de Tampolo",
+                  "text": "The Station ESSA-Forêts de Tampolo functions as a forestry research hub and eco-museum dedicated to the conservation of Madagascar's eastern coastal flora.",
+                  "category": "museum",
+                  "coords": [
+                        49.408577,
+                        -17.287225
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MG-A",
     coords: [49.4, -17.3],
@@ -1012,7 +2155,232 @@ export const poiExtraMadagascarLifeV2: POI[] = [
     
   },
   {
-    id: "mahajanga-zoo-life-v2",
+    id: "mahajanga-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aqualand Park",
+                  "text": "Ein Wasser-Freizeitpark in Mahajanga, der Rutschen und Pools für familiäre Erholungsausflüge bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        46.339896,
+                        -15.675705
+                  ]
+            },
+            {
+                  "name": "Barea",
+                  "text": "Ein öffentliches Denkmal in Mahajanga, das dem Zebu gewidmet ist und Madagaskars ikonisches Rind würdigt.",
+                  "category": "historical",
+                  "coords": [
+                        46.307442,
+                        -15.709384
+                  ]
+            },
+            {
+                  "name": "Sôma Beach",
+                  "text": "Eine Küstenferienanlage mit Sandstrand in Mahajanga, die Annehmlichkeiten für Urlauber bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        46.307657,
+                        -15.704425
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "Ein kleineres, entspanntes Seebad bei Mahajanga, das schattige Plätze entlang der sandigen Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        46.30171,
+                        -15.711754
+                  ]
+            },
+            {
+                  "name": "Village touristique",
+                  "text": "Ein beliebter Küstenkomplex mit Strandpromenaden und Freizeiteinrichtungen für Touristen.",
+                  "category": "recreational",
+                  "coords": [
+                        46.305561,
+                        -15.705628
+                  ]
+            },
+            {
+                  "name": "Mozea Akiba",
+                  "text": "Ein lokales Museum, das die kulturellen Artefakte und das historische Erbe der Region Boeny in Madagaskar bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        46.352847,
+                        -15.702151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqualand Park",
+                  "text": "Vizes vidámpark Mahajangában, amely csúszdákkal és medencékkel várja a kikapcsolódni vágyó családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        46.339896,
+                        -15.675705
+                  ]
+            },
+            {
+                  "name": "Barea",
+                  "text": "Mahajanga köztéri emlékműve, amelyet a zebu tiszteletére állítottak, ünnepelve Madagaszkár ikonikus szarvasmarháját.",
+                  "category": "historical",
+                  "coords": [
+                        46.307442,
+                        -15.709384
+                  ]
+            },
+            {
+                  "name": "Sôma Beach",
+                  "text": "Tengerparti üdülőövezet homokos partszakasszal Mahajangában, amely különféle kényelmi szolgáltatásokat kínál a nyaralóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        46.307657,
+                        -15.704425
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "Kisebb, pihentető tengerparti üdülőhely Mahajanga közelében, amely árnyékos helyeket kínál a homokos partvonal mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        46.30171,
+                        -15.711754
+                  ]
+            },
+            {
+                  "name": "Village touristique",
+                  "text": "Népszerű tengerparti komplexum parti sétányokkal és szabadidős létesítményekkel a turisták számára.",
+                  "category": "recreational",
+                  "coords": [
+                        46.305561,
+                        -15.705628
+                  ]
+            },
+            {
+                  "name": "Mozea Akiba",
+                  "text": "Helyi múzeum, amely a madagaszkári Boeny régió kulturális tárgyait és történelmi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        46.352847,
+                        -15.702151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqualand Park",
+                  "text": "Un parc de distracții cu tematică acvatică în Mahajanga, oferind tobogane și piscine pentru vizite recreative în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        46.339896,
+                        -15.675705
+                  ]
+            },
+            {
+                  "name": "Barea",
+                  "text": "Un monument public în Mahajanga dedicat zebu-ului, celebrând vitele emblematice ale Madagascarului.",
+                  "category": "historical",
+                  "coords": [
+                        46.307442,
+                        -15.709384
+                  ]
+            },
+            {
+                  "name": "Sôma Beach",
+                  "text": "O zonă de stațiune de coastă cu plajă de nisip în Mahajanga, oferind facilități pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        46.307657,
+                        -15.704425
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "O stațiune balneară mai mică și relaxată lângă Mahajanga, oferind locuri umbrite de-a lungul coastei de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        46.30171,
+                        -15.711754
+                  ]
+            },
+            {
+                  "name": "Village touristique",
+                  "text": "Un complex de coastă popular, cu promenade pe plajă și facilități de recreere pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        46.305561,
+                        -15.705628
+                  ]
+            },
+            {
+                  "name": "Mozea Akiba",
+                  "text": "Un muzeu local care conservă artefactele culturale și moștenirea istorică a regiunii Boeny din Madagascar.",
+                  "category": "museum",
+                  "coords": [
+                        46.352847,
+                        -15.702151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqualand Park",
+                  "text": "A water-themed amusement park in Mahajanga offering slides and pools for recreational family visits.",
+                  "category": "recreational",
+                  "coords": [
+                        46.339896,
+                        -15.675705
+                  ]
+            },
+            {
+                  "name": "Barea",
+                  "text": "A public monument in Mahajanga dedicated to the zebu, celebrating Madagascar's iconic cattle.",
+                  "category": "historical",
+                  "coords": [
+                        46.307442,
+                        -15.709384
+                  ]
+            },
+            {
+                  "name": "Sôma Beach",
+                  "text": "A coastal resort area with a sandy beachfront in Mahajanga, providing amenities for vacationers.",
+                  "category": "recreational",
+                  "coords": [
+                        46.307657,
+                        -15.704425
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "A smaller, relaxed seaside resort near Mahajanga offering shaded spots along the sandy coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        46.30171,
+                        -15.711754
+                  ]
+            },
+            {
+                  "name": "Village touristique",
+                  "text": "A popular coastal complex featuring beachfront promenades and recreational facilities for tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        46.305561,
+                        -15.705628
+                  ]
+            },
+            {
+                  "name": "Mozea Akiba",
+                  "text": "A local museum preserving the cultural artifacts and historical heritage of the Boeny region in Madagascar.",
+                  "category": "museum",
+                  "coords": [
+                        46.352847,
+                        -15.702151
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MG-M",
     coords: [46.31, -15.71],

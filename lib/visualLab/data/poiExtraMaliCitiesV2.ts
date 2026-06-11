@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraMaliCitiesV2: POI[] = [
   {
-    id: "bamako-cities-v2",
+    id: "bamako-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument à Patrice Lumumba",
+                  "text": "Dieses Denkmal in Bamako ehrt Patrice Lumumba, den kongolesischen Unabhängigkeitsführer und Panafrika-Ikone.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996642,
+                        12.638718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument à Patrice Lumumba",
+                  "text": "Ez a bamakói emlékmű Patrice Lumumbának, a kongói függetlenségi vezetőnek és a pánafrikai ikonnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996642,
+                        12.638718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument à Patrice Lumumba",
+                  "text": "Acest memorial din Bamako îl onorează pe Patrice Lumumba, liderul independenței congoleze și icon pan-african.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996642,
+                        12.638718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument à Patrice Lumumba",
+                  "text": "This Bamako memorial honors Patrice Lumumba, the Congolese independence leader and Pan-African icon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996642,
+                        12.638718
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ML-BKO",
     coords: [-7.9990, 12.6392],
@@ -1446,7 +1491,124 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "tombouctou-cities-v2",
+    id: "tombouctou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Almansur",
+                  "text": "Eine kulturelle Einrichtung in Timbuktu, die regionale historische Artefakte und das reiche Wüstenerbe ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -3.009448,
+                        16.772059
+                  ]
+            },
+            {
+                  "name": "Maison René Caille",
+                  "text": "Ein Gedenkhaus zu Ehren des französischen Entdeckers René Caillié, der 1828 als erster Europäer lebend aus Timbuktu zurückkehrte.",
+                  "category": "historical",
+                  "coords": [
+                        -3.007791,
+                        16.772326
+                  ]
+            },
+            {
+                  "name": "Museum d'Archéologie",
+                  "text": "Ein archäologisches Museum, das im Sand um Timbuktu ausgegrabene antike Werkzeuge und Relikte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -3.006657,
+                        16.771821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Almansur",
+                  "text": "Egy kulturális intézmény Timbuktuban, amely regionális történelmi műtárgyakat és gazdag sivatagi örökséget mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -3.009448,
+                        16.772059
+                  ]
+            },
+            {
+                  "name": "Maison René Caille",
+                  "text": "Emlékház René Caillié francia felfedező tiszteletére, aki első európaiként tért vissza élve Timbuktuból 1828-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.007791,
+                        16.772326
+                  ]
+            },
+            {
+                  "name": "Museum d'Archéologie",
+                  "text": "Egy régészeti múzeum, amely a Timbuktu körüli homokból feltárt ősi eszközöket és ereklyéket állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -3.006657,
+                        16.771821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Almansur",
+                  "text": "O instituție culturală din Timbuktu care expune artefacte istorice regionale și o bogată moștenire a deșertului.",
+                  "category": "museum",
+                  "coords": [
+                        -3.009448,
+                        16.772059
+                  ]
+            },
+            {
+                  "name": "Maison René Caille",
+                  "text": "O casă memorială în onoarea exploratorului francez René Caillié, primul european care s-a întors în viață din Timbuktu în 1828.",
+                  "category": "historical",
+                  "coords": [
+                        -3.007791,
+                        16.772326
+                  ]
+            },
+            {
+                  "name": "Museum d'Archéologie",
+                  "text": "Un muzeu arheologic care expune unelte antice și relicve dezgropate din nisipurile care înconjoară Timbuktu.",
+                  "category": "museum",
+                  "coords": [
+                        -3.006657,
+                        16.771821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Almansur",
+                  "text": "A cultural institution in Timbuktu showcasing regional historical artifacts and rich desert heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -3.009448,
+                        16.772059
+                  ]
+            },
+            {
+                  "name": "Maison René Caille",
+                  "text": "A memorial house honoring the French explorer René Caillié, the first European to return alive from Timbuktu in 1828.",
+                  "category": "historical",
+                  "coords": [
+                        -3.007791,
+                        16.772326
+                  ]
+            },
+            {
+                  "name": "Museum d'Archéologie",
+                  "text": "An archaeological museum exhibiting ancient tools and relics unearthed from the sands surrounding Timbuktu.",
+                  "category": "museum",
+                  "coords": [
+                        -3.006657,
+                        16.771821
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-6",
     coords: [-3.0074, 16.7734],
@@ -3254,7 +3416,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "taoudenni-cities-v2",
+    id: "taoudenni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ksar de Smida",
+                  "text": "Das Ksar de Smida besteht aus den zerfallenden, sandverwehten Ruinen eines traditionellen befestigten Gebäudes in der Sahara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98039,
+                        22.679558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ksar de Smida",
+                  "text": "A Ksar de Smida egy hagyományos szaharai erődített épület omladozó, homokfútta romjaiból áll.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98039,
+                        22.679558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ksar de Smida",
+                  "text": "Ksar de Smida este format din ruinele prăbușite, măturate de nisip, ale unei clădiri fortificate tradiționale din Sahara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98039,
+                        22.679558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ksar de Smida",
+                  "text": "The Ksar de Smida consists of the crumbling, sand-swept ruins of a traditional Saharan fortified structure.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98039,
+                        22.679558
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-10",
     coords: [-3.9833, 22.6763],

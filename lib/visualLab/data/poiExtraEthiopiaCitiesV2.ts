@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraEthiopiaCitiesV2: POI[] = [
   {
-    id: "addis-ababa-cities-v2",
+    id: "addis-ababa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ጎላ መናፈሻ",
+                  "text": "Ein öffentliches Erholungsgebiet, das einen grünen Rückzugsort vom hektischen Stadtleben bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.748489,
+                        9.024713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ጎላ መናፈሻ",
+                  "text": "Nyilvános rekreációs terület, amely zöld menedéket nyújt a rohanó városi élettől.",
+                  "category": "landmark",
+                  "coords": [
+                        38.748489,
+                        9.024713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ጎላ መናፈሻ",
+                  "text": "O zonă publică de recreere care oferă un refugiu verde departe de agitația orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        38.748489,
+                        9.024713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gola Park",
+                  "text": "A public recreational area offering a green retreat from the bustling city life.",
+                  "category": "landmark",
+                  "coords": [
+                        38.748489,
+                        9.024713
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-AA",
     coords: [38.7469, 9.0227],
@@ -136,7 +181,484 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     
      image: "/poi-images/gondar-cities-v2.webp"},
   {
-    id: "bahir-dar-cities-v2",
+    id: "bahir-dar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ዲያስፖራ",
+                  "text": "Eine städtische Attraktion in der belebten Stadt Bahir Dar in der Nähe des Tanasees.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428594,
+                        11.605023
+                  ]
+            },
+            {
+                  "name": "ሙሉአለም ባህል ማእከል",
+                  "text": "Ein modernes Theater in Bahir Dar, in dem regionale Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        37.384084,
+                        11.594403
+                  ]
+            },
+            {
+                  "name": "Hyper Cinema",
+                  "text": "Ein modernes Kino im Stadtzentrum von Bahir Dar.",
+                  "category": "cultural",
+                  "coords": [
+                        37.388191,
+                        11.591396
+                  ]
+            },
+            {
+                  "name": "Martyr's Memorial",
+                  "text": "Ein Denkmal in Bahir Dar, das gefallene Helden ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        37.412564,
+                        11.602209
+                  ]
+            },
+            {
+                  "name": "Bahir Dar - Viewpoint",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über Bahir Dar und den nahegelegenen Tanasee.",
+                  "category": "natural",
+                  "coords": [
+                        37.412767,
+                        11.5753
+                  ]
+            },
+            {
+                  "name": "ቤዛዊት ቤተመንግሥት",
+                  "text": "Ein Aussichtspunkt auf einem Hügel mit Blick auf den ehemaligen Kaiserpalast hoch über dem Blauen Nil.",
+                  "category": "natural",
+                  "coords": [
+                        37.413286,
+                        11.573713
+                  ]
+            },
+            {
+                  "name": "ቀበሌ 16 መስጊድ",
+                  "text": "Ein lokales islamisches Gotteshaus im Viertel Kebele 16 in Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.374586,
+                        11.588321
+                  ]
+            },
+            {
+                  "name": "Bahir dar hamza musye home",
+                  "text": "Ein bemerkenswerter lokaler Wohnsitz und eine Attraktion in Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.369641,
+                        11.603555
+                  ]
+            },
+            {
+                  "name": "Bahir dar asa bet",
+                  "text": "Ein traditionelles lokales Lokal in Bahir Dar, das für seine Fischgerichte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        37.377168,
+                        11.609742
+                  ]
+            },
+            {
+                  "name": "Avanti Hotel",
+                  "text": "Ein modernes Hotel, das Unterkünfte in der Nähe des Tanasees bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        37.379964,
+                        11.60309
+                  ]
+            },
+            {
+                  "name": "Abay Minch Lodge",
+                  "text": "Eine komfortable Lodge inmitten üppiger Vegetation nahe Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.414535,
+                        11.608929
+                  ]
+            },
+            {
+                  "name": "የአፄ ሃይለ ስላሴ ቤተመንግስት",
+                  "text": "Eine ehemalige kaiserliche Residenz am Ufer des Blauen Nils.",
+                  "category": "landmark",
+                  "coords": [
+                        37.412467,
+                        11.570606
+                  ]
+            },
+            {
+                  "name": "Lake Tana Biosphere Reserve",
+                  "text": "Ein riesiges Schutzgebiet, das den größten See Äthiopiens und seine vielfältigen Feuchtgebiete umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        37.346713,
+                        11.60401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ዲያስፖራ",
+                  "text": "Városi látványosság a nyüzsgő Bahir Dar városában, a Tana-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428594,
+                        11.605023
+                  ]
+            },
+            {
+                  "name": "ሙሉአለም ባህል ማእከል",
+                  "text": "Modern színház Bahir Darban, amely regionális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        37.384084,
+                        11.594403
+                  ]
+            },
+            {
+                  "name": "Hyper Cinema",
+                  "text": "Egy modern mozi Bahir Dar városközpontjában.",
+                  "category": "cultural",
+                  "coords": [
+                        37.388191,
+                        11.591396
+                  ]
+            },
+            {
+                  "name": "Martyr's Memorial",
+                  "text": "Az elesett hősöknek emléket állító emlékmű Bahir Darban.",
+                  "category": "historical",
+                  "coords": [
+                        37.412564,
+                        11.602209
+                  ]
+            },
+            {
+                  "name": "Bahir Dar - Viewpoint",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt Bahir Dar városára és a közeli Tana-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        37.412767,
+                        11.5753
+                  ]
+            },
+            {
+                  "name": "ቤዛዊት ቤተመንግሥት",
+                  "text": "Hegytetőn lévő kilátópont, ahonnan rálátni a Kék-Nílus felett magasodó egykori császári palotára.",
+                  "category": "natural",
+                  "coords": [
+                        37.413286,
+                        11.573713
+                  ]
+            },
+            {
+                  "name": "ቀበሌ 16 መስጊድ",
+                  "text": "Helyi iszlám istentiszteleti hely a Kebele 16 negyedben, Bahir Darban.",
+                  "category": "landmark",
+                  "coords": [
+                        37.374586,
+                        11.588321
+                  ]
+            },
+            {
+                  "name": "Bahir dar hamza musye home",
+                  "text": "Figyelemre méltó helyi lakóépület és látványosság Bahir Darban.",
+                  "category": "landmark",
+                  "coords": [
+                        37.369641,
+                        11.603555
+                  ]
+            },
+            {
+                  "name": "Bahir dar asa bet",
+                  "text": "Hagyományos helyi vendéglátóhely Bahir Darban, amely helyi halételeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        37.377168,
+                        11.609742
+                  ]
+            },
+            {
+                  "name": "Avanti Hotel",
+                  "text": "Modern szálloda, amely szállást kínál a Tana-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        37.379964,
+                        11.60309
+                  ]
+            },
+            {
+                  "name": "Abay Minch Lodge",
+                  "text": "Kényelmes, buja növényzetben megbúvó szálláshely Bahir Dar közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        37.414535,
+                        11.608929
+                  ]
+            },
+            {
+                  "name": "የአፄ ሃይለ ስላሴ ቤተመንግስት",
+                  "text": "Egykori császári rezidencia a Kék-Nílus partján.",
+                  "category": "landmark",
+                  "coords": [
+                        37.412467,
+                        11.570606
+                  ]
+            },
+            {
+                  "name": "Lake Tana Biosphere Reserve",
+                  "text": "Hatalmas védett terület, amely magában foglalja Etiópia legnagyobb tavát és annak változatos vizes élőhelyeit.",
+                  "category": "natural",
+                  "coords": [
+                        37.346713,
+                        11.60401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ዲያስፖራ",
+                  "text": "O atracție urbană în aglomeratul oraș Bahir Dar, aproape de Lacul Tana.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428594,
+                        11.605023
+                  ]
+            },
+            {
+                  "name": "ሙሉአለም ባህል ማእከል",
+                  "text": "Un teatru modern în Bahir Dar care găzduiește spectacole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        37.384084,
+                        11.594403
+                  ]
+            },
+            {
+                  "name": "Hyper Cinema",
+                  "text": "Un cinematograf modern situat în centrul orașului Bahir Dar.",
+                  "category": "cultural",
+                  "coords": [
+                        37.388191,
+                        11.591396
+                  ]
+            },
+            {
+                  "name": "Martyr's Memorial",
+                  "text": "Un monument dedicat eroilor căzuți din Bahir Dar.",
+                  "category": "historical",
+                  "coords": [
+                        37.412564,
+                        11.602209
+                  ]
+            },
+            {
+                  "name": "Bahir Dar - Viewpoint",
+                  "text": "Un punct de belvedere ce oferă priveliști panoramice asupra orașului Bahir Dar și a Lacului Tana din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        37.412767,
+                        11.5753
+                  ]
+            },
+            {
+                  "name": "ቤዛዊት ቤተመንግሥት",
+                  "text": "Un punct de belvedere pe un deal care oferă vedere la fostul palat imperial situat deasupra Nilului Albastru.",
+                  "category": "natural",
+                  "coords": [
+                        37.413286,
+                        11.573713
+                  ]
+            },
+            {
+                  "name": "ቀበሌ 16 መስጊድ",
+                  "text": "Un lăcaș de cult islamic local din cartierul Kebele 16 din Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.374586,
+                        11.588321
+                  ]
+            },
+            {
+                  "name": "Bahir dar hamza musye home",
+                  "text": "O reședință locală notabilă și o atracție în Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.369641,
+                        11.603555
+                  ]
+            },
+            {
+                  "name": "Bahir dar asa bet",
+                  "text": "Un local tradițional din Bahir Dar, cunoscut pentru preparatele locale din pește.",
+                  "category": "landmark",
+                  "coords": [
+                        37.377168,
+                        11.609742
+                  ]
+            },
+            {
+                  "name": "Avanti Hotel",
+                  "text": "Un hotel modern care oferă cazare în apropiere de Lacul Tana.",
+                  "category": "landmark",
+                  "coords": [
+                        37.379964,
+                        11.60309
+                  ]
+            },
+            {
+                  "name": "Abay Minch Lodge",
+                  "text": "O cabană confortabilă ascunsă în vegetația luxuriantă din apropierea orașului Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.414535,
+                        11.608929
+                  ]
+            },
+            {
+                  "name": "የአፄ ሃይለ ስላሴ ቤተመንግስት",
+                  "text": "O fostă reședință imperială situată pe malurile Nilului Albastru.",
+                  "category": "landmark",
+                  "coords": [
+                        37.412467,
+                        11.570606
+                  ]
+            },
+            {
+                  "name": "Lake Tana Biosphere Reserve",
+                  "text": "O vastă zonă protejată care cuprinde cel mai mare lac din Etiopia și zonele sale umede diverse.",
+                  "category": "natural",
+                  "coords": [
+                        37.346713,
+                        11.60401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diaspora",
+                  "text": "An urban attraction in the bustling city of Bahir Dar near Lake Tana.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428594,
+                        11.605023
+                  ]
+            },
+            {
+                  "name": "Mulualem Cultural Center",
+                  "text": "A modern theatre venue in Bahir Dar hosting regional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        37.384084,
+                        11.594403
+                  ]
+            },
+            {
+                  "name": "Hyper Cinema",
+                  "text": "A modern movie theatre located in the city center of Bahir Dar.",
+                  "category": "cultural",
+                  "coords": [
+                        37.388191,
+                        11.591396
+                  ]
+            },
+            {
+                  "name": "Martyr's Memorial",
+                  "text": "A prominent monument in Bahir Dar honoring fallen heroes.",
+                  "category": "historical",
+                  "coords": [
+                        37.412564,
+                        11.602209
+                  ]
+            },
+            {
+                  "name": "Bahir Dar - Viewpoint",
+                  "text": "A scenic spot offering panoramic views over the city of Bahir Dar and nearby Lake Tana.",
+                  "category": "natural",
+                  "coords": [
+                        37.412767,
+                        11.5753
+                  ]
+            },
+            {
+                  "name": "Bezawit palace",
+                  "text": "A hilltop viewpoint offering a view of the former imperial palace overlooking the Blue Nile.",
+                  "category": "natural",
+                  "coords": [
+                        37.413286,
+                        11.573713
+                  ]
+            },
+            {
+                  "name": "Kebele 16 Mosque",
+                  "text": "A local Islamic place of worship situated in the Kebele 16 neighborhood of Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.374586,
+                        11.588321
+                  ]
+            },
+            {
+                  "name": "Bahir dar hamza musye home",
+                  "text": "A notable local residence and attraction situated in Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.369641,
+                        11.603555
+                  ]
+            },
+            {
+                  "name": "Bahir dar asa bet",
+                  "text": "A traditional local establishment in Bahir Dar known for serving local fish dishes.",
+                  "category": "landmark",
+                  "coords": [
+                        37.377168,
+                        11.609742
+                  ]
+            },
+            {
+                  "name": "Avanti Hotel",
+                  "text": "A modern hotel providing accommodation near the shores of Lake Tana.",
+                  "category": "landmark",
+                  "coords": [
+                        37.379964,
+                        11.60309
+                  ]
+            },
+            {
+                  "name": "Abay Minch Lodge",
+                  "text": "A comfortable lodge nestled among lush vegetation near Bahir Dar.",
+                  "category": "landmark",
+                  "coords": [
+                        37.414535,
+                        11.608929
+                  ]
+            },
+            {
+                  "name": "Palace of Emperor Haile Salassie",
+                  "text": "A former imperial residence set gracefully along the shores of the Blue Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        37.412467,
+                        11.570606
+                  ]
+            },
+            {
+                  "name": "Lake Tana Biosphere Reserve",
+                  "text": "A vast protected area encompassing the largest lake in Ethiopia and its highly diverse wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        37.346713,
+                        11.60401
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-AM",
     coords: [37.3908, 11.5936],
@@ -318,7 +840,520 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "hawassa-cities-v2",
+    id: "hawassa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ሎጊታ",
+                  "text": "Ein lokaler Aussichtspunkt, der einen ungehinderten Blick auf die städtische Landschaft und die belebten Straßen von Hawassa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.477711,
+                        7.043006
+                  ]
+            },
+            {
+                  "name": "Hawassa Boat Dock",
+                  "text": "Dieser belebte Holzsteg am Awassa-See ist der Hauptausgangspunkt für Bootsfahrten auf dem Wasser des Rift Valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        38.467446,
+                        7.054927
+                  ]
+            },
+            {
+                  "name": "ፍቅር ሐይቅ",
+                  "text": "Dieser lokal als 'See der Liebe' bekannte Aussichtspunkt bietet romantische Sonnenuntergänge über dem ruhigen Awassa-See.",
+                  "category": "natural",
+                  "coords": [
+                        38.469439,
+                        7.053644
+                  ]
+            },
+            {
+                  "name": "ፒያሳ",
+                  "text": "Der zentrale Aussichtspunkt an der Piazza blickt auf das geschäftige kommerzielle Zentrum und die belebten Märkte von Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.475647,
+                        7.049903
+                  ]
+            },
+            {
+                  "name": "አረብ ሰፈር",
+                  "text": "Dieser Aussichtspunkt überblickt die dicht gedrängten Gebäude und engen Gassen des historischen Viertels Areb Sefer in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.478531,
+                        7.059716
+                  ]
+            },
+            {
+                  "name": "ጎድጓዳ ሰፈር/Godguda sefer",
+                  "text": "Ein erhöhter Ort in Godguda Sefer, der einen Blick auf das alltägliche Straßenleben dieses lebhaften Viertels wirft.",
+                  "category": "natural",
+                  "coords": [
+                        38.486696,
+                        7.057429
+                  ]
+            },
+            {
+                  "name": "ጥቁር ውሃ",
+                  "text": "Benannt nach dem 'schwarzen Wasser', bietet dieser Aussichtspunkt malerische Blicke auf den lokalen Fluss, der sich durch Hawassa schlängelt.",
+                  "category": "natural",
+                  "coords": [
+                        38.482302,
+                        7.091282
+                  ]
+            },
+            {
+                  "name": "ዳቶ ሰፈር",
+                  "text": "Ein ländlicher Aussichtspunkt im Dato-Gebiet, der die üppigen landwirtschaftlichen Felder am Stadtrand von Hawassa überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        38.494269,
+                        7.084326
+                  ]
+            },
+            {
+                  "name": "Blue Nile Hotel",
+                  "text": "Ein kleiner Ausstellungsraum im Blue Nile Hotel, in dem Artefakte zur lokalen Geschichte von Hawassa gezeigt werden.",
+                  "category": "museum",
+                  "coords": [
+                        38.489783,
+                        7.056917
+                  ]
+            },
+            {
+                  "name": "ውቅሮ ሰፈር",
+                  "text": "Ein Aussichtspunkt im Wukro-Viertel mit weitem Blick auf die schnell wachsenden städtischen Siedlungen von Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.490947,
+                        7.057084
+                  ]
+            },
+            {
+                  "name": "የሺ",
+                  "text": "Ein malerischer Aussichtspunkt, der die ruhigen, von Bäumen gesäumten Wohnstraßen dieses Vororts von Hawassa überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        38.488656,
+                        7.04734
+                  ]
+            },
+            {
+                  "name": "ጨፌ ሰፈር",
+                  "text": "Dieser Aussichtspunkt überblickt die weiten Feuchtgebiete und grasbewachsenen Sumpflandschaften, die für das Chefe-Gebiet in Hawassa typisch sind.",
+                  "category": "natural",
+                  "coords": [
+                        38.517753,
+                        7.055011
+                  ]
+            },
+            {
+                  "name": "Haile Resort",
+                  "text": "Ein luxuriöses Resort am Ufer des Awassa-Sees, das berühmterweise vom äthiopischen Olympiasieger Haile Gebrselassie gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        38.479252,
+                        7.07948
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Der belebte Amora Gedel Fischmarkt am Awassa-See, wo Fischer ihren frischen Fang inmitten von Schwärmen riesiger Marabus entladen.",
+                  "category": "landmark",
+                  "coords": [
+                        38.459812,
+                        7.042668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ሎጊታ",
+                  "text": "Helyi kilátópont, amely akadálytalan rálátást biztosít Hawassa városi tájára és nyüzsgő utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        38.477711,
+                        7.043006
+                  ]
+            },
+            {
+                  "name": "Hawassa Boat Dock",
+                  "text": "Ez a forgalmas fapilóta a Hawassa-tavon a Hasadékvölgy vizein átívelő csónaktúrák fő indulási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        38.467446,
+                        7.054927
+                  ]
+            },
+            {
+                  "name": "ፍቅር ሐይቅ",
+                  "text": "A helyiek által 'Szerelem tiszta tavának' nevezett romantikus kilátópont békés naplemente-nézést kínál a Hawassa-tó nyugodt vizei felett.",
+                  "category": "natural",
+                  "coords": [
+                        38.469439,
+                        7.053644
+                  ]
+            },
+            {
+                  "name": "ፒያሳ",
+                  "text": "A központi Piazza kilátópont Hawassa nyüzsgő kereskedelmi központjára, forgalmas piacaira és járműforgalmára tekint.",
+                  "category": "natural",
+                  "coords": [
+                        38.475647,
+                        7.049903
+                  ]
+            },
+            {
+                  "name": "አረብ ሰፈር",
+                  "text": "Ez a kilátópont Hawassa történelmi Areb Sefer negyedének sűrűn épült házaira és szűk sikátoraira néz.",
+                  "category": "natural",
+                  "coords": [
+                        38.478531,
+                        7.059716
+                  ]
+            },
+            {
+                  "name": "ጎድጓዳ ሰፈር/Godguda sefer",
+                  "text": "Egy magaslati pont Godguda Seferben, amely bepillantást enged ennek az élénk negyednek a mindennapi utcai életébe.",
+                  "category": "natural",
+                  "coords": [
+                        38.486696,
+                        7.057429
+                  ]
+            },
+            {
+                  "name": "ጥቁር ውሃ",
+                  "text": "A 'fekete vizekről' elnevezett kilátópont festői rálátást nyújt a Hawassa térségén keresztül kanyargó helyi folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        38.482302,
+                        7.091282
+                  ]
+            },
+            {
+                  "name": "ዳቶ ሰፈር",
+                  "text": "Vidéki kilátópont a Dato területen, amely Hawassa külvárosának buja mezőgazdasági földjeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        38.494269,
+                        7.084326
+                  ]
+            },
+            {
+                  "name": "Blue Nile Hotel",
+                  "text": "A Blue Nile Hotelen belül található kis kiállítótér, amely Hawassa helyi történelmével kapcsolatos tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        38.489783,
+                        7.056917
+                  ]
+            },
+            {
+                  "name": "ውቅሮ ሰፈር",
+                  "text": "Kilátópont a Wukro negyedben, amely széles rálátást biztosít Hawassa gyorsan terjeszkedő városi településeire.",
+                  "category": "natural",
+                  "coords": [
+                        38.490947,
+                        7.057084
+                  ]
+            },
+            {
+                  "name": "የሺ",
+                  "text": "Festői kilátópont, amely a hawassai külváros csendes, fákkal szegélyezett lakóutcáira néz.",
+                  "category": "natural",
+                  "coords": [
+                        38.488656,
+                        7.04734
+                  ]
+            },
+            {
+                  "name": "ጨፌ ሰፈር",
+                  "text": "Ez a kilátópont a Hawassához tartozó Chefe területre jellemző kiterjedt vizes élőhelyekre és füves mocsarakra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        38.517753,
+                        7.055011
+                  ]
+            },
+            {
+                  "name": "Haile Resort",
+                  "text": "Luxus tóparti üdülőhely a Hawassa-tó partján, amelyet a híres etióp olimpiai futó, Haile Gebrselassie alapított.",
+                  "category": "landmark",
+                  "coords": [
+                        38.479252,
+                        7.07948
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "A nyüzsgő Amora Gedel halpiac a Hawassa-tavon, ahol a halászok friss fogásaikat pakolják ki óriási marabu gólyarajok közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        38.459812,
+                        7.042668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ሎጊታ",
+                  "text": "Un punct de belvedere local care oferă priveliști neobstrucționate asupra peisajului urban și străzilor aglomerate din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.477711,
+                        7.043006
+                  ]
+            },
+            {
+                  "name": "Hawassa Boat Dock",
+                  "text": "Acest debarcader aglomerat din lemn de pe Lacul Hawassa este principalul punct de plecare pentru plimbările cu barca pe apele Văii Riftului.",
+                  "category": "landmark",
+                  "coords": [
+                        38.467446,
+                        7.054927
+                  ]
+            },
+            {
+                  "name": "ፍቅር ሐይቅ",
+                  "text": "Cunoscut local sub numele de 'Lacul Iubirii', acest punct de belvedere romantic oferă vederi senine la apus de soare peste apele calme ale Lacului Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.469439,
+                        7.053644
+                  ]
+            },
+            {
+                  "name": "ፒያሳ",
+                  "text": "Punctul de belvedere central Piazza are vedere la inima comercială aglomerată, piețele pline de viață și traficul din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.475647,
+                        7.049903
+                  ]
+            },
+            {
+                  "name": "አረብ ሰፈር",
+                  "text": "Acest punct de belvedere are vedere la clădirile dense și aleile înguste ale cartierului istoric Areb Sefer din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.478531,
+                        7.059716
+                  ]
+            },
+            {
+                  "name": "ጎድጓዳ ሰፈር/Godguda sefer",
+                  "text": "Un loc înalt în Godguda Sefer care oferă o privire în viața de zi cu zi a străzilor acestui cartier plin de viață.",
+                  "category": "natural",
+                  "coords": [
+                        38.486696,
+                        7.057429
+                  ]
+            },
+            {
+                  "name": "ጥቁር ውሃ",
+                  "text": "Numit pentru 'apa sa neagră', acest punct de belvedere oferă priveliști pitorești ale râului local care șerpuiește prin zona Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.482302,
+                        7.091282
+                  ]
+            },
+            {
+                  "name": "ዳቶ ሰፈር",
+                  "text": "Un punct de belvedere rural în zona Dato cu vedere la câmpurile agricole luxuriante de la periferia orașului Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.494269,
+                        7.084326
+                  ]
+            },
+            {
+                  "name": "Blue Nile Hotel",
+                  "text": "Un mic spațiu expozițional găzduit în Hotelul Blue Nile, care prezintă artefacte legate de istoria locală a orașului Hawassa.",
+                  "category": "museum",
+                  "coords": [
+                        38.489783,
+                        7.056917
+                  ]
+            },
+            {
+                  "name": "ውቅሮ ሰፈር",
+                  "text": "Un punct de observație în cartierul Wukro cu vederi largi asupra așezărilor urbane aflate în expansiune rapidă din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.490947,
+                        7.057084
+                  ]
+            },
+            {
+                  "name": "የሺ",
+                  "text": "Un punct de belvedere pitoresc care are vedere la străzile rezidențiale liniștite și mărginite de copaci ale acestei suburbii din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.488656,
+                        7.04734
+                  ]
+            },
+            {
+                  "name": "ጨፌ ሰፈር",
+                  "text": "Acest punct de belvedere are vedere la zonele umede întinse și mlaștinile ierboase caracteristice zonei Chefe din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.517753,
+                        7.055011
+                  ]
+            },
+            {
+                  "name": "Haile Resort",
+                  "text": "O stațiune de lux pe malul Lacului Hawassa, fondată de faimosul alergător olimpic etiopian Haile Gebrselassie.",
+                  "category": "landmark",
+                  "coords": [
+                        38.479252,
+                        7.07948
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Piața de pește animată Amora Gedel de pe Lacul Hawassa, unde pescarii descarcă capturi proaspete printre stoluri de berze gigantice marabu.",
+                  "category": "landmark",
+                  "coords": [
+                        38.459812,
+                        7.042668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Logita",
+                  "text": "A local viewpoint offering unobstructed sights across the urban landscape and bustling streets of Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.477711,
+                        7.043006
+                  ]
+            },
+            {
+                  "name": "Hawassa Boat Dock",
+                  "text": "This busy wooden dock on Lake Hawassa is the main departure point for boat rides across the Rift Valley waters.",
+                  "category": "landmark",
+                  "coords": [
+                        38.467446,
+                        7.054927
+                  ]
+            },
+            {
+                  "name": "Fikir Hayk",
+                  "text": "Known locally as the 'Lake of Love', this romantic vantage point offers serene sunset views over the calm waters of Lake Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.469439,
+                        7.053644
+                  ]
+            },
+            {
+                  "name": "Piazza",
+                  "text": "The central Piazza viewpoint looks out over the bustling commercial heart, busy markets, and traffic of Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.475647,
+                        7.049903
+                  ]
+            },
+            {
+                  "name": "Areb Sefer",
+                  "text": "This viewpoint overlooks the densely clustered buildings and narrow alleys of the historic Areb Sefer neighborhood in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.478531,
+                        7.059716
+                  ]
+            },
+            {
+                  "name": "Godguda Sefer",
+                  "text": "An elevated spot in Godguda Sefer offering a glimpse into the everyday street life of this lively neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        38.486696,
+                        7.057429
+                  ]
+            },
+            {
+                  "name": "Tikur Wuha",
+                  "text": "Named for its 'black water', this viewpoint offers scenic glimpses of the local riverway winding through the Hawassa area.",
+                  "category": "natural",
+                  "coords": [
+                        38.482302,
+                        7.091282
+                  ]
+            },
+            {
+                  "name": "Dato Area",
+                  "text": "A rural viewpoint in the Dato area overlooking the lush agricultural fields on the outskirts of Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.494269,
+                        7.084326
+                  ]
+            },
+            {
+                  "name": "Blue Nile Hotel",
+                  "text": "A small exhibition space housed within the Blue Nile Hotel, showcasing artifacts related to Hawassa's local history.",
+                  "category": "museum",
+                  "coords": [
+                        38.489783,
+                        7.056917
+                  ]
+            },
+            {
+                  "name": "Wukro Area",
+                  "text": "A vantage point in the Wukro district with wide views over Hawassa's rapidly expanding urban settlements.",
+                  "category": "natural",
+                  "coords": [
+                        38.490947,
+                        7.057084
+                  ]
+            },
+            {
+                  "name": "Yeshi",
+                  "text": "A scenic viewpoint that overlooks the quiet, tree-lined residential streets of this Hawassa suburb.",
+                  "category": "natural",
+                  "coords": [
+                        38.488656,
+                        7.04734
+                  ]
+            },
+            {
+                  "name": "Chefe Area",
+                  "text": "This viewpoint overlooks the expansive wetlands and grassy marshlands characteristic of the Chefe area in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.517753,
+                        7.055011
+                  ]
+            },
+            {
+                  "name": "Haile resort",
+                  "text": "A luxury lakeside resort on the shores of Lake Hawassa, famously founded by the Ethiopian Olympic runner Haile Gebrselassie.",
+                  "category": "landmark",
+                  "coords": [
+                        38.479252,
+                        7.07948
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "The bustling Amora Gedel fish market on Lake Hawassa, where fishermen unload fresh catches amidst flocks of giant marabou storks.",
+                  "category": "landmark",
+                  "coords": [
+                        38.459812,
+                        7.042668
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-SI",
     coords: [38.4833, 7.05],
@@ -384,7 +1419,160 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "jigjiga-cities-v2",
+    id: "jigjiga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ልጄ",
+                  "text": "Babi dient als lokaler kultureller Anziehungspunkt im geschäftigen städtischen Umfeld von Jigjiga.",
+                  "category": "landmark",
+                  "coords": [
+                        42.79705,
+                        9.355681
+                  ]
+            },
+            {
+                  "name": "ሰይድ መሀመድ አብዱላሂ ሀሰን ሀዉልት",
+                  "text": "Dieses imposante Denkmal in Jigjiga ist eine Hommage an den historischen Derwisch-Anführer Sayid Mohamed Abdulahi Hassen.",
+                  "category": "historical",
+                  "coords": [
+                        42.80043,
+                        9.350899
+                  ]
+            },
+            {
+                  "name": "Arbeeko",
+                  "text": "Arbeeko bietet Besuchern weitreichende Panoramablicke über das städtische Gebiet und die umliegenden Ebenen von Jigjiga.",
+                  "category": "natural",
+                  "coords": [
+                        42.786369,
+                        9.351127
+                  ]
+            },
+            {
+                  "name": "Guriga shinbir",
+                  "text": "Shinbir bietet einen hoch gelegenen Aussichtspunkt mit Blick auf die belebten Straßen der Stadt Jigjiga.",
+                  "category": "natural",
+                  "coords": [
+                        42.790777,
+                        9.365996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ልጄ",
+                  "text": "A Babi egy helyi kulturális fókuszpontként szolgál Jigjiga nyüzsgő városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.79705,
+                        9.355681
+                  ]
+            },
+            {
+                  "name": "ሰይድ መሀመድ አብዱላሂ ሀሰን ሀዉልት",
+                  "text": "Ez a Jigjigában található impozáns emlékmű a történelmi dervis vezető, Sayid Mohamed Abdulahi Hassen előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        42.80043,
+                        9.350899
+                  ]
+            },
+            {
+                  "name": "Arbeeko",
+                  "text": "Az Arbeeko kiterjedt panorámát kínál a látogatóknak Jigjiga városi kiterjedésére és a környező síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        42.786369,
+                        9.351127
+                  ]
+            },
+            {
+                  "name": "Guriga shinbir",
+                  "text": "A Shinbir magaslati kilátópontot kínál, ahonnan Jigjiga nyüzsgő városi utcáira nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        42.790777,
+                        9.365996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ልጄ",
+                  "text": "Babi servește ca punct de atracție culturală locală în mediul urban aglomerat din Jigjiga.",
+                  "category": "landmark",
+                  "coords": [
+                        42.79705,
+                        9.355681
+                  ]
+            },
+            {
+                  "name": "ሰይድ መሀመድ አብዱላሂ ሀሰን ሀዉልት",
+                  "text": "Acest monument impunător din Jigjiga aduce un omagiu liderului istoric al dervișilor, Sayid Mohamed Abdulahi Hassen.",
+                  "category": "historical",
+                  "coords": [
+                        42.80043,
+                        9.350899
+                  ]
+            },
+            {
+                  "name": "Arbeeko",
+                  "text": "Arbeeko oferă vizitatorilor o priveliște panoramică vastă asupra expansiunii urbane și a câmpiilor înconjurătoare din Jigjiga.",
+                  "category": "natural",
+                  "coords": [
+                        42.786369,
+                        9.351127
+                  ]
+            },
+            {
+                  "name": "Guriga shinbir",
+                  "text": "Shinbir oferă un punct de belvedere la mare altitudine cu vedere la străzile aglomerate ale orașului Jigjiga.",
+                  "category": "natural",
+                  "coords": [
+                        42.790777,
+                        9.365996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "babi",
+                  "text": "Babi serves as a local cultural focal point within the bustling urban environment of Jigjiga.",
+                  "category": "landmark",
+                  "coords": [
+                        42.79705,
+                        9.355681
+                  ]
+            },
+            {
+                  "name": "Sayid Mohamed Abdulahi Hassen monument",
+                  "text": "This imposing monument in Jigjiga pays tribute to the historic Dervish leader Sayid Mohamed Abdulahi Hassen.",
+                  "category": "historical",
+                  "coords": [
+                        42.80043,
+                        9.350899
+                  ]
+            },
+            {
+                  "name": "Arbeeko",
+                  "text": "Arbeeko provides visitors with expansive panoramic views across the urban sprawl and surrounding plains of Jigjiga.",
+                  "category": "natural",
+                  "coords": [
+                        42.786369,
+                        9.351127
+                  ]
+            },
+            {
+                  "name": "Shinbir",
+                  "text": "Shinbir offers a high-elevation vantage point overlooking the bustling city streets of Jigjiga.",
+                  "category": "natural",
+                  "coords": [
+                        42.790777,
+                        9.365996
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-SO",
     coords: [42.8, 9.35],
@@ -561,7 +1749,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "harar-cities-v2",
+    id: "harar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hyena Feeding",
+                  "text": "Dieser Ort am Stadtrand ist berühmt für das allabendliche Ritual, bei dem einheimische Männer wilde Hyänenrudel mit der Hand füttern.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137894,
+                        9.315052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hyena Feeding",
+                  "text": "A város szélén található hely a minden esti rituáléról híres, amelynek során a helyi férfiak vad hiénafalkákat etetnek kézből.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137894,
+                        9.315052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hyena Feeding",
+                  "text": "Situat la periferia orașului, acest loc este renumit pentru ritualul nocturn în care bărbații locali hrănesc cu mâna haitele sălbatice de hiene.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137894,
+                        9.315052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hyena Feeding",
+                  "text": "Situated on the city outskirts, this spot is famous for the nightly ritual where local men hand-feed wild packs of hyenas.",
+                  "category": "landmark",
+                  "coords": [
+                        42.137894,
+                        9.315052
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-HA",
     coords: [42.1333, 9.3167],
@@ -1662,7 +2895,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "debre-markos-cities-v2",
+    id: "debre-markos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tekle Haymanot Arch",
+                  "text": "Dieses monumentale Tor markiert einen wichtigen Punkt in Debre Markos.",
+                  "category": "historical",
+                  "coords": [
+                        37.728175,
+                        10.334249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tekle Haymanot Arch",
+                  "text": "Ez a monumentális kapu egy fontos pontot jelöl Debre Markosban.",
+                  "category": "historical",
+                  "coords": [
+                        37.728175,
+                        10.334249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tekle Haymanot Arch",
+                  "text": "Această poartă monumentală marchează un punct important în Debre Markos.",
+                  "category": "historical",
+                  "coords": [
+                        37.728175,
+                        10.334249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tekle Haymanot Arch",
+                  "text": "This monumental arch marks an important point in Debre Markos.",
+                  "category": "historical",
+                  "coords": [
+                        37.728175,
+                        10.334249
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-AM",
     coords: [37.7333, 10.3333],
@@ -1860,7 +3138,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "asella-cities-v2",
+    id: "asella-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gideb",
+                  "text": "Dieser Wasserpark bietet verschiedene Schwimmbecken und Wasserrutschen für Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        39.126324,
+                        7.926824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gideb",
+                  "text": "Ez a vízi park különféle medencéket és csúszdákat kínál a szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        39.126324,
+                        7.926824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gideb",
+                  "text": "Acest parc acvatic oferă diverse piscine și tobogane cu apă pentru activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        39.126324,
+                        7.926824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gideb",
+                  "text": "This water park offers various swimming pools and water slides for leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        39.126324,
+                        7.926824
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-OR",
     coords: [39.1167, 7.95],
@@ -2157,7 +3480,160 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sodo-cities-v2",
+    id: "sodo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ማዕዶት ወላይታ",
+                  "text": "Eine kulturelle Attraktion in Sodo, die das reiche Erbe, den traditionellen Lebensstil und das Handwerk des Wolayta-Volkes feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        37.763911,
+                        6.858721
+                  ]
+            },
+            {
+                  "name": "Demeke Mulugeta",
+                  "text": "Eine markante, schlossähnliche Steinstruktur in Sodo, die für ihre dicken Mauern und ihr einzigartiges lokales Design bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        37.755577,
+                        6.864331
+                  ]
+            },
+            {
+                  "name": "historic sites",
+                  "text": "Eine Sammlung lokaler Steindenkmäler und Kulturerbemarkierungen, die die historische Entwicklung der Region Sodo dokumentieren.",
+                  "category": "historical",
+                  "coords": [
+                        37.756596,
+                        6.841233
+                  ]
+            },
+            {
+                  "name": "Wolayta People Monument",
+                  "text": "Ein massives zentrales Denkmal in Sodo mit Statuen, das der Geschichte und Widerstandsfähigkeit des Wolayta-Volkes gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        37.76104,
+                        6.855367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ማዕዶት ወላይታ",
+                  "text": "Kulturális látványosság Sodóban, amely a wolayta nép gazdag örökségét, hagyományos életmódját és kézművességét ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        37.763911,
+                        6.858721
+                  ]
+            },
+            {
+                  "name": "Demeke Mulugeta",
+                  "text": "Egy kiemelkedő, kastélyszerű kőépület Sodóban, amely vastag falairól és egyedi helyi építészeti kialakításáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        37.755577,
+                        6.864331
+                  ]
+            },
+            {
+                  "name": "historic sites",
+                  "text": "Helyi kőemlékművek és örökségvédelmi jelzőtáblák gyűjteménye, amelyek Sodo régió történelmi fejlődését dokumentálják.",
+                  "category": "historical",
+                  "coords": [
+                        37.756596,
+                        6.841233
+                  ]
+            },
+            {
+                  "name": "Wolayta People Monument",
+                  "text": "Egy hatalmas központi emlékmű Sodóban, amelynek szobrait a wolayta etnikai csoport történelmének és kitartásának szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        37.76104,
+                        6.855367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ማዕዶት ወላይታ",
+                  "text": "O atracție culturală în Sodo care celebrează moștenirea bogată, stilul de viață tradițional și meșteșugurile poporului Wolayta.",
+                  "category": "landmark",
+                  "coords": [
+                        37.763911,
+                        6.858721
+                  ]
+            },
+            {
+                  "name": "Demeke Mulugeta",
+                  "text": "O structură proeminentă asemănătoare unui castel de piatră în Sodo, remarcată pentru zidurile sale groase și designul arhitectural local unic.",
+                  "category": "castle",
+                  "coords": [
+                        37.755577,
+                        6.864331
+                  ]
+            },
+            {
+                  "name": "historic sites",
+                  "text": "O colecție de monumente locale de piatră și markere de patrimoniu care documentează evoluția istorică a regiunii Sodo.",
+                  "category": "historical",
+                  "coords": [
+                        37.756596,
+                        6.841233
+                  ]
+            },
+            {
+                  "name": "Wolayta People Monument",
+                  "text": "Un monument central masiv în Sodo cu statui dedicate istoriei și rezilienței grupului etnic Wolayta.",
+                  "category": "historical",
+                  "coords": [
+                        37.76104,
+                        6.855367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maedot Wolayta",
+                  "text": "A cultural attraction in Sodo celebrating the rich heritage, traditional lifestyle, and crafts of the Wolayta people.",
+                  "category": "landmark",
+                  "coords": [
+                        37.763911,
+                        6.858721
+                  ]
+            },
+            {
+                  "name": "ደመቀ ሙሉጌታ",
+                  "text": "A prominent stone castle-like structure in Sodo, noted for its thick walls and unique local architectural design.",
+                  "category": "castle",
+                  "coords": [
+                        37.755577,
+                        6.864331
+                  ]
+            },
+            {
+                  "name": "historic sites",
+                  "text": "A collection of local stone monuments and heritage markers documenting the historical evolution of the Sodo region.",
+                  "category": "historical",
+                  "coords": [
+                        37.756596,
+                        6.841233
+                  ]
+            },
+            {
+                  "name": "Wolayta People Monument",
+                  "text": "A massive central monument in Sodo featuring statues dedicated to the history and resilience of the Wolayta ethnic group.",
+                  "category": "historical",
+                  "coords": [
+                        37.76104,
+                        6.855367
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-SN",
     coords: [37.75, 6.8667],
@@ -2310,7 +3786,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gambela-cities-v2",
+    id: "gambela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Harbour",
+                  "text": "Der Aussichtspunkt am Alten Hafen bietet einen malerischen Blick auf das historische Flussanlegegebiet in Gambela.",
+                  "category": "natural",
+                  "coords": [
+                        34.584935,
+                        8.247437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Harbour",
+                  "text": "A Régi kikötő kilátópontja festői kilátást nyújt a történelmi folyami dokkoló területre Gambelában.",
+                  "category": "natural",
+                  "coords": [
+                        34.584935,
+                        8.247437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Harbour",
+                  "text": "Punctul de belvedere Old Harbour oferă o vedere panoramică asupra zonei istorice de andocare de pe râu din Gambela.",
+                  "category": "natural",
+                  "coords": [
+                        34.584935,
+                        8.247437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Harbour",
+                  "text": "The Old Harbour viewpoint provides a scenic overlook of the historic riverine docking area in Gambela.",
+                  "category": "natural",
+                  "coords": [
+                        34.584935,
+                        8.247437
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-GA",
     coords: [34.5833, 8.25],
@@ -2340,7 +3861,160 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "asosa-cities-v2",
+    id: "asosa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gundil",
+                  "text": "Ein Aussichtspunkt in der Landschaft rund um Asosa.",
+                  "category": "natural",
+                  "coords": [
+                        34.53375,
+                        10.0497
+                  ]
+            },
+            {
+                  "name": "Shaik Hjoale",
+                  "text": "Ein historisches lokales Denkmal in Asosa.",
+                  "category": "historical",
+                  "coords": [
+                        34.532788,
+                        10.058288
+                  ]
+            },
+            {
+                  "name": "Sudan View",
+                  "text": "Ein hoch gelegener Aussichtspunkt in der Nähe von Asosa mit weitem Blick in Richtung der sudanesischen Grenze.",
+                  "category": "natural",
+                  "coords": [
+                        34.539982,
+                        10.070563
+                  ]
+            },
+            {
+                  "name": "Inzi",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf das äthiopische Grenzgebiet bei Asosa.",
+                  "category": "natural",
+                  "coords": [
+                        34.552101,
+                        10.04971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gundil",
+                  "text": "Kilátópont az Asosa városát körülvevő tájon.",
+                  "category": "natural",
+                  "coords": [
+                        34.53375,
+                        10.0497
+                  ]
+            },
+            {
+                  "name": "Shaik Hjoale",
+                  "text": "Egy történelmi helyi emlékmű Asosában.",
+                  "category": "historical",
+                  "coords": [
+                        34.532788,
+                        10.058288
+                  ]
+            },
+            {
+                  "name": "Sudan View",
+                  "text": "Asosa közelében található magaslati kilátópont, ahonnan szélesvásznú kilátás nyílik a szudáni határ felé.",
+                  "category": "natural",
+                  "coords": [
+                        34.539982,
+                        10.070563
+                  ]
+            },
+            {
+                  "name": "Inzi",
+                  "text": "Festői kilátópont, amely az Asosa melletti etióp határvidékre nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        34.552101,
+                        10.04971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gundil",
+                  "text": "Un punct de belvedere situat în peisajul care înconjoară orașul Asosa.",
+                  "category": "natural",
+                  "coords": [
+                        34.53375,
+                        10.0497
+                  ]
+            },
+            {
+                  "name": "Shaik Hjoale",
+                  "text": "Un monument istoric local situat în Asosa.",
+                  "category": "historical",
+                  "coords": [
+                        34.532788,
+                        10.058288
+                  ]
+            },
+            {
+                  "name": "Sudan View",
+                  "text": "Un punct de belvedere la altitudine ridicată lângă Asosa, oferind priveliști ample spre granița cu Sudanul.",
+                  "category": "natural",
+                  "coords": [
+                        34.539982,
+                        10.070563
+                  ]
+            },
+            {
+                  "name": "Inzi",
+                  "text": "Un punct de observare pitoresc care oferă vedere asupra zonei de graniță etiopiene din apropiere de Asosa.",
+                  "category": "natural",
+                  "coords": [
+                        34.552101,
+                        10.04971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gundil",
+                  "text": "A viewpoint situated in the natural landscape surrounding Asosa.",
+                  "category": "natural",
+                  "coords": [
+                        34.53375,
+                        10.0497
+                  ]
+            },
+            {
+                  "name": "Shaik Hjoale",
+                  "text": "A historic local monument standing proudly in Asosa.",
+                  "category": "historical",
+                  "coords": [
+                        34.532788,
+                        10.058288
+                  ]
+            },
+            {
+                  "name": "Sudan View",
+                  "text": "A high-elevation viewpoint near Asosa offering sweeping views toward the Sudanese border.",
+                  "category": "natural",
+                  "coords": [
+                        34.539982,
+                        10.070563
+                  ]
+            },
+            {
+                  "name": "Inzi",
+                  "text": "A scenic overlook providing expansive views of the Ethiopian borderlands near Asosa.",
+                  "category": "natural",
+                  "coords": [
+                        34.552101,
+                        10.04971
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-BE",
     coords: [34.5333, 10.0667],
@@ -2370,7 +4044,88 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "semera-cities-v2",
+    id: "semera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lucy",
+                  "text": "Dieses Museum in Semera rückt das berühmte Homininen-Fossil Lucy in den Mittelpunkt und zeigt das reiche paläontologische Erbe der Afar-Region.",
+                  "category": "museum",
+                  "coords": [
+                        41.007621,
+                        11.791962
+                  ]
+            },
+            {
+                  "name": "ah House afar",
+                  "text": "Diese Attraktion umfasst ein traditionelles kuppelförmiges Afar-Haus, das den nomadischen Architekturstil der Region präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        41.010902,
+                        11.794925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lucy",
+                  "text": "Ez a semerai múzeum a híres Lucy hominida kövületet állítja a középpontba, bemutatva az Afar régió gazdag őslénytani örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        41.007621,
+                        11.791962
+                  ]
+            },
+            {
+                  "name": "ah House afar",
+                  "text": "Ez a látványosság egy hagyományos kupola alakú afar házat mutat be, a régió nomád építészeti stílusát szemléltetve.",
+                  "category": "landmark",
+                  "coords": [
+                        41.010902,
+                        11.794925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lucy",
+                  "text": "Acest muzeu din Semera scoate în evidență faimoasa fosilă de hominid Lucy, prezentând bogata moștenire paleontologică a regiunii Afar.",
+                  "category": "museum",
+                  "coords": [
+                        41.007621,
+                        11.791962
+                  ]
+            },
+            {
+                  "name": "ah House afar",
+                  "text": "Această atracție prezintă o casă tradițională Afar în formă de cupolă, prezentând stilul arhitectural nomad al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        41.010902,
+                        11.794925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lucy",
+                  "text": "This museum in Semera highlights the famous hominin fossil Lucy, showcasing the rich paleontological heritage of the Afar region.",
+                  "category": "museum",
+                  "coords": [
+                        41.007621,
+                        11.791962
+                  ]
+            },
+            {
+                  "name": "ah House afar",
+                  "text": "This attraction features a traditional dome-shaped Afar house, showcasing the nomadic architectural style of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        41.010902,
+                        11.794925
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-AF",
     coords: [41.0, 11.8],
@@ -2400,7 +4155,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bonga-cities-v2",
+    id: "bonga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "Das Kaffeemuseum in Bonga untersucht die Ursprünge und die kulturelle Bedeutung des Kaffees in der Kaffa-Region.",
+                  "category": "museum",
+                  "coords": [
+                        36.248408,
+                        7.262367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "A bongai Kávémúzeum a kávé eredetét és kulturális jelentőségét fedezi fel a Kaffa régióban.",
+                  "category": "museum",
+                  "coords": [
+                        36.248408,
+                        7.262367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "Muzeul Cafelei din Bonga explorează originile și semnificația culturală a cafelei în regiunea Kaffa.",
+                  "category": "museum",
+                  "coords": [
+                        36.248408,
+                        7.262367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "The Coffee Museum in Bonga explores the origins and cultural significance of coffee in the Kaffa region.",
+                  "category": "museum",
+                  "coords": [
+                        36.248408,
+                        7.262367
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ET-SW",
     coords: [36.2333, 7.2667],
@@ -2430,7 +4230,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "wukro-cities-v2",
+    id: "wukro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wukro Museum",
+                  "text": "Ein lokales Museum in Wukro, das kulturelle Artefakte und archäologische Funde aus der Region Tigray ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        39.610488,
+                        13.789653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wukro Museum",
+                  "text": "Helyi múzeum Wukróban, amely a Tigré régió kulturális műtárgyait és régészeti leleteit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        39.610488,
+                        13.789653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wukro Museum",
+                  "text": "Un muzeu local în Wukro care expune artefacte culturale și descoperiri arheologice din regiunea Tigray.",
+                  "category": "museum",
+                  "coords": [
+                        39.610488,
+                        13.789653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wukro Museum",
+                  "text": "A local museum in Wukro exhibiting cultural artifacts and archaeological finds from the Tigray region.",
+                  "category": "museum",
+                  "coords": [
+                        39.610488,
+                        13.789653
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-TI",
     coords: [39.6, 13.7833],

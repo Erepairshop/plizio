@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraNigerReliefV2: POI[] = [
   {
-    id: "mont-greboun-relief-v2",
+    id: "mont-greboun-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tchi-n-Gaouagane",
+                  "text": "Dieser schroffe Berggipfel prägt die Relieflandschaft in der Nähe des Mont Gréboun.",
+                  "category": "natural",
+                  "coords": [
+                        8.5325,
+                        19.509444
+                  ]
+            },
+            {
+                  "name": "Térabil",
+                  "text": "Ein markanter Gipfel in der bergigen Landschaft des Mont Gréboun im Aïr-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        8.518889,
+                        19.543611
+                  ]
+            },
+            {
+                  "name": "Idabdaba",
+                  "text": "Dieser Gipfel erhebt sich aus dem zerklüfteten Gelände in der Umgebung des Mont Gréboun.",
+                  "category": "natural",
+                  "coords": [
+                        8.497778,
+                        19.548611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tchi-n-Gaouagane",
+                  "text": "Ez a zord hegycsúcs határozza meg a Mont Gréboun környékének domborzatát.",
+                  "category": "natural",
+                  "coords": [
+                        8.5325,
+                        19.509444
+                  ]
+            },
+            {
+                  "name": "Térabil",
+                  "text": "Egy feltűnő hegycsúcs a Mont Gréboun hegyvidéki táján, az Aïr-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        8.518889,
+                        19.543611
+                  ]
+            },
+            {
+                  "name": "Idabdaba",
+                  "text": "Ez a csúcs a Mont Gréboun körüli zord terepből emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        8.497778,
+                        19.548611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tchi-n-Gaouagane",
+                  "text": "Acest vârf de munte accidentat modelează relieful din apropiere de Mont Gréboun.",
+                  "category": "natural",
+                  "coords": [
+                        8.5325,
+                        19.509444
+                  ]
+            },
+            {
+                  "name": "Térabil",
+                  "text": "Un vârf proeminent în peisajul muntos al Mont Gréboun din Munții Aïr.",
+                  "category": "natural",
+                  "coords": [
+                        8.518889,
+                        19.543611
+                  ]
+            },
+            {
+                  "name": "Idabdaba",
+                  "text": "Acest vârf se ridică din terenul accidentat din jurul Mont Gréboun.",
+                  "category": "natural",
+                  "coords": [
+                        8.497778,
+                        19.548611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tchi-n-Gaouagane",
+                  "text": "This rugged mountain peak shapes the relief landscape near Mont Gréboun.",
+                  "category": "natural",
+                  "coords": [
+                        8.5325,
+                        19.509444
+                  ]
+            },
+            {
+                  "name": "Térabil",
+                  "text": "A prominent peak in the mountainous landscape of Mont Gréboun in the Aïr Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        8.518889,
+                        19.543611
+                  ]
+            },
+            {
+                  "name": "Idabdaba",
+                  "text": "This peak rises from the rugged terrain surrounding Mont Gréboun.",
+                  "category": "natural",
+                  "coords": [
+                        8.497778,
+                        19.548611
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NE-AG",
     coords: [8.5333, 19.55],
@@ -471,7 +588,88 @@ export const poiExtraNigerReliefV2: POI[] = [
     },
   },
   {
-    id: "ife-massif-relief-v2",
+    id: "ife-massif-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Tchimourou",
+                  "text": "Ein markanter Berg im Massiv von Ifé.",
+                  "category": "natural",
+                  "coords": [
+                        8.5,
+                        18.233333
+                  ]
+            },
+            {
+                  "name": "Tagha",
+                  "text": "Ein markanter Gipfel in der Reliefstruktur des Ifé-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        8.511389,
+                        18.2025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Tchimourou",
+                  "text": "Az Ifé-masszívum egyik meghatározó hegye.",
+                  "category": "natural",
+                  "coords": [
+                        8.5,
+                        18.233333
+                  ]
+            },
+            {
+                  "name": "Tagha",
+                  "text": "Az Ifé-masszívum domborzatának egyik kiemelkedő csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        8.511389,
+                        18.2025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Tchimourou",
+                  "text": "Un munte proeminent din masivul Ifé.",
+                  "category": "natural",
+                  "coords": [
+                        8.5,
+                        18.233333
+                  ]
+            },
+            {
+                  "name": "Tagha",
+                  "text": "Un vârf distinct din relieful masivului Ifé.",
+                  "category": "natural",
+                  "coords": [
+                        8.511389,
+                        18.2025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Tchimourou",
+                  "text": "A prominent mountain located in the Ifé Massif.",
+                  "category": "natural",
+                  "coords": [
+                        8.5,
+                        18.233333
+                  ]
+            },
+            {
+                  "name": "Tagha",
+                  "text": "A distinct peak in the relief of the Ifé Massif.",
+                  "category": "natural",
+                  "coords": [
+                        8.511389,
+                        18.2025
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NE-AG",
     coords: [8.5, 18.2],
@@ -723,7 +921,52 @@ export const poiExtraNigerReliefV2: POI[] = [
     },
   },
   {
-    id: "air-massif-relief-v2",
+    id: "air-massif-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Téssiggane",
+                  "text": "Téssiggane ist ein kahler, felsiger Gipfel in den trockenen und dramatischen Landschaften des Aïr-Gebirges in Niger.",
+                  "category": "natural",
+                  "coords": [
+                        8.881111,
+                        18.501389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Téssiggane",
+                  "text": "A Téssiggane egy kopár, sziklás hegycsúcs a nigeri Aïr-hegység száraz és drámai tájain.",
+                  "category": "natural",
+                  "coords": [
+                        8.881111,
+                        18.501389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Téssiggane",
+                  "text": "Téssiggane este un vârf golaș și stâncos, situat în peisajele aride și dramatice ale Munților Aïr din Niger.",
+                  "category": "natural",
+                  "coords": [
+                        8.881111,
+                        18.501389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Téssiggane",
+                  "text": "Téssiggane is a stark, rocky peak located within the arid and dramatic landscapes of Niger's Aïr Massif.",
+                  "category": "natural",
+                  "coords": [
+                        8.881111,
+                        18.501389
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NE-AG",
     coords: [8.8, 18.5],

@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraMoroccoEconomicV2: POI[] = [
   {
-    id: "ma-tanger-med-port-economic-v2",
+    id: "ma-tanger-med-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punta Cires",
+                  "text": "Dieser Leuchtturm in der Nähe des Hafens Tanger-Med steht auf einem strategischen Felsvorsprung und überblickt die geschäftige Straße von Gibraltar.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.481458,
+                        35.910114
+                  ]
+            },
+            {
+                  "name": "Jbel Mousa",
+                  "text": "Dieser 842 Meter hohe, markante Gipfel bildet eine der Säulen des Herakles und bietet einen weiten Blick über die Straße von Gibraltar.",
+                  "category": "natural",
+                  "coords": [
+                        -5.412955,
+                        35.898952
+                  ]
+            },
+            {
+                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
+                  "text": "Dieser Küstenaussichtspunkt mit Unterkunftsmöglichkeiten in Belyounech bietet einen direkten Blick auf das Mittelmeer und die nahe gelegene spanische Enklave Ceuta.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395912,
+                        35.906004
+                  ]
+            },
+            {
+                  "name": "Portugiesische Festung von Ksar es-Seghir",
+                  "text": "Diese 1458 errichtete, denkmalgeschützte portugiesische Küstenfestung verfügt über runde Steintürme, die den Zugang zum Mittelmeer bewachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558472,
+                        35.842615
+                  ]
+            },
+            {
+                  "name": "belyounech beach",
+                  "text": "Umgeben von schroffen Bergen ist dieser malerische mediterrane Kieselstrand in Belyounech für sein klares, türkisfarbenes Wasser bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.393736,
+                        35.909365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Cires",
+                  "text": "A Tanger-Med kikötő közelében, egy stratégiai fontosságú sziklás hegyfokon álló világítótorony a forgalmas Gibraltári-szorosra tekint.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.481458,
+                        35.910114
+                  ]
+            },
+            {
+                  "name": "Jbel Mousa",
+                  "text": "A 842 méter magasra emelkedő, feltűnő hegycsúcs a Héraklész oszlopainak egyike, és pazar kilátást nyújt a Gibraltári-szorosra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.412955,
+                        35.898952
+                  ]
+            },
+            {
+                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
+                  "text": "Ez a part menti belyounechi kilátópont és szálláshely közvetlen kilátást nyújt a Földközi-tengerre és a közeli spanyol enklávéra, Ceutára.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395912,
+                        35.906004
+                  ]
+            },
+            {
+                  "name": "Forteresse portugaise de Ksar es-Seghir",
+                  "text": "Az 1458-ban alapított, műemlékvédelem alatt álló portugál part menti erődítmény kerek kőtornyai a Földközi-tenger bejáratát őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558472,
+                        35.842615
+                  ]
+            },
+            {
+                  "name": "belyounech beach",
+                  "text": "A zord hegyek által körülvett, festői belyounechi mediterrán kavicsos strand tiszta, türkizkék vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.393736,
+                        35.909365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Cires",
+                  "text": "Situat lângă portul Tanger-Med, acest far călăuzitor stă pe un promontoriu stâncos strategic cu vedere la aglomerata Strâmtoare Gibraltar.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.481458,
+                        35.910114
+                  ]
+            },
+            {
+                  "name": "Jbel Mousa",
+                  "text": "Ridicându-se la 842 de metri, acest vârf proeminent formează una dintre Coloanele lui Hercule și oferă vederi ample asupra Strâmtorii Gibraltar.",
+                  "category": "natural",
+                  "coords": [
+                        -5.412955,
+                        35.898952
+                  ]
+            },
+            {
+                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
+                  "text": "Acest punct de belvedere de pe coastă și loc de cazare din Belyounech oferă vedere directă la Marea Mediterană și la enclava spaniolă apropiată Ceuta.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395912,
+                        35.906004
+                  ]
+            },
+            {
+                  "name": "Forteresse portugaise de Ksar es-Seghir",
+                  "text": "Înființată în 1458, această fortăreață de coastă portugheză de patrimoniu prezintă turnuri circulare din piatră care păzesc intrarea în Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558472,
+                        35.842615
+                  ]
+            },
+            {
+                  "name": "belyounech beach",
+                  "text": "Închisă de munți stâncoși, această plajă pitorească cu pietriș de la Marea Mediterană din Belyounech este cunoscută pentru apele sale limpezi, turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.393736,
+                        35.909365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Cires",
+                  "text": "Situated near the Tanger-Med port, this guiding lighthouse stands on a strategic rocky promontory overlooking the bustling Strait of Gibraltar.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.481458,
+                        35.910114
+                  ]
+            },
+            {
+                  "name": "Jebel Musa",
+                  "text": "Rising to 842 metres, this prominent peak forms one of the Pillars of Hercules and offers sweeping views across the Strait of Gibraltar.",
+                  "category": "natural",
+                  "coords": [
+                        -5.412955,
+                        35.898952
+                  ]
+            },
+            {
+                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
+                  "text": "This coastal viewpoint and accommodation spot in Belyounech offers direct views of the Mediterranean Sea and the nearby Spanish enclave of Ceuta.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395912,
+                        35.906004
+                  ]
+            },
+            {
+                  "name": "Portuguese Fortress of Ksar es-Seghir",
+                  "text": "Established in 1458, this heritage-listed Portuguese coastal fortress features circular stone towers guarding the entrance to the Mediterranean.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558472,
+                        35.842615
+                  ]
+            },
+            {
+                  "name": "belyounech beach",
+                  "text": "Enclosed by rugged mountains, this picturesque Mediterranean pebble beach in Belyounech is known for its clear turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.393736,
+                        35.909365
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-01",
     coords: [-5.498, 35.89],
@@ -101,7 +290,88 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     
   },
   {
-    id: "ma-jorf-lasfar-port-economic-v2",
+    id: "ma-jorf-lasfar-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tit Ribat",
+                  "text": "Eine alte archäologische Stätte mit den Überresten einer befestigten Küstensiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.587473,
+                        33.195055
+                  ]
+            },
+            {
+                  "name": "Plage Neguiouat",
+                  "text": "Ein weitreichender Sandstrand an der Küste, der Ausblicke auf das umliegende Atlantikwasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.654978,
+                        33.086631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tit Ribat",
+                  "text": "Egy ősi régészeti lelőhely, amely egy erődített tengerparti település maradványait rejt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.587473,
+                        33.195055
+                  ]
+            },
+            {
+                  "name": "Plage Neguiouat",
+                  "text": "Egy tágas homokos tengerparti strand, amely kilátást nyújt a környező atlanti vizekre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.654978,
+                        33.086631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tit Ribat",
+                  "text": "Un vechi sit arheologic care conține rămășițele unei așezări de coastă fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        -8.587473,
+                        33.195055
+                  ]
+            },
+            {
+                  "name": "Plage Neguiouat",
+                  "text": "O plajă de coastă întinsă cu nisip, care oferă vedere la apele atlantice din jur.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.654978,
+                        33.086631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tit Ribat",
+                  "text": "An ancient archaeological site featuring the remains of a fortified coastal settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.587473,
+                        33.195055
+                  ]
+            },
+            {
+                  "name": "Plage Neguiouat",
+                  "text": "An expansive sandy coastal beach offering views of the surrounding Atlantic waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.654978,
+                        33.086631
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-06",
     coords: [-8.623, 33.111],
@@ -149,7 +419,304 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-safi-port-economic-v2",
+    id: "ma-safi-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bab Alkhadid",
+                  "text": "Ein historisches Monumentaltor, das die traditionelle marokkanische Stadtarchitektur widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "Souk Medina",
+                  "text": "Ein belebter traditioneller Markt in der historischen Medina, der lokales Kunsthandwerk und Gewürze anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.242659,
+                        32.298645
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba",
+                  "text": "Ein markantes historisches Tor, das den architektonischen Eingang zu einem lebhaften Viertel markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Agrou ( Porte de Agrou)",
+                  "text": "Ein geschichtsträchtiges architektonisches Monument, das als Tor von Agrou bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "Eine kulturelle Attraktion in der für ihre Töpferei bekannten Stadt, die dem ikonischen marokkanischen Schmorgefäß gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Plage de Safi",
+                  "text": "Ein sandiger Küstenstrand am Atlantischen Ozean, der bei Einheimischen zum Entspannen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251588,
+                        32.316934
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "Die steinernen Ruinen einer katholischen Kathedrale aus der Kolonialzeit, die während der portugiesischen Besatzung erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241606,
+                        32.298499
+                  ]
+            },
+            {
+                  "name": "des Arts",
+                  "text": "Ein kreativer Galerieraum, der zeitgenössische und traditionelle lokale Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237123,
+                        32.296695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bab Alkhadid",
+                  "text": "Egy történelmi monumentális kapu, amely a hagyományos marokkói városi építészetet tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "Souk Medina",
+                  "text": "Egy nyüzsgő hagyományos piac a történelmi medinában, amely helyi kézműves termékeket és fűszereket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.242659,
+                        32.298645
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba",
+                  "text": "Egy feltűnő történelmi kapu, amely egy élénk negyed építészeti bejáratát jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Agrou ( Porte de Agrou)",
+                  "text": "Egy történelmi jelentőségű építészeti műemlék, amely Agrou kapuja néven ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "Kulturális látványosság a fazekasságáról ismert városban, amelyet az ikonikus marokkói főzőedénynek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Plage de Safi",
+                  "text": "Homokos tengerparti strand az Atlanti-óceán partján, amely népszerű a pihenni vágyó helyiek körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251588,
+                        32.316934
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "Egy gyarmati korszakból származó katolikus katedrális kőromjai, amelyet a portugál megszállás alatt építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241606,
+                        32.298499
+                  ]
+            },
+            {
+                  "name": "des Arts",
+                  "text": "Egy kreatív galériatér, amely kortárs és hagyományos helyi művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237123,
+                        32.296695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bab Alkhadid",
+                  "text": "O poartă monumentală istorică care reflectă arhitectura urbană tradițională marocană.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "Souk Medina",
+                  "text": "O piață tradițională plină de viață în medina istorică, oferind meșteșuguri locale și condimente.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.242659,
+                        32.298645
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba",
+                  "text": "O poartă istorică impresionantă care marchează intrarea arhitecturală într-un cartier plin de viață.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Agrou ( Porte de Agrou)",
+                  "text": "Un monument arhitectural încărcat de istorie, cunoscut sub numele de Poarta Agrou.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "O atracție culturală în orașul cunoscut pentru ceramica sa, dedicată iconicului vas de gătit marocan.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Plage de Safi",
+                  "text": "O plajă de coastă cu nisip la Oceanul Atlantic, populară printre localnici pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251588,
+                        32.316934
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "Ruinele de piatră ale unei catedrale catolice din epoca colonială, construită în timpul ocupației portugheze.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241606,
+                        32.298499
+                  ]
+            },
+            {
+                  "name": "des Arts",
+                  "text": "Un spațiu creativ de galerie care prezintă opere de artă locale contemporane și tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237123,
+                        32.296695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bab Alkhadid",
+                  "text": "A historic monumental gate reflecting traditional Moroccan urban architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "Souk Medina",
+                  "text": "A bustling traditional market in the historic medina offering local crafts and spices.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.242659,
+                        32.298645
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba",
+                  "text": "A striking historical gate marking the architectural entrance to a lively district.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Agro (Gate of Agrou)",
+                  "text": "A storied architectural monument known as the Gate of Agrou.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "A cultural attraction in the city known for its pottery, dedicated to the iconic Moroccan clay cooking pot.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Plage de Safi",
+                  "text": "A sandy coastal beach on the Atlantic Ocean, popular with locals for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251588,
+                        32.316934
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "The stone ruins of a colonial-era Catholic cathedral built during the Portuguese occupation.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241606,
+                        32.298499
+                  ]
+            },
+            {
+                  "name": "Arts City",
+                  "text": "A creative gallery space showcasing contemporary and traditional local artworks.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237123,
+                        32.296695
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-07",
     coords: [-9.245, 32.298],
@@ -197,7 +764,304 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-agadir-port-economic-v2",
+    id: "ma-agadir-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "lieu plongeur",
+                  "text": "Ein Küstentauchplatz zur Erkundung der Unterwasserwelt in der Nähe des geschäftigen Hafens von Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.641352,
+                        30.417627
+                  ]
+            },
+            {
+                  "name": "Dinosaur's Footprints ANZA",
+                  "text": "Versteinerte prähistorische Spuren in Anza, die bei Ebbe auf den felsigen Küstenschelfen freigelegt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.661033,
+                        30.44613
+                  ]
+            },
+            {
+                  "name": "Musée de Géologie",
+                  "text": "Ein Ausstellungsraum in Agadir, der der komplexen seismischen Geschichte und den prähistorischen Fossilien der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655175,
+                        30.444348
+                  ]
+            },
+            {
+                  "name": "Banana point",
+                  "text": "Ein markanter Küstenvorsprung in der Nähe der Mündung des Flusses Tamraght, berühmt für seine konstanten Surfbreaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.683459,
+                        30.50221
+                  ]
+            },
+            {
+                  "name": "Surfspot Km11 Km12",
+                  "text": "Ein dynamischer Atlantik-Breakpoint, der bei Surfern für seine stetige Küstendünung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676593,
+                        30.495287
+                  ]
+            },
+            {
+                  "name": "Agadir Oufellah",
+                  "text": "Ein hochgelegener Aussichtspunkt, der weite Panoramen über die Bucht und den modernen Hafen darunter bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.625081,
+                        30.429137
+                  ]
+            },
+            {
+                  "name": "Agadir Dolfin World",
+                  "text": "Ein mariner Vergnügungspark in Agadir mit aquatischen Shows und interaktiven Delfinbegegnungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.665436,
+                        30.459313
+                  ]
+            },
+            {
+                  "name": "Banana Beach",
+                  "text": "Eine entspannte, sandige Bucht, die von Bananenplantagen an der Flussmündung gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.680046,
+                        30.501969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "lieu plongeur",
+                  "text": "Tengerparti merülőhely az Agadir forgalmas kikötője melletti víz alatti környezet felfedezésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.641352,
+                        30.417627
+                  ]
+            },
+            {
+                  "name": "Dinosaur's Footprints ANZA",
+                  "text": "Megkövesedett őskori lábnyomok Anzában, amelyek apálykor válnak láthatóvá a part menti sziklákon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.661033,
+                        30.44613
+                  ]
+            },
+            {
+                  "name": "Musée de Géologie",
+                  "text": "Agadiri kiállítótér, amelyet a régió összetett szeizmikus történetének és őskori kövületeinek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655175,
+                        30.444348
+                  ]
+            },
+            {
+                  "name": "Banana point",
+                  "text": "Kiemelkedő tengerparti kiszögellés a Tamraght folyó torkolata közelében, amely állandó szörfhullámairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.683459,
+                        30.50221
+                  ]
+            },
+            {
+                  "name": "Surfspot Km11 Km12",
+                  "text": "Dinamikus atlanti töréspont, amely a szörfösök körében az egyenletes parti hullámzásról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676593,
+                        30.495287
+                  ]
+            },
+            {
+                  "name": "Agadir Oufellah",
+                  "text": "Magasan fekvő kilátópont, amely széles panorámát nyújt az öbölre és az alatta elterülő modern kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        -9.625081,
+                        30.429137
+                  ]
+            },
+            {
+                  "name": "Agadir Dolfin World",
+                  "text": "Tengeri szórakoztatópark Agadirban, amely vízi show-kat és interaktív delfinprogramokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.665436,
+                        30.459313
+                  ]
+            },
+            {
+                  "name": "Banana Beach",
+                  "text": "Egy nyugodt, homokos öböl, amelyet banánültetvények szegélyeznek a folyó torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.680046,
+                        30.501969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "lieu plongeur",
+                  "text": "Un loc de scufundări de coastă pentru explorarea mediului subacvatic din apropierea portului aglomerat Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.641352,
+                        30.417627
+                  ]
+            },
+            {
+                  "name": "Dinosaur's Footprints ANZA",
+                  "text": "Urme preistorice fosilizate în Anza, expuse pe rafturile stâncoase de coastă în timpul refluxului.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.661033,
+                        30.44613
+                  ]
+            },
+            {
+                  "name": "Musée de Géologie",
+                  "text": "Un spațiu expozițional din Agadir dedicat istoriei seismice complexe și fosilelor preistorice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655175,
+                        30.444348
+                  ]
+            },
+            {
+                  "name": "Banana point",
+                  "text": "Un afloriment de coastă proeminent lângă gura râului Tamraght, faimos pentru valurile sale constante pentru surf.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.683459,
+                        30.50221
+                  ]
+            },
+            {
+                  "name": "Surfspot Km11 Km12",
+                  "text": "Un punct de spargere dinamic al Atlanticului, renumit printre surferi pentru valurile sale constante de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676593,
+                        30.495287
+                  ]
+            },
+            {
+                  "name": "Agadir Oufellah",
+                  "text": "Un punct de belvedere pe un deal, oferind panorame ample asupra golfului și a portului modern de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.625081,
+                        30.429137
+                  ]
+            },
+            {
+                  "name": "Agadir Dolfin World",
+                  "text": "Un parc de divertisment marin din Agadir cu spectacole acvatice și întâlniri interactive cu delfinii.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.665436,
+                        30.459313
+                  ]
+            },
+            {
+                  "name": "Banana Beach",
+                  "text": "Un golf nisipos relaxant, mărginit de plantații de banane la gura râului.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.680046,
+                        30.501969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "lieu plongeur",
+                  "text": "A coastal diving spot exploring the underwater environment near the bustling Agadir port.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.641352,
+                        30.417627
+                  ]
+            },
+            {
+                  "name": "Dinosaur's Footprints ANZA",
+                  "text": "Fossilized prehistoric tracks in Anza exposed on the coastal rock shelves during low tide.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.661033,
+                        30.44613
+                  ]
+            },
+            {
+                  "name": "Musée de Géologie",
+                  "text": "An exhibition space in Agadir dedicated to the region's complex seismic history and prehistoric fossils.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655175,
+                        30.444348
+                  ]
+            },
+            {
+                  "name": "Banana point",
+                  "text": "A prominent coastal outcrop near the mouth of the Tamraght river, famous for its consistent surf breaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.683459,
+                        30.50221
+                  ]
+            },
+            {
+                  "name": "Surfspot Km11 Km12",
+                  "text": "A dynamic Atlantic break point renowned among surfers for its steady coastal swells.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676593,
+                        30.495287
+                  ]
+            },
+            {
+                  "name": "Agadir Oufellah",
+                  "text": "A towering hilltop vantage point offering sweeping panoramas over the bay and the modern port below.",
+                  "category": "natural",
+                  "coords": [
+                        -9.625081,
+                        30.429137
+                  ]
+            },
+            {
+                  "name": "Agadir Dolfin World",
+                  "text": "A marine entertainment park in Agadir featuring aquatic shows and interactive dolphin encounters.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.665436,
+                        30.459313
+                  ]
+            },
+            {
+                  "name": "Banana Beach",
+                  "text": "A relaxed, sandy cove bordered by banana plantations at the river mouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.680046,
+                        30.501969
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-09",
     coords: [-9.626, 30.428],
@@ -737,7 +1601,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-laayoune-port-economic-v2",
+    id: "ma-laayoune-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Laâyoune",
+                  "text": "An diesem dramatischen Sandstrand treffen die weiten, trockenen Wüstendünen direkt auf die rollenden Wellen des Atlantiks.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.419591,
+                        27.093108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Laâyoune",
+                  "text": "Ezen a drámai homokos strandon a hatalmas, száraz sivatagi dűnék közvetlenül találkoznak az Atlanti-óceán hömpölygő hullámaival.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.419591,
+                        27.093108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Laâyoune",
+                  "text": "Pe această plajă de nisip dramatică, dunele vaste și aride ale deșertului se întâlnesc direct cu valurile Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.419591,
+                        27.093108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Laâyoune",
+                  "text": "At this dramatic sandy beach, the vast, arid desert dunes meet directly with the rolling waves of the Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.419591,
+                        27.093108
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-11",
     coords: [-13.36, 27.098],
@@ -785,7 +1694,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-dakhla-port-economic-v2",
+    id: "ma-dakhla-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peninsule de Dakhla",
+                  "text": "Ein Denkmal auf der Peninsule de Dakhla ehrt die strategische Bedeutung der Bucht und des örtlichen Seehafens.",
+                  "category": "historical",
+                  "coords": [
+                        -15.928781,
+                        23.70104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peninsule de Dakhla",
+                  "text": "A Dakhla-félszigeten található emlékmű az öböl és a helyi tengeri kikötő stratégiai jelentősége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -15.928781,
+                        23.70104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peninsule de Dakhla",
+                  "text": "Un monument de pe Peninsula Dakhla onorează importanța strategică a golfului și a portului maritim local.",
+                  "category": "historical",
+                  "coords": [
+                        -15.928781,
+                        23.70104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peninsule de Dakhla",
+                  "text": "A monument on the Dakhla peninsula honors the strategic economic importance of the bay and its deep-water port.",
+                  "category": "historical",
+                  "coords": [
+                        -15.928781,
+                        23.70104
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-12",
     coords: [-15.938, 23.708],
@@ -1025,7 +1979,124 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-stellantis-kenitra-economic-v2",
+    id: "ma-stellantis-kenitra-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "Das Waves Aquapark Hotel verbindet komfortable Gästezimmer mit den spritzigen Pools und Wasserrutschen eines Freizeitparks.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554135,
+                        34.274707
+                  ]
+            },
+            {
+                  "name": "Thamusida - Ville portuaire antique",
+                  "text": "Thamusida ist eine archäologische Stätte, die die weitläufigen Ruinen einer antiken römischen Hafenstadt am Fluss Oued Sebou zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -6.490001,
+                        34.334943
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "Das Cultural Center Kenitra ist ein städtisches Gebäude, das als Knotenpunkt für lokale Theateraufführungen und Kunstausstellungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580805,
+                        34.262206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "A Waves Aquapark Hotel kényelmes vendégszobákat ötvöz egy vidámpark hullámmedencéivel és vízi csúszdáival.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554135,
+                        34.274707
+                  ]
+            },
+            {
+                  "name": "Thamusida - Ville portuaire antique",
+                  "text": "Thamusida egy régészeti lelőhely, amely egy ősi római kikötőváros kiterjedt romjait őrzi az Oued Sebou folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        -6.490001,
+                        34.334943
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "A Cultural Center Kenitra egy városi intézmény, amely helyi színházi előadások és művészeti kiállítások központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580805,
+                        34.262206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "Waves Aquapark Hotel combină camerele confortabile cu piscinele și toboganele acvatice ale unui parc de distracții.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554135,
+                        34.274707
+                  ]
+            },
+            {
+                  "name": "Thamusida - Ville portuaire antique",
+                  "text": "Thamusida este un sit arheologic ce conține ruinele extinse ale unui vechi oraș-port roman de pe malurile râului Oued Sebou.",
+                  "category": "historical",
+                  "coords": [
+                        -6.490001,
+                        34.334943
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "Centrul Cultural Kenitra este o clădire civică ce servește drept punct de întâlnire pentru spectacole de teatru și expoziții locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580805,
+                        34.262206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "The Waves Aquapark Hotel combines comfortable guest accommodations with the pools and recreational slides of a water park.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554135,
+                        34.274707
+                  ]
+            },
+            {
+                  "name": "Thamusida - Ville portuaire antique",
+                  "text": "Thamusida is an archaeological site preserving the expansive ruins of an ancient Roman port city situated along the Oued Sebou river.",
+                  "category": "historical",
+                  "coords": [
+                        -6.490001,
+                        34.334943
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "The Cultural Center Kenitra serves as a civic arts building hosting local community performances and creative exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580805,
+                        34.262206
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-04",
     coords: [-6.529, 34.301],
@@ -1073,7 +2144,268 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-somaca-casablanca-economic-v2",
+    id: "ma-somaca-casablanca-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ramzy Store",
+                  "text": "Ein Einzelhandelsgeschäft in der Nachbarschaft, das die Anwohner mit alltäglichen Gütern versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.50965,
+                        33.605907
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique Ain sebaâ",
+                  "text": "Ein historischer städtischer zoologischer Park, der für seine Sammlung exotischer Tiere und Grünflächen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530414,
+                        33.603825
+                  ]
+            },
+            {
+                  "name": "siyed el bernoussi",
+                  "text": "Ein gewidmetes Denkmal zu Ehren von Sidi Bernoussi, das als Wahrzeichen im lokalen Bezirk dient.",
+                  "category": "historical",
+                  "coords": [
+                        -7.498655,
+                        33.616321
+                  ]
+            },
+            {
+                  "name": "Centre culturel Noujoum",
+                  "text": "Ein Kunstzentrum, das sich der Förderung der lokalen Kreativität und der Ausrichtung von gemeinschaftlichen Kunstworkshops widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.527781,
+                        33.574127
+                  ]
+            },
+            {
+                  "name": "Centre Commercial Jawhara",
+                  "text": "Ein modernes Einkaufszentrum, das mehrere Einzelhandelsgeschäfte und Restaurants unter einem Dach vereint.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.513995,
+                        33.593357
+                  ]
+            },
+            {
+                  "name": "Mohammed sqali",
+                  "text": "Ein lokales Theater, das eine Bühne für dramatische Künste und Gemeindevorführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.511876,
+                        33.603618
+                  ]
+            },
+            {
+                  "name": "Zoo d'Aïn-Sebaâ",
+                  "text": "Ein städtischer Zoo im Bezirk Aïn-Sebaâ mit vielfältigen Tiergehegen und lehrreichen Ausstellungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530792,
+                        33.605084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ramzy Store",
+                  "text": "Egy környékbeli kiskereskedelmi üzlet, amely mindennapi cikkekkel látja el a helyi lakosokat.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.50965,
+                        33.605907
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique Ain sebaâ",
+                  "text": "Egy történelmi városi állatkert, amely egzotikus állatgyűjteményéről és zöldterületeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530414,
+                        33.603825
+                  ]
+            },
+            {
+                  "name": "siyed el bernoussi",
+                  "text": "Sidi Bernoussi tiszteletére emelt műemlék, amely a helyi kerület tájékozódási pontjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -7.498655,
+                        33.616321
+                  ]
+            },
+            {
+                  "name": "Centre culturel Noujoum",
+                  "text": "A helyi kreativitás előmozdításának és közösségi művészeti műhelyeknek szentelt művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.527781,
+                        33.574127
+                  ]
+            },
+            {
+                  "name": "Centre Commercial Jawhara",
+                  "text": "Egy modern bevásárlóközpont, amely több kiskereskedelmi üzletet és éttermet foglal magában egy fedél alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.513995,
+                        33.593357
+                  ]
+            },
+            {
+                  "name": "Mohammed sqali",
+                  "text": "Egy helyi színházi helyszín, amely színpadot biztosít a drámai művészetek és a közösségi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.511876,
+                        33.603618
+                  ]
+            },
+            {
+                  "name": "Zoo d'Aïn-Sebaâ",
+                  "text": "Az Aïn-Sebaâ negyedben található városi állatkert, amely különféle állatkifutókkal és oktatási kiállításokkal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530792,
+                        33.605084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ramzy Store",
+                  "text": "Un magazin de vânzare cu amănuntul din cartier, care furnizează bunuri de zi cu zi locuitorilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.50965,
+                        33.605907
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique Ain sebaâ",
+                  "text": "Un parc zoologic urban istoric cunoscut pentru colecția sa de animale exotice și spații verzi.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530414,
+                        33.603825
+                  ]
+            },
+            {
+                  "name": "siyed el bernoussi",
+                  "text": "Un monument dedicat care îl onorează pe Sidi Bernoussi, servind drept punct de reper în districtul local.",
+                  "category": "historical",
+                  "coords": [
+                        -7.498655,
+                        33.616321
+                  ]
+            },
+            {
+                  "name": "Centre culturel Noujoum",
+                  "text": "Un centru de arte dedicat promovării creativității locale și găzduirii atelierelor artistice comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.527781,
+                        33.574127
+                  ]
+            },
+            {
+                  "name": "Centre Commercial Jawhara",
+                  "text": "Un centru comercial modern care găzduiește mai multe magazine de vânzare cu amănuntul și restaurante sub același acoperiș.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.513995,
+                        33.593357
+                  ]
+            },
+            {
+                  "name": "Mohammed sqali",
+                  "text": "Un teatru local care oferă o scenă pentru arte dramatice și spectacole comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.511876,
+                        33.603618
+                  ]
+            },
+            {
+                  "name": "Zoo d'Aïn-Sebaâ",
+                  "text": "O grădină zoologică urbană din districtul Aïn-Sebaâ, cu diverse țarcuri de animale și exponate educaționale.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530792,
+                        33.605084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ramzy Store",
+                  "text": "A neighborhood retail shop supplying everyday goods to local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.50965,
+                        33.605907
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique Ain sebaâ",
+                  "text": "A historic urban zoological park known for its collection of exotic animals and green spaces.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530414,
+                        33.603825
+                  ]
+            },
+            {
+                  "name": "siyed el bernoussi",
+                  "text": "A dedicated monument honoring Sidi Bernoussi, serving as a landmark in the local district.",
+                  "category": "historical",
+                  "coords": [
+                        -7.498655,
+                        33.616321
+                  ]
+            },
+            {
+                  "name": "Centre culturel Noujoum",
+                  "text": "An arts center dedicated to fostering local creativity and hosting community artistic workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.527781,
+                        33.574127
+                  ]
+            },
+            {
+                  "name": "Centre Commercial Jawhara",
+                  "text": "A modern shopping mall attraction housing multiple retail stores and eateries under one roof.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.513995,
+                        33.593357
+                  ]
+            },
+            {
+                  "name": "Mohammed sqali",
+                  "text": "A local theatre venue providing a stage for dramatic arts and community performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.511876,
+                        33.603618
+                  ]
+            },
+            {
+                  "name": "Zoo d'Aïn-Sebaâ",
+                  "text": "An urban zoo in the Aïn-Sebaâ district featuring diverse animal enclosures and educational exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.530792,
+                        33.605084
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-06",
     coords: [-7.502, 33.59],
@@ -1121,7 +2453,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-midparc-casablanca-economic-v2",
+    id: "ma-midparc-casablanca-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cas 1387",
+                  "text": "Diese lokale Attraktion befindet sich im geschäftigen Wirtschaftsviertel Midparc bei Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.636092,
+                        33.415188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cas 1387",
+                  "text": "Ez a helyi látványosság a forgalmas Midparc üzleti negyedben található Casablanca közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.636092,
+                        33.415188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cas 1387",
+                  "text": "Această atracție locală este situată în aglomeratul cartier de afaceri Midparc de lângă Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.636092,
+                        33.415188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cas 1387",
+                  "text": "This local attraction is located in the bustling Midparc business district near Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.636092,
+                        33.415188
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-06",
     coords: [-7.567, 33.376],
@@ -1217,7 +2594,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-atlantic-free-zone-kenitra-economic-v2",
+    id: "ma-atlantic-free-zone-kenitra-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ameur Seflia",
+                  "text": "In diesem Rathaus werden die administrativen Angelegenheiten der Gemeinde Ameur Seflia bei Kenitra verwaltet.",
+                  "category": "historical",
+                  "coords": [
+                        -6.418148,
+                        34.295294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ameur Seflia",
+                  "text": "Ebben a városházában intézik Ameur Seflia önkormányzatának közigazgatási ügyeit Kenitra közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.418148,
+                        34.295294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ameur Seflia",
+                  "text": "Această primărie gestionează afacerile administrative ale municipalității Ameur Seflia de lângă Kenitra.",
+                  "category": "historical",
+                  "coords": [
+                        -6.418148,
+                        34.295294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ameur Seflia",
+                  "text": "This town hall manages the administrative affairs of the Ameur Seflia municipality near Kenitra.",
+                  "category": "historical",
+                  "coords": [
+                        -6.418148,
+                        34.295294
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-04",
     coords: [-6.495, 34.288],
@@ -1268,7 +2690,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     
   },
   {
-    id: "ma-agropolis-meknes-economic-v2",
+    id: "ma-agropolis-meknes-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ain Toto",
+                  "text": "Eine lokale Attraktion rund um eine natürliche Quelle in der Agrarregion von Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.415581,
+                        33.910885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ain Toto",
+                  "text": "Helyi látványosság a meknèsi mezőgazdasági régió egyik természetes forrásának környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.415581,
+                        33.910885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ain Toto",
+                  "text": "O atracție locală centrată în jurul unui izvor natural situat în regiunea agricolă Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.415581,
+                        33.910885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ain Toto",
+                  "text": "A local attraction centered around a natural spring area situated in the Meknes agricultural region.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.415581,
+                        33.910885
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-03",
     coords: [-5.462, 33.864],
@@ -1463,7 +2930,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-noor-ouarzazate-economic-v2",
+    id: "ma-noor-ouarzazate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Filmset",
+                  "text": "Dieses Freiluft-Filmset verfügt über großflächige Requisiten und künstliche Wüstenbauten, die in internationalen Kinoproduktionen verwendet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.806024,
+                        31.048686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Filmset",
+                  "text": "Ez a szabadtéri filmdíszlet hatalmas kellékeket és mesterséges sivatagi épületeket vonultat fel, amelyeket nemzetközi mozifilmekben használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.806024,
+                        31.048686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Filmset",
+                  "text": "Acest platou de filmare în aer liber prezintă recuzită la scară largă și clădiri artificiale de deșert folosite în producțiile cinematografice internaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.806024,
+                        31.048686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Filmset",
+                  "text": "This outdoor movie set features large-scale props and artificial desert buildings used in international cinematic productions.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.806024,
+                        31.048686
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-08",
     coords: [-6.868, 30.994],
@@ -1559,7 +3071,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-imiter-silver-mine-economic-v2",
+    id: "ma-imiter-silver-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ait ali kasbah",
+                  "text": "Diese traditionelle Festung aus Lehm steht als historischer Stützpunkt in der Region Imiter.",
+                  "category": "fortress",
+                  "coords": [
+                        -5.791773,
+                        31.372232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ait ali kasbah",
+                  "text": "Ez a hagyományos agyagerőd történelmi támaszpontként áll az Imiter régióban.",
+                  "category": "fortress",
+                  "coords": [
+                        -5.791773,
+                        31.372232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ait ali kasbah",
+                  "text": "Acest fort tradițional de pământ reprezintă un bastion istoric în regiunea Imiter.",
+                  "category": "fortress",
+                  "coords": [
+                        -5.791773,
+                        31.372232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ait ali kasbah",
+                  "text": "This traditional earthen fort stands as a historical stronghold in the Imiter region.",
+                  "category": "fortress",
+                  "coords": [
+                        -5.791773,
+                        31.372232
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-08",
     coords: [-5.845, 31.353],
@@ -1657,7 +3214,52 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     
   },
   {
-    id: "ma-ocp-safi-complex-economic-v2",
+    id: "ma-ocp-safi-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ali’s Family",
+                  "text": "Eine lokale Attraktion, die einen Einblick in das traditionelle Familienleben in der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.24105,
+                        32.268841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ali’s Family",
+                  "text": "Helyi látványosság, amely bepillantást enged a régió hagyományos családi életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.24105,
+                        32.268841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ali’s Family",
+                  "text": "O atracție locală care oferă o perspectivă asupra vieții de familie tradiționale din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.24105,
+                        32.268841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ali’s Family",
+                  "text": "A local attraction offering an insight into traditional family life in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.24105,
+                        32.268841
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-07",
     coords: [-9.239, 32.274],
@@ -1705,7 +3307,88 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-lafargeholcim-settat-economic-v2",
+    id: "ma-lafargeholcim-settat-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horse of Settat",
+                  "text": "Das Denkmal Horse of Settat ist eine markante Reiterstatue, die stolz das traditionelle Pferdezuchterbe der Chaouia-Region symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619818,
+                        33.002301
+                  ]
+            },
+            {
+                  "name": "Picine Municipale",
+                  "text": "Die Picine Municipale in Settat ist ein großes städtisches Freibad, das an heißen Tagen eine erfrischende Freizeitmöglichkeit bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622547,
+                        33.013936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horse of Settat",
+                  "text": "A Horse of Settat emlékmű egy feltűnő lovasszobor, amely büszkén szimbolizálja a Chaouia régió hagyományos lótenyésztési örökségét.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619818,
+                        33.002301
+                  ]
+            },
+            {
+                  "name": "Picine Municipale",
+                  "text": "A settati Picine Municipale egy nagy városi szabadtéri medence, amely frissítő kikapcsolódási lehetőséget kínál a forró napokon.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622547,
+                        33.013936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horse of Settat",
+                  "text": "Monumentul Calului din Settat este o statuie ecvestră marcantă care simbolizează cu mândrie tradiția creșterii cailor din regiunea Chaouia.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619818,
+                        33.002301
+                  ]
+            },
+            {
+                  "name": "Picine Municipale",
+                  "text": "Picine Municipale din Settat este un parc acvatic public în aer liber, oferind o oază de răcoare în zilele toride.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622547,
+                        33.013936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horse of Settat",
+                  "text": "The Horse of Settat monument is a striking equestrian statue proudly symbolizing the traditional horse-breeding heritage of the Chaouia region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619818,
+                        33.002301
+                  ]
+            },
+            {
+                  "name": "Picine Municipale",
+                  "text": "The Picine Municipale in Settat is a large public outdoor swimming pool complex that offers a refreshing retreat on hot days.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622547,
+                        33.013936
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-06",
     coords: [-7.632, 32.996],
@@ -1753,7 +3436,304 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-mohammedia-refinery-economic-v2",
+    id: "ma-mohammedia-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stades de mini—foot",
+                  "text": "Dieser Freizeitpark in Mohammedia bietet mehrere Kleinfeld-Fußballplätze für sportliche Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.33502,
+                        33.72823
+                  ]
+            },
+            {
+                  "name": "Plage Mimosa",
+                  "text": "Dieser sonnige Sandstrand in Mohammedia lädt zum Schwimmen und Entspannen am Atlantik ein.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.337437,
+                        33.729753
+                  ]
+            },
+            {
+                  "name": "Plage Des Sablettes",
+                  "text": "Dieser beliebte Strandabschnitt in Mohammedia ist bekannt für seinen feinen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.343245,
+                        33.719044
+                  ]
+            },
+            {
+                  "name": "Plage Monica",
+                  "text": "An diesem Küstenabschnitt in Mohammedia können Besucher die frische Meeresbrise genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.35674,
+                        33.712713
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "Dieses Kunstzentrum in Mohammedia bietet vielfältige kulturelle Veranstaltungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            },
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "Dieser Strandbereich in Mohammedia ist ein idealer Ort für Spaziergänge entlang der Atlantikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Plage Mannesmann",
+                  "text": "Dieser feinsandige Strand in Mohammedia zieht zahlreiche Sonnenbader an.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.367976,
+                        33.710779
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "In diesem städtischen Theater in Mohammedia finden regelmäßig lokale Aufführungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.3893,
+                        33.685572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stades de mini—foot",
+                  "text": "Ez a mohammediai vidámpark több kispályás focipályát is kínál sportolási lehetőségekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.33502,
+                        33.72823
+                  ]
+            },
+            {
+                  "name": "Plage Mimosa",
+                  "text": "Ez a napos mohammediai homokos strand úszásra és pihenésre csábít az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.337437,
+                        33.729753
+                  ]
+            },
+            {
+                  "name": "Plage Des Sablettes",
+                  "text": "Ez a népszerű mohammediai partszakasz finom homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.343245,
+                        33.719044
+                  ]
+            },
+            {
+                  "name": "Plage Monica",
+                  "text": "Ezen a mohammediai partszakaszon a látogatók élvezhetik a friss tengeri szellőt.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.35674,
+                        33.712713
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "Ez a mohammediai művészeti központ különféle kulturális rendezvényeket és kiállításokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            },
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "Ez a mohammediai strandrész ideális helyszín az Atlanti-óceán partján tett sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Plage Mannesmann",
+                  "text": "Ez a finom homokos strand Mohammediában számos napozni vágyót vonz.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.367976,
+                        33.710779
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "Ebben a mohammediai városi színházban rendszeresen tartanak helyi előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.3893,
+                        33.685572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stades de mini—foot",
+                  "text": "Acest parc de distracții din Mohammedia oferă mai multe terenuri de mini-fotbal pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.33502,
+                        33.72823
+                  ]
+            },
+            {
+                  "name": "Plage Mimosa",
+                  "text": "Această plajă însorită cu nisip din Mohammedia invită la înot și relaxare la Oceanul Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.337437,
+                        33.729753
+                  ]
+            },
+            {
+                  "name": "Plage Des Sablettes",
+                  "text": "Această secțiune de plajă populară din Mohammedia este cunoscută pentru nisipul său fin.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.343245,
+                        33.719044
+                  ]
+            },
+            {
+                  "name": "Plage Monica",
+                  "text": "Pe această porțiune de coastă din Mohammedia vizitatorii se pot bucura de briza mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.35674,
+                        33.712713
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "Acest centru de artă din Mohammedia oferă diverse evenimente culturale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            },
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "Această zonă de plajă din Mohammedia este un loc ideal pentru plimbări de-a lungul coastei atlantice.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Plage Mannesmann",
+                  "text": "Această plajă cu nisip fin din Mohammedia atrage numeroși iubitori de soare.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.367976,
+                        33.710779
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "În acest teatru municipal din Mohammedia au loc regulat spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.3893,
+                        33.685572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stades de mini—foot",
+                  "text": "This theme park in Mohammedia features several mini-football pitches for sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.33502,
+                        33.72823
+                  ]
+            },
+            {
+                  "name": "Plage Mimosa",
+                  "text": "This sunny sandy beach in Mohammedia invites swimming and relaxation by the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.337437,
+                        33.729753
+                  ]
+            },
+            {
+                  "name": "Plage Des Sablettes",
+                  "text": "This popular stretch of beach in Mohammedia is known for its fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.343245,
+                        33.719044
+                  ]
+            },
+            {
+                  "name": "Plage Monica",
+                  "text": "On this coastal stretch in Mohammedia, visitors can enjoy the fresh sea breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.35674,
+                        33.712713
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "This arts centre in Mohammedia offers a variety of cultural events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            },
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "This beach area in Mohammedia is an ideal spot for walks along the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Plage Mannesmann",
+                  "text": "This fine-sand beach in Mohammedia attracts numerous sunbathers.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.367976,
+                        33.710779
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "This municipal theatre in Mohammedia regularly hosts local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.3893,
+                        33.685572
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MA-06",
     coords: [-7.422, 33.693],
@@ -1849,7 +3829,412 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     },
   },
   {
-    id: "ma-nador-west-med-economic-v2",
+    id: "ma-nador-west-med-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cazaza",
+                  "text": "Diese historischen Küstenruinen bei Nador markieren die Überreste einer befestigten spanischen Stadt, die im 16. Jahrhundert kurzzeitig von Bedeutung war.",
+                  "category": "historical",
+                  "coords": [
+                        -3.087882,
+                        35.277898
+                  ]
+            },
+            {
+                  "name": "Valhalla Paradise",
+                  "text": "Diese Küsten-Freizeitattraktion bei Nador bietet Entspannungsorte mit Panoramablick auf das angrenzende Mittelmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.990451,
+                        35.230176
+                  ]
+            },
+            {
+                  "name": "Berg Gourougou",
+                  "text": "Dieses zerklüftete, bewaldete Bergmassiv erreicht eine Höhe von etwa 900 Metern, überblickt Nador sowie die Enklave Melilla und beherbergt ein geschütztes Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997348,
+                        35.220678
+                  ]
+            },
+            {
+                  "name": "Panorama Gourgou",
+                  "text": "Dieser malerische Aussichtspunkt liegt hoch oben an den Hängen des Berges Gourougou und bietet einen weiten Blick über die Lagune von Nador und das Mittelmeer.",
+                  "category": "natural",
+                  "coords": [
+                        -2.998305,
+                        35.205864
+                  ]
+            },
+            {
+                  "name": "Fuerte Kol-La",
+                  "text": "Die Überreste dieser militärischen Hügelfestung thronen auf den strategischen Höhen über Nador und spiegeln die komplexe spanische Kolonialgeschichte der Region wider.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.968301,
+                        35.226399
+                  ]
+            },
+            {
+                  "name": "Fuerte de Basbel",
+                  "text": "Dieser verlassene militärische Küstenstützpunkt in der Nähe von Nador wurde in der Vergangenheit zur Kontrolle und Verteidigung der maritimen Zugänge zum Mittelmeer genutzt.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.982041,
+                        35.233089
+                  ]
+            },
+            {
+                  "name": "Playa Palomas",
+                  "text": "Versteckt an der Mittelmeerküste liegt dieser einsame Sandstrand in der Nähe von Nador, der von dramatischen Felsklippen gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.06687,
+                        35.29493
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser hoch gelegene Küstenbeobachtungspunkt bietet einen weiten Blick über die Lagune Mar Chica und die geschäftige Hafenstadt Nador.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994204,
+                        35.207299
+                  ]
+            },
+            {
+                  "name": "Thazoda/Taxuda",
+                  "text": "Hoch oben auf einem vulkanischen Plateau des Gourougou-Gebirges stammen die zerfallenden Steinmauern dieser mittelalterlichen Festung aus der Zeit der Meriniden-Dynastie.",
+                  "category": "fortress",
+                  "coords": [
+                        -3.012813,
+                        35.200537
+                  ]
+            },
+            {
+                  "name": "Samma Asammar",
+                  "text": "Dieser ruhige Abschnitt der Mittelmeerküste bei Nador bietet eine natürliche Küstenumgebung, die zum lokalen Fischen und für ihren Meerblick beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149088,
+                        35.262384
+                  ]
+            },
+            {
+                  "name": "Playa Los Piratos",
+                  "text": "Gekennzeichnet durch seine felsigen Buchten ist dieser einsame Strand an der nordmarokkanischen Küste ein raues Refugium abseits der Menschenmassen in den Städten.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.075098,
+                        35.287994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cazaza",
+                  "text": "A Nador közelében található történelmi part menti romok egy 16. században rövid ideig virágzó spanyol erődített város maradványait jelzik.",
+                  "category": "historical",
+                  "coords": [
+                        -3.087882,
+                        35.277898
+                  ]
+            },
+            {
+                  "name": "Valhalla Paradise",
+                  "text": "Ez a Nador melletti part menti szabadidős látványosság pihenőhelyeket kínál, ahonnan panorámás kilátás nyílik a szomszédos Földközi-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.990451,
+                        35.230176
+                  ]
+            },
+            {
+                  "name": "Mont Gourougou",
+                  "text": "A mintegy 900 méter magasságba nyúló, zord és erdős hegytömeg Nadorra és a melillai enklávéra tekint le, és egy védett természetvédelmi területnek is otthont ad.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997348,
+                        35.220678
+                  ]
+            },
+            {
+                  "name": "Panorama Gourgou",
+                  "text": "A Gourougou-hegy lejtőin magasan fekvő festői kilátóból lenyűgöző panoráma nyílik a nadori lagúnára és a Földközi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.998305,
+                        35.205864
+                  ]
+            },
+            {
+                  "name": "Fuerte Kol-La",
+                  "text": "A Nador feletti stratégiai magaslatokon magasodó hegyoldali katonai erőd maradványai a régió összetett spanyol gyarmati történelmét tükrözik.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.968301,
+                        35.226399
+                  ]
+            },
+            {
+                  "name": "Fuerte de Basbel",
+                  "text": "Ezt az elhagyatott Nador közeli part menti katonai támaszpontot történelmileg a Földközi-tenger felőli tengeri megközelítési útvonalak ellenőrzésére és védelmére használták.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.982041,
+                        35.233089
+                  ]
+            },
+            {
+                  "name": "Playa Palomas",
+                  "text": "A Földközi-tenger partvidékén megbúvó eldugott, Nador közeli homokos strandot drámai sziklaszirtek szegélyezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.06687,
+                        35.29493
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a magasan fekvő part menti megfigyelőpont széleskörű kilátást nyújt a Mar Chica lagúnára és Nador nyüzsgő kikötővárosára.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994204,
+                        35.207299
+                  ]
+            },
+            {
+                  "name": "Thazoda/Taxuda",
+                  "text": "A Gourougou-hegység vulkanikus fennsíkján magasan fekvő középkori erődítmény omladozó kőfalai a Merinida-dinasztia idejéből származnak.",
+                  "category": "fortress",
+                  "coords": [
+                        -3.012813,
+                        35.200537
+                  ]
+            },
+            {
+                  "name": "Samma Asammar",
+                  "text": "Ez a csendes mediterrán partszakasz Nador közelében egy természetes tengerparti környezetet biztosít, amely a helyi halászatról és tengeri kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149088,
+                        35.262384
+                  ]
+            },
+            {
+                  "name": "Playa Los Piratos",
+                  "text": "Az észak-marokkói partvidéken fekvő, sziklás öbleiről ismert eldugott strand zord menedéket nyújt a város zajától távol.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.075098,
+                        35.287994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cazaza",
+                  "text": "Aceste ruine istorice de coastă de lângă Nador marchează rămășițele unui oraș fortificat spaniol care a fost proeminent pentru scurt timp în secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.087882,
+                        35.277898
+                  ]
+            },
+            {
+                  "name": "Valhalla Paradise",
+                  "text": "Această atracție de agrement de coastă de lângă Nador oferă locuri de relaxare cu vederi panoramice ale apelor mediteraneene adiacente.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.990451,
+                        35.230176
+                  ]
+            },
+            {
+                  "name": "Mont Gourougou",
+                  "text": "Atingând o altitudine de aproximativ 900 de metri, acest masiv muntos accidentat și împădurit are vedere la Nador și la enclava Melilla, găzduind o rezervație naturală protejată.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997348,
+                        35.220678
+                  ]
+            },
+            {
+                  "name": "Panorama Gourgou",
+                  "text": "Situat sus pe versanții Muntelui Gourougou, acest punct de observație pitoresc oferă panorame ample asupra lagunei Nador și a Mării Mediterane.",
+                  "category": "natural",
+                  "coords": [
+                        -2.998305,
+                        35.205864
+                  ]
+            },
+            {
+                  "name": "Fuerte Kol-La",
+                  "text": "Cocoțate pe înălțimile strategice deasupra Nadorului, rămășițele acestui fort militar de pe deal reflectă istoria colonială spaniolă complexă a regiunii.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.968301,
+                        35.226399
+                  ]
+            },
+            {
+                  "name": "Fuerte de Basbel",
+                  "text": "Acest punct forte militar de coastă abandonat de lângă Nador a fost folosit istoric pentru a controla și apăra abordările maritime mediteraneene.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.982041,
+                        35.233089
+                  ]
+            },
+            {
+                  "name": "Playa Palomas",
+                  "text": "Ascunsă de-a lungul coastei mediteraneene, această plajă retrasă cu nisip din apropiere de Nador este mărginită de stânci abrupte și dramatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.06687,
+                        35.29493
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de observație de coastă ridicat oferă vederi extinse care cuprind laguna Mar Chica și aglomeratul oraș port Nador.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994204,
+                        35.207299
+                  ]
+            },
+            {
+                  "name": "Thazoda/Taxuda",
+                  "text": "Așezate sus pe un platou vulcanic al munților Gourougou, zidurile de piatră fărâmițate ale acestei fortărețe medievale datează din perioada dinastiei Merinide.",
+                  "category": "fortress",
+                  "coords": [
+                        -3.012813,
+                        35.200537
+                  ]
+            },
+            {
+                  "name": "Samma Asammar",
+                  "text": "Această întindere liniștită a țărmului mediteranean de lângă Nador oferă un mediu de coastă natural popular pentru pescuitul local și priveliștile la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149088,
+                        35.262384
+                  ]
+            },
+            {
+                  "name": "Playa Los Piratos",
+                  "text": "Caracterizată prin golfurile sale stâncoase, această plajă retrasă de-a lungul coastei nordice marocane este o retragere accidentată departe de aglomerația orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.075098,
+                        35.287994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cazaza",
+                  "text": "These historic coastal ruins near Nador mark the remains of a Spanish fortified town that was briefly prominent in the 16th century.",
+                  "category": "historical",
+                  "coords": [
+                        -3.087882,
+                        35.277898
+                  ]
+            },
+            {
+                  "name": "Valhalla Paradise",
+                  "text": "This coastal leisure attraction near Nador offers relaxation spots with panoramic views of the adjacent Mediterranean waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.990451,
+                        35.230176
+                  ]
+            },
+            {
+                  "name": "Mount Gourougou",
+                  "text": "Reaching roughly 900 metres in altitude, this rugged, forested mountain mass overlooks Nador and the Melilla enclave, hosting a protected nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997348,
+                        35.220678
+                  ]
+            },
+            {
+                  "name": "Panorama Gourgou",
+                  "text": "Situated high on the slopes of Mount Gourougou, this scenic lookout point provides sweeping vistas across the Nador lagoon and the Mediterranean.",
+                  "category": "natural",
+                  "coords": [
+                        -2.998305,
+                        35.205864
+                  ]
+            },
+            {
+                  "name": "Fuerte Kol-La",
+                  "text": "Perched on the strategic heights above Nador, the remains of this hillside military fort reflect the region's complex Spanish colonial history.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.968301,
+                        35.226399
+                  ]
+            },
+            {
+                  "name": "Fuerte de Basbel",
+                  "text": "This abandoned coastal military strongpoint near Nador was historically used to control and defend the Mediterranean maritime approaches.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.982041,
+                        35.233089
+                  ]
+            },
+            {
+                  "name": "Playa Palomas",
+                  "text": "Tucked away along the Mediterranean coastline, this secluded sandy beach near Nador is bordered by dramatic rocky cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.06687,
+                        35.29493
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This elevated coastal observation point offers expansive views spanning the Mar Chica lagoon and the bustling port city of Nador.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994204,
+                        35.207299
+                  ]
+            },
+            {
+                  "name": "Thazoda/Taxuda",
+                  "text": "Set high on a volcanic plateau of the Gourougou mountains, the crumbling stone walls of this medieval fortress date back to the Merinid dynasty.",
+                  "category": "fortress",
+                  "coords": [
+                        -3.012813,
+                        35.200537
+                  ]
+            },
+            {
+                  "name": "Samma Asammar",
+                  "text": "This quiet stretch of Mediterranean shoreline near Nador provides a natural coastal environment popular for local fishing and sea views.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149088,
+                        35.262384
+                  ]
+            },
+            {
+                  "name": "Playa Los Piratos",
+                  "text": "Characterised by its rocky coves, this secluded beach along the northern Moroccan coast is a rugged retreat away from the city crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.075098,
+                        35.287994
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-02",
     coords: [-3.072, 35.253],

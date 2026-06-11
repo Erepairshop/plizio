@@ -38,7 +38,52 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       fr: ["Le parc a été déclaré parc national le 1er mars 1981.", "Il s'étend sur une superficie de 19 400 hectares sur la côte.", "Azagny est classé site Ramsar depuis 1996.", "Il abrite l'une des dernières populations de lamantins d'Afrique de l'Ouest.", "Environ deux tiers du parc sont constitués de marais et de surfaces d'eau permanentes.", "Le parc est situé dans le département de Grand-Lahou, à l'embouchure du fleuve Bandama."],
     }, image: "/poi-images/parc-national-d-azagny-life-v2.webp"},
   {
-    id: "ferme-de-cacao-yamoussoukro-life-v2",
+    id: "ferme-de-cacao-yamoussoukro-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les Crocodiles de Yamoussoukro",
+                  "text": "Diese Attraktion zeigt die berühmten Krokodile, die in dem See rund um den Präsidentenpalast leben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.280575,
+                        6.822418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les Crocodiles de Yamoussoukro",
+                  "text": "Ez a látványosság az Elnöki Palotát körülvevő tóban élő híres krokodilokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.280575,
+                        6.822418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les Crocodiles de Yamoussoukro",
+                  "text": "Această atracție prezintă celebrii crocodili care trăiesc în lacul ce înconjoară Palatul Prezidențial.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.280575,
+                        6.822418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les Crocodiles de Yamoussoukro",
+                  "text": "This attraction features the famous crocodiles residing in the lake surrounding the Presidential Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.280575,
+                        6.822418
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CI-LAC",
     coords: [-5.276, 6.823],
@@ -73,7 +118,52 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       fr: ["La Côte d'Ivoire produit plus de 2 millions de tonnes de cacao par an.", "Environ 40 % de la production mondiale de cacao provient de ce pays.", "Un cacaoyer met environ 5 ans avant de produire ses premiers fruits.", "La période de récolte a lieu deux fois par an (principale et intermédiaire).", "La fermentation des fèves dure généralement de 5 à 7 jours.", "Le secteur du cacao emploie indirectement environ 6 millions de personnes."],
     }, image: "/poi-images/ferme-de-cacao-yamoussoukro-life-v2.webp"},
   {
-    id: "parc-des-enfants-abidjan-life-v2",
+    id: "parc-des-enfants-abidjan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Civilisations de Côte d’Ivoire",
+                  "text": "Ein bedeutendes Nationalmuseum, das die vielfältigen kulturellen, historischen und ethnografischen Artefakte der Elfenbeinküste bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -4.024175,
+                        5.333551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Civilisations de Côte d’Ivoire",
+                  "text": "Egy kiemelkedő nemzeti múzeum, amely Elefántcsontpart sokszínű kulturális, történelmi és néprajzi tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -4.024175,
+                        5.333551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Civilisations de Côte d’Ivoire",
+                  "text": "Un muzeu național proeminent care conservă diversele artefacte culturale, istorice și etnografice ale Coastei de Fildeș.",
+                  "category": "museum",
+                  "coords": [
+                        -4.024175,
+                        5.333551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Civilisations de Côte d’Ivoire",
+                  "text": "A prominent national museum preserving the diverse cultural, historical, and ethnographic artifacts of Ivory Coast.",
+                  "category": "museum",
+                  "coords": [
+                        -4.024175,
+                        5.333551
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CI-LAG",
     coords: [-4.024, 5.332],
@@ -108,7 +198,160 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       fr: ["Le parc offre des zones de jeux sécurisées pour différents groupes d'âge.", "C'est l'un des rares parcs publics dédiés à Abidjan.", "Les jours fériés, le parc accueille souvent des spectacles culturels et de marionnettes.", "Le parc est géré et entretenu par la municipalité d'Abidjan.", "La végétation se compose d'arbres tropicaux et de palmiers ombrageux.", "L'entrée est généralement abordable pour tous ou gratuite."],
     }, image: "/poi-images/parc-des-enfants-abidjan-life-v2.webp"},
   {
-    id: "reserve-naturelle-mont-nimba-life-v2",
+    id: "reserve-naturelle-mont-nimba-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Tomgbongbo",
+                  "text": "Der Mont Tomgbongbo ist eine Naturattraktion inmitten der reichen Artenvielfalt des strengen Naturreservats Berg Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.424172,
+                        7.638651
+                  ]
+            },
+            {
+                  "name": "Grotte Seringbara 1",
+                  "text": "Die Grotte Seringbara 1 ist eine natürliche Höhlenformation, die im strengen Naturreservat Berg Nimba verborgen liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42254,
+                        7.649958
+                  ]
+            },
+            {
+                  "name": "Rivière  Made",
+                  "text": "Der Rivière Made ist ein malerischer Fluss, der durch die geschützten Ökosysteme des Nimba-Reservats fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42378,
+                        7.649278
+                  ]
+            },
+            {
+                  "name": "Nimba",
+                  "text": "Der Nimba-Gipfel ist ein markanter Berg, der für seine eisenerzreiche Geologie im strengen Naturreservat bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.408059,
+                        7.622588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Tomgbongbo",
+                  "text": "A Mont Tomgbongbo egy természeti látványosság a Mount Nimba Szigorú Természetvédelmi Terület gazdag biológiai sokféleségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.424172,
+                        7.638651
+                  ]
+            },
+            {
+                  "name": "Grotte Seringbara 1",
+                  "text": "A Grotte Seringbara 1 egy természetes barlangképződmény, amely a Mount Nimba Szigorú Természetvédelmi Területen rejtőzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42254,
+                        7.649958
+                  ]
+            },
+            {
+                  "name": "Rivière  Made",
+                  "text": "A Rivière Made egy festői folyó, amely a Mount Nimba rezervátum védett ökoszisztémáin folyik keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42378,
+                        7.649278
+                  ]
+            },
+            {
+                  "name": "Nimba",
+                  "text": "A Nimba-csúcs egy kiemelkedő hegy, amely a szigorú természetvédelmi területen belül a vasércben gazdag geológiájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        -8.408059,
+                        7.622588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Tomgbongbo",
+                  "text": "Mont Tomgbongbo este o atracție naturală situată în mijlocul bogatei biodiversități a Rezervației Naturale Stricte Muntele Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.424172,
+                        7.638651
+                  ]
+            },
+            {
+                  "name": "Grotte Seringbara 1",
+                  "text": "Grotte Seringbara 1 este o formațiune naturală de peșteră ascunsă în cadrul Rezervației Naturale Stricte Muntele Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42254,
+                        7.649958
+                  ]
+            },
+            {
+                  "name": "Rivière  Made",
+                  "text": "Rivière Made este o atracție fluvială pitorească care curge prin ecosistemele protejate ale rezervației Muntele Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42378,
+                        7.649278
+                  ]
+            },
+            {
+                  "name": "Nimba",
+                  "text": "Vârful Nimba este un munte proeminent, renumit pentru geologia sa bogată în minereu de fier din cadrul rezervației naturale stricte.",
+                  "category": "natural",
+                  "coords": [
+                        -8.408059,
+                        7.622588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Tomgbongbo",
+                  "text": "Mont Tomgbongbo is a natural attraction located within the rich biodiversity of the Mount Nimba Strict Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.424172,
+                        7.638651
+                  ]
+            },
+            {
+                  "name": "Grotte Seringbara 1",
+                  "text": "Grotte Seringbara 1 is a natural cave formation hidden within the Mount Nimba Strict Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42254,
+                        7.649958
+                  ]
+            },
+            {
+                  "name": "Rivière  Made",
+                  "text": "Rivière Made is a scenic river attraction flowing through the protected ecosystems of the Mount Nimba reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.42378,
+                        7.649278
+                  ]
+            },
+            {
+                  "name": "Nimba",
+                  "text": "The Nimba peak is a prominent mountain renowned for its iron-ore rich geology within the strict nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -8.408059,
+                        7.622588
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CI-MTN",
     coords: [-8.423, 7.625],
@@ -143,7 +386,268 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       fr: ["Le mont Nimba est le plus haut sommet de Côte d'Ivoire et de Guinée (1 752 m).", "La réserve a été inscrite au patrimoine mondial en 1981 (Guinée) et 1982 (Côte d'Ivoire).", "Le crapaud du Nimba est le seul amphibien vivipare connu au monde.", "Plus de 2 000 espèces de plantes vasculaires ont été documentées dans la réserve.", "La zone abrite des chimpanzés qui utilisent des outils en pierre.", "La superficie totale de la réserve est d'environ 17 540 hectares."],
     }, image: "/poi-images/reserve-naturelle-mont-nimba-life-v2.webp"},
   {
-    id: "plantation-de-cafe-man-life-v2",
+    id: "plantation-de-cafe-man-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Glas",
+                  "text": "Dieser schroffe Berggipfel bietet anspruchsvolle Wandermöglichkeiten für Outdoor-Enthusiasten.",
+                  "category": "natural",
+                  "coords": [
+                        -7.595125,
+                        7.399818
+                  ]
+            },
+            {
+                  "name": "Les Cascades Naturelles de Man",
+                  "text": "Diese natürliche Attraktion besteht aus malerischen Wasserfällen, die über felsige Vorsprünge stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.586384,
+                        7.412049
+                  ]
+            },
+            {
+                  "name": "Singes sacrés de la Foret Sacrée de Gbepleu",
+                  "text": "Diese natürliche Attraktion bietet heilige Affen, die frei unter dem geschützten Blätterdach des Gbepleu-Waldes leben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.571822,
+                        7.414735
+                  ]
+            },
+            {
+                  "name": "Mont Bia",
+                  "text": "Diese markante gebirgige Erhebung ist für ihr ausgeprägtes Gipfelprofil am Himmel bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.56707,
+                        7.466206
+                  ]
+            },
+            {
+                  "name": "Cascades Naturelles de Glongouin",
+                  "text": "Diese natürliche Attraktion bietet rauschende Wasserfälle, die durch eine grüne Waldlandschaft fließen.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.551423,
+                        7.451244
+                  ]
+            },
+            {
+                  "name": "La Dent de Man",
+                  "text": "Dieser markante zahnförmige Berggipfel überragt die nahe gelegene Stadt Man.",
+                  "category": "natural",
+                  "coords": [
+                        -7.544332,
+                        7.456353
+                  ]
+            },
+            {
+                  "name": "Mont Ga",
+                  "text": "Dieser steile Berggipfel zeichnet sich durch die dichte Vegetation an seinen Hängen aus.",
+                  "category": "natural",
+                  "coords": [
+                        -7.580931,
+                        7.485338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Glas",
+                  "text": "Ez a zord hegycsúcs kihívást jelentő túrázási lehetőségeket kínál a szabadtéri szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        -7.595125,
+                        7.399818
+                  ]
+            },
+            {
+                  "name": "Les Cascades Naturelles de Man",
+                  "text": "Ez a természeti látványosság festői vízesésekből áll, amelyek sziklás párkányokon zuhannak alá.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.586384,
+                        7.412049
+                  ]
+            },
+            {
+                  "name": "Singes sacrés de la Foret Sacrée de Gbepleu",
+                  "text": "Ez a természeti látványosság a védett Gbepleu erdő lombkoronája alatt szabadon élő szent majmokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.571822,
+                        7.414735
+                  ]
+            },
+            {
+                  "name": "Mont Bia",
+                  "text": "Ez a kiemelkedő hegyvidéki magaslat az égboltba rajzolódó, jellegzetes csúcsprofiljáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -7.56707,
+                        7.466206
+                  ]
+            },
+            {
+                  "name": "Cascades Naturelles de Glongouin",
+                  "text": "Ez a természeti látványosság gyors vizű vízesésekkel büszkélkedhet, amelyek zöldellő erdei tájon folynak keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.551423,
+                        7.451244
+                  ]
+            },
+            {
+                  "name": "La Dent de Man",
+                  "text": "Ez a jellegzetes fog alakú hegycsúcs a közeli Man városára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.544332,
+                        7.456353
+                  ]
+            },
+            {
+                  "name": "Mont Ga",
+                  "text": "Ezt a meredek hegycsúcsot a lejtőit borító sűrű növényzet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        -7.580931,
+                        7.485338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Glas",
+                  "text": "Acest vârf de munte accidentat oferă oportunități provocatoare de drumeții pentru pasionații de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -7.595125,
+                        7.399818
+                  ]
+            },
+            {
+                  "name": "Les Cascades Naturelles de Man",
+                  "text": "Această atracție naturală este formată din cascade pitorești care se prăvălesc peste cornișe stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.586384,
+                        7.412049
+                  ]
+            },
+            {
+                  "name": "Singes sacrés de la Foret Sacrée de Gbepleu",
+                  "text": "Această atracție naturală prezintă maimuțe sacre care trăiesc libere în coronamentul protejat al pădurii Gbepleu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.571822,
+                        7.414735
+                  ]
+            },
+            {
+                  "name": "Mont Bia",
+                  "text": "Această elevație muntoasă proeminentă este cunoscută pentru profilul său distinct de vârf profilat pe cer.",
+                  "category": "natural",
+                  "coords": [
+                        -7.56707,
+                        7.466206
+                  ]
+            },
+            {
+                  "name": "Cascades Naturelles de Glongouin",
+                  "text": "Această atracție naturală prezintă cascade rapide care curg printr-un peisaj împădurit înverzit.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.551423,
+                        7.451244
+                  ]
+            },
+            {
+                  "name": "La Dent de Man",
+                  "text": "Acest vârf de munte distinctiv, în formă de dinte, domină orașul Man din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.544332,
+                        7.456353
+                  ]
+            },
+            {
+                  "name": "Mont Ga",
+                  "text": "Acest vârf de munte abrupt este caracterizat de vegetația densă care îi acoperă pantele.",
+                  "category": "natural",
+                  "coords": [
+                        -7.580931,
+                        7.485338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Glas",
+                  "text": "This rugged mountain summit provides challenging hiking opportunities for outdoor enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        -7.595125,
+                        7.399818
+                  ]
+            },
+            {
+                  "name": "Les Cascades Naturelles de Man",
+                  "text": "This natural attraction consists of scenic cascading waterfalls plunging over rocky ledges.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.586384,
+                        7.412049
+                  ]
+            },
+            {
+                  "name": "Singes sacrés de la Foret Sacrée de Gbepleu",
+                  "text": "This natural attraction features sacred monkeys living freely within the protected canopy of the Gbepleu forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.571822,
+                        7.414735
+                  ]
+            },
+            {
+                  "name": "Mont Bia",
+                  "text": "This prominent mountainous elevation is known for its distinct summit profile against the sky.",
+                  "category": "natural",
+                  "coords": [
+                        -7.56707,
+                        7.466206
+                  ]
+            },
+            {
+                  "name": "Cascades Naturelles de Glongouin",
+                  "text": "This natural attraction features rapid waterfalls flowing through a verdant forested landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.551423,
+                        7.451244
+                  ]
+            },
+            {
+                  "name": "La Dent de Man",
+                  "text": "This distinctive tooth-shaped mountain peak overlooks the nearby city of Man.",
+                  "category": "natural",
+                  "coords": [
+                        -7.544332,
+                        7.456353
+                  ]
+            },
+            {
+                  "name": "Mont Ga",
+                  "text": "This steep mountain peak is characterized by the dense vegetation covering its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -7.580931,
+                        7.485338
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CI-MTN",
     coords: [-7.556, 7.412],

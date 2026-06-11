@@ -655,7 +655,7 @@ export const portugalHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Castelo de Terena",
-                  "text": "Eine mittelalterliche Burg aus dem 13. Jahrhundert in Terena.",
+                  "text": "Denkmalgeschützte Burg nahe den römischen Ruinen von Caladinho.",
                   "category": "castle",
                   "coords": [
                         -7.40729,
@@ -682,7 +682,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela da Boa Nova",
-                  "text": "Diese Kirche befindet sich bei den römischen Ruinen von Caladinho.",
+                  "text": "Denkmalgeschützte Kapelle Nossa Senhora da Boa Nova nahe den römischen Ruinen von Caladinho.",
                   "category": "religious",
                   "coords": [
                         -7.397372,
@@ -702,7 +702,7 @@ export const portugalHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Castelo de Terena",
-                  "text": "13. századi középkori vár Terena településen.",
+                  "text": "Műemlék vár a caladinhói római romok közelében.",
                   "category": "castle",
                   "coords": [
                         -7.40729,
@@ -729,7 +729,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela da Boa Nova",
-                  "text": "Ez a templom a Caladinho római romok közelében található.",
+                  "text": "Műemlék Nossa Senhora da Boa Nova-kápolna a caladinhói római romok közelében.",
                   "category": "religious",
                   "coords": [
                         -7.397372,
@@ -749,7 +749,7 @@ export const portugalHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Castelo de Terena",
-                  "text": "Un castel medieval din secolul al XIII-lea în Terena.",
+                  "text": "Castel protejat lângă ruinele romane de la Caladinho.",
                   "category": "castle",
                   "coords": [
                         -7.40729,
@@ -776,7 +776,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela da Boa Nova",
-                  "text": "Această biserică se află lângă ruinele romane din Caladinho.",
+                  "text": "Capela Nossa Senhora da Boa Nova, monument istoric lângă ruinele romane de la Caladinho.",
                   "category": "religious",
                   "coords": [
                         -7.397372,
@@ -796,7 +796,7 @@ export const portugalHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Castelo de Terena",
-                  "text": "A 13th-century medieval castle in Terena.",
+                  "text": "Heritage-listed castle near the Roman ruins of Caladinho.",
                   "category": "castle",
                   "coords": [
                         -7.40729,
@@ -823,7 +823,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela da Boa Nova",
-                  "text": "This church is located near the Caladinho Roman ruins.",
+                  "text": "Heritage-listed chapel of Nossa Senhora da Boa Nova near the Roman ruins of Caladinho.",
                   "category": "religious",
                   "coords": [
                         -7.397372,

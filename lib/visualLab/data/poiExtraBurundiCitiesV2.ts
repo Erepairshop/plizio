@@ -45,7 +45,124 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     }
   },
   {
-    id: "gitega-cities-v2",
+    id: "gitega-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magasin Notre-Dame de Fatima",
+                  "text": "Das Magasin Notre-Dame de Fatima ist ein Kunstzentrum in Gitega, das für die Ausstellung lokal gefertigter Gegenstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        29.92636,
+                        -3.432332
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Gitega",
+                  "text": "Das Kulturzentrum Gitega ist ein gemeinschaftlicher Veranstaltungsort, der sich der Förderung burundischer Künste und Traditionen widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930705,
+                        -3.426918
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "Die Cathédrale du Christ-Roi ist eine markante katholische Kathedrale in Gitega mit bemerkenswerter kirchlicher Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        29.933031,
+                        -3.440132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magasin Notre-Dame de Fatima",
+                  "text": "A Magasin Notre-Dame de Fatima egy Gitega-i művészeti központ, amely helyi készítésű kézműves termékeket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        29.92636,
+                        -3.432332
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Gitega",
+                  "text": "A Gitega Kulturális Központ a burundi művészetek és hagyományok népszerűsítésének szentelt közösségi helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930705,
+                        -3.426918
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "A Cathédrale du Christ-Roi egy kiemelkedő katolikus katedrális Gitegában, mely figyelemre méltó egyházi építészettel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        29.933031,
+                        -3.440132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magasin Notre-Dame de Fatima",
+                  "text": "Magasin Notre-Dame de Fatima este un centru de artă din Gitega, cunoscut pentru prezentarea obiectelor meșteșugărești locale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.92636,
+                        -3.432332
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Gitega",
+                  "text": "Centrul Cultural Gitega este un spațiu comunitar dedicat promovării artelor și tradițiilor din Burundi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930705,
+                        -3.426918
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "Catedrala Hristos Regele este o catedrală catolică proeminentă din Gitega, caracterizată prin arhitectura sa ecleziastică deosebită.",
+                  "category": "religious",
+                  "coords": [
+                        29.933031,
+                        -3.440132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magasin Notre-Dame de Fatima",
+                  "text": "The Magasin Notre-Dame de Fatima is an arts centre in Gitega known for showcasing locally crafted items.",
+                  "category": "cultural",
+                  "coords": [
+                        29.92636,
+                        -3.432332
+                  ]
+            },
+            {
+                  "name": "Cultural Centre Gitega",
+                  "text": "The Cultural Centre Gitega is a community venue dedicated to the promotion of Burundian arts and traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930705,
+                        -3.426918
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "The Cathédrale du Christ-Roi is a prominent Catholic cathedral in Gitega, featuring notable ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        29.933031,
+                        -3.440132
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "BI-GI",
     coords: [29.92, -3.42],
@@ -456,7 +573,52 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     }
   },
   {
-    id: "kirundo-cities-v2",
+    id: "kirundo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "monument de l' independance",
+                  "text": "Das Monument de l'Independance in Kirundo ist eine steinerne Gedenkstätte zur Feier der Freiheit der Nation.",
+                  "category": "historical",
+                  "coords": [
+                        30.087071,
+                        -2.588366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "monument de l' independance",
+                  "text": "A kirundói függetlenségi emlékmű egy kőből épült struktúra, amely a nemzet szabadságát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        30.087071,
+                        -2.588366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "monument de l' independance",
+                  "text": "Monumentul independenței din Kirundo este o structură comemorativă din piatră care celebrează libertatea națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        30.087071,
+                        -2.588366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "monument de l' independance",
+                  "text": "The monument de l' independance in Kirundo is a commemorative stone structure celebrating the nation's freedom.",
+                  "category": "historical",
+                  "coords": [
+                        30.087071,
+                        -2.588366
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BI-KI",
     coords: [30.09, -2.58],
@@ -909,7 +1071,52 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     }
   },
   {
-    id: "gatumba-cities-v2",
+    id: "gatumba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "Das Monument du Cinquantenaire ist ein markantes Denkmal in Gatumba, das an den fünfzigsten Jahrestag der nationalen Unabhängigkeit erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        29.250509,
+                        -3.33558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "A Monument du Cinquantenaire egy kiemelkedő emlékmű Gatumbában, amely a nemzeti függetlenség ötvenedik évfordulóját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        29.250509,
+                        -3.33558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "Monumentul Cincantenarului este o structură comemorativă proeminentă din Gatumba care marchează a cincizecea aniversare a independenței naționale.",
+                  "category": "historical",
+                  "coords": [
+                        29.250509,
+                        -3.33558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "The Monument du Cinquantenaire is a prominent commemorative structure in Gatumba marking the fiftieth anniversary of national independence.",
+                  "category": "historical",
+                  "coords": [
+                        29.250509,
+                        -3.33558
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BI-BL",
     coords: [29.24, -3.34],
@@ -1389,7 +1596,52 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     },
   },
   {
-    id: "mutaho-cities-v2",
+    id: "mutaho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mutoyi",
+                  "text": "Mutoyi ist eine lokale Touristenattraktion inmitten der malerischen Landschaften der Mutaho-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        29.97801,
+                        -3.21785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mutoyi",
+                  "text": "Mutoyi egy helyi turisztikai látványosság a Mutaho régió festői tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        29.97801,
+                        -3.21785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mutoyi",
+                  "text": "Mutoyi este o atracție turistică locală situată în mijlocul peisajelor pitorești din regiunea Mutaho.",
+                  "category": "landmark",
+                  "coords": [
+                        29.97801,
+                        -3.21785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mutoyi",
+                  "text": "Mutoyi is a local tourist attraction set amidst the scenic landscapes of the Mutaho region.",
+                  "category": "landmark",
+                  "coords": [
+                        29.97801,
+                        -3.21785
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BI-GI",
     coords: [29.98, -3.23],
@@ -2205,7 +2457,52 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     },
   },
   {
-    id: "gatara-cities-v2",
+    id: "gatara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inganzo ya mwami Mwezi Gisabo",
+                  "text": "Inganzo ya mwami Mwezi Gisabo ist eine historische Kulturstätte in Gatara, die dem Erbe von König Mwezi Gisabo, dem Herrscher von Burundi, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.557681,
+                        -2.969677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inganzo ya mwami Mwezi Gisabo",
+                  "text": "Az Inganzo ya mwami Mwezi Gisabo egy történelmi kulturális helyszín Gatara városában, amelyet Mwezi Gisabo király, Burundi uralkodója emlékének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        29.557681,
+                        -2.969677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inganzo ya mwami Mwezi Gisabo",
+                  "text": "Inganzo ya mwami Mwezi Gisabo este un sit cultural istoric din Gatara dedicat moștenirii regelui Mwezi Gisabo, conducătorul statului Burundi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.557681,
+                        -2.969677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inganzo ya mwami Mwezi Gisabo",
+                  "text": "Inganzo ya mwami Mwezi Gisabo is a historical cultural site in Gatara dedicated to the legacy of King Mwezi Gisabo, the ruler of Burundi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.557681,
+                        -2.969677
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BI-KY",
     coords: [29.57, -2.95],

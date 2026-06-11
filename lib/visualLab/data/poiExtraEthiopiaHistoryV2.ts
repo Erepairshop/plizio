@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraEthiopiaHistoryV2: POI[] = [
   {
-    id: "fasil-ghebbi-history-v2",
+    id: "fasil-ghebbi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fasilidas' Palace",
+                  "text": "Fasilidas' Palace ist ein markantes zweistöckiges Steinschloss, das mit indischen und arabischen architektonischen Einflüssen innerhalb des Fasil Ghebbi-Komplexes erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        37.470016,
+                        12.607382
+                  ]
+            },
+            {
+                  "name": "Atse Tewodros Square",
+                  "text": "Der Kaiser-Tewodros-Platz ist eine markante öffentliche Attraktion in Gondar mit einem zentralen Denkmal, das dem berühmten äthiopischen Herrscher aus dem 19. Jahrhundert gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        37.469842,
+                        12.611982
+                  ]
+            },
+            {
+                  "name": "Mentewab's Castle",
+                  "text": "Mentewabs Schloss ist eine elegante königliche Residenz in Fasil Ghebbi, die mit markanten dekorativen Steinmetzarbeiten und Kreuzen geschmückt ist.",
+                  "category": "castle",
+                  "coords": [
+                        37.470162,
+                        12.609547
+                  ]
+            },
+            {
+                  "name": "Dawit's Hall",
+                  "text": "Dawits Halle umfasst die dachlosen Steinruinen einer imposanten Gesangshalle, die für Kaiser Dawit III. auf dem königlichen Gelände von Gondar errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        37.470063,
+                        12.608641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fasilidas' Palace",
+                  "text": "A Fasilidas-palota egy feltűnő kétszintes kőkastély, amely indiai és arab építészeti hatásokkal épült a Fasil Ghebbi komplexumon belül.",
+                  "category": "castle",
+                  "coords": [
+                        37.470016,
+                        12.607382
+                  ]
+            },
+            {
+                  "name": "Atse Tewodros Square",
+                  "text": "A Tewodros császár tér egy kiemelkedő nyilvános látványosság Gondarban, amely a neves 19. századi etióp uralkodónak szentelt központi emlékművel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        37.469842,
+                        12.611982
+                  ]
+            },
+            {
+                  "name": "Mentewab's Castle",
+                  "text": "A Mentewab-kastély egy elegáns királyi rezidencia a Fasil Ghebbin belül, amelyet jellegzetes díszítő kőfaragások és keresztek díszítenek.",
+                  "category": "castle",
+                  "coords": [
+                        37.470162,
+                        12.609547
+                  ]
+            },
+            {
+                  "name": "Dawit's Hall",
+                  "text": "A Dawit-csarnok egy tetőtlen kőrom, amely Dawit császár számára épített impozáns énekcsarnok volt a gondari királyi területen.",
+                  "category": "historical",
+                  "coords": [
+                        37.470063,
+                        12.608641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fasilidas' Palace",
+                  "text": "Palatul lui Fasilidas este un castel de piatră impresionant, cu două etaje, construit cu influențe arhitecturale indiene și arabe în cadrul complexului Fasil Ghebbi.",
+                  "category": "castle",
+                  "coords": [
+                        37.470016,
+                        12.607382
+                  ]
+            },
+            {
+                  "name": "Atse Tewodros Square",
+                  "text": "Piața Împăratului Tewodros este o atracție publică importantă din Gondar, având un monument central dedicat renumitului conducător etiopian din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        37.469842,
+                        12.611982
+                  ]
+            },
+            {
+                  "name": "Mentewab's Castle",
+                  "text": "Castelul Mentewab este o reședință regală elegantă din Fasil Ghebbi, împodobită cu lucrări decorative din piatră și cruci distinctive.",
+                  "category": "castle",
+                  "coords": [
+                        37.470162,
+                        12.609547
+                  ]
+            },
+            {
+                  "name": "Dawit's Hall",
+                  "text": "Sala lui Dawit cuprinde ruinele de piatră fără acoperiș ale unei impunătoare săli de muzică construite pentru împăratul Dawit al III-lea în complexul regal din Gondar.",
+                  "category": "historical",
+                  "coords": [
+                        37.470063,
+                        12.608641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fasilidas' Palace",
+                  "text": "Fasilidas' Palace is a striking two-story stone castle constructed with Indian and Arab architectural influences within the Fasil Ghebbi complex.",
+                  "category": "castle",
+                  "coords": [
+                        37.470016,
+                        12.607382
+                  ]
+            },
+            {
+                  "name": "Emperor Tewodros Square አጼ ቴዎድሮስ አደባባይ",
+                  "text": "Emperor Tewodros Square is a prominent public attraction in Gondar featuring a central monument dedicated to the renowned 19th-century Ethiopian ruler.",
+                  "category": "landmark",
+                  "coords": [
+                        37.469842,
+                        12.611982
+                  ]
+            },
+            {
+                  "name": "Mentewab's Castle",
+                  "text": "Mentewab's Castle is an elegant royal residence within Fasil Ghebbi adorned with distinctive decorative stonework and crosses.",
+                  "category": "castle",
+                  "coords": [
+                        37.470162,
+                        12.609547
+                  ]
+            },
+            {
+                  "name": "Dawit's Hall",
+                  "text": "Dawit's Hall comprises the roofless stone ruins of an imposing singing hall built for Emperor Dawit III within the Gondar royal compound.",
+                  "category": "historical",
+                  "coords": [
+                        37.470063,
+                        12.608641
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-AM",
     coords: [37.4697, 12.608],
@@ -53,7 +206,124 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
      image: "/poi-images/fasil-ghebbi-history-v2.webp"},
   {
-    id: "lalibela-churches-history-v2",
+    id: "lalibela-churches-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lalibela cultural Center",
+                  "text": "Diese kulturelle Einrichtung in Lalibela stellt Artefakte und die Geschichte rund um die berühmten Felsenkirchen aus.",
+                  "category": "museum",
+                  "coords": [
+                        39.039789,
+                        12.027558
+                  ]
+            },
+            {
+                  "name": "Southwestern Group",
+                  "text": "Dieser Komplex aus monolithischen Felsenkirchen ist Teil des weltberühmten äthiopisch-orthodoxen Weltkulturerbes in Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.041185,
+                        12.031987
+                  ]
+            },
+            {
+                  "name": "Northwestern Group",
+                  "text": "Diese markante Gruppe historischer Felsenkirchen in Lalibela wurde direkt aus dem Grundgestein gehauen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04296,
+                        12.033498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lalibela cultural Center",
+                  "text": "Ez a lalibelai kulturális intézmény a híres sziklába vájt templomokhoz kapcsolódó műtárgyakat és történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.039789,
+                        12.027558
+                  ]
+            },
+            {
+                  "name": "Southwestern Group",
+                  "text": "Ez a monolitikus, sziklába vájt templomokból álló csoport a világhírű lalibelai etióp ortodox világörökségi helyszín része.",
+                  "category": "landmark",
+                  "coords": [
+                        39.041185,
+                        12.031987
+                  ]
+            },
+            {
+                  "name": "Northwestern Group",
+                  "text": "A közvetlenül az alapkőzetből kifaragott történelmi sziklatemplomoknak ez a különleges csoportja Lalibelában található.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04296,
+                        12.033498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lalibela cultural Center",
+                  "text": "Această instituție culturală din Lalibela expune artefacte și istoria din jurul faimoaselor biserici săpate în stâncă.",
+                  "category": "museum",
+                  "coords": [
+                        39.039789,
+                        12.027558
+                  ]
+            },
+            {
+                  "name": "Southwestern Group",
+                  "text": "Acest grup de biserici monolitice săpate în stâncă face parte din situl de patrimoniu ortodox etiopian de renume mondial din Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.041185,
+                        12.031987
+                  ]
+            },
+            {
+                  "name": "Northwestern Group",
+                  "text": "Săpat direct din stâncă, acest grup distinct de biserici istorice din stâncă este situat în Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04296,
+                        12.033498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lalibela cultural Center",
+                  "text": "This cultural institution in Lalibela exhibits artifacts and history surrounding the famous rock-hewn churches.",
+                  "category": "museum",
+                  "coords": [
+                        39.039789,
+                        12.027558
+                  ]
+            },
+            {
+                  "name": "Southwestern Group",
+                  "text": "This cluster of monolithic, rock-hewn churches forms part of the world-renowned Ethiopian Orthodox heritage site in Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.041185,
+                        12.031987
+                  ]
+            },
+            {
+                  "name": "Northwestern Group",
+                  "text": "Carved directly out of the bedrock, this distinct grouping of historic rock churches is located in Lalibela.",
+                  "category": "landmark",
+                  "coords": [
+                        39.04296,
+                        12.033498
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-AM",
     coords: [39.0411, 12.0318],
@@ -103,7 +373,160 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
      image: "/poi-images/lalibela-churches-history-v2.webp"},
   {
-    id: "axum-obelisks-history-v2",
+    id: "axum-obelisks-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Northern Stelae Field",
+                  "text": "Ein UNESCO-Weltkulturerbe in Axum, bekannt für seine hoch aufragenden, kunstvoll geschnitzten antiken Steinobelisken, die königliche Gräber markieren.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719297,
+                        14.132007
+                  ]
+            },
+            {
+                  "name": "Stele 7",
+                  "text": "Eine teilweise verzierte monolithische Steinsäule, die eine alte Grabstätte im Stelenfeld von Axum markiert.",
+                  "category": "historical",
+                  "coords": [
+                        38.720337,
+                        14.133695
+                  ]
+            },
+            {
+                  "name": "Baths of Queen Sheba",
+                  "text": "Ein monumentales antikes Steinreservoir in Axum, das lokal nach der legendären Königin von Saba benannt ist und noch heute Wasser fasst.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721506,
+                        14.134205
+                  ]
+            },
+            {
+                  "name": "New Spritual Museum, Church of Our Lady Mary of Zion",
+                  "text": "Das Neue Spirituelle Museum in der Kirche der Heiligen Maria von Zion stellt eine reiche Sammlung äthiopisch-orthodoxer Kronen, Kreuze und alter Manuskripte aus.",
+                  "category": "museum",
+                  "coords": [
+                        38.720185,
+                        14.129834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Northern Stelae Field",
+                  "text": "Egy UNESCO Világörökség részét képező helyszín Axumban, amely a királyi sírokat jelölő, magasba törő, bonyolult faragású ősi kőobeliszkjeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719297,
+                        14.132007
+                  ]
+            },
+            {
+                  "name": "Stele 7",
+                  "text": "Részben díszített monolitikus kőoszlop, amely egy ősi sírhelyet jelöl az axumi sztélémezőn.",
+                  "category": "historical",
+                  "coords": [
+                        38.720337,
+                        14.133695
+                  ]
+            },
+            {
+                  "name": "Baths of Queen Sheba",
+                  "text": "Monumentális ókori kő víztározó Axumban, amelyet a helyiek a legendás Sába királynőjéről neveztek el, és ma is vizet tárol.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721506,
+                        14.134205
+                  ]
+            },
+            {
+                  "name": "New Spritual Museum, Church of Our Lady Mary of Zion",
+                  "text": "A Sioni Szűz Mária-templom Új Spirituális Múzeuma az etióp ortodox koronák, keresztek és ősi kéziratok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        38.720185,
+                        14.129834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Northern Stelae Field",
+                  "text": "Un sit al Patrimoniului Mondial UNESCO din Axum, renumit pentru obeliscurile sale de piatră antice, sculptate complicat, care marchează mormintele regale.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719297,
+                        14.132007
+                  ]
+            },
+            {
+                  "name": "Stele 7",
+                  "text": "Un stâlp monolitic de piatră parțial decorat care marchează un loc de mormânt antic în câmpul de stele din Axum.",
+                  "category": "historical",
+                  "coords": [
+                        38.720337,
+                        14.133695
+                  ]
+            },
+            {
+                  "name": "Baths of Queen Sheba",
+                  "text": "Un rezervor monumental antic de piatră în Axum, denumit local după legendara Regină din Saba, care încă mai reține apă și astăzi.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721506,
+                        14.134205
+                  ]
+            },
+            {
+                  "name": "New Spritual Museum, Church of Our Lady Mary of Zion",
+                  "text": "Noul Muzeu Spiritual de la Biserica Sfânta Maria din Sion expune o colecție bogată de coroane, cruci și manuscrise antice ortodoxe etiopiene.",
+                  "category": "museum",
+                  "coords": [
+                        38.720185,
+                        14.129834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Northern Stelae Field",
+                  "text": "A UNESCO World Heritage site in Axum renowned for its towering, intricately carved ancient stone obelisks marking royal tombs.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719297,
+                        14.132007
+                  ]
+            },
+            {
+                  "name": "Stele 7",
+                  "text": "A partially decorated monolithic stone pillar marking an ancient grave site in the stelae field of Axum.",
+                  "category": "historical",
+                  "coords": [
+                        38.720337,
+                        14.133695
+                  ]
+            },
+            {
+                  "name": "Baths of Queen Sheba",
+                  "text": "A monumental ancient stone reservoir in Axum, locally named after the legendary Queen of Sheba and still holding water today.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721506,
+                        14.134205
+                  ]
+            },
+            {
+                  "name": "New Spritual Museum, Church of Our Lady Mary of Zion",
+                  "text": "The New Spiritual Museum at the Church of Our Lady Mary of Zion exhibits a rich collection of Ethiopian Orthodox crowns, crosses, and ancient manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        38.720185,
+                        14.129834
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-TI",
     coords: [38.7189, 14.131],
@@ -487,7 +910,268 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "menelik-palace-history-v2",
+    id: "menelik-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Andenet Park Megbiya",
+                  "text": "Das Eingangstor führt Besucher in die weitläufigen historischen Gärten und Palastanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        38.76329,
+                        9.022564
+                  ]
+            },
+            {
+                  "name": "Ethiopia Museum of Art and Science",
+                  "text": "Das im Oktober 2022 eröffnete Museum besticht durch seine moderne, kuppelförmige Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        38.762143,
+                        9.021453
+                  ]
+            },
+            {
+                  "name": "Emperor Menelik II's Quarter",
+                  "text": "Diese historischen Burgmauern umschlossen einst die privaten Gemächer des Kaisers Menelik II.",
+                  "category": "castle",
+                  "coords": [
+                        38.763809,
+                        9.025095
+                  ]
+            },
+            {
+                  "name": "Black Mane Lions’ Zoo",
+                  "text": "Das Gehege auf dem Palastgelände ist Heimat der charakteristischen äthiopischen Löwen mit dunkler Mähne.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764787,
+                        9.023234
+                  ]
+            },
+            {
+                  "name": "Banquet Hall",
+                  "text": "In diesem prächtigen Schlosssaal wurden einst große königliche Festmähler abgehalten.",
+                  "category": "castle",
+                  "coords": [
+                        38.763057,
+                        9.024188
+                  ]
+            },
+            {
+                  "name": "አዲስ አበባ ፓርክ",
+                  "text": "Ein öffentlicher Park in der Nähe des historischen Gebiets des Menelik-Palastes.",
+                  "category": "park",
+                  "coords": [
+                        38.763765,
+                        9.020838
+                  ]
+            },
+            {
+                  "name": "Unity Zoo",
+                  "text": "Ein Zoo-Attraktion auf dem Gelände des historischen Menelik-Palastes.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762059,
+                        9.024934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Andenet Park Megbiya",
+                  "text": "A bejárati kapu a kiterjedt történelmi kertekbe és palotakomplexumokba vezeti a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        38.76329,
+                        9.022564
+                  ]
+            },
+            {
+                  "name": "Ethiopia Museum of Art and Science",
+                  "text": "A 2022 októberében megnyílt múzeum modern, kupola alakú építészetével nyűgöz le.",
+                  "category": "museum",
+                  "coords": [
+                        38.762143,
+                        9.021453
+                  ]
+            },
+            {
+                  "name": "Emperor Menelik II's Quarter",
+                  "text": "Ezek a történelmi várfalak egykor II. Menelik császár magánlakosztályait zárták körül.",
+                  "category": "castle",
+                  "coords": [
+                        38.763809,
+                        9.025095
+                  ]
+            },
+            {
+                  "name": "Black Mane Lions’ Zoo",
+                  "text": "A palota területén található kifutó a jellegzetes sötét sörényű etióp oroszlánok otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764787,
+                        9.023234
+                  ]
+            },
+            {
+                  "name": "Banquet Hall",
+                  "text": "Ebben a csodálatos kastélyteremben egykor nagyszabású királyi lakomákat tartottak.",
+                  "category": "castle",
+                  "coords": [
+                        38.763057,
+                        9.024188
+                  ]
+            },
+            {
+                  "name": "አዲስ አበባ ፓርክ",
+                  "text": "Egy nyilvános park, amely a történelmi Menelik-palota területének közelében található.",
+                  "category": "park",
+                  "coords": [
+                        38.763765,
+                        9.020838
+                  ]
+            },
+            {
+                  "name": "Unity Zoo",
+                  "text": "A Menelik-palota területén található állatkerti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762059,
+                        9.024934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Andenet Park Megbiya",
+                  "text": "Poarta de intrare îi conduce pe vizitatori către grădinile istorice și complexele palatine extinse.",
+                  "category": "landmark",
+                  "coords": [
+                        38.76329,
+                        9.022564
+                  ]
+            },
+            {
+                  "name": "Ethiopia Museum of Art and Science",
+                  "text": "Deschis în octombrie 2022, muzeul impresionează prin arhitectura sa modernă sub formă de dom.",
+                  "category": "museum",
+                  "coords": [
+                        38.762143,
+                        9.021453
+                  ]
+            },
+            {
+                  "name": "Emperor Menelik II's Quarter",
+                  "text": "Aceste ziduri istorice ale castelului înconjurau odată apartamentele private ale împăratului Menelik al II-lea.",
+                  "category": "castle",
+                  "coords": [
+                        38.763809,
+                        9.025095
+                  ]
+            },
+            {
+                  "name": "Black Mane Lions’ Zoo",
+                  "text": "Țarcul de pe domeniul palatului găzduiește leii etiopieni caracteristici, cu coamă închisă la culoare.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764787,
+                        9.023234
+                  ]
+            },
+            {
+                  "name": "Banquet Hall",
+                  "text": "În această sală de castel magnifică aveau loc odinioară mari banchete regale.",
+                  "category": "castle",
+                  "coords": [
+                        38.763057,
+                        9.024188
+                  ]
+            },
+            {
+                  "name": "አዲስ አበባ ፓርክ",
+                  "text": "Un parc public situat în apropierea zonei istorice a Palatului Menelik.",
+                  "category": "park",
+                  "coords": [
+                        38.763765,
+                        9.020838
+                  ]
+            },
+            {
+                  "name": "Unity Zoo",
+                  "text": "O atracție zoologică situată pe domeniul Palatului Menelik.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762059,
+                        9.024934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Unity Park Entrance",
+                  "text": "The entrance gate leads visitors into the expansive historical gardens and palatial complexes.",
+                  "category": "landmark",
+                  "coords": [
+                        38.76329,
+                        9.022564
+                  ]
+            },
+            {
+                  "name": "Ethiopia Museum of Art and Science",
+                  "text": "Opened in October 2022, the museum impresses with its modern, dome-shaped architecture.",
+                  "category": "museum",
+                  "coords": [
+                        38.762143,
+                        9.021453
+                  ]
+            },
+            {
+                  "name": "Emperor Menelik II's Quarter",
+                  "text": "These historic castle walls once enclosed the private chambers of Emperor Menelik II.",
+                  "category": "castle",
+                  "coords": [
+                        38.763809,
+                        9.025095
+                  ]
+            },
+            {
+                  "name": "Black Mane Lions’ Zoo",
+                  "text": "The enclosure within the palace grounds is home to the distinctive dark-maned Ethiopian lions.",
+                  "category": "landmark",
+                  "coords": [
+                        38.764787,
+                        9.023234
+                  ]
+            },
+            {
+                  "name": "Banquet Hall",
+                  "text": "This magnificent castle hall once hosted grand royal feasts.",
+                  "category": "castle",
+                  "coords": [
+                        38.763057,
+                        9.024188
+                  ]
+            },
+            {
+                  "name": "Addis Ababa Park",
+                  "text": "A public park situated near the historic Menelik Palace area.",
+                  "category": "park",
+                  "coords": [
+                        38.763765,
+                        9.020838
+                  ]
+            },
+            {
+                  "name": "Unity Zoo",
+                  "text": "An animal attraction situated on the grounds of the Menelik Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        38.762059,
+                        9.024934
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-AA",
     coords: [38.7656, 9.0253],
@@ -535,7 +1219,52 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
       {
-    id: "bete-giyorgis-history-v2",
+    id: "bete-giyorgis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lalibela Ethnographic Museum",
+                  "text": "Dieses Museum befindet sich in der Nähe der historischen Felsenkirchen und präsentiert die traditionelle Kultur und Religionsgeschichte von Lalibela.",
+                  "category": "museum",
+                  "coords": [
+                        39.043058,
+                        12.034212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lalibela Ethnographic Museum",
+                  "text": "A történelmi sziklatemplomok közelében található múzeum Lalibela hagyományos kultúráját és vallástörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.043058,
+                        12.034212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lalibela Ethnographic Museum",
+                  "text": "Situat lângă bisericile istorice din stâncă, acest muzeu prezintă cultura tradițională și istoria religioasă a orașului Lalibela.",
+                  "category": "museum",
+                  "coords": [
+                        39.043058,
+                        12.034212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lalibela Ethnographic Museum",
+                  "text": "Located near the historic rock churches, this museum showcases the traditional culture and religious history of Lalibela.",
+                  "category": "museum",
+                  "coords": [
+                        39.043058,
+                        12.034212
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-AM",
     coords: [39.0406, 12.0325],
@@ -583,7 +1312,52 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fasilides-bath-history-v2",
+    id: "fasilides-bath-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fasil bath",
+                  "text": "Dieses historische königliche Becken in Gonder wird alljährlich für die Zeremonien des Timkat-Festes mit Wasser gefüllt.",
+                  "category": "historical",
+                  "coords": [
+                        37.457514,
+                        12.617391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fasil bath",
+                  "text": "Ezt a Gondarban található történelmi királyi medencét minden évben vízzel töltik fel a Timkat fesztivál szertartásaihoz.",
+                  "category": "historical",
+                  "coords": [
+                        37.457514,
+                        12.617391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fasil bath",
+                  "text": "Acest bazin regal istoric din Gondar este umplut anual cu apă pentru ceremoniile festivalului Timkat.",
+                  "category": "historical",
+                  "coords": [
+                        37.457514,
+                        12.617391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fasil bath",
+                  "text": "This historic royal sunken pool in Gondar is traditionally filled with water for the annual Timkat festival ceremonies.",
+                  "category": "historical",
+                  "coords": [
+                        37.457514,
+                        12.617391
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-AM",
     coords: [37.4616, 12.6125],
@@ -631,7 +1405,88 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "quskuam-complex-history-v2",
+    id: "quskuam-complex-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cccccv",
+                  "text": "Cccc ist eine lokale Attraktion, die Teil des historischen Qusquam-Komplexes ist und über Steinelemente verfügt, die für das äthiopische Erbe charakteristisch sind.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428014,
+                        12.599164
+                  ]
+            },
+            {
+                  "name": "Qusquam",
+                  "text": "Qusquam ist eine befestigte königliche Anlage in Gondar, die als antiker Burgkomplex dient, der für Kaiserin Mentewab erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        37.445882,
+                        12.622606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cccccv",
+                  "text": "A Cccc egy helyi látványosság, amely a történelmi Qusquam komplexum részét képezi, az etióp örökségre jellemző kőelemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428014,
+                        12.599164
+                  ]
+            },
+            {
+                  "name": "Qusquam",
+                  "text": "Qusquam egy erődített királyi negyed Gondarban, amely Mentewab császárnő számára épített ősi kastélykomplexumként működött.",
+                  "category": "castle",
+                  "coords": [
+                        37.445882,
+                        12.622606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cccccv",
+                  "text": "Cccc este o atracție locală care face parte din complexul istoric Qusquam, cu elemente de piatră caracteristice patrimoniului etiopian.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428014,
+                        12.599164
+                  ]
+            },
+            {
+                  "name": "Qusquam",
+                  "text": "Qusquam este o incintă regală fortificată în Gondar, funcționând ca un complex de castele antice construit pentru împărăteasa Mentewab.",
+                  "category": "castle",
+                  "coords": [
+                        37.445882,
+                        12.622606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cccc",
+                  "text": "Cccc is a local attraction forming part of the historical Qusquam Complex with stone elements characteristic of Ethiopian heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        37.428014,
+                        12.599164
+                  ]
+            },
+            {
+                  "name": "Qusquam",
+                  "text": "Qusquam is a fortified royal enclosure in Gondar, functioning as an ancient castle complex built for Empress Mentewab.",
+                  "category": "castle",
+                  "coords": [
+                        37.445882,
+                        12.622606
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-AM",
     coords: [37.4475, 12.62],
@@ -679,7 +1534,88 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tomb-of-kaleb-history-v2",
+    id: "tomb-of-kaleb-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "Die Ezana-Inschrift ist eine markante antike Steintafel, die die militärischen Siege des aksumitischen Königs Ezana detailliert beschreibt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.722876,
+                        14.137847
+                  ]
+            },
+            {
+                  "name": "Tombs of Kings Kaleb and Gebremeskel",
+                  "text": "Die Gräber der Könige Kaleb und Gebremeskel sind bemerkenswerte unterirdische Krypten, die aus massiven, fein zusammengefügten Granitblöcken erbaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        38.729249,
+                        14.142291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "Az Ezana-felirat egy kiemelkedő ókori kőtábla, amely Ezana akszúmi király katonai győzelmeit részletezi.",
+                  "category": "landmark",
+                  "coords": [
+                        38.722876,
+                        14.137847
+                  ]
+            },
+            {
+                  "name": "Tombs of Kings Kaleb and Gebremeskel",
+                  "text": "Kaleb és Gebremeskel királyok sírjai figyelemre méltó föld alatti kripták, amelyeket hatalmas, finoman illesztett gránittömbökből építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        38.729249,
+                        14.142291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "Inscripția Ezana este o tabletă antică de piatră proeminentă care detaliază victoriile militare ale regelui axumit Ezana.",
+                  "category": "landmark",
+                  "coords": [
+                        38.722876,
+                        14.137847
+                  ]
+            },
+            {
+                  "name": "Tombs of Kings Kaleb and Gebremeskel",
+                  "text": "Mormintele regilor Kaleb și Gebremeskel sunt cripte subterane remarcabile, construite din blocuri masive de granit fin îmbinate.",
+                  "category": "landmark",
+                  "coords": [
+                        38.729249,
+                        14.142291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ezana Inscription",
+                  "text": "The Ezana Inscription is a prominent ancient stone tablet detailing the military victories of the Aksumite King Ezana.",
+                  "category": "landmark",
+                  "coords": [
+                        38.722876,
+                        14.137847
+                  ]
+            },
+            {
+                  "name": "Tombs of Kings Kaleb and Gebremeskel",
+                  "text": "The Tombs of Kings Kaleb and Gebremeskel are remarkable underground crypts constructed with massive, finely fitted granite blocks.",
+                  "category": "landmark",
+                  "coords": [
+                        38.729249,
+                        14.142291
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-TI",
     coords: [38.7297, 14.1417],
@@ -727,7 +1663,160 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "dungur-palace-history-v2",
+    id: "dungur-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gudit Stelae Field",
+                  "text": "Ein weitläufiges archäologisches Feld in der Nähe von Axum, das Hunderte von unbearbeiteten Steinstelen enthält, die alte Gräber markieren.",
+                  "category": "landmark",
+                  "coords": [
+                        38.70649,
+                        14.125724
+                  ]
+            },
+            {
+                  "name": "Dungur / Palace of Queen of Sheba",
+                  "text": "Die weitläufigen Ruinenfundamente eines massiven aksumitischen Herrenhauses, das lokal als Palast der Königin von Saba gefeiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706498,
+                        14.126831
+                  ]
+            },
+            {
+                  "name": "Lion of Gobedra (relief)",
+                  "text": "Ein antikes Felsrelief, das einen Löwen darstellt, der in einen großen Granitblock bei Gobedra in der Nähe von Axum gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        38.681707,
+                        14.117078
+                  ]
+            },
+            {
+                  "name": "Unfinished Stela",
+                  "text": "Ein massiver antiker Obelisk, der beim Schnitzen zerbrach und in seinem Granitsteinbruch bei Axum verlassen blieb.",
+                  "category": "historical",
+                  "coords": [
+                        38.680462,
+                        14.114113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gudit Stelae Field",
+                  "text": "Kiterjedt régészeti terület Axum közelében, amely több száz faragatlan kősztélét tartalmaz, melyek ősi sírokat jelölnek.",
+                  "category": "landmark",
+                  "coords": [
+                        38.70649,
+                        14.125724
+                  ]
+            },
+            {
+                  "name": "Dungur / Palace of Queen of Sheba",
+                  "text": "Egy hatalmas akszúmi udvarház kiterjedt romos alapjai, amelyet helyben Sába királynőjének palotájaként ünnepelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706498,
+                        14.126831
+                  ]
+            },
+            {
+                  "name": "Lion of Gobedra (relief)",
+                  "text": "Ősi sziklába vájt dombormű, amely egy oroszlánt ábrázol egy nagy gránittömbbe faragva a Gobedra hegyen, Axum közelében.",
+                  "category": "historical",
+                  "coords": [
+                        38.681707,
+                        14.117078
+                  ]
+            },
+            {
+                  "name": "Unfinished Stela",
+                  "text": "Hatalmas ókori obeliszk, amely faragás közben megrepedt, és az axumi gránitbányában maradt elhagyatottan.",
+                  "category": "historical",
+                  "coords": [
+                        38.680462,
+                        14.114113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gudit Stelae Field",
+                  "text": "Un câmp arheologic extins lângă Axum care conține sute de stele de piatră nesculptate ce marchează morminte antice.",
+                  "category": "landmark",
+                  "coords": [
+                        38.70649,
+                        14.125724
+                  ]
+            },
+            {
+                  "name": "Dungur / Palace of Queen of Sheba",
+                  "text": "Fundațiile extinse în ruină ale unui conac masiv din Aksum, celebrat pe plan local drept Palatul Reginei din Saba.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706498,
+                        14.126831
+                  ]
+            },
+            {
+                  "name": "Lion of Gobedra (relief)",
+                  "text": "Un basorelief antic tăiat în stâncă înfățișând un leu sculptat într-un bloc mare de granit la Gobedra, lângă Axum.",
+                  "category": "historical",
+                  "coords": [
+                        38.681707,
+                        14.117078
+                  ]
+            },
+            {
+                  "name": "Unfinished Stela",
+                  "text": "Un obelisc antic masiv care s-a crăpat în timpul sculptării și a rămas abandonat în cariera sa de granit de lângă Axum.",
+                  "category": "historical",
+                  "coords": [
+                        38.680462,
+                        14.114113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gudit Stelae Field",
+                  "text": "An extensive archaeological field near Axum containing hundreds of uncarved stone stelae marking ancient graves.",
+                  "category": "landmark",
+                  "coords": [
+                        38.70649,
+                        14.125724
+                  ]
+            },
+            {
+                  "name": "Dungur / Palace of Queen of Sheba",
+                  "text": "The expansive ruined foundations of a massive Aksumite mansion, locally celebrated as the Palace of the Queen of Sheba.",
+                  "category": "landmark",
+                  "coords": [
+                        38.706498,
+                        14.126831
+                  ]
+            },
+            {
+                  "name": "Lion of Gobedra (relief)",
+                  "text": "An ancient rock-cut relief depicting a lion carved into a large granite boulder at Gobedra near Axum.",
+                  "category": "historical",
+                  "coords": [
+                        38.681707,
+                        14.117078
+                  ]
+            },
+            {
+                  "name": "Unfinished Stela",
+                  "text": "A massive ancient obelisk that cracked during carving and remains abandoned in its granite quarry near Axum.",
+                  "category": "historical",
+                  "coords": [
+                        38.680462,
+                        14.114113
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-TI",
     coords: [38.7061, 14.1264],
@@ -775,7 +1864,88 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "st-georges-cathedral-history-v2",
+    id: "st-georges-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abune Petros",
+                  "text": "Das Denkmal ehrt den äthiopischen Bischof, der von den italienischen Besatzern hingerichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        38.749624,
+                        9.035429
+                  ]
+            },
+            {
+                  "name": "የዓድዋ ድል መታሰብያ ሙዝየም",
+                  "text": "Das Museumskomplex feiert den historischen äthiopischen Sieg über die italienische Armee im Jahr 1896.",
+                  "category": "museum",
+                  "coords": [
+                        38.752457,
+                        9.034503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abune Petros",
+                  "text": "Az emlékmű az olasz megszállók által kivégzett etióp püspöknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        38.749624,
+                        9.035429
+                  ]
+            },
+            {
+                  "name": "የዓድዋ ድል መታሰብያ ሙዝየም",
+                  "text": "A múzeumkomplexum az olasz hadsereg felett 1896-ban aratott történelmi etióp győzelmet ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        38.752457,
+                        9.034503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abune Petros",
+                  "text": "Monumentul îl onorează pe episcopul etiopian care a fost executat de ocupanții italieni.",
+                  "category": "historical",
+                  "coords": [
+                        38.749624,
+                        9.035429
+                  ]
+            },
+            {
+                  "name": "የዓድዋ ድል መታሰብያ ሙዝየም",
+                  "text": "Complexul muzeal celebrează victoria istorică a etiopienilor asupra armatei italiene în 1896.",
+                  "category": "museum",
+                  "coords": [
+                        38.752457,
+                        9.034503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abune Petros አቡነ ጴጥሮስ",
+                  "text": "The monument honors the Ethiopian bishop who was executed by the Italian occupiers.",
+                  "category": "historical",
+                  "coords": [
+                        38.749624,
+                        9.035429
+                  ]
+            },
+            {
+                  "name": "Adwa Victory Memorial",
+                  "text": "The museum complex celebrates the historic Ethiopian victory over the Italian army in 1896.",
+                  "category": "museum",
+                  "coords": [
+                        38.752457,
+                        9.034503
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-AA",
     coords: [38.7511, 9.0353],
@@ -823,7 +1993,160 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "melka-kunture-history-v2",
+    id: "melka-kunture-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Awash troglodyte rock-cut houses",
+                  "text": "Eine archäologische Stätte mit antiken, direkt in den Fels gehauenen Behausungen in der Nähe von Melka Kunture.",
+                  "category": "historical",
+                  "coords": [
+                        38.623112,
+                        8.697113
+                  ]
+            },
+            {
+                  "name": "Excavation Melka Kunture Archaeological Site",
+                  "text": "Ein aktives Ausgrabungsgebiet, in dem prähistorische Artefakte in der archäologischen Stätte Melka Kunture freigelegt werden.",
+                  "category": "historical",
+                  "coords": [
+                        38.601633,
+                        8.704752
+                  ]
+            },
+            {
+                  "name": "Melka Kunture",
+                  "text": "Eine bedeutende paläolithische archäologische Attraktion im oberen Awash-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        38.599649,
+                        8.705032
+                  ]
+            },
+            {
+                  "name": "Osole anthropomorphic stele",
+                  "text": "Eine archäologische Stätte mit einem antiken, menschenförmig geschnitzten stehenden Stein in der Nähe von Melka Kunture.",
+                  "category": "historical",
+                  "coords": [
+                        38.620267,
+                        8.662396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Awash troglodyte rock-cut houses",
+                  "text": "Egy régészeti lelőhely Melka Kunture közelében, amely közvetlenül a sziklába vájt ősi lakóhelyeket mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        38.623112,
+                        8.697113
+                  ]
+            },
+            {
+                  "name": "Excavation Melka Kunture Archaeological Site",
+                  "text": "A Melka Kunture régészeti lelőhelyen található aktív ásatási terület, ahol történelem előtti leleteket tárnak fel.",
+                  "category": "historical",
+                  "coords": [
+                        38.601633,
+                        8.704752
+                  ]
+            },
+            {
+                  "name": "Melka Kunture",
+                  "text": "Egy jelentős paleolitikus régészeti látványosság a felső Awash-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.599649,
+                        8.705032
+                  ]
+            },
+            {
+                  "name": "Osole anthropomorphic stele",
+                  "text": "Egy régészeti lelőhely Melka Kunture közelében, ahol egy ősi, ember alakú faragott állókő található.",
+                  "category": "historical",
+                  "coords": [
+                        38.620267,
+                        8.662396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Awash troglodyte rock-cut houses",
+                  "text": "Un sit arheologic cu locuințe antice sculptate direct în stâncă, lângă Melka Kunture.",
+                  "category": "historical",
+                  "coords": [
+                        38.623112,
+                        8.697113
+                  ]
+            },
+            {
+                  "name": "Excavation Melka Kunture Archaeological Site",
+                  "text": "O zonă activă de excavare care descoperă artefacte preistorice la situl arheologic Melka Kunture.",
+                  "category": "historical",
+                  "coords": [
+                        38.601633,
+                        8.704752
+                  ]
+            },
+            {
+                  "name": "Melka Kunture",
+                  "text": "O atracție arheologică paleolitică majoră situată în valea superioară a râului Awash.",
+                  "category": "landmark",
+                  "coords": [
+                        38.599649,
+                        8.705032
+                  ]
+            },
+            {
+                  "name": "Osole anthropomorphic stele",
+                  "text": "Un sit arheologic cu o piatră sculptată antică în formă umană, lângă Melka Kunture.",
+                  "category": "historical",
+                  "coords": [
+                        38.620267,
+                        8.662396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Awash troglodyte rock-cut houses",
+                  "text": "An archaeological site featuring ancient dwellings carved directly into the rock near Melka Kunture.",
+                  "category": "historical",
+                  "coords": [
+                        38.623112,
+                        8.697113
+                  ]
+            },
+            {
+                  "name": "Excavation Melka Kunture Archaeological Site",
+                  "text": "An active excavation area uncovering prehistoric artifacts at the Melka Kunture archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        38.601633,
+                        8.704752
+                  ]
+            },
+            {
+                  "name": "Melka Kunture",
+                  "text": "A major paleolithic archaeological attraction located in the upper Awash Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        38.599649,
+                        8.705032
+                  ]
+            },
+            {
+                  "name": "Osole anthropomorphic stele",
+                  "text": "An archaeological site featuring an ancient, human-shaped carved standing stone near Melka Kunture.",
+                  "category": "historical",
+                  "coords": [
+                        38.620267,
+                        8.662396
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-OR",
     coords: [38.5961, 8.7094],
@@ -919,7 +2242,268 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "debre-libanos-history-v2",
+    id: "debre-libanos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Debre Libanos Cave",
+                  "text": "Eine historische Höhlenattraktion, die mit dem berühmten Klosterkomplex von Debre Libanos verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.84772,
+                        9.70906
+                  ]
+            },
+            {
+                  "name": "Ethio-Japan commemoration viewpoint",
+                  "text": "Ein Aussichtspunkt in der Nähe von Debre Libanos, der an die äthiopisch-japanischen Beziehungen erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        38.822705,
+                        9.72154
+                  ]
+            },
+            {
+                  "name": "Debre Libanos 2 Port. Bridge",
+                  "text": "Ein historisches Brückenbauwerk mit portugiesischem Architektureinfluss in der Nähe des Klosters Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.85201,
+                        9.71219
+                  ]
+            },
+            {
+                  "name": "Holy Rock",
+                  "text": "Eine als heilig geltende Steinattraktion im spirituell bedeutsamen Gebiet von Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.838793,
+                        9.719889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ein malerischer Aussichtspunkt mit weitem Blick auf die dramatische Landschaft rund um Debre Libanos.",
+                  "category": "natural",
+                  "coords": [
+                        38.819996,
+                        9.730195
+                  ]
+            },
+            {
+                  "name": "Portuguese Bridge",
+                  "text": "Eine alte Steinbrücke im portugiesischen Baustil in der Nähe von Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.813845,
+                        9.733696
+                  ]
+            },
+            {
+                  "name": "Debre Libanos museum",
+                  "text": "Ein Museum, das religiöse Artefakte und die Geschichte des nahe gelegenen äthiopisch-orthodoxen Klosters zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        38.846997,
+                        9.71245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Debre Libanos Cave",
+                  "text": "A híres Debre Libanos kolostoregyütteshez kapcsolódó történelmi barlangi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        38.84772,
+                        9.70906
+                  ]
+            },
+            {
+                  "name": "Ethio-Japan commemoration viewpoint",
+                  "text": "Egy etióp-japán kapcsolatoknak emléket állító kilátópont Debre Libanos közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.822705,
+                        9.72154
+                  ]
+            },
+            {
+                  "name": "Debre Libanos 2 Port. Bridge",
+                  "text": "Egy portugál építészeti hatásokat mutató történelmi híd a Debre Libanos kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.85201,
+                        9.71219
+                  ]
+            },
+            {
+                  "name": "Holy Rock",
+                  "text": "Egy szent kőből álló látványosság Debre Libanos spirituálisan jelentős területén.",
+                  "category": "landmark",
+                  "coords": [
+                        38.838793,
+                        9.719889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Egy festői kilátó, amely tágas kilátást nyújt a Debre Libanos körüli drámai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        38.819996,
+                        9.730195
+                  ]
+            },
+            {
+                  "name": "Portuguese Bridge",
+                  "text": "Egy történelmileg a portugáloknak tulajdonított stílusban épült régi kőhíd Debre Libanos közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.813845,
+                        9.733696
+                  ]
+            },
+            {
+                  "name": "Debre Libanos museum",
+                  "text": "A közeli etióp ortodox kolostor vallási tárgyait és történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        38.846997,
+                        9.71245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Debre Libanos Cave",
+                  "text": "O atracție istorică rupestră asociată cu renumitul complex monahal Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.84772,
+                        9.70906
+                  ]
+            },
+            {
+                  "name": "Ethio-Japan commemoration viewpoint",
+                  "text": "Un punct de observație stabilit pentru a comemora relațiile etiopiano-japoneze lângă Debre Libanos.",
+                  "category": "natural",
+                  "coords": [
+                        38.822705,
+                        9.72154
+                  ]
+            },
+            {
+                  "name": "Debre Libanos 2 Port. Bridge",
+                  "text": "O structură istorică a unui pod ce prezintă influență arhitecturală portugheză lângă mănăstirea Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.85201,
+                        9.71219
+                  ]
+            },
+            {
+                  "name": "Holy Rock",
+                  "text": "O piatră sacră situată în zona cu semnificație spirituală din Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.838793,
+                        9.719889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști vaste asupra peisajului dramatic ce înconjoară Debre Libanos.",
+                  "category": "natural",
+                  "coords": [
+                        38.819996,
+                        9.730195
+                  ]
+            },
+            {
+                  "name": "Portuguese Bridge",
+                  "text": "Un pod vechi din piatră construit într-un stil atribuit istoric portughezilor, lângă Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.813845,
+                        9.733696
+                  ]
+            },
+            {
+                  "name": "Debre Libanos museum",
+                  "text": "Un muzeu care expune artefacte religioase și istoria mănăstirii ortodoxe etiopiene din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        38.846997,
+                        9.71245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Debre Libanos Cave",
+                  "text": "A historic cave attraction associated with the renowned Debre Libanos monastery complex.",
+                  "category": "landmark",
+                  "coords": [
+                        38.84772,
+                        9.70906
+                  ]
+            },
+            {
+                  "name": "Ethio-Japan commemoration viewpoint",
+                  "text": "An observation point established to commemorate Ethiopian-Japanese relations near Debre Libanos.",
+                  "category": "natural",
+                  "coords": [
+                        38.822705,
+                        9.72154
+                  ]
+            },
+            {
+                  "name": "Debre Libanos 2 Port. Bridge",
+                  "text": "A historic bridge structure showing Portuguese architectural influence near the Debre Libanos monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        38.85201,
+                        9.71219
+                  ]
+            },
+            {
+                  "name": "Holy Rock",
+                  "text": "A sacred stone attraction located in the spiritually significant area of Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.838793,
+                        9.719889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "A scenic overlook providing expansive views of the dramatic landscape surrounding Debre Libanos.",
+                  "category": "natural",
+                  "coords": [
+                        38.819996,
+                        9.730195
+                  ]
+            },
+            {
+                  "name": "Portuguese Bridge",
+                  "text": "An old stone bridge built in a style historically attributed to the Portuguese, near Debre Libanos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.813845,
+                        9.733696
+                  ]
+            },
+            {
+                  "name": "Debre Libanos museum",
+                  "text": "A museum showcasing religious artifacts and the history of the nearby Ethiopian Orthodox monastery.",
+                  "category": "museum",
+                  "coords": [
+                        38.846997,
+                        9.71245
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-OR",
     coords: [38.8475, 9.7153],
@@ -1111,7 +2695,88 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "adwa-battlefield-history-v2",
+    id: "adwa-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "saba stone",
+                  "text": "Die Saba-Steinruinen repräsentieren antike Festungsstrukturen, die mit der historischen regionalen Landschaft nahe dem Schlachtfeld von Adwa verbunden sind.",
+                  "category": "castle",
+                  "coords": [
+                        38.85348,
+                        14.15515
+                  ]
+            },
+            {
+                  "name": "እንዳ አባ ገሪማ",
+                  "text": "Das Kloster Abba Garima ist eine äthiopisch-orthodoxe Einrichtung, die dafür bekannt ist, die Garima-Evangelien zu beherbergen, die zu den ältesten illuminierten christlichen Manuskripten der Welt zählen.",
+                  "category": "religious",
+                  "coords": [
+                        38.952636,
+                        14.16052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "saba stone",
+                  "text": "A saba kőromok a történelmi Adwa csatatér közelében található ősi erődített struktúrákat képviselik.",
+                  "category": "castle",
+                  "coords": [
+                        38.85348,
+                        14.15515
+                  ]
+            },
+            {
+                  "name": "እንዳ አባ ገሪማ",
+                  "text": "Az Abba Garima kolostor egy etióp ortodox intézmény, amely arról híres, hogy a világ legrégebbi illusztrált keresztény kéziratai közé tartozó Garima-evangéliumokat őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        38.952636,
+                        14.16052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "saba stone",
+                  "text": "Ruinele din piatră de la Saba reprezintă structuri fortificate antice legate de peisajul istoric regional de lângă câmpul de luptă de la Adwa.",
+                  "category": "castle",
+                  "coords": [
+                        38.85348,
+                        14.15515
+                  ]
+            },
+            {
+                  "name": "እንዳ አባ ገሪማ",
+                  "text": "Mănăstirea Abba Garima este un așezământ ortodox etiopian renumit pentru găzduirea Evangheliilor Garima, considerate printre cele mai vechi manuscrise creștine iluminate din lume.",
+                  "category": "religious",
+                  "coords": [
+                        38.952636,
+                        14.16052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "saba stone",
+                  "text": "The Saba stone ruins represent ancient fortified structures tied to the historic regional landscapes near the Adwa battlefield.",
+                  "category": "castle",
+                  "coords": [
+                        38.85348,
+                        14.15515
+                  ]
+            },
+            {
+                  "name": "Abba Garima Monastery",
+                  "text": "The Abba Garima Monastery is an Ethiopian Orthodox establishment renowned for housing the Garima Gospels, believed to be among the world's oldest illuminated Christian manuscripts.",
+                  "category": "religious",
+                  "coords": [
+                        38.952636,
+                        14.16052
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-TI",
     coords: [38.9, 14.1667],
@@ -1255,7 +2920,124 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "wukro-cherkos-history-v2",
+    id: "wukro-cherkos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ሩባ ገንፈል",
+                  "text": "Ein natürlicher Aussichtspunkt mit malerischen Ausblicken auf das fließende Wasser des Flusses Genfel bei Wukro.",
+                  "category": "natural",
+                  "coords": [
+                        39.589035,
+                        13.78656
+                  ]
+            },
+            {
+                  "name": "ውቕሮ ዕዳጋ ከፍቲ",
+                  "text": "Ein lebhafter, traditioneller Freiluftmarkt in Wukro, auf dem lokale Rinder und Nutztiere gehandelt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594667,
+                        13.793447
+                  ]
+            },
+            {
+                  "name": "Adi Akaweh Archeological Site",
+                  "text": "Eine antike archäologische Stätte bei Wukro, die freigelegte Überreste früher regionaler Siedlungen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        39.567657,
+                        13.762601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ሩባ ገንፈል",
+                  "text": "Természetes kilátóhely, amely festői kilátást nyújt a Genfel-folyó áramló vizeire Wukro közelében.",
+                  "category": "natural",
+                  "coords": [
+                        39.589035,
+                        13.78656
+                  ]
+            },
+            {
+                  "name": "ውቕሮ ዕዳጋ ከፍቲ",
+                  "text": "Élénk, hagyományos szabadtéri piac Wukróban, ahol helyi szarvasmarhákkal és haszonállatokkal kereskednek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594667,
+                        13.793447
+                  ]
+            },
+            {
+                  "name": "Adi Akaweh Archeological Site",
+                  "text": "Ősi régészeti lelőhely Wukro közelében, amely a korai regionális települések feltárt maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        39.567657,
+                        13.762601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ሩባ ገንፈል",
+                  "text": "Un punct de belvedere natural oferind perspective pitorești asupra apelor curgătoare ale râului Genfel de lângă Wukro.",
+                  "category": "natural",
+                  "coords": [
+                        39.589035,
+                        13.78656
+                  ]
+            },
+            {
+                  "name": "ውቕሮ ዕዳጋ ከፍቲ",
+                  "text": "O piață tradițională în aer liber vibrantă în Wukro, unde se comercializează bovine și animale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594667,
+                        13.793447
+                  ]
+            },
+            {
+                  "name": "Adi Akaweh Archeological Site",
+                  "text": "Un sit arheologic antic lângă Wukro care dezvăluie rămășițe dezgropate ale așezărilor regionale timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        39.567657,
+                        13.762601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "River Genfel",
+                  "text": "A natural viewpoint offering scenic perspectives of the flowing waters of the River Genfel near Wukro.",
+                  "category": "natural",
+                  "coords": [
+                        39.589035,
+                        13.78656
+                  ]
+            },
+            {
+                  "name": "Wukro Cattle Market",
+                  "text": "A vibrant traditional open-air market in Wukro where local cattle and livestock are traded.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594667,
+                        13.793447
+                  ]
+            },
+            {
+                  "name": "Adi Akaweh Archeological Site",
+                  "text": "An ancient archaeological site near Wukro revealing unearthed remnants of early regional settlements.",
+                  "category": "historical",
+                  "coords": [
+                        39.567657,
+                        13.762601
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ET-TI",
     coords: [39.5892, 13.7844],

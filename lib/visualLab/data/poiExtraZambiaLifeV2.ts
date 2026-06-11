@@ -279,7 +279,52 @@ export const poiExtraZambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "chipata-maize-fields-life-v2",
+    id: "chipata-maize-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shared taxi to border",
+                  "text": "Dieser lokale Verkehrsknotenpunkt inmitten der Maisfelder von Chipata dient als wichtige Transportverbindung für Reisende auf dem Weg zur nahegelegenen internationalen Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        32.646694,
+                        -13.642512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shared taxi to border",
+                  "text": "Ez a helyi tranzitpont Chipata kukoricaföldjei között létfontosságú közlekedési kapcsolatként szolgál a közeli nemzetközi határ felé tartó utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        32.646694,
+                        -13.642512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shared taxi to border",
+                  "text": "Acest punct de tranzit local printre câmpurile de porumb din Chipata servește ca o legătură vitală de transport pentru călătorii care se îndreaptă spre granița internațională din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        32.646694,
+                        -13.642512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shared taxi to border",
+                  "text": "This local transit point amid the maize fields of Chipata serves as a vital transport link for travelers heading towards the nearby international border.",
+                  "category": "landmark",
+                  "coords": [
+                        32.646694,
+                        -13.642512
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ZM-02",
     coords: [32.6500, -13.6333],
@@ -306,7 +351,52 @@ export const poiExtraZambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "choma-livestock-hub-life-v2",
+    id: "choma-livestock-hub-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Choma Museum",
+                  "text": "Dieses Museum befindet sich im Zentrum der als Viehzuchtknotenpunkt bekannten Stadt Choma.",
+                  "category": "museum",
+                  "coords": [
+                        26.988486,
+                        -16.807736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Choma Museum",
+                  "text": "Ez a múzeum az állattenyésztési központként ismert Choma városában található.",
+                  "category": "museum",
+                  "coords": [
+                        26.988486,
+                        -16.807736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Choma Museum",
+                  "text": "Acest muzeu este situat în orașul Choma, cunoscut ca un centru de creștere a animalelor.",
+                  "category": "museum",
+                  "coords": [
+                        26.988486,
+                        -16.807736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Choma Museum",
+                  "text": "This museum is located in Choma, a town known as a livestock hub.",
+                  "category": "museum",
+                  "coords": [
+                        26.988486,
+                        -16.807736
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ZM-05",
     coords: [27.0667, -16.8167],
@@ -414,7 +504,52 @@ export const poiExtraZambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "lusaka-zoo-educational-life-v2",
+    id: "lusaka-zoo-educational-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kabwata Cultural Village",
+                  "text": "Das Kabwata Cultural Village ist ein lebendiges Kulturzentrum mit traditionellen strohgedeckten Hütten aus Sambia und Vorführungen von Holzschnitzereien durch Kunsthandwerker.",
+                  "category": "landmark",
+                  "coords": [
+                        28.304923,
+                        -15.432884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kabwata Cultural Village",
+                  "text": "A Kabwata Kulturális Falu egy élénk örökségi központ, amely hagyományos zambiai nádfedeles kunyhókat és kézműves fafaragó bemutatókat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.304923,
+                        -15.432884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kabwata Cultural Village",
+                  "text": "Satul cultural Kabwata este un centru de patrimoniu plin de viață, având colibe tradiționale zambiene cu acoperiș de stuf și demonstrații de sculptură în lemn realizate de artizani.",
+                  "category": "landmark",
+                  "coords": [
+                        28.304923,
+                        -15.432884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kabwata Cultural Village",
+                  "text": "Kabwata Cultural Village is a lively heritage center featuring traditional Zambian thatched huts and artisan woodcarving demonstrations.",
+                  "category": "landmark",
+                  "coords": [
+                        28.304923,
+                        -15.432884
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZM-01",
     coords: [28.3000, -15.4333],
@@ -441,7 +576,268 @@ export const poiExtraZambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "kasanka-wetland-life-v2",
+    id: "kasanka-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Western Hide",
+                  "text": "Diese erhöhte Aussichtsplattform bietet Vogelbeobachtern und Wildtierliebhabern weite Ausblicke über die westlichen Kasanka-Feuchtgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        30.242507,
+                        -12.585979
+                  ]
+            },
+            {
+                  "name": "Musola Hide",
+                  "text": "Dieser strategisch in den Kasanka-Feuchtgebieten gelegene Unterstand ist ein hervorragender Ort, um die schwer fassbare Sitatunga-Antilope in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        30.244622,
+                        -12.588939
+                  ]
+            },
+            {
+                  "name": "Fibwe (public viewing)",
+                  "text": "Dieser hoch in den Bäumen hängende öffentliche Aussichtsbereich ist berühmt für die Beobachtung der massiven jährlichen Fledermauswanderung über die Kasanka-Feuchtgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        30.251693,
+                        -12.592593
+                  ]
+            },
+            {
+                  "name": "BBC Hide",
+                  "text": "Benannt nach den hier gedrehten Tierdokumentationen, bietet dieser Unterstand außergewöhnliche Panoramablicke auf die wimmelnde Tierwelt in den Kasanka-Feuchtgebieten.",
+                  "category": "natural",
+                  "coords": [
+                        30.247856,
+                        -12.587436
+                  ]
+            },
+            {
+                  "name": "BBC (public viewing)",
+                  "text": "Dieser zugängliche öffentliche Aussichtspunkt ermöglicht es Besuchern, die lebendige Artenvielfalt der Kasanka-Feuchtgebiete zu erleben, die internationale Filmemacher angezogen hat.",
+                  "category": "natural",
+                  "coords": [
+                        30.2491,
+                        -12.585604
+                  ]
+            },
+            {
+                  "name": "Fibwe Hide",
+                  "text": "Dieser renommierte Unterstand im Baumkronendach ist einer der besten Orte in den Kasanka-Feuchtgebieten, um Krokodile und wandernde Flughunde zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        30.252625,
+                        -12.591602
+                  ]
+            },
+            {
+                  "name": "Kasanka National Park",
+                  "text": "Dieses 1971 gegründete, renommierte Naturschutzgebiet ist berühmt für die weltweit größte Säugetiermigration von Millionen von Palmenflughunden.",
+                  "category": "natural",
+                  "coords": [
+                        30.206278,
+                        -12.544382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Western Hide",
+                  "text": "Ez a magasított kilátó a madármegfigyelők és a vadvilág szerelmesei számára nyújt elsöprő kilátást a nyugati Kasanka vizes élőhelyekre.",
+                  "category": "natural",
+                  "coords": [
+                        30.242507,
+                        -12.585979
+                  ]
+            },
+            {
+                  "name": "Musola Hide",
+                  "text": "A Kasanka vizes élőhelyeken stratégiailag elhelyezett les kiváló hely a nehezen megfogható szitatunga antilop megfigyelésére természetes élőhelyén.",
+                  "category": "natural",
+                  "coords": [
+                        30.244622,
+                        -12.588939
+                  ]
+            },
+            {
+                  "name": "Fibwe (public viewing)",
+                  "text": "A magasan a fák között függő nyilvános kilátó híres arról, hogy innen megfigyelhető a Kasanka vizes élőhelyein keresztül vonuló hatalmas, éves denevérraj.",
+                  "category": "natural",
+                  "coords": [
+                        30.251693,
+                        -12.592593
+                  ]
+            },
+            {
+                  "name": "BBC Hide",
+                  "text": "Az itt forgatott vadvilág dokumentumfilmekről elnevezett les kivételes panorámát kínál a Kasanka vizes élőhelyeinek nyüzsgő vadvilágára.",
+                  "category": "natural",
+                  "coords": [
+                        30.247856,
+                        -12.587436
+                  ]
+            },
+            {
+                  "name": "BBC (public viewing)",
+                  "text": "Ez a hozzáférhető nyilvános kilátópont lehetővé teszi a látogatók számára, hogy megtapasztalják a Kasanka vizes élőhelyeinek élénk biológiai sokféleségét, amely nemzetközi filmeseket is vonzott.",
+                  "category": "natural",
+                  "coords": [
+                        30.2491,
+                        -12.585604
+                  ]
+            },
+            {
+                  "name": "Fibwe Hide",
+                  "text": "Ez a híres, fák lombkoronájában lévő les a Kasanka vizes élőhelyek egyik elsőszámú helyszíne a krokodilok és a vonuló repülőkutyák megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        30.252625,
+                        -12.591602
+                  ]
+            },
+            {
+                  "name": "Kasanka National Park",
+                  "text": "Az 1971-ben alapított híres természetvédelmi terület arról nevezetes, hogy itt zajlik a világ legnagyobb emlősvándorlása több millió pálmarepülőkutya részvételével.",
+                  "category": "natural",
+                  "coords": [
+                        30.206278,
+                        -12.544382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Western Hide",
+                  "text": "Această platformă de observație ridicată oferă observatorilor de păsări și pasionaților de natură o vedere amplă asupra zonelor umede Kasanka de vest.",
+                  "category": "natural",
+                  "coords": [
+                        30.242507,
+                        -12.585979
+                  ]
+            },
+            {
+                  "name": "Musola Hide",
+                  "text": "Plasat strategic în zonele umede Kasanka, acest adăpost este un loc excelent pentru a observa evaziva antilopă sitatunga în habitatul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        30.244622,
+                        -12.588939
+                  ]
+            },
+            {
+                  "name": "Fibwe (public viewing)",
+                  "text": "Suspendată sus în copaci, această zonă publică de vizionare este renumită pentru observarea migrației anuale masive a liliecilor peste zonele umede Kasanka.",
+                  "category": "natural",
+                  "coords": [
+                        30.251693,
+                        -12.592593
+                  ]
+            },
+            {
+                  "name": "BBC Hide",
+                  "text": "Numită după documentarele despre viața sălbatică filmate aici, această ascunzătoare oferă vederi panoramice excepționale asupra faunei abundente din zonele umede Kasanka.",
+                  "category": "natural",
+                  "coords": [
+                        30.247856,
+                        -12.587436
+                  ]
+            },
+            {
+                  "name": "BBC (public viewing)",
+                  "text": "Acest punct de observație public accesibil permite vizitatorilor să experimenteze biodiversitatea vibrantă a zonelor umede Kasanka care a atras cineaști internaționali.",
+                  "category": "natural",
+                  "coords": [
+                        30.2491,
+                        -12.585604
+                  ]
+            },
+            {
+                  "name": "Fibwe Hide",
+                  "text": "Această faimoasă ascunzătoare din coronamentul copacilor este una dintre cele mai bune locații din zonele umede Kasanka pentru a observa crocodili și lilieci frugivori migratori.",
+                  "category": "natural",
+                  "coords": [
+                        30.252625,
+                        -12.591602
+                  ]
+            },
+            {
+                  "name": "Kasanka National Park",
+                  "text": "Înființată în 1971, această renumită rezervație naturală este faimoasă pentru găzduirea celei mai mari migrații de mamifere din lume a milioane de lilieci de fructe.",
+                  "category": "natural",
+                  "coords": [
+                        30.206278,
+                        -12.544382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Western Hide",
+                  "text": "This elevated viewing platform provides birdwatchers and wildlife enthusiasts with sweeping views over the western Kasanka wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        30.242507,
+                        -12.585979
+                  ]
+            },
+            {
+                  "name": "Musola Hide",
+                  "text": "Strategically placed in the Kasanka wetlands, this hide is an excellent spot for observing the elusive sitatunga antelope in its natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        30.244622,
+                        -12.588939
+                  ]
+            },
+            {
+                  "name": "Fibwe (public viewing)",
+                  "text": "Suspended high in the trees, this public viewing area is famous for witnessing the massive annual bat migration across the Kasanka wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        30.251693,
+                        -12.592593
+                  ]
+            },
+            {
+                  "name": "BBC Hide",
+                  "text": "Named for the wildlife documentaries filmed here, this hide offers exceptional panoramic views of the teeming wildlife in the Kasanka wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        30.247856,
+                        -12.587436
+                  ]
+            },
+            {
+                  "name": "BBC (public viewing)",
+                  "text": "This accessible public viewing point allows visitors to experience the vibrant biodiversity of the Kasanka wetlands that has attracted international filmmakers.",
+                  "category": "natural",
+                  "coords": [
+                        30.2491,
+                        -12.585604
+                  ]
+            },
+            {
+                  "name": "Fibwe Hide",
+                  "text": "This renowned tree-canopy hide is one of the premier locations in the Kasanka wetlands for spotting crocodiles and migrating fruit bats.",
+                  "category": "natural",
+                  "coords": [
+                        30.252625,
+                        -12.591602
+                  ]
+            },
+            {
+                  "name": "Kasanka National Park",
+                  "text": "Established in 1971, this renowned nature reserve is famous for hosting the world's largest mammal migration of millions of straw-coloured fruit bats.",
+                  "category": "natural",
+                  "coords": [
+                        30.206278,
+                        -12.544382
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZM-09",
     coords: [30.2500, -12.5833],
@@ -585,7 +981,124 @@ export const poiExtraZambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "solwezi-vegetable-gardens-life-v2",
+    id: "solwezi-vegetable-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ba Muzo's place",
+                  "text": "Ein kulturell bedeutsamer lokaler Treffpunkt inmitten der lebhaften Gemüsegärten und des Alltagslebens von Solwezi.",
+                  "category": "landmark",
+                  "coords": [
+                        26.43511,
+                        -12.190733
+                  ]
+            },
+            {
+                  "name": "Cross Roads Solwezi",
+                  "text": "Ein belebter Kreuzungspunkt in Solwezi, der als lebendiges Zentrum für den lokalen Handel und die tägliche Interaktion der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        26.446069,
+                        -12.180007
+                  ]
+            },
+            {
+                  "name": "Kifubwa Rock Engravings National Heritage Site",
+                  "text": "Eine wichtige archäologische Stätte, die alte prähistorische Felsgravuren entlang der Ufer des Kifubwa-Flusses bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        26.401488,
+                        -12.224002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ba Muzo's place",
+                  "text": "Kulturálisan jelentős helyi gyülekezőhely Solwezi nyüzsgő veteményeskertjei és mindennapi élete közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        26.43511,
+                        -12.190733
+                  ]
+            },
+            {
+                  "name": "Cross Roads Solwezi",
+                  "text": "Nyüzsgő kereszteződés Solweziben, amely a helyi kereskedelem és a mindennapi közösségi interakciók élénk központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        26.446069,
+                        -12.180007
+                  ]
+            },
+            {
+                  "name": "Kifubwa Rock Engravings National Heritage Site",
+                  "text": "Fontos régészeti lelőhely, amely a Kifubwa-folyó partján őrzi az ősi történelem előtti sziklafaragványokat.",
+                  "category": "historical",
+                  "coords": [
+                        26.401488,
+                        -12.224002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ba Muzo's place",
+                  "text": "Un loc de adunare local cu importanță culturală, situat printre grădinile de legume pline de viață și viața de zi cu zi din Solwezi.",
+                  "category": "landmark",
+                  "coords": [
+                        26.43511,
+                        -12.190733
+                  ]
+            },
+            {
+                  "name": "Cross Roads Solwezi",
+                  "text": "O intersecție aglomerată din Solwezi, care servește drept centru vibrant al comerțului local și al interacțiunii comunitare zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        26.446069,
+                        -12.180007
+                  ]
+            },
+            {
+                  "name": "Kifubwa Rock Engravings National Heritage Site",
+                  "text": "Un important sit arheologic care păstrează gravuri rupestre preistorice antice de-a lungul malurilor râului Kifubwa.",
+                  "category": "historical",
+                  "coords": [
+                        26.401488,
+                        -12.224002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ba Muzo's place",
+                  "text": "A culturally significant local gathering spot situated among the lively vegetable gardens and daily life of Solwezi.",
+                  "category": "landmark",
+                  "coords": [
+                        26.43511,
+                        -12.190733
+                  ]
+            },
+            {
+                  "name": "Cross Roads Solwezi",
+                  "text": "A bustling intersection point in Solwezi that serves as a vibrant hub of local commerce and daily community interaction.",
+                  "category": "landmark",
+                  "coords": [
+                        26.446069,
+                        -12.180007
+                  ]
+            },
+            {
+                  "name": "Kifubwa Rock Engravings National Heritage Site",
+                  "text": "An important archaeological site preserving ancient prehistoric rock engravings along the banks of the Kifubwa River.",
+                  "category": "historical",
+                  "coords": [
+                        26.401488,
+                        -12.224002
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ZM-07",
     coords: [26.3833, -12.1667],
@@ -726,7 +1239,52 @@ export const poiExtraZambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "mbala-highland-gardens-life-v2",
+    id: "mbala-highland-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "Das Moto-Moto-Museum im Hochland von Mbala beherbergt umfangreiche Sammlungen zur lokalen Geschichte, Vorgeschichte und zum traditionellen Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "A mbalai fennsíkon található Moto Moto Múzeum kiterjedt gyűjteményekkel rendelkezik a helyi történelem, őstörténet és a hagyományos mesterségek terén.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "Muzeul Moto Moto din zonele înalte ale orașului Mbala găzduiește colecții extinse care acoperă istoria locală, preistoria și meșteșugurile tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "The Moto Moto Museum in the Mbala highlands houses extensive collections covering local history, prehistory, and traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ZM-08",
     coords: [31.3667, -8.8500],
@@ -831,7 +1389,88 @@ export const poiExtraZambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "luangwa-wildlife-sanctuary-life-v2",
+    id: "luangwa-wildlife-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Big Baobab",
+                  "text": "Dieser massive, alte Affenbrotbaum steht als spektakuläres Naturdenkmal innerhalb des Luangwa-Wildschutzgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        31.781295,
+                        -13.053164
+                  ]
+            },
+            {
+                  "name": "Wellness Bush-Spa",
+                  "text": "Eingebettet in das Luangwa-Wildschutzgebiet bietet dieses ruhige Spa entspannende Behandlungen umgeben von den Anblicken und Geräuschen des afrikanischen Buschs.",
+                  "category": "landmark",
+                  "coords": [
+                        31.790189,
+                        -13.078535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Big Baobab",
+                  "text": "Ez a hatalmas, ősi baobabfa látványos természeti emlékként áll a Luangwa vadvédelmi területen belül.",
+                  "category": "landmark",
+                  "coords": [
+                        31.781295,
+                        -13.053164
+                  ]
+            },
+            {
+                  "name": "Wellness Bush-Spa",
+                  "text": "A Luangwa vadvédelmi területen fészkelő csendes fürdő pihentető kezeléseket kínál az afrikai bozótos látványa és hangjai által körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        31.790189,
+                        -13.078535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Big Baobab",
+                  "text": "Acest baobab masiv și vechi stă ca un monument natural spectaculos în cadrul sanctuarului vieții sălbatice Luangwa.",
+                  "category": "landmark",
+                  "coords": [
+                        31.781295,
+                        -13.053164
+                  ]
+            },
+            {
+                  "name": "Wellness Bush-Spa",
+                  "text": "Amplasat în sanctuarul faunei sălbatice Luangwa, acest spa liniștit oferă tratamente de relaxare înconjurat de priveliștile și sunetele savanei africane.",
+                  "category": "landmark",
+                  "coords": [
+                        31.790189,
+                        -13.078535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Big Baobab",
+                  "text": "This massive, ancient baobab tree stands as a spectacular natural monument within the Luangwa wildlife sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        31.781295,
+                        -13.053164
+                  ]
+            },
+            {
+                  "name": "Wellness Bush-Spa",
+                  "text": "Nestled in the Luangwa wildlife sanctuary, this tranquil spa offers relaxing treatments surrounded by the sights and sounds of the African bush.",
+                  "category": "landmark",
+                  "coords": [
+                        31.790189,
+                        -13.078535
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZM-02",
     coords: [31.8333, -13.0000],

@@ -196,7 +196,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Louis",
-                  "text": "Kathedrale in St. Louis, bekannt für ihre umfangreichen Mosaike.",
+                  "text": "Kathedrale in Arch, entworfen von Barnett, Haynes, and Barnett Company, mit großem Mosaikinneren.",
                   "category": "religious",
                   "coords": [
                         -90.254654,
@@ -250,7 +250,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Episkopale Kathedrale in St. Louis.",
+                  "text": "Diese historische Episkopalkathedrale in St. Louis ist im National Register of Historic Places eingetragen.",
                   "category": "religious",
                   "coords": [
                         -90.198309,
@@ -331,7 +331,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Missouri Botanical Garden",
-                  "text": "Botanischer Garten in St. Louis, einer der ältesten in den USA.",
+                  "text": "Dieser botanische Garten in St. Louis ist eine nationale historische Stätte und beherbergt das ikonische geodätische Kuppelgewächshaus Climatron.",
                   "category": "landmark",
                   "coords": [
                         -90.259519,
@@ -540,7 +540,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Louis",
-                  "text": "Székesegyház St. Louisban, híres kiterjedt mozaikjairól.",
+                  "text": "Székesegyház az Archban, a Barnett, Haynes, and Barnett Company tervezte, nagy mozaik belsővel.",
                   "category": "religious",
                   "coords": [
                         -90.254654,
@@ -594,7 +594,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Episzkopális székesegyház St. Louisban.",
+                  "text": "Ez a történelmi episzkopális székesegyház St. Louisban szerepel a National Register of Historic Places listán.",
                   "category": "religious",
                   "coords": [
                         -90.198309,
@@ -675,7 +675,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Missouri Botanical Garden",
-                  "text": "Botanikus kert St. Louisban, az USA egyik legrégebbi ilyen létesítménye.",
+                  "text": "Ez a St. Louis-i botanikus kert nemzeti történelmi helyszín, és otthont ad az ikonikus Climatron geodéziai kupolájának.",
                   "category": "landmark",
                   "coords": [
                         -90.259519,
@@ -884,7 +884,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Louis",
-                  "text": "Catedrală în St. Louis, cunoscută pentru mozaicurile sale extinse.",
+                  "text": "Catedrală în Arch, proiectată de Barnett, Haynes, and Barnett Company, cu un interior mare de mozaic.",
                   "category": "religious",
                   "coords": [
                         -90.254654,
@@ -938,7 +938,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Catedrală episcopală din St. Louis.",
+                  "text": "Această catedrală episcopală istorică din St. Louis este înscrisă în Registrul Național al Locurilor Istorice.",
                   "category": "religious",
                   "coords": [
                         -90.198309,
@@ -1019,7 +1019,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Missouri Botanical Garden",
-                  "text": "Grădină botanică în St. Louis, una dintre cele mai vechi din SUA.",
+                  "text": "Această grădină botanică din St. Louis este un sit istoric național și găzduiește emblematica cupolă geodezică Climatron.",
                   "category": "landmark",
                   "coords": [
                         -90.259519,
@@ -1228,7 +1228,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Louis",
-                  "text": "Cathedral in St. Louis known for its extensive mosaics.",
+                  "text": "Cathedral in Arch designed by Barnett, Haynes, and Barnett Company with a large mosaic interior.",
                   "category": "religious",
                   "coords": [
                         -90.254654,
@@ -1282,7 +1282,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Episcopal cathedral in St. Louis.",
+                  "text": "This historic Episcopal cathedral in St. Louis is listed on the National Register of Historic Places.",
                   "category": "religious",
                   "coords": [
                         -90.198309,
@@ -1363,7 +1363,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Missouri Botanical Garden",
-                  "text": "Botanical garden in St. Louis, one of the oldest in the US.",
+                  "text": "This botanical garden in St. Louis is a National Historic Landmark, home to the iconic geodesic dome Climatron.",
                   "category": "landmark",
                   "coords": [
                         -90.259519,
@@ -2372,7 +2372,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seventeenth Church of Christ Scientist",
-                  "text": "Die Seventeenth Church of Christ Scientist in Chicago ist ein modernes Kirchengebäude.",
+                  "text": "Entworfen von Architekt Harry Weese, ist diese Kirche der Christlichen Wissenschaft in Chicago ein modernes architektonisches Highlight.",
                   "category": "religious",
                   "coords": [
                         -87.625903,
@@ -2381,7 +2381,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James M. Nederlander Theatre",
-                  "text": "Das James M. Nederlander Theatre im Loop ist ein historisches Broadway-Theater.",
+                  "text": "Dieses 1926 eröffnete Theater in Chicago beherbergt Tourneeproduktionen und ist ein historisches Broadway-Theater.",
                   "category": "cultural",
                   "coords": [
                         -87.628847,
@@ -2390,7 +2390,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Albert Ivar Goodman Theatre",
-                  "text": "Das Albert Ivar Goodman Theatre ist Teil des Goodman Theatre-Komplexes in Chicago.",
+                  "text": "Dieses 2000 eröffnete Theater in Chicago verfügt über zwei Aufführungsräume und ist modern ausgestattet.",
                   "category": "cultural",
                   "coords": [
                         -87.629932,
@@ -2689,7 +2689,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seventeenth Church of Christ Scientist",
-                  "text": "A chicagói Seventeenth Church of Christ Scientist egy modern templomépület.",
+                  "text": "Harry Weese építész tervezte ezt a Keresztény Tudomány templomot Chicagóban, modern építészeti kiemelkedéssel.",
                   "category": "religious",
                   "coords": [
                         -87.625903,
@@ -2698,7 +2698,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James M. Nederlander Theatre",
-                  "text": "A Loopban található James M. Nederlander Theatre egy történelmi Broadway-stílusú színház.",
+                  "text": "Az 1926-ban megnyílt chicagói színház turnézó előadásoknak ad otthont, történelmi Broadway-színház.",
                   "category": "cultural",
                   "coords": [
                         -87.628847,
@@ -2707,7 +2707,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Albert Ivar Goodman Theatre",
-                  "text": "Az Albert Ivar Goodman Theatre a chicagói Goodman Theatre komplexum része.",
+                  "text": "A 2000-ben megnyílt chicagói színház két előadóteret foglal magában.",
                   "category": "cultural",
                   "coords": [
                         -87.629932,
@@ -3006,7 +3006,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seventeenth Church of Christ Scientist",
-                  "text": "Biserica Seventeenth Church of Christ Scientist din Chicago este o clădire modernă de cult.",
+                  "text": "Proiectată de arhitectul Harry Weese, această biserică a Științei Creștine din Chicago este un punct de reper modernist.",
                   "category": "religious",
                   "coords": [
                         -87.625903,
@@ -3015,7 +3015,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James M. Nederlander Theatre",
-                  "text": "James M. Nederlander Theatre din Loop este un teatru istoric de tip Broadway.",
+                  "text": "Deschis în 1926, acest teatru istoric din Chicago găzduiește producții turistice de pe Broadway.",
                   "category": "cultural",
                   "coords": [
                         -87.628847,
@@ -3024,7 +3024,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Albert Ivar Goodman Theatre",
-                  "text": "Albert Ivar Goodman Theatre face parte din complexul Goodman Theatre din Chicago.",
+                  "text": "Deschis în 2000, acest teatru din Chicago cuprinde două spații de spectacol.",
                   "category": "cultural",
                   "coords": [
                         -87.629932,
@@ -3323,7 +3323,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seventeenth Church of Christ Scientist",
-                  "text": "The Seventeenth Church of Christ Scientist in Chicago is a modern church building.",
+                  "text": "Designed by architect Harry Weese, this Christian Science church in Chicago is a modernist architectural landmark.",
                   "category": "religious",
                   "coords": [
                         -87.625903,
@@ -3332,7 +3332,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James M. Nederlander Theatre",
-                  "text": "The James M. Nederlander Theatre in the Loop is a historic Broadway-style theater.",
+                  "text": "Opened in 1926, this historic Broadway-style theatre in Chicago hosts touring productions.",
                   "category": "cultural",
                   "coords": [
                         -87.628847,
@@ -3341,7 +3341,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Albert Ivar Goodman Theatre",
-                  "text": "The Albert Ivar Goodman Theatre is part of the Goodman Theatre complex in Chicago.",
+                  "text": "Opened in 2000, this Chicago theatre complex includes two performance spaces.",
                   "category": "cultural",
                   "coords": [
                         -87.629932,
@@ -3586,7 +3586,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Henry Art Gallery",
-                  "text": "Die Henry Art Gallery an der University of Washington ist ein Museum für zeitgenössische Kunst.",
+                  "text": "Dieses 1927 gegründete Kunstmuseum auf dem Campus der University of Washington zeigt zeitgenössische und moderne Kunst.",
                   "category": "museum",
                   "coords": [
                         -122.311734,
@@ -3622,7 +3622,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Benaroya Hall",
-                  "text": "Die Benaroya Hall in Seattle ist die Heimat des Seattle Symphony Orchestras.",
+                  "text": "Dieses 1998 eröffnete Konzerthaus in Seattle ist die Heimat des Seattle Symphony Orchestras.",
                   "category": "cultural",
                   "coords": [
                         -122.336972,
@@ -3640,7 +3640,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Plymouth Congregational Church",
-                  "text": "Die Plymouth Congregational Church in Seattle ist eine historische Kirche im neugotischen Stil.",
+                  "text": "Diese 1912 erbaute Kongregationalistische Kirche in Seattle weist neugotische Architektur auf.",
                   "category": "religious",
                   "coords": [
                         -122.332661,
@@ -3784,7 +3784,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Seattle Public Library - Central Library",
-                  "text": "Die Seattle Central Library ist ein architektonisches Wahrzeichen, entworfen von Rem Koolhaas.",
+                  "text": "Diese 2004 eröffnete Bibliothek in Seattle ist bekannt für ihre markante dekonstruktivistische Architektur von Rem Koolhaas.",
                   "category": "landmark",
                   "coords": [
                         -122.332663,
@@ -3876,7 +3876,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Henry Art Gallery",
-                  "text": "A Washingtoni Egyetemen található Henry Art Gallery kortárs művészeti múzeum.",
+                  "text": "Az 1927-ben alapított művészeti múzeum a Washingtoni Egyetem campusán kortárs és modern művészetet mutat be.",
                   "category": "museum",
                   "coords": [
                         -122.311734,
@@ -3912,7 +3912,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Benaroya Hall",
-                  "text": "A seattle-i Benaroya Hall a Seattle Symphony Orchestra otthona.",
+                  "text": "Az 1998-ban megnyílt seattle-i koncertterem a Seattle Symphony otthona.",
                   "category": "cultural",
                   "coords": [
                         -122.336972,
@@ -3930,7 +3930,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Plymouth Congregational Church",
-                  "text": "A seattle-i Plymouth Congregational Church egy történelmi, neogótikus stílusú templom.",
+                  "text": "Az 1912-ben épült seattle-i kongregacionalista templom gótikus revival stílusú.",
                   "category": "religious",
                   "coords": [
                         -122.332661,
@@ -4074,7 +4074,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Seattle Public Library - Central Library",
-                  "text": "A seattle-i Központi Könyvtár egy építészeti jelkép, amelyet Rem Koolhaas tervezett.",
+                  "text": "A 2004-ben megnyílt seattle-i könyvtár híres Rem Koolhaas feltűnő dekonstruktivista építészetéről.",
                   "category": "landmark",
                   "coords": [
                         -122.332663,
@@ -4166,7 +4166,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Henry Art Gallery",
-                  "text": "Henry Art Gallery de la Universitatea din Washington este un muzeu de artă contemporană.",
+                  "text": "Fondat în 1927, acest muzeu de artă de pe campusul Universității din Washington prezintă artă contemporană și modernă.",
                   "category": "museum",
                   "coords": [
                         -122.311734,
@@ -4202,7 +4202,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Benaroya Hall",
-                  "text": "Benaroya Hall din Seattle este casa Orchestrei Simfonice din Seattle.",
+                  "text": "Deschis în 1998, această sală de concerte din Seattle este gazda Orchestrei Simfonice din Seattle.",
                   "category": "cultural",
                   "coords": [
                         -122.336972,
@@ -4220,7 +4220,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Plymouth Congregational Church",
-                  "text": "Biserica Congregațională Plymouth din Seattle este o biserică istorică în stil neogotic.",
+                  "text": "Construită în 1912, această biserică congregaționalistă din Seattle are arhitectură neogotică.",
                   "category": "religious",
                   "coords": [
                         -122.332661,
@@ -4364,7 +4364,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Seattle Public Library - Central Library",
-                  "text": "Biblioteca Centrală din Seattle este un reper arhitectural, proiectată de Rem Koolhaas.",
+                  "text": "Deschisă în 2004, această bibliotecă din Seattle este cunoscută pentru arhitectura sa deconstructivistă remarcabilă, proiectată de Rem Koolhaas.",
                   "category": "landmark",
                   "coords": [
                         -122.332663,
@@ -4456,7 +4456,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Henry Art Gallery",
-                  "text": "The Henry Art Gallery at the University of Washington is a contemporary art museum.",
+                  "text": "Founded in 1927, this art museum on the University of Washington campus features contemporary and modern art.",
                   "category": "museum",
                   "coords": [
                         -122.311734,
@@ -4492,7 +4492,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Benaroya Hall",
-                  "text": "Benaroya Hall in Seattle is the home of the Seattle Symphony Orchestra.",
+                  "text": "Opened in 1998, this Seattle concert hall is home to the Seattle Symphony.",
                   "category": "cultural",
                   "coords": [
                         -122.336972,
@@ -4510,7 +4510,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Plymouth Congregational Church",
-                  "text": "Plymouth Congregational Church in Seattle is a historic church in the Gothic Revival style.",
+                  "text": "Built in 1912, this Congregational church in Seattle features Gothic Revival architecture.",
                   "category": "religious",
                   "coords": [
                         -122.332661,
@@ -4654,7 +4654,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Central Library",
-                  "text": "Seattle Central Library is an architectural landmark designed by Rem Koolhaas.",
+                  "text": "Opened in 2004, this Seattle library is known for its striking deconstructivist architecture by Rem Koolhaas.",
                   "category": "landmark",
                   "coords": [
                         -122.332663,
@@ -4998,7 +4998,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover-Talsperre",
-                  "text": "Der Hoover Dam ist ein massiver Betonbogen-Gewichtsstaudamm am Colorado River.",
+                  "text": "Fertiggestellt 1936, dieser massive Betondamm am Colorado River nahe Boulder City, Nevada.",
                   "category": "landmark",
                   "coords": [
                         -114.737749,
@@ -5297,7 +5297,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover Dam",
-                  "text": "A Hoover-gát egy hatalmas beton ív-gravitációs gát a Colorado folyón.",
+                  "text": "1936-ban készült el, ez a hatalmas betongát a Colorado folyón Boulder City közelében, Nevadában.",
                   "category": "landmark",
                   "coords": [
                         -114.737749,
@@ -5596,7 +5596,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover Dam",
-                  "text": "Barajul Hoover este un imens baraj de beton în arc-gravitație pe râul Colorado.",
+                  "text": "Finalizat în 1936, acest baraj masiv de beton pe râul Colorado lângă Boulder City, Nevada.",
                   "category": "landmark",
                   "coords": [
                         -114.737749,
@@ -5895,7 +5895,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover Dam",
-                  "text": "Hoover Dam is a massive concrete arch-gravity dam on the Colorado River.",
+                  "text": "Completed in 1936, this massive concrete dam on the Colorado River near Boulder City, Nevada.",
                   "category": "landmark",
                   "coords": [
                         -114.737749,
@@ -6005,7 +6005,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "USS Constitution Museum",
-                  "text": "Museum, das die Geschichte der USS Constitution und ihrer Besatzung erzählt.",
+                  "text": "Dieses Museum im Charlestown Navy Yard erzählt die Geschichte der historischen Fregatte USS Constitution, eines nationalen historischen Wahrzeichens.",
                   "category": "museum",
                   "coords": [
                         -71.055503,
@@ -6122,7 +6122,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Evelyn F. Moakley Bridge",
-                  "text": "Klappbrücke über den Fort Point Channel.",
+                  "text": "Diese 1996 fertiggestellte Brücke in Boston verbindet das Seaport District mit South Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.0501,
@@ -6313,7 +6313,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "USS Constitution Museum",
-                  "text": "Múzeum, amely a USS Constitution és legénysége történetét mutatja be.",
+                  "text": "A Charlestown Navy Yardban található múzeum a történelmi USS Constitution fregatt történetét meséli el, amely nemzeti történelmi nevezetesség.",
                   "category": "museum",
                   "coords": [
                         -71.055503,
@@ -6430,7 +6430,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Evelyn F. Moakley Bridge",
-                  "text": "Felvonóhíd a Fort Point Channel felett.",
+                  "text": "Az 1996-ban elkészült bostoni híd összeköti a Seaport negyedet Dél-Bostonnal.",
                   "category": "landmark",
                   "coords": [
                         -71.0501,
@@ -6621,7 +6621,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "USS Constitution Museum",
-                  "text": "Muzeu care explorează povestea navei USS Constitution și a echipajului său.",
+                  "text": "Acest muzeu din Charlestown Navy Yard spune povestea fregatei istorice USS Constitution, un reper istoric național.",
                   "category": "museum",
                   "coords": [
                         -71.055503,
@@ -6738,7 +6738,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Evelyn F. Moakley Bridge",
-                  "text": "Pod basculant care traversează Fort Point Channel.",
+                  "text": "Finalizat în 1996, acest pod din Boston leagă districtul Seaport de South Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.0501,
@@ -6929,7 +6929,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "USS Constitution Museum",
-                  "text": "Museum exploring the story of the USS Constitution and its crew.",
+                  "text": "Located in the Charlestown Navy Yard, this museum tells the story of the historic frigate USS Constitution, a National Historic Landmark.",
                   "category": "museum",
                   "coords": [
                         -71.055503,
@@ -7046,7 +7046,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Evelyn F. Moakley Bridge",
-                  "text": "Bascule bridge crossing the Fort Point Channel.",
+                  "text": "Completed in 1996, this bridge in Boston connects the Seaport District to South Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.0501,
@@ -7273,7 +7273,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Martial Arts History Museum",
-                  "text": "Ein Museum in Los Angeles, das die Geschichte der Kampfkünste zeigt.",
+                  "text": "Dieses 1959 gegründete Museum in Burbank zeigt die Geschichte der Kampfkünste aus aller Welt.",
                   "category": "museum",
                   "coords": [
                         -118.333561,
@@ -7300,7 +7300,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Robert Bellarmine Roman Catholic Church",
-                  "text": "Eine römisch-katholische Kirche, die dem heiligen Robert Bellarmin gewidmet ist, im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Diese 1940 erbaute römisch-katholische Kirche in Burbank dient der örtlichen Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -118.306143,
@@ -7590,7 +7590,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Martial Arts History Museum",
-                  "text": "Múzeum Los Angelesben, a harcművészetek történetét bemutatva.",
+                  "text": "Az 1959-ben alapított burbanki múzeum a harcművészetek történetét mutatja be a világ minden tájáról.",
                   "category": "museum",
                   "coords": [
                         -118.333561,
@@ -7617,7 +7617,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Robert Bellarmine Roman Catholic Church",
-                  "text": "Szent Róbert Bellarmin római katolikus templom a hollywood-sign-landmarks-v2 területén.",
+                  "text": "Az 1940-ben épült római katolikus templom Burbankben szolgálja a helyi plébániát.",
                   "category": "religious",
                   "coords": [
                         -118.306143,
@@ -7907,7 +7907,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Martial Arts History Museum",
-                  "text": "Un muzeu din Los Angeles care prezintă istoria artelor marțiale.",
+                  "text": "Fondat în 1959, acest muzeu din Burbank prezintă istoria artelor marțiale din întreaga lume.",
                   "category": "museum",
                   "coords": [
                         -118.333561,
@@ -7934,7 +7934,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Robert Bellarmine Roman Catholic Church",
-                  "text": "O biserică romano-catolică dedicată Sfântului Robert Bellarmin, situată în zona hollywood-sign-landmarks-v2.",
+                  "text": "Construită în 1940, această biserică romano-catolică din Burbank deservește parohia locală.",
                   "category": "religious",
                   "coords": [
                         -118.306143,
@@ -8224,7 +8224,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Martial Arts History Museum",
-                  "text": "A museum in Los Angeles showcasing martial arts history.",
+                  "text": "Founded in 1959, this museum in Burbank showcases the history of martial arts from around the world.",
                   "category": "museum",
                   "coords": [
                         -118.333561,
@@ -8251,7 +8251,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Robert Bellarmine Roman Catholic Church",
-                  "text": "A Roman Catholic church dedicated to Saint Robert Bellarmine, located in the hollywood-sign-landmarks-v2 area.",
+                  "text": "Built in 1940, this Roman Catholic church in Burbank serves the local parish.",
                   "category": "religious",
                   "coords": [
                         -118.306143,
@@ -8685,7 +8685,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Washington Masonic National Memorial",
-                  "text": "Das George Washington Masonic National Memorial ist ein freimaurerisches Denkmal in Alexandria, Virginia, zu Ehren von George Washington.",
+                  "text": "Gewidmet 1932, dieser Gedenkturm steht in Alexandria, Virginia.",
                   "category": "landmark",
                   "coords": [
                         -77.06597,
@@ -9029,7 +9029,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Washington Masonic National Memorial",
-                  "text": "A George Washington Masonic National Memorial egy szabadkőműves emlékmű Alexandria, Virginia, George Washington tiszteletére.",
+                  "text": "1932-ben avatták, ez az emléktorony Alexandria városában, Virginia államban.",
                   "category": "landmark",
                   "coords": [
                         -77.06597,
@@ -9373,7 +9373,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Washington Masonic National Memorial",
-                  "text": "Memorialul Național Masonic George Washington este un memorial masonic în Alexandria, Virginia, în onoarea lui George Washington.",
+                  "text": "Inaugurat în 1932, acest turn memorial se află în Alexandria, Virginia.",
                   "category": "landmark",
                   "coords": [
                         -77.06597,
@@ -9717,7 +9717,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Washington Masonic National Memorial",
-                  "text": "The George Washington Masonic National Memorial is a Masonic memorial in Alexandria, Virginia, honoring George Washington.",
+                  "text": "Dedicated in 1932, this memorial tower stands in Alexandria, Virginia.",
                   "category": "landmark",
                   "coords": [
                         -77.06597,
@@ -9980,7 +9980,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nationalmuseum für Afrikanisch-Amerikanische Geschichte und Kultur",
-                  "text": "Das National Museum of African American History and Culture ist das einzige nationale Museum, das ausschließlich der afroamerikanischen Geschichte und Kultur gewidmet ist.",
+                  "text": "Dieses 2016 auf der National Mall eröffnete Smithsonian Museum dokumentiert die afroamerikanische Geschichte und Kultur.",
                   "category": "museum",
                   "coords": [
                         -77.032704,
@@ -10025,7 +10025,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hirshhorn Museum",
-                  "text": "Das Hirshhorn Museum ist ein Smithsonian-Museum, das sich auf moderne und zeitgenössische Kunst konzentriert.",
+                  "text": "Eröffnet 1974 und von Gordon Bunshaft entworfen, das Hirshhorn Museum auf der National Mall in Washington, D.C.",
                   "category": "museum",
                   "coords": [
                         -77.022953,
@@ -10088,7 +10088,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Monument",
-                  "text": "Das Washington Monument ist ein Obelisk auf der National Mall zu Ehren von George Washington.",
+                  "text": "Dieser 1884 fertiggestellte 555 Fuß hohe Obelisk auf der National Mall ehrt George Washington.",
                   "category": "landmark",
                   "coords": [
                         -77.035243,
@@ -10288,7 +10288,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of African American History and Culture",
-                  "text": "A National Museum of African American History and Culture az egyetlen nemzeti múzeum, amely kizárólag az afroamerikai élet, történelem és kultúra dokumentálására szolgál.",
+                  "text": "A 2016-ban a National Mallon megnyílt Smithsonian múzeum dokumentálja az afroamerikai történelmet és kultúrát.",
                   "category": "museum",
                   "coords": [
                         -77.032704,
@@ -10333,7 +10333,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hirshhorn Museum",
-                  "text": "A Hirshhorn Museum egy Smithsonian múzeum, amely a modern és kortárs művészetre összpontosít.",
+                  "text": "1974-ben nyílt meg, Gordon Bunshaft tervezte, a Hirshhorn Múzeum a National Mall-en Washingtonban.",
                   "category": "museum",
                   "coords": [
                         -77.022953,
@@ -10396,7 +10396,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Monument",
-                  "text": "A Washington Monument egy obeliszk a National Mall-on, George Washington tiszteletére.",
+                  "text": "Az 1884-ben elkészült 555 láb magas obeliszk a National Mallon George Washington tiszteletére épült.",
                   "category": "landmark",
                   "coords": [
                         -77.035243,
@@ -10596,7 +10596,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muzeul național de istorie și cultură afro-americană",
-                  "text": "Muzeul Național de Istorie și Cultură Afro-Americană este singurul muzeu național dedicat exclusiv documentării vieții, istoriei și culturii afro-americane.",
+                  "text": "Deschis în 2016 pe National Mall, acest muzeu Smithsonian documentează istoria și cultura afro-americană.",
                   "category": "museum",
                   "coords": [
                         -77.032704,
@@ -10641,7 +10641,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hirshhorn Museum",
-                  "text": "Muzeul Hirshhorn este un muzeu Smithsonian care se concentrează pe arta modernă și contemporană.",
+                  "text": "Deschis în 1974 și proiectat de Gordon Bunshaft, Muzeul Hirshhorn pe National Mall din Washington, D.C.",
                   "category": "museum",
                   "coords": [
                         -77.022953,
@@ -10704,7 +10704,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Monument",
-                  "text": "Monumentul Washington este un obelisc pe National Mall în onoarea lui George Washington.",
+                  "text": "Finalizat în 1884, acest obelisc de 555 picioare pe National Mall îl onorează pe George Washington.",
                   "category": "landmark",
                   "coords": [
                         -77.035243,
@@ -10904,7 +10904,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of African American History and Culture",
-                  "text": "The National Museum of African American History and Culture is the only national museum devoted exclusively to documenting African American life, history, and culture.",
+                  "text": "Opened in 2016 on the National Mall, this Smithsonian museum chronicles African American history and culture.",
                   "category": "museum",
                   "coords": [
                         -77.032704,
@@ -10949,7 +10949,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hirshhorn Museum",
-                  "text": "The Hirshhorn Museum is a Smithsonian museum focusing on modern and contemporary art.",
+                  "text": "Opened in 1974 and designed by Gordon Bunshaft, the Hirshhorn Museum on the National Mall in Washington, D.C.",
                   "category": "museum",
                   "coords": [
                         -77.022953,
@@ -11012,7 +11012,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Monument",
-                  "text": "The Washington Monument is an obelisk on the National Mall honoring George Washington.",
+                  "text": "Completed in 1884, this 555-foot obelisk on the National Mall honors George Washington.",
                   "category": "landmark",
                   "coords": [
                         -77.035243,
@@ -11329,7 +11329,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Nicholas of Myra Orthodox Church",
-                  "text": "Die St. Nicholas of Myra Orthodox Church in New York City ist eine orthodoxe Kirche.",
+                  "text": "Diese 1883 erbaute ostorthodoxe Kirche in Manhattan dient der russisch-orthodoxen Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -73.982625,
@@ -11338,7 +11338,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "Das Orpheum Theatre in New York City ist ein historisches Theater.",
+                  "text": "Dieses 1904 eröffnete historische Theater in Manhattan veranstaltet Konzerte und Events.",
                   "category": "cultural",
                   "coords": [
                         -73.987488,
@@ -11356,7 +11356,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "Die Church of the Ascension in New York City ist eine episkopale Kirche.",
+                  "text": "Diese 1841 erbaute Episkopalkirche an der Fifth Avenue in Manhattan besitzt ein bekanntes Fresko von John La Farge.",
                   "category": "religious",
                   "coords": [
                         -73.995746,
@@ -11374,7 +11374,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Church",
-                  "text": "Die Grace Church in New York City ist eine episkopale Kirche.",
+                  "text": "Erbaut 1847, diese neugotische Kirche befindet sich in Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.99091,
@@ -11383,7 +11383,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Mark's in-the-Bowery",
-                  "text": "Saint Mark's in-the-Bowery in New York City ist eine historische Kirche.",
+                  "text": "Entworfen von Ithiel Town, diese historische Kirche befindet sich in Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.9871,
@@ -11392,7 +11392,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Church",
-                  "text": "Die Calvary Church in New York City ist eine episkopale Kirche.",
+                  "text": "Diese 1848 erbaute Episkopalkirche in Manhattan ist für ihre neugotische Architektur bekannt.",
                   "category": "religious",
                   "coords": [
                         -73.986763,
@@ -11401,7 +11401,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Epiphany",
-                  "text": "Die Church of the Epiphany in New York City ist eine römisch-katholische Kirche.",
+                  "text": "Diese 1967 erbaute römisch-katholische Kirche in Manhattan dient einer vielfältigen Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -73.982005,
@@ -11410,7 +11410,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gramercy Theatre",
-                  "text": "Das Gramercy Theatre in New York City ist ein Musikveranstaltungsort.",
+                  "text": "Dieses 1937 eröffnete intime Theater im Gramercy Park Viertel in Manhattan veranstaltet Live-Musik und Events.",
                   "category": "cultural",
                   "coords": [
                         -73.984919,
@@ -11419,7 +11419,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. George's Church",
-                  "text": "Die St. George's Church in New York City ist eine episkopale Kirche.",
+                  "text": "Erbaut 1856, diese episkopale Kirche befindet sich in Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.984993,
@@ -11428,7 +11428,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Immaculate Conception Catholic Church",
-                  "text": "Die Immaculate Conception Catholic Church in New York City ist eine katholische Kirche.",
+                  "text": "Diese 1858 erbaute römisch-katholische Kirche in Manhattan befindet sich an der East 14th Street.",
                   "category": "religious",
                   "coords": [
                         -73.982247,
@@ -11446,7 +11446,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marble Collegiate Church",
-                  "text": "Die Marble Collegiate Church in New York City ist eine historische Kirche.",
+                  "text": "Diese 1851 erbaute historische Kirche in Manhattan ist bekannt für ihre Marmorfassade und ihre Verbindung zu Norman Vincent Peale.",
                   "category": "religious",
                   "coords": [
                         -73.987131,
@@ -11473,7 +11473,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Square Arch",
-                  "text": "Der Washington Square Arch in New York City ist ein ikonischer Bogen im Washington Square Park.",
+                  "text": "Gewidmet 1892 und von Stanford White entworfen, dieser Bogen steht im Washington Square Park, Manhattan.",
                   "category": "landmark",
                   "coords": [
                         -73.997102,
@@ -11482,7 +11482,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Flatiron Building",
-                  "text": "Das Flatiron Building in New York City ist ein ikonisches dreieckiges Gebäude.",
+                  "text": "Fertiggestellt 1902 und von Daniel H. Burnham entworfen, das ikonische dreieckige Flatiron Building in Manhattan.",
                   "category": "landmark",
                   "coords": [
                         -73.989653,
@@ -11628,7 +11628,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Nicholas of Myra Orthodox Church",
-                  "text": "A St. Nicholas of Myra Orthodox Church New Yorkban egy ortodox templom.",
+                  "text": "Az 1883-ban épült manhattani ortodox templom az orosz ortodox közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -73.982625,
@@ -11637,7 +11637,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "Az Orpheum Theatre New Yorkban egy történelmi színház.",
+                  "text": "Az 1904-ben megnyílt történelmi manhattani színház koncerteknek és rendezvényeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -73.987488,
@@ -11655,7 +11655,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "A Church of the Ascension New Yorkban egy episzkopális templom.",
+                  "text": "Az 1841-ben épült episzkopális templom az Ötödik sugárúton Manhattanban John La Farge híres freskójával rendelkezik.",
                   "category": "religious",
                   "coords": [
                         -73.995746,
@@ -11673,7 +11673,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Church",
-                  "text": "A Grace Church New Yorkban egy episzkopális templom.",
+                  "text": "1847-ben épült, ez a neogótikus templom Manhattanben, New Yorkban található.",
                   "category": "religious",
                   "coords": [
                         -73.99091,
@@ -11682,7 +11682,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Mark's in-the-Bowery",
-                  "text": "A Saint Mark's in-the-Bowery New Yorkban egy történelmi templom.",
+                  "text": "Ithiel Town tervezte, ez a történelmi templom Manhattanben, New Yorkban található.",
                   "category": "religious",
                   "coords": [
                         -73.9871,
@@ -11691,7 +11691,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Church",
-                  "text": "A Calvary Church New Yorkban egy episzkopális templom.",
+                  "text": "Az 1848-ban épült episzkopális templom Manhattanban neogótikus építészetéről ismert.",
                   "category": "religious",
                   "coords": [
                         -73.986763,
@@ -11700,7 +11700,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Epiphany",
-                  "text": "A Church of the Epiphany New Yorkban egy római katolikus templom.",
+                  "text": "Az 1967-ben épült római katolikus templom Manhattanban sokszínű közösséget szolgál.",
                   "category": "religious",
                   "coords": [
                         -73.982005,
@@ -11709,7 +11709,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gramercy Theatre",
-                  "text": "A Gramercy Theatre New Yorkban egy zenei helyszín.",
+                  "text": "Az 1937-ben megnyílt meghitt színház a Gramercy Park negyedben Manhattanban élőzenének és rendezvényeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -73.984919,
@@ -11718,7 +11718,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. George's Church",
-                  "text": "A St. George's Church New Yorkban egy episzkopális templom.",
+                  "text": "1856-ban épült, ez az episzkopális templom Manhattanben, New Yorkban.",
                   "category": "religious",
                   "coords": [
                         -73.984993,
@@ -11727,7 +11727,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Immaculate Conception Catholic Church",
-                  "text": "A Immaculate Conception Catholic Church New Yorkban egy katolikus templom.",
+                  "text": "Az 1858-ban épült római katolikus templom Manhattanban a East 14th Streeten található.",
                   "category": "religious",
                   "coords": [
                         -73.982247,
@@ -11745,7 +11745,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marble Collegiate Church",
-                  "text": "A Marble Collegiate Church New Yorkban egy történelmi templom.",
+                  "text": "Az 1851-ben épült történelmi manhattani templom híres márvány homlokzatáról és Norman Vincent Peale-lel való kapcsolatáról.",
                   "category": "religious",
                   "coords": [
                         -73.987131,
@@ -11772,7 +11772,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Square Arch",
-                  "text": "A Washington Square Arch New Yorkban egy ikonikus ív a Washington Square Parkban.",
+                  "text": "1892-ben avatták, Stanford White tervezte, ez a diadalív a Washington Square Parkban, Manhattanben.",
                   "category": "landmark",
                   "coords": [
                         -73.997102,
@@ -11781,7 +11781,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Flatiron Building",
-                  "text": "A Flatiron Building New Yorkban egy ikonikus háromszög alakú épület.",
+                  "text": "1902-ben készült el, Daniel H. Burnham tervezte, az ikonikus háromszög alakú Flatiron épület Manhattanben.",
                   "category": "landmark",
                   "coords": [
                         -73.989653,
@@ -11927,7 +11927,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Nicholas of Myra Orthodox Church",
-                  "text": "St. Nicholas of Myra Orthodox Church din New York City este o biserică ortodoxă.",
+                  "text": "Construită în 1883, această biserică ortodoxă răsăriteană din Manhattan deservește comunitatea ortodoxă rusă.",
                   "category": "religious",
                   "coords": [
                         -73.982625,
@@ -11936,7 +11936,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "Orpheum Theatre din New York City este un teatru istoric.",
+                  "text": "Deschis în 1904, acest teatru istoric din Manhattan găzduiește concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -73.987488,
@@ -11954,7 +11954,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "Church of the Ascension din New York City este o biserică Episcopală.",
+                  "text": "Construită în 1841, această biserică episcopală de pe Fifth Avenue din Manhattan are o frescă celebră de John La Farge.",
                   "category": "religious",
                   "coords": [
                         -73.995746,
@@ -11972,7 +11972,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Church",
-                  "text": "Grace Church din New York City este o biserică Episcopală.",
+                  "text": "Construită în 1847, această biserică neogotică se află în Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.99091,
@@ -11981,7 +11981,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Mark's in-the-Bowery",
-                  "text": "Saint Mark's in-the-Bowery din New York City este o biserică istorică.",
+                  "text": "Proiectată de Ithiel Town, această biserică istorică se află în Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.9871,
@@ -11990,7 +11990,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Church",
-                  "text": "Calvary Church din New York City este o biserică Episcopală.",
+                  "text": "Construită în 1848, această biserică episcopală din Manhattan este cunoscută pentru arhitectura sa neogotică.",
                   "category": "religious",
                   "coords": [
                         -73.986763,
@@ -11999,7 +11999,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Epiphany",
-                  "text": "Church of the Epiphany din New York City este o biserică romano-catolică.",
+                  "text": "Construită în 1967, această biserică romano-catolică din Manhattan deservește o comunitate diversă.",
                   "category": "religious",
                   "coords": [
                         -73.982005,
@@ -12008,7 +12008,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gramercy Theatre",
-                  "text": "Gramercy Theatre din New York City este un loc de concerte.",
+                  "text": "Deschis în 1937, acest teatru intim din cartierul Gramercy Park din Manhattan găzduiește muzică live și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -73.984919,
@@ -12017,7 +12017,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. George's Church",
-                  "text": "St. George's Church din New York City este o biserică Episcopală.",
+                  "text": "Construită în 1856, această biserică episcopală se află în Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.984993,
@@ -12026,7 +12026,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Immaculate Conception Catholic Church",
-                  "text": "Immaculate Conception Catholic Church din New York City este o biserică catolică.",
+                  "text": "Construită în 1858, această biserică romano-catolică din Manhattan se află pe East 14th Street.",
                   "category": "religious",
                   "coords": [
                         -73.982247,
@@ -12044,7 +12044,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marble Collegiate Church",
-                  "text": "Marble Collegiate Church din New York City este o biserică istorică.",
+                  "text": "Construită în 1851, această biserică istorică din Manhattan este cunoscută pentru fațada sa de marmură și legătura cu Norman Vincent Peale.",
                   "category": "religious",
                   "coords": [
                         -73.987131,
@@ -12071,7 +12071,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Square Arch",
-                  "text": "Washington Square Arch din New York City este un arc iconic în Parcul Washington Square.",
+                  "text": "Inaugurat în 1892 și proiectat de Stanford White, acest arc se află în Parcul Washington Square, Manhattan.",
                   "category": "landmark",
                   "coords": [
                         -73.997102,
@@ -12080,7 +12080,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Flatiron Building",
-                  "text": "Flatiron Building din New York City este o clădire emblematică în formă triunghiulară.",
+                  "text": "Finalizat în 1902 și proiectat de Daniel H. Burnham, iconică clădire triunghiulară Flatiron din Manhattan.",
                   "category": "landmark",
                   "coords": [
                         -73.989653,
@@ -12226,7 +12226,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Nicholas of Myra Orthodox Church",
-                  "text": "St. Nicholas of Myra Orthodox Church in New York City is an Eastern Orthodox church.",
+                  "text": "Built in 1883, this Eastern Orthodox church in Manhattan serves the Russian Orthodox community.",
                   "category": "religious",
                   "coords": [
                         -73.982625,
@@ -12235,7 +12235,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "Orpheum Theatre in New York City is a historic theatre.",
+                  "text": "Opened in 1904, this historic theatre in Manhattan hosts concerts and events.",
                   "category": "cultural",
                   "coords": [
                         -73.987488,
@@ -12253,7 +12253,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "Church of the Ascension in New York City is an Episcopal church.",
+                  "text": "Built in 1841, this Episcopal church on Fifth Avenue in Manhattan features a notable fresco by John La Farge.",
                   "category": "religious",
                   "coords": [
                         -73.995746,
@@ -12271,7 +12271,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Church",
-                  "text": "Grace Church in New York City is an Episcopal church.",
+                  "text": "Built in 1847, this Gothic Revival church is located in Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.99091,
@@ -12280,7 +12280,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Mark's in-the-Bowery",
-                  "text": "Saint Mark's in-the-Bowery in New York City is a historic church.",
+                  "text": "Designed by Ithiel Town, this historic church is in Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.9871,
@@ -12289,7 +12289,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Church",
-                  "text": "Calvary Church in New York City is an Episcopal church.",
+                  "text": "Built in 1848, this Episcopal church in Manhattan is known for its Gothic Revival architecture.",
                   "category": "religious",
                   "coords": [
                         -73.986763,
@@ -12298,7 +12298,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Epiphany",
-                  "text": "Church of the Epiphany in New York City is a Roman Catholic church.",
+                  "text": "Built in 1967, this Roman Catholic church in Manhattan serves a diverse parish.",
                   "category": "religious",
                   "coords": [
                         -73.982005,
@@ -12307,7 +12307,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gramercy Theatre",
-                  "text": "Gramercy Theatre in New York City is a music venue.",
+                  "text": "Opened in 1937, this intimate theatre in Manhattan's Gramercy Park neighborhood hosts live music and events.",
                   "category": "cultural",
                   "coords": [
                         -73.984919,
@@ -12316,7 +12316,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. George's Church",
-                  "text": "St. George's Church in New York City is an Episcopal church.",
+                  "text": "Built in 1856, this Episcopal church is in Manhattan, New York.",
                   "category": "religious",
                   "coords": [
                         -73.984993,
@@ -12325,7 +12325,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Immaculate Conception Catholic Church",
-                  "text": "Immaculate Conception Catholic Church in New York City is a Catholic church.",
+                  "text": "Built in 1858, this Roman Catholic church in Manhattan is located on East 14th Street.",
                   "category": "religious",
                   "coords": [
                         -73.982247,
@@ -12343,7 +12343,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marble Collegiate Church",
-                  "text": "Marble Collegiate Church in New York City is a historic church.",
+                  "text": "Built in 1851, this historic church in Manhattan is known for its marble facade and connection to Norman Vincent Peale.",
                   "category": "religious",
                   "coords": [
                         -73.987131,
@@ -12370,7 +12370,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Square Arch",
-                  "text": "Washington Square Arch in New York City is an iconic arch in Washington Square Park.",
+                  "text": "Dedicated in 1892 and designed by Stanford White, this arch stands in Washington Square Park, Manhattan.",
                   "category": "landmark",
                   "coords": [
                         -73.997102,
@@ -12379,7 +12379,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Flatiron Building",
-                  "text": "Flatiron Building in New York City is an iconic triangular building.",
+                  "text": "Completed in 1902 and designed by Daniel H. Burnham, the iconic triangular Flatiron Building in Manhattan.",
                   "category": "landmark",
                   "coords": [
                         -73.989653,
@@ -15340,7 +15340,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Civic Opera House",
-                  "text": "Das Civic Opera House in Chicago ist ein großes Opernhaus.",
+                  "text": "Entworfen von Graham, Anderson, Probst & White, ist dieses Opernhaus in Chicago ein Beaux-Arts-Wahrzeichen.",
                   "category": "cultural",
                   "coords": [
                         -87.637478,
@@ -15666,7 +15666,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Civic Opera House",
-                  "text": "A Civic Opera House Chicagóban egy nagy operaház.",
+                  "text": "A Graham, Anderson, Probst & White által tervezett chicagói operaház Beaux-Arts nevezetesség.",
                   "category": "cultural",
                   "coords": [
                         -87.637478,
@@ -15992,7 +15992,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Civic Opera House",
-                  "text": "Casa de Operă Civică din Chicago este o mare operă.",
+                  "text": "Proiectat de Graham, Anderson, Probst & White, acest operă din Chicago este un reper Beaux-Arts.",
                   "category": "cultural",
                   "coords": [
                         -87.637478,
@@ -16318,7 +16318,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Civic Opera House",
-                  "text": "The Civic Opera House in Chicago is a large opera house.",
+                  "text": "Designed by Graham, Anderson, Probst & White, this opera house in Chicago is a Beaux-Arts landmark.",
                   "category": "cultural",
                   "coords": [
                         -87.637478,
@@ -16581,7 +16581,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kennedy Space Center Visitor Complex",
-                  "text": "Der Kennedy Space Center Visitor Complex ist das offizielle Besucherzentrum der NASA am Kennedy Space Center.",
+                  "text": "Dieses 1967 eröffnete Besucherzentrum am Cape Canaveral zeigt das Space Shuttle Atlantis und Raketengärten.",
                   "category": "recreational",
                   "coords": [
                         -80.681821,
@@ -16736,7 +16736,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kennedy Space Center Visitor Complex",
-                  "text": "A Kennedy Űrközpont Látogatóközpontja a NASA hivatalos látogatóközpontja a Kennedy Űrközpontban.",
+                  "text": "Az 1967-ben megnyílt látogatóközpont a Cape Canaveralban bemutatja az Atlantis űrrepülőgépet és rakétakerteket.",
                   "category": "recreational",
                   "coords": [
                         -80.681821,
@@ -16891,7 +16891,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kennedy Space Center Visitor Complex",
-                  "text": "Complexul pentru Vizitatori al Centrului Spațial Kennedy este centrul oficial de vizitare al NASA la Centrul Spațial Kennedy.",
+                  "text": "Deschis în 1967, acest complex pentru vizitatori de la Cape Canaveral prezintă naveta spațială Atlantis și grădini de rachete.",
                   "category": "recreational",
                   "coords": [
                         -80.681821,
@@ -17046,7 +17046,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kennedy Space Center Visitor Complex",
-                  "text": "The Kennedy Space Center Visitor Complex is the official visitor center of NASA's Kennedy Space Center.",
+                  "text": "Opened in 1967, this visitor complex at Cape Canaveral features Space Shuttle Atlantis and rocket gardens.",
                   "category": "recreational",
                   "coords": [
                         -80.681821,
@@ -21184,7 +21184,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Westside Theatre",
-                  "text": "Das Westside Theatre ist ein Off-Broadway-Theater in times-square-landmarks-v2.",
+                  "text": "Dieses 1976 eröffnete Off-Broadway-Theater im Hell's Kitchen Viertel in Manhattan bietet intime Inszenierungen.",
                   "category": "cultural",
                   "coords": [
                         -73.99262,
@@ -21238,7 +21238,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Saint Mary the Virgin",
-                  "text": "Die Church of Saint Mary the Virgin ist eine episkopale Kirche in times-square-landmarks-v2.",
+                  "text": "Die Church of Saint Mary the Virgin, erbaut 1894, wurde von Napoleon LeBrun entworfen.",
                   "category": "religious",
                   "coords": [
                         -73.983605,
@@ -21265,7 +21265,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "Holy Cross Catholic Church ist eine römisch-katholische Kirche in times-square-landmarks-v2.",
+                  "text": "Diese 1870 erbaute römisch-katholische Kirche in Manhattan dient der Hell's Kitchen Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -73.991162,
@@ -21274,7 +21274,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Golden Theatre",
-                  "text": "Das John Golden Theatre ist ein Broadway-Theater in times-square-landmarks-v2, benannt nach John Golden.",
+                  "text": "Dieses 1927 eröffnete Broadway-Theater in Manhattan ist nach dem Produzenten John Golden benannt.",
                   "category": "cultural",
                   "coords": [
                         -73.987974,
@@ -21348,7 +21348,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Westside Theatre",
-                  "text": "A Westside Theatre egy off-Broadway színház a times-square-landmarks-v2-ben.",
+                  "text": "Az 1976-ban megnyílt off-Broadway színház a manhattani Hell's Kitchen negyedben meghitt előadásokat kínál.",
                   "category": "cultural",
                   "coords": [
                         -73.99262,
@@ -21402,7 +21402,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Saint Mary the Virgin",
-                  "text": "A Church of Saint Mary the Virgin egy episzkopális templom a times-square-landmarks-v2-ben.",
+                  "text": "A Szűz Mária-templom 1894-ben épült, Napoleon LeBrun tervezte.",
                   "category": "religious",
                   "coords": [
                         -73.983605,
@@ -21429,7 +21429,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "A Holy Cross Catholic Church egy római katolikus templom a times-square-landmarks-v2-ben.",
+                  "text": "Az 1870-ben épült római katolikus templom Manhattanban a Hell's Kitchen közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -73.991162,
@@ -21438,7 +21438,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Golden Theatre",
-                  "text": "A John Golden Theatre egy Broadway színház a times-square-landmarks-v2-ben, John Goldenről elnevezve.",
+                  "text": "Az 1927-ben megnyílt Broadway-színház Manhattanban John Golden producerről kapta a nevét.",
                   "category": "cultural",
                   "coords": [
                         -73.987974,
@@ -21512,7 +21512,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Westside Theatre",
-                  "text": "Westside Theatre este un teatru off-Broadway în times-square-landmarks-v2.",
+                  "text": "Deschis în 1976, acest teatru off-Broadway din cartierul Hell's Kitchen din Manhattan prezintă producții intime.",
                   "category": "cultural",
                   "coords": [
                         -73.99262,
@@ -21566,7 +21566,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Saint Mary the Virgin",
-                  "text": "Biserica Sfânta Maria Fecioara este o biserică episcopală în times-square-landmarks-v2.",
+                  "text": "Biserica Sfânta Maria Fecioara, construită în 1894, proiectată de Napoleon LeBrun.",
                   "category": "religious",
                   "coords": [
                         -73.983605,
@@ -21593,7 +21593,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "Holy Cross Catholic Church este o biserică romano-catolică în times-square-landmarks-v2.",
+                  "text": "Construită în 1870, această biserică romano-catolică din Manhattan deservesc comunitatea Hell's Kitchen.",
                   "category": "religious",
                   "coords": [
                         -73.991162,
@@ -21602,7 +21602,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Golden Theatre",
-                  "text": "John Golden Theatre este un teatru Broadway în times-square-landmarks-v2, numit după John Golden.",
+                  "text": "Deschis în 1927, acest teatru Broadway din Manhattan poartă numele producătorului John Golden.",
                   "category": "cultural",
                   "coords": [
                         -73.987974,
@@ -21676,7 +21676,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Westside Theatre",
-                  "text": "The Westside Theatre is an off-Broadway theatre in times-square-landmarks-v2.",
+                  "text": "Opened in 1976, this off-Broadway theatre in Manhattan's Hell's Kitchen neighborhood presents intimate productions.",
                   "category": "cultural",
                   "coords": [
                         -73.99262,
@@ -21730,7 +21730,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Saint Mary the Virgin",
-                  "text": "The Church of Saint Mary the Virgin is an Episcopal church in times-square-landmarks-v2.",
+                  "text": "Church of Saint Mary the Virgin, built in 1894, designed by Napoleon LeBrun.",
                   "category": "religious",
                   "coords": [
                         -73.983605,
@@ -21757,7 +21757,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "Holy Cross Catholic Church is a Roman Catholic church in times-square-landmarks-v2.",
+                  "text": "Built in 1870, this Roman Catholic church in Manhattan serves the Hell's Kitchen community.",
                   "category": "religious",
                   "coords": [
                         -73.991162,
@@ -21766,7 +21766,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Golden Theatre",
-                  "text": "The John Golden Theatre is a Broadway theatre in times-square-landmarks-v2, named after John Golden.",
+                  "text": "Opened in 1927, this Broadway theatre in Manhattan is named for producer John Golden.",
                   "category": "cultural",
                   "coords": [
                         -73.987974,
@@ -21894,7 +21894,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Durant-Kenrick House and Grounds",
-                  "text": "Das Durant-Kenrick House and Grounds ist ein historisches Hausmuseum im Bereich der Fenway Park Landmarks.",
+                  "text": "Dieses historische Hausmuseum in Newton ist im National Register of Historic Places eingetragen und zeigt Architektur aus dem 18. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         -71.18084,
@@ -22155,7 +22155,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "MGM Music Hall",
-                  "text": "Die MGM Music Hall at Fenway ist eine Musikspielstätte im Bereich der Fenway Park Landmarks.",
+                  "text": "Diese 2022 eröffnete Musikspielstätte im Bostoner Fenway-Viertel veranstaltet Konzerte und Events.",
                   "category": "cultural",
                   "coords": [
                         -71.095434,
@@ -22220,7 +22220,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Durant-Kenrick House and Grounds",
-                  "text": "A Durant-Kenrick House and Grounds egy történelmi házmúzeum a Fenway Park Landmarks területén.",
+                  "text": "A Newtonban található történelmi házmúzeum szerepel a National Register of Historic Places listán, és 18. századi építészetet mutat be.",
                   "category": "museum",
                   "coords": [
                         -71.18084,
@@ -22481,7 +22481,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "MGM Music Hall",
-                  "text": "A MGM Music Hall at Fenway egy zenei helyszín a Fenway Park Landmarks területén.",
+                  "text": "A 2022-ben megnyílt bostoni zenei helyszín a Fenway negyedben koncerteknek és rendezvényeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -71.095434,
@@ -22546,7 +22546,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Durant-Kenrick House and Grounds",
-                  "text": "Durant-Kenrick House and Grounds este un muzeu de casă istorică în zona Fenway Park Landmarks.",
+                  "text": "Acest muzeu istoric în Newton este înscris în Registrul Național al Locurilor Istorice și prezintă arhitectură din secolul al XVIII-lea.",
                   "category": "museum",
                   "coords": [
                         -71.18084,
@@ -22807,7 +22807,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "MGM Music Hall",
-                  "text": "MGM Music Hall at Fenway este o sală de concerte în zona Fenway Park Landmarks.",
+                  "text": "Deschis în 2022, acest loc de muzică din cartierul Fenway din Boston găzduiește concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -71.095434,
@@ -22872,7 +22872,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Durant-Kenrick House and Grounds",
-                  "text": "The Durant-Kenrick House and Grounds is a historic house museum in the Fenway Park Landmarks area.",
+                  "text": "Listed on the National Register, this historic house museum in Newton features 18th-century architecture and gardens.",
                   "category": "museum",
                   "coords": [
                         -71.18084,
@@ -23133,7 +23133,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "MGM Music Hall",
-                  "text": "MGM Music Hall at Fenway is a music venue in the Fenway Park Landmarks area.",
+                  "text": "Opened in 2022, this music venue in Boston's Fenway district hosts concerts and events.",
                   "category": "cultural",
                   "coords": [
                         -71.095434,
@@ -23288,7 +23288,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Uptown Theatre",
-                  "text": "Das Uptown Theatre ist ein historischer Filmpalast im Uptown-Viertel von Chicago.",
+                  "text": "Dieses 1925 eröffnete historische Uptown-Theater in Chicago ist ein ehemaliger Filmpalast, der heute als Konzertstätte dient.",
                   "category": "cultural",
                   "coords": [
                         -87.660513,
@@ -23641,7 +23641,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Uptown Theatre",
-                  "text": "Az Uptown Theatre egy történelmi mozi palota Chicago Uptown negyedében.",
+                  "text": "Az 1925-ben megnyílt történelmi Uptown színház Chicagóban egykori filmpalota, ma koncerthelyszín.",
                   "category": "cultural",
                   "coords": [
                         -87.660513,
@@ -23994,7 +23994,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Uptown Theatre",
-                  "text": "Teatrul Uptown este un palat istoric de cinema în cartierul Uptown din Chicago.",
+                  "text": "Deschis în 1925, acest teatru istoric Uptown din Chicago, un fost palat al filmului, servește acum ca loc de concerte.",
                   "category": "cultural",
                   "coords": [
                         -87.660513,
@@ -24347,7 +24347,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Uptown Theatre",
-                  "text": "The Uptown Theatre is a historic movie palace in Chicago's Uptown neighborhood.",
+                  "text": "Opened in 1925, this historic Uptown Chicago theatre is a movie palace turned concert venue.",
                   "category": "cultural",
                   "coords": [
                         -87.660513,
@@ -24718,7 +24718,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "Die Pace Gallery ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Diese 1963 gegründete Galerie für zeitgenössische Kunst hat Standorte in New York und weltweit.",
                   "category": "museum",
                   "coords": [
                         -74.004969,
@@ -24882,7 +24882,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "A Pace Gallery egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Az 1963-ban alapított kortárs művészeti galéria New Yorkban és világszerte rendelkezik helyszínekkel.",
                   "category": "museum",
                   "coords": [
                         -74.004969,
@@ -25046,7 +25046,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "Pace Gallery este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Fondată în 1963, această galerie de artă contemporană are locații în New York și în întreaga lume.",
                   "category": "museum",
                   "coords": [
                         -74.004969,
@@ -25210,7 +25210,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "Pace Gallery is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "Founded in 1963, this prominent contemporary art gallery has locations in New York and worldwide.",
                   "category": "museum",
                   "coords": [
                         -74.004969,
@@ -25446,7 +25446,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Street Methodist Church",
-                  "text": "Die John Street Methodist Church ist die älteste durchgehend genutzte methodistische Kirche der USA in Manhattan.",
+                  "text": "Diese 1841 erbaute historische methodistische Kirche in der Nähe des 9/11 Memorials ist die älteste methodistische Gemeinde New Yorks.",
                   "category": "religious",
                   "coords": [
                         -74.008149,
@@ -25455,7 +25455,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter Catholic Church",
-                  "text": "Saint Peter Catholic Church ist eine katholische Kirche in Lower Manhattan, die den Finanzdistrikt bedient.",
+                  "text": "Diese 1840 erbaute römisch-katholische Kirche in der Nähe des 9/11 Memorials dient dem Finanzviertel.",
                   "category": "religious",
                   "coords": [
                         -74.009572,
@@ -25736,7 +25736,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Street Methodist Church",
-                  "text": "A John Street Methodist Church a legrégebbi folyamatosan használt metodista templom az USA-ban, Manhattanban.",
+                  "text": "Az 1841-ben épült történelmi metodista templom a 9/11 emlékmű közelében New York legrégebbi metodista gyülekezete.",
                   "category": "religious",
                   "coords": [
                         -74.008149,
@@ -25745,7 +25745,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter Catholic Church",
-                  "text": "A Saint Peter Catholic Church egy katolikus templom Lower Manhattanban, amely a pénzügyi negyedet szolgálja.",
+                  "text": "Az 1840-ben épült római katolikus templom a 9/11 emlékmű közelében a Pénzügyi Negyedet szolgálja.",
                   "category": "religious",
                   "coords": [
                         -74.009572,
@@ -26026,7 +26026,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Street Methodist Church",
-                  "text": "John Street Methodist Church este cea mai veche biserică metodistă în funcțiune din SUA, în Manhattan.",
+                  "text": "Construită în 1841, această biserică metodistă istorică lângă Memorialul 9/11 este cea mai veche congregație metodistă din New York.",
                   "category": "religious",
                   "coords": [
                         -74.008149,
@@ -26035,7 +26035,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter Catholic Church",
-                  "text": "Saint Peter Catholic Church este o biserică catolică în Lower Manhattan, deservind districtul financiar.",
+                  "text": "Construită în 1840, această biserică romano-catolică lângă Memorialul 9/11 deservește Districtul Financiar.",
                   "category": "religious",
                   "coords": [
                         -74.009572,
@@ -26316,7 +26316,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Street Methodist Church",
-                  "text": "John Street Methodist Church is the oldest Methodist church in continuous use in the US, in Manhattan.",
+                  "text": "Built in 1841, this historic Methodist church near the 9/11 Memorial is the oldest Methodist congregation in New York.",
                   "category": "religious",
                   "coords": [
                         -74.008149,
@@ -26325,7 +26325,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter Catholic Church",
-                  "text": "Saint Peter Catholic Church is a Catholic church in Lower Manhattan serving the financial district.",
+                  "text": "Built in 1840, this Roman Catholic church near the 9/11 Memorial serves the Financial District.",
                   "category": "religious",
                   "coords": [
                         -74.009572,
@@ -26651,7 +26651,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dwight D. Eisenhower Memorial",
-                  "text": "Das Dwight D. Eisenhower Memorial ist ein nationales Denkmal für Präsident Eisenhower im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Gewidmet 2020 und von Frank Gehry entworfen, dieses Denkmal nahe der National Mall in Washington, D.C.",
                   "category": "historical",
                   "coords": [
                         -77.018759,
@@ -26741,7 +26741,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kapitol der Vereinigten Staaten",
-                  "text": "Das United States Capitol ist der Sitz des US-Kongresses im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Dieses 1800 fertiggestellte ikonische neoklassizistische Gebäude in Washington D.C. beherbergt den US-Kongress.",
                   "category": "landmark",
                   "coords": [
                         -77.009001,
@@ -26750,7 +26750,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Oberster Gerichtshof der Vereinigten Staaten",
-                  "text": "Der Supreme Court of the United States ist das höchste Bundesgericht im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Entworfen von Cass Gilbert, beherbergt dieses neoklassizistische Gebäude in Washington D.C. den Obersten Gerichtshof.",
                   "category": "landmark",
                   "coords": [
                         -77.004439,
@@ -27004,7 +27004,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dwight D. Eisenhower Memorial",
-                  "text": "A Dwight D. Eisenhower Memorial egy nemzeti emlékmű Eisenhower elnök tiszteletére az US Capitol látnivalók területén.",
+                  "text": "2020-ban avatták, Frank Gehry tervezte, ez az emlékmű a National Mall közelében Washingtonban.",
                   "category": "historical",
                   "coords": [
                         -77.018759,
@@ -27094,7 +27094,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "United States Capitol",
-                  "text": "Az United States Capitol az Egyesült Államok Kongresszusának székhelye az US Capitol látnivalók területén.",
+                  "text": "Az 1800-ban elkészült ikonikus neoklasszicista épület Washington D.C.-ben az amerikai kongresszusnak ad otthont.",
                   "category": "landmark",
                   "coords": [
                         -77.009001,
@@ -27103,7 +27103,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Supreme Court of the United States",
-                  "text": "A Supreme Court of the United States a legfelsőbb szövetségi bíróság az US Capitol látnivalók területén.",
+                  "text": "Cass Gilbert tervezte, ez a neoklasszicista épület Washington D.C.-ben a Legfelsőbb Bíróságnak ad otthont.",
                   "category": "landmark",
                   "coords": [
                         -77.004439,
@@ -27357,7 +27357,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dwight D. Eisenhower Memorial",
-                  "text": "Memorialul Dwight D. Eisenhower este un monument național în onoarea președintelui Eisenhower în zona reperelor US Capitol.",
+                  "text": "Inaugurat în 2020 și proiectat de Frank Gehry, acest memorial lângă National Mall din Washington, D.C.",
                   "category": "historical",
                   "coords": [
                         -77.018759,
@@ -27447,7 +27447,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "United States Capitol",
-                  "text": "Capitoliul Statelor Unite este locul de întâlnire al Congresului SUA în zona reperelor US Capitol.",
+                  "text": "Finalizată în 1800, această clădire neoclasică emblematică din Washington D.C. găzduiește Congresul SUA.",
                   "category": "landmark",
                   "coords": [
                         -77.009001,
@@ -27456,7 +27456,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Supreme Court of the United States",
-                  "text": "Curtea Supremă a Statelor Unite este cea mai înaltă instanță federală în zona reperelor US Capitol.",
+                  "text": "Proiectat de Cass Gilbert, această clădire neoclasică din Washington D.C. găzduiește Curtea Supremă.",
                   "category": "landmark",
                   "coords": [
                         -77.004439,
@@ -27710,7 +27710,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dwight D. Eisenhower Memorial",
-                  "text": "The Dwight D. Eisenhower Memorial is a national memorial to President Eisenhower in the US Capitol landmarks area.",
+                  "text": "Dedicated in 2020 and designed by Frank Gehry, this memorial near the National Mall in Washington, D.C.",
                   "category": "historical",
                   "coords": [
                         -77.018759,
@@ -27800,7 +27800,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "United States Capitol",
-                  "text": "The United States Capitol is the meeting place of the U.S. Congress in the US Capitol landmarks area.",
+                  "text": "Completed in 1800, this iconic neoclassical building in Washington D.C. houses the U.S. Congress.",
                   "category": "landmark",
                   "coords": [
                         -77.009001,
@@ -27809,7 +27809,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Supreme Court of the United States",
-                  "text": "The Supreme Court of the United States is the highest federal court in the US Capitol landmarks area.",
+                  "text": "Designed by Cass Gilbert, this neoclassical building in Washington D.C. houses the Supreme Court.",
                   "category": "landmark",
                   "coords": [
                         -77.004439,
@@ -29367,7 +29367,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Mifflin",
-                  "text": "Fort Mifflin ist ein historisches Fort und Museum am Delaware River nahe Philadelphia.",
+                  "text": "Erbaut um 1775, dieses historische Fort am Delaware River in Philadelphia.",
                   "category": "museum",
                   "coords": [
                         -75.213052,
@@ -29556,7 +29556,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Philadelphia",
-                  "text": "Die Christ Church Philadelphia ist eine historische episkopale Kirche in Philadelphia.",
+                  "text": "Entworfen von John Kearsley, diese historische Kirche in Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.143864,
@@ -29684,7 +29684,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Mifflin",
-                  "text": "Fort Mifflin egy történelmi erőd és múzeum a Delaware folyó mellett, Philadelphia közelében.",
+                  "text": "1775 körül épült, ez a történelmi erőd a Delaware folyón Philadelphiában.",
                   "category": "museum",
                   "coords": [
                         -75.213052,
@@ -29873,7 +29873,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Philadelphia",
-                  "text": "A Christ Church Philadelphia egy történelmi episzkopális templom Philadelphiában.",
+                  "text": "John Kearsley tervezte, ez a történelmi templom Philadelphiában.",
                   "category": "religious",
                   "coords": [
                         -75.143864,
@@ -30001,7 +30001,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Mifflin",
-                  "text": "Fort Mifflin este un fort istoric și muzeu pe râul Delaware, lângă Philadelphia.",
+                  "text": "Construit în jurul anului 1775, acest fort istoric pe râul Delaware din Philadelphia.",
                   "category": "museum",
                   "coords": [
                         -75.213052,
@@ -30190,7 +30190,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Philadelphia",
-                  "text": "Christ Church Philadelphia este o biserică episcopală istorică în Philadelphia.",
+                  "text": "Proiectată de John Kearsley, această biserică istorică din Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.143864,
@@ -30318,7 +30318,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Mifflin",
-                  "text": "Fort Mifflin is a historic fort and museum on the Delaware River near Philadelphia.",
+                  "text": "Built around 1775, this historic fort on the Delaware River in Philadelphia.",
                   "category": "museum",
                   "coords": [
                         -75.213052,
@@ -30507,7 +30507,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Christ Church Philadelphia",
-                  "text": "Christ Church Philadelphia is a historic Episcopal church in Philadelphia.",
+                  "text": "Designed by John Kearsley, this historic church in Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.143864,
@@ -30941,7 +30941,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Macedonia Free Will Baptist Church",
-                  "text": "Eine Baptistenkirche in Liberty Bell Landmarks.",
+                  "text": "Diese historische freie Willensbaptistenkirche ist im National Register of Historic Places eingetragen.",
                   "category": "religious",
                   "coords": [
                         -75.169065,
@@ -31303,7 +31303,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Macedonia Free Will Baptist Church",
-                  "text": "Egy baptista templom a Liberty Bell Landmarksban.",
+                  "text": "Ez a történelmi szabad akaratú baptista templom szerepel a National Register of Historic Places listán.",
                   "category": "religious",
                   "coords": [
                         -75.169065,
@@ -31665,7 +31665,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Macedonia Free Will Baptist Church",
-                  "text": "O biserică baptistă în Liberty Bell Landmarks.",
+                  "text": "Această biserică baptistă istorică a voinței libere este înscrisă în Registrul Național al Locurilor Istorice.",
                   "category": "religious",
                   "coords": [
                         -75.169065,
@@ -32027,7 +32027,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Macedonia Free Will Baptist Church",
-                  "text": "A Baptist church in Liberty Bell Landmarks.",
+                  "text": "This historic Free Will Baptist church is listed on the National Register of Historic Places.",
                   "category": "religious",
                   "coords": [
                         -75.169065,
@@ -32218,7 +32218,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Synagogue",
-                  "text": "Die Central Synagogue ist eine historische Synagoge in New York City.",
+                  "text": "1872 von Henry Fernbach im maurischen Revival-Stil erbaute Synagoge in Manhattan.",
                   "category": "religious",
                   "coords": [
                         -73.970565,
@@ -32272,7 +32272,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York City Center",
-                  "text": "Das New York City Center ist ein bekanntes Theater- und Aufführungszentrum in New York City.",
+                  "text": "1922 als Shriners-Tempel erbautes Theater- und Konzerthaus in Manhattan.",
                   "category": "cultural",
                   "coords": [
                         -73.979399,
@@ -32308,7 +32308,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fifth Avenue Presbyterian Church",
-                  "text": "Die Fifth Avenue Presbyterian Church ist eine historische presbyterianische Kirche in New York City.",
+                  "text": "Diese 1875 erbaute Presbyterianerkirche an der Fifth Avenue in Manhattan ist ein neugotisches Wahrzeichen.",
                   "category": "religious",
                   "coords": [
                         -73.975234,
@@ -32400,7 +32400,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Synagogue",
-                  "text": "A Central Synagogue egy történelmi zsinagóga New York Cityben.",
+                  "text": "1872-ben épült, Henry Fernbach által tervezett mór stílusú zsinagóga Manhattanben.",
                   "category": "religious",
                   "coords": [
                         -73.970565,
@@ -32454,7 +32454,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York City Center",
-                  "text": "A New York City Center egy jól ismert színházi és előadóművészeti központ New York Cityben.",
+                  "text": "1922-ben épült Shriners-templom, ma előadó-művészeti központ Manhattanben.",
                   "category": "cultural",
                   "coords": [
                         -73.979399,
@@ -32490,7 +32490,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fifth Avenue Presbyterian Church",
-                  "text": "A Fifth Avenue Presbyterian Church egy történelmi presbiteriánus templom New York Cityben.",
+                  "text": "Az 1875-ben épült presbiteriánus templom az Ötödik sugárúton Manhattanban neogótikus nevezetesség.",
                   "category": "religious",
                   "coords": [
                         -73.975234,
@@ -32582,7 +32582,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Synagogue",
-                  "text": "Sinagoga Centrală este o sinagogă istorică în New York City.",
+                  "text": "Sinagogă în stil maur, construită în 1872 de Henry Fernbach în Manhattan.",
                   "category": "religious",
                   "coords": [
                         -73.970565,
@@ -32636,7 +32636,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York City Center",
-                  "text": "New York City Center este un important centru de teatru și artele spectacolului din New York City.",
+                  "text": "Teatru și sală de concerte construită în 1922 ca Templul Shriners în Manhattan.",
                   "category": "cultural",
                   "coords": [
                         -73.979399,
@@ -32672,7 +32672,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fifth Avenue Presbyterian Church",
-                  "text": "Fifth Avenue Presbyterian Church este o biserică prezbiteriană istorică din New York City.",
+                  "text": "Construită în 1875, această biserică prezbiteriană de pe Fifth Avenue din Manhattan este un reper neogotic.",
                   "category": "religious",
                   "coords": [
                         -73.975234,
@@ -32764,7 +32764,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Synagogue",
-                  "text": "Central Synagogue is a historic synagogue in New York City.",
+                  "text": "Built 1872 by Henry Fernbach in Moorish Revival style in Manhattan.",
                   "category": "religious",
                   "coords": [
                         -73.970565,
@@ -32818,7 +32818,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York City Center",
-                  "text": "New York City Center is a prominent theatre and performing arts venue in New York City.",
+                  "text": "Built 1922 as a Shriners temple, now a performing arts venue in Manhattan.",
                   "category": "cultural",
                   "coords": [
                         -73.979399,
@@ -32854,7 +32854,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fifth Avenue Presbyterian Church",
-                  "text": "Fifth Avenue Presbyterian Church is a historic Presbyterian church in New York City.",
+                  "text": "Built in 1875, this Presbyterian church on Fifth Avenue in Manhattan is a Gothic Revival landmark.",
                   "category": "religious",
                   "coords": [
                         -73.975234,
@@ -32937,7 +32937,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum at Eldridge Street",
-                  "text": "Das Museum at Eldridge Street befindet sich in der historischen Eldridge Street Synagoge von 1887.",
+                  "text": "Untergebracht in einer historischen Synagoge von 1887, erforscht dieses Museum auf der Lower East Side die jüdische Einwanderungsgeschichte.",
                   "category": "museum",
                   "coords": [
                         -73.993461,
@@ -32973,7 +32973,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Sorrows",
-                  "text": "Die Church of Our Lady of Sorrows ist eine katholische Kirche in Manhattan.",
+                  "text": "Diese 1968 erbaute römisch-katholische Kirche in Manhattans Lower East Side dient der italienisch-amerikanischen Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -73.982289,
@@ -33000,7 +33000,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Most Holy Redeemer",
-                  "text": "Die Church of the Most Holy Redeemer ist eine katholische Kirche in Manhattan.",
+                  "text": "Erbaut 1852, ist diese katholische Kirche in Manhattan dem Allerheiligsten Erlöser gewidmet.",
                   "category": "religious",
                   "coords": [
                         -73.984296,
@@ -33018,7 +33018,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "St. Mary's Church ist eine römisch-katholische Kirche in Manhattan.",
+                  "text": "Erbaut 1833, diese katholische Kirche an der Grand Street in Manhattan dient der örtlichen Pfarrei.",
                   "category": "religious",
                   "coords": [
                         -73.985082,
@@ -33036,7 +33036,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "St. Augustine's Church ist eine katholische Kirche in Manhattan.",
+                  "text": "Erbaut 1829, ist diese katholische Kirche in Manhattan eine der ältesten der Stadt.",
                   "category": "religious",
                   "coords": [
                         -73.983184,
@@ -33054,7 +33054,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Teresa's Church",
-                  "text": "St. Teresa's Church ist eine katholische Kirche in Manhattan.",
+                  "text": "Erbaut 1842, ist diese katholische Kirche in Manhattan für ihren italienischen Stil bekannt.",
                   "category": "religious",
                   "coords": [
                         -73.990469,
@@ -33072,7 +33072,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Transfiguration",
-                  "text": "Die Church of the Transfiguration ist eine katholische Kirche in Manhattan.",
+                  "text": "Erbaut 1815, diese katholische Kirche an der Mott Street in Manhattan ist eine der ältesten der Stadt.",
                   "category": "religious",
                   "coords": [
                         -73.999064,
@@ -33180,7 +33180,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John V. Lindsay East River Park",
-                  "text": "Der John V. Lindsay East River Park ist ein öffentlicher Park entlang des East River in Manhattan.",
+                  "text": "Dieser 40 Hektar große Park am East River in Manhattan wurde 1939 eröffnet.",
                   "category": "park",
                   "coords": [
                         -73.974849,
@@ -33272,7 +33272,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum at Eldridge Street",
-                  "text": "A Museum at Eldridge Street a történelmi 1887-es Eldridge Street zsinagógában található.",
+                  "text": "Egy 1887-es történelmi zsinagógában elhelyezkedő múzeum a Lower East Side-on a zsidó bevándorlás történetét vizsgálja.",
                   "category": "museum",
                   "coords": [
                         -73.993461,
@@ -33308,7 +33308,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Sorrows",
-                  "text": "A Church of Our Lady of Sorrows egy katolikus templom Manhattanben.",
+                  "text": "Az 1968-ban épült római katolikus templom Manhattan Lower East Side negyedében az olasz-amerikai közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -73.982289,
@@ -33335,7 +33335,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Most Holy Redeemer",
-                  "text": "A Church of the Most Holy Redeemer egy katolikus templom Manhattanben.",
+                  "text": "1852-ben épült, ez a manhattani katolikus templom a Legszentebb Megváltónak van szentelve.",
                   "category": "religious",
                   "coords": [
                         -73.984296,
@@ -33353,7 +33353,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "A St. Mary's Church egy római katolikus templom Manhattanben.",
+                  "text": "1833-ban épült, ez a manhattani Grand Street-i katolikus templom a helyi plébániát szolgálja.",
                   "category": "religious",
                   "coords": [
                         -73.985082,
@@ -33371,7 +33371,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "A St. Augustine's Church egy katolikus templom Manhattanben.",
+                  "text": "1829-ben épült, ez a manhattani katolikus templom a város egyik legrégebbi temploma.",
                   "category": "religious",
                   "coords": [
                         -73.983184,
@@ -33389,7 +33389,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Teresa's Church",
-                  "text": "A St. Teresa's Church egy katolikus templom Manhattanben.",
+                  "text": "1842-ben épült, ez a manhattani katolikus templom olasz stílusáról ismert.",
                   "category": "religious",
                   "coords": [
                         -73.990469,
@@ -33407,7 +33407,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Transfiguration",
-                  "text": "A Church of the Transfiguration egy katolikus templom Manhattanben.",
+                  "text": "1815-ben épült, ez a manhattani Mott Street-i katolikus templom a város egyik legrégebbi temploma.",
                   "category": "religious",
                   "coords": [
                         -73.999064,
@@ -33515,7 +33515,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John V. Lindsay East River Park",
-                  "text": "A John V. Lindsay East River Park egy nyilvános park az East River mentén Manhattanben.",
+                  "text": "Ez a 40 hektáros park a manhattani East River partján 1939-ben nyílt meg.",
                   "category": "park",
                   "coords": [
                         -73.974849,
@@ -33607,7 +33607,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum at Eldridge Street",
-                  "text": "Muzeul de pe Eldridge Street se află în istorica Sinagogă Eldridge Street din 1887.",
+                  "text": "Adăpostit într-o sinagogă istorică din 1887, acest muzeu din Lower East Side explorează istoria imigrației evreiești.",
                   "category": "museum",
                   "coords": [
                         -73.993461,
@@ -33643,7 +33643,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Sorrows",
-                  "text": "Church of Our Lady of Sorrows este o biserică catolică din Manhattan.",
+                  "text": "Construită în 1968, această biserică romano-catolică din Lower East Side din Manhattan deservește comunitatea italo-americană.",
                   "category": "religious",
                   "coords": [
                         -73.982289,
@@ -33670,7 +33670,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Most Holy Redeemer",
-                  "text": "Church of the Most Holy Redeemer este o biserică catolică din Manhattan.",
+                  "text": "Construită în 1852, această biserică catolică din Manhattan este dedicată Preasfântului Mântuitor.",
                   "category": "religious",
                   "coords": [
                         -73.984296,
@@ -33688,7 +33688,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "St. Mary's Church este o biserică romano-catolică din Manhattan.",
+                  "text": "Construită în 1833, această biserică catolică de pe Grand Street din Manhattan deservește parohia locală.",
                   "category": "religious",
                   "coords": [
                         -73.985082,
@@ -33706,7 +33706,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "St. Augustine's Church este o biserică catolică din Manhattan.",
+                  "text": "Construită în 1829, această biserică catolică din Manhattan este una dintre cele mai vechi din oraș.",
                   "category": "religious",
                   "coords": [
                         -73.983184,
@@ -33724,7 +33724,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Teresa's Church",
-                  "text": "St. Teresa's Church este o biserică catolică din Manhattan.",
+                  "text": "Construită în 1842, această biserică catolică din Manhattan este cunoscută pentru stilul său italian.",
                   "category": "religious",
                   "coords": [
                         -73.990469,
@@ -33742,7 +33742,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Transfiguration",
-                  "text": "Church of the Transfiguration este o biserică catolică din Manhattan.",
+                  "text": "Construită în 1815, această biserică catolică de pe Mott Street din Manhattan este una dintre cele mai vechi din oraș.",
                   "category": "religious",
                   "coords": [
                         -73.999064,
@@ -33850,7 +33850,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John V. Lindsay East River Park",
-                  "text": "John V. Lindsay East River Park este un parc public de-a lungul East River din Manhattan.",
+                  "text": "Acest parc de 40 de acri de pe East River din Manhattan a fost deschis în 1939.",
                   "category": "park",
                   "coords": [
                         -73.974849,
@@ -33942,7 +33942,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum at Eldridge Street",
-                  "text": "The Museum at Eldridge Street is housed in the historic 1887 Eldridge Street Synagogue.",
+                  "text": "Housed in a historic 1887 synagogue, this museum on the Lower East Side explores Jewish immigrant history.",
                   "category": "museum",
                   "coords": [
                         -73.993461,
@@ -33978,7 +33978,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Sorrows",
-                  "text": "Church of Our Lady of Sorrows is a Catholic church in Manhattan.",
+                  "text": "Built in 1968, this Roman Catholic church in Manhattan's Lower East Side serves the Italian-American community.",
                   "category": "religious",
                   "coords": [
                         -73.982289,
@@ -34005,7 +34005,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Most Holy Redeemer",
-                  "text": "Church of the Most Holy Redeemer is a Catholic church in Manhattan.",
+                  "text": "Built in 1852, this Roman Catholic church in Manhattan is dedicated to the Most Holy Redeemer.",
                   "category": "religious",
                   "coords": [
                         -73.984296,
@@ -34023,7 +34023,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "St. Mary's Church is a Roman Catholic church in Manhattan.",
+                  "text": "Built in 1833, this Catholic church on Grand Street in Manhattan serves the local parish.",
                   "category": "religious",
                   "coords": [
                         -73.985082,
@@ -34041,7 +34041,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "St. Augustine's Church is a Catholic church in Manhattan.",
+                  "text": "Built in 1829, this Catholic church in Manhattan is one of the oldest in the city.",
                   "category": "religious",
                   "coords": [
                         -73.983184,
@@ -34059,7 +34059,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Teresa's Church",
-                  "text": "St. Teresa's Church is a Catholic church in Manhattan.",
+                  "text": "Built in 1842, this Catholic church in Manhattan is known for its Italianate style.",
                   "category": "religious",
                   "coords": [
                         -73.990469,
@@ -34077,7 +34077,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Transfiguration",
-                  "text": "Church of the Transfiguration is a Catholic church in Manhattan.",
+                  "text": "Built in 1815, this Catholic church on Mott Street in Manhattan is one of the oldest in the city.",
                   "category": "religious",
                   "coords": [
                         -73.999064,
@@ -34185,7 +34185,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John V. Lindsay East River Park",
-                  "text": "John V. Lindsay East River Park is a public park along the East River in Manhattan.",
+                  "text": "This 40-acre park along the East River in Manhattan opened in 1939.",
                   "category": "park",
                   "coords": [
                         -73.974849,
@@ -34322,7 +34322,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles Fire Department Museum and Memorial",
-                  "text": "Das Los Angeles Fire Department Museum and Memorial ist ein Museum der Feuerwehr in hollywood-bowl-landmarks-v2.",
+                  "text": "In einer historischen Feuerwache untergebracht, zeigt dieses Museum in Los Angeles die Geschichte der Feuerwehr.",
                   "category": "museum",
                   "coords": [
                         -118.330037,
@@ -34349,7 +34349,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madame Tussaud's",
-                  "text": "Madame Tussaud's ist ein Wachsfigurenkabinett in hollywood-bowl-landmarks-v2.",
+                  "text": "Wachsfigurenmuseum am Hollywood Boulevard mit Hollywood-Prominenten, eröffnet 2011.",
                   "category": "museum",
                   "coords": [
                         -118.341431,
@@ -34358,7 +34358,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy Museum of Motion Pictures",
-                  "text": "Das Academy Museum of Motion Pictures ist ein Filmmuseum in hollywood-bowl-landmarks-v2.",
+                  "text": "Museum für Filmgeschichte in Los Angeles, eröffnet im September 2021.",
                   "category": "museum",
                   "coords": [
                         -118.360829,
@@ -34367,7 +34367,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Petersen Automotive Museum",
-                  "text": "Das Petersen Automotive Museum ist ein Automuseum in hollywood-bowl-landmarks-v2.",
+                  "text": "Bekanntes Automuseum in Los Angeles mit markanter roter Fassade, eröffnet 1961.",
                   "category": "museum",
                   "coords": [
                         -118.361127,
@@ -34403,7 +34403,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chartwell Mansion",
-                  "text": "Ein historisches Herrenhaus in Los Angeles.",
+                  "text": "Historisches Herrenhaus in Los Angeles, erbaut 1933.",
                   "category": "historical",
                   "coords": [
                         -118.442197,
@@ -34421,7 +34421,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Owlwood Estate",
-                  "text": "Ein historisches Herrenhaus in Holmby Hills, Los Angeles.",
+                  "text": "1937 von Robert D. Farquhar erbautes historisches Anwesen in Los Angeles, einst von Prominenten bewohnt.",
                   "category": "historical",
                   "coords": [
                         -118.426553,
@@ -34675,7 +34675,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles Fire Department Museum and Memorial",
-                  "text": "A Los Angeles Fire Department Museum and Memorial egy tűzoltósági múzeum hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Egy történelmi tűzoltóállomáson található, ez a Los Angeles-i múzeum a tűzoltóság történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -118.330037,
@@ -34702,7 +34702,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madame Tussaud's",
-                  "text": "A Madame Tussaud's egy viaszmúzeum hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Viaszmúzeum a Hollywood Boulevardon hollywoodi hírességekkel, 2011-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         -118.341431,
@@ -34711,7 +34711,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy Museum of Motion Pictures",
-                  "text": "Az Academy Museum of Motion Pictures egy filmmúzeum hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Filmtörténeti múzeum Los Angelesben, 2021 szeptemberében nyílt meg.",
                   "category": "museum",
                   "coords": [
                         -118.360829,
@@ -34720,7 +34720,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Petersen Automotive Museum",
-                  "text": "A Petersen Automotive Museum egy autómúzeum hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Ikonikus autómúzeum Los Angelesben jellegzetes vörös homlokzattal, 1961-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         -118.361127,
@@ -34756,7 +34756,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chartwell Mansion",
-                  "text": "Történelmi kúria Los Angelesben.",
+                  "text": "Történelmi kúria Los Angelesben, 1933-ban épült.",
                   "category": "historical",
                   "coords": [
                         -118.442197,
@@ -34774,7 +34774,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Owlwood Estate",
-                  "text": "Történelmi kúria a Los Angeles-i Holmby Hillsben.",
+                  "text": "1937-ben Robert D. Farquhar által épített történelmi birtok Los Angelesben, egykor hírességek otthona.",
                   "category": "historical",
                   "coords": [
                         -118.426553,
@@ -35028,7 +35028,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles Fire Department Museum and Memorial",
-                  "text": "Muzeul și Memorialul Departamentului de Pompieri din Los Angeles este un muzeu al pompierilor în hollywood-bowl-landmarks-v2.",
+                  "text": "Adăpostit într-o stație de pompieri istorică, acest muzeu din Los Angeles prezintă istoria pompierilor.",
                   "category": "museum",
                   "coords": [
                         -118.330037,
@@ -35055,7 +35055,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madame Tussaud's",
-                  "text": "Madame Tussaud's este un muzeu de figuri de ceară în hollywood-bowl-landmarks-v2.",
+                  "text": "Muzeu de ceară pe Hollywood Boulevard cu celebrități de la Hollywood, deschis în 2011.",
                   "category": "museum",
                   "coords": [
                         -118.341431,
@@ -35064,7 +35064,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy Museum of Motion Pictures",
-                  "text": "Muzeul Academiei de Film este un muzeu al filmului în hollywood-bowl-landmarks-v2.",
+                  "text": "Muzeu dedicat istoriei filmului în Los Angeles, deschis în septembrie 2021.",
                   "category": "museum",
                   "coords": [
                         -118.360829,
@@ -35073,7 +35073,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Petersen Automotive Museum",
-                  "text": "Muzeul Auto Petersen este un muzeu auto în hollywood-bowl-landmarks-v2.",
+                  "text": "Muzeu auto iconic în Los Angeles cu o fațadă roșie distinctă, deschis în 1961.",
                   "category": "museum",
                   "coords": [
                         -118.361127,
@@ -35109,7 +35109,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chartwell Mansion",
-                  "text": "Un conac istoric în Los Angeles.",
+                  "text": "Conac istoric în Los Angeles, construit în 1933.",
                   "category": "historical",
                   "coords": [
                         -118.442197,
@@ -35127,7 +35127,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Owlwood Estate",
-                  "text": "Un conac istoric în Holmby Hills, Los Angeles.",
+                  "text": "Proprietate istorică construită în 1937 de Robert D. Farquhar în Los Angeles, cândva deținută de celebrități.",
                   "category": "historical",
                   "coords": [
                         -118.426553,
@@ -35381,7 +35381,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles Fire Department Museum and Memorial",
-                  "text": "The Los Angeles Fire Department Museum and Memorial is a fire department museum in hollywood-bowl-landmarks-v2.",
+                  "text": "Housed in a historic fire station, this museum in Los Angeles showcases firefighting history.",
                   "category": "museum",
                   "coords": [
                         -118.330037,
@@ -35408,7 +35408,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madame Tussaud's",
-                  "text": "Madame Tussaud's is a wax museum in hollywood-bowl-landmarks-v2.",
+                  "text": "Wax museum on Hollywood Boulevard featuring Hollywood celebrities, opened in 2011.",
                   "category": "museum",
                   "coords": [
                         -118.341431,
@@ -35417,7 +35417,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy Museum of Motion Pictures",
-                  "text": "The Academy Museum of Motion Pictures is a film museum in hollywood-bowl-landmarks-v2.",
+                  "text": "Museum dedicated to film history in Los Angeles, opened in September 2021.",
                   "category": "museum",
                   "coords": [
                         -118.360829,
@@ -35426,7 +35426,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Petersen Automotive Museum",
-                  "text": "The Petersen Automotive Museum is an automobile museum in hollywood-bowl-landmarks-v2.",
+                  "text": "Iconic automotive museum in Los Angeles with a distinct red facade, opened in 1961.",
                   "category": "museum",
                   "coords": [
                         -118.361127,
@@ -35462,7 +35462,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chartwell Mansion",
-                  "text": "A historic manor in Los Angeles.",
+                  "text": "Historic mansion in Los Angeles, built in 1933.",
                   "category": "historical",
                   "coords": [
                         -118.442197,
@@ -35480,7 +35480,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Owlwood Estate",
-                  "text": "A historic manor in Holmby Hills, Los Angeles.",
+                  "text": "Historic estate built 1937 by Robert D. Farquhar in Los Angeles, once home to celebrities.",
                   "category": "historical",
                   "coords": [
                         -118.426553,

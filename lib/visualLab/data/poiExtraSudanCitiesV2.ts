@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraSudanCitiesV2: POI[] = [
   {
-    id: "khartoum-cities-v2",
+    id: "khartoum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horses Race",
+                  "text": "Ein Theatersaal und eine Pferderennstrecke im Stadtgebiet von Khartum.",
+                  "category": "cultural",
+                  "coords": [
+                        32.527005,
+                        15.556437
+                  ]
+            },
+            {
+                  "name": "Haj Saeed House",
+                  "text": "Ein Aussichtspunkt, der von einem traditionellen Haus in Khartum städtische Perspektiven bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.541166,
+                        15.55699
+                  ]
+            },
+            {
+                  "name": "Alnasr C",
+                  "text": "Eine Wohnanlage, die für ihre lokale Architektur in Khartum bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549787,
+                        15.559014
+                  ]
+            },
+            {
+                  "name": "Majestic hall",
+                  "text": "Eine große Halle, die als lokale Museumsausstellungsfläche in Khartum dient.",
+                  "category": "museum",
+                  "coords": [
+                        32.557138,
+                        15.559837
+                  ]
+            },
+            {
+                  "name": "Bashir Moh. Bashir House",
+                  "text": "Ein Aussichtspunkt an einem markanten Privathaus in Khartum.",
+                  "category": "natural",
+                  "coords": [
+                        32.49778,
+                        15.47502
+                  ]
+            },
+            {
+                  "name": "Royal Pond",
+                  "text": "Ein thematischer Freizeitpark rund um ein Wasserspiel in Khartum.",
+                  "category": "recreational",
+                  "coords": [
+                        32.545278,
+                        15.561632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horses Race",
+                  "text": "Lovas színház és versenypálya Kartúm városában.",
+                  "category": "cultural",
+                  "coords": [
+                        32.527005,
+                        15.556437
+                  ]
+            },
+            {
+                  "name": "Haj Saeed House",
+                  "text": "Egy helyi kilátópont, amely városi perspektívákat kínál egy hagyományos kartúmi házból.",
+                  "category": "natural",
+                  "coords": [
+                        32.541166,
+                        15.55699
+                  ]
+            },
+            {
+                  "name": "Alnasr C",
+                  "text": "Egy helyi építészetéről ismert lakóépület-komplexum Kartúmban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549787,
+                        15.559014
+                  ]
+            },
+            {
+                  "name": "Majestic hall",
+                  "text": "Egy nagyszerű terem, amely helyi múzeumi kiállítótérként működik Kartúmban.",
+                  "category": "museum",
+                  "coords": [
+                        32.557138,
+                        15.559837
+                  ]
+            },
+            {
+                  "name": "Bashir Moh. Bashir House",
+                  "text": "Egy kilátó egy jellegzetes kartúmi magánháznál.",
+                  "category": "natural",
+                  "coords": [
+                        32.49778,
+                        15.47502
+                  ]
+            },
+            {
+                  "name": "Royal Pond",
+                  "text": "Egy vízi attrakció köré épült tematikus rekreációs park Kartúmban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.545278,
+                        15.561632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horses Race",
+                  "text": "Un teatru ecvestru și un loc de curse situat în zona urbană din Khartoum.",
+                  "category": "cultural",
+                  "coords": [
+                        32.527005,
+                        15.556437
+                  ]
+            },
+            {
+                  "name": "Haj Saeed House",
+                  "text": "Un punct de belvedere local care oferă perspective urbane dintr-o casă tradițională din Khartoum.",
+                  "category": "natural",
+                  "coords": [
+                        32.541166,
+                        15.55699
+                  ]
+            },
+            {
+                  "name": "Alnasr C",
+                  "text": "Un complex rezidențial de apartamente cunoscut pentru arhitectura sa locală din Khartoum.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549787,
+                        15.559014
+                  ]
+            },
+            {
+                  "name": "Majestic hall",
+                  "text": "O sală mare care funcționează ca spațiu local pentru expoziții de muzeu în Khartoum.",
+                  "category": "museum",
+                  "coords": [
+                        32.557138,
+                        15.559837
+                  ]
+            },
+            {
+                  "name": "Bashir Moh. Bashir House",
+                  "text": "Un punct de observație situat la o reședință privată distinctă din Khartoum.",
+                  "category": "natural",
+                  "coords": [
+                        32.49778,
+                        15.47502
+                  ]
+            },
+            {
+                  "name": "Royal Pond",
+                  "text": "Un parc de agrement tematic centrat pe o caracteristică de apă în Khartoum.",
+                  "category": "recreational",
+                  "coords": [
+                        32.545278,
+                        15.561632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horses Race",
+                  "text": "An equestrian theatre and racing venue located in the Khartoum urban area.",
+                  "category": "cultural",
+                  "coords": [
+                        32.527005,
+                        15.556437
+                  ]
+            },
+            {
+                  "name": "Haj Saeed House",
+                  "text": "A local viewpoint offering urban perspectives from a traditional Khartoum house.",
+                  "category": "natural",
+                  "coords": [
+                        32.541166,
+                        15.55699
+                  ]
+            },
+            {
+                  "name": "Alnasr Compound",
+                  "text": "A residential apartment complex known for its local architecture in Khartoum.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549787,
+                        15.559014
+                  ]
+            },
+            {
+                  "name": "Majestic hall",
+                  "text": "A grand hall operating as a local museum exhibit space in Khartoum.",
+                  "category": "museum",
+                  "coords": [
+                        32.557138,
+                        15.559837
+                  ]
+            },
+            {
+                  "name": "Bashir Moh. Bashir House",
+                  "text": "A viewpoint situated at a distinct private residence in Khartoum.",
+                  "category": "natural",
+                  "coords": [
+                        32.49778,
+                        15.47502
+                  ]
+            },
+            {
+                  "name": "Royal Pond",
+                  "text": "A themed recreational park centered around a water feature in Khartoum.",
+                  "category": "recreational",
+                  "coords": [
+                        32.545278,
+                        15.561632
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SD-KH",
     coords: [32.5322, 15.5517],
@@ -59,7 +284,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "omdurman-cities-v2",
+    id: "omdurman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Madhi's Tomb",
+                  "text": "Dieses markante islamische Mausoleum verfügt über eine auffällige silberne Kuppel, die die Ruhestätte von Muhammad Ahmad markiert.",
+                  "category": "historical",
+                  "coords": [
+                        32.488541,
+                        15.639547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Madhi's Tomb",
+                  "text": "Ez a kiemelkedő iszlám mauzóleum egy jellegzetes ezüstkupolával rendelkezik, amely Muhammad Ahmad nyughelyét jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        32.488541,
+                        15.639547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Madhi's Tomb",
+                  "text": "Acest mausoleu islamic proeminent prezintă o cupolă argintie distinctivă care marchează locul de odihnă al lui Muhammad Ahmad.",
+                  "category": "historical",
+                  "coords": [
+                        32.488541,
+                        15.639547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Madhi's Tomb",
+                  "text": "This prominent Islamic mausoleum features a distinctive silver dome marking the resting place of Muhammad Ahmad.",
+                  "category": "historical",
+                  "coords": [
+                        32.488541,
+                        15.639547
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-KH",
     coords: [32.4777, 15.6445],
@@ -836,7 +1106,88 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "port-sudan-cities-v2",
+    id: "port-sudan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diving Centre Red Sea Secrets (March2023)",
+                  "text": "Dieses Tauchzentrum an der Küste bietet geführte Unterwasserexkursionen zu den bunten Korallenriffen vor Port Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        37.220486,
+                        19.622041
+                  ]
+            },
+            {
+                  "name": "Port Sudan Breach",
+                  "text": "Die Port Sudan Breach bietet von der Küste aus einen weiten Blick über das Rote Meer und den belebten Schiffsverkehr.",
+                  "category": "natural",
+                  "coords": [
+                        37.223972,
+                        19.610515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diving Centre Red Sea Secrets (March2023)",
+                  "text": "Ez a parti búvárközpont vezetett víz alatti kirándulásokat kínál a Port Sudan előtti színes korallzátonyokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        37.220486,
+                        19.622041
+                  ]
+            },
+            {
+                  "name": "Port Sudan Breach",
+                  "text": "A Port Sudan Breach a partról széles kilátást nyújt a Vörös-tengerre és a forgalmas hajóforgalomra.",
+                  "category": "natural",
+                  "coords": [
+                        37.223972,
+                        19.610515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diving Centre Red Sea Secrets (March2023)",
+                  "text": "Acest centru de scufundări de coastă oferă excursii subacvatice ghidate către recifele de corali colorate din largul Port Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        37.220486,
+                        19.622041
+                  ]
+            },
+            {
+                  "name": "Port Sudan Breach",
+                  "text": "Port Sudan Breach oferă de pe coastă vederi ample asupra Mării Roșii și a traficului maritim aglomerat.",
+                  "category": "natural",
+                  "coords": [
+                        37.223972,
+                        19.610515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diving Centre Red Sea Secrets (March2023)",
+                  "text": "This coastal diving center offers guided underwater excursions to the colorful coral reefs off the shore of Port Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        37.220486,
+                        19.622041
+                  ]
+            },
+            {
+                  "name": "Port Sudan Breach",
+                  "text": "The Port Sudan Breach offers sweeping views from the shoreline over the Red Sea and its busy maritime traffic.",
+                  "category": "natural",
+                  "coords": [
+                        37.223972,
+                        19.610515
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SD-RS",
     coords: [37.2164, 19.6175],
@@ -890,7 +1241,160 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kassala-cities-v2",
+    id: "kassala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Altaka Family Park",
+                  "text": "Der Altaka Family Park ist ein Themenpark in Kassala mit Fahrgeschäften und Erholungsräumen am Fuße der Taka-Berge.",
+                  "category": "recreational",
+                  "coords": [
+                        36.394359,
+                        15.45839
+                  ]
+            },
+            {
+                  "name": "Bustan Family Park",
+                  "text": "Der Bustan Family Park ist eine beliebte Outdoor-Attraktion in Kassala und bietet angelegte Gärten und schattige Picknickbereiche für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        36.376755,
+                        15.438363
+                  ]
+            },
+            {
+                  "name": "Gash Barka riverside picnic spot",
+                  "text": "Der Picknickplatz am Ufer des Gash Barka ist eine ruhige Attraktion, an der Besucher am saisonalen Wasser des Gash-Flusses in Kassala entspannen können.",
+                  "category": "landmark",
+                  "coords": [
+                        36.389346,
+                        15.449727
+                  ]
+            },
+            {
+                  "name": "Tajooj Theater",
+                  "text": "Das Tajooj-Theater ist ein lokaler kultureller Veranstaltungsort in Kassala, an dem Theateraufführungen und Gemeinschaftsveranstaltungen unter freiem Himmel stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        36.401186,
+                        15.453692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Altaka Family Park",
+                  "text": "Az Altaka Family Park egy vidámpark Kassalában, amely szórakoztató utazásokat és rekreációs tereket kínál a Taka-hegység lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        36.394359,
+                        15.45839
+                  ]
+            },
+            {
+                  "name": "Bustan Family Park",
+                  "text": "A Bustan Family Park egy népszerű szabadtéri látványosság Kassalában, amely parkosított kerteket és árnyékos piknikezőhelyeket biztosít a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.376755,
+                        15.438363
+                  ]
+            },
+            {
+                  "name": "Gash Barka riverside picnic spot",
+                  "text": "A Gash Barka folyóparti piknikezőhely egy csendes látványosság, ahol a látogatók pihenhetnek a Gash folyó szezonális vizei mellett Kassalában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.389346,
+                        15.449727
+                  ]
+            },
+            {
+                  "name": "Tajooj Theater",
+                  "text": "A Tajooj Színház egy helyi kulturális helyszín Kassalában, amely szabadtéri környezetben ad otthont színházi előadásoknak és közösségi eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        36.401186,
+                        15.453692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Altaka Family Park",
+                  "text": "Altaka Family Park este un parc tematic în Kassala, cu atracții de agrement și spații de recreere cuibărite la poalele Munților Taka.",
+                  "category": "recreational",
+                  "coords": [
+                        36.394359,
+                        15.45839
+                  ]
+            },
+            {
+                  "name": "Bustan Family Park",
+                  "text": "Bustan Family Park este o atracție populară în aer liber din Kassala, oferind grădini amenajate și zone de picnic umbrite pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        36.376755,
+                        15.438363
+                  ]
+            },
+            {
+                  "name": "Gash Barka riverside picnic spot",
+                  "text": "Locul de picnic de pe malul râului Gash Barka este o atracție liniștită, unde vizitatorii se pot relaxa lângă apele sezoniere ale râului Gash din Kassala.",
+                  "category": "landmark",
+                  "coords": [
+                        36.389346,
+                        15.449727
+                  ]
+            },
+            {
+                  "name": "Tajooj Theater",
+                  "text": "Teatrul Tajooj este un spațiu cultural local din Kassala care găzduiește spectacole de teatru și evenimente comunitare într-un cadru în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        36.401186,
+                        15.453692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altaka Family Park",
+                  "text": "Altaka Family Park is a theme park in Kassala featuring amusement rides and recreational spaces nestled near the foot of the Taka Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        36.394359,
+                        15.45839
+                  ]
+            },
+            {
+                  "name": "Bustan Family Park",
+                  "text": "Bustan Family Park is a popular outdoor attraction in Kassala providing landscaped gardens and shaded picnic areas for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        36.376755,
+                        15.438363
+                  ]
+            },
+            {
+                  "name": "Gash Barka riverside picnic spot",
+                  "text": "The Gash Barka riverside picnic spot is a tranquil attraction where visitors can relax by the seasonal waters of the Gash River in Kassala.",
+                  "category": "landmark",
+                  "coords": [
+                        36.389346,
+                        15.449727
+                  ]
+            },
+            {
+                  "name": "Tajooj Theater",
+                  "text": "Tajooj Theater is a local cultural venue in Kassala that hosts theatrical performances and community events in an open-air setting.",
+                  "category": "cultural",
+                  "coords": [
+                        36.401186,
+                        15.453692
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SD-KS",
     coords: [36.4, 15.45],
@@ -998,7 +1502,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "wad-madani-cities-v2",
+    id: "wad-madani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Um Barona Park",
+                  "text": "Der Um Barona Park ist eine Attraktion in Wad Madani und bietet einen grünen Erholungsraum mit Schattenbäumen an den Ufern des Blauen Nils.",
+                  "category": "landmark",
+                  "coords": [
+                        33.557423,
+                        14.426439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Um Barona Park",
+                  "text": "Az Um Barona Park egy látványosság Wad Madaniban, amely zöld rekreációs területet kínál árnyékot adó fákkal a Kék-Nílus partján.",
+                  "category": "landmark",
+                  "coords": [
+                        33.557423,
+                        14.426439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Um Barona Park",
+                  "text": "Parcul Um Barona este o atracție în Wad Madani, care oferă un spațiu de recreere verde cu copaci umbroși de-a lungul malurilor Nilului Albastru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.557423,
+                        14.426439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Um Barona Park",
+                  "text": "Um Barona Park is an attraction in Wad Madani offering a green recreational space with shade trees along the banks of the Blue Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        33.557423,
+                        14.426439
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SD-GZ",
     coords: [33.5, 14.4],
@@ -1436,7 +1985,88 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "geneina-cities-v2",
+    id: "geneina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qaser al Sultan",
+                  "text": "Diese historische Festungsanlage in geneina-cities-v2 ist als Sultanschloss bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        22.448558,
+                        13.427206
+                  ]
+            },
+            {
+                  "name": "Kadja River",
+                  "text": "Der Kadja River ist eine markante Wasserstraße und Naturattraktion in geneina-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        22.45716,
+                        13.446819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qaser al Sultan",
+                  "text": "Ezt a geneina-cities-v2-ben található történelmi erődítményt Szultán-kastélyként ismerik.",
+                  "category": "castle",
+                  "coords": [
+                        22.448558,
+                        13.427206
+                  ]
+            },
+            {
+                  "name": "Kadja River",
+                  "text": "A Kadja-folyó egy jelentős vízi út és természeti látványosság geneina-cities-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.45716,
+                        13.446819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qaser al Sultan",
+                  "text": "Această fortificație istorică din geneina-cities-v2 este cunoscută sub numele de Castelul Sultanului.",
+                  "category": "castle",
+                  "coords": [
+                        22.448558,
+                        13.427206
+                  ]
+            },
+            {
+                  "name": "Kadja River",
+                  "text": "Râul Kadja este o cale navigabilă proeminentă și o atracție naturală în geneina-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        22.45716,
+                        13.446819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultan Castle",
+                  "text": "This historic fortification in geneina-cities-v2 is known as the Sultan Castle.",
+                  "category": "castle",
+                  "coords": [
+                        22.448558,
+                        13.427206
+                  ]
+            },
+            {
+                  "name": "Kadja River",
+                  "text": "The Kadja River is a prominent waterway and natural attraction in geneina-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        22.45716,
+                        13.446819
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SD-WD",
     coords: [22.45, 13.45],
@@ -1706,7 +2336,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kaduqli-cities-v2",
+    id: "kaduqli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Global AID HAND OFGICR SK",
+                  "text": "Eine lokale organisatorische Einrichtung, die sich in der Stadt Kaduqli befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.714505,
+                        11.011546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Global AID HAND OFGICR SK",
+                  "text": "Helyi szervezet épülete és látványossága Kaduqli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.714505,
+                        11.011546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Global AID HAND OFGICR SK",
+                  "text": "O atracție organizațională locală cu sediul în orașul Kaduqli.",
+                  "category": "landmark",
+                  "coords": [
+                        29.714505,
+                        11.011546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Global AID HAND OFGICR SK",
+                  "text": "A local organizational attraction based in the city of Kaduqli.",
+                  "category": "landmark",
+                  "coords": [
+                        29.714505,
+                        11.011546
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SD-SK",
     coords: [29.7167, 11.0167],
@@ -1979,7 +2654,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "suakin-cities-v2",
+    id: "suakin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "SAWAKIN ADASI",
+                  "text": "Sawakin Adasi ist eine Insel mit den verfallenden Gebäuden aus Korallenblöcken, die von einem einst florierenden Hafen am Roten Meer übrig geblieben sind.",
+                  "category": "historical",
+                  "coords": [
+                        37.337818,
+                        19.112944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SAWAKIN ADASI",
+                  "text": "Sawakin Adasi egy sziget, amely egy egykor virágzó vörös-tengeri kikötőből megmaradt, koralltömbökből épült, omladozó épületeknek ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        37.337818,
+                        19.112944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SAWAKIN ADASI",
+                  "text": "Sawakin Adasi este o insulă care găzduiește clădirile în descompunere realizate din blocuri de corali, rămase de la un port odinioară înfloritor de la Marea Roșie.",
+                  "category": "historical",
+                  "coords": [
+                        37.337818,
+                        19.112944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SAWAKIN ADASI",
+                  "text": "Sawakin Adasi is an island featuring the crumbling buildings made of coral blocks left over from a once-thriving Red Sea port.",
+                  "category": "historical",
+                  "coords": [
+                        37.337818,
+                        19.112944
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-RS",
     coords: [37.332, 19.1065],
@@ -2339,7 +3059,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "merowe-cities-v2",
+    id: "merowe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sanam",
+                  "text": "Diese denkmalgeschützte Ausgrabungsstätte liegt in merowe-cities-v2 und bewahrt antike Überreste aus der Region.",
+                  "category": "historical",
+                  "coords": [
+                        31.819121,
+                        18.483477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sanam",
+                  "text": "Ez a merowe-cities-v2-ben található műemlékvédelem alatt álló régészeti lelőhely a régió ősi maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        31.819121,
+                        18.483477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sanam",
+                  "text": "Acest sit arheologic de patrimoniu din merowe-cities-v2 păstrează vestigii antice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        31.819121,
+                        18.483477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sanam",
+                  "text": "This heritage-listed archaeological site in merowe-cities-v2 preserves ancient remains from the region.",
+                  "category": "historical",
+                  "coords": [
+                        31.819121,
+                        18.483477
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-NO",
     coords: [31.8028, 18.4728],
@@ -2660,7 +3425,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "umm-ruwaba-cities-v2",
+    id: "umm-ruwaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Um Rawaba",
+                  "text": "Ein malerischer Ort, der einen Aussichtspunkt über die halbtrockene Landschaft von Umm Ruwaba bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.210489,
+                        12.91888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Um Rawaba",
+                  "text": "Festői hely, amely kilátást nyújt Umm Ruwaba félszáraz tájára.",
+                  "category": "natural",
+                  "coords": [
+                        31.210489,
+                        12.91888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Um Rawaba",
+                  "text": "Un loc pitoresc ce oferă o vedere de ansamblu asupra peisajului semiarid din Umm Ruwaba.",
+                  "category": "natural",
+                  "coords": [
+                        31.210489,
+                        12.91888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Um Rawaba",
+                  "text": "A scenic spot providing a vantage point over the semi-arid landscape of Umm Ruwaba.",
+                  "category": "natural",
+                  "coords": [
+                        31.210489,
+                        12.91888
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-NK",
     coords: [31.2167, 12.9069],
@@ -2720,7 +3530,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "bara-cities-v2",
+    id: "bara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barah city",
+                  "text": "Ein Aussichtspunkt mit Blick auf das sandige Gelände der Stadt Bara.",
+                  "category": "natural",
+                  "coords": [
+                        30.366667,
+                        13.683333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barah city",
+                  "text": "Kilátópont, amely Bara város homokos területére néz.",
+                  "category": "natural",
+                  "coords": [
+                        30.366667,
+                        13.683333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barah city",
+                  "text": "Un punct de belvedere cu vedere la terenul nisipos al orașului Bara.",
+                  "category": "natural",
+                  "coords": [
+                        30.366667,
+                        13.683333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barah city",
+                  "text": "A viewpoint overlooking the sandy, semi-arid terrain surrounding the town of Bara.",
+                  "category": "natural",
+                  "coords": [
+                        30.366667,
+                        13.683333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-NK",
     coords: [30.3708, 13.7025],
@@ -3440,7 +4295,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "rufaa-cities-v2",
+    id: "rufaa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "Die Roufa'a-Brücke ist eine bemerkenswerte Überquerungsattraktion, die den Blauen Nil überspannt, lokale Gemeinden verbindet und Flussblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "A Roufa'a híd egy nevezetes átkelőhely, amely a Kék-Níluson ível át, összekötve a helyi közösségeket és kilátást nyújtva a folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "Podul Roufa'a este o atracție de trecere notabilă care traversează Nilul Albastru, conectând comunitățile locale și oferind vedere la râu.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "Roufa'a Bridge is a notable crossing attraction that spans the Blue Nile, connecting local communities and offering river views.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-GZ",
     coords: [33.3236, 14.7578],

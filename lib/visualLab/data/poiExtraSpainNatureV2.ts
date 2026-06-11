@@ -5195,7 +5195,1312 @@ export const spainNatureV2: POI[] = [
     }
   },
   {
-    id: "spain-taburiente-nature-v2",
+    id: "spain-taburiente-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Arqueológico Benahorita",
+                  "text": "Das Museo Arqueológico Benahorita widmet sich der Kultur und Geschichte der indigenen Benahoarita-Bevölkerung von La Palma.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910198,
+                        28.656808
+                  ]
+            },
+            {
+                  "name": "Ermita del Buen Jesús",
+                  "text": "Die Ermita del Buen Jesús in Tijarafe ist ein historisches Denkmal, dessen Ursprünge auf das Jahr 1584 zurückgehen.",
+                  "category": "historical",
+                  "coords": [
+                        -17.953725,
+                        28.70243
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de El Paso",
+                  "text": "Das Ayuntamiento de El Paso dient als administratives Zentrum der Gemeinde auf der vulkanischen Insel La Palma.",
+                  "category": "historical",
+                  "coords": [
+                        -17.880266,
+                        28.651977
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Las Nieves",
+                  "text": "Das Santuario de Nuestra Señora de Las Nieves beherbergt die Schutzpatronin von La Palma und ist ein bedeutendes Pilgerziel der Insel.",
+                  "category": "religious",
+                  "coords": [
+                        -17.782164,
+                        28.694351
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Remedios",
+                  "text": "Die Iglesia de los Remedios ist eine markante Pfarrkirche im Zentrum der Stadt Los Llanos de Aridane.",
+                  "category": "religious",
+                  "coords": [
+                        -17.913118,
+                        28.659166
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Angustias",
+                  "text": "Nuestra Señora de las Angustias ist eine heilige Stätte nahe der tiefen, zerklüfteten Schluchten von Los Llanos de Aridane.",
+                  "category": "religious",
+                  "coords": [
+                        -17.935002,
+                        28.661576
+                  ]
+            },
+            {
+                  "name": "Pico Bejenado",
+                  "text": "Der Pico Bejenado ist ein markanter Berggipfel, der einen Panoramablick über den Nationalpark Caldera de Taburiente bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876874,
+                        28.692504
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Barranco del Jorado",
+                  "text": "Das im Oktober 1999 gegründete Naturdenkmal Barranco del Jorado schützt eine steile Schluchtenlandschaft auf der Insel La Palma.",
+                  "category": "natural",
+                  "coords": [
+                        -17.960794,
+                        28.70311
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Idafe",
+                  "text": "Das Monumento Natural de Idafe umgibt eine markante, freistehende Felsformation, die den indigenen Benahoaritas heilig war.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875989,
+                        28.712585
+                  ]
+            },
+            {
+                  "name": "Paisaje Protegido Barranco de Las Angustias",
+                  "text": "Das Schutzgebiet Barranco de Las Angustias umfasst eine dramatische, tiefe Schlucht, die den natürlichen Abfluss der Caldera de Taburiente bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.910271,
+                        28.690887
+                  ]
+            },
+            {
+                  "name": "Museo del Mojo",
+                  "text": "Das Museo del Mojo ist ein spezialisiertes Museum, das die Geschichte und Zubereitung der traditionellen kanarischen Mojo-Saucen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -17.934545,
+                        28.642898
+                  ]
+            },
+            {
+                  "name": "Museo del Puro Palmero",
+                  "text": "Das Museo del Puro Palmero beleuchtet die traditionsreiche Handwerkskunst der Zigarren- und Tabakherstellung auf La Palma.",
+                  "category": "museum",
+                  "coords": [
+                        -17.78734,
+                        28.667423
+                  ]
+            },
+            {
+                  "name": "Ermita Nuestra Señora de la Concepción",
+                  "text": "Die Ermita Nuestra Señora de la Concepción ist eine malerische religiöse Einsiedelei inmitten der landschaftlichen Idylle von La Palma.",
+                  "category": "religious",
+                  "coords": [
+                        -17.779338,
+                        28.67459
+                  ]
+            },
+            {
+                  "name": "Ermita de la Virgen del Pino",
+                  "text": "Die Ermita de la Virgen del Pino ist ein verehrter Schrein, der sich in der Nähe einer berühmten, alten Kiefer in El Paso befindet.",
+                  "category": "religious",
+                  "coords": [
+                        -17.841416,
+                        28.662999
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Isidro Labrador",
+                  "text": "Die Iglesia de San Isidro Labrador ist eine lokale Pfarrkirche, die dem Schutzpatron der Bauern gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -17.908724,
+                        28.632032
+                  ]
+            },
+            {
+                  "name": "Risco de Las Pareditas",
+                  "text": "Der Risco de Las Pareditas ist ein steiler, schroffer Felsen, der einen weiten Blick auf das bergige Landesinnere von La Palma bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.912041,
+                        28.709716
+                  ]
+            },
+            {
+                  "name": "la Cumbrecita",
+                  "text": "La Cumbrecita ist ein bekannter Gebirgspass und Aussichtspunkt, der als wichtiges Tor für den direkten Blick in die Caldera de Taburiente dient.",
+                  "category": "natural",
+                  "coords": [
+                        -17.853213,
+                        28.699573
+                  ]
+            },
+            {
+                  "name": "Pico del Cedro",
+                  "text": "Der Pico del Cedro ist ein hoher Berggipfel auf La Palma, der sich durch seine steilen Hänge und alpine Vegetation auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.843134,
+                        28.711856
+                  ]
+            },
+            {
+                  "name": "Pico de La Sabina",
+                  "text": "Der Pico de La Sabina ist ein markanter Gipfel, der sich deutlich aus dem vulkanischen Terrain der Insel La Palma erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.8377,
+                        28.719268
+                  ]
+            },
+            {
+                  "name": "Mirador de la Concepción",
+                  "text": "Der Mirador de la Concepción bietet von einem hohen vulkanischen Aussichtspunkt atemberaubende Ausblicke auf Santa Cruz de La Palma.",
+                  "category": "natural",
+                  "coords": [
+                        -17.778319,
+                        28.673572
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Gómez Felipe",
+                  "text": "Der Parque Antonio Gómez Felipe ist ein botanischer Park, der für seine einzigartige vulkanische Landschaftsgestaltung und endemische Flora bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -17.913509,
+                        28.654098
+                  ]
+            },
+            {
+                  "name": "Zona de Especial Protección El Paso y Santa Cruz de La Palma",
+                  "text": "Das im Oktober 1999 ausgewiesene Sonderschutzgebiet El Paso und Santa Cruz de La Palma bewahrt wichtige natürliche Lebensräume im Zentrum der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        -17.85444,
+                        28.672559
+                  ]
+            },
+            {
+                  "name": "Playa de El Puerto",
+                  "text": "Die Playa de El Puerto ist ein Küstenstrand, der sich durch seinen dunklen vulkanischen Sand am Atlantischen Ozean auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.94679,
+                        28.650916
+                  ]
+            },
+            {
+                  "name": "Maroparque",
+                  "text": "Der Maroparque ist ein Zoo zur Rettung exotischer Tiere, der an den steilen Hängen einer grünen Schlucht auf La Palma erbaut wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.778308,
+                        28.682127
+                  ]
+            },
+            {
+                  "name": "Benehauno - Centro de interpretación de petroglifos",
+                  "text": "Das Interpretationszentrum Benehauno bietet detaillierte Ausstellungen zu den alten Steinpetroglyphen, die von den Ureinwohnern La Palmas angefertigt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -17.890065,
+                        28.655242
+                  ]
+            },
+            {
+                  "name": "Castillo de la Virgen",
+                  "text": "Das Castillo de la Virgen ist eine symbolische Burg in Santa Cruz de La Palma, die eine zentrale Rolle bei den Festlichkeiten der Bajada de la Virgen spielt.",
+                  "category": "castle",
+                  "coords": [
+                        -17.914863,
+                        28.656466
+                  ]
+            },
+            {
+                  "name": "Galeriea de Arte García de Diego",
+                  "text": "Die Galeriea de Arte García de Diego ist ein kultureller Kunstraum, in dem zeitgenössische Werke lokaler und regionaler kanarischer Künstler gezeigt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910596,
+                        28.658297
+                  ]
+            },
+            {
+                  "name": "Felsgravuren von La Fajana",
+                  "text": "Die Grabados rupéstres de La Fajana sind eine archäologische Stätte mit mysteriösen spiralförmigen und geometrischen Felszeichnungen der vorspanischen Benahoaritas.",
+                  "category": "historical",
+                  "coords": [
+                        -17.883622,
+                        28.657593
+                  ]
+            },
+            {
+                  "name": "Piedra del Guanche",
+                  "text": "Die Piedra del Guanche ist ein bedeutender archäologischer Felsbrocken, der antike indigene Petroglyphen auf La Palma bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -17.936842,
+                        28.674206
+                  ]
+            },
+            {
+                  "name": "El Árbol de la Graja",
+                  "text": "El Árbol de la Graja ist ein symbolträchtiges monumentales Baumdenkmal, das die einheimische Alpenkrähe ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -17.841462,
+                        28.650406
+                  ]
+            },
+            {
+                  "name": "Felsgravuren von El Cementerio",
+                  "text": "Die Grabados rupéstres del Cementerio in El Verde bestehen aus antiker Felskunst der Ureinwohner in der Nähe des örtlichen Friedhofs.",
+                  "category": "historical",
+                  "coords": [
+                        -17.882234,
+                        28.655911
+                  ]
+            },
+            {
+                  "name": "Alter Dreschplatz",
+                  "text": "Der Alte Dreschplatz ist eine historische archäologische Stätte, an der traditionelle Getreidedreschplätze der Landwirtschaft erhalten geblieben sind.",
+                  "category": "historical",
+                  "coords": [
+                        -17.877096,
+                        28.668343
+                  ]
+            },
+            {
+                  "name": "Felsgravuren des Lomo del Estrecho",
+                  "text": "Die Felsgravuren vom Lomo del Estrecho bieten wichtige archäologische Einblicke in die prähistorischen Steinbearbeitungstechniken der Kanarischen Inseln.",
+                  "category": "historical",
+                  "coords": [
+                        -17.860612,
+                        28.686834
+                  ]
+            },
+            {
+                  "name": "Felsgravuren Lomo Gordo",
+                  "text": "Die Gravuren von Lomo Gordo weisen eine dichte Ansammlung von vorspanischen geometrischen Symbolen auf, die in das vulkanische Gestein geritzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -17.868045,
+                        28.682373
+                  ]
+            },
+            {
+                  "name": "Felsgravuren Lomo Gordo 2",
+                  "text": "Die Gravuren bei Lomo Gordo 2 dienen als archäologische Erweiterung der Hauptstätte und offenbaren weitere antike Petroglyphen am felsigen Hang.",
+                  "category": "historical",
+                  "coords": [
+                        -17.867417,
+                        28.681359
+                  ]
+            },
+            {
+                  "name": "Núcleo de Grabados Rupestres Tamarahoya",
+                  "text": "Der Núcleo de Grabados Rupestres Tamarahoya ist eine markante archäologische Konzentration von Felskunst der Ureinwohner in den Höhenlagen von El Paso.",
+                  "category": "historical",
+                  "coords": [
+                        -17.872756,
+                        28.6795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Arqueológico Benahorita",
+                  "text": "A Museo Arqueológico Benahorita a La Palma-sziget őslakos benahoarita népének kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910198,
+                        28.656808
+                  ]
+            },
+            {
+                  "name": "Ermita del Buen Jesús",
+                  "text": "A tijarafei Ermita del Buen Jesús egy történelmi műemlék, amelynek alapítása az 1584-es évre nyúlik vissza.",
+                  "category": "historical",
+                  "coords": [
+                        -17.953725,
+                        28.70243
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de El Paso",
+                  "text": "Az Ayuntamiento de El Paso a La Palma szigetén található vulkanikus község adminisztratív központjaként működik.",
+                  "category": "historical",
+                  "coords": [
+                        -17.880266,
+                        28.651977
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Las Nieves",
+                  "text": "A Santuario de Nuestra Señora de Las Nieves La Palma védőszentjének ad otthont, és a sziget egyik legfontosabb zarándokhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -17.782164,
+                        28.694351
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Remedios",
+                  "text": "Az Iglesia de los Remedios egy kiemelkedő plébániatemplom, amely Los Llanos de Aridane városának szívében található.",
+                  "category": "religious",
+                  "coords": [
+                        -17.913118,
+                        28.659166
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Angustias",
+                  "text": "A Nuestra Señora de las Angustias egy szent hely Los Llanos de Aridane mély, meredek szurdokai közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -17.935002,
+                        28.661576
+                  ]
+            },
+            {
+                  "name": "Pico Bejenado",
+                  "text": "A Pico Bejenado egy kiemelkedő hegycsúcs, amelyről panorámás kilátás nyílik a Caldera de Taburiente Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876874,
+                        28.692504
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Barranco del Jorado",
+                  "text": "Az 1999 októberében alapított Barranco del Jorado Természeti Emlék egy meredek szurdokvidéket véd La Palma szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        -17.960794,
+                        28.70311
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Idafe",
+                  "text": "A Monumento Natural de Idafe központjában egy jellegzetes, szabadon álló sziklaképződmény áll, amely az őslakos benahoariták számára szent hely volt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875989,
+                        28.712585
+                  ]
+            },
+            {
+                  "name": "Paisaje Protegido Barranco de Las Angustias",
+                  "text": "A Barranco de Las Angustias Védett Terület egy drámai, mély szurdokot foglal magában, amely a Caldera de Taburiente vulkáni kráter természetes vízelvezetője.",
+                  "category": "natural",
+                  "coords": [
+                        -17.910271,
+                        28.690887
+                  ]
+            },
+            {
+                  "name": "Museo del Mojo",
+                  "text": "A Museo del Mojo egy specializált múzeum, amely a hagyományos kanári-szigeteki mojo szószok történetét és elkészítését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.934545,
+                        28.642898
+                  ]
+            },
+            {
+                  "name": "Museo del Puro Palmero",
+                  "text": "A Museo del Puro Palmero a sziget nagy múltra visszatekintő kézműves dohány- és szivarkészítési hagyományait emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        -17.78734,
+                        28.667423
+                  ]
+            },
+            {
+                  "name": "Ermita Nuestra Señora de la Concepción",
+                  "text": "Az Ermita Nuestra Señora de la Concepción egy festői kis vallási remetelak La Palma lenyűgöző tájain.",
+                  "category": "religious",
+                  "coords": [
+                        -17.779338,
+                        28.67459
+                  ]
+            },
+            {
+                  "name": "Ermita de la Virgen del Pino",
+                  "text": "Az Ermita de la Virgen del Pino egy tisztelt szentély, amely egy híres, ősi fenyőfa közelében található El Paso településen.",
+                  "category": "religious",
+                  "coords": [
+                        -17.841416,
+                        28.662999
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Isidro Labrador",
+                  "text": "Az Iglesia de San Isidro Labrador egy helyi plébániatemplom, amelyet a földművesek védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -17.908724,
+                        28.632032
+                  ]
+            },
+            {
+                  "name": "Risco de Las Pareditas",
+                  "text": "A Risco de Las Pareditas egy meredek, sziklás magaslat, ahonnan lenyűgöző kilátás nyílik La Palma hegyvidéki belső területeire.",
+                  "category": "natural",
+                  "coords": [
+                        -17.912041,
+                        28.709716
+                  ]
+            },
+            {
+                  "name": "la Cumbrecita",
+                  "text": "A La Cumbrecita egy kiemelkedő hágó és kilátó, amely az egyik legfontosabb betekintési pontot nyújtja a Caldera de Taburiente vulkáni kráterbe.",
+                  "category": "natural",
+                  "coords": [
+                        -17.853213,
+                        28.699573
+                  ]
+            },
+            {
+                  "name": "Pico del Cedro",
+                  "text": "A Pico del Cedro egy magas hegycsúcs La Palma szigetén, amelyet meredek lejtők és magashegyi növényzet jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -17.843134,
+                        28.711856
+                  ]
+            },
+            {
+                  "name": "Pico de La Sabina",
+                  "text": "A Pico de La Sabina egy figyelemre méltó csúcs, amely kiemelkedik La Palma szigetének vulkanikus terepéből.",
+                  "category": "natural",
+                  "coords": [
+                        -17.8377,
+                        28.719268
+                  ]
+            },
+            {
+                  "name": "Mirador de la Concepción",
+                  "text": "A Mirador de la Concepción lenyűgöző panorámát nyújt egy vulkanikus magaslati pontról, ahonnan Santa Cruz de La Palma városára lehet rálátni.",
+                  "category": "natural",
+                  "coords": [
+                        -17.778319,
+                        28.673572
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Gómez Felipe",
+                  "text": "A Parque Antonio Gómez Felipe egy botanikus park, amely egyedi vulkanikus tájképéről és endemikus növényvilágáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -17.913509,
+                        28.654098
+                  ]
+            },
+            {
+                  "name": "Zona de Especial Protección El Paso y Santa Cruz de La Palma",
+                  "text": "Az 1999 októberében kijelölt El Paso y Santa Cruz de La Palma Különleges Természetmegőrzési Terület létfontosságú természetes élőhelyeket véd a sziget központjában.",
+                  "category": "natural",
+                  "coords": [
+                        -17.85444,
+                        28.672559
+                  ]
+            },
+            {
+                  "name": "Playa de El Puerto",
+                  "text": "A Playa de El Puerto egy sötét vulkáni homokkal borított tengerparti strand az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.94679,
+                        28.650916
+                  ]
+            },
+            {
+                  "name": "Maroparque",
+                  "text": "A Maroparque egy egzotikus állatmentő központ és állatkert, amely egy buja szurdok meredek lejtőire épült La Palmán.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.778308,
+                        28.682127
+                  ]
+            },
+            {
+                  "name": "Benehauno - Centro de interpretación de petroglifos",
+                  "text": "A Benehauno értelmező központ részletes kiállításokon mutatja be a La Palma őslakosai által faragott ősi kőpetroglifákat.",
+                  "category": "museum",
+                  "coords": [
+                        -17.890065,
+                        28.655242
+                  ]
+            },
+            {
+                  "name": "Castillo de la Virgen",
+                  "text": "A Castillo de la Virgen egy szimbolikus vár Santa Cruz de La Palmában, amely központi szerepet játszik a Bajada de la Virgen ünnepségeken.",
+                  "category": "castle",
+                  "coords": [
+                        -17.914863,
+                        28.656466
+                  ]
+            },
+            {
+                  "name": "Galeriea de Arte García de Diego",
+                  "text": "A Galeriea de Arte García de Diego egy kulturális művészeti galéria, amely helyi és regionális kanári-szigeteki művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910596,
+                        28.658297
+                  ]
+            },
+            {
+                  "name": "Grabados rupéstres de La Fajana",
+                  "text": "A Grabados rupéstres de La Fajana egy régészeti lelőhely, amely a spanyolok előtti benahoariták által hátrahagyott rejtélyes spirális és geometrikus sziklafaragványokat őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -17.883622,
+                        28.657593
+                  ]
+            },
+            {
+                  "name": "Piedra del Guanche",
+                  "text": "A Piedra del Guanche egy fontos régészeti sziklatömb, amely ősi őslakos petroglifákat őriz La Palma szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -17.936842,
+                        28.674206
+                  ]
+            },
+            {
+                  "name": "El Árbol de la Graja",
+                  "text": "Az El Árbol de la Graja egy emlékműként szolgáló szimbolikus fa, amely az őshonos havasi varjú előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -17.841462,
+                        28.650406
+                  ]
+            },
+            {
+                  "name": "Grabados rupéstres del Cementerio (El Verde)",
+                  "text": "Az El Verde-i Grabados rupéstres del Cementerio ősi őslakos sziklaművészeti alkotásokból áll, amelyek a helyi temető közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -17.882234,
+                        28.655911
+                  ]
+            },
+            {
+                  "name": "Alter Dreschplatz",
+                  "text": "Az Alter Dreschplatz egy történelmi régészeti helyszín, ahol a hagyományos gabonacséplő tereket őrizték meg a mezőgazdaság múltjából.",
+                  "category": "historical",
+                  "coords": [
+                        -17.877096,
+                        28.668343
+                  ]
+            },
+            {
+                  "name": "Lomo del Estrecho",
+                  "text": "A Lomo del Estrecho-i metszetek kulcsfontosságú régészeti betekintést nyújtanak a Kanári-szigetek történelem előtti sziklafaragási technikáiba.",
+                  "category": "historical",
+                  "coords": [
+                        -17.860612,
+                        28.686834
+                  ]
+            },
+            {
+                  "name": "Petroglifos Lomo Gordo",
+                  "text": "A Lomo Gordo-i metszetek spanyol uralom előtti geometrikus szimbólumok sűrű csoportját mutatják be, amelyeket a vulkanikus alapkőzetbe faragtak.",
+                  "category": "historical",
+                  "coords": [
+                        -17.868045,
+                        28.682373
+                  ]
+            },
+            {
+                  "name": "Petroglifos Lomo Gordo 2",
+                  "text": "A Lomo Gordo 2-nél található metszetek az elsődleges lelőhely régészeti kiterjesztéseként szolgálnak, és további ősi petroglifákat fednek fel a sziklás domboldalon.",
+                  "category": "historical",
+                  "coords": [
+                        -17.867417,
+                        28.681359
+                  ]
+            },
+            {
+                  "name": "Núcleo de Grabados Rupestres Tamarahoya",
+                  "text": "A Núcleo de Grabados Rupestres Tamarahoya egy kiemelkedő régészeti lelőhely El Paso magaslatain, ahol az őslakosok sziklaművészete összpontosul.",
+                  "category": "historical",
+                  "coords": [
+                        -17.872756,
+                        28.6795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Arqueológico Benahorita",
+                  "text": "Museo Arqueológico Benahorita este un muzeu dedicat culturii și istoriei poporului indigen Benahoarita din La Palma.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910198,
+                        28.656808
+                  ]
+            },
+            {
+                  "name": "Ermita del Buen Jesús",
+                  "text": "Ermita del Buen Jesús din Tijarafe este un monument istoric a cărui construcție datează din anul 1584.",
+                  "category": "historical",
+                  "coords": [
+                        -17.953725,
+                        28.70243
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de El Paso",
+                  "text": "Ayuntamiento de El Paso servește drept centru administrativ pentru această municipalitate vulcanică de pe insula La Palma.",
+                  "category": "historical",
+                  "coords": [
+                        -17.880266,
+                        28.651977
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Las Nieves",
+                  "text": "Santuario de Nuestra Señora de Las Nieves adăpostește sfânta patroană a insulei La Palma și este o destinație importantă de pelerinaj.",
+                  "category": "religious",
+                  "coords": [
+                        -17.782164,
+                        28.694351
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Remedios",
+                  "text": "Iglesia de los Remedios este o biserică parohială proeminentă situată în inima orașului Los Llanos de Aridane.",
+                  "category": "religious",
+                  "coords": [
+                        -17.913118,
+                        28.659166
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Angustias",
+                  "text": "Nuestra Señora de las Angustias este un lăcaș de cult situat în apropierea râpelor adânci și abrupte din Los Llanos de Aridane.",
+                  "category": "religious",
+                  "coords": [
+                        -17.935002,
+                        28.661576
+                  ]
+            },
+            {
+                  "name": "Pico Bejenado",
+                  "text": "Pico Bejenado este un vârf montan proeminent care oferă vederi panoramice asupra Parcului Național Caldera de Taburiente.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876874,
+                        28.692504
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Barranco del Jorado",
+                  "text": "Înființat în octombrie 1999, Monumentul Natural Barranco del Jorado protejează o râpă abruptă de pe insula La Palma.",
+                  "category": "natural",
+                  "coords": [
+                        -17.960794,
+                        28.70311
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Idafe",
+                  "text": "Monumento Natural de Idafe este centrat în jurul unei formațiuni stâncoase distinctive care era sacră pentru populația indigenă Benahoarita.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875989,
+                        28.712585
+                  ]
+            },
+            {
+                  "name": "Paisaje Protegido Barranco de Las Angustias",
+                  "text": "Aria Protejată Barranco de Las Angustias cuprinde un defileu adânc și dramatic, care servește drept scurgere naturală a Calderei de Taburiente.",
+                  "category": "natural",
+                  "coords": [
+                        -17.910271,
+                        28.690887
+                  ]
+            },
+            {
+                  "name": "Museo del Mojo",
+                  "text": "Museo del Mojo este un muzeu specializat care prezintă istoria și prepararea sosurilor tradiționale canariene mojo.",
+                  "category": "museum",
+                  "coords": [
+                        -17.934545,
+                        28.642898
+                  ]
+            },
+            {
+                  "name": "Museo del Puro Palmero",
+                  "text": "Museo del Puro Palmero evidențiază tradiția îndelungată a insulei în producția artizanală de trabucuri și tutun.",
+                  "category": "museum",
+                  "coords": [
+                        -17.78734,
+                        28.667423
+                  ]
+            },
+            {
+                  "name": "Ermita Nuestra Señora de la Concepción",
+                  "text": "Ermita Nuestra Señora de la Concepción este un schit religios pitoresc cuibărit în peisajele pitorești din La Palma.",
+                  "category": "religious",
+                  "coords": [
+                        -17.779338,
+                        28.67459
+                  ]
+            },
+            {
+                  "name": "Ermita de la Virgen del Pino",
+                  "text": "Ermita de la Virgen del Pino este un altar venerat situat lângă un faimos și antic pin din El Paso.",
+                  "category": "religious",
+                  "coords": [
+                        -17.841416,
+                        28.662999
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Isidro Labrador",
+                  "text": "Iglesia de San Isidro Labrador este o biserică parohială locală dedicată sfântului patron al fermierilor.",
+                  "category": "religious",
+                  "coords": [
+                        -17.908724,
+                        28.632032
+                  ]
+            },
+            {
+                  "name": "Risco de Las Pareditas",
+                  "text": "Risco de Las Pareditas este o stâncă abruptă și accidentată care oferă vederi impresionante asupra interiorului muntos al insulei La Palma.",
+                  "category": "natural",
+                  "coords": [
+                        -17.912041,
+                        28.709716
+                  ]
+            },
+            {
+                  "name": "la Cumbrecita",
+                  "text": "La Cumbrecita este o trecătoare montană proeminentă și un punct de belvedere care oferă o privire directă în Caldera de Taburiente.",
+                  "category": "natural",
+                  "coords": [
+                        -17.853213,
+                        28.699573
+                  ]
+            },
+            {
+                  "name": "Pico del Cedro",
+                  "text": "Pico del Cedro este un vârf montan înalt din La Palma, caracterizat prin pante abrupte și vegetație alpină.",
+                  "category": "natural",
+                  "coords": [
+                        -17.843134,
+                        28.711856
+                  ]
+            },
+            {
+                  "name": "Pico de La Sabina",
+                  "text": "Pico de La Sabina este un vârf notabil din La Palma, profilându-se proeminent pe terenul vulcanic al insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.8377,
+                        28.719268
+                  ]
+            },
+            {
+                  "name": "Mirador de la Concepción",
+                  "text": "Mirador de la Concepción oferă vederi panoramice uimitoare dintr-un punct de observație vulcanic înalt cu vedere la Santa Cruz de La Palma.",
+                  "category": "natural",
+                  "coords": [
+                        -17.778319,
+                        28.673572
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Gómez Felipe",
+                  "text": "Parcul Antonio Gómez Felipe este un parc botanic cunoscut pentru peisagistica sa vulcanică unică și flora endemică.",
+                  "category": "park",
+                  "coords": [
+                        -17.913509,
+                        28.654098
+                  ]
+            },
+            {
+                  "name": "Zona de Especial Protección El Paso y Santa Cruz de La Palma",
+                  "text": "Desemnată în octombrie 1999, Aria Specială de Conservare El Paso y Santa Cruz de La Palma protejează habitate naturale vitale din centrul insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.85444,
+                        28.672559
+                  ]
+            },
+            {
+                  "name": "Playa de El Puerto",
+                  "text": "Playa de El Puerto este o plajă de coastă caracterizată prin nisipul său vulcanic întunecat la malul Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.94679,
+                        28.650916
+                  ]
+            },
+            {
+                  "name": "Maroparque",
+                  "text": "Maroparque este o grădină zoologică pentru salvarea animalelor exotice construită pe pantele abrupte ale unei râpe luxuriante din La Palma.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.778308,
+                        28.682127
+                  ]
+            },
+            {
+                  "name": "Benehauno - Centro de interpretación de petroglifos",
+                  "text": "Centrul de interpretare Benehauno oferă expoziții detaliate despre vechile petroglife din piatră sculptate de populația indigenă din La Palma.",
+                  "category": "museum",
+                  "coords": [
+                        -17.890065,
+                        28.655242
+                  ]
+            },
+            {
+                  "name": "Castillo de la Virgen",
+                  "text": "Castillo de la Virgen este un castel simbolic din Santa Cruz de La Palma care joacă un rol central în festivitățile Bajada de la Virgen.",
+                  "category": "castle",
+                  "coords": [
+                        -17.914863,
+                        28.656466
+                  ]
+            },
+            {
+                  "name": "Galeriea de Arte García de Diego",
+                  "text": "Galeriea de Arte García de Diego este o galerie de artă culturală care expune lucrări contemporane ale artiștilor locali și regionali canarieni.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910596,
+                        28.658297
+                  ]
+            },
+            {
+                  "name": "Grabados rupéstres de La Fajana",
+                  "text": "Grabados rupéstres de La Fajana este un sit arheologic cu gravuri misterioase în stâncă, în formă de spirală și geometrice, lăsate de populația pre-hispanică Benahoarita.",
+                  "category": "historical",
+                  "coords": [
+                        -17.883622,
+                        28.657593
+                  ]
+            },
+            {
+                  "name": "Piedra del Guanche",
+                  "text": "Piedra del Guanche este un bolovan arheologic important care păstrează petroglife indigene antice pe La Palma.",
+                  "category": "historical",
+                  "coords": [
+                        -17.936842,
+                        28.674206
+                  ]
+            },
+            {
+                  "name": "El Árbol de la Graja",
+                  "text": "El Árbol de la Graja este un copac monumental simbolic care onorează stăncuța cu cioc roșu, o pasăre nativă insulei.",
+                  "category": "historical",
+                  "coords": [
+                        -17.841462,
+                        28.650406
+                  ]
+            },
+            {
+                  "name": "Grabados rupéstres del Cementerio (El Verde)",
+                  "text": "Grabados rupéstres del Cementerio din El Verde constă în artă rupestră aborigenă antică situată în apropierea cimitirului local.",
+                  "category": "historical",
+                  "coords": [
+                        -17.882234,
+                        28.655911
+                  ]
+            },
+            {
+                  "name": "Alter Dreschplatz",
+                  "text": "Alter Dreschplatz este un sit arheologic istoric unde s-au păstrat platforme tradiționale pentru treieratul cerealelor.",
+                  "category": "historical",
+                  "coords": [
+                        -17.877096,
+                        28.668343
+                  ]
+            },
+            {
+                  "name": "Lomo del Estrecho",
+                  "text": "Gravurile de la Lomo del Estrecho oferă perspective arheologice cruciale asupra tehnicilor preistorice de sculptură în stâncă din Insulele Canare.",
+                  "category": "historical",
+                  "coords": [
+                        -17.860612,
+                        28.686834
+                  ]
+            },
+            {
+                  "name": "Petroglifos Lomo Gordo",
+                  "text": "Gravurile din Lomo Gordo prezintă un grup dens de simboluri geometrice pre-hispanice sculptate în roca vulcanică.",
+                  "category": "historical",
+                  "coords": [
+                        -17.868045,
+                        28.682373
+                  ]
+            },
+            {
+                  "name": "Petroglifos Lomo Gordo 2",
+                  "text": "Gravurile de la Lomo Gordo 2 servesc drept extensie arheologică a sitului principal, dezvăluind și mai multe petroglife antice pe coasta stâncoasă.",
+                  "category": "historical",
+                  "coords": [
+                        -17.867417,
+                        28.681359
+                  ]
+            },
+            {
+                  "name": "Núcleo de Grabados Rupestres Tamarahoya",
+                  "text": "Núcleo de Grabados Rupestres Tamarahoya este o concentrare arheologică proeminentă de artă rupestră indigenă situată în înălțimile din El Paso.",
+                  "category": "historical",
+                  "coords": [
+                        -17.872756,
+                        28.6795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Arqueológico Benahorita",
+                  "text": "The Museo Arqueológico Benahorita is a museum dedicated to the indigenous Benahoarita people of La Palma.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910198,
+                        28.656808
+                  ]
+            },
+            {
+                  "name": "Ermita del Buen Jesús",
+                  "text": "The Ermita del Buen Jesús is a historic monument in Tijarafe that dates back to the year 1584.",
+                  "category": "historical",
+                  "coords": [
+                        -17.953725,
+                        28.70243
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de El Paso",
+                  "text": "The Ayuntamiento de El Paso serves as the administrative center for this municipality on the volcanic island of La Palma.",
+                  "category": "historical",
+                  "coords": [
+                        -17.880266,
+                        28.651977
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Las Nieves",
+                  "text": "The Santuario de Nuestra Señora de Las Nieves houses the patron saint of La Palma and is a major pilgrimage destination on the island.",
+                  "category": "religious",
+                  "coords": [
+                        -17.782164,
+                        28.694351
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Remedios",
+                  "text": "The Iglesia de los Remedios is a prominent parish church located in the heart of Los Llanos de Aridane.",
+                  "category": "religious",
+                  "coords": [
+                        -17.913118,
+                        28.659166
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Angustias",
+                  "text": "Nuestra Señora de las Angustias is a sacred site set near the deep, rugged ravines of Los Llanos de Aridane.",
+                  "category": "religious",
+                  "coords": [
+                        -17.935002,
+                        28.661576
+                  ]
+            },
+            {
+                  "name": "Pico Bejenado",
+                  "text": "Pico Bejenado is a prominent mountain peak offering panoramic views over the Caldera de Taburiente National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876874,
+                        28.692504
+                  ]
+            },
+            {
+                  "name": "Barranco del Jorado Natural Monument",
+                  "text": "Established in October 1999, the Barranco del Jorado Natural Monument protects a steep ravine environment on the island of La Palma.",
+                  "category": "natural",
+                  "coords": [
+                        -17.960794,
+                        28.70311
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Idafe",
+                  "text": "The Monumento Natural de Idafe centers around a distinctive freestanding rock formation that was sacred to the indigenous Benahoaritas.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875989,
+                        28.712585
+                  ]
+            },
+            {
+                  "name": "Barranco de Las Angustias Protected Area",
+                  "text": "The Barranco de Las Angustias Protected Area encompasses a dramatic, deep gorge that serves as the natural outlet of the Caldera de Taburiente.",
+                  "category": "natural",
+                  "coords": [
+                        -17.910271,
+                        28.690887
+                  ]
+            },
+            {
+                  "name": "Museo del Mojo",
+                  "text": "The Museo del Mojo is a specialized museum showcasing the history and preparation of the traditional Canarian mojo sauces.",
+                  "category": "museum",
+                  "coords": [
+                        -17.934545,
+                        28.642898
+                  ]
+            },
+            {
+                  "name": "Museo del Puro Palmero",
+                  "text": "The Museo del Puro Palmero highlights the island's long-standing tradition of handcrafted tobacco and cigar making.",
+                  "category": "museum",
+                  "coords": [
+                        -17.78734,
+                        28.667423
+                  ]
+            },
+            {
+                  "name": "Ermita Nuestra Señora de la Concepción",
+                  "text": "The Ermita Nuestra Señora de la Concepción is a quaint religious hermitage nestled in the scenic landscapes of La Palma.",
+                  "category": "religious",
+                  "coords": [
+                        -17.779338,
+                        28.67459
+                  ]
+            },
+            {
+                  "name": "Ermita de la Virgen del Pino",
+                  "text": "The Ermita de la Virgen del Pino is a revered shrine situated near a famous, ancient pine tree in El Paso.",
+                  "category": "religious",
+                  "coords": [
+                        -17.841416,
+                        28.662999
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Isidro Labrador",
+                  "text": "The Iglesia de San Isidro Labrador is a local parish church dedicated to the patron saint of farmers.",
+                  "category": "religious",
+                  "coords": [
+                        -17.908724,
+                        28.632032
+                  ]
+            },
+            {
+                  "name": "Risco de Las Pareditas",
+                  "text": "The Risco de Las Pareditas is a steep, rugged crag offering commanding views of La Palma's mountainous interior.",
+                  "category": "natural",
+                  "coords": [
+                        -17.912041,
+                        28.709716
+                  ]
+            },
+            {
+                  "name": "la Cumbrecita",
+                  "text": "La Cumbrecita is a prominent mountain pass and viewpoint that serves as a major gateway for looking directly into the Caldera de Taburiente.",
+                  "category": "natural",
+                  "coords": [
+                        -17.853213,
+                        28.699573
+                  ]
+            },
+            {
+                  "name": "Pico del Cedro",
+                  "text": "Pico del Cedro is a high mountain peak on La Palma characterized by its steep slopes and alpine vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -17.843134,
+                        28.711856
+                  ]
+            },
+            {
+                  "name": "Pico de La Sabina",
+                  "text": "The Pico de La Sabina is a notable peak in La Palma, standing prominently among the island's volcanic terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -17.8377,
+                        28.719268
+                  ]
+            },
+            {
+                  "name": "Mirador de la Concepción",
+                  "text": "The Mirador de la Concepción provides stunning scenic vistas from a high volcanic vantage point overlooking Santa Cruz de La Palma.",
+                  "category": "natural",
+                  "coords": [
+                        -17.778319,
+                        28.673572
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Gómez Felipe",
+                  "text": "Parque Antonio Gómez Felipe is a botanical park known for its unique volcanic landscaping and endemic flora.",
+                  "category": "park",
+                  "coords": [
+                        -17.913509,
+                        28.654098
+                  ]
+            },
+            {
+                  "name": "El Paso y Santa Cruz de La Palma Special Conservation Area",
+                  "text": "Designated in October 1999, the El Paso y Santa Cruz de La Palma Special Conservation Area protects vital natural habitats across the island's central municipalities.",
+                  "category": "natural",
+                  "coords": [
+                        -17.85444,
+                        28.672559
+                  ]
+            },
+            {
+                  "name": "Playa de El Puerto",
+                  "text": "Playa de El Puerto is a coastal beach characterized by its dark volcanic sand meeting the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.94679,
+                        28.650916
+                  ]
+            },
+            {
+                  "name": "Maroparque",
+                  "text": "Maroparque is an exotic animal rescue center and zoo built on the steep slopes of a lush ravine in La Palma.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.778308,
+                        28.682127
+                  ]
+            },
+            {
+                  "name": "Benehauno - Centro de interpretación de petroglifos",
+                  "text": "The Benehauno interpretation center provides detailed exhibits on the ancient stone petroglyphs carved by La Palma's indigenous people.",
+                  "category": "museum",
+                  "coords": [
+                        -17.890065,
+                        28.655242
+                  ]
+            },
+            {
+                  "name": "Castillo de la Virgen",
+                  "text": "The Castillo de la Virgen is a symbolic castle in Santa Cruz de La Palma that plays a central role in the traditional Bajada de la Virgen festivities.",
+                  "category": "castle",
+                  "coords": [
+                        -17.914863,
+                        28.656466
+                  ]
+            },
+            {
+                  "name": "Galeriea de Arte García de Diego",
+                  "text": "The Galeriea de Arte García de Diego is a cultural art gallery displaying contemporary works by local and regional Canarian artists.",
+                  "category": "museum",
+                  "coords": [
+                        -17.910596,
+                        28.658297
+                  ]
+            },
+            {
+                  "name": "Grabados rupéstres de La Fajana",
+                  "text": "The Grabados rupéstres de La Fajana is an archaeological site featuring mysterious spiral and geometric rock carvings left by the pre-Hispanic Benahoaritas.",
+                  "category": "historical",
+                  "coords": [
+                        -17.883622,
+                        28.657593
+                  ]
+            },
+            {
+                  "name": "Piedra del Guanche",
+                  "text": "The Piedra del Guanche is an important archaeological boulder that preserves ancient indigenous petroglyphs on La Palma.",
+                  "category": "historical",
+                  "coords": [
+                        -17.936842,
+                        28.674206
+                  ]
+            },
+            {
+                  "name": "El Árbol de la Graja",
+                  "text": "El Árbol de la Graja is a monumental, symbolic tree honoring the native red-billed chough bird.",
+                  "category": "historical",
+                  "coords": [
+                        -17.841462,
+                        28.650406
+                  ]
+            },
+            {
+                  "name": "Grabados rupéstres del Cementerio (El Verde)",
+                  "text": "The Grabados rupéstres del Cementerio in El Verde consists of ancient aboriginal rock art situated near the local graveyard.",
+                  "category": "historical",
+                  "coords": [
+                        -17.882234,
+                        28.655911
+                  ]
+            },
+            {
+                  "name": "Alter Dreschplatz",
+                  "text": "The Alter Dreschplatz is a historical archaeological site where traditional grain threshing floors have been preserved.",
+                  "category": "historical",
+                  "coords": [
+                        -17.877096,
+                        28.668343
+                  ]
+            },
+            {
+                  "name": "Engravings from Lomo del Estrecho",
+                  "text": "The Engravings from Lomo del Estrecho provide crucial archaeological insights into the prehistoric rock carving techniques of the Canary Islands.",
+                  "category": "historical",
+                  "coords": [
+                        -17.860612,
+                        28.686834
+                  ]
+            },
+            {
+                  "name": "Engravings Lomo Gordo",
+                  "text": "The Engravings of Lomo Gordo feature a dense cluster of pre-Hispanic geometric symbols carved into the volcanic bedrock.",
+                  "category": "historical",
+                  "coords": [
+                        -17.868045,
+                        28.682373
+                  ]
+            },
+            {
+                  "name": "Engravings Lomo Gordo 2",
+                  "text": "The Engravings at Lomo Gordo 2 serve as an archaeological extension of the primary site, uncovering further ancient petroglyphs on the rocky hillside.",
+                  "category": "historical",
+                  "coords": [
+                        -17.867417,
+                        28.681359
+                  ]
+            },
+            {
+                  "name": "Núcleo de Grabados Rupestres Tamarahoya",
+                  "text": "The Núcleo de Grabados Rupestres Tamarahoya is a prominent archaeological concentration of indigenous rock art nestled in the heights of El Paso.",
+                  "category": "historical",
+                  "coords": [
+                        -17.872756,
+                        28.6795
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Caldera de Taburiente", hu: "Caldera de Taburiente", ro: "Caldera de Taburiente", en: "Caldera de Taburiente"},
@@ -6302,7 +7607,1276 @@ export const spainNatureV2: POI[] = [
     }
   },
   {
-    id: "spain-los-gigantes-cliffs-nature-v2",
+    id: "spain-los-gigantes-cliffs-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Rural de Teno",
+                  "text": "Der Parque Rural de Teno ist ein ausgedehntes gebirgiges Naturschutzgebiet, das für seine tiefen Schluchten und alten Lorbeerwälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -16.852189,
+                        28.322149
+                  ]
+            },
+            {
+                  "name": "Franja marina de Teno-Rasca",
+                  "text": "Die Franja marina de Teno-Rasca ist ein wichtiges Küstenmeeresschutzgebiet, das vielfältigen Walpopulationen vor den dramatischen Klippen Schutz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.891844,
+                        28.193405
+                  ]
+            },
+            {
+                  "name": "Playa de la Arena",
+                  "text": "Playa de la Arena ist ein beliebter Küstenstrand, der sich durch seinen natürlich vorkommenden markanten schwarzen Vulkansand auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840985,
+                        28.229749
+                  ]
+            },
+            {
+                  "name": "Parroquia del Espíritu Santo",
+                  "text": "Die Parroquia del Espíritu Santo ist eine lokale katholische Kirche, die einen spirituellen Mittelpunkt für die umliegende Küstengemeinde bildet.",
+                  "category": "religious",
+                  "coords": [
+                        -16.84041,
+                        28.243949
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Fernando Rey",
+                  "text": "Die Iglesia de San Fernando Rey ist ein der Andacht gewidmeter Ort, der traditionelle Kirchenarchitektur in der Region Los Gigantes zeigt.",
+                  "category": "religious",
+                  "coords": [
+                        -16.815961,
+                        28.29768
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Luz",
+                  "text": "Die Iglesia Nuestra Señora de la Luz dient als prominente Kirche, die sich durch ihren ikonischen Glockenturm auszeichnet, der die Umgebung überblickt.",
+                  "category": "religious",
+                  "coords": [
+                        -16.778686,
+                        28.209526
+                  ]
+            },
+            {
+                  "name": "Playa Chica",
+                  "text": "Playa Chica ist eine kleine, geschützte Sandbucht, die in der Nähe der dramatischen Los-Gigantes-Klippen ruhiges Wasser zum Schwimmen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.842704,
+                        28.237082
+                  ]
+            },
+            {
+                  "name": "Playa Los Guíos",
+                  "text": "Playa Los Guíos ist ein malerischer Strand mit dunklem Sand, der direkt am Fuße der aufragenden Los-Gigantes-Klippen liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840504,
+                        28.247496
+                  ]
+            },
+            {
+                  "name": "Playa de Fonsalía",
+                  "text": "Playa de Fonsalía ist eine ruhige, felsige Küstenlinie, die von einheimischen Meeresbesuchern frequentiert wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.821121,
+                        28.186127
+                  ]
+            },
+            {
+                  "name": "Playa de Abama",
+                  "text": "Playa de Abama ist ein künstlicher Strand mit goldenem Sand, der in einer geschützten Bucht unterhalb eines luxuriösen Resortkomplexes liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.805462,
+                        28.172006
+                  ]
+            },
+            {
+                  "name": "En Honor a la figura de Don Pancracio Socas Garcia",
+                  "text": "Dieses öffentliche Denkmal erinnert an Don Pancracio Socas Garcia und würdigt seine Verdienste um die lokale bürgerliche Gemeinschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -16.841809,
+                        28.234847
+                  ]
+            },
+            {
+                  "name": "Barca",
+                  "text": "Das Barca-Denkmal ist eine skulpturale Hommage in Form eines Bootes, die die tief verwurzelten Seefahrtstraditionen der Küstenregion symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        -16.836936,
+                        28.240021
+                  ]
+            },
+            {
+                  "name": "Antigua estación de bombeo de agua",
+                  "text": "Die Ruinen dieser alten Wasserpumpstation stellen eine frühe industrielle Infrastruktur dar, die zur Bewässerung der umliegenden Küstenfelder errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808184,
+                        28.175695
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica el Pico Yeje",
+                  "text": "Die Zona Arqueológica el Pico Yeje weist alte Steinreste auf, die Aufschluss über die vorspanischen indigenen Siedlungen der Region geben.",
+                  "category": "historical",
+                  "coords": [
+                        -16.849354,
+                        28.306623
+                  ]
+            },
+            {
+                  "name": "Casas de la Cumbre",
+                  "text": "Casas de la Cumbre besteht aus den zerfallenden Mauerresten ehemaliger Bergbehausungen vor der Kulisse der schroffen Landschaft im Landesinneren.",
+                  "category": "historical",
+                  "coords": [
+                        -16.830079,
+                        28.314636
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Aripe",
+                  "text": "Die Zona Arqueológica de Aripe ist berühmt für ihre prähistorischen Felsritzungen, die direkt in die alte Vulkanlandschaft eingraviert sind.",
+                  "category": "historical",
+                  "coords": [
+                        -16.765608,
+                        28.214663
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alcalá",
+                  "text": "Das Centro Cultural Alcalá ist ein aktives Kunstzentrum in der Nähe der Strandpromenade, das Gemeindeworkshops und lokale Kulturausstellungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.82806,
+                        28.203061
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Dieses Theater dient als lokaler Veranstaltungsort in der Nähe der Küstenklippen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.779927,
+                        28.209329
+                  ]
+            },
+            {
+                  "name": "Risco Verde",
+                  "text": "Diese Naturattraktion bietet markante grüne Felsvorsprünge in der Nähe der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.826699,
+                        28.306351
+                  ]
+            },
+            {
+                  "name": "Mascaschlucht",
+                  "text": "Dieser zerklüftete Weg schlängelt sich durch die tiefe Masca-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.840495,
+                        28.304303
+                  ]
+            },
+            {
+                  "name": "Smiley",
+                  "text": "Diese markant benannte Küstenattraktion liegt vor der Kulisse der massiven Klippen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.818326,
+                        28.222549
+                  ]
+            },
+            {
+                  "name": "Neptuno",
+                  "text": "Diese felsige Attraktion an der Küste hat ihren Namen vom römischen Gott des Meeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.84357,
+                        28.235455
+                  ]
+            },
+            {
+                  "name": "Cueva del Tacón",
+                  "text": "Diese natürliche Küstenhöhle bietet Schutz und einzigartige Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.845724,
+                        28.239811
+                  ]
+            },
+            {
+                  "name": "Ventanas de Barranco Seco",
+                  "text": "Diese Attraktion bietet natürliche, fensterartige Formationen in der trockenen Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.847654,
+                        28.273117
+                  ]
+            },
+            {
+                  "name": "Camino del Barranco los Sauces",
+                  "text": "Diese steile Canyon-Attraktion zeichnet sich durch tief eingeschnittene geologische Wände aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843927,
+                        28.283889
+                  ]
+            },
+            {
+                  "name": "Rocas Amarillas",
+                  "text": "Diese Küstenattraktion zeichnet sich durch ihre markant gefärbten gelben Felsen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.853829,
+                        28.273449
+                  ]
+            },
+            {
+                  "name": "La Jaquita",
+                  "text": "Dieser Küstenort bietet vulkanische Felsformationen entlang der Küstenlinie.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.830253,
+                        28.208303
+                  ]
+            },
+            {
+                  "name": "Horno de cal",
+                  "text": "Dieser historische Kalkofen ist ein Überbleibsel der traditionellen lokalen Industrie.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.811963,
+                        28.179232
+                  ]
+            },
+            {
+                  "name": "Charco de Isla Cangrejo",
+                  "text": "Dieses natürliche Schwimmbecken ist von vulkanischen Küstenfelsen umschlossen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843435,
+                        28.241513
+                  ]
+            },
+            {
+                  "name": "Mirador de Chirche",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über das traditionelle Dorf Chirche.",
+                  "category": "natural",
+                  "coords": [
+                        -16.759534,
+                        28.221301
+                  ]
+            },
+            {
+                  "name": "Mirador de Chío",
+                  "text": "Dieser Aussichtspunkt bietet weite Ausblicke über die umliegende Vulkanlandschaft von Chío.",
+                  "category": "natural",
+                  "coords": [
+                        -16.747193,
+                        28.266976
+                  ]
+            },
+            {
+                  "name": "Basalt Pyramids",
+                  "text": "Dieser malerische Aussichtspunkt blickt auf markant kantige Basaltfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756839,
+                        28.271022
+                  ]
+            },
+            {
+                  "name": "Los Árboles Gigantes",
+                  "text": "Diese Aussichtsplattform befindet sich inmitten ungewöhnlich großer einheimischer Bäume.",
+                  "category": "natural",
+                  "coords": [
+                        -16.755053,
+                        28.284554
+                  ]
+            },
+            {
+                  "name": "Mirador de los Poleos",
+                  "text": "Dieser hoch gelegene Aussichtspunkt bietet weite Panoramen über die rauen vulkanischen Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        -16.767878,
+                        28.280861
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Masca",
+                  "text": "Dieser malerische Aussichtspunkt bietet spektakuläre Ausblicke hinab in das steile Masca-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.834337,
+                        28.297855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Rural de Teno",
+                  "text": "A Parque Rural de Teno egy kiterjedt hegyvidéki természetvédelmi terület, amely mély szakadékairól és ősi babérerdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -16.852189,
+                        28.322149
+                  ]
+            },
+            {
+                  "name": "Franja marina de Teno-Rasca",
+                  "text": "A Franja marina de Teno-Rasca egy kulcsfontosságú part menti tengeri rezervátum, amely a drámai tengeri sziklák mentén sokféle cetfélének ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -16.891844,
+                        28.193405
+                  ]
+            },
+            {
+                  "name": "Playa de la Arena",
+                  "text": "A Playa de la Arena egy népszerű tengerpart, amelyet természetes, feltűnően fekete vulkáni homokja tesz különlegessé.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840985,
+                        28.229749
+                  ]
+            },
+            {
+                  "name": "Parroquia del Espíritu Santo",
+                  "text": "A Parroquia del Espíritu Santo egy helyi katolikus templom, amely a környező part menti közösség spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        -16.84041,
+                        28.243949
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Fernando Rey",
+                  "text": "Az Iglesia de San Fernando Rey egy istentiszteleti hely, amely a hagyományos egyházi építészetet mutatja be a Los Gigantes régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -16.815961,
+                        28.29768
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Luz",
+                  "text": "Az Iglesia Nuestra Señora de la Luz egy kiemelkedő templom, amelyet a környékre néző ikonikus harangtornya jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        -16.778686,
+                        28.209526
+                  ]
+            },
+            {
+                  "name": "Playa Chica",
+                  "text": "A Playa Chica egy apró, védett homokos öböl, amely nyugodt vizet kínál az úszáshoz a drámai Los Gigantes sziklák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.842704,
+                        28.237082
+                  ]
+            },
+            {
+                  "name": "Playa Los Guíos",
+                  "text": "A Playa Los Guíos egy festői sötét homokos tengerpart, amely közvetlenül a tornyosuló Los Gigantes sziklák lábánál fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840504,
+                        28.247496
+                  ]
+            },
+            {
+                  "name": "Playa de Fonsalía",
+                  "text": "A Playa de Fonsalía egy csendes, sziklás tengerpart, amelyet a helyi tengerjárók gyakran látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.821121,
+                        28.186127
+                  ]
+            },
+            {
+                  "name": "Playa de Abama",
+                  "text": "A Playa de Abama egy mesterséges aranyhomokos tengerpart, amely egy védett öbölben fekszik egy luxus üdülőközpont alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.805462,
+                        28.172006
+                  ]
+            },
+            {
+                  "name": "En Honor a la figura de Don Pancracio Socas Garcia",
+                  "text": "Ez a köztéri emlékmű Don Pancracio Socas Garcia-nak állít emléket, tisztelegve a helyi polgári közösségért tett hozzájárulásai előtt.",
+                  "category": "historical",
+                  "coords": [
+                        -16.841809,
+                        28.234847
+                  ]
+            },
+            {
+                  "name": "Barca",
+                  "text": "A Barca emlékmű egy hajót formázó szobor, amely a part menti terület mélyen gyökerező tengerészeti hagyományait szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        -16.836936,
+                        28.240021
+                  ]
+            },
+            {
+                  "name": "Antigua estación de bombeo de agua",
+                  "text": "Ennek a régi vízszivattyú-állomásnak a romjai egy korai ipari infrastruktúrát képviselnek, amelyet a környező parti földek öntözésére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808184,
+                        28.175695
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica el Pico Yeje",
+                  "text": "A Zona Arqueológica el Pico Yeje olyan ősi kőmaradványokat rejt, amelyek rávilágítanak a régió spanyol hódítás előtti őslakos településeire.",
+                  "category": "historical",
+                  "coords": [
+                        -16.849354,
+                        28.306623
+                  ]
+            },
+            {
+                  "name": "Casas de la Cumbre",
+                  "text": "A Casas de la Cumbre egykori hegyvidéki lakóházak omladozó falazataiból áll a zord szárazföldi táj hátterében.",
+                  "category": "historical",
+                  "coords": [
+                        -16.830079,
+                        28.314636
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Aripe",
+                  "text": "A Zona Arqueológica de Aripe a közvetlenül az ősi vulkáni tájba vésett őskori sziklarajzairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        -16.765608,
+                        28.214663
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alcalá",
+                  "text": "A Centro Cultural Alcalá egy aktív művészeti központ a tengerpart közelében, amely közösségi workshopoknak és helyi kulturális kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.82806,
+                        28.203061
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Ez a színház helyi előadóhelyként szolgál a tengerparti sziklák közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.779927,
+                        28.209329
+                  ]
+            },
+            {
+                  "name": "Risco Verde",
+                  "text": "Ez a természeti látványosság lenyűgöző zöld sziklás kiemelkedésekkel rendelkezik a part közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.826699,
+                        28.306351
+                  ]
+            },
+            {
+                  "name": "Camino del barranco de Masca",
+                  "text": "Ez a zord ösvény a mély Masca-szurdokon kanyarog keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.840495,
+                        28.304303
+                  ]
+            },
+            {
+                  "name": "Smiley",
+                  "text": "Ez a jellegzetes nevű tengerparti látványosság a hatalmas sziklák hátterében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.818326,
+                        28.222549
+                  ]
+            },
+            {
+                  "name": "Neptuno",
+                  "text": "Ez a tengerparti sziklás látványosság a tenger római istenéről kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.84357,
+                        28.235455
+                  ]
+            },
+            {
+                  "name": "Cueva del Tacón",
+                  "text": "Ez a természetes tengerparti barlang menedéket és egyedi sziklaképződményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.845724,
+                        28.239811
+                  ]
+            },
+            {
+                  "name": "Ventanas de Barranco Seco",
+                  "text": "Ez a látványosság természetes, ablakszerű képződményeket kínál a száraz szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.847654,
+                        28.273117
+                  ]
+            },
+            {
+                  "name": "Camino del Barranco los Sauces",
+                  "text": "Ez a meredek kanyon látványosság mélyen kivájt geológiai falakkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843927,
+                        28.283889
+                  ]
+            },
+            {
+                  "name": "Rocas Amarillas",
+                  "text": "Ezt a tengerparti látványosságot jellegzetes színű sárga sziklái jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.853829,
+                        28.273449
+                  ]
+            },
+            {
+                  "name": "La Jaquita",
+                  "text": "Ezen a tengerparti helyen vulkáni sziklaképződmények találhatók a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.830253,
+                        28.208303
+                  ]
+            },
+            {
+                  "name": "Horno de cal",
+                  "text": "Ez a történelmi mészégető kemence a hagyományos helyi ipar maradványa.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.811963,
+                        28.179232
+                  ]
+            },
+            {
+                  "name": "Charco de Isla Cangrejo",
+                  "text": "Ezt a természetes medencét vulkanikus tengerparti sziklák veszik körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843435,
+                        28.241513
+                  ]
+            },
+            {
+                  "name": "Mirador de Chirche",
+                  "text": "Ez a kilátópont pazar kilátást nyújt a hagyományos Chirche falura.",
+                  "category": "natural",
+                  "coords": [
+                        -16.759534,
+                        28.221301
+                  ]
+            },
+            {
+                  "name": "Mirador de Chío",
+                  "text": "Ez a kilátó tágas panorámát nyújt Chío környező vulkanikus tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -16.747193,
+                        28.266976
+                  ]
+            },
+            {
+                  "name": "Basalt Pyramids",
+                  "text": "Ez a festői kilátó jellegzetes szögletes bazaltsziklákra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756839,
+                        28.271022
+                  ]
+            },
+            {
+                  "name": "Los Árboles Gigantes",
+                  "text": "Ez a kilátóterasz szokatlanul nagy őshonos fák között helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        -16.755053,
+                        28.284554
+                  ]
+            },
+            {
+                  "name": "Mirador de los Poleos",
+                  "text": "Ez a magasan fekvő kilátó széles panorámát kínál a zord vulkanikus lejtőkre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.767878,
+                        28.280861
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Masca",
+                  "text": "Ez a festői kilátó lenyűgöző kilátást nyújt a meredek Masca-völgybe.",
+                  "category": "natural",
+                  "coords": [
+                        -16.834337,
+                        28.297855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Rural de Teno",
+                  "text": "Parque Rural de Teno este o rezervație naturală montană întinsă, cunoscută pentru râpele sale adânci și pădurile antice de dafin.",
+                  "category": "natural",
+                  "coords": [
+                        -16.852189,
+                        28.322149
+                  ]
+            },
+            {
+                  "name": "Franja marina de Teno-Rasca",
+                  "text": "Franja marina de Teno-Rasca este o rezervație marină de coastă crucială care adăpostește diverse populații de cetacee în largul stâncilor dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        -16.891844,
+                        28.193405
+                  ]
+            },
+            {
+                  "name": "Playa de la Arena",
+                  "text": "Playa de la Arena este o plajă de coastă populară distinsă prin nisipul său vulcanic negru izbitor.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840985,
+                        28.229749
+                  ]
+            },
+            {
+                  "name": "Parroquia del Espíritu Santo",
+                  "text": "Parroquia del Espíritu Santo este o biserică catolică locală care oferă un punct focal spiritual pentru comunitatea de coastă din jur.",
+                  "category": "religious",
+                  "coords": [
+                        -16.84041,
+                        28.243949
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Fernando Rey",
+                  "text": "Iglesia de San Fernando Rey este un lăcaș de cult dedicat care prezintă arhitectura ecleziastică tradițională în regiunea Los Gigantes.",
+                  "category": "religious",
+                  "coords": [
+                        -16.815961,
+                        28.29768
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Luz",
+                  "text": "Iglesia Nuestra Señora de la Luz servește ca o biserică proeminentă caracterizată de turnul său iconic care domină zona înconjurătoare.",
+                  "category": "religious",
+                  "coords": [
+                        -16.778686,
+                        28.209526
+                  ]
+            },
+            {
+                  "name": "Playa Chica",
+                  "text": "Playa Chica este un mic golf de nisip adăpostit care oferă ape calme pentru înot în apropierea stâncilor dramatice Los Gigantes.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.842704,
+                        28.237082
+                  ]
+            },
+            {
+                  "name": "Playa Los Guíos",
+                  "text": "Playa Los Guíos este o plajă pitorească cu nisip închis situată chiar la baza stâncilor impunătoare Los Gigantes.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840504,
+                        28.247496
+                  ]
+            },
+            {
+                  "name": "Playa de Fonsalía",
+                  "text": "Playa de Fonsalía este o coastă stâncoasă și liniștită care se întinde de-a lungul mării, frecventată de pasionații locali de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.821121,
+                        28.186127
+                  ]
+            },
+            {
+                  "name": "Playa de Abama",
+                  "text": "Playa de Abama este o plajă artificială cu nisip auriu, ascunsă într-un golf adăpostit sub un complex hotelier de lux.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.805462,
+                        28.172006
+                  ]
+            },
+            {
+                  "name": "En Honor a la figura de Don Pancracio Socas Garcia",
+                  "text": "Acest monument public îl comemorează pe Don Pancracio Socas Garcia, onorând contribuțiile sale la comunitatea civică locală.",
+                  "category": "historical",
+                  "coords": [
+                        -16.841809,
+                        28.234847
+                  ]
+            },
+            {
+                  "name": "Barca",
+                  "text": "Monumentul Barca este un tribut sculptural în formă de barcă, simbolizând tradițiile maritime adânc înrădăcinate ale zonei de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -16.836936,
+                        28.240021
+                  ]
+            },
+            {
+                  "name": "Antigua estación de bombeo de agua",
+                  "text": "Ruinele acestei vechi stații de pompare a apei reprezintă o infrastructură industrială timpurie construită pentru a iriga câmpurile de coastă din jur.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808184,
+                        28.175695
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica el Pico Yeje",
+                  "text": "Zona Arqueológica el Pico Yeje prezintă vestigii antice din piatră care fac lumină asupra așezărilor indigene pre-hispanice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -16.849354,
+                        28.306623
+                  ]
+            },
+            {
+                  "name": "Casas de la Cumbre",
+                  "text": "Casas de la Cumbre este format din rămășițele prăbușite de zidărie ale fostelor locuințe montane, așezate pe fundalul peisajului interior accidentat.",
+                  "category": "historical",
+                  "coords": [
+                        -16.830079,
+                        28.314636
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Aripe",
+                  "text": "Zona Arqueológica de Aripe este renumită pentru sculpturile sale preistorice în rocă, gravate direct în peisajul vulcanic antic.",
+                  "category": "historical",
+                  "coords": [
+                        -16.765608,
+                        28.214663
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alcalá",
+                  "text": "Centro Cultural Alcalá este un centru de arte activ care găzduiește ateliere comunitare și expoziții culturale locale în apropierea falezei.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.82806,
+                        28.203061
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Acest teatru servește ca loc de spectacole local în apropierea stâncilor de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.779927,
+                        28.209329
+                  ]
+            },
+            {
+                  "name": "Risco Verde",
+                  "text": "Această atracție naturală prezintă stânci stâncoase verzi uimitoare lângă coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.826699,
+                        28.306351
+                  ]
+            },
+            {
+                  "name": "Camino del barranco de Masca",
+                  "text": "Acest traseu accidentat șerpuiește prin adâncul defileu Masca.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.840495,
+                        28.304303
+                  ]
+            },
+            {
+                  "name": "Smiley",
+                  "text": "Această atracție de coastă cu un nume distinctiv se află pe fundalul stâncilor masive.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.818326,
+                        28.222549
+                  ]
+            },
+            {
+                  "name": "Neptuno",
+                  "text": "Această atracție stâncoasă de pe coastă își ia numele de la zeul roman al mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.84357,
+                        28.235455
+                  ]
+            },
+            {
+                  "name": "Cueva del Tacón",
+                  "text": "Această peșteră de coastă naturală oferă adăpost și formațiuni stâncoase unice.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.845724,
+                        28.239811
+                  ]
+            },
+            {
+                  "name": "Ventanas de Barranco Seco",
+                  "text": "Această atracție prezintă formațiuni naturale asemănătoare unor ferestre în defileul uscat.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.847654,
+                        28.273117
+                  ]
+            },
+            {
+                  "name": "Camino del Barranco los Sauces",
+                  "text": "Această atracție sub formă de canion abrupt prezintă pereți geologici adânc sculptați.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843927,
+                        28.283889
+                  ]
+            },
+            {
+                  "name": "Rocas Amarillas",
+                  "text": "Această atracție de coastă este caracterizată de stâncile sale galbene cu o culoare distinctă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.853829,
+                        28.273449
+                  ]
+            },
+            {
+                  "name": "La Jaquita",
+                  "text": "Acest loc de pe coastă prezintă formațiuni de rocă vulcanică de-a lungul țărmului.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.830253,
+                        28.208303
+                  ]
+            },
+            {
+                  "name": "Horno de cal",
+                  "text": "Acest cuptor istoric de var este o rămășiță a industriei locale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.811963,
+                        28.179232
+                  ]
+            },
+            {
+                  "name": "Charco de Isla Cangrejo",
+                  "text": "Această piscină naturală este înconjurată de stânci vulcanice de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843435,
+                        28.241513
+                  ]
+            },
+            {
+                  "name": "Mirador de Chirche",
+                  "text": "Acest punct de observație oferă o vedere panoramică asupra satului tradițional Chirche.",
+                  "category": "natural",
+                  "coords": [
+                        -16.759534,
+                        28.221301
+                  ]
+            },
+            {
+                  "name": "Mirador de Chío",
+                  "text": "Acest punct de belvedere oferă vederi extinse asupra peisajului vulcanic înconjurător din Chío.",
+                  "category": "natural",
+                  "coords": [
+                        -16.747193,
+                        28.266976
+                  ]
+            },
+            {
+                  "name": "Basalt Pyramids",
+                  "text": "Acest punct de belvedere pitoresc are vedere la coloane de stâncă bazaltică unghiulare distincte.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756839,
+                        28.271022
+                  ]
+            },
+            {
+                  "name": "Los Árboles Gigantes",
+                  "text": "Această platformă de observație este poziționată printre copaci nativi neobișnuit de mari.",
+                  "category": "natural",
+                  "coords": [
+                        -16.755053,
+                        28.284554
+                  ]
+            },
+            {
+                  "name": "Mirador de los Poleos",
+                  "text": "Acest punct de belvedere la mare altitudine oferă panorame largi asupra pantei vulcanice accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        -16.767878,
+                        28.280861
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Masca",
+                  "text": "Acest punct de belvedere pitoresc oferă vederi spectaculoase în jos spre valea abruptă Masca.",
+                  "category": "natural",
+                  "coords": [
+                        -16.834337,
+                        28.297855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Rural de Teno",
+                  "text": "Parque Rural de Teno is an expansive mountainous nature reserve known for its deep ravines and ancient laurel forests.",
+                  "category": "natural",
+                  "coords": [
+                        -16.852189,
+                        28.322149
+                  ]
+            },
+            {
+                  "name": "Franja marina de Teno-Rasca",
+                  "text": "The Franja marina de Teno-Rasca is a crucial coastal marine reserve sheltering diverse cetacean populations off the dramatic sea cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -16.891844,
+                        28.193405
+                  ]
+            },
+            {
+                  "name": "Playa de la Arena",
+                  "text": "Playa de la Arena is a popular coastal beach distinguished by its naturally occurring striking black volcanic sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840985,
+                        28.229749
+                  ]
+            },
+            {
+                  "name": "Parroquia del Espíritu Santo",
+                  "text": "Parroquia del Espíritu Santo is a local Catholic church providing a spiritual focal point for the surrounding coastal community.",
+                  "category": "religious",
+                  "coords": [
+                        -16.84041,
+                        28.243949
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Fernando Rey",
+                  "text": "Iglesia de San Fernando Rey is a dedicated place of worship showcasing traditional ecclesiastical architecture in the Los Gigantes region.",
+                  "category": "religious",
+                  "coords": [
+                        -16.815961,
+                        28.29768
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Luz",
+                  "text": "Iglesia Nuestra Señora de la Luz serves as a prominent church characterized by its iconic bell tower overlooking the surrounding area.",
+                  "category": "religious",
+                  "coords": [
+                        -16.778686,
+                        28.209526
+                  ]
+            },
+            {
+                  "name": "Playa Chica",
+                  "text": "Playa Chica is a small, sheltered sandy cove offering calm waters for swimming near the dramatic Los Gigantes cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.842704,
+                        28.237082
+                  ]
+            },
+            {
+                  "name": "Playa Los Guíos",
+                  "text": "Playa Los Guíos is a picturesque dark-sand beach situated right at the base of the towering Los Gigantes cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.840504,
+                        28.247496
+                  ]
+            },
+            {
+                  "name": "Playa de Fonsalía",
+                  "text": "Playa de Fonsalía is a quiet, rocky shoreline stretching along the coast, frequented by local sea-goers.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.821121,
+                        28.186127
+                  ]
+            },
+            {
+                  "name": "Playa de Abama",
+                  "text": "Playa de Abama is an artificial golden sand beach nestled in a sheltered bay below a luxury resort complex.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.805462,
+                        28.172006
+                  ]
+            },
+            {
+                  "name": "En Honor a la figura de Don Pancracio Socas Garcia",
+                  "text": "This public monument commemorates Don Pancracio Socas Garcia, honoring his contributions to the local civic community.",
+                  "category": "historical",
+                  "coords": [
+                        -16.841809,
+                        28.234847
+                  ]
+            },
+            {
+                  "name": "Barca",
+                  "text": "The Barca monument is a sculptural tribute shaped like a boat, symbolising the deeply rooted seafaring traditions of the coastal area.",
+                  "category": "historical",
+                  "coords": [
+                        -16.836936,
+                        28.240021
+                  ]
+            },
+            {
+                  "name": "Antigua estación de bombeo de agua",
+                  "text": "The ruins of this old water pumping station represent early industrial infrastructure built to irrigate the surrounding coastal fields.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808184,
+                        28.175695
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica el Pico Yeje",
+                  "text": "The Zona Arqueológica el Pico Yeje features ancient stone vestiges that shed light on the pre-Hispanic indigenous settlements of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -16.849354,
+                        28.306623
+                  ]
+            },
+            {
+                  "name": "Casas de la Cumbre",
+                  "text": "Casas de la Cumbre consists of the crumbling masonry remains of former mountainous dwellings set against the rugged inland landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -16.830079,
+                        28.314636
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Aripe",
+                  "text": "The Zona Arqueológica de Aripe is renowned for its prehistoric rock carvings etched directly into the ancient volcanic landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -16.765608,
+                        28.214663
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alcalá",
+                  "text": "Centro Cultural Alcalá is an active arts centre hosting community workshops and local cultural exhibitions near the seafront.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.82806,
+                        28.203061
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "This theatre serves as a local performance venue near the coastal cliffs.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.779927,
+                        28.209329
+                  ]
+            },
+            {
+                  "name": "Risco Verde",
+                  "text": "This natural attraction features striking green rocky crags near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.826699,
+                        28.306351
+                  ]
+            },
+            {
+                  "name": "Camino del barranco de Masca",
+                  "text": "This rugged trail winds through the deep Masca ravine.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.840495,
+                        28.304303
+                  ]
+            },
+            {
+                  "name": "Smiley",
+                  "text": "This distinctively named coastal attraction is set against the backdrop of the massive cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.818326,
+                        28.222549
+                  ]
+            },
+            {
+                  "name": "Neptuno",
+                  "text": "This rocky attraction on the coast takes its name from the Roman god of the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.84357,
+                        28.235455
+                  ]
+            },
+            {
+                  "name": "Cueva del Tacón",
+                  "text": "This natural coastal cave provides shelter and unique rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.845724,
+                        28.239811
+                  ]
+            },
+            {
+                  "name": "Windows of Barranco Seco",
+                  "text": "This attraction features natural window-like formations in the dry ravine.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.847654,
+                        28.273117
+                  ]
+            },
+            {
+                  "name": "Sauces Canyon",
+                  "text": "This steep canyon attraction features deeply carved geological walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843927,
+                        28.283889
+                  ]
+            },
+            {
+                  "name": "Rocas Amarillas",
+                  "text": "This coastal attraction is characterized by its distinctively colored yellow rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.853829,
+                        28.273449
+                  ]
+            },
+            {
+                  "name": "La Jaquita",
+                  "text": "This coastal spot features volcanic rock formations along the shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.830253,
+                        28.208303
+                  ]
+            },
+            {
+                  "name": "Horno de cal",
+                  "text": "This historic lime kiln is a remnant of traditional local industry.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.811963,
+                        28.179232
+                  ]
+            },
+            {
+                  "name": "Charco de Isla Cangrejo",
+                  "text": "This natural swimming pool is enclosed by volcanic coastal rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.843435,
+                        28.241513
+                  ]
+            },
+            {
+                  "name": "Mirador de Chirche",
+                  "text": "This observation point offers sweeping views over the traditional village of Chirche.",
+                  "category": "natural",
+                  "coords": [
+                        -16.759534,
+                        28.221301
+                  ]
+            },
+            {
+                  "name": "Mirador de Chío",
+                  "text": "This viewpoint provides expansive vistas over the surrounding volcanic landscape of Chío.",
+                  "category": "natural",
+                  "coords": [
+                        -16.747193,
+                        28.266976
+                  ]
+            },
+            {
+                  "name": "Basalt Pyramids",
+                  "text": "This scenic viewpoint overlooks distinctively angular basalt rock columns.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756839,
+                        28.271022
+                  ]
+            },
+            {
+                  "name": "Los Árboles Gigantes",
+                  "text": "This observation deck is positioned among unusually large native trees.",
+                  "category": "natural",
+                  "coords": [
+                        -16.755053,
+                        28.284554
+                  ]
+            },
+            {
+                  "name": "Mirador de los Poleos",
+                  "text": "This high-altitude viewpoint offers wide panoramas over the rugged volcanic slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -16.767878,
+                        28.280861
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Masca",
+                  "text": "This scenic overlook provides spectacular views down into the steep Masca valley.",
+                  "category": "natural",
+                  "coords": [
+                        -16.834337,
+                        28.297855
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Klippen von Los Gigantes", hu: "Los Gigantes sziklái", ro: "Stâncile Los Gigantes", en: "Cliffs of Los Gigantes"},

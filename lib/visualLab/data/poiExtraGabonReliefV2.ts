@@ -31,7 +31,52 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: ["Composed of ancient sedimentary rocks.", "Important water reservoir for the region."]
     }, image: "/poi-images/bateke-plateau-relief-v2.webp"},
   {
-    id: "leconi-canyon-relief-v2",
+    id: "leconi-canyon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eau claire",
+                  "text": "Eau claire ist eine landschaftliche Naturattraktion mit klarem Wasser nahe den Reliefstrukturen des Léconi-Canyons.",
+                  "category": "landmark",
+                  "coords": [
+                        14.200961,
+                        -1.575437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eau claire",
+                  "text": "Az Eau claire egy tiszta vizű természeti látványosság a Léconi-kanyon domborzati formái közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.200961,
+                        -1.575437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eau claire",
+                  "text": "Eau claire este o atracție naturală cu ape limpezi în apropierea structurilor de relief ale Canionului Léconi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.200961,
+                        -1.575437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eau claire",
+                  "text": "Eau claire is a natural attraction featuring clear waters near the relief structures of the Léconi Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.200961,
+                        -1.575437
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GA-2",
     coords: [14.2, -1.5],
@@ -708,7 +753,52 @@ export const poiExtraGabonReliefV2: POI[] = [
       fr: ["Climat plus frais que dans les plaines.", "Écosystèmes de savane herbeuse uniques."],
     }, image: "/poi-images/bateke-highlands-relief-v2.webp"},
   {
-    id: "baniaka-mountains-relief-v2",
+    id: "baniaka-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les chutes de la Djoumou",
+                  "text": "Les chutes de la Djoumou sind malerische Wasserfälle, die durch das zerklüftete Relief der Baniaka-Berge fließen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.655878,
+                        -1.684424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les chutes de la Djoumou",
+                  "text": "A Les chutes de la Djoumou egy festői vízesés, amely a Baniaka-hegység zord domborzatán folyik keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        13.655878,
+                        -1.684424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les chutes de la Djoumou",
+                  "text": "Les chutes de la Djoumou sunt cascade pitorești care curg prin relieful accidentat al munților Baniaka.",
+                  "category": "landmark",
+                  "coords": [
+                        13.655878,
+                        -1.684424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les chutes de la Djoumou",
+                  "text": "Les chutes de la Djoumou are scenic waterfalls flowing through the rugged relief of the Baniaka mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        13.655878,
+                        -1.684424
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GA-2",
     coords: [13.7, -1.7],
@@ -757,7 +847,52 @@ export const poiExtraGabonReliefV2: POI[] = [
     }
   },
   {
-    id: "mpassa-canyons-relief-v2",
+    id: "mpassa-canyons-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolée Omar Bongo Ondimba",
+                  "text": "Das Mausolée Omar Bongo Ondimba ist ein monumentaler Grabkomplex, der dem verstorbenen gabunischen Präsidenten Omar Bongo Ondimba gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        13.590526,
+                        -1.611429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolée Omar Bongo Ondimba",
+                  "text": "A Mausolée Omar Bongo Ondimba egy monumentális síremlékkoplexum, amelyet a néhai gaboni elnök, Omar Bongo Ondimba emlékének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        13.590526,
+                        -1.611429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolée Omar Bongo Ondimba",
+                  "text": "Mausolée Omar Bongo Ondimba este un complex monumental de morminte dedicat regretatului președinte gabonez Omar Bongo Ondimba.",
+                  "category": "historical",
+                  "coords": [
+                        13.590526,
+                        -1.611429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausolée Omar Bongo Ondimba",
+                  "text": "The Mausolée Omar Bongo Ondimba is a monumental tomb complex dedicated to the late Gabonese President Omar Bongo Ondimba.",
+                  "category": "historical",
+                  "coords": [
+                        13.590526,
+                        -1.611429
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GA-2",
     coords: [13.6, -1.6],

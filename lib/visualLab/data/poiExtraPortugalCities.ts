@@ -241,7 +241,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Tipuana",
-                  "text": "Ein markanter Baum oder eine botanische Sehenswürdigkeit in Lissabon.",
+                  "text": "Denkmalgeschützter Tipuana-Baum in Lissabon.",
                   "category": "landmark",
                   "coords": [
                         -9.154559,
@@ -963,7 +963,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Tipuana",
-                  "text": "Egy jellegzetes fa vagy botanikai látnivaló Lisszabonban.",
+                  "text": "Műemlék tipuana fa Lisszabonban.",
                   "category": "landmark",
                   "coords": [
                         -9.154559,
@@ -1685,7 +1685,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Tipuana",
-                  "text": "Un arbore distinctiv sau o atracție botanică în Lisabona.",
+                  "text": "Arbore Tipuana monument istoric în Lisabona.",
                   "category": "landmark",
                   "coords": [
                         -9.154559,
@@ -2407,7 +2407,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Tipuana",
-                  "text": "A distinctive tree or botanical attraction in Lisbon.",
+                  "text": "Heritage-listed Tipuana tree in Lisbon.",
                   "category": "landmark",
                   "coords": [
                         -9.154559,
@@ -3020,7 +3020,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Casa da Câmara",
-                  "text": "Die Casa da Câmara ist ein historisches Gemeindegebäude und Museum in Porto.",
+                  "text": "Die 2000 von Fernando Távora erbaute Casa da Câmara in Porto ist ein modernes Museum.",
                   "category": "museum",
                   "coords": [
                         -8.611645,
@@ -3029,7 +3029,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu do Vinho do Porto",
-                  "text": "Das Museu do Vinho do Porto ist ein Museum in Porto, das der Geschichte des Portweins gewidmet ist.",
+                  "text": "Denkmalgeschütztes Museum des Portweins in Porto.",
                   "category": "museum",
                   "coords": [
                         -8.6153,
@@ -3065,7 +3065,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Arca de Água de Mijavelhas",
-                  "text": "Arca de Água de Mijavelhas ist eine historische Wasserinfrastruktur und eine archäologische Stätte in Porto.",
+                  "text": "Der Arca de Água de Mijavelhas in Porto ist ein wasserbogen aus dem 16. Jahrhundert, Baudenkmal.",
                   "category": "historical",
                   "coords": [
                         -8.598566,
@@ -3119,7 +3119,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "Die Capela Carlos Alberto ist eine lutherische Kultstätte in Porto.",
+                  "text": "Denkmalgeschützte lutherische Kapelle Carlos Alberto in Porto.",
                   "category": "religious",
                   "coords": [
                         -8.626912,
@@ -3137,7 +3137,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "Die Igreja do Corpo Santo de Massarelos ist eine Kultstätte und die Pfarrkirche von Massarelos in Porto.",
+                  "text": "Denkmalgeschützte Kirche Corpo Santo in Massarelos, Porto.",
                   "category": "religious",
                   "coords": [
                         -8.630491,
@@ -3146,7 +3146,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "Die Capela de Nossa Senhora das Verdades ist eine historische Kapelle und Kultstätte in Porto.",
+                  "text": "Denkmalgeschützte Kapelle Unserer Lieben Frau der Wahrheiten in Porto.",
                   "category": "religious",
                   "coords": [
                         -8.61136,
@@ -3173,7 +3173,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro de Miragaia",
-                  "text": "Die Igreja de São Pedro de Miragaia ist eine traditionelle Kultstätte in Porto.",
+                  "text": "Denkmalgeschützte Kirche São Pedro de Miragaia in Porto.",
                   "category": "religious",
                   "coords": [
                         -8.619684,
@@ -3281,7 +3281,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Municipal Rivoli",
-                  "text": "Das Teatro Municipal Rivoli ist ein bedeutendes städtisches Theater und eine kulturelle Attraktion in Porto.",
+                  "text": "Das 1913 von Júlio José de Brito und Pedro Ramalho erbaute Teatro Municipal Rivoli in Porto ist ein Beaux-Arts-Theater.",
                   "category": "landmark",
                   "coords": [
                         -8.609998,
@@ -3580,7 +3580,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Casa da Câmara",
-                  "text": "A Casa da Câmara egy történelmi önkormányzati épület és múzeum Portóban.",
+                  "text": "A Porto-i Casa da Câmara 2000-ben épült Fernando Távora tervei alapján, modern múzeum.",
                   "category": "museum",
                   "coords": [
                         -8.611645,
@@ -3589,7 +3589,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu do Vinho do Porto",
-                  "text": "A Museu do Vinho do Porto egy portói bor történetének szentelt múzeum Portóban.",
+                  "text": "Műemlék Portói Bor Múzeuma Portóban.",
                   "category": "museum",
                   "coords": [
                         -8.6153,
@@ -3625,7 +3625,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Arca de Água de Mijavelhas",
-                  "text": "Az Arca de Água de Mijavelhas egy történelmi vízügyi infrastruktúra és régészeti lelőhely Portóban.",
+                  "text": "A portói Arca de Água de Mijavelhas egy 16. századi vízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízívízí",
                   "category": "historical",
                   "coords": [
                         -8.598566,
@@ -3679,7 +3679,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "A Capela Carlos Alberto egy lutheránus istentiszteleti hely Portóban.",
+                  "text": "Műemlék evangélikus Carlos Alberto-kápolna Portóban.",
                   "category": "religious",
                   "coords": [
                         -8.626912,
@@ -3697,7 +3697,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "Az Igreja do Corpo Santo de Massarelos egy istentiszteleti hely és Massarelos plébániatemploma Portóban.",
+                  "text": "Műemlék Corpo Santo-templom Massarelosban, Portóban.",
                   "category": "religious",
                   "coords": [
                         -8.630491,
@@ -3706,7 +3706,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "A Capela de Nossa Senhora das Verdades egy történelmi kápolna és istentiszteleti hely Portóban.",
+                  "text": "Műemlék Igazságok Szűzanyja-kápolna Portóban.",
                   "category": "religious",
                   "coords": [
                         -8.61136,
@@ -3733,7 +3733,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro de Miragaia",
-                  "text": "Az Igreja de São Pedro de Miragaia egy hagyományos istentiszteleti hely Portóban.",
+                  "text": "Műemlék São Pedro de Miragaia-templom Portóban.",
                   "category": "religious",
                   "coords": [
                         -8.619684,
@@ -3841,7 +3841,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Municipal Rivoli",
-                  "text": "A Teatro Municipal Rivoli egy kiemelkedő városi színház és kulturális látványosság Portóban.",
+                  "text": "A Porto-i Teatro Municipal Rivoli 1913-ban épült Júlio José de Brito és Pedro Ramalho tervei alapján, Beaux-Arts stílusú színház.",
                   "category": "landmark",
                   "coords": [
                         -8.609998,
@@ -4140,7 +4140,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Casa da Câmara",
-                  "text": "Casa da Câmara este o clădire municipală istorică și un muzeu din Porto.",
+                  "text": "Casa da Câmara din Porto, construită în 2000 de Fernando Távora, este un muzeu modern.",
                   "category": "museum",
                   "coords": [
                         -8.611645,
@@ -4149,7 +4149,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu do Vinho do Porto",
-                  "text": "Museu do Vinho do Porto este un muzeu din Porto dedicat istoriei vinului de Porto.",
+                  "text": "Muzeul Vinului de Porto, monument istoric, în Porto.",
                   "category": "museum",
                   "coords": [
                         -8.6153,
@@ -4185,7 +4185,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Arca de Água de Mijavelhas",
-                  "text": "Arca de Água de Mijavelhas este o infrastructură istorică de apă și un sit arheologic din Porto.",
+                  "text": "Arca de Água de Mijavelhas din Porto este un arc de apă din secolul al XVI-lea, monument istoric.",
                   "category": "historical",
                   "coords": [
                         -8.598566,
@@ -4239,7 +4239,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "Capela Carlos Alberto este un lăcaș de cult luteran situat în Porto.",
+                  "text": "Capela luterană Carlos Alberto, monument istoric, în Porto.",
                   "category": "religious",
                   "coords": [
                         -8.626912,
@@ -4257,7 +4257,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "Igreja do Corpo Santo de Massarelos este un lăcaș de cult și biserica parohială din Massarelos în Porto.",
+                  "text": "Biserica Corpo Santo din Massarelos, monument istoric, în Porto.",
                   "category": "religious",
                   "coords": [
                         -8.630491,
@@ -4266,7 +4266,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "Capela de Nossa Senhora das Verdades este o capelă istorică și un lăcaș de cult din Porto.",
+                  "text": "Capela Maicii Domnului a Adevărurilor, monument istoric, în Porto.",
                   "category": "religious",
                   "coords": [
                         -8.61136,
@@ -4293,7 +4293,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro de Miragaia",
-                  "text": "Igreja de São Pedro de Miragaia este un lăcaș de cult tradițional situat în Porto.",
+                  "text": "Biserica São Pedro de Miragaia, monument istoric, în Porto.",
                   "category": "religious",
                   "coords": [
                         -8.619684,
@@ -4401,7 +4401,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Municipal Rivoli",
-                  "text": "Teatro Municipal Rivoli este un teatru municipal proeminent și o atracție culturală în Porto.",
+                  "text": "Teatrul Municipal Rivoli din Porto, construit în 1913 de Júlio José de Brito și Pedro Ramalho, este un teatru în stil Beaux-Arts.",
                   "category": "landmark",
                   "coords": [
                         -8.609998,
@@ -4700,7 +4700,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Casa da Câmara",
-                  "text": "Casa da Câmara is a historical municipal building and museum located in Porto.",
+                  "text": "Casa da Câmara in Porto, built in 2000 by Fernando Távora, is a modern museum.",
                   "category": "museum",
                   "coords": [
                         -8.611645,
@@ -4709,7 +4709,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu do Vinho do Porto",
-                  "text": "Museu do Vinho do Porto is a museum in Porto dedicated to the history of Port wine.",
+                  "text": "Heritage-listed Port Wine Museum in Porto.",
                   "category": "museum",
                   "coords": [
                         -8.6153,
@@ -4745,7 +4745,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Arca de Água de Mijavelhas",
-                  "text": "Arca de Água de Mijavelhas is a historical water infrastructure and archaeological site in Porto.",
+                  "text": "The Arca de Água de Mijavelhas in Porto is a 16th-century water arch, a heritage monument.",
                   "category": "historical",
                   "coords": [
                         -8.598566,
@@ -4799,7 +4799,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "Capela Carlos Alberto is a Lutheran place of worship located in Porto.",
+                  "text": "Heritage-listed Lutheran Carlos Alberto Chapel in Porto.",
                   "category": "religious",
                   "coords": [
                         -8.626912,
@@ -4817,7 +4817,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "Igreja do Corpo Santo de Massarelos is a place of worship and the parish church of Massarelos in Porto.",
+                  "text": "Heritage-listed Church of Corpo Santo in Massarelos, Porto.",
                   "category": "religious",
                   "coords": [
                         -8.630491,
@@ -4826,7 +4826,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "Capela de Nossa Senhora das Verdades is a historic chapel and place of worship in Porto.",
+                  "text": "Heritage-listed Chapel of Our Lady of Truths in Porto.",
                   "category": "religious",
                   "coords": [
                         -8.61136,
@@ -4853,7 +4853,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro de Miragaia",
-                  "text": "Igreja de São Pedro de Miragaia is a traditional place of worship situated in Porto.",
+                  "text": "Heritage-listed Church of São Pedro de Miragaia in Porto.",
                   "category": "religious",
                   "coords": [
                         -8.619684,
@@ -4961,7 +4961,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Municipal Rivoli",
-                  "text": "Teatro Municipal Rivoli is a prominent municipal theatre and cultural attraction in Porto.",
+                  "text": "The Teatro Municipal Rivoli in Porto, built in 1913 by Júlio José de Brito and Pedro Ramalho, is a Beaux-Arts theatre.",
                   "category": "landmark",
                   "coords": [
                         -8.609998,

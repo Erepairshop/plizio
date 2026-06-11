@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraEquatorialguineaLifeV2: POI[] = [
   {
-    id: "schildkroetenstrand-ureca-life-v2",
+    id: "schildkroetenstrand-ureca-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Moaba",
+                  "text": "Dieser einsame Küstenstrand in der Ureca-Region bietet einen ruhigen Sandstrand, der für nistende Meeresschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649236,
+                        3.22634
+                  ]
+            },
+            {
+                  "name": "Corazón de Moaba",
+                  "text": "Diese Naturattraktion bietet einen markanten Aussichtspunkt, eingebettet in das reiche Ökosystem am Schildkrötenstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.619556,
+                        3.231908
+                  ]
+            },
+            {
+                  "name": "Playa de Sobe",
+                  "text": "Gekennzeichnet durch seine Sandstrände bietet dieser Strand eine natürliche Kulisse entlang der ruhigen Küste der Schildkröten von Ureca.",
+                  "category": "recreational",
+                  "coords": [
+                        8.589593,
+                        3.246622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Moaba",
+                  "text": "Ez az eldugott tengerparti strand az Ureca régióban egy csendes homokos szakaszt kínál, amely a fészkelő tengeri teknősökről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649236,
+                        3.22634
+                  ]
+            },
+            {
+                  "name": "Corazón de Moaba",
+                  "text": "Ez a természeti látványosság egy különálló kilátópontot kínál a teknősök strandjának gazdag ökoszisztémájába ágyazva.",
+                  "category": "landmark",
+                  "coords": [
+                        8.619556,
+                        3.231908
+                  ]
+            },
+            {
+                  "name": "Playa de Sobe",
+                  "text": "A homokos partjairól ismert strand természetes környezetet biztosít Ureca nyugodt teknős-partvidéke mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.589593,
+                        3.246622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Moaba",
+                  "text": "Această plajă izolată din regiunea Ureca oferă o porțiune liniștită de nisip cunoscută pentru cuibăritul țestoaselor marine.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649236,
+                        3.22634
+                  ]
+            },
+            {
+                  "name": "Corazón de Moaba",
+                  "text": "Această atracție naturală oferă un punct de belvedere distinct integrat în bogatul ecosistem al plajei țestoaselor.",
+                  "category": "landmark",
+                  "coords": [
+                        8.619556,
+                        3.231908
+                  ]
+            },
+            {
+                  "name": "Playa de Sobe",
+                  "text": "Caracterizată de țărmurile sale nisipoase, această plajă oferă un cadru natural de-a lungul coastei liniștite cu țestoase din Ureca.",
+                  "category": "recreational",
+                  "coords": [
+                        8.589593,
+                        3.246622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Moaba",
+                  "text": "This secluded coastal beach in the Ureca region offers a quiet stretch of sand known for nesting sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649236,
+                        3.22634
+                  ]
+            },
+            {
+                  "name": "Corazón de Moaba",
+                  "text": "This natural attraction provides a distinct scenic point nestled within the rich ecosystem of the turtle beach.",
+                  "category": "landmark",
+                  "coords": [
+                        8.619556,
+                        3.231908
+                  ]
+            },
+            {
+                  "name": "Playa de Sobe",
+                  "text": "Characterized by its sandy shores, this beach provides a natural setting along the serene turtle coastline of Ureca.",
+                  "category": "recreational",
+                  "coords": [
+                        8.589593,
+                        3.246622
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GQ-BS",
     coords: [8.58, 3.25],
@@ -273,7 +390,88 @@ image: "/poi-images/kakaoplantage-sampaka-life-v2.webp",
       fr: ["Propose des visites guidées du processus de culture.", "Architecture coloniale préservée sur le site."],
     }, image: "/poi-images/kakaoplantage-sampaka-life-v2.webp"},
   {
-    id: "kaffeegaerten-moca-life-v2",
+    id: "kaffeegaerten-moca-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vista de Moka",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet weite Panoramen über die umliegenden hochgelegenen Kaffeegärten von Moka.",
+                  "category": "natural",
+                  "coords": [
+                        8.663727,
+                        3.364905
+                  ]
+            },
+            {
+                  "name": "Centro de Vida Salvaje BBPP de Moka",
+                  "text": "Dieses Museum und Naturschutzzentrum dokumentiert die einzigartige Artenvielfalt in den Kaffeegärten der Moka-Region.",
+                  "category": "museum",
+                  "coords": [
+                        8.662151,
+                        3.361249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vista de Moka",
+                  "text": "Ez a magaslati kilátó kiterjedt panorámát kínál a környező, magasan fekvő mokai kávékertekre.",
+                  "category": "natural",
+                  "coords": [
+                        8.663727,
+                        3.364905
+                  ]
+            },
+            {
+                  "name": "Centro de Vida Salvaje BBPP de Moka",
+                  "text": "Ez a múzeum és természetvédelmi központ a mokai régió kávékertjeinek egyedülálló biodiverzitását dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.662151,
+                        3.361249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vista de Moka",
+                  "text": "Acest punct de observație înalt oferă panorame vaste asupra grădinilor de cafea de mare altitudine din Moka.",
+                  "category": "natural",
+                  "coords": [
+                        8.663727,
+                        3.364905
+                  ]
+            },
+            {
+                  "name": "Centro de Vida Salvaje BBPP de Moka",
+                  "text": "Acest muzeu și centru de conservare documentează biodiversitatea unică din grădinile de cafea din regiunea Moka.",
+                  "category": "museum",
+                  "coords": [
+                        8.662151,
+                        3.361249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vista de Moka",
+                  "text": "This elevated viewpoint offers expansive panoramas over the surrounding high-altitude coffee gardens of Moka.",
+                  "category": "natural",
+                  "coords": [
+                        8.663727,
+                        3.364905
+                  ]
+            },
+            {
+                  "name": "Wildlife Centre BBPP of Moka",
+                  "text": "This museum and conservation center details the unique biodiversity found in the coffee gardens of the Moka region.",
+                  "category": "museum",
+                  "coords": [
+                        8.662151,
+                        3.361249
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GQ-BS",
     coords: [8.66, 3.35],

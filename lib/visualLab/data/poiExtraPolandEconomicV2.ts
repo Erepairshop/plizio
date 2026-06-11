@@ -2188,7 +2188,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Bez Sceny",
-                  "text": "Das Teatr Bez Sceny (Theater ohne Bühne) ist ein intimes Privattheater in Kattowitz.",
+                  "text": "Teatr Bez Sceny (Theater ohne Bühne), gegründet 1997 im Katowice Business Center.",
                   "category": "cultural",
                   "coords": [
                         19.018953,
@@ -2260,7 +2260,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Kazimierza Królewicza",
-                  "text": "Die Garnisonskirche St. Kasimir ist ein bedeutender katholischer Sakralbau in Kattowitz.",
+                  "text": "Garnisonkirche des Heiligen Kasimir, denkmalgeschützt im Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.015152,
@@ -2341,7 +2341,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
-                  "text": "Die Kościół pw. Świętych Apostołów Piotra i Pawła ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "text": "Kirche der Heiligen Apostel Petrus und Paulus, denkmalgeschützt im Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.010255,
@@ -2350,7 +2350,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół świętego Józefa",
-                  "text": "Die Kościół świętego Józefa ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "text": "Die 1900 von Ludwig Schneider erbaute St.-Josephs-Kirche in Katowice Business Center ist eine neuromanische Kirche.",
                   "category": "religious",
                   "coords": [
                         19.000452,
@@ -2359,7 +2359,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
-                  "text": "Die Kościół pw. Świętych Męczenników Jana i Pawła ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "text": "Die 1902 erbaute Kirche der heiligen Märtyrer Johannes und Paulus in Katowice ist ein Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         18.996523,
@@ -2368,7 +2368,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "Die Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "text": "Kirche der Unbefleckten Empfängnis der seligen Jungfrau Maria, denkmalgeschützt im Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.030314,
@@ -2395,7 +2395,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
-                  "text": "Pałac Młodzieży im. Aleksandra Kamińskiego ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "text": "Alexander-Kamiński-Jugendpalast (Pałac Młodzieży), denkmalgeschützt im Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.011522,
@@ -2404,7 +2404,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Drapacz Chmur",
-                  "text": "Drapacz Chmur ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "text": "Wolkenkratzer (Drapacz Chmur), denkmalgeschützt im Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.014173,
@@ -2413,7 +2413,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Spodek",
-                  "text": "Spodek ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "text": "Spodek (die „Untertasse“), ikonische Sport- und Veranstaltungshalle, erbaut 1971 im Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.025328,
@@ -2422,7 +2422,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego w Katowicach",
-                  "text": "Urząd Stanu Cywilnego w Katowicach ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "text": "Goldstein-Palast (Standesamt), denkmalgeschützt im Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.013564,
@@ -2440,7 +2440,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Wieża spadochronowa",
-                  "text": "Wieża spadochronowa ist ein bekannter Turm im Geschäftszentrum Kattowitz.",
+                  "text": "Fallschirmturm (Wieża spadochronowa), denkmalgeschützt im Katowice Business Center.",
                   "category": "tower",
                   "coords": [
                         19.007712,
@@ -2757,7 +2757,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Bez Sceny",
-                  "text": "A Teatr Bez Sceny egy meghitt független színház Katowicében.",
+                  "text": "Teatr Bez Sceny (Színház Színpad Nélkül), 1997-ben alapítva a Katowice Business Centerben.",
                   "category": "cultural",
                   "coords": [
                         19.018953,
@@ -2829,7 +2829,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Kazimierza Królewicza",
-                  "text": "A Szent Kázmér Helyőrségi Templom egy fontos katolikus egyházi épület Katowicében.",
+                  "text": "Szent Kázmér helyőrségi templom, műemlék a Katowice Business Centerben.",
                   "category": "religious",
                   "coords": [
                         19.015152,
@@ -2910,7 +2910,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
-                  "text": "A Kościół pw. Świętych Apostołów Piotra i Pawła egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "text": "Szent Péter és Pál apostolok temploma, műemlék a Katowice Business Centerben.",
                   "category": "religious",
                   "coords": [
                         19.010255,
@@ -2919,7 +2919,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół świętego Józefa",
-                  "text": "A Kościół świętego Józefa egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "text": "A Katowice Business Center-i Szent József-templom 1900-ban épült Ludwig Schneider tervei alapján, neoromán stílusban.",
                   "category": "religious",
                   "coords": [
                         19.000452,
@@ -2928,7 +2928,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
-                  "text": "A Kościół pw. Świętych Męczenników Jana i Pawła egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "text": "A Katowice-i Szent János és Pál vértanúk templom 1902-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.996523,
@@ -2937,7 +2937,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "A Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "text": "Boldog Szűz Mária Szeplőtelen Fogantatása templom, műemlék a Katowice Business Centerben.",
                   "category": "religious",
                   "coords": [
                         19.030314,
@@ -2964,7 +2964,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
-                  "text": "A Pałac Młodzieży im. Aleksandra Kamińskiego egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "text": "Aleksander Kamiński Ifjúsági Palota (Pałac Młodzieży), műemlék a Katowice Business Centerben.",
                   "category": "landmark",
                   "coords": [
                         19.011522,
@@ -2973,7 +2973,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Drapacz Chmur",
-                  "text": "A Drapacz Chmur egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "text": "Felhőkarcoló (Drapacz Chmur), műemlék a Katowice Business Centerben.",
                   "category": "landmark",
                   "coords": [
                         19.014173,
@@ -2982,7 +2982,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Spodek",
-                  "text": "A Spodek egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "text": "Spodek („Csészealj”), ikonikus sport- és rendezvénycsarnok, 1971-ben épült a Katowice Business Centerben.",
                   "category": "landmark",
                   "coords": [
                         19.025328,
@@ -2991,7 +2991,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego w Katowicach",
-                  "text": "Az Urząd Stanu Cywilnego w Katowicach egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "text": "Goldstein-palota (anyakönyvi hivatal), műemlék a Katowice Business Centerben.",
                   "category": "landmark",
                   "coords": [
                         19.013564,
@@ -3009,7 +3009,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Wieża spadochronowa",
-                  "text": "A Wieża spadochronowa egy ismert torony a Geschäftszentrum Kattowitz területén.",
+                  "text": "Ejtőernyős torony (Wieża spadochronowa), műemlék a Katowice Business Centerben.",
                   "category": "tower",
                   "coords": [
                         19.007712,
@@ -3326,7 +3326,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Bez Sceny",
-                  "text": "Teatr Bez Sceny este un teatru independent și intim situat în Katowice.",
+                  "text": "Teatr Bez Sceny (Teatru Fără Scenă), fondat în 1997 în Katowice Business Center.",
                   "category": "cultural",
                   "coords": [
                         19.018953,
@@ -3398,7 +3398,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Kazimierza Królewicza",
-                  "text": "Biserica de garnizoană Sfântul Cazimir este o biserică catolică impunătoare din Katowice.",
+                  "text": "Biserica garnizoanei Sfântul Cazimir, monument protejat în Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.015152,
@@ -3479,7 +3479,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
-                  "text": "Kościół pw. Świętych Apostołów Piotra i Pawła este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica Sfinților Apostoli Petru și Pavel, monument protejat în Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.010255,
@@ -3488,7 +3488,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół świętego Józefa",
-                  "text": "Kościół świętego Józefa este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica Sfântul Iosif din Katowice Business Center, construită în 1900 de Ludwig Schneider, este o biserică neoromană.",
                   "category": "religious",
                   "coords": [
                         19.000452,
@@ -3497,7 +3497,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
-                  "text": "Kościół pw. Świętych Męczenników Jana i Pawła este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica „Sfinții Mucenici Ioan și Pavel” din Katowice, construită în 1902, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.996523,
@@ -3506,7 +3506,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica Neprihănitei Zămisliri a Preasfintei Fecioare Maria, monument protejat în Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.030314,
@@ -3533,7 +3533,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
-                  "text": "Pałac Młodzieży im. Aleksandra Kamińskiego este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Palatul Tineretului Aleksander Kamiński (Pałac Młodzieży), monument protejat în Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.011522,
@@ -3542,7 +3542,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Drapacz Chmur",
-                  "text": "Drapacz Chmur este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Zgârie-nori (Drapacz Chmur), monument protejat în Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.014173,
@@ -3551,7 +3551,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Spodek",
-                  "text": "Spodek este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Spodek („Farfuria”), emblematică sală sportivă și de evenimente, construită în 1971 în Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.025328,
@@ -3560,7 +3560,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego w Katowicach",
-                  "text": "Urząd Stanu Cywilnego w Katowicach este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Palatul Goldstein (Oficiul de Stare Civilă), monument protejat în Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.013564,
@@ -3578,7 +3578,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Wieża spadochronowa",
-                  "text": "Wieża spadochronowa este un turn notabil în Geschäftszentrum Kattowitz.",
+                  "text": "Turnul de parașute (Wieża spadochronowa), monument protejat în Katowice Business Center.",
                   "category": "tower",
                   "coords": [
                         19.007712,
@@ -3895,7 +3895,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Bez Sceny",
-                  "text": "Teatr Bez Sceny is an intimate independent theatre located in Katowice.",
+                  "text": "Teatr Bez Sceny (Theatre Without a Stage), founded in 1997 in Katowice Business Center.",
                   "category": "cultural",
                   "coords": [
                         19.018953,
@@ -3967,7 +3967,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Garrison Church of St Casimir",
-                  "text": "The Garrison Church of St Casimir is a prominent Catholic church situated in Katowice.",
+                  "text": "Garrison church of St. Casimir, a listed church in Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.015152,
@@ -4048,7 +4048,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
-                  "text": "The Kościół pw. Świętych Apostołów Piotra i Pawła is a notable church located in Geschäftszentrum Kattowitz.",
+                  "text": "Church of Saints Peter and Paul, a listed church in Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.010255,
@@ -4057,7 +4057,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół świętego Józefa",
-                  "text": "The Kościół świętego Józefa is a notable church located in Geschäftszentrum Kattowitz.",
+                  "text": "St. Joseph's Church in Katowice Business Center, built in 1900 by Ludwig Schneider, is a Neo-Romanesque church.",
                   "category": "religious",
                   "coords": [
                         19.000452,
@@ -4066,7 +4066,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
-                  "text": "The Kościół pw. Świętych Męczenników Jana i Pawła is a notable church located in Geschäftszentrum Kattowitz.",
+                  "text": "Built in 1902, the Church of Saints John and Paul Martyrs in Katowice is a heritage building.",
                   "category": "religious",
                   "coords": [
                         18.996523,
@@ -4075,7 +4075,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "The Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny is a notable church located in Geschäftszentrum Kattowitz.",
+                  "text": "Church of the Immaculate Conception of the Blessed Virgin Mary, a listed church in Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.030314,
@@ -4102,7 +4102,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
-                  "text": "Pałac Młodzieży im. Aleksandra Kamińskiego is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "text": "Aleksander Kamiński Youth Palace (Pałac Młodzieży), a listed landmark in Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.011522,
@@ -4111,7 +4111,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Drapacz Chmur",
-                  "text": "Drapacz Chmur is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "text": "Skyscraper (Drapacz Chmur), a listed landmark in Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.014173,
@@ -4120,7 +4120,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Spodek",
-                  "text": "Spodek is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "text": "Spodek (the 'Saucer'), iconic sports and entertainment hall built in 1971 in Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.025328,
@@ -4129,7 +4129,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego w Katowicach",
-                  "text": "Urząd Stanu Cywilnego w Katowicach is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "text": "Goldstein Palace (Civil Registry Office), a listed landmark in Katowice Business Center.",
                   "category": "landmark",
                   "coords": [
                         19.013564,
@@ -4147,7 +4147,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Wieża spadochronowa",
-                  "text": "Wieża spadochronowa is a notable tower located in Geschäftszentrum Kattowitz.",
+                  "text": "Parachute tower (Wieża spadochronowa), a listed tower in Katowice Business Center.",
                   "category": "tower",
                   "coords": [
                         19.007712,

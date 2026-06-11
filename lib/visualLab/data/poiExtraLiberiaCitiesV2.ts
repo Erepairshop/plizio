@@ -471,7 +471,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-gbanga-cities-v2.webp",
   },
   {
-    id: "liberia-buchanan-cities-v2",
+    id: "liberia-buchanan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach ist eine sandige Küstenattraktion, die für ihre malerischen abendlichen Ausblicke in liberia-buchanan-cities-v2 bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.017766,
+                        5.831402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "A Sunset Beach egy homokos tengerparti látványosság, amely festői esti kilátásáról ismert liberia-buchanan-cities-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.017766,
+                        5.831402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach este o atracție de coastă nisipoasă, cunoscută pentru priveliștile sale pitorești de seară din liberia-buchanan-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.017766,
+                        5.831402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach is a sandy coastal attraction known for its scenic evening views in liberia-buchanan-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.017766,
+                        5.831402
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "port",
     name: { de: "Buchanan", hu: "Buchanan", ro: "Buchanan", en: "Buchanan" },
@@ -2082,7 +2127,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-nyen-cities-v2.webp",
   },
   {
-    id: "liberia-zota-cities-v2",
+    id: "liberia-zota-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gbenyeh Hill",
+                  "text": "Der Gbenyeh Hill ist eine markante Hügelformation, die die städtischen Siedlungen in der Nähe von Zota überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.295266,
+                        7.16124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gbenyeh Hill",
+                  "text": "A Gbenyeh Hill egy jellegzetes dombtető formáció, amely a Zota közeli városi településekre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.295266,
+                        7.16124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gbenyeh Hill",
+                  "text": "Gbenyeh Hill este o formațiune colinară distinctivă cu vedere spre așezările urbane din apropiere de Zota.",
+                  "category": "natural",
+                  "coords": [
+                        -9.295266,
+                        7.16124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gbenyeh Hill",
+                  "text": "Gbenyeh Hill is a distinctive hilltop formation overlooking the urban settlements near Zota.",
+                  "category": "natural",
+                  "coords": [
+                        -9.295266,
+                        7.16124
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "town",
     name: { de: "Zota", hu: "Zota", ro: "Zota", en: "Zota" },
@@ -2487,7 +2577,124 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-bolahun-cities-v2.webp",
   },
   {
-    id: "liberia-gbanga-v2-cities-v2",
+    id: "liberia-gbanga-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star ist eine lokale Fotogalerie, die visuelle Kunst in liberia-gbanga-v2-cities-v2 ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            },
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Das Millennium Sport Center dient als Veranstaltungsort und Theater in liberia-gbanga-v2-cities-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "Das Sam Arts Production Center ist eine Kunstgalerie und ein kreativer Raum in liberia-gbanga-v2-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bong Photo Star",
+                  "text": "A Bong Photo Star egy helyi fotógaléria, amely a vizuális művészeteket mutatja be liberia-gbanga-v2-cities-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            },
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "A Millennium Sport Center rendezvény- és színházi helyszínként működik liberia-gbanga-v2-cities-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "A Sam Arts Production Center egy művészeti galéria és kreatív tér liberia-gbanga-v2-cities-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star este o galerie locală de fotografie care expune arte vizuale în liberia-gbanga-v2-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            },
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Millennium Sport Center funcționează ca loc de evenimente și teatru în liberia-gbanga-v2-cities-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "Sam Arts Production Center este o galerie de artă și un spațiu creativ situat în liberia-gbanga-v2-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star is a local photography gallery showcasing visual arts in liberia-gbanga-v2-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            },
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Millennium Sport Center functions as an event and theatrical venue in liberia-gbanga-v2-cities-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "Sam Arts Production Center is an artistic gallery and creative space situated in liberia-gbanga-v2-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "town",
     name: { de: "Gbanga", hu: "Gbanga", ro: "Gbanga", en: "Gbanga" },
@@ -2532,7 +2739,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-gbanga-v2-cities-v2.webp",
   },
   {
-    id: "liberia-yeala-cities-v2",
+    id: "liberia-yeala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Wuteve",
+                  "text": "Der Mount Wuteve ist der höchste Berg Liberias und bietet schroffe Hänge und weite Ausblicke über die umliegende Landschaft nahe Yeala.",
+                  "category": "natural",
+                  "coords": [
+                        -9.92649,
+                        8.145411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Wuteve",
+                  "text": "A Mount Wuteve Libéria legmagasabb hegycsúcsa, amely zord lejtőket és pazar kilátást nyújt a Yeala körüli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.92649,
+                        8.145411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Wuteve",
+                  "text": "Muntele Wuteve este cel mai înalt vârf din Liberia, oferind pante abrupte și priveliști ample asupra peisajului din jurul Yeala.",
+                  "category": "natural",
+                  "coords": [
+                        -9.92649,
+                        8.145411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Wuteve",
+                  "text": "Mount Wuteve is Liberia's highest mountain peak, offering rugged slopes and sweeping views over the surrounding landscape near Yeala.",
+                  "category": "natural",
+                  "coords": [
+                        -9.92649,
+                        8.145411
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "town",
     name: { de: "Yeala", hu: "Yeala", ro: "Yeala", en: "Yeala" },
@@ -2847,7 +3099,88 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-kplokpa-cities-v2.webp",
   },
   {
-    id: "liberia-blon-cities-v2",
+    id: "liberia-blon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Die ehemalige Residenz von Samuel Doe ist ein historisches Gebäude, das die turbulente politische Geschichte Liberias widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Panoramablick über die Sportplätze und die umliegende Landschaft von Zwedru.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Samuel Doe egykori rezidenciája történelmi épületként áll, amely Libéria viharos politikai történelmét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Ez a megemelt kilátó átfogó panorámát kínál Zwedru sportpályáira és a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Fosta reședință a lui Samuel Doe este o structură istorică ce reflectă istoria politică tumultuoasă a Liberiei.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Această zonă de vizionare ridicată oferă o perspectivă panoramică vastă asupra terenurilor de sport și a peisajului înconjurător din Zwedru.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "The former residence of Samuel Doe stands as a historical structure reflecting the tumultuous political history of Liberia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "This elevated viewing area offers sweeping panoramic sights over the sports fields and surrounding landscape of Zwedru.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "town",
     name: { de: "Blon", hu: "Blon", ro: "Blon", en: "Blon" },
@@ -3207,7 +3540,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-tule-cities-v2.webp",
   },
   {
-    id: "liberia-kpar-cities-v2",
+    id: "liberia-kpar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Domunya",
+                  "text": "Domunya ist ein markanter geologischer Gipfel in der Nähe der Stadtgrenze von Kpar.",
+                  "category": "natural",
+                  "coords": [
+                        -9.24616,
+                        7.341327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Domunya",
+                  "text": "A Domunya egy kiemelkedő geológiai csúcs, amely Kpar város határainak közelében áll.",
+                  "category": "natural",
+                  "coords": [
+                        -9.24616,
+                        7.341327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domunya",
+                  "text": "Domunya este un vârf geologic proeminent situat în apropierea limitelor orașului Kpar.",
+                  "category": "natural",
+                  "coords": [
+                        -9.24616,
+                        7.341327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Domunya",
+                  "text": "Domunya is a prominent geological peak standing near the Kpar city limits.",
+                  "category": "natural",
+                  "coords": [
+                        -9.24616,
+                        7.341327
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "town",
     name: { de: "Kpar", hu: "Kpar", ro: "Kpar", en: "Kpar" },

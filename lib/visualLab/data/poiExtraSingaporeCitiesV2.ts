@@ -5278,7 +5278,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam ist ein ehemaliger malaiischer Palast in Geylang.",
+                  "text": "1843 erbauter Palast Istana Kampong Glam in Geylang.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -5748,7 +5748,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Az Istana Kampong Glam egy történelmi maláj palota Geylangban.",
+                  "text": "1843-ban épült Istana Kampong Glam palota Geylangban.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -6218,7 +6218,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam este un fost palat malaez din Geylang.",
+                  "text": "Palatul Istana Kampong Glam construit în 1843 în Geylang.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -6688,7 +6688,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam is a former Malay palace located in Geylang.",
+                  "text": "Istana Kampong Glam palace built in 1843 in Geylang.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -7243,7 +7243,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Der Istana Kampong Glam ist ein ehemaliger Palast in Kallang.",
+                  "text": "1843 erbauter Palast Istana Kampong Glam in Kallang.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -7252,7 +7252,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "Das National Museum of Singapore ist das älteste Museum des Landes in Kallang.",
+                  "text": "1887 erbautes Nationalmuseum von Singapur in Kallang.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -7279,7 +7279,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Das Peranakan Museum ist ein bemerkenswertes Museum in Kallang, das der lokalen Peranakan-Kultur gewidmet ist.",
+                  "text": "1912 erbautes Peranakan-Museum in Kallang.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -7450,7 +7450,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "Die Masjid Bencoolen ist eine bedeutende islamische Kultstätte in Kallang.",
+                  "text": "2004 erbaute Bencoolen-Moschee in Kallang.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -7713,7 +7713,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Az Istana Kampong Glam egy egykori palota Kallang városában.",
+                  "text": "1843-ban épült Istana Kampong Glam palota Kallangban.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -7722,7 +7722,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "A National Museum of Singapore a nemzet legrégebbi múzeuma Kallang városában.",
+                  "text": "1887-ben épült Szingapúri Nemzeti Múzeum Kallangban.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -7749,7 +7749,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "A Peranakan Museum egy figyelemre méltó múzeum Kallangban, amely a helyi peranakan kultúrát mutatja be.",
+                  "text": "1912-ben épült Peranakan Múzeum Kallangban.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -7920,7 +7920,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "A Masjid Bencoolen egy jelentős iszlám istentiszteleti hely Kallangban.",
+                  "text": "2004-ben épült Bencoolen mecset Kallangban.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -8183,7 +8183,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam este un fost palat situat în Kallang.",
+                  "text": "Palatul Istana Kampong Glam construit în 1843 în Kallang.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -8192,7 +8192,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "National Museum of Singapore este cel mai vechi muzeu al națiunii, situat în Kallang.",
+                  "text": "Muzeul Național al Singapore construit în 1887 în Kallang.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -8219,7 +8219,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Peranakan Museum este un muzeu notabil din Kallang dedicat culturii locale Peranakan.",
+                  "text": "Muzeul Peranakan construit în 1912 în Kallang.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -8390,7 +8390,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen este un lăcaș de cult islamic notabil din Kallang.",
+                  "text": "Moscheea Bencoolen construită în 2004 în Kallang.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -8653,7 +8653,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam is a former palace located in Kallang.",
+                  "text": "Istana Kampong Glam palace built in 1843 in Kallang.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -8662,7 +8662,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "The National Museum of Singapore is the nation's oldest museum, located in Kallang.",
+                  "text": "National Museum of Singapore built in 1887 in Kallang.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -8689,7 +8689,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "The Peranakan Museum is a notable museum in Kallang dedicated to the local Peranakan culture.",
+                  "text": "Peranakan Museum built in 1912 in Kallang.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -8860,7 +8860,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen is a notable Islamic place of worship in Kallang.",
+                  "text": "Masjid Bencoolen built in 2004 in Kallang.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -14965,7 +14965,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "Das National Museum of Singapore ist ein bedeutendes Nationalmuseum in Orchard Road.",
+                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Orchard-Road-Viertel.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -14983,7 +14983,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "Das Asian Civilisations Museum ist ein bedeutendes Museum in Orchard Road.",
+                  "text": "Das Asian Civilisations Museum, eröffnet 1997, befindet sich im Orchard-Road-Viertel.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -14992,7 +14992,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Das Peranakan Museum ist ein bemerkenswertes Museum in Orchard Road.",
+                  "text": "Das Peranakan Museum, untergebracht in einem Gebäude von 1912, widmet sich der Peranakan-Kultur, im Orchard-Road-Viertel.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -15145,7 +15145,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "Die Orchard Road Presbyterian Church ist ein christliches Gotteshaus, das sich direkt an der Orchard Road befindet.",
+                  "text": "Erbaut 1878, steht die Orchard Road Presbyterian Church an der Orchard Road.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -15435,7 +15435,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "A National Museum of Singapore egy kiemelkedő nemzeti múzeum Orchard Roadon.",
+                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, az Orchard Road negyedben.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -15453,7 +15453,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "Az Asian Civilisations Museum egy jelentős múzeum Orchard Roadon.",
+                  "text": "Az 1997-ben megnyílt Ázsiai Civilizációk Múzeuma az Orchard Road negyedben található.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -15462,7 +15462,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "A Peranakan Museum egy jelentős múzeum Orchard Roadon.",
+                  "text": "Az 1912-es épületben elhelyezkedő Peranakan Múzeum a peranakan kultúrát mutatja be, az Orchard Road negyedben.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -15615,7 +15615,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "Az Orchard Road Presbyterian Church egy keresztény istentiszteleti hely, amely közvetlenül az Orchard Road-on található.",
+                  "text": "Az 1878-ban épült Orchard Road-i Presbiteriánus Templom az Orchard Roadon található.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -15905,7 +15905,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "Muzeul Național din Singapore este un muzeu național proeminent situat în Orchard Road.",
+                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în zona Orchard Road.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -15923,7 +15923,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "Muzeul Civilizațiilor Asiatice este un muzeu proeminent situat în Orchard Road.",
+                  "text": "Muzeul Civilizațiilor Asiatice, deschis în 1997, este situat în zona Orchard Road.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -15932,7 +15932,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Muzeul Peranakan este un muzeu notabil situat în Orchard Road.",
+                  "text": "Muzeul Peranakan, găzduit într-o clădire din 1912, este dedicat culturii peranakane, în zona Orchard Road.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -16085,7 +16085,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "Biserica Prezbiteriană din Orchard Road este un lăcaș de cult creștin situat direct pe Orchard Road.",
+                  "text": "Construită în 1878, Biserica Presbiteriană Orchard Road se află pe Orchard Road.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -16375,7 +16375,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "National Museum of Singapore is a prominent national museum located in Orchard Road.",
+                  "text": "Founded in 1887, the National Museum of Singapore is the nation's oldest museum, in the Orchard Road area.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -16393,7 +16393,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "Asian Civilisations Museum is a prominent museum located in Orchard Road.",
+                  "text": "Opened in 1997, the Asian Civilisations Museum is located in the Orchard Road area.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -16402,7 +16402,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Peranakan Museum is a notable museum located in Orchard Road.",
+                  "text": "The Peranakan Museum, housed in a 1912 building, is dedicated to Peranakan culture, in the Orchard Road area.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -16555,7 +16555,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "Orchard Road Presbyterian Church is a Christian place of worship located directly on Orchard Road.",
+                  "text": "Built in 1878, the Orchard Road Presbyterian Church is located on Orchard Road.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -17212,7 +17212,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "Das National Museum of Singapore in Little India ist das älteste Museum der Nation.",
+                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Little-India-Viertel.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -17248,7 +17248,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Das Nagore Durgha Indian Muslim Heritage Centre ist ein bedeutendes Museum in Little India.",
+                  "text": "Erbaut 1830, ist das Nagore Durgha Indian Muslim Heritage Centre ein Museum in Little India.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -17356,7 +17356,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "Die Saint Andrew's Cathedral in Little India ist die größte anglikanische Kathedrale des Landes.",
+                  "text": "Geweiht 1862, ist die St. Andrew's Cathedral eine anglikanische Kathedrale in Little India.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -17374,7 +17374,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "Die Church of Saints Peter and Paul ist eine historische katholische Kirche in Little India.",
+                  "text": "Erbaut 1870, ist die Kirche der Heiligen Peter und Paul eine römisch-katholische Kirche in Little India.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -17419,7 +17419,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Die Armenian Church of Saint Gregory the Illuminator in Little India ist die älteste christliche Kirche der Nation.",
+                  "text": "Erbaut 1835, ist die Armenische Kirche die älteste Kirche Singapurs, in Little India.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -17536,7 +17536,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "Der Sri Mariamman Temple in Little India ist der älteste Hindu-Tempel des Landes.",
+                  "text": "Erbaut 1843, ist der Sri-Mariamman-Tempel der älteste hinduistische Tempel Singapurs, in Little India.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -17682,7 +17682,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "A Little Indiában található National Museum of Singapore az ország legrégebbi múzeuma.",
+                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, a Little India negyedben.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -17718,7 +17718,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "A Nagore Durgha Indian Muslim Heritage Centre egy jelentős múzeum Little Indiában.",
+                  "text": "Az 1830-ban épült Nagore Durgha Indian Muslim Heritage Centre múzeum a Little Indiában.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -17826,7 +17826,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "A Little Indiában található Saint Andrew's Cathedral az ország legnagyobb anglikán katedrálisa.",
+                  "text": "Az 1862-ben felszentelt Szent András-székesegyház anglikán katedrális a Little Indiában.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -17844,7 +17844,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "A Church of Saints Peter and Paul egy történelmi katolikus templom Little Indiában.",
+                  "text": "Az 1870-ben épült Szent Péter és Pál templom római katolikus templom a Little Indiában.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -17889,7 +17889,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "A Little Indiában található Armenian Church of Saint Gregory the Illuminator az ország legrégebbi keresztény temploma.",
+                  "text": "Az 1835-ben épült Örmény Templom Szingapúr legrégebbi temploma, a Little Indiában.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -18006,7 +18006,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "A Little Indiában található Sri Mariamman Temple az ország legrégebbi hindu temploma.",
+                  "text": "Az 1843-ban épült Sri Mariamman-templom Szingapúr legrégebbi hindu temploma, a Little Indiában.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -18152,7 +18152,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "National Museum of Singapore din Little India este cel mai vechi muzeu al națiunii.",
+                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în cartierul Little India.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -18188,7 +18188,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Nagore Durgha Indian Muslim Heritage Centre este un muzeu proeminent din Little India.",
+                  "text": "Construit în 1830, Centrul de Patrimoniu Indian Musulman Nagore Durgha este un muzeu în Little India.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -18296,7 +18296,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "Catedrala Sfântul Andrei din Little India este cea mai mare catedrală anglicană din țară.",
+                  "text": "Consacrată în 1862, Catedrala Sf. Andrei este o catedrală anglicană în Little India.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -18314,7 +18314,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "Biserica Sfinților Petru și Pavel este o biserică catolică istorică situată în Little India.",
+                  "text": "Construită în 1870, Biserica Sfinții Petru și Pavel este o biserică romano-catolică în Little India.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -18359,7 +18359,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Biserica Armeană a Sfântului Grigore Iluminatorul din Little India este cea mai veche biserică creștină din națiune.",
+                  "text": "Construită în 1835, Biserica Armeană este cea mai veche biserică din Singapore, în Little India.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -18476,7 +18476,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "Templul Sri Mariamman din Little India este cel mai vechi templu hindus din țară.",
+                  "text": "Construit în 1843, Templul Sri Mariamman este cel mai vechi templu hindus din Singapore, în Little India.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -18622,7 +18622,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "The National Museum of Singapore in Little India is the nation's oldest museum.",
+                  "text": "Founded in 1887, the National Museum of Singapore is Singapore's oldest museum, in the Little India district.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -18658,7 +18658,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "The Nagore Durgha Indian Muslim Heritage Centre is a prominent museum in Little India.",
+                  "text": "Built in 1830, the Nagore Durgha Indian Muslim Heritage Centre is a museum in Little India.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -18766,7 +18766,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral in Little India is the country's largest Anglican cathedral.",
+                  "text": "Consecrated in 1862, Saint Andrew's Cathedral is an Anglican cathedral in Little India.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -18784,7 +18784,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "The Church of Saints Peter and Paul is a historic Catholic church situated in Little India.",
+                  "text": "Built in 1870, the Church of Saints Peter and Paul is a Roman Catholic church in Little India.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -18829,7 +18829,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "The Armenian Church of Saint Gregory the Illuminator in Little India is the oldest Christian church in the nation.",
+                  "text": "Built in 1835, the Armenian Church is the oldest church in Singapore, in Little India.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -18946,7 +18946,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "Sri Mariamman Temple in Little India is the oldest Hindu temple in the country.",
+                  "text": "Built in 1843, Sri Mariamman Temple is the oldest Hindu temple in Singapore, in Little India.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -19141,7 +19141,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam ist ein ehemaliger malaiischer Palast und ein historisches Schloss in Kampong Glam.",
+                  "text": "Erbaut 1843, ist der Istana Kampong Glam ein ehemaliger malaiischer Palast im Kampong Glam.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -19150,7 +19150,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "Das National Museum of Singapore ist das älteste Museum der Nation und liegt in der Nähe von Kampong Glam.",
+                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -19177,7 +19177,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Das Peranakan Museum ist ein Spezialmuseum in der Nähe von Kampong Glam, das sich auf die Peranakan-Kultur konzentriert.",
+                  "text": "Das Peranakan Museum, untergebracht in einem Gebäude von 1912, widmet sich der Peranakan-Kultur, im Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -19186,7 +19186,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Nagore Durgha ist ein historischer Schrein und ein Erbezentrum für indische Muslime in Kampong Glam.",
+                  "text": "Erbaut 1830, ist das Nagore Durgha Indian Muslim Heritage Centre ein Museum im Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -19222,7 +19222,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay ist ein Theater in Kampong Glam.",
+                  "text": "Eröffnet 2002, sind die Esplanade Theatres on the Bay ein Zentrum für darstellende Künste im Kampong Glam.",
                   "category": "cultural",
                   "coords": [
                         103.855684,
@@ -19276,7 +19276,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1878, ist Tan Si Chong Su ein chinesischer Clan-Tempel im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.842854,
@@ -19285,7 +19285,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1820, ist die Masjid Omar Kampung Melaka die älteste Moschee Singapurs, im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -19294,7 +19294,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral ist eine Kultstätte in Kampong Glam.",
+                  "text": "Geweiht 1862, ist die St. Andrew's Cathedral eine anglikanische Kathedrale im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -19303,7 +19303,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Good Shepherd",
-                  "text": "Cathedral of the Good Shepherd ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1847, ist die Kathedrale des Guten Hirten die römisch-katholische Kathedrale Singapurs, im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.851207,
@@ -19312,7 +19312,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "Church of Saints Peter and Paul ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1870, ist die Kirche der Heiligen Peter und Paul eine römisch-katholische Kirche im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -19321,7 +19321,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Sultan",
-                  "text": "Masjid Sultan ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1932, ist die Masjid Sultan (Sultan-Moschee) eine bedeutende Moschee im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.85899,
@@ -19339,7 +19339,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "Yueh Hai Ching Temple ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1976, ist der Yueh-Hai-Ching-Tempel ein taoistischer Tempel im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -19348,7 +19348,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Telok Ayer Chinese Methodist Church ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1924, ist die Telok Ayer Chinese Methodist Church eine methodistische Kirche im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847009,
@@ -19357,7 +19357,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "Orchard Road Presbyterian Church ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1878, ist die Orchard Road Presbyterian Church eine presbyterianische Kirche im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -19366,7 +19366,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Armenian Church of Saint Gregory the Illuminator ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1835, ist die Armenische Kirche die älteste Kirche Singapurs, im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -19375,7 +19375,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 2004, ist die Masjid Bencoolen eine Moschee im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -19393,7 +19393,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1905, ist die Chesed-El-Synagoge eine Synagoge im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.842621,
@@ -19402,7 +19402,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "Church of the Sacred Heart ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1910, ist die Herz-Jesu-Kirche eine römisch-katholische Kirche im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.843532,
@@ -19411,7 +19411,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Hong San See Temple",
-                  "text": "Hong San See Temple ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1913, ist der Hong-San-See-Tempel ein chinesischer Tempel im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.840843,
@@ -19420,7 +19420,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Al-Abrar",
-                  "text": "Al-Abrar Mosque ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1855, ist die Al-Abrar-Moschee eine Moschee im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847261,
@@ -19465,7 +19465,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "Sri Mariamman Temple ist eine Kultstätte in Kampong Glam.",
+                  "text": "Erbaut 1843, ist der Sri-Mariamman-Tempel der älteste hinduistische Tempel Singapurs, im Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -19611,7 +19611,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Az Istana Kampong Glam egy egykori maláj palota és történelmi kastély Kampong Glamban.",
+                  "text": "Az 1843-ban épült Istana Kampong Glam egykori maláj palota a Kampong Glamban.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -19620,7 +19620,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "A Szingapúri Nemzeti Múzeum a nemzet legrégebbi múzeuma, amely Kampong Glam közelében található.",
+                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, a Kampong Glamban.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -19647,7 +19647,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "A Peranakan Múzeum egy speciális múzeum Kampong Glam közelében, amely a Peranakan kultúrára összpontosít.",
+                  "text": "Az 1912-es épületben elhelyezkedő Peranakan Múzeum a peranakan kultúrát mutatja be, a Kampong Glamban.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -19656,7 +19656,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "A Nagore Durgha egy történelmi szentély és indiai muszlim örökségvédelmi központ Kampong Glamban.",
+                  "text": "Az 1830-ban épült Nagore Durgha Indian Muslim Heritage Centre múzeum a Kampong Glamban.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -19692,7 +19692,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Esplanade Theatres on the Bay",
-                  "text": "A(z) Esplanade Theatres on the Bay egy színház Kampong Glamban.",
+                  "text": "A 2002-ben megnyílt Esplanade Theatres on the Bay előadóművészeti központ a Kampong Glamban.",
                   "category": "cultural",
                   "coords": [
                         103.855684,
@@ -19746,7 +19746,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Tan Si Chong Su",
-                  "text": "A(z) Tan Si Chong Su egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1878-ban épült Tan Si Chong Su kínai klán templom a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.842854,
@@ -19755,7 +19755,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "A(z) Masjid Omar Kampung Melaka egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1820-ban épült Masjid Omar Kampung Melaka Szingapúr legrégebbi mecsetje, a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -19764,7 +19764,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "A(z) Saint Andrew's Cathedral egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1862-ben felszentelt Szent András-székesegyház anglikán katedrális a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -19773,7 +19773,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Good Shepherd",
-                  "text": "A(z) Cathedral of the Good Shepherd egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1847-ben épült Jó Pásztor-székesegyház Szingapúr római katolikus katedrálisa, a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.851207,
@@ -19782,7 +19782,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "A(z) Church of Saints Peter and Paul egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1870-ben épült Szent Péter és Pál templom római katolikus templom a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -19791,7 +19791,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Sultan",
-                  "text": "A(z) Masjid Sultan egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1932-ben épült Masjid Sultan (Szultán Mecset) jelentős mecset a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.85899,
@@ -19809,7 +19809,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "A(z) Yueh Hai Ching Temple egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1976-ban épült Yueh Hai Ching templom taoista templom a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -19818,7 +19818,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "A(z) Telok Ayer Chinese Methodist Church egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1924-ben épült Telok Ayer Chinese Methodist Church metodista templom a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.847009,
@@ -19827,7 +19827,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "A(z) Orchard Road Presbyterian Church egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1878-ban épült Orchard Road-i Presbiteriánus Templom presbiteriánus templom a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -19836,7 +19836,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "A(z) Armenian Church of Saint Gregory the Illuminator egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1835-ben épült Örmény Templom Szingapúr legrégebbi temploma, a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -19845,7 +19845,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "A(z) Masjid Bencoolen egy istentiszteleti hely Kampong Glamban.",
+                  "text": "A 2004-ben épült Masjid Bencoolen mecset a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -19863,7 +19863,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Chesed-El Synagogue",
-                  "text": "A(z) Chesed-El Synagogue egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1905-ben épült Chesed-El Zsinagóga zsinagóga a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.842621,
@@ -19872,7 +19872,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "A(z) Church of the Sacred Heart egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1910-ben épült Szent Szív-templom római katolikus templom a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.843532,
@@ -19881,7 +19881,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Hong San See Temple",
-                  "text": "A(z) Hong San See Temple egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1913-ban épült Hong San See templom kínai templom a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.840843,
@@ -19890,7 +19890,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Al-Abrar",
-                  "text": "A(z) Al-Abrar Mosque egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1855-ben épült Al-Abrar mecset mecset a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.847261,
@@ -19935,7 +19935,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "A(z) Sri Mariamman Temple egy istentiszteleti hely Kampong Glamban.",
+                  "text": "Az 1843-ban épült Sri Mariamman-templom Szingapúr legrégebbi hindu temploma, a Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -20081,7 +20081,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam este un fost palat malaiezian și un castel istoric în Kampong Glam.",
+                  "text": "Construit în 1843, Istana Kampong Glam este un fost palat malaez, în Kampong Glam.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -20090,7 +20090,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "Muzeul Național din Singapore este cel mai vechi muzeu al națiunii, situat lângă Kampong Glam.",
+                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -20117,7 +20117,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Muzeul Peranakan este un muzeu specializat de lângă Kampong Glam care se concentrează pe cultura Peranakan.",
+                  "text": "Muzeul Peranakan, găzduit într-o clădire din 1912, este dedicat culturii peranakane, în Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -20126,7 +20126,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Nagore Durgha este un altar istoric și un centru de patrimoniu al musulmanilor indieni situat în Kampong Glam.",
+                  "text": "Construit în 1830, Centrul de Patrimoniu Indian Musulman Nagore Durgha este un muzeu în Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -20162,7 +20162,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay este un teatru din Kampong Glam.",
+                  "text": "Deschis în 2002, Esplanade Theatres on the Bay este un centru de arte spectacolului, în Kampong Glam.",
                   "category": "cultural",
                   "coords": [
                         103.855684,
@@ -20216,7 +20216,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construit în 1878, Tan Si Chong Su este un templu chinezesc de clan, în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.842854,
@@ -20225,7 +20225,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1820, Moscheea Omar Kampung Melaka este cea mai veche moschee din Singapore, în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -20234,7 +20234,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral este un lăcaș de cult din Kampong Glam.",
+                  "text": "Consacrată în 1862, Catedrala Sf. Andrei este o catedrală anglicană în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -20243,7 +20243,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Good Shepherd",
-                  "text": "Cathedral of the Good Shepherd este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1847, Catedrala Bunului Păstor este catedrala romano-catolică a Singapore, în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.851207,
@@ -20252,7 +20252,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "Church of Saints Peter and Paul este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1870, Biserica Sfinții Petru și Pavel este o biserică romano-catolică în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -20261,7 +20261,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Sultan",
-                  "text": "Masjid Sultan este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1932, Masjid Sultan (Moscheea Sultanului) este o moschee proeminentă în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.85899,
@@ -20279,7 +20279,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "Yueh Hai Ching Temple este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construit în 1976, Templul Yueh Hai Ching este un templu taoist în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -20288,7 +20288,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Telok Ayer Chinese Methodist Church este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1924, Biserica Metodistă Chineză Telok Ayer este o biserică metodistă în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847009,
@@ -20297,7 +20297,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "Orchard Road Presbyterian Church este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1878, Biserica Presbiteriană Orchard Road este o biserică presbiteriană în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -20306,7 +20306,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Armenian Church of Saint Gregory the Illuminator este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1835, Biserica Armeană este cea mai veche biserică din Singapore, în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -20315,7 +20315,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 2004, Moscheea Bencoolen este o moschee în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -20333,7 +20333,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1905, Sinagoga Chesed-El este o sinagogă în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.842621,
@@ -20342,7 +20342,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "Church of the Sacred Heart este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1910, Biserica Inimii Sacre este o biserică romano-catolică în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.843532,
@@ -20351,7 +20351,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Hong San See Temple",
-                  "text": "Hong San See Temple este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construit în 1913, Templul Hong San See este un templu chinezesc în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.840843,
@@ -20360,7 +20360,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Al-Abrar",
-                  "text": "Al-Abrar Mosque este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construită în 1855, Moscheea Al-Abrar este o moschee în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847261,
@@ -20405,7 +20405,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "Sri Mariamman Temple este un lăcaș de cult din Kampong Glam.",
+                  "text": "Construit în 1843, Templul Sri Mariamman este cel mai vechi templu hindus din Singapore, în Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -20551,7 +20551,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam is a former Malay palace and historic castle in Kampong Glam.",
+                  "text": "Built in 1843, Istana Kampong Glam is a former Malay palace, in Kampong Glam.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -20560,7 +20560,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "The National Museum of Singapore is the nation's oldest museum, situated near Kampong Glam.",
+                  "text": "Founded in 1887, the National Museum of Singapore is the nation's oldest museum, in Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -20587,7 +20587,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "The Peranakan Museum is a specialized museum near Kampong Glam focusing on Peranakan culture.",
+                  "text": "The Peranakan Museum, housed in a 1912 building, is dedicated to Peranakan culture, in Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -20596,7 +20596,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Nagore Durgha is a historic shrine and Indian Muslim Heritage Centre located in Kampong Glam.",
+                  "text": "Built in 1830, the Nagore Durgha Indian Muslim Heritage Centre is a museum in Kampong Glam.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -20632,7 +20632,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay is a theatre located in Kampong Glam.",
+                  "text": "Opened in 2002, the Esplanade Theatres on the Bay is a performing arts centre, in Kampong Glam.",
                   "category": "cultural",
                   "coords": [
                         103.855684,
@@ -20686,7 +20686,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1878, Tan Si Chong Su is a Chinese clan temple, in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.842854,
@@ -20695,7 +20695,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1820, Masjid Omar Kampung Melaka is the oldest mosque in Singapore, in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -20704,7 +20704,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral is a place of worship located in Kampong Glam.",
+                  "text": "Consecrated in 1862, Saint Andrew's Cathedral is an Anglican cathedral in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.852265,
@@ -20713,7 +20713,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Good Shepherd",
-                  "text": "The Cathedral of the Good Shepherd is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1847, the Cathedral of the Good Shepherd is the Roman Catholic cathedral of Singapore, in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.851207,
@@ -20722,7 +20722,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saints Peter and Paul",
-                  "text": "The Church of Saints Peter and Paul is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1870, the Church of Saints Peter and Paul is a Roman Catholic church in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.8513,
@@ -20731,7 +20731,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Sultan",
-                  "text": "Masjid Sultan is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1932, Masjid Sultan (Sultan Mosque) is a prominent mosque in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.85899,
@@ -20749,7 +20749,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "The Yueh Hai Ching Temple is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1976, Yueh Hai Ching Temple is a Taoist temple in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -20758,7 +20758,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "The Telok Ayer Chinese Methodist Church is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1924, Telok Ayer Chinese Methodist Church is a Methodist church in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847009,
@@ -20767,7 +20767,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Orchard Road Presbyterian Church",
-                  "text": "The Orchard Road Presbyterian Church is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1878, the Orchard Road Presbyterian Church is a Presbyterian church in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847414,
@@ -20776,7 +20776,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "The Armenian Church of Saint Gregory the Illuminator is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1835, the Armenian Church is the oldest church in Singapore, in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -20785,7 +20785,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen is a place of worship located in Kampong Glam.",
+                  "text": "Built in 2004, Masjid Bencoolen is a mosque in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.850347,
@@ -20803,7 +20803,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Chesed-El Synagogue",
-                  "text": "The Chesed-El Synagogue is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1905, Chesed-El Synagogue is a synagogue in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.842621,
@@ -20812,7 +20812,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "The Church of the Sacred Heart is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1910, the Church of the Sacred Heart is a Roman Catholic church in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.843532,
@@ -20821,7 +20821,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Hong San See Temple",
-                  "text": "The Hong San See Temple is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1913, Hong San See Temple is a Chinese temple in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.840843,
@@ -20830,7 +20830,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Abrar Mosque",
-                  "text": "The Al-Abrar Mosque is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1855, Al-Abrar Mosque is a mosque in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.847261,
@@ -20875,7 +20875,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Sri Mariamman Temple",
-                  "text": "The Sri Mariamman Temple is a place of worship located in Kampong Glam.",
+                  "text": "Built in 1843, Sri Mariamman Temple is the oldest Hindu temple in Singapore, in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.8452,
@@ -23272,7 +23272,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam ist ein Schloss in Downtown Core.",
+                  "text": "Erbaut 1843, ist der Istana Kampong Glam ein ehemaliger malaiischer Palast im Downtown Core.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -23281,7 +23281,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "National Museum of Singapore ist ein Museum in Downtown Core.",
+                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -23299,7 +23299,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "Asian Civilisations Museum ist ein Museum in Downtown Core.",
+                  "text": "Eröffnet 1997, befindet sich das Asian Civilisations Museum im Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -23308,7 +23308,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Peranakan Museum ist ein Museum in Downtown Core.",
+                  "text": "Das Peranakan Museum, untergebracht in einem Gebäude von 1912, widmet sich der Peranakan-Kultur, im Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -23317,7 +23317,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Nagore Durgha Indian Muslim Heritage Centre ist ein Museum in Downtown Core.",
+                  "text": "Erbaut 1830, ist das Nagore Durgha Indian Muslim Heritage Centre ein Museum im Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -23416,7 +23416,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka ist eine islamische Kultstätte im Downtown Core.",
+                  "text": "Erbaut 1820, ist die Masjid Omar Kampung Melaka die älteste Moschee Singapurs, im Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -23470,7 +23470,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "Der Yueh Hai Ching Temple ist eine chinesische Kultstätte im Downtown Core.",
+                  "text": "Erbaut 1976, ist der Yueh-Hai-Ching-Tempel ein taoistischer Tempel im Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -23506,7 +23506,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Die Armenian Church of Saint Gregory the Illuminator ist eine historische Kultstätte im Downtown Core.",
+                  "text": "Erbaut 1835, ist die Armenische Kirche die älteste Kirche Singapurs, im Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -23542,7 +23542,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "Die Church of the Sacred Heart ist eine katholische Kultstätte im Downtown Core.",
+                  "text": "Erbaut 1910, ist die Herz-Jesu-Kirche eine römisch-katholische Kirche im Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.843532,
@@ -23733,7 +23733,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "A(z) Istana Kampong Glam egy kastély Downtown Core-ban.",
+                  "text": "Az 1843-ban épült Istana Kampong Glam egykori maláj palota a Downtown Core-ban.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -23742,7 +23742,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "A(z) National Museum of Singapore egy múzeum Downtown Core-ban.",
+                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, a Downtown Core-ban.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -23760,7 +23760,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "A(z) Asian Civilisations Museum egy múzeum Downtown Core-ban.",
+                  "text": "Az 1997-ben megnyílt Ázsiai Civilizációk Múzeuma a Downtown Core-ban található.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -23769,7 +23769,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "A(z) Peranakan Museum egy múzeum Downtown Core-ban.",
+                  "text": "Az 1912-es épületben elhelyezkedő Peranakan Múzeum a peranakan kultúrát mutatja be, a Downtown Core-ban.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -23778,7 +23778,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "A(z) Nagore Durgha Indian Muslim Heritage Centre egy múzeum Downtown Core-ban.",
+                  "text": "Az 1830-ban épült Nagore Durgha Indian Muslim Heritage Centre múzeum a Downtown Core-ban.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -23877,7 +23877,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "A Masjid Omar Kampung Melaka egy iszlám istentiszteleti hely Downtown Core-ban.",
+                  "text": "Az 1820-ban épült Masjid Omar Kampung Melaka Szingapúr legrégebbi mecsetje, a Downtown Core-ban.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -23931,7 +23931,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "A Yueh Hai Ching templom egy kínai istentiszteleti hely Downtown Core-ban.",
+                  "text": "Az 1976-ban épült Yueh Hai Ching templom taoista templom a Downtown Core-ban.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -23967,7 +23967,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "A Világosító Szent Gergely Örmény Templom egy történelmi istentiszteleti hely Downtown Core-ban.",
+                  "text": "Az 1835-ben épült Örmény Templom Szingapúr legrégebbi temploma, a Downtown Core-ban.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -24003,7 +24003,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "A Church of the Sacred Heart egy katolikus istentiszteleti hely Downtown Core-ban.",
+                  "text": "Az 1910-ben épült Szent Szív-templom római katolikus templom a Downtown Core-ban.",
                   "category": "religious",
                   "coords": [
                         103.843532,
@@ -24194,7 +24194,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam este un castel din Downtown Core.",
+                  "text": "Construit în 1843, Istana Kampong Glam este un fost palat malaez, în Downtown Core.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -24203,7 +24203,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "National Museum of Singapore este un muzeu din Downtown Core.",
+                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -24221,7 +24221,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "Asian Civilisations Museum este un muzeu din Downtown Core.",
+                  "text": "Deschis în 1997, Muzeul Civilizațiilor Asiatice este situat în Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -24230,7 +24230,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "Peranakan Museum este un muzeu din Downtown Core.",
+                  "text": "Muzeul Peranakan, găzduit într-o clădire din 1912, este dedicat culturii peranakane, în Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -24239,7 +24239,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Nagore Durgha Indian Muslim Heritage Centre este un muzeu din Downtown Core.",
+                  "text": "Construit în 1830, Centrul de Patrimoniu Indian Musulman Nagore Durgha este un muzeu în Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -24338,7 +24338,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka este un lăcaș de cult islamic din Downtown Core.",
+                  "text": "Construită în 1820, Moscheea Omar Kampung Melaka este cea mai veche moschee din Singapore, în Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -24392,7 +24392,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "Templul Yueh Hai Ching este un lăcaș de cult chinezesc din Downtown Core.",
+                  "text": "Construit în 1976, Templul Yueh Hai Ching este un templu taoist în Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -24428,7 +24428,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Biserica Armeană a Sfântului Grigorie Iluminatorul este un lăcaș de cult istoric din Downtown Core.",
+                  "text": "Construită în 1835, Biserica Armeană este cea mai veche biserică din Singapore, în Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -24464,7 +24464,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "Biserica Inimii Sacre este un lăcaș de cult catolic din Downtown Core.",
+                  "text": "Construită în 1910, Biserica Inimii Sacre este o biserică romano-catolică în Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.843532,
@@ -24655,7 +24655,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam is a castle located in Downtown Core.",
+                  "text": "Built in 1843, Istana Kampong Glam is a former Malay palace, in the Downtown Core.",
                   "category": "castle",
                   "coords": [
                         103.859948,
@@ -24664,7 +24664,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Singapore",
-                  "text": "The National Museum of Singapore is a museum located in Downtown Core.",
+                  "text": "Founded in 1887, the National Museum of Singapore is the nation's oldest museum, in the Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.848412,
@@ -24682,7 +24682,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Asian Civilisations Museum",
-                  "text": "The Asian Civilisations Museum is a museum located in Downtown Core.",
+                  "text": "Opened in 1997, the Asian Civilisations Museum is located in the Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.85142,
@@ -24691,7 +24691,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Peranakan Museum",
-                  "text": "The Peranakan Museum is a museum located in Downtown Core.",
+                  "text": "The Peranakan Museum, housed in a 1912 building, is dedicated to Peranakan culture, in the Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.849101,
@@ -24700,7 +24700,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "The Nagore Durgha Indian Muslim Heritage Centre is a museum located in Downtown Core.",
+                  "text": "Built in 1830, the Nagore Durgha Indian Muslim Heritage Centre is a museum in the Downtown Core.",
                   "category": "museum",
                   "coords": [
                         103.84787,
@@ -24799,7 +24799,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka is an Islamic place of worship in Downtown Core.",
+                  "text": "Built in 1820, Masjid Omar Kampung Melaka is the oldest mosque in Singapore, in the Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.844337,
@@ -24853,7 +24853,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Yueh Hai Ching Temple",
-                  "text": "Yueh Hai Ching Temple is a Chinese place of worship in Downtown Core.",
+                  "text": "Built in 1976, Yueh Hai Ching Temple is a Taoist temple in the Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.849317,
@@ -24889,7 +24889,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "The Armenian Church of Saint Gregory the Illuminator is a historic place of worship in Downtown Core.",
+                  "text": "Built in 1835, the Armenian Church is the oldest church in Singapore, in the Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.849393,
@@ -24925,7 +24925,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Sacred Heart",
-                  "text": "Church of the Sacred Heart is a Catholic place of worship in Downtown Core.",
+                  "text": "Built in 1910, the Church of the Sacred Heart is a Roman Catholic church in the Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.843532,

@@ -39,7 +39,52 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "kilimandscharo-farmland-life-v2",
+    id: "kilimandscharo-farmland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "MACHAME PALACE (Kwa Mangi)",
+                  "text": "An den fruchtbaren Hängen des Kilimandscharo gelegen, diente dieser historische Palast einst als Verwaltungssitz der lokalen Chagga-Häuptlinge, der Mangi.",
+                  "category": "castle",
+                  "coords": [
+                        37.221613,
+                        -3.213578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MACHAME PALACE (Kwa Mangi)",
+                  "text": "A Kilimandzsáró termékeny lejtőin fekvő történelmi palota egykor a Mangi néven ismert helyi Chagga törzsfőnökök közigazgatási székhelyeként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        37.221613,
+                        -3.213578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MACHAME PALACE (Kwa Mangi)",
+                  "text": "Situat pe versanții fertili ai munților Kilimanjaro, acest palat istoric a servit odată drept sediu administrativ al șefilor locali Chagga, cunoscuți sub numele de Mangi.",
+                  "category": "castle",
+                  "coords": [
+                        37.221613,
+                        -3.213578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MACHAME PALACE (Kwa Mangi)",
+                  "text": "Set on the fertile slopes of Kilimanjaro, this historical palace once served as the administrative seat of the local Chagga chiefs, known as the Mangi.",
+                  "category": "castle",
+                  "coords": [
+                        37.221613,
+                        -3.213578
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TZ-02",
     coords: [37.3, -3.2],
@@ -75,7 +120,88 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "zanzibar-gewuerzfarm-life-v2",
+    id: "zanzibar-gewuerzfarm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spice farm",
+                  "text": "Diese weitläufige Gewürzfarm ist ein aromatisches landwirtschaftliches Anwesen, auf dem Nelken, Muskatnuss und Zimt traditionell angebaut werden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.332098,
+                        -6.067959
+                  ]
+            },
+            {
+                  "name": "Mtausa Spice Farm",
+                  "text": "Die Mtausa Spice Farm ist eine eindringliche Plantage, auf der Besucher die Ernte duftender Gewürze beobachten und frische tropische Früchte probieren können.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262042,
+                        -6.083753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spice farm",
+                  "text": "Ez a kiterjedt fűszerfarm egy aromás mezőgazdasági birtok, ahol hagyományosan szegfűszeget, szerecsendiót és fahéjat termesztenek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.332098,
+                        -6.067959
+                  ]
+            },
+            {
+                  "name": "Mtausa Spice Farm",
+                  "text": "A Mtausa fűszerfarm egy magával ragadó ültetvény, ahol a látogatók megfigyelhetik az illatos fűszerek betakarítását és friss trópusi gyümölcsöket kóstolhatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262042,
+                        -6.083753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spice farm",
+                  "text": "Această fermă de condimente întinsă este un domeniu agricol aromat unde se cultivă în mod tradițional cuișoare, nucșoară și scorțișoară.",
+                  "category": "landmark",
+                  "coords": [
+                        39.332098,
+                        -6.067959
+                  ]
+            },
+            {
+                  "name": "Mtausa Spice Farm",
+                  "text": "Ferma de condimente Mtausa este o plantație captivantă unde vizitatorii pot observa procesele de recoltare a condimentelor parfumate și pot degusta fructe tropicale proaspete.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262042,
+                        -6.083753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spice farm",
+                  "text": "This sprawling spice farm is an aromatic agricultural estate where cloves, nutmeg, and cinnamon are traditionally cultivated.",
+                  "category": "landmark",
+                  "coords": [
+                        39.332098,
+                        -6.067959
+                  ]
+            },
+            {
+                  "name": "Mtausa Spice Farm",
+                  "text": "Mtausa Spice Farm is an immersive plantation where visitors can observe the harvesting processes of fragrant spices and sample fresh tropical fruits.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262042,
+                        -6.083753
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TZ-03",
     coords: [39.3, -6.1],
@@ -147,7 +273,52 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "tarangire-park-life-v2",
+    id: "tarangire-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maasai village",
+                  "text": "Ein traditionelles Boma in der Nähe von Tarangire, das als lebendiges Museum fungiert und Besuchern die nomadische Massai-Kultur und ihre Bräuche näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        35.967889,
+                        -3.73818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maasai village",
+                  "text": "Tarangire közelében található hagyományos boma, amely élő múzeumként működik, és bemutatja a nomád maszáj kultúrát és szokásokat.",
+                  "category": "museum",
+                  "coords": [
+                        35.967889,
+                        -3.73818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maasai village",
+                  "text": "O boma tradițională din apropiere de Tarangire, funcționând ca un muzeu viu unde vizitatorii pot învăța despre cultura și obiceiurile nomazilor Maasai.",
+                  "category": "museum",
+                  "coords": [
+                        35.967889,
+                        -3.73818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maasai village",
+                  "text": "A traditional boma near Tarangire functioning as a living museum, where visitors can learn about the nomadic Maasai culture and their customs.",
+                  "category": "museum",
+                  "coords": [
+                        35.967889,
+                        -3.73818
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TZ-02",
     coords: [36.0, -3.8],
@@ -219,7 +390,88 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "arusha-park-life-v2",
+    id: "arusha-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilimanjaro Viewpoint",
+                  "text": "Ein hochgelegener Aussichtspunkt im Arusha-Nationalpark, der an klaren Tagen einen spektakulären Blick auf den schneebedeckten Gipfel des Mount Kilimandscharo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.83511,
+                        -3.246654
+                  ]
+            },
+            {
+                  "name": "Arusha-Nationalpark",
+                  "text": "Dieses Reservat umfasst den markanten Stratovulkan Mount Meru sowie die alkalischen Momella-Seen und ist berühmt für seine großen Giraffenpopulationen und schwarz-weißen Stummelaffen.",
+                  "category": "natural",
+                  "coords": [
+                        36.854683,
+                        -3.256713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilimanjaro Viewpoint",
+                  "text": "Magasan fekvő kilátó az Arusha Nemzeti Parkban, ahonnan tiszta időben lenyűgöző kilátás nyílik a Kilimandzsáró hófödte csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        36.83511,
+                        -3.246654
+                  ]
+            },
+            {
+                  "name": "Arusha National Park",
+                  "text": "A lenyűgöző Meru-hegy rétegvulkánt és a lúgos Momella-tavakat magába foglaló rezervátum zsiráfok és fekete-fehér kolobuszmajmok nagy populációiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        36.854683,
+                        -3.256713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilimanjaro Viewpoint",
+                  "text": "Un punct de belvedere la altitudine din Parcul Național Arusha, oferind linii de vizibilitate spectaculoase spre vârful acoperit de zăpadă al Muntelui Kilimanjaro în zilele senine.",
+                  "category": "natural",
+                  "coords": [
+                        36.83511,
+                        -3.246654
+                  ]
+            },
+            {
+                  "name": "Arusha National Park",
+                  "text": "Cuprinzând proeminentul stratovulcan Muntele Meru și lacurile alcaline Momella, această rezervație este faimoasă pentru populațiile mari de girafe și maimuțele colobus alb-cu-negru.",
+                  "category": "natural",
+                  "coords": [
+                        36.854683,
+                        -3.256713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilimanjaro Viewpoint",
+                  "text": "An elevated lookout point in Arusha National Park offering spectacular sightlines to the snow-capped peak of Mount Kilimanjaro on clear days.",
+                  "category": "natural",
+                  "coords": [
+                        36.83511,
+                        -3.246654
+                  ]
+            },
+            {
+                  "name": "Arusha National Park",
+                  "text": "Encompassing the prominent stratovolcano Mount Meru and the alkaline Momella Lakes, this reserve is famous for its large populations of giraffes and black-and-white colobus monkeys.",
+                  "category": "natural",
+                  "coords": [
+                        36.854683,
+                        -3.256713
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TZ-02",
     coords: [36.8, -3.2],
@@ -327,7 +579,52 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "mahenge-landwirtschaft-life-v2",
+    id: "mahenge-landwirtschaft-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mhenge Scarp Viewpoint",
+                  "text": "An der steilen Kante des Mahenge-Hochlandes gelegen, bietet dieser Aussichtspunkt dramatische Panoramen über die üppigen landwirtschaftlichen Täler in der Tiefe.",
+                  "category": "natural",
+                  "coords": [
+                        36.713554,
+                        -8.628672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mhenge Scarp Viewpoint",
+                  "text": "A Mahenge-fennsík meredek peremén fekvő kilátóból drámai panoráma nyílik a lenti buja, mezőgazdasági völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        36.713554,
+                        -8.628672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mhenge Scarp Viewpoint",
+                  "text": "Situat pe marginea abruptă a ținuturilor înalte Mahenge, acest punct de belvedere oferă panorame dramatice asupra văilor agricole luxuriante de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        36.713554,
+                        -8.628672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mhenge Scarp Viewpoint",
+                  "text": "Perched on the steep edge of the Mahenge highlands, this viewpoint offers dramatic panoramas over the lush agricultural valleys below.",
+                  "category": "natural",
+                  "coords": [
+                        36.713554,
+                        -8.628672
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TZ-01",
     coords: [36.7, -8.7],
@@ -399,7 +696,232 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "mwanza-markt-life-v2",
+    id: "mwanza-markt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saba Saba Stadium",
+                  "text": "Als zentraler Treffpunkt in Mwanza ist diese Freiluftarena regelmäßig Schauplatz lebhafter Sportwettkämpfe und dynamischer kultureller Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        32.914443,
+                        -2.462192
+                  ]
+            },
+            {
+                  "name": "Serengeti road",
+                  "text": "Gelegen an der staubigen Fernstraße von Mwanza aus, bietet dieser Aussichtspunkt am Straßenrand weite Blicke auf die mit Akazien gesprenkelten Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        32.970115,
+                        -2.49902
+                  ]
+            },
+            {
+                  "name": "Jiwe Kuu/Dancing Rocks",
+                  "text": "Diese massiven, prekär ausbalancierten Granitblöcke auf einem Hügel oberhalb von Mwanza bilden einen dramatischen Vordergrund für atemberaubende Sonnenuntergänge über dem Viktoriasee.",
+                  "category": "natural",
+                  "coords": [
+                        32.886894,
+                        -2.480907
+                  ]
+            },
+            {
+                  "name": "Bukoba Ferry Disaster",
+                  "text": "Dieses feierliche Steindenkmal am Ufer des Viktoriasees erinnert an den tragischen Verlust von Hunderten von Menschenleben beim Untergang der Passagierfähre MV Bukoba im Jahr 1996.",
+                  "category": "historical",
+                  "coords": [
+                        32.885338,
+                        -2.468294
+                  ]
+            },
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Dieser Veranstaltungsort in Mwanza, der ein lebhaftes Grillrestaurant mit einer kuratierten Sammlung lokaler Sportmemorabilien verbindet, feiert regionale sportliche Erfolge.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Auf diesem erhöhten Fußgängerüberweg stehend, können Besucher den geschäftigen täglichen Fluss bunter Marktboote in den Küstengewässern von Mwanza beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        32.953823,
+                        -2.48844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saba Saba Stadium",
+                  "text": "A Mwanza központi találkozóhelyeként szolgáló szabadtéri aréna rendszeresen ad otthont élénk sportmérkőzéseknek és pezsgő kulturális előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        32.914443,
+                        -2.462192
+                  ]
+            },
+            {
+                  "name": "Serengeti road",
+                  "text": "A Mwanzából kivezető poros országút mentén elhelyezkedő útszéli kilátópont lenyűgöző kilátást nyújt az akáciákkal pettyezett síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        32.970115,
+                        -2.49902
+                  ]
+            },
+            {
+                  "name": "Jiwe Kuu/Dancing Rocks",
+                  "text": "A Mwanza feletti dombon magasodó, bizonytalanul egyensúlyozó hatalmas gránitsziklák drámai előteret biztosítanak a Viktória-tó feletti lenyűgöző naplementékhez.",
+                  "category": "natural",
+                  "coords": [
+                        32.886894,
+                        -2.480907
+                  ]
+            },
+            {
+                  "name": "Bukoba Ferry Disaster",
+                  "text": "A Viktória-tó partján álló ünnepélyes kőemlékmű az MV Bukoba utasszállító komp 1996-os elsüllyedésekor odaveszett több száz áldozat tragikus elvesztésére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        32.885338,
+                        -2.468294
+                  ]
+            },
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Ez a mwanzai helyszín, amely egy nyüzsgő grilléttermet és egy helyi sportemléktárgyakból álló gyűjteményt ötvöz, a regionális sporteredményeket ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Ezen a magaslati gyalogos hídon állva a látogatók megfigyelhetik a Mwanza part menti vizein navigáló színes piachajók nyüzsgő mindennapi áradatát.",
+                  "category": "natural",
+                  "coords": [
+                        32.953823,
+                        -2.48844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saba Saba Stadium",
+                  "text": "Servind ca punct central de adunare în Mwanza, această arenă în aer liber găzduiește în mod regulat meciuri sportive pline de viață și spectacole culturale vibrante.",
+                  "category": "cultural",
+                  "coords": [
+                        32.914443,
+                        -2.462192
+                  ]
+            },
+            {
+                  "name": "Serengeti road",
+                  "text": "Poziționat de-a lungul autostrăzii prăfuite la ieșirea din Mwanza, acest punct de observație rutier oferă vederi ample asupra câmpiilor presărate cu salcâmi.",
+                  "category": "natural",
+                  "coords": [
+                        32.970115,
+                        -2.49902
+                  ]
+            },
+            {
+                  "name": "Jiwe Kuu/Dancing Rocks",
+                  "text": "Așezați pe un deal deasupra orașului Mwanza, acești bolovani masivi de granit, echilibrați precar, oferă un prim-plan dramatic pentru priveliștile uimitoare ale apusului de soare peste Lacul Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        32.886894,
+                        -2.480907
+                  ]
+            },
+            {
+                  "name": "Bukoba Ferry Disaster",
+                  "text": "Acest monument solemn de piatră de pe malul Lacului Victoria comemorează pierderea tragică a sute de vieți la scufundarea feribotului de pasageri MV Bukoba în 1996.",
+                  "category": "historical",
+                  "coords": [
+                        32.885338,
+                        -2.468294
+                  ]
+            },
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Combinând un grătar plin de viață cu o colecție îngrijită de suveniruri sportive locale, această locație din Mwanza celebrează realizările atletice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Stând pe această pasarelă pietonală la înălțime, vizitatorii pot urmări fluxul zilnic aglomerat al bărcilor de piață colorate în apele de coastă din Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.953823,
+                        -2.48844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saba Saba Stadium",
+                  "text": "Serving as a central gathering point in Mwanza, this open-air arena regularly hosts lively sporting matches, community events, and vibrant cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        32.914443,
+                        -2.462192
+                  ]
+            },
+            {
+                  "name": "Serengeti road",
+                  "text": "Positioned along the dusty highway leaving Mwanza, this roadside vantage point offers sweeping views of the acacia-dotted plains stretching toward the national park.",
+                  "category": "natural",
+                  "coords": [
+                        32.970115,
+                        -2.49902
+                  ]
+            },
+            {
+                  "name": "Jiwe Kuu/Dancing Rocks",
+                  "text": "Perched on a hill above Mwanza, these massive, precariously balanced granite boulders offer a dramatic foreground to stunning sunset views over Lake Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        32.886894,
+                        -2.480907
+                  ]
+            },
+            {
+                  "name": "Bukoba Ferry Disaster",
+                  "text": "This solemn stone memorial on the shores of Lake Victoria commemorates the tragic loss of hundreds of lives when the MV Bukoba passenger ferry sank in 1996.",
+                  "category": "historical",
+                  "coords": [
+                        32.885338,
+                        -2.468294
+                  ]
+            },
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Unconventionally merging a lively grill with a curated collection of local sports memorabilia, this Mwanza venue celebrates regional athletic achievements alongside traditional dining.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Standing on this elevated pedestrian walkway, visitors can watch the bustling daily flow of colorful market boats navigating the coastal waters of Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.953823,
+                        -2.48844
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TZ-14",
     coords: [32.9, -2.5],
@@ -471,7 +993,88 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "tanga-museum-life-v2",
+    id: "tanga-museum-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kwale Bay",
+                  "text": "Die Küstenruinen historischer Siedlungen mit Blick auf die Bucht.",
+                  "category": "historical",
+                  "coords": [
+                        39.167759,
+                        -4.990699
+                  ]
+            },
+            {
+                  "name": "Boma Ruins",
+                  "text": "Die verwitterten steinernen Überreste eines Verwaltungsgebäudes aus der Kolonialzeit.",
+                  "category": "historical",
+                  "coords": [
+                        39.174104,
+                        -4.95635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwale Bay",
+                  "text": "A történelmi települések partvidéki romjai, amelyek az öbölre néznek.",
+                  "category": "historical",
+                  "coords": [
+                        39.167759,
+                        -4.990699
+                  ]
+            },
+            {
+                  "name": "Boma Ruins",
+                  "text": "Egy gyarmati kori adminisztratív épület megviselt kőmaradványai.",
+                  "category": "historical",
+                  "coords": [
+                        39.174104,
+                        -4.95635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwale Bay",
+                  "text": "Ruinele de coastă ale așezărilor istorice cu vedere la golf.",
+                  "category": "historical",
+                  "coords": [
+                        39.167759,
+                        -4.990699
+                  ]
+            },
+            {
+                  "name": "Boma Ruins",
+                  "text": "Rămășițele de piatră erodate ale unei clădiri administrative din epoca colonială.",
+                  "category": "historical",
+                  "coords": [
+                        39.174104,
+                        -4.95635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwale Bay",
+                  "text": "The coastal ruins of historic settlements overlooking the bay.",
+                  "category": "historical",
+                  "coords": [
+                        39.167759,
+                        -4.990699
+                  ]
+            },
+            {
+                  "name": "Boma Ruins",
+                  "text": "The weathered stone remnants of a colonial-era administrative building.",
+                  "category": "historical",
+                  "coords": [
+                        39.174104,
+                        -4.95635
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TZ-05",
     coords: [39.1, -5.0],
@@ -543,7 +1146,52 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "morogoro-garten-life-v2",
+    id: "morogoro-garten-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "River View",
+                  "text": "Dieser malerische Aussichtspunkt im Gebiet von Morogoro bietet einen ruhigen Blick auf das Flusswasser, das von den nahegelegenen Uluguru-Bergen herabfließt.",
+                  "category": "natural",
+                  "coords": [
+                        37.634031,
+                        -6.804478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "River View",
+                  "text": "Ez a Morogoro térségében található festői kilátó nyugodt kilátást nyújt a közeli Uluguru-hegységből lezúduló folyóvizekre.",
+                  "category": "natural",
+                  "coords": [
+                        37.634031,
+                        -6.804478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "River View",
+                  "text": "Acest punct de belvedere pitoresc din zona Morogoro oferă o vedere senină a apelor râului care curg din Munții Uluguru din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        37.634031,
+                        -6.804478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "River View",
+                  "text": "This scenic overlook in the Morogoro area provides a serene view of the river waters flowing down from the nearby Uluguru Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        37.634031,
+                        -6.804478
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TZ-08",
     coords: [37.6, -6.8],
@@ -795,7 +1443,52 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "geita-land-life-v2",
+    id: "geita-land-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyankumbu",
+                  "text": "Eine markante Viertelattraktion, die das tägliche Leben und den lokalen Handel in Geita präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.223249,
+                        -2.910204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyankumbu",
+                  "text": "Egy jellegzetes környékbeli látványosság, amely bemutatja a mindennapi életet és a helyi kereskedelmet Geitában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.223249,
+                        -2.910204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyankumbu",
+                  "text": "O atracție de cartier distinctă care prezintă viața de zi cu zi și comerțul local din Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.223249,
+                        -2.910204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyankumbu",
+                  "text": "A distinct neighborhood attraction showcasing daily life and local commerce in Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.223249,
+                        -2.910204
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TZ-21",
     coords: [32.2, -2.9],
@@ -867,7 +1560,88 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "singida-farmen-life-v2",
+    id: "singida-farmen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake kindai",
+                  "text": "Dieser flache Salzsee in der Region Singida dient häufig als riesiges Nahrungsgebiet für große Schwärme von rosa Flamingos.",
+                  "category": "landmark",
+                  "coords": [
+                        34.738052,
+                        -4.846133
+                  ]
+            },
+            {
+                  "name": "Lake singida",
+                  "text": "Dieser ausgedehnte endorheische See stellt eine lebenswichtige Wasserquelle für die lokale Landwirtschaft dar und erhält vielfältige Populationen von Wasservögeln.",
+                  "category": "landmark",
+                  "coords": [
+                        34.761357,
+                        -4.785327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake kindai",
+                  "text": "Ez a Singida régióban található sekély sós tó gyakran hatalmas rózsaszín flamingórajok táplálkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        34.738052,
+                        -4.846133
+                  ]
+            },
+            {
+                  "name": "Lake singida",
+                  "text": "Ez a kiterjedt lefolyástalan tó létfontosságú vízforrást jelent a helyi mezőgazdaság számára, és változatos vízimadár-populációkat tart fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        34.761357,
+                        -4.785327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake kindai",
+                  "text": "Acest lac salin puțin adânc din regiunea Singida servește frecvent ca zonă masivă de hrănire pentru stoluri mari de păsări flamingo roz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.738052,
+                        -4.846133
+                  ]
+            },
+            {
+                  "name": "Lake singida",
+                  "text": "Acest lac endoreic expansiv oferă o sursă de apă vitală pentru agricultura locală și susține diverse populații de păsări acvatice.",
+                  "category": "landmark",
+                  "coords": [
+                        34.761357,
+                        -4.785327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake kindai",
+                  "text": "This shallow saline lake in the Singida region frequently serves as a massive feeding ground for large flocks of pink flamingos.",
+                  "category": "landmark",
+                  "coords": [
+                        34.738052,
+                        -4.846133
+                  ]
+            },
+            {
+                  "name": "Lake singida",
+                  "text": "This expansive endorheic lake provides a vital water source for local agriculture and sustains diverse populations of aquatic birds.",
+                  "category": "landmark",
+                  "coords": [
+                        34.761357,
+                        -4.785327
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TZ-24",
     coords: [34.7, -4.8],
@@ -903,7 +1677,124 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "shinyanga-acker-life-v2",
+    id: "shinyanga-acker-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mazingira centre",
+                  "text": "Eine Attraktion, die sich auf Umwelt- und Gemeinschaftsthemen in Shinyanga konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            },
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "Eine mit dem Fischfang verbundene Attraktion und ein lokaler Treffpunkt in Shinyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Boys hostel of Buhangija Secondary School",
+                  "text": "Ein Studentenwohnheim, das zur weiterführenden Schule in Shinyanga gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        33.414446,
+                        -3.693962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mazingira centre",
+                  "text": "A környezetvédelmi és közösségi témákra összpontosító látványosság Shinyangában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            },
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "Halászattal kapcsolatos látványosság és helyi gyülekezőhely Shinyangában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Boys hostel of Buhangija Secondary School",
+                  "text": "A shinyangai középiskolához tartozó diákszálló épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        33.414446,
+                        -3.693962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mazingira centre",
+                  "text": "O atracție axată pe teme de mediu și comunitare în Shinyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            },
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "O atracție legată de pescuit și un loc de adunare local în Shinyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Boys hostel of Buhangija Secondary School",
+                  "text": "O clădire de cazare pentru elevi care deservește școala gimnazială din Shinyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        33.414446,
+                        -3.693962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mazingira centre",
+                  "text": "An attraction focusing on environmental and community themes in Shinyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            },
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "A fishing-related attraction and local gathering spot in Shinyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Boys hostel of Buhangija Secondary School",
+                  "text": "A student accommodation building serving the secondary school in Shinyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        33.414446,
+                        -3.693962
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TZ-25",
     coords: [33.4, -3.7],
@@ -939,7 +1830,52 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "tabora-farmen-life-v2",
+    id: "tabora-farmen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mama Irene house",
+                  "text": "Das Haus Mama Irene ist ein malerischer Aussichtspunkt, der weite Blicke über die landwirtschaftlichen Flächen von Tabora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.841164,
+                        -5.006942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mama Irene house",
+                  "text": "A Mama Irene ház egy festői kilátó, amely széles panorámát nyújt Tabora mezőgazdasági vidékeire.",
+                  "category": "natural",
+                  "coords": [
+                        32.841164,
+                        -5.006942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mama Irene house",
+                  "text": "Casa Mama Irene este un punct de belvedere pitoresc care oferă priveliști ample asupra peisajelor agricole din jurul orașului Tabora.",
+                  "category": "natural",
+                  "coords": [
+                        32.841164,
+                        -5.006942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mama Irene house",
+                  "text": "The Mama Irene house is a scenic viewpoint offering sweeping vistas over the agricultural landscapes surrounding Tabora.",
+                  "category": "natural",
+                  "coords": [
+                        32.841164,
+                        -5.006942
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TZ-26",
     coords: [32.8, -5.0],
@@ -1011,7 +1947,124 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "mwanza-inseln-life-v2",
+    id: "mwanza-inseln-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "lecture theater one",
+                  "text": "Dieser akademische Hörsaal auf dem inselförmigen Mwanza-Campus bietet einen Veranstaltungsort für Universitätskurse und Events.",
+                  "category": "cultural",
+                  "coords": [
+                        33.060487,
+                        -2.563162
+                  ]
+            },
+            {
+                  "name": "Sukuma Museum",
+                  "text": "Dieses Freilichtmuseum in der Nähe von Mwanza präsentiert das reiche kulturelle Erbe und die traditionellen Artefakte des Sukuma-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        33.040108,
+                        -2.542187
+                  ]
+            },
+            {
+                  "name": "Network Tower",
+                  "text": "Diese Telekommunikations-Turmanlage bietet einen erhöhten Panoramablick über die Insellandschaft von Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        33.039894,
+                        -2.544901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "lecture theater one",
+                  "text": "Ez a szigetes mwanza-i kampuszon található egyetemi előadóterem egyetemi oktatásnak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        33.060487,
+                        -2.563162
+                  ]
+            },
+            {
+                  "name": "Sukuma Museum",
+                  "text": "Ez a Mwanza közelében található szabadtéri múzeum a szukuma nép gazdag kulturális örökségét és hagyományos tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.040108,
+                        -2.542187
+                  ]
+            },
+            {
+                  "name": "Network Tower",
+                  "text": "Ez a telekommunikációs torony magaslati panorámát kínál Mwanza szigeti tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        33.039894,
+                        -2.544901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "lecture theater one",
+                  "text": "Această sală de cursuri academice din campusul insular Mwanza oferă un loc pentru instruirea universitară și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        33.060487,
+                        -2.563162
+                  ]
+            },
+            {
+                  "name": "Sukuma Museum",
+                  "text": "Acest muzeu în aer liber de lângă Mwanza expune bogata moștenire culturală și artefactele tradiționale ale poporului Sukuma.",
+                  "category": "museum",
+                  "coords": [
+                        33.040108,
+                        -2.542187
+                  ]
+            },
+            {
+                  "name": "Network Tower",
+                  "text": "Acest turn de telecomunicații oferă vederi panoramice la înălțime asupra peisajului insular din Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        33.039894,
+                        -2.544901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "lecture theater one",
+                  "text": "This academic lecture hall on the island-dotted Mwanza campus provides a venue for university instruction and events.",
+                  "category": "cultural",
+                  "coords": [
+                        33.060487,
+                        -2.563162
+                  ]
+            },
+            {
+                  "name": "Sukuma Museum",
+                  "text": "This open-air museum near Mwanza showcases the rich cultural heritage and traditional artifacts of the Sukuma people.",
+                  "category": "museum",
+                  "coords": [
+                        33.040108,
+                        -2.542187
+                  ]
+            },
+            {
+                  "name": "Network Tower",
+                  "text": "This telecommunications tower structure offers elevated panoramic views over the island terrain of Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        33.039894,
+                        -2.544901
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TZ-14",
     coords: [33.0, -2.6],
@@ -1047,7 +2100,52 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     },
   },
   {
-    id: "pugu-wald-life-v2",
+    id: "pugu-wald-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makabulini",
+                  "text": "Am Rande des Pugu-Waldreservats gelegen, bietet dieser Aussichtspunkt auf einem Hügel einen weiten Blick auf das dichte tropische Blätterdach der Region.",
+                  "category": "natural",
+                  "coords": [
+                        39.168078,
+                        -6.878585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makabulini",
+                  "text": "A Pugu Erdőrezervátum szélén fekvő dombtetői kilátóról széles panoráma nyílik a régió sűrű trópusi lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        39.168078,
+                        -6.878585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makabulini",
+                  "text": "Situat la marginile Rezervației Forestiere Pugu, acest punct de observație de pe deal oferă vederi ample asupra coronamentului tropical dens al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        39.168078,
+                        -6.878585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makabulini",
+                  "text": "Situated near the edges of the Pugu Forest Reserve, this hilltop overlook provides sweeping views of the region's dense tropical canopy.",
+                  "category": "natural",
+                  "coords": [
+                        39.168078,
+                        -6.878585
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TZ-01",
     coords: [39.1, -6.9],

@@ -243,7 +243,52 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "st-peter-paul-cathedral-history-v2",
+    id: "st-peter-paul-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moïse TSHOMBE",
+                  "text": "Ein historisches Denkmal, das Moïse Tshombe gewidmet ist und die komplexe politische Geschichte der Region Katanga widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        27.484765,
+                        -11.665263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moïse TSHOMBE",
+                  "text": "Moïse Tshombénak szentelt történelmi emlékmű, amely a Katanga régió összetett politikai történelmét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        27.484765,
+                        -11.665263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moïse TSHOMBE",
+                  "text": "Un monument istoric dedicat lui Moïse Tshombe, reflectând istoria politică complexă a regiunii Katanga.",
+                  "category": "historical",
+                  "coords": [
+                        27.484765,
+                        -11.665263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moïse TSHOMBE",
+                  "text": "A historical monument dedicated to Moïse Tshombe, reflecting the complex political history of the Katanga region.",
+                  "category": "historical",
+                  "coords": [
+                        27.484765,
+                        -11.665263
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-HK",
     coords: [27.485, -11.666],
@@ -387,7 +432,52 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "luluabourg-kananga-history-v2",
+    id: "luluabourg-kananga-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ravin",
+                  "text": "Dieser markante Schlucht-Aussichtspunkt in Luluabourg (Kananga) überblickt die starke Bodenerosion und die für die Region typischen natürlichen Rinnenbildungen.",
+                  "category": "natural",
+                  "coords": [
+                        22.402916,
+                        -5.891402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ravin",
+                  "text": "Ez a Luluabourgban (Kanangában) található jelentős szakadék kilátója a régióra jellemző súlyos talajerózióra és a természetes vízmosásokra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        22.402916,
+                        -5.891402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ravin",
+                  "text": "Acest punct de belvedere deasupra râpei din Luluabourg (Kananga) oferă o priveliște asupra eroziunii severe a solului și a formațiunilor naturale tipice regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        22.402916,
+                        -5.891402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ravin",
+                  "text": "This prominent ravine viewpoint in Luluabourg (Kananga) overlooks the severe soil erosion and natural gully formations typical of the region.",
+                  "category": "natural",
+                  "coords": [
+                        22.402916,
+                        -5.891402
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-KC",
     coords: [22.416, -5.891],
@@ -675,7 +765,52 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "inongo-colonial-post-history-v2",
+    id: "inongo-colonial-post-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez MAMAN BISENGO",
+                  "text": "Chez MAMAN BISENGO ist ein Aussichtspunkt, der malerische Ausblicke in der Nähe des historischen Kolonialpostens Inongo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.276494,
+                        -1.927788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez MAMAN BISENGO",
+                  "text": "A Chez MAMAN BISENGO egy festői kilátást nyújtó pont a történelmi Inongo gyarmati állomás közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.276494,
+                        -1.927788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez MAMAN BISENGO",
+                  "text": "Chez MAMAN BISENGO este un punct de belvedere cu împrejurimi pitorești, lângă fostul post colonial din Inongo.",
+                  "category": "natural",
+                  "coords": [
+                        18.276494,
+                        -1.927788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez MAMAN BISENGO",
+                  "text": "Chez MAMAN BISENGO is a viewpoint offering scenic surroundings near the historic colonial post of Inongo.",
+                  "category": "natural",
+                  "coords": [
+                        18.276494,
+                        -1.927788
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-MN",
     coords: [18.283, -1.95],
@@ -915,7 +1050,124 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "kintambo-leopoldville-est-history-v2",
+    id: "kintambo-leopoldville-est-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simon Kimbangu",
+                  "text": "Das Denkmal für Simon Kimbangu ehrt den kongolesischen Religionsführer und Gründer des Kimbanguismus.",
+                  "category": "historical",
+                  "coords": [
+                        15.282689,
+                        -4.339948
+                  ]
+            },
+            {
+                  "name": "Centre Culturel MUTOMBO BUITSHI",
+                  "text": "Das Centre Culturel MUTOMBO BUITSHI ist ein Kunstzentrum, das sich der Förderung lokaler Kunst und Gemeinschaftsveranstaltungen in Kinshasa widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282029,
+                        -4.348198
+                  ]
+            },
+            {
+                  "name": "Centre Lasalien de Kinshasa",
+                  "text": "Das Centre Lasalien de Kinshasa ist ein Kunstzentrum, das bildungs- und kulturbezogene Aktivitäten in der lasallianischen Tradition fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.264554,
+                        -4.347536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simon Kimbangu",
+                  "text": "A Simon Kimbangu-emlékmű a kongói vallási vezető, a kimbanguizmus alapítója előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        15.282689,
+                        -4.339948
+                  ]
+            },
+            {
+                  "name": "Centre Culturel MUTOMBO BUITSHI",
+                  "text": "A Centre Culturel MUTOMBO BUITSHI egy művészeti központ, amely a helyi művészeti kifejezések és közösségi események népszerűsítésére jött létre Kinshasában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282029,
+                        -4.348198
+                  ]
+            },
+            {
+                  "name": "Centre Lasalien de Kinshasa",
+                  "text": "A Centre Lasalien de Kinshasa egy művészeti központ, amely a lasalli hagyományokon alapuló oktatási és kulturális tevékenységeket támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.264554,
+                        -4.347536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simon Kimbangu",
+                  "text": "Monumentul Simon Kimbangu onorează liderul religios congolez și fondator al kimbanguismului.",
+                  "category": "historical",
+                  "coords": [
+                        15.282689,
+                        -4.339948
+                  ]
+            },
+            {
+                  "name": "Centre Culturel MUTOMBO BUITSHI",
+                  "text": "Centre Culturel MUTOMBO BUITSHI este un centru de arte dedicat promovării expresiilor artistice locale și evenimentelor comunitare în Kinshasa.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282029,
+                        -4.348198
+                  ]
+            },
+            {
+                  "name": "Centre Lasalien de Kinshasa",
+                  "text": "Centre Lasalien de Kinshasa este un centru de arte care facilitează activități educaționale și culturale bazate pe tradiția lasalliană.",
+                  "category": "cultural",
+                  "coords": [
+                        15.264554,
+                        -4.347536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simon Kimbangu",
+                  "text": "The Simon Kimbangu monument honors the Congolese religious leader and founder of Kimbanguism.",
+                  "category": "historical",
+                  "coords": [
+                        15.282689,
+                        -4.339948
+                  ]
+            },
+            {
+                  "name": "Centre Culturel MUTOMBO BUITSHI",
+                  "text": "Centre Culturel MUTOMBO BUITSHI is an arts centre dedicated to promoting local artistic expressions and community events in Kinshasa.",
+                  "category": "cultural",
+                  "coords": [
+                        15.282029,
+                        -4.348198
+                  ]
+            },
+            {
+                  "name": "Centre Lasalien de Kinshasa",
+                  "text": "Centre Lasalien de Kinshasa is an arts centre facilitating educational and cultural activities grounded in the Lasallian tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        15.264554,
+                        -4.347536
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-KN",
     coords: [15.275, -4.333],

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraCongoLifeV2: POI[] = [
   {
-    id: "lossi-gorilla-sanctuary-life-v2",
+    id: "lossi-gorilla-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "yousef Alsagir ",
+                  "text": "Eine abgelegene Kunstgalerie, die ausdrucksstarke Werke ausstellt, die von der umliegenden Wildnis und dem angrenzenden Schutzgebiet inspiriert sind.",
+                  "category": "museum",
+                  "coords": [
+                        14.778144,
+                        -1e-06
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yousef Alsagir ",
+                  "text": "Távoli művészeti galéria, amely a környező vadon és a közeli menedékhely által ihletett kifejező alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        14.778144,
+                        -1e-06
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yousef Alsagir ",
+                  "text": "O galerie de artă îndepărtată care expune lucrări expresive inspirate de sălbăticia înconjurătoare și de sanctuarul din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        14.778144,
+                        -1e-06
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yousef Alsagir ",
+                  "text": "A remote art gallery exhibiting expressive works inspired by the pristine surrounding wilderness and the nearby sanctuary.",
+                  "category": "museum",
+                  "coords": [
+                        14.778144,
+                        -1e-06
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CG-13",
     coords: [14.80, 0.00],
@@ -48,7 +93,52 @@ export const poiExtraCongoLifeV2: POI[] = [
       fr: ["Habitat des gorilles des plaines de l'Ouest", "Première réserve communautaire du Congo"],
     }, image: "/poi-images/lossi-gorilla-sanctuary-life-v2.webp"},
   {
-    id: "tchimpounga-chimpanzee-life-v2",
+    id: "tchimpounga-chimpanzee-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sanctuaire de Tchimpounga",
+                  "text": "Das 1992 gegründete Sanctuaire de Tchimpounga ist ein wichtiger Park und Rehabilitationszentrum, das vor allem für seine Bemühungen zum Schutz von Schimpansen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        11.834447,
+                        -4.52735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sanctuaire de Tchimpounga",
+                  "text": "Az 1992-ben alapított Sanctuaire de Tchimpounga egy létfontosságú park és rehabilitációs központ, amely elsősorban a csimpánzok védelmére irányuló erőfeszítéseiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        11.834447,
+                        -4.52735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sanctuaire de Tchimpounga",
+                  "text": "Înființat în 1992, Sanctuaire de Tchimpounga este un parc și centru de reabilitare vital, cunoscut în primul rând pentru eforturile sale de conservare a cimpanzeilor.",
+                  "category": "park",
+                  "coords": [
+                        11.834447,
+                        -4.52735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sanctuaire de Tchimpounga",
+                  "text": "Established in 1992, the Sanctuaire de Tchimpounga is a vital park and rehabilitation center primarily known for its chimpanzee conservation efforts.",
+                  "category": "park",
+                  "coords": [
+                        11.834447,
+                        -4.52735
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CG-5",
     coords: [11.90, -4.50],
@@ -138,7 +228,52 @@ export const poiExtraCongoLifeV2: POI[] = [
       fr: ["Situé au cœur de la capitale", "Abrite des singes et des reptiles"],
     }, image: "/poi-images/brazzaville-zoo-life-v2.webp"},
   {
-    id: "brazzaville-botanical-garden-life-v2",
+    id: "brazzaville-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre Jean-Baptiste Tati Loutard",
+                  "text": "Das Théâtre Jean-Baptiste Tati Loutard ist ein kultureller Veranstaltungsort, der zu Ehren des berühmten kongolesischen Schriftstellers benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        15.27056,
+                        -4.262922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre Jean-Baptiste Tati Loutard",
+                  "text": "A Théâtre Jean-Baptiste Tati Loutard egy kulturális előadótér, amelyet a híres kongói író tiszteletére neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        15.27056,
+                        -4.262922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre Jean-Baptiste Tati Loutard",
+                  "text": "Théâtre Jean-Baptiste Tati Loutard este un spațiu de spectacole culturale numit în onoarea renumitului scriitor congolez.",
+                  "category": "cultural",
+                  "coords": [
+                        15.27056,
+                        -4.262922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre Jean-Baptiste Tati Loutard",
+                  "text": "The Théâtre Jean-Baptiste Tati Loutard is a cultural performance space named in honor of the renowned Congolese writer.",
+                  "category": "cultural",
+                  "coords": [
+                        15.27056,
+                        -4.262922
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CG-BZA",
     coords: [15.275, -4.270],
@@ -410,7 +545,88 @@ export const poiExtraCongoLifeV2: POI[] = [
       fr: ["Aliment de base de la population", "Base pour la fabrication de la chikwangue"],
     }, image: "/poi-images/madingou-cassava-farms-life-v2.webp"},
   {
-    id: "niari-coffee-plantations-life-v2",
+    id: "niari-coffee-plantations-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lac Bleu",
+                  "text": "Der Lac Bleu ist ein malerischer Seeausblick inmitten der Kaffeeplantagenregion von Niari.",
+                  "category": "natural",
+                  "coords": [
+                        12.481517,
+                        -3.556715
+                  ]
+            },
+            {
+                  "name": "Rivière Bleu",
+                  "text": "Die Rivière Bleu bietet ruhige Flussausblicke in der Agrarlandschaft der Kaffeeplantagen von Niari.",
+                  "category": "natural",
+                  "coords": [
+                        12.475684,
+                        -3.5687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lac Bleu",
+                  "text": "A Lac Bleu egy festői tavi kilátópont, amely Niari kávéültetvényei között fészkel.",
+                  "category": "natural",
+                  "coords": [
+                        12.481517,
+                        -3.556715
+                  ]
+            },
+            {
+                  "name": "Rivière Bleu",
+                  "text": "A Rivière Bleu nyugodt folyóparti kilátást nyújt Niari kávéültetvényeinek mezőgazdasági táján.",
+                  "category": "natural",
+                  "coords": [
+                        12.475684,
+                        -3.5687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lac Bleu",
+                  "text": "Lac Bleu este un punct de belvedere pitoresc la un lac cuibărit în regiunea plantațiilor de cafea din Niari.",
+                  "category": "natural",
+                  "coords": [
+                        12.481517,
+                        -3.556715
+                  ]
+            },
+            {
+                  "name": "Rivière Bleu",
+                  "text": "Rivière Bleu oferă priveliști liniștite ale râului în peisajul agricol al plantațiilor de cafea din Niari.",
+                  "category": "natural",
+                  "coords": [
+                        12.475684,
+                        -3.5687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lac Bleu",
+                  "text": "Lac Bleu is a picturesque lake viewpoint nestled in the coffee plantation region of Niari.",
+                  "category": "natural",
+                  "coords": [
+                        12.481517,
+                        -3.556715
+                  ]
+            },
+            {
+                  "name": "Rivière Bleu",
+                  "text": "Rivière Bleu offers tranquil riverine views amidst the agricultural landscape of Niari's coffee plantations.",
+                  "category": "natural",
+                  "coords": [
+                        12.475684,
+                        -3.5687
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CG-9",
     coords: [12.50, -3.50],
@@ -887,7 +1103,124 @@ export const poiExtraCongoLifeV2: POI[] = [
     },
   },
   {
-    id: "pointe-indienne-turtles-life-v2",
+    id: "pointe-indienne-turtles-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "chez HT",
+                  "text": "Eine große Küstenresidenz, die wie eine moderne Burg in der Nähe der Pointe Indienne erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        11.857685,
+                        -4.702572
+                  ]
+            },
+            {
+                  "name": "chez Emmanuel",
+                  "text": "Eine markante Villa, die wie eine Burg an den Atlantikküsten der Pointe Indienne strukturiert ist.",
+                  "category": "castle",
+                  "coords": [
+                        11.854123,
+                        -4.703999
+                  ]
+            },
+            {
+                  "name": "Chantier BOKOKO",
+                  "text": "Ein markantes Küstenanwesen, das einer Burg am Strand der Pointe Indienne ähnelt.",
+                  "category": "castle",
+                  "coords": [
+                        11.846585,
+                        -4.699565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chez HT",
+                  "text": "A Pointe Indienne közelében épült, modern kastélyra emlékeztető nagy tengerparti rezidencia.",
+                  "category": "castle",
+                  "coords": [
+                        11.857685,
+                        -4.702572
+                  ]
+            },
+            {
+                  "name": "chez Emmanuel",
+                  "text": "A Pointe Indienne atlanti partvidékén található, kastélyszerűen kialakított lenyűgöző villa.",
+                  "category": "castle",
+                  "coords": [
+                        11.854123,
+                        -4.703999
+                  ]
+            },
+            {
+                  "name": "Chantier BOKOKO",
+                  "text": "Kiemelkedő tengerparti birtok, amely egy kastélyra hasonlít a Pointe Indienne strandjánál.",
+                  "category": "castle",
+                  "coords": [
+                        11.846585,
+                        -4.699565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chez HT",
+                  "text": "O reședință de coastă impunătoare, construită ca un castel modern lângă Pointe Indienne.",
+                  "category": "castle",
+                  "coords": [
+                        11.857685,
+                        -4.702572
+                  ]
+            },
+            {
+                  "name": "chez Emmanuel",
+                  "text": "O vilă impresionantă structurată ca un castel de-a lungul coastelor atlantice de la Pointe Indienne.",
+                  "category": "castle",
+                  "coords": [
+                        11.854123,
+                        -4.703999
+                  ]
+            },
+            {
+                  "name": "Chantier BOKOKO",
+                  "text": "O proprietate de coastă proeminentă care seamănă cu un castel lângă plaja Pointe Indienne.",
+                  "category": "castle",
+                  "coords": [
+                        11.846585,
+                        -4.699565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chez HT",
+                  "text": "A grand coastal residence built like a modern castle near Pointe Indienne.",
+                  "category": "castle",
+                  "coords": [
+                        11.857685,
+                        -4.702572
+                  ]
+            },
+            {
+                  "name": "chez Emmanuel",
+                  "text": "A striking villa structured like a castle along the Atlantic shores of Pointe Indienne.",
+                  "category": "castle",
+                  "coords": [
+                        11.854123,
+                        -4.703999
+                  ]
+            },
+            {
+                  "name": "Chantier BOKOKO",
+                  "text": "A prominent coastal estate resembling a castle by the Pointe Indienne beachfront.",
+                  "category": "castle",
+                  "coords": [
+                        11.846585,
+                        -4.699565
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CG-16",
     coords: [11.80, -4.70],

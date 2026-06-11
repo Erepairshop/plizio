@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraLibyaLifeV2: POI[] = [
   {
-    id: "tripoli-zoo-life-v2",
+    id: "tripoli-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old water well",
+                  "text": "Ruinen eines historischen Brunnens, der einst im heutigen Bereich des Zoos von Tripolis der Wasserversorgung diente.",
+                  "category": "historical",
+                  "coords": [
+                        13.239463,
+                        32.850707
+                  ]
+            },
+            {
+                  "name": "repeater",
+                  "text": "Ein Telekommunikations-Repeater, der in der Nähe des zoologischen Gartens von Tripolis installiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.204305,
+                        32.874276
+                  ]
+            },
+            {
+                  "name": "Bab Bin Ghashir",
+                  "text": "Urbanes Viertel in Tripolis, in dem sich der örtliche Zoo und angrenzende Grünanlagen befinden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.195624,
+                        32.872333
+                  ]
+            },
+            {
+                  "name": "Roundabout Tripoli Zoo",
+                  "text": "Ein lokales Denkmal, das sich an einem Verkehrsknotenpunkt in der Nähe des Zoos von Tripolis befindet.",
+                  "category": "historical",
+                  "coords": [
+                        13.17477,
+                        32.859568
+                  ]
+            },
+            {
+                  "name": "Islamic Museum",
+                  "text": "Ein Museum in Tripolis, das der islamischen Geschichte, Kunst und Kultur in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.182989,
+                        32.877483
+                  ]
+            },
+            {
+                  "name": "Ministry of Justice",
+                  "text": "Ein markantes Regierungsgebäude in Tripolis, das als Sitz des Justizministeriums dient.",
+                  "category": "landmark",
+                  "coords": [
+                        13.162525,
+                        32.867206
+                  ]
+            },
+            {
+                  "name": "11111",
+                  "text": "Eine lokale Sehenswürdigkeit im städtischen Umfeld von Tripolis.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247103,
+                        32.849443
+                  ]
+            },
+            {
+                  "name": "Abdulbari",
+                  "text": "Ein städtischer Anziehungspunkt in Tripolis, der den lokalen Namen Abdulbari trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.276239,
+                        32.848069
+                  ]
+            },
+            {
+                  "name": "Zoo Tripolis",
+                  "text": "Ein zoologischer Garten in Tripolis, der eine Vielzahl von einheimischen und exotischen Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.178346,
+                        32.858376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old water well",
+                  "text": "Egy történelmi kút romjai, amely egykor vízellátást biztosított Tripoli mai állatkertjének területén.",
+                  "category": "historical",
+                  "coords": [
+                        13.239463,
+                        32.850707
+                  ]
+            },
+            {
+                  "name": "repeater",
+                  "text": "Egy távközlési átjátszó állomás, amelyet a tripoli állatkert közelében telepítettek.",
+                  "category": "landmark",
+                  "coords": [
+                        13.204305,
+                        32.874276
+                  ]
+            },
+            {
+                  "name": "Bab Bin Ghashir",
+                  "text": "Városi negyed Tripoliban, ahol a helyi állatkert és a szomszédos zöldterületek találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        13.195624,
+                        32.872333
+                  ]
+            },
+            {
+                  "name": "Roundabout Tripoli Zoo",
+                  "text": "Egy helyi emlékmű, amely a tripoli állatkert közelében, egy közlekedési csomópontnál található.",
+                  "category": "historical",
+                  "coords": [
+                        13.17477,
+                        32.859568
+                  ]
+            },
+            {
+                  "name": "Islamic Museum",
+                  "text": "A régió iszlám történelmének, művészetének és kultúrájának szentelt múzeum Tripoliban.",
+                  "category": "museum",
+                  "coords": [
+                        13.182989,
+                        32.877483
+                  ]
+            },
+            {
+                  "name": "Ministry of Justice",
+                  "text": "Egy feltűnő kormányzati épület Tripoliban, amely az igazságügyi minisztérium székhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.162525,
+                        32.867206
+                  ]
+            },
+            {
+                  "name": "11111",
+                  "text": "Egy helyi látványosság Tripoli városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247103,
+                        32.849443
+                  ]
+            },
+            {
+                  "name": "Abdulbari",
+                  "text": "Egy városi vonzerő Tripoliban, amely a helyi Abdulbari nevet viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.276239,
+                        32.848069
+                  ]
+            },
+            {
+                  "name": "Tripoli Zoo",
+                  "text": "Egy állatkert Tripoliban, amely számos őshonos és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        13.178346,
+                        32.858376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old water well",
+                  "text": "Ruinele unei fântâni istorice care servea odinioară la aprovizionarea cu apă în zona actuală a grădinii zoologice din Tripoli.",
+                  "category": "historical",
+                  "coords": [
+                        13.239463,
+                        32.850707
+                  ]
+            },
+            {
+                  "name": "repeater",
+                  "text": "Un repetor de telecomunicații instalat în apropierea grădinii zoologice din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.204305,
+                        32.874276
+                  ]
+            },
+            {
+                  "name": "Bab Bin Ghashir",
+                  "text": "Cartier urban din Tripoli unde se află grădina zoologică locală și spațiile verzi adiacente.",
+                  "category": "landmark",
+                  "coords": [
+                        13.195624,
+                        32.872333
+                  ]
+            },
+            {
+                  "name": "Roundabout Tripoli Zoo",
+                  "text": "Un monument local situat la un sens giratoriu din apropierea grădinii zoologice din Tripoli.",
+                  "category": "historical",
+                  "coords": [
+                        13.17477,
+                        32.859568
+                  ]
+            },
+            {
+                  "name": "Islamic Museum",
+                  "text": "Un muzeu din Tripoli dedicat istoriei, artei și culturii islamice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        13.182989,
+                        32.877483
+                  ]
+            },
+            {
+                  "name": "Ministry of Justice",
+                  "text": "O clădire guvernamentală proeminentă din Tripoli, care servește drept sediu al Ministerului Justiției.",
+                  "category": "landmark",
+                  "coords": [
+                        13.162525,
+                        32.867206
+                  ]
+            },
+            {
+                  "name": "11111",
+                  "text": "O atracție locală situată în mediul urban din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247103,
+                        32.849443
+                  ]
+            },
+            {
+                  "name": "Abdulbari",
+                  "text": "O atracție urbană din Tripoli, care poartă numele local de Abdulbari.",
+                  "category": "landmark",
+                  "coords": [
+                        13.276239,
+                        32.848069
+                  ]
+            },
+            {
+                  "name": "Tripoli Zoo",
+                  "text": "O grădină zoologică din Tripoli, care adăpostește o varietate de specii de animale native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        13.178346,
+                        32.858376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old water well",
+                  "text": "Ruins of an historic well that once provided water in what is now the Tripoli zoo area.",
+                  "category": "historical",
+                  "coords": [
+                        13.239463,
+                        32.850707
+                  ]
+            },
+            {
+                  "name": "repeater",
+                  "text": "A telecommunications repeater installed near the zoological park of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.204305,
+                        32.874276
+                  ]
+            },
+            {
+                  "name": "Bab Bin Ghashir",
+                  "text": "Urban neighborhood in Tripoli that is home to the local zoo and adjacent green spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        13.195624,
+                        32.872333
+                  ]
+            },
+            {
+                  "name": "Roundabout Tripoli Zoo",
+                  "text": "A local monument located at a traffic roundabout near the Tripoli zoo.",
+                  "category": "historical",
+                  "coords": [
+                        13.17477,
+                        32.859568
+                  ]
+            },
+            {
+                  "name": "Islamic Museum",
+                  "text": "A museum in Tripoli dedicated to the Islamic history, art, and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.182989,
+                        32.877483
+                  ]
+            },
+            {
+                  "name": "Ministry of Justice",
+                  "text": "A prominent government building in Tripoli serving as the headquarters of the Ministry of Justice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.162525,
+                        32.867206
+                  ]
+            },
+            {
+                  "name": "11111",
+                  "text": "A local attraction located within the urban setting of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247103,
+                        32.849443
+                  ]
+            },
+            {
+                  "name": "Abdulbari",
+                  "text": "An urban point of interest in Tripoli bearing the local name Abdulbari.",
+                  "category": "landmark",
+                  "coords": [
+                        13.276239,
+                        32.848069
+                  ]
+            },
+            {
+                  "name": "Tripoli Zoo",
+                  "text": "A zoological garden in Tripoli housing a variety of native and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        13.178346,
+                        32.858376
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "LY-TR",
     coords: [13.18, 32.88],
@@ -79,7 +412,268 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "misrata-park-life-v2",
+    id: "misrata-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Libya misurata center",
+                  "text": "Ein zentraler Anziehungspunkt im städtischen Zentrum von Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.090427,
+                        32.374459
+                  ]
+            },
+            {
+                  "name": "Sama",
+                  "text": "Eine lokale Sehenswürdigkeit im städtischen Umfeld von Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Garrara Company",
+                  "text": "Ein burgähnliches Bauwerk, das sich in der Stadt Misrata befindet.",
+                  "category": "castle",
+                  "coords": [
+                        15.115336,
+                        32.330866
+                  ]
+            },
+            {
+                  "name": "awlad alshaykh",
+                  "text": "Eine städtische Sehenswürdigkeit, die mit dem Viertel Awlad Alshaykh in Misrata verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.054109,
+                        32.363991
+                  ]
+            },
+            {
+                  "name": "Albalabila",
+                  "text": "Albalabila ist eine historische, festungsartige Anlage in der Region Misrata.",
+                  "category": "castle",
+                  "coords": [
+                        15.0639,
+                        32.356475
+                  ]
+            },
+            {
+                  "name": "Faculty of IT",
+                  "text": "Die Fakultät für Informationstechnologie ist eine Bildungseinrichtung in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.067912,
+                        32.352304
+                  ]
+            },
+            {
+                  "name": "Martyrs monument",
+                  "text": "Dieses Denkmal und Museum in Misrata erinnert mit historischen Ausstellungen an lokale Märtyrer.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Libya misurata center",
+                  "text": "Egy központi látványosság Miszráta városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.090427,
+                        32.374459
+                  ]
+            },
+            {
+                  "name": "Sama",
+                  "text": "Egy helyi látványosság Miszráta városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Garrara Company",
+                  "text": "Egy kastélyszerű építmény, amely Miszráta városában található.",
+                  "category": "castle",
+                  "coords": [
+                        15.115336,
+                        32.330866
+                  ]
+            },
+            {
+                  "name": "awlad alshaykh",
+                  "text": "Egy városi látványosság, amely Miszráta Awlad Alshaykh negyedéhez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        15.054109,
+                        32.363991
+                  ]
+            },
+            {
+                  "name": "Albalabila",
+                  "text": "Az Albalabila egy történelmi, erődszerű építmény Miszráta régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        15.0639,
+                        32.356475
+                  ]
+            },
+            {
+                  "name": "Faculty of IT",
+                  "text": "Az Informatikai Kar egy jelentős oktatási intézmény Miszrátában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.067912,
+                        32.352304
+                  ]
+            },
+            {
+                  "name": "Martyrs monument",
+                  "text": "Ez a miszrátai emlékmű és múzeum történelmi kiállításokkal állít emléket a helyi mártíroknak.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Libya misurata center",
+                  "text": "Un punct de atracție central situat în zona urbană a orașului Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.090427,
+                        32.374459
+                  ]
+            },
+            {
+                  "name": "Sama",
+                  "text": "O atracție locală situată în peisajul urban din Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Garrara Company",
+                  "text": "O structură asemănătoare unui castel, situată în orașul Misrata.",
+                  "category": "castle",
+                  "coords": [
+                        15.115336,
+                        32.330866
+                  ]
+            },
+            {
+                  "name": "awlad alshaykh",
+                  "text": "O atracție urbană asociată cu cartierul Awlad Alshaykh din Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.054109,
+                        32.363991
+                  ]
+            },
+            {
+                  "name": "Albalabila",
+                  "text": "Albalabila este o structură istorică, asemănătoare unei fortărețe, în regiunea Misrata.",
+                  "category": "castle",
+                  "coords": [
+                        15.0639,
+                        32.356475
+                  ]
+            },
+            {
+                  "name": "Faculty of IT",
+                  "text": "Facultatea de Tehnologia Informației servește ca instituție educațională în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.067912,
+                        32.352304
+                  ]
+            },
+            {
+                  "name": "Martyrs monument",
+                  "text": "Acest monument și muzeu din Misrata comemorează martirii locali prin expoziții istorice.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Libya misurata center",
+                  "text": "A central point of attraction located in the urban core of Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.090427,
+                        32.374459
+                  ]
+            },
+            {
+                  "name": "Sama",
+                  "text": "A local attraction situated within the urban environment of Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Garrara Company",
+                  "text": "A castle-like structure located in the city of Misrata.",
+                  "category": "castle",
+                  "coords": [
+                        15.115336,
+                        32.330866
+                  ]
+            },
+            {
+                  "name": "awlad alshaykh",
+                  "text": "An urban attraction associated with the Awlad Alshaykh neighborhood in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.054109,
+                        32.363991
+                  ]
+            },
+            {
+                  "name": "Albalabila",
+                  "text": "Albalabila is a historic, fortress-like structure in the Misrata region.",
+                  "category": "castle",
+                  "coords": [
+                        15.0639,
+                        32.356475
+                  ]
+            },
+            {
+                  "name": "Faculty of IT",
+                  "text": "The Faculty of Information Technology serves as an educational landmark in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.067912,
+                        32.352304
+                  ]
+            },
+            {
+                  "name": "Martyrs monument",
+                  "text": "This monument and museum in Misrata commemorates local martyrs with historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "LY-MI",
     coords: [15.09, 32.37],
@@ -269,7 +863,124 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "gharyan-nursery-life-v2",
+    id: "gharyan-nursery-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "kliba",
+                  "text": "Kliba ist ein lokaler Anziehungspunkt, der eng mit dem landwirtschaftlichen und natürlichen Erbe rund um Gharyan verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.00219,
+                        32.023736
+                  ]
+            },
+            {
+                  "name": "Casa Adolfo Graziani",
+                  "text": "Die Casa Adolfo Graziani in Gharyan ist eine festungsartige Anlage aus der Zeit der italienischen Kolonialisierung.",
+                  "category": "castle",
+                  "coords": [
+                        13.040944,
+                        32.087795
+                  ]
+            },
+            {
+                  "name": "Guesthouse of Moonlight",
+                  "text": "Das Guesthouse of Moonlight ist eine einladende Unterkunft und Sehenswürdigkeit im landschaftlich geprägten Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.958209,
+                        32.137769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "kliba",
+                  "text": "A kliba nevű látványosság Gharyan mezőgazdasági és természeti környezetéhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.00219,
+                        32.023736
+                  ]
+            },
+            {
+                  "name": "Casa Adolfo Graziani",
+                  "text": "A gharyani Casa Adolfo Graziani egy kastélyszerű épület az olasz gyarmati korszakból.",
+                  "category": "castle",
+                  "coords": [
+                        13.040944,
+                        32.087795
+                  ]
+            },
+            {
+                  "name": "Guesthouse of Moonlight",
+                  "text": "A Guesthouse of Moonlight egy barátságos szálláshely és látványosság a természeti környezetben lévő Gharyanban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.958209,
+                        32.137769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "kliba",
+                  "text": "Kliba este o atracție locală ce reflectă peisajul agricol și mediul natural din zona Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.00219,
+                        32.023736
+                  ]
+            },
+            {
+                  "name": "Casa Adolfo Graziani",
+                  "text": "Casa Adolfo Graziani din Gharyan este o structură tip castel rămasă din perioada colonială italiană.",
+                  "category": "castle",
+                  "coords": [
+                        13.040944,
+                        32.087795
+                  ]
+            },
+            {
+                  "name": "Guesthouse of Moonlight",
+                  "text": "Guesthouse of Moonlight este o atracție ospitalieră ce servește vizitatorilor din regiunea naturală Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.958209,
+                        32.137769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "kliba",
+                  "text": "Kliba is a local attraction tied to the natural and agricultural environment of Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.00219,
+                        32.023736
+                  ]
+            },
+            {
+                  "name": "Casa Adolfo Graziani",
+                  "text": "Casa Adolfo Graziani in Gharyan is a castle-like structure dating from the Italian colonial period.",
+                  "category": "castle",
+                  "coords": [
+                        13.040944,
+                        32.087795
+                  ]
+            },
+            {
+                  "name": "Guesthouse of Moonlight",
+                  "text": "The Guesthouse of Moonlight is a hospitable attraction serving visitors to the scenic Gharyan region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.958209,
+                        32.137769
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-GH",
     coords: [13.0, 32.1],
@@ -307,7 +1018,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "sebha-park-life-v2",
+    id: "sebha-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kosa resort",
+                  "text": "Der Aussichtspunkt des Kosa Resorts bietet einen weiten Panoramablick über die umliegende Parklandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.340164,
+                        27.040299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kosa resort",
+                  "text": "A Kosa üdülőhely kilátója széles panorámát nyújt a környező parkosított vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        14.340164,
+                        27.040299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kosa resort",
+                  "text": "Punctul de belvedere al complexului Kosa oferă o vedere panoramică vastă asupra peisajului de parc înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        14.340164,
+                        27.040299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kosa resort",
+                  "text": "The Kosa resort viewpoint provides elevated panoramic vistas over the surrounding parkland.",
+                  "category": "natural",
+                  "coords": [
+                        14.340164,
+                        27.040299
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "LY-SB",
     coords: [14.4, 27.0],
@@ -345,7 +1101,88 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "tubruq-garden-life-v2",
+    id: "tubruq-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fig Tree, Australian Hospital in World War II",
+                  "text": "Dieser historische Feigenbaum in Tobruk markiert den Standort eines australischen Feldlazaretts, das während der Belagerung im Zweiten Weltkrieg betrieben wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        23.833255,
+                        32.066839
+                  ]
+            },
+            {
+                  "name": "Goschen`s house",
+                  "text": "Dieses befestigte Bauwerk in Tobruk, bekannt als Goschens Haus, spielte eine Rolle in den Verteidigungslinien während des Zweiten Weltkriegs.",
+                  "category": "fortress",
+                  "coords": [
+                        23.910166,
+                        31.969815
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fig Tree, Australian Hospital in World War II",
+                  "text": "Ez a történelmi fügefa Tobrukban egy ausztrál tábori kórház helyét jelöli, amely a második világháborús ostrom alatt működött.",
+                  "category": "landmark",
+                  "coords": [
+                        23.833255,
+                        32.066839
+                  ]
+            },
+            {
+                  "name": "Goschen`s house",
+                  "text": "Ez a Goschen házaként ismert erődített építmény Tobrukban szerepet játszott a védelmi vonalakban a második világháború alatt.",
+                  "category": "fortress",
+                  "coords": [
+                        23.910166,
+                        31.969815
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fig Tree, Australian Hospital in World War II",
+                  "text": "Acest smochin istoric din Tobruk marchează locul unui spital de campanie australian care a funcționat în timpul asediului din al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        23.833255,
+                        32.066839
+                  ]
+            },
+            {
+                  "name": "Goschen`s house",
+                  "text": "Această structură fortificată din Tobruk, cunoscută sub numele de casa lui Goschen, a jucat un rol în liniile defensive în timpul celui de-al Doilea Război Mondial.",
+                  "category": "fortress",
+                  "coords": [
+                        23.910166,
+                        31.969815
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fig Tree, Australian Hospital in World War II",
+                  "text": "This historic fig tree in Tobruk marks the site of an Australian field hospital that operated during the World War II siege.",
+                  "category": "landmark",
+                  "coords": [
+                        23.833255,
+                        32.066839
+                  ]
+            },
+            {
+                  "name": "Goschen`s house",
+                  "text": "This fortified structure in Tobruk, known as Goschen's house, played a role in the defensive lines during World War II.",
+                  "category": "fortress",
+                  "coords": [
+                        23.910166,
+                        31.969815
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "LY-TB",
     coords: [23.9, 32.0],
@@ -459,7 +1296,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "slonta-nursery-life-v2",
+    id: "slonta-nursery-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Lybia(Theodorias)",
+                  "text": "Die Ruinen dieser byzantinischen Stadt, ursprünglich Theodorias genannt, sind berühmt für ihre gut erhaltenen frühchristlichen Bodenmosaike.",
+                  "category": "historical",
+                  "coords": [
+                        21.396881,
+                        32.631336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr Lybia(Theodorias)",
+                  "text": "Ennek az eredetileg Theodorias néven ismert bizánci kori városnak a romjai a jól megőrzött ókeresztény padlómozaikjaikról híresek.",
+                  "category": "historical",
+                  "coords": [
+                        21.396881,
+                        32.631336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr Lybia(Theodorias)",
+                  "text": "Ruinele acestui oraș din epoca bizantină, numit inițial Theodorias, sunt faimoase pentru mozaicurile timpurii creștine de pe podea bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        21.396881,
+                        32.631336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Lybia(Theodorias)",
+                  "text": "The ruins of this Byzantine-era city, originally called Theodorias, are famous for their well-preserved early Christian floor mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        21.396881,
+                        32.631336
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-BA",
     coords: [21.3, 32.6],
@@ -535,7 +1417,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "awjila-orchard-life-v2",
+    id: "awjila-orchard-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amber castle",
+                  "text": "Eine traditionelle Wüstenfestung inmitten der üppigen Dattelpalmenplantagen der Awdschila-Oase.",
+                  "category": "castle",
+                  "coords": [
+                        21.333099,
+                        29.108102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amber castle",
+                  "text": "Hagyományos sivatagi erődítmény az Awjila-oázis buja datolyapálma-ültetvényei között.",
+                  "category": "castle",
+                  "coords": [
+                        21.333099,
+                        29.108102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amber castle",
+                  "text": "O fortăreață tradițională din deșert, situată în mijlocul livezilor luxuriante de curmali ale oazei Awjila.",
+                  "category": "castle",
+                  "coords": [
+                        21.333099,
+                        29.108102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amber castle",
+                  "text": "A traditional desert fortress situated amidst the lush date palm orchards of the Awjila oasis.",
+                  "category": "castle",
+                  "coords": [
+                        21.333099,
+                        29.108102
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-JA",
     coords: [21.3, 29.1],
@@ -725,7 +1652,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "ghat-oasis-life-v2",
+    id: "ghat-oasis-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gat Castle",
+                  "text": "Die Burg Gat ist eine alte historische Festung auf einem Hügel, die die traditionelle Sahara-Oasenstadt überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        10.17707,
+                        24.964896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gat Castle",
+                  "text": "A Gat kastély egy ősi hegytetőn álló erődítmény, amely a hagyományos szaharai oázisvárosra néz.",
+                  "category": "castle",
+                  "coords": [
+                        10.17707,
+                        24.964896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gat Castle",
+                  "text": "Castelul Gat este o cetate antică situată pe un deal, cu vedere spre orașul tradițional de oază din Sahara.",
+                  "category": "castle",
+                  "coords": [
+                        10.17707,
+                        24.964896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gat Castle",
+                  "text": "Gat Castle is an ancient hilltop fortress that overlooks the traditional Saharan oasis town.",
+                  "category": "castle",
+                  "coords": [
+                        10.17707,
+                        24.964896
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-GT",
     coords: [10.2, 24.9],
@@ -763,7 +1735,124 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "zwara-green-belt-life-v2",
+    id: "zwara-green-belt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theatre Zuara",
+                  "text": "Das Theatre Zuara ist ein lokaler Kulturort für darstellende Künste in der libyschen Küstenstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "Zauara Beach",
+                  "text": "Der Zauara Beach ist ein weitläufiger Sandstrand an der Mittelmeerküste nahe Zuara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.054497,
+                        32.954519
+                  ]
+            },
+            {
+                  "name": "Zuara Beach",
+                  "text": "Dieser Strandabschnitt in Zuara lockt Besucher mit seinem feinen Sand an die libysche Mittelmeerküste.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072606,
+                        32.945046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theatre Zuara",
+                  "text": "A Theatre Zuara a líbiai tengerparti város egyik fontos kulturális intézménye az előadó-művészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "Zauara Beach",
+                  "text": "A Zauara Beach egy tágas homokos strand Zuara közelében, a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        12.054497,
+                        32.954519
+                  ]
+            },
+            {
+                  "name": "Zuara Beach",
+                  "text": "Ez a zuarai partszakasz finom homokkal vonzza a tengerpart szerelmeseit a líbiai Földközi-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072606,
+                        32.945046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theatre Zuara",
+                  "text": "Theatre Zuara este un spațiu cultural dedicat artelor spectacolului din orașul de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "Zauara Beach",
+                  "text": "Zauara Beach este o plajă largă cu nisip situată pe coasta mediteraneană de lângă Zuara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.054497,
+                        32.954519
+                  ]
+            },
+            {
+                  "name": "Zuara Beach",
+                  "text": "Această plajă din Zuara atrage vizitatorii cu nisipul său fin de pe coasta libiană a Mării Mediterane.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072606,
+                        32.945046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre Zuara",
+                  "text": "Theatre Zuara serves as a local venue for performing arts and cultural events in the coastal city.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "Zauara Beach",
+                  "text": "Zauara Beach is a sweeping sandy beach located on the Mediterranean coast near Zuara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.054497,
+                        32.954519
+                  ]
+            },
+            {
+                  "name": "Zuara Beach",
+                  "text": "This sandy beach in Zuara offers visitors a relaxing spot on the Libyan Mediterranean coast.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072606,
+                        32.945046
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-NQ",
     coords: [12.1, 32.9],
@@ -801,7 +1890,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "darj-oasis-life-v2",
+    id: "darj-oasis-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dirj old city",
+                  "text": "Die Altstadt von Dirj ist eine traditionelle Sehenswürdigkeit, die die alte Oasenarchitektur in Darj zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.455077,
+                        30.165124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dirj old city",
+                  "text": "A Dirj óvárosa egy hagyományos látványosság, amely Darj ősi oázisépítészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        10.455077,
+                        30.165124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dirj old city",
+                  "text": "Orașul vechi Dirj este o atracție tradițională care prezintă arhitectura antică a oazei din Darj.",
+                  "category": "landmark",
+                  "coords": [
+                        10.455077,
+                        30.165124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dirj old city",
+                  "text": "The Dirj old city is a traditional attraction showcasing ancient oasis architecture in Darj.",
+                  "category": "landmark",
+                  "coords": [
+                        10.455077,
+                        30.165124
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-NL",
     coords: [10.5, 30.1],
@@ -839,7 +1973,196 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "nalut-terrace-life-v2",
+    id: "nalut-terrace-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Castle Nalut",
+                  "text": "Das Schloss Nalut ist eine Sehenswürdigkeit mit einem alten befestigten Berber-Kornspeicher auf einem terrassierten Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986645,
+                        31.867206
+                  ]
+            },
+            {
+                  "name": "sara3 al rahba-nalut",
+                  "text": "Sara3 al rahba-nalut ist eine traditionelle Sehenswürdigkeit, die in die markante Terrassenlandschaft von Nalut integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            },
+            {
+                  "name": "Nalut museum",
+                  "text": "Das Nalut-Museum zeigt das kulturelle Erbe und die Artefakte der Berbergemeinschaften, die auf den Bergterrassen leben.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864875
+                  ]
+            },
+            {
+                  "name": "dinosaurs museum",
+                  "text": "Das Dinosauriermuseum zeigt alte Fossilienfunde, die in den geologischen Formationen der Region Nalut gemacht wurden.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "Khalifa ben Asker",
+                  "text": "Das Theater Khalifa ben Asker in Nalut dient als lokaler Veranstaltungsort für kulturelle Aufführungen in der trockenen Region.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Castle Nalut",
+                  "text": "A Nalut kastély egy látványosság, amely egy ősi, erődített berber magtárat foglal magába a teraszos domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986645,
+                        31.867206
+                  ]
+            },
+            {
+                  "name": "sara3 al rahba-nalut",
+                  "text": "A Sara3 al rahba-nalut egy hagyományos látványosság, amely Nalut jellegzetes teraszos tájába illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            },
+            {
+                  "name": "Nalut museum",
+                  "text": "A naluti múzeum a hegyi teraszokon élő berber közösségek kulturális örökségét és műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864875
+                  ]
+            },
+            {
+                  "name": "dinosaurs museum",
+                  "text": "A dinoszaurusz múzeum a Nalut régió geológiai képződményeiben talált ősi fosszilis leleteket állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "Khalifa ben Asker",
+                  "text": "A naluti Khalifa ben Asker színház kulturális események helyi központjaként szolgál a száraz régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Castle Nalut",
+                  "text": "Castelul Nalut este o atracție care prezintă un vechi grânar berber fortificat, cocoțat pe un deal terasat.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986645,
+                        31.867206
+                  ]
+            },
+            {
+                  "name": "sara3 al rahba-nalut",
+                  "text": "Sara3 al rahba-nalut este o atracție tradițională integrată în peisajul terasat distinctiv al orașului Nalut.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            },
+            {
+                  "name": "Nalut museum",
+                  "text": "Muzeul Nalut expune moștenirea culturală și artefactele comunităților berbere care trăiesc pe terasele muntoase.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864875
+                  ]
+            },
+            {
+                  "name": "dinosaurs museum",
+                  "text": "Muzeul dinozaurilor expune descoperiri de fosile antice găsite în formațiunile geologice din regiunea Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "Khalifa ben Asker",
+                  "text": "Teatrul Khalifa ben Asker din Nalut servește ca locație locală pentru evenimente culturale în regiunea aridă.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Castle Nalut",
+                  "text": "The Castle Nalut is an attraction featuring an ancient fortified Berber granary perched on the terraced hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986645,
+                        31.867206
+                  ]
+            },
+            {
+                  "name": "sara3 al rahba-nalut",
+                  "text": "Sara3 al rahba-nalut is a traditional attraction integrated into the distinctive terraced landscape of Nalut.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            },
+            {
+                  "name": "Nalut museum",
+                  "text": "The Nalut museum displays the cultural heritage and artifacts of the Berber communities living on the mountain terraces.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864875
+                  ]
+            },
+            {
+                  "name": "dinosaurs museum",
+                  "text": "The dinosaurs museum exhibits ancient fossil discoveries found within the geological formations of the Nalut region.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "Khalifa ben Asker",
+                  "text": "The Khalifa ben Asker theatre in Nalut serves as a local venue for cultural performances in the arid region.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-NL",
     coords: [10.9, 31.9],
@@ -915,7 +2238,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "tarhuna-nursery-life-v2",
+    id: "tarhuna-nursery-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theme Park",
+                  "text": "Lokaler Freizeitpark mit Fahrgeschäften in der landwirtschaftlich geprägten Gegend von Tarhuna.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623977,
+                        32.466911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theme Park",
+                  "text": "Helyi vidámpark különféle játékokkal a mezőgazdasági jellegű Tarhuna vidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623977,
+                        32.466911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theme Park",
+                  "text": "Parc de distracții local cu atracții în zona agricolă Tarhuna.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623977,
+                        32.466911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theme Park",
+                  "text": "Local amusement park featuring rides in the agricultural surroundings of Tarhuna.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623977,
+                        32.466911
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-TR",
     coords: [13.6, 32.4],
@@ -953,7 +2321,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "msallata-olive-life-v2",
+    id: "msallata-olive-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Qalaa",
+                  "text": "Historische Festungsruinen auf einem Hügel inmitten der Olivenanbaugebiete von Msallata.",
+                  "category": "historical",
+                  "coords": [
+                        14.047628,
+                        32.578031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Qalaa",
+                  "text": "Történelmi hegyvidéki erődromok a msallatai olajfatermesztő régió szívében.",
+                  "category": "historical",
+                  "coords": [
+                        14.047628,
+                        32.578031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Qalaa",
+                  "text": "Ruinele unei fortărețe istorice pe un deal în inima regiunii de creștere a măslinilor Msallata.",
+                  "category": "historical",
+                  "coords": [
+                        14.047628,
+                        32.578031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Qalaa",
+                  "text": "Historic hilltop fortress ruins located in the heart of the Msallata olive-growing region.",
+                  "category": "historical",
+                  "coords": [
+                        14.047628,
+                        32.578031
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-MI",
     coords: [14.0, 32.5],
@@ -1067,7 +2480,52 @@ export const poiExtraLibyaLifeV2: POI[] = [
     
   },
   {
-    id: "al-azizia-agri-life-v2",
+    id: "al-azizia-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Azizia Piazza",
+                  "text": "Öffentlicher Platz mit Denkmälern im Zentrum der landwirtschaftlichen Stadt Al-Azizia.",
+                  "category": "historical",
+                  "coords": [
+                        13.016706,
+                        32.529232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Azizia Piazza",
+                  "text": "Nyilvános tér műemlékekkel az agráriumból élő Al-Azizia város központjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.016706,
+                        32.529232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Azizia Piazza",
+                  "text": "Piață publică cu monumente în centrul orașului agricol Al-Azizia.",
+                  "category": "historical",
+                  "coords": [
+                        13.016706,
+                        32.529232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Azizia Piazza",
+                  "text": "Public monumental square in the center of the agricultural town of Al-Azizia.",
+                  "category": "historical",
+                  "coords": [
+                        13.016706,
+                        32.529232
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LY-ZA",
     coords: [13.0, 32.5],

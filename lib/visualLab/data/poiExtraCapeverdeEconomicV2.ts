@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraCapeverdeEconomicV2: POI[] = [
   {
-    id: "porto-grande-mindelo-economic-v2",
+    id: "porto-grande-mindelo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "Das historische Fortim D'El-Rei wurde 1852 erbaut, um den Hafen von Mindelo zu schützen und diente zeitweise als Gefängnis.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "Dieser Wartebereich am Hafen von Mindelo sammelt die Passagiere für die Fähren nach Santo Antão.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "Dieses Denkmal ehrt den renommierten kapverdischen Komponisten und Musiker Manuel d'Novas in der Nähe des Hafens von Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "A történelmi Fortim D'El-Rei 1852-ben épült a mindeloi kikötő védelmére, és egy ideig börtönként is szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "Ez a mindeloi kikötőben található váróterület gyűjti össze a Santo Antãoba induló kompok utasait.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "Ez az emlékmű a neves zöld-foki-szigeteki zeneszerzőnek és zenésznek, Manuel d'Novasnak állít emléket a mindeloi kikötő közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "Istoricul Fortim D'El-Rei a fost construit în 1852 pentru a proteja portul Mindelo și a servit o perioadă ca închisoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "Această zonă de așteptare din portul Mindelo adună pasagerii pentru feriboturile care se îndreaptă spre Santo Antão.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "Acest monument îl onorează pe renumitul compozitor și muzician din Capul Verde, Manuel d'Novas, în apropierea portului din Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "The historic Fortim D'El-Rei was built in 1852 to defend the port of Mindelo and once served as a prison.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "This waiting area at the port of Mindelo gathers passengers for the ferries heading to Santo Antão.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "This monument honors the renowned Cape Verdean composer and musician Manuel d'Novas near the port of Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-SV",
     coords: [-24.993, 16.891],
@@ -48,7 +165,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     }
   },
   {
-    id: "porto-da-praia-economic-v2",
+    id: "porto-da-praia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portinho",
+                  "text": "Dieser Sandstrand liegt an der aktiven Küste in der Nähe des Hafens von Praia.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.484809,
+                        14.911278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portinho",
+                  "text": "Ez a homokos strand Praia kikötőjének közelében, az aktív partvonal mentén található.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.484809,
+                        14.911278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portinho",
+                  "text": "Această plajă de nisip este situată de-a lungul coastei active, lângă portul Praia.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.484809,
+                        14.911278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portinho",
+                  "text": "This sandy beach is located along the active coastline near the port of Praia.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.484809,
+                        14.911278
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-PR",
     coords: [-23.503, 14.912],
@@ -93,7 +255,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     }
   },
   {
-    id: "porto-de-palmeira-economic-v2",
+    id: "porto-de-palmeira-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Fontona",
+                  "text": "Die Praia da Fontona bei Palmeira ist ein ruhiger Sandstrand, an dem sich die rauen Wellen des Atlantiks brechen.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.978522,
+                        16.739647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Fontona",
+                  "text": "A Palmeira melletti Praia da Fontona egy csendes homokos tengerpart, ahol az Atlanti-óceán zord hullámai megtörnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.978522,
+                        16.739647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Fontona",
+                  "text": "Praia da Fontona de lângă Palmeira este o plajă liniștită de nisip, unde valurile aspre ale Oceanului Atlantic se sparg la țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.978522,
+                        16.739647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Fontona",
+                  "text": "Praia da Fontona near Palmeira is a tranquil sandy beach where the rough waves of the Atlantic Ocean gently crash ashore.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.978522,
+                        16.739647
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-SL",
     coords: [-22.981, 16.765],
@@ -138,7 +345,196 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     }
   },
   {
-    id: "porto-novo-harbour-economic-v2",
+    id: "porto-novo-harbour-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "Der Sandstrand Praia De Tropo erstreckt sich entlang der Hafenregion von Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "Das Theater Aldeia in Porto Novo dient als kultureller Veranstaltungsort für die Hafenstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Dive Blue Eden",
+                  "text": "Dive Blue Eden ist ein Tauchzentrum, das Ausflüge in die marinen Lebensräume rund um Porto Novo organisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.074515,
+                        17.017497
+                  ]
+            },
+            {
+                  "name": "Canhão",
+                  "text": "Dieser schroffe Canyon formt die raue Landschaft in der Nähe des Hafens von Porto Novo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.151821,
+                        16.992242
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "Die Praia dos Curraletes in Porto Novo ist ein Küstenabschnitt, der oft von einheimischen Fischern genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039466,
+                        17.027178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "A Praia De Tropo homokos tengerpartja a Porto Novo kikötőváros szélén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "A Porto Novo-i Aldeia színház kulturális rendezvényhelyszínként szolgál a kikötőváros számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Dive Blue Eden",
+                  "text": "A Dive Blue Eden egy búvárközpont, amely kirándulásokat szervez Porto Novo körüli tengeri élőhelyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.074515,
+                        17.017497
+                  ]
+            },
+            {
+                  "name": "Canhão",
+                  "text": "Ez a zord kanyon alakítja ki a Porto Novo kikötőjéhez közeli durva tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.151821,
+                        16.992242
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "A Porto Novo-i Praia dos Curraletes egy partszakasz, amelyet gyakran használnak a helyi halászok.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039466,
+                        17.027178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "Plaja de nisip Praia De Tropo se întinde de-a lungul regiunii portuare din Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "Teatrul Aldeia din Porto Novo servește ca loc de desfășurare a evenimentelor culturale pentru orașul-port.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Dive Blue Eden",
+                  "text": "Dive Blue Eden este un centru de scufundări care organizează excursii în habitatele marine din jurul Porto Novo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.074515,
+                        17.017497
+                  ]
+            },
+            {
+                  "name": "Canhão",
+                  "text": "Acest canion abrupt modelează peisajul accidentat din apropierea portului Porto Novo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.151821,
+                        16.992242
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "Praia dos Curraletes din Porto Novo este o porțiune de coastă frecventată de pescarii locali.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039466,
+                        17.027178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "The sandy beach of Praia De Tropo stretches along the harbor region of Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "The Aldeia theatre in Porto Novo serves as a cultural venue for the harbor town.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Dive Blue Eden",
+                  "text": "Dive Blue Eden is a diving center organizing excursions into the marine habitats around Porto Novo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.074515,
+                        17.017497
+                  ]
+            },
+            {
+                  "name": "Canyon",
+                  "text": "This rugged canyon shapes the harsh landscape near the harbor of Porto Novo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.151821,
+                        16.992242
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "Praia dos Curraletes in Porto Novo is a stretch of coastline often used by local fishermen.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039466,
+                        17.027178
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-PN",
     coords: [-25.064, 17.017],
@@ -183,7 +579,88 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     }
   },
   {
-    id: "porto-vale-cavaleiros-economic-v2",
+    id: "porto-vale-cavaleiros-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Achada Malva",
+                  "text": "Eine lokale Sehenswürdigkeit, die sich im wirtschaftlichen Zentrum in der Nähe des Hafens von Vale de Cavaleiros befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.493733,
+                        14.949126
+                  ]
+            },
+            {
+                  "name": "Baobab géant",
+                  "text": "Ein außergewöhnlich großer und alter Affenbrotbaum, der als natürliches Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.45862,
+                        14.945485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Achada Malva",
+                  "text": "A Porto de Vale de Cavaleiros közelében lévő gazdasági központban található helyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.493733,
+                        14.949126
+                  ]
+            },
+            {
+                  "name": "Baobab géant",
+                  "text": "Egy kivételesen nagy és ősi majomkenyérfa, amely természetes tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.45862,
+                        14.945485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Achada Malva",
+                  "text": "O atracție locală situată în centrul economic din apropierea Porto de Vale de Cavaleiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.493733,
+                        14.949126
+                  ]
+            },
+            {
+                  "name": "Baobab géant",
+                  "text": "Un arbore baobab excepțional de mare și vechi, care servește ca un punct de reper natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.45862,
+                        14.945485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Achada Malva",
+                  "text": "A localized attraction situated within the economic hub near Porto de Vale de Cavaleiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.493733,
+                        14.949126
+                  ]
+            },
+            {
+                  "name": "Baobab géant",
+                  "text": "An exceptionally large and ancient baobab tree serving as a natural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.45862,
+                        14.945485
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-SF",
     coords: [-24.512, 14.915],
@@ -228,7 +705,88 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     }
   },
   {
-    id: "porto-sal-rei-economic-v2",
+    id: "porto-sal-rei-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "Dieser sandige Küstenstrand erstreckt sich in der Nähe des Hafens von Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.918705,
+                        16.183036
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "Diese katholische Kultstätte blickt auf die Küste in der Nähe von Sal Rei.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "Ez a homokos tengerpart Sal Rei kikötőjének közelében húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.918705,
+                        16.183036
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "Ez a katolikus istentiszteleti hely a tengerpartra néz Sal Rei közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "Această plajă de coastă cu nisip se întinde în apropierea portului Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.918705,
+                        16.183036
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "Acest lăcaș de cult catolic are vedere la coastă, în apropiere de Sal Rei.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "This sandy coastal beach stretches near the port of Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.918705,
+                        16.183036
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "This Catholic place of worship overlooks the coastline near Sal Rei.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-BV",
     coords: [-22.915, 16.182],
@@ -276,7 +834,196 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "porto-tarrafal-sn-economic-v2",
+    id: "porto-tarrafal-sn-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia D'Francês",
+                  "text": "Die Praia D'Francês ist ein ruhiger, von dunklem Vulkansand geprägter Küstenabschnitt in der Nähe von Tarrafal de São Nicolau, der eine unberührte Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.40229,
+                        16.593015
+                  ]
+            },
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "Das Museu dos Pescatores in Tarrafal dokumentiert die maritime Kultur der Insel und stellt alte Holzboote, handgeknüpfte Netze und das harte Leben der Fischer aus.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Baixo Rocha",
+                  "text": "Der Strand Baixo Rocha ist für seinen feinen, goldenen Sand bekannt, der einen faszinierenden Kontrast zu den schwarzen vulkanischen Felsen an der Küste von São Nicolau bildet.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.33563,
+                        16.524307
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "Die Praia D'Tedja ist ein abgelegener Strand, an dem das dunkle Vulkangestein sanft in die klaren Gewässer des Atlantiks in der Region Tarrafal übergeht.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.35821,
+                        16.564294
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Die weitläufige Praia Grande an der Küste von São Nicolau beeindruckt mit ihren breiten Sandflächen und den tosenden Wellen, die den rauen Charme der Insel unterstreichen.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.418994,
+                        16.610175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia D'Francês",
+                  "text": "A Praia D'Francês egy sötét vulkáni homokkal borított, csendes partszakasz Tarrafal de São Nicolau közelében, amely érintetlen hangulatot áraszt.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.40229,
+                        16.593015
+                  ]
+            },
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "A tarrafali Museu dos Pescatores a sziget tengeri kultúráját mutatja be régi fahajók, kézzel kötött hálók és a halászok mindennapjainak kiállításával.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Baixo Rocha",
+                  "text": "A Baixo Rocha strand híres finom, aranyszínű homokjáról, amely lenyűgöző kontrasztot alkot a São Nicolau-i partokat szegélyező fekete vulkáni sziklákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.33563,
+                        16.524307
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "A Praia D'Tedja egy csendes strand a Tarrafal régióban, ahol a sötét vulkáni kőzet szelíden olvad bele az Atlanti-óceán tiszta vizébe.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.35821,
+                        16.564294
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A São Nicolau partján elterülő tágas Praia Grande széles homokos fövenyével és zúgó hullámaival a sziget vad, természetes varázsát sugározza.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.418994,
+                        16.610175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia D'Francês",
+                  "text": "Praia D'Francês este o fâșie de coastă liniștită, acoperită cu nisip vulcanic închis la culoare, situată lângă Tarrafal de São Nicolau.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.40229,
+                        16.593015
+                  ]
+            },
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "Museu dos Pescatores din Tarrafal onorează moștenirea maritimă a insulei, expunând bărci tradiționale din lemn, plase de pescuit și relatări ale vieții pescarilor.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Baixo Rocha",
+                  "text": "Plaja Baixo Rocha este cunoscută pentru nisipul său fin auriu, care contrastează frumos cu rocile vulcanice negre și abrupte de pe coasta São Nicolau.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.33563,
+                        16.524307
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "Praia D'Tedja este o plajă retrasă din regiunea Tarrafal, unde rocile vulcanice închise la culoare coboară ușor spre apele limpezi ale Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.35821,
+                        16.564294
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Extinsa Praia Grande de pe coasta insulei São Nicolau impresionează prin nisipurile sale largi și valurile puternice, subliniind farmecul brut al insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.418994,
+                        16.610175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia D'Francês",
+                  "text": "Praia D'Francês is a tranquil stretch of coastline defined by its dark volcanic sand, offering an untouched atmosphere near Tarrafal de São Nicolau.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.40229,
+                        16.593015
+                  ]
+            },
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "The Museu dos Pescatores in Tarrafal chronicles the island's maritime culture, displaying old wooden boats, hand-woven nets, and the arduous life of local fishermen.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Baixo Rocha",
+                  "text": "Baixo Rocha beach is celebrated for its fine golden sands, providing a striking contrast against the stark black volcanic rocks that line the São Nicolau coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.33563,
+                        16.524307
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "Praia D'Tedja is a secluded beach in the Tarrafal region, where dark volcanic rocks slope gently into the clear waters of the Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.35821,
+                        16.564294
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "The expansive Praia Grande on the coast of São Nicolau impresses with its broad sandy shores and crashing waves that highlight the island's raw natural charm.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.418994,
+                        16.610175
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-TS",
     coords: [-24.368, 16.568],
@@ -324,7 +1071,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "porto-da-furna-economic-v2",
+    id: "porto-da-furna-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol Ponta Jalunga Lighthouse",
+                  "text": "Die Ruinen eines historischen Leuchtturms, die sich in der Nähe des Hafengebiets von Furna befinden.",
+                  "category": "historical",
+                  "coords": [
+                        -24.673737,
+                        14.890593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol Ponta Jalunga Lighthouse",
+                  "text": "Egy történelmi világítótorony romjai a furnai kikötő területének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -24.673737,
+                        14.890593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol Ponta Jalunga Lighthouse",
+                  "text": "Ruinele unui far istoric situat în apropierea zonei portuare din Furna.",
+                  "category": "historical",
+                  "coords": [
+                        -24.673737,
+                        14.890593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol Ponta Jalunga Lighthouse",
+                  "text": "The ruins of a historic lighthouse situated near the port area of Furna.",
+                  "category": "historical",
+                  "coords": [
+                        -24.673737,
+                        14.890593
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CV-BR",
     coords: [-24.685, 14.892],
@@ -516,7 +1308,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "windfarm-gouveia-economic-v2",
+    id: "windfarm-gouveia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capela Funeraria de Fray Francisco de Santo Agostinho",
+                  "text": "Eine historische Grabkapelle aus Stein, die zum Gedenken an eine bedeutende religiöse Persönlichkeit der Region erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.563247,
+                        14.957907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela Funeraria de Fray Francisco de Santo Agostinho",
+                  "text": "Történelmi kőből épült temetkezési kápolna, amelyet a régió egy jelentős vallási személyiségének emlékére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.563247,
+                        14.957907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela Funeraria de Fray Francisco de Santo Agostinho",
+                  "text": "O capelă funerară istorică din piatră, construită pentru a comemora o figură religioasă notabilă din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.563247,
+                        14.957907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capela Funeraria de Fray Francisco de Santo Agostinho",
+                  "text": "A historical stone funerary chapel built to memorialize a notable religious figure in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.563247,
+                        14.957907
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CV-SD",
     coords: [-23.575, 14.985],
@@ -564,7 +1401,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "windfarm-selada-flamengo-economic-v2",
+    id: "windfarm-selada-flamengo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tope de Caixa",
+                  "text": "Ein schroffer Gipfel in der Nähe des Küstenwindparks, der anspruchsvolle Pfade mit Blick auf das Inselinnere bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.996104,
+                        16.824665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tope de Caixa",
+                  "text": "A parti szélerőműpark közelében emelkedő zord csúcs, amely kihívást jelentő ösvényeket kínál a sziget belsejére nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -24.996104,
+                        16.824665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tope de Caixa",
+                  "text": "Un vârf accidentat care se înalță lângă parcul eolian de coastă, oferind trasee provocatoare cu vederi spre interiorul insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -24.996104,
+                        16.824665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tope de Caixa",
+                  "text": "A rugged peak rising near the coastal windfarm, offering challenging trails with views of the island's interior.",
+                  "category": "natural",
+                  "coords": [
+                        -24.996104,
+                        16.824665
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CV-SV",
     coords: [-24.955, 16.855],
@@ -612,7 +1494,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "frescomar-factory-economic-v2",
+    id: "frescomar-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porto Grande",
+                  "text": "Die weite Bucht von Porto Grande in Mindelo dient als einer der wichtigsten Tiefseehäfen von Kap Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porto Grande",
+                  "text": "A mindeloi Porto Grande széles öble a Zöld-foki-szigetek egyik legfontosabb mélyvízi kikötőjeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porto Grande",
+                  "text": "Golful larg Porto Grande din Mindelo servește drept unul dintre principalele porturi de mare adâncime din Capul Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porto Grande",
+                  "text": "The wide Porto Grande bay in Mindelo serves as one of Cape Verde's main deep-water harbours.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CV-SV",
     coords: [-25.005, 16.885],
@@ -708,7 +1635,88 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "achada-grande-industrial-economic-v2",
+    id: "achada-grande-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Descoberta de Cabo Verde",
+                  "text": "Diese historische Attraktion erinnert an die portugiesische Entdeckung des Kapverdischen Archipels.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.505714,
+                        14.922317
+                  ]
+            },
+            {
+                  "name": "Democracia e Liberdade",
+                  "text": "Dieses öffentliche Denkmal steht als Symbol zur Feier der demokratischen Werte und der Freiheit der Nation.",
+                  "category": "historical",
+                  "coords": [
+                        -23.49394,
+                        14.923267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Descoberta de Cabo Verde",
+                  "text": "Ez a történelmi látványosság a Zöld-foki-szigetek portugál felfedezésének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.505714,
+                        14.922317
+                  ]
+            },
+            {
+                  "name": "Democracia e Liberdade",
+                  "text": "Ez a köztéri emlékmű a nemzet demokratikus értékeit és szabadságát ünneplő szimbólumként áll.",
+                  "category": "historical",
+                  "coords": [
+                        -23.49394,
+                        14.923267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Descoberta de Cabo Verde",
+                  "text": "Această atracție istorică comemorează descoperirea portugheză a arhipelagului Capului Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.505714,
+                        14.922317
+                  ]
+            },
+            {
+                  "name": "Democracia e Liberdade",
+                  "text": "Acest monument public reprezintă un simbol care celebrează valorile democratice și libertatea națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -23.49394,
+                        14.923267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Descoberta de Cabo Verde",
+                  "text": "This historical attraction commemorates the Portuguese discovery of the Cape Verde archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.505714,
+                        14.922317
+                  ]
+            },
+            {
+                  "name": "Democracia e Liberdade",
+                  "text": "This public monument stands as a symbol celebrating the nation's democratic values and freedom.",
+                  "category": "historical",
+                  "coords": [
+                        -23.49394,
+                        14.923267
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CV-PR",
     coords: [-23.501, 14.925],
@@ -804,7 +1812,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "solar-plant-palmarejo-economic-v2",
+    id: "solar-plant-palmarejo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baobáb",
+                  "text": "Ein massiver, uralter afrikanischer Affenbrotbaum mit einem auffällig dicken Stamm, der als natürliches Wahrzeichen der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.559705,
+                        14.954922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baobáb",
+                  "text": "Hatalmas, ősi afrikai majomkenyérfa, jellegzetesen vastag törzzsel, amely a terület természetes tájékozódási pontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.559705,
+                        14.954922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baobáb",
+                  "text": "Un baobab african masiv și străvechi, cu un trunchi gros distinctiv, servind ca punct de reper natural în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.559705,
+                        14.954922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baobáb",
+                  "text": "A massive, ancient African baobab tree with a distinctive thick trunk, serving as a natural landmark in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.559705,
+                        14.954922
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CV-PR",
     coords: [-23.535, 14.945],
@@ -852,7 +1905,52 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "grogue-distillery-paul-economic-v2",
+    id: "grogue-distillery-paul-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santo António",
+                  "text": "Das Denkmal Santo António befindet sich in der Gegend der Grogue-Destillerien von Paul.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santo António",
+                  "text": "A Santo António emlékmű a paul-i grog lepárlók területén található.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santo António",
+                  "text": "Monumentul Santo António este situat în zona distileriilor de grogue din Paul.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santo António",
+                  "text": "The Santo António monument is situated in the grogue distillery area of Paul.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CV-PA",
     coords: [-25.015, 17.155],
@@ -900,7 +1998,88 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
   },
   {
-    id: "fuel-terminal-mindelo-economic-v2",
+    id: "fuel-terminal-mindelo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Former Artillery",
+                  "text": "Historische Militärruinen in der Nähe des Treibstoffterminals spiegeln die strategische maritime Vergangenheit der Insel wider.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Praia Joao Evora",
+                  "text": "Ein ruhiger Küstenabschnitt mit Sandstränden und klarem Atlantikwasser, nur unweit vom Stadtzentrum entfernt.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.965487,
+                        16.91428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Former Artillery",
+                  "text": "Az üzemanyag-terminál közelében található történelmi katonai romok, amelyek a sziget stratégiai tengeri múltját tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Praia Joao Evora",
+                  "text": "Csendes tengerparti szakasz, amely homokos partokat és tiszta atlanti vizet kínál, rövid távolságra a városközponttól.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.965487,
+                        16.91428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Former Artillery",
+                  "text": "Ruine militare istorice situate în apropierea terminalului de combustibil, reflectând trecutul maritim strategic al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Praia Joao Evora",
+                  "text": "O porțiune de coastă senină, oferind țărmuri de nisip și ape limpezi ale Atlanticului, la o scurtă distanță de centrul urban.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.965487,
+                        16.91428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Former Artillery",
+                  "text": "Historical military ruins situated near the fuel terminal, reflecting the island's strategic maritime past.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Praia Joao Evora",
+                  "text": "A serene coastal stretch offering sandy shores and clear Atlantic waters just a short distance from the urban center.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.965487,
+                        16.91428
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CV-SV",
     coords: [-24.991, 16.905],

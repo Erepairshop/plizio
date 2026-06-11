@@ -51,7 +51,124 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "rejaf-fort-history-v2",
+    id: "rejaf-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Back side gate",
+                  "text": "Das Back Side Gate ist ein historischer Zugangspunkt, der auf das Gelände des ehemaligen kolonialen Rejaf Fort am Nil führt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.614913,
+                        4.701981
+                  ]
+            },
+            {
+                  "name": "Rajaf training centre.",
+                  "text": "Eine Bildungseinrichtung in der Nähe des historischen Gebiets des Rejaf-Forts.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595027,
+                        4.726425
+                  ]
+            },
+            {
+                  "name": "Hash Harriers House Beach",
+                  "text": "Ein Strandbereich am Flussufer, der mit dem örtlichen Laufclub der Hash House Harriers verbunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        31.602086,
+                        4.736516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Back side gate",
+                  "text": "A Back Side Gate egy történelmi belépési pont, amely az egykori gyarmati Rejaf-erőd területére vezet a Nílus mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.614913,
+                        4.701981
+                  ]
+            },
+            {
+                  "name": "Rajaf training centre.",
+                  "text": "Egy oktatási és kiképzési létesítmény a történelmi Rejaf erőd területének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595027,
+                        4.726425
+                  ]
+            },
+            {
+                  "name": "Hash Harriers House Beach",
+                  "text": "A helyi Hash House Harriers futóklubhoz köthető folyóparti strandterület.",
+                  "category": "recreational",
+                  "coords": [
+                        31.602086,
+                        4.736516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Back side gate",
+                  "text": "Back Side Gate este un punct de acces istoric care duce în incinta fostului fort colonial Rejaf de-a lungul Nilului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.614913,
+                        4.701981
+                  ]
+            },
+            {
+                  "name": "Rajaf training centre.",
+                  "text": "O unitate de formare educațională situată în apropierea zonei istorice a fortului Rejaf.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595027,
+                        4.726425
+                  ]
+            },
+            {
+                  "name": "Hash Harriers House Beach",
+                  "text": "O zonă de plajă pe malul râului asociată cu clubul local de alergare Hash House Harriers.",
+                  "category": "recreational",
+                  "coords": [
+                        31.602086,
+                        4.736516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Back side gate",
+                  "text": "The Back Side Gate is a historic access point leading into the grounds of the former colonial Rejaf Fort along the Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        31.614913,
+                        4.701981
+                  ]
+            },
+            {
+                  "name": "Rajaf training centre.",
+                  "text": "An educational training facility located near the historical Rejaf Fort area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.595027,
+                        4.726425
+                  ]
+            },
+            {
+                  "name": "Hash Harriers House Beach",
+                  "text": "A riverside beach area associated with the local Hash House Harriers running club.",
+                  "category": "recreational",
+                  "coords": [
+                        31.602086,
+                        4.736516
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SS-EC",
     coords: [31.543, 4.745],
@@ -147,7 +264,88 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "gondokoro-trading-post-history-v2",
+    id: "gondokoro-trading-post-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mobil -Bori",
+                  "text": "Ein Aussichtspunkt, der weite Ausblicke über die historische Landschaft des Handelspostens Gondokoro bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.634723,
+                        4.974666
+                  ]
+            },
+            {
+                  "name": "Nya ying",
+                  "text": "Ein landschaftlich reizvoller Aussichtspunkt im historischen Gebiet von Gondokoro.",
+                  "category": "natural",
+                  "coords": [
+                        31.602156,
+                        4.881886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mobil -Bori",
+                  "text": "Kilátó, amely széleskörű rálátást biztosít a történelmi Gondokoro kereskedelmi állomás vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        31.634723,
+                        4.974666
+                  ]
+            },
+            {
+                  "name": "Nya ying",
+                  "text": "Egy festői kilátóhely a történelmi Gondokoro térségében.",
+                  "category": "natural",
+                  "coords": [
+                        31.602156,
+                        4.881886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mobil -Bori",
+                  "text": "Un punct de belvedere care oferă priveliști vaste asupra peisajului istoric al postului de tranzacționare Gondokoro.",
+                  "category": "natural",
+                  "coords": [
+                        31.634723,
+                        4.974666
+                  ]
+            },
+            {
+                  "name": "Nya ying",
+                  "text": "Un punct de belvedere pitoresc situat în zona istorică Gondokoro.",
+                  "category": "natural",
+                  "coords": [
+                        31.602156,
+                        4.881886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mobil -Bori",
+                  "text": "A viewpoint offering expansive sights over the historic Gondokoro trading post landscape.",
+                  "category": "natural",
+                  "coords": [
+                        31.634723,
+                        4.974666
+                  ]
+            },
+            {
+                  "name": "Nya ying",
+                  "text": "A scenic lookout point situated in the historic Gondokoro area.",
+                  "category": "natural",
+                  "coords": [
+                        31.602156,
+                        4.881886
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SS-EC",
     coords: [31.62, 4.9],
@@ -243,7 +441,124 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-berkeley-history-v2",
+    id: "fort-berkeley-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point of interes",
+                  "text": "Dieser Ort von Interesse markiert einen historischen Punkt auf dem Gelände des aus der Kolonialzeit stammenden Fort Berkeley.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591542,
+                        4.801964
+                  ]
+            },
+            {
+                  "name": "Eye radio",
+                  "text": "Die Einrichtung von Eye Radio fungiert als wichtiges Sendezentrum, das der lokalen Bevölkerung Nachrichten und Programme liefert.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557429,
+                        4.811751
+                  ]
+            },
+            {
+                  "name": "Good Shepherd",
+                  "text": "Die Anlage Good Shepherd dient als Gemeindetreffpunkt in der historischen Gegend von Fort Berkeley.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609803,
+                        4.750058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point of interes",
+                  "text": "Ez az érdekes pont egy történelmi helyszínt jelöl a gyarmati korabeli Fort Berkeley területén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591542,
+                        4.801964
+                  ]
+            },
+            {
+                  "name": "Eye radio",
+                  "text": "Az Eye Radio létesítménye kiemelkedő műsorszóró központként működik, amely hírekkel és programokkal látja el a helyi lakosságot.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557429,
+                        4.811751
+                  ]
+            },
+            {
+                  "name": "Good Shepherd",
+                  "text": "A Jó Pásztor nevű helyszín közösségi tájékozódási pontként szolgál a történelmi Fort Berkeley területén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609803,
+                        4.750058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point of interes",
+                  "text": "Acest punct de interes evidențiază un loc istoric pe terenul fortului Berkeley din epoca colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591542,
+                        4.801964
+                  ]
+            },
+            {
+                  "name": "Eye radio",
+                  "text": "Instalația Eye Radio funcționează ca un centru de difuzare proeminent, oferind știri și programe populației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557429,
+                        4.811751
+                  ]
+            },
+            {
+                  "name": "Good Shepherd",
+                  "text": "Locul Bunului Păstor servește drept punct de reper comunitar situat în zona istorică Fort Berkeley.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609803,
+                        4.750058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point of interes",
+                  "text": "This point of interest highlights a historic spot within the grounds of the colonial-era Fort Berkeley.",
+                  "category": "landmark",
+                  "coords": [
+                        31.591542,
+                        4.801964
+                  ]
+            },
+            {
+                  "name": "Eye radio",
+                  "text": "Eye Radio's facility operates as a prominent broadcasting center, delivering news and programs to the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557429,
+                        4.811751
+                  ]
+            },
+            {
+                  "name": "Good Shepherd",
+                  "text": "The Good Shepherd site serves as a community landmark situated in the historic Fort Berkeley area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609803,
+                        4.750058
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SS-EC",
     coords: [31.57, 4.8],
@@ -435,7 +750,52 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "old-fangak-history-v2",
+    id: "old-fangak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "plane",
+                  "text": "Das Wrack eines abgestürzten Flugzeugs, das als Ruine in der Region Old Fangak liegt.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plane",
+                  "text": "Egy lezuhant repülőgép roncsa, amely romként fekszik az Old Fangak régióban.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plane",
+                  "text": "Epava unui avion prăbușit care se odihnește ca o ruină în regiunea Old Fangak.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plane",
+                  "text": "The wreckage of a crashed airplane resting as a ruin in the Old Fangak region.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SS-JO",
     coords: [30.88, 9.07],

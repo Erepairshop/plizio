@@ -3,7 +3,412 @@ import type { POI } from "./poi";
 
 export const poiExtraMadagascarHistoryV2: POI[] = [
   {
-    id: "ambohimanga-royal-hill-history-v2",
+    id: "ambohimanga-royal-hill-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espace IMAHO",
+                  "text": "Espace IMAHO ist eine Veranstaltungs- und Freizeitattraktion mit landschaftlich gestalteten Grünflächen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.567466,
+                        -18.796385
+                  ]
+            },
+            {
+                  "name": "Soa Farm d'Avaradrano",
+                  "text": "Die Soa Farm d'Avaradrano ist ein landwirtschaftlicher Betrieb, der auch Ausstellungen von Wasserlebewesen und ein Aquarium umfasst.",
+                  "category": "recreational",
+                  "coords": [
+                        47.5747,
+                        -18.812516
+                  ]
+            },
+            {
+                  "name": "Mania Space",
+                  "text": "Mania Space ist ein lokaler Freizeitpark, der Fahrgeschäfte und verschiedene Unterhaltungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        47.565593,
+                        -18.805432
+                  ]
+            },
+            {
+                  "name": "Tanàna Patrakala",
+                  "text": "Tanàna Patrakala ist eine kulturelle Attraktion, die die traditionelle Dorfarchitektur und Lebensweise Madagaskars zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.503913,
+                        -18.790127
+                  ]
+            },
+            {
+                  "name": "TIAMIARY Pisciculture",
+                  "text": "TIAMIARY Pisciculture ist eine Aquakulturanlage, die als Freiluftaquarium zur Beobachtung von Zuchtfischen dient.",
+                  "category": "recreational",
+                  "coords": [
+                        47.514895,
+                        -18.799628
+                  ]
+            },
+            {
+                  "name": "villa Tsifoy",
+                  "text": "Die Villa Tsifoy ist ein imposantes, schlossartiges Anwesen mit markanter Architektur in der Nähe des Königshügels.",
+                  "category": "castle",
+                  "coords": [
+                        47.473909,
+                        -18.777785
+                  ]
+            },
+            {
+                  "name": "Ambohimanga",
+                  "text": "Ambohimanga ist ein heiliger Königshügel und UNESCO-Weltkulturerbe, der als spirituelle und historische Hauptstadt des Merina-Königreichs diente.",
+                  "category": "natural",
+                  "coords": [
+                        47.550017,
+                        -18.750059
+                  ]
+            },
+            {
+                  "name": "Rova d'Ambohimanga",
+                  "text": "Der Rova d'Ambohimanga ist ein historischer Museumskomplex, der die ehemaligen königlichen Anlagen, Paläste und Gräber madagassischer Monarchen bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        47.562185,
+                        -18.760454
+                  ]
+            },
+            {
+                  "name": "Ambatomitsangana",
+                  "text": "„At the erected stone“ ist eine kulturelle Attraktion mit einem traditionellen megalithischen Monolithen, der für die lokale madagassische Geschichte von Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.56547,
+                        -18.759399
+                  ]
+            },
+            {
+                  "name": "Tana Beach",
+                  "text": "Tana Beach ist ein künstlich angelegter Strandbereich, der verschiedene Freizeitaktivitäten am Wasser bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.608624,
+                        -18.774514
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Dieser lokale Wasserpark verfügt über ein großes Außenschwimmbecken für Erholungsschwimmen und Freizeitspaß mit der Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        47.556813,
+                        -18.771343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace IMAHO",
+                  "text": "Az Espace IMAHO egy rendezvényeknek és kikapcsolódásnak helyt adó látványosság, amely parkosított zöldterületeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        47.567466,
+                        -18.796385
+                  ]
+            },
+            {
+                  "name": "Soa Farm d'Avaradrano",
+                  "text": "A Soa Farm d'Avaradrano egy mezőgazdasági telephely, amely akváriummal és vízi élővilágot bemutató részleggel is rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        47.5747,
+                        -18.812516
+                  ]
+            },
+            {
+                  "name": "Mania Space",
+                  "text": "A Mania Space egy helyi vidámpark, amely szórakoztató attrakciókkal és játékokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        47.565593,
+                        -18.805432
+                  ]
+            },
+            {
+                  "name": "Tanàna Patrakala",
+                  "text": "A Tanàna Patrakala egy kulturális látványosság, amely a hagyományos madagaszkári faluépítészetet és életmódot mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        47.503913,
+                        -18.790127
+                  ]
+            },
+            {
+                  "name": "TIAMIARY Pisciculture",
+                  "text": "A TIAMIARY Pisciculture egy halgazdaság, amely egyben szabadtéri akváriumként is működik a tenyésztett halak megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        47.514895,
+                        -18.799628
+                  ]
+            },
+            {
+                  "name": "villa Tsifoy",
+                  "text": "A Villa Tsifoy egy impozáns, kastélyszerű birtok, amely jellegzetes építészettel büszkélkedhet a királyi domb közelében.",
+                  "category": "castle",
+                  "coords": [
+                        47.473909,
+                        -18.777785
+                  ]
+            },
+            {
+                  "name": "Ambohimanga",
+                  "text": "Ambohimanga egy szent királyi domb és az UNESCO világörökség része, amely a Merina Királyság szellemi és történelmi fővárosaként szolgált.",
+                  "category": "natural",
+                  "coords": [
+                        47.550017,
+                        -18.750059
+                  ]
+            },
+            {
+                  "name": "Rova d'Ambohimanga",
+                  "text": "A Rova d'Ambohimanga egy történelmi múzeumkomplexum, amely a madagaszkári uralkodók egykori királyi épületeit, palotáit és sírjait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        47.562185,
+                        -18.760454
+                  ]
+            },
+            {
+                  "name": "Ambatomitsangana",
+                  "text": "Az „At the erected stone” egy kulturális látványosság, amely egy, a helyi madagaszkári történelem szempontjából jelentős hagyományos monolitot mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        47.56547,
+                        -18.759399
+                  ]
+            },
+            {
+                  "name": "Tana Beach",
+                  "text": "A Tana Beach egy mesterségesen kialakított tengerparti szabadidőközpont, amely vízparti kikapcsolódást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        47.608624,
+                        -18.774514
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Ez a helyi élményfürdő egy nagy szabadtéri medencével várja a kikapcsolódni vágyó családokat és úszókat.",
+                  "category": "recreational",
+                  "coords": [
+                        47.556813,
+                        -18.771343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace IMAHO",
+                  "text": "Espace IMAHO este o atracție de agrement și evenimente care oferă spații verzi amenajate pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        47.567466,
+                        -18.796385
+                  ]
+            },
+            {
+                  "name": "Soa Farm d'Avaradrano",
+                  "text": "Soa Farm d'Avaradrano este un complex agricol care include un acvariu și expoziții de viață acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        47.5747,
+                        -18.812516
+                  ]
+            },
+            {
+                  "name": "Mania Space",
+                  "text": "Mania Space este un parc tematic local care oferă atracții de divertisment și opțiuni de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        47.565593,
+                        -18.805432
+                  ]
+            },
+            {
+                  "name": "Tanàna Patrakala",
+                  "text": "Tanàna Patrakala este o atracție culturală concepută pentru a prezenta arhitectura și stilul de viață tradițional al unui sat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.503913,
+                        -18.790127
+                  ]
+            },
+            {
+                  "name": "TIAMIARY Pisciculture",
+                  "text": "TIAMIARY Pisciculture este o fermă piscicolă care funcționează și ca acvariu în aer liber pentru observarea peștilor.",
+                  "category": "recreational",
+                  "coords": [
+                        47.514895,
+                        -18.799628
+                  ]
+            },
+            {
+                  "name": "villa Tsifoy",
+                  "text": "Villa Tsifoy este o proprietate impunătoare, asemănătoare unui castel, remarcabilă prin arhitectura sa deosebită.",
+                  "category": "castle",
+                  "coords": [
+                        47.473909,
+                        -18.777785
+                  ]
+            },
+            {
+                  "name": "Ambohimanga",
+                  "text": "Ambohimanga este o colină regală sacră, inclusă în Patrimoniul Mondial UNESCO, fiind capitala spirituală și istorică a regatului Merina.",
+                  "category": "natural",
+                  "coords": [
+                        47.550017,
+                        -18.750059
+                  ]
+            },
+            {
+                  "name": "Rova d'Ambohimanga",
+                  "text": "Rova d'Ambohimanga este un complex muzeal istoric care păstrează fostele incinte regale, palatele și mormintele monarhilor malgași.",
+                  "category": "museum",
+                  "coords": [
+                        47.562185,
+                        -18.760454
+                  ]
+            },
+            {
+                  "name": "Ambatomitsangana",
+                  "text": "„At the erected stone” este o atracție culturală cu un monolit megalitic tradițional, important pentru istoria locală malgașă.",
+                  "category": "landmark",
+                  "coords": [
+                        47.56547,
+                        -18.759399
+                  ]
+            },
+            {
+                  "name": "Tana Beach",
+                  "text": "Tana Beach este o zonă de plajă artificială de agrement, care oferă activități de relaxare la malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        47.608624,
+                        -18.774514
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Acest parc acvatic local dispune de o piscină mare în aer liber, destinată înotului de agrement și relaxării în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        47.556813,
+                        -18.771343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace IMAHO",
+                  "text": "Espace IMAHO is an event and recreation attraction offering landscaped green spaces for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        47.567466,
+                        -18.796385
+                  ]
+            },
+            {
+                  "name": "Soa Farm d'Avaradrano",
+                  "text": "Soa Farm d'Avaradrano is an agricultural site that includes aquatic life displays and an aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        47.5747,
+                        -18.812516
+                  ]
+            },
+            {
+                  "name": "Mania Space",
+                  "text": "Mania Space is a local theme park providing amusement rides and entertainment options.",
+                  "category": "recreational",
+                  "coords": [
+                        47.565593,
+                        -18.805432
+                  ]
+            },
+            {
+                  "name": "Tanàna Patrakala",
+                  "text": "Tanàna Patrakala is a cultural attraction designed to showcase traditional village architecture and lifestyle.",
+                  "category": "landmark",
+                  "coords": [
+                        47.503913,
+                        -18.790127
+                  ]
+            },
+            {
+                  "name": "TIAMIARY Pisciculture",
+                  "text": "TIAMIARY Pisciculture is an aquaculture site functioning as an open-air aquarium for observing farmed fish.",
+                  "category": "recreational",
+                  "coords": [
+                        47.514895,
+                        -18.799628
+                  ]
+            },
+            {
+                  "name": "villa Tsifoy",
+                  "text": "Villa Tsifoy is an imposing, castle-like estate featuring distinctive architecture near the royal hill.",
+                  "category": "castle",
+                  "coords": [
+                        47.473909,
+                        -18.777785
+                  ]
+            },
+            {
+                  "name": "Ambohimanga",
+                  "text": "Ambohimanga is a sacred royal hill and UNESCO World Heritage site that served as the spiritual and historical capital of the Merina kingdom.",
+                  "category": "natural",
+                  "coords": [
+                        47.550017,
+                        -18.750059
+                  ]
+            },
+            {
+                  "name": "Rova d'Ambohimanga",
+                  "text": "The Rova d'Ambohimanga is a historical museum complex preserving the former royal enclosures, palaces, and tombs of Malagasy monarchs.",
+                  "category": "museum",
+                  "coords": [
+                        47.562185,
+                        -18.760454
+                  ]
+            },
+            {
+                  "name": "At the erected stone",
+                  "text": "At the erected stone is a cultural attraction featuring a traditional megalithic monolith significant to local Malagasy history.",
+                  "category": "landmark",
+                  "coords": [
+                        47.56547,
+                        -18.759399
+                  ]
+            },
+            {
+                  "name": "Tana Beach",
+                  "text": "Tana Beach is an artificial recreational beach area offering water-side leisure activities near the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        47.608624,
+                        -18.774514
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "This local water park features a large outdoor swimming pool designed for recreational swimming and family leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        47.556813,
+                        -18.771343
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.5619, -18.7597],
@@ -38,7 +443,124 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "rova-antananarivo-history-v2",
+    id: "rova-antananarivo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc des expos Forello",
+                  "text": "Mit seiner riesigen Hallenfläche beherbergt dieses große Messezentrum regelmäßig internationale Handelsmessen und große Industriesalons.",
+                  "category": "landmark",
+                  "coords": [
+                        47.518184,
+                        -18.952488
+                  ]
+            },
+            {
+                  "name": "Parc Botanique et Zoologique de Tsimbazaza",
+                  "text": "Inmitten eines zentralen Sees in der Hauptstadt gelegen, ist dieser kombinierte botanische und zoologische Garten berühmt für die Ausstellung der einzigartigen Flora Madagaskars und seltener Lemuren.",
+                  "category": "recreational",
+                  "coords": [
+                        47.526482,
+                        -18.929938
+                  ]
+            },
+            {
+                  "name": "Rova",
+                  "text": "Dieser imposante historische Steinpalastkomplex krönt den höchsten Hügel von Antananarivo und war das königliche Zentrum des Merina-Königreichs.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532235,
+                        -18.923607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc des expos Forello",
+                  "text": "A hatalmas fedett csarnokot felölelő jelentős kiállítási központ rendszeresen ad otthont nemzetközi szakmai vásároknak és nagyszabású ipari kiállításoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        47.518184,
+                        -18.952488
+                  ]
+            },
+            {
+                  "name": "Parc Botanique et Zoologique de Tsimbazaza",
+                  "text": "A főváros központi tava körül elterülő botanikus és zoológiai kert Madagaszkár egyedülálló növényvilágának és ritka makijainak bemutatásáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        47.526482,
+                        -18.929938
+                  ]
+            },
+            {
+                  "name": "Rova",
+                  "text": "Az Antananarivo legmagasabb dombját koronázó impozáns történelmi kőpalota-komplexum a Merina Királyság királyi központja volt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532235,
+                        -18.923607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc des expos Forello",
+                  "text": "Întinzându-se pe o suprafață masivă a halei interioare, acest important centru expozițional găzduiește cu regularitate târguri internaționale de profil și saloane industriale pe scară largă.",
+                  "category": "landmark",
+                  "coords": [
+                        47.518184,
+                        -18.952488
+                  ]
+            },
+            {
+                  "name": "Parc Botanique et Zoologique de Tsimbazaza",
+                  "text": "Situată în jurul unui lac central din capitală, această grădină botanică și zoologică combinată este renumită pentru expunerea florei unice a Madagascarului și a lemurienilor rari.",
+                  "category": "recreational",
+                  "coords": [
+                        47.526482,
+                        -18.929938
+                  ]
+            },
+            {
+                  "name": "Rova",
+                  "text": "Încoronând cel mai înalt deal din Antananarivo, acest impunător complex istoric de palate din piatră a fost centrul regal al Regatului Merina.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532235,
+                        -18.923607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc des expos Forello",
+                  "text": "Spanning a massive indoor hall area, this major exhibition center regularly hosts international trade fairs and large-scale industrial salons.",
+                  "category": "landmark",
+                  "coords": [
+                        47.518184,
+                        -18.952488
+                  ]
+            },
+            {
+                  "name": "Parc Botanique et Zoologique de Tsimbazaza",
+                  "text": "Set around a central lake in the capital, this combined botanical garden and zoo is famous for exhibiting Madagascar's unique flora and rare lemurs.",
+                  "category": "recreational",
+                  "coords": [
+                        47.526482,
+                        -18.929938
+                  ]
+            },
+            {
+                  "name": "Queen's Palace",
+                  "text": "Crowning the highest hill of Antananarivo, this imposing historic stone palace complex was the royal center of the Merina Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532235,
+                        -18.923607
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.5325, -18.9236],
@@ -108,7 +630,52 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "fianarantsoa-old-town-history-v2",
+    id: "fianarantsoa-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fania",
+                  "text": "Dieses historische Museum in der Altstadt von Fianarantsoa präsentiert Exponate zur regionalen madagassischen Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        47.088301,
+                        -21.451529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fania",
+                  "text": "Ez a Fianarantsoa óvárosában található történelmi múzeum a regionális madagaszkári kultúrát bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        47.088301,
+                        -21.451529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fania",
+                  "text": "Acest muzeu istoric din orașul vechi Fianarantsoa prezintă exponate legate de cultura regională malgașă.",
+                  "category": "museum",
+                  "coords": [
+                        47.088301,
+                        -21.451529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fania",
+                  "text": "This historical museum in the old town of Fianarantsoa presents exhibits detailing regional Malagasy culture.",
+                  "category": "museum",
+                  "coords": [
+                        47.088301,
+                        -21.451529
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-F",
     coords: [47.0864, -21.4526],
@@ -178,7 +745,52 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "prime-minister-palace-andafiavaratra-history-v2",
+    id: "prime-minister-palace-andafiavaratra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portail des voyageurs",
+                  "text": "Diese Attraktion bildet ein historisches Tor in der Nähe des alten Premierministerpalastes von Andafiavaratra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.534282,
+                        -18.92064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portail des voyageurs",
+                  "text": "Ez a látványosság egy történelmi kapu, amely az egykori Andafiavaratra miniszterelnöki palota közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.534282,
+                        -18.92064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portail des voyageurs",
+                  "text": "Această atracție servește drept poartă istorică lângă vechiul palat al prim-ministrului din Andafiavaratra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.534282,
+                        -18.92064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portail des voyageurs",
+                  "text": "This attraction forms a historic gateway near the old Prime Minister's Palace of Andafiavaratra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.534282,
+                        -18.92064
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.5333, -18.92],
@@ -248,7 +860,52 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "amozon-fort-flacourt-history-v2",
+    id: "amozon-fort-flacourt-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bastion de Maudave",
+                  "text": "Diese Festungsruine ist ein verbliebener Teil der historischen Verteidigungsanlagen von Fort Flacourt.",
+                  "category": "historical",
+                  "coords": [
+                        46.998662,
+                        -25.02682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bastion de Maudave",
+                  "text": "Ez az erődbástya-rom a történelmi Fort Flacourt védelmi rendszerének fennmaradt része.",
+                  "category": "historical",
+                  "coords": [
+                        46.998662,
+                        -25.02682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bastion de Maudave",
+                  "text": "Această ruină de bastion este o secțiune rămasă din structurile defensive istorice ale Fortului Flacourt.",
+                  "category": "historical",
+                  "coords": [
+                        46.998662,
+                        -25.02682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bastion de Maudave",
+                  "text": "This ruined bastion is a surviving section of the historic defensive structures of Fort Flacourt.",
+                  "category": "historical",
+                  "coords": [
+                        46.998662,
+                        -25.02682
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-U",
     coords: [46.995, -25.029],
@@ -388,7 +1045,124 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "zoma-market-historical-site-history-v2",
+    id: "zoma-market-historical-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tranompokonolona Analakely",
+                  "text": "Ein historisches städtisches Theatergebäude, das als kultureller Veranstaltungsort nahe dem belebten Zoma-Markt dient.",
+                  "category": "cultural",
+                  "coords": [
+                        47.527025,
+                        -18.908644
+                  ]
+            },
+            {
+                  "name": "FJKM",
+                  "text": "Ein markantes protestantisches Kirchengebäude, das auch als Zentrum für religiöse und gemeinschaftliche Kunst dient.",
+                  "category": "cultural",
+                  "coords": [
+                        47.525802,
+                        -18.908496
+                  ]
+            },
+            {
+                  "name": "ROXY",
+                  "text": "Ein klassisches Kino- und Theatergebäude, das eine Mischung aus historischer Architektur und lokalen Kulturvorführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524398,
+                        -18.908922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tranompokonolona Analakely",
+                  "text": "Történelmi színházépület, amely kulturális helyszínként szolgál a nyüzsgő Zoma piac közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        47.527025,
+                        -18.908644
+                  ]
+            },
+            {
+                  "name": "FJKM",
+                  "text": "Kiemelkedő protestáns templomépület, amely a vallási és közösségi művészetek központjaként is szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        47.525802,
+                        -18.908496
+                  ]
+            },
+            {
+                  "name": "ROXY",
+                  "text": "Klasszikus mozi és színház, amely a vintage építészet és a helyi kulturális előadások keverékét mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524398,
+                        -18.908922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tranompokonolona Analakely",
+                  "text": "O clădire istorică a unui teatru civic, ce servește ca loc cultural lângă zona plină de viață a pieței Zoma.",
+                  "category": "cultural",
+                  "coords": [
+                        47.527025,
+                        -18.908644
+                  ]
+            },
+            {
+                  "name": "FJKM",
+                  "text": "O clădire proeminentă a bisericii protestante care servește, de asemenea, ca punct central pentru artele religioase și comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        47.525802,
+                        -18.908496
+                  ]
+            },
+            {
+                  "name": "ROXY",
+                  "text": "Un cinematograf și un teatru clasic, prezentând un amestec de arhitectură de epocă și spectacole culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524398,
+                        -18.908922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tranompokonolona Analakely",
+                  "text": "A historic civic theatre building serving as a cultural venue near the bustling Zoma market area.",
+                  "category": "cultural",
+                  "coords": [
+                        47.527025,
+                        -18.908644
+                  ]
+            },
+            {
+                  "name": "FJKM",
+                  "text": "A prominent Protestant church building that also serves as a focal point for religious and community arts.",
+                  "category": "cultural",
+                  "coords": [
+                        47.525802,
+                        -18.908496
+                  ]
+            },
+            {
+                  "name": "ROXY",
+                  "text": "A classic cinema and theatre venue showcasing a blend of vintage architecture and local cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524398,
+                        -18.908922
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.525, -18.91],
@@ -563,7 +1337,124 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "jean-laborde-house-mantasoa-history-v2",
+    id: "jean-laborde-house-mantasoa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jean-Laborde Foundry",
+                  "text": "Die Überreste eines Industriekomplexes, der im 19. Jahrhundert von einem französischen Pionier zur Herstellung von Waffen und Gütern in Mantasoa gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        47.832035,
+                        -19.012503
+                  ]
+            },
+            {
+                  "name": "Fanongoavana",
+                  "text": "Eine archäologische Stätte nahe Mantasoa, die Spuren früher madagassischer Siedlungen und historischer Befestigungsanlagen bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        47.850456,
+                        -19.060039
+                  ]
+            },
+            {
+                  "name": "Domaine Jean-Laborde",
+                  "text": "Ein historisches Anwesen, das heute als Freizeitpark den ehemaligen Industriekomplex eines französischen Pioniers aus dem 19. Jahrhundert umgibt.",
+                  "category": "recreational",
+                  "coords": [
+                        47.833735,
+                        -19.013297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jean-Laborde Foundry",
+                  "text": "Egy 19. századi ipari komplexum maradványai, amelyet egy francia pionír hozott létre fegyverek és áruk gyártására Mantasoában.",
+                  "category": "historical",
+                  "coords": [
+                        47.832035,
+                        -19.012503
+                  ]
+            },
+            {
+                  "name": "Fanongoavana",
+                  "text": "Egy ősi régészeti lelőhely Mantasoa közelében, amely a korai madagaszkári települések és történelmi erődítmények nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        47.850456,
+                        -19.060039
+                  ]
+            },
+            {
+                  "name": "Domaine Jean-Laborde",
+                  "text": "Történelmi birtokból lett pihenőpark, amely egy 19. századi francia úttörő egykori ipari komplexumát veszi körül.",
+                  "category": "recreational",
+                  "coords": [
+                        47.833735,
+                        -19.013297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jean-Laborde Foundry",
+                  "text": "Rămășițele unui complex industrial înființat în secolul al XIX-lea de un pionier francez pentru a produce arme și bunuri în Mantasoa.",
+                  "category": "historical",
+                  "coords": [
+                        47.832035,
+                        -19.012503
+                  ]
+            },
+            {
+                  "name": "Fanongoavana",
+                  "text": "Un vechi sit arheologic de lângă Mantasoa, care păstrează urmele primelor așezări malgașe și fortificații istorice.",
+                  "category": "historical",
+                  "coords": [
+                        47.850456,
+                        -19.060039
+                  ]
+            },
+            {
+                  "name": "Domaine Jean-Laborde",
+                  "text": "O proprietate istorică transformată în parc de agrement, ce înconjoară fostul complex industrial al unui pionier francez din secolul al XIX-lea.",
+                  "category": "recreational",
+                  "coords": [
+                        47.833735,
+                        -19.013297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jean-Laborde Foundry",
+                  "text": "The remnants of an industrial complex established in the 19th century by a French pioneer to manufacture weapons and goods in Mantasoa.",
+                  "category": "historical",
+                  "coords": [
+                        47.832035,
+                        -19.012503
+                  ]
+            },
+            {
+                  "name": "Fanongoavana",
+                  "text": "An ancient archaeological site near Mantasoa preserving traces of early Malagasy settlements and historic fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        47.850456,
+                        -19.060039
+                  ]
+            },
+            {
+                  "name": "Domaine Jean-Laborde",
+                  "text": "A historic estate turned recreational park surrounding the former industrial complex of a 19th-century French pioneer.",
+                  "category": "recreational",
+                  "coords": [
+                        47.833735,
+                        -19.013297
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.8167, -18.9833],
@@ -598,7 +1489,304 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "antongona-fortifications-history-v2",
+    id: "antongona-fortifications-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Association Alfa et Oméga Ambatomirahavavy",
+                  "text": "Dieses in Ambatomirahavavy ansässige kommunale Kunstzentrum fördert den kulturellen Ausdruck durch Workshops, Ausstellungen und Bildungsprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        47.39447,
+                        -18.935565
+                  ]
+            },
+            {
+                  "name": "Fa Loisirs Imerintsiatosika",
+                  "text": "Dieser beliebte Freizeitkomplex im Freien in Imerintsiatosika bietet Swimmingpools, Picknickbereiche und Freizeitspiele für Familien.",
+                  "category": "landmark",
+                  "coords": [
+                        47.328994,
+                        -18.978573
+                  ]
+            },
+            {
+                  "name": "Espace Villa Hasimbola",
+                  "text": "Dieser attraktiv angelegte Veranstaltungsort, der sich um eine elegante Villa gruppiert, wird häufig für lokale Bankette und festliche Zusammenkünfte genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.342689,
+                        -18.969131
+                  ]
+            },
+            {
+                  "name": "Lemurs park",
+                  "text": "Inmitten eines botanischen Reservats ermöglicht diese Naturattraktion den Besuchern, zwischen frei lebenden Lemuren in ihrem natürlichen Lebensraum spazieren zu gehen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.358649,
+                        -18.954327
+                  ]
+            },
+            {
+                  "name": "Kijana Tany Mena",
+                  "text": "Dieses markante Freigelände zeichnet sich durch seine auffälligen roten Lateritböden aus und unterstreicht die raue Naturschönheit des madagassischen Hochlands.",
+                  "category": "landmark",
+                  "coords": [
+                        47.306603,
+                        -18.984373
+                  ]
+            },
+            {
+                  "name": "Rova d'Antongona",
+                  "text": "Diese auf einem dramatischen Felsengipfel thronende, rekonstruierte königliche Festung dient als Museum, das die traditionelle Merina-Architektur und Verteidigungssysteme zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        47.285924,
+                        -18.94042
+                  ]
+            },
+            {
+                  "name": "Lapasoa Ambatomirahavavy",
+                  "text": "Dieser stattliche Veranstaltungsort in Ambatomirahavavy bietet elegant gepflegte Gärten, die als malerische Kulisse für formelle Empfänge dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.392668,
+                        -18.939365
+                  ]
+            },
+            {
+                  "name": "centre culturel communal",
+                  "text": "Als zentraler Knotenpunkt für städtische Veranstaltungen beherbergt dieses kommunale Kunstzentrum lokale Theaterproduktionen, Kunstkurse und kulturelle Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        47.322714,
+                        -18.976664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Association Alfa et Oméga Ambatomirahavavy",
+                  "text": "Az Ambatomirahavavyban működő közösségi művészeti központ workshopokkal, kiállításokkal és oktatási programokkal támogatja a kulturális kifejezésmódot.",
+                  "category": "cultural",
+                  "coords": [
+                        47.39447,
+                        -18.935565
+                  ]
+            },
+            {
+                  "name": "Fa Loisirs Imerintsiatosika",
+                  "text": "Az Imerintsiatosikában található népszerű szabadtéri szabadidőkomplexum úszómedencékkel, piknikezőhelyekkel és rekreációs játékokkal várja a családokat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.328994,
+                        -18.978573
+                  ]
+            },
+            {
+                  "name": "Espace Villa Hasimbola",
+                  "text": "Az elegáns villa köré épült, vonzóan parkosított rendezvényhelyszínt gyakran használják helyi bankettek és ünnepi összejövetelek lebonyolítására.",
+                  "category": "landmark",
+                  "coords": [
+                        47.342689,
+                        -18.969131
+                  ]
+            },
+            {
+                  "name": "Lemurs park",
+                  "text": "A botanikai rezervátumban található természeti látványosság lehetővé teszi, hogy a látogatók szabadon élő makik között sétáljanak természetes élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        47.358649,
+                        -18.954327
+                  ]
+            },
+            {
+                  "name": "Kijana Tany Mena",
+                  "text": "A jellegzetes vörös laterit talajáról ismert szabadtéri terület a madagaszkári felföld zord természeti szépségét emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.306603,
+                        -18.984373
+                  ]
+            },
+            {
+                  "name": "Rova d'Antongona",
+                  "text": "A drámai sziklacsúcson magasodó, újjáépített királyi hegyi erőd múzeumként szolgál, amely bemutatja a hagyományos Merina építészetet és védelmi rendszereket.",
+                  "category": "museum",
+                  "coords": [
+                        47.285924,
+                        -18.94042
+                  ]
+            },
+            {
+                  "name": "Lapasoa Ambatomirahavavy",
+                  "text": "Ez az Ambatomirahavavyban található impozáns rendezvényhelyszín elegánsan gondozott kertekkel büszkélkedhet, amelyek festői hátteret biztosítanak hivatalos fogadásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        47.392668,
+                        -18.939365
+                  ]
+            },
+            {
+                  "name": "centre culturel communal",
+                  "text": "A civil események elsődleges központjaként működő városi művészeti központ helyi színházi produkcióknak, művészeti óráknak és kulturális kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        47.322714,
+                        -18.976664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Association Alfa et Oméga Ambatomirahavavy",
+                  "text": "Funcționând în Ambatomirahavavy, acest centru de arte comunitare încurajează expresia culturală prin ateliere, expoziții și programe educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        47.39447,
+                        -18.935565
+                  ]
+            },
+            {
+                  "name": "Fa Loisirs Imerintsiatosika",
+                  "text": "Situat în Imerintsiatosika, acest complex popular de agrement în aer liber oferă piscine, zone de picnic și jocuri recreative pentru familii.",
+                  "category": "landmark",
+                  "coords": [
+                        47.328994,
+                        -18.978573
+                  ]
+            },
+            {
+                  "name": "Espace Villa Hasimbola",
+                  "text": "Centrat în jurul unei vile elegante, acest loc de evenimente cu un peisaj atractiv este frecvent utilizat pentru banchete locale și adunări ceremoniale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.342689,
+                        -18.969131
+                  ]
+            },
+            {
+                  "name": "Lemurs park",
+                  "text": "Situată într-o rezervație botanică, această atracție naturală permite vizitatorilor să se plimbe printre lemuri care se deplasează liber în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        47.358649,
+                        -18.954327
+                  ]
+            },
+            {
+                  "name": "Kijana Tany Mena",
+                  "text": "Caracterizată prin solurile sale roșii izbitoare de laterit, această zonă distinctă în aer liber evidențiază frumusețea naturală aspră a zonelor înalte malgașe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.306603,
+                        -18.984373
+                  ]
+            },
+            {
+                  "name": "Rova d'Antongona",
+                  "text": "Cocoțată pe un vârf stâncos spectaculos, această fortăreață regală de pe deal reconstruită servește ca muzeu care detaliază arhitectura tradițională Merina și sistemele de apărare.",
+                  "category": "museum",
+                  "coords": [
+                        47.285924,
+                        -18.94042
+                  ]
+            },
+            {
+                  "name": "Lapasoa Ambatomirahavavy",
+                  "text": "Această locație impunătoare pentru evenimente din Ambatomirahavavy oferă grădini îngrijite elegant, care servesc drept un cadru pitoresc pentru recepții oficiale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.392668,
+                        -18.939365
+                  ]
+            },
+            {
+                  "name": "centre culturel communal",
+                  "text": "Funcționând ca centru principal pentru evenimente civice, acest centru municipal de arte găzduiește producții de teatru local, cursuri de artă și expoziții culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        47.322714,
+                        -18.976664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Association Alfa et Oméga Ambatomirahavavy",
+                  "text": "Operating out of Ambatomirahavavy, this community arts center fosters cultural expression through workshops, exhibitions, and educational programs.",
+                  "category": "cultural",
+                  "coords": [
+                        47.39447,
+                        -18.935565
+                  ]
+            },
+            {
+                  "name": "Fa Loisirs Imerintsiatosika",
+                  "text": "Located in Imerintsiatosika, this popular outdoor leisure complex offers swimming pools, picnic areas, and recreational games for families.",
+                  "category": "landmark",
+                  "coords": [
+                        47.328994,
+                        -18.978573
+                  ]
+            },
+            {
+                  "name": "Espace Villa Hasimbola",
+                  "text": "Centered around an elegant villa, this attractively landscaped event venue is frequently used for local banquets and ceremonial gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        47.342689,
+                        -18.969131
+                  ]
+            },
+            {
+                  "name": "Lemurs park",
+                  "text": "Set within a botanical reserve, this nature attraction allows visitors to walk among free-roaming lemurs in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.358649,
+                        -18.954327
+                  ]
+            },
+            {
+                  "name": "Kijana Tany Mena",
+                  "text": "Characterized by its striking red laterite soils, this distinct outdoor area highlights the rugged natural beauty of the Malagasy highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        47.306603,
+                        -18.984373
+                  ]
+            },
+            {
+                  "name": "Rova d'Antongona",
+                  "text": "Perched on a dramatic rocky peak, this reconstructed royal hilltop fortress serves as a museum detailing traditional Merina architecture and defense systems.",
+                  "category": "museum",
+                  "coords": [
+                        47.285924,
+                        -18.94042
+                  ]
+            },
+            {
+                  "name": "Lapasoa Ambatomirahavavy",
+                  "text": "This stately event venue in Ambatomirahavavy offers elegantly manicured gardens that serve as a picturesque backdrop for formal receptions.",
+                  "category": "landmark",
+                  "coords": [
+                        47.392668,
+                        -18.939365
+                  ]
+            },
+            {
+                  "name": "centre culturel communal",
+                  "text": "Functioning as the primary hub for civic events, this municipal arts center hosts local theater productions, art classes, and cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        47.322714,
+                        -18.976664
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.3, -18.9333],
@@ -633,7 +1821,52 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "analamazaotra-colonial-station-history-v2",
+    id: "analamazaotra-colonial-station-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Analamazoatra Forest Station",
+                  "text": "Diese Waldstation ist ein historisches Naturschutzgebiet, das aus der Kolonialzeit stammt.",
+                  "category": "natural",
+                  "coords": [
+                        48.405956,
+                        -18.936439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Analamazoatra Forest Station",
+                  "text": "Ez az erdészeti állomás egy történelmi természetvédelmi terület, amely a gyarmati korszakból maradt fenn.",
+                  "category": "natural",
+                  "coords": [
+                        48.405956,
+                        -18.936439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Analamazoatra Forest Station",
+                  "text": "Această stație forestieră este o rezervație naturală istorică datând din perioada colonială.",
+                  "category": "natural",
+                  "coords": [
+                        48.405956,
+                        -18.936439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Analamazoatra Forest Station",
+                  "text": "This forest station is a historic nature reserve dating back to the colonial era.",
+                  "category": "natural",
+                  "coords": [
+                        48.405956,
+                        -18.936439
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-A",
     coords: [48.4, -18.9333],
@@ -773,7 +2006,124 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "cap-mined-diego-suarez-history-v2",
+    id: "cap-mined-diego-suarez-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsingy",
+                  "text": "Ein dramatischer Aussichtspunkt mit Blick auf die schroffen, nadelartigen Kalksteinkarstformationen in der Nähe von Diego Suarez.",
+                  "category": "natural",
+                  "coords": [
+                        49.345286,
+                        -12.189422
+                  ]
+            },
+            {
+                  "name": "Baie des Sakalava",
+                  "text": "Eine malerische Bucht, die für ihre starken Winde und Sandstrände bekannt ist, was sie zu einer äußerst beliebten Küstenattraktion für Kitesurfer macht.",
+                  "category": "landmark",
+                  "coords": [
+                        49.39273,
+                        -12.271297
+                  ]
+            },
+            {
+                  "name": "Smaragdmeer",
+                  "text": "Eine atemberaubende Lagunenattraktion, die sich durch ihr markantes, unglaublich leuchtendes türkis- und smaragdgrünes Wasser auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.36592,
+                        -12.170208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsingy",
+                  "text": "Drámai kilátópont, ahonnan a Diego Suarez közelében található zord, tűszerű mészkőkarszt-alakzatokra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        49.345286,
+                        -12.189422
+                  ]
+            },
+            {
+                  "name": "Baie des Sakalava",
+                  "text": "Erős széljárásáról és homokos strandjairól ismert festői öböl, amely nagyon kedvelt tengerparti látványosság a kiteszörfösök körében.",
+                  "category": "landmark",
+                  "coords": [
+                        49.39273,
+                        -12.271297
+                  ]
+            },
+            {
+                  "name": "Mer d'Émeraude",
+                  "text": "Lenyűgöző lagúnalátványosság, amelyet élénk, hihetetlenül tiszta türkiz- és smaragdzöld vize jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        49.36592,
+                        -12.170208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsingy",
+                  "text": "Un punct de belvedere spectaculos care oferă o priveliște asupra formațiunilor carstice ascuțite din calcar de lângă Diego Suarez.",
+                  "category": "natural",
+                  "coords": [
+                        49.345286,
+                        -12.189422
+                  ]
+            },
+            {
+                  "name": "Baie des Sakalava",
+                  "text": "Un golf pitoresc cunoscut pentru vânturile sale puternice și plajele cu nisip, fiind o atracție de coastă foarte apreciată pentru kitesurfing.",
+                  "category": "landmark",
+                  "coords": [
+                        49.39273,
+                        -12.271297
+                  ]
+            },
+            {
+                  "name": "Mer d'Émeraude",
+                  "text": "O atracție uimitoare sub formă de lagună, caracterizată prin apele sale frapante de un turcoaz și verde smarald incredibil de vibrant.",
+                  "category": "landmark",
+                  "coords": [
+                        49.36592,
+                        -12.170208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsingy",
+                  "text": "A dramatic viewpoint overlooking the rugged, needle-like limestone karst formations near Diego Suarez.",
+                  "category": "natural",
+                  "coords": [
+                        49.345286,
+                        -12.189422
+                  ]
+            },
+            {
+                  "name": "Baie des Sakalava",
+                  "text": "A picturesque bay known for its strong winds and sandy beaches, making it a highly favored coastal attraction for kite surfing.",
+                  "category": "landmark",
+                  "coords": [
+                        49.39273,
+                        -12.271297
+                  ]
+            },
+            {
+                  "name": "Emerald Sea",
+                  "text": "A stunning lagoon attraction characterized by its striking, incredibly vibrant turquoise and emerald-green waters.",
+                  "category": "landmark",
+                  "coords": [
+                        49.36592,
+                        -12.170208
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-D",
     coords: [49.3333, -12.2333],
@@ -878,7 +2228,52 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "alasora-royal-village-history-v2",
+    id: "alasora-royal-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "KID'S RECRE",
+                  "text": "Dieser lebhafte Kinderpark ist vollgepackt mit aufblasbaren Hüpfburgen und Klettergerüsten und bietet eine sichere Umgebung für energiegeladenes Spielen.",
+                  "category": "recreational",
+                  "coords": [
+                        47.561382,
+                        -19.00238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KID'S RECRE",
+                  "text": "A felfújható ugrálóvárakkal és mászókákkal teli, nyüzsgő gyermekpark biztonságos környezetet nyújt a nagy energiájú játékhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        47.561382,
+                        -19.00238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KID'S RECRE",
+                  "text": "Plin de castele gonflabile și structuri de cățărat, acest parc de copii plin de viață oferă un mediu sigur și dedicat pentru jocurile energice.",
+                  "category": "recreational",
+                  "coords": [
+                        47.561382,
+                        -19.00238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KID'S RECRE",
+                  "text": "Packed with inflatable bounce houses and jungle gyms, this lively children's park provides a dedicated, safe environment for high-energy play.",
+                  "category": "recreational",
+                  "coords": [
+                        47.561382,
+                        -19.00238
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.5667, -18.9667],
@@ -913,7 +2308,52 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "antahakana-martyrs-cliff-history-v2",
+    id: "antahakana-martyrs-cliff-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lettres A N T A N A N A R I V O",
+                  "text": "Ein markanter Schriftzug auf einem Hügel, der über die Stadt blickt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.530955,
+                        -18.921895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lettres A N T A N A N A R I V O",
+                  "text": "Egy feltűnő felirat egy dombtetőn, amely a városra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        47.530955,
+                        -18.921895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lettres A N T A N A N A R I V O",
+                  "text": "Un semn proeminent pe un deal care domină orașul.",
+                  "category": "landmark",
+                  "coords": [
+                        47.530955,
+                        -18.921895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lettres A N T A N A N A R I V O",
+                  "text": "A prominent hilltop sign overlooking the city landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        47.530955,
+                        -18.921895
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-T",
     coords: [47.53, -18.922],
@@ -983,7 +2423,52 @@ export const poiExtraMadagascarHistoryV2: POI[] = [
     
   },
   {
-    id: "foulpointe-fort-manda-history-v2",
+    id: "foulpointe-fort-manda-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Manda",
+                  "text": "Diese historische militärische Attraktion umfasst die baulichen Überreste einer alten Verteidigungsanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        49.50603,
+                        -17.677781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Manda",
+                  "text": "Ez a történelmi katonai látványosság egy régi védelmi erődítmény szerkezeti maradványait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        49.50603,
+                        -17.677781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Manda",
+                  "text": "Această atracție militară istorică prezintă rămășițele structurale ale unei vechi fortificații defensive.",
+                  "category": "landmark",
+                  "coords": [
+                        49.50603,
+                        -17.677781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Manda",
+                  "text": "This historic military attraction features the structural remnants of an old defensive fortification.",
+                  "category": "landmark",
+                  "coords": [
+                        49.50603,
+                        -17.677781
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MG-A",
     coords: [49.5, -17.6667],

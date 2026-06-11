@@ -2652,7 +2652,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Madhoun Moschee",
-                  "text": "Die Al-Madhoun Moschee ist ein Gotteshaus in Ta'if.",
+                  "text": "1846 erbaute Al-Madhoun-Moschee in Taif.",
                   "category": "religious",
                   "coords": [
                         40.391358,
@@ -2699,7 +2699,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Madhoun mecset",
-                  "text": "Az Al-Madhoun mecset egy imaház Ta'ifban.",
+                  "text": "1846-ban épült Al-Madhoun mecset Taifban.",
                   "category": "religious",
                   "coords": [
                         40.391358,
@@ -2746,7 +2746,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea Al-Madhoun",
-                  "text": "Moscheea Al-Madhoun este un lăcaș de cult în Ta'if.",
+                  "text": "Moscheea Al-Madhoun construită în 1846 în Taif.",
                   "category": "religious",
                   "coords": [
                         40.391358,
@@ -2793,7 +2793,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Madhoun Mosque",
-                  "text": "The Al-Madhoun Mosque is a place of worship in Ta'if.",
+                  "text": "Al-Madhoun Mosque built in 1846 in Taif.",
                   "category": "religious",
                   "coords": [
                         40.391358,

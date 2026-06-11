@@ -195,7 +195,52 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "sota-river-nature-v2",
+    id: "sota-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt classée de Gorou Bassounga",
+                  "text": "Dieses klassifizierte Waldgebiet schützt die natürliche Flora und Fauna entlang der Ufer des Flusses Sota.",
+                  "category": "natural",
+                  "coords": [
+                        3.395404,
+                        11.933721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt classée de Gorou Bassounga",
+                  "text": "Ez a besorolt erdő a Sota folyó partja mentén védi a természetes növény- és állatvilágot.",
+                  "category": "natural",
+                  "coords": [
+                        3.395404,
+                        11.933721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt classée de Gorou Bassounga",
+                  "text": "Această pădure clasificată protejează flora și fauna naturală de-a lungul malurilor râului Sota.",
+                  "category": "natural",
+                  "coords": [
+                        3.395404,
+                        11.933721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt classée de Gorou Bassounga",
+                  "text": "This classified forest protects the natural flora and fauna along the banks of the Sota River.",
+                  "category": "natural",
+                  "coords": [
+                        3.395404,
+                        11.933721
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BJ-AL",
     coords: [3.4167, 11.8833],
@@ -435,7 +480,52 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-aheme-nature-v2",
+    id: "lake-aheme-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais du Roi Dédomè",
+                  "text": "Die traditionellen Herrenhausgebäude bieten einen Einblick in den aristokratischen Lebensstil der historischen regionalen Monarchie.",
+                  "category": "historical",
+                  "coords": [
+                        2.009944,
+                        6.575255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais du Roi Dédomè",
+                  "text": "A hagyományos kúriaépületek bepillantást engednek a történelmi regionális monarchia arisztokratikus életmódjába.",
+                  "category": "historical",
+                  "coords": [
+                        2.009944,
+                        6.575255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais du Roi Dédomè",
+                  "text": "Clădirile tradiționale ale conacului oferă o privire asupra stilului de viață aristocratic al monarhiei regionale istorice.",
+                  "category": "historical",
+                  "coords": [
+                        2.009944,
+                        6.575255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais du Roi Dédomè",
+                  "text": "The traditional manor buildings offer a glimpse into the aristocratic lifestyle of the historic regional monarchy.",
+                  "category": "historical",
+                  "coords": [
+                        2.009944,
+                        6.575255
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BJ-MO",
     coords: [1.9667, 6.5],
@@ -483,7 +573,52 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "porto-novo-lagoon-nature-v2",
+    id: "porto-novo-lagoon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "LIGHT CITY",
+                  "text": "LIGHT CITY ist eine beleuchtete zeitgenössische Attraktion in der Nähe der Lagune in der Gegend von porto-novo-lagoon-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.617381,
+                        6.430958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "LIGHT CITY",
+                  "text": "A LIGHT CITY egy kivilágított kortárs látványosság a lagúna közelében, a porto-novo-lagoon-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        2.617381,
+                        6.430958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "LIGHT CITY",
+                  "text": "LIGHT CITY este o atracție contemporană iluminată, situată în apropierea lagunei din zona porto-novo-lagoon-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.617381,
+                        6.430958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "LIGHT CITY",
+                  "text": "LIGHT CITY is an illuminated contemporary attraction set near the lagoon in the porto-novo-lagoon-nature-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        2.617381,
+                        6.430958
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BJ-OU",
     coords: [2.6167, 6.4167],
@@ -579,7 +714,52 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-toho-nature-v2",
+    id: "lake-toho-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée du Musicien Gnonnas Pedro",
+                  "text": "Ein Museum in der Nähe des Toho-Sees, das dem Leben und musikalischen Erbe des berühmten beninischen Sängers Gnonnas Pedro gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.714575,
+                        6.632563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée du Musicien Gnonnas Pedro",
+                  "text": "Múzeum a Toho-tó közelében, amelyet a híres benini énekes és zenész, Gnonnas Pedro életének és zenei hagyatékának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        1.714575,
+                        6.632563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée du Musicien Gnonnas Pedro",
+                  "text": "Un muzeu lângă Lacul Toho, dedicat vieții și moștenirii muzicale a celebrului cântăreț și muzician beninez Gnonnas Pedro.",
+                  "category": "museum",
+                  "coords": [
+                        1.714575,
+                        6.632563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée du Musicien Gnonnas Pedro",
+                  "text": "A museum near Lake Toho dedicated to the life and musical legacy of the famous Beninese singer and musician Gnonnas Pedro.",
+                  "category": "museum",
+                  "coords": [
+                        1.714575,
+                        6.632563
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BJ-MO",
     coords: [1.7833, 6.6],
@@ -675,7 +855,52 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "mont-sokbaro-nature-v2",
+    id: "mont-sokbaro-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Sokbaro",
+                  "text": "An der Grenze gelegen, erreicht der Mont Sokbaro eine Höhe von 658 Metern und ist damit der höchste Gipfel des benachbarten Benin.",
+                  "category": "natural",
+                  "coords": [
+                        1.415942,
+                        9.327431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Sokbaro",
+                  "text": "A határon átnyúló Sokbaro-hegy 658 méter magasra emelkedik, és ezzel a szomszédos Benin legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        1.415942,
+                        9.327431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Sokbaro",
+                  "text": "Aflat la graniță, Muntele Sokbaro atinge o înălțime de 658 de metri, fiind cel mai înalt vârf din statul vecin Benin.",
+                  "category": "natural",
+                  "coords": [
+                        1.415942,
+                        9.327431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Sokbaro",
+                  "text": "Straddling the border, Mount Sokbaro reaches a height of 658 meters, making it the highest peak of neighboring Benin.",
+                  "category": "natural",
+                  "coords": [
+                        1.415942,
+                        9.327431
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BJ-DO",
     coords: [1.4, 9.3167],
@@ -867,7 +1092,52 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "lama-forest-nature-v2",
+    id: "lama-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt sacrée Oro",
+                  "text": "Diese kulturell bedeutsame Attraktion umfasst eine verehrte heilige Waldlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        2.152135,
+                        7.017832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt sacrée Oro",
+                  "text": "Ez a kulturálisan jelentős látványosság egy tisztelt szent erdei környezetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        2.152135,
+                        7.017832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt sacrée Oro",
+                  "text": "Această atracție semnificativă din punct de vedere cultural prezintă un mediu forestier sacru și venerat.",
+                  "category": "landmark",
+                  "coords": [
+                        2.152135,
+                        7.017832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt sacrée Oro",
+                  "text": "This culturally significant attraction features a revered sacred woodland environment.",
+                  "category": "landmark",
+                  "coords": [
+                        2.152135,
+                        7.017832
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BJ-ZO",
     coords: [2.1667, 6.95],
@@ -1059,7 +1329,88 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "so-river-nature-v2",
+    id: "so-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de la francophonie",
+                  "text": "Vor der Kulisse einer natürlichen Flusslandschaft ist dieses Kulturmuseum der Feier und Bewahrung des frankophonen Erbes gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        2.394031,
+                        6.463614
+                  ]
+            },
+            {
+                  "name": "Atelier d'art",
+                  "text": "In dieser kreativen Werkstatt am Flussufer können lokale Kunsthandwerker ihre handgefertigten Kunstwerke herstellen und ausstellen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.394637,
+                        6.466128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de la francophonie",
+                  "text": "A természetes folyami tájba illeszkedő kulturális múzeum a frankofón örökség ünneplésének és megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        2.394031,
+                        6.463614
+                  ]
+            },
+            {
+                  "name": "Atelier d'art",
+                  "text": "Ebben a kreatív folyóparti műhelyben a helyi kézművesek készíthetik el és állíthatják ki kézműves alkotásaikat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.394637,
+                        6.466128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de la francophonie",
+                  "text": "Amplasat pe fundalul unui peisaj natural fluvial, acest muzeu cultural este dedicat celebrării și conservării patrimoniului francofon.",
+                  "category": "museum",
+                  "coords": [
+                        2.394031,
+                        6.463614
+                  ]
+            },
+            {
+                  "name": "Atelier d'art",
+                  "text": "Acest atelier creativ de pe malul râului permite artizanilor locali să producă și să-și expună operele de artă realizate manual.",
+                  "category": "cultural",
+                  "coords": [
+                        2.394637,
+                        6.466128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de la francophonie",
+                  "text": "Set against a natural river landscape, this cultural museum is dedicated to celebrating and preserving Francophone heritage.",
+                  "category": "museum",
+                  "coords": [
+                        2.394031,
+                        6.463614
+                  ]
+            },
+            {
+                  "name": "Atelier d'art",
+                  "text": "This creative riverside workshop allows local artisans to produce and showcase their handcrafted artworks.",
+                  "category": "cultural",
+                  "coords": [
+                        2.394637,
+                        6.466128
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BJ-AQ",
     coords: [2.4, 6.5],
@@ -1155,7 +1506,196 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-azili-nature-v2",
+    id: "lake-azili-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site PADMAR Doga Alikon ZANGNANADO CENTRE",
+                  "text": "Diese landwirtschaftliche Entwicklungsstätte zeigt ländliche Landwirtschaftsinitiativen, die in der Nähe der Feuchtgebiete des nahegelegenen See-Ökosystems etabliert wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        2.397201,
+                        7.191864
+                  ]
+            },
+            {
+                  "name": "Mini-Musée",
+                  "text": "Ein kleiner, lokal begrenzter Ausstellungsraum, der traditionelle Fischereigeräte und kulturelle Artefakte der Gemeinden aus der Seenlandschaft birgt.",
+                  "category": "museum",
+                  "coords": [
+                        2.468295,
+                        7.25408
+                  ]
+            },
+            {
+                  "name": "Site PADMAR de KPOTO AVOHONOU ZANGNANANDO",
+                  "text": "Eingebettet in die üppige natürliche Umgebung, beleuchtet dieser Projektstandort moderne landwirtschaftliche Praktiken, die in das lokale Dorfleben integriert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        2.434205,
+                        7.22739
+                  ]
+            },
+            {
+                  "name": "Palsi du Roi Yêto",
+                  "text": "Ein monumentales Bauwerk zu Ehren von König Yêto, das als Zeugnis der regionalen Führung steht, die die fruchtbaren Seeufergebiete regierte.",
+                  "category": "historical",
+                  "coords": [
+                        2.400389,
+                        7.226024
+                  ]
+            },
+            {
+                  "name": "Camp des Amazones",
+                  "text": "Die verstreuten Überreste dieses Militärlagers skizzieren den Ort, an dem die elitären Kriegerinnen des Königreichs einst trainierten und stationiert waren.",
+                  "category": "historical",
+                  "coords": [
+                        2.391197,
+                        7.217821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site PADMAR Doga Alikon ZANGNANADO CENTRE",
+                  "text": "Ez a mezőgazdasági fejlesztési terület a közeli tóvidék vizes élőhelyei közelében létrehozott vidéki gazdálkodási kezdeményezéseket mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        2.397201,
+                        7.191864
+                  ]
+            },
+            {
+                  "name": "Mini-Musée",
+                  "text": "A tóvidéki közösségek hagyományos halászfelszereléseit és kulturális emlékeit őrző kisméretű, helyi kiállítótér.",
+                  "category": "museum",
+                  "coords": [
+                        2.468295,
+                        7.25408
+                  ]
+            },
+            {
+                  "name": "Site PADMAR de KPOTO AVOHONOU ZANGNANANDO",
+                  "text": "A buja természeti környezetben található projekt helyszíne a helyi falusi életbe integrált modern mezőgazdasági gyakorlatokat emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        2.434205,
+                        7.22739
+                  ]
+            },
+            {
+                  "name": "Palsi du Roi Yêto",
+                  "text": "Yêto király tiszteletére emelt monumentális építmény, amely a termékeny tóparti területeket irányító regionális vezetés bizonyítékaként áll.",
+                  "category": "historical",
+                  "coords": [
+                        2.400389,
+                        7.226024
+                  ]
+            },
+            {
+                  "name": "Camp des Amazones",
+                  "text": "A katonai tábor szétszórt maradványai jelzik, hol képezték ki és állomásoztatták egykor a királyság elit női harcosait.",
+                  "category": "historical",
+                  "coords": [
+                        2.391197,
+                        7.217821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site PADMAR Doga Alikon ZANGNANADO CENTRE",
+                  "text": "Acest sit de dezvoltare agricolă demonstrează inițiativele agricole rurale stabilite în apropierea zonelor umede ale ecosistemului lacustru din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        2.397201,
+                        7.191864
+                  ]
+            },
+            {
+                  "name": "Mini-Musée",
+                  "text": "Un mic spațiu expozițional localizat ce conține unelte tradiționale de pescuit și artefacte culturale ale comunităților din districtul lacurilor.",
+                  "category": "museum",
+                  "coords": [
+                        2.468295,
+                        7.25408
+                  ]
+            },
+            {
+                  "name": "Site PADMAR de KPOTO AVOHONOU ZANGNANANDO",
+                  "text": "Situat în mijlocul împrejurimilor naturale luxuriante, acest sit de proiect evidențiază practicile agricole moderne integrate în viața satului local.",
+                  "category": "landmark",
+                  "coords": [
+                        2.434205,
+                        7.22739
+                  ]
+            },
+            {
+                  "name": "Palsi du Roi Yêto",
+                  "text": "O structură monumentală ce îl onorează pe Regele Yêto, stând ca mărturie a conducerii regionale care a guvernat teritoriile fertile de pe malul lacului.",
+                  "category": "historical",
+                  "coords": [
+                        2.400389,
+                        7.226024
+                  ]
+            },
+            {
+                  "name": "Camp des Amazones",
+                  "text": "Rămășițele împrăștiate ale acestei tabere militare schițează locul unde războinicele de elită ale regatului se antrenau și staționau odinioară.",
+                  "category": "historical",
+                  "coords": [
+                        2.391197,
+                        7.217821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site PADMAR Doga Alikon ZANGNANADO CENTRE",
+                  "text": "This agricultural development site demonstrates rural farming initiatives established near the wetlands of the nearby lake ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        2.397201,
+                        7.191864
+                  ]
+            },
+            {
+                  "name": "Mini-Musée",
+                  "text": "A small, localized exhibition space holding traditional fishing implements and cultural artifacts from the lake district's communities.",
+                  "category": "museum",
+                  "coords": [
+                        2.468295,
+                        7.25408
+                  ]
+            },
+            {
+                  "name": "Site PADMAR de KPOTO AVOHONOU ZANGNANANDO",
+                  "text": "Set within the lush natural surroundings, this project site highlights modern agricultural practices integrated with local village life.",
+                  "category": "landmark",
+                  "coords": [
+                        2.434205,
+                        7.22739
+                  ]
+            },
+            {
+                  "name": "Palsi du Roi Yêto",
+                  "text": "A monumental structure honoring King Yêto, standing as a testament to the regional leadership that governed the fertile lakeside territories.",
+                  "category": "historical",
+                  "coords": [
+                        2.400389,
+                        7.226024
+                  ]
+            },
+            {
+                  "name": "Camp des Amazones",
+                  "text": "The scattered remains of this military camp outline where the elite female warriors of the kingdom once trained and stationed themselves.",
+                  "category": "historical",
+                  "coords": [
+                        2.391197,
+                        7.217821
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BJ-ZO",
     coords: [2.4333, 7.2333],

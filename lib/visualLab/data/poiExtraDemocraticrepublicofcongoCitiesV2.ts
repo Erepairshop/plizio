@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
   {
-    id: "cd-kenge-cities-v2",
+    id: "cd-kenge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pleureuse de Kenge",
+                  "text": "Das Denkmal der Weinenden von Kenge erinnert an die Opfer der historischen und verheerenden Schlacht von Kenge.",
+                  "category": "historical",
+                  "coords": [
+                        17.039484,
+                        -4.805015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pleureuse de Kenge",
+                  "text": "A kengei Sirató emlékmű a történelmi és pusztító kengei csata áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        17.039484,
+                        -4.805015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pleureuse de Kenge",
+                  "text": "Monumentul Plângătoarei din Kenge comemorează victimele bătăliei istorice și devastatoare de la Kenge.",
+                  "category": "historical",
+                  "coords": [
+                        17.039484,
+                        -4.805015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pleureuse de Kenge",
+                  "text": "The Weeping Woman of Kenge monument commemorates the victims of the historic and devastating Battle of Kenge.",
+                  "category": "historical",
+                  "coords": [
+                        17.039484,
+                        -4.805015
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-KH",
     coords: [17.0333, -4.8333],
@@ -45,7 +90,52 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       fr: ["Capitale de la province du Kwango.", "Située sur la route principale vers Kinshasa.", "Centre important pour le commerce agricole."],
     }, image: "/poi-images/cd-kenge-cities-v2.webp"},
   {
-    id: "cd-bandundu-cities-v2",
+    id: "cd-bandundu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la femme",
+                  "text": "Die Place de la femme ist ein den Frauen gewidmetes Denkmal in der Region Bandundu.",
+                  "category": "historical",
+                  "coords": [
+                        17.380798,
+                        -3.316987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la femme",
+                  "text": "A Place de la femme egy nőknek szentelt köztéri emlékmű Bandundu környékén.",
+                  "category": "historical",
+                  "coords": [
+                        17.380798,
+                        -3.316987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la femme",
+                  "text": "Place de la femme este un monument public dedicat femeilor, situat în zona Bandundu.",
+                  "category": "historical",
+                  "coords": [
+                        17.380798,
+                        -3.316987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la femme",
+                  "text": "Place de la femme is a public monument dedicated to women, located in the Bandundu area.",
+                  "category": "historical",
+                  "coords": [
+                        17.380798,
+                        -3.316987
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-KW",
     coords: [17.3833, -3.3167],

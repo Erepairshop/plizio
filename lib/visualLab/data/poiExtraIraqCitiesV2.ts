@@ -11883,7 +11883,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Minarett von Samarra",
-                  "text": "Malwiya ist eine bekannte archäologische Stätte in Samarra.",
+                  "text": "Der Malwiya, das 52 m hohe Spiralminarett der Großen Moschee von Samarra, ist UNESCO-Weltkulturerbe.",
                   "category": "historical",
                   "coords": [
                         43.879769,
@@ -11948,7 +11948,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Great Mosque of Samarra",
-                  "text": "A(z) Malwiya egy jelentős régészeti lelőhely Samarra városában.",
+                  "text": "A Malwiya, a szamarrai Nagymecset 52 méteres spirál alakú minaretje, az UNESCO világörökség része.",
                   "category": "historical",
                   "coords": [
                         43.879769,
@@ -12013,7 +12013,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Malwiya",
-                  "text": "Malwiya este un sit arheologic notabil situat în Samarra.",
+                  "text": "Malwiya, minaretul spiralat de 52 m al Marii Moschei din Samarra, face parte din Patrimoniul Mondial UNESCO.",
                   "category": "historical",
                   "coords": [
                         43.879769,
@@ -12078,7 +12078,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Malwiya",
-                  "text": "Malwiya is a notable archaeological site located in Samarra.",
+                  "text": "Malwiya, the 52 m high spiral minaret of the Great Mosque of Samarra, is a UNESCO World Heritage site.",
                   "category": "historical",
                   "coords": [
                         43.879769,

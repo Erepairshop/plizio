@@ -4179,7 +4179,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის ღვთისმშობლის შობის სახელობის საკათედრო ტაძარი",
-                  "text": "Die Poti Cathedral of the Nativity of the Virgin Mary ist eine Kultstätte in Poti.",
+                  "text": "Die 1907 fertiggestellte Kathedrale der Geburt der Jungfrau Maria in Poti wurde von A. Zelenko und M. Marfeld im neobyzantinischen Stil entworfen.",
                   "category": "religious",
                   "coords": [
                         41.674705,
@@ -4235,7 +4235,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის ღვთისმშობლის შობის სახელობის საკათედრო ტაძარი",
-                  "text": "A Poti Cathedral of the Nativity of the Virgin Mary egy istentiszteleti hely Poti városában.",
+                  "text": "Az 1907-ben elkészült Poti Szűz Mária Születése Székesegyházat A. Zelenko és M. Marfeld tervezte neobizánci stílusban.",
                   "category": "religious",
                   "coords": [
                         41.674705,
@@ -4291,7 +4291,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის ღვთისმშობლის შობის სახელობის საკათედრო ტაძარი",
-                  "text": "Poti Cathedral of the Nativity of the Virgin Mary este un lăcaș de cult situat în Poti.",
+                  "text": "Catedrala Nașterii Maicii Domnului din Poti, finalizată în 1907, a fost proiectată de A. Zelenko și M. Marfeld în stil neobizantin.",
                   "category": "religious",
                   "coords": [
                         41.674705,
@@ -4347,7 +4347,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "Poti Cathedral of the Nativity of the Virgin Mary",
-                  "text": "Poti Cathedral of the Nativity of the Virgin Mary is a place of worship located in Poti.",
+                  "text": "The Neo-Byzantine Cathedral of the Nativity of the Virgin Mary in Poti was completed in 1907, designed by A. Zelenko and M. Marfeld.",
                   "category": "religious",
                   "coords": [
                         41.674705,
@@ -8179,7 +8179,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
       "de": [
             {
                   "name": "აკაკი წერეთელის სახელობის სახელმწიფო თეატრი",
-                  "text": "Das Staatliche Akaki-Zereteli-Theater ist ein Theater in Tschiatura.",
+                  "text": "Das Akaki Tsereteli Staatstheater in Chiatura wurde 1949 erbaut und steht unter Denkmalschutz.",
                   "category": "cultural",
                   "coords": [
                         43.284964,
@@ -8244,7 +8244,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
       "hu": [
             {
                   "name": "აკაკი წერეთელის სახელობის სახელმწიფო თეატრი",
-                  "text": "Az Akaki Tsereteli Állami Színház egy színház Csiaturában.",
+                  "text": "A Chiatura-i Akaki Cereteli Állami Színház 1949-ben épült, és műemléki védettséget élvez.",
                   "category": "cultural",
                   "coords": [
                         43.284964,
@@ -8309,7 +8309,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
       "ro": [
             {
                   "name": "აკაკი წერეთელის სახელობის სახელმწიფო თეატრი",
-                  "text": "Teatrul de Stat Akaki Tsereteli este un teatru din Chiatura.",
+                  "text": "Teatrul de Stat Akaki Tsereteli din Chiatura, construit în 1949, este un monument istoric.",
                   "category": "cultural",
                   "coords": [
                         43.284964,
@@ -8374,7 +8374,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
       "en": [
             {
                   "name": "Akaki Tsereteli State Theatre",
-                  "text": "The Akaki Tsereteli State Theatre is a theatre in Tschiatura.",
+                  "text": "Akaki Tsereteli State Theatre in Chiatura, built in 1949, is a listed heritage building.",
                   "category": "cultural",
                   "coords": [
                         43.284964,
@@ -10501,7 +10501,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "სამთავროს სამაროვანი",
-                  "text": "Archäologische Stätte Samtavro-Nekropole in Mzcheta.",
+                  "text": "Die samthavro Nekropole in Mtskheta ist eine antike Begräbnisstätte nahe des Samthavro-Klosters und steht unter Denkmalschutz.",
                   "category": "historical",
                   "coords": [
                         44.719166,
@@ -10528,7 +10528,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "ჯვრის მონასტერი",
-                  "text": "Dschwari-Kloster in Mzcheta.",
+                  "text": "Das Jvari-Kloster in Mtskheta thront auf einem Hügel über der Stadt und stammt aus dem 6. Jahrhundert (UNESCO-Weltkulturerbe).",
                   "category": "landmark",
                   "coords": [
                         44.733547,
@@ -10537,7 +10537,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "არაგვის კარი",
-                  "text": "Ruinen des Aragwi-Tors in Mzcheta.",
+                  "text": "Das Aragvi-Tor in Mtskheta ist ein historisches Stadttor am Zusammenfluss von Aragvi und Mtkvari aus dem 18. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         44.719512,
@@ -10564,7 +10564,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Swetizchoweli-Kathedrale",
-                  "text": "Swetizchoweli-Kathedrale in Mzcheta.",
+                  "text": "Die Swetizchoweli-Kathedrale in Mtskheta, erbaut 1010, ist eine der ältesten Kirchen Georgiens und UNESCO-Weltkulturerbe.",
                   "category": "religious",
                   "coords": [
                         44.720987,
@@ -10573,7 +10573,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "მცხეთის ანტიოქია",
-                  "text": "Antiochia-Kirche in Mzcheta.",
+                  "text": "Die Antiochia-Kirche in Mtskheta ist eine mittelalterliche Kirche, die als Kulturdenkmal geschützt ist.",
                   "category": "religious",
                   "coords": [
                         44.724449,
@@ -10582,7 +10582,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "წმინდა ბარბარეს ეკლესია",
-                  "text": "Sankt-Barbare-Kirche in Mzcheta.",
+                  "text": "Die Sankt-Barbare-Kirche in Mtskheta ist eine kleine mittelalterliche Kirche auf einem Hügel, die unter Denkmalschutz steht.",
                   "category": "religious",
                   "coords": [
                         44.714151,
@@ -10611,7 +10611,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "სამთავროს სამაროვანი",
-                  "text": "Szamtavro nekropolisz régészeti lelőhely Mchetában.",
+                  "text": "A mtskhetai Szamthavro nekropolisz egy ókori temető a Szamthavro-kolostor közelében, műemléki védelem alatt.",
                   "category": "historical",
                   "coords": [
                         44.719166,
@@ -10638,7 +10638,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "ჯვრის მონასტერი",
-                  "text": "Dzsvari kolostor Mchetában.",
+                  "text": "A mtskhetai Dzsvari-kolostor a 6. században épült egy dombtetőn, a város fölé magasodva (UNESCO Világörökség).",
                   "category": "landmark",
                   "coords": [
                         44.733547,
@@ -10647,7 +10647,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "არაგვის კარი",
-                  "text": "Aragvi-kapu romjai Mchetában.",
+                  "text": "Az Aragvi-kapu Mtskhetában egy 18. századi városkapu az Aragvi és a Mtkvari folyók összefolyásánál.",
                   "category": "historical",
                   "coords": [
                         44.719512,
@@ -10674,7 +10674,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Szvetichoveli katedrális",
-                  "text": "Szvetichoveli-székesegyház Mchetában.",
+                  "text": "A mtskhetai Szvetichoveli-székesegyház 1010-ben épült, Grúzia egyik legrégebbi temploma, UNESCO Világörökség.",
                   "category": "religious",
                   "coords": [
                         44.720987,
@@ -10683,7 +10683,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "მცხეთის ანტიოქია",
-                  "text": "Antiochia-templom Mchetában.",
+                  "text": "Az antiochiai templom Mtskhetában egy középkori templom, műemlék.",
                   "category": "religious",
                   "coords": [
                         44.724449,
@@ -10692,7 +10692,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "წმინდა ბარბარეს ეკლესია",
-                  "text": "Szent Borbála-templom Mchetában.",
+                  "text": "A Szent Borbála-templom Mtskhetában egy kis középkori templom egy dombon, műemlék.",
                   "category": "religious",
                   "coords": [
                         44.714151,
@@ -10721,7 +10721,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "სამთავროს სამაროვანი",
-                  "text": "Sit arheologic Necropola Samtavro în Mtskheta.",
+                  "text": "Necropola Samtavro din Mtskheta este un cimitir antic lângă Mănăstirea Samtavro, monument istoric.",
                   "category": "historical",
                   "coords": [
                         44.719166,
@@ -10748,7 +10748,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "ჯვრის მონასტერი",
-                  "text": "Mănăstirea Jvari în Mtskheta.",
+                  "text": "Mănăstirea Jvari din Mtskheta, construită în secolul al VI-lea pe un deal deasupra orașului, este Patrimoniu UNESCO.",
                   "category": "landmark",
                   "coords": [
                         44.733547,
@@ -10757,7 +10757,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "არაგვის კარი",
-                  "text": "Ruinele Porții Aragvi în Mtskheta.",
+                  "text": "Poarta Aragvi din Mtskheta este o poartă istorică a orașului din secolul al XVIII-lea, la confluența râurilor Aragvi și Mtkvari.",
                   "category": "historical",
                   "coords": [
                         44.719512,
@@ -10784,7 +10784,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "სვეტიცხოვლის საკათდრო ტაძარი",
-                  "text": "Catedrala Svetitskhoveli în Mtskheta.",
+                  "text": "Catedrala Svetitskhoveli din Mtskheta, construită în 1010, este una dintre cele mai vechi biserici din Georgia, Patrimoniu UNESCO.",
                   "category": "religious",
                   "coords": [
                         44.720987,
@@ -10793,7 +10793,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "მცხეთის ანტიოქია",
-                  "text": "Biserica Antiochia în Mtskheta.",
+                  "text": "Biserica Antiohia din Mtskheta este o biserică medievală, monument istoric.",
                   "category": "religious",
                   "coords": [
                         44.724449,
@@ -10802,7 +10802,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "წმინდა ბარბარეს ეკლესია",
-                  "text": "Biserica Sfânta Varvara în Mtskheta.",
+                  "text": "Biserica Sfânta Barbara din Mtskheta este o mică biserică medievală pe un deal, monument istoric.",
                   "category": "religious",
                   "coords": [
                         44.714151,
@@ -10831,7 +10831,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Samtavro Necropolis",
-                  "text": "Samtavro Necropolis archaeological site in Mtskheta.",
+                  "text": "Samtavro Necropolis in Mtskheta is an ancient burial ground near Samtavro Monastery, a listed heritage site.",
                   "category": "historical",
                   "coords": [
                         44.719166,
@@ -10858,7 +10858,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Jvari Monastery",
-                  "text": "Jvari Monastery in Mtskheta.",
+                  "text": "Jvari Monastery in Mtskheta, built in the 6th century on a hilltop overlooking the town, is a UNESCO World Heritage site.",
                   "category": "landmark",
                   "coords": [
                         44.733547,
@@ -10867,7 +10867,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Aragvi Gate",
-                  "text": "Ruins of Aragvi Gate in Mtskheta.",
+                  "text": "Aragvi Gate in Mtskheta is an 18th-century city gate at the confluence of the Aragvi and Mtkvari rivers.",
                   "category": "historical",
                   "coords": [
                         44.719512,
@@ -10894,7 +10894,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Svetitskhoveli Cathedral",
-                  "text": "Svetitskhoveli Cathedral in Mtskheta.",
+                  "text": "Svetitskhoveli Cathedral in Mtskheta, built in 1010, is one of Georgia's oldest churches and a UNESCO World Heritage site.",
                   "category": "religious",
                   "coords": [
                         44.720987,
@@ -10903,7 +10903,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Antiochia Church",
-                  "text": "Antiochia Church in Mtskheta.",
+                  "text": "Antiochia Church in Mtskheta is a medieval church, a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         44.724449,
@@ -10912,7 +10912,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Church of Saint Barbare",
-                  "text": "Church of Saint Barbare in Mtskheta.",
+                  "text": "Church of Saint Barbare in Mtskheta is a small medieval church on a hillside, a listed heritage building.",
                   "category": "religious",
                   "coords": [
                         44.714151,

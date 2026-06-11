@@ -207,7 +207,52 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "biblioteca-nacional-st-landmarks-v2",
+    id: "biblioteca-nacional-st-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antigo Forte",
+                  "text": "Das Antigo Forte besteht aus den verfallenen Steinruinen einer historischen defensiven Küstenbefestigung auf der Insel São Tomé.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antigo Forte",
+                  "text": "Az Antigo Forte egy történelmi védelmi part menti erődítmény omladozó kőromjaiból áll São Tomé szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antigo Forte",
+                  "text": "Antigo Forte este format din ruinele de piatră ale unei fortificații defensive de coastă istorice pe insula São Tomé.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antigo Forte",
+                  "text": "The Antigo Forte consists of the crumbling stone ruins of a historic defensive coastal fortification on the island of São Tomé.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ST-01",
     coords: [6.733, 0.334],
@@ -479,7 +524,52 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "praca-independencia-st-landmarks-v2",
+    id: "praca-independencia-st-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Die 1534 ursprünglich gegründete Kathedrale Unserer Lieben Frau der Gnade ist eines der ältesten katholischen Gotteshäuser in Subsahara-Afrika.",
+                  "category": "religious",
+                  "coords": [
+                        6.732676,
+                        0.338352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Az eredetileg 1534-ben alapított Kegyelmes Miasszonyunk Katedrális az egyik legrégebbi katolikus istentiszteleti hely Fekete-Afrikában.",
+                  "category": "religious",
+                  "coords": [
+                        6.732676,
+                        0.338352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Fondată inițial în 1534, Catedrala Maicii Domnului a Harului este unul dintre cele mai vechi lăcașuri de cult catolice din Africa Subsahariană.",
+                  "category": "religious",
+                  "coords": [
+                        6.732676,
+                        0.338352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Lady of Grace Cathedral",
+                  "text": "Originally established in 1534, Our Lady of Grace Cathedral is one of the oldest Catholic places of worship in sub-Saharan Africa.",
+                  "category": "religious",
+                  "coords": [
+                        6.732676,
+                        0.338352
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ST-01",
     coords: [6.733, 0.338],
@@ -1159,7 +1249,52 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "farol-lagoa-azul-landmarks-v2",
+    id: "farol-lagoa-azul-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Praia das Conchas ist ein malerischer tropischer Strand in der Nähe der Lagoa Azul, benannt nach den zahlreichen Muscheln an seinen sandigen Ufern.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621686,
+                        0.406812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia das Conchas",
+                  "text": "A Praia das Conchas egy festői trópusi strand a Lagoa Azul közelében, amely a homokos partjain található bőséges kagylókról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621686,
+                        0.406812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Praia das Conchas este o plajă tropicală pitorească lângă Lagoa Azul, numită după scoicile abundente găsite de-a lungul țărmurilor sale nisipoase.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621686,
+                        0.406812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Praia das Conchas is a scenic tropical beach near the Lagoa Azul, named for the abundant shells found along its sandy shores.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621686,
+                        0.406812
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ST-05",
     coords: [6.611, 0.410],

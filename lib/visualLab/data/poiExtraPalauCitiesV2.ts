@@ -574,7 +574,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem ist ein historisch bedeutsames Denkmal in Ngerulmud.",
+                  "text": "Prähistorische Steinplattform und Monolithen in Ngerulmud, denkmalgeschützt.",
                   "category": "historical",
                   "coords": [
                         134.636194,
@@ -603,7 +603,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "A Meteu 'L Klechem egy történelmi jelentőségű emlékmű Ngerulmud városában.",
+                  "text": "Őskori kőplatform és monolitok Ngerulmudban, műemlék.",
                   "category": "historical",
                   "coords": [
                         134.636194,
@@ -632,7 +632,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem este un monument de importanță istorică din Ngerulmud.",
+                  "text": "Platformă de piatră preistorică și monoliți în Ngerulmud, monument istoric.",
                   "category": "historical",
                   "coords": [
                         134.636194,
@@ -661,7 +661,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem is a historically significant monument located in Ngerulmud.",
+                  "text": "Prehistoric stone platform and monoliths in Ngerulmud, a listed heritage site.",
                   "category": "historical",
                   "coords": [
                         134.636194,
@@ -1384,7 +1384,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem ist ein bekanntes Steindenkmal in Melekeok.",
+                  "text": "Prähistorische Steinplattform und Monolithen in Melekeok, denkmalgeschützt.",
                   "category": "historical",
                   "coords": [
                         134.636194,
@@ -1413,7 +1413,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "A Meteu 'L Klechem egy híres kőemlékmű Melekeok városában.",
+                  "text": "Őskori kőplatform és monolitok Melekeokban, műemlék.",
                   "category": "historical",
                   "coords": [
                         134.636194,
@@ -1442,7 +1442,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem este un monument de piatră notabil situat în Melekeok.",
+                  "text": "Platformă de piatră preistorică și monoliți în Melekeok, monument istoric.",
                   "category": "historical",
                   "coords": [
                         134.636194,
@@ -1471,7 +1471,7 @@ export const palauCitiesV2: POI[] = [
             },
             {
                   "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem is a notable stone monument located in Melekeok.",
+                  "text": "Prehistoric stone platform and monoliths in Melekeok, a listed heritage site.",
                   "category": "historical",
                   "coords": [
                         134.636194,

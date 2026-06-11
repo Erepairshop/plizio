@@ -147,7 +147,88 @@ export const poiExtraComorosLifeV2: POI[] = [
     },
   },
   {
-    id: "gewuerzgarten-moroni-life-v2",
+    id: "gewuerzgarten-moroni-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Bangwé Boustoine ist ein traditioneller öffentlicher Platz und ein kulturelles Kunstzentrum in Moroni, an dem sich die örtliche Gemeinde für Zeremonien und Geschichtenerzählen versammelt.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26538,
+                        -11.733251
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Das Centre Barakat dient als lebendiger Knotenpunkt für zeitgenössische Kunst und Kulturworkshops im Bezirk Moroni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "A Bangwé Boustoine egy hagyományos köztér és kulturális művészeti központ Moroniban, ahol a helyi közösség szertartásokra és történetmesélésre gyűlik össze.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26538,
+                        -11.733251
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "A Centre Barakat a kortárs művészetek és kulturális műhelyek élénk központjaként működik Moroni kerületében.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Bangwé Boustoine este o piață publică tradițională și un centru de arte culturale din Moroni, unde comunitatea locală se adună pentru ceremonii și povești.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26538,
+                        -11.733251
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Centrul Barakat servește drept un centru plin de viață pentru artele contemporane și atelierele culturale din districtul Moroni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Bangwé Boustoine is a traditional public square and cultural arts center in Moroni where the local community gathers for ceremonies and storytelling.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26538,
+                        -11.733251
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "The Centre Barakat serves as a lively hub for contemporary arts and cultural workshops within the Moroni district.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KM-G",
     coords: [43.26, -11.72],
@@ -435,7 +516,52 @@ export const poiExtraComorosLifeV2: POI[] = [
     },
   },
   {
-    id: "zuckerrohrfelder-pomoni-life-v2",
+    id: "zuckerrohrfelder-pomoni-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Vouani",
+                  "text": "Plage de Vouani ist ein tropischer Sandstrand, der von üppiger Küstenvegetation gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        44.372007,
+                        -12.248817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Vouani",
+                  "text": "A Plage de Vouani egy trópusi homokos partvonal, amelyet buja parti növényzet övez.",
+                  "category": "recreational",
+                  "coords": [
+                        44.372007,
+                        -12.248817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Vouani",
+                  "text": "Plage de Vouani este o linie de coastă tropicală cu nisip, mărginită de o vegetație bogată.",
+                  "category": "recreational",
+                  "coords": [
+                        44.372007,
+                        -12.248817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Vouani",
+                  "text": "Plage de Vouani is a tropical sandy shoreline backed by lush coastal vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        44.372007,
+                        -12.248817
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KM-A",
     coords: [44.41, -12.28],
@@ -867,7 +993,52 @@ export const poiExtraComorosLifeV2: POI[] = [
     },
   },
   {
-    id: "naturlehrpfad-karthala-life-v2",
+    id: "naturlehrpfad-karthala-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fin de la route 4x4 (1580 m)",
+                  "text": "Die hochgelegene Endstation für Geländewagen auf 1580 Metern am zerklüfteten Karthala-Vulkan.",
+                  "category": "landmark",
+                  "coords": [
+                        43.328715,
+                        -11.73495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fin de la route 4x4 (1580 m)",
+                  "text": "A terepjárók végállomása 1580 méteres magasságban a zord Karthala vulkánon.",
+                  "category": "landmark",
+                  "coords": [
+                        43.328715,
+                        -11.73495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fin de la route 4x4 (1580 m)",
+                  "text": "Terminusul rutier la altitudinea de 1580 de metri pe vulcanul accidentat Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.328715,
+                        -11.73495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "End of the 4x4 road (1580 m)",
+                  "text": "The high-altitude vehicular terminus at 1580 meters on the rugged Karthala volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        43.328715,
+                        -11.73495
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KM-G",
     coords: [43.32, -11.72],
@@ -915,7 +1086,52 @@ export const poiExtraComorosLifeV2: POI[] = [
     },
   },
   {
-    id: "botanischer-garten-mvouni-life-v2",
+    id: "botanischer-garten-mvouni-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Der Ausgangspunkt auf 380 Metern Höhe, der die vulkanischen Hänge des Berges Karthala hinaufführt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "A Karthala vulkán lejtőire vezető útvonal kezdőpontja 380 méteres magasságban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Punctul de plecare la 380 de metri altitudine care duce pe pantele vulcanice ale Muntelui Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Starting Point Road to Karthala (380 m)",
+                  "text": "The trailhead at 380 meters elevation leading up the volcanic slopes of Mount Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KM-G",
     coords: [43.27, -11.71],

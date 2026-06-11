@@ -195,7 +195,52 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     }
   },
   {
-    id: "garten-bom-successo-life-v2",
+    id: "garten-bom-successo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der Botanische Garten von Bom Sucesso zeigt eine reiche Sammlung endemischer tropischer Pflanzen aus den Regenwäldern der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardim Botânico",
+                  "text": "A Bom Sucesso Botanikus Kert a sziget esőerdeinek endemikus trópusi növényeinek gazdag gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardim Botânico",
+                  "text": "Grădina Botanică Bom Sucesso prezintă o colecție bogată de plante tropicale endemice din pădurile tropicale ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Botanical Garden of Bom Sucesso features a rich collection of endemic tropical plants from the island's rainforests.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ST-06",
     coords: [6.62, 0.28],
@@ -451,7 +496,88 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     }
   },
   {
-    id: "schildkroeten-morro-peixe-life-v2",
+    id: "schildkroeten-morro-peixe-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló ist ein sandiger Küstenstrand bei Morro Peixe, der malerische Ausblicke auf den Atlantik bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.691887,
+                        0.399462
+                  ]
+            },
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro ist ein tropischer Sandstrand an der malerischen Küste bei Morro Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665789,
+                        0.41112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "A Praia Micoló egy homokos tengerparti strand Morro Peixe közelében, festői kilátással az Atlanti-óceán vizeire.",
+                  "category": "recreational",
+                  "coords": [
+                        6.691887,
+                        0.399462
+                  ]
+            },
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "A Praia do Governadoro egy trópusi homokos strand a festői tengerpart mentén, Morro Peixe közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665789,
+                        0.41112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló este o plajă de coastă nisipoasă lângă Morro Peixe, oferind vederi pitorești la apele Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        6.691887,
+                        0.399462
+                  ]
+            },
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro este o plajă tropicală cu nisip, situată de-a lungul coastei pitorești din apropiere de Morro Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665789,
+                        0.41112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló is a sandy coastal beach near Morro Peixe, offering scenic views of the Atlantic waters.",
+                  "category": "recreational",
+                  "coords": [
+                        6.691887,
+                        0.399462
+                  ]
+            },
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro is a tropical sandy beach situated along the picturesque coastline near Morro Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665789,
+                        0.41112
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ST-05",
     coords: [6.68, 0.4],
@@ -899,7 +1025,52 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     }
   },
   {
-    id: "orchideengarten-cantagalo-life-v2",
+    id: "orchideengarten-cantagalo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Sete Ondas",
+                  "text": "Der Aussichtspunkt Praia Sete Ondas bietet erhöhte Küstenpanoramen über die berühmten, rollenden Wellen des darunterliegenden Strandes.",
+                  "category": "natural",
+                  "coords": [
+                        6.707007,
+                        0.202307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Sete Ondas",
+                  "text": "A Praia Sete Ondas kilátópont magaslati parti panorámát kínál a lenti strand híresen hullámzó vizére.",
+                  "category": "natural",
+                  "coords": [
+                        6.707007,
+                        0.202307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Sete Ondas",
+                  "text": "Punctul de belvedere Praia Sete Ondas oferă panorame de coastă ridicate asupra valurilor celebre ale plajei de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        6.707007,
+                        0.202307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Sete Ondas",
+                  "text": "Praia Sete Ondas viewpoint offers elevated coastal panoramas over the famously rolling waves of the beach below.",
+                  "category": "natural",
+                  "coords": [
+                        6.707007,
+                        0.202307
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ST-02",
     coords: [6.7, 0.2],

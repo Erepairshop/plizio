@@ -85,7 +85,124 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-namib-animal-habitat-life-v2.webp"},
   {
-    id: "namibia-waterberg-animal-habitat-life-v2",
+    id: "namibia-waterberg-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalahari viewpoint",
+                  "text": "Dieser Aussichtspunkt am erhöhten Rand des Waterberg-Plateaus bietet weite Panoramablicke über den scheinbar endlosen roten Sand des darunter liegenden Kalahari-Beckens.",
+                  "category": "natural",
+                  "coords": [
+                        17.291836,
+                        -20.490247
+                  ]
+            },
+            {
+                  "name": "Mission",
+                  "text": "Die bröckelnden Steinfundamente dieser alten Rheinischen Missionsstation am Waterberg erinnern historisch an die Konflikte der Kolonialzeit, insbesondere an die Schlacht am Waterberg 1904.",
+                  "category": "historical",
+                  "coords": [
+                        17.241515,
+                        -20.512593
+                  ]
+            },
+            {
+                  "name": "Waterberg Plateau Viewpoint",
+                  "text": "Dieser dramatische Aussichtspunkt auf der Sandsteinmauer, der über einen steilen Wanderweg zu erreichen ist, offenbart die dichte, ökologisch unterschiedliche Vegetation, die die seltenen Tierlebensräume des Plateaus schützt.",
+                  "category": "natural",
+                  "coords": [
+                        17.241205,
+                        -20.504611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalahari viewpoint",
+                  "text": "A Waterberg-fennsík magasított szélén található kilátópont hatalmas, lenyűgöző panorámát nyújt az alatta elterülő Kalahári-medence végtelennek tűnő vörös homokjára.",
+                  "category": "natural",
+                  "coords": [
+                        17.291836,
+                        -20.490247
+                  ]
+            },
+            {
+                  "name": "Mission",
+                  "text": "Ennek a régi Rajnai missziós állomásnak az omladozó kőalapjai a Waterbergben a gyarmati korszak konfliktusainak, különösen az 1904-es waterbergi csatának állítanak történelmi emléket.",
+                  "category": "historical",
+                  "coords": [
+                        17.241515,
+                        -20.512593
+                  ]
+            },
+            {
+                  "name": "Waterberg Plateau Viewpoint",
+                  "text": "Egy meredek túraösvényen megközelíthető, drámai homokkő lejtőn található kilátópont feltárja a sűrű, ökológiailag elkülönülő növényzetet, amely a fennsík ritka állatainak élőhelyeit védi.",
+                  "category": "natural",
+                  "coords": [
+                        17.241205,
+                        -20.504611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalahari viewpoint",
+                  "text": "Cocoțat pe marginea înaltă a Platoului Waterberg, acest punct de belvedere oferă panorame ample și extinse peste nisipurile roșii aparent nesfârșite ale Bazinului Kalahari de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        17.291836,
+                        -20.490247
+                  ]
+            },
+            {
+                  "name": "Mission",
+                  "text": "Fundațiile de piatră sfărâmicioase ale acestei vechi stații de misiune renane din Waterberg stau ca o reamintire istorică a conflictelor din era colonială, în special a Bătăliei de la Waterberg din 1904.",
+                  "category": "historical",
+                  "coords": [
+                        17.241515,
+                        -20.512593
+                  ]
+            },
+            {
+                  "name": "Waterberg Plateau Viewpoint",
+                  "text": "Accesibil printr-un traseu de drumeție abrupt, acest punct de belvedere dramatic pe un versant de gresie dezvăluie vegetația densă și ecologic distinctă care protejează habitatele rare de animale ale platoului.",
+                  "category": "natural",
+                  "coords": [
+                        17.241205,
+                        -20.504611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalahari viewpoint",
+                  "text": "Perched on the elevated edge of the Waterberg Plateau, this viewpoint provides expansive, sweeping panoramas over the seemingly endless red sands of the Kalahari Basin below.",
+                  "category": "natural",
+                  "coords": [
+                        17.291836,
+                        -20.490247
+                  ]
+            },
+            {
+                  "name": "Mission",
+                  "text": "The crumbling stone foundations of this old Rhenish mission station at Waterberg stand as a historical reminder of the colonial-era conflicts, notably the 1904 Battle of Waterberg.",
+                  "category": "historical",
+                  "coords": [
+                        17.241515,
+                        -20.512593
+                  ]
+            },
+            {
+                  "name": "Waterberg Plateau Viewpoint",
+                  "text": "Reached by a steep hiking trail, this dramatic sandstone escarpment viewpoint reveals the dense, ecologically distinct vegetation protecting the plateau's rare animal habitats.",
+                  "category": "natural",
+                  "coords": [
+                        17.241205,
+                        -20.504611
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NA-OH",
     coords: [17.25, -20.50],
@@ -208,7 +325,88 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-hardap-agriculture-life-v2.webp"},
   {
-    id: "namibia-tsumeb-agriculture-life-v2",
+    id: "namibia-tsumeb-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Barbara",
+                  "text": "Die katholische Kirche St. Barbara ist ein markantes Gotteshaus in Tsumeb, das sich durch einen markanten zentralen Turm auszeichnet und der Schutzpatronin der Bergleute gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.716893,
+                        -19.244582
+                  ]
+            },
+            {
+                  "name": "Tsumeb Museum",
+                  "text": "Das Tsumeb Museum zeigt neben lokalhistorischen Exponaten eine erstklassige Sammlung seltener Mineralien, die aus der nahe gelegenen berühmten Tsumeb-Mine stammen.",
+                  "category": "museum",
+                  "coords": [
+                        17.718102,
+                        -19.245124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Barbara",
+                  "text": "A Szent Borbála katolikus templom egy ikonikus istentiszteleti hely Tsumebben, amely különálló központi toronnyal rendelkezik, és a bányászok védőszentjének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        17.716893,
+                        -19.244582
+                  ]
+            },
+            {
+                  "name": "Tsumeb Museum",
+                  "text": "A Tsumeb Múzeum a közeli, híres Tsumeb-bányából származó ritka ásványok világszínvonalú gyűjteményét mutatja be a helytörténeti kiállítások mellett.",
+                  "category": "museum",
+                  "coords": [
+                        17.718102,
+                        -19.245124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Barbara",
+                  "text": "Biserica Catolică Sfânta Barbara este un lăcaș de cult emblematic din Tsumeb, prezentând un turn central distinct și fiind dedicată patronului spiritual al minerilor.",
+                  "category": "religious",
+                  "coords": [
+                        17.716893,
+                        -19.244582
+                  ]
+            },
+            {
+                  "name": "Tsumeb Museum",
+                  "text": "Muzeul Tsumeb expune o colecție de clasă mondială de minerale rare extrase din renumita mină Tsumeb din apropiere, alături de exponate de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        17.718102,
+                        -19.245124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Barbara",
+                  "text": "St. Barbara Catholic Church is an iconic place of worship in Tsumeb, featuring a distinct central tower and dedicated to the patron saint of miners.",
+                  "category": "religious",
+                  "coords": [
+                        17.716893,
+                        -19.244582
+                  ]
+            },
+            {
+                  "name": "Tsumeb Museum",
+                  "text": "The Tsumeb Museum displays a world-class collection of rare minerals extracted from the nearby renowned Tsumeb Mine, alongside local history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        17.718102,
+                        -19.245124
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NA-OS",
     coords: [17.72, -19.23],
@@ -249,7 +447,88 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-tsumeb-agriculture-life-v2.webp"},
   {
-    id: "namibia-gobabis-agriculture-life-v2",
+    id: "namibia-gobabis-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cattle Country Statue",
+                  "text": "Diese imposante Statue in Gobabis ist eine Hommage an die landwirtschaftlichen Wurzeln der Region als „Hauptstadt des Rinderlandes“ im Osten Namibias.",
+                  "category": "historical",
+                  "coords": [
+                        18.967082,
+                        -22.44808
+                  ]
+            },
+            {
+                  "name": "Gobabis Museum",
+                  "text": "Das Gobabis Museum ist eine regionale Geschichtssammlung, die sich der Bewahrung der Pioniervergangenheit und des kulturellen Erbes der Omaheke-Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.975241,
+                        -22.462796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cattle Country Statue",
+                  "text": "Ez a lenyűgöző gobabisi szobor a régió mezőgazdasági gyökerei előtt tiszteleg, mint Kelet-Namíbia „Szarvasmarha-országának fővárosa”.",
+                  "category": "historical",
+                  "coords": [
+                        18.967082,
+                        -22.44808
+                  ]
+            },
+            {
+                  "name": "Gobabis Museum",
+                  "text": "A Gobabis Múzeum a régió történetének tára, amelyet az Omaheke régió úttörő múltjának és kulturális örökségének megőrzésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        18.975241,
+                        -22.462796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cattle Country Statue",
+                  "text": "Această statuie impunătoare din Gobabis aduce un omagiu rădăcinilor agricole ale regiunii în calitate de „Capitală a Țării Vitelor” din estul Namibiei.",
+                  "category": "historical",
+                  "coords": [
+                        18.967082,
+                        -22.44808
+                  ]
+            },
+            {
+                  "name": "Gobabis Museum",
+                  "text": "Muzeul Gobabis este un depozit de istorie regională dedicat conservării trecutului de pionierat și a patrimoniului cultural din regiunea Omaheke.",
+                  "category": "museum",
+                  "coords": [
+                        18.975241,
+                        -22.462796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cattle Country Statue",
+                  "text": "This imposing statue in Gobabis pays homage to the region's agricultural roots as the \"Capital of Cattle Country\" in eastern Namibia.",
+                  "category": "historical",
+                  "coords": [
+                        18.967082,
+                        -22.44808
+                  ]
+            },
+            {
+                  "name": "Gobabis Museum",
+                  "text": "The Gobabis Museum is a regional history repository dedicated to preserving the pioneer past and cultural heritage of the Omaheke region.",
+                  "category": "museum",
+                  "coords": [
+                        18.975241,
+                        -22.462796
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NA-OH",
     coords: [19.00, -22.45],
@@ -290,7 +569,88 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-gobabis-agriculture-life-v2.webp"},
   {
-    id: "namibia-windhoek-kid-landmark-life-v2",
+    id: "namibia-windhoek-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "TransNamib Eisenbahnmuseum",
+                  "text": "Dieses in dem historischen Bahnhofsgebäude von Windhoek untergebrachte Museum zeigt die faszinierende Geschichte der namibischen Eisenbahn.",
+                  "category": "museum",
+                  "coords": [
+                        17.081308,
+                        -22.559348
+                  ]
+            },
+            {
+                  "name": "Dorado Viewpoint",
+                  "text": "Dieser im Gebiet des Dorado Park gelegene Aussichtspunkt bietet weite Panoramablicke über die Stadt und die umliegende raue Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.06214,
+                        -22.568229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TransNamib Railway Museum",
+                  "text": "A történelmi windhoeki vasútállomáson található múzeum a namíbiai vasút fejlődésének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.081308,
+                        -22.559348
+                  ]
+            },
+            {
+                  "name": "Dorado Viewpoint",
+                  "text": "A Dorado Park területén található kilátópontról széles panorámás kilátás nyílik a városra és az azt körülvevő vadregényes tájra.",
+                  "category": "natural",
+                  "coords": [
+                        17.06214,
+                        -22.568229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TransNamib Railway Museum",
+                  "text": "Găzduit în clădirea istorică a gării din Windhoek, acest muzeu expune istoria fascinantă a căilor ferate namibiene.",
+                  "category": "museum",
+                  "coords": [
+                        17.081308,
+                        -22.559348
+                  ]
+            },
+            {
+                  "name": "Dorado Viewpoint",
+                  "text": "Situat în zona Dorado Park, acest punct de belvedere oferă perspective panoramice ample asupra orașului și a peisajului accidentat din jur.",
+                  "category": "natural",
+                  "coords": [
+                        17.06214,
+                        -22.568229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TransNamib Railway Museum",
+                  "text": "Located in the historic Windhoek railway station, this museum exhibits the fascinating history of Namibian railways.",
+                  "category": "museum",
+                  "coords": [
+                        17.081308,
+                        -22.559348
+                  ]
+            },
+            {
+                  "name": "Dorado Viewpoint",
+                  "text": "Situated in the Dorado Park area, this viewpoint offers sweeping panoramic perspectives over the city and the surrounding rugged landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.06214,
+                        -22.568229
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NA-KH",
     coords: [17.08, -22.56],
@@ -331,7 +691,124 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-windhoek-kid-landmark-life-v2.webp"},
   {
-    id: "namibia-swakopmund-kid-landmark-life-v2",
+    id: "namibia-swakopmund-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Der Sunset Viewpoint bietet abends eine dramatische Sicht auf die tiefstehende Sonne über dem Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "Otavi Bahnhof",
+                  "text": "Der historische Otavi Bahnhof wurde ursprünglich für die Schmalspurbahn zur Otavi-Kupfermine erbaut.",
+                  "category": "museum",
+                  "coords": [
+                        14.531633,
+                        -22.677956
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "Desert Explorers organisiert Abenteuerfahrten und Sandboarding in den goldenen Dünen rund um Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "A Sunset kilátó esténként drámai látványt nyújt az óceán felett lemenő napra.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "Otavi Bahnhof",
+                  "text": "A történelmi Otavi pályaudvart eredetileg az otavi rézbányához vezető keskeny nyomtávú vasúthoz építették.",
+                  "category": "museum",
+                  "coords": [
+                        14.531633,
+                        -22.677956
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "A Desert Explorers kalandtúrákat és homokdeszkázást szervez a Swakopmund körüli arany dűnékben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Punctul de belvedere Sunset oferă o priveliște dramatică a apusului de soare peste ocean.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "Otavi Bahnhof",
+                  "text": "Gara istorică Otavi a fost construită inițial pentru calea ferată cu ecartament îngust către mina de cupru Otavi.",
+                  "category": "museum",
+                  "coords": [
+                        14.531633,
+                        -22.677956
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "Desert Explorers organizează tururi de aventură și sandboarding în dunele aurii din jurul orașului Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Sunset Viewpoint provides a dramatic vantage point for watching the sun sink below the ocean horizon.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "Otavi Bahnhof",
+                  "text": "The historic Otavi Bahnhof was originally built to serve the narrow-gauge railway leading to the Otavi copper mine.",
+                  "category": "museum",
+                  "coords": [
+                        14.531633,
+                        -22.677956
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "Desert Explorers organizes adventure tours and sandboarding trips into the golden dunes surrounding Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NA-ER",
     coords: [14.53, -22.68],
@@ -372,7 +849,88 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-swakopmund-kid-landmark-life-v2.webp"},
   {
-    id: "namibia-okahandja-kid-landmark-life-v2",
+    id: "namibia-okahandja-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Okahandja view",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Panoramablick über die historische Stadt Okahandja und die sie umgebende Savanne.",
+                  "category": "natural",
+                  "coords": [
+                        16.948482,
+                        -21.97938
+                  ]
+            },
+            {
+                  "name": "Von Bach Recreation Resort",
+                  "text": "Dieses Erholungsgebiet rund um den Von-Bach-Damm ist ein beliebtes Naturreservat für Wassersport und Angler.",
+                  "category": "natural",
+                  "coords": [
+                        16.974345,
+                        -22.003487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Okahandja view",
+                  "text": "Ez a magaslati kilátópont széles, panorámás kilátást nyújt Okahandja történelmi városára és a környező szavannára.",
+                  "category": "natural",
+                  "coords": [
+                        16.948482,
+                        -21.97938
+                  ]
+            },
+            {
+                  "name": "Von Bach Recreation Resort",
+                  "text": "A Von Bach-gát köré épült üdülőközpont egy népszerű természetvédelmi terület a vízi sportok szerelmesei és a horgászok körében.",
+                  "category": "natural",
+                  "coords": [
+                        16.974345,
+                        -22.003487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Okahandja view",
+                  "text": "Acest punct de belvedere la înălțime oferă vederi panoramice ample asupra orașului istoric Okahandja și a savanei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        16.948482,
+                        -21.97938
+                  ]
+            },
+            {
+                  "name": "Von Bach Recreation Resort",
+                  "text": "Această stațiune de recreere centrată în jurul barajului Von Bach este o rezervație naturală populară pentru sporturi nautice și pescari.",
+                  "category": "natural",
+                  "coords": [
+                        16.974345,
+                        -22.003487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Okahandja view",
+                  "text": "This elevated vantage point provides sweeping panoramic views over the historic town of Okahandja and its surrounding dry savanna.",
+                  "category": "natural",
+                  "coords": [
+                        16.948482,
+                        -21.97938
+                  ]
+            },
+            {
+                  "name": "Von Bach Recreation Resort",
+                  "text": "Centered around the large Von Bach Dam, this recreation resort is a highly popular nature reserve for water sports and angling.",
+                  "category": "natural",
+                  "coords": [
+                        16.974345,
+                        -22.003487
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NA-OH",
     coords: [16.92, -21.98],
@@ -454,7 +1012,160 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-bwabwata-animal-habitat-life-v2.webp"},
   {
-    id: "namibia-mudumu-animal-habitat-life-v2",
+    id: "namibia-mudumu-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buffalo Trail",
+                  "text": "Dieser Wildbeobachtungspfad schlängelt sich durch die Savanne und die Wälder des Mudumu-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        23.396353,
+                        -18.168134
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "Von diesem malerischen Aussichtspunkt in Mudumu können Besucher Flusspferde beobachten, die sich im Flusswasser versammeln.",
+                  "category": "natural",
+                  "coords": [
+                        23.377366,
+                        -18.117707
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "Dieses natürliche Wasserloch in Mudumu zieht während der Trockenzeit verschiedene Wildtierarten zum Trinken an.",
+                  "category": "natural",
+                  "coords": [
+                        23.358444,
+                        -18.092897
+                  ]
+            },
+            {
+                  "name": "uitkijkhutje",
+                  "text": "Dieses getarnte Beobachtungsversteck bietet einen geschützten Ort zum Fotografieren von Tieren in Mudumu.",
+                  "category": "natural",
+                  "coords": [
+                        23.446027,
+                        -18.175596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buffalo Trail",
+                  "text": "Ez a vadon élő állatok megfigyelésére alkalmas ösvény a Mudumu Nemzeti Park szavannáin és erdein kanyarog keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        23.396353,
+                        -18.168134
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "Ebből a festői mudumui kilátóból a látogatók a folyó vizében gyülekező vízilovakat figyelhetik meg.",
+                  "category": "natural",
+                  "coords": [
+                        23.377366,
+                        -18.117707
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "Ez a természetes mudumui itató számos vadon élő állatfajt vonz, amelyek a száraz évszakban inni jönnek ide.",
+                  "category": "natural",
+                  "coords": [
+                        23.358444,
+                        -18.092897
+                  ]
+            },
+            {
+                  "name": "uitkijkhutje",
+                  "text": "Ez az álcázott megfigyelőkunyhó védett helyet biztosít az állatok fotózásához Mudumuban.",
+                  "category": "natural",
+                  "coords": [
+                        23.446027,
+                        -18.175596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buffalo Trail",
+                  "text": "Acest traseu de observare a vieții sălbatice șerpuiește prin savana și pădurile Parcului Național Mudumu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.396353,
+                        -18.168134
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "De la acest punct de belvedere pitoresc din Mudumu, vizitatorii pot observa hipopotamii care se adună în apele râului.",
+                  "category": "natural",
+                  "coords": [
+                        23.377366,
+                        -18.117707
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "Această fântână naturală din Mudumu atrage diverse specii de animale sălbatice care vin să bea în timpul sezonului uscat.",
+                  "category": "natural",
+                  "coords": [
+                        23.358444,
+                        -18.092897
+                  ]
+            },
+            {
+                  "name": "uitkijkhutje",
+                  "text": "Această ascunzătoare de observare camuflată oferă un loc adăpostit pentru fotografierea animalelor în Mudumu.",
+                  "category": "natural",
+                  "coords": [
+                        23.446027,
+                        -18.175596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buffalo Trail",
+                  "text": "This wildlife viewing trail winds through the savanna and woodlands of Mudumu National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.396353,
+                        -18.168134
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "From this scenic viewpoint in Mudumu, visitors can observe hippos congregating in the river waters.",
+                  "category": "natural",
+                  "coords": [
+                        23.377366,
+                        -18.117707
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "This natural waterhole in Mudumu attracts various wildlife species coming to drink during the dry season.",
+                  "category": "natural",
+                  "coords": [
+                        23.358444,
+                        -18.092897
+                  ]
+            },
+            {
+                  "name": "Hide",
+                  "text": "This camouflaged observation hide provides a sheltered spot for photographing animals in Mudumu.",
+                  "category": "natural",
+                  "coords": [
+                        23.446027,
+                        -18.175596
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NA-ZK",
     coords: [23.40, -18.15],
@@ -495,7 +1206,124 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-mudumu-animal-habitat-life-v2.webp"},
   {
-    id: "namibia-dorob-animal-habitat-life-v2",
+    id: "namibia-dorob-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Welwitschia Drive Beacon 1",
+                  "text": "Die Bake 1 markiert den Beginn des Welwitschia-Drives am Rande der Wüste von Dorob.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669772,
+                        -22.738607
+                  ]
+            },
+            {
+                  "name": "Dare Devil Adventures",
+                  "text": "Dare Devil Adventures bietet Quad-Bike-Touren durch die weiten Dünen der Namib.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545517,
+                        -22.800593
+                  ]
+            },
+            {
+                  "name": "Dunes",
+                  "text": "Diese Küstendünen der Namib-Wüste bieten dramatische Landschaften direkt am Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54161,
+                        -22.747888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Welwitschia Drive Beacon 1",
+                  "text": "Az 1-es jelzőtábla a Welwitschia-útvonal kezdetét jelzi a Dorob-sivatag szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669772,
+                        -22.738607
+                  ]
+            },
+            {
+                  "name": "Dare Devil Adventures",
+                  "text": "A Dare Devil Adventures quados túrákat kínál a Namib-sivatag kiterjedt dűnéin keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545517,
+                        -22.800593
+                  ]
+            },
+            {
+                  "name": "Dunes",
+                  "text": "A Namib-sivatag ezen part menti dűnéi drámai tájat kínálnak közvetlenül az óceán mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54161,
+                        -22.747888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Welwitschia Drive Beacon 1",
+                  "text": "Baliza 1 marchează începutul traseului Welwitschia Drive la marginea deșertului Dorob.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669772,
+                        -22.738607
+                  ]
+            },
+            {
+                  "name": "Dare Devil Adventures",
+                  "text": "Dare Devil Adventures oferă tururi cu ATV-ul prin dunele vaste ale deșertului Namib.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545517,
+                        -22.800593
+                  ]
+            },
+            {
+                  "name": "Dunes",
+                  "text": "Aceste dune de coastă din deșertul Namib oferă peisaje dramatice chiar la ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54161,
+                        -22.747888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Welwitschia Drive Beacon 1",
+                  "text": "Beacon 1 marks the beginning of the Welwitschia Drive on the edge of the Dorob desert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669772,
+                        -22.738607
+                  ]
+            },
+            {
+                  "name": "Dare Devil Adventures",
+                  "text": "Dare Devil Adventures offers quad biking tours through the vast dunes of the Namib Desert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545517,
+                        -22.800593
+                  ]
+            },
+            {
+                  "name": "Dunes",
+                  "text": "These coastal dunes of the Namib Desert provide dramatic landscapes right beside the ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54161,
+                        -22.747888
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NA-ER",
     coords: [14.60, -22.75],
@@ -577,7 +1405,232 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-kavango-agriculture-life-v2.webp"},
   {
-    id: "namibia-otjiwarongo-agriculture-life-v2",
+    id: "namibia-otjiwarongo-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "NG Kerk Otjiwarongo",
+                  "text": "Diese Kirchengemeinde der Niederländisch-reformierten Kirche in Otjiwarongo verfügt über ein markantes Gebäude, das der lokalen afrikaanssprachigen Gemeinde im landwirtschaftlichen Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.649972,
+                        -20.463259
+                  ]
+            },
+            {
+                  "name": "Welcome Wall",
+                  "text": "Das robuste Welcome Wall-Denkmal, das Besucher dieser landwirtschaftlichen Stadt begrüßt, präsentiert lokale Materialien und spiegelt den Bürgerstolz der Gemeinde in Otjiwarongo wider.",
+                  "category": "historical",
+                  "coords": [
+                        16.65311,
+                        -20.475325
+                  ]
+            },
+            {
+                  "name": "Historical Train",
+                  "text": "Diese historische Dampflokomotive, die als öffentliche Attraktion gut sichtbar ausgestellt ist, bewahrt das Erbe des Schmalspurbahnnetzes, das einst die frühe Entwicklung von Otjiwarongo unterstützte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.638351,
+                        -20.462807
+                  ]
+            },
+            {
+                  "name": "Welcome Sign",
+                  "text": "Dieses robuste Schild, das den Eingang nach Otjiwarongo markiert, enthält oft landwirtschaftliche Motive, um die Rolle der Stadt als Geparden-Hauptstadt und landwirtschaftliches Zentrum zu symbolisieren.",
+                  "category": "historical",
+                  "coords": [
+                        16.641268,
+                        -20.459778
+                  ]
+            },
+            {
+                  "name": "Museum of Namibian Fashion",
+                  "text": "Dieses Kulturmuseum in Otjiwarongo bewahrt und stellt die vielfältigen traditionellen Kleidungsstücke, Perlenarbeiten und zeitgenössischen Textilkünste der verschiedenen ethnischen Gruppen Namibias aus.",
+                  "category": "museum",
+                  "coords": [
+                        16.645578,
+                        -20.467269
+                  ]
+            },
+            {
+                  "name": "Otjiwarongo Crocodile Farm",
+                  "text": "Diese spezialisierte Zuchtanlage und der Zoo in Otjiwarongo bieten Führungen an, bei denen Besucher große Nilkrokodile in verschiedenen Wachstumsstadien beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655379,
+                        -20.464883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NG Kerk Otjiwarongo",
+                  "text": "Az otjiwarongói Holland Református Egyház gyülekezetének kiemelkedő épülete a helyi afrikaans nyelvű közösséget szolgálja a mezőgazdasági központban.",
+                  "category": "religious",
+                  "coords": [
+                        16.649972,
+                        -20.463259
+                  ]
+            },
+            {
+                  "name": "Welcome Wall",
+                  "text": "A mezőgazdasági városba érkezőket köszöntő, robusztus Welcome Wall emlékmű helyi anyagokat mutat be, és az otjiwarongói közösség büszkeségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        16.65311,
+                        -20.475325
+                  ]
+            },
+            {
+                  "name": "Historical Train",
+                  "text": "Ez a nyilvános látványosságként kiállított történelmi gőzmozdony annak a keskeny nyomtávú vasúthálózatnak az örökségét őrzi, amely egykor Otjiwarongo korai fejlődését támogatta.",
+                  "category": "landmark",
+                  "coords": [
+                        16.638351,
+                        -20.462807
+                  ]
+            },
+            {
+                  "name": "Welcome Sign",
+                  "text": "Az Otjiwarongo bejáratát jelző masszív emlékmű gyakran tartalmaz mezőgazdasági motívumokat, amelyek a város gepárdfővárosként és mezőgazdasági központként betöltött szerepét szimbolizálják.",
+                  "category": "historical",
+                  "coords": [
+                        16.641268,
+                        -20.459778
+                  ]
+            },
+            {
+                  "name": "Museum of Namibian Fashion",
+                  "text": "Ez az Otjiwarongóban található kulturális múzeum Namíbia különböző etnikai csoportjainak változatos hagyományos ruhadarabjait, gyöngyfűzését és kortárs textilművészetét őrzi és állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        16.645578,
+                        -20.467269
+                  ]
+            },
+            {
+                  "name": "Otjiwarongo Crocodile Farm",
+                  "text": "Ez az otjiwarongói speciális tenyésztelep és állatkert vezetett túrákat kínál, ahol a látogatók a növekedés különböző szakaszaiban figyelhetik meg a nagy nílusi krokodilokat.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655379,
+                        -20.464883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NG Kerk Otjiwarongo",
+                  "text": "Această congregație a Bisericii Reformate Olandeze din Otjiwarongo are o clădire proeminentă care servește comunitatea locală vorbitoare de afrikaans din centrul agricol.",
+                  "category": "religious",
+                  "coords": [
+                        16.649972,
+                        -20.463259
+                  ]
+            },
+            {
+                  "name": "Welcome Wall",
+                  "text": "Întâmpinând vizitatorii acestui oraș agricol, monumentul robust Welcome Wall prezintă materiale locale și reflectă mândria civică a comunității din Otjiwarongo.",
+                  "category": "historical",
+                  "coords": [
+                        16.65311,
+                        -20.475325
+                  ]
+            },
+            {
+                  "name": "Historical Train",
+                  "text": "Expusă vizibil ca atracție publică, această locomotivă cu abur istorică păstrează moștenirea rețelei de căi ferate cu ecartament îngust care a susținut odată dezvoltarea timpurie a orașului Otjiwarongo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.638351,
+                        -20.462807
+                  ]
+            },
+            {
+                  "name": "Welcome Sign",
+                  "text": "Marcând intrarea în Otjiwarongo, acest semn monumental robust încorporează adesea motive agricole pentru a simboliza rolul orașului de capitală a ghepardului și centru agricol.",
+                  "category": "historical",
+                  "coords": [
+                        16.641268,
+                        -20.459778
+                  ]
+            },
+            {
+                  "name": "Museum of Namibian Fashion",
+                  "text": "Situat în Otjiwarongo, acest muzeu cultural păstrează și expune diversele veșminte tradiționale, lucrări cu mărgele și artele textile contemporane ale diverselor grupuri etnice din Namibia.",
+                  "category": "museum",
+                  "coords": [
+                        16.645578,
+                        -20.467269
+                  ]
+            },
+            {
+                  "name": "Otjiwarongo Crocodile Farm",
+                  "text": "Această fermă specializată de reproducere și grădină zoologică din Otjiwarongo oferă tururi ghidate în care vizitatorii pot observa mari crocodili de Nil în diferite stadii de creștere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655379,
+                        -20.464883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NG Kerk Otjiwarongo",
+                  "text": "This Dutch Reformed Church congregation in Otjiwarongo features a prominent building that serves the local Afrikaans-speaking community within the agricultural hub.",
+                  "category": "religious",
+                  "coords": [
+                        16.649972,
+                        -20.463259
+                  ]
+            },
+            {
+                  "name": "Welcome Wall",
+                  "text": "Greeting visitors to this agricultural town, the robust Welcome Wall monument showcases local materials and reflects the community's civic pride in Otjiwarongo.",
+                  "category": "historical",
+                  "coords": [
+                        16.65311,
+                        -20.475325
+                  ]
+            },
+            {
+                  "name": "Historical Train",
+                  "text": "Displayed prominently as a public attraction, this historical steam locomotive preserves the legacy of the narrow-gauge railway network that once supported Otjiwarongo's early development.",
+                  "category": "landmark",
+                  "coords": [
+                        16.638351,
+                        -20.462807
+                  ]
+            },
+            {
+                  "name": "Welcome Sign",
+                  "text": "Marking the entrance to Otjiwarongo, this sturdy monument sign often incorporates agricultural motifs to symbolize the town's role as the cheetah capital and a farming center.",
+                  "category": "historical",
+                  "coords": [
+                        16.641268,
+                        -20.459778
+                  ]
+            },
+            {
+                  "name": "Museum of Namibian Fashion",
+                  "text": "Located in Otjiwarongo, this cultural museum preserves and exhibits the diverse traditional garments, beadwork, and contemporary textile arts of Namibia's various ethnic groups.",
+                  "category": "museum",
+                  "coords": [
+                        16.645578,
+                        -20.467269
+                  ]
+            },
+            {
+                  "name": "Otjiwarongo Crocodile Farm",
+                  "text": "This specialized breeding facility and zoo in Otjiwarongo offers guided tours where visitors can observe large Nile crocodiles at various stages of growth.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655379,
+                        -20.464883
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NA-OS",
     coords: [16.65, -20.46],
@@ -659,7 +1712,88 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-kalahari-animal-habitat-life-v2.webp"},
   {
-    id: "namibia-fish-river-animal-habitat-life-v2",
+    id: "namibia-fish-river-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fish River Viewpoint & Sunset Spot",
+                  "text": "Dieser malerische Felsvorsprung bietet einen idealen Aussichtspunkt für Fotografien zur goldenen Stunde über dem Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        17.566989,
+                        -27.507985
+                  ]
+            },
+            {
+                  "name": "Window of Hope",
+                  "text": "Diese einzigartig geformte Felslücke dient als natürlicher Rahmen für den Blick auf die weite Canyonlandschaft darunter.",
+                  "category": "natural",
+                  "coords": [
+                        17.574635,
+                        -27.508751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fish River Viewpoint & Sunset Spot",
+                  "text": "Ez a festői sziklás hegyfok ideális kilátópont az aranyórában történő fotózáshoz a kanyon felett.",
+                  "category": "natural",
+                  "coords": [
+                        17.566989,
+                        -27.507985
+                  ]
+            },
+            {
+                  "name": "Window of Hope",
+                  "text": "Ez az egyedi formájú sziklahasadék természetes keretként szolgál az alatta elterülő hatalmas kanyon tájának megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.574635,
+                        -27.508751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fish River Viewpoint & Sunset Spot",
+                  "text": "Acest promontoriu stâncos pitoresc oferă un punct de observație ideal pentru fotografii la ora de aur deasupra canionului.",
+                  "category": "natural",
+                  "coords": [
+                        17.566989,
+                        -27.507985
+                  ]
+            },
+            {
+                  "name": "Window of Hope",
+                  "text": "Acest spațiu gol din stâncă, cu o formă unică, servește drept cadru natural pentru a privi peisajul vast al canionului de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        17.574635,
+                        -27.508751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fish River Viewpoint & Sunset Spot",
+                  "text": "This scenic rocky promontory provides an ideal vantage point for golden hour photography over the canyon.",
+                  "category": "natural",
+                  "coords": [
+                        17.566989,
+                        -27.507985
+                  ]
+            },
+            {
+                  "name": "Window of Hope",
+                  "text": "This uniquely shaped rock gap serves as a natural frame for viewing the sweeping canyon landscape below.",
+                  "category": "natural",
+                  "coords": [
+                        17.574635,
+                        -27.508751
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NA-KA",
     coords: [17.50, -27.50],
@@ -741,7 +1875,88 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-mariental-agriculture-life-v2.webp"},
   {
-    id: "namibia-outjo-agriculture-life-v2",
+    id: "namibia-outjo-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Water Tower",
+                  "text": "Die verlassenen Ruinen dieses hohen Wasserturms versorgten einst das umliegende Outjo-Ackerland mit lebenswichtiger Bewässerung.",
+                  "category": "historical",
+                  "coords": [
+                        16.156063,
+                        -20.107486
+                  ]
+            },
+            {
+                  "name": "Franke-Haus-Museum",
+                  "text": "Dieses Museum ist in einem historischen Gebäude aus der deutschen Kolonialzeit untergebracht und zeigt Artefakte aus der Pionier- und Militärvergangenheit der Region.",
+                  "category": "museum",
+                  "coords": [
+                        16.153209,
+                        -20.103795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Water Tower",
+                  "text": "Ennek a magas víztoronynak az elhagyatott romjai egykor létfontosságú öntözővizet biztosítottak a környező Outjo termőföldjeinek.",
+                  "category": "historical",
+                  "coords": [
+                        16.156063,
+                        -20.107486
+                  ]
+            },
+            {
+                  "name": "Franke-Haus-Museum",
+                  "text": "A történelmi német gyarmati épületben helyet kapó múzeum a régió úttörő és katonai múltjának tárgyi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.153209,
+                        -20.103795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Water Tower",
+                  "text": "Ruinele abandonate ale acestui turn de apă înalt furnizau cândva irigații vitale terenurilor agricole din jurul orașului Outjo.",
+                  "category": "historical",
+                  "coords": [
+                        16.156063,
+                        -20.107486
+                  ]
+            },
+            {
+                  "name": "Franke-Haus-Museum",
+                  "text": "Găzduit într-o clădire istorică colonială germană, acest muzeu expune artefacte din trecutul de pionierat și militar al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        16.153209,
+                        -20.103795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Water Tower",
+                  "text": "The abandoned ruins of this tall water tower once supplied vital irrigation to the surrounding Outjo farmlands.",
+                  "category": "historical",
+                  "coords": [
+                        16.156063,
+                        -20.107486
+                  ]
+            },
+            {
+                  "name": "Franke-Haus-Museum",
+                  "text": "Located in a historic German colonial building, this museum displays artifacts from the region's pioneering and military past.",
+                  "category": "museum",
+                  "coords": [
+                        16.153209,
+                        -20.103795
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NA-OS",
     coords: [16.15, -20.12],
@@ -823,7 +2038,52 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-rundu-agriculture-life-v2.webp"},
   {
-    id: "namibia-sesriem-kid-landmark-life-v2",
+    id: "namibia-sesriem-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elim Dune",
+                  "text": "Ein markanter roter Sand-Aussichtspunkt in der Nähe von Sesriem, der besonders bei Sonnenuntergang auffällige Panoramablicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.76658,
+                        -24.450477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elim Dune",
+                  "text": "Jellegzetes vörös homokos kilátópont Sesriem közelében, amely lenyűgöző panorámát nyújt, különösen naplementekor.",
+                  "category": "natural",
+                  "coords": [
+                        15.76658,
+                        -24.450477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elim Dune",
+                  "text": "Un punct de belvedere distinct cu nisip roșu, accesibil lângă Sesriem, care oferă priveliști panoramice izbitoare, în special la apus.",
+                  "category": "natural",
+                  "coords": [
+                        15.76658,
+                        -24.450477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elim Dune",
+                  "text": "A distinctive red-sand viewpoint accessible near Sesriem that provides striking panoramic vistas, particularly at sunset.",
+                  "category": "natural",
+                  "coords": [
+                        15.76658,
+                        -24.450477
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NA-HA",
     coords: [15.79, -24.49],
@@ -905,7 +2165,88 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-walvis-bay-kid-landmark-life-v2.webp"},
   {
-    id: "namibia-tsumkwe-kid-landmark-life-v2",
+    id: "namibia-tsumkwe-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mountain Pos Traditional Village",
+                  "text": "Das Mountain Pos Traditional Village in der Nähe von Tsumkwe ermöglicht es Besuchern, den angestammten Lebensstil und das authentische Bushcrafting der indigenen San zu erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.513982,
+                        -19.668197
+                  ]
+            },
+            {
+                  "name": "Nyae Nyae Conservancy",
+                  "text": "Das Nyae Nyae Conservancy erstreckt sich über mehr als 9.000 Quadratkilometer und ist ein weites Wildnisgebiet, das von der lokalen Ju/'hoansi-San-Gemeinschaft nachhaltig verwaltet wird.",
+                  "category": "natural",
+                  "coords": [
+                        20.51542,
+                        -19.628001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mountain Pos Traditional Village",
+                  "text": "A Tsumkwe közelében található Mountain Pos Traditional Village lehetővé teszi a látogatók számára, hogy megtapasztalják az őslakos szan nép ősi életmódját és autentikus bushcraftját.",
+                  "category": "landmark",
+                  "coords": [
+                        20.513982,
+                        -19.668197
+                  ]
+            },
+            {
+                  "name": "Nyae Nyae Conservancy",
+                  "text": "A több mint 9000 négyzetkilométeren elterülő Nyae Nyae Conservancy egy hatalmas vadon, amelyet a helyi Ju/'hoansi szan közösség tart fenn.",
+                  "category": "natural",
+                  "coords": [
+                        20.51542,
+                        -19.628001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mountain Pos Traditional Village",
+                  "text": "Satul tradițional Mountain Pos le permite vizitatorilor de lângă Tsumkwe să experimenteze stilul de viață ancestral și meșteșugurile autentice din tufișuri ale populației indigene San.",
+                  "category": "landmark",
+                  "coords": [
+                        20.513982,
+                        -19.668197
+                  ]
+            },
+            {
+                  "name": "Nyae Nyae Conservancy",
+                  "text": "Acoperind peste 9.000 de kilometri pătrați, Conservația Nyae Nyae este o vastă zonă de sălbăticie gestionată în mod durabil de comunitatea locală Ju/'hoansi San.",
+                  "category": "natural",
+                  "coords": [
+                        20.51542,
+                        -19.628001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mountain Pos Traditional Village",
+                  "text": "Mountain Pos Traditional Village allows visitors near Tsumkwe to experience the ancestral lifestyle and authentic bushcraft of the indigenous San people.",
+                  "category": "landmark",
+                  "coords": [
+                        20.513982,
+                        -19.668197
+                  ]
+            },
+            {
+                  "name": "Nyae Nyae Conservancy",
+                  "text": "Covering over 9,000 square kilometers, the Nyae Nyae Conservancy is a vast wilderness area sustainably managed by the local Ju/'hoansi San community.",
+                  "category": "natural",
+                  "coords": [
+                        20.51542,
+                        -19.628001
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NA-OT",
     coords: [20.50, -19.60],
@@ -1028,7 +2369,52 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-caprivi-animal-habitat-life-v2.webp"},
   {
-    id: "namibia-damaraland-animal-habitat-life-v2",
+    id: "namibia-damaraland-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocks",
+                  "text": "Dieser felsige Aussichtspunkt bietet einen weiten, ungehinderten Panoramablick über den rauen, aber schönen Wüstenlebensraum des Damaralandes.",
+                  "category": "natural",
+                  "coords": [
+                        14.511829,
+                        -20.423475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocks",
+                  "text": "Ez a sziklás kilátópont széles, zavartalan panorámát nyújt Damaraland zord, de gyönyörű sivatagi élőhelyére.",
+                  "category": "natural",
+                  "coords": [
+                        14.511829,
+                        -20.423475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocks",
+                  "text": "Acest punct de belvedere stâncos oferă panorame ample și neobstrucționate asupra habitatului deșertic aspru, dar frumos din Damaraland.",
+                  "category": "natural",
+                  "coords": [
+                        14.511829,
+                        -20.423475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocks",
+                  "text": "This rocky viewpoint provides sweeping, unobstructed panoramas over the harsh but beautiful desert habitat of Damaraland.",
+                  "category": "natural",
+                  "coords": [
+                        14.511829,
+                        -20.423475
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NA-ER",
     coords: [14.50, -20.50],
@@ -1069,7 +2455,484 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-damaraland-animal-habitat-life-v2.webp"},
   {
-    id: "namibia-spitzkoppe-kid-landmark-life-v2",
+    id: "namibia-spitzkoppe-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Small Rock Arch",
+                  "text": "Ein markanter natürlicher geologischer Bogen, der durch jahrtausendelange Winderosion im Granit der Spitzkoppe geformt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172948,
+                        -21.811497
+                  ]
+            },
+            {
+                  "name": "Bushmans paradise",
+                  "text": "Eine berühmte Felsmalereistätte an der Spitzkoppe mit alten Malereien der San-Buschmänner unter einem großen Granitüberhang.",
+                  "category": "landmark",
+                  "coords": [
+                        15.212814,
+                        -21.826728
+                  ]
+            },
+            {
+                  "name": "Old Graves",
+                  "text": "Verwitterte historische Grabstätten, die ruhig am staubigen Fuß der dramatischen Spitzkoppe-Berge liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.20336,
+                        -21.830675
+                  ]
+            },
+            {
+                  "name": "Pontok Mountains",
+                  "text": "Die Pontok-Berge bilden eine markante Granitgipfelformation in der trockenen Wüstenlandschaft von Spitzkoppe.",
+                  "category": "natural",
+                  "coords": [
+                        15.195712,
+                        -21.826323
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "Dieses natürlich geformte Felsenbecken sammelt kostbares Regenwasser inmitten der rauen Granitfelsen von Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.188558,
+                        -21.840232
+                  ]
+            },
+            {
+                  "name": "Bushman Paradise",
+                  "text": "Bushman Paradise ist eine historisch bedeutsame Höhlenregion, die für ihre alte San-Felskunst versteckt zwischen den Spitzkoppe-Gipfeln bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1804,
+                        -21.832509
+                  ]
+            },
+            {
+                  "name": "Große Spitzkoppe",
+                  "text": "Die dramatisch über der Namib-Wüste aufragende Große Spitzkoppe ist ein massiver kahler Granitgipfel, der als Matterhorn Namibias bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.16883,
+                        -21.824705
+                  ]
+            },
+            {
+                  "name": "Lion Rock",
+                  "text": "Der Lion Rock ist eine einzigartig erodierte Granitformation, die von Natur aus einem ruhenden Löwen im Herzen von Spitzkoppe ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163676,
+                        -21.830829
+                  ]
+            },
+            {
+                  "name": "Dinosaur Rock",
+                  "text": "Der Dinosaur Rock ist eine hoch aufragende, von Wind und Zeit geformte Steinstruktur, die bemerkenswert an ein prähistorisches Tier erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.166056,
+                        -21.834783
+                  ]
+            },
+            {
+                  "name": "Natural Arch Viewpoint",
+                  "text": "Dieser malerische Aussichtspunkt blickt durch einen atemberaubenden, natürlich geformten Granitbogen, der die dramatische Landschaft von Spitzkoppe einrahmt.",
+                  "category": "natural",
+                  "coords": [
+                        15.183376,
+                        -21.846392
+                  ]
+            },
+            {
+                  "name": "Golden Snake",
+                  "text": "Golden Snake bezieht sich auf eine markante geologische Ader oder ein künstlerisches Felsmerkmal, das sich durch die markanten Felsbrocken von Spitzkoppe schlängelt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.186757,
+                        -21.81229
+                  ]
+            },
+            {
+                  "name": "Daub Cave",
+                  "text": "Die Daub-Höhle ist ein geschützter Felsüberhang bei Spitzkoppe, der für die Erhaltung alter indigener Buschmann-Malereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180645,
+                        -21.814288
+                  ]
+            },
+            {
+                  "name": "Spitzkoppe National Park",
+                  "text": "Der Spitzkoppe-Nationalpark schützt eine surreale Wüstenlandschaft, die von massiven, millionen Jahre alten kahlen Granitgipfeln dominiert wird.",
+                  "category": "natural",
+                  "coords": [
+                        15.188148,
+                        -21.816152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Small Rock Arch",
+                  "text": "A Spitzkoppe gránitjában évezredes szélerózió által kialakított lenyűgöző természetes geológiai ív.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172948,
+                        -21.811497
+                  ]
+            },
+            {
+                  "name": "Bushmans paradise",
+                  "text": "Híres sziklaművészeti lelőhely a Spitzkoppénál, ahol ősi San busman festmények találhatók egy nagy gránit kiugró alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.212814,
+                        -21.826728
+                  ]
+            },
+            {
+                  "name": "Old Graves",
+                  "text": "Viharvert történelmi temetkezési helyek, amelyek csendben nyugszanak a drámai Spitzkoppe-hegység poros lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.20336,
+                        -21.830675
+                  ]
+            },
+            {
+                  "name": "Pontok Mountains",
+                  "text": "A Pontok-hegység egy feltűnő gránitcsúcs-formációt alkot Spitzkoppe száraz sivatagi táján.",
+                  "category": "natural",
+                  "coords": [
+                        15.195712,
+                        -21.826323
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "Ez a természetes úton kialakult sziklamedence értékes esővizet gyűjt össze Spitzkoppe zord gránittömbjei között.",
+                  "category": "landmark",
+                  "coords": [
+                        15.188558,
+                        -21.840232
+                  ]
+            },
+            {
+                  "name": "Bushman Paradise",
+                  "text": "A Bushman Paradise egy történelmileg jelentős barlangterület, amely a Spitzkoppe csúcsai között megbúvó ősi szan sziklarajzokról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1804,
+                        -21.832509
+                  ]
+            },
+            {
+                  "name": "Große Spitzkoppe",
+                  "text": "A Namib-sivatag fölé drámaian magasodó Große Spitzkoppe egy hatalmas, kopasz gránitcsúcs, amelyet Namíbia Matterhornjának is neveznek.",
+                  "category": "natural",
+                  "coords": [
+                        15.16883,
+                        -21.824705
+                  ]
+            },
+            {
+                  "name": "Lion Rock",
+                  "text": "A Lion Rock egy egyedülállóan erodálódott gránitformáció, amely egy pihenő oroszlánra emlékeztet Spitzkoppe szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163676,
+                        -21.830829
+                  ]
+            },
+            {
+                  "name": "Dinosaur Rock",
+                  "text": "A Dinosaur Rock egy szél és idő által formált, tornyosuló kőszerkezet, amely figyelemre méltóan hasonlít egy őskori fenevadra.",
+                  "category": "landmark",
+                  "coords": [
+                        15.166056,
+                        -21.834783
+                  ]
+            },
+            {
+                  "name": "Natural Arch Viewpoint",
+                  "text": "Ez a festői kilátópont egy lenyűgöző, természetes úton kialakult gránitíven keresztül nyújt kilátást, amely keretbe foglalja a drámai Spitzkoppe tájat.",
+                  "category": "natural",
+                  "coords": [
+                        15.183376,
+                        -21.846392
+                  ]
+            },
+            {
+                  "name": "Golden Snake",
+                  "text": "A Golden Snake egy jellegzetes geológiai érre vagy művészi sziklajellemzőre utal, amely Spitzkoppe kiemelkedő sziklatömbjein kanyarog keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        15.186757,
+                        -21.81229
+                  ]
+            },
+            {
+                  "name": "Daub Cave",
+                  "text": "A Daub-barlang egy védett sziklanyúlvány Spitzkoppe-nál, amely az ősi őslakos busman festmények megőrzéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180645,
+                        -21.814288
+                  ]
+            },
+            {
+                  "name": "Spitzkoppe National Park",
+                  "text": "A Spitzkoppe Nemzeti Park egy szürreális sivatagi tájat véd, amelyet hatalmas, évmilliók óta fennálló kopasz gránitcsúcsok uralnak.",
+                  "category": "natural",
+                  "coords": [
+                        15.188148,
+                        -21.816152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Small Rock Arch",
+                  "text": "Un arc geologic natural impresionant, format prin mii de ani de eroziune eoliană în granitul Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172948,
+                        -21.811497
+                  ]
+            },
+            {
+                  "name": "Bushmans paradise",
+                  "text": "Un renumit sit de artă rupestră de la Spitzkoppe, prezentând picturi antice ale boșimanilor San sub o mare ieșitură de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        15.212814,
+                        -21.826728
+                  ]
+            },
+            {
+                  "name": "Old Graves",
+                  "text": "Locuri de înmormântare istorice erodate, care se odihnesc liniștit la baza prăfuită a munților dramatici Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.20336,
+                        -21.830675
+                  ]
+            },
+            {
+                  "name": "Pontok Mountains",
+                  "text": "Munții Pontok formează o impresionantă formațiune de vârfuri din granit în peisajul arid al deșertului din Spitzkoppe.",
+                  "category": "natural",
+                  "coords": [
+                        15.195712,
+                        -21.826323
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "Acest bazin natural de stâncă colectează apa prețioasă de ploaie printre bolovanii accidentați de granit din Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.188558,
+                        -21.840232
+                  ]
+            },
+            {
+                  "name": "Bushman Paradise",
+                  "text": "Bushman Paradise este o zonă de peșteri cu importanță istorică, cunoscută pentru arta rupestră antică a poporului San, ascunsă printre vârfurile din Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1804,
+                        -21.832509
+                  ]
+            },
+            {
+                  "name": "Große Spitzkoppe",
+                  "text": "Ridicându-se spectaculos deasupra deșertului Namib, Große Spitzkoppe este un vârf masiv de granit pleșuv, cunoscut sub numele de Matterhornul Namibiei.",
+                  "category": "natural",
+                  "coords": [
+                        15.16883,
+                        -21.824705
+                  ]
+            },
+            {
+                  "name": "Lion Rock",
+                  "text": "Lion Rock este o formațiune de granit erodată unic, care seamănă în mod natural cu un leu care se odihnește în inima Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163676,
+                        -21.830829
+                  ]
+            },
+            {
+                  "name": "Dinosaur Rock",
+                  "text": "Dinosaur Rock este o structură impunătoare de piatră sculptată de vânt și timp, cu o formă ce amintește remarcabil de o bestie preistorică.",
+                  "category": "landmark",
+                  "coords": [
+                        15.166056,
+                        -21.834783
+                  ]
+            },
+            {
+                  "name": "Natural Arch Viewpoint",
+                  "text": "Acest punct de belvedere pitoresc privește printr-o arcadă uimitoare de granit formată natural, încadrând peisajul dramatic din Spitzkoppe.",
+                  "category": "natural",
+                  "coords": [
+                        15.183376,
+                        -21.846392
+                  ]
+            },
+            {
+                  "name": "Golden Snake",
+                  "text": "Golden Snake se referă la o venă geologică distinctă sau o caracteristică artistică a stâncii care șerpuiește printre bolovanii proeminenți din Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.186757,
+                        -21.81229
+                  ]
+            },
+            {
+                  "name": "Daub Cave",
+                  "text": "Peștera Daub este o proeminență stâncoasă adăpostită la Spitzkoppe, cunoscută pentru păstrarea picturilor antice ale boșimanilor indigeni.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180645,
+                        -21.814288
+                  ]
+            },
+            {
+                  "name": "Spitzkoppe National Park",
+                  "text": "Parcul Național Spitzkoppe protejează un peisaj deșertic suprarealist, dominat de vârfuri masive de granit pleșuv, vechi de milioane de ani.",
+                  "category": "natural",
+                  "coords": [
+                        15.188148,
+                        -21.816152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Small Rock Arch",
+                  "text": "A striking natural geological arch formed by thousands of years of wind erosion in the Spitzkoppe granite.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172948,
+                        -21.811497
+                  ]
+            },
+            {
+                  "name": "Bushmans paradise",
+                  "text": "A renowned rock art site at Spitzkoppe featuring ancient San bushman paintings sheltered under a large granite overhang.",
+                  "category": "landmark",
+                  "coords": [
+                        15.212814,
+                        -21.826728
+                  ]
+            },
+            {
+                  "name": "Old Graves",
+                  "text": "Weathered historical burial sites resting quietly at the dusty base of the dramatic Spitzkoppe mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        15.20336,
+                        -21.830675
+                  ]
+            },
+            {
+                  "name": "Pontok Mountains",
+                  "text": "The Pontok Mountains form a striking granite peak formation within the arid Namib Desert landscape of Spitzkoppe.",
+                  "category": "natural",
+                  "coords": [
+                        15.195712,
+                        -21.826323
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "This naturally formed rock pool collects precious rainwater amid the rugged granite boulders of Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.188558,
+                        -21.840232
+                  ]
+            },
+            {
+                  "name": "Bushman Paradise",
+                  "text": "Bushman Paradise is a historically significant cave area known for its ancient San rock art hidden among the Spitzkoppe peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1804,
+                        -21.832509
+                  ]
+            },
+            {
+                  "name": "Große Spitzkoppe",
+                  "text": "Rising dramatically above the Namib Desert, the Große Spitzkoppe is a massive bald granite peak known as the Matterhorn of Namibia.",
+                  "category": "natural",
+                  "coords": [
+                        15.16883,
+                        -21.824705
+                  ]
+            },
+            {
+                  "name": "Lion Rock",
+                  "text": "Lion Rock is a uniquely eroded granite formation that naturally resembles a resting lion in the heart of Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163676,
+                        -21.830829
+                  ]
+            },
+            {
+                  "name": "Dinosaur Rock",
+                  "text": "Dinosaur Rock is a towering stone structure sculpted by wind and time, shaped remarkably like a prehistoric beast.",
+                  "category": "landmark",
+                  "coords": [
+                        15.166056,
+                        -21.834783
+                  ]
+            },
+            {
+                  "name": "Natural Arch Viewpoint",
+                  "text": "This scenic viewpoint looks through a stunning naturally formed granite archway framing the dramatic Spitzkoppe landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.183376,
+                        -21.846392
+                  ]
+            },
+            {
+                  "name": "Golden Snake",
+                  "text": "Golden Snake refers to a distinctive geological vein or artistic rock feature winding through the prominent boulders of Spitzkoppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.186757,
+                        -21.81229
+                  ]
+            },
+            {
+                  "name": "Daub Cave",
+                  "text": "Daub Cave is a sheltered rock overhang at Spitzkoppe known for preserving ancient indigenous bushman paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180645,
+                        -21.814288
+                  ]
+            },
+            {
+                  "name": "Spitzkoppe National Park",
+                  "text": "Spitzkoppe National Park protects a surreal desert landscape dominated by massive, millions-of-years-old bald granite peaks.",
+                  "category": "natural",
+                  "coords": [
+                        15.188148,
+                        -21.816152
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NA-ER",
     coords: [15.17, -21.83],
@@ -1151,7 +3014,196 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
      image: "/poi-images/namibia-okavango-agriculture-life-v2.webp"},
   {
-    id: "namibia-aus-animal-habitat-life-v2",
+    id: "namibia-aus-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Car Hudson 1930er",
+                  "text": "Ein verrostetes Relikt eines Hudson-Automobils aus den 1930er Jahren, das in der trockenen namibischen Wüstenlandschaft nahe Aus gestrandet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.224044,
+                        -26.67153
+                  ]
+            },
+            {
+                  "name": "Schutzwall",
+                  "text": "Die Überreste eines alten Verteidigungswalls inmitten der rauen, steinigen Wüstenumgebung der Aus-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        16.221875,
+                        -26.666668
+                  ]
+            },
+            {
+                  "name": "Gefangenenlager von 1915",
+                  "text": "Die Steinfundamente und Ruinen eines 1915 in der Namib-Wüste errichteten Kriegsgefangenenlagers aus dem Ersten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        16.300393,
+                        -26.675408
+                  ]
+            },
+            {
+                  "name": "Prisoner of War Camp",
+                  "text": "Eine historische Stätte in der trockenen Region Aus, die Überreste eines Internierungslagers aus dem Ersten Weltkrieg zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.287657,
+                        -26.675194
+                  ]
+            },
+            {
+                  "name": "Kaiser-Wilhelm-Denkmal",
+                  "text": "Ein koloniales Denkmal, das in der rauen namibischen Landschaft von Aus errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        16.260846,
+                        -26.66441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Car Hudson 1930er",
+                  "text": "Egy 1930-as évekbeli Hudson autó rozsdásodó roncsa az arid namíbiai sivatagban Aus közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.224044,
+                        -26.67153
+                  ]
+            },
+            {
+                  "name": "Schutzwall",
+                  "text": "Egy régi védőfal maradványai, amelyek az Aus régió zord, köves sivatagi környezetében állnak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.221875,
+                        -26.666668
+                  ]
+            },
+            {
+                  "name": "Gefangenenlager von 1915",
+                  "text": "Egy 1915-ben a Namib-sivatagban létesített első világháborús hadifogolytábor kőalapzatai és romjai.",
+                  "category": "historical",
+                  "coords": [
+                        16.300393,
+                        -26.675408
+                  ]
+            },
+            {
+                  "name": "Prisoner of War Camp",
+                  "text": "Történelmi emlékhely az arid Aus régióban, ahol az első világháborús internálótábor maradványai láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        16.287657,
+                        -26.675194
+                  ]
+            },
+            {
+                  "name": "Kaiser-Wilhelm-Denkmal",
+                  "text": "A gyarmati korszakból származó emlékmű a zord namíbiai Aus vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        16.260846,
+                        -26.66441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Car Hudson 1930er",
+                  "text": "O relicvă ruginită a unui automobil Hudson din anii 1930, rămasă eșuată în peisajul arid al deșertului namibian de lângă Aus.",
+                  "category": "landmark",
+                  "coords": [
+                        16.224044,
+                        -26.67153
+                  ]
+            },
+            {
+                  "name": "Schutzwall",
+                  "text": "Rămășițele unui vechi zid de apărare, care se înalță în mediul deșertic dur și stâncos al regiunii Aus.",
+                  "category": "landmark",
+                  "coords": [
+                        16.221875,
+                        -26.666668
+                  ]
+            },
+            {
+                  "name": "Gefangenenlager von 1915",
+                  "text": "Fundațiile de piatră și ruinele unui lagăr de prizonieri de război din Primul Război Mondial, înființat în deșertul Namib în 1915.",
+                  "category": "historical",
+                  "coords": [
+                        16.300393,
+                        -26.675408
+                  ]
+            },
+            {
+                  "name": "Prisoner of War Camp",
+                  "text": "Un sit istoric din regiunea aridă Aus, cu rămășițele unui lagăr de internare din Primul Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        16.287657,
+                        -26.675194
+                  ]
+            },
+            {
+                  "name": "Kaiser-Wilhelm-Denkmal",
+                  "text": "Un monument memorial din epoca colonială, ridicat în peisajul accidentat din Aus, Namibia.",
+                  "category": "historical",
+                  "coords": [
+                        16.260846,
+                        -26.66441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Car Hudson 1930er",
+                  "text": "A rusted relic of a 1930s Hudson automobile stranded in the arid Namibian desert landscape near Aus.",
+                  "category": "landmark",
+                  "coords": [
+                        16.224044,
+                        -26.67153
+                  ]
+            },
+            {
+                  "name": "Schutzwall",
+                  "text": "The remnants of an old defensive wall standing amid the harsh, stony desert environment of the Aus region.",
+                  "category": "landmark",
+                  "coords": [
+                        16.221875,
+                        -26.666668
+                  ]
+            },
+            {
+                  "name": "Gefangenenlager von 1915",
+                  "text": "The stone foundations and ruins of a World War I prisoner of war camp established in the Namib desert in 1915.",
+                  "category": "historical",
+                  "coords": [
+                        16.300393,
+                        -26.675408
+                  ]
+            },
+            {
+                  "name": "Prisoner of War Camp",
+                  "text": "A historical site in the arid Aus region featuring the remnants of an internment camp from the First World War.",
+                  "category": "landmark",
+                  "coords": [
+                        16.287657,
+                        -26.675194
+                  ]
+            },
+            {
+                  "name": "Kaiser-Wilhelm-Denkmal",
+                  "text": "A colonial-era memorial monument erected in the rugged Namibian landscape of Aus.",
+                  "category": "historical",
+                  "coords": [
+                        16.260846,
+                        -26.66441
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NA-KA",
     coords: [16.25, -26.66],

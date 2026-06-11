@@ -469,7 +469,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "de": [
             {
                   "name": "Menir dos Almendres",
-                  "text": "Ein prähistorischer Menhir in der Nähe von Évora.",
+                  "text": "Denkmalgeschützter Menhir in der Megalithanlage von Almendres.",
                   "category": "historical",
                   "coords": [
                         -8.048347,
@@ -487,7 +487,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Castelo do Giraldo",
-                  "text": "Überreste einer alten befestigten Siedlung.",
+                  "text": "Burgruine (Castelo do Giraldo) nahe der Megalithanlage von Almendres.",
                   "category": "historical",
                   "coords": [
                         -8.033172,
@@ -534,7 +534,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "hu": [
             {
                   "name": "Menir dos Almendres",
-                  "text": "Prehisztorikus menhir Évora közelében.",
+                  "text": "Műemlék menhir az almendresi megalitikus komplexumban.",
                   "category": "historical",
                   "coords": [
                         -8.048347,
@@ -552,7 +552,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Castelo do Giraldo",
-                  "text": "Egy ősi erődített település maradványai.",
+                  "text": "Várrom (Castelo do Giraldo) az almendresi megalitikus komplexum közelében.",
                   "category": "historical",
                   "coords": [
                         -8.033172,
@@ -599,7 +599,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "ro": [
             {
                   "name": "Menir dos Almendres",
-                  "text": "Un menhir preistoric situat în apropiere de Évora.",
+                  "text": "Menhir protejat în complexul megalitic de la Almendres.",
                   "category": "historical",
                   "coords": [
                         -8.048347,
@@ -617,7 +617,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Castelo do Giraldo",
-                  "text": "Rămășițele unei vechi așezări fortificate.",
+                  "text": "Ruină de castel (Castelo do Giraldo) lângă complexul megalitic de la Almendres.",
                   "category": "historical",
                   "coords": [
                         -8.033172,
@@ -664,7 +664,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "en": [
             {
                   "name": "Menir dos Almendres",
-                  "text": "A prehistoric standing stone located near Évora.",
+                  "text": "Heritage-listed menhir at the Almendres megalithic complex.",
                   "category": "historical",
                   "coords": [
                         -8.048347,
@@ -682,7 +682,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Castelo do Giraldo",
-                  "text": "Remains of an ancient fortified settlement.",
+                  "text": "Castle ruin near the Almendres megalithic complex.",
                   "category": "historical",
                   "coords": [
                         -8.033172,

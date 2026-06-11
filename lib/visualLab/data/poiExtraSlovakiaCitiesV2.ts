@@ -215,7 +215,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nesterov palác",
-                  "text": "Der Nesterov-Palast ist ein Schloss in Bratislava.",
+                  "text": "Nesterov-Palast, ein 1856 erbautes Schloss in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.106683,
@@ -260,7 +260,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aspremontov letný palác",
-                  "text": "Das Aspremont-Sommerschloss ist ein historisches Gebäude in Bratislava.",
+                  "text": "Aspremont-Sommerschloss, ein denkmalgeschütztes Schloss in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.118095,
@@ -359,7 +359,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aréna",
-                  "text": "Das Theater Aréna ist eine kulturelle Bühne in Bratislava.",
+                  "text": "Aréna-Theater, eine 1828 eröffnete Kultureinrichtung in Bratislava.",
                   "category": "cultural",
                   "coords": [
                         17.114306,
@@ -431,7 +431,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Franziskanerkirche",
-                  "text": "Die Verkündigungskirche ist ein Gotteshaus in Bratislava.",
+                  "text": "Kirche Mariä Verkündigung in Bratislava, erbaut 1297.",
                   "category": "religious",
                   "coords": [
                         17.108363,
@@ -548,7 +548,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Markthalle",
-                  "text": "Die Markthalle ist ein zentraler Ort für den Handel in Bratislava.",
+                  "text": "Die 1983 von Ivan Matušík erbaute Markthalle in Bratislava ist ein modernistischer Bau.",
                   "category": "landmark",
                   "coords": [
                         17.126046,
@@ -575,7 +575,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Grassalkovichgarten",
-                  "text": "Der Grasalkovič-Garten ist eine weitläufige öffentliche Parkanlage in Bratislava.",
+                  "text": "Grasalkovič-Garten, der Präsidentengarten in Bratislava, ein denkmalgeschützter Park.",
                   "category": "park",
                   "coords": [
                         17.108207,
@@ -776,7 +776,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nester palota",
-                  "text": "A Nesterov-palota egy kastély Pozsonyban.",
+                  "text": "Nesterov-palota, egy 1856-ban épült kastély Pozsonyban.",
                   "category": "castle",
                   "coords": [
                         17.106683,
@@ -821,7 +821,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aspremont nyári palota",
-                  "text": "Az Aspremont-nyári kastély egy történelmi épület Pozsonyban.",
+                  "text": "Aspremont Nyári Palota, műemlék kastély Pozsonyban.",
                   "category": "castle",
                   "coords": [
                         17.118095,
@@ -920,7 +920,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aréna",
-                  "text": "Az Aréna Színház egy kulturális színhely Pozsonyban.",
+                  "text": "Aréna Színház, 1828-ban megnyílt kulturális helyszín Pozsonyban.",
                   "category": "cultural",
                   "coords": [
                         17.114306,
@@ -992,7 +992,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Angyali üdvözlet (ferences) templom",
-                  "text": "Az Angyali Üdvözlet-templom egy istentiszteleti hely Pozsonyban.",
+                  "text": "Az Angyali Üdvözlet temploma Pozsonyban, 1297-ből.",
                   "category": "religious",
                   "coords": [
                         17.108363,
@@ -1109,7 +1109,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Tržnica",
-                  "text": "A Vásárcsarnok Pozsony központi kereskedelmi helyszíne.",
+                  "text": "A pozsonyi vásárcsarnok 1983-ban épült Ivan Matušík tervei alapján, modernista épület.",
                   "category": "landmark",
                   "coords": [
                         17.126046,
@@ -1136,7 +1136,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Grasalkovičova záhrada",
-                  "text": "A Grassalkovich-kert egy kiterjedt nyilvános park Pozsonyban.",
+                  "text": "Grasalkovič-kert, az Elnöki park Pozsonyban, műemlék.",
                   "category": "park",
                   "coords": [
                         17.108207,
@@ -1337,7 +1337,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nesterov palác",
-                  "text": "Palatul Nesterov este un castel din Bratislava.",
+                  "text": "Palatul Nesterov, un castel din Bratislava construit în 1856.",
                   "category": "castle",
                   "coords": [
                         17.106683,
@@ -1382,7 +1382,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aspremontov letný palác",
-                  "text": "Palatul de vară Aspremont este o clădire istorică din Bratislava.",
+                  "text": "Palatul de vară Aspremont, un castel protejat din Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.118095,
@@ -1481,7 +1481,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aréna",
-                  "text": "Teatrul Aréna este o scenă culturală din Bratislava.",
+                  "text": "Teatrul Aréna, o instituție culturală din Bratislava deschisă în 1828.",
                   "category": "cultural",
                   "coords": [
                         17.114306,
@@ -1553,7 +1553,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Kostol Zvestovania Pána",
-                  "text": "Biserica Buneivestiri este un lăcaș de cult din Bratislava.",
+                  "text": "Biserica Bunei Vestiri din Bratislava, datând din 1297.",
                   "category": "religious",
                   "coords": [
                         17.108363,
@@ -1670,7 +1670,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Tržnica",
-                  "text": "Hala Pieței este un loc central pentru comerț în Bratislava.",
+                  "text": "Hala de piață din Bratislava, construită în 1983 de Ivan Matušík, este o clădire modernistă.",
                   "category": "landmark",
                   "coords": [
                         17.126046,
@@ -1697,7 +1697,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Grasalkovičova záhrada",
-                  "text": "Grădina Grassalkovich este un parc public extins din Bratislava.",
+                  "text": "Grădina Grasalkovič, Parcul Prezidențial din Bratislava, monument istoric.",
                   "category": "park",
                   "coords": [
                         17.108207,
@@ -1898,7 +1898,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nesterov palác",
-                  "text": "The Nesterov Palace is a castle in Bratislava.",
+                  "text": "Nesterov Palace, a castle in Bratislava built in 1856.",
                   "category": "castle",
                   "coords": [
                         17.106683,
@@ -1943,7 +1943,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aspremontov letný palác",
-                  "text": "The Aspremont Summer Palace is a historic building in Bratislava.",
+                  "text": "Aspremont Summer Palace, a heritage-listed castle in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.118095,
@@ -2042,7 +2042,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Aréna",
-                  "text": "Aréna Theatre is a cultural venue in Bratislava.",
+                  "text": "Aréna Theatre, a cultural venue in Bratislava opened in 1828.",
                   "category": "cultural",
                   "coords": [
                         17.114306,
@@ -2114,7 +2114,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Kostol Zvestovania Pána",
-                  "text": "The Church of the Annunciation is a place of worship in Bratislava.",
+                  "text": "Church of the Annunciation in Bratislava, dating from 1297.",
                   "category": "religious",
                   "coords": [
                         17.108363,
@@ -2231,7 +2231,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Market Hall",
-                  "text": "The Market Hall is a central location for trade in Bratislava.",
+                  "text": "The Market Hall in Bratislava, built in 1983 by Ivan Matušík, is a Modernist building.",
                   "category": "landmark",
                   "coords": [
                         17.126046,
@@ -2258,7 +2258,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Grasalkovičova záhrada",
-                  "text": "The Grassalkovich Garden is a spacious public park in Bratislava.",
+                  "text": "Grasalkovič Garden, the Presidential Park in Bratislava, a heritage site.",
                   "category": "park",
                   "coords": [
                         17.108207,
@@ -19660,7 +19660,7 @@ imageHint: "Brezno main square with the historic tower and park",
             },
             {
                   "name": "Most na Trolaskoch",
-                  "text": "Eine Brücke in Hlohovec, die Stadtteile miteinander verbindet.",
+                  "text": "Eine denkmalgeschützte Brücke in Hlohovec, erbaut in den 1660er Jahren.",
                   "category": "landmark",
                   "coords": [
                         17.771124,
@@ -19770,7 +19770,7 @@ imageHint: "Brezno main square with the historic tower and park",
             },
             {
                   "name": "Most na Trolaskoch",
-                  "text": "Galgóci híd, amely a város részeit köti össze.",
+                  "text": "Műemlék híd Hlohovecben, az 1660-as években épült.",
                   "category": "landmark",
                   "coords": [
                         17.771124,
@@ -19880,7 +19880,7 @@ imageHint: "Brezno main square with the historic tower and park",
             },
             {
                   "name": "Most na Trolaskoch",
-                  "text": "Un pod în Hlohovec care conectează părți ale orașului.",
+                  "text": "Un pod protejat din Hlohovec, construit în anii 1660.",
                   "category": "landmark",
                   "coords": [
                         17.771124,
@@ -19990,7 +19990,7 @@ imageHint: "Brezno main square with the historic tower and park",
             },
             {
                   "name": "Most na Trolaskoch",
-                  "text": "A bridge in Hlohovec connecting parts of the city.",
+                  "text": "A heritage-listed bridge in Hlohovec, built in the 1660s.",
                   "category": "landmark",
                   "coords": [
                         17.771124,

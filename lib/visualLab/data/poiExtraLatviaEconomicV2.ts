@@ -1204,7 +1204,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Siguldas Jaunā pils",
-                  "text": "Ein neugotisches Herrenhaus, das als das Neue Schloss von Sigulda bekannt ist.",
+                  "text": "1878 erbautes Siguldaer Neues Schloss, neugotisch, beherbergt heute das Tourismuszentrum.",
                   "category": "historical",
                   "coords": [
                         24.850132,
@@ -1521,7 +1521,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Siguldas Jaunā pils",
-                  "text": "Siguldai Új Várként ismert neogótikus kúria.",
+                  "text": "Az 1878-ban épült siguldai új kastély, neogótikus stílusban, ma a turisztikai központ otthona.",
                   "category": "historical",
                   "coords": [
                         24.850132,
@@ -1838,7 +1838,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Siguldas Jaunā pils",
-                  "text": "Un conac neogotic cunoscut sub numele de Noul Castel din Sigulda.",
+                  "text": "Castelul Nou din Sigulda, construit în 1878 în stil neogotic, găzduiește centrul de turism.",
                   "category": "historical",
                   "coords": [
                         24.850132,
@@ -2155,7 +2155,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Sigulda Castle",
-                  "text": "A neo-Gothic manor house known as the New Castle of Sigulda.",
+                  "text": "Sigulda New Castle, built in 1878 in neo‑Gothic style, now houses the tourism center.",
                   "category": "historical",
                   "coords": [
                         24.850132,

@@ -2338,7 +2338,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Burgruine Krimulda",
-                  "text": "Historische Ruinen einer mittelalterlichen Burg in Sigulda.",
+                  "text": "Krimuldaer Burgruine aus dem 14. Jahrhundert bei Sigulda, mittelalterliche Höhenburg.",
                   "category": "castle",
                   "coords": [
                         24.832307,
@@ -2745,7 +2745,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Krimuldas pilsdrupas",
-                  "text": "Középkori vár történelmi romjai Siguldában.",
+                  "text": "A 14. századi Krimulda várrom Sigulda közelében, középkori magaslati vár.",
                   "category": "castle",
                   "coords": [
                         24.832307,
@@ -3152,7 +3152,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Krimuldas pilsdrupas",
-                  "text": "Ruinele istorice ale unui castel medieval din Sigulda.",
+                  "text": "Ruinele castelului Krimulda din secolul al XIV-lea lângă Sigulda, cetate medievală de înălțime.",
                   "category": "castle",
                   "coords": [
                         24.832307,
@@ -3559,7 +3559,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Krimuldas castle",
-                  "text": "Historic ruins of a medieval castle in Sigulda.",
+                  "text": "Krimulda Castle ruins near Sigulda, a 14th‑century medieval hill fortress.",
                   "category": "castle",
                   "coords": [
                         24.832307,

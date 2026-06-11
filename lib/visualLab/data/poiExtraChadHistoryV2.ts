@@ -102,7 +102,52 @@ export const poiExtraChadHistoryV2: POI[] = [
       fr: ["Centre de l'empire du Kanem-Bornou.", "Point majeur de la route de la soie africaine.", "Site de fouilles archéologiques.", "D'une importance capitale au XIe siècle."],
     }, image: "/poi-images/njimi-history-v2.webp"},
   {
-    id: "gaoui-history-v2",
+    id: "gaoui-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Gaoui",
+                  "text": "Dieses lokale Museum ist in traditioneller Kotoko-Lehmarchitektur untergebracht und zeigt kunstvoll bemalte Töpferwaren und Dorffunde in Gaoui.",
+                  "category": "museum",
+                  "coords": [
+                        15.148774,
+                        12.179061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Gaoui",
+                  "text": "A hagyományos Kotoko vályogépítészetben helyet kapó helyi múzeum bonyolultan festett fazekasedényeket és falusi leleteket mutat be Gaouiban.",
+                  "category": "museum",
+                  "coords": [
+                        15.148774,
+                        12.179061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Gaoui",
+                  "text": "Găzduit într-o arhitectură tradițională de pământ Kotoko, acest muzeu local expune ceramică pictată complex și artefacte ale satului din Gaoui.",
+                  "category": "museum",
+                  "coords": [
+                        15.148774,
+                        12.179061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Gaoui",
+                  "text": "Housed in traditional Kotoko earthen architecture, this local museum displays intricately painted pottery and village artifacts in Gaoui.",
+                  "category": "museum",
+                  "coords": [
+                        15.148774,
+                        12.179061
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-CB",
     coords: [15.15, 12.17],
@@ -347,7 +392,52 @@ export const poiExtraChadHistoryV2: POI[] = [
       fr: ["Comprend des constructions historiques en terre.", "Site important pour les archéologues.", "Fait partie de la civilisation du lac Tchad.", "Rempart de protection contre les intrus."],
     }, image: "/poi-images/goulfeil-history-v2.webp"},
   {
-    id: "mdaga-history-v2",
+    id: "mdaga-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "EMAT",
+                  "text": "Die EMAT-Struktur ist ein befestigtes, burgähnliches Gebäude in Mdaga, das ursprünglich der regionalen Verteidigung diente.",
+                  "category": "castle",
+                  "coords": [
+                        14.997432,
+                        12.161299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "EMAT",
+                  "text": "Az EMAT nevű építmény egy erődített, kastélyszerű épület Mdagában, amelyet eredetileg regionális védelem céljából emeltek.",
+                  "category": "castle",
+                  "coords": [
+                        14.997432,
+                        12.161299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "EMAT",
+                  "text": "Structura EMAT este o clădire fortificată, asemănătoare unui castel, din Mdaga, construită inițial pentru apărarea regională.",
+                  "category": "castle",
+                  "coords": [
+                        14.997432,
+                        12.161299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "EMAT",
+                  "text": "The EMAT structure is a fortified castle-like building in Mdaga, originally constructed for regional defense.",
+                  "category": "castle",
+                  "coords": [
+                        14.997432,
+                        12.161299
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-CB",
     coords: [15.0, 12.2],
@@ -396,7 +486,88 @@ export const poiExtraChadHistoryV2: POI[] = [
       fr: ["Histoire de l'habitat par couches.", "Découvertes de figurines en terre cuite.", "Date du Ve siècle av. J.-C.", "Plus grand tumulus de la région."],
     }, image: "/poi-images/mdaga-history-v2.webp"},
   {
-    id: "amsile-history-v2",
+    id: "amsile-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Residence de Monsieur LEO",
+                  "text": "Dieses moderne Herrenhaus, dessen Gründung Ende 2025 begann, zeichnet sich durch private Wohnarchitektur in der Gemeinde Amsile aus.",
+                  "category": "historical",
+                  "coords": [
+                        15.126912,
+                        12.09497
+                  ]
+            },
+            {
+                  "name": "Ferme de Djouna",
+                  "text": "Dieser aktive Bauernhof in der Nähe von Amsile fungiert als landwirtschaftliche Attraktion und ermöglicht es Besuchern, den ländlichen Ackerbau und die lokale Viehhaltung zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.126234,
+                        12.069489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Residence de Monsieur LEO",
+                  "text": "A 2025 végén alapított modern kúria magáncélú lakóépítészeti stílusjegyekkel büszkélkedhet az Amsile közösségben.",
+                  "category": "historical",
+                  "coords": [
+                        15.126912,
+                        12.09497
+                  ]
+            },
+            {
+                  "name": "Ferme de Djouna",
+                  "text": "Mezőgazdasági látványosságként ez az Amsile melletti aktív gazdaság lehetővé teszi a látogatók számára, hogy megfigyeljék a vidéki növénytermesztést és a helyi állattartási gyakorlatokat.",
+                  "category": "landmark",
+                  "coords": [
+                        15.126234,
+                        12.069489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Residence de Monsieur LEO",
+                  "text": "Începând cu înființarea sa la sfârșitul anului 2025, acest conac modern prezintă o arhitectură rezidențială privată situată în comunitatea Amsile.",
+                  "category": "historical",
+                  "coords": [
+                        15.126912,
+                        12.09497
+                  ]
+            },
+            {
+                  "name": "Ferme de Djouna",
+                  "text": "Funcționând ca o atracție agricolă, această fermă activă de lângă Amsile permite vizitatorilor să observe cultivarea culturilor rurale și practicile locale de creștere a animalelor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.126234,
+                        12.069489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Residence de Monsieur LEO",
+                  "text": "Commencing its establishment in late 2025, this modern manor features private residential architecture situated within the Amsile community.",
+                  "category": "historical",
+                  "coords": [
+                        15.126912,
+                        12.09497
+                  ]
+            },
+            {
+                  "name": "Ferme de Djouna",
+                  "text": "Functioning as an agricultural attraction, this active farm near Amsile allows visitors to observe rural crop cultivation and local livestock practices.",
+                  "category": "landmark",
+                  "coords": [
+                        15.126234,
+                        12.069489
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-CB",
     coords: [15.2, 12.1],
@@ -494,7 +665,52 @@ export const poiExtraChadHistoryV2: POI[] = [
       fr: ["Grandes sépultures en urnes.", "Héritage culturel des Kotoko.", "Établissement préislamique.", "Découvertes majeures de bronzes."],
     }, image: "/poi-images/tago-history-v2.webp"},
   {
-    id: "niola-doa-history-v2",
+    id: "niola-doa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tank BMP-1",
+                  "text": "Dieser Panzer vom Typ BMP-1 ist ein verlassenes militärisches Schützenpanzerfahrzeug, das als Attraktion erhalten blieb.",
+                  "category": "landmark",
+                  "coords": [
+                        21.519947,
+                        17.103901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tank BMP-1",
+                  "text": "Ez a BMP-1-es harckocsi egy elhagyatott katonai gyalogsági harcjármű, amelyet látványosságként őriztek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.519947,
+                        17.103901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tank BMP-1",
+                  "text": "Acest Tanc BMP-1 este un vehicul militar de luptă al infanteriei abandonat, păstrat ca atracție.",
+                  "category": "landmark",
+                  "coords": [
+                        21.519947,
+                        17.103901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tank BMP-1",
+                  "text": "This Tank BMP-1 is an abandoned military infantry fighting vehicle preserved as an attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        21.519947,
+                        17.103901
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-EE",
     coords: [21.6, 17.1],
@@ -542,7 +758,52 @@ export const poiExtraChadHistoryV2: POI[] = [
       fr: ["Motifs ornementaux uniques.", "Vieux de plus de 3 000 ans.", "Symbole de fertilité.", "Chef-d'œuvre de l'art du désert."],
     }, image: "/poi-images/niola-doa-history-v2.webp"},
   {
-    id: "gonoa-history-v2",
+    id: "gonoa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point",
+                  "text": "Der Rond-point ist ein strukturelles Denkmal, das den zentralen Verkehrskreisel der Siedlung bildet.",
+                  "category": "historical",
+                  "coords": [
+                        16.999441,
+                        21.354259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point",
+                  "text": "A Rond-point egy szerkezeti emlékmű, amely a település központi közlekedési körforgalmát alkotja.",
+                  "category": "historical",
+                  "coords": [
+                        16.999441,
+                        21.354259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point",
+                  "text": "Rond-point este un monument structural care formează sensul giratoriu central al așezării.",
+                  "category": "historical",
+                  "coords": [
+                        16.999441,
+                        21.354259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point",
+                  "text": "The Rond-point is a structural monument forming the central traffic roundabout in the settlement.",
+                  "category": "historical",
+                  "coords": [
+                        16.999441,
+                        21.354259
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-TI",
     coords: [17.0, 21.4],
@@ -782,7 +1043,124 @@ export const poiExtraChadHistoryV2: POI[] = [
       fr: ["Fondée en 1513.", "Ancien centre du royaume du Baguirmi.", "Vestiges des remparts visibles.", "Site important pour l'histoire tchadienne."],
     }, image: "/poi-images/massenya-ruins-history-v2.webp"},
   {
-    id: "abeche-palace-history-v2",
+    id: "abeche-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippodrome",
+                  "text": "Das Hippodrom in abeche-palace-history-v2 dient als Austragungsort für Pferderennen und Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771374,
+                        13.754372
+                  ]
+            },
+            {
+                  "name": "Centrale électrique solaire d'Abeché",
+                  "text": "Dieses Solarkraftwerk dient als modernes Industriedenkmal in der Gegend von abeche-palace-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.76018,
+                        13.800592
+                  ]
+            },
+            {
+                  "name": "Château d'eau",
+                  "text": "Der Wasserturm in abeche-palace-history-v2 ist ein markantes Bauwerk und ein lokaler Anziehungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.806973,
+                        13.795745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippodrome",
+                  "text": "Az abeche-palace-history-v2-ben található Hippodrom lóversenyek és rendezvények helyszínéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771374,
+                        13.754372
+                  ]
+            },
+            {
+                  "name": "Centrale électrique solaire d'Abeché",
+                  "text": "Ez a naperőmű modern ipari műemlékként funkcionál abeche-palace-history-v2 környékén.",
+                  "category": "historical",
+                  "coords": [
+                        20.76018,
+                        13.800592
+                  ]
+            },
+            {
+                  "name": "Château d'eau",
+                  "text": "Az abeche-palace-history-v2-ben található víztorony egy feltűnő építmény és egy helyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        20.806973,
+                        13.795745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippodrome",
+                  "text": "Hipodromul din abeche-palace-history-v2 servește ca loc de desfășurare pentru curse de cai și evenimente.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771374,
+                        13.754372
+                  ]
+            },
+            {
+                  "name": "Centrale électrique solaire d'Abeché",
+                  "text": "Această centrală electrică solară servește drept monument industrial modern în zona abeche-palace-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.76018,
+                        13.800592
+                  ]
+            },
+            {
+                  "name": "Château d'eau",
+                  "text": "Turnul de apă din abeche-palace-history-v2 este o structură marcantă și un punct de atracție local.",
+                  "category": "landmark",
+                  "coords": [
+                        20.806973,
+                        13.795745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippodrome",
+                  "text": "The Hippodrome in abeche-palace-history-v2 serves as a venue for horse races and events.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771374,
+                        13.754372
+                  ]
+            },
+            {
+                  "name": "Solar Electric plant of Abeché",
+                  "text": "This solar electric plant serves as a modern industrial monument in the abeche-palace-history-v2 area.",
+                  "category": "historical",
+                  "coords": [
+                        20.76018,
+                        13.800592
+                  ]
+            },
+            {
+                  "name": "Château d'eau",
+                  "text": "The water tower in abeche-palace-history-v2 is a prominent structure and a local point of attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        20.806973,
+                        13.795745
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-OD",
     coords: [20.8, 13.8],
@@ -879,7 +1257,88 @@ export const poiExtraChadHistoryV2: POI[] = [
     }
   },
   {
-    id: "bahr-el-gazel-history-v2",
+    id: "bahr-el-gazel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez MCD",
+                  "text": "Als lokaler Treffpunkt bietet diese Attraktion schattige Sitzplätze und fördert den gemeinschaftlichen Austausch in der Region Bahr el Gazel.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "Dieses kulturelle Animationszentrum beherbergt eine regionale Bibliothek und Aktivitätsräume zur Förderung von Literatur und Kunst in Bahr el Gazel.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez MCD",
+                  "text": "Helyi gyülekezőhelyként működve ez a látványosság árnyékos ülőhelyeket és közösségi interakciót biztosít a Bahr el Gazel régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "Ez a kulturális animációs központ egy regionális könyvtárnak és foglalkoztatótermeknek ad otthont, amelyek az irodalom és a művészetek népszerűsítését célozzák Bahr el Gazelben.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez MCD",
+                  "text": "Funcționând ca un loc de adunare local, această atracție oferă locuri umbrite și interacțiune comunitară în regiunea Bahr el Gazel.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "Acest centru de animație culturală găzduiește o bibliotecă regională și săli de activități menite să promoveze literatura și artele în Bahr el Gazel.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez MCD",
+                  "text": "Functioning as a local gathering establishment, this attraction provides shaded seating and community interaction in the Bahr el Gazel region.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "This cultural animation center houses a regional library and activity rooms aimed at promoting literature and the arts in Bahr el Gazel.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-BG",
     coords: [16.5, 13.6],
@@ -927,7 +1386,88 @@ export const poiExtraChadHistoryV2: POI[] = [
       fr: ["Fait partie du commerce transsaharien.", "Importance pour la propagation de l'islam.", "Haltes historiques dans les oasis.", "Vestiges archéologiques."],
     }, image: "/poi-images/bahr-el-gazel-history-v2.webp"},
   {
-    id: "mao-sultanate-history-v2",
+    id: "mao-sultanate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ancien gouvernorat",
+                  "text": "Die Ruinen des alten Gouverneurspalastes zeugen von der kolonialen Geschichte im historischen Sultanat Mao.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            },
+            {
+                  "name": "Palais du Sultant du Kanem",
+                  "text": "Der Palais du Sultant du Kanem ist ein historischer Burgkomplex, der als traditioneller Herrschaftssitz im Mao-Sultanat dient.",
+                  "category": "castle",
+                  "coords": [
+                        15.312905,
+                        14.1205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ancien gouvernorat",
+                  "text": "A régi kormányzói palota romjai a történelmi Mao Szultanátus gyarmati múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            },
+            {
+                  "name": "Palais du Sultant du Kanem",
+                  "text": "A Palais du Sultant du Kanem egy történelmi várkastély, amely a Mao Szultanátus hagyományos hatalmi központja.",
+                  "category": "castle",
+                  "coords": [
+                        15.312905,
+                        14.1205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ancien gouvernorat",
+                  "text": "Ruinele fostului palat al guvernatorului mărturisesc trecutul colonial al istoricului Sultanat Mao.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            },
+            {
+                  "name": "Palais du Sultant du Kanem",
+                  "text": "Palais du Sultant du Kanem este un complex de castel istoric ce servește drept centru tradițional de putere în Sultanatul Mao.",
+                  "category": "castle",
+                  "coords": [
+                        15.312905,
+                        14.1205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ancien gouvernorat",
+                  "text": "The ruins of the former governorate bear witness to the colonial history within the historic Mao Sultanate.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            },
+            {
+                  "name": "Palais du Sultant du Kanem",
+                  "text": "The Palais du Sultant du Kanem is a historic castle complex serving as the traditional seat of power in the Mao Sultanate.",
+                  "category": "castle",
+                  "coords": [
+                        15.312905,
+                        14.1205
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TD-KA",
     coords: [15.3, 14.1],

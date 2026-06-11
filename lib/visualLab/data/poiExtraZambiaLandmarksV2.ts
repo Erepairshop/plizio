@@ -48,7 +48,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mulungushi-international-conference-centre-landmarks-v2",
+    id: "mulungushi-international-conference-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Suwilanji Gardens",
+                  "text": "Nahe dem Mulungushi International Conference Centre gelegen, bieten diese ruhigen Gärten schattige Wege und Zierpflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.323515,
+                        -15.383256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suwilanji Gardens",
+                  "text": "A Mulungushi Nemzetközi Konferenciaközpont közelében található békés kertek árnyékos sétányokkal és dísznövényekkel büszkélkedhetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.323515,
+                        -15.383256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suwilanji Gardens",
+                  "text": "Situate lângă Centrul Internațional de Conferințe Mulungushi, aceste grădini liniștite oferă alei umbrite și plante ornamentale.",
+                  "category": "landmark",
+                  "coords": [
+                        28.323515,
+                        -15.383256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suwilanji Gardens",
+                  "text": "Situated near the Mulungushi International Conference Centre, these tranquil gardens feature shaded walkways and ornamental plants.",
+                  "category": "landmark",
+                  "coords": [
+                        28.323515,
+                        -15.383256
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.3228, -15.3931],
@@ -429,7 +474,196 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "royal-livingstone-hotel-landmarks-v2",
+    id: "royal-livingstone-hotel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Field Museum",
+                  "text": "Das Museum dokumentiert die geologische Entstehung der Schlucht und die lokale prähistorische Besiedlung.",
+                  "category": "museum",
+                  "coords": [
+                        25.865654,
+                        -17.925869
+                  ]
+            },
+            {
+                  "name": "World War I Memorial",
+                  "text": "Ein historisches Denkmal nahe der Wasserfälle, das an die in der Region gefallenen Soldaten des Ersten Weltkriegs erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        25.864078,
+                        -17.926986
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge",
+                  "text": "Die historische, bogenförmige Stahlbrücke überquert den Sambesi und bietet atemberaubende Ausblicke in die tiefe Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        25.862026,
+                        -17.926725
+                  ]
+            },
+            {
+                  "name": "Look-Out Tree",
+                  "text": "Ein erhöhter Aussichtspunkt in den Baumwipfeln, der eine einzigartige Perspektive auf die umgebende Flusslandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.869784,
+                        -17.91981
+                  ]
+            },
+            {
+                  "name": "Flood of 1958 Monument",
+                  "text": "Dieses Denkmal markiert den extremen Höchststand des Sambesi während der historischen Überschwemmungen von 1958.",
+                  "category": "historical",
+                  "coords": [
+                        25.864405,
+                        -17.911927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Field Museum",
+                  "text": "Ez a múzeum a szurdok geológiai kialakulását és a környező terület őskori emberi településeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.865654,
+                        -17.925869
+                  ]
+            },
+            {
+                  "name": "World War I Memorial",
+                  "text": "Egy kőemlékmű a vízesés közelében, amely az első világháborúban szolgált és elesett helyi katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        25.864078,
+                        -17.926986
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge",
+                  "text": "A Zambézi folyót átívelő történelmi acél ívhíd, amely izgalmas bungee jumpingot és szurdokra nyíló kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.862026,
+                        -17.926725
+                  ]
+            },
+            {
+                  "name": "Look-Out Tree",
+                  "text": "Egy magaslati kilátó, amely egy nagy fa lombkoronájában fészkel, egyedi perspektívát nyújtva a folyópartokra.",
+                  "category": "natural",
+                  "coords": [
+                        25.869784,
+                        -17.91981
+                  ]
+            },
+            {
+                  "name": "Flood of 1958 Monument",
+                  "text": "Ez az emlékmű a Zambézi folyó rendkívül magas vízállását jelzi, amelyet az 1958-as árvíz idején ért el.",
+                  "category": "historical",
+                  "coords": [
+                        25.864405,
+                        -17.911927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Field Museum",
+                  "text": "Acest muzeu prezintă formarea geologică a defileului și așezările umane preistorice din zona înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        25.865654,
+                        -17.925869
+                  ]
+            },
+            {
+                  "name": "World War I Memorial",
+                  "text": "Un monument de piatră în apropierea cascadei, care comemorează soldații locali ce au servit și au căzut în timpul Primului Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        25.864078,
+                        -17.926986
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge",
+                  "text": "Un pod istoric cu arcadă din oțel ce traversează râul Zambezi, oferind sărituri cu coarda bungee și priveliști asupra defileului.",
+                  "category": "natural",
+                  "coords": [
+                        25.862026,
+                        -17.926725
+                  ]
+            },
+            {
+                  "name": "Look-Out Tree",
+                  "text": "Un punct de observație la înălțime, ascuns în coroana unui copac mare, oferind o perspectivă unică asupra malurilor râului.",
+                  "category": "natural",
+                  "coords": [
+                        25.869784,
+                        -17.91981
+                  ]
+            },
+            {
+                  "name": "Flood of 1958 Monument",
+                  "text": "Acest monument marchează nivelul extraordinar de ridicat al apelor râului Zambezi atins în timpul inundațiilor din 1958.",
+                  "category": "historical",
+                  "coords": [
+                        25.864405,
+                        -17.911927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Field Museum",
+                  "text": "This museum chronicles the geological formation of the gorge and the prehistoric human settlements of the surrounding area.",
+                  "category": "museum",
+                  "coords": [
+                        25.865654,
+                        -17.925869
+                  ]
+            },
+            {
+                  "name": "World War I Memorial",
+                  "text": "A stone monument near the falls commemorating the local soldiers who served and fell during the First World War.",
+                  "category": "historical",
+                  "coords": [
+                        25.864078,
+                        -17.926986
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Bridge",
+                  "text": "A historic, arched steel bridge spanning the Zambezi River, offering thrilling bungee jumps and gorge views.",
+                  "category": "natural",
+                  "coords": [
+                        25.862026,
+                        -17.926725
+                  ]
+            },
+            {
+                  "name": "Look-Out Tree",
+                  "text": "An elevated viewpoint nestled in the canopy of a large tree, giving a unique perspective on the riverbanks.",
+                  "category": "natural",
+                  "coords": [
+                        25.869784,
+                        -17.91981
+                  ]
+            },
+            {
+                  "name": "Flood of 1958 Monument",
+                  "text": "This monument marks the extraordinarily high water level reached by the Zambezi River during the 1958 floods.",
+                  "category": "historical",
+                  "coords": [
+                        25.864405,
+                        -17.911927
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-07",
     coords: [25.8647, -17.9250],
@@ -477,7 +711,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "taj-pamodzi-hotel-landmarks-v2",
+    id: "taj-pamodzi-hotel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lusaka Playhouse",
+                  "text": "Das Lusaka Playhouse ist ein etabliertes Gemeindetheater, in dem lokale Theateraufführungen und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        28.299681,
+                        -15.418853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lusaka Playhouse",
+                  "text": "A Lusaka Playhouse egy bejáratott közösségi színház, amely helyi drámai előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.299681,
+                        -15.418853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lusaka Playhouse",
+                  "text": "Lusaka Playhouse este un teatru comunitar consacrat care pune în scenă spectacole dramatice locale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.299681,
+                        -15.418853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lusaka Playhouse",
+                  "text": "Lusaka Playhouse is an established community theater venue staging local dramatic performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        28.299681,
+                        -15.418853
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.2981, -15.4194],
@@ -525,7 +804,88 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "university-of-zambia-landmarks-v2",
+    id: "university-of-zambia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plot 968, House No. 2",
+                  "text": "In der Nähe der University of Zambia gelegen, dienen diese charakteristischen Gemeinschaftsräume als beliebte Treffpunkte für Studenten und Einheimische.",
+                  "category": "landmark",
+                  "coords": [
+                        28.407317,
+                        -15.388056
+                  ]
+            },
+            {
+                  "name": "Selina Events Gardens",
+                  "text": "Diese wunderschön gestalteten Veranstaltungsgärten nahe dem Universitätscampus beherbergen Feierlichkeiten im Freien inmitten üppiger, gepflegter Rasenflächen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.398512,
+                        -15.389019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plot 968, House No. 2",
+                  "text": "A Zambiai Egyetem közelében található jellegzetes közösségi terek a diákok és a helyiek népszerű találkozóhelyeként szolgálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        28.407317,
+                        -15.388056
+                  ]
+            },
+            {
+                  "name": "Selina Events Gardens",
+                  "text": "Ezek a gyönyörűen parkosított rendezvénykertek az egyetemi kampusz közelében buja, gondozott pázsitok között adnak otthont a szabadtéri ünnepségeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.398512,
+                        -15.389019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plot 968, House No. 2",
+                  "text": "Situate lângă Universitatea din Zambia, aceste spații comunale caracteristice servesc drept locuri populare de întâlnire pentru studenți și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        28.407317,
+                        -15.388056
+                  ]
+            },
+            {
+                  "name": "Selina Events Gardens",
+                  "text": "Aceste grădini de evenimente frumos amenajate de lângă campusul universitar găzduiesc sărbători în aer liber, în mijlocul unor peluze luxuriante și îngrijite.",
+                  "category": "landmark",
+                  "coords": [
+                        28.398512,
+                        -15.389019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Bandas",
+                  "text": "Located near the University of Zambia, these characteristic communal spaces serve as popular meeting spots for students and locals.",
+                  "category": "landmark",
+                  "coords": [
+                        28.407317,
+                        -15.388056
+                  ]
+            },
+            {
+                  "name": "Selina Events Gardens",
+                  "text": "These beautifully landscaped event gardens near the university campus host outdoor celebrations amid lush, manicured lawns.",
+                  "category": "landmark",
+                  "coords": [
+                        28.398512,
+                        -15.389019
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.3292, -15.3958],
@@ -618,7 +978,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kariba-dam-wall-landmarks-v2",
+    id: "kariba-dam-wall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crocodiles Farm",
+                  "text": "Diese lokale Attraktion ist eine bewirtschaftete Krokodilfarm in der Nähe der gewaltigen Kariba-Staumauer.",
+                  "category": "landmark",
+                  "coords": [
+                        28.703545,
+                        -16.505619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crocodiles Farm",
+                  "text": "Ez a helyi látványosság egy működő krokodilfarm, amely a hatalmas Kariba-gát közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        28.703545,
+                        -16.505619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crocodiles Farm",
+                  "text": "Această atracție locală este o fermă de crocodili situată în apropierea masivului baraj Kariba.",
+                  "category": "landmark",
+                  "coords": [
+                        28.703545,
+                        -16.505619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crocodiles Farm",
+                  "text": "This local attraction is a working crocodile farm situated near the massive Kariba dam wall.",
+                  "category": "landmark",
+                  "coords": [
+                        28.703545,
+                        -16.505619
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-07",
     coords: [28.7611, -16.5225],
@@ -711,7 +1116,124 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "big-tree-national-monument-landmarks-v2",
+    id: "big-tree-national-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "Diese historische Dampflokomotive steht als Industriedenkmal in der Nähe des Big Tree und zeigt die frühe Eisenbahntechnik der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "William Cousin",
+                  "text": "Dieser Ort in der Nähe des Wahrzeichens Big Tree würdigt lokale historische Persönlichkeiten, die eng mit der Entwicklung der Region verbunden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        28.434649,
+                        -14.413587
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "Diese erhaltene Dampflokomotive bietet einen Einblick in das historische Transportnetz, das einst die lokale Industrie antrieb.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "Ez a történelmi gőzmozdony ipari relikviaként áll a Nagy Fa közelében, bemutatva a régió korai vasútépítészetét.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "William Cousin",
+                  "text": "Ez a Nagy Fa nevezetesség közelében található hely tiszteleg a terület fejlődésével összefonódó helyi történelmi személyiségek előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.434649,
+                        -14.413587
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "Ez a megőrzött gőzmozdony bepillantást enged abba a régi közlekedési hálózatba, amely egykor a helyi ipart táplálta.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "Această locomotivă cu abur istorică stă ca o relicvă industrială în apropierea Marelui Arbore, prezentând ingineria feroviară timpurie a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "William Cousin",
+                  "text": "Acest loc din apropierea Marelui Arbore aduce un omagiu personalităților istorice locale implicate în dezvoltarea zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.434649,
+                        -14.413587
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "Această locomotivă cu abur conservată oferă o privire asupra rețelei de transport de epocă care a alimentat cândva industria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "This historic steam locomotive stands as an industrial relic near the Big Tree, showcasing the region's early railway engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "William Cousin",
+                  "text": "This site near the Big Tree landmark pays tribute to local historical figures intertwined with the area's development.",
+                  "category": "landmark",
+                  "coords": [
+                        28.434649,
+                        -14.413587
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "This preserved steam engine offers a glimpse into the vintage transportation network that once fueled local industry.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-02",
     coords: [28.4419, -14.4447],
@@ -756,7 +1278,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "chilenje-house-394-landmarks-v2",
+    id: "chilenje-house-394-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tuesday Market",
+                  "text": "Dieser lebhafte, wöchentliche Freiluftmarkt nahe dem Chilenje House ist ein geschäftiger Knotenpunkt, an dem Einheimische frische Produkte und traditionelle Waren handeln.",
+                  "category": "landmark",
+                  "coords": [
+                        28.313366,
+                        -15.436709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tuesday Market",
+                  "text": "Ez az élénk, heti rendszerességű szabadtéri piac a Chilenje House közelében egy nyüzsgő központ, ahol a helyiek friss termékeket és hagyományos árukat cserélnek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.313366,
+                        -15.436709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tuesday Market",
+                  "text": "Această piață vibrantă săptămânală în aer liber din apropierea Casei Chilenje este un centru plin de viață unde localnicii se adună pentru a face comerț cu produse proaspete și bunuri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        28.313366,
+                        -15.436709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tuesday Market",
+                  "text": "This vibrant weekly open-air market near Chilenje House is a bustling hub where locals gather to trade fresh produce and traditional goods.",
+                  "category": "landmark",
+                  "coords": [
+                        28.313366,
+                        -15.436709
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.3225, -15.4417],
@@ -849,7 +1416,88 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nchanga-stadium-landmarks-v2",
+    id: "nchanga-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "Ein Industriestandort, der mit dem prominenten Bergbauausrüster verbunden ist und das starke Kupferbergbauerbe der Region unterstreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            },
+            {
+                  "name": "Lukwesa Kabanshi Residence",
+                  "text": "Eine markante lokale Residenz in der städtischen Landschaft rund um das Nchanga-Stadion.",
+                  "category": "landmark",
+                  "coords": [
+                        27.854942,
+                        -12.535137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "A jelentős bányászati ​​berendezéseket szállító céghez kötődő ipari létesítmény, amely a régió erős rézbányászati ​​hagyományait emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            },
+            {
+                  "name": "Lukwesa Kabanshi Residence",
+                  "text": "A Nchanga stadion körüli városi tájban található, jellegzetes helyi lakóépület.",
+                  "category": "landmark",
+                  "coords": [
+                        27.854942,
+                        -12.535137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "Un sit industrial asociat cu un important furnizor de echipamente miniere, evidențiind puternica moștenire a mineritului de cupru din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            },
+            {
+                  "name": "Lukwesa Kabanshi Residence",
+                  "text": "O structură rezidențială locală distinctă situată în peisajul urban din jurul stadionului Nchanga.",
+                  "category": "landmark",
+                  "coords": [
+                        27.854942,
+                        -12.535137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "An industrial site associated with the prominent mining equipment supplier, highlighting the region's strong copper mining heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            },
+            {
+                  "name": "Lukwesa Kabanshi Residence",
+                  "text": "A distinct local residence structure situated in the urban landscape surrounding the Nchanga stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        27.854942,
+                        -12.535137
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-08",
     coords: [27.8575, -12.5283],
@@ -897,7 +1545,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sunset-stadium-landmarks-v2",
+    id: "sunset-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gabon Disaster Memorial",
+                  "text": "Dieses feierliche Kulturerbe-Denkmal nahe dem Sunset Stadium erinnert an den tragischen Flugzeugabsturz von 1993, bei dem die sambische Fußballnationalmannschaft ums Leben kam.",
+                  "category": "historical",
+                  "coords": [
+                        28.268884,
+                        -15.368945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gabon Disaster Memorial",
+                  "text": "Ez az ünnepélyes örökségi emlékmű a Sunset Stadium közelében az 1993-as tragikus repülőgép-szerencsétlenségnek állít emléket, amely a zambiai nemzeti labdarúgó-válogatott életét követelte.",
+                  "category": "historical",
+                  "coords": [
+                        28.268884,
+                        -15.368945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gabon Disaster Memorial",
+                  "text": "Acest monument funerar de patrimoniu din apropierea Sunset Stadium comemorează tragicul accident de avion din 1993 în care și-a pierdut viața echipa națională de fotbal a Zambiei.",
+                  "category": "historical",
+                  "coords": [
+                        28.268884,
+                        -15.368945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gabon Disaster Memorial",
+                  "text": "This solemn heritage monument near Sunset Stadium commemorates the tragic 1993 plane crash that claimed the lives of the Zambia national football team.",
+                  "category": "historical",
+                  "coords": [
+                        28.268884,
+                        -15.368945
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.2611, -15.3853],
@@ -945,7 +1638,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "woodlands-stadium-landmarks-v2",
+    id: "woodlands-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kenneth Kaunda Chilenje House National Monument",
+                  "text": "Das Kenneth Kaunda Chilenje House National Monument bewahrt den historischen Wohnsitz, in dem Sambias erster Präsident während des Unabhängigkeitskampfes lebte.",
+                  "category": "historical",
+                  "coords": [
+                        28.332187,
+                        -15.443641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kenneth Kaunda Chilenje House National Monument",
+                  "text": "A Kenneth Kaunda Chilenje House Nemzeti Emlékmű megőrzi azt a történelmi rezidenciát, ahol Zambia első elnöke élt a függetlenségi harc idején.",
+                  "category": "historical",
+                  "coords": [
+                        28.332187,
+                        -15.443641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kenneth Kaunda Chilenje House National Monument",
+                  "text": "Monumentul Național Kenneth Kaunda Chilenje House păstrează reședința istorică în care a locuit primul președinte al Zambiei în timpul luptei pentru independență.",
+                  "category": "historical",
+                  "coords": [
+                        28.332187,
+                        -15.443641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kenneth Kaunda Chilenje House National Monument",
+                  "text": "The Kenneth Kaunda Chilenje House National Monument preserves the historic residence where Zambia's first president lived during the independence struggle.",
+                  "category": "historical",
+                  "coords": [
+                        28.332187,
+                        -15.443641
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.3375, -15.4431],
@@ -1041,7 +1779,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "intercontinental-lusaka-landmarks-v2",
+    id: "intercontinental-lusaka-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Embassy Park Presidential Burial Site",
+                  "text": "Diese denkmalgeschützte Anlage in Lusaka dient als offizielle Begräbnisstätte für die ehemaligen Präsidenten Sambias.",
+                  "category": "park",
+                  "coords": [
+                        28.309472,
+                        -15.421592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Embassy Park Presidential Burial Site",
+                  "text": "Ez a műemlékvédelem alatt álló park Lusakában Zambia egykori elnökeinek hivatalos temetkezési helye.",
+                  "category": "park",
+                  "coords": [
+                        28.309472,
+                        -15.421592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Embassy Park Presidential Burial Site",
+                  "text": "Acest parc de patrimoniu din Lusaka servește drept loc oficial de înmormântare pentru foștii președinți ai Zambiei.",
+                  "category": "park",
+                  "coords": [
+                        28.309472,
+                        -15.421592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Embassy Park Presidential Burial Site",
+                  "text": "This heritage-listed park in Lusaka serves as the official burial site for the former presidents of Zambia.",
+                  "category": "park",
+                  "coords": [
+                        28.309472,
+                        -15.421592
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.3014, -15.4172],
@@ -1089,7 +1872,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cosmopolitan-mall-landmarks-v2",
+    id: "cosmopolitan-mall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makeni House",
+                  "text": "Dieser markante Aussichtspunkt nahe der Cosmopolitan Mall bietet erhöhte Perspektiven über die belebte städtische Landschaft von Makeni.",
+                  "category": "natural",
+                  "coords": [
+                        28.262242,
+                        -15.460764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makeni House",
+                  "text": "Ez a Cosmopolitan Mall közelében található jellegzetes kilátópont magasan fekvő perspektívát kínál Makeni nyüzsgő városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        28.262242,
+                        -15.460764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makeni House",
+                  "text": "Acest punct de observație distinct din apropierea Cosmopolitan Mall oferă perspective înalte asupra peisajului urban plin de viață din Makeni.",
+                  "category": "natural",
+                  "coords": [
+                        28.262242,
+                        -15.460764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makeni House",
+                  "text": "This distinct vantage point near the Cosmopolitan Mall offers elevated perspectives over the bustling urban landscape of Makeni.",
+                  "category": "natural",
+                  "coords": [
+                        28.262242,
+                        -15.460764
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.2639, -15.4608],
@@ -1137,7 +1965,88 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "victoria-falls-power-station-landmarks-v2",
+    id: "victoria-falls-power-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victoria Falls National Park",
+                  "text": "Der Victoria Falls National Park schützt den Regenwald und die Tierwelt rund um den berühmten, tosenden Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        25.854326,
+                        -17.967985
+                  ]
+            },
+            {
+                  "name": "Wild Horizons Elephant Sanctuary",
+                  "text": "Das Wild Horizons Elephant Sanctuary ist ein Refugium, das sich auf die Pflege und Rehabilitation geretteter Elefanten konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856082,
+                        -17.974934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victoria Falls National Park",
+                  "text": "A Victoria Falls Nemzeti Park a világhírű, dübörgő vízesést övező esőerdőt és vadvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        25.854326,
+                        -17.967985
+                  ]
+            },
+            {
+                  "name": "Wild Horizons Elephant Sanctuary",
+                  "text": "A Wild Horizons Elephant Sanctuary egy vadvédelmi menedékhely, amely a megmentett elefántok gondozására és rehabilitációjára összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856082,
+                        -17.974934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victoria Falls National Park",
+                  "text": "Parcul Național Victoria Falls protejează pădurea tropicală și fauna sălbatică din jurul emblematicei cascade tunătoare.",
+                  "category": "natural",
+                  "coords": [
+                        25.854326,
+                        -17.967985
+                  ]
+            },
+            {
+                  "name": "Wild Horizons Elephant Sanctuary",
+                  "text": "Sanctuarul de elefanți Wild Horizons este un refugiu dedicat vieții sălbatice, axat pe îngrijirea și reabilitarea elefanților salvați.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856082,
+                        -17.974934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victoria Falls National Park",
+                  "text": "Victoria Falls National Park protects the rainforest and wildlife surrounding the iconic, thunderous waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        25.854326,
+                        -17.967985
+                  ]
+            },
+            {
+                  "name": "Wild Horizons Elephant Sanctuary",
+                  "text": "Wild Horizons Elephant Sanctuary is a dedicated wildlife haven focused on the care and rehabilitation of rescued elephants.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856082,
+                        -17.974934
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-07",
     coords: [25.8650, -17.9303],
@@ -1281,7 +2190,52 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lusaka-playhouse-landmarks-v2",
+    id: "lusaka-playhouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lusaka National Museum",
+                  "text": "Dieses Nationalmuseum befindet sich in Lusaka.",
+                  "category": "museum",
+                  "coords": [
+                        28.291295,
+                        -15.421874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lusaka National Museum",
+                  "text": "Ez a nemzeti múzeum Lusakában található.",
+                  "category": "museum",
+                  "coords": [
+                        28.291295,
+                        -15.421874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lusaka National Museum",
+                  "text": "Acest muzeu național este situat în Lusaka.",
+                  "category": "museum",
+                  "coords": [
+                        28.291295,
+                        -15.421874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lusaka National Museum",
+                  "text": "This national museum is located in Lusaka.",
+                  "category": "museum",
+                  "coords": [
+                        28.291295,
+                        -15.421874
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZM-09",
     coords: [28.2936, -15.4181],

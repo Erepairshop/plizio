@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTunisiaEconomicV2: POI[] = [
   {
-    id: "rades-commercial-port-economic-v2",
+    id: "rades-commercial-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Ein lokales Jugend- und Kunstzentrum, das den kreativen Ausdruck in Rades fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.262767,
+                        36.850273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Helyi ifjúsági és művészeti központ, amely a kreatív önkifejezést támogatja Radesben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.262767,
+                        36.850273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Un centru local de tineret și arte care promovează expresia creativă în Rades.",
+                  "category": "cultural",
+                  "coords": [
+                        10.262767,
+                        36.850273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "A local youth and arts center fostering creative expression in Rades.",
+                  "category": "cultural",
+                  "coords": [
+                        10.262767,
+                        36.850273
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TN-13",
     coords: [10.281, 36.805],
@@ -99,7 +144,124 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sousse-port-economic-v2",
+    id: "sousse-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bateau Pirate Sousse",
+                  "text": "Das Bateau Pirate Sousse bietet eine aufregende Fahrt mit dem Piratenschiff vom Hafen in Sousse.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642085,
+                        35.825988
+                  ]
+            },
+            {
+                  "name": "Coralia Palm Beach",
+                  "text": "Das Coralia Palm Beach ist ein entspannendes Strandresort an der Küste von Sousse.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642247,
+                        35.833513
+                  ]
+            },
+            {
+                  "name": "Cultural centre of Sousse",
+                  "text": "Das Cultural centre of Sousse ist ein bedeutender Theaterort für lokale Aufführungen in der Küstenstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.640918,
+                        35.83017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bateau Pirate Sousse",
+                  "text": "A Bateau Pirate Sousse egy izgalmas kalózhajós élményt kínál Sousse kikötőjéből.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642085,
+                        35.825988
+                  ]
+            },
+            {
+                  "name": "Coralia Palm Beach",
+                  "text": "A Coralia Palm Beach egy pihentető tengerparti üdülőhely Sousse partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642247,
+                        35.833513
+                  ]
+            },
+            {
+                  "name": "Cultural centre of Sousse",
+                  "text": "A Cultural centre of Sousse a tengerparti város helyi előadásainak fontos színházi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        10.640918,
+                        35.83017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bateau Pirate Sousse",
+                  "text": "Bateau Pirate Sousse oferă o experiență captivantă cu o navă de pirați din portul Sousse.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642085,
+                        35.825988
+                  ]
+            },
+            {
+                  "name": "Coralia Palm Beach",
+                  "text": "Coralia Palm Beach este o stațiune balneară relaxantă pe litoralul din Sousse.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642247,
+                        35.833513
+                  ]
+            },
+            {
+                  "name": "Cultural centre of Sousse",
+                  "text": "Cultural centre of Sousse este un teatru important pentru spectacolele locale din orașul de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        10.640918,
+                        35.83017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bateau Pirate Sousse",
+                  "text": "The Bateau Pirate Sousse offers an exciting pirate ship experience starting from the port of Sousse.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642085,
+                        35.825988
+                  ]
+            },
+            {
+                  "name": "Coralia Palm Beach",
+                  "text": "Coralia Palm Beach is a relaxing beach resort located on the coastline of Sousse.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642247,
+                        35.833513
+                  ]
+            },
+            {
+                  "name": "Cultural centre of Sousse",
+                  "text": "The Cultural centre of Sousse is an important theatre venue for local performances in the coastal city.",
+                  "category": "cultural",
+                  "coords": [
+                        10.640918,
+                        35.83017
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TN-51",
     coords: [10.643, 35.828],
@@ -192,7 +354,52 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "gabes-port-economic-v2",
+    id: "gabes-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chatt Salem beach",
+                  "text": "Der feine Sandstrand Chatt Salem liegt direkt an der Küste des Golfs von Gabès.",
+                  "category": "recreational",
+                  "coords": [
+                        10.10827,
+                        33.903972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chatt Salem beach",
+                  "text": "A finom homokos Chatt Salem strand közvetlenül a Gabès-öböl partján fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        10.10827,
+                        33.903972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chatt Salem beach",
+                  "text": "Plaja cu nisip fin Chatt Salem este situată direct pe coasta Golfului Gabès.",
+                  "category": "recreational",
+                  "coords": [
+                        10.10827,
+                        33.903972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chatt Salem beach",
+                  "text": "The fine sandy Chatt Salem beach is located directly on the coast of the Gulf of Gabès.",
+                  "category": "recreational",
+                  "coords": [
+                        10.10827,
+                        33.903972
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TN-81",
     coords: [10.106, 33.916],
@@ -285,7 +492,160 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "la-goulette-port-economic-v2",
+    id: "la-goulette-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Ship monument",
+                  "text": "Das The Ship Monument in La Goulette erinnert in Form eines Schiffes an die maritime Geschichte der Hafenstadt.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Ḥalq al-Wādī",
+                  "text": "Der Leuchtturm Ḥalq al-Wādī weist den Schiffen den Weg in den Hafen von La Goulette.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
+                  "text": "Die Kirche St. Augustine und St. Fidelis ist ein historisches christliches Gotteshaus im Hafenviertel von La Goulette.",
+                  "category": "religious",
+                  "coords": [
+                        10.301594,
+                        36.81608
+                  ]
+            },
+            {
+                  "name": "Le Kram Beach",
+                  "text": "Der Le Kram Beach bietet einen sandigen Küstenabschnitt in der Nähe des Hafens von La Goulette.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318463,
+                        36.830168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Ship monument",
+                  "text": "A La Goulette-i The Ship monument egy hajót formázó emlékmű, amely a kikötőváros tengerészeti történelmét idézi.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Ḥalq al-Wādī",
+                  "text": "A Ḥalq al-Wādī világítótorony mutatja az utat a hajóknak La Goulette kikötőjébe.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
+                  "text": "A Szent Ágoston és Szent Fidelis templom egy történelmi keresztény istentiszteleti hely La Goulette kikötőnegyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.301594,
+                        36.81608
+                  ]
+            },
+            {
+                  "name": "Le Kram Beach",
+                  "text": "A Le Kram Beach homokos tengerparti szakaszt kínál La Goulette kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318463,
+                        36.830168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Ship monument",
+                  "text": "Monumentul The Ship din La Goulette, în formă de navă, amintește de istoria maritimă a orașului portuar.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Ḥalq al-Wādī",
+                  "text": "Farul Ḥalq al-Wādī ghidează navele către portul La Goulette.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
+                  "text": "Biserica Sf. Augustin și Sf. Fidelis este un lăcaș de cult creștin istoric în cartierul portuar din La Goulette.",
+                  "category": "religious",
+                  "coords": [
+                        10.301594,
+                        36.81608
+                  ]
+            },
+            {
+                  "name": "Le Kram Beach",
+                  "text": "Le Kram Beach oferă o întindere nisipoasă de coastă în apropierea portului La Goulette.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318463,
+                        36.830168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Ship monument",
+                  "text": "The Ship monument in La Goulette is a vessel-shaped landmark commemorating the port city's maritime history.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Ḥalq al-Wādī",
+                  "text": "The Ḥalq al-Wādī lighthouse guides ships into the bustling port of La Goulette.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "St Augustine and St Fidelis Church",
+                  "text": "St Augustine and St Fidelis Church is a historic Christian place of worship located in the port district of La Goulette.",
+                  "category": "religious",
+                  "coords": [
+                        10.301594,
+                        36.81608
+                  ]
+            },
+            {
+                  "name": "Le Kram Beach",
+                  "text": "Le Kram Beach offers a sandy coastal stretch near the port of La Goulette.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318463,
+                        36.830168
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TN-11",
     coords: [10.306, 36.815],
@@ -477,7 +837,52 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bizerte-oil-refinery-economic-v2",
+    id: "bizerte-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Remadia",
+                  "text": "Eine antike archäologische Stätte, die historische Ruinen im Gebiet von Bizerte bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        9.894307,
+                        37.246892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Remadia",
+                  "text": "Ókori régészeti lelőhely, amely történelmi romokat őriz Bizerte térségében.",
+                  "category": "historical",
+                  "coords": [
+                        9.894307,
+                        37.246892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Remadia",
+                  "text": "Un vechi sit arheologic care conservă ruine istorice în zona Bizerte.",
+                  "category": "historical",
+                  "coords": [
+                        9.894307,
+                        37.246892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Remadia",
+                  "text": "An ancient archaeological site preserving historical ruins in the Bizerte area.",
+                  "category": "historical",
+                  "coords": [
+                        9.894307,
+                        37.246892
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-23",
     coords: [9.888, 37.258],
@@ -548,7 +953,124 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       en: ["Discovered in 1964.", "Has produced millions of barrels of crude oil."]
     }, image: "/poi-images/el-borma-oil-field-economic-v2.webp"},
   {
-    id: "nawara-gas-plant-economic-v2",
+    id: "nawara-gas-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Grande Cascade de Chenini",
+                  "text": "Der Aussichtspunkt an der Grande Cascade de Chenini bietet einen Blick auf den Wasserfall in der Wüstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.054721,
+                        33.865448
+                  ]
+            },
+            {
+                  "name": "Musée Naturel Du Sud Tunisien",
+                  "text": "Das Musée Naturel Du Sud Tunisien beherbergt eine Sammlung geologischer und biologischer Exponate aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        10.05991,
+                        33.863794
+                  ]
+            },
+            {
+                  "name": "Ras el-Oued",
+                  "text": "Ras el-Oued ist ein Naturanziehungspunkt am Rande einer südtunesischen Oasenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.043989,
+                        33.867526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Grande Cascade de Chenini",
+                  "text": "A Grande Cascade de Chenini kilátója a sivatagi tájban lévő vízesésre nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        10.054721,
+                        33.865448
+                  ]
+            },
+            {
+                  "name": "Musée Naturel Du Sud Tunisien",
+                  "text": "A Musée Naturel Du Sud Tunisien a régió geológiai és biológiai kiállítási tárgyainak gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.05991,
+                        33.863794
+                  ]
+            },
+            {
+                  "name": "Ras el-Oued",
+                  "text": "A Ras el-Oued egy természeti látványosság egy dél-tunéziai oázisvidék szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.043989,
+                        33.867526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Grande Cascade de Chenini",
+                  "text": "Punctul de belvedere de la Grande Cascade de Chenini oferă o perspectivă asupra cascadei din peisajul deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        10.054721,
+                        33.865448
+                  ]
+            },
+            {
+                  "name": "Musée Naturel Du Sud Tunisien",
+                  "text": "Musée Naturel Du Sud Tunisien găzduiește o colecție de exponate geologice și biologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        10.05991,
+                        33.863794
+                  ]
+            },
+            {
+                  "name": "Ras el-Oued",
+                  "text": "Ras el-Oued este un punct de atracție natural la marginea unui peisaj de oază din sudul Tunisiei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.043989,
+                        33.867526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Grande Cascade de Chenini",
+                  "text": "The viewpoint at La Grande Cascade de Chenini offers a view of the waterfall in the desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.054721,
+                        33.865448
+                  ]
+            },
+            {
+                  "name": "Musée Naturel Du Sud Tunisien",
+                  "text": "The Musée Naturel Du Sud Tunisien houses a collection of geological and biological exhibits from the region.",
+                  "category": "museum",
+                  "coords": [
+                        10.05991,
+                        33.863794
+                  ]
+            },
+            {
+                  "name": "Ras el-Oued",
+                  "text": "Ras el-Oued is a natural attraction on the edge of a southern Tunisian oasis landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.043989,
+                        33.867526
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-81",
     coords: [10.021, 33.851],
@@ -596,7 +1118,160 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "menzel-bourguiba-steel-economic-v2",
+    id: "menzel-bourguiba-steel-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "fundus bassianus",
+                  "text": "Die verstreuten Ruinen dieses antiken Anwesens deuten auf die landwirtschaftliche Geschichte der Region hin.",
+                  "category": "historical",
+                  "coords": [
+                        9.822238,
+                        37.141235
+                  ]
+            },
+            {
+                  "name": "pointe elkossein",
+                  "text": "Diese Küstenruinen liegen an einem strategischen Punkt mit Blick auf die nahegelegenen Gewässer.",
+                  "category": "historical",
+                  "coords": [
+                        9.841142,
+                        37.13896
+                  ]
+            },
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "Dieses Kunstzentrum dient als kultureller Knotenpunkt für musikalische und theatralische Aufführungen in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793635,
+                        37.155305
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "Eine überdachte Halle, in der verschiedene kulturelle und künstlerische Veranstaltungen für die lokale Gemeinde stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803622,
+                        37.151957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "fundus bassianus",
+                  "text": "Ennek az ókori birtoknak a szétszórt romjai a régió mezőgazdasági múltjára utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        9.822238,
+                        37.141235
+                  ]
+            },
+            {
+                  "name": "pointe elkossein",
+                  "text": "Ezek a part menti romok egy stratégiai ponton fekszenek, kilátással a közeli vizekre.",
+                  "category": "historical",
+                  "coords": [
+                        9.841142,
+                        37.13896
+                  ]
+            },
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "Ez a művészeti központ a város zenei és színházi előadásainak kulturális csomópontjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793635,
+                        37.155305
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "Különféle kulturális és művészeti eseményeknek otthont adó fedett csarnok a helyi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803622,
+                        37.151957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "fundus bassianus",
+                  "text": "Ruinele împrăștiate ale acestei moșii antice sugerează istoria agricolă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        9.822238,
+                        37.141235
+                  ]
+            },
+            {
+                  "name": "pointe elkossein",
+                  "text": "Aceste ruine de coastă sunt situate într-un punct strategic cu vedere la apele din apropiere.",
+                  "category": "historical",
+                  "coords": [
+                        9.841142,
+                        37.13896
+                  ]
+            },
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "Acest centru de arte servește drept un nucleu cultural pentru spectacole muzicale și teatrale din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793635,
+                        37.155305
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "O sală acoperită care găzduiește diverse evenimente culturale și artistice pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803622,
+                        37.151957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "fundus bassianus",
+                  "text": "The scattered ruins of this ancient estate hint at the region's agricultural history.",
+                  "category": "historical",
+                  "coords": [
+                        9.822238,
+                        37.141235
+                  ]
+            },
+            {
+                  "name": "pointe elkossein",
+                  "text": "These coastal ruins are situated on a strategic point overlooking the nearby waters.",
+                  "category": "historical",
+                  "coords": [
+                        9.841142,
+                        37.13896
+                  ]
+            },
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "This arts centre serves as a cultural hub for musical and theatrical performances in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793635,
+                        37.155305
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "An indoor hall hosting various cultural and artistic events for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803622,
+                        37.151957
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-23",
     coords: [9.791, 37.151],
@@ -644,7 +1319,52 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bougrine-mine-economic-v2",
+    id: "bougrine-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les Thermes Romain de Hammam Mellegue",
+                  "text": "Les Thermes Romain de Hammam Mellegue umfassen die steinernen Ruinen antiker römischer Thermalbäder.",
+                  "category": "historical",
+                  "coords": [
+                        8.575375,
+                        36.183332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les Thermes Romain de Hammam Mellegue",
+                  "text": "A Les Thermes Romain de Hammam Mellegue az ősi római termálfürdők kőből épült romjait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        8.575375,
+                        36.183332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les Thermes Romain de Hammam Mellegue",
+                  "text": "Les Thermes Romain de Hammam Mellegue cuprind ruinele de piatră ale unor vechi băi termale romane.",
+                  "category": "historical",
+                  "coords": [
+                        8.575375,
+                        36.183332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les Thermes Romain de Hammam Mellegue",
+                  "text": "Les Thermes Romain de Hammam Mellegue encompass the structural stone ruins of ancient Roman thermal baths.",
+                  "category": "historical",
+                  "coords": [
+                        8.575375,
+                        36.183332
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-33",
     coords: [8.591, 36.141],
@@ -836,7 +1556,196 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sidi-abdelhamid-industrial-economic-v2",
+    id: "sidi-abdelhamid-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théatre Plein Air",
+                  "text": "Dieses Open-Air-Amphitheater bietet eine Freilichtbühne für lokale Konzerte, Sommerfestivals und kulturelle Darbietungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        10.704456,
+                        35.777973
+                  ]
+            },
+            {
+                  "name": "Chateau de Meriem",
+                  "text": "Dieses markant gestaltete Chateau verfügt über stilisierte architektonische Türme und dient als bemerkenswertes Wahrzeichen in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        10.713256,
+                        35.753233
+                  ]
+            },
+            {
+                  "name": "Plage de Nerolia Hotel & Spa",
+                  "text": "Dieser gepflegte Abschnitt der Mittelmeerküste aus weichem Sand bietet Sonnenschirme und Liegebereiche speziell für die Gäste des Spa-Hotels.",
+                  "category": "recreational",
+                  "coords": [
+                        10.723164,
+                        35.768739
+                  ]
+            },
+            {
+                  "name": "Plage d'hôtel Neptunia Beach",
+                  "text": "Dieser weiche Sandstrand erstreckt sich entlang des leuchtend blauen Wassers und ist den Gästen des direkt angrenzenden Strandhotels vorbehalten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.721754,
+                        35.769543
+                  ]
+            },
+            {
+                  "name": "Sidi Amer Youth House",
+                  "text": "Diese dynamische Gemeinschaftseinrichtung bietet der örtlichen Jugend kreative Räume für künstlerische Workshops, Musikproben und kulturelle Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        10.702945,
+                        35.741688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théatre Plein Air",
+                  "text": "Ez a szabadtéri amfiteátrum színpadot biztosít a helyi koncertek, nyári fesztiválok és kulturális előadások számára a szabad ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.704456,
+                        35.777973
+                  ]
+            },
+            {
+                  "name": "Chateau de Meriem",
+                  "text": "Ez a jellegzetes kialakítású kastély stilizált építészeti tornyokkal rendelkezik, és a helyi kerület figyelemre méltó tájékozódási pontjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        10.713256,
+                        35.753233
+                  ]
+            },
+            {
+                  "name": "Plage de Nerolia Hotel & Spa",
+                  "text": "Ez a jól karbantartott puha homokos földközi-tengeri partszakasz napernyőket és pihenőhelyeket kínál kifejezetten a spa szálloda vendégei számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.723164,
+                        35.768739
+                  ]
+            },
+            {
+                  "name": "Plage d'hôtel Neptunia Beach",
+                  "text": "A ragyogó kék víz mentén húzódó puha homokos partvidéket a közvetlenül szomszédos tengerparti szálloda látogatóinak tartják fenn.",
+                  "category": "recreational",
+                  "coords": [
+                        10.721754,
+                        35.769543
+                  ]
+            },
+            {
+                  "name": "Sidi Amer Youth House",
+                  "text": "Ez a dinamikus közösségi létesítmény kreatív tereket biztosít a helyi fiatalok számára művészeti foglalkozások, zenei próbák és kulturális projektek céljából.",
+                  "category": "cultural",
+                  "coords": [
+                        10.702945,
+                        35.741688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théatre Plein Air",
+                  "text": "Acest amfiteatru în aer liber oferă o scenă exterioară pentru concerte locale, festivaluri de vară și spectacole culturale sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        10.704456,
+                        35.777973
+                  ]
+            },
+            {
+                  "name": "Chateau de Meriem",
+                  "text": "Acest castel cu un design distinctiv prezintă turnuri arhitecturale stilizate și servește ca un reper notabil în regiune.",
+                  "category": "castle",
+                  "coords": [
+                        10.713256,
+                        35.753233
+                  ]
+            },
+            {
+                  "name": "Plage de Nerolia Hotel & Spa",
+                  "text": "Această fâșie bine întreținută de coastă mediteraneană cu nisip fin oferă umbrele de soare și zone de relaxare special pentru oaspeții hotelului cu spa.",
+                  "category": "recreational",
+                  "coords": [
+                        10.723164,
+                        35.768739
+                  ]
+            },
+            {
+                  "name": "Plage d'hôtel Neptunia Beach",
+                  "text": "Întinzându-se de-a lungul apelor albastre strălucitoare, această coastă cu nisip fin este dedicată vizitatorilor cazați la hotelul de la malul mării direct adiacent.",
+                  "category": "recreational",
+                  "coords": [
+                        10.721754,
+                        35.769543
+                  ]
+            },
+            {
+                  "name": "Sidi Amer Youth House",
+                  "text": "Această facilitate comunitară dinamică oferă tinerilor locali spații creative pentru ateliere artistice, repetiții muzicale și proiecte culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.702945,
+                        35.741688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théatre Plein Air",
+                  "text": "This open-air amphitheater provides an outdoor stage for local concerts, summer festivals, and open-sky cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        10.704456,
+                        35.777973
+                  ]
+            },
+            {
+                  "name": "Chateau de Meriem",
+                  "text": "This distinctively designed chateau features stylized architectural towers and serves as a notable landmark in the region.",
+                  "category": "castle",
+                  "coords": [
+                        10.713256,
+                        35.753233
+                  ]
+            },
+            {
+                  "name": "Plage de Nerolia Hotel & Spa",
+                  "text": "This well-maintained stretch of soft sandy Mediterranean coastline offers parasols and lounging areas specifically for spa hotel guests.",
+                  "category": "recreational",
+                  "coords": [
+                        10.723164,
+                        35.768739
+                  ]
+            },
+            {
+                  "name": "Plage d'hôtel Neptunia Beach",
+                  "text": "Stretching along the bright blue waters, this soft sandy coastline is dedicated to visitors staying at the directly adjacent seaside hotel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.721754,
+                        35.769543
+                  ]
+            },
+            {
+                  "name": "Sidi Amer Youth House",
+                  "text": "This dynamic community facility provides local youth with creative spaces for artistic workshops, music practice, and cultural projects.",
+                  "category": "cultural",
+                  "coords": [
+                        10.702945,
+                        35.741688
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-51",
     coords: [10.661, 35.801],
@@ -884,7 +1793,88 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "thyna-industrial-zone-economic-v2",
+    id: "thyna-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site archéologique de Thyna (Thaenae)",
+                  "text": "Die archäologische Stätte von Thyna beherbergt die antiken punisch-römischen Überreste der Stadt Thaenae.",
+                  "category": "historical",
+                  "coords": [
+                        10.682864,
+                        34.649651
+                  ]
+            },
+            {
+                  "name": "Roman amphitheatre of Thyna",
+                  "text": "Die Reste des römischen Amphitheaters von Thyna lassen die antiken Gladiatorenkämpfe in Thaenae erahnen.",
+                  "category": "historical",
+                  "coords": [
+                        10.673157,
+                        34.655484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site archéologique de Thyna (Thaenae)",
+                  "text": "A thynai régészeti lelőhely a pun-római Thaenae város ókori maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        10.682864,
+                        34.649651
+                  ]
+            },
+            {
+                  "name": "Roman amphitheatre of Thyna",
+                  "text": "A thynai római amfiteátrum maradványai sejtetik az egykori gladiátorharcokat Thaenae-ben.",
+                  "category": "historical",
+                  "coords": [
+                        10.673157,
+                        34.655484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site archéologique de Thyna (Thaenae)",
+                  "text": "Situl arheologic din Thyna adăpostește vechile rămășițe punico-romane ale orașului Thaenae.",
+                  "category": "historical",
+                  "coords": [
+                        10.682864,
+                        34.649651
+                  ]
+            },
+            {
+                  "name": "Roman amphitheatre of Thyna",
+                  "text": "Rămășițele amfiteatrului roman din Thyna sugerează vechile lupte de gladiatori din Thaenae.",
+                  "category": "historical",
+                  "coords": [
+                        10.673157,
+                        34.655484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site archéologique de Thyna (Thaenae)",
+                  "text": "The archaeological site of Thyna houses the ancient Punic-Roman remains of the city of Thaenae.",
+                  "category": "historical",
+                  "coords": [
+                        10.682864,
+                        34.649651
+                  ]
+            },
+            {
+                  "name": "Roman amphitheatre of Thyna",
+                  "text": "The remains of the Roman amphitheatre of Thyna hint at the ancient gladiator fights in Thaenae.",
+                  "category": "historical",
+                  "coords": [
+                        10.673157,
+                        34.655484
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-61",
     coords: [10.721, 34.681],
@@ -932,7 +1922,88 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zarzis-economic-park-economic-v2",
+    id: "zarzis-economic-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "Küstenleuchtturm, der den Schiffsverkehr zum Wirtschaftshafen von Zarzis leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            },
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "Dieses 2003 eröffnete Museum präsentiert die lokale Geschichte und Archäologie von Zarzis.",
+                  "category": "museum",
+                  "coords": [
+                        11.113925,
+                        33.502055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "Parti világítótorony, amely a Zarzis gazdasági kikötőjébe tartó hajóforgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            },
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "A 2003-ban megnyílt múzeum Zarzis helyi történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.113925,
+                        33.502055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "Far de coastă care ghidează traficul maritim către portul economic Zarzis.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            },
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "Acest muzeu deschis în 2003 prezintă istoria și arheologia locală din Zarzis.",
+                  "category": "museum",
+                  "coords": [
+                        11.113925,
+                        33.502055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "Coastal lighthouse guiding maritime traffic into the economic port of Zarzis.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            },
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "Opened in 2003, this museum showcases the local history and archaeology of Zarzis.",
+                  "category": "museum",
+                  "coords": [
+                        11.113925,
+                        33.502055
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-82",
     coords: [11.121, 33.491],
@@ -1316,7 +2387,52 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zriba-industrial-zone-economic-v2",
+    id: "zriba-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zriba olya",
+                  "text": "Zriba ist ein historischer Ort in der Nähe der heutigen Industriezone Zriba.",
+                  "category": "landmark",
+                  "coords": [
+                        10.210663,
+                        36.314148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zriba olya",
+                  "text": "Zriba egy történelmi látványosság, amely a mai Zriba ipari övezet közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        10.210663,
+                        36.314148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zriba olya",
+                  "text": "Zriba este o atracție istorică situată în apropierea zonei industriale moderne Zriba.",
+                  "category": "landmark",
+                  "coords": [
+                        10.210663,
+                        36.314148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zriba",
+                  "text": "Zriba is a historic attraction located near the modern Zriba industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        10.210663,
+                        36.314148
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TN-22",
     coords: [10.191, 36.331],

@@ -387,7 +387,160 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "aeroport-said-ibrahim-landmarks-v2",
+    id: "aeroport-said-ibrahim-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foyer MABLAN",
+                  "text": "Ein lokales Kunstzentrum, das den kulturellen Austausch und kreative Darbietungen der Gemeinschaft fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        43.272278,
+                        -11.563361
+                  ]
+            },
+            {
+                  "name": "Coeur historique",
+                  "text": "Der historische Festungskern zeigt die steinernen Verteidigungsanlagen der frühen Siedlung.",
+                  "category": "fortress",
+                  "coords": [
+                        43.286821,
+                        -11.565658
+                  ]
+            },
+            {
+                  "name": "Foyer",
+                  "text": "Ein kulturelles Zentrum für lokale Kunst, das als Treffpunkt für kreative Ausstellungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        43.320983,
+                        -11.556585
+                  ]
+            },
+            {
+                  "name": "Noyau Du village (Hafeshouma)",
+                  "text": "Der traditionell befestigte Dorfkern veranschaulicht die schützende Anlage früherer Siedlungen.",
+                  "category": "fortress",
+                  "coords": [
+                        43.278063,
+                        -11.588358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foyer MABLAN",
+                  "text": "Helyi művészeti központ, amely a közösség kulturális cseréjét és kreatív előadásait támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        43.272278,
+                        -11.563361
+                  ]
+            },
+            {
+                  "name": "Coeur historique",
+                  "text": "A történelmi erődítmény magja a korai település kőből épült védműveit mutatja be.",
+                  "category": "fortress",
+                  "coords": [
+                        43.286821,
+                        -11.565658
+                  ]
+            },
+            {
+                  "name": "Foyer",
+                  "text": "Helyi művészeti és kulturális központ, amely kreatív kiállítások találkozóhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        43.320983,
+                        -11.556585
+                  ]
+            },
+            {
+                  "name": "Noyau Du village (Hafeshouma)",
+                  "text": "A hagyományosan erődített faluközpont a korábbi települések védelmi elrendezését szemlélteti.",
+                  "category": "fortress",
+                  "coords": [
+                        43.278063,
+                        -11.588358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foyer MABLAN",
+                  "text": "Un centru de arte local care promovează schimbul cultural și spectacolele creative ale comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        43.272278,
+                        -11.563361
+                  ]
+            },
+            {
+                  "name": "Coeur historique",
+                  "text": "Miezul istoric al fortăreței prezintă structurile defensive din piatră ale așezării timpurii.",
+                  "category": "fortress",
+                  "coords": [
+                        43.286821,
+                        -11.565658
+                  ]
+            },
+            {
+                  "name": "Foyer",
+                  "text": "Un centru cultural pentru arte locale, care servește drept loc de întâlnire pentru expoziții creative.",
+                  "category": "cultural",
+                  "coords": [
+                        43.320983,
+                        -11.556585
+                  ]
+            },
+            {
+                  "name": "Noyau Du village (Hafeshouma)",
+                  "text": "Nucleul tradițional fortificat al satului ilustrează structura de protecție a așezărilor timpurii.",
+                  "category": "fortress",
+                  "coords": [
+                        43.278063,
+                        -11.588358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foyer MABLAN",
+                  "text": "A local arts centre that fosters cultural exchange and creative performances for the community.",
+                  "category": "cultural",
+                  "coords": [
+                        43.272278,
+                        -11.563361
+                  ]
+            },
+            {
+                  "name": "Coeur historique",
+                  "text": "The historic fortress core showcases the defensive stone structures of the early settlement.",
+                  "category": "fortress",
+                  "coords": [
+                        43.286821,
+                        -11.565658
+                  ]
+            },
+            {
+                  "name": "Foyer",
+                  "text": "A cultural arts center serving as a community hub for creative exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        43.320983,
+                        -11.556585
+                  ]
+            },
+            {
+                  "name": "Noyau Du village (Hafeshouma)",
+                  "text": "The traditional fortified village core illustrates the protective layout of early local settlements.",
+                  "category": "fortress",
+                  "coords": [
+                        43.278063,
+                        -11.588358
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KM-G",
     coords: [43.2717, -11.5333],
@@ -627,7 +780,124 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "alliance-francaise-moroni-landmarks-v2",
+    id: "alliance-francaise-moroni-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vieux cimeti",
+                  "text": "Ein alter Friedhof in Moroni mit verwitterten Steingräbern, der das tiefe historische und islamische Erbe der Insel widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.253571,
+                        -11.70417
+                  ]
+            },
+            {
+                  "name": "e des Comores",
+                  "text": "Ein Nationalmuseum in Moroni, das die kulturellen, natürlichen und historischen Artefakte des Komoren-Archipels bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosqu",
+                  "text": "Eine historische Moschee in Moroni, die für ihre traditionelle Korallensteinarchitektur und spirituelle Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vieux cimeti",
+                  "text": "Egy ősi temető Moroniban, amelynek viharvert kősírjai a sziget mély történelmi és iszlám örökségét tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        43.253571,
+                        -11.70417
+                  ]
+            },
+            {
+                  "name": "e des Comores",
+                  "text": "Moroni nemzeti múzeuma, amely a Comore-szigetek kulturális, természeti és történelmi műtárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosqu",
+                  "text": "Egy történelmi mecset Moroniban, amely hagyományos korallkő építészetéről és spirituális jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vieux cimeti",
+                  "text": "Un cimitir antic din Moroni, cu morminte de piatră erodate care reflectă moștenirea istorică și islamică profundă a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        43.253571,
+                        -11.70417
+                  ]
+            },
+            {
+                  "name": "e des Comores",
+                  "text": "Un muzeu național în Moroni care conservă artefactele culturale, naturale și istorice ale arhipelagului Comore.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosqu",
+                  "text": "O moschee istorică din Moroni, cunoscută pentru arhitectura sa tradițională din piatră de corali și importanța sa spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vieux cimeti",
+                  "text": "An ancient cemetery in Moroni featuring weathered stone tombs that reflect the island's deep historical and Islamic heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        43.253571,
+                        -11.70417
+                  ]
+            },
+            {
+                  "name": "e des Comores",
+                  "text": "A national museum in Moroni preserving the cultural, natural, and historical artifacts of the Comoros archipelago.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosqu",
+                  "text": "A historic Comorian mosque in Moroni known for its traditional coral stone architecture and spiritual significance.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KM-G",
     coords: [43.2522, -11.7047],
@@ -915,7 +1185,124 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "grande-mosquee-mbeni-landmarks-v2",
+    id: "grande-mosquee-mbeni-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drachenfelspanorama",
+                  "text": "Von diesem malerischen Panoramapunkt aus können Besucher die markante geologische Formation namens Drachenfelsen bewundern, die ins Meer ragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            },
+            {
+                  "name": "Drachenfels",
+                  "text": "Der Drachenfelsen ist eine dramatische, zerklüftete Basaltformation an der Küste, die auffallend an die Wirbelsäule einer schlafenden mythischen Bestie erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.400979,
+                        -11.391241
+                  ]
+            },
+            {
+                  "name": "île des tortues",
+                  "text": "Dieser Aussichtspunkt an der Küste blickt auf die Schildkröteninsel, eine kleine, von klarem Wasser umgebene Landmasse, in deren Nähe häufig Meeresschildkröten gesichtet werden.",
+                  "category": "natural",
+                  "coords": [
+                        43.413283,
+                        -11.409632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panorama du Rocher du Dragon",
+                  "text": "Erről a festői panorámapontról a látogatók megcsodálhatják a Sárkánysziklának nevezett, tengerbe nyúló látványos geológiai képződményt.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            },
+            {
+                  "name": "Rocher du Dragon",
+                  "text": "A Sárkányszikla egy drámai, csipkézett part menti bazaltképződmény, amely figyelemre méltóan hasonlít egy alvó mitikus fenevad gerincére.",
+                  "category": "landmark",
+                  "coords": [
+                        43.400979,
+                        -11.391241
+                  ]
+            },
+            {
+                  "name": "île des tortues",
+                  "text": "Ez a tengerparti kilátópont a Teknős-szigetre néz, egy tiszta vízzel körülvett kis földdarabra, ahol gyakran látni tengeri teknősöket.",
+                  "category": "natural",
+                  "coords": [
+                        43.413283,
+                        -11.409632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panorama du Rocher du Dragon",
+                  "text": "Din acest punct panoramic pitoresc, vizitatorii pot admira formațiunea geologică izbitoare cunoscută sub numele de Stânca Dragonului, care iese în mare.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            },
+            {
+                  "name": "Rocher du Dragon",
+                  "text": "Stânca Dragonului este o formațiune de bazalt de coastă dramatică și zimțată, care seamănă remarcabil cu coloana vertebrală a unei bestii mitice adormite.",
+                  "category": "landmark",
+                  "coords": [
+                        43.400979,
+                        -11.391241
+                  ]
+            },
+            {
+                  "name": "île des tortues",
+                  "text": "Acest punct de belvedere de coastă oferă o priveliște asupra Insulei Țestoaselor, o mică întindere de uscat înconjurată de ape limpezi, unde țestoasele marine sunt adesea observate.",
+                  "category": "natural",
+                  "coords": [
+                        43.413283,
+                        -11.409632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panorama du Rocher du Dragon",
+                  "text": "From this scenic panorama point, visitors can admire the striking geological formation known as Dragon Rock jutting into the sea.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            },
+            {
+                  "name": "Dragon Rock",
+                  "text": "Dragon Rock is a dramatic, jagged coastal basalt formation that remarkably resembles the spine of a sleeping mythical beast.",
+                  "category": "landmark",
+                  "coords": [
+                        43.400979,
+                        -11.391241
+                  ]
+            },
+            {
+                  "name": "île des tortues",
+                  "text": "This coastal viewpoint looks out over Turtle Island, a small landmass surrounded by clear waters where marine turtles are frequently spotted.",
+                  "category": "natural",
+                  "coords": [
+                        43.413283,
+                        -11.409632
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KM-G",
     coords: [43.3783, -11.4125],
@@ -1059,7 +1446,52 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "marche-volovolo-landmarks-v2",
+    id: "marche-volovolo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de l'ind",
+                  "text": "Dieses bedeutende Denkmal in der Stadt markiert die Unabhängigkeit und nationale Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de l'ind",
+                  "text": "Ez a városban található jelentős emlékmű a függetlenséget és a nemzeti történelmet jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de l'ind",
+                  "text": "Acest monument important din oraș marchează independența și istoria națională.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de l'ind",
+                  "text": "This significant monument in the city marks the independence and national history.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KM-G",
     coords: [43.2533, -11.6983],

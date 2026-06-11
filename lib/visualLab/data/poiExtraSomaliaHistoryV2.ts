@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSomaliaHistoryV2: POI[] = [
   {
-    id: "laas-geel-history-v2",
+    id: "laas-geel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "tls internet ( Isra)",
+                  "text": "Vor der Kulisse des rauen Geländes von Somaliland überblickt dieser Telekommunikations-Aussichtspunkt die trockene Landschaft, die sich in Richtung der historischen Höhlen von Laas Geel erstreckt.",
+                  "category": "natural",
+                  "coords": [
+                        44.123215,
+                        9.562439
+                  ]
+            },
+            {
+                  "name": "Buur Naaso Hablood Koonfur-Bari",
+                  "text": "Dieser markante südöstliche Granitgipfel erhebt sich abrupt aus der Ebene und ist Teil der ikonischen Zwillingshügel, die für ihre markante Doppelhutform bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        44.121509,
+                        9.593795
+                  ]
+            },
+            {
+                  "name": "Barakaca",
+                  "text": "Dieses erhöhte Gelände bietet einen weiten Beobachtungspunkt über die sonnenüberfluteten felsigen Hochebenen, die typisch für die Region Laas Geel sind.",
+                  "category": "natural",
+                  "coords": [
+                        44.106553,
+                        9.613811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tls internet ( Isra)",
+                  "text": "A zord Szomáliföld terepén elhelyezkedő távközlési kilátó a történelmi Laas Geel barlangok felé nyúló száraz tájra néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.123215,
+                        9.562439
+                  ]
+            },
+            {
+                  "name": "Buur Naaso Hablood Koonfur-Bari",
+                  "text": "A síkságból hirtelen kiemelkedő, jellegzetes délkeleti gránitcsúcs az ikonikus, kettős kúp alakjukról ismert ikerhegyek része.",
+                  "category": "natural",
+                  "coords": [
+                        44.121509,
+                        9.593795
+                  ]
+            },
+            {
+                  "name": "Barakaca",
+                  "text": "Ez a magaslati terep széleskörű megfigyelési pontot biztosít a Laas Geel régióra jellemző, napsütötte sziklás fennsíkok felett.",
+                  "category": "natural",
+                  "coords": [
+                        44.106553,
+                        9.613811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tls internet ( Isra)",
+                  "text": "Situat pe terenul accidentat din Somaliland, acest punct de belvedere al telecomunicațiilor domină peisajul arid care se întinde spre peșterile istorice Laas Geel.",
+                  "category": "natural",
+                  "coords": [
+                        44.123215,
+                        9.562439
+                  ]
+            },
+            {
+                  "name": "Buur Naaso Hablood Koonfur-Bari",
+                  "text": "Ridicându-se brusc din câmpii, acest vârf sud-estic proeminent de granit face parte din dealurile gemene iconice cunoscute pentru forma lor distinctivă de con dublu.",
+                  "category": "natural",
+                  "coords": [
+                        44.121509,
+                        9.593795
+                  ]
+            },
+            {
+                  "name": "Barakaca",
+                  "text": "Acest teren accidentat oferă un punct de observație vast asupra platourilor stâncoase arse de soare, caracteristice regiunii Laas Geel.",
+                  "category": "natural",
+                  "coords": [
+                        44.106553,
+                        9.613811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tls internet ( Isra) ENG shibiin",
+                  "text": "Set against the rugged Somaliland terrain, this telecommunications viewpoint overlooks the arid landscape stretching towards the historic Laas Geel caves.",
+                  "category": "natural",
+                  "coords": [
+                        44.123215,
+                        9.562439
+                  ]
+            },
+            {
+                  "name": "Buur Naaso Hablood Koonfur-Bari",
+                  "text": "Rising abruptly from the plains, this prominent south-eastern granite peak is part of the iconic twin hills known for their distinctive twin-cone shape.",
+                  "category": "natural",
+                  "coords": [
+                        44.121509,
+                        9.593795
+                  ]
+            },
+            {
+                  "name": "Barakaca",
+                  "text": "This elevated terrain provides a sweeping observation point over the sun-baked rocky plateaus characteristic of the Laas Geel region.",
+                  "category": "natural",
+                  "coords": [
+                        44.106553,
+                        9.613811
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-WO",
     coords: [44.15, 9.6],
@@ -39,7 +156,124 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "taleh-fort-history-v2",
+    id: "taleh-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Silsilat",
+                  "text": "Diese steinerne Festung ist ein wesentlicher Bestandteil der historischen Derwisch-Verteidigungsanlagen in Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.420301,
+                        9.149898
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "Diese historische Burgruine gehört zu den steinernen Wehranlagen der Derwisch-Bewegung in Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.421051,
+                        9.150995
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "Die Überreste dieser Burg zeugen von der militärischen Architektur der Derwische in der Region Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.41855,
+                        9.148669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silsilat",
+                  "text": "Ez a kőerőd a Talehben található történelmi dervis védelmi rendszer egyik fontos eleme.",
+                  "category": "castle",
+                  "coords": [
+                        48.420301,
+                        9.149898
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "Ez a történelmi várrom a talehi dervis mozgalom kőből épült védműveihez tartozik.",
+                  "category": "castle",
+                  "coords": [
+                        48.421051,
+                        9.150995
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "Ennek a várnak a romjai a dervisek katonai építészetéről tanúskodnak a Taleh régióban.",
+                  "category": "castle",
+                  "coords": [
+                        48.41855,
+                        9.148669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silsilat",
+                  "text": "Această fortăreață de piatră este o parte integrantă a complexului istoric defensiv al dervișilor din Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.420301,
+                        9.149898
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "Această ruină istorică a unui castel aparține fortificațiilor de piatră ale mișcării dervișilor din Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.421051,
+                        9.150995
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "Rămășițele acestui castel stau mărturie arhitecturii militare a dervișilor din regiunea Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.41855,
+                        9.148669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silsilat",
+                  "text": "This stone fortress forms an integral part of the historic Dervish defensive complex in Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.420301,
+                        9.149898
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "This historic castle ruin is part of the stone fortifications built by the Dervish movement in Taleh.",
+                  "category": "castle",
+                  "coords": [
+                        48.421051,
+                        9.150995
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "The remnants of this castle showcase the military architecture of the Dervish state in the Taleh region.",
+                  "category": "castle",
+                  "coords": [
+                        48.41855,
+                        9.148669
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-SO",
     coords: [48.4167, 9.15],
@@ -183,7 +417,88 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "garesa-palace-history-v2",
+    id: "garesa-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "national zoo",
+                  "text": "In der Nähe des historischen Garesa-Palastes gelegen, zeigte dieser Nationalzoo einst eine Sammlung von Wildtieren, die am Horn von Afrika heimisch sind.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34195,
+                        2.037974
+                  ]
+            },
+            {
+                  "name": "Kathedrale von Mogadischu",
+                  "text": "Die Ruinen der Kathedrale von Mogadischu sind eine deutliche Erinnerung an die italienische Kolonialvergangenheit der Stadt, deren zerstörte Steinfassade im normannischen Stil noch immer sichtbar ist.",
+                  "category": "historical",
+                  "coords": [
+                        45.341633,
+                        2.035834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "national zoo",
+                  "text": "A történelmi Garesa-palota közelében található nemzeti állatkert egykor Afrika szarvának őshonos vadvilágát mutatta be.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34195,
+                        2.037974
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Mogadiscio",
+                  "text": "A mogadishui katedrális romjai a város olasz gyarmati múltjának zord emlékei, amelyeknek elpusztult, normann stílusú kőhomlokzata még ma is látható.",
+                  "category": "historical",
+                  "coords": [
+                        45.341633,
+                        2.035834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "national zoo",
+                  "text": "Situată lângă istoricul Palat Garesa, această grădină zoologică națională prezenta cândva o colecție de animale sălbatice indigene din Cornul Africii.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34195,
+                        2.037974
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Mogadiscio",
+                  "text": "Ruinele Catedralei din Mogadishu stau ca o amintire puternică a trecutului colonial italian al orașului, fațada sa de piatră distrusă, în stil normand, fiind încă vizibilă.",
+                  "category": "historical",
+                  "coords": [
+                        45.341633,
+                        2.035834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "national zoo",
+                  "text": "Located near the historic Garesa Palace, this national zoo once showcased a collection of indigenous Horn of Africa wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34195,
+                        2.037974
+                  ]
+            },
+            {
+                  "name": "Mogadishu Cathedral",
+                  "text": "The ruins of Mogadishu Cathedral stand as a stark reminder of the city's Italian colonial past, with its destroyed Norman-style stone facade still visible.",
+                  "category": "historical",
+                  "coords": [
+                        45.341633,
+                        2.035834
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-BN",
     coords: [45.3408, 2.0361],
@@ -219,7 +534,124 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "al-mnara-tower-history-v2",
+    id: "al-mnara-tower-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilometer Zero",
+                  "text": "Kilometer Zero markiert das traditionelle geografische Zentrum von Mogadischu, von dem aus historisch alle Entfernungen im Land gemessen werden.",
+                  "category": "historical",
+                  "coords": [
+                        45.350171,
+                        2.040762
+                  ]
+            },
+            {
+                  "name": "Arch of Umberto I",
+                  "text": "Der Umberto I.-Bogen ist ein Überbleibsel der italienischen Kolonialarchitektur, das als Triumphbogen in der Nähe des alten Hafengebiets von Mogadischu errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        45.342613,
+                        2.034779
+                  ]
+            },
+            {
+                  "name": "Second Lido Beach",
+                  "text": "Der Second Lido Beach bietet eine weite weiße Sandfläche am Indischen Ozean und dient als beliebter Erholungsort für die Einwohner von Mogadischu.",
+                  "category": "recreational",
+                  "coords": [
+                        45.344014,
+                        2.033873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilometer Zero",
+                  "text": "A Nulla Kilométerkő Mogadishu hagyományos földrajzi központját jelöli, ahonnan az országban a távolságokat történelmileg mérik.",
+                  "category": "historical",
+                  "coords": [
+                        45.350171,
+                        2.040762
+                  ]
+            },
+            {
+                  "name": "Arch of Umberto I",
+                  "text": "Az I. Umberto-diadalív az olasz gyarmati építészet maradványa, amelyet diadalívként építettek Mogadishu régi kikötője közelében.",
+                  "category": "historical",
+                  "coords": [
+                        45.342613,
+                        2.034779
+                  ]
+            },
+            {
+                  "name": "Second Lido Beach",
+                  "text": "A Second Lido Beach az Indiai-óceán hatalmas fehér homokos partvonala, amely népszerű rekreációs hely Mogadishu lakosai számára.",
+                  "category": "recreational",
+                  "coords": [
+                        45.344014,
+                        2.033873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilometer Zero",
+                  "text": "Kilometrul Zero marchează centrul geografic tradițional al orașului Mogadishu, din care sunt măsurate istoric toate distanțele din țară.",
+                  "category": "historical",
+                  "coords": [
+                        45.350171,
+                        2.040762
+                  ]
+            },
+            {
+                  "name": "Arch of Umberto I",
+                  "text": "Arcul lui Umberto I este o rămășiță a arhitecturii coloniale italiene, construit ca un arc de triumf lângă zona vechiului port din Mogadishu.",
+                  "category": "historical",
+                  "coords": [
+                        45.342613,
+                        2.034779
+                  ]
+            },
+            {
+                  "name": "Second Lido Beach",
+                  "text": "Second Lido Beach are o întindere vastă de nisip alb la Oceanul Indian, servind drept loc popular de recreere pentru locuitorii din Mogadishu.",
+                  "category": "recreational",
+                  "coords": [
+                        45.344014,
+                        2.033873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilometer Zero",
+                  "text": "Kilometer Zero marks the traditional geographic center of Mogadishu from which all distances in the country are historically measured.",
+                  "category": "historical",
+                  "coords": [
+                        45.350171,
+                        2.040762
+                  ]
+            },
+            {
+                  "name": "Arch of Umberto I",
+                  "text": "The Arch of Umberto I is a remnant of Italian colonial architecture, built as a triumphal arch near the old port area of Mogadishu.",
+                  "category": "historical",
+                  "coords": [
+                        45.342613,
+                        2.034779
+                  ]
+            },
+            {
+                  "name": "Second Lido Beach",
+                  "text": "Second Lido Beach features a wide expanse of white Indian Ocean sand, serving as a popular recreation spot for the residents of Mogadishu.",
+                  "category": "recreational",
+                  "coords": [
+                        45.344014,
+                        2.033873
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-BN",
     coords: [45.3425, 2.035],
@@ -291,7 +723,232 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "amud-ruins-history-v2",
+    id: "amud-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buur Raariile",
+                  "text": "Der Berggipfel Buur Raariile bietet eine weite Aussicht auf die historische Ruinenstadt Amud.",
+                  "category": "natural",
+                  "coords": [
+                        43.2666,
+                        9.976677
+                  ]
+            },
+            {
+                  "name": "Isha Qoorgaab",
+                  "text": "Die natürliche Quelle Isha Qoorgaab versorgte einst die Bewohner der historischen Stätte Amud mit Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        43.238532,
+                        9.934574
+                  ]
+            },
+            {
+                  "name": "Buur Awordil",
+                  "text": "Dieser felsige Gipfel erhebt sich markant in der Nähe der antiken Amud-Ruinen und bietet weite Blicke über die somalische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        43.270843,
+                        9.91005
+                  ]
+            },
+            {
+                  "name": "Isha Lehelow",
+                  "text": "Diese natürliche Wasserquelle bietet eine lebenswichtige Frischwasserversorgung inmitten des trockenen Geländes nahe den historischen Amud-Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        43.235754,
+                        9.895229
+                  ]
+            },
+            {
+                  "name": "Buur Cowsguduudle",
+                  "text": "Dieser natürliche Berggipfel überblickt die historische Amud-Region und dient als markantes Wahrzeichen in dem rauen Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        43.251294,
+                        9.882597
+                  ]
+            },
+            {
+                  "name": "Isha Suquley",
+                  "text": "Diese natürliche Quelle fließt in der Nähe des archäologischen Gebiets von Amud und versorgt die lokale Vegetation in einer ansonsten trockenen Landschaft mit Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        43.295756,
+                        9.927343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buur Raariile",
+                  "text": "A Buur Raariile hegycsúcsról messzire látni Amud történelmi romvárosára.",
+                  "category": "natural",
+                  "coords": [
+                        43.2666,
+                        9.976677
+                  ]
+            },
+            {
+                  "name": "Isha Qoorgaab",
+                  "text": "Az Isha Qoorgaab természetes forrás egykor az Amud történelmi település lakóit látta el vízzel.",
+                  "category": "landmark",
+                  "coords": [
+                        43.238532,
+                        9.934574
+                  ]
+            },
+            {
+                  "name": "Buur Awordil",
+                  "text": "Ez a sziklás hegycsúcs az ősi Amud romjai közelében magasodik, panorámás kilátást nyújtva a szomáliai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        43.270843,
+                        9.91005
+                  ]
+            },
+            {
+                  "name": "Isha Lehelow",
+                  "text": "Ez a természetes forrás létfontosságú édesvízforrást biztosít a történelmi Amud romjai körüli száraz vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        43.235754,
+                        9.895229
+                  ]
+            },
+            {
+                  "name": "Buur Cowsguduudle",
+                  "text": "A történelmi Amud régióra néző természetes hegycsúcs kiemelkedő tájékozódási pontként szolgál a zord terepen.",
+                  "category": "natural",
+                  "coords": [
+                        43.251294,
+                        9.882597
+                  ]
+            },
+            {
+                  "name": "Isha Suquley",
+                  "text": "Az Amud régészeti terület közelében fakadó természetes forrás a helyi növényzetet táplálja az egyébként száraz tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        43.295756,
+                        9.927343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buur Raariile",
+                  "text": "Vârful Buur Raariile oferă o panoramă largă asupra orașului în ruină Amud.",
+                  "category": "natural",
+                  "coords": [
+                        43.2666,
+                        9.976677
+                  ]
+            },
+            {
+                  "name": "Isha Qoorgaab",
+                  "text": "Izvorul natural Isha Qoorgaab asigura odinioară apa pentru locuitorii sitului istoric Amud.",
+                  "category": "landmark",
+                  "coords": [
+                        43.238532,
+                        9.934574
+                  ]
+            },
+            {
+                  "name": "Buur Awordil",
+                  "text": "Acest vârf stâncos se înalță proeminent în apropierea ruinelor antice Amud, oferind vederi panoramice asupra peisajului somalez.",
+                  "category": "natural",
+                  "coords": [
+                        43.270843,
+                        9.91005
+                  ]
+            },
+            {
+                  "name": "Isha Lehelow",
+                  "text": "Acest izvor natural de apă oferă o sursă vitală de apă dulce în mijlocul terenului arid din apropierea ruinelor istorice Amud.",
+                  "category": "landmark",
+                  "coords": [
+                        43.235754,
+                        9.895229
+                  ]
+            },
+            {
+                  "name": "Buur Cowsguduudle",
+                  "text": "Având vedere la regiunea istorică Amud, acest vârf de munte natural servește ca un punct de reper proeminent în terenul accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        43.251294,
+                        9.882597
+                  ]
+            },
+            {
+                  "name": "Isha Suquley",
+                  "text": "Curgând în apropierea zonei arheologice Amud, acest izvor natural susține vegetația locală într-un peisaj altfel uscat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.295756,
+                        9.927343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buur Raariile",
+                  "text": "The Buur Raariile peak offers expansive views over the historic ruined city of Amud.",
+                  "category": "natural",
+                  "coords": [
+                        43.2666,
+                        9.976677
+                  ]
+            },
+            {
+                  "name": "Isha Qoorgaab",
+                  "text": "The natural spring of Isha Qoorgaab once provided water to the inhabitants of the historic Amud site.",
+                  "category": "landmark",
+                  "coords": [
+                        43.238532,
+                        9.934574
+                  ]
+            },
+            {
+                  "name": "Buur Awordil",
+                  "text": "This rocky peak rises prominently near the ancient Amud ruins, offering panoramic views of the surrounding Somali landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.270843,
+                        9.91005
+                  ]
+            },
+            {
+                  "name": "Isha Lehelow",
+                  "text": "This natural water spring provides a vital freshwater source amidst the arid terrain near the historic Amud ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        43.235754,
+                        9.895229
+                  ]
+            },
+            {
+                  "name": "Buur Cowsguduudle",
+                  "text": "Overlooking the historical Amud region, this natural mountain peak serves as a prominent landmark in the rugged terrain.",
+                  "category": "natural",
+                  "coords": [
+                        43.251294,
+                        9.882597
+                  ]
+            },
+            {
+                  "name": "Isha Suquley",
+                  "text": "Flowing near the Amud archaeological area, this natural spring sustains local vegetation in an otherwise dry landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        43.295756,
+                        9.927343
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-AW",
     coords: [43.25, 9.95],
@@ -327,7 +984,124 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "abasa-ruins-history-v2",
+    id: "abasa-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biijaale",
+                  "text": "Der Berg Biijaale ragt in der Nähe der historischen Ruinen von Abasa in den Himmel.",
+                  "category": "natural",
+                  "coords": [
+                        43.216114,
+                        10.040462
+                  ]
+            },
+            {
+                  "name": "Dhabi Feedhacad",
+                  "text": "Der Gipfel Dhabi Feedhacad blickt auf die alte archäologische Stätte bei Abasa herab.",
+                  "category": "natural",
+                  "coords": [
+                        43.139997,
+                        10.005359
+                  ]
+            },
+            {
+                  "name": "Xasaadinley",
+                  "text": "Die Spitze des Xasaadinley formt das bergige Panorama um die antiken Strukturen von Abasa.",
+                  "category": "natural",
+                  "coords": [
+                        43.091348,
+                        10.057866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biijaale",
+                  "text": "A Biijaale hegy az Abasa történelmi romjai közelében emelkedik a magasba.",
+                  "category": "natural",
+                  "coords": [
+                        43.216114,
+                        10.040462
+                  ]
+            },
+            {
+                  "name": "Dhabi Feedhacad",
+                  "text": "A Dhabi Feedhacad hegycsúcs az Abasa melletti ősi régészeti lelőhelyre néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.139997,
+                        10.005359
+                  ]
+            },
+            {
+                  "name": "Xasaadinley",
+                  "text": "A Xasaadinley csúcsa alkotja az Abasa ókori építményei körüli hegyvidéki panorámát.",
+                  "category": "natural",
+                  "coords": [
+                        43.091348,
+                        10.057866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biijaale",
+                  "text": "Muntele Biijaale se înalță spre cer în apropierea ruinelor istorice din Abasa.",
+                  "category": "natural",
+                  "coords": [
+                        43.216114,
+                        10.040462
+                  ]
+            },
+            {
+                  "name": "Dhabi Feedhacad",
+                  "text": "Vârful Dhabi Feedhacad privește spre vechiul sit arheologic de lângă Abasa.",
+                  "category": "natural",
+                  "coords": [
+                        43.139997,
+                        10.005359
+                  ]
+            },
+            {
+                  "name": "Xasaadinley",
+                  "text": "Vârful Xasaadinley formează panorama muntoasă din jurul structurilor antice din Abasa.",
+                  "category": "natural",
+                  "coords": [
+                        43.091348,
+                        10.057866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biijaale",
+                  "text": "The Biijaale peak reaches into the sky near the historical ruins of Abasa.",
+                  "category": "natural",
+                  "coords": [
+                        43.216114,
+                        10.040462
+                  ]
+            },
+            {
+                  "name": "Dhabi Feedhacad",
+                  "text": "The Dhabi Feedhacad peak overlooks the ancient archaeological site near Abasa.",
+                  "category": "natural",
+                  "coords": [
+                        43.139997,
+                        10.005359
+                  ]
+            },
+            {
+                  "name": "Xasaadinley",
+                  "text": "The Xasaadinley peak forms part of the mountainous panorama surrounding the ancient structures of Abasa.",
+                  "category": "natural",
+                  "coords": [
+                        43.091348,
+                        10.057866
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-AW",
     coords: [43.15, 10.05],
@@ -759,7 +1533,52 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "las-khorey-fort-history-v2",
+    id: "las-khorey-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qoricad",
+                  "text": "Die Ruinen von Qoricad weisen antike Steinreste auf, die die historischen Küstenverteidigungen der Region in der Nähe von Las Khorey widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        48.161942,
+                        11.135932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qoricad",
+                  "text": "A Qoricad romok ősi kőmaradványokat tartalmaznak, amelyek a régió történelmi partvédelmét tükrözik Las Khorey közelében.",
+                  "category": "historical",
+                  "coords": [
+                        48.161942,
+                        11.135932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qoricad",
+                  "text": "Ruinele Qoricad prezintă rămășițe antice de piatră care reflectă apărarea de coastă istorică a regiunii în apropiere de Las Khorey.",
+                  "category": "historical",
+                  "coords": [
+                        48.161942,
+                        11.135932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qoricad",
+                  "text": "The Qoricad ruins feature ancient stone remnants that reflect the region's historical coastal defenses near Las Khorey.",
+                  "category": "historical",
+                  "coords": [
+                        48.161942,
+                        11.135932
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-SA",
     coords: [48.1967, 11.1567],
@@ -939,7 +1758,52 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "qoorgaab-ruins-history-v2",
+    id: "qoorgaab-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhibdhibic",
+                  "text": "Dhibdhibic ist eine natürliche historische Wasserquelle, die in der Nähe der antiken archäologischen Ruinen von Qoorgaab fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.457743,
+                        10.812798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhibdhibic",
+                  "text": "A Dhibdhibic egy természetes, történelmi vízforrás, amely Qoorgaab ősi régészeti romjai közelében folyik.",
+                  "category": "landmark",
+                  "coords": [
+                        47.457743,
+                        10.812798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhibdhibic",
+                  "text": "Dhibdhibic este o sursă de apă istorică naturală care curge în apropierea vechilor ruine arheologice de la Qoorgaab.",
+                  "category": "landmark",
+                  "coords": [
+                        47.457743,
+                        10.812798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhibdhibic",
+                  "text": "Dhibdhibic is a natural historic water source that flows near the ancient archaeological ruins of Qoorgaab.",
+                  "category": "landmark",
+                  "coords": [
+                        47.457743,
+                        10.812798
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-SA",
     coords: [47.5, 10.8],
@@ -975,7 +1839,88 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "macajilayn-ruins-history-v2",
+    id: "macajilayn-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Calbahal",
+                  "text": "Calbahal ist ein hoch aufragender Berggipfel, der die archäologisch reichen Ländereien rund um die Macajilayn-Ruinen überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        47.890477,
+                        11.024862
+                  ]
+            },
+            {
+                  "name": "Colkoonbe",
+                  "text": "Colkoonbe ist eine zerklüftete Erhebung, die weitreichende Aussichtspunkte über die umliegenden alten historischen Stätten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        47.840403,
+                        11.012164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Calbahal",
+                  "text": "A Calbahal egy tornyosuló hegycsúcs, amely a Macajilayn romokat körülvevő régészeti szempontból gazdag vidékre néz.",
+                  "category": "natural",
+                  "coords": [
+                        47.890477,
+                        11.024862
+                  ]
+            },
+            {
+                  "name": "Colkoonbe",
+                  "text": "A Colkoonbe egy zord kiemelkedés, amely széleskörű kilátást nyújt a környező ősi történelmi helyszínekre.",
+                  "category": "natural",
+                  "coords": [
+                        47.840403,
+                        11.012164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Calbahal",
+                  "text": "Calbahal este un vârf muntos impunător care are vedere la ținuturile bogate din punct de vedere arheologic care înconjoară ruinele Macajilayn.",
+                  "category": "natural",
+                  "coords": [
+                        47.890477,
+                        11.024862
+                  ]
+            },
+            {
+                  "name": "Colkoonbe",
+                  "text": "Colkoonbe este o cotație accidentată care oferă puncte de observație vaste asupra siturilor istorice antice din jur.",
+                  "category": "natural",
+                  "coords": [
+                        47.840403,
+                        11.012164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Calbahal",
+                  "text": "Calbahal is a towering mountain summit that overlooks the archaeologically rich lands surrounding the Macajilayn ruins.",
+                  "category": "natural",
+                  "coords": [
+                        47.890477,
+                        11.024862
+                  ]
+            },
+            {
+                  "name": "Colkoonbe",
+                  "text": "Colkoonbe is a rugged elevation offering sweeping vantage points over the surrounding ancient historical sites.",
+                  "category": "natural",
+                  "coords": [
+                        47.840403,
+                        11.012164
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-SA",
     coords: [47.9, 10.95],
@@ -1047,7 +1992,52 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     },
   },
   {
-    id: "eyl-dervish-fort-history-v2",
+    id: "eyl-dervish-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "God Cad",
+                  "text": "Eine natürliche Süßwasserquelle, die in der Nähe der historischen Derwisch-Festungsanlagen von Eyl fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.7821,
+                        8.0142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "God Cad",
+                  "text": "Egy természetes édesvízű forrás, amely Eyl történelmi dervis erődítményei közelében folyik.",
+                  "category": "landmark",
+                  "coords": [
+                        49.7821,
+                        8.0142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "God Cad",
+                  "text": "Un izvor natural de apă dulce care curge lângă structurile fortăreței istorice ale dervișilor din Eyl.",
+                  "category": "landmark",
+                  "coords": [
+                        49.7821,
+                        8.0142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "God Cad",
+                  "text": "A natural freshwater spring flowing near the historical Dervish fort structures of Eyl.",
+                  "category": "landmark",
+                  "coords": [
+                        49.7821,
+                        8.0142
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SO-NU",
     coords: [49.8167, 7.9833],

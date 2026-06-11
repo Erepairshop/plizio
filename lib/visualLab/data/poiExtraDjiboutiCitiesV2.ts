@@ -45,7 +45,124 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Fondée en 1888", "Nœud ferroviaire important vers l'Éthiopie", "Nombreuses bases militaires internationales"],
     }, image: "/poi-images/djibouti-city-cities-v2.webp"},
   {
-    id: "ali-sabieh-cities-v2",
+    id: "ali-sabieh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Colline Unité et Paix",
+                  "text": "Der Aussichtspunkt Colline Unité et Paix bietet einen weiten Blick über die Stadt Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.715688,
+                        11.152134
+                  ]
+            },
+            {
+                  "name": "Ḏagahha ‘Ambarka",
+                  "text": "Der felsige Gipfel Ḏagahha ‘Ambarka thront über dem Umland von Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.725833,
+                        11.165278
+                  ]
+            },
+            {
+                  "name": "oglyphe Unit",
+                  "text": "Die Attraktion oglyphe Unit ist eine markante Landmarke im städtischen Umfeld von Ali Sabieh.",
+                  "category": "landmark",
+                  "coords": [
+                        42.714914,
+                        11.153137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colline Unité et Paix",
+                  "text": "A Colline Unité et Paix kilátópontról széles panoráma nyílik Ali Sabieh városára.",
+                  "category": "natural",
+                  "coords": [
+                        42.715688,
+                        11.152134
+                  ]
+            },
+            {
+                  "name": "Ḏagahha ‘Ambarka",
+                  "text": "A Ḏagahha ‘Ambarka sziklás csúcsa Ali Sabieh környéke fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.725833,
+                        11.165278
+                  ]
+            },
+            {
+                  "name": "oglyphe Unit",
+                  "text": "Az oglyphe Unit látványossága egy egyedi tájékozódási pont Ali Sabieh városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.714914,
+                        11.153137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colline Unité et Paix",
+                  "text": "Punctul de belvedere Colline Unité et Paix oferă o panoramă vastă asupra orașului Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.715688,
+                        11.152134
+                  ]
+            },
+            {
+                  "name": "Ḏagahha ‘Ambarka",
+                  "text": "Vârful stâncos Ḏagahha ‘Ambarka se înalță deasupra peisajului din jurul orașului Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.725833,
+                        11.165278
+                  ]
+            },
+            {
+                  "name": "oglyphe Unit",
+                  "text": "Atracția oglyphe Unit este un reper distinctiv în peisajul urban din Ali Sabieh.",
+                  "category": "landmark",
+                  "coords": [
+                        42.714914,
+                        11.153137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colline Unité et Paix",
+                  "text": "The Colline Unité et Paix viewpoint offers sweeping panoramic views over the city of Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.715688,
+                        11.152134
+                  ]
+            },
+            {
+                  "name": "Ḏagahha ‘Ambarka",
+                  "text": "The rocky peak of Ḏagahha ‘Ambarka rises above the surrounding landscape of Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.725833,
+                        11.165278
+                  ]
+            },
+            {
+                  "name": "oglyphe Unit",
+                  "text": "The oglyphe Unit attraction serves as a distinctive landmark within the urban environment of Ali Sabieh.",
+                  "category": "landmark",
+                  "coords": [
+                        42.714914,
+                        11.153137
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "DJ-AS",
     coords: [42.712, 11.156],
@@ -87,7 +204,232 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Important centre commercial à la frontière avec l'Éthiopie", "Entourée de montagnes imposantes", "Point de jonction de la ligne de chemin de fer"],
     }, image: "/poi-images/ali-sabieh-cities-v2.webp"},
   {
-    id: "tadjourah-cities-v2",
+    id: "tadjourah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aga",
+                  "text": "Aga ist eine Bergerhebung mit Blick auf die Küstenumgebung der Region Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Data ‘Ale",
+                  "text": "Data ‘Ale ist ein felsiger Gipfel im sonnenverwöhnten Gelände nahe dem Golf von Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.85
+                  ]
+            },
+            {
+                  "name": "Ougba",
+                  "text": "Ougba ist ein zerklüfteter Gipfel, der zur dramatischen Topographie des Tadjourah-Distrikts beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        42.874722,
+                        11.855278
+                  ]
+            },
+            {
+                  "name": "‘Issale ‘Assale",
+                  "text": "‘Issale ‘Assale ist ein exponierter Berggipfel, der sich aus den trockenen Ebenen um Tadjourah erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.855556,
+                        11.819722
+                  ]
+            },
+            {
+                  "name": "Galma",
+                  "text": "Galma ist ein steiler Gipfel, der weitreichende Ausblicke über den Küstenbezirk von Tadjourah bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.836389,
+                        11.831944
+                  ]
+            },
+            {
+                  "name": "Le Vieux Boutre",
+                  "text": "Le Vieux Boutre ist eine lokale kulturelle Attraktion in Tadjourah, die das traditionelle maritime Erbe der Region hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.882261,
+                        11.784517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aga",
+                  "text": "Az Aga egy hegyvidéki magaslat, amely a Tadjourah régió tengerparti környezetére néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Data ‘Ale",
+                  "text": "A Data ‘Ale egy sziklás hegycsúcs a Tadjoura-öböl közeli napsütötte terepen.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.85
+                  ]
+            },
+            {
+                  "name": "Ougba",
+                  "text": "Az Ougba egy zord hegycsúcs, amely hozzájárul a Tadjourah negyed drámai domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        42.874722,
+                        11.855278
+                  ]
+            },
+            {
+                  "name": "‘Issale ‘Assale",
+                  "text": "Az ‘Issale ‘Assale egy kiemelkedő hegycsúcs, amely a Tadjourah körüli száraz síkságokból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        42.855556,
+                        11.819722
+                  ]
+            },
+            {
+                  "name": "Galma",
+                  "text": "A Galma egy meredek hegycsúcs, amelyről messzire nyúló kilátás nyílik Tadjourah tengerparti negyedére.",
+                  "category": "natural",
+                  "coords": [
+                        42.836389,
+                        11.831944
+                  ]
+            },
+            {
+                  "name": "Le Vieux Boutre",
+                  "text": "A Le Vieux Boutre egy helyi kulturális látványosság Tadjourah-ban, amely a régió hagyományos tengeri örökségét emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        42.882261,
+                        11.784517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aga",
+                  "text": "Aga este o elevație montană care domină mediile de coastă ale regiunii Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Data ‘Ale",
+                  "text": "Data ‘Ale este un vârf stâncos situat în terenul ars de soare din apropierea Golfului Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.85
+                  ]
+            },
+            {
+                  "name": "Ougba",
+                  "text": "Ougba este un vârf stâncos care contribuie la topografia dramatică a districtului Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.874722,
+                        11.855278
+                  ]
+            },
+            {
+                  "name": "‘Issale ‘Assale",
+                  "text": "‘Issale ‘Assale este un vârf montan expus care se înalță din câmpiile aride din jurul orașului Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.855556,
+                        11.819722
+                  ]
+            },
+            {
+                  "name": "Galma",
+                  "text": "Galma este un vârf abrupt care oferă vederi ample asupra districtului de coastă Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.836389,
+                        11.831944
+                  ]
+            },
+            {
+                  "name": "Le Vieux Boutre",
+                  "text": "Le Vieux Boutre este o atracție culturală locală în Tadjourah, evidențiind moștenirea maritimă tradițională a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        42.882261,
+                        11.784517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aga",
+                  "text": "Aga is a mountain elevation overlooking the coastal environments of the Tadjourah region.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Data ‘Ale",
+                  "text": "Data ‘Ale is a rocky summit situated in the sun-baked terrain near the Gulf of Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.85
+                  ]
+            },
+            {
+                  "name": "Ougba",
+                  "text": "Ougba is a rugged peak contributing to the dramatic topography of the Tadjourah district.",
+                  "category": "natural",
+                  "coords": [
+                        42.874722,
+                        11.855278
+                  ]
+            },
+            {
+                  "name": "‘Issale ‘Assale",
+                  "text": "‘Issale ‘Assale is an exposed mountain peak rising from the arid plains around Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.855556,
+                        11.819722
+                  ]
+            },
+            {
+                  "name": "Galma",
+                  "text": "Galma is a steep peak offering far-reaching views over the coastal district of Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.836389,
+                        11.831944
+                  ]
+            },
+            {
+                  "name": "Le Vieux Boutre",
+                  "text": "Le Vieux Boutre is a local cultural attraction in Tadjourah, highlighting the region's traditional maritime heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        42.882261,
+                        11.784517
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "DJ-TA",
     coords: [42.882, 11.785],
@@ -129,7 +471,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Centre historique du sultanat d'Adal", "Célèbre pour ses sept mosquées", "Port important sur la rive nord du golfe"],
     }, image: "/poi-images/tadjourah-cities-v2.webp"},
   {
-    id: "obock-cities-v2",
+    id: "obock-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "‘As‘alé",
+                  "text": "‘As‘alé ist ein lokaler Gipfel mit Blick auf die trockene Küstenumgebung in der Nähe der Stadt Obock.",
+                  "category": "natural",
+                  "coords": [
+                        43.205257,
+                        12.003729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "‘As‘alé",
+                  "text": "Az ‘As‘alé egy helyi hegycsúcs, amely Obock városának száraz tengerparti környezetére néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.205257,
+                        12.003729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "‘As‘alé",
+                  "text": "‘As‘alé este un vârf local care domină mediul de coastă arid din apropierea orașului Obock.",
+                  "category": "natural",
+                  "coords": [
+                        43.205257,
+                        12.003729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "‘As‘alé",
+                  "text": "‘As‘alé is a local summit overlooking the arid coastal environment near the city of Obock.",
+                  "category": "natural",
+                  "coords": [
+                        43.205257,
+                        12.003729
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "DJ-OB",
     coords: [43.288, 11.966],
@@ -213,7 +600,448 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Connu pour son oasis et ses palmeraies", "Halte importante pour les caravanes nomades", "Mélange de différents groupes ethniques"],
     }, image: "/poi-images/dikhil-cities-v2.webp"},
   {
-    id: "arta-cities-v2",
+    id: "arta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qalouaïd Ḏêr",
+                  "text": "Der Berggipfel Qalouaïd Ḏêr prägt die raue Gebirgslandschaft in der Nähe der hochgelegenen Stadt Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.876111,
+                        11.5775
+                  ]
+            },
+            {
+                  "name": "Dakko",
+                  "text": "Dakko ist eine natürliche Erhebung im unwegsamen Gelände der Region Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.9,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘As",
+                  "text": "Der Goumbour ‘As ist ein Felsgipfel, der sich in der Nähe der Stadt Arta über die trockene Landschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.885833,
+                        11.563611
+                  ]
+            },
+            {
+                  "name": "Chîcha Doûlé",
+                  "text": "Chîcha Doûlé ist ein Berggipfel in den wüstenartigen Bergen rund um Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.920278,
+                        11.538333
+                  ]
+            },
+            {
+                  "name": "Qohlé",
+                  "text": "Der Gipfel Qohlé bietet einen weiten Blick über die hochgelegene Siedlung Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.875278,
+                        11.535833
+                  ]
+            },
+            {
+                  "name": "Hârhâdêdlé",
+                  "text": "Der markante Berggipfel Hârhâdêdlé erhebt sich inmitten der Hügelketten der Arta-Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.857222,
+                        11.536111
+                  ]
+            },
+            {
+                  "name": "Hâbâlé Ouéïn",
+                  "text": "Hâbâlé Ouéïn ist ein natürlicher Gipfel, der das Landschaftsbild rund um die Stadt Arta dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.819722,
+                        11.536389
+                  ]
+            },
+            {
+                  "name": "Koulamaléï",
+                  "text": "Der Gipfel Koulamaléï ragt aus dem felsigen Hochland in der Nähe von Arta empor.",
+                  "category": "natural",
+                  "coords": [
+                        42.827222,
+                        11.539167
+                  ]
+            },
+            {
+                  "name": "Bâlqoréï",
+                  "text": "Bâlqoréï ist eine bemerkenswerte Erhebung im unberührten Berggelände um Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.804167,
+                        11.573333
+                  ]
+            },
+            {
+                  "name": "DSI",
+                  "text": "Die Attraktion DSI ist ein lokaler Anziehungspunkt in der Bergstadt Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        42.917355,
+                        11.524099
+                  ]
+            },
+            {
+                  "name": "Lettres",
+                  "text": "Die Attraktion Lettres ist ein markantes Wahrzeichen oder Schild in der Gegend von Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        42.870548,
+                        11.516119
+                  ]
+            },
+            {
+                  "name": "Plage d'Arta",
+                  "text": "Der Plage d'Arta ist ein malerischer Sandstrand an der Küste unterhalb der Bergstadt Arta.",
+                  "category": "recreational",
+                  "coords": [
+                        42.823918,
+                        11.583301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qalouaïd Ḏêr",
+                  "text": "A Qalouaïd Ḏêr hegycsúcs a magasan fekvő Arta város körüli zord hegyvidéki tájat gazdagítja.",
+                  "category": "natural",
+                  "coords": [
+                        42.876111,
+                        11.5775
+                  ]
+            },
+            {
+                  "name": "Dakko",
+                  "text": "A Dakko egy természetes hegycsúcs Arta régiójának egyenetlen terepén.",
+                  "category": "natural",
+                  "coords": [
+                        42.9,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘As",
+                  "text": "A Goumbour ‘As egy sziklás hegycsúcs, amely az Arta városa körüli száraz táj fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.885833,
+                        11.563611
+                  ]
+            },
+            {
+                  "name": "Chîcha Doûlé",
+                  "text": "A Chîcha Doûlé egy hegycsúcs az Arta környéki sivatagos hegyvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        42.920278,
+                        11.538333
+                  ]
+            },
+            {
+                  "name": "Qohlé",
+                  "text": "A Qohlé csúcs széles kilátást nyújt a magasan fekvő Arta településre.",
+                  "category": "natural",
+                  "coords": [
+                        42.875278,
+                        11.535833
+                  ]
+            },
+            {
+                  "name": "Hârhâdêdlé",
+                  "text": "A Hârhâdêdlé hegycsúcs egy kiemelkedő pont Arta régiójának dombvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        42.857222,
+                        11.536111
+                  ]
+            },
+            {
+                  "name": "Hâbâlé Ouéïn",
+                  "text": "A Hâbâlé Ouéïn egy természetes hegycsúcs, amely uralja az Arta városa körüli tájat.",
+                  "category": "natural",
+                  "coords": [
+                        42.819722,
+                        11.536389
+                  ]
+            },
+            {
+                  "name": "Koulamaléï",
+                  "text": "A Koulamaléï hegycsúcs az Arta melletti sziklás fennsíkból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        42.827222,
+                        11.539167
+                  ]
+            },
+            {
+                  "name": "Bâlqoréï",
+                  "text": "A Bâlqoréï egy jelentős magaslat Arta érintetlen hegyvidéki területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.804167,
+                        11.573333
+                  ]
+            },
+            {
+                  "name": "DSI",
+                  "text": "A DSI látványosság egy helyi érdekesség Arta hegyvidéki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.917355,
+                        11.524099
+                  ]
+            },
+            {
+                  "name": "Lettres",
+                  "text": "A Lettres egy jellegzetes felirat vagy látványosság Arta környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        42.870548,
+                        11.516119
+                  ]
+            },
+            {
+                  "name": "Plage d'Arta",
+                  "text": "A Plage d'Arta egy festői homokos tengerpart, amely az Arta hegyvidéki városa alatti parton terül el.",
+                  "category": "recreational",
+                  "coords": [
+                        42.823918,
+                        11.583301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qalouaïd Ḏêr",
+                  "text": "Vârful muntos Qalouaïd Ḏêr domină peisajul montan accidentat din apropierea orașului la altitudine Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.876111,
+                        11.5775
+                  ]
+            },
+            {
+                  "name": "Dakko",
+                  "text": "Dakko este o cotație naturală situată în terenul accidentat al regiunii Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.9,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘As",
+                  "text": "Goumbour ‘As este un vârf stâncos ce se înalță deasupra peisajului arid din jurul orașului Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.885833,
+                        11.563611
+                  ]
+            },
+            {
+                  "name": "Chîcha Doûlé",
+                  "text": "Chîcha Doûlé este un vârf montan situat în munții deșertici din preajma orașului Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.920278,
+                        11.538333
+                  ]
+            },
+            {
+                  "name": "Qohlé",
+                  "text": "Vârful Qohlé oferă o priveliște vastă asupra așezării montane Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.875278,
+                        11.535833
+                  ]
+            },
+            {
+                  "name": "Hârhâdêdlé",
+                  "text": "Vârful proeminent Hârhâdêdlé se înalță printre dealurile din regiunea Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.857222,
+                        11.536111
+                  ]
+            },
+            {
+                  "name": "Hâbâlé Ouéïn",
+                  "text": "Hâbâlé Ouéïn este un vârf natural care domină peisajul din apropierea orașului Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.819722,
+                        11.536389
+                  ]
+            },
+            {
+                  "name": "Koulamaléï",
+                  "text": "Vârful Koulamaléï se înalță din platoul stâncos situat în apropiere de Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.827222,
+                        11.539167
+                  ]
+            },
+            {
+                  "name": "Bâlqoréï",
+                  "text": "Bâlqoréï este o cotație notabilă în relieful montan virgin din preajma orașului Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.804167,
+                        11.573333
+                  ]
+            },
+            {
+                  "name": "DSI",
+                  "text": "Atracția DSI este un punct de interes local situat în orașul montan Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        42.917355,
+                        11.524099
+                  ]
+            },
+            {
+                  "name": "Lettres",
+                  "text": "Atracția Lettres este un reper distinctiv sau un panou situat în zona Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        42.870548,
+                        11.516119
+                  ]
+            },
+            {
+                  "name": "Plage d'Arta",
+                  "text": "Plage d'Arta este o plajă pitorească de nisip situată pe coasta de sub orașul montan Arta.",
+                  "category": "recreational",
+                  "coords": [
+                        42.823918,
+                        11.583301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qalouaïd Ḏêr",
+                  "text": "The Qalouaïd Ḏêr peak characterizes the rugged mountainous terrain near the elevated town of Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.876111,
+                        11.5775
+                  ]
+            },
+            {
+                  "name": "Dakko",
+                  "text": "Dakko is a natural peak rising within the rugged terrain of the Arta region.",
+                  "category": "natural",
+                  "coords": [
+                        42.9,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘As",
+                  "text": "Goumbour ‘As is a rocky peak towering over the arid landscape surrounding the town of Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.885833,
+                        11.563611
+                  ]
+            },
+            {
+                  "name": "Chîcha Doûlé",
+                  "text": "Chîcha Doûlé is a mountain peak located within the desert-like highlands around Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.920278,
+                        11.538333
+                  ]
+            },
+            {
+                  "name": "Qohlé",
+                  "text": "The Qohlé peak provides sweeping views over the elevated settlement of Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.875278,
+                        11.535833
+                  ]
+            },
+            {
+                  "name": "Hârhâdêdlé",
+                  "text": "The prominent Hârhâdêdlé peak rises among the hills of the Arta region.",
+                  "category": "natural",
+                  "coords": [
+                        42.857222,
+                        11.536111
+                  ]
+            },
+            {
+                  "name": "Hâbâlé Ouéïn",
+                  "text": "Hâbâlé Ouéïn is a natural peak that dominates the local landscape near the town of Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.819722,
+                        11.536389
+                  ]
+            },
+            {
+                  "name": "Koulamaléï",
+                  "text": "The Koulamaléï peak juts out from the rocky highlands near Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.827222,
+                        11.539167
+                  ]
+            },
+            {
+                  "name": "Bâlqoréï",
+                  "text": "Bâlqoréï is a notable elevation situated in the pristine mountainous terrain around Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.804167,
+                        11.573333
+                  ]
+            },
+            {
+                  "name": "DSI",
+                  "text": "The DSI attraction serves as a local point of interest in the mountain town of Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        42.917355,
+                        11.524099
+                  ]
+            },
+            {
+                  "name": "Lettres",
+                  "text": "The Lettres attraction stands out as a distinctive sign or landmark in the Arta area.",
+                  "category": "landmark",
+                  "coords": [
+                        42.870548,
+                        11.516119
+                  ]
+            },
+            {
+                  "name": "Plage d'Arta",
+                  "text": "Plage d'Arta is a scenic sandy beach located along the coastline below the mountain town of Arta.",
+                  "category": "recreational",
+                  "coords": [
+                        42.823918,
+                        11.583301
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "DJ-AR",
     coords: [42.851, 11.523],
@@ -1720,7 +2548,88 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Fortes structures tribales des Afar", "Important pour l'élevage de chameaux", "Éloigné des grands axes de circulation"],
     }, image: "/poi-images/bondara-cities-v2.webp"},
   {
-    id: "adailou-cities-v2",
+    id: "adailou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abourma Rock Art Site",
+                  "text": "Die Abourma-Felskunststätte ist eine archäologische Attraktion mit alten Petroglyphen, die in das felsige Gelände nahe Adailou gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        42.698897,
+                        11.96602
+                  ]
+            },
+            {
+                  "name": "Oylali",
+                  "text": "Oylali ist ein markanter Berggipfel, der sich über die trockene Landschaft rund um die Siedlung Adailou erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.731111,
+                        11.947778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abourma Rock Art Site",
+                  "text": "Az Abourma sziklaművészeti lelőhely egy régészeti látványosság, amely az Adailou melletti sziklás terepre vésett ősi petroglifákat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        42.698897,
+                        11.96602
+                  ]
+            },
+            {
+                  "name": "Oylali",
+                  "text": "Az Oylali egy kiemelkedő hegycsúcs, amely az Adailou települést körülvevő száraz tájak fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.731111,
+                        11.947778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abourma Rock Art Site",
+                  "text": "Situl de artă rupestră Abourma este o atracție arheologică ce prezintă petroglife antice sculptate în terenul stâncos de lângă Adailou.",
+                  "category": "landmark",
+                  "coords": [
+                        42.698897,
+                        11.96602
+                  ]
+            },
+            {
+                  "name": "Oylali",
+                  "text": "Oylali este un vârf montan proeminent care se înalță deasupra peisajelor aride din jurul așezării Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.731111,
+                        11.947778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abourma Rock Art Site",
+                  "text": "The Abourma Rock Art Site is an archaeological attraction featuring ancient petroglyphs carved into the rocky terrain near Adailou.",
+                  "category": "landmark",
+                  "coords": [
+                        42.698897,
+                        11.96602
+                  ]
+            },
+            {
+                  "name": "Oylali",
+                  "text": "Oylali is a prominent mountain peak rising above the arid landscapes surrounding the settlement of Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.731111,
+                        11.947778
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-TA",
     coords: [42.715, 11.955],
@@ -2551,7 +3460,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Centre d'agriculture de subsistance", "Lieu de rencontre pour les agriculteurs locaux", "Architecture classique du désert"],
     }, image: "/poi-images/garba-daba-cities-v2.webp"},
   {
-    id: "gourabous-cities-v2",
+    id: "gourabous-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kadda Gêrasôliso",
+                  "text": "Der hoch aufragende Gipfel des Kadda Gêrasôliso steht als felsiges Wahrzeichen über dem Gebiet von Gourabous.",
+                  "category": "natural",
+                  "coords": [
+                        42.086667,
+                        11.2025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kadda Gêrasôliso",
+                  "text": "A Kadda Gêrasôliso tornyosuló csúcsa sziklás tájékozódási pontként magasodik Gourabous területe felett.",
+                  "category": "natural",
+                  "coords": [
+                        42.086667,
+                        11.2025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kadda Gêrasôliso",
+                  "text": "Vârful impunător al Kadda Gêrasôliso se înalță ca un punct de reper stâncos deasupra zonei Gourabous.",
+                  "category": "natural",
+                  "coords": [
+                        42.086667,
+                        11.2025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kadda Gêrasôliso",
+                  "text": "The towering peak of Kadda Gêrasôliso stands as a rocky landmark over the Gourabous area.",
+                  "category": "natural",
+                  "coords": [
+                        42.086667,
+                        11.2025
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-DI",
     coords: [42.085, 11.185],
@@ -2599,7 +3553,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Infrastructure minimale", "Les droits tribaux traditionnels s'appliquent ici", "Vue sur des chaînes de montagnes lointaines"],
     }, image: "/poi-images/gourabous-cities-v2.webp"},
   {
-    id: "guistir-cities-v2",
+    id: "guistir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qorrotâlé",
+                  "text": "Der Gipfel Qorrotâlé dominiert die bergige Umgebung von Guistir.",
+                  "category": "natural",
+                  "coords": [
+                        42.946389,
+                        11.116389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qorrotâlé",
+                  "text": "A Qorrotâlé hegycsúcs a Guistir környéki hegyvidék meghatározó eleme.",
+                  "category": "natural",
+                  "coords": [
+                        42.946389,
+                        11.116389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qorrotâlé",
+                  "text": "Vârful Qorrotâlé domină împrejurimile muntoase din Guistir.",
+                  "category": "natural",
+                  "coords": [
+                        42.946389,
+                        11.116389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qorrotâlé",
+                  "text": "The Qorrotâlé peak dominates the mountainous surroundings of Guistir.",
+                  "category": "natural",
+                  "coords": [
+                        42.946389,
+                        11.116389
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AS",
     coords: [42.925, 11.125],
@@ -3601,7 +4600,88 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Spécialisé dans l'élevage de chèvres et de moutons", "Huttes circulaires traditionnelles", "Situé sur la route du sud"],
     }, image: "/poi-images/mouloud-cities-v2.webp"},
   {
-    id: "ali-adde-cities-v2",
+    id: "ali-adde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "Der Berggipfel Ḏaba‘as erhebt sich schroff in der Wüstenlandschaft nahe Ali Addé.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            },
+            {
+                  "name": "Fort d'Ali-Addé",
+                  "text": "Das historische Fort d'Ali-Addé diente einst der militärischen Kontrolle der Region um Ali Addé.",
+                  "category": "landmark",
+                  "coords": [
+                        42.884404,
+                        11.132544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "A Ḏaba‘as hegycsúcs meredeken magasodik az Ali Addé közeli sivatagi tájon.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            },
+            {
+                  "name": "Fort d'Ali-Addé",
+                  "text": "A történelmi Fort d'Ali-Addé egykor az Ali Addé körüli régió katonai ellenőrzésére szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        42.884404,
+                        11.132544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "Vârful Ḏaba‘as se ridică abrupt în peisajul deșertic din apropiere de Ali Addé.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            },
+            {
+                  "name": "Fort d'Ali-Addé",
+                  "text": "Istoricul Fort d'Ali-Addé servea cândva pentru controlul militar al regiunii din jurul orașului Ali Addé.",
+                  "category": "landmark",
+                  "coords": [
+                        42.884404,
+                        11.132544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "The Ḏaba‘as peak rises abruptly in the desert landscape near Ali Addé.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            },
+            {
+                  "name": "Fort d'Ali-Addé",
+                  "text": "The historic Fort d'Ali-Addé once served as a military control point in the region around Ali Addé.",
+                  "category": "landmark",
+                  "coords": [
+                        42.884404,
+                        11.132544
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AS",
     coords: [42.885, 11.125],
@@ -3697,7 +4777,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Ancienne gare de l'époque coloniale", "Entouré de plateaux tabulaires remarquables", "Routes nomades traditionnelles"],
     }, image: "/poi-images/dasbiyo-cities-v2.webp"},
   {
-    id: "damerjog-cities-v2",
+    id: "damerjog-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diko",
+                  "text": "Diko ist ein dominierender Gipfel mit Blick auf die sich verstädternde Landschaft des Damerjog-Stadtgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        43.183333,
+                        11.45
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diko",
+                  "text": "A Diko egy tekintélyt parancsoló hegycsúcs, amely a Damerjog városi terület urbanizálódó tájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.183333,
+                        11.45
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diko",
+                  "text": "Diko este un vârf impunător care domină peisajul în curs de urbanizare al zonei orașului Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.183333,
+                        11.45
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diko",
+                  "text": "Diko is a commanding peak overlooking the urbanizing landscape of the Damerjog city area.",
+                  "category": "natural",
+                  "coords": [
+                        43.183333,
+                        11.45
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AR",
     coords: [43.185, 11.455],

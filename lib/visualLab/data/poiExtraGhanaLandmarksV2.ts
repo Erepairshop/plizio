@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraGhanaLandmarksV2: POI[] = [
   {
-    id: "kwame-nkrumah-mausoleum-landmarks-v2",
+    id: "kwame-nkrumah-mausoleum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makola Market",
+                  "text": "Der Makola-Markt ist ein dichtes, weitläufiges Open-Air-Handelszentrum, in dem unzählige Verkäufer mit farbenfrohen Textilien und Waren des täglichen Bedarfs handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.206932,
+                        5.548074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makola Market",
+                  "text": "A Makola piac egy sűrű, kiterjedt szabadtéri kereskedelmi központ, ahol számtalan árus cserél színes textileket és mindennapi cikkeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.206932,
+                        5.548074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makola Market",
+                  "text": "Piața Makola este un centru comercial în aer liber dens și întins, unde nenumărați vânzători comercializează textile colorate și bunuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.206932,
+                        5.548074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makola Market",
+                  "text": "Makola Market is a dense, sprawling open-air commercial center where countless vendors trade colorful textiles and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.206932,
+                        5.548074
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.203, 5.544],
@@ -97,7 +142,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Année de construction : 1961 pour célébrer l'indépendance.", "Lieu : Place de l'Indépendance (Black Star Square) à Accra.", "Porte la devise nationale : « Freedom and Justice ».", "Couronné par l'Étoile noire, le symbole de l'Afrique.", "Conçu comme faisant partie de l'un des plus grands champs de foire au monde.", "Lieu principal des défilés annuels du 6 mars."],
     }, image: "/poi-images/independence-arch-landmarks-v2.webp"},
   {
-    id: "black-star-gate-landmarks-v2",
+    id: "black-star-gate-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Black Star Gate",
+                  "text": "Dieses historische Tor wird vom ikonischen Schwarzen Stern Afrikas gekrönt, der Freiheit und panafrikanischen Stolz symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192857,
+                        5.548999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Black Star Gate",
+                  "text": "Ezt a történelmi kaput az ikonikus afrikai Fekete Csillag koronázza, amely a szabadságot és a pánafrikai büszkeséget szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192857,
+                        5.548999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Black Star Gate",
+                  "text": "Această poartă istorică este încoronată de emblematica Stea Neagră a Africii, simbolizând libertatea și mândria pan-africană.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192857,
+                        5.548999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black Star Gate",
+                  "text": "This historic gateway is crowned by the iconic Black Star of Africa, symbolizing freedom and Pan-African pride.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192857,
+                        5.548999
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.193, 5.549],
@@ -144,7 +234,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Achèvement en 1961 sous Kwame Nkrumah.", "Monument central sur la place de l'Étoile Noire à Accra.", "Surmontée de l'étoile noire à cinq branches du Ghana.", "Fait partie d'une place d'une capacité de 30 000 personnes.", "Sert d'arc d'honneur lors des défilés militaires nationaux.", "L'étoile noire symbolise la liberté africaine."],
     }, image: "/poi-images/black-star-gate-landmarks-v2.webp"},
   {
-    id: "accra-sports-stadium-landmarks-v2",
+    id: "accra-sports-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ano",
+                  "text": "Ano ist eine Galerie für zeitgenössische Kunst in der Nähe des Accra Sports Stadium, die lebendige panafrikanische Ausstellungen und kreative Installationen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.187395,
+                        5.553051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ano",
+                  "text": "Az Ano egy kortárs művészeti galéria az accrai sportstadion közelében, amely vibráló pánafrikai kiállításokat és kreatív installációkat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.187395,
+                        5.553051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ano",
+                  "text": "Ano este o galerie de artă contemporană de lângă Stadionul Sportiv din Accra, care prezintă expoziții pan-africane vibrante și instalații creative.",
+                  "category": "museum",
+                  "coords": [
+                        -0.187395,
+                        5.553051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ano",
+                  "text": "Ano is a contemporary art gallery near the Accra Sports Stadium that showcases vibrant pan-African exhibitions and creative installations.",
+                  "category": "museum",
+                  "coords": [
+                        -0.187395,
+                        5.553051
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.192, 5.551],
@@ -191,7 +326,340 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Inauguration en 1952 pendant l'époque coloniale.", "Capacité : environ 40 000 places après rénovation.", "Stade de résidence de l'équipe nationale des « Black Stars ».", "Nommé d'après Ohene Djan, le premier directeur des sports du Ghana.", "Lieu d'accueil de la Coupe d'Afrique des Nations (CAN) 2008.", "Mémorial sur place pour la catastrophe du 9 mai 2001."],
     }, image: "/poi-images/accra-sports-stadium-landmarks-v2.webp"},
   {
-    id: "national-museum-ghana-landmarks-v2",
+    id: "national-museum-ghana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wonda World Estate",
+                  "text": "Wonda World Estate ist ein moderner Wohn- und Geschäftskomplex mit zeitgenössischer urbaner Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.194389,
+                        5.563579
+                  ]
+            },
+            {
+                  "name": "Kwame Nkrumah Interchange",
+                  "text": "Das Kwame Nkrumah Interchange ist ein massives, mehrstöckiges Straßennetz und ein monumentaler Knotenpunkt, der den zentralen Verkehrsfluss der Stadt verändert hat.",
+                  "category": "historical",
+                  "coords": [
+                        -0.215348,
+                        5.569588
+                  ]
+            },
+            {
+                  "name": "Obetsebi",
+                  "text": "Dieses städtische Denkmal ehrt das Vermächtnis von Emmanuel Obetsebi-Lamptey, einer Schlüsselfigur in Ghanas Unabhängigkeitskampf, und befindet sich in einem großen Kreisverkehr.",
+                  "category": "historical",
+                  "coords": [
+                        -0.229366,
+                        5.561375
+                  ]
+            },
+            {
+                  "name": "Hindu Monastery of Africa",
+                  "text": "Das Hindu Monastery of Africa ist eine friedliche Kultstätte, die traditionelle hinduistische spirituelle Praktiken mit einem afrikanischen kulturellen Rahmen verbindet.",
+                  "category": "religious",
+                  "coords": [
+                        -0.265013,
+                        5.579248
+                  ]
+            },
+            {
+                  "name": "Word of Testimony Church",
+                  "text": "Die Word of Testimony Church ist ein lokaler religiöser Versammlungsort, der für seine lebhaften Gottesdienste und sein Engagement in der Gemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.280333,
+                        5.578355
+                  ]
+            },
+            {
+                  "name": "Museum of Science and Technology",
+                  "text": "Das Museum für Wissenschaft und Technologie bietet vielfältige Exponate, die den industriellen Fortschritt des Landes und historische technische Artefakte detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206143,
+                        5.556749
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Das Nationalmuseum von Ghana beherbergt eine umfangreiche Sammlung archäologischer Funde, traditioneller Stammeskunst und historischer Insignien.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206489,
+                        5.560734
+                  ]
+            },
+            {
+                  "name": "Kaneshie Market Complex",
+                  "text": "Der Kaneshie Market Complex ist ein geschäftiges, mehrstöckiges Handelszentrum, das alles von frischen lokalen Produkten bis hin zu traditionellen Stoffen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.236414,
+                        5.566262
+                  ]
+            },
+            {
+                  "name": "Efua Sutherland Children's Park",
+                  "text": "Der Efua Sutherland Children's Park ist ein großes, grünes öffentliches Erholungsgebiet im Stadtzentrum mit Spielplätzen und offenen Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        -0.198893,
+                        5.555944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wonda World Estate",
+                  "text": "A Wonda World Estate egy modern lakó- és kereskedelmi komplexum, amely kortárs városi építészettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.194389,
+                        5.563579
+                  ]
+            },
+            {
+                  "name": "Kwame Nkrumah Interchange",
+                  "text": "A Kwame Nkrumah Interchange egy hatalmas, többszintes úthálózat és monumentális csomópont, amely átalakította a város központi forgalmát.",
+                  "category": "historical",
+                  "coords": [
+                        -0.215348,
+                        5.569588
+                  ]
+            },
+            {
+                  "name": "Obetsebi",
+                  "text": "Ez a városi emlékmű Emmanuel Obetsebi-Lamptey, a ghánai függetlenségi küzdelem kulcsfigurájának állít emléket egy nagy körforgalomban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.229366,
+                        5.561375
+                  ]
+            },
+            {
+                  "name": "Hindu Monastery of Africa",
+                  "text": "Az Afrikai Hindu Kolostor egy békés istentiszteleti hely, amely ötvözi a hagyományos hindu spirituális gyakorlatokat az afrikai kulturális környezettel.",
+                  "category": "religious",
+                  "coords": [
+                        -0.265013,
+                        5.579248
+                  ]
+            },
+            {
+                  "name": "Word of Testimony Church",
+                  "text": "A Word of Testimony Church egy helyi vallási gyülekezeti hely, amely élénk istentiszteleteiről és közösségi programjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.280333,
+                        5.578355
+                  ]
+            },
+            {
+                  "name": "Museum of Science and Technology",
+                  "text": "A Tudomány és Technológia Múzeuma változatos kiállításokat mutat be, amelyek az ország ipari fejlődését és történelmi mérnöki tárgyait részletezik.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206143,
+                        5.556749
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "A Ghánai Nemzeti Múzeum régészeti leletek, hagyományos törzsi művészeti alkotások és történelmi jelvények kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206489,
+                        5.560734
+                  ]
+            },
+            {
+                  "name": "Kaneshie Market Complex",
+                  "text": "A Kaneshie Market Complex egy nyüzsgő, többszintes kereskedelmi központ, amely a friss helyi termékektől a hagyományos szövetekig mindent kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.236414,
+                        5.566262
+                  ]
+            },
+            {
+                  "name": "Efua Sutherland Children's Park",
+                  "text": "Az Efua Sutherland Gyermekpark egy nagy, lombos nyilvános rekreációs terület a városközpontban, ahol játszóterek és nyitott zöldterületek találhatók.",
+                  "category": "park",
+                  "coords": [
+                        -0.198893,
+                        5.555944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wonda World Estate",
+                  "text": "Wonda World Estate este un complex rezidențial și comercial modern, caracterizat prin arhitectură urbană contemporană.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.194389,
+                        5.563579
+                  ]
+            },
+            {
+                  "name": "Kwame Nkrumah Interchange",
+                  "text": "Intersecția Kwame Nkrumah este o rețea rutieră masivă, pe mai multe niveluri, și o intersecție monumentală care a transformat fluxul de trafic central al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -0.215348,
+                        5.569588
+                  ]
+            },
+            {
+                  "name": "Obetsebi",
+                  "text": "Acest monument urban onorează moștenirea lui Emmanuel Obetsebi-Lamptey, o figură cheie în lupta pentru independența Ghanei, fiind situat într-un sens giratoriu important.",
+                  "category": "historical",
+                  "coords": [
+                        -0.229366,
+                        5.561375
+                  ]
+            },
+            {
+                  "name": "Hindu Monastery of Africa",
+                  "text": "Mănăstirea Hindusă din Africa este un lăcaș de cult senin care îmbină practicile spirituale hinduse tradiționale cu un cadru cultural african.",
+                  "category": "religious",
+                  "coords": [
+                        -0.265013,
+                        5.579248
+                  ]
+            },
+            {
+                  "name": "Word of Testimony Church",
+                  "text": "Biserica Word of Testimony este un loc de adunare religioasă locală, cunoscut pentru slujbele sale vibrante și implicarea în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.280333,
+                        5.578355
+                  ]
+            },
+            {
+                  "name": "Museum of Science and Technology",
+                  "text": "Muzeul de Știință și Tehnologie prezintă diverse exponate care detaliază progresul industrial al națiunii și artefacte inginerești istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206143,
+                        5.556749
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Muzeul Național al Ghanei găzduiește o colecție vastă de descoperiri arheologice, artă tribală tradițională și regalia istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206489,
+                        5.560734
+                  ]
+            },
+            {
+                  "name": "Kaneshie Market Complex",
+                  "text": "Complexul Comercial Kaneshie este un centru comercial aglomerat, cu mai multe etaje, care oferă totul, de la produse locale proaspete la țesături tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.236414,
+                        5.566262
+                  ]
+            },
+            {
+                  "name": "Efua Sutherland Children's Park",
+                  "text": "Parcul pentru copii Efua Sutherland este o zonă publică mare și înverzită de recreere în centrul orașului, având locuri de joacă și spații verzi deschise.",
+                  "category": "park",
+                  "coords": [
+                        -0.198893,
+                        5.555944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wonda World Estate",
+                  "text": "Wonda World Estate is a modern residential and commercial complex featuring contemporary urban architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.194389,
+                        5.563579
+                  ]
+            },
+            {
+                  "name": "Kwame Nkrumah Interchange",
+                  "text": "The Kwame Nkrumah Interchange is a massive, multi-tiered road network and monumental junction that transformed the city's central traffic flow.",
+                  "category": "historical",
+                  "coords": [
+                        -0.215348,
+                        5.569588
+                  ]
+            },
+            {
+                  "name": "Obetsebi",
+                  "text": "This urban monument honors the legacy of Emmanuel Obetsebi-Lamptey, a key figure in Ghana's independence struggle, set within a major roundabout.",
+                  "category": "historical",
+                  "coords": [
+                        -0.229366,
+                        5.561375
+                  ]
+            },
+            {
+                  "name": "Hindu Monastery of Africa",
+                  "text": "The Hindu Monastery of Africa is a serene place of worship that blends traditional Hindu spiritual practices with an African cultural setting.",
+                  "category": "religious",
+                  "coords": [
+                        -0.265013,
+                        5.579248
+                  ]
+            },
+            {
+                  "name": "Word of Testimony Church",
+                  "text": "The Word of Testimony Church is a local religious gathering place known for its vibrant congregational services and community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.280333,
+                        5.578355
+                  ]
+            },
+            {
+                  "name": "Museum of Science and Technology",
+                  "text": "The Museum of Science and Technology features diverse exhibits detailing the nation's industrial progress and historical engineering artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206143,
+                        5.556749
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "The National Museum of Ghana houses an extensive collection of archaeological finds, traditional tribal arts, and historical regalia.",
+                  "category": "museum",
+                  "coords": [
+                        -0.206489,
+                        5.560734
+                  ]
+            },
+            {
+                  "name": "Kaneshie Market Complex",
+                  "text": "The Kaneshie Market Complex is a bustling, multi-story commercial hub offering everything from fresh local produce to traditional fabrics.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.236414,
+                        5.566262
+                  ]
+            },
+            {
+                  "name": "Efua Sutherland Children's Park",
+                  "text": "The Efua Sutherland Children's Park is a large, leafy public recreation area in the city center featuring playgrounds and open green spaces.",
+                  "category": "park",
+                  "coords": [
+                        -0.198893,
+                        5.555944
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.201, 5.556],
@@ -238,7 +706,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Inauguration le 5 mars 1957 par la duchesse de Kent.", "Plus ancien et plus grand musée de tout le Ghana.", "Architecte : Raymond McGrath a conçu le bâtiment rond.", "Possède une importante collection de poids à peser l'or Ashanti.", "Réouvert en juin 2022 après une longue fermeture.", "Les expositions couvrent l'archéologie, l'ethnographie et l'art."],
     }, image: "/poi-images/national-museum-ghana-landmarks-v2.webp"},
   {
-    id: "osu-castle-landmarks-v2",
+    id: "osu-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Osu Castle",
+                  "text": "Diese im 17. Jahrhundert erbaute, imposante weiße Küstenfestung thront direkt über den Wellen des Golfs von Guinea.",
+                  "category": "castle",
+                  "coords": [
+                        -0.184414,
+                        5.547134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osu Castle",
+                  "text": "Ez a 17. században épült, impozáns fehér parti erőd közvetlenül a Guineai-öböl hullámai felett magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        -0.184414,
+                        5.547134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Osu Castle",
+                  "text": "Construită în secolul al XVII-lea, această impunătoare fortăreață de coastă albă tronează direct deasupra valurilor Golfului Guineei.",
+                  "category": "castle",
+                  "coords": [
+                        -0.184414,
+                        5.547134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osu Castle",
+                  "text": "Built in the 17th century, this imposing white coastal fortress sits directly above the crashing waves of the Gulf of Guinea.",
+                  "category": "castle",
+                  "coords": [
+                        -0.184414,
+                        5.547134
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.181, 5.546],
@@ -332,7 +845,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Construit en 1482 par les Portugais sous Diogo de Azambuja.", "Plus ancien édifice européen au sud du Sahara.", "Conquis et agrandi par les Néerlandais en 1637.", "Inscrit au patrimoine mondial de l'UNESCO depuis 1979.", "Célèbre pour la « Porte du non-retour » servant à l'embarquement des esclaves.", "Le château est situé sur une péninsule stratégiquement importante."],
     }, image: "/poi-images/elmina-castle-landmarks-v2.webp"},
   {
-    id: "cape-coast-castle-landmarks-v2",
+    id: "cape-coast-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "West African Historical Museum",
+                  "text": "Ein Bildungsmuseum, das sich der Erhaltung regionaler Geschichte und kultureller Artefakte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -1.240401,
+                        5.10457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "West African Historical Museum",
+                  "text": "Egy oktatási múzeum, amelyet a regionális történelem és a kulturális örökség megőrzésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -1.240401,
+                        5.10457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "West African Historical Museum",
+                  "text": "Un muzeu educațional dedicat păstrării istoriei regionale și a artefactelor de patrimoniu.",
+                  "category": "museum",
+                  "coords": [
+                        -1.240401,
+                        5.10457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "West African Historical Museum",
+                  "text": "An educational museum dedicated to preserving regional history and heritage artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -1.240401,
+                        5.10457
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-CP",
     coords: [-1.239, 5.103],
@@ -379,7 +937,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Construit à l'origine en 1653 par les Suédois sous le nom de Carolusburg.", "A servi de quartier général britannique sur la Côte-de-l'Or dès 1664.", "Possède des cachots souterrains pouvant accueillir jusqu'à 1 500 prisonniers.", "Classé au patrimoine mondial de l'UNESCO en 1979.", "Abrite le West African Historical Museum.", "Barack Obama a visité le château en 2009."],
     }, image: "/poi-images/cape-coast-castle-landmarks-v2.webp"},
   {
-    id: "larabanga-mosque-landmarks-v2",
+    id: "larabanga-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Larabanga Mosque",
+                  "text": "Eine ikonische, historische Lehmziegelmoschee im charakteristischen sudanesischen Architekturstil in Larabanga.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.859945,
+                        9.220318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Larabanga Mosque",
+                  "text": "Ikonikus, történelmi vályogtégla mecset Larabangában, amely a jellegzetes szudáni építészeti stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.859945,
+                        9.220318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Larabanga Mosque",
+                  "text": "O moschee istorică iconică din cărămidă de noroi, construită în stilul arhitectural sudanez distinctiv în Larabanga.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.859945,
+                        9.220318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Larabanga Mosque",
+                  "text": "An iconic, historic mud-brick mosque built in the distinctive Sudanese architectural style in Larabanga.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.859945,
+                        9.220318
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-SR",
     coords: [-1.86, 9.221],
@@ -426,7 +1029,124 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Année de construction : 1421 selon la tradition locale.", "Style architectural : Construction traditionnelle en terre soudano-sahélienne.", "Abrite un Coran datant de 1650.", "Souvent appelée la « Mecque de l'Afrique de l'Ouest ».", "Inscrite sur la liste du World Monuments Watch en 2002.", "Se trouve à proximité du parc national de Mole."],
     }, image: "/poi-images/larabanga-mosque-landmarks-v2.webp"},
   {
-    id: "baba-yara-stadium-landmarks-v2",
+    id: "baba-yara-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ghana at 50 Monument",
+                  "text": "Dieses Denkmal nahe dem Baba Yara-Stadion erinnert an den 50. Jahrestag der Unabhängigkeit Ghanas von der Kolonialherrschaft im Jahr 2007.",
+                  "category": "historical",
+                  "coords": [
+                        -1.613169,
+                        6.689339
+                  ]
+            },
+            {
+                  "name": "Asafo Ahenfie",
+                  "text": "Das Asafo Castle ist ein historisches, festungsartiges Gebäude, das mit den traditionellen Militärkompanien der Fante, den sogenannten Asafo, in Verbindung steht.",
+                  "category": "castle",
+                  "coords": [
+                        -1.609868,
+                        6.686621
+                  ]
+            },
+            {
+                  "name": "Asafo Markt",
+                  "text": "Der Asafo-Markt gilt als eines der geschäftigsten Handelszentren von Kumasi und ist ein riesiges Freiluftlabyrinth, in dem Händler alles von lokalen Produkten bis hin zu bunten Textilien verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.615933,
+                        6.688523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ghana at 50 Monument",
+                  "text": "A Baba Yara Stadion közelében emelt emlékmű Ghána gyarmati uralom alóli függetlenedésének 2007-es, 50. évfordulójára emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        -1.613169,
+                        6.689339
+                  ]
+            },
+            {
+                  "name": "Asafo Ahenfie",
+                  "text": "Az Asafo kastély egy történelmi, erődszerű építmény, amely a hagyományos, asafónak nevezett fante katonai társaságokhoz kapcsolódik.",
+                  "category": "castle",
+                  "coords": [
+                        -1.609868,
+                        6.686621
+                  ]
+            },
+            {
+                  "name": "Asafo Market",
+                  "text": "A Kumasi egyik legforgalmasabb kereskedelmi központjaként ismert Asafo piac egy hatalmas szabadtéri labirintus, ahol az árusok a helyi termékektől a színes textíliákig mindent kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.615933,
+                        6.688523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ghana at 50 Monument",
+                  "text": "Ridicat lângă Stadionul Baba Yara, acest monument comemorează a 50-a aniversare a independenței Ghanei față de dominația colonială din 2007.",
+                  "category": "historical",
+                  "coords": [
+                        -1.613169,
+                        6.689339
+                  ]
+            },
+            {
+                  "name": "Asafo Ahenfie",
+                  "text": "Castelul Asafo este o structură istorică asemănătoare unei fortărețe, conectată la companiile militare tradiționale Fante cunoscute sub numele de Asafo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.609868,
+                        6.686621
+                  ]
+            },
+            {
+                  "name": "Asafo Market",
+                  "text": "Cunoscută ca unul dintre cele mai aglomerate centre comerciale din Kumasi, Piața Asafo este un labirint imens în aer liber unde vânzătorii oferă totul, de la produse locale la textile colorate.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.615933,
+                        6.688523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghana at 50 Monument",
+                  "text": "Erected near the Baba Yara Stadium, this monument commemorates the 50th anniversary of Ghana's independence from colonial rule in 2007.",
+                  "category": "historical",
+                  "coords": [
+                        -1.613169,
+                        6.689339
+                  ]
+            },
+            {
+                  "name": "Asafo Castle",
+                  "text": "The Asafo Castle stands as a historical fortress-like structure connected to the traditional Fante military companies known as the Asafo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.609868,
+                        6.686621
+                  ]
+            },
+            {
+                  "name": "Asafo Market",
+                  "text": "Known as one of Kumasi's busiest trading hubs, the Asafo Market is a massive open-air labyrinth where vendors sell everything from local produce to colorful textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.615933,
+                        6.688523
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AH",
     coords: [-1.611, 6.69],
@@ -473,7 +1193,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Ouverture officielle en 1957.", "Plus grand stade du Ghana avec plus de 40 000 places.", "Nommé d'après le légendaire footballeur Baba Yara (1936-1969).", "Terrain de jeu du célèbre club Asante Kotoko.", "Lieu d'accueil de la Coupe d'Afrique des Nations 2008.", "Possède une piste d'athlétisme certifiée par l'IAAF."],
     }, image: "/poi-images/baba-yara-stadium-landmarks-v2.webp"},
   {
-    id: "manhyia-palace-landmarks-v2",
+    id: "manhyia-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manhyia Palace",
+                  "text": "Diese historische Residenz in Kumasi dient als traditioneller Sitz des Asantehene, des Königs des Ashanti-Reiches.",
+                  "category": "castle",
+                  "coords": [
+                        -1.615585,
+                        6.703886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manhyia Palace",
+                  "text": "Ez a kumasi történelmi rezidencia az Ashanti Birodalom királyának, az Asantehene-nek a hagyományos székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        -1.615585,
+                        6.703886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manhyia Palace",
+                  "text": "Această reședință istorică din Kumasi servește drept sediul tradițional al Asantehene, regele Imperiului Ashanti.",
+                  "category": "castle",
+                  "coords": [
+                        -1.615585,
+                        6.703886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manhyia Palace",
+                  "text": "This historic residence in Kumasi serves as the traditional seat of the Asantehene, the king of the Ashanti Empire.",
+                  "category": "castle",
+                  "coords": [
+                        -1.615585,
+                        6.703886
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AH",
     coords: [-1.615, 6.706],
@@ -520,7 +1285,88 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le bâtiment d'origine a été achevé par les Britanniques en 1925.", "Le Manhyia Palace Museum a été officiellement ouvert en août 1995.", "Le nom Manhyia signifie « lieu de rassemblement du peuple » en langue Twi.", "Le musée conserve des figures de cire des anciens rois Ashanti et des reines-mères.", "Le nouveau complexe palatial est situé juste derrière le bâtiment historique du musée.", "Le conseil d'Asanteman s'y réunit tous les 42 jours pour la fête d'Akwasidae."],
     }, image: "/poi-images/manhyia-palace-landmarks-v2.webp"},
   {
-    id: "kejetia-market-landmarks-v2",
+    id: "kejetia-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wesley Methodist Cathedral",
+                  "text": "Diese große methodistische Kathedrale in der Nähe des weitläufigen Kejetia-Marktes ist eines der größten und bedeutendsten christlichen Wahrzeichen in Kumasi.",
+                  "category": "religious",
+                  "coords": [
+                        -1.623441,
+                        6.693746
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Cathedral",
+                  "text": "Die St.-Peter-Kathedrale ist eine bedeutende katholische Basilika in der lebhaften Stadt Kumasi.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617723,
+                        6.69537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wesley Methodist Cathedral",
+                  "text": "A kiterjedt Kejetia piac közelében található hatalmas metodista katedrális az egyik legnagyobb és legjelentősebb keresztény nevezetesség Kumasiban.",
+                  "category": "religious",
+                  "coords": [
+                        -1.623441,
+                        6.693746
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Cathedral",
+                  "text": "A Szent Péter-székesegyház egy jelentős katolikus bazilika Kumasi nyüzsgő városában.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617723,
+                        6.69537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wesley Methodist Cathedral",
+                  "text": "Situată lângă întinsa piață Kejetia, această grandioasă catedrală metodistă este unul dintre cele mai mari și mai semnificative repere creștine din Kumasi.",
+                  "category": "religious",
+                  "coords": [
+                        -1.623441,
+                        6.693746
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Cathedral",
+                  "text": "Catedrala Sfântul Petru este o bazilică catolică proeminentă situată în orașul vibrant Kumasi.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617723,
+                        6.69537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wesley Methodist Cathedral",
+                  "text": "Located near the sprawling Kejetia Market, this grand Methodist cathedral is one of the largest and most significant Christian landmarks in Kumasi.",
+                  "category": "religious",
+                  "coords": [
+                        -1.623441,
+                        6.693746
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Cathedral",
+                  "text": "Saint Peter's Cathedral is a prominent Catholic basilica located in the vibrant city of Kumasi.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617723,
+                        6.69537
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AH",
     coords: [-1.621, 6.696],
@@ -567,7 +1413,88 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le marché abrite environ plus de 11 000 stands de vente individuels.", "La première phase de la modernisation a été achevée en 2018.", "Le projet de construction a coûté environ 259 millions de dollars US pour la première phase.", "Le marché est connu pour le plus grand choix de tissus Kente au Ghana.", "La nouvelle structure dispose d'un système de sécurité et de protection incendie intégré.", "Chaque jour, entre 200 000 et 300 000 personnes visitent le site."],
     }, image: "/poi-images/kejetia-market-landmarks-v2.webp"},
   {
-    id: "jubilee-house-landmarks-v2",
+    id: "jubilee-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ghana National Mosque",
+                  "text": "Die große Nationalmoschee beeindruckt mit ihrer markanten osmanischen Architektur und ihren hohen Minaretten.",
+                  "category": "religious",
+                  "coords": [
+                        -0.189648,
+                        5.590606
+                  ]
+            },
+            {
+                  "name": "Revolution Square",
+                  "text": "Dieser städtische Denkmalsplatz verfügt über gepflasterte Gehwege und gedenkende bürgerliche Skulpturen.",
+                  "category": "historical",
+                  "coords": [
+                        -0.186485,
+                        5.578717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ghana National Mosque",
+                  "text": "A hatalmas nemzeti mecset feltűnő, oszmán stílusú építészetével és kiemelkedő minaretjeivel hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "coords": [
+                        -0.189648,
+                        5.590606
+                  ]
+            },
+            {
+                  "name": "Revolution Square",
+                  "text": "Ez a városi emlékmű-tér kövezett sétányokkal és polgári emlékszobrokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        -0.186485,
+                        5.578717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ghana National Mosque",
+                  "text": "Marea moschee națională se remarcă prin arhitectura sa spectaculoasă de stil otoman și minaretele sale înalte.",
+                  "category": "religious",
+                  "coords": [
+                        -0.189648,
+                        5.590606
+                  ]
+            },
+            {
+                  "name": "Revolution Square",
+                  "text": "Această piață monumentală urbană are alei pavate și sculpturi civice comemorative.",
+                  "category": "historical",
+                  "coords": [
+                        -0.186485,
+                        5.578717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghana National Mosque",
+                  "text": "The grand national mosque stands out with its striking Ottoman-style architecture and towering minarets.",
+                  "category": "religious",
+                  "coords": [
+                        -0.189648,
+                        5.590606
+                  ]
+            },
+            {
+                  "name": "Revolution Square",
+                  "text": "This urban monument square features paved walkways and commemorative civic sculptures.",
+                  "category": "historical",
+                  "coords": [
+                        -0.186485,
+                        5.578717
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.183, 5.586],
@@ -614,7 +1541,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le bâtiment a été officiellement inauguré le 10 novembre 2008.", "Les coûts de construction se sont élevés à environ 45 à 50 millions de dollars US.", "Le gouvernement indien a accordé un prêt de 30 millions de dollars.", "Le design est basé sur le motif d'un tabouret Ashanti.", "En 2018, le renommage officiel en Jubilee House a eu lieu.", "Le complexe est situé sur Liberation Road dans le quartier de Kanda."],
     }, image: "/poi-images/jubilee-house-landmarks-v2.webp"},
   {
-    id: "national-theatre-ghana-landmarks-v2",
+    id: "national-theatre-ghana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Theatre",
+                  "text": "Das Nationaltheater von Ghana verfügt über ein unverwechselbares, schiffähnliches modernes architektonisches Design und ist Schauplatz bedeutender Veranstaltungen der darstellenden Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.200593,
+                        5.553667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Theatre",
+                  "text": "Ghána Nemzeti Színháza jellegzetes, hajószerű, modern építészeti dizájnnal rendelkezik, és jelentős előadóművészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.200593,
+                        5.553667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Theatre",
+                  "text": "Teatrul Național din Ghana prezintă un design arhitectural modern distinctiv, asemănător unei nave, și găzduiește evenimente majore de artă a spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.200593,
+                        5.553667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Theatre",
+                  "text": "The National Theatre of Ghana features a distinctive, ship-like modern architectural design and hosts major performing arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.200593,
+                        5.553667
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.2, 5.552],
@@ -661,7 +1633,376 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le Théâtre national a été officiellement inauguré en 1992.", "Le bâtiment était un cadeau du gouvernement de la République populaire de Chine.", "La surface totale du complexe immobilier est d'environ 11 896 mètres carrés.", "La salle principale peut accueillir un total de 1 500 spectateurs.", "Trois ensembles nationaux y ont leur siège permanent.", "Le design a été conçu par des architectes chinois."],
     }, image: "/poi-images/national-theatre-ghana-landmarks-v2.webp"},
   {
-    id: "jamestown-lighthouse-landmarks-v2",
+    id: "jamestown-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shatta Beach",
+                  "text": "Ein lebhafter Küstenresortort, der für seine lebendigen gesellschaftlichen Zusammenkünfte an der Strandpromenade beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.208626,
+                        5.537759
+                  ]
+            },
+            {
+                  "name": "“Deo Gratias” Photography Archive",
+                  "text": "Das „Deo Gratias“-Fotoarchiv im Stadtteil Jamestown bewahrt jahrzehntelange historische Bilder, die das lokale Erbe dokumentieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.210782,
+                        5.536608
+                  ]
+            },
+            {
+                  "name": "Naa Amadro II Queen Mother of the Ga Paramount Stool",
+                  "text": "Diese traditionelle königliche Residenz im Viertel Jamestown dient als Sitz der Königinmutter Naa Amadro II des Ga Paramount Stool.",
+                  "category": "castle",
+                  "coords": [
+                        -0.263049,
+                        5.530489
+                  ]
+            },
+            {
+                  "name": "11 11 Beach Resort",
+                  "text": "Das 11 11 Beach Resort ist ein Rückzugsort an der Küste und bietet sandige Entspannung am Meer in der Nähe der Wahrzeichen von Jamestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.264908,
+                        5.521027
+                  ]
+            },
+            {
+                  "name": "Glefe beach. Atlantic Ocean",
+                  "text": "Der Glefe Beach erstreckt sich entlang des Atlantischen Ozeans und bietet einen sandigen Küstenfluchtort, der von Meereswellen umspült wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267136,
+                        5.519489
+                  ]
+            },
+            {
+                  "name": "Jamestown Lighthouse",
+                  "text": "Der Jamestown-Leuchtturm ist ein historisches Leuchtfeuer aus der Kolonialzeit mit einem markanten rot-weißen Turm, der den Golf von Guinea überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.212132,
+                        5.533091
+                  ]
+            },
+            {
+                  "name": "James Fort",
+                  "text": "James Fort ist eine historische koloniale Festung aus dem 17. Jahrhundert, die einst als bedeutender Handelsposten und später als Gefängnis diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.211115,
+                        5.533735
+                  ]
+            },
+            {
+                  "name": "Nordsea beach Resort",
+                  "text": "Das Nordsea Beach Resort bietet einen Kurzurlaub an der Küste mit sandigen Ufern und Annehmlichkeiten am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.227,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "Korle Gorhno Beach",
+                  "text": "Der Korle Gonno Beach verfügt über einen breiten Sandstrand, an dem der Ozean auf eine lebhafte lokale Fischergemeinde trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.228014,
+                        5.528832
+                  ]
+            },
+            {
+                  "name": "Feehi Valley Beach Resort",
+                  "text": "Dieses Küstenresort bietet einen Rückzugsort am Sandstrand in der Nähe von Jamestown mit Blick auf die rollenden Wellen des Atlantiks.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.231765,
+                        5.52764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shatta Beach",
+                  "text": "Nyüzsgő tengerparti üdülőhely, amelyet a vízpart menti élénk társasági eseményei miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.208626,
+                        5.537759
+                  ]
+            },
+            {
+                  "name": "“Deo Gratias” Photography Archive",
+                  "text": "A Jamestown környékén található „Deo Gratias” fotóarchívum több évtizedes történelmi képeket őriz, amelyek a helyi örökséget mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.210782,
+                        5.536608
+                  ]
+            },
+            {
+                  "name": "Naa Amadro II Queen Mother of the Ga Paramount Stool",
+                  "text": "Ez a hagyományos királyi rezidencia a Jamestown negyedben szolgál Naa Amadro II, a Ga Paramount Stool anyakirálynőjének székhelyeként.",
+                  "category": "castle",
+                  "coords": [
+                        -0.263049,
+                        5.530489
+                  ]
+            },
+            {
+                  "name": "11 11 Beach Resort",
+                  "text": "A 11 11 Beach Resort egy tengerparti pihenőhely, amely homokos óceánparti kikapcsolódást kínál a jamestowni nevezetességek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.264908,
+                        5.521027
+                  ]
+            },
+            {
+                  "name": "Glefe beach. Atlantic Ocean",
+                  "text": "Az Atlanti-óceán mentén húzódó Glefe strand egy homokos parti menedék, amelyet az óceán hullámai mosnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267136,
+                        5.519489
+                  ]
+            },
+            {
+                  "name": "Jamestown Lighthouse",
+                  "text": "A Jamestown-világítótorony egy történelmi, gyarmati korabeli jelzőfény, amelynek feltűnő piros-fehér tornya a Guineai-öbölre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.212132,
+                        5.533091
+                  ]
+            },
+            {
+                  "name": "James Fort",
+                  "text": "A James Fort egy 17. századi történelmi gyarmati erődítmény, amely egykor jelentős kereskedelmi állomásként, később pedig börtönként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.211115,
+                        5.533735
+                  ]
+            },
+            {
+                  "name": "Nordsea beach Resort",
+                  "text": "A Nordsea Beach Resort tengerparti kikapcsolódást nyújt homokos partszakaszokkal és óceánra néző szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.227,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "Korle Gorhno Beach",
+                  "text": "A Korle Gonno strand széles homokos partszakasszal rendelkezik, ahol az óceán egy nyüzsgő helyi halászközösséggel találkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.228014,
+                        5.528832
+                  ]
+            },
+            {
+                  "name": "Feehi Valley Beach Resort",
+                  "text": "Ez a part menti üdülőhely homokos tengerparti pihenést kínál a Jamestown terület közelében, kilátással a hullámzó Atlanti-óceánra.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.231765,
+                        5.52764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shatta Beach",
+                  "text": "O stațiune de coastă animată, preferată pentru adunările sale sociale vibrante de-a lungul falezei.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.208626,
+                        5.537759
+                  ]
+            },
+            {
+                  "name": "“Deo Gratias” Photography Archive",
+                  "text": "Arhiva de fotografie „Deo Gratias” din zona Jamestown păstrează imagini istorice din ultimele decenii, documentând moștenirea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.210782,
+                        5.536608
+                  ]
+            },
+            {
+                  "name": "Naa Amadro II Queen Mother of the Ga Paramount Stool",
+                  "text": "Această reședință regală tradițională din cartierul Jamestown servește drept sediu pentru Naa Amadro II, Regina Mamă a Ga Paramount Stool.",
+                  "category": "castle",
+                  "coords": [
+                        -0.263049,
+                        5.530489
+                  ]
+            },
+            {
+                  "name": "11 11 Beach Resort",
+                  "text": "11 11 Beach Resort este o destinație de coastă care oferă relaxare pe o plajă nisipoasă lângă reperele din Jamestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.264908,
+                        5.521027
+                  ]
+            },
+            {
+                  "name": "Glefe beach. Atlantic Ocean",
+                  "text": "Întinzându-se de-a lungul Oceanului Atlantic, plaja Glefe oferă o evadare nisipoasă pe coastă, scăldată de valurile mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267136,
+                        5.519489
+                  ]
+            },
+            {
+                  "name": "Jamestown Lighthouse",
+                  "text": "Farul Jamestown este un reper istoric din perioada colonială, având un turn izbitor în alb și roșu, care domină Golful Guineei.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.212132,
+                        5.533091
+                  ]
+            },
+            {
+                  "name": "James Fort",
+                  "text": "Fortul James este o fortăreață colonială istorică din secolul al XVII-lea, care a servit odată ca important post comercial și mai târziu ca închisoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.211115,
+                        5.533735
+                  ]
+            },
+            {
+                  "name": "Nordsea beach Resort",
+                  "text": "Nordsea Beach Resort oferă o evadare pe coastă, cu țărmuri nisipoase și facilități pe malul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.227,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "Korle Gorhno Beach",
+                  "text": "Plaja Korle Gonno prezintă o întindere largă de țărm nisipos, unde oceanul se întâlnește cu o comunitate locală animată de pescari.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.228014,
+                        5.528832
+                  ]
+            },
+            {
+                  "name": "Feehi Valley Beach Resort",
+                  "text": "Această stațiune de coastă oferă o evadare pe o plajă nisipoasă lângă zona Jamestown, cu vedere la valurile oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.231765,
+                        5.52764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shatta Beach",
+                  "text": "A lively coastal resort spot favored for its vibrant social gatherings along the seafront.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.208626,
+                        5.537759
+                  ]
+            },
+            {
+                  "name": "“Deo Gratias” Photography Archive",
+                  "text": "The \"Deo Gratias\" Photography Archive in the Jamestown area preserves decades of historical images chronicling the local heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.210782,
+                        5.536608
+                  ]
+            },
+            {
+                  "name": "Naa Amadro II Queen Mother of the Ga Paramount Stool",
+                  "text": "This traditional royal residence in the Jamestown district serves as the seat for the Naa Amadro II Queen Mother of the Ga Paramount Stool.",
+                  "category": "castle",
+                  "coords": [
+                        -0.263049,
+                        5.530489
+                  ]
+            },
+            {
+                  "name": "11 11 Beach Resort",
+                  "text": "The 11 11 Beach Resort is a coastal retreat offering sandy oceanfront relaxation near the Jamestown landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.264908,
+                        5.521027
+                  ]
+            },
+            {
+                  "name": "Glefe beach. Atlantic Ocean",
+                  "text": "Stretching along the Atlantic Ocean, Glefe Beach offers a sandy coastal escape washed by ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267136,
+                        5.519489
+                  ]
+            },
+            {
+                  "name": "Jamestown Lighthouse",
+                  "text": "The Jamestown Lighthouse is a historic colonial-era beacon with a striking red-and-white tower overlooking the Gulf of Guinea.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.212132,
+                        5.533091
+                  ]
+            },
+            {
+                  "name": "James Fort",
+                  "text": "James Fort is a 17th-century historic colonial fortress that once served as a prominent trading post and later a prison.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.211115,
+                        5.533735
+                  ]
+            },
+            {
+                  "name": "Nordsea beach Resort",
+                  "text": "The Nordsea Beach Resort provides a coastal getaway with sandy shorelines and oceanfront amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.227,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "Korle Gorhno Beach",
+                  "text": "Korle Gonno Beach features a wide stretch of sandy shoreline where the ocean meets a lively local fishing community.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.228014,
+                        5.528832
+                  ]
+            },
+            {
+                  "name": "Feehi Valley Beach Resort",
+                  "text": "This coastal resort provides a sandy beachfront retreat near the Jamestown area with views of the rolling Atlantic waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.231765,
+                        5.52764
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.207, 5.534],
@@ -708,7 +2049,196 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le phare actuel a été achevé dans les années 1930.", "La tour a une hauteur d'environ 28 mètres.", "Il a remplacé un édifice plus ancien datant de 1871.", "Le phare est situé à proximité immédiate du Fort James.", "Les rayures rouges et blanches assurent une meilleure visibilité de jour.", "Du sommet, on a une vue directe sur le golfe de Guinée."],
     }, image: "/poi-images/jamestown-lighthouse-landmarks-v2.webp"},
   {
-    id: "holy-trinity-cathedral-accra-landmarks-v2",
+    id: "holy-trinity-cathedral-accra-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gbese Mantse Palace",
+                  "text": "Der traditionelle Sitz und die zeremonielle Residenz des Gbese-Häuptlings im historischen Herzen von Accra.",
+                  "category": "castle",
+                  "coords": [
+                        -0.209723,
+                        5.539042
+                  ]
+            },
+            {
+                  "name": "Mallam Junction",
+                  "text": "Ein wichtiger Verkehrsknotenpunkt und Handelsknotenpunkt, bekannt für seinen geschäftigen täglichen Verkehr und seine Straßenverkäufer.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.285506,
+                        5.571015
+                  ]
+            },
+            {
+                  "name": "Kantamanto Market",
+                  "text": "Ein weitläufiger Second-Hand-Markt in Accra, der als wichtiger Knotenpunkt für Upcycling-Mode und Gebrauchtwaren dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.213341,
+                        5.549399
+                  ]
+            },
+            {
+                  "name": "Jamestown Cafe",
+                  "text": "Ein lebendiger kultureller Veranstaltungsort und Aufführungsraum in einem der ältesten historischen Küstenbezirke der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.208118,
+                        5.539003
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of the Most Holy Trinity",
+                  "text": "Eine ikonische anglikanische Kathedrale aus dem Jahr 1894 mit einer ausgeprägten kirchlichen Architektur der Kolonialzeit.",
+                  "category": "religious",
+                  "coords": [
+                        -0.205991,
+                        5.541336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gbese Mantse Palace",
+                  "text": "A gbese törzsfőnök hagyományos székhelye és ceremoniális rezidenciája Accra történelmi szívében.",
+                  "category": "castle",
+                  "coords": [
+                        -0.209723,
+                        5.539042
+                  ]
+            },
+            {
+                  "name": "Mallam Junction",
+                  "text": "Nyüzsgő napi forgalmáról és utcai árusairól ismert jelentős közlekedési és kereskedelmi csomópont.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.285506,
+                        5.571015
+                  ]
+            },
+            {
+                  "name": "Kantamanto Market",
+                  "text": "Kiterjedt használtcikk-piac Accrában, amely az újrahasznosított divat és a használt áruk jelentős központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.213341,
+                        5.549399
+                  ]
+            },
+            {
+                  "name": "Jamestown Cafe",
+                  "text": "Élettel teli kulturális és előadótér a város egyik legrégebbi történelmi tengerparti negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.208118,
+                        5.539003
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of the Most Holy Trinity",
+                  "text": "1894-ből származó ikonikus anglikán katedrális, amely a gyarmati korszak jellegzetes egyházi építészetét képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        -0.205991,
+                        5.541336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gbese Mantse Palace",
+                  "text": "Scaunul tradițional și reședința ceremonială a șefului Gbese în inima istorică a orașului Accra.",
+                  "category": "castle",
+                  "coords": [
+                        -0.209723,
+                        5.539042
+                  ]
+            },
+            {
+                  "name": "Mallam Junction",
+                  "text": "O intersecție comercială și de transport majoră, recunoscută pentru traficul zilnic aglomerat și vânzătorii ambulanți.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.285506,
+                        5.571015
+                  ]
+            },
+            {
+                  "name": "Kantamanto Market",
+                  "text": "O piață extinsă de mărfuri second-hand din Accra, ce servește drept centru major pentru modă reciclată și bunuri uzate.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.213341,
+                        5.549399
+                  ]
+            },
+            {
+                  "name": "Jamestown Cafe",
+                  "text": "Un spațiu cultural vibrant și o sală de spectacole situată în unul dintre cele mai vechi cartiere istorice de coastă ale orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.208118,
+                        5.539003
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of the Most Holy Trinity",
+                  "text": "O catedrală anglicană emblematică ce datează din 1894, remarcabilă prin arhitectura sa ecleziastică distinctă din epoca colonială.",
+                  "category": "religious",
+                  "coords": [
+                        -0.205991,
+                        5.541336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gbese Mantse Palace",
+                  "text": "The traditional seat and ceremonial residence of the Gbese chief within the historic heart of Accra.",
+                  "category": "castle",
+                  "coords": [
+                        -0.209723,
+                        5.539042
+                  ]
+            },
+            {
+                  "name": "MallamJunction",
+                  "text": "A major transport and commercial intersection known for its bustling daily traffic and street vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.285506,
+                        5.571015
+                  ]
+            },
+            {
+                  "name": "Kantamanto Market",
+                  "text": "A sprawling second-hand market in Accra serving as a major hub for upcycled fashion and used goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.213341,
+                        5.549399
+                  ]
+            },
+            {
+                  "name": "Jamestown Cafe",
+                  "text": "A vibrant cultural venue and performance space set in one of the city's oldest historic coastal districts.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.208118,
+                        5.539003
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of the Most Holy Trinity",
+                  "text": "An iconic Anglican cathedral dating back to 1894, featuring distinct colonial-era ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -0.205991,
+                        5.541336
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.206, 5.541],
@@ -802,7 +2332,88 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["La mosquée a été officiellement inaugurée le 16 juillet 2021.", "La construction a été financée par la fondation turque Hüdaverdi.", "La salle de prière peut accueillir jusqu'à 15 000 fidèles.", "L'édifice possède quatre minarets, chacun haut de 61 mètres.", "L'architecture est basée sur le style ottoman classique.", "L'ensemble du complexe s'étend sur une surface d'environ 16 hectares."],
     }, image: "/poi-images/national-mosque-ghana-landmarks-v2.webp"},
   {
-    id: "fort-metal-cross-landmarks-v2",
+    id: "fort-metal-cross-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Busua Beach",
+                  "text": "Der Busua Beach ist ein beliebter, langgestreckter Sandstrand an der Meeresküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.930157,
+                        4.81043
+                  ]
+            },
+            {
+                  "name": "Dixcove's fort",
+                  "text": "Das historische Fort von Dixcove ist eine denkmalgeschützte Festungsanlage aus der britischen Kolonialzeit, die die Bucht überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        -1.945038,
+                        4.793424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Busua Beach",
+                  "text": "A Busua Beach egy népszerű, hosszan elnyúló homokos tengerpart.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.930157,
+                        4.81043
+                  ]
+            },
+            {
+                  "name": "Dixcove's fort",
+                  "text": "A dixcove-i erőd egy műemlékvédelem alatt álló, brit gyarmati korszakból származó várkastély, amely az öbölre néz.",
+                  "category": "castle",
+                  "coords": [
+                        -1.945038,
+                        4.793424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Busua Beach",
+                  "text": "Busua Beach este o plajă populară, caracterizată prin întinderea sa lungă de nisip pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.930157,
+                        4.81043
+                  ]
+            },
+            {
+                  "name": "Dixcove's fort",
+                  "text": "Fortul din Dixcove este un castel istoric de pe coastă, recunoscut ca monument de patrimoniu, cu vedere la golf.",
+                  "category": "castle",
+                  "coords": [
+                        -1.945038,
+                        4.793424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Busua Beach",
+                  "text": "Busua Beach is a popular sandy coastal stretch that draws visitors to its ocean shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.930157,
+                        4.81043
+                  ]
+            },
+            {
+                  "name": "Dixcove's fort",
+                  "text": "Dixcove's fort is a heritage-listed British colonial castle strategically overlooking the coastal waters of the bay.",
+                  "category": "castle",
+                  "coords": [
+                        -1.945038,
+                        4.793424
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-WP",
     coords: [-1.924, 4.792],
@@ -849,7 +2460,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le fort a été fondé en 1683 par les Britanniques.", "Il fait partie du patrimoine mondial de l'UNESCO depuis 1979.", "Le nom d'origine était « Fort Metalen Kruis ».", "Le fort servait à protéger le commerce de l'or et du bois.", "Il a été temporairement cédé aux Néerlandais en 1868.", "La forteresse est située sur une hauteur dominant la baie de Dixcove."],
     }, image: "/poi-images/fort-metal-cross-landmarks-v2.webp"},
   {
-    id: "fort-batenstein-landmarks-v2",
+    id: "fort-batenstein-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Batenstein",
+                  "text": "Fort Batenstein ist eine denkmalgeschützte historische Küstenfestung der Niederländer aus der Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917268,
+                        4.824292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Batenstein",
+                  "text": "A Fort Batenstein egy világörökségi státuszú, hollandok által épített tengerparti erődítmény a gyarmati korszakból.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917268,
+                        4.824292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Batenstein",
+                  "text": "Fort Batenstein este o fortăreață de coastă olandeză, recunoscută ca monument de patrimoniu istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917268,
+                        4.824292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Batenstein",
+                  "text": "Fort Batenstein is a recognized heritage site featuring a historic Dutch coastal trading fort.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917268,
+                        4.824292
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-WP",
     coords: [-1.916, 4.825],
@@ -896,7 +2552,88 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le fort a été construit en 1656 par les Néerlandais.", "Le traité de Butre y a été signé en 1656.", "La forteresse est située sur une colline dominant la lagune de Butre.", "Il a été cédé à l'Empire britannique en 1872.", "Le fort Batenstein fait partie du patrimoine mondial de l'UNESCO depuis 1979.", "Le nom Batenstein se traduit par « Rocher du profit »."],
     }, image: "/poi-images/fort-batenstein-landmarks-v2.webp"},
   {
-    id: "fort-san-sebastian-landmarks-v2",
+    id: "fort-san-sebastian-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shama Beach Resort Limited",
+                  "text": "Ein Ferienanwesen am Meer in der Nähe der historischen Küstenbefestigungen von Shama.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.636147,
+                        4.993723
+                  ]
+            },
+            {
+                  "name": "Fort San Sebastian",
+                  "text": "Eine anerkannte Kulturerbestätte mit robuster Militärarchitektur aus der Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.629201,
+                        5.010781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shama Beach Resort Limited",
+                  "text": "Egy tengerparti nyaralóingatlan Shama történelmi partvidéki erődítményei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.636147,
+                        4.993723
+                  ]
+            },
+            {
+                  "name": "Fort San Sebastian",
+                  "text": "Egy elismert világörökségi helyszín, amely robusztus gyarmati kori katonai építészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.629201,
+                        5.010781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shama Beach Resort Limited",
+                  "text": "O proprietate de vacanță pe malul mării situată lângă fortificațiile istorice de coastă din Shama.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.636147,
+                        4.993723
+                  ]
+            },
+            {
+                  "name": "Fort San Sebastian",
+                  "text": "Un sit de patrimoniu recunoscut care prezintă o arhitectură militară robustă din epoca colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.629201,
+                        5.010781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shama Beach Resort Limited",
+                  "text": "A seaside vacation property located near the historic coastal fortifications of Shama.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.636147,
+                        4.993723
+                  ]
+            },
+            {
+                  "name": "Fort San Sebastian",
+                  "text": "A recognized heritage site showcasing robust colonial-era military architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.629201,
+                        5.010781
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-WP",
     coords: [-1.628, 5.011],
@@ -943,7 +2680,124 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le fort a été construit à l'origine en 1526 par les Portugais.", "Les Néerlandais ont conquis la forteresse en 1640.", "Il s'agit du troisième plus ancien bâtiment européen de tout le Ghana.", "Le philosophe Anton Wilhelm Amo y a été enterré en 1740.", "Les Britanniques ont repris le fort aux Néerlandais en 1872.", "Le fort appartient au patrimoine mondial de l'UNESCO depuis 1979."],
     }, image: "/poi-images/fort-san-sebastian-landmarks-v2.webp"},
   {
-    id: "adomi-bridge-landmarks-v2",
+    id: "adomi-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yuaga",
+                  "text": "Ein natürlicher Berggipfel in der Nähe der bekannten Adomi-Brücke.",
+                  "category": "natural",
+                  "coords": [
+                        0.044654,
+                        6.184705
+                  ]
+            },
+            {
+                  "name": "Adome Bridge",
+                  "text": "Die Adomi-Brücke ist eine große Bogenhängebrücke, die den Volta-Fluss überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        0.095502,
+                        6.239858
+                  ]
+            },
+            {
+                  "name": "Sajuna Beach Club",
+                  "text": "Ein Erholungs-Strandclub am Ufer in der Nähe der Adomi-Brücke.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088851,
+                        6.220165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yuaga",
+                  "text": "Egy természetes hegycsúcs az ismert Adomi-híd közelében.",
+                  "category": "natural",
+                  "coords": [
+                        0.044654,
+                        6.184705
+                  ]
+            },
+            {
+                  "name": "Adome Bridge",
+                  "text": "Az Adomi-híd egy nagy íves függőhíd, amely a Volta folyót íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        0.095502,
+                        6.239858
+                  ]
+            },
+            {
+                  "name": "Sajuna Beach Club",
+                  "text": "Egy pihentető strandklub a vízparton, az Adomi-híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088851,
+                        6.220165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yuaga",
+                  "text": "Un vârf montan natural situat în apropierea celebrului pod Adomi.",
+                  "category": "natural",
+                  "coords": [
+                        0.044654,
+                        6.184705
+                  ]
+            },
+            {
+                  "name": "Adome Bridge",
+                  "text": "Podul Adomi este un pod suspendat în arc impresionant care traversează râul Volta.",
+                  "category": "landmark",
+                  "coords": [
+                        0.095502,
+                        6.239858
+                  ]
+            },
+            {
+                  "name": "Sajuna Beach Club",
+                  "text": "Un club de plajă recreativ pe malul apei, lângă podul Adomi.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088851,
+                        6.220165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yuaga",
+                  "text": "A natural mountain peak situated near the well-known Adomi Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        0.044654,
+                        6.184705
+                  ]
+            },
+            {
+                  "name": "Adome Bridge",
+                  "text": "The Adomi Bridge is a major crescent-shaped suspension bridge crossing the Volta River.",
+                  "category": "landmark",
+                  "coords": [
+                        0.095502,
+                        6.239858
+                  ]
+            },
+            {
+                  "name": "Sajuna Beach Club",
+                  "text": "A recreational beach club on the waterfront near the Adomi Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088851,
+                        6.220165
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-EP",
     coords: [0.093, 6.237],
@@ -990,7 +2844,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le pont a été officiellement inauguré le 25 janvier 1957 par Sir Charles Arden-Clarke.", "Il enjambe le fleuve Volta à un endroit stratégique à Atimpoku.", "L'ouvrage est un pont en arc d'acier à deux articulations avec une portée de 245 mètres.", "La longueur totale du pont, y compris les accès, est d'environ 335 mètres.", "Il a été conçu par l'ingénieur William Brown de Freeman Fox & Partners.", "Entre 2014 et 2015, une rénovation complète a été réalisée pour environ 13 millions d'euros."],
     }, image: "/poi-images/adomi-bridge-landmarks-v2.webp"},
   {
-    id: "akosombo-dam-landmarks-v2",
+    id: "akosombo-dam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "market and taxi station",
+                  "text": "Ein geschäftiger lokaler Markt und Taxistand in der Nähe des Akosombo-Staudamms.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050704,
+                        6.275337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "market and taxi station",
+                  "text": "Egy forgalmas helyi piac és taxiállomás az Akosombo-gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050704,
+                        6.275337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "market and taxi station",
+                  "text": "O piață locală plină de viață și stație de taxi lângă barajul Akosombo.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050704,
+                        6.275337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "market and taxi station",
+                  "text": "A bustling local market and taxi station located near the Akosombo Dam.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050704,
+                        6.275337
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-EP",
     coords: [0.054, 6.298],
@@ -1037,7 +2936,160 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Les travaux de construction ont débuté en 1961 et se sont achevés officiellement en 1965.", "Le barrage mesure 114 mètres de haut et 660 mètres de long à son sommet.", "Il a créé le lac Volta, le plus grand lac artificiel au monde par sa superficie.", "La centrale dispose d'une capacité installée de 1 020 mégawatts.", "La construction a été financée en partie par un prêt de la Banque mondiale et des États-Unis.", "Environ 80 000 personnes ont été déplacées en raison de la mise en eau du site."],
     }, image: "/poi-images/akosombo-dam-landmarks-v2.webp"},
   {
-    id: "aliu-mahama-stadium-landmarks-v2",
+    id: "aliu-mahama-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yagri Duu Gbini",
+                  "text": "Ein lokales traditionelles Denkmal in der Nähe des Gebiets des Aliu Mahama-Stadions.",
+                  "category": "historical",
+                  "coords": [
+                        -0.814767,
+                        9.400493
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Kalpohin Branch",
+                  "text": "Ein Zweig der Kirche Jesu Christi der Heiligen der Letzten Tage, der der Kalpohin-Gemeinde in der Nähe des Stadions dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.820446,
+                        9.417472
+                  ]
+            },
+            {
+                  "name": "Savannah Centre for Contemporary Art",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in der Nähe des Aliu-Mahama-Stadions, das sich der Ausstellung moderner künstlerischer Ausdrucksformen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.815478,
+                        9.414776
+                  ]
+            },
+            {
+                  "name": "Bonzali Daa",
+                  "text": "Ein geschäftiger traditioneller lokaler Marktplatz, der in der Nähe des Aliu Mahama-Stadions betrieben wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.855823,
+                        9.452822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yagri Duu Gbini",
+                  "text": "Helyi hagyományos emlékmű az Aliu Mahama Stadion környékének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -0.814767,
+                        9.400493
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Kalpohin Branch",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyházának egyik gyülekezete, amely a Kalpohin közösséget szolgálja a stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.820446,
+                        9.417472
+                  ]
+            },
+            {
+                  "name": "Savannah Centre for Contemporary Art",
+                  "text": "Egy kortárs művészeti központ az Aliu Mahama Stadion közelében, amely a modern művészeti kifejezésmódok bemutatásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.815478,
+                        9.414776
+                  ]
+            },
+            {
+                  "name": "Bonzali Daa",
+                  "text": "Egy nyüzsgő hagyományos helyi piac, amely az Aliu Mahama Stadion közelében működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.855823,
+                        9.452822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yagri Duu Gbini",
+                  "text": "Un monument tradițional local situat aproape de zona Stadionului Aliu Mahama.",
+                  "category": "historical",
+                  "coords": [
+                        -0.814767,
+                        9.400493
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Kalpohin Branch",
+                  "text": "O filială a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă care servește comunitatea Kalpohin din apropierea stadionului.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.820446,
+                        9.417472
+                  ]
+            },
+            {
+                  "name": "Savannah Centre for Contemporary Art",
+                  "text": "Un centru de arte contemporane lângă Stadionul Aliu Mahama, dedicat expunerii expresiilor artistice moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.815478,
+                        9.414776
+                  ]
+            },
+            {
+                  "name": "Bonzali Daa",
+                  "text": "O piață locală tradițională plină de viață care funcționează în apropierea Stadionului Aliu Mahama.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.855823,
+                        9.452822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yagri Duu Gbini",
+                  "text": "A local traditional monument situated close to the Aliu Mahama Stadium area.",
+                  "category": "historical",
+                  "coords": [
+                        -0.814767,
+                        9.400493
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Kalpohin Branch",
+                  "text": "A branch of The Church of Jesus Christ of Latter-day Saints serving the Kalpohin community near the stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.820446,
+                        9.417472
+                  ]
+            },
+            {
+                  "name": "Savannah Centre for Contemporary Art",
+                  "text": "A contemporary arts centre near Aliu Mahama Stadium dedicated to exhibiting modern artistic expressions.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.815478,
+                        9.414776
+                  ]
+            },
+            {
+                  "name": "Bonzali Daa",
+                  "text": "A bustling traditional local marketplace operating near the Aliu Mahama Stadium.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.855823,
+                        9.452822
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-NP",
     coords: [-0.822, 9.42],
@@ -1131,7 +3183,88 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Ndewura Jakpa fut le fondateur du royaume Gonja au XVIIe siècle.", "Le tombeau se trouve à Buipe, une importante ville commerciale du nord du Ghana.", "Le souverain mourut lors d'une campagne et fut enterré à Buipe.", "Le site funéraire sert de destination de pèlerinage importante pour le peuple Gonja.", "Ndewura Jakpa aurait divisé l'empire en sept divisions pour ses fils.", "Le site est un lieu central pour les festivités annuelles du Damba."],
     }, image: "/poi-images/ndewura-jakpa-tomb-landmarks-v2.webp"},
   {
-    id: "wesley-methodist-cathedral-landmarks-v2",
+    id: "wesley-methodist-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crab",
+                  "text": "Ein skulpturales Denkmal, das eine Krabbe darstellt und als wichtiges lokales Symbol im Kathedralenbezirk dient.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "Ein historischer Navigationsturm, der ursprünglich als Festung mit Blick auf die Siedlung Cape Coast erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crab",
+                  "text": "Egy rákot ábrázoló szobrászati emlékmű, amely jelentős helyi szimbólumként szolgál a katedrális negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "Egy történelmi navigációs torony, amelyet eredetileg erődnek építettek a Cape Coast-i település fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crab",
+                  "text": "Un monument sculptural care înfățișează un crab, servind drept simbol local semnificativ în cartierul catedralei.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "Un turn istoric de navigație construit inițial ca un fort pentru a supraveghea așezarea Cape Coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crab",
+                  "text": "A sculptural monument depicting a crab, serving as a significant local symbol in the cathedral district.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "A historic navigation tower originally built as a fort to overlook the settlement of Cape Coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-CP",
     coords: [-1.246, 5.106],
@@ -1178,7 +3311,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["La cathédrale est la plus grande église méthodiste de tout le Ghana.", "La construction de la structure actuelle a commencé en 1922.", "Elle est située sur Adum Road, un quartier animé de Kumasi.", "L'église peut accueillir environ 3 000 à 4 000 personnes.", "Les missionnaires méthodistes sont arrivés à Cape Coast dès 1835.", "La cathédrale a été rénovée en 2022 pour son centenaire."],
     }, image: "/poi-images/wesley-methodist-cathedral-landmarks-v2.webp"},
   {
-    id: "fort-saint-anthony-landmarks-v2",
+    id: "fort-saint-anthony-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Santo Antonio",
+                  "text": "Diese denkmalgeschützte koloniale Küstenfestung besticht durch robuste Steinbastionen mit Blick auf den Atlantischen Ozean.",
+                  "category": "castle",
+                  "coords": [
+                        -2.244308,
+                        4.867903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Santo Antonio",
+                  "text": "Ez az örökségvédelem alatt álló gyarmati parti erőd robusztus kőbástyákkal rendelkezik, amelyek az Atlanti-óceánra néznek.",
+                  "category": "castle",
+                  "coords": [
+                        -2.244308,
+                        4.867903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Santo Antonio",
+                  "text": "Acest fort colonial de coastă, clasat ca patrimoniu, prezintă bastioane robuste de piatră cu vedere la Oceanul Atlantic.",
+                  "category": "castle",
+                  "coords": [
+                        -2.244308,
+                        4.867903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Santo Antonio",
+                  "text": "This heritage-listed colonial coastal fort features robust stone bastions overlooking the Atlantic Ocean.",
+                  "category": "castle",
+                  "coords": [
+                        -2.244308,
+                        4.867903
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-WP",
     coords: [-2.242, 4.863],
@@ -1225,7 +3403,52 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le fort a été construit en 1515 et est le deuxième plus ancien du Ghana.", "Il a été initialement érigé par les Portugais comme poste de traite fortifié.", "En 1642, les Néerlandais ont conquis le fort après un siège.", "Il appartient au patrimoine mondial de l'UNESCO depuis 1979.", "Axim était un port d'exportation d'or majeur pendant la période coloniale.", "Le fort a servi par moments de résidence au gouverneur du district."],
     }, image: "/poi-images/fort-saint-anthony-landmarks-v2.webp"},
   {
-    id: "fort-gross-friedrichsburg-landmarks-v2",
+    id: "fort-gross-friedrichsburg-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Groß Friedrichsburg",
+                  "text": "Ein historisches Küstenfort, das die komplexe Kolonialgeschichte und die maritimen Handelsrouten der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.133925,
+                        4.791052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prince's Town's Fort",
+                  "text": "Történelmi part menti erőd, amely a régió összetett gyarmati történelmét és tengeri kereskedelmi útvonalait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.133925,
+                        4.791052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prince's Town's Fort",
+                  "text": "Un fort istoric de coastă care reflectă istoria colonială complexă a regiunii și rutele comerciale maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.133925,
+                        4.791052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prince's Town's Fort",
+                  "text": "A historic coastal fort reflecting the region's complex colonial history and maritime trade routes.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.133925,
+                        4.791052
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-WP",
     coords: [-2.083, 4.789],
@@ -1319,7 +3542,160 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["La cathédrale a été construite entre 1906 et 1920 en briques de terre.", "Elle est considérée comme la plus ancienne église catholique du nord du Ghana.", "Les murs intérieurs sont ornés d'art traditionnel Kassena et de peintures murales.", "Des missionnaires français des « Pères Blancs » y ont fondé la mission.", "Le bâtiment mesure environ 60 mètres de long et 14 mètres de large.", "La structure a été imperméabilisée avec une couche protectrice spéciale faite de matériaux locaux."],
     }, image: "/poi-images/navrongo-cathedral-landmarks-v2.webp"},
   {
-    id: "essipong-stadium-landmarks-v2",
+    id: "essipong-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "DacoHouseBUjunction",
+                  "text": "Eine bemerkenswerte lokale Straßenkreuzung in der Nähe des Essipong-Stadions.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.735736,
+                        4.95183
+                  ]
+            },
+            {
+                  "name": "VRA",
+                  "text": "Eine lokale Versorgungsattraktion in Verbindung mit der Volta River Authority in der Nähe von Essipong.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.736867,
+                        4.959058
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "Ein lokaler monumentaler Marker im Stadionbezirk Essipong.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            },
+            {
+                  "name": "Fort Orange",
+                  "text": "Ein historischer Küstenleuchtturm, der den Seeverkehr in der Nähe von Essipong lenkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DacoHouseBUjunction",
+                  "text": "Egy figyelemre méltó helyi utcasarki látványosság az Essipong stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.735736,
+                        4.95183
+                  ]
+            },
+            {
+                  "name": "VRA",
+                  "text": "A Volta folyó hatóságához kapcsolódó helyi közmű-látványosság Essipong közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.736867,
+                        4.959058
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "Egy helyi monumentális jelzőkő az Essipong stadion körzetében.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            },
+            {
+                  "name": "Fort Orange",
+                  "text": "Egy történelmi tengerparti világítótorony, amely a tengeri forgalmat irányítja Essipong közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DacoHouseBUjunction",
+                  "text": "O atracție locală notabilă situată la colțul unei străzi lângă stadionul Essipong.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.735736,
+                        4.95183
+                  ]
+            },
+            {
+                  "name": "VRA",
+                  "text": "O atracție locală legată de utilități, asociată cu Autoritatea Râului Volta, lângă Essipong.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.736867,
+                        4.959058
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "Un marcaj monumental local situat în districtul stadionului Essipong.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            },
+            {
+                  "name": "Fort Orange",
+                  "text": "O structură istorică de far de coastă construită pentru a ghida traficul maritim lângă Essipong.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DacoHouseBUjunction",
+                  "text": "A notable local street-corner attraction situated near the Essipong stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.735736,
+                        4.95183
+                  ]
+            },
+            {
+                  "name": "VRA",
+                  "text": "A local utility-related attraction associated with the Volta River Authority near Essipong.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.736867,
+                        4.959058
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "A local monumental marker situated within the Essipong stadium district.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            },
+            {
+                  "name": "Fort Orange",
+                  "text": "A historic coastal lighthouse structure built to guide maritime traffic near Essipong.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-WP",
     coords: [-1.691, 4.939],
@@ -1366,7 +3742,88 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       fr: ["Le stade a été inauguré en 2008 comme l'un des sites de la CAN.", "Il possède une capacité officielle d'environ 20 000 places assises.", "Les coûts de construction s'élèvent à environ 38,5 millions de dollars US.", "Le stade dispose d'une piste d'athlétisme de 400 mètres de haute qualité.", "Il a été construit par une entreprise de construction chinoise pour le compte du gouvernement.", "Un terrain d'entraînement moderne pour les équipes locales se trouve à proximité."],
     }, image: "/poi-images/essipong-stadium-landmarks-v2.webp"},
   {
-    id: "villaggio-vistas-landmarks-v2",
+    id: "villaggio-vistas-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Action Chapel International",
+                  "text": "Auf dem weitreichenden Campus dieser Megakirche finden große, lebendige christliche Gottesdienste mit Tausenden von Gläubigen statt.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164681,
+                        5.625591
+                  ]
+            },
+            {
+                  "name": "Untamed Empire",
+                  "text": "Dieser zeitgenössische kreative Raum präsentiert moderne afrikanische Mode, Kunstinstallationen und kulturelle Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -0.166911,
+                        5.62473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Action Chapel International",
+                  "text": "Ezen a kiterjedt megatemplomi kampuszon hatalmas, élénk keresztény istentiszteleteket tartanak több ezer hívő részvételével.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164681,
+                        5.625591
+                  ]
+            },
+            {
+                  "name": "Untamed Empire",
+                  "text": "Ez a kortárs kreatív tér modern afrikai divatot, művészeti installációkat és kulturális kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.166911,
+                        5.62473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Action Chapel International",
+                  "text": "Acest campus extins de mega-biserică găzduiește slujbe de cult creștine vibrante, cu participarea a mii de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164681,
+                        5.625591
+                  ]
+            },
+            {
+                  "name": "Untamed Empire",
+                  "text": "Acest spațiu creativ contemporan prezintă expoziții moderne de modă africană, instalații de artă și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        -0.166911,
+                        5.62473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Action Chapel International",
+                  "text": "This expansive mega-church campus hosts large, vibrant Christian worship services attended by thousands.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164681,
+                        5.625591
+                  ]
+            },
+            {
+                  "name": "Untamed Empire",
+                  "text": "This contemporary creative space showcases modern African fashion, art installations, and cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -0.166911,
+                        5.62473
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GH-AA",
     coords: [-0.177, 5.615],

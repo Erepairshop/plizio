@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraIvorycoastLandmarksV2: POI[] = [
   {
-    id: "basilique-notre-dame-de-la-paix-landmarks-v2",
+    id: "basilique-notre-dame-de-la-paix-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yakro Parc",
+                  "text": "Yakro Parc ist ein familienfreundlicher Freizeitpark nahe der monumentalen Basilika Notre-Dame-de-la-Paix in Yamoussoukro.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.232209,
+                        6.7688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yakro Parc",
+                  "text": "A Yakro Parc egy családbarát vidámpark Yamoussoukro városában, a monumentális Miasszonyunk-bazilika közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.232209,
+                        6.7688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yakro Parc",
+                  "text": "Yakro Parc este un parc tematic pentru familii, situat lângă monumentala Bazilică Notre-Dame-de-la-Paix din Yamoussoukro.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.232209,
+                        6.7688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yakro Parc",
+                  "text": "Yakro Parc is a family-oriented theme park located near the monumental Basilica of Our Lady of Peace in Yamoussoukro.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.232209,
+                        6.7688
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-YM",
     coords: [-5.2736, 6.8105],
@@ -129,7 +174,304 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       fr: ["La cathédrale a été consacrée le 10 août 1985 par le pape Jean-Paul II.", "L'architecte Aldo Spirito a conçu le bâtiment dans un style futuriste.", "L'église peut accueillir jusqu'à 3 500 fidèles à l'intérieur.", "Les mosaïques de verre couvrent une surface de plusieurs centaines de mètres carrés.", "Le bâtiment est conçu pour résister aux tremblements de terre et aux vents violents.", "Elle est considérée comme la deuxième plus grande église du pays après la basilique de Yamoussoukro."],
     }, image: "/poi-images/st-paul-cathedral-abidjan-landmarks-v2.webp"},
   {
-    id: "grande-mosquee-riviera-golf-landmarks-v2",
+    id: "grande-mosquee-riviera-golf-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place Alassane Ouattara",
+                  "text": "Der Place Alassane Ouattara ist ein monumentaler öffentlicher Platz in der Nähe des Viertels Riviera Golf in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -3.966141,
+                        5.37619
+                  ]
+            },
+            {
+                  "name": "La Fabrique Culturelle",
+                  "text": "La Fabrique Culturelle ist ein aktives Kunstzentrum, in dem Aufführungen und kulturelle Veranstaltungen im Viertel Riviera Golf stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.001421,
+                        5.365031
+                  ]
+            },
+            {
+                  "name": "Nature place espace reggea live",
+                  "text": "Nature place espace reggea live ist ein Open-Air-Themenpark in Abidjan, der Live-Reggae-Musikdarbietungen gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.003238,
+                        5.374652
+                  ]
+            },
+            {
+                  "name": "Maison angré",
+                  "text": "Maison angré ist ein erhöhter Aussichtspunkt, der freie Sichtlinien über das umliegende Wohnviertel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.987141,
+                        5.40059
+                  ]
+            },
+            {
+                  "name": "Maison du Bresil",
+                  "text": "Maison du Bresil ist ein kulturelles Kunstzentrum im Viertel Riviera Golf, das sich der brasilianischen Kunst und dem brasilianischen Erbe widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.993554,
+                        5.35869
+                  ]
+            },
+            {
+                  "name": "Villa Kaidïn",
+                  "text": "Villa Kaidïn ist ein intimes Kunstzentrum und ein kreativer Veranstaltungsort im Viertel Riviera Golf.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.973627,
+                        5.335088
+                  ]
+            },
+            {
+                  "name": "Zoo d'Abidjan",
+                  "text": "Der Zoo d'Abidjan ist der wichtigste zoologische Garten der Stadt und zeigt eine Vielzahl westafrikanischer Wildtierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.005153,
+                        5.38083
+                  ]
+            },
+            {
+                  "name": "Galerie Guirandou Arts Pluriels",
+                  "text": "Die Galerie Guirandou Arts Pluriels ist ein Zentrum für zeitgenössische Kunst, das im Viertel Riviera Golf multidisziplinäre Werke präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.989547,
+                        5.364047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Alassane Ouattara",
+                  "text": "A Place Alassane Ouattara egy monumentális köztér Abidjanban, a Riviera Golf negyed közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -3.966141,
+                        5.37619
+                  ]
+            },
+            {
+                  "name": "La Fabrique Culturelle",
+                  "text": "A La Fabrique Culturelle egy aktív művészeti központ, amely előadásoknak és kulturális eseményeknek ad otthont a Riviera Golf negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.001421,
+                        5.365031
+                  ]
+            },
+            {
+                  "name": "Nature place espace reggea live",
+                  "text": "A Nature place espace reggea live egy szabadtéri vidámpark Abidjanban, amelyet az élő reggae zenei előadásoknak szenteltek.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.003238,
+                        5.374652
+                  ]
+            },
+            {
+                  "name": "Maison angré",
+                  "text": "A Maison angré egy magaslati kilátó, amely tiszta rálátást biztosít a környező lakónegyedre.",
+                  "category": "natural",
+                  "coords": [
+                        -3.987141,
+                        5.40059
+                  ]
+            },
+            {
+                  "name": "Maison du Bresil",
+                  "text": "A Maison du Bresil egy kulturális művészeti központ a Riviera Golf területén, amelyet a brazil művészeteknek és örökségnek szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.993554,
+                        5.35869
+                  ]
+            },
+            {
+                  "name": "Villa Kaidïn",
+                  "text": "A Villa Kaidïn egy meghitt művészeti központ és kreatív helyszín a Riviera Golf negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.973627,
+                        5.335088
+                  ]
+            },
+            {
+                  "name": "Zoo d'Abidjan",
+                  "text": "Az Abidjani Állatkert a város fő zoológiai parkja, amely számos nyugat-afrikai vadon élő állatfajt mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.005153,
+                        5.38083
+                  ]
+            },
+            {
+                  "name": "Galerie Guirandou Arts Pluriels",
+                  "text": "A Galerie Guirandou Arts Pluriels egy kortárs művészeti központ, amely multidiszciplináris alkotásokat mutat be a Riviera Golf negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.989547,
+                        5.364047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Alassane Ouattara",
+                  "text": "Place Alassane Ouattara este o piață publică monumentală situată lângă cartierul Riviera Golf din Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -3.966141,
+                        5.37619
+                  ]
+            },
+            {
+                  "name": "La Fabrique Culturelle",
+                  "text": "La Fabrique Culturelle este un centru de arte activ care găzduiește spectacole și evenimente culturale în cartierul Riviera Golf.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.001421,
+                        5.365031
+                  ]
+            },
+            {
+                  "name": "Nature place espace reggea live",
+                  "text": "Nature place espace reggea live este un parc tematic în aer liber dedicat spectacolelor de muzică reggae live din Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.003238,
+                        5.374652
+                  ]
+            },
+            {
+                  "name": "Maison angré",
+                  "text": "Maison angré este un punct de belvedere înalt, care oferă o perspectivă clară asupra cartierului rezidențial din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -3.987141,
+                        5.40059
+                  ]
+            },
+            {
+                  "name": "Maison du Bresil",
+                  "text": "Maison du Bresil este un centru de arte culturale din zona Riviera Golf dedicat artelor și patrimoniului brazilian.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.993554,
+                        5.35869
+                  ]
+            },
+            {
+                  "name": "Villa Kaidïn",
+                  "text": "Villa Kaidïn este un centru de arte intim și un loc creativ situat în districtul Riviera Golf.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.973627,
+                        5.335088
+                  ]
+            },
+            {
+                  "name": "Zoo d'Abidjan",
+                  "text": "Grădina Zoologică din Abidjan este principalul parc zoologic al orașului, care expune o varietate de specii de animale sălbatice din Africa de Vest.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.005153,
+                        5.38083
+                  ]
+            },
+            {
+                  "name": "Galerie Guirandou Arts Pluriels",
+                  "text": "Galerie Guirandou Arts Pluriels este un centru de artă contemporană care prezintă lucrări multidisciplinare în cartierul Riviera Golf.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.989547,
+                        5.364047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Alassane Ouattara",
+                  "text": "Place Alassane Ouattara is a monumental public square located near the Riviera Golf neighborhood in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -3.966141,
+                        5.37619
+                  ]
+            },
+            {
+                  "name": "La Fabrique Culturelle",
+                  "text": "La Fabrique Culturelle is an active arts center hosting performances and cultural events in the Riviera Golf district.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.001421,
+                        5.365031
+                  ]
+            },
+            {
+                  "name": "Nature place espace reggea live",
+                  "text": "Nature place espace reggea live is an open-air theme park dedicated to live reggae music performances in Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.003238,
+                        5.374652
+                  ]
+            },
+            {
+                  "name": "Maison angré",
+                  "text": "Maison angré is an elevated viewpoint offering clear sightlines over its surrounding residential neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        -3.987141,
+                        5.40059
+                  ]
+            },
+            {
+                  "name": "Maison du Bresil",
+                  "text": "Maison du Bresil is a cultural arts center in the Riviera Golf area dedicated to Brazilian arts and heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.993554,
+                        5.35869
+                  ]
+            },
+            {
+                  "name": "Villa Kaidïn",
+                  "text": "Villa Kaidïn is an intimate arts center and creative venue situated in the Riviera Golf district.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.973627,
+                        5.335088
+                  ]
+            },
+            {
+                  "name": "Zoo d'Abidjan",
+                  "text": "Zoo d'Abidjan is the main zoological park of the city, exhibiting a variety of West African wildlife species.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.005153,
+                        5.38083
+                  ]
+            },
+            {
+                  "name": "Galerie Guirandou Arts Pluriels",
+                  "text": "Galerie Guirandou Arts Pluriels is a contemporary arts center showcasing multidisciplinary works in the Riviera Golf neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.989547,
+                        5.364047
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-3.9782, 5.3408],
@@ -256,7 +598,52 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "la-pyramide-abidjan-landmarks-v2",
+    id: "la-pyramide-abidjan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "Die Galerie Nour-Al Hayat ist ein Kunstzentrum, das eine Vielzahl von Gemälden und Skulpturen lokaler Künstler präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "A Galerie Nour-Al Hayat egy művészeti központ, amely helyi művészek festményeit és szobrait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "Galerie Nour-Al Hayat este un centru de artă care expune diverse picturi și sculpturi ale creatorilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "Galerie Nour-Al Hayat is an arts centre showcasing a variety of paintings and sculptures by local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.0192, 5.3248],
@@ -320,7 +707,88 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-olympique-ebimpe-landmarks-v2",
+    id: "stade-olympique-ebimpe-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maquis Baoulé",
+                  "text": "Ein traditionelles Freiluftlokal, das einen authentischen Geschmack der lokalen Baoulé-Küche und -Kultur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054532,
+                        5.44277
+                  ]
+            },
+            {
+                  "name": "Moulin Penouel",
+                  "text": "Eine markante Windmühlenstruktur, die als bemerkenswertes ländliches Wahrzeichen hervorsticht.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.039647,
+                        5.444171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maquis Baoulé",
+                  "text": "Hagyományos szabadtéri étkezde, amely a helyi baoulé konyha és kultúra autentikus ízeit kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054532,
+                        5.44277
+                  ]
+            },
+            {
+                  "name": "Moulin Penouel",
+                  "text": "Jellegzetes szélmalom-építmény, amely figyelemre méltó vidéki nevezetességként emelkedik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.039647,
+                        5.444171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maquis Baoulé",
+                  "text": "Un restaurant tradițional în aer liber care oferă un gust autentic al bucătăriei și culturii locale Baoulé.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054532,
+                        5.44277
+                  ]
+            },
+            {
+                  "name": "Moulin Penouel",
+                  "text": "O structură distinctivă de moară de vânt, care se remarcă ca un reper rural notabil.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.039647,
+                        5.444171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maquis Baoulé",
+                  "text": "A traditional open-air eatery offering an authentic taste of local Baoulé cuisine and community culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054532,
+                        5.44277
+                  ]
+            },
+            {
+                  "name": "Moulin Penouel",
+                  "text": "A distinctive windmill structure standing out as a notable rural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.039647,
+                        5.444171
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.0531, 5.48],
@@ -448,7 +916,232 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pont-henri-konan-bedie-landmarks-v2",
+    id: "pont-henri-konan-bedie-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paradisia",
+                  "text": "Paradisia ist eine beliebte Unterhaltungs- und Vergnügungsattraktion in der Nähe der Mautbrücke Henri-Konan-Bédié in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.931317,
+                        5.330954
+                  ]
+            },
+            {
+                  "name": "Mouako Aliodan",
+                  "text": "Mouako Aliodan ist ein lokales Denkmal in der Nähe der Brücke Henri-Konan-Bédié.",
+                  "category": "historical",
+                  "coords": [
+                        -3.963854,
+                        5.307078
+                  ]
+            },
+            {
+                  "name": "Lidya Ludic Espace de jeux et Loisir",
+                  "text": "Lidya Ludic Espace de jeux et Loisir ist ein Spiel- und Unterhaltungs-Themenpark in der Nähe der Henri-Konan-Bédié-Brücke.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956584,
+                        5.29835
+                  ]
+            },
+            {
+                  "name": "Espace Evenementiel La Maison Blanche",
+                  "text": "Espace Evenementiel La Maison Blanche ist ein spezieller Veranstaltungsort und Themenpark in der Nähe der Brücke Henri-Konan-Bédié.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956321,
+                        5.297243
+                  ]
+            },
+            {
+                  "name": "Maquis Baoulé Bia Sud",
+                  "text": "Maquis Baoulé Bia Sud ist ein kulturelles Freilichttheater und ein traditionelles Restaurant in der Nähe der Brücke Henri-Konan-Bédié.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.958599,
+                        5.282685
+                  ]
+            },
+            {
+                  "name": "Pont Henri-Konan-Bédié",
+                  "text": "Die Pont Henri-Konan-Bédié ist eine große Mautbrücke über die Ébrié-Lagune, die die Viertel Riviera und Marcory in Abidjan verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.980133,
+                        5.317533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paradisia",
+                  "text": "A Paradisia egy népszerű szórakoztató és vidámpark Abidjanban, a Henri-Konan-Bédié fizetős híd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.931317,
+                        5.330954
+                  ]
+            },
+            {
+                  "name": "Mouako Aliodan",
+                  "text": "A Mouako Aliodan egy helyi emlékmű, amely a Henri-Konan-Bédié híd közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        -3.963854,
+                        5.307078
+                  ]
+            },
+            {
+                  "name": "Lidya Ludic Espace de jeux et Loisir",
+                  "text": "A Lidya Ludic Espace de jeux et Loisir egy játék- és szórakoztató élménypark a Henri-Konan-Bédié híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956584,
+                        5.29835
+                  ]
+            },
+            {
+                  "name": "Espace Evenementiel La Maison Blanche",
+                  "text": "Az Espace Evenementiel La Maison Blanche egy dedikált rendezvényhelyszín és vidámpark a Henri-Konan-Bédié híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956321,
+                        5.297243
+                  ]
+            },
+            {
+                  "name": "Maquis Baoulé Bia Sud",
+                  "text": "A Maquis Baoulé Bia Sud egy szabadtéri kulturális színház és hagyományos étterem a Henri-Konan-Bédié híd közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.958599,
+                        5.282685
+                  ]
+            },
+            {
+                  "name": "Pont Henri-Konan-Bédié",
+                  "text": "A Pont Henri-Konan-Bédié egy jelentős fizetős híd, amely az Ébrié-lagúnán ível át, és Abidjan Riviera és Marcory negyedeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.980133,
+                        5.317533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paradisia",
+                  "text": "Paradisia este o atracție populară de divertisment și amuzament situată lângă podul cu taxă Henri-Konan-Bédié din Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.931317,
+                        5.330954
+                  ]
+            },
+            {
+                  "name": "Mouako Aliodan",
+                  "text": "Mouako Aliodan este un monument local situat în vecinătatea podului Henri-Konan-Bédié.",
+                  "category": "historical",
+                  "coords": [
+                        -3.963854,
+                        5.307078
+                  ]
+            },
+            {
+                  "name": "Lidya Ludic Espace de jeux et Loisir",
+                  "text": "Lidya Ludic Espace de jeux et Loisir este un parc tematic de jocuri și divertisment lângă podul Henri-Konan-Bédié.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956584,
+                        5.29835
+                  ]
+            },
+            {
+                  "name": "Espace Evenementiel La Maison Blanche",
+                  "text": "Espace Evenementiel La Maison Blanche este un loc dedicat evenimentelor și un parc tematic situat lângă podul Henri-Konan-Bédié.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956321,
+                        5.297243
+                  ]
+            },
+            {
+                  "name": "Maquis Baoulé Bia Sud",
+                  "text": "Maquis Baoulé Bia Sud este un teatru cultural în aer liber și un loc tradițional de luat masa lângă podul Henri-Konan-Bédié.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.958599,
+                        5.282685
+                  ]
+            },
+            {
+                  "name": "Pont Henri-Konan-Bédié",
+                  "text": "Podul Henri-Konan-Bédié este un pod cu taxă important care traversează laguna Ébrié pentru a conecta districtele Riviera și Marcory din Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.980133,
+                        5.317533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paradisia",
+                  "text": "Paradisia is a popular entertainment and amusement attraction located near the Henri-Konan-Bédié toll bridge in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.931317,
+                        5.330954
+                  ]
+            },
+            {
+                  "name": "Mouako Aliodan",
+                  "text": "Mouako Aliodan is a local monument situated in the vicinity of the Henri-Konan-Bédié bridge.",
+                  "category": "historical",
+                  "coords": [
+                        -3.963854,
+                        5.307078
+                  ]
+            },
+            {
+                  "name": "Lidya Ludic Espace de jeux et Loisir",
+                  "text": "Lidya Ludic Espace de jeux et Loisir is a gaming and entertainment theme park near the Henri-Konan-Bédié bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956584,
+                        5.29835
+                  ]
+            },
+            {
+                  "name": "Espace Evenementiel La Maison Blanche",
+                  "text": "Espace Evenementiel La Maison Blanche is a dedicated events venue and theme park area situated near the Henri-Konan-Bédié bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.956321,
+                        5.297243
+                  ]
+            },
+            {
+                  "name": "Maquis Baoulé Bia Sud",
+                  "text": "Maquis Baoulé Bia Sud is an open-air cultural theatre and traditional dining venue near the Henri-Konan-Bédié bridge.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.958599,
+                        5.282685
+                  ]
+            },
+            {
+                  "name": "Pont Henri-Konan-Bédié",
+                  "text": "Pont Henri-Konan-Bédié is a major toll bridge spanning the Ébrié Lagoon to connect the Riviera and Marcory districts of Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.980133,
+                        5.317533
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-3.978, 5.3214],
@@ -512,7 +1205,196 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pont-alassane-ouattara-landmarks-v2",
+    id: "pont-alassane-ouattara-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espace detente",
+                  "text": "Espace detente ist ein Freizeit-Themenpark, der Outdoor-Entspannung in der Nähe der Alassane-Ouattara-Brücke bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001989,
+                        5.36429
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "Die Galerie Cécile Fakhoury ist eine bedeutende Galerie für zeitgenössische Kunst, die Werke afrikanischer Künstler in der Nähe der Alassane-Ouattara-Brücke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -4.003402,
+                        5.346286
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "Das Institut français ist ein kulturelles Kunstzentrum zur Förderung der französischen Sprache und internationaler Kunst in der Nähe der Alassane-Ouattara-Brücke.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334116
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Das Monument des Martyrs ist eine feierliche Gedenkstätte in der Nähe der Alassane-Ouattara-Brücke in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.01256,
+                        5.351205
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "Das Hôtel Ivoire ist ein wegweisender modernistischer Luxushotelkomplex, der einen Panoramablick über die Ébrié-Lagune bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004304,
+                        5.326151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace detente",
+                  "text": "Az Espace detente egy rekreációs vidámpark, amely szabadtéri pihenést kínál az Alassane Ouattara híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001989,
+                        5.36429
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "A Galerie Cécile Fakhoury egy kiemelkedő kortárs művészeti galéria, amely afrikai művészek alkotásait mutatja be az Alassane Ouattara híd közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -4.003402,
+                        5.346286
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "Az Institut français egy kulturális művészeti központ, amely a francia nyelvet és a nemzetközi művészeteket népszerűsíti az Alassane Ouattara híd közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334116
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "A Mártírok emlékműve egy ünnepélyes emléképítmény Abidjanban, az Alassane Ouattara híd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -4.01256,
+                        5.351205
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "A Hôtel Ivoire egy mérföldkőnek számító modernista luxusszálloda-komplexum, amely panorámás kilátást nyújt az Ébrié-lagúnára.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004304,
+                        5.326151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace detente",
+                  "text": "Espace detente este un parc tematic de recreere care oferă relaxare în aer liber lângă podul Alassane Ouattara.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001989,
+                        5.36429
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "Galerie Cécile Fakhoury este o galerie proeminentă de artă contemporană care prezintă lucrări ale artiștilor africani lângă podul Alassane Ouattara.",
+                  "category": "museum",
+                  "coords": [
+                        -4.003402,
+                        5.346286
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "Institut français este un centru de arte culturale care promovează limba franceză și artele internaționale lângă podul Alassane Ouattara.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334116
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Monumentul Martirilor este o structură memorială solemnă situată lângă podul Alassane Ouattara din Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.01256,
+                        5.351205
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "Hôtel Ivoire este un complex hotelier de lux modernist de referință, care oferă vederi panoramice asupra lagunei Ébrié.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004304,
+                        5.326151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace detente",
+                  "text": "Espace detente is a recreational theme park offering outdoor relaxation near the Alassane Ouattara bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001989,
+                        5.36429
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "Galerie Cécile Fakhoury is a prominent contemporary art gallery showcasing works by African artists near the Alassane Ouattara bridge.",
+                  "category": "museum",
+                  "coords": [
+                        -4.003402,
+                        5.346286
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "Institut français is a cultural arts center promoting French language and international arts near the Alassane Ouattara bridge.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334116
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Monument des Martyrs is a solemn memorial structure located near the Alassane Ouattara bridge in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.01256,
+                        5.351205
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "Hôtel Ivoire is a landmark modernist luxury hotel complex offering panoramic views over the Ébrié Lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004304,
+                        5.326151
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.0131, 5.3331],
@@ -576,7 +1458,88 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tour-hotel-ivoire-landmarks-v2",
+    id: "tour-hotel-ivoire-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Luisimone Girandou Gallery",
+                  "text": "Die Luisimone Girandou Gallery ist eine Galerie für zeitgenössische Kunst in der Nähe des legendären Tour Hôtel Ivoire in Abidjan.",
+                  "category": "museum",
+                  "coords": [
+                        -3.994464,
+                        5.337966
+                  ]
+            },
+            {
+                  "name": "Fondation Donwahi pour l'Art Contemporain",
+                  "text": "Die Fondation Donwahi pour l'Art Contemporain ist ein modernes Museum und eine Stiftung, die sich der zeitgenössischen afrikanischen Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -4.001902,
+                        5.355999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luisimone Girandou Gallery",
+                  "text": "A Luisimone Girandou Gallery egy kortárs művészeti galéria Abidjan ikonikus Tour Hôtel Ivoire épülete közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -3.994464,
+                        5.337966
+                  ]
+            },
+            {
+                  "name": "Fondation Donwahi pour l'Art Contemporain",
+                  "text": "A Fondation Donwahi pour l'Art Contemporain egy modern múzeum és alapítvány, amelyet a kortárs afrikai művészetnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -4.001902,
+                        5.355999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luisimone Girandou Gallery",
+                  "text": "Galeria Luisimone Girandou este o galerie de artă contemporană situată lângă emblematicul Tour Hôtel Ivoire din Abidjan.",
+                  "category": "museum",
+                  "coords": [
+                        -3.994464,
+                        5.337966
+                  ]
+            },
+            {
+                  "name": "Fondation Donwahi pour l'Art Contemporain",
+                  "text": "Fundația Donwahi pentru Artă Contemporană este un muzeu modern și o fundație dedicată artei africane contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -4.001902,
+                        5.355999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luisimone Girandou Gallery",
+                  "text": "Luisimone Girandou Gallery is a contemporary art gallery situated near the iconic Tour Hôtel Ivoire in Abidjan.",
+                  "category": "museum",
+                  "coords": [
+                        -3.994464,
+                        5.337966
+                  ]
+            },
+            {
+                  "name": "Fondation Donwahi pour l'Art Contemporain",
+                  "text": "Fondation Donwahi pour l'Art Contemporain is a modern museum and foundation dedicated to contemporary African art.",
+                  "category": "museum",
+                  "coords": [
+                        -4.001902,
+                        5.355999
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-3.9922, 5.3325],
@@ -640,7 +1603,88 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "musee-des-civilisations-landmarks-v2",
+    id: "musee-des-civilisations-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tombeau de DAO MARIAM EPSE GNIGBE",
+                  "text": "Das Tombeau de DAO MARIAM EPSE GNIGBE ist eine monumentale Grabstätte in der Nähe des Museums der Zivilisationen in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.019668,
+                        5.372579
+                  ]
+            },
+            {
+                  "name": "Statue Djéni Kobina",
+                  "text": "Die Statue Djéni Kobina ist ein Denkmal zu Ehren des prominenten ivorischen Politikers und befindet sich in der Nähe des Museums der Zivilisationen.",
+                  "category": "historical",
+                  "coords": [
+                        -4.017186,
+                        5.362605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tombeau de DAO MARIAM EPSE GNIGBE",
+                  "text": "A Tombeau de DAO MARIAM EPSE GNIGBE egy monumentális sírhely Abidjanban, a Civilizációk Múzeuma közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -4.019668,
+                        5.372579
+                  ]
+            },
+            {
+                  "name": "Statue Djéni Kobina",
+                  "text": "A Djéni Kobina-szobor egy kiemelkedő elefántcsontparti politikusnak állít emléket a Civilizációk Múzeuma közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -4.017186,
+                        5.362605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tombeau de DAO MARIAM EPSE GNIGBE",
+                  "text": "Mormântul lui DAO MARIAM EPSE GNIGBE este un sit monumental situat lângă Muzeul Civilizațiilor din Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.019668,
+                        5.372579
+                  ]
+            },
+            {
+                  "name": "Statue Djéni Kobina",
+                  "text": "Statuia lui Djéni Kobina este un monument care îl onorează pe proeminentul politician ivorian, situat lângă Muzeul Civilizațiilor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.017186,
+                        5.362605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tombeau de DAO MARIAM EPSE GNIGBE",
+                  "text": "Tombeau de DAO MARIAM EPSE GNIGBE is a monumental tomb site located near the Museum of Civilizations in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.019668,
+                        5.372579
+                  ]
+            },
+            {
+                  "name": "Statue Djéni Kobina",
+                  "text": "Statue Djéni Kobina is a monument honoring the prominent Ivorian politician, located near the Museum of Civilizations.",
+                  "category": "historical",
+                  "coords": [
+                        -4.017186,
+                        5.362605
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.0202, 5.334],
@@ -832,7 +1876,160 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "grande-mosquee-de-kong-landmarks-v2",
+    id: "grande-mosquee-de-kong-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flagelle 1",
+                  "text": "Flagelle 1 ist eine lokale Attraktion im historischen Viertel rund um die Große Moschee von Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.603441,
+                        9.157733
+                  ]
+            },
+            {
+                  "name": "Zone coupure fouche",
+                  "text": "Zone coupure fouche ist ein malerischer Aussichtspunkt, der einen weiten Blick über die Landschaft der Kong-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.59278,
+                        9.147214
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Kong",
+                  "text": "Die Grande Mosquée de Kong ist eine denkmalgeschützte, traditionelle Lehmmoschee im sudanesisch-sahelischen Baustil.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.609438,
+                        9.149187
+                  ]
+            },
+            {
+                  "name": "Petite Mosquée de Kong",
+                  "text": "Die Petite Mosquée de Kong ist eine kleinere, denkmalgeschützte Lehmmoschee, die die traditionelle sudanesisch-sahelische Architektur präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.611064,
+                        9.148111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flagelle 1",
+                  "text": "A Flagelle 1 egy helyi látványosság a kongi Nagy Mecsetet körülvevő történelmi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.603441,
+                        9.157733
+                  ]
+            },
+            {
+                  "name": "Zone coupure fouche",
+                  "text": "A Zone coupure fouche egy festői kilátó, ahonnan kilátás nyílik a Kong régió tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -4.59278,
+                        9.147214
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Kong",
+                  "text": "A kongi Nagy Mecset egy műemlékvédelem alatt álló, hagyományos vályogtéglából épült mecset, amely szudáni-száheli építészeti stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.609438,
+                        9.149187
+                  ]
+            },
+            {
+                  "name": "Petite Mosquée de Kong",
+                  "text": "A kongi Kis Mecset egy kisebb, műemlékvédelem alatt álló vályogtégla mecset, amely a hagyományos szudáni-száheli építészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.611064,
+                        9.148111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flagelle 1",
+                  "text": "Flagelle 1 este o atracție locală situată în zona istorică din jurul Marii Moschei din Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.603441,
+                        9.157733
+                  ]
+            },
+            {
+                  "name": "Zone coupure fouche",
+                  "text": "Zone coupure fouche este un punct de belvedere pitoresc care oferă panorame asupra peisajului din regiunea Kong.",
+                  "category": "natural",
+                  "coords": [
+                        -4.59278,
+                        9.147214
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Kong",
+                  "text": "Marea Moschee din Kong este o moschee tradițională din cărămidă de noroi, inclusă în patrimoniu, construită în stilul arhitectural sudano-sahelian.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.609438,
+                        9.149187
+                  ]
+            },
+            {
+                  "name": "Petite Mosquée de Kong",
+                  "text": "Mica Moschee din Kong este o moschee mai mică din cărămidă de noroi, clasată ca patrimoniu, care prezintă arhitectura tradițională sudano-saheliană.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.611064,
+                        9.148111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flagelle 1",
+                  "text": "Flagelle 1 is a local attraction located in the historic area surrounding the Grande Mosquée de Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.603441,
+                        9.157733
+                  ]
+            },
+            {
+                  "name": "Zone coupure fouche",
+                  "text": "Zone coupure fouche is a scenic viewpoint offering vistas over the landscape in the Kong region.",
+                  "category": "natural",
+                  "coords": [
+                        -4.59278,
+                        9.147214
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Kong",
+                  "text": "Grande Mosquée de Kong is a heritage-listed, traditional mud-brick mosque built in the Sudano-Sahelian architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.609438,
+                        9.149187
+                  ]
+            },
+            {
+                  "name": "Petite Mosquée de Kong",
+                  "text": "Petite Mosquée de Kong is a smaller, heritage-listed mud-brick mosque showcasing traditional Sudano-Sahelian architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.611064,
+                        9.148111
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-SV",
     coords: [-4.6133, 9.15],
@@ -896,7 +2093,52 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mosquee-de-tingrela-landmarks-v2",
+    id: "mosquee-de-tingrela-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "Die denkmalgeschützte Attraktion zeigt traditionelle Lehmziegel-Bautechniken, die typisch für lokale Moscheen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "A műemlékvédelem alatt álló látványosság a helyi mecsetekre jellemző hagyományos vályogépítési technikákat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "Atracția, declarată monument de patrimoniu, prezintă tehnicile tradiționale de construcție din cărămidă de lut, tipice moscheilor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "The heritage-listed attraction showcases traditional mud-brick construction techniques typical of local mosques.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-SV",
     coords: [-6.4022, 10.49],
@@ -960,7 +2202,124 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cathedrale-sainte-therese-bouake-landmarks-v2",
+    id: "cathedrale-sainte-therese-bouake-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "Diese baulichen Ruinen sind die verfallenen Überreste des ehemaligen Hôtel Harmattan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "Dieses markante öffentliche Denkmal besteht aus einer großen Skulptur in Form eines Elefanten.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "Diese katholische Kathedrale in Bouaké ist der Heiligen Therese vom Kinde Jesu gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028577,
+                        7.688111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "Ezek a szerkezeti romok az egykori Hôtel Harmattan romos maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "Ez a feltűnő köztéri emlékmű egy nagy, elefánt formájú szobrot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "Ezt a Bouakéban található katolikus katedrálist a Gyermek Jézusról nevezett Szent Teréznek szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028577,
+                        7.688111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "Aceste ruine structurale sunt rămășițele dărăpănate ale fostului Hôtel Harmattan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "Acest monument public impresionant prezintă o sculptură mare în formă de elefant.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "Această catedrală catolică din Bouaké este dedicată Sfintei Tereza a Pruncului Isus.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028577,
+                        7.688111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "These structural ruins are the dilapidated remains of the former Hôtel Harmattan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "This striking public monument features a large sculpture in the shape of an elephant.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "This Catholic cathedral in Bouaké is dedicated to Saint Thérèse of the Child Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028577,
+                        7.688111
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-VB",
     coords: [-5.0305, 7.6913],
@@ -1024,7 +2383,52 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-de-la-paix-bouake-landmarks-v2",
+    id: "stade-de-la-paix-bouake-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statut de Marie",
+                  "text": "Dieses skulpturale Denkmal zeigt eine Statue, die die Figur der Maria darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -5.059358,
+                        7.669628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statut de Marie",
+                  "text": "Ez a szobrászati emlékmű egy Mária alakját ábrázoló szobrot tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        -5.059358,
+                        7.669628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statut de Marie",
+                  "text": "Acest monument sculptural prezintă o statuie care o înfățișează pe Fecioara Maria.",
+                  "category": "historical",
+                  "coords": [
+                        -5.059358,
+                        7.669628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statut de Marie",
+                  "text": "This sculptural monument features a statue depicting the figure of Mary.",
+                  "category": "historical",
+                  "coords": [
+                        -5.059358,
+                        7.669628
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-VB",
     coords: [-5.0452, 7.6931],
@@ -1088,7 +2492,124 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-charles-konan-banny-landmarks-v2",
+    id: "stade-charles-konan-banny-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haliat Parc",
+                  "text": "Der im September 2023 eröffnete Haliat Parc ist ein moderner Freizeitpark in der Nähe des Charles-Konan-Banny-Stadions.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.25277,
+                        6.829112
+                  ]
+            },
+            {
+                  "name": "Forêt Urbaine de Yamoussoukro",
+                  "text": "Dieses 1960 gegründete städtische Waldgebiet dient als wichtiges grünes Naturschutzgebiet am Charles-Konan-Banny-Stadion.",
+                  "category": "natural",
+                  "coords": [
+                        -5.270678,
+                        6.85476
+                  ]
+            },
+            {
+                  "name": "Grand Amphi",
+                  "text": "Das Grand Amphi ist ein großer Theatersaal, der in der Umgebung des Charles-Konan-Banny-Stadions liegt.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.230327,
+                        6.882737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haliat Parc",
+                  "text": "A 2023 szeptemberében megnyílt Haliat Parc egy modern vidámpark a Charles Konan Banny Stadion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.25277,
+                        6.829112
+                  ]
+            },
+            {
+                  "name": "Forêt Urbaine de Yamoussoukro",
+                  "text": "Az 1960-ban alapított városi erdő fontos zöld természetvédelmi területként szolgál a Charles Konan Banny Stadion közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -5.270678,
+                        6.85476
+                  ]
+            },
+            {
+                  "name": "Grand Amphi",
+                  "text": "A Grand Amphi egy tágas színházi előadóterem, amely a Charles Konan Banny Stadion környékén található.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.230327,
+                        6.882737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haliat Parc",
+                  "text": "Deschis în septembrie 2023, Haliat Parc este un parc tematic modern situat în apropierea Stadionului Charles Konan Banny.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.25277,
+                        6.829112
+                  ]
+            },
+            {
+                  "name": "Forêt Urbaine de Yamoussoukro",
+                  "text": "Înființată în 1960, această pădure urbană servește ca o rezervație naturală verde vitală lângă Stadionul Charles Konan Banny.",
+                  "category": "natural",
+                  "coords": [
+                        -5.270678,
+                        6.85476
+                  ]
+            },
+            {
+                  "name": "Grand Amphi",
+                  "text": "Grand Amphi este o sală mare de teatru, situată în vecinătatea Stadionului Charles Konan Banny.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.230327,
+                        6.882737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haliat Parc",
+                  "text": "Opened in September 2023, Haliat Parc is a modern theme park situated near the Charles Konan Banny Stadium.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.25277,
+                        6.829112
+                  ]
+            },
+            {
+                  "name": "Forêt Urbaine de Yamoussoukro",
+                  "text": "Established in 1960, this urban forest serves as a vital green nature reserve near the Charles Konan Banny Stadium.",
+                  "category": "natural",
+                  "coords": [
+                        -5.270678,
+                        6.85476
+                  ]
+            },
+            {
+                  "name": "Grand Amphi",
+                  "text": "The Grand Amphi is a large theatrical auditorium set in the vicinity of the Charles Konan Banny Stadium.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.230327,
+                        6.882737
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-YM",
     coords: [-5.2635, 6.8378],
@@ -1216,7 +2737,124 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-laurent-pokou-landmarks-v2",
+    id: "stade-laurent-pokou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sipo beach",
+                  "text": "Sipo Beach ist ein tropischer Küstenort mit einem Sandstrand, der von den glitzernden Wassern des Ozeans gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.643671,
+                        4.722691
+                  ]
+            },
+            {
+                  "name": "Idea Plage",
+                  "text": "Idea Plage ist eine entspannende Sandstrandpromenade, an der Besucher die warme Küstensonne und die rhythmischen Wellen genießen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.639057,
+                        4.724736
+                  ]
+            },
+            {
+                  "name": "Le rocher des amoureux",
+                  "text": "Diese felsige Attraktion bietet ein natürliches Wahrzeichen für Besucher der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.639137,
+                        4.72289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sipo beach",
+                  "text": "A Sipo Beach egy trópusi tengerparti üdülőhely, amelynek homokos partját az óceán csillogó vize szegélyezi.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.643671,
+                        4.722691
+                  ]
+            },
+            {
+                  "name": "Idea Plage",
+                  "text": "Az Idea Plage egy pihentető homokos tengerparti létesítmény, ahol a látogatók élvezhetik a meleg tengerparti napsütést és a ritmikus hullámokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.639057,
+                        4.724736
+                  ]
+            },
+            {
+                  "name": "Le rocher des amoureux",
+                  "text": "Ez a sziklás látványosság természetes tájékozódási pontként szolgál a környékre látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.639137,
+                        4.72289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sipo beach",
+                  "text": "Plaja Sipo este o stațiune de coastă tropicală, oferind un țărm nisipos mărginit de apele strălucitoare ale oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.643671,
+                        4.722691
+                  ]
+            },
+            {
+                  "name": "Idea Plage",
+                  "text": "Idea Plage este o facilitate relaxantă pe plaja cu nisip, unde vizitatorii se pot bucura de soarele cald de pe coastă și de valurile ritmice.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.639057,
+                        4.724736
+                  ]
+            },
+            {
+                  "name": "Le rocher des amoureux",
+                  "text": "Această atracție stâncoasă oferă un punct de reper natural pentru vizitatorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.639137,
+                        4.72289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sipo beach",
+                  "text": "Sipo Beach is a tropical coastal resort offering a sandy shoreline bordered by the sparkling waters of the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.643671,
+                        4.722691
+                  ]
+            },
+            {
+                  "name": "Idea Plage",
+                  "text": "Idea Plage is a relaxing sandy beachfront facility where visitors can enjoy the warm coastal sun and rhythmic waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.639057,
+                        4.724736
+                  ]
+            },
+            {
+                  "name": "Le rocher des amoureux",
+                  "text": "This rocky attraction offers a natural landmark for visitors in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.639137,
+                        4.72289
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-BS",
     coords: [-6.6433, 4.7478],
@@ -1280,7 +2918,52 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palais-de-la-culture-landmarks-v2",
+    id: "palais-de-la-culture-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "Das städtische Verwaltungszentrum, das die lebhafte Gemeinde Treichville regiert.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "A nyüzsgő Treichville község ügyeit intéző önkormányzati közigazgatási központ.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "Centrul administrativ municipal care guvernează comuna plină de viață Treichville.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "The municipal administrative center governing the bustling commune of Treichville.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.015, 5.305],
@@ -1408,7 +3091,52 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "postel-2001-building-landmarks-v2",
+    id: "postel-2001-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ambassade de France",
+                  "text": "Der gepflegte Garten der französischen Botschaft bietet eine ruhige, begrünte Oase innerhalb des diplomatischen Geländes.",
+                  "category": "park",
+                  "coords": [
+                        -4.017026,
+                        5.326215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ambassade de France",
+                  "text": "A francia nagykövetség gondozott kertje békés, zöld oázist kínál a diplomáciai területen belül.",
+                  "category": "park",
+                  "coords": [
+                        -4.017026,
+                        5.326215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ambassade de France",
+                  "text": "Grădina Ambasadei Franței oferă o oază verde și liniștită în interiorul complexului diplomatic.",
+                  "category": "park",
+                  "coords": [
+                        -4.017026,
+                        5.326215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Embassy of France",
+                  "text": "The garden of the Embassy of France provides a tranquil, landscaped green space within the diplomatic compound.",
+                  "category": "park",
+                  "coords": [
+                        -4.017026,
+                        5.326215
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.018, 5.3275],
@@ -1664,7 +3392,52 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hotel-de-ville-abidjan-landmarks-v2",
+    id: "hotel-de-ville-abidjan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Institut français",
+                  "text": "Das Institut français ist ein lebendiges Kulturzentrum, das Sprachkurse und frankofone Kunstausstellungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.016931,
+                        5.322177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Institut français",
+                  "text": "Az Institut français egy nyüzsgő kulturális központ, amely nyelvtanfolyamokat és frankofón művészeti kiállításokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.016931,
+                        5.322177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Institut français",
+                  "text": "Institut français este un centru cultural vibrant, care găzduiește cursuri de limbă și expoziții de artă francofonă.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.016931,
+                        5.322177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Institut français",
+                  "text": "The Institut français is a vibrant cultural arts centre dedicated to the promotion of francophone events and language.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.016931,
+                        5.322177
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.0185, 5.321],
@@ -1728,7 +3501,52 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cathedrale-saint-jean-baptiste-landmarks-v2",
+    id: "cathedrale-saint-jean-baptiste-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shien-low",
+                  "text": "Diese lokale Attraktion befindet sich in kurzer Entfernung zum Wahrzeichen, der Kathedrale Saint-Jean-Baptiste.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.682723,
+                        9.475708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shien-low",
+                  "text": "Ez a helyi látványosság rövid távolságra található a Saint-Jean-Baptiste katedrális nevezetességétől.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.682723,
+                        9.475708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shien-low",
+                  "text": "Această atracție locală este situată la scurtă distanță de Catedrala Saint-Jean-Baptiste.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.682723,
+                        9.475708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shien-low",
+                  "text": "This local attraction is located a short distance from the landmark Saint-Jean-Baptiste Cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.682723,
+                        9.475708
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-SV",
     coords: [-5.6315, 9.458],
@@ -1852,7 +3670,124 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pont-charles-de-gaulle-landmarks-v2",
+    id: "pont-charles-de-gaulle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "Dieser riesige Kulturpalast in der Nähe der Charles-de-Gaulle-Brücke ist Abidjans wichtigster Veranstaltungsort für große Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.012054,
+                        5.312329
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "Dieser staatlich geführte Schwimmbadkomplex im lebhaften Viertel Treichville bietet Erholung im Wasser nahe der Charles-de-Gaulle-Brücke.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000977,
+                        5.308269
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "Diese wichtige Straßenbrücke spannt sich über die Ébrié-Lagune und verbindet die geschäftigen Bezirke Plateau und Treichville in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01008,
+                        5.315848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "A Charles de Gaulle híd közelében található hatalmas kulturális palota Abidjan legfőbb helyszíne a nagy színházi előadásoknak és koncerteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.012054,
+                        5.312329
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "A nyüzsgő Treichville negyedben található, állami fenntartású uszodakomplexum vízi kikapcsolódást kínál a Charles de Gaulle híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000977,
+                        5.308269
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "Az Ébrié-lagúnát átívelő fontos közúti híd köti össze Abidjan Plateau és Treichville nyüzsgő negyedeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01008,
+                        5.315848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "Situat lângă podul Charles de Gaulle, acest palat cultural masiv este principalul loc din Abidjan pentru spectacole teatrale grandioase și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.012054,
+                        5.312329
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "Situat în cartierul plin de viață Treichville, acest complex de piscine administrat de stat oferă recreere acvatică lângă podul Charles de Gaulle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000977,
+                        5.308269
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "Trecând peste Laguna Ébrié, acest pod rutier vital leagă districtele aglomerate Plateau și Treichville din Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01008,
+                        5.315848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "Situated near the Charles de Gaulle Bridge, this massive cultural palace is Abidjan's premier venue for grand theatrical performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.012054,
+                        5.312329
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "Located in the lively Treichville district, this state-run swimming pool complex provides aquatic recreation near the Charles de Gaulle Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000977,
+                        5.308269
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "Spanning the Ébrié Lagoon, this vital road bridge connects the bustling districts of Plateau and Treichville in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01008,
+                        5.315848
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CI-AB",
     coords: [-4.0045, 5.312],

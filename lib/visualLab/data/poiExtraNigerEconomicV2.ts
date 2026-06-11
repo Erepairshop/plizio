@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraNigerEconomicV2: POI[] = [
   {
-    id: "somair-uranium-mine-economic-v2",
+    id: "somair-uranium-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bienvenue d'Arlit",
+                  "text": "Dieses Denkmal begrüßt Besucher in der vom Uranabbau geprägten Wüstenstadt Arlit.",
+                  "category": "historical",
+                  "coords": [
+                        7.415371,
+                        18.722187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bienvenue d'Arlit",
+                  "text": "Ez az emlékmű fogadja a látogatókat Arlit uránbányászatáról ismert sivatagi városában.",
+                  "category": "historical",
+                  "coords": [
+                        7.415371,
+                        18.722187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bienvenue d'Arlit",
+                  "text": "Acest monument întâmpină vizitatorii în orașul deșertic Arlit, cunoscut pentru mineritul de uraniu.",
+                  "category": "historical",
+                  "coords": [
+                        7.415371,
+                        18.722187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Welcome to Arlit",
+                  "text": "This monument welcomes visitors to the desert town of Arlit, known for its uranium mining.",
+                  "category": "historical",
+                  "coords": [
+                        7.415371,
+                        18.722187
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NE-1",
     coords: [7.3833, 18.7333],
@@ -255,7 +300,52 @@ export const poiExtraNigerEconomicV2: POI[] = [
     },
   },
   {
-    id: "tchibarakaten-gold-mine-economic-v2",
+    id: "tchibarakaten-gold-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Échia",
+                  "text": "Dieser markante Gipfel erhebt sich in der Region nahe der Goldmine von Tchibarakaten.",
+                  "category": "natural",
+                  "coords": [
+                        8.241389,
+                        19.361389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Échia",
+                  "text": "Ez a kiemelkedő hegycsúcs a Tchibarakaten aranybánya közelében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        8.241389,
+                        19.361389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Échia",
+                  "text": "Acest vârf proeminent se înalță în regiunea din apropierea minei de aur din Tchibarakaten.",
+                  "category": "natural",
+                  "coords": [
+                        8.241389,
+                        19.361389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Échia",
+                  "text": "This prominent peak rises in the region near the Tchibarakaten gold mine.",
+                  "category": "natural",
+                  "coords": [
+                        8.241389,
+                        19.361389
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NE-1",
     coords: [8.3, 19.3],
@@ -507,7 +597,268 @@ export const poiExtraNigerEconomicV2: POI[] = [
     },
   },
   {
-    id: "goudel-water-plant-economic-v2",
+    id: "goudel-water-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaque Tawaigna",
+                  "text": "Die Plaque Tawaigna ist eine metallene Gedenktafel im Stadtbild, die zur Ehren der lokalen Geschichte aufgestellt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056778,
+                        13.567948
+                  ]
+            },
+            {
+                  "name": "Koubia poste (ancien)",
+                  "text": "Das ehemalige Postamt von Koubia ist ein historisches Gebäude aus der Kolonialzeit mit abblätternden Fassaden, das einst als wichtiger Kommunikationsknotenpunkt diente.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056477,
+                        13.551822
+                  ]
+            },
+            {
+                  "name": "Cité Maazou",
+                  "text": "Die Cité Maazou zeichnet sich durch dicht bebaute Wohnmonumente aus, die die städtische Expansion im Gebiet von Goudel widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        2.057627,
+                        13.536228
+                  ]
+            },
+            {
+                  "name": "NIGELEC CELER",
+                  "text": "Diese lokale Einrichtung der nationalen Elektrizitätsgesellschaft befindet sich in der Nähe des wichtigen Wasserwerks Goudel.",
+                  "category": "landmark",
+                  "coords": [
+                        2.070238,
+                        13.537156
+                  ]
+            },
+            {
+                  "name": "Rond point Touraré",
+                  "text": "Dieser Kreisverkehr dient als markanter Orientierungspunkt in der Nähe der städtischen Wasseranlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.080641,
+                        13.5666
+                  ]
+            },
+            {
+                  "name": "R17 Château Diaspora",
+                  "text": "Dieser monumentale Wasserturm ist ein auffälliges Wahrzeichen im Diaspora-Viertel nahe dem Wasserwerk.",
+                  "category": "historical",
+                  "coords": [
+                        2.031558,
+                        13.581934
+                  ]
+            },
+            {
+                  "name": "Parc d'agrément",
+                  "text": "Dieser angelegte Erholungspark bietet Besuchern eine grüne Ruheoase in der Nähe des Industriegebiets Goudel.",
+                  "category": "landmark",
+                  "coords": [
+                        2.068206,
+                        13.536708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaque Tawaigna",
+                  "text": "A Plaque Tawaigna egy fém emléktábla a városi tájban, amelyet a helyi történelem tiszteletére helyeztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056778,
+                        13.567948
+                  ]
+            },
+            {
+                  "name": "Koubia poste (ancien)",
+                  "text": "A korábbi Koubia postahivatal egy történelmi, omladozó homlokzatú gyarmati kori épület, amely egykor kulcsfontosságú kommunikációs csomópontként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056477,
+                        13.551822
+                  ]
+            },
+            {
+                  "name": "Cité Maazou",
+                  "text": "A Cité Maazou sűrűn beépített lakóépület-műemlékekkel rendelkezik, amelyek a Goudel terület városi terjeszkedését tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        2.057627,
+                        13.536228
+                  ]
+            },
+            {
+                  "name": "NIGELEC CELER",
+                  "text": "A nemzeti áramszolgáltató ezen helyi létesítménye a kulcsfontosságú Goudel víztisztító telep közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        2.070238,
+                        13.537156
+                  ]
+            },
+            {
+                  "name": "Rond point Touraré",
+                  "text": "Ez a körforgalom kiemelkedő tájékozódási pontként szolgál a városi vízügyi létesítmények közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.080641,
+                        13.5666
+                  ]
+            },
+            {
+                  "name": "R17 Château Diaspora",
+                  "text": "Ez a monumentális víztorony feltűnő tájékozódási pont a víztisztító telephez közeli Diaspora negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        2.031558,
+                        13.581934
+                  ]
+            },
+            {
+                  "name": "Parc d'agrément",
+                  "text": "Ez a parkosított rekreációs terület zöldellő pihenőhelyet kínál a látogatóknak a Goudel ipartelep közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.068206,
+                        13.536708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaque Tawaigna",
+                  "text": "Placa Tawaigna este un marcaj comemorativ metalic amplasat în peisajul urban pentru a onora istoria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056778,
+                        13.567948
+                  ]
+            },
+            {
+                  "name": "Koubia poste (ancien)",
+                  "text": "Fostul oficiu poștal Koubia este o clădire istorică din epoca colonială, cu fațade îmbătrânite, care a servit cândva ca un nod de comunicare cheie.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056477,
+                        13.551822
+                  ]
+            },
+            {
+                  "name": "Cité Maazou",
+                  "text": "Cité Maazou prezintă monumente rezidențiale dens construite care reflectă expansiunea urbană în zona Goudel.",
+                  "category": "historical",
+                  "coords": [
+                        2.057627,
+                        13.536228
+                  ]
+            },
+            {
+                  "name": "NIGELEC CELER",
+                  "text": "Această unitate locală a companiei naționale de electricitate este situată lângă importanta stație de tratare a apei Goudel.",
+                  "category": "landmark",
+                  "coords": [
+                        2.070238,
+                        13.537156
+                  ]
+            },
+            {
+                  "name": "Rond point Touraré",
+                  "text": "Acest sens giratoriu servește drept punct de reper important pentru navigație în apropierea instalațiilor de apă urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        2.080641,
+                        13.5666
+                  ]
+            },
+            {
+                  "name": "R17 Château Diaspora",
+                  "text": "Acest turn de apă monumental se înalță ca un reper vizibil în cartierul Diaspora, lângă stația de apă.",
+                  "category": "historical",
+                  "coords": [
+                        2.031558,
+                        13.581934
+                  ]
+            },
+            {
+                  "name": "Parc d'agrément",
+                  "text": "Acest parc de recreere amenajat oferă un spațiu verde de odihnă pentru vizitatori în apropierea zonei industriale Goudel.",
+                  "category": "landmark",
+                  "coords": [
+                        2.068206,
+                        13.536708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaque Tawaigna",
+                  "text": "The Plaque Tawaigna is a metal commemorative marker placed within the urban landscape to honor local history.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056778,
+                        13.567948
+                  ]
+            },
+            {
+                  "name": "Koubia poste (ancien)",
+                  "text": "The former Koubia post office is a historic colonial-era building with aged facades that once served as a key communication hub.",
+                  "category": "landmark",
+                  "coords": [
+                        2.056477,
+                        13.551822
+                  ]
+            },
+            {
+                  "name": "Cité Maazou",
+                  "text": "Cité Maazou features densely built residential monuments that reflect the urban expansion in the Goudel area.",
+                  "category": "historical",
+                  "coords": [
+                        2.057627,
+                        13.536228
+                  ]
+            },
+            {
+                  "name": "NIGELEC CELER",
+                  "text": "This local facility of the national electricity company is situated near the critical Goudel water treatment plant.",
+                  "category": "landmark",
+                  "coords": [
+                        2.070238,
+                        13.537156
+                  ]
+            },
+            {
+                  "name": "Rond point Touraré",
+                  "text": "This traffic roundabout serves as a prominent navigational landmark near the urban water facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        2.080641,
+                        13.5666
+                  ]
+            },
+            {
+                  "name": "R17 Château Diaspora",
+                  "text": "This prominent monumental water tower stands as a noticeable landmark in the Diaspora neighborhood near the water plant.",
+                  "category": "historical",
+                  "coords": [
+                        2.031558,
+                        13.581934
+                  ]
+            },
+            {
+                  "name": "Parc d'agrément",
+                  "text": "This landscaped recreational park offers a green resting space for visitors near the Goudel industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        2.068206,
+                        13.536708
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NE-8",
     coords: [2.0736, 13.5428],
@@ -687,7 +1038,88 @@ export const poiExtraNigerEconomicV2: POI[] = [
     },
   },
   {
-    id: "zinder-tannery-economic-v2",
+    id: "zinder-tannery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "FADA CARLO",
+                  "text": "Ein burgartiges Gebäude im Wirtschafts- und Gerberviertel von Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "Ein Handwerkerdorf in Zinder, das lokale handgemachte Kunstwerke präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.971686,
+                        13.800989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FADA CARLO",
+                  "text": "Egy kastélyszerű épület Zinder gazdasági és cserzőnegyedében.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "Egy zinderi kézműves falu, amely bemutatja a helyi alkotásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.971686,
+                        13.800989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FADA CARLO",
+                  "text": "O clădire asemănătoare unui castel din cartierul economic și al tăbăcarilor din Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "Un sat artizanal din Zinder care prezintă lucrări de artă lucrate manual.",
+                  "category": "cultural",
+                  "coords": [
+                        8.971686,
+                        13.800989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FADA CARLO",
+                  "text": "A castle-like building in the economic and tannery district of Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "An artisanal village in Zinder presenting local handmade artworks.",
+                  "category": "cultural",
+                  "coords": [
+                        8.971686,
+                        13.800989
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NE-7",
     coords: [8.9833, 13.8],
@@ -867,7 +1299,124 @@ export const poiExtraNigerEconomicV2: POI[] = [
     },
   },
   {
-    id: "diffa-oil-exploration-economic-v2",
+    id: "diffa-oil-exploration-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tribune officielle",
+                  "text": "Dieses als offizielle Tribüne erbaute monumentale Bauwerk in Diffa bietet eine formelle Kulisse für bürgerliche Paraden und Zeremonien.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Kazelmarie ",
+                  "text": "Dieses befestigte Bauwerk in der Region Diffa verfügt über imposante Mauern, die das defensive architektonische Erbe der Gegend widerspiegeln.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "Dieser monumentale Wasserturm dominiert die lokale Skyline und dient in Diffa sowohl als wichtige Versorgungseinrichtung als auch als Orientierungspunkt.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tribune officielle",
+                  "text": "A hivatalos kilátóként épült monumentális diffai építmény formális hátteret biztosít a polgári felvonulásokhoz és ceremóniákhoz.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Kazelmarie ",
+                  "text": "A Diffa régióban álló erődített építmény impozáns falakkal rendelkezik, amelyek a terület védelmi építészeti örökségét tükrözik.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "Ez a monumentális víztorony uralja a helyi látképet, és egyszerre szolgál fontos közműként és felismerhető tájékozódási pontként Diffában.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tribune officielle",
+                  "text": "Construită ca o tribună oficială de vizionare, această structură monumentală din Diffa oferă un cadru formal pentru parade și ceremonii civice.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Kazelmarie ",
+                  "text": "Aflată în regiunea Diffa, această structură fortificată prezintă ziduri impunătoare care reflectă moștenirea arhitecturală defensivă a zonei.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "Acest castel de apă monumental domină orizontul local, servind atât ca utilitate crucială, cât și ca un reper de navigație recunoscut în Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tribune officielle",
+                  "text": "Built as an official viewing stand, this monumental structure in Diffa provides a formal backdrop for civic parades and ceremonies.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Kazelmarie ",
+                  "text": "Standing in the Diffa region, this fortified structure features imposing walls that reflect the area's defensive architectural heritage.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "This monumental water tower dominates the local skyline, serving as both a crucial utility and a recognizable navigational landmark in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NE-3",
     coords: [12.6167, 13.3167],
@@ -1047,7 +1596,88 @@ export const poiExtraNigerEconomicV2: POI[] = [
     },
   },
   {
-    id: "agadez-logistics-hub-economic-v2",
+    id: "agadez-logistics-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tengilbéna",
+                  "text": "Ein markanter Gipfel in der Region des logistischen Zentrums Agadez.",
+                  "category": "natural",
+                  "coords": [
+                        7.898333,
+                        17.026944
+                  ]
+            },
+            {
+                  "name": "Alouat",
+                  "text": "Ein Berggipfel in der wirtschaftlich geprägten Zone von Agadez.",
+                  "category": "natural",
+                  "coords": [
+                        7.896389,
+                        16.928333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tengilbéna",
+                  "text": "Egy kiemelkedő csúcs az agadezi logisztikai központ térségében.",
+                  "category": "natural",
+                  "coords": [
+                        7.898333,
+                        17.026944
+                  ]
+            },
+            {
+                  "name": "Alouat",
+                  "text": "Egy hegycsúcs Agadez gazdasági övezetében.",
+                  "category": "natural",
+                  "coords": [
+                        7.896389,
+                        16.928333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tengilbéna",
+                  "text": "Un vârf proeminent din regiunea nodului logistic Agadez.",
+                  "category": "natural",
+                  "coords": [
+                        7.898333,
+                        17.026944
+                  ]
+            },
+            {
+                  "name": "Alouat",
+                  "text": "Un vârf montan din zona economică a orașului Agadez.",
+                  "category": "natural",
+                  "coords": [
+                        7.896389,
+                        16.928333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tengilbéna",
+                  "text": "A prominent peak in the region of the Agadez logistics hub.",
+                  "category": "natural",
+                  "coords": [
+                        7.898333,
+                        17.026944
+                  ]
+            },
+            {
+                  "name": "Alouat",
+                  "text": "A mountain peak located in the economic zone of Agadez.",
+                  "category": "natural",
+                  "coords": [
+                        7.896389,
+                        16.928333
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NE-1",
     coords: [7.9667, 16.9667],

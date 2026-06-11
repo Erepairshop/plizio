@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraBurundiLandmarksV2: POI[] = [
   {
-    id: "unabhaengigkeitsmonument-bujumbura-landmarks-v2",
+    id: "unabhaengigkeitsmonument-bujumbura-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais des Arts et de la Culture",
+                  "text": "Der Palais des Arts et de la Culture ist ein großes Theater in der Nähe des Unabhängigkeitsdenkmals von Bujumbura, in dem bedeutende nationale Aufführungen und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        29.364422,
+                        -3.383333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais des Arts et de la Culture",
+                  "text": "A Palais des Arts et de la Culture egy hatalmas színház Bujumbura függetlenségi emlékműve közelében, amely kiemelkedő nemzeti előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        29.364422,
+                        -3.383333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais des Arts et de la Culture",
+                  "text": "Palatul Artelor și Culturii este un teatru grandios din apropierea Monumentului Independenței din Bujumbura, care găzduiește spectacole naționale și evenimente culturale de anvergură.",
+                  "category": "cultural",
+                  "coords": [
+                        29.364422,
+                        -3.383333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais des Arts et de la Culture",
+                  "text": "The Palais des Arts et de la Culture is a grand theatre near Bujumbura's Independence Monument that hosts prominent national performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.364422,
+                        -3.383333
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BI-BM",
     coords: [29.364, -3.383],
@@ -51,7 +96,52 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }
   },
   {
-    id: "denkmal-der-einheit-bujumbura-landmarks-v2",
+    id: "denkmal-der-einheit-bujumbura-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument de l'Unité Nationale",
+                  "text": "Ein markantes Denkmal auf dem Vugizo-Hügel in Bujumbura, das Frieden und nationale Versöhnung symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        29.388388,
+                        -3.39275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument de l'Unité Nationale",
+                  "text": "Bujumbura Vugizo dombján található kiemelkedő emlékmű, amely a békét és a nemzeti megbékélést szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        29.388388,
+                        -3.39275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument de l'Unité Nationale",
+                  "text": "Un memorial proeminent situat pe dealul Vugizo din Bujumbura, simbolizând pacea și reconcilierea națională.",
+                  "category": "historical",
+                  "coords": [
+                        29.388388,
+                        -3.39275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument de l'Unité Nationale",
+                  "text": "A prominent memorial located on Vugizo hill in Bujumbura, symbolizing peace and national reconciliation.",
+                  "category": "historical",
+                  "coords": [
+                        29.388388,
+                        -3.39275
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BI-BM",
     coords: [29.375, -3.390],
@@ -330,7 +420,52 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }
   },
   {
-    id: "hafen-von-bujumbura-landmarks-v2",
+    id: "hafen-von-bujumbura-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chimpanzés",
+                  "text": "Die Schimpansen-Attraktion in der Nähe des Hafens von Bujumbura bietet ein geschlossenes Gehege, in dem Besucher gerettete Primaten aus der Nähe beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        29.35399,
+                        -3.387846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chimpanzés",
+                  "text": "A bujumburai kikötő közelében található csimpánz látványosság egy zárt élőhelyet kínál, ahol a látogatók testközelből figyelhetik meg a megmentett főemlősöket.",
+                  "category": "landmark",
+                  "coords": [
+                        29.35399,
+                        -3.387846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chimpanzés",
+                  "text": "Atracția cu cimpanzei din apropierea portului Bujumbura oferă un habitat închis unde vizitatorii pot observa îndeaproape primatele salvate.",
+                  "category": "landmark",
+                  "coords": [
+                        29.35399,
+                        -3.387846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimpanzees",
+                  "text": "The Chimpanzees attraction near the Port of Bujumbura offers an enclosed habitat where visitors can observe rescued primates close up.",
+                  "category": "landmark",
+                  "coords": [
+                        29.35399,
+                        -3.387846
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BI-BM",
     coords: [29.355, -3.388],
@@ -999,7 +1134,52 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     },
   },
   {
-    id: "rwagasore-monument-gitega-landmarks-v2",
+    id: "rwagasore-monument-gitega-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National de Gitega",
+                  "text": "Das Nationalmuseum von Gitega bewahrt das reiche ethnografische Erbe Burundis und traditionelle königliche Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        29.908618,
+                        -3.418221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National de Gitega",
+                  "text": "A Gitega Nemzeti Múzeum Burundi gazdag néprajzi örökségét és hagyományos királyi műtárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        29.908618,
+                        -3.418221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National de Gitega",
+                  "text": "Muzeul Național din Gitega păstrează bogatul patrimoniu etnografic al statului Burundi și artefacte regale tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        29.908618,
+                        -3.418221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Gitega",
+                  "text": "The National Museum of Gitega preserves Burundi's rich ethnographic heritage and traditional royal artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        29.908618,
+                        -3.418221
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BI-GI",
     coords: [29.912, -3.420],

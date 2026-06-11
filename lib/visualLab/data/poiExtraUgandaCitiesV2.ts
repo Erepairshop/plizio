@@ -451,7 +451,124 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "jinja-cities-v2",
+    id: "jinja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "CULTURAL REASEARCH CENTRE MUSEUM",
+                  "text": "Eingebettet im Herzen von Jinja, beherbergt dieses Forschungsmuseum ethnografische Sammlungen zu den Sprachen und Traditionen der Busoga-Region.",
+                  "category": "museum",
+                  "coords": [
+                        33.207062,
+                        0.433877
+                  ]
+            },
+            {
+                  "name": "National Unity Platform",
+                  "text": "Dieses farbenfrohe Verwaltungszentrum fungiert als markantes politisches Büro in Jinja und dient der wichtigsten ugandischen Oppositionspartei.",
+                  "category": "landmark",
+                  "coords": [
+                        33.208533,
+                        0.433829
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Dieser historische Uhrenturm, der an einem belebten Kreisverkehr steht, ist ein Wahrzeichen aus der Kolonialzeit, das den Verkehr in Jinja lenkt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.212947,
+                        0.441344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CULTURAL REASEARCH CENTRE MUSEUM",
+                  "text": "A Jinja szívében található kutatómúzeum hatalmas néprajzi gyűjteményeknek ad otthont, amelyek a Busoga régió nyelveit és hagyományait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        33.207062,
+                        0.433877
+                  ]
+            },
+            {
+                  "name": "National Unity Platform",
+                  "text": "A Jinjában kiemelkedő politikai irodaként működő, élénk színekre festett központ a fő ugandai ellenzéki pártot szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        33.208533,
+                        0.433829
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Egy forgalmas körforgalomban áll ez a történelmi óratorony, amely egy jól ismert gyarmati korabeli nevezetesség a jinja belvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.212947,
+                        0.441344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CULTURAL REASEARCH CENTRE MUSEUM",
+                  "text": "Amplasat în inima orașului Jinja, acest muzeu de cercetare adăpostește colecții etnografice referitoare la limbile și tradițiile regiunii Busoga.",
+                  "category": "museum",
+                  "coords": [
+                        33.207062,
+                        0.433877
+                  ]
+            },
+            {
+                  "name": "National Unity Platform",
+                  "text": "Funcționând ca un birou politic proeminent în Jinja, acest centru administrativ viu colorat deservește principalul partid de opoziție din Uganda.",
+                  "category": "landmark",
+                  "coords": [
+                        33.208533,
+                        0.433829
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Aflat la un sens giratoriu aglomerat, acest turn cu ceas istoric este un reper din epoca colonială care dirijează traficul în Jinja.",
+                  "category": "landmark",
+                  "coords": [
+                        33.212947,
+                        0.441344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CULTURAL REASEARCH CENTRE MUSEUM",
+                  "text": "Nestled in the heart of Jinja, this research museum houses extensive ethnographic collections detailing the linguistics and traditions of the Busoga region.",
+                  "category": "museum",
+                  "coords": [
+                        33.207062,
+                        0.433877
+                  ]
+            },
+            {
+                  "name": "National Unity Platform",
+                  "text": "Operating as a prominent political office in Jinja, this brightly colored administrative center serves Uganda's main opposition party.",
+                  "category": "landmark",
+                  "coords": [
+                        33.208533,
+                        0.433829
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Standing at a busy urban roundabout, this historic clock tower is a well-known colonial-era landmark navigating traffic through downtown Jinja.",
+                  "category": "landmark",
+                  "coords": [
+                        33.212947,
+                        0.441344
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-203",
     coords: [33.2, 0.4333],
@@ -495,7 +612,124 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "entebbe-cities-v2",
+    id: "entebbe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aero Beach",
+                  "text": "Aero Beach ist ein sandiger Küstenabschnitt am Ufer des Viktoriasees in Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.460395,
+                        0.038031
+                  ]
+            },
+            {
+                  "name": "Imperial Resort Beach",
+                  "text": "Der Imperial Resort Beach bietet einen Rückzugsort am Ufer des Viktoriasees in Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.471471,
+                        0.045842
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach ist ein beliebter Sandstrand am Viktoriasee in Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.457995,
+                        0.03689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aero Beach",
+                  "text": "Az Aero Beach egy homokos partszakasz a Viktória-tó partján, Entebbében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.460395,
+                        0.038031
+                  ]
+            },
+            {
+                  "name": "Imperial Resort Beach",
+                  "text": "Az Imperial Resort Beach egy tóparti pihenőhely a Viktória-tó mentén, Entebbében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.471471,
+                        0.045842
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "A Lido Beach egy népszerű homokos partszakasz a Viktória-tó partján Entebbében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.457995,
+                        0.03689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aero Beach",
+                  "text": "Aero Beach este o plajă cu nisip situată pe malul Lacului Victoria în Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.460395,
+                        0.038031
+                  ]
+            },
+            {
+                  "name": "Imperial Resort Beach",
+                  "text": "Imperial Resort Beach oferă un refugiu pitoresc pe malul Lacului Victoria din Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.471471,
+                        0.045842
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach este o plajă populară cu nisip situată de-a lungul Lacului Victoria în Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.457995,
+                        0.03689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aero Beach",
+                  "text": "Aero Beach is a sandy coastal stretch located on the shores of Lake Victoria in Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.460395,
+                        0.038031
+                  ]
+            },
+            {
+                  "name": "Imperial Resort Beach",
+                  "text": "Imperial Resort Beach offers a lakeside retreat along the shores of Lake Victoria in Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.471471,
+                        0.045842
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach is a popular sandy shoreline situated along Lake Victoria in Entebbe.",
+                  "category": "recreational",
+                  "coords": [
+                        32.457995,
+                        0.03689
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-113",
     coords: [32.4667, 0.05],
@@ -536,7 +770,88 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "mbale-cities-v2",
+    id: "mbale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "KAKUNGULU MUSEUM",
+                  "text": "Dieses Museum in Mbale bewahrt die ehemalige Residenz und historische Artefakte der ugandischen historischen Persönlichkeit Semei Kakungulu.",
+                  "category": "museum",
+                  "coords": [
+                        34.194878,
+                        1.097052
+                  ]
+            },
+            {
+                  "name": "swimming pool area",
+                  "text": "Dieser geflieste Freizeitkomplex im Freien in der Stadt Mbale bietet Familien in der heißen Trockenzeit eine Erfrischung im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        34.194986,
+                        1.065949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KAKUNGULU MUSEUM",
+                  "text": "Ez az Mbalében található múzeum Semei Kakungulu ugandai történelmi személyiség egykori rezidenciáját és történelmi tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        34.194878,
+                        1.097052
+                  ]
+            },
+            {
+                  "name": "swimming pool area",
+                  "text": "Az Mbale városában megbúvó csempézett szabadtéri rekreációs komplexum frissítő vízi kikapcsolódást kínál a családoknak a forró száraz évszakban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.194986,
+                        1.065949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KAKUNGULU MUSEUM",
+                  "text": "Situat în Mbale, acest muzeu păstrează fosta reședință și artefactele istorice ale figurii istorice ugandeze Semei Kakungulu.",
+                  "category": "museum",
+                  "coords": [
+                        34.194878,
+                        1.097052
+                  ]
+            },
+            {
+                  "name": "swimming pool area",
+                  "text": "Amplasat în orașul Mbale, acest complex de agrement exterior cu gresie oferă familiilor o evadare acvatică în timpul sezonului cald și uscat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.194986,
+                        1.065949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KAKUNGULU MUSEUM",
+                  "text": "Situated in Mbale, this museum preserves the former residence and historical artifacts of the prominent Ugandan historical figure Semei Kakungulu.",
+                  "category": "museum",
+                  "coords": [
+                        34.194878,
+                        1.097052
+                  ]
+            },
+            {
+                  "name": "swimming pool area",
+                  "text": "Nestled in the city of Mbale, this tiled outdoor recreational complex offers families a refreshing aquatic escape during the hot dry season.",
+                  "category": "recreational",
+                  "coords": [
+                        34.194986,
+                        1.065949
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-210",
     coords: [34.1833, 1.0833],
@@ -821,7 +1136,52 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kasese-cities-v2",
+    id: "kasese-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hot springs stp",
+                  "text": "An dieser mineralreichen heißen Quelle in der Nähe von Kasese können Besucher beobachten, wie natürliches geothermisches Wasser an die Oberfläche sprudelt.",
+                  "category": "landmark",
+                  "coords": [
+                        30.057168,
+                        0.18906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hot springs stp",
+                  "text": "A látogatók megfigyelhetik a felszínre törő természetes geotermikus vizet ezen az ásványi anyagokban gazdag Kasese közeli hőforráson.",
+                  "category": "landmark",
+                  "coords": [
+                        30.057168,
+                        0.18906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hot springs stp",
+                  "text": "Vizitatorii pot observa apele geotermale naturale ieșind la suprafață la acest izvor termal bogat în minerale din apropiere de Kasese.",
+                  "category": "landmark",
+                  "coords": [
+                        30.057168,
+                        0.18906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hot springs stp",
+                  "text": "Visitors can observe natural geothermal waters bubbling to the surface at this mineral-rich hot spring site near Kasese.",
+                  "category": "landmark",
+                  "coords": [
+                        30.057168,
+                        0.18906
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-406",
     coords: [30.0833, 0.1833],
@@ -1228,7 +1588,268 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "fort-portal-cities-v2",
+    id: "fort-portal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koi Koi Cultural Centre",
+                  "text": "Dieses lebhafte Kulturzentrum in Fort Portal veranstaltet häufig traditionelle Tooro-Tänze und künstlerische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        30.264954,
+                        0.634154
+                  ]
+            },
+            {
+                  "name": "Old Tooro Kingdom Palace",
+                  "text": "Die historischen Überreste der ehemaligen Residenz der Tooro-Könige, eingebettet in die Hügel von Fort Portal.",
+                  "category": "historical",
+                  "coords": [
+                        30.267979,
+                        0.646992
+                  ]
+            },
+            {
+                  "name": "Forestry",
+                  "text": "Ein natürliches Waldgebiet am Stadtrand von Fort Portal, das für seine ruhigen Spazierwege und Baumarten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        30.272254,
+                        0.64945
+                  ]
+            },
+            {
+                  "name": "Lugard Monument",
+                  "text": "Ein historisches Steindenkmal in Fort Portal, das an den britischen Kolonialforscher Frederick Lugard erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        30.274581,
+                        0.652926
+                  ]
+            },
+            {
+                  "name": "Mpanga Market",
+                  "text": "Ein geschäftiger lokaler Markt in Fort Portal, auf dem Händler frische tropische Produkte und regionale Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        30.279233,
+                        0.657317
+                  ]
+            },
+            {
+                  "name": "Fort Portal",
+                  "text": "Ein wichtiges städtisches Zentrum am Fuße des Ruwenzori-Gebirges, das oft als Tor für den regionalen Tourismus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        30.277792,
+                        0.655915
+                  ]
+            },
+            {
+                  "name": "Sir Gerald Fort Statue",
+                  "text": "Dieses Denkmal erinnert an Sir Gerald Portal, den britischen Kolonialbeamten, nach dem die Stadt Fort Portal benannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        30.273755,
+                        0.651659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koi Koi Cultural Centre",
+                  "text": "Ez a nyüzsgő kulturális központ Fort Portalban gyakran ad otthont hagyományos tooro táncoknak és művészeti előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        30.264954,
+                        0.634154
+                  ]
+            },
+            {
+                  "name": "Old Tooro Kingdom Palace",
+                  "text": "A tooro királyok korábbi rezidenciájának történelmi maradványai Fort Portal dombjai között.",
+                  "category": "historical",
+                  "coords": [
+                        30.267979,
+                        0.646992
+                  ]
+            },
+            {
+                  "name": "Forestry",
+                  "text": "Egy természetes erdőterület Fort Portal külvárosában, amely csendes sétaútjairól és fafajairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        30.272254,
+                        0.64945
+                  ]
+            },
+            {
+                  "name": "Lugard Monument",
+                  "text": "Egy történelmi kőemlékmű Fort Portalban, amely Frederick Lugard brit gyarmati felfedezőnek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        30.274581,
+                        0.652926
+                  ]
+            },
+            {
+                  "name": "Mpanga Market",
+                  "text": "Egy nyüzsgő helyi piac Fort Portalban, ahol a kereskedők friss trópusi termékeket és regionális árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        30.279233,
+                        0.657317
+                  ]
+            },
+            {
+                  "name": "Fort Portal",
+                  "text": "Egy fontos városi központ a Ruwenzori-hegység lábánál, amely gyakran a regionális turizmus kapujaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        30.277792,
+                        0.655915
+                  ]
+            },
+            {
+                  "name": "Sir Gerald Fort Statue",
+                  "text": "Ez az emlékmű Sir Gerald Portal brit gyarmati tisztviselőnek állít emléket, akiről Fort Portal városa a nevét kapta.",
+                  "category": "historical",
+                  "coords": [
+                        30.273755,
+                        0.651659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koi Koi Cultural Centre",
+                  "text": "Acest centru cultural vibrant din Fort Portal găzduiește frecvent dansuri tradiționale Tooro și spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        30.264954,
+                        0.634154
+                  ]
+            },
+            {
+                  "name": "Old Tooro Kingdom Palace",
+                  "text": "Rămășițele istorice ale fostei reședințe a regilor Tooro cuibărite în dealurile din Fort Portal.",
+                  "category": "historical",
+                  "coords": [
+                        30.267979,
+                        0.646992
+                  ]
+            },
+            {
+                  "name": "Forestry",
+                  "text": "O zonă naturală împădurită la periferia orașului Fort Portal, cunoscută pentru traseele sale liniștite și speciile de arbori.",
+                  "category": "landmark",
+                  "coords": [
+                        30.272254,
+                        0.64945
+                  ]
+            },
+            {
+                  "name": "Lugard Monument",
+                  "text": "Un monument istoric din piatră în Fort Portal care îl comemorează pe exploratorul colonial britanic Frederick Lugard.",
+                  "category": "landmark",
+                  "coords": [
+                        30.274581,
+                        0.652926
+                  ]
+            },
+            {
+                  "name": "Mpanga Market",
+                  "text": "O piață locală plină de viață în Fort Portal, unde comercianții vând produse tropicale proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        30.279233,
+                        0.657317
+                  ]
+            },
+            {
+                  "name": "Fort Portal",
+                  "text": "Un important centru urban la baza Munților Rwenzori, care servește adesea drept poartă pentru turismul regional.",
+                  "category": "landmark",
+                  "coords": [
+                        30.277792,
+                        0.655915
+                  ]
+            },
+            {
+                  "name": "Sir Gerald Fort Statue",
+                  "text": "Acest monument îl comemorează pe Sir Gerald Portal, oficialul colonial britanic după care a fost numit orașul Fort Portal.",
+                  "category": "historical",
+                  "coords": [
+                        30.273755,
+                        0.651659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koi Koi Cultural Centre",
+                  "text": "This vibrant cultural center in Fort Portal frequently hosts traditional Tooro dances and artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        30.264954,
+                        0.634154
+                  ]
+            },
+            {
+                  "name": "Old Tooro Kingdom Palace",
+                  "text": "The historic remains of the former residence of the Tooro kings nestled in the hills of Fort Portal.",
+                  "category": "historical",
+                  "coords": [
+                        30.267979,
+                        0.646992
+                  ]
+            },
+            {
+                  "name": "Forestry",
+                  "text": "A natural forested area on the outskirts of Fort Portal known for its tranquil walking trails and tree species.",
+                  "category": "landmark",
+                  "coords": [
+                        30.272254,
+                        0.64945
+                  ]
+            },
+            {
+                  "name": "Lugard Monument",
+                  "text": "A historical stone monument in Fort Portal commemorating the British colonial explorer Frederick Lugard.",
+                  "category": "landmark",
+                  "coords": [
+                        30.274581,
+                        0.652926
+                  ]
+            },
+            {
+                  "name": "Mpanga Market",
+                  "text": "A bustling local market in Fort Portal where vendors sell fresh tropical produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        30.279233,
+                        0.657317
+                  ]
+            },
+            {
+                  "name": "Fort Portal",
+                  "text": "A major urban center at the base of the Rwenzori Mountains, often serving as a gateway for regional tourism.",
+                  "category": "landmark",
+                  "coords": [
+                        30.277792,
+                        0.655915
+                  ]
+            },
+            {
+                  "name": "Sir Gerald Fort Statue",
+                  "text": "This monument commemorates Sir Gerald Portal, the British colonial official after whom the town of Fort Portal is named.",
+                  "category": "historical",
+                  "coords": [
+                        30.273755,
+                        0.651659
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-402",
     coords: [30.2667, 0.65],
@@ -1912,7 +2533,124 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "makindye-cities-v2",
+    id: "makindye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Katongole supplies limited show room",
+                  "text": "Dieser kommerzielle Ausstellungsraum im Bezirk Makindye präsentiert lokale Vorräte und Handelswaren.",
+                  "category": "landmark",
+                  "coords": [
+                        32.574613,
+                        0.277035
+                  ]
+            },
+            {
+                  "name": "The Pavillon Gardens",
+                  "text": "Ein gepflegter Garten in Makindye, der Pavillonstrukturen für die Freizeitgestaltung im Freien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601062,
+                        0.276684
+                  ]
+            },
+            {
+                  "name": "Wonder World Amusement Park",
+                  "text": "Dieser lebhafte Vergnügungspark bietet eine Vielzahl familienfreundlicher Fahrgeschäfte und Freizeitaktivitäten in Makindye.",
+                  "category": "recreational",
+                  "coords": [
+                        32.606343,
+                        0.283295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Katongole supplies limited show room",
+                  "text": "Ez a Makindye negyedben található kereskedelmi bemutatóterem helyi kellékeket és kereskedelmi árukat állít ki.",
+                  "category": "landmark",
+                  "coords": [
+                        32.574613,
+                        0.277035
+                  ]
+            },
+            {
+                  "name": "The Pavillon Gardens",
+                  "text": "Egy gondozott kert Makindyében, amely pavilonokkal várja a szabadtéri kikapcsolódásra vágyókat.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601062,
+                        0.276684
+                  ]
+            },
+            {
+                  "name": "Wonder World Amusement Park",
+                  "text": "Ez a nyüzsgő vidámpark különféle családbarát körhintákat és szabadidős tevékenységeket kínál Makindyében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.606343,
+                        0.283295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Katongole supplies limited show room",
+                  "text": "Acest showroom comercial din districtul Makindye expune provizii locale și mărfuri comerciale.",
+                  "category": "landmark",
+                  "coords": [
+                        32.574613,
+                        0.277035
+                  ]
+            },
+            {
+                  "name": "The Pavillon Gardens",
+                  "text": "Un spațiu de grădină cultivat în Makindye, cu pavilioane pentru petrecerea timpului liber în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601062,
+                        0.276684
+                  ]
+            },
+            {
+                  "name": "Wonder World Amusement Park",
+                  "text": "Acest parc de distracții plin de viață oferă o varietate de atracții pentru familii și activități recreative în Makindye.",
+                  "category": "recreational",
+                  "coords": [
+                        32.606343,
+                        0.283295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Katongole supplies limited show room",
+                  "text": "This commercial showroom in the Makindye district displays local supplies and trade goods.",
+                  "category": "landmark",
+                  "coords": [
+                        32.574613,
+                        0.277035
+                  ]
+            },
+            {
+                  "name": "The Pavillon Gardens",
+                  "text": "A cultivated garden space in Makindye featuring pavilion structures for outdoor leisure.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601062,
+                        0.276684
+                  ]
+            },
+            {
+                  "name": "Wonder World Amusement Park",
+                  "text": "This lively amusement park provides a variety of family-friendly rides and recreational activities in Makindye.",
+                  "category": "recreational",
+                  "coords": [
+                        32.606343,
+                        0.283295
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-102",
     coords: [32.5833, 0.2833],
@@ -2435,7 +3173,52 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kawempe-cities-v2",
+    id: "kawempe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mutesa Hill",
+                  "text": "Das Denkmal auf dem Mutesa Hill steht auf einer Anhöhe und überblickt kawempe-cities-v2.",
+                  "category": "historical",
+                  "coords": [
+                        32.548486,
+                        0.368619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mutesa Hill",
+                  "text": "A Mutesa Hill emlékműve egy magaslaton áll, és kawempe-cities-v2 felé magasodik.",
+                  "category": "historical",
+                  "coords": [
+                        32.548486,
+                        0.368619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mutesa Hill",
+                  "text": "Monumentul Mutesa Hill este așezat pe o colină ce domină regiunea kawempe-cities-v2.",
+                  "category": "historical",
+                  "coords": [
+                        32.548486,
+                        0.368619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mutesa Hill",
+                  "text": "The Mutesa Hill monument stands on elevated ground overlooking the bustling kawempe-cities-v2.",
+                  "category": "historical",
+                  "coords": [
+                        32.548486,
+                        0.368619
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-102",
     coords: [32.5667, 0.3833],
@@ -2833,7 +3616,52 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "nebbi-cities-v2",
+    id: "nebbi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mayors Garden",
+                  "text": "Der Mayors Garden ist eine städtische Parkanlage, die Erholungssuchenden schattige Bäume und gepflegte Rasenflächen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088749,
+                        2.479697
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mayors Garden",
+                  "text": "A Mayors Garden egy városi park, amely árnyas fákkal és gondozott pázsittal várja a pihenni vágyókat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088749,
+                        2.479697
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mayors Garden",
+                  "text": "Mayors Garden este un parc urban care oferă copaci umbroși și suprafețe cu gazon îngrijit pentru recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088749,
+                        2.479697
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mayors Garden",
+                  "text": "Mayors Garden is a public urban park featuring well-maintained green spaces and shaded areas for leisurely walks.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088749,
+                        2.479697
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-309",
     coords: [31.0833, 2.4833],
@@ -3053,7 +3881,52 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "wakiso-cities-v2",
+    id: "wakiso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hakuna Matata Fun City",
+                  "text": "Die Hakuna Matata Fun City ist ein belebter Freizeitpark mit Fahrgeschäften, der die Skyline von wakiso-cities-v2 prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.501085,
+                        0.390948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hakuna Matata Fun City",
+                  "text": "A Hakuna Matata Fun City egy nyüzsgő vidámpark, amely wakiso-cities-v2 látképét színesíti.",
+                  "category": "landmark",
+                  "coords": [
+                        32.501085,
+                        0.390948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hakuna Matata Fun City",
+                  "text": "Hakuna Matata Fun City este un parc de distracții plin de viață care atrage vizitatorii în wakiso-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        32.501085,
+                        0.390948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hakuna Matata Fun City",
+                  "text": "Hakuna Matata Fun City is a lively amusement park bringing recreational thrills to wakiso-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        32.501085,
+                        0.390948
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-113",
     coords: [32.4833, 0.4],
@@ -3274,7 +4147,52 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kapchorwa-cities-v2",
+    id: "kapchorwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "State Lodge",
+                  "text": "Die Kapchorwa State Lodge dient als offizieller Regierungsrückzugsort und liegt in der dramatischen, hügeligen Landschaft Ostugandas.",
+                  "category": "landmark",
+                  "coords": [
+                        34.450369,
+                        1.378745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "State Lodge",
+                  "text": "A hivatalos kormányzati rezidenciaként szolgáló kapchorwai State Lodge Kelet-Uganda drámai, dombos táján fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        34.450369,
+                        1.378745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "State Lodge",
+                  "text": "Servind ca refugiu guvernamental oficial, Kapchorwa State Lodge este situată în peisajul dramatic și deluros din estul Ugandei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.450369,
+                        1.378745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "State Lodge",
+                  "text": "Serving as an official government retreat, the Kapchorwa State Lodge is set against the dramatic, hilly landscape of eastern Uganda.",
+                  "category": "landmark",
+                  "coords": [
+                        34.450369,
+                        1.378745
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-206",
     coords: [34.45, 1.4],
@@ -3406,7 +4324,52 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kabale-cities-v2",
+    id: "kabale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kampus villa watching room",
+                  "text": "Ein lokaler Kunst- und Besichtigungsraum, der der akademischen Gemeinschaft in Kabale dient.",
+                  "category": "cultural",
+                  "coords": [
+                        29.984795,
+                        -1.275075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kampus villa watching room",
+                  "text": "A kabalei akadémiai közösséget kiszolgáló helyi művészeti és kilátótér.",
+                  "category": "cultural",
+                  "coords": [
+                        29.984795,
+                        -1.275075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kampus villa watching room",
+                  "text": "Un spațiu local de artă și vizionare care deservește comunitatea academică din Kabale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.984795,
+                        -1.275075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampus villa watching room",
+                  "text": "A local arts and viewing space serving the academic community in Kabale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.984795,
+                        -1.275075
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-404",
     coords: [29.9833, -1.25],

@@ -48,7 +48,88 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-nouadhibou-port-economic-v2.webp",
   },
   {
-    id: "mauritania-zouerat-mine-economic-v2",
+    id: "mauritania-zouerat-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Med Cheikhe",
+                  "text": "Ein markantes lokales Wahrzeichen in der Nähe der umfangreichen Eisenerzminen von Zouérat.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            },
+            {
+                  "name": "e de Zou",
+                  "text": "Ein kultureller Ausstellungsraum, der sich mit der tief verwurzelten Bergbaugeschichte der Region Zouérat befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477122,
+                        22.735896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Med Cheikhe",
+                  "text": "Egy kiemelkedő helyi nevezetesség Zouérat kiterjedt vasércbányászati műveleteinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            },
+            {
+                  "name": "e de Zou",
+                  "text": "A Zouérat régió mélyen gyökerező bányászati történelmére fókuszáló kulturális kiállítótér.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477122,
+                        22.735896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Med Cheikhe",
+                  "text": "Un punct de reper local proeminent situat în apropierea operațiunilor extinse de extracție a minereului de fier din Zouérat.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            },
+            {
+                  "name": "e de Zou",
+                  "text": "Un spațiu expozițional cultural axat pe istoria minieră profund înrădăcinată a regiunii Zouérat.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477122,
+                        22.735896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Med Cheikhe",
+                  "text": "A prominent local landmark situated near the extensive iron ore mining operations of Zouérat.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            },
+            {
+                  "name": "e de Zou",
+                  "text": "A cultural exhibition space focusing on the deep-rooted mining history of the Zouérat region.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477122,
+                        22.735896
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "mine",
     name: { de: "Zouerat-Mine", hu: "Zouerat-bánya", ro: "Mina Zouerat", en: "Zouerat Mine" },
@@ -480,7 +561,52 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-akjoujt-mine-economic-v2.webp",
   },
   {
-    id: "mauritania-nouakchott-industrial-zone-economic-v2",
+    id: "mauritania-nouakchott-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ehel Diddah Baiba",
+                  "text": "Ehel Diddah Baiba dient als Aussichtspunkt mit Blick auf das geschäftige Industriegebiet von Nouakchott.",
+                  "category": "natural",
+                  "coords": [
+                        -15.932554,
+                        18.146181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ehel Diddah Baiba",
+                  "text": "Az Ehel Diddah Baiba kilátópontról a nyüzsgő nouakchotti ipari övezetre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -15.932554,
+                        18.146181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ehel Diddah Baiba",
+                  "text": "Ehel Diddah Baiba servește ca un punct de belvedere cu vedere la zona industrială plină de viață din Nouakchott.",
+                  "category": "natural",
+                  "coords": [
+                        -15.932554,
+                        18.146181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ehel Diddah Baiba",
+                  "text": "Ehel Diddah Baiba serves as a viewpoint overlooking the bustling industrial zone of Nouakchott.",
+                  "category": "natural",
+                  "coords": [
+                        -15.932554,
+                        18.146181
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "industry",
     name: { de: "Industriegebiet Nouakchott", hu: "Nouakchott ipari övezet", ro: "Zona industrială Nouakchott", en: "Nouakchott Industrial Zone" },
@@ -1060,7 +1186,52 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-nouakchott-market-v2-economic-v2.webp",
   },
   {
-    id: "mauritania-zouerat-rail-economic-v2",
+    id: "mauritania-zouerat-rail-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cheuf Lasrag",
+                  "text": "Ein schroffer Berggipfel mit Blick auf den wichtigen Eisenerzabbau- und Eisenbahnknotenpunkt Zouérat.",
+                  "category": "natural",
+                  "coords": [
+                        -13.502106,
+                        22.516023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheuf Lasrag",
+                  "text": "Egy zord hegycsúcs, amely Zouérat fontos vasércbányászati és vasúti csomópontjára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -13.502106,
+                        22.516023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheuf Lasrag",
+                  "text": "Un vârf de munte accidentat care domină centrul feroviar și de extracție a minereului de fier din Zouérat.",
+                  "category": "natural",
+                  "coords": [
+                        -13.502106,
+                        22.516023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheuf Lasrag",
+                  "text": "A rugged mountain peak overlooking the vital iron-ore mining and railway hub of Zouérat.",
+                  "category": "natural",
+                  "coords": [
+                        -13.502106,
+                        22.516023
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "industry",
     name: { de: "SNIM-Bahnlinie", hu: "SNIM vasútvonal", ro: "Linia ferată SNIM", en: "SNIM Railway Line" },
@@ -1105,7 +1276,124 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-zouerat-rail-economic-v2.webp",
   },
   {
-    id: "mauritania-boghe-irrigation-economic-v2",
+    id: "mauritania-boghe-irrigation-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt Classée de Lopel",
+                  "text": "Der klassifizierte Wald von Lopel liegt in der Nähe von Boghé und bietet eine geschützte Grünfläche inmitten der umliegenden Agrarlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -14.325408,
+                        16.578629
+                  ]
+            },
+            {
+                  "name": "Forêt Classée de Ganki",
+                  "text": "Die Forêt Classée de Ganki dient als wichtiges Umweltreservat in der Region Boghé.",
+                  "category": "natural",
+                  "coords": [
+                        -14.263711,
+                        16.542577
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes",
+                  "text": "Das Maison de Jeunes in Boghé fungiert als lebendiger Gemeindetreffpunkt für die lokale Jugend und kulturelle Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273425,
+                        16.583862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt Classée de Lopel",
+                  "text": "A Boghé közelében található Lopel minősített erdő védett zöldterületet kínál a környező mezőgazdasági táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -14.325408,
+                        16.578629
+                  ]
+            },
+            {
+                  "name": "Forêt Classée de Ganki",
+                  "text": "A Forêt Classée de Ganki alapvető környezeti rezervátumként szolgál Boghé régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -14.263711,
+                        16.542577
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes",
+                  "text": "A boghéi Maison de Jeunes a helyi ifjúsági és kulturális tevékenységek nyüzsgő közösségi központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273425,
+                        16.583862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt Classée de Lopel",
+                  "text": "Situată lângă Boghé, pădurea clasificată Lopel oferă un spațiu verde protejat în mijlocul peisajului agricol din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -14.325408,
+                        16.578629
+                  ]
+            },
+            {
+                  "name": "Forêt Classée de Ganki",
+                  "text": "Forêt Classée de Ganki servește ca rezervație ecologică esențială în regiunea Boghé.",
+                  "category": "natural",
+                  "coords": [
+                        -14.263711,
+                        16.542577
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes",
+                  "text": "Maison de Jeunes din Boghé funcționează ca un centru comunitar vibrant pentru tineretul local și activitățile culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273425,
+                        16.583862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt Classée de Lopel",
+                  "text": "Located near Boghé, the Lopel classified forest offers a protected green space amid the surrounding agricultural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -14.325408,
+                        16.578629
+                  ]
+            },
+            {
+                  "name": "Forêt Classée de Ganki",
+                  "text": "The Forêt Classée de Ganki serves as an essential environmental reserve in the Boghé region.",
+                  "category": "natural",
+                  "coords": [
+                        -14.263711,
+                        16.542577
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes",
+                  "text": "The Maison de Jeunes in Boghé functions as a vibrant community hub for local youth and cultural activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273425,
+                        16.583862
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "industry",
     name: { de: "Bewässerungsprojekt Boghe", hu: "Boghe öntözési projekt", ro: "Proiect de irigații Boghe", en: "Boghe Irrigation Project" },
@@ -1240,7 +1528,52 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-tichitt-date-economic-v2.webp",
   },
   {
-    id: "mauritania-nouadhibou-free-zone-economic-v2",
+    id: "mauritania-nouadhibou-free-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ehl lekhdeym",
+                  "text": "Eine lokale Sehenswürdigkeit in der geschäftigen Freihandelszone von Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ehl lekhdeym",
+                  "text": "Egy helyi látványosság Nouadhibou nyüzsgő gazdasági szabadövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ehl lekhdeym",
+                  "text": "O atracție locală situată în aglomerata zonă economică liberă din Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ehl lekhdeym",
+                  "text": "A local attraction situated within the bustling economic free zone of Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "industry",
     name: { de: "Freihandelszone Nouadhibou", hu: "Nouadhibou szabadkereskedelmi övezet", ro: "Zona liberă comercială Nouadhibou", en: "Nouadhibou Free Trade Zone" },
@@ -1420,7 +1753,52 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-selibaby-trade-economic-v2.webp",
   },
   {
-    id: "mauritania-nouakchott-port-economic-v2",
+    id: "mauritania-nouakchott-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Nouakchott",
+                  "text": "Dieser belebte Sandstrand ist berühmt für die bunten Pirogen der Fischer, die jeden Nachmittag mit frischem Meeresfang anlanden.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.02691,
+                        18.027973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Nouakchott",
+                  "text": "Ez a nyüzsgő homokos strand a halászok színes pirogjairól híres, amelyek minden délután friss tengeri fogással érkeznek a partra.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.02691,
+                        18.027973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Nouakchott",
+                  "text": "Această plajă de nisip animată este renumită pentru pirogile colorate ale pescarilor care acostează în fiecare după-amiază cu capturi proaspete din mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.02691,
+                        18.027973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Nouakchott",
+                  "text": "This bustling sandy beach is famous for the fishermen's colorful pirogues that land every afternoon with fresh ocean catches.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.02691,
+                        18.027973
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "port",
     name: { de: "Hafen Nouakchott", hu: "Nouakchott kikötő", ro: "Portul Nouakchott", en: "Nouakchott Port" },

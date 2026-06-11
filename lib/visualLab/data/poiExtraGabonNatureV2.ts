@@ -250,7 +250,52 @@ export const poiExtraGabonNatureV2: POI[] = [
     },
   },
   {
-    id: "cap-lopez-nature-v2",
+    id: "cap-lopez-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage du Cap Lopez",
+                  "text": "Ein sandiger Küstenabschnitt, der sich an der äußersten Spitze der Halbinsel Cap Lopez befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711522,
+                        -0.61871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage du Cap Lopez",
+                  "text": "Homokos tengerparti látványosság a Cap Lopez-félsziget legcsücskében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711522,
+                        -0.61871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage du Cap Lopez",
+                  "text": "O atracție de coastă cu nisip situată chiar la vârful peninsulei Cap Lopez.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711522,
+                        -0.61871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage du Cap Lopez",
+                  "text": "A sandy coastal attraction located at the very tip of the Cap Lopez peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711522,
+                        -0.61871
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "GA-8",
     coords: [8.7100, -0.6300],
@@ -718,7 +763,52 @@ export const poiExtraGabonNatureV2: POI[] = [
     },
   },
   {
-    id: "birougou-forest-nature-v2",
+    id: "birougou-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de Birougou",
+                  "text": "Der Parc National de Birougou ist ein weitläufiges Naturschutzgebiet, das eine vielfältige Fläche des zentralafrikanischen Waldökosystems schützt.",
+                  "category": "natural",
+                  "coords": [
+                        12.284964,
+                        -1.806074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Birougou",
+                  "text": "A Parc National de Birougou egy kiterjedt természetvédelmi terület, amely a közép-afrikai erdei ökoszisztéma változatos részét védi.",
+                  "category": "natural",
+                  "coords": [
+                        12.284964,
+                        -1.806074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Birougou",
+                  "text": "Parc National de Birougou este o rezervație naturală extinsă care protejează o zonă diversă a ecosistemului forestier central-african.",
+                  "category": "natural",
+                  "coords": [
+                        12.284964,
+                        -1.806074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National de Birougou",
+                  "text": "Parc National de Birougou is a sprawling nature reserve protecting a diverse expanse of central African forest ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        12.284964,
+                        -1.806074
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GA-4",
     coords: [12.3000, -1.8000],

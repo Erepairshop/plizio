@@ -60,7 +60,52 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
     },
   },
   {
-    id: "zimplats-ngezi-mine-economic-v2",
+    id: "zimplats-ngezi-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ngezi Recreational Park",
+                  "text": "Der Ngezi Recreational Park ist ein geschütztes Naturschutzgebiet in der Nähe des örtlichen Bergbaugebiets.",
+                  "category": "natural",
+                  "coords": [
+                        30.401507,
+                        -18.691028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ngezi Recreational Park",
+                  "text": "A Ngezi Recreational Park egy védett természeti rezervátum a helyi bányászati terület közelében.",
+                  "category": "natural",
+                  "coords": [
+                        30.401507,
+                        -18.691028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ngezi Recreational Park",
+                  "text": "Ngezi Recreational Park este o rezervație naturală protejată situată în apropierea zonei miniere locale.",
+                  "category": "natural",
+                  "coords": [
+                        30.401507,
+                        -18.691028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ngezi Recreational Park",
+                  "text": "Ngezi Recreational Park is a protected nature reserve situated near the local mining area.",
+                  "category": "natural",
+                  "coords": [
+                        30.401507,
+                        -18.691028
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZW-MW",
     coords: [30.3333, -18.6833],
@@ -951,7 +996,88 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
     },
   },
   {
-    id: "mutare-board-paper-mills-economic-v2",
+    id: "mutare-board-paper-mills-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mutare Heights",
+                  "text": "Die Mutare Heights sind ein beeindruckender Aussichtspunkt, der den Besuchern eine weitreichende Sicht über die gebirgige Grenzregion Simbabwes gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        32.625865,
+                        -18.942584
+                  ]
+            },
+            {
+                  "name": "Christmas Pass",
+                  "text": "Der Christmas Pass ist ein steiler Gebirgspass in den Eastern Highlands, der atemberaubende Blicke über das tief gelegene Mutare bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.634432,
+                        -18.946138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mutare Heights",
+                  "text": "A Mutare Heights egy lenyűgöző kilátópont, amely messzire nyúló panorámát biztosít Zimbabwe hegyvidéki határvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        32.625865,
+                        -18.942584
+                  ]
+            },
+            {
+                  "name": "Christmas Pass",
+                  "text": "A Christmas Pass egy meredek hegyi hágó a Keleti-felföldön, amely lélegzetelállító kilátást nyújt a mélyben fekvő Mutare városára.",
+                  "category": "natural",
+                  "coords": [
+                        32.634432,
+                        -18.946138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mutare Heights",
+                  "text": "Mutare Heights este un punct de observare impresionant, care oferă vizitatorilor o vedere amplă asupra regiunii muntoase de graniță a Zimbabwe-ului.",
+                  "category": "natural",
+                  "coords": [
+                        32.625865,
+                        -18.942584
+                  ]
+            },
+            {
+                  "name": "Christmas Pass",
+                  "text": "Christmas Pass este o trecătoare montană abruptă în regiunea Eastern Highlands, care oferă priveliști uimitoare spre orașul Mutare.",
+                  "category": "natural",
+                  "coords": [
+                        32.634432,
+                        -18.946138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mutare Heights",
+                  "text": "Mutare Heights is an impressive viewpoint that grants visitors a sweeping panorama over Zimbabwe's mountainous border region.",
+                  "category": "natural",
+                  "coords": [
+                        32.625865,
+                        -18.942584
+                  ]
+            },
+            {
+                  "name": "Christmas Pass",
+                  "text": "The Christmas Pass is a steep mountain pass in the Eastern Highlands providing breathtaking views down into Mutare.",
+                  "category": "natural",
+                  "coords": [
+                        32.634432,
+                        -18.946138
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZW-MA",
     coords: [32.6500, -18.9667],
@@ -1071,7 +1197,88 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
     },
   },
   {
-    id: "quest-motor-corporation-economic-v2",
+    id: "quest-motor-corporation-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dangamvura",
+                  "text": "Dieses in einem Wohnvorort gelegene Heimatmuseum stellt kulturelle Artefakte aus der Region Mutare aus.",
+                  "category": "museum",
+                  "coords": [
+                        32.590551,
+                        -19.008441
+                  ]
+            },
+            {
+                  "name": "Busstop Ndongwe",
+                  "text": "Dieser Verkehrsknotenpunkt in Mutare dient als belebter lokaler Anziehungspunkt und Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.58932,
+                        -19.009492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dangamvura",
+                  "text": "A lakóövezetben található helyi múzeum a Mutare régióból származó kulturális leleteket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        32.590551,
+                        -19.008441
+                  ]
+            },
+            {
+                  "name": "Busstop Ndongwe",
+                  "text": "Ez a mutarei közlekedési csomópont nyüzsgő helyi látványosságként és találkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        32.58932,
+                        -19.009492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dangamvura",
+                  "text": "Situat într-o suburbie rezidențială, acest muzeu local expune artefacte culturale din regiunea Mutare.",
+                  "category": "museum",
+                  "coords": [
+                        32.590551,
+                        -19.008441
+                  ]
+            },
+            {
+                  "name": "Busstop Ndongwe",
+                  "text": "Acest nod de transport din Mutare servește ca o atracție locală plină de viață și punct de adunare.",
+                  "category": "landmark",
+                  "coords": [
+                        32.58932,
+                        -19.009492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dangamvura",
+                  "text": "Situated in a residential suburb, this local museum exhibits cultural artefacts from the Mutare region.",
+                  "category": "museum",
+                  "coords": [
+                        32.590551,
+                        -19.008441
+                  ]
+            },
+            {
+                  "name": "Busstop Ndongwe",
+                  "text": "This transport hub in Mutare serves as a bustling local attraction and gathering point.",
+                  "category": "landmark",
+                  "coords": [
+                        32.58932,
+                        -19.009492
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZW-MA",
     coords: [32.6333, -18.9833],
@@ -1371,7 +1578,52 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
     },
   },
   {
-    id: "trojan-nickel-mine-economic-v2",
+    id: "trojan-nickel-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paradise Pools",
+                  "text": "Diese malerischen Felsenpools in der Nähe des Abbaugebiets bieten einen klaren, natürlichen Süßwasserrückzugsort umgeben von schroffen Granitformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.378201,
+                        -17.377707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paradise Pools",
+                  "text": "Ezek a festői sziklamedencék a bányaterület közelében tiszta, természetes édesvizű menedéket kínálnak robusztus gránitképződményekkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        31.378201,
+                        -17.377707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paradise Pools",
+                  "text": "Aceste piscine pitorești din stâncă aflate lângă zona minieră oferă un refugiu natural cu apă dulce și limpede, înconjurat de formațiuni accidentate de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        31.378201,
+                        -17.377707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paradise Pools",
+                  "text": "These scenic rock pools near the mining area offer a clear, natural freshwater retreat surrounded by rugged granite formations.",
+                  "category": "landmark",
+                  "coords": [
+                        31.378201,
+                        -17.377707
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZW-MC",
     coords: [31.3500, -17.3167],
@@ -1611,7 +1863,196 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
     },
   },
   {
-    id: "harare-inland-port-economic-v2",
+    id: "harare-inland-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kutsaga Reseach Station",
+                  "text": "Diese weitläufige landwirtschaftliche Forschungseinrichtung in der Nähe des Binnenhafens ist weltweit für ihre wegweisenden Tabakstudien anerkannt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.122052,
+                        -17.91859
+                  ]
+            },
+            {
+                  "name": "The Palm Haven",
+                  "text": "Dieser entspannende Ort, der sich durch seine von Palmen gesäumten Gärten auszeichnet, liegt in der industriellen Umgebung des Binnenhafens von Harare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.090277,
+                        -17.856539
+                  ]
+            },
+            {
+                  "name": "Skylake bore drilling",
+                  "text": "Dieses Industriegelände betreibt schwere Maschinen für Brunnenbohrungen in der Nähe des aktiven Logistikknotenpunkts des Binnenhafens.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095138,
+                        -17.829485
+                  ]
+            },
+            {
+                  "name": "Haka Game Park",
+                  "text": "Dieses eingezäunte Naturschutzgebiet in der Nähe des Binnenhafens schützt einen Waldlebensraum, in dem Besucher Zebras und Antilopen beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        31.152449,
+                        -17.835898
+                  ]
+            },
+            {
+                  "name": "Mukuvisi Woodlands",
+                  "text": "Dieses ruhige Stück erhaltener Miombo-Wälder in der Nähe des Binnenhafens bietet erhöhte Aussichtsplattformen zur Beobachtung der einheimischen afrikanischen Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        31.09073,
+                        -17.844484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kutsaga Reseach Station",
+                  "text": "Ez a szárazföldi kikötő közelében elterülő kiterjedt mezőgazdasági kutatóintézet világszerte elismert úttörő dohánytanulmányairól.",
+                  "category": "landmark",
+                  "coords": [
+                        31.122052,
+                        -17.91859
+                  ]
+            },
+            {
+                  "name": "The Palm Haven",
+                  "text": "Ez a pihentető, pálmafákkal szegélyezett kertjeivel jellemezhető hely a hararei szárazföldi kikötő ipari szomszédságában található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.090277,
+                        -17.856539
+                  ]
+            },
+            {
+                  "name": "Skylake bore drilling",
+                  "text": "Ez az ipari telep nehézgépeket üzemeltet kútfeúráshoz a szárazföldi kikötő aktív logisztikai csomópontja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095138,
+                        -17.829485
+                  ]
+            },
+            {
+                  "name": "Haka Game Park",
+                  "text": "Ez a szárazföldi kikötő közelében lévő bekerített természetvédelmi terület egy erdei élőhelyet véd, ahol a látogatók zebrákat és antilopokat láthatnak.",
+                  "category": "natural",
+                  "coords": [
+                        31.152449,
+                        -17.835898
+                  ]
+            },
+            {
+                  "name": "Mukuvisi Woodlands",
+                  "text": "A szárazföldi kikötő közelében fekvő, megőrzött miombo-erdőnek ez a nyugodt foltja magaslati kilátókat kínál a helyi afrikai vadvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        31.09073,
+                        -17.844484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kutsaga Reseach Station",
+                  "text": "Această vastă facilitate de cercetare agricolă din apropierea portului interior este recunoscută la nivel global pentru studiile sale de pionierat asupra tutunului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.122052,
+                        -17.91859
+                  ]
+            },
+            {
+                  "name": "The Palm Haven",
+                  "text": "Acest loc relaxant, caracterizat de grădinile sale marginite de palmieri, se află în vecinătatea industrială a portului interior Harare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.090277,
+                        -17.856539
+                  ]
+            },
+            {
+                  "name": "Skylake bore drilling",
+                  "text": "Acest complex industrial operează utilaje grele pentru forarea puțurilor în apropierea centrului logistic activ al portului interior.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095138,
+                        -17.829485
+                  ]
+            },
+            {
+                  "name": "Haka Game Park",
+                  "text": "Această rezervație naturală împrejmuită din apropierea portului interior protejează un habitat forestier unde vizitatorii pot observa zebre și antilope.",
+                  "category": "natural",
+                  "coords": [
+                        31.152449,
+                        -17.835898
+                  ]
+            },
+            {
+                  "name": "Mukuvisi Woodlands",
+                  "text": "Această porțiune liniștită de pădure de miombo conservată, situată lângă portul interior, oferă platforme de vizionare ridicate pentru observarea vieții sălbatice native africane.",
+                  "category": "natural",
+                  "coords": [
+                        31.09073,
+                        -17.844484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kutsaga Reseach Station",
+                  "text": "This sprawling agricultural research facility near the inland port is globally recognized for its pioneering tobacco studies.",
+                  "category": "landmark",
+                  "coords": [
+                        31.122052,
+                        -17.91859
+                  ]
+            },
+            {
+                  "name": "The Palm Haven",
+                  "text": "This relaxing venue, characterized by its palm-lined gardens, sits in the industrial vicinity of the Harare inland port.",
+                  "category": "landmark",
+                  "coords": [
+                        31.090277,
+                        -17.856539
+                  ]
+            },
+            {
+                  "name": "Skylake bore drilling",
+                  "text": "This industrial compound operates heavy machinery for well drilling near the active logistics hub of the inland port.",
+                  "category": "landmark",
+                  "coords": [
+                        31.095138,
+                        -17.829485
+                  ]
+            },
+            {
+                  "name": "Haka Game Park",
+                  "text": "This fenced nature reserve near the inland port protects a woodland habitat where visitors can spot zebras and antelopes.",
+                  "category": "natural",
+                  "coords": [
+                        31.152449,
+                        -17.835898
+                  ]
+            },
+            {
+                  "name": "Mukuvisi Woodlands",
+                  "text": "This tranquil patch of preserved miombo woodland near the inland port offers elevated viewing platforms for observing native African wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        31.09073,
+                        -17.844484
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZW-HA",
     coords: [31.0667, -17.8500],

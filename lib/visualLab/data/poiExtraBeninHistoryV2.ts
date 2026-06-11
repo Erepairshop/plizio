@@ -3,7 +3,412 @@ import type { POI } from "./poi";
 
 export const poiExtraBeninHistoryV2: POI[] = [
   {
-    id: "royal-palaces-abomey-history-v2",
+    id: "royal-palaces-abomey-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des amazones du roi Behanzin",
+                  "text": "Dieser Gedenkplatz ist den legendären Kriegerinnen, den Dahomey-Amazonen, gewidmet, die unter König Béhanzin dienten.",
+                  "category": "historical",
+                  "coords": [
+                        2.023732,
+                        7.182677
+                  ]
+            },
+            {
+                  "name": "Residence du prince walino Gbehanzin",
+                  "text": "Die ehemalige fürstliche Residenz dient heute als historisches Museum, das die königliche Abstammung und Artefakte des Königreichs Dahomey zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        2.022026,
+                        7.18031
+                  ]
+            },
+            {
+                  "name": "Palace Gbehanzin",
+                  "text": "Die zerfallenden Ruinen dieses Palastes spiegeln das turbulente Ende des Dahomey-Reiches und den Widerstand von König Béhanzin wider.",
+                  "category": "historical",
+                  "coords": [
+                        1.99314,
+                        7.183637
+                  ]
+            },
+            {
+                  "name": "Dry fruits factory",
+                  "text": "Besucher können in dieser Einrichtung zur Konservierung lokaler Früchte die landwirtschaftlichen Verarbeitungsmethoden der Region beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        2.004605,
+                        7.181889
+                  ]
+            },
+            {
+                  "name": "Palais Agonglo",
+                  "text": "Dieses in traditionellen Erdmauern untergebrachte Museum zeigt Relikte und kunstvolle Basreliefs aus der Regierungszeit von König Agonglo.",
+                  "category": "museum",
+                  "coords": [
+                        1.999837,
+                        7.182798
+                  ]
+            },
+            {
+                  "name": "Palais Royal d'Agadja",
+                  "text": "Die Überreste des königlichen Hofes von König Agadja dienen als eindrucksvolles Denkmal für den Herrscher, der das Königreich Dahomey stark erweiterte.",
+                  "category": "historical",
+                  "coords": [
+                        1.996209,
+                        7.189749
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Houégbadja",
+                  "text": "Dieses historische Denkmal ehrt König Houégbadja, den Gründer des Staates Dahomey, und steht auf dem Gelände, auf dem er seine Macht festigte.",
+                  "category": "historical",
+                  "coords": [
+                        1.993237,
+                        7.191176
+                  ]
+            },
+            {
+                  "name": "Unik",
+                  "text": "Dieses Zentrum für zeitgenössische Kunst bietet lokalen Kunsthandwerkern einen kreativen Raum zur Herstellung und Ausstellung traditioneller Handwerkskunst aus Dahomey.",
+                  "category": "cultural",
+                  "coords": [
+                        2.015494,
+                        7.19461
+                  ]
+            },
+            {
+                  "name": "Palais du Roi BEHANZIN",
+                  "text": "Dieses königliche Anwesen bewahrt die architektonische Gestaltung und historische Artefakte aus der Ära des letzten unabhängigen Monarchen von Dahomey.",
+                  "category": "historical",
+                  "coords": [
+                        2.026008,
+                        7.183142
+                  ]
+            },
+            {
+                  "name": "Palais royaux d'Abomey",
+                  "text": "Dieser massive, als Weltkulturerbe anerkannte Komplex aus Erdpalästen verfügt über geformte Basreliefs, die die Geschichte des Königreichs Dahomey detailliert beschreiben.",
+                  "category": "castle",
+                  "coords": [
+                        1.993483,
+                        7.187328
+                  ]
+            },
+            {
+                  "name": "Palais du roi Akaba",
+                  "text": "Dieser befestigte Erdpalast ist Teil der denkmalgeschützten königlichen Anlagen und enthält Höfe und Altäre aus der Regierungszeit von König Akaba.",
+                  "category": "castle",
+                  "coords": [
+                        1.992574,
+                        7.194589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des amazones du roi Behanzin",
+                  "text": "Ezt az emléktéret a legendás női harcosoknak, a Dahomey-amazonoknak szentelték, akik Béhanzin király alatt szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        2.023732,
+                        7.182677
+                  ]
+            },
+            {
+                  "name": "Residence du prince walino Gbehanzin",
+                  "text": "Az egykori hercegi rezidencia ma történelmi múzeumként működik, bemutatva a Dahomey királyság uralkodói vérvonalát és műtárgyait.",
+                  "category": "museum",
+                  "coords": [
+                        2.022026,
+                        7.18031
+                  ]
+            },
+            {
+                  "name": "Palace Gbehanzin",
+                  "text": "A palota omladozó romjai a Dahomey birodalom viharos végét és Béhanzin király ellenállását tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        1.99314,
+                        7.183637
+                  ]
+            },
+            {
+                  "name": "Dry fruits factory",
+                  "text": "A látogatók a helyi gyümölcsök tartósítására szolgáló létesítményben figyelhetik meg a régió mezőgazdasági feldolgozási módszereit.",
+                  "category": "landmark",
+                  "coords": [
+                        2.004605,
+                        7.181889
+                  ]
+            },
+            {
+                  "name": "Palais Agonglo",
+                  "text": "A hagyományos vályogfalak között működő múzeum Agonglo király uralkodásának idejéből származó ereklyéket és bonyolult domborműveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        1.999837,
+                        7.182798
+                  ]
+            },
+            {
+                  "name": "Palais Royal d'Agadja",
+                  "text": "Agadja király udvarának maradványai erőteljes emlékműként szolgálnak az uralkodónak, aki jelentősen kiterjesztette a Dahomey királyságot.",
+                  "category": "historical",
+                  "coords": [
+                        1.996209,
+                        7.189749
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Houégbadja",
+                  "text": "Ez a történelmi emlékmű Houégbadja király, a Dahomey állam alapítója előtt tiszteleg, azon a területen állva, ahol megszilárdította hatalmát.",
+                  "category": "historical",
+                  "coords": [
+                        1.993237,
+                        7.191176
+                  ]
+            },
+            {
+                  "name": "Unik",
+                  "text": "Ez a kortárs művészeti központ kreatív központot biztosít a helyi kézművesek számára a hagyományos dahomeyi mesterségek bemutatására és gyakorlására.",
+                  "category": "cultural",
+                  "coords": [
+                        2.015494,
+                        7.19461
+                  ]
+            },
+            {
+                  "name": "Palais du Roi BEHANZIN",
+                  "text": "Ez a királyi birtok őrzi a Dahomey utolsó független uralkodójának korából származó építészeti elrendezést és történelmi leleteket.",
+                  "category": "historical",
+                  "coords": [
+                        2.026008,
+                        7.183142
+                  ]
+            },
+            {
+                  "name": "Palais royaux d'Abomey",
+                  "text": "A világörökség részeként elismert hatalmas, vályogból épült palotaegyüttes a Dahomey Királyság történetét megörökítő, faragott domborművekkel büszkélkedhet.",
+                  "category": "castle",
+                  "coords": [
+                        1.993483,
+                        7.187328
+                  ]
+            },
+            {
+                  "name": "Palais du roi Akaba",
+                  "text": "A világörökségi királyi birtokok részét képező erődített vályogpalota Akaba király uralkodására jellemző udvarokat és oltárokat foglal magába.",
+                  "category": "castle",
+                  "coords": [
+                        1.992574,
+                        7.194589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des amazones du roi Behanzin",
+                  "text": "Această piață memorială este dedicată legendarilor războinice femei, Amazoanele Dahomey, care au slujit sub regele Béhanzin.",
+                  "category": "historical",
+                  "coords": [
+                        2.023732,
+                        7.182677
+                  ]
+            },
+            {
+                  "name": "Residence du prince walino Gbehanzin",
+                  "text": "Fosta reședință princiară funcționează acum ca un muzeu istoric care expune linia regală și artefactele regatului Dahomey.",
+                  "category": "museum",
+                  "coords": [
+                        2.022026,
+                        7.18031
+                  ]
+            },
+            {
+                  "name": "Palace Gbehanzin",
+                  "text": "Ruinele prăbușite ale acestui palat reflectă sfârșitul turbulent al imperiului Dahomey și rezistența regelui Béhanzin.",
+                  "category": "historical",
+                  "coords": [
+                        1.99314,
+                        7.183637
+                  ]
+            },
+            {
+                  "name": "Dry fruits factory",
+                  "text": "Vizitatorii pot observa metodele de procesare agricolă ale regiunii la această unitate dedicată conservării fructelor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        2.004605,
+                        7.181889
+                  ]
+            },
+            {
+                  "name": "Palais Agonglo",
+                  "text": "Găzduit între ziduri tradiționale de pământ, acest muzeu expune relicve și basoreliefuri complexe din domnia regelui Agonglo.",
+                  "category": "museum",
+                  "coords": [
+                        1.999837,
+                        7.182798
+                  ]
+            },
+            {
+                  "name": "Palais Royal d'Agadja",
+                  "text": "Rămășițele curții regale a regelui Agadja servesc drept un monument puternic dedicat conducătorului care a extins mult regatul Dahomey.",
+                  "category": "historical",
+                  "coords": [
+                        1.996209,
+                        7.189749
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Houégbadja",
+                  "text": "Acest monument istoric îl onorează pe regele Houégbadja, fondatorul statului Dahomey, fiind amplasat pe terenurile unde și-a stabilit puterea.",
+                  "category": "historical",
+                  "coords": [
+                        1.993237,
+                        7.191176
+                  ]
+            },
+            {
+                  "name": "Unik",
+                  "text": "Acest centru de arte contemporane oferă un hub creativ pentru artizanii locali care produc și expun meșteșuguri tradiționale Dahomey.",
+                  "category": "cultural",
+                  "coords": [
+                        2.015494,
+                        7.19461
+                  ]
+            },
+            {
+                  "name": "Palais du Roi BEHANZIN",
+                  "text": "Această moșie regală păstrează structura arhitecturală și artefactele istorice din epoca ultimului monarh independent din Dahomey.",
+                  "category": "historical",
+                  "coords": [
+                        2.026008,
+                        7.183142
+                  ]
+            },
+            {
+                  "name": "Palais royaux d'Abomey",
+                  "text": "Recunoscut ca sit al Patrimoniului Mondial, acest masiv complex de palate de pământ prezintă basoreliefuri sculptate care detaliază istoria Regatului Dahomey.",
+                  "category": "castle",
+                  "coords": [
+                        1.993483,
+                        7.187328
+                  ]
+            },
+            {
+                  "name": "Palais du roi Akaba",
+                  "text": "Parte a incintelor regale clasate ca patrimoniu, acest palat fortificat de pământ conține curți și altare specifice domniei regelui Akaba.",
+                  "category": "castle",
+                  "coords": [
+                        1.992574,
+                        7.194589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des amazones du roi Behanzin",
+                  "text": "This memorial square is dedicated to the legendary female warriors, the Dahomey Amazons, who served under King Béhanzin.",
+                  "category": "historical",
+                  "coords": [
+                        2.023732,
+                        7.182677
+                  ]
+            },
+            {
+                  "name": "Residence du prince walino Gbehanzin",
+                  "text": "The former princely residence now functions as a historical museum showcasing the royal lineage and artifacts of the Dahomey kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        2.022026,
+                        7.18031
+                  ]
+            },
+            {
+                  "name": "Palace Gbehanzin",
+                  "text": "The crumbling ruins of this palace reflect the turbulent end of the Dahomey empire and the resistance of King Béhanzin.",
+                  "category": "historical",
+                  "coords": [
+                        1.99314,
+                        7.183637
+                  ]
+            },
+            {
+                  "name": "Dry fruits factory",
+                  "text": "Visitors can observe the agricultural processing methods of the region at this facility dedicated to preserving local fruits.",
+                  "category": "landmark",
+                  "coords": [
+                        2.004605,
+                        7.181889
+                  ]
+            },
+            {
+                  "name": "Palais Agonglo",
+                  "text": "Housed within traditional earthen walls, this museum displays relics and intricate bas-reliefs from the reign of King Agonglo.",
+                  "category": "museum",
+                  "coords": [
+                        1.999837,
+                        7.182798
+                  ]
+            },
+            {
+                  "name": "Palais Royal d'Agadja",
+                  "text": "The remnants of King Agadja's royal court serve as a powerful monument to the ruler who greatly expanded the Dahomey kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        1.996209,
+                        7.189749
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Houégbadja",
+                  "text": "This historical monument honors King Houégbadja, the founder of the Dahomey state, standing on the very grounds where he established his power.",
+                  "category": "historical",
+                  "coords": [
+                        1.993237,
+                        7.191176
+                  ]
+            },
+            {
+                  "name": "Unik",
+                  "text": "This contemporary arts center provides a creative hub for local artisans to produce and exhibit traditional Dahomeyan crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        2.015494,
+                        7.19461
+                  ]
+            },
+            {
+                  "name": "Palais du Roi BEHANZIN",
+                  "text": "This royal estate preserves the architectural layout and historical artifacts from the era of Dahomey's final independent monarch.",
+                  "category": "historical",
+                  "coords": [
+                        2.026008,
+                        7.183142
+                  ]
+            },
+            {
+                  "name": "Palais royaux d'Abomey",
+                  "text": "Recognized as a World Heritage site, this massive complex of earthen palaces features sculpted bas-reliefs detailing the history of the Kingdom of Dahomey.",
+                  "category": "castle",
+                  "coords": [
+                        1.993483,
+                        7.187328
+                  ]
+            },
+            {
+                  "name": "Palais du roi Akaba",
+                  "text": "Part of the heritage-listed royal enclosures, this fortified earthen palace contains courtyards and altars specific to King Akaba's reign.",
+                  "category": "castle",
+                  "coords": [
+                        1.992574,
+                        7.194589
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "These UNESCO-listed earthen structures were built by the Fon people between 1625 and 1900. They served as the seat of the Kingdom of Dahomey.",
     facts: [
@@ -59,7 +464,196 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "door-no-return-ouidah-history-v2",
+    id: "door-no-return-ouidah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porte du Non-Retour",
+                  "text": "Das Tor ohne Wiederkehr ist ein monumentaler Torbogen am Strand von Ouidah, der als feierliches Museum für den Punkt der endgültigen Abreise versklavter Afrikaner fungiert.",
+                  "category": "museum",
+                  "coords": [
+                        2.08958,
+                        6.324252
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte du Non-Retour",
+                  "text": "Dieser Museumskomplex am Tor ohne Wiederkehr bietet direkt an den Sandstränden von Ouidah tiefgründige Ausstellungen über den grausamen transatlantischen Sklavenhandel.",
+                  "category": "museum",
+                  "coords": [
+                        2.083234,
+                        6.322558
+                  ]
+            },
+            {
+                  "name": "Centre de Développement Artistique et Culturel Elijah",
+                  "text": "Das Elijah Centre ist ein Kunst- und Kulturzentrum an der Küste von Ouidah in der Nähe des Tors ohne Wiederkehr, das der Bewahrung traditioneller afrikanischer Ausdrucksformen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        2.081989,
+                        6.324344
+                  ]
+            },
+            {
+                  "name": "Côté Lagune",
+                  "text": "Côté Lagune ist ein ruhiges Strandresort, das einen friedlichen Rückzugsort an den Küstengewässern der historischen Uferlinie von Ouidah bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036269,
+                        6.314269
+                  ]
+            },
+            {
+                  "name": "Côté Mer",
+                  "text": "Mit Blick auf die Wellen des Atlantiks bietet das Strandresort Côté Mer seinen Gästen eine entspannende Küstenatmosphäre in der Nähe der berühmten Denkmäler von Ouidah.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036014,
+                        6.313094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porte du Non-Retour",
+                  "text": "A Visszatérés Nélküli Kapu egy monumentális boltív az ouidah-i tengerparton, amely ünnepélyes múzeumként jelöli a rabszolgaként elhurcolt afrikaiak végső távozási pontját.",
+                  "category": "museum",
+                  "coords": [
+                        2.08958,
+                        6.324252
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte du Non-Retour",
+                  "text": "A Visszatérés Nélküli Kapunál található múzeumkomplexum közvetlenül Ouidah homokos partjainál kínál mélyreható kiállításokat a szörnyű transzatlanti rabszolga-kereskedelemről.",
+                  "category": "museum",
+                  "coords": [
+                        2.083234,
+                        6.322558
+                  ]
+            },
+            {
+                  "name": "Centre de Développement Artistique et Culturel Elijah",
+                  "text": "Az Elijah Központ egy tengerparti művészeti és kulturális csomópont Ouidah-ban, a Visszatérés Nélküli Kapu közelében, amelyet a hagyományos afrikai kifejezésmódok megőrzésének szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        2.081989,
+                        6.324344
+                  ]
+            },
+            {
+                  "name": "Côté Lagune",
+                  "text": "A Côté Lagune egy békés tengerparti üdülőhely, amely nyugodt kikapcsolódást kínál Ouidah történelmi partvonalának vizei mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036269,
+                        6.314269
+                  ]
+            },
+            {
+                  "name": "Côté Mer",
+                  "text": "Az Atlanti-óceán hullámaira néző Côté Mer tengerparti üdülőhely pihentető tengerparti hangulatot biztosít a vendégeknek Ouidah híres emlékművei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036014,
+                        6.313094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porte du Non-Retour",
+                  "text": "Poarta Fără Întoarcere este un arc monumental pe plaja din Ouidah, acționând ca un muzeu solemn al punctului de plecare finală pentru africanii înrobiți.",
+                  "category": "museum",
+                  "coords": [
+                        2.08958,
+                        6.324252
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte du Non-Retour",
+                  "text": "Acest complex muzeal de la Poarta Fără Întoarcere oferă expoziții profunde despre oribilul comerț transatlantic cu sclavi, chiar pe țărmurile nisipoase din Ouidah.",
+                  "category": "museum",
+                  "coords": [
+                        2.083234,
+                        6.322558
+                  ]
+            },
+            {
+                  "name": "Centre de Développement Artistique et Culturel Elijah",
+                  "text": "Centrul Elijah este un hub artistic și cultural de coastă din Ouidah dedicat conservării expresiilor tradiționale africane în apropierea Porții Fără Întoarcere.",
+                  "category": "cultural",
+                  "coords": [
+                        2.081989,
+                        6.324344
+                  ]
+            },
+            {
+                  "name": "Côté Lagune",
+                  "text": "Côté Lagune este o stațiune de plajă senină care oferă o evadare liniștită de-a lungul apelor de coastă ale țărmului istoric din Ouidah.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036269,
+                        6.314269
+                  ]
+            },
+            {
+                  "name": "Côté Mer",
+                  "text": "Având vedere la valurile Atlanticului, stațiunea de plajă Côté Mer oferă oaspeților o atmosferă de coastă relaxantă în apropierea monumentelor renumite din Ouidah.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036014,
+                        6.313094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porte du Non-Retour",
+                  "text": "The Door of No Return is a monumental archway on the Ouidah beach, acting as a solemn museum to the point of final departure for enslaved Africans.",
+                  "category": "museum",
+                  "coords": [
+                        2.08958,
+                        6.324252
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte du Non-Retour",
+                  "text": "This museum complex at the Door of No Return offers profound exhibits on the horrific transatlantic slave trade right on the sandy shores of Ouidah.",
+                  "category": "museum",
+                  "coords": [
+                        2.083234,
+                        6.322558
+                  ]
+            },
+            {
+                  "name": "Centre de Développement Artistique et Culturel Elijah",
+                  "text": "The Elijah Centre is a coastal arts and cultural hub in Ouidah dedicated to preserving traditional African expressions near the Door of No Return.",
+                  "category": "cultural",
+                  "coords": [
+                        2.081989,
+                        6.324344
+                  ]
+            },
+            {
+                  "name": "Côté Lagune",
+                  "text": "Côté Lagune is a serene beach resort offering a tranquil escape along the coastal waters of Ouidah's historic shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036269,
+                        6.314269
+                  ]
+            },
+            {
+                  "name": "Côté Mer",
+                  "text": "Overlooking the Atlantic waves, the Côté Mer beach resort provides guests with a relaxing coastal atmosphere near Ouidah's renowned monuments.",
+                  "category": "recreational",
+                  "coords": [
+                        2.036014,
+                        6.313094
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "This memorial site in Ouidah commemorates the millions of enslaved people deported from the coast. It serves as a somber monument to human history.",
     facts: [
@@ -103,7 +697,52 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "temple-pythons-ouidah-history-v2",
+    id: "temple-pythons-ouidah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "Ein Museum für zeitgenössische Kunst in Ouidah, das gegründet wurde, um afrikanische Künstler auf der globalen Bühne zu fördern.",
+                  "category": "museum",
+                  "coords": [
+                        2.085363,
+                        6.361503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "Kortárs művészeti múzeum Ouidahban, amelyet az afrikai művészek globális népszerűsítésére alapítottak.",
+                  "category": "museum",
+                  "coords": [
+                        2.085363,
+                        6.361503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "Un muzeu de artă contemporană din Ouidah, înființat pentru a promova artiștii africani pe scena globală.",
+                  "category": "museum",
+                  "coords": [
+                        2.085363,
+                        6.361503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fondation Zinsou",
+                  "text": "A contemporary art museum in Ouidah founded to promote African artists on the global stage.",
+                  "category": "museum",
+                  "coords": [
+                        2.085363,
+                        6.361503
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "An important spiritual site in Ouidah where pythons are held sacred by the local religion. It attracts visitors interested in West African voodoo traditions.",
     facts: [
@@ -147,7 +786,52 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "portuguese-fort-ouidah-history-v2",
+    id: "portuguese-fort-ouidah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les célébrités",
+                  "text": "Eine Sehenswürdigkeit in Ouidah in der Nähe des portugiesischen Forts, die berühmte Persönlichkeiten der lokalen Geschichte hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.092617,
+                        6.368623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les célébrités",
+                  "text": "Látványosság Ouidahban, a portugál erőd közelében, amely a helyi történelem híres alakjait emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        2.092617,
+                        6.368623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les célébrités",
+                  "text": "O atracție situată lângă Fortul Portughez din Ouidah, care evidențiază figurile celebre ale istoriei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        2.092617,
+                        6.368623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les célébrités",
+                  "text": "An attraction near the Portuguese Fort in Ouidah highlighting famous figures of local history.",
+                  "category": "landmark",
+                  "coords": [
+                        2.092617,
+                        6.368623
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "Constructed in 1721, this fort was a significant base for the Portuguese slave trade in the region. It now functions as a historical museum.",
     facts: [
@@ -191,7 +875,196 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "musee-honme-porto-novo-history-v2",
+    id: "musee-honme-porto-novo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Da-Silva",
+                  "text": "Das in einem afro-brasilianischen Haus aus der Kolonialzeit untergebrachte Musée Da-Silva dokumentiert die Geschichte der zurückkehrenden Afro-Brasilianer in musee-honme-porto-novo-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.620295,
+                        6.470726
+                  ]
+            },
+            {
+                  "name": "Musée Honmè",
+                  "text": "Das Musée Honmè ist im ehemaligen Königspalast von Porto-Novo untergebracht und bewahrt die Residenz und Artefakte von König Toffa auf.",
+                  "category": "museum",
+                  "coords": [
+                        2.625162,
+                        6.469328
+                  ]
+            },
+            {
+                  "name": "Musée du Voudon",
+                  "text": "Dieses Museum in musee-honme-porto-novo-history-v2 zeigt traditionelle Artefakte und Praktiken der lokalen Voodoo-Religion.",
+                  "category": "museum",
+                  "coords": [
+                        2.621259,
+                        6.47231
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Porto-Novo",
+                  "text": "Die Grande Mosquée de Porto-Novo ist ein markantes islamisches Gotteshaus, das mit afrobrasilianischen Architektureinflüssen in musee-honme-porto-novo-history-v2 erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        2.62811,
+                        6.471739
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame de Lourdes",
+                  "text": "Diese markante katholische Kathedrale verfügt über eine bedeutende christliche Sakralarchitektur im Viertel musee-honme-porto-novo-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        2.619416,
+                        6.472031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Da-Silva",
+                  "text": "A gyarmati kori afro-brazil házban található Musée Da-Silva a visszatérő afro-brazilok történetét dokumentálja a musee-honme-porto-novo-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.620295,
+                        6.470726
+                  ]
+            },
+            {
+                  "name": "Musée Honmè",
+                  "text": "A Porto-Novo egykori királyi palotájában helyet kapó Musée Honmè Toffa király rezidenciáját és tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        2.625162,
+                        6.469328
+                  ]
+            },
+            {
+                  "name": "Musée du Voudon",
+                  "text": "Ez a musee-honme-porto-novo-history-v2 területén található múzeum a helyi vudu vallás hagyományos tárgyait és gyakorlatait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        2.621259,
+                        6.47231
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Porto-Novo",
+                  "text": "A Grande Mosquée de Porto-Novo egy feltűnő iszlám istentiszteleti hely, amely afro-brazil építészeti hatásokkal épült a musee-honme-porto-novo-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        2.62811,
+                        6.471739
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame de Lourdes",
+                  "text": "Ez a kiemelkedő katolikus katedrális jelentős keresztény vallási építészettel rendelkezik a musee-honme-porto-novo-history-v2 negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        2.619416,
+                        6.472031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Da-Silva",
+                  "text": "Situat într-o casă afro-braziliană din epoca colonială, Musée Da-Silva documentează istoria afro-brazilienilor repatriați în musee-honme-porto-novo-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.620295,
+                        6.470726
+                  ]
+            },
+            {
+                  "name": "Musée Honmè",
+                  "text": "Găzduit în fostul palat regal din Porto-Novo, Musée Honmè conservă reședința și artefactele Regelui Toffa.",
+                  "category": "museum",
+                  "coords": [
+                        2.625162,
+                        6.469328
+                  ]
+            },
+            {
+                  "name": "Musée du Voudon",
+                  "text": "Acest muzeu din musee-honme-porto-novo-history-v2 prezintă artefacte tradiționale și practici ale religiei locale Voodoo.",
+                  "category": "museum",
+                  "coords": [
+                        2.621259,
+                        6.47231
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Porto-Novo",
+                  "text": "Grande Mosquée de Porto-Novo este un lăcaș de cult islamic impresionant, construit cu influențe arhitecturale afro-braziliene în musee-honme-porto-novo-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        2.62811,
+                        6.471739
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame de Lourdes",
+                  "text": "Această catedrală catolică proeminentă prezintă o arhitectură religioasă creștină semnificativă în districtul musee-honme-porto-novo-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        2.619416,
+                        6.472031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Da-Silva",
+                  "text": "Set in a colonial-era Afro-Brazilian house, the Musée Da-Silva documents the history of returning Afro-Brazilians in musee-honme-porto-novo-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.620295,
+                        6.470726
+                  ]
+            },
+            {
+                  "name": "Musée Honmè",
+                  "text": "Housed in the former royal palace of Porto-Novo, the Musée Honmè preserves the residence and artifacts of King Toffa.",
+                  "category": "museum",
+                  "coords": [
+                        2.625162,
+                        6.469328
+                  ]
+            },
+            {
+                  "name": "Voodoo-Museum",
+                  "text": "This museum in musee-honme-porto-novo-history-v2 showcases traditional artifacts and practices of the local Voodoo religion.",
+                  "category": "museum",
+                  "coords": [
+                        2.621259,
+                        6.47231
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Porto-Novo",
+                  "text": "The Grande Mosquée de Porto-Novo is a striking Islamic place of worship built with Afro-Brazilian architectural influences in musee-honme-porto-novo-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        2.62811,
+                        6.471739
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame de Lourdes",
+                  "text": "This prominent Catholic cathedral features significant Christian religious architecture within the musee-honme-porto-novo-history-v2 district.",
+                  "category": "religious",
+                  "coords": [
+                        2.619416,
+                        6.472031
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "This museum, located in the former residence of King Toffa, showcases the history and monarchy of Porto-Novo. It provides insight into local royalty.",
     facts: [
@@ -279,7 +1152,268 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "agongointo-underground-history-v2",
+    id: "agongointo-underground-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "AVOHOU Léonard",
+                  "text": "Mit Blick auf die unterirdische Landschaft vermittelt dieser Aussichtspunkt den Besuchern ein Gefühl für das verborgene Netzwerk der unterirdischen Siedlungen von Agongointo-Zoungoudo.",
+                  "category": "natural",
+                  "coords": [
+                        2.098444,
+                        7.177207
+                  ]
+            },
+            {
+                  "name": "Collectivité SENON",
+                  "text": "Dieser gemeinschaftliche Beobachtungspunkt bietet eine klare Sicht über das historische Gelände, in dem alte Kriegerverstecke in die Erde gehauen wurden.",
+                  "category": "natural",
+                  "coords": [
+                        2.084093,
+                        7.148366
+                  ]
+            },
+            {
+                  "name": "YEKPON Charles",
+                  "text": "Dieser Aussichtspunkt in der Nähe des archäologischen Parks lädt zur stillen Betrachtung der historischen unterirdischen Architektur ein.",
+                  "category": "natural",
+                  "coords": [
+                        2.084779,
+                        7.151684
+                  ]
+            },
+            {
+                  "name": "SEHOU Urbain",
+                  "text": "Von diesem erhöhten Punkt aus können Touristen die Lateritbodenformationen betrachten, in denen sich die berühmten unterirdischen Bunker der Region befinden.",
+                  "category": "natural",
+                  "coords": [
+                        2.08093,
+                        7.154922
+                  ]
+            },
+            {
+                  "name": "Degueli",
+                  "text": "Ausgrabungen an dieser Stätte zeigen Überreste der unterirdischen Behausungen, die aus eisenhaltigem Boden gehauen wurden, um Krieger des 16. Jahrhunderts zu schützen.",
+                  "category": "historical",
+                  "coords": [
+                        2.084785,
+                        7.122087
+                  ]
+            },
+            {
+                  "name": "Wankon",
+                  "text": "Diese archäologische Ausgrabung legt die komplexen, miteinander verbundenen Kammern frei, die während der Expansion des Dahomey-Reiches als historischer Zufluchtsort dienten.",
+                  "category": "historical",
+                  "coords": [
+                        2.113952,
+                        7.113116
+                  ]
+            },
+            {
+                  "name": "Mignonhi",
+                  "text": "Besucher dieser Ausgrabungsstätten können die tiefen, gut erhaltenen Gruben besichtigen, die als verdeckte Wohnräume und Waffenkammern dienten.",
+                  "category": "historical",
+                  "coords": [
+                        2.098725,
+                        7.118329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AVOHOU Léonard",
+                  "text": "A földalatti tájra néző kilátóból a látogatók képet kaphatnak az Agongointo-Zoungoudo alatti búvóhelyek rejtett hálózatáról.",
+                  "category": "natural",
+                  "coords": [
+                        2.098444,
+                        7.177207
+                  ]
+            },
+            {
+                  "name": "Collectivité SENON",
+                  "text": "Ez a közösségi megfigyelőpont tiszta rálátást biztosít arra a történelmi terepre, ahol a régi harcosok földalatti rejtekhelyeit alakították ki.",
+                  "category": "natural",
+                  "coords": [
+                        2.084093,
+                        7.148366
+                  ]
+            },
+            {
+                  "name": "YEKPON Charles",
+                  "text": "A régészeti park közelében található kilátópont a történelmi, földalatti építészet csendes szemlélésére ad lehetőséget.",
+                  "category": "natural",
+                  "coords": [
+                        2.084779,
+                        7.151684
+                  ]
+            },
+            {
+                  "name": "SEHOU Urbain",
+                  "text": "Erről a magaslati pontról a turisták megtekinthetik azokat a laterit talajformációkat, amelyek a régió híres földalatti bunkereit rejtik.",
+                  "category": "natural",
+                  "coords": [
+                        2.08093,
+                        7.154922
+                  ]
+            },
+            {
+                  "name": "Degueli",
+                  "text": "A helyszínen végzett ásatások során feltárták azoknak a vasas talajba vájt földalatti lakóhelyeknek a maradványait, amelyek a 16. századi harcosokat védték.",
+                  "category": "historical",
+                  "coords": [
+                        2.084785,
+                        7.122087
+                  ]
+            },
+            {
+                  "name": "Wankon",
+                  "text": "Ez a régészeti ásatás azokat a bonyolult, egymással összeköttetésben álló kamrákat tárja fel, amelyeket a Dahomey királyság terjeszkedése idején használtak menedékként.",
+                  "category": "historical",
+                  "coords": [
+                        2.113952,
+                        7.113116
+                  ]
+            },
+            {
+                  "name": "Mignonhi",
+                  "text": "Az ásatási területek látogatói megfigyelhetik a mély, jó állapotban fennmaradt gödröket, amelyek rejtett életterekként és fegyvertárakként működtek.",
+                  "category": "historical",
+                  "coords": [
+                        2.098725,
+                        7.118329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AVOHOU Léonard",
+                  "text": "Privind peste peisajul subteran, acest punct de belvedere oferă vizitatorilor o idee despre rețeaua ascunsă a locuințelor subterane din Agongointo-Zoungoudo.",
+                  "category": "natural",
+                  "coords": [
+                        2.098444,
+                        7.177207
+                  ]
+            },
+            {
+                  "name": "Collectivité SENON",
+                  "text": "Acest punct de observație comunitar oferă linii de vizibilitate clare asupra terenului istoric unde vechile ascunzători ale războinicilor erau sculptate în pământ.",
+                  "category": "natural",
+                  "coords": [
+                        2.084093,
+                        7.148366
+                  ]
+            },
+            {
+                  "name": "YEKPON Charles",
+                  "text": "Situat în apropierea parcului arheologic, acest punct de observație permite contemplarea liniștită a arhitecturii subterane istorice.",
+                  "category": "natural",
+                  "coords": [
+                        2.084779,
+                        7.151684
+                  ]
+            },
+            {
+                  "name": "SEHOU Urbain",
+                  "text": "Din acest loc elevat, turiștii pot cerceta formațiunile de sol laterit care adăpostesc faimoasele buncăre subterane ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        2.08093,
+                        7.154922
+                  ]
+            },
+            {
+                  "name": "Degueli",
+                  "text": "Săpăturile din acest sit dezvăluie rămășițe ale locuințelor subterane sculptate în sol feruginos pentru a proteja războinicii din secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        2.084785,
+                        7.122087
+                  ]
+            },
+            {
+                  "name": "Wankon",
+                  "text": "Această săpătură arheologică descoperă camerele complexe, interconectate, folosite ca refugiu istoric în timpul expansiunii regatului Dahomey.",
+                  "category": "historical",
+                  "coords": [
+                        2.113952,
+                        7.113116
+                  ]
+            },
+            {
+                  "name": "Mignonhi",
+                  "text": "Vizitatorii acestor terenuri excavate pot observa gropile adânci, bine conservate, care au funcționat ca spații de locuit acoperite și armurării.",
+                  "category": "historical",
+                  "coords": [
+                        2.098725,
+                        7.118329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AVOHOU Léonard",
+                  "text": "Looking out over the subterranean landscape, this viewpoint gives visitors a sense of the hidden network of Agongointo-Zoungoudo underground dwellings.",
+                  "category": "natural",
+                  "coords": [
+                        2.098444,
+                        7.177207
+                  ]
+            },
+            {
+                  "name": "Collectivité SENON",
+                  "text": "This communal observation point provides clear sightlines over the historic terrain where ancient warrior hideouts were carved into the earth.",
+                  "category": "natural",
+                  "coords": [
+                        2.084093,
+                        7.148366
+                  ]
+            },
+            {
+                  "name": "YEKPON Charles",
+                  "text": "Situated near the archaeological park, this vantage point allows for quiet contemplation of the historic subterranean architecture.",
+                  "category": "natural",
+                  "coords": [
+                        2.084779,
+                        7.151684
+                  ]
+            },
+            {
+                  "name": "SEHOU Urbain",
+                  "text": "From this elevated spot, tourists can survey the laterite soil formations that house the region's famous underground bunkers.",
+                  "category": "natural",
+                  "coords": [
+                        2.08093,
+                        7.154922
+                  ]
+            },
+            {
+                  "name": "Degueli",
+                  "text": "Excavations at this site reveal remnants of the subterranean dwellings carved from ferruginous soil to protect 16th-century warriors.",
+                  "category": "historical",
+                  "coords": [
+                        2.084785,
+                        7.122087
+                  ]
+            },
+            {
+                  "name": "Wankon",
+                  "text": "This archaeological dig uncovers the complex, interconnected chambers used as a historical refuge during the expansion of the Dahomey kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        2.113952,
+                        7.113116
+                  ]
+            },
+            {
+                  "name": "Mignonhi",
+                  "text": "Visitors to these excavated grounds can observe the deep, well-preserved pits that functioned as covert living spaces and armories.",
+                  "category": "historical",
+                  "coords": [
+                        2.098725,
+                        7.118329
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "A complex network of underground dwellings near Bohicon, thought to have been used by ancient inhabitants. It is a rare archeological site in Benin.",
     facts: [
@@ -323,7 +1457,124 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "palace-king-nikki-history-v2",
+    id: "palace-king-nikki-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Nikki",
+                  "text": "Die Ausstellungsräume des Museums bewahren die königliche Geschichte und die Artefakte des lokalen Königreichs.",
+                  "category": "museum",
+                  "coords": [
+                        3.208102,
+                        9.925831
+                  ]
+            },
+            {
+                  "name": "peulh",
+                  "text": "Diese Burgruine bietet einen historischen Kontext zur Präsenz der Fulbe (Peulh) in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        3.205739,
+                        9.935267
+                  ]
+            },
+            {
+                  "name": "Bariba",
+                  "text": "Die Überreste der Burg unterstreichen den architektonischen Einfluss und die wehrhafte Vergangenheit der Bariba-Kultur.",
+                  "category": "castle",
+                  "coords": [
+                        3.210149,
+                        9.936586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Nikki",
+                  "text": "A múzeum kiállítótermei a helyi királyság uralkodói történelmét és műtárgyait őrzik.",
+                  "category": "museum",
+                  "coords": [
+                        3.208102,
+                        9.925831
+                  ]
+            },
+            {
+                  "name": "peulh",
+                  "text": "Ez a kastélyegyüttes történelmi kontextust nyújt a fulbék (peulh) környékbeli jelenlétéhez.",
+                  "category": "castle",
+                  "coords": [
+                        3.205739,
+                        9.935267
+                  ]
+            },
+            {
+                  "name": "Bariba",
+                  "text": "A kastély maradványai a bariba kultúra építészeti hatását és védelmi múltját emelik ki.",
+                  "category": "castle",
+                  "coords": [
+                        3.210149,
+                        9.936586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Nikki",
+                  "text": "Sălile de expoziție ale muzeului păstrează istoria regală și artefactele regatului local.",
+                  "category": "museum",
+                  "coords": [
+                        3.208102,
+                        9.925831
+                  ]
+            },
+            {
+                  "name": "peulh",
+                  "text": "Acest sit fortificat oferă context istoric cu privire la prezența poporului Fulani (Peulh) în zonă.",
+                  "category": "castle",
+                  "coords": [
+                        3.205739,
+                        9.935267
+                  ]
+            },
+            {
+                  "name": "Bariba",
+                  "text": "Rămășițele castelului evidențiază influența arhitecturală și trecutul defensiv al culturii Bariba.",
+                  "category": "castle",
+                  "coords": [
+                        3.210149,
+                        9.936586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Nikki",
+                  "text": "The museum exhibition halls preserve the regal history and artifacts of the local kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        3.208102,
+                        9.925831
+                  ]
+            },
+            {
+                  "name": "peulh",
+                  "text": "This structural castle site offers historical context regarding the Fulani (Peulh) presence in the area.",
+                  "category": "castle",
+                  "coords": [
+                        3.205739,
+                        9.935267
+                  ]
+            },
+            {
+                  "name": "Bariba",
+                  "text": "The castle remnants highlight the architectural influence and defensive past of the Bariba culture.",
+                  "category": "castle",
+                  "coords": [
+                        3.210149,
+                        9.936586
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "The center of the Bariba kingdom's traditional authority, where the Gani festival is held annually. It remains a key cultural site in northern Benin.",
     facts: [
@@ -367,7 +1618,304 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "akaba-idenan-ketou-history-v2",
+    id: "akaba-idenan-ketou-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt ORO de Kpankou",
+                  "text": "Dieser heilige Wald dient als lebendiges Museum und bewahrt die angestammten Bäume und geheimen gesellschaftlichen Rituale der lokalen Yoruba-Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        2.587609,
+                        7.331498
+                  ]
+            },
+            {
+                  "name": "Maison GUÈLÈDE KÉTOU",
+                  "text": "Dieses dem Guèlèdè-Masken-Erbe gewidmete Museum zeigt kunstvoll geschnitzte Holzmasken, die die spirituelle Macht der Frauen ehren.",
+                  "category": "museum",
+                  "coords": [
+                        2.597084,
+                        7.353423
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ MEFU OKPO KÉTOU",
+                  "text": "Dieses als Familienmuseum fungierende historische Gelände bewahrt die spezifischen zeremoniellen Gegenstände und die Geschichte der Mefu Okpo-Linie.",
+                  "category": "museum",
+                  "coords": [
+                        2.597145,
+                        7.358298
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ ESHÓ ONIKOÏ",
+                  "text": "Dieser kulturelle kollektive Raum stellt angestammte Artefakte aus, die von der Migration und Ansiedlung der Familie Eshó Onikoï in der Region berichten.",
+                  "category": "museum",
+                  "coords": [
+                        2.597704,
+                        7.359749
+                  ]
+            },
+            {
+                  "name": "Musée Akaba Idena",
+                  "text": "Dieses Museum, das den historischen Eingang zur Stadt bewacht, zeigt das magische befestigte Tor von Akaba Idena und die dazugehörigen Yoruba-Relikte.",
+                  "category": "museum",
+                  "coords": [
+                        2.601676,
+                        7.363458
+                  ]
+            },
+            {
+                  "name": "Palais royal de Kétou",
+                  "text": "Dieser traditionelle königliche Komplex bleibt der spirituelle und administrative Sitz des Alaketu und zeichnet sich durch charakteristische architektonische Elemente der Yoruba aus.",
+                  "category": "historical",
+                  "coords": [
+                        2.598735,
+                        7.357104
+                  ]
+            },
+            {
+                  "name": "Monument à Oba Oyeguin",
+                  "text": "Dieses historische Denkmal erinnert an Oba Oyeguin und ist eine kulturelle Hommage in der Region Kétou.",
+                  "category": "historical",
+                  "coords": [
+                        2.605263,
+                        7.360378
+                  ]
+            },
+            {
+                  "name": "Monument aux enfants du Bénin mort pour la paix",
+                  "text": "Dieses Denkmal ist eine feierliche Hommage an die Kinder Benins, die für den Frieden ihr Leben ließen.",
+                  "category": "historical",
+                  "coords": [
+                        2.612294,
+                        7.35827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt ORO de Kpankou",
+                  "text": "Ez a szent erdő élő múzeumként szolgál, megőrizve a helyi joruba hagyományok ősi fáit és titkos társadalmi rituáléit.",
+                  "category": "museum",
+                  "coords": [
+                        2.587609,
+                        7.331498
+                  ]
+            },
+            {
+                  "name": "Maison GUÈLÈDE KÉTOU",
+                  "text": "A Guèlèdè maszkos örökségnek szentelt múzeumban bonyolultan faragott famaszkokat állítanak ki, amelyek a nők spirituális erejét tisztelik.",
+                  "category": "museum",
+                  "coords": [
+                        2.597084,
+                        7.353423
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ MEFU OKPO KÉTOU",
+                  "text": "Ez a családi múzeumként működő örökségi épületegyüttes őrzi a Mefu Okpo vérvonal specifikus szertartási tárgyait és történetét.",
+                  "category": "museum",
+                  "coords": [
+                        2.597145,
+                        7.358298
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ ESHÓ ONIKOÏ",
+                  "text": "Ez a kulturális közösségi tér olyan ősi műtárgyakat állít ki, amelyek elmesélik az Eshó Onikoï család vándorlását és letelepedését a régióban.",
+                  "category": "museum",
+                  "coords": [
+                        2.597704,
+                        7.359749
+                  ]
+            },
+            {
+                  "name": "Musée Akaba Idena",
+                  "text": "A város történelmi bejáratát őrző múzeum Akaba Idena varázslatos megerősített kapuját és a hozzá kapcsolódó joruba ereklyéket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        2.601676,
+                        7.363458
+                  ]
+            },
+            {
+                  "name": "Palais royal de Kétou",
+                  "text": "Ez a hagyományos királyi épületegyüttes maradt az Alaketu szellemi és adminisztratív székhelye, amely jellegzetes joruba építészeti elemekkel rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        2.598735,
+                        7.357104
+                  ]
+            },
+            {
+                  "name": "Monument à Oba Oyeguin",
+                  "text": "Ez a történelmi emlékmű Oba Oyeguinnek állít emléket a Kétou régióban.",
+                  "category": "historical",
+                  "coords": [
+                        2.605263,
+                        7.360378
+                  ]
+            },
+            {
+                  "name": "Monument aux enfants du Bénin mort pour la paix",
+                  "text": "Ez az emlékmű a békéért életüket vesztett benini gyermekek előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        2.612294,
+                        7.35827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt ORO de Kpankou",
+                  "text": "Această pădure sacră servește ca un muzeu viu, păstrând copacii ancestrali și ritualurile societății secrete ale tradițiilor locale Yoruba.",
+                  "category": "museum",
+                  "coords": [
+                        2.587609,
+                        7.331498
+                  ]
+            },
+            {
+                  "name": "Maison GUÈLÈDE KÉTOU",
+                  "text": "Dedicat patrimoniului mascaradelor Guèlèdè, acest muzeu expune măști de lemn sculptate complex, onorând puterea spirituală a femeilor.",
+                  "category": "museum",
+                  "coords": [
+                        2.597084,
+                        7.353423
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ MEFU OKPO KÉTOU",
+                  "text": "Funcționând ca un muzeu de familie, acest complex de patrimoniu păstrează obiectele ceremoniale specifice și istoria descendenței Mefu Okpo.",
+                  "category": "museum",
+                  "coords": [
+                        2.597145,
+                        7.358298
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ ESHÓ ONIKOÏ",
+                  "text": "Acest spațiu colectiv cultural expune artefacte ancestrale care povestesc migrația și așezarea familiei Eshó Onikoï în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        2.597704,
+                        7.359749
+                  ]
+            },
+            {
+                  "name": "Musée Akaba Idena",
+                  "text": "Păzind intrarea istorică în oraș, acest muzeu expune poarta fortificată magică a Akaba Idena și relicvele Yoruba asociate.",
+                  "category": "museum",
+                  "coords": [
+                        2.601676,
+                        7.363458
+                  ]
+            },
+            {
+                  "name": "Palais royal de Kétou",
+                  "text": "Acest complex regal tradițional rămâne sediul spiritual și administrativ al Alaketu, prezentând elemente arhitecturale distincte Yoruba.",
+                  "category": "historical",
+                  "coords": [
+                        2.598735,
+                        7.357104
+                  ]
+            },
+            {
+                  "name": "Monument à Oba Oyeguin",
+                  "text": "Acest monument istoric îl comemorează pe Oba Oyeguin, servind drept tribut cultural în regiunea Kétou.",
+                  "category": "historical",
+                  "coords": [
+                        2.605263,
+                        7.360378
+                  ]
+            },
+            {
+                  "name": "Monument aux enfants du Bénin mort pour la paix",
+                  "text": "Acest monument memorial aduce un omagiu solemn copiilor din Benin care și-au pierdut viața pentru pace.",
+                  "category": "historical",
+                  "coords": [
+                        2.612294,
+                        7.35827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt ORO de Kpankou",
+                  "text": "This sacred forest serves as a living museum, preserving the ancestral trees and secret societal rituals of the local Yoruba traditions.",
+                  "category": "museum",
+                  "coords": [
+                        2.587609,
+                        7.331498
+                  ]
+            },
+            {
+                  "name": "Maison GUÈLÈDE KÉTOU",
+                  "text": "Dedicated to the Guèlèdè masquerade heritage, this museum displays intricately carved wooden masks honoring the spiritual power of women.",
+                  "category": "museum",
+                  "coords": [
+                        2.597084,
+                        7.353423
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ MEFU OKPO KÉTOU",
+                  "text": "Functioning as a family museum, this heritage compound preserves the specific ceremonial items and history of the Mefu Okpo lineage.",
+                  "category": "museum",
+                  "coords": [
+                        2.597145,
+                        7.358298
+                  ]
+            },
+            {
+                  "name": "COLLECTIVITÉ ESHÓ ONIKOÏ",
+                  "text": "This cultural collective space exhibits ancestral artifacts that recount the migration and settling of the Eshó Onikoï family in the region.",
+                  "category": "museum",
+                  "coords": [
+                        2.597704,
+                        7.359749
+                  ]
+            },
+            {
+                  "name": "Musée Akaba Idena",
+                  "text": "Guarding the historical entrance to the city, this museum showcases the magical fortified gate of Akaba Idena and its associated Yoruba relics.",
+                  "category": "museum",
+                  "coords": [
+                        2.601676,
+                        7.363458
+                  ]
+            },
+            {
+                  "name": "Palais royal de Kétou",
+                  "text": "This traditional royal compound remains the spiritual and administrative seat of the Alaketu, featuring distinct Yoruba architectural elements.",
+                  "category": "historical",
+                  "coords": [
+                        2.598735,
+                        7.357104
+                  ]
+            },
+            {
+                  "name": "Monument à Oba Oyeguin",
+                  "text": "This historic monument commemorates Oba Oyeguin, standing as a cultural tribute in the Kétou region.",
+                  "category": "historical",
+                  "coords": [
+                        2.605263,
+                        7.360378
+                  ]
+            },
+            {
+                  "name": "Monument aux enfants du Bénin mort pour la paix",
+                  "text": "This memorial monument pays solemn tribute to the children of Benin who lost their lives for peace.",
+                  "category": "historical",
+                  "coords": [
+                        2.612294,
+                        7.35827
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "Known as the legendary gate to the ancient city of Ketou, marking the traditional defense. It represents the history of the Yoruba culture in the area.",
     facts: [
@@ -411,7 +1959,124 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "tata-somba-houses-history-v2",
+    id: "tata-somba-houses-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Croix",
+                  "text": "La Croix ist ein markanter, mit einem Kreuz versehener Aussichtspunkt auf einem Hügel, der einen Panoramablick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.367729,
+                        10.302559
+                  ]
+            },
+            {
+                  "name": "Natitingou la nuit",
+                  "text": "Dieser Ort bietet einen faszinierenden Aussichtspunkt, um die beleuchteten Straßen und die lebhafte nächtliche Atmosphäre von Natitingou zu erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351566,
+                        10.308631
+                  ]
+            },
+            {
+                  "name": "Musée Kaba",
+                  "text": "Das Musée Kaba stellt regionale historische Artefakte und Objekte des kulturellen Erbes der Umgebung aus.",
+                  "category": "museum",
+                  "coords": [
+                        1.381468,
+                        10.254571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Croix",
+                  "text": "A La Croix egy kiemelkedő, kereszttel jelölt hegytetői kilátó, amely panorámás kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        1.367729,
+                        10.302559
+                  ]
+            },
+            {
+                  "name": "Natitingou la nuit",
+                  "text": "Ez a hely magával ragadó kilátópontot kínál Natitingou kivilágított utcáinak és nyüzsgő éjszakai hangulatának megtapasztalásához.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351566,
+                        10.308631
+                  ]
+            },
+            {
+                  "name": "Musée Kaba",
+                  "text": "A Musée Kaba a helyi térség regionális történelmi műtárgyait és kulturális örökségének elemeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.381468,
+                        10.254571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Croix",
+                  "text": "La Croix este un punct de belvedere proeminent pe un deal, marcat de o cruce, oferind priveliști panoramice asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        1.367729,
+                        10.302559
+                  ]
+            },
+            {
+                  "name": "Natitingou la nuit",
+                  "text": "Acest loc oferă un punct de observație captivant pentru a experimenta străzile luminate și atmosfera de noapte vibrantă din Natitingou.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351566,
+                        10.308631
+                  ]
+            },
+            {
+                  "name": "Musée Kaba",
+                  "text": "Musée Kaba expune artefacte istorice regionale și obiecte de patrimoniu cultural din zona locală.",
+                  "category": "museum",
+                  "coords": [
+                        1.381468,
+                        10.254571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Croix",
+                  "text": "La Croix is a prominent hilltop viewpoint marked by a cross, offering panoramic vistas over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.367729,
+                        10.302559
+                  ]
+            },
+            {
+                  "name": "Natitingou la nuit",
+                  "text": "This spot provides a captivating vantage point to experience the illuminated streets and vibrant night-time atmosphere of Natitingou.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351566,
+                        10.308631
+                  ]
+            },
+            {
+                  "name": "Musée Kaba",
+                  "text": "The Musée Kaba exhibits regional historical artifacts and cultural heritage items from the local area.",
+                  "category": "museum",
+                  "coords": [
+                        1.381468,
+                        10.254571
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "These distinctive, fortified mud-brick towers are unique to the Batammariba people in the Atakora mountains. They are recognized for their traditional defensive architecture.",
     facts: [
@@ -467,7 +2132,124 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }
   },
   {
-    id: "zomachi-monument-ouidah-history-v2",
+    id: "zomachi-monument-ouidah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrefour Vasseho",
+                  "text": "Das Carrefour Vasseho ist ein historisch bedeutsames Kreuzungsdenkmal in Ouidah, das einen wichtigen Punkt auf den alten Sklavenhandelsrouten markiert.",
+                  "category": "historical",
+                  "coords": [
+                        2.106066,
+                        6.360949
+                  ]
+            },
+            {
+                  "name": "Place CHACHA",
+                  "text": "Der Place CHACHA ist ein ergreifender historischer Platz in Ouidah, der während der Kolonialzeit als primärer Sklavenauktionsmarkt diente.",
+                  "category": "historical",
+                  "coords": [
+                        2.08508,
+                        6.35653
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire de Ouidah",
+                  "text": "Dieses historische Museum, das im alten portugiesischen Fort von Ouidah untergebracht ist, zeichnet das erschütternde Erbe des westafrikanischen Sklavenhandels nach.",
+                  "category": "museum",
+                  "coords": [
+                        2.090124,
+                        6.358895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrefour Vasseho",
+                  "text": "A Carrefour Vasseho egy történelmileg jelentős útkereszteződés-emlékmű Ouidah-ban, amely az ősi rabszolga-kereskedelmi útvonalak egyik kulcspontját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        2.106066,
+                        6.360949
+                  ]
+            },
+            {
+                  "name": "Place CHACHA",
+                  "text": "A Place CHACHA egy megható történelmi tér Ouidah-ban, amely a gyarmati korszakban az elsődleges rabszolgaárverési piacként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        2.08508,
+                        6.35653
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire de Ouidah",
+                  "text": "A régi ouidah-i portugál erődben helyet kapó történelmi múzeum a nyugat-afrikai rabszolga-kereskedelem megrázó örökségét követi nyomon.",
+                  "category": "museum",
+                  "coords": [
+                        2.090124,
+                        6.358895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrefour Vasseho",
+                  "text": "Carrefour Vasseho este un monument aflat la o răscruce de drumuri de importanță istorică din Ouidah, marcând un punct cheie pe vechile rute ale comerțului cu sclavi.",
+                  "category": "historical",
+                  "coords": [
+                        2.106066,
+                        6.360949
+                  ]
+            },
+            {
+                  "name": "Place CHACHA",
+                  "text": "Place CHACHA este o piațetă istorică tulburătoare din Ouidah care a servit cândva drept principala piață de licitație a sclavilor în timpul epocii coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        2.08508,
+                        6.35653
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire de Ouidah",
+                  "text": "Găzduit în vechiul fort portughez din Ouidah, acest muzeu istoric urmărește moștenirea cutremurătoare a comerțului cu sclavi din Africa de Vest.",
+                  "category": "museum",
+                  "coords": [
+                        2.090124,
+                        6.358895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrefour Vasseho",
+                  "text": "Carrefour Vasseho is a historically significant crossroads monument in Ouidah marking a key point on the ancient slave trading routes.",
+                  "category": "historical",
+                  "coords": [
+                        2.106066,
+                        6.360949
+                  ]
+            },
+            {
+                  "name": "Place CHACHA",
+                  "text": "Place CHACHA is a poignant historical plaza in Ouidah that once served as the primary slave auction market during the colonial era.",
+                  "category": "historical",
+                  "coords": [
+                        2.08508,
+                        6.35653
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire de Ouidah",
+                  "text": "Housed in the old Portuguese Fort of Ouidah, this historical museum traces the harrowing legacy of the West African slave trade.",
+                  "category": "museum",
+                  "coords": [
+                        2.090124,
+                        6.358895
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BJ-AQ",
     coords: [2.086, 6.356],
@@ -514,7 +2296,52 @@ export const poiExtraBeninHistoryV2: POI[] = [
       fr: [],
     },},
   {
-    id: "slave-route-ouidah-history-v2",
+    id: "slave-route-ouidah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arbre de l'Oubli",
+                  "text": "Der Baum des Vergessens ist ein ergreifendes historisches Denkmal in Ouidah, um den versklavte Menschen herumlaufen mussten, um symbolisch die Bande zu ihrer Heimat zu durchtrennen.",
+                  "category": "historical",
+                  "coords": [
+                        2.086885,
+                        6.348098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arbre de l'Oubli",
+                  "text": "A Felejtés fája egy megható történelmi emlékmű Ouidah-ban, amelyet a rabszolgáknak körbe kellett járniuk, hogy rituálisan megszakítsák kapcsolataikat a szülőföldjükkel.",
+                  "category": "historical",
+                  "coords": [
+                        2.086885,
+                        6.348098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arbre de l'Oubli",
+                  "text": "Copacul Uitării este un monument istoric emoționant din Ouidah în jurul căruia sclavii erau forțați să meargă pentru a rupe ritualic legăturile cu patria lor.",
+                  "category": "historical",
+                  "coords": [
+                        2.086885,
+                        6.348098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arbre de l'Oubli",
+                  "text": "The Tree of Forgetfulness is a poignant historical monument in Ouidah where enslaved people were forced to walk around to ritually sever ties with their homeland.",
+                  "category": "historical",
+                  "coords": [
+                        2.086885,
+                        6.348098
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BJ-AQ",
     coords: [2.087, 6.345],
@@ -561,7 +2388,160 @@ export const poiExtraBeninHistoryV2: POI[] = [
       fr: [],
     },},
   {
-    id: "toussaint-louverture-allada-history-v2",
+    id: "toussaint-louverture-allada-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site ancien Palais Royal d'ALLADA",
+                  "text": "Die historische Stätte in Allada, die einst als königlicher Palast für das traditionelle Königreich Allada diente.",
+                  "category": "landmark",
+                  "coords": [
+                        2.173933,
+                        6.668472
+                  ]
+            },
+            {
+                  "name": "Palais royal d'Allada",
+                  "text": "Ein Museum auf dem Gelände des Königspalastes von Allada, das Artefakte des traditionellen Königreichs ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        2.170856,
+                        6.666078
+                  ]
+            },
+            {
+                  "name": "Place TOUSSAINT LOUVERTURE",
+                  "text": "Ein öffentlicher Platz und ein Denkmal in Allada zu Ehren von Toussaint Louverture, dem haitianischen Revolutionsführer, dessen Vater aus dieser Region stammte.",
+                  "category": "historical",
+                  "coords": [
+                        2.14735,
+                        6.679969
+                  ]
+            },
+            {
+                  "name": "AUX ENFANTS D'ALLADA MORTS POUR LA LIBERTE",
+                  "text": "Ein Denkmal in Allada, das den lokalen Kindern gewidmet ist, die im Kampf um die Freiheit starben.",
+                  "category": "historical",
+                  "coords": [
+                        2.150019,
+                        6.66462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site ancien Palais Royal d'ALLADA",
+                  "text": "Történelmi helyszín Alladában, amely egykor a hagyományos alladai királyság királyi palotájaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        2.173933,
+                        6.668472
+                  ]
+            },
+            {
+                  "name": "Palais royal d'Allada",
+                  "text": "Múzeum az alladai királyi palota területén, amely a hagyományos királyság műtárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        2.170856,
+                        6.666078
+                  ]
+            },
+            {
+                  "name": "Place TOUSSAINT LOUVERTURE",
+                  "text": "Középület és emlékmű Alladában Toussaint Louverture, a haiti forradalmi vezető tiszteletére, akinek édesapja ebből a régióból származott.",
+                  "category": "historical",
+                  "coords": [
+                        2.14735,
+                        6.679969
+                  ]
+            },
+            {
+                  "name": "AUX ENFANTS D'ALLADA MORTS POUR LA LIBERTE",
+                  "text": "Emlékmű Alladában, amelyet a szabadságért harcoló, elesett helyi gyermekeknek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        2.150019,
+                        6.66462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site ancien Palais Royal d'ALLADA",
+                  "text": "Situl istoric din Allada care a servit cândva drept palat regal pentru tradiționalul Regat Allada.",
+                  "category": "landmark",
+                  "coords": [
+                        2.173933,
+                        6.668472
+                  ]
+            },
+            {
+                  "name": "Palais royal d'Allada",
+                  "text": "Un muzeu găzduit pe terenul palatului regal din Allada, care expune artefacte ale regatului tradițional.",
+                  "category": "museum",
+                  "coords": [
+                        2.170856,
+                        6.666078
+                  ]
+            },
+            {
+                  "name": "Place TOUSSAINT LOUVERTURE",
+                  "text": "O piață publică și un monument din Allada în onoarea lui Toussaint Louverture, liderul revoluționar haitian al cărui tată era originar din această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        2.14735,
+                        6.679969
+                  ]
+            },
+            {
+                  "name": "AUX ENFANTS D'ALLADA MORTS POUR LA LIBERTE",
+                  "text": "Un monument memorial în Allada dedicat copiilor locali care au murit luptând pentru libertate.",
+                  "category": "historical",
+                  "coords": [
+                        2.150019,
+                        6.66462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site ancien Palais Royal d'ALLADA",
+                  "text": "The historic site in Allada that once served as the royal palace for the traditional Kingdom of Allada.",
+                  "category": "landmark",
+                  "coords": [
+                        2.173933,
+                        6.668472
+                  ]
+            },
+            {
+                  "name": "Palais royal d'Allada",
+                  "text": "A museum housed within the royal palace grounds of Allada, displaying artifacts of the traditional kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        2.170856,
+                        6.666078
+                  ]
+            },
+            {
+                  "name": "Place TOUSSAINT LOUVERTURE",
+                  "text": "A public square and monument in Allada honoring Toussaint Louverture, the Haitian revolutionary leader whose father originated from this region.",
+                  "category": "historical",
+                  "coords": [
+                        2.14735,
+                        6.679969
+                  ]
+            },
+            {
+                  "name": "AUX ENFANTS D'ALLADA MORTS POUR LA LIBERTE",
+                  "text": "A memorial monument in Allada dedicated to the local children who died fighting for freedom.",
+                  "category": "historical",
+                  "coords": [
+                        2.150019,
+                        6.66462
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BJ-AQ",
     coords: [2.152, 6.662],
@@ -608,7 +2588,196 @@ export const poiExtraBeninHistoryV2: POI[] = [
       fr: [],
     },},
   {
-    id: "dahomey-amazon-monument-history-v2",
+    id: "dahomey-amazon-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anciens entrepôts CFAO",
+                  "text": "Die verfallenen Ruinen der ehemaligen Lagerhäuser der Compagnie Française de l'Afrique Occidentale.",
+                  "category": "historical",
+                  "coords": [
+                        2.440546,
+                        6.352186
+                  ]
+            },
+            {
+                  "name": "Ciment Bouclier",
+                  "text": "Eine Sehenswürdigkeit, die mit den historischen Zementbetrieben der Region in Verbindung steht.",
+                  "category": "landmark",
+                  "coords": [
+                        2.439089,
+                        6.353722
+                  ]
+            },
+            {
+                  "name": "Ancienne Banqie Ouest Africaine",
+                  "text": "Die architektonischen Überreste des ehemaligen Gebäudes der Westafrikanischen Bank.",
+                  "category": "historical",
+                  "coords": [
+                        2.440332,
+                        6.3549
+                  ]
+            },
+            {
+                  "name": "Maison de commerce CICA",
+                  "text": "Die verfallenden baulichen Überreste des ehemaligen CICA-Handelshauses.",
+                  "category": "historical",
+                  "coords": [
+                        2.440805,
+                        6.353658
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Miséricorde",
+                  "text": "Eine bedeutende römisch-katholische Kathedrale, die sich durch ihre auffällige burgunderrot-weiß gestreifte Ziegelfassade auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        2.439194,
+                        6.356345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anciens entrepôts CFAO",
+                  "text": "Az egykori Compagnie Française de l'Afrique Occidentale raktárainak omladozó romjai.",
+                  "category": "historical",
+                  "coords": [
+                        2.440546,
+                        6.352186
+                  ]
+            },
+            {
+                  "name": "Ciment Bouclier",
+                  "text": "A régió történelmi cementgyártásához kapcsolódó látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        2.439089,
+                        6.353722
+                  ]
+            },
+            {
+                  "name": "Ancienne Banqie Ouest Africaine",
+                  "text": "Az egykori Nyugat-Afrikai Bank épületének építészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        2.440332,
+                        6.3549
+                  ]
+            },
+            {
+                  "name": "Maison de commerce CICA",
+                  "text": "Az egykori CICA kereskedőház pusztuló szerkezeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        2.440805,
+                        6.353658
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Miséricorde",
+                  "text": "Egy kiemelkedő római katolikus katedrális, amelyet jellegzetes burgundi és fehér csíkos csempehomlokzata tesz különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        2.439194,
+                        6.356345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anciens entrepôts CFAO",
+                  "text": "Ruinele în descompunere ale fostelor depozite ale Compagnie Française de l'Afrique Occidentale.",
+                  "category": "historical",
+                  "coords": [
+                        2.440546,
+                        6.352186
+                  ]
+            },
+            {
+                  "name": "Ciment Bouclier",
+                  "text": "O atracție legată de operațiunile istorice de producere a cimentului din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        2.439089,
+                        6.353722
+                  ]
+            },
+            {
+                  "name": "Ancienne Banqie Ouest Africaine",
+                  "text": "Rămășițele arhitecturale ale fostei clădiri a Băncii Africii de Vest.",
+                  "category": "historical",
+                  "coords": [
+                        2.440332,
+                        6.3549
+                  ]
+            },
+            {
+                  "name": "Maison de commerce CICA",
+                  "text": "Rămășițele structurale în descompunere ale fostei case de comerț CICA.",
+                  "category": "historical",
+                  "coords": [
+                        2.440805,
+                        6.353658
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Miséricorde",
+                  "text": "O proeminentă catedrală romano-catolică, distinsă prin fațada sa izbitoare de plăci cu dungi vișinii și albe.",
+                  "category": "religious",
+                  "coords": [
+                        2.439194,
+                        6.356345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anciens entrepôts CFAO",
+                  "text": "The decaying ruins of the former Compagnie Française de l'Afrique Occidentale warehouses.",
+                  "category": "historical",
+                  "coords": [
+                        2.440546,
+                        6.352186
+                  ]
+            },
+            {
+                  "name": "Ciment Bouclier",
+                  "text": "An attraction related to the historical cement operations in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        2.439089,
+                        6.353722
+                  ]
+            },
+            {
+                  "name": "Ancienne Banqie Ouest Africaine",
+                  "text": "The architectural remnants of the former West African Bank building.",
+                  "category": "historical",
+                  "coords": [
+                        2.440332,
+                        6.3549
+                  ]
+            },
+            {
+                  "name": "Maison de commerce CICA",
+                  "text": "The decaying structural remains of the former CICA commercial trading house.",
+                  "category": "historical",
+                  "coords": [
+                        2.440805,
+                        6.353658
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Miséricorde",
+                  "text": "A prominent Roman Catholic cathedral distinguished by its striking burgundy and white striped tile facade.",
+                  "category": "religious",
+                  "coords": [
+                        2.439194,
+                        6.356345
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BJ-LI",
     coords: [2.441, 6.352],
@@ -678,7 +2847,124 @@ export const poiExtraBeninHistoryV2: POI[] = [
       en: ["Constructed between 1903 and 1909 in Neo-Gothic style", "Elevated to the status of a basilica by Pope John Paul II in 1989", "Located directly opposite the famous Temple of Pythons", "Was the first major Catholic cathedral in the Ouidah region", "Features distinctive red brick architecture and pointed spires", "A primary center for Catholic pilgrimage within Benin"],
     },},
   {
-    id: "ethnographic-museum-porto-novo-history-v2",
+    id: "ethnographic-museum-porto-novo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kandévié Radio xôkon",
+                  "text": "Kandévié Radio xôkon wird als Sendeanlage und lokale Attraktion im Gebiet von ethnographic-museum-porto-novo-history-v2 betrieben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.631651,
+                        6.48476
+                  ]
+            },
+            {
+                  "name": "Maison royale",
+                  "text": "Diese historische königliche Residenz ist ein monumentales Bauwerk, das die traditionelle lokale Führung in ethnographic-museum-porto-novo-history-v2 zeigt.",
+                  "category": "castle",
+                  "coords": [
+                        2.663913,
+                        6.48089
+                  ]
+            },
+            {
+                  "name": "Centre des arts et métiers de mededjonou",
+                  "text": "Dieses engagierte Kunstzentrum in ethnographic-museum-porto-novo-history-v2 bietet Raum für die Schaffung und Ausstellung von lokalem Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        2.698085,
+                        6.500048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kandévié Radio xôkon",
+                  "text": "A Kandévié Radio xôkon műsorszóró létesítményként és helyi látványosságként működik az ethnographic-museum-porto-novo-history-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.631651,
+                        6.48476
+                  ]
+            },
+            {
+                  "name": "Maison royale",
+                  "text": "Ez a történelmi királyi rezidencia monumentális építményként áll, és bemutatja a hagyományos helyi vezetést az ethnographic-museum-porto-novo-history-v2 területén.",
+                  "category": "castle",
+                  "coords": [
+                        2.663913,
+                        6.48089
+                  ]
+            },
+            {
+                  "name": "Centre des arts et métiers de mededjonou",
+                  "text": "Ez az ethnographic-museum-porto-novo-history-v2 területén található dedikált művészeti központ helyet biztosít a helyi kézműves termékek létrehozásának és bemutatásának.",
+                  "category": "cultural",
+                  "coords": [
+                        2.698085,
+                        6.500048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kandévié Radio xôkon",
+                  "text": "Kandévié Radio xôkon funcționează ca o facilitate de radiodifuziune și atracție locală în zona ethnographic-museum-porto-novo-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.631651,
+                        6.48476
+                  ]
+            },
+            {
+                  "name": "Maison royale",
+                  "text": "Această reședință regală istorică reprezintă o structură monumentală care prezintă conducerea locală tradițională în ethnographic-museum-porto-novo-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        2.663913,
+                        6.48089
+                  ]
+            },
+            {
+                  "name": "Centre des arts et métiers de mededjonou",
+                  "text": "Acest centru de artă dedicat din ethnographic-museum-porto-novo-history-v2 oferă un spațiu pentru crearea și expunerea obiectelor de artizanat locale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.698085,
+                        6.500048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kandévié Radio xôkon",
+                  "text": "Kandévié Radio xôkon operates as a broadcasting facility and local attraction within the ethnographic-museum-porto-novo-history-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        2.631651,
+                        6.48476
+                  ]
+            },
+            {
+                  "name": "Maison royale",
+                  "text": "This historical royal residence stands as a monumental structure showcasing traditional local leadership in ethnographic-museum-porto-novo-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        2.663913,
+                        6.48089
+                  ]
+            },
+            {
+                  "name": "Centre des arts et métiers de mededjonou",
+                  "text": "This dedicated arts centre in ethnographic-museum-porto-novo-history-v2 provides a space for the creation and display of local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        2.698085,
+                        6.500048
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BJ-OU",
     coords: [2.631, 6.485],

@@ -111,7 +111,52 @@ export const poiExtraZambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "kafue-flats-relief-v2",
+    id: "kafue-flats-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Birdwatching Hide",
+                  "text": "Ein hölzerner Beobachtungsstand in den Kafue-Auen, der ideale Bedingungen zur Sichtung seltener Wasservögel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.484728,
+                        -15.488584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Birdwatching Hide",
+                  "text": "Egy fából készült madármegfigyelő les a Kafue-síkságon, amely ideális feltételeket kínál a ritka vízimadarak megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        27.484728,
+                        -15.488584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Birdwatching Hide",
+                  "text": "Un adăpost de observație din lemn în câmpiile Kafue, oferind condiții ideale pentru observarea păsărilor rare de zonă umedă.",
+                  "category": "natural",
+                  "coords": [
+                        27.484728,
+                        -15.488584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Birdwatching Hide",
+                  "text": "A wooden observation hide in the Kafue Flats offering ideal conditions for spotting rare wetland birds.",
+                  "category": "natural",
+                  "coords": [
+                        27.484728,
+                        -15.488584
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZM-07",
     coords: [27.5, -15.5],

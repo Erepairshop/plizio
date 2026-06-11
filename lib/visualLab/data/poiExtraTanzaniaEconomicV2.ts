@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTanzaniaEconomicV2: POI[] = [
   {
-    id: "tz-port-dar-es-salaam-economic-v2",
+    id: "tz-port-dar-es-salaam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malaika Beach Club",
+                  "text": "Der Malaika Beach Club ist ein lebendiger Küstenort, an dem Gäste am Meer entspannen können, während sie die Schiffe im nahegelegenen Hafen von Daressalam beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        39.340563,
+                        -6.830215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malaika Beach Club",
+                  "text": "A Malaika Beach Club egy nyüzsgő tengerparti szabadidőközpont, ahol a vendégek a tenger mellett pihenhetnek, miközben a közeli Dar es Salaam kikötőjébe navigáló hajókat figyelik.",
+                  "category": "recreational",
+                  "coords": [
+                        39.340563,
+                        -6.830215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malaika Beach Club",
+                  "text": "Malaika Beach Club este un loc de agrement vibrant pe coastă, unde oaspeții se pot relaxa la malul mării în timp ce privesc navele navigând spre portul din Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.340563,
+                        -6.830215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malaika Beach Club",
+                  "text": "Malaika Beach Club is a vibrant coastal leisure venue where guests can relax by the sea while watching ships navigate the nearby Dar es Salaam port.",
+                  "category": "recreational",
+                  "coords": [
+                        39.340563,
+                        -6.830215
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-02",
     coords: [39.292, -6.828],
@@ -51,7 +96,232 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-port-tanga-economic-v2",
+    id: "tz-port-tanga-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Das Askari-Monument in Tanga ist eine Gedenkstatue, die den Soldaten aus der Zeit des Weltkriegs Tribut zollt.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "Dieser Uhrenturm aus der Kolonialzeit aus dem Jahr 1901 ist ein markantes historisches Zeitmessungs-Wahrzeichen in Tanga.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Leuchtturm",
+                  "text": "Der Küstenleuchtturm in Tanga leitet den Schiffsverkehr nahe dem geschäftigen Hafen mit seinem markanten Signalfeuer.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "Wachoraji bietet einen kreativen Raum für bildende Künste und fördert den lokalen künstlerischen Ausdruck im Wirtschaftszentrum Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Jaffery Hall",
+                  "text": "Die Jaffery Hall dient als Indoor-Sport- und Erholungsstätte für sportliche Aktivitäten in Tanga.",
+                  "category": "landmark",
+                  "coords": [
+                        39.109046,
+                        -5.072548
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "Die Regal Hall fungiert als Kunst- und Veranstaltungszentrum und beherbergt kulturelle Zusammenkünfte im Herzen von Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Askari Monument",
+                  "text": "A tangai Askari-emlékmű egy szobor, amely a világháborúk korszakának katonái előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "Az 1901-ben épült, gyarmati korszakból származó óratorony Tanga egyik kiemelkedő történelmi nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Világítótorony",
+                  "text": "A tangai parti világítótorony feltűnő jelzőfényével irányítja a tengeri forgalmat a nyüzsgő kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "A Wachoraji kreatív teret biztosít a vizuális művészeteknek, és támogatja a helyi művészeti kifejezést Tanga gazdasági központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Jaffery Hall",
+                  "text": "A Jaffery Hall beltéri sport- és rekreációs helyszínként szolgál az atlétikai tevékenységek számára Tangában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.109046,
+                        -5.072548
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "A Regal Hall művészeti és rendezvényközpontként működik, kulturális összejöveteleknek adva otthont Tanga szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Monumentul Askari din Tanga este o statuie memorială care aduce un omagiu soldaților din era Războiului Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "Construit în 1901, acest Turn cu Ceas din epoca colonială este un reper istoric proeminent pentru măsurarea timpului în Tanga.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Lighthouse",
+                  "text": "Farul de coastă din Tanga ghidează traficul maritim în apropierea portului aglomerat cu semnalul său luminos vizibil.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "Wachoraji oferă un spațiu creativ pentru artele vizuale, promovând expresia artistică locală în centrul economic Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Jaffery Hall",
+                  "text": "Jaffery Hall funcționează ca un spațiu sportiv și de recreere acoperit, destinat activităților atletice din Tanga.",
+                  "category": "landmark",
+                  "coords": [
+                        39.109046,
+                        -5.072548
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "Regal Hall funcționează ca un centru de arte și evenimente, găzduind întruniri culturale în inima orașului Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Askari Monument",
+                  "text": "The Askari Monument in Tanga stands as a memorial statue paying tribute to the soldiers of the World War era.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "Built in 1901, this colonial-era Clock Tower is a prominent historic timekeeping landmark in Tanga.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Lighthouse",
+                  "text": "The coastal Lighthouse in Tanga guides maritime traffic near the bustling port with its prominent signal beacon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "Wachoraji provides a creative space for visual arts, fostering local artistic expression in the economic hub of Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Jaffery Hall",
+                  "text": "Jaffery Hall serves as an indoor sports and recreation venue catering to athletic activities in Tanga.",
+                  "category": "landmark",
+                  "coords": [
+                        39.109046,
+                        -5.072548
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "Regal Hall functions as an arts and events centre, hosting cultural gatherings in the heart of Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-25",
     coords: [39.106, -5.068],
@@ -147,7 +417,232 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-port-kigoma-economic-v2",
+    id: "tz-port-kigoma-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "Dieses Informationszentrum in der Nähe des Hafens von Kigoma unterstützt Reisende bei der Planung von Ausflügen zu den Schimpansen-Habitaten der Nationalparks Gombe und Mahale.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "Das Kaiserhaus ist ein historisches Gebäude aus der Kolonialzeit in Kigoma, das den deutschen Architektureinfluss im frühen 20. Jahrhundert widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "Die MV Liemba ist eine historische Passagier- und Frachtfähre, die ununterbrochen auf den tiefen Gewässern des Tanganjikasees verkehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "Die Einrichtung des Hafenbetriebsmanagers überwacht die geschäftige maritime Logistik und den Frachtumschlag im Hafen von Kigoma am Tanganjikasee.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "Die Kibi Reception Hall bietet einen malerischen Veranstaltungsort für Zusammenkünfte und Events in der Nähe der geschäftigen Uferpromenade von Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Rock Lookout",
+                  "text": "Rock Lookout bietet einen natürlichen, erhöhten Aussichtspunkt über die weiten Gewässer des Tanganjikasees und die Küstenlinie von Kigoma.",
+                  "category": "natural",
+                  "coords": [
+                        29.600125,
+                        -4.910495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "Ez a Kigoma kikötője közelében található információs központ segíti a Gombe és Mahale Nemzeti Parkok csimpánzélőhelyeire utazókat.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "A Kaiser-ház egy történelmi, gyarmati korszakból származó épület Kigomában, amely a kora 20. századi német építészeti hatást tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "Az MV Liemba egy történelmi utas- és teherkomp, amely folyamatosan üzemel a Tanganyika-tó mély vizén.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "A kikötői üzemeltetési igazgató létesítmény felügyeli a nyüzsgő tengeri logisztikát és a rakománykezelést a Tanganyika-tó kigomai kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "A Kibi Reception Hall festői helyszínt biztosít az összejövetelek és rendezvények számára Kigoma forgalmas vízpartja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Rock Lookout",
+                  "text": "A Rock Lookout természetes, magaslati kilátópontot nyújt a Tanganyika-tó hatalmas vizére és Kigoma partvonalára.",
+                  "category": "natural",
+                  "coords": [
+                        29.600125,
+                        -4.910495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "Acest centru de informare din apropierea portului Kigoma asistă călătorii care își planifică excursii către habitatele cimpanzeilor din Parcurile Naționale Gombe și Mahale.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "Kaiser House este o clădire istorică din epoca colonială situată în Kigoma, care reflectă influența arhitecturală germană la începutul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "MV Liemba este un feribot istoric de pasageri și marfă care operează în mod continuu pe apele adânci ale Lacului Tanganyika.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "Unitatea managerului de operațiuni portuare supraveghează logistica maritimă aglomerată și manipularea mărfurilor în portul Kigoma de pe Lacul Tanganyika.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "Kibi Reception Hall oferă o locație pitorească pentru adunări și evenimente aproape de faleza aglomerată din Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Rock Lookout",
+                  "text": "Rock Lookout oferă un punct de observație natural, înalt, asupra apelor întinse ale Lacului Tanganyika și țărmului orașului Kigoma.",
+                  "category": "natural",
+                  "coords": [
+                        29.600125,
+                        -4.910495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "This Information Centre near Kigoma port assists travelers planning trips to the chimpanzee habitats of Gombe and Mahale National Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "Kaiser House is a historic colonial-era building in Kigoma that reflects the German architectural influence during the early 20th century.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "The MV Liemba is a historic passenger and cargo ferry that has been continuously operating on the deep waters of Lake Tanganyika.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "The Port operations manager facility oversees the bustling maritime logistics and cargo handling at the Kigoma port on Lake Tanganyika.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "Kibi Reception Hall offers a scenic venue for gatherings and events near the busy waterfront of Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Rock Lookout",
+                  "text": "Rock Lookout provides a natural elevated vantage point over the expansive waters of Lake Tanganyika and the Kigoma shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        29.600125,
+                        -4.910495
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-08",
     coords: [29.625, -4.876],
@@ -195,7 +690,448 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-port-mwanza-south-economic-v2",
+    id: "tz-port-mwanza-south-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUVIKI Mahina",
+                  "text": "MUVIKI Mahina ist eine Industrieattraktion in der Nähe des Südhafens von Mwanza, die die lokale Verarbeitungs- und Logistikwirtschaft des Viktoriasees veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        32.919423,
+                        -2.539656
+                  ]
+            },
+            {
+                  "name": "Mawe kona",
+                  "text": "Mawe kona bedeutet übersetzt \"Ecksteine\" und ist eine Attraktion in der Nähe des Südhafens von Mwanza, die von massiven, für die Region typischen Granitblockformationen geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.922883,
+                        -2.54236
+                  ]
+            },
+            {
+                  "name": "Kwa Baba Ester (Jackson Sabana)",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die urbane Landschaft der Region Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.950475,
+                        -2.554447
+                  ]
+            },
+            {
+                  "name": "Emirate Soccer Hall",
+                  "text": "Eine lokale Sportattraktion in Mwanza, die sich auf Hallenfußballaktivitäten konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950641,
+                        -2.553397
+                  ]
+            },
+            {
+                  "name": "Mahina ward",
+                  "text": "Ein geschäftiges Wohnviertel in Mwanza, das das authentische Alltagsleben der Einheimischen zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941921,
+                        -2.548738
+                  ]
+            },
+            {
+                  "name": "Kalole Grocery",
+                  "text": "Ein lokaler Lebensmittelmarkt, der einen Einblick in den alltäglichen Handel in Mwanza bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.932064,
+                        -2.546661
+                  ]
+            },
+            {
+                  "name": "Sadara Food Point",
+                  "text": "Ein kulinarischer Aussichtspunkt, an dem Besucher die lebhafte Street-Food-Szene von Mwanza beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        32.940359,
+                        -2.531246
+                  ]
+            },
+            {
+                  "name": "UKUMBI WA MAMA BUZURUGA",
+                  "text": "Ein lebendiger Versammlungsort und Veranstaltungssaal im Viertel Buzuruga in Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.933965,
+                        -2.528309
+                  ]
+            },
+            {
+                  "name": "Vanilla",
+                  "text": "Ein malerischer Aussichtspunkt, der wunderschöne Panoramen über die Stadtlandschaft von Mwanza bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.94778,
+                        -2.531477
+                  ]
+            },
+            {
+                  "name": "Kangaye",
+                  "text": "Eine kulturelle oder gemeinschaftliche Attraktion inmitten der Metropolregion Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.952268,
+                        -2.525563
+                  ]
+            },
+            {
+                  "name": "Secret Corner",
+                  "text": "Ein abgelegener Aussichtspunkt, der ruhige Ausblicke abseits der belebten Straßen von Mwanza bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.888311,
+                        -2.543096
+                  ]
+            },
+            {
+                  "name": "Masai Boma",
+                  "text": "Eine Attraktion in Mwanza, die traditionelle Maasai-Gehöfte und kulturelle Einblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871493,
+                        -2.606249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUVIKI Mahina",
+                  "text": "A MUVIKI Mahina a mwanza-i déli kikötő közelében található ipari látványosság, amely a Viktória-tó helyi feldolgozó- és logisztikai gazdaságát szemlélteti.",
+                  "category": "landmark",
+                  "coords": [
+                        32.919423,
+                        -2.539656
+                  ]
+            },
+            {
+                  "name": "Mawe kona",
+                  "text": "A Mawe kona fordítása \"sarokkövek\", és a mwanza-i déli kikötő közelében lévő látványosság, amely a régióra jellemző hatalmas gránitszikla-képződményeket mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.922883,
+                        -2.54236
+                  ]
+            },
+            {
+                  "name": "Kwa Baba Ester (Jackson Sabana)",
+                  "text": "Ez a kilátóhely széles panorámát nyújt a Mwanza régió városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        32.950475,
+                        -2.554447
+                  ]
+            },
+            {
+                  "name": "Emirate Soccer Hall",
+                  "text": "Egy helyi sportlétesítmény Mwanzában, amely beltéri futballtevékenységekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950641,
+                        -2.553397
+                  ]
+            },
+            {
+                  "name": "Mahina ward",
+                  "text": "Egy nyüzsgő lakónegyed Mwanzában, amely bemutatja a helyiek autentikus mindennapi életét.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941921,
+                        -2.548738
+                  ]
+            },
+            {
+                  "name": "Kalole Grocery",
+                  "text": "Egy helyi élelmiszerpiac, amely bepillantást enged a mindennapi kereskedelembe Mwanzában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.932064,
+                        -2.546661
+                  ]
+            },
+            {
+                  "name": "Sadara Food Point",
+                  "text": "Egy kulináris kilátóhely, ahol a látogatók megfigyelhetik Mwanza élénk street food jelenetét.",
+                  "category": "natural",
+                  "coords": [
+                        32.940359,
+                        -2.531246
+                  ]
+            },
+            {
+                  "name": "UKUMBI WA MAMA BUZURUGA",
+                  "text": "Egy élénk gyülekezőhely és rendezvényterem a mwanzai Buzuruga negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.933965,
+                        -2.528309
+                  ]
+            },
+            {
+                  "name": "Vanilla",
+                  "text": "Egy festői kilátóhely, amely gyönyörű panorámát nyújt Mwanza városképére.",
+                  "category": "natural",
+                  "coords": [
+                        32.94778,
+                        -2.531477
+                  ]
+            },
+            {
+                  "name": "Kangaye",
+                  "text": "Egy kulturális vagy közösségi látványosság a mwanzai nagyvárosi régió szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.952268,
+                        -2.525563
+                  ]
+            },
+            {
+                  "name": "Secret Corner",
+                  "text": "Egy eldugott kilátóhely, amely nyugodt kilátást nyújt távol Mwanza forgalmas utcáitól.",
+                  "category": "natural",
+                  "coords": [
+                        32.888311,
+                        -2.543096
+                  ]
+            },
+            {
+                  "name": "Masai Boma",
+                  "text": "Egy látványosság Mwanzában, amely hagyományos maszáj tanyákat és kulturális betekintést kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871493,
+                        -2.606249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUVIKI Mahina",
+                  "text": "MUVIKI Mahina este o atracție industrială situată în apropierea portului sudic din Mwanza, care ilustrează economia locală de prelucrare și logistică a lacului Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.919423,
+                        -2.539656
+                  ]
+            },
+            {
+                  "name": "Mawe kona",
+                  "text": "Mawe kona se traduce prin „pietre de temelie” și este o atracție din apropierea portului sudic din Mwanza care prezintă formațiuni masive de bolovani de granit tipice regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        32.922883,
+                        -2.54236
+                  ]
+            },
+            {
+                  "name": "Kwa Baba Ester (Jackson Sabana)",
+                  "text": "Acest punct de belvedere oferă o panoramă largă asupra peisajului urban din regiunea Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.950475,
+                        -2.554447
+                  ]
+            },
+            {
+                  "name": "Emirate Soccer Hall",
+                  "text": "O atracție sportivă locală din Mwanza, axată pe activități de fotbal în sală.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950641,
+                        -2.553397
+                  ]
+            },
+            {
+                  "name": "Mahina ward",
+                  "text": "Un cartier rezidențial plin de viață din Mwanza, care prezintă viața de zi cu zi autentică a localnicilor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941921,
+                        -2.548738
+                  ]
+            },
+            {
+                  "name": "Kalole Grocery",
+                  "text": "O piață alimentară locală care oferă o perspectivă asupra comerțului de zi cu zi din Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.932064,
+                        -2.546661
+                  ]
+            },
+            {
+                  "name": "Sadara Food Point",
+                  "text": "Un punct de belvedere culinar unde vizitatorii pot observa scena vibrantă a mâncării stradale din Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.940359,
+                        -2.531246
+                  ]
+            },
+            {
+                  "name": "UKUMBI WA MAMA BUZURUGA",
+                  "text": "Un loc de adunare plin de viață și o sală de evenimente în cartierul Buzuruga din Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.933965,
+                        -2.528309
+                  ]
+            },
+            {
+                  "name": "Vanilla",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame frumoase asupra peisajului urban din Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.94778,
+                        -2.531477
+                  ]
+            },
+            {
+                  "name": "Kangaye",
+                  "text": "O atracție culturală sau comunitară situată în inima regiunii metropolitane Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.952268,
+                        -2.525563
+                  ]
+            },
+            {
+                  "name": "Secret Corner",
+                  "text": "Un punct de belvedere retras care oferă priveliști liniștite departe de străzile aglomerate din Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.888311,
+                        -2.543096
+                  ]
+            },
+            {
+                  "name": "Masai Boma",
+                  "text": "O atracție din Mwanza care prezintă gospodării tradiționale Maasai și perspective culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871493,
+                        -2.606249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUVIKI Mahina",
+                  "text": "MUVIKI Mahina is an industrial attraction located near the Mwanza South Port area, illustrating the local processing and logistics economy of Lake Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.919423,
+                        -2.539656
+                  ]
+            },
+            {
+                  "name": "Mawe kona",
+                  "text": "Mawe kona translates to \"corner stones\" and is an attraction near the Mwanza South Port featuring the massive granite boulder formations typical of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.922883,
+                        -2.54236
+                  ]
+            },
+            {
+                  "name": "Kwa Baba Ester (Jackson Sabana)",
+                  "text": "This viewpoint offers sweeping vistas over the urban landscape of the Mwanza region.",
+                  "category": "natural",
+                  "coords": [
+                        32.950475,
+                        -2.554447
+                  ]
+            },
+            {
+                  "name": "Emirate Soccer Hall",
+                  "text": "A local sports attraction in Mwanza focused on indoor soccer activities.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950641,
+                        -2.553397
+                  ]
+            },
+            {
+                  "name": "Mahina ward",
+                  "text": "A bustling residential district in Mwanza showcasing authentic everyday local life.",
+                  "category": "landmark",
+                  "coords": [
+                        32.941921,
+                        -2.548738
+                  ]
+            },
+            {
+                  "name": "Kalole Grocery",
+                  "text": "A local food market offering insight into everyday trading and commerce in Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.932064,
+                        -2.546661
+                  ]
+            },
+            {
+                  "name": "Sadara Food Point",
+                  "text": "A culinary viewpoint where visitors can observe the vibrant street food scene of Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.940359,
+                        -2.531246
+                  ]
+            },
+            {
+                  "name": "UKUMBI WA MAMA BUZURUGA",
+                  "text": "A lively gathering place and event hall located in the Buzuruga area of Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.933965,
+                        -2.528309
+                  ]
+            },
+            {
+                  "name": "Vanilla",
+                  "text": "A scenic viewpoint offering beautiful panoramas over Mwanza's urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.94778,
+                        -2.531477
+                  ]
+            },
+            {
+                  "name": "Kangaye",
+                  "text": "A cultural or community attraction nestled within the Mwanza metropolitan area.",
+                  "category": "landmark",
+                  "coords": [
+                        32.952268,
+                        -2.525563
+                  ]
+            },
+            {
+                  "name": "Secret Corner",
+                  "text": "A secluded viewpoint offering quiet vistas away from the bustling streets of Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        32.888311,
+                        -2.543096
+                  ]
+            },
+            {
+                  "name": "Masai Boma",
+                  "text": "An attraction in Mwanza featuring traditional Maasai homestead structures and cultural insights.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871493,
+                        -2.606249
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-10",
     coords: [32.903, -2.529],
@@ -243,7 +1179,52 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-port-malindi-economic-v2",
+    id: "tz-port-malindi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nakupenda Island",
+                  "text": "Nakupenda Island ist eine makellose, vergängliche Sandbank, die bei Ebbe dramatisch aus dem kristallklaren Wasser des Indischen Ozeans auftaucht.",
+                  "category": "landmark",
+                  "coords": [
+                        39.127637,
+                        -6.132182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nakupenda Island",
+                  "text": "A Nakupenda-sziget egy érintetlen, mulandó homokpad, amely apály idején drámaian emelkedik ki az Indiai-óceán kristálytiszta vizéből.",
+                  "category": "landmark",
+                  "coords": [
+                        39.127637,
+                        -6.132182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nakupenda Island",
+                  "text": "Insula Nakupenda este un banc de nisip imaculat, efemer, care iese dramatic din apele cristaline ale Oceanului Indian la reflux.",
+                  "category": "landmark",
+                  "coords": [
+                        39.127637,
+                        -6.132182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nakupenda Island",
+                  "text": "Nakupenda Island is a pristine, ephemeral sandbank that dramatically emerges from the crystal-clear waters of the Indian Ocean at low tide.",
+                  "category": "landmark",
+                  "coords": [
+                        39.127637,
+                        -6.132182
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-15",
     coords: [39.189, -6.155],
@@ -291,7 +1272,52 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-port-kemondo-bay-economic-v2",
+    id: "tz-port-kemondo-bay-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maruku Ntoma Beach",
+                  "text": "Maruku Ntoma Beach ist ein sandiger Küstenstreifen am Ufer der Kemondo Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        31.803607,
+                        -1.458963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maruku Ntoma Beach",
+                  "text": "A Maruku Ntoma Beach egy homokos partszakasz a Kemondo-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        31.803607,
+                        -1.458963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maruku Ntoma Beach",
+                  "text": "Plaja Maruku Ntoma este o fâșie de coastă cu nisip care se găsește de-a lungul țărmurilor Golfului Kemondo.",
+                  "category": "recreational",
+                  "coords": [
+                        31.803607,
+                        -1.458963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maruku Ntoma Beach",
+                  "text": "Maruku Ntoma Beach is a sandy coastal strip found along the shores of Kemondo Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        31.803607,
+                        -1.458963
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-04",
     coords: [31.785, -1.458],
@@ -387,7 +1413,88 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-port-lindi-economic-v2",
+    id: "tz-port-lindi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kagwa church",
+                  "text": "Ein Kirchengebäude im Chalet-Stil in der Nähe des belebten Hafens von Lindi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.705021,
+                        -9.983738
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Eine markante nautische Attraktion, die im maritimen Zentrum von Lindi festgemacht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.718995,
+                        -9.996235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kagwa church",
+                  "text": "Egy faház stílusú templomépület Lindi nyüzsgő kikötője közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.705021,
+                        -9.983738
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Egy kiemelkedő tengeri látványosság Lindi tengeri csomópontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.718995,
+                        -9.996235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kagwa church",
+                  "text": "O biserică în stil cabană situată lângă portul aglomerat din Lindi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.705021,
+                        -9.983738
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "O atracție nautică proeminentă ancorată în centrul maritim din Lindi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.718995,
+                        -9.996235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kagwa church",
+                  "text": "A chalet-style church building situated near the bustling Lindi port.",
+                  "category": "landmark",
+                  "coords": [
+                        39.705021,
+                        -9.983738
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "A prominent nautical attraction moored at the maritime hub of Lindi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.718995,
+                        -9.996235
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-07",
     coords: [39.718, -9.992],
@@ -435,7 +1542,88 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-port-bukoba-economic-v2",
+    id: "tz-port-bukoba-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukoba Palace Hotel Ruins",
+                  "text": "Die verwitterten baulichen Überreste eines einst bedeutenden Hotels in der Hafenstadt Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.81361,
+                        -1.374035
+                  ]
+            },
+            {
+                  "name": "Mater Misericordiae Cathedral",
+                  "text": "Eine majestätische katholische Kathedrale in Bukoba, die für ihre markante Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        31.814008,
+                        -1.331565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukoba Palace Hotel Ruins",
+                  "text": "Egy egykor jelentős szálloda viharvert szerkezeti maradványai a kikötővárosban, Bukobában.",
+                  "category": "historical",
+                  "coords": [
+                        31.81361,
+                        -1.374035
+                  ]
+            },
+            {
+                  "name": "Mater Misericordiae Cathedral",
+                  "text": "Egy fenséges katolikus katedrális Bukobában, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        31.814008,
+                        -1.331565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukoba Palace Hotel Ruins",
+                  "text": "Rămășițele structurale erodate ale unui hotel cândva proeminent din orașul-port Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.81361,
+                        -1.374035
+                  ]
+            },
+            {
+                  "name": "Mater Misericordiae Cathedral",
+                  "text": "O catedrală catolică maiestuoasă din Bukoba, recunoscută pentru arhitectura sa proeminentă.",
+                  "category": "religious",
+                  "coords": [
+                        31.814008,
+                        -1.331565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukoba Palace Hotel Ruins",
+                  "text": "The weathered structural remains of a once-prominent hotel in the port city of Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.81361,
+                        -1.374035
+                  ]
+            },
+            {
+                  "name": "Mater Misericordiae Cathedral",
+                  "text": "A majestic Catholic cathedral in Bukoba recognized for its prominent architecture.",
+                  "category": "religious",
+                  "coords": [
+                        31.814008,
+                        -1.331565
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TZ-04",
     coords: [31.815, -1.332],
@@ -483,7 +1671,160 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-industry-geita-gold-economic-v2",
+    id: "tz-industry-geita-gold-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "National housing",
+                  "text": "Eine architektonische Attraktion, die die lokale Stadtentwicklung in der Goldgräberstadt Geita hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.293721,
+                        -2.881235
+                  ]
+            },
+            {
+                  "name": "Upendo health care centre",
+                  "text": "Eine kommunale Gesundheitseinrichtung und ein lokales Wahrzeichen, das der Region Geita dient.",
+                  "category": "landmark",
+                  "coords": [
+                        32.271239,
+                        -2.876743
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "Ein bekanntes Gastgewerbe-Wahrzeichen, das Unterkünfte in der geschäftigen Stadt Geita bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "Eine herausragende religiöse Attraktion, die der lokalen katholischen Gemeinde in Geita dient.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National housing",
+                  "text": "Egy építészeti látványosság, amely kiemeli a helyi városfejlesztést Geita aranybányász városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.293721,
+                        -2.881235
+                  ]
+            },
+            {
+                  "name": "Upendo health care centre",
+                  "text": "Egy közösségi egészségügyi intézmény és helyi nevezetesség, amely a Geita régiót szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        32.271239,
+                        -2.876743
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "Egy jól ismert vendéglátóipari nevezetesség, amely szállást kínál a nyüzsgő Geita városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "Egy kiemelkedő vallási látványosság, amely a helyi katolikus közösséget szolgálja ki Geitában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National housing",
+                  "text": "O atracție arhitecturală care evidențiază dezvoltarea urbană locală în orașul minier de aur Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.293721,
+                        -2.881235
+                  ]
+            },
+            {
+                  "name": "Upendo health care centre",
+                  "text": "O unitate de sănătate comunitară și un reper local care deservește regiunea Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.271239,
+                        -2.876743
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "Un reper bine-cunoscut de ospitalitate care oferă cazare în orașul plin de viață Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "O atracție religioasă proeminentă care deservește comunitatea catolică locală din Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National housing",
+                  "text": "An architectural attraction highlighting local urban development in the gold-mining town of Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.293721,
+                        -2.881235
+                  ]
+            },
+            {
+                  "name": "Upendo health care centre",
+                  "text": "A community health facility and local landmark serving the Geita region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.271239,
+                        -2.876743
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "A prominent hospitality landmark providing accommodation in the bustling town of Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "A prominent religious attraction serving the local Catholic community in Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TZ-27",
     coords: [32.221, -2.868],
@@ -1011,7 +2352,196 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-industry-twiga-cement-dar-economic-v2",
+    id: "tz-industry-twiga-cement-dar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mahaba Beach",
+                  "text": "Ein sandiger Küstenrückzugsort, der Entspannung und warme Brisen des Indischen Ozeans in der Region Dar es Salaam bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.178858,
+                        -6.627495
+                  ]
+            },
+            {
+                  "name": "Historic cemetery",
+                  "text": "Verwitterte Steingräber und historische Ruinen inmitten der Küstenlandschaft nahe Dar es Salaam.",
+                  "category": "historical",
+                  "coords": [
+                        39.215083,
+                        -6.661367
+                  ]
+            },
+            {
+                  "name": "Kurio Village",
+                  "text": "Ein Küstenferienort, der lokales tansanisches Dorfleben mit Freizeitaktivitäten am Meer verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.208545,
+                        -6.650789
+                  ]
+            },
+            {
+                  "name": "Mbweni Ndege JKT Beach Resort",
+                  "text": "Eine Ferienanlage am Meer mit direktem Strandzugang und Freizeiteinrichtungen an der tansanischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        39.165327,
+                        -6.605039
+                  ]
+            },
+            {
+                  "name": "Ras Kilomoni Bahari Beach",
+                  "text": "Ein malerischer Küstenabschnitt, der für seinen weichen Sand und die sanften Wellen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        39.193189,
+                        -6.628604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mahaba Beach",
+                  "text": "Homokos tengerparti menedék Dar es Salaam régiójában, amely kikapcsolódást és lágy óceáni szellőt kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        39.178858,
+                        -6.627495
+                  ]
+            },
+            {
+                  "name": "Historic cemetery",
+                  "text": "Dar es Salaam part menti környezetében fennmaradt, viharvert kősírok és történelmi romok.",
+                  "category": "historical",
+                  "coords": [
+                        39.215083,
+                        -6.661367
+                  ]
+            },
+            {
+                  "name": "Kurio Village",
+                  "text": "Tengerparti üdülőterület, amely ötvözi a helyi tanzániai falusi életet a tengerparti szabadidős tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        39.208545,
+                        -6.650789
+                  ]
+            },
+            {
+                  "name": "Mbweni Ndege JKT Beach Resort",
+                  "text": "Tengerparti üdülőközpont, amely közvetlen strandhozzáférést és rekreációs létesítményeket biztosít a tanzániai partok mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        39.165327,
+                        -6.605039
+                  ]
+            },
+            {
+                  "name": "Ras Kilomoni Bahari Beach",
+                  "text": "Festői partvidék, amely puha homokjáról és a parton megtörő pihentető hullámokról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        39.193189,
+                        -6.628604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mahaba Beach",
+                  "text": "O retragere de coastă cu nisip, oferind relaxare și brize calde ale Oceanului Indian în regiunea Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.178858,
+                        -6.627495
+                  ]
+            },
+            {
+                  "name": "Historic cemetery",
+                  "text": "Morminte din piatră erodate și ruine istorice păstrate în mediul de coastă de lângă Dar es Salaam.",
+                  "category": "historical",
+                  "coords": [
+                        39.215083,
+                        -6.661367
+                  ]
+            },
+            {
+                  "name": "Kurio Village",
+                  "text": "O zonă de stațiune de coastă care îmbină viața locală a satelor tanzaniene cu activitățile de agrement pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        39.208545,
+                        -6.650789
+                  ]
+            },
+            {
+                  "name": "Mbweni Ndege JKT Beach Resort",
+                  "text": "O stațiune pe malul mării care oferă acces direct la plajă și facilități de recreere de-a lungul coastei tanzaniene.",
+                  "category": "recreational",
+                  "coords": [
+                        39.165327,
+                        -6.605039
+                  ]
+            },
+            {
+                  "name": "Ras Kilomoni Bahari Beach",
+                  "text": "O întindere pitorească de coastă cunoscută pentru nisipul său fin și valurile relaxante care se sparg la țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        39.193189,
+                        -6.628604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mahaba Beach",
+                  "text": "A sandy coastal retreat offering relaxation and warm Indian Ocean breezes in the Dar es Salaam region.",
+                  "category": "recreational",
+                  "coords": [
+                        39.178858,
+                        -6.627495
+                  ]
+            },
+            {
+                  "name": "Historic cemetery",
+                  "text": "Weathered stone graves and historical ruins preserved amidst the coastal environment near Dar es Salaam.",
+                  "category": "historical",
+                  "coords": [
+                        39.215083,
+                        -6.661367
+                  ]
+            },
+            {
+                  "name": "Kurio Village",
+                  "text": "A coastal resort area that blends local Tanzanian village life with seaside leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        39.208545,
+                        -6.650789
+                  ]
+            },
+            {
+                  "name": "Mbweni Ndege JKT Beach Resort",
+                  "text": "A seaside resort facility providing direct beach access and recreational amenities along the Tanzanian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        39.165327,
+                        -6.605039
+                  ]
+            },
+            {
+                  "name": "Ras Kilomoni Bahari Beach",
+                  "text": "A scenic stretch of coastline known for its soft sands and relaxing waves breaking on the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        39.193189,
+                        -6.628604
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TZ-02",
     coords: [39.183, -6.650],
@@ -1107,7 +2637,52 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-industry-mbeya-cement-economic-v2",
+    id: "tz-industry-mbeya-cement-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ifisi Zoo",
+                  "text": "Der Ifisi Zoo bietet den Besuchern in tz-industry-mbeya-cement-economic-v2 die Möglichkeit, lokale Wildtiere in nachgebildeten Lebensräumen zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        33.30544,
+                        -8.928781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ifisi Zoo",
+                  "text": "Az Ifisi Zoo lehetőséget nyújt a látogatóknak a helyi vadvilág megfigyelésére tz-industry-mbeya-cement-economic-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        33.30544,
+                        -8.928781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ifisi Zoo",
+                  "text": "Ifisi Zoo oferă vizitatorilor din tz-industry-mbeya-cement-economic-v2 șansa de a observa fauna locală în habitatele lor amenajate.",
+                  "category": "recreational",
+                  "coords": [
+                        33.30544,
+                        -8.928781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ifisi Zoo",
+                  "text": "Ifisi Zoo allows visitors in tz-industry-mbeya-cement-economic-v2 to observe regional wildlife kept in dedicated enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        33.30544,
+                        -8.928781
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TZ-12",
     coords: [33.366, -8.966],
@@ -1155,7 +2730,196 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-industry-morogoro-canvas-mill-economic-v2",
+    id: "tz-industry-morogoro-canvas-mill-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Multipurpose Hall (M. H)",
+                  "text": "Eine vielseitige Mehrzweckhalle, die als Veranstaltungsort für die Gemeinde in Morogoro dient.",
+                  "category": "cultural",
+                  "coords": [
+                        37.700529,
+                        -6.806642
+                  ]
+            },
+            {
+                  "name": "Upper Chuma Waterfall",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf einen fließenden Wasserfall in der Gegend von Morogoro.",
+                  "category": "natural",
+                  "coords": [
+                        37.682456,
+                        -6.878242
+                  ]
+            },
+            {
+                  "name": "Lower Chuma Waterfall",
+                  "text": "Ein natürlicher Aussichtspunkt, der einen Blick auf den unteren Abschnitt des Chuma-Wasserfalls in Morogoro bietet.",
+                  "category": "natural",
+                  "coords": [
+                        37.682564,
+                        -6.876883
+                  ]
+            },
+            {
+                  "name": "Lupanga",
+                  "text": "Ein markanter Berggipfel in den Uluguru-Bergen in der Nähe von Morogoro.",
+                  "category": "natural",
+                  "coords": [
+                        37.710206,
+                        -6.863396
+                  ]
+            },
+            {
+                  "name": "Morningsite",
+                  "text": "Eine Sehenswürdigkeit mit den Überresten einer alten deutschen Siedlung in der Region Morogoro.",
+                  "category": "landmark",
+                  "coords": [
+                        37.67129,
+                        -6.888055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Multipurpose Hall (M. H)",
+                  "text": "Sokoldalú többcélú csarnok, amely közösségi rendezvényhelyszínként szolgál Morogoróban.",
+                  "category": "cultural",
+                  "coords": [
+                        37.700529,
+                        -6.806642
+                  ]
+            },
+            {
+                  "name": "Upper Chuma Waterfall",
+                  "text": "Festői kilátópont, ahonnan kilátás nyílik egy vízesésre Morogoro környékén.",
+                  "category": "natural",
+                  "coords": [
+                        37.682456,
+                        -6.878242
+                  ]
+            },
+            {
+                  "name": "Lower Chuma Waterfall",
+                  "text": "Természetes kilátópont, amely rálátást biztosít a Chuma-vízesés alsó szakaszára Morogoróban.",
+                  "category": "natural",
+                  "coords": [
+                        37.682564,
+                        -6.876883
+                  ]
+            },
+            {
+                  "name": "Lupanga",
+                  "text": "Kiemelkedő hegycsúcs az Uluguru-hegységben, Morogoro közelében.",
+                  "category": "natural",
+                  "coords": [
+                        37.710206,
+                        -6.863396
+                  ]
+            },
+            {
+                  "name": "Morningsite",
+                  "text": "Látványosság, amely egy régi német település maradványait mutatja be a Morogoro régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        37.67129,
+                        -6.888055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Multipurpose Hall (M. H)",
+                  "text": "O sală multifuncțională versatilă, care servește ca spațiu comunitar în Morogoro.",
+                  "category": "cultural",
+                  "coords": [
+                        37.700529,
+                        -6.806642
+                  ]
+            },
+            {
+                  "name": "Upper Chuma Waterfall",
+                  "text": "Un punct de belvedere pitoresc care oferă vedere spre o cascadă în zona Morogoro.",
+                  "category": "natural",
+                  "coords": [
+                        37.682456,
+                        -6.878242
+                  ]
+            },
+            {
+                  "name": "Lower Chuma Waterfall",
+                  "text": "Un punct de belvedere natural care oferă priveliști ale secțiunii inferioare a Cascadei Chuma din Morogoro.",
+                  "category": "natural",
+                  "coords": [
+                        37.682564,
+                        -6.876883
+                  ]
+            },
+            {
+                  "name": "Lupanga",
+                  "text": "Un vârf montan proeminent situat în Munții Uluguru, lângă Morogoro.",
+                  "category": "natural",
+                  "coords": [
+                        37.710206,
+                        -6.863396
+                  ]
+            },
+            {
+                  "name": "Morningsite",
+                  "text": "O atracție care prezintă rămășițele unei vechi așezări germane în regiunea Morogoro.",
+                  "category": "landmark",
+                  "coords": [
+                        37.67129,
+                        -6.888055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Multipurpose Hall (M. H)",
+                  "text": "A versatile multi-purpose hall serving as a community venue in Morogoro.",
+                  "category": "cultural",
+                  "coords": [
+                        37.700529,
+                        -6.806642
+                  ]
+            },
+            {
+                  "name": "Upper Chuma Waterfall",
+                  "text": "A scenic viewpoint overlooking a flowing waterfall in the Morogoro area.",
+                  "category": "natural",
+                  "coords": [
+                        37.682456,
+                        -6.878242
+                  ]
+            },
+            {
+                  "name": "Lower Chuma Waterfall",
+                  "text": "A natural viewpoint offering sights of the lower section of the Chuma Waterfall in Morogoro.",
+                  "category": "natural",
+                  "coords": [
+                        37.682564,
+                        -6.876883
+                  ]
+            },
+            {
+                  "name": "Lupanga",
+                  "text": "A prominent mountain peak located in the Uluguru Mountains near Morogoro.",
+                  "category": "natural",
+                  "coords": [
+                        37.710206,
+                        -6.863396
+                  ]
+            },
+            {
+                  "name": "Morningsite",
+                  "text": "An attraction featuring the remains of an old German settlement in the Morogoro region.",
+                  "category": "landmark",
+                  "coords": [
+                        37.67129,
+                        -6.888055
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TZ-05",
     coords: [37.666, -6.833],
@@ -1347,7 +3111,232 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-industry-alaf-steel-dar-economic-v2",
+    id: "tz-industry-alaf-steel-dar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kiwanja cha Mpira",
+                  "text": "Ein Aussichtspunkt im Industriegebiet von Daressalam mit Blick auf den örtlichen Sportplatz.",
+                  "category": "natural",
+                  "coords": [
+                        39.224018,
+                        -6.831445
+                  ]
+            },
+            {
+                  "name": "Wallet",
+                  "text": "Eine lokale Attraktion im Industriegebiet von Daressalam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.225826,
+                        -6.83003
+                  ]
+            },
+            {
+                  "name": "Magofu ya ladwa",
+                  "text": "Ein kleines Museum, das sich zwischen den Industriestrukturen von Daressalam befindet.",
+                  "category": "museum",
+                  "coords": [
+                        39.208803,
+                        -6.83118
+                  ]
+            },
+            {
+                  "name": "maria",
+                  "text": "Eine gemeinschaftliche Attraktion im belebten Industriegebiet von Daressalam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262862,
+                        -6.904721
+                  ]
+            },
+            {
+                  "name": "Mnyamwezi Saloon",
+                  "text": "Ein lokales Kunst- und Sozialzentrum im Industriegebiet von Daressalam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.216063,
+                        -6.847095
+                  ]
+            },
+            {
+                  "name": "Chadema",
+                  "text": "Ein politisches und künstlerisches Zentrum für die lokale Gemeinschaft im Industriesektor von Daressalam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.245787,
+                        -6.838189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiwanja cha Mpira",
+                  "text": "Egy kilátó Dar es Salaam ipari negyedében, kilátással a helyi sportpályára.",
+                  "category": "natural",
+                  "coords": [
+                        39.224018,
+                        -6.831445
+                  ]
+            },
+            {
+                  "name": "Wallet",
+                  "text": "Egy helyi látványosság Dar es Salaam ipari övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.225826,
+                        -6.83003
+                  ]
+            },
+            {
+                  "name": "Magofu ya ladwa",
+                  "text": "Egy kis múzeum Dar es Salaam ipari épületei között.",
+                  "category": "museum",
+                  "coords": [
+                        39.208803,
+                        -6.83118
+                  ]
+            },
+            {
+                  "name": "maria",
+                  "text": "Közösségi látványosság Dar es Salaam nyüzsgő ipari negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262862,
+                        -6.904721
+                  ]
+            },
+            {
+                  "name": "Mnyamwezi Saloon",
+                  "text": "Egy helyi művészeti és közösségi központ Dar es Salaam ipari területén.",
+                  "category": "cultural",
+                  "coords": [
+                        39.216063,
+                        -6.847095
+                  ]
+            },
+            {
+                  "name": "Chadema",
+                  "text": "A helyi közösséget szolgáló politikai és művészeti központ Dar es Salaam ipari szektorában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.245787,
+                        -6.838189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiwanja cha Mpira",
+                  "text": "Un punct de belvedere în zona industrială din Dar es Salaam, cu vedere la terenul de sport local.",
+                  "category": "natural",
+                  "coords": [
+                        39.224018,
+                        -6.831445
+                  ]
+            },
+            {
+                  "name": "Wallet",
+                  "text": "O atracție locală situată în zona industrială din Dar es Salaam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.225826,
+                        -6.83003
+                  ]
+            },
+            {
+                  "name": "Magofu ya ladwa",
+                  "text": "Un mic spațiu muzeal situat printre structurile industriale din Dar es Salaam.",
+                  "category": "museum",
+                  "coords": [
+                        39.208803,
+                        -6.83118
+                  ]
+            },
+            {
+                  "name": "maria",
+                  "text": "O atracție comunitară amplasată în cartierul industrial aglomerat din Dar es Salaam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262862,
+                        -6.904721
+                  ]
+            },
+            {
+                  "name": "Mnyamwezi Saloon",
+                  "text": "Un centru de artă și socializare care funcționează în zona industrială din Dar es Salaam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.216063,
+                        -6.847095
+                  ]
+            },
+            {
+                  "name": "Chadema",
+                  "text": "Un centru politic și artistic care deservește comunitatea locală din sectorul industrial din Dar es Salaam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.245787,
+                        -6.838189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiwanja cha Mpira",
+                  "text": "A viewpoint in the industrial area of Dar es Salaam, offering views of the local sports ground.",
+                  "category": "natural",
+                  "coords": [
+                        39.224018,
+                        -6.831445
+                  ]
+            },
+            {
+                  "name": "Wallet",
+                  "text": "A local attraction situated within the industrial zone of Dar es Salaam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.225826,
+                        -6.83003
+                  ]
+            },
+            {
+                  "name": "Magofu ya ladwa",
+                  "text": "A small museum space located among the industrial structures of Dar es Salaam.",
+                  "category": "museum",
+                  "coords": [
+                        39.208803,
+                        -6.83118
+                  ]
+            },
+            {
+                  "name": "maria",
+                  "text": "A community attraction nestled in the busy industrial district of Dar es Salaam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.262862,
+                        -6.904721
+                  ]
+            },
+            {
+                  "name": "Mnyamwezi Saloon",
+                  "text": "A local arts and social centre functioning in the industrial area of Dar es Salaam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.216063,
+                        -6.847095
+                  ]
+            },
+            {
+                  "name": "Chadema",
+                  "text": "A political and arts centre serving the local community in Dar es Salaam's industrial sector.",
+                  "category": "cultural",
+                  "coords": [
+                        39.245787,
+                        -6.838189
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TZ-02",
     coords: [39.250, -6.850],
@@ -1395,7 +3384,304 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tz-industry-ubungo-power-plant-economic-v2",
+    id: "tz-industry-ubungo-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "Ein kooperatives Kunst- und Kulturzentrum im Bezirk Ubungo in Daressalam, das lokale tansanische Kreative unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "Ein natürliches Waldgebiet, das eine grüne Oase inmitten der industriellen Kulisse des Bezirks Ubungo bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "Ein lokales Denkmal im belebten Viertel Sinza in der Nähe des Wanyama Hotels.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "BK Home",
+                  "text": "Ein lokaler Aussichtspunkt im Gebiet Ubungo, der erhabene Perspektiven über die umliegende Stadtlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.14822,
+                        -6.810678
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "Ein kreativer Veranstaltungsort im Bezirk Ubungo, der künstlerische Workshops und kulturelle Ausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das lebhafte Viertel Uzuri in Daressalam.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Madula",
+                  "text": "Ein lokales Kulturzentrum, das sich der Förderung und dem Erhalt des traditionellen tansanischen Kunsthandwerks widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        39.238774,
+                        -6.800776
+                  ]
+            },
+            {
+                  "name": "Umoja wa Vijana",
+                  "text": "Ein auf die Gemeinschaft ausgerichtetes Jugendkunstzentrum in Daressalam, das jungen lokalen Künstlern eine Plattform bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        39.236765,
+                        -6.805153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "Egy szövetkezeti művészeti és kulturális központ Dar es-Salaam Ubungo kerületében, amely a helyi tanzániai alkotókat támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "Egy természetes erdős rész, amely zöld oázist nyújt az Ubungo kerület ipari háttere közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "Egy helyi emlékmű, amely a nyüzsgő Sinza negyedben, a Wanyama Hotel közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "BK Home",
+                  "text": "Egy helyi kilátó az Ubungo területén, amely magaslati perspektívát nyújt a környező városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        39.14822,
+                        -6.810678
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "Egy kreatív helyszín az Ubungo kerületben, amely művészeti műhelyeknek és kulturális kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "Egy megfigyelőhely, amely pazar kilátást nyújt Dar es-Salaam nyüzsgő Uzuri negyedére.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Madula",
+                  "text": "Egy helyi kulturális központ, amely a hagyományos tanzániai művészetek és kézművesség népszerűsítésének és megőrzésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        39.238774,
+                        -6.800776
+                  ]
+            },
+            {
+                  "name": "Umoja wa Vijana",
+                  "text": "Egy közösségközpontú ifjúsági művészeti központ Dar es-Salaamban, amely platformot biztosít a fiatal helyi művészek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        39.236765,
+                        -6.805153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "Un centru de artă și cultură cooperativ din cartierul Ubungo al orașului Dar es Salaam, ce susține creatorii locali tanzanieni.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "O zonă de pădure naturală care oferă o oază verde în mijlocul fundalului industrial al cartierului Ubungo.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "O structură memorială locală situată în cartierul plin de viață Sinza, lângă Hotelul Wanyama.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "BK Home",
+                  "text": "Un punct de observație local în zona Ubungo, oferind perspective ridicate asupra peisajului urban înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        39.14822,
+                        -6.810678
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "O locație creativă din cartierul Ubungo care găzduiește ateliere artistice și expoziții culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "Un punct de observație ce oferă vederi panoramice asupra cartierului animat Uzuri din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Madula",
+                  "text": "Un centru cultural local dedicat promovării și conservării artei și meșteșugurilor tradiționale tanzaniene.",
+                  "category": "cultural",
+                  "coords": [
+                        39.238774,
+                        -6.800776
+                  ]
+            },
+            {
+                  "name": "Umoja wa Vijana",
+                  "text": "Un centru de artă pentru tineret, axat pe comunitate, în Dar es Salaam, oferind o platformă tinerilor artiști locali.",
+                  "category": "cultural",
+                  "coords": [
+                        39.236765,
+                        -6.805153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "A cooperative arts and cultural hub in the Ubungo district of Dar es Salaam, supporting local Tanzanian creatives.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "A pocket of natural woodland providing a green oasis amidst the industrial backdrop of the Ubungo district.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "A local memorial structure situated in the bustling Sinza neighborhood near the Wanyama Hotel.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "BK Home",
+                  "text": "A local vantage point in the Ubungo area, offering elevated perspectives over the surrounding urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        39.14822,
+                        -6.810678
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "A creative venue in the Ubungo district that hosts artistic workshops and cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "An observation spot offering sweeping views over the lively Uzuri neighborhood in Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Madula",
+                  "text": "A local cultural center dedicated to promoting and preserving traditional Tanzanian arts and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        39.238774,
+                        -6.800776
+                  ]
+            },
+            {
+                  "name": "Umoja wa Vijana",
+                  "text": "A community-focused youth arts center in Dar es Salaam providing a platform for young local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        39.236765,
+                        -6.805153
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TZ-02",
     coords: [39.216, -6.783],

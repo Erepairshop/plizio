@@ -23077,7 +23077,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värnamo kyrka",
-                  "text": "Die Kirche von Värnamo ist ein markantes religiöses Bauwerk im Zentrum der Stadt.",
+                  "text": "Värnamo Kirche, erbaut 1874 von Architekt Albert Törnqvist.",
                   "category": "religious",
                   "coords": [
                         14.048619,
@@ -23086,7 +23086,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Johannes kyrka",
-                  "text": "Die Sankt Johannes kyrka ist eine architektonisch interessante Kirche in Värnamo.",
+                  "text": "Die Sankt-Johannes-Kirche in Värnamo, 1984 von Lennart Arvidsson erbaut.",
                   "category": "religious",
                   "coords": [
                         14.027835,
@@ -23095,7 +23095,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "Die Mariakyrkan ist eine moderne Kirche, die für die Gemeinde von Värnamo errichtet wurde.",
+                  "text": "Die Marienkirche in Värnamo, 1977 von Anders Berglund erbaut.",
                   "category": "religious",
                   "coords": [
                         14.068241,
@@ -23160,7 +23160,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värnamo kyrka",
-                  "text": "Värnamo temploma a városközpont egyik meghatározó vallási épülete.",
+                  "text": "Värnamo templom, 1874-ben épült Albert Törnqvist építész tervei alapján.",
                   "category": "religious",
                   "coords": [
                         14.048619,
@@ -23169,7 +23169,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Johannes kyrka",
-                  "text": "A Sankt Johannes kyrka egy építészetileg érdekes templom Värnamóban.",
+                  "text": "A Szent János-templom Värnamóban, 1984-ben építette Lennart Arvidsson.",
                   "category": "religious",
                   "coords": [
                         14.027835,
@@ -23178,7 +23178,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "A Mariakyrkan egy modern templom, amely Värnamo közössége számára épült.",
+                  "text": "A Mária-templom Värnamóban, 1977-ben építette Anders Berglund.",
                   "category": "religious",
                   "coords": [
                         14.068241,
@@ -23243,7 +23243,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värnamo kyrka",
-                  "text": "Biserica din Värnamo este o structură religioasă proeminentă din centrul orașului.",
+                  "text": "Biserica Värnamo, construită în 1874 de arhitectul Albert Törnqvist.",
                   "category": "religious",
                   "coords": [
                         14.048619,
@@ -23252,7 +23252,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Johannes kyrka",
-                  "text": "Sankt Johannes kyrka este o biserică interesantă din punct de vedere arhitectural din Värnamo.",
+                  "text": "Biserica Sfântul Ioan din Värnamo, construită în 1984 de Lennart Arvidsson.",
                   "category": "religious",
                   "coords": [
                         14.027835,
@@ -23261,7 +23261,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "Mariakyrkan este o biserică modernă construită pentru comunitatea din Värnamo.",
+                  "text": "Biserica Maria din Värnamo, construită în 1977 de Anders Berglund.",
                   "category": "religious",
                   "coords": [
                         14.068241,
@@ -23326,7 +23326,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värnamo kyrka",
-                  "text": "Värnamo Church is a prominent religious building in the center of the city.",
+                  "text": "Värnamo Church, built in 1874 by architect Albert Törnqvist.",
                   "category": "religious",
                   "coords": [
                         14.048619,
@@ -23335,7 +23335,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Johannes kyrka",
-                  "text": "Sankt Johannes kyrka is an architecturally interesting church in Värnamo.",
+                  "text": "St. John's Church in Värnamo, built in 1984 by Lennart Arvidsson.",
                   "category": "religious",
                   "coords": [
                         14.027835,
@@ -23344,7 +23344,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "Mariakyrkan is a modern church built for the community of Värnamo.",
+                  "text": "Mariakyrkan in Värnamo, built in 1977 by Anders Berglund.",
                   "category": "religious",
                   "coords": [
                         14.068241,
@@ -32015,7 +32015,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Christinae kyrka",
-                  "text": "Die Christinae kyrka ist eine bedeutende Kirche im Herzen von Alingsås.",
+                  "text": "Christinae-Kirche in Alingsås, erbaut 1642.",
                   "category": "religious",
                   "coords": [
                         12.53208,
@@ -32024,7 +32024,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Landskyrkan",
-                  "text": "Die Landskyrkan ist eine historische Kirche in Alingsås.",
+                  "text": "Landskyrkan in Alingsås, eine mittelalterliche Kirche aus dem Jahr 1293.",
                   "category": "religious",
                   "coords": [
                         12.539118,
@@ -32332,7 +32332,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Christinae kyrka",
-                  "text": "A Christinae kyrka egy jelentős templom Alingsås szívében.",
+                  "text": "Christinae templom Alingsåsban, 1642-ben épült.",
                   "category": "religious",
                   "coords": [
                         12.53208,
@@ -32341,7 +32341,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Landskyrkan",
-                  "text": "Az alingsåsi Landskyrkan egy jelentős evangélikus templom Svédországban.",
+                  "text": "Landskyrkan Alingsåsban, egy 1293-ból származó középkori templom.",
                   "category": "religious",
                   "coords": [
                         12.539118,
@@ -32649,7 +32649,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Christinae kyrka",
-                  "text": "Christinae kyrka este o biserică importantă situată în inima orașului Alingsås.",
+                  "text": "Biserica Christinae din Alingsås, construită în 1642.",
                   "category": "religious",
                   "coords": [
                         12.53208,
@@ -32658,7 +32658,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Landskyrkan",
-                  "text": "Landskyrkan este o biserică istorică situată în orașul Alingsås.",
+                  "text": "Landskyrkan din Alingsås, o biserică medievală din 1293.",
                   "category": "religious",
                   "coords": [
                         12.539118,
@@ -32966,7 +32966,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Christinae kyrka",
-                  "text": "Christinae kyrka is a significant church located in the heart of Alingsås.",
+                  "text": "Christinae Church in Alingsås, constructed in 1642.",
                   "category": "religious",
                   "coords": [
                         12.53208,
@@ -32975,7 +32975,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Landskyrkan",
-                  "text": "Landskyrkan is a historic church located in Alingsås, Sweden.",
+                  "text": "Landskyrkan in Alingsås, a medieval church from 1293.",
                   "category": "religious",
                   "coords": [
                         12.539118,
@@ -38297,7 +38297,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "Die Kirche des Stadtteils Hagalund in Sundbyberg.",
+                  "text": "Hagalunds Kirche in Sundbyberg, erbaut 1906.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -38324,7 +38324,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Ansgars kyrka",
-                  "text": "Eine Kirche in Sundbyberg, benannt nach dem Heiligen Ansgar.",
+                  "text": "Sankt-Ansgar-Kirche in Sundbyberg, geweiht 1963.",
                   "category": "religious",
                   "coords": [
                         17.978085,
@@ -38857,7 +38857,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "Hagalund városrész temploma Sundbybergben.",
+                  "text": "Hagalunds templom Sundbybergben, 1906-ban épült.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -38884,7 +38884,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Ansgars kyrka",
-                  "text": "Szent Anzgárról elnevezett templom Sundbybergben.",
+                  "text": "Szent Ansgar templom Sundbybergben, 1963-ban szentelték fel.",
                   "category": "religious",
                   "coords": [
                         17.978085,
@@ -39417,7 +39417,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "Biserica cartierului Hagalund din Sundbyberg.",
+                  "text": "Biserica Hagalunds din Sundbyberg, construită în 1906.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -39444,7 +39444,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Ansgars kyrka",
-                  "text": "O biserică în Sundbyberg, numită după Sfântul Ansgar.",
+                  "text": "Biserica Sf. Ansgar din Sundbyberg, sfințită în 1963.",
                   "category": "religious",
                   "coords": [
                         17.978085,
@@ -39977,7 +39977,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "The church of the Hagalund district in Sundbyberg.",
+                  "text": "Hagalunds Church in Sundbyberg, built in 1906.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -40004,7 +40004,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Ansgars kyrka",
-                  "text": "A church in Sundbyberg named after Saint Ansgar.",
+                  "text": "St. Ansgar's Church in Sundbyberg, consecrated in 1963.",
                   "category": "religious",
                   "coords": [
                         17.978085,
@@ -40529,7 +40529,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solna stadshus",
-                  "text": "Das Rathaus von Solna ist das Verwaltungszentrum der Gemeinde.",
+                  "text": "Solna Rathaus, entworfen von Architekt Sture Frölén.",
                   "category": "historical",
                   "coords": [
                         18.002783,
@@ -40574,7 +40574,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "Die Hagalunds kyrka ist eine charmante Holzkirche in Solna.",
+                  "text": "Hagalunds Kirche in Solna, erbaut 1906.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -41323,7 +41323,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solna stadshus",
-                  "text": "Solna városháza a település közigazgatási központja.",
+                  "text": "Solna városháza, Sture Frölén építész tervezte.",
                   "category": "historical",
                   "coords": [
                         18.002783,
@@ -41368,7 +41368,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "A Hagalunds kyrka egy bájos fatemplom Solna városában.",
+                  "text": "Hagalunds templom Solnában, 1906-ban épült.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -42117,7 +42117,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solna stadshus",
-                  "text": "Primăria din Solna este centrul administrativ al municipalității.",
+                  "text": "Primăria Solna, proiectată de arhitectul Sture Frölén.",
                   "category": "historical",
                   "coords": [
                         18.002783,
@@ -42162,7 +42162,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "Hagalunds kyrka este o biserică de lemn pitorească din Solna.",
+                  "text": "Biserica Hagalunds din Solna, construită în 1906.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -42911,7 +42911,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solna stadshus",
-                  "text": "Solna Town Hall is the administrative center of the municipality.",
+                  "text": "Solna City Hall, designed by architect Sture Frölén.",
                   "category": "historical",
                   "coords": [
                         18.002783,
@@ -42956,7 +42956,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hagalunds kyrka",
-                  "text": "Hagalund Church is a charming wooden church in Solna.",
+                  "text": "Hagalunds Church in Solna, built in 1906.",
                   "category": "religious",
                   "coords": [
                         18.008621,
@@ -52175,7 +52175,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flemingsbergs kyrka",
-                  "text": "Ein moderner Kirchenbau im Stadtteil Flemingsberg.",
+                  "text": "Flemingsberg Kirche in Huddinge, eingeweiht im August 1976.",
                   "category": "religious",
                   "coords": [
                         17.93886,
@@ -52321,7 +52321,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flemingsbergs kyrka",
-                  "text": "Modern templomépület Flemingsberg városrészben.",
+                  "text": "Flemingsberg templom Huddinge-ben, 1976 augusztusában avatták fel.",
                   "category": "religious",
                   "coords": [
                         17.93886,
@@ -52467,7 +52467,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flemingsbergs kyrka",
-                  "text": "O clădire modernă de biserică în cartierul Flemingsberg.",
+                  "text": "Biserica Flemingsberg din Huddinge, inaugurată în august 1976.",
                   "category": "religious",
                   "coords": [
                         17.93886,
@@ -52613,7 +52613,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flemingsbergs kyrka",
-                  "text": "A modern church building in the Flemingsberg district.",
+                  "text": "Flemingsberg Church in Huddinge, inaugurated in August 1976.",
                   "category": "religious",
                   "coords": [
                         17.93886,
@@ -52805,7 +52805,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängskyrkan",
-                  "text": "Eine moderne Kirche in der Gemeinde Botkyrka.",
+                  "text": "Ängskyrkan in Botkyrka, fertiggestellt 1993.",
                   "category": "religious",
                   "coords": [
                         17.833706,
@@ -52996,7 +52996,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängskyrkan",
-                  "text": "Modern templom Botkyrka községben.",
+                  "text": "Ängskyrkan Botkyrkában, 1993-ban készült el.",
                   "category": "religious",
                   "coords": [
                         17.833706,
@@ -53187,7 +53187,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängskyrkan",
-                  "text": "O biserică modernă în comuna Botkyrka.",
+                  "text": "Ängskyrkan din Botkyrka, finalizată în 1993.",
                   "category": "religious",
                   "coords": [
                         17.833706,
@@ -53378,7 +53378,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängskyrkan",
-                  "text": "A modern church in the Botkyrka municipality.",
+                  "text": "Ängskyrkan in Botkyrka, completed in 1993.",
                   "category": "religious",
                   "coords": [
                         17.833706,

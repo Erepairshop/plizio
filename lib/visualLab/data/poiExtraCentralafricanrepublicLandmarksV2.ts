@@ -183,7 +183,52 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       fr: ["Bâtiment gouvernemental le plus important du pays.", "Zone strictement gardée.", "Symbole architectural du pouvoir de l'État."],
     }, image: "/poi-images/palais-de-la-renaissance-landmarks-v2.webp"},
   {
-    id: "stade-barthelemy-boganda-landmarks-v2",
+    id: "stade-barthelemy-boganda-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salle omnisports",
+                  "text": "Die Salle omnisports ist eine überdachte Sportarena innerhalb des Barthélémy-Boganda-Stadionkomplexes, in der lebhafte lokale Leichtathletikveranstaltungen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563557,
+                        4.376024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salle omnisports",
+                  "text": "A Salle omnisports egy fedett sportaréna a Barthélémy Boganda Stadion komplexumán belül, amely pezsgő helyi atlétikai eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563557,
+                        4.376024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salle omnisports",
+                  "text": "Salle omnisports este o arenă sportivă interioară din cadrul complexului sportiv Barthélémy Boganda, care găzduiește evenimente atletice locale vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563557,
+                        4.376024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salle omnisports",
+                  "text": "The Salle omnisports is an indoor sporting arena located within the Barthélémy Boganda Stadium complex, hosting vibrant local athletic events.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563557,
+                        4.376024
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CF-BGF",
     coords: [18.563, 4.376],
@@ -408,7 +453,52 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       fr: ["Installé dans un bâtiment colonial historique.", "Présente des instruments de musique et des outils traditionnels.", "Lieu le plus important pour l'histoire culturelle."],
     }, image: "/poi-images/musee-boganda-landmarks-v2.webp"},
   {
-    id: "universite-de-bangui-landmarks-v2",
+    id: "universite-de-bangui-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place Marabena (Rond-point Colombe)",
+                  "text": "Dieser markante Kreisverkehr in der Nähe der Universität von Bangui, auch als Rond-point Colombe bekannt, verfügt über eine auffällige Taubenskulptur, die den Frieden symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        18.554077,
+                        4.395527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Marabena (Rond-point Colombe)",
+                  "text": "Ez a Bangui Egyetem közelében található, Rond-point Colombe néven is ismert kiemelkedő körforgalom egy feltűnő galambszoborral büszkélkedhet, amely a békét szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        18.554077,
+                        4.395527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Marabena (Rond-point Colombe)",
+                  "text": "Cunoscut și sub numele de Rond-point Colombe, acest sens giratoriu proeminent din apropierea Universității din Bangui prezintă o sculptură izbitoare a unui porumbel care simbolizează pacea.",
+                  "category": "historical",
+                  "coords": [
+                        18.554077,
+                        4.395527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Marabena (Rond-point Colombe)",
+                  "text": "Also known as Rond-point Colombe, this prominent roundabout near the University of Bangui features a striking dove sculpture symbolizing peace.",
+                  "category": "historical",
+                  "coords": [
+                        18.554077,
+                        4.395527
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CF-BGF",
     coords: [18.558, 4.385],
@@ -497,7 +587,52 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       fr: ["Un labyrinthe d'étals de vente.", "Célèbre pour les textiles et les aliments locaux.", "Le cœur économique de la ville."],
     }, image: "/poi-images/grand-marche-bangui-landmarks-v2.webp"},
   {
-    id: "aeroport-m-poko-landmarks-v2",
+    id: "aeroport-m-poko-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point Abel Goumba (serpent)",
+                  "text": "Der Kreisverkehr Abel Goumba in der Nähe des Flughafens M'Poko in Bangui ist leicht an seiner markanten Schlangenskulptur zu erkennen.",
+                  "category": "historical",
+                  "coords": [
+                        18.536716,
+                        4.384204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point Abel Goumba (serpent)",
+                  "text": "A bangui M'Poko repülőtér közelében található Abel Goumba körforgalom könnyen felismerhető a jellegzetes kígyószobráról.",
+                  "category": "historical",
+                  "coords": [
+                        18.536716,
+                        4.384204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point Abel Goumba (serpent)",
+                  "text": "Sensul giratoriu Abel Goumba din apropierea aeroportului M'Poko din Bangui este ușor de recunoscut după sculptura sa distinctivă în formă de șarpe.",
+                  "category": "historical",
+                  "coords": [
+                        18.536716,
+                        4.384204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point Abel Goumba (serpent)",
+                  "text": "Situated near M'Poko Airport in Bangui, the Abel Goumba roundabout is easily recognizable by its distinctive serpent sculpture.",
+                  "category": "historical",
+                  "coords": [
+                        18.536716,
+                        4.384204
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CF-BGF",
     coords: [18.520, 4.395],
@@ -849,7 +984,52 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       fr: ["Marque l'intersection d'importantes routes nationales.", "Lieu de commémorations officielles.", "Symbole de paix."],
     }, image: "/poi-images/monument-unite-sibut-landmarks-v2.webp"},
   {
-    id: "centre-culturel-francais-landmarks-v2",
+    id: "centre-culturel-francais-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National Barthélémy Boganda",
+                  "text": "Das Nationalmuseum Barthélemy Boganda präsentiert die ethnographische und kulturelle Geschichte der Zentralafrikanischen Republik.",
+                  "category": "museum",
+                  "coords": [
+                        18.577016,
+                        4.364094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National Barthélémy Boganda",
+                  "text": "A Barthélemy Boganda Nemzeti Múzeum a Közép-afrikai Köztársaság néprajzi és kulturális történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.577016,
+                        4.364094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National Barthélémy Boganda",
+                  "text": "Muzeul Național Barthélemy Boganda prezintă istoria etnografică și culturală a Republicii Centrafricane.",
+                  "category": "museum",
+                  "coords": [
+                        18.577016,
+                        4.364094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum Barthelemy Boganda",
+                  "text": "The Barthélemy Boganda National Museum showcases the ethnographic and cultural history of the Central African Republic.",
+                  "category": "museum",
+                  "coords": [
+                        18.577016,
+                        4.364094
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CF-BGF",
     coords: [18.579, 4.369],

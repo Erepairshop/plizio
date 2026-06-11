@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraRwandaEconomicV2: POI[] = [
   {
-    id: "rw-kigali-sez-economic-v2",
+    id: "rw-kigali-sez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kimironko Market",
+                  "text": "Der Kimironko-Markt ist ein weitläufiger, lebhafter überdachter Basar in Kigali, der für seine farbenfrohen ostafrikanischen Stoffe und vielfältigen Stände mit frischen lokalen Produkten berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        30.126219,
+                        -1.949888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kimironko Market",
+                  "text": "A Kimironko piac egy kiterjedt, nyüzsgő fedett bazár Kigaliban, amely színes kelet-afrikai szöveteiről és friss helyi termékeket kínáló változatos standjairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        30.126219,
+                        -1.949888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kimironko Market",
+                  "text": "Piața Kimironko este un bazar interior întins și plin de viață din Kigali, faimos pentru țesăturile sale colorate din Africa de Est și pentru tarabele diverse cu produse locale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        30.126219,
+                        -1.949888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kimironko Market",
+                  "text": "Kimironko Market is a sprawling, vibrant indoor bazaar in Kigali famed for its colorful East African fabrics and diverse stalls of fresh local produce.",
+                  "category": "cultural",
+                  "coords": [
+                        30.126219,
+                        -1.949888
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RW-01",
     coords: [30.134, -1.954],
@@ -627,7 +672,52 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     }
   },
   {
-    id: "rw-bakhresa-grain-economic-v2",
+    id: "rw-bakhresa-grain-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyandungu Urban Wetland Eco Tourism Park",
+                  "text": "Dieser sanierte städtische Feuchtgebietspark in Kigali bietet ökologische Wanderwege und schützt die biologische Vielfalt.",
+                  "category": "park",
+                  "coords": [
+                        30.149861,
+                        -1.957073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyandungu Urban Wetland Eco Tourism Park",
+                  "text": "Ez a Kigaliban található rehabilitált városi vizesélőhely-park ökológiai túraútvonalakat kínál és védi a biológiai sokféleséget.",
+                  "category": "park",
+                  "coords": [
+                        30.149861,
+                        -1.957073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyandungu Urban Wetland Eco Tourism Park",
+                  "text": "Acest parc urban de zone umede reabilitat din Kigali oferă trasee ecologice și protejează biodiversitatea.",
+                  "category": "park",
+                  "coords": [
+                        30.149861,
+                        -1.957073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyandungu Urban Wetland Eco Tourism Park",
+                  "text": "This restored urban wetland park in Kigali features ecological trails and protects local biodiversity.",
+                  "category": "park",
+                  "coords": [
+                        30.149861,
+                        -1.957073
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RW-01",
     coords: [30.141, -1.956],
@@ -819,7 +909,88 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     }
   },
   {
-    id: "rw-rutsiro-mining-economic-v2",
+    id: "rw-rutsiro-mining-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Kivu Viewpoint (2026m)",
+                  "text": "Auf einer Höhe von 2026 Metern bietet dieser Aussichtspunkt ein weites Panorama über das Wasser des Kiwusees.",
+                  "category": "natural",
+                  "coords": [
+                        29.391178,
+                        -1.977365
+                  ]
+            },
+            {
+                  "name": "Great view of Kivu Lake stp",
+                  "text": "Ein malerischer Rastplatz im Rutsiro-Distrikt, der Besuchern einen weiten, unverbauten Blick über die riesige Fläche des Kiwusees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.388015,
+                        -1.968186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Kivu Viewpoint (2026m)",
+                  "text": "A 2026 méteres magasságban található kilátópont lenyűgöző panorámát nyújt a Kivu-tó vizére.",
+                  "category": "natural",
+                  "coords": [
+                        29.391178,
+                        -1.977365
+                  ]
+            },
+            {
+                  "name": "Great view of Kivu Lake stp",
+                  "text": "Festői pihenőhely a Rutsiro körzetben, amely zavartalan, széles kilátást nyújt a Kivu-tó hatalmas víztükrére.",
+                  "category": "natural",
+                  "coords": [
+                        29.388015,
+                        -1.968186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Kivu Viewpoint (2026m)",
+                  "text": "Situat la o altitudine de 2026 de metri, acest punct de observație oferă panorame vaste asupra apelor Lacului Kivu.",
+                  "category": "natural",
+                  "coords": [
+                        29.391178,
+                        -1.977365
+                  ]
+            },
+            {
+                  "name": "Great view of Kivu Lake stp",
+                  "text": "Un popas pitoresc în districtul Rutsiro, oferind vizitatorilor priveliști neobstrucționate și întinse peste vasta suprafață a Lacului Kivu.",
+                  "category": "natural",
+                  "coords": [
+                        29.388015,
+                        -1.968186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Kivu Viewpoint (2026m)",
+                  "text": "Perched at an elevation of 2026 metres, this vantage point provides sweeping panoramas over the waters of Lake Kivu.",
+                  "category": "natural",
+                  "coords": [
+                        29.391178,
+                        -1.977365
+                  ]
+            },
+            {
+                  "name": "Great view of Kivu Lake stp",
+                  "text": "A scenic rest stop in the Rutsiro district offering visitors expansive, unobstructed views across the vast expanse of Lake Kivu.",
+                  "category": "natural",
+                  "coords": [
+                        29.388015,
+                        -1.968186
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RW-03",
     coords: [29.331, -1.954],

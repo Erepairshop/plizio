@@ -117,7 +117,88 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     }
   },
   {
-    id: "mongomo-cities-v2",
+    id: "mongomo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basílica de la Inmaculada Concepción",
+                  "text": "Die Basílica de la Inmaculada Concepción ist eine markante katholische Basilika, die als bedeutendes religiöses Wahrzeichen in Mongomo gilt.",
+                  "category": "religious",
+                  "coords": [
+                        11.298714,
+                        1.622602
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "Der Torre de Reloj ist eine architektonische Uhrenturm-Attraktion in der Nähe von Mongomo.",
+                  "category": "landmark",
+                  "coords": [
+                        11.319821,
+                        1.627589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basílica de la Inmaculada Concepción",
+                  "text": "A Basílica de la Inmaculada Concepción egy kiemelkedő katolikus bazilika, amely fontos vallási nevezetesség Mongomóban.",
+                  "category": "religious",
+                  "coords": [
+                        11.298714,
+                        1.622602
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "A Torre de Reloj egy építészeti óratorony látványosság Mongomo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.319821,
+                        1.627589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basílica de la Inmaculada Concepción",
+                  "text": "Basílica de la Inmaculada Concepción este o bazilică catolică proeminentă, fiind un punct de reper religios major în Mongomo.",
+                  "category": "religious",
+                  "coords": [
+                        11.298714,
+                        1.622602
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "Torre de Reloj este o atracție arhitecturală sub formă de turn cu ceas lângă Mongomo.",
+                  "category": "landmark",
+                  "coords": [
+                        11.319821,
+                        1.627589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basílica de la Inmaculada Concepción",
+                  "text": "The Basílica de la Inmaculada Concepción is a prominent Catholic basilica standing as a major religious landmark in Mongomo.",
+                  "category": "religious",
+                  "coords": [
+                        11.298714,
+                        1.622602
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "The Torre de Reloj is an architectural clock tower attraction near Mongomo.",
+                  "category": "landmark",
+                  "coords": [
+                        11.319821,
+                        1.627589
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GQ-WN",
     coords: [11.3133, 1.6275],

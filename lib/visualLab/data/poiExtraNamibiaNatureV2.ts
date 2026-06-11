@@ -208,7 +208,52 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
      image: "/poi-images/na-kunene-river-nature-v2.webp"},
     {
-    id: "na-brandberg-mountain-nature-v2",
+    id: "na-brandberg-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horn",
+                  "text": "Das Horn ist ein markanter, scharfer Berggipfel, der Teil des imposanten Brandberg-Massivs in der Namib-Wüste ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.536509,
+                        -21.103385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horn",
+                  "text": "A Horn egy jellegzetesen éles hegycsúcs, amely a Namib-sivatagban található impozáns Brandberg-hegység részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        14.536509,
+                        -21.103385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horn",
+                  "text": "Horn este un vârf montan ascuțit distinct, care face parte din impunătorul masiv Brandberg din deșertul Namib.",
+                  "category": "natural",
+                  "coords": [
+                        14.536509,
+                        -21.103385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horn",
+                  "text": "The Horn is a distinctively sharp mountain peak forming part of the imposing Brandberg massif in the Namib Desert.",
+                  "category": "natural",
+                  "coords": [
+                        14.536509,
+                        -21.103385
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-ER",
     coords: [14.5, -21.1],
@@ -249,7 +294,52 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
      image: "/poi-images/na-brandberg-mountain-nature-v2.webp"},
   {
-    id: "na-spitzkoppe-nature-v2",
+    id: "na-spitzkoppe-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cave with San Paintings",
+                  "text": "Diese Höhle an der Spitzkoppe birgt gut erhaltene Felsmalereien der San.",
+                  "category": "landmark",
+                  "coords": [
+                        15.049783,
+                        -21.87016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cave with San Paintings",
+                  "text": "Ez a Spitzkoppe-hegységben található barlang a szan nép ősi sziklafestményeit őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        15.049783,
+                        -21.87016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cave with San Paintings",
+                  "text": "Această peșteră din zona Spitzkoppe adăpostește picturi rupestre antice bine conservate ale populației San.",
+                  "category": "landmark",
+                  "coords": [
+                        15.049783,
+                        -21.87016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cave with San Paintings",
+                  "text": "This cave in the Spitzkoppe area features well-preserved ancient rock art created by the San people.",
+                  "category": "landmark",
+                  "coords": [
+                        15.049783,
+                        -21.87016
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-ER",
     coords: [15.1, -21.8],
@@ -618,7 +708,52 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
      image: "/poi-images/na-tsauchab-river-nature-v2.webp"},
   {
-    id: "na-hoarusib-river-nature-v2",
+    id: "na-hoarusib-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grizzly bear rock formation",
+                  "text": "Diese durch Wind- und Wassererosion geformte, markante Felsformation entlang des Hoarusib-Flusses ähnelt auf natürliche Weise einem stehenden Grizzlybären.",
+                  "category": "landmark",
+                  "coords": [
+                        12.576454,
+                        -18.619181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grizzly bear rock formation",
+                  "text": "A szél és a víz eróziója által kivájt, a Hoarusib folyó mentén található feltűnő sziklaalakzat természetes módon egy álló grizzly medvére hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        12.576454,
+                        -18.619181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grizzly bear rock formation",
+                  "text": "Sculptată de eroziunea vântului și a apei, această formațiune stâncoasă proeminentă de-a lungul râului Hoarusib seamănă în mod natural cu un urs grizzly stând în picioare.",
+                  "category": "landmark",
+                  "coords": [
+                        12.576454,
+                        -18.619181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grizzly bear rock formation",
+                  "text": "Carved by wind and water erosion, this prominent rock formation along the Hoarusib River naturally resembles a standing grizzly bear.",
+                  "category": "landmark",
+                  "coords": [
+                        12.576454,
+                        -18.619181
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "NA-KU",
     coords: [12.6, -18.6],
@@ -782,7 +917,52 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
      image: "/poi-images/na-fish-river-nature-v2.webp"},
   {
-    id: "na-hardap-dam-nature-v2",
+    id: "na-hardap-dam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hardap Game Park",
+                  "text": "Dieses Naturschutzgebiet umgibt Namibias größten Stausee und bietet einen wichtigen Lebensraum für vielfältige Vogelarten und an Trockenheit angepasstes Wild.",
+                  "category": "natural",
+                  "coords": [
+                        17.767276,
+                        -24.500298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hardap Game Park",
+                  "text": "Ez a vadvédelmi terület Namíbia legnagyobb mesterséges tava körül terül el, döntő fontosságú élőhelyet biztosítva a változatos madárfajok és a szárazsághoz alkalmazkodott vadak számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.767276,
+                        -24.500298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hardap Game Park",
+                  "text": "Acest sanctuar de viață sălbatică înconjoară cel mai mare lac artificial din Namibia, oferind un habitat crucial pentru diverse specii de păsări și vânat adaptat la zonele aride.",
+                  "category": "natural",
+                  "coords": [
+                        17.767276,
+                        -24.500298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hardap Game Park",
+                  "text": "This wildlife sanctuary surrounds Namibia's largest man-made lake, providing a crucial habitat for diverse bird species and arid-adapted game.",
+                  "category": "natural",
+                  "coords": [
+                        17.767276,
+                        -24.500298
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NA-HA",
     coords: [17.8, -24.5],
@@ -823,7 +1003,52 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
      image: "/poi-images/na-hardap-dam-nature-v2.webp"},
   {
-    id: "na-otjikoto-lake-nature-v2",
+    id: "na-otjikoto-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Oshikoto",
+                  "text": "Dieser bemerkenswert tiefe, kreisförmige Doline-See ist bekannt für seine steilen Kalksteinwände und als Ort, an dem sich zurückziehende deutsche Truppen im Ersten Weltkrieg Artillerie versenkten.",
+                  "category": "landmark",
+                  "coords": [
+                        17.550759,
+                        -19.194715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Oshikoto",
+                  "text": "Ez a figyelemre méltóan mély, kör alakú víznyelő tó meredek mészkőfalairól ismert, valamint arról, hogy a visszavonuló német csapatok ide süllyesztették tüzérségüket az első világháború alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.550759,
+                        -19.194715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Oshikoto",
+                  "text": "Acest lac de dolină circular, remarcabil de adânc, este renumit pentru pereții săi abrupți de calcar și ca loc în care trupele germane în retragere au aruncat artilerie în timpul Primului Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        17.550759,
+                        -19.194715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Oshikoto",
+                  "text": "This remarkably deep, circular sinkhole lake is renowned for its steep limestone walls and as the site where retreating German troops dumped artillery during World War I.",
+                  "category": "landmark",
+                  "coords": [
+                        17.550759,
+                        -19.194715
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NA-OS",
     coords: [17.5, -19.2],
@@ -1028,7 +1253,52 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
      image: "/poi-images/na-chobe-river-nature-v2.webp"},
   {
-    id: "na-kwando-river-nature-v2",
+    id: "na-kwando-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mashi Conservancy",
+                  "text": "Die Mashi Conservancy ist ein von der Gemeinde verwaltetes Naturschutzgebiet, das die Lebensräume der Tiere entlang der Ufer des Kwando-Flusses schützt.",
+                  "category": "natural",
+                  "coords": [
+                        23.418949,
+                        -17.9831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mashi Conservancy",
+                  "text": "A Mashi Conservancy egy közösség által fenntartott természetvédelmi terület, amely a Kwando folyó partja mentén fekvő vadvilág élőhelyeit védi.",
+                  "category": "natural",
+                  "coords": [
+                        23.418949,
+                        -17.9831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mashi Conservancy",
+                  "text": "Mashi Conservancy este o rezervație naturală administrată de comunitate, care protejează habitatele faunei sălbatice riverane de-a lungul malurilor râului Kwando.",
+                  "category": "natural",
+                  "coords": [
+                        23.418949,
+                        -17.9831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mashi Conservancy",
+                  "text": "The Mashi Conservancy is a community-run nature reserve protecting riverine wildlife habitats along the banks of the Kwando River.",
+                  "category": "natural",
+                  "coords": [
+                        23.418949,
+                        -17.9831
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "NA-ZA",
     coords: [23.5, -18.0],
@@ -1110,7 +1380,160 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
      image: "/poi-images/na-zambezi-river-nature-v2.webp"},
   {
-    id: "na-erongo-mountains-nature-v2",
+    id: "na-erongo-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gramadoelas",
+                  "text": "Ein malerischer Aussichtspunkt mit weitem Blick über die raue Landschaft der Erongo-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        15.595137,
+                        -21.506429
+                  ]
+            },
+            {
+                  "name": "Sundowner-Koppe",
+                  "text": "Ein felsiger Vorsprung in den Erongo-Bergen, der als perfekter Ort für Sonnenuntergänge über der Wüste bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.489127,
+                        -21.528328
+                  ]
+            },
+            {
+                  "name": "Okombahe",
+                  "text": "Ein Aussichtspunkt, der den Blick über die Erongo-Landschaft bis zur Siedlung Okombahe freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        15.594512,
+                        -21.501069
+                  ]
+            },
+            {
+                  "name": "San Living Museum",
+                  "text": "Eine Freilicht-Kultureinrichtung, in der das indigene Volk der San seinen traditionellen Jäger-und-Sammler-Alltag und sein Handwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.584001,
+                        -21.516539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gramadoelas",
+                  "text": "Festői kilátópont, ahonnan pazar panoráma nyílik az Erongo-hegység zord vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        15.595137,
+                        -21.506429
+                  ]
+            },
+            {
+                  "name": "Sundowner-Koppe",
+                  "text": "Sziklás kiemelkedés az Erongo-hegységben, amely a sivatagi naplementék megfigyelésének tökéletes helyszíneként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.489127,
+                        -21.528328
+                  ]
+            },
+            {
+                  "name": "Okombahe",
+                  "text": "Kilátóhely, ahonnan az Erongo vidékén át egészen az Okombahe településig ellátni.",
+                  "category": "natural",
+                  "coords": [
+                        15.594512,
+                        -21.501069
+                  ]
+            },
+            {
+                  "name": "San Living Museum",
+                  "text": "Szabadtéri kulturális intézmény, ahol a bennszülött szan nép bemutatja hagyományos vadászó-gyűjtögető életmódját és kézművességét.",
+                  "category": "museum",
+                  "coords": [
+                        15.584001,
+                        -21.516539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gramadoelas",
+                  "text": "Un punct de belvedere pitoresc, care oferă o panoramă vastă asupra peisajului stâncos al Munților Erongo.",
+                  "category": "natural",
+                  "coords": [
+                        15.595137,
+                        -21.506429
+                  ]
+            },
+            {
+                  "name": "Sundowner-Koppe",
+                  "text": "Un afloriment stâncos din Munții Erongo, renumit ca un loc perfect pentru a privi apusul soarelui peste deșert.",
+                  "category": "natural",
+                  "coords": [
+                        15.489127,
+                        -21.528328
+                  ]
+            },
+            {
+                  "name": "Okombahe",
+                  "text": "Un punct de observație care oferă o vedere peste peisajul Erongo înspre așezarea Okombahe.",
+                  "category": "natural",
+                  "coords": [
+                        15.594512,
+                        -21.501069
+                  ]
+            },
+            {
+                  "name": "San Living Museum",
+                  "text": "O instituție culturală în aer liber, unde poporul indigen San își demonstrează stilul de viață tradițional de vânători-culegători și meșteșugurile.",
+                  "category": "museum",
+                  "coords": [
+                        15.584001,
+                        -21.516539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gramadoelas",
+                  "text": "A scenic viewpoint offering sweeping vistas over the rugged Erongo Mountains landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.595137,
+                        -21.506429
+                  ]
+            },
+            {
+                  "name": "Sundowner-Koppe",
+                  "text": "A rocky outcrop in the Erongo Mountains, famously known as a perfect spot for watching the sun set over the desert.",
+                  "category": "natural",
+                  "coords": [
+                        15.489127,
+                        -21.528328
+                  ]
+            },
+            {
+                  "name": "Okombahe",
+                  "text": "A vantage point overlooking the Erongo landscape towards the Okombahe settlement area.",
+                  "category": "natural",
+                  "coords": [
+                        15.594512,
+                        -21.501069
+                  ]
+            },
+            {
+                  "name": "San Living Museum",
+                  "text": "An open-air cultural institution where the indigenous San people demonstrate their traditional hunter-gatherer lifestyle and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        15.584001,
+                        -21.516539
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-ER",
     coords: [15.5, -21.5],

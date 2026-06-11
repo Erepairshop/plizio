@@ -138,7 +138,124 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "kolobeng-mission-history-v2",
+    id: "kolobeng-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chocolates farm",
+                  "text": "Die Chocolates Farm ist eine landwirtschaftliche Attraktion in kolobeng-mission-history-v2, die sich mit dem Anbau und der Herstellung von Süßigkeiten befasst.",
+                  "category": "landmark",
+                  "coords": [
+                        25.691953,
+                        -24.638873
+                  ]
+            },
+            {
+                  "name": "KPD Castle",
+                  "text": "Das KPD Castle in kolobeng-mission-history-v2 ist ein architektonisch auffälliges historisches Gebäude, das einer Festung ähnelt.",
+                  "category": "castle",
+                  "coords": [
+                        25.701369,
+                        -24.6656
+                  ]
+            },
+            {
+                  "name": "Grand Bay Botanical Gardens",
+                  "text": "Die Grand Bay Botanical Gardens in kolobeng-mission-history-v2 sind ein grüner Picknickplatz inmitten vielfältiger botanischer Anlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.705315,
+                        -24.759754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chocolates farm",
+                  "text": "A Chocolates farm egy mezőgazdasági látványosság a kolobeng-mission-history-v2 területen, amely az édességek termesztésével és készítésével foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.691953,
+                        -24.638873
+                  ]
+            },
+            {
+                  "name": "KPD Castle",
+                  "text": "A KPD Castle a kolobeng-mission-history-v2 területen egy építészetileg különleges, erődre emlékeztető történelmi épület.",
+                  "category": "castle",
+                  "coords": [
+                        25.701369,
+                        -24.6656
+                  ]
+            },
+            {
+                  "name": "Grand Bay Botanical Gardens",
+                  "text": "A Grand Bay Botanical Gardens a kolobeng-mission-history-v2 területen egy zöldellő piknikezőhely, amelyet változatos botanikai kiállítások vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        25.705315,
+                        -24.759754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chocolates farm",
+                  "text": "Chocolates farm este o atracție agricolă din kolobeng-mission-history-v2 care explorează cultivarea și prepararea dulciurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.691953,
+                        -24.638873
+                  ]
+            },
+            {
+                  "name": "KPD Castle",
+                  "text": "Castelul KPD din kolobeng-mission-history-v2 este o structură istorică cu o arhitectură distinctă, asemănătoare unei fortărețe.",
+                  "category": "castle",
+                  "coords": [
+                        25.701369,
+                        -24.6656
+                  ]
+            },
+            {
+                  "name": "Grand Bay Botanical Gardens",
+                  "text": "Grădinile Botanice Grand Bay din kolobeng-mission-history-v2 reprezintă un loc de picnic înverzită, înconjurat de diverse expoziții botanice.",
+                  "category": "landmark",
+                  "coords": [
+                        25.705315,
+                        -24.759754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chocolates farm",
+                  "text": "Chocolates farm is a farm-based attraction in kolobeng-mission-history-v2 exploring the cultivation and making of sweet treats.",
+                  "category": "landmark",
+                  "coords": [
+                        25.691953,
+                        -24.638873
+                  ]
+            },
+            {
+                  "name": "KPD Castle",
+                  "text": "KPD Castle in kolobeng-mission-history-v2 is an architecturally distinct historic structure resembling a fortress.",
+                  "category": "castle",
+                  "coords": [
+                        25.701369,
+                        -24.6656
+                  ]
+            },
+            {
+                  "name": "Grand Bay Botanical Gardens",
+                  "text": "Grand Bay Botanical Gardens in kolobeng-mission-history-v2 is a verdant picnic site surrounded by diverse botanical displays.",
+                  "category": "landmark",
+                  "coords": [
+                        25.705315,
+                        -24.759754
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-KW",
     coords: [25.6617, -24.7170],
@@ -273,7 +390,52 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "phuthadikobo-museum-history-v2",
+    id: "phuthadikobo-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phuthadikobo Museum",
+                  "text": "Das Phuthadikobo Museum in der Region phuthadikobo-museum-history-v2 bewahrt die lokale Geschichte und kulturelle Artefakte in einem eigenen Ausstellungsraum.",
+                  "category": "museum",
+                  "coords": [
+                        26.152,
+                        -24.387431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phuthadikobo Museum",
+                  "text": "A phuthadikobo-museum-history-v2 területen található Phuthadikobo Museum egy dedikált kiállítótérben őrzi a helyi történelmet és kulturális tárgyakat.",
+                  "category": "museum",
+                  "coords": [
+                        26.152,
+                        -24.387431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phuthadikobo Museum",
+                  "text": "Muzeul Phuthadikobo din phuthadikobo-museum-history-v2 păstrează istoria locală și artefactele culturale într-un spațiu de expoziție dedicat.",
+                  "category": "museum",
+                  "coords": [
+                        26.152,
+                        -24.387431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phuthadikobo Museum",
+                  "text": "Phuthadikobo Museum in phuthadikobo-museum-history-v2 preserves local history and cultural artifacts in a dedicated exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        26.152,
+                        -24.387431
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-KL",
     coords: [26.1517, -24.4128],
@@ -498,7 +660,52 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "nhabe-museum-history-v2",
+    id: "nhabe-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "SISO Afro Gallery",
+                  "text": "Die SISO Afro Gallery befindet sich in der Nähe des Nhabe-Museums und zeigt eine kuratierte Sammlung handgefertigter afrikanischer Artefakte und traditionellen Schmucks.",
+                  "category": "museum",
+                  "coords": [
+                        23.420538,
+                        -19.980409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SISO Afro Gallery",
+                  "text": "A Nhabe Múzeum közelében található SISO Afro Galéria kézzel készített afrikai műtárgyak és hagyományos ékszerek válogatott gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.420538,
+                        -19.980409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SISO Afro Gallery",
+                  "text": "Situată lângă Muzeul Nhabe, Galeria SISO Afro expune o colecție îngrijită de artefacte africane lucrate manual și bijuterii tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        23.420538,
+                        -19.980409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SISO Afro Gallery",
+                  "text": "Located near the Nhabe Museum, the SISO Afro Gallery displays a curated collection of handcrafted African artifacts and traditional jewelry.",
+                  "category": "museum",
+                  "coords": [
+                        23.420538,
+                        -19.980409
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-NW",
     coords: [23.4217, -19.9808],
@@ -813,7 +1020,88 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "gcwihaba-caves-history-v2",
+    id: "gcwihaba-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "drotsky's caves",
+                  "text": "Die Drotsky-Höhlen, auch bekannt als Gcwihaba, verfügen über komplexe unterirdische Labyrinthe voller Stalaktiten, Stalagmiten und nistenden Fledermauskolonien.",
+                  "category": "landmark",
+                  "coords": [
+                        21.35536,
+                        -20.022753
+                  ]
+            },
+            {
+                  "name": "Gcwihaba Caves",
+                  "text": "Die Gcwihaba-Höhlen bilden ein abgelegenes Höhlensystem in der Kalahari, das für seine spektakulären Kalksteinformationen und tiefen Dolinen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.355096,
+                        -20.021836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "drotsky's caves",
+                  "text": "A Gcwihaba néven is ismert Drotsky-barlangokban bonyolult földalatti labirintusok találhatók, amelyek tele vannak cseppkövekkel és denevérkolóniákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        21.35536,
+                        -20.022753
+                  ]
+            },
+            {
+                  "name": "Gcwihaba Caves",
+                  "text": "A Gcwihaba-barlangok egy távoli barlangrendszert alkotnak a Kalaháriban, amely látványos mészkőképződményeiről és mély víznyelőiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.355096,
+                        -20.021836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "drotsky's caves",
+                  "text": "Cunoscute și sub numele de Gcwihaba, Peșterile lui Drotsky prezintă labirinturi subterane complexe pline de stalactite, stalagmite și colonii de lilieci.",
+                  "category": "landmark",
+                  "coords": [
+                        21.35536,
+                        -20.022753
+                  ]
+            },
+            {
+                  "name": "Gcwihaba Caves",
+                  "text": "Peșterile Gcwihaba formează un sistem de caverne izolat în Kalahari, renumit pentru formațiunile spectaculoase de calcar și dolinele adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        21.355096,
+                        -20.021836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "drotsky's caves",
+                  "text": "Also known as Gcwihaba, Drotsky's Caves feature complex underground labyrinths full of stalactites, stalagmites, and roosting bat colonies.",
+                  "category": "landmark",
+                  "coords": [
+                        21.35536,
+                        -20.022753
+                  ]
+            },
+            {
+                  "name": "Gcwihaba Caves",
+                  "text": "The Gcwihaba Caves form a remote cavern system in the Kalahari, renowned for spectacular limestone formations and deep sinkholes.",
+                  "category": "landmark",
+                  "coords": [
+                        21.355096,
+                        -20.021836
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-NW",
     coords: [21.3653, -20.0233],
@@ -858,7 +1146,52 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "moremi-gorge-history-v2",
+    id: "moremi-gorge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goo Moremi Gorge",
+                  "text": "Dieses Naturschutzgebiet schützt eine malerische Schluchtlandschaft und ihre Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        27.441837,
+                        -22.594333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goo Moremi Gorge",
+                  "text": "Ez a természetvédelmi terület egy festői szurdok táját és élővilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.441837,
+                        -22.594333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goo Moremi Gorge",
+                  "text": "Această rezervație naturală protejează un peisaj de defileu pitoresc și flora și fauna sa.",
+                  "category": "natural",
+                  "coords": [
+                        27.441837,
+                        -22.594333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goo Moremi Gorge",
+                  "text": "This nature reserve protects a scenic gorge landscape and its native flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        27.441837,
+                        -22.594333
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-CE",
     coords: [27.4610, -22.6186],
@@ -1083,7 +1416,88 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "kanye-kgotla-history-v2",
+    id: "kanye-kgotla-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polokwe View Point",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe von Kanye, der einen Panoramablick auf die umliegenden Hügel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.355248,
+                        -24.898137
+                  ]
+            },
+            {
+                  "name": "Kgosi Bathoen II Museum",
+                  "text": "Dieses 1995 eröffnete Museum widmet sich der Geschichte und Kultur des Bangwaketse-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        25.340466,
+                        -24.982509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polokwe View Point",
+                  "text": "Festői kilátó Kanye közelében, ahonnan panorámás kilátás nyílik a környező dombokra.",
+                  "category": "landmark",
+                  "coords": [
+                        25.355248,
+                        -24.898137
+                  ]
+            },
+            {
+                  "name": "Kgosi Bathoen II Museum",
+                  "text": "Az 1995-ben megnyílt múzeum a bangwaketse nép történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.340466,
+                        -24.982509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polokwe View Point",
+                  "text": "Un punct de observație pitoresc lângă Kanye, oferind vederi panoramice asupra dealurilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        25.355248,
+                        -24.898137
+                  ]
+            },
+            {
+                  "name": "Kgosi Bathoen II Museum",
+                  "text": "Deschis în 1995, acest muzeu este dedicat istoriei și culturii poporului Bangwaketse.",
+                  "category": "museum",
+                  "coords": [
+                        25.340466,
+                        -24.982509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polokwe View Point",
+                  "text": "A scenic viewpoint near Kanye offering panoramic views over the surrounding hills.",
+                  "category": "landmark",
+                  "coords": [
+                        25.355248,
+                        -24.898137
+                  ]
+            },
+            {
+                  "name": "Kgosi Bathoen II Museum",
+                  "text": "Opened in 1995, this museum details the history and culture of the Bangwaketse people.",
+                  "category": "museum",
+                  "coords": [
+                        25.340466,
+                        -24.982509
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-SO",
     coords: [25.3340, -24.9770],
@@ -1218,7 +1632,124 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "baratani-hill-history-v2",
+    id: "baratani-hill-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Otse Wildlife Visitor Centre",
+                  "text": "Das Otse Wildlife Visitor Centre in baratani-hill-history-v2 dient als informatives Museum und Tor zur geschützten Tierwelt der Region.",
+                  "category": "museum",
+                  "coords": [
+                        25.751994,
+                        -25.04272
+                  ]
+            },
+            {
+                  "name": "Otse Hill",
+                  "text": "Der Otse Hill ist ein markanter Gipfel in der Region baratani-hill-history-v2, der steile Pfade und weite Ausblicke über die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.713357,
+                        -25.007474
+                  ]
+            },
+            {
+                  "name": "Manyelanong Game Reserve",
+                  "text": "Das Manyelanong Game Reserve in baratani-hill-history-v2 ist ein geschütztes Naturgebiet, das berühmt für seine Kapgeier-Brutkolonie ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.767172,
+                        -25.054555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otse Wildlife Visitor Centre",
+                  "text": "A baratani-hill-history-v2 területen található Otse Wildlife Visitor Centre informatív múzeumként és kapuként szolgál a terület védett állatvilágához.",
+                  "category": "museum",
+                  "coords": [
+                        25.751994,
+                        -25.04272
+                  ]
+            },
+            {
+                  "name": "Otse Hill",
+                  "text": "Az Otse Hill egy kiemelkedő hegycsúcs a baratani-hill-history-v2 területen, amely meredek ösvényeket és széles kilátást kínál a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        25.713357,
+                        -25.007474
+                  ]
+            },
+            {
+                  "name": "Manyelanong Game Reserve",
+                  "text": "A Manyelanong Game Reserve a baratani-hill-history-v2 területen egy védett természeti terület, amely híres a fokföldi keselyűk költőkolóniájáról.",
+                  "category": "natural",
+                  "coords": [
+                        25.767172,
+                        -25.054555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otse Wildlife Visitor Centre",
+                  "text": "Otse Wildlife Visitor Centre din baratani-hill-history-v2 servește ca un muzeu informativ de acces către fauna protejată a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        25.751994,
+                        -25.04272
+                  ]
+            },
+            {
+                  "name": "Otse Hill",
+                  "text": "Dealul Otse este un vârf proeminent din zona baratani-hill-history-v2, oferind trasee abrupte și vederi extinse asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        25.713357,
+                        -25.007474
+                  ]
+            },
+            {
+                  "name": "Manyelanong Game Reserve",
+                  "text": "Rezervația Manyelanong din baratani-hill-history-v2 este o arie naturală protejată renumită pentru colonia sa de reproducere a vulturului sur.",
+                  "category": "natural",
+                  "coords": [
+                        25.767172,
+                        -25.054555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otse Wildlife Visitor Centre",
+                  "text": "Otse Wildlife Visitor Centre in baratani-hill-history-v2 serves as an informative museum gateway to the area's protected fauna.",
+                  "category": "museum",
+                  "coords": [
+                        25.751994,
+                        -25.04272
+                  ]
+            },
+            {
+                  "name": "Otse Hill",
+                  "text": "Otse Hill is a prominent peak in the baratani-hill-history-v2 area offering steep trails and expansive views over the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.713357,
+                        -25.007474
+                  ]
+            },
+            {
+                  "name": "Manyelanong Game Reserve",
+                  "text": "Manyelanong Game Reserve in baratani-hill-history-v2 is a protected nature area famously known for its Cape vulture breeding colony.",
+                  "category": "natural",
+                  "coords": [
+                        25.767172,
+                        -25.054555
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-SO",
     coords: [25.7500, -25.0160],
@@ -1263,7 +1794,268 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }
   },
   {
-    id: "kasane-baobab-history-v2",
+    id: "kasane-baobab-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalwezi-ke-Nkanga",
+                  "text": "Ein natürlicher Aussichtspunkt, der einen weiten Blick über das Auenland des Chobe-Flusses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.066615,
+                        -17.842053
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Ein hölzerner Anlegesteg am Ufer, von dem aus Boots-Safaris auf dem Chobe-Fluss starten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.144863,
+                        -17.808366
+                  ]
+            },
+            {
+                  "name": "Clario Travel Agent",
+                  "text": "Eine lokale Buchungsstelle, die Wildtier-Safaris und Flusskreuzfahrten in die nahegelegenen Nationalparks organisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.150163,
+                        -17.800104
+                  ]
+            },
+            {
+                  "name": "Thebe River Safari",
+                  "text": "Dieses Safari-Zentrum am Flussufer bietet geführte Bootstouren zur Beobachtung von Flusspferden und Elefanten an.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15643,
+                        -17.789956
+                  ]
+            },
+            {
+                  "name": "Kasika Conservancy",
+                  "text": "Ein kommunales Schutzgebiet in den Überflutungsebenen, das eine reiche Vogelwelt und große Elefantenherden beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        25.076126,
+                        -17.760257
+                  ]
+            },
+            {
+                  "name": "Kasane Arts Centre",
+                  "text": "Ein kulturelles Zentrum, das traditionelles Kunsthandwerk und Werke lokaler botswanischer Künstler präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        25.148434,
+                        -17.80417
+                  ]
+            },
+            {
+                  "name": "Impalila Conservancy",
+                  "text": "Dieses Inselschutzgebiet am Zusammenfluss von Chobe und Sambesi ist bekannt für seine unberührte Feuchtgebietsflora.",
+                  "category": "natural",
+                  "coords": [
+                        25.152778,
+                        -17.746612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalwezi-ke-Nkanga",
+                  "text": "Természetes kilátó, amely lenyűgöző panorámát kínál a Chobe-folyó ártereire.",
+                  "category": "natural",
+                  "coords": [
+                        25.066615,
+                        -17.842053
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Egy folyóparti fapillér, amely kiindulópontként szolgál a Chobe-folyón induló csónakos szafarikhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        25.144863,
+                        -17.808366
+                  ]
+            },
+            {
+                  "name": "Clario Travel Agent",
+                  "text": "Helyi foglalási iroda, amely vadvilági szafarikat és folyami hajóutakat szervez a közeli nemzeti parkokba.",
+                  "category": "landmark",
+                  "coords": [
+                        25.150163,
+                        -17.800104
+                  ]
+            },
+            {
+                  "name": "Thebe River Safari",
+                  "text": "Ez a folyóparti szafari központ vezetett csónaktúrákat kínál, amelyek kifejezetten vízilovak és elefántok megfigyelésére irányulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15643,
+                        -17.789956
+                  ]
+            },
+            {
+                  "name": "Kasika Conservancy",
+                  "text": "Egy közösségi természetvédelmi terület az ártéren, amely gazdag madárvilágnak és hatalmas elefántcsordáknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        25.076126,
+                        -17.760257
+                  ]
+            },
+            {
+                  "name": "Kasane Arts Centre",
+                  "text": "Kulturális központ, amely a helyi botswanai művészek által készített hagyományos kézműves termékeket és műalkotásokat mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        25.148434,
+                        -17.80417
+                  ]
+            },
+            {
+                  "name": "Impalila Conservancy",
+                  "text": "Ez a Chobe és a Zambézi folyók összefolyásánál fekvő szigeti védett terület érintetlen vizenyős flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.152778,
+                        -17.746612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalwezi-ke-Nkanga",
+                  "text": "Un punct de belvedere natural care oferă panorame vaste peste câmpiile inundabile ale râului Chobe.",
+                  "category": "natural",
+                  "coords": [
+                        25.066615,
+                        -17.842053
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Un debarcader din lemn pe malul râului, servind ca punct de plecare pentru safari-urile cu barca pe râul Chobe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.144863,
+                        -17.808366
+                  ]
+            },
+            {
+                  "name": "Clario Travel Agent",
+                  "text": "O agenție locală de turism care organizează safari-uri în sălbăticie și croaziere fluviale în parcurile naționale din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        25.150163,
+                        -17.800104
+                  ]
+            },
+            {
+                  "name": "Thebe River Safari",
+                  "text": "Acest centru de safari de pe malul râului oferă tururi ghidate cu barca, menite special pentru observarea hipopotamilor și a elefanților.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15643,
+                        -17.789956
+                  ]
+            },
+            {
+                  "name": "Kasika Conservancy",
+                  "text": "O rezervație naturală comunală în câmpiile inundabile, care adăpostește o faună ornitologică bogată și turme mari de elefanți.",
+                  "category": "natural",
+                  "coords": [
+                        25.076126,
+                        -17.760257
+                  ]
+            },
+            {
+                  "name": "Kasane Arts Centre",
+                  "text": "Un centru cultural care prezintă meșteșuguri tradiționale și opere de artă create de artiști locali din Botswana.",
+                  "category": "cultural",
+                  "coords": [
+                        25.148434,
+                        -17.80417
+                  ]
+            },
+            {
+                  "name": "Impalila Conservancy",
+                  "text": "Această rezervație insulară de la confluența râurilor Chobe și Zambezi este remarcată pentru flora sa imaculată de zonă umedă.",
+                  "category": "natural",
+                  "coords": [
+                        25.152778,
+                        -17.746612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalwezi-ke-Nkanga",
+                  "text": "A natural viewpoint offering sweeping panoramas over the floodplains of the Chobe River.",
+                  "category": "natural",
+                  "coords": [
+                        25.066615,
+                        -17.842053
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "A wooden pier on the riverbank serving as the starting point for boat safaris on the Chobe River.",
+                  "category": "landmark",
+                  "coords": [
+                        25.144863,
+                        -17.808366
+                  ]
+            },
+            {
+                  "name": "Clario Travel Agent",
+                  "text": "A local booking office that organises wildlife safaris and river cruises into the nearby national parks.",
+                  "category": "landmark",
+                  "coords": [
+                        25.150163,
+                        -17.800104
+                  ]
+            },
+            {
+                  "name": "Thebe River Safari",
+                  "text": "This riverside safari center offers guided boat tours specifically aimed at observing hippos and elephants.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15643,
+                        -17.789956
+                  ]
+            },
+            {
+                  "name": "Kasika Conservancy",
+                  "text": "A communal nature reserve in the floodplains, sheltering rich birdlife and large herds of elephants.",
+                  "category": "natural",
+                  "coords": [
+                        25.076126,
+                        -17.760257
+                  ]
+            },
+            {
+                  "name": "Kasane Arts Centre",
+                  "text": "A cultural center presenting traditional crafts and artworks created by local Botswanan artists.",
+                  "category": "cultural",
+                  "coords": [
+                        25.148434,
+                        -17.80417
+                  ]
+            },
+            {
+                  "name": "Impalila Conservancy",
+                  "text": "This island conservancy at the confluence of the Chobe and Zambezi rivers is noted for its pristine wetland flora.",
+                  "category": "natural",
+                  "coords": [
+                        25.152778,
+                        -17.746612
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BW-CH",
     coords: [25.1480, -17.8160],

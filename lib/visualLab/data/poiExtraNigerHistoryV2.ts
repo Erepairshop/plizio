@@ -99,7 +99,88 @@ export const poiExtraNigerHistoryV2: POI[] = [
     },
   },
   {
-    id: "ne-djado-ruins-history-v2",
+    id: "ne-djado-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djaba",
+                  "text": "Djaba bietet antike Sahara-Ruinen, die die Überreste einer historischen Wüstensiedlung zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.269591,
+                        21.078428
+                  ]
+            },
+            {
+                  "name": "Djado",
+                  "text": "Djado ist eine markante verlassene Festungsstadt mit verfallenden Lehmziegelruinen vor einem dramatischen Sahara-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308442,
+                        21.015992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djaba",
+                  "text": "Djaba ősi szaharai romokkal rendelkezik, amelyek egy történelmi sivatagi település maradványait mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        12.269591,
+                        21.078428
+                  ]
+            },
+            {
+                  "name": "Djado",
+                  "text": "Djado egy feltűnő elhagyatott erődváros, omladozó vályogtéglás romokkal a drámai szaharai fennsík hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308442,
+                        21.015992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djaba",
+                  "text": "Djaba prezintă ruine antice sahariene care expun rămășițele unei așezări istorice în deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.269591,
+                        21.078428
+                  ]
+            },
+            {
+                  "name": "Djado",
+                  "text": "Djado este o fortăreață abandonată uluitoare, cu ruine din cărămidă de noroi prăbușite pe fundalul unui platou saharian spectaculos.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308442,
+                        21.015992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djaba",
+                  "text": "Djaba features ancient Saharan ruins showcasing the remnants of a historic desert settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        12.269591,
+                        21.078428
+                  ]
+            },
+            {
+                  "name": "Djado",
+                  "text": "Djado is a striking abandoned fortress city with crumbling mud-brick ruins set against a dramatic Saharan plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308442,
+                        21.015992
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NE-1",
     coords: [12.3166, 21.0166],
@@ -243,7 +324,52 @@ export const poiExtraNigerHistoryV2: POI[] = [
     },
   },
   {
-    id: "ne-assode-ruins-history-v2",
+    id: "ne-assode-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Assodé",
+                  "text": "Einst die blühende Hauptstadt der Tuareg im Aïr-Gebirge, liegt Assodé heute in Trümmern und bietet einen Einblick in die Geschichte des Transsaharahandels.",
+                  "category": "historical",
+                  "coords": [
+                        8.601109,
+                        18.45521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Assodé",
+                  "text": "Az egykor az Aïr-hegység tuaregjeinek virágzó fővárosa, az Assodé ma romokban hever, bepillantást engedve a transzszaharai kereskedelem történetébe.",
+                  "category": "historical",
+                  "coords": [
+                        8.601109,
+                        18.45521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Assodé",
+                  "text": "Cândva capitala înfloritoare a tuaregilor din Munții Aïr, Assodé zace acum în ruine, oferind o privire asupra istoriei comerțului transsaharian.",
+                  "category": "historical",
+                  "coords": [
+                        8.601109,
+                        18.45521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Assodé",
+                  "text": "Once the flourishing capital of the Tuareg in the Aïr Mountains, Assodé now lies in ruins, offering a glimpse into trans-Saharan trade history.",
+                  "category": "historical",
+                  "coords": [
+                        8.601109,
+                        18.45521
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NE-1",
     coords: [8.6, 18.45],
@@ -483,7 +609,52 @@ export const poiExtraNigerHistoryV2: POI[] = [
     },
   },
   {
-    id: "ne-dosso-palace-history-v2",
+    id: "ne-dosso-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "Dieses Kulturhaus in Dosso bietet eine Bühne für Theateraufführungen und erinnert an den 18. Dezember 2014.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "Ez a dossoi kultúrház színházi előadásoknak ad otthont, és 2014. december 18-ára emlékezik.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "Această casă de cultură din Dosso oferă o scenă pentru spectacole de teatru și comemorează data de 18 decembrie 2014.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "This house of culture in Dosso provides a stage for theatrical performances and commemorates December 18, 2014.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NE-3",
     coords: [3.195, 13.045],
@@ -1203,7 +1374,52 @@ export const poiExtraNigerHistoryV2: POI[] = [
     },
   },
   {
-    id: "ne-ngourti-well-history-v2",
+    id: "ne-ngourti-well-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancienne mairie Ngourti",
+                  "text": "Die historischen Ruinen des alten Rathauses in Ngourti erinnern an die frühen administrativen Tage der Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        13.198411,
+                        15.331903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancienne mairie Ngourti",
+                  "text": "A ngourtii régi városháza történelmi romjai a település korai adminisztratív napjaira emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        13.198411,
+                        15.331903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancienne mairie Ngourti",
+                  "text": "Ruinele istorice ale vechii primării din Ngourti stau ca o reamintire a primelor zile administrative ale așezării.",
+                  "category": "historical",
+                  "coords": [
+                        13.198411,
+                        15.331903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancienne mairie Ngourti",
+                  "text": "The historic ruins of the old town hall in Ngourti stand as a reminder of the settlement's early administrative days.",
+                  "category": "historical",
+                  "coords": [
+                        13.198411,
+                        15.331903
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NE-2",
     coords: [13.2, 15.35],
@@ -1299,7 +1515,52 @@ export const poiExtraNigerHistoryV2: POI[] = [
     },
   },
   {
-    id: "ne-nguigmi-chad-history-v2",
+    id: "ne-nguigmi-chad-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tribune",
+                  "text": "Eine öffentliche Zuschauertribüne in N'guigmi, die traditionell von Würdenträgern bei lokalen Paraden und Kulturfestivals genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tribune",
+                  "text": "Egy nyilvános lelátó N'guigmiben, amelyet hagyományosan a méltóságok használnak a helyi felvonulások és kulturális fesztiválok során.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tribune",
+                  "text": "O tribună publică de vizionare în N'guigmi, folosită în mod tradițional de demnitari în timpul paradelor locale și al festivalurilor culturale.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tribune",
+                  "text": "A public viewing tribune in N'guigmi, traditionally used by dignitaries during local parades and cultural festivals.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NE-2",
     coords: [13.1166, 14.25],

@@ -2697,7 +2697,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Einer der ältesten buddhistischen Tempel in Los Angeles.",
+                  "text": "1940 gegründeter buddhistischer Tempel in Los Angeles.",
                   "category": "religious",
                   "coords": [
                         -118.240315,
@@ -3284,7 +3284,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Los Angeles egyik legrégebbi buddhista temploma.",
+                  "text": "1940-ben alapított buddhista templom Los Angelesben.",
                   "category": "religious",
                   "coords": [
                         -118.240315,
@@ -3871,7 +3871,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Unul dintre cele mai vechi temple budiste din Los Angeles.",
+                  "text": "Templu budist fondat în 1940 în Los Angeles.",
                   "category": "religious",
                   "coords": [
                         -118.240315,
@@ -4458,7 +4458,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "One of the oldest Buddhist temples in Los Angeles.",
+                  "text": "Buddhist temple founded in 1940 in Los Angeles.",
                   "category": "religious",
                   "coords": [
                         -118.240315,
@@ -6079,7 +6079,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Market Square Park",
-                  "text": "Der Market Square Park ist ein historischer öffentlicher Platz und Park im Zentrum von Houston.",
+                  "text": "1964 angelegter Park in Houston.",
                   "category": "park",
                   "coords": [
                         -95.362345,
@@ -6639,7 +6639,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Market Square Park",
-                  "text": "A Market Square Park egy történelmi köztér és park Houston belvárosában.",
+                  "text": "1964-ben létesített park Houstonban.",
                   "category": "park",
                   "coords": [
                         -95.362345,
@@ -7199,7 +7199,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Market Square Park",
-                  "text": "Market Square Park este o piață publică și un parc istoric din centrul orașului Houston.",
+                  "text": "Parcul amenajat în 1964 în Houston.",
                   "category": "park",
                   "coords": [
                         -95.362345,
@@ -7759,7 +7759,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Market Square Park",
-                  "text": "Market Square Park is a historic public square and park in downtown Houston.",
+                  "text": "Park established in 1964 in Houston.",
                   "category": "park",
                   "coords": [
                         -95.362345,
@@ -18463,7 +18463,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint David's Episcopal Church",
-                  "text": "Eine historische episkopale Kirche im Stadtzentrum von Austin.",
+                  "text": "Die 1854 von Edward Fontaine und A.M.C. Nixon erbaute Saint David's Episcopal Church in Austin ist eine neugotische Kirche.",
                   "category": "landmark",
                   "coords": [
                         -97.739383,
@@ -18472,7 +18472,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary Cathedral",
-                  "text": "Die katholische Kathedrale in Austin.",
+                  "text": "Die 1884 von Nicholas J. Clayton erbaute Saint Mary Cathedral in Austin ist eine neugotische Kathedrale.",
                   "category": "landmark",
                   "coords": [
                         -97.739999,
@@ -18798,7 +18798,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint David's Episcopal Church",
-                  "text": "Egy történelmi episzkopális templom Austin belvárosában.",
+                  "text": "Az austin-i Szent Dávid episzkopális templom 1854-ben épült Edward Fontaine és A.M.C. Nixon tervei alapján, neogótikus stílusban.",
                   "category": "landmark",
                   "coords": [
                         -97.739383,
@@ -18807,7 +18807,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary Cathedral",
-                  "text": "A katolikus székesegyház Austinban.",
+                  "text": "Az austin-i Szűz Mária-székesegyház 1884-ben épült Nicholas J. Clayton tervei alapján, neogótikus stílusban.",
                   "category": "landmark",
                   "coords": [
                         -97.739999,
@@ -19133,7 +19133,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint David's Episcopal Church",
-                  "text": "O biserică episcopală istorică în centrul orașului Austin.",
+                  "text": "Biserica Episcopală Sfântul David din Austin, construită în 1854 de Edward Fontaine și A.M.C. Nixon, este o biserică neogotică.",
                   "category": "landmark",
                   "coords": [
                         -97.739383,
@@ -19142,7 +19142,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary Cathedral",
-                  "text": "Catedrala catolică din Austin.",
+                  "text": "Catedrala Sfânta Maria din Austin, construită în 1884 de Nicholas J. Clayton, este o catedrală neogotică.",
                   "category": "landmark",
                   "coords": [
                         -97.739999,
@@ -19468,7 +19468,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint David's Episcopal Church",
-                  "text": "A historic Episcopal church in downtown Austin.",
+                  "text": "St. David's Episcopal Church in Austin, built in 1854 by Edward Fontaine and A.M.C. Nixon, is a Neo-Gothic church.",
                   "category": "landmark",
                   "coords": [
                         -97.739383,
@@ -19477,7 +19477,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary Cathedral",
-                  "text": "The Catholic cathedral in Austin.",
+                  "text": "St. Mary Cathedral in Austin, built in 1884 by Nicholas J. Clayton, is a Neo-Gothic cathedral.",
                   "category": "landmark",
                   "coords": [
                         -97.739999,
@@ -22333,7 +22333,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "Die Saint Mary's Catholic Church ist eine historische Kirche in Columbus, Ohio.",
+                  "text": "Die St. Mary's Catholic Church in Columbus, 1865 erbaut, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         -82.994822,
@@ -22695,7 +22695,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "A Szűz Mária Katolikus Templom egy történelmi templom Columbusban, Ohio államban.",
+                  "text": "A Szent Mária Katolikus Templom Columbusban, 1865-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         -82.994822,
@@ -23057,7 +23057,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "Biserica Catolică Sfânta Maria este o biserică istorică în Columbus, Ohio.",
+                  "text": "Biserica Catolică Sfânta Maria din Columbus, construită în 1865, monument istoric.",
                   "category": "religious",
                   "coords": [
                         -82.994822,
@@ -23419,7 +23419,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "Saint Mary's Catholic Church is a historic church in Columbus, Ohio.",
+                  "text": "Saint Mary's Catholic Church in Columbus, built in 1865, listed.",
                   "category": "religious",
                   "coords": [
                         -82.994822,
@@ -25205,7 +25205,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old National Centre",
-                  "text": "Das Old National Centre in Indianapolis ist eine führende Aufführungsstätte.",
+                  "text": "1909 eröffnetes Kulturzentrum in Indianapolis.",
                   "category": "cultural",
                   "coords": [
                         -86.15105,
@@ -25549,7 +25549,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old National Centre",
-                  "text": "Az Indianapolis-i Old National Centre egy vezető előadóművészeti központ.",
+                  "text": "1909-ben megnyílt kulturális központ Indianapolisban.",
                   "category": "cultural",
                   "coords": [
                         -86.15105,
@@ -25893,7 +25893,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old National Centre",
-                  "text": "Old National Centre din Indianapolis este un important centru de arte spectacolului.",
+                  "text": "Centru cultural deschis în 1909 în Indianapolis.",
                   "category": "cultural",
                   "coords": [
                         -86.15105,
@@ -26237,7 +26237,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old National Centre",
-                  "text": "The Old National Centre in Indianapolis is a premier performing arts venue.",
+                  "text": "Cultural centre opened in 1909 in Indianapolis.",
                   "category": "cultural",
                   "coords": [
                         -86.15105,
@@ -26593,7 +26593,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "MoPOP: Museum of Pop Culture",
-                  "text": "Ein Museum für zeitgenössische Popkultur in einem ikonischen Gebäude.",
+                  "text": "2000 eröffnetes Museum für Popkultur in Seattle.",
                   "category": "museum",
                   "coords": [
                         -122.348238,
@@ -26683,7 +26683,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Seattle Opera at the Center",
-                  "text": "Die Heimat der Seattle Opera im Seattle Center.",
+                  "text": "2018 eröffnetes Opernhaus in Seattle.",
                   "category": "cultural",
                   "coords": [
                         -122.349466,
@@ -27135,7 +27135,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "MoPOP: Museum of Pop Culture",
-                  "text": "A kortárs popkultúra múzeuma egy ikonikus épületben.",
+                  "text": "2000-ben megnyílt popkultúra-múzeum Seattle-ben.",
                   "category": "museum",
                   "coords": [
                         -122.348238,
@@ -27225,7 +27225,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Seattle Opera at the Center",
-                  "text": "A Seattle-i Opera otthona a Seattle Center területén.",
+                  "text": "2018-ban megnyílt operaház Seattle-ben.",
                   "category": "cultural",
                   "coords": [
                         -122.349466,
@@ -27677,7 +27677,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "MoPOP: Museum of Pop Culture",
-                  "text": "Un muzeu al culturii pop contemporane într-o clădire iconică.",
+                  "text": "Muzeu al culturii pop deschis în 2000 în Seattle.",
                   "category": "museum",
                   "coords": [
                         -122.348238,
@@ -27767,7 +27767,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Seattle Opera at the Center",
-                  "text": "Sediul Operei din Seattle în cadrul Seattle Center.",
+                  "text": "Operă deschisă în 2018 în Seattle.",
                   "category": "cultural",
                   "coords": [
                         -122.349466,
@@ -28219,7 +28219,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "MoPOP: Museum of Pop Culture",
-                  "text": "A museum of contemporary pop culture in an iconic building.",
+                  "text": "Museum of pop culture opened in 2000 in Seattle.",
                   "category": "museum",
                   "coords": [
                         -122.348238,
@@ -28309,7 +28309,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Seattle Opera at the Center",
-                  "text": "The home of the Seattle Opera at the Seattle Center.",
+                  "text": "Opera house opened in 2018 in Seattle.",
                   "category": "cultural",
                   "coords": [
                         -122.349466,
@@ -30311,7 +30311,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dumbarton Oaks Park",
-                  "text": "Der Dumbarton Oaks Park ist ein Park neben dem Anwesen Dumbarton Oaks in Washington, D.C.",
+                  "text": "Denkmalgeschützter Park in Washington, D.C.",
                   "category": "park",
                   "coords": [
                         -77.064485,
@@ -30808,7 +30808,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dumbarton Oaks Park",
-                  "text": "A Dumbarton Oaks Park egy park a Dumbarton Oaks birtok mellett Washingtonban.",
+                  "text": "Műemléki védettségű park Washington D.C.-ben.",
                   "category": "park",
                   "coords": [
                         -77.064485,
@@ -31305,7 +31305,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dumbarton Oaks Park",
-                  "text": "Dumbarton Oaks Park este un parc alături de domeniul Dumbarton Oaks în Washington, D.C.",
+                  "text": "Parcul monument istoric în Washington, D.C.",
                   "category": "park",
                   "coords": [
                         -77.064485,
@@ -31802,7 +31802,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dumbarton Oaks Park",
-                  "text": "Dumbarton Oaks Park is a park adjacent to the Dumbarton Oaks estate in Washington, D.C.",
+                  "text": "Historic listed park in Washington, D.C.",
                   "category": "park",
                   "coords": [
                         -77.064485,
@@ -32209,7 +32209,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "New England Historic Genealogical Society",
-                  "text": "Eine genealogische Forschungsbibliothek und ein Museum in Boston.",
+                  "text": "1845 gegründete genealogische Gesellschaft in Boston.",
                   "category": "museum",
                   "coords": [
                         -71.075303,
@@ -32443,7 +32443,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Charles River Bridge",
-                  "text": "Die Charles River Bridge in Boston ist eine Eisenbahnbrücke, die den Charles River überspannt.",
+                  "text": "1931 erbauter Eisenbahnbrücke über den Charles River in Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.065584,
@@ -32452,7 +32452,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Leonard P. Zakim Bunker Hill Memorial Bridge",
-                  "text": "Die Leonard P. Zakim Bunker Hill Memorial Bridge in Boston ist eine Schrägseilbrücke, die an Leonard P. Zakim und die Schlacht von Bunker Hill erinnert.",
+                  "text": "Am 20. Dezember 2003 eröffnete Brücke in Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.063137,
@@ -32479,7 +32479,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Craigie Bridge",
-                  "text": "Die Craigie Bridge in Boston ist eine Brücke, die den Charles River am Charles River Dam überquert.",
+                  "text": "Die Craigie Bridge ist eine 1910 erbaute Brücke am Charles River Dam in Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.069089,
@@ -32490,7 +32490,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "New England Historic Genealogical Society",
-                  "text": "Egy genealógiai kutatókönyvtár és múzeum Bostonban.",
+                  "text": "1845-ben alapított genealógiai társaság Bostonban.",
                   "category": "museum",
                   "coords": [
                         -71.075303,
@@ -32724,7 +32724,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Charles River Bridge",
-                  "text": "A bostoni Charles River Bridge egy vasúti híd, amely a Charles Riveren ível át.",
+                  "text": "1931-ben épült vasúti híd a Charles folyón Bostonban.",
                   "category": "landmark",
                   "coords": [
                         -71.065584,
@@ -32733,7 +32733,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Leonard P. Zakim Bunker Hill Memorial Bridge",
-                  "text": "A bostoni Leonard P. Zakim Bunker Hill Memorial Bridge egy ferdekábeles híd, amely Leonard P. Zakimra és a Bunker Hill-i csatára emlékeztet.",
+                  "text": "2003. december 20-án megnyílt híd Bostonban.",
                   "category": "landmark",
                   "coords": [
                         -71.063137,
@@ -32760,7 +32760,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Craigie Bridge",
-                  "text": "A bostoni Craigie Bridge egy híd, amely a Charles Riveren ível át a Charles River Dam közelében.",
+                  "text": "A Craigie Bridge egy 1910-ben épült híd a Charles River Dam-en Bostonban.",
                   "category": "landmark",
                   "coords": [
                         -71.069089,
@@ -32771,7 +32771,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "New England Historic Genealogical Society",
-                  "text": "O bibliotecă de cercetare genealogică și muzeu în Boston.",
+                  "text": "Societate genealogică fondată în 1845 în Boston.",
                   "category": "museum",
                   "coords": [
                         -71.075303,
@@ -33005,7 +33005,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Charles River Bridge",
-                  "text": "Podul Charles River din Boston este un pod feroviar care traversează râul Charles.",
+                  "text": "Pod feroviar construit în 1931 peste râul Charles în Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.065584,
@@ -33014,7 +33014,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Leonard P. Zakim Bunker Hill Memorial Bridge",
-                  "text": "Podul memorial Leonard P. Zakim Bunker Hill din Boston este un pod hobanat care comemorează pe Leonard P. Zakim și bătălia de la Bunker Hill.",
+                  "text": "Pod deschis la 20 decembrie 2003 în Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.063137,
@@ -33041,7 +33041,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Craigie Bridge",
-                  "text": "Podul Craigie din Boston este un pod care traversează râul Charles la barajul Charles River Dam.",
+                  "text": "Podul Craigie este un pod construit în 1910 la Barajul Charles River din Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.069089,
@@ -33052,7 +33052,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "New England Historic Genealogical Society",
-                  "text": "A genealogical research library and museum in Boston.",
+                  "text": "Genealogical society founded in 1845 in Boston.",
                   "category": "museum",
                   "coords": [
                         -71.075303,
@@ -33286,7 +33286,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Charles River Bridge",
-                  "text": "The Charles River Bridge in Boston is a railroad bridge spanning the Charles River.",
+                  "text": "Railway bridge built in 1931 over the Charles River in Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.065584,
@@ -33295,7 +33295,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Leonard P. Zakim Bunker Hill Memorial Bridge",
-                  "text": "The Leonard P. Zakim Bunker Hill Memorial Bridge in Boston is a cable-stayed bridge that honors Leonard P. Zakim and the Battle of Bunker Hill.",
+                  "text": "Bridge opened on 20 December 2003 in Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.063137,
@@ -33322,7 +33322,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Craigie Bridge",
-                  "text": "The Craigie Bridge in Boston is a bridge crossing the Charles River at the Charles River Dam.",
+                  "text": "Craigie Bridge is a Charles River Dam bridge built in 1910 in Boston.",
                   "category": "landmark",
                   "coords": [
                         -71.069089,
@@ -38196,7 +38196,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morrison Bridge",
-                  "text": "Die Morrison Bridge ist eine bekannte Brücke in Portland, Oregon.",
+                  "text": "Die Morrison Bridge ist eine historische Klappbrücke über den Willamette River in Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.669682,
@@ -38232,7 +38232,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Burnside Bridge",
-                  "text": "Die Burnside Bridge ist eine bedeutende Brücke in Portland, Oregon.",
+                  "text": "Die Burnside Bridge ist eine historische Klappbrücke über den Willamette River in Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.667076,
@@ -38250,7 +38250,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Vista Bridge",
-                  "text": "Die Vista Bridge ist eine bekannte Brücke in Portland, Oregon.",
+                  "text": "Die Vista Bridge ist eine historische Stahlbogenbrücke in Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.69776,
@@ -38855,7 +38855,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morrison Bridge",
-                  "text": "A Morrison Bridge egy ismert híd az oregoni Portlandben.",
+                  "text": "A Morrison Bridge egy történelmi felvonóhíd a Willamette folyón Portlandben, Oregonban.",
                   "category": "landmark",
                   "coords": [
                         -122.669682,
@@ -38891,7 +38891,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Burnside Bridge",
-                  "text": "A Burnside Bridge egy jelentős híd az oregoni Portlandben.",
+                  "text": "A Burnside Bridge egy történelmi felvonóhíd a Willamette folyón Portlandben, Oregonban.",
                   "category": "landmark",
                   "coords": [
                         -122.667076,
@@ -38909,7 +38909,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Vista Bridge",
-                  "text": "A Vista Bridge egy ismert híd az oregoni Portlandben.",
+                  "text": "A Vista Bridge egy történelmi acélív-híd Portlandben, Oregonban.",
                   "category": "landmark",
                   "coords": [
                         -122.69776,
@@ -39514,7 +39514,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morrison Bridge",
-                  "text": "Morrison Bridge este un pod important situat în Portland, Oregon.",
+                  "text": "Podul Morrison este un pod basculant istoric peste Râul Willamette în Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.669682,
@@ -39550,7 +39550,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Burnside Bridge",
-                  "text": "Burnside Bridge este un pod notabil situat în Portland, Oregon.",
+                  "text": "Podul Burnside este un pod basculant istoric peste Râul Willamette în Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.667076,
@@ -39568,7 +39568,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Vista Bridge",
-                  "text": "Vista Bridge este un pod notabil situat în Portland, Oregon.",
+                  "text": "Podul Vista este un pod istoric cu arc de oțel în Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.69776,
@@ -40173,7 +40173,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morrison Bridge",
-                  "text": "The Morrison Bridge is a notable bridge located in Portland, Oregon.",
+                  "text": "Morrison Bridge is a historic bascule bridge over the Willamette River in Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.669682,
@@ -40209,7 +40209,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Burnside Bridge",
-                  "text": "The Burnside Bridge is a notable bridge located in Portland, Oregon.",
+                  "text": "Burnside Bridge is a historic bascule bridge over the Willamette River in Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.667076,
@@ -40227,7 +40227,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Vista Bridge",
-                  "text": "The Vista Bridge is a prominent bridge located in Portland, Oregon.",
+                  "text": "Vista Bridge is a historic steel arch bridge in Portland, Oregon.",
                   "category": "landmark",
                   "coords": [
                         -122.69776,
@@ -40751,7 +40751,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "Historische katholische Kirche in Memphis.",
+                  "text": "Die Saint Mary's Catholic Church in Memphis wurde vom Architekten James B. Cook entworfen.",
                   "category": "religious",
                   "coords": [
                         -90.048024,
@@ -41104,7 +41104,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "Történelmi katolikus templom Memphisben.",
+                  "text": "A Saint Mary's Catholic Church Memphisben James B. Cook építész tervei alapján épült.",
                   "category": "religious",
                   "coords": [
                         -90.048024,
@@ -41457,7 +41457,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "Biserică catolică istorică în Memphis.",
+                  "text": "Biserica Catolică Saint Mary din Memphis a fost proiectată de arhitectul James B. Cook.",
                   "category": "religious",
                   "coords": [
                         -90.048024,
@@ -41810,7 +41810,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Catholic Church",
-                  "text": "Historic Catholic church in Memphis.",
+                  "text": "Saint Mary's Catholic Church in Memphis was designed by architect James B. Cook.",
                   "category": "religious",
                   "coords": [
                         -90.048024,
@@ -42226,7 +42226,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Paycom Center",
-                  "text": "Das Paycom Center ist eine Arena in Oklahoma City, Heimat der Oklahoma City Thunder.",
+                  "text": "Das Paycom Center ist eine 2002 eröffnete Arena in Oklahoma City.",
                   "category": "landmark",
                   "coords": [
                         -97.515148,
@@ -42570,7 +42570,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Paycom Center",
-                  "text": "A Paycom Center egy aréna Oklahoma Cityben, az Oklahoma City Thunder otthona.",
+                  "text": "A Paycom Center egy 2002-ben megnyitott aréna Oklahoma Cityben.",
                   "category": "landmark",
                   "coords": [
                         -97.515148,
@@ -42914,7 +42914,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Paycom Center",
-                  "text": "Paycom Center este o arenă din Oklahoma City, gazdă a echipei Oklahoma City Thunder.",
+                  "text": "Paycom Center este o arenă deschisă în 2002 în Oklahoma City.",
                   "category": "landmark",
                   "coords": [
                         -97.515148,
@@ -43258,7 +43258,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Paycom Center",
-                  "text": "The Paycom Center is an arena in Oklahoma City home to the Oklahoma City Thunder.",
+                  "text": "Paycom Center is an arena opened in 2002 in Oklahoma City.",
                   "category": "landmark",
                   "coords": [
                         -97.515148,
@@ -45872,7 +45872,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Louisville Palace Theater",
-                  "text": "Das Louisville Palace Theater, auch als Palace Theatre bekannt, ist ein bemerkenswertes Theater in Louisville.",
+                  "text": "Das Louisville Palace Theater, 1928 erbaut, denkmalgeschützt.",
                   "category": "cultural",
                   "coords": [
                         -85.757807,
@@ -46360,7 +46360,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Louisville Palace Theater",
-                  "text": "A The Louisville Palace Theater, más néven Palace Theatre, egy jelentős színház Louisville-ben.",
+                  "text": "A Louisville Palace Színház, 1928-ban épült, műemlék.",
                   "category": "cultural",
                   "coords": [
                         -85.757807,
@@ -46848,7 +46848,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Louisville Palace Theater",
-                  "text": "The Louisville Palace Theater, cunoscut și sub numele de Palace Theatre, este un teatru notabil din Louisville.",
+                  "text": "Teatrul Louisville Palace, construit în 1928, monument istoric.",
                   "category": "cultural",
                   "coords": [
                         -85.757807,
@@ -47336,7 +47336,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Louisville Palace Theater",
-                  "text": "The Louisville Palace Theater, also known as the Palace Theatre, is a notable theatre in Louisville.",
+                  "text": "The Louisville Palace Theater, built in 1928, listed.",
                   "category": "cultural",
                   "coords": [
                         -85.757807,
@@ -48010,7 +48010,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Business and Government Historic District",
-                  "text": "Der Business and Government Historic District in Baltimore ist ein historisches Viertel in der Innenstadt.",
+                  "text": "Der Business and Government Historic District ist ein historischer Bezirk mit Regierungs- und Geschäftsgebäuden in Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.611301,
@@ -48390,7 +48390,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Business and Government Historic District",
-                  "text": "A baltimore-i Business and Government Historic District egy történelmi negyed a belvárosban.",
+                  "text": "A Business and Government Historic District egy történelmi negyed kormányzati és üzleti épületekkel Baltimore-ban.",
                   "category": "landmark",
                   "coords": [
                         -76.611301,
@@ -48770,7 +48770,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Business and Government Historic District",
-                  "text": "Districtul Istoric Business and Government din Baltimore este un cartier istoric în centrul orașului.",
+                  "text": "Districtul Istoric Business and Government este un cartier istoric cu clădiri guvernamentale și comerciale din Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.611301,
@@ -49150,7 +49150,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Business and Government Historic District",
-                  "text": "The Business and Government Historic District in Baltimore is a historic downtown district.",
+                  "text": "Business and Government Historic District is a historic district featuring government and commercial buildings in Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.611301,
@@ -49446,7 +49446,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Terrace Decorative Arts Museum",
-                  "text": "Eine Villa im italienischen Renaissancestil mit Blick auf den Michigansee, die als Museum für dekorative Künste dient.",
+                  "text": "Das Villa Terrace Decorative Arts Museum in Milwaukee, 1966 eröffnet, in einer von David A. Adler entworfenen Villa.",
                   "category": "museum",
                   "coords": [
                         -87.880012,
@@ -50069,7 +50069,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Terrace Decorative Arts Museum",
-                  "text": "Az olasz reneszánsz stílusú villa a Michigan-tóra néz, és dekoratív művészeti múzeumként működik.",
+                  "text": "A Villa Terrace Iparművészeti Múzeum Milwaukee-ban, 1966-ban nyílt meg, David A. Adler által tervezett villában.",
                   "category": "museum",
                   "coords": [
                         -87.880012,
@@ -50692,7 +50692,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Terrace Decorative Arts Museum",
-                  "text": "O vilă în stilul Renașterii italiene cu vedere la Lacul Michigan, care servește ca muzeu de arte decorative.",
+                  "text": "Muzeul de Arte Decorative Villa Terrace din Milwaukee, deschis în 1966, într-o vilă proiectată de David A. Adler.",
                   "category": "museum",
                   "coords": [
                         -87.880012,
@@ -51315,7 +51315,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Terrace Decorative Arts Museum",
-                  "text": "Villa Terrace Decorative Arts Museum is an Italian Renaissance-style villa overlooking Lake Michigan.",
+                  "text": "Villa Terrace Decorative Arts Museum in Milwaukee, opened in 1966, in a villa designed by David A. Adler.",
                   "category": "museum",
                   "coords": [
                         -87.880012,
@@ -51989,7 +51989,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sunshine Theatre",
-                  "text": "Das Sunshine Theatre in Albuquerque befindet sich im historischen Sunshine Building.",
+                  "text": "Das Sunshine Theatre in Albuquerque wurde vom Architekten Trost entworfen.",
                   "category": "cultural",
                   "coords": [
                         -106.649027,
@@ -51998,7 +51998,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Albuquerque Little Theatre",
-                  "text": "Das Albuquerque Little Theatre ist ein Gemeinschaftstheater in Albuquerque.",
+                  "text": "Das Albuquerque Little Theatre wurde vom Architekten John Gaw Meem entworfen.",
                   "category": "cultural",
                   "coords": [
                         -106.668823,
@@ -52423,7 +52423,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sunshine Theatre",
-                  "text": "Az Albuquerque-i Sunshine Theatre a történelmi Sunshine Buildingben található.",
+                  "text": "A Sunshine Theatre Albuquerque-ben Trost építész tervei alapján épült.",
                   "category": "cultural",
                   "coords": [
                         -106.649027,
@@ -52432,7 +52432,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Albuquerque Little Theatre",
-                  "text": "Az Albuquerque-i Albuquerque Little Theatre egy közösségi színház.",
+                  "text": "Az Albuquerque Little Theatre-t John Gaw Meem építész tervezte.",
                   "category": "cultural",
                   "coords": [
                         -106.668823,
@@ -52857,7 +52857,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sunshine Theatre",
-                  "text": "Teatrul Sunshine din Albuquerque este situat în clădirea istorică Sunshine Building.",
+                  "text": "Teatrul Sunshine din Albuquerque a fost proiectat de arhitectul Trost.",
                   "category": "cultural",
                   "coords": [
                         -106.649027,
@@ -52866,7 +52866,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Albuquerque Little Theatre",
-                  "text": "Albuquerque Little Theatre din Albuquerque este un teatru comunitar.",
+                  "text": "Teatrul Albuquerque Little Theatre a fost proiectat de arhitectul John Gaw Meem.",
                   "category": "cultural",
                   "coords": [
                         -106.668823,
@@ -53291,7 +53291,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sunshine Theatre",
-                  "text": "The Sunshine Theatre in Albuquerque is located in the historic Sunshine Building.",
+                  "text": "Sunshine Theatre in Albuquerque was designed by architect Trost.",
                   "category": "cultural",
                   "coords": [
                         -106.649027,
@@ -53300,7 +53300,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Albuquerque Little Theatre",
-                  "text": "The Albuquerque Little Theatre is a community theatre in Albuquerque.",
+                  "text": "Albuquerque Little Theatre was designed by architect John Gaw Meem.",
                   "category": "cultural",
                   "coords": [
                         -106.668823,
@@ -62128,7 +62128,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church of Atlanta",
-                  "text": "Eine historische methodistische Kirche in Atlanta.",
+                  "text": "Die First United Methodist Church of Atlanta ist eine historische methodistische Kirche in der Innenstadt.",
                   "category": "landmark",
                   "coords": [
                         -84.386539,
@@ -62463,7 +62463,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church of Atlanta",
-                  "text": "Egy történelmi metodista templom Atlantában.",
+                  "text": "A First United Methodist Church of Atlanta egy történelmi metodista templom a belvárosban.",
                   "category": "landmark",
                   "coords": [
                         -84.386539,
@@ -62798,7 +62798,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church of Atlanta",
-                  "text": "O biserică metodistă istorică în Atlanta.",
+                  "text": "First United Methodist Church of Atlanta este o biserică metodistă istorică în centrul orașului.",
                   "category": "landmark",
                   "coords": [
                         -84.386539,
@@ -63133,7 +63133,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church of Atlanta",
-                  "text": "A historic Methodist church in Atlanta.",
+                  "text": "First United Methodist Church of Atlanta is a historic Methodist church in downtown Atlanta.",
                   "category": "landmark",
                   "coords": [
                         -84.386539,
@@ -65368,7 +65368,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carousel",
-                  "text": "Ein historisches Karussell, erbaut 1911.",
+                  "text": "Das Karussell im Pullen Park in Raleigh, 1924 erbaut, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         -78.663785,
@@ -65386,7 +65386,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "City of Raleigh Museum (COR Museum)",
-                  "text": "Untergebracht im historischen ehemaligen Rathaus von Raleigh.",
+                  "text": "Das City of Raleigh Museum ist in einem historischen Gebäude von 1874 untergebracht.",
                   "category": "museum",
                   "coords": [
                         -78.639747,
@@ -65694,7 +65694,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carousel",
-                  "text": "1911-ben épült történelmi körhinta.",
+                  "text": "A körhinta a Pullen Parkban, Raleigh, 1924-ben épült, műemlék.",
                   "category": "landmark",
                   "coords": [
                         -78.663785,
@@ -65712,7 +65712,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "City of Raleigh Museum (COR Museum)",
-                  "text": "Raleigh történelmi egykori városházájában található.",
+                  "text": "A City of Raleigh Museum egy 1874-es történelmi épületben található.",
                   "category": "museum",
                   "coords": [
                         -78.639747,
@@ -66020,7 +66020,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carousel",
-                  "text": "Un carusel istoric construit în 1911.",
+                  "text": "Caruselul din Parcul Pullen din Raleigh, construit în 1924, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -78.663785,
@@ -66038,7 +66038,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "City of Raleigh Museum (COR Museum)",
-                  "text": "Adăpostit în fosta primărie istorică din Raleigh.",
+                  "text": "Muzeul orașului Raleigh este găzduit într-o clădire istorică din 1874.",
                   "category": "museum",
                   "coords": [
                         -78.639747,
@@ -66346,7 +66346,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carousel",
-                  "text": "A historic carousel built in 1911.",
+                  "text": "The Pullen Park Carousel in Raleigh, built in 1924, listed.",
                   "category": "landmark",
                   "coords": [
                         -78.663785,
@@ -66364,7 +66364,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "City of Raleigh Museum (COR Museum)",
-                  "text": "Housed in the historic former Raleigh City Hall.",
+                  "text": "City of Raleigh Museum is housed in an 1874 historic building.",
                   "category": "museum",
                   "coords": [
                         -78.639747,
@@ -73062,7 +73062,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue United Methodist Church",
-                  "text": "Ein markantes Kirchengebäude an der Hennepin Avenue.",
+                  "text": "Die Hennepin Avenue United Methodist Church in Minneapolis, 1916 von Edwin Hawley Hewitt erbaut.",
                   "category": "religious",
                   "coords": [
                         -93.287547,
@@ -73089,7 +73089,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mindekirken",
-                  "text": "Eine lutherische Kirche, die für ihr norwegisches Erbe bekannt ist.",
+                  "text": "Die Mindekirken ist eine 1900 erbaute norwegisch-lutherische Kirche in Minneapolis.",
                   "category": "religious",
                   "coords": [
                         -93.26009,
@@ -73098,7 +73098,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue Bridge",
-                  "text": "Eine Hängebrücke, die den Mississippi überquert.",
+                  "text": "Die Hennepin Avenue Bridge ist eine 1990 erbaute Brücke über den Mississippi in Minneapolis.",
                   "category": "landmark",
                   "coords": [
                         -93.264195,
@@ -73125,7 +73125,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Plymouth Avenue Bridge",
-                  "text": "Eine funktionale Brücke über den Fluss in Minneapolis.",
+                  "text": "Die Plymouth Avenue Bridge ist eine 1983 erbaute Brücke über den Mississippi in Minneapolis.",
                   "category": "landmark",
                   "coords": [
                         -93.273021,
@@ -73703,7 +73703,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue United Methodist Church",
-                  "text": "Jellegzetes templomépület a Hennepin sugárúton.",
+                  "text": "A Hennepin Avenue-i Egyesült Metodista Templom Minneapolisban, 1916-ban építette Edwin Hawley Hewitt.",
                   "category": "religious",
                   "coords": [
                         -93.287547,
@@ -73730,7 +73730,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mindekirken",
-                  "text": "Norvég örökségéről ismert evangélikus templom.",
+                  "text": "A Mindekirken egy 1900-ban épült norvég evangélikus templom Minneapolisban.",
                   "category": "religious",
                   "coords": [
                         -93.26009,
@@ -73739,7 +73739,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue Bridge",
-                  "text": "A Mississippi folyón átívelő függőhíd.",
+                  "text": "A Hennepin Avenue Bridge egy 1990-ben épült híd a Mississippi felett Minneapolisban.",
                   "category": "landmark",
                   "coords": [
                         -93.264195,
@@ -73766,7 +73766,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Plymouth Avenue Bridge",
-                  "text": "Funkcionális híd a folyó felett Minneapolisban.",
+                  "text": "A Plymouth Avenue Bridge egy 1983-ban épült híd a Mississippi felett Minneapolisban.",
                   "category": "landmark",
                   "coords": [
                         -93.273021,
@@ -74344,7 +74344,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue United Methodist Church",
-                  "text": "O clădire bisericească distinctivă de pe Hennepin Avenue.",
+                  "text": "Biserica Metodistă Unită de pe Hennepin Avenue din Minneapolis, construită în 1916 de Edwin Hawley Hewitt.",
                   "category": "religious",
                   "coords": [
                         -93.287547,
@@ -74371,7 +74371,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mindekirken",
-                  "text": "O biserică luterană cunoscută pentru moștenirea sa norvegiană.",
+                  "text": "Mindekirken este o biserică luterană norvegiană construită în 1900 în Minneapolis.",
                   "category": "religious",
                   "coords": [
                         -93.26009,
@@ -74380,7 +74380,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue Bridge",
-                  "text": "Un pod suspendat care traversează fluviul Mississippi.",
+                  "text": "Podul Hennepin Avenue este un pod construit în 1990 peste Mississippi în Minneapolis.",
                   "category": "landmark",
                   "coords": [
                         -93.264195,
@@ -74407,7 +74407,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Plymouth Avenue Bridge",
-                  "text": "Un pod funcțional peste râu în Minneapolis.",
+                  "text": "Podul Plymouth Avenue este un pod construit în 1983 peste Mississippi în Minneapolis.",
                   "category": "landmark",
                   "coords": [
                         -93.273021,
@@ -74985,7 +74985,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue United Methodist Church",
-                  "text": "A distinctive church building on Hennepin Avenue.",
+                  "text": "Hennepin Avenue United Methodist Church in Minneapolis, built in 1916 by Edwin Hawley Hewitt.",
                   "category": "religious",
                   "coords": [
                         -93.287547,
@@ -75012,7 +75012,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mindekirken",
-                  "text": "A Lutheran church known for its Norwegian heritage.",
+                  "text": "Mindekirken is a Norwegian Lutheran church built in 1900 in Minneapolis.",
                   "category": "religious",
                   "coords": [
                         -93.26009,
@@ -75021,7 +75021,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Hennepin Avenue Bridge",
-                  "text": "A suspension bridge crossing the Mississippi River.",
+                  "text": "Hennepin Avenue Bridge is a bridge built in 1990 over the Mississippi River in Minneapolis.",
                   "category": "landmark",
                   "coords": [
                         -93.264195,
@@ -75048,7 +75048,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Plymouth Avenue Bridge",
-                  "text": "A functional bridge over the river in Minneapolis.",
+                  "text": "Plymouth Avenue Bridge is a bridge built in 1983 over the Mississippi River in Minneapolis.",
                   "category": "landmark",
                   "coords": [
                         -93.273021,
@@ -83999,7 +83999,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aloha Tower",
-                  "text": "Der Aloha Tower ist ein bekanntes Wahrzeichen und Leuchtturm in Honolulu.",
+                  "text": "Der Aloha Tower in Honolulu, 1926 erbaut, denkmalgeschützt.",
                   "category": "tower",
                   "coords": [
                         -157.866011,
@@ -84008,7 +84008,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Diamond Head Lighthouse",
-                  "text": "Der Diamond Head Lighthouse ist ein historischer Leuchtturm am Diamond Head.",
+                  "text": "Der Diamond Head Lighthouse in Honolulu, 1917 erbaut, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         -157.809499,
@@ -84035,7 +84035,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Palm Circle",
-                  "text": "Palm Circle ist ein historischer Bezirk auf Fort Shafter.",
+                  "text": "Der Palm Circle ist ein historischer Militär-Exerzierplatz auf Fort Shafter in Honolulu.",
                   "category": "park",
                   "coords": [
                         -157.887961,
@@ -84062,7 +84062,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Thomas Square",
-                  "text": "Thomas Square ist ein historischer öffentlicher Platz in Honolulu.",
+                  "text": "Der Thomas Square ist ein historischer Park in Honolulu, der an die Wiederherstellung der hawaiianischen Souveränität erinnert.",
                   "category": "park",
                   "coords": [
                         -157.849138,
@@ -84361,7 +84361,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aloha Tower",
-                  "text": "Az Aloha Tower egy híres nevezetesség és világítótorony Honoluluban.",
+                  "text": "Az Aloha-torony Honoluluban, 1926-ban épült, műemlék.",
                   "category": "tower",
                   "coords": [
                         -157.866011,
@@ -84370,7 +84370,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Diamond Head Lighthouse",
-                  "text": "A Diamond Head világítótorony egy történelmi világítótorony a Diamond Head-nél.",
+                  "text": "A Diamond Head Világítótorony Honoluluban, 1917-ben épült, műemlék.",
                   "category": "landmark",
                   "coords": [
                         -157.809499,
@@ -84397,7 +84397,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Palm Circle",
-                  "text": "A Palm Circle egy történelmi negyed a Fort Shafter területén.",
+                  "text": "A Palm Circle egy történelmi katonai díszletér Fort Shafterben, Honoluluban.",
                   "category": "park",
                   "coords": [
                         -157.887961,
@@ -84424,7 +84424,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Thomas Square",
-                  "text": "A Thomas Square egy történelmi köz tér Honoluluban.",
+                  "text": "A Thomas Square egy történelmi park Honoluluban, amely a hawaii szuverenitás helyreállítására emlékeztet.",
                   "category": "park",
                   "coords": [
                         -157.849138,
@@ -84723,7 +84723,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aloha Tower",
-                  "text": "Turnul Aloha este un reper celebru și far în Honolulu.",
+                  "text": "Turnul Aloha din Honolulu, construit în 1926, monument istoric.",
                   "category": "tower",
                   "coords": [
                         -157.866011,
@@ -84732,7 +84732,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Diamond Head Lighthouse",
-                  "text": "Farul Diamond Head este un far istoric la Diamond Head.",
+                  "text": "Farul Diamond Head din Honolulu, construit în 1917, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -157.809499,
@@ -84759,7 +84759,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Palm Circle",
-                  "text": "Palm Circle este un district istoric la Fort Shafter.",
+                  "text": "Palm Circle este o paradă militară istorică pe Fort Shafter din Honolulu.",
                   "category": "park",
                   "coords": [
                         -157.887961,
@@ -84786,7 +84786,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Thomas Square",
-                  "text": "Thomas Square este un pătrat public istoric în Honolulu.",
+                  "text": "Thomas Square este un parc istoric din Honolulu care comemorează restaurarea suveranității hawaiiene.",
                   "category": "park",
                   "coords": [
                         -157.849138,
@@ -85085,7 +85085,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aloha Tower",
-                  "text": "Aloha Tower is a famous landmark and lighthouse in Honolulu.",
+                  "text": "Aloha Tower in Honolulu, built in 1926, listed.",
                   "category": "tower",
                   "coords": [
                         -157.866011,
@@ -85094,7 +85094,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Diamond Head Lighthouse",
-                  "text": "Diamond Head Lighthouse is a historic lighthouse at Diamond Head.",
+                  "text": "Diamond Head Lighthouse in Honolulu, built in 1917, listed.",
                   "category": "landmark",
                   "coords": [
                         -157.809499,
@@ -85121,7 +85121,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Palm Circle",
-                  "text": "Palm Circle is a historic district at Fort Shafter.",
+                  "text": "Palm Circle is a historic military parade ground at Fort Shafter in Honolulu.",
                   "category": "park",
                   "coords": [
                         -157.887961,
@@ -85148,7 +85148,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Thomas Square",
-                  "text": "Thomas Square is a historic public square in Honolulu.",
+                  "text": "Thomas Square is a historic park in Honolulu commemorating the restoration of Hawaiian sovereignty.",
                   "category": "park",
                   "coords": [
                         -157.849138,
@@ -88733,7 +88733,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John the Baptist Ukrainian Catholic Church",
-                  "text": "Die Saint John the Baptist Ukrainian Catholic Church ist eine historische Kirche im South Side Viertel.",
+                  "text": "Die St. John the Baptist Ukrainian Catholic Church in Pittsburgh ist eine historische ukrainisch-katholische Kirche.",
                   "category": "landmark",
                   "coords": [
                         -79.991907,
@@ -89221,7 +89221,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John the Baptist Ukrainian Catholic Church",
-                  "text": "A Saint John the Baptist Ukrainian Catholic Church egy történelmi templom a South Side negyedben.",
+                  "text": "A St. John the Baptist Ukrainian Catholic Church Pittsburghben egy történelmi ukrán katolikus templom.",
                   "category": "landmark",
                   "coords": [
                         -79.991907,
@@ -89709,7 +89709,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John the Baptist Ukrainian Catholic Church",
-                  "text": "Biserica Greco-Catolică Ucraineană Sf. Ioan Botezătorul este o biserică istorică în cartierul South Side.",
+                  "text": "Biserica Catolică Ucraineană Sf. Ioan Botezătorul din Pittsburgh este o biserică istorică ucraineană catolică.",
                   "category": "landmark",
                   "coords": [
                         -79.991907,
@@ -90197,7 +90197,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John the Baptist Ukrainian Catholic Church",
-                  "text": "Saint John the Baptist Ukrainian Catholic Church is a historic church in the South Side.",
+                  "text": "St. John the Baptist Ukrainian Catholic Church in Pittsburgh is a historic Ukrainian Catholic church.",
                   "category": "landmark",
                   "coords": [
                         -79.991907,
@@ -90838,7 +90838,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Louis Place Park",
-                  "text": "Der Saint Louis Place Park ist ein historischer linearer öffentlicher Park in St. Louis.",
+                  "text": "Der Saint Louis Place Park wurde 1850 in St. Louis angelegt.",
                   "category": "park",
                   "coords": [
                         -90.204269,
@@ -91009,7 +91009,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Die Christ Church Cathedral ist ein bekanntes Gotteshaus in St. Louis.",
+                  "text": "Die Christ Church Cathedral in St. Louis ist eine historische bischöfliche Kathedrale.",
                   "category": "religious",
                   "coords": [
                         -90.198312,
@@ -91018,7 +91018,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Soulard Market",
-                  "text": "Der Soulard Market ist ein historischer Marktplatz in St. Louis.",
+                  "text": "Der Soulard Market in St. Louis ist ein historisches Bauernmarktsgebäude von 1929.",
                   "category": "landmark",
                   "coords": [
                         -90.201144,
@@ -91027,7 +91027,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Poplar Street Bridge",
-                  "text": "Die Poplar Street Bridge ist eine Brücke in St. Louis.",
+                  "text": "Die Poplar Street Bridge ist eine 1967 erbaute Brücke über den Mississippi in St. Louis.",
                   "category": "landmark",
                   "coords": [
                         -90.182732,
@@ -91036,7 +91036,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Eads Bridge",
-                  "text": "Die Eads Bridge ist eine bedeutende Brücke in St. Louis.",
+                  "text": "Die Eads Bridge in St. Louis war die erste Stahlfachwerkbrücke der Welt über den Mississippi.",
                   "category": "landmark",
                   "coords": [
                         -90.178932,
@@ -91335,7 +91335,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Louis Place Park",
-                  "text": "A Saint Louis Place Park egy történelmi, hosszan elnyúló nyilvános park St. Louisban.",
+                  "text": "A Saint Louis Place Parkot 1850-ben hozták létre St. Louisban.",
                   "category": "park",
                   "coords": [
                         -90.204269,
@@ -91506,7 +91506,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "A Christ Church Cathedral egy ismert kultuszhely St. Louisban.",
+                  "text": "A Christ Church Cathedral St. Louisban egy történelmi episzkopális székesegyház.",
                   "category": "religious",
                   "coords": [
                         -90.198312,
@@ -91515,7 +91515,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Soulard Market",
-                  "text": "A Soulard Market egy történelmi piac St. Louisban.",
+                  "text": "A Soulard Market St. Louisban egy 1929-es történelmi piacépület.",
                   "category": "landmark",
                   "coords": [
                         -90.201144,
@@ -91524,7 +91524,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Poplar Street Bridge",
-                  "text": "A Poplar Street Bridge egy híd St. Louisban.",
+                  "text": "A Poplar Street Bridge egy 1967-ben épült híd a Mississippi felett St. Louisban.",
                   "category": "landmark",
                   "coords": [
                         -90.182732,
@@ -91533,7 +91533,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Eads Bridge",
-                  "text": "Az Eads Bridge egy jelentős híd St. Louisban.",
+                  "text": "A St. Louis-i Eads Bridge volt a világ első acélrácsos hídja a Mississippi felett.",
                   "category": "landmark",
                   "coords": [
                         -90.178932,
@@ -91832,7 +91832,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Louis Place Park",
-                  "text": "Saint Louis Place Park este un parc public liniar istoric situat în St. Louis.",
+                  "text": "Parcul Saint Louis Place a fost înființat în 1850 în St. Louis.",
                   "category": "park",
                   "coords": [
                         -90.204269,
@@ -92003,7 +92003,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Christ Church Cathedral este un lăcaș de cult recunoscut din St. Louis.",
+                  "text": "Catedrala Christ Church din St. Louis este o catedrală episcopală istorică.",
                   "category": "religious",
                   "coords": [
                         -90.198312,
@@ -92012,7 +92012,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Soulard Market",
-                  "text": "Soulard Market este o piață istorică din St. Louis.",
+                  "text": "Soulard Market din St. Louis este o clădire istorică de piață fermieră din 1929.",
                   "category": "landmark",
                   "coords": [
                         -90.201144,
@@ -92021,7 +92021,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Poplar Street Bridge",
-                  "text": "Poplar Street Bridge este un pod în St. Louis.",
+                  "text": "Podul Poplar Street este un pod construit în 1967 peste Mississippi în St. Louis.",
                   "category": "landmark",
                   "coords": [
                         -90.182732,
@@ -92030,7 +92030,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Eads Bridge",
-                  "text": "Eads Bridge este un pod important din St. Louis.",
+                  "text": "Podul Eads din St. Louis a fost primul pod din lume cu structură de oțel peste Mississippi.",
                   "category": "landmark",
                   "coords": [
                         -90.178932,
@@ -92329,7 +92329,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Louis Place Park",
-                  "text": "Saint Louis Place Park is a historic linear public park situated in St. Louis.",
+                  "text": "Saint Louis Place Park was established in 1850 in St. Louis.",
                   "category": "park",
                   "coords": [
                         -90.204269,
@@ -92500,7 +92500,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "The Christ Church Cathedral is a well-known place of worship in St. Louis.",
+                  "text": "Christ Church Cathedral in St. Louis is a historic Episcopal cathedral.",
                   "category": "religious",
                   "coords": [
                         -90.198312,
@@ -92509,7 +92509,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Soulard Market",
-                  "text": "The Soulard Market is a historic marketplace in St. Louis.",
+                  "text": "Soulard Market in St. Louis is a historic farmers market building built in 1929.",
                   "category": "landmark",
                   "coords": [
                         -90.201144,
@@ -92518,7 +92518,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Poplar Street Bridge",
-                  "text": "The Poplar Street Bridge is a bridge in St. Louis.",
+                  "text": "Poplar Street Bridge is a bridge built in 1967 over the Mississippi River in St. Louis.",
                   "category": "landmark",
                   "coords": [
                         -90.182732,
@@ -92527,7 +92527,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Eads Bridge",
-                  "text": "The Eads Bridge is a significant bridge in St. Louis.",
+                  "text": "Eads Bridge in St. Louis was the world's first steel truss bridge over the Mississippi River.",
                   "category": "landmark",
                   "coords": [
                         -90.178932,
@@ -94399,7 +94399,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Betts House",
-                  "text": "The Betts House ist ein historisches Museum in Cincinnati.",
+                  "text": "Das Betts House in Cincinnati ist ein historisches Wohnhausmuseum aus dem Jahr 1804.",
                   "category": "museum",
                   "coords": [
                         -84.522151,
@@ -94471,7 +94471,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary’s Church",
-                  "text": "Die Old Saint Mary’s Church ist ein bedeutendes Gotteshaus in Cincinnati.",
+                  "text": "Die Old Saint Mary’s Church in Cincinnati ist eine katholische Kirche von 1842.",
                   "category": "religious",
                   "coords": [
                         -84.512359,
@@ -94480,7 +94480,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Philippus United Church of Christ",
-                  "text": "Die Philippus United Church of Christ ist ein Gotteshaus in Cincinnati.",
+                  "text": "Die Philippus United Church of Christ in Cincinnati wurde 1891 erbaut.",
                   "category": "religious",
                   "coords": [
                         -84.518929,
@@ -94489,7 +94489,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of the Assumption",
-                  "text": "Die Cathedral Basilica of the Assumption ist ein bemerkenswertes Gotteshaus in Cincinnati.",
+                  "text": "Die Cathedral Basilica of the Assumption in Covington, nahe Cincinnati, ist eine historische katholische Kathedrale.",
                   "category": "religious",
                   "coords": [
                         -84.508275,
@@ -94498,7 +94498,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Nast-Trinity United Methodist Church",
-                  "text": "Die Nast-Trinity United Methodist Church ist ein historisches Gotteshaus in Cincinnati.",
+                  "text": "Die Nast-Trinity United Methodist Church in Cincinnati wurde 1881 erbaut.",
                   "category": "religious",
                   "coords": [
                         -84.516552,
@@ -94507,7 +94507,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aronoff Center for the Arts",
-                  "text": "Das Aronoff Center for the Arts ist eine bekannte Attraktion in Cincinnati.",
+                  "text": "Das Aronoff Center for the Arts in Cincinnati, 1995 von César Pelli entworfen.",
                   "category": "landmark",
                   "coords": [
                         -84.511194,
@@ -94525,7 +94525,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Peter in Chains",
-                  "text": "Die Cathedral Basilica of Saint Peter in Chains ist ein historisches Erbe in Cincinnati.",
+                  "text": "Die Kathedralbasilika St. Peter in Ketten in Cincinnati, 1845 erbaut, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         -84.51947,
@@ -94552,7 +94552,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John A. Roebling Suspension Bridge",
-                  "text": "Die John A. Roebling Suspension Bridge ist ein bedeutendes historisches Erbe in Cincinnati.",
+                  "text": "Die John A. Roebling Suspension Bridge ist eine historische Hängebrücke über den Ohio River in Cincinnati.",
                   "category": "landmark",
                   "coords": [
                         -84.509943,
@@ -94714,7 +94714,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Herz Jesu Kirche",
-                  "text": "Die Sacred Heart Church ist ein historisches Erbe in Cincinnati.",
+                  "text": "Die Sacred Heart Church in Cincinnati ist eine historische katholische Kirche von 1892.",
                   "category": "landmark",
                   "coords": [
                         -84.481124,
@@ -94923,7 +94923,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Betts House",
-                  "text": "A The Betts House egy történelmi múzeum Cincinnatiben.",
+                  "text": "A Betts House Cincinnati egy 1804-es történelmi lakóház-múzeum.",
                   "category": "museum",
                   "coords": [
                         -84.522151,
@@ -94995,7 +94995,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary’s Church",
-                  "text": "Az Old Saint Mary’s Church egy jelentős templom Cincinnatiben.",
+                  "text": "Az Old Saint Mary’s Church Cincinnati egy 1842-ben épült katolikus templom.",
                   "category": "religious",
                   "coords": [
                         -84.512359,
@@ -95004,7 +95004,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Philippus United Church of Christ",
-                  "text": "A Philippus United Church of Christ egy kultuszhely Cincinnatiben.",
+                  "text": "A Philippus United Church of Christ Cincinnati 1891-ben épült.",
                   "category": "religious",
                   "coords": [
                         -84.518929,
@@ -95013,7 +95013,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of the Assumption",
-                  "text": "A Cathedral Basilica of the Assumption egy nevezetes templom Cincinnatiben.",
+                  "text": "A Cathedral Basilica of the Assumption Covingtonban, Cincinnati közelében, egy történelmi katolikus székesegyház.",
                   "category": "religious",
                   "coords": [
                         -84.508275,
@@ -95022,7 +95022,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Nast-Trinity United Methodist Church",
-                  "text": "A Nast-Trinity United Methodist Church egy történelmi kultuszhely Cincinnatiben.",
+                  "text": "A Nast-Trinity United Methodist Church Cincinnati 1881-ben épült.",
                   "category": "religious",
                   "coords": [
                         -84.516552,
@@ -95031,7 +95031,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aronoff Center for the Arts",
-                  "text": "Az Aronoff Center for the Arts egy jól ismert látványosság Cincinnatiben.",
+                  "text": "Az Aronoff Művészeti Központ Cincinnati-ban, 1995-ben César Pelli tervezte.",
                   "category": "landmark",
                   "coords": [
                         -84.511194,
@@ -95049,7 +95049,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Peter in Chains",
-                  "text": "A Cathedral Basilica of Saint Peter in Chains egy történelmi örökség Cincinnatiben.",
+                  "text": "A Szent Péter-láncokban Székesegyházi Bazilika Cincinnati-ban, 1845-ben épült, műemlék.",
                   "category": "landmark",
                   "coords": [
                         -84.51947,
@@ -95076,7 +95076,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John A. Roebling Suspension Bridge",
-                  "text": "A John A. Roebling Suspension Bridge egy jelentős történelmi örökség Cincinnatiben.",
+                  "text": "A John A. Roebling Függőhíd egy történelmi függőhíd az Ohio folyón Cincinnatiban.",
                   "category": "landmark",
                   "coords": [
                         -84.509943,
@@ -95238,7 +95238,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "A Sacred Heart Church egy történelmi örökség Cincinnatiben.",
+                  "text": "A Sacred Heart Church Cincinnati egy 1892-ben épült történelmi katolikus templom.",
                   "category": "landmark",
                   "coords": [
                         -84.481124,
@@ -95447,7 +95447,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Betts House",
-                  "text": "The Betts House este un muzeu istoric în Cincinnati.",
+                  "text": "Casa Betts din Cincinnati este un muzeu istoric de casă construit în 1804.",
                   "category": "museum",
                   "coords": [
                         -84.522151,
@@ -95519,7 +95519,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary’s Church",
-                  "text": "Old Saint Mary’s Church este o biserică importantă din Cincinnati.",
+                  "text": "Biserica Veche Sf. Maria din Cincinnati este o biserică catolică construită în 1842.",
                   "category": "religious",
                   "coords": [
                         -84.512359,
@@ -95528,7 +95528,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Philippus United Church of Christ",
-                  "text": "Philippus United Church of Christ este un lăcaș de cult în Cincinnati.",
+                  "text": "Biserica Philippus United Church of Christ din Cincinnati a fost construită în 1891.",
                   "category": "religious",
                   "coords": [
                         -84.518929,
@@ -95537,7 +95537,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of the Assumption",
-                  "text": "Cathedral Basilica of the Assumption este un lăcaș de cult notabil din Cincinnati.",
+                  "text": "Catedrala Bazilică a Adormirii Maicii Domnului din Covington, lângă Cincinnati, este o catedrală catolică istorică.",
                   "category": "religious",
                   "coords": [
                         -84.508275,
@@ -95546,7 +95546,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Nast-Trinity United Methodist Church",
-                  "text": "Nast-Trinity United Methodist Church este un lăcaș de cult istoric din Cincinnati.",
+                  "text": "Biserica Nast-Trinity United Methodist din Cincinnati a fost construită în 1881.",
                   "category": "religious",
                   "coords": [
                         -84.516552,
@@ -95555,7 +95555,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aronoff Center for the Arts",
-                  "text": "Aronoff Center for the Arts este o atracție renumită din Cincinnati.",
+                  "text": "Centrul pentru Arte Aronoff din Cincinnati, proiectat în 1995 de César Pelli.",
                   "category": "landmark",
                   "coords": [
                         -84.511194,
@@ -95573,7 +95573,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Peter in Chains",
-                  "text": "Cathedral Basilica of Saint Peter in Chains este un sit de patrimoniu istoric în Cincinnati.",
+                  "text": "Catedrala Bazilica Sfântul Petru în Lanțuri din Cincinnati, construită în 1845, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -84.51947,
@@ -95600,7 +95600,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John A. Roebling Suspension Bridge",
-                  "text": "John A. Roebling Suspension Bridge este un important sit de patrimoniu în Cincinnati.",
+                  "text": "Podul suspendat John A. Roebling este un pod suspendat istoric peste Râul Ohio din Cincinnati.",
                   "category": "landmark",
                   "coords": [
                         -84.509943,
@@ -95762,7 +95762,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "Sacred Heart Church este un sit de patrimoniu istoric în Cincinnati.",
+                  "text": "Biserica Sacred Heart din Cincinnati este o biserică catolică istorică construită în 1892.",
                   "category": "landmark",
                   "coords": [
                         -84.481124,
@@ -95971,7 +95971,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Betts House",
-                  "text": "The Betts House is a historic museum in Cincinnati.",
+                  "text": "The Betts House in Cincinnati is a historic house museum built in 1804.",
                   "category": "museum",
                   "coords": [
                         -84.522151,
@@ -96043,7 +96043,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary’s Church",
-                  "text": "The Old Saint Mary’s Church is a significant place of worship in Cincinnati.",
+                  "text": "Old Saint Mary’s Church in Cincinnati is a Catholic church built in 1842.",
                   "category": "religious",
                   "coords": [
                         -84.512359,
@@ -96052,7 +96052,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Philippus United Church of Christ",
-                  "text": "The Philippus United Church of Christ is a place of worship in Cincinnati.",
+                  "text": "Philippus United Church of Christ in Cincinnati was built in 1891.",
                   "category": "religious",
                   "coords": [
                         -84.518929,
@@ -96061,7 +96061,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of the Assumption",
-                  "text": "The Cathedral Basilica of the Assumption is a notable place of worship in Cincinnati.",
+                  "text": "Cathedral Basilica of the Assumption in Covington, near Cincinnati, is a historic Catholic cathedral.",
                   "category": "religious",
                   "coords": [
                         -84.508275,
@@ -96070,7 +96070,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Nast-Trinity United Methodist Church",
-                  "text": "The Nast-Trinity United Methodist Church is a historic place of worship in Cincinnati.",
+                  "text": "Nast-Trinity United Methodist Church in Cincinnati was built in 1881.",
                   "category": "religious",
                   "coords": [
                         -84.516552,
@@ -96079,7 +96079,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Aronoff Center for the Arts",
-                  "text": "The Aronoff Center for the Arts is a well-known attraction in Cincinnati.",
+                  "text": "Aronoff Center for the Arts in Cincinnati, designed by César Pelli, opened in 1995.",
                   "category": "landmark",
                   "coords": [
                         -84.511194,
@@ -96097,7 +96097,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Basilica of Saint Peter in Chains",
-                  "text": "The Cathedral Basilica of Saint Peter in Chains is a historic heritage site in Cincinnati.",
+                  "text": "Cathedral Basilica of Saint Peter in Chains in Cincinnati, built in 1845, listed.",
                   "category": "landmark",
                   "coords": [
                         -84.51947,
@@ -96124,7 +96124,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John A. Roebling Suspension Bridge",
-                  "text": "The John A. Roebling Suspension Bridge is a significant heritage site in Cincinnati.",
+                  "text": "John A. Roebling Suspension Bridge is a historic suspension bridge over the Ohio River in Cincinnati.",
                   "category": "landmark",
                   "coords": [
                         -84.509943,
@@ -96286,7 +96286,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "The Sacred Heart Church is a historic heritage site in Cincinnati.",
+                  "text": "Sacred Heart Church in Cincinnati is a historic Catholic church built in 1892.",
                   "category": "landmark",
                   "coords": [
                         -84.481124,
@@ -115050,7 +115050,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Episcopal Church",
-                  "text": "Eine historische episkopale Kirche im Zentrum von Fort Wayne.",
+                  "text": "Die Trinity Episcopal Church in Fort Wayne, Indiana, denkmalgeschützt, von C. C. Miller entworfen.",
                   "category": "religious",
                   "coords": [
                         -85.14781,
@@ -115403,7 +115403,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Episcopal Church",
-                  "text": "Történelmi episzkopális templom Fort Wayne központjában.",
+                  "text": "A Szentháromság Episzkopális Templom Fort Wayne-ben, Indiana, műemlék, C. C. Miller tervezte.",
                   "category": "religious",
                   "coords": [
                         -85.14781,
@@ -115756,7 +115756,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Episcopal Church",
-                  "text": "O biserică episcopală istorică situată în centrul orașului Fort Wayne.",
+                  "text": "Biserica Episcopală Sfânta Treime din Fort Wayne, Indiana, monument istoric, proiectată de C. C. Miller.",
                   "category": "religious",
                   "coords": [
                         -85.14781,
@@ -116109,7 +116109,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Episcopal Church",
-                  "text": "A historic Episcopal church located in downtown Fort Wayne.",
+                  "text": "Trinity Episcopal Church in Fort Wayne, Indiana, listed, designed by C. C. Miller.",
                   "category": "religious",
                   "coords": [
                         -85.14781,
@@ -117823,7 +117823,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "WRVA Building",
-                  "text": "WRVA-Sendeturm in Richmond.",
+                  "text": "Das WRVA Building ist ein 1968 erbauter Sendeturm in Richmond, Virginia.",
                   "category": "tower",
                   "coords": [
                         -77.422464,
@@ -118176,7 +118176,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "WRVA Building",
-                  "text": "WRVA adótorony Richmondban.",
+                  "text": "A WRVA Building egy 1968-ban épült adótorony Richmondban, Virginia államban.",
                   "category": "tower",
                   "coords": [
                         -77.422464,
@@ -118529,7 +118529,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "WRVA Building",
-                  "text": "Turnul de transmisie WRVA din Richmond.",
+                  "text": "Clădirea WRVA este un turn de radiodifuziune construit în 1968 în Richmond, Virginia.",
                   "category": "tower",
                   "coords": [
                         -77.422464,
@@ -118882,7 +118882,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "WRVA Building",
-                  "text": "WRVA broadcasting tower in Richmond.",
+                  "text": "WRVA Building is a broadcasting tower built in 1968 in Richmond, Virginia.",
                   "category": "tower",
                   "coords": [
                         -77.422464,
@@ -119139,7 +119139,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Salisbury House",
-                  "text": "Das Salisbury House in Des Moines ist ein historisches Wohnhausmuseum.",
+                  "text": "Das 1923 von Byron Bennett Boyd und William Whitney Rasmussen erbaute Salisbury House in Des Moines ist ein Herrenhaus im Tudorstil.",
                   "category": "museum",
                   "coords": [
                         -93.671477,
@@ -119193,7 +119193,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sylvan Theater",
-                  "text": "Das Sylvan Theater in Des Moines ist ein Freilufttheater in einem historischen Viertel.",
+                  "text": "Das 1931 von Harland Bartholomew Associates und Francis Asbury Robinson erbaute Sylvan Theater in Des Moines ist ein Freiluft-Amphitheater.",
                   "category": "landmark",
                   "coords": [
                         -93.680157,
@@ -119202,7 +119202,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Des Moines City Hall",
-                  "text": "Das Rathaus von Des Moines ist Sitz der Stadtverwaltung.",
+                  "text": "Das Des Moines City Hall, erbaut 1910, wurde von mehreren Architekten einschließlich Proudfoot und Bird entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.616561,
@@ -119220,7 +119220,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Ambrose Cathedral",
-                  "text": "Die St. Ambrose Cathedral in Des Moines ist die Kathedrale der Diözese Des Moines.",
+                  "text": "Die Saint Ambrose Cathedral, erbaut 1927, wurde von James J. Egan entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.62594,
@@ -119229,7 +119229,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "Die First United Methodist Church in Des Moines ist ein historisches Kirchengebäude.",
+                  "text": "Die First United Methodist Church, erbaut 1908, wurde von Proudfoot und Bird entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.631282,
@@ -119247,7 +119247,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Las Americas United Methodist Church",
-                  "text": "Die Trinity Las Americas United Methodist Church in Des Moines ist eine historische Kirche.",
+                  "text": "Die Trinity Las Americas United Methodist Church, erbaut 1911, wurde von Proudfoot, Bird & Rawson entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.628528,
@@ -119256,7 +119256,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Greek Orthodox Church of St. George",
-                  "text": "Die griechisch-orthodoxe Kirche St. George in Des Moines ist eine historische Kirche.",
+                  "text": "Die Greek Orthodox Church of St. George, erbaut 1906, wurde von William T. Proudfoot und George Washington Bird entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.66458,
@@ -119265,7 +119265,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cottage Grove Church",
-                  "text": "Die Cottage Grove Church in Des Moines ist eine historische presbyterianische Kirche.",
+                  "text": "Die Cottage Grove Church, erbaut 1903, wurde von Clinton P. Shockley entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.650046,
@@ -119274,7 +119274,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint John",
-                  "text": "Die Basilika St. Johannes in Des Moines ist eine kleine Basilika.",
+                  "text": "Die Basilica of Saint John, erbaut 1927, wurde von Maginnis & Walsh entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.64348,
@@ -119301,7 +119301,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "Die Cathedral Church of Saint Paul in Des Moines ist eine episkopale Kathedrale.",
+                  "text": "Die Kathedralkirche St. Paul in Des Moines, denkmalgeschützt, von Foster und Liebbe entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.628969,
@@ -119310,7 +119310,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwest Fifth Street Bridge",
-                  "text": "Die Southwest Fifth Street Bridge in Des Moines ist eine historische Brücke.",
+                  "text": "Die Southwest Fifth Street Bridge, erbaut 1898, wurde von L. Higgins entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.618953,
@@ -119319,7 +119319,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Court Avenue Bridge",
-                  "text": "Die Court Avenue Bridge in Des Moines ist eine historische Brücke.",
+                  "text": "Die Court Avenue Bridge, erbaut 1918, wurde von James B. Marsh entworfen.",
                   "category": "landmark",
                   "coords": [
                         -93.616717,
@@ -119328,7 +119328,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anthony's Church",
-                  "text": "Die St. Anthony's Church in Des Moines ist eine historische katholische Kirche.",
+                  "text": "Die St. Anthony's Church in Des Moines, 1915 erbaut, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         -93.617265,
@@ -119501,7 +119501,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Salisbury House",
-                  "text": "A Salisbury House Des Moines-ban egy történelmi ház múzeum.",
+                  "text": "A Des Moines-i Salisbury House 1923-ban épült Byron Bennett Boyd és William Whitney Rasmussen tervei alapján, Tudor stílusú kúria.",
                   "category": "museum",
                   "coords": [
                         -93.671477,
@@ -119555,7 +119555,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sylvan Theater",
-                  "text": "A Sylvan Színház Des Moines-ban egy szabadtéri színház egy történelmi negyedben.",
+                  "text": "A Des Moines-i Sylvan Színház 1931-ben épült a Harland Bartholomew Associates és Francis Asbury Robinson tervei alapján, szabadtéri amfiteátrum.",
                   "category": "landmark",
                   "coords": [
                         -93.680157,
@@ -119564,7 +119564,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Des Moines City Hall",
-                  "text": "Des Moines városháza a városi kormányzat székhelye.",
+                  "text": "A Des Moines-i városháza 1910-ben épült, és több építész, köztük Proudfoot és Bird tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.616561,
@@ -119582,7 +119582,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Ambrose Cathedral",
-                  "text": "A Szent Ambrus-székesegyház Des Moines-ban a Des Moines-i Egyházmegye székesegyháza.",
+                  "text": "A Szent Ambrus-székesegyház 1927-ben épült, James J. Egan tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.62594,
@@ -119591,7 +119591,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "Az Első Egyesült Metodista Templom Des Moines-ban egy történelmi templomépület.",
+                  "text": "A First United Methodist Church 1908-ban épült, Proudfoot és Bird tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.631282,
@@ -119609,7 +119609,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Las Americas United Methodist Church",
-                  "text": "A Trinity Las Americas Egyesült Metodista Templom Des Moines-ban egy történelmi templom.",
+                  "text": "A Trinity Las Americas United Methodist Church 1911-ben épült, Proudfoot, Bird & Rawson tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.628528,
@@ -119618,7 +119618,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Greek Orthodox Church of St. George",
-                  "text": "A Szent György Görög Ortodox Templom Des Moines-ban egy történelmi templom.",
+                  "text": "A Szent György görög ortodox templom 1906-ban épült, William T. Proudfoot és George Washington Bird tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.66458,
@@ -119627,7 +119627,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cottage Grove Church",
-                  "text": "A Cottage Grove-templom Des Moines-ban egy történelmi presbiteriánus templom.",
+                  "text": "A Cottage Grove Church 1903-ban épült, Clinton P. Shockley tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.650046,
@@ -119636,7 +119636,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint John",
-                  "text": "A Szent János-bazilika Des Moines-ban egy kisebb bazilika.",
+                  "text": "A Szent János-bazilika 1927-ben épült, Maginnis & Walsh tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.64348,
@@ -119663,7 +119663,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "A Szent Pál-székesegyház Des Moines-ban egy episzkopális székesegyház.",
+                  "text": "A Szent Pál-székesegyház Des Moines-ban, műemlék, Foster és Liebbe tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.628969,
@@ -119672,7 +119672,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwest Fifth Street Bridge",
-                  "text": "A Southwest Fifth Street híd Des Moines-ban egy történelmi híd.",
+                  "text": "A Southwest Fifth Street híd 1898-ban épült, L. Higgins tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.618953,
@@ -119681,7 +119681,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Court Avenue Bridge",
-                  "text": "A Court Avenue híd Des Moines-ban egy történelmi híd.",
+                  "text": "A Court Avenue híd 1918-ban épült, James B. Marsh tervezte.",
                   "category": "landmark",
                   "coords": [
                         -93.616717,
@@ -119690,7 +119690,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anthony's Church",
-                  "text": "A Szent Antal-templom Des Moines-ban egy történelmi katolikus templom.",
+                  "text": "A Szent Antal-templom Des Moines-ban, 1915-ben épült, műemlék.",
                   "category": "landmark",
                   "coords": [
                         -93.617265,
@@ -119863,7 +119863,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Salisbury House",
-                  "text": "Casa Salisbury din Des Moines este un muzeu de casă istorică.",
+                  "text": "Casa Salisbury din Des Moines, construită în 1923 de Byron Bennett Boyd și William Whitney Rasmussen, este un conac în stil Tudor.",
                   "category": "museum",
                   "coords": [
                         -93.671477,
@@ -119917,7 +119917,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sylvan Theater",
-                  "text": "Teatrul Sylvan din Des Moines este un teatru în aer liber într-un district istoric.",
+                  "text": "Teatrul Sylvan din Des Moines, construit în 1931 de Harland Bartholomew Associates și Francis Asbury Robinson, este un amfiteatru în aer liber.",
                   "category": "landmark",
                   "coords": [
                         -93.680157,
@@ -119926,7 +119926,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Des Moines City Hall",
-                  "text": "Primăria din Des Moines este sediul guvernului orașului.",
+                  "text": "Primăria din Des Moines, construită în 1910, proiectată de mai mulți arhitecți, inclusiv Proudfoot și Bird.",
                   "category": "landmark",
                   "coords": [
                         -93.616561,
@@ -119944,7 +119944,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Ambrose Cathedral",
-                  "text": "Catedrala Sfântul Ambrozie din Des Moines este catedrala Diecezei de Des Moines.",
+                  "text": "Catedrala Sfântul Ambrozie, construită în 1927, proiectată de James J. Egan.",
                   "category": "landmark",
                   "coords": [
                         -93.62594,
@@ -119953,7 +119953,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "Prima Biserică Metodistă Unită din Des Moines este o clădire bisericească istorică.",
+                  "text": "Biserica First United Methodist, construită în 1908, proiectată de Proudfoot și Bird.",
                   "category": "landmark",
                   "coords": [
                         -93.631282,
@@ -119971,7 +119971,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Las Americas United Methodist Church",
-                  "text": "Biserica Metodistă Unită Trinity Las Americas din Des Moines este o biserică istorică.",
+                  "text": "Biserica Trinity Las Americas United Methodist, construită în 1911, proiectată de Proudfoot, Bird & Rawson.",
                   "category": "landmark",
                   "coords": [
                         -93.628528,
@@ -119980,7 +119980,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Greek Orthodox Church of St. George",
-                  "text": "Biserica Ortodoxă Greacă Sfântul Gheorghe din Des Moines este o biserică istorică.",
+                  "text": "Biserica Ortodoxă Greacă Sfântul Gheorghe, construită în 1906, proiectată de William T. Proudfoot și George Washington Bird.",
                   "category": "landmark",
                   "coords": [
                         -93.66458,
@@ -119989,7 +119989,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cottage Grove Church",
-                  "text": "Biserica Cottage Grove din Des Moines este o biserică prezbiteriană istorică.",
+                  "text": "Biserica Cottage Grove, construită în 1903, proiectată de Clinton P. Shockley.",
                   "category": "landmark",
                   "coords": [
                         -93.650046,
@@ -119998,7 +119998,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint John",
-                  "text": "Basilica Sfântul Ioan din Des Moines este o bazilică minoră.",
+                  "text": "Basilica Sfântul Ioan, construită în 1927, proiectată de Maginnis & Walsh.",
                   "category": "landmark",
                   "coords": [
                         -93.64348,
@@ -120025,7 +120025,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "Catedrala Sfântul Paul din Des Moines este o catedrală episcopală.",
+                  "text": "Catedrala Sfântul Paul din Des Moines, monument istoric, proiectată de Foster și Liebbe.",
                   "category": "landmark",
                   "coords": [
                         -93.628969,
@@ -120034,7 +120034,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwest Fifth Street Bridge",
-                  "text": "Podul Southwest Fifth Street din Des Moines este un pod istoric.",
+                  "text": "Podul Southwest Fifth Street, construit în 1898, proiectat de L. Higgins.",
                   "category": "landmark",
                   "coords": [
                         -93.618953,
@@ -120043,7 +120043,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Court Avenue Bridge",
-                  "text": "Podul Court Avenue din Des Moines este un pod istoric.",
+                  "text": "Podul Court Avenue, construit în 1918, proiectat de James B. Marsh.",
                   "category": "landmark",
                   "coords": [
                         -93.616717,
@@ -120052,7 +120052,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anthony's Church",
-                  "text": "Biserica Sfântul Anton din Des Moines este o biserică catolică istorică.",
+                  "text": "Biserica Sfântul Anton din Des Moines, construită în 1915, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -93.617265,
@@ -120225,7 +120225,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Salisbury House",
-                  "text": "Salisbury House in Des Moines is a historic house museum.",
+                  "text": "Salisbury House in Des Moines, built in 1923 by Byron Bennett Boyd and William Whitney Rasmussen, is a Tudor-style mansion.",
                   "category": "museum",
                   "coords": [
                         -93.671477,
@@ -120279,7 +120279,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sylvan Theater",
-                  "text": "The Sylvan Theater in Des Moines is an outdoor theater in a historic district.",
+                  "text": "The Sylvan Theater in Des Moines, built in 1931 by Harland Bartholomew Associates and Francis Asbury Robinson, is an outdoor amphitheatre.",
                   "category": "landmark",
                   "coords": [
                         -93.680157,
@@ -120288,7 +120288,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Des Moines City Hall",
-                  "text": "Des Moines City Hall is the seat of the city government.",
+                  "text": "Des Moines City Hall, built in 1910, designed by multiple architects including Proudfoot and Bird.",
                   "category": "landmark",
                   "coords": [
                         -93.616561,
@@ -120306,7 +120306,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Ambrose Cathedral",
-                  "text": "Saint Ambrose Cathedral in Des Moines is the cathedral of the Diocese of Des Moines.",
+                  "text": "Saint Ambrose Cathedral, built in 1927, designed by James J. Egan.",
                   "category": "landmark",
                   "coords": [
                         -93.62594,
@@ -120315,7 +120315,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "The First United Methodist Church in Des Moines is a historic church building.",
+                  "text": "First United Methodist Church, built in 1908, designed by Proudfoot and Bird.",
                   "category": "landmark",
                   "coords": [
                         -93.631282,
@@ -120333,7 +120333,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Trinity Las Americas United Methodist Church",
-                  "text": "Trinity Las Americas United Methodist Church in Des Moines is a historic church.",
+                  "text": "Trinity Las Americas United Methodist Church, built in 1911, designed by Proudfoot, Bird & Rawson.",
                   "category": "landmark",
                   "coords": [
                         -93.628528,
@@ -120342,7 +120342,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Greek Orthodox Church of St. George",
-                  "text": "The Greek Orthodox Church of St. George in Des Moines is a historic church.",
+                  "text": "Greek Orthodox Church of St. George, built in 1906, designed by William T. Proudfoot and George Washington Bird.",
                   "category": "landmark",
                   "coords": [
                         -93.66458,
@@ -120351,7 +120351,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cottage Grove Church",
-                  "text": "Cottage Grove Church in Des Moines is a historic Presbyterian church.",
+                  "text": "Cottage Grove Church, built in 1903, designed by Clinton P. Shockley.",
                   "category": "landmark",
                   "coords": [
                         -93.650046,
@@ -120360,7 +120360,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint John",
-                  "text": "The Basilica of Saint John in Des Moines is a minor basilica.",
+                  "text": "Basilica of Saint John, built in 1927, designed by Maginnis & Walsh.",
                   "category": "landmark",
                   "coords": [
                         -93.64348,
@@ -120387,7 +120387,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "The Cathedral Church of Saint Paul in Des Moines is an Episcopal cathedral.",
+                  "text": "The Cathedral Church of Saint Paul in Des Moines, listed, designed by Foster and Liebbe.",
                   "category": "landmark",
                   "coords": [
                         -93.628969,
@@ -120396,7 +120396,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwest Fifth Street Bridge",
-                  "text": "The Southwest Fifth Street Bridge in Des Moines is a historic bridge.",
+                  "text": "Southwest Fifth Street Bridge, built in 1898, designed by L. Higgins.",
                   "category": "landmark",
                   "coords": [
                         -93.618953,
@@ -120405,7 +120405,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Court Avenue Bridge",
-                  "text": "The Court Avenue Bridge in Des Moines is a historic bridge.",
+                  "text": "Court Avenue Bridge, built in 1918, designed by James B. Marsh.",
                   "category": "landmark",
                   "coords": [
                         -93.616717,
@@ -120414,7 +120414,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anthony's Church",
-                  "text": "Saint Anthony's Church in Des Moines is a historic Catholic church.",
+                  "text": "Saint Anthony's Church in Des Moines, built in 1915, listed.",
                   "category": "landmark",
                   "coords": [
                         -93.617265,
@@ -123723,7 +123723,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Museum of Art",
-                  "text": "Das Birmingham Museum of Art ist ein Museum in Birmingham mit einer bemerkenswerten Kunstsammlung.",
+                  "text": "Das Birmingham Museum of Art wurde 1951 in Birmingham, Alabama, gegründet.",
                   "category": "museum",
                   "coords": [
                         -86.810116,
@@ -123759,7 +123759,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke AME Church",
-                  "text": "St. Luke AME Church ist eine historische African Methodist Episcopal Kirche in Birmingham.",
+                  "text": "Die St. Luke AME Church in Birmingham, Alabama, ist eine historische afrikanisch-methodistische Kirche.",
                   "category": "religious",
                   "coords": [
                         -86.809923,
@@ -123768,7 +123768,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sardis Baptist Church",
-                  "text": "Sardis Baptist Church ist eine historische Baptistenkirche in Birmingham.",
+                  "text": "Die Sardis Baptist Church in Birmingham, Alabama, ist eine historische Baptistenkirche.",
                   "category": "religious",
                   "coords": [
                         -86.830468,
@@ -123786,7 +123786,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "First United Methodist Church ist eine historische methodistische Kirche in Birmingham.",
+                  "text": "Die First United Methodist Church in Birmingham, Alabama, ist eine historische methodistische Kirche.",
                   "category": "religious",
                   "coords": [
                         -86.810588,
@@ -124058,7 +124058,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Museum of Art",
-                  "text": "A Birmingham Museum of Art egy múzeum Birminghamben, jelentős művészeti gyűjteménnyel.",
+                  "text": "A Birmingham Museum of Art 1951-ben nyílt meg Birminghamben, Alabamában.",
                   "category": "museum",
                   "coords": [
                         -86.810116,
@@ -124094,7 +124094,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke AME Church",
-                  "text": "A St. Luke AME Church egy történelmi afrikai metodista episzkopális templom Birminghamben.",
+                  "text": "A St. Luke AME Church Birminghamben, Alabamában, egy történelmi afrikai metodista templom.",
                   "category": "religious",
                   "coords": [
                         -86.809923,
@@ -124103,7 +124103,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sardis Baptist Church",
-                  "text": "A Sardis Baptist Church egy történelmi baptista templom Birminghamben.",
+                  "text": "A Sardis Baptist Church Birminghamben, Alabamában, egy történelmi baptista templom.",
                   "category": "religious",
                   "coords": [
                         -86.830468,
@@ -124121,7 +124121,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "A First United Methodist Church egy történelmi metodista templom Birminghamben.",
+                  "text": "A First United Methodist Church Birminghamben, Alabamában, egy történelmi metodista templom.",
                   "category": "religious",
                   "coords": [
                         -86.810588,
@@ -124393,7 +124393,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Museum of Art",
-                  "text": "Birmingham Museum of Art este un muzeu în Birmingham cu o colecție notabilă de artă.",
+                  "text": "Muzeul de Artă din Birmingham a fost fondat în 1951 în Birmingham, Alabama.",
                   "category": "museum",
                   "coords": [
                         -86.810116,
@@ -124429,7 +124429,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke AME Church",
-                  "text": "St. Luke AME Church este o biserică istorică African Methodist Episcopal în Birmingham.",
+                  "text": "Biserica St. Luke AME din Birmingham, Alabama, este o biserică istorică africană metodistă episcopală.",
                   "category": "religious",
                   "coords": [
                         -86.809923,
@@ -124438,7 +124438,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sardis Baptist Church",
-                  "text": "Sardis Baptist Church este o biserică baptistă istorică în Birmingham.",
+                  "text": "Biserica Sardis Baptist din Birmingham, Alabama, este o biserică istorică baptistă.",
                   "category": "religious",
                   "coords": [
                         -86.830468,
@@ -124456,7 +124456,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "First United Methodist Church este o biserică metodistă istorică în Birmingham.",
+                  "text": "First United Methodist Church din Birmingham, Alabama, este o biserică metodistă istorică.",
                   "category": "religious",
                   "coords": [
                         -86.810588,
@@ -124728,7 +124728,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Museum of Art",
-                  "text": "The Birmingham Museum of Art is a museum in Birmingham with a notable collection of art.",
+                  "text": "Birmingham Museum of Art was founded in 1951 in Birmingham, Alabama.",
                   "category": "museum",
                   "coords": [
                         -86.810116,
@@ -124764,7 +124764,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke AME Church",
-                  "text": "St. Luke AME Church is a historic African Methodist Episcopal church in Birmingham.",
+                  "text": "St. Luke AME Church in Birmingham, Alabama, is a historic African Methodist Episcopal church.",
                   "category": "religious",
                   "coords": [
                         -86.809923,
@@ -124773,7 +124773,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sardis Baptist Church",
-                  "text": "Sardis Baptist Church is a historic Baptist church in Birmingham.",
+                  "text": "Sardis Baptist Church in Birmingham, Alabama, is a historic Baptist church.",
                   "category": "religious",
                   "coords": [
                         -86.830468,
@@ -124791,7 +124791,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First United Methodist Church",
-                  "text": "First United Methodist Church is a historic Methodist church in Birmingham.",
+                  "text": "First United Methodist Church in Birmingham, Alabama, is a historic Methodist church.",
                   "category": "religious",
                   "coords": [
                         -86.810588,
@@ -127680,7 +127680,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Joseph Taylor Robinson House",
-                  "text": "Das Joseph Taylor Robinson House in Little Rock ist ein historisches Wohnhaus, das heute ein Museum ist.",
+                  "text": "Das Joseph Taylor Robinson House in Little Rock ist ein historisches Wohnhausmuseum des Senators.",
                   "category": "museum",
                   "coords": [
                         -92.279024,
@@ -127716,7 +127716,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Rock",
-                  "text": "The Little Rock ist die namensgebende Felsformation im Arkansas River.",
+                  "text": "The Little Rock in Little Rock, Arkansas, ist der namensgebende historische Felsen der Stadt.",
                   "category": "landmark",
                   "coords": [
                         -92.266762,
@@ -128006,7 +128006,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Joseph Taylor Robinson House",
-                  "text": "A Little Rock-i Joseph Taylor Robinson Ház egy történelmi lakóház, amely múzeummá vált.",
+                  "text": "A Joseph Taylor Robinson House Little Rockban egy történelmi lakóház-múzeum a szenátoré.",
                   "category": "museum",
                   "coords": [
                         -92.279024,
@@ -128042,7 +128042,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Rock",
-                  "text": "A The Little Rock a névadó sziklás képződmény az Arkansas folyóban.",
+                  "text": "The Little Rock Little Rockban, Arkansasban, a város névadó történelmi sziklája.",
                   "category": "landmark",
                   "coords": [
                         -92.266762,
@@ -128332,7 +128332,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Joseph Taylor Robinson House",
-                  "text": "Casa Joseph Taylor Robinson din Little Rock este o reședință istorică transformată în muzeu.",
+                  "text": "Casa Joseph Taylor Robinson din Little Rock este un muzeu istoric al casei senatorului.",
                   "category": "museum",
                   "coords": [
                         -92.279024,
@@ -128368,7 +128368,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Rock",
-                  "text": "The Little Rock este formațiunea de rocă care dă numele orașului, situată în râul Arkansas.",
+                  "text": "The Little Rock din Little Rock, Arkansas, este stânca istorică care dă numele orașului.",
                   "category": "landmark",
                   "coords": [
                         -92.266762,
@@ -128658,7 +128658,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Joseph Taylor Robinson House",
-                  "text": "The Joseph Taylor Robinson House in Little Rock is a historic residence turned museum.",
+                  "text": "Joseph Taylor Robinson House in Little Rock is a historic house museum of the senator.",
                   "category": "museum",
                   "coords": [
                         -92.279024,
@@ -128694,7 +128694,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Rock",
-                  "text": "The Little Rock is the namesake rock formation located in the Arkansas River.",
+                  "text": "The Little Rock in Little Rock, Arkansas, is the namesake historic rock formation of the city.",
                   "category": "landmark",
                   "coords": [
                         -92.266762,
@@ -129086,7 +129086,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wesley Methodist Church",
-                  "text": "Eine methodistische Kirche in Columbia.",
+                  "text": "Die Wesley Methodist Church in Columbia, South Carolina, ist eine historische methodistische Kirche.",
                   "category": "religious",
                   "coords": [
                         -81.024297,
@@ -129421,7 +129421,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wesley Methodist Church",
-                  "text": "Egy metodista templom Columbiában.",
+                  "text": "A Wesley Methodist Church Columbiában, Dél-Karolinában, egy történelmi metodista templom.",
                   "category": "religious",
                   "coords": [
                         -81.024297,
@@ -129756,7 +129756,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wesley Methodist Church",
-                  "text": "O biserică metodistă în Columbia.",
+                  "text": "Biserica Wesley Methodist din Columbia, Carolina de Sud, este o biserică metodistă istorică.",
                   "category": "religious",
                   "coords": [
                         -81.024297,
@@ -130091,7 +130091,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wesley Methodist Church",
-                  "text": "A Methodist church in Columbia.",
+                  "text": "Wesley Methodist Church in Columbia, South Carolina, is a historic Methodist church.",
                   "category": "religious",
                   "coords": [
                         -81.024297,
@@ -131304,7 +131304,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Boston and Providence Railroad Bridge",
-                  "text": "Eine Eisenbahnbrücke in Providence, gebaut für die Boston and Providence Railroad.",
+                  "text": "Die Boston and Providence Railroad Bridge in Providence ist eine historische Eisenbahnbrücke über den Seekonk River.",
                   "category": "landmark",
                   "coords": [
                         -71.362077,
@@ -131666,7 +131666,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Boston and Providence Railroad Bridge",
-                  "text": "Egy vasúti híd Providence-ben, amelyet a Boston and Providence Railroad számára építettek.",
+                  "text": "A Boston and Providence Railroad Bridge Providence egy történelmi vasúti híd a Seekonk folyón.",
                   "category": "landmark",
                   "coords": [
                         -71.362077,
@@ -132028,7 +132028,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Boston and Providence Railroad Bridge",
-                  "text": "Un pod de cale ferată în Providence construit pentru calea ferată Boston și Providence.",
+                  "text": "Podul feroviar Boston and Providence din Providence este un pod de cale ferată istoric peste Râul Seekonk.",
                   "category": "landmark",
                   "coords": [
                         -71.362077,
@@ -132390,7 +132390,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Boston and Providence Railroad Bridge",
-                  "text": "A railroad bridge in Providence built for the Boston and Providence Railroad.",
+                  "text": "Boston and Providence Railroad Bridge in Providence is a historic railroad bridge over the Seekonk River.",
                   "category": "landmark",
                   "coords": [
                         -71.362077,
@@ -132710,7 +132710,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Amos Bull House",
-                  "text": "Das Amos Bull House ist ein historisches Hausmuseum in Hartford, Connecticut.",
+                  "text": "Das Amos Bull House in Hartford ist ein historisches Wohnhausmuseum.",
                   "category": "museum",
                   "coords": [
                         -72.673741,
@@ -132728,7 +132728,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wadsworth Atheneum",
-                  "text": "Das Wadsworth Atheneum ist ein Kunstmuseum in Hartford, Connecticut, das älteste öffentliche Kunstmuseum der USA.",
+                  "text": "Das Wadsworth Atheneum in Hartford ist das älteste öffentliche Kunstmuseum der USA.",
                   "category": "museum",
                   "coords": [
                         -72.673162,
@@ -132773,7 +132773,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut State Capitol",
-                  "text": "Das Connecticut State Capitol ist das Kapitolgebäude in Hartford, Connecticut, Sitz der Staatslegislative.",
+                  "text": "Erbaut 1878 und entworfen von Richard M. Upjohn, das gotische Connecticut State Capitol in Hartford.",
                   "category": "historical",
                   "coords": [
                         -72.682286,
@@ -132791,7 +132791,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "Die Congregation Beth Israel ist eine historische Synagoge in West Hartford, Connecticut.",
+                  "text": "Die Congregation Beth Israel ist eine Synagoge in Hartford, die im National Register of Historic Places eingetragen ist.",
                   "category": "religious",
                   "coords": [
                         -72.719254,
@@ -132809,7 +132809,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Johns Episcopal Church",
-                  "text": "Die St. John's Episcopal Church ist eine historische Kirche in East Hartford, Connecticut.",
+                  "text": "Die Saint Johns Episcopal Church in Hartford ist im National Register of Historic Places eingetragen.",
                   "category": "religious",
                   "coords": [
                         -72.640571,
@@ -132854,7 +132854,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Cyril and Saint Methodius Church",
-                  "text": "Die Kirche St. Kyrill und Method in Hartford ist eine historische polnisch-katholische Kirche.",
+                  "text": "Die SS. Cyril und Methodius Kirche in Hartford wurde 1902 erbaut.",
                   "category": "religious",
                   "coords": [
                         -72.672619,
@@ -132863,7 +132863,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Roman Catholic Church",
-                  "text": "Die Heilig-Dreifaltigkeits-Kirche in Hartford ist eine historische römisch-katholische Kirche.",
+                  "text": "Die Holy Trinity Roman Catholic Church in Hartford wurde 1928 geweiht.",
                   "category": "religious",
                   "coords": [
                         -72.676681,
@@ -132935,7 +132935,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut Southern Railroad Bridge",
-                  "text": "Die Connecticut Southern Railroad Bridge in Hartford ist eine Eisenbahnbrücke über den Connecticut River.",
+                  "text": "Die Connecticut Southern Railroad Bridge in Hartford wurde 1873 erbaut.",
                   "category": "landmark",
                   "coords": [
                         -72.658399,
@@ -132962,7 +132962,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Keney Tower",
-                  "text": "Der Keney Tower in Hartford ist ein historischer Uhrenturm.",
+                  "text": "Der Keney Tower in Hartford ist im National Register of Historic Places eingetragen.",
                   "category": "landmark",
                   "coords": [
                         -72.676071,
@@ -132971,7 +132971,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mark Twain House",
-                  "text": "Das Mark Twain House in Hartford war das Zuhause des Schriftstellers Mark Twain.",
+                  "text": "Das Mark Twain House in Hartford war das Zuhause des berühmten Autors.",
                   "category": "landmark",
                   "coords": [
                         -72.701412,
@@ -132980,7 +132980,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Westmoor Park",
-                  "text": "Der Westmoor Park in Hartford ist ein Park mit Gärten und Wanderwegen.",
+                  "text": "Der Westmoor Park in Hartford wurde 1974 angelegt.",
                   "category": "park",
                   "coords": [
                         -72.758694,
@@ -133072,7 +133072,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Amos Bull House",
-                  "text": "Az Amos Bull House egy történelmi házmúzeum Hartfordban, Connecticutban.",
+                  "text": "Az Amos Bull House Hartfordban egy történelmi lakóház-múzeum.",
                   "category": "museum",
                   "coords": [
                         -72.673741,
@@ -133090,7 +133090,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wadsworth Atheneum",
-                  "text": "A Wadsworth Atheneum egy művészeti múzeum Hartfordban, Connecticutban, az USA legrégebbi nyilvános művészeti múzeuma.",
+                  "text": "A Wadsworth Atheneum Hartfordban az Egyesült Államok legrégebbi nyilvános művészeti múzeuma.",
                   "category": "museum",
                   "coords": [
                         -72.673162,
@@ -133135,7 +133135,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut State Capitol",
-                  "text": "A Connecticut Állami Kapitólium a connecticuti állam kapitóliumépülete Hartfordban, az állami törvényhozás otthona.",
+                  "text": "1878-ban épült, Richard M. Upjohn tervezte, gótikus stílusú Connecticut állami kapitólium Hartfordban.",
                   "category": "historical",
                   "coords": [
                         -72.682286,
@@ -133153,7 +133153,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "A Beth Israel gyülekezet egy történelmi zsinagóga West Hartfordban, Connecticutban.",
+                  "text": "A Congregation Beth Israel egy zsinagóga Hartfordban, amely a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "religious",
                   "coords": [
                         -72.719254,
@@ -133171,7 +133171,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Johns Episcopal Church",
-                  "text": "A Szent János Episzkopális Templom egy történelmi templom East Hartfordban, Connecticutban.",
+                  "text": "A Saint Johns Episcopal Church Hartfordban a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "religious",
                   "coords": [
                         -72.640571,
@@ -133216,7 +133216,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Cyril and Saint Methodius Church",
-                  "text": "A Hartfordban található Szent Cirill és Metód templom egy történelmi lengyel katolikus templom.",
+                  "text": "A Szent Cirill és Metód templom Hartfordban 1902-ben épült.",
                   "category": "religious",
                   "coords": [
                         -72.672619,
@@ -133225,7 +133225,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Roman Catholic Church",
-                  "text": "A Hartfordi Szentháromság római katolikus templom egy történelmi templom.",
+                  "text": "A Holy Trinity római katolikus templom Hartfordban 1928-ban szentelték fel.",
                   "category": "religious",
                   "coords": [
                         -72.676681,
@@ -133297,7 +133297,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut Southern Railroad Bridge",
-                  "text": "A Connecticut Southern Railroad Bridge Hartfordban egy vasúti híd a Connecticut folyón.",
+                  "text": "A Connecticut Southern Railroad Bridge Hartfordban 1873-ban épült.",
                   "category": "landmark",
                   "coords": [
                         -72.658399,
@@ -133324,7 +133324,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Keney Tower",
-                  "text": "A Hartfordi Keney Tower egy történelmi óratorony.",
+                  "text": "A Keney Tower Hartfordban a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "landmark",
                   "coords": [
                         -72.676071,
@@ -133333,7 +133333,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mark Twain House",
-                  "text": "A Hartfordi Mark Twain House volt az író Mark Twain otthona.",
+                  "text": "A Mark Twain House Hartfordban a híres író otthona volt.",
                   "category": "landmark",
                   "coords": [
                         -72.701412,
@@ -133342,7 +133342,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Westmoor Park",
-                  "text": "A Hartfordi Westmoor Park egy park kertekkel és ösvényekkel.",
+                  "text": "A Westmoor Park Hartfordban 1974-ben létesült.",
                   "category": "park",
                   "coords": [
                         -72.758694,
@@ -133434,7 +133434,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Amos Bull House",
-                  "text": "Casa Amos Bull este un muzeu de casă istorică în Hartford, Connecticut.",
+                  "text": "Casa Amos Bull din Hartford este un muzeu istoric de casă.",
                   "category": "museum",
                   "coords": [
                         -72.673741,
@@ -133452,7 +133452,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wadsworth Atheneum",
-                  "text": "Wadsworth Atheneum este un muzeu de artă în Hartford, Connecticut, cel mai vechi muzeu public de artă din SUA.",
+                  "text": "Wadsworth Atheneum din Hartford este cel mai vechi muzeu de artă public din SUA.",
                   "category": "museum",
                   "coords": [
                         -72.673162,
@@ -133497,7 +133497,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut State Capitol",
-                  "text": "Capitoliul de Stat al Connecticutului este clădirea capitoliului de stat în Hartford, Connecticut, adăpostind legislatura statului.",
+                  "text": "Construit în 1878 și proiectat de Richard M. Upjohn, Capitoliul statului Connecticut în stil gotic din Hartford.",
                   "category": "historical",
                   "coords": [
                         -72.682286,
@@ -133515,7 +133515,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "Congregația Beth Israel este o sinagogă istorică în West Hartford, Connecticut.",
+                  "text": "Congregation Beth Israel este o sinagogă din Hartford, înregistrată în Registrul Național al Locurilor Istorice.",
                   "category": "religious",
                   "coords": [
                         -72.719254,
@@ -133533,7 +133533,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Johns Episcopal Church",
-                  "text": "Biserica Episcopală Sfântul Ioan este o biserică istorică în East Hartford, Connecticut.",
+                  "text": "Saint Johns Episcopal Church din Hartford este înregistrată în Registrul Național al Locurilor Istorice.",
                   "category": "religious",
                   "coords": [
                         -72.640571,
@@ -133578,7 +133578,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Cyril and Saint Methodius Church",
-                  "text": "Biserica Sfinții Chiril și Metodie din Hartford este o biserică istorică poloneză catolică.",
+                  "text": "Biserica Sfinții Chiril și Metodiu din Hartford a fost construită în 1902.",
                   "category": "religious",
                   "coords": [
                         -72.672619,
@@ -133587,7 +133587,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Sfânta Treime din Hartford este o biserică istorică.",
+                  "text": "Biserica Romano-Catolică Holy Trinity din Hartford a fost sfințită în 1928.",
                   "category": "religious",
                   "coords": [
                         -72.676681,
@@ -133659,7 +133659,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut Southern Railroad Bridge",
-                  "text": "Podul feroviar Connecticut Southern Railroad din Hartford este un pod de cale ferată peste râul Connecticut.",
+                  "text": "Podul feroviar Connecticut Southern din Hartford a fost construit în 1873.",
                   "category": "landmark",
                   "coords": [
                         -72.658399,
@@ -133686,7 +133686,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Keney Tower",
-                  "text": "Turnul Keney din Hartford este un turn de ceas istoric.",
+                  "text": "Keney Tower din Hartford este înregistrat în Registrul Național al Locurilor Istorice.",
                   "category": "landmark",
                   "coords": [
                         -72.676071,
@@ -133695,7 +133695,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mark Twain House",
-                  "text": "Casa Mark Twain din Hartford a fost locuința scriitorului Mark Twain.",
+                  "text": "Casa Mark Twain din Hartford a fost locuința celebrului autor.",
                   "category": "landmark",
                   "coords": [
                         -72.701412,
@@ -133704,7 +133704,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Westmoor Park",
-                  "text": "Parcul Westmoor din Hartford este un parc cu grădini și poteci.",
+                  "text": "Parcul Westmoor din Hartford a fost amenajat în 1974.",
                   "category": "park",
                   "coords": [
                         -72.758694,
@@ -133796,7 +133796,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Amos Bull House",
-                  "text": "The Amos Bull House is a historic house museum in Hartford, Connecticut.",
+                  "text": "Amos Bull House in Hartford is a historic house museum.",
                   "category": "museum",
                   "coords": [
                         -72.673741,
@@ -133814,7 +133814,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wadsworth Atheneum",
-                  "text": "The Wadsworth Atheneum is an art museum in Hartford, Connecticut, the oldest public art museum in the US.",
+                  "text": "Wadsworth Atheneum in Hartford is the oldest public art museum in the United States.",
                   "category": "museum",
                   "coords": [
                         -72.673162,
@@ -133859,7 +133859,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut State Capitol",
-                  "text": "The Connecticut State Capitol is the state capitol building in Hartford, Connecticut, housing the state legislature.",
+                  "text": "Built in 1878 and designed by Richard M. Upjohn, the Gothic-style Connecticut State Capitol in Hartford.",
                   "category": "historical",
                   "coords": [
                         -72.682286,
@@ -133877,7 +133877,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "Congregation Beth Israel is a historic synagogue in West Hartford, Connecticut.",
+                  "text": "Congregation Beth Israel is a synagogue in Hartford listed on the National Register of Historic Places.",
                   "category": "religious",
                   "coords": [
                         -72.719254,
@@ -133895,7 +133895,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Johns Episcopal Church",
-                  "text": "Saint John's Episcopal Church is a historic church in East Hartford, Connecticut.",
+                  "text": "Saint Johns Episcopal Church in Hartford is listed on the National Register of Historic Places.",
                   "category": "religious",
                   "coords": [
                         -72.640571,
@@ -133940,7 +133940,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Cyril and Saint Methodius Church",
-                  "text": "In Hartford, this church is a historic Polish Catholic parish.",
+                  "text": "SS. Cyril and Methodius Church in Hartford was built in 1902.",
                   "category": "religious",
                   "coords": [
                         -72.672619,
@@ -133949,7 +133949,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Roman Catholic Church",
-                  "text": "In Hartford, it is a historic Roman Catholic church.",
+                  "text": "Holy Trinity Roman Catholic Church in Hartford was consecrated in 1928.",
                   "category": "religious",
                   "coords": [
                         -72.676681,
@@ -134021,7 +134021,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Connecticut Southern Railroad Bridge",
-                  "text": "In Hartford, it is a railroad bridge across the Connecticut River.",
+                  "text": "The Connecticut Southern Railroad Bridge in Hartford was built in 1873.",
                   "category": "landmark",
                   "coords": [
                         -72.658399,
@@ -134048,7 +134048,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Keney Tower",
-                  "text": "In Hartford, it is a historic clock tower.",
+                  "text": "Keney Tower in Hartford is listed on the National Register of Historic Places.",
                   "category": "landmark",
                   "coords": [
                         -72.676071,
@@ -134057,7 +134057,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Mark Twain House",
-                  "text": "In Hartford, it was the home of author Mark Twain.",
+                  "text": "The Mark Twain House in Hartford was the home of the famous author.",
                   "category": "landmark",
                   "coords": [
                         -72.701412,
@@ -134066,7 +134066,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Westmoor Park",
-                  "text": "In Hartford, it is a park with gardens and trails.",
+                  "text": "Westmoor Park in Hartford was established in 1974.",
                   "category": "park",
                   "coords": [
                         -72.758694,
@@ -135567,7 +135567,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "Das Gibbes Museum of Art ist ein Kunstmuseum in Charleston (South Carolina).",
+                  "text": "Eröffnet 1905 und von Frank Pierce Milburn entworfen, das Gibbes Museum of Art in Charleston, South Carolina.",
                   "category": "museum",
                   "coords": [
                         -79.931728,
@@ -135576,7 +135576,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Exchange & Provost Dungeon",
-                  "text": "Old Exchange & Provost Dungeon ist ein historisches Museum in Charleston (South Carolina).",
+                  "text": "Erbaut 1767, die koloniale Börse und das Verlies in Charleston, South Carolina.",
                   "category": "museum",
                   "coords": [
                         -79.926842,
@@ -135612,7 +135612,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Halsey Institute of Contemporary Art",
-                  "text": "Das Halsey Institute of Contemporary Art ist eine Kunstgalerie in Charleston (South Carolina).",
+                  "text": "Das Halsey Institute of Contemporary Art in Charleston wurde 2009 gegründet.",
                   "category": "museum",
                   "coords": [
                         -79.937371,
@@ -135630,7 +135630,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Confederate Defenders of Charleston",
-                  "text": "Confederate Defenders of Charleston ist ein historisches Denkmal in Charleston (South Carolina).",
+                  "text": "Gewidmet 1932 und von Delano & Aldrich entworfen, dieses Denkmal in Charleston ehrt die konföderierten Verteidiger.",
                   "category": "historical",
                   "coords": [
                         -79.929084,
@@ -135639,7 +135639,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sottile Theater",
-                  "text": "Das Sottile Theater ist ein Theater in Charleston (South Carolina).",
+                  "text": "Eröffnet 1927 und von C.K. Howell entworfen, das Sottile Theater in Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.935892,
@@ -135648,7 +135648,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dock Street Theatre",
-                  "text": "Das Dock Street Theatre ist ein historisches Theater in Charleston (South Carolina).",
+                  "text": "Ursprünglich erbaut 1809 und von Douglas D. Ellington umgestaltet, das Dock Street Theatre in Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.929614,
@@ -135657,7 +135657,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "Das Memminger Auditorium ist ein Theater in Charleston (South Carolina).",
+                  "text": "Eröffnet 1939 und von Simons und Lapham entworfen, das Memminger Auditorium in Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.936438,
@@ -135675,7 +135675,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "Die First (Scots) Presbyterian Church ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die First (Scots) Presbyterian Church in Charleston wurde 1814 erbaut.",
                   "category": "religious",
                   "coords": [
                         -79.931369,
@@ -135693,7 +135693,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Emma Abbott Memorial Chapel",
-                  "text": "Die Emma Abbott Memorial Chapel ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Erbaut 1892 und von S.H. Foulk entworfen, die Emma Abbott Memorial Chapel in Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.937828,
@@ -135702,7 +135702,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "Die Cathedral of St. John the Baptist ist eine Kirche in Charleston (South Carolina).",
+                  "text": "Fertiggestellt 1890 und von Patrick C. Keely entworfen, die Kathedrale St. Johannes der Täufer in Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.934469,
@@ -135729,7 +135729,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "The St. Luke and St. Paul Anglican Church ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die Cathedral of St. Luke and St. Paul in Charleston wurde 1811 erbaut.",
                   "category": "religious",
                   "coords": [
                         -79.940276,
@@ -135738,7 +135738,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "Die Central Baptist Church ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die Central Baptist Church, erbaut 1893, wurde von John Pearson Hutchinson Sr. entworfen und ist im NRHP gelistet.",
                   "category": "religious",
                   "coords": [
                         -79.940737,
@@ -135747,7 +135747,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morris Brown AME Church",
-                  "text": "Die Morris Brown AME Church ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die Morris Brown AME Church in Charleston wurde 1866 erbaut.",
                   "category": "religious",
                   "coords": [
                         -79.940231,
@@ -135756,7 +135756,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "Die Bethel United Methodist Church ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Erbaut 1853 und von E. Curtis entworfen, die Bethel United Methodist Church in Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.94109,
@@ -135783,7 +135783,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "Die Second Presbyterian Church ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die Second Presbyterian Church in Charleston wurde 1811 erbaut.",
                   "category": "religious",
                   "coords": [
                         -79.934007,
@@ -135810,7 +135810,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Chapel",
-                  "text": "Die St. John's Chapel ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die St. John's Chapel in Charleston wurde 1839 erbaut.",
                   "category": "religious",
                   "coords": [
                         -79.936605,
@@ -135819,7 +135819,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke's Chapel",
-                  "text": "Die St. Luke's Chapel ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die St. Luke's Chapel in Charleston wurde 1825 erbaut.",
                   "category": "religious",
                   "coords": [
                         -79.947597,
@@ -135828,7 +135828,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "Die Brith Sholom Beth Israel Synagogue ist eine Kultstätte in Charleston (South Carolina).",
+                  "text": "Die Brith Sholom Beth Israel Synagogue in Charleston wurde 1948 erbaut.",
                   "category": "religious",
                   "coords": [
                         -79.945731,
@@ -135855,7 +135855,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Preservation Society of Charleston",
-                  "text": "Die Preservation Society of Charleston ist eine Sehenswürdigkeit in Charleston (South Carolina).",
+                  "text": "Die Preservation Society of Charleston wurde 1920 gegründet.",
                   "category": "landmark",
                   "coords": [
                         -79.933012,
@@ -135891,7 +135891,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Cooper River Bridge Pillar",
-                  "text": "Der Old Cooper River Bridge Pillar ist eine Sehenswürdigkeit in Charleston (South Carolina).",
+                  "text": "Der Old Cooper River Bridge Pillar in Charleston wurde 2007 eingeweiht.",
                   "category": "landmark",
                   "coords": [
                         -79.935297,
@@ -135918,7 +135918,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Marion Square",
-                  "text": "Der Marion Square ist ein Park in Charleston (South Carolina).",
+                  "text": "Der Marion Square in Charleston wurde 1882 angelegt.",
                   "category": "park",
                   "coords": [
                         -79.935664,
@@ -135936,7 +135936,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brittlebank Park",
-                  "text": "Der Brittlebank Park ist ein Park in Charleston (South Carolina).",
+                  "text": "Der Brittlebank Park in Charleston wurde 1975 angelegt.",
                   "category": "park",
                   "coords": [
                         -79.960417,
@@ -136082,7 +136082,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "A Gibbes Museum of Art egy művészeti múzeum Charleston (South Carolina) városában.",
+                  "text": "1905-ben nyílt meg, Frank Pierce Milburn tervezte, a Gibbes Művészeti Múzeum Charlestonban, Dél-Karolinában.",
                   "category": "museum",
                   "coords": [
                         -79.931728,
@@ -136091,7 +136091,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Exchange & Provost Dungeon",
-                  "text": "Az Old Exchange & Provost Dungeon egy történelmi múzeum Charleston (South Carolina) városában.",
+                  "text": "1767-ben épült, a gyarmati tőzsde és pincebörtön Charlestonban, Dél-Karolinában.",
                   "category": "museum",
                   "coords": [
                         -79.926842,
@@ -136127,7 +136127,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Halsey Institute of Contemporary Art",
-                  "text": "A Halsey Institute of Contemporary Art egy művészeti galéria Charleston (South Carolina) városában.",
+                  "text": "A Halsey Institute of Contemporary Art Charlestonban 2009-ben alapították.",
                   "category": "museum",
                   "coords": [
                         -79.937371,
@@ -136145,7 +136145,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Confederate Defenders of Charleston",
-                  "text": "A Confederate Defenders of Charleston egy történelmi emlékmű Charleston (South Carolina) városában.",
+                  "text": "1932-ben avatták, Delano & Aldrich tervezte, ez az emlékmű Charlestonban a konföderációs védőket tiszteli.",
                   "category": "historical",
                   "coords": [
                         -79.929084,
@@ -136154,7 +136154,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sottile Theater",
-                  "text": "A Sottile Theater egy színház Charleston (South Carolina) városában.",
+                  "text": "1927-ben nyílt meg, C.K. Howell tervezte, a Sottile Színház Charlestonban.",
                   "category": "cultural",
                   "coords": [
                         -79.935892,
@@ -136163,7 +136163,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dock Street Theatre",
-                  "text": "A Dock Street Theatre egy történelmi színház Charleston (South Carolina) városában.",
+                  "text": "Eredetileg 1809-ben épült, Douglas D. Ellington tervezte át, a Dock Street Színház Charlestonban.",
                   "category": "cultural",
                   "coords": [
                         -79.929614,
@@ -136172,7 +136172,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "A Memminger Auditorium egy színház Charleston (South Carolina) városában.",
+                  "text": "1939-ben nyílt meg, Simons és Lapham tervezte, a Memminger Auditorium Charlestonban.",
                   "category": "cultural",
                   "coords": [
                         -79.936438,
@@ -136190,7 +136190,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "A First (Scots) Presbyterian Church egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A First (Scots) Presbyterian Church Charlestonban 1814-ben épült.",
                   "category": "religious",
                   "coords": [
                         -79.931369,
@@ -136208,7 +136208,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Emma Abbott Memorial Chapel",
-                  "text": "Az Emma Abbott Memorial Chapel egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "1892-ben épült, S.H. Foulk tervezte, az Emma Abbott Emlékkápolna Charlestonban.",
                   "category": "religious",
                   "coords": [
                         -79.937828,
@@ -136217,7 +136217,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "A Cathedral of St. John the Baptist egy templom Charleston (South Carolina) városában.",
+                  "text": "1890-ben készült el, Patrick C. Keely tervezte, a Keresztelő Szent János-székesegyház Charlestonban.",
                   "category": "religious",
                   "coords": [
                         -79.934469,
@@ -136244,7 +136244,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "A The St. Luke and St. Paul Anglican Church egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A Szent Lukács és Szent Pál székesegyház Charlestonban 1811-ben épült.",
                   "category": "religious",
                   "coords": [
                         -79.940276,
@@ -136253,7 +136253,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "A Central Baptist Church egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A Central Baptist Church 1893-ban épült, John Pearson Hutchinson Sr. tervezte, és szerepel az NRHP-n.",
                   "category": "religious",
                   "coords": [
                         -79.940737,
@@ -136262,7 +136262,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morris Brown AME Church",
-                  "text": "A Morris Brown AME Church egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A Morris Brown AME templom Charlestonban 1866-ban épült.",
                   "category": "religious",
                   "coords": [
                         -79.940231,
@@ -136271,7 +136271,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "A Bethel United Methodist Church egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "1853-ban épült, E. Curtis tervezte, a Bethel Egyesült Metodista Templom Charlestonban.",
                   "category": "religious",
                   "coords": [
                         -79.94109,
@@ -136298,7 +136298,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "A Second Presbyterian Church egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A Second Presbyterian Church Charlestonban 1811-ben épült.",
                   "category": "religious",
                   "coords": [
                         -79.934007,
@@ -136325,7 +136325,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Chapel",
-                  "text": "A St. John's Chapel egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A St. John's Chapel Charlestonban 1839-ben épült.",
                   "category": "religious",
                   "coords": [
                         -79.936605,
@@ -136334,7 +136334,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke's Chapel",
-                  "text": "A St. Luke's Chapel egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A St. Luke's Chapel Charlestonban 1825-ben épült.",
                   "category": "religious",
                   "coords": [
                         -79.947597,
@@ -136343,7 +136343,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "A Brith Sholom Beth Israel Synagogue egy istentiszteleti hely Charleston (South Carolina) városában.",
+                  "text": "A Brith Sholom Beth Israel zsinagóga Charlestonban 1948-ban épült.",
                   "category": "religious",
                   "coords": [
                         -79.945731,
@@ -136370,7 +136370,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Preservation Society of Charleston",
-                  "text": "A Preservation Society of Charleston egy látványosság Charleston (South Carolina) városában.",
+                  "text": "A Preservation Society of Charleston 1920-ban alapították.",
                   "category": "landmark",
                   "coords": [
                         -79.933012,
@@ -136406,7 +136406,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Cooper River Bridge Pillar",
-                  "text": "Az Old Cooper River Bridge Pillar egy látványosság Charleston (South Carolina) városában.",
+                  "text": "A régi Cooper River Bridge Pillar Charlestonban 2007-ben avatták fel.",
                   "category": "landmark",
                   "coords": [
                         -79.935297,
@@ -136433,7 +136433,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Marion Square",
-                  "text": "A Marion Square egy park Charleston (South Carolina) városában.",
+                  "text": "A Marion Square Charlestonban 1882-ben létesült.",
                   "category": "park",
                   "coords": [
                         -79.935664,
@@ -136451,7 +136451,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brittlebank Park",
-                  "text": "A Brittlebank Park egy park Charleston (South Carolina) városában.",
+                  "text": "A Brittlebank Park Charlestonban 1975-ben létesült.",
                   "category": "park",
                   "coords": [
                         -79.960417,
@@ -136597,7 +136597,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "Gibbes Museum of Art este un muzeu de artă situat în Charleston (South Carolina).",
+                  "text": "Deschis în 1905 și proiectat de Frank Pierce Milburn, Muzeul de Artă Gibbes din Charleston, Carolina de Sud.",
                   "category": "museum",
                   "coords": [
                         -79.931728,
@@ -136606,7 +136606,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Exchange & Provost Dungeon",
-                  "text": "Old Exchange & Provost Dungeon este un muzeu istoric situat în Charleston (South Carolina).",
+                  "text": "Construit în 1767, bursa și temnița colonială din Charleston, Carolina de Sud.",
                   "category": "museum",
                   "coords": [
                         -79.926842,
@@ -136642,7 +136642,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Halsey Institute of Contemporary Art",
-                  "text": "Halsey Institute of Contemporary Art este o galerie de artă situată în Charleston (South Carolina).",
+                  "text": "Institutul de Artă Contemporană Halsey din Charleston a fost fondat în 2009.",
                   "category": "museum",
                   "coords": [
                         -79.937371,
@@ -136660,7 +136660,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Confederate Defenders of Charleston",
-                  "text": "Confederate Defenders of Charleston este un monument istoric situat în Charleston (South Carolina).",
+                  "text": "Inaugurat în 1932 și proiectat de Delano & Aldrich, acest monument din Charleston onorează apărătorii confederați.",
                   "category": "historical",
                   "coords": [
                         -79.929084,
@@ -136669,7 +136669,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sottile Theater",
-                  "text": "Sottile Theater este un teatru situat în Charleston (South Carolina).",
+                  "text": "Deschis în 1927 și proiectat de C.K. Howell, Teatrul Sottile din Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.935892,
@@ -136678,7 +136678,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dock Street Theatre",
-                  "text": "Dock Street Theatre este un teatru istoric situat în Charleston (South Carolina).",
+                  "text": "Construit inițial în 1809 și reproiectat de Douglas D. Ellington, Teatrul Dock Street din Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.929614,
@@ -136687,7 +136687,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "Memminger Auditorium este un teatru situat în Charleston (South Carolina).",
+                  "text": "Deschis în 1939 și proiectat de Simons și Lapham, Auditoriumul Memminger din Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.936438,
@@ -136705,7 +136705,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "First (Scots) Presbyterian Church este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Biserica First (Scots) Presbyterian din Charleston a fost construită în 1814.",
                   "category": "religious",
                   "coords": [
                         -79.931369,
@@ -136723,7 +136723,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Emma Abbott Memorial Chapel",
-                  "text": "Emma Abbott Memorial Chapel este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Construită în 1892 și proiectată de S.H. Foulk, Capela Memorială Emma Abbott din Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.937828,
@@ -136732,7 +136732,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "Cathedral of St. John the Baptist este o biserică în Charleston (South Carolina).",
+                  "text": "Finalizată în 1890 și proiectată de Patrick C. Keely, Catedrala Sfântul Ioan Botezătorul din Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.934469,
@@ -136759,7 +136759,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "The St. Luke and St. Paul Anglican Church este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Catedrala Sfântul Luca și Sfântul Pavel din Charleston a fost construită în 1811.",
                   "category": "religious",
                   "coords": [
                         -79.940276,
@@ -136768,7 +136768,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "Central Baptist Church este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Biserica Central Baptist, construită în 1893, proiectată de John Pearson Hutchinson Sr., înscrisă în NRHP.",
                   "category": "religious",
                   "coords": [
                         -79.940737,
@@ -136777,7 +136777,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morris Brown AME Church",
-                  "text": "Morris Brown AME Church este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Biserica AME Morris Brown din Charleston a fost construită în 1866.",
                   "category": "religious",
                   "coords": [
                         -79.940231,
@@ -136786,7 +136786,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "Bethel United Methodist Church este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Construită în 1853 și proiectată de E. Curtis, Biserica Metodistă Unită Bethel din Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.94109,
@@ -136813,7 +136813,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "Second Presbyterian Church este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Biserica Second Presbyterian din Charleston a fost construită în 1811.",
                   "category": "religious",
                   "coords": [
                         -79.934007,
@@ -136840,7 +136840,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Chapel",
-                  "text": "St. John's Chapel este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Capela St. John's din Charleston a fost construită în 1839.",
                   "category": "religious",
                   "coords": [
                         -79.936605,
@@ -136849,7 +136849,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke's Chapel",
-                  "text": "St. Luke's Chapel este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Capela St. Luke's din Charleston a fost construită în 1825.",
                   "category": "religious",
                   "coords": [
                         -79.947597,
@@ -136858,7 +136858,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "Brith Sholom Beth Israel Synagogue este un lăcaș de cult în Charleston (South Carolina).",
+                  "text": "Sinagoga Brith Sholom Beth Israel din Charleston a fost construită în 1948.",
                   "category": "religious",
                   "coords": [
                         -79.945731,
@@ -136885,7 +136885,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Preservation Society of Charleston",
-                  "text": "Preservation Society of Charleston este o atracție în Charleston (South Carolina).",
+                  "text": "Societatea pentru Conservare din Charleston a fost fondată în 1920.",
                   "category": "landmark",
                   "coords": [
                         -79.933012,
@@ -136921,7 +136921,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Cooper River Bridge Pillar",
-                  "text": "Old Cooper River Bridge Pillar este o atracție situată în Charleston (South Carolina).",
+                  "text": "Stâlpul vechiului pod Cooper River din Charleston a fost inaugurat în 2007.",
                   "category": "landmark",
                   "coords": [
                         -79.935297,
@@ -136948,7 +136948,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Marion Square",
-                  "text": "Marion Square este un parc situat în Charleston (South Carolina).",
+                  "text": "Piața Marion din Charleston a fost amenajată în 1882.",
                   "category": "park",
                   "coords": [
                         -79.935664,
@@ -136966,7 +136966,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brittlebank Park",
-                  "text": "Brittlebank Park este un parc situat în Charleston (South Carolina).",
+                  "text": "Parcul Brittlebank din Charleston a fost amenajat în 1975.",
                   "category": "park",
                   "coords": [
                         -79.960417,
@@ -137112,7 +137112,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "The Gibbes Museum of Art is an art museum located in Charleston (South Carolina).",
+                  "text": "Opened in 1905 and designed by Frank Pierce Milburn, the Gibbes Museum of Art in Charleston, South Carolina.",
                   "category": "museum",
                   "coords": [
                         -79.931728,
@@ -137121,7 +137121,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Exchange & Provost Dungeon",
-                  "text": "Old Exchange & Provost Dungeon is a historic museum located in Charleston (South Carolina).",
+                  "text": "Built in 1767, the colonial exchange and dungeon in Charleston, South Carolina.",
                   "category": "museum",
                   "coords": [
                         -79.926842,
@@ -137157,7 +137157,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Halsey Institute of Contemporary Art",
-                  "text": "The Halsey Institute of Contemporary Art is an art gallery located in Charleston (South Carolina).",
+                  "text": "The Halsey Institute of Contemporary Art in Charleston was founded in 2009.",
                   "category": "museum",
                   "coords": [
                         -79.937371,
@@ -137175,7 +137175,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Confederate Defenders of Charleston",
-                  "text": "Confederate Defenders of Charleston is a historical monument located in Charleston (South Carolina).",
+                  "text": "Dedicated in 1932 and designed by Delano & Aldrich, this monument in Charleston honors Confederate defenders.",
                   "category": "historical",
                   "coords": [
                         -79.929084,
@@ -137184,7 +137184,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Sottile Theater",
-                  "text": "The Sottile Theater is a theatre located in Charleston (South Carolina).",
+                  "text": "Opened in 1927 and designed by C.K. Howell, the Sottile Theater in Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.935892,
@@ -137193,7 +137193,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dock Street Theatre",
-                  "text": "The Dock Street Theatre is a historic theatre located in Charleston (South Carolina).",
+                  "text": "Originally built in 1809 and redesigned by Douglas D. Ellington, the Dock Street Theatre in Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.929614,
@@ -137202,7 +137202,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "Memminger Auditorium is a theatre located in Charleston (South Carolina).",
+                  "text": "Opened in 1939 and designed by Simons and Lapham, the Memminger Auditorium in Charleston.",
                   "category": "cultural",
                   "coords": [
                         -79.936438,
@@ -137220,7 +137220,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "First (Scots) Presbyterian Church is a place of worship in Charleston (South Carolina).",
+                  "text": "First (Scots) Presbyterian Church in Charleston was built in 1814.",
                   "category": "religious",
                   "coords": [
                         -79.931369,
@@ -137238,7 +137238,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Emma Abbott Memorial Chapel",
-                  "text": "Emma Abbott Memorial Chapel is a place of worship in Charleston (South Carolina).",
+                  "text": "Built in 1892 and designed by S.H. Foulk, the Emma Abbott Memorial Chapel in Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.937828,
@@ -137247,7 +137247,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "Cathedral of St. John the Baptist is a church in Charleston (South Carolina).",
+                  "text": "Completed in 1890 and designed by Patrick C. Keely, the Cathedral of St. John the Baptist in Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.934469,
@@ -137274,7 +137274,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "The St. Luke and St. Paul Anglican Church is a place of worship in Charleston (South Carolina).",
+                  "text": "The Cathedral of St. Luke and St. Paul in Charleston was built in 1811.",
                   "category": "religious",
                   "coords": [
                         -79.940276,
@@ -137283,7 +137283,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "Central Baptist Church is a place of worship in Charleston (South Carolina).",
+                  "text": "Central Baptist Church, built in 1893, designed by John Pearson Hutchinson Sr., listed on the NRHP.",
                   "category": "religious",
                   "coords": [
                         -79.940737,
@@ -137292,7 +137292,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Morris Brown AME Church",
-                  "text": "Morris Brown AME Church is a place of worship in Charleston (South Carolina).",
+                  "text": "Morris Brown AME Church in Charleston was built in 1866.",
                   "category": "religious",
                   "coords": [
                         -79.940231,
@@ -137301,7 +137301,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "Bethel United Methodist Church is a place of worship in Charleston (South Carolina).",
+                  "text": "Built in 1853 and designed by E. Curtis, the Bethel United Methodist Church in Charleston.",
                   "category": "religious",
                   "coords": [
                         -79.94109,
@@ -137328,7 +137328,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "Second Presbyterian Church is a place of worship in Charleston (South Carolina).",
+                  "text": "Second Presbyterian Church in Charleston was built in 1811.",
                   "category": "religious",
                   "coords": [
                         -79.934007,
@@ -137355,7 +137355,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. John's Chapel",
-                  "text": "St. John's Chapel is a place of worship in Charleston (South Carolina).",
+                  "text": "St. John's Chapel in Charleston was built in 1839.",
                   "category": "religious",
                   "coords": [
                         -79.936605,
@@ -137364,7 +137364,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Luke's Chapel",
-                  "text": "St. Luke's Chapel is a place of worship in Charleston (South Carolina).",
+                  "text": "St. Luke's Chapel in Charleston was built in 1825.",
                   "category": "religious",
                   "coords": [
                         -79.947597,
@@ -137373,7 +137373,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "Brith Sholom Beth Israel Synagogue is a place of worship in Charleston (South Carolina).",
+                  "text": "Brith Sholom Beth Israel Synagogue in Charleston was built in 1948.",
                   "category": "religious",
                   "coords": [
                         -79.945731,
@@ -137400,7 +137400,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Preservation Society of Charleston",
-                  "text": "Preservation Society of Charleston is an attraction located in Charleston (South Carolina).",
+                  "text": "The Preservation Society of Charleston was founded in 1920.",
                   "category": "landmark",
                   "coords": [
                         -79.933012,
@@ -137436,7 +137436,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Cooper River Bridge Pillar",
-                  "text": "The Old Cooper River Bridge Pillar is an attraction situated in Charleston (South Carolina).",
+                  "text": "The Old Cooper River Bridge Pillar in Charleston was dedicated in 2007.",
                   "category": "landmark",
                   "coords": [
                         -79.935297,
@@ -137463,7 +137463,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Marion Square",
-                  "text": "Marion Square is a park situated in Charleston (South Carolina).",
+                  "text": "Marion Square in Charleston was established in 1882.",
                   "category": "park",
                   "coords": [
                         -79.935664,
@@ -137481,7 +137481,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Brittlebank Park",
-                  "text": "Brittlebank Park is a park situated in Charleston (South Carolina).",
+                  "text": "Brittlebank Park in Charleston was established in 1975.",
                   "category": "park",
                   "coords": [
                         -79.960417,
@@ -139544,7 +139544,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Nicholas Orthodox Church",
-                  "text": "Eine historische russisch-orthodoxe Kirche in Juneau.",
+                  "text": "Erbaut 1894, diese russisch-orthodoxe Kirche ist ein historisches Wahrzeichen in Juneau, Alaska.",
                   "category": "religious",
                   "coords": [
                         -134.408943,
@@ -139717,7 +139717,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Nicholas Orthodox Church",
-                  "text": "Egy történelmi orosz ortodox templom Juneauban.",
+                  "text": "1894-ben épült, ez az orosz ortodox templom történelmi nevezetesség Juneau-ban, Alaszkában.",
                   "category": "religious",
                   "coords": [
                         -134.408943,
@@ -139890,7 +139890,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Nicholas Orthodox Church",
-                  "text": "O biserică ortodoxă rusă istorică în Juneau.",
+                  "text": "Construită în 1894, această biserică ortodoxă rusă este un reper istoric în Juneau, Alaska.",
                   "category": "religious",
                   "coords": [
                         -134.408943,
@@ -140063,7 +140063,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Nicholas Orthodox Church",
-                  "text": "A historic Russian Orthodox church in Juneau.",
+                  "text": "Built in 1894, this Russian Orthodox church is a historic landmark in Juneau, Alaska.",
                   "category": "religious",
                   "coords": [
                         -134.408943,
@@ -141429,7 +141429,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Severn River Bridge",
-                  "text": "Eine Brücke, die Annapolis mit der Eastern Shore verbindet.",
+                  "text": "Die Severn River Bridge in Annapolis wurde 1953 erbaut.",
                   "category": "landmark",
                   "coords": [
                         -76.503988,
@@ -141710,7 +141710,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Severn River Bridge",
-                  "text": "Egy híd, amely Annapolist a Keleti parttal köti össze.",
+                  "text": "A Severn River Bridge Annapolisban 1953-ban épült.",
                   "category": "landmark",
                   "coords": [
                         -76.503988,
@@ -141991,7 +141991,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Severn River Bridge",
-                  "text": "Un pod care leagă Annapolis de Țărmul de Est.",
+                  "text": "Podul Severn River din Annapolis a fost construit în 1953.",
                   "category": "landmark",
                   "coords": [
                         -76.503988,
@@ -142272,7 +142272,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Severn River Bridge",
-                  "text": "A bridge connecting Annapolis to the Eastern Shore.",
+                  "text": "The Severn River Bridge in Annapolis was built in 1953.",
                   "category": "landmark",
                   "coords": [
                         -76.503988,
@@ -142601,7 +142601,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Egg Performing Arts Center",
-                  "text": "The Egg ist ein Veranstaltungszentrum für darstellende Künste mit einem einzigartigen eiförmigen Design in Albany.",
+                  "text": "Das Egg Performing Arts Center in Albany wurde 1978 eröffnet.",
                   "category": "cultural",
                   "coords": [
                         -73.75839,
@@ -142673,7 +142673,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Townsend Park",
-                  "text": "Der Townsend Park ist ein Park in Albany.",
+                  "text": "Der Townsend Park in Albany wurde 1833 angelegt.",
                   "category": "park",
                   "coords": [
                         -73.764838,
@@ -142927,7 +142927,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Egg Performing Arts Center",
-                  "text": "The Egg egy előadóművészeti központ egyedi tojás alakú formával Albanyban.",
+                  "text": "A The Egg Performing Arts Center Albanyban 1978-ban nyílt meg.",
                   "category": "cultural",
                   "coords": [
                         -73.75839,
@@ -142999,7 +142999,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Townsend Park",
-                  "text": "A Townsend Park egy park Albanyban.",
+                  "text": "A Townsend Park Albanyban 1833-ban létesült.",
                   "category": "park",
                   "coords": [
                         -73.764838,
@@ -143253,7 +143253,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Egg Performing Arts Center",
-                  "text": "The Egg este un centru de arte spectacolului cu un design unic în formă de ou în Albany.",
+                  "text": "Centrul de Arte Spectacolului The Egg din Albany a fost deschis în 1978.",
                   "category": "cultural",
                   "coords": [
                         -73.75839,
@@ -143325,7 +143325,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Townsend Park",
-                  "text": "Parcul Townsend este un parc în Albany.",
+                  "text": "Parcul Townsend din Albany a fost amenajat în 1833.",
                   "category": "park",
                   "coords": [
                         -73.764838,
@@ -143579,7 +143579,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Egg Performing Arts Center",
-                  "text": "The Egg is a performing arts center with a unique egg-shaped design in Albany.",
+                  "text": "The Egg Performing Arts Center in Albany opened in 1978.",
                   "category": "cultural",
                   "coords": [
                         -73.75839,
@@ -143651,7 +143651,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Townsend Park",
-                  "text": "Townsend Park is a park in Albany.",
+                  "text": "Townsend Park in Albany was established in 1833.",
                   "category": "park",
                   "coords": [
                         -73.764838,
@@ -146666,7 +146666,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John Dickinson House",
-                  "text": "Das John Dickinson House in Dover ist das historische Haus des Gründervaters.",
+                  "text": "Erbaut 1740, das historische Haus von John Dickinson in Dover, Delaware.",
                   "category": "landmark",
                   "coords": [
                         -75.448483,
@@ -146884,7 +146884,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John Dickinson House",
-                  "text": "A doveri John Dickinson House az alapító apa történelmi otthona.",
+                  "text": "1740-ben épült, John Dickinson történelmi otthona Doverben, Delaware-ben.",
                   "category": "landmark",
                   "coords": [
                         -75.448483,
@@ -147102,7 +147102,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John Dickinson House",
-                  "text": "Casa John Dickinson din Dover este casa istorică a părintelui fondator.",
+                  "text": "Construită în 1740, casa istorică a lui John Dickinson din Dover, Delaware.",
                   "category": "landmark",
                   "coords": [
                         -75.448483,
@@ -147320,7 +147320,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "John Dickinson House",
-                  "text": "John Dickinson House in Dover is the historic home of the founding father.",
+                  "text": "Built in 1740, the historic home of John Dickinson in Dover, Delaware.",
                   "category": "landmark",
                   "coords": [
                         -75.448483,
@@ -152409,7 +152409,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wyoming State Capitol",
-                  "text": "Das Wyoming State Capitol in Cheyenne ist der Sitz der Regierung von Wyoming.",
+                  "text": "Das Wyoming State Capitol in Cheyenne ist im National Register of Historic Places eingetragen.",
                   "category": "historical",
                   "coords": [
                         -104.820229,
@@ -152436,7 +152436,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of Saint Mary",
-                  "text": "Die Cathedral of Saint Mary in Cheyenne ist die Mutterkirche der Diözese Cheyenne.",
+                  "text": "Die Cathedral of Saint Mary in Cheyenne ist im National Register of Historic Places eingetragen.",
                   "category": "religious",
                   "coords": [
                         -104.817754,
@@ -152445,7 +152445,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Marks",
-                  "text": "Die Saint Marks Kirche in Cheyenne ist eine historische episkopale Kirche.",
+                  "text": "Die St. Mark's Episcopal Church in Cheyenne ist im National Register of Historic Places eingetragen.",
                   "category": "religious",
                   "coords": [
                         -104.816423,
@@ -152708,7 +152708,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wyoming State Capitol",
-                  "text": "A Wyoming State Capitol Cheyenne-ben Wyoming állam kormányzati székhelye.",
+                  "text": "A Wyoming State Capitol Cheyenne-ben a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "historical",
                   "coords": [
                         -104.820229,
@@ -152735,7 +152735,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of Saint Mary",
-                  "text": "A Szent Mária-székesegyház Cheyenne-ben a Cheyenne-i Egyházmegye anyatemploma.",
+                  "text": "A Szent Mária székesegyház Cheyenne-ben a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "religious",
                   "coords": [
                         -104.817754,
@@ -152744,7 +152744,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Marks",
-                  "text": "A Saint Marks templom Cheyenne-ben egy történelmi episzkopális templom.",
+                  "text": "A St. Mark's Episcopal Church Cheyenne-ben a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "religious",
                   "coords": [
                         -104.816423,
@@ -153007,7 +153007,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wyoming State Capitol",
-                  "text": "Capitoliul Statului Wyoming din Cheyenne este sediul guvernului statului Wyoming.",
+                  "text": "Capitolul statului Wyoming din Cheyenne este înregistrat în Registrul Național al Locurilor Istorice.",
                   "category": "historical",
                   "coords": [
                         -104.820229,
@@ -153034,7 +153034,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of Saint Mary",
-                  "text": "Catedrala Sfânta Maria din Cheyenne este biserica-mamă a Diecezei de Cheyenne.",
+                  "text": "Catedrala Sfânta Maria din Cheyenne este înregistrată în Registrul Național al Locurilor Istorice.",
                   "category": "religious",
                   "coords": [
                         -104.817754,
@@ -153043,7 +153043,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Marks",
-                  "text": "Biserica Saint Marks din Cheyenne este o biserică episcopală istorică.",
+                  "text": "Biserica Episcopală St. Mark's din Cheyenne este înregistrată în Registrul Național al Locurilor Istorice.",
                   "category": "religious",
                   "coords": [
                         -104.816423,
@@ -153306,7 +153306,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Wyoming State Capitol",
-                  "text": "The Wyoming State Capitol in Cheyenne is the seat of the government of Wyoming.",
+                  "text": "The Wyoming State Capitol in Cheyenne is listed on the National Register of Historic Places.",
                   "category": "historical",
                   "coords": [
                         -104.820229,
@@ -153333,7 +153333,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of Saint Mary",
-                  "text": "The Cathedral of Saint Mary in Cheyenne is the mother church of the Diocese of Cheyenne.",
+                  "text": "Cathedral of Saint Mary in Cheyenne is listed on the National Register of Historic Places.",
                   "category": "religious",
                   "coords": [
                         -104.817754,
@@ -153342,7 +153342,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Marks",
-                  "text": "Saint Marks in Cheyenne is a historic Episcopal church.",
+                  "text": "St. Mark's Episcopal Church in Cheyenne is listed on the National Register of Historic Places.",
                   "category": "religious",
                   "coords": [
                         -104.816423,
@@ -153526,7 +153526,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Camp Hancock State Historic Site",
-                  "text": "Die Stätte bewahrt ein ehemaliges Militärlager aus den 1870er Jahren.",
+                  "text": "Die Camp Hancock State Historic Site in Bismarck ist im National Register of Historic Places eingetragen.",
                   "category": "landmark",
                   "coords": [
                         -100.790411,
@@ -153589,7 +153589,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Chief Lookings Village",
-                  "text": "Eine archäologische Stätte eines Mandan-Dorfes.",
+                  "text": "Die Chief Looking's Village archäologische Stätte in Bismarck ist im National Register of Historic Places eingetragen.",
                   "category": "park",
                   "coords": [
                         -100.829209,
@@ -153717,7 +153717,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Camp Hancock State Historic Site",
-                  "text": "A helyszín egy 1870-es évekbeli katonai tábort őriz.",
+                  "text": "A Camp Hancock State Historic Site Bismarckban a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "landmark",
                   "coords": [
                         -100.790411,
@@ -153780,7 +153780,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Chief Lookings Village",
-                  "text": "Egy mandan falu régészeti lelőhelye.",
+                  "text": "A Chief Looking's Village régészeti lelőhely Bismarckban a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "park",
                   "coords": [
                         -100.829209,
@@ -153908,7 +153908,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Camp Hancock State Historic Site",
-                  "text": "Situl păstrează o fostă tabără militară din anii 1870.",
+                  "text": "Situl istoric de stat Camp Hancock din Bismarck este înregistrat în Registrul Național al Locurilor Istorice.",
                   "category": "landmark",
                   "coords": [
                         -100.790411,
@@ -153971,7 +153971,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Chief Lookings Village",
-                  "text": "Un sit arheologic al unui sat mandan.",
+                  "text": "Situl arheologic Chief Looking's Village din Bismarck este înregistrat în Registrul Național al Locurilor Istorice.",
                   "category": "park",
                   "coords": [
                         -100.829209,
@@ -154099,7 +154099,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Camp Hancock State Historic Site",
-                  "text": "It preserves a former military camp from the 1870s.",
+                  "text": "Camp Hancock State Historic Site in Bismarck is listed on the National Register of Historic Places.",
                   "category": "landmark",
                   "coords": [
                         -100.790411,
@@ -154162,7 +154162,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Chief Lookings Village",
-                  "text": "An archaeological site of a Mandan village.",
+                  "text": "Chief Looking's Village archaeological site in Bismarck is listed on the National Register of Historic Places.",
                   "category": "park",
                   "coords": [
                         -100.829209,
@@ -154808,7 +154808,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vachel Lindsay Home",
-                  "text": "Das Vachel Lindsay Home ist ein Museum in Springfield, Illinois, ehemaliges Wohnhaus des Dichters Vachel Lindsay.",
+                  "text": "Das Vachel Lindsay Home in Springfield ist das Geburtshaus des Dichters und wurde 1960 zum Museum.",
                   "category": "museum",
                   "coords": [
                         -89.64978,
@@ -154817,7 +154817,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Elijah Iles House",
-                  "text": "Das Elijah Iles House ist ein historisches Wohnhausmuseum in Springfield, Illinois.",
+                  "text": "Das Elijah Iles House, erbaut 1837, wurde von William Vigal entworfen und ist ein historisches Museum.",
                   "category": "museum",
                   "coords": [
                         -89.646318,
@@ -154835,7 +154835,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dana Thomas House",
-                  "text": "Das Dana Thomas House ist ein Museum in Springfield, Illinois, ein von Frank Lloyd Wright entworfenes Haus.",
+                  "text": "Das Dana-Thomas House, entworfen von Frank Lloyd Wright im Jahr 1902, ist ein berühmtes Prairie-Stil-Haus und heute Museum.",
                   "category": "museum",
                   "coords": [
                         -89.65137,
@@ -154871,7 +154871,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Washington Park",
-                  "text": "Der Washington Park ist ein historischer Park in Springfield, Illinois.",
+                  "text": "Angelegt 1901, dieser historische Park befindet sich in Springfield, Illinois.",
                   "category": "landmark",
                   "coords": [
                         -89.679378,
@@ -154889,7 +154889,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Capitol",
-                  "text": "Das Illinois State Capitol ist das Regierungsgebäude des Bundesstaates Illinois in Springfield.",
+                  "text": "Das Illinois State Capitol, erbaut 1888, wurde von Cochrane und Garnsey entworfen und ist Sitz der Landesregierung.",
                   "category": "landmark",
                   "coords": [
                         -89.654915,
@@ -154907,7 +154907,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carpenter Park",
-                  "text": "Der Carpenter Park ist ein Naturschutzgebiet in Springfield, Illinois.",
+                  "text": "Der Carpenter Park in Springfield wurde 1921 angelegt.",
                   "category": "natural",
                   "coords": [
                         -89.625487,
@@ -154916,7 +154916,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwind Park",
-                  "text": "Der Southwind Park ist ein barrierefreier Park mit Spielplätzen in Springfield, Illinois.",
+                  "text": "Der Southwind Park in Springfield wurde 2004 angelegt.",
                   "category": "park",
                   "coords": [
                         -89.655841,
@@ -154925,7 +154925,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Fairgrounds",
-                  "text": "Das Illinois State Fairgrounds ist das Gelände der jährlichen Illinois State Fair in Springfield.",
+                  "text": "Das Illinois State Fairgrounds in Springfield ist im National Register of Historic Places eingetragen.",
                   "category": "recreational",
                   "coords": [
                         -89.642229,
@@ -155134,7 +155134,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vachel Lindsay Home",
-                  "text": "A Vachel Lindsay Home egy múzeum Springfieldben, Illinoisban, a költő Vachel Lindsay egykori otthona.",
+                  "text": "A Vachel Lindsay Home Springfieldben a költő szülőháza, 1960-tól múzeum.",
                   "category": "museum",
                   "coords": [
                         -89.64978,
@@ -155143,7 +155143,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Elijah Iles House",
-                  "text": "Az Elijah Iles House egy történelmi háztörténeti múzeum Springfieldben, Illinoisban.",
+                  "text": "Az Elijah Iles-ház 1837-ben épült, William Vigal tervezte, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -89.646318,
@@ -155161,7 +155161,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dana Thomas House",
-                  "text": "A Dana Thomas House egy múzeum Springfieldben, Illinoisban, egy Frank Lloyd Wright által tervezett ház.",
+                  "text": "A Dana-Thomas-házat Frank Lloyd Wright tervezte 1902-ben, a Prairie stílus híres példája, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -89.65137,
@@ -155197,7 +155197,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Washington Park",
-                  "text": "A Washington Park egy történelmi park Springfieldben, Illinoisban.",
+                  "text": "1901-ben létesült, ez a történelmi park Springfieldben, Illinois államban.",
                   "category": "landmark",
                   "coords": [
                         -89.679378,
@@ -155215,7 +155215,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Capitol",
-                  "text": "Az Illinois State Capitol Illinois állam fővárosi épülete Springfieldben.",
+                  "text": "Az Illinois State Capitol 1888-ban épült, Cochrane és Garnsey tervezte, az állami kormányzat székhelye.",
                   "category": "landmark",
                   "coords": [
                         -89.654915,
@@ -155233,7 +155233,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carpenter Park",
-                  "text": "A Carpenter Park egy természetvédelmi terület Springfieldben, Illinoisban.",
+                  "text": "A Carpenter Park Springfieldben 1921-ben létesült.",
                   "category": "natural",
                   "coords": [
                         -89.625487,
@@ -155242,7 +155242,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwind Park",
-                  "text": "A Southwind Park egy akadálymentesített park játszóterekkel Springfieldben, Illinoisban.",
+                  "text": "A Southwind Park Springfieldben 2004-ben létesült.",
                   "category": "park",
                   "coords": [
                         -89.655841,
@@ -155251,7 +155251,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Fairgrounds",
-                  "text": "Az Illinois State Fairgrounds az éves Illinois State Fair helyszíne Springfieldben.",
+                  "text": "Az Illinois State Fairgrounds Springfieldben a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "recreational",
                   "coords": [
                         -89.642229,
@@ -155460,7 +155460,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vachel Lindsay Home",
-                  "text": "Casa Vachel Lindsay este un muzeu în Springfield, Illinois, fosta locuință a poetului Vachel Lindsay.",
+                  "text": "Casa Vachel Lindsay din Springfield este casa natală a poetului, muzeu din 1960.",
                   "category": "museum",
                   "coords": [
                         -89.64978,
@@ -155469,7 +155469,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Elijah Iles House",
-                  "text": "Casa Elijah Iles este un muzeu de casă istorică în Springfield, Illinois.",
+                  "text": "Casa Elijah Iles, construită în 1837, proiectată de William Vigal, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -89.646318,
@@ -155487,7 +155487,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dana Thomas House",
-                  "text": "Casa Dana Thomas este un muzeu în Springfield, Illinois, o casă proiectată de Frank Lloyd Wright.",
+                  "text": "Casa Dana-Thomas, proiectată de Frank Lloyd Wright în 1902, un celebru exemplu de stil Prairie, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -89.65137,
@@ -155523,7 +155523,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Washington Park",
-                  "text": "Parcul Washington este un parc istoric în Springfield, Illinois.",
+                  "text": "Înființat în 1901, acest parc istoric se află în Springfield, Illinois.",
                   "category": "landmark",
                   "coords": [
                         -89.679378,
@@ -155541,7 +155541,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Capitol",
-                  "text": "Capitoliul de Stat Illinois este clădirea guvernului statului Illinois în Springfield.",
+                  "text": "Capitoliul de stat Illinois, construit în 1888, proiectat de Cochrane și Garnsey, sediul guvernului statului.",
                   "category": "landmark",
                   "coords": [
                         -89.654915,
@@ -155559,7 +155559,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carpenter Park",
-                  "text": "Parcul Carpenter este o rezervație naturală în Springfield, Illinois.",
+                  "text": "Parcul Carpenter din Springfield a fost amenajat în 1921.",
                   "category": "natural",
                   "coords": [
                         -89.625487,
@@ -155568,7 +155568,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwind Park",
-                  "text": "Parcul Southwind este un parc accesibil cu locuri de joacă în Springfield, Illinois.",
+                  "text": "Parcul Southwind din Springfield a fost amenajat în 2004.",
                   "category": "park",
                   "coords": [
                         -89.655841,
@@ -155577,7 +155577,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Fairgrounds",
-                  "text": "Terenul Târgului de Stat Illinois este locul unde se desfășoară anual Târgul de Stat Illinois în Springfield.",
+                  "text": "Terenul Târgului de Stat Illinois din Springfield este înregistrat în Registrul Național al Locurilor Istorice.",
                   "category": "recreational",
                   "coords": [
                         -89.642229,
@@ -155786,7 +155786,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vachel Lindsay Home",
-                  "text": "The Vachel Lindsay Home is a museum in Springfield, Illinois, the former home of poet Vachel Lindsay.",
+                  "text": "The Vachel Lindsay Home in Springfield is the poet's birthplace, a museum since 1960.",
                   "category": "museum",
                   "coords": [
                         -89.64978,
@@ -155795,7 +155795,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Elijah Iles House",
-                  "text": "The Elijah Iles House is a historic house museum in Springfield, Illinois.",
+                  "text": "Elijah Iles House, built in 1837, designed by William Vigal, now a museum.",
                   "category": "museum",
                   "coords": [
                         -89.646318,
@@ -155813,7 +155813,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Dana Thomas House",
-                  "text": "The Dana Thomas House is a museum in Springfield, Illinois, a Frank Lloyd Wright-designed house.",
+                  "text": "Dana–Thomas House, designed by Frank Lloyd Wright in 1902, a renowned Prairie-style house, now a museum.",
                   "category": "museum",
                   "coords": [
                         -89.65137,
@@ -155849,7 +155849,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Washington Park",
-                  "text": "Washington Park is a historic park in Springfield, Illinois.",
+                  "text": "Established in 1901, this historic park is in Springfield, Illinois.",
                   "category": "landmark",
                   "coords": [
                         -89.679378,
@@ -155867,7 +155867,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Capitol",
-                  "text": "The Illinois State Capitol is the state capitol building in Springfield, Illinois.",
+                  "text": "Illinois State Capitol, built in 1888, designed by Cochrane and Garnsey, seat of state government.",
                   "category": "landmark",
                   "coords": [
                         -89.654915,
@@ -155885,7 +155885,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Carpenter Park",
-                  "text": "Carpenter Park is a nature reserve in Springfield, Illinois.",
+                  "text": "Carpenter Park in Springfield was established in 1921.",
                   "category": "natural",
                   "coords": [
                         -89.625487,
@@ -155894,7 +155894,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Southwind Park",
-                  "text": "Southwind Park is an accessible park with playgrounds in Springfield, Illinois.",
+                  "text": "Southwind Park in Springfield was established in 2004.",
                   "category": "park",
                   "coords": [
                         -89.655841,
@@ -155903,7 +155903,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Illinois State Fairgrounds",
-                  "text": "The Illinois State Fairgrounds is the site of the annual Illinois State Fair in Springfield.",
+                  "text": "The Illinois State Fairgrounds in Springfield is listed on the National Register of Historic Places.",
                   "category": "recreational",
                   "coords": [
                         -89.642229,
@@ -157415,7 +157415,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Michigan State Capitol",
-                  "text": "Das historische Kapitolgebäude von Michigan in Lansing.",
+                  "text": "Das Michigan State Capitol in Lansing wurde 1872 fertiggestellt.",
                   "category": "landmark",
                   "coords": [
                         -84.555461,
@@ -157759,7 +157759,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Michigan State Capitol",
-                  "text": "Michigan történelmi kapitóliuma Lansingben.",
+                  "text": "A Michigan State Capitol Lansingban 1872-ben készült el.",
                   "category": "landmark",
                   "coords": [
                         -84.555461,
@@ -158103,7 +158103,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Michigan State Capitol",
-                  "text": "Capitoliul istoric al statului Michigan din Lansing.",
+                  "text": "Capitolul statului Michigan din Lansing a fost finalizat în 1872.",
                   "category": "landmark",
                   "coords": [
                         -84.555461,
@@ -158447,7 +158447,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Michigan State Capitol",
-                  "text": "The historic capitol building of Michigan in Lansing.",
+                  "text": "The Michigan State Capitol in Lansing was completed in 1872.",
                   "category": "landmark",
                   "coords": [
                         -84.555461,
@@ -160020,7 +160020,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Florida Historic Capitol Museum",
-                  "text": "Das Florida Historic Capitol Museum ist das ehemalige State Capitol-Gebäude, heute ein Museum in Tallahassee.",
+                  "text": "Das Florida Historic Capitol Museum in Tallahassee wurde 1845 erbaut.",
                   "category": "museum",
                   "coords": [
                         -84.281349,
@@ -160038,7 +160038,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Grove Museum",
-                  "text": "Das Grove Museum ist ein historisches Plantagenhaus und Museum in Tallahassee.",
+                  "text": "Das Grove Museum in Tallahassee ist ein historisches Plantagenhaus im National Register of Historic Places.",
                   "category": "museum",
                   "coords": [
                         -84.282019,
@@ -160346,7 +160346,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Florida Historic Capitol Museum",
-                  "text": "A Florida Historic Capitol Museum az egykori állami törvényhozási épület, ma múzeum Tallahassee-ben.",
+                  "text": "A Florida Historic Capitol Museum Tallahassee-ban 1845-ben épült.",
                   "category": "museum",
                   "coords": [
                         -84.281349,
@@ -160364,7 +160364,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Grove Museum",
-                  "text": "A Grove Museum egy történelmi ültetvényház és múzeum Tallahassee-ben.",
+                  "text": "A Grove Museum Tallahassee-ban egy történelmi ültetvényház a Nemzeti Történelmi Helyek Jegyzékében.",
                   "category": "museum",
                   "coords": [
                         -84.282019,
@@ -160672,7 +160672,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Florida Historic Capitol Museum",
-                  "text": "Florida Historic Capitol Museum este fostul clădire a capitoliului de stat, acum muzeu în Tallahassee.",
+                  "text": "Muzeul Capitoliului Istoric Florida din Tallahassee a fost construit în 1845.",
                   "category": "museum",
                   "coords": [
                         -84.281349,
@@ -160690,7 +160690,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Grove Museum",
-                  "text": "The Grove Museum este o casă istorică de plantație și muzeu în Tallahassee.",
+                  "text": "Muzeul Grove din Tallahassee este o casă istorică de plantație înregistrată în Registrul Național al Locurilor Istorice.",
                   "category": "museum",
                   "coords": [
                         -84.282019,
@@ -160998,7 +160998,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Florida Historic Capitol Museum",
-                  "text": "The Florida Historic Capitol Museum is the former state capitol building, now a museum in Tallahassee.",
+                  "text": "The Florida Historic Capitol Museum in Tallahassee was built in 1845.",
                   "category": "museum",
                   "coords": [
                         -84.281349,
@@ -161016,7 +161016,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "The Grove Museum",
-                  "text": "The Grove Museum is a historic plantation house and museum in Tallahassee.",
+                  "text": "The Grove Museum in Tallahassee is a historic plantation house listed on the National Register of Historic Places.",
                   "category": "museum",
                   "coords": [
                         -84.282019,
@@ -161669,7 +161669,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Criel Mound",
-                  "text": "Criel Mound ist ein prähistorischer indianischer Grabhügel in Charleston.",
+                  "text": "Der Criel Mound in South Charleston ist ein indianischer Grabhügel im National Register of Historic Places.",
                   "category": "historical",
                   "coords": [
                         -81.696764,
@@ -162004,7 +162004,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Criel Mound",
-                  "text": "Criel Mound egy történelem előtti indián temetkezési halom Charlestonban.",
+                  "text": "A Criel Mound South Charlestonban egy indián temetkezési halom a Nemzeti Történelmi Helyek Jegyzékében.",
                   "category": "historical",
                   "coords": [
                         -81.696764,
@@ -162339,7 +162339,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Criel Mound",
-                  "text": "Criel Mound este un mormânt preistoric nativ american în Charleston.",
+                  "text": "Movila Criel din South Charleston este un mormânt nativ american înregistrat în Registrul Național al Locurilor Istorice.",
                   "category": "historical",
                   "coords": [
                         -81.696764,
@@ -162674,7 +162674,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Criel Mound",
-                  "text": "Criel Mound is a prehistoric Native American burial mound in Charleston.",
+                  "text": "Criel Mound in South Charleston is a Native American burial mound listed on the National Register of Historic Places.",
                   "category": "historical",
                   "coords": [
                         -81.696764,
@@ -164040,7 +164040,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Artesian Commons",
-                  "text": "Der Artesian Commons ist ein öffentlicher Park in Olympia mit einem artesischen Brunnen.",
+                  "text": "Der Artesian Commons Park in Olympia wurde 2014 eröffnet.",
                   "category": "park",
                   "coords": [
                         -122.897183,
@@ -164375,7 +164375,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Artesian Commons",
-                  "text": "Az Artesian Commons egy nyilvános park Olympia városában, artézi kúttal.",
+                  "text": "Az Artesian Commons park Olympiában 2014-ben nyílt meg.",
                   "category": "park",
                   "coords": [
                         -122.897183,
@@ -164710,7 +164710,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Artesian Commons",
-                  "text": "Artesian Commons este un parc public din Olympia, cu un izvor artezian.",
+                  "text": "Parcul Artesian Commons din Olympia a fost deschis în 2014.",
                   "category": "park",
                   "coords": [
                         -122.897183,
@@ -165045,7 +165045,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             },
             {
                   "name": "Artesian Commons",
-                  "text": "Artesian Commons is a public park in Olympia featuring an artesian well.",
+                  "text": "Artesian Commons park in Olympia opened in 2014.",
                   "category": "park",
                   "coords": [
                         -122.897183,

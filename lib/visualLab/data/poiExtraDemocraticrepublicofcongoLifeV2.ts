@@ -147,7 +147,52 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "lola-ya-bonobo-life-v2",
+    id: "lola-ya-bonobo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mbudi Nature",
+                  "text": "Mbudi Nature ist ein Bildungsmuseum mit Ausstellungen, die den lokalen Ökosystemen und der Naturgeschichte gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        15.184546,
+                        -4.360048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mbudi Nature",
+                  "text": "A Mbudi Nature egy oktatási múzeum, amely a helyi ökoszisztémáknak és a természettörténetnek szentelt kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.184546,
+                        -4.360048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mbudi Nature",
+                  "text": "Mbudi Nature este un muzeu educațional care prezintă exponate dedicate ecosistemelor locale și istoriei naturale.",
+                  "category": "museum",
+                  "coords": [
+                        15.184546,
+                        -4.360048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mbudi Nature",
+                  "text": "Mbudi Nature is an educational museum showcasing exhibits dedicated to local ecosystems and natural history.",
+                  "category": "museum",
+                  "coords": [
+                        15.184546,
+                        -4.360048
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CD-KN",
     coords: [15.2, -4.4],
@@ -243,7 +288,124 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "kinshasa-botanical-garden-life-v2",
+    id: "kinshasa-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardin botanique de Kinshasa",
+                  "text": "Der 1933 gegründete Botanische Garten von Kinshasa dient als städtische grüne Oase mit vielfältigen tropischen Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        15.309734,
+                        -4.310249
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Congolais",
+                  "text": "Das Centre Culturel Congolais ist ein lebendiger Kunstort, der der Förderung von lokalem Theater, Musik und bildender Kunst in Kinshasa gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        15.308306,
+                        -4.310733
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de Kinshasa",
+                  "text": "Der Zoologische Garten von Kinshasa ist ein historischer städtischer Wildpark, der Gehege für verschiedene zentralafrikanische Tierarten unterhält.",
+                  "category": "recreational",
+                  "coords": [
+                        15.307004,
+                        -4.311083
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin botanique de Kinshasa",
+                  "text": "Az 1933-ban alapított Kinshasai Botanikus Kert egy városi zöld oázis, amely változatos trópusi növényfajokat vonultat fel.",
+                  "category": "park",
+                  "coords": [
+                        15.309734,
+                        -4.310249
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Congolais",
+                  "text": "A Centre Culturel Congolais egy nyüzsgő művészeti központ, amely a helyi színház, zene és vizuális művészetek népszerűsítésének szenteli magát Kinshasában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.308306,
+                        -4.310733
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de Kinshasa",
+                  "text": "A Kinshasai Állatkert egy történelmi városi vadaspark, amely különböző közép-afrikai állatfajok számára tart fenn kifutókat.",
+                  "category": "recreational",
+                  "coords": [
+                        15.307004,
+                        -4.311083
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardin botanique de Kinshasa",
+                  "text": "Înființată în 1933, Grădina Botanică din Kinshasa servește ca o oază verde urbană, prezentând diverse specii de plante tropicale.",
+                  "category": "park",
+                  "coords": [
+                        15.309734,
+                        -4.310249
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Congolais",
+                  "text": "Centre Culturel Congolais este o locație artistică vibrantă dedicată promovării teatrului, muzicii și artelor vizuale locale din Kinshasa.",
+                  "category": "cultural",
+                  "coords": [
+                        15.308306,
+                        -4.310733
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de Kinshasa",
+                  "text": "Grădina Zoologică din Kinshasa este un parc de animale sălbatice urban istoric, care întreține incinte pentru diverse specii de animale din Africa Centrală.",
+                  "category": "recreational",
+                  "coords": [
+                        15.307004,
+                        -4.311083
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin botanique de Kinshasa",
+                  "text": "Established in 1933, the Kinshasa Botanical Garden serves as an urban green oasis featuring diverse tropical plant species.",
+                  "category": "park",
+                  "coords": [
+                        15.309734,
+                        -4.310249
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Congolais",
+                  "text": "The Centre Culturel Congolais is a vibrant arts venue dedicated to the promotion of local theater, music, and visual arts in Kinshasa.",
+                  "category": "cultural",
+                  "coords": [
+                        15.308306,
+                        -4.310733
+                  ]
+            },
+            {
+                  "name": "Kinshasa Zoological Garden",
+                  "text": "The Kinshasa Zoological Garden is a historic urban wildlife park maintaining enclosures for various Central African animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        15.307004,
+                        -4.311083
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CD-KN",
     coords: [15.31, -4.31],
@@ -291,7 +453,88 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "kisantu-botanical-garden-life-v2",
+    id: "kisantu-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "limite 3",
+                  "text": "Diese markante Landschaftsgrenze im weitläufigen Botanischen Garten Kisantu kennzeichnet einen der gut gepflegten Themenbereiche des Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        15.064296,
+                        -4.642746
+                  ]
+            },
+            {
+                  "name": "limite 4",
+                  "text": "Die als Limite 4 bezeichnete Wegmarkierung hilft Besuchern bei der Orientierung durch die vielfältigen Pflanzensammlungen von Kisantu.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063043,
+                        -4.643767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "limite 3",
+                  "text": "Ez a jellegzetes tájképi határvonal a kiterjedt Kisantui Botanikus Kertben a park egyik gondozott tematikus részlegét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        15.064296,
+                        -4.642746
+                  ]
+            },
+            {
+                  "name": "limite 4",
+                  "text": "A Limite 4 néven ismert útvonaljelző segíti a látogatókat a kisantui növénygyűjtemények sokszínűségének felfedezésében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063043,
+                        -4.643767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "limite 3",
+                  "text": "Această limită peisagistică distinctă din vasta Grădină Botanică Kisantu marchează una dintre zonele tematice bine întreținute ale parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        15.064296,
+                        -4.642746
+                  ]
+            },
+            {
+                  "name": "limite 4",
+                  "text": "Borna de traseu cunoscută sub numele de Limite 4 ajută vizitatorii să se orienteze printre diversele colecții de plante din Kisantu.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063043,
+                        -4.643767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "limite 3",
+                  "text": "This distinct landscape boundary in the expansive Kisantu Botanical Garden delineates one of the park's well-maintained thematic sections.",
+                  "category": "landmark",
+                  "coords": [
+                        15.064296,
+                        -4.642746
+                  ]
+            },
+            {
+                  "name": "limite 4",
+                  "text": "The trail marker known as Limite 4 helps visitors orient themselves through the diverse plant collections of Kisantu.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063043,
+                        -4.643767
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CD-BC",
     coords: [15.08, -4.61],
@@ -339,7 +582,52 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "ma-vallee-lake-life-v2",
+    id: "ma-vallee-lake-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Ngafula",
+                  "text": "Der von Wohngebieten umgebene Hügel Mont Ngafula erhebt sich südlich des urbanen Zentrums von Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.229113,
+                        -4.455655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Ngafula",
+                  "text": "A lakónegyedekkel körülvett Mont Ngafula domb Kinshasa városközpontjától délre magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        15.229113,
+                        -4.455655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Ngafula",
+                  "text": "Dealul Mont Ngafula, înconjurat de zone rezidențiale, se înalță la sud de centrul urban al orașului Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.229113,
+                        -4.455655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Ngafula",
+                  "text": "Surrounded by residential neighborhoods, the Mont Ngafula hill rises to the south of Kinshasa's urban center.",
+                  "category": "natural",
+                  "coords": [
+                        15.229113,
+                        -4.455655
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CD-KN",
     coords: [15.25, -4.45],
@@ -819,7 +1107,52 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "lubero-farms-life-v2",
+    id: "lubero-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve naturelle de Kalikuku",
+                  "text": "Die Réserve naturelle de Kalikuku ist ein bewaldetes Schutzgebiet, das der Erhaltung der regionalen Tierwelt und der natürlichen Ökosysteme nahe Lubero dient.",
+                  "category": "natural",
+                  "coords": [
+                        29.22437,
+                        -0.105857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve naturelle de Kalikuku",
+                  "text": "A Réserve naturelle de Kalikuku egy védett erdős terület, amelyet a regionális vadvilág és a természetes ökoszisztémák megőrzésének szenteltek Lubero közelében.",
+                  "category": "natural",
+                  "coords": [
+                        29.22437,
+                        -0.105857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve naturelle de Kalikuku",
+                  "text": "Réserve naturelle de Kalikuku este o zonă forestieră protejată dedicată conservării faunei sălbatice regionale și a ecosistemelor naturale din apropiere de Lubero.",
+                  "category": "natural",
+                  "coords": [
+                        29.22437,
+                        -0.105857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve naturelle de Kalikuku",
+                  "text": "The Réserve naturelle de Kalikuku is a protected forested area dedicated to preserving the regional wildlife and natural ecosystems near Lubero.",
+                  "category": "natural",
+                  "coords": [
+                        29.22437,
+                        -0.105857
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CD-NK",
     coords: [29.2, -0.1],

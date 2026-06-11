@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const republicofcongoNatureV2: POI[] = [
 
   {
-    id: "republicofcongo-kouilou-river-nature-v2",
+    id: "republicofcongo-kouilou-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorges",
+                  "text": "Ein Aussichtspunkt, der dramatische Ausblicke über die gewundenen Schluchten des Kouilou-Flusses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.638718,
+                        -4.373412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorges",
+                  "text": "Kilátópont, amely drámai kilátást nyújt a Kouilou folyó kanyargós szurdokaira.",
+                  "category": "natural",
+                  "coords": [
+                        11.638718,
+                        -4.373412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorges",
+                  "text": "Un punct de observație care prezintă vederi dramatice asupra defileelor șerpuite ale râului Kouilou.",
+                  "category": "natural",
+                  "coords": [
+                        11.638718,
+                        -4.373412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorges",
+                  "text": "A vantage point presenting dramatic views over the winding Kouilou River ravines.",
+                  "category": "natural",
+                  "coords": [
+                        11.638718,
+                        -4.373412
+                  ]
+            }
+      ]
+},
     type: "river",
     name: { de: "Kouilou", hu: "Kouilou", ro: "Kouilou", en: "Kouilou River" },
     coords: [11.66, -4.43],

@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraBeninLandmarksV2: POI[] = [
   {
-    id: "stade-amitie-cotonou-landmarks-v2",
+    id: "stade-amitie-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hawaï Bahamas Plage",
+                  "text": "Hawaï Bahamas Plage ist ein beliebter Sandstrand in der Nähe des Stade de l'Amitié in Cotonou, der eine tropische Atmosphäre bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        2.307418,
+                        6.347581
+                  ]
+            },
+            {
+                  "name": "Échangeur de Godomey",
+                  "text": "Der Échangeur de Godomey ist ein massiver moderner Verkehrsknotenpunkt in Cotonou, der als bedeutendes bauliches Wahrzeichen der Stadt gilt.",
+                  "category": "historical",
+                  "coords": [
+                        2.354385,
+                        6.390026
+                  ]
+            },
+            {
+                  "name": "Regroupement des artisans de Cotonou (RAC) village artisanal régional de l'amitié Espaces métiers",
+                  "text": "Dieses Handwerkerdorf in der Nähe des Stade de l'Amitié in Cotonou vereint lokale Kunsthandwerker, die traditionelle beninische Kunst erschaffen und ausstellen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380775,
+                        6.388522
+                  ]
+            },
+            {
+                  "name": "Ballet-Théâtre Ensemble Polyphonique",
+                  "text": "Das Ballet-Théâtre Ensemble Polyphonique ist eine dynamische Bühne nahe dem Freundschaftsstadion in Cotonou, spezialisiert auf traditionelle Tanz- und Choraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.363166,
+                        6.388926
+                  ]
+            },
+            {
+                  "name": "Centre Arts et Culture",
+                  "text": "Dieses Kulturzentrum in Cotonou bietet Ausstellungsräume für zeitgenössische beninische Künstler, nur einen kurzen Fußweg vom Stade de l'Amitié entfernt.",
+                  "category": "cultural",
+                  "coords": [
+                        2.318557,
+                        6.386182
+                  ]
+            },
+            {
+                  "name": "Gangan-Production",
+                  "text": "Gangan-Production ist ein Kunstzentrum im lebhaften Stadionviertel von Cotonou, das sich auf audiovisuelle Künste und Musikproduktion konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        2.346024,
+                        6.39536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hawaï Bahamas Plage",
+                  "text": "A Hawaï Bahamas Plage egy népszerű homokos tengerparti látványosság a cotonoui Stade de l'Amitié közelében, amely trópusi hangulatot áraszt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.307418,
+                        6.347581
+                  ]
+            },
+            {
+                  "name": "Échangeur de Godomey",
+                  "text": "Az Échangeur de Godomey egy hatalmas, modern közlekedési csomópont Cotonouban, amely a város egyik fő szerkezeti tájékozódási pontja.",
+                  "category": "historical",
+                  "coords": [
+                        2.354385,
+                        6.390026
+                  ]
+            },
+            {
+                  "name": "Regroupement des artisans de Cotonou (RAC) village artisanal régional de l'amitié Espaces métiers",
+                  "text": "Ez a cotonoui Stade de l'Amitié közelében található kézműves falu helyi mesterembereket fog össze a hagyományos benini művészet bemutatására és megalkotására.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380775,
+                        6.388522
+                  ]
+            },
+            {
+                  "name": "Ballet-Théâtre Ensemble Polyphonique",
+                  "text": "A Ballet-Théâtre Ensemble Polyphonique egy dinamikus előadóhely a cotonoui barátság stadion közelében, amely hagyományos tánc- és kóruselőadásokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        2.363166,
+                        6.388926
+                  ]
+            },
+            {
+                  "name": "Centre Arts et Culture",
+                  "text": "Ez a cotonoui kulturális központ kiállítótereket biztosít a kortárs benini művészek számára, nem messze a Stade de l'Amitié stadiontól.",
+                  "category": "cultural",
+                  "coords": [
+                        2.318557,
+                        6.386182
+                  ]
+            },
+            {
+                  "name": "Gangan-Production",
+                  "text": "A Gangan-Production egy audiovizuális művészetekre és zenei produkciókra összpontosító művészeti központ Cotonou nyüzsgő stadionnegyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        2.346024,
+                        6.39536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hawaï Bahamas Plage",
+                  "text": "Hawaï Bahamas Plage este o atracție populară pe plaja de nisip din apropierea Stade de l'Amitié din Cotonou, oferind o atmosferă tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        2.307418,
+                        6.347581
+                  ]
+            },
+            {
+                  "name": "Échangeur de Godomey",
+                  "text": "Échangeur de Godomey este un nod de transport masiv și modern din Cotonou, care servește drept reper structural major al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        2.354385,
+                        6.390026
+                  ]
+            },
+            {
+                  "name": "Regroupement des artisans de Cotonou (RAC) village artisanal régional de l'amitié Espaces métiers",
+                  "text": "Acest sat artizanal din apropierea Stade de l'Amitié din Cotonou reunește meșteri locali iscusiți pentru a crea și expune arta tradițională benineză.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380775,
+                        6.388522
+                  ]
+            },
+            {
+                  "name": "Ballet-Théâtre Ensemble Polyphonique",
+                  "text": "Ballet-Théâtre Ensemble Polyphonique este o locație de spectacole dinamică lângă stadionul prieteniei din Cotonou, specializată în dansuri tradiționale și recitaluri corale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.363166,
+                        6.388926
+                  ]
+            },
+            {
+                  "name": "Centre Arts et Culture",
+                  "text": "Acest centru cultural din Cotonou oferă spații de expoziție pentru artiștii contemporani beninezi, la o scurtă distanță de Stade de l'Amitié.",
+                  "category": "cultural",
+                  "coords": [
+                        2.318557,
+                        6.386182
+                  ]
+            },
+            {
+                  "name": "Gangan-Production",
+                  "text": "Gangan-Production este un centru de artă axat pe arte audiovizuale și producție muzicală, situat în cartierul plin de viață al stadionului din Cotonou.",
+                  "category": "cultural",
+                  "coords": [
+                        2.346024,
+                        6.39536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hawaï Bahamas Plage",
+                  "text": "Hawaï Bahamas Plage is a popular sandy coastal attraction near Cotonou's Stade de l'Amitié, offering a tropical beach atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        2.307418,
+                        6.347581
+                  ]
+            },
+            {
+                  "name": "Échangeur de Godomey",
+                  "text": "The Échangeur de Godomey is a massive modern transport interchange in Cotonou that serves as a major structural landmark in the city.",
+                  "category": "historical",
+                  "coords": [
+                        2.354385,
+                        6.390026
+                  ]
+            },
+            {
+                  "name": "Regroupement des artisans de Cotonou (RAC) village artisanal régional de l'amitié Espaces métiers",
+                  "text": "This artisanal village near the Stade de l'Amitié in Cotonou brings together skilled local craftsmen to exhibit and create traditional Beninese art.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380775,
+                        6.388522
+                  ]
+            },
+            {
+                  "name": "Ballet-Théâtre Ensemble Polyphonique",
+                  "text": "The Ballet-Théâtre Ensemble Polyphonique is a dynamic performance venue near Cotonou's friendship stadium, specializing in traditional dance and choir performances.",
+                  "category": "cultural",
+                  "coords": [
+                        2.363166,
+                        6.388926
+                  ]
+            },
+            {
+                  "name": "Centre Arts et Culture",
+                  "text": "This cultural centre in Cotonou provides exhibition spaces for contemporary Beninese artists just a short distance from the Stade de l'Amitié.",
+                  "category": "cultural",
+                  "coords": [
+                        2.318557,
+                        6.386182
+                  ]
+            },
+            {
+                  "name": "Gangan-Production",
+                  "text": "Gangan-Production is an arts centre focused on audio-visual arts and music production in the lively stadium district of Cotonou.",
+                  "category": "cultural",
+                  "coords": [
+                        2.346024,
+                        6.39536
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "The primary multi-purpose sports stadium in Cotonou, used for major national and international events. It is a central hub for sports in Benin.",
     facts: [
@@ -59,7 +284,52 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     }
   },
   {
-    id: "place-etoile-rouge-cotonou-landmarks-v2",
+    id: "place-etoile-rouge-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Étoile Rouge",
+                  "text": "Der Étoile Rouge ist ein massives Denkmal mit rotem Stern, das während der marxistisch-leninistischen Zeit Benins erbaut wurde und einen großen Kreisverkehr in place-etoile-rouge-cotonou-landmarks-v2 dominiert.",
+                  "category": "historical",
+                  "coords": [
+                        2.409786,
+                        6.37149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Étoile Rouge",
+                  "text": "Az Étoile Rouge egy hatalmas vörös csillag emlékmű, amelyet Benin marxista-leninista korszakában építettek, és egy nagy körforgalmat ural a place-etoile-rouge-cotonou-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        2.409786,
+                        6.37149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Étoile Rouge",
+                  "text": "Étoile Rouge este un monument masiv în formă de stea roșie, construit în timpul perioadei marxist-leniniste din Benin, care domină un sens giratoriu major din place-etoile-rouge-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.409786,
+                        6.37149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Étoile Rouge",
+                  "text": "The Étoile Rouge is a massive red star monument constructed during Benin's Marxist-Leninist period, dominating a major roundabout in place-etoile-rouge-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.409786,
+                        6.37149
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "A prominent public square in Cotonou featuring a massive socialist-style monument. It serves as a major intersection and landmark in the city.",
     facts: [
@@ -115,7 +385,52 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     }
   },
   {
-    id: "ancien-pont-cotonou-landmarks-v2",
+    id: "ancien-pont-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vieux dispensaire",
+                  "text": "Eine historische Sehenswürdigkeit, die in der Struktur einer ehemaligen Krankenstation aus der Kolonialzeit untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        2.438036,
+                        6.359734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vieux dispensaire",
+                  "text": "Egy történelmi látványosság, amely egy egykori gyarmati kori orvosi rendelő épületében kapott helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        2.438036,
+                        6.359734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vieux dispensaire",
+                  "text": "O atracție istorică găzduită în structura unui fost dispensar medical din perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        2.438036,
+                        6.359734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vieux dispensaire",
+                  "text": "A historical attraction housed within the structure of a former colonial-era medical dispensary.",
+                  "category": "landmark",
+                  "coords": [
+                        2.438036,
+                        6.359734
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.438, 6.364],
@@ -162,7 +477,88 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "phare-cotonou-landmarks-v2",
+    id: "phare-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument aux Dévoués",
+                  "text": "Ein öffentliches Denkmal, das als Wahrzeichen in Cotonou dient.",
+                  "category": "historical",
+                  "coords": [
+                        2.429825,
+                        6.351866
+                  ]
+            },
+            {
+                  "name": "Mosquée Zongo Cotonou",
+                  "text": "Ein bedeutendes islamisches Gotteshaus im belebten Viertel Zongo.",
+                  "category": "religious",
+                  "coords": [
+                        2.426413,
+                        6.356762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux Dévoués",
+                  "text": "Egy köztéri emlékmű, amely Cotonou egyik nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        2.429825,
+                        6.351866
+                  ]
+            },
+            {
+                  "name": "Mosquée Zongo Cotonou",
+                  "text": "Egy kiemelkedő iszlám istentiszteleti hely, amely a nyüzsgő Zongo negyedben található.",
+                  "category": "religious",
+                  "coords": [
+                        2.426413,
+                        6.356762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux Dévoués",
+                  "text": "Un monument public care servește drept reper memorial în Cotonou.",
+                  "category": "historical",
+                  "coords": [
+                        2.429825,
+                        6.351866
+                  ]
+            },
+            {
+                  "name": "Mosquée Zongo Cotonou",
+                  "text": "Un lăcaș de cult islamic proeminent situat în cartierul plin de viață Zongo.",
+                  "category": "religious",
+                  "coords": [
+                        2.426413,
+                        6.356762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument aux Dévoués",
+                  "text": "A public monument standing as a memorial landmark in Cotonou.",
+                  "category": "historical",
+                  "coords": [
+                        2.429825,
+                        6.351866
+                  ]
+            },
+            {
+                  "name": "Mosquée Zongo Cotonou",
+                  "text": "A prominent Islamic place of worship located in the bustling Zongo district.",
+                  "category": "religious",
+                  "coords": [
+                        2.426413,
+                        6.356762
+                  ]
+            }
+      ]
+},
     parent: "BJ",
     description: "The lighthouse of Cotonou, which has guided ships along the coast for decades. It remains an iconic maritime landmark for the port city.",
     facts: [
@@ -218,7 +614,52 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     }
   },
   {
-    id: "place-martyrs-cotonou-landmarks-v2",
+    id: "place-martyrs-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturelle Chinois",
+                  "text": "Das Kunstzentrum fördert den sino-beninischen Kulturaustausch durch Sprachkurse und Kunstausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.423895,
+                        6.352314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturelle Chinois",
+                  "text": "A művészeti központ nyelvtanfolyamokkal és művészeti kiállításokkal segíti elő a kínai-benini kulturális cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        2.423895,
+                        6.352314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturelle Chinois",
+                  "text": "Centrul de artă promovează schimburile culturale sino-benineze prin cursuri de limbă și expoziții artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        2.423895,
+                        6.352314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturelle Chinois",
+                  "text": "The arts centre promotes Sino-Beninese cultural exchange through language classes and artistic exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        2.423895,
+                        6.352314
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.422, 6.354],
@@ -312,7 +753,88 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "cathedrale-misericorde-cotonou-landmarks-v2",
+    id: "cathedrale-misericorde-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fitheb",
+                  "text": "Ein Theater, in dem regelmäßig Aufführungen des Festival International de Théâtre du Bénin stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436249,
+                        6.359575
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Africain",
+                  "text": "Ein Kunstzentrum, das sich der Präsentation und Erhaltung vielfältiger afrikanischer Kulturausdrücke widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436824,
+                        6.362432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fitheb",
+                  "text": "Színházi helyszín, amely gyakran ad otthont a Festival International de Théâtre du Bénin előadásainak.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436249,
+                        6.359575
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Africain",
+                  "text": "Egy művészeti központ, amely a sokszínű afrikai kulturális kifejezésmódok bemutatásának és megőrzésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436824,
+                        6.362432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fitheb",
+                  "text": "O sală de teatru care găzduiește frecvent spectacole pentru Festival International de Théâtre du Bénin.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436249,
+                        6.359575
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Africain",
+                  "text": "Un centru de arte dedicat prezentării și conservării diverselor expresii culturale africane.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436824,
+                        6.362432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fitheb",
+                  "text": "A theatre venue that frequently hosts performances for the Festival International de Théâtre du Bénin.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436249,
+                        6.359575
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Africain",
+                  "text": "An arts centre dedicated to showcasing and preserving diverse African cultural expressions.",
+                  "category": "cultural",
+                  "coords": [
+                        2.436824,
+                        6.362432
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.435, 6.363],
@@ -406,7 +928,124 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "palais-congres-cotonou-landmarks-v2",
+    id: "palais-congres-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bureau du 12è Arrondissement de Cotonou",
+                  "text": "Dieses Gebäude fungiert als lokales Rathaus und beherbergt die Regierungsbüros für den 12. Bezirk in palais-congres-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.406941,
+                        6.355813
+                  ]
+            },
+            {
+                  "name": "L'Amazone",
+                  "text": "L'Amazone ist eine 30 Meter hohe Bronzestatue, die zu Ehren der historischen Kriegerinnen von Dahomey in palais-congres-cotonou-landmarks-v2 errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        2.40755,
+                        6.348955
+                  ]
+            },
+            {
+                  "name": "Obama Beach",
+                  "text": "Obama Beach ist ein beliebter sandiger Küstenabschnitt, der Erholung am Meer in der Gegend von palais-congres-cotonou-landmarks-v2 bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.403016,
+                        6.343797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bureau du 12è Arrondissement de Cotonou",
+                  "text": "A helyi városházaként működő épület a 12. kerület kormányzati hivatalainak ad otthont a palais-congres-cotonou-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        2.406941,
+                        6.355813
+                  ]
+            },
+            {
+                  "name": "L'Amazone",
+                  "text": "A L'Amazone egy 30 méter magas bronzszobor, amely a dahomeyi történelmi női harcosok tiszteletére áll a palais-congres-cotonou-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        2.40755,
+                        6.348955
+                  ]
+            },
+            {
+                  "name": "Obama Beach",
+                  "text": "Az Obama Beach egy népszerű homokos partszakasz, amely tengerparti kikapcsolódást nyújt a palais-congres-cotonou-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        2.403016,
+                        6.343797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bureau du 12è Arrondissement de Cotonou",
+                  "text": "Funcționând ca primărie locală, această clădire găzduiește birourile guvernamentale pentru cel de-al 12-lea district din palais-congres-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.406941,
+                        6.355813
+                  ]
+            },
+            {
+                  "name": "L'Amazone",
+                  "text": "L'Amazone este o statuie de bronz falnică de 30 de metri înălțime, care onorează războinicele istorice din Dahomey, situată în palais-congres-cotonou-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.40755,
+                        6.348955
+                  ]
+            },
+            {
+                  "name": "Obama Beach",
+                  "text": "Obama Beach este o întindere de coastă cu nisip populară, care oferă recreere pe litoral în zona palais-congres-cotonou-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        2.403016,
+                        6.343797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bureau du 12è Arrondissement de Cotonou",
+                  "text": "Operating as the local town hall, this building houses the government offices for the 12th district in palais-congres-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.406941,
+                        6.355813
+                  ]
+            },
+            {
+                  "name": "L'Amazone",
+                  "text": "L'Amazone is a towering bronze statue standing 30 meters tall to honor the historic female warriors of Dahomey in palais-congres-cotonou-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.40755,
+                        6.348955
+                  ]
+            },
+            {
+                  "name": "Obama Beach",
+                  "text": "Obama Beach is a popular sandy coastal stretch providing seaside recreation in the palais-congres-cotonou-landmarks-v2 area.",
+                  "category": "recreational",
+                  "coords": [
+                        2.403016,
+                        6.343797
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.410, 6.351],
@@ -453,7 +1092,124 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "marche-dantokpa-cotonou-landmarks-v2",
+    id: "marche-dantokpa-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place Lénine",
+                  "text": "Ein öffentliches Platzdenkmal, das die historischen politischen Verbindungen der Vergangenheit der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        2.44691,
+                        6.369904
+                  ]
+            },
+            {
+                  "name": "Marché Dantokpa",
+                  "text": "Einer der größten Freiluftmärkte Westafrikas, der sich weitläufig an den Ufern der Nokoué-Lagune erstreckt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.433831,
+                        6.372248
+                  ]
+            },
+            {
+                  "name": "Pont Martin Luther King",
+                  "text": "Eine wichtige Brücke, die die Lagune überspannt, um verschiedene Hauptbezirke von Cotonou zu verbinden.",
+                  "category": "landmark",
+                  "coords": [
+                        2.437128,
+                        6.371081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Lénine",
+                  "text": "Egy köztéri emlékmű, amely a régió múltjának történelmi politikai kapcsolatait tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        2.44691,
+                        6.369904
+                  ]
+            },
+            {
+                  "name": "Marché Dantokpa",
+                  "text": "Nyugat-Afrika egyik legnagyobb szabadtéri piaca, amely hosszan elnyúlik a Nokoué-lagúna partján.",
+                  "category": "landmark",
+                  "coords": [
+                        2.433831,
+                        6.372248
+                  ]
+            },
+            {
+                  "name": "Pont Martin Luther King",
+                  "text": "Egy fontos híd, amely a lagúnán átívelve köti össze Cotonou különböző főbb kerületeit.",
+                  "category": "landmark",
+                  "coords": [
+                        2.437128,
+                        6.371081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Lénine",
+                  "text": "Un monument situat într-o piață publică, reflectând legăturile politice istorice din trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        2.44691,
+                        6.369904
+                  ]
+            },
+            {
+                  "name": "Marché Dantokpa",
+                  "text": "Una dintre cele mai mari piețe în aer liber din Africa de Vest, care se întinde pe malurile lagunei Nokoué.",
+                  "category": "landmark",
+                  "coords": [
+                        2.433831,
+                        6.372248
+                  ]
+            },
+            {
+                  "name": "Pont Martin Luther King",
+                  "text": "Un pod crucial care traversează laguna pentru a conecta diferite districte majore din Cotonou.",
+                  "category": "landmark",
+                  "coords": [
+                        2.437128,
+                        6.371081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Lénine",
+                  "text": "A public square monument reflecting the historical political ties of the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        2.44691,
+                        6.369904
+                  ]
+            },
+            {
+                  "name": "Marché Dantokpa",
+                  "text": "One of the largest open-air markets in West Africa, sprawling extensively along the shores of the Nokoué lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        2.433831,
+                        6.372248
+                  ]
+            },
+            {
+                  "name": "Pont Martin Luther King",
+                  "text": "A crucial bridge spanning the lagoon to connect different major districts of Cotonou.",
+                  "category": "landmark",
+                  "coords": [
+                        2.437128,
+                        6.371081
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.438, 6.374],
@@ -547,7 +1303,124 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "pont-charles-de-gaulle-porto-novo-landmarks-v2",
+    id: "pont-charles-de-gaulle-porto-novo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUSEE D'ART ET HISTOEIQUE YORUBA",
+                  "text": "Dieses Museum in pont-charles-de-gaulle-porto-novo-landmarks-v2 konzentriert sich auf die Bewahrung und Ausstellung von Yoruba-Kunst und historischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        2.612763,
+                        6.471055
+                  ]
+            },
+            {
+                  "name": "Espace Ubuntu",
+                  "text": "Espace Ubuntu fungiert als ausgewiesener kultureller Treffpunkt im Viertel pont-charles-de-gaulle-porto-novo-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.61843,
+                        6.473215
+                  ]
+            },
+            {
+                  "name": "Aux enfants du Bénin morts pour la liberté",
+                  "text": "Dieses feierliche Denkmal in pont-charles-de-gaulle-porto-novo-landmarks-v2 ist den Kindern Benins gewidmet, die für die Freiheit gestorben sind.",
+                  "category": "historical",
+                  "coords": [
+                        2.616852,
+                        6.473778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUSEE D'ART ET HISTOEIQUE YORUBA",
+                  "text": "Ez a pont-charles-de-gaulle-porto-novo-landmarks-v2 területén található múzeum a joruba művészet és történelmi leletek megőrzésére és bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        2.612763,
+                        6.471055
+                  ]
+            },
+            {
+                  "name": "Espace Ubuntu",
+                  "text": "Az Espace Ubuntu kijelölt kulturális gyülekezőhelyként működik a pont-charles-de-gaulle-porto-novo-landmarks-v2 negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.61843,
+                        6.473215
+                  ]
+            },
+            {
+                  "name": "Aux enfants du Bénin morts pour la liberté",
+                  "text": "Ez a pont-charles-de-gaulle-porto-novo-landmarks-v2-ben található ünnepélyes emlékmű a szabadságért meghalt benini gyermekeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        2.616852,
+                        6.473778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUSEE D'ART ET HISTOEIQUE YORUBA",
+                  "text": "Acest muzeu din pont-charles-de-gaulle-porto-novo-landmarks-v2 se concentrează pe conservarea și expunerea artei și a artefactelor istorice Yoruba.",
+                  "category": "museum",
+                  "coords": [
+                        2.612763,
+                        6.471055
+                  ]
+            },
+            {
+                  "name": "Espace Ubuntu",
+                  "text": "Espace Ubuntu funcționează ca un spațiu desemnat pentru adunări culturale în districtul pont-charles-de-gaulle-porto-novo-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.61843,
+                        6.473215
+                  ]
+            },
+            {
+                  "name": "Aux enfants du Bénin morts pour la liberté",
+                  "text": "Acest monument solemn din pont-charles-de-gaulle-porto-novo-landmarks-v2 este dedicat copiilor din Benin care au murit pentru libertate.",
+                  "category": "historical",
+                  "coords": [
+                        2.616852,
+                        6.473778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUSEE D'ART ET HISTOEIQUE YORUBA",
+                  "text": "This museum in pont-charles-de-gaulle-porto-novo-landmarks-v2 focuses on preserving and displaying Yoruba art and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        2.612763,
+                        6.471055
+                  ]
+            },
+            {
+                  "name": "Espace Ubuntu",
+                  "text": "Espace Ubuntu functions as a designated cultural gathering space in the pont-charles-de-gaulle-porto-novo-landmarks-v2 district.",
+                  "category": "landmark",
+                  "coords": [
+                        2.61843,
+                        6.473215
+                  ]
+            },
+            {
+                  "name": "Aux enfants du Bénin morts pour la liberté",
+                  "text": "This solemn monument in pont-charles-de-gaulle-porto-novo-landmarks-v2 is dedicated to the children of Benin who died for freedom.",
+                  "category": "historical",
+                  "coords": [
+                        2.616852,
+                        6.473778
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-OU",
     coords: [2.617, 6.476],
@@ -641,7 +1514,52 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "hotel-ville-cotonou-landmarks-v2",
+    id: "hotel-ville-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bureau du 7ème Arrondissement",
+                  "text": "Das Bureau du 7ème Arrondissement fungiert als lokales Verwaltungszentrum für seinen jeweiligen Bezirk in hotel-ville-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.426084,
+                        6.368281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bureau du 7ème Arrondissement",
+                  "text": "A Bureau du 7ème Arrondissement helyi közigazgatási központként működik a saját kerületében, a hotel-ville-cotonou-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        2.426084,
+                        6.368281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bureau du 7ème Arrondissement",
+                  "text": "Bureau du 7ème Arrondissement funcționează ca centru administrativ local pentru districtul său respectiv din hotel-ville-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.426084,
+                        6.368281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bureau du 7ème Arrondissement",
+                  "text": "The Bureau du 7ème Arrondissement functions as the local administrative center for its respective district in hotel-ville-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.426084,
+                        6.368281
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.427, 6.365],
@@ -688,7 +1606,88 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "universite-abomey-calavi-landmarks-v2",
+    id: "universite-abomey-calavi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des Enarques",
+                  "text": "Die Place des Enarques ist ein akademisches Denkmal auf dem belebten Campus der Universität von Abomey-Calavi, an dem sich Studenten und Gelehrte versammeln.",
+                  "category": "historical",
+                  "coords": [
+                        2.340146,
+                        6.418344
+                  ]
+            },
+            {
+                  "name": "Espace Mayton",
+                  "text": "Espace Mayton dient als künstlerischer Knotenpunkt für die Universitätsgemeinschaft in Abomey-Calavi und veranstaltet häufig studentische Ausstellungen und Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        2.337569,
+                        6.425994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des Enarques",
+                  "text": "A Place des Enarques egy akadémiai emlékmű az Abomey-Calavi Egyetem nyüzsgő kampuszán, amely diákok és tudósok találkozóhelye.",
+                  "category": "historical",
+                  "coords": [
+                        2.340146,
+                        6.418344
+                  ]
+            },
+            {
+                  "name": "Espace Mayton",
+                  "text": "Az Espace Mayton művészeti központként szolgál az Abomey-Calavi egyetemi közösség számára, gyakran ad otthont hallgatói kiállításoknak és workshopoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        2.337569,
+                        6.425994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des Enarques",
+                  "text": "Place des Enarques este un monument academic situat pe campusul vibrant al Universității din Abomey-Calavi, fiind un loc de adunare pentru studenți și profesori.",
+                  "category": "historical",
+                  "coords": [
+                        2.340146,
+                        6.418344
+                  ]
+            },
+            {
+                  "name": "Espace Mayton",
+                  "text": "Espace Mayton servește ca un centru artistic pentru comunitatea universitară din Abomey-Calavi, găzduind frecvent expoziții studențești și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        2.337569,
+                        6.425994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des Enarques",
+                  "text": "Place des Enarques is an academic monument situated on the vibrant campus of the University of Abomey-Calavi, gathering students and scholars.",
+                  "category": "historical",
+                  "coords": [
+                        2.340146,
+                        6.418344
+                  ]
+            },
+            {
+                  "name": "Espace Mayton",
+                  "text": "Espace Mayton serves as an artistic hub for the university community in Abomey-Calavi, frequently hosting student exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        2.337569,
+                        6.425994
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-AT",
     coords: [2.352, 6.444],
@@ -735,7 +1734,52 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "pont-cinquantenaire-cotonou-landmarks-v2",
+    id: "pont-cinquantenaire-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bureau du 11è Arrondissement de  Cotonou",
+                  "text": "Dieses formelle Verwaltungsgebäude dient den bürgerlichen Bedürfnissen des 11. Gemeindebezirks in pont-cinquantenaire-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.411587,
+                        6.364929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bureau du 11è Arrondissement de  Cotonou",
+                  "text": "Ez a hivatalos közigazgatási épület a 11. kerület polgári igényeit szolgálja ki a pont-cinquantenaire-cotonou-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        2.411587,
+                        6.364929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bureau du 11è Arrondissement de  Cotonou",
+                  "text": "Această clădire administrativă formală deservește nevoile civice ale celui de-al 11-lea district municipal din pont-cinquantenaire-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.411587,
+                        6.364929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bureau du 11è Arrondissement de  Cotonou",
+                  "text": "This formal administrative building serves the civic needs of the 11th municipal district in pont-cinquantenaire-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.411587,
+                        6.364929
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.411, 6.360],
@@ -829,7 +1873,52 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "place-lenine-cotonou-landmarks-v2",
+    id: "place-lenine-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "6è Arrondissement de Cotonou",
+                  "text": "Dieses städtische Gebäude dient als Verwaltungssitz für den 6. Verwaltungsbezirk in place-lenine-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.423807,
+                        6.380925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "6è Arrondissement de Cotonou",
+                  "text": "Ez az önkormányzati épület a 6. közigazgatási kerület közigazgatási városházaként szolgál a place-lenine-cotonou-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        2.423807,
+                        6.380925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "6è Arrondissement de Cotonou",
+                  "text": "Acest clădire municipală servește ca primărie administrativă pentru cel de-al 6-lea district administrativ din place-lenine-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.423807,
+                        6.380925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "6è Arrondissement de Cotonou",
+                  "text": "This municipal building serves as the administrative town hall for the 6th administrative district in place-lenine-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.423807,
+                        6.380925
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.426, 6.385],
@@ -876,7 +1965,88 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "grand-marche-parakou-landmarks-v2",
+    id: "grand-marche-parakou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument de Matthieu Kerekou",
+                  "text": "Dieses Denkmal in der Nähe des Grand Marché erinnert an Mathieu Kérékou, den ehemaligen Präsidenten Benins.",
+                  "category": "historical",
+                  "coords": [
+                        2.609448,
+                        9.340872
+                  ]
+            },
+            {
+                  "name": "Musée ethnographique et de plein air de Parakou",
+                  "text": "Dieses ethnografische Freilichtmuseum zeigt die traditionellen Wohnformen und das reiche kulturelle Erbe der Borgou-Region.",
+                  "category": "museum",
+                  "coords": [
+                        2.618527,
+                        9.328973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument de Matthieu Kerekou",
+                  "text": "A Grand Marché közelében található emlékmű Benin egykori elnökének, Mathieu Kérékou-nak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        2.609448,
+                        9.340872
+                  ]
+            },
+            {
+                  "name": "Musée ethnographique et de plein air de Parakou",
+                  "text": "Ez a szabadtéri néprajzi múzeum a Borgou régió hagyományos lakáskultúráját és gazdag kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        2.618527,
+                        9.328973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument de Matthieu Kerekou",
+                  "text": "Situat lângă Grand Marché, acest monument îl comemorează pe Mathieu Kérékou, fostul președinte al Beninului.",
+                  "category": "historical",
+                  "coords": [
+                        2.609448,
+                        9.340872
+                  ]
+            },
+            {
+                  "name": "Musée ethnographique et de plein air de Parakou",
+                  "text": "Acest muzeu etnografic în aer liber prezintă locuințele tradiționale și bogata moștenire culturală a regiunii Borgou.",
+                  "category": "museum",
+                  "coords": [
+                        2.618527,
+                        9.328973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument de Matthieu Kerekou",
+                  "text": "Set near the Grand Marché, this monument commemorates Mathieu Kérékou, the former president of Benin.",
+                  "category": "historical",
+                  "coords": [
+                        2.609448,
+                        9.340872
+                  ]
+            },
+            {
+                  "name": "Musée ethnographique et de plein air de Parakou",
+                  "text": "This open-air ethnographic museum showcases the traditional housing and rich cultural heritage of the Borgou region.",
+                  "category": "museum",
+                  "coords": [
+                        2.618527,
+                        9.328973
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-BO",
     coords: [2.623, 9.340],
@@ -923,7 +2093,88 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "gare-parakou-landmarks-v2",
+    id: "gare-parakou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meunier",
+                  "text": "Diese Mühlenanlage in der Nähe des Bahnhofs Parakou ist Teil der lokalen Infrastruktur der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.652566,
+                        9.313686
+                  ]
+            },
+            {
+                  "name": "Place Bio Guerra",
+                  "text": "Dieser öffentliche Platz und das dazugehörige Denkmal ehren Bio Guera, einen berühmten Wasangari-Prinzen und Widerstandskämpfer.",
+                  "category": "historical",
+                  "coords": [
+                        2.636704,
+                        9.338623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meunier",
+                  "text": "A parakoui vasútállomás közelében található malomszerkezet a város helyi infrastruktúrájának része.",
+                  "category": "landmark",
+                  "coords": [
+                        2.652566,
+                        9.313686
+                  ]
+            },
+            {
+                  "name": "Place Bio Guerra",
+                  "text": "Ez a közösségi tér és emlékmű Bio Guera, egy híres wasangari herceg és ellenálló előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        2.636704,
+                        9.338623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meunier",
+                  "text": "Situată lângă gara din Parakou, această structură de morărit face parte din infrastructura locală a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        2.652566,
+                        9.313686
+                  ]
+            },
+            {
+                  "name": "Place Bio Guerra",
+                  "text": "Această piață publică și monumentul său îl onorează pe Bio Guera, un faimos prinț Wasangari și luptător de rezistență.",
+                  "category": "historical",
+                  "coords": [
+                        2.636704,
+                        9.338623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meunier",
+                  "text": "Situated near the Parakou railway station, this milling structure forms part of the city's local infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        2.652566,
+                        9.313686
+                  ]
+            },
+            {
+                  "name": "Place Bio Guerra",
+                  "text": "This public square and monument honors Bio Guera, a famous Wasangari prince who resisted colonial rule.",
+                  "category": "historical",
+                  "coords": [
+                        2.636704,
+                        9.338623
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-BO",
     coords: [2.636, 9.336],
@@ -970,7 +2221,52 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "monument-resistance-natitingou-landmarks-v2",
+    id: "monument-resistance-natitingou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Village artisanal de Natitingou",
+                  "text": "Die Handwerksattraktion fungiert als Zentrum für traditionelles Kunsthandwerk und lokal handgefertigte Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        1.380206,
+                        10.310552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Village artisanal de Natitingou",
+                  "text": "A kézműves látványosság a hagyományos mesterségek és a helyben készült, kézzel készített termékek központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        1.380206,
+                        10.310552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Village artisanal de Natitingou",
+                  "text": "Atracția artizanală funcționează ca un centru pentru meșteșugurile tradiționale și produsele lucrate manual pe plan local.",
+                  "category": "landmark",
+                  "coords": [
+                        1.380206,
+                        10.310552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Village artisanal de Natitingou",
+                  "text": "The artisan attraction functions as a hub for traditional crafts and locally handmade goods.",
+                  "category": "landmark",
+                  "coords": [
+                        1.380206,
+                        10.310552
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-AK",
     coords: [1.385, 10.302],
@@ -1017,7 +2313,88 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "place-reconciliation-ouidah-landmarks-v2",
+    id: "place-reconciliation-ouidah-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fosse commune, route des esclaves",
+                  "text": "Dieses Massengrab an der Sklavenroute von Ouidah ist ein Freilichtmuseum, das an diejenigen erinnert, die starben, bevor sie an Bord der Sklavenschiffe gingen.",
+                  "category": "museum",
+                  "coords": [
+                        2.089345,
+                        6.339719
+                  ]
+            },
+            {
+                  "name": "MEMORIAL ZOMACHI Cité de la diaspora (escale du retour)",
+                  "text": "Das Zomachi-Mahnmal in Ouidah ist ein beeindruckendes Denkmal, das der afrikanischen Diaspora gewidmet ist und Versöhnung sowie die emotionale Rückkehr der Nachkommen symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        2.088406,
+                        6.341241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fosse commune, route des esclaves",
+                  "text": "Ez a tömegsír az ouidah-i rabszolga-útvonal mentén egy szabadtéri múzeum, amely azoknak állít emléket, akik a rabszolgahajókra való felszállás előtt elpusztultak.",
+                  "category": "museum",
+                  "coords": [
+                        2.089345,
+                        6.339719
+                  ]
+            },
+            {
+                  "name": "MEMORIAL ZOMACHI Cité de la diaspora (escale du retour)",
+                  "text": "Az ouidah-i Zomachi-emlékmű az afrikai diaszpórának szentelt lenyűgöző emlékmű, amely a megbékélést és az utódok érzelmes hazatérését szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        2.088406,
+                        6.341241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fosse commune, route des esclaves",
+                  "text": "Această groapă comună de-a lungul rutei sclavilor din Ouidah este un muzeu în aer liber care comemorează pe cei care au pierit înainte de a urca pe navele de sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        2.089345,
+                        6.339719
+                  ]
+            },
+            {
+                  "name": "MEMORIAL ZOMACHI Cité de la diaspora (escale du retour)",
+                  "text": "Memorialul Zomachi din Ouidah este un monument impresionant dedicat diasporei africane, simbolizând reconcilierea și întoarcerea emoționantă a urmașilor.",
+                  "category": "historical",
+                  "coords": [
+                        2.088406,
+                        6.341241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fosse commune, route des esclaves",
+                  "text": "This mass grave site along the Ouidah Slave Route is an open-air museum memorializing those who perished before boarding the slave ships.",
+                  "category": "museum",
+                  "coords": [
+                        2.089345,
+                        6.339719
+                  ]
+            },
+            {
+                  "name": "MEMORIAL ZOMACHI Cité de la diaspora (escale du retour)",
+                  "text": "The Zomachi Memorial in Ouidah is a striking monument dedicated to the African diaspora, symbolising reconciliation and the emotional return of descendants.",
+                  "category": "historical",
+                  "coords": [
+                        2.088406,
+                        6.341241
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-AT",
     coords: [2.088, 6.344],
@@ -1064,7 +2441,160 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "monument-centenaire-evangelisation-ouidah-landmarks-v2",
+    id: "monument-centenaire-evangelisation-ouidah-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Coloniale du Gouverneur",
+                  "text": "Die Ruinen der ehemaligen Residenz des Kolonialgouverneurs in Ouidah.",
+                  "category": "historical",
+                  "coords": [
+                        2.073417,
+                        6.356015
+                  ]
+            },
+            {
+                  "name": "Maison de Mémoire (Maison du Brésil)",
+                  "text": "Ein Museum in Ouidah, das die historischen Verbindungen und den Sklavenhandel zwischen Benin und Brasilien dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        2.076086,
+                        6.356306
+                  ]
+            },
+            {
+                  "name": "Fort Français (no building left)",
+                  "text": "Die historischen Ruinen in Ouidah markieren die Stelle des ehemaligen französischen Forts, von dem keine Gebäude mehr übrig sind.",
+                  "category": "historical",
+                  "coords": [
+                        2.082124,
+                        6.359547
+                  ]
+            },
+            {
+                  "name": "Art Ziza",
+                  "text": "Eine Kunstgalerie in Ouidah, die zeitgenössische beninische Kunstwerke und lokales Kunsthandwerk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        2.081187,
+                        6.359106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Coloniale du Gouverneur",
+                  "text": "Az egykori gyarmati kormányzói rezidencia romjai Ouidah városában.",
+                  "category": "historical",
+                  "coords": [
+                        2.073417,
+                        6.356015
+                  ]
+            },
+            {
+                  "name": "Maison de Mémoire (Maison du Brésil)",
+                  "text": "Egy ouidahi múzeum, amely Benin és Brazília történelmi kapcsolatait és a rabszolgakereskedelmet dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        2.076086,
+                        6.356306
+                  ]
+            },
+            {
+                  "name": "Fort Français (no building left)",
+                  "text": "A történelmi romok az egykori francia erőd helyét jelölik Ouidahban, melynek mára már egyetlen épülete sem maradt fenn.",
+                  "category": "historical",
+                  "coords": [
+                        2.082124,
+                        6.359547
+                  ]
+            },
+            {
+                  "name": "Art Ziza",
+                  "text": "Művészeti galéria Ouidahban, amely kortárs benini alkotásokat és helyi kézműves termékeket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        2.081187,
+                        6.359106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Coloniale du Gouverneur",
+                  "text": "Ruinele fostei reședințe a guvernatorului colonial, situate în Ouidah.",
+                  "category": "historical",
+                  "coords": [
+                        2.073417,
+                        6.356015
+                  ]
+            },
+            {
+                  "name": "Maison de Mémoire (Maison du Brésil)",
+                  "text": "Un muzeu din Ouidah care documentează legăturile istorice și comerțul cu sclavi dintre Benin și Brazilia.",
+                  "category": "museum",
+                  "coords": [
+                        2.076086,
+                        6.356306
+                  ]
+            },
+            {
+                  "name": "Fort Français (no building left)",
+                  "text": "Ruinele istorice care marchează locul fostului fort francez din Ouidah, unde nu a mai rămas nicio clădire intactă.",
+                  "category": "historical",
+                  "coords": [
+                        2.082124,
+                        6.359547
+                  ]
+            },
+            {
+                  "name": "Art Ziza",
+                  "text": "O galerie de artă în Ouidah care expune opere de artă contemporană și meșteșuguri locale benineze.",
+                  "category": "museum",
+                  "coords": [
+                        2.081187,
+                        6.359106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Coloniale du Gouverneur",
+                  "text": "The ruins of a former colonial governor's residence located in Ouidah.",
+                  "category": "historical",
+                  "coords": [
+                        2.073417,
+                        6.356015
+                  ]
+            },
+            {
+                  "name": "Maison de Mémoire (Maison du Brésil)",
+                  "text": "A museum in Ouidah documenting the historical connections and slave trade between Benin and Brazil.",
+                  "category": "museum",
+                  "coords": [
+                        2.076086,
+                        6.356306
+                  ]
+            },
+            {
+                  "name": "Fort Français (no building left)",
+                  "text": "The historic ruins marking the site of the former French fort in Ouidah, with no buildings remaining.",
+                  "category": "historical",
+                  "coords": [
+                        2.082124,
+                        6.359547
+                  ]
+            },
+            {
+                  "name": "Art Ziza",
+                  "text": "An art gallery in Ouidah exhibiting local Beninese contemporary artworks and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        2.081187,
+                        6.359106
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-AT",
     coords: [2.083, 6.362],
@@ -1158,7 +2688,268 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "aeroport-cadjehoun-cotonou-landmarks-v2",
+    id: "aeroport-cadjehoun-cotonou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galérie Nour",
+                  "text": "Die Galérie Nour fungiert als künstlerischer Ausstellungsraum, der regionale Kunstwerke in aeroport-cadjehoun-cotonou-landmarks-v2 zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        2.400044,
+                        6.36406
+                  ]
+            },
+            {
+                  "name": "Place Calvaire",
+                  "text": "Der Place Calvaire ist eine Gedenkstätte, die sich durch ihr öffentliches Denkmal im Viertel aeroport-cadjehoun-cotonou-landmarks-v2 auszeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        2.371994,
+                        6.358127
+                  ]
+            },
+            {
+                  "name": "La galerie nationale",
+                  "text": "La galerie nationale dient als nationaler Museumsraum, der bedeutende kulturelle Sammlungen in aeroport-cadjehoun-cotonou-landmarks-v2 bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        2.391547,
+                        6.356651
+                  ]
+            },
+            {
+                  "name": "Monument Bio Guera",
+                  "text": "Dieses historische Denkmal in aeroport-cadjehoun-cotonou-landmarks-v2 erinnert an Bio Guera, eine verehrte Persönlichkeit, die sich der Kolonialherrschaft widersetzte.",
+                  "category": "historical",
+                  "coords": [
+                        2.387536,
+                        6.350166
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "Dream Beach ist eine Freizeitattraktion an der Küste mit Sandstränden in der Nähe von aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.387001,
+                        6.347233
+                  ]
+            },
+            {
+                  "name": "Avion sur la plage",
+                  "text": "Dieses geerdete Flugzeug dient als einzigartiges Museumsexponat und ist direkt am Strand in aeroport-cadjehoun-cotonou-landmarks-v2 ausgestellt.",
+                  "category": "museum",
+                  "coords": [
+                        2.379782,
+                        6.347635
+                  ]
+            },
+            {
+                  "name": "Centre international de conférence",
+                  "text": "Das Centre international de conférence ist ein großer Veranstaltungsort, der für wichtige diplomatische und geschäftliche Zusammenkünfte in aeroport-cadjehoun-cotonou-landmarks-v2 errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        2.39676,
+                        6.349766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galérie Nour",
+                  "text": "A Galérie Nour művészeti kiállítótérként működik, ahol regionális alkotásokat mutatnak be az aeroport-cadjehoun-cotonou-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.400044,
+                        6.36406
+                  ]
+            },
+            {
+                  "name": "Place Calvaire",
+                  "text": "A Place Calvaire egy emlékhely, amelyet a nyilvános emlékmű szerkezete jellemez az aeroport-cadjehoun-cotonou-landmarks-v2 negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        2.371994,
+                        6.358127
+                  ]
+            },
+            {
+                  "name": "La galerie nationale",
+                  "text": "A La galerie nationale nemzeti múzeumi térként szolgál, amely jelentős kulturális gyűjteményeket őriz az aeroport-cadjehoun-cotonou-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.391547,
+                        6.356651
+                  ]
+            },
+            {
+                  "name": "Monument Bio Guera",
+                  "text": "Ez az aeroport-cadjehoun-cotonou-landmarks-v2-ben található történelmi emlékmű Bio Guerának, a gyarmati uralomnak ellenálló tiszteletreméltó alaknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        2.387536,
+                        6.350166
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "A Dream beach egy tengerparti szabadidős látványosság, amely homokos partokat kínál az aeroport-cadjehoun-cotonou-landmarks-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.387001,
+                        6.347233
+                  ]
+            },
+            {
+                  "name": "Avion sur la plage",
+                  "text": "Egyedülálló múzeumi kiállításként ez a földet ért repülőgép közvetlenül a strandon van kiállítva az aeroport-cadjehoun-cotonou-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.379782,
+                        6.347635
+                  ]
+            },
+            {
+                  "name": "Centre international de conférence",
+                  "text": "A Centre international de conférence egy nagyszabású rendezvényhelyszín, amely jelentős diplomáciai és üzleti összejövetelek lebonyolítására épült az aeroport-cadjehoun-cotonou-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        2.39676,
+                        6.349766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galérie Nour",
+                  "text": "Galérie Nour funcționează ca un spațiu expozițional artistic care expune lucrări de artă regionale în aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.400044,
+                        6.36406
+                  ]
+            },
+            {
+                  "name": "Place Calvaire",
+                  "text": "Place Calvaire este un loc memorial caracterizat prin structura sa de monument public în districtul aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        2.371994,
+                        6.358127
+                  ]
+            },
+            {
+                  "name": "La galerie nationale",
+                  "text": "La galerie nationale servește ca un spațiu muzeal național care conservă colecții culturale semnificative în aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.391547,
+                        6.356651
+                  ]
+            },
+            {
+                  "name": "Monument Bio Guera",
+                  "text": "Acest monument istoric din aeroport-cadjehoun-cotonou-landmarks-v2 îl comemorează pe Bio Guera, o figură venerată care a rezistat dominației coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        2.387536,
+                        6.350166
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "Dream beach este o atracție de recreere pe coastă care oferă țărmuri nisipoase în apropiere de aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.387001,
+                        6.347233
+                  ]
+            },
+            {
+                  "name": "Avion sur la plage",
+                  "text": "Servind ca o expoziție muzeală unică, acest avion la sol este expus direct pe plaja din aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.379782,
+                        6.347635
+                  ]
+            },
+            {
+                  "name": "Centre international de conférence",
+                  "text": "Centre international de conférence este o locație de evenimente la scară largă, construită pentru a găzdui adunări diplomatice și de afaceri majore în aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.39676,
+                        6.349766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galérie Nour",
+                  "text": "The Galérie Nour functions as an artistic exhibition space displaying regional artworks in aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.400044,
+                        6.36406
+                  ]
+            },
+            {
+                  "name": "Place Calvaire",
+                  "text": "Place Calvaire is a memorial site characterized by its public monument structure in the aeroport-cadjehoun-cotonou-landmarks-v2 district.",
+                  "category": "historical",
+                  "coords": [
+                        2.371994,
+                        6.358127
+                  ]
+            },
+            {
+                  "name": "La galerie nationale",
+                  "text": "La galerie nationale serves as a national museum space preserving significant cultural collections in aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.391547,
+                        6.356651
+                  ]
+            },
+            {
+                  "name": "Monument Bio Guera",
+                  "text": "This historical monument in aeroport-cadjehoun-cotonou-landmarks-v2 commemorates Bio Guera, a revered figure who resisted colonial rule.",
+                  "category": "historical",
+                  "coords": [
+                        2.387536,
+                        6.350166
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "Dream beach is a coastal recreational attraction offering sandy shores near the aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.387001,
+                        6.347233
+                  ]
+            },
+            {
+                  "name": "Avion sur la plage",
+                  "text": "Serving as a unique museum exhibit, this grounded airplane is displayed directly on the beach in aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.379782,
+                        6.347635
+                  ]
+            },
+            {
+                  "name": "Centre international de conférence",
+                  "text": "The Centre international de conférence is a large-scale event venue built to host major diplomatic and business gatherings in aeroport-cadjehoun-cotonou-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        2.39676,
+                        6.349766
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.392, 6.359],

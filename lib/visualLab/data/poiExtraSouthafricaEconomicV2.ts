@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthafricaEconomicV2: POI[] = [
   {
-    id: "port-of-durban-economic-v2",
+    id: "port-of-durban-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cooper's Lighthouse",
+                  "text": "Dieser nautische Leuchtturm in der Nähe der Hafeneinfahrt führt den Seeverkehr sicher in den geschäftigen Hafen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.005032,
+                        -29.935659
+                  ]
+            },
+            {
+                  "name": "Bluff Nature Reserve",
+                  "text": "Dieses in einer Industriezone eingebettete Küstennaturschutzgebiet verfügt über eine Pfannenumgebung, die eine reiche Feuchtgebietsvogelwelt anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        30.993611,
+                        -29.933889
+                  ]
+            },
+            {
+                  "name": "Tidal Pool",
+                  "text": "Dieser in die felsige Küste gehauene Beton-Wasserparkpool bietet eine geschützte und ruhige Schwimmumgebung, die vor Meeresströmungen geschützt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        31.013359,
+                        -29.933286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cooper's Lighthouse",
+                  "text": "A kikötő bejárata közelében elhelyezkedő navigációs világítótorony biztonságosan irányítja a tengeri forgalmat a forgalmas kikötőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        31.005032,
+                        -29.935659
+                  ]
+            },
+            {
+                  "name": "Bluff Nature Reserve",
+                  "text": "Az ipari övezetben fészkelő tengerparti természetvédelmi terület egy medencés környezettel rendelkezik, amely bőséges vizes élőhelyi madárvilágot vonz.",
+                  "category": "natural",
+                  "coords": [
+                        30.993611,
+                        -29.933889
+                  ]
+            },
+            {
+                  "name": "Tidal Pool",
+                  "text": "A sziklás partvonalba vájt beton vízipark-medence védett és nyugodt úszási környezetet kínál az óceáni áramlatoktól óvva.",
+                  "category": "recreational",
+                  "coords": [
+                        31.013359,
+                        -29.933286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cooper's Lighthouse",
+                  "text": "Poziționat lângă intrarea în port, acest far de navigație ghidează în siguranță traficul maritim în portul aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.005032,
+                        -29.935659
+                  ]
+            },
+            {
+                  "name": "Bluff Nature Reserve",
+                  "text": "Amplasată într-o zonă industrială, această rezervație naturală de coastă prezintă un mediu de depresiune care atrage o abundență de păsări de zonă umedă.",
+                  "category": "natural",
+                  "coords": [
+                        30.993611,
+                        -29.933889
+                  ]
+            },
+            {
+                  "name": "Tidal Pool",
+                  "text": "Tăiată în țărmul stâncos, această piscină din beton de tip parc acvatic oferă un mediu de înot adăpostit și calm, protejat de curenții oceanici.",
+                  "category": "recreational",
+                  "coords": [
+                        31.013359,
+                        -29.933286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cooper's Lighthouse",
+                  "text": "Positioned near the port entrance, this navigational lighthouse guides maritime traffic safely into the busy harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        31.005032,
+                        -29.935659
+                  ]
+            },
+            {
+                  "name": "Bluff Nature Reserve",
+                  "text": "Nestled in an industrial zone, this coastal nature reserve features a pan environment that attracts abundant wetland birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        30.993611,
+                        -29.933889
+                  ]
+            },
+            {
+                  "name": "Tidal Pool",
+                  "text": "Cut into the rocky shoreline, this concrete water park pool offers a sheltered and calm swimming environment protected from ocean currents.",
+                  "category": "recreational",
+                  "coords": [
+                        31.013359,
+                        -29.933286
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZA-KZN",
     coords: [31.028, -29.873],
@@ -39,7 +156,124 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-richards-bay-economic-v2",
+    id: "port-of-richards-bay-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Richards Bay",
+                  "text": "Diese ausgedehnte Küstenbucht liegt an einer tiefen natürlichen Lagune und wird stark als einer der wichtigsten Industriehäfen des Landes genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058333,
+                        -28.801111
+                  ]
+            },
+            {
+                  "name": "Richards Bay Game Reserve",
+                  "text": "Dieses Naturschutzgebiet umfasst Küstendünen und Mündungsökosysteme und schützt die dynamische Umgebung in der Nähe des Tiefwasserhafens.",
+                  "category": "natural",
+                  "coords": [
+                        32.020548,
+                        -28.827326
+                  ]
+            },
+            {
+                  "name": "Alkantstrand",
+                  "text": "Dieser beliebte Sandstrand dient als Hauptschimmziel in Richards Bay und ist gut mit Freizeiteinrichtungen an der Küste ausgestattet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.101431,
+                        -28.797067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Richards Bay",
+                  "text": "A mély természetes lagúnán fekvő tágas tengerparti öböl az ország egyik elsődleges ipari kikötőjeként erősen kihasznált.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058333,
+                        -28.801111
+                  ]
+            },
+            {
+                  "name": "Richards Bay Game Reserve",
+                  "text": "A tengerparti dűnéket és torkolati ökoszisztémákat magában foglaló természetvédelmi terület a mélyvízi kikötő melletti dinamikus környezetet védi.",
+                  "category": "natural",
+                  "coords": [
+                        32.020548,
+                        -28.827326
+                  ]
+            },
+            {
+                  "name": "Alkantstrand",
+                  "text": "A Richards Bay fő úszási célpontjaként szolgáló népszerű homokos strand jól felszerelt tengerparti szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        32.101431,
+                        -28.797067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Richards Bay",
+                  "text": "Situat pe o lagună naturală adâncă, acest golf extins de coastă este intens utilizat ca unul dintre principalele porturi industriale ale țării.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058333,
+                        -28.801111
+                  ]
+            },
+            {
+                  "name": "Richards Bay Game Reserve",
+                  "text": "Cuprinzând dune de coastă și ecosisteme estuare, această rezervație naturală protejează mediul dinamic adiacent portului de ape adânci.",
+                  "category": "natural",
+                  "coords": [
+                        32.020548,
+                        -28.827326
+                  ]
+            },
+            {
+                  "name": "Alkantstrand",
+                  "text": "Servind drept principala destinație de înot din Richards Bay, această plajă populară cu nisip este bine echipată cu facilități de agrement de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        32.101431,
+                        -28.797067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Richards Bay",
+                  "text": "Situated on a deep natural lagoon, this expansive coastal bay is heavily utilized as one of the country's primary industrial ports.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058333,
+                        -28.801111
+                  ]
+            },
+            {
+                  "name": "Richards Bay Game Reserve",
+                  "text": "Encompassing coastal dunes and estuarine ecosystems, this nature reserve protects the dynamic environment adjacent to the deep-water port.",
+                  "category": "natural",
+                  "coords": [
+                        32.020548,
+                        -28.827326
+                  ]
+            },
+            {
+                  "name": "Alkantstrand",
+                  "text": "Serving as the main swimming destination in Richards Bay, this popular sandy beach is well-equipped with coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        32.101431,
+                        -28.797067
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZA-KZN",
     coords: [32.028, -28.794],
@@ -75,7 +309,520 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-cape-town-economic-v2",
+    id: "port-of-cape-town-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Die Überreste eines gestrandeten Schiffes am Strand zeugen von der gefährlichen Küstenlinie der Tafelbucht.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480262,
+                        -33.830012
+                  ]
+            },
+            {
+                  "name": "Rietvlei Wetland Reserve",
+                  "text": "Das Rietvlei Wetland Reserve ist ein großes Naturschutzgebiet, das zahlreichen Wasservögeln in Kapstadt Lebensraum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.499867,
+                        -33.845736
+                  ]
+            },
+            {
+                  "name": "Milnerton Lighthouse",
+                  "text": "Der zylindrische Milnerton Lighthouse warnt Schiffe vor den tückischen Stränden der Tafelbucht.",
+                  "category": "landmark",
+                  "coords": [
+                        18.487781,
+                        -33.881708
+                  ]
+            },
+            {
+                  "name": "Zonnekus Mansion",
+                  "text": "Die Zonnekus Mansion ist ein historisches Herrenhaus, das auf der malerischen Woodbridge Island erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        18.485658,
+                        -33.884908
+                  ]
+            },
+            {
+                  "name": "Japanese Koi Fish Lookout",
+                  "text": "Der Japanese Koi Fish Lookout ist ein friedlicher Aussichtspunkt in Kapstadt, der der Beobachtung von Zierfischen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        18.487941,
+                        -33.883998
+                  ]
+            },
+            {
+                  "name": "Tafelbucht",
+                  "text": "Die Tafelbucht ist ein natürlicher Meeresarm des Atlantiks, der die historische Küstenlinie von Kapstadt bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.459722,
+                        -33.891667
+                  ]
+            },
+            {
+                  "name": "Milnerton Waterpark",
+                  "text": "Ein lokaler Wasserpark, der Planschbecken und Wasserrutschen in der Region Kapstadt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487274,
+                        -33.827272
+                  ]
+            },
+            {
+                  "name": "Intaka Island",
+                  "text": "Ein 16 Hektar großes Feuchtgebiet und Vogelschutzgebiet inmitten der Bebauung von Century City.",
+                  "category": "natural",
+                  "coords": [
+                        18.515932,
+                        -33.888304
+                  ]
+            },
+            {
+                  "name": "Table Bay Nature Reserve",
+                  "text": "Ein Küstennaturschutzgebiet, das die Rietvlei-Feuchtgebiete und die umliegenden Lebensräume an der Tafelbucht schützt.",
+                  "category": "natural",
+                  "coords": [
+                        18.499639,
+                        -33.848261
+                  ]
+            },
+            {
+                  "name": "Milnerton Playhouse Theatre",
+                  "text": "Ein Gemeinschaftstheater, das die Region Milnerton mit Bühnenproduktionen bereichert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.496903,
+                        -33.868039
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Ein Sandstrand am Atlantik, der für seinen freien Blick auf den Sonnenuntergang und den Tafelberg bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488547,
+                        -33.856417
+                  ]
+            },
+            {
+                  "name": "Milnerton Racecourse Nature Reserve",
+                  "text": "Ein geschütztes Naturschutzgebiet, das direkt auf dem Gelände der ehemaligen Pferderennbahn Milnerton eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        18.509434,
+                        -33.858959
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "Eine erhöhte Aussichtsplattform, die einen Panoramablick auf die angrenzenden Feuchtgebiete an der Küste und das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.514627,
+                        -33.88794
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Ein Sandstrand, der sich genau dort befindet, wo das Wasser der Milnerton-Lagune auf den Atlantischen Ozean trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480875,
+                        -33.894149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Egy megfeneklett hajó roncsai a strandon a Tábla-öböl veszélyes partvonaláról tanúskodnak.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480262,
+                        -33.830012
+                  ]
+            },
+            {
+                  "name": "Rietvlei Wetland Reserve",
+                  "text": "A Rietvlei Wetland Reserve egy nagy kiterjedésű természetvédelmi terület, amely számos vízimadárnak ad otthont Fokvárosban.",
+                  "category": "natural",
+                  "coords": [
+                        18.499867,
+                        -33.845736
+                  ]
+            },
+            {
+                  "name": "Milnerton Lighthouse",
+                  "text": "A hengeres Milnerton világítótorony a Tábla-öböl alattomos strandjaira figyelmezteti a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.487781,
+                        -33.881708
+                  ]
+            },
+            {
+                  "name": "Zonnekus Mansion",
+                  "text": "A Zonnekus Mansion egy történelmi kastély, amely a festői Woodbridge-szigeten épült.",
+                  "category": "historical",
+                  "coords": [
+                        18.485658,
+                        -33.884908
+                  ]
+            },
+            {
+                  "name": "Japanese Koi Fish Lookout",
+                  "text": "A japán koi hal megfigyelő egy békés kilátópont Fokvárosban, amelyet a díszhalak megtekintésének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        18.487941,
+                        -33.883998
+                  ]
+            },
+            {
+                  "name": "Tábla-öböl",
+                  "text": "A Tábla-öböl az Atlanti-óceán természetes öble, amely Fokváros történelmi partvonalát alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        18.459722,
+                        -33.891667
+                  ]
+            },
+            {
+                  "name": "Milnerton Waterpark",
+                  "text": "Egy helyi vízipark, amely medencéket és csúszdákat kínál Fokváros térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487274,
+                        -33.827272
+                  ]
+            },
+            {
+                  "name": "Intaka Island",
+                  "text": "Egy 16 hektáros vizes élőhely és madárrezervátum a Century City negyedben.",
+                  "category": "natural",
+                  "coords": [
+                        18.515932,
+                        -33.888304
+                  ]
+            },
+            {
+                  "name": "Table Bay Nature Reserve",
+                  "text": "A Rietvlei vizes élőhelyeit és a Table Bay menti élőhelyeket védő tengerparti természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        18.499639,
+                        -33.848261
+                  ]
+            },
+            {
+                  "name": "Milnerton Playhouse Theatre",
+                  "text": "A helyi Milnerton területét amatőr és profi színpadi produkciókkal kiszolgáló közösségi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        18.496903,
+                        -33.868039
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Az Atlanti-óceán mentén fekvő homokos partszakasz, amely a lenyugvó napra és a Tábla-hegyre nyíló zavartalan kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488547,
+                        -33.856417
+                  ]
+            },
+            {
+                  "name": "Milnerton Racecourse Nature Reserve",
+                  "text": "A korábbi Milnerton lóversenypálya területén kialakított védett természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        18.509434,
+                        -33.858959
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "Egy megemelt kilátóterasz, amely panorámás kilátást nyújt a szomszédos tengerparti vizes élőhelyekre és az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        18.514627,
+                        -33.88794
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Homokos strand pontosan ott, ahol a Milnerton-lagúna vize találkozik az Atlanti-óceánnal.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480875,
+                        -33.894149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Rămășițele unei nave eșuate pe plajă stau mărturie liniei de coastă periculoase a Golfului Table.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480262,
+                        -33.830012
+                  ]
+            },
+            {
+                  "name": "Rietvlei Wetland Reserve",
+                  "text": "Rezervația Rietvlei Wetland este o mare zonă naturală protejată care adăpostește numeroase păsări de apă în Cape Town.",
+                  "category": "natural",
+                  "coords": [
+                        18.499867,
+                        -33.845736
+                  ]
+            },
+            {
+                  "name": "Milnerton Lighthouse",
+                  "text": "Farul cilindric Milnerton avertizează navele despre plajele periculoase ale Golfului Table.",
+                  "category": "landmark",
+                  "coords": [
+                        18.487781,
+                        -33.881708
+                  ]
+            },
+            {
+                  "name": "Zonnekus Mansion",
+                  "text": "Conacul Zonnekus este o reședință istorică impresionantă construită pe pitoreasca insulă Woodbridge.",
+                  "category": "historical",
+                  "coords": [
+                        18.485658,
+                        -33.884908
+                  ]
+            },
+            {
+                  "name": "Japanese Koi Fish Lookout",
+                  "text": "Punctul de observație pentru peștii koi japonezi este un loc pașnic din Cape Town dedicat vizionării peștilor ornamentali.",
+                  "category": "historical",
+                  "coords": [
+                        18.487941,
+                        -33.883998
+                  ]
+            },
+            {
+                  "name": "Table Bay",
+                  "text": "Golful Table este o intrare naturală a Oceanului Atlantic care modelează coasta istorică a orașului Cape Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.459722,
+                        -33.891667
+                  ]
+            },
+            {
+                  "name": "Milnerton Waterpark",
+                  "text": "Un parc acvatic local care oferă piscine și tobogane cu apă în zona Cape Town.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487274,
+                        -33.827272
+                  ]
+            },
+            {
+                  "name": "Intaka Island",
+                  "text": "O zonă umedă de 16 hectare și un sanctuar de păsări situat în cadrul complexului Century City.",
+                  "category": "natural",
+                  "coords": [
+                        18.515932,
+                        -33.888304
+                  ]
+            },
+            {
+                  "name": "Table Bay Nature Reserve",
+                  "text": "O rezervație naturală de coastă care protejează zonele umede Rietvlei și habitatele din jurul Golfului Table.",
+                  "category": "natural",
+                  "coords": [
+                        18.499639,
+                        -33.848261
+                  ]
+            },
+            {
+                  "name": "Milnerton Playhouse Theatre",
+                  "text": "Un teatru comunitar care deservește zona locală Milnerton cu producții de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        18.496903,
+                        -33.868039
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "O fâșie de coastă nisipoasă de-a lungul Oceanului Atlantic, populară pentru priveliștile sale neobstrucționate asupra apusului și a Muntelui Table.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488547,
+                        -33.856417
+                  ]
+            },
+            {
+                  "name": "Milnerton Racecourse Nature Reserve",
+                  "text": "O rezervație naturală protejată, înființată chiar pe terenul fostului hipodrom Milnerton.",
+                  "category": "natural",
+                  "coords": [
+                        18.509434,
+                        -33.858959
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "O platformă de observație ridicată care oferă vederi panoramice asupra zonelor umede de coastă adiacente și a oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        18.514627,
+                        -33.88794
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "O plajă cu nisip situată exact acolo unde apele lagunei Milnerton se întâlnesc cu Oceanul Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480875,
+                        -33.894149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shipwreck",
+                  "text": "The remnants of a shipwreck stranded on the beach serve as a testament to the hazardous coastline of Table Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480262,
+                        -33.830012
+                  ]
+            },
+            {
+                  "name": "Rietvlei Wetland Reserve",
+                  "text": "Rietvlei Wetland Reserve is a large natural sanctuary providing crucial habitat for numerous waterbirds in Cape Town.",
+                  "category": "natural",
+                  "coords": [
+                        18.499867,
+                        -33.845736
+                  ]
+            },
+            {
+                  "name": "Milnerton Lighthouse",
+                  "text": "The cylindrical Milnerton Lighthouse warns maritime traffic of the treacherous beaches along Table Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        18.487781,
+                        -33.881708
+                  ]
+            },
+            {
+                  "name": "Zonnekus Mansion",
+                  "text": "Zonnekus Mansion is a historic manor house situated prominently on the scenic Woodbridge Island.",
+                  "category": "historical",
+                  "coords": [
+                        18.485658,
+                        -33.884908
+                  ]
+            },
+            {
+                  "name": "Japanese Koi Fish Lookout",
+                  "text": "The Japanese Koi Fish Lookout is a tranquil vantage point in Cape Town dedicated to observing ornamental fish.",
+                  "category": "historical",
+                  "coords": [
+                        18.487941,
+                        -33.883998
+                  ]
+            },
+            {
+                  "name": "Table Bay",
+                  "text": "Table Bay is a natural inlet of the Atlantic Ocean that defines the historic maritime coastline of Cape Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.459722,
+                        -33.891667
+                  ]
+            },
+            {
+                  "name": "Milnerton Waterpark",
+                  "text": "A local water park offering splash pools and water slides in the Cape Town area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487274,
+                        -33.827272
+                  ]
+            },
+            {
+                  "name": "Intaka Island",
+                  "text": "A 16-hectare wetland and bird sanctuary situated within the Century City development.",
+                  "category": "natural",
+                  "coords": [
+                        18.515932,
+                        -33.888304
+                  ]
+            },
+            {
+                  "name": "Table Bay Nature Reserve",
+                  "text": "A coastal nature reserve protecting the Rietvlei wetlands and surrounding habitats along Table Bay.",
+                  "category": "natural",
+                  "coords": [
+                        18.499639,
+                        -33.848261
+                  ]
+            },
+            {
+                  "name": "Milnerton Playhouse Theatre",
+                  "text": "A community theatre serving the local Milnerton area with amateur and professional stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        18.496903,
+                        -33.868039
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "A sandy coastal stretch along the Atlantic Ocean, popular for its unobstructed views of the setting sun and Table Mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488547,
+                        -33.856417
+                  ]
+            },
+            {
+                  "name": "Milnerton Racecourse Nature Reserve",
+                  "text": "A protected nature reserve established directly within the grounds of the former Milnerton Racecourse.",
+                  "category": "natural",
+                  "coords": [
+                        18.509434,
+                        -33.858959
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "An elevated observation deck offering panoramic views over the adjacent coastal wetlands and ocean.",
+                  "category": "natural",
+                  "coords": [
+                        18.514627,
+                        -33.88794
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "A sandy beach situated exactly where the Milnerton lagoon's waters meet the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        18.480875,
+                        -33.894149
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZA-WC",
     coords: [18.435, -33.902],
@@ -111,7 +858,556 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-gqeberha-economic-v2",
+    id: "port-of-gqeberha-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "05P Container Terminal",
+                  "text": "Das 05P-Containerterminal im Hafen von Gqeberha ist eine riesige, geschäftige Industriezone, in der riesige Kräne effizient die weltweite Schiffsfracht umschlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636604,
+                        -33.95736
+                  ]
+            },
+            {
+                  "name": "Splash Waterworld",
+                  "text": "Splash Waterworld in Gqeberha ist ein familienfreundlicher Vergnügungspark mit einem Netzwerk aus geschwungenen Wasserrutschen und großen Swimmingpools direkt in Strandnähe.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645056,
+                        -33.971913
+                  ]
+            },
+            {
+                  "name": "Bayworld: PE Museum",
+                  "text": "Bayworld: Das PE Museum in Gqeberha ist ein großer natur- und kulturhistorischer Komplex, der für seine beeindruckenden Ausstellungen von Meeresskeletten und Ozeanarien bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.648558,
+                        -33.977354
+                  ]
+            },
+            {
+                  "name": "Summerstrand Beacon",
+                  "text": "Der Summerstrand Beacon in Gqeberha fungiert als markantes Küstennavigationszeichen und bietet Besuchern einen weiten, ununterbrochenen Blick über den glitzernden Indischen Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        25.676036,
+                        -33.991226
+                  ]
+            },
+            {
+                  "name": "Piet Retief Monument",
+                  "text": "Das Piet Retief Monument in Gqeberha ist ein robustes steinernes Denkmal, das dem einflussreichen Voortrekker-Führer und seiner bedeutenden Rolle in der Pioniergeschichte Südafrikas gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.669424,
+                        -33.986036
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela \"Madiba Shirt\" Monument",
+                  "text": "Ein einzigartiges Kunstwerk aus Metall, das den südafrikanischen Freiheitskämpfer ehrt, indem es sein ikonisches buntes Hemd stilisiert.",
+                  "category": "historical",
+                  "coords": [
+                        25.670457,
+                        -34.009034
+                  ]
+            },
+            {
+                  "name": "Pine Lodge Resort and Conference Centre",
+                  "text": "Ein ausgedehntes Küstenresort mit freistehenden Holzhütten, das sich direkt neben den Dünen des Indischen Ozeans befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.688473,
+                        -34.009193
+                  ]
+            },
+            {
+                  "name": "King's Beach",
+                  "text": "Ein breiter, sandiger Küstenabschnitt, der bei einheimischen Familien wegen seiner sanften Wellen und langen Promenaden beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645662,
+                        -33.968662
+                  ]
+            },
+            {
+                  "name": "McArthur Baths Swimming Pool Complex",
+                  "text": "Eine weitläufige Freiluft-Badeanlage mit Süßwasser- und Salzwasserbecken, die sich direkt an der Meeresfront erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.648051,
+                        -33.975714
+                  ]
+            },
+            {
+                  "name": "Humewood Beach",
+                  "text": "Ein geschützter Sandstrand, der oft für seine hervorragende Wasserqualität und seine sicheren Badebedingungen mit der Blauen Flagge ausgezeichnet wird.",
+                  "category": "recreational",
+                  "coords": [
+                        25.653095,
+                        -33.978493
+                  ]
+            },
+            {
+                  "name": "Pollock Beach",
+                  "text": "Ein für seine guten Wellen bekannter Küstenabschnitt, der vor allem bei Surfern aus der Umgebung sehr geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        25.672968,
+                        -33.986699
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Eine raue, felsige Küstenformation, an der oft große Scharen von Meeresvögeln im salzigen Sprühnebel der Ozeanwellen ruhen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.667256,
+                        -33.982963
+                  ]
+            },
+            {
+                  "name": "Cape Recife Nature Reserve",
+                  "text": "Ein unberührtes Küstenschutzgebiet mit einem historischen Leuchtturm und einer rauen Landschaft aus Sanddünen und Fynbos-Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        25.684984,
+                        -34.022757
+                  ]
+            },
+            {
+                  "name": "Hobie Beach",
+                  "text": "Ein lebhafter Sandstrand am Shark Rock Pier, der oft als Austragungsort für Wassersportwettbewerbe und Strandfestivals dient.",
+                  "category": "recreational",
+                  "coords": [
+                        25.659788,
+                        -33.980974
+                  ]
+            },
+            {
+                  "name": "Happy Valley Nature Reserve",
+                  "text": "Ein kleines, parkähnliches Naturschutzgebiet mit schattigen Spazierwegen, die sich durch ein üppig grünes Flusstal schlängeln.",
+                  "category": "natural",
+                  "coords": [
+                        25.647721,
+                        -33.983798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "05P Container Terminal",
+                  "text": "A Gqeberha kikötőjében található 05P konténerterminál egy hatalmas, nyüzsgő ipari övezet, ahol óriási daruk hatékonyan dolgozzák fel a globális hajózási rakományt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636604,
+                        -33.95736
+                  ]
+            },
+            {
+                  "name": "Splash Waterworld",
+                  "text": "A Gqeberhai Splash Waterworld egy családbarát vidámpark, amely hurok alakú vízicsúszdák hálózatával és nagy úszómedencékkel várja a látogatókat közvetlenül a strand közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645056,
+                        -33.971913
+                  ]
+            },
+            {
+                  "name": "Bayworld: PE Museum",
+                  "text": "Bayworld: A Gqeberhai PE Múzeum egy nagy természet- és kultúrtörténeti komplexum, amely lenyűgöző tengericsontváz-kiállításairól és óceanáriumi bemutatóiról híres.",
+                  "category": "museum",
+                  "coords": [
+                        25.648558,
+                        -33.977354
+                  ]
+            },
+            {
+                  "name": "Summerstrand Beacon",
+                  "text": "A Gqeberhai Summerstrand Beacon egy kiemelkedő partvidéki navigációs jelzőként szolgál, amely elsöprő, zavartalan kilátást nyújt a csillogó Indiai-óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        25.676036,
+                        -33.991226
+                  ]
+            },
+            {
+                  "name": "Piet Retief Monument",
+                  "text": "A Gqeberhai Piet Retief-emlékmű egy robusztus kőemlékmű, amelyet a befolyásos Voortrekker vezetőnek és a dél-afrikai pionír történelemben játszott jelentős szerepének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        25.669424,
+                        -33.986036
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela \"Madiba Shirt\" Monument",
+                  "text": "Egy egyedülálló fém emlékmű, amely a dél-afrikai szabadságharcost ikonikus színes ingének stilizálásával tiszteli meg.",
+                  "category": "historical",
+                  "coords": [
+                        25.670457,
+                        -34.009034
+                  ]
+            },
+            {
+                  "name": "Pine Lodge Resort and Conference Centre",
+                  "text": "Egy kiterjedt tengerparti üdülőhely szabadon álló faházakkal, közvetlenül az Indiai-óceán homokdűnéi mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        25.688473,
+                        -34.009193
+                  ]
+            },
+            {
+                  "name": "King's Beach",
+                  "text": "Széles, homokos partszakasz, amely szelíd hullámai és hosszú sétánya miatt népszerű a helyi családok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645662,
+                        -33.968662
+                  ]
+            },
+            {
+                  "name": "McArthur Baths Swimming Pool Complex",
+                  "text": "Tágas szabadtéri fürdőkomplexum édesvizű és sósvizű medencékkel, amely közvetlenül a tengerparton terül el.",
+                  "category": "recreational",
+                  "coords": [
+                        25.648051,
+                        -33.975714
+                  ]
+            },
+            {
+                  "name": "Humewood Beach",
+                  "text": "Egy védett homokos strand, amely kiváló vízminősége és biztonságos fürdési lehetőségei miatt gyakran kap Kék Zászló elismerést.",
+                  "category": "recreational",
+                  "coords": [
+                        25.653095,
+                        -33.978493
+                  ]
+            },
+            {
+                  "name": "Pollock Beach",
+                  "text": "A jó hullámairól ismert partszakasz, amelyet különösen a helyi szörfösök kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        25.672968,
+                        -33.986699
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Egy zord, sziklás part menti képződmény, ahol gyakran nagy tengeri madárrajok pihennek az óceán hullámainak sós permetében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.667256,
+                        -33.982963
+                  ]
+            },
+            {
+                  "name": "Cape Recife Nature Reserve",
+                  "text": "Érintetlen tengerparti természetvédelmi terület egy történelmi világítótoronnyal, homokdűnékkel és fynbos növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        25.684984,
+                        -34.022757
+                  ]
+            },
+            {
+                  "name": "Hobie Beach",
+                  "text": "Nyüzsgő homokos strand a Shark Rock mólónál, amely gyakran ad otthont vízi sportversenyeknek és strandfesztiváloknak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.659788,
+                        -33.980974
+                  ]
+            },
+            {
+                  "name": "Happy Valley Nature Reserve",
+                  "text": "Kis, parkszerű természetvédelmi terület árnyékos sétányokkal, amelyek egy buja zöld folyóvölgyön kanyarognak keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        25.647721,
+                        -33.983798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "05P Container Terminal",
+                  "text": "Terminalul de containere 05P din Port of Gqeberha este o zonă industrială masivă și agitată, unde macarale gigantice procesează eficient transportul maritim global.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636604,
+                        -33.95736
+                  ]
+            },
+            {
+                  "name": "Splash Waterworld",
+                  "text": "Splash Waterworld din Gqeberha este un parc de distracții pentru familii, care oferă o rețea de tobogane de apă buclate și piscine mari chiar lângă plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645056,
+                        -33.971913
+                  ]
+            },
+            {
+                  "name": "Bayworld: PE Museum",
+                  "text": "Bayworld: Muzeul PE din Gqeberha este un complex vast de istorie naturală și culturală, renumit pentru expozițiile sale impresionante de schelete marine și acvariile oceanice.",
+                  "category": "museum",
+                  "coords": [
+                        25.648558,
+                        -33.977354
+                  ]
+            },
+            {
+                  "name": "Summerstrand Beacon",
+                  "text": "Farul de la Summerstrand din Gqeberha acționează ca un marcator de navigație de coastă proeminent, oferind vizitatorilor o vedere panoramică, neîntreruptă asupra strălucitorului Ocean Indian.",
+                  "category": "natural",
+                  "coords": [
+                        25.676036,
+                        -33.991226
+                  ]
+            },
+            {
+                  "name": "Piet Retief Monument",
+                  "text": "Monumentul Piet Retief din Gqeberha este un memorial robust din piatră dedicat influentului lider Voortrekker și rolului său semnificativ în istoria pionierilor sud-africani.",
+                  "category": "historical",
+                  "coords": [
+                        25.669424,
+                        -33.986036
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela \"Madiba Shirt\" Monument",
+                  "text": "Un monument unic din metal care îl onorează pe luptătorul sud-african pentru libertate prin stilizarea emblematicei sale cămăși colorate.",
+                  "category": "historical",
+                  "coords": [
+                        25.670457,
+                        -34.009034
+                  ]
+            },
+            {
+                  "name": "Pine Lodge Resort and Conference Centre",
+                  "text": "O stațiune de coastă extinsă cu cabane din lemn de sine stătătoare, situată chiar lângă dunele Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        25.688473,
+                        -34.009193
+                  ]
+            },
+            {
+                  "name": "King's Beach",
+                  "text": "O porțiune largă și nisipoasă de coastă, populară printre familiile locale datorită valurilor sale blânde și promonadei lungi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645662,
+                        -33.968662
+                  ]
+            },
+            {
+                  "name": "McArthur Baths Swimming Pool Complex",
+                  "text": "Un complex de piscine în aer liber, spațios, cu bazine cu apă dulce și sărată, care se întinde chiar pe faleza mării.",
+                  "category": "recreational",
+                  "coords": [
+                        25.648051,
+                        -33.975714
+                  ]
+            },
+            {
+                  "name": "Humewood Beach",
+                  "text": "O plajă de nisip protejată, recunoscută adesea cu Steagul Albastru pentru calitatea excelentă a apei și condițiile sigure de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        25.653095,
+                        -33.978493
+                  ]
+            },
+            {
+                  "name": "Pollock Beach",
+                  "text": "O secțiune de coastă cunoscută pentru valurile sale bune, deosebit de apreciată de surferii locali.",
+                  "category": "recreational",
+                  "coords": [
+                        25.672968,
+                        -33.986699
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "O formațiune stâncoasă aspră de coastă, unde adesea se odihnesc stoluri mari de păsări marine în spray-ul sărat al valurilor oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.667256,
+                        -33.982963
+                  ]
+            },
+            {
+                  "name": "Cape Recife Nature Reserve",
+                  "text": "O rezervație naturală de coastă curată, cu un far istoric și un peisaj aspru de dune de nisip și vegetație fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        25.684984,
+                        -34.022757
+                  ]
+            },
+            {
+                  "name": "Hobie Beach",
+                  "text": "O plajă de nisip plină de viață lângă digul Shark Rock, care servește adesea ca loc de desfășurare pentru competiții de sporturi nautice și festivaluri pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.659788,
+                        -33.980974
+                  ]
+            },
+            {
+                  "name": "Happy Valley Nature Reserve",
+                  "text": "O mică rezervație naturală asemănătoare unui parc, cu căi de promenadă umbrite care șerpuiesc printr-o vale de râu verde și luxuriantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.647721,
+                        -33.983798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "05P Container Terminal",
+                  "text": "The 05P Container Terminal in Port of Gqeberha is a massive, bustling industrial zone where giant cranes efficiently process global shipping freight.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636604,
+                        -33.95736
+                  ]
+            },
+            {
+                  "name": "Splash Waterworld",
+                  "text": "Splash Waterworld in Gqeberha is a family-friendly amusement park featuring a network of looping waterslides and large swimming pools right near the beach.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645056,
+                        -33.971913
+                  ]
+            },
+            {
+                  "name": "Bayworld: PE Museum",
+                  "text": "Bayworld: PE Museum in Gqeberha is a large natural and cultural history complex famously known for its impressive marine skeleton displays and oceanarium exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        25.648558,
+                        -33.977354
+                  ]
+            },
+            {
+                  "name": "Summerstrand Beacon",
+                  "text": "The Summerstrand Beacon in Gqeberha acts as a prominent coastal navigation marker offering visitors sweeping, uninterrupted views across the sparkling Indian Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        25.676036,
+                        -33.991226
+                  ]
+            },
+            {
+                  "name": "Piet Retief Monument",
+                  "text": "The Piet Retief Monument in Gqeberha is a robust stone memorial dedicated to the influential Voortrekker leader and his significant role in South African pioneer history.",
+                  "category": "historical",
+                  "coords": [
+                        25.669424,
+                        -33.986036
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela \"Madiba Shirt\" Monument",
+                  "text": "A unique metal monument honoring the South African freedom fighter by stylizing his iconic colorful shirt.",
+                  "category": "historical",
+                  "coords": [
+                        25.670457,
+                        -34.009034
+                  ]
+            },
+            {
+                  "name": "Pine Lodge Resort and Conference Centre",
+                  "text": "An expansive coastal resort featuring freestanding wooden cabins, located right next to the Indian Ocean sand dunes.",
+                  "category": "recreational",
+                  "coords": [
+                        25.688473,
+                        -34.009193
+                  ]
+            },
+            {
+                  "name": "King's Beach",
+                  "text": "A wide, sandy stretch of coastline popular with local families for its gentle waves and long promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        25.645662,
+                        -33.968662
+                  ]
+            },
+            {
+                  "name": "McArthur Baths Swimming Pool Complex",
+                  "text": "A spacious open-air bathing complex featuring both freshwater and saltwater pools stretching right along the beachfront.",
+                  "category": "recreational",
+                  "coords": [
+                        25.648051,
+                        -33.975714
+                  ]
+            },
+            {
+                  "name": "Humewood Beach",
+                  "text": "A sheltered sandy beach frequently awarded Blue Flag status for its excellent water quality and safe swimming conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        25.653095,
+                        -33.978493
+                  ]
+            },
+            {
+                  "name": "Pollock Beach",
+                  "text": "A stretch of coastline known for its consistent waves, making it particularly popular among local surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        25.672968,
+                        -33.986699
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "A rugged, rocky coastal formation where large flocks of seabirds frequently rest amidst the salty spray of ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        25.667256,
+                        -33.982963
+                  ]
+            },
+            {
+                  "name": "Cape Recife Nature Reserve",
+                  "text": "A pristine coastal reserve featuring a historic lighthouse and a rugged landscape of sand dunes and fynbos vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        25.684984,
+                        -34.022757
+                  ]
+            },
+            {
+                  "name": "Hobie Beach",
+                  "text": "A bustling sandy beach by the Shark Rock Pier, frequently serving as a venue for watersport competitions and beach festivals.",
+                  "category": "recreational",
+                  "coords": [
+                        25.659788,
+                        -33.980974
+                  ]
+            },
+            {
+                  "name": "Happy Valley Nature Reserve",
+                  "text": "A small, park-like nature reserve with shaded walking paths winding through a lush green river valley.",
+                  "category": "natural",
+                  "coords": [
+                        25.647721,
+                        -33.983798
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZA-EC",
     coords: [25.635, -33.957],
@@ -147,7 +1443,268 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-saldanha-economic-v2",
+    id: "port-of-saldanha-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saldanhabucht",
+                  "text": "Dieser weitläufige Naturhafen am Atlantik verfügt über tiefes Wasser, das für den regionalen Seehandel entscheidend ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.009722,
+                        -33.034722
+                  ]
+            },
+            {
+                  "name": "Max & Lili whales viewing point",
+                  "text": "Dieser Aussichtspunkt an der felsigen Küste ist ein hervorragender Ort, um wandernde Wale in der Bucht zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        17.885769,
+                        -32.968948
+                  ]
+            },
+            {
+                  "name": "Green Route View Jacobsbaai",
+                  "text": "Dieser malerische Halt am Küstenpfad bietet einen weiten Blick auf das weißgetünchte Dorf und die raue Küste.",
+                  "category": "natural",
+                  "coords": [
+                        17.896333,
+                        -33.029664
+                  ]
+            },
+            {
+                  "name": "SAS Saldanha Nature Reserve",
+                  "text": "Dieses 1995 eingerichtete Küstenschutzgebiet schützt die empfindliche Fynbos-Vegetation und eine vielfältige Meeresvogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        17.913352,
+                        -33.032328
+                  ]
+            },
+            {
+                  "name": "Saldanha Bay South Head Lighthouse",
+                  "text": "Dieser Seefahrtsturm steht auf der südlichen Felsspitze und führt Schiffe sicher in den Naturhafen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.954273,
+                        -33.105653
+                  ]
+            },
+            {
+                  "name": "Postberg Nature Reserve",
+                  "text": "Dieser abgetrennte Teil des Küstenparks ist bekannt für seine spektakuläre wilde Frühlingsblumenpracht.",
+                  "category": "natural",
+                  "coords": [
+                        17.969806,
+                        -33.107565
+                  ]
+            },
+            {
+                  "name": "North Head Lighthouse",
+                  "text": "Dieser markante Leuchtturm wurde gebaut, um Schiffe an der Einfahrt zur Bucht zu schützen, und thront auf dem nördlichen Küstenvorsprung.",
+                  "category": "landmark",
+                  "coords": [
+                        17.910842,
+                        -33.050661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saldanha Bay",
+                  "text": "Az Atlanti-óceánon található, kiterjedt természetes kikötő mély vizével kulcsfontosságú a regionális tengeri kereskedelem számára.",
+                  "category": "landmark",
+                  "coords": [
+                        18.009722,
+                        -33.034722
+                  ]
+            },
+            {
+                  "name": "Max & Lili whales viewing point",
+                  "text": "A sziklás partvonal mentén elhelyezkedő kilátó kiváló hely a vándorló bálnák megfigyelésére az öbölben.",
+                  "category": "natural",
+                  "coords": [
+                        17.885769,
+                        -32.968948
+                  ]
+            },
+            {
+                  "name": "Green Route View Jacobsbaai",
+                  "text": "Ez a festői tengerparti ösvény megállója lenyűgöző kilátást nyújt a fehérre meszelt falura és a zord partvonalra.",
+                  "category": "natural",
+                  "coords": [
+                        17.896333,
+                        -33.029664
+                  ]
+            },
+            {
+                  "name": "SAS Saldanha Nature Reserve",
+                  "text": "Az 1995-ben alapított partmenti védett terület a törékeny fynbos növényzetet és a változatos tengeri madárvilágot őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        17.913352,
+                        -33.032328
+                  ]
+            },
+            {
+                  "name": "Saldanha Bay South Head Lighthouse",
+                  "text": "Ez a tengeri navigációs torony a déli sziklás fokon áll, és biztonságosan vezeti a hajókat a természetes kikötőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        17.954273,
+                        -33.105653
+                  ]
+            },
+            {
+                  "name": "Postberg Nature Reserve",
+                  "text": "A tengerparti park ezen elzárt része híres látványos vad tavaszi virágzásáról.",
+                  "category": "natural",
+                  "coords": [
+                        17.969806,
+                        -33.107565
+                  ]
+            },
+            {
+                  "name": "North Head Lighthouse",
+                  "text": "Az öböl bejáratánál közlekedő hajók védelmére épült, jellegzetes világítótorony az északi parti hegyfokon található.",
+                  "category": "landmark",
+                  "coords": [
+                        17.910842,
+                        -33.050661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saldanha Bay",
+                  "text": "Acest vast port natural la Oceanul Atlantic are ape adânci, cruciale pentru comerțul maritim regional.",
+                  "category": "landmark",
+                  "coords": [
+                        18.009722,
+                        -33.034722
+                  ]
+            },
+            {
+                  "name": "Max & Lili whales viewing point",
+                  "text": "Situat de-a lungul țărmului stâncos, acest punct de observație este un loc excelent pentru a vedea balenele migratoare în golf.",
+                  "category": "natural",
+                  "coords": [
+                        17.885769,
+                        -32.968948
+                  ]
+            },
+            {
+                  "name": "Green Route View Jacobsbaai",
+                  "text": "Această oprire pe traseul pitoresc de coastă dezvăluie vederi ample asupra satului văruit și a țărmului accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        17.896333,
+                        -33.029664
+                  ]
+            },
+            {
+                  "name": "SAS Saldanha Nature Reserve",
+                  "text": "Înființată în 1995, această zonă protejată de coastă conservă fynbos-ul de coastă fragil și diversele păsări marine.",
+                  "category": "natural",
+                  "coords": [
+                        17.913352,
+                        -33.032328
+                  ]
+            },
+            {
+                  "name": "Saldanha Bay South Head Lighthouse",
+                  "text": "Acest turn de navigație maritimă se află pe punctul stâncos sudic, ghidând navele în siguranță către portul natural.",
+                  "category": "landmark",
+                  "coords": [
+                        17.954273,
+                        -33.105653
+                  ]
+            },
+            {
+                  "name": "Postberg Nature Reserve",
+                  "text": "Această secțiune împrejmuită a parcului de coastă este renumită pentru expozițiile sale spectaculoase de flori sălbatice de primăvară.",
+                  "category": "natural",
+                  "coords": [
+                        17.969806,
+                        -33.107565
+                  ]
+            },
+            {
+                  "name": "North Head Lighthouse",
+                  "text": "Construit pentru a proteja navele care navighează la intrarea în golf, acest far distinctiv se află pe promontoriul nordic de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        17.910842,
+                        -33.050661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saldanha Bay",
+                  "text": "This expansive natural harbour on the Atlantic ocean features deep waters crucial for regional maritime trade.",
+                  "category": "landmark",
+                  "coords": [
+                        18.009722,
+                        -33.034722
+                  ]
+            },
+            {
+                  "name": "Max & Lili whales viewing point",
+                  "text": "Situated along the rocky shoreline, this lookout is an excellent spot for spotting migrating whales in the bay.",
+                  "category": "natural",
+                  "coords": [
+                        17.885769,
+                        -32.968948
+                  ]
+            },
+            {
+                  "name": "Green Route View Jacobsbaai",
+                  "text": "This scenic coastal path stop reveals sweeping views of the whitewashed village and rugged shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        17.896333,
+                        -33.029664
+                  ]
+            },
+            {
+                  "name": "SAS Saldanha Nature Reserve",
+                  "text": "Established in 1995, this coastal protected area preserves fragile coastal fynbos and diverse marine birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        17.913352,
+                        -33.032328
+                  ]
+            },
+            {
+                  "name": "Saldanha Bay South Head Lighthouse",
+                  "text": "This maritime navigation tower stands on the southern rocky point, guiding vessels safely into the natural harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        17.954273,
+                        -33.105653
+                  ]
+            },
+            {
+                  "name": "Postberg Nature Reserve",
+                  "text": "This enclosed section of the coastal park is renowned for its spectacular displays of wild spring flowers.",
+                  "category": "natural",
+                  "coords": [
+                        17.969806,
+                        -33.107565
+                  ]
+            },
+            {
+                  "name": "North Head Lighthouse",
+                  "text": "Built to protect ships navigating the bay's entrance, this distinctive lighthouse sits on the northern coastal promontory.",
+                  "category": "landmark",
+                  "coords": [
+                        17.910842,
+                        -33.050661
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZA-WC",
     coords: [17.962, -33.023],
@@ -183,7 +1740,484 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-east-london-economic-v2",
+    id: "port-of-east-london-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nahoon Nature Wal Viewsite Picnic table Upper",
+                  "text": "Der Aussichtspunkt Nahoon Nature Wal Viewsite Picnic table Upper bietet erhöhte Picknickplätze mit Blick auf den Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        27.949061,
+                        -32.995865
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "Die Kimmerling Plaque ist ein historisches Denkmal, das an frühe Pioniere der südafrikanischen Luftfahrtgeschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Gately House Museum",
+                  "text": "Das Gately House Museum ist ein historisches Haus, das authentische Möbel und den Lebensstil der viktorianischen Ära zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Bat's Cave",
+                  "text": "Bat's Cave ist eine natürliche Meereshöhle an der Küste, deren Eingang bei Ebbe zu Fuß erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        27.942101,
+                        -33.001987
+                  ]
+            },
+            {
+                  "name": "Quenera Nature Reserve",
+                  "text": "Das Quenera Nature Reserve ist ein Küstenschutzgebiet, das von üppigen Flussmündungswäldern und Sanddünen geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        27.960521,
+                        -32.964236
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "Die KuGompo City Hall ist das städtische Rathaus, das als Zentrum für lokale Verwaltung und öffentliche Veranstaltungen dient.",
+                  "category": "historical",
+                  "coords": [
+                        27.904442,
+                        -33.014641
+                  ]
+            },
+            {
+                  "name": "Nahoon Nature Reserve",
+                  "text": "Das Nahoon Nature Reserve schützt ein wichtiges Flusseinzugsgebiet und beeindruckende Küstendünen an der Flussmündung.",
+                  "category": "natural",
+                  "coords": [
+                        27.93779,
+                        -32.9803
+                  ]
+            },
+            {
+                  "name": "Paradise Naturist Beach",
+                  "text": "Paradise Naturist Beach ist ein ausgewiesener Sandstrand an der Küste, der für FKK-Erholung und Sonnenbaden bestimmt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        27.94577,
+                        -32.999099
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Orient Beach ist ein beliebter Sandstrand, der mit seinen familienfreundlichen Einrichtungen viele Badegäste anzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        27.91511,
+                        -33.024833
+                  ]
+            },
+            {
+                  "name": "East London Museum",
+                  "text": "Das East London Museum ist ein Naturkundemuseum, das für die Ausstellung des ersten in der Moderne entdeckten Quastenflossers berühmt ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.897575,
+                        -32.995548
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "The Arts Theatre ist ein intimes lokales Theater, das sich intimen Gemeinschaftsaufführungen und darstellenden Künsten widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903166,
+                        -33.008253
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "Das Miriam Makeba Centre for the Performing Arts ist ein Kulturzentrum, das zu Ehren der berühmten südafrikanischen Sängerin benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "Das East London Aquarium an der Küste präsentiert regionales Meeresleben und ist bekannt für seine Pinguinkolonie.",
+                  "category": "recreational",
+                  "coords": [
+                        27.920917,
+                        -33.016807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nahoon Nature Wal Viewsite Picnic table Upper",
+                  "text": "A Nahoon Nature Wal Viewsite Picnic table Upper kilátóhely magasan fekvő piknikezőhelyeket kínál óceáni panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        27.949061,
+                        -32.995865
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "A Kimmerling Plaque egy történelmi emlékmű, amely a dél-afrikai repüléstörténet korai úttörőinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Gately House Museum",
+                  "text": "A Gately House Museum egy történelmi ház, amely autentikus bútorokat és a viktoriánus kor életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Bat's Cave",
+                  "text": "A Bat's Cave egy természetes tengerparti barlang, amelynek bejárata apálykor gyalogosan is megközelíthető.",
+                  "category": "natural",
+                  "coords": [
+                        27.942101,
+                        -33.001987
+                  ]
+            },
+            {
+                  "name": "Quenera Nature Reserve",
+                  "text": "A Quenera Nature Reserve egy tengerparti természetvédelmi terület, amelyet buja tölcsértorkolati erdők és homokdűnék jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        27.960521,
+                        -32.964236
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "A KuGompo City Hall a helyi közigazgatás és a nyilvános rendezvények központjaként szolgáló városháza.",
+                  "category": "historical",
+                  "coords": [
+                        27.904442,
+                        -33.014641
+                  ]
+            },
+            {
+                  "name": "Nahoon Nature Reserve",
+                  "text": "A Nahoon Nature Reserve egy fontos vízgyűjtő területet és a folyótorkolatnál található lenyűgöző parti dűnéket védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.93779,
+                        -32.9803
+                  ]
+            },
+            {
+                  "name": "Paradise Naturist Beach",
+                  "text": "A Paradise Naturist Beach egy kijelölt homokos tengerparti szakasz, amelyet naturista napozásra és kikapcsolódásra tartanak fenn.",
+                  "category": "recreational",
+                  "coords": [
+                        27.94577,
+                        -32.999099
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Az Orient Beach egy népszerű homokos strand, amely családbarát létesítményeivel rengeteg fürdőzőt vonz.",
+                  "category": "recreational",
+                  "coords": [
+                        27.91511,
+                        -33.024833
+                  ]
+            },
+            {
+                  "name": "East London Museum",
+                  "text": "Az East London Museum egy természettudományi múzeum, amely a modern korban felfedezett első bojtosúszós hal kiállításáról híres.",
+                  "category": "museum",
+                  "coords": [
+                        27.897575,
+                        -32.995548
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "A The Arts Theatre egy meghitt helyi színház, amely közösségi előadásoknak és az előadó-művészetnek szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903166,
+                        -33.008253
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "A Miriam Makeba Centre for the Performing Arts egy kulturális központ, amelyet a híres dél-afrikai énekesnőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "A tengerparti East London Aquarium a helyi tengeri élővilágot mutatja be, és híres pingvinkolóniájáról.",
+                  "category": "recreational",
+                  "coords": [
+                        27.920917,
+                        -33.016807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nahoon Nature Wal Viewsite Picnic table Upper",
+                  "text": "Punctul de belvedere Nahoon Nature Wal Viewsite Picnic table Upper oferă locuri de picnic la înălțime, cu vedere la ocean.",
+                  "category": "natural",
+                  "coords": [
+                        27.949061,
+                        -32.995865
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "Placa Kimmerling este un monument istoric care comemorează pionierii timpurii ai aviației sud-africane.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Gately House Museum",
+                  "text": "Muzeul Gately House este o casă istorică ce expune mobilier autentic și stilul de viață din epoca victoriană.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Bat's Cave",
+                  "text": "Bat's Cave este o peșteră marină naturală, a cărei intrare poate fi accesată pe jos la mareea joasă.",
+                  "category": "natural",
+                  "coords": [
+                        27.942101,
+                        -33.001987
+                  ]
+            },
+            {
+                  "name": "Quenera Nature Reserve",
+                  "text": "Rezervația Naturală Quenera este o zonă de coastă protejată, caracterizată prin păduri estuarine luxuriante și dune de nisip.",
+                  "category": "natural",
+                  "coords": [
+                        27.960521,
+                        -32.964236
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "Primăria KuGompo este centrul administrației locale și locul de desfășurare a evenimentelor publice din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        27.904442,
+                        -33.014641
+                  ]
+            },
+            {
+                  "name": "Nahoon Nature Reserve",
+                  "text": "Rezervația Naturală Nahoon protejează un important bazin hidrografic estuarin și dune de coastă impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        27.93779,
+                        -32.9803
+                  ]
+            },
+            {
+                  "name": "Paradise Naturist Beach",
+                  "text": "Paradise Naturist Beach este o porțiune de plajă cu nisip desemnată pentru recreere și plajă naturistă.",
+                  "category": "recreational",
+                  "coords": [
+                        27.94577,
+                        -32.999099
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Orient Beach este o plajă populară cu nisip, care atrage înotătorii datorită facilităților sale prietenoase pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        27.91511,
+                        -33.024833
+                  ]
+            },
+            {
+                  "name": "East London Museum",
+                  "text": "East London Museum este un muzeu de istorie naturală renumit pentru expunerea primului exemplar de celacant descoperit în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        27.897575,
+                        -32.995548
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "The Arts Theatre este un teatru local intim dedicat spectacolelor comunitare și artelor spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903166,
+                        -33.008253
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "Miriam Makeba Centre for the Performing Arts este un centru cultural numit în onoarea renumitei cântărețe sud-africane.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "Acvariul de coastă East London prezintă viața marină regională și este cunoscut pentru colonia sa de pinguini.",
+                  "category": "recreational",
+                  "coords": [
+                        27.920917,
+                        -33.016807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nahoon Nature Wal Viewsite Picnic table Upper",
+                  "text": "The Nahoon Nature Wal Viewsite Picnic table Upper is an elevated viewpoint offering picnic facilities and ocean vistas.",
+                  "category": "natural",
+                  "coords": [
+                        27.949061,
+                        -32.995865
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "The Kimmerling Plaque is a historical monument commemorating early pioneers of South African aviation history.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Gately House Museum",
+                  "text": "The Gately House Museum is a historic house museum showcasing authentic furniture and the Victorian-era lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Bat's Cave",
+                  "text": "Bat's Cave is a natural coastal sea cave with an entrance accessible on foot during low tide.",
+                  "category": "natural",
+                  "coords": [
+                        27.942101,
+                        -33.001987
+                  ]
+            },
+            {
+                  "name": "Quenera Nature Reserve",
+                  "text": "The Quenera Nature Reserve is a coastal protected area characterized by lush estuarine forests and sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        27.960521,
+                        -32.964236
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "The KuGompo City Hall is the municipal town hall serving as the center for local administration and public events.",
+                  "category": "historical",
+                  "coords": [
+                        27.904442,
+                        -33.014641
+                  ]
+            },
+            {
+                  "name": "Nahoon Nature Reserve",
+                  "text": "The Nahoon Nature Reserve protects an important estuarine watershed and impressive coastal sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        27.93779,
+                        -32.9803
+                  ]
+            },
+            {
+                  "name": "Paradise Naturist Beach",
+                  "text": "Paradise Naturist Beach is a designated sandy coastal stretch intended for naturist sunbathing and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        27.94577,
+                        -32.999099
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Orient Beach is a popular sandy beach that attracts swimmers with its family-friendly facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        27.91511,
+                        -33.024833
+                  ]
+            },
+            {
+                  "name": "East London Museum",
+                  "text": "The East London Museum is a natural history museum famous for housing the first coelacanth specimen discovered in modern times.",
+                  "category": "museum",
+                  "coords": [
+                        27.897575,
+                        -32.995548
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "The Arts Theatre is an intimate local venue dedicated to community stage performances and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903166,
+                        -33.008253
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "The Miriam Makeba Centre for the Performing Arts is a cultural center named in honor of the renowned South African singer.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "The coastal East London Aquarium exhibits regional marine life and is known for its resident penguin colony.",
+                  "category": "recreational",
+                  "coords": [
+                        27.920917,
+                        -33.016807
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZA-EC",
     coords: [27.915, -33.027],
@@ -219,7 +2253,88 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-ngqura-economic-v2",
+    id: "port-of-ngqura-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coegakop",
+                  "text": "Eine markante Erhebung in der Landschaft, die einen weiten Blick über das umliegende industrielle Entwicklungsgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.620426,
+                        -33.768446
+                  ]
+            },
+            {
+                  "name": "Wells Estate",
+                  "text": "Ein weitläufiger Wasserpark mit zahlreichen Rutschen und Schwimmbecken, der sich ideal für sommerliche Familienausflüge eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.649559,
+                        -33.834986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coegakop",
+                  "text": "Jellegzetes domb a tájban, ahonnan messzire ellátni a környező ipari fejlesztési területre.",
+                  "category": "natural",
+                  "coords": [
+                        25.620426,
+                        -33.768446
+                  ]
+            },
+            {
+                  "name": "Wells Estate",
+                  "text": "Egy tágas vízi park számos csúszdával és medencével, amely ideális a nyári családi kirándulásokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        25.649559,
+                        -33.834986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coegakop",
+                  "text": "O înălțime proeminentă a peisajului care oferă o vedere largă asupra zonei de dezvoltare industrială înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        25.620426,
+                        -33.768446
+                  ]
+            },
+            {
+                  "name": "Wells Estate",
+                  "text": "Un parc acvatic spațios, cu numeroase tobogane și piscine, ideal pentru excursiile de vară cu familia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.649559,
+                        -33.834986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coegakop",
+                  "text": "A prominent peak in the landscape offering sweeping views over the surrounding industrial development zone.",
+                  "category": "natural",
+                  "coords": [
+                        25.620426,
+                        -33.768446
+                  ]
+            },
+            {
+                  "name": "Wells Estate",
+                  "text": "A sprawling water park featuring numerous slides and swimming pools, making it ideal for summer family outings.",
+                  "category": "recreational",
+                  "coords": [
+                        25.649559,
+                        -33.834986
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZA-EC",
     coords: [25.694, -33.801],
@@ -363,7 +2478,52 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "venetia-diamond-mine-economic-v2",
+    id: "venetia-diamond-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "Dieses weitläufige Naturreservat schützt die wilde Landschaft in der Nähe der markanten Diamantenmine der Region.",
+                  "category": "natural",
+                  "coords": [
+                        29.368085,
+                        -22.447514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "Ez a kiterjedt természetvédelmi terület a régió kiemelkedő gyémántbányája körüli vad tájat védi.",
+                  "category": "natural",
+                  "coords": [
+                        29.368085,
+                        -22.447514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "Această rezervație naturală extinsă protejează peisajul sălbatic din apropierea proeminentei mine de diamante din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        29.368085,
+                        -22.447514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Venetia - Limpopo Nature Reserve",
+                  "text": "This expansive nature reserve protects the wild landscape surrounding the region's prominent diamond mine.",
+                  "category": "natural",
+                  "coords": [
+                        29.368085,
+                        -22.447514
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-LP",
     coords: [29.316, -22.433],
@@ -471,7 +2631,88 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "palabora-copper-mine-economic-v2",
+    id: "palabora-copper-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "House",
+                  "text": "Diese historische Wohnattraktion bietet einen Einblick in den Lebensstil der frühen Bergbausiedlung nahe der Palabora-Kupfermine.",
+                  "category": "landmark",
+                  "coords": [
+                        31.132856,
+                        -23.942795
+                  ]
+            },
+            {
+                  "name": "Cleveland Nature Reserve",
+                  "text": "Dieses lokale Naturschutzgebiet schützt die natürliche Buschveld-Umgebung, die den ausgedehnten Palabora-Bergbaukomplex umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        31.196097,
+                        -24.0299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "House",
+                  "text": "Ez a történelmi lakóház egy bepillantást enged a korai bányászati ​​települések életmódjába a Palabora rézbánya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.132856,
+                        -23.942795
+                  ]
+            },
+            {
+                  "name": "Cleveland Nature Reserve",
+                  "text": "Ez a helyi természetvédelmi terület megvédi a hatalmas Palabora bányakomplexumot körülvevő természetes bushveld környezetet.",
+                  "category": "natural",
+                  "coords": [
+                        31.196097,
+                        -24.0299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "House",
+                  "text": "Această atracție rezidențială istorică oferă o perspectivă asupra stilului de viață al așezărilor miniere timpurii din apropierea minei de cupru Palabora.",
+                  "category": "landmark",
+                  "coords": [
+                        31.132856,
+                        -23.942795
+                  ]
+            },
+            {
+                  "name": "Cleveland Nature Reserve",
+                  "text": "Această rezervație naturală locală protejează mediul natural de tufișuri care înconjoară complexul minier extins Palabora.",
+                  "category": "natural",
+                  "coords": [
+                        31.196097,
+                        -24.0299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House",
+                  "text": "This historic residential attraction provides a glimpse into the early mining settlement lifestyle near the Palabora copper mine.",
+                  "category": "landmark",
+                  "coords": [
+                        31.132856,
+                        -23.942795
+                  ]
+            },
+            {
+                  "name": "Cleveland Nature Reserve",
+                  "text": "This local nature reserve protects the natural bushveld environment surrounding the extensive Palabora mining complex.",
+                  "category": "natural",
+                  "coords": [
+                        31.196097,
+                        -24.0299
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-LP",
     coords: [31.127, -24.001],
@@ -507,7 +2748,52 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "grootegeluk-coal-mine-economic-v2",
+    id: "grootegeluk-coal-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manketti Private Game Reserve",
+                  "text": "Das Manketti Private Game Reserve ist ein exklusives Wildschutzgebiet inmitten der charakteristischen Buschfeldlandschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        27.515263,
+                        -23.632719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manketti Private Game Reserve",
+                  "text": "A Manketti Private Game Reserve egy exkluzív vadvédelmi terület a régió jellegzetes szavannás tájának szívében.",
+                  "category": "natural",
+                  "coords": [
+                        27.515263,
+                        -23.632719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manketti Private Game Reserve",
+                  "text": "Rezervația Privată de Vânătoare Manketti este un sanctuar exclusivist de faună, situat în mijlocul peisajului de savană caracteristic regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        27.515263,
+                        -23.632719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manketti Private Game Reserve",
+                  "text": "Manketti Private Game Reserve is an exclusive wildlife sanctuary set amidst the region's characteristic bushveld landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.515263,
+                        -23.632719
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-LP",
     coords: [27.562, -23.666],
@@ -651,7 +2937,52 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sasol-secunda-economic-v2",
+    id: "sasol-secunda-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Secunda Steamers",
+                  "text": "Die Secunda Steamers sind eine Attraktion, die funktionsfähige Miniatur-Dampflokomotiven präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.209282,
+                        -26.516489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Secunda Steamers",
+                  "text": "A Secunda Steamers egy működő miniatűr gőzmozdonyokat bemutató látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        29.209282,
+                        -26.516489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Secunda Steamers",
+                  "text": "Secunda Steamers este o atracție care prezintă locomotive cu abur în miniatură, perfect funcționale.",
+                  "category": "landmark",
+                  "coords": [
+                        29.209282,
+                        -26.516489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Secunda Steamers",
+                  "text": "The Secunda Steamers attraction offers rides on meticulously crafted, rideable miniature steam trains.",
+                  "category": "landmark",
+                  "coords": [
+                        29.209282,
+                        -26.516489
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-MP",
     coords: [29.177, -26.544],
@@ -687,7 +3018,52 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sasol-sasolburg-economic-v2",
+    id: "sasol-sasolburg-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bongani Mabaso Ecopark",
+                  "text": "Der Bongani Mabaso Ecopark ist ein geschütztes Naturschutzgebiet, das eine ruhige Grünfläche mit Schwerpunkt auf der lokalen ökologischen Erhaltung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.831608,
+                        -26.773781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bongani Mabaso Ecopark",
+                  "text": "A Bongani Mabaso Ecopark egy védett természetvédelmi terület, amely nyugodt zöldterületet kínál a helyi ökológiai megőrzésre összpontosítva.",
+                  "category": "natural",
+                  "coords": [
+                        27.831608,
+                        -26.773781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bongani Mabaso Ecopark",
+                  "text": "Bongani Mabaso Ecopark este o rezervație naturală protejată, oferind un spațiu verde liniștit concentrat pe conservarea ecologică locală.",
+                  "category": "natural",
+                  "coords": [
+                        27.831608,
+                        -26.773781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bongani Mabaso Ecopark",
+                  "text": "Bongani Mabaso Ecopark is a protected nature reserve offering a tranquil green space focused on local ecological preservation.",
+                  "category": "natural",
+                  "coords": [
+                        27.831608,
+                        -26.773781
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-FS",
     coords: [27.842, -26.837],
@@ -723,7 +3099,196 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bmw-rosslyn-plant-economic-v2",
+    id: "bmw-rosslyn-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Onderstepoort Natuurreservaat",
+                  "text": "Dieses Naturschutzgebiet im Gebiet von Pretoria schützt wertvolle Savannenökosysteme und einheimische Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        28.143611,
+                        -25.627222
+                  ]
+            },
+            {
+                  "name": "babiieys",
+                  "text": "Diese lokale Attraktion in der Nähe des BMW-Werks Rosslyn zieht Besucher mit ihren Unterhaltungsangeboten an.",
+                  "category": "landmark",
+                  "coords": [
+                        28.10962,
+                        -25.64331
+                  ]
+            },
+            {
+                  "name": "Magaliesberg Nature Area",
+                  "text": "Das Naturschutzgebiet erstreckt sich über den alten Gebirgszug der Magaliesberge und beherbergt eine reiche Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        28.038056,
+                        -25.685278
+                  ]
+            },
+            {
+                  "name": "Onderstepoort Nature Reserve",
+                  "text": "Dieses Reservat ist ein wichtiges Refugium für die natürliche afrikanische Flora nahe der Fakultät für Veterinärmedizin.",
+                  "category": "natural",
+                  "coords": [
+                        28.150762,
+                        -25.628401
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk Andeon",
+                  "text": "Diese reformierte Kirche ist ein spirituelles Zentrum der afrikaanssprachigen Gemeinde in der Gegend von Andeon.",
+                  "category": "religious",
+                  "coords": [
+                        28.101634,
+                        -25.709865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Onderstepoort Natuurreservaat",
+                  "text": "A Pretoria térségében található természetvédelmi terület értékes szavannai ökoszisztémákat és őshonos vadon élő állatokat véd.",
+                  "category": "natural",
+                  "coords": [
+                        28.143611,
+                        -25.627222
+                  ]
+            },
+            {
+                  "name": "babiieys",
+                  "text": "Ez a BMW rosslyni gyárának közelében található helyi látványosság szórakoztató kínálatával vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.10962,
+                        -25.64331
+                  ]
+            },
+            {
+                  "name": "Magaliesberg Nature Area",
+                  "text": "A természetvédelmi terület a Magaliesberg ősi hegyvonulatán terül el, és gazdag biológiai sokféleségnek ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        28.038056,
+                        -25.685278
+                  ]
+            },
+            {
+                  "name": "Onderstepoort Nature Reserve",
+                  "text": "Ez a rezervátum az afrikai növényvilág fontos menedékhelye az Állatorvostudományi Kar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.150762,
+                        -25.628401
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk Andeon",
+                  "text": "Ez a református templom az andeoni afrikaans nyelvű közösség spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        28.101634,
+                        -25.709865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Onderstepoort Natuurreservaat",
+                  "text": "Această rezervație naturală din zona Pretoria protejează ecosisteme valoroase de savană și animale sălbatice autohtone.",
+                  "category": "natural",
+                  "coords": [
+                        28.143611,
+                        -25.627222
+                  ]
+            },
+            {
+                  "name": "babiieys",
+                  "text": "Această atracție locală de lângă fabrica BMW din Rosslyn atrage vizitatorii prin opțiunile sale de divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        28.10962,
+                        -25.64331
+                  ]
+            },
+            {
+                  "name": "Magaliesberg Nature Area",
+                  "text": "Zona naturală se întinde peste vechiul lanț muntos Magaliesberg, adăpostind o biodiversitate bogată.",
+                  "category": "natural",
+                  "coords": [
+                        28.038056,
+                        -25.685278
+                  ]
+            },
+            {
+                  "name": "Onderstepoort Nature Reserve",
+                  "text": "Această rezervație este un refugiu important pentru flora africană naturală, situat lângă Facultatea de Medicină Veterinară.",
+                  "category": "natural",
+                  "coords": [
+                        28.150762,
+                        -25.628401
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk Andeon",
+                  "text": "Această biserică reformată servește drept centru spiritual pentru comunitatea vorbitoare de afrikaans din zona Andeon.",
+                  "category": "religious",
+                  "coords": [
+                        28.101634,
+                        -25.709865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Onderstepoort Natuurreservaat",
+                  "text": "This nature reserve in the Pretoria area protects valuable savanna ecosystems and native wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        28.143611,
+                        -25.627222
+                  ]
+            },
+            {
+                  "name": "babiieys",
+                  "text": "This local attraction near the BMW Rosslyn plant draws visitors with its entertainment offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        28.10962,
+                        -25.64331
+                  ]
+            },
+            {
+                  "name": "Magaliesberg Nature Area",
+                  "text": "The nature area stretches across the ancient Magaliesberg mountain range, harboring rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        28.038056,
+                        -25.685278
+                  ]
+            },
+            {
+                  "name": "Onderstepoort Nature Reserve",
+                  "text": "This reserve is an important refuge for natural African flora near the Faculty of Veterinary Science.",
+                  "category": "natural",
+                  "coords": [
+                        28.150762,
+                        -25.628401
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk Andeon",
+                  "text": "This reformed church serves as a spiritual center for the Afrikaans-speaking community in the Andeon area.",
+                  "category": "religious",
+                  "coords": [
+                        28.101634,
+                        -25.709865
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-GT",
     coords: [28.086, -25.629],
@@ -759,7 +3324,232 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "vw-kariega-plant-economic-v2",
+    id: "vw-kariega-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uitenhage Concentration Camp Memorial",
+                  "text": "Das Uitenhage Concentration Camp Memorial erinnert an die zivilen Opfer, die während des Südafrikanischen Krieges in Internierungslagern litten.",
+                  "category": "historical",
+                  "coords": [
+                        25.423009,
+                        -33.726356
+                  ]
+            },
+            {
+                  "name": "Uitenhage Old Railway Station Museum",
+                  "text": "Das Uitenhage Old Railway Station Museum ist ein historischer Bahnhof, der historische Lokomotiven und das Eisenbahnerbe der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        25.398991,
+                        -33.770303
+                  ]
+            },
+            {
+                  "name": "Heritage chimney",
+                  "text": "Der Heritage Chimney ist ein erhaltener industrieller Schornstein, der als Denkmal für die Fertigungsgeschichte der Gegend steht.",
+                  "category": "historical",
+                  "coords": [
+                        25.48413,
+                        -33.804605
+                  ]
+            },
+            {
+                  "name": "Barkley Theatre",
+                  "text": "Das Barkley Theatre ist eine historische Kultureinrichtung, die Aufführungen für die lokale Gemeinde präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        25.401286,
+                        -33.759223
+                  ]
+            },
+            {
+                  "name": "Auto Pavilion",
+                  "text": "Der Auto Pavilion ist ein Technikmuseum in der Nähe der Kariega-Fabrik, das klassische Autos und die Geschichte der Fahrzeugproduktion zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.421221,
+                        -33.784984
+                  ]
+            },
+            {
+                  "name": "Despatch Museum",
+                  "text": "Das Despatch Museum bewahrt die lokale Geschichte der Ziegelherstellung und die kulturelle Entwicklung der Kleinstadt Despatch.",
+                  "category": "museum",
+                  "coords": [
+                        25.463333,
+                        -33.800234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uitenhage Concentration Camp Memorial",
+                  "text": "A Uitenhage Concentration Camp Memorial a dél-afrikai háború idején az internálótáborokban szenvedett civil áldozatoknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        25.423009,
+                        -33.726356
+                  ]
+            },
+            {
+                  "name": "Uitenhage Old Railway Station Museum",
+                  "text": "A Uitenhage Old Railway Station Museum egy történelmi vasútállomás, amely a régió vasúti örökségét és történelmi mozdonyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        25.398991,
+                        -33.770303
+                  ]
+            },
+            {
+                  "name": "Heritage chimney",
+                  "text": "A Heritage Chimney egy fennmaradt ipari kémény, amely a környék gyártási múltjának emlékműveként áll.",
+                  "category": "historical",
+                  "coords": [
+                        25.48413,
+                        -33.804605
+                  ]
+            },
+            {
+                  "name": "Barkley Theatre",
+                  "text": "A Barkley Theatre egy történelmi kulturális intézmény, amely a helyi közösség számára kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        25.401286,
+                        -33.759223
+                  ]
+            },
+            {
+                  "name": "Auto Pavilion",
+                  "text": "Az Auto Pavilion egy Kariega gyár közelében található műszaki múzeum, amely klasszikus autókat és a járműgyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.421221,
+                        -33.784984
+                  ]
+            },
+            {
+                  "name": "Despatch Museum",
+                  "text": "A Despatch Museum a helyi téglagyártás történetét és a kisváros kulturális fejlődését őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        25.463333,
+                        -33.800234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uitenhage Concentration Camp Memorial",
+                  "text": "Uitenhage Concentration Camp Memorial comemorează victimele civile care au suferit în taberele de internare în timpul Războiului Sud-African.",
+                  "category": "historical",
+                  "coords": [
+                        25.423009,
+                        -33.726356
+                  ]
+            },
+            {
+                  "name": "Uitenhage Old Railway Station Museum",
+                  "text": "Muzeul Uitenhage Old Railway Station este o gară istorică ce conservă locomotive de epocă și patrimoniul feroviar al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        25.398991,
+                        -33.770303
+                  ]
+            },
+            {
+                  "name": "Heritage chimney",
+                  "text": "Heritage Chimney este un coș de fum industrial conservat, servind ca monument al trecutului manufacturier al zonei.",
+                  "category": "historical",
+                  "coords": [
+                        25.48413,
+                        -33.804605
+                  ]
+            },
+            {
+                  "name": "Barkley Theatre",
+                  "text": "Barkley Theatre este un centru cultural istoric ce prezintă spectacole pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        25.401286,
+                        -33.759223
+                  ]
+            },
+            {
+                  "name": "Auto Pavilion",
+                  "text": "Auto Pavilion este un muzeu tehnic situat lângă uzina Kariega, prezentând mașini clasice și istoria producției de vehicule.",
+                  "category": "museum",
+                  "coords": [
+                        25.421221,
+                        -33.784984
+                  ]
+            },
+            {
+                  "name": "Despatch Museum",
+                  "text": "Muzeul Despatch conservă istoria locală a fabricării cărămizilor și dezvoltarea culturală a micului oraș Despatch.",
+                  "category": "museum",
+                  "coords": [
+                        25.463333,
+                        -33.800234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uitenhage Concentration Camp Memorial",
+                  "text": "The Uitenhage Concentration Camp Memorial commemorates the civilian victims who suffered in internment camps during the South African War.",
+                  "category": "historical",
+                  "coords": [
+                        25.423009,
+                        -33.726356
+                  ]
+            },
+            {
+                  "name": "Uitenhage Old Railway Station Museum",
+                  "text": "The Uitenhage Old Railway Station Museum is a historic station building preserving vintage locomotives and the region's railway heritage.",
+                  "category": "museum",
+                  "coords": [
+                        25.398991,
+                        -33.770303
+                  ]
+            },
+            {
+                  "name": "Heritage chimney",
+                  "text": "The Heritage chimney is a preserved industrial smokestack standing as a monument to the area's manufacturing past.",
+                  "category": "historical",
+                  "coords": [
+                        25.48413,
+                        -33.804605
+                  ]
+            },
+            {
+                  "name": "Barkley Theatre",
+                  "text": "The Barkley Theatre is a historic cultural venue presenting performances for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        25.401286,
+                        -33.759223
+                  ]
+            },
+            {
+                  "name": "Auto Pavilion",
+                  "text": "The Auto Pavilion is a technical museum near the Kariega plant showcasing classic cars and the history of vehicle production.",
+                  "category": "museum",
+                  "coords": [
+                        25.421221,
+                        -33.784984
+                  ]
+            },
+            {
+                  "name": "Despatch Museum",
+                  "text": "The Despatch Museum preserves the local history of brickmaking and the cultural development of the small town of Despatch.",
+                  "category": "museum",
+                  "coords": [
+                        25.463333,
+                        -33.800234
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-EC",
     coords: [25.413, -33.784],
@@ -795,7 +3585,268 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ford-silverton-plant-economic-v2",
+    id: "ford-silverton-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solomon Mahlangu Statue",
+                  "text": "Die Solomon-Mahlangu-Statue ist ein Bronzedenkmal, das an den südafrikanischen Freiheitskämpfer erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        28.334536,
+                        -25.716177
+                  ]
+            },
+            {
+                  "name": "The Mamelodi Rondavels",
+                  "text": "Die Mamelodi-Rondavels sind die Ruinen traditioneller runder afrikanischer Hütten.",
+                  "category": "historical",
+                  "coords": [
+                        28.363822,
+                        -25.706639
+                  ]
+            },
+            {
+                  "name": "Sammy Marks",
+                  "text": "Das Sammy Marks Museum ist ein erhaltenes viktorianisches Anwesen, das das Leben des Industriellen aus dem 19. Jahrhundert dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.380243,
+                        -25.750152
+                  ]
+            },
+            {
+                  "name": "Bester Birds",
+                  "text": "Bester Birds ist eine Vogelwarte und ein Zoo, in dem verschiedenartige und farbenfrohe Vogelarten leben.",
+                  "category": "recreational",
+                  "coords": [
+                        28.32382,
+                        -25.75704
+                  ]
+            },
+            {
+                  "name": "Pioneer",
+                  "text": "Das Pioneer Museum ist ein historisches Freilichtmuseum, das eine restaurierte Siedlerfarm aus dem 19. Jahrhundert zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        28.309909,
+                        -25.734068
+                  ]
+            },
+            {
+                  "name": "Skuilkrans Kopje",
+                  "text": "Skuilkrans Kopje ist ein felsiges Naturschutzgebiet, das weite Ausblicke und einheimische Buschveld-Vegetation bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.305456,
+                        -25.747082
+                  ]
+            },
+            {
+                  "name": "Faerie Glen Nature Reserve",
+                  "text": "Das Faerie Glen Nature Reserve ist ein Naturschutzgebiet, das für seine Wanderwege entlang des Flusses Moreleta Spruit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.300048,
+                        -25.772837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solomon Mahlangu Statue",
+                  "text": "A Solomon Mahlangu-szobor egy bronz emlékmű, amely a dél-afrikai szabadságharcosnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        28.334536,
+                        -25.716177
+                  ]
+            },
+            {
+                  "name": "The Mamelodi Rondavels",
+                  "text": "A Mamelodi Rondavels hagyományos kör alaprajzú afrikai kunyhók romjai.",
+                  "category": "historical",
+                  "coords": [
+                        28.363822,
+                        -25.706639
+                  ]
+            },
+            {
+                  "name": "Sammy Marks",
+                  "text": "A Sammy Marks Múzeum egy megőrzött viktoriánus birtok, amely a 19. századi gyáriparos életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.380243,
+                        -25.750152
+                  ]
+            },
+            {
+                  "name": "Bester Birds",
+                  "text": "A Bester Birds egy madárház és állatkert, amely színes madárfajok széles választékát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        28.32382,
+                        -25.75704
+                  ]
+            },
+            {
+                  "name": "Pioneer",
+                  "text": "A Pioneer Múzeum egy történelmi szabadtéri létesítmény, amely egy felújított 19. századi telepesfarmot mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        28.309909,
+                        -25.734068
+                  ]
+            },
+            {
+                  "name": "Skuilkrans Kopje",
+                  "text": "A Skuilkrans Kopje egy sziklás természetvédelmi terület, amely csodás kilátást és őshonos bozótos növényzetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        28.305456,
+                        -25.747082
+                  ]
+            },
+            {
+                  "name": "Faerie Glen Nature Reserve",
+                  "text": "A Faerie Glen Nature Reserve a Moreleta Spruit patak mentén kanyargó túraútvonalairól ismert természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        28.300048,
+                        -25.772837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solomon Mahlangu Statue",
+                  "text": "Statuia lui Solomon Mahlangu este un monument din bronz care îl comemorează pe luptătorul sud-african pentru libertate.",
+                  "category": "historical",
+                  "coords": [
+                        28.334536,
+                        -25.716177
+                  ]
+            },
+            {
+                  "name": "The Mamelodi Rondavels",
+                  "text": "Mamelodi Rondavels reprezintă ruinele unor locuințe africane circulare tradiționale.",
+                  "category": "historical",
+                  "coords": [
+                        28.363822,
+                        -25.706639
+                  ]
+            },
+            {
+                  "name": "Sammy Marks",
+                  "text": "Muzeul Sammy Marks este o proprietate victoriană conservată care prezintă viața industriașului din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        28.380243,
+                        -25.750152
+                  ]
+            },
+            {
+                  "name": "Bester Birds",
+                  "text": "Bester Birds este o volieră și o grădină zoologică ce găzduiește o mare varietate de specii de păsări colorate.",
+                  "category": "recreational",
+                  "coords": [
+                        28.32382,
+                        -25.75704
+                  ]
+            },
+            {
+                  "name": "Pioneer",
+                  "text": "Muzeul Pioneer este un sit istoric în aer liber ce cuprinde o fermă restaurată a coloniștilor din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        28.309909,
+                        -25.734068
+                  ]
+            },
+            {
+                  "name": "Skuilkrans Kopje",
+                  "text": "Skuilkrans Kopje este o rezervație naturală stâncoasă ce oferă priveliști la înălțime și vegetație nativă de bushveld.",
+                  "category": "natural",
+                  "coords": [
+                        28.305456,
+                        -25.747082
+                  ]
+            },
+            {
+                  "name": "Faerie Glen Nature Reserve",
+                  "text": "Rezervația Naturală Faerie Glen este un refugiu natural renumit pentru traseele sale șerpuite de-a lungul pârâului Moreleta Spruit.",
+                  "category": "natural",
+                  "coords": [
+                        28.300048,
+                        -25.772837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solomon Mahlangu Statue",
+                  "text": "The Solomon Mahlangu Statue is a striking bronze monument dedicated to the legendary South African freedom fighter.",
+                  "category": "historical",
+                  "coords": [
+                        28.334536,
+                        -25.716177
+                  ]
+            },
+            {
+                  "name": "The Mamelodi Rondavels",
+                  "text": "The Mamelodi Rondavels are the historic ruins of traditional circular, thatched-roof African dwellings.",
+                  "category": "historical",
+                  "coords": [
+                        28.363822,
+                        -25.706639
+                  ]
+            },
+            {
+                  "name": "Sammy Marks",
+                  "text": "The Sammy Marks Museum is a grand Victorian mansion preserved to reflect the lavish lifestyle of the 19th-century industrialist.",
+                  "category": "museum",
+                  "coords": [
+                        28.380243,
+                        -25.750152
+                  ]
+            },
+            {
+                  "name": "Bester Birds",
+                  "text": "Bester Birds is an interactive animal park and aviary showcasing numerous exotic and indigenous bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        28.32382,
+                        -25.75704
+                  ]
+            },
+            {
+                  "name": "Pioneer",
+                  "text": "The Pioneer Museum is an open-air historic farmstead recreating the agricultural lifestyle of early 19th-century settlers.",
+                  "category": "museum",
+                  "coords": [
+                        28.309909,
+                        -25.734068
+                  ]
+            },
+            {
+                  "name": "Skuilkrans Kopje",
+                  "text": "Skuilkrans Kopje is a rocky hill nature reserve protecting a patch of indigenous bushveld vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        28.305456,
+                        -25.747082
+                  ]
+            },
+            {
+                  "name": "Faerie Glen Nature Reserve",
+                  "text": "The Faerie Glen Nature Reserve features picturesque hiking trails that meander alongside the Moreleta Spruit river.",
+                  "category": "natural",
+                  "coords": [
+                        28.300048,
+                        -25.772837
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-GT",
     coords: [28.322, -25.728],
@@ -831,7 +3882,124 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "toyota-prospecton-plant-economic-v2",
+    id: "toyota-prospecton-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Steinbank Castle",
+                  "text": "Diese faszinierende Burgstruktur aus Stein ist in einem Naturschutzgebiet nahe dem Werk Prospecton versteckt und spiegelt frühe koloniale Architekturambitionen wider.",
+                  "category": "castle",
+                  "coords": [
+                        30.938162,
+                        -29.910261
+                  ]
+            },
+            {
+                  "name": "Kenneth Stainbank Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet umfasst ausgedehnte Küstenwälder und Grasland und bietet einen Zufluchtsort für Zebras und einheimische Antilopenarten.",
+                  "category": "natural",
+                  "coords": [
+                        30.936998,
+                        -29.909241
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Dieser lebhafte Wasserpark mit spiralförmigen Rutschen und Planschbecken bietet familienfreundliche Wassererholung in der Nähe der Industriezone.",
+                  "category": "recreational",
+                  "coords": [
+                        30.890525,
+                        -30.048474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Steinbank Castle",
+                  "text": "A Prospecton üzem közelében lévő természetvédelmi területen megbúvó lenyűgöző kővár-építmény a korai gyarmati építészeti ambíciókat tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        30.938162,
+                        -29.910261
+                  ]
+            },
+            {
+                  "name": "Kenneth Stainbank Nature Reserve",
+                  "text": "A kiterjedt tengerparti erdőt és füves pusztát felölelő természetvédelmi terület menedéket nyújt a zebráknak és az őshonos antilopfajoknak.",
+                  "category": "natural",
+                  "coords": [
+                        30.936998,
+                        -29.909241
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "A spirális csúszdákkal és pancsolómedencékkel rendelkező nyüzsgő vízipark családbarát vízi kikapcsolódást kínál az ipari övezet közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.890525,
+                        -30.048474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Steinbank Castle",
+                  "text": "Ascunsă în cadrul unei rezervații naturale de lângă uzina Prospecton, această structură intrigantă de castel de piatră reflectă ambițiile arhitecturale coloniale timpurii.",
+                  "category": "castle",
+                  "coords": [
+                        30.938162,
+                        -29.910261
+                  ]
+            },
+            {
+                  "name": "Kenneth Stainbank Nature Reserve",
+                  "text": "Cuprinzând păduri și pajiști de coastă întinse, această rezervație naturală oferă sanctuar pentru zebre și specii autohtone de antilope.",
+                  "category": "natural",
+                  "coords": [
+                        30.936998,
+                        -29.909241
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Având tobogane spiralate și piscine de stropit, acest parc acvatic plin de viață oferă recreere acvatică pentru familii lângă zona industrială.",
+                  "category": "recreational",
+                  "coords": [
+                        30.890525,
+                        -30.048474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Steinbank Castle",
+                  "text": "Hidden within a nature reserve near the Prospecton plant, this intriguing stone castle structure reflects early colonial architectural ambitions.",
+                  "category": "castle",
+                  "coords": [
+                        30.938162,
+                        -29.910261
+                  ]
+            },
+            {
+                  "name": "Kenneth Stainbank Nature Reserve",
+                  "text": "Spanning extensive coastal forest and grassland, this nature reserve provides sanctuary for zebras and native antelope species.",
+                  "category": "natural",
+                  "coords": [
+                        30.936998,
+                        -29.909241
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Featuring spiraling slides and splash pools, this lively water park offers family-friendly aquatic recreation near the industrial zone.",
+                  "category": "recreational",
+                  "coords": [
+                        30.890525,
+                        -30.048474
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-KZN",
     coords: [30.932, -29.988],
@@ -867,7 +4035,304 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "mercedes-east-london-plant-economic-v2",
+    id: "mercedes-east-london-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thornycroft Road",
+                  "text": "Diese Straße führt direkt zum großen Produktionswerk von Mercedes-Benz in East London und spiegelt die industrielle Wichtigkeit der Gegend wider.",
+                  "category": "landmark",
+                  "coords": [
+                        27.839707,
+                        -32.96272
+                  ]
+            },
+            {
+                  "name": "Hood Point",
+                  "text": "Dieser im Jahr 1895 erbaute Leuchtturm in East London warnt Seeleute sicher vor der rauen Küste des Indischen Ozeans.",
+                  "category": "landmark",
+                  "coords": [
+                        27.898795,
+                        -33.040717
+                  ]
+            },
+            {
+                  "name": "Washed out bridge",
+                  "text": "Die Ruinen dieser eingestürzten Brücke in East London zeugen von den starken Überschwemmungen, die einst diese Gegend heimsuchten.",
+                  "category": "historical",
+                  "coords": [
+                        27.82848,
+                        -33.074413
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Dieses Küsten-Naturschutzgebiet in East London schützt intakte Abschnitte des südafrikanischen Fynbos-Ökosystems.",
+                  "category": "natural",
+                  "coords": [
+                        27.884942,
+                        -33.04235
+                  ]
+            },
+            {
+                  "name": "Grey Dell and Fort Grey Controlled Forest Area",
+                  "text": "Dieses kontrollierte Waldgebiet in East London bewahrt einen wichtigen natürlichen Rückzugsort unweit des städtischen Industriezentrums.",
+                  "category": "natural",
+                  "coords": [
+                        27.793073,
+                        -33.023507
+                  ]
+            },
+            {
+                  "name": "Amalinda Nature Reserve",
+                  "text": "Das Amalinda Nature Reserve ist ein geschütztes Naturgebiet, das Lebensraum für lokale Flora und Fauna rund um ein Küstenökosystem bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.843204,
+                        -32.980192
+                  ]
+            },
+            {
+                  "name": "Umtiza Nature Reserve",
+                  "text": "Das Umtiza Nature Reserve schützt einen verbliebenen Bestand an indigenem Küstenwald und die seltenen Umtiza-Bäume.",
+                  "category": "natural",
+                  "coords": [
+                        27.807784,
+                        -33.014896
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "Die Queens Park Zoological Gardens bieten zoologische Gehege und botanische Anlagen im Herzen der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898025,
+                        -33.017831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thornycroft Road",
+                  "text": "Ez az út közvetlenül az East London-i Mercedes-Benz gyártelephez vezet, tükrözve a környék ipari jelentőségét.",
+                  "category": "landmark",
+                  "coords": [
+                        27.839707,
+                        -32.96272
+                  ]
+            },
+            {
+                  "name": "Hood Point",
+                  "text": "Ez az 1895-ben épült East London-i világítótorony ma is biztonságosan figyelmezteti a tengerészeket az Indiai-óceán zord partjaira.",
+                  "category": "landmark",
+                  "coords": [
+                        27.898795,
+                        -33.040717
+                  ]
+            },
+            {
+                  "name": "Washed out bridge",
+                  "text": "Ennek a beomlott East London-i hídnak a romjai a környéket egykor sújtó heves áradásokról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        27.82848,
+                        -33.074413
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Ez az East London-i tengerparti természetvédelmi terület a dél-afrikai fynbos ökoszisztéma érintetlen szakaszait óvja.",
+                  "category": "natural",
+                  "coords": [
+                        27.884942,
+                        -33.04235
+                  ]
+            },
+            {
+                  "name": "Grey Dell and Fort Grey Controlled Forest Area",
+                  "text": "Ez a szabályozott East London-i erdőterület fontos természeti menedéket őriz az ipari központ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        27.793073,
+                        -33.023507
+                  ]
+            },
+            {
+                  "name": "Amalinda Nature Reserve",
+                  "text": "Az Amalinda Nature Reserve egy védett természeti terület, amely a helyi tengerparti ökoszisztéma növény- és állatvilágának ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        27.843204,
+                        -32.980192
+                  ]
+            },
+            {
+                  "name": "Umtiza Nature Reserve",
+                  "text": "Az Umtiza Nature Reserve egy őshonos parti erdősávot és a ritka Umtiza fákat védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.807784,
+                        -33.014896
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "A Queens Park Zoological Gardens állatkerti kifutókat és botanikai gyűjteményeket kínál a város szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898025,
+                        -33.017831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thornycroft Road",
+                  "text": "Acest drum duce direct la marea fabrică de producție Mercedes-Benz din East London, reflectând importanța industrială a zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        27.839707,
+                        -32.96272
+                  ]
+            },
+            {
+                  "name": "Hood Point",
+                  "text": "Construit în 1895, acest far din East London avertizează marinarii cu privire la coastele periculoase ale Oceanului Indian.",
+                  "category": "landmark",
+                  "coords": [
+                        27.898795,
+                        -33.040717
+                  ]
+            },
+            {
+                  "name": "Washed out bridge",
+                  "text": "Ruinele acestui pod prăbușit din East London stau mărturie inundațiilor puternice care au lovit cândva această zonă.",
+                  "category": "historical",
+                  "coords": [
+                        27.82848,
+                        -33.074413
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Această rezervație naturală de coastă din East London protejează porțiuni intacte ale ecosistemului sud-african fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        27.884942,
+                        -33.04235
+                  ]
+            },
+            {
+                  "name": "Grey Dell and Fort Grey Controlled Forest Area",
+                  "text": "Această zonă forestieră controlată din East London conservă un refugiu natural important nu departe de centrul industrial urban.",
+                  "category": "natural",
+                  "coords": [
+                        27.793073,
+                        -33.023507
+                  ]
+            },
+            {
+                  "name": "Amalinda Nature Reserve",
+                  "text": "Amalinda Nature Reserve este o rezervație naturală protejată, care adăpostește flora și fauna ecosistemului de coastă local.",
+                  "category": "natural",
+                  "coords": [
+                        27.843204,
+                        -32.980192
+                  ]
+            },
+            {
+                  "name": "Umtiza Nature Reserve",
+                  "text": "Rezervația Naturală Umtiza protejează o zonă de pădure indigenă de coastă și rarii copaci Umtiza.",
+                  "category": "natural",
+                  "coords": [
+                        27.807784,
+                        -33.014896
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "Queens Park Zoological Gardens oferă incinte zoologice și aranjamente botanice în inima orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898025,
+                        -33.017831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thornycroft Road",
+                  "text": "This road leads directly towards the major Mercedes-Benz manufacturing plant in East London, reflecting the area's industrial importance.",
+                  "category": "landmark",
+                  "coords": [
+                        27.839707,
+                        -32.96272
+                  ]
+            },
+            {
+                  "name": "Hood Point",
+                  "text": "Operating since 1895, this historic lighthouse in East London safely guides sailors away from the rugged Indian Ocean coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        27.898795,
+                        -33.040717
+                  ]
+            },
+            {
+                  "name": "Washed out bridge",
+                  "text": "The concrete ruins of this washed-out bridge in East London stand as a stark reminder of the region's powerful historical floods.",
+                  "category": "historical",
+                  "coords": [
+                        27.82848,
+                        -33.074413
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Located in East London, this coastal nature reserve protects vital and sensitive sections of the indigenous South African fynbos ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        27.884942,
+                        -33.04235
+                  ]
+            },
+            {
+                  "name": "Grey Dell and Fort Grey Controlled Forest Area",
+                  "text": "This controlled forest area in East London preserves an important natural green buffer just outside the city's busy industrial zones.",
+                  "category": "natural",
+                  "coords": [
+                        27.793073,
+                        -33.023507
+                  ]
+            },
+            {
+                  "name": "Amalinda Nature Reserve",
+                  "text": "The Amalinda Nature Reserve is a protected natural area providing habitat for local coastal flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        27.843204,
+                        -32.980192
+                  ]
+            },
+            {
+                  "name": "Umtiza Nature Reserve",
+                  "text": "The Umtiza Nature Reserve protects a remaining patch of indigenous coastal forest and the rare Umtiza trees.",
+                  "category": "natural",
+                  "coords": [
+                        27.807784,
+                        -33.014896
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "The Queens Park Zoological Gardens feature zoological enclosures and botanical displays in the heart of the city.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898025,
+                        -33.017831
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-EC",
     coords: [27.892, -33.031],
@@ -903,7 +4368,160 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "koeberg-nuclear-power-station-economic-v2",
+    id: "koeberg-nuclear-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Corners",
+                  "text": "Dieser sandige Küstenabschnitt dient als beliebtes Strandziel in der Nähe der Koeberg-Anlage.",
+                  "category": "recreational",
+                  "coords": [
+                        18.442344,
+                        -33.72015
+                  ]
+            },
+            {
+                  "name": "Grootberg",
+                  "text": "Diese schroffe Landform bildet eine markante Kulisse für die Küstenebenen rund um das Kraftwerk.",
+                  "category": "natural",
+                  "coords": [
+                        18.465653,
+                        -33.753032
+                  ]
+            },
+            {
+                  "name": "Old Farmhouse Ruins",
+                  "text": "Die bröckelnden Steinmauern dieser Stätte bieten einen Einblick in die Agrargeschichte vor der nuklearen Erschließung.",
+                  "category": "historical",
+                  "coords": [
+                        18.442765,
+                        -33.685254
+                  ]
+            },
+            {
+                  "name": "Koeberg Nature Reserve",
+                  "text": "Dieses Wildtiergebiet umfasst die Ländereien um das Kraftwerk und wird von Zebras und Springböcken bevölkert.",
+                  "category": "natural",
+                  "coords": [
+                        18.430024,
+                        -33.646138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Corners",
+                  "text": "Ez a homokos tengerparti szakasz népszerű strandcélpont a koebergi létesítmény közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.442344,
+                        -33.72015
+                  ]
+            },
+            {
+                  "name": "Grootberg",
+                  "text": "Ez a zord felszínforma jellegzetes hátteret biztosít az erőművet körülvevő parti síkságoknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.465653,
+                        -33.753032
+                  ]
+            },
+            {
+                  "name": "Old Farmhouse Ruins",
+                  "text": "A helyszín omladozó kőfalai bepillantást engednek a nukleáris fejlesztést megelőző mezőgazdasági múltba.",
+                  "category": "historical",
+                  "coords": [
+                        18.442765,
+                        -33.685254
+                  ]
+            },
+            {
+                  "name": "Koeberg Nature Reserve",
+                  "text": "Az erőmű körüli területeket magába foglaló vadvédelmi területet zebrák és vándorantilopok népesítik be.",
+                  "category": "natural",
+                  "coords": [
+                        18.430024,
+                        -33.646138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Corners",
+                  "text": "Această porțiune de coastă cu nisip servește ca destinație populară de plajă lângă instalația Koeberg.",
+                  "category": "recreational",
+                  "coords": [
+                        18.442344,
+                        -33.72015
+                  ]
+            },
+            {
+                  "name": "Grootberg",
+                  "text": "Această formă de relief accidentată creează un fundal distinctiv pentru câmpiile de coastă care înconjoară centrala electrică.",
+                  "category": "natural",
+                  "coords": [
+                        18.465653,
+                        -33.753032
+                  ]
+            },
+            {
+                  "name": "Old Farmhouse Ruins",
+                  "text": "Zidurile de piatră fărâmițate ale acestui sit oferă o privire în istoria agricolă care a precedat dezvoltarea nucleară.",
+                  "category": "historical",
+                  "coords": [
+                        18.442765,
+                        -33.685254
+                  ]
+            },
+            {
+                  "name": "Koeberg Nature Reserve",
+                  "text": "Cuprinzând terenurile din jurul centralei electrice, această zonă de viață sălbatică este populată de zebre și springbok.",
+                  "category": "natural",
+                  "coords": [
+                        18.430024,
+                        -33.646138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Corners",
+                  "text": "This sandy stretch of coastline serves as a popular beach destination near the Koeberg facility.",
+                  "category": "recreational",
+                  "coords": [
+                        18.442344,
+                        -33.72015
+                  ]
+            },
+            {
+                  "name": "Grootberg",
+                  "text": "This rugged landform creates a distinctive backdrop to the coastal plains surrounding the power station.",
+                  "category": "natural",
+                  "coords": [
+                        18.465653,
+                        -33.753032
+                  ]
+            },
+            {
+                  "name": "Old Farmhouse Ruins",
+                  "text": "The crumbling stone walls of this site offer a glimpse into the agricultural history preceding the nuclear development.",
+                  "category": "historical",
+                  "coords": [
+                        18.442765,
+                        -33.685254
+                  ]
+            },
+            {
+                  "name": "Koeberg Nature Reserve",
+                  "text": "Encompassing the lands around the power station, this wildlife area is populated by zebras and springboks.",
+                  "category": "natural",
+                  "coords": [
+                        18.430024,
+                        -33.646138
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-WC",
     coords: [18.431, -33.676],
@@ -939,7 +4557,160 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "anglo-american-platinum-rustenburg-economic-v2",
+    id: "anglo-american-platinum-rustenburg-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rustenburg Cross",
+                  "text": "Das Rustenburg Cross ist ein monumentaler Aussichtspunkt auf einem Hügel, der ein weites Panorama auf die umliegende Platinbergbauregion bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.230106,
+                        -25.705175
+                  ]
+            },
+            {
+                  "name": "Dutch Reformed Church",
+                  "text": "Die historische Niederländisch-reformierte Kirche in Rustenburg ist bekannt als die Gemeinde, die der ehemalige südafrikanische Präsident Paul Kruger regelmäßig besuchte.",
+                  "category": "religious",
+                  "coords": [
+                        27.245577,
+                        -25.671703
+                  ]
+            },
+            {
+                  "name": "Lily Park",
+                  "text": "Der Wasserpark Lily Park bietet eine erfrischende Freizeitoase mit Planschbecken und familienfreundlichen Wasserrutschen im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        27.270814,
+                        -25.694946
+                  ]
+            },
+            {
+                  "name": "Kgaswane Mountain Nature Reserve",
+                  "text": "Das in den Gipfeln der Magaliesberge gelegene Kgaswane Mountain Nature Reserve ist besonders für den Schutz einer Zuchtherde majestätischer Rappenantilopen bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        27.194818,
+                        -25.721356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rustenburg Cross",
+                  "text": "A Rustenburg Cross egy monumentális dombtetőn lévő kilátó, amely lenyűgöző panorámát nyújt a környező platinabányászati régióra.",
+                  "category": "natural",
+                  "coords": [
+                        27.230106,
+                        -25.705175
+                  ]
+            },
+            {
+                  "name": "Dutch Reformed Church",
+                  "text": "A történelmi rustenburgi holland református templom arról híres, hogy egykor Paul Kruger, a korábbi dél-afrikai elnök is rendszeresen látogatta az istentiszteleteit.",
+                  "category": "religious",
+                  "coords": [
+                        27.245577,
+                        -25.671703
+                  ]
+            },
+            {
+                  "name": "Lily Park",
+                  "text": "A Lily Park frissítő kikapcsolódást nyújt szabadtéri medencéivel és családbarát vízicsúszdáival.",
+                  "category": "recreational",
+                  "coords": [
+                        27.270814,
+                        -25.694946
+                  ]
+            },
+            {
+                  "name": "Kgaswane Mountain Nature Reserve",
+                  "text": "A Magaliesberg csúcsai között elterülő Kgaswane Hegyi Természetvédelmi Terület különösen a fenséges fekete lóantilopok tenyészcsordájának védelméről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.194818,
+                        -25.721356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rustenburg Cross",
+                  "text": "Crucea Rustenburg este un punct de belvedere monumental situat pe un deal, care oferă o panoramă vastă asupra regiunii înconjurătoare de minerit a platinei.",
+                  "category": "natural",
+                  "coords": [
+                        27.230106,
+                        -25.705175
+                  ]
+            },
+            {
+                  "name": "Dutch Reformed Church",
+                  "text": "Biserica istorică Reformată Olandeză din Rustenburg este renumită pentru faptul că a fost congregația la care participa regulat fostul președinte sud-african Paul Kruger.",
+                  "category": "religious",
+                  "coords": [
+                        27.245577,
+                        -25.671703
+                  ]
+            },
+            {
+                  "name": "Lily Park",
+                  "text": "Lily Park oferă o evadare recreativă răcoritoare, cu piscine în aer liber și tobogane de apă pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        27.270814,
+                        -25.694946
+                  ]
+            },
+            {
+                  "name": "Kgaswane Mountain Nature Reserve",
+                  "text": "Situată pe vârfurile munților Magaliesberg, Rezervația Naturală Kgaswane este renumită în special pentru protejarea unei turme de reproducere de antilope sabie majestuoase.",
+                  "category": "natural",
+                  "coords": [
+                        27.194818,
+                        -25.721356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rustenburg Cross",
+                  "text": "The Rustenburg Cross is a monumental hilltop viewpoint providing sweeping panoramas of the surrounding platinum mining region.",
+                  "category": "natural",
+                  "coords": [
+                        27.230106,
+                        -25.705175
+                  ]
+            },
+            {
+                  "name": "Dutch Reformed Church",
+                  "text": "The historic Dutch Reformed Church in Rustenburg is famous for being the congregation where Paul Kruger, the former South African president, regularly attended services.",
+                  "category": "religious",
+                  "coords": [
+                        27.245577,
+                        -25.671703
+                  ]
+            },
+            {
+                  "name": "Lily Park",
+                  "text": "Lily Park offers a refreshing recreational escape with outdoor splash pools and family-friendly water slides.",
+                  "category": "recreational",
+                  "coords": [
+                        27.270814,
+                        -25.694946
+                  ]
+            },
+            {
+                  "name": "Kgaswane Mountain Nature Reserve",
+                  "text": "Situated in the Magaliesberg peaks, the Kgaswane Mountain Nature Reserve is particularly noted for protecting a breeding herd of majestic sable antelopes.",
+                  "category": "natural",
+                  "coords": [
+                        27.194818,
+                        -25.721356
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-NW",
     coords: [27.262, -25.669],
@@ -975,7 +4746,52 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "impala-platinum-mine-economic-v2",
+    id: "impala-platinum-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grave of Nkulumane",
+                  "text": "Diese Gedenkstätte markiert das Grab von Nkulumane, einem bedeutenden Anführer in der Geschichte des Ndebele-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        27.151606,
+                        -25.585898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grave of Nkulumane",
+                  "text": "Ez az emlékhely jelöli Nkulumane-nak, a ndebele nép történelmének egyik fontos vezetőjének a sírját.",
+                  "category": "museum",
+                  "coords": [
+                        27.151606,
+                        -25.585898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grave of Nkulumane",
+                  "text": "Acest loc memorial marchează mormântul lui Nkulumane, un lider important în istoria poporului Ndebele.",
+                  "category": "museum",
+                  "coords": [
+                        27.151606,
+                        -25.585898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grave of Nkulumane",
+                  "text": "This memorial site marks the grave of Nkulumane, a significant leader in the history of the Ndebele people.",
+                  "category": "museum",
+                  "coords": [
+                        27.151606,
+                        -25.585898
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-NW",
     coords: [27.227, -25.541],
@@ -1011,7 +4827,88 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "foskor-phalaborwa-economic-v2",
+    id: "foskor-phalaborwa-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olifants River Safaris",
+                  "text": "Diese Attraktion in der Nähe von Phalaborwa bietet friedliche Bootsfahrten, um Flusspferde und Krokodile entlang des Olifants River zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129981,
+                        -24.072087
+                  ]
+            },
+            {
+                  "name": "PMC viewpoint",
+                  "text": "Von diesem Aussichtspunkt in Phalaborwa können Besucher die gewaltigen Abbauarbeiten des Palabora-Kupfertagebaus beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        31.115779,
+                        -23.996466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olifants River Safaris",
+                  "text": "Ez a Phalaborwa melletti látványosság békés hajóutakat kínál vízilovak és krokodilok megfigyelésére az Olifants-folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129981,
+                        -24.072087
+                  ]
+            },
+            {
+                  "name": "PMC viewpoint",
+                  "text": "Ebből a phalaborwai kilátóból a látogatók megfigyelhetik a Palabora rézbánya hatalmas külszíni fejtését.",
+                  "category": "natural",
+                  "coords": [
+                        31.115779,
+                        -23.996466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olifants River Safaris",
+                  "text": "Această atracție din apropiere de Phalaborwa oferă croaziere pașnice cu barca pentru a observa hipopotami și crocodili de-a lungul râului Olifants.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129981,
+                        -24.072087
+                  ]
+            },
+            {
+                  "name": "PMC viewpoint",
+                  "text": "Din acest punct de belvedere din Phalaborwa, vizitatorii pot observa operațiunile masive ale minei de cupru în aer liber Palabora.",
+                  "category": "natural",
+                  "coords": [
+                        31.115779,
+                        -23.996466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olifants River Safaris",
+                  "text": "This attraction near Phalaborwa offers peaceful boat cruises to spot hippos and crocodiles along the Olifants River.",
+                  "category": "landmark",
+                  "coords": [
+                        31.129981,
+                        -24.072087
+                  ]
+            },
+            {
+                  "name": "PMC viewpoint",
+                  "text": "From this Phalaborwa viewpoint, visitors can observe the massive operations of the Palabora Copper Mine open pit.",
+                  "category": "natural",
+                  "coords": [
+                        31.115779,
+                        -23.996466
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-LP",
     coords: [31.111, -24.004],
@@ -1047,7 +4944,88 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     },
   },
   {
-    id: "modikwa-platinum-mine-economic-v2",
+    id: "modikwa-platinum-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monganeng",
+                  "text": "Monganeng ist ein markanter Berggipfel, der sich über die Landschaft in der Nähe von Modikwa erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        30.1642,
+                        -24.6917
+                  ]
+            },
+            {
+                  "name": "Lekgobo",
+                  "text": "Lekgobo ist ein markanter Berggipfel in der Umgebung von Modikwa.",
+                  "category": "natural",
+                  "coords": [
+                        30.1925,
+                        -24.6867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monganeng",
+                  "text": "A Monganeng egy kiemelkedő hegycsúcs, amely Modikwa közelében magasodik a táj fölé.",
+                  "category": "natural",
+                  "coords": [
+                        30.1642,
+                        -24.6917
+                  ]
+            },
+            {
+                  "name": "Lekgobo",
+                  "text": "A Lekgobo egy jellegzetes hegycsúcs Modikwa környékén.",
+                  "category": "natural",
+                  "coords": [
+                        30.1925,
+                        -24.6867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monganeng",
+                  "text": "Monganeng este un vârf montan proeminent care se înalță deasupra peisajului de lângă Modikwa.",
+                  "category": "natural",
+                  "coords": [
+                        30.1642,
+                        -24.6917
+                  ]
+            },
+            {
+                  "name": "Lekgobo",
+                  "text": "Lekgobo este un vârf montan distinct situat în zona Modikwa.",
+                  "category": "natural",
+                  "coords": [
+                        30.1925,
+                        -24.6867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monganeng",
+                  "text": "Monganeng is a rugged mountain peak that towers over the surrounding landscape near the Modikwa mine.",
+                  "category": "natural",
+                  "coords": [
+                        30.1642,
+                        -24.6917
+                  ]
+            },
+            {
+                  "name": "Lekgobo",
+                  "text": "Lekgobo is a steep mountain summit offering panoramic views of the terrain around Modikwa.",
+                  "category": "natural",
+                  "coords": [
+                        30.1925,
+                        -24.6867
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZA-LP",
     coords: [30.134, -24.63],

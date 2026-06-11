@@ -271,7 +271,52 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
     },
   },
   {
-    id: "port-of-djibouti-landmarks-v2",
+    id: "port-of-djibouti-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Aquatique Pink Blue",
+                  "text": "Der Parc Aquatique Pink Blue ist ein Wasser-Themenpark in der Nähe des Hafens von Dschibuti.",
+                  "category": "recreational",
+                  "coords": [
+                        43.147341,
+                        11.603138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Aquatique Pink Blue",
+                  "text": "A Parc Aquatique Pink Blue egy vízi élménypark, amely Dzsibuti kikötőjének közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        43.147341,
+                        11.603138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Aquatique Pink Blue",
+                  "text": "Parc Aquatique Pink Blue este un parc tematic acvatic situat în apropierea portului din Djibouti.",
+                  "category": "recreational",
+                  "coords": [
+                        43.147341,
+                        11.603138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Aquatique Pink Blue",
+                  "text": "The Parc Aquatique Pink Blue is a water theme park located near the Port of Djibouti.",
+                  "category": "recreational",
+                  "coords": [
+                        43.147341,
+                        11.603138
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DJ-DJ",
     coords: [43.145, 11.605],
@@ -559,7 +604,124 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kempinski-palace-landmarks-v2",
+    id: "kempinski-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Nord",
+                  "text": "Plage Nord ist ein sandiger Küstenabschnitt, der einen weiten Blick auf das angrenzende Gewässer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14995,
+                        11.623212
+                  ]
+            },
+            {
+                  "name": "Plage Sud",
+                  "text": "Plage Sud ist ein sandiger Strandbereich, der sich ideal zum Sonnenbaden und für die Erholung an der Küste eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        43.148077,
+                        11.622349
+                  ]
+            },
+            {
+                  "name": "Plage de H",
+                  "text": "Plage de H ist ein sandiger Küstenstreifen, an dem Besucher die sanften Meereswellen genießen können.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14655,
+                        11.6145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Nord",
+                  "text": "A Plage Nord egy homokos partszakasz, ahonnan tágas kilátás nyílik a szomszédos vizekre.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14995,
+                        11.623212
+                  ]
+            },
+            {
+                  "name": "Plage Sud",
+                  "text": "A Plage Sud egy homokos tengerparti terület, amely ideális napozáshoz és tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        43.148077,
+                        11.622349
+                  ]
+            },
+            {
+                  "name": "Plage de H",
+                  "text": "A Plage de H egy part menti homokos sáv, ahol a látogatók élvezhetik a szelíd óceáni hullámokat.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14655,
+                        11.6145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Nord",
+                  "text": "Plage Nord este o porțiune de coastă cu nisip care oferă vederi extinse asupra apei adiacente.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14995,
+                        11.623212
+                  ]
+            },
+            {
+                  "name": "Plage Sud",
+                  "text": "Plage Sud este o zonă de plajă cu nisip ideală pentru băi de soare și recreere pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        43.148077,
+                        11.622349
+                  ]
+            },
+            {
+                  "name": "Plage de H",
+                  "text": "Plage de H este o fâșie de nisip de coastă unde vizitatorii se pot bucura de valurile blânde ale oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14655,
+                        11.6145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Nord",
+                  "text": "Plage Nord is a sandy coastal stretch offering expansive views of the adjacent water.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14995,
+                        11.623212
+                  ]
+            },
+            {
+                  "name": "Plage Sud",
+                  "text": "Plage Sud is a sandy beachfront area ideal for sunbathing and coastal recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        43.148077,
+                        11.622349
+                  ]
+            },
+            {
+                  "name": "Plage de H",
+                  "text": "Plage de H is a coastal sandy strip where visitors can enjoy the gentle ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        43.14655,
+                        11.6145
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DJ-DJ",
     coords: [43.140, 11.613],
@@ -703,7 +865,52 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
     },
   },
   {
-    id: "old-train-station-landmarks-v2",
+    id: "old-train-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "atre des Salines",
+                  "text": "Dieses Theater dient als kultureller Veranstaltungsort für Aufführungen und darstellende Künste in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142904,
+                        11.590583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "atre des Salines",
+                  "text": "Ez a színház kulturális helyszínként szolgál előadások és előadó-művészetek számára a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142904,
+                        11.590583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "atre des Salines",
+                  "text": "Acest teatru servește drept loc cultural pentru spectacole și arte interpretative în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142904,
+                        11.590583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "atre des Salines",
+                  "text": "This theatre serves as a cultural venue for performances and performing arts in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142904,
+                        11.590583
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DJ-DJ",
     coords: [43.144, 11.589],
@@ -847,7 +1054,88 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
     },
   },
   {
-    id: "french-embassy-landmarks-v2",
+    id: "french-embassy-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "drale Notre-Dame du Bon-Pasteur",
+                  "text": "Die Kathedrale Notre-Dame du Bon-Pasteur ist eine große Steinkirche mit markanter religiöser Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        43.15131,
+                        11.600083
+                  ]
+            },
+            {
+                  "name": "Plage de la Siesta",
+                  "text": "Plage de la Siesta bietet eine sandige Küstenumgebung, in der Besucher am Wasser entspannen können.",
+                  "category": "recreational",
+                  "coords": [
+                        43.152257,
+                        11.599758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "drale Notre-Dame du Bon-Pasteur",
+                  "text": "A Notre-Dame du Bon-Pasteur katedrális egy hatalmas kőtemplom, amely kiemelkedő vallási építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        43.15131,
+                        11.600083
+                  ]
+            },
+            {
+                  "name": "Plage de la Siesta",
+                  "text": "A Plage de la Siesta homokos tengerparti környezetet kínál, ahol a látogatók pihenhetnek a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        43.152257,
+                        11.599758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "drale Notre-Dame du Bon-Pasteur",
+                  "text": "Catedrala Notre-Dame du Bon-Pasteur este o biserică grandioasă din piatră cu o arhitectură religioasă proeminentă.",
+                  "category": "religious",
+                  "coords": [
+                        43.15131,
+                        11.600083
+                  ]
+            },
+            {
+                  "name": "Plage de la Siesta",
+                  "text": "Plage de la Siesta oferă un mediu de coastă cu nisip, unde vizitatorii se pot relaxa la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        43.152257,
+                        11.599758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "drale Notre-Dame du Bon-Pasteur",
+                  "text": "The Cathedral of Notre-Dame du Bon-Pasteur is a grand stone church featuring prominent religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        43.15131,
+                        11.600083
+                  ]
+            },
+            {
+                  "name": "Plage de la Siesta",
+                  "text": "Plage de la Siesta provides a sandy coastal environment where visitors can relax by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        43.152257,
+                        11.599758
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DJ-DJ",
     coords: [43.151, 11.600],
@@ -895,7 +1183,52 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tadjourah-port-landmarks-v2",
+    id: "tadjourah-port-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ada",
+                  "text": "Ada ist ein hoher Berggipfel, der das Landesinnere nahe Tadjourah dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.911944,
+                        11.790833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ada",
+                  "text": "Az Ada egy magas hegycsúcs, amely Tadjourah közelében uralja a szárazföldi domborzatot.",
+                  "category": "natural",
+                  "coords": [
+                        42.911944,
+                        11.790833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ada",
+                  "text": "Ada este un vârf montan înalt care domină terenul interior din apropiere de Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.911944,
+                        11.790833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ada",
+                  "text": "Ada is an elevated mountain peak dominating the inland terrain near Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.911944,
+                        11.790833
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DJ-TA",
     coords: [42.910, 11.780],
@@ -991,7 +1324,124 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
     },
   },
   {
-    id: "free-zone-building-landmarks-v2",
+    id: "free-zone-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Toûrka Damêrdjôg",
+                  "text": "Toûrka Damêrdjôg ist ein bemerkenswerter natürlicher Gipfel in der Nähe der kommerziellen Wahrzeichen des Freihandelszonen-Gebäudebereichs.",
+                  "category": "natural",
+                  "coords": [
+                        43.176667,
+                        11.507222
+                  ]
+            },
+            {
+                  "name": "Air Ops",
+                  "text": "Air Ops ist eine auf die Luftfahrt ausgerichtete Attraktion inmitten der kommerziellen Wahrzeichen der Freihandelszone.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "Dieses historische Flugzeugdenkmal des Typs Beechcraft Model 18 ist in der Nähe der Gebäude der Freihandelszone ausgestellt.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Toûrka Damêrdjôg",
+                  "text": "A Toûrka Damêrdjôg egy figyelemre méltó természetes hegycsúcs, amely a szabadzóna-épület területének kereskedelmi nevezetességei közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        43.176667,
+                        11.507222
+                  ]
+            },
+            {
+                  "name": "Air Ops",
+                  "text": "Az Air Ops egy repüléssel kapcsolatos látványosság a szabad övezet kereskedelmi nevezetességei között.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "Ez a történelmi Beechcraft Model 18 repülőgép-emlékmű a szabad övezet épületeinek nevezetességei közelében van kiállítva.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Toûrka Damêrdjôg",
+                  "text": "Toûrka Damêrdjôg este un vârf natural notabil situat în apropierea reperelor comerciale din zona clădirilor zonei libere.",
+                  "category": "natural",
+                  "coords": [
+                        43.176667,
+                        11.507222
+                  ]
+            },
+            {
+                  "name": "Air Ops",
+                  "text": "Air Ops este o atracție axată pe aviație, situată printre reperele comerciale ale zonei libere.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "Acest monument istoric al unei aeronave Beechcraft Model 18 este expus lângă clădirile reprezentative ale zonei libere.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toûrka Damêrdjôg",
+                  "text": "Toûrka Damêrdjôg is a notable natural peak situated near the commercial landmarks of the free zone building area.",
+                  "category": "natural",
+                  "coords": [
+                        43.176667,
+                        11.507222
+                  ]
+            },
+            {
+                  "name": "Air Ops",
+                  "text": "Air Ops is an aviation-focused attraction situated among the commercial landmarks of the free zone.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "This historic Beechcraft Model 18 aircraft monument is displayed near the free zone building landmarks.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DJ-DJ",
     coords: [43.155, 11.545],

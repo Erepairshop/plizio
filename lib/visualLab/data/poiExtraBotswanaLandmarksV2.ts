@@ -138,7 +138,88 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "kazungula-bridge-landmarks-v2",
+    id: "kazungula-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hide (Bunker)",
+                  "text": "Ein getarnter Aussichtsunterstand in der Flusslandschaft, der sich ideal zur ungestörten Wildtierbeobachtung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.236201,
+                        -17.872313
+                  ]
+            },
+            {
+                  "name": "Kazungula Bridge",
+                  "text": "Diese im Mai 2021 eröffnete Extradosed-Brücke verbindet Sambia und Botswana über den Sambesi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.262928,
+                        -17.790731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hide (Bunker)",
+                  "text": "Egy folyami tájon elhelyezkedő, álcázott bunker stílusú les, amely tökéletes a zavartalan vadfotózáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.236201,
+                        -17.872313
+                  ]
+            },
+            {
+                  "name": "Kazungula Bridge",
+                  "text": "A 2021 májusában megnyitott feszített vasbeton híd Zambiát és Botswanát köti össze közvetlenül a Zambézi folyón keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        25.262928,
+                        -17.790731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hide (Bunker)",
+                  "text": "Un ascunzător camuflat în stil buncăr, situat în peisajul fluvial, perfect pentru fotografia netulburată a vieții sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        25.236201,
+                        -17.872313
+                  ]
+            },
+            {
+                  "name": "Kazungula Bridge",
+                  "text": "Deschis în mai 2021, acest pod extradosat conectează Zambia și Botswana direct peste râul Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.262928,
+                        -17.790731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hide (Bunker)",
+                  "text": "A camouflaged bunker-style hide situated in the river landscape, perfect for undisturbed wildlife photography.",
+                  "category": "natural",
+                  "coords": [
+                        25.236201,
+                        -17.872313
+                  ]
+            },
+            {
+                  "name": "Kazungula Bridge",
+                  "text": "Opened in May 2021, this extradosed bridge connects Zambia and Botswana directly across the Zambezi River.",
+                  "category": "landmark",
+                  "coords": [
+                        25.262928,
+                        -17.790731
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-CH",
     coords: [25.2631, -17.7915],
@@ -183,7 +264,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "francistown-obed-itani-chilume-stadium-landmarks-v2",
+    id: "francistown-obed-itani-chilume-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Supa Ngwao Museum",
+                  "text": "Ein Museum in der Nähe des Stadions, das der Geschichte und Kultur des Kalanga-Volkes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.50818,
+                        -21.15846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Supa Ngwao Museum",
+                  "text": "A stadion közelében lévő múzeum, amelyet a kalanga nép történelmének és kultúrájának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        27.50818,
+                        -21.15846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Supa Ngwao Museum",
+                  "text": "Un muzeu situat lângă stadion, dedicat istoriei și culturii poporului Kalanga.",
+                  "category": "museum",
+                  "coords": [
+                        27.50818,
+                        -21.15846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Supa Ngwao Museum",
+                  "text": "A museum near the stadium dedicated to the history and culture of the Kalanga people.",
+                  "category": "museum",
+                  "coords": [
+                        27.50818,
+                        -21.15846
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-NE",
     coords: [27.5028, -21.1682],
@@ -273,7 +399,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "gaborone-innovation-hub-landmarks-v2",
+    id: "gaborone-innovation-hub-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crib",
+                  "text": "Crib ist eine moderne Attraktion auf dem Gelände der gaborone-innovation-hub-landmarks-v2, die innovative lokale Projekte hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857737,
+                        -24.567644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crib",
+                  "text": "A Crib egy modern látványosság a gaborone-innovation-hub-landmarks-v2 területén, amely az innovatív helyi projekteket emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857737,
+                        -24.567644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crib",
+                  "text": "Crib este o atracție modernă situată în gaborone-innovation-hub-landmarks-v2, care evidențiază proiecte locale inovatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857737,
+                        -24.567644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crib",
+                  "text": "Crib is a modern attraction situated within the gaborone-innovation-hub-landmarks-v2 highlighting innovative local projects.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857737,
+                        -24.567644
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-SE",
     coords: [25.8822, -24.5828],
@@ -453,7 +624,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "lobatse-high-court-landmarks-v2",
+    id: "lobatse-high-court-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lobatse Town Park",
+                  "text": "Der Lobatse Town Park bietet Erholungssuchenden gepflegte Grünflächen und Spazierwege mitten im städtischen Zentrum von Lobatse.",
+                  "category": "recreational",
+                  "coords": [
+                        25.684286,
+                        -25.1792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lobatse Town Park",
+                  "text": "A Lobatse Town Park gondozott zöldterületeket és sétányokat kínál a kikapcsolódni vágyóknak Lobatse városközpontjában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.684286,
+                        -25.1792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lobatse Town Park",
+                  "text": "Lobatse Town Park oferă spații verzi îngrijite și alei de plimbare pentru cei care caută relaxare în centrul urban al orașului Lobatse.",
+                  "category": "recreational",
+                  "coords": [
+                        25.684286,
+                        -25.1792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lobatse Town Park",
+                  "text": "Lobatse Town Park provides well-maintained green spaces and walking paths for recreation seekers in the urban centre of Lobatse.",
+                  "category": "recreational",
+                  "coords": [
+                        25.684286,
+                        -25.1792
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-SE",
     coords: [25.67, -25.2167],
@@ -498,7 +714,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "gaborone-national-museum-landmarks-v2",
+    id: "gaborone-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Three Dikgosi Monument",
+                  "text": "Das Three Dikgosi Monument in gaborone-national-museum-landmarks-v2 zeigt Bronzestatuen von drei Stammesführern, die eine Schlüsselrolle in der Geschichte Botswanas spielten.",
+                  "category": "historical",
+                  "coords": [
+                        25.907376,
+                        -24.644886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Three Dikgosi Monument",
+                  "text": "A Three Dikgosi Monument a gaborone-national-museum-landmarks-v2 területen három törzsfőnök bronzszobrát ábrázolja, akik kulcsszerepet játszottak Botswana történetében.",
+                  "category": "historical",
+                  "coords": [
+                        25.907376,
+                        -24.644886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Three Dikgosi Monument",
+                  "text": "Monumentul Three Dikgosi din gaborone-national-museum-landmarks-v2 prezintă statuile de bronz a trei șefi de trib care au jucat un rol cheie în istoria Botswanei.",
+                  "category": "historical",
+                  "coords": [
+                        25.907376,
+                        -24.644886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Three Dikgosi Monument",
+                  "text": "The Three Dikgosi Monument in gaborone-national-museum-landmarks-v2 features bronze statues of three tribal chiefs who played a key role in Botswana's history.",
+                  "category": "historical",
+                  "coords": [
+                        25.907376,
+                        -24.644886
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-SE",
     coords: [25.9056, -24.6465],
@@ -588,7 +849,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "old-palapye-church-ruins-landmarks-v2",
+    id: "old-palapye-church-ruins-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Palapye entrance area",
+                  "text": "In diesem Eingangsbereich befinden sich die Überreste der historischen Infrastruktur einer verlassenen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        27.291993,
+                        -22.623117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Palapye entrance area",
+                  "text": "Ezen a bejárati területen egy elhagyott település történelmi infrastruktúrájának maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        27.291993,
+                        -22.623117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Palapye entrance area",
+                  "text": "În această zonă de intrare se află rămășițele infrastructurii istorice a unei așezări abandonate.",
+                  "category": "historical",
+                  "coords": [
+                        27.291993,
+                        -22.623117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Palapye entrance area",
+                  "text": "This entrance area features the remains of the historical infrastructure from an abandoned settlement.",
+                  "category": "historical",
+                  "coords": [
+                        27.291993,
+                        -22.623117
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-CE",
     coords: [27.2798, -22.645],
@@ -813,7 +1119,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "kolobeng-livingstone-memorial-landmarks-v2",
+    id: "kolobeng-livingstone-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monalanong Hill",
+                  "text": "Der Monalanong Hill ist ein markanter Gipfel in der Region kolobeng-livingstone-memorial-landmarks-v2, der die lokale Skyline dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        25.665,
+                        -24.8408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monalanong Hill",
+                  "text": "A Monalanong Hill egy kiemelkedő hegycsúcs a kolobeng-livingstone-memorial-landmarks-v2 területen, amely meghatározza a helyi látképet.",
+                  "category": "natural",
+                  "coords": [
+                        25.665,
+                        -24.8408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monalanong Hill",
+                  "text": "Dealul Monalanong este un vârf proeminent din zona kolobeng-livingstone-memorial-landmarks-v2 care domină orizontul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.665,
+                        -24.8408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monalanong Hill",
+                  "text": "Monalanong Hill is a prominent peak in the kolobeng-livingstone-memorial-landmarks-v2 area that dominates the local skyline.",
+                  "category": "natural",
+                  "coords": [
+                        25.665,
+                        -24.8408
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-KW",
     coords: [25.6425, -24.8153],
@@ -903,7 +1254,88 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "gaborone-botswana-craft-landmarks-v2",
+    id: "gaborone-botswana-craft-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bonnington Farm",
+                  "text": "Bonnington Farm ist ein historisches landwirtschaftliches Denkmal im Gebiet gaborone-botswana-craft-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        25.879948,
+                        -24.641795
+                  ]
+            },
+            {
+                  "name": "Rachel",
+                  "text": "Rachel ist eine spezifische lokale Attraktion im Gebiet gaborone-botswana-craft-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79581,
+                        -24.667919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bonnington Farm",
+                  "text": "A Bonnington Farm egy történelmi mezőgazdasági emlékmű a gaborone-botswana-craft-landmarks-v2 területen.",
+                  "category": "historical",
+                  "coords": [
+                        25.879948,
+                        -24.641795
+                  ]
+            },
+            {
+                  "name": "Rachel",
+                  "text": "A Rachel egy sajátos helyi látványosság a gaborone-botswana-craft-landmarks-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79581,
+                        -24.667919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bonnington Farm",
+                  "text": "Bonnington Farm este un monument agricol istoric situat în zona gaborone-botswana-craft-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        25.879948,
+                        -24.641795
+                  ]
+            },
+            {
+                  "name": "Rachel",
+                  "text": "Rachel este o atracție locală specifică din zona gaborone-botswana-craft-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79581,
+                        -24.667919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bonnington Farm",
+                  "text": "Bonnington Farm is a historic agricultural monument located in the gaborone-botswana-craft-landmarks-v2 area.",
+                  "category": "historical",
+                  "coords": [
+                        25.879948,
+                        -24.641795
+                  ]
+            },
+            {
+                  "name": "Rachel",
+                  "text": "Rachel is a specific local attraction in the gaborone-botswana-craft-landmarks-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79581,
+                        -24.667919
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-SE",
     coords: [25.8821, -24.6465],
@@ -993,7 +1425,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "serowe-royal-cemetery-landmarks-v2",
+    id: "serowe-royal-cemetery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khama III Memorial Museum",
+                  "text": "Dieses Museum widmet sich der Geschichte des Bamangwato-Volkes, zeichnet das Vermächtnis von Häuptling Khama III. nach und bewahrt wichtige regionale Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        26.70809,
+                        -22.382105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khama III Memorial Museum",
+                  "text": "A Bamangwato nép történetének szentelt múzeum Khama III. főnök örökségét krónikázza, és fontos regionális műtárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        26.70809,
+                        -22.382105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khama III Memorial Museum",
+                  "text": "Dedicat istoriei poporului Bamangwato, acest muzeu relatează moștenirea șefului Khama III și păstrează artefacte regionale importante.",
+                  "category": "museum",
+                  "coords": [
+                        26.70809,
+                        -22.382105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khama III Memorial Museum",
+                  "text": "Dedicated to the history of the Bamangwato people, this museum chronicles the legacy of Chief Khama III and preserves important regional artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        26.70809,
+                        -22.382105
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-CE",
     coords: [26.7125, -22.385],
@@ -1038,7 +1515,124 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "maun-nhabe-museum-landmarks-v2",
+    id: "maun-nhabe-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kingdom Gathering Route 1st Turn",
+                  "text": "Diese Wegmarkierung dient als erste Abbiegung auf der Kingdom Gathering Route und führt Reisende über die Buschpfade rund um Maun.",
+                  "category": "landmark",
+                  "coords": [
+                        23.475713,
+                        -19.995957
+                  ]
+            },
+            {
+                  "name": "Kommeresi Phuthologo",
+                  "text": "Kommeresi Phuthologo ist ein lokaler Treffpunkt in Maun, der sich durch die traditionellen architektonischen Stile der Region auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.417798,
+                        -20.010575
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Die hoch aufragende Telecom-Antenne dient als markantes strukturelles Monument und wichtige Kommunikationsrelaisstation in der flachen Skyline von Maun.",
+                  "category": "historical",
+                  "coords": [
+                        23.429047,
+                        -19.97824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kingdom Gathering Route 1st Turn",
+                  "text": "Ez az iránymutató a Kingdom Gathering Route első elágazásaként szolgál, átvezetve az utazókat a Maun körüli bozótos ösvényeken.",
+                  "category": "landmark",
+                  "coords": [
+                        23.475713,
+                        -19.995957
+                  ]
+            },
+            {
+                  "name": "Kommeresi Phuthologo",
+                  "text": "A Kommeresi Phuthologo egy helyi közösségi érdekeltségű pont Maunban, amely a régió hagyományos építészeti stílusait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        23.417798,
+                        -20.010575
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "A tornyosuló Telecom Antenna egy kiemelkedő strukturális emlékmű és nélkülözhetetlen kommunikációs relé a lapos mauni horizonton.",
+                  "category": "historical",
+                  "coords": [
+                        23.429047,
+                        -19.97824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kingdom Gathering Route 1st Turn",
+                  "text": "Acest indicator direcțional servește ca primă curbă pe ruta Kingdom Gathering, ghidând călătorii pe potecile din savană din jurul Maunului.",
+                  "category": "landmark",
+                  "coords": [
+                        23.475713,
+                        -19.995957
+                  ]
+            },
+            {
+                  "name": "Kommeresi Phuthologo",
+                  "text": "Kommeresi Phuthologo este un punct de interes comunitar local din Maun, prezentând stilurile arhitecturale tradiționale ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        23.417798,
+                        -20.010575
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Antena Telecom impunătoare servește ca un monument structural proeminent și un releu de comunicații esențial pe orizontul plat al orașului Maun.",
+                  "category": "historical",
+                  "coords": [
+                        23.429047,
+                        -19.97824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingdom Gathering Route 1st Turn",
+                  "text": "This directional marker serves as the first turn on the Kingdom Gathering Route, guiding travelers through the bush paths around Maun.",
+                  "category": "landmark",
+                  "coords": [
+                        23.475713,
+                        -19.995957
+                  ]
+            },
+            {
+                  "name": "Kommeresi Phuthologo",
+                  "text": "Kommeresi Phuthologo is a local community point of interest in Maun, featuring traditional architectural styles of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        23.417798,
+                        -20.010575
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "The towering Telecom Antenna serves as a prominent structural monument and essential communication relay against the flat Maun skyline.",
+                  "category": "historical",
+                  "coords": [
+                        23.429047,
+                        -19.97824
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-NW",
     coords: [23.4258, -19.983],
@@ -1083,7 +1677,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "gaborone-sun-international-landmarks-v2",
+    id: "gaborone-sun-international-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Botswana National Museum",
+                  "text": "Dieses Nationalmuseum beherbergt Ausstellungen zur traditionellen Handwerkskunst und Geschichte des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        25.919722,
+                        -24.656655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Botswana National Museum",
+                  "text": "Ez a nemzeti múzeum az ország hagyományos kézművességét és történelmét bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        25.919722,
+                        -24.656655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Botswana National Museum",
+                  "text": "Acest muzeu național găzduiește expoziții despre meșteșugurile tradiționale și istoria țării.",
+                  "category": "museum",
+                  "coords": [
+                        25.919722,
+                        -24.656655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Botswana National Museum",
+                  "text": "This national museum houses exhibitions on the traditional craftsmanship and history of the country.",
+                  "category": "museum",
+                  "coords": [
+                        25.919722,
+                        -24.656655
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-SE",
     coords: [25.918, -24.654],
@@ -1218,7 +1857,52 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "bank-of-botswana-landmarks-v2",
+    id: "bank-of-botswana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone Monument",
+                  "text": "Das Steinmonument im Gebiet bank-of-botswana-landmarks-v2 steht als historische steinerne Markierung zum Gedenken an das lokale Erbe.",
+                  "category": "historical",
+                  "coords": [
+                        25.908437,
+                        -24.645351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Monument",
+                  "text": "A kőemlékmű a bank-of-botswana-landmarks-v2 területen egy történelmi kőjelző, amely a helyi örökségnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        25.908437,
+                        -24.645351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Monument",
+                  "text": "Monumentul de piatră din zona bank-of-botswana-landmarks-v2 este un marcaj istoric din piatră care comemorează moștenirea locală.",
+                  "category": "historical",
+                  "coords": [
+                        25.908437,
+                        -24.645351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Monument",
+                  "text": "The Stone Monument in the bank-of-botswana-landmarks-v2 area stands as a historical stone marker commemorating local heritage.",
+                  "category": "historical",
+                  "coords": [
+                        25.908437,
+                        -24.645351
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-SE",
     coords: [25.9085, -24.6475],
@@ -1263,7 +1947,124 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "francistown-railway-station-landmarks-v2",
+    id: "francistown-railway-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Francistown Records Centre",
+                  "text": "Ein Archivmuseum in der Nähe des Bahnhofs, in dem historische Dokumente der Region Francistown aufbewahrt werden.",
+                  "category": "museum",
+                  "coords": [
+                        27.515732,
+                        -21.171925
+                  ]
+            },
+            {
+                  "name": "Tebo House",
+                  "text": "Ein burgähnliches architektonisches Wahrzeichen in der Nähe des Bahnhofs, das sich in der Skyline von Francistown abhebt.",
+                  "category": "castle",
+                  "coords": [
+                        27.514173,
+                        -21.171652
+                  ]
+            },
+            {
+                  "name": "Kenneth Nkhwa Interchange",
+                  "text": "Eine moderne Straßenkreuzung in der Nähe des Bahnhofs, die vor Ort als \"Spaghetti Junction\" bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.513072,
+                        -21.173864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Francistown Records Centre",
+                  "text": "A vasútállomás közelében lévő levéltári múzeum, amely a francistowni régió történelmi dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        27.515732,
+                        -21.171925
+                  ]
+            },
+            {
+                  "name": "Tebo House",
+                  "text": "Kastélyszerű építészeti nevezetesség a vasútállomás közelében, amely kiemelkedik Francistown látképéből.",
+                  "category": "castle",
+                  "coords": [
+                        27.514173,
+                        -21.171652
+                  ]
+            },
+            {
+                  "name": "Kenneth Nkhwa Interchange",
+                  "text": "A vasútállomás közelében található modern közlekedési csomópont, amelyet a helyiek „Spagetti csomópontként” ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        27.513072,
+                        -21.173864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Francistown Records Centre",
+                  "text": "Un muzeu de arhivă lângă gară care păstrează documentele istorice ale regiunii Francistown.",
+                  "category": "museum",
+                  "coords": [
+                        27.515732,
+                        -21.171925
+                  ]
+            },
+            {
+                  "name": "Tebo House",
+                  "text": "Un reper arhitectural sub formă de castel, situat lângă gară, care iese în evidență în orizontul orașului Francistown.",
+                  "category": "castle",
+                  "coords": [
+                        27.514173,
+                        -21.171652
+                  ]
+            },
+            {
+                  "name": "Kenneth Nkhwa Interchange",
+                  "text": "O intersecție rutieră modernă, cunoscută local sub numele de „Spaghetti junction”, situată lângă gară.",
+                  "category": "landmark",
+                  "coords": [
+                        27.513072,
+                        -21.173864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Francistown Records Centre",
+                  "text": "An archival museum near the railway station preserving the historical documents of the Francistown region.",
+                  "category": "museum",
+                  "coords": [
+                        27.515732,
+                        -21.171925
+                  ]
+            },
+            {
+                  "name": "Tebo House",
+                  "text": "A castle-like architectural landmark near the railway station, standing out in Francistown's skyline.",
+                  "category": "castle",
+                  "coords": [
+                        27.514173,
+                        -21.171652
+                  ]
+            },
+            {
+                  "name": "Kenneth Nkhwa Interchange",
+                  "text": "A modern road infrastructure attraction, locally known as the \"Spaghetti junction,\" near the station.",
+                  "category": "landmark",
+                  "coords": [
+                        27.513072,
+                        -21.173864
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BW-NE",
     coords: [27.5115, -21.1712],

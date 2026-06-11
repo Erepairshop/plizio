@@ -145,7 +145,52 @@ export const poiExtraGuineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "almamy-yaya-tomb-history-v2",
+    id: "almamy-yaya-tomb-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chutes de Dongora",
+                  "text": "Die Chutes de Dongora sind malerische Wasserfälle, die in der Nähe der historischen Grabstätte von Almamy Yaya durch eine felsige Landschaft stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.244098,
+                        11.289695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chutes de Dongora",
+                  "text": "A Chutes de Dongora egy festői helyi vízesés, amely a sziklás tájon zúdul le az Almamy Yaya történelmi sírhely környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.244098,
+                        11.289695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chutes de Dongora",
+                  "text": "Chutes de Dongora este o cascadă pitorească locală ce cade prin peisajul stâncos lângă mormântul istoric al lui Almamy Yaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.244098,
+                        11.289695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chutes de Dongora",
+                  "text": "Chutes de Dongora is a scenic local waterfall cascading through the rocky landscape near the historic Almamy Yaya tomb area.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.244098,
+                        11.289695
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GN-L",
     coords: [-12.28, 11.32],
@@ -193,7 +238,124 @@ export const poiExtraGuineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "fort-boke-museum-history-v2",
+    id: "fort-boke-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Complexe Boké Houré",
+                  "text": "Der Complexe Boké Houré ist eine Touristenattraktion in der Nähe des historischen Forts Boké.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.275457,
+                        10.977784
+                  ]
+            },
+            {
+                  "name": "Musée du fortin de Boké",
+                  "text": "Das Musée du fortin de Boké ist ein Museum, das im historischen Fort Boké untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -14.295905,
+                        10.933358
+                  ]
+            },
+            {
+                  "name": "Place des martyres",
+                  "text": "Die Place des martyres ist ein Gedenkmonument in der Nähe des Forts Boké.",
+                  "category": "historical",
+                  "coords": [
+                        -14.292423,
+                        10.932719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complexe Boké Houré",
+                  "text": "A Complexe Boké Houré egy turisztikai látványosság a történelmi Boké erőd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.275457,
+                        10.977784
+                  ]
+            },
+            {
+                  "name": "Musée du fortin de Boké",
+                  "text": "A Musée du fortin de Boké egy múzeum, amely a történelmi Boké erődben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -14.295905,
+                        10.933358
+                  ]
+            },
+            {
+                  "name": "Place des martyres",
+                  "text": "A Place des martyres egy emlékmű, amely a Boké erőd közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        -14.292423,
+                        10.932719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complexe Boké Houré",
+                  "text": "Complexe Boké Houré este o atracție turistică situată lângă fortul istoric Boké.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.275457,
+                        10.977784
+                  ]
+            },
+            {
+                  "name": "Musée du fortin de Boké",
+                  "text": "Musée du fortin de Boké este un muzeu găzduit în fortul istoric Boké.",
+                  "category": "museum",
+                  "coords": [
+                        -14.295905,
+                        10.933358
+                  ]
+            },
+            {
+                  "name": "Place des martyres",
+                  "text": "Place des martyres este un monument comemorativ situat lângă fortul Boké.",
+                  "category": "historical",
+                  "coords": [
+                        -14.292423,
+                        10.932719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Complexe Boké Houré",
+                  "text": "Complexe Boké Houré is a tourist attraction located near the historic Boké fort.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.275457,
+                        10.977784
+                  ]
+            },
+            {
+                  "name": "Musée du fortin de Boké",
+                  "text": "Musée du fortin de Boké is a museum housed within the historical Boké fort.",
+                  "category": "museum",
+                  "coords": [
+                        -14.295905,
+                        10.933358
+                  ]
+            },
+            {
+                  "name": "Place des martyres",
+                  "text": "Place des martyres is a commemorative monument situated near the Boké fort.",
+                  "category": "historical",
+                  "coords": [
+                        -14.292423,
+                        10.932719
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GN-B",
     coords: [-14.29, 10.93],
@@ -289,7 +451,52 @@ export const poiExtraGuineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "faran-kama-monument-history-v2",
+    id: "faran-kama-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "Dieses lokale Theater dient als Jugendzentrum und bietet eine kulturelle Bühne in Kankan.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "Ez az ifjúsági központként működő helyi színház kulturális színteret biztosít Kankanban.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "Servind drept centru pentru tineret, acest teatru local oferă o scenă culturală în Kankan.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "Serving as a youth center, this local theatre provides a cultural stage within Kankan.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GN-K",
     coords: [-9.30, 10.38],
@@ -385,7 +592,88 @@ export const poiExtraGuineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "sekou-toure-palace-history-v2",
+    id: "sekou-toure-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statut des Antilopes",
+                  "text": "Das Statut des Antilopes ist ein auffälliges Denkmal nahe dem Palast von Sekou Toure, das anmutige Antilopen-Skulpturen darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710487,
+                        9.50881
+                  ]
+            },
+            {
+                  "name": "Musée national de Guinée",
+                  "text": "Das Musée national de Guinée beherbergt umfangreiche Sammlungen ethnografischer Artefakte, die das vielfältige kulturelle Erbe des Landes zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        -13.709109,
+                        9.50462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statut des Antilopes",
+                  "text": "A Statut des Antilopes egy lenyűgöző, vadvilág ihlette emlékmű antilopokat ábrázoló szobrokkal a Sekou Toure palota közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710487,
+                        9.50881
+                  ]
+            },
+            {
+                  "name": "Musée national de Guinée",
+                  "text": "A Musée national de Guinée néprajzi tárgyak kiterjedt gyűjteményeinek ad otthont, amelyek az ország sokszínű kulturális örökségét mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        -13.709109,
+                        9.50462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statut des Antilopes",
+                  "text": "Statut des Antilopes este un monument impresionant cu tematică a faunei sălbatice, prezentând antilope sculpturale lângă zona palatului Sekou Toure.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710487,
+                        9.50881
+                  ]
+            },
+            {
+                  "name": "Musée national de Guinée",
+                  "text": "Musée national de Guinée găzduiește colecții extinse de artefacte etnografice, prezentând moștenirea culturală diversă a țării.",
+                  "category": "museum",
+                  "coords": [
+                        -13.709109,
+                        9.50462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statut des Antilopes",
+                  "text": "The Statut des Antilopes is a striking wildlife-themed monument featuring sculptural antelopes near the Sekou Toure Palace area.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710487,
+                        9.50881
+                  ]
+            },
+            {
+                  "name": "Musée national de Guinée",
+                  "text": "The Musée national de Guinée houses extensive collections of ethnographic artifacts showcasing the country's diverse cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -13.709109,
+                        9.50462
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GN-C",
     coords: [-13.71, 9.51],
@@ -577,7 +865,52 @@ export const poiExtraGuineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "timbo-mosque-history-v2",
+    id: "timbo-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Habitation",
+                  "text": "Habitation ist ein imposanter steinerner Gebäudekomplex, der historisch als Wohnstätte in der Nähe der Moschee von Timbo diente.",
+                  "category": "castle",
+                  "coords": [
+                        -11.825272,
+                        10.631799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Habitation",
+                  "text": "A Habitation egy impozáns kőből épült komplexum, amely történelmileg lakóhelyként szolgált a timbói mecset közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -11.825272,
+                        10.631799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Habitation",
+                  "text": "Habitation este un complex structural impunător din piatră, care a servit istoric ca locuință lângă moscheea din Timbo.",
+                  "category": "castle",
+                  "coords": [
+                        -11.825272,
+                        10.631799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Habitation",
+                  "text": "Habitation is an imposing stone structural compound that historically served as a dwelling near the Timbo mosque.",
+                  "category": "castle",
+                  "coords": [
+                        -11.825272,
+                        10.631799
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GN-M",
     coords: [-11.84, 10.64],
@@ -913,7 +1246,88 @@ export const poiExtraGuineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "grand-mosque-kankan-history-v2",
+    id: "grand-mosque-kankan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "Dieses angesehene Herrenhaus befindet sich in der Nähe der historischen Großen Moschee in Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "Ein militärisches Denkmal zu Ehren von Soldaten, gelegen nahe der Großen Moschee von Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "Ez a kiemelkedő udvarház Kankan történelmi Nagymecsetje közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "Egy katonáknak emléket állító katonai emlékmű Kankan Nagymecsetje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "Acest conac distins este situat în apropierea Marii Mochei istorice din Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "Un monument militar care onorează soldații, situat în apropierea Marii Mochei din Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "This distinguished manor house is located near the historic Grand Mosque in Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "A military monument honoring soldiers, situated near Kankan's Grand Mosque.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GN-K",
     coords: [-9.31, 10.38],

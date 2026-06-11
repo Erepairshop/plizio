@@ -51,7 +51,88 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       fr: ["Immenses réserves de lithium.", "Site important pour l'extraction d'étain.", "Projet central pour l'électromobilité."],
     }, image: "/poi-images/cd-mine-manono-economic-v2.webp"},
   {
-    id: "cd-industry-pharmakina-economic-v2",
+    id: "cd-industry-pharmakina-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amphithéâtre Père George Defour",
+                  "text": "Das Amphithéâtre Père George Defour ist ein lokales Theaterzentrum nahe dem Industriekomplex Pharmakina.",
+                  "category": "cultural",
+                  "coords": [
+                        28.849198,
+                        -2.499883
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance",
+                  "text": "Die Place de l'Indépendance ist ein zentrales öffentliches Denkmal, das an die nationale Unabhängigkeit erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        28.851877,
+                        -2.500414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphithéâtre Père George Defour",
+                  "text": "Az Amphithéâtre Père George Defour egy helyi színházi központ a Pharmakina ipari komplexum közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        28.849198,
+                        -2.499883
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance",
+                  "text": "A Place de l'Indépendance egy központi köztéri emlékmű, amely a nemzeti függetlenségnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        28.851877,
+                        -2.500414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amphithéâtre Père George Defour",
+                  "text": "Amphithéâtre Père George Defour este un centru teatral local aflat lângă complexul industrial Pharmakina.",
+                  "category": "cultural",
+                  "coords": [
+                        28.849198,
+                        -2.499883
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance",
+                  "text": "Place de l'Indépendance este un monument public central care comemorează independența națională.",
+                  "category": "historical",
+                  "coords": [
+                        28.851877,
+                        -2.500414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amphithéâtre Père George Defour",
+                  "text": "The Amphithéâtre Père George Defour is a local theatre venue near the Pharmakina industrial complex.",
+                  "category": "cultural",
+                  "coords": [
+                        28.849198,
+                        -2.499883
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance",
+                  "text": "The Place de l'Indépendance is a central public monument commemorating national independence.",
+                  "category": "historical",
+                  "coords": [
+                        28.851877,
+                        -2.500414
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CD-SK",
     coords: [28.85, -2.50],
@@ -99,7 +180,52 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       fr: ["Plus grand producteur de quinine d'Afrique.", "Transforme l'écorce de quinquina locale.", "Basée à Bukavu au bord du lac Kivu."],
     }, image: "/poi-images/cd-industry-pharmakina-economic-v2.webp"},
   {
-    id: "cd-industry-sotexki-economic-v2",
+    id: "cd-industry-sotexki-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoo de Kisangani",
+                  "text": "Der Zoo de Kisangani in cd-industry-sotexki-economic-v2 präsentiert verschiedene afrikanische Tierarten in seinen Gehegen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.187056,
+                        0.544097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoo de Kisangani",
+                  "text": "A cd-industry-sotexki-economic-v2 területén található Zoo de Kisangani különféle afrikai állatfajokat mutat be kifutóiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.187056,
+                        0.544097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoo de Kisangani",
+                  "text": "Zoo de Kisangani din cd-industry-sotexki-economic-v2 prezintă diverse specii de animale africane în incintele sale.",
+                  "category": "recreational",
+                  "coords": [
+                        25.187056,
+                        0.544097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoo de Kisangani",
+                  "text": "The Zoo de Kisangani in cd-industry-sotexki-economic-v2 houses diverse African wildlife species in its enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        25.187056,
+                        0.544097
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CD-TO",
     coords: [25.18, 0.52],
@@ -580,7 +706,52 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       fr: ["Interface rail-fleuve.", "Capitale de la province du Maniema.", "Navigation sur le Lualaba."],
     }, image: "/poi-images/cd-port-kindu-economic-v2.webp"},
   {
-    id: "cd-port-bandundu-economic-v2",
+    id: "cd-port-bandundu-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Podium Saint Hippolyte",
+                  "text": "Dieser lokale Veranstaltungsort für darstellende Künste beherbergt regionale Theaterproduktionen und lebendige Gemeindetreffen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.371645,
+                        -3.312536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Podium Saint Hippolyte",
+                  "text": "Ez a helyi előadóművészeti helyszín regionális színházi produkcióknak és élénk közösségi összejöveteleknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.371645,
+                        -3.312536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Podium Saint Hippolyte",
+                  "text": "Această locație locală pentru artele spectacolului găzduiește producții teatrale regionale și adunări comunitare pline de viață.",
+                  "category": "cultural",
+                  "coords": [
+                        17.371645,
+                        -3.312536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Podium Saint Hippolyte",
+                  "text": "This local performing arts venue hosts regional theatrical productions and lively community gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        17.371645,
+                        -3.312536
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CD-KW",
     coords: [17.38, -3.31],

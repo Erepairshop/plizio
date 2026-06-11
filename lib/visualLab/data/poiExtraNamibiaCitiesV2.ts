@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraNamibiaCitiesV2: POI[] = [
   {
-    id: "windhoek-cities-v2",
+    id: "windhoek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namibia Arts Association",
+                  "text": "Mit dem Fokus auf die Förderung lokaler Talente veranstaltet diese Galerie dynamische Ausstellungen mit Werken aufstrebender namibischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        17.086049,
+                        -22.560114
+                  ]
+            },
+            {
+                  "name": "Three Circles",
+                  "text": "Diese für ihre atemberaubenden Sonnenuntergänge bekannte Aussichtsplattform bietet einen weiten Blick über das gesamte Tal von Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        17.087849,
+                        -22.560102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namibia Arts Association",
+                  "text": "A helyi tehetségek támogatására összpontosító galéria dinamikus kiállításoknak ad otthont, amelyeken feltörekvő namíbiai művészek alkotásai láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        17.086049,
+                        -22.560114
+                  ]
+            },
+            {
+                  "name": "Three Circles",
+                  "text": "A lenyűgöző naplementékről ismert kilátóterasz széles körképet nyújt a Windhoek-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        17.087849,
+                        -22.560102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namibia Arts Association",
+                  "text": "Concentrată pe promovarea talentelor locale, această galerie găzduiește expoziții dinamice care prezintă lucrări ale artiștilor namibieni emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        17.086049,
+                        -22.560114
+                  ]
+            },
+            {
+                  "name": "Three Circles",
+                  "text": "Renumită pentru priveliștile sale uimitoare la apus, această punte de observație oferă perspective ample asupra întregii văi Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        17.087849,
+                        -22.560102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namibia Arts Association",
+                  "text": "Focused on promoting local talent, this gallery hosts dynamic exhibitions featuring works by emerging and established Namibian artists.",
+                  "category": "museum",
+                  "coords": [
+                        17.086049,
+                        -22.560114
+                  ]
+            },
+            {
+                  "name": "Three Circles",
+                  "text": "Renowned for its stunning sunset vistas, this observation deck offers sweeping views over the entire Windhoek valley.",
+                  "category": "natural",
+                  "coords": [
+                        17.087849,
+                        -22.560102
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "NA-KH",
     coords: [17.0836, -22.5594],
@@ -985,7 +1066,52 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Entourée de trois côtés par le désert du Namib.", "Célèbre pour ses monuments tels que la Woermannhaus."],
     }, image: "/poi-images/swakopmund-cities-v2.webp"},
   {
-    id: "oshakati-cities-v2",
+    id: "oshakati-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omatara Open Market",
+                  "text": "Diese belebte Open-Air-Marktattraktion in Oshakati bietet zahlreiche traditionelle Stände, an denen lokale Lebensmittel und Kunsthandwerk verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698781,
+                        -17.775372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omatara Open Market",
+                  "text": "Ez a nyüzsgő szabadtéri piac látványosság Oshakatiban számos hagyományos standdal rendelkezik, amelyek helyi ételeket és kézműves termékeket árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698781,
+                        -17.775372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omatara Open Market",
+                  "text": "Această atracție cu piață aglomerată în aer liber din Oshakati prezintă numeroase tarabe tradiționale care vând alimente locale și meșteșuguri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698781,
+                        -17.775372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omatara Open Market",
+                  "text": "This bustling open-air market attraction in Oshakati features numerous traditional stalls selling local foods and crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698781,
+                        -17.775372
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-ON",
     coords: [15.7, -17.7833],
@@ -1367,7 +1493,160 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Fondée à l'origine comme station missionnaire finlandaise.", "Sert de terminus nord à la ligne de chemin de fer."],
     }, image: "/poi-images/ondangwa-cities-v2.webp"},
   {
-    id: "okahandja-cities-v2",
+    id: "okahandja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Military Museum",
+                  "text": "Dieses Museum in Okahandja zeigt eine Sammlung alter Militärfahrzeuge und Artefakte, welche die Geschichte der namibischen Streitkräfte dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        16.916266,
+                        -21.980813
+                  ]
+            },
+            {
+                  "name": "Moordkoppie",
+                  "text": "Dieser als „Mordhügel“ bekannte, felsige Aussichtspunkt war 1850 Schauplatz eines berüchtigten Massakers an den ansässigen Herero.",
+                  "category": "natural",
+                  "coords": [
+                        16.909903,
+                        -21.979094
+                  ]
+            },
+            {
+                  "name": "Wegekreuz",
+                  "text": "Dieses Wegekreuz in der Umgebung von Okahandja dient als stilles Denkmal am Straßenrand für Reisende, die durch diese trockene Region fahren.",
+                  "category": "historical",
+                  "coords": [
+                        16.918594,
+                        -21.986776
+                  ]
+            },
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "Diese historische, 1876 in Okahandja errichtete rheinische Missionskirche beherbergt im angrenzenden Innenhof die Gräber bedeutender Herero-Führer.",
+                  "category": "religious",
+                  "coords": [
+                        16.918775,
+                        -21.9844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Military Museum",
+                  "text": "Az Okahandjában található múzeum régi katonai járművek és műtárgyak gyűjteményét mutatja be, amelyek a namíbiai fegyveres erők történetét dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        16.916266,
+                        -21.980813
+                  ]
+            },
+            {
+                  "name": "Moordkoppie",
+                  "text": "A tragikusan „Gyilkos-hegyként” ismert sziklás kilátópont a helyi hererok elleni hírhedt 1850-es mészárlás helyszíne volt.",
+                  "category": "natural",
+                  "coords": [
+                        16.909903,
+                        -21.979094
+                  ]
+            },
+            {
+                  "name": "Wegekreuz",
+                  "text": "Ez az Okahandja közelében lévő útmenti kereszt egy csendes emlékműként szolgál az ezen a száraz vidéken áthaladó utazók számára.",
+                  "category": "historical",
+                  "coords": [
+                        16.918594,
+                        -21.986776
+                  ]
+            },
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "Az 1876-ban Okahandjában épült történelmi rajnai missziós templom szomszédos udvarán jelentős herero vezetők sírjai találhatók.",
+                  "category": "religious",
+                  "coords": [
+                        16.918775,
+                        -21.9844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Military Museum",
+                  "text": "Acest muzeu din Okahandja expune o colecție de vehicule militare vechi și artefacte care documentează istoria forțelor armate namibiene.",
+                  "category": "museum",
+                  "coords": [
+                        16.916266,
+                        -21.980813
+                  ]
+            },
+            {
+                  "name": "Moordkoppie",
+                  "text": "Cunoscut în mod tragic sub numele de „Dealul Crimei”, acest punct de belvedere stâncos a fost locul unui masacru infam asupra poporului Herero în 1850.",
+                  "category": "natural",
+                  "coords": [
+                        16.909903,
+                        -21.979094
+                  ]
+            },
+            {
+                  "name": "Wegekreuz",
+                  "text": "Această troiță de pe marginea drumului, lângă Okahandja, servește ca un memorial tăcut pentru călătorii care traversează această regiune aridă.",
+                  "category": "historical",
+                  "coords": [
+                        16.918594,
+                        -21.986776
+                  ]
+            },
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "Construită în 1876 în Okahandja, această biserică istorică a misiunii renane găzduiește mormintele unor lideri Herero importanți în curtea sa adiacentă.",
+                  "category": "religious",
+                  "coords": [
+                        16.918775,
+                        -21.9844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Military Museum",
+                  "text": "Situated in Okahandja, this museum displays a collection of old military vehicles and artifacts documenting the history of the Namibian armed forces.",
+                  "category": "museum",
+                  "coords": [
+                        16.916266,
+                        -21.980813
+                  ]
+            },
+            {
+                  "name": "Moordkoppie",
+                  "text": "Tragically known as \"Murder Hill\", this rocky viewpoint was the site of an infamous 1850 massacre involving the local Herero people.",
+                  "category": "natural",
+                  "coords": [
+                        16.909903,
+                        -21.979094
+                  ]
+            },
+            {
+                  "name": "Wegekreuz",
+                  "text": "Situated near Okahandja, this wayside cross monument serves as a quiet roadside memorial for travelers passing through the arid region.",
+                  "category": "historical",
+                  "coords": [
+                        16.918594,
+                        -21.986776
+                  ]
+            },
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "Established in 1876 in Okahandja, this historic Rhenish mission church contains the graves of several notable Herero leaders in its adjacent courtyard.",
+                  "category": "religious",
+                  "coords": [
+                        16.918775,
+                        -21.9844
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-OD",
     coords: [16.9167, -21.9833],
@@ -2483,7 +2762,52 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Porte d'entrée importante pour les voyageurs venant d'Afrique du Sud.", "Connaît des températures estivales extrêmes."],
     }, image: "/poi-images/karasburg-cities-v2.webp"},
   {
-    id: "karibib-cities-v2",
+    id: "karibib-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Christuskirche",
+                  "text": "Die Christus Church in karibib-cities-v2 ist ein markantes koloniales Kirchengebäude aus Stein.",
+                  "category": "religious",
+                  "coords": [
+                        15.847163,
+                        -21.938018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Christus Church",
+                  "text": "A karibib-cities-v2-ben található Christus Church egy feltűnő gyarmati korszakbeli kőtemplom.",
+                  "category": "religious",
+                  "coords": [
+                        15.847163,
+                        -21.938018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Christus Church",
+                  "text": "Christus Church din karibib-cities-v2 este o clădire ecleziastică impunătoare din piatră din epoca colonială.",
+                  "category": "religious",
+                  "coords": [
+                        15.847163,
+                        -21.938018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Christus Church",
+                  "text": "Christus Church in karibib-cities-v2 stands out as a striking colonial-era stone house of worship.",
+                  "category": "religious",
+                  "coords": [
+                        15.847163,
+                        -21.938018
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-ER",
     coords: [15.8333, -21.9333],
@@ -2529,7 +2853,124 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Siège de la mine d'or de Navachab.", "Située sur la route principale entre Windhoek et Swakopmund."],
     }, image: "/poi-images/karibib-cities-v2.webp"},
   {
-    id: "omaruru-cities-v2",
+    id: "omaruru-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omaruru Museum",
+                  "text": "Dieses in einem alten Missionsgebäude in Omaruru untergebrachte Museum bietet Einblicke in den verheerenden Hererokrieg und die lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        15.952827,
+                        -21.421284
+                  ]
+            },
+            {
+                  "name": "Frankenturm",
+                  "text": "Dieser steinerne Militärturm in Omaruru wurde 1908 von den deutschen Truppen erbaut, um an den Sieg von Hauptmann Victor Franke zu erinnern.",
+                  "category": "tower",
+                  "coords": [
+                        15.960707,
+                        -21.420514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche Omaruru",
+                  "text": "Die Kreuzkirche in Omaruru ist ein historisches evangelisches Gotteshaus in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.952963,
+                        -21.418002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omaruru Museum",
+                  "text": "Az Omaruruban egy régi missziós épületben található múzeum bepillantást enged a pusztító herero háborúba és a helyi történelembe.",
+                  "category": "museum",
+                  "coords": [
+                        15.952827,
+                        -21.421284
+                  ]
+            },
+            {
+                  "name": "Franke Tower",
+                  "text": "Az omarurui katonai kőtornyot a német csapatok építették 1908-ban Victor Franke százados győzelmének emlékére.",
+                  "category": "tower",
+                  "coords": [
+                        15.960707,
+                        -21.420514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche Omaruru",
+                  "text": "A Kreuzkirche egy történelmi evangélikus templom Omaruru városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.952963,
+                        -21.418002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omaruru Museum",
+                  "text": "Găzduit într-o veche clădire a misiunii din Omaruru, acest muzeu oferă informații despre devastatorul război Herero și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.952827,
+                        -21.421284
+                  ]
+            },
+            {
+                  "name": "Franke Tower",
+                  "text": "Acest turn militar din piatră din Omaruru a fost construit de trupele germane în 1908 pentru a comemora victoria căpitanului Victor Franke.",
+                  "category": "tower",
+                  "coords": [
+                        15.960707,
+                        -21.420514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche Omaruru",
+                  "text": "Kreuzkirche din Omaruru este un lăcaș de cult istoric evanghelic din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        15.952963,
+                        -21.418002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omaruru Museum",
+                  "text": "Housed in an old missionary building in Omaruru, this local museum provides insights into the devastating Herero War and regional history.",
+                  "category": "museum",
+                  "coords": [
+                        15.952827,
+                        -21.421284
+                  ]
+            },
+            {
+                  "name": "Franke Tower",
+                  "text": "Erected in 1908 in Omaruru, this stone military tower was built by German colonial forces to commemorate Captain Victor Franke's victory.",
+                  "category": "tower",
+                  "coords": [
+                        15.960707,
+                        -21.420514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche Omaruru",
+                  "text": "The Kreuzkirche in Omaruru is a historic evangelical place of worship in the town.",
+                  "category": "religious",
+                  "coords": [
+                        15.952963,
+                        -21.418002
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-ER",
     coords: [15.95, -21.4167],
@@ -2846,7 +3287,52 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Capitale de la région d'Otjozondjupa.", "Possède une ferme de crocodiles célèbre."],
     }, image: "/poi-images/otjiwarongo-cities-v2.webp"},
   {
-    id: "eenhana-cities-v2",
+    id: "eenhana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eenhana Memorial Park and Shrine",
+                  "text": "Dieser Gedenkpark und Schrein dient als feierliches Denkmal zu Ehren der Helden des namibischen Befreiungskampfes in Eenhana.",
+                  "category": "historical",
+                  "coords": [
+                        16.338816,
+                        -17.473859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eenhana Memorial Park and Shrine",
+                  "text": "Ez az emlékpark és szentély ünnepélyes emlékműként szolgál, amely a namíbiai felszabadító küzdelem hősei előtt tiszteleg Eenhana-ban.",
+                  "category": "historical",
+                  "coords": [
+                        16.338816,
+                        -17.473859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eenhana Memorial Park and Shrine",
+                  "text": "Acest parc memorial și altar servește ca un monument solemn care onorează eroii luptei de eliberare din Namibia din Eenhana.",
+                  "category": "historical",
+                  "coords": [
+                        16.338816,
+                        -17.473859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eenhana Memorial Park and Shrine",
+                  "text": "This memorial park and shrine serves as a solemn monument honoring the heroes of the Namibian liberation struggle in Eenhana.",
+                  "category": "historical",
+                  "coords": [
+                        16.338816,
+                        -17.473859
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-OW",
     coords: [16.3333, -17.4833],
@@ -2983,7 +3469,52 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Point de départ pour des excursions dans le Kaokoland.", "Un mélange unique de modes de vie traditionnels et modernes."],
     }, image: "/poi-images/opuwo-cities-v2.webp"},
   {
-    id: "ongwediva-cities-v2",
+    id: "ongwediva-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sam Nujoma Multipurpose Centre",
+                  "text": "Dieser moderne Gemeindekomplex bietet den Einwohnern von Ongwediva wichtige städtische Einrichtungen, künstlerische Workshops und geräumige Versammlungsräume.",
+                  "category": "cultural",
+                  "coords": [
+                        15.76641,
+                        -17.773547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sam Nujoma Multipurpose Centre",
+                  "text": "Ez a modern közösségi komplexum alapvető polgári létesítményeket, művészeti műhelyeket és tágas gyülekezési termeket biztosít Ongwediva lakosai számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.76641,
+                        -17.773547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sam Nujoma Multipurpose Centre",
+                  "text": "Acest complex comunitar modern oferă facilități civice esențiale, ateliere artistice și săli de adunare spațioase pentru locuitorii din Ongwediva.",
+                  "category": "cultural",
+                  "coords": [
+                        15.76641,
+                        -17.773547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sam Nujoma Multipurpose Centre",
+                  "text": "This modern community complex provides essential civic amenities, artistic workshops, and spacious gathering halls for the residents of Ongwediva.",
+                  "category": "cultural",
+                  "coords": [
+                        15.76641,
+                        -17.773547
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-ON",
     coords: [15.7667, -17.7833],
@@ -4239,7 +4770,52 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Célèbre pour le Koës Pan Rally annuel.", "Situé dans les vastes paysages arides du sud."],
     }, image: "/poi-images/koes-cities-v2.webp"},
   {
-    id: "warmbad-cities-v2",
+    id: "warmbad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Warmbad Museum",
+                  "text": "Das Warmbad Museum ist eine lokale historische Sammlung in einem ehemaligen deutschen Kolonialgebäude, das das Erbe der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.738922,
+                        -28.447431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Warmbad Museum",
+                  "text": "A Warmbad Múzeum egy helytörténeti gyűjtemény, amely egy egykori német gyarmati épületben található, és a régió örökségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        18.738922,
+                        -28.447431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Warmbad Museum",
+                  "text": "Muzeul Warmbad este un depozit de istorie locală situat într-o fostă clădire colonială germană, care documentează patrimoniul regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.738922,
+                        -28.447431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Warmbad Museum",
+                  "text": "Warmbad Museum is a local history repository located in a former German colonial building that documents the region's heritage.",
+                  "category": "museum",
+                  "coords": [
+                        18.738922,
+                        -28.447431
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-KA",
     coords: [18.7333, -28.45],

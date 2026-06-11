@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraCapeverdeLandmarksV2: POI[] = [
   {
-    id: "estadio-nacional-landmarks-v2",
+    id: "estadio-nacional-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol de Ponta Leste / Farol de Ponta do Lobo",
+                  "text": "Dieser Küstenleuchtturm leitet den Schiffsverkehr entlang der felsigen Ostspitze der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.434664,
+                        14.981238
+                  ]
+            },
+            {
+                  "name": "Ponta Sambala",
+                  "text": "Dieser Aussichtspunkt an der Küste bietet weitreichende Panoramablicke über den Atlantischen Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        -23.457738,
+                        14.972859
+                  ]
+            },
+            {
+                  "name": "Alcatrazes",
+                  "text": "Diese archäologische Stätte bewahrt die Überreste früher Siedlungen in Küstennähe.",
+                  "category": "historical",
+                  "coords": [
+                        -23.454109,
+                        15.03733
+                  ]
+            },
+            {
+                  "name": "Praia Baixo",
+                  "text": "Dieser Küstenort bietet Sandstrände und Annehmlichkeiten am Meer für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.473681,
+                        15.061944
+                  ]
+            },
+            {
+                  "name": "Praia de São Francisco- Beach Katumbela",
+                  "text": "Dieser Sandstrand bietet entspannende Meeresufer entlang der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.46078,
+                        14.971504
+                  ]
+            },
+            {
+                  "name": "Praia São Tomé",
+                  "text": "Dieser malerische Strand bietet einen Sandstreifen für Entspannung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.468503,
+                        14.954398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol de Ponta Leste / Farol de Ponta do Lobo",
+                  "text": "Ez a part menti világítótorony a sziget sziklás keleti csücskénél irányítja a tengeri forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.434664,
+                        14.981238
+                  ]
+            },
+            {
+                  "name": "Ponta Sambala",
+                  "text": "Ez a tengerparti kilátó lenyűgöző panorámát nyújt az Atlanti-óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -23.457738,
+                        14.972859
+                  ]
+            },
+            {
+                  "name": "Alcatrazes",
+                  "text": "Ez a régészeti lelőhely a part közelében lévő korai települések maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -23.454109,
+                        15.03733
+                  ]
+            },
+            {
+                  "name": "Praia Baixo",
+                  "text": "Ez a tengerparti üdülőhely homokos strandokat és óceánparti kényelmi szolgáltatásokat kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.473681,
+                        15.061944
+                  ]
+            },
+            {
+                  "name": "Praia de São Francisco- Beach Katumbela",
+                  "text": "Ez a homokos strand pihentető óceánparti környezetet kínál a part mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.46078,
+                        14.971504
+                  ]
+            },
+            {
+                  "name": "Praia São Tomé",
+                  "text": "Ez a festői strand homokos partszakaszt kínál a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.468503,
+                        14.954398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol de Ponta Leste / Farol de Ponta do Lobo",
+                  "text": "Acest far de coastă ghidează traficul maritim de-a lungul punctului estic stâncos al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.434664,
+                        14.981238
+                  ]
+            },
+            {
+                  "name": "Ponta Sambala",
+                  "text": "Acest punct de belvedere pe coastă oferă panorame largi asupra Oceanului Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -23.457738,
+                        14.972859
+                  ]
+            },
+            {
+                  "name": "Alcatrazes",
+                  "text": "Acest sit arheologic păstrează rămășițele unor așezări timpurii din apropierea coastei.",
+                  "category": "historical",
+                  "coords": [
+                        -23.454109,
+                        15.03733
+                  ]
+            },
+            {
+                  "name": "Praia Baixo",
+                  "text": "Această stațiune de coastă oferă vizitatorilor plaje cu nisip și facilități pe malul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.473681,
+                        15.061944
+                  ]
+            },
+            {
+                  "name": "Praia de São Francisco- Beach Katumbela",
+                  "text": "Această plajă cu nisip oferă țărmuri oceanice relaxante de-a lungul coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.46078,
+                        14.971504
+                  ]
+            },
+            {
+                  "name": "Praia São Tomé",
+                  "text": "Această plajă pitorească oferă o întindere de nisip pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.468503,
+                        14.954398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol de Ponta Leste / Farol de Ponta do Lobo",
+                  "text": "This coastal lighthouse guides maritime traffic along the island's eastern rocky point.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.434664,
+                        14.981238
+                  ]
+            },
+            {
+                  "name": "Ponta Sambala",
+                  "text": "This coastal viewpoint offers sweeping panoramas over the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -23.457738,
+                        14.972859
+                  ]
+            },
+            {
+                  "name": "Alcatrazes",
+                  "text": "This archaeological site preserves remnants of early settlements near the coast.",
+                  "category": "historical",
+                  "coords": [
+                        -23.454109,
+                        15.03733
+                  ]
+            },
+            {
+                  "name": "Praia Baixo",
+                  "text": "This coastal resort provides sandy beaches and oceanfront amenities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.473681,
+                        15.061944
+                  ]
+            },
+            {
+                  "name": "Praia de São Francisco- Beach Katumbela",
+                  "text": "This sandy beach features relaxing ocean shores along the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.46078,
+                        14.971504
+                  ]
+            },
+            {
+                  "name": "Praia São Tomé",
+                  "text": "This scenic beach offers a stretch of sand for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.468503,
+                        14.954398
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-PR",
     coords: [-23.4908, 14.9811],
@@ -51,7 +276,124 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "farol-ponta-temerosa-landmarks-v2",
+    id: "farol-ponta-temerosa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ex Leprosy Station",
+                  "text": "Die Ruinen der ehemaligen Leprastation an der Ponta Temerosa in Praia zeugen noch heute von der harten medizinischen Quarantänegeschichte der Insel.",
+                  "category": "historical",
+                  "coords": [
+                        -23.507692,
+                        14.908449
+                  ]
+            },
+            {
+                  "name": "Farol de María Pia",
+                  "text": "Der achteckige Leuchtturm Farol de Dona Maria Pia markiert an der Hafeneinfahrt von Praia die südlichste Spitze der Insel Santiago.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509077,
+                        14.900434
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Prainha ist ein kleiner, geschützter Sandstrand im Botschaftsviertel von Praia, an dem häufig kleine Fischerboote ankern.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511721,
+                        14.904263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ex Leprosy Station",
+                  "text": "Az egykori lepratelep romjai a praiai Ponta Temerosán ma is a sziget szigorú orvosi karanténtörténetéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        -23.507692,
+                        14.908449
+                  ]
+            },
+            {
+                  "name": "Farol de María Pia",
+                  "text": "A Farol de Dona Maria Pia nyolcszögletű világítótornya Praia kikötőjének bejáratánál Santiago szigetének legdélibb csücskét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509077,
+                        14.900434
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "A Prainha egy kicsi, védett homokos strand Praia nagykövetségi negyedében, ahol gyakran horgonyoznak kis halászcsónakok.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511721,
+                        14.904263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ex Leprosy Station",
+                  "text": "Ruinele fostei stații pentru leproși de la Ponta Temerosa din Praia stau mărturie istoriei medicale dure a carantinei de pe insulă.",
+                  "category": "historical",
+                  "coords": [
+                        -23.507692,
+                        14.908449
+                  ]
+            },
+            {
+                  "name": "Farol de María Pia",
+                  "text": "Farul octogonal Dona Maria Pia de la intrarea în portul din Praia marchează extremitatea sudică a insulei Santiago.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509077,
+                        14.900434
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Prainha este o mică plajă cu nisip, protejată, situată în cartierul ambasadelor din Praia, unde ancorează adesea mici bărci de pescuit.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511721,
+                        14.904263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ex Leprosy Station",
+                  "text": "The ruins of the former Leprosy Station at Ponta Temerosa in Praia stand as a stark reminder of the island's harsh medical quarantine history.",
+                  "category": "historical",
+                  "coords": [
+                        -23.507692,
+                        14.908449
+                  ]
+            },
+            {
+                  "name": "Farol de María Pia",
+                  "text": "The octagonal Dona Maria Pia Lighthouse at the entrance to Praia's harbour marks the southernmost tip of Santiago island.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509077,
+                        14.900434
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Prainha is a small, sheltered sandy beach in Praia's embassy district where traditional fishing boats often drop anchor.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511721,
+                        14.904263
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-PR",
     coords: [-23.5083, 14.9042],
@@ -147,7 +489,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "camara-municipal-praia-landmarks-v2",
+    id: "camara-municipal-praia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Nossa Senhora da Graça",
+                  "text": "Die Igreja de Nossa Senhora da Graça ist eine historische katholische Prokathedrale auf dem zentralen Plateau von Praia.",
+                  "category": "religious",
+                  "coords": [
+                        -23.508658,
+                        14.917288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Nossa Senhora da Graça",
+                  "text": "Az Igreja de Nossa Senhora da Graça egy történelmi katolikus pro-katedrális Praia központi fennsíkján.",
+                  "category": "religious",
+                  "coords": [
+                        -23.508658,
+                        14.917288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Nossa Senhora da Graça",
+                  "text": "Igreja de Nossa Senhora da Graça este o pro-catedrală catolică istorică pe platoul central din Praia.",
+                  "category": "religious",
+                  "coords": [
+                        -23.508658,
+                        14.917288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja de Nossa Senhora da Graça",
+                  "text": "Igreja de Nossa Senhora da Graça is a historic Catholic pro-cathedral on the central plateau of Praia.",
+                  "category": "religious",
+                  "coords": [
+                        -23.508658,
+                        14.917288
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-PR",
     coords: [-23.5085, 14.9175],
@@ -266,7 +653,160 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palacio-justica-praia-landmarks-v2",
+    id: "palacio-justica-praia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Diese bunten, bemalten Treppen bilden einen farbenfrohen Fußgängerweg durch das Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.508263,
+                        14.920929
+                  ]
+            },
+            {
+                  "name": "Parque de Diversões 5 de Julho",
+                  "text": "Dieser städtische Vergnügungspark bietet familienfreundliche Fahrgeschäfte und Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.508148,
+                        14.922869
+                  ]
+            },
+            {
+                  "name": "Praça Alexandre Albuquerque",
+                  "text": "Dieser zentrale historische Platz ist von kolonialer Architektur gesäumt und verfügt über entspannte Sitzgelegenheiten.",
+                  "category": "park",
+                  "coords": [
+                        -23.509136,
+                        14.917691
+                  ]
+            },
+            {
+                  "name": "Museou Etnográfico",
+                  "text": "Dieses ethnografische Museum zeigt traditionelle kapverdische Artefakte und kulturelle Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        -23.507231,
+                        14.920913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Ezek a vibráló, festett lépcsők színes gyalogos ösvényt alkotnak a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.508263,
+                        14.920929
+                  ]
+            },
+            {
+                  "name": "Parque de Diversões 5 de Julho",
+                  "text": "Ez a városi vidámpark családbarát túrákat és szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.508148,
+                        14.922869
+                  ]
+            },
+            {
+                  "name": "Praça Alexandre Albuquerque",
+                  "text": "Ezt a központi történelmi teret gyarmati építészet szegélyezi, és pihentető ülőhelyekkel is rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -23.509136,
+                        14.917691
+                  ]
+            },
+            {
+                  "name": "Museou Etnográfico",
+                  "text": "Ez a néprajzi múzeum hagyományos zöld-foki-szigeteki leleteket és kulturális kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -23.507231,
+                        14.920913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Aceste scări pictate vibrant creează o cale pietonală colorată prin cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.508263,
+                        14.920929
+                  ]
+            },
+            {
+                  "name": "Parque de Diversões 5 de Julho",
+                  "text": "Acest parc de distracții urban oferă atracții pentru familii și activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.508148,
+                        14.922869
+                  ]
+            },
+            {
+                  "name": "Praça Alexandre Albuquerque",
+                  "text": "Această piață istorică centrală este flancată de arhitectură colonială și oferă zone de relaxare.",
+                  "category": "park",
+                  "coords": [
+                        -23.509136,
+                        14.917691
+                  ]
+            },
+            {
+                  "name": "Museou Etnográfico",
+                  "text": "Acest muzeu etnografic expune artefacte tradiționale și exponate culturale din Capul Verde.",
+                  "category": "museum",
+                  "coords": [
+                        -23.507231,
+                        14.920913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Painted Stairs.",
+                  "text": "These vibrant painted stairs create a colorful pedestrian pathway through the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.508263,
+                        14.920929
+                  ]
+            },
+            {
+                  "name": "Parque de Diversões 5 de Julho",
+                  "text": "This urban amusement park provides family-friendly rides and recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.508148,
+                        14.922869
+                  ]
+            },
+            {
+                  "name": "Praça Alexandre Albuquerque",
+                  "text": "This central historical square is lined with colonial architecture and features relaxed seating areas.",
+                  "category": "park",
+                  "coords": [
+                        -23.509136,
+                        14.917691
+                  ]
+            },
+            {
+                  "name": "Museou Etnográfico",
+                  "text": "This ethnographic museum displays traditional Cape Verdean artifacts and cultural exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -23.507231,
+                        14.920913
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-PR",
     coords: [-23.5092, 14.9181],
@@ -314,7 +854,88 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mercado-sucupira-landmarks-v2",
+    id: "mercado-sucupira-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado de Sucupira",
+                  "text": "Dieser belebte Freiluftmarkt bietet eine farbenfrohe Auswahl an traditioneller Kleidung, Kunsthandwerk und lokalen Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509636,
+                        14.922586
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "Dieser lebhafte Wochenendmarkt zieht Einheimische und Besucher mit einer Vielzahl an frischen Produkten und Waren an.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.510529,
+                        14.921421
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado de Sucupira",
+                  "text": "Ez a nyüzsgő szabadtéri piac hagyományos ruházati cikkek, kézműves termékek és helyi áruk élénk választékát kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509636,
+                        14.922586
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "Ez a nyüzsgő hétvégi piac friss termékek és áruk széles választékával vonzza a helyieket és a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.510529,
+                        14.921421
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado de Sucupira",
+                  "text": "Această piață plină de viață în aer liber oferă o gamă vibrantă de îmbrăcăminte tradițională, obiecte de artizanat și produse locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509636,
+                        14.922586
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "Această piață vibrantă de weekend atrage localnicii și vizitatorii cu o varietate de produse proaspete și mărfuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.510529,
+                        14.921421
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado de Sucupira",
+                  "text": "This bustling open-air market offers a vibrant array of traditional clothing, crafts, and local goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509636,
+                        14.922586
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "This vibrant weekend market attracts locals and visitors with a variety of fresh produce and goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.510529,
+                        14.921421
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-PR",
     coords: [-23.5133, 14.9208],
@@ -362,7 +983,160 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "biblioteca-nacional-landmarks-v2",
+    id: "biblioteca-nacional-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Arqueologia",
+                  "text": "Dieses Archäologiemuseum stellt Artefakte aus historischen Schiffswracks und frühen Siedlungen aus.",
+                  "category": "museum",
+                  "coords": [
+                        -23.512573,
+                        14.914948
+                  ]
+            },
+            {
+                  "name": "Estatua Diogo Gomes",
+                  "text": "Diese markante Statue ehrt den portugiesischen Seefahrer, der den Archipel erkundete.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509638,
+                        14.915959
+                  ]
+            },
+            {
+                  "name": "Arquivo Historico Nacional",
+                  "text": "Dieses Nationalarchiv bewahrt wichtige historische Dokumente und Verwaltungsakten von Kap Verde auf.",
+                  "category": "museum",
+                  "coords": [
+                        -23.511503,
+                        14.914613
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "Dieser Sandstrand an der Küste dient als beliebter Treffpunkt für Veranstaltungen am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.509807,
+                        14.914919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Arqueologia",
+                  "text": "Ez a régészeti múzeum történelmi hajóroncsokból és korai településekről feltárt leleteket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -23.512573,
+                        14.914948
+                  ]
+            },
+            {
+                  "name": "Estatua Diogo Gomes",
+                  "text": "Ez a kiemelkedő szobor a szigetcsoportot felfedező portugál navigátornak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509638,
+                        14.915959
+                  ]
+            },
+            {
+                  "name": "Arquivo Historico Nacional",
+                  "text": "Ez a nemzeti levéltár őrzi a Zöld-foki Köztársaság fontos történelmi dokumentumait és közigazgatási feljegyzéseit.",
+                  "category": "museum",
+                  "coords": [
+                        -23.511503,
+                        14.914613
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "Ez a tengerparti homokos strand népszerű találkozóhely a tengerparti rendezvények számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.509807,
+                        14.914919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Arqueologia",
+                  "text": "Acest muzeu de arheologie expune artefacte descoperite din epave istorice și așezări timpurii.",
+                  "category": "museum",
+                  "coords": [
+                        -23.512573,
+                        14.914948
+                  ]
+            },
+            {
+                  "name": "Estatua Diogo Gomes",
+                  "text": "Această statuie proeminentă îl onorează pe navigatorul portughez care a explorat arhipelagul.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509638,
+                        14.915959
+                  ]
+            },
+            {
+                  "name": "Arquivo Historico Nacional",
+                  "text": "Această arhivă națională păstrează documente istorice critice și înregistrări administrative din Capul Verde.",
+                  "category": "museum",
+                  "coords": [
+                        -23.511503,
+                        14.914613
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "Această plajă de coastă cu nisip servește drept un loc popular de adunare pentru evenimente pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.509807,
+                        14.914919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Arqueologia",
+                  "text": "This archaeology museum exhibits artifacts uncovered from historical shipwrecks and early settlements.",
+                  "category": "museum",
+                  "coords": [
+                        -23.512573,
+                        14.914948
+                  ]
+            },
+            {
+                  "name": "Estatua Diogo Gomes",
+                  "text": "This prominent statue honors the Portuguese navigator who explored the archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.509638,
+                        14.915959
+                  ]
+            },
+            {
+                  "name": "Arquivo Historico Nacional",
+                  "text": "This national archive preserves critical historical documents and administrative records of Cabo Verde.",
+                  "category": "museum",
+                  "coords": [
+                        -23.511503,
+                        14.914613
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "This coastal sandy beach serves as a popular gathering spot for seaside events.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.509807,
+                        14.914919
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-PR",
     coords: [-23.5111, 14.9167],
@@ -506,7 +1280,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palacio-governador-mindelo-landmarks-v2",
+    id: "palacio-governador-mindelo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Luís Morais",
+                  "text": "Dieses Denkmal in der Nähe des Gouverneurspalastes feiert das Leben und die Musik des berühmten kapverdischen Klarinettisten Luís Morais.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luís Morais",
+                  "text": "Ez a Kormányzói Palota közelében található emlékmű a híres zöld-foki-szigeteki klarinétos, Luís Morais életét és zenéjét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luís Morais",
+                  "text": "Acest monument de lângă Palatul Guvernatorului celebrează viața și muzica faimosului clarinetist din Capul Verde, Luís Morais.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luís Morais",
+                  "text": "This monument near the Governor's Palace celebrates the life and music of the famous Cape Verdean clarinetist Luís Morais.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-SV",
     coords: [-24.9892, 16.8875],
@@ -602,7 +1421,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "igreja-nossa-senhora-luz-mindelo-landmarks-v2",
+    id: "igreja-nossa-senhora-luz-mindelo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baltasar Lopes da Silva",
+                  "text": "Ein markantes Denkmal, das den einflussreichen kapverdischen Schriftsteller, Dichter und Linguisten Baltasar Lopes da Silva würdigt.",
+                  "category": "historical",
+                  "coords": [
+                        -24.987706,
+                        16.885762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baltasar Lopes da Silva",
+                  "text": "A befolyásos zöld-foki-szigeteki író, költő és nyelvész, Baltasar Lopes da Silva előtt tisztelgő feltűnő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -24.987706,
+                        16.885762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baltasar Lopes da Silva",
+                  "text": "Un monument impresionant care aduce un omagiu influentului scriitor, poet și lingvist capverdian Baltasar Lopes da Silva.",
+                  "category": "historical",
+                  "coords": [
+                        -24.987706,
+                        16.885762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baltasar Lopes da Silva",
+                  "text": "A striking monument paying tribute to the influential Cape Verdean writer, poet, and linguist Baltasar Lopes da Silva.",
+                  "category": "historical",
+                  "coords": [
+                        -24.987706,
+                        16.885762
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-SV",
     coords: [-24.9878, 16.8861],
@@ -698,7 +1562,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "camara-municipal-sv-landmarks-v2",
+    id: "camara-municipal-sv-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "Dieses Kulturzentrum ist im alten Zollgebäude untergebracht und ein lebendiger Knotenpunkt für Kunstausstellungen und Aufführungen in Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "A régi vámépületben helyet kapó kulturális központ a művészeti kiállítások és előadások nyüzsgő központja Mindelóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "Găzduit în vechea clădire a vămii, acest centru cultural este un hub vibrant pentru expoziții de artă și spectacole în Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "Housed in the old customs building, this cultural center is a vibrant hub for art exhibitions and performances in Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-SV",
     coords: [-24.9889, 16.8872],
@@ -746,7 +1655,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "liceu-gil-eanes-landmarks-v2",
+    id: "liceu-gil-eanes-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "Eine Statue am Meer zu Ehren von Diogo Afonso, dem portugiesischen Seefahrer, dem die Entdeckung der Insel São Vicente zugeschrieben wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "Tengerparti szobor, amely Diogo Afonso portugál tengerésznek állít emléket, akinek São Vicente szigetének felfedezését tulajdonítják.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "O statuie pe litoral care îl onorează pe Diogo Afonso, navigatorul portughez căruia i se atribuie descoperirea insulei São Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "A seaside statue honoring Diogo Afonso, the Portuguese navigator credited with discovering the island of São Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-SV",
     coords: [-24.9897, 16.8858],
@@ -842,7 +1796,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "estadio-aderito-sena-landmarks-v2",
+    id: "estadio-aderito-sena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte de São João",
+                  "text": "Ein markanter Hügel, der einen weiten Panoramablick über die Stadt Mindelo und ihre malerische Bucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte de São João",
+                  "text": "Kiemelkedő domb, amely lenyűgöző panorámát nyújt Mindelo városára és festői öblére.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte de São João",
+                  "text": "Un deal proeminent care oferă vederi panoramice ample asupra orașului Mindelo și a golfului său pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte de São João",
+                  "text": "A prominent hill offering sweeping panoramic views over the city of Mindelo and its picturesque bay.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-SV",
     coords: [-24.992, 16.883],
@@ -1082,7 +2081,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "centro-cultural-mindelo-landmarks-v2",
+    id: "centro-cultural-mindelo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fresques",
+                  "text": "Farbenfrohe Street-Art-Wandbilder, die die lebendige lokale Kultur und Geschichte von Mindelo auf seinen Stadtmauern zum Leben erwecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fresques",
+                  "text": "Színes utcai falfestmények, amelyek Mindelo vibráló helyi kultúráját és történelmét keltik életre a városfalakon.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fresques",
+                  "text": "Picturi murale colorate de artă stradală care aduc la viață cultura și istoria locală vibrantă a orașului Mindelo pe zidurile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fresques",
+                  "text": "Colorful street art murals that bring Mindelo's vibrant local culture and history to life on its city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-SV",
     coords: [-24.9882, 16.8851],
@@ -1130,7 +2174,52 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ponte-ferro-rg-landmarks-v2",
+    id: "ponte-ferro-rg-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "Das Kunstzentrum Sete Sóis Sete Luas fördert den kulturellen Austausch und zeitgenössische Kunst in einem markanten Gebäude in der lusophonen Welt.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "A Sete Sóis Sete Luas művészeti központ a kulturális cserét és a kortárs művészetet népszerűsíti a luzofón világon belül egy jellegzetes épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "Centrul de artă Sete Sóis Sete Luas promovează schimbul cultural și arta contemporană într-un spațiu dedicat lumii lusofone.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "The Sete Sóis Sete Luas arts centre promotes cultural exchange and contemporary art within the Lusophone world in a distinctive venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183449
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CV-RG",
     coords: [-25.065, 17.185],

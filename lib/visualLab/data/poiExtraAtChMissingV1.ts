@@ -10894,7 +10894,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Burg Taggenbrunn",
-                  "text": "Burg Taggenbrunn ist eine imposante Burganlage, die für ihre Aussicht und ihr Weingut bekannt ist.",
+                  "text": "Mittelalterliche Burg in Sankt Veit an der Glan, Österreich, erbaut 1142.",
                   "category": "castle",
                   "coords": [
                         14.390178,
@@ -11058,7 +11058,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Burg Taggenbrunn",
-                  "text": "Taggenbrunn vára egy impozáns erődítmény, amely kilátásáról és borászatáról ismert.",
+                  "text": "Középkori vár Sankt Veit an der Glanban, Ausztriában, 1142-ben épült.",
                   "category": "castle",
                   "coords": [
                         14.390178,
@@ -11222,7 +11222,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Burg Taggenbrunn",
-                  "text": "Cetatea Taggenbrunn este o fortificație impunătoare, cunoscută pentru panorama sa și domeniul viticol.",
+                  "text": "Castel medieval în Sankt Veit an der Glan, Austria, construit în 1142.",
                   "category": "castle",
                   "coords": [
                         14.390178,
@@ -11386,7 +11386,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Burg Taggenbrunn",
-                  "text": "Taggenbrunn Castle is an impressive fortress known for its views and its winery.",
+                  "text": "Medieval castle in Sankt Veit an der Glan, Austria, built in 1142.",
                   "category": "castle",
                   "coords": [
                         14.390178,
@@ -24213,7 +24213,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Stadtpfarrkirche St. Gallus",
-                  "text": "Die Stadtpfarrkirche St. Gallus ist eine barocke Kirche mit historischer Bedeutung.",
+                  "text": "Barocke Pfarrkirche in Lauterach, Österreich, erbaut 1747.",
                   "category": "religious",
                   "coords": [
                         9.748002,
@@ -24710,7 +24710,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Stadtpfarrkirche St. Gallus",
-                  "text": "A Szent Gál plébániatemplom egy történelmi jelentőségű barokk templom.",
+                  "text": "Barokk plébániatemplom Lauterachban, Ausztriában, 1747-ben épült.",
                   "category": "religious",
                   "coords": [
                         9.748002,
@@ -25207,7 +25207,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Stadtpfarrkirche St. Gallus",
-                  "text": "Biserica parohială Sfântul Gallus este o biserică barocă cu importanță istorică.",
+                  "text": "Biserică parohială barocă în Lauterach, Austria, construită în 1747.",
                   "category": "religious",
                   "coords": [
                         9.748002,
@@ -25704,7 +25704,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Stadtpfarrkirche St. Gallus",
-                  "text": "The St. Gallus parish church is a baroque church of historical significance.",
+                  "text": "Baroque parish church in Lauterach, Austria, built in 1747.",
                   "category": "religious",
                   "coords": [
                         9.748002,
@@ -40153,7 +40153,7 @@ export const poiExtraAtChMissingV1: POI[] = [
       "de": [
             {
                   "name": "Burg Hohenbregenz",
-                  "text": "Eine historische Burganlage auf dem Gebhardsberg bei Wolfurt.",
+                  "text": "Burgruine oberhalb von Bregenz, Österreich, erbaut 1097.",
                   "category": "castle",
                   "coords": [
                         9.747475,
@@ -40189,7 +40189,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Schloss Wolfurt",
-                  "text": "Ein markantes Schloss, das das Ortsbild von Wolfurt prägt.",
+                  "text": "Schloss in Wolfurt, Österreich, erbaut 1217.",
                   "category": "castle",
                   "coords": [
                         9.754437,
@@ -40443,7 +40443,7 @@ export const poiExtraAtChMissingV1: POI[] = [
       "hu": [
             {
                   "name": "Burg Hohenbregenz",
-                  "text": "Történelmi vár a Wolfurt melletti Gebhardsbergen.",
+                  "text": "Várrom Bregenz felett, Ausztriában, 1097-ben épült.",
                   "category": "castle",
                   "coords": [
                         9.747475,
@@ -40479,7 +40479,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Schloss Wolfurt",
-                  "text": "Wolfurt látképét meghatározó jellegzetes kastély.",
+                  "text": "Kastély Wolfurtban, Ausztriában, 1217-ben épült.",
                   "category": "castle",
                   "coords": [
                         9.754437,
@@ -40733,7 +40733,7 @@ export const poiExtraAtChMissingV1: POI[] = [
       "ro": [
             {
                   "name": "Burg Hohenbregenz",
-                  "text": "O fortăreață istorică pe muntele Gebhardsberg lângă Wolfurt.",
+                  "text": "Ruinele unui castel deasupra Bregenzului, Austria, construite în 1097.",
                   "category": "castle",
                   "coords": [
                         9.747475,
@@ -40769,7 +40769,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Schloss Wolfurt",
-                  "text": "Un castel distinctiv care domină peisajul localității Wolfurt.",
+                  "text": "Castel în Wolfurt, Austria, construit în 1217.",
                   "category": "castle",
                   "coords": [
                         9.754437,
@@ -41023,7 +41023,7 @@ export const poiExtraAtChMissingV1: POI[] = [
       "en": [
             {
                   "name": "Burg Hohenbregenz",
-                  "text": "A historical castle complex on the Gebhardsberg near Wolfurt.",
+                  "text": "Castle ruins above Bregenz, Austria, built in 1097.",
                   "category": "castle",
                   "coords": [
                         9.747475,
@@ -41059,7 +41059,7 @@ export const poiExtraAtChMissingV1: POI[] = [
             },
             {
                   "name": "Schloss Wolfurt",
-                  "text": "A prominent castle that shapes the appearance of Wolfurt.",
+                  "text": "Castle in Wolfurt, Austria, built in 1217.",
                   "category": "castle",
                   "coords": [
                         9.754437,

@@ -531,7 +531,52 @@ export const westernsaharaReliefV2: POI[] = [
     image: "/poi-images/westernsahara-plateau-d-adrar-relief-v2.webp",
   },
   {
-    id: "westernsahara-sabkhat-idjil-extension-relief-v2",
+    id: "westernsahara-sabkhat-idjil-extension-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iyebelán",
+                  "text": "Ein Wüstengipfel mit weitem Blick über die riesigen Salzpfannen des Sabkhat Idjil.",
+                  "category": "natural",
+                  "coords": [
+                        -13.448918,
+                        22.159724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iyebelán",
+                  "text": "Egy sivatagi csúcs, ahonnan kiterjedt kilátás nyílik a Sabkhat Idjil domborzat hatalmas sós síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        -13.448918,
+                        22.159724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iyebelán",
+                  "text": "Un vârf deșertic care oferă vederi ample asupra marilor întinderi de sare din relieful Sabkhat Idjil.",
+                  "category": "natural",
+                  "coords": [
+                        -13.448918,
+                        22.159724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iyebelán",
+                  "text": "A desert peak offering expansive views over the vast salt flats of the Sabkhat Idjil relief.",
+                  "category": "natural",
+                  "coords": [
+                        -13.448918,
+                        22.159724
+                  ]
+            }
+      ]
+},
     type: "lake",
     name: { de: "Sabkhat Idjil Erweiterung", hu: "Sabkhat Idjil kiterjedés", ro: "Extensia Sabkhat Idjil", en: "Sabkhat Idjil Extension" },
     coords: [-13.5, 22.1],

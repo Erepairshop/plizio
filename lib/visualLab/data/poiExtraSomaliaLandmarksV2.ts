@@ -207,7 +207,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-daljirka-dahsoon-landmarks-v2",
+    id: "so-daljirka-dahsoon-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The National Theatre",
+                  "text": "Das Nationaltheater von Somalia ist ein zentraler Veranstaltungsort für darstellende Künste in Mogadischu.",
+                  "category": "cultural",
+                  "coords": [
+                        45.33746,
+                        2.037479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The National Theatre",
+                  "text": "A szomáliai nemzeti színház Mogadishu egyik legfontosabb előadó-művészeti központja.",
+                  "category": "cultural",
+                  "coords": [
+                        45.33746,
+                        2.037479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The National Theatre",
+                  "text": "Teatrul Național al Somaliei este un important centru de arte ale spectacolului din Mogadishu.",
+                  "category": "cultural",
+                  "coords": [
+                        45.33746,
+                        2.037479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The National Theatre",
+                  "text": "The National Theatre of Somalia serves as a major venue for performing arts in Mogadishu.",
+                  "category": "cultural",
+                  "coords": [
+                        45.33746,
+                        2.037479
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-BN",
     coords: [45.3370, 2.0380],
@@ -275,7 +320,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-national-theatre-landmarks-v2",
+    id: "so-national-theatre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Hawa Taako",
+                  "text": "Das Hawa Taako Monument in der Nähe des Nationaltheaters ehrt den Mut einer legendären somalischen Märtyrerin, die gegen die italienische Kolonialherrschaft kämpfte.",
+                  "category": "historical",
+                  "coords": [
+                        45.338217,
+                        2.037254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hawa Taako Monument",
+                  "text": "A Nemzeti Színház közelében álló Hawa Taako-emlékmű egy legendás szomáliai női vértanú bátorsága előtt tiszteleg, aki az olasz gyarmati uralom ellen harcolt.",
+                  "category": "historical",
+                  "coords": [
+                        45.338217,
+                        2.037254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hawa Taako Monument",
+                  "text": "Monumentul Hawa Taako din apropierea Teatrului Național onorează curajul unei martire somaleze legendare care a luptat împotriva dominației coloniale italiene.",
+                  "category": "historical",
+                  "coords": [
+                        45.338217,
+                        2.037254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hawa Taako Monument",
+                  "text": "The Hawa Taako Monument near the National Theatre honors the courage of a legendary Somali female martyr who fought against Italian colonial rule.",
+                  "category": "historical",
+                  "coords": [
+                        45.338217,
+                        2.037254
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-BN",
     coords: [45.3385, 2.0385],
@@ -343,7 +433,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-mogadishu-stadium-landmarks-v2",
+    id: "so-mogadishu-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjidka Ali Geedi",
+                  "text": "Masjidka Ali Geedi dient sowohl als Moschee als auch als Aufbewahrungsort des islamischen Kulturerbes in der Nähe des bekannten Mogadischu-Stadions.",
+                  "category": "museum",
+                  "coords": [
+                        45.374188,
+                        2.061212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjidka Ali Geedi",
+                  "text": "A Masjidka Ali Geedi mecsetként és az iszlám kulturális örökség tárházaként is szolgál a kiemelkedő Mogadishu Stadion közelében.",
+                  "category": "museum",
+                  "coords": [
+                        45.374188,
+                        2.061212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjidka Ali Geedi",
+                  "text": "Masjidka Ali Geedi servește atât ca moschee, cât și ca depozitar al patrimoniului cultural islamic din apropierea renumitului Stadion Mogadishu.",
+                  "category": "museum",
+                  "coords": [
+                        45.374188,
+                        2.061212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjidka Ali Geedi",
+                  "text": "Masjidka Ali Geedi serves as both a mosque and a repository of Islamic cultural heritage near the prominent Mogadishu Stadium.",
+                  "category": "museum",
+                  "coords": [
+                        45.374188,
+                        2.061212
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-BN",
     coords: [45.3465, 2.0620],
@@ -411,7 +546,124 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-villa-somalia-landmarks-v2",
+    id: "so-villa-somalia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjidka isbahaysiga",
+                  "text": "Als Hauptmoschee in der Hauptstadt Somalias verfügt die Moschee der islamischen Solidarität über ein hoch aufragendes Minarett und weite Gebetssäle mit Blick auf den Indischen Ozean.",
+                  "category": "religious",
+                  "coords": [
+                        45.330424,
+                        2.03576
+                  ]
+            },
+            {
+                  "name": "Taalada Sayyidka",
+                  "text": "Taalada Sayyidka ist ein markantes bronzenes Reiterstandbild, das in der Hauptstadt zu Ehren des nationalistischen Führers Mohammed Abdullah Hassan errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        45.32974,
+                        2.036965
+                  ]
+            },
+            {
+                  "name": "Taalada Dhagaxtuur",
+                  "text": "Das Dhagaxtuur-Denkmal ist ein historisches Steindenkmal in der Hauptstadt, das an den frühen somalischen Unabhängigkeitskampf erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.332042,
+                        2.035946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjidka isbahaysiga",
+                  "text": "Szomália fővárosának fő mecsetjeként az Iszlám Szolidaritás Mecsetje magasba tornyosuló minarettel és az Indiai-óceánra néző, tágas imatermekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        45.330424,
+                        2.03576
+                  ]
+            },
+            {
+                  "name": "Taalada Sayyidka",
+                  "text": "A Taalada Sayyidka egy kiemelkedő bronz lovasszobor, amelyet a fővárosban emeltek Mohammed Abdullah Hassan nacionalista vezető tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        45.32974,
+                        2.036965
+                  ]
+            },
+            {
+                  "name": "Taalada Dhagaxtuur",
+                  "text": "A Dhagaxtuur-emlékmű egy történelmi kőemlékmű a fővárosban, amely a korai szomáliai függetlenségi küzdelmeknek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        45.332042,
+                        2.035946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjidka isbahaysiga",
+                  "text": "Fiind principala moschee din capitala Somaliei, Moscheea Solidarității Islamice are un minaret impunător și săli de rugăciune spațioase cu vedere la Oceanul Indian.",
+                  "category": "religious",
+                  "coords": [
+                        45.330424,
+                        2.03576
+                  ]
+            },
+            {
+                  "name": "Taalada Sayyidka",
+                  "text": "Taalada Sayyidka este o statuie ecvestră proeminentă din bronz, ridicată în capitală în onoarea liderului naționalist Mohammed Abdullah Hassan.",
+                  "category": "historical",
+                  "coords": [
+                        45.32974,
+                        2.036965
+                  ]
+            },
+            {
+                  "name": "Taalada Dhagaxtuur",
+                  "text": "Monumentul Dhagaxtuur este un memorial istoric din piatră ridicat în capitală, care comemorează lupta timpurie pentru independența Somaliei.",
+                  "category": "landmark",
+                  "coords": [
+                        45.332042,
+                        2.035946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjidka isbahaysiga",
+                  "text": "As the main mosque in Somalia's capital, the Mosque of Islamic Solidarity features a towering minaret and expansive prayer halls overlooking the Indian Ocean.",
+                  "category": "religious",
+                  "coords": [
+                        45.330424,
+                        2.03576
+                  ]
+            },
+            {
+                  "name": "Taalada Sayyidka",
+                  "text": "Taalada Sayyidka is a prominent bronze equestrian statue erected in the capital to honor the nationalist leader Mohammed Abdullah Hassan.",
+                  "category": "historical",
+                  "coords": [
+                        45.32974,
+                        2.036965
+                  ]
+            },
+            {
+                  "name": "Taalada Dhagaxtuur",
+                  "text": "The Dhagaxtuur Monument stands as a historical stone memorial commemorating the early Somali independence struggle in the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        45.332042,
+                        2.035946
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-BN",
     coords: [45.3315, 2.0375],
@@ -479,7 +731,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-hawo-tako-monument-landmarks-v2",
+    id: "so-hawo-tako-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beerta Nabadda",
+                  "text": "Der Peace Garden bietet einen ruhigen, grünen Treffpunkt mit Blick auf das nahegelegene Hawo Tako-Denkmal im Zentrum von Mogadischu.",
+                  "category": "natural",
+                  "coords": [
+                        45.33517,
+                        2.035011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beerta Nabadda",
+                  "text": "A Béke Kert (Peace Garden) nyugodt, zöldellő gyülekezőhelyet kínál, kilátással a közeli Hawo Tako emlékműre Mogadishu központjában.",
+                  "category": "natural",
+                  "coords": [
+                        45.33517,
+                        2.035011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beerta Nabadda",
+                  "text": "Peace Garden oferă un spațiu de adunare liniștit și verde, cu vedere la monumentul Hawo Tako din centrul orașului Mogadishu.",
+                  "category": "natural",
+                  "coords": [
+                        45.33517,
+                        2.035011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peace Garden",
+                  "text": "Peace Garden offers a tranquil, verdant gathering space with views of the nearby Hawo Tako monument in central Mogadishu.",
+                  "category": "natural",
+                  "coords": [
+                        45.33517,
+                        2.035011
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-BN",
     coords: [45.3350, 2.0365],
@@ -615,7 +912,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-jubba-hotel-ruins-landmarks-v2",
+    id: "so-jubba-hotel-ruins-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daljirka Dahsoon",
+                  "text": "Das Grabmal des Unbekannten Soldaten in Mogadischu ist ein bedeutendes Denkmal zum Gedenken an die gefallenen somalischen Truppen, das sich in der Nähe historischer Stadtruinen befindet.",
+                  "category": "historical",
+                  "coords": [
+                        45.341999,
+                        2.039161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daljirka Dahsoon",
+                  "text": "Az Ismeretlen Katona Sírja Mogadishuban egy kiemelkedő emlékmű, amely az elesett szomáliai csapatoknak állít emléket a történelmi városromok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        45.341999,
+                        2.039161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daljirka Dahsoon",
+                  "text": "Mormântul Soldatului Necunoscut din Mogadishu este un memorial proeminent care comemorează trupele somaleze căzute, situat lângă ruinele istorice ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        45.341999,
+                        2.039161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomb of the Unknown Soldier",
+                  "text": "The Tomb of the Unknown Soldier in Mogadishu is a prominent memorial commemorating the fallen Somali troops, situated near historic city ruins.",
+                  "category": "historical",
+                  "coords": [
+                        45.341999,
+                        2.039161
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-BN",
     coords: [45.3395, 2.0400],
@@ -887,7 +1229,232 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-aden-adde-terminal-landmarks-v2",
+    id: "so-aden-adde-terminal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocky Beach",
+                  "text": "Rocky Beach ist ein raues Küsten-Resort in der Nähe des Aden Adde Terminals, wo die Wellen des Indischen Ozeans gegen die zerklüftete Küste krachen.",
+                  "category": "recreational",
+                  "coords": [
+                        45.306566,
+                        2.010837
+                  ]
+            },
+            {
+                  "name": "cabdi casiis House buloxuubey",
+                  "text": "Dieser städtische Aussichtspunkt am Cabdi Casiis Haus in Buloxuubey bietet einen Aussichtspunkt über das geschäftige Viertel in der Nähe des Hauptflughafenterminals.",
+                  "category": "natural",
+                  "coords": [
+                        45.303162,
+                        2.025052
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdullah Hassan Monument",
+                  "text": "Das Ahmed Gurey-Denkmal ehrt den militärischen Anführer des Sultanats Adal aus dem 16. Jahrhundert, der berühmt für seinen Eroberungsfeldzug gegen das äthiopische Kaiserreich ist.",
+                  "category": "historical",
+                  "coords": [
+                        45.310717,
+                        2.031673
+                  ]
+            },
+            {
+                  "name": "photo sahafi",
+                  "text": "Der Aussichtspunkt Photo Sahafi fängt die dynamischen Straßenszenen von Mogadischu entlang des Korridors zum Flughafen ein.",
+                  "category": "natural",
+                  "coords": [
+                        45.309059,
+                        2.031501
+                  ]
+            },
+            {
+                  "name": "sobe roud eng shibiin",
+                  "text": "Dieser Aussichtspunkt am Straßenrand der Sobe Road bietet freie Sicht auf den geschäftigen Nahverkehr und das umliegende Geschäftsviertel.",
+                  "category": "natural",
+                  "coords": [
+                        45.305115,
+                        2.030092
+                  ]
+            },
+            {
+                  "name": "Beco",
+                  "text": "Beco bietet einen weiten Blick über die umliegende Küstenlandschaft in der Nähe des Terminals von Aden Adde.",
+                  "category": "natural",
+                  "coords": [
+                        45.283142,
+                        2.025261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocky Beach",
+                  "text": "A Rocky Beach egy sziklás tengerparti üdülőövezet az Aden Adde terminál közelében, ahol az Indiai-óceán hullámai a csipkézett partnak csapódnak.",
+                  "category": "recreational",
+                  "coords": [
+                        45.306566,
+                        2.010837
+                  ]
+            },
+            {
+                  "name": "cabdi casiis House buloxuubey",
+                  "text": "Ez a városi kilátó a buloxuubeyi Cabdi Casiis háznál jó rálátást biztosít a fő repülőtéri terminál közelében lévő nyüzsgő környékre.",
+                  "category": "natural",
+                  "coords": [
+                        45.303162,
+                        2.025052
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdullah Hassan Monument",
+                  "text": "Az Ahmed Gurey-emlékmű a 16. századi adal szultánság katonai vezetője előtt tiszteleg, aki híres hódító hadjáratot folytatott az Etióp Császárság ellen.",
+                  "category": "historical",
+                  "coords": [
+                        45.310717,
+                        2.031673
+                  ]
+            },
+            {
+                  "name": "photo sahafi",
+                  "text": "A Photo Sahafi kilátó Mogadishu dinamikus utcai jeleneteit rögzíti a repülőtérre vezető folyosó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        45.309059,
+                        2.031501
+                  ]
+            },
+            {
+                  "name": "sobe roud eng shibiin",
+                  "text": "Ez az útszéli kilátó a Sobe út mentén tiszta rálátást biztosít a nyüzsgő helyi forgalomra és a környező kereskedelmi negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        45.305115,
+                        2.030092
+                  ]
+            },
+            {
+                  "name": "Beco",
+                  "text": "A Beco kilátó tágas panorámát nyújt a környező partvidékre az Aden Adde terminál közelében.",
+                  "category": "natural",
+                  "coords": [
+                        45.283142,
+                        2.025261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocky Beach",
+                  "text": "Rocky Beach este o zonă accidentată de stațiune de coastă lângă terminalul Aden Adde, unde valurile Oceanului Indian se sparg de țărmul stâncos.",
+                  "category": "recreational",
+                  "coords": [
+                        45.306566,
+                        2.010837
+                  ]
+            },
+            {
+                  "name": "cabdi casiis House buloxuubey",
+                  "text": "Acest punct de belvedere urban de la Casa Cabdi Casiis din Buloxuubey oferă o perspectivă asupra cartierului plin de viață din apropierea terminalului principal al aeroportului.",
+                  "category": "natural",
+                  "coords": [
+                        45.303162,
+                        2.025052
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdullah Hassan Monument",
+                  "text": "Monumentul Ahmed Gurey onorează liderul militar al Sultanatului Adal din secolul al XVI-lea, renumit pentru cucerirea sa împotriva Imperiului Etiopian.",
+                  "category": "historical",
+                  "coords": [
+                        45.310717,
+                        2.031673
+                  ]
+            },
+            {
+                  "name": "photo sahafi",
+                  "text": "Punctul de belvedere Photo Sahafi surprinde scenele stradale dinamice din Mogadishu de-a lungul coridorului care duce la aeroport.",
+                  "category": "natural",
+                  "coords": [
+                        45.309059,
+                        2.031501
+                  ]
+            },
+            {
+                  "name": "sobe roud eng shibiin",
+                  "text": "Acest punct de belvedere de pe marginea drumului Sobe Road oferă o vedere clară asupra traficului local aglomerat și a cartierului comercial din jur.",
+                  "category": "natural",
+                  "coords": [
+                        45.305115,
+                        2.030092
+                  ]
+            },
+            {
+                  "name": "Beco",
+                  "text": "Punctul de belvedere Beco oferă o priveliște vastă asupra peisajului de coastă din apropierea terminalului Aden Adde.",
+                  "category": "natural",
+                  "coords": [
+                        45.283142,
+                        2.025261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocky Beach",
+                  "text": "Rocky Beach is a rugged coastal resort area near the Aden Adde terminal where the Indian Ocean waves crash against the jagged shore.",
+                  "category": "recreational",
+                  "coords": [
+                        45.306566,
+                        2.010837
+                  ]
+            },
+            {
+                  "name": "cabdi casiis House buloxuubey",
+                  "text": "This urban viewpoint at the Cabdi Casiis House in Buloxuubey provides a vantage point over the bustling neighborhood near the main airport terminal.",
+                  "category": "natural",
+                  "coords": [
+                        45.303162,
+                        2.025052
+                  ]
+            },
+            {
+                  "name": "Ahmed Gurey monument",
+                  "text": "The Ahmed Gurey monument honors the 16th-century Adal Sultanate military leader who famously waged a conquest against the Ethiopian Empire.",
+                  "category": "historical",
+                  "coords": [
+                        45.310717,
+                        2.031673
+                  ]
+            },
+            {
+                  "name": "photo sahafi",
+                  "text": "The Photo Sahafi viewpoint captures the dynamic street scenes of Mogadishu along the corridor leading to the airport.",
+                  "category": "natural",
+                  "coords": [
+                        45.309059,
+                        2.031501
+                  ]
+            },
+            {
+                  "name": "sobe roud eng shibiin",
+                  "text": "This roadside viewpoint along Sobe Road provides a clear line of sight over the bustling local traffic and the surrounding commercial district.",
+                  "category": "natural",
+                  "coords": [
+                        45.305115,
+                        2.030092
+                  ]
+            },
+            {
+                  "name": "Beco",
+                  "text": "Beco offers sweeping views over the surrounding coastal landscape near the Aden Adde terminal area.",
+                  "category": "natural",
+                  "coords": [
+                        45.283142,
+                        2.025261
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-BN",
     coords: [45.3135, 2.0150],
@@ -955,7 +1522,376 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-hargeisa-war-memorial-landmarks-v2",
+    id: "so-hargeisa-war-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "tec power plant dab damiska(doox)",
+                  "text": "Ein Beobachtungspunkt mit Blick auf die lokale Kraftwerksinfrastruktur in der Nähe der Feuerwache und des Talgebiets der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        44.059592,
+                        9.560058
+                  ]
+            },
+            {
+                  "name": "tec power plant ( geeska africa )",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Anlagen des Kraftwerks Geeska Africa in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.061864,
+                        9.560819
+                  ]
+            },
+            {
+                  "name": "520288/520291 Color zone",
+                  "text": "Dieser ausgewiesene Aussichtspunkt überblickt die lebhafte Stadtlandschaft im Bereich der Color Zone von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.058812,
+                        9.561995
+                  ]
+            },
+            {
+                  "name": "533455",
+                  "text": "Dieser erhöhte Aussichtspunkt im Stadtgebiet von Hargeisa bietet einen Panoramablick über die umliegenden Häuserblocks.",
+                  "category": "natural",
+                  "coords": [
+                        44.061839,
+                        9.574253
+                  ]
+            },
+            {
+                  "name": "534795 al mahdi electron",
+                  "text": "Dieser Aussichtspunkt liegt in der Nähe von Geschäftsvierteln in Hargeisa und bietet freie Sicht auf das Viertel Al Mahdi Electron.",
+                  "category": "natural",
+                  "coords": [
+                        44.062323,
+                        9.575761
+                  ]
+            },
+            {
+                  "name": "513257 barwaaqo",
+                  "text": "Dieser Aussichtspunkt mit Blick auf das Viertel Barwaaqo in Hargeisa rückt das tägliche Leben und die sich entwickelnde Infrastruktur der Gegend in den Fokus.",
+                  "category": "natural",
+                  "coords": [
+                        44.064707,
+                        9.570032
+                  ]
+            },
+            {
+                  "name": "521836 caasha",
+                  "text": "Dieser städtische Aussichtspunkt bietet einen weiten Blick über den Caasha-Sektor der geschäftigen Stadt Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.068245,
+                        9.568685
+                  ]
+            },
+            {
+                  "name": "TLS jameeco WEYN",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über Hargeisa und fängt die Architektur rund um das zentrale Gebiet Jameeco Weyn ein.",
+                  "category": "natural",
+                  "coords": [
+                        44.065956,
+                        9.563501
+                  ]
+            },
+            {
+                  "name": "War Memorial (MIG)",
+                  "text": "Dieses markante Denkmal im Zentrum von Hargeisa besteht aus einem echten MiG-Kampfjet, der auf einem Sockel montiert ist, um an den somalischen Bürgerkrieg zu erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        44.06541,
+                        9.561457
+                  ]
+            },
+            {
+                  "name": "tec power plant masque dirir",
+                  "text": "Mit Blick auf die industriellen Energieanlagen ermöglicht dieser Aussichtspunkt Besuchern, das TEC-Kraftwerk nahe der Masque Dirir-Gegend von Hargeisa zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        44.063882,
+                        9.560749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tec power plant dab damiska(doox)",
+                  "text": "Egy megfigyelőpont, amely a helyi erőmű infrastruktúrájára néz a város tűzoltósága és a völgy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        44.059592,
+                        9.560058
+                  ]
+            },
+            {
+                  "name": "tec power plant ( geeska africa )",
+                  "text": "Egy kilátópont, ahonnan a hargeisai Geeska Africa erőmű létesítményei láthatók.",
+                  "category": "natural",
+                  "coords": [
+                        44.061864,
+                        9.560819
+                  ]
+            },
+            {
+                  "name": "520288/520291 Color zone",
+                  "text": "Ez a kijelölt kilátó a hargeisai Color zone élénk városi tájára tekint.",
+                  "category": "natural",
+                  "coords": [
+                        44.058812,
+                        9.561995
+                  ]
+            },
+            {
+                  "name": "533455",
+                  "text": "Ez a hargeisai városhatáron belül található magaslati kilátó panorámás kilátást nyújt a környező háztömbökre.",
+                  "category": "natural",
+                  "coords": [
+                        44.061839,
+                        9.574253
+                  ]
+            },
+            {
+                  "name": "534795 al mahdi electron",
+                  "text": "A hargeisai helyi kereskedelmi övezetek közelében található kilátó tiszta rálátást biztosít az Al Mahdi Electron negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        44.062323,
+                        9.575761
+                  ]
+            },
+            {
+                  "name": "513257 barwaaqo",
+                  "text": "A hargeisai Barwaaqo negyedre néző megfigyelőpont kiemeli a terület mindennapi életét és fejlődő infrastruktúráját.",
+                  "category": "natural",
+                  "coords": [
+                        44.064707,
+                        9.570032
+                  ]
+            },
+            {
+                  "name": "521836 caasha",
+                  "text": "Ez a városi kilátó kiterjedt kilátást nyújt a nyüzsgő Hargeisa városának Caasha szektorára.",
+                  "category": "natural",
+                  "coords": [
+                        44.068245,
+                        9.568685
+                  ]
+            },
+            {
+                  "name": "TLS jameeco WEYN",
+                  "text": "A Hargeisára nyíló pazar kilátást nyújtó pont megörökíti a központi Jameeco Weyn területet körülvevő építészetet.",
+                  "category": "natural",
+                  "coords": [
+                        44.065956,
+                        9.563501
+                  ]
+            },
+            {
+                  "name": "War Memorial (MIG)",
+                  "text": "Ez a kiemelkedő hargeisai emlékmű egy valódi, talapzatra állított MiG vadászrepülőgépet mutat be a szomáliai polgárháború emlékére.",
+                  "category": "landmark",
+                  "coords": [
+                        44.06541,
+                        9.561457
+                  ]
+            },
+            {
+                  "name": "tec power plant masque dirir",
+                  "text": "Az ipari energetikai létesítményekre néző kilátóból a látogatók megfigyelhetik a hargeisai Masque Dirir térségében található TEC erőművet.",
+                  "category": "natural",
+                  "coords": [
+                        44.063882,
+                        9.560749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tec power plant dab damiska(doox)",
+                  "text": "Un punct de observație cu vedere la infrastructura centralei electrice locale, lângă stația de pompieri și zona văii din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        44.059592,
+                        9.560058
+                  ]
+            },
+            {
+                  "name": "tec power plant ( geeska africa )",
+                  "text": "Un punct de belvedere care oferă imagini ale instalațiilor centralei electrice Geeska Africa din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.061864,
+                        9.560819
+                  ]
+            },
+            {
+                  "name": "520288/520291 Color zone",
+                  "text": "Acest punct de belvedere desemnat domină peisajul urban vibrant din zona Color zone a orașului Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.058812,
+                        9.561995
+                  ]
+            },
+            {
+                  "name": "533455",
+                  "text": "Situat în zona urbană Hargeisa, acest punct de belvedere la înălțime oferă priveliști panoramice peste blocurile din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.061839,
+                        9.574253
+                  ]
+            },
+            {
+                  "name": "534795 al mahdi electron",
+                  "text": "Situat lângă zonele comerciale locale din Hargeisa, acest punct de belvedere oferă vizibilitate clară asupra cartierului Al Mahdi Electron.",
+                  "category": "natural",
+                  "coords": [
+                        44.062323,
+                        9.575761
+                  ]
+            },
+            {
+                  "name": "513257 barwaaqo",
+                  "text": "Dominând cartierul Barwaaqo din Hargeisa, acest punct de observație evidențiază viața de zi cu zi și infrastructura în curs de dezvoltare a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        44.064707,
+                        9.570032
+                  ]
+            },
+            {
+                  "name": "521836 caasha",
+                  "text": "Acest punct de belvedere urban oferă vederi ample asupra sectorului Caasha din aglomeratul oraș Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.068245,
+                        9.568685
+                  ]
+            },
+            {
+                  "name": "TLS jameeco WEYN",
+                  "text": "Oferind vederi panoramice asupra orașului Hargeisa, acest punct de observație surprinde arhitectura din jurul zonei centrale Jameeco Weyn.",
+                  "category": "natural",
+                  "coords": [
+                        44.065956,
+                        9.563501
+                  ]
+            },
+            {
+                  "name": "War Memorial (MIG)",
+                  "text": "Acest monument proeminent din centrul orașului Hargeisa prezintă un avion de vânătoare MiG real, montat pe un soclu pentru a comemora Războiul Civil Somalez.",
+                  "category": "landmark",
+                  "coords": [
+                        44.06541,
+                        9.561457
+                  ]
+            },
+            {
+                  "name": "tec power plant masque dirir",
+                  "text": "Cu vedere la facilitățile energetice industriale, acest punct de belvedere permite vizitatorilor să observe centrala electrică TEC din apropierea zonei Masque Dirir din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.063882,
+                        9.560749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tec power plant dab damiska(doox)",
+                  "text": "An observation point overlooking the local power plant infrastructure near the city's fire station and valley area.",
+                  "category": "natural",
+                  "coords": [
+                        44.059592,
+                        9.560058
+                  ]
+            },
+            {
+                  "name": "tec power plant ( geeska africa )",
+                  "text": "A viewpoint offering sights of the Geeska Africa power plant facilities in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.061864,
+                        9.560819
+                  ]
+            },
+            {
+                  "name": "520288/520291 Color zone",
+                  "text": "This designated viewpoint overlooks the vibrant urban landscape of Hargeisa's Color zone area.",
+                  "category": "natural",
+                  "coords": [
+                        44.058812,
+                        9.561995
+                  ]
+            },
+            {
+                  "name": "533455",
+                  "text": "Situated within the Hargeisa urban area, this elevated viewpoint provides panoramic sights across the surrounding city blocks.",
+                  "category": "natural",
+                  "coords": [
+                        44.061839,
+                        9.574253
+                  ]
+            },
+            {
+                  "name": "534795 al mahdi electron",
+                  "text": "Located near local commercial zones in Hargeisa, this viewpoint offers clear sightlines over the Al Mahdi Electron district.",
+                  "category": "natural",
+                  "coords": [
+                        44.062323,
+                        9.575761
+                  ]
+            },
+            {
+                  "name": "513257 barwaaqo",
+                  "text": "Overlooking the Barwaaqo neighborhood of Hargeisa, this observation point highlights the daily life and developing infrastructure of the area.",
+                  "category": "natural",
+                  "coords": [
+                        44.064707,
+                        9.570032
+                  ]
+            },
+            {
+                  "name": "521836 caasha",
+                  "text": "This urban viewpoint provides expansive views across the Caasha sector of the bustling city of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.068245,
+                        9.568685
+                  ]
+            },
+            {
+                  "name": "TLS jameeco WEYN",
+                  "text": "Offering sweeping views over Hargeisa, this vantage point captures the architecture surrounding the central Jameeco Weyn area.",
+                  "category": "natural",
+                  "coords": [
+                        44.065956,
+                        9.563501
+                  ]
+            },
+            {
+                  "name": "War Memorial (MIG)",
+                  "text": "This prominent monument in central Hargeisa features a real MiG fighter jet mounted on a plinth to commemorate the Somali Civil War.",
+                  "category": "landmark",
+                  "coords": [
+                        44.06541,
+                        9.561457
+                  ]
+            },
+            {
+                  "name": "tec power plant masque dirir",
+                  "text": "Overlooking the industrial energy facilities, this viewpoint allows visitors to observe the TEC power plant near the Masque Dirir area of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.063882,
+                        9.560749
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-WO",
     coords: [44.0625, 9.5605],
@@ -1023,7 +1959,1096 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-hargeisa-grand-mosque-landmarks-v2",
+    id: "so-hargeisa-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjidka Cali Mataan",
+                  "text": "Diese große Moschee mit ihren hoch aufragenden Minaretten dient als zentraler Ort für die täglichen islamischen Gebete im geschäftigen Hargeisa.",
+                  "category": "religious",
+                  "coords": [
+                        44.068275,
+                        9.561806
+                  ]
+            },
+            {
+                  "name": "Shukri's",
+                  "text": "Dieses große, lokale Anwesen im festungsartigen Stil sticht unter den städtischen Gebäuden von Hargeisa hervor.",
+                  "category": "castle",
+                  "coords": [
+                        44.071108,
+                        9.568704
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Diese kulturelle Einrichtung beherbergt Artefakte und Ausstellungen, die das nomadische Erbe und die regionale Geschichte von Somaliland detailliert darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        44.072632,
+                        9.562186
+                  ]
+            },
+            {
+                  "name": "Dahabshil Luxury House",
+                  "text": "Dieses große, luxuriöse Anwesen ähnelt einer modernen Festung und spiegelt das Wirtschaftswachstum und die gehobene Architektur in Hargeisa wider.",
+                  "category": "castle",
+                  "coords": [
+                        44.091825,
+                        9.561586
+                  ]
+            },
+            {
+                  "name": "Somaliland Independence Monument",
+                  "text": "Dieses markante städtische Bauwerk zeigt eine Hand, die eine Landkarte hält, und symbolisiert die Unabhängigkeitserklärung des nicht anerkannten Staates.",
+                  "category": "historical",
+                  "coords": [
+                        44.074936,
+                        9.546837
+                  ]
+            },
+            {
+                  "name": "Old NewHargeisa Cemetery",
+                  "text": "Dieser Friedhof dient als feierlicher Gedenkort und umfasst traditionelle Grabsteine, die die vergangenen Generationen der Stadt widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        44.074214,
+                        9.562301
+                  ]
+            },
+            {
+                  "name": "t power plant tes 1",
+                  "text": "Dieser städtische Aussichtspunkt bietet ein industrielles Panorama mit Blick auf die lokalen Wärmekraftwerke von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.12675,
+                        9.511638
+                  ]
+            },
+            {
+                  "name": "tec power plant tes2",
+                  "text": "Besucher dieses Aussichtspunktes können die elektrische Infrastruktur und die schweren Maschinen beobachten, die zur Stromversorgung der Stadt beitragen.",
+                  "category": "natural",
+                  "coords": [
+                        44.117575,
+                        9.513482
+                  ]
+            },
+            {
+                  "name": "tec power plant3",
+                  "text": "Dieser Ort bietet freie Sicht auf ein industrielles Stromzentrum und zeigt das wachsende Energienetz in der Hauptstadt von Somaliland.",
+                  "category": "natural",
+                  "coords": [
+                        44.111866,
+                        9.517981
+                  ]
+            },
+            {
+                  "name": "telecom kililka",
+                  "text": "Vor dem Hintergrund hoch aufragender Kommunikationsmasten bietet dieser Ort einen erhabenen Blick über die umliegenden Stadtviertel.",
+                  "category": "natural",
+                  "coords": [
+                        44.07769,
+                        9.577624
+                  ]
+            },
+            {
+                  "name": "TLS 511046",
+                  "text": "Dieser Telekommunikations-Aussichtspunkt bietet eine weite Perspektive über die staubigen Dächer und belebten Straßen von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.070047,
+                        9.563448
+                  ]
+            },
+            {
+                  "name": "sompower xarunta suuqa 0634220248",
+                  "text": "Dieser Aussichtspunkt in der Nähe des belebten Marktzentrums bietet einen Blick auf das lokale Sompower-Versorgungsunternehmen, das das Stromnetz der Region verwaltet.",
+                  "category": "natural",
+                  "coords": [
+                        44.069147,
+                        9.564833
+                  ]
+            },
+            {
+                  "name": "521031 LIBAAN STORE",
+                  "text": "Dieser erhöhte Aussichtspunkt auf Straßenebene bietet einen authentischen Einblick in den täglichen Handel vor einem bekannten lokalen Geschäft.",
+                  "category": "natural",
+                  "coords": [
+                        44.066299,
+                        9.561946
+                  ]
+            },
+            {
+                  "name": "tec power plant khudrada",
+                  "text": "In der Nähe der lokalen Gemüsemärkte zeigt dieser industrielle Aussichtspunkt den starken Kontrast zwischen traditionellem Handel und moderner Strominfrastruktur.",
+                  "category": "natural",
+                  "coords": [
+                        44.067993,
+                        9.559898
+                  ]
+            },
+            {
+                  "name": "sompower axmed cali 0634220248",
+                  "text": "Dieser spezifische Aussichtspunkt ermöglicht es Beobachtern, die elektrische Verteilungshardware des lokalen Sompower-Versorgungsknotens zu sehen.",
+                  "category": "natural",
+                  "coords": [
+                        44.074938,
+                        9.549813
+                  ]
+            },
+            {
+                  "name": "Caawiye GPS",
+                  "text": "Als navigationsbezogenes Wahrzeichen bietet dieser Aussichtsbereich einen Blick auf das chaotische, aber lebendige Straßennetz der somalischen Hauptstadt.",
+                  "category": "natural",
+                  "coords": [
+                        44.069345,
+                        9.561666
+                  ]
+            },
+            {
+                  "name": "tec power plant (saldhiga new hargeisa",
+                  "text": "In der Nähe der Polizeistation New Hargeisa gelegen, bietet dieser Aussichtspunkt einen direkten Blick auf das zentrale Kraftwerk des Bezirks.",
+                  "category": "natural",
+                  "coords": [
+                        44.073723,
+                        9.560826
+                  ]
+            },
+            {
+                  "name": "TLS 524154 BADAR HOTEL",
+                  "text": "Dieser Aussichtspunkt rund um das Badar Hotel fängt den stetigen Strom von Gästen und Einheimischen ein, die sich durch das Gastgewerbeviertel bewegen.",
+                  "category": "natural",
+                  "coords": [
+                        44.076145,
+                        9.563826
+                  ]
+            },
+            {
+                  "name": "sompower new Hargeisa 0634220248",
+                  "text": "Mit Blick auf einen wichtigen Stromknotenpunkt in New Hargeisa zeigt dieser Ort die Transformatoren und Kabel, die für das Stromnetz des Bezirks unerlässlich sind.",
+                  "category": "natural",
+                  "coords": [
+                        44.076849,
+                        9.562098
+                  ]
+            },
+            {
+                  "name": "TLS 526622",
+                  "text": "Dieser unmarkierte städtische Aussichtspunkt blickt auf die Wellblechdächer und sandigen Gassen, die für die Wohnviertel der Stadt charakteristisch sind.",
+                  "category": "natural",
+                  "coords": [
+                        44.075962,
+                        9.556023
+                  ]
+            },
+            {
+                  "name": "T power plant 2",
+                  "text": "Dieser Aussichtspunkt konzentriert sich auf ein sekundäres Wärmekraftwerk und beobachtet die imposanten Schornsteine und Industriemaschinen, die das städtische Zentrum antreiben.",
+                  "category": "natural",
+                  "coords": [
+                        44.075753,
+                        9.557503
+                  ]
+            },
+            {
+                  "name": "tls 526681",
+                  "text": "Von diesem auf Telekommunikation ausgerichteten Ort aus erhalten Besucher einen weiten Blick über die flachen Geschäftsgebäude entlang der Hauptstraße.",
+                  "category": "natural",
+                  "coords": [
+                        44.073396,
+                        9.554348
+                  ]
+            },
+            {
+                  "name": "tec power plant maayar;tec power kaliil",
+                  "text": "Dieser Aussichtspunkt mit doppelter Perspektive überblickt die miteinander verbundenen Versorgungsstandorte, die den Bezirk des Bürgermeisters kontinuierlich mit Strom versorgen.",
+                  "category": "natural",
+                  "coords": [
+                        44.074698,
+                        9.555245
+                  ]
+            },
+            {
+                  "name": "TLS 529751",
+                  "text": "Vor dem Hintergrund der Telekommunikation blickt dieser erhöhte Standort auf die sandigen Transitrouten und den lokalen Verkehr von Hargeisa hinab.",
+                  "category": "natural",
+                  "coords": [
+                        44.07524,
+                        9.55312
+                  ]
+            },
+            {
+                  "name": "tls 566097",
+                  "text": "Dieser Ort bietet ein breites Stadtpanorama und überblickt eine Reihe von Kommunikationsantennen, die die Skyline der Hauptstadt prägen.",
+                  "category": "natural",
+                  "coords": [
+                        44.072478,
+                        9.549783
+                  ]
+            },
+            {
+                  "name": "TELESOM &SALAAMA BANK SABA~XAREED",
+                  "text": "Von diesem kommerziellen Aussichtspunkt aus können Betrachter die modernen Schaufenster der Telekommunikations- und Bankfilialen beobachten, die das Gebiet Saba-Xareed bedienen.",
+                  "category": "natural",
+                  "coords": [
+                        44.076006,
+                        9.551288
+                  ]
+            },
+            {
+                  "name": "TLS 529302",
+                  "text": "Dieser Aussichtspunkt bei den TLS-Anlagen bietet einen weiten Blick über das städtische Treiben in der Nähe der Großen Moschee von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.077302,
+                        9.554178
+                  ]
+            },
+            {
+                  "name": "tec saylada",
+                  "text": "Ein erhöhter städtischer Aussichtspunkt bei der Tec-Anlage in Saylada, der das Straßenbild im Zentrum von Hargeisa überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        44.080108,
+                        9.552241
+                  ]
+            },
+            {
+                  "name": "tls internet 560968 (340)",
+                  "text": "Von diesem Telekommunikationsstandort aus hat man einen guten Blick auf die geschäftigen Viertel rund um die Sehenswürdigkeiten von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.076722,
+                        9.549145
+                  ]
+            },
+            {
+                  "name": "564145",
+                  "text": "Ein lokaler Aussichtspunkt im Shibiin-Gebiet, von dem aus man die umliegenden Wohnviertel von Hargeisa sehen kann.",
+                  "category": "natural",
+                  "coords": [
+                        44.07932,
+                        9.542748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjidka Cali Mataan",
+                  "text": "A magasba nyúló minaretekről felismerhető nagymecset a mindennapi iszlám imák központi helyszíne a nyüzsgő Hargeisában.",
+                  "category": "religious",
+                  "coords": [
+                        44.068275,
+                        9.561806
+                  ]
+            },
+            {
+                  "name": "Shukri's",
+                  "text": "Az erődszerű építészettel rendelkező hatalmas helyi birtok kitűnik Hargeisa városi épületei közül.",
+                  "category": "castle",
+                  "coords": [
+                        44.071108,
+                        9.568704
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Ez a kulturális intézmény Szomáliföld nomád örökségét és regionális történelmét bemutató műtárgyaknak és kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        44.072632,
+                        9.562186
+                  ]
+            },
+            {
+                  "name": "Dahabshil Luxury House",
+                  "text": "A modern erődre emlékeztető hatalmas, luxus birtok a gazdasági növekedést és az exkluzív építészetet tükrözi Hargeisában.",
+                  "category": "castle",
+                  "coords": [
+                        44.091825,
+                        9.561586
+                  ]
+            },
+            {
+                  "name": "Somaliland Independence Monument",
+                  "text": "Ez a kiemelkedő polgári emlékmű egy térképet tartó kezet ábrázol, amely az el nem ismert állam önrendelkezési nyilatkozatát szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        44.074936,
+                        9.546837
+                  ]
+            },
+            {
+                  "name": "Old NewHargeisa Cemetery",
+                  "text": "Ez az ünnepélyes emlékhelyként szolgáló temető hagyományos kő síremlékeket rejt, amelyek a város elmúlt generációira emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        44.074214,
+                        9.562301
+                  ]
+            },
+            {
+                  "name": "t power plant tes 1",
+                  "text": "Ez a városi kilátó ipari panorámát nyújt a hargeisai helyi hőerőmű létesítményeire.",
+                  "category": "natural",
+                  "coords": [
+                        44.12675,
+                        9.511638
+                  ]
+            },
+            {
+                  "name": "tec power plant tes2",
+                  "text": "Ebből a kilátópontból a látogatók megfigyelhetik az elektromos infrastruktúrát és a város áramellátását segítő nehézgépeket.",
+                  "category": "natural",
+                  "coords": [
+                        44.117575,
+                        9.513482
+                  ]
+            },
+            {
+                  "name": "tec power plant3",
+                  "text": "Az ipari energiaközpontra tiszta rálátást biztosító helyszín Szomáliföld fővárosának bővülő energiahálózatát mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        44.111866,
+                        9.517981
+                  ]
+            },
+            {
+                  "name": "telecom kililka",
+                  "text": "A magasba nyúló kommunikációs árbocok mellett található helyszínről kiváló kilátás nyílik a környező városi negyedekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.07769,
+                        9.577624
+                  ]
+            },
+            {
+                  "name": "TLS 511046",
+                  "text": "Ez a telekommunikációs megfigyelőpont átfogó kilátást nyújt Hargeisa poros tetőire és nyüzsgő utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        44.070047,
+                        9.563448
+                  ]
+            },
+            {
+                  "name": "sompower xarunta suuqa 0634220248",
+                  "text": "A nyüzsgő piacközpont közelében elhelyezkedő kilátó a térség hálózatát kezelő helyi Sompower közműállomásra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        44.069147,
+                        9.564833
+                  ]
+            },
+            {
+                  "name": "521031 LIBAAN STORE",
+                  "text": "Ez a megemelt utcaszintű kilátópont hiteles bepillantást enged egy kiemelkedő helyi üzlet előtti mindennapi kereskedelembe.",
+                  "category": "natural",
+                  "coords": [
+                        44.066299,
+                        9.561946
+                  ]
+            },
+            {
+                  "name": "tec power plant khudrada",
+                  "text": "A helyi zöldségpiacok közelében található ipari kilátó bemutatja a hagyományos kereskedelem és a modern energetikai infrastruktúra közötti éles kontrasztot.",
+                  "category": "natural",
+                  "coords": [
+                        44.067993,
+                        9.559898
+                  ]
+            },
+            {
+                  "name": "sompower axmed cali 0634220248",
+                  "text": "Ebből a sajátos kilátópontból a megfigyelők láthatják a helyi Sompower közműcsomópont áramelosztó berendezéseit.",
+                  "category": "natural",
+                  "coords": [
+                        44.074938,
+                        9.549813
+                  ]
+            },
+            {
+                  "name": "Caawiye GPS",
+                  "text": "Navigációs tájékozódási pontként ez a kilátó a szomáliai főváros kaotikus, de nyüzsgő úthálózatát vizsgálja.",
+                  "category": "natural",
+                  "coords": [
+                        44.069345,
+                        9.561666
+                  ]
+            },
+            {
+                  "name": "tec power plant (saldhiga new hargeisa",
+                  "text": "Az Új Hargeisa rendőrőrs közelében található kilátó közvetlen rálátást biztosít a kerület központosított erőművére.",
+                  "category": "natural",
+                  "coords": [
+                        44.073723,
+                        9.560826
+                  ]
+            },
+            {
+                  "name": "TLS 524154 BADAR HOTEL",
+                  "text": "A Badar Hotel környékéről nyíló kilátó megörökíti a vendéglátóipari negyedben közlekedő vendégek és helyiek folyamatos áramlását.",
+                  "category": "natural",
+                  "coords": [
+                        44.076145,
+                        9.563826
+                  ]
+            },
+            {
+                  "name": "sompower new Hargeisa 0634220248",
+                  "text": "Az Új Hargeisa egyik jelentős elektromos központjára néző helyszín a kerület hálózatához nélkülözhetetlen transzformátorokat és kábelezést mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        44.076849,
+                        9.562098
+                  ]
+            },
+            {
+                  "name": "TLS 526622",
+                  "text": "Ez a jelöletlen városi kilátó a város lakónegyedeire jellemző hullámlemez tetőkre és homokos sikátorokra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        44.075962,
+                        9.556023
+                  ]
+            },
+            {
+                  "name": "T power plant 2",
+                  "text": "A másodlagos hőerőműre fókuszáló kilátó a városközpontot energiával ellátó impozáns füstkéményeket és ipari gépeket figyeli meg.",
+                  "category": "natural",
+                  "coords": [
+                        44.075753,
+                        9.557503
+                  ]
+            },
+            {
+                  "name": "tls 526681",
+                  "text": "Ebből a távközlési központú helyből a látogatók széles kilátást nyerhetnek a főutat szegélyező alacsony építésű kereskedelmi épületekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.073396,
+                        9.554348
+                  ]
+            },
+            {
+                  "name": "tec power plant maayar;tec power kaliil",
+                  "text": "Ez a kettős perspektívájú kilátó azokat az összekapcsolt közműtelepeket vizsgálja, amelyek folyamatos áramot biztosítanak a polgármesteri kerületnek.",
+                  "category": "natural",
+                  "coords": [
+                        44.074698,
+                        9.555245
+                  ]
+            },
+            {
+                  "name": "TLS 529751",
+                  "text": "A távközlési háttér előtt elhelyezkedő magaslati helyszín Hargeisa homokos tranzitútvonalaira és helyi forgalmára tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        44.07524,
+                        9.55312
+                  ]
+            },
+            {
+                  "name": "tls 566097",
+                  "text": "A széles városképi panorámát nyújtó helyszín a főváros horizontját tarkító kommunikációs antennákra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        44.072478,
+                        9.549783
+                  ]
+            },
+            {
+                  "name": "TELESOM &SALAAMA BANK SABA~XAREED",
+                  "text": "Ebből a kereskedelmi kilátópontból a nézelődők megfigyelhetik a Saba-Xareed területét kiszolgáló távközlési és bankfiókok modern kirakatait.",
+                  "category": "natural",
+                  "coords": [
+                        44.076006,
+                        9.551288
+                  ]
+            },
+            {
+                  "name": "TLS 529302",
+                  "text": "Ez a TLS létesítményeknél található kilátópont széles rálátást nyújt Hargeisa nyüzsgő, Nagymecset körüli utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        44.077302,
+                        9.554178
+                  ]
+            },
+            {
+                  "name": "tec saylada",
+                  "text": "Egy magaslati városi kilátópont a sayladai Tec létesítménynél, amely Hargeisa központi utcaképére tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        44.080108,
+                        9.552241
+                  ]
+            },
+            {
+                  "name": "tls internet 560968 (340)",
+                  "text": "Ebből a telekommunikációs állomásból jó rálátás nyílik a Hargeisa nevezetességeit körülvevő forgalmas városrészekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.076722,
+                        9.549145
+                  ]
+            },
+            {
+                  "name": "564145",
+                  "text": "Egy helyi kilátópont a Shibiin területen, ahonnan megfigyelhetők Hargeisa környező lakónegyedei.",
+                  "category": "natural",
+                  "coords": [
+                        44.07932,
+                        9.542748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjidka Cali Mataan",
+                  "text": "Caracterizată de minaretele sale înalte, această mare moschee servește ca centru principal pentru rugăciunile islamice zilnice din aglomeratul Hargeisa.",
+                  "category": "religious",
+                  "coords": [
+                        44.068275,
+                        9.561806
+                  ]
+            },
+            {
+                  "name": "Shukri's",
+                  "text": "Construită cu o arhitectură asemănătoare unei fortărețe, această mare moșie locală iese în evidență printre structurile urbane din Hargeisa.",
+                  "category": "castle",
+                  "coords": [
+                        44.071108,
+                        9.568704
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Această instituție culturală găzduiește artefacte și expoziții care detaliază moștenirea nomadă și istoria regională a Somalilandului.",
+                  "category": "museum",
+                  "coords": [
+                        44.072632,
+                        9.562186
+                  ]
+            },
+            {
+                  "name": "Dahabshil Luxury House",
+                  "text": "Asemănătoare unei fortărețe moderne, această grandioasă moșie de lux reflectă creșterea economică și arhitectura de lux din Hargeisa.",
+                  "category": "castle",
+                  "coords": [
+                        44.091825,
+                        9.561586
+                  ]
+            },
+            {
+                  "name": "Somaliland Independence Monument",
+                  "text": "Această structură civică proeminentă prezintă o mână care ține o hartă, simbolizând declarația de autodeterminare a statului nerecunoscut.",
+                  "category": "historical",
+                  "coords": [
+                        44.074936,
+                        9.546837
+                  ]
+            },
+            {
+                  "name": "Old NewHargeisa Cemetery",
+                  "text": "Servind ca un spațiu comemorativ solemn, acest cimitir conține pietre funerare tradiționale care reflectă generațiile trecute ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        44.074214,
+                        9.562301
+                  ]
+            },
+            {
+                  "name": "t power plant tes 1",
+                  "text": "Acest punct de belvedere urban oferă o panoramă industrială cu vedere la instalațiile locale de generare a energiei termice din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.12675,
+                        9.511638
+                  ]
+            },
+            {
+                  "name": "tec power plant tes2",
+                  "text": "Vizitatorii acestui punct de observație pot admira infrastructura electrică și utilajele grele care contribuie la alimentarea cu energie a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        44.117575,
+                        9.513482
+                  ]
+            },
+            {
+                  "name": "tec power plant3",
+                  "text": "Oferind o vedere clară asupra unui centru energetic industrial, această locație prezintă rețeaua de energie în expansiune din capitala Somalilandului.",
+                  "category": "natural",
+                  "coords": [
+                        44.111866,
+                        9.517981
+                  ]
+            },
+            {
+                  "name": "telecom kililka",
+                  "text": "Situat în apropierea unor stâlpi de comunicații înalți, acest loc oferă vederi ridicate asupra cartierelor urbane din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.07769,
+                        9.577624
+                  ]
+            },
+            {
+                  "name": "TLS 511046",
+                  "text": "Acest punct de observație a telecomunicațiilor oferă o perspectivă largă asupra acoperișurilor prăfuite și a străzilor aglomerate din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.070047,
+                        9.563448
+                  ]
+            },
+            {
+                  "name": "sompower xarunta suuqa 0634220248",
+                  "text": "Poziționat în apropierea centrului comercial plin de viață, acest punct de belvedere are vedere la stația locală de utilități Sompower care gestionează rețeaua zonei.",
+                  "category": "natural",
+                  "coords": [
+                        44.069147,
+                        9.564833
+                  ]
+            },
+            {
+                  "name": "521031 LIBAAN STORE",
+                  "text": "Acest punct de observație ridicat la nivelul străzii oferă o privire autentică asupra comerțului zilnic din fața unui magazin local proeminent.",
+                  "category": "natural",
+                  "coords": [
+                        44.066299,
+                        9.561946
+                  ]
+            },
+            {
+                  "name": "tec power plant khudrada",
+                  "text": "În apropierea piețelor locale de legume, acest punct de belvedere industrial prezintă contrastul puternic dintre comerțul tradițional și infrastructura modernă de energie.",
+                  "category": "natural",
+                  "coords": [
+                        44.067993,
+                        9.559898
+                  ]
+            },
+            {
+                  "name": "sompower axmed cali 0634220248",
+                  "text": "Acest punct de observație specific permite observatorilor să vadă echipamentele de distribuție electrică ale nodului local de utilități Sompower.",
+                  "category": "natural",
+                  "coords": [
+                        44.074938,
+                        9.549813
+                  ]
+            },
+            {
+                  "name": "Caawiye GPS",
+                  "text": "Acționând ca un reper de navigație, această zonă de vizualizare supraveghează rețeaua de străzi haotică, dar vibrantă a capitalei somaleze.",
+                  "category": "natural",
+                  "coords": [
+                        44.069345,
+                        9.561666
+                  ]
+            },
+            {
+                  "name": "tec power plant (saldhiga new hargeisa",
+                  "text": "Situat în apropierea secției de poliție New Hargeisa, acest punct de perspectivă oferă o vedere directă asupra facilității energetice centralizate a cartierului.",
+                  "category": "natural",
+                  "coords": [
+                        44.073723,
+                        9.560826
+                  ]
+            },
+            {
+                  "name": "TLS 524154 BADAR HOTEL",
+                  "text": "Oferind vederi din jurul Hotelului Badar, acest punct de observație surprinde fluxul constant de oaspeți și localnici care navighează în districtul ospitalității.",
+                  "category": "natural",
+                  "coords": [
+                        44.076145,
+                        9.563826
+                  ]
+            },
+            {
+                  "name": "sompower new Hargeisa 0634220248",
+                  "text": "Având vedere la un hub electric major din New Hargeisa, această locație afișează transformatoarele și cablurile esențiale pentru rețeaua districtului.",
+                  "category": "natural",
+                  "coords": [
+                        44.076849,
+                        9.562098
+                  ]
+            },
+            {
+                  "name": "TLS 526622",
+                  "text": "Acest punct de belvedere urban nemarcat privește peste acoperișurile din tablă ondulată și aleile nisipoase caracteristice cartierelor rezidențiale ale orașului.",
+                  "category": "natural",
+                  "coords": [
+                        44.075962,
+                        9.556023
+                  ]
+            },
+            {
+                  "name": "T power plant 2",
+                  "text": "Concentrat pe o centrală termică secundară, acest punct de observație remarcă coșurile de fum impunătoare și mașinăriile industriale care alimentează centrul urban.",
+                  "category": "natural",
+                  "coords": [
+                        44.075753,
+                        9.557503
+                  ]
+            },
+            {
+                  "name": "tls 526681",
+                  "text": "Din acest loc axat pe telecomunicații, vizitatorii obțin o vedere largă asupra structurilor comerciale joase care flanchează drumul principal.",
+                  "category": "natural",
+                  "coords": [
+                        44.073396,
+                        9.554348
+                  ]
+            },
+            {
+                  "name": "tec power plant maayar;tec power kaliil",
+                  "text": "Acest punct de observație cu dublă perspectivă supraveghează site-urile de utilități interconectate care furnizează electricitate continuă districtului Primarului.",
+                  "category": "natural",
+                  "coords": [
+                        44.074698,
+                        9.555245
+                  ]
+            },
+            {
+                  "name": "TLS 529751",
+                  "text": "Situat pe un fundal de telecomunicații, această locație ridicată privește în jos la rutele de tranzit nisipoase și la traficul local din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.07524,
+                        9.55312
+                  ]
+            },
+            {
+                  "name": "tls 566097",
+                  "text": "Oferind o panoramă largă a orașului, acest loc privește peste o serie de antene de comunicare care punctează orizontul capitalei.",
+                  "category": "natural",
+                  "coords": [
+                        44.072478,
+                        9.549783
+                  ]
+            },
+            {
+                  "name": "TELESOM &SALAAMA BANK SABA~XAREED",
+                  "text": "Din acest punct de vedere comercial, privitorii pot observa vitrinele moderne ale filialelor de telecomunicații și bănci care deservesc zona Saba-Xareed.",
+                  "category": "natural",
+                  "coords": [
+                        44.076006,
+                        9.551288
+                  ]
+            },
+            {
+                  "name": "TLS 529302",
+                  "text": "Acest punct de observație situat la instalațiile TLS oferă o perspectivă largă asupra agitației urbane din preajma Marii Moschei din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.077302,
+                        9.554178
+                  ]
+            },
+            {
+                  "name": "tec saylada",
+                  "text": "Un punct de belvedere urban elevat la instalația Tec din Saylada, care privește spre peisajul stradal central din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.080108,
+                        9.552241
+                  ]
+            },
+            {
+                  "name": "tls internet 560968 (340)",
+                  "text": "Din acest amplasament de telecomunicații se deschide o vedere bună asupra cartierelor aglomerate din jurul atracțiilor din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.076722,
+                        9.549145
+                  ]
+            },
+            {
+                  "name": "564145",
+                  "text": "Un punct de observație local din zona Shibiin, din care se pot vedea cartierele rezidențiale învecinate din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.07932,
+                        9.542748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjidka Cali Mataan",
+                  "text": "Characterized by its towering minarets, this grand mosque serves as a central hub for daily Islamic prayers in bustling Hargeisa.",
+                  "category": "religious",
+                  "coords": [
+                        44.068275,
+                        9.561806
+                  ]
+            },
+            {
+                  "name": "Shukri's",
+                  "text": "Built with fortress-like architecture, this grand local estate stands out among the urban structures of Hargeisa.",
+                  "category": "castle",
+                  "coords": [
+                        44.071108,
+                        9.568704
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "This cultural institution houses artifacts and exhibits detailing the nomadic heritage and regional history of Somaliland.",
+                  "category": "museum",
+                  "coords": [
+                        44.072632,
+                        9.562186
+                  ]
+            },
+            {
+                  "name": "Dahabshil Luxury House",
+                  "text": "Resembling a modern fortress, this grand luxury estate reflects the economic growth and upscale architecture in Hargeisa.",
+                  "category": "castle",
+                  "coords": [
+                        44.091825,
+                        9.561586
+                  ]
+            },
+            {
+                  "name": "Somaliland Independence Monument",
+                  "text": "This prominent civic structure features a hand holding a map, symbolizing the unrecognised state's declaration of self-determination.",
+                  "category": "historical",
+                  "coords": [
+                        44.074936,
+                        9.546837
+                  ]
+            },
+            {
+                  "name": "Old NewHargeisa Cemetery",
+                  "text": "Serving as a solemn memorial space, this burial ground contains traditional stone markers reflecting the city's past generations.",
+                  "category": "historical",
+                  "coords": [
+                        44.074214,
+                        9.562301
+                  ]
+            },
+            {
+                  "name": "t power plant tes 1",
+                  "text": "This urban viewpoint provides an industrial panorama overlooking the local thermal power generation facilities of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.12675,
+                        9.511638
+                  ]
+            },
+            {
+                  "name": "tec power plant tes2",
+                  "text": "Visitors to this vantage point can observe the electrical infrastructure and heavy machinery that help power the city.",
+                  "category": "natural",
+                  "coords": [
+                        44.117575,
+                        9.513482
+                  ]
+            },
+            {
+                  "name": "tec power plant3",
+                  "text": "Offering clear sightlines of an industrial power hub, this location showcases the expanding energy grid in Somaliland's capital.",
+                  "category": "natural",
+                  "coords": [
+                        44.111866,
+                        9.517981
+                  ]
+            },
+            {
+                  "name": "telecom kililka",
+                  "text": "Set against towering communication masts, this spot offers elevated views over the surrounding urban neighborhoods.",
+                  "category": "natural",
+                  "coords": [
+                        44.07769,
+                        9.577624
+                  ]
+            },
+            {
+                  "name": "TLS 511046",
+                  "text": "This telecommunications vantage point provides a sweeping perspective over the dusty rooftops and bustling streets of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.070047,
+                        9.563448
+                  ]
+            },
+            {
+                  "name": "sompower xarunta suuqa 0634220248",
+                  "text": "Positioned near the bustling market center, this viewpoint overlooks the local Sompower utility station managing the area's grid.",
+                  "category": "natural",
+                  "coords": [
+                        44.069147,
+                        9.564833
+                  ]
+            },
+            {
+                  "name": "521031 LIBAAN STORE",
+                  "text": "This elevated street-level vantage point offers an authentic glimpse into the daily commerce outside a prominent local storefront.",
+                  "category": "natural",
+                  "coords": [
+                        44.066299,
+                        9.561946
+                  ]
+            },
+            {
+                  "name": "tec power plant khudrada",
+                  "text": "Near the local vegetable markets, this industrial viewpoint showcases the stark contrast between traditional commerce and modern power infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        44.067993,
+                        9.559898
+                  ]
+            },
+            {
+                  "name": "sompower axmed cali 0634220248",
+                  "text": "This specific vantage point allows observers to see the electrical distribution hardware of the local Sompower utility node.",
+                  "category": "natural",
+                  "coords": [
+                        44.074938,
+                        9.549813
+                  ]
+            },
+            {
+                  "name": "Caawiye GPS",
+                  "text": "Acting as a navigational landmark, this viewing area surveys the chaotic yet vibrant street grid of the Somali capital.",
+                  "category": "natural",
+                  "coords": [
+                        44.069345,
+                        9.561666
+                  ]
+            },
+            {
+                  "name": "tec power plant (saldhiga new hargeisa",
+                  "text": "Located near the New Hargeisa police station, this outlook point provides a direct view of the district's centralized power facility.",
+                  "category": "natural",
+                  "coords": [
+                        44.073723,
+                        9.560826
+                  ]
+            },
+            {
+                  "name": "TLS 524154 BADAR HOTEL",
+                  "text": "Offering views from around the Badar Hotel, this vantage point captures the steady flow of guests and locals navigating the hospitality district.",
+                  "category": "natural",
+                  "coords": [
+                        44.076145,
+                        9.563826
+                  ]
+            },
+            {
+                  "name": "sompower new Hargeisa 0634220248",
+                  "text": "Overlooking a major electrical hub in New Hargeisa, this location displays the transformers and cabling essential to the district's grid.",
+                  "category": "natural",
+                  "coords": [
+                        44.076849,
+                        9.562098
+                  ]
+            },
+            {
+                  "name": "526622",
+                  "text": "This unmarked urban viewpoint looks out over the corrugated metal roofs and sandy alleyways characteristic of the city's residential neighborhoods.",
+                  "category": "natural",
+                  "coords": [
+                        44.075962,
+                        9.556023
+                  ]
+            },
+            {
+                  "name": "T power plant 2",
+                  "text": "Focused on a secondary thermal plant, this viewpoint observes the imposing smokestacks and industrial machinery powering the urban center.",
+                  "category": "natural",
+                  "coords": [
+                        44.075753,
+                        9.557503
+                  ]
+            },
+            {
+                  "name": "tls 526681",
+                  "text": "From this telecommunications-oriented spot, visitors gain a sweeping view over the low-rise commercial structures flanking the main road.",
+                  "category": "natural",
+                  "coords": [
+                        44.073396,
+                        9.554348
+                  ]
+            },
+            {
+                  "name": "tec power plant maayar;tec power kaliil",
+                  "text": "This dual-perspective viewpoint surveys the interconnected utility sites that supply continuous electricity to the Mayor's district.",
+                  "category": "natural",
+                  "coords": [
+                        44.074698,
+                        9.555245
+                  ]
+            },
+            {
+                  "name": "TLS 529751",
+                  "text": "Set against a telecommunications backdrop, this raised location looks down upon the sandy transit routes and local traffic of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.07524,
+                        9.55312
+                  ]
+            },
+            {
+                  "name": "tls 566097",
+                  "text": "Providing a broad cityscape panorama, this spot looks over an array of communication antennas dotting the capital's skyline.",
+                  "category": "natural",
+                  "coords": [
+                        44.072478,
+                        9.549783
+                  ]
+            },
+            {
+                  "name": "TELESOM &SALAAMA BANK SABA~XAREED",
+                  "text": "From this commercial viewpoint, onlookers can observe the modern storefronts of the telecom and banking branches serving the Saba-Xareed area.",
+                  "category": "natural",
+                  "coords": [
+                        44.076006,
+                        9.551288
+                  ]
+            },
+            {
+                  "name": "TLS 529302",
+                  "text": "This viewpoint by the TLS facilities provides a wide outlook over the urban bustle near the Grand Mosque of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.077302,
+                        9.554178
+                  ]
+            },
+            {
+                  "name": "tec saylada",
+                  "text": "An elevated urban viewpoint at the Tec facility in Saylada, overlooking the central streetscape of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.080108,
+                        9.552241
+                  ]
+            },
+            {
+                  "name": "tls internet 560968 (340)",
+                  "text": "From this telecommunications site, there is a good view of the busy neighborhoods surrounding Hargeisa's landmarks.",
+                  "category": "natural",
+                  "coords": [
+                        44.076722,
+                        9.549145
+                  ]
+            },
+            {
+                  "name": "564145. (ENG:shibiin)",
+                  "text": "A local viewpoint in the Shibiin area, from which the surrounding residential neighborhoods of Hargeisa can be seen.",
+                  "category": "natural",
+                  "coords": [
+                        44.07932,
+                        9.542748
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-WO",
     coords: [44.0675, 9.5585],
@@ -1091,7 +3116,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-hargeisa-presidential-palace-landmarks-v2",
+    id: "so-hargeisa-presidential-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Som powe isha Borama 0634220248",
+                  "text": "Dieser strategische Aussichtspunkt bietet visuellen Zugang zur elektrischen Infrastruktur von Som Powe und unterstreicht die Energieentwicklung der Region.",
+                  "category": "natural",
+                  "coords": [
+                        44.050347,
+                        9.546534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Som powe isha Borama 0634220248",
+                  "text": "Ez a stratégiai kilátópont vizuális hozzáférést biztosít a Som Powe elektromos infrastruktúrájához, kiemelve a régió energetikai fejlődését.",
+                  "category": "natural",
+                  "coords": [
+                        44.050347,
+                        9.546534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Som powe isha Borama 0634220248",
+                  "text": "Acest punct de vizionare strategic oferă acces vizual la infrastructura electrică Som Powe, subliniind dezvoltarea energetică a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        44.050347,
+                        9.546534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Som powe isha Borama 0634220248",
+                  "text": "This strategic viewing spot offers visual access to the Som Powe electrical infrastructure, highlighting the region's energy development.",
+                  "category": "natural",
+                  "coords": [
+                        44.050347,
+                        9.546534
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-WO",
     coords: [44.0585, 9.5525],
@@ -1159,7 +3229,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-berbera-lighthouse-landmarks-v2",
+    id: "so-berbera-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Main zero berbera",
+                  "text": "Dieses zentrale Wahrzeichen fungiert als historischer Bezugspunkt innerhalb des architektonischen Kerns des alten Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008159,
+                        10.426591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Main zero berbera",
+                  "text": "Ez a központi tájékozódási pont történelmi viszonyítási pontként szolgál a régi Berbera építészeti magjában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008159,
+                        10.426591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Main zero berbera",
+                  "text": "Acest reper central acționează ca un punct de referință istoric în cadrul nucleului arhitectural al vechiului Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008159,
+                        10.426591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Main zero berbera",
+                  "text": "This central landmark acts as a historical point of reference within the architectural core of old Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008159,
+                        10.426591
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-WO",
     coords: [45.0085, 10.4345],
@@ -1227,7 +3342,52 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "so-berbera-ottoman-mosque-landmarks-v2",
+    id: "so-berbera-ottoman-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cawl fuestion",
+                  "text": "Ein wichtiger Tankstopp in der Nähe der historischen religiösen Stätten aus der osmanischen Zeit in Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009285,
+                        10.440308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cawl fuestion",
+                  "text": "Egy fontos tankolási megálló Berbera történelmi, oszmán kori vallási helyszínei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009285,
+                        10.440308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cawl fuestion",
+                  "text": "O oprire esențială pentru alimentare, situată lângă siturile religioase istorice din epoca otomană din Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009285,
+                        10.440308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cawl fuestion",
+                  "text": "An essential fueling stop located near the city's historic Ottoman-era religious sites in Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009285,
+                        10.440308
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SO-WO",
     coords: [45.0135, 10.4380],

@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraMadagascarLandmarksV2: POI[] = [
   {
-    id: "andafiavaratra-palace-landmarks-v2",
+    id: "andafiavaratra-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ambatondrafandrana",
+                  "text": "Eine lokale Sehenswürdigkeit in der Nähe des prächtigen Andafiavaratra-Palastes.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532854,
+                        -18.921888
+                  ]
+            },
+            {
+                  "name": "Andafiavaratra",
+                  "text": "Ein Museum in einem majestätischen Palast, das Madagaskars königliche Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        47.532899,
+                        -18.920848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ambatondrafandrana",
+                  "text": "Helyi nevezetesség a pompás Andafiavaratra palota közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532854,
+                        -18.921888
+                  ]
+            },
+            {
+                  "name": "Andafiavaratra",
+                  "text": "Madagaszkár királyi történelmét bemutató múzeum egy fenséges palotában.",
+                  "category": "museum",
+                  "coords": [
+                        47.532899,
+                        -18.920848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ambatondrafandrana",
+                  "text": "Un reper local în apropierea grandiosului Palat Andafiavaratra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532854,
+                        -18.921888
+                  ]
+            },
+            {
+                  "name": "Andafiavaratra",
+                  "text": "Un muzeu găzduit într-un palat maiestuos care prezintă istoria regală a Madagascarului.",
+                  "category": "museum",
+                  "coords": [
+                        47.532899,
+                        -18.920848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ambatondrafandrana",
+                  "text": "A local landmark near the grand Andafiavaratra Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        47.532854,
+                        -18.921888
+                  ]
+            },
+            {
+                  "name": "Andafiavaratra",
+                  "text": "A museum housed in a majestic palace showcasing Madagascar's regal history.",
+                  "category": "museum",
+                  "coords": [
+                        47.532899,
+                        -18.920848
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [47.5322, -18.9213],
@@ -50,7 +131,52 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "cathedrale-andohalo-landmarks-v2",
+    id: "cathedrale-andohalo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Jean Laborde",
+                  "text": "Die Maison Jean Laborde in cathedrale-andohalo-landmarks-v2 ist ein historisches Haus, das auf die Kolonialzeit zurückgeht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.531073,
+                        -18.918075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Jean Laborde",
+                  "text": "A cathedrale-andohalo-landmarks-v2-ben található Maison Jean Laborde egy történelmi lakóház a gyarmati korszakból.",
+                  "category": "landmark",
+                  "coords": [
+                        47.531073,
+                        -18.918075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Jean Laborde",
+                  "text": "Maison Jean Laborde din cathedrale-andohalo-landmarks-v2 este o reședință istorică ce datează din perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        47.531073,
+                        -18.918075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Jean Laborde",
+                  "text": "The Maison Jean Laborde in cathedrale-andohalo-landmarks-v2 is a well-preserved historical residence dating back to the colonial period.",
+                  "category": "landmark",
+                  "coords": [
+                        47.531073,
+                        -18.918075
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [47.5312, -18.9189],
@@ -144,7 +270,52 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "gare-soarano-landmarks-v2",
+    id: "gare-soarano-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Société Tsara Anjara",
+                  "text": "Ein kultureller Ausstellungsraum in der Nähe des historischen Bahnhofs Gare Soarano.",
+                  "category": "museum",
+                  "coords": [
+                        47.524307,
+                        -18.903868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Société Tsara Anjara",
+                  "text": "Kulturális kiállítótér a történelmi Gare Soarano pályaudvar közelében.",
+                  "category": "museum",
+                  "coords": [
+                        47.524307,
+                        -18.903868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Société Tsara Anjara",
+                  "text": "Un spațiu cultural de expoziție situat lângă istorica gară Gare Soarano.",
+                  "category": "museum",
+                  "coords": [
+                        47.524307,
+                        -18.903868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Société Tsara Anjara",
+                  "text": "A cultural exhibition space located near the historic Gare Soarano railway station.",
+                  "category": "museum",
+                  "coords": [
+                        47.524307,
+                        -18.903868
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [47.5218, -18.9031],
@@ -332,7 +503,52 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "morondava-mosque-landmarks-v2",
+    id: "morondava-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "Ein Sandstrand an der Küste in der Nähe der berühmten Wahrzeichen von Morondava.",
+                  "category": "recreational",
+                  "coords": [
+                        44.270558,
+                        -20.294313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "Egy tengerparti homokos strand Morondava ikonikus nevezetességeinek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        44.270558,
+                        -20.294313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "O plajă de coastă cu nisip situată în apropierea reperelor emblematice din Morondava.",
+                  "category": "recreational",
+                  "coords": [
+                        44.270558,
+                        -20.294313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "A coastal sandy beach situated near the iconic landmarks of Morondava.",
+                  "category": "recreational",
+                  "coords": [
+                        44.270558,
+                        -20.294313
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [44.2882, -20.2974],
@@ -379,7 +595,88 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "cathedrale-st-joseph-fianarantsoa-landmarks-v2",
+    id: "cathedrale-st-joseph-fianarantsoa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "Das Musée Diocèse Fianarantsoa ist ein religiöses Museum, das Artefakte und historische Sammlungen der lokalen katholischen Diözese bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "Das Centre Notre Dame de Lourdes bietet eine kleine Aquarienausstellung nahe der religiösen Wahrzeichen von Fianarantsoa.",
+                  "category": "recreational",
+                  "coords": [
+                        47.109349,
+                        -21.465582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "A Musée Diocèse Fianarantsoa egy egyházi múzeum, amely a helyi katolikus egyházmegye történelmi gyűjteményeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "A Centre Notre Dame de Lourdes egy vízi kiállítást is magában foglaló központ Fianarantsoa vallási nevezetességei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        47.109349,
+                        -21.465582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "Musée Diocèse Fianarantsoa este un muzeu religios care păstrează artefacte și colecții istorice ale diocezei catolice locale.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "Centre Notre Dame de Lourdes oferă o expoziție acvatică situată în apropierea reperelor religioase din Fianarantsoa.",
+                  "category": "recreational",
+                  "coords": [
+                        47.109349,
+                        -21.465582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "The Musée Diocèse Fianarantsoa is a religious museum preserving artifacts and historical collections from the local Catholic diocese.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "The Centre Notre Dame de Lourdes features an aquatic exhibit located near the religious landmarks of Fianarantsoa.",
+                  "category": "recreational",
+                  "coords": [
+                        47.109349,
+                        -21.465582
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-F",
     coords: [47.0856, -21.4554],
@@ -473,7 +770,232 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "university-of-antananarivo-landmarks-v2",
+    id: "university-of-antananarivo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolée national Andrainarivo",
+                  "text": "Dieser feierliche Gedenkkomplex aus Stein, der markant auf einem Hügel thront, ehrt die madagassischen Märtyrer des historischen Aufstands.",
+                  "category": "historical",
+                  "coords": [
+                        47.54686,
+                        -18.911865
+                  ]
+            },
+            {
+                  "name": "T-T MADADISCOVER",
+                  "text": "Als spezialisiertes lokales Zentrum organisiert diese Agentur eindringliche ökologische und kulturelle Entdeckungstouren durch das Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        47.5522,
+                        -18.905066
+                  ]
+            },
+            {
+                  "name": "Lamakoo Padel center",
+                  "text": "Diese moderne Sportanlage bietet gut gepflegte, glasummauerte Plätze, die speziell für den schnellen Schlägersport Padel konzipiert wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        47.573812,
+                        -18.882046
+                  ]
+            },
+            {
+                  "name": "Musée National Géographique",
+                  "text": "Dieses spezialisierte Museum bewahrt historische topografische Karten, alte Vermessungsinstrumente und alte kartografische Aufzeichnungen auf.",
+                  "category": "museum",
+                  "coords": [
+                        47.54676,
+                        -18.899597
+                  ]
+            },
+            {
+                  "name": "Bâtiment de l'AEDECOUA",
+                  "text": "Als lebendiger Knotenpunkt auf dem Campus beherbergt dieser Raum akademische Workshops und dynamische kulturelle Ausstellungen von Studenten.",
+                  "category": "cultural",
+                  "coords": [
+                        47.550213,
+                        -18.913093
+                  ]
+            },
+            {
+                  "name": "Casa Niñas",
+                  "text": "Dieser intime Boutique-Raum präsentiert handgefertigte handwerkliche Waren und farbenfrohe Textilien, die von einheimischen Frauen hergestellt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        47.600037,
+                        -18.841947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolée national Andrainarivo",
+                  "text": "Egy dombon magasodik ez az ünnepélyes kő emlékműegyüttes, amely a történelmi felkelés madagaszkári vértanúi előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        47.54686,
+                        -18.911865
+                  ]
+            },
+            {
+                  "name": "T-T MADADISCOVER",
+                  "text": "Ez a speciális helyi központként működő ügynökség elmélyült ökológiai és kulturális felfedező túrákat szervez a hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        47.5522,
+                        -18.905066
+                  ]
+            },
+            {
+                  "name": "Lamakoo Padel center",
+                  "text": "Ez a modern sportlétesítmény jól karbantartott, üvegfalú pályákat kínál, amelyeket kifejezetten a pörgős padel ütős sporthoz terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        47.573812,
+                        -18.882046
+                  ]
+            },
+            {
+                  "name": "Musée National Géographique",
+                  "text": "Ez a speciális múzeum történelmi topográfiai térképeket, régi földmérő műszereket és ősi térképészeti feljegyzéseit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        47.54676,
+                        -18.899597
+                  ]
+            },
+            {
+                  "name": "Bâtiment de l'AEDECOUA",
+                  "text": "Az egyetem nyüzsgő csomópontjaként szolgáló tér akadémiai workshopoknak és a diákok dinamikus kulturális kiállításainak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        47.550213,
+                        -18.913093
+                  ]
+            },
+            {
+                  "name": "Casa Niñas",
+                  "text": "Ez a meghitt butik helyi nők által készített kézműves termékeket és színes textíliákat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        47.600037,
+                        -18.841947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolée national Andrainarivo",
+                  "text": "Așezat proeminent pe un deal, acest complex memorial solemn din piatră onorează martirii malgași ai revoltei istorice.",
+                  "category": "historical",
+                  "coords": [
+                        47.54686,
+                        -18.911865
+                  ]
+            },
+            {
+                  "name": "T-T MADADISCOVER",
+                  "text": "Funcționând ca un centru local specializat, această agenție organizează tururi captivante de descoperire ecologică și culturală pe înălțimi.",
+                  "category": "landmark",
+                  "coords": [
+                        47.5522,
+                        -18.905066
+                  ]
+            },
+            {
+                  "name": "Lamakoo Padel center",
+                  "text": "Această bază sportivă modernă oferă terenuri cu pereți de sticlă bine întreținute, concepute special pentru sportul rapid de rachetă numit padel.",
+                  "category": "landmark",
+                  "coords": [
+                        47.573812,
+                        -18.882046
+                  ]
+            },
+            {
+                  "name": "Musée National Géographique",
+                  "text": "Acest muzeu specializat păstrează hărți topografice istorice, instrumente de topografie de epocă și înregistrări cartografice vechi.",
+                  "category": "museum",
+                  "coords": [
+                        47.54676,
+                        -18.899597
+                  ]
+            },
+            {
+                  "name": "Bâtiment de l'AEDECOUA",
+                  "text": "Servind drept un hub vibrant în campus, acest spațiu găzduiește ateliere academice și expoziții culturale dinamice ale studenților.",
+                  "category": "cultural",
+                  "coords": [
+                        47.550213,
+                        -18.913093
+                  ]
+            },
+            {
+                  "name": "Casa Niñas",
+                  "text": "Acest spațiu intim de butic prezintă bunuri artizanale lucrate manual și textile colorate realizate de femeile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.600037,
+                        -18.841947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausolée national Andrainarivo",
+                  "text": "Sitting prominently on a hill, this solemn stone memorial complex honors the Malagasy martyrs of the historic uprising.",
+                  "category": "historical",
+                  "coords": [
+                        47.54686,
+                        -18.911865
+                  ]
+            },
+            {
+                  "name": "T-T MADADISCOVER",
+                  "text": "Operating as a specialized local hub, this agency organizes immersive ecological and cultural discovery tours across the highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        47.5522,
+                        -18.905066
+                  ]
+            },
+            {
+                  "name": "Lamakoo Padel center",
+                  "text": "This modern sports facility offers well-maintained glass-walled courts specifically designed for the fast-paced racket sport of padel.",
+                  "category": "landmark",
+                  "coords": [
+                        47.573812,
+                        -18.882046
+                  ]
+            },
+            {
+                  "name": "Musée National Géographique",
+                  "text": "This specialized museum preserves historical topographic maps, vintage surveying instruments, and old cartographic records.",
+                  "category": "museum",
+                  "coords": [
+                        47.54676,
+                        -18.899597
+                  ]
+            },
+            {
+                  "name": "Bâtiment de l'AEDECOUA",
+                  "text": "Serving as a vibrant hub on campus, this space hosts academic workshops and dynamic cultural exhibitions by students.",
+                  "category": "cultural",
+                  "coords": [
+                        47.550213,
+                        -18.913093
+                  ]
+            },
+            {
+                  "name": "Casa Niñas",
+                  "text": "This intimate boutique space showcases handcrafted artisanal goods and colorful textiles made by local women.",
+                  "category": "landmark",
+                  "coords": [
+                        47.600037,
+                        -18.841947
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [47.5552, -18.915],
@@ -520,7 +1042,196 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "chateau-d-eau-amparibe-landmarks-v2",
+    id: "chateau-d-eau-amparibe-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatra Monisipaly",
+                  "text": "Ein städtisches Theater in Antananarivo, das als wichtiger Veranstaltungsort für madagassische Schauspielkunst und lokale Aufführungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        47.515918,
+                        -18.908125
+                  ]
+            },
+            {
+                  "name": "Musée d'art et d'archéologie",
+                  "text": "Ein Museum in Antananarivo, das Madagaskars reiches kulturelles Erbe und antike archäologische Artefakte bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        47.520936,
+                        -18.911882
+                  ]
+            },
+            {
+                  "name": "IKM",
+                  "text": "Ein lebendiges Kunstzentrum in Antananarivo, das sich der Erhaltung und Förderung traditioneller madagassischer Musik, Tänze und Handwerkskünste widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522844,
+                        -18.908674
+                  ]
+            },
+            {
+                  "name": "Tombeau de Rainiharo",
+                  "text": "Ein monumentales historisches Grabmal in Antananarivo, das für den madagassischen Premierminister Rainiharo aus dem 19. Jahrhundert erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        47.517445,
+                        -18.909674
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure Antsahamanitra",
+                  "text": "Ein Freiluft-Amphitheater inmitten der Grünanlagen von Antananarivo, in dem lebhafte Konzerte und Veranstaltungen im Freien stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522296,
+                        -18.911422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatra Monisipaly",
+                  "text": "Antananarivo városi színháza, amely a madagaszkári drámai művészetek és helyi előadások kulcsfontosságú helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        47.515918,
+                        -18.908125
+                  ]
+            },
+            {
+                  "name": "Musée d'art et d'archéologie",
+                  "text": "Egy múzeum Antananarivóban, amely Madagaszkár gazdag kulturális örökségét és ősi régészeti leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        47.520936,
+                        -18.911882
+                  ]
+            },
+            {
+                  "name": "IKM",
+                  "text": "Élettel teli művészeti központ Antananarivóban, amely a hagyományos madagaszkári zene, tánc és kézművesség megőrzésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522844,
+                        -18.908674
+                  ]
+            },
+            {
+                  "name": "Tombeau de Rainiharo",
+                  "text": "Egy monumentális történelmi síremlék Antananarivóban, amelyet a 19. századi madagaszkári miniszterelnök, Rainiharo számára építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        47.517445,
+                        -18.909674
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure Antsahamanitra",
+                  "text": "Antananarivo növényzete között fekvő szabadtéri amfiteátrum, amely élénk koncerteknek és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522296,
+                        -18.911422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatra Monisipaly",
+                  "text": "Un teatru municipal din Antananarivo care servește ca un loc important pentru artele dramatice malgașe și spectacolele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        47.515918,
+                        -18.908125
+                  ]
+            },
+            {
+                  "name": "Musée d'art et d'archéologie",
+                  "text": "Un muzeu din Antananarivo care conservă bogata moștenire culturală și artefactele arheologice antice ale Madagascarului.",
+                  "category": "museum",
+                  "coords": [
+                        47.520936,
+                        -18.911882
+                  ]
+            },
+            {
+                  "name": "IKM",
+                  "text": "Un centru de arte vibrant în Antananarivo, dedicat conservării și promovării muzicii, dansului și meșteșugurilor tradiționale malgașe.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522844,
+                        -18.908674
+                  ]
+            },
+            {
+                  "name": "Tombeau de Rainiharo",
+                  "text": "Un mormânt istoric monumental din Antananarivo construit pentru prim-ministrul malgaș din secolul al XIX-lea, Rainiharo.",
+                  "category": "landmark",
+                  "coords": [
+                        47.517445,
+                        -18.909674
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure Antsahamanitra",
+                  "text": "Un amfiteatru în aer liber situat printre verdeața din Antananarivo, găzduind concerte și evenimente animate.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522296,
+                        -18.911422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatra Monisipaly",
+                  "text": "A municipal theatre in Antananarivo serving as a key venue for Malagasy dramatic arts and local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        47.515918,
+                        -18.908125
+                  ]
+            },
+            {
+                  "name": "Musée d'art et d'archéologie",
+                  "text": "A museum in Antananarivo preserving Madagascar's rich cultural heritage and ancient archaeological artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        47.520936,
+                        -18.911882
+                  ]
+            },
+            {
+                  "name": "Malagasy cultural center",
+                  "text": "A vibrant arts hub in Antananarivo dedicated to preserving and promoting traditional Malagasy music, dance, and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522844,
+                        -18.908674
+                  ]
+            },
+            {
+                  "name": "Tombeau de Rainiharo",
+                  "text": "A monumental historic tomb in Antananarivo built for the 19th-century Malagasy Prime Minister Rainiharo.",
+                  "category": "landmark",
+                  "coords": [
+                        47.517445,
+                        -18.909674
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure Antsahamanitra",
+                  "text": "An open-air amphitheatre set amongst the greenery of Antananarivo, hosting lively outdoor concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        47.522296,
+                        -18.911422
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [47.5215, -18.9102],
@@ -567,7 +1278,88 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "port-of-toamasina-landmarks-v2",
+    id: "port-of-toamasina-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Helodranon'Ivondro",
+                  "text": "Eine Küstenbucht bei Toamasina, die die Mündung des Flusses Ivondro in den Indischen Ozean markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        49.409322,
+                        -18.192171
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "Ein lebendiges Kunst- und Kulturzentrum in Toamasina, das Ausstellungen und Veranstaltungen zur Förderung des internationalen künstlerischen Austauschs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410121,
+                        -18.16373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Helodranon'Ivondro",
+                  "text": "A Toamasina közelében lévő tengerparti öböl, amely az Ivondro folyó torkolatát jelzi az Indiai-óceán felé.",
+                  "category": "landmark",
+                  "coords": [
+                        49.409322,
+                        -18.192171
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "Élettel teli művészeti és kulturális központ Toamasinában, amely a nemzetközi művészeti cserét elősegítő kiállításokat és rendezvényeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410121,
+                        -18.16373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Helodranon'Ivondro",
+                  "text": "Un golf de coastă din apropiere de Toamasina care marchează vărsarea râului Ivondro în Oceanul Indian.",
+                  "category": "landmark",
+                  "coords": [
+                        49.409322,
+                        -18.192171
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "Un centru de artă și cultură vibrant din Toamasina, care oferă expoziții și evenimente menite să încurajeze schimburile artistice internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410121,
+                        -18.16373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ivondro Bay",
+                  "text": "A coastal bay near Toamasina that marks the mouth of the Ivondro River, opening up into the Indian Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        49.409322,
+                        -18.192171
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "A vibrant arts and cultural center in Toamasina offering exhibitions and events that foster international artistic exchange.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410121,
+                        -18.16373
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-A",
     coords: [49.4061, -18.1566],
@@ -614,7 +1406,268 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "tour-zital-landmarks-v2",
+    id: "tour-zital-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The GREEN PARK",
+                  "text": "Der Green Park ist ein familienfreundlicher Freizeitpark, der verschiedene Outdoor-Aktivitäten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        47.577944,
+                        -18.848812
+                  ]
+            },
+            {
+                  "name": "La ferme d'Antanandrano",
+                  "text": "La ferme d'Antanandrano ist eine landwirtschaftliche Attraktion, die Besuchern das lokale Farmleben näherbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.535612,
+                        -18.849395
+                  ]
+            },
+            {
+                  "name": "Okalou La City",
+                  "text": "Okalou La City ist eine städtische Attraktion, die ein Freizeitzentrum für Kinder und Familien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.519365,
+                        -18.875008
+                  ]
+            },
+            {
+                  "name": "Exposition Antson'ny Tontolo Miaina",
+                  "text": "Die Exposition Antson'ny Tontolo Miaina ist ein Kunstzentrum mit Ausstellungen, die sich auf die natürliche Umwelt konzentrieren.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524557,
+                        -18.88498
+                  ]
+            },
+            {
+                  "name": "Tourisme Aventure Madagascar",
+                  "text": "Tourisme Aventure Madagascar ist eine Attraktion, die sich auf die Organisation von Outdoor-Ausflügen und Öko-Abenteuern spezialisiert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.551906,
+                        -18.871743
+                  ]
+            },
+            {
+                  "name": "Sehatra Analamaitso Analamahitsy",
+                  "text": "Sehatra Analamaitso Analamahitsy ist ein kulturelles Kunstzentrum mit einer Open-Air-Bühne für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        47.546207,
+                        -18.871322
+                  ]
+            },
+            {
+                  "name": "Batik Malagasy",
+                  "text": "Batik Malagasy ist ein Kunstzentrum, das sich dem traditionellen Handwerk der madagassischen Textilfärbekunst widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.554067,
+                        -18.845905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The GREEN PARK",
+                  "text": "A The Green Park egy szabadtéri vidámpark, amely családbarát kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        47.577944,
+                        -18.848812
+                  ]
+            },
+            {
+                  "name": "La ferme d'Antanandrano",
+                  "text": "A La ferme d'Antanandrano egy mezőgazdasági látványosság, ahol a látogatók bepillantást nyerhetnek a helyi tanyasi életbe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.535612,
+                        -18.849395
+                  ]
+            },
+            {
+                  "name": "Okalou La City",
+                  "text": "Az Okalou La City egy városi látványosság, amely egy szabadidős játszóházzal várja a gyerekeket és családjaikat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.519365,
+                        -18.875008
+                  ]
+            },
+            {
+                  "name": "Exposition Antson'ny Tontolo Miaina",
+                  "text": "Az Exposition Antson'ny Tontolo Miaina egy művészeti központ, amelynek kiállításai a természeti környezetet mutatják be.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524557,
+                        -18.88498
+                  ]
+            },
+            {
+                  "name": "Tourisme Aventure Madagascar",
+                  "text": "A Tourisme Aventure Madagascar szabadtéri kirándulások és öko-kalandok szervezésére szakosodott látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        47.551906,
+                        -18.871743
+                  ]
+            },
+            {
+                  "name": "Sehatra Analamaitso Analamahitsy",
+                  "text": "A Sehatra Analamaitso Analamahitsy egy kulturális művészeti központ, amely szabadtéri előadótérrel is rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        47.546207,
+                        -18.871322
+                  ]
+            },
+            {
+                  "name": "Batik Malagasy",
+                  "text": "A Batik Malagasy egy művészeti központ, amely a hagyományos madagaszkári batikolt textíliák készítését mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        47.554067,
+                        -18.845905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The GREEN PARK",
+                  "text": "The Green Park este un parc tematic în aer liber care oferă activități de agrement pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        47.577944,
+                        -18.848812
+                  ]
+            },
+            {
+                  "name": "La ferme d'Antanandrano",
+                  "text": "La ferme d'Antanandrano este o atracție agricolă unde vizitatorii pot experimenta viața la fermă.",
+                  "category": "landmark",
+                  "coords": [
+                        47.535612,
+                        -18.849395
+                  ]
+            },
+            {
+                  "name": "Okalou La City",
+                  "text": "Okalou La City este o atracție urbană ce include un centru de joacă și recreere pentru copii și familii.",
+                  "category": "landmark",
+                  "coords": [
+                        47.519365,
+                        -18.875008
+                  ]
+            },
+            {
+                  "name": "Exposition Antson'ny Tontolo Miaina",
+                  "text": "Exposition Antson'ny Tontolo Miaina este un centru de arte concentrat pe expoziții care prezintă mediul înconjurător și natura.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524557,
+                        -18.88498
+                  ]
+            },
+            {
+                  "name": "Tourisme Aventure Madagascar",
+                  "text": "Tourisme Aventure Madagascar este o atracție axată pe organizarea de excursii în aer liber și aventuri ecologice.",
+                  "category": "landmark",
+                  "coords": [
+                        47.551906,
+                        -18.871743
+                  ]
+            },
+            {
+                  "name": "Sehatra Analamaitso Analamahitsy",
+                  "text": "Sehatra Analamaitso Analamahitsy este un centru cultural de arte, dotat cu o scenă în aer liber pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        47.546207,
+                        -18.871322
+                  ]
+            },
+            {
+                  "name": "Batik Malagasy",
+                  "text": "Batik Malagasy este un centru de arte dedicat meșteșugului tradițional al textilelor vopsite din Madagascar.",
+                  "category": "cultural",
+                  "coords": [
+                        47.554067,
+                        -18.845905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The GREEN PARK",
+                  "text": "The Green Park is an outdoor theme park offering family-friendly recreational activities in the area.",
+                  "category": "recreational",
+                  "coords": [
+                        47.577944,
+                        -18.848812
+                  ]
+            },
+            {
+                  "name": "La ferme d'Antanandrano",
+                  "text": "La ferme d'Antanandrano is an agricultural attraction allowing visitors to experience local farm life.",
+                  "category": "landmark",
+                  "coords": [
+                        47.535612,
+                        -18.849395
+                  ]
+            },
+            {
+                  "name": "Okalou La City",
+                  "text": "Okalou La City is an urban attraction featuring a recreational play center for children and families.",
+                  "category": "landmark",
+                  "coords": [
+                        47.519365,
+                        -18.875008
+                  ]
+            },
+            {
+                  "name": "Exposition Antson'ny Tontolo Miaina",
+                  "text": "Exposition Antson'ny Tontolo Miaina is an arts centre focused on exhibitions showcasing the natural world and environment.",
+                  "category": "cultural",
+                  "coords": [
+                        47.524557,
+                        -18.88498
+                  ]
+            },
+            {
+                  "name": "Tourisme Aventure Madagascar",
+                  "text": "Tourisme Aventure Madagascar is an attraction specializing in organizing outdoor excursions and eco-adventures.",
+                  "category": "landmark",
+                  "coords": [
+                        47.551906,
+                        -18.871743
+                  ]
+            },
+            {
+                  "name": "Sehatra Analamaitso Analamahitsy",
+                  "text": "Sehatra Analamaitso Analamahitsy is a cultural arts centre featuring an open-air performance space.",
+                  "category": "cultural",
+                  "coords": [
+                        47.546207,
+                        -18.871322
+                  ]
+            },
+            {
+                  "name": "Batik Malagasy",
+                  "text": "Batik Malagasy is an arts centre dedicated to the traditional craft of Malagasy dyed textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        47.554067,
+                        -18.845905
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [47.5188, -18.8833],
@@ -661,7 +1714,88 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "tulear-sea-museum-landmarks-v2",
+    id: "tulear-sea-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Baleine",
+                  "text": "Das Musée Baleine zeigt große Meeressäugerskelette und bietet Lehrtafeln zu den verschiedenen Walarten, die im nahen Kanal von Mosambik vorkommen.",
+                  "category": "museum",
+                  "coords": [
+                        43.665935,
+                        -23.357701
+                  ]
+            },
+            {
+                  "name": "Musée Cedratom",
+                  "text": "Das Musée Cedratom ist ein akademisches Museum, das die reiche Kulturanthropologie und die traditionellen Künste der ethnischen Gruppen im Südwesten Madagaskars zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        43.667949,
+                        -23.35556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Baleine",
+                  "text": "A Musée Baleine nagy tengeri emlősök csontvázait állítja ki, és oktató jellegű bemutatókat kínál a közeli Mozambiki-csatornában található bálnafajokról.",
+                  "category": "museum",
+                  "coords": [
+                        43.665935,
+                        -23.357701
+                  ]
+            },
+            {
+                  "name": "Musée Cedratom",
+                  "text": "A Musée Cedratom egy egyetemi múzeum, amely Délnyugat-Madagaszkár etnikai csoportjainak gazdag kulturális antropológiáját és hagyományos művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        43.667949,
+                        -23.35556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Baleine",
+                  "text": "Musée Baleine expune schelete mari de mamifere marine și oferă prezentări educaționale despre diversele specii de balene găsite în Canalul Mozambic din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        43.665935,
+                        -23.357701
+                  ]
+            },
+            {
+                  "name": "Musée Cedratom",
+                  "text": "Musée Cedratom este un muzeu academic care prezintă antropologia culturală bogată și artele tradiționale ale grupurilor etnice din sud-vestul Madagascarului.",
+                  "category": "museum",
+                  "coords": [
+                        43.667949,
+                        -23.35556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Baleine",
+                  "text": "The Musée Baleine exhibits large marine mammal skeletons and offers educational displays on the diverse whale species found in the nearby Mozambique Channel.",
+                  "category": "museum",
+                  "coords": [
+                        43.665935,
+                        -23.357701
+                  ]
+            },
+            {
+                  "name": "Musée Cedratom",
+                  "text": "The Musée Cedratom is an academic museum showcasing the rich cultural anthropology and traditional arts of southwestern Madagascar's ethnic groups.",
+                  "category": "museum",
+                  "coords": [
+                        43.667949,
+                        -23.35556
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-U",
     coords: [43.6669, -23.3518],
@@ -755,7 +1889,196 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "nosy-be-lighthouse-landmarks-v2",
+    id: "nosy-be-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chameau",
+                  "text": "Eine ungewöhnliche lokale Attraktion in Nosy Be, benannt nach ihrer markanten kamelartigen Felsform.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099466,
+                        -13.322066
+                  ]
+            },
+            {
+                  "name": "Manga Be",
+                  "text": "Eine markante Naturattraktion, die die üppige tropische Landschaft der Insel Nosy Be zur Schau stellt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.195445,
+                        -13.377502
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré de Madirokely",
+                  "text": "Ein Aussichtspunkt mit einem heiligen Baum, der in den lokalen madagassischen Traditionen verehrt wird.",
+                  "category": "natural",
+                  "coords": [
+                        48.201236,
+                        -13.388987
+                  ]
+            },
+            {
+                  "name": "Alefa",
+                  "text": "Eine einzigartige Küstenattraktion, an der Besucher die traditionelle madagassische Auslegerkanu-Kultur erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        48.201638,
+                        -13.390501
+                  ]
+            },
+            {
+                  "name": "Ambatoloaka",
+                  "text": "Ein lebhaftes Strandziel mit feinem Sand, das für seine Strandbars und tropischen Sonnenuntergänge bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        48.20291,
+                        -13.393162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chameau",
+                  "text": "Szokatlan helyi látványosság Nosy Be szigetén, amely jellegzetes teve alakú sziklaformájáról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099466,
+                        -13.322066
+                  ]
+            },
+            {
+                  "name": "Manga Be",
+                  "text": "Kiemelkedő természeti látványosság, amely Nosy Be szigetének buja trópusi táját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        48.195445,
+                        -13.377502
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré de Madirokely",
+                  "text": "Kilátó, ahol egy a helyi madagaszkári hagyományokban tisztelt szent fa található.",
+                  "category": "natural",
+                  "coords": [
+                        48.201236,
+                        -13.388987
+                  ]
+            },
+            {
+                  "name": "Alefa",
+                  "text": "Különleges tengerparti látványosság, ahol a látogatók megtapasztalhatják a hagyományos madagaszkári outrigger kenu kultúrát.",
+                  "category": "landmark",
+                  "coords": [
+                        48.201638,
+                        -13.390501
+                  ]
+            },
+            {
+                  "name": "Ambatoloaka",
+                  "text": "Nyüzsgő homokos strand, amely tengerparti bárjairól és trópusi naplementéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        48.20291,
+                        -13.393162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chameau",
+                  "text": "O atracție locală neobișnuită în Nosy Be, numită după forma sa naturală distinctă asemănătoare unei cămile.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099466,
+                        -13.322066
+                  ]
+            },
+            {
+                  "name": "Manga Be",
+                  "text": "O atracție naturală proeminentă care prezintă peisajul tropical luxuriant caracteristic insulei Nosy Be.",
+                  "category": "landmark",
+                  "coords": [
+                        48.195445,
+                        -13.377502
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré de Madirokely",
+                  "text": "Un punct de belvedere cu un arbore sacru venerat în tradițiile locale malgașe.",
+                  "category": "natural",
+                  "coords": [
+                        48.201236,
+                        -13.388987
+                  ]
+            },
+            {
+                  "name": "Alefa",
+                  "text": "O atracție de coastă unică, unde vizitatorii pot experimenta cultura tradițională a canoelor cu ramificație din Madagascar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.201638,
+                        -13.390501
+                  ]
+            },
+            {
+                  "name": "Ambatoloaka",
+                  "text": "O destinație plină de viață pe plajă cu nisip, cunoscută pentru barurile de la malul mării și apusurile tropicale.",
+                  "category": "recreational",
+                  "coords": [
+                        48.20291,
+                        -13.393162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chameau",
+                  "text": "A quirky local attraction in Nosy Be named for its distinct camel-like natural rock shape.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099466,
+                        -13.322066
+                  ]
+            },
+            {
+                  "name": "Manga Be",
+                  "text": "A prominent natural attraction showcasing the lush tropical landscape characteristic of Nosy Be.",
+                  "category": "landmark",
+                  "coords": [
+                        48.195445,
+                        -13.377502
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré de Madirokely",
+                  "text": "A scenic viewpoint featuring a sacred tree revered in local Malagasy traditions.",
+                  "category": "natural",
+                  "coords": [
+                        48.201236,
+                        -13.388987
+                  ]
+            },
+            {
+                  "name": "Alefa",
+                  "text": "A unique coastal attraction where visitors can experience traditional Malagasy outrigger canoe culture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.201638,
+                        -13.390501
+                  ]
+            },
+            {
+                  "name": "Ambatoloaka",
+                  "text": "A lively sandy beach destination known for its beachfront bars and tropical sunset views.",
+                  "category": "recreational",
+                  "coords": [
+                        48.20291,
+                        -13.393162
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-D",
     coords: [48.1691, -13.315],
@@ -896,7 +2219,88 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "monument-aux-morts-diego-suarez-landmarks-v2",
+    id: "monument-aux-morts-diego-suarez-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baie de Diego-Suarez",
+                  "text": "Ein gewaltiger Naturhafen und eine Bucht im Norden Madagaskars, bekannt als eine der größten natürlichen Buchten der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.277351,
+                        -12.229202
+                  ]
+            },
+            {
+                  "name": "Général R. Joffre",
+                  "text": "Ein Gedenkmonument in Antsiranana zu Ehren des französischen Generals Joseph Joffre und seines historischen Einflusses in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        49.289741,
+                        -12.268264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baie de Diego-Suarez",
+                  "text": "Hatalmas természetes kikötő és öböl Észak-Madagaszkáron, amely a világ egyik legnagyobb természetes öblének számít.",
+                  "category": "landmark",
+                  "coords": [
+                        49.277351,
+                        -12.229202
+                  ]
+            },
+            {
+                  "name": "Général R. Joffre",
+                  "text": "A francia Joseph Joffre tábornoknak és a régióban kifejtett történelmi hatásának emléket állító emlékmű Antsiranana városában.",
+                  "category": "historical",
+                  "coords": [
+                        49.289741,
+                        -12.268264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baie de Diego-Suarez",
+                  "text": "Un port natural și golf masiv în nordul Madagascarului, recunoscut drept unul dintre cele mai mari golfuri naturale din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        49.277351,
+                        -12.229202
+                  ]
+            },
+            {
+                  "name": "Général R. Joffre",
+                  "text": "Un monument comemorativ în Antsiranana care îl onorează pe generalul francez Joseph Joffre și influența sa istorică în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        49.289741,
+                        -12.268264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baie de Diego-Suarez",
+                  "text": "A massive natural harbor and bay in northern Madagascar, known as one of the largest natural bays in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        49.277351,
+                        -12.229202
+                  ]
+            },
+            {
+                  "name": "Général R. Joffre",
+                  "text": "A memorial monument in Antsiranana honoring the French General Joseph Joffre and his historical influence in the region.",
+                  "category": "historical",
+                  "coords": [
+                        49.289741,
+                        -12.268264
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-D",
     coords: [49.2892, -12.2694],
@@ -1131,7 +2535,52 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "hotel-de-ville-mahajanga-landmarks-v2",
+    id: "hotel-de-ville-mahajanga-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banja Toalaza",
+                  "text": "Banja Toalaza ist ein Freilichttheater- und Kulturraum in Mahajanga, in dem häufig traditionelle madagassische Musik und Gemeindevorführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        46.312829,
+                        -15.717352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banja Toalaza",
+                  "text": "A Banja Toalaza egy szabadtéri színházi és kulturális tér Mahajangában, amely gyakran ad otthont hagyományos madagaszkári zenének és közösségi előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        46.312829,
+                        -15.717352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banja Toalaza",
+                  "text": "Banja Toalaza este un spațiu teatral și cultural în aer liber din Mahajanga, care găzduiește frecvent muzică tradițională malgașă și spectacole comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        46.312829,
+                        -15.717352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banja Toalaza",
+                  "text": "Banja Toalaza is an open-air theatrical and cultural space in Mahajanga, frequently hosting traditional Malagasy music and community performances.",
+                  "category": "cultural",
+                  "coords": [
+                        46.312829,
+                        -15.717352
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-M",
     coords: [46.3117, -15.7196],
@@ -1272,7 +2721,88 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "independance-avenue-arc-landmarks-v2",
+    id: "independance-avenue-arc-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piratenmuseum Antananarivo",
+                  "text": "Das Piratenmuseum in Antananarivo erzählt die faszinierende Geschichte der sagenumwobenen Piratenrepublik Libertalia an der Küste Madagaskars.",
+                  "category": "museum",
+                  "coords": [
+                        47.518501,
+                        -18.907055
+                  ]
+            },
+            {
+                  "name": "I Love Antananarivo Sign",
+                  "text": "Der leuchtende Schriftzug „I Love Antananarivo“ nahe der Independence Avenue ist ein modernes typografisches Wahrzeichen, das sich großer Beliebtheit für Touristenfotos erfreut.",
+                  "category": "landmark",
+                  "coords": [
+                        47.523578,
+                        -18.905315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Pirates Antananarivo",
+                  "text": "Az antananarivói Kalózmúzeum a Madagaszkár partjainál létrejött legendás kalózköztársaság, Libertalia érdekes történetét meséli el.",
+                  "category": "museum",
+                  "coords": [
+                        47.518501,
+                        -18.907055
+                  ]
+            },
+            {
+                  "name": "I Love Antananarivo Sign",
+                  "text": "A Függetlenség sugárútja közelében található élénk „I Love Antananarivo” felirat egy modern tipográfiai tájékozódási pont, amely népszerű a turisták fotóin.",
+                  "category": "landmark",
+                  "coords": [
+                        47.523578,
+                        -18.905315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Pirates Antananarivo",
+                  "text": "Muzeul Piraților din Antananarivo spune povestea intrigantă a legendarei republici a piraților, Libertalia, de pe coasta Madagascarului.",
+                  "category": "museum",
+                  "coords": [
+                        47.518501,
+                        -18.907055
+                  ]
+            },
+            {
+                  "name": "I Love Antananarivo Sign",
+                  "text": "Semnul vibrant „I Love Antananarivo” de lângă Bulevardul Independenței este un reper tipografic modern, popular pentru fotografiile turiștilor.",
+                  "category": "landmark",
+                  "coords": [
+                        47.523578,
+                        -18.905315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirates Museum Antananarivo",
+                  "text": "The Pirates Museum in Antananarivo tells the intriguing story of the legendary pirate republic of Libertalia on the coast of Madagascar.",
+                  "category": "museum",
+                  "coords": [
+                        47.518501,
+                        -18.907055
+                  ]
+            },
+            {
+                  "name": "I Love Antananarivo Sign",
+                  "text": "The vibrant \"I Love Antananarivo\" sign near Independence Avenue is a modern typographic landmark popular for tourist photography.",
+                  "category": "landmark",
+                  "coords": [
+                        47.523578,
+                        -18.905315
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-T",
     coords: [47.5224, -18.9056],
@@ -1366,7 +2896,52 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     
   },
   {
-    id: "pirate-cemetery-sainte-marie-landmarks-v2",
+    id: "pirate-cemetery-sainte-marie-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piratenfriedhof",
+                  "text": "Diese historische Begräbnisstätte auf der Insel Île Sainte-Marie beherbergt die Gräber echter Seeräuber.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847537,
+                        -17.012096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cimetière des pirates",
+                  "text": "Ez az Île Sainte-Marie szigetén található történelmi temető egykori kalózok sírjait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847537,
+                        -17.012096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cimetière des pirates",
+                  "text": "Acest cimitir istoric de pe insula Île Sainte-Marie adăpostește mormintele piraților de odinioară.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847537,
+                        -17.012096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirates Cemetery",
+                  "text": "This historic burial ground on Île Sainte-Marie contains the graves of former seaborne pirates.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847537,
+                        -17.012096
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MG-A",
     coords: [49.851, -17.005],

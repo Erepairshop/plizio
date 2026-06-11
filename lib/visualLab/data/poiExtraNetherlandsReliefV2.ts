@@ -565,7 +565,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Kootwijk",
-                  "text": "Eine historische reformierte Kirche im Dorf Kootwijk.",
+                  "text": "Die reformierte Kirche in Kootwijkerzand, um 1600 erbaut und denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         5.770325,
@@ -603,7 +603,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Kootwijk",
-                  "text": "Történelmi református templom Kootwijk faluban.",
+                  "text": "A kootwijkerzandi református templom 1600 körül épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         5.770325,
@@ -641,7 +641,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Kootwijk",
-                  "text": "O biserică reformată istorică din satul Kootwijk.",
+                  "text": "Biserica reformată din Kootwijkerzand, construită în jurul anului 1600, monument istoric.",
                   "category": "religious",
                   "coords": [
                         5.770325,
@@ -679,7 +679,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Kootwijk",
-                  "text": "A historic reformed church in the village of Kootwijk.",
+                  "text": "The Reformed Church in Kootwijkerzand, built around 1600 and a listed monument.",
                   "category": "religious",
                   "coords": [
                         5.770325,

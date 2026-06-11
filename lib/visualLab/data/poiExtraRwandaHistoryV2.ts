@@ -435,7 +435,88 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     }
   },
   {
-    id: "ndaba-rock-history-v2",
+    id: "ndaba-rock-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Norbi's viewpoint Kibuye",
+                  "text": "Ein malerischer Aussichtspunkt in Kibuye, der den Besuchern weite Ausblicke über das hügelige Gelände und den nahegelegenen See eröffnet.",
+                  "category": "natural",
+                  "coords": [
+                        29.351253,
+                        -2.064138
+                  ]
+            },
+            {
+                  "name": "Chateau le Marara",
+                  "text": "Ein schlossartiges architektonisches Bauwerk im felsigen, historischen Gelände der Region um den Ndaba-Felsen.",
+                  "category": "castle",
+                  "coords": [
+                        29.353671,
+                        -2.06182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Norbi's viewpoint Kibuye",
+                  "text": "Festői megfigyelőhely Kibuyében, ahonnan széles kilátás nyílik a dombos vidékre és a közeli tóra.",
+                  "category": "natural",
+                  "coords": [
+                        29.351253,
+                        -2.064138
+                  ]
+            },
+            {
+                  "name": "Chateau le Marara",
+                  "text": "Kastélyszerű építészeti struktúra az Ndaba-szikla régió sziklás, történelmi terepén.",
+                  "category": "castle",
+                  "coords": [
+                        29.353671,
+                        -2.06182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Norbi's viewpoint Kibuye",
+                  "text": "Un loc de observație pitoresc în Kibuye, care oferă vizitatorilor o panoramă largă asupra terenului deluros și a lacului din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        29.351253,
+                        -2.064138
+                  ]
+            },
+            {
+                  "name": "Chateau le Marara",
+                  "text": "O structură arhitecturală asemănătoare unui castel situată pe terenul stâncos și istoric din jurul regiunii Stâncii Ndaba.",
+                  "category": "castle",
+                  "coords": [
+                        29.353671,
+                        -2.06182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Norbi's viewpoint Kibuye",
+                  "text": "A picturesque observation spot in Kibuye that affords visitors wide vistas over the hilly terrain and the nearby lake.",
+                  "category": "natural",
+                  "coords": [
+                        29.351253,
+                        -2.064138
+                  ]
+            },
+            {
+                  "name": "Chateau le Marara",
+                  "text": "A castle-like architectural structure situated in the rocky, historic terrain around the Ndaba Rock region.",
+                  "category": "castle",
+                  "coords": [
+                        29.353671,
+                        -2.06182
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RW-04",
     coords: [29.351, -2.062],
@@ -675,7 +756,88 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     }
   },
   {
-    id: "ibyiwacu-cultural-village-history-v2",
+    id: "ibyiwacu-cultural-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Art objects",
+                  "text": "Eine ansprechende kulturelle Attraktion, die eine vielfältige Sammlung traditioneller ruandischer Kunstobjekte und Artefakte präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            },
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "Ein moderner Museumscampus des Dian Fossey Gorilla Fund, der sich ganz dem Schutz der Berggorillas widmet.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Art objects",
+                  "text": "Vonzó kulturális látványosság, amely a hagyományos ruandai művészeti tárgyak és műtárgyak változatos gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            },
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "A Dian Fossey Gorilla Alapítvány által létrehozott modern múzeumi kampusz, amelyet teljes egészében a hegyi gorillák védelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Art objects",
+                  "text": "O atracție culturală captivantă, care prezintă o colecție diversă de obiecte de artă și artefacte tradiționale din Rwanda.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            },
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "Un campus muzeal modern înființat de Dian Fossey Gorilla Fund, dedicat în întregime conservării gorilelor de munte.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art objects",
+                  "text": "An engaging cultural attraction showcasing a diverse collection of traditional Rwandan art objects and artifacts.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            },
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "A modern museum campus established by the Dian Fossey Gorilla Fund, dedicated entirely to mountain gorilla conservation.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RW-03",
     coords: [29.58, -1.45],
@@ -819,7 +981,124 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "nyanza-royal-burial-ground-history-v2",
+    id: "nyanza-royal-burial-ground-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "Das Mwina-Mausoleum ist eine wichtige historische Stätte in Verbindung mit den ruandischen königlichen Bestattungstraditionen in Nyanza.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            },
+            {
+                  "name": "King's Palace Museum",
+                  "text": "Das King's Palace Museum in Nyanza verfügt über eine akribisch rekonstruierte traditionelle königliche Residenz mit ihren berühmten langhörnigen Inyambo-Rindern.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.36022
+                  ]
+            },
+            {
+                  "name": "Museum of Rwesero (former National Art Gallery)",
+                  "text": "Das Kwigira Museum beleuchtet Ruandas „Home Grown Solutions“ und Initiativen zur kulturellen Resilienz innerhalb des königlichen Komplexes von Nyanza.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "A Mwina mauzóleum a ruandai királyi temetkezési hagyományokhoz kapcsolódó fontos történelmi emlékhely Nyanzában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            },
+            {
+                  "name": "King's Palace Museum",
+                  "text": "A nyanzai Királyi Palota Múzeum egy aprólékosan rekonstruált hagyományos királyi rezidenciát mutat be a híres hosszúszarvú inyambo szarvasmarhákkal.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.36022
+                  ]
+            },
+            {
+                  "name": "Museum of Rwesero (former National Art Gallery)",
+                  "text": "A Kwigira Múzeum Ruanda hazai fejlesztésű megoldásait és kulturális ellenálló képességét bemutató kezdeményezéseit emeli ki a nyanzai királyi komplexumban.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "Mausoleul Mwina este un sit istoric important legat de tradițiile funerare regale din Rwanda, în Nyanza.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            },
+            {
+                  "name": "King's Palace Museum",
+                  "text": "Muzeul Palatului Regal din Nyanza prezintă o reședință regală tradițională meticulos reconstituită, alături de faimoasele vite Inyambo cu coarne lungi.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.36022
+                  ]
+            },
+            {
+                  "name": "Museum of Rwesero (former National Art Gallery)",
+                  "text": "Muzeul Kwigira evidențiază soluțiile autohtone și inițiativele de reziliență culturală ale Rwandei în cadrul complexului regal din Nyanza.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "The Mwina Mausoleum is an important historical site connected to the Rwandan royal burial traditions in Nyanza.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            },
+            {
+                  "name": "King's Palace Museum",
+                  "text": "The King's Palace Museum in Nyanza features a meticulously reconstructed traditional royal residence with its famed long-horned Inyambo cattle.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.36022
+                  ]
+            },
+            {
+                  "name": "Kwigira Museum",
+                  "text": "The Kwigira Museum highlights Rwanda's Home Grown Solutions and cultural resilience initiatives within the Nyanza royal complex.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RW-05",
     coords: [29.74, -2.36],
@@ -867,7 +1146,52 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     }
   },
   {
-    id: "ku-ndaro-history-v2",
+    id: "ku-ndaro-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huye Mountain Coffee",
+                  "text": "Huye Mountain Coffee bietet Besuchern die Möglichkeit, eine traditionelle ruandische Kaffeewaschstation an den Berghängen zu erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.692261,
+                        -2.546794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huye Mountain Coffee",
+                  "text": "A Huye Mountain Coffee lehetőséget kínál a látogatóknak, hogy megismerjenek egy hagyományos ruandai kávéfeldolgozó állomást a hegyoldalban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.692261,
+                        -2.546794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huye Mountain Coffee",
+                  "text": "Huye Mountain Coffee oferă vizitatorilor șansa de a experimenta o stație tradițională de spălare a cafelei din Rwanda pe versanții muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        29.692261,
+                        -2.546794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huye Mountain Coffee",
+                  "text": "Huye Mountain Coffee offers visitors a chance to experience a traditional Rwandan coffee washing station on the mountain slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        29.692261,
+                        -2.546794
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RW-05",
     coords: [29.65, -2.55],
@@ -963,7 +1287,52 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     }
   },
   {
-    id: "environment-museum-karongi-history-v2",
+    id: "environment-museum-karongi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Home St Jean",
+                  "text": "Dieses historische Gästehaus mit Aussichtspunkt thront hoch auf einer steilen Halbinsel in Karongi und bietet weite Ausblicke über die tiefblaue Weite des Kivu-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        29.357086,
+                        -2.067564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Home St Jean",
+                  "text": "A Karongi egyik meredek félszigetén magasan fekvő történelmi vendégház és kilátó kiterjedt kilátást nyújt a Kivu-tó mélykék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        29.357086,
+                        -2.067564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Home St Jean",
+                  "text": "Așezată sus pe o peninsulă abruptă din Karongi, această pensiune istorică cu punct de belvedere oferă priveliști largi peste întinderea albastru intens a lacului Kivu.",
+                  "category": "natural",
+                  "coords": [
+                        29.357086,
+                        -2.067564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Home St Jean",
+                  "text": "Perched high on a steep peninsula in Karongi, this historic guesthouse and viewpoint delivers spectacular, sweeping vistas across the deep blue expanse of Lake Kivu.",
+                  "category": "natural",
+                  "coords": [
+                        29.357086,
+                        -2.067564
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RW-04",
     coords: [29.35, -2.0667],
@@ -1347,7 +1716,88 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     }
   },
   {
-    id: "nyanza-genocide-memorial-history-v2",
+    id: "nyanza-genocide-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "Ein weitläufiges Ausstellungsgelände in Kigali, das regelmäßig internationale Handelsmessen und Großveranstaltungen ausrichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086843,
+                        -1.976866
+                  ]
+            },
+            {
+                  "name": "Rebero Genocide Memorial",
+                  "text": "Eine Gedenkstätte in Kigali, die den während des Völkermords von 1994 ermordeten Politikern gewidmet ist, die sich gegen die Massaker aussprachen.",
+                  "category": "historical",
+                  "coords": [
+                        30.072279,
+                        -1.994309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "Kigali hatalmas kiállítási területe, amely rendszeresen ad otthont nemzetközi szakmai vásároknak és nagyszabású rendezvényeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086843,
+                        -1.976866
+                  ]
+            },
+            {
+                  "name": "Rebero Genocide Memorial",
+                  "text": "Kigaliban található emlékhely, amely az 1994-es népirtás során meggyilkolt, a mészárlások ellen felszólaló politikusoknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        30.072279,
+                        -1.994309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "Un spațiu expozițional vast din Kigali care găzduiește regulat târguri comerciale internaționale și evenimente publice.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086843,
+                        -1.976866
+                  ]
+            },
+            {
+                  "name": "Rebero Genocide Memorial",
+                  "text": "Un memorial în Kigali dedicat politicienilor uciși în timpul genocidului din 1994 pentru că s-au opus masacrelor.",
+                  "category": "historical",
+                  "coords": [
+                        30.072279,
+                        -1.994309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "A large exhibition ground in Kigali hosting international trade fairs and significant public events.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086843,
+                        -1.976866
+                  ]
+            },
+            {
+                  "name": "Rebero Genocide Memorial",
+                  "text": "A memorial site in Kigali honoring the politicians who were killed during the 1994 genocide against the Tutsi.",
+                  "category": "historical",
+                  "coords": [
+                        30.072279,
+                        -1.994309
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RW-01",
     coords: [30.08, -1.98],
@@ -1395,7 +1845,52 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     }
   },
   {
-    id: "urugwiro-village-history-v2",
+    id: "urugwiro-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inema Arts Center",
+                  "text": "Dieses lebendige Zentrum für zeitgenössische Kunst stellt lokale kreative Werke in der Nähe des Urugwiro Village aus.",
+                  "category": "cultural",
+                  "coords": [
+                        30.090837,
+                        -1.944274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inema Arts Center",
+                  "text": "Ez a pezsgő kortárs művészeti központ helyi kreatív alkotásokat állít ki az Urugwiro Village közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        30.090837,
+                        -1.944274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inema Arts Center",
+                  "text": "Acest centru vibrant de artă contemporană expune lucrări creative locale lângă Urugwiro Village.",
+                  "category": "cultural",
+                  "coords": [
+                        30.090837,
+                        -1.944274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inema Art Centre",
+                  "text": "This vibrant contemporary arts centre exhibits local creative works near Urugwiro Village.",
+                  "category": "cultural",
+                  "coords": [
+                        30.090837,
+                        -1.944274
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RW-01",
     coords: [30.085, -1.95],

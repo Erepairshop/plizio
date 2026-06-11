@@ -34,7 +34,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Blomvåg kyrkje",
-                  "text": "Eine Kirche in der Nähe der Kollsnes-Gasanlage.",
+                  "text": "Die Blomvåg kyrkje, erbaut 1931 von Victor Nordan, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         4.877181,
@@ -81,7 +81,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Blomvåg kyrkje",
-                  "text": "Templom a Kollsnes gázüzem közelében.",
+                  "text": "A Blomvåg-i templom (Blomvåg kyrkje) 1931-ben épült Victor Nordan tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         4.877181,
@@ -128,7 +128,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Blomvåg kyrkje",
-                  "text": "O biserică situată în apropierea stației de gaz Kollsnes.",
+                  "text": "Biserica Blomvåg kyrkje, construită în 1931 de arhitectul Victor Nordan, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         4.877181,
@@ -175,7 +175,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Blomvåg kyrkje",
-                  "text": "A church situated near the Kollsnes Gas Plant.",
+                  "text": "Blomvåg Church, built in 1931, was designed by Victor Nordan and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         4.877181,

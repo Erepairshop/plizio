@@ -23,7 +23,88 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     }
   },
   {
-    id: "ichkeul-lake-nature-v2",
+    id: "ichkeul-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dschabal Ischkul",
+                  "text": "Dieser markante Berggipfel erhebt sich steil über den umliegenden Feuchtgebieten des Ichkeul-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        9.653217,
+                        37.124649
+                  ]
+            },
+            {
+                  "name": "Geological Museum",
+                  "text": "Dieses Museum zeigt Gesteine, Mineralien und Fossilien, die die geologische Entstehung der Ichkeul-Region erklären.",
+                  "category": "museum",
+                  "coords": [
+                        9.691407,
+                        37.135755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Ishkul",
+                  "text": "Ez a kiemelkedő hegycsúcs meredeken magasodik az Ichkeul-tó környező vizenyős területei fölé.",
+                  "category": "natural",
+                  "coords": [
+                        9.653217,
+                        37.124649
+                  ]
+            },
+            {
+                  "name": "Geological Museum",
+                  "text": "Ez a múzeum az Ichkeul-régió geológiai kialakulását magyarázó kőzeteket, ásványokat és kövületeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.691407,
+                        37.135755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Ishkul",
+                  "text": "Acest vârf montan proeminent se înalță abrupt deasupra zonelor umede din jurul lacului Ichkeul.",
+                  "category": "natural",
+                  "coords": [
+                        9.653217,
+                        37.124649
+                  ]
+            },
+            {
+                  "name": "Geological Museum",
+                  "text": "Acest muzeu expune roci, minerale și fosile care explică formarea geologică a regiunii Ichkeul.",
+                  "category": "museum",
+                  "coords": [
+                        9.691407,
+                        37.135755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Ishkul",
+                  "text": "This prominent mountain peak rises sharply above the surrounding wetlands of Lake Ichkeul.",
+                  "category": "natural",
+                  "coords": [
+                        9.653217,
+                        37.124649
+                  ]
+            },
+            {
+                  "name": "Geological Museum",
+                  "text": "This museum showcases rocks, minerals, and fossils that explain the geological formation of the Ichkeul region.",
+                  "category": "museum",
+                  "coords": [
+                        9.691407,
+                        37.135755
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TN-BI",
     coords: [9.67, 37.16],
@@ -104,7 +185,196 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kerkenna-islands-nature-v2",
+    id: "kerkenna-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Borj LaHssar",
+                  "text": "Die Ruinen von Borj LaHssar erzählen von einer alten Befestigungsanlage auf den Kerkennah-Inseln.",
+                  "category": "historical",
+                  "coords": [
+                        11.153436,
+                        34.710359
+                  ]
+            },
+            {
+                  "name": "Plage Karen Khalifa",
+                  "text": "Der Strand Plage Karen Khalifa bietet flaches Wasser an der unberührten Küste der Kerkennah-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        11.175373,
+                        34.760161
+                  ]
+            },
+            {
+                  "name": "Musée Du Patrimoine Insulaire",
+                  "text": "Das Musée Du Patrimoine Insulaire dokumentiert die traditionelle Inselfischerei und das Handwerk des Archipels.",
+                  "category": "museum",
+                  "coords": [
+                        11.243597,
+                        34.719568
+                  ]
+            },
+            {
+                  "name": "Place Slim Hadhri",
+                  "text": "Der Place Slim Hadhri ist ein zentraler Platz mit Gedenkcharakter auf den Kerkennah-Inseln.",
+                  "category": "historical",
+                  "coords": [
+                        11.203135,
+                        34.705479
+                  ]
+            },
+            {
+                  "name": "Résidence Club Kerkenah - amphithéâtre",
+                  "text": "Das Freilicht-Amphitheater der Résidence Club Kerkenah wird für sommerliche Vorführungen auf der Insel genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.136204,
+                        34.693883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borj LaHssar",
+                  "text": "A Borj LaHssar romjai egy régi erődítményről mesélnek a Kerkennah-szigeteken.",
+                  "category": "historical",
+                  "coords": [
+                        11.153436,
+                        34.710359
+                  ]
+            },
+            {
+                  "name": "Plage Karen Khalifa",
+                  "text": "A Plage Karen Khalifa strand sekély vizet kínál a Kerkennah-szigetek érintetlen partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        11.175373,
+                        34.760161
+                  ]
+            },
+            {
+                  "name": "Musée Du Patrimoine Insulaire",
+                  "text": "A Musée Du Patrimoine Insulaire a szigetcsoport hagyományos halászatát és kézművességét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        11.243597,
+                        34.719568
+                  ]
+            },
+            {
+                  "name": "Place Slim Hadhri",
+                  "text": "A Place Slim Hadhri egy központi emlékjellegű tér a Kerkennah-szigeteken.",
+                  "category": "historical",
+                  "coords": [
+                        11.203135,
+                        34.705479
+                  ]
+            },
+            {
+                  "name": "Résidence Club Kerkenah - amphithéâtre",
+                  "text": "A Résidence Club Kerkenah szabadtéri amfiteátrumát nyári előadásokra használják a szigeten.",
+                  "category": "cultural",
+                  "coords": [
+                        11.136204,
+                        34.693883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Borj LaHssar",
+                  "text": "Ruinele Borj LaHssar povestesc despre o veche fortificație de pe Insulele Kerkennah.",
+                  "category": "historical",
+                  "coords": [
+                        11.153436,
+                        34.710359
+                  ]
+            },
+            {
+                  "name": "Plage Karen Khalifa",
+                  "text": "Plaja Karen Khalifa oferă ape puțin adânci pe coasta virgină a Insulelor Kerkennah.",
+                  "category": "recreational",
+                  "coords": [
+                        11.175373,
+                        34.760161
+                  ]
+            },
+            {
+                  "name": "Musée Du Patrimoine Insulaire",
+                  "text": "Musée Du Patrimoine Insulaire documentează pescuitul tradițional și meșteșugurile arhipelagului.",
+                  "category": "museum",
+                  "coords": [
+                        11.243597,
+                        34.719568
+                  ]
+            },
+            {
+                  "name": "Place Slim Hadhri",
+                  "text": "Place Slim Hadhri este o piață centrală cu caracter comemorativ pe Insulele Kerkennah.",
+                  "category": "historical",
+                  "coords": [
+                        11.203135,
+                        34.705479
+                  ]
+            },
+            {
+                  "name": "Résidence Club Kerkenah - amphithéâtre",
+                  "text": "Amfiteatrul în aer liber al Résidence Club Kerkenah este folosit pentru spectacole estivale pe insulă.",
+                  "category": "cultural",
+                  "coords": [
+                        11.136204,
+                        34.693883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Borj LaHssar",
+                  "text": "The ruins of Borj LaHssar tell of an old fortification on the Kerkennah Islands.",
+                  "category": "historical",
+                  "coords": [
+                        11.153436,
+                        34.710359
+                  ]
+            },
+            {
+                  "name": "Plage Karen Khalifa",
+                  "text": "The Plage Karen Khalifa beach offers shallow waters on the pristine coast of the Kerkennah Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        11.175373,
+                        34.760161
+                  ]
+            },
+            {
+                  "name": "Musée Du Patrimoine Insulaire",
+                  "text": "The Musée Du Patrimoine Insulaire documents the traditional island fishing and crafts of the archipelago.",
+                  "category": "museum",
+                  "coords": [
+                        11.243597,
+                        34.719568
+                  ]
+            },
+            {
+                  "name": "Place Slim Hadhri",
+                  "text": "Place Slim Hadhri is a central memorial square on the Kerkennah Islands.",
+                  "category": "historical",
+                  "coords": [
+                        11.203135,
+                        34.705479
+                  ]
+            },
+            {
+                  "name": "Résidence Club Kerkenah - amphithéâtre",
+                  "text": "The open-air amphitheatre of the Résidence Club Kerkenah is used for summer performances on the island.",
+                  "category": "cultural",
+                  "coords": [
+                        11.136204,
+                        34.693883
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "TN-SF",
     coords: [11.2, 34.7],
@@ -248,7 +518,52 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "gulf-of-tunis-nature-v2",
+    id: "gulf-of-tunis-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marisa",
+                  "text": "Die Ausgrabungsstätte Marisa bewahrt historische Ruinen am Rande des Golfs von Tunis.",
+                  "category": "historical",
+                  "coords": [
+                        10.557547,
+                        36.761472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marisa",
+                  "text": "A Marisa régészeti lelőhely történelmi romokat őriz a Tuniszi-öböl partján.",
+                  "category": "historical",
+                  "coords": [
+                        10.557547,
+                        36.761472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marisa",
+                  "text": "Situl arheologic Marisa păstrează ruine istorice pe marginea Golfului Tunis.",
+                  "category": "historical",
+                  "coords": [
+                        10.557547,
+                        36.761472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marisa",
+                  "text": "The Marisa archaeological site preserves historical ruins along the shores of the Gulf of Tunis.",
+                  "category": "historical",
+                  "coords": [
+                        10.557547,
+                        36.761472
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "TN-TU",
     coords: [10.5, 36.8],
@@ -284,7 +599,52 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "jebel-bou-hedma-nature-v2",
+    id: "jebel-bou-hedma-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bou Hedma National Park",
+                  "text": "Ein geschütztes Naturschutzgebiet, das trockene präsaharische Steppen und eine raue Berglandschaft umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        9.473556,
+                        34.413567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bou Hedma National Park",
+                  "text": "Védett természetvédelmi terület, amely száraz szaharai sztyeppéket és zord hegyvidéki tájat foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        9.473556,
+                        34.413567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bou Hedma National Park",
+                  "text": "O rezervație naturală protejată care cuprinde stepe aride pre-sahariene și un peisaj montan accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        9.473556,
+                        34.413567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bou Hedma National Park",
+                  "text": "A protected nature reserve encompassing arid pre-Saharan steppes and a rugged mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.473556,
+                        34.413567
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-SB",
     coords: [9.5, 34.5],
@@ -320,7 +680,52 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "chott-el-gharsa-nature-v2",
+    id: "chott-el-gharsa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Movie shooting site",
+                  "text": "Dieser Filmdrehort ist eine bekannte Kulisse in der Wüstenlandschaft von Chott el Gharsa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9899,
+                        34.010036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Movie shooting site",
+                  "text": "Ez a forgatási helyszín egy ismert filmes helyszín Chott el Gharsa sivatagi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9899,
+                        34.010036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Movie shooting site",
+                  "text": "Acest loc de filmare este o locație cinematografică recunoscută situată în peisajul deșertic de la Chott el Gharsa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9899,
+                        34.010036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Movie shooting site",
+                  "text": "This movie shooting site is a recognized film location situated in the desert landscape of Chott el Gharsa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9899,
+                        34.010036
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TN-TO",
     coords: [8.0, 34.0],
@@ -356,7 +761,196 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "gulf-of-hammamet-nature-v2",
+    id: "gulf-of-hammamet-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulissipira Amphitheatre",
+                  "text": "Das Amphitheater von Ulissipira umfasst die ausgegrabenen Steinruinen einer römischen Arena, die für öffentliche Spektakel genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        10.441166,
+                        35.958544
+                  ]
+            },
+            {
+                  "name": "Archeological Park of Horrea Coelia",
+                  "text": "Der archäologische Park von Horrea Coelia bewahrt die Fundamente antiker römischer Getreidespeicher und Lagerhäuser.",
+                  "category": "historical",
+                  "coords": [
+                        10.517214,
+                        36.020698
+                  ]
+            },
+            {
+                  "name": "Roman Bridge",
+                  "text": "Die Ruinen einer alten römischen Bogenbrücke in der Nähe des Golfs von Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.527359,
+                        35.977085
+                  ]
+            },
+            {
+                  "name": "Karting Hergla",
+                  "text": "Eine Go-Kart-Bahn-Attraktion, die Freizeitrennen in der Nähe der Küste von Hergla anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.491114,
+                        36.024984
+                  ]
+            },
+            {
+                  "name": "M'PARADISE",
+                  "text": "Ein Sandstrand entlang der malerischen Küste des Golfs von Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.566648,
+                        35.931143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulissipira Amphitheatre",
+                  "text": "Az Ulissipira amfiteátrum egy nyilvános látványosságokra használt római aréna feltárt kőromjait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        10.441166,
+                        35.958544
+                  ]
+            },
+            {
+                  "name": "Archeological Park of Horrea Coelia",
+                  "text": "A Horrea Coelia Régészeti Park az ókori római magtárak és raktárak alapjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        10.517214,
+                        36.020698
+                  ]
+            },
+            {
+                  "name": "Roman Bridge",
+                  "text": "Egy ősi római ívhíd romjai a Hammameti-öböl közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.527359,
+                        35.977085
+                  ]
+            },
+            {
+                  "name": "Karting Hergla",
+                  "text": "Gokartpálya, amely szabadidős versenyzést kínál Hergla partjainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.491114,
+                        36.024984
+                  ]
+            },
+            {
+                  "name": "M'PARADISE",
+                  "text": "Homokos strand a Hammameti-öböl festői partvonalán.",
+                  "category": "recreational",
+                  "coords": [
+                        10.566648,
+                        35.931143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulissipira Amphitheatre",
+                  "text": "Amfiteatrul Ulissipira conține ruinele de piatră excavate ale unei arene romane folosite pentru spectacole publice.",
+                  "category": "historical",
+                  "coords": [
+                        10.441166,
+                        35.958544
+                  ]
+            },
+            {
+                  "name": "Archeological Park of Horrea Coelia",
+                  "text": "Parcul Arheologic din Horrea Coelia păstrează fundațiile vechilor grânare și depozite romane.",
+                  "category": "historical",
+                  "coords": [
+                        10.517214,
+                        36.020698
+                  ]
+            },
+            {
+                  "name": "Roman Bridge",
+                  "text": "Ruinele unui vechi pod cu arc roman situat în apropierea Golfului Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.527359,
+                        35.977085
+                  ]
+            },
+            {
+                  "name": "Karting Hergla",
+                  "text": "O atracție cu pistă de karting care oferă curse de agrement lângă coasta Hergla.",
+                  "category": "landmark",
+                  "coords": [
+                        10.491114,
+                        36.024984
+                  ]
+            },
+            {
+                  "name": "M'PARADISE",
+                  "text": "O destinație de plajă cu nisip de-a lungul coastei pitorești a Golfului Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.566648,
+                        35.931143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulissipira Amphitheatre",
+                  "text": "The Ulissipira Amphitheatre contains the excavated stone ruins of a Roman arena used for public spectacles.",
+                  "category": "historical",
+                  "coords": [
+                        10.441166,
+                        35.958544
+                  ]
+            },
+            {
+                  "name": "Archeological Park of Horrea Coelia",
+                  "text": "The Archeological Park of Horrea Coelia preserves the foundations of ancient Roman granaries and storehouses.",
+                  "category": "historical",
+                  "coords": [
+                        10.517214,
+                        36.020698
+                  ]
+            },
+            {
+                  "name": "Roman Bridge",
+                  "text": "The ruins of an ancient Roman arch bridge located near the Gulf of Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.527359,
+                        35.977085
+                  ]
+            },
+            {
+                  "name": "Karting Hergla",
+                  "text": "A go-karting track attraction offering recreational racing near the coast of Hergla.",
+                  "category": "landmark",
+                  "coords": [
+                        10.491114,
+                        36.024984
+                  ]
+            },
+            {
+                  "name": "M'PARADISE",
+                  "text": "A sandy beach destination along the scenic Gulf of Hammamet coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        10.566648,
+                        35.931143
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "TN-NA",
     coords: [10.5, 36.0],
@@ -392,7 +986,124 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "jebel-serj-nature-v2",
+    id: "jebel-serj-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de Djebel Esserj",
+                  "text": "Der Parc National de Djebel Esserj ist ein geschütztes Naturreservat am imposanten Bergmassiv des Djebel Esserj.",
+                  "category": "natural",
+                  "coords": [
+                        9.548956,
+                        35.944502
+                  ]
+            },
+            {
+                  "name": "Khoumt el Joufia",
+                  "text": "Khoumt el Joufia ist ein schroffer Berggipfel in der Naturlandschaft des Jebel Serj.",
+                  "category": "natural",
+                  "coords": [
+                        9.544546,
+                        35.948123
+                  ]
+            },
+            {
+                  "name": "ecomuseum jbel al sarj",
+                  "text": "Dieses Ökomuseum zeigt das reiche ökologische Erbe und die Artenvielfalt der Region Jebel Serj.",
+                  "category": "museum",
+                  "coords": [
+                        9.546883,
+                        35.944806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Djebel Esserj",
+                  "text": "A Parc National de Djebel Esserj egy védett természetvédelmi terület a Djebel Esserj impozáns hegységénél.",
+                  "category": "natural",
+                  "coords": [
+                        9.548956,
+                        35.944502
+                  ]
+            },
+            {
+                  "name": "Khoumt el Joufia",
+                  "text": "A Khoumt el Joufia egy zord hegycsúcs a Jebel Serj természetes táján.",
+                  "category": "natural",
+                  "coords": [
+                        9.544546,
+                        35.948123
+                  ]
+            },
+            {
+                  "name": "ecomuseum jbel al sarj",
+                  "text": "Ez az ökomúzeum a Jebel Serj régió gazdag ökológiai örökségét és biológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.546883,
+                        35.944806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Djebel Esserj",
+                  "text": "Parc National de Djebel Esserj este o rezervație naturală protejată la masivul muntos impunător Djebel Esserj.",
+                  "category": "natural",
+                  "coords": [
+                        9.548956,
+                        35.944502
+                  ]
+            },
+            {
+                  "name": "Khoumt el Joufia",
+                  "text": "Khoumt el Joufia este un vârf montan accidentat situat în peisajul natural din Jebel Serj.",
+                  "category": "natural",
+                  "coords": [
+                        9.544546,
+                        35.948123
+                  ]
+            },
+            {
+                  "name": "ecomuseum jbel al sarj",
+                  "text": "Acest ecomuzeu prezintă bogata moștenire ecologică și biodiversitatea regiunii Jebel Serj.",
+                  "category": "museum",
+                  "coords": [
+                        9.546883,
+                        35.944806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National de Djebel Esserj",
+                  "text": "The Parc National de Djebel Esserj is a protected nature reserve at the imposing mountain massif of Djebel Esserj.",
+                  "category": "natural",
+                  "coords": [
+                        9.548956,
+                        35.944502
+                  ]
+            },
+            {
+                  "name": "Khoumt el Joufia",
+                  "text": "Khoumt el Joufia is a rugged mountain peak located within the natural landscape of Jebel Serj.",
+                  "category": "natural",
+                  "coords": [
+                        9.544546,
+                        35.948123
+                  ]
+            },
+            {
+                  "name": "ecomuseum jbel al sarj",
+                  "text": "This ecomuseum showcases the rich ecological heritage and biodiversity of the Jebel Serj region.",
+                  "category": "museum",
+                  "coords": [
+                        9.546883,
+                        35.944806
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-SI",
     coords: [9.5, 36.0],
@@ -500,7 +1211,160 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "gulf-of-bizerte-nature-v2",
+    id: "gulf-of-bizerte-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cape Angela Lighthouse",
+                  "text": "Dieser Küstenleuchtturm steht auf dem zerklüfteten Vorgebirge, um Schiffe zu leiten, die die Nordspitze Afrikas umfahren.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738753,
+                        37.344594
+                  ]
+            },
+            {
+                  "name": "Ras Angela",
+                  "text": "Dieser malerische Sandstrand befindet sich in der Nähe des nördlichsten geografischen Punktes des Kontinents.",
+                  "category": "recreational",
+                  "coords": [
+                        9.741707,
+                        37.345651
+                  ]
+            },
+            {
+                  "name": "Le point le plus septentrional du continent africain, depuis 2014.",
+                  "text": "Seit 2014 markiert dieses Küstendenkmal Ras ben Sakka als den äußersten Nordzipfel des afrikanischen Kontinents.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742319,
+                        37.346925
+                  ]
+            },
+            {
+                  "name": "Jebel Kebir Fort",
+                  "text": "Eine defensive Steinburg auf dem erhöhten Gelände des Jebel Kebir.",
+                  "category": "castle",
+                  "coords": [
+                        9.828945,
+                        37.298251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cape Angela Lighthouse",
+                  "text": "Ez a part menti világítótorony a zord hegyfokon áll, hogy irányítsa az Afrika északi csücskét megkerülő hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738753,
+                        37.344594
+                  ]
+            },
+            {
+                  "name": "Ras Angela",
+                  "text": "Ez a festői homokos partszakasz a kontinens legészakibb földrajzi pontja közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.741707,
+                        37.345651
+                  ]
+            },
+            {
+                  "name": "Le point le plus septentrional du continent africain, depuis 2014.",
+                  "text": "2014 óta ez a part menti emlékmű jelöli Ras ben Sakkát az afrikai kontinens legészakibb csücskeként.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742319,
+                        37.346925
+                  ]
+            },
+            {
+                  "name": "Jebel Kebir Fort",
+                  "text": "A Jebel Kebir magaslatán magasodó, védelmi célokat szolgáló kővár.",
+                  "category": "castle",
+                  "coords": [
+                        9.828945,
+                        37.298251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cape Angela Lighthouse",
+                  "text": "Acest far de coastă se află pe promontoriul accidentat pentru a ghida navele care navighează în vârful nordic al Africii.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738753,
+                        37.344594
+                  ]
+            },
+            {
+                  "name": "Ras Angela",
+                  "text": "Această porțiune pitorească de plajă cu nisip este situată în apropierea celui mai nordic punct geografic al continentului.",
+                  "category": "recreational",
+                  "coords": [
+                        9.741707,
+                        37.345651
+                  ]
+            },
+            {
+                  "name": "Le point le plus septentrional du continent africain, depuis 2014.",
+                  "text": "Din 2014, acest monument de coastă marchează Ras ben Sakka drept extremitatea nordică a continentului african.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742319,
+                        37.346925
+                  ]
+            },
+            {
+                  "name": "Jebel Kebir Fort",
+                  "text": "Un castel defensiv din piatră cocoțat pe terenul înalt al muntelui Jebel Kebir.",
+                  "category": "castle",
+                  "coords": [
+                        9.828945,
+                        37.298251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Angela Lighthouse",
+                  "text": "This coastal lighthouse stands on the rugged promontory to guide vessels navigating the northern tip of Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738753,
+                        37.344594
+                  ]
+            },
+            {
+                  "name": "Cape Angela",
+                  "text": "This scenic stretch of sandy beach is located near the northernmost geographic point of the continent.",
+                  "category": "recreational",
+                  "coords": [
+                        9.741707,
+                        37.345651
+                  ]
+            },
+            {
+                  "name": "The northernmost point of the African continent, since 2014.",
+                  "text": "Since 2014, this coastal monument marks Ras ben Sakka as the extreme northern tip of the African continent.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742319,
+                        37.346925
+                  ]
+            },
+            {
+                  "name": "Jebel Kebir Fort",
+                  "text": "A defensive stone castle perched on the elevated terrain of Jebel Kebir.",
+                  "category": "castle",
+                  "coords": [
+                        9.828945,
+                        37.298251
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "TN-BI",
     coords: [9.8, 37.3],
@@ -608,7 +1472,1420 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "gulf-of-gabes-island-nature-v2",
+    id: "gulf-of-gabes-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meninx",
+                  "text": "Eine bedeutende archäologische Stätte, die die Fundamente einer blühenden alten phönizischen und römischen Küstenhandelsstadt enthüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.921631,
+                        33.687502
+                  ]
+            },
+            {
+                  "name": "Meninx - amphitheatre",
+                  "text": "Die verstreuten Steinruinen eines römischen Amphitheaters bieten einen Einblick in die antike öffentliche Unterhaltung auf der Insel.",
+                  "category": "historical",
+                  "coords": [
+                        10.913914,
+                        33.685816
+                  ]
+            },
+            {
+                  "name": "Musée du Patrimoine de Guellala",
+                  "text": "Dieses Museum im berühmten Töpferdorf von Djerba zeigt reichhaltige Ausstellungen von traditionellen Inseltrachten, Keramik und dem täglichen Leben.",
+                  "category": "museum",
+                  "coords": [
+                        10.86563,
+                        33.732559
+                  ]
+            },
+            {
+                  "name": "Meninx - exposition archéologique",
+                  "text": "Diese Museumsausstellung beherbergt ausgegrabene Artefakte, Münzen und römische Relikte, die in der antiken Siedlung Meninx entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        10.920514,
+                        33.685778
+                  ]
+            },
+            {
+                  "name": "El Galafat",
+                  "text": "Besucher können die freigelegten archäologischen Überreste dieser Küstenstätte erkunden, die auf Djerbas lange maritime Geschichte hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        10.893287,
+                        33.703829
+                  ]
+            },
+            {
+                  "name": "Borj El Kantara",
+                  "text": "Die Ruinen dieses historischen Verteidigungsforts bewachten einst den wichtigen römischen Damm, der die Insel mit dem Festland verbindet.",
+                  "category": "historical",
+                  "coords": [
+                        10.916387,
+                        33.679913
+                  ]
+            },
+            {
+                  "name": "Souk el Guebli nécropole",
+                  "text": "Ein alter Friedhof, auf dem ausgegrabene Gräber die Bestattungspraktiken der früheren Bewohner Djerbas beleuchten.",
+                  "category": "historical",
+                  "coords": [
+                        10.953637,
+                        33.727294
+                  ]
+            },
+            {
+                  "name": "Jamaa El Benna",
+                  "text": "Die verwitterten archäologischen Überreste einer alten lokalen Moschee markieren einen historischen Ort der islamischen Versammlung.",
+                  "category": "historical",
+                  "coords": [
+                        10.892215,
+                        33.713453
+                  ]
+            },
+            {
+                  "name": "Jedi Bou Amor",
+                  "text": "Diese archäologische Stätte enthält die verstreuten steinernen Überreste einer frühen Inselstruktur, die sich nun die Natur zurückholt.",
+                  "category": "historical",
+                  "coords": [
+                        10.897104,
+                        33.723146
+                  ]
+            },
+            {
+                  "name": "Mechouk",
+                  "text": "Die Erkundung dieses archäologischen Geländes offenbart Spuren vergangener Siedlungen, die in der djerbischen Landschaft verborgen sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.870804,
+                        33.705843
+                  ]
+            },
+            {
+                  "name": "Fouzria Mosquée",
+                  "text": "Von dieser einst aktiven ländlichen djerbischen Moschee sind nur noch die verfallenden Steinfundamente erhalten.",
+                  "category": "historical",
+                  "coords": [
+                        10.906451,
+                        33.737417
+                  ]
+            },
+            {
+                  "name": "Henchir Ghardaia",
+                  "text": "Ein archäologisches Feld mit den begrabenen Fundamenten eines alten nordafrikanischen Landguts.",
+                  "category": "historical",
+                  "coords": [
+                        10.93863,
+                        33.718393
+                  ]
+            },
+            {
+                  "name": "Zid mosquée",
+                  "text": "Die bröckelnden Ruinen dieser ehemaligen Moschee laden zu einer ruhigen Reflexion über die Architektur- und Religionsgeschichte der Insel ein.",
+                  "category": "historical",
+                  "coords": [
+                        10.956203,
+                        33.745411
+                  ]
+            },
+            {
+                  "name": "Ghwouar Mosquée",
+                  "text": "Den Elementen überlassen, heben die Ruinen dieser historischen Moschee die einfache, dauerhafte Steinmetzkunst der Region hervor.",
+                  "category": "historical",
+                  "coords": [
+                        10.905109,
+                        33.750296
+                  ]
+            },
+            {
+                  "name": "Meninx - Theatre",
+                  "text": "Kaum sichtbare halbkreisförmige Steinfundamente zeigen an, wo sich einst römische Zuschauer in der Stadt Meninx versammelten.",
+                  "category": "historical",
+                  "coords": [
+                        10.925259,
+                        33.688075
+                  ]
+            },
+            {
+                  "name": "Hypogeum El Fahmine",
+                  "text": "Diese unterirdische archäologische Stätte verfügt über alte, in den Fels gehauene Grabkammern, die direkt in die Erde gehauen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        10.900027,
+                        33.686579
+                  ]
+            },
+            {
+                  "name": "Sidi Mersil",
+                  "text": "Die Ruinen dieses Küsten-Marabout-Schreins deuten auf einen vergangenen Ort lokaler islamischer spiritueller Verehrung hin.",
+                  "category": "historical",
+                  "coords": [
+                        10.96761,
+                        33.680892
+                  ]
+            },
+            {
+                  "name": "Mosquée El Guebli",
+                  "text": "Diese nach Süden ausgerichtete Ruine, die heute auf Steinschutt reduziert ist, war einst ein zentraler Gebetsort für die lokale Gemeinschaft.",
+                  "category": "historical",
+                  "coords": [
+                        10.971394,
+                        33.75812
+                  ]
+            },
+            {
+                  "name": "Henchir Tala",
+                  "text": "Eine Ausdehnung verstreuter Steinfundamente, die eine zerstörte Agrarsiedlung aus der Antike markieren.",
+                  "category": "historical",
+                  "coords": [
+                        10.914962,
+                        33.699292
+                  ]
+            },
+            {
+                  "name": "Borj El Tarbella",
+                  "text": "Die ausgegrabenen Überreste eines alten Befestigungsturms, der einst über die Küstenwege der Insel wachte.",
+                  "category": "historical",
+                  "coords": [
+                        10.887454,
+                        33.632959
+                  ]
+            },
+            {
+                  "name": "Henchir Dar El Ghoula",
+                  "text": "Diese archäologischen Überreste, die lokal als \"Haus der Riesin\" bekannt sind, bestehen aus alten Steinblöcken inmitten der spärlichen Vegetation.",
+                  "category": "historical",
+                  "coords": [
+                        10.925306,
+                        33.726977
+                  ]
+            },
+            {
+                  "name": "Borj El Agrab (Tarig Ejmél)",
+                  "text": "Die stimmungsvollen Ruinen der \"Skorpionfestung\" bieten einen Einblick in die militärische Verteidigungsgeschichte des Golfs von Gabès.",
+                  "category": "historical",
+                  "coords": [
+                        10.909208,
+                        33.631998
+                  ]
+            },
+            {
+                  "name": "Jamaa el Hâra",
+                  "text": "Ein traditioneller Kultort, der seiner Nachbarschaft mit charakteristischer Kuppelarchitektur dient.",
+                  "category": "landmark",
+                  "coords": [
+                        10.903279,
+                        33.696231
+                  ]
+            },
+            {
+                  "name": "El Kantara",
+                  "text": "Dieser monumentale alte Damm, der ursprünglich von den Römern angelegt wurde, verbindet noch immer physisch die Insel Djerba mit dem tunesischen Festland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.91543,
+                        33.679787
+                  ]
+            },
+            {
+                  "name": "Mogzel mosquée",
+                  "text": "Diese Moschee fügt sich nahtlos in die von Palmen gesäumte Landschaft ein und repräsentiert den klassischen, unverzierten islamischen Stil Südtunesiens.",
+                  "category": "landmark",
+                  "coords": [
+                        10.961718,
+                        33.747912
+                  ]
+            },
+            {
+                  "name": "Poterie Habib Ben Mahmoud",
+                  "text": "In dieser authentischen Werkstatt können Besucher lokale Handwerker bei der Herstellung traditioneller djerbischer Waren beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.853101,
+                        33.730517
+                  ]
+            },
+            {
+                  "name": "Poterie Zaitouna",
+                  "text": "Ein lebendiges Studio, das das reiche Erbe des Dorfes feiert, indem es handgefertigte Terrakotta- und glasierte djerbische Keramik herstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854002,
+                        33.729465
+                  ]
+            },
+            {
+                  "name": "Mosquée Guellala",
+                  "text": "Diese weiß getünchte Moschee im berühmten Töpferzentrum der Insel ist ein zentraler Anlaufpunkt für die lokale Handwerkergemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844447,
+                        33.722425
+                  ]
+            },
+            {
+                  "name": "Poterie Fethi Ben Aissi",
+                  "text": "Dieser praktische handwerkliche Arbeitsbereich zeigt die akribischen Fähigkeiten, die mit der Erhaltung der traditionellen Handwerkskunst von Djerba verbunden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        10.836937,
+                        33.732651
+                  ]
+            },
+            {
+                  "name": "Poterie Mjahed Faouzi",
+                  "text": "Handwerkstatt am Golf von Gabès, wo traditionelles Kunsthandwerk der Insel hergestellt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844027,
+                        33.732164
+                  ]
+            },
+            {
+                  "name": "Mosquée el Majlis",
+                  "text": "Traditionelle Moschee auf einer Insel im Golf von Gabès, die als lokaler Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844017,
+                        33.736063
+                  ]
+            },
+            {
+                  "name": "Poterie Chedli Ben Daali",
+                  "text": "Lokale Handwerkstatt, die die handwerklichen Traditionen der Inseln im Golf von Gabès pflegt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861527,
+                        33.712385
+                  ]
+            },
+            {
+                  "name": "Sidi Yati mosquée",
+                  "text": "Eine islamische Gebetsstätte nahe der Küste am Golf von Gabès.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861774,
+                        33.706843
+                  ]
+            },
+            {
+                  "name": "Poterie Younes Sakal",
+                  "text": "Traditionelle Werkstatt, in der handgefertigte Waren der Region am Golf von Gabès entstehen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.859472,
+                        33.719812
+                  ]
+            },
+            {
+                  "name": "Poterie Fethi Sakal",
+                  "text": "Handwerkstatt an den Ufern des Golfs von Gabès, die regionale Handwerkskunst anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854605,
+                        33.723781
+                  ]
+            },
+            {
+                  "name": "El Mouhechi Mosquée",
+                  "text": "Lokale Moschee, die das architektonische Erbe der Inseln im Golf von Gabès widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887148,
+                        33.722404
+                  ]
+            },
+            {
+                  "name": "mosquée Jamaa Wersighen",
+                  "text": "Regionale Moschee, die als spirituelles Zentrum für die Gemeinden am Golf von Gabès dient.",
+                  "category": "landmark",
+                  "coords": [
+                        10.884669,
+                        33.69749
+                  ]
+            },
+            {
+                  "name": "Gazoduc historique de Trig Ejmél",
+                  "text": "Historische Gaspipeline-Infrastruktur, die die industrielle Entwicklung am Golf von Gabès markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.900154,
+                        33.626602
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Sedouikech",
+                  "text": "Traditionelle Moschee in der Gegend von Sedouikech, geprägt von lokaler Inselarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        10.911934,
+                        33.721644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meninx",
+                  "text": "Jelentős régészeti lelőhely, amely egy virágzó ókori föníciai és római part menti kereskedőváros alapjait tárja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        10.921631,
+                        33.687502
+                  ]
+            },
+            {
+                  "name": "Meninx - amphitheatre",
+                  "text": "Egy római amfiteátrum szétszórt kőromjai bepillantást engednek az ókori szigeti szórakozásba.",
+                  "category": "historical",
+                  "coords": [
+                        10.913914,
+                        33.685816
+                  ]
+            },
+            {
+                  "name": "Musée du Patrimoine de Guellala",
+                  "text": "A Dzserba híres fazekasfalujában található múzeum a hagyományos szigeti viseleteket, kerámiákat és a mindennapi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.86563,
+                        33.732559
+                  ]
+            },
+            {
+                  "name": "Meninx - exposition archéologique",
+                  "text": "Ez a múzeumi kiállítás a Meninx ókori településén feltárt leleteket, érméket és római kori relikviákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.920514,
+                        33.685778
+                  ]
+            },
+            {
+                  "name": "El Galafat",
+                  "text": "A látogatók felfedezhetik e part menti lelőhely feltárt régészeti maradványait, amelyek Dzserba hosszú tengeri történelmére utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        10.893287,
+                        33.703829
+                  ]
+            },
+            {
+                  "name": "Borj El Kantara",
+                  "text": "Ennek a történelmi védőerődnek a romjai egykor a szigetet a szárazfölddel összekötő fontos római töltésutat őrizték.",
+                  "category": "historical",
+                  "coords": [
+                        10.916387,
+                        33.679913
+                  ]
+            },
+            {
+                  "name": "Souk el Guebli nécropole",
+                  "text": "Ősi temetkezési hely, ahol a feltárt sírok rávilágítanak Dzserba egykori lakóinak temetkezési szokásaira.",
+                  "category": "historical",
+                  "coords": [
+                        10.953637,
+                        33.727294
+                  ]
+            },
+            {
+                  "name": "Jamaa El Benna",
+                  "text": "Egy régi helyi mecset viharvert régészeti maradványai, amelyek egy történelmi iszlám gyülekezési helyet jelölnek.",
+                  "category": "historical",
+                  "coords": [
+                        10.892215,
+                        33.713453
+                  ]
+            },
+            {
+                  "name": "Jedi Bou Amor",
+                  "text": "Ez a régészeti lelőhely egy korai szigeti építmény szétszórt kőmaradványait tartalmazza, amelyeket mostanra visszahódított a természet.",
+                  "category": "historical",
+                  "coords": [
+                        10.897104,
+                        33.723146
+                  ]
+            },
+            {
+                  "name": "Mechouk",
+                  "text": "E régészeti terep felfedezése a dzserbai tájban rejtőző múltbeli települések nyomait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        10.870804,
+                        33.705843
+                  ]
+            },
+            {
+                  "name": "Fouzria Mosquée",
+                  "text": "Ennek az egykor aktív vidéki dzserbai mecsetnek már csak a pusztuló kőalapjai maradtak meg.",
+                  "category": "historical",
+                  "coords": [
+                        10.906451,
+                        33.737417
+                  ]
+            },
+            {
+                  "name": "Henchir Ghardaia",
+                  "text": "Régészeti terület, amely egy ősi észak-afrikai mezőgazdasági birtok betemetett alapjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        10.93863,
+                        33.718393
+                  ]
+            },
+            {
+                  "name": "Zid mosquée",
+                  "text": "Ennek az egykori mecsetnek az omladozó romjai csendes elmélyülést kínálnak a sziget építészeti és vallási történelméről.",
+                  "category": "historical",
+                  "coords": [
+                        10.956203,
+                        33.745411
+                  ]
+            },
+            {
+                  "name": "Ghwouar Mosquée",
+                  "text": "Az elemeknek kiszolgáltatott történelmi mecset romjai a régió egyszerű, tartós kőművesmunkáját emelik ki.",
+                  "category": "historical",
+                  "coords": [
+                        10.905109,
+                        33.750296
+                  ]
+            },
+            {
+                  "name": "Meninx - Theatre",
+                  "text": "Alig látható félköríves kőalapok jelzik, hol gyülekezett egykor a római közönség Meninx városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.925259,
+                        33.688075
+                  ]
+            },
+            {
+                  "name": "Hypogeum El Fahmine",
+                  "text": "Ez a földalatti régészeti lelőhely ősi, közvetlenül a földbe vájt sziklasírokat tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        10.900027,
+                        33.686579
+                  ]
+            },
+            {
+                  "name": "Sidi Mersil",
+                  "text": "Ennek a part menti marabut szentélynek a romjai egy múltbeli helyi iszlám spirituális tisztelet helyszínét jelzik.",
+                  "category": "historical",
+                  "coords": [
+                        10.96761,
+                        33.680892
+                  ]
+            },
+            {
+                  "name": "Mosquée El Guebli",
+                  "text": "Ez a mára kőtörmelékké vált, délre tájolt rom egykor a helyi közösség központi imádkozóhelye volt.",
+                  "category": "historical",
+                  "coords": [
+                        10.971394,
+                        33.75812
+                  ]
+            },
+            {
+                  "name": "Henchir Tala",
+                  "text": "Szétszórt kőalapok kiterjedt területe, amely egy ókori, romos agrártelepülést jelez.",
+                  "category": "historical",
+                  "coords": [
+                        10.914962,
+                        33.699292
+                  ]
+            },
+            {
+                  "name": "Borj El Tarbella",
+                  "text": "Egy régi erődítménytorony feltárt maradványai, amely egykor a sziget tengerparti ösvényeire vigyázott.",
+                  "category": "historical",
+                  "coords": [
+                        10.887454,
+                        33.632959
+                  ]
+            },
+            {
+                  "name": "Henchir Dar El Ghoula",
+                  "text": "A helyiek által „a Ghoul házaként” ismert régészeti maradványok ősi kőtömbökből állnak a ritkás növényzet közepette.",
+                  "category": "historical",
+                  "coords": [
+                        10.925306,
+                        33.726977
+                  ]
+            },
+            {
+                  "name": "Borj El Agrab (Tarig Ejmél)",
+                  "text": "A \"Skorpió erőd\" hangulatos romjai bepillantást engednek a Gabès-öböl védelmi katonai történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        10.909208,
+                        33.631998
+                  ]
+            },
+            {
+                  "name": "Jamaa el Hâra",
+                  "text": "Hagyományos istentiszteleti hely, amely jellegzetes kupolás építészetével szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        10.903279,
+                        33.696231
+                  ]
+            },
+            {
+                  "name": "El Kantara",
+                  "text": "Ez a monumentális, eredetileg a rómaiak által épített ősi töltésút fizikailag ma is összeköti Dzserba szigetét a tunéziai szárazfölddel.",
+                  "category": "landmark",
+                  "coords": [
+                        10.91543,
+                        33.679787
+                  ]
+            },
+            {
+                  "name": "Mogzel mosquée",
+                  "text": "A pálmafákkal pöttyözött tájba zökkenőmentesen illeszkedő mecset Dél-Tunézia klasszikus, díszítetlen iszlám stílusát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        10.961718,
+                        33.747912
+                  ]
+            },
+            {
+                  "name": "Poterie Habib Ben Mahmoud",
+                  "text": "A látogatók megfigyelhetik a helyi kézműveseket, amint hagyományos dzserbai termékeket készítenek ebben az autentikus műhelyben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.853101,
+                        33.730517
+                  ]
+            },
+            {
+                  "name": "Poterie Zaitouna",
+                  "text": "Egy nyüzsgő stúdió, amely a falu gazdag örökségét ünnepli kézzel készített terrakotta és mázas dzserbai kerámiák készítésével.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854002,
+                        33.729465
+                  ]
+            },
+            {
+                  "name": "Mosquée Guellala",
+                  "text": "A sziget híres fazekasközpontjában található, fehérre meszelt mecset a helyi kézműves közösség fókuszpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844447,
+                        33.722425
+                  ]
+            },
+            {
+                  "name": "Poterie Fethi Ben Aissi",
+                  "text": "Ez a gyakorlatias kézműves munkaterület bemutatja Dzserba hagyományos mesterségeinek megőrzéséhez szükséges aprólékos készségeket.",
+                  "category": "landmark",
+                  "coords": [
+                        10.836937,
+                        33.732651
+                  ]
+            },
+            {
+                  "name": "Poterie Mjahed Faouzi",
+                  "text": "Kézműves műhely a Gabèsi-öbölben, ahol a sziget hagyományos termékeit készítik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844027,
+                        33.732164
+                  ]
+            },
+            {
+                  "name": "Mosquée el Majlis",
+                  "text": "Hagyományos mecset a Gabèsi-öböl egyik szigetén, amely a helyi közösség imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844017,
+                        33.736063
+                  ]
+            },
+            {
+                  "name": "Poterie Chedli Ben Daali",
+                  "text": "Helyi kézműves műhely, amely a Gabèsi-öböl szigeteinek hagyományait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861527,
+                        33.712385
+                  ]
+            },
+            {
+                  "name": "Sidi Yati mosquée",
+                  "text": "Iszlám imaház a Gabèsi-öböl partvidékének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861774,
+                        33.706843
+                  ]
+            },
+            {
+                  "name": "Poterie Younes Sakal",
+                  "text": "Hagyományos műhely, ahol a Gabèsi-öböl régiójának kézműves termékei készülnek.",
+                  "category": "landmark",
+                  "coords": [
+                        10.859472,
+                        33.719812
+                  ]
+            },
+            {
+                  "name": "Poterie Fethi Sakal",
+                  "text": "Kézműves műhely a Gabèsi-öböl partján, amely regionális kézműves termékeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854605,
+                        33.723781
+                  ]
+            },
+            {
+                  "name": "El Mouhechi Mosquée",
+                  "text": "Helyi mecset, amely a Gabèsi-öböl szigeteinek építészeti örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887148,
+                        33.722404
+                  ]
+            },
+            {
+                  "name": "mosquée Jamaa Wersighen",
+                  "text": "Regionális mecset, amely a Gabèsi-öböl közösségeinek spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        10.884669,
+                        33.69749
+                  ]
+            },
+            {
+                  "name": "Gazoduc historique de Trig Ejmél",
+                  "text": "Történelmi gázvezeték-infrastruktúra, amely a Gabèsi-öböl ipari fejlődését jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.900154,
+                        33.626602
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Sedouikech",
+                  "text": "Hagyományos mecset Sedouikech térségében, amelyet a helyi szigeti építészet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        10.911934,
+                        33.721644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meninx",
+                  "text": "Un sit arheologic semnificativ care dezvăluie fundațiile unui vechi și prosper oraș comercial de coastă fenician și roman.",
+                  "category": "landmark",
+                  "coords": [
+                        10.921631,
+                        33.687502
+                  ]
+            },
+            {
+                  "name": "Meninx - amphitheatre",
+                  "text": "Ruinele de piatră împrăștiate ale unui amfiteatru roman oferă o privire asupra divertismentului public antic de pe insulă.",
+                  "category": "historical",
+                  "coords": [
+                        10.913914,
+                        33.685816
+                  ]
+            },
+            {
+                  "name": "Musée du Patrimoine de Guellala",
+                  "text": "Situat în faimosul sat de olărit din Djerba, acest muzeu prezintă exponate bogate cu costume tradiționale insulare, ceramică și viața de zi cu zi.",
+                  "category": "museum",
+                  "coords": [
+                        10.86563,
+                        33.732559
+                  ]
+            },
+            {
+                  "name": "Meninx - exposition archéologique",
+                  "text": "Această expoziție muzeală găzduiește artefacte excavate, monede și relicve romane descoperite în așezarea antică Meninx.",
+                  "category": "museum",
+                  "coords": [
+                        10.920514,
+                        33.685778
+                  ]
+            },
+            {
+                  "name": "El Galafat",
+                  "text": "Vizitatorii pot explora rămășițele arheologice expuse ale acestui sit de coastă, indicând istoria maritimă lungă a Djerbei.",
+                  "category": "historical",
+                  "coords": [
+                        10.893287,
+                        33.703829
+                  ]
+            },
+            {
+                  "name": "Borj El Kantara",
+                  "text": "Ruinele acestui fort defensiv istoric păzeau odată importantul dig roman care leagă insula de continent.",
+                  "category": "historical",
+                  "coords": [
+                        10.916387,
+                        33.679913
+                  ]
+            },
+            {
+                  "name": "Souk el Guebli nécropole",
+                  "text": "Un vechi cimitir unde mormintele excavate aruncă lumină asupra practicilor mortuare ale locuitorilor din trecut ai Djerbei.",
+                  "category": "historical",
+                  "coords": [
+                        10.953637,
+                        33.727294
+                  ]
+            },
+            {
+                  "name": "Jamaa El Benna",
+                  "text": "Rămășițele arheologice erodate ale unei vechi moschei locale marcând un loc istoric de adunare islamică.",
+                  "category": "historical",
+                  "coords": [
+                        10.892215,
+                        33.713453
+                  ]
+            },
+            {
+                  "name": "Jedi Bou Amor",
+                  "text": "Acest sit arheologic conține rămășițele de piatră împrăștiate ale unei structuri insulare timpurii, acum revendicate de natură.",
+                  "category": "historical",
+                  "coords": [
+                        10.897104,
+                        33.723146
+                  ]
+            },
+            {
+                  "name": "Mechouk",
+                  "text": "Explorarea acestui teren arheologic dezvăluie urme ale așezărilor trecute ascunse în peisajul djerbian.",
+                  "category": "historical",
+                  "coords": [
+                        10.870804,
+                        33.705843
+                  ]
+            },
+            {
+                  "name": "Fouzria Mosquée",
+                  "text": "Au mai rămas doar fundațiile de piatră în descompunere ale acestei moschei rurale, cândva active, din Djerba.",
+                  "category": "historical",
+                  "coords": [
+                        10.906451,
+                        33.737417
+                  ]
+            },
+            {
+                  "name": "Henchir Ghardaia",
+                  "text": "Un câmp arheologic care prezintă fundațiile îngropate ale unui vechi domeniu agricol nord-african.",
+                  "category": "historical",
+                  "coords": [
+                        10.93863,
+                        33.718393
+                  ]
+            },
+            {
+                  "name": "Zid mosquée",
+                  "text": "Ruinele sfărâmicioase ale acestei foste moschei oferă o reflecție liniștită asupra istoriei arhitecturale și religioase a insulei.",
+                  "category": "historical",
+                  "coords": [
+                        10.956203,
+                        33.745411
+                  ]
+            },
+            {
+                  "name": "Ghwouar Mosquée",
+                  "text": "Lăsate în voia elementelor, ruinele acestei moschei istorice evidențiază zidăria simplă și durabilă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        10.905109,
+                        33.750296
+                  ]
+            },
+            {
+                  "name": "Meninx - Theatre",
+                  "text": "Fundații de piatră semicirculare abia vizibile indică locul unde publicul roman se aduna odată în orașul Meninx.",
+                  "category": "historical",
+                  "coords": [
+                        10.925259,
+                        33.688075
+                  ]
+            },
+            {
+                  "name": "Hypogeum El Fahmine",
+                  "text": "Acest sit arheologic subteran prezintă vechi camere funerare tăiate în stâncă, săpate direct în pământ.",
+                  "category": "historical",
+                  "coords": [
+                        10.900027,
+                        33.686579
+                  ]
+            },
+            {
+                  "name": "Sidi Mersil",
+                  "text": "Ruinele acestui altar de coastă marabout indică un loc trecut de reverență spirituală islamică locală.",
+                  "category": "historical",
+                  "coords": [
+                        10.96761,
+                        33.680892
+                  ]
+            },
+            {
+                  "name": "Mosquée El Guebli",
+                  "text": "Acum redusă la moloz de piatră, această ruină orientată spre sud a fost odată un loc central de rugăciune pentru comunitatea locală.",
+                  "category": "historical",
+                  "coords": [
+                        10.971394,
+                        33.75812
+                  ]
+            },
+            {
+                  "name": "Henchir Tala",
+                  "text": "O întindere de fundații de piatră împrăștiate marcând o așezare agrară ruinată din antichitate.",
+                  "category": "historical",
+                  "coords": [
+                        10.914962,
+                        33.699292
+                  ]
+            },
+            {
+                  "name": "Borj El Tarbella",
+                  "text": "Rămășițele excavate ale unui vechi turn de fortificație care veghea odată asupra cărărilor de coastă ale insulei.",
+                  "category": "historical",
+                  "coords": [
+                        10.887454,
+                        33.632959
+                  ]
+            },
+            {
+                  "name": "Henchir Dar El Ghoula",
+                  "text": "Cunoscute local sub numele de „Casa Căpcăunului”, aceste rămășițe arheologice constau din blocuri de piatră antice așezate printre vegetația rară.",
+                  "category": "historical",
+                  "coords": [
+                        10.925306,
+                        33.726977
+                  ]
+            },
+            {
+                  "name": "Borj El Agrab (Tarig Ejmél)",
+                  "text": "Ruinele evocatoare ale „Fortului Scorpionului” oferă o privire asupra istoriei militare defensive a Golfului Gabes.",
+                  "category": "historical",
+                  "coords": [
+                        10.909208,
+                        33.631998
+                  ]
+            },
+            {
+                  "name": "Jamaa el Hâra",
+                  "text": "Un loc tradițional de cult care servește cartierul său local cu arhitectura caracteristică cu cupolă.",
+                  "category": "landmark",
+                  "coords": [
+                        10.903279,
+                        33.696231
+                  ]
+            },
+            {
+                  "name": "El Kantara",
+                  "text": "Acest dig monumental antic, proiectat inițial de romani, încă leagă fizic insula Djerba de continentul tunisian.",
+                  "category": "landmark",
+                  "coords": [
+                        10.91543,
+                        33.679787
+                  ]
+            },
+            {
+                  "name": "Mogzel mosquée",
+                  "text": "Integrându-se perfect în peisajul presărat cu palmieri, această moschee reprezintă stilul islamic clasic, neîmpodobit, din sudul Tunisiei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.961718,
+                        33.747912
+                  ]
+            },
+            {
+                  "name": "Poterie Habib Ben Mahmoud",
+                  "text": "Vizitatorii pot observa artizanii locali la lucru, creând produse tradiționale djerbiene în acest spațiu autentic de atelier.",
+                  "category": "landmark",
+                  "coords": [
+                        10.853101,
+                        33.730517
+                  ]
+            },
+            {
+                  "name": "Poterie Zaitouna",
+                  "text": "Un studio plin de viață care celebrează bogata moștenire a satului producând teracotă lucrată manual și ceramică djerbiană smălțuită.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854002,
+                        33.729465
+                  ]
+            },
+            {
+                  "name": "Mosquée Guellala",
+                  "text": "Situată în faimosul centru de olărit al insulei, această moschee văruită în alb oferă un punct central pentru comunitatea locală de meșteșugari.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844447,
+                        33.722425
+                  ]
+            },
+            {
+                  "name": "Poterie Fethi Ben Aissi",
+                  "text": "Acest spațiu de lucru artizanal interactiv prezintă abilitățile meticuloase implicate în păstrarea meșteșugurilor tradiționale din Djerba.",
+                  "category": "landmark",
+                  "coords": [
+                        10.836937,
+                        33.732651
+                  ]
+            },
+            {
+                  "name": "Poterie Mjahed Faouzi",
+                  "text": "Atelier de artizanat în Golful Gabès, unde sunt fabricate produse tradiționale ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844027,
+                        33.732164
+                  ]
+            },
+            {
+                  "name": "Mosquée el Majlis",
+                  "text": "Moschee tradițională pe o insulă din Golful Gabès, servind ca loc de rugăciune local.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844017,
+                        33.736063
+                  ]
+            },
+            {
+                  "name": "Poterie Chedli Ben Daali",
+                  "text": "Atelier local care păstrează tradițiile meșteșugărești ale insulelor din Golful Gabès.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861527,
+                        33.712385
+                  ]
+            },
+            {
+                  "name": "Sidi Yati mosquée",
+                  "text": "Un loc de rugăciune islamic situat în apropierea coastei Golfului Gabès.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861774,
+                        33.706843
+                  ]
+            },
+            {
+                  "name": "Poterie Younes Sakal",
+                  "text": "Atelier tradițional unde sunt create produse artizanale specifice regiunii Golfului Gabès.",
+                  "category": "landmark",
+                  "coords": [
+                        10.859472,
+                        33.719812
+                  ]
+            },
+            {
+                  "name": "Poterie Fethi Sakal",
+                  "text": "Atelier de meșteșuguri pe țărmul Golfului Gabès, oferind artizanat regional.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854605,
+                        33.723781
+                  ]
+            },
+            {
+                  "name": "El Mouhechi Mosquée",
+                  "text": "Moschee locală care reflectă moștenirea arhitecturală a insulelor din Golful Gabès.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887148,
+                        33.722404
+                  ]
+            },
+            {
+                  "name": "mosquée Jamaa Wersighen",
+                  "text": "Moschee regională care servește drept centru spiritual pentru comunitățile din Golful Gabès.",
+                  "category": "landmark",
+                  "coords": [
+                        10.884669,
+                        33.69749
+                  ]
+            },
+            {
+                  "name": "Gazoduc historique de Trig Ejmél",
+                  "text": "Infrastructură istorică a gazoductului care marchează dezvoltarea industrială din Golful Gabès.",
+                  "category": "landmark",
+                  "coords": [
+                        10.900154,
+                        33.626602
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Sedouikech",
+                  "text": "Moschee tradițională în zona Sedouikech, caracterizată prin arhitectura locală a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.911934,
+                        33.721644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meninx",
+                  "text": "A significant archaeological site revealing the foundations of a prosperous ancient Phoenician and Roman coastal trading city.",
+                  "category": "landmark",
+                  "coords": [
+                        10.921631,
+                        33.687502
+                  ]
+            },
+            {
+                  "name": "Meninx - amphitheatre",
+                  "text": "The scattered stone ruins of a Roman amphitheatre offer a glimpse into ancient public entertainment on the island.",
+                  "category": "historical",
+                  "coords": [
+                        10.913914,
+                        33.685816
+                  ]
+            },
+            {
+                  "name": "Musée du Patrimoine de Guellala",
+                  "text": "Set in Djerba's famous pottery village, this museum showcases rich exhibits of traditional island costumes, ceramics, and daily life.",
+                  "category": "museum",
+                  "coords": [
+                        10.86563,
+                        33.732559
+                  ]
+            },
+            {
+                  "name": "Meninx - exposition archéologique",
+                  "text": "This museum display houses excavated artifacts, coins, and Roman relics discovered at the ancient settlement of Meninx.",
+                  "category": "museum",
+                  "coords": [
+                        10.920514,
+                        33.685778
+                  ]
+            },
+            {
+                  "name": "El Galafat",
+                  "text": "Visitors can explore the exposed archaeological remnants of this coastal site, pointing to Djerba's long maritime history.",
+                  "category": "historical",
+                  "coords": [
+                        10.893287,
+                        33.703829
+                  ]
+            },
+            {
+                  "name": "Borj El Kantara",
+                  "text": "The ruins of this historic defensive fort once guarded the crucial Roman causeway linking the island to the mainland.",
+                  "category": "historical",
+                  "coords": [
+                        10.916387,
+                        33.679913
+                  ]
+            },
+            {
+                  "name": "Souk el Guebli nécropole",
+                  "text": "An ancient burial ground where excavated tombs shed light on the mortuary practices of Djerba's past inhabitants.",
+                  "category": "historical",
+                  "coords": [
+                        10.953637,
+                        33.727294
+                  ]
+            },
+            {
+                  "name": "Jamaa El Benna",
+                  "text": "The weathered archaeological remains of an old local mosque marking a historic place of Islamic gathering.",
+                  "category": "historical",
+                  "coords": [
+                        10.892215,
+                        33.713453
+                  ]
+            },
+            {
+                  "name": "Jedi Bou Amor",
+                  "text": "This archaeological site contains the scattered stone remnants of an early island structure now reclaimed by nature.",
+                  "category": "historical",
+                  "coords": [
+                        10.897104,
+                        33.723146
+                  ]
+            },
+            {
+                  "name": "Mechouk",
+                  "text": "Exploring this archaeological terrain reveals traces of past settlements hidden within the Djerbian landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.870804,
+                        33.705843
+                  ]
+            },
+            {
+                  "name": "Fouzria Mosquée",
+                  "text": "Only the decaying stone foundations remain of this once-active rural Djerbian mosque.",
+                  "category": "historical",
+                  "coords": [
+                        10.906451,
+                        33.737417
+                  ]
+            },
+            {
+                  "name": "Henchir Ghardaia",
+                  "text": "An archaeological field featuring the buried foundations of an ancient North African agricultural estate.",
+                  "category": "historical",
+                  "coords": [
+                        10.93863,
+                        33.718393
+                  ]
+            },
+            {
+                  "name": "Zid mosquée",
+                  "text": "The crumbling ruins of this former mosque offer a quiet reflection on the island's architectural and religious history.",
+                  "category": "historical",
+                  "coords": [
+                        10.956203,
+                        33.745411
+                  ]
+            },
+            {
+                  "name": "Ghwouar Mosquée",
+                  "text": "Left to the elements, the ruins of this historic mosque highlight the simple, enduring stonework of the region.",
+                  "category": "historical",
+                  "coords": [
+                        10.905109,
+                        33.750296
+                  ]
+            },
+            {
+                  "name": "Meninx - Theatre",
+                  "text": "Barely visible semi-circular stone foundations indicate where Roman audiences once gathered in the city of Meninx.",
+                  "category": "historical",
+                  "coords": [
+                        10.925259,
+                        33.688075
+                  ]
+            },
+            {
+                  "name": "Hypogeum El Fahmine",
+                  "text": "This subterranean archaeological site features ancient rock-cut burial chambers carved directly into the earth.",
+                  "category": "historical",
+                  "coords": [
+                        10.900027,
+                        33.686579
+                  ]
+            },
+            {
+                  "name": "Sidi Mersil",
+                  "text": "The ruins of this coastal marabout shrine indicate a past place of localized Islamic spiritual reverence.",
+                  "category": "historical",
+                  "coords": [
+                        10.96761,
+                        33.680892
+                  ]
+            },
+            {
+                  "name": "Mosquée El Guebli",
+                  "text": "Now reduced to stone rubble, this southern-oriented ruin was once a central place of prayer for the local community.",
+                  "category": "historical",
+                  "coords": [
+                        10.971394,
+                        33.75812
+                  ]
+            },
+            {
+                  "name": "Henchir Tala",
+                  "text": "An expanse of scattered stone foundations marking a ruined agrarian settlement from antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        10.914962,
+                        33.699292
+                  ]
+            },
+            {
+                  "name": "Borj El Tarbella",
+                  "text": "The excavated remains of an old fortification tower that once kept watch over the island's coastal paths.",
+                  "category": "historical",
+                  "coords": [
+                        10.887454,
+                        33.632959
+                  ]
+            },
+            {
+                  "name": "Henchir Dar El Ghoula",
+                  "text": "Known locally as the \"House of the Ghoul,\" these archaeological remnants consist of ancient stone blocks set amidst the sparse vegetation.",
+                  "category": "historical",
+                  "coords": [
+                        10.925306,
+                        33.726977
+                  ]
+            },
+            {
+                  "name": "Borj El Agrab (Tarig Ejmél)",
+                  "text": "The evocative ruins of the \"Scorpion Fort\" provide a glimpse into the defensive military history of the Gulf of Gabes.",
+                  "category": "historical",
+                  "coords": [
+                        10.909208,
+                        33.631998
+                  ]
+            },
+            {
+                  "name": "Jamaa el Hâra",
+                  "text": "A traditional place of worship serving its local neighborhood with characteristic domed architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        10.903279,
+                        33.696231
+                  ]
+            },
+            {
+                  "name": "El Kantara (Roman Causeway)",
+                  "text": "This monumental ancient causeway, originally engineered by the Romans, still physically connects Djerba island to the Tunisian mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.91543,
+                        33.679787
+                  ]
+            },
+            {
+                  "name": "Mogzel mosquée",
+                  "text": "Blending seamlessly into the palm-dotted landscape, this mosque represents the classic, unadorned Islamic style of southern Tunisia.",
+                  "category": "landmark",
+                  "coords": [
+                        10.961718,
+                        33.747912
+                  ]
+            },
+            {
+                  "name": "Workshop Habib Ben Mahmoud",
+                  "text": "Visitors can observe local artisans at work crafting traditional Djerbian goods in this authentic workshop space.",
+                  "category": "landmark",
+                  "coords": [
+                        10.853101,
+                        33.730517
+                  ]
+            },
+            {
+                  "name": "Poterie Zaitouna",
+                  "text": "A lively studio celebrating the village's rich heritage by producing handmade terracotta and glazed Djerbian pottery.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854002,
+                        33.729465
+                  ]
+            },
+            {
+                  "name": "Mosquée Guellala",
+                  "text": "Set in the island's famous pottery center, this whitewashed mosque provides a focal point for the local craftsman community.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844447,
+                        33.722425
+                  ]
+            },
+            {
+                  "name": "Workshop Fethi Ben Aissi",
+                  "text": "This hands-on artisanal workspace showcases the meticulous skills involved in preserving Djerba's traditional crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        10.836937,
+                        33.732651
+                  ]
+            },
+            {
+                  "name": "Workshop Mjahed Faouzi",
+                  "text": "Craft workshop in the Gulf of Gabes producing traditional island artisanal goods.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844027,
+                        33.732164
+                  ]
+            },
+            {
+                  "name": "Mosquée el Majlis",
+                  "text": "Traditional mosque on an island in the Gulf of Gabes serving as a local prayer site.",
+                  "category": "landmark",
+                  "coords": [
+                        10.844017,
+                        33.736063
+                  ]
+            },
+            {
+                  "name": "Workshop Chedli Ben Daali",
+                  "text": "Local craft workshop preserving the artisanal traditions of the Gulf of Gabes islands.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861527,
+                        33.712385
+                  ]
+            },
+            {
+                  "name": "Sidi Yati mosquée",
+                  "text": "An Islamic prayer site located near the coastline of the Gulf of Gabes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861774,
+                        33.706843
+                  ]
+            },
+            {
+                  "name": "Workshop Younes Sakal",
+                  "text": "Traditional workshop where handcrafted goods of the Gulf of Gabes region are made.",
+                  "category": "landmark",
+                  "coords": [
+                        10.859472,
+                        33.719812
+                  ]
+            },
+            {
+                  "name": "Workshop Fethi Sakal",
+                  "text": "Craft workshop on the shores of the Gulf of Gabes offering regional artisanal goods.",
+                  "category": "landmark",
+                  "coords": [
+                        10.854605,
+                        33.723781
+                  ]
+            },
+            {
+                  "name": "El Mouhechi Mosquée",
+                  "text": "Local mosque reflecting the architectural heritage of the islands in the Gulf of Gabes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887148,
+                        33.722404
+                  ]
+            },
+            {
+                  "name": "mosquée Jamaa Wersighen",
+                  "text": "Regional mosque serving as a spiritual center for the communities along the Gulf of Gabes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.884669,
+                        33.69749
+                  ]
+            },
+            {
+                  "name": "Gazoduc historique de Trig Ejmél",
+                  "text": "Historic gas pipeline infrastructure marking the industrial development in the Gulf of Gabes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.900154,
+                        33.626602
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Sedouikech",
+                  "text": "Traditional mosque in the Sedouikech area, characterized by local island architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        10.911934,
+                        33.721644
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "TN-MD",
     coords: [10.9, 33.7],
@@ -680,7 +2957,52 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "mountain-range-north-nature-v2",
+    id: "mountain-range-north-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Cap Negro",
+                  "text": "Ein weitläufiger Aussichtspunkt an der Küste, der einen Panoramablick auf die schroffen Klippen und das Mittelmeer am Cap Negro bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.994286,
+                        37.087806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Cap Negro",
+                  "text": "Széles körű part menti kilátópont, ahonnan panorámás kilátás nyílik a Cap Negro zord szikláira és a Földközi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        8.994286,
+                        37.087806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Cap Negro",
+                  "text": "Un punct de belvedere de coastă amplu, care oferă vederi panoramice ale stâncilor accidentate și ale Mării Mediterane la Cap Negro.",
+                  "category": "natural",
+                  "coords": [
+                        8.994286,
+                        37.087806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Cap Negro",
+                  "text": "A sweeping coastal viewpoint offering panoramic views of the rugged cliffs and the Mediterranean Sea at Cap Negro.",
+                  "category": "natural",
+                  "coords": [
+                        8.994286,
+                        37.087806
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-BI",
     coords: [9.0, 37.0],
@@ -716,7 +3038,52 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "gulf-of-tunis-islands-nature-v2",
+    id: "gulf-of-tunis-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caribbean beach",
+                  "text": "Ein sandiger Küstenstrand, der einen erholsamen Rückzugsort im Golf von Tunis bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.413148,
+                        36.716025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caribbean beach",
+                  "text": "Homokos tengerpart, amely pihentető kikapcsolódást nyújt a Tuniszi-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.413148,
+                        36.716025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caribbean beach",
+                  "text": "O plajă de coastă cu nisip care oferă o evadare relaxantă în Golful Tunis.",
+                  "category": "recreational",
+                  "coords": [
+                        10.413148,
+                        36.716025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caribbean beach",
+                  "text": "A sandy coastal beach providing a relaxing escape in the Gulf of Tunis.",
+                  "category": "recreational",
+                  "coords": [
+                        10.413148,
+                        36.716025
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "TN-NA",
     coords: [10.5, 36.7],
@@ -824,7 +3191,88 @@ export const poiExtraTunisiaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-of-tunis-nature-v2",
+    id: "lake-of-tunis-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Santiago Chikly",
+                  "text": "Ein historisches Fort auf einer kleinen Insel im See von Tunis.",
+                  "category": "fortress",
+                  "coords": [
+                        10.217126,
+                        36.816575
+                  ]
+            },
+            {
+                  "name": "Happy Land",
+                  "text": "Ein lebendiger Themenpark in der Nähe des Sees von Tunis mit Fahrgeschäften für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        10.226786,
+                        36.832645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Santiago Chikly",
+                  "text": "Történelmi erőd egy kis szigeten, a Tuniszi-tó belsejében.",
+                  "category": "fortress",
+                  "coords": [
+                        10.217126,
+                        36.816575
+                  ]
+            },
+            {
+                  "name": "Happy Land",
+                  "text": "Egy nyüzsgő vidámpark a Tuniszi-tó közelében, amely gyerekeknek szóló játékokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.226786,
+                        36.832645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Santiago Chikly",
+                  "text": "Un fort istoric situat pe o mică insuliță din Lacul Tunis.",
+                  "category": "fortress",
+                  "coords": [
+                        10.217126,
+                        36.816575
+                  ]
+            },
+            {
+                  "name": "Happy Land",
+                  "text": "Un parc tematic plin de viață lângă Lacul Tunis, cu atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        10.226786,
+                        36.832645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Santiago Chikly",
+                  "text": "A historic fort situated on a small islet within the Lake of Tunis.",
+                  "category": "fortress",
+                  "coords": [
+                        10.217126,
+                        36.816575
+                  ]
+            },
+            {
+                  "name": "Happy Land",
+                  "text": "A lively theme park near the Lake of Tunis featuring rides for children.",
+                  "category": "recreational",
+                  "coords": [
+                        10.226786,
+                        36.832645
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TN-TU",
     coords: [10.2, 36.8],

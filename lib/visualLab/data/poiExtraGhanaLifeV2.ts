@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraGhanaLifeV2: POI[] = [
   {
-    id: "kumasi-zoo-kid-life-v2",
+    id: "kumasi-zoo-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asokwa Stool House",
+                  "text": "Ein traditionelles schlossartiges Gebäude, das dem Schutz des heiligen angestammten Hockers von Asokwa gewidmet ist.",
+                  "category": "castle",
+                  "coords": [
+                        -1.604994,
+                        6.67193
+                  ]
+            },
+            {
+                  "name": "The Okatakyie's Determination",
+                  "text": "\"The Okatakyie's Determination\" ist ein markantes Denkmal nahe dem Zoo von Kumasi, das die Widerstandskraft und den Heldenmut lokaler Krieger ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -1.644778,
+                        6.663581
+                  ]
+            },
+            {
+                  "name": "Alliance Francaise",
+                  "text": "Die Alliance Française in Kumasi ist ein lebhaftes Kunstzentrum, das Ausstellungen und interkulturelle Veranstaltungen zur Förderung der französisch-ghanaischen Beziehungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617953,
+                        6.670358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asokwa Stool House",
+                  "text": "Egy hagyományos kastélyszerű épület, amelyet Asokwa szent ősi székének őrzésére szenteltek.",
+                  "category": "castle",
+                  "coords": [
+                        -1.604994,
+                        6.67193
+                  ]
+            },
+            {
+                  "name": "The Okatakyie's Determination",
+                  "text": "A The Okatakyie's Determination egy helyi harcosok hősiessége előtt tisztelegő emlékmű a Kumasi állatkert közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -1.644778,
+                        6.663581
+                  ]
+            },
+            {
+                  "name": "Alliance Francaise",
+                  "text": "A kumasi Alliance Francaise egy pezsgő művészeti központ, amely a francia-ghánai kapcsolatokat ápoló kiállításoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617953,
+                        6.670358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asokwa Stool House",
+                  "text": "O clădire tradițională asemănătoare unui castel dedicată salvgardării scaunului ancestral sacru din Asokwa.",
+                  "category": "castle",
+                  "coords": [
+                        -1.604994,
+                        6.67193
+                  ]
+            },
+            {
+                  "name": "The Okatakyie's Determination",
+                  "text": "The Okatakyie's Determination este un monument impresionant din zona grădinii zoologice Kumasi, care celebrează eroismul războinicilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        -1.644778,
+                        6.663581
+                  ]
+            },
+            {
+                  "name": "Alliance Francaise",
+                  "text": "Alliance Francaise din Kumasi este un centru de arte vibrant, care găzduiește expoziții și evenimente interculturale pentru promovarea relațiilor franco-ghaneze.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617953,
+                        6.670358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asokwa Stool House",
+                  "text": "A traditional castle-like building dedicated to safeguarding the sacred ancestral stool of Asokwa.",
+                  "category": "castle",
+                  "coords": [
+                        -1.604994,
+                        6.67193
+                  ]
+            },
+            {
+                  "name": "The Okatakyie's Determination",
+                  "text": "The Okatakyie's Determination is a prominent monument near the Kumasi zoo area that celebrates the resilience and heroism of local warriors.",
+                  "category": "historical",
+                  "coords": [
+                        -1.644778,
+                        6.663581
+                  ]
+            },
+            {
+                  "name": "Alliance Francaise",
+                  "text": "The Alliance Francaise in Kumasi is a vibrant arts center that hosts exhibitions and cross-cultural events promoting Franco-Ghanaian relations.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617953,
+                        6.670358
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-AS",
     coords: [-1.6167, 6.6833],
@@ -39,7 +156,52 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "accra-botanical-kid-life-v2",
+    id: "accra-botanical-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Accra Ghana Temple",
+                  "text": "Dieser makellose mormonische Tempel ist aus namibischem Perlgranit erbaut und von sorgfältig gepflegten botanischen Gärten umgeben.",
+                  "category": "religious",
+                  "coords": [
+                        -0.193773,
+                        5.567439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Accra Ghana Temple",
+                  "text": "Ez a makulátlan mormon templom namíbiai gyöngygránitból épült, és gondosan ápolt botanikus kertek veszik körül.",
+                  "category": "religious",
+                  "coords": [
+                        -0.193773,
+                        5.567439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Accra Ghana Temple",
+                  "text": "Acest templu mormon imaculat este construit din granit perlat de Namibia și este înconjurat de grădini botanice îngrijite meticulos.",
+                  "category": "religious",
+                  "coords": [
+                        -0.193773,
+                        5.567439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Accra Ghana Temple",
+                  "text": "This immaculate LDS temple is built from Namibian Pearl granite and surrounded by meticulously manicured botanical gardens.",
+                  "category": "religious",
+                  "coords": [
+                        -0.193773,
+                        5.567439
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-AA",
     coords: [-0.1864, 5.5704],
@@ -75,7 +237,160 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "legon-botanical-kid-life-v2",
+    id: "legon-botanical-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amphitheatre Grounds",
+                  "text": "Ein Open-Air-Veranstaltungsort inmitten der botanischen Umgebung von Legon.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.19371,
+                        5.65064
+                  ]
+            },
+            {
+                  "name": "University of Ghana Registry",
+                  "text": "Das zentrale Verwaltungszentrum der Universität von Ghana, das in einem architektonisch bedeutenden Campusgebäude untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.195386,
+                        5.650225
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "Ein universitäres Museum, das antike Artefakte und Ausgrabungen zeigt, die frühe regionale Siedlungen detailliert darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            },
+            {
+                  "name": "Despite Automobile Museum",
+                  "text": "Ein Museum, das eine beeindruckende Sammlung klassischer, historischer und moderner Luxusautos zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.152134,
+                        5.643875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphitheatre Grounds",
+                  "text": "Szabadtéri előadóhely a legoni botanikus környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.19371,
+                        5.65064
+                  ]
+            },
+            {
+                  "name": "University of Ghana Registry",
+                  "text": "A Ghánai Egyetem központi igazgatási központja, amely egy építészetileg jelentős egyetemi épületben kapott helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.195386,
+                        5.650225
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "Egyetemi bázisú múzeum, amely ősi leleteket és a korai regionális településeket bemutató ásatásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            },
+            {
+                  "name": "Despite Automobile Museum",
+                  "text": "Klasszikus, veterán és modern luxusautók lenyűgöző gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.152134,
+                        5.643875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amphitheatre Grounds",
+                  "text": "O locație în aer liber pentru spectacole, situată în mijlocul peisajului botanic din Legon.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.19371,
+                        5.65064
+                  ]
+            },
+            {
+                  "name": "University of Ghana Registry",
+                  "text": "Centrul administrativ central al Universității din Ghana, găzduit într-o clădire de campus cu o arhitectură remarcabilă.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.195386,
+                        5.650225
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "Un muzeu universitar care expune artefacte antice și excavații ce detaliază așezările regionale timpurii.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            },
+            {
+                  "name": "Despite Automobile Museum",
+                  "text": "Un muzeu ce expune o colecție impresionantă de mașini de lux clasice, de epocă și moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -0.152134,
+                        5.643875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amphitheatre Grounds",
+                  "text": "An open-air performance venue located within the botanical surroundings of Legon.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.19371,
+                        5.65064
+                  ]
+            },
+            {
+                  "name": "UG Registry",
+                  "text": "The central administrative hub of the University of Ghana, housed in an architecturally significant campus building.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.195386,
+                        5.650225
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "A university-based museum displaying ancient artifacts and excavations detailing early regional settlements.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            },
+            {
+                  "name": "Despite Automobile Museum",
+                  "text": "A museum showcasing an impressive collection of classic, vintage, and modern luxury cars.",
+                  "category": "museum",
+                  "coords": [
+                        -0.152134,
+                        5.643875
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-AA",
     coords: [-0.1850, 5.6500],
@@ -111,7 +426,124 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "kakum-walkway-kid-life-v2",
+    id: "kakum-walkway-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Big Tree",
+                  "text": "Ein massiver, alter Waldbaum, der aufgrund seiner schieren Größe im Naturgebiet Kakum Besucher anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.386239,
+                        5.356198
+                  ]
+            },
+            {
+                  "name": "Kakum National Park Canopy Walkway",
+                  "text": "Ein hängendes Seil- und Holzbrückensystem hoch in den Baumkronen des tropischen Regenwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.38344,
+                        5.353622
+                  ]
+            },
+            {
+                  "name": "Center für stachellose Bienen",
+                  "text": "Eine ökologische Attraktion, die sich der wissenschaftlichen Untersuchung und dem Erhalt stachelloser Bienen widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.376903,
+                        5.342212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Big Tree",
+                  "text": "Egy hatalmas, öreg erdei fa, amely puszta méretével vonzza a látogatókat a Kakum természeti területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.386239,
+                        5.356198
+                  ]
+            },
+            {
+                  "name": "Kakum National Park Canopy Walkway",
+                  "text": "Egy felfüggesztett kötél- és fahídrendszer, amely magasan a trópusi esőerdő lombkoronájában lóg.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.38344,
+                        5.353622
+                  ]
+            },
+            {
+                  "name": "International Stingless Bee Centre",
+                  "text": "Egy ökológiai látványosság, amelyet a fullánk nélküli méhek tudományos vizsgálatának és megőrzésének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.376903,
+                        5.342212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Big Tree",
+                  "text": "Un copac masiv de pădure bătrână care atrage vizitatori prin scara sa impresionantă în zona naturală Kakum.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.386239,
+                        5.356198
+                  ]
+            },
+            {
+                  "name": "Kakum National Park Canopy Walkway",
+                  "text": "Un sistem de pod suspendat din frânghie și lemn agățat sus în coronamentul pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.38344,
+                        5.353622
+                  ]
+            },
+            {
+                  "name": "International Stingless Bee Centre",
+                  "text": "O atracție ecologică dedicată studiului științific și conservării albinelor fără ac.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.376903,
+                        5.342212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Big Tree",
+                  "text": "A massive, old-growth forest tree drawing visitors for its sheer scale in the Kakum natural area.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.386239,
+                        5.356198
+                  ]
+            },
+            {
+                  "name": "Kakum National Park Canopy Walkway",
+                  "text": "A suspended rope and wood bridge system hanging high in the canopy of the tropical rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.38344,
+                        5.353622
+                  ]
+            },
+            {
+                  "name": "International Stingless Bee Centre",
+                  "text": "An ecological attraction dedicated to the scientific study and conservation of stingless bees.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.376903,
+                        5.342212
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-CP",
     coords: [-1.3833, 5.3500],
@@ -147,7 +579,52 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "cocoa-farm-tafo-agri-life-v2",
+    id: "cocoa-farm-tafo-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tafo Ati Ahenfie",
+                  "text": "Ein traditioneller Palast, der als kulturelle Hochburg im Kakaoanbaugebiet von Tafo dient.",
+                  "category": "castle",
+                  "coords": [
+                        -0.366092,
+                        6.217365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tafo Ati Ahenfie",
+                  "text": "Hagyományos palota, amely kulturális bástyaként szolgál Tafo kakaótermesztő vidékén.",
+                  "category": "castle",
+                  "coords": [
+                        -0.366092,
+                        6.217365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tafo Ati Ahenfie",
+                  "text": "Un palat tradițional ce servește drept bastion cultural în regiunea cultivatoare de cacao din Tafo.",
+                  "category": "castle",
+                  "coords": [
+                        -0.366092,
+                        6.217365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tafo Ati Ahenfie",
+                  "text": "A traditional palace serving as a cultural stronghold within the cocoa farming district of Tafo.",
+                  "category": "castle",
+                  "coords": [
+                        -0.366092,
+                        6.217365
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GH-ER",
     coords: [-0.3667, 6.2167],
@@ -183,7 +660,196 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "tamale-shea-agri-life-v2",
+    id: "tamale-shea-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Education Ridge Branch",
+                  "text": "Ein Zweig der Kirche Jesu Christi der Heiligen der Letzten Tage auf der Education Ridge in Tamale.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.868977,
+                        9.415822
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Chief Palace",
+                  "text": "Der traditionelle königliche Palast, der dem Häuptling des Sagnarigu-Gebiets in Tamale gehört.",
+                  "category": "castle",
+                  "coords": [
+                        -0.874805,
+                        9.41972
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Forest",
+                  "text": "Eine grüne Naturwaldattraktion im landwirtschaftlichen Gebiet Sagnarigu in Tamale.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.883963,
+                        9.421822
+                  ]
+            },
+            {
+                  "name": "Bamvim Chief's Palace",
+                  "text": "Das traditionelle königliche Schloss und der Wohnsitz des Häuptlings von Bamvim in der Region Tamale.",
+                  "category": "castle",
+                  "coords": [
+                        -0.837702,
+                        9.36229
+                  ]
+            },
+            {
+                  "name": "nkrumahvolini",
+                  "text": "Ein Kunstzentrum in Tamale, das einen kreativen Raum für regionale künstlerische Installationen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.860691,
+                        9.400587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Education Ridge Branch",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyházának egyik ága az Education Ridge-en, Tamaléban.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.868977,
+                        9.415822
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Chief Palace",
+                  "text": "A hagyományos királyi palota, amely a tamalei Sagnarigu terület vezetőjéhez tartozik.",
+                  "category": "castle",
+                  "coords": [
+                        -0.874805,
+                        9.41972
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Forest",
+                  "text": "Egy természetes zöld erdészeti látványosság a tamalei Sagnarigu mezőgazdasági területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.883963,
+                        9.421822
+                  ]
+            },
+            {
+                  "name": "Bamvim Chief's Palace",
+                  "text": "A Bamvim törzsfőnök hagyományos királyi kastélya és rezidenciája a Tamale régióban.",
+                  "category": "castle",
+                  "coords": [
+                        -0.837702,
+                        9.36229
+                  ]
+            },
+            {
+                  "name": "nkrumahvolini",
+                  "text": "Művészeti központ Tamaléban, amely kreatív teret biztosít a regionális művészeti installációk számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.860691,
+                        9.400587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Education Ridge Branch",
+                  "text": "O filială a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă situată pe Education Ridge din Tamale.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.868977,
+                        9.415822
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Chief Palace",
+                  "text": "Palatul regal tradițional aparținând șefului zonei Sagnarigu din Tamale.",
+                  "category": "castle",
+                  "coords": [
+                        -0.874805,
+                        9.41972
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Forest",
+                  "text": "O atracție naturală de pădure verde situată în zona agricolă Sagnarigu din Tamale.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.883963,
+                        9.421822
+                  ]
+            },
+            {
+                  "name": "Bamvim Chief's Palace",
+                  "text": "Castelul regal tradițional și reședința șefului Bamvim din regiunea Tamale.",
+                  "category": "castle",
+                  "coords": [
+                        -0.837702,
+                        9.36229
+                  ]
+            },
+            {
+                  "name": "nkrumahvolini",
+                  "text": "Un centru de arte în Tamale care oferă un spațiu creativ pentru instalațiile artistice regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.860691,
+                        9.400587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saint - Education Ridge Branch",
+                  "text": "A branch of The Church of Jesus Christ of Latter-day Saints situated on Education Ridge in Tamale.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.868977,
+                        9.415822
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Chief Palace",
+                  "text": "The traditional royal palace belonging to the chief of the Sagnarigu area in Tamale.",
+                  "category": "castle",
+                  "coords": [
+                        -0.874805,
+                        9.41972
+                  ]
+            },
+            {
+                  "name": "Sagnarigu Forest",
+                  "text": "A natural green forest attraction situated in the Sagnarigu agricultural area of Tamale.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.883963,
+                        9.421822
+                  ]
+            },
+            {
+                  "name": "Bamvim Chief's Palace",
+                  "text": "The traditional royal castle and residence of the Bamvim chief in the Tamale region.",
+                  "category": "castle",
+                  "coords": [
+                        -0.837702,
+                        9.36229
+                  ]
+            },
+            {
+                  "name": "nkrumahvolini",
+                  "text": "An arts centre in Tamale providing a creative space for regional artistic installations.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.860691,
+                        9.400587
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GH-NP",
     coords: [-0.8500, 9.4000],
@@ -219,7 +885,88 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "koforidua-market-agri-life-v2",
+    id: "koforidua-market-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "Ein landschaftlich gestaltetes Erholungsgebiet mit Schwerpunkt auf Gartenbauausstellungen in der Nähe des Marktes von Koforidua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "Ein Veranstaltungsort für darstellende Künste, der sich der Erhaltung und Präsentation des traditionellen ghanaischen Erbes in Koforidua widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251237,
+                        6.079232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "Kertészeti bemutatókra fókuszáló parkosított rekreációs terület a Koforidua piac közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "Az előadóművészeteknek otthont adó intézmény, amely a hagyományos ghánai örökség megőrzésének és bemutatásának szenteli magát Koforiduában.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251237,
+                        6.079232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "O zonă de recreere amenajată peisagistic, axată pe expoziții horticole, lângă piața Koforidua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "Un spațiu pentru artele spectacolului dedicat conservării și prezentării patrimoniului tradițional ghanez în Koforidua.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251237,
+                        6.079232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "A landscaped recreational area focused on horticultural displays near the Koforidua market.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "A performing arts venue dedicated to preserving and showcasing traditional Ghanaian heritage in Koforidua.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251237,
+                        6.079232
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GH-ER",
     coords: [-0.2500, 6.1000],
@@ -255,7 +1002,52 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "butterfly-sanctuary-kid-life-v2",
+    id: "butterfly-sanctuary-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kakum National Park",
+                  "text": "Dieses Reservat ist berühmt für seinen Hängebrücken-Baumkronenpfad, der den Besuchern eine Vogelperspektive auf den dichten tropischen Regenwald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.391934,
+                        5.426598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kakum National Park",
+                  "text": "Ez a rezervátum híres a függőhidas lombkoronasétányáról, amely madártávlatból enged rálátást a sűrű trópusi esőerdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.391934,
+                        5.426598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kakum National Park",
+                  "text": "Această rezervație este faimoasă pentru pasarela sa pe poduri suspendate care oferă vizitatorilor o vedere de sus a pădurii tropicale dense.",
+                  "category": "natural",
+                  "coords": [
+                        -1.391934,
+                        5.426598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kakum National Park",
+                  "text": "This reserve is famous for its suspended canopy walkway that gives visitors a bird's-eye view of the dense tropical rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -1.391934,
+                        5.426598
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-CP",
     coords: [-1.4000, 5.4000],
@@ -327,7 +1119,52 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "monkey-sanctuary-boabeng-animal-life-v2",
+    id: "monkey-sanctuary-boabeng-animal-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boabeng - Fiema Monkey Sanctuary",
+                  "text": "In diesem geschützten Waldreservat werden Mona- und Stummelaffen als heilig verehrt und leben friedlich neben den Einheimischen.",
+                  "category": "natural",
+                  "coords": [
+                        -1.726124,
+                        7.777684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boabeng - Fiema Monkey Sanctuary",
+                  "text": "Ebben a védett erdei rezervátumban a mona és a kolobusz majmokat szentként tisztelik, és békésen élnek együtt a helyiekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -1.726124,
+                        7.777684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boabeng - Fiema Monkey Sanctuary",
+                  "text": "În această rezervație forestieră protejată, maimuțele Mona și Colobus sunt venerate ca fiind sacre și trăiesc pașnic alături de localnici.",
+                  "category": "natural",
+                  "coords": [
+                        -1.726124,
+                        7.777684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boabeng - Fiema Monkey Sanctuary",
+                  "text": "In this protected forest sanctuary, Mona and Colobus monkeys are revered as sacred and live peacefully alongside the locals.",
+                  "category": "natural",
+                  "coords": [
+                        -1.726124,
+                        7.777684
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GH-BO",
     coords: [-1.7000, 7.7000],
@@ -471,7 +1308,52 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "cocoa-plantation-asant-agri-life-v2",
+    id: "cocoa-plantation-asant-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paradise Resort",
+                  "text": "Umgeben von fruchtbaren Kakaoplantagen bietet dieses ruhige Resort Touristen einen komfortablen Ausgangspunkt, um das reiche landwirtschaftliche Leben Ghanas zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.430761,
+                        6.532382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paradise Resort",
+                  "text": "A termékeny kakaóültetvényekkel körülvett nyugodt üdülőhely kényelmes bázist biztosít a turistáknak Ghána gazdag mezőgazdasági életének felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.430761,
+                        6.532382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paradise Resort",
+                  "text": "Înconjurat de plantații fertile de cacao, acest complex hotelier liniștit oferă turiștilor o bază confortabilă pentru a explora bogata viață agricolă a Ghanei.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.430761,
+                        6.532382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paradise Resort",
+                  "text": "Surrounded by fertile cocoa plantations, this serene resort provides tourists with a comfortable base to explore Ghana's rich agricultural life.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.430761,
+                        6.532382
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GH-AS",
     coords: [-1.4000, 6.5000],
@@ -507,7 +1389,88 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "rubber-plantation-western-agri-life-v2",
+    id: "rubber-plantation-western-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vision Resort",
+                  "text": "Ein Ferien-Strandresort, das Entspannung am Wasser, Gästeannehmlichkeiten und Meerblick bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.518005,
+                        4.972279
+                  ]
+            },
+            {
+                  "name": "Kamgbunli Central Mosque",
+                  "text": "Ein zentraler islamischer Ort der Anbetung, der die lokale muslimische Gemeinschaft zum Gebet und zur spirituellen Reflexion versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -2.415171,
+                        4.976297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vision Resort",
+                  "text": "Nyaraló tengerparti üdülőhely, amely vízparti pihenést, vendégszolgáltatásokat és óceánra néző kilátást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.518005,
+                        4.972279
+                  ]
+            },
+            {
+                  "name": "Kamgbunli Central Mosque",
+                  "text": "Egy központi iszlám istentiszteleti hely, amely imára és spirituális elmélkedésre gyűjti össze a helyi muszlim közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        -2.415171,
+                        4.976297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vision Resort",
+                  "text": "O stațiune de plajă de vacanță care oferă relaxare pe malul apei, facilități pentru oaspeți și vedere la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.518005,
+                        4.972279
+                  ]
+            },
+            {
+                  "name": "Kamgbunli Central Mosque",
+                  "text": "Un lăcaș de cult islamic central care adună comunitatea musulmană locală pentru rugăciune și reflecție spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        -2.415171,
+                        4.976297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vision Resort",
+                  "text": "A holiday beach resort providing waterfront relaxation, guest amenities, and ocean views.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.518005,
+                        4.972279
+                  ]
+            },
+            {
+                  "name": "Kamgbunli Central Mosque",
+                  "text": "A central Islamic place of worship gathering the local Muslim community for prayer and spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -2.415171,
+                        4.976297
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GH-WE",
     coords: [-2.5000, 5.0000],
@@ -579,7 +1542,196 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "fishing-village-elmina-kid-life-v2",
+    id: "fishing-village-elmina-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fish market",
+                  "text": "Ein geschäftiger maritimer Marktplatz, auf dem lokale Fischer ihren täglichen Meeresfang verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.349919,
+                        5.082677
+                  ]
+            },
+            {
+                  "name": "Lemon Beach",
+                  "text": "Ein sandiger Küstenstreifen mit herrlichem Meerblick im Fischerdorf Elmina.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.374673,
+                        5.075937
+                  ]
+            },
+            {
+                  "name": "Bethel Methodist Church",
+                  "text": "Eine historische Kultstätte aus dem Jahr ihrer Gründung im Jahr 1900.",
+                  "category": "religious",
+                  "coords": [
+                        -1.349988,
+                        5.0859
+                  ]
+            },
+            {
+                  "name": "Fort Coenraadsburg",
+                  "text": "Eine ausgewiesene Kulturerbe-Festung auf dem St. Jago Hill zum Schutz des nahe gelegenen Elmina Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.350778,
+                        5.08483
+                  ]
+            },
+            {
+                  "name": "Basilika des Heiligen Josef",
+                  "text": "Eine prominente katholische Basilika in der Küstenfischereigemeinde Elmina.",
+                  "category": "religious",
+                  "coords": [
+                        -1.353535,
+                        5.087147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fish market",
+                  "text": "Egy nyüzsgő tengeri piac, ahol a helyi halászok árulják napi óceáni fogásukat.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.349919,
+                        5.082677
+                  ]
+            },
+            {
+                  "name": "Lemon Beach",
+                  "text": "Egy homokos partvonal, amely festői óceáni kilátást nyújt Elmina halászfalujában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.374673,
+                        5.075937
+                  ]
+            },
+            {
+                  "name": "Bethel Methodist Church",
+                  "text": "Egy történelmi istentiszteleti hely, amely 1900-as alapításáig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        -1.349988,
+                        5.0859
+                  ]
+            },
+            {
+                  "name": "Fort Coenraadsburg",
+                  "text": "Egy kijelölt örökségvédelmi erőd a St. Jago hegyen, amely a közeli Elmina kastélyt védi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.350778,
+                        5.08483
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's basilica",
+                  "text": "Egy kiemelkedő katolikus bazilikaépület Elmina tengerparti halászközösségében.",
+                  "category": "religious",
+                  "coords": [
+                        -1.353535,
+                        5.087147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fish market",
+                  "text": "O piață maritimă plină de viață unde pescarii locali își vând captura oceanică zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.349919,
+                        5.082677
+                  ]
+            },
+            {
+                  "name": "Lemon Beach",
+                  "text": "Un țărm de nisip care oferă vederi pitorești la ocean în satul de pescari Elmina.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.374673,
+                        5.075937
+                  ]
+            },
+            {
+                  "name": "Bethel Methodist Church",
+                  "text": "Un lăcaș de cult istoric care datează de la înființarea sa în 1900.",
+                  "category": "religious",
+                  "coords": [
+                        -1.349988,
+                        5.0859
+                  ]
+            },
+            {
+                  "name": "Fort Coenraadsburg",
+                  "text": "O fortăreață de patrimoniu desemnată cocoțată pe dealul St. Jago pentru a proteja castelul Elmina din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.350778,
+                        5.08483
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's basilica",
+                  "text": "O clădire proeminentă a bazilicii catolice situată în comunitatea pescărească de coastă din Elmina.",
+                  "category": "religious",
+                  "coords": [
+                        -1.353535,
+                        5.087147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fish market",
+                  "text": "A bustling maritime marketplace where local fishermen sell their daily ocean catch.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.349919,
+                        5.082677
+                  ]
+            },
+            {
+                  "name": "Lemon Beach",
+                  "text": "A sandy shoreline offering scenic ocean views in the fishing village of Elmina.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.374673,
+                        5.075937
+                  ]
+            },
+            {
+                  "name": "Bethel Methodist Church",
+                  "text": "A historic place of worship dating back to its establishment in 1900.",
+                  "category": "religious",
+                  "coords": [
+                        -1.349988,
+                        5.0859
+                  ]
+            },
+            {
+                  "name": "Fort Coenraadsburg",
+                  "text": "A designated heritage fortress perched on St. Jago Hill to protect the nearby Elmina Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.350778,
+                        5.08483
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's basilica",
+                  "text": "A prominent Catholic basilica building standing in the coastal fishing community of Elmina.",
+                  "category": "religious",
+                  "coords": [
+                        -1.353535,
+                        5.087147
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-CP",
     coords: [-1.3500, 5.0833],
@@ -687,7 +1839,160 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "agric-college-farm-life-v2",
+    id: "agric-college-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yellow House",
+                  "text": "Eine auffällig gefärbte lokale Attraktion inmitten einer Landwirtschafts- und Universitätsgemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.188008,
+                        5.68671
+                  ]
+            },
+            {
+                  "name": "Mills Family Residence",
+                  "text": "Ein im Jahr 2024 errichtetes historisches Herrenhaus, das das architektonische Erbe der Familie Mills präsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        -0.272186,
+                        5.690246
+                  ]
+            },
+            {
+                  "name": "Lakeside Marina Park",
+                  "text": "Ein Erholungspark am Wasser, der den Besuchern Fahrgeschäfte und Seeaktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.136568,
+                        5.697727
+                  ]
+            },
+            {
+                  "name": "Frederiksgave Plantation and Common Heritage Site",
+                  "text": "Ein Museum, das die Geschichte einer ehemaligen königlichen dänischen Plantage im landwirtschaftlichen Kernland bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.219087,
+                        5.746094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yellow House",
+                  "text": "Mezőgazdasági és főiskolai közegben megbújó, jellegzetes színű helyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.188008,
+                        5.68671
+                  ]
+            },
+            {
+                  "name": "Mills Family Residence",
+                  "text": "A Mills család építészeti örökségét bemutató, 2024-ben épült impozáns rezidencia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.272186,
+                        5.690246
+                  ]
+            },
+            {
+                  "name": "Lakeside Marina Park",
+                  "text": "Vidámparki játékokat és tavi programokat kínáló vízparti rekreációs park a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.136568,
+                        5.697727
+                  ]
+            },
+            {
+                  "name": "Frederiksgave Plantation and Common Heritage Site",
+                  "text": "Egykori dán királyi ültetvény történetét megőrző múzeum a mezőgazdasági központban.",
+                  "category": "museum",
+                  "coords": [
+                        -0.219087,
+                        5.746094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yellow House",
+                  "text": "O atracție locală cu o cromatică distinctivă, amplasată într-o comunitate agricolă și universitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.188008,
+                        5.68671
+                  ]
+            },
+            {
+                  "name": "Mills Family Residence",
+                  "text": "O reședință impunătoare, atestată din 2024, care pune în valoare moștenirea arhitecturală a familiei Mills.",
+                  "category": "castle",
+                  "coords": [
+                        -0.272186,
+                        5.690246
+                  ]
+            },
+            {
+                  "name": "Lakeside Marina Park",
+                  "text": "Un parc de recreere pe malul apei care oferă atracții de agrement și activități pe lac pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.136568,
+                        5.697727
+                  ]
+            },
+            {
+                  "name": "Frederiksgave Plantation and Common Heritage Site",
+                  "text": "Un muzeu care conservă istoria unei foste plantații regale daneze situate în inima zonei agricole.",
+                  "category": "museum",
+                  "coords": [
+                        -0.219087,
+                        5.746094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yellow House",
+                  "text": "A distinctively colored local attraction nestled in an agricultural and college community.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.188008,
+                        5.68671
+                  ]
+            },
+            {
+                  "name": "Mills Family Residence",
+                  "text": "A historical stately home established in 2024 showcasing the architectural legacy of the Mills family.",
+                  "category": "castle",
+                  "coords": [
+                        -0.272186,
+                        5.690246
+                  ]
+            },
+            {
+                  "name": "Lakeside Marina Park",
+                  "text": "A recreational waterside park offering amusement rides and lake activities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.136568,
+                        5.697727
+                  ]
+            },
+            {
+                  "name": "Frederiksgave Plantation and Common Heritage Site",
+                  "text": "A museum preserving the history of a former royal Danish plantation located in the agricultural heartland.",
+                  "category": "museum",
+                  "coords": [
+                        -0.219087,
+                        5.746094
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GH-AA",
     coords: [-0.2000, 5.7000],
@@ -867,7 +2172,232 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "aquarium-accra-kid-life-v2",
+    id: "aquarium-accra-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laboma",
+                  "text": "Eine belebte Strandgegend, die sich durch breite Sandstrände und lokale Freizeitaktivitäten auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.126398,
+                        5.565924
+                  ]
+            },
+            {
+                  "name": "Laboma Beach Resort",
+                  "text": "Ein lebhaftes Küstenresort, das Unterhaltung am Meer, Restaurants und Entspannung im Sand bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.132502,
+                        5.564646
+                  ]
+            },
+            {
+                  "name": "Alora Beach Resort",
+                  "text": "Ein modernes Küstenziel, das stilvolle Annehmlichkeiten am Strand und einen Blick auf den Atlantik bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.13148,
+                        5.564425
+                  ]
+            },
+            {
+                  "name": "W.E.B Du Bois Center",
+                  "text": "Ein Gedenkmuseum, das die persönliche Bibliothek und die letzte Ruhestätte des berühmten panafrikanischen Gelehrten beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.170998,
+                        5.582211
+                  ]
+            },
+            {
+                  "name": "Metro TV",
+                  "text": "Das Sendezentrum für eines der größten landesweiten Fernsehnetzwerke.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.176171,
+                        5.5719
+                  ]
+            },
+            {
+                  "name": "La Beach Resort",
+                  "text": "Ein weithin bekannter Sandstrand, der wegen seiner lebhaften Atmosphäre und der lokalen Küstenkultur die Massen anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.139877,
+                        5.56251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laboma",
+                  "text": "Széles homokos partjairól és helyi szabadidős tevékenységeiről ismert, nyüzsgő tengerparti terület.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.126398,
+                        5.565924
+                  ]
+            },
+            {
+                  "name": "Laboma Beach Resort",
+                  "text": "Nyüzsgő tengerparti üdülőhely, amely óceánparti szórakozást, étkezési lehetőségeket és homokos pihenést kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.132502,
+                        5.564646
+                  ]
+            },
+            {
+                  "name": "Alora Beach Resort",
+                  "text": "Stílusos tengerparti szolgáltatásokat és az Atlanti-óceánra néző kilátást kínáló modern óceánparti úti cél.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.13148,
+                        5.564425
+                  ]
+            },
+            {
+                  "name": "W.E.B Du Bois Center",
+                  "text": "A híres pán-afrikai tudós személyes könyvtárának és végső nyughelyének otthont adó emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.170998,
+                        5.582211
+                  ]
+            },
+            {
+                  "name": "Metro TV",
+                  "text": "Az egyik legnagyobb országos televíziós hálózat műsorszóró központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.176171,
+                        5.5719
+                  ]
+            },
+            {
+                  "name": "La Beach Resort",
+                  "text": "Széles körben ismert homokos part, amely élénk hangulatával és a helyi tengerparti kultúrával vonzza a tömegeket.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.139877,
+                        5.56251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laboma",
+                  "text": "O zonă aglomerată de pe malul mării, caracterizată prin țărmurile sale largi de nisip și activități de agrement locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.126398,
+                        5.565924
+                  ]
+            },
+            {
+                  "name": "Laboma Beach Resort",
+                  "text": "O stațiune de coastă vibrantă care oferă divertisment pe malul oceanului, restaurante și relaxare pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.132502,
+                        5.564646
+                  ]
+            },
+            {
+                  "name": "Alora Beach Resort",
+                  "text": "O destinație de coastă modernă care oferă facilități elegante pe plajă și vedere la Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.13148,
+                        5.564425
+                  ]
+            },
+            {
+                  "name": "W.E.B Du Bois Center",
+                  "text": "Un muzeu memorial care găzduiește biblioteca personală și locul de veci al celebrului erudit pan-africanist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.170998,
+                        5.582211
+                  ]
+            },
+            {
+                  "name": "Metro TV",
+                  "text": "Centrul de emisie pentru una dintre rețelele naționale majore de televiziune.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.176171,
+                        5.5719
+                  ]
+            },
+            {
+                  "name": "La Beach Resort",
+                  "text": "O atracție de coastă cu nisip recunoscută pe scară largă, ce atrage mulțimi pentru atmosfera sa vibrantă și cultura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.139877,
+                        5.56251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laboma",
+                  "text": "A bustling beachfront area characterized by its wide sandy shores and local recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.126398,
+                        5.565924
+                  ]
+            },
+            {
+                  "name": "Laboma Beach Resort",
+                  "text": "A vibrant coastal resort providing oceanfront entertainment, dining, and sandy relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.132502,
+                        5.564646
+                  ]
+            },
+            {
+                  "name": "Alora Beach Resort",
+                  "text": "A modern coastal destination offering stylish beachfront amenities and views of the Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.13148,
+                        5.564425
+                  ]
+            },
+            {
+                  "name": "W.E.B Du Bois Center",
+                  "text": "A memorial museum housing the personal library and final resting place of the famous pan-Africanist scholar.",
+                  "category": "museum",
+                  "coords": [
+                        -0.170998,
+                        5.582211
+                  ]
+            },
+            {
+                  "name": "Metro TV",
+                  "text": "The broadcasting center for one of the major nationwide television networks.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.176171,
+                        5.5719
+                  ]
+            },
+            {
+                  "name": "La Beach Resort",
+                  "text": "A widely known sandy shore attraction drawing crowds for its vibrant atmosphere and local coastal culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.139877,
+                        5.56251
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-AA",
     coords: [-0.1700, 5.5800],
@@ -903,7 +2433,52 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "mangrove-forest-ada-animal-life-v2",
+    id: "mangrove-forest-ada-animal-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Community Center",
+                  "text": "Das lokale Kunstzentrum fungiert als Versammlungsort für Bürgerversammlungen und kulturelle Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        0.614295,
+                        5.816378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Community Center",
+                  "text": "A helyi művészeti központ a polgári találkozók és kulturális műhelyek gyülekezési helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        0.614295,
+                        5.816378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Community Center",
+                  "text": "Centrul local de artă funcționează ca un loc de adunare pentru întâlniri civice și ateliere culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        0.614295,
+                        5.816378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Community Center",
+                  "text": "The local arts centre functions as a gathering venue for civic meetings and cultural workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        0.614295,
+                        5.816378
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GH-AA",
     coords: [0.6000, 5.8000],
@@ -975,7 +2550,52 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "animal-shelter-tamale-animal-life-v2",
+    id: "animal-shelter-tamale-animal-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Red Clay",
+                  "text": "Ein weitläufiges Kunstzentrum in Tamale, das sich zeitgenössischen Kulturausstellungen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.794198,
+                        9.482387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Red Clay",
+                  "text": "Egy tágas művészeti központ Tamaléban, amelyet a kortárs kulturális kiállításoknak szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.794198,
+                        9.482387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Red Clay",
+                  "text": "Un spațiu extins de centru de arte în Tamale dedicat expozițiilor culturale contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.794198,
+                        9.482387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Red Clay",
+                  "text": "An expansive arts centre space in Tamale dedicated to contemporary cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.794198,
+                        9.482387
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GH-NP",
     coords: [-0.8000, 9.5000],
@@ -1011,7 +2631,88 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
   },
   {
-    id: "zoo-takoradi-kid-life-v2",
+    id: "zoo-takoradi-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "Eine Steinmonumentstruktur, die als lokales Wahrzeichen dient.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742767,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Ein ziviles Denkmal, das zur Erinnerung an die lokale Rotary-Club-Abteilung errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "Egy kő emlékmű, amely helyi nevezetességként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742767,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Egy polgári emlékmű, amelyet a helyi Rotary Club szervezetének tiszteletére állítottak.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "O structură monumentală din piatră care servește drept punct de reper local.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742767,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Un monument civic ridicat pentru a comemora filiala locală a Rotary Club.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "A stone monument structure serving as a local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742767,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "A civic monument erected to commemorate the local Rotary Club chapter.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GH-WE",
     coords: [-1.7500, 4.9000],

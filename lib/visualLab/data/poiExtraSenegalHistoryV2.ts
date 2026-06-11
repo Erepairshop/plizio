@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraSenegalHistoryV2: POI[] = [
   {
-    id: "sn-dk-house-slaves-history-v2",
+    id: "sn-dk-house-slaves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rue Torte",
+                  "text": "Die Rue Torte ist ein Aussichtspunkt im Freien, der an einem gewundenen Weg im Gebiet sn-dk-house-slaves-history-v2 liegt und klare Sichtlinien auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.399575,
+                        14.668288
+                  ]
+            },
+            {
+                  "name": "Galerie Sant Serigne Fallou",
+                  "text": "Die Galerie Sant Serigne Fallou ist eine lokale Kunstgalerie in der Nähe von sn-dk-house-slaves-history-v2, die sich der Präsentation visueller Indoor-Ausstellungen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -17.399298,
+                        14.666466
+                  ]
+            },
+            {
+                  "name": "Coeur de Gorée",
+                  "text": "Coeur de Gorée ist ein stehendes Denkmal im Gebiet sn-dk-house-slaves-history-v2, das im Freien aufgestellt wurde, um an das zentrale Erbe der Insel zu erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        -17.39866,
+                        14.668519
+                  ]
+            },
+            {
+                  "name": "Ancien Musée de la Femme",
+                  "text": "Das Ancien Musée de la Femme ist ein Indoor-Museumsraum im Viertel sn-dk-house-slaves-history-v2, der historisch die Ausstellungen der Frauen von Henriette-Bathily beherbergte.",
+                  "category": "museum",
+                  "coords": [
+                        -17.397491,
+                        14.667579
+                  ]
+            },
+            {
+                  "name": "Mémorial de Gorée",
+                  "text": "Das Mémorial de Gorée ist ein erhöhtes Freiluftdenkmal auf dem Castel-Hügel der Insel im Gebiet sn-dk-house-slaves-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -17.397868,
+                        14.664679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rue Torte",
+                  "text": "A Rue Torte egy szabadtéri kilátópont, amely egy kanyargós ösvény mentén található az sn-dk-house-slaves-history-v2 területén, tiszta rálátást nyújtva a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -17.399575,
+                        14.668288
+                  ]
+            },
+            {
+                  "name": "Galerie Sant Serigne Fallou",
+                  "text": "A Galerie Sant Serigne Fallou egy helyi művészeti galéria az sn-dk-house-slaves-history-v2 közelében, amelyet beltéri vizuális kiállítások bemutatására szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -17.399298,
+                        14.666466
+                  ]
+            },
+            {
+                  "name": "Coeur de Gorée",
+                  "text": "A Coeur de Gorée egy álló emlékmű az sn-dk-house-slaves-history-v2 területén, amelyet a szabadban állítottak fel a sziget központi örökségének emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -17.39866,
+                        14.668519
+                  ]
+            },
+            {
+                  "name": "Ancien Musée de la Femme",
+                  "text": "Az Ancien Musée de la Femme egy beltéri múzeumi tér az sn-dk-house-slaves-history-v2 negyedben, amely történelmileg a Henriette-Bathily női kiállításoknak adott otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -17.397491,
+                        14.667579
+                  ]
+            },
+            {
+                  "name": "Mémorial de Gorée",
+                  "text": "A Mémorial de Gorée egy magasan fekvő szabadtéri emlékmű, amely a sziget Castel-hegyén, az sn-dk-house-slaves-history-v2 területén található.",
+                  "category": "historical",
+                  "coords": [
+                        -17.397868,
+                        14.664679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rue Torte",
+                  "text": "Rue Torte este un punct de belvedere în aer liber situat de-a lungul unei cărări șerpuite în zona sn-dk-house-slaves-history-v2, oferind linii de vizibilitate clare asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -17.399575,
+                        14.668288
+                  ]
+            },
+            {
+                  "name": "Galerie Sant Serigne Fallou",
+                  "text": "Galerie Sant Serigne Fallou este o galerie de artă locală lângă sn-dk-house-slaves-history-v2, dedicată prezentării de expoziții vizuale interioare.",
+                  "category": "museum",
+                  "coords": [
+                        -17.399298,
+                        14.666466
+                  ]
+            },
+            {
+                  "name": "Coeur de Gorée",
+                  "text": "Coeur de Gorée este un monument situat în zona sn-dk-house-slaves-history-v2, amplasat în aer liber pentru a comemora moștenirea centrală a insulei.",
+                  "category": "historical",
+                  "coords": [
+                        -17.39866,
+                        14.668519
+                  ]
+            },
+            {
+                  "name": "Ancien Musée de la Femme",
+                  "text": "Ancien Musée de la Femme este un spațiu muzeal interior din cartierul sn-dk-house-slaves-history-v2 care a găzduit istoric exponatele dedicate femeilor Henriette-Bathily.",
+                  "category": "museum",
+                  "coords": [
+                        -17.397491,
+                        14.667579
+                  ]
+            },
+            {
+                  "name": "Mémorial de Gorée",
+                  "text": "Mémorial de Gorée este un monument în aer liber situat la înălțime pe dealul Castel al insulei, în zona sn-dk-house-slaves-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -17.397868,
+                        14.664679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rue Torte",
+                  "text": "Rue Torte is an outdoor viewpoint located along a winding path in the sn-dk-house-slaves-history-v2 area, offering clear sightlines over the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -17.399575,
+                        14.668288
+                  ]
+            },
+            {
+                  "name": "Galerie Sant Serigne Fallou",
+                  "text": "Galerie Sant Serigne Fallou is a local art gallery space near sn-dk-house-slaves-history-v2, dedicated to displaying indoor visual exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -17.399298,
+                        14.666466
+                  ]
+            },
+            {
+                  "name": "Coeur de Gorée",
+                  "text": "Coeur de Gorée is a standing monument in the sn-dk-house-slaves-history-v2 area, placed outdoors to commemorate the island's central heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -17.39866,
+                        14.668519
+                  ]
+            },
+            {
+                  "name": "Ancien Musée de la Femme",
+                  "text": "The Ancien Musée de la Femme is an indoor museum space in the sn-dk-house-slaves-history-v2 district that historically housed the Henriette-Bathily women's exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -17.397491,
+                        14.667579
+                  ]
+            },
+            {
+                  "name": "Mémorial de Gorée",
+                  "text": "The Mémorial de Gorée is an elevated outdoor monument situated on the island's Castel hill within the sn-dk-house-slaves-history-v2 area.",
+                  "category": "historical",
+                  "coords": [
+                        -17.397868,
+                        14.664679
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-DK",
     coords: [-17.3983, 14.6669],
@@ -39,7 +228,160 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-sl-historic-centre-history-v2",
+    id: "sn-sl-historic-centre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez Gaël",
+                  "text": "Chez Gaël ist eine Kunstgalerie in Saint-Louis, die farbenfrohe Werke von lokalen senegalesischen Malern und Kunsthandwerkern ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503911,
+                        16.02948
+                  ]
+            },
+            {
+                  "name": "Quai Des Arts Saint-Louis",
+                  "text": "Das Quai Des Arts ist ein dynamisches Kulturzentrum in Saint-Louis, das häufig lebendige Aufführungen und Kunstausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503124,
+                        16.036329
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Saint-Louis",
+                  "text": "Die Große Moschee von Saint-Louis ist ein markantes architektonisches Wahrzeichen, das für seine Zwillingsminarette bekannt ist, die die historische Insel überblicken.",
+                  "category": "religious",
+                  "coords": [
+                        -16.503459,
+                        16.031751
+                  ]
+            },
+            {
+                  "name": "Institut Français du Sénégal",
+                  "text": "Das Institut Français in Saint-Louis fördert den französisch-senegalesischen Kulturaustausch durch seine Bibliothek, Sprachkurse und Kunstprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503372,
+                        16.032971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez Gaël",
+                  "text": "A Chez Gaël egy művészeti galéria Saint-Louisban, amely helyi szenegáli festők és kézművesek színes alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503911,
+                        16.02948
+                  ]
+            },
+            {
+                  "name": "Quai Des Arts Saint-Louis",
+                  "text": "A Quai Des Arts egy dinamikus kulturális központ Saint-Louisban, amely gyakran ad otthont nyüzsgő előadásoknak és művészeti kiállításoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503124,
+                        16.036329
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Saint-Louis",
+                  "text": "A saint-louis-i Nagymecset egy kiemelkedő építészeti nevezetesség, amely a történelmi szigetre néző ikerminaretjeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -16.503459,
+                        16.031751
+                  ]
+            },
+            {
+                  "name": "Institut Français du Sénégal",
+                  "text": "A saint-louis-i Institut Français könyvtárán, nyelvtanfolyamain és művészeti programjain keresztül segíti a francia-szenegáli kulturális cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503372,
+                        16.032971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez Gaël",
+                  "text": "Chez Gaël este o galerie de artă din Saint-Louis care expune lucrări colorate ale pictorilor și artizanilor locali senegalezi.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503911,
+                        16.02948
+                  ]
+            },
+            {
+                  "name": "Quai Des Arts Saint-Louis",
+                  "text": "Quai Des Arts este un centru cultural dinamic din Saint-Louis, care găzduiește frecvent spectacole vibrante și expoziții artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503124,
+                        16.036329
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Saint-Louis",
+                  "text": "Marea Moschee din Saint-Louis este un punct de reper arhitectural proeminent, cunoscut pentru minaretele sale gemene cu vedere la insula istorică.",
+                  "category": "religious",
+                  "coords": [
+                        -16.503459,
+                        16.031751
+                  ]
+            },
+            {
+                  "name": "Institut Français du Sénégal",
+                  "text": "Institutul Francez din Saint-Louis promovează schimbul cultural franco-senegalez prin biblioteca sa, cursurile de limbi străine și programele de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503372,
+                        16.032971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez Gaël",
+                  "text": "Chez Gaël is an art gallery in Saint-Louis that showcases colorful works from local Senegalese painters and artisans.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503911,
+                        16.02948
+                  ]
+            },
+            {
+                  "name": "Quai Des Arts Saint-Louis",
+                  "text": "Quai Des Arts is a dynamic cultural center in Saint-Louis, frequently hosting vibrant performances and artistic exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503124,
+                        16.036329
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Saint-Louis",
+                  "text": "The Great Mosque of Saint-Louis is a prominent architectural landmark known for its twin minarets overlooking the historic island.",
+                  "category": "religious",
+                  "coords": [
+                        -16.503459,
+                        16.031751
+                  ]
+            },
+            {
+                  "name": "Institut Français du Sénégal",
+                  "text": "The Institut Français in Saint-Louis fosters Franco-Senegalese cultural exchange through its library, language classes, and arts programs.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.503372,
+                        16.032971
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-SL",
     coords: [-16.5019, 16.0286],
@@ -75,7 +417,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-ka-sine-ngayene-history-v2",
+    id: "sn-ka-sine-ngayene-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sine Ngayène",
+                  "text": "Die UNESCO-Welterbestätte Sine Ngayène im Senegal beherbergt eine außergewöhnliche Ansammlung von megalithischen Steinkreisen.",
+                  "category": "historical",
+                  "coords": [
+                        -15.535383,
+                        13.695304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sine Ngayène",
+                  "text": "A szenegáli Sine Ngayène UNESCO világörökségi régészeti lelőhelye megalitikus kőkörök rendkívüli gyűjteményével büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        -15.535383,
+                        13.695304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sine Ngayène",
+                  "text": "Situl arheologic Sine Ngayène din Senegal, inclus în Patrimoniul Mondial, găzduiește o colecție extraordinară de cercuri de piatră megalitice.",
+                  "category": "historical",
+                  "coords": [
+                        -15.535383,
+                        13.695304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sine Ngayène",
+                  "text": "The World Heritage archaeological site of Sine Ngayène in Senegal features an extraordinary concentration of ancient megalithic stone circles.",
+                  "category": "historical",
+                  "coords": [
+                        -15.535383,
+                        13.695304
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-KA",
     coords: [-15.5225, 13.6933],
@@ -111,7 +498,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-ka-wanar-history-v2",
+    id: "sn-ka-wanar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cercles de pierres de Wanar",
+                  "text": "Diese als Weltkulturerbe geschützte archäologische Stätte bewahrt alte megalithische Steinkreise.",
+                  "category": "historical",
+                  "coords": [
+                        -15.617692,
+                        13.856413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cercles de pierres de Wanar",
+                  "text": "Ez a világörökségi régészeti lelőhely ősi megalitikus kőköröket őriz.",
+                  "category": "historical",
+                  "coords": [
+                        -15.617692,
+                        13.856413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cercles de pierres de Wanar",
+                  "text": "Acest sit arheologic de patrimoniu păstrează vechi cercuri de piatră megalitice.",
+                  "category": "historical",
+                  "coords": [
+                        -15.617692,
+                        13.856413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cercles de pierres de Wanar",
+                  "text": "This UNESCO heritage archaeological site preserves ancient megalithic stone circles.",
+                  "category": "historical",
+                  "coords": [
+                        -15.617692,
+                        13.856413
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-KA",
     coords: [-15.6177, 13.8647],
@@ -147,7 +579,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-tc-fort-bakel-history-v2",
+    id: "sn-tc-fort-bakel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Diese historische Festungsanlage in Bakel wurde während der französischen Kolonialzeit in Senegal errichtet.",
+                  "category": "fortress",
+                  "coords": [
+                        -12.454756,
+                        14.89933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Ezt a Bakelben található történelmi erődöt a szenegáli francia gyarmati uralom idején építették.",
+                  "category": "fortress",
+                  "coords": [
+                        -12.454756,
+                        14.89933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Acest fort istoric din Bakel a fost construit în timpul perioadei coloniale franceze din Senegal.",
+                  "category": "fortress",
+                  "coords": [
+                        -12.454756,
+                        14.89933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "This historic fortification in Bakel was built during the French colonial era in Senegal.",
+                  "category": "fortress",
+                  "coords": [
+                        -12.454756,
+                        14.89933
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-TC",
     coords: [-12.4616, 14.9011],
@@ -183,7 +660,88 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-sl-fort-podor-history-v2",
+    id: "sn-sl-fort-podor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Comptoir Français",
+                  "text": "Das Comptoir Français ist ein historisches Überbleibsel eines ehemaligen französischen Handelsstützpunktes in Podor.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.955604,
+                        16.653399
+                  ]
+            },
+            {
+                  "name": "Fort de Podor",
+                  "text": "Fort de Podor ist eine gut erhaltene französische Kolonialfestung am Ufer des Senegal-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.956609,
+                        16.656761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Comptoir Français",
+                  "text": "A Comptoir Français egy egykori francia gyarmati kereskedelmi állomás történelmi maradványa Podorban.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.955604,
+                        16.653399
+                  ]
+            },
+            {
+                  "name": "Fort de Podor",
+                  "text": "A Fort de Podor egy jól karbantartott francia gyarmati erőd a Szenegál-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.956609,
+                        16.656761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Comptoir Français",
+                  "text": "Comptoir Français este o rămășiță istorică a unui fost post comercial colonial francez din Podor.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.955604,
+                        16.653399
+                  ]
+            },
+            {
+                  "name": "Fort de Podor",
+                  "text": "Fort de Podor este o fortăreață colonială franceză bine conservată, situată pe malurile fluviului Senegal.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.956609,
+                        16.656761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Comptoir Français",
+                  "text": "The Comptoir Français is a historical remnant of a former French colonial trading post in Podor.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.955604,
+                        16.653399
+                  ]
+            },
+            {
+                  "name": "Fort de Podor",
+                  "text": "Fort de Podor is a well-preserved French colonial fortress situated on the banks of the Senegal River.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.956609,
+                        16.656761
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-SL",
     coords: [-14.9583, 16.6533],
@@ -219,7 +777,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-zg-carabane-history-v2",
+    id: "sn-zg-carabane-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "École Professionnelle Spéciale",
+                  "text": "Die zerfallenden historischen Ruinen einer ehemaligen speziellen Berufsbildungseinrichtung.",
+                  "category": "historical",
+                  "coords": [
+                        -16.699085,
+                        12.559489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "École Professionnelle Spéciale",
+                  "text": "Egykori speciális szakképző intézmény omladozó történelmi romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -16.699085,
+                        12.559489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "École Professionnelle Spéciale",
+                  "text": "Ruinele istorice prăbușite ale unei foste unități de formare profesională specializate.",
+                  "category": "historical",
+                  "coords": [
+                        -16.699085,
+                        12.559489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Special Reformatory Vocational School",
+                  "text": "The crumbling historical ruins of a former specialized vocational training facility.",
+                  "category": "historical",
+                  "coords": [
+                        -16.699085,
+                        12.559489
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-ZG",
     coords: [-16.7, 12.5333],
@@ -255,7 +858,124 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-db-touba-mosque-history-v2",
+    id: "sn-db-touba-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Résidence s sidi mbacke",
+                  "text": "Diese mit Serigne Sidi Mbacké verbundene Residenz ist ein wichtiges historisches Wahrzeichen in der heiligen Stadt Touba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.884038,
+                        14.872571
+                  ]
+            },
+            {
+                  "name": "Monument Cheikh Binetou",
+                  "text": "Das Monument Cheikh Binetou steht in Touba, um bedeutende Persönlichkeiten der lokalen Muriden-Bruderschaft zu ehren.",
+                  "category": "historical",
+                  "coords": [
+                        -15.892561,
+                        14.865823
+                  ]
+            },
+            {
+                  "name": "Ténou Mame Cheikh Ibrahima Fall",
+                  "text": "Der Brunnen von Mame Cheikh Ibra Fall ist eine heilige Wasserquelle, die eng mit der Geschichte des Muridismus in Touba verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -15.870069,
+                        14.806672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Résidence s sidi mbacke",
+                  "text": "Ez a Serigne Sidi Mbackéhoz kötődő rezidencia fontos történelmi nevezetesség Touba szent városában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.884038,
+                        14.872571
+                  ]
+            },
+            {
+                  "name": "Monument Cheikh Binetou",
+                  "text": "A Cheikh Binetou emlékmű Toubában áll a helyi murid testvériség jelentős alakjainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -15.892561,
+                        14.865823
+                  ]
+            },
+            {
+                  "name": "Ténou Mame Cheikh Ibrahima Fall",
+                  "text": "A Mame Cheikh Ibra Fall kútja egy szent vízforrás, amely szorosan kötődik a muridizmus toubai történetéhez.",
+                  "category": "historical",
+                  "coords": [
+                        -15.870069,
+                        14.806672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Résidence s sidi mbacke",
+                  "text": "Această reședință asociată cu Serigne Sidi Mbacké este un important punct de reper istoric în orașul sfânt Touba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.884038,
+                        14.872571
+                  ]
+            },
+            {
+                  "name": "Monument Cheikh Binetou",
+                  "text": "Monumentul Cheikh Binetou se înalță în Touba pentru a onora figurile semnificative ale frăției locale Murid.",
+                  "category": "historical",
+                  "coords": [
+                        -15.892561,
+                        14.865823
+                  ]
+            },
+            {
+                  "name": "Ténou Mame Cheikh Ibrahima Fall",
+                  "text": "Fântâna lui Mame Cheikh Ibra Fall este o sursă de apă sacră strâns legată de istoria muridismului din Touba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.870069,
+                        14.806672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Résidence s sidi mbacke",
+                  "text": "This residence associated with Serigne Sidi Mbacké is an important historical landmark within the holy city of Touba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.884038,
+                        14.872571
+                  ]
+            },
+            {
+                  "name": "Monument Cheikh Binetou",
+                  "text": "The Monument Cheikh Binetou stands in Touba to honor significant figures in the local Mouride brotherhood.",
+                  "category": "historical",
+                  "coords": [
+                        -15.892561,
+                        14.865823
+                  ]
+            },
+            {
+                  "name": "Well of Mame Cheikh Ibra Fall",
+                  "text": "The Well of Mame Cheikh Ibra Fall is a sacred water source closely tied to the history of Mouridism in Touba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.870069,
+                        14.806672
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-DB",
     coords: [-15.8777, 14.8641],
@@ -291,7 +1011,160 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-dk-african-renaissance-history-v2",
+    id: "sn-dk-african-renaissance-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare des Mamelles",
+                  "text": "Ein markanter Leuchtturm, der auf einem der vulkanischen Mamelles-Hügel thront.",
+                  "category": "natural",
+                  "coords": [
+                        -17.501849,
+                        14.723784
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance Africaine",
+                  "text": "Eine gewaltige Bronzestatue auf einem Vulkanhügel, die höher ist als die Freiheitsstatue.",
+                  "category": "historical",
+                  "coords": [
+                        -17.494964,
+                        14.722143
+                  ]
+            },
+            {
+                  "name": "Plage Ouakam",
+                  "text": "Ein lokaler Strand, der unterhalb der Klippen des Viertels Ouakam liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.490849,
+                        14.714959
+                  ]
+            },
+            {
+                  "name": "Plage des mamelles",
+                  "text": "Ein malerischer Strand am Fuße der vulkanischen Mamelles-Hügel.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.503802,
+                        14.725103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare des Mamelles",
+                  "text": "Kiemelkedő világítótorony, amely a vulkanikus Mamelles-dombok egyikének tetején áll.",
+                  "category": "natural",
+                  "coords": [
+                        -17.501849,
+                        14.723784
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance Africaine",
+                  "text": "Hatalmas bronzszobor egy vulkáni dombon, amely magasabb, mint a Szabadság-szobor.",
+                  "category": "historical",
+                  "coords": [
+                        -17.494964,
+                        14.722143
+                  ]
+            },
+            {
+                  "name": "Plage Ouakam",
+                  "text": "Helyi strand Ouakam negyedének sziklái alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.490849,
+                        14.714959
+                  ]
+            },
+            {
+                  "name": "Plage des mamelles",
+                  "text": "Festői strand a vulkanikus Mamelles-dombok lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.503802,
+                        14.725103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare des Mamelles",
+                  "text": "Un far proeminent poziționat în vârful uneia dintre colinele vulcanice Mamelles.",
+                  "category": "natural",
+                  "coords": [
+                        -17.501849,
+                        14.723784
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance Africaine",
+                  "text": "O statuie masivă din bronz, mai înaltă decât Statuia Libertății, ridicată pe o colină vulcanică.",
+                  "category": "historical",
+                  "coords": [
+                        -17.494964,
+                        14.722143
+                  ]
+            },
+            {
+                  "name": "Plage Ouakam",
+                  "text": "O plajă locală cuibărită sub stâncile cartierului Ouakam.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.490849,
+                        14.714959
+                  ]
+            },
+            {
+                  "name": "Plage des mamelles",
+                  "text": "O plajă pitorească situată la baza colinelor vulcanice Mamelles.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.503802,
+                        14.725103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare des Mamelles",
+                  "text": "A prominent lighthouse positioned atop one of the volcanic Mamelles hills.",
+                  "category": "natural",
+                  "coords": [
+                        -17.501849,
+                        14.723784
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance Africaine",
+                  "text": "A massive bronze statue standing taller than the Statue of Liberty on a volcanic hill.",
+                  "category": "historical",
+                  "coords": [
+                        -17.494964,
+                        14.722143
+                  ]
+            },
+            {
+                  "name": "Plage Ouakam",
+                  "text": "A local beach nestled below the cliffs of the Ouakam neighborhood.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.490849,
+                        14.714959
+                  ]
+            },
+            {
+                  "name": "Plage des mamelles",
+                  "text": "A scenic beach nestled at the base of the volcanic Mamelles hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.503802,
+                        14.725103
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-DK",
     coords: [-17.4947, 14.7225],
@@ -327,7 +1200,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-dk-mamelles-lighthouse-history-v2",
+    id: "sn-dk-mamelles-lighthouse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grotte de Seydina Limamou Laye",
+                  "text": "Eine heilige Höhle, die mit dem Gründer der Layene-Bruderschaft in Verbindung steht.",
+                  "category": "religious",
+                  "coords": [
+                        -17.511134,
+                        14.733877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grotte de Seydina Limamou Laye",
+                  "text": "Szent barlang, amely a Layene Testvériség alapítójához kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        -17.511134,
+                        14.733877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grotte de Seydina Limamou Laye",
+                  "text": "O peșteră sacră asociată cu fondatorul Frăției Layene.",
+                  "category": "religious",
+                  "coords": [
+                        -17.511134,
+                        14.733877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grotte de Seydina Limamou Laye",
+                  "text": "A sacred cave associated with the founder of the Layene Brotherhood.",
+                  "category": "religious",
+                  "coords": [
+                        -17.511134,
+                        14.733877
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-DK",
     coords: [-17.5211, 14.7233],
@@ -363,7 +1281,88 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-dk-ifan-museum-history-v2",
+    id: "sn-dk-ifan-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hoop Galerie",
+                  "text": "Die Hoop Galerie ist eine lokale Indoor-Galerie, die Werke der bildenden Kunst im Gebiet sn-dk-ifan-museum-history-v2 präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435208,
+                        14.666411
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure",
+                  "text": "Dieses Freilichttheater im Museumsviertel bietet Aufführungen inmitten einer grünen Umgebung.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.435286,
+                        14.667907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoop Galerie",
+                  "text": "A Hoop Galerie egy helyi beltéri galéria, amely vizuális művészeti alkotásokat mutat be az sn-dk-ifan-museum-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435208,
+                        14.666411
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure",
+                  "text": "Ez a múzeumi negyedben található szabadtéri színház zöldellő környezetben kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.435286,
+                        14.667907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoop Galerie",
+                  "text": "Hoop Galerie este o galerie interioară locală care prezintă piese de artă vizuală în zona sn-dk-ifan-museum-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435208,
+                        14.666411
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure",
+                  "text": "Acest teatru în aer liber din zona muzeului oferă spectacole înconjurate de verdeață.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.435286,
+                        14.667907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoop Galerie",
+                  "text": "Hoop Galerie is a local indoor gallery showcasing visual art pieces in the sn-dk-ifan-museum-history-v2 area.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435208,
+                        14.666411
+                  ]
+            },
+            {
+                  "name": "Théatre de verdure",
+                  "text": "This open-air theatre in the museum area offers outdoor performances surrounded by greenery.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.435286,
+                        14.667907
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-DK",
     coords: [-17.4355, 14.6675],
@@ -507,7 +1506,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-th-joal-fadiouth-history-v2",
+    id: "sn-th-joal-fadiouth-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Croco Parc",
+                  "text": "Dieser kleine Zoo in der Nähe von Joal-Fadiouth konzentriert sich auf die Pflege und Zucht von Krokodilen.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.826181,
+                        14.220588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Croco Parc",
+                  "text": "Ez a Joal-Fadiouth közelében található kisebb állatkert krokodilok gondozására és bemutatására szakosodott.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.826181,
+                        14.220588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Croco Parc",
+                  "text": "Această grădină zoologică din apropiere de Joal-Fadiouth se concentrează pe îngrijirea și prezentarea crocodililor.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.826181,
+                        14.220588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Croco Parc",
+                  "text": "This zoological park near Joal-Fadiouth specializes in the care and exhibition of crocodiles.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.826181,
+                        14.220588
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-TH",
     coords: [-16.84, 14.1627],
@@ -543,7 +1587,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-sl-governor-palace-history-v2",
+    id: "sn-sl-governor-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Le Chateau",
+                  "text": "In einem markanten Gebäude untergebracht, bietet das Centre Culturel Le Chateau Raum für lokale Veranstaltungen zum Kulturerbe und Ausstellungen in Saint-Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.507777,
+                        16.03008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Le Chateau",
+                  "text": "A jellegzetes épületben helyet kapó Centre Culturel Le Chateau teret biztosít a helyi örökségi eseményeknek és kiállításoknak Saint-Louisban.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.507777,
+                        16.03008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Le Chateau",
+                  "text": "Găzduit într-o clădire distinctivă, Centre Culturel Le Chateau oferă un spațiu pentru evenimente de patrimoniu local și expoziții în Saint-Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.507777,
+                        16.03008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Le Chateau",
+                  "text": "Housed in a distinctive building, the Centre Culturel Le Chateau offers a space for local heritage events and exhibitions in Saint-Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.507777,
+                        16.03008
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-SL",
     coords: [-16.5027, 16.0272],
@@ -579,7 +1668,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-dk-fort-destrees-history-v2",
+    id: "sn-dk-fort-destrees-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Cannons",
+                  "text": "Die Old Cannons sind historische Artilleriegeschütze im Freien, die im Viertel sn-dk-fort-destrees-history-v2 ausgestellt sind und als Überreste vergangener Küstenverteidigung dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.399383,
+                        14.670465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Cannons",
+                  "text": "A régi ágyúk (Old Cannons) szabadtéri történelmi tüzérségi darabok az sn-dk-fort-destrees-history-v2 negyedben, amelyek a múltbeli partvédelem maradványaiként szolgálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.399383,
+                        14.670465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Cannons",
+                  "text": "Vechile tunuri (Old Cannons) sunt piese de artilerie istorică în aer liber expuse în cartierul sn-dk-fort-destrees-history-v2, servind drept rămășițe ale apărării de coastă din trecut.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.399383,
+                        14.670465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Cannons",
+                  "text": "The Old Cannons are outdoor historical artillery pieces displayed in the sn-dk-fort-destrees-history-v2 district, serving as remnants of past coastal defense.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.399383,
+                        14.670465
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-DK",
     coords: [-17.3972, 14.6719],
@@ -615,7 +1749,268 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-th-thies-railway-history-v2",
+    id: "sn-th-thies-railway-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keur Tostan",
+                  "text": "Dieses Museum in Thiès widmet sich dem lokalen Kulturerbe und der Entwicklung der Gemeinschaft.",
+                  "category": "museum",
+                  "coords": [
+                        -16.916064,
+                        14.766007
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "Dieses Denkmal in Thiès ehrt den Mut und das Opfer der senegalesischen Soldaten, bekannt als die Tirailleurs.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Mickey Land",
+                  "text": "Dieser lebhafte Themenpark bietet Familien in Thiès einen fröhlichen Erholungsraum mit verschiedenen Fahrgeschäften und Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Statue Lat DIOR DIOP",
+                  "text": "Diese markante Statue erinnert an Lat Dior Diop, einen legendären senegalesischen Helden des 19. Jahrhunderts, der sich der Kolonialherrschaft widersetzte.",
+                  "category": "historical",
+                  "coords": [
+                        -16.927305,
+                        14.790227
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "Diese bemerkenswerte schlossartige Residenz ist ein einzigartiges architektonisches Wahrzeichen in der Gegend von Thiès.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771022
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Pout",
+                  "text": "Dieser klassifizierte Wald in der Nähe von Thiès dient als geschützte Grünzone, die die lokale Artenvielfalt unterstützt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.995263,
+                        14.831107
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "Dieses bekannte Kunstzentrum in Thiès ist berühmt für die Herstellung exquisiter traditioneller senegalesischer Wandteppiche.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934534,
+                        14.79475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keur Tostan",
+                  "text": "Ez a thiès-i múzeum a helyi kulturális örökségnek és a közösségfejlesztés történeteinek szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -16.916064,
+                        14.766007
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "Ez a thiès-i emlékmű a Tirailleurs néven ismert szenegáli katonák bátorsága és áldozata előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Mickey Land",
+                  "text": "Ez a nyüzsgő vidámpark vidám kikapcsolódási teret biztosít különféle túrákkal és tevékenységekkel a thiès-i családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Statue Lat DIOR DIOP",
+                  "text": "Ez a feltűnő szobor Lat Dior Diopnak, a gyarmati uralomnak ellenálló, legendás 19. századi szenegáli hősnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -16.927305,
+                        14.790227
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "Ez a figyelemre méltó kastélyszerű rezidencia egyedülálló építészeti nevezetesség Thiès környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771022
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Pout",
+                  "text": "Ez a Thiès melletti minősített erdő védett zöldövezetként szolgál, amely támogatja a helyi biodiverzitást.",
+                  "category": "natural",
+                  "coords": [
+                        -16.995263,
+                        14.831107
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "Ez a kiemelkedő thiès-i művészeti központ kiváló hagyományos szenegáli kárpitok készítéséről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934534,
+                        14.79475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keur Tostan",
+                  "text": "Acest muzeu din Thiès este dedicat moștenirii culturale locale și povestirilor despre dezvoltarea comunității.",
+                  "category": "museum",
+                  "coords": [
+                        -16.916064,
+                        14.766007
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "Acest monument din Thiès onorează curajul și sacrificiul soldaților senegalezi, cunoscuți sub numele de Tirailleurs.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Mickey Land",
+                  "text": "Acest parc tematic vibrant oferă un spațiu de recreere plin de bucurie, cu diverse atracții și activități pentru familiile din Thiès.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Statue Lat DIOR DIOP",
+                  "text": "Această statuie frapantă îl comemorează pe Lat Dior Diop, un erou senegalez legendar din secolul al XIX-lea, care s-a opus dominației coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -16.927305,
+                        14.790227
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "Această reședință notabilă, asemănătoare unui castel, reprezintă un punct de reper arhitectural unic în zona Thiès.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771022
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Pout",
+                  "text": "Această pădure clasată din apropiere de Thiès servește ca zonă verde protejată care susține biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        -16.995263,
+                        14.831107
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "Acest centru de artă proeminent din Thiès este renumit pentru crearea de tapiserii tradiționale senegaleze rafinate.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934534,
+                        14.79475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keur Tostan",
+                  "text": "This museum in Thiès is dedicated to local cultural heritage and community development narratives.",
+                  "category": "museum",
+                  "coords": [
+                        -16.916064,
+                        14.766007
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "This monument in Thiès honors the courage and sacrifice of Senegalese soldiers, known as the Tirailleurs.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Mickey Land",
+                  "text": "This vibrant theme park provides a joyful recreational space with various rides and activities for families in Thiès.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Statue Lat DIOR DIOP",
+                  "text": "This striking statue commemorates Lat Dior Diop, a legendary 19th-century Senegalese hero who resisted colonial rule.",
+                  "category": "historical",
+                  "coords": [
+                        -16.927305,
+                        14.790227
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "This notable castle-like residence stands as a unique architectural landmark in the Thiès area.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771022
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Pout",
+                  "text": "This classified forest near Thiès serves as a protected green zone supporting local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -16.995263,
+                        14.831107
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "This prominent arts centre in Thiès is renowned for creating exquisite traditional Senegalese tapestries.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934534,
+                        14.79475
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-TH",
     coords: [-16.9244, 14.7936],
@@ -687,7 +2082,124 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-zg-oussouye-history-v2",
+    id: "sn-zg-oussouye-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bois sacré",
+                  "text": "Eine lokal bedeutsame Stätte, die oft mit traditionellem königlichen Erbe in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.540943,
+                        12.48661
+                  ]
+            },
+            {
+                  "name": "Fabrique",
+                  "text": "Ein Heimatmuseum, das die industriellen Prozesse und Artefakte einer ehemaligen lokalen Fabrik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -16.540107,
+                        12.502662
+                  ]
+            },
+            {
+                  "name": "Musée de la Tradition Diola",
+                  "text": "Ein Kulturmuseum, das sich der Bewahrung und Ausstellung der reichen Traditionen des Diola-Volkes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -16.588263,
+                        12.555552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bois sacré",
+                  "text": "Helyi jelentőségű helyszín, amelyet gyakran a hagyományos királyi örökséghez kötnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.540943,
+                        12.48661
+                  ]
+            },
+            {
+                  "name": "Fabrique",
+                  "text": "Örökségvédelmi múzeum, amely egy egykori helyi gyár ipari folyamatait és műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.540107,
+                        12.502662
+                  ]
+            },
+            {
+                  "name": "Musée de la Tradition Diola",
+                  "text": "A diola nép gazdag hagyományainak megőrzésének és bemutatásának szentelt kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -16.588263,
+                        12.555552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bois sacré",
+                  "text": "Un sit de importanță locală asociat adesea cu moștenirea regală tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.540943,
+                        12.48661
+                  ]
+            },
+            {
+                  "name": "Fabrique",
+                  "text": "Un muzeu de patrimoniu care prezintă procesele industriale și artefactele unei foste fabrici locale.",
+                  "category": "museum",
+                  "coords": [
+                        -16.540107,
+                        12.502662
+                  ]
+            },
+            {
+                  "name": "Musée de la Tradition Diola",
+                  "text": "Un muzeu cultural dedicat păstrării și expunerii bogatelor tradiții ale poporului Diola.",
+                  "category": "museum",
+                  "coords": [
+                        -16.588263,
+                        12.555552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "the King",
+                  "text": "A locally significant site often associated with traditional royal heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.540943,
+                        12.48661
+                  ]
+            },
+            {
+                  "name": "Fabrique",
+                  "text": "A heritage museum showcasing the industrial processes and artifacts of a former local factory.",
+                  "category": "museum",
+                  "coords": [
+                        -16.540107,
+                        12.502662
+                  ]
+            },
+            {
+                  "name": "Musée de la Tradition Diola",
+                  "text": "A cultural museum dedicated to preserving and exhibiting the rich traditions of the Diola people.",
+                  "category": "museum",
+                  "coords": [
+                        -16.588263,
+                        12.555552
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-ZG",
     coords: [-16.5458, 12.4844],
@@ -759,7 +2271,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-dk-great-mosque-dakar-history-v2",
+    id: "sn-dk-great-mosque-dakar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grande Mosquée de Dakar",
+                  "text": "Diese 1964 erbaute Hauptmoschee von Dakar zeichnet sich durch ihr hoch aufragendes Minarett und die islamische Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        -17.442561,
+                        14.678133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grande Mosquée de Dakar",
+                  "text": "Ez az 1964-ben épült dakari nagymecset magasba nyúló minaretjéről és iszlám építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -17.442561,
+                        14.678133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grande Mosquée de Dakar",
+                  "text": "Construită în 1964, această mare moschee din Dakar se remarcă prin minaretul său falnic și arhitectura islamică.",
+                  "category": "religious",
+                  "coords": [
+                        -17.442561,
+                        14.678133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grande Mosquée de Dakar",
+                  "text": "Built in 1964, this grand mosque in Dakar is defined by its towering minaret and Islamic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -17.442561,
+                        14.678133
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-DK",
     coords: [-17.443, 14.6811],
@@ -903,7 +2460,88 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-sl-faidherbe-bridge-history-v2",
+    id: "sn-sl-faidherbe-bridge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Village Artisanal de Saint-Louis",
+                  "text": "In diesem lebendigen Handwerkerdorf stellen senegalesische Künstler authentische Holzschnitzereien, Lederwaren und traditionelle Textilien her.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.488672,
+                        16.032605
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Lourdes & Annexes",
+                  "text": "Diese historische katholische Kirche im Herzen von Saint-Louis zeichnet sich durch ihre charakteristische Kolonialarchitektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        -16.49159,
+                        16.023467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Village Artisanal de Saint-Louis",
+                  "text": "Ebben az élénk kézműves faluban a szenegáli művészek autentikus fafaragásokat, bőrárukat és hagyományos textíliákat készítenek.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.488672,
+                        16.032605
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Lourdes & Annexes",
+                  "text": "Ez a történelmi katolikus templom Saint-Louis szívében jellegzetes gyarmati építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -16.49159,
+                        16.023467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Village Artisanal de Saint-Louis",
+                  "text": "În acest sat artizanal vibrant, artiștii senegalezi creează sculpturi autentice în lemn, articole din piele și textile tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.488672,
+                        16.032605
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Lourdes & Annexes",
+                  "text": "Această biserică catolică istorică din inima orașului Saint-Louis se distinge prin arhitectura sa colonială caracteristică.",
+                  "category": "religious",
+                  "coords": [
+                        -16.49159,
+                        16.023467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Village Artisanal de Saint-Louis",
+                  "text": "In this vibrant artisan village, Senegalese artists craft authentic woodcarvings, leather goods, and traditional textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.488672,
+                        16.032605
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Lourdes & Annexes",
+                  "text": "This historic Catholic church in the heart of Saint-Louis is distinguished by its characteristic colonial architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -16.49159,
+                        16.023467
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-SL",
     coords: [-16.495, 16.0278],
@@ -975,7 +2613,88 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-th-fadiouth-cemetery-history-v2",
+    id: "sn-th-fadiouth-cemetery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baobab sacré de Fadial",
+                  "text": "Dieser uralte, massive Affenbrotbaum wird von der lokalen Gemeinschaft als heilig angesehen und gilt als historisches Naturdenkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.777326,
+                        14.173519
+                  ]
+            },
+            {
+                  "name": "Fuen La Brada de Joal-Fadiouth",
+                  "text": "Dieser kulturelle und künstlerische Raum beleuchtet das einzigartige Erbe der Küstengemeinde Joal-Fadiouth.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.833876,
+                        14.155072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baobab sacré de Fadial",
+                  "text": "Ezt az ősi, hatalmas majomkenyérfát a helyi közösség szentként tiszteli, és történelmi természeti nevezetességként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.777326,
+                        14.173519
+                  ]
+            },
+            {
+                  "name": "Fuen La Brada de Joal-Fadiouth",
+                  "text": "Ez a kulturális és művészeti tér kiemeli Joal-Fadiouth tengerparti közösségének egyedülálló örökségét.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.833876,
+                        14.155072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baobab sacré de Fadial",
+                  "text": "Acest baobab antic și masiv este considerat sacru de comunitatea locală și reprezintă un reper natural istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.777326,
+                        14.173519
+                  ]
+            },
+            {
+                  "name": "Fuen La Brada de Joal-Fadiouth",
+                  "text": "Acest spațiu cultural și artistic evidențiază moștenirea unică a comunității de coastă Joal-Fadiouth.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.833876,
+                        14.155072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baobab sacré de Fadial",
+                  "text": "This ancient, massive baobab tree is held sacred by the local community and stands as a historic natural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.777326,
+                        14.173519
+                  ]
+            },
+            {
+                  "name": "Fuen La Brada de Joal-Fadiouth",
+                  "text": "This cultural and artistic space highlights the unique heritage of the Joal-Fadiouth coastal community.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.833876,
+                        14.155072
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-TH",
     coords: [-16.825, 14.1533],
@@ -1047,7 +2766,52 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     },
   },
   {
-    id: "sn-fk-sangomar-history-v2",
+    id: "sn-fk-sangomar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont",
+                  "text": "Pont ist eine Brückenstruktur, die malerische Aussichtspunkte über die Landschaft von sn-fk-sangomar-history-v2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710624,
+                        13.842855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont",
+                  "text": "A Pont egy hídszerkezet, amely festői kilátást nyújt sn-fk-sangomar-history-v2 tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710624,
+                        13.842855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont",
+                  "text": "Pont este o structură de pod care oferă puncte de belvedere pitorești asupra peisajului din sn-fk-sangomar-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710624,
+                        13.842855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont",
+                  "text": "Pont is a bridge structure offering scenic vantage points over the landscape of sn-fk-sangomar-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710624,
+                        13.842855
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SN-FK",
     coords: [-16.7455, 13.8211],

@@ -223,7 +223,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Salvatorkirche",
-                  "text": "Ein bedeutendes franziskanisches Kloster in Jerusalem.",
+                  "text": "Das 1885 erbaute Kloster St. Salvator in Ost-Jerusalem.",
                   "category": "religious",
                   "coords": [
                         35.227392,
@@ -232,7 +232,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Große Synagoge",
-                  "text": "Die wichtigste Synagoge des Landes.",
+                  "text": "Die 1982 erbaute Große Synagoge in Ost-Jerusalem.",
                   "category": "religious",
                   "coords": [
                         35.216616,
@@ -241,7 +241,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Ratisbonne Monastery",
-                  "text": "Ein historisches Kloster in der Nähe des Stadtzentrums.",
+                  "text": "Das 1874 erbaute Ratisbonne-Kloster in Ost-Jerusalem.",
                   "category": "religious",
                   "coords": [
                         35.214509,
@@ -657,7 +657,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saint Saviour",
-                  "text": "Jelentős ferences kolostor Jeruzsálemben.",
+                  "text": "A Kelet-Jeruzsálemben található Szent Üdvözítő kolostor, 1885-ben épült.",
                   "category": "religious",
                   "coords": [
                         35.227392,
@@ -666,7 +666,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Great Synagogue",
-                  "text": "Az ország legfontosabb zsinagógája.",
+                  "text": "A Kelet-Jeruzsálemben található Nagy Zsinagóga, 1982-ben épült.",
                   "category": "religious",
                   "coords": [
                         35.216616,
@@ -675,7 +675,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Ratisbonne Monastery",
-                  "text": "Történelmi kolostor a városközpont közelében.",
+                  "text": "A Kelet-Jeruzsálemben található Ratisbonne kolostor, 1874-ben épült.",
                   "category": "religious",
                   "coords": [
                         35.214509,
@@ -1091,7 +1091,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Mănăstirea franciscană „Saint Saviour”",
-                  "text": "O mănăstire franciscană importantă în Ierusalim.",
+                  "text": "Mănăstirea Sfântul Mântuitor din Ierusalimul de Est, construită în 1885.",
                   "category": "religious",
                   "coords": [
                         35.227392,
@@ -1100,7 +1100,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Marea Sinagogă din Ierusalim",
-                  "text": "Cea mai importantă sinagogă a țării.",
+                  "text": "Marea Sinagogă din Ierusalimul de Est, construită în 1982.",
                   "category": "religious",
                   "coords": [
                         35.216616,
@@ -1109,7 +1109,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Mănăstirea catolică „Ratisbonne”",
-                  "text": "O mănăstire istorică în apropierea centrului orașului.",
+                  "text": "Mănăstirea Ratisbonne din Ierusalimul de Est, construită în 1874.",
                   "category": "religious",
                   "coords": [
                         35.214509,
@@ -1525,7 +1525,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Saviours Church",
-                  "text": "An important Franciscan monastery in Jerusalem.",
+                  "text": "Saint Saviour's Monastery in East Jerusalem, built in 1885.",
                   "category": "religious",
                   "coords": [
                         35.227392,
@@ -1534,7 +1534,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Great Synagogue",
-                  "text": "The most important synagogue in the country.",
+                  "text": "The Great Synagogue in East Jerusalem, built in 1982.",
                   "category": "religious",
                   "coords": [
                         35.216616,
@@ -1543,7 +1543,7 @@ export const palestineCitiesV2: POI[] = [
             },
             {
                   "name": "Ratisbonne Monastery",
-                  "text": "A historic monastery near the city center.",
+                  "text": "Ratisbonne Monastery in East Jerusalem, built in 1874.",
                   "category": "religious",
                   "coords": [
                         35.214509,

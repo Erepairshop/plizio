@@ -1591,7 +1591,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bouwhofmolen",
-                  "text": "Die Bouwhofmolen ist eine historische Wassermühle in Apeldoorn.",
+                  "text": "Bouwhofmolen in Apeldoorn, Windmühle von 1906, Getreidemühle.",
                   "category": "landmark",
                   "coords": [
                         5.947421,
@@ -1609,7 +1609,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Die Grote Kerk ist ein markantes Kirchengebäude im Zentrum von Apeldoorn.",
+                  "text": "Eine denkmalgeschützte Kirche (Grade II) von 1892 in Apeldoorn.",
                   "category": "religious",
                   "coords": [
                         5.955261,
@@ -1618,7 +1618,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Barnabaskerk",
-                  "text": "Die Barnabaskerk ist ein historisches Kirchengebäude in Apeldoorn.",
+                  "text": "Barnabaskerk in Apeldoorn, evangelische Kirche von 1920 im expressionistischen Stil.",
                   "category": "religious",
                   "coords": [
                         5.959793,
@@ -1627,7 +1627,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Menorah",
-                  "text": "Menorah ist ein religiöses Gebäude in Apeldoorn.",
+                  "text": "Menorah in Apeldoorn, Synagoge von 1918, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         5.961049,
@@ -1636,7 +1636,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regentessekerk",
-                  "text": "Die Regentessekerk ist eine Kirche in Apeldoorn.",
+                  "text": "Regentessekerk in Apeldoorn, evangelische Kirche von 1932 mit auffälligem Turm.",
                   "category": "religious",
                   "coords": [
                         5.963734,
@@ -1953,7 +1953,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bouwhofmolen",
-                  "text": "A Bouwhofmolen egy történelmi vízimalom Apeldoornban.",
+                  "text": "Bouwhofmolen Apeldoornban, 1906-ban épült szélmalom, gabonaőrlésre használják.",
                   "category": "landmark",
                   "coords": [
                         5.947421,
@@ -1971,7 +1971,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "A Grote Kerk egy jellegzetes templomépület Apeldoorn központjában.",
+                  "text": "Egy 1892-ben épült, II. fokozatú védett templom Apeldoornban.",
                   "category": "religious",
                   "coords": [
                         5.955261,
@@ -1980,7 +1980,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Barnabaskerk",
-                  "text": "A Barnabaskerk egy történelmi templomépület Apeldoornban.",
+                  "text": "Barnabaskerk Apeldoornban, 1920-ban épült evangélikus templom, expresszionista stílusban.",
                   "category": "religious",
                   "coords": [
                         5.959793,
@@ -1989,7 +1989,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Menorah",
-                  "text": "A Menorah egy vallási épület Apeldoornban.",
+                  "text": "Menorah Apeldoornban, 1918-ban épült zsinagóga, műemlék.",
                   "category": "religious",
                   "coords": [
                         5.961049,
@@ -1998,7 +1998,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regentessekerk",
-                  "text": "A Regentessekerk egy templom Apeldoornban.",
+                  "text": "Regentessekerk Apeldoornban, 1932-ben épült evangélikus templom, feltűnő toronnyal.",
                   "category": "religious",
                   "coords": [
                         5.963734,
@@ -2315,7 +2315,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bouwhofmolen",
-                  "text": "Bouwhofmolen este o moară de apă istorică din Apeldoorn.",
+                  "text": "Bouwhofmolen în Apeldoorn, moară de vânt din 1906, pentru măcinat cereale.",
                   "category": "landmark",
                   "coords": [
                         5.947421,
@@ -2333,7 +2333,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Grote Kerk este o clădire bisericească proeminentă în centrul orașului Apeldoorn.",
+                  "text": "O biserică de gradul II din 1892 în Apeldoorn.",
                   "category": "religious",
                   "coords": [
                         5.955261,
@@ -2342,7 +2342,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Barnabaskerk",
-                  "text": "Barnabaskerk este o clădire bisericească istorică din Apeldoorn.",
+                  "text": "Barnabaskerk în Apeldoorn, biserică protestantă din 1920, în stil expresionist.",
                   "category": "religious",
                   "coords": [
                         5.959793,
@@ -2351,7 +2351,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Menorah",
-                  "text": "Menorah este un lăcaș de cult din Apeldoorn.",
+                  "text": "Menorah în Apeldoorn, sinagogă din 1918, monument istoric.",
                   "category": "religious",
                   "coords": [
                         5.961049,
@@ -2360,7 +2360,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regentessekerk",
-                  "text": "Regentessekerk este o biserică din Apeldoorn.",
+                  "text": "Regentessekerk în Apeldoorn, biserică protestantă din 1932, cu un turn impunător.",
                   "category": "religious",
                   "coords": [
                         5.963734,
@@ -2677,7 +2677,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bouwhofmolen",
-                  "text": "Bouwhofmolen is a historic watermill in Apeldoorn.",
+                  "text": "Bouwhofmolen in Apeldoorn, a windmill built in 1906, used for grinding grain.",
                   "category": "landmark",
                   "coords": [
                         5.947421,
@@ -2695,7 +2695,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Grote Kerk is a prominent church building in the center of Apeldoorn.",
+                  "text": "A Grade 2 church built in 1892 in Apeldoorn.",
                   "category": "religious",
                   "coords": [
                         5.955261,
@@ -2704,7 +2704,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Barnabaskerk",
-                  "text": "Barnabaskerk is a historic church building in Apeldoorn.",
+                  "text": "Barnabaskerk in Apeldoorn, a Protestant church built in 1920, in Expressionist style.",
                   "category": "religious",
                   "coords": [
                         5.959793,
@@ -2713,7 +2713,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Menorah",
-                  "text": "Menorah is a place of worship in Apeldoorn.",
+                  "text": "Menorah in Apeldoorn, a synagogue built in 1918, Grade 2 listed.",
                   "category": "religious",
                   "coords": [
                         5.961049,
@@ -2722,7 +2722,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regentessekerk",
-                  "text": "Regentessekerk is a church in Apeldoorn.",
+                  "text": "Regentessekerk in Apeldoorn, a Protestant church built in 1932, with a striking tower.",
                   "category": "religious",
                   "coords": [
                         5.963734,
@@ -5362,7 +5362,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Held Jozua",
-                  "text": "De Held Jozua ist eine historische Paltrockwindmühle in Zaandam.",
+                  "text": "De Held Jozua in Zaanstad, Windmühle von 1719, Ölmühle.",
                   "category": "landmark",
                   "coords": [
                         4.806956,
@@ -5416,7 +5416,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Die Sint-Jozefkerk ist eine katholische Kirche in Zaandam.",
+                  "text": "Sint-Jozefkerk in Zaanstad, katholische Kirche von 1963, modernistisch.",
                   "category": "religious",
                   "coords": [
                         4.819729,
@@ -5425,7 +5425,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "Die Sint-Bonifatiuskerk ist ein markantes Kirchengebäude in Zaandam.",
+                  "text": "Sint-Bonifatiuskerk in Zaanstad, katholische Kirche von 1899, neugotisch.",
                   "category": "religious",
                   "coords": [
                         4.826764,
@@ -5434,7 +5434,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Ahmet Moskee",
-                  "text": "Eine Moschee und ein Ort der Anbetung in Zaanstad.",
+                  "text": "Sultan Ahmet Moschee in Zaanstad, erbaut 1993, mit Minarett und Kuppel.",
                   "category": "religious",
                   "coords": [
                         4.85402,
@@ -5697,7 +5697,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Held Jozua",
-                  "text": "A De Held Jozua egy történelmi fűrészmalom Zaandamban.",
+                  "text": "De Held Jozua Zaanstadban, 1719-ben épült szélmalom, olajütésre használták.",
                   "category": "landmark",
                   "coords": [
                         4.806956,
@@ -5751,7 +5751,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "A Sint-Jozefkerk egy katolikus templom Zaandamban.",
+                  "text": "Sint-Jozefkerk Zaanstadban, 1963-ban épült katolikus templom, modernista.",
                   "category": "religious",
                   "coords": [
                         4.819729,
@@ -5760,7 +5760,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "A Sint-Bonifatiuskerk egy jellegzetes templomépület Zaandamban.",
+                  "text": "Sint-Bonifatiuskerk Zaanstadban, 1899-ben épült katolikus templom, neogótikus.",
                   "category": "religious",
                   "coords": [
                         4.826764,
@@ -5769,7 +5769,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Ahmet Moskee",
-                  "text": "Egy mecset és imaház Zaanstad városában.",
+                  "text": "Sultan Ahmet mecset Zaanstadban, 1993-ban épült, minarettel és kupolával.",
                   "category": "religious",
                   "coords": [
                         4.85402,
@@ -6032,7 +6032,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Held Jozua",
-                  "text": "De Held Jozua este o moară de vânt istorică de tip „paltrok” din Zaandam.",
+                  "text": "De Held Jozua în Zaanstad, moară de vânt din 1719, folosită pentru presarea uleiului.",
                   "category": "landmark",
                   "coords": [
                         4.806956,
@@ -6086,7 +6086,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Sint-Jozefkerk este o biserică catolică din Zaandam.",
+                  "text": "Sint-Jozefkerk în Zaanstad, biserică catolică din 1963, modernistă.",
                   "category": "religious",
                   "coords": [
                         4.819729,
@@ -6095,7 +6095,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "Sint-Bonifatiuskerk este o clădire bisericească proeminentă din Zaandam.",
+                  "text": "Sint-Bonifatiuskerk în Zaanstad, biserică catolică din 1899, neogotică.",
                   "category": "religious",
                   "coords": [
                         4.826764,
@@ -6104,7 +6104,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Ahmet Moskee",
-                  "text": "O moschee și lăcaș de cult în Zaanstad.",
+                  "text": "Moscheea Sultan Ahmet din Zaanstad, construită în 1993, cu minaret și cupolă.",
                   "category": "religious",
                   "coords": [
                         4.85402,
@@ -6367,7 +6367,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Held Jozua",
-                  "text": "De Held Jozua is a historic paltrok windmill in Zaandam.",
+                  "text": "De Held Jozua in Zaanstad, a windmill built in 1719, used for oil pressing.",
                   "category": "landmark",
                   "coords": [
                         4.806956,
@@ -6421,7 +6421,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Sint-Jozefkerk is a Catholic church in Zaandam.",
+                  "text": "Sint-Jozefkerk in Zaanstad, a Roman Catholic church built in 1963, modernist design.",
                   "category": "religious",
                   "coords": [
                         4.819729,
@@ -6430,7 +6430,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "Sint-Bonifatiuskerk is a prominent church building in Zaandam.",
+                  "text": "Sint-Bonifatiuskerk in Zaanstad, a Roman Catholic church built in 1899, Neo-Gothic.",
                   "category": "religious",
                   "coords": [
                         4.826764,
@@ -6439,7 +6439,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Ahmet Moskee",
-                  "text": "A mosque and place of worship in Zaanstad.",
+                  "text": "Sultan Ahmet Mosque in Zaanstad, built in 1993, with a minaret and dome.",
                   "category": "religious",
                   "coords": [
                         4.85402,
@@ -6622,7 +6622,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Joannes de Doperkerk",
-                  "text": "Joannes de Doperkerk ist eine römisch-katholische Kirche in Hoofddorp.",
+                  "text": "Joannes de Doperkerk in Hoofddorp, Kirche von 1859, ursprünglich katholisch.",
                   "category": "religious",
                   "coords": [
                         4.68931,
@@ -6894,7 +6894,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Joannes de Doperkerk",
-                  "text": "A Joannes de Doperkerk egy római katolikus templom Hoofddorpban.",
+                  "text": "Joannes de Doperkerk Hoofddorpban, 1859-ben épült templom, eredetileg katolikus.",
                   "category": "religious",
                   "coords": [
                         4.68931,
@@ -7166,7 +7166,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Joannes de Doperkerk",
-                  "text": "Joannes de Doperkerk este o biserică romano-catolică din Hoofddorp.",
+                  "text": "Joannes de Doperkerk în Hoofddorp, biserică din 1859, inițial catolică.",
                   "category": "religious",
                   "coords": [
                         4.68931,
@@ -7438,7 +7438,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Joannes de Doperkerk",
-                  "text": "Joannes de Doperkerk is a Roman Catholic church in Hoofddorp.",
+                  "text": "Joannes de Doperkerk in Hoofddorp, a church built in 1859, originally Roman Catholic.",
                   "category": "religious",
                   "coords": [
                         4.68931,
@@ -7801,7 +7801,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "Eine protestantische Kirche in Ede.",
+                  "text": "Bethelkerk in Ede, evangelische Kirche von 1960 mit moderner Backsteinfassade.",
                   "category": "religious",
                   "coords": [
                         5.665248,
@@ -7810,7 +7810,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beatrixkerk",
-                  "text": "Ein modernes Kirchengebäude in der Stadt Ede.",
+                  "text": "Beatrixkerk in Ede, Kirche von 1928, benannt nach der Prinzessin, mit hohem Turm.",
                   "category": "religious",
                   "coords": [
                         5.662223,
@@ -7819,7 +7819,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwe kerk",
-                  "text": "Eine bedeutende Kirche im Zentrum von Ede.",
+                  "text": "Nieuwe kerk in Ede, moderne Kirche von 1975 mit zeltförmigem Dach.",
                   "category": "religious",
                   "coords": [
                         5.663262,
@@ -7828,7 +7828,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Taborkerk",
-                  "text": "Ein Sakralbau in der niederländischen Stadt Ede.",
+                  "text": "Taborkerk in Ede, Kirche von 1952 mit Kupferturm.",
                   "category": "religious",
                   "coords": [
                         5.665474,
@@ -7837,7 +7837,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tabernakel",
-                  "text": "Eine christliche Gebetsstätte in Ede.",
+                  "text": "De Tabernakel in Ede, evangelische Kirche von 1974 mit markantem, kantigem Design.",
                   "category": "religious",
                   "coords": [
                         5.656755,
@@ -7846,7 +7846,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Goede Herderkerk",
-                  "text": "Eine lokale Kirche in Ede, die der Gemeinde dient.",
+                  "text": "Goede Herderkerk in Ede, Kirche von 1958, dem Guten Hirten gewidmet.",
                   "category": "religious",
                   "coords": [
                         5.658531,
@@ -7882,7 +7882,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Moskee Al-Mouahidin",
-                  "text": "Eine Moschee und ein islamisches Zentrum in Ede.",
+                  "text": "Moschee Al-Mouahidin in Ede, erbaut 2008, mit Minarett und Kalligraphie.",
                   "category": "religious",
                   "coords": [
                         5.64437,
@@ -7891,7 +7891,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Ark",
-                  "text": "Ein Kirchengebäude in der Stadt Ede.",
+                  "text": "De Ark in Ede, Kirche von 1980 mit moderner, arkadenartiger Form.",
                   "category": "religious",
                   "coords": [
                         5.636706,
@@ -8109,7 +8109,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "Protestáns templom Edében.",
+                  "text": "Bethelkerk Edében, 1960-ban épült evangélikus templom, modern téglahomlokzattal.",
                   "category": "religious",
                   "coords": [
                         5.665248,
@@ -8118,7 +8118,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beatrixkerk",
-                  "text": "Modern templomépület Ede városában.",
+                  "text": "Beatrixkerk Edében, 1928-ban épült templom, a hercegnőről elnevezve, magas toronnyal.",
                   "category": "religious",
                   "coords": [
                         5.662223,
@@ -8127,7 +8127,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwe kerk",
-                  "text": "Jelentős templom Ede központjában.",
+                  "text": "Nieuwe kerk Edében, 1975-ben épült modern templom, sátortetővel.",
                   "category": "religious",
                   "coords": [
                         5.663262,
@@ -8136,7 +8136,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Taborkerk",
-                  "text": "Egy szakrális épület a hollandiai Ede városában.",
+                  "text": "Taborkerk Edében, 1952-ben épült templom, réztoronnyal.",
                   "category": "religious",
                   "coords": [
                         5.665474,
@@ -8145,7 +8145,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tabernakel",
-                  "text": "Keresztény imaház Edében.",
+                  "text": "De Tabernakel Edében, 1974-ben épült evangélikus templom, jellegzetes szögletes formával.",
                   "category": "religious",
                   "coords": [
                         5.656755,
@@ -8154,7 +8154,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Goede Herderkerk",
-                  "text": "Helyi templom Edében, amely a közösséget szolgálja.",
+                  "text": "Goede Herderkerk Edében, 1958-ban épült templom, a Jó Pásztornak szentelve.",
                   "category": "religious",
                   "coords": [
                         5.658531,
@@ -8190,7 +8190,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Moskee Al-Mouahidin",
-                  "text": "Mecset és iszlám központ Edében.",
+                  "text": "Al-Mouahidin mecset Edében, 2008-ban épült, minarettel és iszlám kalligráfiával.",
                   "category": "religious",
                   "coords": [
                         5.64437,
@@ -8199,7 +8199,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Ark",
-                  "text": "Templomépület Ede városában.",
+                  "text": "De Ark Edében, 1980-ban épült templom, modern, bárkaszerű formával.",
                   "category": "religious",
                   "coords": [
                         5.636706,
@@ -8417,7 +8417,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "O biserică protestantă din Ede.",
+                  "text": "Bethelkerk în Ede, biserică protestantă din 1960, cu fațadă modernă de cărămidă.",
                   "category": "religious",
                   "coords": [
                         5.665248,
@@ -8426,7 +8426,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beatrixkerk",
-                  "text": "O clădire bisericească modernă din orașul Ede.",
+                  "text": "Beatrixkerk în Ede, biserică din 1928, numită după prințesă, cu turn înalt.",
                   "category": "religious",
                   "coords": [
                         5.662223,
@@ -8435,7 +8435,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwe kerk",
-                  "text": "O biserică importantă din centrul orașului Ede.",
+                  "text": "Nieuwe kerk în Ede, biserică modernă din 1975, cu acoperiș în formă de cort.",
                   "category": "religious",
                   "coords": [
                         5.663262,
@@ -8444,7 +8444,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Taborkerk",
-                  "text": "Un lăcaș de cult din orașul olandez Ede.",
+                  "text": "Taborkerk în Ede, biserică din 1952, cu turn de aramă.",
                   "category": "religious",
                   "coords": [
                         5.665474,
@@ -8453,7 +8453,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tabernakel",
-                  "text": "Un lăcaș de rugăciune creștin din Ede.",
+                  "text": "De Tabernakel în Ede, biserică evanghelică din 1974, cu un design distinct unghiular.",
                   "category": "religious",
                   "coords": [
                         5.656755,
@@ -8462,7 +8462,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Goede Herderkerk",
-                  "text": "O biserică locală din Ede, care deservește comunitatea.",
+                  "text": "Goede Herderkerk în Ede, biserică din 1958, dedicată Bunului Păstor.",
                   "category": "religious",
                   "coords": [
                         5.658531,
@@ -8498,7 +8498,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Moskee Al-Mouahidin",
-                  "text": "O moschee și un centru islamic din Ede.",
+                  "text": "Moscheea Al-Mouahidin în Ede, construită în 2008, cu minaret și caligrafie islamică.",
                   "category": "religious",
                   "coords": [
                         5.64437,
@@ -8507,7 +8507,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Ark",
-                  "text": "O clădire bisericească din orașul Ede.",
+                  "text": "De Ark în Ede, biserică din 1980, cu o formă modernă asemănătoare unei arce.",
                   "category": "religious",
                   "coords": [
                         5.636706,
@@ -8725,7 +8725,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "A Protestant church located in Ede.",
+                  "text": "Bethelkerk in Ede, a Protestant church built in 1960, with a modern brick facade.",
                   "category": "religious",
                   "coords": [
                         5.665248,
@@ -8734,7 +8734,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beatrixkerk",
-                  "text": "A modern church building in the city of Ede.",
+                  "text": "Beatrixkerk in Ede, a church built in 1928, named after the princess, with a tall spire.",
                   "category": "religious",
                   "coords": [
                         5.662223,
@@ -8743,7 +8743,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwe kerk",
-                  "text": "A significant church located in the center of Ede.",
+                  "text": "Nieuwe kerk in Ede, a modern church built in 1975, with a tent-shaped roof.",
                   "category": "religious",
                   "coords": [
                         5.663262,
@@ -8752,7 +8752,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Taborkerk",
-                  "text": "A religious building in the Dutch city of Ede.",
+                  "text": "Taborkerk in Ede, a church built in 1952, with a copper spire.",
                   "category": "religious",
                   "coords": [
                         5.665474,
@@ -8761,7 +8761,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tabernakel",
-                  "text": "A Christian place of worship in Ede.",
+                  "text": "De Tabernakel in Ede, an evangelical church built in 1974, with a distinctive angular design.",
                   "category": "religious",
                   "coords": [
                         5.656755,
@@ -8770,7 +8770,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Goede Herderkerk",
-                  "text": "A local church in Ede serving the community.",
+                  "text": "Goede Herderkerk in Ede, a church built in 1958, dedicated to the Good Shepherd.",
                   "category": "religious",
                   "coords": [
                         5.658531,
@@ -8806,7 +8806,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Moskee Al-Mouahidin",
-                  "text": "A mosque and Islamic center in Ede.",
+                  "text": "Al-Mouahidin Mosque in Ede, built in 2008, with a minaret and Islamic calligraphy.",
                   "category": "religious",
                   "coords": [
                         5.64437,
@@ -8815,7 +8815,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Ark",
-                  "text": "A church building in the city of Ede.",
+                  "text": "De Ark in Ede, a church built in 1980, with a modern ark-like shape.",
                   "category": "religious",
                   "coords": [
                         5.636706,
@@ -9105,7 +9105,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "1680 erbaute mennonitische Kirche, Rijksmonument in Leeuwarden.",
+                  "text": "Schloss Dekemastate, erbaut 1850 in Leeuwarden.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -9123,7 +9123,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agneskerk",
-                  "text": "Die Agneskerk ist ein Gotteshaus bei Leeuwarden.",
+                  "text": "Agneskerk, eine Kirche aus dem Jahr 1450 in Goutum bei Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.806829,
@@ -9141,7 +9141,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kramersmolen",
-                  "text": "Kramersmolen ist eine Windmühle in Leeuwarden.",
+                  "text": "Eine denkmalgeschützte Windmühle (Grade II) von 1995 in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.764975,
@@ -9150,7 +9150,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen Hoogland",
-                  "text": "Molen Hoogland ist eine Windmühle in Leeuwarden.",
+                  "text": "Eine denkmalgeschützte Windmühle (Grade II) von 2003 in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.763497,
@@ -9159,7 +9159,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrouwenpoortsbrug",
-                  "text": "Vrouwenpoortsbrug ist eine Brücke in Leeuwarden.",
+                  "text": "Die 1934 von Justus Zuidema erbaute Vrouwenpoortsbrug in Leeuwarden ist eine Art-déco-Brücke.",
                   "category": "landmark",
                   "coords": [
                         5.788262,
@@ -9204,7 +9204,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pontianuskerk",
-                  "text": "Sint-Pontianuskerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Sint-Pontianuskerk, eine denkmalgeschützte Kirche von 1770 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.727862,
@@ -9276,7 +9276,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ceciliakerk",
-                  "text": "Die Ceciliakerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Ceciliakerk, eine denkmalgeschützte Kirche von 1778 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.819315,
@@ -9285,7 +9285,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "1870 erbaute Ulu-Moschee, Rijksmonument in Leeuwarden.",
+                  "text": "ISN Ulu Moschee, eine denkmalgeschützte Moschee von 1870 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -9321,7 +9321,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "Die Sint-Dominicuskerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Eine denkmalgeschützte Kirche (Grade II) von 1937, entworfen von Hendrikus van Beers und Arjen Witteveen.",
                   "category": "religious",
                   "coords": [
                         5.785392,
@@ -9330,7 +9330,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pelikaankerk",
-                  "text": "Die Pelikaankerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Eine denkmalgeschützte Kirche (Grade II) von 1932, entworfen von Egbert Reitsma.",
                   "category": "religious",
                   "coords": [
                         5.785781,
@@ -9375,7 +9375,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "1940 von Justus Zuidema erbaute Brücke in Leeuwarden.",
+                  "text": "Wirdumerpoortsbrug, eine von Justus Zuidema 1940 entworfene Brücke in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -9384,7 +9384,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "1e Kanaalsbrug",
-                  "text": "Die 1e Kanaalsbrug ist eine Brücke in Leeuwarden.",
+                  "text": "Eine denkmalgeschützte Brücke (Grade II) von 1895, entworfen von Johannes Erkinus Noordendorp.",
                   "category": "landmark",
                   "coords": [
                         5.802719,
@@ -9393,7 +9393,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderbrug",
-                  "text": "Die Noorderbrug ist eine Brücke in Leeuwarden.",
+                  "text": "Noorderbrug, eine von Justus Zuidema 1938 entworfene Brücke in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796882,
@@ -9411,7 +9411,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oosterbrug",
-                  "text": "Die Oosterbrug ist eine Brücke in Leeuwarden.",
+                  "text": "Eine denkmalgeschützte Brücke (Grade II) von 1925, entworfen von L.H.E. van Hylckama Vlieg.",
                   "category": "landmark",
                   "coords": [
                         5.802768,
@@ -9675,7 +9675,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "1680-ban épült mennonita templom, Rijksmonument Leeuwardenben.",
+                  "text": "Dekemastate kastély, 1850-ben épült Leeuwardenben.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -9693,7 +9693,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agneskerk",
-                  "text": "Az Agneskerk egy templom Leeuwarden közelében.",
+                  "text": "Agneskerk, 1450-ben épült templom Goutumban, Leeuwarden közelében.",
                   "category": "religious",
                   "coords": [
                         5.806829,
@@ -9711,7 +9711,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kramersmolen",
-                  "text": "A Kramersmolen egy szélmalom Leeuwardenben.",
+                  "text": "Egy 1995-ben épült, II. fokozatú védett szélmalom Leeuwardenben.",
                   "category": "landmark",
                   "coords": [
                         5.764975,
@@ -9720,7 +9720,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen Hoogland",
-                  "text": "A Molen Hoogland egy szélmalom Leeuwardenben.",
+                  "text": "Egy 2003-ban épült, II. fokozatú védett szélmalom Leeuwardenben.",
                   "category": "landmark",
                   "coords": [
                         5.763497,
@@ -9729,7 +9729,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrouwenpoortsbrug",
-                  "text": "A Vrouwenpoortsbrug egy híd Leeuwardenben.",
+                  "text": "A Leeuwarden-i Vrouwenpoortsbrug 1934-ben épült Justus Zuidema tervei alapján, art déco stílusú híd.",
                   "category": "landmark",
                   "coords": [
                         5.788262,
@@ -9774,7 +9774,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pontianuskerk",
-                  "text": "A Sint-Pontianuskerk egy istentiszteleti hely Leeuwardenben.",
+                  "text": "Sint-Pontianuskerk, 1770-ben épült, műemlék templom Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.727862,
@@ -9846,7 +9846,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ceciliakerk",
-                  "text": "A leeuwardeni Ceciliakerk egy istentiszteleti hely.",
+                  "text": "Ceciliakerk, 1778-ban épült, műemlék templom Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.819315,
@@ -9855,7 +9855,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "1870-ben épült Ulu mecset, Rijksmonument Leeuwardenben.",
+                  "text": "ISN Ulu mecset, 1870-ben épült, műemlék mecset Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -9891,7 +9891,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "A leeuwardeni Sint-Dominicuskerk egy istentiszteleti hely.",
+                  "text": "Egy 1937-ben épült, II. fokozatú védett templom, Hendrikus van Beers és Arjen Witteveen tervezte.",
                   "category": "religious",
                   "coords": [
                         5.785392,
@@ -9900,7 +9900,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pelikaankerk",
-                  "text": "A leeuwardeni Pelikaankerk egy istentiszteleti hely.",
+                  "text": "Egy 1932-ben épült, II. fokozatú védett templom, Egbert Reitsma tervezte.",
                   "category": "religious",
                   "coords": [
                         5.785781,
@@ -9945,7 +9945,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "Justus Zuidema által 1940-ben tervezett híd Leeuwardenben.",
+                  "text": "Wirdumerpoortsbrug, Justus Zuidema által 1940-ben tervezett híd Leeuwardenben.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -9954,7 +9954,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "1e Kanaalsbrug",
-                  "text": "Az 1e Kanaalsbrug egy híd Leeuwardenben.",
+                  "text": "Egy 1895-ben épült, II. fokozatú védett híd, Johannes Erkinus Noordendorp tervezte.",
                   "category": "landmark",
                   "coords": [
                         5.802719,
@@ -9963,7 +9963,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderbrug",
-                  "text": "A Noorderbrug egy híd Leeuwardenben.",
+                  "text": "Noorderbrug, Justus Zuidema által 1938-ban tervezett híd Leeuwardenben.",
                   "category": "landmark",
                   "coords": [
                         5.796882,
@@ -9981,7 +9981,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oosterbrug",
-                  "text": "Az Oosterbrug egy híd Leeuwardenben.",
+                  "text": "Egy 1925-ben épült, II. fokozatú védett híd, L.H.E. van Hylckama Vlieg tervezte.",
                   "category": "landmark",
                   "coords": [
                         5.802768,
@@ -10245,7 +10245,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "Biserică menonită din 1680, Rijksmonument în Leeuwarden.",
+                  "text": "Castelul Dekemastate, construit în 1850 în Leeuwarden.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -10263,7 +10263,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agneskerk",
-                  "text": "Agneskerk este un lăcaș de cult situat lângă Leeuwarden.",
+                  "text": "Biserica Agneskerk, construită în 1450 în Goutum, lângă Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.806829,
@@ -10281,7 +10281,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kramersmolen",
-                  "text": "Kramersmolen este o moară de vânt din Leeuwarden.",
+                  "text": "O moară de vânt de gradul II din 1995 în Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.764975,
@@ -10290,7 +10290,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen Hoogland",
-                  "text": "Molen Hoogland este o moară de vânt din Leeuwarden.",
+                  "text": "O moară de vânt de gradul II din 2003 în Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.763497,
@@ -10299,7 +10299,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrouwenpoortsbrug",
-                  "text": "Vrouwenpoortsbrug este un pod din Leeuwarden.",
+                  "text": "Podul Vrouwenpoortsbrug din Leeuwarden, construit în 1934 de Justus Zuidema, este un pod în stil Art Deco.",
                   "category": "landmark",
                   "coords": [
                         5.788262,
@@ -10344,7 +10344,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pontianuskerk",
-                  "text": "Sint-Pontianuskerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserica Sint-Pontianuskerk, monument istoric din 1770 în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.727862,
@@ -10416,7 +10416,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ceciliakerk",
-                  "text": "Ceciliakerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserica Ceciliakerk, monument istoric din 1778 în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.819315,
@@ -10425,7 +10425,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "Moscheea Ulu construită în 1870, Rijksmonument în Leeuwarden.",
+                  "text": "Moscheea ISN Ulu, monument istoric din 1870 în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -10461,7 +10461,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "Sint-Dominicuskerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "O biserică de gradul II din 1937, proiectată de Hendrikus van Beers și Arjen Witteveen.",
                   "category": "religious",
                   "coords": [
                         5.785392,
@@ -10470,7 +10470,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pelikaankerk",
-                  "text": "Pelikaankerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "O biserică de gradul II din 1932, proiectată de Egbert Reitsma.",
                   "category": "religious",
                   "coords": [
                         5.785781,
@@ -10515,7 +10515,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "Pod construit în 1940, proiectat de Justus Zuidema în Leeuwarden.",
+                  "text": "Podul Wirdumerpoortsbrug, proiectat de Justus Zuidema în 1940 în Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -10524,7 +10524,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "1e Kanaalsbrug",
-                  "text": "1e Kanaalsbrug este un pod în Leeuwarden.",
+                  "text": "Un pod de gradul II din 1895, proiectat de Johannes Erkinus Noordendorp.",
                   "category": "landmark",
                   "coords": [
                         5.802719,
@@ -10533,7 +10533,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderbrug",
-                  "text": "Noorderbrug este un pod în Leeuwarden.",
+                  "text": "Podul Noorderbrug, proiectat de Justus Zuidema în 1938 în Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796882,
@@ -10551,7 +10551,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oosterbrug",
-                  "text": "Oosterbrug este un pod în Leeuwarden.",
+                  "text": "Un pod de gradul II din 1925, proiectat de L.H.E. van Hylckama Vlieg.",
                   "category": "landmark",
                   "coords": [
                         5.802768,
@@ -10815,7 +10815,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "Mennonite church from 1680, a Rijksmonument in Leeuwarden.",
+                  "text": "Dekemastate castle, built in 1850 in Leeuwarden.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -10833,7 +10833,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agneskerk",
-                  "text": "The Agneskerk is a place of worship near Leeuwarden.",
+                  "text": "Agneskerk, a church built in 1450 in Goutum, near Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.806829,
@@ -10851,7 +10851,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kramersmolen",
-                  "text": "Kramersmolen is a windmill in Leeuwarden.",
+                  "text": "A Grade 2 windmill built in 1995 in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.764975,
@@ -10860,7 +10860,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen Hoogland",
-                  "text": "Molen Hoogland is a windmill in Leeuwarden.",
+                  "text": "A Grade 2 windmill built in 2003 in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.763497,
@@ -10869,7 +10869,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrouwenpoortsbrug",
-                  "text": "Vrouwenpoortsbrug is a bridge in Leeuwarden.",
+                  "text": "The Vrouwenpoortsbrug in Leeuwarden, built in 1934 by Justus Zuidema, is an Art Deco bridge.",
                   "category": "landmark",
                   "coords": [
                         5.788262,
@@ -10914,7 +10914,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pontianuskerk",
-                  "text": "Sint-Pontianuskerk is a place of worship in Leeuwarden.",
+                  "text": "Sint-Pontianuskerk, a heritage-listed church from 1770 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.727862,
@@ -10986,7 +10986,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ceciliakerk",
-                  "text": "Ceciliakerk is a place of worship in Leeuwarden.",
+                  "text": "Ceciliakerk, a heritage-listed church from 1778 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.819315,
@@ -10995,7 +10995,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "Ulu mosque built 1870, a Rijksmonument in Leeuwarden.",
+                  "text": "ISN Ulu Mosque, a heritage-listed mosque from 1870 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -11031,7 +11031,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "Sint-Dominicuskerk is a place of worship in Leeuwarden.",
+                  "text": "A Grade 2 church from 1937 designed by Hendrikus van Beers and Arjen Witteveen.",
                   "category": "religious",
                   "coords": [
                         5.785392,
@@ -11040,7 +11040,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pelikaankerk",
-                  "text": "Pelikaankerk is a place of worship in Leeuwarden.",
+                  "text": "A Grade 2 church built in 1932, designed by Egbert Reitsma.",
                   "category": "religious",
                   "coords": [
                         5.785781,
@@ -11085,7 +11085,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "Bridge built 1940, designed by Justus Zuidema in Leeuwarden.",
+                  "text": "Wirdumerpoortsbrug, a bridge designed by Justus Zuidema in 1940 in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -11094,7 +11094,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "1e Kanaalsbrug",
-                  "text": "1e Kanaalsbrug is a bridge in Leeuwarden.",
+                  "text": "A Grade 2 bridge from 1895 designed by Johannes Erkinus Noordendorp.",
                   "category": "landmark",
                   "coords": [
                         5.802719,
@@ -11103,7 +11103,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderbrug",
-                  "text": "Noorderbrug is a bridge in Leeuwarden.",
+                  "text": "Noorderbrug, a bridge designed by Justus Zuidema in 1938 in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796882,
@@ -11121,7 +11121,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oosterbrug",
-                  "text": "Oosterbrug is a bridge in Leeuwarden.",
+                  "text": "A Grade 2 bridge built in 1925, designed by L.H.E. van Hylckama Vlieg.",
                   "category": "landmark",
                   "coords": [
                         5.802768,
@@ -12990,7 +12990,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "Eine imposante neugotische katholische Kirche in Hilversum.",
+                  "text": "Eine denkmalgeschützte Kirche (Grade II) von 1892 in Hilversum.",
                   "category": "religious",
                   "coords": [
                         5.17931,
@@ -13370,7 +13370,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "Impozáns neogótikus katolikus templom Hilversumban.",
+                  "text": "Egy 1892-ben épült, II. fokozatú védett templom Hilversumban.",
                   "category": "religious",
                   "coords": [
                         5.17931,
@@ -13750,7 +13750,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "O biserică catolică neogotică impunătoare din Hilversum.",
+                  "text": "O biserică de gradul II din 1892 în Hilversum.",
                   "category": "religious",
                   "coords": [
                         5.17931,
@@ -14130,7 +14130,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "An impressive neo-Gothic Catholic church in Hilversum.",
+                  "text": "A Grade 2 church built in 1892 in Hilversum.",
                   "category": "religious",
                   "coords": [
                         5.17931,
@@ -14376,7 +14376,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boortoren 16",
-                  "text": "Ein historischer Bohrturm der Salzindustrie in Hengelo.",
+                  "text": "Ein denkmalgeschützter Bohrturm (Grade II) von 1920 in Hengelo.",
                   "category": "tower",
                   "coords": [
                         6.78875,
@@ -14513,7 +14513,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boortoren 16",
-                  "text": "A sóipar egyik történelmi fúrótornya Hengelóban.",
+                  "text": "Egy 1920-ban épült, II. fokozatú védett fúrótorony Hengelóban.",
                   "category": "tower",
                   "coords": [
                         6.78875,
@@ -14650,7 +14650,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boortoren 16",
-                  "text": "O turlă istorică de foraj a industriei sării din Hengelo.",
+                  "text": "Un turn de foraj de gradul II din 1920 în Hengelo.",
                   "category": "tower",
                   "coords": [
                         6.78875,
@@ -14787,7 +14787,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boortoren 16",
-                  "text": "A historical salt industry drilling tower in Hengelo.",
+                  "text": "A Grade 2 drilling tower from 1920 in Hengelo.",
                   "category": "tower",
                   "coords": [
                         6.78875,
@@ -15816,7 +15816,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zeldenrust",
-                  "text": "Eine bekannte Windmühle und ein technisches Denkmal in Oss.",
+                  "text": "Zeldenrust, eine Getreidemühle von 1860 in Oss.",
                   "category": "landmark",
                   "coords": [
                         5.520191,
@@ -15834,7 +15834,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Eine markante Kirche und ein Ort der Anbetung in Oss.",
+                  "text": "Eine denkmalgeschützte Kirche von 1921 in Oss.",
                   "category": "religious",
                   "coords": [
                         5.510822,
@@ -15890,7 +15890,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zeldenrust",
-                  "text": "Ismert szélmalom és ipari műemlék Ossban.",
+                  "text": "Zeldenrust, 1860-ban épült gabonamalom Ossban.",
                   "category": "landmark",
                   "coords": [
                         5.520191,
@@ -15908,7 +15908,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Jellegzetes templom és imaház Ossban.",
+                  "text": "Egy 1921-ben épült védett templom Ossban.",
                   "category": "religious",
                   "coords": [
                         5.510822,
@@ -15964,7 +15964,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zeldenrust",
-                  "text": "O moară de vânt cunoscută și monument tehnic în Oss.",
+                  "text": "Zeldenrust, o moară de cereale din 1860 în Oss.",
                   "category": "landmark",
                   "coords": [
                         5.520191,
@@ -15982,7 +15982,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "O biserică impunătoare și lăcaș de cult în Oss.",
+                  "text": "O biserică protejată construită în 1921 în Oss.",
                   "category": "religious",
                   "coords": [
                         5.510822,
@@ -16038,7 +16038,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zeldenrust",
-                  "text": "A well-known windmill and technical monument in Oss.",
+                  "text": "Zeldenrust, a grain mill from 1860 in Oss.",
                   "category": "landmark",
                   "coords": [
                         5.520191,
@@ -16056,7 +16056,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "A prominent church and place of worship in Oss.",
+                  "text": "A heritage church built in 1921 in Oss.",
                   "category": "religious",
                   "coords": [
                         5.510822,
@@ -18495,7 +18495,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "Die Evangelische Kirche De Pijler in Lelystad wurde 1984 erbaut.",
+                  "text": "Evangelische Kirche De Pijler, erbaut 1984 in Lelystad.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -18504,7 +18504,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "Die Ontmoetingskerk in Lelystad wurde 1971 erbaut.",
+                  "text": "Ontmoetingskerk, eine Kirche von 1971 in Lelystad.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -18712,7 +18712,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "A lelystadi De Pijler evangélikus templom 1984-ben épült.",
+                  "text": "Evangélikus templom De Pijler, 1984-ben épült Lelystadban.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -18721,7 +18721,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "A lelystadi Ontmoetingskerk 1971-ben épült.",
+                  "text": "Ontmoetingskerk, 1971-ben épült templom Lelystadban.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -18929,7 +18929,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "Biserica evanghelică De Pijler din Lelystad a fost construită în 1984.",
+                  "text": "Biserica evanghelică De Pijler, construită în 1984 în Lelystad.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -18938,7 +18938,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "Biserica Ontmoetingskerk din Lelystad a fost construită în 1971.",
+                  "text": "Biserica Ontmoetingskerk, construită în 1971 în Lelystad.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -19146,7 +19146,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "De Pijler Evangelical Church in Lelystad was built in 1984.",
+                  "text": "Evangelical church De Pijler, built in 1984 in Lelystad.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -19155,7 +19155,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "Ontmoetingskerk church in Lelystad was built in 1971.",
+                  "text": "Ontmoetingskerk, a church built in 1971 in Lelystad.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -20268,7 +20268,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadskerk de Bleek",
-                  "text": "Eine moderne Stadtkirche und ein Ort der Anbetung in Almelo.",
+                  "text": "Eine 1927 von H.H. Krabsluis erbaute Kirche in Almelo.",
                   "category": "religious",
                   "coords": [
                         6.669071,
@@ -20286,7 +20286,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Yumus Emre-Moskee",
-                  "text": "Eine Moschee und ein Ort der Anbetung in Almelo.",
+                  "text": "Yunus-Emre-Moschee, entworfen von B. Sevincsoy, erbaut 1973 in Almelo.",
                   "category": "religious",
                   "coords": [
                         6.655581,
@@ -20405,7 +20405,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadskerk de Bleek",
-                  "text": "Modern városi templom és imaház Almelóban.",
+                  "text": "H.H. Krabsluis által 1927-ben épített templom Almelóban.",
                   "category": "religious",
                   "coords": [
                         6.669071,
@@ -20423,7 +20423,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Yumus Emre-Moskee",
-                  "text": "Egy mecset és imaház Almelóban.",
+                  "text": "Yunus Emre mecset, B. Sevincsoy tervei alapján 1973-ban épült Almeloban.",
                   "category": "religious",
                   "coords": [
                         6.655581,
@@ -20542,7 +20542,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadskerk de Bleek",
-                  "text": "O biserică urbană modernă și lăcaș de cult în Almelo.",
+                  "text": "O biserică construită în 1927 de H.H. Krabsluis în Almelo.",
                   "category": "religious",
                   "coords": [
                         6.669071,
@@ -20560,7 +20560,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Yumus Emre-Moskee",
-                  "text": "O moschee și lăcaș de cult în Almelo.",
+                  "text": "Moscheea Yunus Emre, proiectată de B. Sevincsoy în 1973 în Almelo.",
                   "category": "religious",
                   "coords": [
                         6.655581,
@@ -20679,7 +20679,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadskerk de Bleek",
-                  "text": "A modern city church and place of worship in Almelo.",
+                  "text": "A church built in 1927 by H.H. Krabsluis in Almelo.",
                   "category": "religious",
                   "coords": [
                         6.669071,
@@ -20697,7 +20697,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Yumus Emre-Moskee",
-                  "text": "A mosque and place of worship in Almelo.",
+                  "text": "Yunus Emre Mosque, designed by B. Sevincsoy in 1973 in Almelo.",
                   "category": "religious",
                   "coords": [
                         6.655581,
@@ -28249,7 +28249,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Dirks Admiraal",
-                  "text": "Historische napoleonische Befestigungsanlage in Den Helder.",
+                  "text": "Fort Dirks Admiraal, eine denkmalgeschützte Festung in Den Helder.",
                   "category": "fortress",
                   "coords": [
                         4.758099,
@@ -28530,7 +28530,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Dirks Admiraal",
-                  "text": "Történelmi napóleoni erődítmény Den Helderben.",
+                  "text": "Fort Dirks Admiraal, műemlék erőd Den Helderben.",
                   "category": "fortress",
                   "coords": [
                         4.758099,
@@ -28811,7 +28811,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Dirks Admiraal",
-                  "text": "Fortificație napoleoniană istorică în Den Helder.",
+                  "text": "Fortăreața Dirks Admiraal, monument istoric în Den Helder.",
                   "category": "fortress",
                   "coords": [
                         4.758099,
@@ -29092,7 +29092,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Dirks Admiraal",
-                  "text": "Historic Napoleonic fortification in Den Helder.",
+                  "text": "Fort Dirks Admiraal, a heritage-listed fortress in Den Helder.",
                   "category": "fortress",
                   "coords": [
                         4.758099,
@@ -31021,7 +31021,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "D' Olde Zwarver",
-                  "text": "Historische Windmühle in Kampen, die ein markantes Wahrzeichen ist.",
+                  "text": "Die Windmühle D' Olde Zwarver in Kampen, erbaut 1842, ist ein Nationaldenkmal.",
                   "category": "landmark",
                   "coords": [
                         5.927395,
@@ -31057,7 +31057,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dorpskerk Herv. Gem.",
-                  "text": "Eine historische reformierte Kirche in Kampen.",
+                  "text": "Dorpskerk Herv. Gem., eine denkmalgeschützte Dorfkirche von 1200 in Kampen.",
                   "category": "religious",
                   "coords": [
                         5.928436,
@@ -31102,7 +31102,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molenbrug",
-                  "text": "Eine moderne Brücke, die den Fluss IJssel bei Kampen überquert.",
+                  "text": "Molenbrug, eine Brücke von 1983 in Kampen.",
                   "category": "landmark",
                   "coords": [
                         5.932986,
@@ -31239,7 +31239,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "D' Olde Zwarver",
-                  "text": "Történelmi szélmalom Kampenben, amely a város jellegzetes jelképe.",
+                  "text": "A kampeni D' Olde Zwarver szélmalom 1842-ben épült, nemzeti műemlék.",
                   "category": "landmark",
                   "coords": [
                         5.927395,
@@ -31275,7 +31275,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dorpskerk Herv. Gem.",
-                  "text": "Történelmi református templom Kampen városában.",
+                  "text": "Dorpskerk Herv. Gem., 1200-ban épült, műemlék falusi templom Kampenben.",
                   "category": "religious",
                   "coords": [
                         5.928436,
@@ -31320,7 +31320,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molenbrug",
-                  "text": "Egy modern híd, amely az IJssel folyón ível át Kampen közelében.",
+                  "text": "Molenbrug, 1983-ban épült híd Kampenben.",
                   "category": "landmark",
                   "coords": [
                         5.932986,
@@ -31457,7 +31457,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "D' Olde Zwarver",
-                  "text": "Moară de vânt istorică în Kampen, un simbol marcant al orașului.",
+                  "text": "Moara de vânt D' Olde Zwarver din Kampen, construită în 1842, este un monument național.",
                   "category": "landmark",
                   "coords": [
                         5.927395,
@@ -31493,7 +31493,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dorpskerk Herv. Gem.",
-                  "text": "O biserică reformată istorică din Kampen.",
+                  "text": "Biserica sătească Dorpskerk Herv. Gem., monument istoric din 1200 în Kampen.",
                   "category": "religious",
                   "coords": [
                         5.928436,
@@ -31538,7 +31538,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molenbrug",
-                  "text": "Un pod modern care traversează râul IJssel lângă Kampen.",
+                  "text": "Podul Molenbrug, construit în 1983 în Kampen.",
                   "category": "landmark",
                   "coords": [
                         5.932986,
@@ -31675,7 +31675,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "D' Olde Zwarver",
-                  "text": "Historic windmill in Kampen, a prominent landmark.",
+                  "text": "The D' Olde Zwarver windmill in Kampen, built in 1842, is a national monument.",
                   "category": "landmark",
                   "coords": [
                         5.927395,
@@ -31711,7 +31711,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dorpskerk Herv. Gem.",
-                  "text": "A historic Reformed church in Kampen.",
+                  "text": "Dorpskerk Herv. Gem., a heritage-listed village church from 1200 in Kampen.",
                   "category": "religious",
                   "coords": [
                         5.928436,
@@ -31756,7 +31756,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molenbrug",
-                  "text": "A modern bridge crossing the IJssel river near Kampen.",
+                  "text": "Molenbrug, a bridge built in 1983 in Kampen.",
                   "category": "landmark",
                   "coords": [
                         5.932986,
@@ -31939,7 +31939,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laatste Stuiversbrug",
-                  "text": "Eine lokale Brücke in der Stadt Sneek.",
+                  "text": "Die Laatste Stuiversbrug in Sneek, erbaut 1887, ist ein Nationaldenkmal.",
                   "category": "landmark",
                   "coords": [
                         5.664036,
@@ -31948,7 +31948,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koninginnebrug",
-                  "text": "Eine Brücke über einen Kanal in Sneek.",
+                  "text": "Koninginnebrug, eine denkmalgeschützte Brücke in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.661027,
@@ -32103,7 +32103,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laatste Stuiversbrug",
-                  "text": "Egy helyi híd Sneek városában.",
+                  "text": "A sneeki Laatste Stuiversbrug 1887-ben épült, nemzeti műemlék.",
                   "category": "landmark",
                   "coords": [
                         5.664036,
@@ -32112,7 +32112,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koninginnebrug",
-                  "text": "Egy híd egy csatorna felett Sneekben.",
+                  "text": "Koninginnebrug, műemlék híd Sneekben.",
                   "category": "landmark",
                   "coords": [
                         5.661027,
@@ -32267,7 +32267,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laatste Stuiversbrug",
-                  "text": "Un pod local în orașul Sneek.",
+                  "text": "Podul Laatste Stuiversbrug din Sneek, construit în 1887, este un monument național.",
                   "category": "landmark",
                   "coords": [
                         5.664036,
@@ -32276,7 +32276,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koninginnebrug",
-                  "text": "Un pod peste un canal în Sneek.",
+                  "text": "Podul Koninginnebrug, monument istoric în Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.661027,
@@ -32431,7 +32431,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laatste Stuiversbrug",
-                  "text": "A local bridge located in the city of Sneek.",
+                  "text": "The Laatste Stuiversbrug bridge in Sneek, built in 1887, is a national monument.",
                   "category": "landmark",
                   "coords": [
                         5.664036,
@@ -32440,7 +32440,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koninginnebrug",
-                  "text": "A bridge crossing a canal in Sneek.",
+                  "text": "Koninginnebrug, a heritage-listed bridge in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.661027,
@@ -32614,7 +32614,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Walmolen",
-                  "text": "Eine gut erhaltene Windmühle im Zentrum von Doetinchem.",
+                  "text": "Die Windmühle De Walmolen in Doetinchem, erbaut 1850, ist ein Nationaldenkmal.",
                   "category": "landmark",
                   "coords": [
                         6.288578,
@@ -32769,7 +32769,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Walmolen",
-                  "text": "Jó állapotban fennmaradt szélmalom Doetinchem központjában.",
+                  "text": "A doetinchemi De Walmolen szélmalom 1850-ben épült, nemzeti műemlék.",
                   "category": "landmark",
                   "coords": [
                         6.288578,
@@ -32924,7 +32924,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Walmolen",
-                  "text": "O moară de vânt bine conservată în centrul orașului Doetinchem.",
+                  "text": "Moara de vânt De Walmolen din Doetinchem, construită în 1850, este un monument național.",
                   "category": "landmark",
                   "coords": [
                         6.288578,
@@ -33079,7 +33079,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Walmolen",
-                  "text": "A well-preserved windmill located in the center of Doetinchem.",
+                  "text": "The De Walmolen windmill in Doetinchem, built in 1850, is a national monument.",
                   "category": "landmark",
                   "coords": [
                         6.288578,
@@ -33262,7 +33262,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethlehemkerk",
-                  "text": "Ein protestantisches Kirchengebäude in der Stadt Terneuzen.",
+                  "text": "Bethlehemkerk, erbaut 1993 in Terneuzen.",
                   "category": "religious",
                   "coords": [
                         3.842246,
@@ -33426,7 +33426,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethlehemkerk",
-                  "text": "Protestáns templomépület Terneuzen városában.",
+                  "text": "Bethlehemkerk, 1993-ban épült templom Terneuzenben.",
                   "category": "religious",
                   "coords": [
                         3.842246,
@@ -33590,7 +33590,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethlehemkerk",
-                  "text": "O clădire de biserică protestantă din orașul Terneuzen.",
+                  "text": "Biserica Bethlehemkerk, construită în 1993 în Terneuzen.",
                   "category": "religious",
                   "coords": [
                         3.842246,
@@ -33754,7 +33754,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethlehemkerk",
-                  "text": "A Protestant church building in the city of Terneuzen.",
+                  "text": "Bethlehemkerk, a church built in 1993 in Terneuzen.",
                   "category": "religious",
                   "coords": [
                         3.842246,
@@ -33992,7 +33992,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Goddelijke Verlosser",
-                  "text": "Ein modernes Kirchengebäude in Drachten.",
+                  "text": "Kirche De Goddelijke Verlosser, erbaut 1968 in Drachten.",
                   "category": "religious",
                   "coords": [
                         6.095729,
@@ -34001,7 +34001,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuiderkerk",
-                  "text": "Eine charakteristische Kirche in der Stadt Drachten.",
+                  "text": "Die Zuiderkerk in Drachten, erbaut 2005, ist ein kommunales Denkmal (Gemeentelijk monument).",
                   "category": "religious",
                   "coords": [
                         6.099767,
@@ -34010,7 +34010,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Kerk",
-                  "text": "Ein mennonitisches Kirchengebäude in Drachten.",
+                  "text": "Die mennonitische Doopsgezinde Kerk in Drachten, erbaut 1886, ist ein Nationaldenkmal.",
                   "category": "religious",
                   "coords": [
                         6.097844,
@@ -34165,7 +34165,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Goddelijke Verlosser",
-                  "text": "Modern templomépület Drachtenben.",
+                  "text": "De Goddelijke Verlosser templom, 1968-ban épült Drachtenben.",
                   "category": "religious",
                   "coords": [
                         6.095729,
@@ -34174,7 +34174,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuiderkerk",
-                  "text": "Egy jellegzetes templom Drachten városában.",
+                  "text": "A drachteni Zuiderkerk 2005-ben épült, önkormányzati műemlék.",
                   "category": "religious",
                   "coords": [
                         6.099767,
@@ -34183,7 +34183,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Kerk",
-                  "text": "Mennonita templomépület Drachtenben.",
+                  "text": "A drachteni doopsgezinde (mennonita) templom 1886-ban épült, nemzeti műemlék.",
                   "category": "religious",
                   "coords": [
                         6.097844,
@@ -34338,7 +34338,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Goddelijke Verlosser",
-                  "text": "O clădire modernă de biserică în Drachten.",
+                  "text": "Biserica De Goddelijke Verlosser, construită în 1968 în Drachten.",
                   "category": "religious",
                   "coords": [
                         6.095729,
@@ -34347,7 +34347,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuiderkerk",
-                  "text": "O biserică caracteristică în orașul Drachten.",
+                  "text": "Biserica Zuiderkerk din Drachten, construită în 2005, este un monument municipal.",
                   "category": "religious",
                   "coords": [
                         6.099767,
@@ -34356,7 +34356,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Kerk",
-                  "text": "O clădire de biserică menonită în Drachten.",
+                  "text": "Biserica menonită Doopsgezinde Kerk din Drachten, construită în 1886, este un monument național.",
                   "category": "religious",
                   "coords": [
                         6.097844,
@@ -34511,7 +34511,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Goddelijke Verlosser",
-                  "text": "A modern church building in Drachten.",
+                  "text": "De Goddelijke Verlosser church, built in 1968 in Drachten.",
                   "category": "religious",
                   "coords": [
                         6.095729,
@@ -34520,7 +34520,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuiderkerk",
-                  "text": "A characteristic church in the city of Drachten.",
+                  "text": "The Zuiderkerk in Drachten, built in 2005, is a municipal monument.",
                   "category": "religious",
                   "coords": [
                         6.099767,
@@ -34529,7 +34529,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Kerk",
-                  "text": "A Mennonite church building in Drachten.",
+                  "text": "The Mennonite Doopsgezinde Kerk in Drachten, built in 1886, is a national monument.",
                   "category": "religious",
                   "coords": [
                         6.097844,
@@ -34685,7 +34685,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Couwenbergh",
-                  "text": "Eine traditionelle Windmühle in Kaatsheuvel bei Waalwijk.",
+                  "text": "De Couwenbergh, eine Mühle von 1849 in Waalwijk.",
                   "category": "landmark",
                   "coords": [
                         5.052944,
@@ -34703,7 +34703,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde Kerk Sprang",
-                  "text": "Eine reformierte Kirche in Sprang mit mittelalterlichen Ursprüngen.",
+                  "text": "Die Hervormde Kerk Sprang in Waalwijk, erbaut um 1400, ist ein Nationaldenkmal.",
                   "category": "religious",
                   "coords": [
                         5.050067,
@@ -34721,7 +34721,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ambrosiuskerk",
-                  "text": "Eine historische Kirche in Waalwijk mit lokaler Bedeutung.",
+                  "text": "Ambrosiuskerk, eine Kirche von 1965 in Waalwijk.",
                   "category": "religious",
                   "coords": [
                         5.07834,
@@ -34876,7 +34876,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Couwenbergh",
-                  "text": "Hagyományos szélmalom a Waalwijk melletti Kaatsheuvelben.",
+                  "text": "De Couwenbergh, 1849-ben épült malom Waalwijkben.",
                   "category": "landmark",
                   "coords": [
                         5.052944,
@@ -34894,7 +34894,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde Kerk Sprang",
-                  "text": "Középkori eredetű református templom Sprangban.",
+                  "text": "A waalwijki Hervormde Kerk Sprang (református templom) 1400 körül épült, nemzeti műemlék.",
                   "category": "religious",
                   "coords": [
                         5.050067,
@@ -34912,7 +34912,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ambrosiuskerk",
-                  "text": "Helyi jelentőségű történelmi templom Waalwijkben.",
+                  "text": "Ambrosiuskerk, 1965-ben épült templom Waalwijkben.",
                   "category": "religious",
                   "coords": [
                         5.07834,
@@ -35067,7 +35067,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Couwenbergh",
-                  "text": "O moară de vânt tradițională în Kaatsheuvel, lângă Waalwijk.",
+                  "text": "Moara De Couwenbergh, construită în 1849 în Waalwijk.",
                   "category": "landmark",
                   "coords": [
                         5.052944,
@@ -35085,7 +35085,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde Kerk Sprang",
-                  "text": "O biserică reformată în Sprang cu origini medievale.",
+                  "text": "Biserica reformată Hervormde Kerk Sprang din Waalwijk, construită în jurul anului 1400, este un monument național.",
                   "category": "religious",
                   "coords": [
                         5.050067,
@@ -35103,7 +35103,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ambrosiuskerk",
-                  "text": "O biserică istorică în Waalwijk cu importanță locală.",
+                  "text": "Biserica Ambrosiuskerk, construită în 1965 în Waalwijk.",
                   "category": "religious",
                   "coords": [
                         5.07834,
@@ -35258,7 +35258,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Couwenbergh",
-                  "text": "A traditional windmill in Kaatsheuvel near Waalwijk.",
+                  "text": "De Couwenbergh, a mill built in 1849 in Waalwijk.",
                   "category": "landmark",
                   "coords": [
                         5.052944,
@@ -35276,7 +35276,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde Kerk Sprang",
-                  "text": "A Reformed church in Sprang with medieval origins.",
+                  "text": "The Hervormde Kerk Sprang in Waalwijk, built around 1400, is a national monument.",
                   "category": "religious",
                   "coords": [
                         5.050067,
@@ -35294,7 +35294,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ambrosiuskerk",
-                  "text": "A historic church in Waalwijk with local significance.",
+                  "text": "Ambrosiuskerk, a church built in 1965 in Waalwijk.",
                   "category": "religious",
                   "coords": [
                         5.07834,
@@ -36197,7 +36197,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stefanuskerk",
-                  "text": "Ein historisches Kirchengebäude in der Gegend von Tiel.",
+                  "text": "Die Stefanuskerk in Zoelen bei Tiel, erbaut 1810, ist ein Nationaldenkmal.",
                   "category": "religious",
                   "coords": [
                         5.40506,
@@ -36215,7 +36215,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "Ein markantes katholisches Kirchengebäude in Tiel.",
+                  "text": "Sint-Dominicuskerk, eine denkmalgeschützte Kirche von 1900 in Tiel.",
                   "category": "religious",
                   "coords": [
                         5.431163,
@@ -36334,7 +36334,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stefanuskerk",
-                  "text": "Történelmi templomépület Tiel környékén.",
+                  "text": "A tieli Zoeleni Szent István-templom (Stefanuskerk) 1810-ben épült, nemzeti műemlék.",
                   "category": "religious",
                   "coords": [
                         5.40506,
@@ -36352,7 +36352,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "Jelentős katolikus templomépület Tielben.",
+                  "text": "Sint-Dominicuskerk, 1900-ban épült, műemlék templom Tielben.",
                   "category": "religious",
                   "coords": [
                         5.431163,
@@ -36471,7 +36471,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stefanuskerk",
-                  "text": "O clădire istorică de biserică în zona Tiel.",
+                  "text": "Biserica Sf. Ștefan (Stefanuskerk) din Zoelen, lângă Tiel, construită în 1810, este un monument național.",
                   "category": "religious",
                   "coords": [
                         5.40506,
@@ -36489,7 +36489,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "O clădire de biserică catolică notabilă din Tiel.",
+                  "text": "Biserica Sint-Dominicuskerk, monument istoric din 1900 în Tiel.",
                   "category": "religious",
                   "coords": [
                         5.431163,
@@ -36608,7 +36608,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stefanuskerk",
-                  "text": "A historic church building in the Tiel area.",
+                  "text": "The Stefanuskerk (St. Stephen's Church) in Zoelen near Tiel, built in 1810, is a national monument.",
                   "category": "religious",
                   "coords": [
                         5.40506,
@@ -36626,7 +36626,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Dominicuskerk",
-                  "text": "A notable Catholic church building in Tiel.",
+                  "text": "Sint-Dominicuskerk, a heritage-listed church from 1900 in Tiel.",
                   "category": "religious",
                   "coords": [
                         5.431163,
@@ -40670,7 +40670,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grondzeiler Wenum",
-                  "text": "Eine historische Windmühle in der Region Vaassen.",
+                  "text": "Die Grondzeiler-Windmühle Wenum bei Apeldoorn, erbaut 1913, ist ein Nationaldenkmal.",
                   "category": "landmark",
                   "coords": [
                         5.972874,
@@ -40688,7 +40688,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cannenburger Molen",
-                  "text": "Eine historische Wassermühle in Vaassen.",
+                  "text": "Die Cannenburger Molen in Apeldoorn, erbaut 1940, ist ein kommunales Denkmal.",
                   "category": "landmark",
                   "coords": [
                         5.967087,
@@ -40744,7 +40744,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grondzeiler Wenum",
-                  "text": "Egy történelmi szélmalom Vaassen régiójában.",
+                  "text": "A Wenum-i Grondzeiler szélmalom (Apeldoorn mellett) 1913-ban épült, nemzeti műemlék.",
                   "category": "landmark",
                   "coords": [
                         5.972874,
@@ -40762,7 +40762,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cannenburger Molen",
-                  "text": "Egy történelmi vízimalom Vaassenben.",
+                  "text": "Az apeldoorni Cannenburger Molen 1940-ben épült, önkormányzati műemlék.",
                   "category": "landmark",
                   "coords": [
                         5.967087,
@@ -40818,7 +40818,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grondzeiler Wenum",
-                  "text": "O moară de vânt istorică în regiunea Vaassen.",
+                  "text": "Moara de vânt de tip grondzeiler din Wenum, lângă Apeldoorn, construită în 1913, este un monument național.",
                   "category": "landmark",
                   "coords": [
                         5.972874,
@@ -40836,7 +40836,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cannenburger Molen",
-                  "text": "O moară de apă istorică în Vaassen.",
+                  "text": "Moara Cannenburger Molen din Apeldoorn, construită în 1940, este un monument municipal.",
                   "category": "landmark",
                   "coords": [
                         5.967087,
@@ -40892,7 +40892,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grondzeiler Wenum",
-                  "text": "A historic windmill in the Vaassen region.",
+                  "text": "The Grondzeiler windmill in Wenum near Apeldoorn, built in 1913, is a national monument.",
                   "category": "landmark",
                   "coords": [
                         5.972874,
@@ -40910,7 +40910,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cannenburger Molen",
-                  "text": "A historic watermill in Vaassen.",
+                  "text": "The Cannenburger Molen windmill in Apeldoorn, built in 1940, is a municipal monument.",
                   "category": "landmark",
                   "coords": [
                         5.967087,
@@ -41075,7 +41075,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminakerk",
-                  "text": "Ein lokales Kirchengebäude in Ridderkerk.",
+                  "text": "Wilhelminakerk, erbaut 1975 in Ridderkerk.",
                   "category": "religious",
                   "coords": [
                         4.611825,
@@ -41093,7 +41093,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Levensbron",
-                  "text": "Ein modernes Kirchengebäude in Ridderkerk.",
+                  "text": "Levensbron, eine Kirche von 1995 in Ridderkerk.",
                   "category": "religious",
                   "coords": [
                         4.60179,
@@ -41293,7 +41293,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminakerk",
-                  "text": "Helyi templomépület Ridderkerkben.",
+                  "text": "Wilhelminakerk, 1975-ben épült templom Ridderkerkben.",
                   "category": "religious",
                   "coords": [
                         4.611825,
@@ -41311,7 +41311,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Levensbron",
-                  "text": "Modern templomépület Ridderkerkben.",
+                  "text": "Levensbron, 1995-ben épült templom Ridderkerkben.",
                   "category": "religious",
                   "coords": [
                         4.60179,
@@ -41511,7 +41511,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminakerk",
-                  "text": "O clădire locală de biserică în Ridderkerk.",
+                  "text": "Biserica Wilhelminakerk, construită în 1975 în Ridderkerk.",
                   "category": "religious",
                   "coords": [
                         4.611825,
@@ -41529,7 +41529,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Levensbron",
-                  "text": "O clădire de biserică modernă în Ridderkerk.",
+                  "text": "Biserica Levensbron, construită în 1995 în Ridderkerk.",
                   "category": "religious",
                   "coords": [
                         4.60179,
@@ -41729,7 +41729,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminakerk",
-                  "text": "A local church building in Ridderkerk.",
+                  "text": "Wilhelminakerk, a church built in 1975 in Ridderkerk.",
                   "category": "religious",
                   "coords": [
                         4.611825,
@@ -41747,7 +41747,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Levensbron",
-                  "text": "A modern church building in Ridderkerk.",
+                  "text": "Levensbron, a church built in 1995 in Ridderkerk.",
                   "category": "religious",
                   "coords": [
                         4.60179,
@@ -42299,7 +42299,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Sint-Clemenskerk",
-                  "text": "Die Hauptkirche von Steenwijk mit einem markanten Turm.",
+                  "text": "Grote of Sint-Clemenskerk, eine denkmalgeschützte Kirche von 1400 in Steenwijk.",
                   "category": "religious",
                   "coords": [
                         6.11526,
@@ -42308,7 +42308,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine of Onze-Lieve-Vrouwekerk",
-                  "text": "Eine historische Kirche in Steenwijk.",
+                  "text": "Kleine of Onze-Lieve-Vrouwekerk, eine Kirche von 1477 in Steenwijk.",
                   "category": "religious",
                   "coords": [
                         6.117983,
@@ -42418,7 +42418,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Sint-Clemenskerk",
-                  "text": "Steenwijk főtemploma jellegzetes toronnyal.",
+                  "text": "Grote of Sint-Clemenskerk, 1400-ban épült, műemlék templom Steenwijkben.",
                   "category": "religious",
                   "coords": [
                         6.11526,
@@ -42427,7 +42427,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine of Onze-Lieve-Vrouwekerk",
-                  "text": "Egy történelmi templom Steenwijkben.",
+                  "text": "Kleine of Onze-Lieve-Vrouwekerk, 1477-ben épült templom Steenwijkben.",
                   "category": "religious",
                   "coords": [
                         6.117983,
@@ -42537,7 +42537,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Sint-Clemenskerk",
-                  "text": "Biserica principală din Steenwijk cu un turn distinctiv.",
+                  "text": "Biserica Grote of Sint-Clemenskerk, monument istoric din 1400 în Steenwijk.",
                   "category": "religious",
                   "coords": [
                         6.11526,
@@ -42546,7 +42546,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine of Onze-Lieve-Vrouwekerk",
-                  "text": "O biserică istorică în Steenwijk.",
+                  "text": "Biserica Kleine of Onze-Lieve-Vrouwekerk, construită în 1477 în Steenwijk.",
                   "category": "religious",
                   "coords": [
                         6.117983,
@@ -42656,7 +42656,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Sint-Clemenskerk",
-                  "text": "The main church of Steenwijk with a prominent tower.",
+                  "text": "Grote of Sint-Clemenskerk, a heritage-listed church from 1400 in Steenwijk.",
                   "category": "religious",
                   "coords": [
                         6.11526,
@@ -42665,7 +42665,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine of Onze-Lieve-Vrouwekerk",
-                  "text": "A historic church in Steenwijk.",
+                  "text": "Kleine of Onze-Lieve-Vrouwekerk, a church built in 1477 in Steenwijk.",
                   "category": "religious",
                   "coords": [
                         6.117983,
@@ -42884,7 +42884,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vredeskerk",
-                  "text": "Ein protestantisches Kirchengebäude in Oosterhout.",
+                  "text": "Die Vredeskerk (Friedenskirche) in Oosterhout, erbaut 2004, ist ein Nationaldenkmal.",
                   "category": "religious",
                   "coords": [
                         4.857199,
@@ -43048,7 +43048,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vredeskerk",
-                  "text": "Protestáns templomépület Oosterhoutban.",
+                  "text": "Az oosterhouti Vredeskerk (Béke-templom) 2004-ben épült, nemzeti műemlék.",
                   "category": "religious",
                   "coords": [
                         4.857199,
@@ -43212,7 +43212,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vredeskerk",
-                  "text": "O clădire de biserică protestantă în Oosterhout.",
+                  "text": "Biserica Vredeskerk (Biserica Păcii) din Oosterhout, construită în 2004, este un monument național.",
                   "category": "religious",
                   "coords": [
                         4.857199,
@@ -43376,7 +43376,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vredeskerk",
-                  "text": "A Protestant church building in Oosterhout.",
+                  "text": "The Vredeskerk (Peace Church) in Oosterhout, built in 2004, is a national monument.",
                   "category": "religious",
                   "coords": [
                         4.857199,
@@ -43568,7 +43568,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Venbergse Watermolen",
-                  "text": "Eine malerische historische Wassermühle am Fluss Dommel.",
+                  "text": "Die Venbergse Watermolen in Valkenswaard, erbaut 1225, ist ein Nationaldenkmal.",
                   "category": "landmark",
                   "coords": [
                         5.445435,
@@ -43705,7 +43705,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Venbergse Watermolen",
-                  "text": "Glegyűletes történelmi vízimalom a Dommel folyónál.",
+                  "text": "A valkenswaard-i Venbergse Watermolen (vízimalom) 1225-ben épült, nemzeti műemlék.",
                   "category": "landmark",
                   "coords": [
                         5.445435,
@@ -43842,7 +43842,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Venbergse Watermolen",
-                  "text": "O moară de apă istorică pitorească pe râul Dommel.",
+                  "text": "Moara de apă Venbergse Watermolen din Valkenswaard, construită în 1225, este un monument național.",
                   "category": "landmark",
                   "coords": [
                         5.445435,
@@ -43979,7 +43979,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Venbergse Watermolen",
-                  "text": "A picturesque historic watermill on the Dommel river.",
+                  "text": "The Venbergse Watermolen watermill in Valkenswaard, built in 1225, is a national monument.",
                   "category": "landmark",
                   "coords": [
                         5.445435,
@@ -46367,7 +46367,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "De Valk ist eine historische Windmühle, die das Stadtbild von Berkel en Rodenrijs prägt.",
+                  "text": "De Valk, eine Mühle von 1950 in Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.428756,
@@ -46468,7 +46468,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "A De Valk egy történelmi szélmalom Berkel en Rodenrijs területén.",
+                  "text": "De Valk, 1950-ben épült malom Berkel en Rodenrijsben.",
                   "category": "landmark",
                   "coords": [
                         4.428756,
@@ -46569,7 +46569,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "De Valk este o moară de vânt istorică situată în Berkel en Rodenrijs.",
+                  "text": "Moara De Valk, construită în 1950 în Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.428756,
@@ -46670,7 +46670,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "De Valk is a historic windmill located in Berkel en Rodenrijs.",
+                  "text": "De Valk, a mill built in 1950 in Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.428756,
@@ -48131,7 +48131,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertogin van Brabant",
-                  "text": "Eine traditionelle holländische Windmühle in Drunen.",
+                  "text": "Hertogin van Brabant, eine Mühle von 2002 in Drunen.",
                   "category": "landmark",
                   "coords": [
                         5.1153,
@@ -48196,7 +48196,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertogin van Brabant",
-                  "text": "Egy hagyományos holland szélmalom Drunen városában.",
+                  "text": "Hertogin van Brabant, 2002-ben épült malom Drunenben.",
                   "category": "landmark",
                   "coords": [
                         5.1153,
@@ -48261,7 +48261,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertogin van Brabant",
-                  "text": "O moară de vânt olandeză tradițională situată în Drunen.",
+                  "text": "Moara Hertogin van Brabant, construită în 2002 în Drunen.",
                   "category": "landmark",
                   "coords": [
                         5.1153,
@@ -48326,7 +48326,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertogin van Brabant",
-                  "text": "A traditional Dutch windmill located in Drunen.",
+                  "text": "Hertogin van Brabant, a mill built in 2002 in Drunen.",
                   "category": "landmark",
                   "coords": [
                         5.1153,
@@ -49319,7 +49319,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuidpoldermolen",
-                  "text": "Eine traditionelle niederländische Poldermühle in Edam.",
+                  "text": "Zuidpoldermolen, eine Mühle von 1899 in Edam.",
                   "category": "landmark",
                   "coords": [
                         5.057764,
@@ -49346,7 +49346,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mariakerk",
-                  "text": "Eine bemerkenswerte Kirche in Volendam, Maria gewidmet.",
+                  "text": "Mariakerk, eine Kirche von 1962 in Edam.",
                   "category": "religious",
                   "coords": [
                         5.069465,
@@ -49364,7 +49364,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Carrillon van de Speeltoren",
-                  "text": "Das Glockenspiel des historischen schiefen Turms in Edam.",
+                  "text": "Het Carrillon van de Speeltoren, ein Glockenspielturm von 1569 in Edam.",
                   "category": "tower",
                   "coords": [
                         5.046979,
@@ -49492,7 +49492,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuidpoldermolen",
-                  "text": "Hagyományos holland poldermalom Edamban.",
+                  "text": "Zuidpoldermolen, 1899-ben épült malom Edamban.",
                   "category": "landmark",
                   "coords": [
                         5.057764,
@@ -49519,7 +49519,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mariakerk",
-                  "text": "Nevezetes templom Volendamban, amelyet Szűz Máriának szenteltek.",
+                  "text": "Mariakerk, 1962-ben épült templom Edamban.",
                   "category": "religious",
                   "coords": [
                         5.069465,
@@ -49537,7 +49537,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Carrillon van de Speeltoren",
-                  "text": "Edam történelmi ferde tornyának harangjátéka.",
+                  "text": "Het Carrillon van de Speeltoren, 1569-ben épült harangjátéktorony Edamban.",
                   "category": "tower",
                   "coords": [
                         5.046979,
@@ -49665,7 +49665,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuidpoldermolen",
-                  "text": "O moară de vânt olandeză tradițională de polder în Edam.",
+                  "text": "Moara Zuidpoldermolen, construită în 1899 în Edam.",
                   "category": "landmark",
                   "coords": [
                         5.057764,
@@ -49692,7 +49692,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mariakerk",
-                  "text": "O biserică notabilă din Volendam dedicată Sfintei Maria.",
+                  "text": "Biserica Mariakerk, construită în 1962 în Edam.",
                   "category": "religious",
                   "coords": [
                         5.069465,
@@ -49710,7 +49710,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Carrillon van de Speeltoren",
-                  "text": "Carillonul turnului înclinat istoric din Edam.",
+                  "text": "Turnul cu clopote Het Carrillon van de Speeltoren, construit în 1569 în Edam.",
                   "category": "tower",
                   "coords": [
                         5.046979,
@@ -49838,7 +49838,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuidpoldermolen",
-                  "text": "A traditional Dutch polder windmill in Edam.",
+                  "text": "Zuidpoldermolen, a mill built in 1899 in Edam.",
                   "category": "landmark",
                   "coords": [
                         5.057764,
@@ -49865,7 +49865,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mariakerk",
-                  "text": "A notable church in Volendam dedicated to Mary.",
+                  "text": "Mariakerk, a church built in 1962 in Edam.",
                   "category": "religious",
                   "coords": [
                         5.069465,
@@ -49883,7 +49883,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Carrillon van de Speeltoren",
-                  "text": "The carillon of the historic leaning tower in Edam.",
+                  "text": "Het Carrillon van de Speeltoren, a carillon tower built in 1569 in Edam.",
                   "category": "tower",
                   "coords": [
                         5.046979,
@@ -50858,7 +50858,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Die evangelisch-reformierte Hauptkirche von Driebergen-Rijsenburg.",
+                  "text": "Grote Kerk, eine Kirche von 1830 in Driebergen-Rijsenburg.",
                   "category": "religious",
                   "coords": [
                         5.282489,
@@ -51175,7 +51175,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Driebergen-Rijsenburg református főtemploma.",
+                  "text": "Grote Kerk, 1830-ban épült templom Driebergen-Rijsenburgban.",
                   "category": "religious",
                   "coords": [
                         5.282489,
@@ -51492,7 +51492,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Biserica principală reformată din Driebergen-Rijsenburg.",
+                  "text": "Biserica Grote Kerk, construită în 1830 în Driebergen-Rijsenburg.",
                   "category": "religious",
                   "coords": [
                         5.282489,
@@ -51809,7 +51809,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "The main Protestant church of Driebergen-Rijsenburg.",
+                  "text": "Grote Kerk, a church built in 1830 in Driebergen-Rijsenburg.",
                   "category": "religious",
                   "coords": [
                         5.282489,
@@ -52145,7 +52145,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paulus en Petrus",
-                  "text": "Eine religiöse Stätte, die den Heiligen Petrus und Paulus gewidmet ist.",
+                  "text": "Kirche Paulus en Petrus, erbaut 1910 in Waddinxveen.",
                   "category": "religious",
                   "coords": [
                         4.692572,
@@ -52534,7 +52534,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paulus en Petrus",
-                  "text": "Szent Péternek és Pálnak szentelt vallási helyszín.",
+                  "text": "Paulus en Petrus templom, 1910-ben épült Waddinxveenben.",
                   "category": "religious",
                   "coords": [
                         4.692572,
@@ -52923,7 +52923,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paulus en Petrus",
-                  "text": "Un sit religios dedicat Sfinților Petru și Pavel.",
+                  "text": "Biserica Paulus en Petrus, construită în 1910 în Waddinxveen.",
                   "category": "religious",
                   "coords": [
                         4.692572,
@@ -53312,7 +53312,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paulus en Petrus",
-                  "text": "A religious site dedicated to Saints Peter and Paul.",
+                  "text": "Paulus en Petrus church, built in 1910 in Waddinxveen.",
                   "category": "religious",
                   "coords": [
                         4.692572,
@@ -53747,7 +53747,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oud Poelgeest",
-                  "text": "Ein Schloss mit historischem Landgut in Oegstgeest.",
+                  "text": "Schloss Oud Poelgeest, erbaut 1650 in Oegstgeest.",
                   "category": "castle",
                   "coords": [
                         4.484833,
@@ -53792,7 +53792,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rehobothkerk",
-                  "text": "Eine protestantische Kirche in der Gemeinde Oegstgeest.",
+                  "text": "Rehobothkerk, eine Kirche von 1960 in Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.470135,
@@ -53801,7 +53801,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pauluskerk",
-                  "text": "Ein modernes Kirchengebäude in Oegstgeest.",
+                  "text": "Pauluskerk, eine Kirche von 1930 in Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.471943,
@@ -53819,7 +53819,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Matthiaskerk",
-                  "text": "Eine römisch-katholische Kirche im nahegelegenen Warmond.",
+                  "text": "Sint-Matthiaskerk, eine Kirche von 1859 in Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.502452,
@@ -53891,7 +53891,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Herder",
-                  "text": "De Herder ist eine traditionelle Windmühle in der Nähe von Oegstgeest.",
+                  "text": "De Herder, eine Mühle von 1856 in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.489151,
@@ -53909,7 +53909,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Maredijkmolen",
-                  "text": "Maredijkmolen ist eine charakteristische holländische Windmühle in Oegstgeest.",
+                  "text": "Maredijkmolen, eine Mühle von 1908 in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.487164,
@@ -53981,7 +53981,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rhijngeest",
-                  "text": "Rhijngeest ist eine weitläufige Parkanlage in Oegstgeest.",
+                  "text": "Rhijngeest, ein denkmalgeschützter Park in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.460768,
@@ -54026,7 +54026,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikker",
-                  "text": "De Kikker ist eine historische Windmühle in der Region Oegstgeest.",
+                  "text": "De Kikker, eine denkmalgeschützte Mühle von 1974 in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.487142,
@@ -54424,7 +54424,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oud Poelgeest",
-                  "text": "Kastély és történelmi birtok Oegstgeestben.",
+                  "text": "Oud Poelgeest kastély, 1650-ben épült Oegstgeestben.",
                   "category": "castle",
                   "coords": [
                         4.484833,
@@ -54469,7 +54469,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rehobothkerk",
-                  "text": "Protestáns templom Oegstgeest községben.",
+                  "text": "Rehobothkerk, 1960-ban épült templom Oegstgeestben.",
                   "category": "religious",
                   "coords": [
                         4.470135,
@@ -54478,7 +54478,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pauluskerk",
-                  "text": "Modern templomépület Oegstgeestben.",
+                  "text": "Pauluskerk, 1930-ban épült templom Oegstgeestben.",
                   "category": "religious",
                   "coords": [
                         4.471943,
@@ -54496,7 +54496,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Matthiaskerk",
-                  "text": "Római katolikus templom a közeli Warmondban.",
+                  "text": "Sint-Matthiaskerk, 1859-ben épült templom Oegstgeestben.",
                   "category": "religious",
                   "coords": [
                         4.502452,
@@ -54568,7 +54568,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Herder",
-                  "text": "De Herder egy hagyományos szélmalom Oegstgeest közelében.",
+                  "text": "De Herder, 1856-ban épült malom Oegstgeestben.",
                   "category": "landmark",
                   "coords": [
                         4.489151,
@@ -54586,7 +54586,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Maredijkmolen",
-                  "text": "Maredijkmolen egy jellegzetes holland szélmalom Oegstgeestben.",
+                  "text": "Maredijkmolen, 1908-ban épült malom Oegstgeestben.",
                   "category": "landmark",
                   "coords": [
                         4.487164,
@@ -54658,7 +54658,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rhijngeest",
-                  "text": "Rhijngeest egy kiterjedt park Oegstgeestben.",
+                  "text": "Rhijngeest, műemlék park Oegstgeestben.",
                   "category": "park",
                   "coords": [
                         4.460768,
@@ -54703,7 +54703,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikker",
-                  "text": "De Kikker egy történelmi szélmalom Oegstgeest régiójában.",
+                  "text": "De Kikker, 1974-ben épült, műemlék malom Oegstgeestben.",
                   "category": "landmark",
                   "coords": [
                         4.487142,
@@ -55101,7 +55101,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oud Poelgeest",
-                  "text": "Un castel și o moșie istorică în Oegstgeest.",
+                  "text": "Castelul Oud Poelgeest, construit în 1650 în Oegstgeest.",
                   "category": "castle",
                   "coords": [
                         4.484833,
@@ -55146,7 +55146,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rehobothkerk",
-                  "text": "O biserică protestantă din comunitatea Oegstgeest.",
+                  "text": "Biserica Rehobothkerk, construită în 1960 în Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.470135,
@@ -55155,7 +55155,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pauluskerk",
-                  "text": "O clădire bisericească modernă în Oegstgeest.",
+                  "text": "Biserica Pauluskerk, construită în 1930 în Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.471943,
@@ -55173,7 +55173,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Matthiaskerk",
-                  "text": "O biserică romano-catolică în Warmond, în apropiere.",
+                  "text": "Biserica Sint-Matthiaskerk, construită în 1859 în Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.502452,
@@ -55245,7 +55245,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Herder",
-                  "text": "De Herder este o moară de vânt tradițională situată lângă Oegstgeest.",
+                  "text": "Moara De Herder, construită în 1856 în Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.489151,
@@ -55263,7 +55263,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Maredijkmolen",
-                  "text": "Maredijkmolen este o moară de vânt olandeză caracteristică în Oegstgeest.",
+                  "text": "Moara Maredijkmolen, construită în 1908 în Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.487164,
@@ -55335,7 +55335,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rhijngeest",
-                  "text": "Rhijngeest este un parc vast situat în Oegstgeest.",
+                  "text": "Parcul Rhijngeest, monument istoric în Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.460768,
@@ -55380,7 +55380,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikker",
-                  "text": "De Kikker este o moară de vânt istorică în regiunea Oegstgeest.",
+                  "text": "Moara De Kikker, monument istoric din 1974 în Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.487142,
@@ -55778,7 +55778,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oud Poelgeest",
-                  "text": "A castle and historic estate located in Oegstgeest.",
+                  "text": "Oud Poelgeest castle, built in 1650 in Oegstgeest.",
                   "category": "castle",
                   "coords": [
                         4.484833,
@@ -55823,7 +55823,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rehobothkerk",
-                  "text": "A Protestant church located in the community of Oegstgeest.",
+                  "text": "Rehobothkerk, a church built in 1960 in Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.470135,
@@ -55832,7 +55832,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pauluskerk",
-                  "text": "A modern church building located in Oegstgeest.",
+                  "text": "Pauluskerk, a church built in 1930 in Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.471943,
@@ -55850,7 +55850,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Matthiaskerk",
-                  "text": "A Roman Catholic church located in nearby Warmond.",
+                  "text": "Sint-Matthiaskerk, a church built in 1859 in Oegstgeest.",
                   "category": "religious",
                   "coords": [
                         4.502452,
@@ -55922,7 +55922,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Herder",
-                  "text": "De Herder is a traditional windmill located near Oegstgeest.",
+                  "text": "De Herder, a mill built in 1856 in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.489151,
@@ -55940,7 +55940,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Maredijkmolen",
-                  "text": "Maredijkmolen is a characteristic Dutch windmill in Oegstgeest.",
+                  "text": "Maredijkmolen, a mill built in 1908 in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.487164,
@@ -56012,7 +56012,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rhijngeest",
-                  "text": "Rhijngeest is a spacious park located in Oegstgeest.",
+                  "text": "Rhijngeest, a heritage-listed park in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.460768,
@@ -56057,7 +56057,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikker",
-                  "text": "De Kikker is a historical windmill in the Oegstgeest region.",
+                  "text": "De Kikker, a heritage-listed mill from 1974 in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.487142,
@@ -57347,7 +57347,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vliethoven",
-                  "text": "Ein historisches Anwesen und Herrenhaus in Delfzijl.",
+                  "text": "Schloss Vliethoven, erbaut 1700 in Delfzijl.",
                   "category": "castle",
                   "coords": [
                         6.905444,
@@ -57439,7 +57439,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vliethoven",
-                  "text": "Történelmi birtok és udvarház Delfzijlben.",
+                  "text": "Vliethoven kastély, 1700-ban épült Delfzijlben.",
                   "category": "castle",
                   "coords": [
                         6.905444,
@@ -57531,7 +57531,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vliethoven",
-                  "text": "O moșie istorică și un conac situat în Delfzijl.",
+                  "text": "Castelul Vliethoven, construit în 1700 în Delfzijl.",
                   "category": "castle",
                   "coords": [
                         6.905444,
@@ -57623,7 +57623,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vliethoven",
-                  "text": "A historic estate and mansion located in Delfzijl.",
+                  "text": "Vliethoven castle, built in 1700 in Delfzijl.",
                   "category": "castle",
                   "coords": [
                         6.905444,

@@ -111,7 +111,124 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     },
   },
   {
-    id: "rwenzori-mountains-relief-v2",
+    id: "rwenzori-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kraepelin",
+                  "text": "Der Kraepelin Peak auf dem Mount Emin ist eine steile Felsnadel, die eine große Herausforderung für technische Bergsteiger darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        29.901524,
+                        0.440543
+                  ]
+            },
+            {
+                  "name": "Humbert",
+                  "text": "Der Umberto Peak bietet einen zerklüfteten, eisgepeitschten Gebirgskamm vor der dramatischen Kulisse des Mount Emin-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        29.901953,
+                        0.431917
+                  ]
+            },
+            {
+                  "name": "Rwenzori Mountains National Park",
+                  "text": "Dieses 1991 gegründete UNESCO-Weltnaturerbe schützt schneebedeckte äquatoriale Gipfel und eine einzigartige Riesenlobelien-Flora.",
+                  "category": "natural",
+                  "coords": [
+                        29.979261,
+                        0.393735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kraepelin",
+                  "text": "Az Emin-hegyen található Kraepelin-csúcs egy meredek, sziklás tűhegy, amely komoly kihívást jelent a technikai hegymászók számára.",
+                  "category": "natural",
+                  "coords": [
+                        29.901524,
+                        0.440543
+                  ]
+            },
+            {
+                  "name": "Umberto",
+                  "text": "Az Umberto-csúcs egy csipkézett, jégsöpörte hegygerincet kínál az Emin-hegy masszívumának drámai háttere előtt.",
+                  "category": "natural",
+                  "coords": [
+                        29.901953,
+                        0.431917
+                  ]
+            },
+            {
+                  "name": "Rwenzori Mountains National Park",
+                  "text": "Az 1991-ben alapított UNESCO Világörökség részét képező természetvédelmi terület hófedte egyenlítői csúcsokat és egyedülálló óriás lobélia flórát véd.",
+                  "category": "natural",
+                  "coords": [
+                        29.979261,
+                        0.393735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kraepelin",
+                  "text": "Situat pe Muntele Emin, vârful Kraepelin este o turlă stâncoasă și abruptă, care reprezintă o provocare majoră pentru alpiniștii tehnici.",
+                  "category": "natural",
+                  "coords": [
+                        29.901524,
+                        0.440543
+                  ]
+            },
+            {
+                  "name": "Umberto",
+                  "text": "Vârful Umberto prezintă o creastă zimțată, măturată de gheață, pe fundalul dramatic al masivului Muntelui Emin.",
+                  "category": "natural",
+                  "coords": [
+                        29.901953,
+                        0.431917
+                  ]
+            },
+            {
+                  "name": "Rwenzori Mountains National Park",
+                  "text": "Înființată în 1991, această rezervație naturală din Patrimoniul Mondial UNESCO protejează vârfurile ecuatoriale înzăpezite și flora unică de lobelii uriașe.",
+                  "category": "natural",
+                  "coords": [
+                        29.979261,
+                        0.393735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kraepelin",
+                  "text": "Located on Mount Emin, Kraepelin Peak is a steep, rocky spire that poses a significant challenge for technical mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        29.901524,
+                        0.440543
+                  ]
+            },
+            {
+                  "name": "Umberto",
+                  "text": "Umberto Peak offers a jagged, ice-swept ridge line set against the dramatic backdrop of the Mount Emin massif.",
+                  "category": "natural",
+                  "coords": [
+                        29.901953,
+                        0.431917
+                  ]
+            },
+            {
+                  "name": "Rwenzori Mountains National Park",
+                  "text": "Established in 1991, this UNESCO World Heritage nature reserve protects snow-capped equatorial peaks and unique giant lobelia flora.",
+                  "category": "natural",
+                  "coords": [
+                        29.979261,
+                        0.393735
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CD-XX",
     coords: [29.9, 0.4],
@@ -399,7 +516,52 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-karisimbi-relief-v2",
+    id: "mount-karisimbi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Hehu",
+                  "text": "Der zerklüftete Gipfel des Mount Hehu erhebt sich markant in der Nähe des Vulkans Karisimbi und bietet Höhentrekkern einen weiten Blick auf die umliegende Landschaft des Albertine Rift.",
+                  "category": "natural",
+                  "coords": [
+                        29.3628,
+                        -1.5112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Hehu",
+                  "text": "A Karisimbi vulkán közelében kiemelkedő Hehu-hegy zord csúcsa a magasan fekvő túrázóknak lenyűgöző kilátást nyújt a környező Albertine-hasadék tájára.",
+                  "category": "natural",
+                  "coords": [
+                        29.3628,
+                        -1.5112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Hehu",
+                  "text": "Ridicându-se proeminent în apropierea vulcanului Karisimbi, vârful stâncos al Muntelui Hehu oferă alpiniștilor panorame vaste asupra peisajului înconjurător din Riftul Albertin.",
+                  "category": "natural",
+                  "coords": [
+                        29.3628,
+                        -1.5112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Hehu",
+                  "text": "Rising prominently near the Karisimbi volcano, the craggy summit of Mount Hehu offers high-altitude trekkers sweeping views of the surrounding Albertine Rift landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.3628,
+                        -1.5112
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CD-XX",
     coords: [29.4, -1.5],
@@ -579,7 +741,88 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-sabyinyo-relief-v2",
+    id: "mount-sabyinyo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Sabyinyo 2nd Peak",
+                  "text": "Der dramatische zweite Gipfel des erloschenen Vulkans Sabyinyo, der unter Wanderern für seine anspruchsvollen, schroffen Kämme bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.594456,
+                        -1.387716
+                  ]
+            },
+            {
+                  "name": "Mount Sabyinyo 1st Peak",
+                  "text": "Der schroffe erste Gipfel des Vulkans Sabyinyo, der sich direkt am geografischen Schnittpunkt dreier Staatsgrenzen befindet.",
+                  "category": "natural",
+                  "coords": [
+                        29.597898,
+                        -1.387594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Sabyinyo 2nd Peak",
+                  "text": "A kihalt Sabyinyo vulkán drámai második csúcsa, amely a túrázók körében a kihívást jelentő, zord gerinceiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.594456,
+                        -1.387716
+                  ]
+            },
+            {
+                  "name": "Mount Sabyinyo 1st Peak",
+                  "text": "A Sabyinyo vulkán zord első csúcsa, amely közvetlenül három országhatár földrajzi metszéspontjában található.",
+                  "category": "natural",
+                  "coords": [
+                        29.597898,
+                        -1.387594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Sabyinyo 2nd Peak",
+                  "text": "Al doilea vârf dramatic al vulcanului stins Sabyinyo, cunoscut printre drumeți pentru crestele sale accidentate și provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        29.594456,
+                        -1.387716
+                  ]
+            },
+            {
+                  "name": "Mount Sabyinyo 1st Peak",
+                  "text": "Primul vârf accidentat al vulcanului Sabyinyo, situat direct la intersecția geografică a trei granițe naționale.",
+                  "category": "natural",
+                  "coords": [
+                        29.597898,
+                        -1.387594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Sabyinyo 2nd Peak",
+                  "text": "The dramatic second summit of the extinct Mount Sabyinyo volcano, known among hikers for its challenging, rugged ridges.",
+                  "category": "natural",
+                  "coords": [
+                        29.594456,
+                        -1.387716
+                  ]
+            },
+            {
+                  "name": "Mount Sabyinyo 1st Peak",
+                  "text": "The rugged first peak of the Mount Sabyinyo volcano, situated directly at the geographical intersection of three national borders.",
+                  "category": "natural",
+                  "coords": [
+                        29.597898,
+                        -1.387594
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CD-XX",
     coords: [29.6, -1.4],
@@ -651,7 +894,52 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-goma-relief-v2",
+    id: "mount-goma-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale de Goma",
+                  "text": "Diese große Kultstätte ist ein zentrales religiöses Wahrzeichen in der Stadt Goma.",
+                  "category": "religious",
+                  "coords": [
+                        29.170987,
+                        -1.652539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale de Goma",
+                  "text": "Ez a jelentős istentiszteleti hely központi vallási nevezetesség Goma városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.170987,
+                        -1.652539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale de Goma",
+                  "text": "Acest lăcaș de cult major reprezintă un punct de reper religios central în orașul Goma.",
+                  "category": "religious",
+                  "coords": [
+                        29.170987,
+                        -1.652539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goma Cathedrale",
+                  "text": "This major place of worship stands as a central religious landmark in the city of Goma.",
+                  "category": "religious",
+                  "coords": [
+                        29.170987,
+                        -1.652539
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CD-XX",
     coords: [29.2, -1.7],

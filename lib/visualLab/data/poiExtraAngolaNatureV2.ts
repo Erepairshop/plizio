@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraAngolaNatureV2: POI[] = [
   {
-    id: "rio-kwanza-nature-v2",
+    id: "rio-kwanza-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quiçama-Nationalpark",
+                  "text": "Dieser weitläufige Nationalpark grenzt an den Fluss Kwanza und ist für seine Affenbrotbäume und Bemühungen zur Rehabilitation der Tierwelt bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176456,
+                        -9.361165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional do Quiçama",
+                  "text": "A Kwanza folyóval határos, kiterjedt nemzeti park baobab fáiról és a vadvilág rehabilitációjára tett erőfeszítéseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176456,
+                        -9.361165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional do Quiçama",
+                  "text": "Mărginit de râul Kwanza, acest parc național vast este cunoscut pentru baobabii săi și pentru eforturile de reabilitare a faunei sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176456,
+                        -9.361165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quiçama National Park",
+                  "text": "Bordered by the Kwanza River, this sprawling national park is known for its baobab trees and wildlife rehabilitation efforts.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176456,
+                        -9.361165
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AO-BGO",
     coords: [13.1497, -9.3561],
@@ -639,7 +684,52 @@ export const poiExtraAngolaNatureV2: POI[] = [
       fr: ["Lac saisonnier dans le bassin du Cuvelai au Cunene.", "Source d'eau la plus importante pour les peuples pasteurs nomades.", "Centre de pêche traditionnelle pendant la période des crues.", "Abrite des espèces de poissons rares survivant dans la boue lors des phases sèches.", "Un point chaud pour l'observation des oiseaux aquatiques dans le sud.", "Géomorphologiquement, une dépression endoréique typique.", "Repère pour la gestion de l'eau dans la province de Cunene.", "Symbole du caractère cyclique de la nature en Angola."],
     }, image: "/poi-images/lago-mungue-nature-v2.webp"},
   {
-    id: "ilha-luanda-nature-v2",
+    id: "ilha-luanda-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Insel-Leuchtturm",
+                  "text": "Der Leuchtturm auf der schmalen Ilha de Luanda leitet den Seeverkehr sicher in die Bucht der Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.262897,
+                        -8.760582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Ilha",
+                  "text": "A keskeny Ilha de Luanda szigetén található világítótorony biztonságosan vezeti a tengeri forgalmat a főváros öblébe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.262897,
+                        -8.760582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Ilha",
+                  "text": "Farul de pe îngusta Ilha de Luanda ghidează în siguranță traficul maritim în golful capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        13.262897,
+                        -8.760582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Island Lighthouse",
+                  "text": "The Island Lighthouse on the narrow Ilha de Luanda safely guides maritime traffic into the capital's bay.",
+                  "category": "landmark",
+                  "coords": [
+                        13.262897,
+                        -8.760582
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "AO-LUA",
     coords: [13.25, -8.75],
@@ -674,7 +764,160 @@ export const poiExtraAngolaNatureV2: POI[] = [
       fr: ["Barrière de sable naturelle d'une longueur d'environ 5 km.", "Lieu central pour la pêche artisanale des Axiluanda.", "Plus important centre de loisirs et de tourisme de la capitale.", "Protège le port de Luanda de la forte houle.", "Abrite des plantes côtières rares et des colonies d'oiseaux marins.", "Lieu d'origine de nombreuses légendes sur la fondation de la ville.", "Un symbole du mode de vie moderne à Luanda.", "Objet de programmes intenses de protection et de réhabilitation côtière."],
     }, image: "/poi-images/ilha-luanda-nature-v2.webp"},
   {
-    id: "rio-dande-nature-v2",
+    id: "rio-dande-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catumbo",
+                  "text": "Der markante Gipfel des Catumbo bietet Wanderern weitreichende landschaftliche Ausblicke über die Region des Dande-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        13.390156,
+                        -8.415454
+                  ]
+            },
+            {
+                  "name": "Praia do Lifune",
+                  "text": "Der Lifune-Strand ist ein sandiger Küstenabschnitt am Atlantik, der sich ideal zur Erholung am Meer eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.394786,
+                        -8.415387
+                  ]
+            },
+            {
+                  "name": "Morrinho",
+                  "text": "Der Berggipfel des Morrinho überragt die umliegende, vom Flusslauf des Dande geprägte Hügellandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.403468,
+                        -8.447357
+                  ]
+            },
+            {
+                  "name": "Farol da Barra do Dande",
+                  "text": "Der Leuchtturm Farol da Barra do Dande dient der Schifffahrt als wichtiges Navigationssignal an der Mündung des Flusses Dande.",
+                  "category": "landmark",
+                  "coords": [
+                        13.347163,
+                        -8.469093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catumbo",
+                  "text": "A Catumbo jellegzetes csúcsa lenyűgöző kilátást nyújt a túrázóknak a Dande folyó régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        13.390156,
+                        -8.415454
+                  ]
+            },
+            {
+                  "name": "Praia do Lifune",
+                  "text": "A Lifune strand egy homokos atlanti partszakasz, amely ideális a tengerparti kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        13.394786,
+                        -8.415387
+                  ]
+            },
+            {
+                  "name": "Morrinho",
+                  "text": "A Morrinho hegycsúcs a Dande folyó által formált környező dombvidék fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        13.403468,
+                        -8.447357
+                  ]
+            },
+            {
+                  "name": "Farol da Barra do Dande",
+                  "text": "A Farol da Barra do Dande világítótorony fontos navigációs jelzésként szolgál a hajózás számára a Dande folyó torkolatánál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.347163,
+                        -8.469093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catumbo",
+                  "text": "Vârful stâncos Catumbo oferă drumeților priveliști panoramice pitorești asupra regiunii râului Dande.",
+                  "category": "natural",
+                  "coords": [
+                        13.390156,
+                        -8.415454
+                  ]
+            },
+            {
+                  "name": "Praia do Lifune",
+                  "text": "Plaja Lifune este o fâșie de coastă nisipoasă la Oceanul Atlantic, ideală pentru relaxare la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        13.394786,
+                        -8.415387
+                  ]
+            },
+            {
+                  "name": "Morrinho",
+                  "text": "Vârful muntos Morrinho domină peisajul deluros din jur, modelat de cursul râului Dande.",
+                  "category": "natural",
+                  "coords": [
+                        13.403468,
+                        -8.447357
+                  ]
+            },
+            {
+                  "name": "Farol da Barra do Dande",
+                  "text": "Farul Farol da Barra do Dande servește drept un semnal de navigație important pentru traficul maritim la gura râului Dande.",
+                  "category": "landmark",
+                  "coords": [
+                        13.347163,
+                        -8.469093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catumbo",
+                  "text": "The prominent Catumbo peak provides hikers with sweeping scenic views over the Dande River region.",
+                  "category": "natural",
+                  "coords": [
+                        13.390156,
+                        -8.415454
+                  ]
+            },
+            {
+                  "name": "Lifune Beach",
+                  "text": "Lifune Beach is a sandy Atlantic coastal stretch that is ideal for seaside relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        13.394786,
+                        -8.415387
+                  ]
+            },
+            {
+                  "name": "Morrinho",
+                  "text": "The Morrinho mountain peak towers over the surrounding hilly landscape shaped by the Dande River.",
+                  "category": "natural",
+                  "coords": [
+                        13.403468,
+                        -8.447357
+                  ]
+            },
+            {
+                  "name": "Farol da Barra do Dande",
+                  "text": "The Farol da Barra do Dande lighthouse serves as a vital navigational beacon for shipping at the mouth of the Dande River.",
+                  "category": "landmark",
+                  "coords": [
+                        13.347163,
+                        -8.469093
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AO-BGO",
     coords: [13.4, -8.45],
@@ -814,7 +1057,52 @@ export const poiExtraAngolaNatureV2: POI[] = [
       fr: ["L'une des rivières les plus abondantes d'Afrique centrale.", "Source principale de diamants alluvionnaires pour l'exploitation minière angolaise.", "Délimite la frontière internationale sur des centaines de kilomètres.", "Forme des rapides impressionnants et des gorges profondes.", "Source d'eau vitale pour le peuple Chokwe.", "Corridor migratoire majeur pour la faune tropicale.", "Possède un immense potentiel hydroélectrique inexploité.", "Emblème de la richesse hydraulique de la province de Lunda Norte."],
     }, image: "/poi-images/rio-kwango-nature-v2.webp"},
   {
-    id: "monte-boco-nature-v2",
+    id: "monte-boco-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Serra Malica",
+                  "text": "Dieser markante Berggipfel erhebt sich über die Naturlandschaften rund um den Monte Boco.",
+                  "category": "natural",
+                  "coords": [
+                        15.284825,
+                        -12.534013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Serra Malica",
+                  "text": "Ez a kiemelkedő hegycsúcs a Monte Boco körüli természeti tájak fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        15.284825,
+                        -12.534013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Serra Malica",
+                  "text": "Acest vârf montan proeminent se înalță deasupra peisajelor naturale din jurul Monte Boco.",
+                  "category": "natural",
+                  "coords": [
+                        15.284825,
+                        -12.534013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Serra Malica",
+                  "text": "This prominent mountain peak rises above the natural landscapes surrounding Monte Boco.",
+                  "category": "natural",
+                  "coords": [
+                        15.284825,
+                        -12.534013
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AO-HUA",
     coords: [15.2, -12.5],
@@ -919,7 +1207,52 @@ export const poiExtraAngolaNatureV2: POI[] = [
       fr: ["L'un des fleuves les plus abondants d'Afrique centrale.", "Source principale de diamants alluvionnaires pour l'industrie minière angolaise.", "Marque la frontière internationale sur des centaines de kilomètres.", "Forme des rapides impressionnants et des gorges profondes.", "Source d'eau vitale pour le peuple Chokwe.", "Un corridor de migration important pour la faune tropicale.", "Possède un énorme potentiel hydroélectrique inexploité.", "Symbole de l'abondance hydrique de la province de Lunda Norte."],
     }, image: "/poi-images/rio-cuango-nature-v2.webp"},
   {
-    id: "ilha-tigre-nature-v2",
+    id: "ilha-tigre-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fábricas de Processamento de Peixe",
+                  "text": "Diese verlassenen Fischverarbeitungsanlagen sind markante Industrieruinen, die inmitten der Dünen der menschenleeren Insel stehen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72083,
+                        -16.593429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fábricas de Processamento de Peixe",
+                  "text": "Ezek az elhagyatott halfeldolgozó gyárak feltűnő ipari romok, amelyek a kihalt sziget homokdűnéi között állnak.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72083,
+                        -16.593429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fábricas de Processamento de Peixe",
+                  "text": "Aceste fabrici abandonate de procesare a peștelui sunt ruine industriale izbitoare, aflate printre dunele insulei pustii.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72083,
+                        -16.593429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fábricas de Processamento de Peixe",
+                  "text": "These abandoned fish processing factories are striking industrial ruins standing amidst the shifting sands of the deserted island.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72083,
+                        -16.593429
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "AO-NAM",
     coords: [11.8, -16.6],

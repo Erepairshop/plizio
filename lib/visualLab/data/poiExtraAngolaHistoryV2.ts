@@ -50,7 +50,196 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Ancienne capitale du royaume du Kongo (XIVe au XIXe siècle).", "Renommée São Salvador au XVIe siècle.", "Abrite les ruines de Kulumbimbi, la première cathédrale au sud du Sahara.", "Patrimoine mondial de l'UNESCO pour sa valeur universelle.", "Centre des premières relations diplomatiques entre l'Afrique et l'Europe.", "Site sacré pour le peuple Bakongo dans plusieurs pays.", "Lieu de l'arbre Jalunguu, sous lequel le roi rendait justice.", "Des découvertes archéologiques régulières prouvent un urbanisme sophistiqué."],
     }, image: "/poi-images/mbanza-kongo-ruins-history-v2.webp"},
   {
-    id: "massangano-fort-history-v2",
+    id: "massangano-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foz do Rio Lucala",
+                  "text": "Ein malerischer Aussichtspunkt, der sich genau dort befindet, wo der Fluss Lucala in den größeren Fluss Kwanza mündet.",
+                  "category": "natural",
+                  "coords": [
+                        14.235827,
+                        -9.629538
+                  ]
+            },
+            {
+                  "name": "Prisão de Massangano",
+                  "text": "Die historischen Ruinen eines Gefängnisses aus der Kolonialzeit in der Nähe der alten portugiesischen Siedlung Massangano.",
+                  "category": "historical",
+                  "coords": [
+                        14.259016,
+                        -9.628532
+                  ]
+            },
+            {
+                  "name": "1ª Câmara Municipal",
+                  "text": "Die baulichen Überreste des ersten Rathauses von Massangano spiegeln die frühe portugiesische Kolonialverwaltung wider.",
+                  "category": "historical",
+                  "coords": [
+                        14.257888,
+                        -9.629737
+                  ]
+            },
+            {
+                  "name": "Massangano Fort",
+                  "text": "Die Überreste einer portugiesischen Festung aus dem 16. Jahrhundert, die an den Ufern des Flusses Kwanza zur Kontrolle des Handels errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        14.256535,
+                        -9.629364
+                  ]
+            },
+            {
+                  "name": "Tribunal Casa de Reclusão",
+                  "text": "Die verfallenen Steinmauern eines ehemaligen kolonialen Gerichtsgebäudes und Haftzentrums im historischen Massangano.",
+                  "category": "historical",
+                  "coords": [
+                        14.259163,
+                        -9.627295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foz do Rio Lucala",
+                  "text": "Festői kilátópont pontosan ott, ahol a Lucala folyó vize egyesül a nagyobb Kwanza folyóval.",
+                  "category": "natural",
+                  "coords": [
+                        14.235827,
+                        -9.629538
+                  ]
+            },
+            {
+                  "name": "Prisão de Massangano",
+                  "text": "Egy gyarmati korszakból származó börtön történelmi romjai a régi portugál település, Massangano közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.259016,
+                        -9.628532
+                  ]
+            },
+            {
+                  "name": "1ª Câmara Municipal",
+                  "text": "Massangano első városházájának szerkezeti maradványai, amelyek a korai portugál gyarmati közigazgatást tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        14.257888,
+                        -9.629737
+                  ]
+            },
+            {
+                  "name": "Forte de Massangano",
+                  "text": "Egy 16. századi portugál erődítmény maradványai, amelyet a Kwanza folyó partján építettek a kereskedelem ellenőrzésére.",
+                  "category": "historical",
+                  "coords": [
+                        14.256535,
+                        -9.629364
+                  ]
+            },
+            {
+                  "name": "Tribunal Casa de Reclusão",
+                  "text": "Egy egykori gyarmati bíróság és fogvatartási központ omladozó kőfalai a történelmi Massangano területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.259163,
+                        -9.627295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foz do Rio Lucala",
+                  "text": "Un punct de belvedere pitoresc situat exact acolo unde râul Lucala își unește apele cu fluviul mai mare Kwanza.",
+                  "category": "natural",
+                  "coords": [
+                        14.235827,
+                        -9.629538
+                  ]
+            },
+            {
+                  "name": "Prisão de Massangano",
+                  "text": "Ruinele istorice ale unei închisori din epoca colonială, situate în apropierea vechii așezări portugheze Massangano.",
+                  "category": "historical",
+                  "coords": [
+                        14.259016,
+                        -9.628532
+                  ]
+            },
+            {
+                  "name": "1ª Câmara Municipal",
+                  "text": "Rămășițele structurale ale primei primării din Massangano, reflectând administrația colonială portugheză timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        14.257888,
+                        -9.629737
+                  ]
+            },
+            {
+                  "name": "Forte de Massangano",
+                  "text": "Rămășițele unei fortificații portugheze din secolul al XVI-lea, construită pe malurile râului Kwanza pentru a controla comerțul.",
+                  "category": "historical",
+                  "coords": [
+                        14.256535,
+                        -9.629364
+                  ]
+            },
+            {
+                  "name": "Tribunal Casa de Reclusão",
+                  "text": "Zidurile de piatră prăbușite ale unui fost tribunal colonial și centru de detenție din istoricul Massangano.",
+                  "category": "historical",
+                  "coords": [
+                        14.259163,
+                        -9.627295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foz do Rio Lucala",
+                  "text": "A scenic viewpoint located exactly where the Lucala River merges its waters with the larger Kwanza River.",
+                  "category": "natural",
+                  "coords": [
+                        14.235827,
+                        -9.629538
+                  ]
+            },
+            {
+                  "name": "Prisão de Massangano",
+                  "text": "The historic ruins of a colonial-era prison located near the old Portuguese settlement of Massangano.",
+                  "category": "historical",
+                  "coords": [
+                        14.259016,
+                        -9.628532
+                  ]
+            },
+            {
+                  "name": "1ª Câmara Municipal",
+                  "text": "The structural remains of Massangano's first town hall, reflecting the early Portuguese colonial administration.",
+                  "category": "historical",
+                  "coords": [
+                        14.257888,
+                        -9.629737
+                  ]
+            },
+            {
+                  "name": "Massangano Fort",
+                  "text": "The remnants of a 16th-century Portuguese fortification built on the banks of the Kwanza River to control trade.",
+                  "category": "historical",
+                  "coords": [
+                        14.256535,
+                        -9.629364
+                  ]
+            },
+            {
+                  "name": "Tribunal Casa de Reclusão",
+                  "text": "The crumbling stone walls of a former colonial courthouse and detention center in historic Massangano.",
+                  "category": "historical",
+                  "coords": [
+                        14.259163,
+                        -9.627295
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-CNO",
     coords: [14.2541, -9.6272],
@@ -97,7 +286,88 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Fondée en 1583 au confluent du Kwanza et du Lucala.", "Base principale pendant la guerre contre la reine Njinga de Ndongo.", "Capitale provisoire de la colonie pendant l'invasion néerlandaise.", "Lieu central pour le baptême et l'embarquement des personnes réduites en esclavage.", "Abrite l'église historique Nossa Senhora da Vitória.", "Point de contrôle stratégique pour le trafic fluvial vers l'intérieur.", "Site important pour les pèlerinages religieux de nos jours.", "Fait partie d'un projet de corridor du patrimoine mondial le long du Kwanza."],
     }, image: "/poi-images/massangano-fort-history-v2.webp"},
   {
-    id: "palacio-de-ferro-history-v2",
+    id: "palacio-de-ferro-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hausmuseum Óscar Ribas",
+                  "text": "Das Hausmuseum Óscar Ribas in Luanda ist dem Leben und literarischen Werk des bekannten angolanischen Schriftstellers gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.244393,
+                        -8.815319
+                  ]
+            },
+            {
+                  "name": "Our Lady Muxima - Nationalmuseum für Naturgeschichte Angolas",
+                  "text": "Das Nationalmuseum für Naturgeschichte von Angola beherbergt eine umfangreiche Sammlung präparierter lokaler Tierarten.",
+                  "category": "museum",
+                  "coords": [
+                        13.238462,
+                        -8.815357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Museu Óscar Ribas",
+                  "text": "Az Óscar Ribas Emlékmúzeum Luandában a híres angolai író életét és irodalmi munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.244393,
+                        -8.815319
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Muxima - Museu Nacional de Historia Natural",
+                  "text": "Az Angolai Nemzeti Természettudományi Múzeum a helyi állatfajok kiterjedt preparátum-gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        13.238462,
+                        -8.815357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Museu Óscar Ribas",
+                  "text": "Casa memorială Óscar Ribas din Luanda este dedicată vieții și operei literare a celebrului scriitor angolez.",
+                  "category": "museum",
+                  "coords": [
+                        13.244393,
+                        -8.815319
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Muxima - Museu Nacional de Historia Natural",
+                  "text": "Muzeul Național de Istorie Naturală a Angolei găzduiește o colecție vastă de specii de animale locale taxidermiate.",
+                  "category": "museum",
+                  "coords": [
+                        13.238462,
+                        -8.815357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Óscar Ribas House Museum",
+                  "text": "The Óscar Ribas House Museum in Luanda is dedicated to the life and literary work of the famous Angolan writer.",
+                  "category": "museum",
+                  "coords": [
+                        13.244393,
+                        -8.815319
+                  ]
+            },
+            {
+                  "name": "Our Lady Muxima - National Museum of Natural History of Angola",
+                  "text": "The National Museum of Natural History of Angola houses an extensive collection of taxidermied local animal species.",
+                  "category": "museum",
+                  "coords": [
+                        13.238462,
+                        -8.815357
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-LUA",
     coords: [13.2356, -8.8146],
@@ -144,7 +414,232 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Attribué au célèbre architecte Gustave Eiffel.", "Livré en kit préfabriqué par bateau à la fin du XIXe siècle.", "Possède une structure caractéristique en fonte rivetée.", "Point central du tourisme culturel dans la ville basse de Luanda.", "Entièrement restauré grâce à un soutien financier international.", "Offre une scène aux artistes locaux et internationaux.", "Emblème de l'âge d'or colonial de Luanda.", "Monument national protégé de la République d'Angola."],
     }, image: "/poi-images/palacio-de-ferro-history-v2.webp"},
   {
-    id: "pungo-andongo-history-v2",
+    id: "pungo-andongo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pedras Negras",
+                  "text": "Ein markanter Aussichtspunkt auf den massiven, dunklen Monolithen der Felsformationen von Pungo Andongo.",
+                  "category": "natural",
+                  "coords": [
+                        15.576603,
+                        -9.659417
+                  ]
+            },
+            {
+                  "name": "Fortalezan de Pungo-Andongo",
+                  "text": "Die verfallenen steinernen Überreste einer alten kolonialen Festung, die zwischen den riesigen Felsen von Pungo Andongo errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        15.599996,
+                        -9.649995
+                  ]
+            },
+            {
+                  "name": "Start of path to viewpoint",
+                  "text": "Der Ausgangspunkt des Weges, der Zugang zu den erhöhten Aussichtspunkten über die spektakulären Monolithen der Pedras Negras bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.592512,
+                        -9.673128
+                  ]
+            },
+            {
+                  "name": "Pedras Negras de Pungo Andongo",
+                  "text": "Ein atemberaubender Aussichtspunkt mit Blick auf eine dramatische Landschaft aus gigantischen, dunkel gefärbten Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        15.591043,
+                        -9.672226
+                  ]
+            },
+            {
+                  "name": "Pegadas da Rainha Nginga",
+                  "text": "Historische Ruinen mit Felsabdrücken, die historisch der legendären Königin Nzinga von Ndongo und Matamba zugeschrieben werden.",
+                  "category": "historical",
+                  "coords": [
+                        15.583661,
+                        -9.675974
+                  ]
+            },
+            {
+                  "name": "Schwarze Steine von Pungo Andongo",
+                  "text": "Eine markante Naturattraktion, bestehend aus riesigen, mysteriös geformten schwarzen Monolithen, die in der Savanne verstreut sind.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622469,
+                        -9.67462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pedras Negras",
+                  "text": "Látványos kilátópont, amely a Pungo Andongo sziklaképződmények hatalmas, sötét monolitjainak tetején található.",
+                  "category": "natural",
+                  "coords": [
+                        15.576603,
+                        -9.659417
+                  ]
+            },
+            {
+                  "name": "Fortalezan de Pungo-Andongo",
+                  "text": "Egy régi gyarmati erődítmény omladozó kőmaradványai, amelyet az óriási Pungo Andongo sziklák közé építettek.",
+                  "category": "historical",
+                  "coords": [
+                        15.599996,
+                        -9.649995
+                  ]
+            },
+            {
+                  "name": "Start of path to viewpoint",
+                  "text": "Az ösvény kezdőpontja, amely hozzáférést biztosít a látványos Pedras Negras monolitokra néző, magasan fekvő kilátókhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.592512,
+                        -9.673128
+                  ]
+            },
+            {
+                  "name": "Pedras Negras de Pungo Andongo",
+                  "text": "Lélegzetelállító kilátópont, ahonnan gigantikus, sötét színű sziklaalakzatok drámai tájára nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        15.591043,
+                        -9.672226
+                  ]
+            },
+            {
+                  "name": "Pegadas da Rainha Nginga",
+                  "text": "Történelmi romok olyan sziklanyomatokkal, amelyeket a történelem Ndongo és Matamba legendás királynőjének, Nzingának tulajdonít.",
+                  "category": "historical",
+                  "coords": [
+                        15.583661,
+                        -9.675974
+                  ]
+            },
+            {
+                  "name": "Pedras Negras de Pungo Andongo",
+                  "text": "Lenyűgöző természeti látványosság, amely a szavannán elszórtan elhelyezkedő hatalmas, titokzatos formájú fekete monolitokból áll.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622469,
+                        -9.67462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pedras Negras",
+                  "text": "Un punct de belvedere impresionant situat în vârful masivilor monoliți întunecați ai formațiunilor stâncoase Pungo Andongo.",
+                  "category": "natural",
+                  "coords": [
+                        15.576603,
+                        -9.659417
+                  ]
+            },
+            {
+                  "name": "Fortalezan de Pungo-Andongo",
+                  "text": "Rămășițele de piatră prăbușite ale unei vechi fortărețe coloniale construite printre rocile uriașe din Pungo Andongo.",
+                  "category": "historical",
+                  "coords": [
+                        15.599996,
+                        -9.649995
+                  ]
+            },
+            {
+                  "name": "Start of path to viewpoint",
+                  "text": "Punctul de plecare al potecii care oferă acces la platformele de belvedere înalte asupra spectaculoșilor monoliți Pedras Negras.",
+                  "category": "natural",
+                  "coords": [
+                        15.592512,
+                        -9.673128
+                  ]
+            },
+            {
+                  "name": "Pedras Negras de Pungo Andongo",
+                  "text": "Un punct de observație uimitor cu vedere la un peisaj dramatic de formațiuni stâncoase gigantice, de culoare închisă.",
+                  "category": "natural",
+                  "coords": [
+                        15.591043,
+                        -9.672226
+                  ]
+            },
+            {
+                  "name": "Pegadas da Rainha Nginga",
+                  "text": "Ruine istorice cu amprente în stâncă atribuite istoric legendarei regine Nzinga din Ndongo și Matamba.",
+                  "category": "historical",
+                  "coords": [
+                        15.583661,
+                        -9.675974
+                  ]
+            },
+            {
+                  "name": "Pedras Negras de Pungo Andongo",
+                  "text": "O atracție naturală uimitoare, formată din monoliți negri uriași, cu forme misterioase, împrăștiați prin savană.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622469,
+                        -9.67462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black Rock",
+                  "text": "A striking vantage point situated atop the massive, dark monoliths of the Pungo Andongo rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        15.576603,
+                        -9.659417
+                  ]
+            },
+            {
+                  "name": "Fortalezan de Pungo-Andongo",
+                  "text": "The crumbling stone remains of an old colonial fortress built among the giant Pungo Andongo rocks.",
+                  "category": "historical",
+                  "coords": [
+                        15.599996,
+                        -9.649995
+                  ]
+            },
+            {
+                  "name": "Start of path to viewpoint",
+                  "text": "The trailhead providing access to the elevated lookouts over the spectacular Pedras Negras monoliths.",
+                  "category": "natural",
+                  "coords": [
+                        15.592512,
+                        -9.673128
+                  ]
+            },
+            {
+                  "name": "Pedras Negras de Pungo Andongo",
+                  "text": "A stunning observation spot overlooking a dramatic landscape of gigantic, dark-colored rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        15.591043,
+                        -9.672226
+                  ]
+            },
+            {
+                  "name": "Pegadas da Rainha Nginga",
+                  "text": "Historic ruins featuring rock impressions historically attributed to the legendary Queen Nzinga of Ndongo and Matamba.",
+                  "category": "historical",
+                  "coords": [
+                        15.583661,
+                        -9.675974
+                  ]
+            },
+            {
+                  "name": "Pungo Andongo Black Stones",
+                  "text": "A striking natural attraction consisting of huge, mysteriously shaped black monoliths scattered across the savanna.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622469,
+                        -9.67462
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-MAL",
     coords: [15.5833, -9.6667],
@@ -191,7 +686,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Capitale du royaume de Ndongo sous la reine Njinga Mbande.", "Célèbre pour les Pedras Negras, d'immenses monolithes de conglomérat.", "Lieu de combats légendaires contre l'expansion coloniale portugaise.", "Les empreintes dans la roche sont populairement attribuées à la reine Njinga.", "Refuge stratégique grâce à sa position défensive naturelle.", "Situé dans la province de Malanje, en bordure du bassin du Kwanza.", "Un symbole central de l'identité nationale angolaise.", "Combine des monuments historiques et des phénomènes géologiques uniques."],
     }, image: "/poi-images/pungo-andongo-history-v2.webp"},
   {
-    id: "muxima-fort-history-v2",
+    id: "muxima-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Muxima",
+                  "text": "Diese historische portugiesische Kolonialfestung wurde am Ufer des Kwanza-Flusses errichtet, um frühe Handelsrouten im Landesinneren zu kontrollieren.",
+                  "category": "fortress",
+                  "coords": [
+                        13.959813,
+                        -9.522072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza da Muxima",
+                  "text": "Ezt a történelmi portugál gyarmati erődítményt a Kwanza folyó partján hozták létre, hogy ellenőrizzék a korai szárazföldi kereskedelmi útvonalakat.",
+                  "category": "fortress",
+                  "coords": [
+                        13.959813,
+                        -9.522072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza da Muxima",
+                  "text": "Această fortificație colonială istorică portugheză a fost înființată pe malurile râului Kwanza pentru a controla rutele comerciale interioare timpurii.",
+                  "category": "fortress",
+                  "coords": [
+                        13.959813,
+                        -9.522072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muxima Fortress",
+                  "text": "This historic Portuguese colonial fortification was established on the banks of the Kwanza River to control early inland trade routes.",
+                  "category": "fortress",
+                  "coords": [
+                        13.959813,
+                        -9.522072
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-BGO",
     coords: [13.9575, -9.5161],
@@ -332,7 +872,88 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Fondé en 1604 après des années de recherche d'argent.", "Ancien centre administratif du district de Kwanza.", "Abrite l'église historique Nossa Senhora do Rosário.", "Lieu stratégique pour la surveillance du trafic fluvial.", "Poste important pour la traite transatlantique des esclaves.", "Situé près de l'actuelle ville de Dondo dans le Cuanza Norte.", "Centre des premiers espoirs économiques de la couronne portugaise.", "Site archéologique avec des restes de murs bien conservés."],
     }, image: "/poi-images/cambambe-fort-history-v2.webp"},
   {
-    id: "sao-salvador-church-history-v2",
+    id: "sao-salvador-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum dos Reis do Kongo",
+                  "text": "Das Museum der Kongo-Könige in Mbanza Kongo bewahrt die erhaltenen königlichen Artefakte des historischen Königreichs auf.",
+                  "category": "museum",
+                  "coords": [
+                        14.246878,
+                        -6.265641
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de São Salvador de Congo",
+                  "text": "Die 1491 erbaute Kathedrale des Heiligen Erlösers vom Kongo in Mbanza Kongo ist eine der ältesten katholischen Kirchen in Subsahara-Afrika.",
+                  "category": "religious",
+                  "coords": [
+                        14.245746,
+                        -6.264636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum dos Reis do Kongo",
+                  "text": "A Kongó Királyainak Múzeuma Mbanza Kongóban a történelmi királyság fennmaradt uralkodói tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        14.246878,
+                        -6.265641
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de São Salvador de Congo",
+                  "text": "Az 1491-ben épült mbanza kongói Szent Megváltó-székesegyház az egyik legrégebbi katolikus templom Fekete-Afrikában.",
+                  "category": "religious",
+                  "coords": [
+                        14.245746,
+                        -6.264636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum dos Reis do Kongo",
+                  "text": "Muzeul Regilor din Kongo din Mbanza Kongo păstrează artefactele regale supraviețuitoare ale regatului istoric.",
+                  "category": "museum",
+                  "coords": [
+                        14.246878,
+                        -6.265641
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de São Salvador de Congo",
+                  "text": "Catedrala Sfântului Mântuitor din Congo, fondată în 1491 în Mbanza Kongo, este una dintre cele mai vechi biserici catolice din Africa Subsahariană.",
+                  "category": "religious",
+                  "coords": [
+                        14.245746,
+                        -6.264636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum dos Reis do Kongo",
+                  "text": "The Museum of the Kings of Kongo in Mbanza Kongo preserves the surviving royal artifacts of the historical kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        14.246878,
+                        -6.265641
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Saviour of Congo",
+                  "text": "Founded in 1491, the Cathedral of the Holy Saviour of Congo in Mbanza Kongo is one of the oldest Catholic churches in Sub-Saharan Africa.",
+                  "category": "religious",
+                  "coords": [
+                        14.245746,
+                        -6.264636
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-ZAI",
     coords: [14.2415, -6.265],
@@ -379,7 +1000,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Construite en 1491, peu après l'arrivée de Diogo Cão.", "Première cathédrale au sud de l'équateur.", "Emblème du site historique de M'banza-Kongo, patrimoine mondial de l'UNESCO.", "Les ruines montrent la fusion des styles architecturaux européens et africains.", "Lieu de sépulture de nombreux rois (ManiKongo).", "Élevée au rang de cathédrale au XVIe siècle.", "Point central pour l'histoire du christianisme en Afrique.", "Aujourd'hui un sanctuaire national de la République d'Angola."],
     }, image: "/poi-images/sao-salvador-church-history-v2.webp"},
   {
-    id: "simulambuco-monument-history-v2",
+    id: "simulambuco-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baía de Cabinda",
+                  "text": "Die Baía de Cabinda ist eine breite Küstenbucht, die einen natürlichen Hafen entlang der Küste der Exklave Cabinda bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207327,
+                        -5.511895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baía de Cabinda",
+                  "text": "A Baía de Cabinda egy széles tengerparti öböl, amely természetes kikötőt biztosít a cabindai exklávé partvonala mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207327,
+                        -5.511895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baía de Cabinda",
+                  "text": "Baía de Cabinda este un golf de coastă larg care oferă un port natural de-a lungul țărmului exclavei Cabinda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207327,
+                        -5.511895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baía de Cabinda",
+                  "text": "Baía de Cabinda is a broad coastal bay that provides a natural harbor along the shoreline of the Cabinda exclave.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207327,
+                        -5.511895
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-CAB",
     coords: [12.1936, -5.5392],
@@ -522,7 +1188,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
 
   },
   {
-    id: "sao-francisco-penedo-history-v2",
+    id: "sao-francisco-penedo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Luanda Bucht",
+                  "text": "Die weitläufige, vom Atlantik geschützte Bucht von Luanda bildet den natürlichen Hafen der angolanischen Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.250488,
+                        -8.787315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baía de Luanda",
+                  "text": "A kiterjedt, az Atlanti-óceántól védett luandai öböl képezi az angolai főváros természetes kikötőjét.",
+                  "category": "landmark",
+                  "coords": [
+                        13.250488,
+                        -8.787315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baía de Luanda",
+                  "text": "Golful spațios Luanda, protejat de Oceanul Atlantic, formează portul natural al capitalei angoleze.",
+                  "category": "landmark",
+                  "coords": [
+                        13.250488,
+                        -8.787315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luanda Bay",
+                  "text": "The expansive Luanda Bay, sheltered from the Atlantic, forms the natural harbor of the Angolan capital.",
+                  "category": "landmark",
+                  "coords": [
+                        13.250488,
+                        -8.787315
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-LUA",
     coords: [13.25, -8.7833],
@@ -571,7 +1282,124 @@ export const poiExtraAngolaHistoryV2: POI[] = [
 
   },
   {
-    id: "baia-dos-tigres-ghost-town-history-v2",
+    id: "baia-dos-tigres-ghost-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fim das lagoas",
+                  "text": "Diese Küstenattraktion markiert das geografische Ende des sandigen Lagunensystems in der Nähe der Geisterstadt Baía dos Tigres.",
+                  "category": "landmark",
+                  "coords": [
+                        11.821884,
+                        -16.571159
+                  ]
+            },
+            {
+                  "name": "Início da Zona de Risco",
+                  "text": "Diese Attraktion markiert den Beginn der gefährlichen, wandernden Küstensande in der Nähe der Geisterstadt Baía dos Tigres.",
+                  "category": "landmark",
+                  "coords": [
+                        11.82287,
+                        -16.559768
+                  ]
+            },
+            {
+                  "name": "Perigo Vala",
+                  "text": "Dieser gefährliche Küstengraben unterstreicht das zerklüftete, unwirtliche Sandgelände rund um die Geisterstadt Baía dos Tigres.",
+                  "category": "landmark",
+                  "coords": [
+                        11.822166,
+                        -16.618619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fim das lagoas",
+                  "text": "Ez a tengerparti látványosság a homokos lagúnarendszer földrajzi végét jelzi a Baía dos Tigres szellemváros közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.821884,
+                        -16.571159
+                  ]
+            },
+            {
+                  "name": "Início da Zona de Risco",
+                  "text": "Ez a látványosság a veszélyes, változó parti homokdűnék kezdetét jelzi a Baía dos Tigres szellemváros közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.82287,
+                        -16.559768
+                  ]
+            },
+            {
+                  "name": "Perigo Vala",
+                  "text": "Ez a veszélyes tengerparti árok a zord, barátságtalan homokos terepet emeli ki a Baía dos Tigres szellemváros körül.",
+                  "category": "landmark",
+                  "coords": [
+                        11.822166,
+                        -16.618619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fim das lagoas",
+                  "text": "Această atracție de coastă marchează capătul geografic al sistemului de lagune de nisip din apropierea orașului fantomă Baía dos Tigres.",
+                  "category": "landmark",
+                  "coords": [
+                        11.821884,
+                        -16.571159
+                  ]
+            },
+            {
+                  "name": "Início da Zona de Risco",
+                  "text": "Această atracție marchează începutul nisipurilor de coastă mișcătoare periculoase din apropierea orașului fantomă Baía dos Tigres.",
+                  "category": "landmark",
+                  "coords": [
+                        11.82287,
+                        -16.559768
+                  ]
+            },
+            {
+                  "name": "Perigo Vala",
+                  "text": "Această atracție cu un șanț de coastă periculos evidențiază terenul nisipos accidentat și neprimitor din jurul orașului fantomă Baía dos Tigres.",
+                  "category": "landmark",
+                  "coords": [
+                        11.822166,
+                        -16.618619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fim das lagoas",
+                  "text": "This coastal attraction marks the geographical end of the sandy lagoon system near the Baía dos Tigres ghost town.",
+                  "category": "landmark",
+                  "coords": [
+                        11.821884,
+                        -16.571159
+                  ]
+            },
+            {
+                  "name": "Início da Zona de Risco",
+                  "text": "This attraction marks the beginning of the hazardous shifting coastal sands near the Baía dos Tigres ghost town.",
+                  "category": "landmark",
+                  "coords": [
+                        11.82287,
+                        -16.559768
+                  ]
+            },
+            {
+                  "name": "Perigo Vala",
+                  "text": "This perilous coastal ditch attraction highlights the rugged, inhospitable sandy terrain around the Baía dos Tigres ghost town.",
+                  "category": "landmark",
+                  "coords": [
+                        11.822166,
+                        -16.618619
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-NAM",
     coords: [11.8333, -16.6],
@@ -665,7 +1493,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Mémorial pour les victimes du massacre de Cassinga en 1978.", "Un lieu important pour les relations angolano-namibiennes.", "Le 4 mai est célébré en Namibie comme le jour de Cassinga.", "Situé dans une ancienne région minière à l'est de Huíla.", "Symbole de la souffrance de la population civile dans les conflits armés.", "Reconnu comme monument historique national.", "Point central pour le travail de paix et de réconciliation.", "Abrite des panneaux informatifs sur l'histoire des mouvements de libération."],
     }, image: "/poi-images/cassinga-monument-history-v2.webp"},
   {
-    id: "sao-pedro-barra-fort-history-v2",
+    id: "sao-pedro-barra-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Der Heilige Pedro da Barra",
+                  "text": "Die Fortaleza de Saint Pedro da Barra ist ein robustes historisches Steinkastell, das an der Küste liegt, um den maritimen Zugang zu bewachen.",
+                  "category": "fortress",
+                  "coords": [
+                        13.286184,
+                        -8.773355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza de São Pedro da Barra de Luanda",
+                  "text": "A Fortaleza de Saint Pedro da Barra egy masszív történelmi kőerőd a tengerpart mentén, amely a tengeri megközelítés őrzésére szolgált.",
+                  "category": "fortress",
+                  "coords": [
+                        13.286184,
+                        -8.773355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza de São Pedro da Barra de Luanda",
+                  "text": "Fortaleza de Saint Pedro da Barra este un fort istoric robust din piatră situat de-a lungul coastei pentru a păzi abordarea maritimă.",
+                  "category": "fortress",
+                  "coords": [
+                        13.286184,
+                        -8.773355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortaleza de Saint Pedro da Barra",
+                  "text": "Fortaleza de Saint Pedro da Barra is a sturdy historic stone fort situated along the coast to guard the maritime approach.",
+                  "category": "fortress",
+                  "coords": [
+                        13.286184,
+                        -8.773355
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-LUA",
     coords: [13.2797, -8.7753],
@@ -759,7 +1632,160 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Abrite certains des sites d'art rupestre les plus importants d'Afrique centrale.", "Les peintures remontent à la fin de l'âge de pierre.", "Les représentations incluent des scènes de chasse et des cérémonies rituelles.", "Lieu de recherche majeur pour les archéologues et les anthropologues.", "Élément central de la mémoire historique de l'Angola.", "Menacé par les intempéries et les activités humaines.", "Fait partie d'un réseau prévu pour le tourisme archéologique.", "Symbole de la continuité du peuplement humain sur les hauts plateaux."],
     }, image: "/poi-images/kwanza-sul-rock-art-history-v2.webp"},
   {
-    id: "cathedral-of-luanda-history-v2",
+    id: "cathedral-of-luanda-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Denkmal des Unbekannten Soldaten",
+                  "text": "Dieses feierliche öffentliche Denkmal ist eine dauerhafte Hommage an die unbekannten Soldaten, die in nationalen Konflikten ums Leben kamen.",
+                  "category": "historical",
+                  "coords": [
+                        13.230374,
+                        -8.811702
+                  ]
+            },
+            {
+                  "name": "Teatro Avenida",
+                  "text": "Dieser klassische Veranstaltungsort für darstellende Künste ist seit langem ein Zentrum für Theater- und Kinounterhaltung in der Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        13.226729,
+                        -8.81111
+                  ]
+            },
+            {
+                  "name": "Luanda Kathedrale",
+                  "text": "Diese historische katholische Kathedrale aus dem 17. Jahrhundert verfügt über markante geschwungene Giebel und ein ruhiges koloniales Interieur.",
+                  "category": "religious",
+                  "coords": [
+                        13.22973,
+                        -8.813741
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Nacional Luanda",
+                  "text": "Dieses historische Nationaltheater ist ein architektonisches Wahrzeichen, das über Jahrzehnte hinweg bedeutende kulturelle und filmische Ereignisse beherbergt hat.",
+                  "category": "cultural",
+                  "coords": [
+                        13.230292,
+                        -8.815427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento do Soldado Desconhecido",
+                  "text": "Ez az ünnepélyes köztéri emlékmű tartós tisztelettel adózik a nemzeti konfliktusokban elesett, azonosítatlan katonáknak.",
+                  "category": "historical",
+                  "coords": [
+                        13.230374,
+                        -8.811702
+                  ]
+            },
+            {
+                  "name": "Teatro Avenida",
+                  "text": "Ez a klasszikus előadóművészeti helyszín régóta a színházi és filmes szórakozás központja a fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.226729,
+                        -8.81111
+                  ]
+            },
+            {
+                  "name": "Sé Catedral-Paróquia dos Remédios",
+                  "text": "Ez a 17. században épült, történelmi katolikus katedrális jellegzetes ívelt oromzatokkal és békés, gyarmati stílusú belső térrel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        13.22973,
+                        -8.813741
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Nacional Luanda",
+                  "text": "Ez a történelmi nemzeti színház egy olyan építészeti mérföldkő, amely évtizedek óta ad otthont jelentős kulturális és filmes eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        13.230292,
+                        -8.815427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento do Soldado Desconhecido",
+                  "text": "Acest memorial public solemn aduce un omagiu de durată militarilor neidentificați care au pierit în conflictele naționale.",
+                  "category": "historical",
+                  "coords": [
+                        13.230374,
+                        -8.811702
+                  ]
+            },
+            {
+                  "name": "Teatro Avenida",
+                  "text": "Această locație clasică pentru artele spectacolului a fost mult timp o piesă centrală pentru divertismentul teatral și cinematografic din capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        13.226729,
+                        -8.81111
+                  ]
+            },
+            {
+                  "name": "Sé Catedral-Paróquia dos Remédios",
+                  "text": "Construită în secolul al XVII-lea, această catedrală catolică istorică prezintă frontoane curbate izbitoare și un interior colonial liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        13.22973,
+                        -8.813741
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Nacional Luanda",
+                  "text": "Acest teatru național istoric este un reper arhitectural care a găzduit decenii de evenimente culturale și cinematografice semnificative.",
+                  "category": "cultural",
+                  "coords": [
+                        13.230292,
+                        -8.815427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument of the Unknown Soldier",
+                  "text": "This solemn public memorial pays lasting tribute to the unidentified service members who perished in national conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        13.230374,
+                        -8.811702
+                  ]
+            },
+            {
+                  "name": "Teatro Avenida",
+                  "text": "This classic performing arts venue has long been a centerpiece for theatrical and cinematic entertainment in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        13.226729,
+                        -8.81111
+                  ]
+            },
+            {
+                  "name": "Luanda Cathedral",
+                  "text": "Built in the 17th century, this historic Catholic cathedral features striking curved pediments and a serene colonial interior.",
+                  "category": "religious",
+                  "coords": [
+                        13.22973,
+                        -8.813741
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Nacional Luanda",
+                  "text": "This historic national theater is an architectural landmark that has hosted decades of significant cultural and cinematic events.",
+                  "category": "cultural",
+                  "coords": [
+                        13.230292,
+                        -8.815427
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-LUA",
     coords: [13.2307, -8.8143],
@@ -853,7 +1879,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Fondé au XIXe siècle comme cimetière principal de Luanda.", "Abrite les tombes de nombreux signataires de la déclaration d'indépendance.", "Réputé pour son art funéraire sacré élaboré.", "Lieu important pour les recherches généalogiques et historiques.", "A été déclaré monument historique national.", "Offre une vue imprenable sur le quartier historique de Cidade Alta.", "Possède une chapelle importante de style néogothique.", "Un lieu de recueillement au cœur de la capitale dynamique."],
     }, image: "/poi-images/alto-das-cruzes-cemetery-history-v2.webp"},
   {
-    id: "mocamedes-historic-center-history-v2",
+    id: "mocamedes-historic-center-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL",
+                  "text": "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL ist ein funktionelles Kunst- und Ausbildungszentrum, das berufliche und technische Bildung anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        12.145736,
+                        -15.207209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL",
+                  "text": "Az INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL egy funkcionális művészeti és képzési központ, amely szakmai és technikai oktatást nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        12.145736,
+                        -15.207209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL",
+                  "text": "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL este un centru funcțional de arte și formare care oferă educație vocațională și tehnică.",
+                  "category": "cultural",
+                  "coords": [
+                        12.145736,
+                        -15.207209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL",
+                  "text": "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL is a functional arts and training centre providing vocational and technical education.",
+                  "category": "cultural",
+                  "coords": [
+                        12.145736,
+                        -15.207209
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-NAM",
     coords: [12.15, -15.2],
@@ -902,7 +1973,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
 
   },
   {
-    id: "kalandula-battle-site-history-v2",
+    id: "kalandula-battle-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "Der Parque das Quedas ist ein schattiger Picknickplatz in der Nähe der beeindruckenden Kalandula-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999365,
+                        -9.074234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "A Parque das Quedas egy árnyékos piknikezőhely a lenyűgöző Kalandula-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999365,
+                        -9.074234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "Parque das Quedas este un loc de picnic umbrit situat în apropierea impresionantelor cascade Kalandula.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999365,
+                        -9.074234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "Parque das Quedas is a shaded picnic site situated close to the impressive Kalandula Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999365,
+                        -9.074234
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-MAL",
     coords: [16.0, -9.0667],
@@ -1186,7 +2302,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Construit en 1905 pour sécuriser la frontière sur le Kubango.", "Lieu de violents combats pendant la Première Guerre mondiale (1914).", "L'un des monuments militaires les plus isolés d'Angola.", "Les ruines présentent des impacts de balles issus des combats historiques.", "Symbole important de la souveraineté nationale dans le sud-est.", "Déclaré patrimoine culturel national de la République d'Angola.", "Situé juste en face de la localité namibienne de Nkurenkuru.", "Offre une perspective unique sur l'histoire coloniale de la région."],
     }, image: "/poi-images/cuangar-fort-history-v2.webp"},
   {
-    id: "fort-rocadas-xangongo-history-v2",
+    id: "fort-rocadas-xangongo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "Diese große, alte Affenbrotbaum-Attraktion steht als markantes Naturdenkmal in der Nähe der historischen Stätte Fort Roçadas.",
+                  "category": "landmark",
+                  "coords": [
+                        15.002228,
+                        -16.688249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "Ez a nagy, ősi majomkenyérfa látványosság jellegzetes természeti nevezetességként áll a Fort Roçadas történelmi helyszíne közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.002228,
+                        -16.688249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "Această atracție cu un baobab mare și vechi este un reper natural distinctiv lângă situl istoric Fort Roçadas.",
+                  "category": "landmark",
+                  "coords": [
+                        15.002228,
+                        -16.688249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baobab Tree",
+                  "text": "This large, ancient baobab tree attraction stands as a distinctive natural landmark near the historical site of Fort Roçadas.",
+                  "category": "landmark",
+                  "coords": [
+                        15.002228,
+                        -16.688249
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-CNN",
     coords: [14.9667, -16.7333],
@@ -1280,7 +2441,52 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       fr: ["Commémore la construction de la ligne ferroviaire entre 1903 et 1929.", "Lobito était le point de départ maritime du parcours de plus de 1 300 km.", "La ligne a été largement initiée par Sir Robert Williams.", "Principale voie de transport pour le cuivre et le cobalt de la Copperbelt.", "Réhabilité après la guerre civile avec l'aide internationale.", "Situé à proximité immédiate de la gare historique de Lobito.", "Symbole de l'intégration économique de l'Afrique australe.", "Fait partie du patrimoine culturel de la province de Benguela."],
     }, image: "/poi-images/benguela-railway-monument-history-v2.webp"},
   {
-    id: "iron-palace-kuito-history-v2",
+    id: "iron-palace-kuito-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Largo da independência",
+                  "text": "Ein markanter öffentlicher Platz und Denkmalbereich in Kuito, der dem Unabhängigkeitskampf des Landes gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.939183,
+                        -12.384963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Largo da independência",
+                  "text": "Kiemelkedő központi tér és emlékmű Kuito városában, amelyet az ország függetlenségi küzdelmének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        16.939183,
+                        -12.384963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Largo da independência",
+                  "text": "O piață publică importantă și o zonă cu monumente în Kuito, dedicată luptei pentru independență a țării.",
+                  "category": "historical",
+                  "coords": [
+                        16.939183,
+                        -12.384963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Largo da independência",
+                  "text": "A prominent public square and monument area in Kuito dedicated to the country's struggle for independence.",
+                  "category": "historical",
+                  "coords": [
+                        16.939183,
+                        -12.384963
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AO-BIE",
     coords: [16.9333, -12.3833],

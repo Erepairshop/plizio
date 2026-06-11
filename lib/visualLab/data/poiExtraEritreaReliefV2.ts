@@ -186,7 +186,52 @@ export const poiExtraEritreaReliefV2: POI[] = [
     },
   },
   {
-    id: "eritra-rift-valley-relief-v2",
+    id: "eritra-rift-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old fort of Renda Kōma",
+                  "text": "Das alte Fort von Renda Kōma ist eine historische Verteidigungsanlage inmitten der markanten Landschaften des Afar-Dreiecks im Rift Valley.",
+                  "category": "fortress",
+                  "coords": [
+                        39.995871,
+                        14.450212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old fort of Renda Kōma",
+                  "text": "Renda Kōma régi erődje egy történelmi védelmi építmény, amely a Hasadékvölgy lenyűgöző tájain fekszik.",
+                  "category": "fortress",
+                  "coords": [
+                        39.995871,
+                        14.450212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old fort of Renda Kōma",
+                  "text": "Vechiul fort din Renda Kōma este o structură defensivă istorică situată în mijlocul peisajelor impresionante din Valea Marelui Rift.",
+                  "category": "fortress",
+                  "coords": [
+                        39.995871,
+                        14.450212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old fort of Renda Kōma",
+                  "text": "The Old fort of Renda Kōma is an ancient defensive structure situated amidst the striking landscapes of the Rift Valley.",
+                  "category": "fortress",
+                  "coords": [
+                        39.995871,
+                        14.450212
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ER-DK",
     coords: [40.0, 14.5],
@@ -616,7 +661,52 @@ export const poiExtraEritreaReliefV2: POI[] = [
     },
   },
   {
-    id: "gura-highland-relief-v2",
+    id: "gura-highland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chimney",
+                  "text": "Der Schornstein (Chimney) steht als markantes topographisches Wahrzeichen oder historisches Relikt, das sich deutlich aus dem hügeligen Gura-Hochland erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282991,
+                        14.921472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chimney",
+                  "text": "A Kémény kiemelkedő topográfiai nevezetességként vagy történelmi emlékként magasodik a dimbes-dombos Gura fennsíkból.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282991,
+                        14.921472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chimney",
+                  "text": "Coșul de fum stă ca un reper topografic proeminent sau o relicvă istorică, înălțându-se distinct din relieful deluros al zonei muntoase Gura.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282991,
+                        14.921472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimney",
+                  "text": "The Chimney stands as a prominent topographical landmark or historical relic rising distinctly from the rolling Gura highland terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282991,
+                        14.921472
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ER-MA",
     coords: [39.3, 15.0],

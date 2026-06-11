@@ -4183,7 +4183,7 @@ export const polandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Pieninen-Burg",
-                  "text": "Die Ruinen einer mittelalterlichen Burg in den Pieninen.",
+                  "text": "Burgruine unterhalb des Gipfels Trzy Korony in den Pieninen.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -4257,7 +4257,7 @@ export const polandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Zamek Pieniński",
-                  "text": "Középkori vár romjai a Pieninek-hegységben.",
+                  "text": "Várrom a Trzy Korony-csúcs alatt a Pieninekben.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -4331,7 +4331,7 @@ export const polandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Zamek Pieniński",
-                  "text": "Ruinele unui castel medieval situat în Munții Pieniny.",
+                  "text": "Ruinele castelului sub vârful Trzy Korony din Munții Pieniny.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -4405,7 +4405,7 @@ export const polandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Pieniny Castle",
-                  "text": "The ruins of a medieval castle in the Pieniny Mountains.",
+                  "text": "Castle ruins below the Trzy Korony peak in the Pieniny Mountains.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -5893,7 +5893,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Zamek Górka",
-                  "text": "Das Schloss Górka ist ein historisches Gebäude in Sobótka, das früher ein Kloster war.",
+                  "text": "Denkmalgeschützte Burg Górka auf dem Berg Ślęża.",
                   "category": "castle",
                   "coords": [
                         16.708203,
@@ -5976,7 +5976,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Zamek Górka",
-                  "text": "A Górka-kastély egy történelmi épület Sobótkában, amely korábban kolostor volt.",
+                  "text": "Műemlék Górka-vár a Ślęża-hegyen.",
                   "category": "castle",
                   "coords": [
                         16.708203,
@@ -6059,7 +6059,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Zamek Górka",
-                  "text": "Castelul Górka este o clădire istorică din Sobótka, care a fost anterior o mănăstire.",
+                  "text": "Castelul Górka, monument istoric, pe Muntele Ślęża.",
                   "category": "castle",
                   "coords": [
                         16.708203,
@@ -6142,7 +6142,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Zamek Górka",
-                  "text": "Górka Castle is a historic building in Sobótka that was formerly a monastery.",
+                  "text": "Heritage-listed Górka Castle on Mount Ślęża.",
                   "category": "castle",
                   "coords": [
                         16.708203,

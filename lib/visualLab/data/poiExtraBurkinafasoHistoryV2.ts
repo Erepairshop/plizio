@@ -38,7 +38,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       fr: ["Premier site de l'UNESCO du pays", "Construit probablement au XIe siècle", "Forteresse aux murs de pierre", "Station importante du commerce transsaharien de l'or", "Région de la culture Lobi au sud-ouest", "Site archéologique majeur"],
     }, image: "/poi-images/ruines-de-loropeni-history-v2.webp"},
   {
-    id: "bobo-dioulasso-grand-mosque-history-v2",
+    id: "bobo-dioulasso-grand-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daouda",
+                  "text": "Dieser Aussichtspunkt bietet eine einzigartige Perspektive zur Betrachtung der architektonischen Details der historischen Großen Moschee von Bobo-Dioulasso.",
+                  "category": "natural",
+                  "coords": [
+                        -4.292943,
+                        11.175623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daouda",
+                  "text": "Ez a kilátó egyedülálló kilátást nyújt Bobo-Dioulasso történelmi Nagymecsetjének építészeti részleteire.",
+                  "category": "natural",
+                  "coords": [
+                        -4.292943,
+                        11.175623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daouda",
+                  "text": "Acest punct de belvedere oferă o perspectivă unică pentru a observa detaliile arhitecturale ale Marii Mochei istorice din Bobo-Dioulasso.",
+                  "category": "natural",
+                  "coords": [
+                        -4.292943,
+                        11.175623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daouda",
+                  "text": "This viewpoint offers a unique vantage point observing the architectural details of Bobo-Dioulasso's historic Grand Mosque.",
+                  "category": "natural",
+                  "coords": [
+                        -4.292943,
+                        11.175623
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-09",
     coords: [-4.2961, 11.1772],
@@ -73,7 +118,88 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       fr: ["Construite en 1893", "Exemple d'architecture soudano-sahélienne", "Contreforts en terre caractéristiques", "Symbole de la propagation de l'Islam au Burkina Faso", "Centre de la tradition religieuse à Sya", "Monument historique important"],
     }, image: "/poi-images/bobo-dioulasso-grand-mosque-history-v2.webp"},
   {
-    id: "cour-royale-tiebele-history-v2",
+    id: "cour-royale-tiebele-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "tiebelé",
+                  "text": "Eine traditionelle königliche Schlossanlage, die charakteristisch für die Architektur des Kassena-Volkes in Tiébélé ist.",
+                  "category": "castle",
+                  "coords": [
+                        -0.969243,
+                        11.095245
+                  ]
+            },
+            {
+                  "name": "Nakongo",
+                  "text": "Eine lokale kulturelle Attraktion in der Nähe des historischen Königshofs von Tiébélé.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.9617,
+                        11.089265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tiebelé",
+                  "text": "A Kassena nép építészetére jellemző hagyományos királyi kastélyszerkezet Tiébélében.",
+                  "category": "castle",
+                  "coords": [
+                        -0.969243,
+                        11.095245
+                  ]
+            },
+            {
+                  "name": "Nakongo",
+                  "text": "Helyi kulturális látványosság a történelmi tiébéléi királyi udvar közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.9617,
+                        11.089265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tiebelé",
+                  "text": "O structură tradițională de castel regal, caracteristică arhitecturii poporului Kassena din Tiébélé.",
+                  "category": "castle",
+                  "coords": [
+                        -0.969243,
+                        11.095245
+                  ]
+            },
+            {
+                  "name": "Nakongo",
+                  "text": "O atracție culturală locală situată în apropierea curții regale istorice din Tiébélé.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.9617,
+                        11.089265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tiebelé",
+                  "text": "A traditional royal castle structure characteristic of the Kassena people's architecture in Tiébélé.",
+                  "category": "castle",
+                  "coords": [
+                        -0.969243,
+                        11.095245
+                  ]
+            },
+            {
+                  "name": "Nakongo",
+                  "text": "A local cultural attraction situated near the historic royal court of Tiébélé.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.9617,
+                        11.089265
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-05",
     coords: [-0.9633, 11.0967],
@@ -108,7 +234,160 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       fr: ["Résidence traditionnelle des rois Kassena", "Façades en terre richement peintes", "Symbole culturel de la région de Nahouri", "Héritage architectural unique", "Les décorations portent une symbolique sociale", "Attraction touristique pour les amateurs de culture"],
     }, image: "/poi-images/cour-royale-tiebele-history-v2.webp"},
   {
-    id: "palais-du-moro-naba-history-v2",
+    id: "palais-du-moro-naba-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place du 2 Octobre",
+                  "text": "Dieser öffentliche Gedenkplatz verfügt über gepflasterte Wege und Denkmäler, die an die historische politische Bedeutung des 2. Oktober erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53097,
+                        12.367921
+                  ]
+            },
+            {
+                  "name": "Place des Cineastes",
+                  "text": "Dieser den afrikanischen Filmemachern gewidmete Platz besticht durch ein hoch aufragendes, abstraktes Metalldenkmal, das ineinandergreifenden Filmrollen und Linsen nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.527527,
+                        12.368534
+                  ]
+            },
+            {
+                  "name": "Palais Du Baloum Naba",
+                  "text": "Dieses von traditioneller Mossi-Architektur geprägte Anwesen ist die offizielle Residenz des Baloum Naba, dem traditionellen Sprecher des königlichen Hofes.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.530077,
+                        12.365751
+                  ]
+            },
+            {
+                  "name": "Institut Français Georges Meliès",
+                  "text": "Dieses lebendige Kultur- und Kunstzentrum beherbergt eine Freilichtbühne, einen Kinosaal und eine gut sortierte Bibliothek zur Förderung der frankophonen Literatur.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.527314,
+                        12.370189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place du 2 Octobre",
+                  "text": "Ezen az emlékpark jellegű köztéren kövezett sétányok és emlékművek jelzik október 2-a történelmi politikai jelentőségét.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53097,
+                        12.367921
+                  ]
+            },
+            {
+                  "name": "Place des Cineastes",
+                  "text": "Az afrikai filmeseknek szentelt teret egy magasodó, absztrakt fém emlékmű díszíti, amely egymásba fonódó filmtekercseket és lencséket ábrázol.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.527527,
+                        12.368534
+                  ]
+            },
+            {
+                  "name": "Palais Du Baloum Naba",
+                  "text": "A hagyományos mosszi építészettel büszkélkedő épületegyüttes a Baloum Naba, a királyi udvar hagyományos szóvivőjének hivatalos rezidenciája.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.530077,
+                        12.365751
+                  ]
+            },
+            {
+                  "name": "Institut Français Georges Meliès",
+                  "text": "Ez a nyüzsgő kulturális és művészeti központ szabadtéri színpaddal, moziteremmel és a frankofón irodalmat népszerűsítő, jól felszerelt könyvtárral várja a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.527314,
+                        12.370189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place du 2 Octobre",
+                  "text": "Această piață publică comemorativă prezintă alei pavate și monumente care marchează semnificația politică istorică a datei de 2 octombrie.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53097,
+                        12.367921
+                  ]
+            },
+            {
+                  "name": "Place des Cineastes",
+                  "text": "Dedicată cineaștilor africani, această piață se mândrește cu un monument de metal abstract și falnic, construit pentru a semăna cu role de film și lentile interconectate.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.527527,
+                        12.368534
+                  ]
+            },
+            {
+                  "name": "Palais Du Baloum Naba",
+                  "text": "Având o arhitectură tradițională Mossi, acest complex este reședința oficială a lui Baloum Naba, purtătorul de cuvânt tradițional al curții regale.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.530077,
+                        12.365751
+                  ]
+            },
+            {
+                  "name": "Institut Français Georges Meliès",
+                  "text": "Acest centru cultural de arte vibrant găzduiește o scenă în aer liber, un spațiu de cinema și o bibliotecă bine dotată care promovează literatura francofonă.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.527314,
+                        12.370189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place du 2 Octobre",
+                  "text": "This commemorative public square features paved walkways and monuments marking the historic political significance of October 2nd.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53097,
+                        12.367921
+                  ]
+            },
+            {
+                  "name": "Place des Cineastes",
+                  "text": "Dedicated to African filmmakers, this square boasts a towering, abstract metal monument constructed to resemble interlocking film reels and lenses.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.527527,
+                        12.368534
+                  ]
+            },
+            {
+                  "name": "Palais Du Baloum Naba",
+                  "text": "Featuring traditional Mossi architecture, this compound is the official residence of the Baloum Naba, the traditional spokesperson for the royal court.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.530077,
+                        12.365751
+                  ]
+            },
+            {
+                  "name": "Institut Français Georges Meliès",
+                  "text": "This vibrant cultural arts center hosts an open-air stage, a cinema space, and a well-stocked library promoting Francophone literature.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.527314,
+                        12.370189
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-03",
     coords: [-1.5333, 12.3686],
@@ -178,7 +457,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       fr: ["Zone de protection naturelle contre les attaques", "Formations rocheuses de grès bizarres", "Refuge historique important", "Région des Cascades au sud-ouest", "Paysage géologique unique", "Symbole de la résistance des communautés locales"],
     }, image: "/poi-images/sindou-peaks-refuge-history-v2.webp"},
   {
-    id: "koro-village-rocks-history-v2",
+    id: "koro-village-rocks-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koro",
+                  "text": "Ein altes Dorf, das auf Granitfelsen thront und einen Einblick in die Geschichte der Region Koro bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.198707,
+                        11.144389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koro",
+                  "text": "Egy gránitsziklákon fekvő ősi falu, amely bepillantást enged a koro-i régió történelmébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.198707,
+                        11.144389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koro",
+                  "text": "Un sat antic cocoțat pe stânci de granit, oferind o privire în istoria regiunii Koro.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.198707,
+                        11.144389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koro",
+                  "text": "An ancient village perched on granite rocks, offering a glimpse into the history of the Koro region.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.198707,
+                        11.144389
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-09",
     coords: [-4.2167, 11.1667],
@@ -213,7 +537,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       fr: ["Village traditionnel en paysage rocheux", "Construction adaptée aux formations rocheuses", "Exemple d'habitat historique", "Patrimoine culturel de la région Plateau-Central", "Observation de l'architecture traditionnelle", "Aperçu de la vie en terrain difficile"],
     }, image: "/poi-images/koro-village-rocks-history-v2.webp"},
   {
-    id: "ouahigouya-naaba-palace-history-v2",
+    id: "ouahigouya-naaba-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolé Naba Kango",
+                  "text": "Dieses traditionelle Bauwerk markiert die historische Grabstätte des einflussreichen Yatenga-Königs Naaba Kango.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.417761,
+                        13.581722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolé Naba Kango",
+                  "text": "Ez a hagyományos építmény a befolyásos Yatenga király, Naaba Kango történelmi temetkezési helyét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.417761,
+                        13.581722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolé Naba Kango",
+                  "text": "Această structură tradițională marchează locul de înmormântare istoric al influentului rege de Yatenga, Naaba Kango.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.417761,
+                        13.581722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausolé Naba Kango",
+                  "text": "This traditional structure marks the historic burial site of the influential Yatenga king, Naaba Kango.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.417761,
+                        13.581722
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-10",
     coords: [-2.4167, 13.5833],
@@ -318,7 +687,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       fr: ["Gravures rupestres préhistoriques", "Témoins du peuplement humain ancien au Sahel", "Découverte archéologique importante", "Patrimoine culturel de la région de Soum", "Représentations de l'époque primitive", "Indice de conditions climatiques antérieures"],
     }, image: "/poi-images/arbinda-petroglyphs-history-v2.webp"},
   {
-    id: "pobe-mengao-rock-art-history-v2",
+    id: "pobe-mengao-rock-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée archéologique",
+                  "text": "Das Museum zeigt eine Reihe ausgegrabener Gegenstände, die die prähistorischen und historischen Epochen der Region abbilden.",
+                  "category": "museum",
+                  "coords": [
+                        -1.760615,
+                        13.9012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée archéologique",
+                  "text": "A múzeum egy sor feltárt tárgyat mutat be, amelyek feltérképezik a terület őskori és történelmi idővonalait.",
+                  "category": "museum",
+                  "coords": [
+                        -1.760615,
+                        13.9012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée archéologique",
+                  "text": "Muzeul expune o serie de obiecte excavate care trasează cronologia preistorică și istorică a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -1.760615,
+                        13.9012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée archéologique",
+                  "text": "The museum showcases a range of excavated items that map the prehistoric and historical timelines of the area.",
+                  "category": "museum",
+                  "coords": [
+                        -1.760615,
+                        13.9012
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-12",
     coords: [-1.75, 13.8833],
@@ -353,7 +767,88 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       fr: ["Gravures et peintures rupestres importantes", "Patrimoine culturel de la région Nord", "Objet de recherche sur les structures sociales", "Documentation des premiers modes de vie", "Site archéologique majeur", "Contribution à la compréhension de l'histoire ancienne"],
     }, image: "/poi-images/pobe-mengao-rock-art-history-v2.webp"},
   {
-    id: "dori-old-mosque-history-v2",
+    id: "dori-old-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point Arba DIALLO",
+                  "text": "Ein bekannter Kreisverkehr in Dori, benannt nach dem berühmten burkinischen Politiker Arba Diallo.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.035278,
+                        14.032703
+                  ]
+            },
+            {
+                  "name": "Place de la nation de Dori",
+                  "text": "Der zentrale öffentliche Platz, der als Haupttreffpunkt für bürgerliche Veranstaltungen in Dori dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.062163,
+                        14.040515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point Arba DIALLO",
+                  "text": "Egy kiemelkedő körforgalom Doriban, amelyet a híres burkinabè politikus, Arba Diallo tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.035278,
+                        14.032703
+                  ]
+            },
+            {
+                  "name": "Place de la nation de Dori",
+                  "text": "Dori központi köztere, amely a városi rendezvények elsődleges találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.062163,
+                        14.040515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point Arba DIALLO",
+                  "text": "Un sens giratoriu proeminent din Dori, denumit în onoarea renumitului politician burkinez Arba Diallo.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.035278,
+                        14.032703
+                  ]
+            },
+            {
+                  "name": "Place de la nation de Dori",
+                  "text": "Piața publică centrală care servește ca principal loc de adunare pentru evenimentele civice din Dori.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.062163,
+                        14.040515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point Arba DIALLO",
+                  "text": "A prominent traffic circle named in honor of the renowned Burkinabè politician, Arba Diallo, in Dori.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.035278,
+                        14.032703
+                  ]
+            },
+            {
+                  "name": "Place de la nation de Dori",
+                  "text": "The central public square serving as a primary gathering place for civic events in Dori.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.062163,
+                        14.040515
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-12",
     coords: [-0.0333, 14.0333],
@@ -497,7 +992,88 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "ouagadougou-cathedral-history-v2",
+    id: "ouagadougou-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Murenduit",
+                  "text": "Dieser verputzte Aussichtspunkt bietet Besuchern eine erhöhte Perspektive über das umliegende historische Kathedralenviertel.",
+                  "category": "natural",
+                  "coords": [
+                        -1.523854,
+                        12.36218
+                  ]
+            },
+            {
+                  "name": "Cathédrale de l'Immaculée-Conception",
+                  "text": "Diese massive Basilika im romanischen Stil wurde in den 1930er Jahren größtenteils aus Lehmziegeln erbaut und dominiert das Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        -1.527019,
+                        12.361966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murenduit",
+                  "text": "Ez a vakolt kilátópont emelt perspektívát kínál a látogatóknak a környező történelmi katedrálisnegyedre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.523854,
+                        12.36218
+                  ]
+            },
+            {
+                  "name": "Cathédrale de l'Immaculée-Conception",
+                  "text": "Az 1930-as években nagyrészt vályogtéglából épült hatalmas, román stílusú bazilika uralja a városközpontot.",
+                  "category": "religious",
+                  "coords": [
+                        -1.527019,
+                        12.361966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Murenduit",
+                  "text": "Acest punct de belvedere tencuit oferă vizitatorilor o perspectivă la înălțime asupra cartierului istoric al catedralei din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -1.523854,
+                        12.36218
+                  ]
+            },
+            {
+                  "name": "Cathédrale de l'Immaculée-Conception",
+                  "text": "Construită în mare parte din cărămidă de noroi în anii 1930, această bazilică masivă în stil romanic domină centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -1.527019,
+                        12.361966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murenduit",
+                  "text": "This plastered vantage point offers visitors an elevated perspective over the surrounding historic cathedral district.",
+                  "category": "natural",
+                  "coords": [
+                        -1.523854,
+                        12.36218
+                  ]
+            },
+            {
+                  "name": "Ouagadougou Cathedral",
+                  "text": "Constructed largely from mud brick in the 1930s, this massive Romanesque-style basilica dominates the city center.",
+                  "category": "religious",
+                  "coords": [
+                        -1.527019,
+                        12.361966
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-03",
     coords: [-1.5269, 12.3619],
@@ -533,7 +1109,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "gaoua-poni-museum-history-v2",
+    id: "gaoua-poni-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Civilisations du Sud-Ouest",
+                  "text": "Das Musée des Civilisations du Sud-Ouest in Gaoua zeigt die kulturellen Artefakte des südwestlichen Burkina Faso.",
+                  "category": "museum",
+                  "coords": [
+                        -3.178233,
+                        10.3333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Civilisations du Sud-Ouest",
+                  "text": "A gaouai Délnyugati Civilizációk Múzeuma Délnyugat-Burkina Faso kulturális leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -3.178233,
+                        10.3333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Civilisations du Sud-Ouest",
+                  "text": "Muzeul Civilizațiilor din Sud-Vest din Gaoua expune artefactele culturale din sud-vestul Burkinei Faso.",
+                  "category": "museum",
+                  "coords": [
+                        -3.178233,
+                        10.3333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Civilisations du Sud-Ouest",
+                  "text": "The Musée des Civilisations du Sud-Ouest in Gaoua displays the cultural artifacts of southwestern Burkina Faso.",
+                  "category": "museum",
+                  "coords": [
+                        -3.178233,
+                        10.3333
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-13",
     coords: [-3.1833, 10.3333],
@@ -605,7 +1226,88 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "kaya-leather-quarter-history-v2",
+    id: "kaya-leather-quarter-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond point Naba Oubri",
+                  "text": "Ein Kreisverkehrsdenkmal im historischen Lederviertel von Kaya.",
+                  "category": "historical",
+                  "coords": [
+                        -1.084757,
+                        13.086402
+                  ]
+            },
+            {
+                  "name": "Monument du 11 Décembre",
+                  "text": "Ein Denkmal im Lederviertel von Kaya, das an den Nationalfeiertag am 11. Dezember erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -1.08592,
+                        13.078679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond point Naba Oubri",
+                  "text": "Egy körforgalom-emlékmű, amely Kaya történelmi bőrműves negyedében található.",
+                  "category": "historical",
+                  "coords": [
+                        -1.084757,
+                        13.086402
+                  ]
+            },
+            {
+                  "name": "Monument du 11 Décembre",
+                  "text": "Egy emlékmű Kaya bőrműves negyedében, amely a december 11-i nemzeti ünnepnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -1.08592,
+                        13.078679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond point Naba Oubri",
+                  "text": "Un monument de sens giratoriu situat în cartierul istoric de pielărie din Kaya.",
+                  "category": "historical",
+                  "coords": [
+                        -1.084757,
+                        13.086402
+                  ]
+            },
+            {
+                  "name": "Monument du 11 Décembre",
+                  "text": "Un monument în cartierul de pielărie din Kaya, care comemorează ziua națională de 11 decembrie.",
+                  "category": "historical",
+                  "coords": [
+                        -1.08592,
+                        13.078679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond point Naba Oubri",
+                  "text": "A roundabout monument located within the historic Kaya leather quarter.",
+                  "category": "historical",
+                  "coords": [
+                        -1.084757,
+                        13.086402
+                  ]
+            },
+            {
+                  "name": "Monument du 11 Décembre",
+                  "text": "A monument in the Kaya leather quarter commemorating the national day of December 11th.",
+                  "category": "historical",
+                  "coords": [
+                        -1.08592,
+                        13.078679
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-05",
     coords: [-1.0833, 13.0833],
@@ -677,7 +1379,160 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "bobo-dioulasso-old-station-history-v2",
+    id: "bobo-dioulasso-old-station-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siège de la Semaine Nationale de la Culture (SNC)",
+                  "text": "Dieses Kunstzentrum fungiert als Hauptsitz für die Organisation der großen nationalen Kulturwochen-Festivals in Burkina Faso.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.321794,
+                        11.188338
+                  ]
+            },
+            {
+                  "name": "ASPAC Musée de la Musique d'hier et aujourd'hui",
+                  "text": "In der Nähe des alten Bahnhofs gelegen, zeigt dieses Museum eine faszinierende Sammlung traditioneller und moderner Musikinstrumente.",
+                  "category": "museum",
+                  "coords": [
+                        -4.322522,
+                        11.189773
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Djelya",
+                  "text": "Dieses Kunstzentrum widmet sich der Bewahrung der reichen mündlichen Überlieferungen und musikalischen Traditionen der lokalen Djeli (Griots).",
+                  "category": "cultural",
+                  "coords": [
+                        -4.303212,
+                        11.184991
+                  ]
+            },
+            {
+                  "name": "Association Maison de la parole",
+                  "text": "Ein Kunstzentrum in Bobo-Dioulasso, das sich auf Geschichtenerzählen, gesprochenes Wort und traditionelle westafrikanische Dialoge konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.311164,
+                        11.189424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siège de la Semaine Nationale de la Culture (SNC)",
+                  "text": "Ez a művészeti központ Burkina Faso nagyszabású Nemzeti Kulturális Hete fesztiváljainak szervezési központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.321794,
+                        11.188338
+                  ]
+            },
+            {
+                  "name": "ASPAC Musée de la Musique d'hier et aujourd'hui",
+                  "text": "A régi állomás közelében található múzeum a hagyományos és modern hangszerek lenyűgöző gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -4.322522,
+                        11.189773
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Djelya",
+                  "text": "Ezt a művészeti központot a helyi Djeli (griotok) gazdag szóbeli történeteinek és zenei hagyományainak megőrzésének szentelték.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.303212,
+                        11.184991
+                  ]
+            },
+            {
+                  "name": "Association Maison de la parole",
+                  "text": "Egy művészeti központ Bobo-Dioulassóban, amely a történetmesélésre, a költészetre és a hagyományos nyugat-afrikai párbeszédre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.311164,
+                        11.189424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siège de la Semaine Nationale de la Culture (SNC)",
+                  "text": "Acest centru de arte funcționează ca sediu pentru organizarea marilor festivaluri ale Săptămânii Naționale a Culturii din Burkina Faso.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.321794,
+                        11.188338
+                  ]
+            },
+            {
+                  "name": "ASPAC Musée de la Musique d'hier et aujourd'hui",
+                  "text": "Situat lângă vechea gară, acest muzeu expune o colecție fascinantă de instrumente muzicale tradiționale și moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -4.322522,
+                        11.189773
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Djelya",
+                  "text": "Acest centru de arte este dedicat păstrării bogatei istorii orale și a tradițiilor muzicale ale localnicilor Djeli (grioți).",
+                  "category": "cultural",
+                  "coords": [
+                        -4.303212,
+                        11.184991
+                  ]
+            },
+            {
+                  "name": "Association Maison de la parole",
+                  "text": "Un centru de arte din Bobo-Dioulasso axat pe povestiri, poezie și dialogul tradițional vest-african.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.311164,
+                        11.189424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siège de la Semaine Nationale de la Culture (SNC)",
+                  "text": "This arts center functions as the headquarters for organizing Burkina Faso's major National Culture Week festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.321794,
+                        11.188338
+                  ]
+            },
+            {
+                  "name": "ASPAC Musée de la Musique d'hier et aujourd'hui",
+                  "text": "Located near the old station, this museum exhibits a fascinating collection of traditional and modern musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -4.322522,
+                        11.189773
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Djelya",
+                  "text": "This arts center is dedicated to preserving the rich oral histories and musical traditions of the local Djeli (griots).",
+                  "category": "cultural",
+                  "coords": [
+                        -4.303212,
+                        11.184991
+                  ]
+            },
+            {
+                  "name": "Association Maison de la parole",
+                  "text": "An arts center in Bobo-Dioulasso focused on storytelling, spoken word, and traditional West African dialogue.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.311164,
+                        11.189424
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-09",
     coords: [-4.3, 11.1833],
@@ -749,7 +1604,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "ziniare-naaba-palace-history-v2",
+    id: "ziniare-naaba-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Animalier de Ziniaré",
+                  "text": "Dieser zoologische Park bietet die Möglichkeit, in Ziniaré Wildtiere zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.280734,
+                        12.602522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Animalier de Ziniaré",
+                  "text": "Ez a zoológiai park lehetőséget nyújt a vadvilág megfigyelésére Ziniaréban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.280734,
+                        12.602522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Animalier de Ziniaré",
+                  "text": "Acest parc zoologic oferă oportunități de observare a faunei sălbatice în Ziniaré.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.280734,
+                        12.602522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Animalier de Ziniaré",
+                  "text": "This zoological park provides wildlife viewing opportunities in the city of Ziniaré.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.280734,
+                        12.602522
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-11",
     coords: [-1.2989, 12.5833],
@@ -785,7 +1685,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "boromo-old-town-history-v2",
+    id: "boromo-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foret des deux balés",
+                  "text": "Ein geschütztes Waldgebiet nahe der Altstadt von Boromo, das einen natürlichen Zufluchtsort im Wald bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.896977,
+                        11.687273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foret des deux balés",
+                  "text": "A Boromo óvárosa közelében fekvő védett erdőterület természetes erdei menedéket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.896977,
+                        11.687273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foret des deux balés",
+                  "text": "O zonă împădurită protejată lângă orașul vechi Boromo, oferind o evadare naturală în pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.896977,
+                        11.687273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foret des deux balés",
+                  "text": "A protected woodland area near the old town of Boromo, offering a natural forest escape.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.896977,
+                        11.687273
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-01",
     coords: [-2.9333, 11.75],
@@ -965,7 +1910,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "fada-ngourma-palace-history-v2",
+    id: "fada-ngourma-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Colline sacrée",
+                  "text": "Die Colline sacrée ist ein unberührter heiliger Hügel, der einen erhöhten Aussichtspunkt über das historische Zentrum von Fada N'Gourma bietet.",
+                  "category": "natural",
+                  "coords": [
+                        0.341561,
+                        12.095292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colline sacrée",
+                  "text": "A Colline sacrée egy érintetlen szent domb, amely magaslati kilátást nyújt Fada N'Gourma történelmi központjára.",
+                  "category": "natural",
+                  "coords": [
+                        0.341561,
+                        12.095292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colline sacrée",
+                  "text": "Colline sacrée este un deal sacru neatins care oferă un punct de belvedere ridicat asupra centrului istoric din Fada N'Gourma.",
+                  "category": "natural",
+                  "coords": [
+                        0.341561,
+                        12.095292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colline sacrée",
+                  "text": "The Colline sacrée is an untouched sacred hill offering an elevated viewpoint over the historic heart of Fada N'Gourma.",
+                  "category": "natural",
+                  "coords": [
+                        0.341561,
+                        12.095292
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-04",
     coords: [0.35, 12.0667],
@@ -1001,7 +1991,52 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "tangrela-historical-village-history-v2",
+    id: "tangrela-historical-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lac de Tengrela",
+                  "text": "Dieser malerische See in der Nähe des historischen Dorfes Tangrela ist berühmt für seine Flusspferdherden.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.837366,
+                        10.647481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lac de Tengrela",
+                  "text": "Ez a Tangrela történelmi faluja közelében fekvő festői tó híres a vízilócsordáiról.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.837366,
+                        10.647481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lac de Tengrela",
+                  "text": "Acest lac pitoresc de lângă satul istoric Tangrela este renumit pentru turmele sale de hipopotami.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.837366,
+                        10.647481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lac de Tengrela",
+                  "text": "This scenic lake near the historic village of Tangrela is famously home to pods of hippopotamuses.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.837366,
+                        10.647481
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-02",
     coords: [-4.8333, 10.6333],
@@ -1037,7 +2072,88 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     },
   },
   {
-    id: "sindou-historical-forges-history-v2",
+    id: "sindou-historical-forges-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cavernes",
+                  "text": "Diese natürlichen Felsenhöhlen befinden sich in der Nähe der historischen Eisenschmieden von Sindou.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075885,
+                        10.646279
+                  ]
+            },
+            {
+                  "name": "Sindou Pics",
+                  "text": "Das Reservat zeigt eine markante Kette von skulpturalen Sandsteinformationen, die von Wind und Wasser geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        -5.154042,
+                        10.657938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cavernes",
+                  "text": "Ezek a természetes sziklabarlangok Sindou történelmi vaskohói közelében találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075885,
+                        10.646279
+                  ]
+            },
+            {
+                  "name": "Sindou Pics",
+                  "text": "A rezervátum a szél és a víz által formált, szoborszerű homokkő képződmények lenyűgöző láncolatát mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        -5.154042,
+                        10.657938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cavernes",
+                  "text": "Aceste caverne naturale de stâncă sunt situate în apropierea forjelor istorice de topire a fierului din Sindou.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075885,
+                        10.646279
+                  ]
+            },
+            {
+                  "name": "Sindou Pics",
+                  "text": "Rezervația expune un lanț uimitor de formațiuni din gresie sculptate, modelate de vânt și apă.",
+                  "category": "natural",
+                  "coords": [
+                        -5.154042,
+                        10.657938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cavernes",
+                  "text": "These natural rock caverns are located near the historical iron-smelting forges of Sindou.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075885,
+                        10.646279
+                  ]
+            },
+            {
+                  "name": "Sindou Pics",
+                  "text": "The reserve showcases a striking chain of sculpted sandstone formations shaped by wind and water.",
+                  "category": "natural",
+                  "coords": [
+                        -5.154042,
+                        10.657938
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BF-02",
     coords: [-5.15, 10.6667],

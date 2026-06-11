@@ -205,7 +205,52 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
     }
   },
   {
-    id: "joao-vieira-voegel-life-v2",
+    id: "joao-vieira-voegel-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilha de Aweto",
+                  "text": "Diese Inselattraktion bietet Besuchern eine unberührte, vom Wasser umgebene Küstenumgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656689,
+                        10.963551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilha de Aweto",
+                  "text": "Ez a szigeti látványosság érintetlen, vízzel körülvett tengerparti környezetet kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656689,
+                        10.963551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilha de Aweto",
+                  "text": "Această atracție insulară oferă vizitatorilor un mediu de coastă curat, înconjurat de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656689,
+                        10.963551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilha de Aweto",
+                  "text": "This island attraction offers visitors a pristine coastal environment surrounded by water.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656689,
+                        10.963551
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GW-BL",
     coords: [-15.63, 11.02],
@@ -1094,7 +1139,124 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
     }
   },
   {
-    id: "praca-herois-spielplatz-life-v2",
+    id: "praca-herois-spielplatz-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Restaurante Pelicano",
+                  "text": "Die verbliebenen baulichen Ruinen eines einst bekannten lokalen Restaurants.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578041,
+                        11.859021
+                  ]
+            },
+            {
+                  "name": "Baluarte da Onça",
+                  "text": "Die historischen defensiven Bastionsüberreste einer alten kolonialen Küstenbefestigung.",
+                  "category": "castle",
+                  "coords": [
+                        -15.579006,
+                        11.861326
+                  ]
+            },
+            {
+                  "name": "Augusto d'Oliveira",
+                  "text": "Die verwitterten baulichen Überreste eines historischen Anwesens oder bedeutenden lokalen Gebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580454,
+                        11.860268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Restaurante Pelicano",
+                  "text": "Egy egykor kiemelkedő helyi étterem megmaradt szerkezeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578041,
+                        11.859021
+                  ]
+            },
+            {
+                  "name": "Baluarte da Onça",
+                  "text": "Egy régi gyarmati part menti erődítmény történelmi védelmi bástyájának maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        -15.579006,
+                        11.861326
+                  ]
+            },
+            {
+                  "name": "Augusto d'Oliveira",
+                  "text": "Egy történelmi birtok vagy jelentős helyi épület viharvert szerkezeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580454,
+                        11.860268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Restaurante Pelicano",
+                  "text": "Ruinele structurale rămase a ceea ce a fost odată un restaurant local proeminent.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578041,
+                        11.859021
+                  ]
+            },
+            {
+                  "name": "Baluarte da Onça",
+                  "text": "Rămășițele istorice ale unui bastion defensiv dintr-o veche fortificație de coastă colonială.",
+                  "category": "castle",
+                  "coords": [
+                        -15.579006,
+                        11.861326
+                  ]
+            },
+            {
+                  "name": "Augusto d'Oliveira",
+                  "text": "Rămășițele structurale erodate ale unei proprietăți istorice sau ale unei clădiri locale semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580454,
+                        11.860268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Restaurante Pelicano",
+                  "text": "The remaining structural ruins of what was once a prominent local dining establishment.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578041,
+                        11.859021
+                  ]
+            },
+            {
+                  "name": "Baluarte da Onça",
+                  "text": "The historic defensive bastion remnants of an old colonial coastal fortification.",
+                  "category": "castle",
+                  "coords": [
+                        -15.579006,
+                        11.861326
+                  ]
+            },
+            {
+                  "name": "Augusto d'Oliveira",
+                  "text": "The weathered structural remains of a historical estate or significant local building.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580454,
+                        11.860268
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GW-BS",
     coords: [-15.58, 11.86],

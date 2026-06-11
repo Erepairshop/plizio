@@ -670,7 +670,52 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
     }
   },
   {
-    id: "rubane-forest-relief-v2",
+    id: "rubane-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porto di Bane",
+                  "text": "Der Port of Bane ist ein Aussichtspunkt an der Küste mit Blick auf die Gewässer in der Nähe des Rubane-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        -15.753867,
+                        11.26025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porto di Bane",
+                  "text": "A Port of Bane egy tengerparti kilátó, amely a Rubane-erdő közeli vizeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -15.753867,
+                        11.26025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porto di Bane",
+                  "text": "Port of Bane este un punct de belvedere pe coastă, cu vedere la apele de lângă pădurea Rubane.",
+                  "category": "natural",
+                  "coords": [
+                        -15.753867,
+                        11.26025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Port of Bane",
+                  "text": "Port of Bane is a coastal viewpoint overlooking the waters near the Rubane forest.",
+                  "category": "natural",
+                  "coords": [
+                        -15.753867,
+                        11.26025
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GW-BL",
     coords: [-15.8, 11.28],
@@ -910,7 +955,124 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
     }
   },
   {
-    id: "galinhas-forest-relief-v2",
+    id: "galinhas-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Ilha das Galinhas",
+                  "text": "Der Farol da Ilha das Galinhas ist ein Küstenleuchtturm, der als Navigationspunkt auf der bewaldeten Insel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656567,
+                        11.503748
+                  ]
+            },
+            {
+                  "name": "Praia de Bolama de Baixo",
+                  "text": "Praia de Bolama de Baixo ist ein Sandstrand, der einen ruhigen Rückzugsort an der Küste der Insel bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.613653,
+                        11.522298
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Oeste",
+                  "text": "Praia de Ponta Oeste ist ein nach Westen ausgerichteter Sandstrand mit Blick auf die atlantischen Gewässer.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.630493,
+                        11.525729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Ilha das Galinhas",
+                  "text": "A Farol da Ilha das Galinhas egy parti világítótorony, amely tengerészeti navigációs pontként szolgál az erdős szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656567,
+                        11.503748
+                  ]
+            },
+            {
+                  "name": "Praia de Bolama de Baixo",
+                  "text": "A Praia de Bolama de Baixo egy homokos part, amely tengerparti menedéket nyújt a sziget partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.613653,
+                        11.522298
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Oeste",
+                  "text": "A Praia de Ponta Oeste egy nyugati fekvésű homokos strand, amely az Atlanti-óceán vizeire néz.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.630493,
+                        11.525729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Ilha das Galinhas",
+                  "text": "Farol da Ilha das Galinhas este un far de coastă care servește drept punct de navigație pe această insulă împădurită.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656567,
+                        11.503748
+                  ]
+            },
+            {
+                  "name": "Praia de Bolama de Baixo",
+                  "text": "Praia de Bolama de Baixo este o plajă cu nisip care oferă un refugiu de coastă liniștit pe insulă.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.613653,
+                        11.522298
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Oeste",
+                  "text": "Praia de Ponta Oeste este o plajă cu nisip orientată spre vest, cu vedere la apele atlantice.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.630493,
+                        11.525729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Ilha das Galinhas",
+                  "text": "The Farol da Ilha das Galinhas is a coastal lighthouse serving as a navigational beacon on this forested island.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.656567,
+                        11.503748
+                  ]
+            },
+            {
+                  "name": "Praia de Bolama de Baixo",
+                  "text": "Praia de Bolama de Baixo is a sandy shoreline offering a coastal retreat on the island.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.613653,
+                        11.522298
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Oeste",
+                  "text": "Praia de Ponta Oeste is a western-facing sandy beach looking out over the Atlantic waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.630493,
+                        11.525729
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GW-BL",
     coords: [-15.7, 11.5],

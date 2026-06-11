@@ -816,7 +816,52 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     }
   },
   {
-    id: "dzanga-sangha-forest-nature-v2",
+    id: "dzanga-sangha-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve Spéciale de Dzanga-Sangha",
+                  "text": "Die Réserve Spéciale de Dzanga-Sangha ist ein ausgewiesenes besonderes Naturschutzgebiet, das der Erhaltung einzigartiger Waldlebensräume gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.188129,
+                        2.973392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve Spéciale de Dzanga-Sangha",
+                  "text": "A Réserve Spéciale de Dzanga-Sangha egy kijelölt különleges természetvédelmi terület, amelyet az egyedi erdei élőhelyek megőrzésének szenteltek.",
+                  "category": "natural",
+                  "coords": [
+                        16.188129,
+                        2.973392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve Spéciale de Dzanga-Sangha",
+                  "text": "Réserve Spéciale de Dzanga-Sangha este o rezervație naturală specială desemnată, dedicată conservării habitatelor forestiere unice.",
+                  "category": "natural",
+                  "coords": [
+                        16.188129,
+                        2.973392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve Spéciale de Dzanga-Sangha",
+                  "text": "The Réserve Spéciale de Dzanga-Sangha is a designated special nature reserve dedicated to the conservation of unique forest habitats.",
+                  "category": "natural",
+                  "coords": [
+                        16.188129,
+                        2.973392
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CF-SE",
     coords: [16.2000, 2.9500],

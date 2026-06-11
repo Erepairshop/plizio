@@ -195,7 +195,52 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
   },
   {
-    id: "dassa-hills-relief-v2",
+    id: "dassa-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site OKUTA",
+                  "text": "Die Site OKUTA ist eine markante Attraktion, die von der hügeligen Landschaft um Dassa umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        2.184955,
+                        7.782266
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site OKUTA",
+                  "text": "A Site OKUTA egy jellegzetes látványosság a Dassa körüli dombos tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        2.184955,
+                        7.782266
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site OKUTA",
+                  "text": "Situl OKUTA este o atracție marcantă situată în peisajul colinar din zona Dassa.",
+                  "category": "landmark",
+                  "coords": [
+                        2.184955,
+                        7.782266
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site OKUTA",
+                  "text": "Site OKUTA is a distinct attraction situated among the rolling hills of the Dassa region.",
+                  "category": "landmark",
+                  "coords": [
+                        2.184955,
+                        7.782266
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BJ-CO",
     coords: [2.18, 7.75],
@@ -339,7 +384,52 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
   },
   {
-    id: "papatia-forest-relief-v2",
+    id: "papatia-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chutes de Kota",
+                  "text": "Die Chutes de Kota sind ein malerischer Wasserfall, der über eine felsige Klippe stürzt und von üppiger Waldvegetation umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        1.446998,
+                        10.21117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chutes de Kota",
+                  "text": "A Chutes de Kota egy festői vízesés, amely egy sziklás hegyoldalon zuhan alá, buja erdei növényzettel övezve.",
+                  "category": "landmark",
+                  "coords": [
+                        1.446998,
+                        10.21117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chutes de Kota",
+                  "text": "Chutes de Kota este o cascadă pitorească care se prăbușește pe o stâncă, înconjurată de o vegetație forestieră luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        1.446998,
+                        10.21117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chutes de Kota",
+                  "text": "The Chutes de Kota is a scenic waterfall cascading down a rocky cliffside, surrounded by lush forest vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        1.446998,
+                        10.21117
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BJ-AK",
     coords: [1.5, 10.2],
@@ -435,7 +525,52 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
   },
   {
-    id: "bassila-mountains-relief-v2",
+    id: "bassila-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "GʊGʊ",
+                  "text": "Vor der bergigen Kulisse von Bassila gelegen, bietet dieser GʊGʊ-Standort natürliche Ausblicke, die typisch für das erhöhte Terrain der Region sind.",
+                  "category": "landmark",
+                  "coords": [
+                        1.662602,
+                        9.010375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GʊGʊ",
+                  "text": "A Bassila hegyvidéki domborzata előtt fekvő GʊGʊ helyszín a régió magaslati terepére jellemző természeti kilátást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        1.662602,
+                        9.010375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GʊGʊ",
+                  "text": "Amplasată pe fundalul reliefului montan din Bassila, această locație GʊGʊ oferă priveliști naturale tipice terenului înalt al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        1.662602,
+                        9.010375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GʊGʊ",
+                  "text": "Set against the mountainous relief of Bassila, this GʊGʊ location offers natural vistas typical of the region's elevated terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        1.662602,
+                        9.010375
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BJ-DO",
     coords: [1.66, 9.01],
@@ -483,7 +618,52 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
   },
   {
-    id: "niger-valley-relief-v2",
+    id: "niger-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koto Gambo",
+                  "text": "Der felsige Gipfel des Koto Gambo erhebt sich markant über das Relief des Niger-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        3.211873,
+                        11.921518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koto Gambo",
+                  "text": "A Koto Gambo sziklás csúcsa feltűnően magasodik a Niger-völgy domborzata fölé.",
+                  "category": "natural",
+                  "coords": [
+                        3.211873,
+                        11.921518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koto Gambo",
+                  "text": "Vârful stâncos al Koto Gambo se înalță proeminent deasupra reliefului văii Nigerului.",
+                  "category": "natural",
+                  "coords": [
+                        3.211873,
+                        11.921518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koto Gambo",
+                  "text": "The rocky peak of Koto Gambo rises prominently above the relief of the Niger valley.",
+                  "category": "natural",
+                  "coords": [
+                        3.211873,
+                        11.921518
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BJ-AL",
     coords: [3.2, 11.9],
@@ -531,7 +711,124 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
   },
   {
-    id: "abomey-plateau-relief-v2",
+    id: "abomey-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le palais du Roi Houégbadja",
+                  "text": "Diese historische Festung auf dem Abomey-Plateau markiert die königliche Grundresidenz, in der die Traditionen der Dahomey-Dynastie begannen.",
+                  "category": "castle",
+                  "coords": [
+                        1.984336,
+                        7.192096
+                  ]
+            },
+            {
+                  "name": "LE REGAL salle de Fête",
+                  "text": "Diese beliebte Veranstaltungshalle dient als lebendiger Gemeinschaftsraum für Hochzeiten, kulturelle Feiern und lokale Zusammenkünfte auf dem Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        1.980352,
+                        7.190641
+                  ]
+            },
+            {
+                  "name": "Ets Joly",
+                  "text": "Diese Galerie präsentiert regionale Handwerkskunst und zeigt eine Reihe lokaler Kunstwerke, von geschnitzten Holzskulpturen bis hin zu farbenfrohen Textilien.",
+                  "category": "museum",
+                  "coords": [
+                        1.982912,
+                        7.196766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le palais du Roi Houégbadja",
+                  "text": "Ez az Abomey-fennsíkon található történelmi erődítmény jelzi azt az alapító királyi rezidenciát, ahol a Dahomey-dinasztia szokásai elkezdődtek.",
+                  "category": "castle",
+                  "coords": [
+                        1.984336,
+                        7.192096
+                  ]
+            },
+            {
+                  "name": "LE REGAL salle de Fête",
+                  "text": "Ez a népszerű rendezvényterem vibráló közösségi térként szolgál esküvők, kulturális ünnepségek és helyi összejövetelek számára a fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        1.980352,
+                        7.190641
+                  ]
+            },
+            {
+                  "name": "Ets Joly",
+                  "text": "A regionális kézművességet bemutató galéria a helyi műalkotások széles skáláját vonultatja fel a faragott faszobroktól a színes textilekig.",
+                  "category": "museum",
+                  "coords": [
+                        1.982912,
+                        7.196766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le palais du Roi Houégbadja",
+                  "text": "Această fortăreață istorică de pe platoul Abomey marchează reședința regală fondatoare unde au început obiceiurile dinastiei Dahomey.",
+                  "category": "castle",
+                  "coords": [
+                        1.984336,
+                        7.192096
+                  ]
+            },
+            {
+                  "name": "LE REGAL salle de Fête",
+                  "text": "Această sală de evenimente populară servește ca spațiu comunitar vibrant pentru nunți, sărbători culturale și adunări locale de pe platou.",
+                  "category": "landmark",
+                  "coords": [
+                        1.980352,
+                        7.190641
+                  ]
+            },
+            {
+                  "name": "Ets Joly",
+                  "text": "Prezentând măiestria regională, această galerie expune o gamă de opere de artă locale, de la sculpturi în lemn la textile colorate.",
+                  "category": "museum",
+                  "coords": [
+                        1.982912,
+                        7.196766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le palais du Roi Houégbadja",
+                  "text": "This historical stronghold on the Abomey plateau marks the foundational royal residence where the customs of the Dahomey dynasty began.",
+                  "category": "castle",
+                  "coords": [
+                        1.984336,
+                        7.192096
+                  ]
+            },
+            {
+                  "name": "LE REGAL salle de Fête",
+                  "text": "This popular event hall serves as a vibrant community space for weddings, cultural celebrations, and local gatherings on the plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        1.980352,
+                        7.190641
+                  ]
+            },
+            {
+                  "name": "Ets Joly",
+                  "text": "Showcasing regional artisanship, this gallery displays an array of local artwork, from carved wood sculptures to colorful textiles.",
+                  "category": "museum",
+                  "coords": [
+                        1.982912,
+                        7.196766
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BJ-ZO",
     coords: [1.98, 7.18],
@@ -771,7 +1068,52 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
   },
   {
-    id: "ketou-plateau-relief-v2",
+    id: "ketou-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrière Latérite ODOMETA",
+                  "text": "Dieser riesige Tagebau legt tiefrote Lateritböden frei und bietet einen starken visuellen Kontrast zur Vegetation des umliegenden Plateaus.",
+                  "category": "landmark",
+                  "coords": [
+                        2.639975,
+                        7.236307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrière Latérite ODOMETA",
+                  "text": "Ez a hatalmas külszíni bánya mélyvörös laterit talajt tár a felszínre, éles vizuális kontrasztot nyújtva a környező fennsík növényzetéhez képest.",
+                  "category": "landmark",
+                  "coords": [
+                        2.639975,
+                        7.236307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrière Latérite ODOMETA",
+                  "text": "Această vastă carieră la suprafață expune soluri roșii adânci de laterit, oferind un contrast vizual puternic cu vegetația platoului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        2.639975,
+                        7.236307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrière Latérite ODOMETA",
+                  "text": "This vast open-pit quarry exposes deep red laterite soils, offering a stark visual contrast to the surrounding plateau vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        2.639975,
+                        7.236307
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BJ-PL",
     coords: [2.6, 7.3],

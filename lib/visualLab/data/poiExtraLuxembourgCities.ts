@@ -61,7 +61,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée de Tramways et de Bus",
-                  "text": "Musée de Tramways et de Bus ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "text": "Museum für Straßenbahnen und Busse, eröffnet am 27. März 1991.",
                   "category": "museum",
                   "coords": [
                         6.102746,
@@ -792,7 +792,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée de Tramways et de Bus",
-                  "text": "A Musée de Tramways et de Bus egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "text": "Villamos- és buszmúzeum, megnyílt 1991. március 27-én.",
                   "category": "museum",
                   "coords": [
                         6.102746,
@@ -1523,7 +1523,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée de Tramways et de Bus",
-                  "text": "Musée de Tramways et de Bus este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "text": "Muzeul de tramvaie și autobuze, deschis la 27 martie 1991.",
                   "category": "museum",
                   "coords": [
                         6.102746,
@@ -2254,7 +2254,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée de Tramways et de Bus",
-                  "text": "Musée de Tramways et de Bus is a notable museum located in Luxemburg-Stadt.",
+                  "text": "Tram and bus museum, opened on 27 March 1991.",
                   "category": "museum",
                   "coords": [
                         6.102746,

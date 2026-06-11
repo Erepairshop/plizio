@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraGuineaNatureV2: POI[] = [
   {
-    id: "mount-nimba-nature-v2",
+    id: "mount-nimba-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tombe Jacques Richard Molard",
+                  "text": "Das Tombe Jacques Richard Molard ist ein einsames Denkmal, das eine historische Grabstätte in der Nähe des Berges Nimba markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -8.357015,
+                        7.716535
+                  ]
+            },
+            {
+                  "name": "Point de Prélèvement Araignée",
+                  "text": "Der Point de Prélèvement Araignée dient als ökologische Attraktion und Probenahmestelle im Naturgebiet des Berges Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.347007,
+                        7.706422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tombe Jacques Richard Molard",
+                  "text": "A Tombe Jacques Richard Molard egy magányos emlékmű, amely egy történelmi temetkezési helyet jelöl a Nimba-hegy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.357015,
+                        7.716535
+                  ]
+            },
+            {
+                  "name": "Point de Prélèvement Araignée",
+                  "text": "A Point de Prélèvement Araignée egy ökológiai látványosság és mintavételi hely a Nimba-hegy természeti területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.347007,
+                        7.706422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tombe Jacques Richard Molard",
+                  "text": "Tombe Jacques Richard Molard este un monument solitar care marchează un loc istoric de înmormântare în apropiere de Muntele Nimba.",
+                  "category": "historical",
+                  "coords": [
+                        -8.357015,
+                        7.716535
+                  ]
+            },
+            {
+                  "name": "Point de Prélèvement Araignée",
+                  "text": "Point de Prélèvement Araignée servește drept atracție ecologică și loc de prelevare a probelor în zona naturală a Muntelui Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.347007,
+                        7.706422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tombe Jacques Richard Molard",
+                  "text": "Tombe Jacques Richard Molard is a solitary monument marking a historical burial site near Mount Nimba.",
+                  "category": "historical",
+                  "coords": [
+                        -8.357015,
+                        7.716535
+                  ]
+            },
+            {
+                  "name": "Point de Prélèvement Araignée",
+                  "text": "Point de Prélèvement Araignée serves as an ecological attraction and sampling site in the Mount Nimba nature area.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.347007,
+                        7.706422
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GN-N",
     coords: [-8.35, 7.63],
@@ -323,7 +404,124 @@ export const poiExtraGuineaNatureV2: POI[] = [
       fr: ["Kassa fut le premier site de Guinée où la bauxite a été exploitée industriellement.", "L'île est accessible en 15 à 20 minutes de pirogue depuis Conakry.", "Soro est la plage la plus célèbre de l'île et un centre touristique.", "L'île dispose de sa propre école primaire et d'un poste de santé.", "Kassa offre une vue spectaculaire sur la ligne d'horizon de Conakry.", "Les insulaires sont réputés pour leurs spectacles de danse et de musique traditionnelles."],
     }, image: "/poi-images/kassa-island-nature-v2.webp"},
   {
-    id: "roume-island-nature-v2",
+    id: "roume-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Tamara",
+                  "text": "Der Phare de Tamara ist ein historischer Leuchtturm, der hoch über die Îles de Los ragt, um den maritimen Verkehr sicher zu leiten.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.833642,
+                        9.45808
+                  ]
+            },
+            {
+                  "name": "site",
+                  "text": "Dieses Strandresort bietet Unterkünfte direkt am Meer und Freizeiteinrichtungen inmitten der tropischen Insellandschaft von Roume.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788496,
+                        9.463312
+                  ]
+            },
+            {
+                  "name": "Plage de Room",
+                  "text": "Plage de Room ist ein Strandresort an den sandigen Küsten in der Nähe der Insel Roume.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.786796,
+                        9.466997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Tamara",
+                  "text": "A Phare de Tamara egy történelmi világítótorony, amely az Îles de Los szigetei fölé magasodva vezeti a tengeri forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.833642,
+                        9.45808
+                  ]
+            },
+            {
+                  "name": "site",
+                  "text": "Ez a tengerparti üdülőhely tengerparti szállást és szabadidős szolgáltatásokat kínál Roume trópusi szigeti tájában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788496,
+                        9.463312
+                  ]
+            },
+            {
+                  "name": "Plage de Room",
+                  "text": "A Plage de Room egy tengerparti üdülőhely a Roume-sziget közeli homokos partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.786796,
+                        9.466997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Tamara",
+                  "text": "Phare de Tamara este un far istoric care se înalță deasupra Îles de Los pentru a ghida în siguranță traficul maritim.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.833642,
+                        9.45808
+                  ]
+            },
+            {
+                  "name": "site",
+                  "text": "Această stațiune pe plajă oferă cazare pe malul mării și facilități de agrement în mijlocul peisajului insular tropical din Roume.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788496,
+                        9.463312
+                  ]
+            },
+            {
+                  "name": "Plage de Room",
+                  "text": "Plage de Room este o stațiune pe plajă situată de-a lungul coastelor nisipoase de lângă insula Roume.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.786796,
+                        9.466997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare de Tamara",
+                  "text": "The Phare de Tamara is a historic lighthouse towering over the Îles de Los to guide maritime traffic safely to the mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.833642,
+                        9.45808
+                  ]
+            },
+            {
+                  "name": "site",
+                  "text": "This beach resort offers beachfront lodging and leisure amenities set amidst the tropical island landscape of Roume.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788496,
+                        9.463312
+                  ]
+            },
+            {
+                  "name": "Plage de Room",
+                  "text": "Plage de Room is a coastal beach resort set along the sandy shores near Roume Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.786796,
+                        9.466997
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GN-C",
     coords: [-13.8, 9.46],
@@ -605,7 +803,52 @@ export const poiExtraGuineaNatureV2: POI[] = [
       fr: ["La côte guinéenne possède l'un des marnages les plus élevés d'Afrique de l'Ouest (jusqu'à 5 mètres).", "L'océan fournit plus de 90 % du poisson consommé en Guinée.", "Les îles de Los sont l'archipel le plus célèbre de l'Atlantique guinéen.", "La côte abrite des sites de nidification importants pour la tortue verte.", "L'Atlantique est la principale voie de transport pour les exportations de bauxite de la Guinée.", "L'érosion côtière menace de nombreux établissements historiques en bord de mer."],
     }, image: "/poi-images/atlantic-ocean-guinea-nature-v2.webp"},
   {
-    id: "mount-gangan-nature-v2",
+    id: "mount-gangan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascade de Tabouna",
+                  "text": "Die Cascade de Tabouna ist ein malerischer Wasserfall, der sein kühles Wasser über die bewaldeten Hänge des Berges Gangan ergießt.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.809985,
+                        10.034706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascade de Tabouna",
+                  "text": "A Cascade de Tabouna egy festői vízesés, amely hűvös vizét a Gangan-hegy erdős lejtőin zúdítja le.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.809985,
+                        10.034706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascade de Tabouna",
+                  "text": "Cascade de Tabouna este o cascadă pitorească ce își varsă apele reci pe pantele împădurite ale muntelui Gangan.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.809985,
+                        10.034706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascade de Tabouna",
+                  "text": "Cascade de Tabouna is a picturesque waterfall pouring its cool waters over the forested slopes of Mount Gangan.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.809985,
+                        10.034706
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GN-D",
     coords: [-12.8, 10.05],
@@ -746,7 +989,88 @@ export const poiExtraGuineaNatureV2: POI[] = [
       fr: ["Diecké fait partie d'un écosystème forestier transfrontalier avec le Libéria.", "La forêt abrite une population majeure de chimpanzés d'Afrique de l'Ouest menacés.", "La superficie de la réserve est d'environ 64 000 hectares.", "De nombreux ruisseaux y coulent, alimentant le fleuve Saint-Paul.", "Plus de 300 espèces d'oiseaux différentes ont été recensées dans la forêt.", "Diecké est réputée pour ses lianes géantes et ses fougères dans le sous-bois."],
     }, image: "/poi-images/diecke-forest-nature-v2.webp"},
   {
-    id: "lake-sonfonia-nature-v2",
+    id: "lake-sonfonia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monopole",
+                  "text": "Monopole ist eine Kunstgalerie, die visuelle Werke nahe der malerischen Umgebung des Sonfonia-Sees ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -13.600791,
+                        9.654916
+                  ]
+            },
+            {
+                  "name": "Tayaty Kobaya",
+                  "text": "Tayaty Kobaya ist ein lokaler Sandstrand, der einen Erholungsort am Wasser in der Nähe des Sonfonia-Sees bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.613618,
+                        9.734964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monopole",
+                  "text": "A Monopole egy művészeti galéria, amely a festői Sonfonia-tó közelében állít ki vizuális alkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        -13.600791,
+                        9.654916
+                  ]
+            },
+            {
+                  "name": "Tayaty Kobaya",
+                  "text": "A Tayaty Kobaya egy helyi homokos strand, amely vízparti pihenőhelyet kínál a Sonfonia-tó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.613618,
+                        9.734964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monopole",
+                  "text": "Monopole este o galerie de artă care expune lucrări vizuale în apropierea mediului pitoresc al lacului Sonfonia.",
+                  "category": "museum",
+                  "coords": [
+                        -13.600791,
+                        9.654916
+                  ]
+            },
+            {
+                  "name": "Tayaty Kobaya",
+                  "text": "Tayaty Kobaya este o plajă locală cu nisip, care oferă un loc de relaxare pe malul apei lângă Lacul Sonfonia.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.613618,
+                        9.734964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monopole",
+                  "text": "Monopole is an art gallery displaying visual works near the scenic environment of Lake Sonfonia.",
+                  "category": "museum",
+                  "coords": [
+                        -13.600791,
+                        9.654916
+                  ]
+            },
+            {
+                  "name": "Tayaty Kobaya",
+                  "text": "Tayaty Kobaya is a local sandy beach providing a waterfront relaxation spot near Lake Sonfonia.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.613618,
+                        9.734964
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GN-C",
     coords: [-13.6, 9.68],
@@ -793,7 +1117,124 @@ export const poiExtraGuineaNatureV2: POI[] = [
       fr: ["Le lac est l'une des principales sources d'eau douce pour l'est de Conakry.", "Il a perdu près de 30 % de sa surface en 20 ans à cause de l'urbanisation illégale.", "C'est une étape migratoire importante pour les oiseaux au sein de la ville.", "L'université de Sonfonia est située à proximité immédiate.", "Des projets de curage et de dépollution sont actuellement en cours.", "Sa végétation rivulaire comprend des vestiges de mangroves et des herbes de marais."],
     }, image: "/poi-images/lake-sonfonia-nature-v2.webp"},
   {
-    id: "tristao-islands-nature-v2",
+    id: "tristao-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison des jeunes de kasmak",
+                  "text": "Das Maison des jeunes de kasmak ist ein Jugendkunstzentrum auf den Tristão-Inseln.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.922631,
+                        10.916204
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kougha",
+                  "text": "Das Maison des jeunes de kougha ist ein kulturelles Jugendzentrum auf den Tristão-Inseln.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.950634,
+                        10.907015
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kakignini",
+                  "text": "Das Maison des jeunes de kakignini ist eine kommunale Kunsteinrichtung auf den Tristão-Inseln.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.912211,
+                        10.840679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison des jeunes de kasmak",
+                  "text": "A Maison des jeunes de kasmak egy ifjúsági művészeti központ a Tristão-szigeteken.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.922631,
+                        10.916204
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kougha",
+                  "text": "A Maison des jeunes de kougha egy kulturális ifjúsági központ a Tristão-szigeteken.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.950634,
+                        10.907015
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kakignini",
+                  "text": "A Maison des jeunes de kakignini egy közösségi művészeti létesítmény a Tristão-szigeteken.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.912211,
+                        10.840679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison des jeunes de kasmak",
+                  "text": "Maison des jeunes de kasmak este un centru de artă pentru tineret situat în Insulele Tristão.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.922631,
+                        10.916204
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kougha",
+                  "text": "Maison des jeunes de kougha este un centru cultural pentru tineret situat în Insulele Tristão.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.950634,
+                        10.907015
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kakignini",
+                  "text": "Maison des jeunes de kakignini este o facilitate artistică comunitară din Insulele Tristão.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.912211,
+                        10.840679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison des jeunes de kasmak",
+                  "text": "Maison des jeunes de kasmak is a youth arts center situated in the Tristão Islands.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.922631,
+                        10.916204
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kougha",
+                  "text": "Maison des jeunes de kougha is a cultural youth center located in the Tristão Islands.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.950634,
+                        10.907015
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes de kakignini",
+                  "text": "Maison des jeunes de kakignini is a community arts facility in the Tristão Islands.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.912211,
+                        10.840679
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GN-B",
     coords: [-14.9, 10.85],

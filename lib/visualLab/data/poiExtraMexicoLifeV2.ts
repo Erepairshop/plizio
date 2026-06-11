@@ -4680,7 +4680,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Xcaret",
-                  "text": "Öko-archäologischer Themenpark in der Riviera Maya.",
+                  "text": "Xcaret an der Riviera Maya, Öko-Park seit 1990 mit unterirdischen Flüssen und Wildtieren.",
                   "category": "recreational",
                   "coords": [
                         -87.119388,
@@ -4934,7 +4934,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Xcaret",
-                  "text": "Öko-régészeti tematikus park a Riviera Mayán.",
+                  "text": "Xcaret a Riviera Maya partján, 1990 óta ökopark földalatti folyókkal és vadon élő állatokkal.",
                   "category": "recreational",
                   "coords": [
                         -87.119388,
@@ -5188,7 +5188,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Xcaret",
-                  "text": "Parcul tematic eco-arheologic pe Riviera Maya.",
+                  "text": "Xcaret pe Riviera Maya, parc ecologic din 1990, cu râuri subterane și animale sălbatice.",
                   "category": "recreational",
                   "coords": [
                         -87.119388,
@@ -5442,7 +5442,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Xcaret",
-                  "text": "Eco-archaeological theme park in the Riviera Maya.",
+                  "text": "Xcaret on the Riviera Maya, an eco-archaeological park opened in 1990, with underground rivers and wildlife.",
                   "category": "recreational",
                   "coords": [
                         -87.119388,

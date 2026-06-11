@@ -199,7 +199,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Kara Timurpaşa Cami",
-                  "text": "Kara Timurpaşa Cami ist ein historisches Gotteshaus in Bursa.",
+                  "text": "Kara-Timurpaşa-Moschee in Bursa, fertiggestellt im Juli 1573.",
                   "category": "religious",
                   "coords": [
                         29.0719,
@@ -687,7 +687,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Kara Timurpaşa Cami",
-                  "text": "A Kara Timurpaşa Cami egy történelmi istentiszteleti hely Bursában.",
+                  "text": "Kara Timurpaşa mecset Bursában, 1573 júliusában készült el.",
                   "category": "religious",
                   "coords": [
                         29.0719,
@@ -1175,7 +1175,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Kara Timurpaşa Cami",
-                  "text": "Kara Timurpaşa Cami este un lăcaș de cult istoric în Bursa.",
+                  "text": "Moscheea Kara Timurpaşa din Bursa, finalizată în iulie 1573.",
                   "category": "religious",
                   "coords": [
                         29.0719,
@@ -1663,7 +1663,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Kara Timurpaşa Cami",
-                  "text": "Kara Timurpaşa Cami is a historic place of worship in Bursa.",
+                  "text": "Kara Timurpaşa Mosque in Bursa, completed in July 1573.",
                   "category": "religious",
                   "coords": [
                         29.0719,
@@ -6508,7 +6508,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nebî Camii",
-                  "text": "Eine historische Moschee in der Nähe der alten Stadtmauern.",
+                  "text": "Nebî-Moschee in Diyarbakır, erbaut 1530.",
                   "category": "religious",
                   "coords": [
                         40.236494,
@@ -6535,7 +6535,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nasuh Paşa Cami",
-                  "text": "Eine historische osmanische Moschee aus dem 17. Jahrhundert.",
+                  "text": "Nasuh-Paşa-Moschee in Diyarbakır, erbaut 1611.",
                   "category": "religious",
                   "coords": [
                         40.241701,
@@ -6852,7 +6852,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nebî Camii",
-                  "text": "Egy történelmi mecset a régi városfalak közelében.",
+                  "text": "Nebî mecset Diyarbakırban, 1530-ban épült.",
                   "category": "religious",
                   "coords": [
                         40.236494,
@@ -6879,7 +6879,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nasuh Paşa Cami",
-                  "text": "Egy történelmi 17. századi oszmán mecset.",
+                  "text": "Nasuh Paşa mecset Diyarbakırban, 1611-ben épült.",
                   "category": "religious",
                   "coords": [
                         40.241701,
@@ -7196,7 +7196,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nebî Camii",
-                  "text": "O moschee istorică situată lângă vechile ziduri ale orașului.",
+                  "text": "Moscheea Nebî din Diyarbakır, construită în 1530.",
                   "category": "religious",
                   "coords": [
                         40.236494,
@@ -7223,7 +7223,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nasuh Paşa Cami",
-                  "text": "O moschee otomană istorică din secolul al XVII-lea.",
+                  "text": "Moscheea Nasuh Paşa din Diyarbakır, construită în 1611.",
                   "category": "religious",
                   "coords": [
                         40.241701,
@@ -7540,7 +7540,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nebî Camii",
-                  "text": "A historic mosque located near the old city walls.",
+                  "text": "Nebî Mosque in Diyarbakır, built in 1530.",
                   "category": "religious",
                   "coords": [
                         40.236494,
@@ -7567,7 +7567,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Nasuh Paşa Cami",
-                  "text": "A historic 17th-century Ottoman mosque.",
+                  "text": "Nasuh Paşa Mosque in Diyarbakır, built in 1611.",
                   "category": "religious",
                   "coords": [
                         40.241701,
@@ -13573,7 +13573,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Ulu Camii",
-                  "text": "Die Ulu Camii ist eine historische und bedeutende Kultstätte in Sivas.",
+                  "text": "Ulu-Moschee in Sivas, eine seldschukische Moschee aus dem Jahr 1197.",
                   "category": "religious",
                   "coords": [
                         37.017617,
@@ -13710,7 +13710,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Ulu Camii",
-                  "text": "Az Ulu Camii egy történelmi jelentőségű vallási épület Sivasban.",
+                  "text": "Ulu mecset Sivasban, egy 1197-ből származó szeldzsuk mecset.",
                   "category": "religious",
                   "coords": [
                         37.017617,
@@ -13847,7 +13847,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Ulu Camii",
-                  "text": "Ulu Camii este un lăcaș de cult istoric și important din Sivas.",
+                  "text": "Moscheea Ulu din Sivas, o moschee selgiucidă construită în 1197.",
                   "category": "religious",
                   "coords": [
                         37.017617,
@@ -13984,7 +13984,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             },
             {
                   "name": "Ulu Camii",
-                  "text": "Ulu Camii is a historic and significant place of worship in Sivas.",
+                  "text": "Ulu Mosque in Sivas, a Seljuk-era mosque built in 1197.",
                   "category": "religious",
                   "coords": [
                         37.017617,

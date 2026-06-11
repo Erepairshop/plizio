@@ -147,7 +147,52 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     },
   },
   {
-    id: "limpopo-river-nature-v2",
+    id: "limpopo-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Posto Zongone",
+                  "text": "Das Museum Posto Zongone bewahrt Artefakte auf, die mit der Natur- und Kulturgeschichte des Limpopo-Flussbeckens zusammenhängen.",
+                  "category": "museum",
+                  "coords": [
+                        33.484816,
+                        -25.151691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Posto Zongone",
+                  "text": "A Posto Zongone múzeum a Limpopo folyó medencéjének természeti és kulturális történelméhez kapcsolódó tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        33.484816,
+                        -25.151691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Posto Zongone",
+                  "text": "Muzeul Posto Zongone păstrează artefacte legate de istoria naturală și culturală a bazinului râului Limpopo.",
+                  "category": "museum",
+                  "coords": [
+                        33.484816,
+                        -25.151691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Posto Zongone",
+                  "text": "The Posto Zongone museum preserves artifacts related to the natural and cultural history of the Limpopo River basin.",
+                  "category": "museum",
+                  "coords": [
+                        33.484816,
+                        -25.151691
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MZ-GA",
     coords: [33.5, -25.2],
@@ -219,7 +264,52 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     },
   },
   {
-    id: "maputo-bay-nature-v2",
+    id: "maputo-bay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baía de Maputo",
+                  "text": "Die Maputo-Bucht ist ein großer natürlicher Meeresarm des Indischen Ozeans, der ein wichtiges maritimes Tor und malerische Küstenansichten für die mosambikanische Hauptstadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.777739,
+                        -26.050937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baía de Maputo",
+                  "text": "A Maputói-öböl az Indiai-óceán egyik nagy természetes beszögellése, amely létfontosságú tengeri kaput és festői partvidéki kilátást biztosít a mozambiki főváros számára.",
+                  "category": "landmark",
+                  "coords": [
+                        32.777739,
+                        -26.050937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baía de Maputo",
+                  "text": "Golful Maputo este o deschidere naturală largă la Oceanul Indian, oferind o poartă maritimă vitală și priveliști de coastă pitorești pentru capitala mozambicană.",
+                  "category": "landmark",
+                  "coords": [
+                        32.777739,
+                        -26.050937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baía de Maputo",
+                  "text": "Maputo Bay is a large natural inlet of the Indian Ocean, providing a vital maritime gateway and scenic coastal views for the Mozambican capital.",
+                  "category": "landmark",
+                  "coords": [
+                        32.777739,
+                        -26.050937
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "MZ-MP",
     coords: [32.8, -26.0],
@@ -399,7 +489,52 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
     },
   },
   {
-    id: "inda-island-nature-v2",
+    id: "inda-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Duna de Bazaruto",
+                  "text": "Die majestätischen Sanddünen von Bazaruto ragen steil über dem türkisfarbenen Wasser des Indischen Ozeans auf.",
+                  "category": "historical",
+                  "coords": [
+                        35.454811,
+                        -21.788668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Duna de Bazaruto",
+                  "text": "Bazaruto fenséges homokdűnéi meredeken emelkednek ki az Indiai-óceán türkizkék víztükre fölé.",
+                  "category": "historical",
+                  "coords": [
+                        35.454811,
+                        -21.788668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Duna de Bazaruto",
+                  "text": "Majestuoasele dune de nisip din Bazaruto se ridică abrupt deasupra apelor turcoaz ale Oceanului Indian.",
+                  "category": "historical",
+                  "coords": [
+                        35.454811,
+                        -21.788668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazaruto Dunes",
+                  "text": "The majestic Bazaruto Dunes rise steeply above the turquoise waters of the Indian Ocean.",
+                  "category": "historical",
+                  "coords": [
+                        35.454811,
+                        -21.788668
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MZ-IN",
     coords: [35.4, -21.8],

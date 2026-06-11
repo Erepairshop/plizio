@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
   {
-    id: "cd-kinshasa-city-hall-landmarks-v2",
+    id: "cd-kinshasa-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Wallonie-Bruxelles",
+                  "text": "Das Centre Culturel Wallonie-Bruxelles ist ein bedeutender Veranstaltungsort, der den frankophonen und kongolesischen Kulturaustausch durch Ausstellungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.31153,
+                        -4.300559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Wallonie-Bruxelles",
+                  "text": "A Centre Culturel Wallonie-Bruxelles egy kiemelkedő művészeti központ, amely kiállításokon és előadásokon keresztül támogatja a frankofón és kongói kulturális cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        15.31153,
+                        -4.300559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Wallonie-Bruxelles",
+                  "text": "Centre Culturel Wallonie-Bruxelles este un spațiu de artă proeminent care promovează schimburile culturale francofone și congoleze.",
+                  "category": "cultural",
+                  "coords": [
+                        15.31153,
+                        -4.300559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Wallonie-Bruxelles",
+                  "text": "The Centre Culturel Wallonie-Bruxelles is a prominent arts venue promoting Francophone and Congolese cultural exchange through exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        15.31153,
+                        -4.300559
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.3122, -4.3033],
@@ -147,7 +192,124 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-kananga-cathedral-landmarks-v2",
+    id: "cd-kananga-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "colline panorama",
+                  "text": "Dieser erhöhte Hügel in Kananga bietet einen weiten Panoramablick über die ausgedehnte Stadtlandschaft der kongolesischen Metropole.",
+                  "category": "natural",
+                  "coords": [
+                        22.476075,
+                        -5.896495
+                  ]
+            },
+            {
+                  "name": "Mukenge Shabantu",
+                  "text": "Dieses Denkmal in Kananga ist einer bekannten lokalen Persönlichkeit gewidmet und dient als wichtiges Wahrzeichen im kulturellen Zentrum der Provinz Kasai-Central.",
+                  "category": "historical",
+                  "coords": [
+                        22.405749,
+                        -5.902965
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance",
+                  "text": "Dieser bedeutende öffentliche Platz in Kananga ist der Ort historischer Feiern zur kongolesischen Unabhängigkeit und ein zentraler Treffpunkt für die Bürger.",
+                  "category": "landmark",
+                  "coords": [
+                        22.408081,
+                        -5.903521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "colline panorama",
+                  "text": "Ez a kanangai domboldal pazar panorámát nyújt a kongói város kiterjedt urbanizált tájára.",
+                  "category": "natural",
+                  "coords": [
+                        22.476075,
+                        -5.896495
+                  ]
+            },
+            {
+                  "name": "Mukenge Shabantu",
+                  "text": "A Kanangában található emlékművet egy neves helyi személyiségnek szentelték, amely fontos mérföldkőnek számít Kasai-Central tartomány kulturális szívében.",
+                  "category": "historical",
+                  "coords": [
+                        22.405749,
+                        -5.902965
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance",
+                  "text": "Ez a jelentős kanangai központi tér a kongói függetlenség történelmi ünnepeinek és fontos polgári összejöveteleknek a helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        22.408081,
+                        -5.903521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "colline panorama",
+                  "text": "Această colină înaltă din Kananga oferă vederi panoramice largi asupra peisajului urban al orașului congolez.",
+                  "category": "natural",
+                  "coords": [
+                        22.476075,
+                        -5.896495
+                  ]
+            },
+            {
+                  "name": "Mukenge Shabantu",
+                  "text": "Acest monument din Kananga este dedicat unei figuri locale notabile, servind ca un reper important în inima culturală a provinciei Kasai-Central.",
+                  "category": "historical",
+                  "coords": [
+                        22.405749,
+                        -5.902965
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance",
+                  "text": "Această piață publică semnificativă din Kananga marchează celebrările istorice ale independenței congoleze cu adunări civice centrale.",
+                  "category": "landmark",
+                  "coords": [
+                        22.408081,
+                        -5.903521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "colline panorama",
+                  "text": "This elevated hillside in Kananga offers sweeping panoramic views over the sprawling urban landscape of the Congolese city.",
+                  "category": "natural",
+                  "coords": [
+                        22.476075,
+                        -5.896495
+                  ]
+            },
+            {
+                  "name": "Mukenge Shabantu",
+                  "text": "This monument in Kananga is dedicated to a notable local figure, serving as an important landmark in the cultural heart of the Kasai-Central province.",
+                  "category": "historical",
+                  "coords": [
+                        22.405749,
+                        -5.902965
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance",
+                  "text": "This significant public square in Kananga marks the region's historical celebrations of Congolese independence with central civic gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        22.408081,
+                        -5.903521
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KC",
     coords: [22.4172, -5.8975],
@@ -195,7 +357,52 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-kibassa-maliba-stadium-landmarks-v2",
+    id: "cd-kibassa-maliba-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée national de Lubumbashi",
+                  "text": "Dieses Nationalmuseum in Lubumbashi zeigt umfangreiche archäologische und ethnografische Sammlungen aus der Region Katanga.",
+                  "category": "museum",
+                  "coords": [
+                        27.477091,
+                        -11.649628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée national de Lubumbashi",
+                  "text": "Ez a Lubumbashi nemzeti múzeum a Katanga régió kiterjedt régészeti és néprajzi gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.477091,
+                        -11.649628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée national de Lubumbashi",
+                  "text": "Acest muzeu național din Lubumbashi expune colecții arheologice și etnografice extinse din regiunea Katanga.",
+                  "category": "museum",
+                  "coords": [
+                        27.477091,
+                        -11.649628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée national de Lubumbashi",
+                  "text": "This national museum in Lubumbashi showcases extensive archaeological and ethnographic collections from the Katanga region.",
+                  "category": "museum",
+                  "coords": [
+                        27.477091,
+                        -11.649628
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-HK",
     coords: [27.4686, -11.6455],
@@ -291,7 +498,52 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-mbandaka-cathedral-landmarks-v2",
+    id: "cd-mbandaka-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stanley's Equator Stone",
+                  "text": "Dieser historische Stein in Mbandaka erinnert an den Ort, an dem der Entdecker Henry Morton Stanley den Verlauf des Äquators nahe des Kongo-Flusses markierte.",
+                  "category": "landmark",
+                  "coords": [
+                        18.229742,
+                        0.025655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stanley's Equator Stone",
+                  "text": "Ez a történelmi kő Mbandakában annak a helynek állít emléket, ahol Henry Morton Stanley felfedező megjelölte az Egyenlítő vonalát a Kongó folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.229742,
+                        0.025655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stanley's Equator Stone",
+                  "text": "Această piatră istorică din Mbandaka comemorează locul în care exploratorul Henry Morton Stanley a marcat trecerea Ecuatorului în apropierea fluviului Congo.",
+                  "category": "landmark",
+                  "coords": [
+                        18.229742,
+                        0.025655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stanley's Equator Stone",
+                  "text": "Located in Mbandaka, this historic stone commemorates the spot where explorer Henry Morton Stanley marked the passing of the Equator near the Congo River.",
+                  "category": "landmark",
+                  "coords": [
+                        18.229742,
+                        0.025655
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-EQ",
     coords: [18.2616, 0.0461],
@@ -483,7 +735,376 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-butembo-cathedral-landmarks-v2",
+    id: "cd-butembo-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chapelle Ardente de Mgr Emanuel KATALIKO",
+                  "text": "Dieses Denkmal in cd-butembo-cathedral-landmarks-v2 ist die Gedenkkapelle für Mgr Emanuel Kataliko.",
+                  "category": "historical",
+                  "coords": [
+                        29.260871,
+                        0.11672
+                  ]
+            },
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "Das Nationalmuseum in Butembo bewahrt und präsentiert die regionalen historischen Artefakte der kongolesischen Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Ront point IBTP",
+                  "text": "Dieses auffällige Kreisverkehr-Denkmal markiert einen wichtigen Verkehrsknotenpunkt in der Nähe des IBTP-Instituts in Butembo.",
+                  "category": "historical",
+                  "coords": [
+                        29.313234,
+                        0.134575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "Die Galerie Annuarite in Butembo ist ein städtischer Raum, in dem lokale Kunst- und Handwerksprodukte ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Kaputu",
+                  "text": "Eine städtische Kunstgalerie in Butembo, die sich der Förderung lokaler kongolesischer Künstler widmet.",
+                  "category": "museum",
+                  "coords": [
+                        29.291733,
+                        0.136431
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "Diese kommerzielle und kulturelle Galerie im Herzen von Butembo bietet lokale Waren und künstlerische Werke an.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "Eine kleine Kunstgalerie in Butembo, die für ihre Sammlung traditioneller afrikanischer Kunst bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "In diesem Ausstellungsraum in Butembo werden vor allem die Werke von lokalen Kunsthandwerkern und Bildhauern gezeigt.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "Eine kommerzielle Galerie im städtischen Zentrum von Butembo, die regionale afrikanische Kunstwerke anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'ITAV (Ngengere",
+                  "text": "Dieses grüne Naturschutzgebiet liegt in der Nähe des ITAV-Instituts und dient der ökologischen Bildung der Region.",
+                  "category": "natural",
+                  "coords": [
+                        29.301112,
+                        0.124307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chapelle Ardente de Mgr Emanuel KATALIKO",
+                  "text": "Ez a cd-butembo-cathedral-landmarks-v2-ben található emlékmű Mgr Emanuel Kataliko emlékkápolnája.",
+                  "category": "historical",
+                  "coords": [
+                        29.260871,
+                        0.11672
+                  ]
+            },
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "A Butembóban található Nemzeti Múzeum a kongói kultúra regionális történelmi leleteit őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Ront point IBTP",
+                  "text": "Ez a feltűnő körforgalmi emlékmű egy fontos közlekedési csomópontot jelöl a butembói IBTP intézet közelében.",
+                  "category": "historical",
+                  "coords": [
+                        29.313234,
+                        0.134575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "A butembói Galerie Annuarite egy városi tér, ahol helyi művészeti és kézműves alkotásokat állítanak ki.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Kaputu",
+                  "text": "Egy városi művészeti galéria Butembóban, amely a helyi kongói művészek támogatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        29.291733,
+                        0.136431
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "Ez a kereskedelmi és kulturális galéria Butembo szívében helyi árukat és művészeti alkotásokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "Egy kis művészeti galéria Butembóban, amely a hagyományos afrikai művészeti gyűjteményéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "Ebben a butembói kiállítótérben elsősorban helyi kézművesek és szobrászok alkotásait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "Egy kereskedelmi galéria Butembo városközpontjában, amely regionális afrikai műalkotásokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'ITAV (Ngengere",
+                  "text": "Ez a zöld természetvédelmi terület az ITAV intézet közelében található, és a régió ökológiai oktatását szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        29.301112,
+                        0.124307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chapelle Ardente de Mgr Emanuel KATALIKO",
+                  "text": "Acest monument din cd-butembo-cathedral-landmarks-v2 este capela memorială dedicată lui Mgr Emanuel Kataliko.",
+                  "category": "historical",
+                  "coords": [
+                        29.260871,
+                        0.11672
+                  ]
+            },
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "Muzeul Național din Butembo păstrează și prezintă artefactele istorice regionale ale culturii congoleze.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Ront point IBTP",
+                  "text": "Acest monument dintr-un sens giratoriu marchează un nod de circulație important lângă institutul IBTP din Butembo.",
+                  "category": "historical",
+                  "coords": [
+                        29.313234,
+                        0.134575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "Galeria Annuarite din Butembo este un spațiu urban unde sunt expuse opere de artă și meșteșuguri locale.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Kaputu",
+                  "text": "O galerie de artă urbană din Butembo dedicată promovării artiștilor congolezi locali.",
+                  "category": "museum",
+                  "coords": [
+                        29.291733,
+                        0.136431
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "Această galerie comercială și culturală din inima orașului Butembo oferă bunuri locale și lucrări artistice.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "O mică galerie de artă din Butembo cunoscută pentru colecția sa de artă tradițională africană.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "Acest spațiu expozițional din Butembo prezintă în principal lucrările artizanilor și sculptorilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "O galerie comercială în centrul urban al orașului Butembo care oferă opere de artă africane regionale.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'ITAV (Ngengere",
+                  "text": "Această rezervație naturală verde este situată în apropierea institutului ITAV și servește educației ecologice a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        29.301112,
+                        0.124307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapelle Ardente de Mgr Emanuel KATALIKO",
+                  "text": "This monument in cd-butembo-cathedral-landmarks-v2 is the memorial chapel dedicated to Mgr Emanuel Kataliko.",
+                  "category": "historical",
+                  "coords": [
+                        29.260871,
+                        0.11672
+                  ]
+            },
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "The National Museum in Butembo preserves and displays regional historical artifacts of Congolese culture.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Ront point IBTP",
+                  "text": "This prominent roundabout monument marks a major traffic junction near the IBTP institute in Butembo.",
+                  "category": "historical",
+                  "coords": [
+                        29.313234,
+                        0.134575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "The Galerie Annuarite in Butembo is an urban space where local art and crafts are exhibited.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Kaputu",
+                  "text": "An urban art gallery in Butembo dedicated to promoting local Congolese artists.",
+                  "category": "museum",
+                  "coords": [
+                        29.291733,
+                        0.136431
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "This commercial and cultural gallery in the heart of Butembo offers local goods and artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "A small art gallery in Butembo known for its collection of traditional African art.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "This exhibition space in Butembo primarily showcases the works of local artisans and sculptors.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "A commercial gallery in the urban center of Butembo offering regional African artworks.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'ITAV (Ngengere",
+                  "text": "This green nature reserve is located near the ITAV institute and serves the ecological education of the region.",
+                  "category": "natural",
+                  "coords": [
+                        29.301112,
+                        0.124307
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-NK",
     coords: [29.2844, 0.1341],
@@ -771,7 +1392,52 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-isiro-cathedral-landmarks-v2",
+    id: "cd-isiro-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond Point sous-région",
+                  "text": "Das Monument Rond Point sous-région markiert einen stark frequentierten, zentralen Kreisverkehr in cd-isiro-cathedral-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        27.615927,
+                        2.777239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond Point sous-région",
+                  "text": "A Rond Point sous-région emlékmű egy központi körforgalmat jelöl cd-isiro-cathedral-landmarks-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        27.615927,
+                        2.777239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond Point sous-région",
+                  "text": "Monumentul Rond Point sous-région formează un sens giratoriu central în cd-isiro-cathedral-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        27.615927,
+                        2.777239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond Point sous-région",
+                  "text": "The Rond Point sous-région monument marks a prominent central roundabout intersection in cd-isiro-cathedral-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        27.615927,
+                        2.777239
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-HU",
     coords: [27.6155, 2.7755],
@@ -819,7 +1485,160 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-symphonie-arts-kinshasa-landmarks-v2",
+    id: "cd-symphonie-arts-kinshasa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais de Marbre",
+                  "text": "Der historische und prunkvolle Palais de Marbre in Kinshasa wird heute als Museum genutzt, das bedeutende kongolesische Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        15.251718,
+                        -4.363779
+                  ]
+            },
+            {
+                  "name": "Mukina Galerie d'Art & Framing shop",
+                  "text": "Die Mukina-Galerie in Kinshasa kombiniert wechselnde Ausstellungen lokaler Gemälde mit einem professionellen Einrahmungsservice.",
+                  "category": "museum",
+                  "coords": [
+                        15.252406,
+                        -4.347232
+                  ]
+            },
+            {
+                  "name": "Les Serpents du Congo",
+                  "text": "Dieses spezialisierte Vivarium in Kinshasa präsentiert den Besuchern sicher in Terrarien untergebrachte endemische kongolesische Schlangenarten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.261214,
+                        -4.397872
+                  ]
+            },
+            {
+                  "name": "Symphonies naturelles",
+                  "text": "Symphonies naturelles ist ein Themenpark im Freien mit Erholungsgebieten in der Gegend von Kinshasa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232615,
+                        -4.372638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais de Marbre",
+                  "text": "A kinshasai történelmi és pompás Márványpalotát ma múzeumként használják, amely jelentős kongói műalkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        15.251718,
+                        -4.363779
+                  ]
+            },
+            {
+                  "name": "Mukina Galerie d'Art & Framing shop",
+                  "text": "A kinshasai Mukina Galéria helyi festmények időszaki kiállításait ötvözi egy professzionális képkeretező szolgáltatással.",
+                  "category": "museum",
+                  "coords": [
+                        15.252406,
+                        -4.347232
+                  ]
+            },
+            {
+                  "name": "Les Serpents du Congo",
+                  "text": "Ez a kinshasai specializált vivárium biztonságos terráriumokban elhelyezett endemikus kongói kígyófajokat mutat be a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        15.261214,
+                        -4.397872
+                  ]
+            },
+            {
+                  "name": "Symphonies naturelles",
+                  "text": "A Symphonies naturelles egy szabadtéri vidámpark rekreációs terekkel Kinshasa környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232615,
+                        -4.372638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais de Marbre",
+                  "text": "Istoricul și somptuosul Palat de Marmură din Kinshasa este folosit astăzi ca muzeu, expunând opere de artă congoleze importante.",
+                  "category": "museum",
+                  "coords": [
+                        15.251718,
+                        -4.363779
+                  ]
+            },
+            {
+                  "name": "Mukina Galerie d'Art & Framing shop",
+                  "text": "Galeria Mukina din Kinshasa combină expozițiile temporare de picturi locale cu un serviciu profesional de înrămare.",
+                  "category": "museum",
+                  "coords": [
+                        15.252406,
+                        -4.347232
+                  ]
+            },
+            {
+                  "name": "Les Serpents du Congo",
+                  "text": "Acest vivariu specializat din Kinshasa prezintă vizitatorilor specii endemice de șerpi congolezi, adăpostiți în siguranță în terarii.",
+                  "category": "recreational",
+                  "coords": [
+                        15.261214,
+                        -4.397872
+                  ]
+            },
+            {
+                  "name": "Symphonies naturelles",
+                  "text": "Symphonies naturelles este un parc tematic în aer liber care oferă spații de recreere în zona Kinshasa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232615,
+                        -4.372638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais de Marbre",
+                  "text": "The historical and grand Marble Palace in Kinshasa is now used as a museum displaying significant Congolese artwork.",
+                  "category": "museum",
+                  "coords": [
+                        15.251718,
+                        -4.363779
+                  ]
+            },
+            {
+                  "name": "Mukina Galerie d'Art & Framing shop",
+                  "text": "The Mukina Gallery in Kinshasa combines rotating exhibitions of local paintings with a professional framing service.",
+                  "category": "museum",
+                  "coords": [
+                        15.252406,
+                        -4.347232
+                  ]
+            },
+            {
+                  "name": "Les Serpents du Congo",
+                  "text": "This specialized vivarium in Kinshasa safely showcases endemic Congolese snake species housed in terrariums for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        15.261214,
+                        -4.397872
+                  ]
+            },
+            {
+                  "name": "Symphonies naturelles",
+                  "text": "Symphonies naturelles is an outdoor theme park featuring recreational spaces in the Kinshasa area.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232615,
+                        -4.372638
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.2455, -4.3555],
@@ -867,7 +1686,304 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-lumumba-statue-limete-landmarks-v2",
+    id: "cd-lumumba-statue-limete-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lemba S/S",
+                  "text": "Der Aussichtspunkt Lemba S/S bietet städtische Ausblicke in der Nähe der Patrice-Lumumba-Statue in Limete.",
+                  "category": "natural",
+                  "coords": [
+                        15.33255,
+                        -4.395429
+                  ]
+            },
+            {
+                  "name": "Koko Matete",
+                  "text": "Koko Matete ist ein lokales Denkmal in der Umgebung der Wahrzeichen von Limete.",
+                  "category": "historical",
+                  "coords": [
+                        15.345378,
+                        -4.391368
+                  ]
+            },
+            {
+                  "name": "Patrice Lumumba",
+                  "text": "Dieses imposante Denkmal an der Place de la Reconstruction ehrt Patrice Lumumba, eine Schlüsselfigur der kongolesischen Unabhängigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        15.34792,
+                        -4.377807
+                  ]
+            },
+            {
+                  "name": "Pascale",
+                  "text": "Pascale ist eine Attraktion in der Nähe der Patrice-Lumumba-Statue und anderer Sehenswürdigkeiten in Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.397908,
+                        -4.399257
+                  ]
+            },
+            {
+                  "name": "Les Intrigants",
+                  "text": "Les Intrigants ist ein Theatersaal in der Nähe der Lumumba-Statue im Viertel Limete.",
+                  "category": "cultural",
+                  "coords": [
+                        15.376109,
+                        -4.427353
+                  ]
+            },
+            {
+                  "name": "Eglise Corps du Christ",
+                  "text": "Die Eglise Corps du Christ ist ein Kirchengebäude in der Umgebung der Sehenswürdigkeiten von Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.384438,
+                        -4.423212
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "Der Grande Salle ist ein großer Theatersaal in der Nähe der Patrice-Lumumba-Statue.",
+                  "category": "cultural",
+                  "coords": [
+                        15.379257,
+                        -4.40889
+                  ]
+            },
+            {
+                  "name": "Appartement Privé",
+                  "text": "Das Appartement Privé ist ein Wohngebäude in der Nähe der historischen Sehenswürdigkeiten von Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.334384,
+                        -4.398207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lemba S/S",
+                  "text": "A Lemba S/S kilátó városi panorámát kínál a limete-i Patrice Lumumba-szobor közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.33255,
+                        -4.395429
+                  ]
+            },
+            {
+                  "name": "Koko Matete",
+                  "text": "A Koko Matete egy helyi emlékmű a limetei nevezetességek környékén.",
+                  "category": "historical",
+                  "coords": [
+                        15.345378,
+                        -4.391368
+                  ]
+            },
+            {
+                  "name": "Patrice Lumumba",
+                  "text": "A Place de la Reconstruction téren álló impozáns emlékmű Patrice Lumumba, a kongói függetlenség kulcsfigurája előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        15.34792,
+                        -4.377807
+                  ]
+            },
+            {
+                  "name": "Pascale",
+                  "text": "A Pascale egy látványosság a limetei Patrice Lumumba-szobor és más nevezetességek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.397908,
+                        -4.399257
+                  ]
+            },
+            {
+                  "name": "Les Intrigants",
+                  "text": "A Les Intrigants egy színházi tér a Lumumba-szobor közelében, a Limete negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.376109,
+                        -4.427353
+                  ]
+            },
+            {
+                  "name": "Eglise Corps du Christ",
+                  "text": "Az Eglise Corps du Christ egy templom a limetei nevezetességek környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.384438,
+                        -4.423212
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "A Grande Salle egy nagy színházterem a Patrice Lumumba-szobor negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.379257,
+                        -4.40889
+                  ]
+            },
+            {
+                  "name": "Appartement Privé",
+                  "text": "Az Appartement Privé egy lakóépület a történelmi limetei nevezetességek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.334384,
+                        -4.398207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lemba S/S",
+                  "text": "Punctul de belvedere Lemba S/S oferă priveliști urbane lângă statuia lui Patrice Lumumba din Limete.",
+                  "category": "natural",
+                  "coords": [
+                        15.33255,
+                        -4.395429
+                  ]
+            },
+            {
+                  "name": "Koko Matete",
+                  "text": "Koko Matete este un monument local situat în vecinătatea atracțiilor din Limete.",
+                  "category": "historical",
+                  "coords": [
+                        15.345378,
+                        -4.391368
+                  ]
+            },
+            {
+                  "name": "Patrice Lumumba",
+                  "text": "Situat în Place de la Reconstruction, acest monument impunător îl onorează pe Patrice Lumumba, o figură cheie a independenței congoleze.",
+                  "category": "historical",
+                  "coords": [
+                        15.34792,
+                        -4.377807
+                  ]
+            },
+            {
+                  "name": "Pascale",
+                  "text": "Pascale este o atracție situată în jurul statuii lui Lumumba din Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.397908,
+                        -4.399257
+                  ]
+            },
+            {
+                  "name": "Les Intrigants",
+                  "text": "Les Intrigants este un spațiu teatral situat aproape de statuia lui Lumumba din Limete.",
+                  "category": "cultural",
+                  "coords": [
+                        15.376109,
+                        -4.427353
+                  ]
+            },
+            {
+                  "name": "Eglise Corps du Christ",
+                  "text": "Eglise Corps du Christ este o biserică situată în zona atracțiilor istorice din Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.384438,
+                        -4.423212
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "Grande Salle este o sală mare de teatru poziționată în districtul statuii lui Lumumba.",
+                  "category": "cultural",
+                  "coords": [
+                        15.379257,
+                        -4.40889
+                  ]
+            },
+            {
+                  "name": "Appartement Privé",
+                  "text": "Appartement Privé este o structură de apartamente rezidențiale aproape de atracțiile istorice din Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.334384,
+                        -4.398207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lemba S/S",
+                  "text": "Lemba S/S offers urban views near the Patrice Lumumba statue in the Limete area.",
+                  "category": "natural",
+                  "coords": [
+                        15.33255,
+                        -4.395429
+                  ]
+            },
+            {
+                  "name": "Koko Matete",
+                  "text": "Koko Matete is a local monument situated in the vicinity of the Limete landmarks.",
+                  "category": "historical",
+                  "coords": [
+                        15.345378,
+                        -4.391368
+                  ]
+            },
+            {
+                  "name": "Patrice Lumumba",
+                  "text": "Located at the Place de la Reconstruction, this imposing monument honors Patrice Lumumba, a key figure in Congolese independence.",
+                  "category": "historical",
+                  "coords": [
+                        15.34792,
+                        -4.377807
+                  ]
+            },
+            {
+                  "name": "Pascale",
+                  "text": "Pascale is an attraction situated around the Lumumba Statue and landmarks in Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.397908,
+                        -4.399257
+                  ]
+            },
+            {
+                  "name": "Les Intrigants",
+                  "text": "Les Intrigants is a theatrical venue situated close to the Lumumba Statue in Limete.",
+                  "category": "cultural",
+                  "coords": [
+                        15.376109,
+                        -4.427353
+                  ]
+            },
+            {
+                  "name": "Eglise Corps du Christ",
+                  "text": "Eglise Corps du Christ is a church building located in the Limete landmark area.",
+                  "category": "landmark",
+                  "coords": [
+                        15.384438,
+                        -4.423212
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "Grande Salle is a large performance theatre positioned in the Lumumba Statue district.",
+                  "category": "cultural",
+                  "coords": [
+                        15.379257,
+                        -4.40889
+                  ]
+            },
+            {
+                  "name": "Appartement Privé",
+                  "text": "Appartement Privé is a residential apartment structure near the historical Limete landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        15.334384,
+                        -4.398207
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.3415, -4.3825],
@@ -1011,7 +2127,196 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-mount-ngaliema-park-landmarks-v2",
+    id: "cd-mount-ngaliema-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Ngaliema",
+                  "text": "Der Mont Ngaliema ist ein erhöhter Aussichtspunkt, der einen Panoramablick auf den Kongo und die umliegende Landschaft von Kinshasa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.248196,
+                        -4.327988
+                  ]
+            },
+            {
+                  "name": "La Corniche",
+                  "text": "La Corniche ist ein markanter Aussichtspunkt am Wasser mit Blick auf die Flussufer von Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.266457,
+                        -4.314401
+                  ]
+            },
+            {
+                  "name": "Espace Bilembo",
+                  "text": "Das Espace Bilembo ist ein innovatives Kunstzentrum mit zeitgenössischen kongolesischen Kunstausstellungen und Kulturworkshops.",
+                  "category": "cultural",
+                  "coords": [
+                        15.2716,
+                        -4.320934
+                  ]
+            },
+            {
+                  "name": "Theatre de Verdure",
+                  "text": "Das Theatre de Verdure ist ein Freiluft-Amphitheater in natürlicher Umgebung auf dem Mont Ngaliema.",
+                  "category": "cultural",
+                  "coords": [
+                        15.24972,
+                        -4.329704
+                  ]
+            },
+            {
+                  "name": "Symphonie des Arts",
+                  "text": "Symphonie des Arts ist ein renommiertes Kunstzentrum, das in Kinshasa verschiedene bildende und darstellende Künste zusammenbringt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258461,
+                        -4.331665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Ngaliema",
+                  "text": "A Mont Ngaliema egy magaslati kilátó, ahonnan panorámás kilátás nyílik a Kongó folyóra és a környező kinshasai tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        15.248196,
+                        -4.327988
+                  ]
+            },
+            {
+                  "name": "La Corniche",
+                  "text": "A La Corniche egy kiemelkedő vízparti kilátó, amely Kinshasa folyópartjára néz.",
+                  "category": "natural",
+                  "coords": [
+                        15.266457,
+                        -4.314401
+                  ]
+            },
+            {
+                  "name": "Espace Bilembo",
+                  "text": "Az Espace Bilembo egy innovatív művészeti központ, amely kortárs kongói művészeti kiállításokat és kulturális workshopokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        15.2716,
+                        -4.320934
+                  ]
+            },
+            {
+                  "name": "Theatre de Verdure",
+                  "text": "A Theatre de Verdure egy szabadtéri amfiteátrum, amely természetes környezetben, a Ngaliema-hegyen található.",
+                  "category": "cultural",
+                  "coords": [
+                        15.24972,
+                        -4.329704
+                  ]
+            },
+            {
+                  "name": "Symphonie des Arts",
+                  "text": "A Symphonie des Arts egy neves művészeti központ Kinshasában, amely a különböző vizuális és előadóművészeteket fogja össze.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258461,
+                        -4.331665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Ngaliema",
+                  "text": "Mont Ngaliema este un punct de belvedere care oferă vederi panoramice asupra fluviului Congo și a peisajelor înconjurătoare din Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.248196,
+                        -4.327988
+                  ]
+            },
+            {
+                  "name": "La Corniche",
+                  "text": "La Corniche este un punct de belvedere important situat pe malul apei, care domină malurile fluviului din Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.266457,
+                        -4.314401
+                  ]
+            },
+            {
+                  "name": "Espace Bilembo",
+                  "text": "Espace Bilembo este un centru inovator de artă, care prezintă expoziții de artă congoleză contemporană și ateliere culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.2716,
+                        -4.320934
+                  ]
+            },
+            {
+                  "name": "Theatre de Verdure",
+                  "text": "Theatre de Verdure este un amfiteatru în aer liber situat într-un cadru natural pe Muntele Ngaliema.",
+                  "category": "cultural",
+                  "coords": [
+                        15.24972,
+                        -4.329704
+                  ]
+            },
+            {
+                  "name": "Symphonie des Arts",
+                  "text": "Symphonie des Arts este un renumit centru de arte din Kinshasa, care reunește diverse arte vizuale și spectacole de artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258461,
+                        -4.331665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Ngaliema",
+                  "text": "Mont Ngaliema serves as an elevated viewpoint providing panoramic sights of the Congo River and surrounding Kinshasa landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        15.248196,
+                        -4.327988
+                  ]
+            },
+            {
+                  "name": "La Corniche",
+                  "text": "La Corniche is a prominent waterfront viewpoint overlooking the river banks of Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.266457,
+                        -4.314401
+                  ]
+            },
+            {
+                  "name": "Espace Bilembo",
+                  "text": "Espace Bilembo is an innovative arts centre featuring contemporary Congolese art exhibitions and cultural workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        15.2716,
+                        -4.320934
+                  ]
+            },
+            {
+                  "name": "Theatre de Verdure",
+                  "text": "Theatre de Verdure is an open-air amphitheatre set within natural surroundings on Mount Ngaliema.",
+                  "category": "cultural",
+                  "coords": [
+                        15.24972,
+                        -4.329704
+                  ]
+            },
+            {
+                  "name": "Symphonie des Arts",
+                  "text": "Symphonie des Arts is a renowned arts centre that brings together diverse visual and performing arts in Kinshasa.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258461,
+                        -4.331665
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.2605, -4.3205],
@@ -1059,7 +2364,52 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-idjwi-st-kizito-cathedral-landmarks-v2",
+    id: "cd-idjwi-st-kizito-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kashandagwe family",
+                  "text": "Dieser imposante, befestigte Steinkomplex, ein Wahrzeichen auf der Insel Idjwi, diente historisch als Residenz der einflussreichen Familie Kashandagwe.",
+                  "category": "castle",
+                  "coords": [
+                        29.033877,
+                        -2.225673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kashandagwe family",
+                  "text": "Az Idjwi-sziget nevezetességeként álló hatalmas, erődített kőépület a befolyásos Kashandagwe család rezidenciájaként szolgált a történelem során.",
+                  "category": "castle",
+                  "coords": [
+                        29.033877,
+                        -2.225673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kashandagwe family",
+                  "text": "Ridicându-se ca un reper proeminent pe Insula Idjwi, acest complex grandios de piatră fortificat a servit istoric drept reședință pentru influenta familie Kashandagwe.",
+                  "category": "castle",
+                  "coords": [
+                        29.033877,
+                        -2.225673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kashandagwe family",
+                  "text": "Standing as a prominent local landmark on Idjwi Island, this grand, fortified stone compound historically served as the palatial residence for the influential Kashandagwe family.",
+                  "category": "castle",
+                  "coords": [
+                        29.033877,
+                        -2.225673
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-SK",
     coords: [29.0705, -2.1505],
@@ -1155,7 +2505,88 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-kikwit-st-mary-cathedral-landmarks-v2",
+    id: "cd-kikwit-st-mary-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Base Voos Kikwit Town",
+                  "text": "Chez Papa Freddy Kusamba ist ein bekannter lokaler Treffpunkt und Veranstaltungsort unweit der St. Mary Cathedral in Kikwit.",
+                  "category": "landmark",
+                  "coords": [
+                        18.807805,
+                        -5.047557
+                  ]
+            },
+            {
+                  "name": "Centre culturel des frères josephites",
+                  "text": "Das Kulturzentrum der Iosephiten-Brüder in Kikwit fördert künstlerische, religiöse und bildende Aktivitäten in der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        18.803736,
+                        -5.01976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Base Voos Kikwit Town",
+                  "text": "A Chez Papa Freddy Kusamba egy jól ismert helyi találkozóhely és rendezvényközpont a kikwiti St. Mary katedrális közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.807805,
+                        -5.047557
+                  ]
+            },
+            {
+                  "name": "Centre culturel des frères josephites",
+                  "text": "A kikwiti József-rendi testvérek kulturális központja a közösség művészeti, vallási és oktatási tevékenységeit támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.803736,
+                        -5.01976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Base Voos Kikwit Town",
+                  "text": "Chez Papa Freddy Kusamba este un loc de întâlnire și de evenimente popular situat aproape de Catedrala Sfânta Maria din Kikwit.",
+                  "category": "landmark",
+                  "coords": [
+                        18.807805,
+                        -5.047557
+                  ]
+            },
+            {
+                  "name": "Centre culturel des frères josephites",
+                  "text": "Centrul cultural al fraților iozefiți din Kikwit promovează activitățile artistice, religioase și educaționale din comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        18.803736,
+                        -5.01976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez Papa Freddy Kusamba",
+                  "text": "Chez Papa Freddy Kusamba is a well-known local gathering spot and venue not far from St. Mary's Cathedral in Kikwit.",
+                  "category": "landmark",
+                  "coords": [
+                        18.807805,
+                        -5.047557
+                  ]
+            },
+            {
+                  "name": "Centre culturel des frères josephites",
+                  "text": "The cultural center of the Josephite brothers in Kikwit fosters artistic, religious, and educational activities in the community.",
+                  "category": "cultural",
+                  "coords": [
+                        18.803736,
+                        -5.01976
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KL",
     coords: [18.8105, -5.0405],

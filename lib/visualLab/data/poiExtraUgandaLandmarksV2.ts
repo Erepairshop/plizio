@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraUgandaLandmarksV2: POI[] = [
   {
-    id: "ug-uganda-national-mosque-landmarks-v2",
+    id: "ug-uganda-national-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Busses to Kigali",
+                  "text": "Diese belebte Verkehrsattraktion dient als Hauptabfahrtsort für Fernbusse, die von Kampala nach Kigali fahren.",
+                  "category": "landmark",
+                  "coords": [
+                        32.566554,
+                        0.31408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Busses to Kigali",
+                  "text": "Ez a forgalmas közlekedési látványosság a Kampalából Kigaliba tartó távolsági buszok fő indulási pontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        32.566554,
+                        0.31408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Busses to Kigali",
+                  "text": "Această atracție aglomerată de transport servește drept principal punct de plecare pentru autobuzele pe distanțe lungi care se îndreaptă din Kampala spre Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        32.566554,
+                        0.31408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Busses to Kigali",
+                  "text": "This busy transport attraction serves as the main departure point for long-distance buses heading from Kampala to Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        32.566554,
+                        0.31408
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5683, 0.3134],
@@ -48,7 +93,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-namirembe-cathedral-landmarks-v2",
+    id: "ug-namirembe-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playwright play house",
+                  "text": "Das Playwright Play House ist ein spezieller Theaterraum, der lokale Talente im Schreiben von Theaterstücken und dramatische Bühnenaufführungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        32.555947,
+                        0.315522
+                  ]
+            },
+            {
+                  "name": "Namirembe Cathedral",
+                  "text": "Die Namirembe Cathedral ist Ugandas älteste anglikanische Kathedrale, gekrönt von einer markanten roten Ziegelkuppel auf dem Gipfel des Namirembe Hill.",
+                  "category": "religious",
+                  "coords": [
+                        32.559439,
+                        0.314878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playwright play house",
+                  "text": "A Playwright play house egy dedikált színházi tér, amely a helyi drámaíró tehetségeket és a drámai színpadi előadásokat támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        32.555947,
+                        0.315522
+                  ]
+            },
+            {
+                  "name": "Namirembe Cathedral",
+                  "text": "A Namirembe-székesegyház Uganda legrégebbi anglikán katedrálisa, amelyet egy jellegzetes vöröstéglás kupola koronáz meg a Namirembe-hegy csúcsán.",
+                  "category": "religious",
+                  "coords": [
+                        32.559439,
+                        0.314878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playwright play house",
+                  "text": "Playwright play house este un spațiu teatral dedicat care încurajează talentul local de scriere a pieselor și spectacolele dramatice pe scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        32.555947,
+                        0.315522
+                  ]
+            },
+            {
+                  "name": "Namirembe Cathedral",
+                  "text": "Catedrala Namirembe este cea mai veche catedrală anglicană din Uganda, încoronată de o cupolă distinctivă din cărămidă roșie pe vârful dealului Namirembe.",
+                  "category": "religious",
+                  "coords": [
+                        32.559439,
+                        0.314878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playwright play house",
+                  "text": "Playwright play house is a dedicated theatre space that fosters local playwriting talent and dramatic stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        32.555947,
+                        0.315522
+                  ]
+            },
+            {
+                  "name": "Namirembe Cathedral",
+                  "text": "Namirembe Cathedral is Uganda's oldest Anglican cathedral, crowned by a distinctive red brick dome on the peak of Namirembe Hill.",
+                  "category": "religious",
+                  "coords": [
+                        32.559439,
+                        0.314878
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5594, 0.315],
@@ -93,7 +219,52 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
         {
-    id: "ug-independence-monument-landmarks-v2",
+    id: "ug-independence-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Independence Monument",
+                  "text": "Das Unabhängigkeitsdenkmal zeigt eine markante Skulptur eines Mannes, der ein Kind auswickelt, was die Geburt Ugandas als freie Nation im Jahr 1962 symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.581697,
+                        0.315514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Independence Monument",
+                  "text": "A Függetlenségi Emlékmű egy férfit és egy bepólyált gyermeket ábrázoló feltűnő szobor, amely Uganda 1962-es szabad nemzetté válását szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        32.581697,
+                        0.315514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Independence Monument",
+                  "text": "Monumentul Independenței prezintă o sculptură izbitoare a unui bărbat care dezvelește un copil, simbolizând nașterea Ugandei ca națiune liberă în 1962.",
+                  "category": "landmark",
+                  "coords": [
+                        32.581697,
+                        0.315514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Independence Monument",
+                  "text": "The Independence Monument features a striking sculpture of a man unwrapping a child, symbolizing Uganda's birth as a free nation in 1962.",
+                  "category": "landmark",
+                  "coords": [
+                        32.581697,
+                        0.315514
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5816, 0.3153],
@@ -189,7 +360,268 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-bahai-temple-landmarks-v2",
+    id: "ug-bahai-temple-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "LGBT",
+                  "text": "Dieses Wahrzeichen der örtlichen Gemeinde befindet sich in der weiteren Umgebung des ikonischen Bahá'í-Tempel-Hügels.",
+                  "category": "landmark",
+                  "coords": [
+                        32.604151,
+                        0.42663
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "Dieser große Hügel erhebt sich markant über die Stadt und beherbergt gehobene Wohngebiete und Telekommunikationsmasten.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Ndere Centre",
+                  "text": "Dieses lebendige Kulturtheater ist berühmt für seine spektakulären traditionellen ugandischen Musik- und Tanzaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        32.605306,
+                        0.36386
+                  ]
+            },
+            {
+                  "name": "Bahai House of Worship",
+                  "text": "Die üppigen, hochgelegenen Gärten, die dieses architektonische Wunderwerk umgeben, bieten Panoramablicke über die grünen Hügel Kampalas.",
+                  "category": "natural",
+                  "coords": [
+                        32.588448,
+                        0.364399
+                  ]
+            },
+            {
+                  "name": "Adnans Wedding",
+                  "text": "Diese Attraktion dient als malerischer Veranstaltungsort und beherbergt gesellschaftliche Zusammenkünfte in der Nähe der ruhigen Anlagen des Bahá'í-Tempels.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587871,
+                        0.366926
+                  ]
+            },
+            {
+                  "name": "Lubiri Lwa Namasole E'Kagoma",
+                  "text": "Diese historischen Ruinen markieren die ehemalige königliche Residenz einer Königinmutter von Buganda und sind von tiefer kultureller Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        32.542901,
+                        0.401541
+                  ]
+            },
+            {
+                  "name": "Lily Gardens",
+                  "text": "Dieser gepflegte Außenbereich bietet florale Arrangements und schattige Plätze zur Entspannung in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591022,
+                        0.399462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "LGBT",
+                  "text": "Ez a helyi közösségi nevezetesség az ikonikus Bahá'í templom dombját körülölelő tágasabb területen található.",
+                  "category": "landmark",
+                  "coords": [
+                        32.604151,
+                        0.42663
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "A város fölé magasodó domb exkluzív lakóövezeteknek és telekommunikációs árbocoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Ndere Centre",
+                  "text": "Ez a nyüzsgő kulturális színház a látványos hagyományos ugandai zenei és táncelőadásairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        32.605306,
+                        0.36386
+                  ]
+            },
+            {
+                  "name": "Bahai House of Worship",
+                  "text": "Az építészeti csoda körül elterülő buja, magaslati kertek panorámás kilátást nyújtanak Kampala zöldellő dombjaira.",
+                  "category": "natural",
+                  "coords": [
+                        32.588448,
+                        0.364399
+                  ]
+            },
+            {
+                  "name": "Adnans Wedding",
+                  "text": "Ez a festői rendezvényhelyszínként működő látványosság társasági eseményeknek ad otthont a Bahá'í templom nyugodt területének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587871,
+                        0.366926
+                  ]
+            },
+            {
+                  "name": "Lubiri Lwa Namasole E'Kagoma",
+                  "text": "Ezek a történelmi romok egy bugandai anyakirályné egykori királyi rezidenciáját jelölik, és mély kulturális jelentőséggel bírnak.",
+                  "category": "historical",
+                  "coords": [
+                        32.542901,
+                        0.401541
+                  ]
+            },
+            {
+                  "name": "Lily Gardens",
+                  "text": "Ez a gondozott szabadtéri terület virágkiállításokkal és árnyékos pihenőhelyekkel várja a városban tartózkodókat.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591022,
+                        0.399462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "LGBT",
+                  "text": "Acest reper al comunității locale este situat în zona mai largă care înconjoară emblematicul deal al Templului Bahá'í.",
+                  "category": "landmark",
+                  "coords": [
+                        32.604151,
+                        0.42663
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "Ridicându-se proeminent deasupra orașului, acest deal major găzduiește zone rezidențiale de lux și antene de telecomunicații.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Ndere Centre",
+                  "text": "Acest teatru cultural vibrant este renumit pentru spectaculoasele sale reprezentații de muzică și dans tradițional ugandez.",
+                  "category": "cultural",
+                  "coords": [
+                        32.605306,
+                        0.36386
+                  ]
+            },
+            {
+                  "name": "Bahai House of Worship",
+                  "text": "Grădinile luxuriante și înalte care înconjoară această minune arhitecturală oferă puncte de belvedere panoramice asupra dealurilor verzi ale Kampalei.",
+                  "category": "natural",
+                  "coords": [
+                        32.588448,
+                        0.364399
+                  ]
+            },
+            {
+                  "name": "Adnans Wedding",
+                  "text": "Funcționând ca o locație pitorească pentru evenimente, această atracție găzduiește adunări sociale lângă terenurile liniștite ale Templului Bahá'í.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587871,
+                        0.366926
+                  ]
+            },
+            {
+                  "name": "Lubiri Lwa Namasole E'Kagoma",
+                  "text": "Aceste ruine istorice marchează fosta reședință regală a unei regine mame din Buganda, având o profundă semnificație culturală.",
+                  "category": "historical",
+                  "coords": [
+                        32.542901,
+                        0.401541
+                  ]
+            },
+            {
+                  "name": "Lily Gardens",
+                  "text": "Acest spațiu exterior cultivat prezintă aranjamente florale și zone umbrite pentru relaxare în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591022,
+                        0.399462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "LGBT",
+                  "text": "This local community landmark is situated in the broader area surrounding the iconic Bahá'í Temple hill.",
+                  "category": "landmark",
+                  "coords": [
+                        32.604151,
+                        0.42663
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "Rising prominently above the city, this major hill is home to upscale residential areas and telecommunication masts.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Ndere Centre",
+                  "text": "This vibrant cultural theatre is renowned for its spectacular traditional Ugandan music and dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        32.605306,
+                        0.36386
+                  ]
+            },
+            {
+                  "name": "Bahai House of Worship",
+                  "text": "The lush, elevated gardens surrounding this architectural marvel offer panoramic viewpoints across Kampala's green hills.",
+                  "category": "natural",
+                  "coords": [
+                        32.588448,
+                        0.364399
+                  ]
+            },
+            {
+                  "name": "Adnans Wedding",
+                  "text": "Operating as a scenic event venue, this attraction hosts social gatherings near the tranquil grounds of the Bahá'í Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587871,
+                        0.366926
+                  ]
+            },
+            {
+                  "name": "Lubiri Lwa Namasole E'Kagoma",
+                  "text": "These historical ruins mark the former royal residence of a Buganda Queen Mother, holding deep cultural significance.",
+                  "category": "historical",
+                  "coords": [
+                        32.542901,
+                        0.401541
+                  ]
+            },
+            {
+                  "name": "Lily Gardens",
+                  "text": "This cultivated outdoor space features floral displays and shaded areas for relaxation in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591022,
+                        0.399462
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5886, 0.3644],
@@ -333,7 +765,160 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-parliament-house-landmarks-v2",
+    id: "ug-parliament-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Stride",
+                  "text": "The Stride ist ein Denkmal in Kampala, das an das historische Treffen der Commonwealth-Regierungschefs im Jahr 2007 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587632,
+                        0.316577
+                  ]
+            },
+            {
+                  "name": "National Theater",
+                  "text": "Das Nationaltheater in Kampala ist das Herzstück des Uganda National Cultural Centre und beherbergt zahlreiche Bühnenproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58915,
+                        0.315795
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "Der Nakawa Market ist einer der größten und lebhaftesten Freiluftmärkte Kampalas, der frische Produkte und lokale Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        32.612149,
+                        0.329772
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "Das Lugogo Show Grounds ist ein weitläufiges Ausstellungs- und Kunstzentrum, das große Messen und Konzerte in Kampala veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Stride",
+                  "text": "A The Stride egy emlékmű Kampalában, amely a Nemzetközösség kormányfőinek történelmi, 2007-es találkozójának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587632,
+                        0.316577
+                  ]
+            },
+            {
+                  "name": "National Theater",
+                  "text": "A kampalai Nemzeti Színház az Ugandai Nemzeti Kulturális Központ központjaként működik, és számos színpadi produkciónak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58915,
+                        0.315795
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "A Nakawa piac Kampala egyik legnagyobb, nyüzsgő szabadtéri piaca, ahol friss termékeket és helyi árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        32.612149,
+                        0.329772
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "A Lugogo Show Grounds egy tágas kiállítási és művészeti központ, amely nagy szakmai vásároknak és koncerteknek ad otthont Kampalában.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Stride",
+                  "text": "The Stride este un monument din Kampala care comemorează istorica reuniune a șefilor de guvern din Commonwealth din 2007.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587632,
+                        0.316577
+                  ]
+            },
+            {
+                  "name": "National Theater",
+                  "text": "Teatrul Național din Kampala reprezintă inima Centrului Cultural Național din Uganda, găzduind numeroase producții scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58915,
+                        0.315795
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "Piața Nakawa este una dintre cele mai mari și mai vibrante piețe în aer liber din Kampala, oferind produse proaspete și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.612149,
+                        0.329772
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "Lugogo Show Grounds este un centru spațios de expoziții și arte, care găzduiește târguri comerciale majore și concerte în Kampala.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Stride",
+                  "text": "The Stride is a monument in Kampala commemorating the historic 2007 Commonwealth Heads of Government Meeting.",
+                  "category": "landmark",
+                  "coords": [
+                        32.587632,
+                        0.316577
+                  ]
+            },
+            {
+                  "name": "National Theater",
+                  "text": "The National Theater in Kampala serves as the core of the Uganda National Cultural Centre, hosting numerous stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58915,
+                        0.315795
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "Nakawa Market is one of Kampala's largest vibrant open-air marketplaces, offering fresh produce and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        32.612149,
+                        0.329772
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "Lugogo Show Grounds is a spacious exhibition and arts center that hosts major trade fairs and concerts in Kampala.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5858, 0.3164],
@@ -429,7 +1014,52 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-kabaka-palace-landmarks-v2",
+    id: "ug-kabaka-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adonai Adventure Gardens",
+                  "text": "Dieser angelegte Themenpark bietet Erholung im Freien und Gartenanlagen in der Nähe des historischen Kabaka-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        32.551284,
+                        0.271792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adonai Adventure Gardens",
+                  "text": "Ez a parkosított vidámpark szabadtéri kikapcsolódást és kerteket kínál a történelmi Kabaka Palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.551284,
+                        0.271792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adonai Adventure Gardens",
+                  "text": "Acest parc tematic amenajat oferă recreere în aer liber și spații verzi în apropierea istoricului Palat Kabaka.",
+                  "category": "recreational",
+                  "coords": [
+                        32.551284,
+                        0.271792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adonai Adventure Gardens",
+                  "text": "This landscaped theme park offers outdoor recreation and garden spaces near the historic Kabaka Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        32.551284,
+                        0.271792
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5647, 0.2981],
@@ -573,7 +1203,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-mapeera-house-landmarks-v2",
+    id: "ug-mapeera-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "C.N KIKONYOGO MONEY MUSEUM",
+                  "text": "Das C.N. Kikonyogo Money Museum im Gebäude der Bank von Uganda zeigt die reiche numismatische Geschichte und wirtschaftliche Entwicklung der Nation.",
+                  "category": "museum",
+                  "coords": [
+                        32.5806,
+                        0.314392
+                  ]
+            },
+            {
+                  "name": "Church House Building",
+                  "text": "Das Church House Building ist ein markantes 16-stöckiges Geschäfts- und Religionshochhaus im Besitz der Kirche von Uganda.",
+                  "category": "religious",
+                  "coords": [
+                        32.579419,
+                        0.313459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "C.N KIKONYOGO MONEY MUSEUM",
+                  "text": "Az Ugandai Bank épületében található C.N. Kikonyogo Pénzmúzeum az ország gazdag numizmatikai történelmét és gazdasági fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.5806,
+                        0.314392
+                  ]
+            },
+            {
+                  "name": "Church House Building",
+                  "text": "A Church House Building egy kiemelkedő, 16 emeletes kereskedelmi és vallási toronyház, amely az Ugandai Egyház tulajdonában van.",
+                  "category": "religious",
+                  "coords": [
+                        32.579419,
+                        0.313459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "C.N KIKONYOGO MONEY MUSEUM",
+                  "text": "Muzeul Banilor C.N. Kikonyogo, găzduit în incinta Băncii Ugandei, detaliază bogata istorie numismatică și evoluția economică a națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.5806,
+                        0.314392
+                  ]
+            },
+            {
+                  "name": "Church House Building",
+                  "text": "Clădirea Church House este un bloc comercial și religios proeminent, cu 16 etaje, deținut de Biserica din Uganda.",
+                  "category": "religious",
+                  "coords": [
+                        32.579419,
+                        0.313459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "C.N KIKONYOGO MONEY MUSEUM",
+                  "text": "The C.N. Kikonyogo Money Museum, housed within the Bank of Uganda, details the rich numismatic history and economic evolution of the nation.",
+                  "category": "museum",
+                  "coords": [
+                        32.5806,
+                        0.314392
+                  ]
+            },
+            {
+                  "name": "Church House Building",
+                  "text": "The Church House Building is a prominent 16-story commercial and religious high-rise owned by the Church of Uganda.",
+                  "category": "religious",
+                  "coords": [
+                        32.579419,
+                        0.313459
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5806, 0.3138],
@@ -621,7 +1332,52 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-kampala-clock-tower-landmarks-v2",
+    id: "ug-kampala-clock-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Katwe market",
+                  "text": "Der Katwe-Markt ist ein geschäftiges Handelszentrum, das für seine lokale Metallverarbeitung und seine handwerklichen Elektronikreparaturen berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.575054,
+                        0.301564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Katwe market",
+                  "text": "A Katwe piac egy nyüzsgő kereskedelmi központ, amely helyi fémmegmunkálásáról és kézműves elektronikai javítási készségeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        32.575054,
+                        0.301564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Katwe market",
+                  "text": "Piața Katwe este un centru comercial aglomerat, renumit pentru prelucrarea locală a metalelor și abilitățile artizanale de reparare a electronicelor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.575054,
+                        0.301564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Katwe market",
+                  "text": "Katwe Market is a bustling commercial hub famously known for its local metalwork and artisan electronics repair skills.",
+                  "category": "landmark",
+                  "coords": [
+                        32.575054,
+                        0.301564
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5765, 0.3056],
@@ -669,7 +1425,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-makerere-main-building-landmarks-v2",
+    id: "ug-makerere-main-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "OSAGYEFO",
+                  "text": "Dieses auf dem Universitätsgelände errichtete monumentale Bauwerk ehrt das panafrikanische Erbe von Kwame Nkrumah.",
+                  "category": "historical",
+                  "coords": [
+                        32.568946,
+                        0.336403
+                  ]
+            },
+            {
+                  "name": "Golden Jubilee Monument",
+                  "text": "Dieses städtische Denkmal wurde zur Feier des fünfzigsten Jahrestages der Unabhängigkeit der Nation errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        32.566598,
+                        0.334978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "OSAGYEFO",
+                  "text": "Az egyetem területén álló monumentális építmény Kwame Nkrumah pánafrikai öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        32.568946,
+                        0.336403
+                  ]
+            },
+            {
+                  "name": "Golden Jubilee Monument",
+                  "text": "Ezt a polgári emlékművet a nemzet függetlenségének ötvenedik évfordulója alkalmából állították.",
+                  "category": "historical",
+                  "coords": [
+                        32.566598,
+                        0.334978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "OSAGYEFO",
+                  "text": "Aflată pe terenurile universității, această structură monumentală onorează moștenirea pan-africană a lui Kwame Nkrumah.",
+                  "category": "historical",
+                  "coords": [
+                        32.568946,
+                        0.336403
+                  ]
+            },
+            {
+                  "name": "Golden Jubilee Monument",
+                  "text": "Acest monument civic a fost ridicat pentru a comemora a cincizecea aniversare a independenței națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        32.566598,
+                        0.334978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "OSAGYEFO",
+                  "text": "Standing on the university grounds, this monumental structure honors the pan-African legacy of Kwame Nkrumah.",
+                  "category": "historical",
+                  "coords": [
+                        32.568946,
+                        0.336403
+                  ]
+            },
+            {
+                  "name": "Golden Jubilee Monument",
+                  "text": "This civic monument was erected to commemorate the fiftieth anniversary of the nation's independence.",
+                  "category": "historical",
+                  "coords": [
+                        32.566598,
+                        0.334978
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5678, 0.3344],
@@ -717,7 +1554,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-uganda-national-museum-landmarks-v2",
+    id: "ug-uganda-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uganda Museum",
+                  "text": "Dieses im Jahr 1908 gegründete älteste Museum Ostafrikas verfügt über eine bemerkenswerte Sammlung spielbarer traditioneller Musikinstrumente.",
+                  "category": "museum",
+                  "coords": [
+                        32.582579,
+                        0.335857
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "Dieser markante zentrale Gipfel ist bekannt für sein wohlhabendes Wohnviertel und die historischen zeremoniellen Stätten der nationalen Unabhängigkeit.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uganda Museum",
+                  "text": "Az 1908-ban alapított, Kelet-Afrika legrégebbi múzeumának számító intézmény játszható hagyományos hangszerek figyelemre méltó gyűjteményével büszkélkedhet.",
+                  "category": "museum",
+                  "coords": [
+                        32.582579,
+                        0.335857
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "Ez a kiemelkedő központi domb jómódú lakónegyedéről és a történelmi nemzeti függetlenségi ceremóniák helyszínéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uganda Museum",
+                  "text": "Fondat în 1908, acesta este cel mai vechi muzeu din Africa de Est și se mândrește cu o colecție remarcabilă de instrumente muzicale tradiționale care pot fi cântate.",
+                  "category": "museum",
+                  "coords": [
+                        32.582579,
+                        0.335857
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "Acest vârf central proeminent este cunoscut pentru cartierul său rezidențial bogat și pentru terenurile ceremoniale istorice ale independenței naționale.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uganda Museum",
+                  "text": "Founded in 1908, this is the oldest museum in East Africa and boasts a remarkable collection of playable traditional musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        32.582579,
+                        0.335857
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "This prominent central peak is known for its affluent residential neighborhood and the historic national independence ceremonial grounds.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5828, 0.3353],
@@ -765,7 +1683,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-workers-house-landmarks-v2",
+    id: "ug-workers-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Workers House",
+                  "text": "Die aufragende Glasfassade dieses modernen Wolkenkratzers bietet weite urbane Ausblicke über das geschäftige Herz von Kampala.",
+                  "category": "natural",
+                  "coords": [
+                        32.582408,
+                        0.313659
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Christ the King ist eine markante katholische Pfarrkirche im belebten Zentrum von Kampala.",
+                  "category": "religious",
+                  "coords": [
+                        32.584465,
+                        0.314258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Workers House",
+                  "text": "Ennek a modern felhőkarcolónak a magasba nyúló üveghomlokzata lenyűgöző városi kilátást nyújt Kampala nyüzsgő központjára.",
+                  "category": "natural",
+                  "coords": [
+                        32.582408,
+                        0.313659
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "A Christ the King egy jelentős katolikus plébániatemplom Kampala nyüzsgő központjában.",
+                  "category": "religious",
+                  "coords": [
+                        32.584465,
+                        0.314258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Workers House",
+                  "text": "Fațada impunătoare din sticlă a acestui zgârie-nori modern oferă puncte de belvedere urbane ample asupra inimii pline de viață a Kampalei.",
+                  "category": "natural",
+                  "coords": [
+                        32.582408,
+                        0.313659
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Christ the King este o biserică parohială catolică proeminentă, situată în centrul plin de viață al orașului Kampala.",
+                  "category": "religious",
+                  "coords": [
+                        32.584465,
+                        0.314258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Workers House",
+                  "text": "The towering glass facade of this modern skyscraper provides sweeping urban viewpoints over the bustling heart of Kampala.",
+                  "category": "natural",
+                  "coords": [
+                        32.582408,
+                        0.313659
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Christ the King is a prominent Catholic parish church located in the bustling center of Kampala.",
+                  "category": "religious",
+                  "coords": [
+                        32.584465,
+                        0.314258
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5833, 0.3129],
@@ -861,7 +1860,160 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-entebbe-old-terminal-landmarks-v2",
+    id: "ug-entebbe-old-terminal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park Shoebill - Shoebill birding boat trip",
+                  "text": "Diese Attraktion bietet Bootstouren zur Vogelbeobachtung an, bei denen man den seltenen Schuhschnabel in den Feuchtgebieten um Entebbe sehen kann.",
+                  "category": "landmark",
+                  "coords": [
+                        32.378159,
+                        0.048753
+                  ]
+            },
+            {
+                  "name": "Horizon Resort",
+                  "text": "Dieser Wasserpark im Horizon Resort in Entebbe bietet Erfrischung und Wasserrutschen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        32.453823,
+                        0.03451
+                  ]
+            },
+            {
+                  "name": "Waiya Bay",
+                  "text": "Die Waiya Bay ist eine malerische Bucht in der Nähe von Entebbe am riesigen Viktoriasee.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408605,
+                        0.059836
+                  ]
+            },
+            {
+                  "name": "Spennah Beach",
+                  "text": "Spennah Beach ist ein beliebter Strand in Entebbe, der für sein lebhaftes Ambiente und die Nähe zum Viktoriasee bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        32.456658,
+                        0.036226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park Shoebill - Shoebill birding boat trip",
+                  "text": "Ez a látványosság madármegfigyelő csónaktúrákat kínál, ahol megfigyelhető a ritka papucscsőrű madár az Entebbe körüli vizenyős területeken.",
+                  "category": "landmark",
+                  "coords": [
+                        32.378159,
+                        0.048753
+                  ]
+            },
+            {
+                  "name": "Horizon Resort",
+                  "text": "Ez az Entebbe-i Horizon Resortban található vízipark hűsölést és vízi csúszdákat kínál a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        32.453823,
+                        0.03451
+                  ]
+            },
+            {
+                  "name": "Waiya Bay",
+                  "text": "A Waiya-öböl egy festői öböl Entebbe közelében, a hatalmas Viktória-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408605,
+                        0.059836
+                  ]
+            },
+            {
+                  "name": "Spennah Beach",
+                  "text": "A Spennah Beach egy népszerű strand Entebbe-ben, amely élénk hangulatáról és a Viktória-tó közelségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        32.456658,
+                        0.036226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park Shoebill - Shoebill birding boat trip",
+                  "text": "Această atracție oferă excursii cu barca pentru observarea păsărilor, oferind șansa de a vedea rara pasăre sabot în zonele umede din jurul Entebbe.",
+                  "category": "landmark",
+                  "coords": [
+                        32.378159,
+                        0.048753
+                  ]
+            },
+            {
+                  "name": "Horizon Resort",
+                  "text": "Acest parc acvatic de la Horizon Resort din Entebbe oferă răcorire și tobogane cu apă pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        32.453823,
+                        0.03451
+                  ]
+            },
+            {
+                  "name": "Waiya Bay",
+                  "text": "Golful Waiya este un golf pitoresc situat în apropiere de Entebbe, pe vastul Lac Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408605,
+                        0.059836
+                  ]
+            },
+            {
+                  "name": "Spennah Beach",
+                  "text": "Spennah Beach este o plajă populară din Entebbe, cunoscută pentru atmosfera sa plină de viață și apropierea de Lacul Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.456658,
+                        0.036226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Shoebill - Shoebill birding boat trip",
+                  "text": "This attraction offers birding boat trips providing a chance to spot the rare shoebill stork in the wetlands around Entebbe.",
+                  "category": "landmark",
+                  "coords": [
+                        32.378159,
+                        0.048753
+                  ]
+            },
+            {
+                  "name": "Horizon Resort",
+                  "text": "This water park at the Horizon Resort in Entebbe provides cooling fun and water slides for families.",
+                  "category": "recreational",
+                  "coords": [
+                        32.453823,
+                        0.03451
+                  ]
+            },
+            {
+                  "name": "Waiya Bay",
+                  "text": "Waiya Bay is a scenic bay located near Entebbe on the vast expanse of Lake Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408605,
+                        0.059836
+                  ]
+            },
+            {
+                  "name": "Spennah Beach",
+                  "text": "Spennah Beach is a popular beach in Entebbe known for its lively vibe and proximity to Lake Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.456658,
+                        0.036226
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-113",
     coords: [32.443, 0.043],
@@ -909,7 +2061,52 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-shree-sanatan-temple-landmarks-v2",
+    id: "ug-shree-sanatan-temple-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bat Valley Theatre",
+                  "text": "Das Bat Valley Theatre ist ein beliebtes Kulturzentrum in der Stadt, in dem häufig lokale ugandische Comedy-Shows und lebhafte Bühnendramen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        32.57296,
+                        0.323279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bat Valley Theatre",
+                  "text": "A Bat Valley Theatre egy népszerű kulturális központ a városban, amely gyakran ad otthont helyi ugandai vígjátékoknak és élénk színpadi drámáknak.",
+                  "category": "cultural",
+                  "coords": [
+                        32.57296,
+                        0.323279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bat Valley Theatre",
+                  "text": "Teatrul Bat Valley este un centru cultural popular din oraș, care găzduiește frecvent spectacole de comedie locale ugandeze și drame vibrante pe scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        32.57296,
+                        0.323279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bat Valley Theatre",
+                  "text": "Bat Valley Theatre is a popular cultural center in the city that frequently hosts local Ugandan comedy shows and vibrant stage dramas.",
+                  "category": "cultural",
+                  "coords": [
+                        32.57296,
+                        0.323279
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5761, 0.3155],
@@ -957,7 +2154,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-igongo-cultural-centre-landmarks-v2",
+    id: "ug-igongo-cultural-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simone's waterfall",
+                  "text": "Ein malerischer natürlicher Aussichtspunkt mit kaskadierenden Wassermassen in der Nähe des Kulturzentrums Igongo.",
+                  "category": "natural",
+                  "coords": [
+                        30.733604,
+                        -0.612039
+                  ]
+            },
+            {
+                  "name": "Eriijukiro Museum of Southwestern Uganda",
+                  "text": "Ein umfassendes kulturelles Museum, das das Erbe und die Geschichte der Region Ankole hervorhebt.",
+                  "category": "museum",
+                  "coords": [
+                        30.740695,
+                        -0.521342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simone's waterfall",
+                  "text": "Egy festői természetes kilátóhely zuhatagokkal az Igongo Kulturális Központ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        30.733604,
+                        -0.612039
+                  ]
+            },
+            {
+                  "name": "Eriijukiro Museum of Southwestern Uganda",
+                  "text": "Egy átfogó kulturális múzeum, amely kiemeli az Ankole régió örökségét és történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        30.740695,
+                        -0.521342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simone's waterfall",
+                  "text": "Un punct de belvedere natural pitoresc, cu ape în cascadă, în apropierea Centrului Cultural Igongo.",
+                  "category": "natural",
+                  "coords": [
+                        30.733604,
+                        -0.612039
+                  ]
+            },
+            {
+                  "name": "Eriijukiro Museum of Southwestern Uganda",
+                  "text": "Un muzeu cultural cuprinzător care evidențiază patrimoniul și istoria regiunii Ankole.",
+                  "category": "museum",
+                  "coords": [
+                        30.740695,
+                        -0.521342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simone's waterfall",
+                  "text": "A scenic natural viewpoint featuring cascading waters near the Igongo Cultural Centre.",
+                  "category": "natural",
+                  "coords": [
+                        30.733604,
+                        -0.612039
+                  ]
+            },
+            {
+                  "name": "Eriijukiro Museum of Southwestern Uganda",
+                  "text": "A comprehensive cultural museum highlighting the heritage and history of the Ankole region.",
+                  "category": "museum",
+                  "coords": [
+                        30.740695,
+                        -0.521342
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-410",
     coords: [30.7411, -0.5517],
@@ -1005,7 +2283,160 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-kibuli-mosque-landmarks-v2",
+    id: "ug-kibuli-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "Dieses von der ugandischen Steuerbehörde betriebene Spezialmuseum zeigt die Geschichte der Steuern und des Handels im Land.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "Diese prominente zeitgenössische Galerie in einem Industriegebiet präsentiert innovative Werke aufstrebender afrikanischer bildender Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "UGANDA POLICE MUSEUM",
+                  "text": "Dieses Archiv der Strafverfolgungsbehörden zeigt historische Uniformen sowie alte Ausrüstung und dokumentiert die Entwicklung der Polizeiarbeit in Uganda.",
+                  "category": "museum",
+                  "coords": [
+                        32.591411,
+                        0.309397
+                  ]
+            },
+            {
+                  "name": "Gallery Antique",
+                  "text": "In dieser Galerie können Besucher eine kuratierte Auswahl historischer Artefakte, altertümlichen afrikanischen Kunsthandwerks und seltener Sammlerstücke durchstöbern.",
+                  "category": "museum",
+                  "coords": [
+                        32.592337,
+                        0.303177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "Az Ugandai Adóhatóság által fenntartott szakkülönlegességű múzeum a nemzet adózásának és kereskedelmének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "Az ipari övezetben található kiemelkedő kortárs galéria feltörekvő afrikai vizuális művészek innovatív alkotásait emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "UGANDA POLICE MUSEUM",
+                  "text": "Ez a rendészeti archívum történelmi egyenruhákat, régi felszereléseket mutat be, és az ugandai rendfenntartás fejlődését krónikálja.",
+                  "category": "museum",
+                  "coords": [
+                        32.591411,
+                        0.309397
+                  ]
+            },
+            {
+                  "name": "Gallery Antique",
+                  "text": "A látogatók történelmi műtárgyak, régi afrikai kézműves termékek és ritka gyűjtői darabok gondosan összeállított válogatását böngészhetik ebben a galériában.",
+                  "category": "museum",
+                  "coords": [
+                        32.592337,
+                        0.303177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "Administrat de Autoritatea Fiscală din Uganda, acest muzeu specializat prezintă istoria fiscalității și a comerțului din țară.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "Situată într-o zonă industrială, această galerie contemporană proeminentă evidențiază lucrări inovatoare ale artiștilor vizuali africani emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "UGANDA POLICE MUSEUM",
+                  "text": "Această arhivă de aplicare a legii expune uniforme istorice, echipamente de epocă și prezintă evoluția poliției din Uganda.",
+                  "category": "museum",
+                  "coords": [
+                        32.591411,
+                        0.309397
+                  ]
+            },
+            {
+                  "name": "Gallery Antique",
+                  "text": "Vizitatorii pot explora o selecție curatorială de artefacte istorice, meșteșuguri africane de epocă și obiecte de colecție rare la această galerie.",
+                  "category": "museum",
+                  "coords": [
+                        32.592337,
+                        0.303177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "Run by the Uganda Revenue Authority, this specialized museum showcases the history of taxation and trade in the nation.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "Located in an industrial area, this prominent contemporary gallery highlights innovative works by emerging African visual artists.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "UGANDA POLICE MUSEUM",
+                  "text": "This law enforcement archive displays historical uniforms, vintage equipment, and chronicles the evolution of policing in Uganda.",
+                  "category": "museum",
+                  "coords": [
+                        32.591411,
+                        0.309397
+                  ]
+            },
+            {
+                  "name": "Gallery Antique",
+                  "text": "Visitors can browse a curated selection of historical artifacts, vintage African crafts, and rare collectibles at this gallery.",
+                  "category": "museum",
+                  "coords": [
+                        32.592337,
+                        0.303177
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-102",
     coords: [32.5936, 0.3061],
@@ -1101,7 +2532,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-jinja-railway-bridge-landmarks-v2",
+    id: "ug-jinja-railway-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "River View stp",
+                  "text": "Dieser malerische Rastplatz bietet einen hervorragenden fotografischen Blickwinkel auf die neuen Tragseile der Jinja-Eisenbahnbrücke über den Nil.",
+                  "category": "natural",
+                  "coords": [
+                        33.192139,
+                        0.43311
+                  ]
+            },
+            {
+                  "name": "nile anchor palace",
+                  "text": "Diese elegante Gaststätte liegt am Flussufer nahe der Eisenbahnbrücke und bietet gepflegte Gärten und einen entspannenden Blick auf den Nil.",
+                  "category": "landmark",
+                  "coords": [
+                        33.196125,
+                        0.438049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "River View stp",
+                  "text": "Ez a festői pihenőhely kiváló fotózási szöget biztosít a Nílust átívelő jinja vasúti híd új tartókábeleire.",
+                  "category": "natural",
+                  "coords": [
+                        33.192139,
+                        0.43311
+                  ]
+            },
+            {
+                  "name": "nile anchor palace",
+                  "text": "A vasúti hídhoz közeli folyópart mentén fekvő elegáns vendéglátóhely gondozott kertekkel és a Nílusra nyíló pihentető kilátással büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.196125,
+                        0.438049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "River View stp",
+                  "text": "Acest popas pitoresc oferă un unghi fotografic excelent asupra noilor cabluri ale Podului Feroviar Jinja care traversează Nilul.",
+                  "category": "natural",
+                  "coords": [
+                        33.192139,
+                        0.43311
+                  ]
+            },
+            {
+                  "name": "nile anchor palace",
+                  "text": "Situat de-a lungul malului râului lângă podul feroviar, această locație elegantă are grădini îngrijite și vederi relaxante ale Nilului.",
+                  "category": "landmark",
+                  "coords": [
+                        33.196125,
+                        0.438049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "River View stp",
+                  "text": "This scenic rest stop provides an excellent photographic angle of the new structural cables of the Jinja Railway Bridge spanning the Nile.",
+                  "category": "natural",
+                  "coords": [
+                        33.192139,
+                        0.43311
+                  ]
+            },
+            {
+                  "name": "nile anchor palace",
+                  "text": "Located along the riverbank near the railway bridge, this elegant hospitality venue features manicured gardens and relaxing views of the flowing Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        33.196125,
+                        0.438049
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-204",
     coords: [33.1908, 0.4358],
@@ -1149,7 +2661,88 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-busega-toll-plaza-landmarks-v2",
+    id: "ug-busega-toll-plaza-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "School Chapel",
+                  "text": "Diese Schulkapelle in Busega bietet den Schülern und der örtlichen Gemeinschaft einen Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        32.487031,
+                        0.258019
+                  ]
+            },
+            {
+                  "name": "Katereke Prison",
+                  "text": "Das historische Katereke-Gefängnis in der Nähe von Busega ist ein erhaltener Graben, der einst im 19. Jahrhundert zur Inhaftierung politischer Gefangener durch die Buganda-Könige genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        32.438852,
+                        0.288652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "School Chapel",
+                  "text": "Ez a Busegában található iskolai kápolna az istentisztelet helyszíne a diákok és a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        32.487031,
+                        0.258019
+                  ]
+            },
+            {
+                  "name": "Katereke Prison",
+                  "text": "A történelmi Katereke börtön Busega közelében egy fennmaradt árok, amelyet egykor a 19. században használtak a bugandai királyok politikai foglyok fogvatartására.",
+                  "category": "landmark",
+                  "coords": [
+                        32.438852,
+                        0.288652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "School Chapel",
+                  "text": "Această capelă școlară din Busega oferă un spațiu de cult pentru elevi și comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        32.487031,
+                        0.258019
+                  ]
+            },
+            {
+                  "name": "Katereke Prison",
+                  "text": "Istorica închisoare Katereke de lângă Busega este un șanț conservat folosit odată în secolul al XIX-lea pentru încarcerarea prizonierilor politici de către regii Buganda.",
+                  "category": "landmark",
+                  "coords": [
+                        32.438852,
+                        0.288652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "School Chapel",
+                  "text": "This school chapel in Busega provides a dedicated space for worship for students and the local community.",
+                  "category": "religious",
+                  "coords": [
+                        32.487031,
+                        0.258019
+                  ]
+            },
+            {
+                  "name": "Katereke Prison",
+                  "text": "The historic Katereke Prison near Busega is a preserved ditch once used in the 19th century to hold political prisoners by the Buganda kings.",
+                  "category": "landmark",
+                  "coords": [
+                        32.438852,
+                        0.288652
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-113",
     coords: [32.502, 0.313],
@@ -1245,7 +2838,124 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ug-namiryango-college-landmarks-v2",
+    id: "ug-namiryango-college-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "HAM MUKASA MUSEUM",
+                  "text": "Dieses historische Museum bewahrt das Erbe und die persönlichen Artefakte des prominenten Buganda-Gelehrten Ham Mukasa.",
+                  "category": "museum",
+                  "coords": [
+                        32.756323,
+                        0.366729
+                  ]
+            },
+            {
+                  "name": "Wakiso guest House",
+                  "text": "Diese Pension dient als lokale Unterkunft und bietet Übernachtungsmöglichkeiten für Besucher, die den Bezirk Wakiso bereisen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.801485,
+                        0.329963
+                  ]
+            },
+            {
+                  "name": "law lib",
+                  "text": "Diese auf Rechtsgeschichte spezialisierte Bibliothek und Museum beherbergt bedeutende juristische Texte.",
+                  "category": "museum",
+                  "coords": [
+                        32.740927,
+                        0.357255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HAM MUKASA MUSEUM",
+                  "text": "Ez a történelmi múzeum a kiemelkedő bugandai tudós, Ham Mukasa örökségét és személyes tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        32.756323,
+                        0.366729
+                  ]
+            },
+            {
+                  "name": "Wakiso guest House",
+                  "text": "Helyi szálláshelyként funkcionáló vendégház, amely szállást kínál a Wakiso negyedbe látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.801485,
+                        0.329963
+                  ]
+            },
+            {
+                  "name": "law lib",
+                  "text": "A jogtörténet tárházaként működő szakkönyvtár és múzeum jelentős igazságügyi szövegeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        32.740927,
+                        0.357255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HAM MUKASA MUSEUM",
+                  "text": "Acest muzeu istoric păstrează moștenirea și artefactele personale ale proeminentului cărturar din Buganda, Ham Mukasa.",
+                  "category": "museum",
+                  "coords": [
+                        32.756323,
+                        0.366729
+                  ]
+            },
+            {
+                  "name": "Wakiso guest House",
+                  "text": "Funcționând ca o pensiune locală, această casă de oaspeți oferă cazare vizitatorilor care vizitează districtul Wakiso.",
+                  "category": "landmark",
+                  "coords": [
+                        32.801485,
+                        0.329963
+                  ]
+            },
+            {
+                  "name": "law lib",
+                  "text": "Acționând ca un depozit de istorie juridică, această bibliotecă și muzeu specializat găzduiește texte judiciare semnificative.",
+                  "category": "museum",
+                  "coords": [
+                        32.740927,
+                        0.357255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HAM MUKASA MUSEUM",
+                  "text": "This historical museum preserves the legacy and personal artifacts of the prominent Buganda scholar Ham Mukasa.",
+                  "category": "museum",
+                  "coords": [
+                        32.756323,
+                        0.366729
+                  ]
+            },
+            {
+                  "name": "Wakiso guest House",
+                  "text": "Functioning as a local lodging, this guest house offers accommodations for visitors touring the Wakiso district.",
+                  "category": "landmark",
+                  "coords": [
+                        32.801485,
+                        0.329963
+                  ]
+            },
+            {
+                  "name": "law lib",
+                  "text": "Acting as a repository of legal history, this specialized library and museum houses significant judicial texts.",
+                  "category": "museum",
+                  "coords": [
+                        32.740927,
+                        0.357255
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UG-110",
     coords: [32.7231, 0.3392],

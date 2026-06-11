@@ -51,7 +51,52 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     },
   },
 {
-    id: "sebanzi-hill-iron-age-site-history-v2",
+    id: "sebanzi-hill-iron-age-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lochinvar National Park",
+                  "text": "Dieses im Jahr 1971 gegründete Naturschutzgebiet umfasst historische eisenzeitliche Stätten.",
+                  "category": "natural",
+                  "coords": [
+                        27.242218,
+                        -15.879378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lochinvar National Park",
+                  "text": "Ez az 1971-ben alapított természetvédelmi terület történelmi vaskori helyszíneket is magában foglal.",
+                  "category": "natural",
+                  "coords": [
+                        27.242218,
+                        -15.879378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lochinvar National Park",
+                  "text": "Această rezervație naturală înființată în 1971 include situri istorice din epoca fierului.",
+                  "category": "natural",
+                  "coords": [
+                        27.242218,
+                        -15.879378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lochinvar National Park",
+                  "text": "This nature reserve established in 1971 encompasses historic Iron Age sites.",
+                  "category": "natural",
+                  "coords": [
+                        27.242218,
+                        -15.879378
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZM-07",
     coords: [27.2, -15.9],
@@ -99,7 +144,196 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     },
   },
 {
-    id: "old-drift-settlement-history-v2",
+    id: "old-drift-settlement-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Timot's Pan Platform",
+                  "text": "Eine erhöhte Holzplattform, die so konzipiert ist, dass Wildtierbeobachter einen klaren, unverbauten Blick über eine häufig besuchte natürliche Wasserstelle haben.",
+                  "category": "natural",
+                  "coords": [
+                        25.737022,
+                        -17.959743
+                  ]
+            },
+            {
+                  "name": "A'Zambezi Lodge",
+                  "text": "Ein markantes Refugium am Flussufer, das dafür bekannt ist, als einziges Hotel direkt an den Ufern des Sambesi oberhalb der Wasserfälle zu liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822754,
+                        -17.900696
+                  ]
+            },
+            {
+                  "name": "Old Drift Cemetery",
+                  "text": "Eine geschützte historische Stätte, die als letzte Ruhestätte für die frühen europäischen Pioniere dient, die sich vor 1905 in der Nähe des Sambesi niederließen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.797912,
+                        -17.873676
+                  ]
+            },
+            {
+                  "name": "Zambezi Nature Sanctuary",
+                  "text": "Ein spezielles Tierschutzgebiet am Fluss, das einheimische Krokodile zeigt und hautnahe Begegnungen mit der regionalen Tierwelt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.819205,
+                        -17.904291
+                  ]
+            },
+            {
+                  "name": "Mosi-oa-Tunya National Park",
+                  "text": "Dieser üppige Nationalpark wurde 1971 gegründet und schützt die reiche Artenvielfalt und die beeindruckende Landschaft auf der sambischen Seite der Victoriafälle.",
+                  "category": "natural",
+                  "coords": [
+                        25.828083,
+                        -17.885868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Timot's Pan Platform",
+                  "text": "Egy megemelt fa platform, amelyet úgy terveztek, hogy a vadon élő állatok rajongóinak tiszta, akadálytalan kilátást nyújtson egy gyakran látogatott természetes itatóra.",
+                  "category": "natural",
+                  "coords": [
+                        25.737022,
+                        -17.959743
+                  ]
+            },
+            {
+                  "name": "A'Zambezi Lodge",
+                  "text": "Egy jellegzetes folyóparti menedékhely, amely arról ismert, hogy az egyetlen szálloda, amely közvetlenül a Zambézi-folyó partján, a vízesés felett található.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822754,
+                        -17.900696
+                  ]
+            },
+            {
+                  "name": "Old Drift Cemetery",
+                  "text": "Védett örökségi helyszín, amely a Zambézi-folyó közelében még 1905 előtt letelepedett korai európai úttörők végső nyughelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        25.797912,
+                        -17.873676
+                  ]
+            },
+            {
+                  "name": "Zambezi Nature Sanctuary",
+                  "text": "Egy dedikált állatmenhely a folyó mentén, amely őshonos krokodilokat mutat be, és közeli találkozásokat kínál a regionális vadvilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        25.819205,
+                        -17.904291
+                  ]
+            },
+            {
+                  "name": "Mosi-oa-Tunya National Park",
+                  "text": "Az 1971-ben alapított buja nemzeti park védi a gazdag biológiai sokféleséget és a Viktória-vízesés zambiai oldalát körülvevő lenyűgöző tájat.",
+                  "category": "natural",
+                  "coords": [
+                        25.828083,
+                        -17.885868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Timot's Pan Platform",
+                  "text": "O platformă de lemn înălțată concepută pentru a oferi pasionaților de animale sălbatice priveliști clare și neobstrucționate asupra unui ochi de apă natural vizitat frecvent.",
+                  "category": "natural",
+                  "coords": [
+                        25.737022,
+                        -17.959743
+                  ]
+            },
+            {
+                  "name": "A'Zambezi Lodge",
+                  "text": "Un refugiu distinct pe malul râului, cunoscut pentru că este singurul hotel situat direct pe malul râului Zambezi, deasupra cascadei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822754,
+                        -17.900696
+                  ]
+            },
+            {
+                  "name": "Old Drift Cemetery",
+                  "text": "Un sit de patrimoniu protejat care servește drept loc de odihnă final pentru primii pionieri europeni care s-au stabilit lângă râul Zambezi înainte de 1905.",
+                  "category": "landmark",
+                  "coords": [
+                        25.797912,
+                        -17.873676
+                  ]
+            },
+            {
+                  "name": "Zambezi Nature Sanctuary",
+                  "text": "Un sanctuar dedicat animalelor de-a lungul râului, care prezintă crocodili autohtoni și oferă întâlniri apropiate cu fauna regională.",
+                  "category": "recreational",
+                  "coords": [
+                        25.819205,
+                        -17.904291
+                  ]
+            },
+            {
+                  "name": "Mosi-oa-Tunya National Park",
+                  "text": "Înființat în 1971, acest parc național luxuriant protejează biodiversitatea bogată și peisajul impresionant care înconjoară partea zambiană a Cascadei Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        25.828083,
+                        -17.885868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Timot's Pan Platform",
+                  "text": "An elevated timber platform designed to offer wildlife enthusiasts clear, unobstructed views over a frequently visited natural watering pan.",
+                  "category": "natural",
+                  "coords": [
+                        25.737022,
+                        -17.959743
+                  ]
+            },
+            {
+                  "name": "A'Zambezi Lodge",
+                  "text": "A distinctive riverside retreat known for being the only hotel located directly on the banks of the Zambezi River above the falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822754,
+                        -17.900696
+                  ]
+            },
+            {
+                  "name": "Old Drift Cemetery",
+                  "text": "A protected heritage site serving as the final resting place for early European pioneers who settled near the Zambezi River before 1905.",
+                  "category": "landmark",
+                  "coords": [
+                        25.797912,
+                        -17.873676
+                  ]
+            },
+            {
+                  "name": "Zambezi Nature Sanctuary",
+                  "text": "A dedicated animal sanctuary along the river showcasing native crocodiles and offering close encounters with regional wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        25.819205,
+                        -17.904291
+                  ]
+            },
+            {
+                  "name": "Mosi-oa-Tunya National Park",
+                  "text": "Established in 1971, this lush national park protects the rich biodiversity and the awe-inspiring landscape surrounding the Zambian side of Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.828083,
+                        -17.885868
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZM-07",
     coords: [25.8, -17.9],
@@ -147,7 +381,52 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     },
   },
 {
-    id: "mukuni-village-history-v2",
+    id: "mukuni-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mukuni Big 5 Safari",
+                  "text": "Diese Safari-Attraktion ermöglicht Besuchern interaktive Begegnungen und Spaziergänge mit afrikanischen Großkatzen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.89015,
+                        -17.905773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mukuni Big 5 Safari",
+                  "text": "Ez a szafari attrakció lehetővé teszi a látogatók számára, hogy interaktív találkozásokon és sétákon vegyenek részt fogságban tartott afrikai nagymacskákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        25.89015,
+                        -17.905773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mukuni Big 5 Safari",
+                  "text": "Această atracție de safari permite vizitatorilor să experimenteze întâlniri interactive și plimbări cu feline mari africane.",
+                  "category": "landmark",
+                  "coords": [
+                        25.89015,
+                        -17.905773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mukuni Big 5 Safari",
+                  "text": "This safari attraction allows visitors to experience interactive encounters and walks with captive African big cats.",
+                  "category": "landmark",
+                  "coords": [
+                        25.89015,
+                        -17.905773
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZM-07",
     coords: [25.9, -17.9],
@@ -195,7 +474,304 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     },
   },
 {
-    id: "maramba-fort-history-v2",
+    id: "maramba-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Livingstone Crocodile Park",
+                  "text": "Ein spezialisierter Zoo in der Nähe von Livingstone, der zahlreiche Nilkrokodile an den Ufern des Sambesi-Flusses beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859696,
+                        -17.88451
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Eine Galerie in Livingstone, die zeitgenössische sambische Kunstwerke und traditionelles Kunsthandwerk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        25.851699,
+                        -17.882201
+                  ]
+            },
+            {
+                  "name": "Activity Centre",
+                  "text": "Ein Zentrum in Livingstone, das aufregende Wildwasser-Rafting-Ausflüge auf dem Sambesi-Fluss koordiniert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843087,
+                        -17.887157
+                  ]
+            },
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "Dieses Museum in Livingstone bewahrt historische Dampflokomotiven und Eisenbahnwaggons aus Sambias industrieller Vergangenheit.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Das größte und älteste Museum in Sambia, das sich in Livingstone befindet und umfangreiche Ausstellungen über den Entdecker David Livingstone bietet.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "Ein kreatives, umweltfreundliches Denkmal in Livingstone, das vollständig aus recycelten Abfallmaterialien besteht.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850163
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "Ein luxuriöser historischer Dampfzug in Livingstone, der malerische Restaurantfahrten zur Victoria Falls Bridge anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "Ein geschäftiger lokaler Markt in Livingstone, auf dem Handwerker handgeschnitzte Holzskulpturen und traditionelles sambisches Kunsthandwerk verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Livingstone Crocodile Park",
+                  "text": "Egy specializált állatkert Livingstone közelében, amely számos nílusi krokodilnak ad otthont a Zambézi folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859696,
+                        -17.88451
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Egy galéria Livingstone-ban, amely kortárs zambiai műalkotásokat és hagyományos kézműves tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        25.851699,
+                        -17.882201
+                  ]
+            },
+            {
+                  "name": "Activity Centre",
+                  "text": "Egy központ Livingstone-ban, amely izgalmas vadvízi evezéseket koordinál a Zambézi folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843087,
+                        -17.887157
+                  ]
+            },
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "Ez a livingstone-i múzeum történelmi gőzmozdonyokat és vasúti kocsikat őriz Zambia ipari múltjából.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Zambia legnagyobb és legrégebbi múzeuma, amely Livingstone-ban található, és kiterjedt kiállításokat kínál David Livingstone felfedezőről.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "Kreatív, környezetbarát emlékmű Livingstone-ban, amely teljes egészében újrahasznosított hulladékból készült.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850163
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "Luxus vintage gőzmozdony Livingstone-ban, amely festői étkezős utazásokat kínál a Viktória-vízesés hídja felé.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "Nyüzsgő helyi piac Livingstone-ban, ahol kézművesek kézzel faragott faszobrokat és hagyományos zambiai kézműves termékeket árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Livingstone Crocodile Park",
+                  "text": "O grădină zoologică specializată de lângă Livingstone care găzduiește numeroși crocodili de Nil pe malurile râului Zambezi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859696,
+                        -17.88451
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "O galerie din Livingstone care expune opere de artă contemporane zambiene și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        25.851699,
+                        -17.882201
+                  ]
+            },
+            {
+                  "name": "Activity Centre",
+                  "text": "Un centru din Livingstone care coordonează excursii palpitante de rafting pe râul Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843087,
+                        -17.887157
+                  ]
+            },
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "Acest muzeu din Livingstone păstrează locomotive cu abur istorice și vagoane de cale ferată din trecutul industrial al Zambiei.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Cel mai mare și mai vechi muzeu din Zambia, situat în Livingstone, cu expoziții extinse despre exploratorul David Livingstone.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "Un monument creativ și ecologic în Livingstone, construit în întregime din materiale reciclate.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850163
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "Un tren cu abur de epocă de lux din Livingstone care oferă călătorii pitorești cu cină spre podul Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "O piață locală plină de viață în Livingstone, unde meșteșugarii vând sculpturi din lemn lucrate manual și meșteșuguri tradiționale zambiene.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livingstone Crocodile Park",
+                  "text": "A specialized zoo near Livingstone housing numerous Nile crocodiles along the banks of the Zambezi River.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859696,
+                        -17.88451
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "A gallery in Livingstone showcasing contemporary Zambian artworks and traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        25.851699,
+                        -17.882201
+                  ]
+            },
+            {
+                  "name": "Activity Centre",
+                  "text": "A hub in Livingstone coordinating thrilling white-water rafting excursions on the Zambezi River.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843087,
+                        -17.887157
+                  ]
+            },
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "This Livingstone museum preserves historic steam locomotives and railway carriages from Zambia's industrial past.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "The Livingstone Museum",
+                  "text": "The largest and oldest museum in Zambia, located in Livingstone, featuring extensive displays on the explorer David Livingstone.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "A creative, eco-friendly monument in Livingstone constructed entirely from recycled waste materials.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850163
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "A luxury vintage steam train in Livingstone that offers scenic dining journeys towards the Victoria Falls bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "A bustling local market in Livingstone where artisans sell hand-carved wooden sculptures and traditional Zambian crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZM-07",
     coords: [25.85, -17.85],
@@ -909,7 +1485,52 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     },
   },
 {
-    id: "leopards-hill-cave-history-v2",
+    id: "leopards-hill-cave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leopards Hill Caves National Monument",
+                  "text": "Dieses Nationaldenkmal ist für sein Höhlensystem bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        28.723951,
+                        -15.601472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leopards Hill Caves National Monument",
+                  "text": "Ez a nemzeti emlékmű a barlangrendszeréről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        28.723951,
+                        -15.601472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leopards Hill Caves National Monument",
+                  "text": "Acest monument național este cunoscut pentru sistemul său de peșteri.",
+                  "category": "historical",
+                  "coords": [
+                        28.723951,
+                        -15.601472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leopards Hill Caves National Monument",
+                  "text": "This national monument is known for its cave system.",
+                  "category": "historical",
+                  "coords": [
+                        28.723951,
+                        -15.601472
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZM-09",
     coords: [28.7, -15.6],

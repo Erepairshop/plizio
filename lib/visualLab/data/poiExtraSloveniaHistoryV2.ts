@@ -1973,7 +1973,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Starološki grad",
-                  "text": "Ein historisches Schloss im alten Teil von Škofja Loka.",
+                  "text": "Schloss Stara Loka, eine mittelalterliche Burg aus dem Jahr 1433 bei Škofja Loka.",
                   "category": "castle",
                   "coords": [
                         14.300677,
@@ -2074,7 +2074,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Starološki grad",
-                  "text": "Történelmi vár Škofja Loka régi részén.",
+                  "text": "Stara Loka kastély, egy 1433-ban épült középkori vár Škofja Loka közelében.",
                   "category": "castle",
                   "coords": [
                         14.300677,
@@ -2175,7 +2175,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Starološki grad",
-                  "text": "Un castel istoric în partea veche a orașului Škofja Loka.",
+                  "text": "Castelul Stara Loka, un castel medieval construit în 1433 lângă Škofja Loka.",
                   "category": "castle",
                   "coords": [
                         14.300677,
@@ -2276,7 +2276,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Starološki grad",
-                  "text": "A historical castle in the old part of Škofja Loka.",
+                  "text": "Stara Loka Castle, a medieval castle built in 1433 near Škofja Loka.",
                   "category": "castle",
                   "coords": [
                         14.300677,

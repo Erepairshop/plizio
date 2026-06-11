@@ -3,7 +3,412 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthafricaReliefV2: POI[] = [
       {
-    id: "cederberg-relief-v2",
+    id: "cederberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maltese Cross",
+                  "text": "Das Malteserkreuz ist eine markante, kreuzförmige Sandsteinsäule, die einsam vor der zerklüfteten Skyline der Cederberg-Berge steht.",
+                  "category": "landmark",
+                  "coords": [
+                        19.177198,
+                        -32.51234
+                  ]
+            },
+            {
+                  "name": "Valley of the Red Gods",
+                  "text": "Das Tal der Roten Götter zeichnet sich durch dramatische, rostfarbene Sandsteinformationen aus, die durch Jahrhunderte von Wind und rauem Wetter geformt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272053,
+                        -32.484954
+                  ]
+            },
+            {
+                  "name": "Wolfbergskeure",
+                  "text": "Wolfbergskeure ist eine spektakuläre Serie tiefer, schmaler Spalten, die sich wie ein Labyrinth direkt durch die massiven Sandsteinberge schneiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276204,
+                        -32.47215
+                  ]
+            },
+            {
+                  "name": "Wolfberg Arch",
+                  "text": "Der Wolfberg Arch ist ein massiver natürlicher Sandsteinbogen, der sich dramatisch über die karge Berglandschaft spannt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.253877,
+                        -32.443462
+                  ]
+            },
+            {
+                  "name": "Die Rif",
+                  "text": "Die Rif enthält die verwitterten Steinruinen früher Berghütten, die im zerklüfteten und unerbittlichen Gelände der Cederberge längst verlassen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        19.231189,
+                        -32.441546
+                  ]
+            },
+            {
+                  "name": "Stadsaal Rock Art",
+                  "text": "Stadsaal Rock Art bewahrt alte San-Malereien, die Elefantenherden und menschliche Figuren auf den staubigen Überhängen der Sandsteinhöhlen darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.312882,
+                        -32.513602
+                  ]
+            },
+            {
+                  "name": "Stadsaal Caves",
+                  "text": "Die Stadsaal-Höhlen sind ein Netzwerk von kavernenartigen, windgepeitschten Sandsteinhallen, die historisch von indigenen Gemeinschaften als Versammlungsorte genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.317733,
+                        -32.52373
+                  ]
+            },
+            {
+                  "name": "Old Leopard Trap",
+                  "text": "Die alte Leopardenfalle ist eine historische Steinstruktur, die von frühen Bauern in den Bergen speziell zum Fangen von Raubkatzen gebaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        19.226366,
+                        -32.539327
+                  ]
+            },
+            {
+                  "name": "Lot's Wife",
+                  "text": "Lot's Wife ist eine markante, freistehende Sandsteinsäule, die auffallend einer dauerhaft zu Stein gewordenen menschlichen Figur ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.24744,
+                        -32.493881
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "Diese namenlosen Steinruinen markieren die bröckelnden Fundamente einer frühen Siedlung, die den rauen Elementen der Berge überlassen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        19.279465,
+                        -32.557672
+                  ]
+            },
+            {
+                  "name": "Truitjieskraal",
+                  "text": "Truitjieskraal ist eine malerische Gegend, die sich durch hoch aufragende Sandsteinformationen und gut erhaltene Beispiele alter San-Felsmalereien auszeichnet, die in den Nischen verborgen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.329453,
+                        -32.544712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maltese Cross",
+                  "text": "A Máltai Kereszt egy feltűnő, kereszt alakú homokkőoszlop, amely magányosan áll a Cederberg-hegység zord sziluettje előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.177198,
+                        -32.51234
+                  ]
+            },
+            {
+                  "name": "Valley of the Red Gods",
+                  "text": "A Vörös Istenek Völgye drámai, rozsdaszínű homokkő képződményekkel büszkélkedhet, amelyeket az évszázados szél és a zord időjárás formált.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272053,
+                        -32.484954
+                  ]
+            },
+            {
+                  "name": "Wolfbergskeure",
+                  "text": "A Wolfbergskeure egy látványos, mély és keskeny hasadékokból álló sorozat, amely labirintusként szeli át a masszív homokkő hegyeket.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276204,
+                        -32.47215
+                  ]
+            },
+            {
+                  "name": "Wolfberg Arch",
+                  "text": "A Wolfberg-ív egy hatalmas természetes homokkő kapu, amely drámaian ível át a kopár hegyvidéki táj felett az égen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.253877,
+                        -32.443462
+                  ]
+            },
+            {
+                  "name": "Die Rif",
+                  "text": "A Die Rif a zord és kíméletlen Cederberg terepen régóta elhagyott korai hegyi menedékházak málladozó kőromjait foglalja magába.",
+                  "category": "historical",
+                  "coords": [
+                        19.231189,
+                        -32.441546
+                  ]
+            },
+            {
+                  "name": "Stadsaal Rock Art",
+                  "text": "A Stadsaal Sziklaművészet ősi szan festményeket őriz, amelyek elefántcsordákat és emberi alakokat ábrázolnak a homokkő barlangok poros kiemelkedésein.",
+                  "category": "landmark",
+                  "coords": [
+                        19.312882,
+                        -32.513602
+                  ]
+            },
+            {
+                  "name": "Stadsaal Caves",
+                  "text": "A Stadsaal-barlangok barlangszerű, szél által koptatott homokkőtermek hálózata, amelyeket az őslakos közösségek történelmileg gyülekezőhelyként használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.317733,
+                        -32.52373
+                  ]
+            },
+            {
+                  "name": "Old Leopard Trap",
+                  "text": "A Régi Leopárdcsapda egy történelmi kőépítmény, amelyet a korai farmerek építettek a hegyekben kifejezetten a ragadozó nagymacskák elfogására.",
+                  "category": "historical",
+                  "coords": [
+                        19.226366,
+                        -32.539327
+                  ]
+            },
+            {
+                  "name": "Lot's Wife",
+                  "text": "Lót felesége egy kiemelkedő, önálló homokkőoszlop, amely kísértetiesen hasonlít egy végleg kővé vált emberi alakra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.24744,
+                        -32.493881
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "Ezek a névtelen kőromok egy korai település omladozó alapjait jelölik, amelyet átadtak a zord hegyvidéki elemeknek.",
+                  "category": "historical",
+                  "coords": [
+                        19.279465,
+                        -32.557672
+                  ]
+            },
+            {
+                  "name": "Truitjieskraal",
+                  "text": "A Truitjieskraal egy festői terület, amelyet magasodó homokkő képződmények és a fülkékben elrejtett ősi szan sziklaművészet jól megőrzött példái jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        19.329453,
+                        -32.544712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maltese Cross",
+                  "text": "Crucea Malteză este un stâlp impresionant din gresie în formă de cruce, care stă solitar pe fundalul accidentat al munților Cederberg.",
+                  "category": "landmark",
+                  "coords": [
+                        19.177198,
+                        -32.51234
+                  ]
+            },
+            {
+                  "name": "Valley of the Red Gods",
+                  "text": "Valea Zeilor Roșii prezintă formațiuni dramatice de gresie de culoarea ruginii, sculptate de secole de vânt și intemperii aspre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272053,
+                        -32.484954
+                  ]
+            },
+            {
+                  "name": "Wolfbergskeure",
+                  "text": "Wolfbergskeure este o serie spectaculoasă de crevase adânci și înguste care străpung ca un labirint masivii munți de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276204,
+                        -32.47215
+                  ]
+            },
+            {
+                  "name": "Wolfberg Arch",
+                  "text": "Arcul Wolfberg este o arcadă masivă naturală din gresie care se întinde dramatic pe cer, deasupra peisajului montan arid.",
+                  "category": "landmark",
+                  "coords": [
+                        19.253877,
+                        -32.443462
+                  ]
+            },
+            {
+                  "name": "Die Rif",
+                  "text": "Die Rif conține ruinele din piatră erodate ale unor adăposturi montane timpurii, abandonate de mult în terenul accidentat și neiertător al munților Cederberg.",
+                  "category": "historical",
+                  "coords": [
+                        19.231189,
+                        -32.441546
+                  ]
+            },
+            {
+                  "name": "Stadsaal Rock Art",
+                  "text": "Arta Rupestră Stadsaal păstrează picturi antice San, înfățișând turme de elefanți și figuri umane pe surplombele prăfuite ale peșterilor de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        19.312882,
+                        -32.513602
+                  ]
+            },
+            {
+                  "name": "Stadsaal Caves",
+                  "text": "Peșterile Stadsaal reprezintă o rețea de săli cavernoase din gresie erodată de vânt, folosite istoric ca locuri de adunare de către comunitățile indigene.",
+                  "category": "landmark",
+                  "coords": [
+                        19.317733,
+                        -32.52373
+                  ]
+            },
+            {
+                  "name": "Old Leopard Trap",
+                  "text": "Vechea Capcană pentru Leoparzi este o structură istorică din piatră construită de primii fermieri din munți special pentru a prinde feline prădătoare.",
+                  "category": "historical",
+                  "coords": [
+                        19.226366,
+                        -32.539327
+                  ]
+            },
+            {
+                  "name": "Lot's Wife",
+                  "text": "Soția lui Lot este un stâlp proeminent și izolat din gresie, care seamănă izbitor cu o figură umană transformată permanent în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        19.24744,
+                        -32.493881
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "Aceste ruine anonime din piatră marchează fundațiile prăbușite ale unei așezări timpurii abandonate elementelor aspre ale munților.",
+                  "category": "historical",
+                  "coords": [
+                        19.279465,
+                        -32.557672
+                  ]
+            },
+            {
+                  "name": "Truitjieskraal",
+                  "text": "Truitjieskraal este o zonă pitorească caracterizată prin formațiuni înalte de gresie și exemple bine conservate de artă rupestră antică San ascunse în alcovuri.",
+                  "category": "landmark",
+                  "coords": [
+                        19.329453,
+                        -32.544712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maltese Cross",
+                  "text": "The Maltese Cross is a striking, cross-shaped sandstone pillar standing solitary against the rugged skyline of the Cederberg mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        19.177198,
+                        -32.51234
+                  ]
+            },
+            {
+                  "name": "Valley of the Red Gods",
+                  "text": "The Valley of the Red Gods features dramatic, rust-coloured sandstone formations sculpted by centuries of wind and harsh weather.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272053,
+                        -32.484954
+                  ]
+            },
+            {
+                  "name": "Wolfbergskeure",
+                  "text": "Wolfbergskeure is a spectacular series of deep, narrow fissures cutting like a maze right through the massive sandstone mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276204,
+                        -32.47215
+                  ]
+            },
+            {
+                  "name": "Wolfberg Arch",
+                  "text": "The Wolfberg Arch is a massive natural sandstone archway that dramatically spans the sky above the barren mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        19.253877,
+                        -32.443462
+                  ]
+            },
+            {
+                  "name": "Die Rif",
+                  "text": "Die Rif contains the weathered stone ruins of early mountain shelters long abandoned in the rugged and unforgiving Cederberg terrain.",
+                  "category": "historical",
+                  "coords": [
+                        19.231189,
+                        -32.441546
+                  ]
+            },
+            {
+                  "name": "Stadsaal Rock Art",
+                  "text": "Stadsaal Rock Art preserves ancient San paintings depicting herds of elephants and human figures on the dusty overhangs of the sandstone caves.",
+                  "category": "landmark",
+                  "coords": [
+                        19.312882,
+                        -32.513602
+                  ]
+            },
+            {
+                  "name": "Stadsaal Caves",
+                  "text": "The Stadsaal Caves are a network of cavernous, wind-eroded sandstone halls historically used as gathering places by indigenous communities.",
+                  "category": "landmark",
+                  "coords": [
+                        19.317733,
+                        -32.52373
+                  ]
+            },
+            {
+                  "name": "Old Leopard Trap",
+                  "text": "The Old Leopard Trap is a historical stone structure built by early farmers in the mountains specifically to capture predatory cats.",
+                  "category": "historical",
+                  "coords": [
+                        19.226366,
+                        -32.539327
+                  ]
+            },
+            {
+                  "name": "Lot's Wife",
+                  "text": "Lot's Wife is a prominent, standalone sandstone pillar that strikingly resembles a human figure turned permanently to stone.",
+                  "category": "landmark",
+                  "coords": [
+                        19.24744,
+                        -32.493881
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "These anonymous stone ruins mark the crumbling foundations of an early settlement abandoned to the harsh mountain elements.",
+                  "category": "historical",
+                  "coords": [
+                        19.279465,
+                        -32.557672
+                  ]
+            },
+            {
+                  "name": "Truitjieskraal",
+                  "text": "Truitjieskraal is a scenic area characterized by towering sandstone formations and well-preserved examples of ancient San rock art hidden within the alcoves.",
+                  "category": "landmark",
+                  "coords": [
+                        19.329453,
+                        -32.544712
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.25, -32.5],
@@ -39,7 +444,484 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
     {
-    id: "outeniqua-relief-v2",
+    id: "outeniqua-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kransberg",
+                  "text": "Dieser schroffe Berggipfel erhebt sich markant in der Outeniqua-Kette und zeichnet sich durch seine steilen, felsigen Klippen und sein anspruchsvolles Wandergelände aus.",
+                  "category": "natural",
+                  "coords": [
+                        22.496106,
+                        -33.892795
+                  ]
+            },
+            {
+                  "name": "Tierkop",
+                  "text": "Dieser markante Outeniqua-Gipfel bietet einen malerischen, weiten Blick auf die umliegende Küstenebene und die verzweigten Täler der Garden Route.",
+                  "category": "natural",
+                  "coords": [
+                        22.514456,
+                        -33.917728
+                  ]
+            },
+            {
+                  "name": "George Peak",
+                  "text": "Dieser majestätische Berggipfel, der hoch über der Stadt George thront, ist ein beliebtes Ziel für erfahrene Wanderer, die die Outeniqua-Berge erklimmen.",
+                  "category": "natural",
+                  "coords": [
+                        22.462642,
+                        -33.911957
+                  ]
+            },
+            {
+                  "name": "Vandalenspiek",
+                  "text": "Dieser felsige Gipfel ist eine markante Erhebung im Outeniqua-Gebirge und bietet spektakuläre Ausblicke auf die dicht bewachsenen Hochlandpässe.",
+                  "category": "natural",
+                  "coords": [
+                        22.478889,
+                        -33.917222
+                  ]
+            },
+            {
+                  "name": "Skurwekop",
+                  "text": "Dieser strukturierte Berggipfel, was grob übersetzt „rauer Kopf“ bedeutet, weist verwitterte Felsformationen auf, die typisch für den alten Outeniqua-Sandstein sind.",
+                  "category": "natural",
+                  "coords": [
+                        22.473851,
+                        -33.893955
+                  ]
+            },
+            {
+                  "name": "Cradock Peak",
+                  "text": "Dieser hoch aufragende Gipfel ist als höchster Gipfel der Outeniqua-Berge bekannt und belohnt unerschrockene Kletterer mit einem unvergleichlichen Blick von der Karoo bis zum Indischen Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        22.460642,
+                        -33.894344
+                  ]
+            },
+            {
+                  "name": "Losberg",
+                  "text": "Dieser einsame, markante Gipfel steht leicht abgetrennt im Gebirge und dient als wichtiger geografischer Orientierungspunkt in der Outeniqua-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.414273,
+                        -33.891015
+                  ]
+            },
+            {
+                  "name": "Tolberg",
+                  "text": "Dieser durch seine schroffen Hänge gekennzeichnete Gipfel überblickt die historischen Mautrouten, die sich einst durch die tückischen Gebirgspässe zogen.",
+                  "category": "natural",
+                  "coords": [
+                        22.398311,
+                        -33.907261
+                  ]
+            },
+            {
+                  "name": "4 Passes",
+                  "text": "Dieser malerische Aussichtspunkt ermöglicht es Reisenden, das Zusammentreffen von vier verschiedenen historischen Bergstraßen zu beobachten, die durch das Outeniqua-Gebirge führen.",
+                  "category": "natural",
+                  "coords": [
+                        22.40623,
+                        -33.905953
+                  ]
+            },
+            {
+                  "name": "Jan se Kop",
+                  "text": "Diese felsige Erhebung ist Teil der majestätischen Outeniqua-Skyline und bietet einen hervorragenden Aussichtspunkt über die darunter liegenden grünen einheimischen Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        22.529233,
+                        -33.892371
+                  ]
+            },
+            {
+                  "name": "Melville Peak",
+                  "text": "Dieser Gipfel ist eine markante geologische Formation in den Outeniqua-Bergen und wird von tiefen Schluchten flankiert, die von saisonalen Bergbächen gegraben wurden.",
+                  "category": "natural",
+                  "coords": [
+                        22.542493,
+                        -33.89315
+                  ]
+            },
+            {
+                  "name": "Katrivier Nature Reserve",
+                  "text": "Diese geschützte ökologische Zone, die sich um den Fluss Kat River konzentriert, bewahrt wichtige Lebensräume im Einzugsgebiet und eine vielfältige Fynbos-Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        22.496289,
+                        -33.957136
+                  ]
+            },
+            {
+                  "name": "Old Toll House",
+                  "text": "Dieses aus lokalem Stein entlang des Montagu-Passes errichtete, erhaltene Denkmal sammelte in der Vergangenheit Zölle von Ochsenwagen, die das gefährliche Gebirge überquerten.",
+                  "category": "historical",
+                  "coords": [
+                        22.416402,
+                        -33.918734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kransberg",
+                  "text": "Az Outeniqua-hegységben kiemelkedő, zord hegycsúcsot meredek, sziklás szirtek és kihívást jelentő túraterep jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        22.496106,
+                        -33.892795
+                  ]
+            },
+            {
+                  "name": "Tierkop",
+                  "text": "Ez a kiemelkedő Outeniqua-csúcs festői, elsöprő kilátást nyújt a környező parti síkságra és a Garden Route kanyargós völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        22.514456,
+                        -33.917728
+                  ]
+            },
+            {
+                  "name": "George Peak",
+                  "text": "A George városa felett magasodó fenséges hegycsúcs az Outeniqua-hegységet megmászó tapasztalt túrázók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        22.462642,
+                        -33.911957
+                  ]
+            },
+            {
+                  "name": "Vandalenspiek",
+                  "text": "Az Outeniqua-hegység jelentős kiemelkedéseként álló sziklás csúcs drámai kilátást nyújt a sűrű növényzetű felvidéki hágókra.",
+                  "category": "natural",
+                  "coords": [
+                        22.478889,
+                        -33.917222
+                  ]
+            },
+            {
+                  "name": "Skurwekop",
+                  "text": "A durva fordításban „érdes fejet” jelentő texturált hegycsúcs az ősi Outeniqua homokkőre jellemző, mállott sziklaalakzatokkal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        22.473851,
+                        -33.893955
+                  ]
+            },
+            {
+                  "name": "Cradock Peak",
+                  "text": "Az Outeniqua-hegység legmagasabb csúcsaként számon tartott tornyosuló orom a Karootól az Indiai-óceánig terjedő, páratlan kilátással jutalmazza a merész mászókat.",
+                  "category": "natural",
+                  "coords": [
+                        22.460642,
+                        -33.894344
+                  ]
+            },
+            {
+                  "name": "Losberg",
+                  "text": "Ez a magányos, különálló csúcs a hegyvonulaton belül kissé elkülönülve áll, és fontos földrajzi jelzőként szolgál az Outeniqua táján.",
+                  "category": "natural",
+                  "coords": [
+                        22.414273,
+                        -33.891015
+                  ]
+            },
+            {
+                  "name": "Tolberg",
+                  "text": "A zord lejtőivel jellemezhető csúcs az egykor a veszélyes hegyi hágókon átívelő történelmi fizetős utakra néz.",
+                  "category": "natural",
+                  "coords": [
+                        22.398311,
+                        -33.907261
+                  ]
+            },
+            {
+                  "name": "4 Passes",
+                  "text": "Erről a festői kilátópontról az utazók egyszerre figyelhetik meg az Outeniqua-hegységben haladó négy különböző történelmi hegyi út találkozását.",
+                  "category": "natural",
+                  "coords": [
+                        22.40623,
+                        -33.905953
+                  ]
+            },
+            {
+                  "name": "Jan se Kop",
+                  "text": "A fenséges Outeniqua sziluett részét képező sziklás magaslat kiváló kilátópontot nyújt a lenti zöldellő őshonos erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        22.529233,
+                        -33.892371
+                  ]
+            },
+            {
+                  "name": "Melville Peak",
+                  "text": "Az Outeniqua-hegység e lenyűgöző geológiai képződményének számító csúcsot szezonális hegyi patakok által kivájt mély szakadékok szegélyezik.",
+                  "category": "natural",
+                  "coords": [
+                        22.542493,
+                        -33.89315
+                  ]
+            },
+            {
+                  "name": "Katrivier Nature Reserve",
+                  "text": "A Kat-folyó folyása köré összpontosító védett ökológiai övezet létfontosságú vízgyűjtő élőhelyeket és változatos fynbos növényzetet őriz.",
+                  "category": "natural",
+                  "coords": [
+                        22.496289,
+                        -33.957136
+                  ]
+            },
+            {
+                  "name": "Old Toll House",
+                  "text": "A Montagu-hágó mentén helyi kőből épült megőrzött műemlék történelmileg vámot szedett a veszélyes hegyeken átkelő ökrösszekerektől.",
+                  "category": "historical",
+                  "coords": [
+                        22.416402,
+                        -33.918734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kransberg",
+                  "text": "Ridicându-se proeminent în lanțul Outeniqua, acest vârf de munte accidentat se caracterizează prin stânci abrupte și teren stâncos, dificil pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        22.496106,
+                        -33.892795
+                  ]
+            },
+            {
+                  "name": "Tierkop",
+                  "text": "Acest vârf proeminent din Outeniqua oferă o priveliște panoramică pitorească asupra câmpiei de coastă din jur și a văilor complicate ale rutei Garden Route.",
+                  "category": "natural",
+                  "coords": [
+                        22.514456,
+                        -33.917728
+                  ]
+            },
+            {
+                  "name": "George Peak",
+                  "text": "Înălțându-se deasupra orașului George, acest vârf maiestuos de munte este o destinație îndrăgită de excursioniștii experimentați care escaladează Munții Outeniqua.",
+                  "category": "natural",
+                  "coords": [
+                        22.462642,
+                        -33.911957
+                  ]
+            },
+            {
+                  "name": "Vandalenspiek",
+                  "text": "Fiind o proeminență notabilă în lanțul Outeniqua, acest vârf stâncos oferă vederi dramatice asupra trecătorilor montane cu vegetație densă.",
+                  "category": "natural",
+                  "coords": [
+                        22.478889,
+                        -33.917222
+                  ]
+            },
+            {
+                  "name": "Skurwekop",
+                  "text": "Traducându-se aproximativ ca „capul aspru”, acest vârf de munte texturat prezintă formațiuni stâncoase erodate, tipice vechii gresii de Outeniqua.",
+                  "category": "natural",
+                  "coords": [
+                        22.473851,
+                        -33.893955
+                  ]
+            },
+            {
+                  "name": "Cradock Peak",
+                  "text": "Recunoscut drept cel mai înalt vârf din Munții Outeniqua, acest munte impunător îi răsplătește pe alpiniștii îndrăzneți cu vederi de neegalat, care se întind de la Karoo la Oceanul Indian.",
+                  "category": "natural",
+                  "coords": [
+                        22.460642,
+                        -33.894344
+                  ]
+            },
+            {
+                  "name": "Losberg",
+                  "text": "Acest vârf solitar și distinct se află ușor detașat în cadrul lanțului muntos, servind ca un important reper geografic în peisajul Outeniqua.",
+                  "category": "natural",
+                  "coords": [
+                        22.414273,
+                        -33.891015
+                  ]
+            },
+            {
+                  "name": "Tolberg",
+                  "text": "Caracterizat de pantele sale accidentate, acest vârf are vedere la rutele istorice cu taxă care străbăteau odată trecătorile montane periculoase.",
+                  "category": "natural",
+                  "coords": [
+                        22.398311,
+                        -33.907261
+                  ]
+            },
+            {
+                  "name": "4 Passes",
+                  "text": "Acest punct de belvedere pitoresc permite călătorilor să observe simultan convergența a patru drumuri montane istorice distincte care navighează prin lanțul Outeniqua.",
+                  "category": "natural",
+                  "coords": [
+                        22.40623,
+                        -33.905953
+                  ]
+            },
+            {
+                  "name": "Jan se Kop",
+                  "text": "Făcând parte din maiestuoasa linie a orizontului Outeniqua, această altitudine stâncoasă oferă un punct de observație excelent asupra pădurilor indigene înverzite de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        22.529233,
+                        -33.892371
+                  ]
+            },
+            {
+                  "name": "Melville Peak",
+                  "text": "O formațiune geologică impresionantă din Munții Outeniqua, acest vârf este flancat de râpe adânci sculptate de pâraiele montane sezoniere.",
+                  "category": "natural",
+                  "coords": [
+                        22.542493,
+                        -33.89315
+                  ]
+            },
+            {
+                  "name": "Katrivier Nature Reserve",
+                  "text": "Centrată pe cursul râului Kat, această zonă ecologică protejată conservă habitate vitale ale bazinului hidrografic și vegetație diversă de fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        22.496289,
+                        -33.957136
+                  ]
+            },
+            {
+                  "name": "Old Toll House",
+                  "text": "Construit din piatră locală de-a lungul pasului Montagu, acest monument conservat a colectat istoric taxe de la căruțele cu boi care traversau munții periculoși.",
+                  "category": "historical",
+                  "coords": [
+                        22.416402,
+                        -33.918734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kransberg",
+                  "text": "Rising prominently in the Outeniqua range, this rugged mountain peak is characterized by its steep, rocky crags and challenging hiking terrain.",
+                  "category": "natural",
+                  "coords": [
+                        22.496106,
+                        -33.892795
+                  ]
+            },
+            {
+                  "name": "Tierkop",
+                  "text": "This prominent Outeniqua peak offers a scenic, sweeping view of the surrounding coastal plain and the intricate valleys of the Garden Route.",
+                  "category": "natural",
+                  "coords": [
+                        22.514456,
+                        -33.917728
+                  ]
+            },
+            {
+                  "name": "George Peak",
+                  "text": "Towering above the city of George, this majestic mountain summit is a beloved destination for seasoned hikers scaling the Outeniqua Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        22.462642,
+                        -33.911957
+                  ]
+            },
+            {
+                  "name": "Vandalenspiek",
+                  "text": "Standing as a notable prominence in the Outeniqua range, this rocky summit provides dramatic views over the densely vegetated highland passes.",
+                  "category": "natural",
+                  "coords": [
+                        22.478889,
+                        -33.917222
+                  ]
+            },
+            {
+                  "name": "Skurwekop",
+                  "text": "Translating roughly to \"rough head,\" this textured mountain peak features weathered rock formations typical of the ancient Outeniqua sandstone.",
+                  "category": "natural",
+                  "coords": [
+                        22.473851,
+                        -33.893955
+                  ]
+            },
+            {
+                  "name": "Cradock Peak",
+                  "text": "Recognized as the highest summit in the Outeniqua Mountains, this towering peak rewards intrepid climbers with unparalleled views spanning from the Karoo to the Indian Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        22.460642,
+                        -33.894344
+                  ]
+            },
+            {
+                  "name": "Losberg",
+                  "text": "This solitary, distinct peak stands slightly detached within the mountain range, serving as an important geographical marker in the Outeniqua landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.414273,
+                        -33.891015
+                  ]
+            },
+            {
+                  "name": "Tolberg",
+                  "text": "Characterized by its rugged slopes, this peak overlooks the historic toll routes that once threaded through the treacherous mountain passes.",
+                  "category": "natural",
+                  "coords": [
+                        22.398311,
+                        -33.907261
+                  ]
+            },
+            {
+                  "name": "4 Passes",
+                  "text": "This scenic viewpoint allows travelers to simultaneously observe the convergence of four distinct historical mountain roads navigating the Outeniqua range.",
+                  "category": "natural",
+                  "coords": [
+                        22.40623,
+                        -33.905953
+                  ]
+            },
+            {
+                  "name": "Jan se Kop",
+                  "text": "Forming part of the majestic Outeniqua skyline, this rocky elevation provides an excellent vantage point over the verdant indigenous forests below.",
+                  "category": "natural",
+                  "coords": [
+                        22.529233,
+                        -33.892371
+                  ]
+            },
+            {
+                  "name": "Melville Peak",
+                  "text": "A striking geological formation in the Outeniqua Mountains, this summit is flanked by deep ravines carved by seasonal mountain streams.",
+                  "category": "natural",
+                  "coords": [
+                        22.542493,
+                        -33.89315
+                  ]
+            },
+            {
+                  "name": "Katrivier Nature Reserve",
+                  "text": "Centered around the flow of the Kat River, this protected ecological zone preserves vital watershed habitats and diverse fynbos vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        22.496289,
+                        -33.957136
+                  ]
+            },
+            {
+                  "name": "Old Toll House",
+                  "text": "Constructed from local stone along the Montagu Pass, this preserved monument historically collected tariffs from ox-wagons crossing the perilous mountains.",
+                  "category": "historical",
+                  "coords": [
+                        22.416402,
+                        -33.918734
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-WC",
     coords: [22.5, -33.9],
@@ -219,7 +1101,52 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "highveld-plateau-relief-v2",
+    id: "highveld-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Bapsfontein Hotel",
+                  "text": "Die Ruinen des Bapsfontein Hotels sind die verfallenden Überreste einer einst beliebten Landunterkunft.",
+                  "category": "historical",
+                  "coords": [
+                        28.426086,
+                        -26.004133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Bapsfontein Hotel",
+                  "text": "A Bapsfontein Hotel romjai egy egykor népszerű vidéki szálláshely pusztuló maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        28.426086,
+                        -26.004133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Bapsfontein Hotel",
+                  "text": "Ruinele Hotelului Bapsfontein reprezintă rămășițele degradate ale unei foste unități de cazare rurale populare.",
+                  "category": "historical",
+                  "coords": [
+                        28.426086,
+                        -26.004133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Bapsfontein Hotel",
+                  "text": "The ruins of the Bapsfontein Hotel stand as decaying brick and stone remnants of a once-popular historic country inn.",
+                  "category": "historical",
+                  "coords": [
+                        28.426086,
+                        -26.004133
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZA-GP",
     coords: [28.5, -26.0],
@@ -255,7 +1182,124 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "lowveld-relief-v2",
+    id: "lowveld-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "N'waswitshaka Waterhole Viewpoint",
+                  "text": "Ein erhöhter Beobachtungsbereich über einer saisonalen Wasserquelle im trockenen Lowveld.",
+                  "category": "natural",
+                  "coords": [
+                        31.513528,
+                        -25.036512
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "Eine natürliche Savannensenke, in der sich lokale Tiere im Lowveld um Wasser versammeln.",
+                  "category": "natural",
+                  "coords": [
+                        31.499836,
+                        -24.927804
+                  ]
+            },
+            {
+                  "name": "Sabi-Sands Game Reserve",
+                  "text": "Ein renommiertes privates Wildreservat, das für seine außergewöhnlich hohe Leopardendichte berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.526028,
+                        -24.940002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "N'waswitshaka Waterhole Viewpoint",
+                  "text": "Megemelt kilátóterület egy szezonális vízforrás felett a száraz Lowveldben.",
+                  "category": "natural",
+                  "coords": [
+                        31.513528,
+                        -25.036512
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "Természetes szavannai mélyedés, ahol a helyi állatok vízért gyülekeznek a Lowveldben.",
+                  "category": "natural",
+                  "coords": [
+                        31.499836,
+                        -24.927804
+                  ]
+            },
+            {
+                  "name": "Sabi-Sands Game Reserve",
+                  "text": "Egy híres magán vadrezervátum, amely kivételesen magas leopárdsűrűségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        31.526028,
+                        -24.940002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "N'waswitshaka Waterhole Viewpoint",
+                  "text": "O zonă de observare ridicată peste o sursă de apă sezonieră din Lowveld-ul uscat.",
+                  "category": "natural",
+                  "coords": [
+                        31.513528,
+                        -25.036512
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "O depresiune naturală din savană unde animalele locale se adună pentru apă în Lowveld.",
+                  "category": "natural",
+                  "coords": [
+                        31.499836,
+                        -24.927804
+                  ]
+            },
+            {
+                  "name": "Sabi-Sands Game Reserve",
+                  "text": "O renumită rezervație privată de animale sălbatice, faimoasă pentru densitatea sa excepțional de mare de leoparzi.",
+                  "category": "natural",
+                  "coords": [
+                        31.526028,
+                        -24.940002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "N'waswitshaka Waterhole Viewpoint",
+                  "text": "An elevated viewing area over a seasonal water source in the dry Lowveld.",
+                  "category": "natural",
+                  "coords": [
+                        31.513528,
+                        -25.036512
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "A natural savanna depression where local animals congregate for water in the Lowveld.",
+                  "category": "natural",
+                  "coords": [
+                        31.499836,
+                        -24.927804
+                  ]
+            },
+            {
+                  "name": "Sabi-Sands Game Reserve",
+                  "text": "A renowned private game reserve famous for its exceptionally high leopard density.",
+                  "category": "natural",
+                  "coords": [
+                        31.526028,
+                        -24.940002
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZA-MP",
     coords: [31.5, -25.0],
@@ -291,7 +1335,52 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "namib-fringe-relief-v2",
+    id: "namib-fringe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bluff",
+                  "text": "Dieser schroffe Gipfel erhebt sich deutlich über die trockenen Landschaften am Rande der Namib.",
+                  "category": "natural",
+                  "coords": [
+                        17.4575,
+                        -28.9292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bluff",
+                  "text": "Ez a zord csúcs markánsan magasodik a Namib-sivatag peremének száraz tájai fölé.",
+                  "category": "natural",
+                  "coords": [
+                        17.4575,
+                        -28.9292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bluff",
+                  "text": "Acest vârf accidentat se înalță distinct deasupra peisajelor aride de la marginea deșertului Namib.",
+                  "category": "natural",
+                  "coords": [
+                        17.4575,
+                        -28.9292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bluff",
+                  "text": "This rugged peak rises distinctly over the arid landscapes of the Namib fringe.",
+                  "category": "natural",
+                  "coords": [
+                        17.4575,
+                        -28.9292
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZA-NC",
     coords: [17.5, -29.0],
@@ -327,7 +1416,88 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "suurberg-relief-v2",
+    id: "suurberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Addo Elephant Park (Kuzuko Section)",
+                  "text": "Ein abgelegener Teil des berühmten Nationalparks, der trockene Karoo-Landschaften schützt und Großwild wie Elefanten und Löwen beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        25.415459,
+                        -33.175515
+                  ]
+            },
+            {
+                  "name": "Suurberg",
+                  "text": "Ein markanter Bergzug, der eine natürliche Barriere bildet und mit dichter Fynbos- und Waldvegetation bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.5742,
+                        -33.2492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Addo Elephant Park (Kuzuko Section)",
+                  "text": "A híres nemzeti park egy távoli része, amely száraz Karoo tájakat véd, és olyan nagyvadaknak ad otthont, mint az elefántok és az oroszlánok.",
+                  "category": "natural",
+                  "coords": [
+                        25.415459,
+                        -33.175515
+                  ]
+            },
+            {
+                  "name": "Suurberg",
+                  "text": "Feltűnő hegylánc, amely természetes határt képez, és sűrű fynbos- és erdőnövényzet borítja.",
+                  "category": "natural",
+                  "coords": [
+                        25.5742,
+                        -33.2492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Addo Elephant Park (Kuzuko Section)",
+                  "text": "O parte îndepărtată a celebrului parc național care protejează peisajele uscate din Karoo și găzduiește animale mari precum elefanții și leii.",
+                  "category": "natural",
+                  "coords": [
+                        25.415459,
+                        -33.175515
+                  ]
+            },
+            {
+                  "name": "Suurberg",
+                  "text": "O creastă montană proeminentă care formează o barieră naturală și este acoperită cu fynbos dens și vegetație forestieră.",
+                  "category": "natural",
+                  "coords": [
+                        25.5742,
+                        -33.2492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Addo Elephant Park (Kuzuko Section)",
+                  "text": "A remote section of the famous national park protecting arid Karoo landscapes and hosting big game like elephants and lions.",
+                  "category": "natural",
+                  "coords": [
+                        25.415459,
+                        -33.175515
+                  ]
+            },
+            {
+                  "name": "Suurberg",
+                  "text": "A prominent mountain ridge forming a natural barrier, covered with dense fynbos and forest vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        25.5742,
+                        -33.2492
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-EC",
     coords: [25.5, -33.2],
@@ -363,7 +1533,52 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "winterberg-relief-v2",
+    id: "winterberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piet Retief's Barracks",
+                  "text": "Piet Retief's Barracks ist eine historische Militärstätte, die das Erbe der Kolonialzeit in der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.528859,
+                        -32.504284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piet Retief's Barracks",
+                  "text": "A Piet Retief's Barracks egy történelmi katonai helyszín, amely a régió gyarmati korszakból származó örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        26.528859,
+                        -32.504284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piet Retief's Barracks",
+                  "text": "Cazărmile lui Piet Retief reprezintă un sit militar istoric care reflectă moștenirea epocii coloniale a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        26.528859,
+                        -32.504284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piet Retief's Barracks",
+                  "text": "Piet Retief's Barracks is a historic military site reflecting the region's colonial-era heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        26.528859,
+                        -32.504284
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-EC",
     coords: [26.5, -32.5],
@@ -399,7 +1614,52 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "amathole-relief-v2",
+    id: "amathole-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gaikas Kopf",
+                  "text": "Mit einer Höhe von fast 2000 Metern ist Gaika’s Kop einer der markantesten Gipfel der Amathole-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        26.95057,
+                        -32.54783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gaika’s Kop",
+                  "text": "A közel 2000 méter magas Gaika's Kop az Amathole-hegység egyik legmeghatározóbb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        26.95057,
+                        -32.54783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gaika’s Kop",
+                  "text": "Cu o înălțime de aproape 2000 de metri, Gaika's Kop este unul dintre cele mai proeminente vârfuri din Munții Amathole.",
+                  "category": "natural",
+                  "coords": [
+                        26.95057,
+                        -32.54783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gaika’s Kop",
+                  "text": "Standing at nearly 2,000 metres tall, Gaika's Kop is one of the most prominent peaks in the Amathole Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        26.95057,
+                        -32.54783
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-EC",
     coords: [27.0, -32.5],
@@ -435,7 +1695,124 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "murchison-relief-v2",
+    id: "murchison-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Giant Baobab",
+                  "text": "Diese spektakuläre Attraktion in der Nähe von Murchison bietet einen massiven, uralten Affenbrotbaum mit enormem Stammumfang.",
+                  "category": "landmark",
+                  "coords": [
+                        30.575168,
+                        -23.957107
+                  ]
+            },
+            {
+                  "name": "Carroll's Peak",
+                  "text": "Carroll's Peak, der sich im zerklüfteten Murchison-Relief befindet, ist ein felsiger Berg, der steile Anstiege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        30.523056,
+                        -23.949722
+                  ]
+            },
+            {
+                  "name": "Sanwild Sanctuary",
+                  "text": "Dieses Naturschutzgebiet in der Murchison-Region fungiert als intensives Rehabilitations- und Schutzzentrum für gerettete Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        30.561245,
+                        -23.986051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Giant Baobab",
+                  "text": "Ez a látványos Murchison melletti látványosság egy hatalmas, ősi majomkenyérfát mutat be hatalmas törzsátmérővel.",
+                  "category": "landmark",
+                  "coords": [
+                        30.575168,
+                        -23.957107
+                  ]
+            },
+            {
+                  "name": "Carroll's Peak",
+                  "text": "A zord Murchison-domborzatban álló Carroll's Peak egy sziklás hegy, amely meredek emelkedőket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        30.523056,
+                        -23.949722
+                  ]
+            },
+            {
+                  "name": "Sanwild Sanctuary",
+                  "text": "Ez a Murchison régióban található természetvédelmi terület intenzív rehabilitációs és védelmi központként működik megmentett vadállatok számára.",
+                  "category": "natural",
+                  "coords": [
+                        30.561245,
+                        -23.986051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Giant Baobab",
+                  "text": "Această atracție spectaculoasă de lângă Murchison prezintă un copac de baobab antic masiv, cu o circumferință enormă a trunchiului.",
+                  "category": "landmark",
+                  "coords": [
+                        30.575168,
+                        -23.957107
+                  ]
+            },
+            {
+                  "name": "Carroll's Peak",
+                  "text": "Situat în relieful accidentat Murchison, Carroll's Peak este un munte stâncos care oferă urcușuri abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        30.523056,
+                        -23.949722
+                  ]
+            },
+            {
+                  "name": "Sanwild Sanctuary",
+                  "text": "Această rezervație naturală din regiunea Murchison acționează ca un centru intensiv de reabilitare și protecție pentru animalele sălbatice salvate.",
+                  "category": "natural",
+                  "coords": [
+                        30.561245,
+                        -23.986051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Giant Baobab",
+                  "text": "This spectacular attraction near Murchison features a massive, ancient baobab tree with an enormous trunk girth.",
+                  "category": "landmark",
+                  "coords": [
+                        30.575168,
+                        -23.957107
+                  ]
+            },
+            {
+                  "name": "Carroll's Peak",
+                  "text": "Standing in the rugged Murchison relief, Carroll's Peak is a rocky mountain offering steep climbs.",
+                  "category": "natural",
+                  "coords": [
+                        30.523056,
+                        -23.949722
+                  ]
+            },
+            {
+                  "name": "Sanwild Sanctuary",
+                  "text": "This nature reserve in the Murchison region acts as an intensive rehabilitation and protection center for rescued wild animals.",
+                  "category": "natural",
+                  "coords": [
+                        30.561245,
+                        -23.986051
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ZA-LIM",
     coords: [30.5, -24.0],
@@ -507,7 +1884,124 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "magaliesberg-relief-v2",
+    id: "magaliesberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magaliesberg Protected Natural Environment",
+                  "text": "Dieses weitläufige Naturschutzgebiet bewahrt die zerklüfteten Quarzitgipfel und tiefen, bewaldeten Schluchten des alten Magaliesberg-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        27.561111,
+                        -25.823889
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Fort Ruins Anglo Boer War",
+                  "text": "Diese verfallenden Steinbefestigungen sind ein historisches Überbleibsel aus dem Burenkrieg, der zwischen Oktober 1899 und Mai 1902 stattfand.",
+                  "category": "fortress",
+                  "coords": [
+                        27.446454,
+                        -25.866586
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Pass",
+                  "text": "Dieser Aussichtspunkt auf einem hochgelegenen Gebirgspass bietet einen weiten Panoramablick über das zerklüftete Gelände der Magaliesberge.",
+                  "category": "natural",
+                  "coords": [
+                        27.443192,
+                        -25.865476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magaliesberg Protected Natural Environment",
+                  "text": "Ez a kiterjedt természetvédelmi terület az ősi Magaliesberg-hegység zord kvarcitcsúcsait és mély, erdős szakadékait óvja.",
+                  "category": "natural",
+                  "coords": [
+                        27.561111,
+                        -25.823889
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Fort Ruins Anglo Boer War",
+                  "text": "Ezek az omladozó kőerődítmények az 1899 októbere és 1902 májusa között zajló angol-búr háború történelmi emlékeiként állnak.",
+                  "category": "fortress",
+                  "coords": [
+                        27.446454,
+                        -25.866586
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Pass",
+                  "text": "Ez a magasan fekvő hegyi hágónál található kilátó lenyűgöző panorámát nyújt a Magaliesberg-hegység zord vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        27.443192,
+                        -25.865476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magaliesberg Protected Natural Environment",
+                  "text": "Această rezervație naturală extinsă protejează vârfurile aspre de cuarțit și râpele adânci și împădurite ale vechiului lanț muntos Magaliesberg.",
+                  "category": "natural",
+                  "coords": [
+                        27.561111,
+                        -25.823889
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Fort Ruins Anglo Boer War",
+                  "text": "Aceste fortificații din piatră în ruină reprezintă o rămășiță istorică din Războiul Anglo-Bur, care a avut loc între octombrie 1899 și mai 1902.",
+                  "category": "fortress",
+                  "coords": [
+                        27.446454,
+                        -25.866586
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Pass",
+                  "text": "Acest punct de belvedere situat pe o trecătoare montană de mare altitudine oferă o panoramă vastă asupra terenului accidentat al munților Magaliesberg.",
+                  "category": "natural",
+                  "coords": [
+                        27.443192,
+                        -25.865476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magaliesberg Protected Natural Environment",
+                  "text": "This expansive nature reserve safeguards the rugged quartzite peaks and deep, forested ravines of the ancient Magaliesberg mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        27.561111,
+                        -25.823889
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Fort Ruins Anglo Boer War",
+                  "text": "These crumbling stone fortifications stand as a historic remnant from the Anglo-Boer War, which took place between October 1899 and May 1902.",
+                  "category": "fortress",
+                  "coords": [
+                        27.446454,
+                        -25.866586
+                  ]
+            },
+            {
+                  "name": "Breedt's Nek Pass",
+                  "text": "This high-altitude mountain pass viewpoint offers sweeping panoramic vistas over the rugged terrain of the Magaliesberg range.",
+                  "category": "natural",
+                  "coords": [
+                        27.443192,
+                        -25.865476
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-NW",
     coords: [27.5, -25.8],
@@ -723,7 +2217,268 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     },
   },
   {
-    id: "kogelberg-relief-v2",
+    id: "kogelberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pisgah",
+                  "text": "Dieser markante Berggipfel erhebt sich in der rauen Kette der Hottentots-Holland-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        18.970502,
+                        -34.034334
+                  ]
+            },
+            {
+                  "name": "Pic-sans-nom viewpoint",
+                  "text": "Dieser hochgelegene Aussichtspunkt bietet weite Ausblicke über die Täler des Naturschutzgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        18.966012,
+                        -34.015411
+                  ]
+            },
+            {
+                  "name": "Valleiberg",
+                  "text": "Dieser Berggipfel ragt majestätisch über die Landschaft des Kap-Faltengürtels hinaus.",
+                  "category": "natural",
+                  "coords": [
+                        18.970379,
+                        -34.064269
+                  ]
+            },
+            {
+                  "name": "Langkloofberg",
+                  "text": "Dieser felsige Gipfel bietet anspruchsvolle Wanderwege durch die dichte Fynbos-Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        18.966635,
+                        -34.074247
+                  ]
+            },
+            {
+                  "name": "Ruined MCSA Stellebosch Mountain Hut",
+                  "text": "Diese verlassene Steinhütte wurde einst von Bergsteigern genutzt, die das Gebirge durchquerten.",
+                  "category": "historical",
+                  "coords": [
+                        18.972086,
+                        -33.922338
+                  ]
+            },
+            {
+                  "name": "Jonkershoek Nature Reserve",
+                  "text": "Dieses Schutzgebiet umfasst dramatische Berge und tiefe, mit Fynbos bewachsene Täler.",
+                  "category": "natural",
+                  "coords": [
+                        18.94671,
+                        -33.971305
+                  ]
+            },
+            {
+                  "name": "Hottentots-Holland Nature Reserve",
+                  "text": "Dieses weitläufige Naturschutzgebiet ist bekannt für sein unwegsames Gelände und seine Bergwanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        19.022897,
+                        -34.003581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pisgah",
+                  "text": "Ez a feltűnő hegycsúcs a Hottentots-Holland-hegység zord láncolatában magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        18.970502,
+                        -34.034334
+                  ]
+            },
+            {
+                  "name": "Pic-sans-nom viewpoint",
+                  "text": "Ez a magasan fekvő kilátó széles rálátást nyújt a természetvédelmi terület völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        18.966012,
+                        -34.015411
+                  ]
+            },
+            {
+                  "name": "Valleiberg",
+                  "text": "Ez a hegycsúcs fenségesen emelkedik a fokföldi gyűrődéses hegység tája fölé.",
+                  "category": "natural",
+                  "coords": [
+                        18.970379,
+                        -34.064269
+                  ]
+            },
+            {
+                  "name": "Langkloofberg",
+                  "text": "Ez a sziklás csúcs kihívást jelentő túraútvonalakat kínál a sűrű fynbos növényzeten keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        18.966635,
+                        -34.074247
+                  ]
+            },
+            {
+                  "name": "Ruined MCSA Stellebosch Mountain Hut",
+                  "text": "Ezt az elhagyatott kőkunyhót egykor a hegységet átszelő hegymászók használták.",
+                  "category": "historical",
+                  "coords": [
+                        18.972086,
+                        -33.922338
+                  ]
+            },
+            {
+                  "name": "Jonkershoek Nature Reserve",
+                  "text": "Ez a védett terület drámai hegyeket és fynbossal borított mély völgyeket foglal magába.",
+                  "category": "natural",
+                  "coords": [
+                        18.94671,
+                        -33.971305
+                  ]
+            },
+            {
+                  "name": "Hottentots-Holland Nature Reserve",
+                  "text": "Ez a kiterjedt természetvédelmi terület zord terepéről és hegyi túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.022897,
+                        -34.003581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pisgah",
+                  "text": "Acest vârf de munte proeminent se ridică în lanțul accidentat Hottentots Holland.",
+                  "category": "natural",
+                  "coords": [
+                        18.970502,
+                        -34.034334
+                  ]
+            },
+            {
+                  "name": "Pic-sans-nom viewpoint",
+                  "text": "Acest punct de belvedere la mare altitudine oferă vederi ample asupra văilor rezervației.",
+                  "category": "natural",
+                  "coords": [
+                        18.966012,
+                        -34.015411
+                  ]
+            },
+            {
+                  "name": "Valleiberg",
+                  "text": "Acest vârf de munte se înalță maiestuos deasupra peisajului centurii de pliere a Capului.",
+                  "category": "natural",
+                  "coords": [
+                        18.970379,
+                        -34.064269
+                  ]
+            },
+            {
+                  "name": "Langkloofberg",
+                  "text": "Acest vârf stâncos oferă trasee de drumeție provocatoare prin vegetația densă de fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        18.966635,
+                        -34.074247
+                  ]
+            },
+            {
+                  "name": "Ruined MCSA Stellebosch Mountain Hut",
+                  "text": "Acest adăpost de piatră abandonat a fost folosit odată de alpiniștii care traversau lanțul muntos.",
+                  "category": "historical",
+                  "coords": [
+                        18.972086,
+                        -33.922338
+                  ]
+            },
+            {
+                  "name": "Jonkershoek Nature Reserve",
+                  "text": "Această arie protejată cuprinde munți dramatici și văi adânci acoperite cu fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        18.94671,
+                        -33.971305
+                  ]
+            },
+            {
+                  "name": "Hottentots-Holland Nature Reserve",
+                  "text": "Această vastă zonă de conservare este cunoscută pentru terenul său accidentat și traseele montane.",
+                  "category": "natural",
+                  "coords": [
+                        19.022897,
+                        -34.003581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pisgah",
+                  "text": "This prominent mountain peak rises in the rugged Hottentots Holland range.",
+                  "category": "natural",
+                  "coords": [
+                        18.970502,
+                        -34.034334
+                  ]
+            },
+            {
+                  "name": "Pic-sans-nom viewpoint",
+                  "text": "This high-altitude lookout offers sweeping views over the nature reserve's valleys.",
+                  "category": "natural",
+                  "coords": [
+                        18.966012,
+                        -34.015411
+                  ]
+            },
+            {
+                  "name": "Valleiberg",
+                  "text": "This mountain summit rises majestically above the landscape of the Cape fold belt.",
+                  "category": "natural",
+                  "coords": [
+                        18.970379,
+                        -34.064269
+                  ]
+            },
+            {
+                  "name": "Langkloofberg",
+                  "text": "This rocky peak provides challenging hiking trails through dense fynbos vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        18.966635,
+                        -34.074247
+                  ]
+            },
+            {
+                  "name": "Ruined MCSA Stellebosch Mountain Hut",
+                  "text": "This abandoned stone shelter was once used by mountaineers traversing the range.",
+                  "category": "historical",
+                  "coords": [
+                        18.972086,
+                        -33.922338
+                  ]
+            },
+            {
+                  "name": "Jonkershoek Nature Reserve",
+                  "text": "This protected area encompasses dramatic mountains and deep valleys rich in fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        18.94671,
+                        -33.971305
+                  ]
+            },
+            {
+                  "name": "Hottentots-Holland Nature Reserve",
+                  "text": "This vast conservation area is known for its rugged terrain and mountain hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        19.022897,
+                        -34.003581
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.0, -34.0],

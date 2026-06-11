@@ -3314,7 +3314,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms slott",
-                  "text": "Ein im Tudor-Stil erbautes Schloss in der schwedischen Provinz Halland.",
+                  "text": "Schloss Tjolöholm, entworfen von Architekt Lars Israël Wahlman.",
                   "category": "castle",
                   "coords": [
                         12.10308,
@@ -3361,7 +3361,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms slott",
-                  "text": "Tudor-stílusban épült kastély a svédországi Halland tartományban.",
+                  "text": "Tjolöholm kastély, Lars Israël Wahlman építész tervezte.",
                   "category": "castle",
                   "coords": [
                         12.10308,
@@ -3408,7 +3408,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms slott",
-                  "text": "Un castel construit în stil Tudor, situat în provincia suedeză Halland.",
+                  "text": "Castelul Tjolöholm, proiectat de arhitectul Lars Israël Wahlman.",
                   "category": "castle",
                   "coords": [
                         12.10308,
@@ -3455,7 +3455,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms slott",
-                  "text": "A Tudor-style castle located in the Swedish province of Halland.",
+                  "text": "Tjolöholm Castle, designed by architect Lars Israël Wahlman.",
                   "category": "castle",
                   "coords": [
                         12.10308,

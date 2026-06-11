@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraGhanaReliefV2: POI[] = [
   {
-    id: "akwapim-togo-relief-v2",
+    id: "akwapim-togo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Adaklu",
+                  "text": "Der Mount Adaklu ist ein markanter Inselberg in der Akwapim-Togo-Bergkette.",
+                  "category": "natural",
+                  "coords": [
+                        0.495958,
+                        6.495545
+                  ]
+            },
+            {
+                  "name": "Kalakpa Game Production Reserve",
+                  "text": "Das Kalakpa-Wildtierreservat ist ein Naturschutzgebiet, das die vielfältige Fauna der Region schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        0.483239,
+                        6.478078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Adaklu",
+                  "text": "A Mount Adaklu egy jellegzetes tanúhegy az Akwapim-Togo-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        0.495958,
+                        6.495545
+                  ]
+            },
+            {
+                  "name": "Kalakpa Game Production Reserve",
+                  "text": "A Kalakpa Vadrezervátum egy védett terület, amely a régió változatos faunáját őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        0.483239,
+                        6.478078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Adaklu",
+                  "text": "Muntele Adaklu este un munte izolat distinctiv din lanțul Akwapim-Togo.",
+                  "category": "natural",
+                  "coords": [
+                        0.495958,
+                        6.495545
+                  ]
+            },
+            {
+                  "name": "Kalakpa Game Production Reserve",
+                  "text": "Rezervația de animale Kalakpa este o arie protejată care conservă fauna diversă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        0.483239,
+                        6.478078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Adaklu",
+                  "text": "Mount Adaklu is a distinctive inselberg in the Akwapim-Togo mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        0.495958,
+                        6.495545
+                  ]
+            },
+            {
+                  "name": "Kalakpa Game Production Reserve",
+                  "text": "The Kalakpa Game Production Reserve is a protected area preserving the region's diverse wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        0.483239,
+                        6.478078
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-EP",
     coords: [0.55, 6.5],
@@ -119,7 +200,52 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "kwahu-plateau-relief-v2",
+    id: "kwahu-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "Erhaben auf dem Kwahu-Plateau gelegen, regiert dieser traditionelle Häuptlingspalast die Hochlandgemeinde und bewahrt historische Insignien, die über Generationen weitergegeben wurden.",
+                  "category": "castle",
+                  "coords": [
+                        -0.696188,
+                        6.670286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "A Kwahu-fennsíkon emelkedő hagyományos törzsfőnöki palota a felvidéki közösséget irányítja, és generációkon át öröklődő történelmi jelvényeket őriz.",
+                  "category": "castle",
+                  "coords": [
+                        -0.696188,
+                        6.670286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "Situat pe platoul Kwahu, acest palat tradițional al șefului guvernează comunitatea din zonele înalte și păstrează regalii istorice transmise din generație în generație.",
+                  "category": "castle",
+                  "coords": [
+                        -0.696188,
+                        6.670286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "Elevated on the Kwahu Plateau, this traditional chief's palace governs the highland community and preserves historic regalia passed down through generations.",
+                  "category": "castle",
+                  "coords": [
+                        -0.696188,
+                        6.670286
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GH-ER",
     coords: [-0.65, 6.6],
@@ -227,7 +353,88 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "ashanti-uplands-relief-v2",
+    id: "ashanti-uplands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odeefuo Owusu Amoaye I Palace",
+                  "text": "Eingebettet im Aschanti-Hochland dient dieser traditionelle Königspalast als historischer Sitz von Odeefuo Owusu Amoaye I.",
+                  "category": "castle",
+                  "coords": [
+                        -1.525758,
+                        6.664796
+                  ]
+            },
+            {
+                  "name": "Atia Kusia Kwame Shrine",
+                  "text": "Der Atia Kusia Kwame-Schrein ist eine denkmalgeschützte traditionelle Kultstätte im Aschanti-Hochland, die jahrhundertealte lokale spirituelle Praktiken widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.434894,
+                        6.688569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odeefuo Owusu Amoaye I Palace",
+                  "text": "Az Asanti-felföldön megbúvó hagyományos királyi palota Odeefuo Owusu Amoaye I történelmi székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -1.525758,
+                        6.664796
+                  ]
+            },
+            {
+                  "name": "Atia Kusia Kwame Shrine",
+                  "text": "Az Atia Kusia Kwame szentély egy műemlékvédelem alatt álló, hagyományos imahely az Asanti-felföldön, amely a helyi évszázados spirituális gyakorlatokat őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        -1.434894,
+                        6.688569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odeefuo Owusu Amoaye I Palace",
+                  "text": "Cuibărit în zonele înalte Ashanti, acest palat regal tradițional servește drept sediu istoric pentru Odeefuo Owusu Amoaye I.",
+                  "category": "castle",
+                  "coords": [
+                        -1.525758,
+                        6.664796
+                  ]
+            },
+            {
+                  "name": "Atia Kusia Kwame Shrine",
+                  "text": "Altarul Atia Kusia Kwame este un lăcaș de cult tradițional, clasat ca monument de patrimoniu, care reflectă practicile spirituale seculare din zonele înalte Ashanti.",
+                  "category": "religious",
+                  "coords": [
+                        -1.434894,
+                        6.688569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odeefuo Owusu Amoaye I Palace",
+                  "text": "Nestled in the Ashanti uplands, this traditional royal palace serves as the historic seat of Odeefuo Owusu Amoaye I.",
+                  "category": "castle",
+                  "coords": [
+                        -1.525758,
+                        6.664796
+                  ]
+            },
+            {
+                  "name": "Atia Kusia Kwame Shrine",
+                  "text": "The Atia Kusia Kwame Shrine is a heritage-listed traditional place of worship in the Ashanti uplands, reflecting centuries of local spiritual practice.",
+                  "category": "religious",
+                  "coords": [
+                        -1.434894,
+                        6.688569
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GH-AH",
     coords: [-1.5, 6.7],
@@ -299,7 +506,52 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "gambo-hills-relief-v2",
+    id: "gambo-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nabogu Chief's Palace",
+                  "text": "Das traditionelle königliche Schloss und der Verwaltungssitz des Nabogu-Häuptlings inmitten der Gambo-Hügel.",
+                  "category": "castle",
+                  "coords": [
+                        -0.823046,
+                        9.746101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabogu Chief's Palace",
+                  "text": "A Nabogu törzsfőnök hagyományos királyi kastélya és közigazgatási rezidenciája a Gambo-hegyek között.",
+                  "category": "castle",
+                  "coords": [
+                        -0.823046,
+                        9.746101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabogu Chief's Palace",
+                  "text": "Castelul regal tradițional și reședința administrativă a șefului Nabogu în mijlocul dealurilor Gambo.",
+                  "category": "castle",
+                  "coords": [
+                        -0.823046,
+                        9.746101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabogu Chief's Palace",
+                  "text": "The traditional royal castle and administrative residence of the Nabogu chief amidst the Gambo hills.",
+                  "category": "castle",
+                  "coords": [
+                        -0.823046,
+                        9.746101
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-NP",
     coords: [-0.8, 9.8],
@@ -335,7 +587,52 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "akuapem-ridge-relief-v2",
+    id: "akuapem-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cedi Beads",
+                  "text": "In dieser traditionellen Werkstatt in der Akuapem-Ridge-Region können Besucher erleben, wie ghanaische Glasperlen in Handarbeit hergestellt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        0.01267,
+                        6.13247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cedi Beads",
+                  "text": "Az Akuapem-gerinc területén található hagyományos műhelyben a látogatók megtekinthetik az autentikus ghánai üveggyöngyök kézi készítését.",
+                  "category": "landmark",
+                  "coords": [
+                        0.01267,
+                        6.13247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cedi Beads",
+                  "text": "Cuibărit în zona crestei Akuapem, acest atelier tradițional oferă vizitatorilor șansa de a vedea cum sunt realizate manual mărgelele autentice din sticlă ghaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        0.01267,
+                        6.13247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cedi Beads",
+                  "text": "Nestled in the Akuapem Ridge area, this traditional workshop offers visitors a chance to see authentic Ghanaian glass beads being handcrafted.",
+                  "category": "landmark",
+                  "coords": [
+                        0.01267,
+                        6.13247
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-ER",
     coords: [-0.05, 6.15],
@@ -479,7 +776,52 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "fanteakwa-escarpment-relief-v2",
+    id: "fanteakwa-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arthurs place",
+                  "text": "Vor der dramatischen Kulisse der Fanteakwa-Steilstufe bietet diese lokale Attraktion Besuchern einen weiten Blick über die umliegende raue Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.309424,
+                        6.493345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arthurs place",
+                  "text": "A Fanteakwa-meredély drámai háttere előtt fekvő helyi látványosság lenyűgöző kilátást nyújt a környező zord tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.309424,
+                        6.493345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arthurs place",
+                  "text": "Așezată pe fundalul dramatic al abruptului Fanteakwa, această atracție locală oferă vizitatorilor o priveliște panoramică asupra peisajului accidentat din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.309424,
+                        6.493345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arthurs place",
+                  "text": "Set against the dramatic backdrop of the Fanteakwa escarpment, this local attraction offers visitors sweeping views of the surrounding rugged landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.309424,
+                        6.493345
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GH-ER",
     coords: [-0.35, 6.5],
@@ -515,7 +857,88 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "akwapim-plains-relief-v2",
+    id: "akwapim-plains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jubilee Cocoa Farm",
+                  "text": "Eine monumentale Farm, die an bedeutende Meilensteine im Erbe der lokalen Kakaoproduktion erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -0.149835,
+                        5.918741
+                  ]
+            },
+            {
+                  "name": "Tetteh Quarshie Cocoa Farm",
+                  "text": "Eine monumentale Stätte zu Ehren des Pioniers, der ursprünglich Kakaobohnen ins Land brachte.",
+                  "category": "historical",
+                  "coords": [
+                        -0.144626,
+                        5.913263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jubilee Cocoa Farm",
+                  "text": "A helyi kakaótermelés örökségének jelentős mérföldköveit megörökítő monumentális farm.",
+                  "category": "historical",
+                  "coords": [
+                        -0.149835,
+                        5.918741
+                  ]
+            },
+            {
+                  "name": "Tetteh Quarshie Cocoa Farm",
+                  "text": "Monumentális helyszín annak az úttörőnek a tiszteletére, aki eredetileg behozta a kakaóbabot az országba.",
+                  "category": "historical",
+                  "coords": [
+                        -0.144626,
+                        5.913263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jubilee Cocoa Farm",
+                  "text": "O fermă monumentală care comemorează repere semnificative din patrimoniul producției locale de cacao.",
+                  "category": "historical",
+                  "coords": [
+                        -0.149835,
+                        5.918741
+                  ]
+            },
+            {
+                  "name": "Tetteh Quarshie Cocoa Farm",
+                  "text": "Un sit monumental care onorează pionierul ce a adus pentru prima dată boabe de cacao în țară.",
+                  "category": "historical",
+                  "coords": [
+                        -0.144626,
+                        5.913263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jubilee Cocoa Farm",
+                  "text": "A monumental farm commemorating significant milestones in the local cocoa production heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -0.149835,
+                        5.918741
+                  ]
+            },
+            {
+                  "name": "Tetteh Quarshie Cocoa Farm",
+                  "text": "A monumental site honoring the pioneer who originally brought cocoa beans to the country.",
+                  "category": "historical",
+                  "coords": [
+                        -0.144626,
+                        5.913263
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GH-ER",
     coords: [-0.2, 5.9],
@@ -551,7 +974,88 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "nsuta-hills-relief-v2",
+    id: "nsuta-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kente Visitor Center",
+                  "text": "Das Kente Visitor Center bietet einen immersiven Einblick in die traditionelle Webkunst der Aschanti, bei der Kunsthandwerker kunstvoll gemusterte Kente-Stoffe aus Seide und Baumwolle herstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.476382,
+                        6.811414
+                  ]
+            },
+            {
+                  "name": "Effiduasi Chief's Place",
+                  "text": "Dieser traditionelle Hof im Gebiet der Nsuta-Hügel dient als königliche und administrative Residenz des Häuptlings von Effiduasi.",
+                  "category": "castle",
+                  "coords": [
+                        -1.399487,
+                        6.851692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kente Visitor Center",
+                  "text": "A Kente Látogatóközpont elmélyült betekintést nyújt a hagyományos asanti szövőműhelyek munkájába, ahol a mesterek bonyolult mintázatú selyem és pamut kente szöveteket készítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.476382,
+                        6.811414
+                  ]
+            },
+            {
+                  "name": "Effiduasi Chief's Place",
+                  "text": "A Nsuta-hegység területén található hagyományos épületegyüttes az effiduasi törzsfőnök közigazgatási és kulturális rezidenciájaként működik.",
+                  "category": "castle",
+                  "coords": [
+                        -1.399487,
+                        6.851692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kente Visitor Center",
+                  "text": "Centrul pentru Vizitatori Kente oferă o privire captivantă asupra țesutului tradițional Ashanti, unde meșterii creează țesături Kente din mătase și bumbac cu modele complexe.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.476382,
+                        6.811414
+                  ]
+            },
+            {
+                  "name": "Effiduasi Chief's Place",
+                  "text": "Servind ca o curte regală în zona Dealurilor Nsuta, acest complex tradițional este reședința administrativă și culturală a șefului din Effiduasi.",
+                  "category": "castle",
+                  "coords": [
+                        -1.399487,
+                        6.851692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kente Visitor Center",
+                  "text": "The Kente Visitor Center offers an immersive look into traditional Ashanti loom weaving, where artisans create intricately patterned silk and cotton Kente fabrics.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.476382,
+                        6.811414
+                  ]
+            },
+            {
+                  "name": "Effiduasi Chief's Place",
+                  "text": "Serving as the royal courtyard in the Nsuta Hills area, this traditional compound is the administrative and cultural residence of the Effiduasi Chief.",
+                  "category": "castle",
+                  "coords": [
+                        -1.399487,
+                        6.851692
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-AH",
     coords: [-1.45, 6.8],
@@ -587,7 +1091,124 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "bongo-hills-relief-v2",
+    id: "bongo-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "Das Upper East Regional Museum bewahrt handgefertigte Artefakte und präsentiert die traditionelle Kultur der lokalen Gemeinschaften.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "Der Shiloh Temple ist ein christliches Gotteshaus und Versammlungsort der Christ Frontiers Mission International.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Dieses Art Center dient als kreativer Treffpunkt für Künstler und Besucher, um lokale Handwerkskunst zu erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854184,
+                        10.795103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "Az Upper East Regional Museum kézműves tárgyakat őriz, és bemutatja a helyi közösségek hagyományos kultúráját.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "A Shiloh Temple a Christ Frontiers Mission International keresztény istentiszteleti és gyülekezeti helye.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Ez az Art Center kreatív találkozóhelyként szolgál a művészek és a látogatók számára a helyi kézművesség megismerésére.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854184,
+                        10.795103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "Upper East Regional Museum conservă artefacte artizanale și expune cultura tradițională a comunităților locale.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "Templul Shiloh este un lăcaș de cult creștin și loc de adunare pentru Christ Frontiers Mission International.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Acest Centru de Artă servește ca spațiu creativ unde vizitatorii pot explora meșteșugurile tradiționale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854184,
+                        10.795103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "The Upper East Regional Museum preserves handcrafted artifacts and exhibits the traditional cultural heritage of local communities.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "Shiloh Temple serves as a Christian place of worship and gathering space for the Christ Frontiers Mission International congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "This local Art Center acts as a focal point for creative exhibitions and community craft displays.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854184,
+                        10.795103
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-UE",
     coords: [-0.85, 10.8],
@@ -731,7 +1352,52 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "shai-hills-relief-v2",
+    id: "shai-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shai Hills Resource Reserve",
+                  "text": "Dieses Naturschutzgebiet zeichnet sich durch die markanten Felsformationen und Hügel der Shai Hills aus.",
+                  "category": "natural",
+                  "coords": [
+                        0.06226,
+                        5.90351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shai Hills Resource Reserve",
+                  "text": "Ezt a természetvédelmi területet a Shai-hegység jellegzetes sziklaképződményei és dombjai teszik különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        0.06226,
+                        5.90351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shai Hills Resource Reserve",
+                  "text": "Această rezervație naturală se distinge prin formațiunile stâncoase și relieful deluros izbitor din Shai Hills.",
+                  "category": "natural",
+                  "coords": [
+                        0.06226,
+                        5.90351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shai Hills Resource Reserve",
+                  "text": "This resource reserve is characterized by the striking rocky outcrops and undulating relief of the Shai Hills.",
+                  "category": "natural",
+                  "coords": [
+                        0.06226,
+                        5.90351
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-AA",
     coords: [0.05, 5.9],
@@ -767,7 +1433,52 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "kweku-hills-relief-v2",
+    id: "kweku-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ajopa View Point",
+                  "text": "Ein hochgelegener Aussichtspunkt mit Panoramablick über das zerklüftete Gelände der Kweku-Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        -2.065698,
+                        5.343609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajopa View Point",
+                  "text": "Egy magasan fekvő kilátópont, amely panorámás kilátást nyújt a zord Kweku hegyek terepére.",
+                  "category": "natural",
+                  "coords": [
+                        -2.065698,
+                        5.343609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ajopa View Point",
+                  "text": "Un punct de belvedere la altitudine mare care oferă vederi panoramice peste terenul accidentat al dealurilor Kweku.",
+                  "category": "natural",
+                  "coords": [
+                        -2.065698,
+                        5.343609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajopa View Point",
+                  "text": "A high-elevation lookout spot offering panoramic views over the rugged Kweku hills terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -2.065698,
+                        5.343609
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-WR",
     coords: [-2.1, 5.3],
@@ -839,7 +1550,52 @@ export const poiExtraGhanaReliefV2: POI[] = [
     },
   },
   {
-    id: "nkawkaw-escarpment-relief-v2",
+    id: "nkawkaw-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Twenedurase Palace",
+                  "text": "Der Twenedurase-Palast ist eine große Häuptlingsresidenz nahe dem steilen, dramatischen Abhang der felsigen Nkawkaw-Schichtstufe.",
+                  "category": "castle",
+                  "coords": [
+                        -0.785304,
+                        6.609912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Twenedurase Palace",
+                  "text": "A Twenedurase Palota egy grandiózus főnöki rezidencia, amely a sziklás Nkawkaw-lejtő meredek, drámai peremének közelében fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        -0.785304,
+                        6.609912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Twenedurase Palace",
+                  "text": "Palatul Twenedurase este o mare reședință a căpeteniilor, așezată aproape de coborârea abruptă și dramatică a stâncilor din Nkawkaw.",
+                  "category": "castle",
+                  "coords": [
+                        -0.785304,
+                        6.609912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Twenedurase Palace",
+                  "text": "The Twenedurase Palace is a grand chiefly residence perched near the steep, dramatic drop of the rocky Nkawkaw escarpment.",
+                  "category": "castle",
+                  "coords": [
+                        -0.785304,
+                        6.609912
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GH-ER",
     coords: [-0.75, 6.55],

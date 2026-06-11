@@ -1359,7 +1359,7 @@ export const polandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Pieninen-Burg",
-                  "text": "Die Ruinen einer mittelalterlichen Burg im Herzen des Pieniny-Gebirges.",
+                  "text": "Burgruine aus dem 13. Jahrhundert im Nationalpark Pieninen.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -1451,7 +1451,7 @@ export const polandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Zamek Pieniński",
-                  "text": "Egy középkori vár romjai a Pieninek-hegység szívében.",
+                  "text": "13. századi várrom a Pieninek Nemzeti Parkban.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -1543,7 +1543,7 @@ export const polandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Zamek Pieniński",
-                  "text": "Ruinele unui castel medieval situat în inima munților Pieniny.",
+                  "text": "Ruinele unui castel din secolul al XIII-lea în Parcul Național Pieniny.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -1635,7 +1635,7 @@ export const polandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Pieniny Castle",
-                  "text": "The ruins of a medieval castle located in the heart of the Pieniny Mountains.",
+                  "text": "13th-century castle ruins in Pieniny National Park.",
                   "category": "castle",
                   "coords": [
                         20.420283,
@@ -5265,7 +5265,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cerkiew pw. Świętego Kosmy i Damiana w Krempnej",
-                  "text": "Historische hölzerne orthodoxe Kirche in Krempna.",
+                  "text": "Die 1778 erbaute orthodoxe Kirche der heiligen Kosmas und Damian in Krempna im Nationalpark Magura ist ein Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         21.504632,
@@ -5321,7 +5321,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cerkiew pw. Świętego Kosmy i Damiana w Krempnej",
-                  "text": "Történelmi fatemplom Krempnában, Szent Kozma és Damján tiszteletére.",
+                  "text": "A Magura Nemzeti Parkban található Krempna-i Szent Kozma és Damján ortodox templom 1778-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         21.504632,
@@ -5377,7 +5377,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cerkiew pw. Świętego Kosmy i Damiana w Krempnej",
-                  "text": "Biserică istorică de lemn din Krempna, închinată Sfinților Cosma și Damian.",
+                  "text": "Biserica ortodoxă „Sfinții Cosma și Damian” din Krempna, situată în Parcul Național Magura, construită în 1778, monument istoric.",
                   "category": "religious",
                   "coords": [
                         21.504632,
@@ -5433,7 +5433,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cerkiew pw. Świętego Kosmy i Damiana w Krempnej",
-                  "text": "Historic wooden Orthodox church in Krempna.",
+                  "text": "Built in 1778, the Orthodox Church of Saints Cosmas and Damian in Krempna, located in Magura National Park, is a heritage building.",
                   "category": "religious",
                   "coords": [
                         21.504632,

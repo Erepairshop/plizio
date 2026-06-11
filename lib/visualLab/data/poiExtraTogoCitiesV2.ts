@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraTogoCitiesV2: POI[] = [
   {
-    id: "lome-cities-v2",
+    id: "lome-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre artisanal Tayé-Tayé",
+                  "text": "Das Centre artisanal Tayé-Tayé ist ein Zentrum für kreative Künste und traditionelle Handwerkskunst in Lomé.",
+                  "category": "cultural",
+                  "coords": [
+                        1.224636,
+                        6.142312
+                  ]
+            },
+            {
+                  "name": "Colombe de la Paix",
+                  "text": "Das Friedentauben-Denkmal steht an einer belebten Kreuzung in Lomé als Symbol der nationalen Harmonie.",
+                  "category": "historical",
+                  "coords": [
+                        1.229717,
+                        6.149443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre artisanal Tayé-Tayé",
+                  "text": "A Centre artisanal Tayé-Tayé a loméi kreatív művészetek és a hagyományos kézművesség központja.",
+                  "category": "cultural",
+                  "coords": [
+                        1.224636,
+                        6.142312
+                  ]
+            },
+            {
+                  "name": "Colombe de la Paix",
+                  "text": "A Béke Galambja emlékmű egy forgalmas loméi kereszteződésben áll a nemzeti harmónia szimbólumaként.",
+                  "category": "historical",
+                  "coords": [
+                        1.229717,
+                        6.149443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre artisanal Tayé-Tayé",
+                  "text": "Centrul artizanal Tayé-Tayé este un nucleu al artelor creative și meșteșugurilor tradiționale din Lomé.",
+                  "category": "cultural",
+                  "coords": [
+                        1.224636,
+                        6.142312
+                  ]
+            },
+            {
+                  "name": "Colombe de la Paix",
+                  "text": "Monumentul Porumbelul Păcii se înalță într-o intersecție aglomerată din Lomé ca simbol al armoniei naționale.",
+                  "category": "historical",
+                  "coords": [
+                        1.229717,
+                        6.149443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre artisanal Tayé-Tayé",
+                  "text": "The Centre artisanal Tayé-Tayé is a hub for Lomé's creative arts and traditional craftsmanship.",
+                  "category": "cultural",
+                  "coords": [
+                        1.224636,
+                        6.142312
+                  ]
+            },
+            {
+                  "name": "Colombe de la Paix",
+                  "text": "The Dove of Peace monument stands in a bustling Lomé intersection as a symbol of national harmony.",
+                  "category": "historical",
+                  "coords": [
+                        1.229717,
+                        6.149443
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TG-M",
     coords: [1.2225, 6.1372],
@@ -41,7 +122,628 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "atakpame-cities-v2",
+    id: "atakpame-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ONG STADD",
+                  "text": "Ein Gedenkmonument der NGO STADD, das die Initiativen zur nachhaltigen Entwicklung im städtischen Raum von Atakpamé ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        1.137216,
+                        7.520526
+                  ]
+            },
+            {
+                  "name": "Cimetière",
+                  "text": "Dieses historische Friedhofsdenkmal in Atakpamé dient als feierliche Erinnerung an die vergangenen Generationen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        1.146148,
+                        7.489801
+                  ]
+            },
+            {
+                  "name": "SOCIÉTÉ LE SAVOIR",
+                  "text": "Das Denkmal der Société Le Savoir in Atakpamé erinnert an lokale Bildungsinitiativen und den intellektuellen Austausch der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        1.155262,
+                        7.500898
+                  ]
+            },
+            {
+                  "name": "Transformateur Electrique",
+                  "text": "Dieses Denkmal in Atakpamé bewahrt einen frühen elektrischen Transformator und markiert einen Meilenstein in der regionalen Technikgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        1.166866,
+                        7.500957
+                  ]
+            },
+            {
+                  "name": "MAISON DU GOUVERNEUR",
+                  "text": "Das Denkmal des Gouverneurshauses spiegelt mit seiner historischen Wohnarchitektur die koloniale Verwaltungsgeschichte von Atakpamé wider.",
+                  "category": "historical",
+                  "coords": [
+                        1.168167,
+                        7.505444
+                  ]
+            },
+            {
+                  "name": "TOURELLE ALLEMANDE",
+                  "text": "Diese deutsche Wehrturm-Ruine in Atakpamé ist ein steinernes Überbleibsel der militärischen Infrastruktur aus der Kolonialzeit Togos.",
+                  "category": "historical",
+                  "coords": [
+                        1.168918,
+                        7.503941
+                  ]
+            },
+            {
+                  "name": "PLACE PUBLIQUE",
+                  "text": "Dieses zentrale Platzdenkmal in Atakpamé dient traditionell als Versammlungsort für große zivilgesellschaftliche Veranstaltungen.",
+                  "category": "historical",
+                  "coords": [
+                        1.169131,
+                        7.505102
+                  ]
+            },
+            {
+                  "name": "CENTRALE TECHNIQUE DE KAMINA",
+                  "text": "Das Denkmal der Kamina-Zentrale bewahrt die imposanten Ruinen einer riesigen deutschen Funkstation, die vor dem Ersten Weltkrieg errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        1.170592,
+                        7.505354
+                  ]
+            },
+            {
+                  "name": "Reste des vestiges Allemand",
+                  "text": "Diese verstreuten Denkmäler in Atakpamé bewahren die verwitterten architektonischen Überreste der ehemaligen deutschen Kolonialverwaltung.",
+                  "category": "historical",
+                  "coords": [
+                        1.171408,
+                        7.512235
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "Ein kommunales Walddenkmal in Atakpamé, das die lokalen Bemühungen zum Schutz traditioneller bewaldeter Gebiete repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        1.172249,
+                        7.519725
+                  ]
+            },
+            {
+                  "name": "CHÂTEAU",
+                  "text": "Dieses Denkmal in Atakpamé zeichnet sich durch seine chateauartige Struktur aus, die stark mit der typisch westafrikanischen Stadtarchitektur kontrastiert.",
+                  "category": "historical",
+                  "coords": [
+                        1.150636,
+                        7.516208
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE",
+                  "text": "Ein bedeutendes städtisches Gebäudedenkmal in Atakpamé, das eine wichtige Phase der kommerziellen Expansion der Stadt dokumentiert.",
+                  "category": "historical",
+                  "coords": [
+                        1.154751,
+                        7.504613
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE BENEFICIAL LIFE INSURANCE",
+                  "text": "Dieses Firmengebäude gilt als modernes Architekturdenkmal, das das Wachstum des Versicherungssektors in Atakpamé widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        1.15419,
+                        7.506565
+                  ]
+            },
+            {
+                  "name": "Monument des martires",
+                  "text": "Das Märtyrerdenkmal in Atakpamé ist eine feierliche Gedenkstätte, die all jenen gewidmet ist, die während nationaler Kämpfe ihr Leben ließen.",
+                  "category": "historical",
+                  "coords": [
+                        1.143908,
+                        7.519266
+                  ]
+            },
+            {
+                  "name": "Cimetière Française",
+                  "text": "Der französische Friedhof ist eine historische Grabstätte in Atakpamé mit den verwitterten Gräbern von Auswanderern und Kolonialbeamten.",
+                  "category": "historical",
+                  "coords": [
+                        1.134755,
+                        7.522114
+                  ]
+            },
+            {
+                  "name": "Atakpame Niort",
+                  "text": "Dieses Denkmal feiert die starken kulturellen und kommunalen Bindungen, die zwischen Atakpamé und der französischen Stadt Niort geschmiedet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        1.131614,
+                        7.524539
+                  ]
+            },
+            {
+                  "name": "Cimetière de lol nava",
+                  "text": "Der Friedhof von Lol Nava dient als dauerhaftes historisches Denkmal zu Ehren der lokalen Vorfahren innerhalb der Stadtgrenzen von Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.128136,
+                        7.524492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ONG STADD",
+                  "text": "Az Atakpaméban található emlékmű a STADD civilszervezet fenntartható fejlődést célzó munkásságához kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        1.137216,
+                        7.520526
+                  ]
+            },
+            {
+                  "name": "Cimetière",
+                  "text": "Ez a történelmi temetői emlékmű Atakpaméban a város elmúlt generációinak ünnepélyes mementójaként áll.",
+                  "category": "historical",
+                  "coords": [
+                        1.146148,
+                        7.489801
+                  ]
+            },
+            {
+                  "name": "SOCIÉTÉ LE SAVOIR",
+                  "text": "A Société Le Savoir emlékműve Atakpaméban a helyi oktatási és szellemi kezdeményezéseknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        1.155262,
+                        7.500898
+                  ]
+            },
+            {
+                  "name": "Transformateur Electrique",
+                  "text": "Ez az atakpaméi emlékmű egy korai elektromos transzformátort őriz, jelezve a régió technikatörténetének egyik mérföldkövét.",
+                  "category": "historical",
+                  "coords": [
+                        1.166866,
+                        7.500957
+                  ]
+            },
+            {
+                  "name": "MAISON DU GOUVERNEUR",
+                  "text": "A Kormányzói Ház emlékműve történelmi lakóépítészeti stílusával Atakpamé gyarmati közigazgatási múltját tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        1.168167,
+                        7.505444
+                  ]
+            },
+            {
+                  "name": "TOURELLE ALLEMANDE",
+                  "text": "Ez az atakpaméi német védőtorony a togói gyarmati korszak katonai infrastruktúrájának betonba öntött maradványa.",
+                  "category": "historical",
+                  "coords": [
+                        1.168918,
+                        7.503941
+                  ]
+            },
+            {
+                  "name": "PLACE PUBLIQUE",
+                  "text": "Ez az atakpaméi központi köztéri emlékmű hagyományosan a nagyobb polgári események gyülekezési helyeként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        1.169131,
+                        7.505102
+                  ]
+            },
+            {
+                  "name": "CENTRALE TECHNIQUE DE KAMINA",
+                  "text": "A Kamina Műszaki Központ emlékműve az első világháború előtt épült, jelentős német drótnélküli távíróállomás impozáns romjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        1.170592,
+                        7.505354
+                  ]
+            },
+            {
+                  "name": "Reste des vestiges Allemand",
+                  "text": "Ezek az elszórtan elhelyezkedő atakpaméi műemlékek az egykori német gyarmati adminisztráció megkopott építészeti maradványait foglalják magukban.",
+                  "category": "historical",
+                  "coords": [
+                        1.171408,
+                        7.512235
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "Egy kijelölt közösségi erdő-emlékmű Atakpaméban, amely a hagyományos erdős környezet védelmére irányuló helyi erőfeszítéseket jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        1.172249,
+                        7.519725
+                  ]
+            },
+            {
+                  "name": "CHÂTEAU",
+                  "text": "Ez az emlékmű egy jellegzetes kastély stílusú építményt foglal magába, amely éles kontrasztban áll Atakpamé tipikus nyugat-afrikai városi építészetével.",
+                  "category": "historical",
+                  "coords": [
+                        1.150636,
+                        7.516208
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE",
+                  "text": "Egy jelentős városi épület-emlékmű Atakpaméban, amely a város kereskedelmi terjeszkedésének egy fontos szakaszát őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        1.154751,
+                        7.504613
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE BENEFICIAL LIFE INSURANCE",
+                  "text": "Ez a vállalati épület olyan modern építészeti emlékműként áll, amely az atakpaméi biztosítási szektor növekedését tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        1.15419,
+                        7.506565
+                  ]
+            },
+            {
+                  "name": "Monument des martires",
+                  "text": "Az atakpaméi Mártírok emlékműve egy ünnepélyes kegyhely, amelyet a nemzeti küzdelmek során életüket vesztett hősöknek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        1.143908,
+                        7.519266
+                  ]
+            },
+            {
+                  "name": "Cimetière Française",
+                  "text": "A Francia temető egy történelmi temetkezési hely Atakpaméban, ahol egykori gyarmati tisztviselők és külföldiek megkopott sírjai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        1.134755,
+                        7.522114
+                  ]
+            },
+            {
+                  "name": "Atakpame Niort",
+                  "text": "Ez az emlékmű Atakpamé és a francia Niort városa között kialakult szoros kulturális és önkormányzati kapcsolatokat ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        1.131614,
+                        7.524539
+                  ]
+            },
+            {
+                  "name": "Cimetière de lol nava",
+                  "text": "A Lol Nava temető történelmi emlékműként szolgál a helyi ősök tiszteletére az atakpaméi városhatáron belül.",
+                  "category": "historical",
+                  "coords": [
+                        1.128136,
+                        7.524492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ONG STADD",
+                  "text": "Un monument comemorativ asociat cu ONG-ul STADD, care promovează dezvoltarea durabilă în zona urbană Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.137216,
+                        7.520526
+                  ]
+            },
+            {
+                  "name": "Cimetière",
+                  "text": "Acest monument istoric al cimitirului din Atakpamé reprezintă o amintire solemnă a generațiilor trecute ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        1.146148,
+                        7.489801
+                  ]
+            },
+            {
+                  "name": "SOCIÉTÉ LE SAVOIR",
+                  "text": "Monumentul Société Le Savoir din Atakpamé comemorează inițiativele educaționale și intelectuale locale.",
+                  "category": "historical",
+                  "coords": [
+                        1.155262,
+                        7.500898
+                  ]
+            },
+            {
+                  "name": "Transformateur Electrique",
+                  "text": "Acest monument din Atakpamé conservă un transformator electric timpuriu, marcând o piatră de hotar în istoria tehnologică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        1.166866,
+                        7.500957
+                  ]
+            },
+            {
+                  "name": "MAISON DU GOUVERNEUR",
+                  "text": "Monumentul Casei Guvernatorului reflectă istoria administrativă colonială a orașului Atakpamé prin arhitectura sa rezidențială istorică.",
+                  "category": "historical",
+                  "coords": [
+                        1.168167,
+                        7.505444
+                  ]
+            },
+            {
+                  "name": "TOURELLE ALLEMANDE",
+                  "text": "Această turelă defensivă germană din Atakpamé este o rămășiță din beton a infrastructurii militare din epoca colonială a statului Togo.",
+                  "category": "historical",
+                  "coords": [
+                        1.168918,
+                        7.503941
+                  ]
+            },
+            {
+                  "name": "PLACE PUBLIQUE",
+                  "text": "Acest monument din piața publică centrală din Atakpamé a servit în mod tradițional drept spațiu de adunare pentru evenimente civice majore.",
+                  "category": "historical",
+                  "coords": [
+                        1.169131,
+                        7.505102
+                  ]
+            },
+            {
+                  "name": "CENTRALE TECHNIQUE DE KAMINA",
+                  "text": "Monumentul Centrului Tehnic Kamina păstrează ruinele impunătoare ale unei importante stații germane de comunicații fără fir construite înainte de Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        1.170592,
+                        7.505354
+                  ]
+            },
+            {
+                  "name": "Reste des vestiges Allemand",
+                  "text": "Aceste monumente răspândite din Atakpamé conțin vestigiile arhitecturale erodate ale fostei administrații coloniale germane.",
+                  "category": "historical",
+                  "coords": [
+                        1.171408,
+                        7.512235
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "Un monument al pădurii comunitare desemnate din Atakpamé, reprezentând efortul local de protejare a mediului împădurit tradițional.",
+                  "category": "historical",
+                  "coords": [
+                        1.172249,
+                        7.519725
+                  ]
+            },
+            {
+                  "name": "CHÂTEAU",
+                  "text": "Acest monument prezintă o structură distinctivă în stil castel, contrastând cu arhitectura urbană tipic vest-africană din Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.150636,
+                        7.516208
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE",
+                  "text": "Un monument reprezentativ pentru o clădire urbană din Atakpamé, conservând o etapă importantă a expansiunii comerciale a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        1.154751,
+                        7.504613
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE BENEFICIAL LIFE INSURANCE",
+                  "text": "Această clădire corporativă se prezintă ca un monument arhitectural modern, reflectând creșterea sectorului asigurărilor în Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.15419,
+                        7.506565
+                  ]
+            },
+            {
+                  "name": "Monument des martires",
+                  "text": "Monumentul Martirilor din Atakpamé este un memorial solemn dedicat celor care și-au pierdut viața în timpul luptelor naționale.",
+                  "category": "historical",
+                  "coords": [
+                        1.143908,
+                        7.519266
+                  ]
+            },
+            {
+                  "name": "Cimetière Française",
+                  "text": "Cimitirul Francez este un loc istoric de înmormântare din Atakpamé, care conține mormintele erodate ale expatriaților și administratorilor coloniali.",
+                  "category": "historical",
+                  "coords": [
+                        1.134755,
+                        7.522114
+                  ]
+            },
+            {
+                  "name": "Atakpame Niort",
+                  "text": "Acest monument celebrează puternicele legături culturale și municipale stabilite între Atakpamé și orașul francez Niort.",
+                  "category": "historical",
+                  "coords": [
+                        1.131614,
+                        7.524539
+                  ]
+            },
+            {
+                  "name": "Cimetière de lol nava",
+                  "text": "Cimitirul Lol Nava servește ca un monument istoric durabil, onorând strămoșii locali în limitele orașului Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.128136,
+                        7.524492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ONG STADD",
+                  "text": "A commemorative monument associated with the STADD NGO, promoting sustainable development within the city of Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.137216,
+                        7.520526
+                  ]
+            },
+            {
+                  "name": "Cimetière",
+                  "text": "This historic cemetery monument in Atakpamé stands as a solemn reminder of the city's past generations.",
+                  "category": "historical",
+                  "coords": [
+                        1.146148,
+                        7.489801
+                  ]
+            },
+            {
+                  "name": "SOCIÉTÉ LE SAVOIR",
+                  "text": "The Société Le Savoir monument in Atakpamé commemorates local educational and intellectual initiatives.",
+                  "category": "historical",
+                  "coords": [
+                        1.155262,
+                        7.500898
+                  ]
+            },
+            {
+                  "name": "Transformateur Electrique",
+                  "text": "This monument in Atakpamé preserves an early electrical transformer, marking a milestone in the region's technological history.",
+                  "category": "historical",
+                  "coords": [
+                        1.166866,
+                        7.500957
+                  ]
+            },
+            {
+                  "name": "MAISON DU GOUVERNEUR",
+                  "text": "The Governor's House monument reflects Atakpamé's colonial administrative history with its historic residential architecture.",
+                  "category": "historical",
+                  "coords": [
+                        1.168167,
+                        7.505444
+                  ]
+            },
+            {
+                  "name": "TOURELLE ALLEMANDE",
+                  "text": "This German defensive turret in Atakpamé stands as a concrete remnant of Togo's colonial-era military infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        1.168918,
+                        7.503941
+                  ]
+            },
+            {
+                  "name": "PLACE PUBLIQUE",
+                  "text": "This central public square monument in Atakpamé has traditionally served as the gathering space for major civic events.",
+                  "category": "historical",
+                  "coords": [
+                        1.169131,
+                        7.505102
+                  ]
+            },
+            {
+                  "name": "CENTRALE TECHNIQUE DE KAMINA",
+                  "text": "The Kamina Technical Center monument preserves the imposing ruins of a major German wireless communication station built before World War I.",
+                  "category": "historical",
+                  "coords": [
+                        1.170592,
+                        7.505354
+                  ]
+            },
+            {
+                  "name": "Reste des vestiges Allemand",
+                  "text": "These scattered monuments in Atakpamé contain the weathered architectural vestiges of the former German colonial administration.",
+                  "category": "historical",
+                  "coords": [
+                        1.171408,
+                        7.512235
+                  ]
+            },
+            {
+                  "name": "Forêt communautaires",
+                  "text": "A designated community forest monument in Atakpamé representing the local effort to protect traditional wooded environments.",
+                  "category": "historical",
+                  "coords": [
+                        1.172249,
+                        7.519725
+                  ]
+            },
+            {
+                  "name": "CHÂTEAU",
+                  "text": "This monument features a distinctive château-style structure, contrasting with the typical West African urban architecture of Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.150636,
+                        7.516208
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE",
+                  "text": "A significant urban building monument in Atakpamé, preserving an important phase of the city's commercial expansion.",
+                  "category": "historical",
+                  "coords": [
+                        1.154751,
+                        7.504613
+                  ]
+            },
+            {
+                  "name": "IMMEUBLE BENEFICIAL LIFE INSURANCE",
+                  "text": "This corporate building stands as a modern architectural monument reflecting the growth of the insurance sector in Atakpamé.",
+                  "category": "historical",
+                  "coords": [
+                        1.15419,
+                        7.506565
+                  ]
+            },
+            {
+                  "name": "Monument des martires",
+                  "text": "The Martyrs' Monument in Atakpamé is a solemn memorial dedicated to those who lost their lives during national struggles.",
+                  "category": "historical",
+                  "coords": [
+                        1.143908,
+                        7.519266
+                  ]
+            },
+            {
+                  "name": "Cimetière Française",
+                  "text": "The French Cemetery is a historic burial site in Atakpamé containing the weathered tombs of expatriates and colonial administrators.",
+                  "category": "historical",
+                  "coords": [
+                        1.134755,
+                        7.522114
+                  ]
+            },
+            {
+                  "name": "Atakpame Niort",
+                  "text": "This monument celebrates the strong cultural and municipal ties forged between Atakpamé and the French city of Niort.",
+                  "category": "historical",
+                  "coords": [
+                        1.131614,
+                        7.524539
+                  ]
+            },
+            {
+                  "name": "Cimetière de lol nava",
+                  "text": "The Lol Nava cemetery serves as an enduring historic monument honoring local ancestors within the Atakpamé city limits.",
+                  "category": "historical",
+                  "coords": [
+                        1.128136,
+                        7.524492
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TG-P",
     coords: [1.1308, 7.5275],
@@ -79,7 +781,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "sokode-cities-v2",
+    id: "sokode-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boutique d'Exposition CENATIS",
+                  "text": "Die CENATIS-Ausstellungsboutique in Sokodé fungiert als Museum, in dem farbenfrohe, lokal gewebte traditionelle Textilien präsentiert werden.",
+                  "category": "museum",
+                  "coords": [
+                        1.138553,
+                        8.981812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boutique d'Exposition CENATIS",
+                  "text": "A sokodéi CENATIS kiállítási butik múzeumként működik, ahol élénk, helyben szőtt hagyományos textíliákat mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        1.138553,
+                        8.981812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boutique d'Exposition CENATIS",
+                  "text": "Buticul de expoziție CENATIS din Sokodé funcționează ca un muzeu care prezintă textile tradiționale vibrante, țesute local.",
+                  "category": "museum",
+                  "coords": [
+                        1.138553,
+                        8.981812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boutique d'Exposition CENATIS",
+                  "text": "The CENATIS exhibition boutique in Sokodé functions as a museum showcasing vibrant, locally woven traditional textiles.",
+                  "category": "museum",
+                  "coords": [
+                        1.138553,
+                        8.981812
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TG-C",
     coords: [1.1394, 8.9833],
@@ -155,7 +902,88 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "dapaong-cities-v2",
+    id: "dapaong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Radio Maria Dapaong",
+                  "text": "Radio Maria Dapaong sendet aus seiner mit Antennen versehenen Rundfunkanlage in der Stadt und überträgt religiöse Programme für die lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        0.21037,
+                        10.859999
+                  ]
+            },
+            {
+                  "name": "Musée régional des savanes",
+                  "text": "Das Musée régional des savanes bewahrt die Kulturgeschichte der nördlichen Savanes-Region durch traditionelle Holz- und Töpferartefakte.",
+                  "category": "museum",
+                  "coords": [
+                        0.203137,
+                        10.863606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Radio Maria Dapaong",
+                  "text": "A Radio Maria Dapaong a városban található, antennákkal felszerelt műsorszóró létesítményéből működik, vallási műsorokat sugározva a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        0.21037,
+                        10.859999
+                  ]
+            },
+            {
+                  "name": "Musée régional des savanes",
+                  "text": "A Musée régional des savanes a hagyományos fa- és kerámiaműtárgyakon keresztül őrzi az északi Savanes régió kultúrtörténetét.",
+                  "category": "museum",
+                  "coords": [
+                        0.203137,
+                        10.863606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Radio Maria Dapaong",
+                  "text": "Radio Maria Dapaong funcționează de la unitatea sa de difuzare echipată cu antene din oraș, transmițând programe religioase comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        0.21037,
+                        10.859999
+                  ]
+            },
+            {
+                  "name": "Musée régional des savanes",
+                  "text": "Musée régional des savanes păstrează istoria culturală a regiunii nordice Savanes prin artefacte tradiționale din lemn și ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        0.203137,
+                        10.863606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Radio Maria Dapaong",
+                  "text": "Radio Maria Dapaong operates from its antenna-equipped broadcasting facility in the city, transmitting religious programming to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        0.21037,
+                        10.859999
+                  ]
+            },
+            {
+                  "name": "Musée régional des savanes",
+                  "text": "The Musée régional des savanes preserves the cultural history of the northern Savanes region through traditional wooden and pottery artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        0.203137,
+                        10.863606
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TG-S",
     coords: [0.2075, 10.8608],
@@ -578,7 +1406,196 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "kpalime-cities-v2",
+    id: "kpalime-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre culturel Wezo",
+                  "text": "Ein dynamisches Kulturzentrum und Theater in Kpalimé, in dem traditionelle togoische Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        0.620115,
+                        6.922707
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal",
+                  "text": "Ein geschäftiges Handwerkszentrum in Kpalimé, in dem lokale Handwerker traditionelle Holzschnitzereien, Töpferwaren und Textilien herstellen und verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.617797,
+                        6.92386
+                  ]
+            },
+            {
+                  "name": "Place du 30 Aout",
+                  "text": "Ein monumentaler Platz in Kpalimé, der an das historische Datum des 30. August in der Geschichte Togos erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        0.63332,
+                        6.905495
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Ein historisches Kriegsdenkmal in der Stadt Kpalimé, das an gefallene Soldaten erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        0.633928,
+                        6.901789
+                  ]
+            },
+            {
+                  "name": "Cathédrale",
+                  "text": "Die Heilig-Geist-Kathedrale ist ein bedeutendes religiöses Bauwerk in Kpalimé.",
+                  "category": "religious",
+                  "coords": [
+                        0.630592,
+                        6.908508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre culturel Wezo",
+                  "text": "Dinamikus kulturális központ és színház Kpalimében, amely hagyományos togói előadásoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        0.620115,
+                        6.922707
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal",
+                  "text": "Nyüzsgő kézműves központ Kpalimében, ahol a helyi kézművesek hagyományos fafaragásokat, kerámiákat és textíliákat készítenek és árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        0.617797,
+                        6.92386
+                  ]
+            },
+            {
+                  "name": "Place du 30 Aout",
+                  "text": "Monumentális tér Kpalimében, amely Togo történelmének jeles dátumára, augusztus 30-ára emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        0.63332,
+                        6.905495
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Egy történelmi háborús emlékmű Kpalimé városában, amely az elesett katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        0.633928,
+                        6.901789
+                  ]
+            },
+            {
+                  "name": "Cathédrale",
+                  "text": "A Szentlélek-székesegyház egy jelentős vallási épület Kpalimé városában.",
+                  "category": "religious",
+                  "coords": [
+                        0.630592,
+                        6.908508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre culturel Wezo",
+                  "text": "Un centru cultural și un teatru dinamic din Kpalimé care găzduiește spectacole tradiționale togoleze și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        0.620115,
+                        6.922707
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal",
+                  "text": "Un centru de artizanat plin de viață în Kpalimé, unde meșterii locali creează și vând sculpturi tradiționale din lemn, ceramică și textile.",
+                  "category": "landmark",
+                  "coords": [
+                        0.617797,
+                        6.92386
+                  ]
+            },
+            {
+                  "name": "Place du 30 Aout",
+                  "text": "O piață monumentală din Kpalimé care comemorează data istorică de 30 august din istoria statului Togo.",
+                  "category": "historical",
+                  "coords": [
+                        0.63332,
+                        6.905495
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Un monument istoric de război în orașul Kpalimé, dedicat soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        0.633928,
+                        6.901789
+                  ]
+            },
+            {
+                  "name": "Cathédrale",
+                  "text": "Catedrala Sfântul Duh este un edificiu religios semnificativ situat în Kpalimé.",
+                  "category": "religious",
+                  "coords": [
+                        0.630592,
+                        6.908508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre culturel Wezo",
+                  "text": "A dynamic cultural center and theatre in Kpalimé hosting traditional Togolese performances and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        0.620115,
+                        6.922707
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal",
+                  "text": "A bustling artisan center in Kpalimé where local craftsmen create and sell traditional wood carvings, pottery, and textiles.",
+                  "category": "landmark",
+                  "coords": [
+                        0.617797,
+                        6.92386
+                  ]
+            },
+            {
+                  "name": "Place du 30 Aout",
+                  "text": "A monumental square in Kpalimé commemorating the historic date of August 30 in Togo's history.",
+                  "category": "historical",
+                  "coords": [
+                        0.63332,
+                        6.905495
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "A historic war memorial in the city of Kpalimé, dedicated to fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        0.633928,
+                        6.901789
+                  ]
+            },
+            {
+                  "name": "Cathédrale",
+                  "text": "The Cathedral of the Holy Spirit is a significant religious building located in Kpalimé.",
+                  "category": "religious",
+                  "coords": [
+                        0.630592,
+                        6.908508
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-P",
     coords: [0.6314, 6.9103],
@@ -666,7 +1683,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "vogan-cities-v2",
+    id: "vogan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument aux morts",
+                  "text": "Das Monument aux morts in Vogan ist ein feierliches Steindenkmal zu Ehren der einheimischen Soldaten, die in vergangenen Konflikten ihr Leben ließen.",
+                  "category": "historical",
+                  "coords": [
+                        1.530759,
+                        6.333728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux morts",
+                  "text": "A vogani Monument aux morts egy ünnepélyes kőemlékmű, amely a korábbi konfliktusokban életüket vesztett helyi katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        1.530759,
+                        6.333728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux morts",
+                  "text": "Monument aux morts din Vogan este un memorial solemn din piatră în onoarea soldaților locali care și-au pierdut viața în conflictele trecute.",
+                  "category": "historical",
+                  "coords": [
+                        1.530759,
+                        6.333728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument aux morts",
+                  "text": "The Monument aux morts in Vogan is a solemn stone memorial honoring the local soldiers who lost their lives in past conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        1.530759,
+                        6.333728
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-M",
     coords: [1.5283, 6.3267],
@@ -710,7 +1772,124 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "notse-cities-v2",
+    id: "notse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin",
+                  "text": "Eine markante traditionelle Windmühlenstruktur innerhalb der historischen Stadt Notsé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.178476,
+                        6.951812
+                  ]
+            },
+            {
+                  "name": "Le berceau du Peuple Ewe",
+                  "text": "Ein bedeutendes Denkmal in Notsé, das den Status der Stadt als angestammte Wiege des Ewe-Volkes feiert.",
+                  "category": "historical",
+                  "coords": [
+                        1.171456,
+                        6.944699
+                  ]
+            },
+            {
+                  "name": "Pavements de Dakpodji",
+                  "text": "Eine archäologische Stätte in Notsé mit alten Steinpflasterungen, die den historischen städtebaulichen Grundriss der Region offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        1.173083,
+                        6.942934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin",
+                  "text": "Kiemelkedő hagyományos szélmalom építmény Notsé történelmi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.178476,
+                        6.951812
+                  ]
+            },
+            {
+                  "name": "Le berceau du Peuple Ewe",
+                  "text": "Jelentős emlékmű Notséban, amely a várost az eve nép ősi bölcsőjeként ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        1.171456,
+                        6.944699
+                  ]
+            },
+            {
+                  "name": "Pavements de Dakpodji",
+                  "text": "Régészeti lelőhely Notséban, amely ősi kőburkolatokkal rendelkezik, feltárva a régió történelmi városszerkezetét.",
+                  "category": "historical",
+                  "coords": [
+                        1.173083,
+                        6.942934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin",
+                  "text": "O structură proeminentă de moară de vânt tradițională, situată în orașul istoric Notsé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.178476,
+                        6.951812
+                  ]
+            },
+            {
+                  "name": "Le berceau du Peuple Ewe",
+                  "text": "Un monument semnificativ din Notsé care celebrează statutul orașului de leagăn ancestral al poporului Ewe.",
+                  "category": "historical",
+                  "coords": [
+                        1.171456,
+                        6.944699
+                  ]
+            },
+            {
+                  "name": "Pavements de Dakpodji",
+                  "text": "Un sit arheologic din Notsé cu pavaje antice din piatră care dezvăluie aspectul urban istoric al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        1.173083,
+                        6.942934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin",
+                  "text": "A prominent traditional windmill structure located within the historic city of Notsé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.178476,
+                        6.951812
+                  ]
+            },
+            {
+                  "name": "Le berceau du Peuple Ewe",
+                  "text": "A significant monument in Notsé celebrating the city's status as the ancestral cradle of the Ewe people.",
+                  "category": "historical",
+                  "coords": [
+                        1.171456,
+                        6.944699
+                  ]
+            },
+            {
+                  "name": "Pavements de Dakpodji",
+                  "text": "An archaeological site in Notsé featuring ancient stone pavements that reveal the region's historical urban layout.",
+                  "category": "historical",
+                  "coords": [
+                        1.173083,
+                        6.942934
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-P",
     coords: [1.1667, 6.9500],
@@ -923,7 +2102,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "tchamba-cities-v2",
+    id: "tchamba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument De Sarakawa",
+                  "text": "Das Sarakawa-Denkmal in Tchamba erinnert an die Absturzstelle des Flugzeugs von 1974, die eng mit der politischen Geschichte Togos verknüpft ist.",
+                  "category": "historical",
+                  "coords": [
+                        1.41828,
+                        9.023761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument De Sarakawa",
+                  "text": "A tchambai Sarakawa-emlékmű a togói politikai történelemhez kapcsolódó híres, 1974-es repülőgép-szerencsétlenség helyszínének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        1.41828,
+                        9.023761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument De Sarakawa",
+                  "text": "Monumentul Sarakawa din Tchamba comemorează faimosul loc al prăbușirii avionului din 1974, asociat cu istoria politică a statului Togo.",
+                  "category": "historical",
+                  "coords": [
+                        1.41828,
+                        9.023761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument De Sarakawa",
+                  "text": "The Sarakawa Monument in Tchamba commemorates the famous 1974 plane crash site associated with Togo's political history.",
+                  "category": "historical",
+                  "coords": [
+                        1.41828,
+                        9.023761
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-C",
     coords: [1.4167, 9.0333],
@@ -1011,7 +2235,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "niamtougou-cities-v2",
+    id: "niamtougou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santa",
+                  "text": "Santa ist ein steinernes lokales Denkmal in Niamtougou, das als zentraler Punkt für das historische Gedenken der Gemeinde dient.",
+                  "category": "historical",
+                  "coords": [
+                        1.116119,
+                        9.778164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa",
+                  "text": "A Santa egy kőből épült helyi emlékmű Niamtougou-ban, amely a közösség történelmi emlékezetének központi pontjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        1.116119,
+                        9.778164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santa",
+                  "text": "Santa este un monument local de piatră în Niamtougou care servește drept punct central pentru comemorarea istorică a comunității.",
+                  "category": "historical",
+                  "coords": [
+                        1.116119,
+                        9.778164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa",
+                  "text": "Santa is a stone local monument in Niamtougou serving as a focal point for the community's historical remembrance.",
+                  "category": "historical",
+                  "coords": [
+                        1.116119,
+                        9.778164
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-K",
     coords: [1.1042, 9.7681],
@@ -1629,7 +2898,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "hiheatro-cities-v2",
+    id: "hiheatro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cimetière sada",
+                  "text": "Der Friedhof von Sada ist ein feierliches historisches Denkmal in Hiheatro, das Generationen lokaler Familiengeschichten markiert.",
+                  "category": "historical",
+                  "coords": [
+                        1.145609,
+                        7.53997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cimetière sada",
+                  "text": "A Sada temető egy ünnepélyes történelmi emlékmű Hiheatro városában, amely a helyi családok generációinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        1.145609,
+                        7.53997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cimetière sada",
+                  "text": "Cimitirul Sada este un monument istoric solemn în Hiheatro, marcând generații de linii familiale locale.",
+                  "category": "historical",
+                  "coords": [
+                        1.145609,
+                        7.53997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cimetière sada",
+                  "text": "The Sada Cemetery is a solemn historic monument in Hiheatro, marking generations of local family lineage.",
+                  "category": "historical",
+                  "coords": [
+                        1.145609,
+                        7.53997
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-P",
     coords: [1.1333, 7.5500],

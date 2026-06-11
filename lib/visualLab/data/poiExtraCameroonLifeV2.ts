@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraCameroonLifeV2: POI[] = [
   {
-    id: "yaounde-markt-life-v2",
+    id: "yaounde-markt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Leclerc-Eboué",
+                  "text": "Dieses historische Denkmal ehrt das militärische und politische Vermächtnis von General Leclerc und Félix Éboué.",
+                  "category": "historical",
+                  "coords": [
+                        11.519283,
+                        3.861077
+                  ]
+            },
+            {
+                  "name": "Complexe culturel \"Le passe simple\" chez Amerigo",
+                  "text": "Ein lebendiger Kulturkomplex und Kunstzentrum, das lokale Ausstellungen und kreative Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.520485,
+                        3.85511
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Dieses Nationalmuseum ist in einem ehemaligen Präsidentenpalast untergebracht und zeigt Kameruns reiches künstlerisches und traditionelles Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        11.515628,
+                        3.860436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Leclerc-Eboué",
+                  "text": "Ez a történelmi emlékmű Leclerc tábornok és Félix Éboué katonai és politikai öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        11.519283,
+                        3.861077
+                  ]
+            },
+            {
+                  "name": "Complexe culturel \"Le passe simple\" chez Amerigo",
+                  "text": "Egy nyüzsgő kulturális komplexum és művészeti központ, amely helyi kiállításoknak és kreatív eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.520485,
+                        3.85511
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Az egykori elnöki palotában helyet kapó nemzeti múzeum Kamerun gazdag művészeti és hagyományos örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.515628,
+                        3.860436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Leclerc-Eboué",
+                  "text": "Acest monument istoric onorează moștenirea militară și politică a generalului Leclerc și a lui Félix Éboué.",
+                  "category": "historical",
+                  "coords": [
+                        11.519283,
+                        3.861077
+                  ]
+            },
+            {
+                  "name": "Complexe culturel \"Le passe simple\" chez Amerigo",
+                  "text": "Un complex cultural vibrant și centru de artă care găzduiește expoziții locale și evenimente creative.",
+                  "category": "cultural",
+                  "coords": [
+                        11.520485,
+                        3.85511
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Găzduit într-un fost palat prezidențial, acest muzeu național prezintă bogata moștenire artistică și tradițională a Camerunului.",
+                  "category": "museum",
+                  "coords": [
+                        11.515628,
+                        3.860436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Leclerc-Eboué",
+                  "text": "This historical monument honors the military and political legacy of General Leclerc and Félix Éboué.",
+                  "category": "historical",
+                  "coords": [
+                        11.519283,
+                        3.861077
+                  ]
+            },
+            {
+                  "name": "Complexe culturel \"Le passe simple\" chez Amerigo",
+                  "text": "A vibrant cultural complex and arts center that hosts local exhibitions and creative events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.520485,
+                        3.85511
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Housed in a grand former presidential palace, this national museum showcases Cameroon's rich artistic and traditional heritage.",
+                  "category": "museum",
+                  "coords": [
+                        11.515628,
+                        3.860436
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-CE",
     coords: [11.517, 3.861],
@@ -39,7 +156,124 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "douala-kakaoplantage-life-v2",
+    id: "douala-kakaoplantage-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ENTREE MARCHE POULET",
+                  "text": "Dieser städtische Strandzugang befindet sich in der Nähe des belebten lokalen Hühnermarktes in der Region Douala.",
+                  "category": "recreational",
+                  "coords": [
+                        9.79352,
+                        4.077629
+                  ]
+            },
+            {
+                  "name": "ENTREE CPRFO FOUNDATION NGOWI EMMANUEL",
+                  "text": "Dieser sandige Küstenbereich bietet einen Zugang zum Ufer in der Nähe des Geländes der Ngowi Emmanuel Foundation.",
+                  "category": "recreational",
+                  "coords": [
+                        9.790854,
+                        4.079183
+                  ]
+            },
+            {
+                  "name": "ENTREE IMEUBLE LEADER",
+                  "text": "Dieser Strandzugang befindet sich in der Nähe des markanten Imeuble Leader Gebäudes an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        9.792597,
+                        4.073725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ENTREE MARCHE POULET",
+                  "text": "Ez a városi strandhoz vezető belépési pont a nyüzsgő helyi csirkepiac közelében található Douala régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.79352,
+                        4.077629
+                  ]
+            },
+            {
+                  "name": "ENTREE CPRFO FOUNDATION NGOWI EMMANUEL",
+                  "text": "Ez a homokos tengerparti terület hozzáférést biztosít a parthoz a Ngowi Emmanuel Alapítvány épületeinek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.790854,
+                        4.079183
+                  ]
+            },
+            {
+                  "name": "ENTREE IMEUBLE LEADER",
+                  "text": "Ez a strandbejárat a tengerparton álló, kiemelkedő Imeuble Leader épület közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.792597,
+                        4.073725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ENTREE MARCHE POULET",
+                  "text": "Acest punct de acces la plaja urbană este situat lângă piața locală de pui animată din regiunea Douala.",
+                  "category": "recreational",
+                  "coords": [
+                        9.79352,
+                        4.077629
+                  ]
+            },
+            {
+                  "name": "ENTREE CPRFO FOUNDATION NGOWI EMMANUEL",
+                  "text": "Această zonă de coastă nisipoasă oferă acces la țărm lângă sediul Fundației Ngowi Emmanuel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.790854,
+                        4.079183
+                  ]
+            },
+            {
+                  "name": "ENTREE IMEUBLE LEADER",
+                  "text": "Această intrare pe plajă este poziționată aproape de clădirea proeminentă Imeuble Leader de-a lungul coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        9.792597,
+                        4.073725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ENTREE MARCHE POULET",
+                  "text": "This urban beach access point is situated near the bustling local chicken market in the Douala region.",
+                  "category": "recreational",
+                  "coords": [
+                        9.79352,
+                        4.077629
+                  ]
+            },
+            {
+                  "name": "ENTREE CPRFO FOUNDATION NGOWI EMMANUEL",
+                  "text": "This sandy coastal area provides access to the shoreline near the Ngowi Emmanuel Foundation premises.",
+                  "category": "recreational",
+                  "coords": [
+                        9.790854,
+                        4.079183
+                  ]
+            },
+            {
+                  "name": "ENTREE IMEUBLE LEADER",
+                  "text": "This beach entryway is positioned close to the prominent Imeuble Leader building along the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        9.792597,
+                        4.073725
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-LT",
     coords: [9.767, 4.048],
@@ -110,7 +344,88 @@ export const poiExtraCameroonLifeV2: POI[] = [
       fr: ["Le café Arabica pousse à environ 1 200 m d'altitude dans les hauts plateaux de Bamenda.", "Le climat frais produit un café doux et peu acide.", "Les agriculteurs commercialisent leurs produits via des structures coopératives.", "Le café est le produit d'exportation le plus important de la région du Nord-Ouest.", "Le mouvement coopératif assure aux petits planteurs de meilleurs prix et une stabilité."],
     }, image: "/poi-images/bamenda-kaffeehof-life-v2.webp"},
   {
-    id: "maroua-erdnussfeld-life-v2",
+    id: "maroua-erdnussfeld-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrefour Djarma",
+                  "text": "An einer belebten Kreuzung in Maroua gelegen, ermöglicht dieser städtische Aussichtspunkt Fußgängern, den täglichen Stadtverkehr und das Markttreiben zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        14.31467,
+                        10.593567
+                  ]
+            },
+            {
+                  "name": "Salle de conférences et de fêtes de Pitoaré",
+                  "text": "Dieses vielseitige Kunst- und Konferenzzentrum im Viertel Pitoaré in Maroua verfügt über einen großen Saal für Gemeindefeiern.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304178,
+                        10.594054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrefour Djarma",
+                  "text": "A Maroua egyik forgalmas kereszteződésében elhelyezkedő városi kilátópontról a gyalogosok megfigyelhetik a városi forgalom és a piaci nyüzsgés napi áramlását.",
+                  "category": "natural",
+                  "coords": [
+                        14.31467,
+                        10.593567
+                  ]
+            },
+            {
+                  "name": "Salle de conférences et de fêtes de Pitoaré",
+                  "text": "A Pitoaré negyedben található sokoldalú művészeti és konferenciaközpont egy nagy teremmel rendelkezik a maroua-i közösségi ünnepségekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304178,
+                        10.594054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrefour Djarma",
+                  "text": "Poziționat la o intersecție aglomerată din Maroua, acest punct de belvedere urban permite pietonilor să observe fluxul zilnic al traficului orașului și activitatea pieței.",
+                  "category": "natural",
+                  "coords": [
+                        14.31467,
+                        10.593567
+                  ]
+            },
+            {
+                  "name": "Salle de conférences et de fêtes de Pitoaré",
+                  "text": "Situat în cartierul Pitoaré, acest centru versatil de arte și conferințe dispune de o sală mare pentru sărbători comunitare în Maroua.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304178,
+                        10.594054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrefour Djarma",
+                  "text": "Positioned at a busy intersection in Maroua, this urban viewpoint allows pedestrians to observe the daily flow of city traffic and market activity.",
+                  "category": "natural",
+                  "coords": [
+                        14.31467,
+                        10.593567
+                  ]
+            },
+            {
+                  "name": "Salle de conférences et de fêtes de Pitoaré",
+                  "text": "Located in the Pitoaré neighborhood, this versatile arts and conference center features a large hall for community celebrations in Maroua.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304178,
+                        10.594054
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-EN",
     coords: [14.316, 10.597],
@@ -145,7 +460,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
       es: ["Camerún produce unas 400.000 toneladas de cacahuetes al año.", "La planta es resistente a la sequía e ideal para el norte saheliano.", "Los cacahuetes son un alimento básico y fuente de proteínas en el norte.", "Se extrae aceite en pequeñas empresas locales a partir de los frutos.", "La cosecha se realiza principalmente a mano con métodos tradicionales.", "Las regiones del Extremo Norte y del Norte aportan la mayor parte de la producción."],
     }, image: "/poi-images/maroua-erdnussfeld-life-v2.webp"},
   {
-    id: "ngaoundere-rinderranch-life-v2",
+    id: "ngaoundere-rinderranch-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place du cinquantenaire",
+                  "text": "Der Place du cinquantenaire ist ein weitläufiger öffentlicher Platz in Ngaoundéré, der für große Bürgerfeiern im Herzen der Rinderzuchtregion angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        13.576629,
+                        7.317627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place du cinquantenaire",
+                  "text": "A Place du cinquantenaire egy tágas központi tér Ngaoundérében, amelyet jelentős polgári ünnepségek megrendezésére építettek a szarvasmarha-tenyésztő régió szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.576629,
+                        7.317627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place du cinquantenaire",
+                  "text": "Place du cinquantenaire este o piață publică spațioasă în Ngaoundéré, construită pentru a găzdui sărbători civice majore în inima regiunii de creștere a vitelor.",
+                  "category": "landmark",
+                  "coords": [
+                        13.576629,
+                        7.317627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place du cinquantenaire",
+                  "text": "Place du cinquantenaire is a spacious public square in Ngaoundéré, built to host major civic celebrations in the heart of the cattle-ranching region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.576629,
+                        7.317627
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CM-AD",
     coords: [13.583, 7.316],
@@ -181,7 +541,340 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "limbe-wildtierzentrum-life-v2",
+    id: "limbe-wildtierzentrum-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Enow A. Residence",
+                  "text": "Dieser Aussichtspunkt für Wohnzwecke bietet umfassende Perspektiven über die Zonen rund um das Wildtierzentrum.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf die lebhafte lokale Landschaft in der Nähe des Wildtierzentrums.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "botanic garden entrance",
+                  "text": "Dieser bauliche Aussichtspunkt dient als physisches Tor zu den reichen botanischen Sammlungen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        9.201177,
+                        4.012885
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "Dieser Veranstaltungsort im Freien veranstaltet Aufführungen inmitten einer üppigen Umgebung in unmittelbarer Nähe des lokalen Wildtierzentrums.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "Dieses gewidmete Denkmal erinnert an den historischen Einfluss des Missionars Alfred Saker auf die Entwicklung der lokalen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "Diese in den Golf von Guinea mündende Küstenbucht verfügt über einen malerischen und historisch bedeutsamen Naturhafen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "Dieses Kunstzentrum in der Nähe des Wildtierzentrums ist ein zentraler Punkt für das kulturelle Erbe der Wimbum.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            },
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "Dieses regionale zoologische Zentrum konzentriert sich auf die Rettung und Rehabilitation lokaler Primatenarten und anderer Wildtiere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.19731,
+                        4.016995
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "Diese historischen Gärten wurden 1892 gegründet und präsentieren eine vielfältige Sammlung exotischer und einheimischer tropischer Flora.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200217,
+                        4.013014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Enow A. Residence",
+                  "text": "Ez a lakóhelyi kilátó átfogó perspektívákat kínál a vadvédelmi központ körüli övezetekre.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "Ez a kilátó a vadvédelmi központ közelében elterülő nyüzsgő helyi tájra néz.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "botanic garden entrance",
+                  "text": "Ez a szerkezeti kilátó fizikai kapuként szolgál a régió gazdag botanikai gyűjteményeihez.",
+                  "category": "natural",
+                  "coords": [
+                        9.201177,
+                        4.012885
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "Ez a szabadtéri helyszín előadásoknak ad otthont buja környezetben, a helyi vadvédelmi központ közvetlen közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "Ez a dedikált emlékmű Alfred Saker misszionáriusnak a helyi település fejlődésére gyakorolt történelmi hatásának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "A Guineai-öbölbe nyíló tengerparti öböl festői és történelmileg jelentős természetes kikötővel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "Ez a vadvédelmi központ közelében található művészeti központ a wimbumok kulturális örökségének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            },
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "Ez a regionális zoológiai központ a helyi főemlősfajok és más vadon élő állatok megmentésére és rehabilitációjára összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        9.19731,
+                        4.016995
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "Az 1892-ben alapított történelmi kertek egzotikus és őshonos trópusi növényvilág változatos gyűjteményét mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200217,
+                        4.013014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Enow A. Residence",
+                  "text": "Acest punct de observație rezidențial oferă perspective ample asupra zonelor din jurul centrului pentru faună sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "Acest punct de observație are vedere la peisajul local vibrant din apropierea centrului pentru faună sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "botanic garden entrance",
+                  "text": "Acest punct de observație structural servește drept poartă fizică către bogatele colecții botanice ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        9.201177,
+                        4.012885
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "Acest loc în aer liber găzduiește spectacole într-un cadru luxuriant în imediata apropiere a centrului local pentru faună sălbatică.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "Acest monument dedicat comemorează impactul istoric al misionarului Alfred Saker asupra dezvoltării așezării locale.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "Deschizându-se în Golful Guineei, acest golf de coastă are un port natural pitoresc și semnificativ din punct de vedere istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "Acest centru de artă de lângă centrul pentru faună sălbatică este un punct central pentru moștenirea culturală a poporului Wimbum.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            },
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "Acest centru zoologic regional se concentrează pe salvarea și reabilitarea speciilor de primate locale și a altor animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        9.19731,
+                        4.016995
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "Fondate în 1892, aceste grădini istorice prezintă o colecție diversă de floră tropicală exotică și autohtonă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200217,
+                        4.013014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enow A. Residence",
+                  "text": "This residential viewpoint offers sweeping perspectives over the zones surrounding the wildlife center.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "This viewpoint overlooks the vibrant local landscape in the vicinity of the wildlife center.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "botanic garden entrance",
+                  "text": "This structural viewpoint serves as the physical gateway to the region's rich botanical collections.",
+                  "category": "natural",
+                  "coords": [
+                        9.201177,
+                        4.012885
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "This outdoor venue hosts performances amid a lush setting in close proximity to the local wildlife center.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "This dedicated monument commemorates the missionary Alfred Saker's historical impact on the local settlement's development.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "Opening into the Gulf of Guinea, this coastal bay features a scenic and historically significant natural harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "This arts center near the wildlife center is a focal point for the cultural heritage of the Wimbum people.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            },
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "This regional zoological center focuses on the rescue and rehabilitation of local primate species and other wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        9.19731,
+                        4.016995
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "Founded in 1892, these historic gardens showcase a diverse collection of exotic and indigenous tropical flora.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200217,
+                        4.013014
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CM-SW",
     coords: [9.215, 4.015],
@@ -216,7 +909,124 @@ export const poiExtraCameroonLifeV2: POI[] = [
       es: ["El centro rehabilita principalmente chimpancés y crías de gorila procedentes del tráfico de animales.", "Se encuentra en Limbe, al pie del monte Camerún.", "Desde su fundación, cientos de primates han sido devueltos a la naturaleza.", "Se ofrecen programas educativos para grupos escolares y visitantes internacionales.", "Es la institución de conservación más importante de la región Suroeste de Camerún."],
     }, image: "/poi-images/limbe-wildtierzentrum-life-v2.webp"},
   {
-    id: "garoua-flussfischerei-life-v2",
+    id: "garoua-flussfischerei-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "I love Garoua city",
+                  "text": "Dieses farbenfrohe Stadtschild „I love Garoua“ dient als beliebtes Fotomotiv, das den bürgerlichen Stolz in der Nähe der belebten Flussfischereigebiete widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        13.381309,
+                        9.31338
+                  ]
+            },
+            {
+                  "name": "Carrefour matakam",
+                  "text": "Der Carrefour Matakam ist eine belebte Kreuzung in Garoua, die den kulturellen Einfluss und das handwerkliche Erbe des lokalen Mafa-Volkes widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.381911,
+                        9.306918
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel Bamendjou",
+                  "text": "Das Foyer Culturel Bamendjou ist ein lebendiges Kunstzentrum in Garoua, in dem die reichen Traditionen und gemeinschaftlichen Aktivitäten der Bamendjou-Gemeinde gefeiert werden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.376404,
+                        9.305451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "I love Garoua city",
+                  "text": "Ez a színes „I love Garoua” városi tábla népszerű fotózási helyszínként szolgál, amely a nyüzsgő folyami halászati területek közelében tükrözi a polgári büszkeséget.",
+                  "category": "historical",
+                  "coords": [
+                        13.381309,
+                        9.31338
+                  ]
+            },
+            {
+                  "name": "Carrefour matakam",
+                  "text": "A Carrefour Matakam egy nyüzsgő kereszteződés Garouában, amely a helyi mafa nép kulturális hatását és kereskedelmi örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        13.381911,
+                        9.306918
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel Bamendjou",
+                  "text": "A Foyer Culturel Bamendjou egy nyüzsgő művészeti központ Garouában, ahol a Bamendjou közösség gazdag hagyományait és közösségi tevékenységeit ünneplik.",
+                  "category": "cultural",
+                  "coords": [
+                        13.376404,
+                        9.305451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "I love Garoua city",
+                  "text": "Acest semn de oraș colorat „I love Garoua” servește ca un punct de reper fotografic popular care reflectă mândria civică în apropierea zonelor pline de viață de pescuit fluvial.",
+                  "category": "historical",
+                  "coords": [
+                        13.381309,
+                        9.31338
+                  ]
+            },
+            {
+                  "name": "Carrefour matakam",
+                  "text": "Carrefour Matakam este o intersecție plină de viață în Garoua care reflectă influența culturală și moștenirea comercială a poporului local Mafa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.381911,
+                        9.306918
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel Bamendjou",
+                  "text": "Foyer Culturel Bamendjou este un centru de artă vibrant în Garoua, unde sunt celebrate tradițiile bogate și activitățile comunale ale comunității Bamendjou.",
+                  "category": "cultural",
+                  "coords": [
+                        13.376404,
+                        9.305451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "I love Garoua city",
+                  "text": "This colorful 'I love Garoua' city sign serves as a popular photographic landmark reflecting civic pride near the bustling river fishing areas.",
+                  "category": "historical",
+                  "coords": [
+                        13.381309,
+                        9.31338
+                  ]
+            },
+            {
+                  "name": "Carrefour matakam",
+                  "text": "Carrefour Matakam is a lively intersection in Garoua that reflects the cultural influence and trading heritage of the local Mafa people.",
+                  "category": "landmark",
+                  "coords": [
+                        13.381911,
+                        9.306918
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel Bamendjou",
+                  "text": "The Foyer Culturel Bamendjou is a vibrant arts center in Garoua where the rich traditions and communal activities of the Bamendjou community are celebrated.",
+                  "category": "cultural",
+                  "coords": [
+                        13.376404,
+                        9.305451
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-NO",
     coords: [13.383, 9.300],
@@ -251,7 +1061,124 @@ export const poiExtraCameroonLifeV2: POI[] = [
       es: ["La temporada alta de pesca es en octubre y noviembre, al final de la estación de lluvias.", "El Benué es una de las rutas de suministro de alimentos más importantes del norte de Camerún.", "El pescado fresco y seco son mercancías importantes en los mercados regionales.", "Las técnicas de pesca tradicionales transmitidas por generaciones definen la actividad.", "Las crecidas estacionales del Benué determinan el ciclo anual de pesca."],
     }, image: "/poi-images/garoua-flussfischerei-life-v2.webp"},
   {
-    id: "ebolowa-kakaogarten-life-v2",
+    id: "ebolowa-kakaogarten-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument De L’independance De L’EPC",
+                  "text": "Ein steinernes Gedenkmonument, das an die Unabhängigkeit und Autonomie der Église Presbytérienne Camerounaise erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        11.158842,
+                        2.909152
+                  ]
+            },
+            {
+                  "name": "Carrefour lion",
+                  "text": "Ein belebter Verkehrsknotenpunkt, in dessen Zentrum eine große, skulptierte Löwenstatue steht.",
+                  "category": "historical",
+                  "coords": [
+                        11.148562,
+                        2.925018
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint Anne et Joachim",
+                  "text": "Eine bedeutende katholische Kathedrale, die sich durch ihren hohen Glockenturm und ein geräumiges Kirchenschiff auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        11.134135,
+                        2.933488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument De L’independance De L’EPC",
+                  "text": "Kőből készült emlékmű, amely az Église Presbytérienne Camerounaise függetlenségét és autonómiáját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        11.158842,
+                        2.909152
+                  ]
+            },
+            {
+                  "name": "Carrefour lion",
+                  "text": "Egy forgalmas útkereszteződés, amelynek közepén egy nagy, faragott oroszlánszobor áll.",
+                  "category": "historical",
+                  "coords": [
+                        11.148562,
+                        2.925018
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint Anne et Joachim",
+                  "text": "Egy jelentős katolikus katedrális, amelyet magas harangtornya és a tágas főhajója tesz különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        11.134135,
+                        2.933488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument De L’independance De L’EPC",
+                  "text": "Un monument comemorativ din piatră care marchează independența și autonomia Église Presbytérienne Camerounaise.",
+                  "category": "historical",
+                  "coords": [
+                        11.158842,
+                        2.909152
+                  ]
+            },
+            {
+                  "name": "Carrefour lion",
+                  "text": "O intersecție rutieră proeminentă, care prezintă o statuie mare a unui leu sculptat în centrul său.",
+                  "category": "historical",
+                  "coords": [
+                        11.148562,
+                        2.925018
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint Anne et Joachim",
+                  "text": "O catedrală catolică majoră distinsă prin clopotnița sa înaltă și naosul spațios pentru credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        11.134135,
+                        2.933488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument De L’independance De L’EPC",
+                  "text": "A commemorative stone monument marking the independence and autonomy of the Église Presbytérienne Camerounaise.",
+                  "category": "historical",
+                  "coords": [
+                        11.158842,
+                        2.909152
+                  ]
+            },
+            {
+                  "name": "Carrefour lion",
+                  "text": "A prominent traffic intersection featuring a large sculpted lion statue at its center.",
+                  "category": "historical",
+                  "coords": [
+                        11.148562,
+                        2.925018
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint Anne et Joachim",
+                  "text": "A major Catholic cathedral distinguished by its tall bell tower and a spacious nave accommodating local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        11.134135,
+                        2.933488
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-SU",
     coords: [11.150, 2.916],
@@ -286,7 +1213,88 @@ export const poiExtraCameroonLifeV2: POI[] = [
       fr: ["Les jardins de cacao près d'Ebolowa se situent à la lisière de la forêt tropicale du sud.", "Les agriculteurs utilisent l'ombre naturelle des grands arbres pour leurs plants de cacao.", "Le cacao est le produit d'exportation le plus important et le plus précieux de la région Sud.", "Une partie de la production est commercialisée via des filières de commerce équitable.", "Le savoir-faire traditionnel et moderne en matière de culture se complètent ici."],
     }, image: "/poi-images/ebolowa-kakaogarten-life-v2.webp"},
   {
-    id: "foumban-handwerkermarkt-life-v2",
+    id: "foumban-handwerkermarkt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand Tambour",
+                  "text": "Dieses einzigartige Museumsexponat zeigt eine riesige zeremonielle Trommel, die historisch die Autorität und Kommunikation des Bamoun-Königreichs symbolisierte.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée des Rois Bamoun",
+                  "text": "Dieses am 13. April 2024 eröffnete Museum dokumentiert umfassend die königliche Abstammung, die kunstvollen Artefakte und das kulturelle Erbe der Bamoun-Könige.",
+                  "category": "museum",
+                  "coords": [
+                        10.901324,
+                        5.732475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand Tambour",
+                  "text": "Ez az egyedülálló múzeumi kiállítás egy óriási szertartási dobot mutat be, amely történelmileg a bamoun királyság tekintélyét és kommunikációját szimbolizálta.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée des Rois Bamoun",
+                  "text": "A 2024. április 13-án megnyílt múzeum részletesen bemutatja a bamoun királyok királyi származását, bonyolult tárgyi emlékeit és kulturális örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        10.901324,
+                        5.732475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand Tambour",
+                  "text": "Această expoziție de muzeu unică prezintă o tobă ceremonială gigantică care a simbolizat din punct de vedere istoric autoritatea și comunicarea regatului Bamoun.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée des Rois Bamoun",
+                  "text": "Deschis pe 13 aprilie 2024, acest muzeu prezintă în detaliu descendența regală, artefactele elaborate și moștenirea culturală a regilor Bamoun.",
+                  "category": "museum",
+                  "coords": [
+                        10.901324,
+                        5.732475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Tambour",
+                  "text": "This unique museum exhibit features a giant ceremonial drum that historically symbolized the authority and communication of the Bamoun kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée des Rois Bamoun",
+                  "text": "Opened on April 13, 2024, this museum extensively chronicles the royal lineage, elaborate artifacts, and cultural legacy of the Bamoun kings.",
+                  "category": "museum",
+                  "coords": [
+                        10.901324,
+                        5.732475
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CM-OU",
     coords: [10.900, 5.733],
@@ -428,7 +1436,160 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "bafoussam-maisfeld-life-v2",
+    id: "bafoussam-maisfeld-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chefferie de Bamougoum",
+                  "text": "Die Chefferie de Bamougoum ist ein bedeutender traditioneller Häuptlingspalast in der Gegend von Bafoussam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.35861,
+                        5.509054
+                  ]
+            },
+            {
+                  "name": "Chefferie Baleng",
+                  "text": "Die Chefferie Baleng ist ein historischer Königspalast, der das kulturelle Erbe der Region Bafoussam pflegt.",
+                  "category": "castle",
+                  "coords": [
+                        10.411308,
+                        5.51254
+                  ]
+            },
+            {
+                  "name": "Chefferie Bapi",
+                  "text": "Die Chefferie Bapi ist eine traditionelle königliche Residenz der Bamileke in der Nähe von Bafoussam.",
+                  "category": "castle",
+                  "coords": [
+                        10.372186,
+                        5.556267
+                  ]
+            },
+            {
+                  "name": "Foyer Social de Bamendjou",
+                  "text": "Das Foyer Social de Bamendjou ist ein Kunst- und Kulturzentrum, das die lokale Gemeinschaft in Bafoussam unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.412902,
+                        5.475792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chefferie de Bamougoum",
+                  "text": "A Chefferie de Bamougoum egy jelentős hagyományos törzsfői palota a Bafoussam környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.35861,
+                        5.509054
+                  ]
+            },
+            {
+                  "name": "Chefferie Baleng",
+                  "text": "A Chefferie Baleng egy történelmi királyi palota, amely a Bafoussam régió kulturális örökségét őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        10.411308,
+                        5.51254
+                  ]
+            },
+            {
+                  "name": "Chefferie Bapi",
+                  "text": "A Chefferie Bapi egy hagyományos bamileke királyi rezidencia Bafoussam közelében.",
+                  "category": "castle",
+                  "coords": [
+                        10.372186,
+                        5.556267
+                  ]
+            },
+            {
+                  "name": "Foyer Social de Bamendjou",
+                  "text": "A Foyer Social de Bamendjou egy művészeti és kulturális központ, amely a helyi közösséget támogatja Bafoussamban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.412902,
+                        5.475792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chefferie de Bamougoum",
+                  "text": "Chefferie de Bamougoum este un important palat tradițional de căpetenie în zona Bafoussam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.35861,
+                        5.509054
+                  ]
+            },
+            {
+                  "name": "Chefferie Baleng",
+                  "text": "Chefferie Baleng este un palat regal istoric care menține moștenirea culturală a regiunii Bafoussam.",
+                  "category": "castle",
+                  "coords": [
+                        10.411308,
+                        5.51254
+                  ]
+            },
+            {
+                  "name": "Chefferie Bapi",
+                  "text": "Chefferie Bapi este o reședință regală tradițională Bamileke situată lângă Bafoussam.",
+                  "category": "castle",
+                  "coords": [
+                        10.372186,
+                        5.556267
+                  ]
+            },
+            {
+                  "name": "Foyer Social de Bamendjou",
+                  "text": "Foyer Social de Bamendjou este un centru de artă și cultură care sprijină comunitatea locală din Bafoussam.",
+                  "category": "cultural",
+                  "coords": [
+                        10.412902,
+                        5.475792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chefferie de Bamougoum",
+                  "text": "Chefferie de Bamougoum is a significant traditional chiefdom palace in the Bafoussam area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.35861,
+                        5.509054
+                  ]
+            },
+            {
+                  "name": "Chefferie Baleng",
+                  "text": "Chefferie Baleng is a historic royal palace maintaining the cultural heritage of the Bafoussam region.",
+                  "category": "castle",
+                  "coords": [
+                        10.411308,
+                        5.51254
+                  ]
+            },
+            {
+                  "name": "Chefferie Bapi",
+                  "text": "Chefferie Bapi is a traditional Bamileke royal residence located near Bafoussam.",
+                  "category": "castle",
+                  "coords": [
+                        10.372186,
+                        5.556267
+                  ]
+            },
+            {
+                  "name": "Foyer Social de Bamendjou",
+                  "text": "The Foyer Social de Bamendjou is an arts and cultural center supporting the local community in Bafoussam.",
+                  "category": "cultural",
+                  "coords": [
+                        10.412902,
+                        5.475792
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-OU",
     coords: [10.416, 5.483],
@@ -536,7 +1697,124 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "bamenda-museumsgarten-life-v2",
+    id: "bamenda-museumsgarten-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ebua's Residence",
+                  "text": "Ebua's Residence dient als lokaler Aussichtspunkt mit Blick auf die lebendigen Straßen von Bamenda.",
+                  "category": "natural",
+                  "coords": [
+                        10.150149,
+                        5.963106
+                  ]
+            },
+            {
+                  "name": "Pa Ngo Residence",
+                  "text": "Die Pa Ngo Residence bietet erhöhte Aussichtspunkte über die umliegenden Viertel von Bamenda.",
+                  "category": "natural",
+                  "coords": [
+                        10.144402,
+                        5.971304
+                  ]
+            },
+            {
+                  "name": "RÉSIDENCE",
+                  "text": "Diese stattliche, burgähnliche Residenz sticht als markantes architektonisches Wahrzeichen in Bamenda hervor.",
+                  "category": "castle",
+                  "coords": [
+                        10.163206,
+                        5.977735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ebua's Residence",
+                  "text": "Az Ebua's Residence egy helyi kilátópont, ahonnan rálátás nyílik Bamenda nyüzsgő utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        10.150149,
+                        5.963106
+                  ]
+            },
+            {
+                  "name": "Pa Ngo Residence",
+                  "text": "A Pa Ngo Residence magaslati kilátást kínál a környező bamendai negyedekre.",
+                  "category": "natural",
+                  "coords": [
+                        10.144402,
+                        5.971304
+                  ]
+            },
+            {
+                  "name": "RÉSIDENCE",
+                  "text": "Ez a tekintélyes, kastélyszerű rezidencia Bamenda egyik kiemelkedő építészeti tájékozódási pontja.",
+                  "category": "castle",
+                  "coords": [
+                        10.163206,
+                        5.977735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ebua's Residence",
+                  "text": "Ebua's Residence servește ca un punct de belvedere local cu vedere la străzile vibrante din Bamenda.",
+                  "category": "natural",
+                  "coords": [
+                        10.150149,
+                        5.963106
+                  ]
+            },
+            {
+                  "name": "Pa Ngo Residence",
+                  "text": "Pa Ngo Residence oferă puncte de belvedere la înălțime asupra cartierelor înconjurătoare din Bamenda.",
+                  "category": "natural",
+                  "coords": [
+                        10.144402,
+                        5.971304
+                  ]
+            },
+            {
+                  "name": "RÉSIDENCE",
+                  "text": "Această reședință impunătoare, asemănătoare unui castel, iese în evidență ca un punct de reper arhitectural în Bamenda.",
+                  "category": "castle",
+                  "coords": [
+                        10.163206,
+                        5.977735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ebua's Residence",
+                  "text": "Ebua's Residence serves as a local viewpoint overlooking the vibrant streets of Bamenda.",
+                  "category": "natural",
+                  "coords": [
+                        10.150149,
+                        5.963106
+                  ]
+            },
+            {
+                  "name": "Pa Ngo Residence",
+                  "text": "The Pa Ngo Residence offers elevated viewpoints over the surrounding Bamenda neighbourhoods.",
+                  "category": "natural",
+                  "coords": [
+                        10.144402,
+                        5.971304
+                  ]
+            },
+            {
+                  "name": "RÉSIDENCE",
+                  "text": "This stately, castle-like residence stands out as a prominent architectural landmark in Bamenda.",
+                  "category": "castle",
+                  "coords": [
+                        10.163206,
+                        5.977735
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CM-NW",
     coords: [10.150, 5.966],
@@ -644,7 +1922,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "ebolowa-obstmarkt-life-v2",
+    id: "ebolowa-obstmarkt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des arts nègres",
+                  "text": "Das Musée des arts nègres in Ebolowa ist ein Kulturmuseum, das der Erhaltung und Ausstellung traditioneller afrikanischer Kunstwerke und Artefakte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.167047,
+                        2.812696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des arts nègres",
+                  "text": "Az ebolowai Musée des arts nègres egy kulturális múzeum, amely hagyományos afrikai művészeti alkotások és műtárgyak megőrzésének és bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        11.167047,
+                        2.812696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des arts nègres",
+                  "text": "Musée des arts nègres din Ebolowa este un muzeu cultural dedicat conservării și expunerii operelor de artă și artefactelor tradiționale africane.",
+                  "category": "museum",
+                  "coords": [
+                        11.167047,
+                        2.812696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des arts nègres",
+                  "text": "The Musée des arts nègres in Ebolowa is a cultural museum dedicated to preserving and exhibiting traditional African artworks and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        11.167047,
+                        2.812696
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-SU",
     coords: [11.150, 2.900],
@@ -716,7 +2039,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "ambe-tierstation-life-v2",
+    id: "ambe-tierstation-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palace",
+                  "text": "The Palace ist eine architektonische Attraktion, die einen Einblick in die großartige Baugestaltung der Gegend bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.700814,
+                        4.048228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palace",
+                  "text": "A Palace egy építészeti látványosság, amely bepillantást enged a környék grandiózus épülettervezésébe.",
+                  "category": "landmark",
+                  "coords": [
+                        9.700814,
+                        4.048228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palace",
+                  "text": "Palace este o atracție arhitecturală care oferă o privire asupra designului structural grandios din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.700814,
+                        4.048228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace",
+                  "text": "The Palace is an architectural attraction offering a glimpse into grand structural design in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.700814,
+                        4.048228
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CM-LT",
     coords: [9.700, 4.050],
@@ -752,7 +2120,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "bertoua-landwirtschaft-life-v2",
+    id: "bertoua-landwirtschaft-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrière Kuete Bedell client bertoua",
+                  "text": "Ein weitläufiger Steinbruch, der die industrielle und physische Landschaft der umgebenden Agrarregion geprägt hat.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705236,
+                        4.52156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrière Kuete Bedell client bertoua",
+                  "text": "Kiterjedt kőbánya, amely a környező mezőgazdasági régió ipari és fizikai arculatát formálta.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705236,
+                        4.52156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrière Kuete Bedell client bertoua",
+                  "text": "O carieră de piatră expansivă care a modelat peisajul industrial și fizic al regiunii agricole înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705236,
+                        4.52156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrière Kuete Bedell client bertoua",
+                  "text": "An expansive stone quarry site that has shaped the industrial and physical landscape of the surrounding agricultural region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705236,
+                        4.52156
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-ES",
     coords: [13.683, 4.566],
@@ -788,7 +2201,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "foumbot-gemuesemarkt-life-v2",
+    id: "foumbot-gemuesemarkt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du Cinquantenaire de la Jeunesse",
+                  "text": "Dieses Denkmal in der Nähe von Foumbot wurde zur Feier des 50. Jahrestages der Jugend errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        10.545637,
+                        5.481252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du Cinquantenaire de la Jeunesse",
+                  "text": "Ezt a Foumbot közelében található emlékművet az ifjúság 50. évfordulójának tiszteletére emelték.",
+                  "category": "historical",
+                  "coords": [
+                        10.545637,
+                        5.481252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du Cinquantenaire de la Jeunesse",
+                  "text": "Acest monument din apropiere de Foumbot a fost ridicat pentru a sărbători a 50-a aniversare a tineretului.",
+                  "category": "historical",
+                  "coords": [
+                        10.545637,
+                        5.481252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du Cinquantenaire de la Jeunesse",
+                  "text": "This commemorative monument near Foumbot was erected to celebrate the 50th anniversary of the youth.",
+                  "category": "historical",
+                  "coords": [
+                        10.545637,
+                        5.481252
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-OU",
     coords: [10.600, 5.500],
@@ -860,7 +2318,124 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "kousseri-fischhafen-life-v2",
+    id: "kousseri-fischhafen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument",
+                  "text": "Ein öffentliches Denkmal in der geschäftigen Flussstadt Kousséri, direkt auf der anderen Seite des Logone-Flusses von N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "Diese steinerne Stele in Kousséri erinnert an Commandant Lamy, einen französischen Offizier, der im Jahr 1900 in der Schlacht von Kousséri fiel.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            },
+            {
+                  "name": "Muse Sultanat",
+                  "text": "Dieses Museum bewahrt die kulturellen Artefakte und das historische Erbe des traditionellen Sultanats von Kousséri.",
+                  "category": "museum",
+                  "coords": [
+                        15.033116,
+                        12.080249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument",
+                  "text": "Köztéri emlékmű a nyüzsgő folyóparti Kousséri városában, közvetlenül a Logone folyó túlpartján, N'Djamenával szemben.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "Ez a kousséri kősztélé Lamy parancsnoknak, egy francia katonatisztnek állít emléket, aki az 1900-as kousséri csatában esett el.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            },
+            {
+                  "name": "Muse Sultanat",
+                  "text": "Ez a múzeum a hagyományos kousséri szultanátus kulturális tárgyait és történelmi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        15.033116,
+                        12.080249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument",
+                  "text": "Un monument public în orașul aglomerat de pe râul Kousséri, chiar peste râul Logone de N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "Această stelă de piatră din Kousséri îl comemorează pe comandantul Lamy, un ofițer militar francez care a murit în bătălia de la Kousséri din 1900.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            },
+            {
+                  "name": "Muse Sultanat",
+                  "text": "Acest muzeu păstrează artefactele culturale și moștenirea istorică a sultanatului tradițional din Kousséri.",
+                  "category": "museum",
+                  "coords": [
+                        15.033116,
+                        12.080249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument",
+                  "text": "A public monument located in the bustling riverine town of Kousséri, just across the Logone River from N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "This stone stele in Kousséri commemorates Commandant Lamy, a French military officer who died in the 1900 Battle of Kousséri.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            },
+            {
+                  "name": "Muse Sultanat",
+                  "text": "This museum preserves the cultural artifacts and historical legacy of the traditional Sultanate of Kousséri.",
+                  "category": "museum",
+                  "coords": [
+                        15.033116,
+                        12.080249
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-EN",
     coords: [15.033, 12.083],
@@ -896,7 +2471,124 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "douala-botanischer-garten-life-v2",
+    id: "douala-botanischer-garten-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castel Hall",
+                  "text": "Dieser lokale Veranstaltungsort dient als vielseitiger Raum für Gemeindeveranstaltungen und Versammlungen in der Nähe der botanischen Gärten von Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.694505,
+                        4.032414
+                  ]
+            },
+            {
+                  "name": "Annie Kadji Art Gallery",
+                  "text": "Diese Galerie für bildende Kunst zeigt ausdrucksstarke lokale Kunstwerke und bietet kamerunischen Talenten eine Ausstellungsfläche.",
+                  "category": "museum",
+                  "coords": [
+                        9.702775,
+                        4.027554
+                  ]
+            },
+            {
+                  "name": "Global Cargo",
+                  "text": "Dieser logistikbezogene Ort befindet sich in der wirtschaftlich aktiven Zone rund um die See- und Verkehrsknotenpunkte von Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.710906,
+                        4.037617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castel Hall",
+                  "text": "Ez a helyi rendezvényközpont sokoldalú térként szolgál közösségi események és összejövetelek számára a doualai botanikus kert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.694505,
+                        4.032414
+                  ]
+            },
+            {
+                  "name": "Annie Kadji Art Gallery",
+                  "text": "Ez a képzőművészeti galéria kifejező helyi műalkotásokat mutat be, és kiállítási teret biztosít a kameruni tehetségek számára.",
+                  "category": "museum",
+                  "coords": [
+                        9.702775,
+                        4.027554
+                  ]
+            },
+            {
+                  "name": "Global Cargo",
+                  "text": "Ez a logisztikai témájú látványosság a Douala tengeri és közlekedési csomópontjait körülvevő gazdaságilag aktív zónában található.",
+                  "category": "landmark",
+                  "coords": [
+                        9.710906,
+                        4.037617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castel Hall",
+                  "text": "Această locație locală servește ca spațiu versatil pentru evenimente și adunări comunitare în apropierea grădinilor botanice din Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.694505,
+                        4.032414
+                  ]
+            },
+            {
+                  "name": "Annie Kadji Art Gallery",
+                  "text": "Această galerie de arte vizuale expune opere de artă locale expresive și oferă un spațiu de expoziție pentru talentul camerunez.",
+                  "category": "museum",
+                  "coords": [
+                        9.702775,
+                        4.027554
+                  ]
+            },
+            {
+                  "name": "Global Cargo",
+                  "text": "Acest punct de interes cu tematică logistică se află în zona activă din punct de vedere economic care înconjoară nodurile maritime și de transport din Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.710906,
+                        4.037617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castel Hall",
+                  "text": "This local venue serves as a versatile space for community events and gatherings near Douala's botanical gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        9.694505,
+                        4.032414
+                  ]
+            },
+            {
+                  "name": "Annie Kadji Art Gallery",
+                  "text": "This visual arts gallery showcases expressive local artworks and provides an exhibition space for Cameroonian talent.",
+                  "category": "museum",
+                  "coords": [
+                        9.702775,
+                        4.027554
+                  ]
+            },
+            {
+                  "name": "Global Cargo",
+                  "text": "This logistics-themed point of interest sits in the economically active zone surrounding Douala's maritime and transport hubs.",
+                  "category": "landmark",
+                  "coords": [
+                        9.710906,
+                        4.037617
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CM-LT",
     coords: [9.700, 4.033],
@@ -932,7 +2624,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "yaounde-zoo-garten-life-v2",
+    id: "yaounde-zoo-garten-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Ethnographique et d'Histoire des Peuples de la Forêt d'Afrique Centrale",
+                  "text": "Dieses ethnografische Museum widmet sich der vielfältigen Geschichte, Kultur und den Traditionen der Waldvölker Zentralafrikas.",
+                  "category": "museum",
+                  "coords": [
+                        11.523613,
+                        3.871275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Ethnographique et d'Histoire des Peuples de la Forêt d'Afrique Centrale",
+                  "text": "Ez a néprajzi múzeum a közép-afrikai erdei népek sokszínű történetét, kultúráját és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.523613,
+                        3.871275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Ethnographique et d'Histoire des Peuples de la Forêt d'Afrique Centrale",
+                  "text": "Acest muzeu etnografic explorează istoria, culturile și tradițiile diverse ale popoarelor din pădurile Africii Centrale.",
+                  "category": "museum",
+                  "coords": [
+                        11.523613,
+                        3.871275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Ethnographique et d'Histoire des Peuples de la Forêt d'Afrique Centrale",
+                  "text": "This ethnographic museum explores the diverse history, cultures, and traditions of the forest peoples of Central Africa.",
+                  "category": "museum",
+                  "coords": [
+                        11.523613,
+                        3.871275
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CM-CE",
     coords: [11.520, 3.870],
@@ -968,7 +2705,88 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "buea-fruchtgarten-life-v2",
+    id: "buea-fruchtgarten-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Findo&Edna Land",
+                  "text": "Findo & Edna Land dient als ruhiger Aussichtspunkt auf einem Hügel und bietet weitreichende Ausblicke über die landwirtschaftlichen Parzellen und Obstgärten rund um Buea.",
+                  "category": "natural",
+                  "coords": [
+                        9.287501,
+                        4.136228
+                  ]
+            },
+            {
+                  "name": "Toefl and ielts",
+                  "text": "Diese Bildungseinrichtung in Buea bietet spezielle Sprachvorbereitung und kulturelles Training für Studenten, die internationale Prüfungen ablegen möchten.",
+                  "category": "cultural",
+                  "coords": [
+                        9.288578,
+                        4.155472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Findo&Edna Land",
+                  "text": "A Findo & Edna Land nyugodt hegytetői kilátóként szolgál, amely széleskörű kilátást nyújt a Buea körüli mezőgazdasági parcellákra és gyümölcsösökre.",
+                  "category": "natural",
+                  "coords": [
+                        9.287501,
+                        4.136228
+                  ]
+            },
+            {
+                  "name": "Toefl and ielts",
+                  "text": "Ez a bueai oktatási intézmény speciális nyelvi felkészítést és kulturális képzést nyújt a nemzetközi vizsgákra készülő diákok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        9.288578,
+                        4.155472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Findo&Edna Land",
+                  "text": "Findo & Edna Land servește ca un punct de belvedere liniștit pe un deal, oferind priveliști ample asupra parcelelor agricole și livezilor din jurul orașului Buea.",
+                  "category": "natural",
+                  "coords": [
+                        9.287501,
+                        4.136228
+                  ]
+            },
+            {
+                  "name": "Toefl and ielts",
+                  "text": "Această unitate educațională din Buea oferă pregătire lingvistică specializată și instruire culturală pentru studenții care doresc să susțină examene internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.288578,
+                        4.155472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Findo&Edna Land",
+                  "text": "Findo & Edna Land serves as a serene hilltop viewpoint offering sweeping vistas over the agricultural plots and orchards around Buea.",
+                  "category": "natural",
+                  "coords": [
+                        9.287501,
+                        4.136228
+                  ]
+            },
+            {
+                  "name": "Toefl and ielts",
+                  "text": "This educational facility in Buea provides specialized language preparation and cultural training for students aiming to take international exams.",
+                  "category": "cultural",
+                  "coords": [
+                        9.288578,
+                        4.155472
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-SW",
     coords: [9.250, 4.166],
@@ -1004,7 +2822,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "garoua-rindermarkt-life-v2",
+    id: "garoua-rindermarkt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel De Lopere",
+                  "text": "Dieser lebendige Veranstaltungsort ist der Ausrichtung von Kunstausstellungen und der Förderung der reichen regionalen Traditionen Nordkameruns gewidmet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.404012,
+                        9.311553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel De Lopere",
+                  "text": "Ez a nyüzsgő helyszín művészeti kiállításoknak ad otthont, és Észak-Kamerun gazdag regionális hagyományait népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        13.404012,
+                        9.311553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel De Lopere",
+                  "text": "Această locație plină de viață este dedicată găzduirii de expoziții artistice și promovării bogatelor tradiții regionale din nordul Camerunului.",
+                  "category": "cultural",
+                  "coords": [
+                        13.404012,
+                        9.311553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel De Lopere",
+                  "text": "This vibrant venue is dedicated to hosting artistic exhibitions and promoting the rich regional traditions of northern Cameroon.",
+                  "category": "cultural",
+                  "coords": [
+                        13.404012,
+                        9.311553
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CM-NO",
     coords: [13.400, 9.316],
@@ -1040,7 +2903,52 @@ export const poiExtraCameroonLifeV2: POI[] = [
     },
   },
   {
-    id: "maroua-kunsthandwerk-life-v2",
+    id: "maroua-kunsthandwerk-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Artisanal",
+                  "text": "Dieser Handwerksmarkt in Maroua präsentiert regionale Handarbeiten, darunter die bekannten traditionellen Lederwaren und Textilien der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        14.330225,
+                        10.603513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Artisanal",
+                  "text": "Ez a maroua-i kézműves piac a regionális kézműves alkotásokat mutatja be, beleértve a környék híres hagyományos bőráruit és textíliáit.",
+                  "category": "landmark",
+                  "coords": [
+                        14.330225,
+                        10.603513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Artisanal",
+                  "text": "Această piață de artizanat din Maroua prezintă lucrări manuale regionale, inclusiv renumitele articole din piele și textile tradiționale din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        14.330225,
+                        10.603513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Artisanal",
+                  "text": "This dedicated craft market in Maroua showcases regional handiwork, including the area's renowned traditional leather goods and textiles.",
+                  "category": "landmark",
+                  "coords": [
+                        14.330225,
+                        10.603513
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CM-EN",
     coords: [14.333, 10.600],

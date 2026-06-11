@@ -84018,6 +84018,15 @@ export const poiExtraEsV2: POI[] = [
                         -16.309217,
                         28.486524
                   ]
+            },
+            {
+                  "name": "Casa Mesa",
+                  "text": "Dieses im 18. Jahrhundert erbaute Herrenhaus befindet sich in San Cristóbal de La Laguna.",
+                  "category": "historical",
+                  "coords": [
+                        -16.315188,
+                        28.487646
+                  ]
             }
       ],
       "hu": [
@@ -84450,6 +84459,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.309217,
                         28.486524
+                  ]
+            },
+            {
+                  "name": "Casa Mesa",
+                  "text": "A 18. században épült udvarház San Cristóbal de La Laguna városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -16.315188,
+                        28.487646
                   ]
             }
       ],
@@ -84884,6 +84902,15 @@ export const poiExtraEsV2: POI[] = [
                         -16.309217,
                         28.486524
                   ]
+            },
+            {
+                  "name": "Casa Mesa",
+                  "text": "Construit în secolul al XVIII-lea, acest conac este situat în San Cristóbal de La Laguna.",
+                  "category": "historical",
+                  "coords": [
+                        -16.315188,
+                        28.487646
+                  ]
             }
       ],
       "en": [
@@ -85316,6 +85343,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.309217,
                         28.486524
+                  ]
+            },
+            {
+                  "name": "Casa Mesa",
+                  "text": "Constructed in the 18th century, this manor is located in San Cristóbal de La Laguna.",
+                  "category": "historical",
+                  "coords": [
+                        -16.315188,
+                        28.487646
                   ]
             }
       ]

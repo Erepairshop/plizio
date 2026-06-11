@@ -1348,7 +1348,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Burg Tzschocha",
-                  "text": "Eine berühmte mittelalterliche Verteidigungsburg in Niederschlesien.",
+                  "text": "Die 1241–1247 erbaute Burg Czocha ist eine gotische Höhenburg, Baudenkmal.",
                   "category": "castle",
                   "coords": [
                         15.303603,
@@ -1375,7 +1375,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac w Leśnej",
-                  "text": "Die Überreste eines historischen Palastes in Leśna.",
+                  "text": "1800 erbautes Schloss in Leśna, nahe der Burg Czocha.",
                   "category": "historical",
                   "coords": [
                         15.262715,
@@ -1431,7 +1431,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Czocha",
-                  "text": "Híres középkori védelmi vár Alsó-Sziléziában.",
+                  "text": "A Czocha-vár 1241–1247 között épült gótikus hegyi vár, műemlék.",
                   "category": "castle",
                   "coords": [
                         15.303603,
@@ -1458,7 +1458,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac w Leśnej",
-                  "text": "Egy történelmi palota maradványai Leśna városában.",
+                  "text": "1800-ban épült kastély Leśnában, a Czocha-vár közelében.",
                   "category": "historical",
                   "coords": [
                         15.262715,
@@ -1514,7 +1514,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Czocha",
-                  "text": "Un faimos castel defensiv medieval din Silezia Inferioară.",
+                  "text": "Castelul Czocha, construit între 1241 și 1247, castel gotic de înălțime, monument istoric.",
                   "category": "castle",
                   "coords": [
                         15.303603,
@@ -1541,7 +1541,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac w Leśnej",
-                  "text": "Resturile unui palat istoric situat în Leśna.",
+                  "text": "Palat construit în 1800 în Leśna, lângă Castelul Czocha.",
                   "category": "historical",
                   "coords": [
                         15.262715,
@@ -1597,7 +1597,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Czocha Castle",
-                  "text": "A famous medieval defensive castle in Lower Silesia.",
+                  "text": "Built 1241–1247, Czocha Castle is a Gothic hilltop castle and heritage monument.",
                   "category": "castle",
                   "coords": [
                         15.303603,
@@ -1624,7 +1624,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac w Leśnej",
-                  "text": "The remains of a historical palace in Leśna.",
+                  "text": "Palace built in 1800 in Leśna near Czocha Castle.",
                   "category": "historical",
                   "coords": [
                         15.262715,
@@ -2474,7 +2474,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Eine historische Kapelle, die dem heiligen Johannes dem Täufer geweiht ist.",
+                  "text": "1684–1688 erbaute Kapelle Johannes des Täufers bei der Burg Pieskowa Skała.",
                   "category": "religious",
                   "coords": [
                         19.759398,
@@ -2539,7 +2539,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Keresztelő Szent Jánosnak szentelt történelmi kápolna.",
+                  "text": "1684–1688 között épült Keresztelő Szent János-kápolna a Pieskowa Skała-vár mellett.",
                   "category": "religious",
                   "coords": [
                         19.759398,
@@ -2604,7 +2604,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "O capelă istorică dedicată Sfântului Ioan Botezătorul.",
+                  "text": "Capelă Sfântul Ioan Botezătorul construită între 1684 și 1688 lângă Castelul Pieskowa Skała.",
                   "category": "religious",
                   "coords": [
                         19.759398,
@@ -2669,7 +2669,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "A historic chapel dedicated to Saint John the Baptist.",
+                  "text": "Chapel of St. John the Baptist built 1684–1688 near Pieskowa Skała Castle.",
                   "category": "religious",
                   "coords": [
                         19.759398,

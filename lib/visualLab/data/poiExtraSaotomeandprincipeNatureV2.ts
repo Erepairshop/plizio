@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
   {
-    id: "pico-de-sao-tome-nature-v2",
+    id: "pico-de-sao-tome-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares ist ein malerischer Wasserfall an den üppig grünen Hängen des Pico de São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            },
+            {
+                  "name": "Cruce de Senderos",
+                  "text": "Diese Wegkreuzung leitet Wanderer, die das zerklüftete, tropische Gelände rund um den Pico de São Tomé erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545466,
+                        0.270376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "A Cascata Angolares egy festői vízesés, amely a Pico de São Tomé buja lejtőin található.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            },
+            {
+                  "name": "Cruce de Senderos",
+                  "text": "Ez az ösvénykereszteződés a Pico de São Tomé körüli zord, trópusi terepet felfedező túrázókat segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545466,
+                        0.270376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares este o cascadă pitorească situată pe pantele luxuriante ale Pico de São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            },
+            {
+                  "name": "Cruce de Senderos",
+                  "text": "Această intersecție de trasee ghidează drumeții care explorează terenul tropical accidentat din jurul Pico de São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545466,
+                        0.270376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares is a scenic waterfall attraction located on the lush slopes of Pico de São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            },
+            {
+                  "name": "Trail junction",
+                  "text": "This trail junction guides hikers exploring the rugged, tropical terrain around Pico de São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545466,
+                        0.270376
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ST-06",
     coords: [6.55, 0.27],
@@ -67,7 +148,88 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "pico-cao-grande-nature-v2",
+    id: "pico-cao-grande-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Cão Grande",
+                  "text": "Der Pico Cão Grande ist ein ikonischer, nadelförmiger Vulkanzapfen, der steil über den dichten südlichen Regenwäldern von São Tomé aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        6.566361,
+                        0.118189
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande ist ein weitläufiger Sandstrand an der Küste nahe dem ikonischen Pico Cão Grande.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570629,
+                        0.085242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Cão Grande",
+                  "text": "A Pico Cão Grande egy ikonikus, tű alakú vulkáni képződmény, amely élesen magasodik São Tomé sűrű déli esőerdei fölé.",
+                  "category": "natural",
+                  "coords": [
+                        6.566361,
+                        0.118189
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy tágas, hosszan elnyúló homokos strand a part mentén, az ikonikus Pico Cão Grande közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570629,
+                        0.085242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Cão Grande",
+                  "text": "Pico Cão Grande este un dop vulcanic emblematic, în formă de ac, care se înalță brusc deasupra pădurilor tropicale dese din sudul insulei São Tomé.",
+                  "category": "natural",
+                  "coords": [
+                        6.566361,
+                        0.118189
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande este o plajă vastă de nisip de-a lungul coastei, în apropierea emblematicului Pico Cão Grande.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570629,
+                        0.085242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Cão Grande",
+                  "text": "Pico Cão Grande is an iconic, needle-shaped volcanic plug soaring sharply above the dense southern rainforests of São Tomé.",
+                  "category": "natural",
+                  "coords": [
+                        6.566361,
+                        0.118189
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande is an expansive, sweeping sandy beach along the coast near the iconic Pico Cão Grande.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570629,
+                        0.085242
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ST-03",
     coords: [6.565, 0.117],
@@ -131,7 +293,124 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "ilheu-das-rolas-nature-v2",
+    id: "ilheu-das-rolas-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a Gago Coutinho e Sacadura Cabral - Linha do Equador",
+                  "text": "Ein Denkmal, das die genaue Äquatorlinie auf der Ilhéu das Rolas markiert.",
+                  "category": "historical",
+                  "coords": [
+                        6.522066,
+                        -0.000689
+                  ]
+            },
+            {
+                  "name": "Praia Bateria",
+                  "text": "Ein unberührter Sandstrand, versteckt auf der kleinen äquatorialen Insel Ilhéu das Rolas.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512989,
+                        -0.00711
+                  ]
+            },
+            {
+                  "name": "Praia Café",
+                  "text": "Ein abgelegener tropischer Strand mit klarem Wasser an der Küste der Ilhéu das Rolas.",
+                  "category": "recreational",
+                  "coords": [
+                        6.518956,
+                        5.6e-05
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a Gago Coutinho e Sacadura Cabral - Linha do Equador",
+                  "text": "Egy emlékmű, amely az Egyenlítő pontos vonalát jelöli az Ilhéu das Rolas szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        6.522066,
+                        -0.000689
+                  ]
+            },
+            {
+                  "name": "Praia Bateria",
+                  "text": "Egy érintetlen homokos strand a kis egyenlítői Ilhéu das Rolas szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512989,
+                        -0.00711
+                  ]
+            },
+            {
+                  "name": "Praia Café",
+                  "text": "Félreeső trópusi strand, amely tiszta vizet kínál az Ilhéu das Rolas partján.",
+                  "category": "recreational",
+                  "coords": [
+                        6.518956,
+                        5.6e-05
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a Gago Coutinho e Sacadura Cabral - Linha do Equador",
+                  "text": "Un monument care marchează linia exactă a Ecuatorului pe Ilhéu das Rolas.",
+                  "category": "historical",
+                  "coords": [
+                        6.522066,
+                        -0.000689
+                  ]
+            },
+            {
+                  "name": "Praia Bateria",
+                  "text": "O plajă de nisip virgină, ascunsă pe mica insulă ecuatorială Ilhéu das Rolas.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512989,
+                        -0.00711
+                  ]
+            },
+            {
+                  "name": "Praia Café",
+                  "text": "O plajă tropicală retrasă, care oferă ape limpezi pe coasta Ilhéu das Rolas.",
+                  "category": "recreational",
+                  "coords": [
+                        6.518956,
+                        5.6e-05
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a Gago Coutinho e Sacadura Cabral - Linha do Equador",
+                  "text": "A monument marking the exact line of the Equator on Ilhéu das Rolas.",
+                  "category": "historical",
+                  "coords": [
+                        6.522066,
+                        -0.000689
+                  ]
+            },
+            {
+                  "name": "Praia Bateria",
+                  "text": "A pristine sandy beach tucked away on the small equatorial island of Ilhéu das Rolas.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512989,
+                        -0.00711
+                  ]
+            },
+            {
+                  "name": "Praia Café",
+                  "text": "A secluded tropical beach offering clear waters on the coast of Ilhéu das Rolas.",
+                  "category": "recreational",
+                  "coords": [
+                        6.518956,
+                        5.6e-05
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ST-03",
     coords: [6.52, 0.0],
@@ -259,7 +538,52 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "lagoa-azul-nature-v2",
+    id: "lagoa-azul-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Farol da Lagoa Azul ist ein Küstenleuchtturm, der Schiffe in der Nähe des tiefblauen Wassers der Lagoa Azul führt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "A Farol da Lagoa Azul egy part menti világítótorony, amely a hajókat vezeti a Lagoa Azul vibráló kék vizeinél.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Farol da Lagoa Azul este un far de coastă care ghidează navele în apropierea apelor albastre vibrante ale Lagoa Azul.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Farol da Lagoa Azul is a coastal lighthouse guiding ships near the vibrant blue waters of Lagoa Azul.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "ST-05",
     coords: [6.61, 0.41],
@@ -451,7 +775,124 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "ilheu-santana-nature-v2",
+    id: "ilheu-santana-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilhéu de Santana",
+                  "text": "Ilhéu de Santana ist eine markante vulkanische Felseninsel direkt vor der Ostküste von São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.75937,
+                        0.241381
+                  ]
+            },
+            {
+                  "name": "Santana Club",
+                  "text": "Der Santana Club ist ein tropisches Resorthotel nahe der malerischen Küste der Ilhéu de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        6.747676,
+                        0.243939
+                  ]
+            },
+            {
+                  "name": "Praia Santana",
+                  "text": "Praia Santana ist ein sandiger Küstenabschnitt, der für seine malerische Aussicht nahe der Santana-Insel bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        6.745786,
+                        0.245512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilhéu de Santana",
+                  "text": "Az Ilhéu de Santana egy lenyűgöző vulkáni szigetecske São Tomé keleti partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        6.75937,
+                        0.241381
+                  ]
+            },
+            {
+                  "name": "Santana Club",
+                  "text": "A Santana Club egy trópusi üdülőszálloda, amely az Ilhéu de Santana festői partjai közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.747676,
+                        0.243939
+                  ]
+            },
+            {
+                  "name": "Praia Santana",
+                  "text": "A Praia Santana egy homokos partszakasz, amely a Santana-szigetecske közelében található festői kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        6.745786,
+                        0.245512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilhéu de Santana",
+                  "text": "Ilhéu de Santana este o insuliță vulcanică impresionantă, situată chiar în largul coastei estice a insulei São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.75937,
+                        0.241381
+                  ]
+            },
+            {
+                  "name": "Santana Club",
+                  "text": "Santana Club este un hotel tip resort tropical situat în apropierea țărmurilor pitorești ale Ilhéu de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        6.747676,
+                        0.243939
+                  ]
+            },
+            {
+                  "name": "Praia Santana",
+                  "text": "Praia Santana este o fâșie de coastă nisipoasă, cunoscută pentru vederile sale pitorești din apropierea insuliței Santana.",
+                  "category": "recreational",
+                  "coords": [
+                        6.745786,
+                        0.245512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilhéu de Santana",
+                  "text": "Ilhéu de Santana is a striking volcanic islet located just off the eastern coast of São Tomé.",
+                  "category": "landmark",
+                  "coords": [
+                        6.75937,
+                        0.241381
+                  ]
+            },
+            {
+                  "name": "Santana Club",
+                  "text": "Santana Club is a tropical resort hotel situated near the scenic shores of Ilhéu de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        6.747676,
+                        0.243939
+                  ]
+            },
+            {
+                  "name": "Praia Santana",
+                  "text": "Praia Santana is a sandy coastal stretch known for its scenic views near the Santana islet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.745786,
+                        0.245512
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ST-02",
     coords: [6.75, 0.24],
@@ -515,7 +956,124 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "pico-do-principe-nature-v2",
+    id: "pico-do-principe-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico do Príncipe",
+                  "text": "Der Pico do Príncipe ist der höchste Vulkanberg auf der Insel Príncipe und dominiert das dicht bewaldete Inselinnere.",
+                  "category": "natural",
+                  "coords": [
+                        7.382027,
+                        1.579382
+                  ]
+            },
+            {
+                  "name": "Cariotte",
+                  "text": "Cariotte ist ein steiler, waldbedeckter Gipfel, der zur dramatischen vulkanischen Skyline der Insel Príncipe beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        7.369144,
+                        1.581053
+                  ]
+            },
+            {
+                  "name": "Praia Seca",
+                  "text": "Praia Seca ist ein abgelegener Küstenabschnitt an den Ufern von Príncipe, der unberührte Ausblicke auf das Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.399694,
+                        1.546244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico do Príncipe",
+                  "text": "A Pico do Príncipe Príncipe szigetének legmagasabb vulkáni hegye, amely uralja a sziget zord, erdős belső területeit.",
+                  "category": "natural",
+                  "coords": [
+                        7.382027,
+                        1.579382
+                  ]
+            },
+            {
+                  "name": "Cariotte",
+                  "text": "A Cariotte egy meredek, erdővel borított csúcs, amely hozzájárul Príncipe szigetének drámai vulkáni sziluettjéhez.",
+                  "category": "natural",
+                  "coords": [
+                        7.369144,
+                        1.581053
+                  ]
+            },
+            {
+                  "name": "Praia Seca",
+                  "text": "A Praia Seca egy távoli part menti szakasz Príncipe partjainál, amely érintetlen óceáni kilátást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.399694,
+                        1.546244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico do Príncipe",
+                  "text": "Pico do Príncipe este cel mai înalt munte vulcanic de pe insula Príncipe, dominând interiorul accidentat și împădurit al insulei.",
+                  "category": "natural",
+                  "coords": [
+                        7.382027,
+                        1.579382
+                  ]
+            },
+            {
+                  "name": "Cariotte",
+                  "text": "Cariotte este un vârf abrupt, acoperit de păduri, care contribuie la orizontul vulcanic dramatic al insulei Príncipe.",
+                  "category": "natural",
+                  "coords": [
+                        7.369144,
+                        1.581053
+                  ]
+            },
+            {
+                  "name": "Praia Seca",
+                  "text": "Praia Seca este o porțiune de coastă îndepărtată de-a lungul țărmurilor Príncipe, oferind vederi imaculate la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        7.399694,
+                        1.546244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico do Príncipe",
+                  "text": "Pico do Príncipe is the highest volcanic mountain on Príncipe island, dominating the island's rugged, forested interior.",
+                  "category": "natural",
+                  "coords": [
+                        7.382027,
+                        1.579382
+                  ]
+            },
+            {
+                  "name": "Cariotte",
+                  "text": "Cariotte is a steep, forest-covered peak contributing to the dramatic volcanic skyline of Príncipe island.",
+                  "category": "natural",
+                  "coords": [
+                        7.369144,
+                        1.581053
+                  ]
+            },
+            {
+                  "name": "Praia Seca",
+                  "text": "Praia Seca is a remote coastal stretch along the shores of Príncipe, offering pristine ocean views.",
+                  "category": "recreational",
+                  "coords": [
+                        7.399694,
+                        1.546244
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ST-P",
     coords: [7.38, 1.58],
@@ -771,7 +1329,160 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "ilheu-bom-bom-nature-v2",
+    id: "ilheu-bom-bom-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi ist ein idyllischer natürlicher Sandstrand, der von üppiger Dschungelvegetation in der Nähe des Ilhéu Bom Bom gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        7.4596,
+                        1.68065
+                  ]
+            },
+            {
+                  "name": "Praia Campanha",
+                  "text": "Praia Campanha bietet einen malerischen weißen Sandstrand an der Küste, der von den grünen Wäldern im Norden von Príncipe geschützt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        7.412148,
+                        1.688586
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Die Praia de Santa Rita ist ein sandiger Küstenstrand in der Nähe von Ilhéu Bom Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405398,
+                        1.691136
+                  ]
+            },
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Die Praia Santa Rita bietet als malerischer Küstenstrand nahe Ilhéu Bom Bom eine sandige Uferlinie am Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400649,
+                        1.691338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Boi",
+                  "text": "A Praia Boi egy idilli természetes homokos strand, amelyet buja dzsungel növényzet szegélyez az Ilhéu Bom Bom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.4596,
+                        1.68065
+                  ]
+            },
+            {
+                  "name": "Praia Campanha",
+                  "text": "A Praia Campanha egy festői fehér homokos partszakaszt kínál, amelyet Észak-Príncipe zöldellő erdei védelmeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        7.412148,
+                        1.688586
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "A Praia de Santa Rita egy homokos tengerparti strand az Ilhéu Bom Bom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405398,
+                        1.691136
+                  ]
+            },
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "A Praia Santa Rita egy festői tengerparti partszakaszt kínáló homokos strand az Ilhéu Bom Bom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400649,
+                        1.691338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi este o plajă cu nisip naturală idilică, mărginită de vegetație luxuriantă de junglă lângă Ilhéu Bom Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        7.4596,
+                        1.68065
+                  ]
+            },
+            {
+                  "name": "Praia Campanha",
+                  "text": "Praia Campanha oferă o fâșie pitorească de coastă cu nisip alb, adăpostită de pădurile înverzite din nordul insulei Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.412148,
+                        1.688586
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita este o plajă de coastă cu nisip lângă Ilhéu Bom Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405398,
+                        1.691136
+                  ]
+            },
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita este o plajă de coastă pitorească cu nisip situată în apropiere de Ilhéu Bom Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400649,
+                        1.691338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi is an idyllic natural sandy beach fringed by lush jungle vegetation near the Ilhéu Bom Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        7.4596,
+                        1.68065
+                  ]
+            },
+            {
+                  "name": "Praia Campanha",
+                  "text": "Praia Campanha offers a picturesque coastal stretch of white sand sheltered by the verdant forests of northern Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.412148,
+                        1.688586
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita is a sandy coastal beach near Ilhéu Bom Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405398,
+                        1.691136
+                  ]
+            },
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita is a scenic coastal sand beach situated near Ilhéu Bom Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400649,
+                        1.691338
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ST-P",
     coords: [7.42, 1.68],
@@ -835,7 +1546,52 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "pico-papagaio-nature-v2",
+    id: "pico-papagaio-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Papagaio",
+                  "text": "Der Pico Papagaio ist ein markanter, papageienförmiger Vulkanberg, der sich über die üppigen Regenwälder von Príncipe erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        7.39179,
+                        1.610439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Papagaio",
+                  "text": "A Pico Papagaio egy jellegzetes, papagáj alakú vulkáni hegy, amely Príncipe buja esőerdei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        7.39179,
+                        1.610439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Papagaio",
+                  "text": "Pico Papagaio este un munte vulcanic distinctiv, în formă de papagal, care se ridică deasupra pădurilor tropicale luxuriante din Príncipe.",
+                  "category": "natural",
+                  "coords": [
+                        7.39179,
+                        1.610439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Papagaio",
+                  "text": "Pico Papagaio is a distinctive, parrot-shaped volcanic mountain rising above the lush rainforests of Príncipe.",
+                  "category": "natural",
+                  "coords": [
+                        7.39179,
+                        1.610439
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ST-P",
     coords: [7.38, 1.61],
@@ -1219,7 +1975,88 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "rio-caue-nature-v2",
+    id: "rio-caue-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paseo en Bote por los Manglares",
+                  "text": "Die Mangroven-Bootstour führt Besucher durch die dichten Wurzeln und ruhigen Gewässer des Rio Caué-Ästuars.",
+                  "category": "landmark",
+                  "coords": [
+                        6.532227,
+                        0.044795
+                  ]
+            },
+            {
+                  "name": "Praia Micondó",
+                  "text": "Praia Micondó ist eine malerische, sandige Küste, die von tropischen Palmen in der Nähe des Rio Caué gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        6.536493,
+                        0.046935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paseo en Bote por los Manglares",
+                  "text": "A mangrove hajótúra a Rio Caué torkolatának sűrű, kusza gyökerei és nyugodt vizei között viszi a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        6.532227,
+                        0.044795
+                  ]
+            },
+            {
+                  "name": "Praia Micondó",
+                  "text": "A Praia Micondó egy festői, homokos partvidék, amelyet trópusi pálmafák szegélyeznek a Rio Caué közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.536493,
+                        0.046935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paseo en Bote por los Manglares",
+                  "text": "Turul cu barca prin mangrove îi poartă pe vizitatori printre rădăcinile dese și apele calme ale estuarului Rio Caué.",
+                  "category": "landmark",
+                  "coords": [
+                        6.532227,
+                        0.044795
+                  ]
+            },
+            {
+                  "name": "Praia Micondó",
+                  "text": "Praia Micondó este o zonă de coastă nisipoasă pitorească, mărginită de palmieri tropicali lângă Rio Caué.",
+                  "category": "recreational",
+                  "coords": [
+                        6.536493,
+                        0.046935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mangrove Boat Tour",
+                  "text": "The Mangrove Boat Tour takes visitors through the dense, tangled roots and calm waters of the Rio Caué estuary.",
+                  "category": "landmark",
+                  "coords": [
+                        6.532227,
+                        0.044795
+                  ]
+            },
+            {
+                  "name": "Praia Micondó",
+                  "text": "Praia Micondó is a picturesque sandy shoreline fringed by tropical palm trees near the Rio Caué.",
+                  "category": "recreational",
+                  "coords": [
+                        6.536493,
+                        0.046935
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ST-03",
     coords: [6.54, 0.05],
@@ -1283,7 +2120,124 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "praia-jale-nature-v2",
+    id: "praia-jale-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Va Inha",
+                  "text": "Die Praia Va Inha ist ein abgelegener Küstenstrand mit feinem Sand in der natürlichen Umgebung von Praia Jalé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.514349,
+                        0.053598
+                  ]
+            },
+            {
+                  "name": "Praia Jalé",
+                  "text": "Die Praia Jalé ist ein bekannter afrikanischer Sandstrand, der oft von nistenden Meeresschildkröten aufgesucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        6.511242,
+                        0.042889
+                  ]
+            },
+            {
+                  "name": "Praia Piscina",
+                  "text": "Die Praia Piscina in der Nähe von Praia Jalé ist ein Sandstrand, der für seine natürlichen vulkanischen Felsenpools bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512226,
+                        0.02792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Va Inha",
+                  "text": "A Praia Va Inha egy finom homokos, félreeső tengerparti strand Praia Jalé természeti környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.514349,
+                        0.053598
+                  ]
+            },
+            {
+                  "name": "Praia Jalé",
+                  "text": "A Praia Jalé egy ismert afrikai homokos strand, amelyet gyakran látogatnak fészkelő tengeri teknősök.",
+                  "category": "recreational",
+                  "coords": [
+                        6.511242,
+                        0.042889
+                  ]
+            },
+            {
+                  "name": "Praia Piscina",
+                  "text": "A Praia Jalé közelében található Praia Piscina egy homokos strand, amely természetes vulkáni sziklamedencéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512226,
+                        0.02792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Va Inha",
+                  "text": "Praia Va Inha este o plajă de coastă retrasă, cu nisip fin, în mediul natural din Praia Jalé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.514349,
+                        0.053598
+                  ]
+            },
+            {
+                  "name": "Praia Jalé",
+                  "text": "Praia Jalé este o plajă africană cu nisip binecunoscută, adesea vizitată de broaște țestoase marine care cuibăresc.",
+                  "category": "recreational",
+                  "coords": [
+                        6.511242,
+                        0.042889
+                  ]
+            },
+            {
+                  "name": "Praia Piscina",
+                  "text": "Praia Piscina, lângă Praia Jalé, este o plajă de nisip remarcată pentru bazinele sale naturale din rocă vulcanică.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512226,
+                        0.02792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Va Inha",
+                  "text": "Praia Va Inha is a secluded coastal beach with fine sand in the natural environment of Praia Jalé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.514349,
+                        0.053598
+                  ]
+            },
+            {
+                  "name": "Praia Jalé",
+                  "text": "Praia Jalé is a well-known African sandy beach often visited by nesting sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        6.511242,
+                        0.042889
+                  ]
+            },
+            {
+                  "name": "Praia Piscina",
+                  "text": "Praia Piscina near Praia Jalé is a sandy beach noted for its natural volcanic rock tide pools.",
+                  "category": "recreational",
+                  "coords": [
+                        6.512226,
+                        0.02792
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "ST-03",
     coords: [6.52, 0.04],
@@ -1411,7 +2365,52 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     },
   },
   {
-    id: "cascata-sao-nicolau-nature-v2",
+    id: "cascata-sao-nicolau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascata de Bombaim",
+                  "text": "Cascata de Bombaim ist ein malerischer tropischer Wasserfall, der in den dichten Wäldern im Inneren der Insel verborgen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.630062,
+                        0.254991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascata de Bombaim",
+                  "text": "A Cascata de Bombaim egy festői trópusi vízesés, amely a sziget belsejének sűrű erdeiben bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        6.630062,
+                        0.254991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascata de Bombaim",
+                  "text": "Cascata de Bombaim este o cascadă tropicală pitorească ascunsă în pădurile dense din interiorul insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        6.630062,
+                        0.254991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascata de Bombaim",
+                  "text": "Cascata de Bombaim is a scenic tropical waterfall hidden within the dense forests of the island's interior.",
+                  "category": "landmark",
+                  "coords": [
+                        6.630062,
+                        0.254991
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ST-06",
     coords: [6.64, 0.28],

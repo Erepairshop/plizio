@@ -61,7 +61,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "USS Midway Museum",
-                  "text": "Das USS Midway Museum ist ein Museum auf dem Flugzeugträger USS Midway in San Diego.",
+                  "text": "Museum auf einem Flugzeugträger in der San Diego Bay, in Dienst gestellt 1945.",
                   "category": "museum",
                   "coords": [
                         -117.175114,
@@ -315,7 +315,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "USS Midway Museum",
-                  "text": "Az USS Midway Museum egy múzeum a USS Midway repülőgép-hordozón San Diegóban.",
+                  "text": "Múzeum egy repülőgép-hordozón a San Diego-öbölben, 1945-ben állt szolgálatba.",
                   "category": "museum",
                   "coords": [
                         -117.175114,
@@ -569,7 +569,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "USS Midway Museum",
-                  "text": "USS Midway Museum este un muzeu pe portavionul USS Midway din San Diego.",
+                  "text": "Muzeu pe un portavion în golful San Diego, pus în serviciu în 1945.",
                   "category": "museum",
                   "coords": [
                         -117.175114,
@@ -823,7 +823,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "USS Midway Museum",
-                  "text": "The USS Midway Museum is a museum on the aircraft carrier USS Midway in San Diego.",
+                  "text": "Aircraft carrier museum in San Diego Bay, commissioned in 1945.",
                   "category": "museum",
                   "coords": [
                         -117.175114,
@@ -2716,7 +2716,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vivian Beaumont Theater",
-                  "text": "Das Vivian Beaumont Theater ist ein Broadway-Theater in central-park-zoo-life-v2.",
+                  "text": "Broadway-Theater im Lincoln Center in New York, eröffnet 1965.",
                   "category": "cultural",
                   "coords": [
                         -73.984801,
@@ -2743,7 +2743,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brick Presbyterian Church",
-                  "text": "Die Brick Presbyterian Church ist eine presbyterianische Kirche in central-park-zoo-life-v2.",
+                  "text": "Presbyterianische Kirche an der Park Avenue in Manhattan, erbaut 1940.",
                   "category": "religious",
                   "coords": [
                         -73.955173,
@@ -2752,7 +2752,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of Saint Thomas More",
-                  "text": "Die Church of Saint Thomas More ist eine katholische Kirche in central-park-zoo-life-v2.",
+                  "text": "Katholische Kirche an der Park Avenue in Manhattan, erbaut 1870.",
                   "category": "religious",
                   "coords": [
                         -73.956728,
@@ -2761,7 +2761,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Park Avenue Synagogue",
-                  "text": "Die Park Avenue Synagogue ist eine jüdische Synagoge in central-park-zoo-life-v2.",
+                  "text": "Jüdische Synagoge an der Park Avenue in Manhattan, erbaut 1927.",
                   "category": "religious",
                   "coords": [
                         -73.957942,
@@ -2770,7 +2770,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Our Lady of Good Counsel Catholic Church",
-                  "text": "Die Our Lady of Good Counsel Catholic Church ist eine katholische Kirche in central-park-zoo-life-v2.",
+                  "text": "Katholische Kirche an der 90. Straße in Manhattan, erbaut 1892.",
                   "category": "religious",
                   "coords": [
                         -73.950963,
@@ -2779,7 +2779,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Trinity",
-                  "text": "Die Church of the Holy Trinity ist eine episkopale Kirche in central-park-zoo-life-v2.",
+                  "text": "Episkopalkirche an der 88. Straße in Manhattan, erbaut 1899.",
                   "category": "religious",
                   "coords": [
                         -73.949552,
@@ -2788,7 +2788,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Saint Mark's Church",
-                  "text": "Die Zion Saint Mark's Church ist eine evangelisch-lutherische Kirche in central-park-zoo-life-v2.",
+                  "text": "Lutherische Kirche an der 85. Straße in Manhattan, erbaut 1888.",
                   "category": "religious",
                   "coords": [
                         -73.951044,
@@ -2797,7 +2797,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Holy Trinity",
-                  "text": "Die Cathedral of the Holy Trinity ist eine griechisch-orthodoxe Kathedrale in central-park-zoo-life-v2.",
+                  "text": "Griechisch-orthodoxe Kathedrale an der 74. Straße in Manhattan, erbaut 1932.",
                   "category": "religious",
                   "coords": [
                         -73.956122,
@@ -3042,7 +3042,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vivian Beaumont Theater",
-                  "text": "A Vivian Beaumont Színház egy Broadway színház a central-park-zoo-life-v2-ben.",
+                  "text": "Broadway színház a Lincoln Centerben, New Yorkban, 1965-ben nyílt meg.",
                   "category": "cultural",
                   "coords": [
                         -73.984801,
@@ -3069,7 +3069,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brick Presbyterian Church",
-                  "text": "A Brick Presbyterian Church egy presbiteriánus templom a central-park-zoo-life-v2-ben.",
+                  "text": "Presbiteriánus templom a manhattani Park Avenue-n, 1940-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.955173,
@@ -3078,7 +3078,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of Saint Thomas More",
-                  "text": "A Church of Saint Thomas More egy katolikus templom a central-park-zoo-life-v2-ben.",
+                  "text": "Katolikus templom a manhattani Park Avenue-n, 1870-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.956728,
@@ -3087,7 +3087,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Park Avenue Synagogue",
-                  "text": "A Park Avenue Synagogue egy zsinagóga a central-park-zoo-life-v2-ben.",
+                  "text": "Zsidó zsinagóga a manhattani Park Avenue-n, 1927-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.957942,
@@ -3096,7 +3096,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Our Lady of Good Counsel Catholic Church",
-                  "text": "A Our Lady of Good Counsel Catholic Church egy katolikus templom a central-park-zoo-life-v2-ben.",
+                  "text": "Katolikus templom a manhattani 90. utcában, 1892-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.950963,
@@ -3105,7 +3105,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Trinity",
-                  "text": "A Church of the Holy Trinity egy episzkopális templom a central-park-zoo-life-v2-ben.",
+                  "text": "Episzkopális templom a manhattani 88. utcában, 1899-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.949552,
@@ -3114,7 +3114,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Saint Mark's Church",
-                  "text": "A Zion Saint Mark's Church egy evangélikus lutheránus templom a central-park-zoo-life-v2-ben.",
+                  "text": "Lutheránus templom a manhattani 85. utcában, 1888-ban épült.",
                   "category": "religious",
                   "coords": [
                         -73.951044,
@@ -3123,7 +3123,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Holy Trinity",
-                  "text": "A Cathedral of the Holy Trinity egy görög ortodox katedrális a central-park-zoo-life-v2-ben.",
+                  "text": "Görög ortodox székesegyház a manhattani 74. utcában, 1932-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.956122,
@@ -3368,7 +3368,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vivian Beaumont Theater",
-                  "text": "Teatrul Vivian Beaumont este un teatru Broadway în central-park-zoo-life-v2.",
+                  "text": "Teatru Broadway în Lincoln Center, New York, deschis în 1965.",
                   "category": "cultural",
                   "coords": [
                         -73.984801,
@@ -3395,7 +3395,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brick Presbyterian Church",
-                  "text": "Biserica Brick Presbyterian este o biserică prezbiteriană în central-park-zoo-life-v2.",
+                  "text": "Biserică prezbiteriană pe Park Avenue în Manhattan, construită în 1940.",
                   "category": "religious",
                   "coords": [
                         -73.955173,
@@ -3404,7 +3404,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of Saint Thomas More",
-                  "text": "Biserica Sfântul Toma Morus este o biserică catolică în central-park-zoo-life-v2.",
+                  "text": "Biserică catolică pe Park Avenue în Manhattan, construită în 1870.",
                   "category": "religious",
                   "coords": [
                         -73.956728,
@@ -3413,7 +3413,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Park Avenue Synagogue",
-                  "text": "Sinagoga Park Avenue este o sinagogă evreiască în central-park-zoo-life-v2.",
+                  "text": "Sinagogă evreiască pe Park Avenue în Manhattan, construită în 1927.",
                   "category": "religious",
                   "coords": [
                         -73.957942,
@@ -3422,7 +3422,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Our Lady of Good Counsel Catholic Church",
-                  "text": "Biserica Catolică Our Lady of Good Counsel este o biserică catolică în central-park-zoo-life-v2.",
+                  "text": "Biserică catolică pe strada 90 din Manhattan, construită în 1892.",
                   "category": "religious",
                   "coords": [
                         -73.950963,
@@ -3431,7 +3431,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Trinity",
-                  "text": "Biserica Sfintei Treimi este o biserică episcopală în central-park-zoo-life-v2.",
+                  "text": "Biserică episcopală pe strada 88 din Manhattan, construită în 1899.",
                   "category": "religious",
                   "coords": [
                         -73.949552,
@@ -3440,7 +3440,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Saint Mark's Church",
-                  "text": "Biserica Zion Saint Mark's este o biserică evanghelică luterană în central-park-zoo-life-v2.",
+                  "text": "Biserică luterană pe strada 85 din Manhattan, construită în 1888.",
                   "category": "religious",
                   "coords": [
                         -73.951044,
@@ -3449,7 +3449,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Holy Trinity",
-                  "text": "Catedrala Sfintei Treimi este o catedrală greco-ortodoxă în central-park-zoo-life-v2.",
+                  "text": "Catedrală greco-ortodoxă pe strada 74 din Manhattan, construită în 1932.",
                   "category": "religious",
                   "coords": [
                         -73.956122,
@@ -3694,7 +3694,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vivian Beaumont Theater",
-                  "text": "The Vivian Beaumont Theater is a Broadway theatre in central-park-zoo-life-v2.",
+                  "text": "Broadway theater in Lincoln Center, New York, opened in 1965.",
                   "category": "cultural",
                   "coords": [
                         -73.984801,
@@ -3721,7 +3721,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brick Presbyterian Church",
-                  "text": "Brick Presbyterian Church is a Presbyterian church in central-park-zoo-life-v2.",
+                  "text": "Presbyterian church on Park Avenue in Manhattan, built in 1940.",
                   "category": "religious",
                   "coords": [
                         -73.955173,
@@ -3730,7 +3730,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of Saint Thomas More",
-                  "text": "Church of Saint Thomas More is a Catholic church in central-park-zoo-life-v2.",
+                  "text": "Catholic church on Park Avenue in Manhattan, built in 1870.",
                   "category": "religious",
                   "coords": [
                         -73.956728,
@@ -3739,7 +3739,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Park Avenue Synagogue",
-                  "text": "Park Avenue Synagogue is a Jewish synagogue in central-park-zoo-life-v2.",
+                  "text": "Jewish synagogue on Park Avenue in Manhattan, built in 1927.",
                   "category": "religious",
                   "coords": [
                         -73.957942,
@@ -3748,7 +3748,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Our Lady of Good Counsel Catholic Church",
-                  "text": "Our Lady of Good Counsel Catholic Church is a Catholic church in central-park-zoo-life-v2.",
+                  "text": "Catholic church on 90th Street in Manhattan, built in 1892.",
                   "category": "religious",
                   "coords": [
                         -73.950963,
@@ -3757,7 +3757,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Trinity",
-                  "text": "Church of the Holy Trinity is an Episcopal church in central-park-zoo-life-v2.",
+                  "text": "Episcopal church on 88th Street in Manhattan, built in 1899.",
                   "category": "religious",
                   "coords": [
                         -73.949552,
@@ -3766,7 +3766,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Saint Mark's Church",
-                  "text": "Zion Saint Mark's Church is an Evangelical Lutheran church in central-park-zoo-life-v2.",
+                  "text": "Lutheran church on 85th Street in Manhattan, built in 1888.",
                   "category": "religious",
                   "coords": [
                         -73.951044,
@@ -3775,7 +3775,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Holy Trinity",
-                  "text": "Cathedral of the Holy Trinity is a Greek Orthodox cathedral in central-park-zoo-life-v2.",
+                  "text": "Greek Orthodox cathedral on 74th Street in Manhattan, built in 1932.",
                   "category": "religious",
                   "coords": [
                         -73.956122,
@@ -5290,7 +5290,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marblehead Lighthouse",
-                  "text": "Das Marblehead Lighthouse ist der älteste durchgehend betriebene Leuchtturm an den Großen Seen.",
+                  "text": "Ältester noch in Betrieb befindlicher Leuchtturm der Großen Seen, erbaut 1821 am Eriesee.",
                   "category": "landmark",
                   "coords": [
                         -82.7118,
@@ -5526,7 +5526,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marblehead Lighthouse",
-                  "text": "A Marblehead Lighthouse a legrégebbi folyamatosan működő világítótorony a Nagy-tavakon.",
+                  "text": "A Nagy-tavak legrégebbi folyamatosan működő világítótornya, 1821-ben épült az Erie-tónál.",
                   "category": "landmark",
                   "coords": [
                         -82.7118,
@@ -5762,7 +5762,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marblehead Lighthouse",
-                  "text": "Marblehead Lighthouse este cel mai vechi far în funcțiune continuă pe Marile Lacuri.",
+                  "text": "Cel mai vechi far funcțional de pe Marile Lacuri, construit în 1821 pe Lacul Erie.",
                   "category": "landmark",
                   "coords": [
                         -82.7118,
@@ -5998,7 +5998,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marblehead Lighthouse",
-                  "text": "Marblehead Lighthouse is the oldest continuously operating lighthouse on the Great Lakes.",
+                  "text": "Oldest continuously operating lighthouse on the Great Lakes, built 1821 on Lake Erie.",
                   "category": "landmark",
                   "coords": [
                         -82.7118,
@@ -6316,7 +6316,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riverdale Monument",
-                  "text": "Das Riverdale Monument ist ein Kriegsdenkmal in bronx-zoo-life-v2.",
+                  "text": "Obelisk zum Gedenken an die Gefallenen des Ersten Weltkriegs in Riverdale, New York.",
                   "category": "historical",
                   "coords": [
                         -73.908324,
@@ -6352,7 +6352,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Genoa's Church",
-                  "text": "Die St. Catherine of Genoa's Church ist eine römisch-katholische Kirche in bronx-zoo-life-v2.",
+                  "text": "Katholische Kirche im Finanzviertel von Manhattan, erbaut 1890.",
                   "category": "religious",
                   "coords": [
                         -73.944621,
@@ -6361,7 +6361,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Intercession",
-                  "text": "Die Church of the Intercession ist eine episkopalkirche in bronx-zoo-life-v2.",
+                  "text": "Episkopalkirche in Manhattans Washington Heights, erbaut 1915.",
                   "category": "religious",
                   "coords": [
                         -73.945284,
@@ -6451,7 +6451,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "High Bridge",
-                  "text": "Die High Bridge ist eine Brücke in bronx-zoo-life-v2, ursprünglich ein Aquädukt.",
+                  "text": "Historische Steinbogenbrücke über den Harlem River in New York City.",
                   "category": "landmark",
                   "coords": [
                         -73.929542,
@@ -6505,7 +6505,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Hill",
-                  "text": "Wave Hill ist ein historisches Anwesen und Garten in bronx-zoo-life-v2.",
+                  "text": "Historisches Anwesen und öffentlicher Garten mit Blick auf den Hudson River in der Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.912435,
@@ -6559,7 +6559,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stepping Stones Lighthouse",
-                  "text": "Der Stepping Stones Lighthouse ist ein Leuchtturm in bronx-zoo-life-v2.",
+                  "text": "Von der US Lighthouse Board erbauter Leuchtturm, der ein gefährliches Riff im Long Island Sound markiert.",
                   "category": "landmark",
                   "coords": [
                         -73.774785,
@@ -6651,7 +6651,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riverdale Monument",
-                  "text": "A Riverdale Monument egy háborús emlékmű bronx-zoo-life-v2-ben.",
+                  "text": "Az első világháború hőseinek emlékműve obeliszk formájában a New York-i Riverdale-ben.",
                   "category": "historical",
                   "coords": [
                         -73.908324,
@@ -6687,7 +6687,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Genoa's Church",
-                  "text": "A St. Catherine of Genoa's Church egy római katolikus templom bronx-zoo-life-v2-ben.",
+                  "text": "Katolikus templom Manhattan pénzügyi negyedében, 1890-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.944621,
@@ -6696,7 +6696,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Intercession",
-                  "text": "A Church of the Intercession egy episzkopális templom bronx-zoo-life-v2-ben.",
+                  "text": "Episzkopális templom Manhattan Washington Heights negyedében, 1915-ben épült.",
                   "category": "religious",
                   "coords": [
                         -73.945284,
@@ -6786,7 +6786,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "High Bridge",
-                  "text": "A High Bridge egy híd bronx-zoo-life-v2-ben, eredetileg vízvezeték.",
+                  "text": "Történelmi kőíves híd a Harlem folyó felett New York Cityben.",
                   "category": "landmark",
                   "coords": [
                         -73.929542,
@@ -6840,7 +6840,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Hill",
-                  "text": "A Wave Hill egy történelmi birtok és kert bronx-zoo-life-v2-ben.",
+                  "text": "Történelmi birtok és nyilvános kert a Hudson folyóra néző kilátással a Bronxban.",
                   "category": "landmark",
                   "coords": [
                         -73.912435,
@@ -6894,7 +6894,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stepping Stones Lighthouse",
-                  "text": "A Stepping Stones Lighthouse egy világítótorony bronx-zoo-life-v2-ben.",
+                  "text": "Az US Lighthouse Board által épített világítótorony, amely egy veszélyes zátonyt jelez a Long Island Soundban.",
                   "category": "landmark",
                   "coords": [
                         -73.774785,
@@ -6986,7 +6986,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riverdale Monument",
-                  "text": "Monumentul Riverdale este un monument de război în bronx-zoo-life-v2.",
+                  "text": "Obelisc memorial al Primului Război Mondial în Riverdale, New York.",
                   "category": "historical",
                   "coords": [
                         -73.908324,
@@ -7022,7 +7022,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Genoa's Church",
-                  "text": "Biserica Sf. Ecaterina din Genova este o biserică romano-catolică în bronx-zoo-life-v2.",
+                  "text": "Biserică catolică în districtul financiar al Manhattanului, construită în 1890.",
                   "category": "religious",
                   "coords": [
                         -73.944621,
@@ -7031,7 +7031,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Intercession",
-                  "text": "Biserica Intercesiunii este o biserică episcopală în bronx-zoo-life-v2.",
+                  "text": "Biserică episcopală în Washington Heights, Manhattan, construită în 1915.",
                   "category": "religious",
                   "coords": [
                         -73.945284,
@@ -7121,7 +7121,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "High Bridge",
-                  "text": "Podul High este un pod în bronx-zoo-life-v2, inițial un apeduct.",
+                  "text": "Pod istoric din piatră cu arc peste râul Harlem din New York City.",
                   "category": "landmark",
                   "coords": [
                         -73.929542,
@@ -7175,7 +7175,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Hill",
-                  "text": "Wave Hill este un domeniu istoric și grădină în bronx-zoo-life-v2.",
+                  "text": "Proprietate istorică și grădină publică cu vedere la râul Hudson în Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.912435,
@@ -7229,7 +7229,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stepping Stones Lighthouse",
-                  "text": "Farul Stepping Stones este un far în bronx-zoo-life-v2.",
+                  "text": "Far construit de US Lighthouse Board, marcând un recif periculos în Long Island Sound.",
                   "category": "landmark",
                   "coords": [
                         -73.774785,
@@ -7321,7 +7321,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riverdale Monument",
-                  "text": "The Riverdale Monument is a war memorial in bronx-zoo-life-v2.",
+                  "text": "World War I memorial obelisk in Riverdale, New York.",
                   "category": "historical",
                   "coords": [
                         -73.908324,
@@ -7357,7 +7357,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Genoa's Church",
-                  "text": "St. Catherine of Genoa's Church is a Roman Catholic church in bronx-zoo-life-v2.",
+                  "text": "Catholic church in Manhattan's financial district, built in 1890.",
                   "category": "religious",
                   "coords": [
                         -73.944621,
@@ -7366,7 +7366,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Church of the Intercession",
-                  "text": "The Church of the Intercession is an Episcopal church in bronx-zoo-life-v2.",
+                  "text": "Episcopal church in Manhattan's Washington Heights, built in 1915.",
                   "category": "religious",
                   "coords": [
                         -73.945284,
@@ -7456,7 +7456,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "High Bridge",
-                  "text": "The High Bridge is a bridge in bronx-zoo-life-v2, originally an aqueduct.",
+                  "text": "Historic stone arch bridge over the Harlem River in New York City.",
                   "category": "landmark",
                   "coords": [
                         -73.929542,
@@ -7510,7 +7510,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Hill",
-                  "text": "Wave Hill is a historic estate and garden in bronx-zoo-life-v2.",
+                  "text": "Historic estate and public garden overlooking the Hudson River in the Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.912435,
@@ -7564,7 +7564,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stepping Stones Lighthouse",
-                  "text": "The Stepping Stones Lighthouse is a lighthouse in bronx-zoo-life-v2.",
+                  "text": "Lighthouse built by the U.S. Lighthouse Board, marking a dangerous reef in Long Island Sound.",
                   "category": "landmark",
                   "coords": [
                         -73.774785,
@@ -13066,7 +13066,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carr Memorial Chapel",
-                  "text": "Eine Gedenkkapelle in Chicago.",
+                  "text": "Kapelle in Chicago, entworfen von Ludwig Mies van der Rohe.",
                   "category": "religious",
                   "coords": [
                         -87.624388,
@@ -13129,7 +13129,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ramova Theatre",
-                  "text": "Ein historisches Theater in Chicago.",
+                  "text": "Das Ramova Theatre, erbaut 1929, wurde von Myer O. Nathan entworfen und war ein historisches Kino.",
                   "category": "landmark",
                   "coords": [
                         -87.646559,
@@ -13401,7 +13401,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carr Memorial Chapel",
-                  "text": "Emlékkápolna Chicagóban.",
+                  "text": "Kápolna Chicagóban, Ludwig Mies van der Rohe tervezte.",
                   "category": "religious",
                   "coords": [
                         -87.624388,
@@ -13464,7 +13464,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ramova Theatre",
-                  "text": "Egy történelmi színház Chicagóban.",
+                  "text": "A Ramova Színház 1929-ben épült, Myer O. Nathan tervezte, egykori mozi.",
                   "category": "landmark",
                   "coords": [
                         -87.646559,
@@ -13736,7 +13736,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carr Memorial Chapel",
-                  "text": "O capelă memorială din Chicago.",
+                  "text": "Capelă din Chicago, proiectată de Ludwig Mies van der Rohe.",
                   "category": "religious",
                   "coords": [
                         -87.624388,
@@ -13799,7 +13799,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ramova Theatre",
-                  "text": "Un teatru istoric din Chicago.",
+                  "text": "Teatrul Ramova, construit în 1929, proiectat de Myer O. Nathan, un fost cinematograf.",
                   "category": "landmark",
                   "coords": [
                         -87.646559,
@@ -14071,7 +14071,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carr Memorial Chapel",
-                  "text": "A memorial chapel in Chicago.",
+                  "text": "Chapel in Chicago designed by Ludwig Mies van der Rohe.",
                   "category": "religious",
                   "coords": [
                         -87.624388,
@@ -14134,7 +14134,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ramova Theatre",
-                  "text": "A historic theater in Chicago.",
+                  "text": "Ramova Theatre, built in 1929, designed by Myer O. Nathan, a former movie theater.",
                   "category": "landmark",
                   "coords": [
                         -87.646559,
@@ -21238,7 +21238,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Smoky Mountains National Park",
-                  "text": "Great Smoky Mountains National Park ist der meistbesuchte Nationalpark in den Vereinigten Staaten.",
+                  "text": "UNESCO-Welterbe, der meistbesuchte Nationalpark der USA, in den Great Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.508164,
@@ -21591,7 +21591,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Smoky Mountains National Park",
-                  "text": "Great Smoky Mountains Nemzeti Park a leglátogatottabb nemzeti park az Egyesült Államokban.",
+                  "text": "UNESCO világörökség, az USA leglátogatottabb nemzeti parkja a Great Smoky Mountains-ben.",
                   "category": "natural",
                   "coords": [
                         -83.508164,
@@ -21944,7 +21944,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Smoky Mountains National Park",
-                  "text": "Parcul Național Great Smoky Mountains este cel mai vizitat parc național din Statele Unite.",
+                  "text": "Patrimoniu mondial UNESCO, cel mai vizitat parc național din SUA, în Munții Great Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.508164,
@@ -22297,7 +22297,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Smoky Mountains National Park",
-                  "text": "Great Smoky Mountains National Park is the most visited national park in the United States.",
+                  "text": "UNESCO World Heritage site, most visited national park in the US, in the Great Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.508164,

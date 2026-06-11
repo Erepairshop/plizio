@@ -522,7 +522,52 @@ export const poiExtraGuineaEconomicV2: POI[] = [
     }
   },
   {
-    id: "goldmine-kiniero-economic-v2",
+    id: "goldmine-kiniero-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kabalaba",
+                  "text": "Diese archäologische Stätte zeigt antike Überreste nahe dem historisch bedeutsamen Goldbergbaugebiet Kiniero.",
+                  "category": "historical",
+                  "coords": [
+                        -9.372227,
+                        10.510898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kabalaba",
+                  "text": "Ez a régészeti lelőhely ősi maradványokat tár fel a történelmi jelentőségű Kiniero aranybányászati terület közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.372227,
+                        10.510898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kabalaba",
+                  "text": "Acest sit arheologic dezvăluie vestigii antice în apropierea zonei miniere istorice de aur Kiniero.",
+                  "category": "historical",
+                  "coords": [
+                        -9.372227,
+                        10.510898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kabalaba",
+                  "text": "This archaeological site reveals ancient remnants near the historically significant Kiniero gold mining area.",
+                  "category": "historical",
+                  "coords": [
+                        -9.372227,
+                        10.510898
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GN-K",
     coords: [-9.3812, 10.4856],
@@ -570,7 +615,52 @@ export const poiExtraGuineaEconomicV2: POI[] = [
     }
   },
   {
-    id: "aluminiumwerk-fria-economic-v2",
+    id: "aluminiumwerk-fria-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des martyrs",
+                  "text": "Der Place des martyrs ist ein weitläufiges, gepflastertes öffentliches Gedenkmonument in der Nähe des Aluminiumwerks Fria.",
+                  "category": "historical",
+                  "coords": [
+                        -13.58276,
+                        10.365103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des martyrs",
+                  "text": "A Place des martyrs egy tágas, kövezett nyilvános emlékmű és tér a friai alumíniumgyár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -13.58276,
+                        10.365103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des martyrs",
+                  "text": "Place des martyrs este un monument comemorativ sub forma unei piețe publice pavate, situat lângă uzina de aluminiu din Fria.",
+                  "category": "historical",
+                  "coords": [
+                        -13.58276,
+                        10.365103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des martyrs",
+                  "text": "Place des martyrs is a paved, commemorative public square monument situated near the Fria aluminium works.",
+                  "category": "historical",
+                  "coords": [
+                        -13.58276,
+                        10.365103
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GN-B",
     coords: [-13.5823, 10.3845],

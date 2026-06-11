@@ -3,7 +3,376 @@ import type { POI } from "./poi";
 
 export const poiExtraDjiboutiReliefV2: POI[] = [
   {
-    id: "gessila-gipfel-relief-v2",
+    id: "gessila-gipfel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "‘Adgub",
+                  "text": "Diese schroffe Erhebung in der Nähe des Gessila-Gipfels bildet eine markante Silhouette vor dem kargen Wüstenhimmel.",
+                  "category": "natural",
+                  "coords": [
+                        42.621111,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Darbi ‘Alé",
+                  "text": "Dieser anspruchsvolle, felsige Kamm ist Teil des ausgedehnten und kargen Gessila-Gebirgsreliefs.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.938056
+                  ]
+            },
+            {
+                  "name": "Somma",
+                  "text": "Ein markanter Hochpunkt im Gessila-Relief mit Blick auf tiefe, erodierte Täler, die von alten Wasserläufen geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        42.643611,
+                        11.909722
+                  ]
+            },
+            {
+                  "name": "Hallou",
+                  "text": "Dieser Gipfel, der sich innerhalb des Gessila-Gebirgsmassivs erhebt, bietet einen Panoramablick auf die zerklüftete tektonische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        42.658056,
+                        11.911667
+                  ]
+            },
+            {
+                  "name": "Wayḏeḏlou",
+                  "text": "Dieser karge Gipfel in der Gessila-Region ist bekannt für seine steilen, geröllbedeckten Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        42.653056,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oukoufé",
+                  "text": "Dieser schroffe Gipfel dominiert das Gessila-Hochland und fungiert als wichtiges geografisches Merkmal des Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        42.576944,
+                        11.907778
+                  ]
+            },
+            {
+                  "name": "‘Addô",
+                  "text": "Dieser Berggipfel liegt am Gessila-Gipfelrelief und weist eine spärliche, dürreresistente Hochlandvegetation auf.",
+                  "category": "natural",
+                  "coords": [
+                        42.545278,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Akarou",
+                  "text": "Dieser felsige Vorsprung im Gessila-Gebiet ist von sonnenverbrannter Erde und vulkanischen Gesteinsformationen umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        42.558056,
+                        11.935
+                  ]
+            },
+            {
+                  "name": "‘As Dora",
+                  "text": "Ein hoch aufragender Gipfel in der Gessila-Region, tief eingeschnitten von trockenen Schluchten, die seltene saisonale Regenfälle ableiten.",
+                  "category": "natural",
+                  "coords": [
+                        42.574722,
+                        11.950833
+                  ]
+            },
+            {
+                  "name": "Arho Dâba",
+                  "text": "Dieser natürliche Gipfel dominiert den Horizont von Gessila und bildet einen starken Kontrast zu den umliegenden Hochebenen.",
+                  "category": "natural",
+                  "coords": [
+                        42.559444,
+                        11.956389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "‘Adgub",
+                  "text": "A Gessila-csúcs közelében álló zord kiemelkedés lenyűgöző sziluettet alkot a sivár sivatagi égbolt előtt.",
+                  "category": "natural",
+                  "coords": [
+                        42.621111,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Darbi ‘Alé",
+                  "text": "Ez a kihívást jelentő sziklás gerinc a kiterjedt és kopár Gessila hegyvidéki domborzat része.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.938056
+                  ]
+            },
+            {
+                  "name": "Somma",
+                  "text": "A Gessila domborzat kiemelkedő magaslata, amely ősi vízfolyások által kialakított mély, erodált völgyekre néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.643611,
+                        11.909722
+                  ]
+            },
+            {
+                  "name": "Hallou",
+                  "text": "A Gessila hegytömbben emelkedő csúcs panorámás kilátást nyújt a töredezett tektonikus tájra.",
+                  "category": "natural",
+                  "coords": [
+                        42.658056,
+                        11.911667
+                  ]
+            },
+            {
+                  "name": "Wayḏeḏlou",
+                  "text": "Ez a Gessila régióban található zord csúcs meredek, törmelékkel borított lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        42.653056,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oukoufé",
+                  "text": "A Gessila-felföldet uraló zord csúcs a domborzat egyik fő földrajzi jellemzőjeként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        42.576944,
+                        11.907778
+                  ]
+            },
+            {
+                  "name": "‘Addô",
+                  "text": "A Gessila-csúcs domborzata mentén elhelyezkedő hegytetőt gyér, szárazságtűrő hegyvidéki növényzet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        42.545278,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Akarou",
+                  "text": "Ezt a sziklás hegyfokot a Gessila térségében naptól perzselt föld és vulkáni kőzetképződmények veszik körül.",
+                  "category": "natural",
+                  "coords": [
+                        42.558056,
+                        11.935
+                  ]
+            },
+            {
+                  "name": "‘As Dora",
+                  "text": "A Gessila régió tornyosuló csúcsa, amelyet mély, száraz szakadékok szabdalnak, melyek a ritka szezonális esőket vezetik el.",
+                  "category": "natural",
+                  "coords": [
+                        42.574722,
+                        11.950833
+                  ]
+            },
+            {
+                  "name": "Arho Dâba",
+                  "text": "A Gessila horizontját uraló természetes csúcs éles kontrasztot alkot a környező fennsíkokkal.",
+                  "category": "natural",
+                  "coords": [
+                        42.559444,
+                        11.956389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "‘Adgub",
+                  "text": "Aflat în apropiere de vârful Gessila, această elevație accidentată formează o siluetă impresionantă pe cerul auster al deșertului.",
+                  "category": "natural",
+                  "coords": [
+                        42.621111,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Darbi ‘Alé",
+                  "text": "Această creastă stâncoasă și dificilă face parte din relieful montan extins și arid Gessila.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.938056
+                  ]
+            },
+            {
+                  "name": "Somma",
+                  "text": "Un punct înalt proeminent în relieful Gessila, dominând văile adânci și erodate formate de cursurile antice de apă.",
+                  "category": "natural",
+                  "coords": [
+                        42.643611,
+                        11.909722
+                  ]
+            },
+            {
+                  "name": "Hallou",
+                  "text": "Ridicându-se în cadrul blocului montan Gessila, acest vârf oferă vederi panoramice ale peisajului tectonic fracturat.",
+                  "category": "natural",
+                  "coords": [
+                        42.658056,
+                        11.911667
+                  ]
+            },
+            {
+                  "name": "Wayḏeḏlou",
+                  "text": "Acest vârf auster din regiunea Gessila este cunoscut pentru versanții săi abrupți, acoperiți de grohotiș.",
+                  "category": "natural",
+                  "coords": [
+                        42.653056,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oukoufé",
+                  "text": "Dominând zonele înalte Gessila, acest vârf accidentat acționează ca o caracteristică geografică majoră a reliefului.",
+                  "category": "natural",
+                  "coords": [
+                        42.576944,
+                        11.907778
+                  ]
+            },
+            {
+                  "name": "‘Addô",
+                  "text": "Poziționat de-a lungul reliefului vârfului Gessila, acest vârf montan prezintă o vegetație montană rară, rezistentă la secetă.",
+                  "category": "natural",
+                  "coords": [
+                        42.545278,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Akarou",
+                  "text": "Acest promontoriu stâncos din zona Gessila este înconjurat de pământ ars de soare și formațiuni de rocă vulcanică.",
+                  "category": "natural",
+                  "coords": [
+                        42.558056,
+                        11.935
+                  ]
+            },
+            {
+                  "name": "‘As Dora",
+                  "text": "Un vârf impunător în regiunea Gessila, tăiat adânc de ravene uscate care canalizează ploile sezoniere rare.",
+                  "category": "natural",
+                  "coords": [
+                        42.574722,
+                        11.950833
+                  ]
+            },
+            {
+                  "name": "Arho Dâba",
+                  "text": "Dominând orizontul Gessila, acest vârf natural oferă un contrast puternic față de platourile înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        42.559444,
+                        11.956389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "`Adgub",
+                  "text": "Standing near Gessila Peak, this rugged elevation forms a striking silhouette against the stark desert sky.",
+                  "category": "natural",
+                  "coords": [
+                        42.621111,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Darbi `Ale",
+                  "text": "This challenging rocky crest is part of the extensive and barren Gessila mountain relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.938056
+                  ]
+            },
+            {
+                  "name": "Somma",
+                  "text": "A prominent high point in the Gessila relief, overlooking deep, eroded valleys formed by ancient watercourses.",
+                  "category": "natural",
+                  "coords": [
+                        42.643611,
+                        11.909722
+                  ]
+            },
+            {
+                  "name": "Hallou",
+                  "text": "Rising within the Gessila mountain block, this summit offers panoramic views of the fractured tectonic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        42.658056,
+                        11.911667
+                  ]
+            },
+            {
+                  "name": "Wayḏeḏlou",
+                  "text": "This stark peak in the Gessila region is known for its steep, scree-covered slopes.",
+                  "category": "natural",
+                  "coords": [
+                        42.653056,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oukoufe",
+                  "text": "Commanding the Gessila highlands, this rugged summit acts as a major geographical feature of the relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.576944,
+                        11.907778
+                  ]
+            },
+            {
+                  "name": "‘Addô",
+                  "text": "Positioned along the Gessila peak relief, this mountain top features sparse, drought-resistant highland vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        42.545278,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Akarou",
+                  "text": "This rocky promontory in the Gessila area is surrounded by sun-scorched earth and volcanic rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        42.558056,
+                        11.935
+                  ]
+            },
+            {
+                  "name": "`As Dora",
+                  "text": "A towering peak in the Gessila region, deeply cut by dry ravines that channel rare seasonal rains.",
+                  "category": "natural",
+                  "coords": [
+                        42.574722,
+                        11.950833
+                  ]
+            },
+            {
+                  "name": "Arho Dâba",
+                  "text": "Dominating the Gessila horizon, this natural summit offers a stark contrast against the surrounding plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        42.559444,
+                        11.956389
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-TA",
     coords: [42.6, 11.9],
@@ -147,7 +516,412 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "petit-bara-senke-relief-v2",
+    id: "petit-bara-senke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rohalé",
+                  "text": "Rohalé ist ein Wüstengipfel, der das trockene, versunkene Relief der Petit Bara-Senke umrahmt.",
+                  "category": "natural",
+                  "coords": [
+                        42.994167,
+                        11.255278
+                  ]
+            },
+            {
+                  "name": "Djilbîbi",
+                  "text": "Der Gipfel des Djilbîbi erhebt sich als raue natürliche Landform über das karge Petit Bara-Becken.",
+                  "category": "natural",
+                  "coords": [
+                        43.0325,
+                        11.2625
+                  ]
+            },
+            {
+                  "name": "Ouarâbagal",
+                  "text": "Ouarâbagal ist ein erhöhter Felsgipfel, der den Rand des sonnenverbrannten Petit Bara-Senkenreliefs definiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.339167
+                  ]
+            },
+            {
+                  "name": "Si‘îd Hâroûn",
+                  "text": "Si‘îd Hâroûn ist ein markantes Wüstenbergmerkmal, das in der Nähe der trockenen Ebenen von Petit Bara aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.892222,
+                        11.283611
+                  ]
+            },
+            {
+                  "name": "Ḏagaẖa Qoton",
+                  "text": "Der sich über die trockene Landschaft erhebende Gipfel von Ḏagaẖa Qoton überblickt die Petit Bara-Senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.901111,
+                        11.298611
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Ad",
+                  "text": "Goumbourta ‘Ad ist ein steiniger Gipfel, der das umliegende karge Relief des Petit Bara-Gebiets dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.895278,
+                        11.34
+                  ]
+            },
+            {
+                  "name": "Madag",
+                  "text": "Der Madag-Gipfel bietet einen rauen Höhenkontrast zu der flachen, trockenen Weite der Petit Bara-Senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.935278,
+                        11.368056
+                  ]
+            },
+            {
+                  "name": "‘Ankâbo",
+                  "text": "‘Ankâbo ist ein bemerkenswerter Gipfel innerhalb des trockenen, wüstenartigen geologischen Reliefs von Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.975833,
+                        11.303333
+                  ]
+            },
+            {
+                  "name": "Ali Addé",
+                  "text": "Ali Addé ist ein markanter Berggipfel, der seinen Schatten auf die karge Petit Bara-Senke wirft.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "Der felsige Gipfel des Ḏiyya‘ erhebt sich abrupt aus dem sonnenverbrannten Gelände in der Nähe der Petit Bara-Senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            },
+            {
+                  "name": "Géoglyphe de l'école",
+                  "text": "Diese faszinierende Schul-Geoglyphen-Attraktion ist in die trockene Oberfläche des Wüstenreliefs Petit Bara geschnitzt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.945665,
+                        11.34718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rohalé",
+                  "text": "A Rohalé egy sivatagi hegycsúcs, amely a Petit Bara depresszió száraz, besüllyedt domborzatát keretezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.994167,
+                        11.255278
+                  ]
+            },
+            {
+                  "name": "Djilbîbi",
+                  "text": "A Djilbîbi csúcsa zord természeti képződményként emelkedik a kietlen Petit Bara-medence fölé.",
+                  "category": "natural",
+                  "coords": [
+                        43.0325,
+                        11.2625
+                  ]
+            },
+            {
+                  "name": "Ouarâbagal",
+                  "text": "Az Ouarâbagal egy kiemelkedő sziklás csúcs, amely a napsütötte Petit Bara medence domborzatának szélét határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.339167
+                  ]
+            },
+            {
+                  "name": "Si‘îd Hâroûn",
+                  "text": "A Si‘îd Hâroûn egy kiemelkedő sivatagi hegyvonulat, amely a Petit Bara száraz síkságai közelében magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.892222,
+                        11.283611
+                  ]
+            },
+            {
+                  "name": "Ḏagaẖa Qoton",
+                  "text": "A száraz táj fölé magasodó Ḏagaẖa Qoton csúcs a Petit Bara depresszióra néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.901111,
+                        11.298611
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Ad",
+                  "text": "A Goumbourta ‘Ad egy köves csúcs, amely a Petit Bara területét körülvevő kopár domborzatot uralja.",
+                  "category": "natural",
+                  "coords": [
+                        42.895278,
+                        11.34
+                  ]
+            },
+            {
+                  "name": "Madag",
+                  "text": "A Madag-csúcs zord domborzati kontrasztot kínál a Petit Bara medence lapos, száraz kiterjedésével szemben.",
+                  "category": "natural",
+                  "coords": [
+                        42.935278,
+                        11.368056
+                  ]
+            },
+            {
+                  "name": "‘Ankâbo",
+                  "text": "Az ‘Ankâbo figyelemre méltó hegycsúcs a Petit Bara száraz, sivatagszerű geológiai domborzatán.",
+                  "category": "natural",
+                  "coords": [
+                        42.975833,
+                        11.303333
+                  ]
+            },
+            {
+                  "name": "Ali Addé",
+                  "text": "Az Ali Addé egy tekintélyes hegycsúcs, amely árnyékot vet a kietlen Petit Bara depresszióra.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "A Ḏiyya‘ sziklás csúcsa hirtelen emelkedik ki a Petit Bara medence közelében lévő napsütötte terepből.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            },
+            {
+                  "name": "Géoglyphe de l'école",
+                  "text": "Ezt az izgalmas iskolai geoglifa látványosságot a Petit Bara sivatagi domborzat száraz felszínébe vésték.",
+                  "category": "landmark",
+                  "coords": [
+                        42.945665,
+                        11.34718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rohalé",
+                  "text": "Rohalé este un vârf deșertic care încadrează relieful arid și scufundat al depresiunii Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.994167,
+                        11.255278
+                  ]
+            },
+            {
+                  "name": "Djilbîbi",
+                  "text": "Vârful Djilbîbi se înalță ca o formă de relief naturală accidentată deasupra bazinului arid Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        43.0325,
+                        11.2625
+                  ]
+            },
+            {
+                  "name": "Ouarâbagal",
+                  "text": "Ouarâbagal este un vârf stâncos înalt care definește marginea reliefului însorit al depresiunii Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.339167
+                  ]
+            },
+            {
+                  "name": "Si‘îd Hâroûn",
+                  "text": "Si‘îd Hâroûn este o caracteristică montană deșertică proeminentă care se înalță lângă câmpiile aride din Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.892222,
+                        11.283611
+                  ]
+            },
+            {
+                  "name": "Ḏagaẖa Qoton",
+                  "text": "Ridicându-se deasupra peisajului uscat, vârful Ḏagaẖa Qoton are vedere la depresiunea Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.901111,
+                        11.298611
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Ad",
+                  "text": "Goumbourta ‘Ad este un vârf pietros care domină relieful arid din jurul zonei Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.895278,
+                        11.34
+                  ]
+            },
+            {
+                  "name": "Madag",
+                  "text": "Vârful Madag oferă un contrast altitudinal accidentat față de întinderea plată și aridă a depresiunii Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.935278,
+                        11.368056
+                  ]
+            },
+            {
+                  "name": "‘Ankâbo",
+                  "text": "‘Ankâbo se evidențiază ca un vârf notabil în relieful geologic arid, asemănător deșertului, din Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.975833,
+                        11.303333
+                  ]
+            },
+            {
+                  "name": "Ali Addé",
+                  "text": "Ali Addé este un vârf muntos distins care își aruncă umbra peste depresiunea pustie Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "Vârful stâncos al lui Ḏiyya‘ se ridică brusc din terenul ars de soare de lângă depresiunea Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            },
+            {
+                  "name": "Géoglyphe de l'école",
+                  "text": "Această atracție intrigantă sub formă de geoglifă a școlii este sculptată în suprafața aridă a reliefului deșertului Petit Bara.",
+                  "category": "landmark",
+                  "coords": [
+                        42.945665,
+                        11.34718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rohalé",
+                  "text": "Rohalé is a desert peak framing the arid, sunken relief of the Petit Bara depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.994167,
+                        11.255278
+                  ]
+            },
+            {
+                  "name": "Djilbîbi",
+                  "text": "The summit of Djilbîbi stands as a rugged natural landform above the stark Petit Bara basin.",
+                  "category": "natural",
+                  "coords": [
+                        43.0325,
+                        11.2625
+                  ]
+            },
+            {
+                  "name": "Ouarâbagal",
+                  "text": "Ouarâbagal is an elevated rocky peak defining the edge of the sun-baked Petit Bara senke relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.339167
+                  ]
+            },
+            {
+                  "name": "Si‘îd Hâroûn",
+                  "text": "Si‘îd Hâroûn is a prominent desert mountain feature towering near the arid plains of Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.892222,
+                        11.283611
+                  ]
+            },
+            {
+                  "name": "Ḏagaẖa Qoton",
+                  "text": "Rising above the dry landscape, the peak of Ḏagaẖa Qoton overlooks the Petit Bara depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.901111,
+                        11.298611
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Ad",
+                  "text": "Goumbourta ‘Ad is a stony summit dominating the surrounding barren relief of the Petit Bara area.",
+                  "category": "natural",
+                  "coords": [
+                        42.895278,
+                        11.34
+                  ]
+            },
+            {
+                  "name": "Madag",
+                  "text": "The Madag peak offers a rugged elevation contrast against the flat, arid expanse of the Petit Bara senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.935278,
+                        11.368056
+                  ]
+            },
+            {
+                  "name": "‘Ankâbo",
+                  "text": "‘Ankâbo stands as a notable peak within the arid, desert-like geological relief of Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.975833,
+                        11.303333
+                  ]
+            },
+            {
+                  "name": "Ali Addé",
+                  "text": "Ali Addé is a distinguished mountain peak casting its shadow over the stark Petit Bara depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "The rocky summit of Ḏiyya‘ rises abruptly from the sun-scorched terrain near the Petit Bara senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            },
+            {
+                  "name": "Géoglyphe de l'école",
+                  "text": "This intriguing school geoglyph attraction is carved into the arid surface of the Petit Bara desert relief.",
+                  "category": "landmark",
+                  "coords": [
+                        42.945665,
+                        11.34718
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DJ-AS",
     coords: [42.95, 11.3],
@@ -195,7 +969,268 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "hanle-senke-relief-v2",
+    id: "hanle-senke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "‘Aroyra",
+                  "text": "Der Gipfel des `Aroyra steht als karge Felsformation über den sonnenverbrannten Weiten der Hanle-Senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.176389,
+                        11.575556
+                  ]
+            },
+            {
+                  "name": "‘Arali",
+                  "text": "`Arali ist Teil der erhöhten Wüstentopografie, die die Ränder der Hanle-Senke umschließt.",
+                  "category": "natural",
+                  "coords": [
+                        42.1675,
+                        11.581389
+                  ]
+            },
+            {
+                  "name": "‘Arab Kôma",
+                  "text": "‘Arab Kôma ist ein markanter isolierter Berg, der die weiten flachen Ebenen der Hanle-Region unterbricht.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "Die felsigen Hänge des Boûdo Guêra erheben sich steil vom tiefen, trockenen Boden der Hanle-Senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Ourwali ist ein sonnenverbrannter Gipfel, der als topografisches Wahrzeichen im Hanle-Becken dient.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "H̱âẖayle ist ein hoch aufragender Gipfel, der die schroffe Wüstensilhouette um die Hanle-Senke formt.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "Der Gipfel des Id‘a Kôma bietet einen weiten Blick über die ausgedehnten Tiefebenen der Hanle-Senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.0225,
+                        11.588333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "‘Aroyra",
+                  "text": "Az `Aroyra csúcsa kietlen sziklaképződményként magasodik a Hanle-mélyföld napsütötte síkságai felett.",
+                  "category": "natural",
+                  "coords": [
+                        42.176389,
+                        11.575556
+                  ]
+            },
+            {
+                  "name": "‘Arali",
+                  "text": "Az `Arali a Hanle-mélyföld peremeit körülzáró magaslati sivatagi domborzat része.",
+                  "category": "natural",
+                  "coords": [
+                        42.1675,
+                        11.581389
+                  ]
+            },
+            {
+                  "name": "‘Arab Kôma",
+                  "text": "Az ‘Arab Kôma egy jellegzetes, elszigetelt hegy, amely megtöri a Hanle régió hatalmas, lapos síkságait.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "A Boûdo Guêra sziklás lejtői meredeken emelkednek ki a Hanle-mélyföld mély, száraz fenekéről.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Az Ourwali egy naptól perzselt hegycsúcs, amely topográfiai tájékozódási pontként szolgál a Hanle-medencében.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "A H̱âẖayle egy tornyosuló hegycsúcs, amely a Hanle-mélyföld körüli zord sivatagi látképet alakítja.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "Az Id‘a Kôma csúcsáról pazar kilátás nyílik a Hanle-síkság kiterjedt alföldjére.",
+                  "category": "natural",
+                  "coords": [
+                        42.0225,
+                        11.588333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "‘Aroyra",
+                  "text": "Vârful `Aroyra se înalță ca o formațiune stâncoasă austeră deasupra întinderilor arse de soare ale Depresiunii Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.176389,
+                        11.575556
+                  ]
+            },
+            {
+                  "name": "‘Arali",
+                  "text": "`Arali face parte din topografia deșertică înaltă care închide marginile Depresiunii Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.1675,
+                        11.581389
+                  ]
+            },
+            {
+                  "name": "‘Arab Kôma",
+                  "text": "‘Arab Kôma este un munte izolat distinct care întrerupe vastele câmpii plate ale regiunii Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "Pante stâncoase ale Boûdo Guêra se înalță abrupt de pe fundul adânc și arid al Depresiunii Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Ourwali este un vârf ars de soare care servește drept reper topografic în bazinul Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "H̱âẖayle este un vârf falnic care conturează orizontul deșertic accidentat din jurul Depresiunii Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "Vârful Id‘a Kôma oferă o vedere panoramică peste vastele zone joase ale câmpiei Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.0225,
+                        11.588333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "`Aroyra",
+                  "text": "The peak of `Aroyra stands as a stark rocky formation above the sun-baked expanses of the Hanle Depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.176389,
+                        11.575556
+                  ]
+            },
+            {
+                  "name": "`Arali",
+                  "text": "`Arali forms part of the elevated desert topography enclosing the edges of the Hanle Depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.1675,
+                        11.581389
+                  ]
+            },
+            {
+                  "name": "‘Arab Kôma",
+                  "text": "‘Arab Kôma is a distinct isolated mountain interrupting the vast flat plains of the Hanle region.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.566667
+                  ]
+            },
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "The rocky slopes of Boûdo Guêra rise steeply from the deep, arid floor of the Hanle Depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Ourwali is a sun-scorched summit that serves as a topographical landmark in the Hanle basin.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "H̱âẖayle is a towering peak that shapes the rugged desert skyline around the Hanle Depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "The peak of Id‘a Kôma provides a sweeping view across the extensive lowlands of the Hanle plain.",
+                  "category": "natural",
+                  "coords": [
+                        42.0225,
+                        11.588333
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DJ-DI",
     coords: [42.1, 11.6],
@@ -243,7 +1278,124 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "gaggade-becken-relief-v2",
+    id: "gaggade-becken-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dimbir Kôma",
+                  "text": "Dimbir Kôma ist ein markanter vulkanischer Gipfel, der sich aus der trockenen Landschaft des Gaggade-Beckens erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.228611,
+                        11.4625
+                  ]
+            },
+            {
+                  "name": "Ouré Ahmed",
+                  "text": "Der Gipfel des Ouré Ahmed trägt zum dramatischen Rand bei, der die Ränder des Gaggade-Beckens definiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Dokoïno-bel’enleïta",
+                  "text": "Dokoïno-bel’enleïta ist eine schroffe Bergstruktur, die die abgelegenen Badlands der Gaggade-Region dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.25,
+                        11.433333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dimbir Kôma",
+                  "text": "A Dimbir Kôma egy kiemelkedő vulkáni csúcs, amely a Gaggade-medence száraz tájából emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        42.228611,
+                        11.4625
+                  ]
+            },
+            {
+                  "name": "Ouré Ahmed",
+                  "text": "Az Ouré Ahmed csúcsa is hozzájárul a Gaggade-medence peremét meghatározó drámai szegélyhez.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Dokoïno-bel’enleïta",
+                  "text": "A Dokoïno-bel’enleïta egy zord hegyszerkezet, amely a Gaggade térség távoli, kietlen vidékeit uralja.",
+                  "category": "natural",
+                  "coords": [
+                        42.25,
+                        11.433333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dimbir Kôma",
+                  "text": "Dimbir Kôma este un vârf vulcanic proeminent care se înalță din peisajul arid al Bazinului Gaggade.",
+                  "category": "natural",
+                  "coords": [
+                        42.228611,
+                        11.4625
+                  ]
+            },
+            {
+                  "name": "Ouré Ahmed",
+                  "text": "Vârful Ouré Ahmed contribuie la marginea dramatică care definește limitele Bazinului Gaggade.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Dokoïno-bel’enleïta",
+                  "text": "Dokoïno-bel’enleïta este o structură montană accidentată care domină pământurile sterpe izolate din zona Gaggade.",
+                  "category": "natural",
+                  "coords": [
+                        42.25,
+                        11.433333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dimbir Kôma",
+                  "text": "Dimbir Kôma is a prominent volcanic peak rising from the arid landscape of the Gaggade Basin.",
+                  "category": "natural",
+                  "coords": [
+                        42.228611,
+                        11.4625
+                  ]
+            },
+            {
+                  "name": "Ouré Ahmed",
+                  "text": "The peak of Ouré Ahmed contributes to the dramatic rim defining the edges of the Gaggade Basin.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Dokoïno-bel’enleïta",
+                  "text": "Dokoïno-bel’enleïta is a rugged mountain structure dominating the remote badlands of the Gaggade area.",
+                  "category": "natural",
+                  "coords": [
+                        42.25,
+                        11.433333
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DJ-DI",
     coords: [42.2, 11.4],
@@ -291,7 +1443,88 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "boura-gebirgsmassiv-relief-v2",
+    id: "boura-gebirgsmassiv-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kor-Aur",
+                  "text": "Der Berg Kor-Aur ist eine markante Erhebung im zerklüfteten Boura-Gebirgsmassiv.",
+                  "category": "natural",
+                  "coords": [
+                        42.789947,
+                        10.988068
+                  ]
+            },
+            {
+                  "name": "Degta Ḏég Ouéïn",
+                  "text": "Der felsige Gipfel Degta Ḏég Ouéïn thront über den tiefen Tälern des Boura-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        42.785,
+                        11.0575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kor-Aur",
+                  "text": "A Kor-Aur hegy a szabdalt Boura-hegység egyik kiemelkedő csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        42.789947,
+                        10.988068
+                  ]
+            },
+            {
+                  "name": "Degta Ḏég Ouéïn",
+                  "text": "A Degta Ḏég Ouéïn sziklás csúcsa a Boura-hegység mély völgyei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.785,
+                        11.0575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kor-Aur",
+                  "text": "Muntele Kor-Aur este o înălțime distinctă în masivul muntos accidentat Boura.",
+                  "category": "natural",
+                  "coords": [
+                        42.789947,
+                        10.988068
+                  ]
+            },
+            {
+                  "name": "Degta Ḏég Ouéïn",
+                  "text": "Vârful stâncos Degta Ḏég Ouéïn se înalță deasupra văilor adânci din masivul Boura.",
+                  "category": "natural",
+                  "coords": [
+                        42.785,
+                        11.0575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kor-Aur",
+                  "text": "The Kor-Aur mountain is a prominent peak in the rugged Boura mountain massif.",
+                  "category": "natural",
+                  "coords": [
+                        42.789947,
+                        10.988068
+                  ]
+            },
+            {
+                  "name": "Degta Ḏég Ouéïn",
+                  "text": "The rocky peak of Degta Ḏég Ouéïn towers over the deep valleys of the Boura massif.",
+                  "category": "natural",
+                  "coords": [
+                        42.785,
+                        11.0575
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-AS",
     coords: [42.8, 11.0],
@@ -435,7 +1668,196 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "dikhil-plateau-relief-v2",
+    id: "dikhil-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Intimara",
+                  "text": "Dieser Gipfel erhebt sich aus dem erhöhten Gelände des dikhil-plateau-relief-v2 und bietet weite Ausblicke über das felsige, stark erodierte Hochplateau.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        11.133333
+                  ]
+            },
+            {
+                  "name": "Gêlle H̱abbad",
+                  "text": "Dieser Berg auf dem rauen dikhil-plateau-relief-v2 weist steile, steinige Hänge auf, die typisch für die Topografie der hochgelegenen Wüste sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.480278,
+                        11.134167
+                  ]
+            },
+            {
+                  "name": "Tour Qaïlo",
+                  "text": "Dieser markante Gipfel im Gebiet dikhil-plateau-relief-v2 ist durch felsige Steilhänge gekennzeichnet, die in die umliegenden trockenen Täler abfallen.",
+                  "category": "natural",
+                  "coords": [
+                        42.462778,
+                        11.151667
+                  ]
+            },
+            {
+                  "name": "Dagaẖa Kileyta",
+                  "text": "Dieser durch alte geologische Prozesse geformte Gipfel auf dem dikhil-plateau-relief-v2 zeigt geschichtete Gesteinsschichten, die den rauen Elementen ausgesetzt sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.474444,
+                        11.095
+                  ]
+            },
+            {
+                  "name": "Bourrahi",
+                  "text": "Dieser natürliche Gipfel unterstreicht die dramatische Landschaft des dikhil-plateau-relief-v2 und dominiert den trockenen Horizont mit seiner kargen, felsigen Spitze.",
+                  "category": "natural",
+                  "coords": [
+                        42.397778,
+                        11.097222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Intimara",
+                  "text": "A dikhil-plateau-relief-v2 megemelt terepéből kiemelkedő csúcsról elsöprő kilátás nyílik a sziklás és mélyen erodált fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        11.133333
+                  ]
+            },
+            {
+                  "name": "Gêlle H̱abbad",
+                  "text": "A zord dikhil-plateau-relief-v2 területén található hegy a magaslati sivatagi topográfiára jellemző meredek, köves lejtőkkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        42.480278,
+                        11.134167
+                  ]
+            },
+            {
+                  "name": "Tour Qaïlo",
+                  "text": "A dikhil-plateau-relief-v2 területén kiemelkedő hegycsúcsot sziklás meredélyek jellemzik, amelyek a környező száraz völgyekbe szakadnak le.",
+                  "category": "natural",
+                  "coords": [
+                        42.462778,
+                        11.151667
+                  ]
+            },
+            {
+                  "name": "Dagaẖa Kileyta",
+                  "text": "Az ősi geológiai folyamatok által formált, a dikhil-plateau-relief-v2 területén található hegycsúcs rétegzett kőzeteket mutat be, amelyek ki vannak téve a zord elemeknek.",
+                  "category": "natural",
+                  "coords": [
+                        42.474444,
+                        11.095
+                  ]
+            },
+            {
+                  "name": "Bourrahi",
+                  "text": "A dikhil-plateau-relief-v2 drámai táját kiemelve, ez a természetes csúcs kietlen sziklás tetejével uralja a száraz horizontot.",
+                  "category": "natural",
+                  "coords": [
+                        42.397778,
+                        11.097222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Intimara",
+                  "text": "Ridicându-se din terenul înalt al dikhil-plateau-relief-v2, acest summit oferă priveliști ample peste platoul înalt stâncos și profund erodat.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        11.133333
+                  ]
+            },
+            {
+                  "name": "Gêlle H̱abbad",
+                  "text": "Situat pe relieful accidentat dikhil-plateau-relief-v2, acest munte prezintă pante abrupte și pietroase, tipice topografiei deșertului de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        42.480278,
+                        11.134167
+                  ]
+            },
+            {
+                  "name": "Tour Qaïlo",
+                  "text": "Remarcabil în zona dikhil-plateau-relief-v2, acest vârf se caracterizează prin escarpamente stâncoase care coboară abrupt în văile uscate din jur.",
+                  "category": "natural",
+                  "coords": [
+                        42.462778,
+                        11.151667
+                  ]
+            },
+            {
+                  "name": "Dagaẖa Kileyta",
+                  "text": "Format de procese geologice antice, acest vârf de pe dikhil-plateau-relief-v2 prezintă straturi de rocă stratificată expuse elementelor dure.",
+                  "category": "natural",
+                  "coords": [
+                        42.474444,
+                        11.095
+                  ]
+            },
+            {
+                  "name": "Bourrahi",
+                  "text": "Evidențiind peisajul dramatic al dikhil-plateau-relief-v2, acest vârf natural domină orizontul arid cu summitul său stâncos și arid.",
+                  "category": "natural",
+                  "coords": [
+                        42.397778,
+                        11.097222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Intimara",
+                  "text": "Rising from the elevated terrain of the dikhil-plateau-relief-v2, this summit offers sweeping views across the rocky and deeply eroded high plateau.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        11.133333
+                  ]
+            },
+            {
+                  "name": "Gêlle H̱abbad",
+                  "text": "Located on the rugged dikhil-plateau-relief-v2, this mountain features steep, stony inclines typical of the high-altitude desert topography.",
+                  "category": "natural",
+                  "coords": [
+                        42.480278,
+                        11.134167
+                  ]
+            },
+            {
+                  "name": "Tour Qaïlo",
+                  "text": "Standing prominent within the dikhil-plateau-relief-v2 area, this peak is characterized by rocky escarpments that drop into the surrounding dry valleys.",
+                  "category": "natural",
+                  "coords": [
+                        42.462778,
+                        11.151667
+                  ]
+            },
+            {
+                  "name": "Dagaha Kileyta",
+                  "text": "Formed by ancient geological processes, this peak on the dikhil-plateau-relief-v2 displays stratified rock layers exposed to the harsh elements.",
+                  "category": "natural",
+                  "coords": [
+                        42.474444,
+                        11.095
+                  ]
+            },
+            {
+                  "name": "Bourrahi",
+                  "text": "Highlighting the dramatic landscape of the dikhil-plateau-relief-v2, this natural peak dominates the arid horizon with its barren rocky summit.",
+                  "category": "natural",
+                  "coords": [
+                        42.397778,
+                        11.097222
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DJ-DI",
     coords: [42.4, 11.1],
@@ -483,7 +1905,304 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "eguere-alleyta-massiv-relief-v2",
+    id: "eguere-alleyta-massiv-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ḏallou‘ta",
+                  "text": "Ḏallou‘ta ist eine steile Erhebung innerhalb der vulkanischen Felsformationen des Egueré-Alleyta-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        42.023889,
+                        11.635278
+                  ]
+            },
+            {
+                  "name": "Gaiel",
+                  "text": "Gaiel sticht als karger Gipfel inmitten der ausgedehnten Lavafelder der Egueré-Alleyta-Kette hervor.",
+                  "category": "natural",
+                  "coords": [
+                        42.081944,
+                        11.731389
+                  ]
+            },
+            {
+                  "name": "Bisillou",
+                  "text": "Der felsige Gipfel des Bisillou ist fest in der geologisch aktiven Landschaft des Egueré-Alleyta-Massivs verankert.",
+                  "category": "natural",
+                  "coords": [
+                        41.999727,
+                        11.731766
+                  ]
+            },
+            {
+                  "name": "Hawya",
+                  "text": "Hawya bildet einen der erhöhten felsigen Knotenpunkte, die das schroffe gebirgige Relief von Egueré-Alleyta charakterisieren.",
+                  "category": "natural",
+                  "coords": [
+                        41.991441,
+                        11.727803
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "Der Gipfel des Ouḏ ‘Ale weist verwitterte Basalthänge auf, die typisch für das Egueré-Alleyta-Massiv sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.034722,
+                        11.754444
+                  ]
+            },
+            {
+                  "name": "Dâba Dora",
+                  "text": "Dâba Dora ist ein einsamer Gipfel, der sich aus dem zerklüfteten vulkanischen Plateau von Egueré-Alleyta erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.053889,
+                        11.734722
+                  ]
+            },
+            {
+                  "name": "Masguid Amo",
+                  "text": "Masguid Amo markiert einen dramatischen Höhenunterschied im kargen vulkanischen Gelände des Egueré-Alleyta-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        42.063611,
+                        11.751944
+                  ]
+            },
+            {
+                  "name": "Data San",
+                  "text": "Data San ist ein markanter Berg, der die alten Lavaströme der Egueré-Alleyta-Region dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.062222,
+                        11.755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ḏallou‘ta",
+                  "text": "A Ḏallou‘ta egy meredek kiemelkedés az Egueré-Alleyta masszívum vulkáni sziklaképződményein belül.",
+                  "category": "natural",
+                  "coords": [
+                        42.023889,
+                        11.635278
+                  ]
+            },
+            {
+                  "name": "Gaiel",
+                  "text": "A Gaiel zord csúcsként magasodik az Egueré-Alleyta hegylánc kiterjedt lávamezői között.",
+                  "category": "natural",
+                  "coords": [
+                        42.081944,
+                        11.731389
+                  ]
+            },
+            {
+                  "name": "Bisillou",
+                  "text": "A Bisillou sziklás csúcsa szilárdan rögzül az Egueré-Alleyta masszívum geológiailag aktív tájába.",
+                  "category": "natural",
+                  "coords": [
+                        41.999727,
+                        11.731766
+                  ]
+            },
+            {
+                  "name": "Hawya",
+                  "text": "A Hawya a zord Egueré-Alleyta hegyvidéki domborzatot jellemző megemelkedett sziklás csomópontok egyike.",
+                  "category": "natural",
+                  "coords": [
+                        41.991441,
+                        11.727803
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "Az Ouḏ ‘Ale csúcsa az Egueré-Alleyta masszívumra jellemző viharvert bazaltlejtőkkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        42.034722,
+                        11.754444
+                  ]
+            },
+            {
+                  "name": "Dâba Dora",
+                  "text": "A Dâba Dora egy kietlen csúcs, amely az Egueré-Alleyta töredezett vulkáni fennsíkjából emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        42.053889,
+                        11.734722
+                  ]
+            },
+            {
+                  "name": "Masguid Amo",
+                  "text": "A Masguid Amo drámai magasságkülönbséget jelez az Egueré-Alleyta masszívum kopár vulkáni terepén.",
+                  "category": "natural",
+                  "coords": [
+                        42.063611,
+                        11.751944
+                  ]
+            },
+            {
+                  "name": "Data San",
+                  "text": "A Data San egy kiemelkedő hegy, amely az Egueré-Alleyta régió ősi lávafolyamait uralja.",
+                  "category": "natural",
+                  "coords": [
+                        42.062222,
+                        11.755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ḏallou‘ta",
+                  "text": "Ḏallou‘ta este o proeminență abruptă situată în cadrul formațiunilor de rocă vulcanică din masivul Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        42.023889,
+                        11.635278
+                  ]
+            },
+            {
+                  "name": "Gaiel",
+                  "text": "Gaiel se remarcă ca un vârf golaș în mijlocul extinselor câmpuri de lavă ale lanțului Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        42.081944,
+                        11.731389
+                  ]
+            },
+            {
+                  "name": "Bisillou",
+                  "text": "Vârful stâncos Bisillou este ferm ancorat în peisajul activ din punct de vedere geologic al masivului Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        41.999727,
+                        11.731766
+                  ]
+            },
+            {
+                  "name": "Hawya",
+                  "text": "Hawya formează unul dintre nodurile stâncoase înalte care caracterizează relieful muntos accidentat Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        41.991441,
+                        11.727803
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "Vârful Ouḏ ‘Ale prezintă versanți de bazalt erodați, tipici masivului Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        42.034722,
+                        11.754444
+                  ]
+            },
+            {
+                  "name": "Dâba Dora",
+                  "text": "Dâba Dora este un vârf pustiu care se înalță din platoul vulcanic fracturat Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        42.053889,
+                        11.734722
+                  ]
+            },
+            {
+                  "name": "Masguid Amo",
+                  "text": "Masguid Amo marchează o schimbare dramatică de altitudine în terenul vulcanic arid al masivului Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        42.063611,
+                        11.751944
+                  ]
+            },
+            {
+                  "name": "Data San",
+                  "text": "Data San este un munte proeminent care domină vechile fluxuri de lavă din regiunea Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        42.062222,
+                        11.755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ḏallou‘ta",
+                  "text": "Ḏallou‘ta is a steep prominence located within the volcanic rock formations of the Egueré-Alleyta massif.",
+                  "category": "natural",
+                  "coords": [
+                        42.023889,
+                        11.635278
+                  ]
+            },
+            {
+                  "name": "Gaiel",
+                  "text": "Gaiel stands out as a stark summit amidst the extensive lava fields of the Egueré-Alleyta range.",
+                  "category": "natural",
+                  "coords": [
+                        42.081944,
+                        11.731389
+                  ]
+            },
+            {
+                  "name": "Bisillou",
+                  "text": "The rocky peak of Bisillou is firmly anchored in the geologically active landscape of the Egueré-Alleyta massif.",
+                  "category": "natural",
+                  "coords": [
+                        41.999727,
+                        11.731766
+                  ]
+            },
+            {
+                  "name": "Hawya",
+                  "text": "Hawya forms one of the elevated rocky nodes characterizing the rugged Egueré-Alleyta mountainous relief.",
+                  "category": "natural",
+                  "coords": [
+                        41.991441,
+                        11.727803
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "The summit of Ouḏ ‘Ale features weathered basalt slopes typical of the Egueré-Alleyta massif.",
+                  "category": "natural",
+                  "coords": [
+                        42.034722,
+                        11.754444
+                  ]
+            },
+            {
+                  "name": "Dâba Dora",
+                  "text": "Dâba Dora is a desolate peak rising from the fractured volcanic plateau of Egueré-Alleyta.",
+                  "category": "natural",
+                  "coords": [
+                        42.053889,
+                        11.734722
+                  ]
+            },
+            {
+                  "name": "Masguid Amo",
+                  "text": "Masguid Amo marks a dramatic change in elevation within the barren volcanic terrain of the Egueré-Alleyta massif.",
+                  "category": "natural",
+                  "coords": [
+                        42.063611,
+                        11.751944
+                  ]
+            },
+            {
+                  "name": "Data San",
+                  "text": "Data San is a prominent mountain dominating the ancient lava flows of the Egueré-Alleyta region.",
+                  "category": "natural",
+                  "coords": [
+                        42.062222,
+                        11.755
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-TA",
     coords: [42.0, 11.7],
@@ -531,7 +2250,124 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-data-ali-relief-v2",
+    id: "mount-data-ali-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "H̱ibbâla",
+                  "text": "Dieser hohe Gipfel ist Teil des Mount Data Ali-Reliefs und blickt auf eine Landschaft aus alten vulkanischen Formationen.",
+                  "category": "natural",
+                  "coords": [
+                        42.739321,
+                        12.147797
+                  ]
+            },
+            {
+                  "name": "Bouḏoukta Kôma",
+                  "text": "Dieser schroffe Kamm trägt zum anspruchsvollen und markanten bergigen Gelände rund um den Mount Data Ali bei.",
+                  "category": "natural",
+                  "coords": [
+                        42.728773,
+                        12.213399
+                  ]
+            },
+            {
+                  "name": "Oud ‘Ale",
+                  "text": "Dieser kahle Gipfel mit Blick auf die Region Mount Data Ali wurde durch Jahrhunderte von trockenem Wind und Sonne geformt.",
+                  "category": "natural",
+                  "coords": [
+                        42.711232,
+                        12.208059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "H̱ibbâla",
+                  "text": "A Mount Data Ali domborzatának részeként ez a magas csúcs ősi vulkáni képződmények tájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.739321,
+                        12.147797
+                  ]
+            },
+            {
+                  "name": "Bouḏoukta Kôma",
+                  "text": "Ez a zord gerinc hozzájárul a Mount Data Ali körüli kihívást jelentő és lenyűgöző hegyvidéki terephez.",
+                  "category": "natural",
+                  "coords": [
+                        42.728773,
+                        12.213399
+                  ]
+            },
+            {
+                  "name": "Oud ‘Ale",
+                  "text": "A Mount Data Ali régióra néző kopár csúcsot az évszázadok száraz szele és a nap formálta.",
+                  "category": "natural",
+                  "coords": [
+                        42.711232,
+                        12.208059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "H̱ibbâla",
+                  "text": "Parte a reliefului Mount Data Ali, acest vârf înalt domină un peisaj cu formațiuni vulcanice antice.",
+                  "category": "natural",
+                  "coords": [
+                        42.739321,
+                        12.147797
+                  ]
+            },
+            {
+                  "name": "Bouḏoukta Kôma",
+                  "text": "Această creastă accidentată contribuie la terenul montan provocator și impresionant din jurul Mount Data Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.728773,
+                        12.213399
+                  ]
+            },
+            {
+                  "name": "Oud ‘Ale",
+                  "text": "Dominând regiunea Mount Data Ali, acest vârf arid este modelat de secole de vânt uscat și soare.",
+                  "category": "natural",
+                  "coords": [
+                        42.711232,
+                        12.208059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "H̱ibbâla",
+                  "text": "Part of the Mount Data Ali relief, this lofty summit overlooks a landscape of ancient volcanic formations.",
+                  "category": "natural",
+                  "coords": [
+                        42.739321,
+                        12.147797
+                  ]
+            },
+            {
+                  "name": "Bouḏoukta Kôma",
+                  "text": "This rugged crest contributes to the challenging and striking mountainous terrain surrounding Mount Data Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.728773,
+                        12.213399
+                  ]
+            },
+            {
+                  "name": "Oud ‘Ale",
+                  "text": "Overlooking the Mount Data Ali region, this barren peak is shaped by centuries of arid wind and sun.",
+                  "category": "natural",
+                  "coords": [
+                        42.711232,
+                        12.208059
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-TA",
     coords: [42.7, 12.2],
@@ -579,7 +2415,160 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-hemed-relief-v2",
+    id: "mount-hemed-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gabone",
+                  "text": "Dieser Gipfel ist Teil des Mount Hemed-Massivs und zeichnet sich durch steile, den Elementen ausgesetzte Felswände aus.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "Ouren Dô",
+                  "text": "Ein markantes Merkmal im Relief des Mount Hemed, bekannt für seine steilen Hänge und weiten Blicke ins Tal.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        11.982222
+                  ]
+            },
+            {
+                  "name": "Kaloulouwtoh Enef",
+                  "text": "Dieser hohe Gipfel trägt zu den dramatischen Höhenunterschieden bei, die typisch für die Gebirgskette des Mount Hemed sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.571944,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "Guérentôli",
+                  "text": "Dieser steinige Gipfel im Gebiet des Mount Hemed erhebt sich steil über die umliegenden trockenen Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        42.545,
+                        11.964444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gabone",
+                  "text": "A Mount Hemed hegység részét képező csúcs meredek, az elemeknek kitett sziklafalakkal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "Ouren Dô",
+                  "text": "A Mount Hemed domborzatának kiemelkedő eleme, amely meredek lejtőiről és pazar völgyi kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        11.982222
+                  ]
+            },
+            {
+                  "name": "Kaloulouwtoh Enef",
+                  "text": "Ez a magas csúcs hozzájárul a Mount Hemed hegységre jellemző drámai magasságkülönbségekhez.",
+                  "category": "natural",
+                  "coords": [
+                        42.571944,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "Guérentôli",
+                  "text": "A Mount Hemed területén található köves csúcs élesen kiemelkedik a környező száraz szakadékok közül.",
+                  "category": "natural",
+                  "coords": [
+                        42.545,
+                        11.964444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gabone",
+                  "text": "Formând parte din masivul Mount Hemed, acest vârf prezintă fețe stâncoase abrupte expuse elementelor naturii.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "Ouren Dô",
+                  "text": "O trăsătură proeminentă în relieful Mount Hemed, cunoscută pentru pantele sale abrupte și priveliștile ample asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        11.982222
+                  ]
+            },
+            {
+                  "name": "Kaloulouwtoh Enef",
+                  "text": "Acest vârf înalt contribuie la schimbările dramatice de elevație tipice lanțului muntos Mount Hemed.",
+                  "category": "natural",
+                  "coords": [
+                        42.571944,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "Guérentôli",
+                  "text": "Situat în zona Mount Hemed, acest vârf pietros se ridică brusc deasupra ravinelor uscate înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        42.545,
+                        11.964444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gabone",
+                  "text": "Forming part of the Mount Hemed massif, this summit features sheer, rocky faces exposed to the elements.",
+                  "category": "natural",
+                  "coords": [
+                        42.433333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "Ouren Dô",
+                  "text": "A prominent feature in the Mount Hemed relief, known for its steep inclines and sweeping valley views.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        11.982222
+                  ]
+            },
+            {
+                  "name": "Kaloulouwtoh Enef",
+                  "text": "This lofty peak contributes to the dramatic elevation shifts typical of the Mount Hemed mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        42.571944,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "Guérentôli",
+                  "text": "Situated in the Mount Hemed area, this stony summit rises sharply above the surrounding dry ravines.",
+                  "category": "natural",
+                  "coords": [
+                        42.545,
+                        11.964444
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-TA",
     coords: [42.5, 12.0],
@@ -627,7 +2616,1276 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-borawli-relief-v2",
+    id: "mount-borawli-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goubi ‘Abarmali",
+                  "text": "Ein Berggipfel im weitläufigen Relief rund um den Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.1654,
+                        12.53296
+                  ]
+            },
+            {
+                  "name": "Tamfaro",
+                  "text": "Dieser markante Gipfel ist ein integraler Bestandteil des Bergreliefsystems des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.142413,
+                        12.547129
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Tamfaro",
+                  "text": "Ein bemerkenswerter Gipfel, der zur abwechslungsreichen Topografie des Mount Borawli-Gebiets beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        43.139645,
+                        12.553125
+                  ]
+            },
+            {
+                  "name": "Kalla Dageyna",
+                  "text": "Kalla Dageyna ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.124362,
+                        12.551305
+                  ]
+            },
+            {
+                  "name": "Inâ‘ita ‘Ale",
+                  "text": "Inâ‘ita ‘Ale ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.124937,
+                        12.546669
+                  ]
+            },
+            {
+                  "name": "Goraysa",
+                  "text": "Goraysa ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.1269,
+                        12.532388
+                  ]
+            },
+            {
+                  "name": "Wi‘ta",
+                  "text": "Wi`ta ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.130377,
+                        12.527455
+                  ]
+            },
+            {
+                  "name": "Daga ‘Abarmali",
+                  "text": "Daga `Abarmali ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.158252,
+                        12.516257
+                  ]
+            },
+            {
+                  "name": "Barra Basîta",
+                  "text": "Barra Basîta ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.151669,
+                        12.516425
+                  ]
+            },
+            {
+                  "name": "Dâs le Kôma",
+                  "text": "Dâs le Kôma ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.159463,
+                        12.512483
+                  ]
+            },
+            {
+                  "name": "Gabdalli",
+                  "text": "Gabdalli ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.137226,
+                        12.502622
+                  ]
+            },
+            {
+                  "name": "‘Alloumẖârale",
+                  "text": "‘Alloumẖârale ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.123993,
+                        12.466541
+                  ]
+            },
+            {
+                  "name": "Ouyya Kômam",
+                  "text": "Ouyya Kômam ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.020525,
+                        12.473234
+                  ]
+            },
+            {
+                  "name": "Arho",
+                  "text": "Arho ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.045639,
+                        12.482328
+                  ]
+            },
+            {
+                  "name": "Bârou",
+                  "text": "Bârou ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.058974,
+                        12.429271
+                  ]
+            },
+            {
+                  "name": "Oyso",
+                  "text": "Oyso ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.1,
+                        12.483333
+                  ]
+            },
+            {
+                  "name": "Sêmo le ‘Alé",
+                  "text": "Sêmo le ‘Alé ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.060225,
+                        12.448903
+                  ]
+            },
+            {
+                  "name": "Ganga",
+                  "text": "Ganga ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.060117,
+                        12.500564
+                  ]
+            },
+            {
+                  "name": "Daga Sidîdo",
+                  "text": "Daga Sidîdo ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.059045,
+                        12.498873
+                  ]
+            },
+            {
+                  "name": "Goubi Sidîdo",
+                  "text": "Goubi Sidîdo ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.081919,
+                        12.501392
+                  ]
+            },
+            {
+                  "name": "‘Ounḏourta",
+                  "text": "‘Ounḏourta ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.095425,
+                        12.487012
+                  ]
+            },
+            {
+                  "name": "Koulsi Kôma",
+                  "text": "Koulsi Kôma ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.110231,
+                        12.54628
+                  ]
+            },
+            {
+                  "name": "Eger ‘Ale",
+                  "text": "Eger ‘Ale ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.030011,
+                        12.54871
+                  ]
+            },
+            {
+                  "name": "Toronkak",
+                  "text": "Toronkak ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.015254,
+                        12.528069
+                  ]
+            },
+            {
+                  "name": "Ḏer Goli",
+                  "text": "Ḏer Goli ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.037739,
+                        12.522049
+                  ]
+            },
+            {
+                  "name": "‘Alloumme Dag",
+                  "text": "‘Alloumme Dag ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.034225,
+                        12.533255
+                  ]
+            },
+            {
+                  "name": "Ardakôba",
+                  "text": "Ardakôba ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.046568,
+                        12.517778
+                  ]
+            },
+            {
+                  "name": "Elle Ḏalen",
+                  "text": "Elle Ḏalen ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.043217,
+                        12.502871
+                  ]
+            },
+            {
+                  "name": "Doumah Tafkano",
+                  "text": "Doumah Tafkano ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.039208,
+                        12.493865
+                  ]
+            },
+            {
+                  "name": "Am‘ad Kôma",
+                  "text": "Am‘ad Kôma ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.031419,
+                        12.498119
+                  ]
+            },
+            {
+                  "name": "Wal‘is",
+                  "text": "Wal`is ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.024227,
+                        12.504483
+                  ]
+            },
+            {
+                  "name": "Gâla Waris",
+                  "text": "Gâla Waris ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.010265,
+                        12.502006
+                  ]
+            },
+            {
+                  "name": "Wê‘i Kora",
+                  "text": "Wê‘i Kora ist ein natürlicher Berggipfel in der bergigen Reliefregion des Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.064373,
+                        12.566504
+                  ]
+            },
+            {
+                  "name": "Fî‘a le Dorwa",
+                  "text": "Fî‘a le Dorwa ist ein markanter Berggipfel, der sich im Reliefgebiet des Mount Borawli erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.053769,
+                        12.5729
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Dat‘ale",
+                  "text": "‘Ounḏa Dat‘ale ist ein Berggipfel, der die Landschaft im Reliefgebiet des Mount Borawli prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.106124,
+                        12.570956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goubi ‘Abarmali",
+                  "text": "A Mount Borawli körüli kiterjedt domborzaton elhelyezkedő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.1654,
+                        12.53296
+                  ]
+            },
+            {
+                  "name": "Tamfaro",
+                  "text": "Ez a kiemelkedő csúcs a Mount Borawli hegyi domborzati rendszerének szerves része.",
+                  "category": "natural",
+                  "coords": [
+                        43.142413,
+                        12.547129
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Tamfaro",
+                  "text": "A Mount Borawli környékének változatos domborzatához hozzájáruló figyelemre méltó csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.139645,
+                        12.553125
+                  ]
+            },
+            {
+                  "name": "Kalla Dageyna",
+                  "text": "A Kalla Dageyna egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.124362,
+                        12.551305
+                  ]
+            },
+            {
+                  "name": "Inâ‘ita ‘Ale",
+                  "text": "Az Inâ‘ita ‘Ale egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.124937,
+                        12.546669
+                  ]
+            },
+            {
+                  "name": "Goraysa",
+                  "text": "A Goraysa egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.1269,
+                        12.532388
+                  ]
+            },
+            {
+                  "name": "Wi‘ta",
+                  "text": "A Wi`ta egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.130377,
+                        12.527455
+                  ]
+            },
+            {
+                  "name": "Daga ‘Abarmali",
+                  "text": "A Daga `Abarmali egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.158252,
+                        12.516257
+                  ]
+            },
+            {
+                  "name": "Barra Basîta",
+                  "text": "A Barra Basîta egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.151669,
+                        12.516425
+                  ]
+            },
+            {
+                  "name": "Dâs le Kôma",
+                  "text": "A Dâs le Kôma egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.159463,
+                        12.512483
+                  ]
+            },
+            {
+                  "name": "Gabdalli",
+                  "text": "A Gabdalli egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.137226,
+                        12.502622
+                  ]
+            },
+            {
+                  "name": "‘Alloumẖârale",
+                  "text": "Az ‘Alloumẖârale egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.123993,
+                        12.466541
+                  ]
+            },
+            {
+                  "name": "Ouyya Kômam",
+                  "text": "Az Ouyya Kômam egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.020525,
+                        12.473234
+                  ]
+            },
+            {
+                  "name": "Arho",
+                  "text": "Az Arho egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.045639,
+                        12.482328
+                  ]
+            },
+            {
+                  "name": "Bârou",
+                  "text": "A Bârou egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.058974,
+                        12.429271
+                  ]
+            },
+            {
+                  "name": "Oyso",
+                  "text": "Az Oyso egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.1,
+                        12.483333
+                  ]
+            },
+            {
+                  "name": "Sêmo le ‘Alé",
+                  "text": "A Sêmo le ‘Alé egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.060225,
+                        12.448903
+                  ]
+            },
+            {
+                  "name": "Ganga",
+                  "text": "A Ganga egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.060117,
+                        12.500564
+                  ]
+            },
+            {
+                  "name": "Daga Sidîdo",
+                  "text": "A Daga Sidîdo egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.059045,
+                        12.498873
+                  ]
+            },
+            {
+                  "name": "Goubi Sidîdo",
+                  "text": "A Goubi Sidîdo egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.081919,
+                        12.501392
+                  ]
+            },
+            {
+                  "name": "‘Ounḏourta",
+                  "text": "Az ‘Ounḏourta egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.095425,
+                        12.487012
+                  ]
+            },
+            {
+                  "name": "Koulsi Kôma",
+                  "text": "A Koulsi Kôma egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.110231,
+                        12.54628
+                  ]
+            },
+            {
+                  "name": "Eger ‘Ale",
+                  "text": "Az Eger ‘Ale egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.030011,
+                        12.54871
+                  ]
+            },
+            {
+                  "name": "Toronkak",
+                  "text": "A Toronkak egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.015254,
+                        12.528069
+                  ]
+            },
+            {
+                  "name": "Ḏer Goli",
+                  "text": "A Ḏer Goli egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.037739,
+                        12.522049
+                  ]
+            },
+            {
+                  "name": "‘Alloumme Dag",
+                  "text": "Az ‘Alloumme Dag egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.034225,
+                        12.533255
+                  ]
+            },
+            {
+                  "name": "Ardakôba",
+                  "text": "Az Ardakôba egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.046568,
+                        12.517778
+                  ]
+            },
+            {
+                  "name": "Elle Ḏalen",
+                  "text": "Az Elle Ḏalen egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.043217,
+                        12.502871
+                  ]
+            },
+            {
+                  "name": "Doumah Tafkano",
+                  "text": "A Doumah Tafkano egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.039208,
+                        12.493865
+                  ]
+            },
+            {
+                  "name": "Am‘ad Kôma",
+                  "text": "Az Am‘ad Kôma egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.031419,
+                        12.498119
+                  ]
+            },
+            {
+                  "name": "Wal‘is",
+                  "text": "A Wal`is egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.024227,
+                        12.504483
+                  ]
+            },
+            {
+                  "name": "Gâla Waris",
+                  "text": "A Gâla Waris egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.010265,
+                        12.502006
+                  ]
+            },
+            {
+                  "name": "Wê‘i Kora",
+                  "text": "A Wê‘i Kora egy természetes hegycsúcs a Mount Borawli hegyvidéki domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.064373,
+                        12.566504
+                  ]
+            },
+            {
+                  "name": "Fî‘a le Dorwa",
+                  "text": "A Fî‘a le Dorwa egy kiemelkedő hegycsúcs, amely a Mount Borawli domborzati területén magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.053769,
+                        12.5729
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Dat‘ale",
+                  "text": "Az ‘Ounḏa Dat‘ale egy hegycsúcs, amely meghatározza a Mount Borawli domborzati terület tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        43.106124,
+                        12.570956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goubi ‘Abarmali",
+                  "text": "Un vârf montan situat în relieful extins din jurul Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.1654,
+                        12.53296
+                  ]
+            },
+            {
+                  "name": "Tamfaro",
+                  "text": "Acest pisc proeminent este o parte integrantă a sistemului de relief montan al Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.142413,
+                        12.547129
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Tamfaro",
+                  "text": "Un vârf notabil care contribuie la topografia variată a zonei Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.139645,
+                        12.553125
+                  ]
+            },
+            {
+                  "name": "Kalla Dageyna",
+                  "text": "Kalla Dageyna este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.124362,
+                        12.551305
+                  ]
+            },
+            {
+                  "name": "Inâ‘ita ‘Ale",
+                  "text": "Inâ‘ita ‘Ale este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.124937,
+                        12.546669
+                  ]
+            },
+            {
+                  "name": "Goraysa",
+                  "text": "Goraysa este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.1269,
+                        12.532388
+                  ]
+            },
+            {
+                  "name": "Wi‘ta",
+                  "text": "Wi`ta este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.130377,
+                        12.527455
+                  ]
+            },
+            {
+                  "name": "Daga ‘Abarmali",
+                  "text": "Daga `Abarmali este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.158252,
+                        12.516257
+                  ]
+            },
+            {
+                  "name": "Barra Basîta",
+                  "text": "Barra Basîta este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.151669,
+                        12.516425
+                  ]
+            },
+            {
+                  "name": "Dâs le Kôma",
+                  "text": "Dâs le Kôma este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.159463,
+                        12.512483
+                  ]
+            },
+            {
+                  "name": "Gabdalli",
+                  "text": "Gabdalli este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.137226,
+                        12.502622
+                  ]
+            },
+            {
+                  "name": "‘Alloumẖârale",
+                  "text": "‘Alloumẖârale este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.123993,
+                        12.466541
+                  ]
+            },
+            {
+                  "name": "Ouyya Kômam",
+                  "text": "Ouyya Kômam este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.020525,
+                        12.473234
+                  ]
+            },
+            {
+                  "name": "Arho",
+                  "text": "Arho este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.045639,
+                        12.482328
+                  ]
+            },
+            {
+                  "name": "Bârou",
+                  "text": "Bârou este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.058974,
+                        12.429271
+                  ]
+            },
+            {
+                  "name": "Oyso",
+                  "text": "Oyso este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.1,
+                        12.483333
+                  ]
+            },
+            {
+                  "name": "Sêmo le ‘Alé",
+                  "text": "Sêmo le ‘Alé este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.060225,
+                        12.448903
+                  ]
+            },
+            {
+                  "name": "Ganga",
+                  "text": "Ganga este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.060117,
+                        12.500564
+                  ]
+            },
+            {
+                  "name": "Daga Sidîdo",
+                  "text": "Daga Sidîdo este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.059045,
+                        12.498873
+                  ]
+            },
+            {
+                  "name": "Goubi Sidîdo",
+                  "text": "Goubi Sidîdo este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.081919,
+                        12.501392
+                  ]
+            },
+            {
+                  "name": "‘Ounḏourta",
+                  "text": "‘Ounḏourta este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.095425,
+                        12.487012
+                  ]
+            },
+            {
+                  "name": "Koulsi Kôma",
+                  "text": "Koulsi Kôma este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.110231,
+                        12.54628
+                  ]
+            },
+            {
+                  "name": "Eger ‘Ale",
+                  "text": "Eger ‘Ale este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.030011,
+                        12.54871
+                  ]
+            },
+            {
+                  "name": "Toronkak",
+                  "text": "Toronkak este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.015254,
+                        12.528069
+                  ]
+            },
+            {
+                  "name": "Ḏer Goli",
+                  "text": "Ḏer Goli este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.037739,
+                        12.522049
+                  ]
+            },
+            {
+                  "name": "‘Alloumme Dag",
+                  "text": "‘Alloumme Dag este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.034225,
+                        12.533255
+                  ]
+            },
+            {
+                  "name": "Ardakôba",
+                  "text": "Ardakôba este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.046568,
+                        12.517778
+                  ]
+            },
+            {
+                  "name": "Elle Ḏalen",
+                  "text": "Elle Ḏalen este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.043217,
+                        12.502871
+                  ]
+            },
+            {
+                  "name": "Doumah Tafkano",
+                  "text": "Doumah Tafkano este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.039208,
+                        12.493865
+                  ]
+            },
+            {
+                  "name": "Am‘ad Kôma",
+                  "text": "Am‘ad Kôma este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.031419,
+                        12.498119
+                  ]
+            },
+            {
+                  "name": "Wal‘is",
+                  "text": "Wal`is este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.024227,
+                        12.504483
+                  ]
+            },
+            {
+                  "name": "Gâla Waris",
+                  "text": "Gâla Waris este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.010265,
+                        12.502006
+                  ]
+            },
+            {
+                  "name": "Wê‘i Kora",
+                  "text": "Wê‘i Kora este un vârf muntos natural situat în regiunea de relief muntos a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.064373,
+                        12.566504
+                  ]
+            },
+            {
+                  "name": "Fî‘a le Dorwa",
+                  "text": "Fî‘a le Dorwa este un vârf muntos proeminent care se înalță în zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.053769,
+                        12.5729
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Dat‘ale",
+                  "text": "‘Ounḏa Dat‘ale este un vârf muntos care marchează peisajul din zona de relief a Muntelui Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.106124,
+                        12.570956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goubi `Abarmali",
+                  "text": "A mountain peak located within the expansive relief surrounding Mount Borawli.",
+                  "category": "natural",
+                  "coords": [
+                        43.1654,
+                        12.53296
+                  ]
+            },
+            {
+                  "name": "Tamfaro",
+                  "text": "This prominent summit is an integral part of the Mount Borawli mountain relief system.",
+                  "category": "natural",
+                  "coords": [
+                        43.142413,
+                        12.547129
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Tamfaro",
+                  "text": "A notable peak contributing to the varied topography of the Mount Borawli area.",
+                  "category": "natural",
+                  "coords": [
+                        43.139645,
+                        12.553125
+                  ]
+            },
+            {
+                  "name": "Kalla Dageyna",
+                  "text": "Kalla Dageyna is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.124362,
+                        12.551305
+                  ]
+            },
+            {
+                  "name": "Inâ‘ita ‘Ale",
+                  "text": "Inâ‘ita ‘Ale is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.124937,
+                        12.546669
+                  ]
+            },
+            {
+                  "name": "Goraysa",
+                  "text": "Goraysa is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.1269,
+                        12.532388
+                  ]
+            },
+            {
+                  "name": "Wi`ta",
+                  "text": "Wi`ta is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.130377,
+                        12.527455
+                  ]
+            },
+            {
+                  "name": "Daga `Abarmali",
+                  "text": "Daga `Abarmali is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.158252,
+                        12.516257
+                  ]
+            },
+            {
+                  "name": "Barra Basîta",
+                  "text": "Barra Basîta is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.151669,
+                        12.516425
+                  ]
+            },
+            {
+                  "name": "Dâs le Kôma",
+                  "text": "Dâs le Kôma is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.159463,
+                        12.512483
+                  ]
+            },
+            {
+                  "name": "Gabdalli",
+                  "text": "Gabdalli is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.137226,
+                        12.502622
+                  ]
+            },
+            {
+                  "name": "‘Alloumẖârale",
+                  "text": "‘Alloumẖârale is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.123993,
+                        12.466541
+                  ]
+            },
+            {
+                  "name": "Ouyya Kômam",
+                  "text": "Ouyya Kômam is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.020525,
+                        12.473234
+                  ]
+            },
+            {
+                  "name": "Arho",
+                  "text": "Arho is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.045639,
+                        12.482328
+                  ]
+            },
+            {
+                  "name": "Bârou",
+                  "text": "Bârou is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.058974,
+                        12.429271
+                  ]
+            },
+            {
+                  "name": "Oyso",
+                  "text": "Oyso is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.1,
+                        12.483333
+                  ]
+            },
+            {
+                  "name": "Sêmo le ‘Alé",
+                  "text": "Sêmo le ‘Alé is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.060225,
+                        12.448903
+                  ]
+            },
+            {
+                  "name": "Ganga",
+                  "text": "Ganga is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.060117,
+                        12.500564
+                  ]
+            },
+            {
+                  "name": "Daga Sidîdo",
+                  "text": "Daga Sidîdo is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.059045,
+                        12.498873
+                  ]
+            },
+            {
+                  "name": "Goubi Sidîdo",
+                  "text": "Goubi Sidîdo is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.081919,
+                        12.501392
+                  ]
+            },
+            {
+                  "name": "‘Ounḏourta",
+                  "text": "‘Ounḏourta is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.095425,
+                        12.487012
+                  ]
+            },
+            {
+                  "name": "Koulsi Kôma",
+                  "text": "Koulsi Kôma is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.110231,
+                        12.54628
+                  ]
+            },
+            {
+                  "name": "Eger ‘Ale",
+                  "text": "Eger ‘Ale is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.030011,
+                        12.54871
+                  ]
+            },
+            {
+                  "name": "Toronkak",
+                  "text": "Toronkak is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.015254,
+                        12.528069
+                  ]
+            },
+            {
+                  "name": "Ḏer Goli",
+                  "text": "Ḏer Goli is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.037739,
+                        12.522049
+                  ]
+            },
+            {
+                  "name": "‘Alloumme Dag",
+                  "text": "‘Alloumme Dag is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.034225,
+                        12.533255
+                  ]
+            },
+            {
+                  "name": "Ardakôba",
+                  "text": "Ardakôba is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.046568,
+                        12.517778
+                  ]
+            },
+            {
+                  "name": "Elle Ḏalen",
+                  "text": "Elle Ḏalen is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.043217,
+                        12.502871
+                  ]
+            },
+            {
+                  "name": "Doumah Tafkano",
+                  "text": "Doumah Tafkano is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.039208,
+                        12.493865
+                  ]
+            },
+            {
+                  "name": "Am‘ad Kôma",
+                  "text": "Am‘ad Kôma is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.031419,
+                        12.498119
+                  ]
+            },
+            {
+                  "name": "Wal`is",
+                  "text": "Wal`is is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.024227,
+                        12.504483
+                  ]
+            },
+            {
+                  "name": "Gâla Waris",
+                  "text": "Gâla Waris is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.010265,
+                        12.502006
+                  ]
+            },
+            {
+                  "name": "Wê‘i Kora",
+                  "text": "Wê‘i Kora is a natural mountain peak located within the mountainous Mount Borawli relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.064373,
+                        12.566504
+                  ]
+            },
+            {
+                  "name": "Fî‘a le Dorwa",
+                  "text": "Fî‘a le Dorwa is a prominent mountain peak rising in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.053769,
+                        12.5729
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Dat‘ale",
+                  "text": "‘Ounḏa Dat‘ale is a mountain peak that marks the landscape in the Mount Borawli relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.106124,
+                        12.570956
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-OB",
     coords: [43.1, 12.5],
@@ -675,7 +3933,268 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "yaguer-hochland-relief-v2",
+    id: "yaguer-hochland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "‘Anâbo Kôma",
+                  "text": "Ein markanter Berggipfel im zerklüfteten Gelände des Yaguer-Hochlandes.",
+                  "category": "natural",
+                  "coords": [
+                        42.2775,
+                        11.057778
+                  ]
+            },
+            {
+                  "name": "Diksa Ḏêré",
+                  "text": "Eine markante Erhebung, die Teil des Yaguer-Hochlandreliefs ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.206389,
+                        11.061944
+                  ]
+            },
+            {
+                  "name": "Gêlle Djîḏe",
+                  "text": "Ein Berggipfel, der zur dramatischen Landschaft des Yaguer-Hochlandes beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        42.200556,
+                        11.036111
+                  ]
+            },
+            {
+                  "name": "Alondoura",
+                  "text": "Ein hoch aufragender Gipfel in der erhöhten Region des Yaguer-Hochlandes.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "Moud‘oud Lé Kôma",
+                  "text": "Moud‘oud Lé Kôma ist ein markanter Gipfel, der sich steil aus dem zerklüfteten Yaguer-Hochland erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.168333,
+                        11.161389
+                  ]
+            },
+            {
+                  "name": "Yangoula Kôma",
+                  "text": "Yangoula Kôma dient als natürlicher felsiger Aussichtspunkt über das weite Yaguer-Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        42.191389,
+                        11.1625
+                  ]
+            },
+            {
+                  "name": "Ḏinamali",
+                  "text": "Der Gipfel des Dinamali prägt den trockenen gebirgigen Horizont des Yaguer-Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        42.192222,
+                        11.115556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "‘Anâbo Kôma",
+                  "text": "Egy jelentős hegycsúcs a Yaguer-felföld zord terepén.",
+                  "category": "natural",
+                  "coords": [
+                        42.2775,
+                        11.057778
+                  ]
+            },
+            {
+                  "name": "Diksa Ḏêré",
+                  "text": "Egy kiemelkedő magaslat, amely a Yaguer-felföld domborzatának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.206389,
+                        11.061944
+                  ]
+            },
+            {
+                  "name": "Gêlle Djîḏe",
+                  "text": "Egy hegycsúcs, amely hozzájárul a Yaguer-felföld drámai tájához.",
+                  "category": "natural",
+                  "coords": [
+                        42.200556,
+                        11.036111
+                  ]
+            },
+            {
+                  "name": "Alondoura",
+                  "text": "Egy tornyosuló hegycsúcs a magas Yaguer-felföld régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "Moud‘oud Lé Kôma",
+                  "text": "A Moud‘oud Lé Kôma egy kiemelkedő hegycsúcs, amely meredeken emelkedik ki a zord Yaguer-fennsíkból.",
+                  "category": "natural",
+                  "coords": [
+                        42.168333,
+                        11.161389
+                  ]
+            },
+            {
+                  "name": "Yangoula Kôma",
+                  "text": "A Yangoula Kôma természetes sziklás kilátóként szolgál a kiterjedt Yaguer-fennsík felett.",
+                  "category": "natural",
+                  "coords": [
+                        42.191389,
+                        11.1625
+                  ]
+            },
+            {
+                  "name": "Ḏinamali",
+                  "text": "A Dinamali csúcsa formálja a Yaguer-domborzat száraz, hegyvidéki horizontját.",
+                  "category": "natural",
+                  "coords": [
+                        42.192222,
+                        11.115556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "‘Anâbo Kôma",
+                  "text": "Un vârf de munte notabil situat pe terenul accidentat al zonei muntoase Yaguer.",
+                  "category": "natural",
+                  "coords": [
+                        42.2775,
+                        11.057778
+                  ]
+            },
+            {
+                  "name": "Diksa Ḏêré",
+                  "text": "O înălțime proeminentă care face parte din relieful muntos Yaguer.",
+                  "category": "natural",
+                  "coords": [
+                        42.206389,
+                        11.061944
+                  ]
+            },
+            {
+                  "name": "Gêlle Djîḏe",
+                  "text": "Un vârf de munte care contribuie la peisajul dramatic al zonei muntoase Yaguer.",
+                  "category": "natural",
+                  "coords": [
+                        42.200556,
+                        11.036111
+                  ]
+            },
+            {
+                  "name": "Alondoura",
+                  "text": "Un vârf impunător situat în regiunea montană înaltă Yaguer.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "Moud‘oud Lé Kôma",
+                  "text": "Moud‘oud Lé Kôma este un vârf proeminent care se înalță brusc din ținuturile muntoase accidentate Yaguer.",
+                  "category": "natural",
+                  "coords": [
+                        42.168333,
+                        11.161389
+                  ]
+            },
+            {
+                  "name": "Yangoula Kôma",
+                  "text": "Yangoula Kôma servește drept punct de belvedere stâncos natural cu vedere la platoul extins Yaguer.",
+                  "category": "natural",
+                  "coords": [
+                        42.191389,
+                        11.1625
+                  ]
+            },
+            {
+                  "name": "Ḏinamali",
+                  "text": "Vârful Dinamali conturează orizontul muntos și arid al reliefului Yaguer.",
+                  "category": "natural",
+                  "coords": [
+                        42.192222,
+                        11.115556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "‘Anâbo Kôma",
+                  "text": "A notable mountain summit located in the rugged terrain of the Yaguer highlands.",
+                  "category": "natural",
+                  "coords": [
+                        42.2775,
+                        11.057778
+                  ]
+            },
+            {
+                  "name": "Diksa Ḏêré",
+                  "text": "A prominent elevation forming part of the Yaguer highland relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.206389,
+                        11.061944
+                  ]
+            },
+            {
+                  "name": "Gêlle Djîḏe",
+                  "text": "A mountain peak contributing to the dramatic landscape of the Yaguer highlands.",
+                  "category": "natural",
+                  "coords": [
+                        42.200556,
+                        11.036111
+                  ]
+            },
+            {
+                  "name": "Alondoura",
+                  "text": "A towering summit situated within the elevated Yaguer highland region.",
+                  "category": "natural",
+                  "coords": [
+                        42.216667,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "Moud‘oud Lé Kôma",
+                  "text": "Moud‘oud Lé Kôma is a prominent peak rising abruptly from the rugged Yaguer highlands.",
+                  "category": "natural",
+                  "coords": [
+                        42.168333,
+                        11.161389
+                  ]
+            },
+            {
+                  "name": "Yangoula Kôma",
+                  "text": "Yangoula Kôma serves as a natural rocky viewpoint overlooking the expansive Yaguer plateau.",
+                  "category": "natural",
+                  "coords": [
+                        42.191389,
+                        11.1625
+                  ]
+            },
+            {
+                  "name": "Dinamali",
+                  "text": "The peak of Dinamali shapes the dry mountainous horizon of the Yaguer relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.192222,
+                        11.115556
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-DI",
     coords: [42.2, 11.1],
@@ -723,7 +4242,700 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "doda-ebene-relief-v2",
+    id: "doda-ebene-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sagmouden",
+                  "text": "Sagmouden ist ein markanter Berggipfel in der Reliefregion Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        43.030027,
+                        12.275231
+                  ]
+            },
+            {
+                  "name": "Darmale",
+                  "text": "Darmale ist ein Berggipfel, der die umliegende Landschaft der Doda Ebene prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.991535,
+                        12.269742
+                  ]
+            },
+            {
+                  "name": "‘Asa H̱arka",
+                  "text": "‘Asa H̱arka ist ein natürlicher Berggipfel in der Reliefregion Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.970583,
+                        12.279477
+                  ]
+            },
+            {
+                  "name": "‘Êrolli",
+                  "text": "‘Êrolli ist ein markanter Berggipfel in der Reliefregion Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.965847,
+                        12.228431
+                  ]
+            },
+            {
+                  "name": "Sarârou",
+                  "text": "Sarârou ist ein Berggipfel, der die umliegende Landschaft der Doda Ebene prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.955302,
+                        12.221065
+                  ]
+            },
+            {
+                  "name": "Wakir",
+                  "text": "Wakir ist ein natürlicher Berggipfel in der Reliefregion Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.942772,
+                        12.167691
+                  ]
+            },
+            {
+                  "name": "‘Asa Mabouk",
+                  "text": "`Asa Mabouk ist ein markanter Berggipfel in der Reliefregion Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.96893,
+                        12.174546
+                  ]
+            },
+            {
+                  "name": "Waddi ‘Ale",
+                  "text": "Waddi ‘Ale ist ein Berggipfel, der die umliegende Landschaft der Doda Ebene prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.015863,
+                        12.138245
+                  ]
+            },
+            {
+                  "name": "Goubta",
+                  "text": "Ein zerklüfteter Gipfel, der sich über die trockene Weite der Doda-Ebene erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.014774,
+                        12.148445
+                  ]
+            },
+            {
+                  "name": "Nounkak‘ide Bôlo",
+                  "text": "Ein markanter Wüstenberg, der Teil der felsigen Skyline der Doda-Ebene ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.044319,
+                        12.183964
+                  ]
+            },
+            {
+                  "name": "Mabouk",
+                  "text": "Ein steiniger Gipfel, der einen weiten Blick über die sonnenverwöhnte Doda-Ebene bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.98737,
+                        12.18755
+                  ]
+            },
+            {
+                  "name": "Eger‘aleyta",
+                  "text": "Ein abgelegener Berggipfel, der sich dramatisch aus dem umliegenden Flachland der Doda-Ebene erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.007315,
+                        12.207658
+                  ]
+            },
+            {
+                  "name": "Yarde Maḏig",
+                  "text": "Ein trockener, hochgelegener Gipfel, der den weiten Horizont der Wüstenregion Doda durchbricht.",
+                  "category": "natural",
+                  "coords": [
+                        42.980236,
+                        12.238748
+                  ]
+            },
+            {
+                  "name": "Goursa",
+                  "text": "Eine zerklüftete Hügelkuppe mit Panoramablick über das trockene Relief der Doda-Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        43.010825,
+                        12.251664
+                  ]
+            },
+            {
+                  "name": "Al‘aytale",
+                  "text": "Ein karger Wüstengipfel, der hoch über dem rauen Terrain der Doda-Ebene aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.010357,
+                        12.235623
+                  ]
+            },
+            {
+                  "name": "Datbasôma",
+                  "text": "Eine felsige Wüstenbergkuppe, die charakteristisch für die dramatischen geologischen Formationen der Doda-Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.032177,
+                        12.259362
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "Ein isolierter Gipfel, der aus den trockenen Ebenen von Doda herausragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.025049,
+                        12.221617
+                  ]
+            },
+            {
+                  "name": "Gardeïma",
+                  "text": "Ein steiler, steiniger Gipfel, der sich scharf von der umliegenden Doda-Ebene abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        12.233333
+                  ]
+            },
+            {
+                  "name": "Falka",
+                  "text": "Ein markanter Wüstengipfel, der die weite, sonnenüberflutete Fläche der Doda-Ebene überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        43.090164,
+                        12.21728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sagmouden",
+                  "text": "A Sagmouden egy jellegzetes hegycsúcs a Doda Ebene domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.030027,
+                        12.275231
+                  ]
+            },
+            {
+                  "name": "Darmale",
+                  "text": "A Darmale egy hegycsúcs, amely a Doda Ebene környező táját határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        42.991535,
+                        12.269742
+                  ]
+            },
+            {
+                  "name": "‘Asa H̱arka",
+                  "text": "Az ‘Asa H̱arka egy természetes hegycsúcs a Doda Ebene domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        42.970583,
+                        12.279477
+                  ]
+            },
+            {
+                  "name": "‘Êrolli",
+                  "text": "Az ‘Êrolli egy jellegzetes hegycsúcs a Doda Ebene domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        42.965847,
+                        12.228431
+                  ]
+            },
+            {
+                  "name": "Sarârou",
+                  "text": "A Sarârou egy hegycsúcs, amely a Doda Ebene környező táját határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        42.955302,
+                        12.221065
+                  ]
+            },
+            {
+                  "name": "Wakir",
+                  "text": "A Wakir egy természetes hegycsúcs a Doda Ebene domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        42.942772,
+                        12.167691
+                  ]
+            },
+            {
+                  "name": "‘Asa Mabouk",
+                  "text": "Az `Asa Mabouk egy jellegzetes hegycsúcs a Doda Ebene domborzati régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        42.96893,
+                        12.174546
+                  ]
+            },
+            {
+                  "name": "Waddi ‘Ale",
+                  "text": "A Waddi ‘Ale egy hegycsúcs, amely a Doda Ebene környező táját határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        43.015863,
+                        12.138245
+                  ]
+            },
+            {
+                  "name": "Goubta",
+                  "text": "Egy zord hegycsúcs, amely a Doda-síkság kietlen pusztasága fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.014774,
+                        12.148445
+                  ]
+            },
+            {
+                  "name": "Nounkak‘ide Bôlo",
+                  "text": "Egy kiemelkedő sivatagi hegy, amely a Doda-síkság sziklás látképének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.044319,
+                        12.183964
+                  ]
+            },
+            {
+                  "name": "Mabouk",
+                  "text": "Egy köves hegycsúcs, amely széleskörű kilátást nyújt a napsütötte Doda-síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        42.98737,
+                        12.18755
+                  ]
+            },
+            {
+                  "name": "Eger‘aleyta",
+                  "text": "Egy távoli hegycsúcs, amely drámaian emelkedik ki a Doda-síkság környező lapályaiból.",
+                  "category": "natural",
+                  "coords": [
+                        43.007315,
+                        12.207658
+                  ]
+            },
+            {
+                  "name": "Yarde Maḏig",
+                  "text": "Egy száraz, magashegyi csúcs, amely megtöri a Doda sivatagi régió hatalmas horizontját.",
+                  "category": "natural",
+                  "coords": [
+                        42.980236,
+                        12.238748
+                  ]
+            },
+            {
+                  "name": "Goursa",
+                  "text": "Egy zord hegytető, amely panorámás kilátást nyújt a Doda-síkság száraz domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        43.010825,
+                        12.251664
+                  ]
+            },
+            {
+                  "name": "Al‘aytale",
+                  "text": "Egy kopár sivatagi csúcs, amely magasan a Doda-síkság zord terepe fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.010357,
+                        12.235623
+                  ]
+            },
+            {
+                  "name": "Datbasôma",
+                  "text": "Egy sziklás sivatagi hegycsúcs, amely jellemző a Doda régió drámai geológiai képződményeire.",
+                  "category": "natural",
+                  "coords": [
+                        43.032177,
+                        12.259362
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "Egy elszigetelt hegycsúcs, amely kiemelkedik Doda kietlen síkságából.",
+                  "category": "natural",
+                  "coords": [
+                        43.025049,
+                        12.221617
+                  ]
+            },
+            {
+                  "name": "Gardeïma",
+                  "text": "Egy meredek, köves hegycsúcs, amely élesen emelkedik ki a környező Doda-síkságból.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        12.233333
+                  ]
+            },
+            {
+                  "name": "Falka",
+                  "text": "Egy kiemelkedő sivatagi csúcs, amely a Doda-síkság hatalmas, napsütötte kiterjedésére néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.090164,
+                        12.21728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sagmouden",
+                  "text": "Sagmouden este un vârf muntos distinct situat în regiunea de relief Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        43.030027,
+                        12.275231
+                  ]
+            },
+            {
+                  "name": "Darmale",
+                  "text": "Darmale este un vârf muntos care domină peisajul înconjurător din Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.991535,
+                        12.269742
+                  ]
+            },
+            {
+                  "name": "‘Asa H̱arka",
+                  "text": "‘Asa H̱arka este un vârf muntos natural situat în regiunea de relief Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.970583,
+                        12.279477
+                  ]
+            },
+            {
+                  "name": "‘Êrolli",
+                  "text": "‘Êrolli este un vârf muntos distinct situat în regiunea de relief Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.965847,
+                        12.228431
+                  ]
+            },
+            {
+                  "name": "Sarârou",
+                  "text": "Sarârou este un vârf muntos care domină peisajul înconjurător din Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.955302,
+                        12.221065
+                  ]
+            },
+            {
+                  "name": "Wakir",
+                  "text": "Wakir este un vârf muntos natural situat în regiunea de relief Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.942772,
+                        12.167691
+                  ]
+            },
+            {
+                  "name": "‘Asa Mabouk",
+                  "text": "`Asa Mabouk este un vârf muntos distinct situat în regiunea de relief Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.96893,
+                        12.174546
+                  ]
+            },
+            {
+                  "name": "Waddi ‘Ale",
+                  "text": "Waddi ‘Ale este un vârf muntos care domină peisajul înconjurător din Doda Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        43.015863,
+                        12.138245
+                  ]
+            },
+            {
+                  "name": "Goubta",
+                  "text": "Un vârf accidentat care se înalță deasupra întinderii aride a câmpiei Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.014774,
+                        12.148445
+                  ]
+            },
+            {
+                  "name": "Nounkak‘ide Bôlo",
+                  "text": "Un munte proeminent deșertic care face parte din orizontul stâncos al câmpiei Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.044319,
+                        12.183964
+                  ]
+            },
+            {
+                  "name": "Mabouk",
+                  "text": "Un vârf pietros care oferă o panoramă largă asupra câmpiei Doda scăldate în soare.",
+                  "category": "natural",
+                  "coords": [
+                        42.98737,
+                        12.18755
+                  ]
+            },
+            {
+                  "name": "Eger‘aleyta",
+                  "text": "Un vârf de munte izolat care se înalță dramatic din câmpiile înconjurătoare ale zonei Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.007315,
+                        12.207658
+                  ]
+            },
+            {
+                  "name": "Yarde Maḏig",
+                  "text": "Un vârf uscat, la mare altitudine, care întrerupe orizontul vast al regiunii deșertice Doda.",
+                  "category": "natural",
+                  "coords": [
+                        42.980236,
+                        12.238748
+                  ]
+            },
+            {
+                  "name": "Goursa",
+                  "text": "Un vârf de deal accidentat, oferind vederi panoramice peste relieful uscat al câmpiei Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.010825,
+                        12.251664
+                  ]
+            },
+            {
+                  "name": "Al‘aytale",
+                  "text": "Un vârf deșertic sterp care se înalță impunător deasupra terenului aspru al câmpiei Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.010357,
+                        12.235623
+                  ]
+            },
+            {
+                  "name": "Datbasôma",
+                  "text": "Un vârf de munte stâncos și deșertic, caracteristic formațiunilor geologice dramatice din regiunea Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.032177,
+                        12.259362
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "Un vârf izolat care se proiectează din câmpiile aride ale regiunii Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.025049,
+                        12.221617
+                  ]
+            },
+            {
+                  "name": "Gardeïma",
+                  "text": "Un vârf abrupt și pietros care se înalță brusc din câmpia înconjurătoare Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        12.233333
+                  ]
+            },
+            {
+                  "name": "Falka",
+                  "text": "Un vârf deșertic proeminent care domină întinderea vastă și însorită a câmpiei Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.090164,
+                        12.21728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sagmouden",
+                  "text": "Sagmouden is a distinct mountain peak located within the Doda Ebene relief region.",
+                  "category": "natural",
+                  "coords": [
+                        43.030027,
+                        12.275231
+                  ]
+            },
+            {
+                  "name": "Darmale",
+                  "text": "Darmale is a mountain peak that shapes the surrounding landscape of the Doda Ebene region.",
+                  "category": "natural",
+                  "coords": [
+                        42.991535,
+                        12.269742
+                  ]
+            },
+            {
+                  "name": "‘Asa H̱arka",
+                  "text": "‘Asa H̱arka is a natural mountain peak situated in the Doda Ebene relief area.",
+                  "category": "natural",
+                  "coords": [
+                        42.970583,
+                        12.279477
+                  ]
+            },
+            {
+                  "name": "‘Êrolli",
+                  "text": "‘Êrolli is a distinct mountain peak located within the Doda Ebene relief region.",
+                  "category": "natural",
+                  "coords": [
+                        42.965847,
+                        12.228431
+                  ]
+            },
+            {
+                  "name": "Sarârou",
+                  "text": "Sarârou is a mountain peak that shapes the surrounding landscape of the Doda Ebene region.",
+                  "category": "natural",
+                  "coords": [
+                        42.955302,
+                        12.221065
+                  ]
+            },
+            {
+                  "name": "Wakir",
+                  "text": "Wakir is a natural mountain peak situated in the Doda Ebene relief area.",
+                  "category": "natural",
+                  "coords": [
+                        42.942772,
+                        12.167691
+                  ]
+            },
+            {
+                  "name": "`Asa Mabouk",
+                  "text": "`Asa Mabouk is a distinct mountain peak located within the Doda Ebene relief region.",
+                  "category": "natural",
+                  "coords": [
+                        42.96893,
+                        12.174546
+                  ]
+            },
+            {
+                  "name": "Waddi ‘Ale",
+                  "text": "Waddi ‘Ale is a mountain peak that shapes the surrounding landscape of the Doda Ebene region.",
+                  "category": "natural",
+                  "coords": [
+                        43.015863,
+                        12.138245
+                  ]
+            },
+            {
+                  "name": "Goubta",
+                  "text": "A rugged summit rising above the arid expanse of the Doda plain.",
+                  "category": "natural",
+                  "coords": [
+                        43.014774,
+                        12.148445
+                  ]
+            },
+            {
+                  "name": "Nounkak‘ide Bôlo",
+                  "text": "A prominent desert mountain forming part of the Doda plain's rocky skyline.",
+                  "category": "natural",
+                  "coords": [
+                        43.044319,
+                        12.183964
+                  ]
+            },
+            {
+                  "name": "Mabouk",
+                  "text": "A stony peak providing a sweeping vantage point over the sun-baked Doda plain.",
+                  "category": "natural",
+                  "coords": [
+                        42.98737,
+                        12.18755
+                  ]
+            },
+            {
+                  "name": "Eger‘aleyta",
+                  "text": "A remote mountain summit rising dramatically from the surrounding flatlands of the Doda plain.",
+                  "category": "natural",
+                  "coords": [
+                        43.007315,
+                        12.207658
+                  ]
+            },
+            {
+                  "name": "Yarde Maḏig",
+                  "text": "A dry, elevated peak that breaks the vast horizon of the Doda desert region.",
+                  "category": "natural",
+                  "coords": [
+                        42.980236,
+                        12.238748
+                  ]
+            },
+            {
+                  "name": "Goursa",
+                  "text": "A rugged hilltop offering panoramic views across the dry relief of the Doda plain.",
+                  "category": "natural",
+                  "coords": [
+                        43.010825,
+                        12.251664
+                  ]
+            },
+            {
+                  "name": "Al`aytale",
+                  "text": "A barren desert summit standing tall above the harsh terrain of the Doda plain.",
+                  "category": "natural",
+                  "coords": [
+                        43.010357,
+                        12.235623
+                  ]
+            },
+            {
+                  "name": "Datbasôma",
+                  "text": "A rocky desert mountaintop characteristic of the dramatic geological formations of the Doda region.",
+                  "category": "natural",
+                  "coords": [
+                        43.032177,
+                        12.259362
+                  ]
+            },
+            {
+                  "name": "Ouḏ ‘Ale",
+                  "text": "An isolated summit projecting from the arid plains of Doda.",
+                  "category": "natural",
+                  "coords": [
+                        43.025049,
+                        12.221617
+                  ]
+            },
+            {
+                  "name": "Gardeïma",
+                  "text": "A steep, stony peak rising sharply from the surrounding Doda plain.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        12.233333
+                  ]
+            },
+            {
+                  "name": "Falka",
+                  "text": "A prominent desert peak that overlooks the vast, sun-drenched expanse of the Doda plain.",
+                  "category": "natural",
+                  "coords": [
+                        43.090164,
+                        12.21728
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DJ-OB",
     coords: [43.0, 12.2],
@@ -819,7 +5031,88 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "ghoubbet-klippen-relief-v2",
+    id: "ghoubbet-klippen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inâ‘ito",
+                  "text": "Inâ‘ito ist ein markanter Gipfel, der das dramatische, steile Relief der Ghoubbet-Klippenformationen prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.659167,
+                        11.623333
+                  ]
+            },
+            {
+                  "name": "Yangoula Ḏalou‘",
+                  "text": "Der felsige Gipfel des Yangoula Ḏalou‘ ist ein wichtiges geografisches Merkmal innerhalb des beeindruckenden Ghoubbet-Klippenreliefs.",
+                  "category": "natural",
+                  "coords": [
+                        42.681667,
+                        11.6125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inâ‘ito",
+                  "text": "Az Inâ‘ito egy kiemelkedő csúcs, amely a Ghoubbet sziklaformációinak drámai, meredek domborzatát formálja.",
+                  "category": "natural",
+                  "coords": [
+                        42.659167,
+                        11.623333
+                  ]
+            },
+            {
+                  "name": "Yangoula Ḏalou‘",
+                  "text": "A Yangoula Ḏalou‘ sziklás csúcsa egy kulcsfontosságú földrajzi jellemző a lenyűgöző Ghoubbet-szikla domborzatában.",
+                  "category": "natural",
+                  "coords": [
+                        42.681667,
+                        11.6125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inâ‘ito",
+                  "text": "Inâ‘ito este un vârf proeminent care modelează relieful dramatic și abrupt al formațiunilor de stânci Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.659167,
+                        11.623333
+                  ]
+            },
+            {
+                  "name": "Yangoula Ḏalou‘",
+                  "text": "Vârful stâncos Yangoula Ḏalou‘ este o caracteristică geografică cheie în impresionantul relief de stânci Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.681667,
+                        11.6125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inâ‘ito",
+                  "text": "Inâ‘ito is a prominent peak shaping the dramatic, sheer relief of the Ghoubbet klippen formations.",
+                  "category": "natural",
+                  "coords": [
+                        42.659167,
+                        11.623333
+                  ]
+            },
+            {
+                  "name": "Yangoula Ḏalou‘",
+                  "text": "The rocky summit of Yangoula Ḏalou‘ is a key geographical feature within the impressive Ghoubbet cliff relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.681667,
+                        11.6125
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DJ-AR",
     coords: [42.7, 11.6],
@@ -867,7 +5160,772 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     },
   },
   {
-    id: "adailou-tal-relief-v2",
+    id: "adailou-tal-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dogohta ‘Alé",
+                  "text": "Ein zerklüfteter Berggipfel, der über die steilen, felsigen Hänge des Adailou-Tals ragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.791389,
+                        11.984444
+                  ]
+            },
+            {
+                  "name": "Bayreri",
+                  "text": "Ein dramatischer Gipfel, der Teil der erhöhten Kämme ist, die das malerische Adailou-Tal umschließen.",
+                  "category": "natural",
+                  "coords": [
+                        42.766944,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Morô‘i",
+                  "text": "Ein markanter Berg, der die tiefen, trockenen Schluchten des Adailou-Tals überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        42.747404,
+                        12.022364
+                  ]
+            },
+            {
+                  "name": "Garbi Kôma",
+                  "text": "Ein steiler, felsiger Gipfel, der hoch über das zerklüftete Terrain des Adailou-Tals aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.742778,
+                        11.994722
+                  ]
+            },
+            {
+                  "name": "Doûdi ‘Ale",
+                  "text": "Ein isolierter Gipfel, der einen Panoramablick über die gewundenen Canyons des Adailou-Tals bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.729722,
+                        11.989167
+                  ]
+            },
+            {
+                  "name": "Dakkari",
+                  "text": "Ein markanter felsiger Aufschluss, charakteristisch für die dramatische Topografie im Adailou-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        42.735234,
+                        12.004687
+                  ]
+            },
+            {
+                  "name": "Mélé",
+                  "text": "Ein hoch aufragender Gipfel, der die bergige Skyline rund um das Adailou-Tal prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Siridle",
+                  "text": "Ein felsiger Hochpunkt, der markant über den tiefen Schluchten der Adailou-Region thront.",
+                  "category": "natural",
+                  "coords": [
+                        42.675,
+                        11.966389
+                  ]
+            },
+            {
+                  "name": "Sokto",
+                  "text": "Ein zerklüfteter Berggipfel, der einen weiten Blick über die steilen, sonnenverwöhnten Hänge von Adailou bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.672222,
+                        11.932222
+                  ]
+            },
+            {
+                  "name": "‘Islé",
+                  "text": "Ein karger Gipfel, der sich über das komplexe Netzwerk trockener Flussbetten im Adailou-Tal erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.739167,
+                        11.894722
+                  ]
+            },
+            {
+                  "name": "Erregle",
+                  "text": "Eine steile Felsformation, die sich dramatisch aus den schroffen Landschaften des Adailou-Tals erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.726389,
+                        11.906111
+                  ]
+            },
+            {
+                  "name": "Gerra‘a",
+                  "text": "Ein markanter Gipfel mit Blick auf die dramatischen geologischen Verwerfungen des Geländes im Adailou-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        42.704444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gurmud",
+                  "text": "Ein zerklüfteter und hoher Gipfel, der Teil der natürlichen Begrenzung des Adailou-Tals ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.686667,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Taranta",
+                  "text": "Ein steiler Berg, der eine beeindruckende Aussicht auf das trockene, weitläufige Relief des Adailou-Tals bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Goum‘ou",
+                  "text": "Ein steiniger Gipfel, der hoch über die zerklüfteten Klippen und Täler der Region Adailou aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.734444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gâlaloyti Kôma",
+                  "text": "Ein karger, hoch aufragender Gipfel, der den bergigen Horizont des Adailou-Tals dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.7925,
+                        11.943056
+                  ]
+            },
+            {
+                  "name": "‘Able Dâba",
+                  "text": "Ein dramatischer Felsgipfel, der abrupt aus den steilen, trockenen Hängen um Adailou aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.779722,
+                        11.970833
+                  ]
+            },
+            {
+                  "name": "Darkayna",
+                  "text": "Dieser markante Gipfel erhebt sich über das Adailou-Tal und ist Teil des rauen, hügeligen Reliefs der Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.775,
+                        11.958333
+                  ]
+            },
+            {
+                  "name": "Ḏawaylou",
+                  "text": "Dieser felsige Gipfel bietet einen weiten Blick über das karge Gelände des Adailou-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        42.775278,
+                        11.951667
+                  ]
+            },
+            {
+                  "name": "Loubak ‘Alé",
+                  "text": "Diese natürliche Erhebung hoch oben im Adailou-Tal trägt zum dramatischen, schroffen Horizont der Gegend bei.",
+                  "category": "natural",
+                  "coords": [
+                        42.774722,
+                        11.896944
+                  ]
+            },
+            {
+                  "name": "Idgo",
+                  "text": "Dieser von steilen Hängen geprägte Gipfel überblickt die gewundenen, trockenen Flussbetten des Adailou-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        42.756111,
+                        11.901667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dogohta ‘Alé",
+                  "text": "Egy zord hegycsúcs, amely az Adailou-völgy meredek, sziklás lejtői fölé tornyosul.",
+                  "category": "natural",
+                  "coords": [
+                        42.791389,
+                        11.984444
+                  ]
+            },
+            {
+                  "name": "Bayreri",
+                  "text": "Egy drámai hegycsúcs, amely a festői Adailou-völgyet körülölelő magaslati gerincek részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.766944,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Morô‘i",
+                  "text": "Egy kiemelkedő hegy, amely az Adailou-völgy mély, száraz szurdokaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.747404,
+                        12.022364
+                  ]
+            },
+            {
+                  "name": "Garbi Kôma",
+                  "text": "Egy meredek, sziklás hegycsúcs, amely magasan az Adailou-völgy zord domborzata fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.742778,
+                        11.994722
+                  ]
+            },
+            {
+                  "name": "Doûdi ‘Ale",
+                  "text": "Egy elszigetelt hegycsúcs, amely panorámás kilátást nyújt az Adailou-völgy kanyargós kanyonjaira.",
+                  "category": "natural",
+                  "coords": [
+                        42.729722,
+                        11.989167
+                  ]
+            },
+            {
+                  "name": "Dakkari",
+                  "text": "Egy jellegzetes hegyvidéki kiemelkedés, amely az Adailou-völgy drámai domborzatára jellemző.",
+                  "category": "natural",
+                  "coords": [
+                        42.735234,
+                        12.004687
+                  ]
+            },
+            {
+                  "name": "Mélé",
+                  "text": "Egy magasba törő hegycsúcs, amely megtöri az Adailou-völgyet körülvevő hegyvidéki sziluettet.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Siridle",
+                  "text": "Egy sziklás magaslat, amely kiemelkedően magasodik az Adailou régió mély szakadékai fölé.",
+                  "category": "natural",
+                  "coords": [
+                        42.675,
+                        11.966389
+                  ]
+            },
+            {
+                  "name": "Sokto",
+                  "text": "Egy zord hegycsúcs, amely lenyűgöző kilátást biztosít Adailou meredek, napsütötte lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        42.672222,
+                        11.932222
+                  ]
+            },
+            {
+                  "name": "‘Islé",
+                  "text": "Egy kopár hegycsúcs, amely az Adailou-völgy kiszáradt folyómedreinek bonyolult hálózata fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.739167,
+                        11.894722
+                  ]
+            },
+            {
+                  "name": "Erregle",
+                  "text": "Egy meredek sziklaképződmény, amely drámaian emelkedik ki az Adailou-völgy sziklás tájaiból.",
+                  "category": "natural",
+                  "coords": [
+                        42.726389,
+                        11.906111
+                  ]
+            },
+            {
+                  "name": "Gerra‘a",
+                  "text": "Egy kiemelkedő hegycsúcs, amely az Adailou-völgy terepének drámai geológiai eltolódásaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.704444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gurmud",
+                  "text": "Egy zord és magas hegycsúcs, amely az Adailou-völgy természetes határának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.686667,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Taranta",
+                  "text": "Egy meredek hegy, amely fenséges kilátást nyújt az Adailou-völgy száraz, kiterjedt domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Goum‘ou",
+                  "text": "Egy köves hegycsúcs, amely magasan az Adailou régió zord sziklái és völgyei fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.734444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gâlaloyti Kôma",
+                  "text": "Egy kopár, tornyosuló hegycsúcs, amely uralja az Adailou-völgy hegyvidéki horizontját.",
+                  "category": "natural",
+                  "coords": [
+                        42.7925,
+                        11.943056
+                  ]
+            },
+            {
+                  "name": "‘Able Dâba",
+                  "text": "Egy drámai sziklacsúcs, amely hirtelen emelkedik ki az Adailou-t körülvevő meredek, száraz lejtőkből.",
+                  "category": "natural",
+                  "coords": [
+                        42.779722,
+                        11.970833
+                  ]
+            },
+            {
+                  "name": "Darkayna",
+                  "text": "Az Adailou-völgy fölé magasodó hegycsúcs a régió zord, hullámzó domborzatának része.",
+                  "category": "natural",
+                  "coords": [
+                        42.775,
+                        11.958333
+                  ]
+            },
+            {
+                  "name": "Ḏawaylou",
+                  "text": "Ez a sziklás csúcs lenyűgöző kilátást nyújt az Adailou-völgy zord terepére.",
+                  "category": "natural",
+                  "coords": [
+                        42.775278,
+                        11.951667
+                  ]
+            },
+            {
+                  "name": "Loubak ‘Alé",
+                  "text": "Az Adailou-völgyben magasan kiemelkedő természeti képződmény hozzájárul a terület drámai, zord horizontjához.",
+                  "category": "natural",
+                  "coords": [
+                        42.774722,
+                        11.896944
+                  ]
+            },
+            {
+                  "name": "Idgo",
+                  "text": "A meredek lejtőkkel jellemezhető csúcs az Adailou-völgy kanyargós, kiszáradt folyómedreire néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.756111,
+                        11.901667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dogohta ‘Alé",
+                  "text": "Un vârf de munte accidentat care se înalță deasupra pantelor abrupte și stâncoase ale văii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.791389,
+                        11.984444
+                  ]
+            },
+            {
+                  "name": "Bayreri",
+                  "text": "Un vârf dramatic care face parte din crestele înalte ce înconjoară pitoreasca vale Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.766944,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Morô‘i",
+                  "text": "Un munte proeminent care domină defileele adânci și aride ale văii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.747404,
+                        12.022364
+                  ]
+            },
+            {
+                  "name": "Garbi Kôma",
+                  "text": "Un vârf abrupt și stâncos, care se înalță mult deasupra terenului accidentat din valea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.742778,
+                        11.994722
+                  ]
+            },
+            {
+                  "name": "Doûdi ‘Ale",
+                  "text": "Un vârf izolat care oferă vederi panoramice peste canioanele șerpuitoare ale văii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.729722,
+                        11.989167
+                  ]
+            },
+            {
+                  "name": "Dakkari",
+                  "text": "Un afloriment muntos distinct, caracteristic topografiei dramatice găsite în valea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.735234,
+                        12.004687
+                  ]
+            },
+            {
+                  "name": "Mélé",
+                  "text": "Un vârf avântat care punctează orizontul muntos ce înconjoară valea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Siridle",
+                  "text": "Un punct înalt și stâncos, care se înalță proeminent deasupra râpelor adânci din regiunea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.675,
+                        11.966389
+                  ]
+            },
+            {
+                  "name": "Sokto",
+                  "text": "Un vârf de munte accidentat, oferind o panoramă vastă asupra pantelor abrupte și însorite din Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.672222,
+                        11.932222
+                  ]
+            },
+            {
+                  "name": "‘Islé",
+                  "text": "Un vârf sterp care se înalță deasupra rețelei complexe de albii uscate din valea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.739167,
+                        11.894722
+                  ]
+            },
+            {
+                  "name": "Erregle",
+                  "text": "O formațiune stâncoasă abruptă care se ridică dramatic din peisajele stâncoase ale văii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.726389,
+                        11.906111
+                  ]
+            },
+            {
+                  "name": "Gerra‘a",
+                  "text": "Un vârf proeminent care domină schimbările geologice dramatice ale terenului din valea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.704444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gurmud",
+                  "text": "Un vârf accidentat și înalt care face parte din granița naturală a văii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.686667,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Taranta",
+                  "text": "Un munte abrupt care oferă vederi impunătoare asupra reliefului arid și vast al văii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Goum‘ou",
+                  "text": "Un vârf pietros care se înalță mult deasupra stâncilor și văilor accidentate ale regiunii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.734444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gâlaloyti Kôma",
+                  "text": "Un vârf sterp și impunător care domină orizontul muntos al văii Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.7925,
+                        11.943056
+                  ]
+            },
+            {
+                  "name": "‘Able Dâba",
+                  "text": "Un vârf stâncos dramatic care se ridică brusc din pantele abrupte și uscate care înconjoară Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.779722,
+                        11.970833
+                  ]
+            },
+            {
+                  "name": "Darkayna",
+                  "text": "Ridicându-se deasupra văii Adailou, acest vârf proeminent face parte din relieful accidentat și vălurit al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        42.775,
+                        11.958333
+                  ]
+            },
+            {
+                  "name": "Ḏawaylou",
+                  "text": "Acest vârf stâncos oferă o panoramă vastă asupra terenului arid din valea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.775278,
+                        11.951667
+                  ]
+            },
+            {
+                  "name": "Loubak ‘Alé",
+                  "text": "Această elevație naturală din valea Adailou contribuie la orizontul dramatic și accidentat al zonei.",
+                  "category": "natural",
+                  "coords": [
+                        42.774722,
+                        11.896944
+                  ]
+            },
+            {
+                  "name": "Idgo",
+                  "text": "Caracterizat de versanții săi abrupți, acest vârf domină albiile șerpuite și uscate ale râurilor din valea Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.756111,
+                        11.901667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dogohta `Ale",
+                  "text": "A rugged mountain peak towering above the steep, rocky slopes of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.791389,
+                        11.984444
+                  ]
+            },
+            {
+                  "name": "Bayreri",
+                  "text": "A dramatic summit that forms part of the elevated ridges enclosing the scenic Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.766944,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Morô‘i",
+                  "text": "A prominent mountain overlooking the deep, arid gorges of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.747404,
+                        12.022364
+                  ]
+            },
+            {
+                  "name": "Garbi Kôma",
+                  "text": "A steep, rocky summit rising high above the rugged terrain of the Adailou valley relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.742778,
+                        11.994722
+                  ]
+            },
+            {
+                  "name": "Doûdi ‘Ale",
+                  "text": "An isolated peak offering panoramic views over the winding canyons of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.729722,
+                        11.989167
+                  ]
+            },
+            {
+                  "name": "Dakkari",
+                  "text": "A distinct mountainous outcrop characteristic of the dramatic topography found in the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.735234,
+                        12.004687
+                  ]
+            },
+            {
+                  "name": "Mélé",
+                  "text": "A soaring summit that punctuates the mountainous skyline surrounding the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.983333
+                  ]
+            },
+            {
+                  "name": "Siridle",
+                  "text": "A rocky high point standing prominently above the deep ravines of the Adailou region.",
+                  "category": "natural",
+                  "coords": [
+                        42.675,
+                        11.966389
+                  ]
+            },
+            {
+                  "name": "Sokto",
+                  "text": "A rugged mountain summit providing a sweeping vantage over the steep, sun-baked slopes of Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.672222,
+                        11.932222
+                  ]
+            },
+            {
+                  "name": "‘Islé",
+                  "text": "A barren peak towering above the intricate network of dry riverbeds in the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.739167,
+                        11.894722
+                  ]
+            },
+            {
+                  "name": "Erregle",
+                  "text": "A steep rock formation rising dramatically from the craggy landscapes of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.726389,
+                        11.906111
+                  ]
+            },
+            {
+                  "name": "Gerra‘a",
+                  "text": "A prominent summit overlooking the dramatic geological shifts of the Adailou valley's terrain.",
+                  "category": "natural",
+                  "coords": [
+                        42.704444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gurmud",
+                  "text": "A rugged and elevated peak that forms part of the natural boundary of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.686667,
+                        11.940833
+                  ]
+            },
+            {
+                  "name": "Taranta",
+                  "text": "A steep mountain offering commanding views of the arid, sweeping relief of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.7,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Goum`ou",
+                  "text": "A stony summit rising high above the rugged cliffs and valleys of the Adailou region.",
+                  "category": "natural",
+                  "coords": [
+                        42.734444,
+                        11.930278
+                  ]
+            },
+            {
+                  "name": "Gâlaloyti Kôma",
+                  "text": "A barren, towering peak that dominates the mountainous horizon of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.7925,
+                        11.943056
+                  ]
+            },
+            {
+                  "name": "‘Able Dâba",
+                  "text": "A dramatic rock peak rising abruptly from the steep, dry slopes surrounding Adailou.",
+                  "category": "natural",
+                  "coords": [
+                        42.779722,
+                        11.970833
+                  ]
+            },
+            {
+                  "name": "Darkayna",
+                  "text": "Rising above the Adailou valley, this prominent peak forms part of the region's rugged, undulating relief.",
+                  "category": "natural",
+                  "coords": [
+                        42.775,
+                        11.958333
+                  ]
+            },
+            {
+                  "name": "Dawaylou",
+                  "text": "This rocky summit offers a sweeping vantage point over the stark terrain of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.775278,
+                        11.951667
+                  ]
+            },
+            {
+                  "name": "Loubak ‘Alé",
+                  "text": "Standing tall in the Adailou valley, this natural elevation adds to the dramatic, rugged horizon of the area.",
+                  "category": "natural",
+                  "coords": [
+                        42.774722,
+                        11.896944
+                  ]
+            },
+            {
+                  "name": "Idgo",
+                  "text": "Characterized by its steep slopes, this peak overlooks the winding dry riverbeds of the Adailou valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.756111,
+                        11.901667
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DJ-TA",
     coords: [42.71, 11.95],

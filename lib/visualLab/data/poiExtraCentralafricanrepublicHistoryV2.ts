@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
   {
-    id: "sultanat-senoussi-history-v2",
+    id: "sultanat-senoussi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "Diese historische Festung in sultanat-senoussi-history-v2 ist der befestigte Palast (Tata) von Sultan Sénoussi.",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "Ez a sultanat-senoussi-history-v2-ben található történelmi erődítmény Szenusszi szultán megerősített palotája (Tata).",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "Această fortăreață istorică din sultanat-senoussi-history-v2 este palatul fortificat (Tata) al sultanului Sénoussi.",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "This historic fortress in sultanat-senoussi-history-v2 is the fortified palace (Tata) of Sultan Sénoussi.",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CF-BB",
     coords: [20.6550, 8.4120],
@@ -555,7 +600,52 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
       fr: ["Fut le théâtre d'une vive résistance de la part des tribus locales.", "Servait à sécuriser la production de coton.", "Emplacement stratégique sur les rives de la rivière Ouham.", "Seuls quelques fragments de murs subsistent aujourd'hui."],
     }, image: "/poi-images/fort-ouham-history-v2.webp"},
   {
-    id: "bangui-kolonialviertel-history-v2",
+    id: "bangui-kolonialviertel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des Nations Unies",
+                  "text": "Der Platz der Vereinten Nationen ist ein bedeutendes Denkmal im historischen Kolonialviertel von Bangui, das die internationale Diplomatie feiert.",
+                  "category": "historical",
+                  "coords": [
+                        18.561557,
+                        4.3657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des Nations Unies",
+                  "text": "A Place des Nations Unies egy jelentős emlékmű Bangui történelmi gyarmati negyedében, amely a nemzetközi diplomáciát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        18.561557,
+                        4.3657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des Nations Unies",
+                  "text": "Place des Nations Unies este un monument semnificativ din cartierul colonial istoric din Bangui, care celebrează diplomația internațională.",
+                  "category": "historical",
+                  "coords": [
+                        18.561557,
+                        4.3657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des Nations Unies",
+                  "text": "The Place des Nations Unies is a significant monument situated in Bangui's historic colonial quarter, celebrating international diplomacy in the heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        18.561557,
+                        4.3657
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CF-BGO",
     coords: [18.5590, 4.3620],
@@ -830,7 +920,52 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
       fr: ["Mobaye était un point stratégique face au Congo belge.", "Carrefour historique pour le commerce fluvial.", "Renferme les vestiges d'anciens comptoirs commerciaux.", "La région est riche en traditions orales de l'époque coloniale."],
     }, image: "/poi-images/mobaye-kolonialerbe-history-v2.webp"},
   {
-    id: "berberati-diamanten-erbe-history-v2",
+    id: "berberati-diamanten-erbe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Catholique",
+                  "text": "Das Centre Culturel Catholique in Berbérati ist ein wichtiges Kunst- und Kulturzentrum, das lokale Gemeinschaftsveranstaltungen in der diamantenreichen Region unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.791426,
+                        4.257895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Catholique",
+                  "text": "A berbérati Centre Culturel Catholique egy fontos művészeti és kulturális központ, amely a gyémántban gazdag régió helyi közösségi eseményeit támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.791426,
+                        4.257895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Catholique",
+                  "text": "Centre Culturel Catholique din Berbérati este un important centru artistic și cultural care sprijină evenimentele comunității locale din regiunea bogată în diamante.",
+                  "category": "cultural",
+                  "coords": [
+                        15.791426,
+                        4.257895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Catholique",
+                  "text": "The Centre Culturel Catholique in Berbérati is an important arts and cultural hub that supports local community events in the diamond-rich region.",
+                  "category": "cultural",
+                  "coords": [
+                        15.791426,
+                        4.257895
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CF-MK",
     coords: [15.7900, 4.2600],

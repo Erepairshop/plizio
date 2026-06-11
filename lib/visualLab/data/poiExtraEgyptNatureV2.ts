@@ -398,7 +398,160 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["La plus petite oasis habitée du désert occidental", "Le village principal de Qasr al-Farafra possède des ruines antiques", "Porte d'entrée du parc national du Désert Blanc", "Abrite la célèbre source sulfureuse Bir Sitta", "Population d'environ 10 000 habitants", "L'artisanat traditionnel et la culture bédouine sont bien présents"],
     }, image: "/poi-images/farafra-oase-lake-nature-v2.webp"},
   {
-    id: "dakhla-oase-lake-nature-v2",
+    id: "dakhla-oase-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Citadel of Mut",
+                  "text": "Die alte Zitadelle von Mut besteht aus den Ruinen einer historischen Lehmziegelfestung in der Oase Dachla.",
+                  "category": "castle",
+                  "coords": [
+                        28.980537,
+                        25.486293
+                  ]
+            },
+            {
+                  "name": "'Ain al-Sabil Church",
+                  "text": "Die archäologischen Überreste der 'Ain al-Sabil Kirche zeugen von der frühen christlichen Präsenz in dieser Wüstenoase.",
+                  "category": "historical",
+                  "coords": [
+                        29.083465,
+                        25.502692
+                  ]
+            },
+            {
+                  "name": "'Ain el-Gedida",
+                  "text": "'Ain el-Gedida ist eine archäologische Stätte, die die Ruinen eines landwirtschaftlichen Dorfes aus römischer Zeit birgt.",
+                  "category": "historical",
+                  "coords": [
+                        29.045166,
+                        25.539933
+                  ]
+            },
+            {
+                  "name": "Kellis",
+                  "text": "Kellis, heute als Ismant el-Kharab bekannt, ist ein antikes Ruinendorf aus der griechisch-römischen Zeit mit gut erhaltenen Lehmziegelmauern.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095215,
+                        25.516651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Citadel of Mut",
+                  "text": "A Mut régi fellegvára egy történelmi vályogtéglából épült erődítmény romjait foglalja magában a Dakhla-oázisban.",
+                  "category": "castle",
+                  "coords": [
+                        28.980537,
+                        25.486293
+                  ]
+            },
+            {
+                  "name": "'Ain al-Sabil Church",
+                  "text": "Az 'Ain al-Sabil templom régészeti maradványai a korai keresztény jelenlétet bizonyítják a sivatagi oázisban.",
+                  "category": "historical",
+                  "coords": [
+                        29.083465,
+                        25.502692
+                  ]
+            },
+            {
+                  "name": "'Ain el-Gedida",
+                  "text": "Az 'Ain el-Gedida egy római kori mezőgazdasági falu romjait rejtő régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        29.045166,
+                        25.539933
+                  ]
+            },
+            {
+                  "name": "Kellis",
+                  "text": "Kellis, mai nevén Iszmánt el-Harab, egy görög-római kori romfalu, amely jól megőrzött vályogtégla falaival vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095215,
+                        25.516651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Citadel of Mut",
+                  "text": "Vechea Citadelă din Mut constă din ruinele unei fortărețe istorice din cărămidă de noroi din Oaza Dakhla.",
+                  "category": "castle",
+                  "coords": [
+                        28.980537,
+                        25.486293
+                  ]
+            },
+            {
+                  "name": "'Ain al-Sabil Church",
+                  "text": "Ruinele arheologice ale bisericii 'Ain al-Sabil stau mărturie prezenței creștine timpurii în această oază deșertică.",
+                  "category": "historical",
+                  "coords": [
+                        29.083465,
+                        25.502692
+                  ]
+            },
+            {
+                  "name": "'Ain el-Gedida",
+                  "text": "'Ain el-Gedida este un sit arheologic care adăpostește ruinele unui sat agricol din epoca romană.",
+                  "category": "historical",
+                  "coords": [
+                        29.045166,
+                        25.539933
+                  ]
+            },
+            {
+                  "name": "Kellis",
+                  "text": "Kellis, cunoscut astăzi ca Ismant el-Kharab, este un sat antic în ruine din perioada greco-romană, cu ziduri din cărămidă de noroi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095215,
+                        25.516651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Citadel of Mut",
+                  "text": "The Old Citadel of Mut comprises the ruins of a historical mud-brick fortress located in the Dakhla Oasis.",
+                  "category": "castle",
+                  "coords": [
+                        28.980537,
+                        25.486293
+                  ]
+            },
+            {
+                  "name": "'Ain al-Sabil Church",
+                  "text": "The archaeological remains of the 'Ain al-Sabil Church serve as evidence of early Christian presence in the desert oasis.",
+                  "category": "historical",
+                  "coords": [
+                        29.083465,
+                        25.502692
+                  ]
+            },
+            {
+                  "name": "'Ain el-Gedida",
+                  "text": "'Ain el-Gedida is an archaeological site containing the ruins of a Roman-era agricultural village.",
+                  "category": "historical",
+                  "coords": [
+                        29.045166,
+                        25.539933
+                  ]
+            },
+            {
+                  "name": "Kellis",
+                  "text": "Kellis, now known as Ismant el-Kharab, is an ancient ruined village from the Greco-Roman period featuring mud-brick walls.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095215,
+                        25.516651
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EG-WAD",
     coords: [29.00, 25.50],
@@ -433,7 +586,268 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["La cité médiévale d'al-Qasr date du XIIe siècle", "Plus de 600 sources naturelles alimentent l'oasis", "Le temple de Deir el-Hagar a été construit sous l'empereur Néron", "La région est habitée en continu depuis le Néolithique", "Centre important sous l'Ancien Empire (mastaba de Balat)", "L'art traditionnel de la sculpture sur bois est préservé à al-Qasr"],
     }, image: "/poi-images/dakhla-oase-lake-nature-v2.webp"},
   {
-    id: "kharga-oase-lake-nature-v2",
+    id: "kharga-oase-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman fortress",
+                  "text": "Die Ruinen dieser römischen Festung schützten einst die Wüstenkarawanenrouten, die durch die Senke führten.",
+                  "category": "historical",
+                  "coords": [
+                        30.564143,
+                        25.469117
+                  ]
+            },
+            {
+                  "name": "Ain el-Charab (Ain et-Turba)",
+                  "text": "Ain el-Charab ist eine historische Ausgrabungsstätte in der Oase, die Überreste antiker Siedlungsstrukturen nahe einer einstigen Quelle umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        30.555974,
+                        25.48099
+                  ]
+            },
+            {
+                  "name": "el-Hammam",
+                  "text": "An der archäologischen Stätte el-Hammam sind die Überreste antiker Badeanlagen aus der römischen Epoche der Oase erhalten.",
+                  "category": "historical",
+                  "coords": [
+                        30.543038,
+                        25.515753
+                  ]
+            },
+            {
+                  "name": "Qasr el-Nasima",
+                  "text": "Qasr el-Nasima zeigt die vom Wüstenwind erodierten Lehmziegelruinen einer antiken Siedlung in der Oasenlandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        30.546264,
+                        25.382142
+                  ]
+            },
+            {
+                  "name": "Qasr el-Baramuni",
+                  "text": "Die archäologische Stätte Qasr el-Baramuni umfasst die Reste eines aus Lehmziegeln errichteten historischen Komplexes.",
+                  "category": "historical",
+                  "coords": [
+                        30.535408,
+                        25.414572
+                  ]
+            },
+            {
+                  "name": "Bagawat Necropolis",
+                  "text": "Die Nekropole Al-Baqawat ist ein antiker christlicher Friedhof mit hunderten von gut erhaltenen Lehmziegelkuppeln in der ägyptischen Wüste.",
+                  "category": "historical",
+                  "coords": [
+                        30.555039,
+                        25.485877
+                  ]
+            },
+            {
+                  "name": "Temple of Hibis",
+                  "text": "Die Ruinen des Hibis-Tempels sind bekannt als der am besten erhaltene Tempel aus der persischen Zeit in Ägypten.",
+                  "category": "historical",
+                  "coords": [
+                        30.555291,
+                        25.476431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman fortress",
+                  "text": "Ennek a római erődítménynek a romjai egykor a sivatagi karavánutakat védték a medencében.",
+                  "category": "historical",
+                  "coords": [
+                        30.564143,
+                        25.469117
+                  ]
+            },
+            {
+                  "name": "Ain el-Charab (Ain et-Turba)",
+                  "text": "Az Ain el-Charab egy történelmi oázisbéli ásatási terület, amely egy egykori forrás közelében lévő ókori település maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        30.555974,
+                        25.48099
+                  ]
+            },
+            {
+                  "name": "el-Hammam",
+                  "text": "Az el-Hammam régészeti lelőhelyen az oázis római kori fürdőinek maradványai maradtak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        30.543038,
+                        25.515753
+                  ]
+            },
+            {
+                  "name": "Qasr el-Nasima",
+                  "text": "Qasr el-Nasima egy ókori település sivatagi szél által koptatott vályogtégla romjait mutatja be az oázisban.",
+                  "category": "historical",
+                  "coords": [
+                        30.546264,
+                        25.382142
+                  ]
+            },
+            {
+                  "name": "Qasr el-Baramuni",
+                  "text": "A Qasr el-Baramuni régészeti lelőhely egy vályogtéglából épült történelmi épületegyüttes maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        30.535408,
+                        25.414572
+                  ]
+            },
+            {
+                  "name": "Bagawat Necropolis",
+                  "text": "Az Al-Baqawat nekropolisz egy ókori keresztény temető, amely több száz jól megőrzött vályogkupolából áll az egyiptomi sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        30.555039,
+                        25.485877
+                  ]
+            },
+            {
+                  "name": "Temple of Hibis",
+                  "text": "A Hibisz-templom romjai a legjobban megőrzött perzsa kori templomként ismertek Egyiptomban.",
+                  "category": "historical",
+                  "coords": [
+                        30.555291,
+                        25.476431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman fortress",
+                  "text": "Ruinele acestei fortărețe romane au protejat odinioară rutele caravanelor din deșert care traversau depresiunea.",
+                  "category": "historical",
+                  "coords": [
+                        30.564143,
+                        25.469117
+                  ]
+            },
+            {
+                  "name": "Ain el-Charab (Ain et-Turba)",
+                  "text": "Ain el-Charab este un sit arheologic din oază care cuprinde rămășițe ale unor structuri antice de așezare lângă o fostă sursă de apă.",
+                  "category": "historical",
+                  "coords": [
+                        30.555974,
+                        25.48099
+                  ]
+            },
+            {
+                  "name": "el-Hammam",
+                  "text": "Situl arheologic el-Hammam păstrează rămășițele unor băi antice din perioada romană a oazei.",
+                  "category": "historical",
+                  "coords": [
+                        30.543038,
+                        25.515753
+                  ]
+            },
+            {
+                  "name": "Qasr el-Nasima",
+                  "text": "Qasr el-Nasima prezintă ruinele din cărămidă de noroi, erodate de vântul deșertului, ale unei așezări antice din oază.",
+                  "category": "historical",
+                  "coords": [
+                        30.546264,
+                        25.382142
+                  ]
+            },
+            {
+                  "name": "Qasr el-Baramuni",
+                  "text": "Situl arheologic Qasr el-Baramuni include rămășițele unui complex istoric construit din cărămizi de noroi.",
+                  "category": "historical",
+                  "coords": [
+                        30.535408,
+                        25.414572
+                  ]
+            },
+            {
+                  "name": "Bagawat Necropolis",
+                  "text": "Necropola Bagawat este un vechi cimitir creștin cu sute de cupole din cărămidă de noroi bine conservate în deșertul egiptean.",
+                  "category": "historical",
+                  "coords": [
+                        30.555039,
+                        25.485877
+                  ]
+            },
+            {
+                  "name": "Temple of Hibis",
+                  "text": "Ruinele Templului Hibis sunt cunoscute ca fiind cel mai bine conservat templu din perioada persană din Egipt.",
+                  "category": "historical",
+                  "coords": [
+                        30.555291,
+                        25.476431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman fortress",
+                  "text": "The ruins of this Roman fortress once protected the desert caravan routes passing through the depression.",
+                  "category": "historical",
+                  "coords": [
+                        30.564143,
+                        25.469117
+                  ]
+            },
+            {
+                  "name": "Ain el-Charab (Ain et-Turba)",
+                  "text": "Ain el-Charab is a historical oasis excavation site comprising remnants of ancient settlement structures near a former spring.",
+                  "category": "historical",
+                  "coords": [
+                        30.555974,
+                        25.48099
+                  ]
+            },
+            {
+                  "name": "el-Hammam",
+                  "text": "The el-Hammam archaeological site preserves the remains of ancient bathhouses from the oasis's Roman epoch.",
+                  "category": "historical",
+                  "coords": [
+                        30.543038,
+                        25.515753
+                  ]
+            },
+            {
+                  "name": "Qasr el-Nasima",
+                  "text": "Qasr el-Nasima features the desert-wind eroded mud-brick ruins of an ancient settlement in the oasis.",
+                  "category": "historical",
+                  "coords": [
+                        30.546264,
+                        25.382142
+                  ]
+            },
+            {
+                  "name": "Qasr el-Baramuni",
+                  "text": "The Qasr el-Baramuni archaeological site includes the remains of a historical complex constructed from mud bricks.",
+                  "category": "historical",
+                  "coords": [
+                        30.535408,
+                        25.414572
+                  ]
+            },
+            {
+                  "name": "Bagawat Necropolis",
+                  "text": "The Bagawat Necropolis is an ancient Christian cemetery featuring hundreds of well-preserved mud-brick domed tombs in the Egyptian desert.",
+                  "category": "historical",
+                  "coords": [
+                        30.555039,
+                        25.485877
+                  ]
+            },
+            {
+                  "name": "Temple of Hibis",
+                  "text": "The ruins of the Temple of Hibis are renowned as the best-preserved Persian period temple in Egypt.",
+                  "category": "historical",
+                  "coords": [
+                        30.555291,
+                        25.476431
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EG-WAD",
     coords: [30.55, 25.45],
@@ -573,7 +987,52 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["Le lac couvre aujourd'hui une surface d'environ 1 360 km².", "La profondeur moyenne de l'eau n'est que de 1,3 mètre.", "Plus de 1 000 petites îles se trouvent à l'intérieur du lac.", "Le lac est directement relié au canal de Suez par des canaux.", "Environ 30 % de la production de poisson égyptienne provenait autrefois d'ici.", "Les coûts d'assainissement sont estimés à plusieurs milliards d'EGP."],
     }, image: "/poi-images/manzala-see-lake-nature-v2.webp"},
   {
-    id: "idku-see-lake-nature-v2",
+    id: "idku-see-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bay of Abu Kir",
+                  "text": "In dieser weitläufigen Mittelmeerbucht fand einst die historische Seeschlacht bei Abukir statt.",
+                  "category": "landmark",
+                  "coords": [
+                        30.164444,
+                        31.306111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bay of Abu Kir",
+                  "text": "Ebben a tágas földközi-tengeri öbölben zajlott a történelmi nílusi csata.",
+                  "category": "landmark",
+                  "coords": [
+                        30.164444,
+                        31.306111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bay of Abu Kir",
+                  "text": "În acest golf spațios de la Marea Mediterană a avut loc bătălia istorică a Nilului.",
+                  "category": "landmark",
+                  "coords": [
+                        30.164444,
+                        31.306111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bay of Abu Kir",
+                  "text": "The historic Battle of the Nile took place in the waters of this spacious Mediterranean bay.",
+                  "category": "landmark",
+                  "coords": [
+                        30.164444,
+                        31.306111
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EG-BH",
     coords: [30.20, 31.30],
@@ -643,7 +1102,196 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["Dans l'Antiquité, le lac s'appelait Mareotis.", "La surface actuelle est d'environ 65 kilomètres carrés.", "Le lac se situe en dessous du niveau de la mer.", "C'était autrefois un centre de production de vin (vin maréotique).", "Dans les années 1800, les Britanniques ont inondé le lac lors d'un siège.", "Il est séparé de la Méditerranée par un isthme."],
     }, image: "/poi-images/mariut-see-lake-nature-v2.webp"},
   {
-    id: "qarun-see-lake-nature-v2",
+    id: "qarun-see-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dimeh el Sebaa (Soknopaiu Nesos)",
+                  "text": "Die weitläufigen Ruinen einer ptolemäisch-römischen Wüstensiedlung mit erhaltenen Tempelmauern am nördlichen Rand des Qarun-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        30.669567,
+                        29.532477
+                  ]
+            },
+            {
+                  "name": "Soknopaïou Nesos",
+                  "text": "Eine antike archäologische Stätte, die aus den vom Wüstensand umgebenen Überresten eines dem Krokodilgott geweihten Tempels besteht.",
+                  "category": "historical",
+                  "coords": [
+                        30.668589,
+                        29.535874
+                  ]
+            },
+            {
+                  "name": "Point of Attila Gulyas 230115-d",
+                  "text": "Ein bestimmter archäologischer Vermessungspunkt in der trockenen Wüstenlandschaft rund um das flache Becken des Qarun-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        30.668254,
+                        29.539109
+                  ]
+            },
+            {
+                  "name": "Watermelon Valley",
+                  "text": "Ein markanter Wüstenaussichtspunkt mit Blick auf verstreute, kugelförmige Hornsteinknollen, die an versteinerte Wassermelonen erinnern.",
+                  "category": "natural",
+                  "coords": [
+                        30.602471,
+                        29.511316
+                  ]
+            },
+            {
+                  "name": "Roman Road",
+                  "text": "Antike, gepflasterte Route in der Fayum-Wüste, die ursprünglich für den Transport von Basalt aus lokalen Steinbrüchen genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        30.668925,
+                        29.533398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dimeh el Sebaa (Soknopaiu Nesos)",
+                  "text": "Egy kiterjedt ptolemaioszi-római sivatagi település romjai a Kárún-tó északi peremén, melynek templomfalai még ma is állnak.",
+                  "category": "historical",
+                  "coords": [
+                        30.669567,
+                        29.532477
+                  ]
+            },
+            {
+                  "name": "Soknopaïou Nesos",
+                  "text": "Egy ősi régészeti lelőhely, amely a sivatagi homokkal körülvett, krokodilistennek szentelt templom maradványaiból áll.",
+                  "category": "historical",
+                  "coords": [
+                        30.668589,
+                        29.535874
+                  ]
+            },
+            {
+                  "name": "Pont Gulyás Attila 230115-d",
+                  "text": "Egy megjelölt régészeti felmérési pont a sekély Kárún-tó medencéjét körülvevő száraz sivatagi tájban.",
+                  "category": "historical",
+                  "coords": [
+                        30.668254,
+                        29.539109
+                  ]
+            },
+            {
+                  "name": "Kőlabda völgy",
+                  "text": "Markáns sivatagi kilátópont, ahonnan elszórt, gömb alakú tűzkőgumókat láthatunk, amelyek megkövült görögdinnyékre emlékeztetnek.",
+                  "category": "natural",
+                  "coords": [
+                        30.602471,
+                        29.511316
+                  ]
+            },
+            {
+                  "name": "Roman Road",
+                  "text": "Ősi, kővel burkolt útvonal a Fajjúm-sivatagban, amelyet eredetileg a helyi kőfejtőkből származó bazalt szállítására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        30.668925,
+                        29.533398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dimeh el Sebaa (Soknopaiu Nesos)",
+                  "text": "Ruinele extinse ale unei așezări deșertice ptolemeice-romane, cu pereți de templu care au supraviețuit pe marginea nordică a Lacului Qarun.",
+                  "category": "historical",
+                  "coords": [
+                        30.669567,
+                        29.532477
+                  ]
+            },
+            {
+                  "name": "Soknopaïou Nesos",
+                  "text": "Un sit arheologic antic constând în rămășițele unui templu dedicat unui zeu crocodil, complet înconjurat de nisipul deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        30.668589,
+                        29.535874
+                  ]
+            },
+            {
+                  "name": "Point of Attila Gulyas 230115-d",
+                  "text": "Un punct specific de sondaj arheologic în peisajul arid al deșertului care înconjoară bazinul Lacului Qarun.",
+                  "category": "historical",
+                  "coords": [
+                        30.668254,
+                        29.539109
+                  ]
+            },
+            {
+                  "name": "Watermelon Valley",
+                  "text": "Un punct de belvedere în deșert cu vedere la noduli sferici de silex împrăștiați, care seamănă puternic cu pepenii pietrificați.",
+                  "category": "natural",
+                  "coords": [
+                        30.602471,
+                        29.511316
+                  ]
+            },
+            {
+                  "name": "Roman Road",
+                  "text": "Ruta antică pavată cu piatră din deșertul Fayoum, folosită inițial pentru transportul bazaltului din carierele locale.",
+                  "category": "historical",
+                  "coords": [
+                        30.668925,
+                        29.533398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dimeh el Sebaa (Soknopaiu Nesos)",
+                  "text": "The sprawling ruins of a Ptolemaic-Roman desert settlement, featuring surviving temple walls on the northern edge of Lake Qarun.",
+                  "category": "historical",
+                  "coords": [
+                        30.669567,
+                        29.532477
+                  ]
+            },
+            {
+                  "name": "Soknopaïou Nesos",
+                  "text": "An ancient archaeological site consisting of the remains of a crocodile god temple entirely surrounded by the desert sands.",
+                  "category": "historical",
+                  "coords": [
+                        30.668589,
+                        29.535874
+                  ]
+            },
+            {
+                  "name": "Point of Attila Gulyas 230115-d",
+                  "text": "A specific archaeological survey point marked within the arid desert landscape surrounding the shallow Lake Qarun basin.",
+                  "category": "historical",
+                  "coords": [
+                        30.668254,
+                        29.539109
+                  ]
+            },
+            {
+                  "name": "Watermelon Valley",
+                  "text": "A striking desert viewpoint overlooking scattered, spherical chert nodules that strongly resemble petrified watermelons.",
+                  "category": "natural",
+                  "coords": [
+                        30.602471,
+                        29.511316
+                  ]
+            },
+            {
+                  "name": "Roman Road",
+                  "text": "Ancient stone-paved route in the Fayoum desert, originally used for transporting basalt from local quarries.",
+                  "category": "historical",
+                  "coords": [
+                        30.668925,
+                        29.533398
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EG-FYM",
     coords: [30.60, 29.50],
@@ -1039,7 +1687,160 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["Née de la mise en eau du lac Nasser à partir de 1964.", "Située à proximité immédiate du site classé au patrimoine mondial de l'UNESCO Abou Simbel.", "Composée géologiquement de grès nubien.", "Habitat important pour le crocodile du Nil et les oiseaux migrateurs.", "Fait partie du plus grand lac de retenue artificiel au monde.", "Offre une protection à la flore désertique rare sur les zones côtières."],
     }, image: "/poi-images/abuh-simbel-island-nature-v2.webp"},
   {
-    id: "gezirah-island-nature-v2",
+    id: "gezirah-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Art al-lewa",
+                  "text": "Unabhängiger Raum für zeitgenössische Kunst im dicht besiedelten Viertel Ard El-Lewa.",
+                  "category": "cultural",
+                  "coords": [
+                        31.187259,
+                        30.049816
+                  ]
+            },
+            {
+                  "name": "National Circus",
+                  "text": "Historischer Veranstaltungsort in Agouza, an dem akrobatische und traditionelle Zirkusvorstellungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214465,
+                        30.059631
+                  ]
+            },
+            {
+                  "name": "Landwirtschaftsmuseum",
+                  "text": "Großer Museumskomplex in Dokki, der Ägyptens reiche Landwirtschaftsgeschichte seit der Pharaonenzeit aufzeigt.",
+                  "category": "museum",
+                  "coords": [
+                        31.20894,
+                        30.046634
+                  ]
+            },
+            {
+                  "name": "Balloon Theatre",
+                  "text": "Bekannte Bühne für darstellende Künste in Agouza, auf der nationale Volkstanzgruppen auftreten.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214142,
+                        30.060983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Art al-lewa",
+                  "text": "Független kortárs művészeti tér a sűrűn lakott Ard El-Lewa negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        31.187259,
+                        30.049816
+                  ]
+            },
+            {
+                  "name": "National Circus",
+                  "text": "Történelmi előadó-művészeti helyszín Agouzában, amely akrobatikus és hagyományos cirkuszi műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214465,
+                        30.059631
+                  ]
+            },
+            {
+                  "name": "Agricultural Museum",
+                  "text": "Dokkiban található nagy múzeumkomplexum, amely Egyiptom gazdag mezőgazdasági történelmét mutatja be a fáraók kora óta.",
+                  "category": "museum",
+                  "coords": [
+                        31.20894,
+                        30.046634
+                  ]
+            },
+            {
+                  "name": "Balloon Theatre",
+                  "text": "Agouza kiemelkedő előadó-művészeti színpada, amely nemzeti néptáncegyüttesek fellépéseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214142,
+                        30.060983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Art al-lewa",
+                  "text": "Spațiu independent de artă contemporană situat în cartierul dens populat Ard El-Lewa.",
+                  "category": "cultural",
+                  "coords": [
+                        31.187259,
+                        30.049816
+                  ]
+            },
+            {
+                  "name": "National Circus",
+                  "text": "Locație istorică de artele spectacolului în Agouza, care găzduiește spectacole de circ acrobatice și tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214465,
+                        30.059631
+                  ]
+            },
+            {
+                  "name": "Agricultural Museum",
+                  "text": "Complex muzeal întins în Dokki, care prezintă bogata istorie agricolă a Egiptului începând cu epoca faraonică.",
+                  "category": "museum",
+                  "coords": [
+                        31.20894,
+                        30.046634
+                  ]
+            },
+            {
+                  "name": "Balloon Theatre",
+                  "text": "Scenă proeminentă de artele spectacolului în Agouza, cunoscută pentru găzduirea trupelor naționale de dans folcloric.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214142,
+                        30.060983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art al-lewa",
+                  "text": "Independent contemporary arts space located in the densely populated Ard El-Lewa neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        31.187259,
+                        30.049816
+                  ]
+            },
+            {
+                  "name": "National Circus",
+                  "text": "Historic performing arts venue in Agouza hosting acrobatic and traditional circus shows.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214465,
+                        30.059631
+                  ]
+            },
+            {
+                  "name": "Agricultural Museum",
+                  "text": "Large museum complex in Dokki chronicling Egypt's rich farming history since the Pharaonic era.",
+                  "category": "museum",
+                  "coords": [
+                        31.20894,
+                        30.046634
+                  ]
+            },
+            {
+                  "name": "Balloon Theatre",
+                  "text": "Prominent performing arts stage in Agouza known for hosting national folk dance troupes.",
+                  "category": "cultural",
+                  "coords": [
+                        31.214142,
+                        30.060983
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "EG-C",
     coords: [31.20, 30.05],

@@ -93,7 +93,52 @@ export const liberiaLifeV2: POI[] = [
     image: "/poi-images/liberia-marshall-wetlands-life-v2.webp",
   },
   {
-    id: "liberia-east-nimba-nature-reserve-life-v2",
+    id: "liberia-east-nimba-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake view",
+                  "text": "Der Lake view ist ein malerischer Aussichtspunkt, der weite Panoramen auf die Gewässer im East Nimba Nature Reserve bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.502271,
+                        7.535095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake view",
+                  "text": "A Lake view egy festői kilátó, amely kiterjedt panorámát nyújt az East Nimba Természetvédelmi Terület vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -8.502271,
+                        7.535095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake view",
+                  "text": "Lake view este un punct de belvedere pitoresc care oferă panorame vaste ale apelor din Rezervația Naturală East Nimba.",
+                  "category": "natural",
+                  "coords": [
+                        -8.502271,
+                        7.535095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake view",
+                  "text": "The Lake view is a scenic viewpoint providing sweeping panoramas of the waters within the East Nimba Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -8.502271,
+                        7.535095
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "wildlife",
     name: { de: "East-Nimba-Naturreservat", hu: "Kelet-Nimba Természetvédelmi Terület", ro: "Rezervația Naturală East Nimba", en: "East Nimba Nature Reserve" },
@@ -408,7 +453,52 @@ export const liberiaLifeV2: POI[] = [
     image: "/poi-images/liberia-monrovia-botanical-garden-life-v2.webp",
   },
   {
-    id: "liberia-du-river-estuary-life-v2",
+    id: "liberia-du-river-estuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "John Gbedze Beach Resort",
+                  "text": "Das John Gbedze Beach Resort ist ein Ferienort an der Küste in liberia-du-river-estuary-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.527343,
+                        6.190201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "John Gbedze Beach Resort",
+                  "text": "A John Gbedze Beach Resort egy tengerparti nyaralóhely liberia-du-river-estuary-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.527343,
+                        6.190201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "John Gbedze Beach Resort",
+                  "text": "John Gbedze Beach Resort este un loc de vacanță pe coastă situat în liberia-du-river-estuary-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.527343,
+                        6.190201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "John Gbedze Beach Resort",
+                  "text": "John Gbedze Beach Resort is a coastal holiday retreat located in liberia-du-river-estuary-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.527343,
+                        6.190201
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "river",
     name: { de: "Du-Flussmündung", hu: "Du folyó torkolata", ro: "Estuarul râului Du", en: "Du River Estuary" },
@@ -498,7 +588,88 @@ export const liberiaLifeV2: POI[] = [
     image: "/poi-images/liberia-cavalla-river-wildlife-corridor-life-v2.webp",
   },
   {
-    id: "liberia-mount-nimba-reserve-life-v2",
+    id: "liberia-mount-nimba-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Entrée reserve",
+                  "text": "Die Entrée reserve fungiert als offizielles Tor in die geschützte Wildnis des Mount Nimba Nature Reserve in Liberia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473384,
+                        7.600045
+                  ]
+            },
+            {
+                  "name": "Source Gberemyi",
+                  "text": "Die Source Gberemyi ist eine unberührte natürliche Quelle, die im üppigen Nimba-Reservat entspringt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474664,
+                        7.598343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Entrée reserve",
+                  "text": "Az Entrée reserve formális kapuként szolgál a libériai Mount Nimba Természetvédelmi Terület védett vadonjába.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473384,
+                        7.600045
+                  ]
+            },
+            {
+                  "name": "Source Gberemyi",
+                  "text": "A Source Gberemyi egy érintetlen természetes forrás, amely a buja Nimba-hegyi rezervátumban fakad.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474664,
+                        7.598343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Entrée reserve",
+                  "text": "Entrée reserve funcționează ca o poartă formală către sălbăticia protejată a Rezervației Naturale Muntele Nimba din Liberia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473384,
+                        7.600045
+                  ]
+            },
+            {
+                  "name": "Source Gberemyi",
+                  "text": "Source Gberemyi este un izvor natural curat care iese la suprafață în luxurianta rezervație a Muntelui Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474664,
+                        7.598343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Entrée reserve",
+                  "text": "The Entrée reserve acts as the formal gateway into the protected wilderness of the Mount Nimba Nature Reserve in Liberia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473384,
+                        7.600045
+                  ]
+            },
+            {
+                  "name": "Source Gberemyi",
+                  "text": "Source Gberemyi is a pristine natural spring attraction bubbling up within the lush Mount Nimba reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474664,
+                        7.598343
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "mountain",
     name: { de: "Mount-Nimba-Reservat", hu: "Nimba-hegyi Rezervátum", ro: "Rezervația Muntele Nimba", en: "Mount Nimba Reserve" },
@@ -1038,7 +1209,52 @@ export const liberiaLifeV2: POI[] = [
     image: "/poi-images/liberia-farmington-river-corridor-life-v2.webp",
   },
   {
-    id: "liberia-nimba-highlands-forest-life-v2",
+    id: "liberia-nimba-highlands-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gangra",
+                  "text": "Gangra ist ein markanter Hochlandgipfel, der sich majestätisch über die waldreiche Nimba-Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.636236,
+                        7.545561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gangra",
+                  "text": "A Gangra egy kiemelkedő felvidéki hegycsúcs, amely méltóságteljesen emelkedik az erdős Nimba régió fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -8.636236,
+                        7.545561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gangra",
+                  "text": "Gangra este un vârf montan proeminent care se înalță maiestuos deasupra regiunii împădurite Nimba.",
+                  "category": "natural",
+                  "coords": [
+                        -8.636236,
+                        7.545561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gangra",
+                  "text": "Gangra is a prominent highland peak rising majestically above the forested Nimba region.",
+                  "category": "natural",
+                  "coords": [
+                        -8.636236,
+                        7.545561
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "forest",
     name: { de: "Nimba-Hochland-Wald", hu: "Nimba-felföldi erdő", ro: "Pădurea din ținuturile înalte Nimba", en: "Nimba Highlands Forest" },
@@ -1218,7 +1434,52 @@ export const liberiaLifeV2: POI[] = [
     image: "/poi-images/liberia-sinoe-river-basin-life-v2.webp",
   },
   {
-    id: "liberia-zuo-mountain-forest-life-v2",
+    id: "liberia-zuo-mountain-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soho",
+                  "text": "Soho ist ein isolierter Berggipfel, der vom dichten Blätterdach des Zuo-Bergwaldes umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.679098,
+                        7.312513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soho",
+                  "text": "A Soho egy elszigetelt hegycsúcs, amelyet a Zuo hegyi erdő sűrű lombkoronája vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        -8.679098,
+                        7.312513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soho",
+                  "text": "Soho este un vârf de munte izolat, înconjurat de coronamentul dens al pădurii montane Zuo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.679098,
+                        7.312513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soho",
+                  "text": "Soho is an isolated mountain peak surrounded by the dense canopy of the Zuo mountain forest.",
+                  "category": "natural",
+                  "coords": [
+                        -8.679098,
+                        7.312513
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "forest",
     name: { de: "Zuo-Bergwald", hu: "Zuo-hegyi erdő", ro: "Pădurea montană Zuo", en: "Zuo Mountain Forest" },

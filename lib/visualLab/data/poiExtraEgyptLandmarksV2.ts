@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraEgyptLandmarksV2: POI[] = [
   {
-    id: "eg-cairo-tower",
+    id: "eg-cairo-tower", "sights": {
+      "de": [
+            {
+                  "name": "Zamalek tree",
+                  "text": "Dieser historische Baum stammt aus dem Jahr 1868 und ist eine langjährige Naturattraktion auf der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225049,
+                        30.04665
+                  ]
+            },
+            {
+                  "name": "Messi Market",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen Blick auf die geschäftigen Marktstände des umliegenden Viertels.",
+                  "category": "natural",
+                  "coords": [
+                        31.217271,
+                        30.046653
+                  ]
+            },
+            {
+                  "name": "Zamalek Theater",
+                  "text": "Dieses Theater in einem wohlhabenden Inselviertel beherbergt verschiedene dramatische und musikalische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.218983,
+                        30.061568
+                  ]
+            },
+            {
+                  "name": "El-Sawy Cultural Wheel",
+                  "text": "Dieses dynamische Kunstzentrum auf der Insel Zamalek ist ein lebendiger Knotenpunkt für Konzerte und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.216332,
+                        30.062407
+                  ]
+            },
+            {
+                  "name": "Al Masar Art Gallery",
+                  "text": "Diese moderne Galerie und Museum stellt zeitgenössische Kunstwerke und kulturelle Artefakte aus der Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        31.22422,
+                        30.059476
+                  ]
+            },
+            {
+                  "name": "Nomad Gallery Eg",
+                  "text": "Dieses Kunstzentrum zeigt eine Sammlung traditioneller Handwerkskunst und nomadischer Artefakte aus verschiedenen Kulturen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.226104,
+                        30.054585
+                  ]
+            },
+            {
+                  "name": "Aquarium Grotto Garden",
+                  "text": "Dieses einzigartige Aquarium ist einem Höhlensystem nachempfunden, komplett mit felsigen Pfaden und Aquarien.",
+                  "category": "recreational",
+                  "coords": [
+                        31.218711,
+                        30.056483
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Ceramics",
+                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung von glasierter Keramik und kunstvollen Keramikfliesen aus der islamischen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        31.223103,
+                        30.05649
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Dieses anglikanische Gotteshaus zeichnet sich durch einen besonderen architektonischen Stil mit seiner markanten lotusförmigen Struktur aus.",
+                  "category": "religious",
+                  "coords": [
+                        31.223766,
+                        30.058051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamalek tree",
+                  "text": "Az 1868-ból származó történelmi fa régóta a sziget egyik természeti látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225049,
+                        30.04665
+                  ]
+            },
+            {
+                  "name": "Messi Market",
+                  "text": "Erről a magaslati kilátópontról a környező negyed nyüzsgő piaci standjaira nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        31.217271,
+                        30.046653
+                  ]
+            },
+            {
+                  "name": "Zamalek Theater",
+                  "text": "A gazdag szigeti negyedben található színház különféle drámai és zenei előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        31.218983,
+                        30.061568
+                  ]
+            },
+            {
+                  "name": "El-Sawy Cultural Wheel",
+                  "text": "A Zamalek szigetén fészkelő dinamikus művészeti központ koncertek és kiállítások nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        31.216332,
+                        30.062407
+                  ]
+            },
+            {
+                  "name": "Al Masar Art Gallery",
+                  "text": "Ez a modern galéria és múzeum kortárs művészeti alkotásokat és a régió kulturális tárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        31.22422,
+                        30.059476
+                  ]
+            },
+            {
+                  "name": "Nomad Gallery Eg",
+                  "text": "Ez a művészeti központ különféle kultúrák hagyományos kézműves tárgyait és nomád leleteit mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        31.226104,
+                        30.054585
+                  ]
+            },
+            {
+                  "name": "Aquarium Grotto Garden",
+                  "text": "Ezt az egyedülálló akváriumot úgy építették, hogy egy barlangrendszerre hasonlítson, sziklás ösvényekkel és halastartályokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        31.218711,
+                        30.056483
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Ceramics",
+                  "text": "Ez a múzeum az iszlám világ mázas kerámiáinak és bonyolult kerámiacsempéinek kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.223103,
+                        30.05649
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Ez az anglikán istentiszteleti hely jellegzetes építészeti stílussal és kiemelkedő lótusz alakú szerkezetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        31.223766,
+                        30.058051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamalek tree",
+                  "text": "Datând din 1868, acest copac istoric reprezintă o atracție naturală veche pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225049,
+                        30.04665
+                  ]
+            },
+            {
+                  "name": "Messi Market",
+                  "text": "Această zonă de belvedere ridicată are vedere la tarabele pline de viață ale pieței din cartierul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        31.217271,
+                        30.046653
+                  ]
+            },
+            {
+                  "name": "Zamalek Theater",
+                  "text": "Situat într-un cartier insular bogat, acest teatru găzduiește diverse spectacole dramatice și muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        31.218983,
+                        30.061568
+                  ]
+            },
+            {
+                  "name": "El-Sawy Cultural Wheel",
+                  "text": "Amplasat pe insula Zamalek, acest centru de artă dinamic este un centru vibrant pentru concerte și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        31.216332,
+                        30.062407
+                  ]
+            },
+            {
+                  "name": "Al Masar Art Gallery",
+                  "text": "Această galerie modernă și muzeu expune opere de artă contemporană și artefacte culturale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        31.22422,
+                        30.059476
+                  ]
+            },
+            {
+                  "name": "Nomad Gallery Eg",
+                  "text": "Acest centru de arte prezintă o colecție de meșteșuguri tradiționale și artefacte nomade din diverse culturi.",
+                  "category": "cultural",
+                  "coords": [
+                        31.226104,
+                        30.054585
+                  ]
+            },
+            {
+                  "name": "Aquarium Grotto Garden",
+                  "text": "Acest acvariu unic este construit pentru a semăna cu un sistem de peșteri, cu căi stâncoase și bazine cu pești.",
+                  "category": "recreational",
+                  "coords": [
+                        31.218711,
+                        30.056483
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Ceramics",
+                  "text": "Acest muzeu prezintă o colecție extinsă de ceramică smălțuită și plăci ceramice complicate din lumea islamică.",
+                  "category": "museum",
+                  "coords": [
+                        31.223103,
+                        30.05649
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Acest lăcaș de cult anglican are un stil arhitectural distinct, cu structura sa proeminentă în formă de lotus.",
+                  "category": "religious",
+                  "coords": [
+                        31.223766,
+                        30.058051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamalek tree",
+                  "text": "Dating back to 1868, this historic tree stands as a longstanding natural attraction on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225049,
+                        30.04665
+                  ]
+            },
+            {
+                  "name": "Messi Market",
+                  "text": "This elevated viewpoint area overlooks the bustling market stalls of the surrounding district.",
+                  "category": "natural",
+                  "coords": [
+                        31.217271,
+                        30.046653
+                  ]
+            },
+            {
+                  "name": "Zamalek Theater",
+                  "text": "Located in an affluent island district, this theatre hosts various dramatic and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        31.218983,
+                        30.061568
+                  ]
+            },
+            {
+                  "name": "El-Sawy Cultural Wheel",
+                  "text": "Nestled on the island of Zamalek, this dynamic arts centre is a vibrant hub for concerts and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        31.216332,
+                        30.062407
+                  ]
+            },
+            {
+                  "name": "Al Masar Art Gallery",
+                  "text": "This modern gallery and museum exhibits contemporary artworks and cultural artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        31.22422,
+                        30.059476
+                  ]
+            },
+            {
+                  "name": "Nomad Gallery Eg",
+                  "text": "This arts centre displays a collection of traditional crafts and nomadic artifacts from various cultures.",
+                  "category": "cultural",
+                  "coords": [
+                        31.226104,
+                        30.054585
+                  ]
+            },
+            {
+                  "name": "Aquarium Grotto Garden",
+                  "text": "This unique aquarium is constructed to resemble a cave system, complete with rocky pathways and fish tanks.",
+                  "category": "recreational",
+                  "coords": [
+                        31.218711,
+                        30.056483
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Ceramics",
+                  "text": "This museum showcases an extensive collection of glazed pottery and intricate ceramic tiles from the Islamic world.",
+                  "category": "museum",
+                  "coords": [
+                        31.223103,
+                        30.05649
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "This Anglican place of worship features a distinct architectural style with its prominent lotus-shaped structure.",
+                  "category": "religious",
+                  "coords": [
+                        31.223766,
+                        30.058051
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2247, 30.0458],
@@ -51,7 +384,448 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Construite entre 1956 et 1961.", "Conçue pour ressembler à une fleur de lotus.", "Plus haute structure d'Égypte."],
     }, image: "/poi-images/eg-cairo-tower.webp"},
   {
-    id: "eg-bibliotheca-alexandrina",
+    id: "eg-bibliotheca-alexandrina", "sights": {
+      "de": [
+            {
+                  "name": "Natural History Museum",
+                  "text": "Ein Museum in der Nähe der Bibliotheca Alexandrina, das konservierte Naturpräparate aus der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        29.943708,
+                        31.205476
+                  ]
+            },
+            {
+                  "name": "Planetarium Science Center",
+                  "text": "Ein Wissenschaftsmuseum mit einem markanten, großen kugelförmigen Planetariumsgebäude, das astronomischen Ausstellungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        29.908144,
+                        31.208971
+                  ]
+            },
+            {
+                  "name": "Elselela fort (military camp)",
+                  "text": "Eine historische militärische Burgstruktur, die in der Nähe der modernen Bibliothek zur befestigten Verteidigung diente.",
+                  "category": "castle",
+                  "coords": [
+                        29.906338,
+                        31.211616
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Ein Kunstzentrum in der Nähe der Bibliotheca Alexandrina, das sich der Förderung der russischen Kultur, Kunst und Sprache widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909918,
+                        31.20075
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "Die Überreste einer historischen Steinbastion, die einst Teil der Verteidigungsanlagen der Stadt war.",
+                  "category": "castle",
+                  "coords": [
+                        29.915816,
+                        31.200001
+                  ]
+            },
+            {
+                  "name": "Mosaic Museum",
+                  "text": "Ein Museum, das kunstvolle antike Mosaikkunstwerke zeigt, die in Alexandria und seiner Umgebung ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        29.919058,
+                        31.203425
+                  ]
+            },
+            {
+                  "name": "Saint George Coptic Church",
+                  "text": "Eine koptisch-christliche Kirche, die der örtlichen Gemeinde in der Nähe des modernen Bibliothekskomplexes dient.",
+                  "category": "religious",
+                  "coords": [
+                        29.914348,
+                        31.206463
+                  ]
+            },
+            {
+                  "name": "Chatby Necropolis",
+                  "text": "Eine antike hellenistische Begräbnisstätte mit unterirdischen, in den Fels gehauenen Gräbern aus dem 3. Jahrhundert v. Chr.",
+                  "category": "landmark",
+                  "coords": [
+                        29.916984,
+                        31.211382
+                  ]
+            },
+            {
+                  "name": "Chatbi Beach",
+                  "text": "Ein Sandstrand an der Mittelmeerküste in der Nähe der Bibliotheca Alexandrina.",
+                  "category": "recreational",
+                  "coords": [
+                        29.915774,
+                        31.212187
+                  ]
+            },
+            {
+                  "name": "Al Shalalat Gardens",
+                  "text": "Ein öffentlicher Park mit künstlichen Seen, der die erhaltenen Überreste der alten Stadtmauern von Alexandria beherbergt.",
+                  "category": "park",
+                  "coords": [
+                        29.913815,
+                        31.203078
+                  ]
+            },
+            {
+                  "name": "Alexandria National Museum",
+                  "text": "Dieses in einer Villa im italienischen Stil untergebrachte Museum zeigt Artefakte aus der Pharaonenzeit bis hin zur islamischen Epoche.",
+                  "category": "museum",
+                  "coords": [
+                        29.913154,
+                        31.201117
+                  ]
+            },
+            {
+                  "name": "El Muwasa",
+                  "text": "Ein bedeutendes islamisches Gotteshaus in der Nähe der Bibliotheca Alexandrina, das für sein markantes Minarett bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        29.92902,
+                        31.203939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Natural History Museum",
+                  "text": "A Bibliotheca Alexandrina közelében található múzeum, amely a régió fennmaradt természeti példányait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.943708,
+                        31.205476
+                  ]
+            },
+            {
+                  "name": "Planetarium Science Center",
+                  "text": "Tudományos múzeum, amelynek egy jellegzetes, nagy gömb alakú planetáriumépület ad otthont a csillagászati kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        29.908144,
+                        31.208971
+                  ]
+            },
+            {
+                  "name": "Elselela fort (military camp)",
+                  "text": "Történelmi katonai kastélyépület, amely megerősített védelmet nyújtott a modern könyvtár közelében.",
+                  "category": "castle",
+                  "coords": [
+                        29.906338,
+                        31.211616
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "A Bibliotheca Alexandrina közelében található művészeti központ, amely az orosz kultúra, művészet és nyelv népszerűsítésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909918,
+                        31.20075
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "Egy történelmi kőbástya maradványai, amely egykor a város védelmi erődítményeinek részét képezte.",
+                  "category": "castle",
+                  "coords": [
+                        29.915816,
+                        31.200001
+                  ]
+            },
+            {
+                  "name": "Mosaic Museum",
+                  "text": "Alexandria és környékéről feltárt, bonyolult ókori mozaikművészeti alkotásokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        29.919058,
+                        31.203425
+                  ]
+            },
+            {
+                  "name": "Saint George Coptic Church",
+                  "text": "Egy kopt keresztény templom, amely a modern könyvtárkomplexum közelében szolgálja ki a helyi közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        29.914348,
+                        31.206463
+                  ]
+            },
+            {
+                  "name": "Chatby Necropolis",
+                  "text": "Ősi hellenisztikus temetkezési hely az i. e. 3. századból származó földalatti, sziklába vájt sírokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        29.916984,
+                        31.211382
+                  ]
+            },
+            {
+                  "name": "Chatbi Beach",
+                  "text": "A Földközi-tenger partvonalán, a Bibliotheca Alexandrina közelében húzódó homokos strand.",
+                  "category": "recreational",
+                  "coords": [
+                        29.915774,
+                        31.212187
+                  ]
+            },
+            {
+                  "name": "Al Shalalat Gardens",
+                  "text": "Mesterséges tavakkal rendelkező közpark, ahol Alexandria ősi falainak fennmaradt maradványai is megtalálhatók.",
+                  "category": "park",
+                  "coords": [
+                        29.913815,
+                        31.203078
+                  ]
+            },
+            {
+                  "name": "Alexandria National Museum",
+                  "text": "Ez az olasz stílusú kastélyban helyet kapott múzeum a fáraók korától az iszlám korszakig tartó időszakból származó tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        29.913154,
+                        31.201117
+                  ]
+            },
+            {
+                  "name": "El Muwasa",
+                  "text": "Kiemelkedő iszlám istentiszteleti hely a Bibliotheca Alexandrina közelében, amely jellegzetes minaretjéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        29.92902,
+                        31.203939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Natural History Museum",
+                  "text": "Un muzeu care expune specimene naturale conservate din regiune, în apropiere de Bibliotheca Alexandrina.",
+                  "category": "museum",
+                  "coords": [
+                        29.943708,
+                        31.205476
+                  ]
+            },
+            {
+                  "name": "Planetarium Science Center",
+                  "text": "Un muzeu de știință care se remarcă printr-o clădire sferică mare a planetariului, dedicată expozițiilor astronomice.",
+                  "category": "museum",
+                  "coords": [
+                        29.908144,
+                        31.208971
+                  ]
+            },
+            {
+                  "name": "Elselela fort (military camp)",
+                  "text": "O structură istorică a unui castel militar, oferind apărare fortificată în apropierea bibliotecii moderne.",
+                  "category": "castle",
+                  "coords": [
+                        29.906338,
+                        31.211616
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Un centru de artă dedicat promovării culturii, artelor și limbii ruse, în apropiere de Bibliotheca Alexandrina.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909918,
+                        31.20075
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "Rămășițele unui bastion istoric de piatră care a făcut cândva parte din fortificațiile de apărare ale orașului.",
+                  "category": "castle",
+                  "coords": [
+                        29.915816,
+                        31.200001
+                  ]
+            },
+            {
+                  "name": "Mosaic Museum",
+                  "text": "Un muzeu care expune lucrări de artă complexe din mozaic antic, excavate din Alexandria și împrejurimile sale.",
+                  "category": "museum",
+                  "coords": [
+                        29.919058,
+                        31.203425
+                  ]
+            },
+            {
+                  "name": "Saint George Coptic Church",
+                  "text": "O biserică creștin-coptă care deservește comunitatea locală în apropierea complexului modern al bibliotecii.",
+                  "category": "religious",
+                  "coords": [
+                        29.914348,
+                        31.206463
+                  ]
+            },
+            {
+                  "name": "Chatby Necropolis",
+                  "text": "Un vechi cimitir elenistic, ce prezintă morminte subterane săpate în stâncă datând din secolul al III-lea î.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        29.916984,
+                        31.211382
+                  ]
+            },
+            {
+                  "name": "Chatbi Beach",
+                  "text": "O plajă de coastă cu nisip ce se întinde de-a lungul țărmului mediteranean, lângă Bibliotheca Alexandrina.",
+                  "category": "recreational",
+                  "coords": [
+                        29.915774,
+                        31.212187
+                  ]
+            },
+            {
+                  "name": "Al Shalalat Gardens",
+                  "text": "Un parc public ce dispune de lacuri artificiale și conține rămășițe conservate ale vechilor ziduri ale Alexandriei.",
+                  "category": "park",
+                  "coords": [
+                        29.913815,
+                        31.203078
+                  ]
+            },
+            {
+                  "name": "Alexandria National Museum",
+                  "text": "Găzduit într-un conac în stil italian, acest muzeu expune artefacte care variază de la epoca faraonică până la cea islamică.",
+                  "category": "museum",
+                  "coords": [
+                        29.913154,
+                        31.201117
+                  ]
+            },
+            {
+                  "name": "El Muwasa",
+                  "text": "Un important lăcaș de cult islamic, cunoscut pentru minaretul său distinct, situat lângă Bibliotheca Alexandrina.",
+                  "category": "religious",
+                  "coords": [
+                        29.92902,
+                        31.203939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Natural History Museum",
+                  "text": "A museum showcasing preserved natural specimens from the region near the Bibliotheca Alexandrina.",
+                  "category": "museum",
+                  "coords": [
+                        29.943708,
+                        31.205476
+                  ]
+            },
+            {
+                  "name": "Planetarium Science Center",
+                  "text": "A science museum featuring a distinctive, large spherical planetarium building dedicated to astronomical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        29.908144,
+                        31.208971
+                  ]
+            },
+            {
+                  "name": "Elselela fort (military camp)",
+                  "text": "A historical military castle structure providing fortified defense near the modern library.",
+                  "category": "castle",
+                  "coords": [
+                        29.906338,
+                        31.211616
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "An arts centre dedicated to promoting Russian culture, arts, and language near the Bibliotheca Alexandrina.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909918,
+                        31.20075
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "The remnants of a historic stone bastion that once formed part of the city's defensive fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        29.915816,
+                        31.200001
+                  ]
+            },
+            {
+                  "name": "Mosaic Museum",
+                  "text": "A museum displaying intricate ancient mosaic artworks excavated from Alexandria and its surroundings.",
+                  "category": "museum",
+                  "coords": [
+                        29.919058,
+                        31.203425
+                  ]
+            },
+            {
+                  "name": "Saint George Coptic Church",
+                  "text": "A Coptic Christian church serving the local community near the modern library complex.",
+                  "category": "religious",
+                  "coords": [
+                        29.914348,
+                        31.206463
+                  ]
+            },
+            {
+                  "name": "Chatby Necropolis",
+                  "text": "An ancient Hellenistic burial ground featuring underground rock-cut tombs dating back to the 3rd century BC.",
+                  "category": "landmark",
+                  "coords": [
+                        29.916984,
+                        31.211382
+                  ]
+            },
+            {
+                  "name": "Chatbi Beach",
+                  "text": "A sandy coastal beach running along the Mediterranean shoreline near the Bibliotheca Alexandrina.",
+                  "category": "recreational",
+                  "coords": [
+                        29.915774,
+                        31.212187
+                  ]
+            },
+            {
+                  "name": "Al Shalalat Gardens",
+                  "text": "A public park featuring artificial lakes and containing preserved remnants of Alexandria's ancient walls.",
+                  "category": "park",
+                  "coords": [
+                        29.913815,
+                        31.203078
+                  ]
+            },
+            {
+                  "name": "Alexandria National Museum",
+                  "text": "Housed in an Italian-style mansion, this museum displays artifacts ranging from the Pharaonic to the Islamic eras.",
+                  "category": "museum",
+                  "coords": [
+                        29.913154,
+                        31.201117
+                  ]
+            },
+            {
+                  "name": "El Muwasa",
+                  "text": "A prominent Islamic place of worship known for its distinct minaret near the Bibliotheca Alexandrina.",
+                  "category": "religious",
+                  "coords": [
+                        29.92902,
+                        31.203939
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-ALX",
     coords: [29.9092, 31.2089],
@@ -99,7 +873,196 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Inaugurée en 2002.", "Évoque l'ancienne bibliothèque d'Alexandrie.", "La salle de lecture peut contenir huit millions de livres."],
     }, image: "/poi-images/eg-bibliotheca-alexandrina.webp"},
   {
-    id: "eg-al-azhar-mosque",
+    id: "eg-al-azhar-mosque", "sights": {
+      "de": [
+            {
+                  "name": "Sufi-Derwisch-Tanz",
+                  "text": "Eine faszinierende kulturelle Darbietung, bei der Tänzer mit bunten, stark beschwerten Röcken sich lange Zeit drehen, um eine spirituelle Trance auszulösen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260934,
+                        30.045791
+                  ]
+            },
+            {
+                  "name": "El-Hawari House",
+                  "text": "Ein historisches Hofhaus, das den inneren Grundriss und die traditionellen Maschrabiyya-Holzarbeiten der klassischen ägyptischen Wohnarchitektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263303,
+                        30.044346
+                  ]
+            },
+            {
+                  "name": "Ahmed Pasha Hassanein's Mausoleum",
+                  "text": "Diese elegante Gedenkstätte mit Kuppel ist die letzte Ruhestätte eines bedeutenden ägyptischen Diplomaten, Entdeckers und Olympiateilnehmers des 20. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        31.271128,
+                        30.044868
+                  ]
+            },
+            {
+                  "name": "funerary complex of Sultan Qaytbay",
+                  "text": "Dieses im Nordfriedhof gelegene Mamluken-Denkmal ist weltweit berühmt für seine Steinkuppel, in die ein komplexes, spitzenartiges geometrisches Muster geschnitzt ist.",
+                  "category": "religious",
+                  "coords": [
+                        31.274916,
+                        30.04398
+                  ]
+            },
+            {
+                  "name": "Moschee Al-Azhar",
+                  "text": "Diese im Jahr 970 n. Chr. gegründete, weitläufige Moschee aus der Fatimidenzeit umgibt einen massiven Innenhof aus weißem Marmor und beherbergt eine der ältesten islamischen Universitäten der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.26268,
+                        30.045719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sufi Dervish Dance",
+                  "text": "Lenyűgöző kulturális előadás, ahol a színes, nehéz szoknyát viselő táncosok hosszas forgással spirituális transzba esnek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260934,
+                        30.045791
+                  ]
+            },
+            {
+                  "name": "El-Hawari House",
+                  "text": "Történelmi udvaros lakóház, amely bemutatja a klasszikus egyiptomi lakóépítészet belső elrendezését és hagyományos masrabija fafaragásait.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263303,
+                        30.044346
+                  ]
+            },
+            {
+                  "name": "Ahmed Pasha Hassanein's Mausoleum",
+                  "text": "Ez az előkelő kupolás emlékmű egy kiemelkedő 20. századi egyiptomi diplomata, felfedező és olimpikon végső nyughelye.",
+                  "category": "historical",
+                  "coords": [
+                        31.271128,
+                        30.044868
+                  ]
+            },
+            {
+                  "name": "funerary complex of Sultan Qaytbay",
+                  "text": "Az Északi temetőben található mameluk emlékművet világszerte ünneplik kőkupolájáért, amelyet bonyolult, csipkeszerű geometriai minta díszít.",
+                  "category": "religious",
+                  "coords": [
+                        31.274916,
+                        30.04398
+                  ]
+            },
+            {
+                  "name": "El Azhar Mosque",
+                  "text": "A Krisztus után 970-ben alapított, hatalmas Fátimida-kori mecset egy masszív fehérmárvány udvart ölel körül, és a világ egyik legrégebbi iszlám egyetemének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        31.26268,
+                        30.045719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sufi Dervish Dance",
+                  "text": "O reprezentație culturală hipnotizantă în care dansatorii purtând fuste colorate, puternic îngreunate, execută rotiri prelungite pentru a induce o transă spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260934,
+                        30.045791
+                  ]
+            },
+            {
+                  "name": "El-Hawari House",
+                  "text": "O locuință istorică cu curte interioară care prezintă aspectul intern și lemnăria tradițională mashrabiya a arhitecturii domestice egiptene clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263303,
+                        30.044346
+                  ]
+            },
+            {
+                  "name": "Ahmed Pasha Hassanein's Mausoleum",
+                  "text": "Acest distins memorial cu cupolă este locul de veci al unui proeminent diplomat, explorator și atlet olimpic egiptean din secolul al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        31.271128,
+                        30.044868
+                  ]
+            },
+            {
+                  "name": "funerary complex of Sultan Qaytbay",
+                  "text": "Situat în Cimitirul de Nord, acest monument mameluc este celebrat universal pentru cupola sa de piatră sculptată cu un model geometric complicat, asemănător dantelei.",
+                  "category": "religious",
+                  "coords": [
+                        31.274916,
+                        30.04398
+                  ]
+            },
+            {
+                  "name": "El Azhar Mosque",
+                  "text": "Fondată în anul 970 d.Hr., această moschee extinsă din epoca fatimidă înconjoară o curte masivă din marmură albă și găzduiește una dintre cele mai vechi universități islamice din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        31.26268,
+                        30.045719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sufi Dervish Dance",
+                  "text": "A mesmerizing cultural performance where dancers wearing colorful, heavily weighted skirts execute prolonged whirling to induce a spiritual trance.",
+                  "category": "landmark",
+                  "coords": [
+                        31.260934,
+                        30.045791
+                  ]
+            },
+            {
+                  "name": "El-Hawari House",
+                  "text": "A historic courtyard dwelling that showcases the internal layout and traditional mashrabiya woodwork of classic Egyptian domestic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263303,
+                        30.044346
+                  ]
+            },
+            {
+                  "name": "Ahmed Pasha Hassanein's Mausoleum",
+                  "text": "This distinguished domed memorial is the final resting place of a prominent 20th-century Egyptian diplomat, explorer, and Olympic athlete.",
+                  "category": "historical",
+                  "coords": [
+                        31.271128,
+                        30.044868
+                  ]
+            },
+            {
+                  "name": "funerary complex of Sultan Qaytbay",
+                  "text": "Located in the Northern Cemetery, this Mamluk monument is universally celebrated for its stone dome carved with an intricate lace-like geometric pattern.",
+                  "category": "religious",
+                  "coords": [
+                        31.274916,
+                        30.04398
+                  ]
+            },
+            {
+                  "name": "El Azhar Mosque",
+                  "text": "Founded in 970 AD, this expansive Fatimid-era mosque surrounds a massive white-marble courtyard and hosts one of the world's oldest Islamic universities.",
+                  "category": "landmark",
+                  "coords": [
+                        31.26268,
+                        30.045719
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2625, 30.0458],
@@ -147,7 +1110,160 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Première mosquée du Caire.", "Liée à l'université Al-Azhar.", "Présente plusieurs styles architecturaux."],
     }, image: "/poi-images/eg-al-azhar-mosque.webp"},
   {
-    id: "eg-muhammad-ali-mosque",
+    id: "eg-muhammad-ali-mosque", "sights": {
+      "de": [
+            {
+                  "name": "Al-Lu'lu'a Mosque",
+                  "text": "Die Al-Lu'lu'a-Moschee ist ein fatimidisches Bauwerk, das auf den Mokattam-Hügeln thront.",
+                  "category": "religious",
+                  "coords": [
+                        31.268181,
+                        30.019761
+                  ]
+            },
+            {
+                  "name": "Al-Gawhara Palace",
+                  "text": "Der Al-Gawhara-Palast ist ein Palast aus der osmanischen Zeit südlich der Muhammad-Ali-Moschee.",
+                  "category": "castle",
+                  "coords": [
+                        31.260134,
+                        30.027529
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Museum",
+                  "text": "Das Mustafa-Kamel-Museum ist dem Leben und Wirken des gleichnamigen ägyptischen Nationalisten gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        31.257236,
+                        30.029693
+                  ]
+            },
+            {
+                  "name": "Mosque of Muhammad Ali",
+                  "text": "Die im Jahr 1848 fertiggestellte Muhammad-Ali-Moschee prägt mit ihren osmanischen Kuppeln die Skyline der Zitadelle.",
+                  "category": "religious",
+                  "coords": [
+                        31.259734,
+                        30.028983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Lu'lu'a Mosque",
+                  "text": "Az Al-Lu'lu'a mecset egy fátimida kori építmény a Mokattam-dombokon.",
+                  "category": "religious",
+                  "coords": [
+                        31.268181,
+                        30.019761
+                  ]
+            },
+            {
+                  "name": "Al-Gawhara Palace",
+                  "text": "Az Al-Gawhara Palota egy oszmán kori palota a Muhammad Ali mecsettől délre.",
+                  "category": "castle",
+                  "coords": [
+                        31.260134,
+                        30.027529
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Museum",
+                  "text": "A Mustafa Kamel Múzeum a névadó egyiptomi nacionalista életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        31.257236,
+                        30.029693
+                  ]
+            },
+            {
+                  "name": "Mosque of Muhammad Ali",
+                  "text": "Az 1848-ban elkészült Muhammad Ali mecset oszmán kupoláival meghatározza a Citadella látképét.",
+                  "category": "religious",
+                  "coords": [
+                        31.259734,
+                        30.028983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Lu'lu'a Mosque",
+                  "text": "Moscheea Al-Lu'lu'a este o structură fatimidă situată pe dealurile Mokattam.",
+                  "category": "religious",
+                  "coords": [
+                        31.268181,
+                        30.019761
+                  ]
+            },
+            {
+                  "name": "Al-Gawhara Palace",
+                  "text": "Palatul Al-Gawhara este un palat din epoca otomană situat la sud de Moscheea lui Muhammad Ali.",
+                  "category": "castle",
+                  "coords": [
+                        31.260134,
+                        30.027529
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Museum",
+                  "text": "Muzeul Mustafa Kamel este dedicat vieții și operei naționalistului egiptean cu același nume.",
+                  "category": "museum",
+                  "coords": [
+                        31.257236,
+                        30.029693
+                  ]
+            },
+            {
+                  "name": "Mosque of Muhammad Ali",
+                  "text": "Finalizată în 1848, Moscheea lui Muhammad Ali domină orizontul Citadelei cu cupolele sale otomane.",
+                  "category": "religious",
+                  "coords": [
+                        31.259734,
+                        30.028983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Lu'lu'a Mosque",
+                  "text": "The Al-Lu'lu'a Mosque is a Fatimid structure perched on the Mokattam hills.",
+                  "category": "religious",
+                  "coords": [
+                        31.268181,
+                        30.019761
+                  ]
+            },
+            {
+                  "name": "Al-Gawhara Palace",
+                  "text": "The Al-Gawhara Palace is an Ottoman-era palace located south of the Mosque of Muhammad Ali.",
+                  "category": "castle",
+                  "coords": [
+                        31.260134,
+                        30.027529
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Museum",
+                  "text": "The Mustafa Kamel Museum is dedicated to the life and work of the eponymous Egyptian nationalist.",
+                  "category": "museum",
+                  "coords": [
+                        31.257236,
+                        30.029693
+                  ]
+            },
+            {
+                  "name": "Mosque of Muhammad Ali",
+                  "text": "Completed in 1848, the Mosque of Muhammad Ali dominates the Citadel's skyline with its Ottoman domes.",
+                  "category": "religious",
+                  "coords": [
+                        31.259734,
+                        30.028983
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2597, 30.0289],
@@ -195,7 +1311,88 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Construite entre 1830 et 1848.", "Aussi connue sous le nom de mosquée d'albâtre.", "Érigée sur ordre de Méhémet Ali."],
     }, image: "/poi-images/eg-muhammad-ali-mosque.webp"},
   {
-    id: "eg-sultan-hassan-mosque",
+    id: "eg-sultan-hassan-mosque", "sights": {
+      "de": [
+            {
+                  "name": "Mosque of Sheikhun El Omary El Mamlouky",
+                  "text": "Diese denkmalgeschützte Kultstätte befindet sich in der Nähe der berühmten Sultan-Hassan-Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        31.252997,
+                        30.030979
+                  ]
+            },
+            {
+                  "name": "Al-Rifa'i Mosque",
+                  "text": "Diese Moschee steht in direkter architektonischer Nachbarschaft zur Sultan-Hassan-Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        31.257098,
+                        30.03284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque of Sheikhun El Omary El Mamlouky",
+                  "text": "Ez a műemlékvédelem alatt álló istentiszteleti hely a híres Szultán Haszán-mecset közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        31.252997,
+                        30.030979
+                  ]
+            },
+            {
+                  "name": "Al-Rifa'i Mosque",
+                  "text": "Ez a mecset közvetlen építészeti szomszédságban áll a Szultán Haszán-mecsettel.",
+                  "category": "religious",
+                  "coords": [
+                        31.257098,
+                        30.03284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque of Sheikhun El Omary El Mamlouky",
+                  "text": "Acest lăcaș de cult de patrimoniu este situat în apropierea faimoasei moschei Sultan Hassan.",
+                  "category": "religious",
+                  "coords": [
+                        31.252997,
+                        30.030979
+                  ]
+            },
+            {
+                  "name": "Al-Rifa'i Mosque",
+                  "text": "Această moschee se află în vecinătate arhitecturală directă cu Moscheea Sultan Hassan.",
+                  "category": "religious",
+                  "coords": [
+                        31.257098,
+                        30.03284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque of Sheikhun El Omary El Mamlouky",
+                  "text": "This heritage-listed place of worship is located near the famous Sultan Hassan Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        31.252997,
+                        30.030979
+                  ]
+            },
+            {
+                  "name": "Al-Rifa'i Mosque",
+                  "text": "This mosque stands in direct architectural proximity to the Sultan Hassan Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        31.257098,
+                        30.03284
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2567, 30.0322],
@@ -243,7 +1440,160 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Construite entre 1356 et 1363.", "Considérée comme un chef-d'œuvre de l'architecture mamelouke.", "Accueille des espaces pour les quatre écoles juridiques sunnites."],
     }, image: "/poi-images/eg-sultan-hassan-mosque.webp"},
   {
-    id: "eg-qasr-el-nil-bridge",
+    id: "eg-qasr-el-nil-bridge", "sights": {
+      "de": [
+            {
+                  "name": "Falak Art Gallery",
+                  "text": "Ein kultureller Ausstellungsraum in der Nähe des Nils, der zeitgenössische bildende Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        31.233119,
+                        30.037142
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Monument",
+                  "text": "Eine der berühmten Bronzelöwenstatuen, die den Eingang zur Brücke bewachen.",
+                  "category": "historical",
+                  "coords": [
+                        31.231621,
+                        30.043966
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Bridge (The Nile Castle Bridge)",
+                  "text": "Eine historische Stahlbrücke über den Nil, berühmt für die großen Bronzelöwen an ihren Auffahrten.",
+                  "category": "historical",
+                  "coords": [
+                        31.229834,
+                        30.043689
+                  ]
+            },
+            {
+                  "name": "El Andalos Park",
+                  "text": "Ein öffentlicher Park am Flussufer, gestaltet im andalusischen Baustil mit Mosaikbrunnen.",
+                  "category": "park",
+                  "coords": [
+                        31.227456,
+                        30.044845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Falak Art Gallery",
+                  "text": "Kortárs képzőművészetet bemutató kulturális kiállítótér a Nílus közelében.",
+                  "category": "museum",
+                  "coords": [
+                        31.233119,
+                        30.037142
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Monument",
+                  "text": "A híd bejáratát őrző híres bronz oroszlánszobrok egyike.",
+                  "category": "historical",
+                  "coords": [
+                        31.231621,
+                        30.043966
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Bridge (The Nile Castle Bridge)",
+                  "text": "Történelmi acélhíd, amely átível a Níluson, és a felhajtóinál található nagy bronz oroszlánokról híres.",
+                  "category": "historical",
+                  "coords": [
+                        31.229834,
+                        30.043689
+                  ]
+            },
+            {
+                  "name": "El Andalos Park",
+                  "text": "Andalúziai építészeti stílusban tervezett, mozaikszökőkutakkal díszített folyóparti nyilvános park.",
+                  "category": "park",
+                  "coords": [
+                        31.227456,
+                        30.044845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Falak Art Gallery",
+                  "text": "Un spațiu expozițional cultural care prezintă arte vizuale contemporane lângă Nil.",
+                  "category": "museum",
+                  "coords": [
+                        31.233119,
+                        30.037142
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Monument",
+                  "text": "Una dintre faimoasele statui de bronz cu lei care păzesc intrarea pe pod.",
+                  "category": "historical",
+                  "coords": [
+                        31.231621,
+                        30.043966
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Bridge (The Nile Castle Bridge)",
+                  "text": "Un pod istoric din oțel care traversează Nilul, renumit pentru leii mari de bronz de la intrările sale.",
+                  "category": "historical",
+                  "coords": [
+                        31.229834,
+                        30.043689
+                  ]
+            },
+            {
+                  "name": "El Andalos Park",
+                  "text": "Un parc public pe malul râului, proiectat în stil arhitectural andaluz, cu fântâni din mozaic.",
+                  "category": "park",
+                  "coords": [
+                        31.227456,
+                        30.044845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Falak Art Gallery",
+                  "text": "A cultural exhibition space showcasing contemporary visual arts near the Nile.",
+                  "category": "museum",
+                  "coords": [
+                        31.233119,
+                        30.037142
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Monument",
+                  "text": "One of the famous bronze lion statues guarding the entrance to the bridge.",
+                  "category": "historical",
+                  "coords": [
+                        31.231621,
+                        30.043966
+                  ]
+            },
+            {
+                  "name": "Qasr El-Nile Bridge (The Nile Castle Bridge)",
+                  "text": "A historic steel bridge spanning the Nile, famed for the large bronze lions at its approaches.",
+                  "category": "historical",
+                  "coords": [
+                        31.229834,
+                        30.043689
+                  ]
+            },
+            {
+                  "name": "El Andalos Park",
+                  "text": "A riverside public park designed in the Andalusian architectural style with mosaic fountains.",
+                  "category": "park",
+                  "coords": [
+                        31.227456,
+                        30.044845
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2294, 30.0433],
@@ -291,7 +1641,340 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Célèbre pour ses quatre statues de lions en bronze.", "Un lieu prisé pour les promenades nocturnes.", "Enjambe le Nil sur 382 mètres."],
     }, image: "/poi-images/eg-qasr-el-nil-bridge.webp"},
   {
-    id: "eg-egyptian-museum-cairo",
+    id: "eg-egyptian-museum-cairo", "sights": {
+      "de": [
+            {
+                  "name": "Contemporary Image Collective (CIC)",
+                  "text": "Ein unabhängiger Ausstellungsraum für zeitgenössische Kunst in der Innenstadt von Kairo, dessen Schwerpunkt auf progressiver visueller Kultur und modernen Fotojournalismus-Ausstellungen liegt.",
+                  "category": "museum",
+                  "coords": [
+                        31.240308,
+                        30.049834
+                  ]
+            },
+            {
+                  "name": "Sinan Pasha Mosque",
+                  "text": "Sie gilt als eines der frühesten osmanischen Bauwerke Kairos und verfügt über eine markante breite, flache Kuppel, die auf einer massiven quadratischen Gebetshalle thront.",
+                  "category": "religious",
+                  "coords": [
+                        31.229459,
+                        30.062132
+                  ]
+            },
+            {
+                  "name": "Ägyptisches Museum",
+                  "text": "Dieses prächtige neoklassizistische Gebäude aus rotem Backstein am Tahrir-Platz beherbergt eine beispiellose Sammlung antiker pharaonischer Antiquitäten und monumentaler Steinstatuen.",
+                  "category": "museum",
+                  "coords": [
+                        31.233607,
+                        30.047797
+                  ]
+            },
+            {
+                  "name": "Theater Qasr el Nil",
+                  "text": "Ein historischer Veranstaltungsort für darstellende Künste in der Innenstadt, der für die legendären Konzerte der ägyptischen Sänger-Ikone Umm Kulthum berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        31.236826,
+                        30.047359
+                  ]
+            },
+            {
+                  "name": "Rawabet Townhouse Theater",
+                  "text": "Versteckt in einer Gasse der Innenstadt, ist dieser rohe, intime Aufführungsraum ein wichtiges Zentrum für Kairos unabhängige Theaterszene und experimentelle Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        31.237981,
+                        30.049453
+                  ]
+            },
+            {
+                  "name": "Institute for Arabic Music",
+                  "text": "Dieses in einem wunderschön erhaltenen neo-mamlukischen Gebäude untergebrachte Zentrum verfügt über ein rundes Theater, das ausschließlich klassischen orientalischen Musikaufführungen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        31.23941,
+                        30.054513
+                  ]
+            },
+            {
+                  "name": "Royal Carriages Museum",
+                  "text": "Dieses spezialisierte Museum zeigt eine opulente Sammlung vergoldeter Pferdekutschen, die einst von der Muhammad-Ali-Dynastie für große staatliche Anlässe genutzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        31.231085,
+                        30.055473
+                  ]
+            },
+            {
+                  "name": "Foreign Ministry",
+                  "text": "Ein markantes modernes Hochhaus mit Blick auf den Nil, gekrönt von einer unverwechselbaren Struktur, die von der altägyptischen Lotusblüte inspiriert ist.",
+                  "category": "tower",
+                  "coords": [
+                        31.229901,
+                        30.055465
+                  ]
+            },
+            {
+                  "name": "Chaar Hachamaim Synagogue",
+                  "text": "Diese sephardische Synagoge aus dem frühen 20. Jahrhundert in der Innenstadt von Kairo besticht durch ihre imposante Steinfassade, die altägyptischen Tempeln nachempfunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        31.243749,
+                        30.051413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Contemporary Image Collective (CIC)",
+                  "text": "Egy független kortárs művészeti tér Kairó belvárosában, amely erősen fókuszál a progresszív vizuális kultúrára és a modern fotóújságírói kiállításokra.",
+                  "category": "museum",
+                  "coords": [
+                        31.240308,
+                        30.049834
+                  ]
+            },
+            {
+                  "name": "Sinan Pasha Mosque",
+                  "text": "Kairó egyik legkorábbi oszmán építményeként ismert, és egy jellegzetes széles, sekély kupolával rendelkezik, amely egy masszív négyzet alakú imaterem tetején helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        31.229459,
+                        30.062132
+                  ]
+            },
+            {
+                  "name": "Egyiptomi Múzeum",
+                  "text": "Ez a Tahrir téren álló grandiózus neoklasszikus vöröstéglás épület az ókori fáraókori régiségek és monumentális kőszobrok páratlan gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        31.233607,
+                        30.047797
+                  ]
+            },
+            {
+                  "name": "Qasr el Nil Theatre",
+                  "text": "Történelmi belvárosi előadó-művészeti helyszín, amely arról híres, hogy a legendás egyiptomi énekesnő, Umm Kulthum koncertjeinek adott otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        31.236826,
+                        30.047359
+                  ]
+            },
+            {
+                  "name": "Rawabet Townhouse Theater",
+                  "text": "A belváros egyik sikátorában megbúvó nyers, intim előadótér Kairó független színházi és kísérleti művészeti életének egyik fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        31.237981,
+                        30.049453
+                  ]
+            },
+            {
+                  "name": "Institute for Arabic Music",
+                  "text": "Egy gyönyörűen megőrzött neo-mameluk épületben található központ egy kör alakú színházzal rendelkezik, amelyet teljes egészében a klasszikus közel-keleti zenei előadásoknak szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        31.23941,
+                        30.054513
+                  ]
+            },
+            {
+                  "name": "Royal Carriages Museum",
+                  "text": "Ez a specializált múzeum egy fényűző, aranyozott lovaskocsikból álló gyűjteményt mutat be, amelyeket egykor a Mohamed Ali-dinasztia használt jelentős állami eseményeken.",
+                  "category": "museum",
+                  "coords": [
+                        31.231085,
+                        30.055473
+                  ]
+            },
+            {
+                  "name": "Foreign Ministry",
+                  "text": "Lenyűgöző modern toronyház a Nílusra néző kilátással, amelynek tetején egy ókori egyiptomi lótuszvirág által ihletett, jellegzetes szerkezeti korona található.",
+                  "category": "tower",
+                  "coords": [
+                        31.229901,
+                        30.055465
+                  ]
+            },
+            {
+                  "name": "Chaar Hachamaim Synagogue",
+                  "text": "Ez a kora 20. századi szefárd zsinagóga impozáns kőhomlokzatával tűnik ki Kairó belvárosában, amelynek mintáját az ókori fáraó-templomok ihlették.",
+                  "category": "religious",
+                  "coords": [
+                        31.243749,
+                        30.051413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Contemporary Image Collective (CIC)",
+                  "text": "Un spațiu independent de artă contemporană în centrul orașului Cairo, axat în principal pe cultura vizuală progresistă și pe expoziții moderne de fotojurnalism.",
+                  "category": "museum",
+                  "coords": [
+                        31.240308,
+                        30.049834
+                  ]
+            },
+            {
+                  "name": "Sinan Pasha Mosque",
+                  "text": "Recunoscută ca una dintre primele structuri otomane din Cairo, aceasta prezintă un dom distinctiv de lat și puțin adânc, așezat deasupra unei săli de rugăciune pătrate și robuste.",
+                  "category": "religious",
+                  "coords": [
+                        31.229459,
+                        30.062132
+                  ]
+            },
+            {
+                  "name": "Muzeul Egiptean",
+                  "text": "Această clădire grandioasă neoclasică din cărămidă roșie din Piața Tahrir găzduiește o colecție de neegalat de antichități faraonice antice și statui monumentale din piatră.",
+                  "category": "museum",
+                  "coords": [
+                        31.233607,
+                        30.047797
+                  ]
+            },
+            {
+                  "name": "Qasr el Nil Theatre",
+                  "text": "Un loc istoric de spectacole din centrul orașului, faimos pentru găzduirea concertelor legendare ale emblematicei cântărețe egiptene Umm Kulthum.",
+                  "category": "cultural",
+                  "coords": [
+                        31.236826,
+                        30.047359
+                  ]
+            },
+            {
+                  "name": "Rawabet Townhouse Theater",
+                  "text": "Ascuns într-o alee din centrul orașului, acest spațiu de spectacol brut și intim este un centru vital pentru teatrul independent și scena artelor experimentale din Cairo.",
+                  "category": "cultural",
+                  "coords": [
+                        31.237981,
+                        30.049453
+                  ]
+            },
+            {
+                  "name": "Institute for Arabic Music",
+                  "text": "Găzduit într-o clădire neo-mamelucă frumos conservată, acest centru prezintă un teatru circular dedicat în întregime spectacolelor de muzică clasică din Orientul Mijlociu.",
+                  "category": "cultural",
+                  "coords": [
+                        31.23941,
+                        30.054513
+                  ]
+            },
+            {
+                  "name": "Royal Carriages Museum",
+                  "text": "Acest muzeu specializat expune o colecție opulentă de trăsuri aurite trase de cai, folosite anterior de dinastia Muhammad Ali pentru ocazii de stat mărețe.",
+                  "category": "museum",
+                  "coords": [
+                        31.231085,
+                        30.055473
+                  ]
+            },
+            {
+                  "name": "Foreign Ministry",
+                  "text": "Un turn înalt modern uimitor, cu vedere la Nil, încununat cu o structură distinctivă inspirată de floarea antică de lotus egipteană.",
+                  "category": "tower",
+                  "coords": [
+                        31.229901,
+                        30.055465
+                  ]
+            },
+            {
+                  "name": "Chaar Hachamaim Synagogue",
+                  "text": "Această sinagogă sefardă de la începutul secolului al XX-lea iese în evidență în centrul orașului Cairo prin fațada sa impunătoare din piatră, modelată după templele antice faraonice.",
+                  "category": "religious",
+                  "coords": [
+                        31.243749,
+                        30.051413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Contemporary Image Collective (CIC)",
+                  "text": "An independent contemporary art space in Downtown Cairo focusing heavily on progressive visual culture and modern photojournalism exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        31.240308,
+                        30.049834
+                  ]
+            },
+            {
+                  "name": "Sinan Pasha Mosque",
+                  "text": "Recognized as one of Cairo's earliest Ottoman structures, it features a distinctively wide, shallow dome set atop a sturdy square prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        31.229459,
+                        30.062132
+                  ]
+            },
+            {
+                  "name": "Egyptian Museum",
+                  "text": "This grand neoclassical red-brick building in Tahrir Square houses an unparalleled collection of ancient Pharaonic antiquities and monumental stone statues.",
+                  "category": "museum",
+                  "coords": [
+                        31.233607,
+                        30.047797
+                  ]
+            },
+            {
+                  "name": "Qasr el Nil Theatre",
+                  "text": "A historic downtown performing arts venue famously known for hosting legendary concerts by the iconic Egyptian singer Umm Kulthum.",
+                  "category": "cultural",
+                  "coords": [
+                        31.236826,
+                        30.047359
+                  ]
+            },
+            {
+                  "name": "Rawabet Townhouse Theater",
+                  "text": "Tucked away in a downtown alley, this raw, intimate performance space is a vital hub for Cairo's independent theater and experimental arts scene.",
+                  "category": "cultural",
+                  "coords": [
+                        31.237981,
+                        30.049453
+                  ]
+            },
+            {
+                  "name": "Institute for Arabic Music",
+                  "text": "Housed in a beautifully preserved Neo-Mamluk building, this center features a circular theater dedicated entirely to classical Middle Eastern musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        31.23941,
+                        30.054513
+                  ]
+            },
+            {
+                  "name": "Royal Carriages Museum",
+                  "text": "This specialized museum displays an opulent collection of gilded, horse-drawn carriages formerly used by the Muhammad Ali dynasty for grand state occasions.",
+                  "category": "museum",
+                  "coords": [
+                        31.231085,
+                        30.055473
+                  ]
+            },
+            {
+                  "name": "Foreign Ministry",
+                  "text": "A striking modern high-rise overlooking the Nile, topped with a distinctive structural crown inspired by the ancient Egyptian lotus flower.",
+                  "category": "tower",
+                  "coords": [
+                        31.229901,
+                        30.055465
+                  ]
+            },
+            {
+                  "name": "Chaar Hachamaim Synagogue",
+                  "text": "This early 20th-century Sephardic synagogue stands out in downtown Cairo with its imposing stone facade patterned after ancient Pharaonic temples.",
+                  "category": "religious",
+                  "coords": [
+                        31.243749,
+                        30.051413
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2336, 30.0478],
@@ -339,7 +2022,196 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Inauguré en 1902.", "Abrite plus de 120 000 objets exposés.", "Célèbre pour le masque d'or de Toutânkhamon."],
     }, image: "/poi-images/eg-egyptian-museum-cairo.webp"},
   {
-    id: "eg-grand-egyptian-museum",
+    id: "eg-grand-egyptian-museum", "sights": {
+      "de": [
+            {
+                  "name": "Abu Shoqaa Mosque",
+                  "text": "Eine lokale islamische Kultstätte mit traditionellen architektonischen Elementen in der Nähe des Großen Ägyptischen Museums.",
+                  "category": "landmark",
+                  "coords": [
+                        31.018107,
+                        30.011234
+                  ]
+            },
+            {
+                  "name": "El Hassana Dome Protectorate",
+                  "text": "Ein geologisches Naturschutzgebiet, das sich durch seine einzigartigen kuppelförmigen Felsformationen aus der Kreidezeit auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        31.06022,
+                        30.027635
+                  ]
+            },
+            {
+                  "name": "Radjedef-Pyramide",
+                  "text": "Der Ruinen-Pyramidenkomplex des Pharaos Radjedef aus der 4. Dynastie, der sich in der archäologischen Stätte von Abu Roasch befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.074938,
+                        30.032144
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Ein großer regionaler Themenpark mit einer Vielzahl von Fahrgeschäften und Unterhaltungsangeboten in der Nähe des Großen Ägyptischen Museums.",
+                  "category": "recreational",
+                  "coords": [
+                        31.059594,
+                        29.96729
+                  ]
+            },
+            {
+                  "name": "Großes Ägyptisches Museum",
+                  "text": "Ein monumentales archäologisches Museum, das Ende 2025 eröffnet wird und die gesamte Tutanchamun-Sammlung präsentieren soll.",
+                  "category": "museum",
+                  "coords": [
+                        31.119404,
+                        29.993916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Shoqaa Mosque",
+                  "text": "Helyi iszlám istentiszteleti hely hagyományos építészeti elemekkel a Nagy Egyiptomi Múzeum környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.018107,
+                        30.011234
+                  ]
+            },
+            {
+                  "name": "El Hassana Dome Protectorate",
+                  "text": "Geológiai természetvédelmi terület, amelyet egyedülálló, krétakori kupola alakú sziklaformációk jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        31.06022,
+                        30.027635
+                  ]
+            },
+            {
+                  "name": "Dzsedefré piramis",
+                  "text": "Dzsedefré, a 4. dinasztia fáraójának romos piramiskomplexuma az Abu Ravas-i régészeti lelőhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.074938,
+                        30.032144
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Jelentős regionális vidámpark, amely különféle szórakoztató hullámvasutakat és kikapcsolódást kínál a Nagy Egyiptomi Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        31.059594,
+                        29.96729
+                  ]
+            },
+            {
+                  "name": "Grand Egyptian Museum",
+                  "text": "2025 végén megnyíló monumentális régészeti múzeum, amelyet a teljes Tutanhamon-gyűjtemény bemutatására terveztek.",
+                  "category": "museum",
+                  "coords": [
+                        31.119404,
+                        29.993916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Shoqaa Mosque",
+                  "text": "Un lăcaș de cult islamic local cu elemente arhitecturale tradiționale în apropierea zonei Marelui Muzeu Egiptean.",
+                  "category": "landmark",
+                  "coords": [
+                        31.018107,
+                        30.011234
+                  ]
+            },
+            {
+                  "name": "El Hassana Dome Protectorate",
+                  "text": "O rezervație naturală geologică caracterizată prin formațiunile sale stâncoase unice în formă de dom din perioada cretacică.",
+                  "category": "natural",
+                  "coords": [
+                        31.06022,
+                        30.027635
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djedefre",
+                  "text": "Complexul ruinat al piramidei faraonului Djedefre din dinastia a 4-a, situat în situl arheologic Abu Rawash.",
+                  "category": "landmark",
+                  "coords": [
+                        31.074938,
+                        30.032144
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Un parc tematic regional important, care oferă o varietate de atracții de divertisment în apropierea Marelui Muzeu Egiptean.",
+                  "category": "recreational",
+                  "coords": [
+                        31.059594,
+                        29.96729
+                  ]
+            },
+            {
+                  "name": "Grand Egyptian Museum",
+                  "text": "Un muzeu arheologic monumental care se deschide la sfârșitul anului 2025, conceput pentru a expune colecția completă a lui Tutankhamon.",
+                  "category": "museum",
+                  "coords": [
+                        31.119404,
+                        29.993916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Shoqaa Mosque",
+                  "text": "A local Islamic place of worship with traditional architectural elements near the Grand Egyptian Museum area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.018107,
+                        30.011234
+                  ]
+            },
+            {
+                  "name": "El Hassana Dome Protectorate",
+                  "text": "A geological nature reserve characterized by its unique dome-shaped rock formations from the Cretaceous period.",
+                  "category": "natural",
+                  "coords": [
+                        31.06022,
+                        30.027635
+                  ]
+            },
+            {
+                  "name": "Pyramid of Djedefre",
+                  "text": "The ruined pyramid complex of the 4th dynasty pharaoh Djedefre, located at the Abu Rawash archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        31.074938,
+                        30.032144
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "A major regional theme park offering a variety of amusement rides and entertainment near the Grand Egyptian Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        31.059594,
+                        29.96729
+                  ]
+            },
+            {
+                  "name": "Grand Egyptian Museum",
+                  "text": "A monumental archaeological museum opening in late 2025, designed to showcase the complete Tutankhamun collection.",
+                  "category": "museum",
+                  "coords": [
+                        31.119404,
+                        29.993916
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-GZ",
     coords: [31.1186, 29.9947],
@@ -387,7 +2259,340 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["S'étend sur près de 50 hectares.", "Possède une statue colossale de Ramsès II dans l'atrium.", "Situé à seulement deux kilomètres des pyramides."],
     }, image: "/poi-images/eg-grand-egyptian-museum.webp"},
   {
-    id: "eg-nmec",
+    id: "eg-nmec", "sights": {
+      "de": [
+            {
+                  "name": "Mohamed Awad",
+                  "text": "Das Mohamed-Awad-Denkmal erinnert an seine historische oder kulturelle Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        31.294121,
+                        29.996577
+                  ]
+            },
+            {
+                  "name": "Carrefour MAADI",
+                  "text": "Carrefour MAADI ist ein großes Einkaufszentrum, das zahlreiche Einzelhandelsgeschäfte beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316174,
+                        29.982226
+                  ]
+            },
+            {
+                  "name": "falluka rides",
+                  "text": "Feluken-Fahrten bieten traditionelle Segelboottouren auf den Gewässern der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        31.250506,
+                        29.956927
+                  ]
+            },
+            {
+                  "name": "Cairo Photography Club",
+                  "text": "Der Cairo Photography Club ist ein Kunstzentrum, das sich der Förderung der Fotografie widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        31.257741,
+                        29.959
+                  ]
+            },
+            {
+                  "name": "Fustat Festival",
+                  "text": "Das Fustat Festival findet in einem Theaterbereich statt, der kulturelle Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249144,
+                        30.012758
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum der ägyptischen Zivilisation",
+                  "text": "Das Nationalmuseum der Ägyptischen Zivilisation in Fustat stellt Artefakte aus allen Epochen Ägyptens aus.",
+                  "category": "museum",
+                  "coords": [
+                        31.24846,
+                        30.007694
+                  ]
+            },
+            {
+                  "name": "Cairo Lake",
+                  "text": "Der Cairo Lake ist ein landschaftlich reizvolles Gewässer in der Nähe des Museums in Fustat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.252168,
+                        30.009265
+                  ]
+            },
+            {
+                  "name": "Heritage Gardens",
+                  "text": "Die Heritage Gardens sind eine archäologische Stätte, die in eine Parklandschaft integriert ist.",
+                  "category": "historical",
+                  "coords": [
+                        31.243613,
+                        30.006624
+                  ]
+            },
+            {
+                  "name": "Museum Storage",
+                  "text": "Das Museum Storage dient als Aufbewahrungsort für wertvolle historische Artefakte, die nicht ausgestellt sind.",
+                  "category": "museum",
+                  "coords": [
+                        31.241431,
+                        30.006019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mohamed Awad",
+                  "text": "A Mohamed Awad emlékmű történelmi vagy kulturális jelentőségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        31.294121,
+                        29.996577
+                  ]
+            },
+            {
+                  "name": "Carrefour MAADI",
+                  "text": "A Carrefour MAADI egy nagy bevásárlóközpont, amely számos kiskereskedelmi üzletet foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316174,
+                        29.982226
+                  ]
+            },
+            {
+                  "name": "falluka rides",
+                  "text": "A felukka túrák hagyományos vitorlás hajózást kínálnak a környék vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        31.250506,
+                        29.956927
+                  ]
+            },
+            {
+                  "name": "Cairo Photography Club",
+                  "text": "A Cairo Photography Club egy művészeti központ, amely a fotózás népszerűsítésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        31.257741,
+                        29.959
+                  ]
+            },
+            {
+                  "name": "Fustat Festival",
+                  "text": "A Fustat Fesztivál egy színházi területen zajlik, amely kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249144,
+                        30.012758
+                  ]
+            },
+            {
+                  "name": "National Museum of Egyptian Civilization",
+                  "text": "A fustati Egyiptomi Civilizáció Nemzeti Múzeuma Egyiptom minden korszakából állít ki leleteket.",
+                  "category": "museum",
+                  "coords": [
+                        31.24846,
+                        30.007694
+                  ]
+            },
+            {
+                  "name": "Cairo Lake",
+                  "text": "A Cairo Lake egy festői vizterület a fustati múzeum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.252168,
+                        30.009265
+                  ]
+            },
+            {
+                  "name": "Heritage Gardens",
+                  "text": "A Heritage Gardens egy parkosított környezetbe integrált régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        31.243613,
+                        30.006624
+                  ]
+            },
+            {
+                  "name": "Museum Storage",
+                  "text": "A Museum Storage olyan értékes történelmi műtárgyak raktáraként szolgál, amelyek nincsenek kiállítva.",
+                  "category": "museum",
+                  "coords": [
+                        31.241431,
+                        30.006019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mohamed Awad",
+                  "text": "Monumentul Mohamed Awad comemorează importanța sa istorică sau culturală.",
+                  "category": "historical",
+                  "coords": [
+                        31.294121,
+                        29.996577
+                  ]
+            },
+            {
+                  "name": "Carrefour MAADI",
+                  "text": "Carrefour MAADI este un centru comercial mare care găzduiește numeroase magazine de vânzare cu amănuntul.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316174,
+                        29.982226
+                  ]
+            },
+            {
+                  "name": "falluka rides",
+                  "text": "Plimbările cu feluca oferă excursii tradiționale cu bărci cu pânze pe apele din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.250506,
+                        29.956927
+                  ]
+            },
+            {
+                  "name": "Cairo Photography Club",
+                  "text": "Cairo Photography Club este un centru de artă dedicat promovării fotografiei.",
+                  "category": "cultural",
+                  "coords": [
+                        31.257741,
+                        29.959
+                  ]
+            },
+            {
+                  "name": "Fustat Festival",
+                  "text": "Festivalul Fustat are loc într-un spațiu teatral care găzduiește spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249144,
+                        30.012758
+                  ]
+            },
+            {
+                  "name": "National Museum of Egyptian Civilization",
+                  "text": "Muzeul Național al Civilizației Egiptene din Fustat expune artefacte din toate epocile Egiptului.",
+                  "category": "museum",
+                  "coords": [
+                        31.24846,
+                        30.007694
+                  ]
+            },
+            {
+                  "name": "Cairo Lake",
+                  "text": "Cairo Lake este un corp de apă pitoresc situat în apropierea muzeului din Fustat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.252168,
+                        30.009265
+                  ]
+            },
+            {
+                  "name": "Heritage Gardens",
+                  "text": "Heritage Gardens este un sit arheologic integrat într-un peisaj de parc.",
+                  "category": "historical",
+                  "coords": [
+                        31.243613,
+                        30.006624
+                  ]
+            },
+            {
+                  "name": "Museum Storage",
+                  "text": "Museum Storage servește ca depozit pentru artefacte istorice valoroase care nu sunt expuse.",
+                  "category": "museum",
+                  "coords": [
+                        31.241431,
+                        30.006019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mohamed Awad",
+                  "text": "The Mohamed Awad monument commemorates his historical or cultural significance.",
+                  "category": "historical",
+                  "coords": [
+                        31.294121,
+                        29.996577
+                  ]
+            },
+            {
+                  "name": "Carrefour MAADI",
+                  "text": "Carrefour MAADI is a large shopping center hosting numerous retail stores.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316174,
+                        29.982226
+                  ]
+            },
+            {
+                  "name": "falluka rides",
+                  "text": "Falluka rides offer traditional sailboat excursions on the local waters.",
+                  "category": "landmark",
+                  "coords": [
+                        31.250506,
+                        29.956927
+                  ]
+            },
+            {
+                  "name": "Cairo Photography Club",
+                  "text": "The Cairo Photography Club is an arts center dedicated to the promotion of photography.",
+                  "category": "cultural",
+                  "coords": [
+                        31.257741,
+                        29.959
+                  ]
+            },
+            {
+                  "name": "Fustat Festival",
+                  "text": "The Fustat Festival is held in a theatre space that hosts various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249144,
+                        30.012758
+                  ]
+            },
+            {
+                  "name": "National Museum of Egyptian Civilization",
+                  "text": "The National Museum of Egyptian Civilization in Fustat exhibits artifacts from all periods of Egypt.",
+                  "category": "museum",
+                  "coords": [
+                        31.24846,
+                        30.007694
+                  ]
+            },
+            {
+                  "name": "Cairo Lake",
+                  "text": "Cairo Lake is a scenic body of water located near the museum in Fustat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.252168,
+                        30.009265
+                  ]
+            },
+            {
+                  "name": "Heritage Gardens",
+                  "text": "The Heritage Gardens form an archaeological site integrated into a park landscape.",
+                  "category": "historical",
+                  "coords": [
+                        31.243613,
+                        30.006624
+                  ]
+            },
+            {
+                  "name": "Museum Storage",
+                  "text": "The Museum Storage serves as a repository for valuable historical artifacts not on display.",
+                  "category": "museum",
+                  "coords": [
+                        31.241431,
+                        30.006019
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2486, 30.0078],
@@ -435,7 +2640,232 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Entièrement ouvert en avril 2021.", "Abrite la salle des momies royales.", "Le premier musée de ce genre dans le monde arabe."],
     }, image: "/poi-images/eg-nmec.webp"},
   {
-    id: "eg-cairo-opera-house",
+    id: "eg-cairo-opera-house", "sights": {
+      "de": [
+            {
+                  "name": "Masrah Negm",
+                  "text": "Dieser Veranstaltungsort fungiert als lokales Theater, das dem Publikum zeitgenössische Stücke und komödiantische Aufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        31.210872,
+                        30.038565
+                  ]
+            },
+            {
+                  "name": "Mahmoud Khaleel",
+                  "text": "Dieses Museum beherbergt eine renommierte Privatsammlung impressionistischer Meisterwerke und bildender Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        31.219587,
+                        30.035556
+                  ]
+            },
+            {
+                  "name": "Opernhaus Kairo",
+                  "text": "Dieser Hauptveranstaltungsort für darstellende Künste in der ägyptischen Hauptstadt beherbergt bedeutende symphonische Konzerte und Ballettaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.224018,
+                        30.042561
+                  ]
+            },
+            {
+                  "name": "Nile Fountain",
+                  "text": "Diese Wasserattraktion schießt direkt aus dem Flussbett mächtige Wasserstrahlen hoch in die Luft.",
+                  "category": "landmark",
+                  "coords": [
+                        31.224315,
+                        30.036163
+                  ]
+            },
+            {
+                  "name": "Museum of Egyptian Modern Arts",
+                  "text": "Dieser Museumskomplex zeigt eine vielfältige Auswahl an Gemälden und Skulpturen renommierter lokaler Künstler des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        31.224722,
+                        30.043703
+                  ]
+            },
+            {
+                  "name": "Mahmoud Mukhtar Museum",
+                  "text": "Dieses Museum ist ganz den Werken des ägyptischen Pioniers der modernen Monumentalskulptur gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        31.222971,
+                        30.040606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masrah Negm",
+                  "text": "Ez a helyszín helyi színházként működik, kortárs darabokat és komikus előadásokat mutatva be a közönségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        31.210872,
+                        30.038565
+                  ]
+            },
+            {
+                  "name": "Mahmoud Khaleel",
+                  "text": "Ez a múzeum az impresszionista remekművek és a képzőművészet rangos magángyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        31.219587,
+                        30.035556
+                  ]
+            },
+            {
+                  "name": "Cairo Opera House",
+                  "text": "Az egyiptomi főváros fő előadóművészeti helyszíne jelentős szimfonikus koncerteknek és balettelőadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        31.224018,
+                        30.042561
+                  ]
+            },
+            {
+                  "name": "Nile Fountain",
+                  "text": "Ez a vízi látványosság közvetlenül a folyómederből lő magasra hatalmas vízsugarakat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.224315,
+                        30.036163
+                  ]
+            },
+            {
+                  "name": "Museum of Egyptian Modern Arts",
+                  "text": "Ez a múzeumkomplexum a 20. század neves helyi művészeinek sokféle festményét és szobrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.224722,
+                        30.043703
+                  ]
+            },
+            {
+                  "name": "Mahmoud Mukhtar Museum",
+                  "text": "Ez a múzeum teljes egészében Egyiptom modern monumentális szobrászatának úttörője alkotásainak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        31.222971,
+                        30.040606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masrah Negm",
+                  "text": "Această locație funcționează ca un teatru local, prezentând piese contemporane și spectacole de comedie publicului.",
+                  "category": "cultural",
+                  "coords": [
+                        31.210872,
+                        30.038565
+                  ]
+            },
+            {
+                  "name": "Mahmoud Khaleel",
+                  "text": "Acest muzeu găzduiește o colecție privată prestigioasă de capodopere impresioniste și artă plastică.",
+                  "category": "museum",
+                  "coords": [
+                        31.219587,
+                        30.035556
+                  ]
+            },
+            {
+                  "name": "Cairo Opera House",
+                  "text": "Acest principal loc de desfășurare a artelor spectacolului din capitala egipteană găzduiește concerte simfonice proeminente și spectacole de balet.",
+                  "category": "cultural",
+                  "coords": [
+                        31.224018,
+                        30.042561
+                  ]
+            },
+            {
+                  "name": "Nile Fountain",
+                  "text": "Această atracție acvatică trage jeturi puternice de apă sus în aer direct din albia râului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.224315,
+                        30.036163
+                  ]
+            },
+            {
+                  "name": "Museum of Egyptian Modern Arts",
+                  "text": "Acest complex muzeal prezintă o gamă diversă de picturi și sculpturi ale unor artiști locali renumiți din secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        31.224722,
+                        30.043703
+                  ]
+            },
+            {
+                  "name": "Mahmoud Mukhtar Museum",
+                  "text": "Acest muzeu este dedicat în întregime operelor pionierului sculpturii monumentale moderne din Egipt.",
+                  "category": "museum",
+                  "coords": [
+                        31.222971,
+                        30.040606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masrah Negm",
+                  "text": "This venue functions as a local theatre presenting contemporary plays and comedic performances to audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        31.210872,
+                        30.038565
+                  ]
+            },
+            {
+                  "name": "Mahmoud Khaleel",
+                  "text": "This museum houses a prestigious private collection of impressionist masterpieces and fine art.",
+                  "category": "museum",
+                  "coords": [
+                        31.219587,
+                        30.035556
+                  ]
+            },
+            {
+                  "name": "Cairo Opera House",
+                  "text": "This main performing arts venue in the Egyptian capital hosts prominent symphonic concerts and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        31.224018,
+                        30.042561
+                  ]
+            },
+            {
+                  "name": "Nile Fountain",
+                  "text": "This aquatic attraction shoots powerful jets of water high into the air directly from the riverbed.",
+                  "category": "landmark",
+                  "coords": [
+                        31.224315,
+                        30.036163
+                  ]
+            },
+            {
+                  "name": "Museum of Egyptian Modern Arts",
+                  "text": "This museum complex features a diverse array of paintings and sculptures by renowned 20th-century local artists.",
+                  "category": "museum",
+                  "coords": [
+                        31.224722,
+                        30.043703
+                  ]
+            },
+            {
+                  "name": "Mahmoud Mukhtar Museum",
+                  "text": "This museum is entirely dedicated to the works of Egypt's pioneer of modern monumental sculpture.",
+                  "category": "museum",
+                  "coords": [
+                        31.222971,
+                        30.040606
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2236, 30.0422],
@@ -483,7 +2913,196 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Inauguré en 1988.", "A remplacé l'Opéra khédival détruit par un incendie.", "Comprend plusieurs théâtres et galeries d'art."],
     }, image: "/poi-images/eg-cairo-opera-house.webp"},
   {
-    id: "eg-abdeen-palace",
+    id: "eg-abdeen-palace", "sights": {
+      "de": [
+            {
+                  "name": "Gomhouria",
+                  "text": "Dieses elegante Staatstheater in der Nähe des Abdeen-Palastes verfügt über eine klassische Proszeniumsbühne für renommierte Ballett-, Opern- und Orchesterveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.246357,
+                        30.046013
+                  ]
+            },
+            {
+                  "name": "Abdeen Palace Museum",
+                  "text": "Die Museumssäle befinden sich in einem weitläufigen königlichen Palast aus dem 19. Jahrhundert und zeigen umfangreiche Sammlungen historischer Waffen, Medaillen und großzügiger Präsidentschaftsgeschenke.",
+                  "category": "museum",
+                  "coords": [
+                        31.247833,
+                        30.043405
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Ein charakteristisches lokales Wohnhaus, das einen Einblick in den alltäglichen Trubel der Nachbarschaft nur wenige Schritte vom großen königlichen Palast entfernt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.242053,
+                        30.042127
+                  ]
+            },
+            {
+                  "name": "Museum für Islamische Kunst",
+                  "text": "Sie gilt weithin als eine der größten Sammlungen der Welt und beherbergt sorgfältig erhaltene historische Holzarbeiten, illuminierte Manuskripte und Keramik aus der gesamten islamischen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        31.252717,
+                        30.044725
+                  ]
+            },
+            {
+                  "name": "Kekhya Mosque",
+                  "text": "Diese elegante Moschee aus der osmanischen Ära wurde Mitte des 18. Jahrhunderts erbaut und fügt sich mit ihrem schlanken Minarett und dem verzierten Portikus in das lebhafte Viertel Abdeen ein.",
+                  "category": "religious",
+                  "coords": [
+                        31.246418,
+                        30.049048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gomhouria",
+                  "text": "Az Abdeen-palota közelében működő elegáns állami színház klasszikus proszcénium színpaddal rendelkezik, amelyet rangos balett-, opera- és zenekari eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        31.246357,
+                        30.046013
+                  ]
+            },
+            {
+                  "name": "Abdeen Palace Museum",
+                  "text": "A kiterjedt 19. századi királyi palotában található múzeum termeiben történelmi fegyverek, kitüntetések és pazar elnöki ajándékok kiterjedt gyűjteményeit állítják ki.",
+                  "category": "museum",
+                  "coords": [
+                        31.247833,
+                        30.043405
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Egy jellegzetes helyi lakóház, amely bepillantást enged a mindennapi környékbeli életbe, mindössze néhány lépésre a nagyszerű királyi palotától.",
+                  "category": "landmark",
+                  "coords": [
+                        31.242053,
+                        30.042127
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Art",
+                  "text": "Széles körben a világ egyik legnagyobb gyűjteményeként tartják számon, amely aprólékosan megőrzött történelmi fafaragásoknak, illusztrált kéziratoknak és az egész iszlám világból származó kerámiáknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        31.252717,
+                        30.044725
+                  ]
+            },
+            {
+                  "name": "Kekhya Mosque",
+                  "text": "A 18. század közepén épült elegáns oszmán kori mecset karcsú minaretjével és díszített portikuszával belesimul a nyüzsgő Abdeen negyedbe.",
+                  "category": "religious",
+                  "coords": [
+                        31.246418,
+                        30.049048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gomhouria",
+                  "text": "Funcționând în apropiere de Palatul Abdeen, acest teatru de stat elegant are o scenă clasică cu proscenium folosită pentru evenimente prestigioase de balet, operă și orchestră.",
+                  "category": "cultural",
+                  "coords": [
+                        31.246357,
+                        30.046013
+                  ]
+            },
+            {
+                  "name": "Abdeen Palace Museum",
+                  "text": "Situat într-un vast palat regal din secolul al XIX-lea, sălile muzeului expun colecții extinse de arme istorice, medalii și cadouri prezidențiale fastuoase.",
+                  "category": "museum",
+                  "coords": [
+                        31.247833,
+                        30.043405
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "O locuință rezidențială locală caracteristică, care oferă o privire asupra vieții cotidiene de cartier, la doar câțiva pași de marele palat regal.",
+                  "category": "landmark",
+                  "coords": [
+                        31.242053,
+                        30.042127
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Art",
+                  "text": "Considerată pe scară largă drept una dintre cele mai mari colecții din lume, găzduiește obiecte istorice din lemn conservate cu meticulozitate, manuscrise iluminate și ceramică din întreaga lume islamică.",
+                  "category": "museum",
+                  "coords": [
+                        31.252717,
+                        30.044725
+                  ]
+            },
+            {
+                  "name": "Kekhya Mosque",
+                  "text": "Construită la mijlocul secolului al XVIII-lea, această elegantă moschee din epoca otomană se îmbină în vibrantul cartier Abdeen cu minaretul său zvelt și porticul decorat.",
+                  "category": "religious",
+                  "coords": [
+                        31.246418,
+                        30.049048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gomhouria",
+                  "text": "Operating near Abdeen Palace, this elegant state theatre features a classical proscenium stage used for prestigious ballet, opera, and orchestral events.",
+                  "category": "cultural",
+                  "coords": [
+                        31.246357,
+                        30.046013
+                  ]
+            },
+            {
+                  "name": "Abdeen Palace Museum",
+                  "text": "Located within a sprawling 19th-century royal palace, the museum halls display extensive collections of historical arms, medals, and lavish presidential gifts.",
+                  "category": "museum",
+                  "coords": [
+                        31.247833,
+                        30.043405
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "A characteristic local residential dwelling that offers a glimpse into everyday neighborhood life just steps away from the grand royal palace.",
+                  "category": "landmark",
+                  "coords": [
+                        31.242053,
+                        30.042127
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Art",
+                  "text": "Widely considered one of the world's greatest collections, it houses meticulously preserved historic woodwork, illuminated manuscripts, and ceramics from across the Islamic world.",
+                  "category": "museum",
+                  "coords": [
+                        31.252717,
+                        30.044725
+                  ]
+            },
+            {
+                  "name": "Kekhya Mosque",
+                  "text": "Constructed in the mid-18th century, this elegant Ottoman-era mosque blends into the vibrant Abdeen district with its slender minaret and decorated portico.",
+                  "category": "religious",
+                  "coords": [
+                        31.246418,
+                        30.049048
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2467, 30.0417],
@@ -531,7 +3150,448 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Début de la construction en 1863.", "Abrite plusieurs musées.", "L'un des palais les plus opulents au monde."],
     }, image: "/poi-images/eg-abdeen-palace.webp"},
   {
-    id: "eg-baron-empain-palace",
+    id: "eg-baron-empain-palace", "sights": {
+      "de": [
+            {
+                  "name": "Crossing to other side of str",
+                  "text": "Dieser Fußgänger-Aussichtspunkt bietet eine einzigartige Perspektive, um die markante hinduistisch inspirierte Fassade des berühmten Baron-Empain-Palastes von der anderen Straßenseite aus zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        31.338638,
+                        30.093321
+                  ]
+            },
+            {
+                  "name": "Ibn Al Hakam Square",
+                  "text": "Dieser monumentale Platz, der als wichtiger Verkehrsknotenpunkt in Heliopolis fungiert, zentriert sich um eine bekannte Gedenkstatue.",
+                  "category": "historical",
+                  "coords": [
+                        31.320281,
+                        30.109963
+                  ]
+            },
+            {
+                  "name": "Ice skating",
+                  "text": "Diese überdachte Eisbahn, die sich in einem lokalen Einkaufszentrum befindet, bietet einen kühlen, familienfreundlichen Freizeitausgleich zur Hitze Kairos.",
+                  "category": "landmark",
+                  "coords": [
+                        31.386759,
+                        30.103243
+                  ]
+            },
+            {
+                  "name": "Baron Empain Palace",
+                  "text": "Dieses 1907 vom Architekten Alexandre Marcel entworfene historische Herrenhaus besticht durch ein atemberaubendes Äußeres im Stil eines Hindutempels aus Stahlbeton.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330272,
+                        30.086656
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Dieses an die klassische Antike angelehnte Freiluft-Amphitheater ist Schauplatz für verschiedene Open-Air-Konzerte und kulturelle Darbietungen im Viertel.",
+                  "category": "cultural",
+                  "coords": [
+                        31.335988,
+                        30.103
+                  ]
+            },
+            {
+                  "name": "Child Museum",
+                  "text": "In einem üppigen Park gelegen, widmet sich dieses interaktive Bildungsmuseum der Aufgabe, Kindern das ägyptische Erbe und die Natur näherzubringen.",
+                  "category": "museum",
+                  "coords": [
+                        31.336977,
+                        30.102243
+                  ]
+            },
+            {
+                  "name": "Basilica of Our Lady of Fatima",
+                  "text": "Diese markante Basilika, die als chaldäisch-katholische Kathedrale von Kairo fungiert, ist ein wichtiges spirituelles Zentrum für die lokale katholische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        31.344506,
+                        30.105881
+                  ]
+            },
+            {
+                  "name": "El Galaa",
+                  "text": "Dieser von den Streitkräften betriebene prominente Kino- und Theaterkomplex zeigt regelmäßig lokale Blockbuster und beherbergt offizielle Zeremonien.",
+                  "category": "cultural",
+                  "coords": [
+                        31.348142,
+                        30.097363
+                  ]
+            },
+            {
+                  "name": "St George's Orthodox Church",
+                  "text": "Diese vom prominenten Architekten Ramses Wissa Wassef entworfene moderne koptisch-orthodoxe Kirche präsentiert eine innovative Backstein-Gewölbearchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        31.33954,
+                        30.108101
+                  ]
+            },
+            {
+                  "name": "Senan Basha",
+                  "text": "Diese robuste historische Befestigungsanlage aus Stein zeichnet sich durch ihre dicken Verteidigungsmauern und bogenförmigen monumentalen Tore aus.",
+                  "category": "castle",
+                  "coords": [
+                        31.317609,
+                        30.10467
+                  ]
+            },
+            {
+                  "name": "Heliopolis Presidential Palace",
+                  "text": "Dieses majestätische Gebäude im maurischen Renaissancestil, das ursprünglich als luxuriöses Grandhotel betrieben wurde, dient heute als Hauptgeschäftssitz des ägyptischen Präsidenten.",
+                  "category": "castle",
+                  "coords": [
+                        31.31958,
+                        30.088936
+                  ]
+            },
+            {
+                  "name": "Ramsis Statue",
+                  "text": "Eine hoch aufragende steinerne Nachbildung des legendären Pharaos Ramses II., die als markantes monumentales Wahrzeichen für den in den Bezirk einfahrenden Verkehr dient.",
+                  "category": "historical",
+                  "coords": [
+                        31.346612,
+                        30.097764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crossing to other side of str",
+                  "text": "Ez a gyalogos kilátópont egyedi perspektívát kínál arra, hogy az utca túloldaláról megcsodáljuk a híres Baron Empain-palota feltűnő, hindu ihletésű homlokzatát.",
+                  "category": "natural",
+                  "coords": [
+                        31.338638,
+                        30.093321
+                  ]
+            },
+            {
+                  "name": "Ibn Al Hakam Square",
+                  "text": "A Heliopolisz fontos közlekedési csomópontjaként működő monumentális tér középpontjában egy jól ismert emlékszobor áll.",
+                  "category": "historical",
+                  "coords": [
+                        31.320281,
+                        30.109963
+                  ]
+            },
+            {
+                  "name": "Ice skating",
+                  "text": "Egy helyi bevásárlóközpontban található fedett jégpálya hűs, családbarát kikapcsolódást nyújt a kairói hőségben.",
+                  "category": "landmark",
+                  "coords": [
+                        31.386759,
+                        30.103243
+                  ]
+            },
+            {
+                  "name": "Baron Empain Palace",
+                  "text": "Az Alexandre Marcel építész által 1907-ben tervezett történelmi kastély lenyűgöző, hindu templomot idéző, vasbetonból készült külsővel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330272,
+                        30.086656
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "A klasszikus ókort idéző szabadtéri amfiteátrum különféle szabadtéri koncerteknek és kulturális előadásoknak ad otthont a kerületben.",
+                  "category": "cultural",
+                  "coords": [
+                        31.335988,
+                        30.103
+                  ]
+            },
+            {
+                  "name": "Child Museum",
+                  "text": "A buja parkban található interaktív oktatási múzeum célja, hogy megismertesse a gyerekekkel az egyiptomi örökséget és a természeti világot.",
+                  "category": "museum",
+                  "coords": [
+                        31.336977,
+                        30.102243
+                  ]
+            },
+            {
+                  "name": "Basilica of Our Lady of Fatima",
+                  "text": "A kairói káld katolikus katedrálisként működő lenyűgöző bazilika a helyi katolikus közösség fő spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        31.344506,
+                        30.105881
+                  ]
+            },
+            {
+                  "name": "El Galaa",
+                  "text": "A fegyveres erők által üzemeltetett kiemelkedő mozi- és színházkomplexum rendszeresen vetít helyi kasszasikereket, és hivatalos ünnepségeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        31.348142,
+                        30.097363
+                  ]
+            },
+            {
+                  "name": "St George's Orthodox Church",
+                  "text": "A híres építész, Ramses Wissa Wassef által tervezett modern kopt ortodox templom innovatív boltozatos téglaépítészetet mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        31.33954,
+                        30.108101
+                  ]
+            },
+            {
+                  "name": "Senan Basha",
+                  "text": "Erős történelmi erődítményként álló kőépítményt vastag védőfalak és boltíves monumentális kapuk jellemzik.",
+                  "category": "castle",
+                  "coords": [
+                        31.317609,
+                        30.10467
+                  ]
+            },
+            {
+                  "name": "Heliopolis Presidential Palace",
+                  "text": "Az eredetileg luxus grand hotelként üzemelő, fenséges mór újjászületés stílusú épület ma az egyiptomi elnök fő végrehajtó hivatalaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        31.31958,
+                        30.088936
+                  ]
+            },
+            {
+                  "name": "Ramsis Statue",
+                  "text": "A legendás II. Ramszesz fáraó tornyosuló kőmásolata feltűnő monumentális tájékozódási pontként szolgál a kerületbe érkező forgalom számára.",
+                  "category": "historical",
+                  "coords": [
+                        31.346612,
+                        30.097764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crossing to other side of str",
+                  "text": "Acest punct de observație pietonal oferă o perspectivă unică pentru a admira fațada izbitoare de inspirație hindusă a celebrului Palat Baron Empain de peste stradă.",
+                  "category": "natural",
+                  "coords": [
+                        31.338638,
+                        30.093321
+                  ]
+            },
+            {
+                  "name": "Ibn Al Hakam Square",
+                  "text": "Funcționând ca o intersecție majoră de trafic în Heliopolis, această piață monumentală este centrată în jurul unei statui comemorative bine cunoscute.",
+                  "category": "historical",
+                  "coords": [
+                        31.320281,
+                        30.109963
+                  ]
+            },
+            {
+                  "name": "Ice skating",
+                  "text": "Situat în interiorul unui complex comercial local, acest patinoar interior oferă un contrast de recreere răcoros, potrivit pentru familii, față de căldura din Cairo.",
+                  "category": "landmark",
+                  "coords": [
+                        31.386759,
+                        30.103243
+                  ]
+            },
+            {
+                  "name": "Baron Empain Palace",
+                  "text": "Proiectat de arhitectul Alexandre Marcel în 1907, acest conac istoric prezintă un exterior uimitor de templu hindus realizat din beton armat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330272,
+                        30.086656
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Construit pentru a semăna cu antichitatea clasică, acest amfiteatru în aer liber găzduiește diverse concerte în aer liber și spectacole culturale în district.",
+                  "category": "cultural",
+                  "coords": [
+                        31.335988,
+                        30.103
+                  ]
+            },
+            {
+                  "name": "Child Museum",
+                  "text": "Situat într-un parc luxuriant, acest muzeu educațional interactiv este dedicat învățării copiilor despre moștenirea egipteană și lumea naturală.",
+                  "category": "museum",
+                  "coords": [
+                        31.336977,
+                        30.102243
+                  ]
+            },
+            {
+                  "name": "Basilica of Our Lady of Fatima",
+                  "text": "Funcționând ca o catedrală catolică caldeeană din Cairo, această bazilică impresionantă acționează ca un centru spiritual major pentru comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        31.344506,
+                        30.105881
+                  ]
+            },
+            {
+                  "name": "El Galaa",
+                  "text": "Operat de forțele armate, acest proeminent complex de cinematograf și teatru proiectează în mod regulat blockbustere locale și găzduiește ceremonii oficiale.",
+                  "category": "cultural",
+                  "coords": [
+                        31.348142,
+                        30.097363
+                  ]
+            },
+            {
+                  "name": "St George's Orthodox Church",
+                  "text": "Proiectată de proeminentul arhitect Ramses Wissa Wassef, această biserică ortodoxă coptă modernă prezintă o arhitectură inovatoare cu boltă din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        31.33954,
+                        30.108101
+                  ]
+            },
+            {
+                  "name": "Senan Basha",
+                  "text": "Rămânând ca o fortificație istorică robustă, această structură de piatră se caracterizează prin pereții săi groși de apărare și porțile monumentale arcuite.",
+                  "category": "castle",
+                  "coords": [
+                        31.317609,
+                        30.10467
+                  ]
+            },
+            {
+                  "name": "Heliopolis Presidential Palace",
+                  "text": "Funcționând inițial ca un grand hotel de lux, această clădire maiestuoasă în stilul Renașterii Maure servește acum ca principal birou executiv al președintelui egiptean.",
+                  "category": "castle",
+                  "coords": [
+                        31.31958,
+                        30.088936
+                  ]
+            },
+            {
+                  "name": "Ramsis Statue",
+                  "text": "O replică înaltă de piatră a legendarului faraon Ramses al II-lea, servind ca un punct de reper monumental izbitor pentru traficul care intră în district.",
+                  "category": "historical",
+                  "coords": [
+                        31.346612,
+                        30.097764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crossing to other side of str",
+                  "text": "This pedestrian vantage point offers a unique perspective to admire the striking Hindu-inspired facade of the famous Baron Empain Palace from across the street.",
+                  "category": "natural",
+                  "coords": [
+                        31.338638,
+                        30.093321
+                  ]
+            },
+            {
+                  "name": "Ibn Al Hakam Square",
+                  "text": "Functioning as a major traffic intersection in Heliopolis, this monumental square is centered around a well-known commemorative statue.",
+                  "category": "historical",
+                  "coords": [
+                        31.320281,
+                        30.109963
+                  ]
+            },
+            {
+                  "name": "Ice skating",
+                  "text": "Situated inside a local shopping complex, this indoor ice rink provides a cool, family-friendly recreational contrast to Cairo's heat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.386759,
+                        30.103243
+                  ]
+            },
+            {
+                  "name": "Baron Empain Palace",
+                  "text": "Designed by architect Alexandre Marcel in 1907, this historic mansion features a stunning Hindu temple exterior made of reinforced concrete.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330272,
+                        30.086656
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Built to resemble classical antiquity, this open-air amphitheater hosts various outdoor concerts and cultural performances within the district.",
+                  "category": "cultural",
+                  "coords": [
+                        31.335988,
+                        30.103
+                  ]
+            },
+            {
+                  "name": "Child Museum",
+                  "text": "Set within a lush park, this interactive educational museum is dedicated to teaching children about Egyptian heritage and the natural world.",
+                  "category": "museum",
+                  "coords": [
+                        31.336977,
+                        30.102243
+                  ]
+            },
+            {
+                  "name": "Basilica of Our Lady of Fatima",
+                  "text": "Functioning as the Chaldean Catholic cathedral of Cairo, this striking basilica acts as a major spiritual center for the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        31.344506,
+                        30.105881
+                  ]
+            },
+            {
+                  "name": "El Galaa",
+                  "text": "Operated by the armed forces, this prominent cinema and theater complex regularly screens local blockbusters and hosts official ceremonies.",
+                  "category": "cultural",
+                  "coords": [
+                        31.348142,
+                        30.097363
+                  ]
+            },
+            {
+                  "name": "St George's Orthodox Church",
+                  "text": "Designed by the prominent architect Ramses Wissa Wassef, this modern Coptic Orthodox church showcases innovative vaulted brick architecture.",
+                  "category": "religious",
+                  "coords": [
+                        31.33954,
+                        30.108101
+                  ]
+            },
+            {
+                  "name": "Senan Basha",
+                  "text": "Standing as a robust historical fortification, this stone structure is characterized by its thick defensive walls and arched monumental gateways.",
+                  "category": "castle",
+                  "coords": [
+                        31.317609,
+                        30.10467
+                  ]
+            },
+            {
+                  "name": "Heliopolis Presidential Palace",
+                  "text": "Originally operating as a luxurious grand hotel, this majestic Moorish Revival building now serves as the principal executive office of the Egyptian President.",
+                  "category": "castle",
+                  "coords": [
+                        31.31958,
+                        30.088936
+                  ]
+            },
+            {
+                  "name": "Ramsis Statue",
+                  "text": "A towering stone replica of the legendary pharaoh Ramses II, serving as a striking monumental landmark for traffic entering the district.",
+                  "category": "historical",
+                  "coords": [
+                        31.346612,
+                        30.097764
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.3283, 30.0867],
@@ -579,7 +3639,520 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Achevée en 1911.", "Conçu par l'architecte français Alexandre Marcel.", "Présente une architecture remarquable en béton armé."],
     }, image: "/poi-images/eg-baron-empain-palace.webp"},
   {
-    id: "eg-stanley-bridge",
+    id: "eg-stanley-bridge", "sights": {
+      "de": [
+            {
+                  "name": "Mahmoud Saeed Museum",
+                  "text": "Das Mahmoud-Saeed-Museum in Alexandria ist in einer eleganten Villa untergebracht und stellt Werke des ägyptischen Pioniers der modernen Kunst aus.",
+                  "category": "museum",
+                  "coords": [
+                        29.969578,
+                        31.24445
+                  ]
+            },
+            {
+                  "name": "gaber",
+                  "text": "Gaber ist ein städtischer Anziehungspunkt unweit der Stanley-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        29.986961,
+                        31.232705
+                  ]
+            },
+            {
+                  "name": "Alexdrari Home",
+                  "text": "Alexdrari Home ist eine lokale Sehenswürdigkeit, eingebettet in die städtische Struktur bei der Stanley-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        29.961222,
+                        31.232649
+                  ]
+            },
+            {
+                  "name": "Safa Palace",
+                  "text": "Der Safa-Palast ist ein prunkvolles Anwesen, das die gehobene Architektur Alexandrias repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.964365,
+                        31.243766
+                  ]
+            },
+            {
+                  "name": "26 July beach",
+                  "text": "Der Strand des 26. Juli bietet einen malerischen Sandabschnitt am Mittelmeer, benannt nach einem historischen Datum.",
+                  "category": "landmark",
+                  "coords": [
+                        29.967831,
+                        31.249019
+                  ]
+            },
+            {
+                  "name": "Jesuit Cultural Center",
+                  "text": "Das Jesuit Cultural Center in Alexandria ist ein pulsierender Veranstaltungsort für zeitgenössische und klassische Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        29.938178,
+                        31.223809
+                  ]
+            },
+            {
+                  "name": "Pharmacists Syndicate",
+                  "text": "Diese lokale Attraktion wird vom Apothekerverband in der Nähe des Stanley-Brückenviertels verwaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.944741,
+                        31.211853
+                  ]
+            },
+            {
+                  "name": "Jungle Zoo",
+                  "text": "Ein zoologischer Garten im Viertel der Stanley-Brücke mit Gehegen für Wildtiere.",
+                  "category": "recreational",
+                  "coords": [
+                        29.944867,
+                        31.205238
+                  ]
+            },
+            {
+                  "name": "Karamantas",
+                  "text": "Ein Themenpark mit verschiedenen Fahrgeschäften in der Nähe der Stanley-Brücke.",
+                  "category": "recreational",
+                  "coords": [
+                        29.966001,
+                        31.204384
+                  ]
+            },
+            {
+                  "name": "Royal Jewellery Museum",
+                  "text": "Dieses Museum, das im ehemaligen Palast von Prinzessin Fatma Al-Zahra untergebracht ist, zeigt eine umfangreiche Sammlung von Schmuck der ägyptischen Königsfamilie.",
+                  "category": "museum",
+                  "coords": [
+                        29.963146,
+                        31.240807
+                  ]
+            },
+            {
+                  "name": "San Stefano Beach",
+                  "text": "Ein Sandstrand am Mittelmeer, der in der Nähe der Stanley-Brücke zur Entspannung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.963459,
+                        31.246276
+                  ]
+            },
+            {
+                  "name": "Stanley Beach",
+                  "text": "Ein Küstenabschnitt am Mittelmeer, der sich direkt unter der berühmten Stanley-Brücke befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.949601,
+                        31.234571
+                  ]
+            },
+            {
+                  "name": "Mediterranean Azur Hotel Beach",
+                  "text": "Dieser sandige Hotelstrand bietet exklusiven Zugang zum Mittelmeer in der Nähe der Stanley-Brücke.",
+                  "category": "recreational",
+                  "coords": [
+                        29.945103,
+                        31.233285
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Necropolis",
+                  "text": "Eine archäologische Stätte mit in den Fels gehauenen hellenistischen Gräbern, die über offene Innenhöfe und Altäre verfügen.",
+                  "category": "historical",
+                  "coords": [
+                        29.947311,
+                        31.230868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mahmoud Saeed Museum",
+                  "text": "Az alexandriai Mahmoud Saeed Múzeum egy elegáns villában található, és az egyiptomi modern művészet úttörőjének munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.969578,
+                        31.24445
+                  ]
+            },
+            {
+                  "name": "gaber",
+                  "text": "Gaber egy helyi látványosság a Stanley híd környékének városi forgatagában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.986961,
+                        31.232705
+                  ]
+            },
+            {
+                  "name": "Alexdrari Home",
+                  "text": "Az Alexdrari Home egy helyi nevezetesség a Stanley híd közelében található lakóövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.961222,
+                        31.232649
+                  ]
+            },
+            {
+                  "name": "Safa Palace",
+                  "text": "A Safa Palota egy pompás épület, amely Alexandria elit építészetét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        29.964365,
+                        31.243766
+                  ]
+            },
+            {
+                  "name": "26 July beach",
+                  "text": "A történelmi dátumról elnevezett Július 26. strand homokos partszakaszt kínál a Földközi-tengernél.",
+                  "category": "landmark",
+                  "coords": [
+                        29.967831,
+                        31.249019
+                  ]
+            },
+            {
+                  "name": "Jesuit Cultural Center",
+                  "text": "Az alexandriai Jezsuita Kulturális Központ a kortárs és klasszikus művészetek nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        29.938178,
+                        31.223809
+                  ]
+            },
+            {
+                  "name": "Pharmacists Syndicate",
+                  "text": "Ezt a helyi látványosságot a Gyógyszerészek Szindikátusa kezeli a Stanley híd környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        29.944741,
+                        31.211853
+                  ]
+            },
+            {
+                  "name": "Jungle Zoo",
+                  "text": "A Stanley híd negyedben található állatkert vadállatok kifutóival várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        29.944867,
+                        31.205238
+                  ]
+            },
+            {
+                  "name": "Karamantas",
+                  "text": "A Stanley híd közelében található vidámpark, amely különféle szórakoztató attrakciókat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        29.966001,
+                        31.204384
+                  ]
+            },
+            {
+                  "name": "Royal Jewellery Museum",
+                  "text": "A Fatma Al-Zahra hercegnő egykori palotájában helyet kapott múzeum az egyiptomi királyi család hatalmas ékszergyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.963146,
+                        31.240807
+                  ]
+            },
+            {
+                  "name": "San Stefano Beach",
+                  "text": "Homokos Földközi-tengeri strand, amely tengerparti kikapcsolódást kínál a Stanley híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.963459,
+                        31.246276
+                  ]
+            },
+            {
+                  "name": "Stanley Beach",
+                  "text": "A Földközi-tenger partvonalának egy szakasza, amely közvetlenül a híres Stanley híd alatt húzódik meg.",
+                  "category": "recreational",
+                  "coords": [
+                        29.949601,
+                        31.234571
+                  ]
+            },
+            {
+                  "name": "Mediterranean Azur Hotel Beach",
+                  "text": "Ez a homokos szállodai strand exkluzív hozzáférést biztosít a Földközi-tengerhez a Stanley híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.945103,
+                        31.233285
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Necropolis",
+                  "text": "Régészeti lelőhely, amely hellenisztikus, sziklába vájt sírokat mutat be nyitott udvarokkal és oltárokkal.",
+                  "category": "historical",
+                  "coords": [
+                        29.947311,
+                        31.230868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mahmoud Saeed Museum",
+                  "text": "Muzeul Mahmoud Saeed din Alexandria expune operele pionierului artei moderne egiptene într-o vilă elegantă.",
+                  "category": "museum",
+                  "coords": [
+                        29.969578,
+                        31.24445
+                  ]
+            },
+            {
+                  "name": "gaber",
+                  "text": "Gaber este o atracție locală situată în apropierea celebrului pod Stanley.",
+                  "category": "landmark",
+                  "coords": [
+                        29.986961,
+                        31.232705
+                  ]
+            },
+            {
+                  "name": "Alexdrari Home",
+                  "text": "Alexdrari Home este o atracție situată în peisajul urban din preajma podului Stanley.",
+                  "category": "landmark",
+                  "coords": [
+                        29.961222,
+                        31.232649
+                  ]
+            },
+            {
+                  "name": "Safa Palace",
+                  "text": "Palatul Safa este o clădire somptuoasă care reflectă arhitectura de lux a Alexandriei.",
+                  "category": "landmark",
+                  "coords": [
+                        29.964365,
+                        31.243766
+                  ]
+            },
+            {
+                  "name": "26 July beach",
+                  "text": "Plaja 26 Iulie oferă o porțiune de nisip mediteranean, numită după o dată istorică importantă.",
+                  "category": "landmark",
+                  "coords": [
+                        29.967831,
+                        31.249019
+                  ]
+            },
+            {
+                  "name": "Jesuit Cultural Center",
+                  "text": "Centrul Cultural Iezuit din Alexandria găzduiește evenimente de artă contemporană și clasică pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        29.938178,
+                        31.223809
+                  ]
+            },
+            {
+                  "name": "Pharmacists Syndicate",
+                  "text": "Această atracție locală este administrată de Sindicatul Farmaciștilor din zona podului Stanley.",
+                  "category": "landmark",
+                  "coords": [
+                        29.944741,
+                        31.211853
+                  ]
+            },
+            {
+                  "name": "Jungle Zoo",
+                  "text": "O grădină zoologică situată în cartierul podului Stanley, cu incinte pentru animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        29.944867,
+                        31.205238
+                  ]
+            },
+            {
+                  "name": "Karamantas",
+                  "text": "Un parc tematic ce oferă diverse atracții de divertisment în apropierea podului Stanley.",
+                  "category": "recreational",
+                  "coords": [
+                        29.966001,
+                        31.204384
+                  ]
+            },
+            {
+                  "name": "Royal Jewellery Museum",
+                  "text": "Găzduit în fostul palat al prințesei Fatma Al-Zahra, acest muzeu expune o colecție vastă de bijuterii ale familiei regale egiptene.",
+                  "category": "museum",
+                  "coords": [
+                        29.963146,
+                        31.240807
+                  ]
+            },
+            {
+                  "name": "San Stefano Beach",
+                  "text": "O plajă cu nisip la Marea Mediterană, ce oferă relaxare pe coastă în apropierea podului Stanley.",
+                  "category": "recreational",
+                  "coords": [
+                        29.963459,
+                        31.246276
+                  ]
+            },
+            {
+                  "name": "Stanley Beach",
+                  "text": "O porțiune de coastă la Marea Mediterană, situată chiar sub faimosul pod Stanley.",
+                  "category": "recreational",
+                  "coords": [
+                        29.949601,
+                        31.234571
+                  ]
+            },
+            {
+                  "name": "Mediterranean Azur Hotel Beach",
+                  "text": "Această plajă cu nisip a hotelului oferă acces exclusiv la Marea Mediterană în apropierea podului Stanley.",
+                  "category": "recreational",
+                  "coords": [
+                        29.945103,
+                        31.233285
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Necropolis",
+                  "text": "Un sit arheologic ce prezintă morminte elenistice săpate în stâncă, cu curți deschise și altare.",
+                  "category": "historical",
+                  "coords": [
+                        29.947311,
+                        31.230868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mahmoud Saeed Museum",
+                  "text": "The Mahmoud Saeed Museum in Alexandria showcases the works of the pioneer of modern Egyptian art within an elegant historic villa.",
+                  "category": "museum",
+                  "coords": [
+                        29.969578,
+                        31.24445
+                  ]
+            },
+            {
+                  "name": "gaber",
+                  "text": "Gaber is a localized point of interest situated in the urban surroundings near the Stanley Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        29.986961,
+                        31.232705
+                  ]
+            },
+            {
+                  "name": "Alexdrari Home",
+                  "text": "Alexdrari Home stands as a localized residential attraction near the iconic Stanley Bridge architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        29.961222,
+                        31.232649
+                  ]
+            },
+            {
+                  "name": "Safa Palace",
+                  "text": "The Safa Palace is a highly ornate estate representing the upscale architectural heritage of Alexandria.",
+                  "category": "landmark",
+                  "coords": [
+                        29.964365,
+                        31.243766
+                  ]
+            },
+            {
+                  "name": "26 July beach",
+                  "text": "The 26 July beach offers a sandy Mediterranean shoreline named in commemoration of a significant historical date.",
+                  "category": "landmark",
+                  "coords": [
+                        29.967831,
+                        31.249019
+                  ]
+            },
+            {
+                  "name": "Jesuit Cultural Center",
+                  "text": "The Jesuit Cultural Center serves as a vibrant arts hub fostering both contemporary and classical cultural events in Alexandria.",
+                  "category": "cultural",
+                  "coords": [
+                        29.938178,
+                        31.223809
+                  ]
+            },
+            {
+                  "name": "Pharmacists Syndicate",
+                  "text": "This local attraction is managed by the Pharmacists Syndicate near the Stanley Bridge area.",
+                  "category": "landmark",
+                  "coords": [
+                        29.944741,
+                        31.211853
+                  ]
+            },
+            {
+                  "name": "Jungle Zoo",
+                  "text": "A zoological garden situated in the Stanley Bridge district featuring enclosures for wild animals.",
+                  "category": "recreational",
+                  "coords": [
+                        29.944867,
+                        31.205238
+                  ]
+            },
+            {
+                  "name": "Karamantas",
+                  "text": "A theme park offering various amusement rides in the vicinity of Stanley Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        29.966001,
+                        31.204384
+                  ]
+            },
+            {
+                  "name": "Royal Jewellery Museum",
+                  "text": "Housed in the former palace of Princess Fatma Al-Zahra, this museum displays a vast collection of Egyptian royal family jewelry.",
+                  "category": "museum",
+                  "coords": [
+                        29.963146,
+                        31.240807
+                  ]
+            },
+            {
+                  "name": "San Stefano Beach",
+                  "text": "A sandy Mediterranean beach offering coastal relaxation near the Stanley Bridge area.",
+                  "category": "recreational",
+                  "coords": [
+                        29.963459,
+                        31.246276
+                  ]
+            },
+            {
+                  "name": "Stanley Beach",
+                  "text": "A stretch of Mediterranean coastline nestled directly beneath the famous Stanley Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        29.949601,
+                        31.234571
+                  ]
+            },
+            {
+                  "name": "Mediterranean Azur Hotel Beach",
+                  "text": "This sandy hotel beach provides exclusive access to the Mediterranean Sea near Stanley Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        29.945103,
+                        31.233285
+                  ]
+            },
+            {
+                  "name": "Mustafa Kamel Necropolis",
+                  "text": "An archaeological site featuring Hellenistic rock-cut tombs with open courtyards and altars.",
+                  "category": "historical",
+                  "coords": [
+                        29.947311,
+                        31.230868
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-ALX",
     coords: [29.9483, 31.2356],
@@ -627,7 +4200,412 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Le premier pont construit au-dessus de la mer en Égypte.", "Dispose de quatre tours de style islamique.", "Un monument populaire de l'Alexandrie moderne."],
     }, image: "/poi-images/eg-stanley-bridge.webp"},
   {
-    id: "eg-el-alamein-cemetery",
+    id: "eg-el-alamein-cemetery", "sights": {
+      "de": [
+            {
+                  "name": "Al Qasaba al Gharbiya",
+                  "text": "Al Qasaba al Gharbiya besteht aus historischen baulichen Ruinen in der Wüstenregion El Alamein.",
+                  "category": "historical",
+                  "coords": [
+                        28.933333,
+                        30.799985
+                  ]
+            },
+            {
+                  "name": "Vista Marina",
+                  "text": "Vista Marina ist ein Küstenurlaubsresort mit Einrichtungen an einem Sandstrand in der Nähe von El Alamein.",
+                  "category": "recreational",
+                  "coords": [
+                        28.887844,
+                        30.860259
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina",
+                  "text": "Porto Golf Marina ist ein großer Küstenresort-Komplex, der Freizeitangebote am Strand mit einer wasserseitigen Marina-Anlage verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.92459,
+                        30.840249
+                  ]
+            },
+            {
+                  "name": "Marina El Alamein",
+                  "text": "Das Marina El Alamein bietet Hotelunterkünfte an der Küste in einem bekannten Resort- und Yachthafengebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.951321,
+                        30.850732
+                  ]
+            },
+            {
+                  "name": "Militärmuseum al-Alamain",
+                  "text": "Das Militärmuseum El Alamein beherbergt Ausstellungen und Artefakte, die die entscheidenden Panzerschlachten des Zweiten Weltkriegs in der Region dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        28.942933,
+                        30.841523
+                  ]
+            },
+            {
+                  "name": "Marseilia Land Alamein",
+                  "text": "Marseilia Land Alamein ist ein weitläufiges Strandurlaubsresort an den Sandufern der Nordküste.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916328,
+                        30.844919
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina Aqua",
+                  "text": "Porto Golf Marina Aqua ist ein Wasservergnügungspark mit Wasserrutschen und Pools innerhalb des Resortkomplexes.",
+                  "category": "recreational",
+                  "coords": [
+                        28.918945,
+                        30.842718
+                  ]
+            },
+            {
+                  "name": "Stars Beach Alamein",
+                  "text": "Stars Beach Alamein ist ein sandiger öffentlicher Küstenabschnitt, der in El Alamein Zugang zum Mittelmeer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.914049,
+                        30.870905
+                  ]
+            },
+            {
+                  "name": "Turquoise Beach Club",
+                  "text": "Der Turquoise Beach Club unterhält einen sandigen Küstenabschnitt, der für Freizeitaktivitäten am Mittelmeer ausgestattet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912538,
+                        30.871686
+                  ]
+            },
+            {
+                  "name": "Azur Beach Club",
+                  "text": "Der Azur Beach Club ist ein Küstenfreizeitresort, das Zugang zu Sandstränden und Strandeinrichtungen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.90999,
+                        30.872673
+                  ]
+            },
+            {
+                  "name": "Antiphrai/Leukaspis",
+                  "text": "Die Ruinen von Antiphrai/Leukaspis markieren die archäologische Stätte einer antiken Küstensiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        29.012012,
+                        30.823813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Qasaba al Gharbiya",
+                  "text": "Az Al Qasaba al Gharbiya történelmi épületromokból áll, amelyek El Alamein sivatagi régiójában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        28.933333,
+                        30.799985
+                  ]
+            },
+            {
+                  "name": "Vista Marina",
+                  "text": "A Vista Marina egy partmenti nyaralóhely homokos tengerparti létesítményekkel El Alamein térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.887844,
+                        30.860259
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina",
+                  "text": "A Porto Golf Marina egy nagy partmenti üdülőkomplexum, amely a tengerparti szabadidőt egy vízparti kikötőfejlesztéssel ötvözi.",
+                  "category": "recreational",
+                  "coords": [
+                        28.92459,
+                        30.840249
+                  ]
+            },
+            {
+                  "name": "Marina El Alamein",
+                  "text": "A Marina El Alamein partmenti szállodai elszállásolást kínál egy kiemelkedő üdülőhely- és jachtkikötő-övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.951321,
+                        30.850732
+                  ]
+            },
+            {
+                  "name": "Al-Alamein Military Museum",
+                  "text": "Az El Alamein-i Katonai Múzeum a régióban vívott kulcsfontosságú második világháborús páncéloscsatákat bemutató kiállításoknak és műtárgyaknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        28.942933,
+                        30.841523
+                  ]
+            },
+            {
+                  "name": "Marseilia Land Alamein",
+                  "text": "A Marseilia Land Alamein egy kiterjedt tengerparti nyaralóhely az északi part homokos partjain.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916328,
+                        30.844919
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina Aqua",
+                  "text": "A Porto Golf Marina Aqua egy vízi vidámpark, amely csúszdákkal és medencékkel várja a látogatókat az üdülőkomplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.918945,
+                        30.842718
+                  ]
+            },
+            {
+                  "name": "Stars Beach Alamein",
+                  "text": "A Stars Beach Alamein egy homokos nyilvános partszakasz, amely El Alameinben hozzáférést biztosít a Földközi-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        28.914049,
+                        30.870905
+                  ]
+            },
+            {
+                  "name": "Turquoise Beach Club",
+                  "text": "A Turquoise Beach Club a Földközi-tenger partján fekvő, rekreációs tevékenységekre felszerelt homokos partszakaszt tart fenn.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912538,
+                        30.871686
+                  ]
+            },
+            {
+                  "name": "Azur Beach Club",
+                  "text": "Az Azur Beach Club egy partmenti szabadidős üdülőhely, amely hozzáférést kínál a homokos partokhoz és a tengerparti létesítményekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        28.90999,
+                        30.872673
+                  ]
+            },
+            {
+                  "name": "Antiphrai/Leukaspis",
+                  "text": "Az Antiphrai/Leukaspis romok egy ókori tengerparti település régészeti lelőhelyét jelölik.",
+                  "category": "historical",
+                  "coords": [
+                        29.012012,
+                        30.823813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Qasaba al Gharbiya",
+                  "text": "Al Qasaba al Gharbiya este format din ruine structurale istorice situate în regiunea deșertică El Alamein.",
+                  "category": "historical",
+                  "coords": [
+                        28.933333,
+                        30.799985
+                  ]
+            },
+            {
+                  "name": "Vista Marina",
+                  "text": "Vista Marina este o stațiune de vacanță pe coastă, cu facilități pe plaja de nisip, în apropierea zonei El Alamein.",
+                  "category": "recreational",
+                  "coords": [
+                        28.887844,
+                        30.860259
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina",
+                  "text": "Porto Golf Marina este un complex mare de stațiuni pe coastă, care integrează agrementul pe malul mării cu un port de agrement pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        28.92459,
+                        30.840249
+                  ]
+            },
+            {
+                  "name": "Marina El Alamein",
+                  "text": "Marina El Alamein oferă cazare la hotel pe coastă, situată într-o zonă proeminentă de stațiune și port de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        28.951321,
+                        30.850732
+                  ]
+            },
+            {
+                  "name": "Al-Alamein Military Museum",
+                  "text": "Muzeul Militar Al-Alamein găzduiește expoziții și artefacte care detaliază bătăliile decisive cu tancuri din al Doilea Război Mondial purtate în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        28.942933,
+                        30.841523
+                  ]
+            },
+            {
+                  "name": "Marseilia Land Alamein",
+                  "text": "Marseilia Land Alamein este o stațiune de vacanță vastă pe litoral, situată pe țărmurile nisipoase ale Coastei de Nord.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916328,
+                        30.844919
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina Aqua",
+                  "text": "Porto Golf Marina Aqua este un parc de distracții acvatic, cu tobogane de apă și piscine în cadrul complexului stațiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        28.918945,
+                        30.842718
+                  ]
+            },
+            {
+                  "name": "Stars Beach Alamein",
+                  "text": "Stars Beach Alamein este o coastă publică nisipoasă care oferă acces la Marea Mediterană în El Alamein.",
+                  "category": "recreational",
+                  "coords": [
+                        28.914049,
+                        30.870905
+                  ]
+            },
+            {
+                  "name": "Turquoise Beach Club",
+                  "text": "Turquoise Beach Club menține o porțiune de litoral cu nisip dotată pentru activități de agrement la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912538,
+                        30.871686
+                  ]
+            },
+            {
+                  "name": "Azur Beach Club",
+                  "text": "Azur Beach Club este o stațiune de agrement pe coastă, care oferă acces la țărmuri cu nisip și facilități pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        28.90999,
+                        30.872673
+                  ]
+            },
+            {
+                  "name": "Antiphrai/Leukaspis",
+                  "text": "Ruinele Antiphrai/Leukaspis marchează situl arheologic al unei vechi așezări de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        29.012012,
+                        30.823813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Qasaba al Gharbiya",
+                  "text": "Al Qasaba al Gharbiya consists of historical structural ruins situated in the desert region of El Alamein.",
+                  "category": "historical",
+                  "coords": [
+                        28.933333,
+                        30.799985
+                  ]
+            },
+            {
+                  "name": "Vista Marina",
+                  "text": "Vista Marina is a coastal holiday resort featuring sandy beachside facilities near the El Alamein area.",
+                  "category": "recreational",
+                  "coords": [
+                        28.887844,
+                        30.860259
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina",
+                  "text": "Porto Golf Marina is a large coastal resort complex integrating beachfront leisure with a waterside marina development.",
+                  "category": "recreational",
+                  "coords": [
+                        28.92459,
+                        30.840249
+                  ]
+            },
+            {
+                  "name": "Marina El Alamein",
+                  "text": "Marina El Alamein provides coastal hotel accommodations situated within a prominent resort and yacht marina area.",
+                  "category": "landmark",
+                  "coords": [
+                        28.951321,
+                        30.850732
+                  ]
+            },
+            {
+                  "name": "Al-Alamein Military Museum",
+                  "text": "The Al-Alamein Military Museum houses exhibits and artifacts detailing the pivotal World War II tank battles fought in the region.",
+                  "category": "museum",
+                  "coords": [
+                        28.942933,
+                        30.841523
+                  ]
+            },
+            {
+                  "name": "Marseilia Land Alamein",
+                  "text": "Marseilia Land Alamein is an expansive seaside holiday resort situated along the sandy shores of the North Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916328,
+                        30.844919
+                  ]
+            },
+            {
+                  "name": "Porto Golf Marina Aqua",
+                  "text": "Porto Golf Marina Aqua is an aquatic amusement park featuring water slides and pools within the resort complex.",
+                  "category": "recreational",
+                  "coords": [
+                        28.918945,
+                        30.842718
+                  ]
+            },
+            {
+                  "name": "Stars Beach Alamein",
+                  "text": "Stars Beach Alamein is a sandy public coastline providing access to the Mediterranean Sea in El Alamein.",
+                  "category": "recreational",
+                  "coords": [
+                        28.914049,
+                        30.870905
+                  ]
+            },
+            {
+                  "name": "Turquoise Beach Club",
+                  "text": "Turquoise Beach Club maintains a stretch of sandy seashore equipped for recreational activities by the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912538,
+                        30.871686
+                  ]
+            },
+            {
+                  "name": "Azur Beach Club",
+                  "text": "Azur Beach Club is a coastal leisure resort offering access to sandy shores and beachside facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        28.90999,
+                        30.872673
+                  ]
+            },
+            {
+                  "name": "Antiphrai/Leukaspis",
+                  "text": "The ruins of Antiphrai/Leukaspis mark the archaeological site of an ancient coastal settlement.",
+                  "category": "historical",
+                  "coords": [
+                        29.012012,
+                        30.823813
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-MT",
     coords: [28.9481, 30.8389],
@@ -675,7 +4653,52 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Contient plus de 7 000 tombes.", "Entretenu par la Commonwealth War Graves Commission.", "Commémore les batailles décisives d'El Alamein."],
     }, image: "/poi-images/eg-el-alamein-cemetery.webp"},
   {
-    id: "eg-cairo-stadium",
+    id: "eg-cairo-stadium", "sights": {
+      "de": [
+            {
+                  "name": "October War Panorama",
+                  "text": "Dieses Museum in der Nähe des Kairoer Stadions erinnert an den arabisch-israelischen Krieg von 1973 und bietet ein großes 3D-Panoramabild sowie militärische Ausstellungsstücke.",
+                  "category": "landmark",
+                  "coords": [
+                        31.30694,
+                        30.074115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "October War Panorama",
+                  "text": "Az 1973-as arab-izraeli háborúnak emléket állító, a kairói stadion közelében található múzeum egy nagyméretű 3D-s panorámaképet és katonai kiállításokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        31.30694,
+                        30.074115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "October War Panorama",
+                  "text": "Comemorând Războiul Arabo-Israelian din 1973, acest muzeu de lângă stadionul din Cairo prezintă o pictură panoramică 3D de mari dimensiuni și expoziții militare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.30694,
+                        30.074115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "October War Panorama",
+                  "text": "Commemorating the 1973 Arab-Israeli War, this museum near the Cairo stadium features a large 3D panoramic painting and military displays.",
+                  "category": "landmark",
+                  "coords": [
+                        31.30694,
+                        30.074115
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.3142, 30.0692],
@@ -723,7 +4746,1240 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Inauguré en 1960.", "Capacité de plus de 75 000 spectateurs.", "A accueilli plusieurs fois la Coupe d'Afrique des Nations."],
     }, image: "/poi-images/eg-cairo-stadium.webp"},
   {
-    id: "eg-borg-el-arab-stadium",
+    id: "eg-borg-el-arab-stadium", "sights": {
+      "de": [
+            {
+                  "name": "Mareia",
+                  "text": "Mareia ist eine antike archäologische Stätte mit den Ruinen einer geschäftigen Hafenstadt in der Nähe des Mariout-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        29.656619,
+                        30.995131
+                  ]
+            },
+            {
+                  "name": "Kom el-Nagous",
+                  "text": "Kom el-Nagous ist eine archäologische Stätte, die antike bauliche Überreste offenbart, die in die Landschaft eingebettet sind.",
+                  "category": "historical",
+                  "coords": [
+                        29.540499,
+                        30.95608
+                  ]
+            },
+            {
+                  "name": "Venus",
+                  "text": "Venus ist ein entspanntes mediterranes Strandresort, das Unterkünfte am Meer und Ausblicke auf die Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.498538,
+                        30.943784
+                  ]
+            },
+            {
+                  "name": "Cairo University Resort",
+                  "text": "Das Cairo University Resort ist ein Küstenstrandort, der für Universitätsmitarbeiter und Angehörige eingerichtet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        29.539816,
+                        30.965252
+                  ]
+            },
+            {
+                  "name": "Kerir Lagoon Village",
+                  "text": "Kerir Lagoon Village ist ein Ferien-Strandresort, das sich an die ruhigen Gewässer einer Küstenlagune schmiegt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.579733,
+                        30.989052
+                  ]
+            },
+            {
+                  "name": "Misr for Construction Village",
+                  "text": "Misr for Construction Village ist ein erschlossener Strandresort-Komplex auf dem mediterranen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        29.587127,
+                        30.993596
+                  ]
+            },
+            {
+                  "name": "Dalia Village",
+                  "text": "Dalia Village bietet eine malerische Strandresort-Kulisse für Urlaube entlang der Nordküste.",
+                  "category": "recreational",
+                  "coords": [
+                        29.590688,
+                        30.997392
+                  ]
+            },
+            {
+                  "name": "Casablanca Resort",
+                  "text": "Casablanca Resort ist ein belebtes Strandrefugium mit Freizeiteinrichtungen direkt am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        29.527937,
+                        30.958129
+                  ]
+            },
+            {
+                  "name": "El Saraab Village",
+                  "text": "El Saraab Village ist ein mediterranes Strandresort, das Ferien-Chalets direkt am Sandstrand anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.568702,
+                        30.981887
+                  ]
+            },
+            {
+                  "name": "Caribeano Resort",
+                  "text": "Das Caribeano Resort ist ein Strandresort in der Küstenregion nahe dem Borg El Arab Stadion.",
+                  "category": "recreational",
+                  "coords": [
+                        29.555904,
+                        30.973434
+                  ]
+            },
+            {
+                  "name": "El Atebbaa Village",
+                  "text": "Das El Atebbaa Village bietet mit seinen Strandeinrichtungen einen Rückzugsort an der sandigen Küste in der Nähe von Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.553596,
+                        30.971646
+                  ]
+            },
+            {
+                  "name": "Presidential Resort",
+                  "text": "Das Presidential Resort ist ein Urlaubsziel am Meer in der mediterranen Küstenregion rund um Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.50677,
+                        30.949227
+                  ]
+            },
+            {
+                  "name": "Venus 2 Lakes resort",
+                  "text": "Das Venus 2 Lakes Resort bietet Freizeiteinrichtungen an einem Sandstrand in der Umgebung von Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.494243,
+                        30.942181
+                  ]
+            },
+            {
+                  "name": "Ramses Village",
+                  "text": "Ramses Village ist ein Küstenresort-Komplex, der Zugang zu einem Sandstrand in der Nähe des Borg El Arab Stadions bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.531165,
+                        30.961097
+                  ]
+            },
+            {
+                  "name": "Heliobeach",
+                  "text": "Heliobeach ist ein Sandstrandresort am Mittelmeer, das sich an Urlauber in der Region Borg El Arab richtet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.489887,
+                        30.939917
+                  ]
+            },
+            {
+                  "name": "Pharos of Abusir",
+                  "text": "Der Pharos von Abusir ist eine antike archäologische Stätte mit Ruinen in der Nähe des Mariout-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        29.523563,
+                        30.947956
+                  ]
+            },
+            {
+                  "name": "Loaloet Kerir Village",
+                  "text": "Das Loaloet Kerir Village fungiert als Ferien-Strandresort an der Mittelmeerküste bei Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.619628,
+                        31.01643
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen Village",
+                  "text": "Das Diplomaseyeen Village ist ein Badeort-Komplex, der Freizeitaktivitäten am Sandstrand nahe dem Gebiet von Borg El Arab bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611568,
+                        31.012065
+                  ]
+            },
+            {
+                  "name": "bath complex",
+                  "text": "Dieser historische Badekomplex umfasst die steinernen Ruinen einer antiken Badeanstalt.",
+                  "category": "historical",
+                  "coords": [
+                        29.656839,
+                        30.996436
+                  ]
+            },
+            {
+                  "name": "Sedra",
+                  "text": "Sedra ist ein Küstenresort, das sandige Strandeinrichtungen in der Region um Borg El Arab bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611335,
+                        31.009852
+                  ]
+            },
+            {
+                  "name": "Amoun",
+                  "text": "Amoun fungiert als Rückzugsort am Meer entlang des mediterranen Küstenabschnitts bei Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.602319,
+                        31.004319
+                  ]
+            },
+            {
+                  "name": "El Safa",
+                  "text": "El Safa ist ein mediterranes Sandstrandresort in der Küstenumgebung des Borg El Arab Stadions.",
+                  "category": "recreational",
+                  "coords": [
+                        29.545633,
+                        30.96801
+                  ]
+            },
+            {
+                  "name": "Mayorka Village",
+                  "text": "Das Mayorka Village bietet Ferienunterkünfte mit Zugang zur Sandküste in der Nähe von Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.589126,
+                        30.995016
+                  ]
+            },
+            {
+                  "name": "El Fayrouz Village",
+                  "text": "Das El Fayrouz Village ist ein Touristenresort direkt am Sandstrand an der Mittelmeerküste im Gebiet von Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.595402,
+                        31.000458
+                  ]
+            },
+            {
+                  "name": "Engineers Corp Village",
+                  "text": "Das Engineers Corp Village bietet eine Küstenresort-Umgebung mit Sandstrandeinrichtungen nahe Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.621755,
+                        31.01771
+                  ]
+            },
+            {
+                  "name": "Fakhr El Behaar Village",
+                  "text": "Fakhr El Behaar Village ist ein Badeort mit Zugang zu einem Sandstrand in der Küstenregion von Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638431,
+                        31.024931
+                  ]
+            },
+            {
+                  "name": "Sidi Kerir Army's Resort",
+                  "text": "Das Sidi Kerir Army's Resort ist eine vom Militär betriebene Urlaubsanlage am Sandstrand des Mittelmeers.",
+                  "category": "recreational",
+                  "coords": [
+                        29.632087,
+                        31.021157
+                  ]
+            },
+            {
+                  "name": "El Sherook Resort",
+                  "text": "Das El Sherook Resort ist ein Urlaubsziel mit Zugang zu einem Sandstrand und Unterkünften an der Küste bei Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.562347,
+                        30.977461
+                  ]
+            },
+            {
+                  "name": "El Benook Resort",
+                  "text": "Das El Benook Resort ist ein Rückzugsort am Sandstrand mit Resorteinrichtungen entlang der Mittelmeerküste.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557055,
+                        30.974378
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen Resort 1",
+                  "text": "Diplomaseyeen 1 liegt bei Kilometer 44 und ist ein Küstenresort-Gelände, das Urlaubsunterkünfte an einem Sandstrand anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.536499,
+                        30.963384
+                  ]
+            },
+            {
+                  "name": "Taposiris Magna Temple",
+                  "text": "Die archäologische Stätte des Tempels Taposiris Magna weist die steinernen Überreste eines bedeutenden altägyptischen Sakralbaus auf.",
+                  "category": "historical",
+                  "coords": [
+                        29.518699,
+                        30.946242
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Golden Beach ist ein Küstenresort mit Sandstränden an der Mittelmeerküste.",
+                  "category": "recreational",
+                  "coords": [
+                        29.515782,
+                        30.952359
+                  ]
+            },
+            {
+                  "name": "Omaraa El Behar",
+                  "text": "Omaraa El Behar ist eine Küstenferiengemeinde, die Sandstrand-Einrichtungen nahe dem Stadion von Borg El Arab bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.523014,
+                        30.957114
+                  ]
+            },
+            {
+                  "name": "Dyiar",
+                  "text": "Dyiar ist ein Strandresort, das Unterkünfte und Freizeitaktivitäten entlang der Sandküste bei Borg El Arab anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.542496,
+                        30.965975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mareia",
+                  "text": "Mareia egy ókori régészeti lelőhely, amely egy nyüzsgő kikötőváros romjait rejti a Mariout-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        29.656619,
+                        30.995131
+                  ]
+            },
+            {
+                  "name": "Kom el-Nagous",
+                  "text": "Kom el-Nagous egy régészeti lelőhely, amely a tájba ágyazott ókori szerkezeti maradványokat tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        29.540499,
+                        30.95608
+                  ]
+            },
+            {
+                  "name": "Venus",
+                  "text": "A Venus egy pihentető mediterrán tengerparti üdülőhely, amely tengerparti szállást és kilátást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        29.498538,
+                        30.943784
+                  ]
+            },
+            {
+                  "name": "Cairo University Resort",
+                  "text": "A Kairói Egyetem Üdülőhelye egy tengerparti pihenőhely, amelyet az egyetemi dolgozók és partnerek számára hoztak létre.",
+                  "category": "recreational",
+                  "coords": [
+                        29.539816,
+                        30.965252
+                  ]
+            },
+            {
+                  "name": "Kerir Lagoon Village",
+                  "text": "A Kerir Lagoon Village egy tengerparti nyaralóhely, amely egy part menti lagúna nyugodt vizénél fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        29.579733,
+                        30.989052
+                  ]
+            },
+            {
+                  "name": "Misr for Construction Village",
+                  "text": "A Misr for Construction Village egy kiépített tengerparti üdülőkomplexum a mediterrán homokos parton.",
+                  "category": "recreational",
+                  "coords": [
+                        29.587127,
+                        30.993596
+                  ]
+            },
+            {
+                  "name": "Dalia Village",
+                  "text": "A Dalia Village festői tengerparti üdülőhelyi környezetet biztosít az északi partvidéki nyaralásokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        29.590688,
+                        30.997392
+                  ]
+            },
+            {
+                  "name": "Casablanca Resort",
+                  "text": "A Casablanca Resort egy nyüzsgő tengerparti menedékhely, amely rekreációs létesítményekkel várja a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        29.527937,
+                        30.958129
+                  ]
+            },
+            {
+                  "name": "El Saraab Village",
+                  "text": "Az El Saraab Village egy mediterrán tengerparti üdülőhely, amely nyaralókat kínál közvetlenül a homokos parton.",
+                  "category": "recreational",
+                  "coords": [
+                        29.568702,
+                        30.981887
+                  ]
+            },
+            {
+                  "name": "Caribeano Resort",
+                  "text": "A Caribeano Resort egy tengerparti üdülőközpont a Borg El Arab Stadion környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.555904,
+                        30.973434
+                  ]
+            },
+            {
+                  "name": "El Atebbaa Village",
+                  "text": "Az El Atebbaa Village tengerparti üdülőfalu kikapcsolódási lehetőséget kínál Borg El Arab homokos partjai közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.553596,
+                        30.971646
+                  ]
+            },
+            {
+                  "name": "Presidential Resort",
+                  "text": "A Presidential Resort egy tengerparti nyaralóhely Borg El Arab mediterrán partmenti régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        29.50677,
+                        30.949227
+                  ]
+            },
+            {
+                  "name": "Venus 2 Lakes resort",
+                  "text": "A Venus 2 Lakes üdülőközpont tengerparti szabadidős szálláshelyeket biztosít Borg El Arab térségének homokos partjain.",
+                  "category": "recreational",
+                  "coords": [
+                        29.494243,
+                        30.942181
+                  ]
+            },
+            {
+                  "name": "Ramses Village",
+                  "text": "A Ramses Village egy partmenti üdülőkomplexum, amely homokos strandhoz biztosít hozzáférést a Borg El Arab Stadion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.531165,
+                        30.961097
+                  ]
+            },
+            {
+                  "name": "Heliobeach",
+                  "text": "A Heliobeach egy mediterrán homokos tengerparti üdülőhely, amely a Borg El Arab régióban nyaralókat szolgálja ki.",
+                  "category": "recreational",
+                  "coords": [
+                        29.489887,
+                        30.939917
+                  ]
+            },
+            {
+                  "name": "Pharos of Abusir",
+                  "text": "Az abuszíri Pharos egy ősi régészeti lelőhely, amelynek romjai a Mariout-tó közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        29.523563,
+                        30.947956
+                  ]
+            },
+            {
+                  "name": "Loaloet Kerir Village",
+                  "text": "A Loaloet Kerir Village nyaralóövezeti tengerparti üdülőhelyként működik a Földközi-tenger partvonalán, Borg El Arab közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.619628,
+                        31.01643
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen Village",
+                  "text": "A Diplomaseyeen Village egy tengerparti üdülőkomplexum, amely szabadidős tevékenységeket kínál a homokos parton Borg El Arab területének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611568,
+                        31.012065
+                  ]
+            },
+            {
+                  "name": "bath complex",
+                  "text": "Ez a történelmi fürdőkomplexum egy ókori fürdőlétesítmény kőromjait foglalja magába.",
+                  "category": "historical",
+                  "coords": [
+                        29.656839,
+                        30.996436
+                  ]
+            },
+            {
+                  "name": "Sedra",
+                  "text": "A Sedra egy tengerparti üdülőhely, amely homokos strandkényelmet biztosít a Borg El Arab régió környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611335,
+                        31.009852
+                  ]
+            },
+            {
+                  "name": "Amoun",
+                  "text": "Az Amoun tengerparti üdülőhelyként működik a mediterrán partmenti sávban, Borg El Arab közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.602319,
+                        31.004319
+                  ]
+            },
+            {
+                  "name": "El Safa",
+                  "text": "Az El Safa egy mediterrán homokos tengerparti üdülőhely, amely a Borg El Arab Stadion partmenti szomszédságában található.",
+                  "category": "recreational",
+                  "coords": [
+                        29.545633,
+                        30.96801
+                  ]
+            },
+            {
+                  "name": "Mayorka Village",
+                  "text": "A Mayorka Village nyaralói szálláshelyeket kínál, amelyek hozzáférést biztosítanak a homokos parthoz Borg El Arab közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.589126,
+                        30.995016
+                  ]
+            },
+            {
+                  "name": "El Fayrouz Village",
+                  "text": "Az El Fayrouz Village egy tengerparti turisztikai üdülőközpont a Földközi-tenger homokos partján, a Borg El Arab térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.595402,
+                        31.000458
+                  ]
+            },
+            {
+                  "name": "Engineers Corp Village",
+                  "text": "Az Engineers Corp Village partmenti üdülőkörnyezetet biztosít homokos strandlétesítményekkel Borg El Arab közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.621755,
+                        31.01771
+                  ]
+            },
+            {
+                  "name": "Fakhr El Behaar Village",
+                  "text": "A Fakhr El Behaar Village egy tengerparti üdülőhely, amely homokos strandhozzáférést kínál Borg El Arab partmenti régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638431,
+                        31.024931
+                  ]
+            },
+            {
+                  "name": "Sidi Kerir Army's Resort",
+                  "text": "A Sidi Kerir Army's Resort egy katonai üzemeltetésű, homokos tengerparti nyaralólétesítmény a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        29.632087,
+                        31.021157
+                  ]
+            },
+            {
+                  "name": "El Sherook Resort",
+                  "text": "Az El Sherook Resort egy nyaralóhely, amely homokos strandhoz való hozzáférést és partmenti szállást kínál Borg El Arab közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.562347,
+                        30.977461
+                  ]
+            },
+            {
+                  "name": "El Benook Resort",
+                  "text": "Az El Benook Resort tengerparti menedéket nyújt üdülőhelyi létesítményekkel a Földközi-tenger homokos partvonala mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557055,
+                        30.974378
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen Resort 1",
+                  "text": "A 44. kilométernél található Diplomaseyeen 1 egy partmenti üdülőközpont, amely homokos tengerparti nyaralóhelyeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        29.536499,
+                        30.963384
+                  ]
+            },
+            {
+                  "name": "Taposiris Magna Temple",
+                  "text": "A Taposiris Magna templom régészeti lelőhelye egy jelentős ókori egyiptomi vallási építmény kőmaradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        29.518699,
+                        30.946242
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "A Golden Beach egy tengerparti üdülőhelyként működik, homokos partszakaszokkal a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        29.515782,
+                        30.952359
+                  ]
+            },
+            {
+                  "name": "Omaraa El Behar",
+                  "text": "Az Omaraa El Behar egy tengerparti nyaralótelep, amely homokos strandkényelmet kínál a Borg El Arab stadion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.523014,
+                        30.957114
+                  ]
+            },
+            {
+                  "name": "Dyiar",
+                  "text": "A Dyiar egy tengerparti üdülőhely, amely partmenti szállást és szabadidős tevékenységeket biztosít Borg El Arab homokos partvonala mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.542496,
+                        30.965975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mareia",
+                  "text": "Mareia este un sit arheologic antic care prezintă ruinele unui oraș-port plin de viață de lângă Lacul Mariout.",
+                  "category": "historical",
+                  "coords": [
+                        29.656619,
+                        30.995131
+                  ]
+            },
+            {
+                  "name": "Kom el-Nagous",
+                  "text": "Kom el-Nagous este un sit arheologic care dezvăluie rămășițe structurale antice încorporate în peisaj.",
+                  "category": "historical",
+                  "coords": [
+                        29.540499,
+                        30.95608
+                  ]
+            },
+            {
+                  "name": "Venus",
+                  "text": "Venus este o stațiune balneară mediteraneană relaxată, oferind cazare pe litoral și vederi la coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        29.498538,
+                        30.943784
+                  ]
+            },
+            {
+                  "name": "Cairo University Resort",
+                  "text": "Cairo University Resort este o evadare pe plajă de coastă, înființată pentru personalul universității și afiliați.",
+                  "category": "recreational",
+                  "coords": [
+                        29.539816,
+                        30.965252
+                  ]
+            },
+            {
+                  "name": "Kerir Lagoon Village",
+                  "text": "Kerir Lagoon Village este o stațiune balneară de vacanță amplasată de-a lungul apelor calme ale unei lagune de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        29.579733,
+                        30.989052
+                  ]
+            },
+            {
+                  "name": "Misr for Construction Village",
+                  "text": "Misr for Construction Village este un complex dezvoltat de stațiuni balneare, situat pe nisipurile mediteraneene.",
+                  "category": "recreational",
+                  "coords": [
+                        29.587127,
+                        30.993596
+                  ]
+            },
+            {
+                  "name": "Dalia Village",
+                  "text": "Dalia Village oferă un cadru pitoresc de stațiune balneară pentru vacanțe de-a lungul coastei de nord.",
+                  "category": "recreational",
+                  "coords": [
+                        29.590688,
+                        30.997392
+                  ]
+            },
+            {
+                  "name": "Casablanca Resort",
+                  "text": "Casablanca Resort este un refugiu plin de viață pe plajă, care oferă facilități de agrement la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        29.527937,
+                        30.958129
+                  ]
+            },
+            {
+                  "name": "El Saraab Village",
+                  "text": "El Saraab Village este o stațiune balneară mediteraneană care oferă cabane de vacanță chiar pe țărmul nisipos.",
+                  "category": "recreational",
+                  "coords": [
+                        29.568702,
+                        30.981887
+                  ]
+            },
+            {
+                  "name": "Caribeano Resort",
+                  "text": "Caribeano Resort este o stațiune balneară de coastă situată în apropiere de zona Stadionului Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.555904,
+                        30.973434
+                  ]
+            },
+            {
+                  "name": "El Atebbaa Village",
+                  "text": "El Atebbaa Village oferă o evadare pe coastă, cu facilitățile sale de stațiune pe plajă de lângă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.553596,
+                        30.971646
+                  ]
+            },
+            {
+                  "name": "Presidential Resort",
+                  "text": "Presidential Resort este o destinație de vacanță pe litoral situată în regiunea de coastă mediteraneană din jurul orașului Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.50677,
+                        30.949227
+                  ]
+            },
+            {
+                  "name": "Venus 2 Lakes resort",
+                  "text": "Stațiunea Venus 2 Lakes oferă unități de cazare pentru agrement pe plaja de nisip, în apropiere de zona Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.494243,
+                        30.942181
+                  ]
+            },
+            {
+                  "name": "Ramses Village",
+                  "text": "Ramses Village este un complex de stațiune de coastă care oferă acces la plaja de nisip lângă Stadionul Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.531165,
+                        30.961097
+                  ]
+            },
+            {
+                  "name": "Heliobeach",
+                  "text": "Heliobeach este o stațiune balneară cu plajă de nisip la Marea Mediterană, destinată turiștilor din regiunea Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.489887,
+                        30.939917
+                  ]
+            },
+            {
+                  "name": "Pharos of Abusir",
+                  "text": "Farul din Abusir este un vechi sit arheologic cu ruine situat în apropiere de Lacul Mariout.",
+                  "category": "historical",
+                  "coords": [
+                        29.523563,
+                        30.947956
+                  ]
+            },
+            {
+                  "name": "Loaloet Kerir Village",
+                  "text": "Loaloet Kerir Village funcționează ca o stațiune balneară de vacanță de-a lungul coastei mediteraneene, lângă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.619628,
+                        31.01643
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen Village",
+                  "text": "Diplomaseyeen Village este un complex de stațiune pe litoral care oferă facilități de agrement pe plaja de nisip lângă zona Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611568,
+                        31.012065
+                  ]
+            },
+            {
+                  "name": "bath complex",
+                  "text": "Acest complex de băi istoric conține ruinele de piatră ale unei vechi facilități de baie.",
+                  "category": "historical",
+                  "coords": [
+                        29.656839,
+                        30.996436
+                  ]
+            },
+            {
+                  "name": "Sedra",
+                  "text": "Sedra este o destinație de stațiune de coastă care oferă facilități pe plaja de nisip în jurul regiunii Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611335,
+                        31.009852
+                  ]
+            },
+            {
+                  "name": "Amoun",
+                  "text": "Amoun funcționează ca un refugiu pe litoral situat de-a lungul fâșiei de coastă mediteraneene de lângă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.602319,
+                        31.004319
+                  ]
+            },
+            {
+                  "name": "El Safa",
+                  "text": "El Safa este o stațiune balneară mediteraneană cu plajă de nisip situată în vecinătatea de coastă a Stadionului Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.545633,
+                        30.96801
+                  ]
+            },
+            {
+                  "name": "Mayorka Village",
+                  "text": "Mayorka Village oferă unități de cazare în stațiuni de vacanță cu acces la țărmul nisipos de lângă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.589126,
+                        30.995016
+                  ]
+            },
+            {
+                  "name": "El Fayrouz Village",
+                  "text": "El Fayrouz Village este o stațiune turistică pe malul mării, situată de-a lungul coastei mediteraneene cu nisip, în zona Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.595402,
+                        31.000458
+                  ]
+            },
+            {
+                  "name": "Engineers Corp Village",
+                  "text": "Engineers Corp Village oferă un mediu de stațiune de coastă cu facilități de plajă cu nisip lângă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.621755,
+                        31.01771
+                  ]
+            },
+            {
+                  "name": "Fakhr El Behaar Village",
+                  "text": "Fakhr El Behaar Village este o destinație de stațiune pe litoral, cu acces la plaja de nisip, în regiunea de coastă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638431,
+                        31.024931
+                  ]
+            },
+            {
+                  "name": "Sidi Kerir Army's Resort",
+                  "text": "Stațiunea Sidi Kerir Army's este o unitate de vacanță pe plaja de nisip administrată de armată, situată de-a lungul țărmului mediteranean.",
+                  "category": "recreational",
+                  "coords": [
+                        29.632087,
+                        31.021157
+                  ]
+            },
+            {
+                  "name": "El Sherook Resort",
+                  "text": "Stațiunea El Sherook este o destinație de vacanță cu acces la plaja de nisip și cazare pe coastă, lângă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.562347,
+                        30.977461
+                  ]
+            },
+            {
+                  "name": "El Benook Resort",
+                  "text": "Stațiunea El Benook oferă un refugiu pe plaja de nisip cu facilități de stațiune de-a lungul coastei mediteraneene.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557055,
+                        30.974378
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen Resort 1",
+                  "text": "Situat la kilometrul 44, Diplomaseyeen 1 este un complex de stațiuni de coastă care oferă cazare de vacanță pe o plajă de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        29.536499,
+                        30.963384
+                  ]
+            },
+            {
+                  "name": "Taposiris Magna Temple",
+                  "text": "Situl arheologic al Templului Taposiris Magna prezintă rămășițele de piatră ale unei structuri religioase egiptene antice semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        29.518699,
+                        30.946242
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Golden Beach funcționează ca o destinație de stațiune pe litoral, cu țărmuri nisipoase pe coasta mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        29.515782,
+                        30.952359
+                  ]
+            },
+            {
+                  "name": "Omaraa El Behar",
+                  "text": "Omaraa El Behar este o așezare de vacanță pe coastă care oferă facilități pe plaja de nisip în apropierea stadionului Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.523014,
+                        30.957114
+                  ]
+            },
+            {
+                  "name": "Dyiar",
+                  "text": "Dyiar este o stațiune balneară care oferă cazare pe coastă și activități de agrement de-a lungul țărmului nisipos, lângă Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.542496,
+                        30.965975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mareia",
+                  "text": "Mareia is an ancient archaeological site featuring the ruins of a bustling port city near Lake Mariout.",
+                  "category": "historical",
+                  "coords": [
+                        29.656619,
+                        30.995131
+                  ]
+            },
+            {
+                  "name": "Kom el-Nagous",
+                  "text": "Kom el-Nagous is an archaeological site revealing ancient structural remains embedded in the landscape.",
+                  "category": "historical",
+                  "coords": [
+                        29.540499,
+                        30.95608
+                  ]
+            },
+            {
+                  "name": "Venus",
+                  "text": "Venus is a relaxed Mediterranean beach resort offering seaside accommodations and coastal views.",
+                  "category": "recreational",
+                  "coords": [
+                        29.498538,
+                        30.943784
+                  ]
+            },
+            {
+                  "name": "Cairo University Resort",
+                  "text": "The Cairo University Resort is a coastal beach getaway established for university staff and affiliates.",
+                  "category": "recreational",
+                  "coords": [
+                        29.539816,
+                        30.965252
+                  ]
+            },
+            {
+                  "name": "Kerir Lagoon Village",
+                  "text": "Kerir Lagoon Village is a holiday beach resort nestled along the calm waters of a coastal lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        29.579733,
+                        30.989052
+                  ]
+            },
+            {
+                  "name": "Misr for Construction Village",
+                  "text": "Misr for Construction Village is a developed beach resort complex situated on the Mediterranean sands.",
+                  "category": "recreational",
+                  "coords": [
+                        29.587127,
+                        30.993596
+                  ]
+            },
+            {
+                  "name": "Dalia Village",
+                  "text": "Dalia Village provides a picturesque beach resort setting for vacations along the northern coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        29.590688,
+                        30.997392
+                  ]
+            },
+            {
+                  "name": "Casablanca Resort",
+                  "text": "Casablanca Resort is a bustling beach retreat featuring recreational facilities by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        29.527937,
+                        30.958129
+                  ]
+            },
+            {
+                  "name": "El Saraab Village",
+                  "text": "El Saraab Village is a Mediterranean beach resort offering holiday chalets right on the sandy shore.",
+                  "category": "recreational",
+                  "coords": [
+                        29.568702,
+                        30.981887
+                  ]
+            },
+            {
+                  "name": "Caribeano Resort",
+                  "text": "Caribeano Resort is a coastal beach resort located near the Borg El Arab Stadium area.",
+                  "category": "recreational",
+                  "coords": [
+                        29.555904,
+                        30.973434
+                  ]
+            },
+            {
+                  "name": "El Atebbaa Village",
+                  "text": "El Atebbaa Village offers a coastal getaway with its beach resort facilities near Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.553596,
+                        30.971646
+                  ]
+            },
+            {
+                  "name": "Presidential Resort",
+                  "text": "The Presidential Resort is a seaside holiday destination situated in the Mediterranean coastal region around Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.50677,
+                        30.949227
+                  ]
+            },
+            {
+                  "name": "Venus 2 Lakes resort",
+                  "text": "Venus 2 Lakes resort provides beachside leisure accommodations on the sandy shores in the vicinity of the Borg El Arab area.",
+                  "category": "recreational",
+                  "coords": [
+                        29.494243,
+                        30.942181
+                  ]
+            },
+            {
+                  "name": "Ramses Village",
+                  "text": "Ramses Village is a coastal resort complex providing sandy beach access near the Borg El Arab Stadium.",
+                  "category": "recreational",
+                  "coords": [
+                        29.531165,
+                        30.961097
+                  ]
+            },
+            {
+                  "name": "Heliobeach",
+                  "text": "Heliobeach is a sandy seaside resort catering to vacationers along the Mediterranean in the Borg El Arab region.",
+                  "category": "recreational",
+                  "coords": [
+                        29.489887,
+                        30.939917
+                  ]
+            },
+            {
+                  "name": "Pharos of Abusir",
+                  "text": "The Pharos of Abusir is an ancient archaeological site featuring ruins near Lake Mariout.",
+                  "category": "historical",
+                  "coords": [
+                        29.523563,
+                        30.947956
+                  ]
+            },
+            {
+                  "name": "Loaloet Kerir Village",
+                  "text": "Loaloet Kerir Village functions as a holiday beach resort along the Mediterranean coastline near Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.619628,
+                        31.01643
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen Village",
+                  "text": "Diplomaseyeen Village is a seaside resort complex offering sandy coastal leisure near the Borg El Arab area.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611568,
+                        31.012065
+                  ]
+            },
+            {
+                  "name": "bath complex",
+                  "text": "This historical bath complex contains the stone ruins of an ancient bathing facility.",
+                  "category": "historical",
+                  "coords": [
+                        29.656839,
+                        30.996436
+                  ]
+            },
+            {
+                  "name": "Sedra",
+                  "text": "Sedra is a coastal resort destination providing sandy beach amenities around the Borg El Arab region.",
+                  "category": "recreational",
+                  "coords": [
+                        29.611335,
+                        31.009852
+                  ]
+            },
+            {
+                  "name": "Amoun",
+                  "text": "Amoun operates as a seaside resort retreat situated along the Mediterranean coastal stretch near Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.602319,
+                        31.004319
+                  ]
+            },
+            {
+                  "name": "El Safa",
+                  "text": "El Safa is a Mediterranean sandy beach resort located in the coastal vicinity of the Borg El Arab Stadium.",
+                  "category": "recreational",
+                  "coords": [
+                        29.545633,
+                        30.96801
+                  ]
+            },
+            {
+                  "name": "Mayorka Village",
+                  "text": "Mayorka Village features holiday resort accommodations with access to the sandy shoreline near Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.589126,
+                        30.995016
+                  ]
+            },
+            {
+                  "name": "El Fayrouz Village",
+                  "text": "El Fayrouz Village is a beachfront tourist resort set along the sandy Mediterranean coast in the Borg El Arab area.",
+                  "category": "recreational",
+                  "coords": [
+                        29.595402,
+                        31.000458
+                  ]
+            },
+            {
+                  "name": "Engineers Corp Village",
+                  "text": "The Engineers Corp Village provides a coastal resort environment with sandy beach facilities near Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.621755,
+                        31.01771
+                  ]
+            },
+            {
+                  "name": "Fakhr El Behaar Village",
+                  "text": "Fakhr El Behaar Village is a seaside resort destination featuring sandy beach access in the coastal Borg El Arab region.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638431,
+                        31.024931
+                  ]
+            },
+            {
+                  "name": "Sidi Kerir Army's Resort",
+                  "text": "Sidi Kerir Army's Resort is a military-operated beachside vacation facility situated along the sandy Mediterranean shore.",
+                  "category": "recreational",
+                  "coords": [
+                        29.632087,
+                        31.021157
+                  ]
+            },
+            {
+                  "name": "El Sherook Resort",
+                  "text": "El Sherook Resort is a holiday destination featuring sandy beach access and coastal lodging near Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.562347,
+                        30.977461
+                  ]
+            },
+            {
+                  "name": "El Benook Resort",
+                  "text": "El Benook Resort provides a sandy beachfront retreat with resort facilities along the Mediterranean coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557055,
+                        30.974378
+                  ]
+            },
+            {
+                  "name": "Diplomaseyeen 1 (Km 44)",
+                  "text": "Located at kilometer 44, Diplomaseyeen 1 is a coastal resort compound offering seaside holiday accommodations on a sandy beach.",
+                  "category": "recreational",
+                  "coords": [
+                        29.536499,
+                        30.963384
+                  ]
+            },
+            {
+                  "name": "Taposiris Magna Temple",
+                  "text": "The archaeological site of Taposiris Magna Temple features the stone remains of a significant ancient Egyptian religious structure.",
+                  "category": "historical",
+                  "coords": [
+                        29.518699,
+                        30.946242
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Golden Beach operates as a seaside resort destination featuring sandy shorelines on the Mediterranean coast.",
+                  "category": "recreational",
+                  "coords": [
+                        29.515782,
+                        30.952359
+                  ]
+            },
+            {
+                  "name": "Omaraa El Behar",
+                  "text": "Omaraa El Behar is a coastal vacation settlement offering sandy beach resort amenities near the Borg El Arab stadium.",
+                  "category": "recreational",
+                  "coords": [
+                        29.523014,
+                        30.957114
+                  ]
+            },
+            {
+                  "name": "Dyiar",
+                  "text": "Dyiar is a beach resort providing coastal lodging and leisure activities along the sandy shoreline near Borg El Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        29.542496,
+                        30.965975
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-ALX",
     coords: [29.5833, 30.9583],
@@ -945,7 +6201,340 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Barrage monumental sur le Nil à Assouan contrôlant les inondations.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-aswan-high-dam.webp"},
   {
-    id: "eg-montaza-palace",
+    id: "eg-montaza-palace", "sights": {
+      "de": [
+            {
+                  "name": "Al-Qiddissin",
+                  "text": "Die Kirche der Heiligen in Alexandria ist eine historisch bedeutsame koptische Kultstätte.",
+                  "category": "religious",
+                  "coords": [
+                        29.991972,
+                        31.263192
+                  ]
+            },
+            {
+                  "name": "sidi bishr mosque",
+                  "text": "Die Sidi-Bishr-Moschee ist ein ehrwürdiges islamisches Gotteshaus unweit des Mittelmeeres.",
+                  "category": "religious",
+                  "coords": [
+                        29.985189,
+                        31.261565
+                  ]
+            },
+            {
+                  "name": "Mandara Beach",
+                  "text": "Der Mandara-Strand bietet weite Sandflächen am Mittelmeer nahe dem Montaza-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        30.007679,
+                        31.279182
+                  ]
+            },
+            {
+                  "name": "Sheraton",
+                  "text": "Der Sheraton-Strand lockt Besucher mit seinem weichen Sand und direkten Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010288,
+                        31.282001
+                  ]
+            },
+            {
+                  "name": "Aida Beach",
+                  "text": "Der Aida-Strand ist ein beliebter, sonnenverwöhnter Küstenabschnitt in Alexandria.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010821,
+                        31.283595
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Der Miami-Strand in Alexandria bietet lebhaftes Treiben und feinen Sand direkt am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        29.990843,
+                        31.270463
+                  ]
+            },
+            {
+                  "name": "Sidi Bishr Beach",
+                  "text": "Der Sidi-Bishr-Strand ist ein familienfreundlicher Küstenabschnitt am Rande der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.985927,
+                        31.264777
+                  ]
+            },
+            {
+                  "name": "Kouta Park",
+                  "text": "Der Kouta-Park bietet Fahrgeschäfte und familiäre Unterhaltung nahe dem Montaza-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        30.034079,
+                        31.284636
+                  ]
+            },
+            {
+                  "name": "Al Maamoura Beach",
+                  "text": "Der Al-Maamoura-Strand ist ein gut geschützter und gepflegter Küstenstreifen am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        30.029606,
+                        31.290661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Qiddissin",
+                  "text": "Az Al-Qiddissin, vagyis a Szentek temploma egy történelmi kopt keresztény imahely Alexandriában.",
+                  "category": "religious",
+                  "coords": [
+                        29.991972,
+                        31.263192
+                  ]
+            },
+            {
+                  "name": "sidi bishr mosque",
+                  "text": "A sidi bishr mecset egy tekintélyes muszlim vallási központ Alexandria tengerparti övezetében.",
+                  "category": "religious",
+                  "coords": [
+                        29.985189,
+                        31.261565
+                  ]
+            },
+            {
+                  "name": "Mandara Beach",
+                  "text": "A Mandara Beach kiterjedt homokos partot kínál a Földközi-tengernél, a Montaza Palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.007679,
+                        31.279182
+                  ]
+            },
+            {
+                  "name": "Sheraton",
+                  "text": "A Sheraton Beach finom homokkal és közvetlen tengerparti hozzáféréssel vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010288,
+                        31.282001
+                  ]
+            },
+            {
+                  "name": "Aida Beach",
+                  "text": "Az Aida Beach egy népszerű, napsütötte tengerparti szakasz Alexandria partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010821,
+                        31.283595
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "A Miami Beach Alexandriában élénk tengerparti hangulatot és finom homokot kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        29.990843,
+                        31.270463
+                  ]
+            },
+            {
+                  "name": "Sidi Bishr Beach",
+                  "text": "A Sidi Bishr Beach egy családbarát tengerparti szakasz Alexandria peremén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.985927,
+                        31.264777
+                  ]
+            },
+            {
+                  "name": "Kouta Park",
+                  "text": "A Kouta Park különféle vidámparki attrakciókkal várja a családokat a Montaza Palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.034079,
+                        31.284636
+                  ]
+            },
+            {
+                  "name": "Al Maamoura Beach",
+                  "text": "Az Al Maamoura Beach egy jól karbantartott és védett homokos partszakasz a Földközi-tenger mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        30.029606,
+                        31.290661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Qiddissin",
+                  "text": "Biserica Sfinților (Al-Qiddissin) este un important lăcaș de cult creștin copt situat în zona Montaza din Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.991972,
+                        31.263192
+                  ]
+            },
+            {
+                  "name": "sidi bishr mosque",
+                  "text": "Moscheea sidi bishr este un lăcaș de cult islamic respectat, aflat în zona de coastă a Alexandriei.",
+                  "category": "religious",
+                  "coords": [
+                        29.985189,
+                        31.261565
+                  ]
+            },
+            {
+                  "name": "Mandara Beach",
+                  "text": "Plaja Mandara oferă o întindere nisipoasă relaxantă pe coasta Mării Mediterane, lângă Palatul Montaza.",
+                  "category": "recreational",
+                  "coords": [
+                        30.007679,
+                        31.279182
+                  ]
+            },
+            {
+                  "name": "Sheraton",
+                  "text": "Plaja Sheraton atrage vizitatorii cu nisipul său fin și accesul excelent la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010288,
+                        31.282001
+                  ]
+            },
+            {
+                  "name": "Aida Beach",
+                  "text": "Plaja Aida este o porțiune de coastă populară și însorită de-a lungul Mării Mediterane.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010821,
+                        31.283595
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Plaja Miami din Alexandria este o destinație de coastă animată, renumită pentru nisipul său auriu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.990843,
+                        31.270463
+                  ]
+            },
+            {
+                  "name": "Sidi Bishr Beach",
+                  "text": "Plaja Sidi Bishr oferă o zonă de coastă relaxantă, preferată de familiile din Alexandria.",
+                  "category": "recreational",
+                  "coords": [
+                        29.985927,
+                        31.264777
+                  ]
+            },
+            {
+                  "name": "Kouta Park",
+                  "text": "Kouta Park este un parc de distracții cu atracții diverse pentru familii, situat în apropierea Palatului Montaza.",
+                  "category": "recreational",
+                  "coords": [
+                        30.034079,
+                        31.284636
+                  ]
+            },
+            {
+                  "name": "Al Maamoura Beach",
+                  "text": "Plaja Al Maamoura este o fâșie de nisip bine întreținută și protejată de la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        30.029606,
+                        31.290661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Qiddissin",
+                  "text": "Al-Qiddissin, known as the Church of the Two Saints, is a historically significant Coptic Christian place of worship in Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.991972,
+                        31.263192
+                  ]
+            },
+            {
+                  "name": "sidi bishr mosque",
+                  "text": "The sidi bishr mosque is an established and revered Islamic place of worship located near the Mediterranean coast.",
+                  "category": "religious",
+                  "coords": [
+                        29.985189,
+                        31.261565
+                  ]
+            },
+            {
+                  "name": "Mandara Beach",
+                  "text": "Mandara Beach features a broad sandy coastline along the Mediterranean Sea near the Montaza Palace grounds.",
+                  "category": "recreational",
+                  "coords": [
+                        30.007679,
+                        31.279182
+                  ]
+            },
+            {
+                  "name": "Sheraton",
+                  "text": "The Sheraton beach attracts visitors with its soft sandy shores and prime Mediterranean coastal access.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010288,
+                        31.282001
+                  ]
+            },
+            {
+                  "name": "Aida Beach",
+                  "text": "Aida Beach is a popular, sun-drenched sandy stretch hugging the Mediterranean coastline in Alexandria.",
+                  "category": "recreational",
+                  "coords": [
+                        30.010821,
+                        31.283595
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Miami Beach in Alexandria is a bustling, sandy shoreline offering energetic coastal activities by the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        29.990843,
+                        31.270463
+                  ]
+            },
+            {
+                  "name": "Sidi Bishr Beach",
+                  "text": "Sidi Bishr Beach is a sandy, family-friendly coastal stretch along the Mediterranean waters of Alexandria.",
+                  "category": "recreational",
+                  "coords": [
+                        29.985927,
+                        31.264777
+                  ]
+            },
+            {
+                  "name": "Kouta Park",
+                  "text": "Kouta Park provides amusement rides and family-friendly entertainment near the historic Montaza Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        30.034079,
+                        31.284636
+                  ]
+            },
+            {
+                  "name": "Al Maamoura Beach",
+                  "text": "Al Maamoura Beach is a well-maintained, private-feeling sandy shoreline stretching along the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        30.029606,
+                        31.290661
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-ALX",
     coords: [30.0167, 31.2889],
@@ -992,7 +6581,268 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un grand palais et de vastes jardins dans le quartier de Montaza à Alexandrie, surplombant une plage de la Méditerranée.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-montaza-palace.webp"},
   {
-    id: "eg-manial-palace",
+    id: "eg-manial-palace", "sights": {
+      "de": [
+            {
+                  "name": "Masjid AlPasha",
+                  "text": "Ein kunstvoll gestaltetes islamisches Gotteshaus auf dem historischen Palastgelände.",
+                  "category": "religious",
+                  "coords": [
+                        31.225247,
+                        30.021105
+                  ]
+            },
+            {
+                  "name": "Palace Gate",
+                  "text": "Der große architektonische Eingang, der das historische Anwesen des Manial-Palastes schützt.",
+                  "category": "castle",
+                  "coords": [
+                        31.228129,
+                        30.027034
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Palace Museum",
+                  "text": "Eine opulente königliche Residenz von Prinz Mohammed Ali Tewfik, die islamische Baustile miteinander verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        31.229485,
+                        30.026512
+                  ]
+            },
+            {
+                  "name": "Hunting Hall Museum",
+                  "text": "Zeigt eine umfangreiche Sammlung von Tierpräparaten und Jagdtrophäen der ägyptischen Königsfamilie.",
+                  "category": "museum",
+                  "coords": [
+                        31.228781,
+                        30.028552
+                  ]
+            },
+            {
+                  "name": "Ahmed Shawqi Museum",
+                  "text": "Der ehemalige Wohnsitz, bekannt als „Karmat Ibn Hani“, der dem „Fürsten der Dichter“ gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        31.217597,
+                        30.021453
+                  ]
+            },
+            {
+                  "name": "Side Gate",
+                  "text": "Ein befestigter Nebeneingang, der den Zugang zum Palastkomplex ermöglicht.",
+                  "category": "castle",
+                  "coords": [
+                        31.229954,
+                        30.028773
+                  ]
+            },
+            {
+                  "name": "Orman Botanic Garden",
+                  "text": "Ein großer historischer botanischer Garten in Gizeh, berühmt für seine seltenen Pflanzenarten und das Frühlingsblumenfest.",
+                  "category": "park",
+                  "coords": [
+                        31.213432,
+                        30.029327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid AlPasha",
+                  "text": "Díszes iszlám imahely a történelmi palota területén.",
+                  "category": "religious",
+                  "coords": [
+                        31.225247,
+                        30.021105
+                  ]
+            },
+            {
+                  "name": "Palace Gate",
+                  "text": "A történelmi Manial-palota birtokát őrző grandiózus építészeti bejárat.",
+                  "category": "castle",
+                  "coords": [
+                        31.228129,
+                        30.027034
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Palace Museum",
+                  "text": "Mohammed Ali Tewfik herceg pazar királyi rezidenciája, amely ötvözi az iszlám építészeti stílusokat.",
+                  "category": "museum",
+                  "coords": [
+                        31.229485,
+                        30.026512
+                  ]
+            },
+            {
+                  "name": "Hunting Hall Museum",
+                  "text": "Az egyiptomi királyi család preparált állatainak és vadásztrófeáinak kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.228781,
+                        30.028552
+                  ]
+            },
+            {
+                  "name": "Ahmed Shawqi Museum",
+                  "text": "A „Karmat Ibn Hani” néven ismert egykori rezidencia, amelyet a „Költők hercegének” szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        31.217597,
+                        30.021453
+                  ]
+            },
+            {
+                  "name": "Side Gate",
+                  "text": "Egy másodlagos erődített bejárat, amely hozzáférést biztosít a palotakomplexumhoz.",
+                  "category": "castle",
+                  "coords": [
+                        31.229954,
+                        30.028773
+                  ]
+            },
+            {
+                  "name": "Orman Botanic Garden",
+                  "text": "Egy nagy történelmi botanikus kert Gízában, amely ritka növényfajairól és a tavaszi virágfesztiválról híres.",
+                  "category": "park",
+                  "coords": [
+                        31.213432,
+                        30.029327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid AlPasha",
+                  "text": "Un lăcaș de cult islamic ornat, aflat pe terenul palatului istoric.",
+                  "category": "religious",
+                  "coords": [
+                        31.225247,
+                        30.021105
+                  ]
+            },
+            {
+                  "name": "Palace Gate",
+                  "text": "Marea intrare arhitecturală care păzește proprietatea istorică a Palatului Manial.",
+                  "category": "castle",
+                  "coords": [
+                        31.228129,
+                        30.027034
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Palace Museum",
+                  "text": "O reședință regală opulentă construită de prințul Mohammed Ali Tewfik, care îmbină stilurile arhitecturale islamice.",
+                  "category": "museum",
+                  "coords": [
+                        31.229485,
+                        30.026512
+                  ]
+            },
+            {
+                  "name": "Hunting Hall Museum",
+                  "text": "Expune o colecție vastă de animale împăiate și trofee de vânătoare ale familiei regale egiptene.",
+                  "category": "museum",
+                  "coords": [
+                        31.228781,
+                        30.028552
+                  ]
+            },
+            {
+                  "name": "Ahmed Shawqi Museum",
+                  "text": "Fosta reședință, cunoscută sub numele de „Karmat Ibn Hani”, dedicată „Prințului poeților”.",
+                  "category": "museum",
+                  "coords": [
+                        31.217597,
+                        30.021453
+                  ]
+            },
+            {
+                  "name": "Side Gate",
+                  "text": "O intrare secundară fortificată, care oferă acces la complexul palatului.",
+                  "category": "castle",
+                  "coords": [
+                        31.229954,
+                        30.028773
+                  ]
+            },
+            {
+                  "name": "Orman Botanic Garden",
+                  "text": "O mare grădină botanică istorică din Giza, renumită pentru speciile sale rare de plante și festivalul florilor de primăvară.",
+                  "category": "park",
+                  "coords": [
+                        31.213432,
+                        30.029327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid AlPasha",
+                  "text": "An ornate Islamic place of worship within the historic palace grounds.",
+                  "category": "religious",
+                  "coords": [
+                        31.225247,
+                        30.021105
+                  ]
+            },
+            {
+                  "name": "Palace Gate",
+                  "text": "The grand architectural entrance guarding the historic Manial Palace estate.",
+                  "category": "castle",
+                  "coords": [
+                        31.228129,
+                        30.027034
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Palace Museum",
+                  "text": "An opulent royal residence built by Prince Mohammed Ali Tewfik, blending Islamic architectural styles.",
+                  "category": "museum",
+                  "coords": [
+                        31.229485,
+                        30.026512
+                  ]
+            },
+            {
+                  "name": "Hunting Hall Museum",
+                  "text": "Displays an extensive collection of taxidermy and hunting trophies from the Egyptian royal family.",
+                  "category": "museum",
+                  "coords": [
+                        31.228781,
+                        30.028552
+                  ]
+            },
+            {
+                  "name": "Ahmed Shawqi Museum",
+                  "text": "The former residence, known as \"Karmat Ibn Hani\", dedicated to the \"Prince of Poets\".",
+                  "category": "museum",
+                  "coords": [
+                        31.217597,
+                        30.021453
+                  ]
+            },
+            {
+                  "name": "Side Gate",
+                  "text": "A secondary fortified entrance providing access to the palace complex.",
+                  "category": "castle",
+                  "coords": [
+                        31.229954,
+                        30.028773
+                  ]
+            },
+            {
+                  "name": "Orman Botanic Garden",
+                  "text": "A large historic botanical garden in Giza, famous for its rare plant species and spring flower festival.",
+                  "category": "park",
+                  "coords": [
+                        31.213432,
+                        30.029327
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2289, 30.0267],
@@ -1039,7 +6889,304 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un musée d'art et d'histoire historique dans le quartier d'El Manial, au sud du Caire, construit par le prince Mohammed Ali Tewfik.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-manial-palace.webp"},
   {
-    id: "eg-hanging-church",
+    id: "eg-hanging-church", "sights": {
+      "de": [
+            {
+                  "name": "Darb 1718",
+                  "text": "Ein zeitgenössisches ägyptisches Kunst- und Kulturzentrum im alten Kairo.",
+                  "category": "cultural",
+                  "coords": [
+                        31.231809,
+                        30.002978
+                  ]
+            },
+            {
+                  "name": "Egyptian Geological Museum",
+                  "text": "Dieses Museum präsentiert Fossilien, Mineralien und Meteoriten aus der geologischen Geschichte Ägyptens.",
+                  "category": "museum",
+                  "coords": [
+                        31.228725,
+                        29.996185
+                  ]
+            },
+            {
+                  "name": "Fisher Boats",
+                  "text": "Traditionelle hölzerne Fischerboote, die an den Ufern des Nils festgemacht haben.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225737,
+                        29.995764
+                  ]
+            },
+            {
+                  "name": "Nasser's Museum",
+                  "text": "Eine Sammlung persönlicher Artefakte und Erinnerungsstücke des ehemaligen ägyptischen Präsidenten Gamal Abdel Nasser.",
+                  "category": "museum",
+                  "coords": [
+                        31.218207,
+                        29.996564
+                  ]
+            },
+            {
+                  "name": "Cleopatra’s Museum",
+                  "text": "Ausstellungsstücke, die der legendären ptolemäischen Königin von Ägypten gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        31.217199,
+                        29.997273
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "Ein Freizeitpark mit Wasserrutschen und Pools in der näheren Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        31.241375,
+                        29.96372
+                  ]
+            },
+            {
+                  "name": "Green Park",
+                  "text": "Ein Vergnügungspark mit Fahrgeschäften und Unterhaltung inmitten landschaftlich gestalteter Anlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.237802,
+                        29.965657
+                  ]
+            },
+            {
+                  "name": "Kirche der Heiligen Jungfrau Maria",
+                  "text": "Eine berühmte koptisch-orthodoxe Kirche, die auf dem südlichen Tor der römischen Festung Babylon erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        31.230081,
+                        30.005218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Darb 1718",
+                  "text": "Kortárs egyiptomi művészeti és kulturális központ Ókairóban.",
+                  "category": "cultural",
+                  "coords": [
+                        31.231809,
+                        30.002978
+                  ]
+            },
+            {
+                  "name": "Egyptian Geological Museum",
+                  "text": "Ez a múzeum Egyiptom geológiai történetéből származó kövületeket, ásványokat és meteoritokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        31.228725,
+                        29.996185
+                  ]
+            },
+            {
+                  "name": "Fisher Boats",
+                  "text": "A Nílus partján kikötött hagyományos, fából készült halászcsónakok.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225737,
+                        29.995764
+                  ]
+            },
+            {
+                  "name": "Nasser's Museum",
+                  "text": "Gamal Abden-Nasszer egykori egyiptomi elnök személyes tárgyainak és emléktárgyainak gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        31.218207,
+                        29.996564
+                  ]
+            },
+            {
+                  "name": "Cleopatra’s Museum",
+                  "text": "Egyiptom legendás ptolemaioszi királynőjének szentelt kiállítások.",
+                  "category": "museum",
+                  "coords": [
+                        31.217199,
+                        29.997273
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "Szabadidőpark vízicsúszdákkal és medencékkel a helyi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.241375,
+                        29.96372
+                  ]
+            },
+            {
+                  "name": "Green Park",
+                  "text": "Vidámpark, amely parkosított területen kínál utazásokat és szórakozást.",
+                  "category": "recreational",
+                  "coords": [
+                        31.237802,
+                        29.965657
+                  ]
+            },
+            {
+                  "name": "Hanging Church",
+                  "text": "Híres kopt ortodox templom, amely a római Babilon erőd déli kapuja fölé épült.",
+                  "category": "landmark",
+                  "coords": [
+                        31.230081,
+                        30.005218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Darb 1718",
+                  "text": "Un centru de artă și cultură contemporană egipteană în vechiul Cairo.",
+                  "category": "cultural",
+                  "coords": [
+                        31.231809,
+                        30.002978
+                  ]
+            },
+            {
+                  "name": "Egyptian Geological Museum",
+                  "text": "Acest muzeu prezintă fosile, minerale și meteoriți din istoria geologică a Egiptului.",
+                  "category": "museum",
+                  "coords": [
+                        31.228725,
+                        29.996185
+                  ]
+            },
+            {
+                  "name": "Fisher Boats",
+                  "text": "Bărci de pescuit tradiționale din lemn, ancorate pe malurile Nilului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225737,
+                        29.995764
+                  ]
+            },
+            {
+                  "name": "Nasser's Museum",
+                  "text": "O colecție de artefacte personale și suveniruri aparținând fostului președinte egiptean Gamal Abdel Nasser.",
+                  "category": "museum",
+                  "coords": [
+                        31.218207,
+                        29.996564
+                  ]
+            },
+            {
+                  "name": "Cleopatra’s Museum",
+                  "text": "Exponate dedicate legendarei regine ptolemeice a Egiptului.",
+                  "category": "museum",
+                  "coords": [
+                        31.217199,
+                        29.997273
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "Un parc de agrement cu tobogane cu apă și piscine în zona locală.",
+                  "category": "recreational",
+                  "coords": [
+                        31.241375,
+                        29.96372
+                  ]
+            },
+            {
+                  "name": "Green Park",
+                  "text": "Un parc de distracții care oferă atracții și divertisment printre terenuri amenajate peisagistic.",
+                  "category": "recreational",
+                  "coords": [
+                        31.237802,
+                        29.965657
+                  ]
+            },
+            {
+                  "name": "Hanging Church",
+                  "text": "O faimoasă biserică ortodoxă coptă construită deasupra porții de sud a fortăreței romane Babilon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.230081,
+                        30.005218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Darb 1718",
+                  "text": "A contemporary Egyptian art and culture center located in Old Cairo.",
+                  "category": "cultural",
+                  "coords": [
+                        31.231809,
+                        30.002978
+                  ]
+            },
+            {
+                  "name": "Egyptian Geological Museum",
+                  "text": "This museum features fossils, minerals, and meteorites from Egypt's geological history.",
+                  "category": "museum",
+                  "coords": [
+                        31.228725,
+                        29.996185
+                  ]
+            },
+            {
+                  "name": "Fisher Boats",
+                  "text": "Traditional wooden fishing boats moored along the banks of the Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        31.225737,
+                        29.995764
+                  ]
+            },
+            {
+                  "name": "Nasser's Museum",
+                  "text": "A collection of personal artifacts and memorabilia belonging to former Egyptian President Gamal Abdel Nasser.",
+                  "category": "museum",
+                  "coords": [
+                        31.218207,
+                        29.996564
+                  ]
+            },
+            {
+                  "name": "Cleopatra’s Museum",
+                  "text": "Exhibits dedicated to the legendary Ptolemaic queen of Egypt.",
+                  "category": "museum",
+                  "coords": [
+                        31.217199,
+                        29.997273
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "A recreational park with water slides and pools in the local area.",
+                  "category": "recreational",
+                  "coords": [
+                        31.241375,
+                        29.96372
+                  ]
+            },
+            {
+                  "name": "Green Park",
+                  "text": "An amusement park offering rides and entertainment among landscaped grounds.",
+                  "category": "recreational",
+                  "coords": [
+                        31.237802,
+                        29.965657
+                  ]
+            },
+            {
+                  "name": "Hanging Church",
+                  "text": "A famous Coptic Orthodox church built atop the southern gate of the Roman Babylon Fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        31.230081,
+                        30.005218
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.23, 30.0053],
@@ -1086,7 +7233,232 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["L'une des plus anciennes églises d'Égypte dans le Vieux-Caire copte, suspendue de manière unique au-dessus de la porte d'une forteresse romaine.", "Située sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marquée par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-hanging-church.webp"},
   {
-    id: "eg-ibn-tulun-mosque",
+    id: "eg-ibn-tulun-mosque", "sights": {
+      "de": [
+            {
+                  "name": "Gayer-Anderson Museum",
+                  "text": "Angrenzend an die Ibn-Tulun-Moschee bewahrt dieses Kunstmuseum authentische islamische Wohnarchitektur aus dem 17. Jahrhundert und war Schauplatz in einem James-Bond-Film.",
+                  "category": "museum",
+                  "coords": [
+                        31.250726,
+                        30.02838
+                  ]
+            },
+            {
+                  "name": "Bayt al-Sinnari",
+                  "text": "Dieses 1794 erbaute historische Wohnhaus-Museum zeigt traditionelle islamische Wohnarchitektur mit den charakteristischen hölzernen Maschrabiyya-Fenstern.",
+                  "category": "museum",
+                  "coords": [
+                        31.242819,
+                        30.032964
+                  ]
+            },
+            {
+                  "name": "Talaat Harb Culture Center",
+                  "text": "Dieser kulturelle Veranstaltungsort bietet Raum für lokale Kunstausstellungen, Workshops und literarische Ereignisse im historischen Viertel.",
+                  "category": "museum",
+                  "coords": [
+                        31.252414,
+                        30.023845
+                  ]
+            },
+            {
+                  "name": "Masoleum of Sayyida Ruqayya",
+                  "text": "Dieser Schrein aus der Fatimidenzeit, der einer Nachfahrin des Propheten Mohammed gewidmet ist, ist für seinen reich verzierten Stuck-Mihrab und seine gerippte Kuppel berühmt.",
+                  "category": "historical",
+                  "coords": [
+                        31.251883,
+                        30.025641
+                  ]
+            },
+            {
+                  "name": "Khanqah of Shaykhu",
+                  "text": "Dieser 1355 errichtete und als Kulturerbe anerkannte islamische Komplex diente ursprünglich als wichtiges Zentrum für Sufi-Zusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        31.252989,
+                        30.030486
+                  ]
+            },
+            {
+                  "name": "Mosque of Ibn Tulun",
+                  "text": "Bekannt als die älteste in ihrer ursprünglichen Form erhaltene Moschee Kairos, ist sie optisch auffällig durch ihr einzigartiges, von der Großen Moschee von Samarra inspiriertes Spiralminarett.",
+                  "category": "religious",
+                  "coords": [
+                        31.249669,
+                        30.028609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gayer-Anderson Museum",
+                  "text": "Az Ibn Túlún-mecsethez csatlakozó művészeti múzeum a 17. századi iszlám lakóépítészetet őrzi, és egy James Bond-filmben is szerepelt.",
+                  "category": "museum",
+                  "coords": [
+                        31.250726,
+                        30.02838
+                  ]
+            },
+            {
+                  "name": "Bayt al-Sinnari",
+                  "text": "Az 1794-ben épült történelmi házmúzeum a hagyományos iszlám lakóépítészetet mutatja be jellegzetes fából készült masrabíja ablakaival.",
+                  "category": "museum",
+                  "coords": [
+                        31.242819,
+                        30.032964
+                  ]
+            },
+            {
+                  "name": "Talaat Harb Culture Center",
+                  "text": "Ez a kulturális központ helyi művészeti kiállításoknak, workshopoknak és irodalmi eseményeknek ad otthont a történelmi negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        31.252414,
+                        30.023845
+                  ]
+            },
+            {
+                  "name": "Masoleum of Sayyida Ruqayya",
+                  "text": "A Mohamed próféta leszármazottjának szentelt fátimida kori szentély gazdagon díszített stukkó mihrábjáról és bordázott kupolájáról híres.",
+                  "category": "historical",
+                  "coords": [
+                        31.251883,
+                        30.025641
+                  ]
+            },
+            {
+                  "name": "Khanqah of Shaykhu",
+                  "text": "Az 1355-ben alapított és elismert örökségi helyszínként számon tartott iszlám komplexum eredetileg a szúfi összejövetelek kiemelkedő központjaként működött.",
+                  "category": "religious",
+                  "coords": [
+                        31.252989,
+                        30.030486
+                  ]
+            },
+            {
+                  "name": "Mosque of Ibn Tulun",
+                  "text": "Kairó legrégebbi, eredeti formájában fennmaradt mecsetjeként ismert, és vizuálisan lenyűgöző egyedi spirális minaretjének köszönhetően, amelyet a szamarrai nagymecset ihletett.",
+                  "category": "religious",
+                  "coords": [
+                        31.249669,
+                        30.028609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gayer-Anderson Museum",
+                  "text": "Adiacent Moscheii Ibn Tulun, acest muzeu de artă păstrează arhitectura domestică islamică autentică din secolul al XVII-lea și a apărut într-un film cu James Bond.",
+                  "category": "museum",
+                  "coords": [
+                        31.250726,
+                        30.02838
+                  ]
+            },
+            {
+                  "name": "Bayt al-Sinnari",
+                  "text": "Construit în 1794, acest muzeu într-o casă istorică prezintă arhitectura rezidențială islamică tradițională, cu ferestrele sale caracteristice mashrabiya din lemn.",
+                  "category": "museum",
+                  "coords": [
+                        31.242819,
+                        30.032964
+                  ]
+            },
+            {
+                  "name": "Talaat Harb Culture Center",
+                  "text": "Acest centru cultural oferă un spațiu pentru expoziții artistice locale, ateliere și evenimente literare în cartierul istoric.",
+                  "category": "museum",
+                  "coords": [
+                        31.252414,
+                        30.023845
+                  ]
+            },
+            {
+                  "name": "Masoleum of Sayyida Ruqayya",
+                  "text": "Dedicat unei descendente a Profetului Mahomed, acest sanctuar din epoca fatimidă este celebru pentru mihrabul său din stuc bogat ornamentat și cupola sa cu nervuri.",
+                  "category": "historical",
+                  "coords": [
+                        31.251883,
+                        30.025641
+                  ]
+            },
+            {
+                  "name": "Khanqah of Shaykhu",
+                  "text": "Înființat ca un sit de patrimoniu recunoscut în 1355, acest complex islamic a funcționat inițial ca un centru proeminent pentru adunările sufi.",
+                  "category": "religious",
+                  "coords": [
+                        31.252989,
+                        30.030486
+                  ]
+            },
+            {
+                  "name": "Mosque of Ibn Tulun",
+                  "text": "Renumită ca fiind cea mai veche moschee din Cairo care a supraviețuit în forma sa originală, este uimitoare vizual datorită minaretului său spiralat unic inspirat de Marea Moschee din Samarra.",
+                  "category": "religious",
+                  "coords": [
+                        31.249669,
+                        30.028609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gayer-Anderson Museum",
+                  "text": "Adjoining the Ibn Tulun Mosque, this art museum preserves authentic 17th-century Islamic domestic architecture and famously featured in a James Bond film.",
+                  "category": "museum",
+                  "coords": [
+                        31.250726,
+                        30.02838
+                  ]
+            },
+            {
+                  "name": "Bayt al-Sinnari",
+                  "text": "Built in 1794, this historic house museum showcases traditional Islamic residential architecture with its characteristic wooden mashrabiya windows.",
+                  "category": "museum",
+                  "coords": [
+                        31.242819,
+                        30.032964
+                  ]
+            },
+            {
+                  "name": "Talaat Harb Culture Center",
+                  "text": "This cultural venue provides a space for local artistic exhibitions, workshops, and literary events in the historic district.",
+                  "category": "museum",
+                  "coords": [
+                        31.252414,
+                        30.023845
+                  ]
+            },
+            {
+                  "name": "Masoleum of Sayyida Ruqayya",
+                  "text": "Dedicated to a descendant of the Prophet Muhammad, this Fatimid-era shrine is celebrated for its highly ornate stucco mihrab and ribbed dome.",
+                  "category": "historical",
+                  "coords": [
+                        31.251883,
+                        30.025641
+                  ]
+            },
+            {
+                  "name": "Khanqah of Shaykhu",
+                  "text": "Established as a recognized heritage site in 1355, this Islamic complex originally functioned as a prominent center for Sufi gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        31.252989,
+                        30.030486
+                  ]
+            },
+            {
+                  "name": "Mosque of Ibn Tulun",
+                  "text": "Renowned as the oldest mosque in Cairo surviving in its original form, it is visually striking due to its unique spiral minaret inspired by the Great Mosque of Samarra.",
+                  "category": "religious",
+                  "coords": [
+                        31.249669,
+                        30.028609
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2494, 30.0286],
@@ -1585,7 +7957,268 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un monastère orthodoxe grec situé dans la péninsule du Sinaï, à l'embouchure d'une gorge au pied du mont Sinaï.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud de l'Afrique du Nord-Est."],
     }, image: "/poi-images/eg-saint-catherine-monastery.webp"},
   {
-    id: "eg-unknown-soldier-memorial",
+    id: "eg-unknown-soldier-memorial", "sights": {
+      "de": [
+            {
+                  "name": "Teleperformance - City Walk",
+                  "text": "Ein großes zeitgenössisches Ausstellungs- und Kongresszentrum für Großveranstaltungen in Neu-Kairo.",
+                  "category": "landmark",
+                  "coords": [
+                        31.388203,
+                        30.016466
+                  ]
+            },
+            {
+                  "name": "Sobhy Hussein Mosque",
+                  "text": "Eine lokale islamische Kultstätte mit modernen architektonischen Entwürfen im Bereich des Denkmals des Unbekannten Soldaten.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330846,
+                        30.000004
+                  ]
+            },
+            {
+                  "name": "Unknown Soldier Memorial",
+                  "text": "Ein markantes pyramidenförmiges Denkmal in Nasr City, das zu Ehren der gefallenen ägyptischen und arabischen Soldaten errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        31.313799,
+                        30.065374
+                  ]
+            },
+            {
+                  "name": "El Mosheer Tantawy Mosque",
+                  "text": "Die El-Mosheer-Tantawy-Moschee ist ein markantes islamisches Gebetshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        31.381849,
+                        30.017791
+                  ]
+            },
+            {
+                  "name": "Wonder Land",
+                  "text": "Wonder Land ist ein Vergnügungspark mit Fahrgeschäften und familienfreundlichen Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.337939,
+                        30.048113
+                  ]
+            },
+            {
+                  "name": "Magic Park",
+                  "text": "Magic Park ist ein Freizeitpark, der mit seinen Attraktionen Unterhaltung für Besucher jeden Alters bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        31.334498,
+                        30.050386
+                  ]
+            },
+            {
+                  "name": "Green Land",
+                  "text": "Green Land ist ein familienorientierter Freizeitpark mit zahlreichen Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.326625,
+                        30.051942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teleperformance - City Walk",
+                  "text": "Jelentős modern kiállítási és konferencia-létesítmény Új-Kairóban, amelyet nagyszabású rendezvények lebonyolítására terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.388203,
+                        30.016466
+                  ]
+            },
+            {
+                  "name": "Sobhy Hussein Mosque",
+                  "text": "Helyi iszlám istentiszteleti hely, modern építészeti dizájnnal, az Ismeretlen Katona Emlékműve környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330846,
+                        30.000004
+                  ]
+            },
+            {
+                  "name": "Unknown Soldier Memorial",
+                  "text": "Egy kiemelkedő piramis alakú emlékmű Naszr városában, amelyet az életüket vesztett egyiptomi és arab katonák tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.313799,
+                        30.065374
+                  ]
+            },
+            {
+                  "name": "El Mosheer Tantawy Mosque",
+                  "text": "Az El Mosheer Tantawy mecset egy kiemelkedő iszlám imahely.",
+                  "category": "landmark",
+                  "coords": [
+                        31.381849,
+                        30.017791
+                  ]
+            },
+            {
+                  "name": "Wonder Land",
+                  "text": "A Wonder Land egy vidámpark különféle körhintákkal és családbarát látványosságokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        31.337939,
+                        30.048113
+                  ]
+            },
+            {
+                  "name": "Magic Park",
+                  "text": "A Magic Park egy vidámpark, amely szórakoztató látványosságokat kínál minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        31.334498,
+                        30.050386
+                  ]
+            },
+            {
+                  "name": "Green Land",
+                  "text": "A Green Land egy családcentrikus vidámpark, amely számos szabadidős létesítménnyel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        31.326625,
+                        30.051942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teleperformance - City Walk",
+                  "text": "O importantă facilitate de expoziții și convenții contemporană concepută pentru a găzdui evenimente la scară largă în Noul Cairo.",
+                  "category": "landmark",
+                  "coords": [
+                        31.388203,
+                        30.016466
+                  ]
+            },
+            {
+                  "name": "Sobhy Hussein Mosque",
+                  "text": "Un lăcaș de cult islamic local, cu un design arhitectural modern în zona Memorialului Soldatului Necunoscut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330846,
+                        30.000004
+                  ]
+            },
+            {
+                  "name": "Unknown Soldier Memorial",
+                  "text": "Un monument proeminent în formă de piramidă din orașul Nasr, construit pentru a onora soldații egipteni și arabi care și-au pierdut viața.",
+                  "category": "landmark",
+                  "coords": [
+                        31.313799,
+                        30.065374
+                  ]
+            },
+            {
+                  "name": "El Mosheer Tantawy Mosque",
+                  "text": "Moscheea El Mosheer Tantawy este un lăcaș de cult islamic proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        31.381849,
+                        30.017791
+                  ]
+            },
+            {
+                  "name": "Wonder Land",
+                  "text": "Wonder Land este un parc de distracții cu atracții prietenoase pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        31.337939,
+                        30.048113
+                  ]
+            },
+            {
+                  "name": "Magic Park",
+                  "text": "Magic Park este un parc de distracții care oferă divertisment pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        31.334498,
+                        30.050386
+                  ]
+            },
+            {
+                  "name": "Green Land",
+                  "text": "Green Land este un parc tematic orientat spre familie, cu numeroase facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        31.326625,
+                        30.051942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "New Cairo Convention Centre",
+                  "text": "A major contemporary exhibition and convention facility designed to host large-scale events in New Cairo.",
+                  "category": "landmark",
+                  "coords": [
+                        31.388203,
+                        30.016466
+                  ]
+            },
+            {
+                  "name": "Sobhy Hussein Mosque",
+                  "text": "A local Islamic place of worship featuring modern architectural designs in the Unknown Soldier Memorial area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.330846,
+                        30.000004
+                  ]
+            },
+            {
+                  "name": "Unknown Soldier Memorial",
+                  "text": "A prominent pyramid-shaped monument in Nasr City constructed to honor Egyptian and Arab soldiers who lost their lives.",
+                  "category": "landmark",
+                  "coords": [
+                        31.313799,
+                        30.065374
+                  ]
+            },
+            {
+                  "name": "El Mosheer Tantawy Mosque",
+                  "text": "The El Mosheer Tantawy Mosque is a prominent Islamic place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        31.381849,
+                        30.017791
+                  ]
+            },
+            {
+                  "name": "Wonder Land",
+                  "text": "Wonder Land is a theme park featuring various rides and family-friendly attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        31.337939,
+                        30.048113
+                  ]
+            },
+            {
+                  "name": "Magic Park",
+                  "text": "Magic Park is a theme park offering rides and entertainment for visitors of all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        31.334498,
+                        30.050386
+                  ]
+            },
+            {
+                  "name": "Green Land",
+                  "text": "Green Land is a family-oriented theme park featuring numerous recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        31.326625,
+                        30.051942
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.3142, 30.0633],
@@ -1632,7 +8265,52 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un monument pyramidal frappant au Caire, qui honore les vies égyptiennes et arabes perdues lors de la guerre d'Octobre 1973.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud de l'Afrique du Nord-Est."],
     }, image: "/poi-images/eg-unknown-soldier-memorial.webp"},
   {
-    id: "eg-al-rifai-mosque",
+    id: "eg-al-rifai-mosque", "sights": {
+      "de": [
+            {
+                  "name": "El-Mahmoudya Mosque",
+                  "text": "Diese historische Moschee liegt im Schatten der imposanten al-Rifa'i-Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        31.257782,
+                        30.031605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El-Mahmoudya Mosque",
+                  "text": "Ez a történelmi mecset az impozáns er-Rifái-mecset árnyékában fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        31.257782,
+                        30.031605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El-Mahmoudya Mosque",
+                  "text": "Această moschee istorică este situată în umbra impunătoarei moschei Al-Rifa'i.",
+                  "category": "religious",
+                  "coords": [
+                        31.257782,
+                        30.031605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El-Mahmoudya Mosque",
+                  "text": "This historic mosque is located in the shadow of the imposing Al-Rifa'i Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        31.257782,
+                        30.031605
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2583, 30.0325],
@@ -1679,7 +8357,124 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Une immense mosquée du Caire à côté de la mosquée du sultan Hassan, mausolée de la famille royale.", "Située sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marquée par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-al-rifai-mosque.webp"},
   {
-    id: "eg-ras-el-tin-palace",
+    id: "eg-ras-el-tin-palace", "sights": {
+      "de": [
+            {
+                  "name": "Tombs of Anfouchy",
+                  "text": "Die Gräber von Anfouchy bilden eine griechisch-römische Nekropole mit markanten unterirdischen Grabkammern.",
+                  "category": "historical",
+                  "coords": [
+                        29.874045,
+                        31.202136
+                  ]
+            },
+            {
+                  "name": "Al-Anfoushy Beach",
+                  "text": "Der Strand von Al-Anfoushy bietet einen sandigen Mittelmeerstrand, der zum Schwimmen und für Küstenspaziergänge beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        29.876045,
+                        31.205164
+                  ]
+            },
+            {
+                  "name": "Ras El Tin Palace",
+                  "text": "Der Ras-El-Tin-Palast ist ein historisches königliches Schloss, das direkt am Mittelmeerhafen von Alexandria liegt.",
+                  "category": "castle",
+                  "coords": [
+                        29.868492,
+                        31.199853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tombs of Anfouchy",
+                  "text": "Az Anfouchy-sírok egy görög-római nekropoliszt alkotnak, amely jellegzetes földalatti sírkamrákkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        29.874045,
+                        31.202136
+                  ]
+            },
+            {
+                  "name": "Al-Anfoushy Beach",
+                  "text": "Az Al-Anfoushy Beach homokos mediterrán partvidéket kínál, amely népszerű az úszás és a tengerparti séták kedvelői körében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.876045,
+                        31.205164
+                  ]
+            },
+            {
+                  "name": "Ras El Tin Palace",
+                  "text": "A Ras El Tin palota egy történelmi királyi kastély, amely közvetlenül Alexandria mediterrán kikötőjében található.",
+                  "category": "castle",
+                  "coords": [
+                        29.868492,
+                        31.199853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tombs of Anfouchy",
+                  "text": "Mormintele de la Anfouchy formează o necropolă greco-romană cu camere funerare subterane distinctive.",
+                  "category": "historical",
+                  "coords": [
+                        29.874045,
+                        31.202136
+                  ]
+            },
+            {
+                  "name": "Al-Anfoushy Beach",
+                  "text": "Plaja Al-Anfoushy oferă un țărm nisipos mediteranean, popular pentru înot și plimbări pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        29.876045,
+                        31.205164
+                  ]
+            },
+            {
+                  "name": "Ras El Tin Palace",
+                  "text": "Palatul Ras El Tin este un castel regal istoric situat direct pe portul mediteranean din Alexandria.",
+                  "category": "castle",
+                  "coords": [
+                        29.868492,
+                        31.199853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tombs of Anfouchy",
+                  "text": "The Tombs of Anfouchy form a Greco-Roman necropolis featuring distinctive underground burial chambers.",
+                  "category": "historical",
+                  "coords": [
+                        29.874045,
+                        31.202136
+                  ]
+            },
+            {
+                  "name": "Al-Anfoushy Beach",
+                  "text": "Al-Anfoushy Beach offers a sandy Mediterranean shoreline popular for swimming and coastal walks.",
+                  "category": "recreational",
+                  "coords": [
+                        29.876045,
+                        31.205164
+                  ]
+            },
+            {
+                  "name": "Ras El Tin Palace",
+                  "text": "Ras El Tin Palace is a historic royal castle situated directly on the Mediterranean harbor of Alexandria.",
+                  "category": "castle",
+                  "coords": [
+                        29.868492,
+                        31.199853
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-ALX",
     coords: [29.8667, 31.1983],
@@ -1726,7 +8521,376 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un palais royal historique sur la côte de la mer Méditerranée à Alexandrie, l'une des résidences officielles du président.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud de l'Afrique du Nord-Est."],
     }, image: "/poi-images/eg-ras-el-tin-palace.webp"},
   {
-    id: "eg-qalawun-complex",
+    id: "eg-qalawun-complex", "sights": {
+      "de": [
+            {
+                  "name": "Bab Al-Mazhareya",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen Panoramablick auf die historischen islamischen Architekturkomplexe in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        31.261365,
+                        30.056517
+                  ]
+            },
+            {
+                  "name": "Bab Al-Nasr",
+                  "text": "Dieser als monumentales befestigtes Tor erbaute Aussichtspunkt bietet Ausblicke entlang der alten nördlichen Stadtmauern.",
+                  "category": "natural",
+                  "coords": [
+                        31.264899,
+                        30.05423
+                  ]
+            },
+            {
+                  "name": "House of Kharazati",
+                  "text": "Diese traditionelle häusliche Attraktion zeigt die kunstvollen hölzernen Maschrabiyya-Fenster der klassischen islamischen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        31.262216,
+                        30.052121
+                  ]
+            },
+            {
+                  "name": "Sabil-Kuttab of Abdel Rahman Katkhuda",
+                  "text": "Dieses historische Gebäude, das heute als Museumsraum dient, vereinte ursprünglich einen öffentlichen Brunnen und eine Koranschule.",
+                  "category": "museum",
+                  "coords": [
+                        31.261593,
+                        30.050709
+                  ]
+            },
+            {
+                  "name": "Sakakini Palace",
+                  "text": "Diese kunstvolle architektonische Attraktion ist bekannt für ihren aufwendigen Rokokostil und Hunderte von dekorativen Skulpturen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.266243,
+                        30.065858
+                  ]
+            },
+            {
+                  "name": "Abbasiyya Synagogue",
+                  "text": "Dieses auch als Moussa Dar'i-Synagoge bekannte jüdische Gotteshaus zeugt von der historischen karäischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        31.274385,
+                        30.061954
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "In der Nähe der geschäftigen Parkplätze gelegen, ist dieses Theater seit langem die Hauptbühne für klassische arabische Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249618,
+                        30.051657
+                  ]
+            },
+            {
+                  "name": "Sultan Alzahir Bebars Mosque",
+                  "text": "Dieses gewaltige befestigte Gotteshaus verfügt über große Steinportale, die bis in die Mamlukenzeit zurückreichen.",
+                  "category": "religious",
+                  "coords": [
+                        31.26346,
+                        30.062381
+                  ]
+            },
+            {
+                  "name": "Mosque Al HakIm Bi Amr Allah",
+                  "text": "Diese monumentale fatimidische Stätte des Kulturerbes ist leicht an ihren markanten Minaretten zu erkennen, die den Haupteingang flankieren.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263791,
+                        30.054445
+                  ]
+            },
+            {
+                  "name": "Madrasa and Mausoleum of Sultan Al-Salih Nagm Al-Din Ayyub",
+                  "text": "Dieser Komplex des ayyubidischen Kulturerbes führte das Konzept ein, alle vier sunnitischen Rechtsschulen in einer einzigen Madrasa unterzubringen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261373,
+                        30.049028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bab Al-Mazhareya",
+                  "text": "Ez a magaslati kilátópont panorámás kilátást nyújt a közeli történelmi iszlám építészeti komplexumokra.",
+                  "category": "natural",
+                  "coords": [
+                        31.261365,
+                        30.056517
+                  ]
+            },
+            {
+                  "name": "Bab Al-Nasr",
+                  "text": "A monumentális erődített kapuként épült kilátó a város régi északi falai mentén kínál látnivalókat.",
+                  "category": "natural",
+                  "coords": [
+                        31.264899,
+                        30.05423
+                  ]
+            },
+            {
+                  "name": "House of Kharazati",
+                  "text": "Ez a hagyományos lakóházi látványosság a klasszikus iszlám építészet bonyolult fa mashrabiya ablakait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        31.262216,
+                        30.052121
+                  ]
+            },
+            {
+                  "name": "Sabil-Kuttab of Abdel Rahman Katkhuda",
+                  "text": "A ma múzeumként működő történelmi épület eredetileg egy nyilvános szökőkutat és egy Korán-iskolát egyesített.",
+                  "category": "museum",
+                  "coords": [
+                        31.261593,
+                        30.050709
+                  ]
+            },
+            {
+                  "name": "Sakakini Palace",
+                  "text": "Ez a díszes építészeti látványosság kidolgozott rokokó stílusáról és több száz díszítőszobráról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.266243,
+                        30.065858
+                  ]
+            },
+            {
+                  "name": "Abbasiyya Synagogue",
+                  "text": "Ez a zsidó istentiszteleti hely, amelyet Moussa Dar'i zsinagógaként is ismernek, a történelmi karaita közösség emléke.",
+                  "category": "religious",
+                  "coords": [
+                        31.274385,
+                        30.061954
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "A nyüzsgő parkterek közelében található színház régóta a klasszikus arab drámai produkciók fő színtere.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249618,
+                        30.051657
+                  ]
+            },
+            {
+                  "name": "Sultan Alzahir Bebars Mosque",
+                  "text": "Ez a hatalmas, erődített istentiszteleti hely a mamlúk korszakból származó, nagy kőkapukkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        31.26346,
+                        30.062381
+                  ]
+            },
+            {
+                  "name": "Mosque Al HakIm Bi Amr Allah",
+                  "text": "Ez a monumentális fátimida örökségi helyszín könnyen felismerhető a főbejáratot szegélyező feltűnő minaretjeiről.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263791,
+                        30.054445
+                  ]
+            },
+            {
+                  "name": "Madrasa and Mausoleum of Sultan Al-Salih Nagm Al-Din Ayyub",
+                  "text": "Ez az ajjúbida örökségvédelmi komplexum vezette be azt a koncepciót, hogy mind a négy szunnita jogi iskolát egyetlen medreszében helyezzék el.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261373,
+                        30.049028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bab Al-Mazhareya",
+                  "text": "Acest punct de belvedere ridicat oferă o perspectivă panoramică asupra complexelor arhitecturale islamice istorice din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        31.261365,
+                        30.056517
+                  ]
+            },
+            {
+                  "name": "Bab Al-Nasr",
+                  "text": "Construit ca o poartă monumentală fortificată, acest punct de belvedere oferă priveliști de-a lungul vechilor ziduri nordice ale orașului.",
+                  "category": "natural",
+                  "coords": [
+                        31.264899,
+                        30.05423
+                  ]
+            },
+            {
+                  "name": "House of Kharazati",
+                  "text": "Această atracție domestică tradițională prezintă ferestrele complicate din lemn mashrabiya ale arhitecturii clasice islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        31.262216,
+                        30.052121
+                  ]
+            },
+            {
+                  "name": "Sabil-Kuttab of Abdel Rahman Katkhuda",
+                  "text": "Funcționând astăzi ca un spațiu muzeal, această structură istorică combina inițial o fântână publică de apă și o școală coranică.",
+                  "category": "museum",
+                  "coords": [
+                        31.261593,
+                        30.050709
+                  ]
+            },
+            {
+                  "name": "Sakakini Palace",
+                  "text": "Această atracție arhitecturală ornamentată este renumită pentru stilul său elaborat rococo și pentru sutele de sculpturi decorative.",
+                  "category": "landmark",
+                  "coords": [
+                        31.266243,
+                        30.065858
+                  ]
+            },
+            {
+                  "name": "Abbasiyya Synagogue",
+                  "text": "Cunoscut și sub numele de Sinagoga Moussa Dar'i, acest lăcaș de cult evreiesc este o mărturie a comunității istorice karaite.",
+                  "category": "religious",
+                  "coords": [
+                        31.274385,
+                        30.061954
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "Situat în apropierea piețelor aglomerate din parc, acest teatru este de mult timp scena principală pentru producțiile dramatice clasice arabe.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249618,
+                        30.051657
+                  ]
+            },
+            {
+                  "name": "Sultan Alzahir Bebars Mosque",
+                  "text": "Acest lăcaș de cult masiv fortificat are portaluri mari de piatră care datează din perioada mamelucă.",
+                  "category": "religious",
+                  "coords": [
+                        31.26346,
+                        30.062381
+                  ]
+            },
+            {
+                  "name": "Mosque Al HakIm Bi Amr Allah",
+                  "text": "Acest sit monumental de patrimoniu fatimid este ușor de recunoscut prin minaretele sale izbitoare care flanchează intrarea principală.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263791,
+                        30.054445
+                  ]
+            },
+            {
+                  "name": "Madrasa and Mausoleum of Sultan Al-Salih Nagm Al-Din Ayyub",
+                  "text": "Acest complex de patrimoniu ayyubid a introdus conceptul de a găzdui toate cele patru școli sunnite de drept într-o singură madrasă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261373,
+                        30.049028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bab Al-Mazhareya",
+                  "text": "This elevated viewpoint offers a panoramic perspective of the historic Islamic architectural complexes nearby.",
+                  "category": "natural",
+                  "coords": [
+                        31.261365,
+                        30.056517
+                  ]
+            },
+            {
+                  "name": "Bab Al-Nasr",
+                  "text": "Built as a monumental fortified gate, this viewpoint offers sights along the old northern walls of the city.",
+                  "category": "natural",
+                  "coords": [
+                        31.264899,
+                        30.05423
+                  ]
+            },
+            {
+                  "name": "House of Kharazati",
+                  "text": "This traditional domestic attraction showcases the intricate wooden mashrabiya windows of classic Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        31.262216,
+                        30.052121
+                  ]
+            },
+            {
+                  "name": "Sabil-Kuttab of Abdel Rahman Katkhuda",
+                  "text": "Operating today as a museum space, this historic structure originally combined a public water fountain and a Quranic school.",
+                  "category": "museum",
+                  "coords": [
+                        31.261593,
+                        30.050709
+                  ]
+            },
+            {
+                  "name": "Sakakini Palace",
+                  "text": "This ornate architectural attraction is renowned for its elaborate Rococo style and hundreds of decorative sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        31.266243,
+                        30.065858
+                  ]
+            },
+            {
+                  "name": "Abbasiyya Synagogue",
+                  "text": "Also known as the Moussa Dar'i Synagogue, this Jewish place of worship stands as a testament to the historic Karaite community.",
+                  "category": "religious",
+                  "coords": [
+                        31.274385,
+                        30.061954
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "Situated near the bustling park squares, this theatre has long been the primary stage for classic Arabic dramatic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        31.249618,
+                        30.051657
+                  ]
+            },
+            {
+                  "name": "Sultan Alzahir Bebars Mosque",
+                  "text": "This massive fortified place of worship features grand stone portals dating back to the Mamluk period.",
+                  "category": "religious",
+                  "coords": [
+                        31.26346,
+                        30.062381
+                  ]
+            },
+            {
+                  "name": "Mosque Al HakIm Bi Amr Allah",
+                  "text": "This monumental Fatimid heritage site is easily recognized by its striking minarets flanking the main entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        31.263791,
+                        30.054445
+                  ]
+            },
+            {
+                  "name": "Madrasa and Mausoleum of Sultan Al-Salih Nagm Al-Din Ayyub",
+                  "text": "This Ayyubid heritage complex introduced the concept of housing all four Sunni schools of law in a single madrasa.",
+                  "category": "landmark",
+                  "coords": [
+                        31.261373,
+                        30.049028
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.2608, 30.0494],
@@ -1773,7 +8937,304 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un complexe architectural massif dans le Caire islamique comprenant un hôpital, une madrasa et un mausolée construit par le sultan Qalawun.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud de l'Afrique du Nord-Est."],
     }, image: "/poi-images/eg-qalawun-complex.webp"},
   {
-    id: "eg-nubian-museum",
+    id: "eg-nubian-museum", "sights": {
+      "de": [
+            {
+                  "name": "hieroglyphs",
+                  "text": "Diese in den nackten Fels gemeißelten Hieroglyphen sind Zeugnisse der altägyptischen Schriftkultur in der Region Assuan.",
+                  "category": "historical",
+                  "coords": [
+                        32.895892,
+                        24.079434
+                  ]
+            },
+            {
+                  "name": "Satet Temple of Sesostris I",
+                  "text": "Die Überreste des Satet-Tempels von Sesostris I. zeugen von der frühen Verehrung der Nilflut-Göttin auf der Insel Elephantine.",
+                  "category": "historical",
+                  "coords": [
+                        32.886553,
+                        24.085093
+                  ]
+            },
+            {
+                  "name": "Radio Station",
+                  "text": "Die Sendestation ist ein moderner Telekommunikationsmast, der weithin sichtbar über der Stadtlandschaft thront.",
+                  "category": "landmark",
+                  "coords": [
+                        32.891441,
+                        24.082346
+                  ]
+            },
+            {
+                  "name": "Late Khnum Temple Main Entrance",
+                  "text": "Der steinerne Haupteingang markiert den Zugang zum späten Chnum-Tempel, dem Zentrum des Widders-Kultes auf Elephantine.",
+                  "category": "historical",
+                  "coords": [
+                        32.886639,
+                        24.084034
+                  ]
+            },
+            {
+                  "name": "Unvollendeter Obelisk",
+                  "text": "Der Unvollendete Obelisk ruht noch immer im massiven Granitboden des alten Steinbruchs von Assuan.",
+                  "category": "landmark",
+                  "coords": [
+                        32.895433,
+                        24.07692
+                  ]
+            },
+            {
+                  "name": "Isis Tempel",
+                  "text": "Die Ruinen dieses antiken Tempels sind der ägyptischen Göttin Isis geweiht.",
+                  "category": "historical",
+                  "coords": [
+                        32.893334,
+                        24.084059
+                  ]
+            },
+            {
+                  "name": "Older Temple of Kalabsha",
+                  "text": "Diese archäologische Stätte zeigt die antiken steinernen Überreste des früheren Kalabscha-Tempels.",
+                  "category": "historical",
+                  "coords": [
+                        32.884895,
+                        24.083814
+                  ]
+            },
+            {
+                  "name": "Nubian Museum",
+                  "text": "Dieses umfangreiche Museum zeigt die reiche Geschichte, Kunst und Kultur Nubiens von der Prähistorie bis zur Neuzeit.",
+                  "category": "museum",
+                  "coords": [
+                        32.88919,
+                        24.079414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "hieroglyphs",
+                  "text": "Ezek a csupasz sziklába vésett hieroglifák az ókori egyiptomi íráskultúra emlékei Asszuán térségében.",
+                  "category": "historical",
+                  "coords": [
+                        32.895892,
+                        24.079434
+                  ]
+            },
+            {
+                  "name": "Satet Temple of Sesostris I",
+                  "text": "Az I. Szenuszert által építtetett Szatet-templom maradványai a nílusi áradás istennőjének korai tiszteletét bizonyítják az Elephantiné-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        32.886553,
+                        24.085093
+                  ]
+            },
+            {
+                  "name": "Radio Station",
+                  "text": "A rádióállomás egy modern telekommunikációs torony, amely messziről láthatóan magasodik a városkép fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        32.891441,
+                        24.082346
+                  ]
+            },
+            {
+                  "name": "Late Khnum Temple Main Entrance",
+                  "text": "A kőből épült főbejárat a késői Hnum-templomhoz, a kos-kultusz elephantinéi központjához vezet.",
+                  "category": "historical",
+                  "coords": [
+                        32.886639,
+                        24.084034
+                  ]
+            },
+            {
+                  "name": "Unfinished obelisk",
+                  "text": "A befejezetlen obeliszk még mindig a régi asszuáni kőfejtő masszív gránitágyában pihen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.895433,
+                        24.07692
+                  ]
+            },
+            {
+                  "name": "Isis Tempel",
+                  "text": "Ennek az ókori templomnak a romjait Ízisz egyiptomi istennőnek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        32.893334,
+                        24.084059
+                  ]
+            },
+            {
+                  "name": "Older Temple of Kalabsha",
+                  "text": "Ez a régészeti lelőhely a korábbi Kalabsa-templom ősi kőmaradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        32.884895,
+                        24.083814
+                  ]
+            },
+            {
+                  "name": "Nubian Museum",
+                  "text": "Ez a kiterjedt múzeum Núbia gazdag történelmét, művészetét és kultúráját mutatja be a történelem előtti időktől a modern korig.",
+                  "category": "museum",
+                  "coords": [
+                        32.88919,
+                        24.079414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "hieroglyphs",
+                  "text": "Aceste hieroglife sculptate în stânca goală sunt dovezi ale culturii scrise a Egiptului antic din regiunea Aswan.",
+                  "category": "historical",
+                  "coords": [
+                        32.895892,
+                        24.079434
+                  ]
+            },
+            {
+                  "name": "Satet Temple of Sesostris I",
+                  "text": "Ruinele Templului Satet al lui Sesostris I stau mărturie venerației timpurii a zeiței inundațiilor Nilului pe Insula Elephantine.",
+                  "category": "historical",
+                  "coords": [
+                        32.886553,
+                        24.085093
+                  ]
+            },
+            {
+                  "name": "Radio Station",
+                  "text": "Stația de radio este un turn modern de telecomunicații care domină vizibil peisajul urban de la distanță.",
+                  "category": "landmark",
+                  "coords": [
+                        32.891441,
+                        24.082346
+                  ]
+            },
+            {
+                  "name": "Late Khnum Temple Main Entrance",
+                  "text": "Intrarea principală din piatră marchează accesul către templul târziu al lui Khnum, centrul cultului berbecului de pe Elephantine.",
+                  "category": "historical",
+                  "coords": [
+                        32.886639,
+                        24.084034
+                  ]
+            },
+            {
+                  "name": "Unfinished obelisk",
+                  "text": "Obeliscul neterminat se odihnește și acum în patul masiv de granit al vechii cariere din Aswan.",
+                  "category": "landmark",
+                  "coords": [
+                        32.895433,
+                        24.07692
+                  ]
+            },
+            {
+                  "name": "Isis Tempel",
+                  "text": "Ruinele acestui templu antic sunt dedicate zeiței egiptene Isis.",
+                  "category": "historical",
+                  "coords": [
+                        32.893334,
+                        24.084059
+                  ]
+            },
+            {
+                  "name": "Older Temple of Kalabsha",
+                  "text": "Acest sit arheologic prezintă vechile rămășițe de piatră ale structurii timpurii a templului Kalabsha.",
+                  "category": "historical",
+                  "coords": [
+                        32.884895,
+                        24.083814
+                  ]
+            },
+            {
+                  "name": "Nubian Museum",
+                  "text": "Acest muzeu extins prezintă istoria bogată, arta și cultura Nubiei din timpurile preistorice până în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        32.88919,
+                        24.079414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "hieroglyphs",
+                  "text": "These hieroglyphs carved into the bare rock are testaments to the ancient Egyptian written culture in the Aswan region.",
+                  "category": "historical",
+                  "coords": [
+                        32.895892,
+                        24.079434
+                  ]
+            },
+            {
+                  "name": "Satet Temple of Sesostris I",
+                  "text": "The remains of the Satet Temple of Sesostris I stand as evidence of the early veneration of the Nile flood goddess on Elephantine Island.",
+                  "category": "historical",
+                  "coords": [
+                        32.886553,
+                        24.085093
+                  ]
+            },
+            {
+                  "name": "Radio Station",
+                  "text": "The Radio Station is a modern telecommunications tower that visibly dominates the urban landscape from afar.",
+                  "category": "landmark",
+                  "coords": [
+                        32.891441,
+                        24.082346
+                  ]
+            },
+            {
+                  "name": "Late Khnum Temple Main Entrance",
+                  "text": "The main stone entrance marks the gateway to the late Temple of Khnum, the center of the ram-cult on Elephantine.",
+                  "category": "historical",
+                  "coords": [
+                        32.886639,
+                        24.084034
+                  ]
+            },
+            {
+                  "name": "Unfinished obelisk",
+                  "text": "The Unfinished Obelisk still rests within the massive granite bedrock of the ancient Aswan quarry.",
+                  "category": "landmark",
+                  "coords": [
+                        32.895433,
+                        24.07692
+                  ]
+            },
+            {
+                  "name": "Isis Tempel",
+                  "text": "The ruins of this ancient temple are dedicated to the Egyptian goddess Isis.",
+                  "category": "historical",
+                  "coords": [
+                        32.893334,
+                        24.084059
+                  ]
+            },
+            {
+                  "name": "Older Temple of Kalabsha",
+                  "text": "This archaeological site features the ancient stone remains of the earlier Kalabsha temple structure.",
+                  "category": "historical",
+                  "coords": [
+                        32.884895,
+                        24.083814
+                  ]
+            },
+            {
+                  "name": "Nubian Museum",
+                  "text": "This extensive museum showcases the rich history, art, and culture of Nubia from prehistoric times to the modern era.",
+                  "category": "museum",
+                  "coords": [
+                        32.88919,
+                        24.079414
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-ASN",
     coords: [32.8889, 24.0803],
@@ -1820,7 +9281,448 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un musée archéologique à Assouan dédié à l'histoire et à la culture du peuple nubien.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud de l'Afrique du Nord-Est."],
     }, image: "/poi-images/eg-nubian-museum.webp"},
   {
-    id: "eg-graeco-roman-museum",
+    id: "eg-graeco-roman-museum", "sights": {
+      "de": [
+            {
+                  "name": "Cavafy Museum",
+                  "text": "Das Kavafis-Museum ist in der ehemaligen Wohnung des berühmten griechischen Dichters Konstantin P. Kavafis untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        29.901229,
+                        31.197606
+                  ]
+            },
+            {
+                  "name": "B'sarya for Arts",
+                  "text": "B'sarya for Arts ist ein unabhängiges Kunstzentrum, das aufstrebende bildende Künstler und Musiker unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        29.904776,
+                        31.197503
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut Alexandria",
+                  "text": "Das Goethe-Institut Alexandria bietet Deutschkurse an und veranstaltet interkulturelle Kunstereignisse.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909199,
+                        31.201001
+                  ]
+            },
+            {
+                  "name": "Shelter Art Space",
+                  "text": "Das im Januar 2020 eröffnete Shelter Art Space ist ein modernes Kunstzentrum für zeitgenössische Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        29.906247,
+                        31.198217
+                  ]
+            },
+            {
+                  "name": "Place Khartoum",
+                  "text": "Place Khartoum ist ein städtischer öffentlicher Park, der einen grünen Treffpunkt inmitten der Straßen der Stadt bietet.",
+                  "category": "park",
+                  "coords": [
+                        29.90769,
+                        31.201424
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "Das American Cultural Centre veranstaltet Bildungsprogramme und Events, die den kulturellen Austausch mit den Vereinigten Staaten fördern.",
+                  "category": "cultural",
+                  "coords": [
+                        29.907651,
+                        31.199016
+                  ]
+            },
+            {
+                  "name": "Kom Al-Nadura",
+                  "text": "Kom Al-Nadura ist eine auf einem Hügel gelegene archäologische Stätte, die sich durch einen alten Aussichtsturm mit Panoramablick auszeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        29.888122,
+                        31.193255
+                  ]
+            },
+            {
+                  "name": "St.-Katharinen-Kathedrale",
+                  "text": "Die Katharinenkathedrale ist eine bedeutende katholische Kirche, die für ihre großartige neoklassizistische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        29.894709,
+                        31.194548
+                  ]
+            },
+            {
+                  "name": "Cathedral of Evangelismos;Greek Orthodox Patriarchate of Alexandria",
+                  "text": "Diese griechisch-orthodoxe Kathedrale von Evangelismos dient als historischer Patriarchatssitz von Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.895968,
+                        31.195215
+                  ]
+            },
+            {
+                  "name": "French Cultural Centre",
+                  "text": "Das Französische Kulturzentrum organisiert Kunstausstellungen und Sprachkurse zur Förderung der frankophonen Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901242,
+                        31.195161
+                  ]
+            },
+            {
+                  "name": "Eliyahu Hanavi Synagogue",
+                  "text": "Die Eliyahu-Hanavi-Synagoge ist eines der größten jüdischen Gotteshäuser im Nahen Osten.",
+                  "category": "religious",
+                  "coords": [
+                        29.900576,
+                        31.199208
+                  ]
+            },
+            {
+                  "name": "Koptische Sankt-Markus-Kathedrale Alexandria",
+                  "text": "Die Markuskathedrale ist ein bedeutendes koptisch-orthodoxes Gotteshaus und der historische Sitz des Papstes von Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.899631,
+                        31.198405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cavafy Museum",
+                  "text": "A Kavafisz Múzeum a híres görög költő, Konsztandinosz P. Kavafisz egykori lakásában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        29.901229,
+                        31.197606
+                  ]
+            },
+            {
+                  "name": "B'sarya for Arts",
+                  "text": "A B'sarya for Arts egy független művészeti központ, amely feltörekvő képzőművészeket és zenészeket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        29.904776,
+                        31.197503
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut Alexandria",
+                  "text": "A Goethe-Institut Alexandria német nyelvtanfolyamokat kínál és interkulturális művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909199,
+                        31.201001
+                  ]
+            },
+            {
+                  "name": "Shelter Art Space",
+                  "text": "A 2020 januárjában megnyílt Shelter Art Space egy kortárs kiállításoknak szentelt modern művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        29.906247,
+                        31.198217
+                  ]
+            },
+            {
+                  "name": "Place Khartoum",
+                  "text": "A Place Khartoum egy városi nyilvános park, amely zöld gyülekezőhelyet kínál a város utcái között.",
+                  "category": "park",
+                  "coords": [
+                        29.90769,
+                        31.201424
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "Az Amerikai Kulturális Központ az Egyesült Államokkal való kulturális cserét elősegítő oktatási programoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        29.907651,
+                        31.199016
+                  ]
+            },
+            {
+                  "name": "Kom Al-Nadura",
+                  "text": "Kom Al-Nadura egy dombtetőn található régészeti lelőhely, amelyet egy régi, panorámás kilátást nyújtó megfigyelőtorony jellemez.",
+                  "category": "historical",
+                  "coords": [
+                        29.888122,
+                        31.193255
+                  ]
+            },
+            {
+                  "name": "Saint Catherine Cathedral",
+                  "text": "A Szent Katalin-katedrális egy kiemelkedő katolikus templom, amely nagyszerű neoklasszicista építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        29.894709,
+                        31.194548
+                  ]
+            },
+            {
+                  "name": "Cathedral of Evangelismos;Greek Orthodox Patriarchate of Alexandria",
+                  "text": "Az Evangelismosz Görög Ortodox Katedrális Alexandria történelmi pátriárkai székhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        29.895968,
+                        31.195215
+                  ]
+            },
+            {
+                  "name": "French Cultural Centre",
+                  "text": "A Francia Kulturális Központ művészeti kiállításokat és nyelvtanfolyamokat szervez a frankofón kultúra népszerűsítése érdekében.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901242,
+                        31.195161
+                  ]
+            },
+            {
+                  "name": "Eliyahu Hanavi Synagogue",
+                  "text": "Az Eliyahu Hanavi zsinagóga a Közel-Kelet egyik legnagyobb zsidó istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        29.900576,
+                        31.199208
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Cathedral",
+                  "text": "A Szent Márk-katedrális jelentős kopt ortodox istentiszteleti hely, és az alexandriai pápa történelmi székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        29.899631,
+                        31.198405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cavafy Museum",
+                  "text": "Muzeul Cavafy este găzduit în fostul apartament al renumitului poet grec Constantin P. Cavafy.",
+                  "category": "museum",
+                  "coords": [
+                        29.901229,
+                        31.197606
+                  ]
+            },
+            {
+                  "name": "B'sarya for Arts",
+                  "text": "B'sarya for Arts este un centru de artă independent care sprijină artiștii vizuali și muzicienii emergenți.",
+                  "category": "cultural",
+                  "coords": [
+                        29.904776,
+                        31.197503
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut Alexandria",
+                  "text": "Goethe-Institut Alexandria oferă cursuri de limba germană și găzduiește evenimente artistice interculturale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909199,
+                        31.201001
+                  ]
+            },
+            {
+                  "name": "Shelter Art Space",
+                  "text": "Deschis în ianuarie 2020, Shelter Art Space este un centru de artă modernă dedicat expozițiilor contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        29.906247,
+                        31.198217
+                  ]
+            },
+            {
+                  "name": "Place Khartoum",
+                  "text": "Place Khartoum este un parc public urban care oferă un spațiu verde de adunare printre străzile orașului.",
+                  "category": "park",
+                  "coords": [
+                        29.90769,
+                        31.201424
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "Centrul Cultural American găzduiește programe educaționale și evenimente care încurajează schimbul cultural cu Statele Unite.",
+                  "category": "cultural",
+                  "coords": [
+                        29.907651,
+                        31.199016
+                  ]
+            },
+            {
+                  "name": "Kom Al-Nadura",
+                  "text": "Kom Al-Nadura este un sit arheologic situat pe un deal, caracterizat printr-un vechi turn de observație cu vedere panoramică.",
+                  "category": "historical",
+                  "coords": [
+                        29.888122,
+                        31.193255
+                  ]
+            },
+            {
+                  "name": "Saint Catherine Cathedral",
+                  "text": "Catedrala Sfânta Ecaterina este o biserică catolică proeminentă, cunoscută pentru măreața sa arhitectură neoclasică.",
+                  "category": "religious",
+                  "coords": [
+                        29.894709,
+                        31.194548
+                  ]
+            },
+            {
+                  "name": "Cathedral of Evangelismos;Greek Orthodox Patriarchate of Alexandria",
+                  "text": "Această Catedrală Greco-Ortodoxă Evangelismos servește drept sediu patriarhal istoric al Alexandriei.",
+                  "category": "religious",
+                  "coords": [
+                        29.895968,
+                        31.195215
+                  ]
+            },
+            {
+                  "name": "French Cultural Centre",
+                  "text": "Centrul Cultural Francez organizează expoziții de artă și cursuri de limbă pentru a promova cultura francofonă.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901242,
+                        31.195161
+                  ]
+            },
+            {
+                  "name": "Eliyahu Hanavi Synagogue",
+                  "text": "Sinagoga Eliyahu Hanavi este unul dintre cele mai mari lăcașuri de cult evreiești din Orientul Mijlociu.",
+                  "category": "religious",
+                  "coords": [
+                        29.900576,
+                        31.199208
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Cathedral",
+                  "text": "Catedrala Sfântul Marcu este un lăcaș de cult ortodox copt semnificativ și sediul istoric al Papei Alexandriei.",
+                  "category": "religious",
+                  "coords": [
+                        29.899631,
+                        31.198405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cavafy Museum",
+                  "text": "The Cavafy Museum is housed in the former apartment of the renowned Greek poet Constantine P. Cavafy.",
+                  "category": "museum",
+                  "coords": [
+                        29.901229,
+                        31.197606
+                  ]
+            },
+            {
+                  "name": "B'sarya for Arts",
+                  "text": "B'sarya for Arts is an independent arts centre supporting emerging visual artists and musicians.",
+                  "category": "cultural",
+                  "coords": [
+                        29.904776,
+                        31.197503
+                  ]
+            },
+            {
+                  "name": "Goethe-Institut Alexandria",
+                  "text": "The Goethe-Institut Alexandria offers German language courses and hosts cross-cultural artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.909199,
+                        31.201001
+                  ]
+            },
+            {
+                  "name": "Shelter Art Space",
+                  "text": "Opened in January 2020, Shelter Art Space is a modern arts centre dedicated to contemporary exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        29.906247,
+                        31.198217
+                  ]
+            },
+            {
+                  "name": "Place Khartoum",
+                  "text": "Place Khartoum is an urban public park offering a green gathering space amidst the city streets.",
+                  "category": "park",
+                  "coords": [
+                        29.90769,
+                        31.201424
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "The American Cultural Centre hosts educational programs and events fostering cultural exchange with the United States.",
+                  "category": "cultural",
+                  "coords": [
+                        29.907651,
+                        31.199016
+                  ]
+            },
+            {
+                  "name": "Kom Al-Nadura",
+                  "text": "Kom Al-Nadura is a hilltop archaeological site characterized by an old observation tower offering panoramic views.",
+                  "category": "historical",
+                  "coords": [
+                        29.888122,
+                        31.193255
+                  ]
+            },
+            {
+                  "name": "Saint Catherine Cathedral",
+                  "text": "Saint Catherine Cathedral is a prominent Catholic church known for its grand neoclassical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        29.894709,
+                        31.194548
+                  ]
+            },
+            {
+                  "name": "Cathedral of Evangelismos;Greek Orthodox Patriarchate of Alexandria",
+                  "text": "This Greek Orthodox Cathedral of Evangelismos serves as the historic patriarchal seat of Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.895968,
+                        31.195215
+                  ]
+            },
+            {
+                  "name": "French Cultural Centre",
+                  "text": "The French Cultural Centre organizes art exhibitions and language classes to promote Francophone culture.",
+                  "category": "cultural",
+                  "coords": [
+                        29.901242,
+                        31.195161
+                  ]
+            },
+            {
+                  "name": "Eliyahu Hanavi Synagogue",
+                  "text": "The Eliyahu Hanavi Synagogue is one of the largest Jewish places of worship in the Middle East.",
+                  "category": "religious",
+                  "coords": [
+                        29.900576,
+                        31.199208
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Cathedral",
+                  "text": "Saint Mark's Cathedral is a significant Coptic Orthodox place of worship and the historical seat of the Pope of Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.899631,
+                        31.198405
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-ALX",
     coords: [29.9008, 31.1983],
@@ -1867,7 +9769,304 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Un musée important d'Alexandrie présentant des objets des périodes ptolémaïque et romaine de l'histoire égyptienne.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-graeco-roman-museum.webp"},
   {
-    id: "eg-el-quba-palace",
+    id: "eg-el-quba-palace", "sights": {
+      "de": [
+            {
+                  "name": "metro banat",
+                  "text": "In der Nähe eines zentralen Verkehrsknotenpunkts gelegen, dient dieser belebte Ort als aktiver Treffpunkt für Pendler, die das Gebiet durchqueren.",
+                  "category": "landmark",
+                  "coords": [
+                        31.308128,
+                        30.09041
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Museum",
+                  "text": "In seinem ehemaligen Privathaus untergebracht, zeigt dieses Museum persönliche Gegenstände und Fotografien des einflussreichen ägyptischen Präsidenten Gamal Abdel Nasser.",
+                  "category": "museum",
+                  "coords": [
+                        31.310687,
+                        30.086546
+                  ]
+            },
+            {
+                  "name": "Jumanji",
+                  "text": "Dieser dschungelbezogene Vergnügungspark erfreut junge Besucher mit seiner fesselnden Umgebung voller verspielter Rutschen, Fahrgeschäfte und exotischer Tierdekorationen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.317274,
+                        30.097801
+                  ]
+            },
+            {
+                  "name": "Al-Tahera Palace",
+                  "text": "Dieser elegante königliche Palast im italienischen Stil ist historisch bedeutsam, da hier die regionale Konferenz zur Gründung der Arabischen Liga stattfand.",
+                  "category": "castle",
+                  "coords": [
+                        31.308479,
+                        30.098221
+                  ]
+            },
+            {
+                  "name": "Qubba Palace",
+                  "text": "Dieser Palast, der sich über weitläufige gepflegte Gärten erstreckt, ist der größte der ägyptischen Präsidentenpaläste und wird traditionell für den Empfang ausländischer Staatsgäste genutzt.",
+                  "category": "castle",
+                  "coords": [
+                        31.302639,
+                        30.098789
+                  ]
+            },
+            {
+                  "name": "Arab Al Mohammedi Park",
+                  "text": "Dieser weitläufige grüne Park bietet schattige Wege und Erholungsgebiete, die als friedlicher Rückzugsort inmitten der dicht besiedelten Stadtviertel dienen.",
+                  "category": "park",
+                  "coords": [
+                        31.278965,
+                        30.076344
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Mosque",
+                  "text": "Bekannt dafür, das Grab des legendären Führers selbst zu beherbergen, zeichnet sich diese moderne Moschee durch ein hoch aufragendes Minarett und geräumige Gebetshallen aus.",
+                  "category": "religious",
+                  "coords": [
+                        31.29441,
+                        30.083464
+                  ]
+            },
+            {
+                  "name": "Al-Nour",
+                  "text": "Dieser riesige moderne Moscheekomplex dominiert den Abbassia-Platz und zeichnet sich durch seine mehreren hoch aufragenden Minarette und seine enorme Gebetskapazität aus.",
+                  "category": "religious",
+                  "coords": [
+                        31.282961,
+                        30.075276
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "metro banat",
+                  "text": "A központi közlekedési csomópont közelében található nyüzsgő hely aktív találkozóhelyként szolgál a környéken áthaladó ingázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        31.308128,
+                        30.09041
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Museum",
+                  "text": "A korábbi személyes rezidenciáján berendezett múzeum a befolyásos egyiptomi elnök, Gamal Abden-Nasszer személyes tárgyait és fényképeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.310687,
+                        30.086546
+                  ]
+            },
+            {
+                  "name": "Jumanji",
+                  "text": "Ez a dzsungel témájú vidámpark játékos csúszdákkal, hintákkal és egzotikus állatdekorációkkal teli, magával ragadó környezetével bűvöli el a fiatal látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        31.317274,
+                        30.097801
+                  ]
+            },
+            {
+                  "name": "Al-Tahera Palace",
+                  "text": "Ez az elegáns olaszos stílusú királyi palota történelmi jelentőségű, hiszen itt tartották az Arab Liga megalapítását megelőző regionális konferenciát.",
+                  "category": "castle",
+                  "coords": [
+                        31.308479,
+                        30.098221
+                  ]
+            },
+            {
+                  "name": "Qubba Palace",
+                  "text": "Ez a kiterjedt, gondozott kertekkel rendelkező épület Egyiptom legnagyobb elnöki palotája, és hagyományosan külföldi méltóságok fogadására használják.",
+                  "category": "castle",
+                  "coords": [
+                        31.302639,
+                        30.098789
+                  ]
+            },
+            {
+                  "name": "Arab Al Mohammedi Park",
+                  "text": "Ez a kiterjedt zöld park árnyékos sétányokkal és rekreációs területekkel várja a sűrűn lakott városrészek közepén békés menedékre vágyókat.",
+                  "category": "park",
+                  "coords": [
+                        31.278965,
+                        30.076344
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Mosque",
+                  "text": "A modern mecset magasba törő minaretjével és tágas imatermeivel, valamint a legendás vezető sírjának otthonaként is ismert.",
+                  "category": "religious",
+                  "coords": [
+                        31.29441,
+                        30.083464
+                  ]
+            },
+            {
+                  "name": "Al-Nour",
+                  "text": "Az Abbásszija teret uraló hatalmas modern mecsetkomplexum tornyosuló minaretjeivel és hatalmas imádkozói kapacitásával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        31.282961,
+                        30.075276
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "metro banat",
+                  "text": "Situat în apropierea unui nod central de transport, acest loc plin de viață servește ca un punct activ de întâlnire pentru navetiștii care traversează zona.",
+                  "category": "landmark",
+                  "coords": [
+                        31.308128,
+                        30.09041
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Museum",
+                  "text": "Găzduit în fosta sa reședință personală, acest muzeu expune obiectele și fotografiile influentului președinte egiptean Gamal Abdel Nasser.",
+                  "category": "museum",
+                  "coords": [
+                        31.310687,
+                        30.086546
+                  ]
+            },
+            {
+                  "name": "Jumanji",
+                  "text": "Acest parc de distracții cu tematică de junglă îi încântă pe tinerii vizitatori cu mediul său captivant, plin de tobogane jucăușe, atracții și decorațiuni cu animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        31.317274,
+                        30.097801
+                  ]
+            },
+            {
+                  "name": "Al-Tahera Palace",
+                  "text": "Acest palat regal elegant în stil italian este semnificativ din punct de vedere istoric pentru găzduirea conferinței regionale care a înființat Liga Arabă.",
+                  "category": "castle",
+                  "coords": [
+                        31.308479,
+                        30.098221
+                  ]
+            },
+            {
+                  "name": "Qubba Palace",
+                  "text": "Întinzându-se pe grădini amenajate întinse, acesta este cel mai mare dintre palatele prezidențiale din Egipt și este folosit în mod tradițional pentru a primi demnitari străini.",
+                  "category": "castle",
+                  "coords": [
+                        31.302639,
+                        30.098789
+                  ]
+            },
+            {
+                  "name": "Arab Al Mohammedi Park",
+                  "text": "Acest parc verde vast oferă alei umbrite și zone de recreere care servesc ca un refugiu pașnic în mijlocul cartierelor dens populate ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        31.278965,
+                        30.076344
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Mosque",
+                  "text": "Cunoscută pentru adăpostirea mormântului liderului legendar însuși, această moschee modernă prezintă un minaret falnic și săli de rugăciune spațioase.",
+                  "category": "religious",
+                  "coords": [
+                        31.29441,
+                        30.083464
+                  ]
+            },
+            {
+                  "name": "Al-Nour",
+                  "text": "Dominând piața Abbassia, acest vast complex de moschei moderne se distinge prin multiplele sale minarete falnice și prin capacitatea enormă de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        31.282961,
+                        30.075276
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "metro banat",
+                  "text": "Located near a central transport hub, this lively spot serves as an active meeting point for commuters traversing the area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.308128,
+                        30.09041
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Museum",
+                  "text": "Housed in his former personal residence, this museum exhibits the belongings and photographs of the influential Egyptian President Gamal Abdel Nasser.",
+                  "category": "museum",
+                  "coords": [
+                        31.310687,
+                        30.086546
+                  ]
+            },
+            {
+                  "name": "Jumanji",
+                  "text": "This jungle-themed amusement park delights young visitors with its immersive environment full of playful slides, rides, and exotic animal decorations.",
+                  "category": "recreational",
+                  "coords": [
+                        31.317274,
+                        30.097801
+                  ]
+            },
+            {
+                  "name": "Al-Tahera Palace",
+                  "text": "This elegant Italianate royal palace is historically significant for having hosted the regional conference that established the Arab League.",
+                  "category": "castle",
+                  "coords": [
+                        31.308479,
+                        30.098221
+                  ]
+            },
+            {
+                  "name": "Qubba Palace",
+                  "text": "Spanning extensive manicured gardens, this is the largest of Egypt's presidential palaces and is traditionally used to receive visiting foreign dignitaries.",
+                  "category": "castle",
+                  "coords": [
+                        31.302639,
+                        30.098789
+                  ]
+            },
+            {
+                  "name": "Arab Al Mohammedi Park",
+                  "text": "This expansive green park offers shaded walkways and recreational areas that serve as a peaceful retreat amid the densely populated city districts.",
+                  "category": "park",
+                  "coords": [
+                        31.278965,
+                        30.076344
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Mosque",
+                  "text": "Known for housing the tomb of the legendary leader himself, this modern mosque features a soaring minaret and spacious prayer halls.",
+                  "category": "religious",
+                  "coords": [
+                        31.29441,
+                        30.083464
+                  ]
+            },
+            {
+                  "name": "Al-Nour",
+                  "text": "Dominating the Abbassia square, this vast modern mosque complex is distinguished by its multiple towering minarets and enormous prayer capacity.",
+                  "category": "religious",
+                  "coords": [
+                        31.282961,
+                        30.075276
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-C",
     coords: [31.3067, 30.0867],

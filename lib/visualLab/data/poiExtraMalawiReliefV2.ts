@@ -273,7 +273,52 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-chiradzulu-mountain-relief-v2.webp",
   },
   {
-    id: "malawi-ndirande-mountain-relief-v2",
+    id: "malawi-ndirande-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ndirande Hill",
+                  "text": "Der Ndirande Hill ist ein markanter geografischer Gipfel, der auf die städtische Landschaft von Blantyre blickt.",
+                  "category": "natural",
+                  "coords": [
+                        35.054474,
+                        -15.753408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ndirande Hill",
+                  "text": "A Ndirande Hill egy kiemelkedő földrajzi csúcs, amely a blantyre-i városi tájra néz.",
+                  "category": "natural",
+                  "coords": [
+                        35.054474,
+                        -15.753408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ndirande Hill",
+                  "text": "Dealul Ndirande este un vârf geografic proeminent cu vedere la peisajele urbane din Blantyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.054474,
+                        -15.753408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ndirande Hill",
+                  "text": "Ndirande Hill is a prominent geographic peak overlooking the urban landscapes of Blantyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.054474,
+                        -15.753408
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mountain",
     name: { de: "Ndirande-Berg", hu: "Ndirande-hegy", ro: "Muntele Ndirande", en: "Ndirande Mountain" },
@@ -318,7 +363,124 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-ndirande-mountain-relief-v2.webp",
   },
   {
-    id: "malawi-soche-mountain-relief-v2",
+    id: "malawi-soche-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soche Mountain",
+                  "text": "Der markante Gipfel des Soche Mountain in der Nähe von Blantyre zeichnet sich durch seine steilen, bewaldeten Hänge und den Panoramablick auf die Landschaft Malawis aus.",
+                  "category": "natural",
+                  "coords": [
+                        35.023363,
+                        -15.839568
+                  ]
+            },
+            {
+                  "name": "Mount Soche",
+                  "text": "Das Naturschutzgebiet Mount Soche schützt eine wichtige Fläche immergrünen Bergwaldes und bietet direkt außerhalb von Blantyre einen entscheidenden Lebensraum für einheimische Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        35.023121,
+                        -15.841038
+                  ]
+            },
+            {
+                  "name": "Chigumula Forest Reserve",
+                  "text": "Das Waldschutzgebiet Chigumula zeichnet sich durch alte Kiefern- und Eukalyptusplantagen aus, die schattige Wanderwege am Rande von Blantyre bieten.",
+                  "category": "natural",
+                  "coords": [
+                        35.04548,
+                        -15.897956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soche Mountain",
+                  "text": "A Blantyre közelében kiemelkedő Soche-hegy csúcsát meredek, erdős lejtők és a környező malawi tájra nyíló panoráma jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        35.023363,
+                        -15.839568
+                  ]
+            },
+            {
+                  "name": "Mount Soche",
+                  "text": "A Soche-hegy természetvédelmi terület az örökzöld középhegységi erdők egy létfontosságú foltját védi, amely döntő fontosságú élőhelyet biztosít az őshonos madárfajok számára Blantyre mellett.",
+                  "category": "natural",
+                  "coords": [
+                        35.023121,
+                        -15.841038
+                  ]
+            },
+            {
+                  "name": "Chigumula Forest Reserve",
+                  "text": "A Chigumula Erdőrezervátum érett fenyő- és eukaliptuszültetvényekkel rendelkezik, amelyek árnyékos túraútvonalakat kínálnak Blantyre peremén.",
+                  "category": "natural",
+                  "coords": [
+                        35.04548,
+                        -15.897956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soche Mountain",
+                  "text": "Ridicându-se proeminent lângă Blantyre, vârful muntelui Soche este caracterizat de pantele sale abrupte, împădurite și de vederea panoramică asupra peisajului malawian.",
+                  "category": "natural",
+                  "coords": [
+                        35.023363,
+                        -15.839568
+                  ]
+            },
+            {
+                  "name": "Mount Soche",
+                  "text": "Rezervația naturală Muntele Soche protejează un petic vital de pădure de altitudine medie veșnic verde, oferind un habitat crucial pentru speciile de păsări native chiar la marginea orașului Blantyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.023121,
+                        -15.841038
+                  ]
+            },
+            {
+                  "name": "Chigumula Forest Reserve",
+                  "text": "Rezervația forestieră Chigumula are plantații mature de pin și eucalipt care oferă trasee umbrite pentru plimbări la periferia orașului Blantyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.04548,
+                        -15.897956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soche Mountain",
+                  "text": "Rising prominently near Blantyre, the peak of Soche Mountain is characterized by its steep, forested slopes and panoramic views of the surrounding Malawian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        35.023363,
+                        -15.839568
+                  ]
+            },
+            {
+                  "name": "Mount Soche",
+                  "text": "The Mount Soche nature reserve protects a vital pocket of evergreen mid-altitude forest, providing a crucial habitat for native bird species just outside Blantyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.023121,
+                        -15.841038
+                  ]
+            },
+            {
+                  "name": "Chigumula Forest Reserve",
+                  "text": "The Chigumula Forest Reserve features mature pine and eucalyptus plantations that offer shaded walking trails on the outskirts of Blantyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.04548,
+                        -15.897956
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mountain",
     name: { de: "Soche-Berg", hu: "Soche-hegy", ro: "Muntele Soche", en: "Soche Mountain" },
@@ -453,7 +615,52 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-lower-shire-valley-relief-v2.webp",
   },
   {
-    id: "malawi-livingstonia-escarpment-relief-v2",
+    id: "malawi-livingstonia-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ephesians 2 v 14",
+                  "text": "Ein nach einem Bibelvers benanntes religiöses Wahrzeichen an der zerklüfteten Livingstonia-Steilstufe.",
+                  "category": "landmark",
+                  "coords": [
+                        34.112662,
+                        -10.611586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ephesians 2 v 14",
+                  "text": "Egy bibliai versről elnevezett vallási nevezetesség a zord Livingstonia meredély mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.112662,
+                        -10.611586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ephesians 2 v 14",
+                  "text": "Un punct de reper religios denumit după un verset biblic, situat de-a lungul escarpamentului stâncos Livingstonia.",
+                  "category": "landmark",
+                  "coords": [
+                        34.112662,
+                        -10.611586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ephesians 2 v 14",
+                  "text": "A distinctively named community or religious landmark located along the rugged Livingstonia escarpment.",
+                  "category": "landmark",
+                  "coords": [
+                        34.112662,
+                        -10.611586
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Livingstonia-Abhang", hu: "Livingstonia-meredély", ro: "Escarpa Livingstonia", en: "Livingstonia Escarpment" },
@@ -543,7 +750,160 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-chongoni-hills-relief-v2.webp",
   },
   {
-    id: "malawi-bunda-hill-relief-v2",
+    id: "malawi-bunda-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kamuzu Dam view point",
+                  "text": "Der Aussichtspunkt am Kamuzu Dam bietet weite Ausblicke über den großen Stausee, der die umliegende Region in Malawi mit Wasser versorgt.",
+                  "category": "natural",
+                  "coords": [
+                        33.684136,
+                        -14.162563
+                  ]
+            },
+            {
+                  "name": "R&L farm - Ranch",
+                  "text": "Die R&L farm - Ranch wird als Tierpark in der Nähe des Bunda Hill betrieben und ermöglicht es Besuchern, lokale Wild- und Nutztiere zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        33.778602,
+                        -14.137418
+                  ]
+            },
+            {
+                  "name": "Bunda south peak",
+                  "text": "Der südliche Gipfel des Bunda dient als erhöhter Aussichtspunkt und gewährt Wanderern eine beeindruckende Aussicht auf die malawischen Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        33.777111,
+                        -14.160655
+                  ]
+            },
+            {
+                  "name": "Mother Bunda",
+                  "text": "Das Mother Bunda Monument steht an den felsigen Hängen des Bunda Hill und erinnert an das kulturelle Erbe der Region.",
+                  "category": "historical",
+                  "coords": [
+                        33.77809,
+                        -14.180589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kamuzu Dam view point",
+                  "text": "A Kamuzu-gát kilátója széles panorámát nyújt a nagy víztározóra, amely a környező malawi régió vízellátását biztosítja.",
+                  "category": "natural",
+                  "coords": [
+                        33.684136,
+                        -14.162563
+                  ]
+            },
+            {
+                  "name": "R&L farm - Ranch",
+                  "text": "Az R&L farm - Ranch állatparkként működik a Bunda-hegy közelében, ahol a látogatók helyi vad- és haszonállatokat figyelhetnek meg.",
+                  "category": "recreational",
+                  "coords": [
+                        33.778602,
+                        -14.137418
+                  ]
+            },
+            {
+                  "name": "Bunda south peak",
+                  "text": "A Bunda déli csúcsa magasan fekvő kilátóként szolgál, ahonnan a túrázók lenyűgöző panorámát élvezhetnek a malawi síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        33.777111,
+                        -14.160655
+                  ]
+            },
+            {
+                  "name": "Mother Bunda",
+                  "text": "A Mother Bunda emlékmű a Bunda-hegy sziklás lejtőin áll, a régió kulturális örökségének állítva emléket.",
+                  "category": "historical",
+                  "coords": [
+                        33.77809,
+                        -14.180589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kamuzu Dam view point",
+                  "text": "Punctul de belvedere al Barajului Kamuzu oferă priveliști vaste asupra marelui rezervor care alimentează cu apă regiunea înconjurătoare din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        33.684136,
+                        -14.162563
+                  ]
+            },
+            {
+                  "name": "R&L farm - Ranch",
+                  "text": "R&L farm - Ranch funcționează ca un parc de animale lângă Dealul Bunda, permițând vizitatorilor să observe fauna locală și animalele de fermă.",
+                  "category": "recreational",
+                  "coords": [
+                        33.778602,
+                        -14.137418
+                  ]
+            },
+            {
+                  "name": "Bunda south peak",
+                  "text": "Vârful sudic al dealului Bunda servește drept punct de belvedere înalt, oferind drumeților panorame impresionante ale câmpiilor din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        33.777111,
+                        -14.160655
+                  ]
+            },
+            {
+                  "name": "Mother Bunda",
+                  "text": "Monumentul Mother Bunda se află pe pantele stâncoase ale Dealului Bunda, comemorând moștenirea culturală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        33.77809,
+                        -14.180589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kamuzu Dam view point",
+                  "text": "The Kamuzu Dam view point offers sweeping vistas over the large reservoir that supplies water to the surrounding Malawian region.",
+                  "category": "natural",
+                  "coords": [
+                        33.684136,
+                        -14.162563
+                  ]
+            },
+            {
+                  "name": "R&L farm - Ranch",
+                  "text": "R&L farm - Ranch operates as an animal park near Bunda Hill, allowing visitors to observe local and farm wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        33.778602,
+                        -14.137418
+                  ]
+            },
+            {
+                  "name": "Bunda south peak",
+                  "text": "The Bunda south peak serves as an elevated viewpoint, granting hikers commanding panoramas of the Malawian plains.",
+                  "category": "natural",
+                  "coords": [
+                        33.777111,
+                        -14.160655
+                  ]
+            },
+            {
+                  "name": "Mother Bunda",
+                  "text": "The Mother Bunda monument stands on the rocky slopes of Bunda Hill, commemorating the region's cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        33.77809,
+                        -14.180589
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "peak",
     name: { de: "Bunda-Hügel", hu: "Bunda-hegy", ro: "Dealul Bunda", en: "Bunda Hill" },
@@ -588,7 +948,88 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-bunda-hill-relief-v2.webp",
   },
   {
-    id: "malawi-mphunzi-mountain-relief-v2",
+    id: "malawi-mphunzi-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mtusi Hill",
+                  "text": "Der Mtusi Hill ist eine natürliche Attraktion in der rauen Landschaft rund um den Mphunzi Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        34.180632,
+                        -14.269158
+                  ]
+            },
+            {
+                  "name": "Rock art",
+                  "text": "Dieser Aussichtspunkt in der Nähe des Mphunzi Mountain bietet Besuchern einen Blick auf alte regionale Felszeichnungen.",
+                  "category": "natural",
+                  "coords": [
+                        34.18197,
+                        -14.208099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mtusi Hill",
+                  "text": "A Mtusi Hill egy természeti látványosság az Mphunzi Mountain körüli zord domborzatban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.180632,
+                        -14.269158
+                  ]
+            },
+            {
+                  "name": "Rock art",
+                  "text": "Ez a kilátó az Mphunzi Mountain közelében bepillantást enged a látogatóknak a régió ősi sziklaművészetébe.",
+                  "category": "natural",
+                  "coords": [
+                        34.18197,
+                        -14.208099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mtusi Hill",
+                  "text": "Dealul Mtusi este o atracție naturală situată în relieful accidentat din jurul Muntelui Mphunzi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.180632,
+                        -14.269158
+                  ]
+            },
+            {
+                  "name": "Rock art",
+                  "text": "Acest punct de belvedere din apropierea Muntelui Mphunzi oferă vizitatorilor o privire asupra artei rupestre antice regionale.",
+                  "category": "natural",
+                  "coords": [
+                        34.18197,
+                        -14.208099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mtusi Hill",
+                  "text": "Mtusi Hill is a natural attraction situated within the rugged relief surrounding Mphunzi Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        34.180632,
+                        -14.269158
+                  ]
+            },
+            {
+                  "name": "Rock art",
+                  "text": "This viewpoint near Mphunzi Mountain provides visitors with a glimpse of ancient regional rock art.",
+                  "category": "natural",
+                  "coords": [
+                        34.18197,
+                        -14.208099
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mountain",
     name: { de: "Mphunzi-Berg", hu: "Mphunzi-hegy", ro: "Muntele Mphunzi", en: "Mphunzi Mountain" },
@@ -633,7 +1074,124 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-mphunzi-mountain-relief-v2.webp",
   },
   {
-    id: "malawi-chencherere-hill-relief-v2",
+    id: "malawi-chencherere-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namzeze rock art site (UNESCO world heritage site)",
+                  "text": "Die Namzeze-Felskunststätte ist ein UNESCO-Weltkulturerbe mit alten Malereien nahe dem Chencherere Hill.",
+                  "category": "natural",
+                  "coords": [
+                        34.24025,
+                        -14.251116
+                  ]
+            },
+            {
+                  "name": "Chongoni Mountain",
+                  "text": "Der Chongoni Mountain ist eine markante Erhebung, die für ihre bewaldeten Hänge und prähistorische Felskunst bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.202146,
+                        -14.209295
+                  ]
+            },
+            {
+                  "name": "1890m peak view spot",
+                  "text": "Dieser Aussichtspunkt liegt auf einer Höhe von 1890 Metern und bietet weite Panoramen über die Chencherere Hill-Region.",
+                  "category": "natural",
+                  "coords": [
+                        34.196443,
+                        -14.222816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namzeze rock art site (UNESCO world heritage site)",
+                  "text": "A Namzeze sziklaművészeti lelőhely egy UNESCO Világörökség részét képező kilátó ősi festményekkel a Chencherere Hill közelében.",
+                  "category": "natural",
+                  "coords": [
+                        34.24025,
+                        -14.251116
+                  ]
+            },
+            {
+                  "name": "Chongoni Mountain",
+                  "text": "A Chongoni Mountain egy kiemelkedő látványosság, amely erdős lejtőiről és történelem előtti sziklarajzairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.202146,
+                        -14.209295
+                  ]
+            },
+            {
+                  "name": "1890m peak view spot",
+                  "text": "Ez a kilátó 1890 méteres magasságban található, és széles panorámát kínál a Chencherere Hill régióra.",
+                  "category": "natural",
+                  "coords": [
+                        34.196443,
+                        -14.222816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namzeze rock art site (UNESCO world heritage site)",
+                  "text": "Situl de artă rupestră Namzeze este un punct de belvedere inclus în Patrimoniul Mondial UNESCO, cu picturi antice lângă Dealul Chencherere.",
+                  "category": "natural",
+                  "coords": [
+                        34.24025,
+                        -14.251116
+                  ]
+            },
+            {
+                  "name": "Chongoni Mountain",
+                  "text": "Muntele Chongoni este o atracție proeminentă cunoscută pentru pantele sale împădurite și arta rupestră preistorică.",
+                  "category": "landmark",
+                  "coords": [
+                        34.202146,
+                        -14.209295
+                  ]
+            },
+            {
+                  "name": "1890m peak view spot",
+                  "text": "Acest punct de belvedere se află la o altitudine de 1890 de metri, oferind panorame ample asupra regiunii Dealului Chencherere.",
+                  "category": "natural",
+                  "coords": [
+                        34.196443,
+                        -14.222816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namzeze rock art site (UNESCO world heritage site)",
+                  "text": "The Namzeze rock art site is a UNESCO World Heritage viewpoint featuring ancient paintings near Chencherere Hill.",
+                  "category": "natural",
+                  "coords": [
+                        34.24025,
+                        -14.251116
+                  ]
+            },
+            {
+                  "name": "Chongoni Mountain",
+                  "text": "Chongoni Mountain is a prominent attraction known for its forested slopes and nearby prehistoric rock art.",
+                  "category": "landmark",
+                  "coords": [
+                        34.202146,
+                        -14.209295
+                  ]
+            },
+            {
+                  "name": "1890m peak view spot",
+                  "text": "This viewpoint sits at an elevation of 1890 meters, offering sweeping panoramas over the Chencherere Hill region.",
+                  "category": "natural",
+                  "coords": [
+                        34.196443,
+                        -14.222816
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "peak",
     name: { de: "Chencherere-Hügel", hu: "Chencherere-hegy", ro: "Dealul Chencherere", en: "Chencherere Hill" },
@@ -768,7 +1326,52 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-phirilongwe-hill-relief-v2.webp",
   },
   {
-    id: "malawi-namizimu-forest-reserve-relief-v2",
+    id: "malawi-namizimu-forest-reserve-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namizimu Forest Reserve",
+                  "text": "Das Namizimu Forest Reserve ist ein dichtes, geschütztes Waldgebiet, das für den Erhalt der lokalen Pflanzenbiodiversität von wesentlicher Bedeutung ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.29594,
+                        -14.153103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namizimu Forest Reserve",
+                  "text": "A Namizimu Forest Reserve egy sűrű, védett erdőterület, amely elengedhetetlen a helyi növényi biodiverzitás megőrzéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        35.29594,
+                        -14.153103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namizimu Forest Reserve",
+                  "text": "Rezervația Forestieră Namizimu este o zonă împădurită densă și protejată, esențială pentru conservarea biodiversității plantelor locale.",
+                  "category": "natural",
+                  "coords": [
+                        35.29594,
+                        -14.153103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namizimu Forest Reserve",
+                  "text": "Namizimu Forest Reserve is a dense, protected woodland area essential for conserving local plant biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        35.29594,
+                        -14.153103
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mountain",
     name: { de: "Namizimu-Hochland", hu: "Namizimu-felföld", ro: "Podișul Namizimu", en: "Namizimu Highlands" },
@@ -813,7 +1416,124 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-namizimu-forest-reserve-relief-v2.webp",
   },
   {
-    id: "malawi-mangochi-mountain-relief-v2",
+    id: "malawi-mangochi-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Mangochi ruins",
+                  "text": "Die zerfallenden Steinwälle dieses britischen Forts aus der Kolonialzeit thronen am Berghang und bieten einen weiten Blick über die umliegende Landschaft.",
+                  "category": "castle",
+                  "coords": [
+                        35.483678,
+                        -14.442884
+                  ]
+            },
+            {
+                  "name": "Skull Rock view point",
+                  "text": "Diese markant verwitterte geologische Formation ähnelt auf natürliche Weise einem menschlichen Schädel und dient Wanderern als hochgelegene Aussichtsplattform.",
+                  "category": "natural",
+                  "coords": [
+                        35.463694,
+                        -14.428623
+                  ]
+            },
+            {
+                  "name": "Mangochi Forest Reserve",
+                  "text": "Dieses weitläufige, grüne Bergreservat schützt wichtige Wassereinzugsgebiete und dichte Wälder, die für die lokale Tierwelt von entscheidender Bedeutung sind.",
+                  "category": "natural",
+                  "coords": [
+                        35.479736,
+                        -14.520979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Mangochi ruins",
+                  "text": "Ennek a gyarmati korabeli brit erődnek az omladozó kőfalai a hegyoldalban helyezkednek el, ahonnan lenyűgöző kilátás nyílik a környező tájra.",
+                  "category": "castle",
+                  "coords": [
+                        35.483678,
+                        -14.442884
+                  ]
+            },
+            {
+                  "name": "Skull Rock view point",
+                  "text": "Ez a jellegzetesen mállott geológiai képződmény természetes módon egy emberi koponyára emlékeztet, és nagy magasságban fekvő kilátóként szolgál a túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        35.463694,
+                        -14.428623
+                  ]
+            },
+            {
+                  "name": "Mangochi Forest Reserve",
+                  "text": "Ez a kiterjedt, zöldellő hegyvidéki rezervátum létfontosságú vízgyűjtő területeket és sűrű erdőket véd, amelyek kulcsfontosságúak a helyi vadvilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        35.479736,
+                        -14.520979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Mangochi ruins",
+                  "text": "Meterezele de piatră în ruină ale acestui fort britanic din epoca colonială sunt cocoțate pe versantul muntelui, oferind o vedere panoramică asupra peisajului din jur.",
+                  "category": "castle",
+                  "coords": [
+                        35.483678,
+                        -14.442884
+                  ]
+            },
+            {
+                  "name": "Skull Rock view point",
+                  "text": "Această formațiune geologică erodată distinct seamănă în mod natural cu un craniu uman și servește drept platformă de observare la mare altitudine pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        35.463694,
+                        -14.428623
+                  ]
+            },
+            {
+                  "name": "Mangochi Forest Reserve",
+                  "text": "Această rezervație montană verde și întinsă protejează bazinele hidrografice cruciale și pădurile dense esențiale pentru viața sălbatică locală.",
+                  "category": "natural",
+                  "coords": [
+                        35.479736,
+                        -14.520979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Mangochi ruins",
+                  "text": "The crumbling stone ramparts of this colonial-era British fort are perched on the mountainside, offering sweeping views of the surrounding landscape.",
+                  "category": "castle",
+                  "coords": [
+                        35.483678,
+                        -14.442884
+                  ]
+            },
+            {
+                  "name": "Skull Rock view point",
+                  "text": "This distinctively weathered geological formation naturally resembles a human skull and serves as a high-altitude observation deck for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        35.463694,
+                        -14.428623
+                  ]
+            },
+            {
+                  "name": "Mangochi Forest Reserve",
+                  "text": "This sprawling, verdant mountain reserve protects crucial watersheds and dense woodlands essential to local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        35.479736,
+                        -14.520979
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mountain",
     name: { de: "Mangochi-Berg", hu: "Mangochi-hegy", ro: "Muntele Mangochi", en: "Mangochi Mountain" },
@@ -948,7 +1668,52 @@ export const malawiReliefV2: POI[] = [
     image: "/poi-images/malawi-mwenewisi-hills-relief-v2.webp",
   },
   {
-    id: "malawi-kandoli-mountains-relief-v2",
+    id: "malawi-kandoli-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vizara Rubber Plantation",
+                  "text": "Die Kautschukplantage Vizara zeichnet sich durch Reihen systematisch angezapfter Kautschukbäume aus, an deren Stämmen Latex in kleinen Bechern gesammelt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261604,
+                        -11.666078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vizara Rubber Plantation",
+                  "text": "A Vizara gumiültetvényen szisztematikusan megcsapolt gumifák sorakoznak, amelyek törzsére rögzített kis csészékben gyűjtik össze a latexet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261604,
+                        -11.666078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vizara Rubber Plantation",
+                  "text": "Plantația de cauciuc Vizara prezintă rânduri de arbori de cauciuc sistematic secționați de unde latexul este colectat în cupe mici atașate de trunchiuri.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261604,
+                        -11.666078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vizara Rubber Plantation",
+                  "text": "Vizara Rubber Plantation features rows of systematically tapped rubber trees where latex is collected in small cups attached to the trunks.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261604,
+                        -11.666078
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mountain",
     name: { de: "Kandoli-Berge", hu: "Kandoli-hegység", ro: "Munții Kandoli", en: "Kandoli Mountains" },

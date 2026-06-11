@@ -17,7 +17,376 @@ export const poiExtraZambiaNatureV2: POI[] = [
       en: ["Fourth longest in Africa.", "Vital water resource.", "Supports diverse wildlife."]
     }, image: "/poi-images/zambezi-river-nature-v2.webp"},
   {
-    id: "victoria-falls-nature-v2",
+    id: "victoria-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "Eine geführte Reitattraktion, die Besuchern malerische Reitwege durch die üppige Wildnis entlang des Sambesi bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "Eine ruhige Aussichtsplattform, die sich über die Flussufer erhebt und perfekt geeignet ist, um das sanfte Fließen des breiten Sambesi zu betrachten, bevor er die Wasserfälle erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "Ein natürlicher Aussichtspunkt im Naturpark Victoriafälle, der einen rustikalen Blick auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "3. Devil's Cataract",
+                  "text": "Der Aussichtspunkt bietet einen beeindruckenden Blick auf den Devil's Cataract, den tiefsten Teil der Victoriafälle.",
+                  "category": "natural",
+                  "coords": [
+                        25.847526,
+                        -17.923633
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "Von diesem Aussichtspunkt aus kann man die historische Livingstone-Insel am Rande der Wasserfälle betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "8. Main Falls",
+                  "text": "Dieser Aussichtspunkt bietet einen majestätischen frontalen Blick auf den gewaltigen Hauptteil der Victoriafälle.",
+                  "category": "natural",
+                  "coords": [
+                        25.849771,
+                        -17.924054
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "Eine malerische Straße, die von markanten, uralten Affenbrotbäumen gesäumt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "Ein massiver, uralter Affenbrotbaum nahe der Victoriafälle, der aufgrund seiner enormen Größe ein beliebtes Fotomotiv ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "Victoriafälle Regenwald",
+                  "text": "Ein üppiges Naturreservat, dessen tropische Vegetation durch die ständige Gischt der Victoriafälle genährt wird.",
+                  "category": "natural",
+                  "coords": [
+                        25.850725,
+                        -17.925142
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Snake Park",
+                  "text": "Dieser kleine Tierpark präsentiert eine Vielzahl einheimischer afrikanischer Schlangenarten in sicheren Gehegen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83993,
+                        -17.926815
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "Egy vezetett lovas látványosság, amely festői lovastúra-útvonalakat kínál a látogatóknak a Zambézi-folyót szegélyező buja vadonban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "A folyópartok felett emelkedő nyugodt kilátóterasz, amely tökéletes a széles Zambézi-folyó szelíd áramlásának megfigyelésére, mielőtt az elérné a vízesést.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "Egy természetes kilátó a Viktória-vízesés közelében, ahonnan rusztikus rönkök mellől figyelhetjük meg a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "3. Devil's Cataract",
+                  "text": "Ez a kilátó drámai rálátást biztosít az Ördög-kataraktára, a Viktória-vízesés legalacsonyabb és legerőteljesebb szakaszára.",
+                  "category": "natural",
+                  "coords": [
+                        25.847526,
+                        -17.923633
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "Ebből a kilátóból a látogatók megfigyelhetik a történelmi Livingstone-szigetet, amely a szurdok peremén helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "8. Main Falls",
+                  "text": "Ez a kilátó fenséges, frontális rálátást biztosít a Viktória-vízesés legszélesebb és leginkább egybefüggő vízfüggönyére.",
+                  "category": "natural",
+                  "coords": [
+                        25.849771,
+                        -17.924054
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "Egy festői út, amelyet a régió szavannáin őshonos, jellegzetes ősi majomkenyérfák szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "Egy hatalmas, ősi majomkenyérfa a vízesés közelében, amely óriási kerülete és történelmi jelentősége miatt népszerű a turisták körében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Rainforest",
+                  "text": "Egy buja természetvédelmi terület, amelyet a szomszédos vízesések állandó, sűrű vízpermete tart fenn, egyedi mikroklímát teremtve.",
+                  "category": "natural",
+                  "coords": [
+                        25.850725,
+                        -17.925142
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Snake Park",
+                  "text": "Egy kis állatkert, amely különféle őshonos és egzotikus kígyókat mutat be biztonságos, üvegfalú terráriumokban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83993,
+                        -17.926815
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "O atracție ecvestră ghidată care oferă vizitatorilor trasee pitorești de călărie prin sălbăticia luxuriantă care se învecinează cu râul Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "O platformă de observație senină ridicată deasupra malurilor râului, perfectă pentru a privi curgerea blândă a largului râu Zambezi înainte de a ajunge la cascadă.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "Un punct de belvedere natural în apropierea Cascadei Victoria, care oferă o structură rustică din bușteni pentru observarea împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "3. Devil's Cataract",
+                  "text": "Acest punct de belvedere oferă o priveliște dramatică asupra Cataractei Diavolului, cea mai joasă și mai puternică secțiune a Cascadei Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        25.847526,
+                        -17.923633
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "Din acest punct de observație, vizitatorii pot vedea istorica Insulă Livingstone, situată chiar pe buza defileului.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "8. Main Falls",
+                  "text": "Acest punct de belvedere oferă o panoramă frontală maiestuoasă a celei mai late perdele de apă a Cascadei Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        25.849771,
+                        -17.924054
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "Un drum pitoresc mărginit de baobabi antici, specifici savanei din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "Un baobab masiv și străvechi lângă cascadă, popular printre turiști datorită circumferinței sale enorme și semnificației istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Rainforest",
+                  "text": "O rezervație naturală luxuriantă, susținută de pulverizarea constantă a cascadei adiacente, creând un microclimat unic.",
+                  "category": "natural",
+                  "coords": [
+                        25.850725,
+                        -17.925142
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Snake Park",
+                  "text": "O mică grădină zoologică ce expune o varietate de șerpi autohtoni și exotici în terarii sigure cu geamuri din sticlă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83993,
+                        -17.926815
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "A guided equestrian attraction offering visitors scenic horseback riding trails through the lush wilderness bordering the Zambezi River.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "A serene observation deck elevated above the riverbanks, perfect for gazing at the gentle flow of the wide Zambezi River before it reaches the falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "A natural viewpoint in the Victoria Falls area featuring a rustic log structure for observing the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "3. Devil's Cataract",
+                  "text": "This viewpoint offers a dramatic look at the Devil's Cataract, the lowest and most powerful section of the Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847526,
+                        -17.923633
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "From this vantage point, visitors can observe the historic Livingstone Island precariously situated on the lip of the gorge.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "8. Main Falls",
+                  "text": "This viewpoint provides a majestic, frontal vista of the widest and most continuous curtain of water at the Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.849771,
+                        -17.924054
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "A scenic road lined with distinctive, ancient baobab trees that are native to the region's savanna.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "A massive, ancient baobab tree near the falls, popular with tourists due to its enormous girth and historical significance.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Rainforest",
+                  "text": "A lush nature reserve sustained by the constant, dense spray from the adjacent waterfalls, creating a microclimate.",
+                  "category": "natural",
+                  "coords": [
+                        25.850725,
+                        -17.925142
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Snake Park",
+                  "text": "A small zoo exhibiting a variety of indigenous and exotic snakes in secure, glass-fronted enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83993,
+                        -17.926815
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZM-10",
     coords: [25.8567, -17.9244],
@@ -130,7 +499,52 @@ export const poiExtraZambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "luangwa-river-nature-v2",
+    id: "luangwa-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kanyemba Ruins",
+                  "text": "An den Ufern des Luangwa-Flusses gelegen, zeigen diese historischen Ruinen die Überreste früher Siedlungen in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        30.419344,
+                        -15.625918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kanyemba Ruins",
+                  "text": "A Luangwa-folyó partja közelében található történelmi romok a régió korai településeinek maradványait mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        30.419344,
+                        -15.625918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kanyemba Ruins",
+                  "text": "Situate lângă malurile râului Luangwa, aceste ruine istorice prezintă rămășițele primelor așezări din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        30.419344,
+                        -15.625918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanyemba Ruins",
+                  "text": "Set near the banks of the Luangwa River, these historical ruins showcase the remains of early settlements in the region.",
+                  "category": "historical",
+                  "coords": [
+                        30.419344,
+                        -15.625918
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZM-04",
     coords: [30.4167, -15.6],
@@ -667,7 +1081,88 @@ export const poiExtraZambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kalambo-falls-nature-v2",
+    id: "kalambo-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalambo-Fälle",
+                  "text": "Die Kalambo-Fälle sind ein spektakulärer Wasserfall, der 221 Meter tief in das Becken des Tanganjikasees stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.239648,
+                        -8.596166
+                  ]
+            },
+            {
+                  "name": "Mbwilo",
+                  "text": "Mbwilo ist ein ausgewiesener Aussichtspunkt, der atemberaubende Panoramablicke über die zerklüftete Schlucht der Kalambo-Fälle bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.235894,
+                        -8.599484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalambo Falls",
+                  "text": "A Kalambo-vízesés egy látványos egyetlen zuhatag, amely 221 méteres magasságból zúdul alá a Tanganyika-tó medencéjébe.",
+                  "category": "landmark",
+                  "coords": [
+                        31.239648,
+                        -8.596166
+                  ]
+            },
+            {
+                  "name": "Mbwilo",
+                  "text": "Mbwilo egy kijelölt kilátó, amely lélegzetelállító panorámát nyújt a Kalambo-vízesés sziklás szurdokára.",
+                  "category": "natural",
+                  "coords": [
+                        31.235894,
+                        -8.599484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalambo Falls",
+                  "text": "Cascada Kalambo este o cascadă spectaculoasă cu o singură cădere de 221 de metri în bazinul lacului Tanganyika.",
+                  "category": "landmark",
+                  "coords": [
+                        31.239648,
+                        -8.596166
+                  ]
+            },
+            {
+                  "name": "Mbwilo",
+                  "text": "Mbwilo este un punct de belvedere amenajat care oferă perspective panoramice uluitoare asupra defileului stâncos al cascadei Kalambo.",
+                  "category": "natural",
+                  "coords": [
+                        31.235894,
+                        -8.599484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalambo Falls",
+                  "text": "Kalambo Falls is a spectacular single-drop waterfall cascading 221 metres down into the Lake Tanganyika basin.",
+                  "category": "landmark",
+                  "coords": [
+                        31.239648,
+                        -8.596166
+                  ]
+            },
+            {
+                  "name": "Mbwilo",
+                  "text": "Mbwilo is a designated viewpoint that provides breathtaking panoramic perspectives over the rugged Kalambo Falls gorge.",
+                  "category": "natural",
+                  "coords": [
+                        31.235894,
+                        -8.599484
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZM-09",
     coords: [31.25, -8.6],
@@ -883,7 +1378,52 @@ export const poiExtraZambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "luapula-valley-nature-v2",
+    id: "luapula-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lusenga Plain National Park",
+                  "text": "Dieses 1971 gegründete Naturschutzgebiet umfasst weite Ebenen, die typisch für die Landschaft des Luapula-Tals sind.",
+                  "category": "natural",
+                  "coords": [
+                        29.225884,
+                        -9.42701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lusenga Plain National Park",
+                  "text": "Ez az 1971-ben alapított természetvédelmi terület tágas síkságokat foglal magában, amelyek jellemzőek a Luapula-völgy tájára.",
+                  "category": "natural",
+                  "coords": [
+                        29.225884,
+                        -9.42701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lusenga Plain National Park",
+                  "text": "Această rezervație naturală înființată în 1971 cuprinde câmpii întinse, tipice peisajului văii Luapula.",
+                  "category": "natural",
+                  "coords": [
+                        29.225884,
+                        -9.42701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lusenga Plain National Park",
+                  "text": "Established in 1971, this nature reserve encompasses vast plains typical of the Luapula Valley landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.225884,
+                        -9.42701
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ZM-01",
     coords: [29.2, -9.5],

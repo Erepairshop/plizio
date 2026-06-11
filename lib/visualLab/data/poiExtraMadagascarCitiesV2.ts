@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraMadagascarCitiesV2: POI[] = [
   {
-    id: "antananarivo-cities-v2",
+    id: "antananarivo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Colline Royale d'Ambohidratrimo",
+                  "text": "Einer der zwölf heiligen Hügel von Antananarivo, der königliche Gräber und traditionelle Palisadenbefestigungen aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441529,
+                        -18.820847
+                  ]
+            },
+            {
+                  "name": "Antainofana",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick über die belebten Hügel und Täler von Antananarivo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        47.448534,
+                        -18.872261
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs du CAR",
+                  "text": "Ein Freizeitzentrum in Antananarivo, das verschiedene Sportanlagen und familienfreundliche Freizeitaktivitäten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.458515,
+                        -18.821377
+                  ]
+            },
+            {
+                  "name": "Milalaooo",
+                  "text": "Ein energetischer Kinderfreizeitpark in Antananarivo mit farbenfrohen Spielplätzen und familiengerechten Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        47.491908,
+                        -18.892392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colline Royale d'Ambohidratrimo",
+                  "text": "Antananarivo tizenkét szent dombjának egyike, amely királyi sírokat és hagyományos paliszád erődítményeket rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441529,
+                        -18.820847
+                  ]
+            },
+            {
+                  "name": "Antainofana",
+                  "text": "Magaslati kilátópont, amely széles rálátást biztosít Antananarivo nyüzsgő dombjaira és völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        47.448534,
+                        -18.872261
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs du CAR",
+                  "text": "Egy szabadidőközpont Antananarivóban, amely különféle sportlétesítményeket és családbarát szabadidős tevékenységeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        47.458515,
+                        -18.821377
+                  ]
+            },
+            {
+                  "name": "Milalaooo",
+                  "text": "Energikus gyermek vidámpark Antananarivóban, amely színes játszóterekkel és családi szórakoztató túrákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        47.491908,
+                        -18.892392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colline Royale d'Ambohidratrimo",
+                  "text": "Una dintre cele douăsprezece coline sacre din Antananarivo, cu morminte regale și fortificații tradiționale de palisadă.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441529,
+                        -18.820847
+                  ]
+            },
+            {
+                  "name": "Antainofana",
+                  "text": "Un punct de belvedere ridicat care oferă priveliști panoramice peste dealurile și văile animate ale Antananarivo.",
+                  "category": "natural",
+                  "coords": [
+                        47.448534,
+                        -18.872261
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs du CAR",
+                  "text": "Un centru de agrement în Antananarivo, care oferă diverse facilități sportive și activități de recreere potrivite pentru familii.",
+                  "category": "landmark",
+                  "coords": [
+                        47.458515,
+                        -18.821377
+                  ]
+            },
+            {
+                  "name": "Milalaooo",
+                  "text": "Un parc tematic energic pentru copii în Antananarivo, cu locuri de joacă colorate și atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        47.491908,
+                        -18.892392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colline Royale d'Ambohidratrimo",
+                  "text": "One of the twelve sacred hills of Antananarivo, featuring royal tombs and traditional palisade fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441529,
+                        -18.820847
+                  ]
+            },
+            {
+                  "name": "Antainofana",
+                  "text": "An elevated vantage point providing sweeping views across the bustling hills and valleys of Antananarivo.",
+                  "category": "natural",
+                  "coords": [
+                        47.448534,
+                        -18.872261
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs du CAR",
+                  "text": "A recreational centre in Antananarivo offering various sports facilities and family-friendly leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        47.458515,
+                        -18.821377
+                  ]
+            },
+            {
+                  "name": "Milalaooo",
+                  "text": "An energetic children's theme park in Antananarivo featuring colourful playgrounds and family amusement rides.",
+                  "category": "recreational",
+                  "coords": [
+                        47.491908,
+                        -18.892392
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "MG-T",
     coords: [47.5079, -18.8792],
@@ -462,7 +615,124 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "antsiranana-cities-v2",
+    id: "antsiranana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Secren",
+                  "text": "Die Secren-Werft in Antsiranana ist eine bedeutende Schiffsreparaturanlage mit Blick auf die große Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        49.287479,
+                        -12.277955
+                  ]
+            },
+            {
+                  "name": "Le Carrousel de Diégo",
+                  "text": "Le Carrousel de Diégo ist ein lokaler Vergnügungspark in Antsiranana mit klassischen Fahrgeschäften und Familienunterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        49.291632,
+                        -12.27608
+                  ]
+            },
+            {
+                  "name": "Bazarikely",
+                  "text": "Bazarikely ist ein belebter lokaler Markt in Antsiranana, auf dem madagassische Produkte und traditionelles Kunsthandwerk verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        49.289871,
+                        -12.284048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Secren",
+                  "text": "Az antsirananai Secren hajógyár a hatalmas öbölre néző, jelentős tengerészeti javítóüzemként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        49.287479,
+                        -12.277955
+                  ]
+            },
+            {
+                  "name": "Le Carrousel de Diégo",
+                  "text": "A Le Carrousel de Diégo egy antsirananai vidámpark, amely klasszikus körhintákkal és családi szórakozással várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        49.291632,
+                        -12.27608
+                  ]
+            },
+            {
+                  "name": "Bazarikely",
+                  "text": "A Bazarikely egy nyüzsgő helyi piac Antsiranana városában, ahol friss madagaszkári termékeket és hagyományos kézműves árukat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        49.289871,
+                        -12.284048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Secren",
+                  "text": "Șantierul naval Secren din Antsiranana funcționează ca o importantă unitate de reparații maritime cu vedere la golf.",
+                  "category": "landmark",
+                  "coords": [
+                        49.287479,
+                        -12.277955
+                  ]
+            },
+            {
+                  "name": "Le Carrousel de Diégo",
+                  "text": "Le Carrousel de Diégo este un parc de distracții local din Antsiranana, care oferă atracții clasice și divertisment pentru familie.",
+                  "category": "recreational",
+                  "coords": [
+                        49.291632,
+                        -12.27608
+                  ]
+            },
+            {
+                  "name": "Bazarikely",
+                  "text": "Bazarikely este o piață locală plină de viață din Antsiranana, unde se vând produse proaspete malgașe și obiecte de artizanat tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        49.289871,
+                        -12.284048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Secren",
+                  "text": "The Secren shipyard in Antsiranana stands as a major maritime repair facility overlooking the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        49.287479,
+                        -12.277955
+                  ]
+            },
+            {
+                  "name": "Le Carrousel de Diégo",
+                  "text": "Le Carrousel de Diégo is a local amusement park in Antsiranana featuring classic rides and family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        49.291632,
+                        -12.27608
+                  ]
+            },
+            {
+                  "name": "Bazarikely",
+                  "text": "Bazarikely is a bustling local market area in Antsiranana where vendors sell fresh Malagasy produce and traditional crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        49.289871,
+                        -12.284048
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-D",
     coords: [49.2917, -12.2787],
@@ -1901,7 +2171,88 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "fenoarivo-atsinanana-cities-v2",
+    id: "fenoarivo-atsinanana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salle des fêtes municipale",
+                  "text": "Dieser städtische Festsaal dient als zentraler Veranstaltungsort in Fenoarivo Atsinanana.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410577,
+                        -17.381592
+                  ]
+            },
+            {
+                  "name": "Musée Régional de l'Analanjirofo",
+                  "text": "Dieses regionale Museum in Fenoarivo Atsinanana präsentiert die Geschichte und Kultur der Region Analanjirofo.",
+                  "category": "museum",
+                  "coords": [
+                        49.410686,
+                        -17.382683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salle des fêtes municipale",
+                  "text": "Ez a városi díszterem a kulturális események központjaként szolgál Fenoarivo Atsinanana településén.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410577,
+                        -17.381592
+                  ]
+            },
+            {
+                  "name": "Musée Régional de l'Analanjirofo",
+                  "text": "Ez a Fenoarivo Atsinananában található regionális múzeum az Analanjirofo régió történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.410686,
+                        -17.382683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salle des fêtes municipale",
+                  "text": "Această sală de festivități municipală găzduiește evenimente culturale în Fenoarivo Atsinanana.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410577,
+                        -17.381592
+                  ]
+            },
+            {
+                  "name": "Musée Régional de l'Analanjirofo",
+                  "text": "Acest muzeu regional din Fenoarivo Atsinanana expune istoria și cultura regiunii Analanjirofo.",
+                  "category": "museum",
+                  "coords": [
+                        49.410686,
+                        -17.382683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salle des fêtes municipale",
+                  "text": "This municipal festival hall serves as a venue for cultural events in Fenoarivo Atsinanana.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410577,
+                        -17.381592
+                  ]
+            },
+            {
+                  "name": "Musée Régional de l'Analanjirofo",
+                  "text": "This regional museum in Fenoarivo Atsinanana exhibits the history and culture of the Analanjirofo region.",
+                  "category": "museum",
+                  "coords": [
+                        49.410686,
+                        -17.382683
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-A",
     coords: [49.4083, -17.3833],
@@ -2134,7 +2485,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "arivonimamo-cities-v2",
+    id: "arivonimamo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hadivory",
+                  "text": "Diese archäologische Stätte birgt die Überreste alter Siedlungsstrukturen in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        47.155723,
+                        -19.011512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hadivory",
+                  "text": "Ez a régészeti lelőhely ősi településszerkezetek maradványait rejti a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        47.155723,
+                        -19.011512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hadivory",
+                  "text": "Acest sit arheologic ascunde rămășițele unor structuri vechi de așezări din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        47.155723,
+                        -19.011512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hadivory",
+                  "text": "This archaeological site holds the remains of ancient settlement structures in the region.",
+                  "category": "historical",
+                  "coords": [
+                        47.155723,
+                        -19.011512
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-T",
     coords: [47.1833, -19.0167],

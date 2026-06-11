@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraEritreaHistoryV2: POI[] = [
   {
-    id: "adulis-ancient-port-history-v2",
+    id: "adulis-ancient-port-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adulis",
+                  "text": "Eine bedeutende archäologische Stätte, die die Überreste des historischen Hafens von Adulis bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        39.65913,
+                        15.261661
+                  ]
+            },
+            {
+                  "name": "Cathédrale / Église centrale orientale.",
+                  "text": "Die archäologischen Überreste der östlichen Zentralkathedrale im antiken Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.662572,
+                        15.263158
+                  ]
+            },
+            {
+                  "name": "Église de l'Est",
+                  "text": "Die Ruinen der historischen Ostkirche, die Teil der antiken Hafenstadt Adulis waren.",
+                  "category": "historical",
+                  "coords": [
+                        39.663801,
+                        15.26437
+                  ]
+            },
+            {
+                  "name": "Église du Nord",
+                  "text": "Die archäologische Stätte der Nordkirche im historischen Zentrum von Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.660515,
+                        15.263741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adulis",
+                  "text": "Jelentős régészeti lelőhely, amely Adulisz történelmi kikötőjének maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        39.65913,
+                        15.261661
+                  ]
+            },
+            {
+                  "name": "Cathédrale / Église centrale orientale.",
+                  "text": "A keleti központi katedrális régészeti maradványai az ókori Aduliszban.",
+                  "category": "historical",
+                  "coords": [
+                        39.662572,
+                        15.263158
+                  ]
+            },
+            {
+                  "name": "Église de l'Est",
+                  "text": "A történelmi keleti templom romjai, amelyek az ókori Adulisz kikötővárosának részét képezték.",
+                  "category": "historical",
+                  "coords": [
+                        39.663801,
+                        15.26437
+                  ]
+            },
+            {
+                  "name": "Église du Nord",
+                  "text": "Az északi templom régészeti lelőhelye Adulisz történelmi központjában.",
+                  "category": "historical",
+                  "coords": [
+                        39.660515,
+                        15.263741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adulis",
+                  "text": "Un sit arheologic important ce păstrează vestigiile portului istoric Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.65913,
+                        15.261661
+                  ]
+            },
+            {
+                  "name": "Cathédrale / Église centrale orientale.",
+                  "text": "Vestigiile arheologice ale catedralei centrale estice din anticul Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.662572,
+                        15.263158
+                  ]
+            },
+            {
+                  "name": "Église de l'Est",
+                  "text": "Ruinele bisericii estice istorice, care făceau parte din orașul antic Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.663801,
+                        15.26437
+                  ]
+            },
+            {
+                  "name": "Église du Nord",
+                  "text": "Situl arheologic al bisericii de nord din centrul istoric al orașului Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.660515,
+                        15.263741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adulis",
+                  "text": "An important archaeological site preserving the remains of the historic port of Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.65913,
+                        15.261661
+                  ]
+            },
+            {
+                  "name": "Cathédrale / Église centrale orientale.",
+                  "text": "The archaeological remains of the eastern central cathedral in ancient Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.662572,
+                        15.263158
+                  ]
+            },
+            {
+                  "name": "Église de l'Est",
+                  "text": "The ruins of the historic Eastern Church, once part of the ancient port city of Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.663801,
+                        15.26437
+                  ]
+            },
+            {
+                  "name": "Église du Nord",
+                  "text": "The archaeological site of the Northern Church in the historic center of Adulis.",
+                  "category": "historical",
+                  "coords": [
+                        39.660515,
+                        15.263741
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-SK",
     coords: [39.6583, 15.2636],
@@ -67,7 +220,88 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       fr: ["Était active de 100 à 700 ap. J.-C.", "Port principal du royaume d'Aksoum.", "L'une des zones archéologiques les plus importantes d'Érythrée."],
     }, image: "/poi-images/adulis-ancient-port-history-v2.webp"},
   {
-    id: "qohaito-ancient-city-history-v2",
+    id: "qohaito-ancient-city-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruins",
+                  "text": "Diese verstreuten Steinruinen gehören zur antiken Stadt Qohaito, die einst ein blühendes präaksumitisches und aksumitisches urbanes Zentrum war.",
+                  "category": "landmark",
+                  "coords": [
+                        39.429954,
+                        14.866472
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "Dieses antike Grab in Qohaito verfügt über in den Fels gehauene Grabkammern, die die Grabtraditionen der frühen Hochlandzivilisationen widerspiegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        39.428398,
+                        14.86569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruins",
+                  "text": "Ezek a szétszórt kőromok Qohaito ősi városához tartoznak, amely egykor virágzó pre-akszúmi és akszúmi városi központ volt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.429954,
+                        14.866472
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "Ez a qohaitói ősi síremlék sziklába vájt sírkamrákkal rendelkezik, amelyek a korai hegyvidéki civilizációk temetkezési hagyományait tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        39.428398,
+                        14.86569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruins",
+                  "text": "Aceste ruine din piatră împrăștiate aparțin orașului antic Qohaito, odinioară un centru urban prosper pre-axumit și axumit.",
+                  "category": "landmark",
+                  "coords": [
+                        39.429954,
+                        14.866472
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "Acest mormânt antic din Qohaito prezintă camere mortuare tăiate în stâncă, reflectând tradițiile funerare ale primelor civilizații din zonele înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        39.428398,
+                        14.86569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins",
+                  "text": "These scattered stone ruins belong to the ancient city of Qohaito, once a thriving pre-Aksumite and Aksumite urban center.",
+                  "category": "landmark",
+                  "coords": [
+                        39.429954,
+                        14.866472
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "This ancient tomb in Qohaito features rock-cut burial chambers, reflecting the funerary traditions of early Highland civilizations.",
+                  "category": "landmark",
+                  "coords": [
+                        39.428398,
+                        14.86569
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-DU",
     coords: [39.4267, 14.8817],
@@ -131,7 +365,160 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       fr: ["Situé à une altitude de 2500 mètres.", "Probablement l'ancienne Koloe.", "Comprend le temple de Mariam Wakiro."],
     }, image: "/poi-images/qohaito-ancient-city-history-v2.webp"},
   {
-    id: "metera-ancient-ruins-history-v2",
+    id: "metera-ancient-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Matera",
+                  "text": "Matara ist eine weitläufige archäologische Stätte mit den Ruinen einer bedeutenden antiken aksumitischen Stadt, die für ihre beschrifteten Hawulti (Stelen) bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        39.424896,
+                        14.67554
+                  ]
+            },
+            {
+                  "name": "Forto Cadorna",
+                  "text": "Forto Cadorna ist eine militärische Hügelfestung, die von italienischen Kolonialstreitkräften erbaut wurde und die historische Landschaft um Matara überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        39.381103,
+                        14.607709
+                  ]
+            },
+            {
+                  "name": "Mes-hal wedekele",
+                  "text": "Der Aussichtspunkt Mes-hal wedekele bietet einen weiten Panoramablick über die antiken Ruinen von Matara und das umliegende eritreische Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        39.378252,
+                        14.616241
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "Dieser archäologische Park umfasst die ausgedehnten ausgegrabenen Fundamente von Matara und zeigt den Grundriss früher städtischer Behausungen und Tempel.",
+                  "category": "historical",
+                  "coords": [
+                        39.426378,
+                        14.676131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Matera",
+                  "text": "Matara egy kiterjedt régészeti lelőhely, amely egy jelentős ókori akszúmi város romjait rejti, és a feliratos hawulti (sztélé) oszlopáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        39.424896,
+                        14.67554
+                  ]
+            },
+            {
+                  "name": "Forto Cadorna",
+                  "text": "A Forto Cadorna egy dombtetőn álló katonai erődítmény, amelyet az olasz gyarmati erők építettek, és amely a Matara körüli történelmi tájra néz.",
+                  "category": "castle",
+                  "coords": [
+                        39.381103,
+                        14.607709
+                  ]
+            },
+            {
+                  "name": "Mes-hal wedekele",
+                  "text": "A Mes-hal wedekele kilátó széles, panorámás kilátást nyújt Matara ősi romjaira és a környező eritreai hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        39.378252,
+                        14.616241
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "Ez a régészeti park Matara kiterjedt feltárt alapjait foglalja magában, bemutatva a korai városi lakóházak és templomok elrendezését.",
+                  "category": "historical",
+                  "coords": [
+                        39.426378,
+                        14.676131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Matera",
+                  "text": "Matara este un sit arheologic vast ce conține ruinele unui important oraș antic axumit, cunoscut pentru hawulti-ul (stela) său inscripționat.",
+                  "category": "historical",
+                  "coords": [
+                        39.424896,
+                        14.67554
+                  ]
+            },
+            {
+                  "name": "Forto Cadorna",
+                  "text": "Forto Cadorna este o fortificație militară pe un deal, construită de forțele coloniale italiene, care are vedere la peisajele istorice din jurul Matarei.",
+                  "category": "castle",
+                  "coords": [
+                        39.381103,
+                        14.607709
+                  ]
+            },
+            {
+                  "name": "Mes-hal wedekele",
+                  "text": "Punctul de belvedere Mes-hal wedekele oferă panorame ample asupra ruinelor antice din Matara și a zonei muntoase eritreene înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        39.378252,
+                        14.616241
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "Acest parc arheologic cuprinde fundațiile extinse excavate din Matara, dezvăluind dispunerea primelor locuințe și temple urbane.",
+                  "category": "historical",
+                  "coords": [
+                        39.426378,
+                        14.676131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Matera",
+                  "text": "Matara is a vast archaeological site containing the ruins of a significant ancient Aksumite city, known for its inscribed hawulti (stele).",
+                  "category": "historical",
+                  "coords": [
+                        39.424896,
+                        14.67554
+                  ]
+            },
+            {
+                  "name": "Forto cadorna",
+                  "text": "Forto Cadorna is a hilltop military fortification built by Italian colonial forces overlooking the historical landscapes around Matara.",
+                  "category": "castle",
+                  "coords": [
+                        39.381103,
+                        14.607709
+                  ]
+            },
+            {
+                  "name": "Mes-hal wedekele",
+                  "text": "The Mes-hal wedekele viewpoint offers sweeping panoramic vistas over the ancient ruins of Matara and the surrounding Eritrean highlands.",
+                  "category": "natural",
+                  "coords": [
+                        39.378252,
+                        14.616241
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "This archaeological park encompasses the extensive excavated foundations of Matara, revealing the layout of early urban dwellings and temples.",
+                  "category": "historical",
+                  "coords": [
+                        39.426378,
+                        14.676131
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-DU",
     coords: [39.4217, 14.6644],
@@ -323,7 +710,52 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       fr: ["Symbole de la guerre d'indépendance érythréenne.", "Éponyme de la monnaie érythréenne, le nakfa.", "Les tranchées comprennent des systèmes de tunnels s'étendant sur des kilomètres."],
     }, image: "/poi-images/nakfa-trenches-history-v2.webp"},
   {
-    id: "asmera-fiat-tagliero-history-v2",
+    id: "asmera-fiat-tagliero-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fiat Tagliero",
+                  "text": "Eine berühmte Tankstelle im futuristischen Stil aus dem Jahr 1938, die einem Flugzeug ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.925979,
+                        15.328431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fiat Tagliero",
+                  "text": "Híres, 1938-ban épült futurista stílusú benzinkút, amely egy repülőgépre hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        38.925979,
+                        15.328431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fiat Tagliero",
+                  "text": "O faimoasă stație de servicii în stil futurist, finalizată în 1938, care seamănă cu un avion.",
+                  "category": "landmark",
+                  "coords": [
+                        38.925979,
+                        15.328431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fiat Tagliero",
+                  "text": "A famous Futurist-style service station completed in 1938 that resembles an airplane.",
+                  "category": "landmark",
+                  "coords": [
+                        38.925979,
+                        15.328431
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-MA",
     coords: [38.9242, 15.3308],
@@ -963,7 +1395,52 @@ export const poiExtraEritreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "keren-war-cemetery-history-v2",
+    id: "keren-war-cemetery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "Diese historische Festungsanlage befindet sich in der Umgebung des Keren War Cemetery.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "Ez a történelmi várkastély épület a Keren háborús temető közelében helyezkedik el.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "Această structură istorică tip castel este situată în vecinătatea Cimitirului de Război din Keren.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "This historical castle structure is situated in the vicinity of the Keren War Cemetery.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-AN",
     coords: [38.45, 15.7833],
@@ -1027,7 +1504,124 @@ export const poiExtraEritreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "mariam-dearit-history-v2",
+    id: "mariam-dearit-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jadq",
+                  "text": "Ein lokaler Freizeit-Wasserpark, der aquatische Attraktionen in der Region bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        38.421698,
+                        15.771627
+                  ]
+            },
+            {
+                  "name": "Ashidara",
+                  "text": "Die historischen Ruinen eines ehemaligen Bahnhofs, die die Transportgeschichte der Region widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        38.390385,
+                        15.763713
+                  ]
+            },
+            {
+                  "name": "Fort Rapto",
+                  "text": "Eine historische Festung, die zur Verteidigung der umliegenden Landschaft erbaut wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        38.477883,
+                        15.837803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jadq",
+                  "text": "Helyi szabadidős vízipark, amely vízi attrakciókat kínál a régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        38.421698,
+                        15.771627
+                  ]
+            },
+            {
+                  "name": "Ashidara",
+                  "text": "Egy egykori vasútállomás történelmi romjai, amelyek a terület közlekedéstörténetét tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        38.390385,
+                        15.763713
+                  ]
+            },
+            {
+                  "name": "Fort Rapto",
+                  "text": "Történelmi erődítmény, amelyet a környező táj védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        38.477883,
+                        15.837803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jadq",
+                  "text": "Un parc acvatic local de agrement care oferă atracții acvatice în regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        38.421698,
+                        15.771627
+                  ]
+            },
+            {
+                  "name": "Ashidara",
+                  "text": "Ruinele istorice ale unei foste gări, care reflectă istoria transporturilor din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        38.390385,
+                        15.763713
+                  ]
+            },
+            {
+                  "name": "Fort Rapto",
+                  "text": "O fortificație istorică construită pentru a apăra peisajul înconjurător.",
+                  "category": "fortress",
+                  "coords": [
+                        38.477883,
+                        15.837803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jadq",
+                  "text": "A local recreational water park providing aquatic attractions in the region.",
+                  "category": "recreational",
+                  "coords": [
+                        38.421698,
+                        15.771627
+                  ]
+            },
+            {
+                  "name": "Old Rail station of Ashidara",
+                  "text": "The historic ruins of a former railway station, reflecting the area's transport history.",
+                  "category": "historical",
+                  "coords": [
+                        38.390385,
+                        15.763713
+                  ]
+            },
+            {
+                  "name": "Fort Rapto",
+                  "text": "A historic fortification built to defend the surrounding landscape.",
+                  "category": "fortress",
+                  "coords": [
+                        38.477883,
+                        15.837803
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-AN",
     coords: [38.4417, 15.79],
@@ -1463,7 +2057,52 @@ export const poiExtraEritreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "medebar-market-history-v2",
+    id: "medebar-market-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bet Gheorghis Zoo",
+                  "text": "Ein zoologischer Garten in der Nähe des Medebar-Marktes, in dem verschiedene Tierarten gezeigt werden.",
+                  "category": "recreational",
+                  "coords": [
+                        38.97328,
+                        15.348581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bet Gheorghis Zoo",
+                  "text": "A Medebar piac közelében található állatkert, amely különböző állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        38.97328,
+                        15.348581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bet Gheorghis Zoo",
+                  "text": "Un parc zoologic situat lângă piața Medebar, care prezintă diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        38.97328,
+                        15.348581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bet Gheorghis Zoo",
+                  "text": "A zoological park located near the Medebar market showcasing various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        38.97328,
+                        15.348581
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-MA",
     coords: [38.94, 15.345],
@@ -1655,7 +2294,52 @@ export const poiExtraEritreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "senefe-border-town-history-v2",
+    id: "senefe-border-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stèle de Keskessē",
+                  "text": "Die Stèle de Keskessē markiert eine archäologische Stätte mit einem bedeutenden antiken Obelisken in der Nähe der Stadt Senafe.",
+                  "category": "historical",
+                  "coords": [
+                        39.425496,
+                        14.748351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stèle de Keskessē",
+                  "text": "A Stèle de Keskessē egy régészeti lelőhely, amely egy jelentős ókori obeliszket foglal magában Senafe városának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        39.425496,
+                        14.748351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stèle de Keskessē",
+                  "text": "Stela din Keskessē marchează un sit arheologic ce conține un obelisc antic semnificativ lângă orașul Senafe.",
+                  "category": "historical",
+                  "coords": [
+                        39.425496,
+                        14.748351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stèle de Keskessē",
+                  "text": "The Stèle de Keskessē marks an archaeological site featuring a significant ancient obelisk near the town of Senafe.",
+                  "category": "historical",
+                  "coords": [
+                        39.425496,
+                        14.748351
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-DU",
     coords: [39.4167, 14.7333],
@@ -1719,7 +2403,52 @@ export const poiExtraEritreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "hamasien-province-history-v2",
+    id: "hamasien-province-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beleza my office",
+                  "text": "Ein bemerkenswerter Ort im historischen Kontext der Provinz Hamasien.",
+                  "category": "landmark",
+                  "coords": [
+                        38.932421,
+                        15.434918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beleza my office",
+                  "text": "Figyelemre méltó helyszín Hamasien tartomány történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.932421,
+                        15.434918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beleza my office",
+                  "text": "Un punct de atracție remarcabil în contextul istoric al provinciei Hamasien.",
+                  "category": "landmark",
+                  "coords": [
+                        38.932421,
+                        15.434918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beleza my office",
+                  "text": "A notable local attraction set within the historical landscape of Hamasien province.",
+                  "category": "landmark",
+                  "coords": [
+                        38.932421,
+                        15.434918
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ER-MA",
     coords: [38.93, 15.35],

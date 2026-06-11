@@ -75,7 +75,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-maputo-railway-station-history-v2",
+    id: "mz-maputo-railway-station-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu dos CFM",
+                  "text": "Dieses Museum befindet sich im historischen Bahnhof von Maputo und stellt historische Dampflokomotiven und Eisenbahnartefakte aus.",
+                  "category": "museum",
+                  "coords": [
+                        32.563254,
+                        -25.970282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu dos CFM",
+                  "text": "A történelmi maputói vasútállomáson található múzeum régi gőzmozdonyokat és vasúti tárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        32.563254,
+                        -25.970282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu dos CFM",
+                  "text": "Găzduit în gara istorică din Maputo, acest muzeu expune locomotive cu abur de epocă și artefacte feroviare.",
+                  "category": "museum",
+                  "coords": [
+                        32.563254,
+                        -25.970282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu dos CFM",
+                  "text": "Housed in the historic Maputo railway station, this museum exhibits vintage steam locomotives and railway artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        32.563254,
+                        -25.970282
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5645, -25.9712],
@@ -147,7 +192,88 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-chapel-nossa-senhora-de-baluarte-history-v2",
+    id: "mz-chapel-nossa-senhora-de-baluarte-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statue",
+                  "text": "Ein historisches Statuendenkmal in der Nähe der Kapelle Nossa Senhora de Baluarte auf der Ilha de Moçambique.",
+                  "category": "historical",
+                  "coords": [
+                        40.741195,
+                        -15.030076
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São Sebastião",
+                  "text": "Eine historische koloniale Steinfestung, die zur Verteidigung der Ilha de Moçambique errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        40.743464,
+                        -15.028995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue",
+                  "text": "Történelmi szoboremlékmű a Nossa Senhora de Baluarte kápolna közelében, a Mozambik-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        40.741195,
+                        -15.030076
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São Sebastião",
+                  "text": "Történelmi gyarmati kőerőd, amelyet a Mozambik-sziget védelmére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        40.743464,
+                        -15.028995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue",
+                  "text": "O statuie monumentală istorică situată în apropierea Capelei Nossa Senhora de Baluarte de pe Insula Mozambic.",
+                  "category": "historical",
+                  "coords": [
+                        40.741195,
+                        -15.030076
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São Sebastião",
+                  "text": "O fortăreață istorică de piatră din perioada colonială, construită pentru apărarea Insulei Mozambic.",
+                  "category": "landmark",
+                  "coords": [
+                        40.743464,
+                        -15.028995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue",
+                  "text": "A historic statue monument located near the Chapel of Nossa Senhora de Baluarte on the Island of Mozambique.",
+                  "category": "historical",
+                  "coords": [
+                        40.741195,
+                        -15.030076
+                  ]
+            },
+            {
+                  "name": "Fort of São Sebastião",
+                  "text": "A historic colonial stone fortress built to defend the Island of Mozambique.",
+                  "category": "landmark",
+                  "coords": [
+                        40.743464,
+                        -15.028995
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-N",
     coords: [40.7351, -15.0274],
@@ -219,7 +345,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-manyikeni-ruins-history-v2",
+    id: "mz-manyikeni-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manyikeni",
+                  "text": "Die archäologische Stätte Manyikeni zeigt beeindruckende Trockenmauern, die auf eine historische Verbindung zum Munhumutapa-Reich schließen lassen.",
+                  "category": "historical",
+                  "coords": [
+                        34.844756,
+                        -22.186515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manyikeni",
+                  "text": "Manyikeni régészeti lelőhelye lenyűgöző száraz kőfalakat mutat be, amelyek a Munhumutapa Birodalommal való történelmi kapcsolatra utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        34.844756,
+                        -22.186515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manyikeni",
+                  "text": "Situl arheologic Manyikeni prezintă ziduri impresionante din piatră uscată, care indică o legătură istorică cu Imperiul Munhumutapa.",
+                  "category": "historical",
+                  "coords": [
+                        34.844756,
+                        -22.186515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manyikeni",
+                  "text": "The Manyikeni archaeological site features impressive dry-stone walls that suggest a historical connection to the Munhumutapa Empire.",
+                  "category": "historical",
+                  "coords": [
+                        34.844756,
+                        -22.186515
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-I",
     coords: [34.8211, -22.1866],
@@ -255,7 +426,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-chibuene-history-v2",
+    id: "mz-chibuene-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chibuene",
+                  "text": "Die archäologische Stätte Chibuene zeugt von einem bedeutenden antiken Küstenhandelsposten am Indischen Ozean aus dem 1. Jahrtausend.",
+                  "category": "historical",
+                  "coords": [
+                        35.323168,
+                        -22.047519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chibuene",
+                  "text": "Chibuene régészeti lelőhelye egy fontos, az első évezredből származó ókori tengerparti kereskedelmi állomás maradványait rejti az Indiai-óceán partján.",
+                  "category": "historical",
+                  "coords": [
+                        35.323168,
+                        -22.047519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chibuene",
+                  "text": "Situl arheologic Chibuene atestă un important avanpost antic de comerț de coastă pe Oceanul Indian din primul mileniu.",
+                  "category": "historical",
+                  "coords": [
+                        35.323168,
+                        -22.047519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chibuene",
+                  "text": "The archaeological site of Chibuene reveals the remains of an important 1st-millennium coastal trading post on the Indian Ocean.",
+                  "category": "historical",
+                  "coords": [
+                        35.323168,
+                        -22.047519
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-I",
     coords: [35.3188, -22.0294],
@@ -507,7 +723,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-maputo-cathedral-history-v2",
+    id: "mz-maputo-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro de recursos juvenis Mozarte",
+                  "text": "Mozarte ist ein ansprechendes Jugendzentrum, das Workshops und kreative Aktivitäten in der Nähe der Kathedrale anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.571097,
+                        -25.966661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro de recursos juvenis Mozarte",
+                  "text": "A Mozarte egy vonzó ifjúsági forrásközpont, amely workshopokat és kreatív tevékenységeket kínál a katedrális közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.571097,
+                        -25.966661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro de recursos juvenis Mozarte",
+                  "text": "Mozarte este un centru de resurse pentru tineret care oferă ateliere și activități creative în apropierea catedralei.",
+                  "category": "landmark",
+                  "coords": [
+                        32.571097,
+                        -25.966661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro de recursos juvenis Mozarte",
+                  "text": "Mozarte is an engaging youth resource centre offering workshops and creative activities near the cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        32.571097,
+                        -25.966661
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5732, -25.9687],
@@ -543,7 +804,88 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-monument-great-war-history-v2",
+    id: "mz-monument-great-war-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu da Moeda",
+                  "text": "Das als Weltkulturerbe der Klasse A ausgewiesene Museu da Moeda stellt numismatische Sammlungen aus.",
+                  "category": "museum",
+                  "coords": [
+                        32.569753,
+                        -25.973352
+                  ]
+            },
+            {
+                  "name": "Mesquita da Baixa",
+                  "text": "Die Mesquita da Baixa ist eine denkmalgeschützte islamische Kultstätte der Klasse B mit traditionellen architektonischen Merkmalen.",
+                  "category": "religious",
+                  "coords": [
+                        32.567968,
+                        -25.971785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da Moeda",
+                  "text": "Az A kategóriájú örökségként nyilvántartott Museu da Moeda numizmatikai gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.569753,
+                        -25.973352
+                  ]
+            },
+            {
+                  "name": "Mesquita da Baixa",
+                  "text": "A Mesquita da Baixa egy B kategóriájú, műemlékvédelem alatt álló iszlám istentiszteleti hely, hagyományos építészeti elemekkel.",
+                  "category": "religious",
+                  "coords": [
+                        32.567968,
+                        -25.971785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da Moeda",
+                  "text": "Desemnat ca sit de patrimoniu de clasa A, Museu da Moeda expune colecții numismatice.",
+                  "category": "museum",
+                  "coords": [
+                        32.569753,
+                        -25.973352
+                  ]
+            },
+            {
+                  "name": "Mesquita da Baixa",
+                  "text": "Mesquita da Baixa este un lăcaș de cult islamic din clasa B de patrimoniu, cu trăsături arhitecturale tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        32.567968,
+                        -25.971785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da Moeda",
+                  "text": "Designated as a Class A heritage site, the Museu da Moeda exhibits numismatic collections.",
+                  "category": "museum",
+                  "coords": [
+                        32.569753,
+                        -25.973352
+                  ]
+            },
+            {
+                  "name": "Mesquita da Baixa",
+                  "text": "Mesquita da Baixa is a Class B heritage-listed Islamic place of worship with traditional architectural features.",
+                  "category": "religious",
+                  "coords": [
+                        32.567968,
+                        -25.971785
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5681, -25.9734],
@@ -579,7 +921,88 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-vila-algarve-history-v2",
+    id: "mz-vila-algarve-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Associação dos Músicos de Moçambique",
+                  "text": "Dieses Kunstzentrum, das mosambikanische Musiker vereint, befindet sich in der Nähe der Vila Algarve.",
+                  "category": "cultural",
+                  "coords": [
+                        32.580852,
+                        -25.964594
+                  ]
+            },
+            {
+                  "name": "ICMA - Insituto Cultural Mocambicano-Alemao",
+                  "text": "Dieses deutsch-mosambikanische Kulturinstitut liegt in der historischen Gegend der Vila Algarve.",
+                  "category": "cultural",
+                  "coords": [
+                        32.584724,
+                        -25.968007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Associação dos Músicos de Moçambique",
+                  "text": "Ez a mozambiki zenészeket tömörítő művészeti központ a Vila Algarve közelében található.",
+                  "category": "cultural",
+                  "coords": [
+                        32.580852,
+                        -25.964594
+                  ]
+            },
+            {
+                  "name": "ICMA - Insituto Cultural Mocambicano-Alemao",
+                  "text": "Ez a mozambiki-német kulturális intézet a Vila Algarve történelmi negyedében található.",
+                  "category": "cultural",
+                  "coords": [
+                        32.584724,
+                        -25.968007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Associação dos Músicos de Moçambique",
+                  "text": "Acest centru de arte, care reunește muzicieni mozambicani, este situat lângă Vila Algarve.",
+                  "category": "cultural",
+                  "coords": [
+                        32.580852,
+                        -25.964594
+                  ]
+            },
+            {
+                  "name": "ICMA - Insituto Cultural Mocambicano-Alemao",
+                  "text": "Acest institut cultural mozambicano-german este situat în zona istorică Vila Algarve.",
+                  "category": "cultural",
+                  "coords": [
+                        32.584724,
+                        -25.968007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Associação dos Músicos de Moçambique",
+                  "text": "This arts centre uniting Mozambican musicians is located near the Vila Algarve.",
+                  "category": "cultural",
+                  "coords": [
+                        32.580852,
+                        -25.964594
+                  ]
+            },
+            {
+                  "name": "ICMA - Insituto Cultural Mocambicano-Alemao",
+                  "text": "This Mozambican-German cultural institute is situated in the historic Vila Algarve area.",
+                  "category": "cultural",
+                  "coords": [
+                        32.584724,
+                        -25.968007
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5852, -25.9667],
@@ -615,7 +1038,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-polana-church-history-v2",
+    id: "mz-polana-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Residência do Presidente da República",
+                  "text": "Die Residência do Presidente da República ist ein offizielles palastartiges Gebäude mit imposanter staatlicher Architektur und gesichertem Gelände.",
+                  "category": "castle",
+                  "coords": [
+                        32.600078,
+                        -25.965435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Residência do Presidente da República",
+                  "text": "A Residência do Presidente da República egy hivatalos palotaépület, amely impozáns állami építészettel és őrzött területekkel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        32.600078,
+                        -25.965435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Residência do Presidente da República",
+                  "text": "Residência do Presidente da República este o clădire oficială asemănătoare unui palat, cu o arhitectură de stat impunătoare și terenuri securizate.",
+                  "category": "castle",
+                  "coords": [
+                        32.600078,
+                        -25.965435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Residência do Presidente da República",
+                  "text": "The Residência do Presidente da República is an official palatial building featuring imposing state architecture and secure grounds.",
+                  "category": "castle",
+                  "coords": [
+                        32.600078,
+                        -25.965435
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5985, -25.9731],
@@ -687,7 +1155,124 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-cathedral-our-lady-inhambane-history-v2",
+    id: "mz-cathedral-our-lady-inhambane-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Die Casa de Cultura in Inhambane ist ein lebendiges Museum und Kulturinstitut, das das reiche koloniale und indigene Erbe der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        35.381759,
+                        -23.868936
+                  ]
+            },
+            {
+                  "name": "Studio Bom Dia",
+                  "text": "Studio Bom Dia ist eine kreative lokale Attraktion in Inhambane, die für die Herstellung und Ausstellung von farbenfrohem mosambikanischem Kunsthandwerk bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.410155,
+                        -23.888193
+                  ]
+            },
+            {
+                  "name": "Estacao des Caminhos de Ferro",
+                  "text": "Die Estação dos Caminhos de Ferro in Inhambane ist ein historischer Bahnhof und eine Attraktion, die sich durch ihre markante portugiesische Kolonialarchitektur des frühen 20. Jahrhunderts auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.386448,
+                        -23.865544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Az inhambanei Casa de Cultura egy nyüzsgő múzeum és kulturális intézmény, amely a régió gazdag gyarmati és őslakos örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.381759,
+                        -23.868936
+                  ]
+            },
+            {
+                  "name": "Studio Bom Dia",
+                  "text": "A Studio Bom Dia egy kreatív helyi látványosság Inhambanében, amely színes mozambiki művészeti és kézműves alkotások készítéséről és kiállításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.410155,
+                        -23.888193
+                  ]
+            },
+            {
+                  "name": "Estacao des Caminhos de Ferro",
+                  "text": "Az inhambanei Estação dos Caminhos de Ferro egy történelmi vasútállomás, amely a kora 20. századi portugál gyarmati építészet feltűnő vonásait hordozza.",
+                  "category": "landmark",
+                  "coords": [
+                        35.386448,
+                        -23.865544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Casa de Cultura din Inhambane este un muzeu vibrant și o instituție culturală care expune bogata moștenire colonială și indigenă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        35.381759,
+                        -23.868936
+                  ]
+            },
+            {
+                  "name": "Studio Bom Dia",
+                  "text": "Studio Bom Dia este o atracție locală creativă din Inhambane, cunoscută pentru producerea și expunerea artelor și meșteșugurilor mozambicane colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.410155,
+                        -23.888193
+                  ]
+            },
+            {
+                  "name": "Estacao des Caminhos de Ferro",
+                  "text": "Estação dos Caminhos de Ferro din Inhambane este o gară istorică ce atrage vizitatori prin arhitectura sa colonială portugheză impresionantă de la începutul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        35.386448,
+                        -23.865544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "The Casa de Cultura in Inhambane is a vibrant museum and cultural institution showcasing the region's rich colonial and indigenous heritage.",
+                  "category": "museum",
+                  "coords": [
+                        35.381759,
+                        -23.868936
+                  ]
+            },
+            {
+                  "name": "Studio Bom Dia",
+                  "text": "Studio Bom Dia is a creative local attraction in Inhambane, known for producing and displaying colorful Mozambican arts and crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        35.410155,
+                        -23.888193
+                  ]
+            },
+            {
+                  "name": "Estacao des Caminhos de Ferro",
+                  "text": "The Estação dos Caminhos de Ferro in Inhambane is a historic railway station attraction featuring striking early 20th-century Portuguese colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.386448,
+                        -23.865544
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-I",
     coords: [35.3855, -23.8672],
@@ -723,7 +1308,160 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-quelimane-old-cathedral-history-v2",
+    id: "mz-quelimane-old-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praça dos Trabalhadores",
+                  "text": "Die Praça dos Trabalhadores ist ein bedeutendes Denkmal und zentraler Platz in Quelimane, der den lokalen Arbeitern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.879922,
+                        -17.877932
+                  ]
+            },
+            {
+                  "name": "Liliane aunt house Quelimane",
+                  "text": "Das als Liliane Aunt House bekannte historische Gebäude in Quelimane zeigt charakteristische Elemente der portugiesischen Kolonialarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        36.89902,
+                        -17.856581
+                  ]
+            },
+            {
+                  "name": "Lar dos Professores",
+                  "text": "Das Lar dos Professores in Quelimane ist ein markantes historisches Gebäude, das einst als Wohnheim für Lehrer diente.",
+                  "category": "castle",
+                  "coords": [
+                        36.89009,
+                        -17.874432
+                  ]
+            },
+            {
+                  "name": "casa da Cultura",
+                  "text": "Die Casa da Cultura in Quelimane ist ein lebendiges Theater- und Kulturzentrum, das mosambikanische Kunst und Musik fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.885814,
+                        -17.875287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praça dos Trabalhadores",
+                  "text": "A Praça dos Trabalhadores egy fontos emlékmű és központi tér Quelimane városában, amelyet a helyi munkások tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        36.879922,
+                        -17.877932
+                  ]
+            },
+            {
+                  "name": "Liliane aunt house Quelimane",
+                  "text": "A Quelimane városában található Liliane Aunt House nevű történelmi épület a portugál gyarmati építészet jellegzetes vonásait viseli magán.",
+                  "category": "castle",
+                  "coords": [
+                        36.89902,
+                        -17.856581
+                  ]
+            },
+            {
+                  "name": "Lar dos Professores",
+                  "text": "A quelimane-i Lar dos Professores egy jellegzetes történelmi épület, amely egykor tanárok otthonaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        36.89009,
+                        -17.874432
+                  ]
+            },
+            {
+                  "name": "casa da Cultura",
+                  "text": "A quelimane-i Casa da Cultura egy nyüzsgő színházi és kulturális központ, amely a mozambiki művészetet és zenét népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        36.885814,
+                        -17.875287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praça dos Trabalhadores",
+                  "text": "Praça dos Trabalhadores este un monument și o piață centrală în Quelimane, dedicată muncitorilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        36.879922,
+                        -17.877932
+                  ]
+            },
+            {
+                  "name": "Liliane aunt house Quelimane",
+                  "text": "Casa istorică cunoscută sub numele de Liliane Aunt House din Quelimane prezintă elemente caracteristice ale arhitecturii coloniale portugheze.",
+                  "category": "castle",
+                  "coords": [
+                        36.89902,
+                        -17.856581
+                  ]
+            },
+            {
+                  "name": "Lar dos Professores",
+                  "text": "Lar dos Professores din Quelimane este o clădire istorică impresionantă, care a servit cândva drept cămin pentru profesori.",
+                  "category": "castle",
+                  "coords": [
+                        36.89009,
+                        -17.874432
+                  ]
+            },
+            {
+                  "name": "casa da Cultura",
+                  "text": "Casa da Cultura din Quelimane este un centru teatral și cultural vibrant care promovează arta și muzica mozambicană.",
+                  "category": "cultural",
+                  "coords": [
+                        36.885814,
+                        -17.875287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praça dos Trabalhadores",
+                  "text": "Praça dos Trabalhadores is a significant monument and central square in Quelimane dedicated to the local workers.",
+                  "category": "historical",
+                  "coords": [
+                        36.879922,
+                        -17.877932
+                  ]
+            },
+            {
+                  "name": "Liliane aunt house Quelimane",
+                  "text": "The historic building known as Liliane Aunt House in Quelimane showcases characteristic elements of Portuguese colonial architecture.",
+                  "category": "castle",
+                  "coords": [
+                        36.89902,
+                        -17.856581
+                  ]
+            },
+            {
+                  "name": "Lar dos Professores",
+                  "text": "Lar dos Professores in Quelimane is a prominent historic building that once served as a residential home for teachers.",
+                  "category": "castle",
+                  "coords": [
+                        36.89009,
+                        -17.874432
+                  ]
+            },
+            {
+                  "name": "casa da Cultura",
+                  "text": "The Casa da Cultura in Quelimane is a vibrant theatre and cultural centre that promotes Mozambican art and music.",
+                  "category": "cultural",
+                  "coords": [
+                        36.885814,
+                        -17.875287
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-ZA",
     coords: [36.8833, -17.8764],
@@ -795,7 +1533,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-heroes-square-history-v2",
+    id: "mz-heroes-square-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardim Zoológico de Maputo",
+                  "text": "Der 1929 eröffnete Zoo von Maputo bietet ein historisches Refugium für verschiedene Wildtiere in der mosambikanischen Hauptstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.554374,
+                        -25.923954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardim Zoológico de Maputo",
+                  "text": "Az 1929-ben megnyílt maputói állatkert történelmi menedéket nyújt a különféle vadon élő állatoknak a mozambiki fővárosban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.554374,
+                        -25.923954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardim Zoológico de Maputo",
+                  "text": "Deschisă în 1929, Grădina Zoologică din Maputo oferă un sanctuar istoric pentru diverse specii de animale sălbatice din capitala mozambicană.",
+                  "category": "recreational",
+                  "coords": [
+                        32.554374,
+                        -25.923954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardim Zoológico de Maputo",
+                  "text": "Opened in 1929, the Maputo Zoo provides a historical sanctuary for diverse wildlife within the Mozambican capital.",
+                  "category": "recreational",
+                  "coords": [
+                        32.554374,
+                        -25.923954
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-MPM",
     coords: [32.5583, -25.9264],
@@ -867,7 +1650,160 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-macuti-lighthouse-history-v2",
+    id: "mz-macuti-lighthouse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Estoril",
+                  "text": "Die Praia do Estoril ist ein weitläufiger Sandstrand in Beira, der an den warmen Wassern des Indischen Ozeans liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.902372,
+                        -19.841527
+                  ]
+            },
+            {
+                  "name": "Praça dos Descobrimentos",
+                  "text": "Die Praça dos Descobrimentos in Beira erinnert mit ihren Denkmälern an die Ära der portugiesischen Seefahrer und Entdecker.",
+                  "category": "historical",
+                  "coords": [
+                        34.881826,
+                        -19.850032
+                  ]
+            },
+            {
+                  "name": "Monumento aos Heróis Moçambicanos",
+                  "text": "Das Monumento aos Heróis Moçambicanos in Beira ehrt die mutigen Kämpfer, die für die Unabhängigkeit Mosambiks ihr Leben ließen.",
+                  "category": "historical",
+                  "coords": [
+                        34.889939,
+                        -19.817936
+                  ]
+            },
+            {
+                  "name": "Farol do Macuti",
+                  "text": "Der Farol do Macuti ist ein ikonischer, markant gestreifter Leuchtturm, der seit dem 20. Jahrhundert die Küste von Beira markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.899565,
+                        -19.843727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Estoril",
+                  "text": "A Praia do Estoril egy tágas homokos strand Beirában, amely az Indiai-óceán meleg vize mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        34.902372,
+                        -19.841527
+                  ]
+            },
+            {
+                  "name": "Praça dos Descobrimentos",
+                  "text": "A beirai Praça dos Descobrimentos emlékműveivel a portugál tengerészek és felfedezők korszakának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        34.881826,
+                        -19.850032
+                  ]
+            },
+            {
+                  "name": "Monumento aos Heróis Moçambicanos",
+                  "text": "A beirai Monumento aos Heróis Moçambicanos a Mozambik függetlenségéért életüket adó bátor harcosok előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        34.889939,
+                        -19.817936
+                  ]
+            },
+            {
+                  "name": "Farol do Macuti",
+                  "text": "A Farol do Macuti egy ikonikus, jellegzetesen csíkos világítótorony, amely a 20. század óta jelzi Beira partvidékét.",
+                  "category": "landmark",
+                  "coords": [
+                        34.899565,
+                        -19.843727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Estoril",
+                  "text": "Praia do Estoril este o plajă vastă de nisip din Beira, situată de-a lungul apelor calde ale Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        34.902372,
+                        -19.841527
+                  ]
+            },
+            {
+                  "name": "Praça dos Descobrimentos",
+                  "text": "Praça dos Descobrimentos din Beira comemorează prin monumentele sale epoca navigatorilor și exploratorilor portughezi.",
+                  "category": "historical",
+                  "coords": [
+                        34.881826,
+                        -19.850032
+                  ]
+            },
+            {
+                  "name": "Monumento aos Heróis Moçambicanos",
+                  "text": "Monumentul Eroilor Mozambicani din Beira îi onorează pe curajoșii luptători care și-au dat viața pentru independența Mozambicului.",
+                  "category": "historical",
+                  "coords": [
+                        34.889939,
+                        -19.817936
+                  ]
+            },
+            {
+                  "name": "Farol do Macuti",
+                  "text": "Farol do Macuti este un far iconic, cu dungi proeminente, care marchează coasta orașului Beira din secolul al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        34.899565,
+                        -19.843727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Estoril",
+                  "text": "Praia do Estoril is an expansive sandy beach in Beira located along the warm waters of the Indian Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        34.902372,
+                        -19.841527
+                  ]
+            },
+            {
+                  "name": "Praça dos Descobrimentos",
+                  "text": "The Praça dos Descobrimentos in Beira commemorates the era of Portuguese seafarers and explorers with its monumental structures.",
+                  "category": "historical",
+                  "coords": [
+                        34.881826,
+                        -19.850032
+                  ]
+            },
+            {
+                  "name": "Monumento aos Heróis Moçambicanos",
+                  "text": "The Monumento aos Heróis Moçambicanos in Beira honours the brave fighters who gave their lives for Mozambique's independence.",
+                  "category": "historical",
+                  "coords": [
+                        34.889939,
+                        -19.817936
+                  ]
+            },
+            {
+                  "name": "Farol do Macuti",
+                  "text": "The Farol do Macuti is an iconic, distinctively striped lighthouse that has marked the coast of Beira since the 20th century.",
+                  "category": "landmark",
+                  "coords": [
+                        34.899565,
+                        -19.843727
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-SO",
     coords: [34.8967, -19.8456],
@@ -903,7 +1839,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-goa-island-lighthouse-history-v2",
+    id: "mz-goa-island-lighthouse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol",
+                  "text": "Dieser Küstenleuchtturm steht als wichtiges maritimes Leuchtfeuer und führt Schiffe sicher um die felsigen Untiefen der vorgelagerten Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        40.78662,
+                        -15.053352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol",
+                  "text": "Ez a part menti világítótorony döntő tengeri jelzőfényként áll, biztonságosan átvezetve a hajókat a nyílt tengeri sziget sziklás zátonyain.",
+                  "category": "landmark",
+                  "coords": [
+                        40.78662,
+                        -15.053352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol",
+                  "text": "Acest far de coastă servește drept un far maritim crucial, ghidând navele în siguranță în jurul bancurilor stâncoase ale insulei din larg.",
+                  "category": "landmark",
+                  "coords": [
+                        40.78662,
+                        -15.053352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol",
+                  "text": "This coastal lighthouse stands as a crucial maritime beacon, guiding ships safely around the rocky shoals of the offshore island.",
+                  "category": "landmark",
+                  "coords": [
+                        40.78662,
+                        -15.053352
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-N",
     coords: [40.7811, -15.0522],
@@ -939,7 +1920,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-massacre-mueda-history-v2",
+    id: "mz-massacre-mueda-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "Das Museu da Masacre de Mueda ist ein historisches Museum, das Artefakte und Aufzeichnungen der tragischen Ereignisse von 1960 ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        39.546158,
+                        -11.659595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "A Museu da Masacre de Mueda egy történelmi múzeum, amely az 1960-as tragikus események tárgyi emlékeit és feljegyzéseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.546158,
+                        -11.659595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "Museu da Masacre de Mueda este un muzeu istoric care expune artefacte și înregistrări ale evenimentelor tragice din 1960.",
+                  "category": "museum",
+                  "coords": [
+                        39.546158,
+                        -11.659595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "The Museu da Masacre de Mueda is a historical museum exhibiting artifacts and records from the tragic events of 1960.",
+                  "category": "museum",
+                  "coords": [
+                        39.546158,
+                        -11.659595
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-CD",
     coords: [39.5333, -11.6333],
@@ -1047,7 +2073,52 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     },
   },
   {
-    id: "mz-fort-sao-lourenco-history-v2",
+    id: "mz-fort-sao-lourenco-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortim de São Lourenço",
+                  "text": "Ein kleines portugiesisches Verteidigungsfort aus dem 16. Jahrhundert, das auf einer felsigen Insel direkt vor der Mosambikinsel erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        40.72641,
+                        -15.050398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortim de São Lourenço",
+                  "text": "Egy kis 16. századi portugál védelmi erőd, amely a Mozambik-sziget melletti sziklás szigeten épült.",
+                  "category": "castle",
+                  "coords": [
+                        40.72641,
+                        -15.050398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortim de São Lourenço",
+                  "text": "Un mic fort de apărare portughez din secolul al XVI-lea construit pe o insuliță stâncoasă chiar lângă Insula Mozambic.",
+                  "category": "castle",
+                  "coords": [
+                        40.72641,
+                        -15.050398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortim de São Lourenço",
+                  "text": "A small 16th-century Portuguese defensive fort built on a rocky islet just off the Island of Mozambique.",
+                  "category": "castle",
+                  "coords": [
+                        40.72641,
+                        -15.050398
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MZ-N",
     coords: [40.732, -15.044],

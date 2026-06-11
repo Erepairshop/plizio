@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthsudanCitiesV2: POI[] = [
   {
-    id: "juba-cities-v2",
+    id: "juba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malesh accommodation place",
+                  "text": "Eine lokale Unterkunft, die einfache Übernachtungsmöglichkeiten im städtischen Zentrum von Juba bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.530731,
+                        4.867685
+                  ]
+            },
+            {
+                  "name": "Gudele block 9",
+                  "text": "Ein spezifischer Wohnblock im belebten Viertel Gudele von Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553218,
+                        4.865309
+                  ]
+            },
+            {
+                  "name": "Sarra's homr",
+                  "text": "Ein privates Wohnhaus, das sich in die städtische Zersiedelung von Juba einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557667,
+                        4.854735
+                  ]
+            },
+            {
+                  "name": "Antena tower",
+                  "text": "Ein hoher Telekommunikationsantennenmast, der sich von der Skyline der Stadt Juba abhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.56718,
+                        4.842202
+                  ]
+            },
+            {
+                  "name": "Secret cprner",
+                  "text": "Ein ruhiger, etwas abgelegener Aussichtspunkt, der im Stadtbild von Juba versteckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.561027,
+                        4.843562
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malesh accommodation place",
+                  "text": "Helyi szálláshely, amely alapvető elhelyezést biztosít Juba városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.530731,
+                        4.867685
+                  ]
+            },
+            {
+                  "name": "Gudele block 9",
+                  "text": "Egy konkrét lakóövezeti háztömb Juba nyüzsgő Gudele negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553218,
+                        4.865309
+                  ]
+            },
+            {
+                  "name": "Sarra's homr",
+                  "text": "Juba városi forgatagában megbúvó lakóépület, mint tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557667,
+                        4.854735
+                  ]
+            },
+            {
+                  "name": "Antena tower",
+                  "text": "Egy magas telekommunikációs antennatorony, amely kiemelkedik Juba városképéből.",
+                  "category": "landmark",
+                  "coords": [
+                        31.56718,
+                        4.842202
+                  ]
+            },
+            {
+                  "name": "Secret cprner",
+                  "text": "Egy csendes, kissé eldugott kilátópont Juba városképében elrejtve.",
+                  "category": "natural",
+                  "coords": [
+                        31.561027,
+                        4.843562
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malesh accommodation place",
+                  "text": "O facilitate de cazare locală care oferă adăpost de bază în centrul urban al orașului Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.530731,
+                        4.867685
+                  ]
+            },
+            {
+                  "name": "Gudele block 9",
+                  "text": "Un bloc rezidențial specific situat în cartierul aglomerat Gudele din Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553218,
+                        4.865309
+                  ]
+            },
+            {
+                  "name": "Sarra's homr",
+                  "text": "O locuință privată integrată în aglomerarea urbană din Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557667,
+                        4.854735
+                  ]
+            },
+            {
+                  "name": "Antena tower",
+                  "text": "Un turn înalt de antenă de telecomunicații care se evidențiază pe orizontul orașului Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.56718,
+                        4.842202
+                  ]
+            },
+            {
+                  "name": "Secret cprner",
+                  "text": "Un punct de belvedere liniștit, oarecum retras, ascuns în peisajul urban din Juba.",
+                  "category": "natural",
+                  "coords": [
+                        31.561027,
+                        4.843562
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malesh accommodation place",
+                  "text": "A local lodging facility providing basic accommodation within the urban center of Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.530731,
+                        4.867685
+                  ]
+            },
+            {
+                  "name": "Gudele block 9",
+                  "text": "A specific residential neighborhood block situated in the bustling Gudele district of Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553218,
+                        4.865309
+                  ]
+            },
+            {
+                  "name": "Sarra's home",
+                  "text": "A residential point of interest tucked into the urban sprawl of Juba.",
+                  "category": "landmark",
+                  "coords": [
+                        31.557667,
+                        4.854735
+                  ]
+            },
+            {
+                  "name": "Antena tower",
+                  "text": "A tall telecommunications antenna tower standing out against the Juba city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        31.56718,
+                        4.842202
+                  ]
+            },
+            {
+                  "name": "Secret cprner",
+                  "text": "A quiet, somewhat secluded viewpoint tucked away in the cityscape of Juba.",
+                  "category": "natural",
+                  "coords": [
+                        31.561027,
+                        4.843562
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SS-EC",
     coords: [31.571, 4.851],
@@ -85,7 +274,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       en: ["Capital of Upper Nile State and the country's second-largest city.", "Located on the east bank of the White Nile at 9.533N latitude.", "Historical and cultural heartland of the Shilluk ethnic group.", "Home to the Upper Nile University, providing higher education for the north.", "Major river port facilitating trade between South Sudan and Sudan.", "Key support center for the oil production activities in the Melut Basin.", "Features a significant regional airport with connections to Juba.", "Climate is characterized by high temperatures, often exceeding 35°C."],
     }, image: "/poi-images/malakal-cities-v2.webp"},
   {
-    id: "wau-cities-v2",
+    id: "wau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Mary Help of Christians",
+                  "text": "Die Kirche St. Mary Help of Christians ist eine bedeutende katholische Kathedrale in wau-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        27.997875,
+                        7.698937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Mary Help of Christians",
+                  "text": "A St. Mary Help of Christians egy jelentős katolikus katedrális wau-cities-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.997875,
+                        7.698937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Mary Help of Christians",
+                  "text": "St. Mary Help of Christians este o importantă catedrală catolică situată în wau-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        27.997875,
+                        7.698937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Mary Help of Christians",
+                  "text": "St. Mary Help of Christians is an imposing Catholic cathedral serving the faithful in wau-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        27.997875,
+                        7.698937
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SS-BW",
     coords: [28.000, 7.703],
@@ -259,7 +493,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "bor-cities-v2",
+    id: "bor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dinka tribe cattle camp",
+                  "text": "Ein traditionelles Rinderlager, das den jahrhundertealten pastoralen Lebensstil des Dinka-Stammes zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553417,
+                        6.200796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinka tribe cattle camp",
+                  "text": "Egy hagyományos szarvasmarha-tábor, amely a dinka törzs évszázados pásztor életmódját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553417,
+                        6.200796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinka tribe cattle camp",
+                  "text": "O tabără tradițională de vite care prezintă stilul de viață pastoral secular al tribului Dinka.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553417,
+                        6.200796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinka tribe cattle camp",
+                  "text": "A traditional cattle camp showcasing the centuries-old pastoral lifestyle of the Dinka tribe.",
+                  "category": "landmark",
+                  "coords": [
+                        31.553417,
+                        6.200796
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SS-JO",
     coords: [31.554, 6.204],
@@ -301,7 +580,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "aweil-cities-v2",
+    id: "aweil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. John ECS, Aweil",
+                  "text": "Das befestigte Gebäude St. John ECS prägt das Stadtbild von aweil-cities-v2.",
+                  "category": "castle",
+                  "coords": [
+                        27.386318,
+                        8.755783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. John ECS, Aweil",
+                  "text": "A megerősített St. John ECS épület aweil-cities-v2 városképét formálja.",
+                  "category": "castle",
+                  "coords": [
+                        27.386318,
+                        8.755783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. John ECS, Aweil",
+                  "text": "Clădirea fortificată St. John ECS modelează peisajul urban din aweil-cities-v2.",
+                  "category": "castle",
+                  "coords": [
+                        27.386318,
+                        8.755783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. John ECS, Aweil",
+                  "text": "The fortified building of St. John ECS shapes the cityscape of aweil-cities-v2.",
+                  "category": "castle",
+                  "coords": [
+                        27.386318,
+                        8.755783
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SS-BN",
     coords: [27.399, 8.767],
@@ -439,7 +763,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "rumbek-cities-v2",
+    id: "rumbek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Holy Family Cathedral",
+                  "text": "Die Holy Family Cathedral ist ein bedeutendes Gotteshaus in Rumbek.",
+                  "category": "religious",
+                  "coords": [
+                        29.66505,
+                        6.816427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holy Family Cathedral",
+                  "text": "A Szent Család-katedrális Rumbek egyik jelentős istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        29.66505,
+                        6.816427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Holy Family Cathedral",
+                  "text": "Catedrala Sfânta Familie este un lăcaș de cult important situat în Rumbek.",
+                  "category": "religious",
+                  "coords": [
+                        29.66505,
+                        6.816427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Family Cathedral",
+                  "text": "The Holy Family Cathedral is a prominent place of worship located in Rumbek.",
+                  "category": "religious",
+                  "coords": [
+                        29.66505,
+                        6.816427
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SS-LK",
     coords: [29.673, 6.811],
@@ -811,7 +1180,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
     {
-    id: "kodok-cities-v2",
+    id: "kodok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Fachoda Fort",
+                  "text": "Historische Ruinen eines Forts in Kodok, bekannt für die berühmte Faschoda-Krise.",
+                  "category": "fortress",
+                  "coords": [
+                        32.115375,
+                        9.89145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Fachoda Fort",
+                  "text": "Egy kodoki erőd történelmi romjai, amelyek a híres fashodai incidensről ismertek.",
+                  "category": "fortress",
+                  "coords": [
+                        32.115375,
+                        9.89145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Fachoda Fort",
+                  "text": "Ruinele istorice ale unui fort din Kodok, cunoscut pentru celebrul Incident Fashoda.",
+                  "category": "fortress",
+                  "coords": [
+                        32.115375,
+                        9.89145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Fachoda Fort",
+                  "text": "Historic ruins of a fort in Kodok, widely remembered for the famous Fashoda Incident.",
+                  "category": "fortress",
+                  "coords": [
+                        32.115375,
+                        9.89145
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SS-NU",
     coords: [32.112, 9.889],
@@ -952,7 +1366,124 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "leer-cities-v2",
+    id: "leer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tank. Immobilised",
+                  "text": "Die verrosteten Überreste eines zerstörten Militärpanzers dienen als eindringliches Denkmal für vergangene Konflikte in Leer.",
+                  "category": "historical",
+                  "coords": [
+                        30.137481,
+                        8.307588
+                  ]
+            },
+            {
+                  "name": "Emma's Grave",
+                  "text": "Die Grabstätte von Emma McCune, einer britischen Entwicklungshelferin, die einen lokalen Guerillakommandanten heiratete.",
+                  "category": "historical",
+                  "coords": [
+                        30.13741,
+                        8.309589
+                  ]
+            },
+            {
+                  "name": "5 burned MSF cars",
+                  "text": "Die verkohlten Überreste von fünf Fahrzeugen von Ärzte ohne Grenzen (MSF), die als düstere Erinnerung an die Gewalt in Leer zurückblieben.",
+                  "category": "historical",
+                  "coords": [
+                        30.130823,
+                        8.309254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tank. Immobilised",
+                  "text": "Egy megsemmisült katonai harckocsi rozsdásodó maradványai, amelyek a leeri konfliktusok komor emlékműveként szolgálnak.",
+                  "category": "historical",
+                  "coords": [
+                        30.137481,
+                        8.307588
+                  ]
+            },
+            {
+                  "name": "Emma's Grave",
+                  "text": "Emma McCune brit segélymunkás temetkezési helye, aki egy helyi gerillaparancsnokhoz ment feleségül.",
+                  "category": "historical",
+                  "coords": [
+                        30.13741,
+                        8.309589
+                  ]
+            },
+            {
+                  "name": "5 burned MSF cars",
+                  "text": "Az Orvosok Határok Nélkül (MSF) öt járművének kiégett roncsa, amely a leeri erőszak komor mementójaként maradt hátra.",
+                  "category": "historical",
+                  "coords": [
+                        30.130823,
+                        8.309254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tank. Immobilised",
+                  "text": "Rămășițele ruginite ale unui tanc militar distrus care servește drept monument sobru al conflictelor trecute din Leer.",
+                  "category": "historical",
+                  "coords": [
+                        30.137481,
+                        8.307588
+                  ]
+            },
+            {
+                  "name": "Emma's Grave",
+                  "text": "Locul de veci al Emmei McCune, o lucrătoare umanitară britanică care s-a căsătorit cu un comandant de gherilă local.",
+                  "category": "historical",
+                  "coords": [
+                        30.13741,
+                        8.309589
+                  ]
+            },
+            {
+                  "name": "5 burned MSF cars",
+                  "text": "Rămășițele carbonizate a cinci vehicule ale Medicilor Fără Frontiere (MSF) lăsate ca un memento sumbru al violenței din Leer.",
+                  "category": "historical",
+                  "coords": [
+                        30.130823,
+                        8.309254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tank. Immobilised",
+                  "text": "The rusted remains of a destroyed military tank serving as a stark monument to past conflicts in Leer.",
+                  "category": "historical",
+                  "coords": [
+                        30.137481,
+                        8.307588
+                  ]
+            },
+            {
+                  "name": "Emma's Grave",
+                  "text": "The burial site of Emma McCune, a British foreign aid worker who married a local guerrilla commander.",
+                  "category": "historical",
+                  "coords": [
+                        30.13741,
+                        8.309589
+                  ]
+            },
+            {
+                  "name": "5 burned MSF cars",
+                  "text": "The charred remains of five Doctors Without Borders (MSF) vehicles left as a grim reminder of violence in Leer.",
+                  "category": "historical",
+                  "coords": [
+                        30.130823,
+                        8.309254
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SS-UY",
     coords: [30.141, 8.301],

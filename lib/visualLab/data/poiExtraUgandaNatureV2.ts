@@ -46,7 +46,88 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "murchison-falls-nature-v2",
+    id: "murchison-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyamsika Cliffs",
+                  "text": "Die Nyamsika Cliffs sind ein spektakulärer natürlicher Aussichtspunkt im Murchison Falls National Park, der beliebt ist, um Wildtiere an den Flussufern zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        31.64963,
+                        2.331335
+                  ]
+            },
+            {
+                  "name": "Uhuru Falls",
+                  "text": "Die Uhuru Falls sind ein beeindruckender Nebenwasserfall, der 1962 entstand, als sich der Victoria-Nil von den Hauptfällen von Murchison abspaltete.",
+                  "category": "landmark",
+                  "coords": [
+                        31.683398,
+                        2.279197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyamsika Cliffs",
+                  "text": "A Nyamsika-sziklák egy látványos természetes kilátóhely a Murchison Falls Nemzeti Parkban, amely népszerű a folyópartok menti vadon élő állatok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        31.64963,
+                        2.331335
+                  ]
+            },
+            {
+                  "name": "Uhuru Falls",
+                  "text": "Az Uhuru-vízesés egy lenyűgöző másodlagos zuhatag, amely 1962-ben alakult ki, amikor a Viktória-Nílus leszakadt a fő Murchison-vízesésről.",
+                  "category": "landmark",
+                  "coords": [
+                        31.683398,
+                        2.279197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyamsika Cliffs",
+                  "text": "Stâncile Nyamsika reprezintă un punct de belvedere natural spectaculos din Parcul Național Murchison Falls, popular pentru observarea faunei sălbatice de-a lungul malurilor râului.",
+                  "category": "natural",
+                  "coords": [
+                        31.64963,
+                        2.331335
+                  ]
+            },
+            {
+                  "name": "Uhuru Falls",
+                  "text": "Cascada Uhuru este o cascadă secundară impresionantă care s-a format în 1962, când Nilul Victoria s-a separat de principala cascadă Murchison.",
+                  "category": "landmark",
+                  "coords": [
+                        31.683398,
+                        2.279197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyamsika Cliffs",
+                  "text": "Nyamsika Cliffs is a spectacular natural viewpoint within Murchison Falls National Park, popular for observing wildlife along the riverbanks.",
+                  "category": "natural",
+                  "coords": [
+                        31.64963,
+                        2.331335
+                  ]
+            },
+            {
+                  "name": "Uhuru Falls",
+                  "text": "Uhuru Falls is an impressive secondary cascade that was formed in 1962 when the Victoria Nile broke away from the main Murchison Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        31.683398,
+                        2.279197
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "UG-201",
     coords: [31.68, 2.28],
@@ -89,7 +170,196 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-rwenzori-nature-v2",
+    id: "mount-rwenzori-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Okusoma",
+                  "text": "Okusoma ist ein schroffer Berggipfel, der die tiefen, von Gletschern geformten Täler des Rwenzori-Massivs überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        29.881284,
+                        0.317697
+                  ]
+            },
+            {
+                  "name": "Weismann",
+                  "text": "Der Weismann Peak ist der höchste Punkt des Mount Luigi di Savoia und bietet einen Panoramablick auf die gletscherbedeckte Rwenzori-Kette.",
+                  "category": "natural",
+                  "coords": [
+                        29.887927,
+                        0.33001
+                  ]
+            },
+            {
+                  "name": "Albert",
+                  "text": "Der Albert Peak ist ein dramatischer, felsiger Gipfel inmitten der permanenten Gletscher der höchsten afrikanischen Gebirgszüge.",
+                  "category": "natural",
+                  "coords": [
+                        29.869473,
+                        0.388531
+                  ]
+            },
+            {
+                  "name": "Margherita",
+                  "text": "Als höchster Punkt Ugandas erfordert der schneebedeckte Margherita Peak von Kletterern die Überquerung riesiger Gletscher, um den Gipfel zu erreichen.",
+                  "category": "natural",
+                  "coords": [
+                        29.872954,
+                        0.385607
+                  ]
+            },
+            {
+                  "name": "Okuhandika",
+                  "text": "Okuhandika ist ein abgelegener, zerklüfteter Gipfel inmitten der außergewöhnlichen Artenvielfalt der afro-alpinen Zone des Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.872762,
+                        0.310446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Okusoma",
+                  "text": "Az Okusoma egy zord hegycsúcs, amely a Rwenzori-masszívum mély, gleccserek vájta völgyeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        29.881284,
+                        0.317697
+                  ]
+            },
+            {
+                  "name": "Weismann",
+                  "text": "A Weismann-csúcs a Luigi di Savoia hegy legmagasabb pontja, ahonnan panorámás kilátás nyílik a gleccserek borította Rwenzori-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        29.887927,
+                        0.33001
+                  ]
+            },
+            {
+                  "name": "Albert",
+                  "text": "Az Albert-csúcs egy drámai, sziklákkal teli hegycsúcs, amely Afrika legmagasabb hegységeinek állandó gleccserei között helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        29.869473,
+                        0.388531
+                  ]
+            },
+            {
+                  "name": "Margherita",
+                  "text": "Uganda legmagasabb pontjaként a hófedte Margherita-csúcs megmászásához a hegymászóknak hatalmas gleccsereken kell átkelniük.",
+                  "category": "natural",
+                  "coords": [
+                        29.872954,
+                        0.385607
+                  ]
+            },
+            {
+                  "name": "Okuhandika",
+                  "text": "Az Okuhandika egy távoli és zord csúcs a Rwenzori afro-alpesi övezetének rendkívüli biológiai sokféleségében.",
+                  "category": "natural",
+                  "coords": [
+                        29.872762,
+                        0.310446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Okusoma",
+                  "text": "Okusoma este un vârf montan accidentat care domină văile adânci, sculptate de ghețari, ale masivului Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.881284,
+                        0.317697
+                  ]
+            },
+            {
+                  "name": "Weismann",
+                  "text": "Vârful Weismann este cel mai înalt punct al Muntelui Luigi di Savoia, oferind vederi panoramice asupra lanțului Rwenzori acoperit de ghețari.",
+                  "category": "natural",
+                  "coords": [
+                        29.887927,
+                        0.33001
+                  ]
+            },
+            {
+                  "name": "Albert",
+                  "text": "Vârful Albert este o culme stâncoasă și dramatică, situată printre ghețarii permanenți ai celor mai înalte lanțuri muntoase africane.",
+                  "category": "natural",
+                  "coords": [
+                        29.869473,
+                        0.388531
+                  ]
+            },
+            {
+                  "name": "Margherita",
+                  "text": "Fiind cel mai înalt punct din Uganda, vârful înzăpezit Margherita necesită ca alpiniștii să navigheze peste ghețari imenși pentru a-i atinge culmea.",
+                  "category": "natural",
+                  "coords": [
+                        29.872954,
+                        0.385607
+                  ]
+            },
+            {
+                  "name": "Okuhandika",
+                  "text": "Okuhandika este un vârf stâncos și izolat, amplasat în mijlocul biodiversității extraordinare a zonei afro-alpine din Rwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.872762,
+                        0.310446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Okusoma",
+                  "text": "Okusoma is a rugged mountain peak that overlooks the deep, glacier-carved valleys of the Rwenzori massif.",
+                  "category": "natural",
+                  "coords": [
+                        29.881284,
+                        0.317697
+                  ]
+            },
+            {
+                  "name": "Weismann",
+                  "text": "Weismann Peak stands as the highest point of Mount Luigi di Savoia, offering panoramic views of the glacier-clad Rwenzori range.",
+                  "category": "natural",
+                  "coords": [
+                        29.887927,
+                        0.33001
+                  ]
+            },
+            {
+                  "name": "Albert Peak",
+                  "text": "Albert Peak is a dramatic, rock-strewn summit situated among the permanent glaciers of the highest African mountain ranges.",
+                  "category": "natural",
+                  "coords": [
+                        29.869473,
+                        0.388531
+                  ]
+            },
+            {
+                  "name": "Margherita Peak (Mount Stanley)",
+                  "text": "As the highest point in Uganda, the snow-capped Margherita Peak requires climbers to navigate vast glaciers to reach its summit.",
+                  "category": "natural",
+                  "coords": [
+                        29.872954,
+                        0.385607
+                  ]
+            },
+            {
+                  "name": "Okuhandika",
+                  "text": "Okuhandika is a remote and craggy summit nestled within the extraordinary biodiversity of the Rwenzori afro-alpine zone.",
+                  "category": "natural",
+                  "coords": [
+                        29.872762,
+                        0.310446
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UG-405",
     coords: [29.87, 0.38],
@@ -132,7 +402,160 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "queen-elizabeth-lake-nature-v2",
+    id: "queen-elizabeth-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mweya Elephant",
+                  "text": "Ein markantes Denkmal, das die reiche Elefantenpopulation des Queen Elizabeth Nationalparks feiert.",
+                  "category": "historical",
+                  "coords": [
+                        29.899636,
+                        -0.188665
+                  ]
+            },
+            {
+                  "name": "Mweya Kazinga Channel Boat Tour",
+                  "text": "Eine geführte Wassersafari ab Mweya, bekannt für Nahaufnahmen von Flusspferden und Krokodilen im Kazinga-Kanal.",
+                  "category": "landmark",
+                  "coords": [
+                        29.900922,
+                        -0.187082
+                  ]
+            },
+            {
+                  "name": "Hippo Gracing Point",
+                  "text": "Ein Aussichtspunkt am See, der speziell für die Beobachtung von Flusspferden in ihrem natürlichen Lebensraum bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.910135,
+                        -0.201445
+                  ]
+            },
+            {
+                  "name": "Pelican Point",
+                  "text": "Ein malerischer Aussichtspunkt am See, der hervorragende Möglichkeiten zur Pelikanbeobachtung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.827351,
+                        -0.148549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mweya Elephant",
+                  "text": "Egy jellegzetes emlékmű, amely a Queen Elizabeth Nemzeti Park gazdag elefántpopulációját ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        29.899636,
+                        -0.188665
+                  ]
+            },
+            {
+                  "name": "Mweya Kazinga Channel Boat Tour",
+                  "text": "Egy Mweyából induló vezetett vízi szafari, amely a vízilovak és krokodilok közeli megfigyeléséről híres a Kazinga-csatornában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.900922,
+                        -0.187082
+                  ]
+            },
+            {
+                  "name": "Hippo Gracing Point",
+                  "text": "A tóra néző kilátóhely, amely különösen a természetes élőhelyükön lévő vízilovak megfigyeléséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.910135,
+                        -0.201445
+                  ]
+            },
+            {
+                  "name": "Pelican Point",
+                  "text": "Festői kilátóhely a tónál, amely kiváló lehetőségeket kínál a pelikánok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        29.827351,
+                        -0.148549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mweya Elephant",
+                  "text": "Un monument distinctiv care celebrează populația bogată de elefanți din Parcul Național Queen Elizabeth.",
+                  "category": "historical",
+                  "coords": [
+                        29.899636,
+                        -0.188665
+                  ]
+            },
+            {
+                  "name": "Mweya Kazinga Channel Boat Tour",
+                  "text": "Un safari pe apă ghidat din Mweya, renumit pentru observarea de aproape a hipopotamilor și crocodililor pe Canalul Kazinga.",
+                  "category": "landmark",
+                  "coords": [
+                        29.900922,
+                        -0.187082
+                  ]
+            },
+            {
+                  "name": "Hippo Gracing Point",
+                  "text": "Un punct de belvedere pe malul lacului, cunoscut special pentru observarea hipopotamilor în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        29.910135,
+                        -0.201445
+                  ]
+            },
+            {
+                  "name": "Pelican Point",
+                  "text": "Un punct de belvedere pitoresc de pe lac, care oferă oportunități excelente pentru observarea pelicanilor.",
+                  "category": "natural",
+                  "coords": [
+                        29.827351,
+                        -0.148549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mweya Elephant",
+                  "text": "A distinctive monument celebrating the rich elephant population of Queen Elizabeth National Park.",
+                  "category": "historical",
+                  "coords": [
+                        29.899636,
+                        -0.188665
+                  ]
+            },
+            {
+                  "name": "Mweya Kazinga Channel Boat Tour",
+                  "text": "A guided water safari launching from Mweya, renowned for close-up views of hippos and crocodiles on the Kazinga Channel.",
+                  "category": "landmark",
+                  "coords": [
+                        29.900922,
+                        -0.187082
+                  ]
+            },
+            {
+                  "name": "Hippo Gracing Point",
+                  "text": "Viewpoint over the lake specifically known for observing hippos in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        29.910135,
+                        -0.201445
+                  ]
+            },
+            {
+                  "name": "Pelican Point",
+                  "text": "A scenic lake viewpoint offering excellent opportunities for pelican birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        29.827351,
+                        -0.148549
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "UG-403",
     coords: [29.9, -0.2],
@@ -175,7 +598,160 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "bunyonyi-lake-nature-v2",
+    id: "bunyonyi-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "zip line across the lake",
+                  "text": "Eine aufregende Zipline-Attraktion, bei der die Fahrgäste direkt über die weite Oberfläche des Bunyonyi-Sees schweben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930786,
+                        -1.271232
+                  ]
+            },
+            {
+                  "name": "Lake Bunyonyi",
+                  "text": "Ein atemberaubender Aussichtspunkt mit Blick auf die tiefen, terrassierten Inseln und die gewundenen Ufer des Bunyonyi-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        29.943374,
+                        -1.25881
+                  ]
+            },
+            {
+                  "name": "Lake Bunyoni rope swing",
+                  "text": "Eine aufregende Freizeitschaukel, die abenteuerlustige Besucher über die Gewässer des Bunyonyi-Sees schwingt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.922477,
+                        -1.290572
+                  ]
+            },
+            {
+                  "name": "Buhumba Viewpoint",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Panoramablick auf die malerischen Inseln des Sees und die terrassierten Hügel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.945446,
+                        -1.307032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zip line across the lake",
+                  "text": "Egy izgalmas drótkötélpálya-látványosság, amely a Bunyonyi-tó hatalmas felszíne felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930786,
+                        -1.271232
+                  ]
+            },
+            {
+                  "name": "Lake Bunyonyi",
+                  "text": "Lélegzetelállító kilátó a Bunyonyi-tó mély, teraszos szigeteire és kanyargós partjaira.",
+                  "category": "natural",
+                  "coords": [
+                        29.943374,
+                        -1.25881
+                  ]
+            },
+            {
+                  "name": "Lake Bunyoni rope swing",
+                  "text": "Egy izgalmas szabadidős kötélhinta, amely a kalandvágyó látogatókat a Bunyonyi-tó vize fölé lendíti.",
+                  "category": "landmark",
+                  "coords": [
+                        29.922477,
+                        -1.290572
+                  ]
+            },
+            {
+                  "name": "Buhumba Viewpoint",
+                  "text": "Magasított kilátópont, ahonnan elsöprő panoráma nyílik a tó festői szigeteire és a teraszos domboldalakra.",
+                  "category": "natural",
+                  "coords": [
+                        29.945446,
+                        -1.307032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zip line across the lake",
+                  "text": "O atracție cu tiroliana plină de adrenalină, care suspendă pasagerii direct deasupra suprafeței întinse a lacului Bunyonyi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930786,
+                        -1.271232
+                  ]
+            },
+            {
+                  "name": "Lake Bunyonyi",
+                  "text": "Un punct de belvedere uluitor cu vedere la insulele adânci, terasate și țărmurile șerpuitoare ale lacului Bunyonyi.",
+                  "category": "natural",
+                  "coords": [
+                        29.943374,
+                        -1.25881
+                  ]
+            },
+            {
+                  "name": "Lake Bunyoni rope swing",
+                  "text": "Un leagăn de agrement cu frânghie care îi lansează pe vizitatorii aventuroși deasupra apelor lacului Bunyonyi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.922477,
+                        -1.290572
+                  ]
+            },
+            {
+                  "name": "Buhumba Viewpoint",
+                  "text": "Un punct de observare ridicat, care oferă vederi panoramice ample asupra insulelor pitorești ale lacului și a dealurilor terasate.",
+                  "category": "natural",
+                  "coords": [
+                        29.945446,
+                        -1.307032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zip line across the lake",
+                  "text": "An exhilarating zipline attraction that suspends riders directly across the expansive surface of Lake Bunyonyi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.930786,
+                        -1.271232
+                  ]
+            },
+            {
+                  "name": "Lake Bunyonyi",
+                  "text": "A breathtaking viewpoint overlooking the deep, terraced islands and winding shores of Lake Bunyonyi.",
+                  "category": "natural",
+                  "coords": [
+                        29.943374,
+                        -1.25881
+                  ]
+            },
+            {
+                  "name": "Lake Bunyoni rope swing",
+                  "text": "A thrilling recreational rope swing that launches adventurous visitors out over the waters of Lake Bunyonyi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.922477,
+                        -1.290572
+                  ]
+            },
+            {
+                  "name": "Buhumba Viewpoint",
+                  "text": "An elevated vantage point providing sweeping panoramic views of the lake's picturesque islands and terraced hillsides.",
+                  "category": "natural",
+                  "coords": [
+                        29.945446,
+                        -1.307032
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "UG-307",
     coords: [29.95, -1.28],
@@ -304,7 +880,268 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "kibale-forest-nature-v2",
+    id: "kibale-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Top of the World",
+                  "text": "Dieser hochgelegene Aussichtspunkt auf einem Bergrücken bietet einen weiten Panoramablick über mehrere vulkanische Kraterseen und die fernen Rwenzori-Gipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        30.318965,
+                        0.514604
+                  ]
+            },
+            {
+                  "name": "Crater Lake",
+                  "text": "Dieser Aussichtspunkt bietet einen ungestörten Blick hinab in einen tief eingesunkenen, waldgesäumten Vulkankrater, der mit stillem Wasser gefüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        30.289843,
+                        0.488774
+                  ]
+            },
+            {
+                  "name": "Viewpoint all lake",
+                  "text": "Von diesem erhöhten Aussichtspunkt können Besucher die gesamte Uferlinie des von dichter tropischer Vegetation umgebenen Kratersees überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        30.259383,
+                        0.482977
+                  ]
+            },
+            {
+                  "name": "Mahoma Waterfall",
+                  "text": "Versteckt im üppigen Regenwald, stürzt dieser malerische Wasserfall über felsige Stufen in ein erfrischendes Tauchbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        30.264057,
+                        0.472477
+                  ]
+            },
+            {
+                  "name": "Place to sit near the water",
+                  "text": "Dieser ruhige Rastplatz liegt direkt am Seeufer und verfügt über Holzbänke, die von den Baumkronen des angrenzenden Waldes beschattet werden.",
+                  "category": "natural",
+                  "coords": [
+                        30.263788,
+                        0.477522
+                  ]
+            },
+            {
+                  "name": "Afritastic Planet Ruigo Lake View",
+                  "text": "Dieser spezielle Aussichtspunkt umrahmt einen ruhigen Blick auf das tiefe Wasser des Ruigo-Sees, der von steilen, grünen Kraterwänden eingeschlossen ist.",
+                  "category": "natural",
+                  "coords": [
+                        30.288113,
+                        0.430946
+                  ]
+            },
+            {
+                  "name": "Kasenda Beach",
+                  "text": "Dieser sandige Uferabschnitt am Rande eines vulkanischen Kratersees bietet einen seltenen Badeplatz in der Kasenda-Seengruppe.",
+                  "category": "recreational",
+                  "coords": [
+                        30.291628,
+                        0.432949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Top of the World",
+                  "text": "A magas hegygerincen található kilátópontról elsöprő panoráma nyílik több vulkáni krátertóra és a távoli Rwenzori-csúcsokra.",
+                  "category": "landmark",
+                  "coords": [
+                        30.318965,
+                        0.514604
+                  ]
+            },
+            {
+                  "name": "Crater Lake",
+                  "text": "Ebből a kilátóból zavartalan kilátás nyílik egy mélyen fekvő, erdővel szegélyezett és csendes vízzel teli vulkáni kráterre.",
+                  "category": "natural",
+                  "coords": [
+                        30.289843,
+                        0.488774
+                  ]
+            },
+            {
+                  "name": "Viewpoint all lake",
+                  "text": "Erről a magaslaton lévő festői kilátópontról a látogatók a sűrű trópusi növényzettel körülvett krátertó teljes partvonalát megcsodálhatják.",
+                  "category": "natural",
+                  "coords": [
+                        30.259383,
+                        0.482977
+                  ]
+            },
+            {
+                  "name": "Mahoma Waterfall",
+                  "text": "A buja esőerdőben megbúvó festői vízesés sziklás teraszokon keresztül zuhan egy frissítő vizű medencébe.",
+                  "category": "landmark",
+                  "coords": [
+                        30.264057,
+                        0.472477
+                  ]
+            },
+            {
+                  "name": "Place to sit near the water",
+                  "text": "A közvetlenül a tó partján fekvő csendes pihenőhelyen fapadok találhatók, amelyeket a határos erdő lombkoronája árnyékol.",
+                  "category": "natural",
+                  "coords": [
+                        30.263788,
+                        0.477522
+                  ]
+            },
+            {
+                  "name": "Afritastic Planet Ruigo Lake View",
+                  "text": "Ez a különleges kilátópont keretbe foglalja a meredek, zöld kráterfalakkal körülvett Ruigo-tó mély vizének nyugodt látványát.",
+                  "category": "natural",
+                  "coords": [
+                        30.288113,
+                        0.430946
+                  ]
+            },
+            {
+                  "name": "Kasenda Beach",
+                  "text": "A vulkáni krátertó partján található homokos partszakasz ritka úszási lehetőséget kínál a Kasenda-tócsoportban.",
+                  "category": "recreational",
+                  "coords": [
+                        30.291628,
+                        0.432949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Top of the World",
+                  "text": "Situat pe o creastă înaltă, acest punct de belvedere elevat oferă o panoramă vastă asupra mai multor lacuri vulcanice de crater și a vârfurilor îndepărtate din Rwenzori.",
+                  "category": "landmark",
+                  "coords": [
+                        30.318965,
+                        0.514604
+                  ]
+            },
+            {
+                  "name": "Crater Lake",
+                  "text": "Acest punct de observație oferă o privire neobstrucționată în jos, spre un crater vulcanic adânc scufundat, mărginit de pădure și umplut cu apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        30.289843,
+                        0.488774
+                  ]
+            },
+            {
+                  "name": "Viewpoint all lake",
+                  "text": "De la acest punct de belvedere înalt, vizitatorii pot admira întreaga coastă a lacului de crater înconjurat de vegetație tropicală densă.",
+                  "category": "natural",
+                  "coords": [
+                        30.259383,
+                        0.482977
+                  ]
+            },
+            {
+                  "name": "Mahoma Waterfall",
+                  "text": "Ascunsă în pădurea tropicală luxuriantă, această cascadă pitorească se revarsă peste terase stâncoase într-un bazin răcoritor.",
+                  "category": "landmark",
+                  "coords": [
+                        30.264057,
+                        0.472477
+                  ]
+            },
+            {
+                  "name": "Place to sit near the water",
+                  "text": "Amplasat direct pe marginea lacului, acest loc de odihnă liniștit dispune de bănci din lemn umbrite de coronamentul pădurii învecinate.",
+                  "category": "natural",
+                  "coords": [
+                        30.263788,
+                        0.477522
+                  ]
+            },
+            {
+                  "name": "Afritastic Planet Ruigo Lake View",
+                  "text": "Acest punct de observație specific încadrează o perspectivă liniștită a apelor adânci ale lacului Ruigo, înconjurate de pereți abrupți și verzi de crater.",
+                  "category": "natural",
+                  "coords": [
+                        30.288113,
+                        0.430946
+                  ]
+            },
+            {
+                  "name": "Kasenda Beach",
+                  "text": "Situat de-a lungul marginii unui lac vulcanic de crater, acest țărm nisipos oferă un loc rar pentru înot în grupul de lacuri Kasenda.",
+                  "category": "recreational",
+                  "coords": [
+                        30.291628,
+                        0.432949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Top of the World viewpoint",
+                  "text": "Situated on a high ridge, this elevated viewpoint offers a sweeping panoramic vista over multiple volcanic crater lakes and the distant Rwenzori peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        30.318965,
+                        0.514604
+                  ]
+            },
+            {
+                  "name": "Crater Lake",
+                  "text": "This vantage point provides an unobstructed look down into a deeply sunken, forest-fringed volcanic crater filled with still water.",
+                  "category": "natural",
+                  "coords": [
+                        30.289843,
+                        0.488774
+                  ]
+            },
+            {
+                  "name": "Viewpoint all lake",
+                  "text": "From this elevated scenic overlook, visitors can take in the entire shoreline of the crater lake surrounded by dense tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        30.259383,
+                        0.482977
+                  ]
+            },
+            {
+                  "name": "Mahoma Waterfall",
+                  "text": "Tucked within the lush rainforest, this picturesque waterfall cascades over rocky tiers into a refreshing plunge pool.",
+                  "category": "landmark",
+                  "coords": [
+                        30.264057,
+                        0.472477
+                  ]
+            },
+            {
+                  "name": "Place to sit near the water",
+                  "text": "Nestled directly on the lake's edge, this quiet resting spot features wooden benches shaded by the canopy of the bordering forest.",
+                  "category": "natural",
+                  "coords": [
+                        30.263788,
+                        0.477522
+                  ]
+            },
+            {
+                  "name": "Afritastic Planet Ruigo Lake View",
+                  "text": "This specific overlook frames a tranquil vista of Ruigo Lake's deep waters enclosed by steep, green crater walls.",
+                  "category": "natural",
+                  "coords": [
+                        30.288113,
+                        0.430946
+                  ]
+            },
+            {
+                  "name": "Kasenda Beach",
+                  "text": "Located along the edge of a volcanic crater lake, this sandy shoreline provides a rare spot for swimming in the Kasenda cluster.",
+                  "category": "recreational",
+                  "coords": [
+                        30.291628,
+                        0.432949
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "UG-405",
     coords: [30.3, 0.5],
@@ -390,7 +1227,88 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "bwinidi-forest-nature-v2",
+    id: "bwinidi-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve Naturelle de Sarambwe",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe des Bwindi-Waldes, das eine reiche Vielfalt an regionalen Wildtieren bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        29.584956,
+                        -0.98892
+                  ]
+            },
+            {
+                  "name": "Pangolin Rescue Camp",
+                  "text": "Ein spezielles Schutzcamp, das sich der Rettung, Rehabilitation und dem Schutz gefährdeter Schuppentiere widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.612706,
+                        -0.924619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve Naturelle de Sarambwe",
+                  "text": "A Bwindi erdő közelében található védett természetvédelmi terület, amely a regionális vadvilág gazdag sokszínűségét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        29.584956,
+                        -0.98892
+                  ]
+            },
+            {
+                  "name": "Pangolin Rescue Camp",
+                  "text": "Dedikált természetvédelmi tábor, amely a veszélyeztetett tobzoskák megmentésére, rehabilitációjára és védelmére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        29.612706,
+                        -0.924619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve Naturelle de Sarambwe",
+                  "text": "O rezervație naturală protejată situată în apropierea pădurii Bwindi, care protejează o diversitate bogată a faunei regionale.",
+                  "category": "natural",
+                  "coords": [
+                        29.584956,
+                        -0.98892
+                  ]
+            },
+            {
+                  "name": "Pangolin Rescue Camp",
+                  "text": "O tabără de conservare dedicată salvării, reabilitării și protejării pangolinilor pe cale de dispariție.",
+                  "category": "landmark",
+                  "coords": [
+                        29.612706,
+                        -0.924619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarambwe Nature Reserve",
+                  "text": "A protected nature reserve located near the Bwindi forest area, safeguarding a rich diversity of regional wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        29.584956,
+                        -0.98892
+                  ]
+            },
+            {
+                  "name": "Pangolin Rescue Camp",
+                  "text": "A dedicated conservation camp focused on the rescue, rehabilitation, and protection of endangered pangolins.",
+                  "category": "landmark",
+                  "coords": [
+                        29.612706,
+                        -0.924619
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "UG-307",
     coords: [29.6, -1.0],
@@ -433,7 +1351,160 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "george-lake-nature-v2",
+    id: "george-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kob Mating Grounds",
+                  "text": "Ein bekanntes Wildbeobachtungsgebiet am Lake George, wo sich Uganda-Kobs zur Paarung versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        30.06996,
+                        -0.056309
+                  ]
+            },
+            {
+                  "name": "Baboon Cliffs",
+                  "text": "Eine dramatische Klippe in der Nähe des Lake George, die weite Ausblicke und häufige Paviansichtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.944254,
+                        -0.054718
+                  ]
+            },
+            {
+                  "name": "Kikorongo Women Community",
+                  "text": "Eine kulturelle Attraktion am Lake George, wo Besucher traditionelles Handwerk und Tänze erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        29.998461,
+                        0.000581
+                  ]
+            },
+            {
+                  "name": "Equator Monument",
+                  "text": "Ein kreisförmiges Wahrzeichen in der Nähe des Lake George, das die genaue Linie des Erdäquators markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        30.001141,
+                        -0.002716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kob Mating Grounds",
+                  "text": "Egy híres vadmegfigyelő terület a George-tó közelében, ahol az ugandai mocsáriantilopok gyülekeznek párzásra.",
+                  "category": "landmark",
+                  "coords": [
+                        30.06996,
+                        -0.056309
+                  ]
+            },
+            {
+                  "name": "Baboon Cliffs",
+                  "text": "Egy drámai meredély a George-tó közelében, amely széles kilátást és gyakori pávián-észleléseket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        29.944254,
+                        -0.054718
+                  ]
+            },
+            {
+                  "name": "Kikorongo Women Community",
+                  "text": "Egy kulturális látványosság a George-tó közelében, ahol a látogatók megtapasztalhatják a hagyományos kézművességet és táncokat.",
+                  "category": "landmark",
+                  "coords": [
+                        29.998461,
+                        0.000581
+                  ]
+            },
+            {
+                  "name": "Equator Monument",
+                  "text": "Egy kör alakú emlékmű a George-tó közelében, amely a Föld egyenlítőjének pontos vonalát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.001141,
+                        -0.002716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kob Mating Grounds",
+                  "text": "O zonă renumită pentru observarea faunei sălbatice lângă Lacul George, unde se adună cobii ugandezi pentru împerechere.",
+                  "category": "landmark",
+                  "coords": [
+                        30.06996,
+                        -0.056309
+                  ]
+            },
+            {
+                  "name": "Baboon Cliffs",
+                  "text": "O escarpă dramatică lângă Lacul George, care oferă priveliști panoramice și frecvente observări de babuini.",
+                  "category": "natural",
+                  "coords": [
+                        29.944254,
+                        -0.054718
+                  ]
+            },
+            {
+                  "name": "Kikorongo Women Community",
+                  "text": "O atracție culturală lângă Lacul George, unde vizitatorii pot experimenta meșteșuguri și dansuri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        29.998461,
+                        0.000581
+                  ]
+            },
+            {
+                  "name": "Equator Monument",
+                  "text": "Un reper circular lângă Lacul George care marchează linia exactă a ecuatorului Pământului.",
+                  "category": "landmark",
+                  "coords": [
+                        30.001141,
+                        -0.002716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kob Mating Grounds",
+                  "text": "A renowned wildlife viewing area near Lake George where Uganda kobs gather for breeding.",
+                  "category": "landmark",
+                  "coords": [
+                        30.06996,
+                        -0.056309
+                  ]
+            },
+            {
+                  "name": "Baboon Cliffs",
+                  "text": "A dramatic escarpment near Lake George offering sweeping vistas and frequent baboon sightings.",
+                  "category": "natural",
+                  "coords": [
+                        29.944254,
+                        -0.054718
+                  ]
+            },
+            {
+                  "name": "Kikorongo Women Community",
+                  "text": "A cultural attraction near Lake George where visitors can experience traditional crafts and dances.",
+                  "category": "landmark",
+                  "coords": [
+                        29.998461,
+                        0.000581
+                  ]
+            },
+            {
+                  "name": "Equator Monument",
+                  "text": "A circular landmark near Lake George marking the exact line of the Earth's equator.",
+                  "category": "landmark",
+                  "coords": [
+                        30.001141,
+                        -0.002716
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "UG-403",
     coords: [30.0, 0.0],
@@ -580,7 +1651,124 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-moroto-nature-v2",
+    id: "mount-moroto-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
+                  "text": "Dieses Museum in der Nähe des Mount Moroto bewahrt und präsentiert die reichen Traditionen und handgefertigten Artefakte des lokalen Ateker-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        34.655269,
+                        2.541825
+                  ]
+            },
+            {
+                  "name": "Nakiloro Elder's Place",
+                  "text": "Dieser traditionelle Versammlungsort in der Nähe des Mount Moroto ist von immenser kultureller Bedeutung für die Ältesten der Nakiloro-Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.658964,
+                        2.52496
+                  ]
+            },
+            {
+                  "name": "Karamoja Cultural Museum",
+                  "text": "Dieses Museum am Fuße des Mount Moroto zeigt anthropologische Exponate, die den pastoralen Lebensstil des Karamojong-Volkes detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        34.684424,
+                        2.521124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
+                  "text": "Ez a Mount Moroto közelében található múzeum a helyi ateker nép gazdag hagyományait és kézműves műtárgyait őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        34.655269,
+                        2.541825
+                  ]
+            },
+            {
+                  "name": "Nakiloro Elder's Place",
+                  "text": "Ez a Mount Moroto közelében található hagyományos gyülekezőhely hatalmas kulturális jelentőséggel bír a nakiloro közösség vénei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        34.658964,
+                        2.52496
+                  ]
+            },
+            {
+                  "name": "Karamoja Cultural Museum",
+                  "text": "A Mount Moroto lábánál található múzeum antropológiai kiállításokon mutatja be a karamojong nép pásztorkodó életmódját.",
+                  "category": "museum",
+                  "coords": [
+                        34.684424,
+                        2.521124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
+                  "text": "Acest muzeu din apropierea Muntelui Moroto păstrează și expune tradițiile și artefactele artizanale bogate ale poporului local Ateker.",
+                  "category": "museum",
+                  "coords": [
+                        34.655269,
+                        2.541825
+                  ]
+            },
+            {
+                  "name": "Nakiloro Elder's Place",
+                  "text": "Acest loc tradițional de adunare din apropierea Muntelui Moroto are o imensă semnificație culturală pentru bătrânii comunității Nakiloro.",
+                  "category": "landmark",
+                  "coords": [
+                        34.658964,
+                        2.52496
+                  ]
+            },
+            {
+                  "name": "Karamoja Cultural Museum",
+                  "text": "Situat la baza Muntelui Moroto, acest muzeu prezintă expoziții antropologice care detaliază stilul de viață pastoral al poporului Karamojong.",
+                  "category": "museum",
+                  "coords": [
+                        34.684424,
+                        2.521124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
+                  "text": "This museum near Mount Moroto preserves and exhibits the rich traditions and handcrafted artifacts of the local Ateker people.",
+                  "category": "museum",
+                  "coords": [
+                        34.655269,
+                        2.541825
+                  ]
+            },
+            {
+                  "name": "Nakiloro Elder's Place",
+                  "text": "This traditional gathering site near Mount Moroto holds immense cultural significance for the respected elders of the Nakiloro community.",
+                  "category": "landmark",
+                  "coords": [
+                        34.658964,
+                        2.52496
+                  ]
+            },
+            {
+                  "name": "Karamoja Cultural Museum",
+                  "text": "Located at the base of Mount Moroto, this museum features anthropological exhibits detailing the pastoral lifestyle of the Karamojong people.",
+                  "category": "museum",
+                  "coords": [
+                        34.684424,
+                        2.521124
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UG-501",
     coords: [34.7, 2.5],
@@ -623,7 +1811,52 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-kadam-nature-v2",
+    id: "mount-kadam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beginning of the blue trail by Bartek Zobek",
+                  "text": "Dieser Ort dient als Ausgangspunkt am Mount Kadam und markiert den Beginn der von Bartek Zobek kartierten malerischen blauen Wanderroute.",
+                  "category": "landmark",
+                  "coords": [
+                        34.744173,
+                        1.832539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beginning of the blue trail by Bartek Zobek",
+                  "text": "A Mount Kadam hegyén található pont a Bartek Zobek által feltérképezett festői kék túraútvonal kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.744173,
+                        1.832539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beginning of the blue trail by Bartek Zobek",
+                  "text": "Servind ca punct de plecare pe Muntele Kadam, acest loc marchează începutul traseului pitoresc marcat cu albastru de Bartek Zobek.",
+                  "category": "landmark",
+                  "coords": [
+                        34.744173,
+                        1.832539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beginning of the blue trail by Bartek Zobek",
+                  "text": "Serving as a trailhead on Mount Kadam, this spot marks the starting point of the scenic blue hiking route mapped by Bartek Zobek.",
+                  "category": "landmark",
+                  "coords": [
+                        34.744173,
+                        1.832539
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UG-501",
     coords: [34.7, 1.8],
@@ -745,7 +1978,124 @@ export const poiExtraUgandaNatureV2: POI[] = [
       en: ["Known for its gentle slopes.", "Located in Mgahinga Gorilla National Park."]
     }, image: "/poi-images/mount-gahinga-nature-v2.webp"},
   {
-    id: "mount-muhavura-nature-v2",
+    id: "mount-muhavura-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "African Art",
+                  "text": "Die Galerie African Art stellt lokale kreative Werke in der Nähe der vulkanischen Region des Mount Muhavura aus.",
+                  "category": "museum",
+                  "coords": [
+                        29.692373,
+                        -1.282877
+                  ]
+            },
+            {
+                  "name": "ngarama batwa cave",
+                  "text": "Die Ngarama Batwa Höhle ist eine faszinierende unterirdische Attraktion in der Nähe des Mount Muhavura, die einst vom indigenen Batwa-Volk genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631523,
+                        -1.3573
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Authority",
+                  "text": "Die Uganda Wildlife Authority betreibt eine administrative Einrichtung, die Naturschutzbemühungen in der Nähe des Mount Muhavura erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.618962,
+                        -1.354789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "African Art",
+                  "text": "Az African Art galéria helyi kreatív alkotásokat állít ki a Muhavura-hegy vulkanikus régiója közelében.",
+                  "category": "museum",
+                  "coords": [
+                        29.692373,
+                        -1.282877
+                  ]
+            },
+            {
+                  "name": "ngarama batwa cave",
+                  "text": "A Ngarama Batwa barlang egy lenyűgöző földalatti látványosság a Muhavura-hegy közelében, amelyet egykor a bennszülött batwa nép használt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631523,
+                        -1.3573
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Authority",
+                  "text": "Az Uganda Wildlife Authority egy igazgatási létesítményt működtet, amely megkönnyíti a természetvédelmi erőfeszítéseket a Muhavura-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.618962,
+                        -1.354789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "African Art",
+                  "text": "Galeria African Art expune lucrări creative locale în apropierea regiunii vulcanice a Muntelui Muhavura.",
+                  "category": "museum",
+                  "coords": [
+                        29.692373,
+                        -1.282877
+                  ]
+            },
+            {
+                  "name": "ngarama batwa cave",
+                  "text": "Peștera Ngarama Batwa este o atracție subterană fascinantă lângă Muntele Muhavura, folosită odinioară de populația indigenă Batwa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631523,
+                        -1.3573
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Authority",
+                  "text": "Uganda Wildlife Authority operează o facilitate administrativă care facilitează eforturile de conservare lângă Muntele Muhavura.",
+                  "category": "landmark",
+                  "coords": [
+                        29.618962,
+                        -1.354789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Art",
+                  "text": "The African Art gallery exhibits local creative works near the volcanic Mount Muhavura region.",
+                  "category": "museum",
+                  "coords": [
+                        29.692373,
+                        -1.282877
+                  ]
+            },
+            {
+                  "name": "ngarama batwa cave",
+                  "text": "Ngarama Batwa cave is a fascinating subterranean attraction once used by the indigenous Batwa people near Mount Muhavura.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631523,
+                        -1.3573
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Authority",
+                  "text": "The Uganda Wildlife Authority operates an administrative attraction facilitating conservation efforts near Mount Muhavura.",
+                  "category": "landmark",
+                  "coords": [
+                        29.618962,
+                        -1.354789
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UG-307",
     coords: [29.65, -1.35],
@@ -960,7 +2310,52 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "gulu-lake-nature-v2",
+    id: "gulu-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taks Centre",
+                  "text": "Das Taks Centre in Gulu ist ein einnehmendes kommunales Kunstzentrum in einem Gebäude aus der Kolonialzeit, in dem Ausstellungen und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        32.297626,
+                        2.782145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taks Centre",
+                  "text": "A gului Taks Centre egy vonzó közösségi művészeti központ egy gyarmati korszakból származó épületben, amely kiállításoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        32.297626,
+                        2.782145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taks Centre",
+                  "text": "Centrul Taks din Gulu este un centru comunitar de artă atractiv, situat într-o clădire din epoca colonială, găzduind expoziții și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.297626,
+                        2.782145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taks Centre",
+                  "text": "The Taks Centre in Gulu is an engaging community arts hub set within a colonial-era building, hosting exhibitions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        32.297626,
+                        2.782145
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "UG-302",
     coords: [32.3, 2.8],
@@ -1089,7 +2484,52 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "ssese-islands-nature-v2",
+    id: "ssese-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ssese Museum",
+                  "text": "Eine kulturelle Einrichtung, die das Erbe und die Artefakte der Inselgemeinden des Victoriasees bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        32.289497,
+                        -0.323742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ssese Museum",
+                  "text": "Egy kulturális intézmény, amely megőrzi a Viktória-tó szigeti közösségeinek örökségét és tárgyi emlékeit.",
+                  "category": "museum",
+                  "coords": [
+                        32.289497,
+                        -0.323742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ssese Museum",
+                  "text": "O instituție culturală care păstrează moștenirea și artefactele comunităților insulare de pe Lacul Victoria.",
+                  "category": "museum",
+                  "coords": [
+                        32.289497,
+                        -0.323742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ssese Museum",
+                  "text": "A cultural institution preserving the heritage and artifacts of the Lake Victoria island communities.",
+                  "category": "museum",
+                  "coords": [
+                        32.289497,
+                        -0.323742
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "UG-305",
     coords: [32.3, -0.3],
@@ -1132,7 +2572,124 @@ export const poiExtraUgandaNatureV2: POI[] = [
     },
   },
   {
-    id: "kibale-river-nature-v2",
+    id: "kibale-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tree House",
+                  "text": "Dieses hoch in die Baumkronen gebaute Baumhaus aus Holz dient als erhöhter Beobachtungsposten, um Primaten und bunte tropische Vögel zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        30.40416,
+                        0.398931
+                  ]
+            },
+            {
+                  "name": "Wetland guides with KAFRED",
+                  "text": "Lokale Experten dieses von der Gemeinde geführten Programms führen Besucher über einen erhöhten Holzsteg, um Affen und den Riesenturako im Sumpf zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.408664,
+                        0.406038
+                  ]
+            },
+            {
+                  "name": "Bigodi Wetland",
+                  "text": "Dieses riesige, papyrusgesäumte Sumpfgebiet am Rande des Kibale-Waldes ist berühmt für seine dichte Population von Primaten und Feuchtgebietsvögeln.",
+                  "category": "landmark",
+                  "coords": [
+                        30.40068,
+                        0.388879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tree House",
+                  "text": "Az erdő lombkoronájába épített faház magaslati búvóhelyként szolgál a főemlősök és a színes trópusi madarak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        30.40416,
+                        0.398931
+                  ]
+            },
+            {
+                  "name": "Wetland guides with KAFRED",
+                  "text": "E közösségi program helyi szakértői egy megemelt deszkapallón vezetik végig a látogatókat, hogy majmokat és óriás turákókat figyeljenek meg a mocsárban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.408664,
+                        0.406038
+                  ]
+            },
+            {
+                  "name": "Bigodi Wetland",
+                  "text": "A Kibale-erdővel határos, hatalmas, papirusszal szegélyezett mocsár, ez a menedékhely híres a sűrű főemlős- és vízimadár-populációjáról.",
+                  "category": "landmark",
+                  "coords": [
+                        30.40068,
+                        0.388879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tree House",
+                  "text": "Construită la înălțime în coronamentul pădurii, această căsuță din copac din lemn servește ca o ascunzătoare ridicată pentru observarea primatelor și a păsărilor tropicale colorate.",
+                  "category": "natural",
+                  "coords": [
+                        30.40416,
+                        0.398931
+                  ]
+            },
+            {
+                  "name": "Wetland guides with KAFRED",
+                  "text": "Experții locali ai acestui program condus de comunitate ghidează vizitatorii pe o pasarelă înălțată pentru a observa maimuțe și marele turaco albastru în mlaștină.",
+                  "category": "landmark",
+                  "coords": [
+                        30.408664,
+                        0.406038
+                  ]
+            },
+            {
+                  "name": "Bigodi Wetland",
+                  "text": "O mlaștină vastă, mărginită de papirus, aflată la marginea Pădurii Kibale, acest sanctuar este renumit pentru populația sa densă de primate și specii de păsări de zonă umedă.",
+                  "category": "landmark",
+                  "coords": [
+                        30.40068,
+                        0.388879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tree House",
+                  "text": "Built high into the forest canopy, this wooden tree house serves as an elevated hide for spotting primates and colourful tropical birds.",
+                  "category": "natural",
+                  "coords": [
+                        30.40416,
+                        0.398931
+                  ]
+            },
+            {
+                  "name": "Wetland guides with KAFRED",
+                  "text": "Local experts from this community-run program lead visitors along a raised boardwalk to spot monkeys and the Great Blue Turaco in the swamp.",
+                  "category": "landmark",
+                  "coords": [
+                        30.408664,
+                        0.406038
+                  ]
+            },
+            {
+                  "name": "Bigodi Wetland",
+                  "text": "A vast, papyrus-fringed swamp bordering Kibale Forest, this sanctuary is famous for its dense population of primates and wetland bird species.",
+                  "category": "landmark",
+                  "coords": [
+                        30.40068,
+                        0.388879
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "UG-405",
     coords: [30.4, 0.4],

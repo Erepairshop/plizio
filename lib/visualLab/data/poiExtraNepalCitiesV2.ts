@@ -3496,7 +3496,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Changu Narayan Temple",
-                  "text": "Der Changu Narayan Temple ist ein berühmtes historisches Denkmal in Kageshwari-Manohara.",
+                  "text": "Changu Narayan Tempel bei Manohara, hinduistischer Vishnu-Tempel auf einem Hügel, UNESCO-Welterbe.",
                   "category": "historical",
                   "coords": [
                         85.427897,
@@ -3525,7 +3525,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Changu Narayan Temple",
-                  "text": "A Changu Narayan Temple egy híres történelmi műemlék Kageshwari-Manohara területén.",
+                  "text": "Changu Narayan templom Manohara közelében, hindu Visnu-templom egy dombon, UNESCO világörökség.",
                   "category": "historical",
                   "coords": [
                         85.427897,
@@ -3554,7 +3554,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Changu Narayan Temple",
-                  "text": "Changu Narayan Temple este un renumit monument istoric din Kageshwari-Manohara.",
+                  "text": "Templul Changu Narayan lângă Manohara, templu hindus dedicat lui Vishnu pe o colină, patrimoniu UNESCO.",
                   "category": "historical",
                   "coords": [
                         85.427897,
@@ -3583,7 +3583,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Changu Narayan Temple",
-                  "text": "The Changu Narayan Temple is a famous historical monument in Kageshwari-Manohara.",
+                  "text": "Changu Narayan Temple near Manohara, a Hindu temple dedicated to Vishnu on a hilltop, UNESCO World Heritage.",
                   "category": "historical",
                   "coords": [
                         85.427897,

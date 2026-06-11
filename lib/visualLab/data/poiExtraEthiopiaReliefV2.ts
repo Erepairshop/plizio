@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraEthiopiaReliefV2: POI[] = [
   {
-    id: "ras-dashen-relief-v2",
+    id: "ras-dashen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ras Dashen",
+                  "text": "Der höchste Gipfel Äthiopiens, der die dramatische Landschaft des Simien-Gebirges dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        38.368456,
+                        13.236426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ras Dashen",
+                  "text": "Etiópia legmagasabb csúcsa, amely a Simien-hegység drámai táját uralja.",
+                  "category": "natural",
+                  "coords": [
+                        38.368456,
+                        13.236426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ras Dashen",
+                  "text": "Cel mai înalt vârf din Etiopia, dominând peisajul dramatic al Munților Simien.",
+                  "category": "natural",
+                  "coords": [
+                        38.368456,
+                        13.236426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ras Dashen",
+                  "text": "The highest peak in Ethiopia, dominating the dramatic landscape of the Simien Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        38.368456,
+                        13.236426
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ET-AM",
     coords: [38.37, 13.23],
@@ -95,7 +140,52 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       fr: ["Altitude : 4377 m", "Écosystème important", "Origine volcanique"],
     }, image: "/poi-images/tulu-dimtu-relief-v2.webp"},
   {
-    id: "danakil-depresion-relief-v2",
+    id: "danakil-depresion-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kusrawad",
+                  "text": "Eine Sehenswürdigkeit in der extremen, trockenen Vulkanlandschaft der Danakil-Senke.",
+                  "category": "landmark",
+                  "coords": [
+                        40.510529,
+                        13.447096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kusrawad",
+                  "text": "Látványosság a Danakil-mélyföld szélsőséges, kietlen vulkáni vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        40.510529,
+                        13.447096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kusrawad",
+                  "text": "O atracție situată în peisajul vulcanic arid și extrem al Depresiunii Danakil.",
+                  "category": "landmark",
+                  "coords": [
+                        40.510529,
+                        13.447096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kusrawad",
+                  "text": "An attraction set in the extreme, arid volcanic landscape of the Danakil Depression.",
+                  "category": "landmark",
+                  "coords": [
+                        40.510529,
+                        13.447096
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ET-AF",
     coords: [40.5, 13.5],
@@ -185,7 +275,52 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       fr: ["Lac de lave permanent", "Altitude : 613 m", "Visité par des chercheurs"],
     }, image: "/poi-images/er-ta-ale-relief-v2.webp"},
   {
-    id: "mount-abu-relief-v2",
+    id: "mount-abu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viewpoint with iconic photo of Haile Selassie",
+                  "text": "Dieser Aussichtspunkt ist historisch bedeutsam, da er das ikonische Foto des ehemaligen Kaisers Haile Selassie zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        39.150738,
+                        8.463601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viewpoint with iconic photo of Haile Selassie",
+                  "text": "Ez a kilátó történelmi jelentőségű, mivel a korábbi császár, Haile Selassie ikonikus fotóját mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        39.150738,
+                        8.463601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viewpoint with iconic photo of Haile Selassie",
+                  "text": "Acest punct de belvedere are o semnificație istorică, deoarece prezintă fotografia iconică a fostului împărat Haile Selassie.",
+                  "category": "natural",
+                  "coords": [
+                        39.150738,
+                        8.463601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint with iconic photo of Haile Selassie",
+                  "text": "This viewpoint holds historical significance as it features the iconic photograph of former Emperor Haile Selassie.",
+                  "category": "natural",
+                  "coords": [
+                        39.150738,
+                        8.463601
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ET-OR",
     coords: [39.1, 8.5],
@@ -494,7 +629,160 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-kono-relief-v2",
+    id: "mount-kono-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Weavers cooperative",
+                  "text": "Die Weberkooperative in der Nähe des Mount Kono präsentiert die komplizierten Handwebtechniken lokaler Handwerker.",
+                  "category": "landmark",
+                  "coords": [
+                        37.572765,
+                        6.171639
+                  ]
+            },
+            {
+                  "name": "Lookout Dorze Lodge",
+                  "text": "Die Lookout Dorze Lodge ist ein erhöhter Aussichtspunkt mit weitem Blick über die traditionellen Dörfer und die Landschaften des Grabenbruchs.",
+                  "category": "natural",
+                  "coords": [
+                        37.579995,
+                        6.178911
+                  ]
+            },
+            {
+                  "name": "Dorze",
+                  "text": "Die Siedlung Dorze ist berühmt für ihre hoch aufragenden gewebten Bambushütten und lebendigen Webtraditionen.",
+                  "category": "landmark",
+                  "coords": [
+                        37.574345,
+                        6.194857
+                  ]
+            },
+            {
+                  "name": "Pottery Association",
+                  "text": "Die Pottery Association zeigt das regionale Handwerk der Herstellung traditioneller Tongefäße und Keramiken.",
+                  "category": "landmark",
+                  "coords": [
+                        37.570682,
+                        6.199524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weavers cooperative",
+                  "text": "A Kono-hegy közelében található takácsszövetkezet a helyi kézművesek bonyolult kézi szövési technikáit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        37.572765,
+                        6.171639
+                  ]
+            },
+            {
+                  "name": "Lookout Dorze Lodge",
+                  "text": "A Lookout Dorze Lodge egy magasan fekvő kilátópont, ahonnan elsöprő kilátás nyílik a hagyományos falvakra és a hasadékvölgy tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        37.579995,
+                        6.178911
+                  ]
+            },
+            {
+                  "name": "Dorze",
+                  "text": "Dorze települése a magasba tornyosuló szőtt bambuszkunyhóiról és a vibráló szövési hagyományairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        37.574345,
+                        6.194857
+                  ]
+            },
+            {
+                  "name": "Pottery Association",
+                  "text": "A Fazekas Egyesület a hagyományos agyagedények és kerámiák készítésének regionális mesterségét emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        37.570682,
+                        6.199524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weavers cooperative",
+                  "text": "Cooperativa de țesători din apropierea Muntelui Kono prezintă tehnicile complicate de țesut manual ale artizanilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        37.572765,
+                        6.171639
+                  ]
+            },
+            {
+                  "name": "Lookout Dorze Lodge",
+                  "text": "Lookout Dorze Lodge este un punct de belvedere înalt care oferă o panoramă vastă asupra satelor tradiționale și a peisajelor văii Marelui Rift.",
+                  "category": "natural",
+                  "coords": [
+                        37.579995,
+                        6.178911
+                  ]
+            },
+            {
+                  "name": "Dorze",
+                  "text": "Așezarea Dorze este renumită pentru colibele sale înalte din bambus împletit și pentru tradițiile vibrante de țesut.",
+                  "category": "landmark",
+                  "coords": [
+                        37.574345,
+                        6.194857
+                  ]
+            },
+            {
+                  "name": "Pottery Association",
+                  "text": "Asociația de olărit evidențiază meșteșugul regional de creare a vaselor tradiționale din lut și a ceramicii.",
+                  "category": "landmark",
+                  "coords": [
+                        37.570682,
+                        6.199524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weavers cooperative",
+                  "text": "The Weavers cooperative near Mount Kono showcases the intricate hand-looming techniques of local artisans.",
+                  "category": "landmark",
+                  "coords": [
+                        37.572765,
+                        6.171639
+                  ]
+            },
+            {
+                  "name": "Lookout Dorze Lodge",
+                  "text": "Lookout Dorze Lodge is an elevated viewpoint offering sweeping vistas over the traditional villages and rift valley landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        37.579995,
+                        6.178911
+                  ]
+            },
+            {
+                  "name": "Dorze",
+                  "text": "The settlement of Dorze is famous for its towering woven bamboo huts and vibrant weaving traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        37.574345,
+                        6.194857
+                  ]
+            },
+            {
+                  "name": "Pottery Association",
+                  "text": "The Pottery Association highlights the regional craft of creating traditional clay vessels and ceramics.",
+                  "category": "landmark",
+                  "coords": [
+                        37.570682,
+                        6.199524
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ET-SN",
     coords: [37.5, 6.2],

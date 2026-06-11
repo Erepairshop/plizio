@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraNigerLifeV2: POI[] = [
   {
-    id: "tapoa-animal-habitat-life-v2",
+    id: "tapoa-animal-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradore",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über den Lebensraum der Tiere im Tapoa-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        2.411064,
+                        12.466871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradore",
+                  "text": "Ez a kilátó széles kilátást nyújt a Tapoa-völgy állatainak élőhelyére.",
+                  "category": "natural",
+                  "coords": [
+                        2.411064,
+                        12.466871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradore",
+                  "text": "Acest punct de belvedere oferă o priveliște vastă asupra habitatului animalelor din valea Tapoa.",
+                  "category": "natural",
+                  "coords": [
+                        2.411064,
+                        12.466871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradore",
+                  "text": "This viewpoint offers a wide panorama over the animal habitat in the Tapoa valley.",
+                  "category": "natural",
+                  "coords": [
+                        2.411064,
+                        12.466871
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NE-TI",
     coords: [2.35, 12.51],
@@ -183,7 +228,160 @@ export const poiExtraNigerLifeV2: POI[] = [
     },
   },
   {
-    id: "doso-kid-landmark-life-v2",
+    id: "doso-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "Dieses Willkommensmonument begrüßt Besucher an der Hauptzufahrt zur Stadt Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "Das regionale Museum in Dosso widmet sich der Geschichte und Kultur des lokalen Djermakoye-Herrschers.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "Das Artisanat-Museum in Dosso stellt traditionelle lokale Handwerkskunst und handgefertigte Produkte aus.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "Dieser zentrale Platz und das Monument in Dosso sind nach den traditionellen Herrschern der Zarma benannt.",
+                  "category": "historical",
+                  "coords": [
+                        3.200326,
+                        13.042453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "Ez az üdvözlő emlékmű a Dosso városának főbejáratánál fogadja a látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "A dossoi regionális múzeum a helyi Djermakoye uralkodó történelmének és kultúrájának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "A dossoi Artisanat múzeum a hagyományos helyi kézművességet és a kézzel készített termékeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "Ezt a központi teret és dossoi emlékművet a zarmák hagyományos uralkodóiról nevezték el.",
+                  "category": "historical",
+                  "coords": [
+                        3.200326,
+                        13.042453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "Acest monument de bun venit întâmpină vizitatorii la intrarea principală în orașul Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "Muzeul regional din Dosso este dedicat istoriei și culturii conducătorului local Djermakoye.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "Muzeul Artisanat din Dosso expune meșteșuguri locale tradiționale și produse lucrate manual.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "Această piață centrală și monumentul din Dosso sunt numite după conducătorii tradiționali Zarma.",
+                  "category": "historical",
+                  "coords": [
+                        3.200326,
+                        13.042453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "This welcome monument greets visitors at the main entrance to the city of Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "The regional museum in Dosso is dedicated to the history and culture of the local Djermakoye ruler.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "The Artisanat museum in Dosso exhibits traditional local craftsmanship and handmade products.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "This central square and monument in Dosso are named after the traditional rulers of the Zarma.",
+                  "category": "historical",
+                  "coords": [
+                        3.200326,
+                        13.042453
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NE-DO",
     coords: [3.20, 13.04],
@@ -219,7 +417,196 @@ export const poiExtraNigerLifeV2: POI[] = [
     },
   },
   {
-    id: "agadez-kamel-habitat-life-v2",
+    id: "agadez-kamel-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "Ein Kunsthandwerkszentrum, das traditionelle handgemachte Waren aus Agadez präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970327
+                  ]
+            },
+            {
+                  "name": "Sultanat d'Agadez",
+                  "text": "Der historische befestigte Palast des Sultanats in Agadez.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Flamme de la paix",
+                  "text": "Ein Denkmal in Agadez, das als Symbol für den Frieden errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        8.007328,
+                        17.001405
+                  ]
+            },
+            {
+                  "name": "Bretelle",
+                  "text": "Ein öffentliches Denkmal im Stadtgebiet von Agadez.",
+                  "category": "historical",
+                  "coords": [
+                        8.040537,
+                        16.982275
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "Eine Bühne und Tribüne im Jugendzentrum für kulturelle Aufführungen in Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988607,
+                        16.982058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "Egy kézműves központ, amely hagyományos agadezi termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970327
+                  ]
+            },
+            {
+                  "name": "Sultanat d'Agadez",
+                  "text": "A szultánság történelmi erődített palotája Agadezben.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Flamme de la paix",
+                  "text": "Egy békeszimbólumként emelt emlékmű Agadezben.",
+                  "category": "historical",
+                  "coords": [
+                        8.007328,
+                        17.001405
+                  ]
+            },
+            {
+                  "name": "Bretelle",
+                  "text": "Egy köztéri emlékmű Agadez városában.",
+                  "category": "historical",
+                  "coords": [
+                        8.040537,
+                        16.982275
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "Az ifjúsági központ színpada és lelátója kulturális előadásokhoz Agadezben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988607,
+                        16.982058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "Un centru de artizanat ce prezintă mărfuri tradiționale din Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970327
+                  ]
+            },
+            {
+                  "name": "Sultanat d'Agadez",
+                  "text": "Palatul istoric fortificat al sultanatului din Agadez.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Flamme de la paix",
+                  "text": "Un monument ridicat ca simbol al păcii în Agadez.",
+                  "category": "historical",
+                  "coords": [
+                        8.007328,
+                        17.001405
+                  ]
+            },
+            {
+                  "name": "Bretelle",
+                  "text": "Un monument public în spațiul urban din Agadez.",
+                  "category": "historical",
+                  "coords": [
+                        8.040537,
+                        16.982275
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "O scenă și o tribună la centrul de tineret pentru spectacole culturale în Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988607,
+                        16.982058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "An artisan center showcasing traditional handmade crafts from Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970327
+                  ]
+            },
+            {
+                  "name": "Sultanat d'Agadez",
+                  "text": "The historic fortified palace of the Sultanate in Agadez.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Flamme de la paix",
+                  "text": "A monument erected as a symbol of peace in Agadez.",
+                  "category": "historical",
+                  "coords": [
+                        8.007328,
+                        17.001405
+                  ]
+            },
+            {
+                  "name": "Bretelle",
+                  "text": "A public monument located in the urban area of Agadez.",
+                  "category": "historical",
+                  "coords": [
+                        8.040537,
+                        16.982275
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "A stage and grandstand at the youth center for cultural performances in Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988607,
+                        16.982058
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NE-AG",
     coords: [7.99, 16.97],
@@ -255,7 +642,88 @@ export const poiExtraNigerLifeV2: POI[] = [
     },
   },
   {
-    id: "zinder-land-kid-life-v2",
+    id: "zinder-land-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "Der traditionell befestigte Sitz des Sultanats in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "Ein regionales Museum, das die Kultur und Geschichte von Zinder ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "A zinderi szultánság hagyományos erődített székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "Egy regionális múzeum, amely Zinder kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "Sediul fortificat tradițional al Sultanatului din Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "Un muzeu regional care expune cultura și istoria localității Zinder.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "The traditional fortified seat of the Sultanate in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "A regional museum displaying the culture and history of Zinder.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NE-ZI",
     coords: [8.99, 13.80],
@@ -291,7 +759,88 @@ export const poiExtraNigerLifeV2: POI[] = [
     },
   },
   {
-    id: "diffa-agri-life-v2",
+    id: "diffa-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "Diese monumentale Torstruktur dient als traditionelles architektonisches Wahrzeichen und markiert die Zugangspunkte in der Region Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "Diese monumentale Tribüne überblickt die Sandpisten des lokalen Hippodroms und bietet erhöhte Sitzplätze für Reitveranstaltungen in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "Ez a monumentális kapuépítmény hagyományos építészeti tájékozódási pontként szolgál, amely a Diffa régió belépési pontjait jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "A helyi hippodrom homokos pályáira néző monumentális lelátó magasított ülőhelyeket kínál a lovas eseményekhez Diffában.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "Această structură monumentală de poartă servește ca punct de reper arhitectural tradițional, marcând punctele de intrare în regiunea Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "Având vedere la pistele de nisip ale hipodromului local, această tribună monumentală oferă locuri la înălțime pentru evenimentele ecvestre din Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "This monumental gateway structure serves as a traditional architectural landmark marking entry points in the Diffa region.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "Overlooking the sandy tracks of the local hippodrome, this monumental grandstand offers elevated seating for equestrian events in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NE-DI",
     coords: [12.61, 13.31],
@@ -327,7 +876,88 @@ export const poiExtraNigerLifeV2: POI[] = [
     },
   },
   {
-    id: "tahoua-zoo-life-v2",
+    id: "tahoua-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "Ein Denkmal entlang der Avenue Mamadou Tandja in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "Eine lokale Attraktion in Tahoua, die der afrikanischen Renaissance gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "Egy emlékmű a tahouai Mamadou Tandja sugárút mentén.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "Egy tahouai látványosság, amelyet az afrikai reneszánsznak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "Un monument situat de-a lungul bulevardului Mamadou Tandja din Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "O atracție locală din Tahoua dedicată renașterii africane.",
+                  "category": "landmark",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "A monument located along the Avenue Mamadou Tandja in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "A local attraction in Tahoua dedicated to the African Renaissance.",
+                  "category": "landmark",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NE-TA",
     coords: [5.27, 14.89],
@@ -687,7 +1317,52 @@ export const poiExtraNigerLifeV2: POI[] = [
     },
   },
   {
-    id: "kollo-mango-life-v2",
+    id: "kollo-mango-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison des Jeunes et de la Culture",
+                  "text": "Die Maison des Jeunes et de la Culture fungiert als kommunales Kunstzentrum und fördert den lokalen kreativen Ausdruck sowie Jugendaktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        2.312082,
+                        13.34325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison des Jeunes et de la Culture",
+                  "text": "A Maison des Jeunes et de la Culture közösségi művészeti központként működik, elősegítve a helyi kreatív kifejezést és az ifjúsági tevékenységeket.",
+                  "category": "cultural",
+                  "coords": [
+                        2.312082,
+                        13.34325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison des Jeunes et de la Culture",
+                  "text": "Maison des Jeunes et de la Culture funcționează ca un centru comunitar de arte, încurajând expresia creativă locală și activitățile pentru tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        2.312082,
+                        13.34325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison des Jeunes et de la Culture",
+                  "text": "The Maison des Jeunes et de la Culture operates as a community arts centre, fostering local creative expression and youth activities.",
+                  "category": "cultural",
+                  "coords": [
+                        2.312082,
+                        13.34325
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NE-NI",
     coords: [2.33, 13.30],

@@ -2904,7 +2904,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Neugotische römisch-katholische Kirche, erbaut 1864.",
+                  "text": "1864 erbaute Sebastianskirche.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -3059,7 +3059,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Neogótikus római katolikus templom, 1864-ben épült.",
+                  "text": "1864-ben épült Szent Sebestyén-templom.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -3214,7 +3214,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Biserică romano-catolică neogotică construită în 1864.",
+                  "text": "Biserica Sfântul Sebastian, construită în 1864.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -3369,7 +3369,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Neo-Gothic Roman Catholic church built in 1864.",
+                  "text": "Saint Sebastian church built in 1864.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -10264,7 +10264,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
       "de": [
             {
                   "name": "Ruine du Château d'Ottange",
-                  "text": "Überreste einer historischen Burganlage.",
+                  "text": "Geschützte Burgruine.",
                   "category": "castle",
                   "coords": [
                         6.026818,
@@ -10365,7 +10365,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
       "hu": [
             {
                   "name": "Ruine du Château d'Ottange",
-                  "text": "Egy történelmi vár romjai.",
+                  "text": "Védett várrom.",
                   "category": "castle",
                   "coords": [
                         6.026818,
@@ -10466,7 +10466,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
       "ro": [
             {
                   "name": "Ruine du Château d'Ottange",
-                  "text": "Ruinele unui castel istoric.",
+                  "text": "Ruina de castel protejată.",
                   "category": "castle",
                   "coords": [
                         6.026818,
@@ -10567,7 +10567,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
       "en": [
             {
                   "name": "Ruine du Château d'Ottange",
-                  "text": "The ruins of a historic castle structure.",
+                  "text": "Listed castle ruin.",
                   "category": "castle",
                   "coords": [
                         6.026818,

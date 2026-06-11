@@ -29,7 +29,232 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       en: ["The Kalahari covers parts of Botswana, Namibia, and South Africa, totaling 900,000 km².", "The name is derived from the Tswana word 'Kgala', which means 'the great thirst'.", "The Central Kalahari Game Reserve is the second-largest game reserve in the world at 52,800 km².", "The sand dunes of the Kalahari form the longest continuous stretch of sand on Earth.", "Temperatures can rise above 45°C in summer and fall below 0°C at night in winter.", "There are no permanent surface waters in the Kalahari except after rare periods of rainfall."],
     }, image: "/poi-images/kalahari-desert-relief-v2.webp"},
   {
-    id: "okavango-delta-relief-v2",
+    id: "okavango-delta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eastern Pan",
+                  "text": "Die Eastern Pan ist eine saisonal ausgetrocknete Senke im Okavango-Delta, die nach Regenfällen eine vielfältige Tierwelt anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        22.794604,
+                        -19.219308
+                  ]
+            },
+            {
+                  "name": "Tully Tully Bridge",
+                  "text": "Die Tully Tully Bridge bietet eine wichtige rustikale Überquerung über die wechselnden Fluten des Okavango-Deltas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778718,
+                        -19.223025
+                  ]
+            },
+            {
+                  "name": "Little Mombo Rutanda",
+                  "text": "Little Mombo Rutanda ist eine abgelegene Wildtierattraktion tief in den üppigen Überschwemmungsgebieten des Okavango-Deltas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.779455,
+                        -19.228385
+                  ]
+            },
+            {
+                  "name": "Far Eastern Pan",
+                  "text": "Die Far Eastern Pan ist eine flache, sonnengebackene Salzpfanne, die sich während der Regenzeit in eine aktive Wasserstelle verwandelt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.802698,
+                        -19.222377
+                  ]
+            },
+            {
+                  "name": "two Baobab Trees",
+                  "text": "Diese beiden massiven, uralten Affenbrotbäume dienen als markantes Naturdenkmal mit Blick auf die flachen Weiten des Deltas.",
+                  "category": "natural",
+                  "coords": [
+                        22.863573,
+                        -19.252762
+                  ]
+            },
+            {
+                  "name": "Okavango Delta",
+                  "text": "Das als UNESCO-Weltkulturerbe anerkannte Okavango-Delta ist ein riesiges Binnenflusssystem, das eine weite Savanne überschwemmt, anstatt in den Ozean zu fließen.",
+                  "category": "natural",
+                  "coords": [
+                        22.88391,
+                        -19.323186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eastern Pan",
+                  "text": "Az Eastern Pan egy szezonálisan kiszáradt mélyedés az Okavango-deltában, amely az esőzések idején változatos vadvilágot vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        22.794604,
+                        -19.219308
+                  ]
+            },
+            {
+                  "name": "Tully Tully Bridge",
+                  "text": "A Tully Tully híd fontos rusztikus átkelőhelyet biztosít az Okavango-delta változó árterületein.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778718,
+                        -19.223025
+                  ]
+            },
+            {
+                  "name": "Little Mombo Rutanda",
+                  "text": "A Little Mombo Rutanda egy félreeső vadvilági látványosság, amely mélyen az Okavango-delta buja ártereiben található.",
+                  "category": "landmark",
+                  "coords": [
+                        22.779455,
+                        -19.228385
+                  ]
+            },
+            {
+                  "name": "Far Eastern Pan",
+                  "text": "A Far Eastern Pan egy sekély, nap által kiszárított sóserpenyő, amely az esős évszakban aktív itatóvá változik.",
+                  "category": "landmark",
+                  "coords": [
+                        22.802698,
+                        -19.222377
+                  ]
+            },
+            {
+                  "name": "two Baobab Trees",
+                  "text": "Ez a két masszív, ősi baobab fa feltűnő természeti tájékozódási pontként szolgál, kilátással a delta sík kiterjedésére.",
+                  "category": "natural",
+                  "coords": [
+                        22.863573,
+                        -19.252762
+                  ]
+            },
+            {
+                  "name": "Okavango Delta",
+                  "text": "Az UNESCO Világörökség részeként elismert Okavango-delta egy hatalmas szárazföldi folyórendszer, amely az óceán helyett egy hatalmas szavannát áraszt el.",
+                  "category": "natural",
+                  "coords": [
+                        22.88391,
+                        -19.323186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eastern Pan",
+                  "text": "Eastern Pan este o depresiune sezonieră uscată din Delta Okavango, atrăgând o faună diversă atunci când se umple cu apă de ploaie.",
+                  "category": "landmark",
+                  "coords": [
+                        22.794604,
+                        -19.219308
+                  ]
+            },
+            {
+                  "name": "Tully Tully Bridge",
+                  "text": "Podul Tully Tully oferă o trecere rustică esențială peste apele inundabile schimbătoare din Delta Okavango.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778718,
+                        -19.223025
+                  ]
+            },
+            {
+                  "name": "Little Mombo Rutanda",
+                  "text": "Little Mombo Rutanda este o atracție cu faună sălbatică izolată, situată adânc în luncile luxuriante ale Deltei Okavango.",
+                  "category": "landmark",
+                  "coords": [
+                        22.779455,
+                        -19.228385
+                  ]
+            },
+            {
+                  "name": "Far Eastern Pan",
+                  "text": "Far Eastern Pan este o depresiune sărată, prăjită de soare, care se transformă într-o adăpătoare activă în timpul sezonului ploios.",
+                  "category": "landmark",
+                  "coords": [
+                        22.802698,
+                        -19.222377
+                  ]
+            },
+            {
+                  "name": "two Baobab Trees",
+                  "text": "Acești doi baobabi masivi și străvechi servesc drept punct de reper natural impresionant, cu vedere spre întinderile plate ale deltei.",
+                  "category": "natural",
+                  "coords": [
+                        22.863573,
+                        -19.252762
+                  ]
+            },
+            {
+                  "name": "Okavango Delta",
+                  "text": "Recunoscută ca sit al Patrimoniului Mondial UNESCO, Delta Okavango este un imens sistem hidrografic interior care inundă o vastă savană, în loc să se verse în ocean.",
+                  "category": "natural",
+                  "coords": [
+                        22.88391,
+                        -19.323186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eastern Pan",
+                  "text": "Eastern Pan is a dried seasonal depression in the Okavango Delta, attracting diverse wildlife when filled with rainwater.",
+                  "category": "landmark",
+                  "coords": [
+                        22.794604,
+                        -19.219308
+                  ]
+            },
+            {
+                  "name": "Tully Tully Bridge",
+                  "text": "The Tully Tully Bridge provides an essential rustic crossing over the shifting floodwaters of the Okavango Delta.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778718,
+                        -19.223025
+                  ]
+            },
+            {
+                  "name": "Little Mombo Rutanda",
+                  "text": "Little Mombo Rutanda is a remote wildlife attraction situated deep within the lush floodplains of the Okavango Delta.",
+                  "category": "landmark",
+                  "coords": [
+                        22.779455,
+                        -19.228385
+                  ]
+            },
+            {
+                  "name": "Far Eastern Pan",
+                  "text": "The Far Eastern Pan is a shallow, sun-baked salt pan that transforms into an active watering hole during the wet season.",
+                  "category": "landmark",
+                  "coords": [
+                        22.802698,
+                        -19.222377
+                  ]
+            },
+            {
+                  "name": "two Baobab Trees",
+                  "text": "These two massive, ancient baobab trees serve as a striking natural landmark overlooking the flat expanses of the delta.",
+                  "category": "natural",
+                  "coords": [
+                        22.863573,
+                        -19.252762
+                  ]
+            },
+            {
+                  "name": "Okavango Delta",
+                  "text": "Recognized as a UNESCO World Heritage site, the Okavango Delta is an immense inland river system that floods a vast savanna rather than flowing into the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        22.88391,
+                        -19.323186
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BW-NW",
     coords: [22.8, -19.3],
@@ -82,7 +307,232 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     },
   },
   {
-    id: "tsodilo-hills-mountain-v2",
+    id: "tsodilo-hills-mountain-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lion",
+                  "text": "Diese spezielle Felszeichnungsplatte in den Tsodilo-Bergen zeigt die antike Darstellung eines Löwen und veranschaulicht das kulturelle Erbe der San.",
+                  "category": "landmark",
+                  "coords": [
+                        21.751817,
+                        -18.758967
+                  ]
+            },
+            {
+                  "name": "Whale and Penguin",
+                  "text": "Das faszinierende Felsbild von Wal und Pinguin ist eines der rätselhaftesten Kunstwerke in den alten Unterständen der Tsodilo-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        21.74705,
+                        -18.761217
+                  ]
+            },
+            {
+                  "name": "Rhino",
+                  "text": "Die Rhino-Felszeichnung bietet Besuchern mit ihrer roten Ockerzeichnung eines Nashorns an den steinigen Felsvorsprüngen von Tsodilo einen Einblick in prähistorische Zeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        21.745383,
+                        -18.757283
+                  ]
+            },
+            {
+                  "name": "Tsodilo",
+                  "text": "Tsodilo ist eine archäologische Stätte des UNESCO-Weltkulturerbes mit über 4.500 Felsmalereien, die über isolierte Quarzithügel in der Kalahari-Wüste verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        21.741816,
+                        -18.757077
+                  ]
+            },
+            {
+                  "name": "Elenantilopen",
+                  "text": "Die Felszeichnung der Elenantilopen fängt eine lebendige Herde von Elenantilopen ein, ein häufiges und kulturell bedeutsames Motiv der alten San-Künstler.",
+                  "category": "landmark",
+                  "coords": [
+                        21.73935,
+                        -18.759267
+                  ]
+            },
+            {
+                  "name": "Dancing Penises",
+                  "text": "Diese ungewöhnlich benannte Felskunststätte zeigt markante, symbolische Figuren, die von prähistorischen Bewohnern auf die steilen Klippen von Tsodilo gemalt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        21.742933,
+                        -18.7525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lion",
+                  "text": "A Tsodilo-hegyek ezen a konkrét sziklarajzán egy oroszlán ősi ábrázolása látható, amely bemutatja a szan nép kulturális örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        21.751817,
+                        -18.758967
+                  ]
+            },
+            {
+                  "name": "Whale and Penguin",
+                  "text": "A bálna és pingvin nevű érdekes sziklafestmény az egyik legrejtélyesebb műalkotás, amelyet a Tsodilo-hegyek ősi menedékeiben találtak.",
+                  "category": "landmark",
+                  "coords": [
+                        21.74705,
+                        -18.761217
+                  ]
+            },
+            {
+                  "name": "Rhino",
+                  "text": "Az orrszarvú sziklarajz egy történelem előtti időkbe enged bepillantást a Tsodilo sziklás kibúvásain látható, vörös okkerrel festett orrszarvújával.",
+                  "category": "landmark",
+                  "coords": [
+                        21.745383,
+                        -18.757283
+                  ]
+            },
+            {
+                  "name": "Tsodilo",
+                  "text": "Tsodilo az UNESCO Világörökség része, amely több mint 4500 sziklafestményt rejt a Kalahári-sivatag elszigetelt kvarcitdombjain.",
+                  "category": "historical",
+                  "coords": [
+                        21.741816,
+                        -18.757077
+                  ]
+            },
+            {
+                  "name": "Elenantilopen",
+                  "text": "A jávorantilopokat ábrázoló sziklafestmény egy élettel teli csordát örökít meg, ami az ősi szan művészek gyakori és kulturálisan jelentős motívuma volt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.73935,
+                        -18.759267
+                  ]
+            },
+            {
+                  "name": "Dancing Penises",
+                  "text": "Ez a szokatlan nevű sziklaművészeti helyszín történelem előtti lakosok által a Tsodilo meredek sziklafalaira festett feltűnő, szimbolikus figurákat tár fel.",
+                  "category": "landmark",
+                  "coords": [
+                        21.742933,
+                        -18.7525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lion",
+                  "text": "Acest panou specific de artă rupestră din dealurile Tsodilo prezintă o reprezentare antică a unui leu, ilustrând patrimoniul cultural al poporului San.",
+                  "category": "landmark",
+                  "coords": [
+                        21.751817,
+                        -18.758967
+                  ]
+            },
+            {
+                  "name": "Whale and Penguin",
+                  "text": "Pictura rupestră intrigantă Balena și Pinguinul este una dintre cele mai enigmatice opere de artă găsite printre adăposturile antice din dealurile Tsodilo.",
+                  "category": "landmark",
+                  "coords": [
+                        21.74705,
+                        -18.761217
+                  ]
+            },
+            {
+                  "name": "Rhino",
+                  "text": "Panoul de artă rupestră Rinocerul oferă vizitatorilor o privire în timpurile preistorice prin pictura sa cu ocre roșu a unui rinocer pe aflorimentele pietroase din Tsodilo.",
+                  "category": "landmark",
+                  "coords": [
+                        21.745383,
+                        -18.757283
+                  ]
+            },
+            {
+                  "name": "Tsodilo",
+                  "text": "Tsodilo este un sit arheologic din Patrimoniul Mondial UNESCO, cu peste 4.500 de picturi rupestre împrăștiate pe dealurile izolate de cuarțit din deșertul Kalahari.",
+                  "category": "historical",
+                  "coords": [
+                        21.741816,
+                        -18.757077
+                  ]
+            },
+            {
+                  "name": "Elenantilopen",
+                  "text": "Pictura rupestră Elenantilopen surprinde o turmă vibrantă de antilope eland, un motiv frecvent și semnificativ din punct de vedere cultural pentru artiștii antici San.",
+                  "category": "landmark",
+                  "coords": [
+                        21.73935,
+                        -18.759267
+                  ]
+            },
+            {
+                  "name": "Dancing Penises",
+                  "text": "Acest sit de artă rupestră cu nume neobișnuit dezvăluie figuri simbolice impresionante pictate de locuitorii preistorici pe fețele abrupte ale stâncilor din Tsodilo.",
+                  "category": "landmark",
+                  "coords": [
+                        21.742933,
+                        -18.7525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lion",
+                  "text": "This specific rock art panel in the Tsodilo Hills features an ancient depiction of a lion, showcasing the San people's cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        21.751817,
+                        -18.758967
+                  ]
+            },
+            {
+                  "name": "Whale and Penguin",
+                  "text": "The intriguing Whale and Penguin rock painting is one of the most enigmatic artworks found among the ancient shelters of the Tsodilo Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        21.74705,
+                        -18.761217
+                  ]
+            },
+            {
+                  "name": "Rhino",
+                  "text": "The Rhino rock art panel offers visitors a glimpse into prehistoric times with its red ochre painting of a rhinoceros on the stony outcrops of Tsodilo.",
+                  "category": "landmark",
+                  "coords": [
+                        21.745383,
+                        -18.757283
+                  ]
+            },
+            {
+                  "name": "Tsodilo",
+                  "text": "Tsodilo is a UNESCO World Heritage archaeological site featuring over 4,500 rock paintings scattered across isolated quartzite hills in the Kalahari Desert.",
+                  "category": "historical",
+                  "coords": [
+                        21.741816,
+                        -18.757077
+                  ]
+            },
+            {
+                  "name": "Elenantilopen",
+                  "text": "The Elenantilopen rock painting captures a vibrant herd of eland antelopes, a frequent and culturally significant motif for the ancient San artists.",
+                  "category": "landmark",
+                  "coords": [
+                        21.73935,
+                        -18.759267
+                  ]
+            },
+            {
+                  "name": "Dancing Penises",
+                  "text": "This unusually named rock art site reveals striking, symbolic figures painted by prehistoric inhabitants on the sheer cliff faces of Tsodilo.",
+                  "category": "landmark",
+                  "coords": [
+                        21.742933,
+                        -18.7525
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BW-NW",
     coords: [21.7, -18.7],
@@ -108,7 +558,88 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       en: ["Tsodilo contains the highest concentration of rock art in Southern Africa.", "The highest point of the hills reaches approximately 1,400 meters above sea level.", "Some rock paintings depict whales and penguins, suggesting early long-distance trade.", "Rhino Cave has provided evidence of ritualistic behavior dating back 70,000 years.", "The 'Female' hill covers an expansive area of approximately 10 square kilometers.", "There are two permanent water springs in the hills that have been used for millennia."],
     }, image: "/poi-images/tsodilo-hills-mountain-v2.webp"},
   {
-    id: "limpopo-river-relief-v2",
+    id: "limpopo-river-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solomons Wall",
+                  "text": "Eine natürliche Basaltgang-Formation, die als Aussichtspunkt in der Nähe des Limpopo-Flusses dient.",
+                  "category": "natural",
+                  "coords": [
+                        28.985381,
+                        -22.226284
+                  ]
+            },
+            {
+                  "name": "Vhembe Game Reserve",
+                  "text": "Ein geschütztes Naturschutzgebiet, das hervorragende Tierbeobachtungen entlang des Limpopo-Flusses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.085216,
+                        -22.324032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solomons Wall",
+                  "text": "Természetes bazalttelér-képződmény, amely kilátóként szolgál a Limpopo folyó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.985381,
+                        -22.226284
+                  ]
+            },
+            {
+                  "name": "Vhembe Game Reserve",
+                  "text": "Védett természetvédelmi terület, amely kiváló vadvilág-megfigyelést kínál a Limpopo folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        29.085216,
+                        -22.324032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solomons Wall",
+                  "text": "O formațiune naturală de dig vulcanic din bazalt care acționează ca un punct de belvedere în apropierea râului Limpopo.",
+                  "category": "natural",
+                  "coords": [
+                        28.985381,
+                        -22.226284
+                  ]
+            },
+            {
+                  "name": "Vhembe Game Reserve",
+                  "text": "O rezervație naturală protejată care oferă vizionare excelentă a faunei sălbatice de-a lungul râului Limpopo.",
+                  "category": "natural",
+                  "coords": [
+                        29.085216,
+                        -22.324032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solomons Wall",
+                  "text": "A natural basalt dyke formation acting as a viewpoint near the Limpopo River.",
+                  "category": "natural",
+                  "coords": [
+                        28.985381,
+                        -22.226284
+                  ]
+            },
+            {
+                  "name": "Vhembe Game Reserve",
+                  "text": "A protected nature reserve offering excellent wildlife viewing along the Limpopo River.",
+                  "category": "natural",
+                  "coords": [
+                        29.085216,
+                        -22.324032
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BW-SE",
     coords: [29.0, -22.3],
@@ -291,7 +822,124 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       en: ["The river flows through Francistown, established in 1897.", "It was the site of the first gold rush in Southern Africa (1860s).", "The Tati River joins the Shashe south of Francistown.", "The area was formerly part of the autonomous Tati Concession.", "It is an ephemeral river with a predominantly sandy bed.", "Karl Mauch discovered gold along the river in 1866."],
     }, image: "/poi-images/tati-river-relief-v2.webp"},
   {
-    id: "moshaweng-river-relief-v2",
+    id: "moshaweng-river-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ian's presentation",
+                  "text": "Ian's Presentation ist eine spezifische lokale Sehenswürdigkeit im Gebiet moshaweng-river-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.884309,
+                        -24.691097
+                  ]
+            },
+            {
+                  "name": "Exec closet hotel",
+                  "text": "Das Exec Closet Hotel ist eine lokale Attraktion und Gaststätte im Gebiet moshaweng-river-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880794,
+                        -24.678175
+                  ]
+            },
+            {
+                  "name": "Godfrey Videographer.",
+                  "text": "Godfrey Videographer. ist eine spezifische Stätte, die mit lokalen Medien im Gebiet moshaweng-river-relief-v2 in Verbindung steht.",
+                  "category": "landmark",
+                  "coords": [
+                        25.883094,
+                        -24.677245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ian's presentation",
+                  "text": "Az Ian's presentation egy sajátos helyi látványosság a moshaweng-river-relief-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.884309,
+                        -24.691097
+                  ]
+            },
+            {
+                  "name": "Exec closet hotel",
+                  "text": "Az Exec closet hotel egy helyi látványosság és vendéglátóhely a moshaweng-river-relief-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880794,
+                        -24.678175
+                  ]
+            },
+            {
+                  "name": "Godfrey Videographer.",
+                  "text": "A Godfrey Videographer. a helyi médiához kapcsolódó specifikus helyszín a moshaweng-river-relief-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.883094,
+                        -24.677245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ian's presentation",
+                  "text": "Ian's presentation este un punct de interes local specific din zona moshaweng-river-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.884309,
+                        -24.691097
+                  ]
+            },
+            {
+                  "name": "Exec closet hotel",
+                  "text": "Exec closet hotel este o atracție locală și un loc de ospitalitate din zona moshaweng-river-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880794,
+                        -24.678175
+                  ]
+            },
+            {
+                  "name": "Godfrey Videographer.",
+                  "text": "Godfrey Videographer. este un site specific asociat cu mass-media locală din zona moshaweng-river-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.883094,
+                        -24.677245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ian's presentation",
+                  "text": "Ian's presentation is a specific local point of interest in the moshaweng-river-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.884309,
+                        -24.691097
+                  ]
+            },
+            {
+                  "name": "Exec closet hotel",
+                  "text": "Exec closet hotel is a localized attraction and hospitality venue in the moshaweng-river-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880794,
+                        -24.678175
+                  ]
+            },
+            {
+                  "name": "Godfrey Videographer.",
+                  "text": "Godfrey Videographer. is a specific site associated with local media in the moshaweng-river-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.883094,
+                        -24.677245
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BW-SE",
     coords: [25.9, -24.7],
@@ -344,7 +992,88 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     },
   },
   {
-    id: "nossob-river-relief-v2",
+    id: "nossob-river-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marie se Draai Waterhole",
+                  "text": "Dieser Aussichtspunkt überblickt das trockene Nossob-Flussbett und ist bekannt für hervorragende Beobachtungen von Springböcken und Raubtieren am Wasserloch.",
+                  "category": "natural",
+                  "coords": [
+                        20.671413,
+                        -25.451875
+                  ]
+            },
+            {
+                  "name": "Kaspersdraai Waterhole",
+                  "text": "Das Kaspersdraai Waterhole wird mit Solarenergie betrieben und bietet den Wüstentieren im staubigen Nossob-Tal lebensrettendes Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        20.693297,
+                        -25.586227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marie se Draai Waterhole",
+                  "text": "Ez a kilátó a száraz Nossob folyómederre néz, és kiváló lehetőséget nyújt a vándorantilopok és ragadozók megfigyelésére a vizes élőhelynél.",
+                  "category": "natural",
+                  "coords": [
+                        20.671413,
+                        -25.451875
+                  ]
+            },
+            {
+                  "name": "Kaspersdraai Waterhole",
+                  "text": "A napenergiával működő Kaspersdraai Waterhole életmentő vizet biztosít a sivatagi állatoknak a poros Nossob-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.693297,
+                        -25.586227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marie se Draai Waterhole",
+                  "text": "Acest punct de observație are vedere la albia uscată a râului Nossob și este renumit pentru observarea excelentă a springbok-ilor și a prădătorilor la ochiul de apă.",
+                  "category": "natural",
+                  "coords": [
+                        20.671413,
+                        -25.451875
+                  ]
+            },
+            {
+                  "name": "Kaspersdraai Waterhole",
+                  "text": "Kaspersdraai Waterhole este alimentat cu energie solară și oferă apă dătătoare de viață animalelor din deșert în prăfuita vale Nossob.",
+                  "category": "landmark",
+                  "coords": [
+                        20.693297,
+                        -25.586227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marie se Draai Waterhole",
+                  "text": "This viewpoint overlooks the dry Nossob riverbed and is known for excellent sightings of springboks and predators at the waterhole.",
+                  "category": "natural",
+                  "coords": [
+                        20.671413,
+                        -25.451875
+                  ]
+            },
+            {
+                  "name": "Kaspersdraai Waterhole",
+                  "text": "The solar-powered Kaspersdraai Waterhole provides life-saving water to desert animals in the dusty Nossob valley.",
+                  "category": "landmark",
+                  "coords": [
+                        20.693297,
+                        -25.586227
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BW-KW",
     coords: [20.7, -25.5],
@@ -396,7 +1125,88 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       en: ["The total length of the Molopo is approximately 960 km.", "The catchment area spans about 367,000 square kilometers.", "It serves as the southern boundary of Botswana with South Africa.", "The river is a theoretical tributary of the Orange River.", "Damming in South Africa has significantly reduced its flow.", "Historically, it was a crucial water resource for the Batswana people."],
     }, image: "/poi-images/molopo-river-relief-v2.webp"},
   {
-    id: "kwando-river-relief-v2",
+    id: "kwando-river-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maziba Waterhole",
+                  "text": "Ein ruhiger Beobachtungspunkt mit Blick auf ein natürliches Wasserloch, an dem sich häufig eine vielfältige Tierwelt in der Nähe des Flusses Kwando versammelt.",
+                  "category": "natural",
+                  "coords": [
+                        23.498442,
+                        -18.143757
+                  ]
+            },
+            {
+                  "name": "Balyerwa Conservancy",
+                  "text": "Ein geschütztes Naturschutzgebiet entlang der Überschwemmungsgebiete des Kwando-Flusses, das dem gemeindebasierten Naturschutz und dem Schutz lokaler Feuchtgebietsökosysteme gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.559484,
+                        -18.240316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maziba Waterhole",
+                  "text": "Békés megfigyelőhely egy természetes itató felett, ahol a Kwando-folyó közelében gyakran gyűlik össze a változatos vadvilág.",
+                  "category": "natural",
+                  "coords": [
+                        23.498442,
+                        -18.143757
+                  ]
+            },
+            {
+                  "name": "Balyerwa Conservancy",
+                  "text": "Védett természetvédelmi terület a Kwando-folyó árterében, amely a közösségi alapú természetvédelemre és a helyi vizes élőhelyek ökoszisztémáinak megőrzésére szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        23.559484,
+                        -18.240316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maziba Waterhole",
+                  "text": "Un punct de observație liniștit cu vedere la un ochi de apă natural unde animalele sălbatice se adună frecvent lângă râul Kwando.",
+                  "category": "natural",
+                  "coords": [
+                        23.498442,
+                        -18.143757
+                  ]
+            },
+            {
+                  "name": "Balyerwa Conservancy",
+                  "text": "O rezervație naturală protejată de-a lungul luncii râului Kwando, dedicată conservării comunitare și protejării ecosistemelor umede locale.",
+                  "category": "natural",
+                  "coords": [
+                        23.559484,
+                        -18.240316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maziba Waterhole",
+                  "text": "A peaceful observation spot overlooking a natural waterhole where diverse wildlife frequently gathers near the Kwando River.",
+                  "category": "natural",
+                  "coords": [
+                        23.498442,
+                        -18.143757
+                  ]
+            },
+            {
+                  "name": "Balyerwa Conservancy",
+                  "text": "A protected nature reserve along the Kwando River floodplain dedicated to community-based conservation and safeguarding local wetland ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        23.559484,
+                        -18.240316
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BW-NW",
     coords: [23.5, -18.2],

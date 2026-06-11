@@ -828,7 +828,88 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "mondi-cities-v2",
+    id: "mondi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mvithiza Waterfall",
+                  "text": "Der Aussichtspunkt am Mvithiza-Wasserfall bietet eine atemberaubende Perspektive auf die herabstürzenden Wassermassen inmitten der üppigen Landschaft von Mondi.",
+                  "category": "natural",
+                  "coords": [
+                        31.214049,
+                        -26.262881
+                  ]
+            },
+            {
+                  "name": "Sina Rock",
+                  "text": "Der Sina Rock ist ein markanter natürlicher Aussichtspunkt mit Blick auf die malerische Gegend von Mondi, der sich ideal zur Beobachtung der umgebenden Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        31.211244,
+                        -26.258455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mvithiza Waterfall",
+                  "text": "Az Mvithiza-vízesésnél lévő kilátó lenyűgöző rálátást nyújt a Mondi buja tájában lezúduló víztömegre.",
+                  "category": "natural",
+                  "coords": [
+                        31.214049,
+                        -26.262881
+                  ]
+            },
+            {
+                  "name": "Sina Rock",
+                  "text": "A Sina Rock egy kiemelkedő természetes kilátóhely, amely a festői Mondi vidékre néz, és népszerű a környező táj megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        31.211244,
+                        -26.258455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mvithiza Waterfall",
+                  "text": "Punctul de belvedere de la Cascada Mvithiza oferă o perspectivă uimitoare asupra apelor în cădere, pe fundalul peisajului luxuriant din Mondi.",
+                  "category": "natural",
+                  "coords": [
+                        31.214049,
+                        -26.262881
+                  ]
+            },
+            {
+                  "name": "Sina Rock",
+                  "text": "Sina Rock este un punct de belvedere natural proeminent cu vedere la pitoreasca zonă Mondi, popular pentru observarea peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        31.211244,
+                        -26.258455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mvithiza Waterfall",
+                  "text": "The viewpoint at Mvithiza Waterfall provides a stunning perspective of the cascading waters set against the lush Mondi landscape.",
+                  "category": "natural",
+                  "coords": [
+                        31.214049,
+                        -26.262881
+                  ]
+            },
+            {
+                  "name": "Sina Rock",
+                  "text": "Sina Rock is a prominent natural viewpoint overlooking the scenic Mondi area, popular for observing the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        31.211244,
+                        -26.258455
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-HH",
     coords: [31.2167, -26.2667],
@@ -1005,7 +1086,88 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "bulembu-cities-v2",
+    id: "bulembu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "Der Wanderweg auf den Mt Emlembe fordert Trekker mit einem steilen, unwegsamen Pfad heraus, der zum höchsten Punkt Eswatinis führt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Bulembu Museum",
+                  "text": "Das Bulembu Museum ist in einer ehemaligen Bergbaustadt untergebracht und dokumentiert Aufstieg und Fall der lokalen Asbestindustrie sowie deren Auswirkungen auf die Gemeinde.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "Az Emlembe-hegyi túraútvonal meredek, zord ösvénnyel teszi próbára a túrázókat, amely Szváziföld legmagasabb pontjára vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Bulembu Museum",
+                  "text": "Az egykori bányászvárosban helyet kapó Bulembu Múzeum a helyi azbesztipar felemelkedését és bukását, valamint a közösségre gyakorolt hatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "Traseul de drumeție pe Muntele Emlembe provoacă pasionații de drumeții cu o potecă abruptă și accidentată care duce până la cel mai înalt punct din Eswatini.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Bulembu Museum",
+                  "text": "Găzduit într-un fost oraș minier, Muzeul Bulembu prezintă cronicile ascensiunii și declinului industriei locale de azbest și impactul acesteia asupra comunității.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "The Mt Emlembe hiking trail challenges trekkers with a steep, rugged path leading up to the highest point in Eswatini.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Bulembu Museum",
+                  "text": "Housed in a former mining town, the Bulembu Museum chronicles the rise and fall of the local asbestos industry and its impact on the community.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-HH",
     coords: [31.1333, -25.9333],

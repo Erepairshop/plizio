@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraCapeverdeReliefV2: POI[] = [
   {
-    id: "monte-verde-relief-v2",
+    id: "monte-verde-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro",
+                  "text": "Ein malerischer Aussichtspunkt mit weitem Blick auf die Vulkanlandschaften und die zerklüftete Küste von São Vicente.",
+                  "category": "natural",
+                  "coords": [
+                        -24.898509,
+                        16.86702
+                  ]
+            },
+            {
+                  "name": "Monte Verde",
+                  "text": "Der höchste Gipfel der Insel São Vicente bietet spektakuläre Ausblicke bis zur Nachbarinsel Santo Antão.",
+                  "category": "natural",
+                  "coords": [
+                        -24.934072,
+                        16.869552
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Ein einzigartiger, rauer Golfplatz vor der Kulisse des trockenen, windgepeitschten Geländes der Insel in Salamansa.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Monte Verde",
+                  "text": "Ein geschütztes Berggebiet, das endemische Flora beherbergt und atemberaubende Ausblicke über die Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.927387,
+                        16.873413
+                  ]
+            },
+            {
+                  "name": "Baía das Gatas",
+                  "text": "Eine natürliche Küstenlagune, die für ihr ruhiges Wasser und das riesige jährliche internationale Musikfestival an ihren Ufern berühmt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906375,
+                        16.903834
+                  ]
+            },
+            {
+                  "name": "Sandy Beach",
+                  "text": "Ein wunderschöner weißer Küstenabschnitt, der einen entspannenden, sonnenverwöhnten Zufluchtsort an den schroffen Ufern von Mindelo bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.871303,
+                        16.811984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro",
+                  "text": "Festői kilátópont, amely lenyűgöző kilátást nyújt São Vicente vulkanikus tájaira és zord tengerpartjára.",
+                  "category": "natural",
+                  "coords": [
+                        -24.898509,
+                        16.86702
+                  ]
+            },
+            {
+                  "name": "Monte Verde",
+                  "text": "São Vicente szigetének legmagasabb csúcsa, ahonnan látványos kilátás nyílik egészen a szomszédos Santo Antão szigetéig.",
+                  "category": "natural",
+                  "coords": [
+                        -24.934072,
+                        16.869552
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Egyedülálló, zord golfpálya a sziget száraz, szélfútta terepének hátterében, Salamansában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Monte Verde",
+                  "text": "Védett hegyvidéki terület, amely endemikus növényvilágnak ad otthont, és lélegzetelállító kilátást nyújt a szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        -24.927387,
+                        16.873413
+                  ]
+            },
+            {
+                  "name": "Baía das Gatas",
+                  "text": "Természetes tengerparti lagúna, amely nyugodt vizéről és a partján évente megrendezett hatalmas nemzetközi zenei fesztiválról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906375,
+                        16.903834
+                  ]
+            },
+            {
+                  "name": "Sandy Beach",
+                  "text": "Gyönyörű, fehér tengerparti szakasz, amely pihentető, napsütötte menedéket nyújt Mindelo zord partjai mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.871303,
+                        16.811984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi ample ale peisajelor vulcanice și ale coastei accidentate a insulei São Vicente.",
+                  "category": "natural",
+                  "coords": [
+                        -24.898509,
+                        16.86702
+                  ]
+            },
+            {
+                  "name": "Monte Verde",
+                  "text": "Cel mai înalt vârf de pe insula São Vicente, oferind vederi spectaculoase care ajung până la insula vecină Santo Antão.",
+                  "category": "natural",
+                  "coords": [
+                        -24.934072,
+                        16.869552
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Un teren de golf unic și accidentat, amplasat pe fundalul terenului arid și bătut de vânt al insulei din Salamansa.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Monte Verde",
+                  "text": "O zonă muntoasă protejată care adăpostește floră endemică și oferă priveliști uluitoare peste insulă.",
+                  "category": "natural",
+                  "coords": [
+                        -24.927387,
+                        16.873413
+                  ]
+            },
+            {
+                  "name": "Baía das Gatas",
+                  "text": "O lagună de coastă naturală renumită pentru apele sale calme și pentru festivalul internațional masiv de muzică organizat anual pe țărmurile sale.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906375,
+                        16.903834
+                  ]
+            },
+            {
+                  "name": "Sandy Beach",
+                  "text": "O porțiune frumoasă de coastă albă, care oferă o evadare relaxantă, scăldată de soare, de-a lungul țărmurilor accidentate ale orașului Mindelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.871303,
+                        16.811984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro",
+                  "text": "A scenic lookout point offering expansive views of São Vicente's volcanic landscapes and rugged coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -24.898509,
+                        16.86702
+                  ]
+            },
+            {
+                  "name": "Monte Verde",
+                  "text": "The highest peak on São Vicente island, offering spectacular views reaching all the way to neighboring Santo Antão.",
+                  "category": "natural",
+                  "coords": [
+                        -24.934072,
+                        16.869552
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "A unique, rugged golf course set against the backdrop of the island's arid, windswept terrain in Salamansa.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            },
+            {
+                  "name": "Monte Verde Natural Park",
+                  "text": "A protected mountainous area harboring endemic flora and providing breathtaking vistas across the island.",
+                  "category": "natural",
+                  "coords": [
+                        -24.927387,
+                        16.873413
+                  ]
+            },
+            {
+                  "name": "Baía das Gatas",
+                  "text": "A natural coastal lagoon famous for its calm waters and the massive annual international music festival held on its shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906375,
+                        16.903834
+                  ]
+            },
+            {
+                  "name": "Sandy Beach",
+                  "text": "A beautiful stretch of white coastline providing a relaxing, sun-drenched escape along Mindelo's rugged shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.871303,
+                        16.811984
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SV",
     coords: [-24.93, 16.87],
@@ -48,7 +273,88 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     }
   },
   {
-    id: "cova-de-paul-relief-v2",
+    id: "cova-de-paul-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol de Fontes Pereira de Melo",
+                  "text": "Dieser historische Leuchtturm, auch als Farol de Tumbo bekannt, sichert die Küste nahe Cova de Paul.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.970195,
+                        17.114482
+                  ]
+            },
+            {
+                  "name": "Pico da Cruz",
+                  "text": "Der Pico da Cruz bietet als markanter Aussichtspunkt und Berggipfel weite Blicke über die zerklüftete Landschaft um Cova de Paul.",
+                  "category": "natural",
+                  "coords": [
+                        -25.031321,
+                        17.103177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol de Fontes Pereira de Melo",
+                  "text": "Ez a történelmi világítótorony, más néven Farol de Tumbo, a Cova de Paul közeli partszakaszt biztosítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.970195,
+                        17.114482
+                  ]
+            },
+            {
+                  "name": "Pico da Cruz",
+                  "text": "A Pico da Cruz mint kiemelkedő kilátó és hegycsúcs széles kilátást nyújt a Cova de Paul körüli zord tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -25.031321,
+                        17.103177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol de Fontes Pereira de Melo",
+                  "text": "Acest far istoric, cunoscut și sub numele de Farol de Tumbo, asigură coasta din apropiere de Cova de Paul.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.970195,
+                        17.114482
+                  ]
+            },
+            {
+                  "name": "Pico da Cruz",
+                  "text": "Pico da Cruz servește drept un punct de belvedere și un vârf proeminent, oferind vederi largi asupra peisajului accidentat din jurul Cova de Paul.",
+                  "category": "natural",
+                  "coords": [
+                        -25.031321,
+                        17.103177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol de Fontes Pereira de Melo",
+                  "text": "This historic lighthouse, also known as Farol de Tumbo, safeguards the coastline near Cova de Paul.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.970195,
+                        17.114482
+                  ]
+            },
+            {
+                  "name": "Pico da Cruz",
+                  "text": "Pico da Cruz serves as a prominent viewpoint and mountain peak, offering sweeping views over the rugged landscape around Cova de Paul.",
+                  "category": "natural",
+                  "coords": [
+                        -25.031321,
+                        17.103177
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CV-PA",
     coords: [-25.02, 17.11],
@@ -93,7 +399,196 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     }
   },
   {
-    id: "bordeira-do-fogo-relief-v2",
+    id: "bordeira-do-fogo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "Ein Berggipfel, der sich auf dem steilen Caldera-Rand befindet, der als Bordeira do Fogo bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "Eine kleine Gemeinde, die sich direkt im Krater des Vulkans Fogo befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967195
+                  ]
+            },
+            {
+                  "name": "Arche",
+                  "text": "Eine natürliche Felsbogenformation im zerklüfteten Gelände der Bordeira do Fogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.434782,
+                        15.020418
+                  ]
+            },
+            {
+                  "name": "Monte Fontainhas",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick über das bergige Relief der Bordeira do Fogo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.439308,
+                        14.985234
+                  ]
+            },
+            {
+                  "name": "Ponta da Salina",
+                  "text": "Ein Küstenstrandbereich, der durch dunklen vulkanischen Sand und Felsformationen gekennzeichnet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.433803,
+                        15.020332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "A Bordeira do Fogo nevű meredek kalderaperemen található hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "Közvetlenül a Fogo vulkán kráterében elhelyezkedő kis közösség.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967195
+                  ]
+            },
+            {
+                  "name": "Arche",
+                  "text": "A Bordeira do Fogo zord terepén található természetes sziklaív-képződmény.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.434782,
+                        15.020418
+                  ]
+            },
+            {
+                  "name": "Monte Fontainhas",
+                  "text": "Kilátó, amely panorámás kilátást nyújt a Bordeira do Fogo hegyvidéki domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        -24.439308,
+                        14.985234
+                  ]
+            },
+            {
+                  "name": "Ponta da Salina",
+                  "text": "Sötét vulkanikus homokkal és sziklaalakzatokkal rendelkező tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.433803,
+                        15.020332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "Un vârf montan situat pe marginea abruptă a calderei cunoscute sub numele de Bordeira do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "O mică comunitate situată chiar în interiorul craterului vulcanului Fogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967195
+                  ]
+            },
+            {
+                  "name": "Arche",
+                  "text": "O formațiune stâncoasă sub formă de arcadă naturală, aflată în terenul accidentat din Bordeira do Fogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.434782,
+                        15.020418
+                  ]
+            },
+            {
+                  "name": "Monte Fontainhas",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra reliefului muntos din Bordeira do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.439308,
+                        14.985234
+                  ]
+            },
+            {
+                  "name": "Ponta da Salina",
+                  "text": "O plajă de coastă caracterizată de nisip vulcanic închis la culoare și formațiuni stâncoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.433803,
+                        15.020332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "A mountain peak located on the steep caldera rim known as Bordeira do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "A small community situated directly within the crater of the Fogo volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967195
+                  ]
+            },
+            {
+                  "name": "Arche",
+                  "text": "A natural arch rock formation found in the rugged terrain of Bordeira do Fogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.434782,
+                        15.020418
+                  ]
+            },
+            {
+                  "name": "Monte Fontainhas",
+                  "text": "A viewpoint offering panoramic sights across the mountainous relief of Bordeira do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.439308,
+                        14.985234
+                  ]
+            },
+            {
+                  "name": "Ponta da Salina",
+                  "text": "A coastal beach area featuring dark volcanic sand and rock formations.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.433803,
+                        15.020332
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CV-SF",
     coords: [-24.38, 14.95],
@@ -138,7 +633,88 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     }
   },
   {
-    id: "monte-trigo-relief-v2",
+    id: "monte-trigo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Ponta Magrande",
+                  "text": "Ein Leuchtturm an der Küste, der auf felsigen Klippen thront und den Schiffsverkehr um die schroffen Westküsten der Insel leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.357245,
+                        17.054054
+                  ]
+            },
+            {
+                  "name": "Westernmost point of Africa",
+                  "text": "Ein dramatisches, felsiges Küstenextrem, das den westlichsten Rand des gesamten afrikanischen Kontinents darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.360842,
+                        17.053086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Ponta Magrande",
+                  "text": "Sziklás sziklákon magasodó tengerparti világítótorony, amely a tengeri forgalmat irányítja a sziget zord nyugati partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.357245,
+                        17.054054
+                  ]
+            },
+            {
+                  "name": "Westernmost point of Africa",
+                  "text": "Drámai, sziklás tengerparti végpont, amely a teljes afrikai kontinens területének legnyugatibb peremét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.360842,
+                        17.053086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Ponta Magrande",
+                  "text": "Un far de coastă cocoțat pe stânci, ghidând traficul maritim în jurul țărmurilor vestice accidentate ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.357245,
+                        17.054054
+                  ]
+            },
+            {
+                  "name": "Westernmost point of Africa",
+                  "text": "O extremitate de coastă dramatică, stâncoasă, reprezentând marginea cea mai vestică a teritoriului întregului continent african.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.360842,
+                        17.053086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Ponta Magrande",
+                  "text": "A coastal lighthouse perched on rocky cliffs, guiding maritime traffic around the rugged western shores of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.357245,
+                        17.054054
+                  ]
+            },
+            {
+                  "name": "Westernmost point of Africa",
+                  "text": "A dramatic, rocky coastal extreme representing the westernmost edge of the entire African continent's territory.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.360842,
+                        17.053086
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-PN",
     coords: [-25.33, 17.02],
@@ -183,7 +759,196 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     }
   },
   {
-    id: "monte-grande-sal-relief-v2",
+    id: "monte-grande-sal-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "faro pequeno",
+                  "text": "Der faro pequeno ist ein kleiner maritimer Leuchtturm, der die Navigation nahe monte-grande-sal-relief-v2 unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.914824,
+                        16.851397
+                  ]
+            },
+            {
+                  "name": "Farol de Fiúra",
+                  "text": "Der Farol de Fiúra, historisch verbunden mit dem Ponta do Norte Lighthouse, ist ein maritimer Turm nahe monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.921635,
+                        16.850051
+                  ]
+            },
+            {
+                  "name": "Faról",
+                  "text": "Der Faról ist ein Küstenleuchtturm, der als Navigationshilfe nahe monte-grande-sal-relief-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.91772,
+                        16.852071
+                  ]
+            },
+            {
+                  "name": "Calhetinha",
+                  "text": "Calhetinha ist eine malerische Küstenbucht, die in der Nähe von monte-grande-sal-relief-v2 geschütztes Wasser bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.899996,
+                        16.804441
+                  ]
+            },
+            {
+                  "name": "Praia de Fiura",
+                  "text": "Praia de Fiura ist ein sandiger Küstenstrand mit weitem Blick auf den Ozean nahe monte-grande-sal-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.908733,
+                        16.840741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "faro pequeno",
+                  "text": "A faro pequeno egy kis tengeri világítótorony, amely segíti a navigációt monte-grande-sal-relief-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.914824,
+                        16.851397
+                  ]
+            },
+            {
+                  "name": "Farol de Fiúra",
+                  "text": "A Farol de Fiúra, amely történelmileg a Ponta do Norte világítótoronyhoz kapcsolódik, egy tengeri torony monte-grande-sal-relief-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.921635,
+                        16.850051
+                  ]
+            },
+            {
+                  "name": "Faról",
+                  "text": "A Faról egy parti világítótorony, amely navigációs segédeszközként szolgál monte-grande-sal-relief-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.91772,
+                        16.852071
+                  ]
+            },
+            {
+                  "name": "Calhetinha",
+                  "text": "A Calhetinha egy festői tengerparti öböl, amely védett vizeket biztosít monte-grande-sal-relief-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.899996,
+                        16.804441
+                  ]
+            },
+            {
+                  "name": "Praia de Fiura",
+                  "text": "A Praia de Fiura egy homokos tengerpart, amely széles óceáni kilátást nyújt monte-grande-sal-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.908733,
+                        16.840741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "faro pequeno",
+                  "text": "Faro pequeno este un mic far maritim care sprijină navigația lângă monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.914824,
+                        16.851397
+                  ]
+            },
+            {
+                  "name": "Farol de Fiúra",
+                  "text": "Farol de Fiúra, legat istoric de Farul Ponta do Norte, este un turn maritim lângă monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.921635,
+                        16.850051
+                  ]
+            },
+            {
+                  "name": "Faról",
+                  "text": "Faról este un far de coastă care servește ca ajutor de navigație lângă monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.91772,
+                        16.852071
+                  ]
+            },
+            {
+                  "name": "Calhetinha",
+                  "text": "Calhetinha este un golf pitoresc pe coastă, oferind ape adăpostite lângă monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.899996,
+                        16.804441
+                  ]
+            },
+            {
+                  "name": "Praia de Fiura",
+                  "text": "Praia de Fiura este o plajă cu nisip pe coastă, care oferă o priveliște vastă asupra oceanului lângă monte-grande-sal-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.908733,
+                        16.840741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "faro pequeno",
+                  "text": "Faro pequeno is a small maritime lighthouse structure aiding navigation near monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.914824,
+                        16.851397
+                  ]
+            },
+            {
+                  "name": "Farol de Fiúra",
+                  "text": "The Farol de Fiúra, historically related to the Ponta do Norte Lighthouse, is a maritime tower near monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.921635,
+                        16.850051
+                  ]
+            },
+            {
+                  "name": "Faról",
+                  "text": "Faról is a coastal lighthouse serving as a navigational aid near monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.91772,
+                        16.852071
+                  ]
+            },
+            {
+                  "name": "Calhetinha",
+                  "text": "Calhetinha is a scenic coastal bay providing sheltered waters near monte-grande-sal-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.899996,
+                        16.804441
+                  ]
+            },
+            {
+                  "name": "Praia de Fiura",
+                  "text": "Praia de Fiura is a sandy coastal beach offering sweeping ocean views near monte-grande-sal-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.908733,
+                        16.840741
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SL",
     coords: [-22.89, 16.82],
@@ -228,7 +993,196 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     }
   },
   {
-    id: "monte-penoso-relief-v2",
+    id: "monte-penoso-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "Dieser markante Berggipfel bildet den höchsten Punkt auf der Insel Maio.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Norte",
+                  "text": "Dieses geschützte Naturschutzgebiet umfasst trockene Landschaften und vielfältige Küstenökosysteme.",
+                  "category": "natural",
+                  "coords": [
+                        -23.164994,
+                        15.302857
+                  ]
+            },
+            {
+                  "name": "Praiona",
+                  "text": "Dieser weitläufige Sandstrand bietet eine abgelegene Küstenumgebung für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.105793,
+                        15.268442
+                  ]
+            },
+            {
+                  "name": "Praia de Boca Ribeira",
+                  "text": "Dieser abgelegene Sandstrand liegt an der Mündung eines trockenen Flusstals an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.098607,
+                        15.243065
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Dieser kleine, geschützte Strand bietet ruhiges Meerwasser, das ideal zum Entspannen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.101122,
+                        15.254935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "Ez a kiemelkedő hegycsúcs a Maio-sziget legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Norte",
+                  "text": "Ez a védett természetvédelmi terület száraz tájakat és változatos part menti ökoszisztémákat foglal magába.",
+                  "category": "natural",
+                  "coords": [
+                        -23.164994,
+                        15.302857
+                  ]
+            },
+            {
+                  "name": "Praiona",
+                  "text": "Ez a kiterjedt homokos strand távoli tengerparti környezetet kínál a természet szerelmeseinek.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.105793,
+                        15.268442
+                  ]
+            },
+            {
+                  "name": "Praia de Boca Ribeira",
+                  "text": "Ez az eldugott homokos strand egy száraz folyóvölgy torkolatánál található a part mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.098607,
+                        15.243065
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Ez a kis, védett strand nyugodt óceáni vízzel rendelkezik, amely ideális a pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.101122,
+                        15.254935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "Acest vârf montan proeminent formează cel mai înalt punct de pe insula Maio.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Norte",
+                  "text": "Această rezervație naturală protejată cuprinde peisaje uscate și diverse ecosisteme de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -23.164994,
+                        15.302857
+                  ]
+            },
+            {
+                  "name": "Praiona",
+                  "text": "Această plajă vastă de nisip oferă un mediu de coastă îndepărtat pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.105793,
+                        15.268442
+                  ]
+            },
+            {
+                  "name": "Praia de Boca Ribeira",
+                  "text": "Această plajă izolată cu nisip este situată la gura unei văi secate de râu de-a lungul coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.098607,
+                        15.243065
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Această plajă mică, adăpostită, oferă ape calme ale oceanului, ideale pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.101122,
+                        15.254935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "This prominent mountain peak forms the highest point on the island of Maio.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Norte",
+                  "text": "This protected nature reserve encompasses dry landscapes and diverse coastal ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -23.164994,
+                        15.302857
+                  ]
+            },
+            {
+                  "name": "Praiona",
+                  "text": "This expansive sandy beach offers a remote coastal environment for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.105793,
+                        15.268442
+                  ]
+            },
+            {
+                  "name": "Praia de Boca Ribeira",
+                  "text": "This secluded sandy beach sits at the mouth of a dry river valley along the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.098607,
+                        15.243065
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "This small, sheltered beach features calm ocean waters ideal for relaxing.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.101122,
+                        15.254935
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-MA",
     coords: [-23.13, 15.22],
@@ -408,7 +1362,88 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     }
   },
   {
-    id: "pico-da-antonia-relief-v2",
+    id: "pico-da-antonia-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rui Vaz Letras",
+                  "text": "Ein farbenfroher typografischer Schriftzug im hochgelegenen Bergdorf Rui Vaz.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.604824,
+                        15.034554
+                  ]
+            },
+            {
+                  "name": "Jardim Botanico",
+                  "text": "Der Nationale Botanische Garten Grandvaux Barbosa, der sich der Erhaltung endemischer kapverdischer Pflanzenarten widmet.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rui Vaz Letras",
+                  "text": "Színes tipográfiai felirat a magasan fekvő Rui Vaz hegyi faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.604824,
+                        15.034554
+                  ]
+            },
+            {
+                  "name": "Jardim Botanico",
+                  "text": "A Grandvaux Barbosa Nemzeti Botanikus Kert, amely az endemikus Zöld-foki-szigeteki növényfajok megőrzésére szolgál.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rui Vaz Letras",
+                  "text": "Un semn tipografic colorat situat în satul de munte de mare altitudine Rui Vaz.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.604824,
+                        15.034554
+                  ]
+            },
+            {
+                  "name": "Jardim Botanico",
+                  "text": "Grădina Botanică Națională Grandvaux Barbosa, dedicată conservării speciilor de plante endemice din Capul Verde.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rui Vaz Letras",
+                  "text": "A colorful typographic sign situated in the high-altitude mountain village of Rui Vaz.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.604824,
+                        15.034554
+                  ]
+            },
+            {
+                  "name": "Jardim Botanico",
+                  "text": "The National Botanical Garden Grandvaux Barbosa, dedicated to preserving endemic Cape Verdean plant species.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SM",
     coords: [-23.61, 15.05],
@@ -453,7 +1488,124 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     }
   },
   {
-    id: "monte-tchota-relief-v2",
+    id: "monte-tchota-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico d'Antónia",
+                  "text": "Der höchste Berg der Insel Santiago, der sich durch steile, zerklüftete Vulkanrücken und eine einzigartige Höhenflora auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -23.635282,
+                        15.050906
+                  ]
+            },
+            {
+                  "name": "Monte Tchota",
+                  "text": "Ein markanter, hochgelegener Vulkangipfel, der als natürlicher Aussichtspunkt und ökologische Zone dient.",
+                  "category": "natural",
+                  "coords": [
+                        -23.624407,
+                        15.038049
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Santo António",
+                  "text": "Eine geschützte ökologische Zone, die dramatische Berglandschaften und seltene endemische Flora umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -23.638809,
+                        15.028974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico d'Antónia",
+                  "text": "Santiago szigetének legmagasabb hegye, meredek, csipkézett vulkáni gerincekkel és egyedülálló hegyi flórával.",
+                  "category": "natural",
+                  "coords": [
+                        -23.635282,
+                        15.050906
+                  ]
+            },
+            {
+                  "name": "Monte Tchota",
+                  "text": "Kiemelkedő, magasan fekvő vulkáni csúcs, amely természetes kilátópontként és ökológiai zónaként funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        -23.624407,
+                        15.038049
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Santo António",
+                  "text": "Védett ökológiai zóna, amely drámai hegyvidéki terepet és ritka endemikus növényzetet foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        -23.638809,
+                        15.028974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico d'Antónia",
+                  "text": "Cel mai înalt munte de pe Insula Santiago, prezentând creste vulcanice abrupte și zimțate, alături de o floră unică de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -23.635282,
+                        15.050906
+                  ]
+            },
+            {
+                  "name": "Monte Tchota",
+                  "text": "Un proeminent vârf vulcanic de mare altitudine, funcționând ca un punct de observație natural și o zonă ecologică.",
+                  "category": "natural",
+                  "coords": [
+                        -23.624407,
+                        15.038049
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Santo António",
+                  "text": "O zonă ecologică protejată, cuprinzând terenuri muntoase spectaculoase și floră endemică rară.",
+                  "category": "natural",
+                  "coords": [
+                        -23.638809,
+                        15.028974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico d'Antónia",
+                  "text": "The highest mountain on Santiago Island, featuring steep, jagged volcanic ridges and unique high-altitude flora.",
+                  "category": "natural",
+                  "coords": [
+                        -23.635282,
+                        15.050906
+                  ]
+            },
+            {
+                  "name": "Monte Tchota",
+                  "text": "A prominent high-altitude volcanic summit functioning as a natural vantage point and ecological zone.",
+                  "category": "natural",
+                  "coords": [
+                        -23.624407,
+                        15.038049
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Santo António",
+                  "text": "A protected ecological zone encompassing dramatic mountainous terrain and rare endemic flora.",
+                  "category": "natural",
+                  "coords": [
+                        -23.638809,
+                        15.028974
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SD",
     coords: [-23.63, 15.03],
@@ -501,7 +1653,232 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
   },
   {
-    id: "morro-de-areia-relief-v2",
+    id: "morro-de-areia-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nossa Senhora da Conceição",
+                  "text": "Nossa Senhora da Conceição ist eine historische katholische Kirche in der Boa-Vista-Region in der Nähe von morro-de-areia-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -22.916115,
+                        16.036166
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "Praia da Farrapa ist ein sandiger Küstenstrand mit Meerblick in der Nähe von morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960075,
+                        16.028157
+                  ]
+            },
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves ist ein bekannter Sandstrand, der sich entlang des Ozeans bei morro-de-areia-relief-v2 erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.93046,
+                        16.092801
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "Praia do Curralinho ist ein malerischer Sandstrand an der Küste in der Nähe von morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.945647,
+                        16.011895
+                  ]
+            },
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "Praia da Varandinha ist eine sandige Küstenlinie mit weitem Blick auf das Meer bei morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960853,
+                        16.052336
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "Praia São Roque ist ein entspannender Strandabschnitt am Ozean in der Nähe von morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963852,
+                        16.038897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nossa Senhora da Conceição",
+                  "text": "A Nossa Senhora da Conceição egy történelmi katolikus templom Boa Vista régiójában, morro-de-areia-relief-v2 közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -22.916115,
+                        16.036166
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "A Praia da Farrapa egy tengerparti homokos strand, kilátással az óceánra morro-de-areia-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960075,
+                        16.028157
+                  ]
+            },
+            {
+                  "name": "Praia de Chaves",
+                  "text": "A Praia de Chaves egy jól ismert homokos partvidék, amely az óceán mentén húzódik morro-de-areia-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.93046,
+                        16.092801
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "A Praia do Curralinho egy festői homokos strand a parton morro-de-areia-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.945647,
+                        16.011895
+                  ]
+            },
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "A Praia da Varandinha egy homokos tengerparti vonal, amely kilátást nyújt az óceánra morro-de-areia-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960853,
+                        16.052336
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "A Praia São Roque egy pihentető homokos partszakasz az óceán partján, morro-de-areia-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963852,
+                        16.038897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nossa Senhora da Conceição",
+                  "text": "Nossa Senhora da Conceição este o biserică catolică istorică situată în regiunea Boa Vista, lângă morro-de-areia-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -22.916115,
+                        16.036166
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "Praia da Farrapa este o plajă de coastă cu nisip, care oferă vedere la ocean lângă morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960075,
+                        16.028157
+                  ]
+            },
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves este o plajă faimoasă de pe coastă, care se întinde de-a lungul oceanului lângă morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.93046,
+                        16.092801
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "Praia do Curralinho este o plajă pitorească cu nisip situată pe coastă, lângă morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.945647,
+                        16.011895
+                  ]
+            },
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "Praia da Varandinha este un țărm nisipos de coastă, care oferă vedere la ocean lângă morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960853,
+                        16.052336
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "Praia São Roque este o întindere relaxantă de nisip situată lângă ocean, în apropiere de morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963852,
+                        16.038897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nossa Senhora da Conceição",
+                  "text": "Nossa Senhora da Conceição is a historic Catholic church located in the Boa Vista region near morro-de-areia-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -22.916115,
+                        16.036166
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "Praia da Farrapa is a coastal sandy beach offering ocean views near morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960075,
+                        16.028157
+                  ]
+            },
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves is a well-known sandy coastal beach stretching along the ocean near morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.93046,
+                        16.092801
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "Praia do Curralinho is a scenic sandy beach situated on the coast near morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.945647,
+                        16.011895
+                  ]
+            },
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "Praia da Varandinha is a coastal sandy shoreline providing ocean views near morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.960853,
+                        16.052336
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "Praia São Roque is a relaxing sandy stretch located by the ocean near morro-de-areia-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963852,
+                        16.038897
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CV-BV",
     coords: [-22.95, 16.08],
@@ -549,7 +1926,52 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
   },
   {
-    id: "monte-semedo-relief-v2",
+    id: "monte-semedo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "Ein erhöhter, durch ein Kreuz markierter Aussichtspunkt mit Blick auf die zerklüfteten Täler im Landesinneren.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "Kereszttel jelölt, magaslati kilátópont, ahonnan a zord szárazföldi völgyekre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "Un punct de observație înalt, marcat de o cruce, care domină văile stâncoase din interior.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "An elevated observation point marked by a cross, overlooking the rugged inland valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SM",
     coords: [-23.62, 15.15],
@@ -645,7 +2067,52 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
   },
   {
-    id: "monte-biao-relief-v2",
+    id: "monte-biao-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Bissau",
+                  "text": "Der Monte Bissau ist ein markanter Berggipfel in der Relieflandschaft von Kap Verde.",
+                  "category": "natural",
+                  "coords": [
+                        -24.244109,
+                        16.60927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Bissau",
+                  "text": "A Monte Bissau egy kiemelkedő hegycsúcs a Zöld-foki-szigetek domborzati táján.",
+                  "category": "natural",
+                  "coords": [
+                        -24.244109,
+                        16.60927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Bissau",
+                  "text": "Monte Bissau este un vârf montan proeminent din peisajul reliefului Capului Verde.",
+                  "category": "natural",
+                  "coords": [
+                        -24.244109,
+                        16.60927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Bissau",
+                  "text": "Monte Bissau is a prominent mountain peak within the Cape Verdean relief landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -24.244109,
+                        16.60927
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-RB",
     coords: [-24.23, 16.61],
@@ -693,7 +2160,52 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
   },
   {
-    id: "monte-tortolho-relief-v2",
+    id: "monte-tortolho-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Leão",
+                  "text": "Monte Leão ist ein markanter Berggipfel, der sich in der Landschaft bei monte-tortolho-relief-v2 deutlich abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -22.981722,
+                        16.696775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Leão",
+                  "text": "A Monte Leão egy feltűnő hegycsúcs, amely kiemelkedik a tájból monte-tortolho-relief-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -22.981722,
+                        16.696775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Leão",
+                  "text": "Monte Leão este un vârf montan impresionant care se distinge în peisajul de lângă monte-tortolho-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.981722,
+                        16.696775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Leão",
+                  "text": "Monte Leão is a striking mountain peak rising prominently in the landscape near monte-tortolho-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.981722,
+                        16.696775
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SL",
     coords: [-22.95, 16.73],
@@ -789,7 +2301,52 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
   },
   {
-    id: "monte-arruda-relief-v2",
+    id: "monte-arruda-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Natural de Santa Luzia",
+                  "text": "Die Reserva Natural de Santa Luzia schützt die trockene, unbewohnte Landschaft und die wertvollen Nistplätze für Seevögel auf dieser kapverdischen Insel.",
+                  "category": "natural",
+                  "coords": [
+                        -24.745302,
+                        16.766334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural de Santa Luzia",
+                  "text": "A Reserva Natural de Santa Luzia védi a zöld-foki sziget száraz, lakatlan tájait és a tengeri madarak értékes fészkelőhelyeit.",
+                  "category": "natural",
+                  "coords": [
+                        -24.745302,
+                        16.766334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural de Santa Luzia",
+                  "text": "Reserva Natural de Santa Luzia protejează peisajele aride, nelocuite și zonele valoroase de cuibărit pentru păsările marine de pe această insulă din Capul Verde.",
+                  "category": "natural",
+                  "coords": [
+                        -24.745302,
+                        16.766334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Natural de Santa Luzia",
+                  "text": "The Reserva Natural de Santa Luzia protects the arid, uninhabited landscapes and valuable seabird nesting sites on this Cape Verdean island.",
+                  "category": "natural",
+                  "coords": [
+                        -24.745302,
+                        16.766334
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SV",
     coords: [-24.75, 16.77],
@@ -837,7 +2394,196 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
   },
   {
-    id: "monte-joaquim-relief-v2",
+    id: "monte-joaquim-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Carvão",
+                  "text": "Praia de Carvão ist ein sandiger Küstenstrand in der Nähe von monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.768304,
+                        16.219448
+                  ]
+            },
+            {
+                  "name": "Praia de Abrohla",
+                  "text": "Praia de Abrohla ist ein malerischer Sandstrand an der Küste in der Umgebung von monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.761295,
+                        16.215944
+                  ]
+            },
+            {
+                  "name": "Praia de Lancha",
+                  "text": "Praia de Lancha bietet eine sandige Küstenlandschaft für Strandbesucher in der Nähe von monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.745653,
+                        16.209557
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "Santa Maria ist eine lokale Sehenswürdigkeit in der Region monte-joaquim-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865133,
+                        16.2036
+                  ]
+            },
+            {
+                  "name": "Praia da Calheta",
+                  "text": "Praia da Calheta ist ein sandiger Strandabschnitt an der Küste nahe monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.755556,
+                        16.214093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Carvão",
+                  "text": "A Praia de Carvão egy homokos tengerparti strand monte-joaquim-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.768304,
+                        16.219448
+                  ]
+            },
+            {
+                  "name": "Praia de Abrohla",
+                  "text": "A Praia de Abrohla egy festői homokos partvidék a monte-joaquim-relief-v2 környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.761295,
+                        16.215944
+                  ]
+            },
+            {
+                  "name": "Praia de Lancha",
+                  "text": "A Praia de Lancha homokos tengerparti környezetet biztosít a strandolók számára monte-joaquim-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.745653,
+                        16.209557
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "A Santa Maria egy helyi nevezetesség a monte-joaquim-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865133,
+                        16.2036
+                  ]
+            },
+            {
+                  "name": "Praia da Calheta",
+                  "text": "A Praia da Calheta egy homokos partszakasz a tengerparton monte-joaquim-relief-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.755556,
+                        16.214093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Carvão",
+                  "text": "Praia de Carvão este o plajă de coastă cu nisip situată lângă monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.768304,
+                        16.219448
+                  ]
+            },
+            {
+                  "name": "Praia de Abrohla",
+                  "text": "Praia de Abrohla este o plajă cu nisip de coastă situată în vecinătatea monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.761295,
+                        16.215944
+                  ]
+            },
+            {
+                  "name": "Praia de Lancha",
+                  "text": "Praia de Lancha oferă un mediu de coastă cu nisip pentru iubitorii de plajă lângă monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.745653,
+                        16.209557
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "Santa Maria este un punct de atracție local situat în regiunea monte-joaquim-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865133,
+                        16.2036
+                  ]
+            },
+            {
+                  "name": "Praia da Calheta",
+                  "text": "Praia da Calheta este o întindere de nisip de-a lungul coastei lângă monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.755556,
+                        16.214093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Carvão",
+                  "text": "Praia de Carvão is a sandy coastal stretch situated near monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.768304,
+                        16.219448
+                  ]
+            },
+            {
+                  "name": "Praia de Abrohla",
+                  "text": "Praia de Abrohla is a coastal sandy beach located in the vicinity of monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.761295,
+                        16.215944
+                  ]
+            },
+            {
+                  "name": "Praia de Lancha",
+                  "text": "Praia de Lancha provides a sandy coastal environment for beachgoers near monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.745653,
+                        16.209557
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "Santa Maria is a local point of interest situated in the region of monte-joaquim-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865133,
+                        16.2036
+                  ]
+            },
+            {
+                  "name": "Praia da Calheta",
+                  "text": "Praia da Calheta is a sandy stretch along the coast near monte-joaquim-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.755556,
+                        16.214093
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-BV",
     coords: [-22.82, 16.20],
@@ -885,7 +2631,124 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
   },
   {
-    id: "serra-da-garca-relief-v2",
+    id: "serra-da-garca-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canhão",
+                  "text": "Dieser natürliche Canyon schneidet tief in die bergige Landschaft der Serra da Garça ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.15596,
+                        17.123276
+                  ]
+            },
+            {
+                  "name": "Lombo Gudo",
+                  "text": "Der Aussichtspunkt Lombo Gudo bietet einen weiten Blick über die zerklüfteten Hügel der Serra da Garça.",
+                  "category": "natural",
+                  "coords": [
+                        -25.157253,
+                        17.09347
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Moroços",
+                  "text": "Das Naturschutzgebiet Parque Natural do Moroços schützt die endemische Flora und Fauna in der Serra da Garça.",
+                  "category": "natural",
+                  "coords": [
+                        -25.173073,
+                        17.095707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canhão",
+                  "text": "Ez a természetes kanyon mélyen bevágódik a Serra da Garça hegyvidéki tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.15596,
+                        17.123276
+                  ]
+            },
+            {
+                  "name": "Lombo Gudo",
+                  "text": "A Lombo Gudo kilátó széles panorámát nyújt a Serra da Garça zord dombjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -25.157253,
+                        17.09347
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Moroços",
+                  "text": "A Parque Natural do Moroços természetvédelmi terület a Serra da Garça endemikus növény- és állatvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        -25.173073,
+                        17.095707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canhão",
+                  "text": "Acest canion natural taie adânc în peisajul muntos al Serra da Garça.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.15596,
+                        17.123276
+                  ]
+            },
+            {
+                  "name": "Lombo Gudo",
+                  "text": "Punctul de belvedere Lombo Gudo oferă o priveliște largă asupra dealurilor accidentate din Serra da Garça.",
+                  "category": "natural",
+                  "coords": [
+                        -25.157253,
+                        17.09347
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Moroços",
+                  "text": "Rezervația naturală Parque Natural do Moroços protejează flora și fauna endemică din Serra da Garça.",
+                  "category": "natural",
+                  "coords": [
+                        -25.173073,
+                        17.095707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canyon",
+                  "text": "This natural canyon cuts deep into the mountainous landscape of Serra da Garça.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.15596,
+                        17.123276
+                  ]
+            },
+            {
+                  "name": "Lombo Gudo",
+                  "text": "The Lombo Gudo viewpoint offers a sweeping vista across the rugged hills of Serra da Garça.",
+                  "category": "natural",
+                  "coords": [
+                        -25.157253,
+                        17.09347
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Moroços",
+                  "text": "The Parque Natural do Moroços nature reserve protects the endemic flora and fauna within the Serra da Garça.",
+                  "category": "natural",
+                  "coords": [
+                        -25.173073,
+                        17.095707
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CV-RG",
     coords: [-25.15, 17.15],

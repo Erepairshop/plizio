@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraGambiaReliefV2: POI[] = [
   {
-    id: "red-rock-relief-v2",
+    id: "red-rock-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fatty Fin Burial Place",
+                  "text": "Der Fatty Fin Burial Place ist ein feierliches Gedenkmonument im Freien, das eine historische Grabstätte inmitten der roten Felsenlandschaft markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -14.013737,
+                        13.497692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fatty Fin Burial Place",
+                  "text": "A Fatty Fin Burial Place egy ünnepélyes szabadtéri emlékmű, amely egy történelmi sírhelyet jelöl a vörös sziklás terepen.",
+                  "category": "historical",
+                  "coords": [
+                        -14.013737,
+                        13.497692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fatty Fin Burial Place",
+                  "text": "Fatty Fin Burial Place este un memorial solemn în aer liber, ce marchează un mormânt istoric în mijlocul terenului cu stânci roșii.",
+                  "category": "historical",
+                  "coords": [
+                        -14.013737,
+                        13.497692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fatty Fin Burial Place",
+                  "text": "Fatty Fin Burial Place is a solemn outdoor memorial marking a historic grave site amidst the surrounding red rock terrain.",
+                  "category": "historical",
+                  "coords": [
+                        -14.013737,
+                        13.497692
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GM-U",
     coords: [-14.0372, 13.4483],
@@ -149,7 +194,52 @@ export const poiExtraGambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "salagi-forest-relief-v2",
+    id: "salagi-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salagi Forest Park",
+                  "text": "Dieses ausgewiesene Naturschutzgebiet schützt ein wichtiges Waldgebiet vor städtischer Ausbreitung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711891,
+                        13.377581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salagi Forest Park",
+                  "text": "Ez a kijelölt természetvédelmi terület egy létfontosságú erdőséget véd a városi terjeszkedéstől.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711891,
+                        13.377581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salagi Forest Park",
+                  "text": "Această rezervație naturală desemnată protejează o zonă împădurită vitală împotriva expansiunii urbane.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711891,
+                        13.377581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salagi Forest Park",
+                  "text": "This designated nature reserve protects a vital woodland area against urban expansion.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711891,
+                        13.377581
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GM-W",
     coords: [-16.7111, 13.3853],
@@ -197,7 +287,88 @@ export const poiExtraGambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "nyambai-forest-relief-v2",
+    id: "nyambai-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "Dieses Naturschutzgebiet schützt eine Waldlandschaft, die der lokalen Tierwelt als Lebensraum dient.",
+                  "category": "natural",
+                  "coords": [
+                        -16.668196,
+                        13.296729
+                  ]
+            },
+            {
+                  "name": "National Beekeepers Association",
+                  "text": "Diese Attraktion fördert die lokale Bienenzucht und das traditionelle Handwerk der Honigproduktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.662792,
+                        13.301595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "Ez a természetvédelmi terület egy erdős tájat véd, amely élőhelyet biztosít a helyi vadvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        -16.668196,
+                        13.296729
+                  ]
+            },
+            {
+                  "name": "National Beekeepers Association",
+                  "text": "Ez a látványosság a helyi méhészetet és a méztermelés hagyományos mesterségét népszerűsíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.662792,
+                        13.301595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "Această rezervație naturală protejează un peisaj împădurit care oferă habitat faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -16.668196,
+                        13.296729
+                  ]
+            },
+            {
+                  "name": "National Beekeepers Association",
+                  "text": "Această atracție promovează apicultura locală și meșteșugul tradițional al producției de miere.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.662792,
+                        13.301595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "This nature reserve protects a forested landscape providing habitat for local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -16.668196,
+                        13.296729
+                  ]
+            },
+            {
+                  "name": "National Beekeepers Association",
+                  "text": "This attraction promotes local apiculture and the traditional craft of honey production.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.662792,
+                        13.301595
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GM-W",
     coords: [-16.6528, 13.2847],
@@ -389,7 +560,88 @@ export const poiExtraGambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "keneba-plateau-relief-v2",
+    id: "keneba-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kiang National Forest",
+                  "text": "Der Kiang National Forest ist eine bewaldete Attraktion auf dem Keneba-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.849956,
+                        13.345764
+                  ]
+            },
+            {
+                  "name": "Faba Forest Park",
+                  "text": "Der Faba Forest Park ist ein Naturschutzgebiet, das sich über das Keneba-Plateau erstreckt.",
+                  "category": "natural",
+                  "coords": [
+                        -15.851788,
+                        13.335063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiang National Forest",
+                  "text": "A Kiang Nemzeti Erdő egy erdős látványosság a Keneba-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.849956,
+                        13.345764
+                  ]
+            },
+            {
+                  "name": "Faba Forest Park",
+                  "text": "A Faba Erdőpark egy természetvédelmi terület, amely a Keneba-fennsíkon található.",
+                  "category": "natural",
+                  "coords": [
+                        -15.851788,
+                        13.335063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiang National Forest",
+                  "text": "Kiang National Forest este o atracție împădurită situată pe platoul Keneba.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.849956,
+                        13.345764
+                  ]
+            },
+            {
+                  "name": "Faba Forest Park",
+                  "text": "Faba Forest Park este o rezervație naturală situată pe platoul Keneba.",
+                  "category": "natural",
+                  "coords": [
+                        -15.851788,
+                        13.335063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiang National Forest",
+                  "text": "Kiang National Forest is a forested attraction situated on the Keneba plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.849956,
+                        13.345764
+                  ]
+            },
+            {
+                  "name": "Faba Forest Park",
+                  "text": "Faba Forest Park is a natural reserve located across the Keneba plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -15.851788,
+                        13.335063
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GM-L",
     coords: [-15.8825, 13.3344],
@@ -437,7 +689,52 @@ export const poiExtraGambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "nianija-hills-relief-v2",
+    id: "nianija-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kerr Batch Stone Circles Museum",
+                  "text": "Dieses Museum bietet detaillierte Einblicke in die antiken megalithischen Steinkreise der Region Nianija.",
+                  "category": "museum",
+                  "coords": [
+                        -15.068416,
+                        13.754404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kerr Batch Stone Circles Museum",
+                  "text": "Ez a múzeum a Nianija régió ősi megalitikus kőkörének történetét és jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -15.068416,
+                        13.754404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kerr Batch Stone Circles Museum",
+                  "text": "Acest muzeu oferă informații detaliate despre cercurile de piatră megalitice antice din regiunea Nianija.",
+                  "category": "museum",
+                  "coords": [
+                        -15.068416,
+                        13.754404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kerr Batch Stone Circles Museum",
+                  "text": "This museum offers detailed insights into the ancient megalithic stone circles of the Nianija region.",
+                  "category": "museum",
+                  "coords": [
+                        -15.068416,
+                        13.754404
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GM-M",
     coords: [-15.0514, 13.7583],
@@ -533,7 +830,52 @@ export const poiExtraGambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "tumani-tenda-cliffs-relief-v2",
+    id: "tumani-tenda-cliffs-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bama Kuno Forest Park",
+                  "text": "Dieses geschützte Naturschutzgebiet umfasst eine dichte Waldlandschaft, die die regionale Artenvielfalt unterstützt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.428912,
+                        13.213782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bama Kuno Forest Park",
+                  "text": "Ez a védett természetvédelmi terület sűrű erdős környezettel rendelkezik, amely támogatja a regionális biodiverzitást.",
+                  "category": "natural",
+                  "coords": [
+                        -16.428912,
+                        13.213782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bama Kuno Forest Park",
+                  "text": "Această rezervație naturală protejată prezintă un mediu împădurit dens care susține biodiversitatea regională.",
+                  "category": "natural",
+                  "coords": [
+                        -16.428912,
+                        13.213782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bama Kuno Forest Park",
+                  "text": "This protected nature reserve features a dense forested environment supporting regional biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -16.428912,
+                        13.213782
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GM-W",
     coords: [-16.4853, 13.2814],
@@ -629,7 +971,88 @@ export const poiExtraGambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "kiang-west-plateau-relief-v2",
+    id: "kiang-west-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dumbuto Community Forest",
+                  "text": "Der Dumbuto Community Forest ist eine bewaldete Attraktion auf dem Kiang-West-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.822647,
+                        13.33598
+                  ]
+            },
+            {
+                  "name": "Brikama Forest Park",
+                  "text": "Der Brikama Forest Park ist ein geschütztes Naturschutzgebiet auf dem Kiang-West-Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -15.832709,
+                        13.387218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dumbuto Community Forest",
+                  "text": "A Dumbuto Közösségi Erdő egy fás látványosság a Kiang West-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.822647,
+                        13.33598
+                  ]
+            },
+            {
+                  "name": "Brikama Forest Park",
+                  "text": "A Brikama Erdőpark egy védett természeti rezervátum a Kiang West-fennsíkon.",
+                  "category": "natural",
+                  "coords": [
+                        -15.832709,
+                        13.387218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dumbuto Community Forest",
+                  "text": "Dumbuto Community Forest este o atracție împădurită situată pe platoul Kiang West.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.822647,
+                        13.33598
+                  ]
+            },
+            {
+                  "name": "Brikama Forest Park",
+                  "text": "Brikama Forest Park este o rezervație naturală protejată situată pe platoul Kiang West.",
+                  "category": "natural",
+                  "coords": [
+                        -15.832709,
+                        13.387218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dumbuto Community Forest",
+                  "text": "Dumbuto Community Forest is a wooded attraction located on the Kiang West plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.822647,
+                        13.33598
+                  ]
+            },
+            {
+                  "name": "Brikama Forest Park",
+                  "text": "Brikama Forest Park is a protected natural reserve situated on the Kiang West plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -15.832709,
+                        13.387218
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GM-L",
     coords: [-15.8583, 13.3811],
@@ -821,7 +1244,88 @@ export const poiExtraGambiaReliefV2: POI[] = [
     },
   },
   {
-    id: "kabafita-forest-relief-v2",
+    id: "kabafita-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Entrance makasutu",
+                  "text": "Der Eingang Makasutu dient als einladendes Tor in den renommierten Kultur- und Ökowald.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.621628,
+                        13.284781
+                  ]
+            },
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "Der Furnya Forest Park ist ein geschütztes Waldreservat, das der lokalen Flora und Fauna Schutz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.609474,
+                        13.268644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Entrance makasutu",
+                  "text": "A Makasutu bejárat a híres kulturális és ökológiai erdőbe vezető üdvözlő kapuként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.621628,
+                        13.284781
+                  ]
+            },
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "A Furnya Forest Park egy védett erdei természeti rezervátum, amely menedéket nyújt a helyi növény- és állatvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        -16.609474,
+                        13.268644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Entrance makasutu",
+                  "text": "Intrarea Makasutu servește drept poartă de primire în renumita pădure culturală și ecologică.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.621628,
+                        13.284781
+                  ]
+            },
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "Furnya Forest Park este o rezervație naturală de pădure protejată, oferind sanctuar florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -16.609474,
+                        13.268644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Entrance makasutu",
+                  "text": "Entrance makasutu serves as the welcoming gateway into the renowned cultural and ecological forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.621628,
+                        13.284781
+                  ]
+            },
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "Furnya Forest Park is a protected woodland nature reserve providing sanctuary for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -16.609474,
+                        13.268644
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GM-W",
     coords: [-16.6211, 13.2753],

@@ -590,7 +590,52 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If 1 million ounces have been produced so far and the annual capacity is 100,000 ounces, how many years will it last?"
 }, image: "/poi-images/ci-bonikro-gold-mine.webp"},
   {
-    id: "ci-foungbesso-nickel",
+    id: "ci-foungbesso-nickel", "sights": {
+      "de": [
+            {
+                  "name": "Mont Zanton",
+                  "text": "Der Mont Zanton ist ein Berggipfel in einer Region, die stark vom historischen Erzbergbau geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.803441,
+                        7.417064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Zanton",
+                  "text": "A Mont Zanton egy hegycsúcs egy olyan régióban, amelyet erősen formált a történelmi ércbányászat.",
+                  "category": "natural",
+                  "coords": [
+                        -7.803441,
+                        7.417064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Zanton",
+                  "text": "Mont Zanton este un vârf de munte situat într-o regiune puternic marcată de extracția istorică a minereurilor.",
+                  "category": "natural",
+                  "coords": [
+                        -7.803441,
+                        7.417064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Zanton",
+                  "text": "Mont Zanton is a mountain peak standing amidst a region heavily shaped by historical ore mining.",
+                  "category": "natural",
+                  "coords": [
+                        -7.803441,
+                        7.417064
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-18",
     coords: [-7.82, 7.35],
@@ -785,7 +830,52 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If 110,000 tons are processed and total production is 2 million tons, what percentage does this represent?"
 }, image: "/poi-images/ci-cargill-cocoa-abidjan.webp"},
   {
-    id: "ci-olam-cocoa-san-pedro",
+    id: "ci-olam-cocoa-san-pedro", "sights": {
+      "de": [
+            {
+                  "name": "Monument",
+                  "text": "Dieses städtische Denkmal verfügt über einen klassischen Steinsockel, der an bedeutende lokale historische Persönlichkeiten und Ereignisse erinnern soll.",
+                  "category": "historical",
+                  "coords": [
+                        -6.654272,
+                        4.772142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument",
+                  "text": "Ez a városi emlékmű egy klasszikus kőtalapzattal rendelkezik, amelyet jelentős helyi történelmi személyiségek és események emlékére állítottak.",
+                  "category": "historical",
+                  "coords": [
+                        -6.654272,
+                        4.772142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument",
+                  "text": "Acest monument urban prezintă un piedestal clasic de piatră conceput pentru a comemora figuri și evenimente istorice locale semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        -6.654272,
+                        4.772142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument",
+                  "text": "This urban monument features a classic stone pedestal designed to commemorate significant local historical figures and events.",
+                  "category": "historical",
+                  "coords": [
+                        -6.654272,
+                        4.772142
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-SP",
     coords: [-6.635, 4.755],
@@ -980,7 +1070,124 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If 100,000 tons of sugar are produced and 1 kg costs $1, what is the revenue?"
 }, image: "/poi-images/ci-sucaf-ferkessedougou.webp"},
   {
-    id: "ci-ciprel-power-plant",
+    id: "ci-ciprel-power-plant", "sights": {
+      "de": [
+            {
+                  "name": "Statue Akwaba",
+                  "text": "Ein markantes Willkommensdenkmal, das Besucher mit der traditionellen Geste der Gastfreundschaft begrüßt.",
+                  "category": "historical",
+                  "coords": [
+                        -3.960614,
+                        5.267202
+                  ]
+            },
+            {
+                  "name": "Plage de Vridi",
+                  "text": "Ein beliebter Sandstrand an der Atlantikküste, der für seine Ozeanbrandung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000099,
+                        5.252899
+                  ]
+            },
+            {
+                  "name": "Phare de Port-Bouët",
+                  "text": "Ein maritimer Leuchtturm, der Schiffen entlang der Küstengewässer entscheidende navigatorische Orientierung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.957852,
+                        5.250898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue Akwaba",
+                  "text": "Lenyűgöző fogadóemlékmű, amely a hagyományos vendégszeretet gesztusával üdvözli a látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        -3.960614,
+                        5.267202
+                  ]
+            },
+            {
+                  "name": "Plage de Vridi",
+                  "text": "Népszerű homokos tengerpart, amely az Atlanti-óceán partján húzódik, és ismert az óceáni hullámairól.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000099,
+                        5.252899
+                  ]
+            },
+            {
+                  "name": "Phare de Port-Bouët",
+                  "text": "Tengeri világítótorony, amely létfontosságú navigációs útmutatást nyújt a part menti vizeken haladó hajóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.957852,
+                        5.250898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue Akwaba",
+                  "text": "Un monument de bun venit impresionant care salută vizitatorii cu gestul tradițional de ospitalitate.",
+                  "category": "historical",
+                  "coords": [
+                        -3.960614,
+                        5.267202
+                  ]
+            },
+            {
+                  "name": "Plage de Vridi",
+                  "text": "O plajă populară de nisip pe coastă care se întinde de-a lungul țărmului Atlanticului, cunoscută pentru valurile sale.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000099,
+                        5.252899
+                  ]
+            },
+            {
+                  "name": "Phare de Port-Bouët",
+                  "text": "Un far maritim care oferă îndrumare navigațională crucială navelor de-a lungul apelor de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.957852,
+                        5.250898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue Akwaba",
+                  "text": "A striking welcoming monument greeting visitors with the traditional gesture of hospitality.",
+                  "category": "historical",
+                  "coords": [
+                        -3.960614,
+                        5.267202
+                  ]
+            },
+            {
+                  "name": "Plage de Vridi",
+                  "text": "A popular coastal sandy beach stretching along the Atlantic shoreline, known for its ocean surf.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.000099,
+                        5.252899
+                  ]
+            },
+            {
+                  "name": "Phare de Port-Bouët",
+                  "text": "A maritime lighthouse providing crucial navigational guidance to ships along the coastal waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.957852,
+                        5.250898
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-AB",
     coords: [-4.004, 5.264],
@@ -1110,7 +1317,52 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If the capacity is 700 MW and it was expanded by 250 MW, what was it before?"
 }, image: "/poi-images/ci-azito-power-plant.webp"},
   {
-    id: "ci-soubre-dam",
+    id: "ci-soubre-dam", "sights": {
+      "de": [
+            {
+                  "name": "Chutes de la Nawa",
+                  "text": "Dieser kaskadierende Wasserfall ist eine markante natürliche Attraktion in der umliegenden tropischen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.631386,
+                        5.793915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chutes de la Nawa",
+                  "text": "Ez a lépcsőzetes vízesés kiemelkedő természeti látványosságként szolgál a környező trópusi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.631386,
+                        5.793915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chutes de la Nawa",
+                  "text": "Această cascadă în trepte servește ca o atracție naturală proeminentă în peisajul tropical înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.631386,
+                        5.793915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nawa waterfall",
+                  "text": "This cascading waterfall serves as a prominent natural attraction in the surrounding tropical landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.631386,
+                        5.793915
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-01",
     coords: [-6.653, 5.795],
@@ -1240,7 +1492,88 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If operations started in 1979 and were modernized in 2019, how many years passed in between?"
 }, image: "/poi-images/ci-taabo-dam.webp"},
   {
-    id: "ci-uniwax-abidjan",
+    id: "ci-uniwax-abidjan", "sights": {
+      "de": [
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "Die Pont Félix-Houphouët-Boigny ist eine bedeutende Brücke, die den kombinierten Straßen- und Schienenverkehr über die Lagune Ébrié führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312055
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "Der Place de la République ist ein weitläufiger öffentlicher Platz im Herzen des städtischen Zentrums.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019531,
+                        5.316691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "A Pont Félix-Houphouët-Boigny egy fontos híd, amely a közúti és vasúti forgalmat egyaránt átvezeti az Ébrié-lagúnán.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312055
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "A Place de la République egy tágas központi köztér a város szívében, amely fontos közösségi gyülekezőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019531,
+                        5.316691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "Podul Félix-Houphouët-Boigny este o structură majoră care asigură traficul rutier și feroviar peste laguna Ébrié.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312055
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "Place de la République este o vastă piață publică situată în inima centrului urban.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019531,
+                        5.316691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "The Pont Félix-Houphouët-Boigny is a major bridge structure carrying both road and rail traffic across the Ébrié Lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312055
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "Place de la République is a spacious public square serving as a central urban gathering space.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019531,
+                        5.316691
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-AB",
     coords: [-4.02, 5.318],
@@ -1305,7 +1638,52 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If a process includes 20 steps and each step takes 5 minutes, how many minutes does the total process take?"
 }, image: "/poi-images/ci-uniwax-abidjan.webp"},
   {
-    id: "ci-solibra-brewery",
+    id: "ci-solibra-brewery", "sights": {
+      "de": [
+            {
+                  "name": "Yelam's",
+                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste, der Theaterproduktionen und Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yelam's",
+                  "text": "Helyi előadóművészeti központ, amely színházi produkcióknak és drámai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yelam's",
+                  "text": "Un centru local de arte spectacolului care găzduiește producții teatrale și spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yelam's",
+                  "text": "A local performing arts venue hosting theatrical productions and dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-AB",
     coords: [-4.008, 5.302],
@@ -1370,7 +1748,160 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If the brewery was founded in 1955, what birthday did it celebrate in 2005?"
 }, image: "/poi-images/ci-solibra-brewery.webp"},
   {
-    id: "ci-brassivoire",
+    id: "ci-brassivoire", "sights": {
+      "de": [
+            {
+                  "name": "Parcours de l'Exporateur",
+                  "text": "Eine abenteuerliche Outdoor-Attraktion mit einem Entdecker-Themenpfad durch die Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.050842,
+                        5.386098
+                  ]
+            },
+            {
+                  "name": "Maison de la Nature",
+                  "text": "Eine naturbezogene Bildungsattraktion, die sich dem Umweltbewusstsein und der lokalen Artenvielfalt widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.048897,
+                        5.385572
+                  ]
+            },
+            {
+                  "name": "Parc National du Banco",
+                  "text": "Ein geschützter Nationalpark, der ein dichtes Stück primären Regenwaldes direkt am Rande des Stadtgebiets bewahrt.",
+                  "category": "park",
+                  "coords": [
+                        -4.052716,
+                        5.39302
+                  ]
+            },
+            {
+                  "name": "Musée des cultures contemporaines Adama Toungara",
+                  "text": "Ein modernes Museum, das sich der Ausstellung zeitgenössischer Kunst und moderner kultureller Ausdrucksformen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -4.018542,
+                        5.420259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parcours de l'Exporateur",
+                  "text": "Kalandos szabadtéri attrakció, amely egy felfedező témájú ösvényt kínál a tájon keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.050842,
+                        5.386098
+                  ]
+            },
+            {
+                  "name": "Maison de la Nature",
+                  "text": "A környezettudatosságnak és a helyi biológiai sokféleségnek szentelt, természetközpontú oktatási attrakció.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.048897,
+                        5.385572
+                  ]
+            },
+            {
+                  "name": "Parc National du Banco",
+                  "text": "Védett nemzeti park, amely a város szélén egy sűrű trópusi esőerdő-foltot őriz.",
+                  "category": "park",
+                  "coords": [
+                        -4.052716,
+                        5.39302
+                  ]
+            },
+            {
+                  "name": "Musée des cultures contemporaines Adama Toungara",
+                  "text": "A kortárs művészetek és a modern kulturális kifejezésmódok bemutatásának szentelt modern múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -4.018542,
+                        5.420259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcours de l'Exporateur",
+                  "text": "O atracție aventuroasă în aer liber, cu un traseu tematic de explorator prin peisaj.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.050842,
+                        5.386098
+                  ]
+            },
+            {
+                  "name": "Maison de la Nature",
+                  "text": "O atracție educațională axată pe natură, dedicată conștientizării mediului și biodiversității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.048897,
+                        5.385572
+                  ]
+            },
+            {
+                  "name": "Parc National du Banco",
+                  "text": "Un parc național protejat care conservă o zonă densă de pădure tropicală primară chiar la marginea zonei urbane.",
+                  "category": "park",
+                  "coords": [
+                        -4.052716,
+                        5.39302
+                  ]
+            },
+            {
+                  "name": "Musée des cultures contemporaines Adama Toungara",
+                  "text": "Un muzeu modern dedicat expunerii artelor contemporane și expresiilor culturale moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -4.018542,
+                        5.420259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parcours de l'Exporateur",
+                  "text": "An adventurous outdoor attraction featuring an explorer-themed trail through the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.050842,
+                        5.386098
+                  ]
+            },
+            {
+                  "name": "Maison de la Nature",
+                  "text": "A nature-focused educational attraction dedicated to environmental awareness and local biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.048897,
+                        5.385572
+                  ]
+            },
+            {
+                  "name": "Banco National Park",
+                  "text": "A protected national park preserving a dense patch of primary rainforest right on the edge of the urban area.",
+                  "category": "park",
+                  "coords": [
+                        -4.052716,
+                        5.39302
+                  ]
+            },
+            {
+                  "name": "Musée des cultures contemporaines Adama Toungara",
+                  "text": "A modern museum dedicated to exhibiting contemporary arts and modern cultural expressions.",
+                  "category": "museum",
+                  "coords": [
+                        -4.018542,
+                        5.420259
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-AB",
     coords: [-4.05, 5.405],
@@ -1432,7 +1963,52 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If construction took 13 months and cost 150 million €, what were the average monthly costs?"
 }, image: "/poi-images/ci-brassivoire.webp"},
   {
-    id: "ci-nestle-yopougon",
+    id: "ci-nestle-yopougon", "sights": {
+      "de": [
+            {
+                  "name": "Espace evenement le paradisiaque",
+                  "text": "Ein Freizeitpark und Veranstaltungsraum im Freien, der Unterhaltung und festliche Zusammenkünfte bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.100458,
+                        5.358539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace evenement le paradisiaque",
+                  "text": "Szabadtéri szabadidőpark és rendezvénytér, amely szórakoztató attrakciókat és ünnepi összejöveteleket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.100458,
+                        5.358539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace evenement le paradisiaque",
+                  "text": "Un parc de recreere în aer liber și un spațiu de evenimente care oferă distracții de agrement și adunări festive.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.100458,
+                        5.358539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace evenement le paradisiaque",
+                  "text": "An outdoor recreational park and event space offering leisure amusements and festive gatherings.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.100458,
+                        5.358539
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-AB",
     coords: [-4.081, 5.335],
@@ -1887,7 +2463,52 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       "en": "If the pipeline is 80 km long and the gas flows at 20 km/h, how many hours does transport to Abidjan take?"
 }, image: "/poi-images/ci-foxtrot-gas.webp"},
   {
-    id: "ci-icp-san-pedro",
+    id: "ci-icp-san-pedro", "sights": {
+      "de": [
+            {
+                  "name": "Embouchure du San Pédro",
+                  "text": "Dieser malerische Aussichtspunkt befindet sich an der Flussmündung, wo der San Pédro in den Atlantischen Ozean mündet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599513,
+                        4.755389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Embouchure du San Pédro",
+                  "text": "Ez a festői kilátópont a folyótorkolatnál található, ahol a San Pédro az Atlanti-óceánba ömlik.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599513,
+                        4.755389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Embouchure du San Pédro",
+                  "text": "Acest punct de belvedere pitoresc este situat la gura râului, unde San Pédro se varsă în Oceanul Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599513,
+                        4.755389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Embouchure du San Pédro",
+                  "text": "This scenic viewpoint is situated at the river mouth where the San Pédro flows into the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599513,
+                        4.755389
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CI-SP",
     coords: [-6.621, 4.761],

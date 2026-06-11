@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraTanzaniaHistoryV2: POI[] = [
   {
-    id: "tz-olduvai-gorge-history-v2",
+    id: "tz-olduvai-gorge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shifting Sands",
+                  "text": "Diese halbmondförmigen Dünen aus feiner, dunkler Vulkanasche wandern mit einer Geschwindigkeit von mehreren Metern pro Jahr über die offenen Ebenen in der Nähe der Olduvai-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314601,
+                        -2.945038
+                  ]
+            },
+            {
+                  "name": "Olduvai Gorge",
+                  "text": "Am Rand dieser steil abfallenden Schlucht können Besucher auf die trockenen paläontologischen Stätten hinabblicken, an denen frühe Hominidenfossilien entdeckt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        35.352145,
+                        -2.995927
+                  ]
+            },
+            {
+                  "name": "Kiloki Cultural Boma",
+                  "text": "Umgeben von schützenden Dornenzäunen in der Nähe der Olduvai-Schlucht bietet dieses authentische Dorf Besuchern einen Einblick in das pastorale Alltagsleben der Massai.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314265,
+                        -3.022228
+                  ]
+            },
+            {
+                  "name": "Schutzgebiet Ngorongoro",
+                  "text": "Dieses 1959 gegründete, riesige Wildtierreservat ist berühmt für seine massive, ununterbrochene Vulkancaldera, die Tausenden von Großsäugern Schutz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.375883,
+                        -3.060855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shifting Sands",
+                  "text": "A finom, sötét vulkáni hamuból álló, félhold alakú dűnék évente több méteres sebességgel vándorolnak az Olduvai-szurdok közeli nyílt síkságokon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314601,
+                        -2.945038
+                  ]
+            },
+            {
+                  "name": "Olduvai Gorge",
+                  "text": "E meredek falú szakadék szélén állva a látogatók letekinthetnek azokra a száraz őslénytani lelőhelyekre, ahol a korai hominida kövületeket felfedezték.",
+                  "category": "natural",
+                  "coords": [
+                        35.352145,
+                        -2.995927
+                  ]
+            },
+            {
+                  "name": "Kiloki Cultural Boma",
+                  "text": "Az Olduvai-szurdok közelében védelmező töviság-kerítésekkel körülvett autentikus falu betekintést nyújt a látogatóknak a maszáj nép pásztorkodó mindennapjaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314265,
+                        -3.022228
+                  ]
+            },
+            {
+                  "name": "Ngorongoro Természetvédelmi Terület",
+                  "text": "Az 1959-ben alapított hatalmas vadvédelmi terület híres arról, hogy egy töretlen vulkáni kalderát foglal magába, amely nagy emlősök ezreinek ad menedéket.",
+                  "category": "natural",
+                  "coords": [
+                        35.375883,
+                        -3.060855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shifting Sands",
+                  "text": "Compuse din cenușă vulcanică fină și întunecată, aceste dune în formă de semilună migrează cu o viteză de câțiva metri în fiecare an peste câmpiile deschise de lângă Defileul Olduvai.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314601,
+                        -2.945038
+                  ]
+            },
+            {
+                  "name": "Olduvai Gorge",
+                  "text": "Stând la marginea acestei râpe cu laturi abrupte, vizitatorii pot privi în jos către siturile paleontologice aride unde au fost descoperite fosile timpurii de hominizi.",
+                  "category": "natural",
+                  "coords": [
+                        35.352145,
+                        -2.995927
+                  ]
+            },
+            {
+                  "name": "Kiloki Cultural Boma",
+                  "text": "Înconjurat de garduri protectoare din crengi spinoase lângă Defileul Olduvai, acest sat autentic oferă vizitatorilor o privire asupra vieții de zi cu zi pastorale a poporului Maasai.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314265,
+                        -3.022228
+                  ]
+            },
+            {
+                  "name": "Ngorongoro",
+                  "text": "Înființată în 1959, această vastă rezervație de animale sălbatice este faimoasă pentru că găzduiește o calderă vulcanică masivă care adăpostește mii de mamifere mari.",
+                  "category": "natural",
+                  "coords": [
+                        35.375883,
+                        -3.060855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shifting Sands",
+                  "text": "Composed of fine, dark volcanic ash, these crescent-shaped dunes remarkably migrate across the open plains near the Olduvai Gorge at a rate of several meters each year.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314601,
+                        -2.945038
+                  ]
+            },
+            {
+                  "name": "Olduvai Gorge",
+                  "text": "Standing at the edge of this steep-sided ravine, visitors can gaze down into the arid paleontology sites where early hominid fossils were discovered.",
+                  "category": "natural",
+                  "coords": [
+                        35.352145,
+                        -2.995927
+                  ]
+            },
+            {
+                  "name": "Kiloki Cultural Boma",
+                  "text": "Enclosed by protective thorn-branch fences near the Olduvai Gorge, this authentic village offers visitors an immersive look into the pastoral daily life of the Maasai people.",
+                  "category": "landmark",
+                  "coords": [
+                        35.314265,
+                        -3.022228
+                  ]
+            },
+            {
+                  "name": "Ngorongoro Conservation Area",
+                  "text": "Established in 1959, this vast wildlife reserve is famous for containing a massive, unbroken volcanic caldera that shelters thousands of large mammals.",
+                  "category": "natural",
+                  "coords": [
+                        35.375883,
+                        -3.060855
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-02",
     coords: [35.35, -2.9833],
@@ -51,7 +204,160 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-stone-town-history-v2",
+    id: "tz-stone-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Real Art",
+                  "text": "In den verwinkelten Gassen von Stone Town gelegen, präsentiert diese Galerie traditionelle Tingatinga-Gemälde und filigrane Holzschnitzereien aus Sansibar.",
+                  "category": "museum",
+                  "coords": [
+                        39.189487,
+                        -6.161875
+                  ]
+            },
+            {
+                  "name": "Portuguese Arch",
+                  "text": "Dieser alte Steinbogen in Stone Town dient als dauerhaftes architektonisches Überbleibsel der kurzen portugiesischen Kolonialpräsenz auf Sansibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.188509,
+                        -6.16535
+                  ]
+            },
+            {
+                  "name": "Tippu Tip's House",
+                  "text": "Diese geschichtsträchtige Residenz aus dem 19. Jahrhundert in Stone Town gehörte einst dem berüchtigten afro-omanischen Sklaven- und Elfenbeinhändler Hamad bin Muhammad, bekannt als Tippu Tip.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18709,
+                        -6.163995
+                  ]
+            },
+            {
+                  "name": "Cultural Art Centre",
+                  "text": "Dieses kreative Zentrum in Stone Town fördert die lokalen künstlerischen Traditionen der Swahili durch lebendige Ausstellungen zeitgenössischer Malerei und Skulptur.",
+                  "category": "museum",
+                  "coords": [
+                        39.190728,
+                        -6.162485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Real Art",
+                  "text": "A Stone Town kanyargós sikátoraiban található galéria hagyományos tingatinga festményeket és bonyolult zanzibári fafaragásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.189487,
+                        -6.161875
+                  ]
+            },
+            {
+                  "name": "Portuguese Arch",
+                  "text": "Ez a régi kőboltozat Stone Townban a rövid zanzibári portugál gyarmati jelenlét maradandó építészeti emléke.",
+                  "category": "historical",
+                  "coords": [
+                        39.188509,
+                        -6.16535
+                  ]
+            },
+            {
+                  "name": "Tippu Tip's House",
+                  "text": "A 19. századi történelmi Stone Town-i rezidencia egykor a hírhedt afro-ománi rabszolga- és elefántcsont-kereskedő, a Tippu Tip néven ismert Hamad bin Muhammad tulajdona volt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18709,
+                        -6.163995
+                  ]
+            },
+            {
+                  "name": "Cultural Art Centre",
+                  "text": "Ez a kreatív központ Stone Townban a helyi szuahéli művészeti hagyományokat támogatja kortárs festészeti és szobrászati kiállításokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        39.190728,
+                        -6.162485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Real Art",
+                  "text": "Situată în străduțele șerpuitoare din Stone Town, această galerie expune picturi tradiționale Tingatinga și sculpturi complexe în lemn din Zanzibar.",
+                  "category": "museum",
+                  "coords": [
+                        39.189487,
+                        -6.161875
+                  ]
+            },
+            {
+                  "name": "Portuguese Arch",
+                  "text": "Această veche arcadă de piatră din Stone Town servește ca o relicvă arhitecturală durabilă a scurtei prezențe coloniale portugheze în Zanzibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.188509,
+                        -6.16535
+                  ]
+            },
+            {
+                  "name": "Tippu Tip's House",
+                  "text": "Această reședință istorică din secolul al XIX-lea din Stone Town a aparținut odată infamului negustor de sclavi și fildeș afro-omanez Hamad bin Muhammad, cunoscut sub numele de Tippu Tip.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18709,
+                        -6.163995
+                  ]
+            },
+            {
+                  "name": "Cultural Art Centre",
+                  "text": "Acest centru creativ din Stone Town promovează tradițiile artistice swahili locale prin expoziții vibrante de pictură și sculptură contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        39.190728,
+                        -6.162485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Real Art",
+                  "text": "Located in the winding alleys of Stone Town, this gallery showcases traditional Tingatinga paintings and intricate Zanzibari wood carvings.",
+                  "category": "museum",
+                  "coords": [
+                        39.189487,
+                        -6.161875
+                  ]
+            },
+            {
+                  "name": "Portuguese Arch",
+                  "text": "This ancient stone archway in Stone Town serves as a lasting architectural remnant of the brief Portuguese colonial presence on Zanzibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.188509,
+                        -6.16535
+                  ]
+            },
+            {
+                  "name": "Tippu Tip's House",
+                  "text": "This storied 19th-century residence in Stone Town once belonged to the infamous Afro-Omani slave and ivory trader Hamad bin Muhammad, known as Tippu Tip.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18709,
+                        -6.163995
+                  ]
+            },
+            {
+                  "name": "Cultural Art Centre",
+                  "text": "This creative hub in Stone Town promotes local Swahili artistic traditions through vibrant exhibitions of contemporary painting and sculpture.",
+                  "category": "museum",
+                  "coords": [
+                        39.190728,
+                        -6.162485
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-15",
     coords: [39.19, -6.163],
@@ -99,7 +405,196 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-kilwa-kisiwani-history-v2",
+    id: "tz-kilwa-kisiwani-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruins of Kilwa Kisiwani",
+                  "text": "Eine UNESCO-Welterbestätte mit den verfallenen Überresten eines einst mächtigen mittelalterlichen Swahili-Hafens.",
+                  "category": "historical",
+                  "coords": [
+                        39.49627,
+                        -8.960158
+                  ]
+            },
+            {
+                  "name": "Ruins of the Palace of Kilwa Sultanate",
+                  "text": "Die alten, verwitterten Steinmauern markieren die ehemalige königliche Residenz des Kilwa-Sultanats.",
+                  "category": "historical",
+                  "coords": [
+                        39.512748,
+                        -8.960266
+                  ]
+            },
+            {
+                  "name": "Gereza (Portuguese and later Omani fort, 16th-18th century)",
+                  "text": "Eine Verteidigungsfestung aus Stein, die ursprünglich im 16. Jahrhundert von den Portugiesen erbaut und später von omanischen Truppen umgebaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        39.499444,
+                        -8.957842
+                  ]
+            },
+            {
+                  "name": "Mooring points for boats to Palace",
+                  "text": "Ein sandiger Uferabschnitt, der als Landeplatz für kleine Boote dient, die zu den nahe gelegenen Palastruinen fahren.",
+                  "category": "recreational",
+                  "coords": [
+                        39.513245,
+                        -8.959288
+                  ]
+            },
+            {
+                  "name": "Masoko Pwani",
+                  "text": "Ein ruhiger Küstenstrand mit Blick auf die Gewässer des Indischen Ozeans rund um das Kilwa-Archipel.",
+                  "category": "recreational",
+                  "coords": [
+                        39.52259,
+                        -8.904023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruins of Kilwa Kisiwani",
+                  "text": "Az UNESCO világörökség részét képező egykor hatalmas, középkori szuahéli kikötő omladozó maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        39.49627,
+                        -8.960158
+                  ]
+            },
+            {
+                  "name": "Ruins of the Palace of Kilwa Sultanate",
+                  "text": "Ősi, málladozó kőfalak jelzik a Kilwa Szultanátus egykori királyi rezidenciáját.",
+                  "category": "historical",
+                  "coords": [
+                        39.512748,
+                        -8.960266
+                  ]
+            },
+            {
+                  "name": "Gereza (Portuguese and later Omani fort, 16th-18th century)",
+                  "text": "Védelmi kőerőd, amelyet eredetileg a portugálok építettek a 16. században, majd később ománi erők alakítottak át.",
+                  "category": "castle",
+                  "coords": [
+                        39.499444,
+                        -8.957842
+                  ]
+            },
+            {
+                  "name": "Mooring points for boats to Palace",
+                  "text": "Homokos partszakasz, amely kikötőhelyként szolgál a közeli palota romjaihoz érkező kisebb hajók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        39.513245,
+                        -8.959288
+                  ]
+            },
+            {
+                  "name": "Masoko Pwani",
+                  "text": "Csendes tengerparti strand, amely az Indiai-óceán Kilwa-szigetek körüli vizeire néz.",
+                  "category": "recreational",
+                  "coords": [
+                        39.52259,
+                        -8.904023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruins of Kilwa Kisiwani",
+                  "text": "Un sit de patrimoniu UNESCO care prezintă rămășițele în ruină ale unui port swahili medieval, odinioară puternic.",
+                  "category": "historical",
+                  "coords": [
+                        39.49627,
+                        -8.960158
+                  ]
+            },
+            {
+                  "name": "Ruins of the Palace of Kilwa Sultanate",
+                  "text": "Vechile ziduri de piatră erodate marchează fosta reședință regală a Sultanatului Kilwa.",
+                  "category": "historical",
+                  "coords": [
+                        39.512748,
+                        -8.960266
+                  ]
+            },
+            {
+                  "name": "Gereza (Portuguese and later Omani fort, 16th-18th century)",
+                  "text": "Un fort de apărare din piatră construit inițial de portughezi în secolul al XVI-lea și modificat ulterior de forțele omaneze.",
+                  "category": "castle",
+                  "coords": [
+                        39.499444,
+                        -8.957842
+                  ]
+            },
+            {
+                  "name": "Mooring points for boats to Palace",
+                  "text": "O zonă de țărm cu nisip folosită ca punct de acostare pentru bărcile mici care vizitează ruinele palatului din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        39.513245,
+                        -8.959288
+                  ]
+            },
+            {
+                  "name": "Masoko Pwani",
+                  "text": "O plajă de coastă liniștită, cu vedere la apele Oceanului Indian din jurul arhipelagului Kilwa.",
+                  "category": "recreational",
+                  "coords": [
+                        39.52259,
+                        -8.904023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of Kilwa Kisiwani",
+                  "text": "A UNESCO heritage site featuring the crumbling remains of a once-powerful medieval Swahili port.",
+                  "category": "historical",
+                  "coords": [
+                        39.49627,
+                        -8.960158
+                  ]
+            },
+            {
+                  "name": "Ruins of the Palace of Kilwa Sultanate",
+                  "text": "The ancient, weathered stone walls marking the former royal residence of the Kilwa Sultanate.",
+                  "category": "historical",
+                  "coords": [
+                        39.512748,
+                        -8.960266
+                  ]
+            },
+            {
+                  "name": "Gereza (Portuguese and later Omani fort, 16th-18th century)",
+                  "text": "A defensive stone fort initially built by the Portuguese in the 16th century and later modified by Omani forces.",
+                  "category": "castle",
+                  "coords": [
+                        39.499444,
+                        -8.957842
+                  ]
+            },
+            {
+                  "name": "Mooring points for boats to Palace",
+                  "text": "A sandy shoreline area used as a landing spot for small boats accessing the nearby palace ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        39.513245,
+                        -8.959288
+                  ]
+            },
+            {
+                  "name": "Masoko Pwani",
+                  "text": "A quiet coastal beach looking out over the Indian Ocean waters around the Kilwa archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        39.52259,
+                        -8.904023
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-09",
     coords: [39.5167, -8.9667],
@@ -147,7 +642,88 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-songo-mnara-history-v2",
+    id: "tz-songo-mnara-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mooring point for boats to Songo Mnara",
+                  "text": "Ein Sandstrand, der als Abfahrts- und Ankunftspunkt für Boote zu den historischen Ruinen von Songo Mnara dient.",
+                  "category": "recreational",
+                  "coords": [
+                        39.548147,
+                        -9.040209
+                  ]
+            },
+            {
+                  "name": "Ruins of Songo Mnara",
+                  "text": "Die küstennahen Überreste der historischen Swahili-Stadt Songo Mnara.",
+                  "category": "historical",
+                  "coords": [
+                        39.55176,
+                        -9.039358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mooring point for boats to Songo Mnara",
+                  "text": "Homokos tengerpart, amely indulási és érkezési pontként szolgál a történelmi Songo Mnara romokhoz tartó csónakok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        39.548147,
+                        -9.040209
+                  ]
+            },
+            {
+                  "name": "Ruins of Songo Mnara",
+                  "text": "A történelmi szuahéli város, Songo Mnara part menti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        39.55176,
+                        -9.039358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mooring point for boats to Songo Mnara",
+                  "text": "O plajă de nisip care servește drept punct de plecare și sosire pentru bărcile care se îndreaptă spre ruinele istorice Songo Mnara.",
+                  "category": "recreational",
+                  "coords": [
+                        39.548147,
+                        -9.040209
+                  ]
+            },
+            {
+                  "name": "Ruins of Songo Mnara",
+                  "text": "Ruinele de coastă ale orașului istoric swahili Songo Mnara.",
+                  "category": "historical",
+                  "coords": [
+                        39.55176,
+                        -9.039358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mooring point for boats to Songo Mnara",
+                  "text": "A sandy beach serving as the departure and arrival point for boats traveling to the historic Songo Mnara ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        39.548147,
+                        -9.040209
+                  ]
+            },
+            {
+                  "name": "Ruins of Songo Mnara",
+                  "text": "The coastal ruins of the historic Swahili stone town of Songo Mnara.",
+                  "category": "historical",
+                  "coords": [
+                        39.55176,
+                        -9.039358
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-09",
     coords: [39.55, -9.05],
@@ -195,7 +771,304 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-bagamoyo-history-v2",
+    id: "tz-bagamoyo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "German Custom House",
+                  "text": "Ein historisches Zollgebäude an der Küste, das einst den kolonialen Seehandel in Bagamoyo regulierte.",
+                  "category": "landmark",
+                  "coords": [
+                        38.90961,
+                        -6.443134
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "Ein ernster historischer Ort, der die Hinrichtungsstätte während der deutschen Kolonialzeit markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "Ein alter Friedhof mit den moosbedeckten Gräbern früher deutscher Kolonialsiedler und Soldaten.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "Eine steinerne Festung, deren dunkle Geschichte als Gefängnis während des ostafrikanischen Sklavenhandels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "Eine historische Hofanlage, die einst als wichtiger Rastplatz für ankommende Handelskarawanen aus dem Landesinneren diente.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Performance Hall",
+                  "text": "In diesem Theatersaal in Bagamoyo finden lebendige kulturelle Aufführungen und traditionelle ostafrikanische Kunstvorführungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "Dieses Museum in Bagamoyo dokumentiert die Geschichte der frühen christlichen Missionare und ihren Einfluss auf die Küstenregion Tansanias.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "Dieses als Verteidigungsposten errichtete historische Steinblockhaus in Bagamoyo verfügt über dicke Mauern, die zum Schutz in der Kolonialzeit dienten.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904832,
+                        -6.44197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "German Custom House",
+                  "text": "Történelmi tengerparti vámház, amely egykor Bagamoyo gyarmati tengeri kereskedelmét szabályozta.",
+                  "category": "landmark",
+                  "coords": [
+                        38.90961,
+                        -6.443134
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "Egy komor történelmi helyszín, amely a gyarmati idők kivégzéseinek helyét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "Egy régi temető, amely a korai német gyarmatosítók és katonák mohával borított sírjait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "Kőerődítmény, amelynek sötét történelme a kelet-afrikai rabszolgakereskedelem alatti börtönként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "Történelmi udvaros épület, amely egykor fontos pihenőhelyként szolgált a belső területekről érkező kereskedelmi karavánok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Performance Hall",
+                  "text": "Ez a bagamoyói színházterem vibráló kulturális előadásoknak és hagyományos kelet-afrikai művészeti bemutatóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "Ez a bagamoyói múzeum a korai keresztény misszionáriusok történetét és a tanzániai partvidékre gyakorolt hatásukat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "Ezt a történelmi bagamoyói kőépületet védelmi előőrsként emelték, vastag falait a gyarmati idők harcaihoz tervezték.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904832,
+                        -6.44197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "German Custom House",
+                  "text": "O atracție istorică de coastă care odinioară reglementa comerțul maritim colonial în Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.90961,
+                        -6.443134
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "O atracție istorică solemnă care marchează locul folosit pentru execuții în timpul erei coloniale.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "Un cimitir vechi ce conține mormintele acoperite de mușchi ale primilor coloniști și soldați germani.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "O fortăreață de piatră cu o istorie întunecată, fiind folosită ca loc de detenție în timpul comerțului cu sclavi din Africa de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "O curte istorică ce servea cândva drept un loc de odihnă vital pentru caravanele comerciale care soseau din interior.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Performance Hall",
+                  "text": "Această sală de spectacole din Bagamoyo găzduiește evenimente culturale vibrante și spectacole artistice tradiționale est-africane.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "Acest muzeu din Bagamoyo documentează istoria primilor misionari creștini și impactul lor asupra regiunii de coastă a Tanzaniei.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "Ridicat ca avanpost defensiv, acest fort istoric din piatră din Bagamoyo are ziduri groase construite pentru apărare în era colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904832,
+                        -6.44197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "German Custom House",
+                  "text": "A coastal historical custom house that once regulated colonial maritime trade in Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.90961,
+                        -6.443134
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "A solemn historical attraction marking the site used for executions during the colonial era.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "An old cemetery containing the moss-covered graves of early German colonial settlers and soldiers.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "A stone fortress that holds a dark history as a holding prison during the East African slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "A historic courtyard attraction that once served as a vital resting place for trading caravans arriving from the interior.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Performance Hall",
+                  "text": "This local theatre venue in Bagamoyo hosts vibrant cultural performances and traditional East African artistic showcases.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "This museum in Bagamoyo documents the history of early Christian missionaries and their impact on the coastal region of Tanzania.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "Erected as a defensive outpost, this historic stone blockhouse in Bagamoyo features thick walls designed for colonial-era protection.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904832,
+                        -6.44197
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-01",
     coords: [38.9058, -6.4422],
@@ -243,7 +1116,124 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-kaole-ruins-history-v2",
+    id: "tz-kaole-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaole Mamba Ranch",
+                  "text": "Diese Attraktion in Kaole in der Nähe der antiken Ruinen zeigt einheimische Reptilien, insbesondere Krokodile (Mamba auf Swahili), in ihrem natürlichen Lebensraum.",
+                  "category": "landmark",
+                  "coords": [
+                        38.933746,
+                        -6.457974
+                  ]
+            },
+            {
+                  "name": "Kaole Ruins",
+                  "text": "Diese archäologische Stätte stammt aus dem 13. Jahrhundert und umfasst die Überreste von zwei alten Shirazi-Moscheen und aufwendigen Pfeilergräbern.",
+                  "category": "historical",
+                  "coords": [
+                        38.948041,
+                        -6.462041
+                  ]
+            },
+            {
+                  "name": "Kaole Snake Park",
+                  "text": "In diesem Park in Kaole können Besucher verschiedene Arten einheimischer ostafrikanischer Schlangen in gesicherten Gehegen beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        38.945448,
+                        -6.463964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaole Mamba Ranch",
+                  "text": "Az ősi romok közelében található kaolei látványosság a helyi hüllővilágot, különösen a krokodilokat (szuahéliül mamba) mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        38.933746,
+                        -6.457974
+                  ]
+            },
+            {
+                  "name": "Kaole Ruins",
+                  "text": "Ez a 13. századi régészeti lelőhely két ősi sírázi mecset és díszes oszlopsírok maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        38.948041,
+                        -6.462041
+                  ]
+            },
+            {
+                  "name": "Kaole Snake Park",
+                  "text": "A kaolei kígyóparkban a látogatók biztonságos körülmények között figyelhetik meg az őshonos kelet-afrikai kígyófajokat.",
+                  "category": "landmark",
+                  "coords": [
+                        38.945448,
+                        -6.463964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaole Mamba Ranch",
+                  "text": "Situată lângă ruinele antice din Kaole, această atracție prezintă viața locală a reptilelor, în special a crocodililor (mamba în swahili).",
+                  "category": "landmark",
+                  "coords": [
+                        38.933746,
+                        -6.457974
+                  ]
+            },
+            {
+                  "name": "Kaole Ruins",
+                  "text": "Datând din secolul al XIII-lea, acest sit arheologic din Kaole conține ruinele a două vechi moschei Shirazi și morminte sub formă de stâlpi.",
+                  "category": "historical",
+                  "coords": [
+                        38.948041,
+                        -6.462041
+                  ]
+            },
+            {
+                  "name": "Kaole Snake Park",
+                  "text": "Acest parc din Kaole permite vizitatorilor să observe diverse specii de șerpi indigeni din Africa de Est în incinte securizate.",
+                  "category": "landmark",
+                  "coords": [
+                        38.945448,
+                        -6.463964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaole Mamba Ranch",
+                  "text": "Located near the ancient ruins, this attraction in Kaole features local reptilian life, particularly crocodiles (mamba in Swahili) in their native habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        38.933746,
+                        -6.457974
+                  ]
+            },
+            {
+                  "name": "Kaole Ruins",
+                  "text": "Dating back to the 13th century, this archaeological site features the remains of two ancient Shirazi mosques and elaborate pillar tombs.",
+                  "category": "historical",
+                  "coords": [
+                        38.948041,
+                        -6.462041
+                  ]
+            },
+            {
+                  "name": "Kaole Snake Park",
+                  "text": "This park in Kaole allows visitors to observe various species of indigenous East African snakes in secured enclosures.",
+                  "category": "landmark",
+                  "coords": [
+                        38.945448,
+                        -6.463964
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-01",
     coords: [38.95, -6.4667],
@@ -291,7 +1281,52 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-kondoa-rock-art-history-v2",
+    id: "tz-kondoa-rock-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kondoa Rock-Art Sites",
+                  "text": "Diese UNESCO-Welterbestätte bietet eine umfangreiche Sammlung antiker Felsmalereien, die von Jägern und Sammlern unter natürlichen Felsüberhängen geschaffen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87917,
+                        -4.750165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kondoa Rock-Art Sites",
+                  "text": "Ez az UNESCO Világörökség része egy kiterjedt ősi sziklafestmény-gyűjteményt mutat be, amelyeket vadászó-gyűjtögető népek alkottak a természetes sziklaereszek alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87917,
+                        -4.750165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kondoa Rock-Art Sites",
+                  "text": "Acest sit al Patrimoniului Mondial UNESCO prezintă o colecție vastă de picturi rupestre antice create de vânătorii-culegători sub surplombele stâncoase naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87917,
+                        -4.750165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kondoa Rock-Art Sites",
+                  "text": "This UNESCO World Heritage site features an extensive collection of ancient rock paintings created by hunter-gatherers beneath natural rock overhangs.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87917,
+                        -4.750165
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-04",
     coords: [35.7958, -4.7214],
@@ -339,7 +1374,88 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-isimila-stone-age-history-v2",
+    id: "tz-isimila-stone-age-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isimila Stone Age Site",
+                  "text": "Gekennzeichnet durch markante natürliche Sandsteinpfeiler, hat diese archäologische Schlucht Tausende von Acheuléen-Faustkeilen aus der Steinzeit hervorgebracht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605746,
+                        -7.897058
+                  ]
+            },
+            {
+                  "name": "makumbusho chief MKWAWA",
+                  "text": "Dieses historische Museum ist dem legendären Hehe-Führer Chief Mkwawa gewidmet und beherbergt seinen Schädel, der 1954 aus Deutschland zurückgegeben wurde.",
+                  "category": "museum",
+                  "coords": [
+                        35.601576,
+                        -7.79677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isimila Stone Age Site",
+                  "text": "A lenyűgöző természetes homokkőoszlopairól ismert régészeti szurdok több ezer acheuli marokkővel szolgált a kőkorszakból.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605746,
+                        -7.897058
+                  ]
+            },
+            {
+                  "name": "makumbusho chief MKWAWA",
+                  "text": "Ez a történelmi múzeum a legendás Hehe vezető, Mkwawa törzsfőnök emléke előtt tiszteleg, és híres arról, hogy itt őrzik koponyáját, amelyet 1954-ben szolgáltattak vissza Németországból.",
+                  "category": "museum",
+                  "coords": [
+                        35.601576,
+                        -7.79677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isimila Stone Age Site",
+                  "text": "Caracterizat prin pilonii săi naturali uimitori de gresie, această râpă arheologică a scos la iveală mii de topoare de mână acheuleene din Epoca de Piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605746,
+                        -7.897058
+                  ]
+            },
+            {
+                  "name": "makumbusho chief MKWAWA",
+                  "text": "Acest muzeu istoric este dedicat legendarului lider Hehe, șeful Mkwawa, și găzduiește celebrul său craniu, care a fost returnat din Germania în 1954.",
+                  "category": "museum",
+                  "coords": [
+                        35.601576,
+                        -7.79677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isimila Stone Age Site",
+                  "text": "Characterized by striking natural sandstone pillars, this archaeological ravine has yielded thousands of Acheulean hand axes from the Stone Age.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605746,
+                        -7.897058
+                  ]
+            },
+            {
+                  "name": "makumbusho chief MKWAWA",
+                  "text": "This historical museum is dedicated to the legendary Hehe leader Chief Mkwawa and famously houses his skull, which was returned from Germany in 1954.",
+                  "category": "museum",
+                  "coords": [
+                        35.601576,
+                        -7.79677
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-08",
     coords: [35.6167, -7.8667],
@@ -387,7 +1503,124 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-engaruka-ruins-history-v2",
+    id: "tz-engaruka-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beacon & Tree",
+                  "text": "Ein markanter Aussichtspunkt mit einem alten Leuchtfeuer und einem markanten Baum, der die historischen landwirtschaftlichen Ruinen von Engaruka überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        35.986237,
+                        -2.996481
+                  ]
+            },
+            {
+                  "name": "Cattle",
+                  "text": "Die Überreste einer aus Stein gebauten Verteidigungsanlage, die traditionell zum Schutz von Vieh in der Nähe der alten Siedlung Engaruka diente.",
+                  "category": "castle",
+                  "coords": [
+                        35.998167,
+                        -3.000854
+                  ]
+            },
+            {
+                  "name": "Center of Juu & Irendeni & Oldonelengia",
+                  "text": "Ein strategischer Aussichtspunkt, der einen Panoramablick auf die historischen terrassierten Siedlungen von Juu, Irendeni und Oldonelengia bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.999152,
+                        -2.971397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beacon & Tree",
+                  "text": "Egy régi jelzőtűz és egy jellegzetes fa által megjelölt kiemelkedő kilátópont, amely az ősi Engaruka mezőgazdasági romjaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        35.986237,
+                        -2.996481
+                  ]
+            },
+            {
+                  "name": "Cattle",
+                  "text": "Egy kőből épült védelmi karám maradványai, amelyet hagyományosan az állatállomány védelmére használtak az ősi Engaruka település közelében.",
+                  "category": "castle",
+                  "coords": [
+                        35.998167,
+                        -3.000854
+                  ]
+            },
+            {
+                  "name": "Center of Juu & Irendeni & Oldonelengia",
+                  "text": "Egy stratégiai kilátópont, amely panorámás áttekintést nyújt Juu, Irendeni és Oldonelengia történelmi teraszos településeire.",
+                  "category": "natural",
+                  "coords": [
+                        35.999152,
+                        -2.971397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beacon & Tree",
+                  "text": "Un punct de observație proeminent marcat de un vechi far și un copac distinctiv, cu vedere la ruinele agricole istorice din Engaruka.",
+                  "category": "natural",
+                  "coords": [
+                        35.986237,
+                        -2.996481
+                  ]
+            },
+            {
+                  "name": "Cattle",
+                  "text": "Rămășițele unei incinte defensive construite din piatră, utilizată tradițional pentru a proteja animalele lângă vechea așezare Engaruka.",
+                  "category": "castle",
+                  "coords": [
+                        35.998167,
+                        -3.000854
+                  ]
+            },
+            {
+                  "name": "Center of Juu & Irendeni & Oldonelengia",
+                  "text": "Un punct de observație strategic oferind o vedere panoramică asupra așezărilor istorice terasate din Juu, Irendeni și Oldonelengia.",
+                  "category": "natural",
+                  "coords": [
+                        35.999152,
+                        -2.971397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beacon & Tree",
+                  "text": "A prominent viewpoint marked by an old beacon and a distinctive tree, overlooking the historic agricultural ruins of Engaruka.",
+                  "category": "natural",
+                  "coords": [
+                        35.986237,
+                        -2.996481
+                  ]
+            },
+            {
+                  "name": "Cattle",
+                  "text": "The remains of a stone-built defensive enclosure traditionally used to protect livestock near the ancient Engaruka settlement.",
+                  "category": "castle",
+                  "coords": [
+                        35.998167,
+                        -3.000854
+                  ]
+            },
+            {
+                  "name": "Center of Juu & Irendeni & Oldonelengia",
+                  "text": "A strategic vantage point offering a panoramic overview of the historic terraced settlements of Juu, Irendeni, and Oldonelengia.",
+                  "category": "natural",
+                  "coords": [
+                        35.999152,
+                        -2.971397
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-02",
     coords: [35.9667, -2.9833],
@@ -435,7 +1668,88 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-amboni-caves-history-v2",
+    id: "tz-amboni-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amboni Caves",
+                  "text": "Ein ausgedehntes unterirdisches Kalksteinhöhlensystem in Ostafrika.",
+                  "category": "landmark",
+                  "coords": [
+                        39.046921,
+                        -5.073495
+                  ]
+            },
+            {
+                  "name": "utofu river (water source tanga )",
+                  "text": "Ein Fluss, der als wichtige Süßwasserquelle für die Tanga-Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.06744,
+                        -5.07099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amboni Caves",
+                  "text": "Egy kiterjedt földalatti mészkőbarlangrendszer Kelet-Afrikában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.046921,
+                        -5.073495
+                  ]
+            },
+            {
+                  "name": "utofu river (water source tanga )",
+                  "text": "Egy folyó, amely Tanga régió kulcsfontosságú édesvízforrásaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.06744,
+                        -5.07099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amboni Caves",
+                  "text": "Un sistem extins de peșteri de calcar subterane din Africa de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        39.046921,
+                        -5.073495
+                  ]
+            },
+            {
+                  "name": "utofu river (water source tanga )",
+                  "text": "Un râu care servește ca o sursă esențială de apă dulce pentru regiunea Tanga.",
+                  "category": "landmark",
+                  "coords": [
+                        39.06744,
+                        -5.07099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amboni Caves",
+                  "text": "An extensive underground limestone cave system in East Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.046921,
+                        -5.073495
+                  ]
+            },
+            {
+                  "name": "utofu river (water source tanga )",
+                  "text": "A river attraction serving as a key freshwater source for the Tanga region.",
+                  "category": "landmark",
+                  "coords": [
+                        39.06744,
+                        -5.07099
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-20",
     coords: [39.05, -5.0667],
@@ -483,7 +1797,124 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-tongoni-ruins-history-v2",
+    id: "tz-tongoni-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mwarongo",
+                  "text": "Ein Aussichtspunkt an der Küste mit Blick über das historische Tongoni-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        39.142,
+                        -5.158949
+                  ]
+            },
+            {
+                  "name": "Mwambani",
+                  "text": "Ein malerischer Ort in der Nähe der alten Suaheli-Ruinen von Tongoni.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141965,
+                        -5.158015
+                  ]
+            },
+            {
+                  "name": "Tongoni Ruinen",
+                  "text": "Die archäologischen Überreste einer Suaheli-Siedlung mit Moschee aus dem 15. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        39.063321,
+                        -5.216425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mwarongo",
+                  "text": "Egy tengerparti kilátó, ahonnan kilátás nyílik a történelmi Tongoni területre.",
+                  "category": "natural",
+                  "coords": [
+                        39.142,
+                        -5.158949
+                  ]
+            },
+            {
+                  "name": "Mwambani",
+                  "text": "Egy festői hely az ősi szuahéli Tongoni romok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141965,
+                        -5.158015
+                  ]
+            },
+            {
+                  "name": "Tongoni ruins",
+                  "text": "Egy 15. századi szuahéli település és mecset régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        39.063321,
+                        -5.216425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mwarongo",
+                  "text": "Un punct de belvedere de coastă oferind priveliști asupra zonei istorice Tongoni.",
+                  "category": "natural",
+                  "coords": [
+                        39.142,
+                        -5.158949
+                  ]
+            },
+            {
+                  "name": "Mwambani",
+                  "text": "Un loc pitoresc local lângă ruinele antice Swahili din Tongoni.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141965,
+                        -5.158015
+                  ]
+            },
+            {
+                  "name": "Tongoni ruins",
+                  "text": "Rămășițele arheologice ale unei așezări și moschei Swahili din secolul al XV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        39.063321,
+                        -5.216425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mwarongo",
+                  "text": "A coastal viewpoint offering vistas over the historic Tongoni area.",
+                  "category": "natural",
+                  "coords": [
+                        39.142,
+                        -5.158949
+                  ]
+            },
+            {
+                  "name": "Mwambani",
+                  "text": "A local scenic spot near the ancient Swahili ruins of Tongoni.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141965,
+                        -5.158015
+                  ]
+            },
+            {
+                  "name": "Tongoni ruins",
+                  "text": "The archaeological remains of a 15th-century Swahili settlement and mosque.",
+                  "category": "historical",
+                  "coords": [
+                        39.063321,
+                        -5.216425
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-20",
     coords: [39.0667, -5.2],
@@ -531,7 +1962,52 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-ujiji-history-v2",
+    id: "tz-ujiji-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Das Livingstone-Museum in Ujiji dokumentiert die reiche regionale Geschichte, mit besonderem Fokus auf das berühmte Treffen der Entdecker Livingstone und Stanley im 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        29.674165,
+                        -4.920203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Az ujiji Livingstone Múzeum a gazdag regionális történelmet mutatja be, különös tekintettel Livingstone és Stanley felfedezők híres 19. századi találkozására.",
+                  "category": "museum",
+                  "coords": [
+                        29.674165,
+                        -4.920203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Muzeul Livingstone din Ujiji documentează istoria regională bogată, concentrându-se în special pe celebra întâlnire din secolul al XIX-lea dintre exploratorii Livingstone și Stanley.",
+                  "category": "museum",
+                  "coords": [
+                        29.674165,
+                        -4.920203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livingstone Museum",
+                  "text": "The Livingstone Museum in Ujiji documents the rich regional history, specifically focusing on the famous 19th-century encounter between explorers Livingstone and Stanley.",
+                  "category": "museum",
+                  "coords": [
+                        29.674165,
+                        -4.920203
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-06",
     coords: [29.675, -4.9083],
@@ -579,7 +2055,88 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-livingstones-tembe-history-v2",
+    id: "tz-livingstones-tembe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Livingstone tembe",
+                  "text": "Untergebracht in einem traditionellen arabischen Haus mit Flachdach in Kwihara, bewahrt dieses Museum die Räume, in denen der Entdecker David Livingstone 1871 wohnte.",
+                  "category": "museum",
+                  "coords": [
+                        32.776875,
+                        -5.063208
+                  ]
+            },
+            {
+                  "name": "Isike museum",
+                  "text": "Dieses Museum ist dem Häuptling Isike des Nyamwezi-Volkes gewidmet und schildert seinen erbitterten militärischen Widerstand gegen die deutsche Kolonialexpansion im späten 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        32.795832,
+                        -5.072978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Livingstone tembe",
+                  "text": "A Kwiharában található hagyományos, lapostetős arab stílusú házban berendezett múzeum azokat a lakrészeket őrzi, ahol David Livingstone felfedező szállt meg 1871-ben.",
+                  "category": "museum",
+                  "coords": [
+                        32.776875,
+                        -5.063208
+                  ]
+            },
+            {
+                  "name": "Isike museum",
+                  "text": "Ez a múzeum a nyamvézi nép törzsfőnökének, Isikének állít emléket, és részletesen bemutatja a német gyarmati terjeszkedés elleni heves katonai ellenállását a 19. század végén.",
+                  "category": "museum",
+                  "coords": [
+                        32.795832,
+                        -5.072978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Livingstone tembe",
+                  "text": "Situat într-o casă tradițională în stil arab cu acoperiș plat din Kwihara, acest muzeu păstrează încăperile în care exploratorul David Livingstone a stat în 1871.",
+                  "category": "museum",
+                  "coords": [
+                        32.776875,
+                        -5.063208
+                  ]
+            },
+            {
+                  "name": "Isike museum",
+                  "text": "Acest muzeu este dedicat șefului Isike al poporului Nyamwezi, detaliind rezistența sa militară acerbă împotriva expansiunii coloniale germane la sfârșitul secolului al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        32.795832,
+                        -5.072978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livingstone tembe",
+                  "text": "Set in a traditional flat-roofed Arab-style house in Kwihara, this museum preserves the quarters where explorer David Livingstone stayed in 1871.",
+                  "category": "museum",
+                  "coords": [
+                        32.776875,
+                        -5.063208
+                  ]
+            },
+            {
+                  "name": "Isike museum",
+                  "text": "This museum is dedicated to Chief Isike of the Nyamwezi people, detailing his fierce military resistance against German colonial expansion in the late 19th century.",
+                  "category": "museum",
+                  "coords": [
+                        32.795832,
+                        -5.072978
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-19",
     coords: [32.8, -5.05],
@@ -627,7 +2184,124 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-bismarck-rock-history-v2",
+    id: "tz-bismarck-rock-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bismarck Rock",
+                  "text": "Eine prekär ausbalancierte Granitfelsformation, die sich aus den Gewässern des Victoriasees erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "Eine lokale Kunstgalerie in der Region Mwanza, die regionale kreative Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Ein Ausstellungsort in Mwanza, der zeitgenössische und traditionelle ostafrikanische Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bismarck Rock",
+                  "text": "Egy bizonytalanul egyensúlyozó gránitszikla-képződmény, amely a Viktória-tó vizéből emelkedik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "Egy helyi művészeti galéria a Mwanza régióban, amely regionális kreatív alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Egy kiállítóhely Mwanzában, amely kortárs és hagyományos kelet-afrikai művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bismarck Rock",
+                  "text": "O formațiune stâncoasă de granit precar echilibrată, care se ridică din apele Lacului Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "O galerie de artă locală din regiunea Mwanza care expune lucrări creative regionale.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Un loc de expoziție din Mwanza care prezintă artă est-africană contemporană și tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bismarck Rock",
+                  "text": "A precariously balanced granite boulder formation rising from the waters of Lake Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "A local art gallery space in the Mwanza region displaying regional creative works.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "An exhibition venue in Mwanza showcasing contemporary and traditional East African art.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-13",
     coords: [32.8986, -2.5208],
@@ -675,7 +2349,124 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-mikindani-town-history-v2",
+    id: "tz-mikindani-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mikindani Yacht club",
+                  "text": "Ein historischer Treffpunkt an der Küste in Mikindani, der ursprünglich während der Kolonialzeit als gesellschaftliches und maritimes Zentrum diente.",
+                  "category": "landmark",
+                  "coords": [
+                        40.13232,
+                        -10.278856
+                  ]
+            },
+            {
+                  "name": "Monkey watching place",
+                  "text": "Ein üppiger Aussichtspunkt im Freien in Mikindani, der von Natur aus für die Beobachtung lokaler Primatengruppen im Küstendachwald positioniert ist.",
+                  "category": "natural",
+                  "coords": [
+                        40.121003,
+                        -10.281278
+                  ]
+            },
+            {
+                  "name": "Livingstone-Haus",
+                  "text": "Dieses historische Wohnhaus in Mikindani ist berühmt für seine Verbindung zu den Expeditionen des Forschers David Livingstone.",
+                  "category": "landmark",
+                  "coords": [
+                        40.118808,
+                        -10.281285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mikindani Yacht club",
+                  "text": "Egy történelmi tengerparti találkozóhely Mikindaniban, amely a gyarmati korszakban eredetileg társadalmi és tengerészeti központként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        40.13232,
+                        -10.278856
+                  ]
+            },
+            {
+                  "name": "Monkey watching place",
+                  "text": "Egy buja szabadtéri kilátó Mikindaniban, amely természetes módon alkalmas a helyi főemlőscsapatok megfigyelésére a partmenti lombkoronában.",
+                  "category": "natural",
+                  "coords": [
+                        40.121003,
+                        -10.281278
+                  ]
+            },
+            {
+                  "name": "Livingstone House",
+                  "text": "Ez a mikindani-i történelmi épület a híres felfedező, David Livingstone expedícióihoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        40.118808,
+                        -10.281285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mikindani Yacht club",
+                  "text": "Un loc de adunare istoric pe coastă în Mikindani, care a servit inițial drept centru social și maritim în perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        40.13232,
+                        -10.278856
+                  ]
+            },
+            {
+                  "name": "Monkey watching place",
+                  "text": "Un punct de belvedere în aer liber luxuriant în Mikindani, poziționat natural pentru observarea trupelor locale de primate din coronamentul de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        40.121003,
+                        -10.281278
+                  ]
+            },
+            {
+                  "name": "Livingstone House",
+                  "text": "Această reședință istorică din Mikindani este faimoasă pentru asocierea sa cu expedițiile exploratorului David Livingstone.",
+                  "category": "landmark",
+                  "coords": [
+                        40.118808,
+                        -10.281285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mikindani Yacht club",
+                  "text": "A historic coastal gathering spot in Mikindani, originally serving as a social and maritime hub during the colonial era.",
+                  "category": "landmark",
+                  "coords": [
+                        40.13232,
+                        -10.278856
+                  ]
+            },
+            {
+                  "name": "Monkey watching place",
+                  "text": "A lush outdoor vantage point in Mikindani, naturally positioned for observing local primate troops in the coastal canopy.",
+                  "category": "natural",
+                  "coords": [
+                        40.121003,
+                        -10.281278
+                  ]
+            },
+            {
+                  "name": "Livingstone House",
+                  "text": "This historical residence in Mikindani is famously associated with the expeditions of the renowned explorer David Livingstone.",
+                  "category": "landmark",
+                  "coords": [
+                        40.118808,
+                        -10.281285
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-12",
     coords: [40.1167, -10.2833],
@@ -771,7 +2562,52 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-mkama-ndume-history-v2",
+    id: "tz-mkama-ndume-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mkama Ndume",
+                  "text": "Die Festungsruinen, die mit dem historischen Herrscher Mkama Ndume auf Pemba in Verbindung gebracht werden.",
+                  "category": "historical",
+                  "coords": [
+                        39.816367,
+                        -5.30425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mkama Ndume",
+                  "text": "Azok az erődromok, amelyek Mkama Ndume történelmi uralkodóhoz kötődnek Pembán.",
+                  "category": "historical",
+                  "coords": [
+                        39.816367,
+                        -5.30425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mkama Ndume",
+                  "text": "Ruinele cetății legate de conducătorul istoric Mkama Ndume din Pemba.",
+                  "category": "historical",
+                  "coords": [
+                        39.816367,
+                        -5.30425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mkama Ndume",
+                  "text": "The fortress ruins linked to the historic ruler Mkama Ndume on Pemba.",
+                  "category": "historical",
+                  "coords": [
+                        39.816367,
+                        -5.30425
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-11",
     coords: [39.7833, -5.25],
@@ -963,7 +2799,124 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-chole-ruins-history-v2",
+    id: "tz-chole-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Old Mosque",
+                  "text": "Die verwitterten Steinruinen einer historischen islamischen Kultstätte auf der Insel Chole.",
+                  "category": "landmark",
+                  "coords": [
+                        39.763874,
+                        -7.975709
+                  ]
+            },
+            {
+                  "name": "Chole Island",
+                  "text": "Eine kleine tropische Insel, bekannt für ihre reiche Suaheli-Küstengeschichte und Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.761488,
+                        -7.978864
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Eine leuchtend türkisfarbene Lagune, umgeben von mariner Artenvielfalt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.769246,
+                        -8.030093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Old Mosque",
+                  "text": "Egy történelmi iszlám istentiszteleti hely megviselt kőromjai Chole szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        39.763874,
+                        -7.975709
+                  ]
+            },
+            {
+                  "name": "Chole Island",
+                  "text": "Egy kis trópusi sziget, amely gazdag szuahéli tengerparti történelméről és romjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.761488,
+                        -7.978864
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Egy élénk türkizkék lagúna, amelyet tengeri biodiverzitás vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        39.769246,
+                        -8.030093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Old Mosque",
+                  "text": "Ruinele din piatră măcinate de vreme ale unui lăcaș de cult islamic istoric de pe insula Chole.",
+                  "category": "landmark",
+                  "coords": [
+                        39.763874,
+                        -7.975709
+                  ]
+            },
+            {
+                  "name": "Chole Island",
+                  "text": "O mică insulă tropicală cunoscută pentru bogata istorie de coastă Swahili și ruinele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.761488,
+                        -7.978864
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "O lagună turcoaz vibrantă, înconjurată de biodiversitate marină.",
+                  "category": "landmark",
+                  "coords": [
+                        39.769246,
+                        -8.030093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Old Mosque",
+                  "text": "The weathered stone ruins of a historic Islamic place of worship on Chole Island.",
+                  "category": "landmark",
+                  "coords": [
+                        39.763874,
+                        -7.975709
+                  ]
+            },
+            {
+                  "name": "Chole Island",
+                  "text": "A small tropical island known for its rich Swahili coastal history and ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        39.761488,
+                        -7.978864
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "A vibrant turquoise lagoon surrounded by marine biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        39.769246,
+                        -8.030093
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-01",
     coords: [39.7667, -7.9833],
@@ -1059,7 +3012,52 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-askari-monument-history-v2",
+    id: "tz-askari-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Truth Alone [21]",
+                  "text": "Ein ausgewiesener Aussichtspunkt in der Nähe des historischen Askari-Denkmals, der Ausblicke auf die zentralen Straßen von Dar es Salaam bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.286901,
+                        -6.815943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Truth Alone [21]",
+                  "text": "Kijelölt kilátópont a történelmi Askari-emlékmű közelében, amely perspektívákat kínál Dar es-Salaam központi utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        39.286901,
+                        -6.815943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Truth Alone [21]",
+                  "text": "Un punct de belvedere desemnat situat în apropierea zonei istorice a Monumentului Askari, oferind perspective asupra străzilor centrale din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.286901,
+                        -6.815943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Truth Alone [21]",
+                  "text": "A designated viewpoint located near the historic Askari Monument area, offering perspectives on Dar es Salaam's central streets.",
+                  "category": "natural",
+                  "coords": [
+                        39.286901,
+                        -6.815943
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-03",
     coords: [39.2886, -6.8153],
@@ -1107,7 +3105,52 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-national-museum-history-v2",
+    id: "tz-national-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Presidents Cars",
+                  "text": "Dieses Museum in Daressalam zeigt die historischen offiziellen Fahrzeuge ehemaliger Nationalpräsidenten.",
+                  "category": "museum",
+                  "coords": [
+                        39.294087,
+                        -6.813432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Presidents Cars",
+                  "text": "Ez a Dar es Salaam-i múzeum egykori nemzeti elnökök történelmi hivatalos járműveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.294087,
+                        -6.813432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Presidents Cars",
+                  "text": "Acest muzeu din Dar es Salaam expune vehiculele oficiale istorice ale foștilor președinți naționali.",
+                  "category": "museum",
+                  "coords": [
+                        39.294087,
+                        -6.813432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Presidents Cars",
+                  "text": "This museum in Dar es Salaam displays the historical official vehicles of former national presidents.",
+                  "category": "museum",
+                  "coords": [
+                        39.294087,
+                        -6.813432
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-03",
     coords: [39.2942, -6.8131],
@@ -1155,7 +3198,88 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-old-fort-zanzibar-history-v2",
+    id: "tz-old-fort-zanzibar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hansing House / Nyumba ya Hansing",
+                  "text": "Das Hansing House ist ein historisches Steingebäude aus der Kolonialzeit, das einst als Wohnsitz eines prominenten Kaufmanns diente.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188477,
+                        -6.161767
+                  ]
+            },
+            {
+                  "name": "Jafferji gallery & boutique",
+                  "text": "Die Jafferji Gallery & Boutique präsentiert exquisite Swahili-Fotografie und lokales Kunsthandwerk in historischem Ambiente.",
+                  "category": "museum",
+                  "coords": [
+                        39.187623,
+                        -6.162929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hansing House / Nyumba ya Hansing",
+                  "text": "A Hansing House egy történelmi, gyarmati kori kőépület, amely egykor egy kiemelkedő kereskedő rezidenciájaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188477,
+                        -6.161767
+                  ]
+            },
+            {
+                  "name": "Jafferji gallery & boutique",
+                  "text": "A Jafferji galéria és butik gyönyörű szuahéli fotókat és helyi kézműves termékeket mutat be történelmi környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        39.187623,
+                        -6.162929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hansing House / Nyumba ya Hansing",
+                  "text": "Casa Hansing este o clădire istorică din piatră din perioada colonială, care a servit odată drept reședință a unui comerciant important.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188477,
+                        -6.161767
+                  ]
+            },
+            {
+                  "name": "Jafferji gallery & boutique",
+                  "text": "Galeria și buticul Jafferji expune fotografii swahili rafinate și obiecte de artizanat local într-un cadru istoric.",
+                  "category": "museum",
+                  "coords": [
+                        39.187623,
+                        -6.162929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hansing House / Nyumba ya Hansing",
+                  "text": "Hansing House is a historic colonial-era stone building that once served as a prominent merchant's residence.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188477,
+                        -6.161767
+                  ]
+            },
+            {
+                  "name": "Jafferji gallery & boutique",
+                  "text": "The Jafferji gallery & boutique showcases exquisite Swahili photography and artisanal local crafts in a historic setting.",
+                  "category": "museum",
+                  "coords": [
+                        39.187623,
+                        -6.162929
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-15",
     coords: [39.1883, -6.1611],
@@ -1203,7 +3327,160 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-house-of-wonders-history-v2",
+    id: "tz-house-of-wonders-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Night Food Market",
+                  "text": "Ein lebhafter kulinarischer Markt unter freiem Himmel in Sansibar, der dafür berühmt ist, bei Sonnenuntergang frische Meeresfrüchte und Swahili-Delikatessen anzubieten.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188846,
+                        -6.160466
+                  ]
+            },
+            {
+                  "name": "Princess Salme Museum",
+                  "text": "Ein Museum in Sansibar, das das außergewöhnliche Leben und die Schriften einer sansibarischen Prinzessin aus dem 19. Jahrhundert präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        39.191118,
+                        -6.160963
+                  ]
+            },
+            {
+                  "name": "Zanzibar Art Studio",
+                  "text": "Ein lebendiger kreativer Raum in Sansibar, in dem farbenfrohe Tingatinga-Gemälde und lokale zeitgenössische Kunstwerke ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        39.189803,
+                        -6.16151
+                  ]
+            },
+            {
+                  "name": "Sultan's Palace",
+                  "text": "Dieses 1890 erbaute, prächtige Museum am Wasser in Sansibar zeigt den verschwenderischen Lebensstil und Artefakte der ehemaligen omanischen Könige.",
+                  "category": "museum",
+                  "coords": [
+                        39.190419,
+                        -6.159964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Night Food Market",
+                  "text": "Egy nyüzsgő szabadtéri élelmiszerpiac Zanzibáron, amely arról híres, hogy naplementekor frissen grillezett tenger gyümölcseit és szuahéli finomságokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188846,
+                        -6.160466
+                  ]
+            },
+            {
+                  "name": "Princess Salme Museum",
+                  "text": "Egy múzeum Zanzibáron, amely egy 19. századi zanzibári hercegnő rendkívüli életét és írásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.191118,
+                        -6.160963
+                  ]
+            },
+            {
+                  "name": "Zanzibar Art Studio",
+                  "text": "Egy élénk kreatív tér Zanzibáron, amely színes Tingatinga festményeket és helyi kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.189803,
+                        -6.16151
+                  ]
+            },
+            {
+                  "name": "Sultan's Palace",
+                  "text": "Az 1890-ben épült nagyszerű zanzibári vízparti múzeum az egykori ománi királyi család pazar életmódját és műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.190419,
+                        -6.159964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Night Food Market",
+                  "text": "O piață culinară aglomerată în aer liber din Zanzibar, renumită pentru servirea fructelor de mare proaspete la grătar și delicatese swahili la apus.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188846,
+                        -6.160466
+                  ]
+            },
+            {
+                  "name": "Princess Salme Museum",
+                  "text": "Un muzeu în Zanzibar care prezintă viața și scrierile extraordinare ale unei prințese zanzibareze din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        39.191118,
+                        -6.160963
+                  ]
+            },
+            {
+                  "name": "Zanzibar Art Studio",
+                  "text": "Un spațiu creativ vibrant în Zanzibar, care expune picturi colorate Tingatinga și opere de artă contemporană locală.",
+                  "category": "museum",
+                  "coords": [
+                        39.189803,
+                        -6.16151
+                  ]
+            },
+            {
+                  "name": "Sultan's Palace",
+                  "text": "Construit în 1890, acest grandios muzeu pe malul mării din Zanzibar prezintă stilul de viață generos și artefactele fostei regalități din Oman.",
+                  "category": "museum",
+                  "coords": [
+                        39.190419,
+                        -6.159964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Night Food Market",
+                  "text": "A bustling open-air culinary market in Zanzibar, famous for serving freshly grilled seafood and local Swahili delicacies at sunset.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188846,
+                        -6.160466
+                  ]
+            },
+            {
+                  "name": "Princess Salme Museum",
+                  "text": "A dedicated exhibition space in Zanzibar showcasing the extraordinary life and writings of a 19th-century Zanzibari princess.",
+                  "category": "museum",
+                  "coords": [
+                        39.191118,
+                        -6.160963
+                  ]
+            },
+            {
+                  "name": "Zanzibar Art Studio",
+                  "text": "A vibrant creative space in Zanzibar displaying colorful Tingatinga paintings and local contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        39.189803,
+                        -6.16151
+                  ]
+            },
+            {
+                  "name": "Sultan's Palace",
+                  "text": "Built in 1890, this grand waterfront museum in Zanzibar showcases the lavish lifestyle and artifacts of the former Omani royalty.",
+                  "category": "museum",
+                  "coords": [
+                        39.190419,
+                        -6.159964
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-15",
     coords: [39.1889, -6.1606],
@@ -1251,7 +3528,52 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-maruhubi-palace-history-v2",
+    id: "tz-maruhubi-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maruhubi Historical Site",
+                  "text": "Eine historische Stätte, die die Überreste und die Geschichte des Maruhubi-Palastes bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.208978,
+                        -6.144941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maruhubi Historical Site",
+                  "text": "Történelmi emlékhely, amely a Maruhubi Palota romjait és történetét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.208978,
+                        -6.144941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maruhubi Historical Site",
+                  "text": "Un sit istoric care conservă rămășițele și istoria Palatului Maruhubi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.208978,
+                        -6.144941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maruhubi Historical Site",
+                  "text": "A historical site preserving the remains and history of the Maruhubi Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        39.208978,
+                        -6.144941
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-15",
     coords: [39.2083, -6.1417],
@@ -1299,7 +3621,376 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-mtoni-palace-history-v2",
+    id: "tz-mtoni-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tangawizi Spice Farm",
+                  "text": "Die Tangawizi-Gewürzfarm auf Sansibar ermöglicht es Besuchern, zwischen aromatischen botanischen Plantagen spazieren zu gehen, auf denen Ingwer, Nelken und Muskatnuss angebaut werden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.252473,
+                        -6.106886
+                  ]
+            },
+            {
+                  "name": "Kibweni Palace Museum",
+                  "text": "Das Kibweni Palace Museum in der Nähe der Stadt Sansibar zeigt die historischen Artefakte und die königliche Architektur des ehemaligen omanischen Sultanats der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        39.213184,
+                        -6.112403
+                  ]
+            },
+            {
+                  "name": "Mtoni Palace Ruins",
+                  "text": "Die Ruinen des Mtoni-Palastes bewahren die verfallenden Hofüberreste einer einst großartigen Residenz des Sultans von Sansibar aus dem 19. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        39.213496,
+                        -6.135542
+                  ]
+            },
+            {
+                  "name": "To the hills spice farm",
+                  "text": "Die Gewürzfarm To the hills im landwirtschaftlichen Hinterland von Sansibar konzentriert sich auf lehrreiche Führungen über den tropischen Gewürzanbau.",
+                  "category": "landmark",
+                  "coords": [
+                        39.237491,
+                        -6.089778
+                  ]
+            },
+            {
+                  "name": "Kidichi Spice farm",
+                  "text": "Die Gewürzfarm Kidichi umgibt historische persische Bäder und bietet eine sinnliche Tour durch Sansibars berühmte Nelken- und Zimtbäume.",
+                  "category": "landmark",
+                  "coords": [
+                        39.241326,
+                        -6.089637
+                  ]
+            },
+            {
+                  "name": "Maganga Spice Farm",
+                  "text": "Die Maganga-Gewürzfarm bietet eine praktische Erfahrung bei der Erkundung der duftenden landwirtschaftlichen Nutzpflanzen und exotischen Früchte, die typisch für das Sansibar-Archipel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.244717,
+                        -6.08956
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "Das Masingini Natural Forest Reserve schützt das am höchsten gelegene Waldgebiet auf Sansibar, das für seine roten Stummelaffen und natürlichen Quellen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.243217,
+                        -6.101107
+                  ]
+            },
+            {
+                  "name": "Cheetah's Rock",
+                  "text": "Cheetah's Rock ist ein interaktives Tierrettungszentrum auf Sansibar, in dem Besucher gerettete afrikanische Tiere hautnah erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206826,
+                        -6.061776
+                  ]
+            },
+            {
+                  "name": "Hakuna Matata Spice Farm",
+                  "text": "Besucher der Hakuna Matata Gewürzfarm können frisch geerntete Vanille, Pfeffer und Kardamom inmitten der üppigen tropischen Umgebung von Sansibar probieren.",
+                  "category": "landmark",
+                  "coords": [
+                        39.250787,
+                        -6.104451
+                  ]
+            },
+            {
+                  "name": "Jambo Spice Farm",
+                  "text": "Die Jambo Gewürzfarm lädt Gäste ein, ihren ausgedehnten Anbau traditioneller Gewürze und exotischer Pflanzenarten aus Sansibar auf geführten Rundgängen zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251535,
+                        -6.106536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tangawizi Spice Farm",
+                  "text": "A zanzibári Tangawizi fűszerfarmon a látogatók gyömbért, szegfűszeget és szerecsendiót termesztő, aromás botanikai ültetvényeken sétálhatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.252473,
+                        -6.106886
+                  ]
+            },
+            {
+                  "name": "Kibweni Palace Museum",
+                  "text": "A Zanzibár város közelében található Kibweni-palota Múzeum a sziget egykori ománi szultánságának történelmi műtárgyait és fejedelmi építészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.213184,
+                        -6.112403
+                  ]
+            },
+            {
+                  "name": "Mtoni Palace Ruins",
+                  "text": "A Mtoni-palota romjai Zanzibár szultánjának egykor pompás, 19. századi vízparti rezidenciájának omladozó udvari maradványait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        39.213496,
+                        -6.135542
+                  ]
+            },
+            {
+                  "name": "To the hills spice farm",
+                  "text": "A Zanzibár mezőgazdasági hátországában található To the hills fűszerfarm a trópusi fűszertermesztésről szóló oktatótúrákra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        39.237491,
+                        -6.089778
+                  ]
+            },
+            {
+                  "name": "Kidichi Spice farm",
+                  "text": "A Kidichi fűszerfarm a történelmi perzsa fürdők körül terül el, és egy érzékszervi túrát kínál Zanzibár híres szegfűszeg- és fahéjfái között.",
+                  "category": "landmark",
+                  "coords": [
+                        39.241326,
+                        -6.089637
+                  ]
+            },
+            {
+                  "name": "Maganga Spice Farm",
+                  "text": "A Maganga fűszerfarm gyakorlati élményt nyújt a Zanzibár szigetvilágára jellemző illatos mezőgazdasági növények és egzotikus gyümölcsök felfedezésében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.244717,
+                        -6.08956
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "A Masingini Természetes Erdőrezervátum Zanzibár legmagasabban fekvő erdőségét védi, amely vörös kolobuszmajmokról és természetes forrásairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        39.243217,
+                        -6.101107
+                  ]
+            },
+            {
+                  "name": "Cheetah's Rock",
+                  "text": "A Cheetah's Rock egy interaktív vadállat-mentőközpont Zanzibáron, ahol a látogatók közelről találkozhatnak megmentett afrikai állatokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206826,
+                        -6.061776
+                  ]
+            },
+            {
+                  "name": "Hakuna Matata Spice Farm",
+                  "text": "A Hakuna Matata fűszerfarm látogatói frissen szüretelt vaníliát, borsot és kardamomot kóstolhatnak a buja trópusi zanzibári környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        39.250787,
+                        -6.104451
+                  ]
+            },
+            {
+                  "name": "Jambo Spice Farm",
+                  "text": "A Jambo fűszerfarm hagyományos zanzibári fűszerek és egzotikus növények kiterjedt termesztésének felfedezésére hívja a vendégeket vezetett gyalogtúrák keretében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251535,
+                        -6.106536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tangawizi Spice Farm",
+                  "text": "Ferma de condimente Tangawizi din Zanzibar permite vizitatorilor să se plimbe printre plantațiile botanice aromatice care cultivă ghimbir, cuișoare și nucșoară.",
+                  "category": "landmark",
+                  "coords": [
+                        39.252473,
+                        -6.106886
+                  ]
+            },
+            {
+                  "name": "Kibweni Palace Museum",
+                  "text": "Muzeul Palatului Kibweni, situat lângă orașul Zanzibar, prezintă artefactele istorice și arhitectura regală a fostului sultanat omanez al insulei.",
+                  "category": "museum",
+                  "coords": [
+                        39.213184,
+                        -6.112403
+                  ]
+            },
+            {
+                  "name": "Mtoni Palace Ruins",
+                  "text": "Ruinele Palatului Mtoni conservă rămășițele prăbușite ale curții interioare ale unei foste reședințe fastuoase pe malul apei din secolul al XIX-lea, aparținând Sultanului din Zanzibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.213496,
+                        -6.135542
+                  ]
+            },
+            {
+                  "name": "To the hills spice farm",
+                  "text": "Situată în hinterlandul agricol al Zanzibarului, ferma de condimente To the hills se concentrează pe tururi educaționale despre cultivarea condimentelor tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.237491,
+                        -6.089778
+                  ]
+            },
+            {
+                  "name": "Kidichi Spice farm",
+                  "text": "Ferma de condimente Kidichi înconjoară băile persane istorice și oferă un tur senzorial al renumiților arbori de cuișoare și scorțișoară din Zanzibar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.241326,
+                        -6.089637
+                  ]
+            },
+            {
+                  "name": "Maganga Spice Farm",
+                  "text": "Ferma de condimente Maganga oferă o experiență practică în explorarea culturilor agricole parfumate și a fructelor exotice tipice arhipelagului Zanzibar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.244717,
+                        -6.08956
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "Rezervația Forestieră Naturală Masingini protejează zona împădurită situată la cea mai mare altitudine din Zanzibar, renumită pentru maimuțele colobus roșii și izvoarele naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.243217,
+                        -6.101107
+                  ]
+            },
+            {
+                  "name": "Cheetah's Rock",
+                  "text": "Cheetah's Rock este un centru interactiv de salvare a animalelor sălbatice din Zanzibar, unde vizitatorii pot experimenta întâlniri de aproape cu animale africane salvate.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206826,
+                        -6.061776
+                  ]
+            },
+            {
+                  "name": "Hakuna Matata Spice Farm",
+                  "text": "Vizitatorii fermei de condimente Hakuna Matata pot gusta vanilie, piper și cardamom proaspăt recoltate în mijlocul mediului tropical luxuriant din Zanzibar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.250787,
+                        -6.104451
+                  ]
+            },
+            {
+                  "name": "Jambo Spice Farm",
+                  "text": "Ferma de condimente Jambo invită oaspeții să exploreze cultivarea extinsă a condimentelor tradiționale din Zanzibar și a plantelor exotice în cadrul unor tururi pietonale ghidate.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251535,
+                        -6.106536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tangawizi Spice Farm",
+                  "text": "Tangawizi Spice Farm in Zanzibar allows visitors to walk among aromatic botanical plantations cultivating ginger, cloves, and nutmeg.",
+                  "category": "landmark",
+                  "coords": [
+                        39.252473,
+                        -6.106886
+                  ]
+            },
+            {
+                  "name": "Kibweni Palace Museum",
+                  "text": "Kibweni Palace Museum near Zanzibar town showcases the historical artifacts and regal architecture of the island's former Omani sultanate.",
+                  "category": "museum",
+                  "coords": [
+                        39.213184,
+                        -6.112403
+                  ]
+            },
+            {
+                  "name": "Mtoni Palace Ruins",
+                  "text": "The Mtoni Palace Ruins preserve the crumbling courtyard remains of a once-grand 19th-century waterfront residence of the Sultan of Zanzibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.213496,
+                        -6.135542
+                  ]
+            },
+            {
+                  "name": "To the hills spice farm",
+                  "text": "Situated in the agricultural hinterland of Zanzibar, To the hills spice farm focuses on educational tours about tropical spice cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        39.237491,
+                        -6.089778
+                  ]
+            },
+            {
+                  "name": "Kidichi Spice farm",
+                  "text": "The Kidichi Spice farm surrounds historic Persian baths and offers a sensory tour of Zanzibar's renowned cloves and cinnamon trees.",
+                  "category": "landmark",
+                  "coords": [
+                        39.241326,
+                        -6.089637
+                  ]
+            },
+            {
+                  "name": "Maganga Spice Farm",
+                  "text": "Maganga Spice Farm provides a hands-on experience exploring the fragrant agricultural crops and exotic fruits typical of the Zanzibar archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        39.244717,
+                        -6.08956
+                  ]
+            },
+            {
+                  "name": "Masingini Natural Forest Reserve",
+                  "text": "Masingini Natural Forest Reserve protects the highest elevated woodland in Zanzibar, renowned for its red colobus monkeys and natural springs.",
+                  "category": "landmark",
+                  "coords": [
+                        39.243217,
+                        -6.101107
+                  ]
+            },
+            {
+                  "name": "Cheetah's Rock",
+                  "text": "Cheetah's Rock is an interactive wildlife rescue center in Zanzibar where visitors can experience close encounters with rescued African animals.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206826,
+                        -6.061776
+                  ]
+            },
+            {
+                  "name": "Hakuna Matata Spice Farm",
+                  "text": "Visitors to Hakuna Matata Spice Farm can taste freshly harvested vanilla, pepper, and cardamom amid the lush tropical environment of Zanzibar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.250787,
+                        -6.104451
+                  ]
+            },
+            {
+                  "name": "Jambo Spice Farm",
+                  "text": "Jambo Spice Farm invites guests to explore its extensive cultivation of traditional Zanzibar spices and exotic botanicals on guided walking tours.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251535,
+                        -6.106536
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-15",
     coords: [39.2167, -6.1333],
@@ -1347,7 +4038,196 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-kizimkazi-mosque-history-v2",
+    id: "tz-kizimkazi-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zanzibar Butterfly Centre",
+                  "text": "Ein interaktives tropisches Netzgehege, in dem Besucher verschiedene einheimische Schmetterlingsarten Sansibars beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        39.415433,
+                        -6.285521
+                  ]
+            },
+            {
+                  "name": "Mangrove",
+                  "text": "Ein lebenswichtiges küstennahes Ökosystem mit salztoleranten Bäumen, das die Küste Sansibars schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.427932,
+                        -6.279154
+                  ]
+            },
+            {
+                  "name": "Sea Turtles",
+                  "text": "Ein Ort an der Küste, an dem Besucher die Möglichkeit haben, geschützte Meeresschildkröten in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        39.426587,
+                        -6.27639
+                  ]
+            },
+            {
+                  "name": "Red Colobus Monkey",
+                  "text": "Ein geschützter Wald-Hotspot, perfekt, um die seltenen und endemischen Roten Stummelaffen beim Schwingen durch die Baumkronen zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        39.418575,
+                        -6.271416
+                  ]
+            },
+            {
+                  "name": "Mr. Joshi's Living House Ruins",
+                  "text": "Die verfallenden steinernen Überreste eines historischen Wohngebäudes, die langsam von tropischem Dickicht überwuchert werden.",
+                  "category": "historical",
+                  "coords": [
+                        39.415312,
+                        -6.267093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zanzibar Butterfly Centre",
+                  "text": "Interaktív trópusi hálós terület, ahol a látogatók Zanzibár különféle őshonos lepkefajait figyelhetik meg.",
+                  "category": "recreational",
+                  "coords": [
+                        39.415433,
+                        -6.285521
+                  ]
+            },
+            {
+                  "name": "Mangrove",
+                  "text": "Létfontosságú part menti ökoszisztéma sótűrő fákkal, amelyek Zanzibár partvonalát védik.",
+                  "category": "landmark",
+                  "coords": [
+                        39.427932,
+                        -6.279154
+                  ]
+            },
+            {
+                  "name": "Sea Turtles",
+                  "text": "Tengerparti megfigyelőhely, ahol a látogatóknak lehetőségük van védett tengeri teknősöket megfigyelni a természetes élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        39.426587,
+                        -6.27639
+                  ]
+            },
+            {
+                  "name": "Red Colobus Monkey",
+                  "text": "Védett erdei terület, amely tökéletes a ritka és endemikus vörös kolobuszmajmok megfigyelésére, amint a lombok között ugrálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.418575,
+                        -6.271416
+                  ]
+            },
+            {
+                  "name": "Mr. Joshi's Living House Ruins",
+                  "text": "Egy történelmi lakóépület pusztuló kőmaradványai, amelyeket lassan visszahódít a trópusi növényzet.",
+                  "category": "historical",
+                  "coords": [
+                        39.415312,
+                        -6.267093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zanzibar Butterfly Centre",
+                  "text": "O incintă tropicală interactivă unde vizitatorii pot observa diverse specii native de fluturi din Zanzibar.",
+                  "category": "recreational",
+                  "coords": [
+                        39.415433,
+                        -6.285521
+                  ]
+            },
+            {
+                  "name": "Mangrove",
+                  "text": "Un ecosistem de coastă vital, cu copaci toleranți la sare, care protejează țărmul local din Zanzibar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.427932,
+                        -6.279154
+                  ]
+            },
+            {
+                  "name": "Sea Turtles",
+                  "text": "Un loc marin de coastă unde vizitatorii au șansa de a observa broaște țestoase de mare protejate în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        39.426587,
+                        -6.27639
+                  ]
+            },
+            {
+                  "name": "Red Colobus Monkey",
+                  "text": "O zonă forestieră protejată, perfectă pentru a observa rarele și endemicele maimuțe colobus roșu legănându-se prin copaci.",
+                  "category": "landmark",
+                  "coords": [
+                        39.418575,
+                        -6.271416
+                  ]
+            },
+            {
+                  "name": "Mr. Joshi's Living House Ruins",
+                  "text": "Rămășițele de piatră în descompunere ale unei clădiri rezidențiale istorice, încet cucerite de vegetația tropicală.",
+                  "category": "historical",
+                  "coords": [
+                        39.415312,
+                        -6.267093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zanzibar Butterfly Centre",
+                  "text": "An interactive tropical net enclosure where visitors can observe various native Zanzibar butterfly species.",
+                  "category": "recreational",
+                  "coords": [
+                        39.415433,
+                        -6.285521
+                  ]
+            },
+            {
+                  "name": "Mangrove",
+                  "text": "A vital coastal estuarine ecosystem featuring salt-tolerant trees that protect the local Zanzibar shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        39.427932,
+                        -6.279154
+                  ]
+            },
+            {
+                  "name": "Sea Turtles",
+                  "text": "A coastal marine spot where visitors have the chance to observe protected sea turtles in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.426587,
+                        -6.27639
+                  ]
+            },
+            {
+                  "name": "Red Colobus Monkey",
+                  "text": "A protected forest hotspot perfect for spotting the rare and endemic red colobus monkeys swinging through the canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        39.418575,
+                        -6.271416
+                  ]
+            },
+            {
+                  "name": "Mr. Joshi's Living House Ruins",
+                  "text": "The decaying stone remains of a historic residential building slowly being overtaken by tropical overgrowth.",
+                  "category": "historical",
+                  "coords": [
+                        39.415312,
+                        -6.267093
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-16",
     coords: [39.4667, -6.2917],
@@ -1395,7 +4275,196 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tz-mangapwani-caves-history-v2",
+    id: "tz-mangapwani-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coral Cave and Slave Chambers",
+                  "text": "Dieses düstere, tief in das Korallengestein der Küste gehauene Museum bewahrt die unterirdischen Kammern, in denen einst Sklaven illegal versteckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        39.224455,
+                        -6.052237
+                  ]
+            },
+            {
+                  "name": "Pier",
+                  "text": "Dieser rustikale Holzsteg erstreckt sich von der zerklüfteten Küste in das klare Wasser und bietet einen ruhigen Ort, um lokale Fischerboote zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        39.201911,
+                        -6.050262
+                  ]
+            },
+            {
+                  "name": "WWII Bunkers",
+                  "text": "Diese betonierten Verteidigungsanlagen sind als markante militärische Relikte erhalten geblieben, die während des Zweiten Weltkriegs zum Schutz der Küste errichtet wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.185103,
+                        -5.995375
+                  ]
+            },
+            {
+                  "name": "Slave chamber",
+                  "text": "Diese quadratische, direkt in den korallinen Kalkstein gehauene Grube ist ein düsteres historisches Überbleibsel des heimlichen Sklavenhandels im 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18567,
+                        -5.987051
+                  ]
+            },
+            {
+                  "name": "Coral cavern Mangapwani",
+                  "text": "Dieser malerische Aussichtspunkt blickt hinab in eine tiefe natürliche Kalksteinhöhle, die ein kühles, verborgenes Süßwasserbecken birgt.",
+                  "category": "natural",
+                  "coords": [
+                        39.189736,
+                        -6.003274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coral Cave and Slave Chambers",
+                  "text": "A parti korallsziklába vájt komor múzeum megőrzi azokat a földalatti kamrákat, amelyeket egykor rabszolgák illegális elrejtésére használtak.",
+                  "category": "museum",
+                  "coords": [
+                        39.224455,
+                        -6.052237
+                  ]
+            },
+            {
+                  "name": "Pier",
+                  "text": "Ez a rusztikus fapillér a zord partvonalról nyúlik be a tiszta vízbe, békés helyet kínálva a helyi halászhajók megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        39.201911,
+                        -6.050262
+                  ]
+            },
+            {
+                  "name": "WWII Bunkers",
+                  "text": "Ezek a beton védművek zord katonai emlékekként maradtak fenn, amelyeket a part védelmére építettek a második világháború alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.185103,
+                        -5.995375
+                  ]
+            },
+            {
+                  "name": "Slave chamber",
+                  "text": "Ez a közvetlenül a korallmészkőbe vájt négyzet alakú gödör a 19. századi titkos rabszolgakereskedelem zord történelmi mementója.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18567,
+                        -5.987051
+                  ]
+            },
+            {
+                  "name": "Coral cavern Mangapwani",
+                  "text": "Erről a festői kilátópontról egy mély, természetes mészkőbarlangra lehet letekinteni, amely egy hűvös, rejtett édesvízi medencét rejt.",
+                  "category": "natural",
+                  "coords": [
+                        39.189736,
+                        -6.003274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coral Cave and Slave Chambers",
+                  "text": "Săpat adânc în roca de coral de coastă, acest muzeu sumbru conservă camerele subterane folosite cândva pentru ascunderea ilegală a sclavilor.",
+                  "category": "museum",
+                  "coords": [
+                        39.224455,
+                        -6.052237
+                  ]
+            },
+            {
+                  "name": "Pier",
+                  "text": "Acest dig rustic din lemn se extinde de la coasta accidentată în apele limpezi, oferind un loc liniștit pentru a privi bărcile locale de pescuit.",
+                  "category": "landmark",
+                  "coords": [
+                        39.201911,
+                        -6.050262
+                  ]
+            },
+            {
+                  "name": "WWII Bunkers",
+                  "text": "Aceste structuri defensive din beton rămân ca relicve militare austere construite pentru a păzi coasta în timpul celui de-al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        39.185103,
+                        -5.995375
+                  ]
+            },
+            {
+                  "name": "Slave chamber",
+                  "text": "Această groapă pătrată, tăiată direct în calcarul de coral, este o rămășiță istorică sumbră a comerțului clandestin cu sclavi din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18567,
+                        -5.987051
+                  ]
+            },
+            {
+                  "name": "Coral cavern Mangapwani",
+                  "text": "Acest punct de observație pitoresc privește în jos într-o cavernă naturală adâncă din calcar, care adăpostește o piscină ascunsă cu apă dulce și rece.",
+                  "category": "natural",
+                  "coords": [
+                        39.189736,
+                        -6.003274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coral Cave and Slave Chambers",
+                  "text": "Carved deeply into the coastal coral rock, this somber museum preserves the subterranean chambers once used to illegally hide enslaved people.",
+                  "category": "museum",
+                  "coords": [
+                        39.224455,
+                        -6.052237
+                  ]
+            },
+            {
+                  "name": "Pier",
+                  "text": "This rustic wooden pier extends from the rugged coastline into the clear waters, offering a peaceful spot to watch local fishing boats.",
+                  "category": "landmark",
+                  "coords": [
+                        39.201911,
+                        -6.050262
+                  ]
+            },
+            {
+                  "name": "WWII Bunkers",
+                  "text": "These concrete defensive structures remain as stark military relics built to guard the coast during the Second World War.",
+                  "category": "landmark",
+                  "coords": [
+                        39.185103,
+                        -5.995375
+                  ]
+            },
+            {
+                  "name": "Slave chamber",
+                  "text": "This square pit, cut directly into the coralline limestone, is a grim historical remnant of the clandestine 19th-century slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        39.18567,
+                        -5.987051
+                  ]
+            },
+            {
+                  "name": "Coral cavern Mangapwani",
+                  "text": "This scenic vantage point looks down into a deep natural limestone cavern that shelters a cool, hidden freshwater pool.",
+                  "category": "natural",
+                  "coords": [
+                        39.189736,
+                        -6.003274
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TZ-15",
     coords: [39.1833, -5.9833],

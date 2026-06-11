@@ -5254,7 +5254,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "Barockkirche, die der Heiligsten Dreifaltigkeit in Valeč gewidmet ist.",
+                  "text": "1728 von Giovanni Antonio Biana Rossa im Barockstil erbaute Kirche beim Schloss Valeč.",
                   "category": "religious",
                   "coords": [
                         13.250529,
@@ -5328,7 +5328,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "A Szentháromságnak szentelt barokk templom Valečben.",
+                  "text": "1728-ban Giovanni Antonio Biana Rossa által épített barokk templom a Valeč-kastély közelében.",
                   "category": "religious",
                   "coords": [
                         13.250529,
@@ -5402,7 +5402,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "Biserică barocă dedicată Sfintei Treimi în Valeč.",
+                  "text": "Biserică barocă construită în 1728 de Giovanni Antonio Biana Rossa lângă Castelul Valeč.",
                   "category": "religious",
                   "coords": [
                         13.250529,
@@ -5476,7 +5476,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "Baroque church dedicated to the Holy Trinity in Valeč.",
+                  "text": "Baroque church built 1728 by Giovanni Antonio Biana Rossa near Valeč Château.",
                   "category": "religious",
                   "coords": [
                         13.250529,

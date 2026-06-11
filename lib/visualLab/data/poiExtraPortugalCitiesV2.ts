@@ -2357,7 +2357,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte de São Sebastião",
-                  "text": "Eine Küstenfestung in Horta auf der Insel Faial.",
+                  "text": "Festung aus dem 17. Jahrhundert in Horta auf den Azoren.",
                   "category": "fortress",
                   "coords": [
                         -28.629748,
@@ -2384,7 +2384,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete do Pilar",
-                  "text": "Ein elegantes Herrenhaus in Horta auf den Azoren.",
+                  "text": "1780 erbautes Palais in Horta auf den Azoren.",
                   "category": "historical",
                   "coords": [
                         -28.625983,
@@ -2402,7 +2402,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Matriz do Santíssimo Salvador",
-                  "text": "Die barocke Hauptkirche von Horta.",
+                  "text": "Am 30. Oktober 1825 geweihte Hauptkirche Santíssimo Salvador in Horta.",
                   "category": "religious",
                   "coords": [
                         -28.626799,
@@ -2411,7 +2411,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora das Angústias",
-                  "text": "Eine bedeutende Kirche in Horta auf der Insel Faial.",
+                  "text": "Am 28. November 1684 geweihte Kirche Unserer Lieben Frau der Ängste in Horta.",
                   "category": "religious",
                   "coords": [
                         -28.626995,
@@ -2818,7 +2818,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte de São Sebastião",
-                  "text": "Parti erőd Horta városában, Faial szigetén.",
+                  "text": "17. századi erőd Horta városában, az Azori-szigeteken.",
                   "category": "fortress",
                   "coords": [
                         -28.629748,
@@ -2845,7 +2845,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete do Pilar",
-                  "text": "Elegáns udvarház Hortában, az Azori-szigeteken.",
+                  "text": "1780-ban épült palota Horta városában, az Azori-szigeteken.",
                   "category": "historical",
                   "coords": [
                         -28.625983,
@@ -2863,7 +2863,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Matriz do Santíssimo Salvador",
-                  "text": "Horta barokk főtemploma.",
+                  "text": "1825. október 30-án felszentelt Santíssimo Salvador főtemplom Horta városában.",
                   "category": "religious",
                   "coords": [
                         -28.626799,
@@ -2872,7 +2872,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora das Angústias",
-                  "text": "Jelentős templom Hortában, Faial szigetén.",
+                  "text": "1684. november 28-án felszentelt Fájdalmas Szűzanya-templom Horta városában.",
                   "category": "religious",
                   "coords": [
                         -28.626995,
@@ -3279,7 +3279,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte de São Sebastião",
-                  "text": "O fortăreață de coastă în Horta, pe insula Faial.",
+                  "text": "Fortăreață din secolul al XVII-lea în Horta, Insulele Azore.",
                   "category": "fortress",
                   "coords": [
                         -28.629748,
@@ -3306,7 +3306,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete do Pilar",
-                  "text": "Un conac elegant în Horta, în Azore.",
+                  "text": "Palat construit în 1780 în Horta, Insulele Azore.",
                   "category": "historical",
                   "coords": [
                         -28.625983,
@@ -3324,7 +3324,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Matriz do Santíssimo Salvador",
-                  "text": "Biserica principală barocă din Horta.",
+                  "text": "Biserica principală Santíssimo Salvador, sfințită la 30 octombrie 1825, în Horta.",
                   "category": "religious",
                   "coords": [
                         -28.626799,
@@ -3333,7 +3333,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora das Angústias",
-                  "text": "O biserică importantă din Horta, pe insula Faial.",
+                  "text": "Biserica Maicii Domnului a Întristării, sfințită la 28 noiembrie 1684, în Horta.",
                   "category": "religious",
                   "coords": [
                         -28.626995,
@@ -3740,7 +3740,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte de São Sebastião",
-                  "text": "A coastal fort in Horta on Faial Island.",
+                  "text": "17th-century fortress in Horta, Azores.",
                   "category": "fortress",
                   "coords": [
                         -28.629748,
@@ -3767,7 +3767,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete do Pilar",
-                  "text": "An elegant manor house in Horta, Azores.",
+                  "text": "Palace built in 1780 in Horta, Azores.",
                   "category": "historical",
                   "coords": [
                         -28.625983,
@@ -3785,7 +3785,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Matriz do Santíssimo Salvador",
-                  "text": "The Baroque main church of Horta.",
+                  "text": "Main church Santíssimo Salvador consecrated 30 October 1825 in Horta.",
                   "category": "religious",
                   "coords": [
                         -28.626799,
@@ -3794,7 +3794,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of Anguish",
-                  "text": "A significant church in Horta on Faial Island.",
+                  "text": "Church of Our Lady of Anguish consecrated 28 November 1684 in Horta.",
                   "category": "religious",
                   "coords": [
                         -28.626995,
@@ -11420,7 +11420,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Trindade",
-                  "text": "Ein historisches Herrenhaus und Anwesen in Seixal.",
+                  "text": "Denkmalgeschützter Herrensitz (Quinta) in Seixal.",
                   "category": "historical",
                   "coords": [
                         -9.09298,
@@ -11827,7 +11827,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Trindade",
-                  "text": "Történelmi udvarház és birtok Seixalban.",
+                  "text": "Műemlék kúria (quinta) Seixalban.",
                   "category": "historical",
                   "coords": [
                         -9.09298,
@@ -12234,7 +12234,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Trindade",
-                  "text": "Un conac și o proprietate istorică situată în Seixal.",
+                  "text": "Moșie istorică protejată (quinta) în Seixal.",
                   "category": "historical",
                   "coords": [
                         -9.09298,
@@ -12641,7 +12641,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Trindade",
-                  "text": "A historic manor and estate located in Seixal.",
+                  "text": "Heritage-listed historical estate (quinta) in Seixal.",
                   "category": "historical",
                   "coords": [
                         -9.09298,
@@ -12896,7 +12896,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cinema-Teatro Joaquim d´Almeida",
-                  "text": "Ein bedeutendes Kultur- und Theaterzentrum in Montijo.",
+                  "text": "Kino und Theater, erbaut 1957 von Architekt Sérgio Gomes in Montijo.",
                   "category": "cultural",
                   "coords": [
                         -8.970414,
@@ -13078,7 +13078,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cinema-Teatro Joaquim d´Almeida",
-                  "text": "Montijo városának jelentős kulturális és színházi központja.",
+                  "text": "1957-ben épült mozi és színház Sérgio Gomes építész tervei alapján Montijóban.",
                   "category": "cultural",
                   "coords": [
                         -8.970414,
@@ -13260,7 +13260,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cinema-Teatro Joaquim d´Almeida",
-                  "text": "Un important centru cultural și teatral în Montijo.",
+                  "text": "Cinematograf și teatru construit în 1957 de arhitectul Sérgio Gomes în Montijo.",
                   "category": "cultural",
                   "coords": [
                         -8.970414,
@@ -13442,7 +13442,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cinema-Teatro Joaquim d´Almeida",
-                  "text": "A prominent cultural and theatrical centre in Montijo.",
+                  "text": "Cinema and theatre built in 1957 by architect Sérgio Gomes in Montijo.",
                   "category": "cultural",
                   "coords": [
                         -8.970414,
@@ -17099,7 +17099,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vila do Conde",
-                  "text": "Ein historischer Pranger und Wahrzeichen der städtischen Gerichtsbarkeit.",
+                  "text": "Denkmalgeschützter Pranger aus dem 16. Jahrhundert in Vila do Conde.",
                   "category": "landmark",
                   "coords": [
                         -8.743456,
@@ -17126,7 +17126,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Maria de Azurara",
-                  "text": "Eine bedeutende Kirche im gotischen Manuelinik-Stil in Azurara.",
+                  "text": "Denkmalgeschützte Kirche Santa Maria in Azurara, Vila do Conde.",
                   "category": "religious",
                   "coords": [
                         -8.735667,
@@ -17497,7 +17497,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vila do Conde",
-                  "text": "Történelmi szégyenoszlop, amely a városi önkormányzat jelképe.",
+                  "text": "16. századi, műemlék pellengér Vila do Conde-ban.",
                   "category": "landmark",
                   "coords": [
                         -8.743456,
@@ -17524,7 +17524,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Maria de Azurara",
-                  "text": "Jelentős gótikus-ánuelei stílusú templom Azurarában.",
+                  "text": "Műemlék Santa Maria-templom Azurarában, Vila do Conde mellett.",
                   "category": "religious",
                   "coords": [
                         -8.735667,
@@ -17895,7 +17895,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vila do Conde",
-                  "text": "Un stâlp al infamiei istoric, simbol al autorității municipale.",
+                  "text": "Pilori din secolul al XVI-lea, monument istoric în Vila do Conde.",
                   "category": "landmark",
                   "coords": [
                         -8.743456,
@@ -17922,7 +17922,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Maria de Azurara",
-                  "text": "O biserică importantă în stil gotic-manuelin din Azurara.",
+                  "text": "Biserica Santa Maria, monument istoric în Azurara, Vila do Conde.",
                   "category": "religious",
                   "coords": [
                         -8.735667,
@@ -18293,7 +18293,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vila do Conde",
-                  "text": "A historic pillory and symbol of municipal authority.",
+                  "text": "16th-century heritage-listed pillory in Vila do Conde.",
                   "category": "landmark",
                   "coords": [
                         -8.743456,
@@ -18320,7 +18320,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Maria de Azurara",
-                  "text": "A significant Gothic-Manueline church located in Azurara.",
+                  "text": "Heritage-listed church of Santa Maria in Azurara, Vila do Conde.",
                   "category": "religious",
                   "coords": [
                         -8.735667,
@@ -19088,7 +19088,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Castelo de Moura",
-                  "text": "Eine historische Burgruine mit Blick über die Stadt Moura.",
+                  "text": "Denkmalgeschützte Burg in Moura.",
                   "category": "castle",
                   "coords": [
                         -7.451579,
@@ -19180,7 +19180,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Castelo de Moura",
-                  "text": "Történelmi várrom, amely Moura városára néz.",
+                  "text": "Műemlék vár Mourában.",
                   "category": "castle",
                   "coords": [
                         -7.451579,
@@ -19272,7 +19272,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castelo de Moura",
-                  "text": "Ruinele unui castel istoric cu vedere spre orașul Moura.",
+                  "text": "Castelul din Moura, monument istoric.",
                   "category": "castle",
                   "coords": [
                         -7.451579,
@@ -19364,7 +19364,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Castelo de Moura",
-                  "text": "A historic castle ruin overlooking the town of Moura.",
+                  "text": "Heritage-listed castle in Moura.",
                   "category": "castle",
                   "coords": [
                         -7.451579,
@@ -23904,7 +23904,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Anta de Santa Marta",
-                  "text": "Die Anta de Santa Marta ist ein bedeutendes prähistorisches Megalithgrab in der Nähe von Penafiel.",
+                  "text": "Denkmalgeschützter Dolmen (Anta) in Penafiel.",
                   "category": "historical",
                   "coords": [
                         -8.25385,
@@ -24032,7 +24032,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Anta de Santa Marta",
-                  "text": "Az Anta de Santa Marta egy jelentős prehisztorikus megalitikus sír Penafiel közelében.",
+                  "text": "Műemlék dolmen (anta) Penafielben.",
                   "category": "historical",
                   "coords": [
                         -8.25385,
@@ -24160,7 +24160,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Anta de Santa Marta",
-                  "text": "Anta de Santa Marta este un mormânt megalitic preistoric important de lângă Penafiel.",
+                  "text": "Dolmen (anta) protejat în Penafiel.",
                   "category": "historical",
                   "coords": [
                         -8.25385,
@@ -24288,7 +24288,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Anta de Santa Marta",
-                  "text": "The Anta de Santa Marta is a significant prehistoric megalithic tomb near Penafiel.",
+                  "text": "Heritage-listed dolmen (anta) in Penafiel.",
                   "category": "historical",
                   "coords": [
                         -8.25385,
@@ -33579,7 +33579,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Castelo de Mogadouro",
-                  "text": "Überreste einer mittelalterlichen Burg, die Mogadouro überragt.",
+                  "text": "Denkmalgeschützte Burg in Mogadouro.",
                   "category": "castle",
                   "coords": [
                         -6.720319,
@@ -33689,7 +33689,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Castelo de Mogadouro",
-                  "text": "Mogadouro fölé magasodó középkori vár maradványai.",
+                  "text": "Műemlék vár Mogadouróban.",
                   "category": "castle",
                   "coords": [
                         -6.720319,
@@ -33799,7 +33799,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castelo de Mogadouro",
-                  "text": "Vestigiile unui castel medieval care domină Mogadouro.",
+                  "text": "Castelul din Mogadouro, monument istoric.",
                   "category": "castle",
                   "coords": [
                         -6.720319,
@@ -33909,7 +33909,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Castelo de Mogadouro",
-                  "text": "Remains of a medieval castle overlooking Mogadouro.",
+                  "text": "Heritage-listed castle in Mogadouro.",
                   "category": "castle",
                   "coords": [
                         -6.720319,
@@ -36045,7 +36045,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Castelo de Penela",
-                  "text": "Eine mittelalterliche Burg, die den Ort Penela überragt.",
+                  "text": "Denkmalgeschützte Burg in Penela.",
                   "category": "castle",
                   "coords": [
                         -8.39034,
@@ -36081,7 +36081,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Penela",
-                  "text": "Ein historischer Pranger auf dem Hauptplatz von Penela.",
+                  "text": "Denkmalgeschützter Pranger aus dem 16. Jahrhundert in Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.390909,
@@ -36128,7 +36128,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Castelo de Penela",
-                  "text": "Középkori vár, amely Penela városa fölé magasodik.",
+                  "text": "Műemlék vár Penelában.",
                   "category": "castle",
                   "coords": [
                         -8.39034,
@@ -36164,7 +36164,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Penela",
-                  "text": "Történelmi szégyenoszlop Penela főterén.",
+                  "text": "16. századi, műemlék pellengér Penelában.",
                   "category": "landmark",
                   "coords": [
                         -8.390909,
@@ -36211,7 +36211,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castelo de Penela",
-                  "text": "O cetate medievală care domină localitatea Penela.",
+                  "text": "Castelul din Penela, monument istoric.",
                   "category": "castle",
                   "coords": [
                         -8.39034,
@@ -36247,7 +36247,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Penela",
-                  "text": "Un stâlp al infamiei istoric în piața principală din Penela.",
+                  "text": "Pilori din secolul al XVI-lea, monument istoric în Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.390909,
@@ -36294,7 +36294,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Castelo de Penela",
-                  "text": "A medieval castle overlooking the town of Penela.",
+                  "text": "Heritage-listed castle in Penela.",
                   "category": "castle",
                   "coords": [
                         -8.39034,
@@ -36330,7 +36330,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Penela",
-                  "text": "A historic pillory in the main square of Penela.",
+                  "text": "16th-century heritage-listed pillory in Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.390909,
@@ -37386,7 +37386,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Quinta de Marim 1",
-                  "text": "Überreste einer römischen Villa mit Mosaiken in der Nähe von Olhão.",
+                  "text": "Historisches Anwesen (Quinta) nahe der Ria-Formosa-Lagune in Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.812196,
@@ -37395,7 +37395,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Villa romana da Quinta de Marim",
-                  "text": "Eine archäologische Ausgrabungsstätte einer römischen Villa in Olhão.",
+                  "text": "Römische Villa nahe der Ria-Formosa-Lagune in Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.813882,
@@ -37613,7 +37613,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Quinta de Marim 1",
-                  "text": "Római villa maradványai mozaikokkal Olhão közelében.",
+                  "text": "Történelmi birtok (quinta) a Ria Formosa lagúna közelében Olhãóban.",
                   "category": "historical",
                   "coords": [
                         -7.812196,
@@ -37622,7 +37622,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Villa romana da Quinta de Marim",
-                  "text": "Egy római villa régészeti lelőhelye Olhãóban.",
+                  "text": "Római villa a Ria Formosa lagúna közelében Olhãóban.",
                   "category": "historical",
                   "coords": [
                         -7.813882,
@@ -37840,7 +37840,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Quinta de Marim 1",
-                  "text": "Rămășițele unei vile romane cu mozaicuri lângă Olhão.",
+                  "text": "Proprietate istorică (quinta) lângă laguna Ria Formosa în Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.812196,
@@ -37849,7 +37849,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Villa romana da Quinta de Marim",
-                  "text": "Un sit arheologic al unei vile romane în Olhão.",
+                  "text": "Villa romană lângă laguna Ria Formosa în Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.813882,
@@ -38067,7 +38067,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Quinta de Marim 1",
-                  "text": "Remains of a Roman villa with mosaics near Olhão.",
+                  "text": "Historical estate near the Ria Formosa lagoon in Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.812196,
@@ -38076,7 +38076,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Villa romana da Quinta de Marim",
-                  "text": "An archaeological site of a Roman villa in Olhão.",
+                  "text": "Roman villa site near the Ria Formosa lagoon in Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.813882,

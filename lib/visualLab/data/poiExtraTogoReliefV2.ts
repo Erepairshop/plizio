@@ -207,7 +207,52 @@ export const poiExtraTogoReliefV2: POI[] = [
     },
   },
   {
-    id: "kabye-mountains-relief-v2",
+    id: "kabye-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "Das Denkmal der Märtyrer von Pya Hodo steht als steinerne Gedenkstätte vor der bergigen Kulisse der Kabye-Berge.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "A Martyrs de Pya Hodo emlékmű egy kő emlékhely, amely a Kabye-hegység hegyvidéki hátterében áll.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "Monumentul Martirilor din Pya Hodo este o structură memorială de piatră așezată pe fundalul muntos al Munților Kabye.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "The Martyrs de Pya Hodo monument stands as a stone memorial structure set against the mountainous backdrop of the Kabye Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TG-K",
     coords: [1.15, 9.60],
@@ -479,7 +524,88 @@ export const poiExtraTogoReliefV2: POI[] = [
     },
   },
   {
-    id: "oti-basin-relief-v2",
+    id: "oti-basin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo Pond",
+                  "text": "Der Hippo Pond ist ein schlammiges natürliches Wasserloch im Oti-Becken, an dem sich häufig Flusspferde versammeln und untertauchen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472728,
+                        10.404049
+                  ]
+            },
+            {
+                  "name": "Barrage de koumbeloti",
+                  "text": "Der Barrage de koumbeloti ist ein Betondammbauwerk, das einen Stausee bildet, der sowohl der lokalen Wasserversorgung als auch dem umliegenden Ökosystem dient.",
+                  "category": "landmark",
+                  "coords": [
+                        0.467348,
+                        10.404248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo Pond",
+                  "text": "A Hippo Pond egy iszapos természetes itató az Oti-medencében, ahol a vízilovak gyakran gyülekeznek és merülnek a vízbe.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472728,
+                        10.404049
+                  ]
+            },
+            {
+                  "name": "Barrage de koumbeloti",
+                  "text": "A Barrage de koumbeloti egy betongát, amely egy víztározót hoz létre, kiszolgálva mind a helyi vízellátást, mind a környező ökoszisztémát.",
+                  "category": "landmark",
+                  "coords": [
+                        0.467348,
+                        10.404248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo Pond",
+                  "text": "Hippo Pond este un ochi de apă natural și noroios în Bazinul Oti, unde hipopotamii se adună și se scufundă frecvent.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472728,
+                        10.404049
+                  ]
+            },
+            {
+                  "name": "Barrage de koumbeloti",
+                  "text": "Barrage de koumbeloti este un baraj de beton care creează un rezervor ce deservește atât alimentarea cu apă locală, cât și ecosistemul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        0.467348,
+                        10.404248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo Pond",
+                  "text": "The Hippo Pond is a muddy natural watering hole in the Oti Basin where hippopotamuses frequently gather and submerge themselves.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472728,
+                        10.404049
+                  ]
+            },
+            {
+                  "name": "Barrage de koumbeloti",
+                  "text": "The Barrage de koumbeloti is a concrete dam structure creating a reservoir that serves both the local water supply and the surrounding ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        0.467348,
+                        10.404248
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "TG-S",
     coords: [0.45, 10.40],
@@ -819,7 +945,196 @@ export const poiExtraTogoReliefV2: POI[] = [
     },
   },
   {
-    id: "kloto-forest-relief-v2",
+    id: "kloto-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boutique la Lumière",
+                  "text": "Eine lokale Attraktion in der waldreichen Landschaft der Kloto-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.606721,
+                        6.929773
+                  ]
+            },
+            {
+                  "name": "Prison allemande",
+                  "text": "Die Überreste eines historischen deutschen Kolonialgefängnisses in der bergigen Kloto-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.584524,
+                        6.947131
+                  ]
+            },
+            {
+                  "name": "Centre de peinture naturelle",
+                  "text": "Ein Kunstzentrum in der Nähe des Kloto-Waldes, das natürliche Maltechniken präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        0.570204,
+                        6.97552
+                  ]
+            },
+            {
+                  "name": "Mount Aduadu",
+                  "text": "Ein markanter Berggipfel, der weite Ausblicke über die Relieflandschaft von Kloto bietet.",
+                  "category": "natural",
+                  "coords": [
+                        0.571187,
+                        7.019716
+                  ]
+            },
+            {
+                  "name": "Château Viale",
+                  "text": "Ein schlossartiges Bauwerk in den Hügeln der Kloto-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.582161,
+                        6.951989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boutique la Lumière",
+                  "text": "Egy helyi látványosság a Kloto régió erdős domborzatú vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        0.606721,
+                        6.929773
+                  ]
+            },
+            {
+                  "name": "Prison allemande",
+                  "text": "Egy történelmi német gyarmati börtön romjai a hegyvidéki Kloto régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.584524,
+                        6.947131
+                  ]
+            },
+            {
+                  "name": "Centre de peinture naturelle",
+                  "text": "Egy művészeti központ a Kloto-erdő közelében, amely természetes festési technikákat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        0.570204,
+                        6.97552
+                  ]
+            },
+            {
+                  "name": "Mount Aduadu",
+                  "text": "Egy kiemelkedő hegycsúcs, amely széles panorámát nyújt a Kloto régió domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        0.571187,
+                        7.019716
+                  ]
+            },
+            {
+                  "name": "Château Viale",
+                  "text": "Egy kastélyszerű építmény a Kloto régió dombjain.",
+                  "category": "landmark",
+                  "coords": [
+                        0.582161,
+                        6.951989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boutique la Lumière",
+                  "text": "O atracție locală situată în peisajul împădurit al regiunii Kloto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.606721,
+                        6.929773
+                  ]
+            },
+            {
+                  "name": "Prison allemande",
+                  "text": "Rămășițele unei închisori coloniale germane istorice din regiunea muntoasă Kloto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.584524,
+                        6.947131
+                  ]
+            },
+            {
+                  "name": "Centre de peinture naturelle",
+                  "text": "Un centru de artă din apropierea pădurii Kloto, care prezintă tehnici de pictură naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        0.570204,
+                        6.97552
+                  ]
+            },
+            {
+                  "name": "Mount Aduadu",
+                  "text": "Un vârf montan proeminent care oferă vederi ample asupra reliefului regiunii Kloto.",
+                  "category": "natural",
+                  "coords": [
+                        0.571187,
+                        7.019716
+                  ]
+            },
+            {
+                  "name": "Château Viale",
+                  "text": "O structură asemănătoare unui castel, situată pe dealurile regiunii Kloto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.582161,
+                        6.951989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boutique la Lumière",
+                  "text": "A local attraction set within the forested landscape of the Kloto region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.606721,
+                        6.929773
+                  ]
+            },
+            {
+                  "name": "German prison",
+                  "text": "The remnants of a historic German colonial prison located in the mountainous Kloto region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.584524,
+                        6.947131
+                  ]
+            },
+            {
+                  "name": "Natural painting center",
+                  "text": "An arts center near the Kloto forest showcasing natural painting techniques.",
+                  "category": "landmark",
+                  "coords": [
+                        0.570204,
+                        6.97552
+                  ]
+            },
+            {
+                  "name": "Mount Aduadu",
+                  "text": "A prominent mountain peak offering expansive views over the Kloto relief landscape.",
+                  "category": "natural",
+                  "coords": [
+                        0.571187,
+                        7.019716
+                  ]
+            },
+            {
+                  "name": "Château Viale",
+                  "text": "A castle-like structure set in the hills of the Kloto region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.582161,
+                        6.951989
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TG-P",
     coords: [0.60, 6.95],
@@ -955,7 +1270,52 @@ export const poiExtraTogoReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-afi-relief-v2",
+    id: "mount-afi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Danyi road",
+                  "text": "Der Aussichtspunkt an der Danyi-Straße bietet einen weiten Panoramablick über die hügelige Landschaft der Region um den Mont Afi.",
+                  "category": "natural",
+                  "coords": [
+                        0.658602,
+                        7.127955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Danyi road",
+                  "text": "A Danyi út kilátópontja széles panorámát nyújt a Mount Afi régió zord, hegyvidéki terepére.",
+                  "category": "natural",
+                  "coords": [
+                        0.658602,
+                        7.127955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Danyi road",
+                  "text": "Punctul de belvedere de pe drumul Danyi oferă o panoramă largă asupra terenului accidentat din regiunea Mont Afi.",
+                  "category": "natural",
+                  "coords": [
+                        0.658602,
+                        7.127955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Danyi road",
+                  "text": "The Danyi road viewpoint offers panoramic vistas over the rugged terrain of the Mount Afi region.",
+                  "category": "natural",
+                  "coords": [
+                        0.658602,
+                        7.127955
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TG-P",
     coords: [0.65, 7.10],

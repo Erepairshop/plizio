@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraCongoLandmarksV2: POI[] = [
   {
-    id: "cg-nabemba-tower-landmarks-v2",
+    id: "cg-nabemba-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basilique Sainte-Anne",
+                  "text": "Die Basilique Sainte-Anne-du-Congo in Brazzaville ist bekannt für ihr auffälliges grünes Ziegeldach und ihre markante modernistische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        15.284492,
+                        -4.268398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basilique Sainte-Anne",
+                  "text": "A brazzaville-i Sainte-Anne-du-Congo bazilika lenyűgöző zöld cseréptetejéről és jellegzetes modernista építészetéről híres.",
+                  "category": "religious",
+                  "coords": [
+                        15.284492,
+                        -4.268398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basilique Sainte-Anne",
+                  "text": "Bazilica Sainte-Anne-du-Congo din Brazzaville este renumită pentru acoperișul său impresionant din țiglă verde și arhitectura modernistă distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        15.284492,
+                        -4.268398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basilique Sainte-Anne",
+                  "text": "The Basilica of Sainte-Anne-du-Congo in Brazzaville is renowned for its striking green-tiled roof and distinctive modernist architecture.",
+                  "category": "religious",
+                  "coords": [
+                        15.284492,
+                        -4.268398
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-BZV",
     coords: [15.2852, -4.2694],
@@ -93,7 +138,88 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       fr: ["Centre islamique", "Minarets élégants", "Lieu de rencontre culturel", "Art islamique moderne"],
     }, image: "/poi-images/cg-grand-mosque-brazzaville-landmarks-v2.webp"},
   {
-    id: "cg-massamba-debat-stadium-landmarks-v2",
+    id: "cg-massamba-debat-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument UTA",
+                  "text": "Das Monument UTA ist ein Gedenkbauwerk in der Nähe des Massamba-Debat-Stadions in Brazzaville.",
+                  "category": "historical",
+                  "coords": [
+                        15.264955,
+                        -4.276426
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "Das Institut Français in Brazzaville ist ein wichtiges Kunstzentrum für frankophone Kulturveranstaltungen und Sprachprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258775,
+                        -4.280237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument UTA",
+                  "text": "A Monument UTA egy emlékmű a brazzaville-i Massamba-Debat Stadion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.264955,
+                        -4.276426
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "A brazzaville-i Institut Français a frankofón kulturális előadások és nyelvi programok elsődleges művészeti központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258775,
+                        -4.280237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument UTA",
+                  "text": "Monument UTA este o structură comemorativă situată în apropierea stadionului Massamba-Debat din Brazzaville.",
+                  "category": "historical",
+                  "coords": [
+                        15.264955,
+                        -4.276426
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "Institut Français din Brazzaville acționează ca un centru principal de arte pentru spectacole culturale francofone și programe lingvistice.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258775,
+                        -4.280237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument UTA",
+                  "text": "Monument UTA stands as a commemorative structure near the Massamba-Debat Stadium in Brazzaville.",
+                  "category": "historical",
+                  "coords": [
+                        15.264955,
+                        -4.276426
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "The Institut Français in Brazzaville acts as a primary arts centre for Francophone cultural performances and language programs.",
+                  "category": "cultural",
+                  "coords": [
+                        15.258775,
+                        -4.280237
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-BZV",
     coords: [15.2638, -4.2789],
@@ -183,7 +309,88 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       fr: ["Église africaine", "Centre religieux", "Capacité de milliers de personnes", "Façade blanche épurée"],
     }, image: "/poi-images/cg-kimbanguist-temple-landmarks-v2.webp"},
   {
-    id: "cg-pointe-noire-railway-station-landmarks-v2",
+    id: "cg-pointe-noire-railway-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casino mirage",
+                  "text": "Das Casino Mirage bietet lokales Glücksspiel und Unterhaltung in der Nähe des historischen Bahnhofs von Pointe-Noire.",
+                  "category": "landmark",
+                  "coords": [
+                        11.862527,
+                        -4.789806
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "Dieses Kulturzentrum veranstaltet frankophone Kunstausstellungen, Konzerte und literarische Events in der Nähe des Hauptbahnhofs.",
+                  "category": "cultural",
+                  "coords": [
+                        11.859522,
+                        -4.792548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casino mirage",
+                  "text": "A Casino Mirage helyi szerencsejátékot és szórakozást kínál Pointe-Noire történelmi vasútállomása közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.862527,
+                        -4.789806
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "Ez a kulturális központ frankofón művészeti kiállításoknak, koncerteknek és irodalmi eseményeknek ad otthont a fő vasúti csomópont közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        11.859522,
+                        -4.792548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casino mirage",
+                  "text": "Cazinoul Mirage oferă jocuri de noroc și divertisment local în apropierea gării istorice din Pointe-Noire.",
+                  "category": "landmark",
+                  "coords": [
+                        11.862527,
+                        -4.789806
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "Acest centru cultural găzduiește expoziții de artă francofonă, concerte și evenimente literare în apropierea principalului nod feroviar.",
+                  "category": "cultural",
+                  "coords": [
+                        11.859522,
+                        -4.792548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casino mirage",
+                  "text": "Casino Mirage offers local gaming and entertainment near the historic Pointe-Noire railway station.",
+                  "category": "landmark",
+                  "coords": [
+                        11.862527,
+                        -4.789806
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "This cultural center hosts francophone art exhibitions, concerts, and literary events near the main railway hub.",
+                  "category": "cultural",
+                  "coords": [
+                        11.859522,
+                        -4.792548
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-PNR",
     coords: [11.8541, -4.7831],
@@ -319,7 +526,196 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     }
   },
   {
-    id: "cg-agostino-neto-airport-landmarks-v2",
+    id: "cg-agostino-neto-airport-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "COGELO Fond Tié-Tié",
+                  "text": "Dieses Denkmal markiert den Standort der staatlichen Lotterieverwaltung im belebten Viertel Tié-Tié in der Nähe des Flughafens.",
+                  "category": "historical",
+                  "coords": [
+                        11.89407,
+                        -4.800729
+                  ]
+            },
+            {
+                  "name": "Rond point Fond Tié-Tié",
+                  "text": "Dieses zentrale Kreisverkehr-Denkmal dient als wichtiger Verkehrsknotenpunkt und Treffpunkt im lebhaften Bezirk Tié-Tié.",
+                  "category": "historical",
+                  "coords": [
+                        11.897137,
+                        -4.803612
+                  ]
+            },
+            {
+                  "name": "Chez Charles",
+                  "text": "Chez Charles ist ein imposantes Wohn- oder Veranstaltungsanwesen in der Nähe des Flughafens Agostinho Neto.",
+                  "category": "castle",
+                  "coords": [
+                        11.869914,
+                        -4.810797
+                  ]
+            },
+            {
+                  "name": "chez jack",
+                  "text": "Dieses markante, festungsartige Anwesen ist ein auffälliges lokales Wahrzeichen in der Nähe des Luftfahrtzentrums von Pointe-Noire.",
+                  "category": "castle",
+                  "coords": [
+                        11.872496,
+                        -4.801956
+                  ]
+            },
+            {
+                  "name": "Chez Rivez",
+                  "text": "Chez Rivez ist ein massiv gebautes, schlossartiges Anwesen, das an den Straßen in der Nähe des Flughafens liegt.",
+                  "category": "castle",
+                  "coords": [
+                        11.875429,
+                        -4.815139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "COGELO Fond Tié-Tié",
+                  "text": "Ez az emlékmű az állami lottóigazgatóság helyét jelöli a repülőtérhez közeli, nyüzsgő Tié-Tié negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        11.89407,
+                        -4.800729
+                  ]
+            },
+            {
+                  "name": "Rond point Fond Tié-Tié",
+                  "text": "Ez a központi körforgalmi emlékmű fontos közlekedési csomópontként és találkozóhelyként szolgál az élénk Tié-Tié negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        11.897137,
+                        -4.803612
+                  ]
+            },
+            {
+                  "name": "Chez Charles",
+                  "text": "A Chez Charles egy impozáns lakó- vagy rendezvénybirtok az Agostinho Neto repülőtér közelében.",
+                  "category": "castle",
+                  "coords": [
+                        11.869914,
+                        -4.810797
+                  ]
+            },
+            {
+                  "name": "chez jack",
+                  "text": "Ez a feltűnő, erődítményszerű birtok egy kiemelkedő helyi tájékozódási pont Pointe-Noire légiközlekedési központja közelében.",
+                  "category": "castle",
+                  "coords": [
+                        11.872496,
+                        -4.801956
+                  ]
+            },
+            {
+                  "name": "Chez Rivez",
+                  "text": "A Chez Rivez egy masszív építésű, kastélyszerű ingatlan, amely a repülőtér közeli utak mentén helyezkedik el.",
+                  "category": "castle",
+                  "coords": [
+                        11.875429,
+                        -4.815139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "COGELO Fond Tié-Tié",
+                  "text": "Acest monument marchează locația administrației loteriei de stat în cartierul plin de viață Tié-Tié, lângă aeroport.",
+                  "category": "historical",
+                  "coords": [
+                        11.89407,
+                        -4.800729
+                  ]
+            },
+            {
+                  "name": "Rond point Fond Tié-Tié",
+                  "text": "Acest monument central din sensul giratoriu servește ca un nod de trafic major și punct de întâlnire în cartierul animat Tié-Tié.",
+                  "category": "historical",
+                  "coords": [
+                        11.897137,
+                        -4.803612
+                  ]
+            },
+            {
+                  "name": "Chez Charles",
+                  "text": "Chez Charles este o proprietate rezidențială sau de evenimente impunătoare, situată în apropierea Aeroportului Agostinho Neto.",
+                  "category": "castle",
+                  "coords": [
+                        11.869914,
+                        -4.810797
+                  ]
+            },
+            {
+                  "name": "chez jack",
+                  "text": "Această proprietate proeminentă, în stil fortăreață, este un reper local distinctiv lângă nodul de aviație din Pointe-Noire.",
+                  "category": "castle",
+                  "coords": [
+                        11.872496,
+                        -4.801956
+                  ]
+            },
+            {
+                  "name": "Chez Rivez",
+                  "text": "Chez Rivez este o proprietate masivă, asemănătoare unui castel, situată de-a lungul rutelor din apropierea aeroportului.",
+                  "category": "castle",
+                  "coords": [
+                        11.875429,
+                        -4.815139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "COGELO Fond Tié-Tié",
+                  "text": "This monument marks the location of the national lottery administration in the bustling Tié-Tié neighborhood near the airport.",
+                  "category": "historical",
+                  "coords": [
+                        11.89407,
+                        -4.800729
+                  ]
+            },
+            {
+                  "name": "Rond point Fond Tié-Tié",
+                  "text": "This central roundabout monument serves as a major traffic hub and meeting point in the lively Tié-Tié district.",
+                  "category": "historical",
+                  "coords": [
+                        11.897137,
+                        -4.803612
+                  ]
+            },
+            {
+                  "name": "Chez Charles",
+                  "text": "Chez Charles is an imposing residential or event estate located in the vicinity of the Agostinho Neto Airport.",
+                  "category": "castle",
+                  "coords": [
+                        11.869914,
+                        -4.810797
+                  ]
+            },
+            {
+                  "name": "chez jack",
+                  "text": "This prominent, fortress-style compound is a distinctive local landmark near the Pointe-Noire aviation hub.",
+                  "category": "castle",
+                  "coords": [
+                        11.872496,
+                        -4.801956
+                  ]
+            },
+            {
+                  "name": "Chez Rivez",
+                  "text": "Chez Rivez stands as a heavily built, castle-like property situated along the routes near the airport.",
+                  "category": "castle",
+                  "coords": [
+                        11.875429,
+                        -4.815139
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-PNR",
     coords: [11.8871, -4.8151],
@@ -695,7 +1091,52 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cg-pointe-noire-city-hall-landmarks-v2",
+    id: "cg-pointe-noire-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cercle Africain",
+                  "text": "African Space ist ein Kulturmuseum, das regionale kongolesische Kulturgüter in der Nähe des Rathauses ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        11.863991,
+                        -4.787286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cercle Africain",
+                  "text": "Az African Space egy kulturális múzeum, amely a regionális kongói örökség tárgyait mutatja be a városháza közelében.",
+                  "category": "museum",
+                  "coords": [
+                        11.863991,
+                        -4.787286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cercle Africain",
+                  "text": "African Space este un muzeu cultural care expune obiecte de patrimoniu regional congolez în apropierea primăriei.",
+                  "category": "museum",
+                  "coords": [
+                        11.863991,
+                        -4.787286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Space",
+                  "text": "African Space is a cultural museum exhibiting regional Congolese heritage items near the city hall.",
+                  "category": "museum",
+                  "coords": [
+                        11.863991,
+                        -4.787286
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-PNR",
     coords: [11.8561, -4.7811],
@@ -743,7 +1184,124 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cg-marche-total-landmarks-v2",
+    id: "cg-marche-total-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Square de Gaulle",
+                  "text": "Der Square de Gaulle nahe dem Marché Total ist ein öffentlicher Denkmalplatz, der die kolonialgeschichtlichen Verbindungen der Stadt widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        15.266616,
+                        -4.290526
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Sony Labou Tansi",
+                  "text": "Das Centre Culturel Sony Labou Tansi ist ein kommunales Kunstzentrum, das das Erbe des berühmten kongolesischen Schriftstellers und Dramatikers würdigt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.256464,
+                        -4.286741
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "Der Palais Présidentiel in Brazzaville ist ein imposantes, schlossähnliches Staatsgebäude, das als Regierungssitz dient.",
+                  "category": "castle",
+                  "coords": [
+                        15.265017,
+                        -4.282961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Square de Gaulle",
+                  "text": "A Marché Total közelében található Square de Gaulle egy köztéri emlékmű, amely a város történelmi gyarmati kapcsolatait tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        15.266616,
+                        -4.290526
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Sony Labou Tansi",
+                  "text": "A Centre Culturel Sony Labou Tansi egy közösségi művészeti központ, amely a híres kongói író és drámaíró örökségét ápolja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.256464,
+                        -4.286741
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "A brazzaville-i Palais Présidentiel egy impozáns, kastélyszerű állami épület, amely a kormányzati tevékenységeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        15.265017,
+                        -4.282961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Square de Gaulle",
+                  "text": "Square de Gaulle din apropierea Marché Total este un spațiu monumental public care reflectă legăturile istorice coloniale ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        15.266616,
+                        -4.290526
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Sony Labou Tansi",
+                  "text": "Centre Culturel Sony Labou Tansi este un centru comunitar de arte care celebrează moștenirea celebrului scriitor și dramaturg congolez.",
+                  "category": "cultural",
+                  "coords": [
+                        15.256464,
+                        -4.286741
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "Palais Présidentiel din Brazzaville funcționează ca o structură de stat impunătoare, asemănătoare unui castel, care supraveghează activitățile guvernamentale.",
+                  "category": "castle",
+                  "coords": [
+                        15.265017,
+                        -4.282961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Square de Gaulle",
+                  "text": "The Square de Gaulle near Marché Total is a public monument space reflecting the colonial historical ties of the city.",
+                  "category": "historical",
+                  "coords": [
+                        15.266616,
+                        -4.290526
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Sony Labou Tansi",
+                  "text": "Centre Culturel Sony Labou Tansi is a community arts centre celebrating the legacy of the famous Congolese writer and playwright.",
+                  "category": "cultural",
+                  "coords": [
+                        15.256464,
+                        -4.286741
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "Palais Présidentiel in Brazzaville functions as an imposing, castle-like state structure overseeing government activities.",
+                  "category": "castle",
+                  "coords": [
+                        15.265017,
+                        -4.282961
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-BZV",
     coords: [15.2651, -4.2851],
@@ -887,7 +1445,52 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cg-ifc-brazzaville-landmarks-v2",
+    id: "cg-ifc-brazzaville-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statues des fameux congolais",
+                  "text": "Statues des fameux congolais ist eine Sehenswürdigkeit mit Skulpturen von bedeutenden Persönlichkeiten der kongolesischen Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289256,
+                        -4.270604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statues des fameux congolais",
+                  "text": "A Statues des fameux congolais a kongói történelem nevezetes személyiségeit ábrázoló szobrokat felvonultató látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289256,
+                        -4.270604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statues des fameux congolais",
+                  "text": "Statues des fameux congolais este o atracție care prezintă reprezentări sculpturale ale unor figuri notabile din istoria congoleză.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289256,
+                        -4.270604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statues des fameux congolais",
+                  "text": "Statues des fameux congolais is an attraction displaying sculptural representations of notable figures from Congolese history.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289256,
+                        -4.270604
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-BZV",
     coords: [15.2861, -4.2681],
@@ -1079,7 +1682,52 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cg-foreign-ministry-landmarks-v2",
+    id: "cg-foreign-ministry-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée galerie du bassin du Congo",
+                  "text": "Das Musée galerie du bassin du Congo stellt künstlerische und historische Artefakte aus, die sich speziell auf die Region des Kongobeckens beziehen.",
+                  "category": "museum",
+                  "coords": [
+                        15.291359,
+                        -4.269257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée galerie du bassin du Congo",
+                  "text": "A Musée galerie du bassin du Congo kifejezetten a Kongó-medence régiójához kapcsolódó művészeti és történelmi tárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        15.291359,
+                        -4.269257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée galerie du bassin du Congo",
+                  "text": "Musée galerie du bassin du Congo expune artefacte artistice și istorice referitoare în mod specific la regiunea Bazinului Congo.",
+                  "category": "museum",
+                  "coords": [
+                        15.291359,
+                        -4.269257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée galerie du bassin du Congo",
+                  "text": "Musée galerie du bassin du Congo exhibits artistic and historical artifacts relating specifically to the Congo Basin region.",
+                  "category": "museum",
+                  "coords": [
+                        15.291359,
+                        -4.269257
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CG-BZV",
     coords: [15.2881, -4.2651],

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTanzaniaReliefV2: POI[] = [
   {
-    id: "kilimanjaro-relief-v2",
+    id: "kilimanjaro-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilimanjaro National Park",
+                  "text": "Dieses Naturschutzgebiet umschließt den höchsten Berg Afrikas und schützt dessen vielfältige alpine Ökosysteme.",
+                  "category": "natural",
+                  "coords": [
+                        37.329336,
+                        -3.066218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilimanjaro National Park",
+                  "text": "Ez a természetvédelmi terület Afrika legmagasabb hegyét öleli körül, védve annak változatos alpesi ökoszisztémáit.",
+                  "category": "natural",
+                  "coords": [
+                        37.329336,
+                        -3.066218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilimanjaro National Park",
+                  "text": "Această rezervație naturală înconjoară cel mai înalt munte din Africa, protejând ecosistemele sale alpine diverse.",
+                  "category": "natural",
+                  "coords": [
+                        37.329336,
+                        -3.066218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilimanjaro National Park",
+                  "text": "This nature reserve encompasses Africa's highest mountain, protecting its diverse alpine ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        37.329336,
+                        -3.066218
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TZ-05",
     coords: [37.3556, -3.0674],
@@ -75,7 +120,88 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
     },
   },
   {
-    id: "ngorongoro-crater-relief-v2",
+    id: "ngorongoro-crater-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lion spot",
+                  "text": "Ein bekannter Aussichtspunkt auf dem Grund des Ngorongoro-Kraters, wo oft lokale Löwenrudel beobachtet werden können, die sich im Gras ausruhen.",
+                  "category": "natural",
+                  "coords": [
+                        35.639693,
+                        -3.158085
+                  ]
+            },
+            {
+                  "name": "Ruins of Siedentopf's Farm",
+                  "text": "Diese steinernen Überreste gehören zu einer landwirtschaftlichen Siedlung, die vor dem Ersten Weltkrieg von den deutschen Gebrüdern Siedentopf im Ngorongoro-Krater gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.603667,
+                        -3.153915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lion spot",
+                  "text": "Egy híres kilátópont a Ngorongoro-kráter fenekén, ahol gyakran megfigyelhetők a fűben pihenő helyi oroszlánfalkák.",
+                  "category": "natural",
+                  "coords": [
+                        35.639693,
+                        -3.158085
+                  ]
+            },
+            {
+                  "name": "Ruins of Siedentopf's Farm",
+                  "text": "Ezek a kőmaradványok ahhoz a mezőgazdasági településhez tartoznak, amelyet a német Siedentopf testvérek hoztak létre a Ngorongoro-kráterben az első világháború előtt.",
+                  "category": "historical",
+                  "coords": [
+                        35.603667,
+                        -3.153915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lion spot",
+                  "text": "Un punct de belvedere renumit pe fundul craterului Ngorongoro, unde haitele locale de lei pot fi frecvent observate odihnindu-se în iarbă.",
+                  "category": "natural",
+                  "coords": [
+                        35.639693,
+                        -3.158085
+                  ]
+            },
+            {
+                  "name": "Ruins of Siedentopf's Farm",
+                  "text": "Aceste ruine de piatră aparțin unei așezări agricole înființate în Craterul Ngorongoro de către frații germani Siedentopf înainte de Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        35.603667,
+                        -3.153915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lion spot",
+                  "text": "A renowned vantage point on the Ngorongoro crater floor where local lion prides are frequently observed resting in the grass.",
+                  "category": "natural",
+                  "coords": [
+                        35.639693,
+                        -3.158085
+                  ]
+            },
+            {
+                  "name": "Ruins of Siedentopf's Farm",
+                  "text": "These stone remains belong to a farming settlement established in the Ngorongoro Crater by the German Siedentopf brothers prior to World War I.",
+                  "category": "historical",
+                  "coords": [
+                        35.603667,
+                        -3.153915
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "TZ-07",
     coords: [35.5800, -3.1500],
@@ -111,7 +237,52 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
     },
   },
   {
-    id: "uluguru-mountains-relief-v2",
+    id: "uluguru-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasanga Forest Reserve",
+                  "text": "Ein geschütztes Naturschutzgebiet an den steilen, bewaldeten Hängen des Uluguru-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        37.75032,
+                        -7.181736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasanga Forest Reserve",
+                  "text": "Az Uluguru-hegység meredek, erdős lejtőit borító védett természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        37.75032,
+                        -7.181736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasanga Forest Reserve",
+                  "text": "O rezervație naturală protejată care se întinde pe pantele abrupte și împădurite ale Munților Uluguru.",
+                  "category": "natural",
+                  "coords": [
+                        37.75032,
+                        -7.181736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasanga Forest Reserve",
+                  "text": "A protected nature reserve spanning the steep, forested slopes of the Uluguru Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        37.75032,
+                        -7.181736
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TZ-06",
     coords: [37.6667, -7.1667],
@@ -183,7 +354,376 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
     },
   },
   {
-    id: "usambara-mountains-relief-v2",
+    id: "usambara-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Irente Farm",
+                  "text": "Ein aktiver Bauernhof in den Usambara-Bergen, der für die Herstellung von lokalem Käse, Marmeladen und frischem Brot bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "Ein lokales Informationszentrum in den Usambara-Bergen, das Besuchern bei der Organisation von Wanderungen und Kulturtouren hilft.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "Der Hauptausgangspunkt für Wanderer, die sich auf die malerischen Routen durch die üppigen Usambara-Berge begeben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "Kisasa Falls Viewpoint",
+                  "text": "Ein Aussichtspunkt in den Usambara-Bergen, der einen ungestörten Blick auf das herabstürzende Wasser der Kisasa-Fälle bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.299219,
+                        -4.822777
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "Ein markierter Wegeingang, der Wanderer zu den lokalen Wasserquellen in den Höhenlagen von Usambara führt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.28957,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "Ein malerischer Aussichtspunkt mit einem ausgewiesenen Campingplatz inmitten der sanften Hügellandschaft der Usambara-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "Der Startpunkt eines Waldweges in den Usambara-Bergen, der von hoch aufragenden, für die Plantagen typischen Eukalyptusbäumen beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Mnananda trail head",
+                  "text": "Ein erhöhter Startpunkt, der Panoramablicke bietet, bevor die Wanderer tiefer in die Bergkette von Usambara vordringen.",
+                  "category": "natural",
+                  "coords": [
+                        38.281692,
+                        -4.767859
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "Ein atemberaubender Aussichtspunkt inmitten des dichten, unberührten Bergregenwaldes des Magamba-Naturreservats.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Magamba forest trail main entrance",
+                  "text": "Das Hauptportal zur Erkundung der vielfältigen und üppigen Flora und Fauna im Magamba-Regenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294585,
+                        -4.751181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Irente Farm",
+                  "text": "Az Usambara-hegységben működő farm, amely helyi sajt, lekvár és friss kenyér készítéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "Helyi információs központ az Usambara-hegységben, amely segít a látogatóknak túrák és kulturális programok szervezésében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "A festői útvonalakon induló túrázók fő kiindulópontja a buja Usambara-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "Kisasa Falls Viewpoint",
+                  "text": "Kilátópont az Usambara-hegységben, amely zavartalan kilátást nyújt a lezúduló Kisasa-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        38.299219,
+                        -4.822777
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "Kijelölt ösvény kezdete, amely az Usambara-fennsík helyi vízforrásai felé vezeti a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        38.28957,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "Festői kilátó és kijelölt kempinghely az Usambara-hegység hullámzó domborzata között.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "Erdei ösvény kezdete az Usambara-hegységben, amelyet az ültetvényekre jellemző magas eukaliptuszfák árnyékolnak be.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Mnananda trail head",
+                  "text": "Magaslati indulópont, amely panorámás kilátást nyújt, mielőtt a túrázók mélyebben behatolnának az Usambara-hegységbe.",
+                  "category": "natural",
+                  "coords": [
+                        38.281692,
+                        -4.767859
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "Lenyűgöző kilátópont a Magamba Természetvédelmi Terület sűrű, érintetlen hegyi esőerdejében.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Magamba forest trail main entrance",
+                  "text": "A Magamba-esőerdő változatos és buja növény- és állatvilágának felfedezésére szolgáló fő bejárat.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294585,
+                        -4.751181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Irente Farm",
+                  "text": "O fermă activă din Munții Usambara, cunoscută pentru producerea de brânză locală, gemuri și pâine proaspătă.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "Un centru local de informații care ajută vizitatorii să organizeze drumeții și tururi culturale în Munții Usambara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "Principalul punct de plecare pentru drumeții care pornesc pe rutele pitorești prin munții luxurianți Usambara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "Kisasa Falls Viewpoint",
+                  "text": "Un punct de belvedere în Munții Usambara care oferă vederi neobstrucționate asupra cascadelor Kisasa.",
+                  "category": "natural",
+                  "coords": [
+                        38.299219,
+                        -4.822777
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "O intrare desemnată pe traseu care conduce drumeții către sursele locale de apă din zonele înalte Usambara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.28957,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "Un loc de belvedere pitoresc care oferă o zonă de camping amenajată în mijlocul terenului vălurit al Munților Usambara.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "Punctul de plecare al unui traseu forestier umbrit de eucalipți înalți, caracteristici plantațiilor din munți.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Mnananda trail head",
+                  "text": "Un punct de plecare înalt care oferă vederi panoramice înainte ca drumeții să pătrundă mai adânc în lanțul muntos Usambara.",
+                  "category": "natural",
+                  "coords": [
+                        38.281692,
+                        -4.767859
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "Un punct de belvedere uimitor situat în mijlocul pădurii tropicale montane dense din Rezervația Naturală Magamba.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Magamba forest trail main entrance",
+                  "text": "Poarta principală pentru explorarea florei și faunei diverse și luxuriante din pădurea tropicală Magamba.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294585,
+                        -4.751181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Irente Farm",
+                  "text": "A working farm in the Usambara Mountains known for producing local cheese, jams, and fresh bread.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "A local information centre assisting visitors with organizing treks and cultural tours in the Usambara Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "The primary starting point for hikers embarking on scenic routes through the lush Usambara Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "Kisasa Falls Viewpoint",
+                  "text": "A scenic vantage point providing unobstructed views of the cascading waters of the Kisasa Falls.",
+                  "category": "natural",
+                  "coords": [
+                        38.299219,
+                        -4.822777
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "A designated path entrance leading hikers towards local water sources in the Usambara highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        38.28957,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "A scenic overlook offering a designated camping area amidst the rolling terrain of the Usambara Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "A forest trail starting point shaded by tall eucalyptus trees typical of the mountain plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Mnananda trail head",
+                  "text": "An elevated starting point offering panoramic views before hikers delve deeper into the Usambara range.",
+                  "category": "natural",
+                  "coords": [
+                        38.281692,
+                        -4.767859
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "A stunning viewpoint located within the dense montane rainforest of the Magamba Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Magamba forest trail main entrance",
+                  "text": "The principal gateway for exploring the diverse and lush flora and fauna of the Magamba rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294585,
+                        -4.751181
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TZ-26",
     coords: [38.3333, -4.7500],
@@ -435,7 +975,52 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
     },
   },
   {
-    id: "ol-doinyo-lengai-relief-v2",
+    id: "ol-doinyo-lengai-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Natron - Selela Rd Junction",
+                  "text": "Ein markanter Kreuzungspunkt auf den staubigen, rauen Pisten, die in Richtung des aktiven Vulkans Ol Doinyo Lengai und zum Lake Natron führen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.985181,
+                        -2.769426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Natron - Selela Rd Junction",
+                  "text": "Fontos kereszteződés a poros, zord utakon, amelyek az aktív Ol Doinyo Lengai vulkánhoz és a Natron-tóhoz vezetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.985181,
+                        -2.769426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Natron - Selela Rd Junction",
+                  "text": "O intersecție importantă pe traseele prăfuite și accidentate care duc spre vulcanul activ Ol Doinyo Lengai și Lacul Natron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.985181,
+                        -2.769426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Natron - Selela Rd Junction",
+                  "text": "A prominent intersection point on the rugged, dusty tracks leading towards the active Ol Doinyo Lengai volcano and Lake Natron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.985181,
+                        -2.769426
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TZ-07",
     coords: [35.9139, -2.7569],
@@ -723,7 +1308,52 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
     },
   },
   {
-    id: "tunduru-plateau-relief-v2",
+    id: "tunduru-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muhuwesi Nature Forest Reserve",
+                  "text": "Dieses Waldschutzgebiet erstreckt sich über die Hochebene von Tunduru.",
+                  "category": "natural",
+                  "coords": [
+                        37.388807,
+                        -10.55702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muhuwesi Nature Forest Reserve",
+                  "text": "Ez az erdőrezervátum a Tunduru-fennsíkon terül el.",
+                  "category": "natural",
+                  "coords": [
+                        37.388807,
+                        -10.55702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muhuwesi Nature Forest Reserve",
+                  "text": "Această rezervație forestieră se întinde pe platoul Tunduru.",
+                  "category": "natural",
+                  "coords": [
+                        37.388807,
+                        -10.55702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muhuwesi Nature Forest Reserve",
+                  "text": "This forest nature reserve stretches across the Tunduru Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        37.388807,
+                        -10.55702
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "TZ-18",
     coords: [37.4000, -10.6000],
@@ -759,7 +1389,124 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
     },
   },
   {
-    id: "serengeti-plain-relief-v2",
+    id: "serengeti-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo Pool",
+                  "text": "Dieser beliebte Aussichtspunkt in der Serengeti ermöglicht es Besuchern, eine große Anzahl von Flusspferden zu beobachten, die sich im schlammigen Flusswasser suhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798955,
+                        -2.293708
+                  ]
+            },
+            {
+                  "name": "Hippo Viewing Loop",
+                  "text": "Ein ausgewiesener Weg in der Serengeti, der hervorragende Aussichtspunkte bietet, um Flusspferde in ihren natürlichen aquatischen Lebensräumen zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        34.842503,
+                        -2.313223
+                  ]
+            },
+            {
+                  "name": "Serengeti-Nationalpark",
+                  "text": "Dieser riesige tansanische Nationalpark ist weltweit berühmt für seine weiten Ebenen und die gewaltige jährliche Wanderung von Millionen von Weidetieren.",
+                  "category": "natural",
+                  "coords": [
+                        34.786163,
+                        -2.338195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo Pool",
+                  "text": "Ez a népszerű szerengetii kilátóhely lehetővé teszi a látogatók számára, hogy nagy számban figyeljék meg a sáros folyóvízben dagonyázó vízilovakat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798955,
+                        -2.293708
+                  ]
+            },
+            {
+                  "name": "Hippo Viewing Loop",
+                  "text": "Kijelölt ösvény a Serengeti Nemzeti Parkban, amely kiváló kilátópontokat kínál a természetes vízi élőhelyükön összegyűlt vízilovak megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        34.842503,
+                        -2.313223
+                  ]
+            },
+            {
+                  "name": "Serengeti National Park",
+                  "text": "Ez a hatalmas tanzániai nemzeti park világszerte ünnepelt kiterjedt síkságairól és több millió legelő állat hatalmas éves vonulásáról.",
+                  "category": "natural",
+                  "coords": [
+                        34.786163,
+                        -2.338195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo Pool",
+                  "text": "Acest punct de observare popular din Serengeti permite vizitatorilor să urmărească un număr mare de hipopotami care se scaldă în apele noroioase ale râului.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798955,
+                        -2.293708
+                  ]
+            },
+            {
+                  "name": "Hippo Viewing Loop",
+                  "text": "Un traseu desemnat în Serengeti care oferă puncte de belvedere excelente pentru a privi hipopotamii adunați în habitatele lor acvatice naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        34.842503,
+                        -2.313223
+                  ]
+            },
+            {
+                  "name": "Serengeti National Park",
+                  "text": "Acest vast parc național tanzanian este celebrat la nivel global pentru câmpiile sale întinse și migrația anuală masivă a milioane de animale erbivore.",
+                  "category": "natural",
+                  "coords": [
+                        34.786163,
+                        -2.338195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo Pool",
+                  "text": "This popular viewing spot in the Serengeti allows visitors to observe large numbers of hippos wallowing in the muddy river waters.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798955,
+                        -2.293708
+                  ]
+            },
+            {
+                  "name": "Hippo Viewing Loop",
+                  "text": "A designated trail in the Serengeti offering excellent vantage points for watching hippos gathered in their natural aquatic habitats.",
+                  "category": "landmark",
+                  "coords": [
+                        34.842503,
+                        -2.313223
+                  ]
+            },
+            {
+                  "name": "Serengeti National Park",
+                  "text": "This vast Tanzanian national park is globally celebrated for its sprawling plains and the massive annual migration of millions of grazing animals.",
+                  "category": "natural",
+                  "coords": [
+                        34.786163,
+                        -2.338195
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "TZ-07",
     coords: [34.8333, -2.3333],

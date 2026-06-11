@@ -38,7 +38,124 @@ export const poiExtraAngolaLifeV2: POI[] = [
       fr: ["Le plus grand et le plus célèbre parc national près de Luanda.", "Réputé pour la réintroduction réussie d'éléphants et de girafes.", "Couvre une superficie d'environ 9 600 kilomètres carrés.", "Bordé par l'océan Atlantique à l'ouest et le fleuve Cuanza au nord.", "Abrite un mélange unique de savane côtière et de forêt sèche.", "Destination privilégiée pour l'observation de la faune en excursion d'une journée.", "Habitat de l'hippotrague noir géant (Palanca Negra Gigante).", "Dispose de lodges confortables pour les touristes locaux et internationaux."],
     }, image: "/poi-images/parque-nacional-da-kissama-life-v2.webp"},
   {
-    id: "fazenda-tchipeio-life-v2",
+    id: "fazenda-tchipeio-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Etena",
+                  "text": "Ein rauer Berggipfel, der weite Ausblicke über die ländliche Region der Fazenda Tchipeio bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.15,
+                        -12.8
+                  ]
+            },
+            {
+                  "name": "Monte Pomumo",
+                  "text": "Dieser malerische Gipfel ist ein markantes topografisches Merkmal in der Nähe des Landwirtschaftsgebiets Fazenda Tchipeio.",
+                  "category": "natural",
+                  "coords": [
+                        15.295473,
+                        -12.75297
+                  ]
+            },
+            {
+                  "name": "Serra do Elende",
+                  "text": "Ein hochgelegener Gebirgsaussichtspunkt, der einen Panoramablick auf die Umgebung der Fazenda Tchipeio bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.196644,
+                        -12.728178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Etena",
+                  "text": "Zord hegycsúcs, amely pazar kilátást nyújt a vidéki Fazenda Tchipeio régióra.",
+                  "category": "natural",
+                  "coords": [
+                        15.15,
+                        -12.8
+                  ]
+            },
+            {
+                  "name": "Monte Pomumo",
+                  "text": "Ez a festői hegycsúcs a Fazenda Tchipeio mezőgazdasági terület közelében kiemelkedő domborzati elemként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        15.295473,
+                        -12.75297
+                  ]
+            },
+            {
+                  "name": "Serra do Elende",
+                  "text": "Magasan fekvő hegyvidéki kilátó, amely panorámás perspektívát nyújt a Fazenda Tchipeio környékére.",
+                  "category": "natural",
+                  "coords": [
+                        15.196644,
+                        -12.728178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Etena",
+                  "text": "Un vârf montan accidentat care oferă vederi ample asupra regiunii rurale Fazenda Tchipeio.",
+                  "category": "natural",
+                  "coords": [
+                        15.15,
+                        -12.8
+                  ]
+            },
+            {
+                  "name": "Monte Pomumo",
+                  "text": "Acest vârf pitoresc reprezintă o caracteristică topografică proeminentă în apropierea zonei agricole Fazenda Tchipeio.",
+                  "category": "natural",
+                  "coords": [
+                        15.295473,
+                        -12.75297
+                  ]
+            },
+            {
+                  "name": "Serra do Elende",
+                  "text": "Un punct de belvedere montan înalt care oferă perspective panoramice asupra împrejurimilor Fazenda Tchipeio.",
+                  "category": "natural",
+                  "coords": [
+                        15.196644,
+                        -12.728178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Etena",
+                  "text": "A rugged mountain peak that offers sweeping views over the rural Fazenda Tchipeio region.",
+                  "category": "natural",
+                  "coords": [
+                        15.15,
+                        -12.8
+                  ]
+            },
+            {
+                  "name": "Monte Pomumo",
+                  "text": "This scenic peak stands as a prominent topographical feature near the Fazenda Tchipeio agricultural area.",
+                  "category": "natural",
+                  "coords": [
+                        15.295473,
+                        -12.75297
+                  ]
+            },
+            {
+                  "name": "Serra do Elende",
+                  "text": "An elevated mountainous viewpoint that provides panoramic perspectives of the Fazenda Tchipeio surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.196644,
+                        -12.728178
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AO-HUA",
     coords: [15.2281, -12.7933],
@@ -318,7 +435,196 @@ export const poiExtraAngolaLifeV2: POI[] = [
       fr: ["Plus grande aire de jeux dédiée aux enfants au centre-ville.", "Lieu central pour les sorties scolaires et les journées sportives.", "Offre de l'ombre grâce à ses vieux arbres malgré la chaleur.", "Lieu d'accueil du festival annuel de la Journée de l'enfant.", "Zone sécurisée et clôturée avec un personnel de surveillance permanent.", "Contribue à la santé mentale des citadins.", "Comprend de petites installations de restauration pour les familles.", "A été modernisé dans le cadre de la rénovation urbaine."],
     }, image: "/poi-images/parque-infantil-luanda-life-v2.webp"},
   {
-    id: "reserva-natural-do-ilheu-dos-passaros-life-v2",
+    id: "reserva-natural-do-ilheu-dos-passaros-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Escritório da Supmil",
+                  "text": "Das Escritório da Supmil dient als malerischer Aussichtspunkt mit Blick auf das Küstennaturschutzgebiet des Ilhéu dos Pássaros.",
+                  "category": "natural",
+                  "coords": [
+                        13.181606,
+                        -8.910421
+                  ]
+            },
+            {
+                  "name": "Praia Amelia",
+                  "text": "Praia Amelia ist ein ruhiger Sandstrand an der Küste in der Nähe des Naturschutzgebiets Ilhéu dos Pássaros.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191186,
+                        -8.873774
+                  ]
+            },
+            {
+                  "name": "Morro dos Veados",
+                  "text": "Morro dos Veados ist ein markanter Hügel in der Nähe des Reservats Ilhéu dos Pássaros, der als natürliche Attraktion reizvolle Ausblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.126282,
+                        -8.955818
+                  ]
+            },
+            {
+                  "name": "PlayTime",
+                  "text": "PlayTime ist ein Freizeitpark unter freiem Himmel, der in der Nähe des Reservats Ilhéu dos Pássaros Fahrgeschäfte und Unterhaltung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.185812,
+                        -8.924745
+                  ]
+            },
+            {
+                  "name": "Casa das Artes",
+                  "text": "Die Casa das Artes fungiert als lokales Kulturzentrum, das sich der bildenden und darstellenden Kunst in der Nähe des Naturschutzgebiets widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.195065,
+                        -8.919348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Escritório da Supmil",
+                  "text": "Az Escritório da Supmil festői kilátóként szolgál, ahonnan az Ilhéu dos Pássaros part menti természetvédelmi területe látható.",
+                  "category": "natural",
+                  "coords": [
+                        13.181606,
+                        -8.910421
+                  ]
+            },
+            {
+                  "name": "Praia Amelia",
+                  "text": "A Praia Amelia egy nyugodt, homokos tengerparti strand az Ilhéu dos Pássaros természetvédelmi terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191186,
+                        -8.873774
+                  ]
+            },
+            {
+                  "name": "Morro dos Veados",
+                  "text": "A Morro dos Veados egy kiemelkedő domb, amely természetes kilátópontokat kínál az Ilhéu dos Pássaros rezervátum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.126282,
+                        -8.955818
+                  ]
+            },
+            {
+                  "name": "PlayTime",
+                  "text": "A PlayTime egy szabadtéri vidámpark, amely szórakoztató attrakciókat és játékokat kínál az Ilhéu dos Pássaros rezervátum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.185812,
+                        -8.924745
+                  ]
+            },
+            {
+                  "name": "Casa das Artes",
+                  "text": "A Casa das Artes egy helyi kulturális központként működik a vizuális és előadóművészetek számára a természetvédelmi terület közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        13.195065,
+                        -8.919348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Escritório da Supmil",
+                  "text": "Escritório da Supmil servește drept punct de belvedere pitoresc cu vedere la rezervația naturală de coastă Ilhéu dos Pássaros.",
+                  "category": "natural",
+                  "coords": [
+                        13.181606,
+                        -8.910421
+                  ]
+            },
+            {
+                  "name": "Praia Amelia",
+                  "text": "Praia Amelia este o plajă de coastă liniștită, cu nisip, situată lângă rezervația naturală Ilhéu dos Pássaros.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191186,
+                        -8.873774
+                  ]
+            },
+            {
+                  "name": "Morro dos Veados",
+                  "text": "Morro dos Veados este o atracție proeminentă pe un deal, oferind puncte de observare naturale lângă rezervația Ilhéu dos Pássaros.",
+                  "category": "landmark",
+                  "coords": [
+                        13.126282,
+                        -8.955818
+                  ]
+            },
+            {
+                  "name": "PlayTime",
+                  "text": "PlayTime este un parc tematic în aer liber care oferă atracții și divertisment lângă rezervația Ilhéu dos Pássaros.",
+                  "category": "recreational",
+                  "coords": [
+                        13.185812,
+                        -8.924745
+                  ]
+            },
+            {
+                  "name": "Casa das Artes",
+                  "text": "Casa das Artes funcționează ca un centru cultural local dedicat artelor vizuale și spectacolului, în apropierea rezervației naturale.",
+                  "category": "cultural",
+                  "coords": [
+                        13.195065,
+                        -8.919348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Escritório da Supmil",
+                  "text": "The Escritório da Supmil serves as a scenic viewpoint overlooking the coastal nature reserve of Ilhéu dos Pássaros.",
+                  "category": "natural",
+                  "coords": [
+                        13.181606,
+                        -8.910421
+                  ]
+            },
+            {
+                  "name": "Praia Amelia",
+                  "text": "Praia Amelia is a serene, sandy coastal beach nestled near the Ilhéu dos Pássaros nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191186,
+                        -8.873774
+                  ]
+            },
+            {
+                  "name": "Morro dos Veados",
+                  "text": "Morro dos Veados is a prominent hill attraction offering natural vantage points near the Ilhéu dos Pássaros reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        13.126282,
+                        -8.955818
+                  ]
+            },
+            {
+                  "name": "PlayTime",
+                  "text": "PlayTime is an outdoor theme park featuring amusement rides and entertainment near the Ilhéu dos Pássaros reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        13.185812,
+                        -8.924745
+                  ]
+            },
+            {
+                  "name": "Casa das Artes",
+                  "text": "Casa das Artes functions as a local cultural centre dedicated to visual and performing arts near the nature reserve.",
+                  "category": "cultural",
+                  "coords": [
+                        13.195065,
+                        -8.919348
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "AO-LUA",
     coords: [13.1500, -8.8800],
@@ -388,7 +694,916 @@ export const poiExtraAngolaLifeV2: POI[] = [
       fr: ["Plus importante région pour la production de café Arabica de haute qualité.", "Centre de culture maraîchère intensive pour la capitale Luanda.", "Utilise des systèmes d'irrigation modernes à partir des fleuves voisins.", "Abrite certains des plus grands investissements agricoles privés du pays.", "Site important pour la formation de techniciens agricoles.", "Contribue à la relance de l'exportation de produits agricoles.", "Les fazendas sont souvent structurées comme de petits villages autonomes.", "Un modèle d'utilisation durable des ressources rurales."],
     }, image: "/poi-images/fazenda-kwanza-sul-life-v2.webp"},
   {
-    id: "centro-ambiental-lubango-life-v2",
+    id: "centro-ambiental-lubango-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capelinha da Nossa Senhora do Monte",
+                  "text": "Diese kleine Kapelle am Hang über Lubango ist Unserer Lieben Frau vom Berge gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465418,
+                        -14.94002
+                  ]
+            },
+            {
+                  "name": "Miradouro da Boca da Humpata / Boca da Humpata Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet Besuchern einen weitreichenden Blick über die zerklüftete Landschaft von Boca da Humpata.",
+                  "category": "natural",
+                  "coords": [
+                        13.481594,
+                        -14.944597
+                  ]
+            },
+            {
+                  "name": "Piscina/Lago Nossa Senhoa do Monte",
+                  "text": "Diese See- und Poolanlage ist Teil des weitläufigen Erholungskomplexes Nossa Senhora do Monte in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468655,
+                        -14.937466
+                  ]
+            },
+            {
+                  "name": "Casino Nossa Senhora do Monte",
+                  "text": "Dieses Casino-Gebäude bietet Unterhaltung innerhalb des Parkkomplexes Nossa Senhora do Monte in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468278,
+                        -14.938421
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições",
+                  "text": "Dieser Messe- und Ausstellungspark in Lubango wurde 1965 eröffnet und beherbergt lokale Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.473292,
+                        -14.934904
+                  ]
+            },
+            {
+                  "name": "Feira Agro-pecuária",
+                  "text": "Dieses landwirtschaftliche Messegelände in Lubango geht auf das Jahr 1965 zurück und fördert die lokale Viehzucht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4734,
+                        -14.936698
+                  ]
+            },
+            {
+                  "name": "Estádio da Nossa Senhora do Monte",
+                  "text": "Dieses Sportstadion ist in den bewaldeten Komplex der Nossa Senhora do Monte in Lubango eingebettet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469752,
+                        -14.936539
+                  ]
+            },
+            {
+                  "name": "Circuito Urbano da Nossa Senhora do Monte",
+                  "text": "Dieser urbane Straßenrennstrecken-Kurs schlängelt sich durch die hügelige Gegend der Nossa Senhora do Monte.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4677,
+                        -14.934497
+                  ]
+            },
+            {
+                  "name": "Antigo Aqueduto / Old Aqueduct",
+                  "text": "Diese Ruinen zeigen die Überreste einer alten Aquäduktstruktur, die einst Wasser durch Lubango leitete.",
+                  "category": "historical",
+                  "coords": [
+                        13.470089,
+                        -14.931352
+                  ]
+            },
+            {
+                  "name": "Barragem do Pescador",
+                  "text": "Dieser kleine Staudamm und Stausee in Lubango wird von Einheimischen häufig zum Angeln aufgesucht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467479,
+                        -14.91244
+                  ]
+            },
+            {
+                  "name": "Serval (Lince) & Chimpanzé",
+                  "text": "In diesem Tiergehege in Lubango können Besucher Servale und Schimpansen aus der Nähe betrachten.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469396,
+                        -14.913493
+                  ]
+            },
+            {
+                  "name": "Aldeia Zulu",
+                  "text": "Dieses Themendorf in Lubango präsentiert Architekturstile und Kulturelemente, die von den Zulu inspiriert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467729,
+                        -14.911428
+                  ]
+            },
+            {
+                  "name": "Miradouro do Resort",
+                  "text": "Dieser Resort-Aussichtspunkt in Lubango überblickt die umliegende, grüne Park- und Hügellandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.466222,
+                        -14.907549
+                  ]
+            },
+            {
+                  "name": "Entrada - Pululukwa Resort",
+                  "text": "Dieser Eingangsbereich markiert das Tor zum malerischen und naturbelassenen Pululukwa Resort in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.46328,
+                        -14.908444
+                  ]
+            },
+            {
+                  "name": "Jango do Lago",
+                  "text": "Dieser traditionelle Jango-Pavillon am See bietet Besuchern in Lubango einen schattigen Ruheplatz am Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465398,
+                        -14.909603
+                  ]
+            },
+            {
+                  "name": "Animais",
+                  "text": "Dieses Tiergehege ist Teil eines lokalen Wildparks und präsentiert die heimische Fauna in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466707,
+                        -14.909423
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Animais",
+                  "text": "Diese kleine Lagune befindet sich neben den Tiergehegen und bietet eine Wasserstelle für die Parkbewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466613,
+                        -14.910554
+                  ]
+            },
+            {
+                  "name": "Cova da Onça",
+                  "text": "Diese als Jaguarhöhle bekannte Attraktion im Park verfügt über eine grubenartige Struktur.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465223,
+                        -14.911695
+                  ]
+            },
+            {
+                  "name": "Miradouro do Rio",
+                  "text": "Dieser Aussichtspunkt im Umweltzentrum von Lubango bietet eine beruhigende Aussicht auf den nahegelegenen Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464023,
+                        -14.912685
+                  ]
+            },
+            {
+                  "name": "Barragem Colonial",
+                  "text": "Dieser aus der Kolonialzeit stammende Staudamm reguliert den Wasserfluss im Landschaftspark von Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.462687,
+                        -14.912255
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Catuites",
+                  "text": "Diese malerische Lagunenattraktion bietet eine natürliche Wasserumgebung im Centro Ambiental Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464054,
+                        -14.910469
+                  ]
+            },
+            {
+                  "name": "Quinta Pedagógica",
+                  "text": "Diese pädagogische Bauernhofattraktion im Centro Ambiental Lubango bietet praktische landwirtschaftliche Erfahrungen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.460443,
+                        -14.909525
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Arco-Íris",
+                  "text": "Dieses auf das Jahr 1975 zurückgehende Theater dient als kultureller Aufführungsraum im Centro Ambiental Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.482735,
+                        -14.921808
+                  ]
+            },
+            {
+                  "name": "Religiosas do Amor de Deus (RAD) - Noviciado da Vice-Província de África",
+                  "text": "Dieses religiöse Noviziat der Schwestern von der Liebe Gottes dient als katholische Kultstätte im Centro Ambiental Lubango.",
+                  "category": "religious",
+                  "coords": [
+                        13.483021,
+                        -14.938455
+                  ]
+            },
+            {
+                  "name": "Pululukwa Resort",
+                  "text": "Dieses Resort umfasst eine zoologische Parkanlage inmitten der natürlichen Umgebung des Centro Ambiental Lubango.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465515,
+                        -14.910602
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capelinha da Nossa Senhora do Monte",
+                  "text": "Ezt a Lubango fölötti domboldalon álló kis kápolnát a Hegy Miasszonyának szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465418,
+                        -14.94002
+                  ]
+            },
+            {
+                  "name": "Miradouro da Boca da Humpata / Boca da Humpata Viewpoint",
+                  "text": "Ez a kilátó széles látképet nyújt a Boca da Humpata drámai, sziklás tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        13.481594,
+                        -14.944597
+                  ]
+            },
+            {
+                  "name": "Piscina/Lago Nossa Senhoa do Monte",
+                  "text": "Ez a tó- és medencekomplexum a kiterjedt lubangói Nossa Senhora do Monte rekreációs terület része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468655,
+                        -14.937466
+                  ]
+            },
+            {
+                  "name": "Casino Nossa Senhora do Monte",
+                  "text": "Ez a kaszinóépület szórakozási lehetőséget kínál a lubangói Nossa Senhora do Monte parkkomplexumon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468278,
+                        -14.938421
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições",
+                  "text": "Ezt a lubangói kiállítási- és vásárparkot 1965-ben nyitották meg, és helyi rendezvényeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        13.473292,
+                        -14.934904
+                  ]
+            },
+            {
+                  "name": "Feira Agro-pecuária",
+                  "text": "Ez a lubangói mezőgazdasági vásártér 1965-re nyúlik vissza, és a helyi állattenyésztést hivatott bemutatni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4734,
+                        -14.936698
+                  ]
+            },
+            {
+                  "name": "Estádio da Nossa Senhora do Monte",
+                  "text": "Ez a sportstadion a lubangói Nossa Senhora do Monte fásított komplexumába ékelődik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469752,
+                        -14.936539
+                  ]
+            },
+            {
+                  "name": "Circuito Urbano da Nossa Senhora do Monte",
+                  "text": "Ez a városi utcai versenypálya a Nossa Senhora do Monte dombos területén kanyarog keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4677,
+                        -14.934497
+                  ]
+            },
+            {
+                  "name": "Antigo Aqueduto / Old Aqueduct",
+                  "text": "Ezek a romok egy régi vízvezetékrendszer maradványait őrzik, amely egykor Lubangót látta el vízzel.",
+                  "category": "historical",
+                  "coords": [
+                        13.470089,
+                        -14.931352
+                  ]
+            },
+            {
+                  "name": "Barragem do Pescador",
+                  "text": "Ezt a lubangói kis gátat és víztározót a helyiek gyakran látogatják horgászat céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467479,
+                        -14.91244
+                  ]
+            },
+            {
+                  "name": "Serval (Lince) & Chimpanzé",
+                  "text": "Ebben a lubangói kifutóban a látogatók szerválokat és csimpánzokat figyelhetnek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469396,
+                        -14.913493
+                  ]
+            },
+            {
+                  "name": "Aldeia Zulu",
+                  "text": "Ez a lubangói tematikus falu a zulu építészet és kultúra ihlette stílusjegyeket és elemeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467729,
+                        -14.911428
+                  ]
+            },
+            {
+                  "name": "Miradouro do Resort",
+                  "text": "Ez a lubangói üdülőkilátó a környező zöldellő parkra és a dombvidékre néz.",
+                  "category": "natural",
+                  "coords": [
+                        13.466222,
+                        -14.907549
+                  ]
+            },
+            {
+                  "name": "Entrada - Pululukwa Resort",
+                  "text": "Ez a bejárati terület a festői és természetközeli lubangói Pululukwa Resort kapuját jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.46328,
+                        -14.908444
+                  ]
+            },
+            {
+                  "name": "Jango do Lago",
+                  "text": "Ez a tóparti hagyományos jango-pavilon árnyékos pihenőhelyet kínál a víz mellett Lubangóban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465398,
+                        -14.909603
+                  ]
+            },
+            {
+                  "name": "Animais",
+                  "text": "Ez az állatkifutó egy helyi vadaspark része, amely a helyi faunát mutatja be Lubangóban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466707,
+                        -14.909423
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Animais",
+                  "text": "Ez a kis lagúna az állatkifutók mellett található, vizet biztosítva a park lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466613,
+                        -14.910554
+                  ]
+            },
+            {
+                  "name": "Cova da Onça",
+                  "text": "Ez a Jaguár-barlangként ismert attrakció a parkban egy árokszerű építménnyel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465223,
+                        -14.911695
+                  ]
+            },
+            {
+                  "name": "Miradouro do Rio",
+                  "text": "Ez a kilátóhely a lubangói környezetvédelmi központban békés kilátást nyújt a közeli folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464023,
+                        -14.912685
+                  ]
+            },
+            {
+                  "name": "Barragem Colonial",
+                  "text": "Ez a gyarmati korszakból származó gát szabályozza a víz áramlását a lubangói tájvédelmi körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.462687,
+                        -14.912255
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Catuites",
+                  "text": "Ez a festői lagúna látványosság természetes vízi környezetet kínál a Centro Ambiental Lubango területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464054,
+                        -14.910469
+                  ]
+            },
+            {
+                  "name": "Quinta Pedagógica",
+                  "text": "Ez az oktatófarm látványosság a Centro Ambiental Lubango területén gyakorlati mezőgazdasági tapasztalatokat nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.460443,
+                        -14.909525
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Arco-Íris",
+                  "text": "Az 1975-ből származó színház kulturális előadótérként szolgál a Centro Ambiental Lubango területén.",
+                  "category": "cultural",
+                  "coords": [
+                        13.482735,
+                        -14.921808
+                  ]
+            },
+            {
+                  "name": "Religiosas do Amor de Deus (RAD) - Noviciado da Vice-Província de África",
+                  "text": "Az Isten Szeretete Nővérek vallási noviciátusa katolikus istentiszteleti helyként szolgál a Centro Ambiental Lubango területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.483021,
+                        -14.938455
+                  ]
+            },
+            {
+                  "name": "Pululukwa Resort",
+                  "text": "Ez az üdülőhely egy állatkerti parkot foglal magában a Centro Ambiental Lubango természetes környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465515,
+                        -14.910602
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capelinha da Nossa Senhora do Monte",
+                  "text": "Această mică capelă situată pe deal, deasupra orașului Lubango, este dedicată Maicii Domnului a Muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465418,
+                        -14.94002
+                  ]
+            },
+            {
+                  "name": "Miradouro da Boca da Humpata / Boca da Humpata Viewpoint",
+                  "text": "Acest punct de belvedere oferă vizitatorilor o panoramă vastă asupra peisajului accidentat din Boca da Humpata.",
+                  "category": "natural",
+                  "coords": [
+                        13.481594,
+                        -14.944597
+                  ]
+            },
+            {
+                  "name": "Piscina/Lago Nossa Senhoa do Monte",
+                  "text": "Această zonă cu lac și piscină face parte din complexul vast de agrement Nossa Senhora do Monte din Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468655,
+                        -14.937466
+                  ]
+            },
+            {
+                  "name": "Casino Nossa Senhora do Monte",
+                  "text": "Această clădire cu cazino oferă facilități de divertisment în cadrul complexului de parc Nossa Senhora do Monte din Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468278,
+                        -14.938421
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições",
+                  "text": "Acest parc de târguri și expoziții din Lubango a fost înființat în 1965 și găzduiește evenimente locale.",
+                  "category": "landmark",
+                  "coords": [
+                        13.473292,
+                        -14.934904
+                  ]
+            },
+            {
+                  "name": "Feira Agro-pecuária",
+                  "text": "Acest teren pentru târguri agricole și zootehnice din Lubango datează din 1965 și promovează creșterea animalelor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4734,
+                        -14.936698
+                  ]
+            },
+            {
+                  "name": "Estádio da Nossa Senhora do Monte",
+                  "text": "Acest stadion sportiv este amplasat în complexul împădurit Nossa Senhora do Monte din Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469752,
+                        -14.936539
+                  ]
+            },
+            {
+                  "name": "Circuito Urbano da Nossa Senhora do Monte",
+                  "text": "Acest circuit de curse stradale urbane șerpuiește prin zona deluroasă de la Nossa Senhora do Monte.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4677,
+                        -14.934497
+                  ]
+            },
+            {
+                  "name": "Antigo Aqueduto / Old Aqueduct",
+                  "text": "Aceste ruine reprezintă rămășițele unei structuri vechi de apeduct care transporta odată apa prin Lubango.",
+                  "category": "historical",
+                  "coords": [
+                        13.470089,
+                        -14.931352
+                  ]
+            },
+            {
+                  "name": "Barragem do Pescador",
+                  "text": "Acest mic baraj și lac de acumulare din Lubango este frecventat de localnici pentru pescuit.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467479,
+                        -14.91244
+                  ]
+            },
+            {
+                  "name": "Serval (Lince) & Chimpanzé",
+                  "text": "Acest țarc cu animale din Lubango prezintă un serval și un cimpanzeu pentru vizionare publică.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469396,
+                        -14.913493
+                  ]
+            },
+            {
+                  "name": "Aldeia Zulu",
+                  "text": "Acest sat tematic din Lubango expune stiluri arhitecturale și elemente culturale inspirate de populația Zulu.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467729,
+                        -14.911428
+                  ]
+            },
+            {
+                  "name": "Miradouro do Resort",
+                  "text": "Acest punct de belvedere al complexului din Lubango oferă o privire de ansamblu asupra parcului înconjurat de dealuri verzi.",
+                  "category": "natural",
+                  "coords": [
+                        13.466222,
+                        -14.907549
+                  ]
+            },
+            {
+                  "name": "Entrada - Pululukwa Resort",
+                  "text": "Această zonă de intrare marchează poarta către pitorescul resort natural Pululukwa din Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.46328,
+                        -14.908444
+                  ]
+            },
+            {
+                  "name": "Jango do Lago",
+                  "text": "Acest pavilion tradițional de tip jango situat pe malul lacului oferă un loc umbrit de odihnă lângă apă în Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465398,
+                        -14.909603
+                  ]
+            },
+            {
+                  "name": "Animais",
+                  "text": "Acest țarc pentru animale face parte dintr-un parc local de faună sălbatică ce prezintă fauna din Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466707,
+                        -14.909423
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Animais",
+                  "text": "Această mică lagună este adiacentă țarcurilor de animale, oferind o sursă de apă locuitorilor parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466613,
+                        -14.910554
+                  ]
+            },
+            {
+                  "name": "Cova da Onça",
+                  "text": "Această atracție cunoscută drept Vizuina Jaguarului are o structură asemănătoare unei gropi în cadrul parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465223,
+                        -14.911695
+                  ]
+            },
+            {
+                  "name": "Miradouro do Rio",
+                  "text": "Acest punct de belvedere din centrul ecologic Lubango oferă o priveliște liniștită asupra râului din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464023,
+                        -14.912685
+                  ]
+            },
+            {
+                  "name": "Barragem Colonial",
+                  "text": "Acest baraj datând din perioada colonială reglează fluxul apei în interiorul parcului ecologic din Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.462687,
+                        -14.912255
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Catuites",
+                  "text": "Această atracție pitorească cu lagună oferă un cadru natural acvatic în Centro Ambiental Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464054,
+                        -14.910469
+                  ]
+            },
+            {
+                  "name": "Quinta Pedagógica",
+                  "text": "Această fermă educațională din Centro Ambiental Lubango oferă experiențe agricole practice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.460443,
+                        -14.909525
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Arco-Íris",
+                  "text": "Datând din 1975, acest teatru servește ca spațiu de spectacole culturale în Centro Ambiental Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.482735,
+                        -14.921808
+                  ]
+            },
+            {
+                  "name": "Religiosas do Amor de Deus (RAD) - Noviciado da Vice-Província de África",
+                  "text": "Acest noviciat religios pentru Surorile Iubirii lui Dumnezeu servește ca lăcaș de cult catolic în Centro Ambiental Lubango.",
+                  "category": "religious",
+                  "coords": [
+                        13.483021,
+                        -14.938455
+                  ]
+            },
+            {
+                  "name": "Pululukwa Resort",
+                  "text": "Această stațiune include un parc zoologic în mijlocul mediului natural din Centro Ambiental Lubango.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465515,
+                        -14.910602
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capelinha da Nossa Senhora do Monte",
+                  "text": "This small hillside chapel above Lubango is dedicated to Our Lady of the Mount.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465418,
+                        -14.94002
+                  ]
+            },
+            {
+                  "name": "Miradouro da Boca da Humpata / Boca da Humpata Viewpoint",
+                  "text": "This viewpoint gives visitors sweeping vistas over the rugged landscapes of Boca da Humpata.",
+                  "category": "natural",
+                  "coords": [
+                        13.481594,
+                        -14.944597
+                  ]
+            },
+            {
+                  "name": "Piscina/Lago Nossa Senhoa do Monte",
+                  "text": "This lake and pool facility forms part of the expansive Nossa Senhora do Monte recreational complex in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468655,
+                        -14.937466
+                  ]
+            },
+            {
+                  "name": "Casino Nossa Senhora do Monte",
+                  "text": "This casino facility provides entertainment within the Nossa Senhora do Monte park complex in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.468278,
+                        -14.938421
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições",
+                  "text": "This fair and exhibition park in Lubango was established in 1965 and hosts local events and gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        13.473292,
+                        -14.934904
+                  ]
+            },
+            {
+                  "name": "Feira Agro-pecuária",
+                  "text": "This agricultural and livestock fairground in Lubango dates back to 1965 and promotes local farming.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4734,
+                        -14.936698
+                  ]
+            },
+            {
+                  "name": "Estádio da Nossa Senhora do Monte",
+                  "text": "This sports stadium is nestled within the forested complex of Nossa Senhora do Monte in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469752,
+                        -14.936539
+                  ]
+            },
+            {
+                  "name": "Circuito Urbano da Nossa Senhora do Monte",
+                  "text": "This urban street racing circuit winds through the hilly terrain of the Nossa Senhora do Monte area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.4677,
+                        -14.934497
+                  ]
+            },
+            {
+                  "name": "Antigo Aqueduto / Old Aqueduct",
+                  "text": "These ruins reveal the remnants of an old aqueduct structure that once carried water through Lubango.",
+                  "category": "historical",
+                  "coords": [
+                        13.470089,
+                        -14.931352
+                  ]
+            },
+            {
+                  "name": "Barragem do Pescador",
+                  "text": "This small dam and reservoir area in Lubango is frequented by locals for fishing.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467479,
+                        -14.91244
+                  ]
+            },
+            {
+                  "name": "Serval (Lince) & Chimpanzé",
+                  "text": "This animal enclosure in Lubango features a serval and a chimpanzee for public viewing.",
+                  "category": "landmark",
+                  "coords": [
+                        13.469396,
+                        -14.913493
+                  ]
+            },
+            {
+                  "name": "Aldeia Zulu",
+                  "text": "This thematic village attraction in Lubango showcases architectural styles and cultural elements inspired by the Zulu.",
+                  "category": "landmark",
+                  "coords": [
+                        13.467729,
+                        -14.911428
+                  ]
+            },
+            {
+                  "name": "Miradouro do Resort",
+                  "text": "This resort viewpoint in Lubango overlooks the surrounding green park and hill landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        13.466222,
+                        -14.907549
+                  ]
+            },
+            {
+                  "name": "Entrada - Pululukwa Resort",
+                  "text": "This entrance area marks the gateway into the scenic and nature-rich Pululukwa Resort in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.46328,
+                        -14.908444
+                  ]
+            },
+            {
+                  "name": "Jango do Lago",
+                  "text": "This lakeside traditional jango pavilion offers visitors a shaded resting spot right by the water in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465398,
+                        -14.909603
+                  ]
+            },
+            {
+                  "name": "Animais",
+                  "text": "This animal enclosure is part of a local wildlife park that showcases the local fauna in Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466707,
+                        -14.909423
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Animais",
+                  "text": "This small lagoon sits adjacent to the animal enclosures, providing a water feature for the park's inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        13.466613,
+                        -14.910554
+                  ]
+            },
+            {
+                  "name": "Cova da Onça",
+                  "text": "This attraction, known as the Jaguar's Den, features a pit or cave-like structure within the park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.465223,
+                        -14.911695
+                  ]
+            },
+            {
+                  "name": "Miradouro do Rio",
+                  "text": "This viewpoint in the Lubango environmental center offers a calming vista over the nearby river.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464023,
+                        -14.912685
+                  ]
+            },
+            {
+                  "name": "Barragem Colonial",
+                  "text": "This colonial-era dam structure manages the flow of water within the landscaped park of Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.462687,
+                        -14.912255
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Catuites",
+                  "text": "This scenic lagoon attraction offers a natural water setting in the Centro Ambiental Lubango.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464054,
+                        -14.910469
+                  ]
+            },
+            {
+                  "name": "Quinta Pedagógica",
+                  "text": "This educational farm attraction in the Centro Ambiental Lubango provides hands-on agricultural experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        13.460443,
+                        -14.909525
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Arco-Íris",
+                  "text": "Dating back to 1975, this theatre serves as a cultural performance space in the Centro Ambiental Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.482735,
+                        -14.921808
+                  ]
+            },
+            {
+                  "name": "Religiosas do Amor de Deus (RAD) - Noviciado da Vice-Província de África",
+                  "text": "This religious novitiate for the Sisters of the Love of God serves as a Catholic place of worship in the Centro Ambiental Lubango.",
+                  "category": "religious",
+                  "coords": [
+                        13.483021,
+                        -14.938455
+                  ]
+            },
+            {
+                  "name": "Pululukwa Resort",
+                  "text": "This resort includes a zoological park setting amidst the natural environment of the Centro Ambiental Lubango.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465515,
+                        -14.910602
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "AO-HUI",
     coords: [13.4800, -14.9200],
@@ -458,7 +1673,52 @@ export const poiExtraAngolaLifeV2: POI[] = [
       fr: ["Le plus ancien parc national du pays, fondé en 1938.", "Réputé pour la plus grande concentration de baobabs au monde.", "Lieu de l'historique Opération 'Arche de Noé' pour le sauvetage des animaux.", "Couvre une superficie de près de 10 000 kilomètres carrés.", "Refuge important pour les tortues marines rares sur la côte.", "Dispose de lodges de safari confortables et de plateformes d'observation.", "Centre névralgique pour la formation nationale des gardes-chasse.", "Un incontournable pour tout amoureux de la nature en Angola."],
     }, image: "/poi-images/parque-nacional-da-quiçama-life-v2.webp"},
   {
-    id: "fazenda-benguela-life-v2",
+    id: "fazenda-benguela-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Largo da Peça",
+                  "text": "Ein historischer öffentlicher Platz in Benguela, dessen zentrales Denkmal ein altes Artilleriegeschütz ist.",
+                  "category": "historical",
+                  "coords": [
+                        13.413785,
+                        -12.58051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Largo da Peça",
+                  "text": "Történelmi központi tér Benguelában, amelynek központi emlékműve egy régi tüzérségi ágyú.",
+                  "category": "historical",
+                  "coords": [
+                        13.413785,
+                        -12.58051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Largo da Peça",
+                  "text": "O piață publică istorică din Benguela care are ca monument central o veche piesă de artilerie.",
+                  "category": "historical",
+                  "coords": [
+                        13.413785,
+                        -12.58051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Largo da Peça",
+                  "text": "A historical public square in Benguela featuring an old artillery piece as its central monument.",
+                  "category": "historical",
+                  "coords": [
+                        13.413785,
+                        -12.58051
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AO-BGO",
     coords: [13.4150, -12.5700],
@@ -598,7 +1858,88 @@ export const poiExtraAngolaLifeV2: POI[] = [
       fr: ["Entreprises stratégiques pour nourrir la main-d'œuvre minière.", "Accent sur la culture à grande échelle du manioc et du riz pluvial.", "Exploitent les ressources en eau des bassins du Cuango et du Kasaï.", "Investissements importants dans l'aquaculture locale.", "Centre de développement rural dans le nord-est de l'Angola.", "Créent des emplois stables pour d'anciens mineurs.", "Contribuent à la réduction des coûts de transport des denrées alimentaires.", "Un modèle de responsabilité sociale pour l'industrie des matières premières."],
     }, image: "/poi-images/fazenda-lunda-norte-life-v2.webp"},
   {
-    id: "parque-urbano-da-cidadela-life-v2",
+    id: "parque-urbano-da-cidadela-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu da Força Aérea",
+                  "text": "Das Luftwaffenmuseum in Luanda präsentiert historische militärische Flugzeuge und luftfahrttechnische Ausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        13.228083,
+                        -8.848721
+                  ]
+            },
+            {
+                  "name": "António Agostinho Neto",
+                  "text": "Dieses Denkmal im Parque Urbano da Cidadela ist António Agostinho Neto, dem ersten Präsidenten Angolas, gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        13.23453,
+                        -8.84702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da Força Aérea",
+                  "text": "A luandai Légierő Múzeum történelmi katonai repülőgépeket és légiközlekedési felszereléseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.228083,
+                        -8.848721
+                  ]
+            },
+            {
+                  "name": "António Agostinho Neto",
+                  "text": "Ez az emlékmű a Parque Urbano da Cidadela területén António Agostinho Netónak, Angola első elnökének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        13.23453,
+                        -8.84702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da Força Aérea",
+                  "text": "Muzeul Forțelor Aeriene din Luanda expune aeronave militare și echipamente de aviație istorice.",
+                  "category": "museum",
+                  "coords": [
+                        13.228083,
+                        -8.848721
+                  ]
+            },
+            {
+                  "name": "António Agostinho Neto",
+                  "text": "Acest monument din Parque Urbano da Cidadela este dedicat lui António Agostinho Neto, primul președinte al Angolei.",
+                  "category": "historical",
+                  "coords": [
+                        13.23453,
+                        -8.84702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da Força Aérea",
+                  "text": "The Air Force Museum in Luanda exhibits historical military aircraft and aviation equipment.",
+                  "category": "museum",
+                  "coords": [
+                        13.228083,
+                        -8.848721
+                  ]
+            },
+            {
+                  "name": "António Agostinho Neto",
+                  "text": "This monument in the Parque Urbano da Cidadela is dedicated to António Agostinho Neto, the first president of Angola.",
+                  "category": "historical",
+                  "coords": [
+                        13.23453,
+                        -8.84702
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2300, -8.8450],
@@ -705,7 +2046,52 @@ export const poiExtraAngolaLifeV2: POI[] = [
 
   },
   {
-    id: "jardim-da-independencia-life-v2",
+    id: "jardim-da-independencia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento as Heroínas Angolanas",
+                  "text": "Das Monumento as Heroínas Angolanas in Luanda ehrt die Frauen, die eine wichtige Rolle im angolanischen Befreiungskampf spielten.",
+                  "category": "historical",
+                  "coords": [
+                        13.23977,
+                        -8.832751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento as Heroínas Angolanas",
+                  "text": "A Monumento as Heroínas Angolanas Luandában az angolai függetlenségi harcban fontos szerepet játszó nőknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        13.23977,
+                        -8.832751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento as Heroínas Angolanas",
+                  "text": "Monumento as Heroínas Angolanas din Luanda onorează femeile care au jucat un rol important în lupta pentru independența Angolei.",
+                  "category": "historical",
+                  "coords": [
+                        13.23977,
+                        -8.832751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento as Heroínas Angolanas",
+                  "text": "The Monumento as Heroínas Angolanas in Luanda honors the women who played a vital role in the Angolan struggle for independence.",
+                  "category": "historical",
+                  "coords": [
+                        13.23977,
+                        -8.832751
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2400, -8.8400],
@@ -742,7 +2128,124 @@ export const poiExtraAngolaLifeV2: POI[] = [
 
   },
   {
-    id: "fazenda-huambo-life-v2",
+    id: "fazenda-huambo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Satchinongue",
+                  "text": "Dieser Aussichtspunkt auf einem Hügel bietet weite Ausblicke über die Landschaften der Provinz Huambo.",
+                  "category": "natural",
+                  "coords": [
+                        15.695468,
+                        -12.729305
+                  ]
+            },
+            {
+                  "name": "Monte Tchilengue",
+                  "text": "Ein malerischer, erhöhter Aussichtspunkt auf dem Berg, der weitreichende Ausblicke auf die ländliche Region Huambo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.733597,
+                        -12.639441
+                  ]
+            },
+            {
+                  "name": "Monte Cassongo",
+                  "text": "Dieser gebirgige Beobachtungspunkt blickt auf die weitläufigen landwirtschaftlichen Flächen und das abwechslungsreiche Gelände rund um Huambo.",
+                  "category": "natural",
+                  "coords": [
+                        15.634734,
+                        -12.642136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Satchinongue",
+                  "text": "Ez a dombtetőn található kilátó pazar panorámát kínál a Huambo tartomány tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        15.695468,
+                        -12.729305
+                  ]
+            },
+            {
+                  "name": "Monte Tchilengue",
+                  "text": "Festői, magasan fekvő hegyvidéki kilátó, amely messzire nyúló kilátást nyújt Huambo vidéki régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        15.733597,
+                        -12.639441
+                  ]
+            },
+            {
+                  "name": "Monte Cassongo",
+                  "text": "Ez a hegyvidéki megfigyelőpont a Huambo körüli kiterjedt mezőgazdasági területekre és a változatos terepre néz.",
+                  "category": "natural",
+                  "coords": [
+                        15.634734,
+                        -12.642136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Satchinongue",
+                  "text": "Acest punct de belvedere de pe deal oferă priveliști ample peste peisajele provinciei Huambo.",
+                  "category": "natural",
+                  "coords": [
+                        15.695468,
+                        -12.729305
+                  ]
+            },
+            {
+                  "name": "Monte Tchilengue",
+                  "text": "Un punct de belvedere pitoresc și înalt pe munte, care oferă vederi îndepărtate asupra regiunii rurale Huambo.",
+                  "category": "natural",
+                  "coords": [
+                        15.733597,
+                        -12.639441
+                  ]
+            },
+            {
+                  "name": "Monte Cassongo",
+                  "text": "Acest punct de observație montan domină terenurile agricole întinse și relieful variat din jurul orașului Huambo.",
+                  "category": "natural",
+                  "coords": [
+                        15.634734,
+                        -12.642136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Satchinongue",
+                  "text": "This hilltop viewpoint offers sweeping vistas across the landscapes of the Huambo province.",
+                  "category": "natural",
+                  "coords": [
+                        15.695468,
+                        -12.729305
+                  ]
+            },
+            {
+                  "name": "Monte Tchilengue",
+                  "text": "A scenic elevated viewpoint on the mountain providing far-reaching sights of the rural Huambo region.",
+                  "category": "natural",
+                  "coords": [
+                        15.733597,
+                        -12.639441
+                  ]
+            },
+            {
+                  "name": "Monte Cassongo",
+                  "text": "This mountainous observation point overlooks the sprawling farmlands and varied terrain around Huambo.",
+                  "category": "natural",
+                  "coords": [
+                        15.634734,
+                        -12.642136
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AO-HUA",
     coords: [15.7000, -12.7000],
@@ -779,7 +2282,124 @@ export const poiExtraAngolaLifeV2: POI[] = [
 
   },
   {
-    id: "parque-infantil-benguela-life-v2",
+    id: "parque-infantil-benguela-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Nossa Senhora do Pópulo",
+                  "text": "Diese historische katholische Kirche in Benguela zeichnet sich durch eine unverwechselbare Kolonialarchitektur aus dem 17. Jahrhundert aus.",
+                  "category": "religious",
+                  "coords": [
+                        13.402935,
+                        -12.576859
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Arqueologia",
+                  "text": "Ein bedeutendes Nationalmuseum in Benguela, das prähistorische Artefakte und regionale archäologische Funde ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.396977,
+                        -12.57784
+                  ]
+            },
+            {
+                  "name": "Praia Morena",
+                  "text": "Ein berühmter städtischer Sandstrand entlang der Küste von Benguela, der bei Spaziergängern am Wasser beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.396057,
+                        -12.577078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Nossa Senhora do Pópulo",
+                  "text": "Ez a történelmi katolikus templom Benguelában jellegzetes, a 17. századig visszanyúló gyarmati építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        13.402935,
+                        -12.576859
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Arqueologia",
+                  "text": "Kiemelkedő nemzeti múzeum Benguelában, amely őskori leleteket és regionális régészeti felfedezéseket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        13.396977,
+                        -12.57784
+                  ]
+            },
+            {
+                  "name": "Praia Morena",
+                  "text": "Híres homokos városi strand Benguela partvonala mentén, amely népszerű a tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.396057,
+                        -12.577078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Nossa Senhora do Pópulo",
+                  "text": "Această biserică catolică istorică din Benguela prezintă o arhitectură colonială distinctă care datează din secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        13.402935,
+                        -12.576859
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Arqueologia",
+                  "text": "Un muzeu național important din Benguela, care expune artefacte preistorice și descoperiri arheologice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        13.396977,
+                        -12.57784
+                  ]
+            },
+            {
+                  "name": "Praia Morena",
+                  "text": "O faimoasă plajă urbană cu nisip care se întinde de-a lungul coastei din Benguela, populară pentru plimbările pe faleză.",
+                  "category": "recreational",
+                  "coords": [
+                        13.396057,
+                        -12.577078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja de Nossa Senhora do Pópulo",
+                  "text": "This historic Catholic church in Benguela features distinct colonial architecture dating back to the 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        13.402935,
+                        -12.576859
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Arqueologia",
+                  "text": "A prominent national museum in Benguela exhibiting prehistoric artifacts and regional archaeological discoveries.",
+                  "category": "museum",
+                  "coords": [
+                        13.396977,
+                        -12.57784
+                  ]
+            },
+            {
+                  "name": "Praia Morena",
+                  "text": "A famous sandy urban beach running along the coastline of Benguela, popular for waterfront strolls.",
+                  "category": "recreational",
+                  "coords": [
+                        13.396057,
+                        -12.577078
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "AO-BGO",
     coords: [13.4000, -12.5800],
@@ -884,7 +2504,52 @@ export const poiExtraAngolaLifeV2: POI[] = [
       fr: ["Centre de l'industrie angolaise du sucre et de l'éthanol.", "Possède les plus grandes surfaces de culture de soja d'un seul tenant du pays.", "Utilise des technologies d'irrigation modernes issues du Brésil et d'Israël.", "Site important pour la transformation industrielle d'huile alimentaire.", "Favorise l'implantation de fabricants de machines dans la région.", "Point central pour l'exportation de matières premières agricoles.", "Contribue massivement à l'augmentation du produit intérieur brut régional.", "Un symbole du progrès technologique dans l'arrière-pays angolais."],
     }, image: "/poi-images/fazenda-malanje-life-v2.webp"},
   {
-    id: "parque-ecologico-de-luanda-life-v2",
+    id: "parque-ecologico-de-luanda-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estátua do Motorista",
+                  "text": "Diese öffentliche Statue zollt den alltäglichen Fahrern Tribut, die durch die belebten Straßen von Luanda navigieren.",
+                  "category": "historical",
+                  "coords": [
+                        13.268859,
+                        -8.840709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estátua do Motorista",
+                  "text": "Ez a köztéri szobor a Luanda forgalmas utcáin navigáló mindennapi sofőrök előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        13.268859,
+                        -8.840709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estátua do Motorista",
+                  "text": "Această statuie publică aduce un omagiu șoferilor de transport de zi cu zi care navighează pe străzile aglomerate din Luanda.",
+                  "category": "historical",
+                  "coords": [
+                        13.268859,
+                        -8.840709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estátua do Motorista",
+                  "text": "This public statue pays tribute to the everyday transport drivers navigating the busy streets of Luanda.",
+                  "category": "historical",
+                  "coords": [
+                        13.268859,
+                        -8.840709
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2600, -8.8500],

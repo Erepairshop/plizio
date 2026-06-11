@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraTanzaniaCitiesV2: POI[] = [
   {
-    id: "tz-dodoma-cities-v2",
+    id: "tz-dodoma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "White house genge",
+                  "text": "Dieser lokale Aussichtspunkt bietet weite Ausblicke über die umliegende Stadtlandschaft von Dodoma.",
+                  "category": "natural",
+                  "coords": [
+                        35.740888,
+                        -6.121053
+                  ]
+            },
+            {
+                  "name": "GEORGE TOWN GARDEN PARK",
+                  "text": "Dieser grüne Stadtpark in Dodoma bietet angelegte Gärten und schattige Rastplätze.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737556,
+                        -6.120524
+                  ]
+            },
+            {
+                  "name": "Ray Mark Farm",
+                  "text": "Dieser landwirtschaftliche Betrieb in Dodoma zeigt lokale landwirtschaftliche Praktiken und ländliche Landschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766608,
+                        -6.106181
+                  ]
+            },
+            {
+                  "name": "MAMA EVER HOUSE",
+                  "text": "Dieses markante historische Bauwerk in Dodoma weist deutliche lokale Architekturelemente auf.",
+                  "category": "castle",
+                  "coords": [
+                        35.745632,
+                        -6.116773
+                  ]
+            },
+            {
+                  "name": "BI.MSIGWA HOSTEL",
+                  "text": "Dieses als großes historisches Gebäude in Dodoma fungierende Bauwerk ist für seine Ziegelbauweise bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        35.738191,
+                        -6.124198
+                  ]
+            },
+            {
+                  "name": "Gaddafi Mosque",
+                  "text": "Diese riesige, mit libyschen Geldern erbaute Moschee in Dodoma bietet unter ihrer zentralen Kuppel Platz für Tausende von Gläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        35.745784,
+                        -6.172839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "White house genge",
+                  "text": "Ez a helyi kilátó széles rálátást biztosít Dodoma környező városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        35.740888,
+                        -6.121053
+                  ]
+            },
+            {
+                  "name": "GEORGE TOWN GARDEN PARK",
+                  "text": "Ez a zöldellő dodomai városi park parkosított kertekkel és árnyékos pihenőhelyekkel várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737556,
+                        -6.120524
+                  ]
+            },
+            {
+                  "name": "Ray Mark Farm",
+                  "text": "Ez a dodomai mezőgazdasági terület a helyi gazdálkodási gyakorlatokat és a vidéki tájakat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766608,
+                        -6.106181
+                  ]
+            },
+            {
+                  "name": "MAMA EVER HOUSE",
+                  "text": "Ez a kiemelkedő dodomai történelmi építmény jellegzetes helyi építészeti elemekkel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        35.745632,
+                        -6.116773
+                  ]
+            },
+            {
+                  "name": "BI.MSIGWA HOSTEL",
+                  "text": "A Dodomában nagyméretű történelmi épületként működő helyszín téglaszerkezetéről nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        35.738191,
+                        -6.124198
+                  ]
+            },
+            {
+                  "name": "Gaddafi Mosque",
+                  "text": "A líbiai támogatásból épült hatalmas dodomai mecset központi kupolája alatt több ezer hívő fér el.",
+                  "category": "religious",
+                  "coords": [
+                        35.745784,
+                        -6.172839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "White house genge",
+                  "text": "Acest punct de belvedere local oferă vederi ample asupra peisajului urban înconjurător din Dodoma.",
+                  "category": "natural",
+                  "coords": [
+                        35.740888,
+                        -6.121053
+                  ]
+            },
+            {
+                  "name": "GEORGE TOWN GARDEN PARK",
+                  "text": "Acest parc urban verde din Dodoma oferă grădini amenajate și zone de odihnă umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737556,
+                        -6.120524
+                  ]
+            },
+            {
+                  "name": "Ray Mark Farm",
+                  "text": "Acest sit agricol din Dodoma prezintă practici agricole locale și peisaje rurale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766608,
+                        -6.106181
+                  ]
+            },
+            {
+                  "name": "MAMA EVER HOUSE",
+                  "text": "Această structură istorică proeminentă din Dodoma prezintă elemente arhitecturale locale distincte.",
+                  "category": "castle",
+                  "coords": [
+                        35.745632,
+                        -6.116773
+                  ]
+            },
+            {
+                  "name": "BI.MSIGWA HOSTEL",
+                  "text": "Funcționând ca o clădire istorică mare în Dodoma, acest sit este remarcabil pentru construcția sa din cărămidă.",
+                  "category": "castle",
+                  "coords": [
+                        35.738191,
+                        -6.124198
+                  ]
+            },
+            {
+                  "name": "Gaddafi Mosque",
+                  "text": "Construită cu fonduri libiene, această moschee masivă din Dodoma poate găzdui mii de credincioși sub cupola sa centrală.",
+                  "category": "religious",
+                  "coords": [
+                        35.745784,
+                        -6.172839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "White house genge",
+                  "text": "This local viewpoint provides sweeping vistas over the surrounding urban landscape of Dodoma.",
+                  "category": "natural",
+                  "coords": [
+                        35.740888,
+                        -6.121053
+                  ]
+            },
+            {
+                  "name": "GEORGE TOWN GARDEN PARK",
+                  "text": "This green urban park in Dodoma offers landscaped gardens and shaded resting areas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737556,
+                        -6.120524
+                  ]
+            },
+            {
+                  "name": "Ray Mark Farm",
+                  "text": "This agricultural site in Dodoma showcases local farming practices and rural landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766608,
+                        -6.106181
+                  ]
+            },
+            {
+                  "name": "MAMA EVER HOUSE",
+                  "text": "This prominent historic structure in Dodoma features distinct local architectural elements.",
+                  "category": "castle",
+                  "coords": [
+                        35.745632,
+                        -6.116773
+                  ]
+            },
+            {
+                  "name": "BI.MSIGWA HOSTEL",
+                  "text": "Functioning as a large historical building in Dodoma, this site is notable for its brick construction.",
+                  "category": "castle",
+                  "coords": [
+                        35.738191,
+                        -6.124198
+                  ]
+            },
+            {
+                  "name": "Gaddafi Mosque",
+                  "text": "Built with Libyan funding, this massive mosque in Dodoma can accommodate thousands of worshippers under its central dome.",
+                  "category": "religious",
+                  "coords": [
+                        35.745784,
+                        -6.172839
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TZ-01",
     coords: [35.7419, -6.1731],
@@ -485,7 +710,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-mbeya-cities-v2",
+    id: "tz-mbeya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bombadier pub",
+                  "text": "Ein beliebter lokaler Treffpunkt und eine Kneipe in Mbeya, die bei den Bewohnern für ihre lebhafte Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        33.433549,
+                        -8.905474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bombadier pub",
+                  "text": "Egy népszerű helyi közösségi központ és kocsma Mbeyában, amely a lakosok körében nyüzsgő hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.433549,
+                        -8.905474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bombadier pub",
+                  "text": "Un centru social local popular și o cârciumă în Mbeya, cunoscută printre locuitori pentru atmosfera sa plină de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        33.433549,
+                        -8.905474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bombadier pub",
+                  "text": "A popular local social hub and watering hole in Mbeya, known among residents for its lively atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        33.433549,
+                        -8.905474
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-12",
     coords: [33.45, -8.9],
@@ -818,7 +1088,124 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-tabora-cities-v2",
+    id: "tz-tabora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Water point Tabora",
+                  "text": "Der Water Point Tabora dient als kommunale Wasserinfrastruktur mit großen Reservoiranlagen für die lokale Versorgung.",
+                  "category": "recreational",
+                  "coords": [
+                        32.809759,
+                        -5.028091
+                  ]
+            },
+            {
+                  "name": "Tabora Zoo",
+                  "text": "Der Tabora Zoo ist ein Tierpark, der in umzäunten Gehegen verschiedene regionale Wildtierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.813242,
+                        -5.032248
+                  ]
+            },
+            {
+                  "name": "The Tabora Zoo",
+                  "text": "Diese regionale zoologische Einrichtung ermöglicht es Besuchern, ostafrikanische Tiere sicher in ihren Freigehegen zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        32.812532,
+                        -5.030581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Water point Tabora",
+                  "text": "A Water Point Tabora egy önkormányzati vízi infrastruktúra, amely nagy tározóépítményekkel biztosítja a helyi vízellátást.",
+                  "category": "recreational",
+                  "coords": [
+                        32.809759,
+                        -5.028091
+                  ]
+            },
+            {
+                  "name": "Tabora Zoo",
+                  "text": "A Tabora Állatkert egy vadaspark, amely bekerített kifutókban mutat be regionális vadon élő állatfajokat.",
+                  "category": "recreational",
+                  "coords": [
+                        32.813242,
+                        -5.032248
+                  ]
+            },
+            {
+                  "name": "The Tabora Zoo",
+                  "text": "Ez a regionális állatkerti létesítmény lehetővé teszi a látogatók számára, hogy a kelet-afrikai őshonos állatokat kifutókban tekintsék meg.",
+                  "category": "recreational",
+                  "coords": [
+                        32.812532,
+                        -5.030581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Water point Tabora",
+                  "text": "Water Point Tabora servește ca o infrastructură acvatică municipală, cu rezervoare pentru aprovizionarea locală.",
+                  "category": "recreational",
+                  "coords": [
+                        32.809759,
+                        -5.028091
+                  ]
+            },
+            {
+                  "name": "Tabora Zoo",
+                  "text": "Grădina Zoologică Tabora este un parc de animale care adăpostește o colecție de specii sălbatice regionale în incinte împrejmuite.",
+                  "category": "recreational",
+                  "coords": [
+                        32.813242,
+                        -5.032248
+                  ]
+            },
+            {
+                  "name": "The Tabora Zoo",
+                  "text": "Această unitate zoologică regională permite vizitatorilor să observe animalele native din Africa de Est în țarcurile lor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.812532,
+                        -5.030581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Water point Tabora",
+                  "text": "Water Point Tabora serves as a municipal aquatic infrastructure site featuring large reservoir structures for the local supply.",
+                  "category": "recreational",
+                  "coords": [
+                        32.809759,
+                        -5.028091
+                  ]
+            },
+            {
+                  "name": "Tabora Zoo",
+                  "text": "Tabora Zoo is an animal park housing a collection of regional wildlife species in fenced enclosures and shaded habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        32.813242,
+                        -5.032248
+                  ]
+            },
+            {
+                  "name": "The Tabora Zoo",
+                  "text": "This regional zoological facility allows visitors to view native East African animals securely within their designated outdoor pens.",
+                  "category": "recreational",
+                  "coords": [
+                        32.812532,
+                        -5.030581
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-14",
     coords: [32.8, -5.0167],
@@ -854,7 +1241,196 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-zanzibar-city-cities-v2",
+    id: "tz-zanzibar-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "amani",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die geschäftige Stadtlandschaft von Sansibar-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        39.218762,
+                        -6.163772
+                  ]
+            },
+            {
+                  "name": "Spinning Coaster",
+                  "text": "Ein Fahrgeschäft in einem Vergnügungspark, das aufregende Drehungen in Sansibar-Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203163,
+                        -6.167148
+                  ]
+            },
+            {
+                  "name": "Art & Gallery",
+                  "text": "Ein Kunstzentrum in Sansibar-Stadt, das lokale kreative Werke ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.220892,
+                        -6.17526
+                  ]
+            },
+            {
+                  "name": "Livingstone House",
+                  "text": "Ein Museum in einem historischen Gebäude, das einst als Stützpunkt für den Entdecker David Livingstone diente.",
+                  "category": "museum",
+                  "coords": [
+                        39.202326,
+                        -6.158426
+                  ]
+            },
+            {
+                  "name": "Revolutionary Tower",
+                  "text": "Ein im Jahr 2014 errichtetes Gedenkmonument in Sansibar-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        39.199729,
+                        -6.16581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "amani",
+                  "text": "Panorámás kilátópont Zanzibar nyüzsgő városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        39.218762,
+                        -6.163772
+                  ]
+            },
+            {
+                  "name": "Spinning Coaster",
+                  "text": "Vidámparki attrakció, amely izgalmas pörgést kínál Zanzibar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203163,
+                        -6.167148
+                  ]
+            },
+            {
+                  "name": "Art & Gallery",
+                  "text": "Helyi kreatív alkotásokat bemutató művészeti központ Zanzibar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.220892,
+                        -6.17526
+                  ]
+            },
+            {
+                  "name": "Livingstone House",
+                  "text": "Történelmi épületben helyet kapott múzeum, amely egykor David Livingstone felfedező bázisaként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        39.202326,
+                        -6.158426
+                  ]
+            },
+            {
+                  "name": "Revolutionary Tower",
+                  "text": "2014-ben emelt emlékmű Zanzibar városában.",
+                  "category": "historical",
+                  "coords": [
+                        39.199729,
+                        -6.16581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "amani",
+                  "text": "Un punct de belvedere care oferă o panoramă asupra peisajului urban plin de viață din Zanzibar City.",
+                  "category": "natural",
+                  "coords": [
+                        39.218762,
+                        -6.163772
+                  ]
+            },
+            {
+                  "name": "Spinning Coaster",
+                  "text": "O atracție de parc de distracții care oferă rotiri palpitante în Zanzibar City.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203163,
+                        -6.167148
+                  ]
+            },
+            {
+                  "name": "Art & Gallery",
+                  "text": "Un centru de artă care prezintă creații locale în Zanzibar City.",
+                  "category": "cultural",
+                  "coords": [
+                        39.220892,
+                        -6.17526
+                  ]
+            },
+            {
+                  "name": "Livingstone House",
+                  "text": "Un muzeu găzduit într-o clădire istorică ce a servit odată ca bază pentru exploratorul David Livingstone.",
+                  "category": "museum",
+                  "coords": [
+                        39.202326,
+                        -6.158426
+                  ]
+            },
+            {
+                  "name": "Revolutionary Tower",
+                  "text": "Un monument comemorativ ridicat în 2014 în Zanzibar City.",
+                  "category": "historical",
+                  "coords": [
+                        39.199729,
+                        -6.16581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "amani",
+                  "text": "A viewpoint offering panoramic vistas over the bustling urban landscape of Zanzibar City.",
+                  "category": "natural",
+                  "coords": [
+                        39.218762,
+                        -6.163772
+                  ]
+            },
+            {
+                  "name": "Spinning Coaster",
+                  "text": "An amusement park ride offering thrilling spins in Zanzibar City.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203163,
+                        -6.167148
+                  ]
+            },
+            {
+                  "name": "Art & Gallery",
+                  "text": "An arts centre showcasing local creative works in Zanzibar City.",
+                  "category": "cultural",
+                  "coords": [
+                        39.220892,
+                        -6.17526
+                  ]
+            },
+            {
+                  "name": "Livingstone House",
+                  "text": "A museum housed in a historic building that once served as a base for explorer David Livingstone.",
+                  "category": "museum",
+                  "coords": [
+                        39.202326,
+                        -6.158426
+                  ]
+            },
+            {
+                  "name": "Revolutionary Tower",
+                  "text": "A commemorative monument erected in 2014 in Zanzibar City.",
+                  "category": "historical",
+                  "coords": [
+                        39.199729,
+                        -6.16581
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-53",
     coords: [39.2, -6.1667],
@@ -1115,7 +1691,160 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-sumbawanga-cities-v2",
+    id: "tz-sumbawanga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "TaNesco office",
+                  "text": "Das TaNesco-Büro in Sumbawanga dient als lokaler Aussichtspunkt in der Nähe des regionalen Stromversorgers.",
+                  "category": "natural",
+                  "coords": [
+                        31.616309,
+                        -7.964708
+                  ]
+            },
+            {
+                  "name": "School hall",
+                  "text": "Diese Schulaula in Sumbawanga fungiert als zentraler Anziehungspunkt der Gemeinde und als Versammlungsort für Bildungsveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.632031,
+                        -7.956025
+                  ]
+            },
+            {
+                  "name": "Sumbawanga wenyeji",
+                  "text": "Sumbawanga Wenyeji ist eine kulturelle Attraktion, die den traditionellen Lebensstil und das Erbe der lokalen Bevölkerung hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.604414,
+                        -7.947499
+                  ]
+            },
+            {
+                  "name": "Masi",
+                  "text": "Der Aussichtspunkt Masi bietet einen Panoramablick über die hochgelegene, hügelige Landschaft rund um die Stadt Sumbawanga.",
+                  "category": "natural",
+                  "coords": [
+                        31.620952,
+                        -7.972742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TaNesco office",
+                  "text": "A sumbawangai TaNesco iroda helyi kilátópontként szolgál a regionális áramszolgáltató központjának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        31.616309,
+                        -7.964708
+                  ]
+            },
+            {
+                  "name": "School hall",
+                  "text": "Ez a sumbawangai iskolai aula központi közösségi látványosságként és oktatási események gyülekezőhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        31.632031,
+                        -7.956025
+                  ]
+            },
+            {
+                  "name": "Sumbawanga wenyeji",
+                  "text": "A Sumbawanga Wenyeji egy kulturális látványosság, amely a helyi lakosok hagyományos életmódját és közösségi örökségét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        31.604414,
+                        -7.947499
+                  ]
+            },
+            {
+                  "name": "Masi",
+                  "text": "A Masi kilátó panorámás kilátást nyújt a Sumbawanga városát körülvevő magasan fekvő, dombos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        31.620952,
+                        -7.972742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TaNesco office",
+                  "text": "Biroul TaNesco din Sumbawanga servește ca un punct de belvedere local lângă sediul regional al companiei de electricitate.",
+                  "category": "natural",
+                  "coords": [
+                        31.616309,
+                        -7.964708
+                  ]
+            },
+            {
+                  "name": "School hall",
+                  "text": "Această sală de școală din Sumbawanga funcționează ca o atracție comunitară centrală și un spațiu de adunare pentru evenimente educaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.632031,
+                        -7.956025
+                  ]
+            },
+            {
+                  "name": "Sumbawanga wenyeji",
+                  "text": "Sumbawanga Wenyeji este o atracție culturală care evidențiază stilul de viață tradițional și moștenirea comunitară a locuitorilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        31.604414,
+                        -7.947499
+                  ]
+            },
+            {
+                  "name": "Masi",
+                  "text": "Punctul de belvedere Masi oferă vederi panoramice asupra peisajului deluros aflat la mare altitudine, care înconjoară orașul Sumbawanga.",
+                  "category": "natural",
+                  "coords": [
+                        31.620952,
+                        -7.972742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TaNesco office",
+                  "text": "The TaNesco office in Sumbawanga serves as a local vantage point near the regional electrical utility headquarters.",
+                  "category": "natural",
+                  "coords": [
+                        31.616309,
+                        -7.964708
+                  ]
+            },
+            {
+                  "name": "School hall",
+                  "text": "This school hall in Sumbawanga functions as a central community attraction and gathering space for educational events.",
+                  "category": "landmark",
+                  "coords": [
+                        31.632031,
+                        -7.956025
+                  ]
+            },
+            {
+                  "name": "Sumbawanga wenyeji",
+                  "text": "Sumbawanga Wenyeji is a cultural attraction highlighting the traditional lifestyle and community heritage of the local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        31.604414,
+                        -7.947499
+                  ]
+            },
+            {
+                  "name": "Masi",
+                  "text": "The Masi viewpoint offers panoramic sights over the high-altitude, rolling landscape surrounding the town of Sumbawanga.",
+                  "category": "natural",
+                  "coords": [
+                        31.620952,
+                        -7.972742
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-15",
     coords: [31.6167, -7.9667],
@@ -1151,7 +1880,88 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-kasulu-cities-v2",
+    id: "tz-kasulu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dubai Plazza",
+                  "text": "Die Dubai Plazza in Kasulu ist eine moderne, geschäftige kommerzielle Attraktion, die als lokales Zentrum für Einkäufe und städtisches Beisammensein dient.",
+                  "category": "landmark",
+                  "coords": [
+                        30.094938,
+                        -4.569598
+                  ]
+            },
+            {
+                  "name": "Nyansha hill",
+                  "text": "Der Nyansha-Hügel ist ein markantes Landschaftsmerkmal mit Blick auf die Stadt Kasulu und bietet malerische Wanderungen an seinen grasbewachsenen Hängen.",
+                  "category": "landmark",
+                  "coords": [
+                        30.109858,
+                        -4.597785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dubai Plazza",
+                  "text": "A kasului Dubai Plazza egy modern, nyüzsgő kereskedelmi látványosság, amely a vásárlás és a városi társasági élet helyi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        30.094938,
+                        -4.569598
+                  ]
+            },
+            {
+                  "name": "Nyansha hill",
+                  "text": "A Nyansha domb a Kasulu városára néző kiemelkedő tájképi elem, amely festői túrákat kínál füves lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        30.109858,
+                        -4.597785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dubai Plazza",
+                  "text": "Dubai Plazza din Kasulu este o atracție comercială modernă și plină de viață, care servește ca centru local pentru cumpărături și socializare urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        30.094938,
+                        -4.569598
+                  ]
+            },
+            {
+                  "name": "Nyansha hill",
+                  "text": "Dealul Nyansha este o caracteristică peisagistică proeminentă care domină orașul Kasulu, oferind drumeții pitorești pe pantele sale acoperite de iarbă.",
+                  "category": "landmark",
+                  "coords": [
+                        30.109858,
+                        -4.597785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dubai Plazza",
+                  "text": "Dubai Plazza in Kasulu is a modern, bustling commercial attraction serving as a local hub for shopping and urban socializing.",
+                  "category": "landmark",
+                  "coords": [
+                        30.094938,
+                        -4.569598
+                  ]
+            },
+            {
+                  "name": "Nyansha hill",
+                  "text": "Nyansha hill is a prominent landscape feature overlooking the town of Kasulu, offering scenic hikes up its grassy slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        30.109858,
+                        -4.597785
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-16",
     coords: [30.1, -4.5833],
@@ -1718,7 +2528,88 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-bukoba-cities-v2",
+    id: "tz-bukoba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "German Cemetery",
+                  "text": "Der Deutsche Friedhof umfasst die Ruinen von Gräbern aus der Kolonialzeit in Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.817253,
+                        -1.337267
+                  ]
+            },
+            {
+                  "name": "CCM Ruin",
+                  "text": "Die CCM-Ruine besteht aus historischen baulichen Überresten in der Stadt Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.81722,
+                        -1.335798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "German Cemetery",
+                  "text": "A német temető a gyarmati korszakból származó sírok romjait őrzi Bukobában.",
+                  "category": "historical",
+                  "coords": [
+                        31.817253,
+                        -1.337267
+                  ]
+            },
+            {
+                  "name": "CCM Ruin",
+                  "text": "A CCM-rom történelmi épületi maradványokból áll Bukoba városában.",
+                  "category": "historical",
+                  "coords": [
+                        31.81722,
+                        -1.335798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "German Cemetery",
+                  "text": "Cimitirul german conține ruinele unor morminte din perioada colonială din Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.817253,
+                        -1.337267
+                  ]
+            },
+            {
+                  "name": "CCM Ruin",
+                  "text": "Ruina CCM constă din rămășițe structurale istorice situate în orașul Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.81722,
+                        -1.335798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "German Cemetery",
+                  "text": "The German Cemetery contains the ruins of colonial-era graves in Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.817253,
+                        -1.337267
+                  ]
+            },
+            {
+                  "name": "CCM Ruin",
+                  "text": "The CCM Ruin consists of historic structural remains located in the town of Bukoba.",
+                  "category": "historical",
+                  "coords": [
+                        31.81722,
+                        -1.335798
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-18",
     coords: [31.8167, -1.3333],
@@ -1754,7 +2645,124 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-kibaha-cities-v2",
+    id: "tz-kibaha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mama God",
+                  "text": "Dieser erhöhte, malerische Aussichtspunkt bietet einen Panoramablick über die hügeligen, sonnenverwöhnten Landschaften rund um Kibaha.",
+                  "category": "natural",
+                  "coords": [
+                        38.900701,
+                        -6.747596
+                  ]
+            },
+            {
+                  "name": "Tanita Parking",
+                  "text": "In der Nähe eines belebten lokalen Verkehrsknotenpunkts gelegen, fängt dieser Aussichtspunkt die energiegeladene tägliche Bewegung von Fahrzeugen und Pendlern in Kibaha ein.",
+                  "category": "natural",
+                  "coords": [
+                        38.917373,
+                        -6.752266
+                  ]
+            },
+            {
+                  "name": "Tanita Mtaa",
+                  "text": "Dieser Aussichtspunkt in der Nachbarschaft bietet einen authentischen Einblick in das tägliche Wohnleben und die bescheidene Architektur eines typisch tansanischen Vororts.",
+                  "category": "natural",
+                  "coords": [
+                        38.919473,
+                        -6.753368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mama God",
+                  "text": "Ez a magasan fekvő festői kilátó panorámás kilátást nyújt a Kibahát körülvevő dombos, napfényes tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        38.900701,
+                        -6.747596
+                  ]
+            },
+            {
+                  "name": "Tanita Parking",
+                  "text": "Egy nyüzsgő helyi közlekedési csomópont közelében található ez a kilátó, amely megörökíti Kibaha járműveinek és ingázóinak energikus, mindennapi mozgását.",
+                  "category": "natural",
+                  "coords": [
+                        38.917373,
+                        -6.752266
+                  ]
+            },
+            {
+                  "name": "Tanita Mtaa",
+                  "text": "Ez a környékbeli kilátópont hiteles bepillantást enged egy tipikus tanzániai külváros mindennapi lakóéletébe és szerény építészetébe.",
+                  "category": "natural",
+                  "coords": [
+                        38.919473,
+                        -6.753368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mama God",
+                  "text": "Acest punct de observație pitoresc și înalt oferă vederi panoramice peste peisajele vălurite și însorite din jurul orașului Kibaha.",
+                  "category": "natural",
+                  "coords": [
+                        38.900701,
+                        -6.747596
+                  ]
+            },
+            {
+                  "name": "Tanita Parking",
+                  "text": "Situat lângă un nod de tranzit local aglomerat, acest punct de belvedere surprinde mișcarea zilnică energică a vehiculelor și a navetiștilor din Kibaha.",
+                  "category": "natural",
+                  "coords": [
+                        38.917373,
+                        -6.752266
+                  ]
+            },
+            {
+                  "name": "Tanita Mtaa",
+                  "text": "Acest punct de belvedere din cartier oferă o privire autentică asupra vieții rezidențiale de zi cu zi și a arhitecturii modeste dintr-o suburbie tipică tanzaniană.",
+                  "category": "natural",
+                  "coords": [
+                        38.919473,
+                        -6.753368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mama God",
+                  "text": "This elevated scenic overlook provides panoramic views across the rolling, sun-drenched landscapes surrounding Kibaha.",
+                  "category": "natural",
+                  "coords": [
+                        38.900701,
+                        -6.747596
+                  ]
+            },
+            {
+                  "name": "Tanita Parking",
+                  "text": "Located near a bustling local transit hub, this viewpoint captures the energetic, daily movement of vehicles and commuters in Kibaha.",
+                  "category": "natural",
+                  "coords": [
+                        38.917373,
+                        -6.752266
+                  ]
+            },
+            {
+                  "name": "Tanita Mtaa",
+                  "text": "This neighborhood vantage point offers an authentic glimpse into the daily residential life and modest architecture of a typical Tanzanian suburb.",
+                  "category": "natural",
+                  "coords": [
+                        38.919473,
+                        -6.753368
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-06",
     coords: [38.9167, -6.7667],
@@ -1979,7 +2987,124 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-babati-cities-v2",
+    id: "tz-babati-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sehemu ya mapumziko ya kiboko(hippos rest place)",
+                  "text": "Ein ruhiger Rastplatz am Wasser in der Nähe von Babati, wo einheimische Flusspferde oft in ihrem natürlichen Lebensraum beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745722,
+                        -4.216372
+                  ]
+            },
+            {
+                  "name": "Singida road",
+                  "text": "Dieser Aussichtspunkt am Straßenrand entlang der Route von Babati bietet einen malerischen, weiten Blick auf die umliegende tansanische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        35.748558,
+                        -4.215389
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Ein sandiger Erholungsort am Seeufer in der Nähe von Babati, der Besuchern eine ruhige Umgebung bietet, um das Wasser zu genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.743329,
+                        -4.230958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sehemu ya mapumziko ya kiboko(hippos rest place)",
+                  "text": "Csendes vízparti pihenőhely Babati közelében, ahol a helyi vízilovat gyakran megfigyelhetjük természetes élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745722,
+                        -4.216372
+                  ]
+            },
+            {
+                  "name": "Singida road",
+                  "text": "Ez az útszéli kilátópont a Babatiból vezető útvonal mentén festői, lenyűgöző kilátást nyújt a környező tanzániai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        35.748558,
+                        -4.215389
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Homokos tóparti pihenőhely Babati közelében, amely nyugodt környezetet biztosít a látogatóknak a vízparti kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.743329,
+                        -4.230958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sehemu ya mapumziko ya kiboko(hippos rest place)",
+                  "text": "Un loc de odihnă liniștit pe malul apei, lângă Babati, unde hipopotamii locali pot fi deseori observați în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745722,
+                        -4.216372
+                  ]
+            },
+            {
+                  "name": "Singida road",
+                  "text": "Acest punct de belvedere de pe marginea drumului, situat pe traseul dinspre Babati, oferă vederi panoramice pitorești asupra peisajului tanzanian.",
+                  "category": "natural",
+                  "coords": [
+                        35.748558,
+                        -4.215389
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Un loc de relaxare pe malul nisipos al lacului de lângă Babati, oferind un mediu liniștit pentru a vă bucura de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.743329,
+                        -4.230958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sehemu ya mapumziko ya kiboko(hippos rest place)",
+                  "text": "A quiet waterside resting spot near Babati where local hippos can often be observed in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745722,
+                        -4.216372
+                  ]
+            },
+            {
+                  "name": "Singida road",
+                  "text": "This roadside vantage point along the route from Babati offers scenic, sweeping views of the surrounding Tanzanian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        35.748558,
+                        -4.215389
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "A sandy lakeside relaxation spot near Babati, providing a tranquil environment for visitors to enjoy the water.",
+                  "category": "landmark",
+                  "coords": [
+                        35.743329,
+                        -4.230958
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-21",
     coords: [35.75, -4.2167],
@@ -3617,7 +4742,196 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-kilwa-masoko-cities-v2",
+    id: "tz-kilwa-masoko-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "District Commissioner",
+                  "text": "Ein administratives Wahrzeichen in der Stadt Kilwa Masoko.",
+                  "category": "landmark",
+                  "coords": [
+                        39.511315,
+                        -8.935838
+                  ]
+            },
+            {
+                  "name": "Jimbizi beach",
+                  "text": "Ein sandiger Tropenstrand an den Ufern des Indischen Ozeans.",
+                  "category": "recreational",
+                  "coords": [
+                        39.518774,
+                        -8.928465
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "Weitläufige Küstenfelder, die für die traditionelle Meersalzgewinnung genutzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.509102,
+                        -8.929737
+                  ]
+            },
+            {
+                  "name": "Tourist Information",
+                  "text": "Ein zentraler Anlaufpunkt, der Informationen für die Erkundung der Kilwa-Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.512125,
+                        -8.925951
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "Die zentrale Poststelle, die der Küstengemeinde von Kilwa Masoko dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.510235,
+                        -8.935954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "District Commissioner",
+                  "text": "Adminisztratív nevezetesség Kilwa Masoko városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.511315,
+                        -8.935838
+                  ]
+            },
+            {
+                  "name": "Jimbizi beach",
+                  "text": "Egy homokos trópusi strand az Indiai-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        39.518774,
+                        -8.928465
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "Hatalmas parti mezők, amelyeket hagyományos tengerisó-kitermelésre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.509102,
+                        -8.929737
+                  ]
+            },
+            {
+                  "name": "Tourist Information",
+                  "text": "Egy központi látogatói központ, amely útmutatást nyújt a Kilwa régió felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        39.512125,
+                        -8.925951
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "Kilwa Masoko parti közösségét kiszolgáló központi postahivatal.",
+                  "category": "landmark",
+                  "coords": [
+                        39.510235,
+                        -8.935954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "District Commissioner",
+                  "text": "Un reper administrativ situat în orașul Kilwa Masoko.",
+                  "category": "landmark",
+                  "coords": [
+                        39.511315,
+                        -8.935838
+                  ]
+            },
+            {
+                  "name": "Jimbizi beach",
+                  "text": "O plajă tropicală cu nisip pe malul Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        39.518774,
+                        -8.928465
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "Câmpuri vaste de coastă folosite pentru extracția tradițională a sării de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        39.509102,
+                        -8.929737
+                  ]
+            },
+            {
+                  "name": "Tourist Information",
+                  "text": "Un centru de vizitatori care oferă îndrumări pentru explorarea regiunii Kilwa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.512125,
+                        -8.925951
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "Oficiul poștal central care deservește comunitatea de coastă din Kilwa Masoko.",
+                  "category": "landmark",
+                  "coords": [
+                        39.510235,
+                        -8.935954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "District Commissioner",
+                  "text": "An administrative landmark located within the city of Kilwa Masoko.",
+                  "category": "landmark",
+                  "coords": [
+                        39.511315,
+                        -8.935838
+                  ]
+            },
+            {
+                  "name": "Jimbizi beach",
+                  "text": "A sandy tropical beach on the shores of the Indian Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        39.518774,
+                        -8.928465
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "Expansive coastal fields used for traditional sea salt extraction.",
+                  "category": "landmark",
+                  "coords": [
+                        39.509102,
+                        -8.929737
+                  ]
+            },
+            {
+                  "name": "Tourist Information",
+                  "text": "A central visitor hub providing guidance for exploring the Kilwa region.",
+                  "category": "landmark",
+                  "coords": [
+                        39.512125,
+                        -8.925951
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "The central postal facility serving the coastal community of Kilwa Masoko.",
+                  "category": "landmark",
+                  "coords": [
+                        39.510235,
+                        -8.935954
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-08",
     coords: [39.5, -8.9333],

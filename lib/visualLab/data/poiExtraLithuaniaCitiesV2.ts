@@ -4647,7 +4647,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Skarulių Šv. Onos bažnyčia",
-                  "text": "Die St.-Anna-Kirche in Skaruliai, ein bedeutendes Baudenkmal.",
+                  "text": "1622 erbaute Kirche St. Anna.",
                   "category": "landmark",
                   "coords": [
                         24.31186,
@@ -4865,7 +4865,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Skarulių Šv. Onos bažnyčia",
-                  "text": "Szent Anna-templom Skaruliaiban, jelentős építészeti műemlék.",
+                  "text": "1622-ben épült Szent Anna-templom.",
                   "category": "landmark",
                   "coords": [
                         24.31186,
@@ -5083,7 +5083,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Skarulių Šv. Onos bažnyčia",
-                  "text": "Biserica Sfânta Ana din Skaruliai, un monument arhitectural important.",
+                  "text": "Biserica Sfânta Ana, construită în 1622.",
                   "category": "landmark",
                   "coords": [
                         24.31186,
@@ -5301,7 +5301,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Skaruliai St. Ann church",
-                  "text": "St. Anne's Church in Skaruliai, a significant architectural monument.",
+                  "text": "St. Ann church built in 1622.",
                   "category": "landmark",
                   "coords": [
                         24.31186,
@@ -8721,7 +8721,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "Eine religiöse Stätte und ein Ort des Gebets in Ukmergė.",
+                  "text": "1820 erbaute Kirche der Apostel Petrus und Paulus.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -8739,7 +8739,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "Eine Kapelle auf dem Friedhof von Ukmergė.",
+                  "text": "1870 erbaute Friedhofskapelle.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -8795,7 +8795,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "Vallási helyszín és templom Ukmergében.",
+                  "text": "1820-ban épült Szent Péter és Pál apostolok temploma.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -8813,7 +8813,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "Az ukmergėi temetőben található kápolna.",
+                  "text": "1870-ben épült temetőkápolna.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -8869,7 +8869,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "Un sit religios și lăcaș de cult în Ukmergė.",
+                  "text": "Biserica Sfinții Apostoli Petru și Pavel, construită în 1820.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -8887,7 +8887,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "O capelă situată în incinta cimitirului din Ukmergė.",
+                  "text": "Capelă cimitir construită în 1870.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -8943,7 +8943,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "A religious site and place of worship in Ukmergė.",
+                  "text": "Church of Saints Peter and Paul built in 1820.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -8961,7 +8961,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "A chapel located within the cemetery of Ukmergė.",
+                  "text": "Cemetery chapel built in 1870.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -12625,7 +12625,7 @@ imageHint: "Gargzdai city center and park",
             },
             {
                   "name": "Druskininkų Šv. Gabrieliaus cerkvė",
-                  "text": "Ein orthodoxes Gotteshaus in der Gegend von Druskininkai.",
+                  "text": "1895 erbaute orthodoxe Kirche.",
                   "category": "religious",
                   "coords": [
                         23.973489,
@@ -13014,7 +13014,7 @@ imageHint: "Gargzdai city center and park",
             },
             {
                   "name": "Druskininkų Šv. Gabrieliaus cerkvė",
-                  "text": "Ortodox istentiszteleti hely Druskininkai területén.",
+                  "text": "1895-ben épült ortodox templom.",
                   "category": "religious",
                   "coords": [
                         23.973489,
@@ -13403,7 +13403,7 @@ imageHint: "Gargzdai city center and park",
             },
             {
                   "name": "Druskininkų Šv. Gabrieliaus cerkvė",
-                  "text": "Un lăcaș de cult ortodox situat în zona Druskininkai.",
+                  "text": "Biserică ortodoxă construită în 1895.",
                   "category": "religious",
                   "coords": [
                         23.973489,
@@ -13792,7 +13792,7 @@ imageHint: "Gargzdai city center and park",
             },
             {
                   "name": "Orthodox church",
-                  "text": "An Orthodox place of worship located in the Druskininkai area.",
+                  "text": "Orthodox church built in 1895.",
                   "category": "religious",
                   "coords": [
                         23.973489,
@@ -24857,7 +24857,7 @@ imageHint: "Pasvalys river and sinkhole park",
             },
             {
                   "name": "Gedimino tiltas",
-                  "text": "Eine Straßenbrücke über den Fluss Kupa in der Stadt Kupiškis.",
+                  "text": "1940 erbaute Brücke.",
                   "category": "landmark",
                   "coords": [
                         24.976949,
@@ -25066,7 +25066,7 @@ imageHint: "Pasvalys river and sinkhole park",
             },
             {
                   "name": "Gedimino tiltas",
-                  "text": "Közúti híd a Kupa folyó felett Kupiškisben.",
+                  "text": "1940-ben épült híd.",
                   "category": "landmark",
                   "coords": [
                         24.976949,
@@ -25275,7 +25275,7 @@ imageHint: "Pasvalys river and sinkhole park",
             },
             {
                   "name": "Gedimino tiltas",
-                  "text": "Un pod rutier peste râul Kupa în Kupiškis.",
+                  "text": "Pod construit în 1940.",
                   "category": "landmark",
                   "coords": [
                         24.976949,
@@ -25484,7 +25484,7 @@ imageHint: "Pasvalys river and sinkhole park",
             },
             {
                   "name": "Gediminas Bridge",
-                  "text": "A road bridge over the Kupa River in Kupiškis.",
+                  "text": "Bridge built in 1940.",
                   "category": "landmark",
                   "coords": [
                         24.976949,
@@ -29514,7 +29514,196 @@ imageHint: "Sakiai city square and park",
     },
     image: "/poi-images/lithuania-sakiai-cities-v2.webp",
 },  {
-    id: "lithuania-kybartai-cities-v2", "sights": {"de": [{"name": "Kirche Eydtkuhnen Lutherische Kirche", "text": "Die Ruinen der historischen lutherischen Kirche in Kybartai.", "category": "landmark", "coords": [22.733321, 54.6399]}, {"name": "ehem. Zarenhaus mit unterirdischem Tunnel", "text": "Ein historisches Gebäude in Kybartai mit einem geheimnisvollen unterirdischen Gang.", "category": "historical", "coords": [22.760386, 54.640116]}, {"name": "Kybartų Šv. Aleksandro Neviškio cerkvė", "text": "Die orthodoxe Kirche des Heiligen Alexander Newski in Kybartai.", "category": "religious", "coords": [22.758607, 54.639628]}, {"name": "Kybartų Eucharistinio Išganytojo bažnyčia", "text": "Eine markante katholische Kirche in Kybartai, die dem Erlöser geweiht ist.", "category": "religious", "coords": [22.756842, 54.63913]}, {"name": "Kybartų Naujoji apaštalų bažnyčia", "text": "Die Neuapostolische Kirche in Kybartai.", "category": "religious", "coords": [22.761742, 54.63911]}], "hu": [{"name": "Lyuteranskaya kirkha Eidtkunena", "text": "Kybartai történelmi evangélikus templomának romjai.", "category": "landmark", "coords": [22.733321, 54.6399]}, {"name": "Caro namai su požeminiu tuneliu", "text": "Történelmi épület Kybartai-ban, titokzatos föld alatti alagúttal.", "category": "historical", "coords": [22.760386, 54.640116]}, {"name": "Kybartų Šv. Aleksandro Neviškio cerkvė", "text": "Kybartai ortodox Szent Alekszandr Nyevszkij-temploma.", "category": "religious", "coords": [22.758607, 54.639628]}, {"name": "Kybartų Eucharistinio Išganytojo bažnyčia", "text": "Kybartai jellegzetes katolikus temploma, amelyet a Megváltónak szenteltek.", "category": "religious", "coords": [22.756842, 54.63913]}, {"name": "Kybartų Naujoji apaštalų bažnyčia", "text": "Kybartai Új Apostoli Temploma.", "category": "religious", "coords": [22.761742, 54.63911]}], "ro": [{"name": "Lyuteranskaya kirkha Eidtkunena", "text": "Ruinele bisericii luterane istorice din Kybartai.", "category": "landmark", "coords": [22.733321, 54.6399]}, {"name": "Caro namai su požeminiu tuneliu", "text": "O clădire istorică în Kybartai, cu un tunel subteran misterios.", "category": "historical", "coords": [22.760386, 54.640116]}, {"name": "Kybartų Šv. Aleksandro Neviškio cerkvė", "text": "Biserica ortodoxă Sfântul Alexandru Nevski din Kybartai.", "category": "religious", "coords": [22.758607, 54.639628]}, {"name": "Kybartų Eucharistinio Išganytojo bažnyčia", "text": "O biserică catolică proeminentă în Kybartai, dedicată Mântuitorului.", "category": "religious", "coords": [22.756842, 54.63913]}, {"name": "Kybartų Naujoji apaštalų bažnyčia", "text": "Biserica Nouapostolică din Kybartai.", "category": "religious", "coords": [22.761742, 54.63911]}], "en": [{"name": "Lyuteranskaya kirkha Eidtkunena", "text": "The ruins of the historical Lutheran church in Kybartai.", "category": "landmark", "coords": [22.733321, 54.6399]}, {"name": "Caro namai su požeminiu tuneliu", "text": "A historical building in Kybartai featuring a mysterious underground tunnel.", "category": "historical", "coords": [22.760386, 54.640116]}, {"name": "Kybartų Šv. Aleksandro Neviškio cerkvė", "text": "The Orthodox Church of St. Alexander Nevsky in Kybartai.", "category": "religious", "coords": [22.758607, 54.639628]}, {"name": "Kybartų Eucharistinio Išganytojo bažnyčia", "text": "A prominent Catholic church in Kybartai, dedicated to the Savior.", "category": "religious", "coords": [22.756842, 54.63913]}, {"name": "Kybartų Naujoji apaštalų bažnyčia", "text": "The New Apostolic Church in Kybartai.", "category": "religious", "coords": [22.761742, 54.63911]}]},
+    id: "lithuania-kybartai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirche Eydtkuhnen Lutherische Kirche",
+                  "text": "Die Ruinen der historischen lutherischen Kirche in Kybartai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "ehem. Zarenhaus mit unterirdischem Tunnel",
+                  "text": "Ein historisches Gebäude in Kybartai mit einem geheimnisvollen unterirdischen Gang.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Die orthodoxe Kirche des Heiligen Alexander Newski in Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "Eine markante katholische Kirche in Kybartai, die dem Erlöser geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "2001 erbaute Neuapostolische Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lyuteranskaya kirkha Eidtkunena",
+                  "text": "Kybartai történelmi evangélikus templomának romjai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "Caro namai su požeminiu tuneliu",
+                  "text": "Történelmi épület Kybartai-ban, titokzatos föld alatti alagúttal.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Kybartai ortodox Szent Alekszandr Nyevszkij-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "Kybartai jellegzetes katolikus temploma, amelyet a Megváltónak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "2001-ben épült Új Apostoli templom.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lyuteranskaya kirkha Eidtkunena",
+                  "text": "Ruinele bisericii luterane istorice din Kybartai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "Caro namai su požeminiu tuneliu",
+                  "text": "O clădire istorică în Kybartai, cu un tunel subteran misterios.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Biserica ortodoxă Sfântul Alexandru Nevski din Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "O biserică catolică proeminentă în Kybartai, dedicată Mântuitorului.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "Biserică Nouă Apostolică construită în 2001.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lyuteranskaya kirkha Eidtkunena",
+                  "text": "The ruins of the historical Lutheran church in Kybartai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "Caro namai su požeminiu tuneliu",
+                  "text": "A historical building in Kybartai featuring a mysterious underground tunnel.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "The Orthodox Church of St. Alexander Nevsky in Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "A prominent Catholic church in Kybartai, dedicated to the Savior.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "New Apostolic church built in 2001.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kybartai", hu: "Kybartai", ro: "Kybartai", en: "Kybartai"},
@@ -34709,7 +34898,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio Šv. Onos bažnyčia",
-                  "text": "Eine katholische Kirche im Zentrum von Vievis.",
+                  "text": "1931 erbaute Kirche St. Anna.",
                   "category": "religious",
                   "coords": [
                         24.817485,
@@ -34718,7 +34907,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio visų rusų Šventųjų koplyčia",
-                  "text": "Eine orthodoxe Kapelle in Vievis.",
+                  "text": "1936 erbaute russisch-orthodoxe Kapelle.",
                   "category": "religious",
                   "coords": [
                         24.828111,
@@ -34756,7 +34945,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio Šv. Onos bažnyčia",
-                  "text": "Katolikus templom Vievis központjában.",
+                  "text": "1931-ben épült Szent Anna-templom.",
                   "category": "religious",
                   "coords": [
                         24.817485,
@@ -34765,7 +34954,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio visų rusų Šventųjų koplyčia",
-                  "text": "Ortodox kápolna Vievis településen.",
+                  "text": "1936-ban épült orosz ortodox kápolna.",
                   "category": "religious",
                   "coords": [
                         24.828111,
@@ -34803,7 +34992,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio Šv. Onos bažnyčia",
-                  "text": "O biserică catolică situată în centrul localității Vievis.",
+                  "text": "Biserica Sfânta Ana, construită în 1931.",
                   "category": "religious",
                   "coords": [
                         24.817485,
@@ -34812,7 +35001,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio visų rusų Šventųjų koplyčia",
-                  "text": "O capelă ortodoxă din Vievis.",
+                  "text": "Capelă ortodoxă rusă construită în 1936.",
                   "category": "religious",
                   "coords": [
                         24.828111,
@@ -34850,7 +35039,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio Šv. Onos bažnyčia",
-                  "text": "A Catholic church located in the center of Vievis.",
+                  "text": "St. Ann church built in 1931.",
                   "category": "religious",
                   "coords": [
                         24.817485,
@@ -34859,7 +35048,7 @@ imageHint: "Svencioneliai railway station and forest",
             },
             {
                   "name": "Vievio visų rusų Šventųjų koplyčia",
-                  "text": "An Orthodox chapel in Vievis.",
+                  "text": "Russian Orthodox chapel built in 1936.",
                   "category": "religious",
                   "coords": [
                         24.828111,
@@ -37926,7 +38115,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Skurbutėnų koplyčia",
-                  "text": "Eine kleine Kapelle in der Nähe von Baltoji Vokė.",
+                  "text": "1741 erbaute Kapelle.",
                   "category": "religious",
                   "coords": [
                         25.122588,
@@ -37937,7 +38126,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Skurbutėnų koplyčia",
-                  "text": "Kisméretű kápolna Baltoji Vokė közelében.",
+                  "text": "1741-ben épült kápolna.",
                   "category": "religious",
                   "coords": [
                         25.122588,
@@ -37948,7 +38137,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Skurbutėnų koplyčia",
-                  "text": "O mică capelă situată lângă Baltoji Vokė.",
+                  "text": "Capelă construită în 1741.",
                   "category": "religious",
                   "coords": [
                         25.122588,
@@ -37959,7 +38148,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Skurbutėnų koplyčia",
-                  "text": "A small chapel located near Baltoji Vokė.",
+                  "text": "Chapel built in 1741.",
                   "category": "religious",
                   "coords": [
                         25.122588,
@@ -38133,7 +38322,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų Dievo Apvaizdos bažnyčia",
-                  "text": "Die katholische Kirche der Göttlichen Vorsehung in Daugai.",
+                  "text": "1862 erbaute Kirche der Göttlichen Vorsehung.",
                   "category": "religious",
                   "coords": [
                         24.344509,
@@ -38171,7 +38360,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų Dievo Apvaizdos bažnyčia",
-                  "text": "Daugai katolikus Isteni Gondviselés-temploma.",
+                  "text": "1862-ben épült Isteni Gondviselés temploma.",
                   "category": "religious",
                   "coords": [
                         24.344509,
@@ -38209,7 +38398,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų Dievo Apvaizdos bažnyčia",
-                  "text": "Biserica catolică Providența Divină din Daugai.",
+                  "text": "Biserica Divinei Providențe, construită în 1862.",
                   "category": "religious",
                   "coords": [
                         24.344509,
@@ -38247,7 +38436,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų Dievo Apvaizdos bažnyčia",
-                  "text": "The Catholic Church of Divine Providence in Daugai.",
+                  "text": "Church of Divine Providence built in 1862.",
                   "category": "religious",
                   "coords": [
                         24.344509,
@@ -39804,7 +39993,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Joniškėlio dvaro sodyba",
-                  "text": "Ein historisches Herrenhaus-Ensemble in Joniškėlis.",
+                  "text": "Herrenhaus aus dem Jahr 1648.",
                   "category": "historical",
                   "coords": [
                         24.167819,
@@ -39813,7 +40002,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Joniškėlio Švč. Trejybės bažnyčia",
-                  "text": "Die katholische Kirche der Heiligen Dreifaltigkeit in Joniškėlis.",
+                  "text": "1792 erbaute Dreifaltigkeitskirche.",
                   "category": "religious",
                   "coords": [
                         24.169254,
@@ -39842,7 +40031,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Joniškėlio dvaro sodyba",
-                  "text": "Történelmi kúriaegyüttes Joniškėlisben.",
+                  "text": "1648-ból származó kúria.",
                   "category": "historical",
                   "coords": [
                         24.167819,
@@ -39851,7 +40040,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Joniškėlio Švč. Trejybės bažnyčia",
-                  "text": "Szentháromság katolikus templom Joniškėlisben.",
+                  "text": "1792-ben épült Szentháromság-templom.",
                   "category": "religious",
                   "coords": [
                         24.169254,
@@ -39880,7 +40069,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Joniškėlio dvaro sodyba",
-                  "text": "Un ansamblu istoric de conace din Joniškėlis.",
+                  "text": "Conac din 1648.",
                   "category": "historical",
                   "coords": [
                         24.167819,
@@ -39889,7 +40078,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Joniškėlio Švč. Trejybės bažnyčia",
-                  "text": "Biserica catolică Sfânta Treime din Joniškėlis.",
+                  "text": "Biserica Sfânta Treime, construită în 1792.",
                   "category": "religious",
                   "coords": [
                         24.169254,
@@ -39918,7 +40107,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Joniškėlio dvaro sodyba",
-                  "text": "A historical manor house ensemble in Joniškėlis.",
+                  "text": "Manor house from 1648.",
                   "category": "historical",
                   "coords": [
                         24.167819,
@@ -39927,7 +40116,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Joniškėlio Švč. Trejybės bažnyčia",
-                  "text": "The Catholic Church of the Holy Trinity in Joniškėlis.",
+                  "text": "Holy Trinity church built in 1792.",
                   "category": "religious",
                   "coords": [
                         24.169254,
@@ -44628,7 +44817,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "Die katholische Kirche St. Peter und Paul in Ukmergė.",
+                  "text": "1820 erbaute Kirche der Apostel Petrus und Paulus.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -44646,7 +44835,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "Eine historische Kapelle auf dem Friedhof von Ukmergė.",
+                  "text": "1870 erbaute Friedhofskapelle.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -44702,7 +44891,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "Ukmergė Szent Péter és Pál katolikus temploma.",
+                  "text": "1820-ban épült Szent Péter és Pál apostolok temploma.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -44720,7 +44909,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "Történelmi kápolna Ukmergė temetőjében.",
+                  "text": "1870-ben épült temetőkápolna.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -44776,7 +44965,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "Biserica catolică Sfânții Petru și Pavel din Ukmergė.",
+                  "text": "Biserica Sfinții Apostoli Petru și Pavel, construită în 1820.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -44794,7 +44983,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "O capelă istorică în cimitirul din Ukmergė.",
+                  "text": "Capelă cimitir construită în 1870.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -44850,7 +45039,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Šv. Petro ir Povilo bažnyčia",
-                  "text": "The Catholic Church of St. Peter and Paul in Ukmergė.",
+                  "text": "Church of Saints Peter and Paul built in 1820.",
                   "category": "religious",
                   "coords": [
                         24.766982,
@@ -44868,7 +45057,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės kapinių koplyčia",
-                  "text": "A historical chapel located in the cemetery of Ukmergė.",
+                  "text": "Cemetery chapel built in 1870.",
                   "category": "religious",
                   "coords": [
                         24.774577,
@@ -45384,7 +45573,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Plungės Visų Šventųjų koplyčia",
-                  "text": "Eine Allerheiligenkapelle in der Umgebung von Plungė.",
+                  "text": "1858 erbaute Allerheiligenkapelle.",
                   "category": "religious",
                   "coords": [
                         21.829357,
@@ -45467,7 +45656,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Plungės Visų Šventųjų koplyčia",
-                  "text": "Mindenszentek-kápolna Plungė környékén.",
+                  "text": "1858-ban épült Mindenszentek-kápolna.",
                   "category": "religious",
                   "coords": [
                         21.829357,
@@ -45550,7 +45739,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Plungės Visų Šventųjų koplyčia",
-                  "text": "O capelă dedicată Tuturor Sfinților în împrejurimile orașului Plungė.",
+                  "text": "Capela Tuturor Sfinților, construită în 1858.",
                   "category": "religious",
                   "coords": [
                         21.829357,
@@ -45633,7 +45822,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Plungės Visų Šventųjų koplyčia",
-                  "text": "An All Saints chapel in the surroundings of Plungė.",
+                  "text": "All Saints chapel built in 1858.",
                   "category": "religious",
                   "coords": [
                         21.829357,

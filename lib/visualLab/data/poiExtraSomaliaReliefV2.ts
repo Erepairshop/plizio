@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraSomaliaReliefV2: POI[] = [
   {
-    id: "golis-range-relief-v2",
+    id: "golis-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adad",
+                  "text": "Als zerklüfteter Gipfel der Golis-Kette weist dieser Berg freiliegenden Kalkstein auf und bietet eine beherrschende Präsenz über dem nord-somalischen Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        44.673176,
+                        10.180594
+                  ]
+            },
+            {
+                  "name": "Daboeh",
+                  "text": "Dieser schroffe Berggipfel ist Teil der markanten Steilstufe der Golis-Kette, die sich durch ihre steilen, erodierten Felswände auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        44.680496,
+                        10.114321
+                  ]
+            },
+            {
+                  "name": "Cusbaale",
+                  "text": "Dieser Gipfel im dramatischen Relief des Golis-Hochlandes ist bekannt für seinen anspruchsvollen, felsigen Aufstieg und seine trockene, windgepeitschte Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        44.6662,
+                        10.088563
+                  ]
+            },
+            {
+                  "name": "Aroweina",
+                  "text": "Dieser Gipfel der Golis-Kette überragt die umliegenden trockenen Täler und bietet eine steile, karge Topographie, die typisch für die Hochlandränder am Horn von Afrika ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.682003,
+                        10.060078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adad",
+                  "text": "A Golis-hegység zord csúcsaként ez a hegy szabadon álló mészkövekkel rendelkezik, és parancsoló jelenlétet biztosít az észak-szomáliföldi fennsík felett.",
+                  "category": "natural",
+                  "coords": [
+                        44.673176,
+                        10.180594
+                  ]
+            },
+            {
+                  "name": "Daboeh",
+                  "text": "Ez a zord hegycsúcs a Golis-hegység kiemelkedő meredélyének része, amelyet meredek, erodált sziklafalak jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        44.680496,
+                        10.114321
+                  ]
+            },
+            {
+                  "name": "Cusbaale",
+                  "text": "A Golis-fennsík drámai domborzatán belül található csúcs kihívást jelentő, sziklás emelkedőjéről és száraz, szélfútta környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.6662,
+                        10.088563
+                  ]
+            },
+            {
+                  "name": "Aroweina",
+                  "text": "A környező száraz völgyek fölé magasodó Golis-hegységbeli csúcs Afrika szarvának felvidéki peremvidékeire jellemző meredek, zord topográfiát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        44.682003,
+                        10.060078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adad",
+                  "text": "Fiind un vârf stâncos în Munții Golis, acest munte prezintă calcar expus și oferă o prezență impunătoare asupra platoului din nordul Somalilandului.",
+                  "category": "natural",
+                  "coords": [
+                        44.673176,
+                        10.180594
+                  ]
+            },
+            {
+                  "name": "Daboeh",
+                  "text": "Acest vârf muntos stâncos face parte din escarpamentul proeminent al Munților Golis, caracterizat prin fețele sale stâncoase abrupte și erodate.",
+                  "category": "natural",
+                  "coords": [
+                        44.680496,
+                        10.114321
+                  ]
+            },
+            {
+                  "name": "Cusbaale",
+                  "text": "Situat în relieful dramatic al zonelor muntoase Golis, acest vârf este remarcat pentru ascensiunea sa stâncoasă provocatoare și mediul uscat, bătut de vânt.",
+                  "category": "natural",
+                  "coords": [
+                        44.6662,
+                        10.088563
+                  ]
+            },
+            {
+                  "name": "Aroweina",
+                  "text": "Înălțându-se deasupra văilor aride din jur, acest vârf din Munții Golis oferă o topografie abruptă și rigidă, tipică marginilor muntoase din Cornul Africii.",
+                  "category": "natural",
+                  "coords": [
+                        44.682003,
+                        10.060078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adad",
+                  "text": "As a craggy summit in the Golis Range, this peak features exposed limestone and offers a commanding presence over the northern Somaliland plateau.",
+                  "category": "natural",
+                  "coords": [
+                        44.673176,
+                        10.180594
+                  ]
+            },
+            {
+                  "name": "Daboeh",
+                  "text": "This rugged mountain peak forms part of the prominent escarpment of the Golis Range, characterized by its steep, eroded rock faces.",
+                  "category": "natural",
+                  "coords": [
+                        44.680496,
+                        10.114321
+                  ]
+            },
+            {
+                  "name": "Cusbaale",
+                  "text": "Located within the dramatic relief of the Golis highlands, this summit is noted for its challenging, rocky ascent and dry, wind-swept environment.",
+                  "category": "natural",
+                  "coords": [
+                        44.6662,
+                        10.088563
+                  ]
+            },
+            {
+                  "name": "Aroweina",
+                  "text": "Towering above the surrounding arid valleys, this Golis Range peak offers a steep, stark topography typical of the Horn of Africa's highland margins.",
+                  "category": "natural",
+                  "coords": [
+                        44.682003,
+                        10.060078
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-SA",
     coords: [44.7, 10.1],
@@ -75,7 +228,124 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     },
   },
   {
-    id: "cal-madow-peaks-relief-v2",
+    id: "cal-madow-peaks-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caws Weyne",
+                  "text": "Caws Weyne ist ein markanter Gipfel, der steil im zerklüfteten und artenreichen Cal-Madow-Gebirge aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        48.848025,
+                        10.9114
+                  ]
+            },
+            {
+                  "name": "Sheelane",
+                  "text": "Sheelane ist eine frische Bergquelle, die die einzigartige Flora zwischen den Gipfeln des Cal Madow nährt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.844191,
+                        10.956434
+                  ]
+            },
+            {
+                  "name": "Hirido",
+                  "text": "Hirido ist ein imposanter felsiger Gipfel, der stolz die hochgelegene Skyline des Cal-Madow-Gebirges dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        48.828101,
+                        10.95515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caws Weyne",
+                  "text": "A Caws Weyne egy lenyűgöző csúcs, amely meredeken emelkedik a zord és biológiailag sokszínű Cal Madow hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        48.848025,
+                        10.9114
+                  ]
+            },
+            {
+                  "name": "Sheelane",
+                  "text": "A Sheelane egy friss hegyi forrás, amely a Cal Madow csúcsai között megbúvó egyedülálló növényvilágot táplálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.844191,
+                        10.956434
+                  ]
+            },
+            {
+                  "name": "Hirido",
+                  "text": "A Hirido egy impozáns sziklás csúcs, amely büszkén uralja a Cal Madow hegység magasan fekvő látképét.",
+                  "category": "natural",
+                  "coords": [
+                        48.828101,
+                        10.95515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caws Weyne",
+                  "text": "Caws Weyne este un vârf izbitor care se înalță abrupt în lanțul muntos accidentat și plin de biodiversitate Cal Madow.",
+                  "category": "natural",
+                  "coords": [
+                        48.848025,
+                        10.9114
+                  ]
+            },
+            {
+                  "name": "Sheelane",
+                  "text": "Sheelane este un izvor proaspăt de munte care hrănește flora unică ascunsă printre vârfurile Cal Madow.",
+                  "category": "landmark",
+                  "coords": [
+                        48.844191,
+                        10.956434
+                  ]
+            },
+            {
+                  "name": "Hirido",
+                  "text": "Hirido este un summit stâncos impunător care domină cu mândrie orizontul de mare altitudine al munților Cal Madow.",
+                  "category": "natural",
+                  "coords": [
+                        48.828101,
+                        10.95515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caws Weyne",
+                  "text": "Caws Weyne is a striking peak rising steeply within the rugged and biodiverse Cal Madow mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        48.848025,
+                        10.9114
+                  ]
+            },
+            {
+                  "name": "Sheelane",
+                  "text": "Sheelane is a fresh mountain spring that nurtures the unique flora tucked among the Cal Madow peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.844191,
+                        10.956434
+                  ]
+            },
+            {
+                  "name": "Hirido",
+                  "text": "Hirido is an imposing rocky summit that proudly dominates the high-altitude skyline of the Cal Madow mountains.",
+                  "category": "natural",
+                  "coords": [
+                        48.828101,
+                        10.95515
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-SA",
     coords: [48.8, 10.9],
@@ -183,7 +453,196 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     },
   },
   {
-    id: "darin-valley-relief-v2",
+    id: "darin-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dawaad",
+                  "text": "Dawaad ist eine markante Bergerhebung, die die steilen und trockenen Landschaften des Darin-Tals überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        49.089271,
+                        10.984358
+                  ]
+            },
+            {
+                  "name": "Laac Wanaagsan",
+                  "text": "Laac Wanaagsan ist ein zerklüfteter Hochlandgipfel, der Wache über die dramatischen geologischen Formationen des Tals hält.",
+                  "category": "natural",
+                  "coords": [
+                        49.043506,
+                        10.9954
+                  ]
+            },
+            {
+                  "name": "Kitibo",
+                  "text": "Der Kitibo-Gipfel zeichnet sich durch seine exponierten Felsvorsprünge aus, die typisch für das trockene und anspruchsvolle Gelände des Tals sind.",
+                  "category": "natural",
+                  "coords": [
+                        49.011746,
+                        11.004438
+                  ]
+            },
+            {
+                  "name": "Habaryaale",
+                  "text": "Habaryaale ist ein rauer, steingekrönter Gipfel, der weitreichende Ausblicke über die tiefen Grabenbrüche der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        48.957565,
+                        11.017476
+                  ]
+            },
+            {
+                  "name": "Taraareeg",
+                  "text": "Taraareeg ist ein hoch aufragender Gipfel, der einen bedeutenden topografischen Höhepunkt im zerklüfteten Gebiet des Darin-Tals markiert.",
+                  "category": "natural",
+                  "coords": [
+                        48.936421,
+                        10.96478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dawaad",
+                  "text": "A Dawaad egy kiemelkedő hegycsúcs, amely a Darin-völgy meredek és száraz tájaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        49.089271,
+                        10.984358
+                  ]
+            },
+            {
+                  "name": "Laac Wanaagsan",
+                  "text": "A Laac Wanaagsan egy zord felvidéki csúcs, amely őrt áll a völgy drámai geológiai formációi felett.",
+                  "category": "natural",
+                  "coords": [
+                        49.043506,
+                        10.9954
+                  ]
+            },
+            {
+                  "name": "Kitibo",
+                  "text": "A Kitibo csúcsot a völgy száraz és kihívást jelentő terepére jellemző, csupasz sziklakibúvások jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        49.011746,
+                        11.004438
+                  ]
+            },
+            {
+                  "name": "Habaryaale",
+                  "text": "A Habaryaale egy zord, kővel borított csúcs, amely kiterjedt kilátást nyújt a régió mély hasadékvölgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        48.957565,
+                        11.017476
+                  ]
+            },
+            {
+                  "name": "Taraareeg",
+                  "text": "A Taraareeg egy tornyosuló csúcs, amely jelentős topográfiai magaslati pontot jelöl a zord Darin-völgy területén.",
+                  "category": "natural",
+                  "coords": [
+                        48.936421,
+                        10.96478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dawaad",
+                  "text": "Dawaad este o cotație montană proeminentă care are vedere la peisajele abrupte și aride ale Văii Darin.",
+                  "category": "natural",
+                  "coords": [
+                        49.089271,
+                        10.984358
+                  ]
+            },
+            {
+                  "name": "Laac Wanaagsan",
+                  "text": "Laac Wanaagsan este un vârf stâncos de podiș care stă de veghe asupra formațiunilor geologice dramatice ale văii.",
+                  "category": "natural",
+                  "coords": [
+                        49.043506,
+                        10.9954
+                  ]
+            },
+            {
+                  "name": "Kitibo",
+                  "text": "Vârful Kitibo se caracterizează prin aflorimentele sale stâncoase expuse, tipice terenului arid și dificil al văii.",
+                  "category": "natural",
+                  "coords": [
+                        49.011746,
+                        11.004438
+                  ]
+            },
+            {
+                  "name": "Habaryaale",
+                  "text": "Habaryaale este un vârf aspru, acoperit cu piatră, care oferă vederi extinse asupra văilor de rift adânci ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        48.957565,
+                        11.017476
+                  ]
+            },
+            {
+                  "name": "Taraareeg",
+                  "text": "Taraareeg este un vârf înalt care marchează un punct topografic înalt semnificativ în zona accidentată a Văii Darin.",
+                  "category": "natural",
+                  "coords": [
+                        48.936421,
+                        10.96478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dawaad",
+                  "text": "Dawaad is a prominent mountain elevation that overlooks the steep and arid landscapes of the Darin Valley.",
+                  "category": "natural",
+                  "coords": [
+                        49.089271,
+                        10.984358
+                  ]
+            },
+            {
+                  "name": "Laac Wanaagsan",
+                  "text": "Laac Wanaagsan is a rugged highland summit standing sentinel over the dramatic geological formations of the valley.",
+                  "category": "natural",
+                  "coords": [
+                        49.043506,
+                        10.9954
+                  ]
+            },
+            {
+                  "name": "Kitibo",
+                  "text": "The Kitibo peak is characterized by its exposed rocky outcrops, typical of the valley's arid and challenging terrain.",
+                  "category": "natural",
+                  "coords": [
+                        49.011746,
+                        11.004438
+                  ]
+            },
+            {
+                  "name": "Habaryaale",
+                  "text": "Habaryaale is a harsh, stone-capped summit offering expansive views over the region's deep rift valleys.",
+                  "category": "natural",
+                  "coords": [
+                        48.957565,
+                        11.017476
+                  ]
+            },
+            {
+                  "name": "Taraareeg",
+                  "text": "Taraareeg is a towering peak that marks a significant topographic high point in the rugged Darin Valley area.",
+                  "category": "natural",
+                  "coords": [
+                        48.936421,
+                        10.96478
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SO-SA",
     coords: [49.0, 11.0],
@@ -255,7 +714,52 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     },
   },
   {
-    id: "xaysimo-highlands-relief-v2",
+    id: "xaysimo-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hodonle",
+                  "text": "Hodonle ist eine natürliche Quelle, die eine lebenswichtige Wasserquelle im zerklüfteten Xaysimo-Hochland darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.530811,
+                        10.42027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hodonle",
+                  "text": "A Hodonle egy természetes forrás, amely létfontosságú vízforrást biztosít a zord Xaysimo-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        46.530811,
+                        10.42027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hodonle",
+                  "text": "Hodonle este un izvor natural care oferă o sursă vitală de apă în zonele muntoase accidentate din Xaysimo.",
+                  "category": "landmark",
+                  "coords": [
+                        46.530811,
+                        10.42027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hodonle",
+                  "text": "Hodonle is a natural spring providing a vital water source in the rugged Xaysimo highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        46.530811,
+                        10.42027
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SO-SA",
     coords: [46.5, 10.5],
@@ -327,7 +831,52 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     },
   },
   {
-    id: "karkar-mountains-relief-v2",
+    id: "karkar-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karindiigo",
+                  "text": "Karindiigo ist ein markanter felsiger Gipfel, der sich aus den trockenen Landschaften des Karkaar-Gebirges erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        47.458864,
+                        9.997297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karindiigo",
+                  "text": "A Karindiigo egy kiemelkedő sziklás csúcs, amely a Karkaar-hegység száraz tájaiból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        47.458864,
+                        9.997297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karindiigo",
+                  "text": "Karindiigo este un vârf stâncos proeminent care se înalță din peisajele aride ale lanțului muntos Karkaar.",
+                  "category": "natural",
+                  "coords": [
+                        47.458864,
+                        9.997297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karindiigo",
+                  "text": "Karindiigo is a prominent rocky summit rising from the arid landscapes of the Karkaar mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        47.458864,
+                        9.997297
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-SA",
     coords: [47.5, 10.0],
@@ -435,7 +984,196 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     },
   },
   {
-    id: "gardafui-coast-cliffs-relief-v2",
+    id: "gardafui-coast-cliffs-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taayis",
+                  "text": "Ein markanter Berggipfel, der steil entlang der dramatischen Felsklippen der Gardafui-Küste ansteigt.",
+                  "category": "natural",
+                  "coords": [
+                        51.1265,
+                        11.7663
+                  ]
+            },
+            {
+                  "name": "Seen Weyn",
+                  "text": "Eine lebenswichtige natürliche Quelle, die in der Nähe der hoch aufragenden Klippen des Küstengebiets von Gardafui essentielles Süßwasser liefert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.191,
+                        11.7346
+                  ]
+            },
+            {
+                  "name": "Seen Yar",
+                  "text": "Eine kleinere natürliche Wasserquelle, eingebettet in die felsigen Reliefformationen der Gardafui-Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        51.1893,
+                        11.7565
+                  ]
+            },
+            {
+                  "name": "Daralehe",
+                  "text": "Ein hochgelegener Gipfel, der einen zerklüfteten Teil der steilen Felsklippen entlang der Küste von Gardafui bildet.",
+                  "category": "natural",
+                  "coords": [
+                        51.1619,
+                        11.7578
+                  ]
+            },
+            {
+                  "name": "Lighthouse Francesco Crispi",
+                  "text": "Ein historischer, von Italienern erbauter Leuchtturm, der auf den dramatischen, windgepeitschten Klippen des Kap Guardafui thront.",
+                  "category": "landmark",
+                  "coords": [
+                        51.278922,
+                        11.835765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taayis",
+                  "text": "Egy jellegzetes hegycsúcs, amely meredeken emelkedik a Gardafui partvidék drámai sziklás szirtjei mentén.",
+                  "category": "natural",
+                  "coords": [
+                        51.1265,
+                        11.7663
+                  ]
+            },
+            {
+                  "name": "Seen Weyn",
+                  "text": "Egy létfontosságú természetes forrás, amely alapvető édesvizet biztosít a Gardafui partvidék magasodó sziklái közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.191,
+                        11.7346
+                  ]
+            },
+            {
+                  "name": "Seen Yar",
+                  "text": "Egy kisebb természetes vízforrás, amely a Gardafui partvidék sziklás domborzati formái között bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        51.1893,
+                        11.7565
+                  ]
+            },
+            {
+                  "name": "Daralehe",
+                  "text": "Egy nagy tengerszint feletti magasságú csúcs, amely a Gardafui partvonal menti meredek sziklás szirtek zord részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        51.1619,
+                        11.7578
+                  ]
+            },
+            {
+                  "name": "Lighthouse Francesco Crispi",
+                  "text": "Egy történelmi, olaszok által épített világítótorony, amely a Guardafui-fok drámai, szélfútta szikláin magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        51.278922,
+                        11.835765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taayis",
+                  "text": "Un vârf de munte distinctiv, care se ridică abrupt de-a lungul stâncilor stâncoase dramatice ale coastei Gardafui.",
+                  "category": "natural",
+                  "coords": [
+                        51.1265,
+                        11.7663
+                  ]
+            },
+            {
+                  "name": "Seen Weyn",
+                  "text": "Un izvor natural vital care oferă apă dulce esențială lângă stâncile falnice ale zonei de coastă Gardafui.",
+                  "category": "landmark",
+                  "coords": [
+                        51.191,
+                        11.7346
+                  ]
+            },
+            {
+                  "name": "Seen Yar",
+                  "text": "Un mic izvor natural de apă, cuibărit printre formațiunile de relief stâncos ale coastei Gardafui.",
+                  "category": "landmark",
+                  "coords": [
+                        51.1893,
+                        11.7565
+                  ]
+            },
+            {
+                  "name": "Daralehe",
+                  "text": "Un vârf de mare altitudine care formează o parte accidentată a stâncilor abrupte de-a lungul țărmului Gardafui.",
+                  "category": "natural",
+                  "coords": [
+                        51.1619,
+                        11.7578
+                  ]
+            },
+            {
+                  "name": "Lighthouse Francesco Crispi",
+                  "text": "Un far istoric construit de italieni, cocoțat pe stâncile dramatice și bătute de vânt de la Capul Guardafui.",
+                  "category": "landmark",
+                  "coords": [
+                        51.278922,
+                        11.835765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taayis",
+                  "text": "A distinctive mountain peak rising steeply along the dramatic rocky cliffs of the Gardafui coast.",
+                  "category": "natural",
+                  "coords": [
+                        51.1265,
+                        11.7663
+                  ]
+            },
+            {
+                  "name": "Seen Weyn",
+                  "text": "A vital natural spring providing essential freshwater near the towering cliffs of the Gardafui coastal area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.191,
+                        11.7346
+                  ]
+            },
+            {
+                  "name": "Seen Yar",
+                  "text": "A smaller natural water spring nestled among the rocky relief formations of the Gardafui coast.",
+                  "category": "landmark",
+                  "coords": [
+                        51.1893,
+                        11.7565
+                  ]
+            },
+            {
+                  "name": "Daralehe",
+                  "text": "A high-altitude peak that forms a rugged part of the steep rocky cliffs along the Gardafui shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        51.1619,
+                        11.7578
+                  ]
+            },
+            {
+                  "name": "Lighthouse Francesco Crispi",
+                  "text": "A historic Italian-built lighthouse perched atop the dramatic, windswept cliffs of Cape Guardafui.",
+                  "category": "landmark",
+                  "coords": [
+                        51.278922,
+                        11.835765
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SO-SA",
     coords: [51.2, 11.8],

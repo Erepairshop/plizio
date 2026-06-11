@@ -138,7 +138,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-st-john-anglican-cathedral-landmarks-v2.webp",
   },
   {
-    id: "lesotho-national-museum-landmarks-v2",
+    id: "lesotho-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Post Office",
+                  "text": "Diese baulichen Überreste sind alles, was von einem ehemaligen historischen Postamt im Stadtzentrum übrig geblieben ist.",
+                  "category": "historical",
+                  "coords": [
+                        27.482642,
+                        -29.313921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Post Office",
+                  "text": "Ezek az épületi romok maradtak meg a városközpont egyik egykori történelmi postahivatalából.",
+                  "category": "historical",
+                  "coords": [
+                        27.482642,
+                        -29.313921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Post Office",
+                  "text": "Aceste ruine structurale sunt tot ceea ce a mai rămas dintr-un fost oficiu poștal istoric din centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        27.482642,
+                        -29.313921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Post Office",
+                  "text": "These structural ruins are all that remain of a former historical post office in the city center.",
+                  "category": "historical",
+                  "coords": [
+                        27.482642,
+                        -29.313921
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "museum",
     name: { de: "Lesotho Nationalmuseum", hu: "Lesotho Nemzeti Múzeum", ro: "Muzeul Național din Lesotho", en: "Lesotho National Museum" },
@@ -228,7 +273,160 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-mokorotlo-basotho-hat-landmarks-v2.webp",
   },
   {
-    id: "lesotho-maseru-bridge-landmarks-v2",
+    id: "lesotho-maseru-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beesneus",
+                  "text": "Dieser felsige Berggipfel prägt die natürliche Silhouette in der Grenzregion nahe der Maseru Bridge in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.357403,
+                        -29.289815
+                  ]
+            },
+            {
+                  "name": "Pampoenkop",
+                  "text": "Dieser markante Berggipfel befindet sich in der Hochlandlandschaft nahe der Maseru Bridge in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.404561,
+                        -29.293314
+                  ]
+            },
+            {
+                  "name": "Wolwekop",
+                  "text": "Der Wolwekop ist eine unverkennbare Bergspitze, die sich über das raue Terrain nahe der Maseru Bridge erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        27.438419,
+                        -29.271622
+                  ]
+            },
+            {
+                  "name": "Moordkop",
+                  "text": "Dieser Gipfel prägt die gebirgige Skyline in der Region um die Maseru Bridge in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.440682,
+                        -29.31092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beesneus",
+                  "text": "Ez a sziklás hegycsúcs a természeti sziluett meghatározó eleme Lesotho és a Maseru Bridge határvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        27.357403,
+                        -29.289815
+                  ]
+            },
+            {
+                  "name": "Pampoenkop",
+                  "text": "Ez a figyelemre méltó hegycsúcs a Maseru Bridge közelében, Lesotho felvidéki táján található.",
+                  "category": "natural",
+                  "coords": [
+                        27.404561,
+                        -29.293314
+                  ]
+            },
+            {
+                  "name": "Wolwekop",
+                  "text": "A Wolwekop egy jellegzetes hegycsúcs, amely a Maseru Bridge közelében elterülő zord terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        27.438419,
+                        -29.271622
+                  ]
+            },
+            {
+                  "name": "Moordkop",
+                  "text": "Ez a hegycsúcs Lesotho hegyvidéki horizontját formálja a Maseru Bridge térségében.",
+                  "category": "natural",
+                  "coords": [
+                        27.440682,
+                        -29.31092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beesneus",
+                  "text": "Acest vârf stâncos conturează orizontul natural din regiunea de graniță din apropierea Podului Maseru din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.357403,
+                        -29.289815
+                  ]
+            },
+            {
+                  "name": "Pampoenkop",
+                  "text": "Acest vârf montan notabil este situat în peisajul înalt din apropierea Podului Maseru, în Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.404561,
+                        -29.293314
+                  ]
+            },
+            {
+                  "name": "Wolwekop",
+                  "text": "Wolwekop este un vârf montan distinctiv care se ridică deasupra terenului accidentat de lângă Podul Maseru.",
+                  "category": "natural",
+                  "coords": [
+                        27.438419,
+                        -29.271622
+                  ]
+            },
+            {
+                  "name": "Moordkop",
+                  "text": "Acest vârf domină orizontul muntos din regiunea din jurul Podului Maseru din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.440682,
+                        -29.31092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beesneus",
+                  "text": "This rocky peak forms part of the natural skyline in the border region near Maseru Bridge in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.357403,
+                        -29.289815
+                  ]
+            },
+            {
+                  "name": "Pampoenkop",
+                  "text": "This notable mountain peak is situated in the highland terrain near Maseru Bridge in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.404561,
+                        -29.293314
+                  ]
+            },
+            {
+                  "name": "Wolwekop",
+                  "text": "Wolwekop is a distinctive mountain peak rising above the rugged terrain near Maseru Bridge in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.438419,
+                        -29.271622
+                  ]
+            },
+            {
+                  "name": "Moordkop",
+                  "text": "This peak shapes the mountainous skyline in the region surrounding Maseru Bridge in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.440682,
+                        -29.31092
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "bridge",
     name: { de: "Maseru-Brücke", hu: "Maseru-híd", ro: "Podul Maseru", en: "Maseru Bridge" },
@@ -363,7 +561,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-morija-church-landmarks-v2.webp",
   },
   {
-    id: "lesotho-morija-printing-works-landmarks-v2",
+    id: "lesotho-morija-printing-works-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "Das 1956 gegründete Museum in Morija bewahrt die wertvollsten kulturellen und historischen Dokumente Lesothos.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "Az 1956-ban alapított Morija múzeum Lesotho legértékesebb kulturális és történelmi dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "Înființat în 1956, acest muzeu din Morija păstrează cele mai valoroase documente culturale și istorice din Lesotho.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "Founded in 1956, this museum in Morija preserves Lesotho's most valuable cultural artifacts and historical archives.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Morija Printing Works", hu: "Morija Nyomda", ro: "Tipografia Morija", en: "Morija Printing Works" },
@@ -858,7 +1101,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-maphutseng-footprints-landmarks-v2.webp",
   },
   {
-    id: "lesotho-qalo-mission-landmarks-v2",
+    id: "lesotho-qalo-mission-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maluti Mountains",
+                  "text": "Dieser Aussichtspunkt auf das hochgelegene Gebirge bietet dramatische Ausblicke über die Basaltgipfel Lesothos.",
+                  "category": "natural",
+                  "coords": [
+                        28.373658,
+                        -28.622936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maluti Mountains",
+                  "text": "Ez a magasan fekvő hegységi kilátó drámai rálátást nyújt Lesotho bazaltcsúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        28.373658,
+                        -28.622936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maluti Mountains",
+                  "text": "Acest punct de belvedere al lanțului muntos de mare altitudine oferă priveliști dramatice asupra vârfurilor de bazalt din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.373658,
+                        -28.622936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maluti Mountains",
+                  "text": "This high-altitude mountain range viewpoint provides dramatic vistas over the basalt peaks of Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.373658,
+                        -28.622936
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "Qalo Mission", hu: "Qalo-misszió", ro: "Misiunea Qalo", en: "Qalo Mission" },
@@ -903,7 +1191,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-qalo-mission-landmarks-v2.webp",
   },
   {
-    id: "lesotho-pitseng-catholic-mission-landmarks-v2",
+    id: "lesotho-pitseng-catholic-mission-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pitseng L.E.C SA",
+                  "text": "Pitseng L.E.C SA ist eine Kirchengemeinde und ein Gotteshaus der evangelischen Kirche von Lesotho im südlichen Afrika.",
+                  "category": "religious",
+                  "coords": [
+                        28.215771,
+                        -29.011847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pitseng L.E.C SA",
+                  "text": "A Pitseng L.E.C SA a Lesothói Evangélikus Egyház egyik gyülekezeti és istentiszteleti helye Dél-Afrikában.",
+                  "category": "religious",
+                  "coords": [
+                        28.215771,
+                        -29.011847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pitseng L.E.C SA",
+                  "text": "Pitseng L.E.C SA este o congregație și un lăcaș de cult aparținând Bisericii Evanghelice din Lesotho, în sudul Africii.",
+                  "category": "religious",
+                  "coords": [
+                        28.215771,
+                        -29.011847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pitseng L.E.C SA",
+                  "text": "Pitseng L.E.C SA serves as a congregation and place of worship for the Lesotho Evangelical Church in Southern Africa.",
+                  "category": "religious",
+                  "coords": [
+                        28.215771,
+                        -29.011847
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "Pitseng Katholische Mission", hu: "Pitsengi katolikus misszió", ro: "Misiunea Catolică Pitseng", en: "Pitseng Catholic Mission" },
@@ -1038,7 +1371,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-mantsonyane-bridge-landmarks-v2.webp",
   },
   {
-    id: "lesotho-st-jude-mission-landmarks-v2",
+    id: "lesotho-st-jude-mission-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liraoheleng LECSA",
+                  "text": "Diese Kultstätte dient der lokalen Gemeinde der Lesotho Evangelical Church in Southern Africa.",
+                  "category": "religious",
+                  "coords": [
+                        27.522368,
+                        -29.371313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liraoheleng LECSA",
+                  "text": "Ez az istentiszteleti hely a dél-afrikai Lesotho Evangélikus Egyház helyi gyülekezetét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        27.522368,
+                        -29.371313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liraoheleng LECSA",
+                  "text": "Acest lăcaș de cult deservește congregația locală a Bisericii Evanghelice din Lesotho din Africa de Sud.",
+                  "category": "religious",
+                  "coords": [
+                        27.522368,
+                        -29.371313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liraoheleng LECSA",
+                  "text": "This place of worship serves the local congregation of the Lesotho Evangelical Church in Southern Africa.",
+                  "category": "religious",
+                  "coords": [
+                        27.522368,
+                        -29.371313
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "St. Jude Mission", hu: "Szent Júdás-misszió", ro: "Misiunea Sfântul Iuda", en: "St. Jude Mission" },
@@ -1173,7 +1551,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-mazenod-catholic-center-landmarks-v2.webp",
   },
   {
-    id: "lesotho-lesotho-sun-architecture-landmarks-v2",
+    id: "lesotho-lesotho-sun-architecture-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mofumahali oa Tlholo (RCC)",
+                  "text": "Diese markante katholische Kathedrale in Maseru besticht durch ihren unverwechselbaren Architekturstil.",
+                  "category": "religious",
+                  "coords": [
+                        27.494952,
+                        -29.316993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mofumahali oa Tlholo (RCC)",
+                  "text": "Ez a kiemelkedő maserui katolikus katedrális jellegzetes építészeti stílusával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        27.494952,
+                        -29.316993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mofumahali oa Tlholo (RCC)",
+                  "text": "Această importantă catedrală catolică din Maseru se remarcă prin stilul său arhitectural distinct.",
+                  "category": "religious",
+                  "coords": [
+                        27.494952,
+                        -29.316993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Lady of Victories Cathedral",
+                  "text": "This prominent Catholic cathedral in Maseru stands out with its distinct architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        27.494952,
+                        -29.316993
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Avani Lesotho Hotel (Architektur)", hu: "Avani Lesotho Hotel (építészet)", ro: "Hotel Avani Lesotho (arhitectură)", en: "Avani Lesotho Hotel (Architecture)" },
@@ -1578,7 +2001,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-maseru-war-cemetery-landmarks-v2.webp",
   },
   {
-    id: "lesotho-sani-pass-border-post-landmarks-v2",
+    id: "lesotho-sani-pass-border-post-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hole In The Wall",
+                  "text": "Dieses einzigartig geformte natürliche Felsentor dient als markanter Aussichtspunkt in der Nähe des Grenzpostens am Sani-Pass.",
+                  "category": "natural",
+                  "coords": [
+                        29.325879,
+                        -29.638128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hole In The Wall",
+                  "text": "Ez az egyedülálló formájú természetes sziklaív jellegzetes kilátópontként szolgál a Sani-hágó határállomásának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        29.325879,
+                        -29.638128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hole In The Wall",
+                  "text": "Acest arc de stâncă natural cu o formă unică servește ca un punct de belvedere distinctiv lângă punctul de trecere a frontierei Pasului Sani.",
+                  "category": "natural",
+                  "coords": [
+                        29.325879,
+                        -29.638128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hole In The Wall",
+                  "text": "This uniquely formed natural rock arch serves as a distinctive landmark viewpoint near the Sani Pass border post.",
+                  "category": "natural",
+                  "coords": [
+                        29.325879,
+                        -29.638128
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Sani Pass Grenzübergang", hu: "Sani-hágó határátkelő", ro: "Punctul de Frontieră Pasul Sani", en: "Sani Pass Border Post" },
@@ -1623,7 +2091,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-sani-pass-border-post-landmarks-v2.webp",
   },
   {
-    id: "lesotho-ame-church-maseru-landmarks-v2",
+    id: "lesotho-ame-church-maseru-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sefika sa Moshoeshoe",
+                  "text": "Dieses Denkmal in Maseru ehrt Moshoeshoe I., den Gründer und ersten König der Basotho-Nation.",
+                  "category": "historical",
+                  "coords": [
+                        27.482525,
+                        -29.316169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sefika sa Moshoeshoe",
+                  "text": "Ez a Maseru városában álló emlékmű I. Moshoeshoe-nak, a basotho nemzet alapítójának és első királyának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.482525,
+                        -29.316169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sefika sa Moshoeshoe",
+                  "text": "Acest monument din Maseru îl onorează pe Moshoeshoe I, fondatorul și primul rege al națiunii Basotho.",
+                  "category": "historical",
+                  "coords": [
+                        27.482525,
+                        -29.316169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sefika sa Moshoeshoe",
+                  "text": "Located in Maseru, this monument honors King Moshoeshoe I, the revered founder of the Basotho nation.",
+                  "category": "historical",
+                  "coords": [
+                        27.482525,
+                        -29.316169
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "AME Kirche Maseru", hu: "AME templom Maseru", ro: "Biserica AME Maseru", en: "AME Church Maseru" },
@@ -1803,7 +2316,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-paray-mission-thaba-tseka-landmarks-v2.webp",
   },
   {
-    id: "lesotho-villa-maria-mission-landmarks-v2",
+    id: "lesotho-villa-maria-mission-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Highlands Safari Lodge",
+                  "text": "Die Highlands Safari Lodge ist ein Naturschutz- und Unterkunftsresort, das im Dezember 1997 erstmals seine Pforten für Gäste öffnete.",
+                  "category": "natural",
+                  "coords": [
+                        27.265734,
+                        -30.057457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Highlands Safari Lodge",
+                  "text": "A Highlands Safari Lodge egy természetvédelmi és szálláshely, amely először 1997 decemberében nyitotta meg kapuit a vendégek előtt.",
+                  "category": "natural",
+                  "coords": [
+                        27.265734,
+                        -30.057457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Highlands Safari Lodge",
+                  "text": "Highlands Safari Lodge este un refugiu de conservare a naturii și de cazare care și-a deschis pentru prima dată porțile oaspeților în decembrie 1997.",
+                  "category": "natural",
+                  "coords": [
+                        27.265734,
+                        -30.057457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Highlands Safari Lodge",
+                  "text": "Highlands Safari Lodge is a nature conservation and lodging retreat that first opened its doors to guests in December 1997.",
+                  "category": "natural",
+                  "coords": [
+                        27.265734,
+                        -30.057457
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "Villa Maria Mission", hu: "Villa Maria misszió", ro: "Misiunea Villa Maria", en: "Villa Maria Mission" },
@@ -2163,7 +2721,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-maseru-club-architecture-landmarks-v2.webp",
   },
   {
-    id: "lesotho-st-stephen-anglican-mohale-landmarks-v2",
+    id: "lesotho-st-stephen-anglican-mohale-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "Diese Gemeinde in Mohale's Hoek ist ein wichtiges lokales Zentrum für die Lesotho Evangelical Church in Southern Africa.",
+                  "category": "religious",
+                  "coords": [
+                        27.46634,
+                        -30.157395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "Ez a Mohale's Hoek-i plébánia a Dél-afrikai Lesothói Evangélikus Egyház kulcsfontosságú helyi központja.",
+                  "category": "religious",
+                  "coords": [
+                        27.46634,
+                        -30.157395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "Această parohie din Mohale's Hoek este un centru local cheie pentru Biserica Evanghelică Lesotho din Africa de Sud.",
+                  "category": "religious",
+                  "coords": [
+                        27.46634,
+                        -30.157395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "This parish in Mohale's Hoek is a key local center for the Lesotho Evangelical Church in Southern Africa.",
+                  "category": "religious",
+                  "coords": [
+                        27.46634,
+                        -30.157395
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "St. Stephen's Anglican Church", hu: "Szent István anglikán templom", ro: "Biserica Anglicană Sfântul Ștefan", en: "St. Stephen's Anglican Church" },
@@ -2208,7 +2811,52 @@ export const lesothoLandmarksV2: POI[] = [
     image: "/poi-images/lesotho-st-stephen-anglican-mohale-landmarks-v2.webp",
   },
   {
-    id: "lesotho-te-bridge-quthing-landmarks-v2",
+    id: "lesotho-te-bridge-quthing-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makalakaleng",
+                  "text": "Der Makalakaleng ist ein herausragender Berggipfel, der die Landschaft nahe Quthing im südlichen Lesotho bestimmt.",
+                  "category": "natural",
+                  "coords": [
+                        27.505,
+                        -30.4425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makalakaleng",
+                  "text": "A Makalakaleng egy kiemelkedő hegycsúcs, amely a dél-lesothói Quthing környékének tájképét határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        27.505,
+                        -30.4425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makalakaleng",
+                  "text": "Makalakaleng este un vârf montan proeminent care domină peisajul din apropiere de Quthing, în sudul Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.505,
+                        -30.4425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makalakaleng",
+                  "text": "Makalakaleng is a prominent mountain peak defining the high-altitude landscape near Quthing in southern Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.505,
+                        -30.4425
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "bridge",
     name: { de: "Telle-Brücke (Grenze)", hu: "Telle-híd (határ)", ro: "Podul Telle (frontieră)", en: "Telle Bridge (Border)" },

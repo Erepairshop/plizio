@@ -43,7 +43,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Das Nationalmuseum zur Geschichte und Kultur Liechtensteins in Mühleholz.",
+                  "text": "Ein denkmalgeschütztes Museum, ursprünglich 1438 erbaut, in Mühleholz.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -232,7 +232,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Eine lutherische Kirche in Mühleholz.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Mühleholz, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -387,7 +387,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Liechtenstein történelmét és kultúráját bemutató nemzeti múzeum Mühleholzban.",
+                  "text": "Egy védett múzeum, amely eredetileg 1438-ban épült, Mühleholzban.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -576,7 +576,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Lutheránus templom Mühleholzban.",
+                  "text": "Evangélikus Johanneskirche Mühleholzban, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -731,7 +731,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Muzeul național dedicat istoriei și culturii Liechtensteinului în Mühleholz.",
+                  "text": "Un muzeu protejat, construit inițial în 1438, în Mühleholz.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -920,7 +920,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "O biserică luterană în Mühleholz.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Mühleholz, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -1075,7 +1075,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtenstein National Museum",
-                  "text": "The national museum of Liechtenstein's history and culture in Mühleholz.",
+                  "text": "A protected heritage museum, originally built in 1438, in Mühleholz.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -1264,7 +1264,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "A Lutheran church located in Mühleholz.",
+                  "text": "St. John’s Lutheran Church in Mühleholz, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -1525,7 +1525,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Das Rote Haus ist eine berühmte historische Sehenswürdigkeit in Ebenholz.",
+                  "text": "Rotes Haus in Ebenholz, historisches rotes Wohnhaus aus dem 16. Jahrhundert, unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -1651,7 +1651,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Die Evangelische Kirche ist eine anerkannte protestantische Kultstätte in Ebenholz.",
+                  "text": "Evangelische Kirche in Ebenholz, 1963 erbaut, protestantische Kirche der Nachkriegszeit.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -1660,7 +1660,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die Ev.-Luth. Johanneskirche ist eine lutherische Kultstätte in Ebenholz.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Ebenholz, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -1869,7 +1869,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "A Rotes Haus egy híres történelmi látványosság Ebenholzban.",
+                  "text": "Vörös Ház Ebenholzban, 16. századi történelmi vörös lakóház, műemlékvédelem alatt.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -1995,7 +1995,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Az Evangelische Kirche egy elismert protestáns istentiszteleti hely Ebenholzban.",
+                  "text": "Evangélikus templom Ebenholzban, 1963-ban épült, háború utáni protestáns templom.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -2004,7 +2004,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az Ev.-Luth. Johanneskirche egy evangélikus istentiszteleti hely Ebenholzban.",
+                  "text": "Evangélikus Johanneskirche Ebenholzban, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -2213,7 +2213,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus este o faimoasă atracție istorică situată în Ebenholz.",
+                  "text": "Casa Roșie din Ebenholz, o casă istorică roșie din secolul al XVI‑lea, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -2339,7 +2339,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Evangelische Kirche este un lăcaș de cult protestant recunoscut în Ebenholz.",
+                  "text": "Biserica evanghelică din Ebenholz, construită în 1963, o biserică protestantă postbelică.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -2348,7 +2348,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche este un lăcaș de cult luteran situat în Ebenholz.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Ebenholz, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -2557,7 +2557,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "The Rotes Haus is a famous historic attraction located in Ebenholz.",
+                  "text": "Rotes Haus in Ebenholz, a historic red‑painted house from the 16th century, listed heritage.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -2683,7 +2683,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "The Evangelische Kirche is a recognized Protestant place of worship in Ebenholz.",
+                  "text": "Protestant Church in Ebenholz, built in 1963, a post‑war evangelical church.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -2692,7 +2692,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche is a Lutheran place of worship situated in Ebenholz.",
+                  "text": "St. John’s Lutheran Church in Ebenholz, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -4230,7 +4230,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Das Rote Haus ist ein markantes spätmittelalterliches Treppengiebelhaus in Vaduz.",
+                  "text": "Rotes Haus in Mitteldorf, historisches rotes Wohnhaus aus dem 16. Jahrhundert, unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -4365,7 +4365,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die Ev.-Luth. Johanneskirche ist ein Gotteshaus der lutherischen Gemeinde in Vaduz.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Mitteldorf, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -4592,7 +4592,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "A Rotes Haus (Vörös Ház) egy jellegzetes késő középkori lépcsős oromzatú ház Vaduzban.",
+                  "text": "Vörös Ház Mitteldorfban, 16. századi történelmi vörös lakóház, műemlékvédelem alatt.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -4727,7 +4727,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az evangélikus-lutheránus János-templom a vaduzi lutheránus közösség temploma.",
+                  "text": "Evangélikus Johanneskirche Mitteldorfban, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -4954,7 +4954,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus este o casă medievală târzie cu fronton în trepte, un reper în Vaduz.",
+                  "text": "Casa Roșie din Mitteldorf, o casă istorică roșie din secolul al XVI‑lea, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -5089,7 +5089,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Biserica Evanghelică-Luterană Sfântul Ioan este un lăcaș de cult luteran din Vaduz.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Mitteldorf, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -5316,7 +5316,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "The Rotes Haus is a prominent late-medieval stepped-gable house and landmark in Vaduz.",
+                  "text": "Rotes Haus in Mitteldorf, a historic red‑painted house from the 16th century, listed heritage.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -5451,7 +5451,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "The Ev.-Luth. Johanneskirche is a place of worship for the Lutheran community in Vaduz.",
+                  "text": "St. John’s Lutheran Church in Mitteldorf, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -5704,7 +5704,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Das Rote Haus ist eine markante historische Sehenswürdigkeit in Haberfeld.",
+                  "text": "Rotes Haus in Haberfeld, historisches rotes Wohnhaus aus dem 16. Jahrhundert, unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -5830,7 +5830,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Die Evangelische Kirche ist ein evangelisches Gotteshaus in Haberfeld.",
+                  "text": "Evangelische Kirche in Haberfeld, 1963 erbaut, protestantische Kirche der Nachkriegszeit.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -5839,7 +5839,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die Ev.-Luth. Johanneskirche ist ein lutherisches Gotteshaus in Haberfeld.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Haberfeld, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -6048,7 +6048,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "A Rotes Haus egy feltűnő történelmi látványosság Haberfeldben.",
+                  "text": "Vörös Ház Haberfeldben, 16. századi történelmi vörös lakóház, műemlékvédelem alatt.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -6174,7 +6174,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Az Evangelische Kirche egy evangélikus istentiszteleti hely Haberfeldben.",
+                  "text": "Evangélikus templom Haberfeldben, 1963-ban épült, háború utáni protestáns templom.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -6183,7 +6183,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az Ev.-Luth. Johanneskirche egy lutheránus istentiszteleti hely Haberfeldben.",
+                  "text": "Evangélikus Johanneskirche Haberfeldben, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -6392,7 +6392,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus este o atracție istorică remarcabilă din Haberfeld.",
+                  "text": "Casa Roșie din Haberfeld, o casă istorică roșie din secolul al XVI‑lea, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -6518,7 +6518,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Evangelische Kirche este un lăcaș de cult evanghelic situat în Haberfeld.",
+                  "text": "Biserica evanghelică din Haberfeld, construită în 1963, o biserică protestantă postbelică.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -6527,7 +6527,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche este un lăcaș de cult luteran din Haberfeld.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Haberfeld, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -6736,7 +6736,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus is a striking historical attraction located in Haberfeld.",
+                  "text": "Rotes Haus in Haberfeld, a historic red‑painted house from the 16th century, listed heritage.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -6862,7 +6862,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Evangelische Kirche is an evangelical place of worship located in Haberfeld.",
+                  "text": "Protestant Church in Haberfeld, built in 1963, a post‑war evangelical church.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -6871,7 +6871,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche is a Lutheran place of worship situated in Haberfeld.",
+                  "text": "St. John’s Lutheran Church in Haberfeld, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -8491,7 +8491,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Das Rote Haus ist ein historisches Wahrzeichen im Bezirk Quadratscha.",
+                  "text": "Rotes Haus in Quadratscha, historisches rotes Wohnhaus aus dem 16. Jahrhundert, unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -8799,7 +8799,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "A Rotes Haus (Vörös Ház) egy történelmi jelkép Quadratscha körzetében.",
+                  "text": "Vörös Ház Quadratschában, 16. századi történelmi vörös lakóház, műemlékvédelem alatt.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -9107,7 +9107,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus este un punct de reper istoric în districtul Quadratscha.",
+                  "text": "Casa Roșie din Quadratscha, o casă istorică roșie din secolul al XVI‑lea, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -9415,7 +9415,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "The Rotes Haus is a historic landmark in the Quadratscha district.",
+                  "text": "Rotes Haus in Quadratscha, a historic red‑painted house from the 16th century, listed heritage.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -9758,7 +9758,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Das Rote Haus ist eine ikonische historische Sehenswürdigkeit im Spoerry-Areal.",
+                  "text": "Rotes Haus in Spoerry-Areal, historisches rotes Wohnhaus aus dem 16. Jahrhundert, unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -9884,7 +9884,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die Ev.-Luth. Johanneskirche ist ein bedeutendes lutherisches Gotteshaus im Spoerry-Areal.",
+                  "text": "Evangelisch-lutherische Johanneskirche im Spoerry-Areal, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -10057,7 +10057,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "A Rotes Haus egy ikonikus történelmi látványosság a Spoerry-Arealban.",
+                  "text": "Vörös Ház a Spoerry-Arealban, 16. századi történelmi vörös lakóház, műemlékvédelem alatt.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -10183,7 +10183,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az Ev.-Luth. Johanneskirche egy jelentős evangélikus istentiszteleti hely a Spoerry-Areal területén.",
+                  "text": "Evangélikus Johanneskirche a Spoerry-Arealban, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -10356,7 +10356,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus este o atracție istorică emblematică situată în Spoerry-Areal.",
+                  "text": "Casa Roșie din zona Spoerry, o casă istorică roșie din secolul al XVI‑lea, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -10482,7 +10482,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche este un important lăcaș de cult luteran situat în Spoerry-Areal.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din zona Spoerry, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -10655,7 +10655,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus is an iconic historic attraction located in the Spoerry-Areal.",
+                  "text": "Rotes Haus in Spoerry-Areal, a historic red‑painted house from the 16th century, listed heritage.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -10781,7 +10781,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "The Ev.-Luth. Johanneskirche is a notable Lutheran place of worship in Spoerry-Areal.",
+                  "text": "St. John’s Lutheran Church in Spoerry-Areal, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -12248,7 +12248,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die lutherische Johanneskirche in Vaduz.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Dux, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -12574,7 +12574,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "A vaduzi evangélikus János-templom.",
+                  "text": "Evangélikus Johanneskirche Duxban, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -12900,7 +12900,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Biserica luterană Sfântul Ioan din Vaduz.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Dux, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -13226,7 +13226,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "The Lutheran St. John's Church in Vaduz.",
+                  "text": "St. John’s Lutheran Church in Dux, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -14692,7 +14692,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Nationalmuseum zur Geschichte und Kultur Liechtensteins.",
+                  "text": "Ein denkmalgeschütztes Museum, ursprünglich 1438 erbaut, in Specki.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -14872,7 +14872,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Eine evangelisch-lutherische Kirche in Vaduz-Specki.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Specki, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -15027,7 +15027,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Liechtenstein történelmének és kultúrájának szentelt nemzeti múzeum.",
+                  "text": "Egy védett múzeum, amely eredetileg 1438-ban épült, Speckiben.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -15207,7 +15207,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Evangélikus-lutheránus templom Vaduz-Specki területén.",
+                  "text": "Evangélikus Johanneskirche Speckiben, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -15362,7 +15362,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Muzeu național dedicat istoriei și culturii Liechtensteinului.",
+                  "text": "Un muzeu protejat, construit inițial în 1438, în Specki.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -15542,7 +15542,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "O biserică evanghelică-lutherană situată în Vaduz-Specki.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Specki, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -15697,7 +15697,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtenstein National Museum",
-                  "text": "National museum dedicated to the history and culture of Liechtenstein.",
+                  "text": "A protected heritage museum, originally built in 1438, in Specki.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -15877,7 +15877,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "An Evangelical-Lutheran church located in Vaduz-Specki.",
+                  "text": "St. John’s Lutheran Church in Specki, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -16166,7 +16166,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Die protestantische Kirche im Vaduzer Ebenholz.",
+                  "text": "Evangelische Kirche in Iradug, 1963 erbaut, protestantische Kirche der Nachkriegszeit.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -16175,7 +16175,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die evangelisch-lutherische Kirche in Vaduz.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Iradug, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -16429,7 +16429,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Evangélikus templom Vaduz Ebenholz részén.",
+                  "text": "Evangélikus templom Iradugban, 1963-ban épült, háború utáni protestáns templom.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -16438,7 +16438,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az evangélikus-lutheránus templom Vaduzban.",
+                  "text": "Evangélikus Johanneskirche Iradugban, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -16692,7 +16692,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Biserica protestantă din Ebenholz, Vaduz.",
+                  "text": "Biserica evanghelică din Iradug, construită în 1963, o biserică protestantă postbelică.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -16701,7 +16701,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Biserica evanghelică-luterană din Vaduz.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Iradug, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -16955,7 +16955,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "The Protestant church in the Ebenholz area of Vaduz.",
+                  "text": "Protestant Church in Iradug, built in 1963, a post‑war evangelical church.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -16964,7 +16964,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "The Evangelical Lutheran church in Vaduz.",
+                  "text": "St. John’s Lutheran Church in Iradug, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -17298,7 +17298,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Die Evangelische Kirche ist eine anerkannte evangelische Kirche in Rossfeld.",
+                  "text": "Evangelische Kirche in Rossfeld, 1963 erbaut, protestantische Kirche der Nachkriegszeit.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -17307,7 +17307,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die Ev.-Luth. Johanneskirche ist eine markante lutherische Kirche in der Stadt Rossfeld.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Rossfeld, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -17597,7 +17597,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Az Evangelische Kirche egy elismert protestáns templom Rossfeld városában.",
+                  "text": "Evangélikus templom Rossfeldben, 1963-ban épült, háború utáni protestáns templom.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -17606,7 +17606,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az Ev.-Luth. Johanneskirche egy kiemelkedő evangélikus templom Rossfeld városában.",
+                  "text": "Evangélikus Johanneskirche Rossfeldben, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -17896,7 +17896,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Evangelische Kirche este o biserică protestantă recunoscută situată în Rossfeld.",
+                  "text": "Biserica evanghelică din Rossfeld, construită în 1963, o biserică protestantă postbelică.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -17905,7 +17905,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche este o biserică luterană proeminentă din orașul Rossfeld.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Rossfeld, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -18195,7 +18195,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "The Evangelische Kirche is an acknowledged Protestant church located in Rossfeld.",
+                  "text": "Protestant Church in Rossfeld, built in 1963, a post‑war evangelical church.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -18204,7 +18204,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche is a prominent Lutheran church in the city of Rossfeld.",
+                  "text": "St. John’s Lutheran Church in Rossfeld, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -18619,7 +18619,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Eine lutherische Kirche für die Gemeinde in Vaduz.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Riet, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -18999,7 +18999,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Lutheránus templom a vaduzi közösség számára.",
+                  "text": "Evangélikus Johanneskirche Rietben, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -19379,7 +19379,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "O biserică lutherană pentru comunitatea din Vaduz.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Riet, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -19759,7 +19759,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "A Lutheran church for the community in Vaduz.",
+                  "text": "St. John’s Lutheran Church in Riet, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -20057,7 +20057,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Eine kleine Kapelle in der Gemeinde Planken.",
+                  "text": "Kapelle St. Josef in Birkahof, denkmalgeschützte Kapelle mit barocken Elementen.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -20075,7 +20075,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die lutherische Kirche in Vaduz.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Birkahof, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -20338,7 +20338,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Egy kis kápolna Planken községben.",
+                  "text": "Szent József kápolna Birkahofban, műemlékvédett kápolna barokk elemekkel.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -20356,7 +20356,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az evangélikus-lutheránus templom Vaduzban.",
+                  "text": "Evangélikus Johanneskirche Birkahofban, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -20619,7 +20619,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "O mică chapelă situată în comuna Planken.",
+                  "text": "Capela Sf. Iosif din Birkahof, capelă protejată cu elemente baroce.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -20637,7 +20637,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Biserica evanghelică luterană din Vaduz.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Birkahof, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -20900,7 +20900,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "A small chapel located in the municipality of Planken.",
+                  "text": "St. Joseph’s Chapel in Birkahof, a listed chapel with Baroque elements.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -20918,7 +20918,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "The Evangelical Lutheran church in Vaduz.",
+                  "text": "St. John’s Lutheran Church in Birkahof, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -21208,7 +21208,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Das Rote Haus ist ein historisches, rot gestrichenes Wahrzeichen in Bardella.",
+                  "text": "Rotes Haus in Bardella, historisches rotes Wohnhaus aus dem 16. Jahrhundert, unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -21325,7 +21325,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Die Evangelische Kirche ist ein evangelisches Gotteshaus in Bardella.",
+                  "text": "Evangelische Kirche in Bardella, 1963 erbaut, protestantische Kirche der Nachkriegszeit.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -21334,7 +21334,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Die Ev.-Luth. Johanneskirche ist ein lutherisches Gotteshaus in Bardella.",
+                  "text": "Evangelisch-lutherische Johanneskirche in Bardella, 1956 erbaut, schlichte Moderne.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -21561,7 +21561,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "A Rotes Haus egy történelmi, vörösre festett nevezetesség Bardella városában.",
+                  "text": "Vörös Ház Bardellában, 16. századi történelmi vörös lakóház, műemlékvédelem alatt.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -21678,7 +21678,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Az Evangelische Kirche egy evangélikus protestáns templom Bardella városában.",
+                  "text": "Evangélikus templom Bardellában, 1963-ban épült, háború utáni protestáns templom.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -21687,7 +21687,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Az Ev.-Luth. Johanneskirche egy evangélikus istentiszteleti hely Bardella városában.",
+                  "text": "Evangélikus Johanneskirche Bardellában, 1956-ban épült, letisztult modern stílus.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -21914,7 +21914,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus este un punct de reper istoric, vopsit în roșu, din Bardella.",
+                  "text": "Casa Roșie din Bardella, o casă istorică roșie din secolul al XVI‑lea, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -22031,7 +22031,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Evangelische Kirche este o biserică protestantă evanghelică situată în Bardella.",
+                  "text": "Biserica evanghelică din Bardella, construită în 1963, o biserică protestantă postbelică.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -22040,7 +22040,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche este un lăcaș de cult luteran situat în Bardella.",
+                  "text": "Biserica evanghelică luterană Johanneskirche din Bardella, construită în 1956, stil modern simplu.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -22267,7 +22267,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Rotes Haus is a historic red-painted local landmark in Bardella.",
+                  "text": "Rotes Haus in Bardella, a historic red‑painted house from the 16th century, listed heritage.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -22384,7 +22384,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Evangelische Kirche",
-                  "text": "Evangelische Kirche is an evangelical Protestant church located in Bardella.",
+                  "text": "Protestant Church in Bardella, built in 1963, a post‑war evangelical church.",
                   "category": "religious",
                   "coords": [
                         9.51318,
@@ -22393,7 +22393,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ev.-Luth. Johanneskirche",
-                  "text": "Ev.-Luth. Johanneskirche is a Lutheran place of worship situated in Bardella.",
+                  "text": "St. John’s Lutheran Church in Bardella, built in 1956, a simple modern design.",
                   "category": "religious",
                   "coords": [
                         9.509571,
@@ -25359,7 +25359,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Die Ruine einer mittelalterlichen Höhenburg in der Schweiz.",
+                  "text": "Burgruine Wartau bei Maschlina, mittelalterliche Höhenburg, denkmalgeschützt.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -25577,7 +25577,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Egy középkori vár romjai Svájcban.",
+                  "text": "Wartau várrom Maschlina mellett, középkori magaslati vár, műemlékvédett.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -25795,7 +25795,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Ruinele unei cetăți medievale situate în Elveția.",
+                  "text": "Ruinele cetății Wartau lângă Maschlina, cetate medievală de înălțime, monument protejat.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -26013,7 +26013,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "The ruins of a medieval hilltop castle in Switzerland.",
+                  "text": "Wartau Castle ruins near Maschlina, a medieval hill fortress, listed monument.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -26285,7 +26285,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Gretschins.",
+                  "text": "Burgruine Wartau bei Sand, mittelalterliche Höhenburg, denkmalgeschützt.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -26294,7 +26294,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Das Landesmuseum widmet sich der Geschichte und Naturkunde Liechtensteins.",
+                  "text": "Ein denkmalgeschütztes Museum, ursprünglich 1438 erbaut, in Sand.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -26584,7 +26584,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Középkori hegyi vár romja Gretschins felett.",
+                  "text": "Wartau várrom Sand mellett, középkori magaslati vár, műemlékvédett.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -26593,7 +26593,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "A nemzeti múzeum Liechtenstein történelmével és természetrajzával foglalkozik.",
+                  "text": "Egy védett múzeum, amely eredetileg 1438-ban épült, Sandban.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -26883,7 +26883,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Ruinele unei cetăți medievale situate deasupra satului Gretschins.",
+                  "text": "Ruinele cetății Wartau lângă Sand, cetate medievală de înălțime, monument protejat.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -26892,7 +26892,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Muzeul Național este dedicat istoriei și istoriei naturale a Liechtensteinului.",
+                  "text": "Un muzeu protejat, construit inițial în 1438, în Sand.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -27182,7 +27182,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "The ruins of a medieval hill castle above Gretschins.",
+                  "text": "Wartau Castle ruins near Sand, a medieval hill fortress, listed monument.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -27191,7 +27191,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtenstein National Museum",
-                  "text": "The National Museum is dedicated to the history and natural history of Liechtenstein.",
+                  "text": "A protected heritage museum, originally built in 1438, in Sand.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -27516,7 +27516,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Burgruine Wartau ist eine bekannte Burg in Gartnetsch.",
+                  "text": "Burgruine Wartau bei Gartnetsch, mittelalterliche Höhenburg, denkmalgeschützt.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -27707,7 +27707,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "A(z) Burgruine Wartau egy ismert vár Gartnetsch területén.",
+                  "text": "Wartau várrom Gartnetsch mellett, középkori magaslati vár, műemlékvédett.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -27898,7 +27898,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Burgruine Wartau este un castel notabil în Gartnetsch.",
+                  "text": "Ruinele cetății Wartau lângă Gartnetsch, cetate medievală de înălțime, monument protejat.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -28089,7 +28089,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Burgruine Wartau",
-                  "text": "Burgruine Wartau is a notable castle located in Gartnetsch.",
+                  "text": "Wartau Castle ruins near Gartnetsch, a medieval hill fortress, listed monument.",
                   "category": "castle",
                   "coords": [
                         9.490408,
@@ -29430,7 +29430,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Das Nationalmuseum vermittelt die Geschichte und Volkskunde Liechtensteins.",
+                  "text": "Ein denkmalgeschütztes Museum, ursprünglich 1438 erbaut, in Berschis.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -29711,7 +29711,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "A nemzeti múzeum Liechtenstein történelmét és néprajzát mutatja be.",
+                  "text": "Egy védett múzeum, amely eredetileg 1438-ban épült, Berschisben.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -29992,7 +29992,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Muzeul național prezintă istoria și folclorul Liechtensteinului.",
+                  "text": "Un muzeu protejat, construit inițial în 1438, în Berschis.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -30273,7 +30273,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtenstein National Museum",
-                  "text": "The national museum presents the history and folklore of Liechtenstein.",
+                  "text": "A protected heritage museum, originally built in 1438, in Berschis.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -43661,7 +43661,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "Schloss Vaduz ist das Wahrzeichen Liechtensteins und Sitz des Staatsoberhauptes.",
+                  "text": "Schloss Vaduz in Steinort, Residenzschloss der Fürsten von Liechtenstein, Wahrzeichen des Landes.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -43906,7 +43906,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "A vaduzi vár Liechtenstein jelképe és az államfő székhelye.",
+                  "text": "Vaduzi kastély Steinortban, a liechtensteini hercegek rezidenciája, az ország jelképe.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -44151,7 +44151,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "Castelul Vaduz este simbolul Liechtensteinului și sediul șefului statului.",
+                  "text": "Castelul Vaduz din Steinort, reședința prinților de Liechtenstein, simbol al țării.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -44396,7 +44396,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "Vaduz Castle is the landmark of Liechtenstein and the seat of the head of state.",
+                  "text": "Vaduz Castle in Steinort, the princely residence of Liechtenstein, a national landmark.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -45808,7 +45808,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Spätmittelalterliches Wohnhaus und Wahrzeichen von Vaduz.",
+                  "text": "Rotes Haus in Guflina, historisches rotes Wohnhaus aus dem 16. Jahrhundert, unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -45979,7 +45979,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "Schloss Vaduz ist eine historische Festung, die über der Stadt Vaduz wacht.",
+                  "text": "Schloss Vaduz in Guflina, Residenzschloss der Fürsten von Liechtenstein, Wahrzeichen des Landes.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -46062,7 +46062,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Késő középkori lakóház és Vaduz egyik jelképe.",
+                  "text": "Vörös Ház Guflinában, 16. századi történelmi vörös lakóház, műemlékvédelem alatt.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -46233,7 +46233,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "A vaduzi vár egy történelmi erődítmény, amely Vaduz városa felett őrködik.",
+                  "text": "Vaduzi kastély Guflinában, a liechtensteini hercegek rezidenciája, az ország jelképe.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -46316,7 +46316,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Casă de locuit din evul mediu târziu și simbol al orașului Vaduz.",
+                  "text": "Casa Roșie din Guflina, o casă istorică roșie din secolul al XVI‑lea, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -46487,7 +46487,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "Castelul Vaduz este o fortăreață istorică ce veghează asupra orașului Vaduz.",
+                  "text": "Castelul Vaduz din Guflina, reședința prinților de Liechtenstein, simbol al țării.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -46570,7 +46570,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Rotes Haus",
-                  "text": "Late medieval residential house and landmark of Vaduz.",
+                  "text": "Rotes Haus in Guflina, a historic red‑painted house from the 16th century, listed heritage.",
                   "category": "landmark",
                   "coords": [
                         9.521822,
@@ -46741,7 +46741,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Vaduz Castle",
-                  "text": "Vaduz Castle is a historical fortress that watches over the city of Vaduz.",
+                  "text": "Vaduz Castle in Guflina, the princely residence of Liechtenstein, a national landmark.",
                   "category": "castle",
                   "coords": [
                         9.524381,
@@ -58828,7 +58828,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Eine dem heiligen Josef geweihte Kapelle in Gänsbach.",
+                  "text": "Kapelle St. Josef in Gänsbach, denkmalgeschützte Kapelle mit barocken Elementen.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -59001,7 +59001,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Szent Józsefnek szentelt kápolna Gänsbachban.",
+                  "text": "Szent József kápolna Gänsbachban, műemlékvédett kápolna barokk elemekkel.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -59174,7 +59174,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "O capelă dedicată Sfântului Iosif în Gänsbach.",
+                  "text": "Capela Sf. Iosif din Gänsbach, capelă protejată cu elemente baroce.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -59347,7 +59347,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "A chapel dedicated to Saint Joseph in Gänsbach.",
+                  "text": "St. Joseph’s Chapel in Gänsbach, a listed chapel with Baroque elements.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -60696,7 +60696,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Das Liechtenstein National Museum ist ein Museum in Hinter-Prufatscheng. Es präsentiert die Natur- und Kulturgeschichte Liechtensteins.",
+                  "text": "Ein denkmalgeschütztes Museum, ursprünglich 1438 erbaut, in Hinter-Prufatscheng.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -60959,7 +60959,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "A Liechtenstein National Museum egy múzeum Hinter-Prufatscheng területén. Liechtenstein természet- és kultúrtörténetét mutatja be.",
+                  "text": "Egy védett múzeum, amely eredetileg 1438-ban épült, Hinter-Prufatschengben.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -61222,7 +61222,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtensteinisches Landesmuseum Vaduz",
-                  "text": "Liechtenstein National Museum este un muzeu în Hinter-Prufatscheng. Acesta prezintă istoria naturală și culturală a statului Liechtenstein.",
+                  "text": "Un muzeu protejat, construit inițial în 1438, în Hinter-Prufatscheng.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -61485,7 +61485,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Liechtenstein National Museum",
-                  "text": "Liechtenstein National Museum is a museum in Hinter-Prufatscheng. It presents the natural and cultural history of Liechtenstein.",
+                  "text": "A protected heritage museum, originally built in 1438, in Hinter-Prufatscheng.",
                   "category": "museum",
                   "coords": [
                         9.522738,
@@ -65311,7 +65311,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Eine kleine Kapelle in Planken, die dem heiligen Josef geweiht ist.",
+                  "text": "Kapelle St. Josef in Schütz, denkmalgeschützte Kapelle mit barocken Elementen.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -65538,7 +65538,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Plankeni kis kápolna, amelyet Szent Józsefnek szenteltek.",
+                  "text": "Szent József kápolna Schützben, műemlékvédett kápolna barokk elemekkel.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -65765,7 +65765,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "O mică capelă în Planken, dedicată Sfântului Iosif.",
+                  "text": "Capela Sf. Iosif din Schütz, capelă protejată cu elemente baroce.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -65992,7 +65992,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "A small chapel in Planken dedicated to Saint Joseph.",
+                  "text": "St. Joseph’s Chapel in Schütz, a listed chapel with Baroque elements.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -67655,7 +67655,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Sankt Josef ist eine Kapelle in Gsperr (Planken).",
+                  "text": "Kapelle St. Josef in Gsperr, denkmalgeschützte Kapelle mit barocken Elementen.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -67855,7 +67855,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "A Szent József-kápolna egy vallási épület Gsperrben.",
+                  "text": "Szent József kápolna Gsperrben, műemlékvédett kápolna barokk elemekkel.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -68055,7 +68055,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Sfântul Iosif este o capelă situată în Gsperr.",
+                  "text": "Capela Sf. Iosif din Gsperr, capelă protejată cu elemente baroce.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -68255,7 +68255,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Sankt Josef",
-                  "text": "Saint Joseph is a chapel located in Gsperr.",
+                  "text": "St. Joseph’s Chapel in Gsperr, a listed chapel with Baroque elements.",
                   "category": "religious",
                   "coords": [
                         9.544334,
@@ -71493,7 +71493,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Die Ruine Tosters ist eine historische Burg in St. Georg.",
+                  "text": "Ruine Tosters in St. Georg, mittelalterliche Burgruine, denkmalgeschützt.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -71756,7 +71756,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "A Ruine Tosters egy történelmi várrom St. Georg városában.",
+                  "text": "Tosters várrom St. Georgban, középkori várrom, műemlékvédett.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -72019,7 +72019,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Ruine Tosters este un castel istoric în St. Georg.",
+                  "text": "Ruinele cetății Tosters din St. Georg, ruină medievală protejată.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -72282,7 +72282,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Ruine Tosters is a historic castle located in St. Georg.",
+                  "text": "Tosters Castle ruins in St. Georg, a medieval fortress ruin, listed monument.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -72589,7 +72589,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Historische Burgruine Tosters im Biedermann-Areal.",
+                  "text": "Geschützte Burgruine.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -72688,7 +72688,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Die moderne Pfarrkirche im Biedermann-Areal.",
+                  "text": "1972 erbaute Pfarrkirche.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -72861,7 +72861,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Tosters várának történelmi romjai a Biedermann-Areal területén.",
+                  "text": "Védett várrom.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -72960,7 +72960,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "A modern plébániatemplom a Biedermann-Areal területén.",
+                  "text": "1972-ben épült plébániatemplom.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -73133,7 +73133,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Ruina istorică a castelului Tosters în Biedermann-Areal.",
+                  "text": "Ruina de castel protejată.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -73232,7 +73232,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Biserica parohială modernă din Biedermann-Areal.",
+                  "text": "Biserică parohială construită în 1972.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -73405,7 +73405,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Historic ruins of Tosters castle in the Biedermann-Areal.",
+                  "text": "Listed castle ruin.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -73504,7 +73504,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "The modern parish church in the Biedermann-Areal.",
+                  "text": "Parish church built in 1972.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -74782,7 +74782,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Die Ruine Tosters ist eine bekannte Burgruine im Gebiet von Gantenstein.",
+                  "text": "Geschützte Burgruine.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -74908,7 +74908,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Die Neue Pfarrkirche Hl. Cornelius und Cyprian ist ein markantes Gotteshaus in Gantenstein.",
+                  "text": "1972 erbaute Pfarrkirche.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -75099,7 +75099,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "A Ruine Tosters egy jól ismert várrom Gantenstein területén.",
+                  "text": "Védett várrom.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -75225,7 +75225,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "A Neue Pfarrkirche Hl. Cornelius und Cyprian egy kiemelkedő istentiszteleti hely Gantensteinben.",
+                  "text": "1972-ben épült plébániatemplom.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -75416,7 +75416,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Ruine Tosters este o ruină de castel bine-cunoscută, situată în zona Gantenstein.",
+                  "text": "Ruina de castel protejată.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -75542,7 +75542,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Neue Pfarrkirche Hl. Cornelius und Cyprian este un lăcaș de cult proeminent situat în Gantenstein.",
+                  "text": "Biserică parohială construită în 1972.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -75733,7 +75733,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Ruine Tosters is a well-known castle ruin situated in the Gantenstein area.",
+                  "text": "Listed castle ruin.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -75859,7 +75859,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Neue Pfarrkirche Hl. Cornelius und Cyprian is a prominent place of worship situated in Gantenstein.",
+                  "text": "Parish church built in 1972.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -78179,7 +78179,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Die Ruine Tosters ist eine bekannte Burgruine im Gebiet von Eichholz.",
+                  "text": "Geschützte Burgruine.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -78287,7 +78287,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Die Neue Pfarrkirche Hl. Cornelius und Cyprian ist ein markantes Gotteshaus in Eichholz.",
+                  "text": "1972 erbaute Pfarrkirche.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -78460,7 +78460,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "A Ruine Tosters egy jól ismert várrom Eichholz területén.",
+                  "text": "Védett várrom.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -78568,7 +78568,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "A Neue Pfarrkirche Hl. Cornelius und Cyprian egy kiemelkedő istentiszteleti hely Eichholzban.",
+                  "text": "1972-ben épült plébániatemplom.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -78741,7 +78741,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Ruine Tosters este o ruină de castel bine-cunoscută, situată în zona Eichholz.",
+                  "text": "Ruina de castel protejată.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -78849,7 +78849,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Neue Pfarrkirche Hl. Cornelius und Cyprian este un lăcaș de cult proeminent situat în Eichholz.",
+                  "text": "Biserică parohială construită în 1972.",
                   "category": "religious",
                   "coords": [
                         9.577709,
@@ -79022,7 +79022,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Ruine Tosters",
-                  "text": "Ruine Tosters is a well-known castle ruin situated in the Eichholz area.",
+                  "text": "Listed castle ruin.",
                   "category": "castle",
                   "coords": [
                         9.575039,
@@ -79130,7 +79130,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             },
             {
                   "name": "Neue Pfarrkirche Hl. Cornelius und Cyprian",
-                  "text": "Neue Pfarrkirche Hl. Cornelius und Cyprian is a prominent place of worship situated in Eichholz.",
+                  "text": "Parish church built in 1972.",
                   "category": "religious",
                   "coords": [
                         9.577709,

@@ -38,7 +38,196 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Plus grand lac désertique permanent au monde", "Bassin endoréique et alcalin", "Le fleuve Omo alimente fortement le lac", "Célèbre pour ses eaux vert-bleu dues aux algues", "Koobi Fora est situé sur la rive orientale", "Nombreux crocodiles du Nil sur les rives", "Milieu de vie essentiel pour les pêcheurs et éleveurs"],
     }, image: "/poi-images/lake-turkana-nature-v2.webp"},
   {
-    id: "mount-kenya-nature-v2",
+    id: "mount-kenya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point Lenana",
+                  "text": "Mit einer Höhe von 4.985 Metern ist dieser markante Gipfel ein Hauptziel für alpine Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        37.317762,
+                        -0.155156
+                  ]
+            },
+            {
+                  "name": "Point Melhuish",
+                  "text": "Dieser schroffe alpine Gipfel ist Teil eines spektakulären hochgelegenen vulkanischen Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        37.309578,
+                        -0.156651
+                  ]
+            },
+            {
+                  "name": "Point John",
+                  "text": "Dieser steile felsige Gipfel sticht inmitten der hochgelegenen Gletschertäler deutlich hervor.",
+                  "category": "natural",
+                  "coords": [
+                        37.307992,
+                        -0.157931
+                  ]
+            },
+            {
+                  "name": "Midget Peak",
+                  "text": "Dieser markant benannte felsige Gipfel bietet einen anspruchsvollen Aufstieg innerhalb der alpinen Zone.",
+                  "category": "natural",
+                  "coords": [
+                        37.305659,
+                        -0.158504
+                  ]
+            },
+            {
+                  "name": "Mount Kenya National Reserve",
+                  "text": "Dieses hochgelegene Naturschutzgebiet umfasst dichte Bergwälder und alpine Moorlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        37.334989,
+                        -0.201476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point Lenana",
+                  "text": "A 4985 méter magas kiemelkedő csúcs az alpesi túrázók egyik fő célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        37.317762,
+                        -0.155156
+                  ]
+            },
+            {
+                  "name": "Point Melhuish",
+                  "text": "Ez a zord alpesi csúcs egy látványos, magasan fekvő vulkáni masszívum része.",
+                  "category": "natural",
+                  "coords": [
+                        37.309578,
+                        -0.156651
+                  ]
+            },
+            {
+                  "name": "Point John",
+                  "text": "Ez a meredek sziklás csúcs élesen kiemelkedik a magasan fekvő gleccservölgyek közül.",
+                  "category": "natural",
+                  "coords": [
+                        37.307992,
+                        -0.157931
+                  ]
+            },
+            {
+                  "name": "Midget Peak",
+                  "text": "Ez a jellegzetes nevű sziklás csúcs kihívást jelentő mászást kínál az alpesi övezetben.",
+                  "category": "natural",
+                  "coords": [
+                        37.305659,
+                        -0.158504
+                  ]
+            },
+            {
+                  "name": "Mount Kenya National Reserve",
+                  "text": "Ez a magasan fekvő természetvédelmi terület sűrű hegyvidéki erdőket és alpesi lápokat foglal magába.",
+                  "category": "natural",
+                  "coords": [
+                        37.334989,
+                        -0.201476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point Lenana",
+                  "text": "Atingând o altitudine de 4.985 de metri, acest vârf proeminent este o destinație majoră pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        37.317762,
+                        -0.155156
+                  ]
+            },
+            {
+                  "name": "Point Melhuish",
+                  "text": "Acest vârf alpin accidentat face parte dintr-un spectaculos masiv vulcanic de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        37.309578,
+                        -0.156651
+                  ]
+            },
+            {
+                  "name": "Point John",
+                  "text": "Acest vârf stâncos abrupt iese puternic în evidență în mijlocul văilor glaciare de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        37.307992,
+                        -0.157931
+                  ]
+            },
+            {
+                  "name": "Midget Peak",
+                  "text": "Acest vârf stâncos cu un nume distinctiv oferă o ascensiune provocatoare în zona alpină.",
+                  "category": "natural",
+                  "coords": [
+                        37.305659,
+                        -0.158504
+                  ]
+            },
+            {
+                  "name": "Mount Kenya National Reserve",
+                  "text": "Această rezervație naturală de mare altitudine cuprinde păduri montane dense și mlaștini alpine.",
+                  "category": "natural",
+                  "coords": [
+                        37.334989,
+                        -0.201476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point Lenana",
+                  "text": "Reaching an elevation of 4,985 meters, this prominent peak is a major destination for alpine trekkers.",
+                  "category": "natural",
+                  "coords": [
+                        37.317762,
+                        -0.155156
+                  ]
+            },
+            {
+                  "name": "Point Melhuish",
+                  "text": "This rugged alpine peak forms part of a spectacular high-altitude volcanic massif.",
+                  "category": "natural",
+                  "coords": [
+                        37.309578,
+                        -0.156651
+                  ]
+            },
+            {
+                  "name": "Point John",
+                  "text": "This steep rocky peak stands out sharply amidst the high-altitude glacial valleys.",
+                  "category": "natural",
+                  "coords": [
+                        37.307992,
+                        -0.157931
+                  ]
+            },
+            {
+                  "name": "Midget Peak",
+                  "text": "This distinctively named rocky peak offers a challenging climb within the alpine zone.",
+                  "category": "natural",
+                  "coords": [
+                        37.305659,
+                        -0.158504
+                  ]
+            },
+            {
+                  "name": "Mount Kenya National Reserve",
+                  "text": "This high-altitude nature reserve encompasses dense montane forests and alpine moorlands.",
+                  "category": "natural",
+                  "coords": [
+                        37.334989,
+                        -0.201476
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KE-20",
     coords: [37.3083, -0.1522],
@@ -178,7 +367,52 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Fait partie du système Athi-Galana-Sabaki", "Prend sa source dans les hautes terres au sud-est de Nairobi", "Prend les noms de Galana puis Sabaki en aval", "Important pour l'irrigation et l'élevage", "Transporte d'importantes quantités de sédiments", "Peut connaître des crues soudaines après la pluie", "Se jette dans l'océan sous le nom de Sabaki sur la côte"],
     }, image: "/poi-images/athiriver-nature-v2.webp"},
   {
-    id: "tana-river-nature-v2",
+    id: "tana-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ungwana Ruins",
+                  "text": "Die archäologischen Überreste einer alten Swahili-Handelssiedlung in der Nähe des Flussdeltas.",
+                  "category": "historical",
+                  "coords": [
+                        40.54661,
+                        -2.530157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ungwana Ruins",
+                  "text": "Egy ősi szuahéli kereskedelmi település régészeti maradványai a folyódelta közelében.",
+                  "category": "historical",
+                  "coords": [
+                        40.54661,
+                        -2.530157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ungwana Ruins",
+                  "text": "Rămășițele arheologice ale unei vechi așezări comerciale Swahili situate lângă delta râului.",
+                  "category": "historical",
+                  "coords": [
+                        40.54661,
+                        -2.530157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ungwana Ruins",
+                  "text": "The archaeological remains of an ancient Swahili trading settlement located near the river delta.",
+                  "category": "historical",
+                  "coords": [
+                        40.54661,
+                        -2.530157
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KE-26",
     coords: [40.5, -2.5],
@@ -248,7 +482,196 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Lac de soude peu profond dans la vallée du Rift", "Fait partie du parc national de Nakuru", "Célèbre pour les flamants roses sur ses rives", "Zone de protection majeure pour les rhinocéros", "Sensible aux variations du niveau de l'eau", "Les algues déterminent la couleur et la chaîne alimentaire", "Le paysage environnant est très sec"],
     }, image: "/poi-images/lake-nakuru-nature-v2.webp"},
   {
-    id: "lake-bogoria-nature-v2",
+    id: "lake-bogoria-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maji Moto Hot Springs",
+                  "text": "Die heißen Quellen von Maji Moto zeichnen sich durch dampfendes, geothermisch erhitztes Wasser aus, das in der Nähe der Ufer des Lake Bogoria sprudelt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.045345,
+                        0.264632
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "Diese aktiven heißen Quellen bieten mit kochendem Wasser und aufsteigendem Dampf entlang des alkalischen Bogoria-Sees ein beeindruckendes Schauspiel geothermischer Energie.",
+                  "category": "landmark",
+                  "coords": [
+                        36.09249,
+                        0.229454
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria viewpoint",
+                  "text": "Der Aussichtspunkt am Lake Bogoria bietet einen weiten Panoramablick über den flachen alkalischen See, der oft von Tausenden von Flamingos rosa gefärbt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.136801,
+                        0.220649
+                  ]
+            },
+            {
+                  "name": "Hannington View Point",
+                  "text": "Der Hannington View Point überblickt die von Geysiren übersäte Landschaft des Lake Bogoria, der ursprünglich Lake Hannington hieß und im Großen Afrikanischen Grabenbruch liegt.",
+                  "category": "natural",
+                  "coords": [
+                        36.13498,
+                        0.18788
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria National Reserve",
+                  "text": "Das Lake Bogoria National Reserve schützt einen wichtigen alkalischen Seelebensraum, der für seine sprudelnden Geysire und riesigen Schwärme von Zwergflamingos bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.102756,
+                        0.259529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maji Moto Hot Springs",
+                  "text": "A Maji Moto hőforrások gőzölgő, geotermikusan fűtött vize a Bogoria-tó partja közelében bugyog a felszínre.",
+                  "category": "landmark",
+                  "coords": [
+                        36.045345,
+                        0.264632
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "Ezek az aktív hőforrások a geotermikus energia lenyűgöző megnyilvánulásai, forrásban lévő vízzel és gőzzel a lúgos Bogoria-tó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        36.09249,
+                        0.229454
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria viewpoint",
+                  "text": "A Bogoria-tó kilátója széles panorámát nyújt a sekély, lúgos tóra, amelyet a flamingók ezrei gyakran rózsaszínre festenek.",
+                  "category": "natural",
+                  "coords": [
+                        36.136801,
+                        0.220649
+                  ]
+            },
+            {
+                  "name": "Hannington View Point",
+                  "text": "A Hannington-kilátóból a Nagy-hasadékvölgyben fekvő, eredetileg Hannington-tóként ismert Bogoria-tó gejzírekkel pettyezett tájára nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        36.13498,
+                        0.18788
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria National Reserve",
+                  "text": "A Bogoria-tó Nemzeti Rezervátum egy létfontosságú lúgos tavi élőhelyet véd, amely feltörő gejzírjeiről és a kis flamingók hatalmas csapatairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        36.102756,
+                        0.259529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maji Moto Hot Springs",
+                  "text": "Izvoarele termale Maji Moto prezintă ape aburinde, încălzite geotermal, care bolborosesc lângă țărmurile Lacului Bogoria.",
+                  "category": "landmark",
+                  "coords": [
+                        36.045345,
+                        0.264632
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "Aceste izvoare termale active oferă o demonstrație impresionantă de energie geotermală, cu apă clocotită și aburi ridicându-se de-a lungul Lacului alcalin Bogoria.",
+                  "category": "landmark",
+                  "coords": [
+                        36.09249,
+                        0.229454
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria viewpoint",
+                  "text": "Punctul de belvedere al Lacului Bogoria oferă o vedere panoramică vastă asupra lacului alcalin de mică adâncime, adesea colorat în roz de mii de păsări flamingo.",
+                  "category": "natural",
+                  "coords": [
+                        36.136801,
+                        0.220649
+                  ]
+            },
+            {
+                  "name": "Hannington View Point",
+                  "text": "Punctul de belvedere Hannington oferă o vedere spre peisajul plin de gheizere al Lacului Bogoria, cunoscut inițial sub numele de Lacul Hannington, situat în Marele Rift African.",
+                  "category": "natural",
+                  "coords": [
+                        36.13498,
+                        0.18788
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria National Reserve",
+                  "text": "Rezervația Națională Lacul Bogoria protejează un habitat vital de lac alcalin, renumit pentru gheizerele sale țâșnitoare și stolurile masive de flamingo pitic.",
+                  "category": "natural",
+                  "coords": [
+                        36.102756,
+                        0.259529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maji Moto Hot Springs",
+                  "text": "Maji Moto Hot Springs feature steaming, geothermally heated waters bubbling up near the shores of Lake Bogoria.",
+                  "category": "landmark",
+                  "coords": [
+                        36.045345,
+                        0.264632
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "These active hot springs offer a striking display of geothermal energy, with boiling water and steam rising along the alkaline Lake Bogoria.",
+                  "category": "landmark",
+                  "coords": [
+                        36.09249,
+                        0.229454
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria viewpoint",
+                  "text": "The Lake Bogoria viewpoint provides a sweeping panoramic look over the shallow alkaline lake, frequently tinged pink by thousands of flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        36.136801,
+                        0.220649
+                  ]
+            },
+            {
+                  "name": "Hannington View Point",
+                  "text": "Hannington View Point overlooks the geyser-dotted landscape of Lake Bogoria, originally known as Lake Hannington, nestled in the Great Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        36.13498,
+                        0.18788
+                  ]
+            },
+            {
+                  "name": "Lake Bogoria National Reserve",
+                  "text": "Lake Bogoria National Reserve protects a vital alkaline lake habitat renowned for its spurting geysers and massive flocks of lesser flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        36.102756,
+                        0.259529
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KE-30",
     coords: [36.1, 0.2333],
@@ -318,7 +741,160 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Complexe hydrique et forestier majeur de l'Ouest kenyan", "Les forêts de montagne stockent les précipitations", "Alimente plusieurs rivières des hautes terres de l'Ouest", "Zone cruciale de lutte contre l'érosion des sols", "Abrite des vestiges de forêts primaires menacées", "Essentiel pour l'agriculture et le cycle de l'eau", "Situé entre le bassin du Rift et celui du lac Victoria"],
     }, image: "/poi-images/cherangani-hills-nature-v2.webp"},
   {
-    id: "laikipia-plateau-nature-v2",
+    id: "laikipia-plateau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ol Jogi Conservancy",
+                  "text": "Das Ol Jogi Conservancy ist ein riesiges Tierschutzgebiet in den Grasebenen des Laikipia-Plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        37.000273,
+                        0.310756
+                  ]
+            },
+            {
+                  "name": "El Karama Ranch",
+                  "text": "Die El Karama Ranch fungiert sowohl als Rinderfarm als auch als Schutzgebiet für Wildtiere in einem trockenen Savannenökosystem.",
+                  "category": "natural",
+                  "coords": [
+                        36.920038,
+                        0.213487
+                  ]
+            },
+            {
+                  "name": "Naserian Wildlife Conservancy",
+                  "text": "Das Naserian Wildlife Conservancy konzentriert sich auf den Erhalt des natürlichen Lebensraums und der Migrationsrouten großer Savannensäugetiere.",
+                  "category": "natural",
+                  "coords": [
+                        36.987063,
+                        0.165339
+                  ]
+            },
+            {
+                  "name": "Enasoit Conservancy",
+                  "text": "Das Enasoit Conservancy bietet einen geschützten natürlichen Korridor für Elefanten und andere Wildtiere in der Laikipia-Region.",
+                  "category": "natural",
+                  "coords": [
+                        37.074254,
+                        0.252417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ol Jogi Conservancy",
+                  "text": "Az Ol Jogi Conservancy egy hatalmas vadvédelmi terület, amely a Laikipia-fennsík füves síkságain fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        37.000273,
+                        0.310756
+                  ]
+            },
+            {
+                  "name": "El Karama Ranch",
+                  "text": "Az El Karama Ranch egyaránt működik szarvasmarhafarmként és vadvédelmi rezervátumként egy száraz szavanna ökoszisztémán belül.",
+                  "category": "natural",
+                  "coords": [
+                        36.920038,
+                        0.213487
+                  ]
+            },
+            {
+                  "name": "Naserian Wildlife Conservancy",
+                  "text": "A Naserian Wildlife Conservancy a nagy szavannai emlősök természetes élőhelyének és vonulási útvonalainak megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        36.987063,
+                        0.165339
+                  ]
+            },
+            {
+                  "name": "Enasoit Conservancy",
+                  "text": "Az Enasoit Conservancy védett természetes folyosót kínál a Laikipia régióban barangoló elefántok és más vadon élő állatok számára.",
+                  "category": "natural",
+                  "coords": [
+                        37.074254,
+                        0.252417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ol Jogi Conservancy",
+                  "text": "Ol Jogi Conservancy este o vastă zonă de protecție a faunei sălbatice situată pe câmpiile ierboase ale platoului Laikipia.",
+                  "category": "natural",
+                  "coords": [
+                        37.000273,
+                        0.310756
+                  ]
+            },
+            {
+                  "name": "El Karama Ranch",
+                  "text": "Ferma El Karama funcționează atât ca fermă de vite, cât și ca sanctuar al faunei sălbatice într-un ecosistem de savană uscată.",
+                  "category": "natural",
+                  "coords": [
+                        36.920038,
+                        0.213487
+                  ]
+            },
+            {
+                  "name": "Naserian Wildlife Conservancy",
+                  "text": "Naserian Wildlife Conservancy se concentrează pe conservarea habitatului natural și a rutelor de migrație ale marilor mamifere de savană.",
+                  "category": "natural",
+                  "coords": [
+                        36.987063,
+                        0.165339
+                  ]
+            },
+            {
+                  "name": "Enasoit Conservancy",
+                  "text": "Enasoit Conservancy oferă un coridor natural protejat pentru elefanți și alte animale sălbatice din regiunea Laikipia.",
+                  "category": "natural",
+                  "coords": [
+                        37.074254,
+                        0.252417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ol Jogi Conservancy",
+                  "text": "The Ol Jogi Conservancy is a vast wildlife protection area situated on the grassy plains of the Laikipia Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        37.000273,
+                        0.310756
+                  ]
+            },
+            {
+                  "name": "El Karama Ranch",
+                  "text": "El Karama Ranch acts as both a working cattle farm and a wildlife sanctuary within a dry savanna ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        36.920038,
+                        0.213487
+                  ]
+            },
+            {
+                  "name": "Naserian Wildlife Conservancy",
+                  "text": "Naserian Wildlife Conservancy focuses on preserving the natural habitat and migratory routes of large savanna mammals.",
+                  "category": "natural",
+                  "coords": [
+                        36.987063,
+                        0.165339
+                  ]
+            },
+            {
+                  "name": "Enasoit Conservancy",
+                  "text": "Enasoit Conservancy offers a protected natural corridor for elephants and other wildlife roaming the Laikipia region.",
+                  "category": "natural",
+                  "coords": [
+                        37.074254,
+                        0.252417
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "KE-20",
     coords: [37.0, 0.25],
@@ -353,7 +929,376 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Situé entre Aberdare et le Mont Kenya", "Haut plateau au caractère de savane semi-aride", "Connu pour ses réserves (conservancies) et ses ranchs", "D'importants corridors pour la faune traversent la région", "L'eau est une ressource rare", "Important pour l'élevage et les zones protégées", "Exemple de coexistence entre exploitation et protection de la nature"],
     }, image: "/poi-images/laikipia-plateau-nature-v2.webp"},
   {
-    id: "lake-naivasha-nature-v2",
+    id: "lake-naivasha-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo Point Boat Riding",
+                  "text": "Eine Bootstour auf dem Naivashasee, bei der Besucher Flusspferde in ihrem natürlichen Süßwasserlebensraum betrachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324039,
+                        -0.81547
+                  ]
+            },
+            {
+                  "name": "Fake entrance. Don’t hire guides and bikes in here",
+                  "text": "Ein inoffizieller Zugangsbereich in der Naturkulisse am Naivashasee, bei dem Touristen vor unautorisierten Guides gewarnt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        36.362267,
+                        -0.838145
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "Ein landschaftlich reizvoller Aussichtspunkt am Naivashasee, an dem man grasende Zebras und Giraffen in der Savanne beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        36.434578,
+                        -0.736009
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "Der Startpunkt für geführte Bootsausflüge über das Süßwasser des Naivashasees zur Vogel- und Wildtierbeobachtung.",
+                  "category": "landmark",
+                  "coords": [
+                        36.424255,
+                        -0.763275
+                  ]
+            },
+            {
+                  "name": "Nice tree",
+                  "text": "Ein besonders großer, alter Akazienbaum am Ufer des Naivashasees, der als markanter natürlicher Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.426226,
+                        -0.785044
+                  ]
+            },
+            {
+                  "name": "Crescent Island Museum",
+                  "text": "Ein kleines Museum auf Crescent Island im Naivashasee, das Exponate zur lokalen Ökologie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        36.406122,
+                        -0.775001
+                  ]
+            },
+            {
+                  "name": "Elsamere Nature Reserve",
+                  "text": "Das ehemalige Zuhause von Joy Adamson, das heute als Naturschutzgebiet für Schwarz-weiße Stummelaffen am Naivashasee dient.",
+                  "category": "natural",
+                  "coords": [
+                        36.316324,
+                        -0.814636
+                  ]
+            },
+            {
+                  "name": "Elsa Gate",
+                  "text": "Ein markantes steinernes Tor am Naivashasee, das in den Hell's Gate Nationalpark führt und nach der Löwin Elsa benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.369027,
+                        -0.852551
+                  ]
+            },
+            {
+                  "name": "Karagita Public Beach",
+                  "text": "Ein öffentlicher Sandstrand am Süßwasser des Naivashasees, der zum Angeln und für kleine Bootsfahrten genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        36.425797,
+                        -0.762038
+                  ]
+            },
+            {
+                  "name": "Crescent Island Widlife Sanctuary",
+                  "text": "Ein halbinselartiges Schutzgebiet im Naivashasee, wo Besucher zwischen freilaufenden Wildtieren wie Giraffen spazieren können.",
+                  "category": "natural",
+                  "coords": [
+                        36.409741,
+                        -0.7789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo Point Boat Riding",
+                  "text": "Csónaktúra a Naivasha-tavon, amelynek során a látogatók vízilovakat figyelhetnek meg természetes édesvízi élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324039,
+                        -0.81547
+                  ]
+            },
+            {
+                  "name": "Fake entrance. Don’t hire guides and bikes in here",
+                  "text": "Egy nem hivatalos bejárat a Naivasha-tó természeti környezetében, ahol a turistákat figyelmeztetik az illetéktelen idegenvezetőkre.",
+                  "category": "landmark",
+                  "coords": [
+                        36.362267,
+                        -0.838145
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "Egy festői kilátópont a Naivasha-tó közelében, ahol legelésző zebrákat és zsiráfokat lehet megfigyelni a szavannán.",
+                  "category": "natural",
+                  "coords": [
+                        36.434578,
+                        -0.736009
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "A vezetett csónaktúrák indulási pontja a Naivasha-tó édesvizén, madár- és vadvilág megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        36.424255,
+                        -0.763275
+                  ]
+            },
+            {
+                  "name": "Nice tree",
+                  "text": "Egy különösen nagy, öreg akácfa a Naivasha-tó partján, amely jellegzetes természetes tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        36.426226,
+                        -0.785044
+                  ]
+            },
+            {
+                  "name": "Crescent Island Museum",
+                  "text": "Egy kis múzeum a Crescent-szigeten, a Naivasha-tóban, amely a helyi ökológiával kapcsolatos kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        36.406122,
+                        -0.775001
+                  ]
+            },
+            {
+                  "name": "Elsamere Nature Reserve",
+                  "text": "Joy Adamson egykori otthona, amely ma természetvédelmi területként szolgál a fekete-fehér kolobuszmajmok számára a Naivasha-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        36.316324,
+                        -0.814636
+                  ]
+            },
+            {
+                  "name": "Elsa Gate",
+                  "text": "Egy jellegzetes kőkapu a Naivasha-tó közelében, amely a Hell's Gate Nemzeti Parkba vezet, és Elsa oroszlánról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        36.369027,
+                        -0.852551
+                  ]
+            },
+            {
+                  "name": "Karagita Public Beach",
+                  "text": "Nyilvános homokos strand a Naivasha-tó édesvizénél, amelyet horgászatra és csónakázásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        36.425797,
+                        -0.762038
+                  ]
+            },
+            {
+                  "name": "Crescent Island Widlife Sanctuary",
+                  "text": "Egy félszigetszerű védett terület a Naivasha-tóban, ahol a látogatók szabadon kószáló vadon élő állatok, például zsiráfok között sétálhatnak.",
+                  "category": "natural",
+                  "coords": [
+                        36.409741,
+                        -0.7789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo Point Boat Riding",
+                  "text": "O plimbare cu barca pe Lacul Naivasha, permițând vizitatorilor să observe hipopotamii în habitatul lor de apă dulce.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324039,
+                        -0.81547
+                  ]
+            },
+            {
+                  "name": "Fake entrance. Don’t hire guides and bikes in here",
+                  "text": "O zonă de acces neoficială în peisajul natural de la Lacul Naivasha, unde turiștii sunt avertizați în legătură cu ghizii neautorizați.",
+                  "category": "landmark",
+                  "coords": [
+                        36.362267,
+                        -0.838145
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "Un punct de belvedere pitoresc lângă Lacul Naivasha, unde pot fi observate zebre și girafe păscând în savană.",
+                  "category": "natural",
+                  "coords": [
+                        36.434578,
+                        -0.736009
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "Punctul de plecare pentru excursii ghidate cu barca pe apele dulci ale Lacului Naivasha pentru observarea păsărilor și faunei sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        36.424255,
+                        -0.763275
+                  ]
+            },
+            {
+                  "name": "Nice tree",
+                  "text": "Un copac de salcâm deosebit de mare și bătrân pe malul Lacului Naivasha, servind ca un punct de reper natural proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        36.426226,
+                        -0.785044
+                  ]
+            },
+            {
+                  "name": "Crescent Island Museum",
+                  "text": "Un mic muzeu pe Insula Crescent din Lacul Naivasha, prezentând expoziții despre ecologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        36.406122,
+                        -0.775001
+                  ]
+            },
+            {
+                  "name": "Elsamere Nature Reserve",
+                  "text": "Fosta casă a lui Joy Adamson, acum servind ca rezervație naturală pentru maimuțele colobus alb cu negru de la Lacul Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.316324,
+                        -0.814636
+                  ]
+            },
+            {
+                  "name": "Elsa Gate",
+                  "text": "O poartă de piatră proeminentă lângă Lacul Naivasha, care duce în Parcul Național Hell's Gate și poartă numele leoaicei Elsa.",
+                  "category": "landmark",
+                  "coords": [
+                        36.369027,
+                        -0.852551
+                  ]
+            },
+            {
+                  "name": "Karagita Public Beach",
+                  "text": "O plajă publică de nisip pe apele dulci ale Lacului Naivasha, folosită pentru pescuit și plimbări cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        36.425797,
+                        -0.762038
+                  ]
+            },
+            {
+                  "name": "Crescent Island Widlife Sanctuary",
+                  "text": "O rezervație în formă de peninsulă în Lacul Naivasha, unde vizitatorii pot merge pe jos printre animale sălbatice, cum ar fi girafe, care se plimbă liber.",
+                  "category": "natural",
+                  "coords": [
+                        36.409741,
+                        -0.7789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo Point Boat Riding",
+                  "text": "A boat trip on Lake Naivasha allowing visitors to observe hippos in their natural freshwater habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324039,
+                        -0.81547
+                  ]
+            },
+            {
+                  "name": "Fake entrance. Don’t hire guides and bikes in here",
+                  "text": "An unofficial access area in the natural setting of Lake Naivasha where tourists are cautioned against unauthorized guides.",
+                  "category": "landmark",
+                  "coords": [
+                        36.362267,
+                        -0.838145
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "A scenic viewpoint near Lake Naivasha where grazing zebras and giraffes can be observed in the savanna.",
+                  "category": "natural",
+                  "coords": [
+                        36.434578,
+                        -0.736009
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "The starting point for guided boat excursions across the freshwater of Lake Naivasha for bird and wildlife watching.",
+                  "category": "landmark",
+                  "coords": [
+                        36.424255,
+                        -0.763275
+                  ]
+            },
+            {
+                  "name": "Nice tree",
+                  "text": "A particularly large, old acacia tree on the shores of Lake Naivasha serving as a prominent natural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        36.426226,
+                        -0.785044
+                  ]
+            },
+            {
+                  "name": "Crescent Island Museum",
+                  "text": "A small museum on Crescent Island in Lake Naivasha showcasing exhibits on the local ecology.",
+                  "category": "museum",
+                  "coords": [
+                        36.406122,
+                        -0.775001
+                  ]
+            },
+            {
+                  "name": "Elsamere Nature Reserve",
+                  "text": "The former home of Joy Adamson, now serving as a nature reserve for black-and-white colobus monkeys at Lake Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.316324,
+                        -0.814636
+                  ]
+            },
+            {
+                  "name": "Elsa Gate",
+                  "text": "A prominent stone gate near Lake Naivasha leading into Hell's Gate National Park, named after Elsa the lioness.",
+                  "category": "landmark",
+                  "coords": [
+                        36.369027,
+                        -0.852551
+                  ]
+            },
+            {
+                  "name": "Karagita Public Beach",
+                  "text": "A public sandy beach on the freshwater of Lake Naivasha used for fishing and boat rides.",
+                  "category": "recreational",
+                  "coords": [
+                        36.425797,
+                        -0.762038
+                  ]
+            },
+            {
+                  "name": "Crescent Island Widlife Sanctuary",
+                  "text": "A peninsular sanctuary in Lake Naivasha where visitors can walk among free-roaming wildlife like giraffes.",
+                  "category": "natural",
+                  "coords": [
+                        36.409741,
+                        -0.7789
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KE-26",
     coords: [36.3667, -0.7833],
@@ -388,7 +1333,196 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Lac d'eau douce célèbre dans la vallée du Rift", "Situé dans un bassin géothermiquement actif", "Les hippopotames sont fréquents sur les rives", "Crescent Island est une destination connue", "La floriculture marque l'économie riveraine", "Olkaria est situé à proximité", "Habitat important pour de nombreux oiseaux aquatiques"],
     }, image: "/poi-images/lake-naivasha-nature-v2.webp"},
   {
-    id: "aberdare-range-nature-v2",
+    id: "aberdare-range-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chania Waterfall",
+                  "text": "Ein natürlicher Kaskadenwasserfall, der innerhalb der bewaldeten Aberdare-Kette fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.716853,
+                        -0.454714
+                  ]
+            },
+            {
+                  "name": "Magura Falls",
+                  "text": "Ein malerischer Wasserfall inmitten der üppigen Aberdare-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        36.709225,
+                        -0.487064
+                  ]
+            },
+            {
+                  "name": "Sundowner Viewpoint",
+                  "text": "Ein erhöhter Aussichtspunkt in der Aberdare-Kette, der einen Panoramablick auf den Sonnenuntergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.727601,
+                        -0.481047
+                  ]
+            },
+            {
+                  "name": "Kiandongoro Gate Aberdare NP",
+                  "text": "Ein offizieller Zugang und ein Tor, das in den Aberdare-Nationalpark führt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.735357,
+                        -0.477804
+                  ]
+            },
+            {
+                  "name": "Aberdares National Park",
+                  "text": "Ein geschütztes Naturschutzgebiet, das vielfältige Lebensräume in der Aberdare-Kette umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        36.679837,
+                        -0.379175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chania Waterfall",
+                  "text": "Természetes, lépcsőzetes vízesés az erdős Aberdare-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.716853,
+                        -0.454714
+                  ]
+            },
+            {
+                  "name": "Magura Falls",
+                  "text": "Festői vízesés, amely a buja Aberdare-hegységben fészkelt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.709225,
+                        -0.487064
+                  ]
+            },
+            {
+                  "name": "Sundowner Viewpoint",
+                  "text": "Kiemelt kilátópont az Aberdare-hegységben, amely panorámás kilátást nyújt a naplementére.",
+                  "category": "natural",
+                  "coords": [
+                        36.727601,
+                        -0.481047
+                  ]
+            },
+            {
+                  "name": "Kiandongoro Gate Aberdare NP",
+                  "text": "Hivatalos belépési pont és kapu, amely az Aberdare Nemzeti Parkba vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.735357,
+                        -0.477804
+                  ]
+            },
+            {
+                  "name": "Aberdares National Park",
+                  "text": "Védett természeti rezervátum, amely változatos élőhelyeket foglal magában az Aberdare-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        36.679837,
+                        -0.379175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chania Waterfall",
+                  "text": "O cascadă naturală care curge în interiorul împădurit al Lanțului Aberdare.",
+                  "category": "landmark",
+                  "coords": [
+                        36.716853,
+                        -0.454714
+                  ]
+            },
+            {
+                  "name": "Magura Falls",
+                  "text": "O cascadă pitorească situată în inima luxuriantului Lanț Aberdare.",
+                  "category": "landmark",
+                  "coords": [
+                        36.709225,
+                        -0.487064
+                  ]
+            },
+            {
+                  "name": "Sundowner Viewpoint",
+                  "text": "Un punct de belvedere la altitudine în Lanțul Aberdare, care oferă vederi panoramice la apus.",
+                  "category": "natural",
+                  "coords": [
+                        36.727601,
+                        -0.481047
+                  ]
+            },
+            {
+                  "name": "Kiandongoro Gate Aberdare NP",
+                  "text": "Un punct oficial de intrare și o poartă care duce în Parcul Național Aberdare.",
+                  "category": "landmark",
+                  "coords": [
+                        36.735357,
+                        -0.477804
+                  ]
+            },
+            {
+                  "name": "Aberdares National Park",
+                  "text": "O rezervație naturală protejată care cuprinde habitate diverse în Lanțul Aberdare.",
+                  "category": "natural",
+                  "coords": [
+                        36.679837,
+                        -0.379175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chania Waterfall",
+                  "text": "A natural cascading waterfall flowing within the forested Aberdare Range.",
+                  "category": "landmark",
+                  "coords": [
+                        36.716853,
+                        -0.454714
+                  ]
+            },
+            {
+                  "name": "Magura Falls",
+                  "text": "A picturesque waterfall attraction nestled in the lush Aberdare Range.",
+                  "category": "landmark",
+                  "coords": [
+                        36.709225,
+                        -0.487064
+                  ]
+            },
+            {
+                  "name": "Sundowner Viewpoint",
+                  "text": "An elevated viewpoint in the Aberdare Range offering panoramic sunset views.",
+                  "category": "natural",
+                  "coords": [
+                        36.727601,
+                        -0.481047
+                  ]
+            },
+            {
+                  "name": "Kiandongoro Gate Aberdare NP",
+                  "text": "An official entry point and gate leading into the Aberdare National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        36.735357,
+                        -0.477804
+                  ]
+            },
+            {
+                  "name": "Aberdares National Park",
+                  "text": "A protected nature reserve encompassing diverse habitats in the Aberdare Range.",
+                  "category": "natural",
+                  "coords": [
+                        36.679837,
+                        -0.379175
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KE-20",
     coords: [36.7, -0.4],
@@ -458,7 +1592,52 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Lac de soude extrêmement alcalin dans le sud de la vallée du Rift", "Des étendues de trona et de sel marquent la rive", "Important économiquement pour l'extraction de soude", "Climat très chaud et sec", "Les flamants roses fréquentent temporairement le lac", "Le paysage rappelle un désert minéral en période de sécheresse", "Situé près de la frontière tanzanienne"],
     }, image: "/poi-images/lake-magadi-nature-v2.webp"},
   {
-    id: "mara-river-nature-v2",
+    id: "mara-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyamaguku small gold mine",
+                  "text": "Diese traditionelle kleine Goldmine in der Nähe des Mara-Flusses zeigt lokale handwerkliche Bergbautechniken.",
+                  "category": "landmark",
+                  "coords": [
+                        33.979406,
+                        -1.426065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyamaguku small gold mine",
+                  "text": "Ez a Mara folyó közelében található hagyományos kis aranybánya a helyi kézműves bányászati technikákat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        33.979406,
+                        -1.426065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyamaguku small gold mine",
+                  "text": "Această mică mină tradițională de aur din apropierea râului Mara prezintă tehnicile artizanale locale de minerit.",
+                  "category": "landmark",
+                  "coords": [
+                        33.979406,
+                        -1.426065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyamaguku small gold mine",
+                  "text": "This small-scale, traditional gold mine near the Mara River showcases local artisanal mining techniques.",
+                  "category": "landmark",
+                  "coords": [
+                        33.979406,
+                        -1.426065
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KE-33",
     coords: [34.0, -1.5],
@@ -563,7 +1742,52 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Massif volcanique à la frontière entre le Kenya et l'Ouganda", "Connu pour sa grande caldeira", "Wagagai est le sommet le plus élevé", "La grotte Kitum fait partie des grottes célèbres", "Réservoir d'eau important pour la région", "Forêt de montagne et bambous caractérisent les pentes", "Espace naturel transfrontalier"],
     }, image: "/poi-images/elgon-mountain-nature-v2.webp"},
   {
-    id: "yala-river-nature-v2",
+    id: "yala-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thogoe Beach/Usenge",
+                  "text": "Thogoe Beach/Usenge ist eine ruhige Sandattraktion am Ufer des Yala-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        34.039663,
+                        -0.051557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thogoe Beach/Usenge",
+                  "text": "A Thogoe Beach/Usenge egy nyugodt homokos látványosság a Yala-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        34.039663,
+                        -0.051557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thogoe Beach/Usenge",
+                  "text": "Plaja Thogoe/Usenge este o atracție de nisip liniștită, situată pe malurile râului Yala.",
+                  "category": "landmark",
+                  "coords": [
+                        34.039663,
+                        -0.051557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thogoe Beach/Usenge",
+                  "text": "Thogoe Beach/Usenge is a tranquil sandy attraction lying along the shores near the Yala River.",
+                  "category": "landmark",
+                  "coords": [
+                        34.039663,
+                        -0.051557
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KE-43",
     coords: [34.0, 0.0],
@@ -668,7 +1892,52 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Grande rivière de l'ouest du Kenya", "Coule vers le lac Victoria", "Importante pour la culture de la canne à sucre et du riz", "Peut provoquer des inondations pendant les saisons des pluies", "Draine des régions fertiles des hauts plateaux", "Significative pour l'irrigation et l'agriculture", "Relie les hauts plateaux et les plaines alluviales"],
     }, image: "/poi-images/nzoia-river-nature-v2.webp"},
   {
-    id: "lake-baringo-nature-v2",
+    id: "lake-baringo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilchamus Cultural Center",
+                  "text": "Das Ilchamus Cultural Center in der Nähe des Baringosees präsentiert die traditionelle Architektur, das Kunsthandwerk und den pastoralen Lebensstil des indigenen Volkes der Ilchamus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.997399,
+                        0.576203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilchamus Cultural Center",
+                  "text": "A Baringo-tó melletti Ilchamus Kulturális Központ a bennszülött ilchamus nép hagyományos építészetét, mesterségeit és pásztorkodó életmódját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        35.997399,
+                        0.576203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilchamus Cultural Center",
+                  "text": "Centrul Cultural Ilchamus de lângă Lacul Baringo prezintă arhitectura tradițională, meșteșugurile și stilul de viață pastoral al poporului indigen Ilchamus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.997399,
+                        0.576203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilchamus Cultural Center",
+                  "text": "The Ilchamus Cultural Center near Lake Baringo showcases the traditional architecture, crafts, and pastoral lifestyle of the indigenous Ilchamus people.",
+                  "category": "landmark",
+                  "coords": [
+                        35.997399,
+                        0.576203
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.6],
@@ -703,7 +1972,52 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Lac d'eau douce dans la vallée du Rift", "Connu pour ses îles et son avifaune", "Habitat pour les hippopotames et les crocodiles", "Pêche importante pour les habitants", "Pas alcalin en permanence comme beaucoup d'autres lacs du Rift", "Fortement dépendant de l'érosion et du niveau de l'eau", "Situé dans un paysage sec et ouvert"],
     }, image: "/poi-images/lake-baringo-nature-v2.webp"},
   {
-    id: "mt-kulal-nature-v2",
+    id: "mt-kulal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Kulal",
+                  "text": "Der Mount Kulal ist ein erodierter vulkanischer Gipfel mit einem tiefen Krater und einem Biosphärenreservat, das für seinen einzigartigen Bergwald bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.927533,
+                        2.730094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Kulal",
+                  "text": "A Kulal-hegy egy erodált vulkáni csúcs, amely mély kráterrel és a különleges hegyi erdejéről ismert bioszféra-rezervátummal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        36.927533,
+                        2.730094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Kulal",
+                  "text": "Muntele Kulal este un vârf vulcanic erodat care prezintă un crater adânc și o rezervație a biosferei cunoscută pentru pădurea sa montană unică.",
+                  "category": "natural",
+                  "coords": [
+                        36.927533,
+                        2.730094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Kulal",
+                  "text": "Mount Kulal is an eroded volcanic peak featuring a deep crater and a biosphere reserve known for its unique montane forest.",
+                  "category": "natural",
+                  "coords": [
+                        36.927533,
+                        2.730094
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KE-25",
     coords: [36.9, 2.7],
@@ -773,7 +2087,160 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Situé dans la Kerio Valley", "Les fluctuations saisonnières du niveau de l'eau sont typiques", "Habitat important pour les oiseaux et les reptiles", "Sensible à l'ensablement", "Fait partie d'un environnement aride du Rift", "Étroitement lié au système fluvial du Kerio", "Zone humide rare dans la région"],
     }, image: "/poi-images/lake-kamnarok-nature-v2.webp"},
   {
-    id: "mt-longonot-nature-v2",
+    id: "mt-longonot-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Longonot National Park Main Gate",
+                  "text": "Dieses Haupttor bietet Zugang zu den Wanderwegen, die die Hänge des Mount Longonot hinaufführen.",
+                  "category": "natural",
+                  "coords": [
+                        36.474427,
+                        -0.889027
+                  ]
+            },
+            {
+                  "name": "Lake Viewpoint",
+                  "text": "Dieser malerische Aussichtspunkt am Wanderweg bietet weite Panoramablicke auf den Lake Naivasha im Großen Afrikanischen Grabenbruch.",
+                  "category": "natural",
+                  "coords": [
+                        36.461458,
+                        -0.903981
+                  ]
+            },
+            {
+                  "name": "Longonot National Park",
+                  "text": "Dieses Naturschutzgebiet umgibt einen ruhenden Schichtvulkan und zeichnet sich durch ein vielfältiges Ökosystem im Krater aus.",
+                  "category": "natural",
+                  "coords": [
+                        36.456559,
+                        -0.909991
+                  ]
+            },
+            {
+                  "name": "Mount Longonot",
+                  "text": "Dieser ruhende Schichtvulkan im Großen Afrikanischen Grabenbruch besitzt eine markante Caldera mit dichtem Wald im Inneren.",
+                  "category": "natural",
+                  "coords": [
+                        36.447293,
+                        -0.916167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Longonot National Park Main Gate",
+                  "text": "Ez a főkapu biztosít hozzáférést a Mount Longonot lejtőin felfelé vezető túraútvonalakhoz.",
+                  "category": "natural",
+                  "coords": [
+                        36.474427,
+                        -0.889027
+                  ]
+            },
+            {
+                  "name": "Lake Viewpoint",
+                  "text": "Ez a túraútvonalon található festői kilátóhely széles panorámát nyújt a Nagy-hasadékvölgyben fekvő Naivasha-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        36.461458,
+                        -0.903981
+                  ]
+            },
+            {
+                  "name": "Longonot National Park",
+                  "text": "Ez a védett rezervátum egy szunnyadó rétegvulkánt vesz körül, amelynek kráterében és oldalain változatos ökoszisztéma található.",
+                  "category": "natural",
+                  "coords": [
+                        36.456559,
+                        -0.909991
+                  ]
+            },
+            {
+                  "name": "Mount Longonot",
+                  "text": "Ez a Nagy-hasadékvölgyben található szunnyadó rétegvulkán kiemelkedő kalderával rendelkezik, amelynek belsejében sűrű erdő nő.",
+                  "category": "natural",
+                  "coords": [
+                        36.447293,
+                        -0.916167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Longonot National Park Main Gate",
+                  "text": "Această poartă principală de intrare oferă acces la traseele de drumeții care duc pe pantele Muntelui Longonot.",
+                  "category": "natural",
+                  "coords": [
+                        36.474427,
+                        -0.889027
+                  ]
+            },
+            {
+                  "name": "Lake Viewpoint",
+                  "text": "Acest punct de belvedere pitoresc de pe traseul de drumeții oferă panorame ample ale lacului Naivasha din Marea Vale a Riftului.",
+                  "category": "natural",
+                  "coords": [
+                        36.461458,
+                        -0.903981
+                  ]
+            },
+            {
+                  "name": "Longonot National Park",
+                  "text": "Această rezervație protejată înconjoară un stratovulcan adormit, prezentând un ecosistem divers în craterul său și pe flancurile sale.",
+                  "category": "natural",
+                  "coords": [
+                        36.456559,
+                        -0.909991
+                  ]
+            },
+            {
+                  "name": "Mount Longonot",
+                  "text": "Acest stratovulcan adormit din Marea Vale a Riftului are o calderă proeminentă cu o pădure deasă care crește în interior.",
+                  "category": "natural",
+                  "coords": [
+                        36.447293,
+                        -0.916167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Longonot National Park Main Gate",
+                  "text": "This main entrance gate provides access to the hiking trails leading up the slopes of Mount Longonot.",
+                  "category": "natural",
+                  "coords": [
+                        36.474427,
+                        -0.889027
+                  ]
+            },
+            {
+                  "name": "Lake Viewpoint",
+                  "text": "This scenic vantage point on the hiking trail offers sweeping panoramas of Lake Naivasha in the Great Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        36.461458,
+                        -0.903981
+                  ]
+            },
+            {
+                  "name": "Longonot National Park",
+                  "text": "This protected reserve surrounds a dormant stratovolcano, featuring a diverse ecosystem within its crater and on its flanks.",
+                  "category": "natural",
+                  "coords": [
+                        36.456559,
+                        -0.909991
+                  ]
+            },
+            {
+                  "name": "Mount Longonot",
+                  "text": "This dormant stratovolcano in the Great Rift Valley features a prominent caldera with a dense forest growing inside.",
+                  "category": "natural",
+                  "coords": [
+                        36.447293,
+                        -0.916167
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KE-26",
     coords: [36.45, -0.9],
@@ -843,7 +2310,88 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Cours inférieur du système Athi-Galana-Sabaki", "Coule à travers le parc national de Tsavo East", "Également connu sous le nom de Sabaki sur la côte", "Transporte de nombreux sédiments de l'intérieur", "Habitat important pour les crocodiles et la forêt riveraine", "Change radicalement d'aspect selon la saison", "Se jette dans l'océan Indien"],
     }, image: "/poi-images/galana-river-nature-v2.webp"},
   {
-    id: "lake-ol-oropil-nature-v2",
+    id: "lake-ol-oropil-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mangar Geosite",
+                  "text": "Die Mangar Geosite bewahrt einzigartige geologische Formationen und altes vulkanisches Terrain in der Nähe des Ol Oropil-Sees im Grabenbruch.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913931,
+                        0.391752
+                  ]
+            },
+            {
+                  "name": "Kiborgoch Community Wildlife & Wetland Conservancy",
+                  "text": "Dieses von der Gemeinde geführte Feuchtgebiet-Schutzgebiet schützt ein wichtiges aquatisches Ökosystem und dient als Zufluchtsort für eine vielfältige Vogelwelt in der Nähe des Ol-Oropil-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        36.0432,
+                        0.38827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mangar Geosite",
+                  "text": "A Mangar Geosite egyedülálló geológiai képződményeket és ősi vulkáni terepet őriz az Ol Oropil-tó közelében, a Hasadékvölgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913931,
+                        0.391752
+                  ]
+            },
+            {
+                  "name": "Kiborgoch Community Wildlife & Wetland Conservancy",
+                  "text": "Ez a közösség által fenntartott vizesélőhely-rezervátum egy létfontosságú vízi ökoszisztémát véd, és a változatos madárvilág menedékeként szolgál az Ol Oropil-tó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.0432,
+                        0.38827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mangar Geosite",
+                  "text": "Geositul Mangar păstrează formațiuni geologice unice și teren vulcanic antic lângă Lacul Ol Oropil din Valea Riftului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913931,
+                        0.391752
+                  ]
+            },
+            {
+                  "name": "Kiborgoch Community Wildlife & Wetland Conservancy",
+                  "text": "Această rezervație comunitară de zone umede protejează un ecosistem acvatic vital și servește ca refugiu pentru diverse păsări lângă Lacul Ol Oropil.",
+                  "category": "natural",
+                  "coords": [
+                        36.0432,
+                        0.38827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mangar Geosite",
+                  "text": "The Mangar Geosite preserves unique geological formations and ancient volcanic terrain near Lake Ol Oropil in the Rift Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913931,
+                        0.391752
+                  ]
+            },
+            {
+                  "name": "Kiborgoch Community Wildlife & Wetland Conservancy",
+                  "text": "This community-run wetland conservancy protects a vital aquatic ecosystem and serves as a refuge for diverse birdlife near Lake Ol Oropil.",
+                  "category": "natural",
+                  "coords": [
+                        36.0432,
+                        0.38827
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.4],
@@ -878,7 +2426,88 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Petit lac saisonnier dans le comté de Narok", "Situé en bordure de la région du Masai Mara", "Se remplit surtout après de fortes pluies", "Peut devenir une étendue de sel en période sèche", "Source d'eau temporaire cruciale pour le bétail", "Isolé et méconnu des touristes", "Illustre la dynamique des eaux saisonnières"],
     }, image: "/poi-images/lake-ol-oropil-nature-v2.webp"},
   {
-    id: "mt-nyiru-nature-v2",
+    id: "mt-nyiru-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyiro Conservancy",
+                  "text": "Ein geschütztes Naturschutzgebiet, das das raue, bewaldete Bergland des Mount Nyiru umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        36.733539,
+                        2.092226
+                  ]
+            },
+            {
+                  "name": "Nyiro Forest Reserve",
+                  "text": "Das Nyiro-Waldreservat ist ein geschütztes Naturgebiet in der zerklüfteten Landschaft des Mount Nyiru.",
+                  "category": "natural",
+                  "coords": [
+                        36.86022,
+                        2.120628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyiro Conservancy",
+                  "text": "Egy védett természetvédelmi terület, amely a Nyiru-hegy zord, erdős hegyvidéki terepét foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        36.733539,
+                        2.092226
+                  ]
+            },
+            {
+                  "name": "Nyiro Forest Reserve",
+                  "text": "A Nyiro Erdőrezervátum egy védett természeti terület, amely a Mount Nyiru robusztus vidékén terül el.",
+                  "category": "natural",
+                  "coords": [
+                        36.86022,
+                        2.120628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyiro Conservancy",
+                  "text": "O rezervație naturală protejată care cuprinde terenul muntos accidentat și împădurit al Muntelui Nyiru.",
+                  "category": "natural",
+                  "coords": [
+                        36.733539,
+                        2.092226
+                  ]
+            },
+            {
+                  "name": "Nyiro Forest Reserve",
+                  "text": "Rezervația Forestieră Nyiro este o arie naturală protejată situată în peisajul accidentat al Muntelui Nyiru.",
+                  "category": "natural",
+                  "coords": [
+                        36.86022,
+                        2.120628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyiro Conservancy",
+                  "text": "A protected natural reserve encompassing the rugged, forested mountainous terrain of Mount Nyiru.",
+                  "category": "natural",
+                  "coords": [
+                        36.733539,
+                        2.092226
+                  ]
+            },
+            {
+                  "name": "Nyiro Forest Reserve",
+                  "text": "The Nyiro Forest Reserve is a protected natural area situated within the rugged landscape of Mount Nyiru.",
+                  "category": "natural",
+                  "coords": [
+                        36.86022,
+                        2.120628
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KE-25",
     coords: [36.8, 2.1],
@@ -1018,7 +2647,124 @@ export const poiExtraKenyaNatureV2: POI[] = [
       fr: ["Forme la profonde Kerio Valley", "Coule le long de l'escarpement d'Elgeyo", "Source d'eau importante pour les habitants et le bétail", "Débits fortement saisonniers", "Peut présenter des gorges étroites et de larges fonds de vallée", "Les sédiments remodèlent constamment la vallée", "Importante pour l'agriculture dans la zone de la vallée"],
     }, image: "/poi-images/kerio-river-nature-v2.webp"},
   {
-    id: "mt-satima-nature-v2",
+    id: "mt-satima-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "First picnic spot",
+                  "text": "Ein malerischer Rastplatz und Aussichtspunkt im Freien in der Nähe des Mount Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.603225,
+                        -0.403308
+                  ]
+            },
+            {
+                  "name": "Second picnic spot",
+                  "text": "Ein erhöhter Aussichtspunkt und Picknickplatz im Naturgebiet des Mount Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.606278,
+                        -0.398751
+                  ]
+            },
+            {
+                  "name": "Ridge saddle",
+                  "text": "Ein bergiger Aussichtspunkt auf einem geologischen Sattelgrat in der Nähe des Mount Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.560708,
+                        -0.450769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "First picnic spot",
+                  "text": "Festői szabadtéri pihenőhely és kilátópont a Satima-hegy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.603225,
+                        -0.403308
+                  ]
+            },
+            {
+                  "name": "Second picnic spot",
+                  "text": "Kiemelt szabadtéri kilátó és piknikezőhely a Satima-hegy természeti területén.",
+                  "category": "natural",
+                  "coords": [
+                        36.606278,
+                        -0.398751
+                  ]
+            },
+            {
+                  "name": "Ridge saddle",
+                  "text": "Hegyi kilátópont egy geológiai nyereggerincen a Satima-hegy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.560708,
+                        -0.450769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "First picnic spot",
+                  "text": "O zonă pitorească de odihnă în aer liber și un punct de belvedere lângă Muntele Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.603225,
+                        -0.403308
+                  ]
+            },
+            {
+                  "name": "Second picnic spot",
+                  "text": "Un punct de belvedere exterior la altitudine și loc de picnic în zona naturală a Muntelui Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.606278,
+                        -0.398751
+                  ]
+            },
+            {
+                  "name": "Ridge saddle",
+                  "text": "Un punct de belvedere montan situat pe o șa geologică lângă Muntele Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.560708,
+                        -0.450769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "First picnic spot",
+                  "text": "A scenic outdoor resting area and viewpoint near Mount Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.603225,
+                        -0.403308
+                  ]
+            },
+            {
+                  "name": "Second picnic spot",
+                  "text": "An elevated outdoor viewpoint and picnic location set in the Mount Satima natural area.",
+                  "category": "natural",
+                  "coords": [
+                        36.606278,
+                        -0.398751
+                  ]
+            },
+            {
+                  "name": "Ridge saddle",
+                  "text": "A mountainous viewpoint located on a geological saddle ridge near Mount Satima.",
+                  "category": "natural",
+                  "coords": [
+                        36.560708,
+                        -0.450769
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KE-20",
     coords: [36.6, -0.4],

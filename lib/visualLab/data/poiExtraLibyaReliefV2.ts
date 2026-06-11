@@ -41,7 +41,52 @@ export const poiExtraLibyaReliefV2: POI[] = [
     
   },
   {
-    id: "gargaf-range-relief-v2",
+    id: "gargaf-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruins",
+                  "text": "Diese verstreuten Ruinen stellen die verwitterten archäologischen Überreste früherer Besiedlung in der Gebirgskette des Gargaf dar.",
+                  "category": "historical",
+                  "coords": [
+                        13.568049,
+                        27.556179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruins",
+                  "text": "Ezek a szétszórt romok a Gargaf-hegység egykori településeinek viharvert régészeti maradványait képviselik.",
+                  "category": "historical",
+                  "coords": [
+                        13.568049,
+                        27.556179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruins",
+                  "text": "Aceste ruine împrăștiate reprezintă vestigiile arheologice erodate ale așezărilor din trecut din lanțul muntos Gargaf.",
+                  "category": "historical",
+                  "coords": [
+                        13.568049,
+                        27.556179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins",
+                  "text": "These scattered ruins represent the weathered archaeological remains of past habitation in the Gargaf mountain range.",
+                  "category": "historical",
+                  "coords": [
+                        13.568049,
+                        27.556179
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LY-WA",
     coords: [13.5, 27.5],
@@ -611,7 +656,448 @@ export const poiExtraLibyaReliefV2: POI[] = [
     
   },
   {
-    id: "sarir-tanezrouft-relief-v2",
+    id: "sarir-tanezrouft-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunes of In Tehak South",
+                  "text": "Die Dunes of In Tehak South bilden in der tiefen Sahara ein riesiges Meer aus hoch aufragenden, orangefarbenen Sandkämmen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.999245,
+                        24.087151
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyphs",
+                  "text": "Diese neolithischen Petroglyphen zeigen antike Gravuren von wilden Savannentieren, die in den Wüstensandstein gehauen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        11.021111,
+                        24.043113
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyph",
+                  "text": "Diese markante neolithische Petroglyphe zeigt prähistorische Felskunst, die tief in einen Sandsteinfelsen geätzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        11.012297,
+                        24.03478
+                  ]
+            },
+            {
+                  "name": "Dunes of Egedi In Djerane",
+                  "text": "Die Dünen von Egedi In Djerane bilden unter der Saharasonne eine faszinierende Landschaft aus sich verändernden Sandformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.011093,
+                        24.023816
+                  ]
+            },
+            {
+                  "name": "Place de Jean Claude",
+                  "text": "Place de Jean Claude ist ein isoliertes Wüstenwahrzeichen, das als bemerkenswerter Wegpunkt für Sahara-Expeditionen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        10.962668,
+                        24.058016
+                  ]
+            },
+            {
+                  "name": "neolithic painting",
+                  "text": "Dieses lebendige neolithische Gemälde bewahrt antike Ockerpigmente, die menschliche Figuren und Tiere auf einer geschützten Felswand darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954303,
+                        24.033575
+                  ]
+            },
+            {
+                  "name": "Dunes of Moul n`Aga",
+                  "text": "Die Dunes of Moul n`Aga sind markante, steil abfallende Sanddünen, die für ihre tiefen orangefarbenen und roten Töne bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954367,
+                        24.012353
+                  ]
+            },
+            {
+                  "name": "Oued el Berdj Arch",
+                  "text": "Der Oued el Berdj Arch ist eine massive, natürlich geformte Sandsteinbrücke, die durch alte Wasserströme und Winderosion geformt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        10.942983,
+                        23.993957
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Dieser markante Naturbogen ist ein geologisches Wunderwerk, das im Laufe von Jahrtausenden von Wüstenwinden aus dem umgebenden Sandstein modelliert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910498,
+                        23.995479
+                  ]
+            },
+            {
+                  "name": "Ouan Iska",
+                  "text": "Ouan Iska ist eine wichtige prähistorische Stätte mit verstreuten Artefakten und antiker Felskunst, die in Wüstenschluchten verborgen liegt.",
+                  "category": "historical",
+                  "coords": [
+                        10.954815,
+                        24.066111
+                  ]
+            },
+            {
+                  "name": "Höhle von Elbered, Felsmalereien",
+                  "text": "Akaham ouan Elbered ist eine einzigartige geologische Felsformation, die sich markant aus der trockenen Saharalandschaft erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.926751,
+                        23.982052
+                  ]
+            },
+            {
+                  "name": "Giant Arch",
+                  "text": "Der Giant Arch ist ein beeindruckendes, natürliches Sandsteinmonument, das über den trockenen, felsigen Wüstenebenen thront.",
+                  "category": "landmark",
+                  "coords": [
+                        10.922623,
+                        23.976992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunes of In Tehak South",
+                  "text": "A Dunes of In Tehak South a mély Szaharában magasodó, narancssárga homokgerincek hatalmas tengerét alkotják.",
+                  "category": "landmark",
+                  "coords": [
+                        10.999245,
+                        24.087151
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyphs",
+                  "text": "Ezek a neolitikus kőrajzok vad szavannai állatok ősi véseteivel büszkélkedhetnek, amelyeket a sivatagi homokkőbe vájtak.",
+                  "category": "historical",
+                  "coords": [
+                        11.021111,
+                        24.043113
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyph",
+                  "text": "Ez a jellegzetes neolitikus kőrajz egy homokkő kiemelkedésbe mélyen bevésett történelem előtti sziklaművészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        11.012297,
+                        24.03478
+                  ]
+            },
+            {
+                  "name": "Dunes of Egedi In Djerane",
+                  "text": "Az Egedi In Djerane dűnék a szaharai napsütés alatt a folyamatosan változó homokformációk lenyűgöző táját hozzák létre.",
+                  "category": "landmark",
+                  "coords": [
+                        11.011093,
+                        24.023816
+                  ]
+            },
+            {
+                  "name": "Place de Jean Claude",
+                  "text": "A Place de Jean Claude egy elszigetelt sivatagi nevezetesség, amely fontos tájékozódási pontként szolgál a szaharai expedíciók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        10.962668,
+                        24.058016
+                  ]
+            },
+            {
+                  "name": "neolithic painting",
+                  "text": "Ez az élénk neolitikus festmény ősi okker pigmenteket őriz, amelyek emberi alakokat és állatokat ábrázolnak egy védett sziklafalon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954303,
+                        24.033575
+                  ]
+            },
+            {
+                  "name": "Dunes of Moul n`Aga",
+                  "text": "A Dunes of Moul n`Aga jellegzetes, meredek homokdűnék, amelyek mély narancssárga és vörös árnyalataikról híresek.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954367,
+                        24.012353
+                  ]
+            },
+            {
+                  "name": "Oued el Berdj Arch",
+                  "text": "Az Oued el Berdj Arch egy hatalmas, természetes formájú homokkő híd, amelyet az ősi vízfolyások és a szélerózió faragott.",
+                  "category": "landmark",
+                  "coords": [
+                        10.942983,
+                        23.993957
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Ez a feltűnő természetes boltív egy geológiai csoda, amelyet az évezredes sivatagi szelek faragtak ki a környező homokkőből.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910498,
+                        23.995479
+                  ]
+            },
+            {
+                  "name": "Ouan Iska",
+                  "text": "Az Ouan Iska egy fontos történelem előtti lelőhely, amely elszórt leletekkel és ősi sziklaművészettel rendelkezik a sivatagi kanyonokban elrejtve.",
+                  "category": "historical",
+                  "coords": [
+                        10.954815,
+                        24.066111
+                  ]
+            },
+            {
+                  "name": "Akaham ouan Elbered",
+                  "text": "Az Akaham ouan Elbered egy egyedülálló geológiai sziklaalakzat, amely feltűnően emelkedik ki a száraz szaharai tájból.",
+                  "category": "landmark",
+                  "coords": [
+                        10.926751,
+                        23.982052
+                  ]
+            },
+            {
+                  "name": "Giant Arch",
+                  "text": "A Giant Arch egy lenyűgöző természetes homokkő emlékmű, amely a száraz, sziklás sivatagi síkságok fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.922623,
+                        23.976992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunes of In Tehak South",
+                  "text": "Dunele In Tehak South formează o vastă mare de creste înalte de nisip portocaliu în adâncul Saharei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.999245,
+                        24.087151
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyphs",
+                  "text": "Aceste petroglife neolitice prezintă gravuri antice ale animalelor sălbatice din savană sculptate în gresia deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        11.021111,
+                        24.043113
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyph",
+                  "text": "Această petroglifă neolitică distinctă prezintă artă rupestră preistorică gravată adânc într-un afloriment de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        11.012297,
+                        24.03478
+                  ]
+            },
+            {
+                  "name": "Dunes of Egedi In Djerane",
+                  "text": "Dunele din Egedi In Djerane creează un peisaj fascinant de formațiuni de nisip mișcătoare sub soarele saharian.",
+                  "category": "landmark",
+                  "coords": [
+                        11.011093,
+                        24.023816
+                  ]
+            },
+            {
+                  "name": "Place de Jean Claude",
+                  "text": "Place de Jean Claude este un punct de reper izolat din deșert, care servește ca punct de trecere notabil pentru expedițiile din Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        10.962668,
+                        24.058016
+                  ]
+            },
+            {
+                  "name": "neolithic painting",
+                  "text": "Această pictură neolitică vie păstrează pigmenți de ocru vechi care înfățișează figuri umane și animale pe o suprafață de stâncă adăpostită.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954303,
+                        24.033575
+                  ]
+            },
+            {
+                  "name": "Dunes of Moul n`Aga",
+                  "text": "Dunele Moul n`Aga sunt dune de nisip abrupte, izbitoare, renumite pentru nuanțele lor intense de portocaliu și roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954367,
+                        24.012353
+                  ]
+            },
+            {
+                  "name": "Oued el Berdj Arch",
+                  "text": "Arcul Oued el Berdj este un pod de gresie masiv, format natural, sculptat de cursurile vechi de apă și de eroziunea eoliană.",
+                  "category": "landmark",
+                  "coords": [
+                        10.942983,
+                        23.993957
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Acest arc natural izbitor este o minune geologică sculptată din gresia înconjurătoare de milenii de vânturi din deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910498,
+                        23.995479
+                  ]
+            },
+            {
+                  "name": "Ouan Iska",
+                  "text": "Ouan Iska este un important sit preistoric cu artefacte împrăștiate și artă rupestră antică ascunsă în canioanele deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        10.954815,
+                        24.066111
+                  ]
+            },
+            {
+                  "name": "Akaham ouan Elbered",
+                  "text": "Akaham ouan Elbered este o formațiune stâncoasă geologică unică, care se ridică proeminent din peisajul arid saharian.",
+                  "category": "landmark",
+                  "coords": [
+                        10.926751,
+                        23.982052
+                  ]
+            },
+            {
+                  "name": "Giant Arch",
+                  "text": "Giant Arch este un monument natural impresionant de gresie, care se înalță peste câmpiile stâncoase și aride ale deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        10.922623,
+                        23.976992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunes of In Tehak South",
+                  "text": "The Dunes of In Tehak South form a vast sea of towering orange sand ridges in the deep Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        10.999245,
+                        24.087151
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyphs",
+                  "text": "These Neolithic petroglyphs feature ancient engravings of wild savanna animals carved into the desert sandstone.",
+                  "category": "historical",
+                  "coords": [
+                        11.021111,
+                        24.043113
+                  ]
+            },
+            {
+                  "name": "neolithic petroglyph",
+                  "text": "This distinct Neolithic petroglyph showcases prehistoric rock art etched deep into a sandstone outcrop.",
+                  "category": "landmark",
+                  "coords": [
+                        11.012297,
+                        24.03478
+                  ]
+            },
+            {
+                  "name": "Dunes of Egedi In Djerane",
+                  "text": "The Dunes of Egedi In Djerane create a mesmerizing landscape of shifting sand formations under the Saharan sun.",
+                  "category": "landmark",
+                  "coords": [
+                        11.011093,
+                        24.023816
+                  ]
+            },
+            {
+                  "name": "Place de Jean Claude",
+                  "text": "Place de Jean Claude is an isolated desert landmark that serves as a notable waypoint for Saharan expeditions.",
+                  "category": "landmark",
+                  "coords": [
+                        10.962668,
+                        24.058016
+                  ]
+            },
+            {
+                  "name": "neolithic painting",
+                  "text": "This vivid Neolithic painting preserves ancient ochre pigments depicting human figures and animals on a sheltered rock face.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954303,
+                        24.033575
+                  ]
+            },
+            {
+                  "name": "Dunes of Moul n`Aga",
+                  "text": "The Dunes of Moul n`Aga are striking, steep-sided sand dunes renowned for their deep orange and red hues.",
+                  "category": "landmark",
+                  "coords": [
+                        10.954367,
+                        24.012353
+                  ]
+            },
+            {
+                  "name": "Oued el Berdj Arch",
+                  "text": "The Oued el Berdj Arch is a massive, naturally formed sandstone bridge carved by ancient water flows and wind erosion.",
+                  "category": "landmark",
+                  "coords": [
+                        10.942983,
+                        23.993957
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "This striking natural arch is a geological marvel sculpted from the surrounding sandstone by millennia of desert winds.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910498,
+                        23.995479
+                  ]
+            },
+            {
+                  "name": "Ouan Iska",
+                  "text": "Ouan Iska is an important prehistoric site featuring scattered artifacts and ancient rock art hidden within desert canyons.",
+                  "category": "historical",
+                  "coords": [
+                        10.954815,
+                        24.066111
+                  ]
+            },
+            {
+                  "name": "Akaham ouan Elbered",
+                  "text": "Akaham ouan Elbered is a unique geological rock formation rising prominently from the arid Saharan landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.926751,
+                        23.982052
+                  ]
+            },
+            {
+                  "name": "Giant Arch",
+                  "text": "The Giant Arch is an awe-inspiring natural sandstone monument towering over the arid, rocky desert plains.",
+                  "category": "landmark",
+                  "coords": [
+                        10.922623,
+                        23.976992
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "LY-MUR",
     coords: [11.0, 24.0],
@@ -801,7 +1287,52 @@ export const poiExtraLibyaReliefV2: POI[] = [
     
   },
   {
-    id: "gar-al-marah-relief-v2",
+    id: "gar-al-marah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "castlet Adre historical",
+                  "text": "Castlet Adre ist eine historische Festungsanlage, die traditionelles defensives Mauerwerk inmitten des rauen Geländes zeigt.",
+                  "category": "castle",
+                  "coords": [
+                        13.053078,
+                        27.444985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "castlet Adre historical",
+                  "text": "A Castlet Adre egy történelmi erődítmény, amely hagyományos védelmi kőművesmunkát mutat be a zord terepen.",
+                  "category": "castle",
+                  "coords": [
+                        13.053078,
+                        27.444985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "castlet Adre historical",
+                  "text": "Castlet Adre este o fortificație istorică ce prezintă zidărie defensivă tradițională în mijlocul terenului accidentat.",
+                  "category": "castle",
+                  "coords": [
+                        13.053078,
+                        27.444985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "castlet Adre historical",
+                  "text": "Castlet Adre is a historic fortification showcasing traditional defensive stonework amid the rugged terrain.",
+                  "category": "castle",
+                  "coords": [
+                        13.053078,
+                        27.444985
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LY-WA",
     coords: [13.0, 27.5],

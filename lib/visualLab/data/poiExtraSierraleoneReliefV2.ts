@@ -771,7 +771,52 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
     },
   },
   {
-    id: "tama-forest-relief-v2",
+    id: "tama-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sundu",
+                  "text": "Der markante Gipfel des Sundu erhebt sich in der Landschaft des tama-forest-relief-v2 und bietet weite Ausblicke über die umliegende Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        -11.520861,
+                        8.983245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sundu",
+                  "text": "A tama-forest-relief-v2 tájából kiemelkedő Sundu-csúcsról messzire ellátni a környező vadon felett.",
+                  "category": "natural",
+                  "coords": [
+                        -11.520861,
+                        8.983245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sundu",
+                  "text": "Ridicându-se proeminent în peisajul tama-forest-relief-v2, vârful Sundu oferă o panoramă vastă asupra sălbăticiei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -11.520861,
+                        8.983245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sundu",
+                  "text": "Rising prominently within the tama-forest-relief-v2 landscape, Sundu is a natural peak that offers sweeping views of the surrounding wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -11.520861,
+                        8.983245
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SL-N",
     coords: [-11.5, 8.9],
@@ -899,7 +944,52 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
     },
   },
   {
-    id: "kasewe-forest-relief-v2",
+    id: "kasewe-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasewi Hills Forest Reserve",
+                  "text": "Dieses geschützte Naturreservat im Gebiet kasewe-forest-relief-v2 bewahrt Streifen von unberührtem tropischen Wald und lebenswichtige regionale Wassereinzugsgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        -12.169265,
+                        8.33644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasewi Hills Forest Reserve",
+                  "text": "A kasewe-forest-relief-v2 területen található védett természetvédelmi terület háborítatlan trópusi erdők szakaszait és létfontosságú regionális vízgyűjtőket őriz meg.",
+                  "category": "natural",
+                  "coords": [
+                        -12.169265,
+                        8.33644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasewi Hills Forest Reserve",
+                  "text": "Această rezervație naturală protejată din zona kasewe-forest-relief-v2 păstrează întinderi de pădure tropicală netulburată și bazine hidrografice regionale vitale.",
+                  "category": "natural",
+                  "coords": [
+                        -12.169265,
+                        8.33644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasewi Hills Forest Reserve",
+                  "text": "This protected nature reserve in the kasewe-forest-relief-v2 area preserves stretches of undisturbed tropical forest and vital regional watersheds.",
+                  "category": "natural",
+                  "coords": [
+                        -12.169265,
+                        8.33644
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SL-S",
     coords: [-12.2, 8.3],

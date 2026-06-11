@@ -93,7 +93,52 @@ export const liberiaReliefV2: POI[] = [
     image: "/poi-images/liberia-nimba-highlands-relief-v2.webp",
   },
   {
-    id: "liberia-monrovia-lowlands-relief-v2",
+    id: "liberia-monrovia-lowlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Town Hall",
+                  "text": "Die City Town Hall dient als zentrales Bürgergebäude in liberia-monrovia-lowlands-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Town Hall",
+                  "text": "A City Town Hall egy központi polgári épület liberia-monrovia-lowlands-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Town Hall",
+                  "text": "City Town Hall servește drept atracție civică centrală în liberia-monrovia-lowlands-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Town Hall",
+                  "text": "The City Town Hall serves as a central civic attraction in liberia-monrovia-lowlands-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "landmark",
     name: { de: "Monrovia-Niederungen", hu: "Monroviai-alföld", ro: "Câmpia Monrovia", en: "Monrovia Lowlands" },
@@ -453,7 +498,88 @@ export const liberiaReliefV2: POI[] = [
     image: "/poi-images/liberia-st-paul-gorge-relief-v2.webp",
   },
   {
-    id: "liberia-man-mountain-relief-v2",
+    id: "liberia-man-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morris",
+                  "text": "Morris ist ein markanter Gipfel, der zum dramatischen und schroffen Bergrelief der Gegend beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.823518,
+                        7.301849
+                  ]
+            },
+            {
+                  "name": "Demina",
+                  "text": "Demina ist ein felsiger Gipfel, der die Skyline des umliegenden liberianischen Bergreliefs prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.815756,
+                        7.330986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morris",
+                  "text": "A Morris egy különálló hegycsúcs, amely hozzájárul a terület drámai és zord hegyvidéki domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        -8.823518,
+                        7.301849
+                  ]
+            },
+            {
+                  "name": "Demina",
+                  "text": "A Demina egy sziklás hegycsúcs, amely meghatározza a környező libériai hegyvidéki domborzat látképét.",
+                  "category": "natural",
+                  "coords": [
+                        -8.815756,
+                        7.330986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morris",
+                  "text": "Morris este un vârf distinct care contribuie la relieful montan dramatic și accidentat al zonei.",
+                  "category": "natural",
+                  "coords": [
+                        -8.823518,
+                        7.301849
+                  ]
+            },
+            {
+                  "name": "Demina",
+                  "text": "Demina este un vârf stâncos care modelează orizontul reliefului montan liberian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -8.815756,
+                        7.330986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morris",
+                  "text": "Morris is a distinct peak contributing to the dramatic and rugged mountain relief of the area.",
+                  "category": "natural",
+                  "coords": [
+                        -8.823518,
+                        7.301849
+                  ]
+            },
+            {
+                  "name": "Demina",
+                  "text": "Demina is a rocky peak that shapes the skyline of the surrounding Liberian mountain relief.",
+                  "category": "natural",
+                  "coords": [
+                        -8.815756,
+                        7.330986
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "mountain",
     name: { de: "Man-Berg", hu: "Man-hegy", ro: "Muntele Man", en: "Man Mountain" },
@@ -858,7 +984,52 @@ export const liberiaReliefV2: POI[] = [
     image: "/poi-images/liberia-monrovia-peninsula-relief-v2.webp",
   },
   {
-    id: "liberia-voinjama-highlands-relief-v2",
+    id: "liberia-voinjama-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Pakistan Point ist ein Gedenkmonument in der Hochebene der Voinjama-Highlands.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "A Pakistan Point egy emlékmű a Voinjama-felföld magaslati terepén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Pakistan Point este un monument comemorativ situat în terenul înalt al ținuturilor Voinjama.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Pakistan Point is a commemorative monument situated in the elevated terrain of the Voinjama highlands.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "mountain",
     name: { de: "Voinjama-Hochland", hu: "Voinjama-felföld", ro: "Podișul Voinjama", en: "Voinjama Highlands" },
@@ -948,7 +1119,160 @@ export const liberiaReliefV2: POI[] = [
     image: "/poi-images/liberia-sapo-lowlands-relief-v2.webp",
   },
   {
-    id: "liberia-mamba-point-relief-v2",
+    id: "liberia-mamba-point-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cotton Tree",
+                  "text": "Cotton Tree ist ein natürlicher Aussichtspunkt mit Blick auf die Region liberia-mamba-point-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "Die Sacred Heart Cathedral Church ist eine bedeutende religiöse Kathedrale in liberia-mamba-point-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810205,
+                        6.31909
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "Die Episcopal Church ist ein historisches christliches Gotteshaus in der Gegend von liberia-mamba-point-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "Powr Plant Beach bietet einen sandigen Küstenabschnitt für Besucher in liberia-mamba-point-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.80974,
+                        6.324856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cotton Tree",
+                  "text": "A Cotton Tree egy festői természetes kilátópont, ahonnan kilátás nyílik a liberia-mamba-point-relief-v2 régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "A Sacred Heart Cathedral Church egy jelentős vallási katedrális liberia-mamba-point-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810205,
+                        6.31909
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "Az Episcopal Church egy történelmi keresztény istentiszteleti hely a liberia-mamba-point-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "A Powr Plant Beach homokos tengerparti szakaszt kínál a látogatóknak liberia-mamba-point-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.80974,
+                        6.324856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cotton Tree",
+                  "text": "Cotton Tree este un punct de belvedere natural pitoresc cu vedere la regiunea liberia-mamba-point-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "Sacred Heart Cathedral Church este o importantă catedrală religioasă situată în liberia-mamba-point-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810205,
+                        6.31909
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "Episcopal Church este un lăcaș de cult creștin istoric care deservește zona liberia-mamba-point-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "Powr Plant Beach oferă o fâșie de coastă nisipoasă pentru vizitatorii din liberia-mamba-point-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.80974,
+                        6.324856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cotton Tree",
+                  "text": "Cotton Tree is a scenic natural viewpoint overlooking the liberia-mamba-point-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "Sacred Heart Cathedral Church is a prominent religious cathedral located in liberia-mamba-point-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810205,
+                        6.31909
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "The Episcopal Church is a historic Christian house of worship serving the liberia-mamba-point-relief-v2 area.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "Powr Plant Beach offers a sandy coastal stretch for visitors in liberia-mamba-point-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.80974,
+                        6.324856
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "landmark",
     name: { de: "Mamba-Point-Kliff", hu: "Mamba Point-szikla", ro: "Stânca Mamba Point", en: "Mamba Point Cliff" },
@@ -1173,7 +1497,52 @@ export const liberiaReliefV2: POI[] = [
     image: "/poi-images/liberia-piso-lake-basin-relief-v2.webp",
   },
   {
-    id: "liberia-monrovia-coastal-plain-relief-v2",
+    id: "liberia-monrovia-coastal-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omega Tower",
+                  "text": "Die Ruinen dieses einstigen Navigationsturms, der zu den höchsten Bauwerken Afrikas zählte, liegen in der Küstenebene vor Monrovia.",
+                  "category": "historical",
+                  "coords": [
+                        -10.662056,
+                        6.305438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omega Tower",
+                  "text": "Az egykor Afrika legmagasabb építményei közé tartozó navigációs torony romjai a monroviai parti síkságon hevernek.",
+                  "category": "historical",
+                  "coords": [
+                        -10.662056,
+                        6.305438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omega Tower",
+                  "text": "Cândva una dintre cele mai înalte structuri din Africa, ruinele acestui fost turn de navigație se află pe câmpiile de coastă din afara orașului Monrovia.",
+                  "category": "historical",
+                  "coords": [
+                        -10.662056,
+                        6.305438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omega Tower",
+                  "text": "Once one of the tallest structures in Africa, the ruins of this former navigational tower lie on the coastal plains outside Monrovia.",
+                  "category": "historical",
+                  "coords": [
+                        -10.662056,
+                        6.305438
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "landmark",
     name: { de: "Monrovia-Küstenebene", hu: "Monroviai-parti síkság", ro: "Câmpia de coastă Monrovia", en: "Monrovia Coastal Plain" },

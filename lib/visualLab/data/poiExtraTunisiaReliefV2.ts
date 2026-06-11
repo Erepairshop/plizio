@@ -39,7 +39,52 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "djebel-chambi-relief-v2",
+    id: "djebel-chambi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chambi National Park",
+                  "text": "Dieser Nationalpark rund um den Djebel Chambi schützt bewaldete Berghänge und eine vielfältige Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        8.642442,
+                        35.190539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chambi National Park",
+                  "text": "A Djebel Chambi körüli nemzeti park erdős hegyoldalakat és gazdag vadvilágot védelmez.",
+                  "category": "natural",
+                  "coords": [
+                        8.642442,
+                        35.190539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chambi National Park",
+                  "text": "Acest parc național din jurul Djebel Chambi protejează versanții împădurite și o faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        8.642442,
+                        35.190539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chambi National Park",
+                  "text": "This national park surrounding Djebel Chambi protects forested mountain slopes and diverse wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        8.642442,
+                        35.190539
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-12",
     coords: [8.68, 35.15],
@@ -111,7 +156,52 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "tunis-ebene-relief-v2",
+    id: "tunis-ebene-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kulturzentrum",
+                  "text": "Ein engagiertes Kunstzentrum, das Ausstellungen und kulturelle Veranstaltungen in Tunis beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.148067,
+                        36.795944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cultural Centre",
+                  "text": "Dedikált művészeti központ, amely kiállításoknak és kulturális eseményeknek ad otthont Tuniszban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.148067,
+                        36.795944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cultural Centre",
+                  "text": "Un centru de arte dedicat care găzduiește expoziții și evenimente culturale în Tunis.",
+                  "category": "cultural",
+                  "coords": [
+                        10.148067,
+                        36.795944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cultural Centre",
+                  "text": "A dedicated arts center hosting exhibitions and cultural events in Tunis.",
+                  "category": "cultural",
+                  "coords": [
+                        10.148067,
+                        36.795944
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "TN-11",
     coords: [10.15, 36.8],
@@ -147,7 +237,88 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "djebel-zaghouan-relief-v2",
+    id: "djebel-zaghouan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abbir Maius",
+                  "text": "Abbir Maius ist eine antike römische Ausgrabungsstätte an den Hängen des Djebel Zaghouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.018188,
+                        36.383422
+                  ]
+            },
+            {
+                  "name": "Djebel Zaghouan",
+                  "text": "Der Djebel Zaghouan ist ein markanter Kalksteinberggipfel, der die umliegende Landschaft dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        10.112153,
+                        36.351919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbir Maius",
+                  "text": "Abbir Maius egy ókori római régészeti lelőhely a Djebel Zaghouan lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        10.018188,
+                        36.383422
+                  ]
+            },
+            {
+                  "name": "Djebel Zaghouan",
+                  "text": "A Djebel Zaghouan egy kiemelkedő mészkő hegycsúcs, amely uralja a környező tájat.",
+                  "category": "natural",
+                  "coords": [
+                        10.112153,
+                        36.351919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbir Maius",
+                  "text": "Abbir Maius este un vechi sit arheologic roman situat pe pantele Djebel Zaghouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.018188,
+                        36.383422
+                  ]
+            },
+            {
+                  "name": "Djebel Zaghouan",
+                  "text": "Djebel Zaghouan este un vârf de munte proeminent din calcar care domină peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        10.112153,
+                        36.351919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbir Maius",
+                  "text": "Abbir Maius is an ancient Roman archaeological site located on the slopes of Djebel Zaghouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.018188,
+                        36.383422
+                  ]
+            },
+            {
+                  "name": "Djebel Zaghouan",
+                  "text": "Djebel Zaghouan is a prominent limestone mountain peak dominating the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.112153,
+                        36.351919
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-15",
     coords: [10.1, 36.35],
@@ -183,7 +354,1168 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "dahar-plateau-relief-v2",
+    id: "dahar-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bir Miteur ruines",
+                  "text": "Die Ruinen von Bir Miteur markieren die Überreste einer alten Wüstenbrunnensiedlung, die über das trockene Dahar-Plateau verstreut ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.306188,
+                        33.144051
+                  ]
+            },
+            {
+                  "name": "Henchir Gdiss",
+                  "text": "Henchir Gdiss ist eine archäologische Stätte auf dem Dahar-Plateau, die die Steinfundamente eines alten landwirtschaftlichen Anwesens bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        10.346904,
+                        33.24897
+                  ]
+            },
+            {
+                  "name": "El Souima ruines",
+                  "text": "Die Ruinen von El Souima bieten einen faszinierenden archäologischen Einblick in die frühere Besiedlung des felsigen Geländes des Dahar-Plateaus.",
+                  "category": "historical",
+                  "coords": [
+                        10.294729,
+                        33.247588
+                  ]
+            },
+            {
+                  "name": "Ancienne Kourikhia",
+                  "text": "Ancienne Kourikhia ist eine archäologische Stätte, die die verwitterten Überreste einer frühen Siedlung auf dem Dahar-Plateau zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        10.301273,
+                        33.234515
+                  ]
+            },
+            {
+                  "name": "Ksar Mohammed ben Ammar",
+                  "text": "Ksar Mohammed ben Ammar weist die zerfallenden Mauern eines traditionellen befestigten Getreidespeichers auf, der typisch für das Dahar-Plateau ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.284864,
+                        33.183609
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Diese unbenannten Ruinen auf dem Dahar-Plateau enthalten verstreute Steinfragmente, die auf ein altes nomadisches oder landwirtschaftliches Leben hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        10.301799,
+                        33.170465
+                  ]
+            },
+            {
+                  "name": "Ras Kherachfa ruines",
+                  "text": "Die Ruinen von Ras Kherachfa befinden sich auf einem markanten Gipfel des Dahar-Plateaus und enthüllen strategische historische Fundamente.",
+                  "category": "historical",
+                  "coords": [
+                        10.273058,
+                        33.17461
+                  ]
+            },
+            {
+                  "name": "Oued el Khil ruines",
+                  "text": "Die Ruinen von Oued el Khil auf dem Dahar-Plateau liegen in der Nähe eines ausgetrockneten Flussbettes und zeigen die Überreste wasserabhängiger alter Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        10.263975,
+                        33.179708
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi - citadelle",
+                  "text": "Die Zitadelle von Ksar Ouled Mehdi erhebt sich als Festungsruine auf dem Dahar-Plateau, die einst lokale Getreidevorräte schützte.",
+                  "category": "historical",
+                  "coords": [
+                        10.23557,
+                        33.158355
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi (El Ouzeghna)",
+                  "text": "Ksar Ouled Mehdi, auch bekannt als El Ouzeghna, zeigt die Überreste mehrstöckiger Lagerzellen, die von Berberstämmen auf dem Dahar-Plateau errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        10.236788,
+                        33.157793
+                  ]
+            },
+            {
+                  "name": "Dahar el Behim",
+                  "text": "Die archäologische Stätte von Dahar el Behim enthüllt alte strukturelle Fußabdrücke, die in die steinige Oberfläche des Dahar-Plateaus eingebettet sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.208908,
+                        33.154788
+                  ]
+            },
+            {
+                  "name": "Ksar Jraa",
+                  "text": "Die Ruinen von Ksar Jraa unterstreichen die historische Architektur der Wüstenspeicher, die von lokalen Gemeinden auf dem Dahar-Plateau genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        10.225724,
+                        33.147649
+                  ]
+            },
+            {
+                  "name": "Ksar Kef el Khedellej",
+                  "text": "Die archäologische Stätte Ksar Kef el Khedellej liegt in der Nähe eines Felsvorsprungs und bewahrt die Überreste einer alten Verteidigungsanlage auf dem Dahar-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.363128,
+                        33.139419
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed el Assoued",
+                  "text": "Die archäologische Stätte von Sidi Ahmed el Assoued umfasst Überreste eines alten Heiligtums oder einer Siedlung, die die trockene Landschaft des Dahar-Plateaus prägen.",
+                  "category": "historical",
+                  "coords": [
+                        10.267563,
+                        33.20163
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa",
+                  "text": "Ksar Kherachfa präsentiert die beeindruckenden Ruinen eines kollektiven Getreidespeichers am Hang und veranschaulicht die Überlebensstrategien auf dem Dahar-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.292565,
+                        33.188615
+                  ]
+            },
+            {
+                  "name": "Zebassa",
+                  "text": "Die Ruinen von Zebassa bieten einen Einblick in die verfallene Steinarchitektur historischer Siedlungen, die über das Dahar-Plateau verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.363106,
+                        33.20159
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 01",
+                  "text": "Die erste archäologische Stätte Draa Kaid liegt auf einem Bergrücken auf dem Dahar-Plateau und verfügt über alte Fundamente mit Blick auf die Täler.",
+                  "category": "historical",
+                  "coords": [
+                        10.252146,
+                        33.257378
+                  ]
+            },
+            {
+                  "name": "Ksar Kourikhia",
+                  "text": "Ksar Kourikhia ist eine verfallene befestigte Kornkammer, die einst als wichtiger Lebensmittelspeicher für lokale Stämme auf dem Dahar-Plateau diente.",
+                  "category": "historical",
+                  "coords": [
+                        10.334168,
+                        33.241936
+                  ]
+            },
+            {
+                  "name": "Sidi Said ben Salah ruines",
+                  "text": "Die archäologische Stätte Sidi Said ben Salah umfasst alte bauliche Überreste, die vermutlich mit einem lokalen Marabout auf dem Dahar-Plateau in Verbindung stehen.",
+                  "category": "historical",
+                  "coords": [
+                        10.256297,
+                        33.242107
+                  ]
+            },
+            {
+                  "name": "Ksar El Guesirate - runines 02",
+                  "text": "Der zweite Cluster der Ruinen von Ksar El Guesirate auf dem Dahar-Plateau zeigt erodierte Mauern alter berberischer Lagereinheiten.",
+                  "category": "historical",
+                  "coords": [
+                        10.24587,
+                        33.226539
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Dieser unbenannte Ksar auf dem Dahar-Plateau ist ein Beweis für die historische Abhängigkeit der Region von kommunalen, leicht zu verteidigenden Getreidespeichern.",
+                  "category": "historical",
+                  "coords": [
+                        10.278146,
+                        33.23019
+                  ]
+            },
+            {
+                  "name": "Ksar El Gsir",
+                  "text": "Ksar El Gsir ist eine archäologische Stätte, die die kompakte, zellenartige Steinarchitektur eines kleinen Wüstenspeichers auf dem Dahar-Plateau zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        10.293699,
+                        33.273549
+                  ]
+            },
+            {
+                  "name": "Ksar Semoumema",
+                  "text": "Die Ruinen von Ksar Semoumema unterstreichen die verstreuten Überreste eines historischen befestigten Lagerhauses in der trockenen Umgebung des Dahar-Plateaus.",
+                  "category": "historical",
+                  "coords": [
+                        10.324714,
+                        33.211193
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 02",
+                  "text": "Die zweite archäologische Stätte Draa Kaid auf dem Dahar-Plateau enthält weitere strukturelle Spuren entlang des erhöhten Bergrückens.",
+                  "category": "historical",
+                  "coords": [
+                        10.249467,
+                        33.260902
+                  ]
+            },
+            {
+                  "name": "Kourikhia",
+                  "text": "Die Ruinen von Kourikhia auf dem Dahar-Plateau bestehen aus verwitterten Steinfundamenten, die auf eine historische Siedlung oder einen Lagerbereich hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        10.326871,
+                        33.24587
+                  ]
+            },
+            {
+                  "name": "ruines près de la Tsmed 02",
+                  "text": "In der Nähe einer alten Zisterne gelegen, demonstrieren diese Ruinen auf dem Dahar-Plateau die Bedeutung der Wasserspeicherung in historischen Wüstengemeinden.",
+                  "category": "historical",
+                  "coords": [
+                        10.257761,
+                        33.212881
+                  ]
+            },
+            {
+                  "name": "Ruines El Kef",
+                  "text": "Die Ruinen von El Kef befinden sich an einer markanten Felswand auf dem Dahar-Plateau und legen Überreste von natürlichen Felsunterständen frei.",
+                  "category": "historical",
+                  "coords": [
+                        10.277928,
+                        33.277645
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa ruines",
+                  "text": "Dieser Teil der archäologischen Stätte Ksar Kherachfa zeigt die erodierten Gewölbe eines historischen berberischen Lagerkomplexes auf dem Dahar-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.286432,
+                        33.188975
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 03",
+                  "text": "Die dritte Gruppe der Ruinen von Tsmed el Kherba zeigt Überreste historischer Besiedlung, die sich in der Nähe einer traditionellen Wüstenzisterne auf dem Dahar-Plateau ansammelten.",
+                  "category": "historical",
+                  "coords": [
+                        10.332986,
+                        33.115447
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 02",
+                  "text": "Die zweite Stätte der Ruinen von Tsmed el Kherba auf dem Dahar-Plateau weist verfallene Steinmauern auf, die mit einem historischen Wassereinzugsgebiet verbunden sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.33081,
+                        33.121828
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 01",
+                  "text": "Tsmed el Kherba ist eine Ansammlung historischer Ruinen, die in der kargen Landschaft des Dahar-Plateaus verstreut liegen.",
+                  "category": "historical",
+                  "coords": [
+                        10.328181,
+                        33.122173
+                  ]
+            },
+            {
+                  "name": "Ksar Temzayet (El Ababsa)",
+                  "text": "Ksar Temzayet, auch als El Ababsa bekannt, zeigt die verfallenden Überreste eines traditionellen befestigten Berber-Kornspeichers auf dem Dahar-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.362525,
+                        33.147439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bir Miteur ruines",
+                  "text": "A Bir Miteur romok egy ősi sivatagi kúti település maradványait jelzik, szétszórtan a száraz Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.306188,
+                        33.144051
+                  ]
+            },
+            {
+                  "name": "Henchir Gdiss",
+                  "text": "A Henchir Gdiss egy régészeti lelőhely a Dahar-fennsíkon, amely egy ősi mezőgazdasági birtok kőalapjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        10.346904,
+                        33.24897
+                  ]
+            },
+            {
+                  "name": "El Souima ruines",
+                  "text": "Az El Souima romok lenyűgöző régészeti bepillantást nyújtanak a Dahar-fennsík sziklás terepének múltbeli településeibe.",
+                  "category": "historical",
+                  "coords": [
+                        10.294729,
+                        33.247588
+                  ]
+            },
+            {
+                  "name": "Ancienne Kourikhia",
+                  "text": "Az Ancienne Kourikhia egy régészeti lelőhely, amely egy korai település mállott maradványait mutatja be a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.301273,
+                        33.234515
+                  ]
+            },
+            {
+                  "name": "Ksar Mohammed ben Ammar",
+                  "text": "A Ksar Mohammed ben Ammar egy, a Dahar-fennsíkra jellemző hagyományos erődített magtár omladozó falaival büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        10.284864,
+                        33.183609
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Ezek a Dahar-fennsíkon található névtelen romok elszórt kőtöredékeket tartalmaznak, amelyek ősi nomád vagy mezőgazdasági életre utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        10.301799,
+                        33.170465
+                  ]
+            },
+            {
+                  "name": "Ras Kherachfa ruines",
+                  "text": "A Ras Kherachfa romok a Dahar-fennsík egyik kiemelkedő csúcsán helyezkednek el, és stratégiai fontosságú történelmi alapokat tárnak fel.",
+                  "category": "historical",
+                  "coords": [
+                        10.273058,
+                        33.17461
+                  ]
+            },
+            {
+                  "name": "Oued el Khil ruines",
+                  "text": "A kiszáradt folyómeder közelében fekvő Oued el Khil romok a Dahar-fennsíkon a víztől függő ősi települések maradványait mutatják.",
+                  "category": "historical",
+                  "coords": [
+                        10.263975,
+                        33.179708
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi - citadelle",
+                  "text": "A Ksar Ouled Mehdi fellegvára romos erődként áll a Dahar-fennsíkon, amely egykor a helyi gabonakészleteket védte.",
+                  "category": "historical",
+                  "coords": [
+                        10.23557,
+                        33.158355
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi (El Ouzeghna)",
+                  "text": "A Ksar Ouled Mehdi, más néven El Ouzeghna, a berber törzsek által a Dahar-fennsíkon épített többszintes tárolócellák maradványait rejt.",
+                  "category": "historical",
+                  "coords": [
+                        10.236788,
+                        33.157793
+                  ]
+            },
+            {
+                  "name": "Dahar el Behim",
+                  "text": "A Dahar el Behim régészeti lelőhely ősi építészeti nyomokat tár fel, amelyek a Dahar-fennsík köves felszínébe ágyazódtak.",
+                  "category": "historical",
+                  "coords": [
+                        10.208908,
+                        33.154788
+                  ]
+            },
+            {
+                  "name": "Ksar Jraa",
+                  "text": "A Ksar Jraa romjai kiemelik a helyi közösségek által a Dahar-fennsíkon használt sivatagi magtárak történelmi építészetét.",
+                  "category": "historical",
+                  "coords": [
+                        10.225724,
+                        33.147649
+                  ]
+            },
+            {
+                  "name": "Ksar Kef el Khedellej",
+                  "text": "A sziklakibúvás közelében elhelyezkedő Ksar Kef el Khedellej régészeti lelőhely egy ősi védelmi építmény maradványait őrzi a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.363128,
+                        33.139419
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed el Assoued",
+                  "text": "A Sidi Ahmed el Assoued régészeti lelőhely egy régi szentély vagy település maradványait foglalja magában a Dahar-fennsík száraz táján.",
+                  "category": "historical",
+                  "coords": [
+                        10.267563,
+                        33.20163
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa",
+                  "text": "A Ksar Kherachfa egy lenyűgöző kollektív domboldali magtár romjait mutatja be, szemléltetve a túlélési stratégiákat a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.292565,
+                        33.188615
+                  ]
+            },
+            {
+                  "name": "Zebassa",
+                  "text": "A Zebassa romok bepillantást engednek a Dahar-fennsíkon elszórt történelmi települések romos kőépítészetébe.",
+                  "category": "historical",
+                  "coords": [
+                        10.363106,
+                        33.20159
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 01",
+                  "text": "A Dahar-fennsík egyik gerincén fekvő első Draa Kaid régészeti lelőhely ősi alapokkal rendelkezik, amelyek a völgyekre néznek.",
+                  "category": "historical",
+                  "coords": [
+                        10.252146,
+                        33.257378
+                  ]
+            },
+            {
+                  "name": "Ksar Kourikhia",
+                  "text": "A Ksar Kourikhia egy romos erődített magtár, amely egykor a helyi törzsek létfontosságú élelmiszertároló központjaként szolgált a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.334168,
+                        33.241936
+                  ]
+            },
+            {
+                  "name": "Sidi Said ben Salah ruines",
+                  "text": "A Sidi Said ben Salah régészeti lelőhely ősi szerkezeti maradványokat foglal magában, amelyek vélhetően egy helyi marabuhoz kötődnek a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.256297,
+                        33.242107
+                  ]
+            },
+            {
+                  "name": "Ksar El Guesirate - runines 02",
+                  "text": "A Dahar-fennsíkon található Ksar El Guesirate romok második csoportja ősi berber tárolóegységek erodált falait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        10.24587,
+                        33.226539
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Ez a Dahar-fennsíkon található névtelen kszar a régió történelmi támaszkodását bizonyítja a közösségi, könnyen védhető magtárakra.",
+                  "category": "historical",
+                  "coords": [
+                        10.278146,
+                        33.23019
+                  ]
+            },
+            {
+                  "name": "Ksar El Gsir",
+                  "text": "A Ksar El Gsir egy régészeti lelőhely, amely egy kis sivatagi magtár kompakt, cellás kőépítészetét mutatja be a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.293699,
+                        33.273549
+                  ]
+            },
+            {
+                  "name": "Ksar Semoumema",
+                  "text": "A Ksar Semoumema romjai egy történelmi erődített raktárépület elszórt maradványait emelik ki a Dahar-fennsík száraz környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        10.324714,
+                        33.211193
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 02",
+                  "text": "A Dahar-fennsíkon található második Draa Kaid régészeti lelőhely további építészeti nyomokat tartalmaz a magaslati gerinc mentén.",
+                  "category": "historical",
+                  "coords": [
+                        10.249467,
+                        33.260902
+                  ]
+            },
+            {
+                  "name": "Kourikhia",
+                  "text": "A Dahar-fennsíkon található Kourikhia romok mállott kőalapokból állnak, amelyek egy történelmi települést vagy tárolóterületet jeleznek.",
+                  "category": "historical",
+                  "coords": [
+                        10.326871,
+                        33.24587
+                  ]
+            },
+            {
+                  "name": "ruines près de la Tsmed 02",
+                  "text": "Egy ősi ciszterna közelében található romok a Dahar-fennsíkon a víztárolás fontosságát bizonyítják a történelmi sivatagi közösségekben.",
+                  "category": "historical",
+                  "coords": [
+                        10.257761,
+                        33.212881
+                  ]
+            },
+            {
+                  "name": "Ruines El Kef",
+                  "text": "Az El Kef romjai egy kiemelkedő sziklafalnál helyezkednek el a Dahar-fennsíkon, és a természetes sziklamenedék-lakások maradványait tárják fel.",
+                  "category": "historical",
+                  "coords": [
+                        10.277928,
+                        33.277645
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa ruines",
+                  "text": "A Ksar Kherachfa régészeti lelőhely ezen a részén egy történelmi berber tárolókomplexum erodált boltozatai láthatók a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.286432,
+                        33.188975
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 03",
+                  "text": "A Tsmed el Kherba romok harmadik csoportja egy hagyományos sivatagi ciszterna közelében tömörült történelmi település maradványait tárja fel a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.332986,
+                        33.115447
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 02",
+                  "text": "A Tsmed el Kherba romok második lelőhelye a Dahar-fennsíkon egy történelmi vízgyűjtő rendszerhez kapcsolódó omladozó kőfalakat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        10.33081,
+                        33.121828
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 01",
+                  "text": "A Tsmed el Kherba egy történelmi romokból álló együttes, amely a Dahar-fennsík kietlen vidékén szétszórtan fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        10.328181,
+                        33.122173
+                  ]
+            },
+            {
+                  "name": "Ksar Temzayet (El Ababsa)",
+                  "text": "A Ksar Temzayet, más néven El Ababsa egy hagyományos, erődített berber magtár omladozó maradványa a Dahar-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        10.362525,
+                        33.147439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bir Miteur ruines",
+                  "text": "Ruinele Bir Miteur marchează rămășițele unei așezări antice din jurul unei fântâni în deșert, răspândite pe platoul arid Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.306188,
+                        33.144051
+                  ]
+            },
+            {
+                  "name": "Henchir Gdiss",
+                  "text": "Henchir Gdiss este un sit arheologic de pe platoul Dahar care păstrează fundațiile de piatră ale unei vechi moșii agricole.",
+                  "category": "historical",
+                  "coords": [
+                        10.346904,
+                        33.24897
+                  ]
+            },
+            {
+                  "name": "El Souima ruines",
+                  "text": "Ruinele El Souima oferă o privire arheologică fascinantă asupra așezărilor trecute de pe terenul stâncos al platoului Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.294729,
+                        33.247588
+                  ]
+            },
+            {
+                  "name": "Ancienne Kourikhia",
+                  "text": "Ancienne Kourikhia este un sit arheologic care prezintă rămășițele erodate ale unei așezări timpurii de pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.301273,
+                        33.234515
+                  ]
+            },
+            {
+                  "name": "Ksar Mohammed ben Ammar",
+                  "text": "Ksar Mohammed ben Ammar prezintă zidurile ruinate ale unui grânar fortificat tradițional, caracteristic platoului Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.284864,
+                        33.183609
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Aceste ruine nenumite de pe platoul Dahar conțin fragmente de piatră împrăștiate care indică o viață nomadă sau agricolă antică.",
+                  "category": "historical",
+                  "coords": [
+                        10.301799,
+                        33.170465
+                  ]
+            },
+            {
+                  "name": "Ras Kherachfa ruines",
+                  "text": "Ruinele Ras Kherachfa sunt situate pe un vârf proeminent al platoul Dahar, dezvăluind fundații istorice strategice.",
+                  "category": "historical",
+                  "coords": [
+                        10.273058,
+                        33.17461
+                  ]
+            },
+            {
+                  "name": "Oued el Khil ruines",
+                  "text": "Situate lângă o albie uscată a unui râu, ruinele Oued el Khil de pe platoul Dahar arată rămășițele unor așezări antice dependente de apă.",
+                  "category": "historical",
+                  "coords": [
+                        10.263975,
+                        33.179708
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi - citadelle",
+                  "text": "Cetatea Ksar Ouled Mehdi se ridică ca o fortăreață în ruină pe platoul Dahar, protejând odată stocurile locale de cereale.",
+                  "category": "historical",
+                  "coords": [
+                        10.23557,
+                        33.158355
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi (El Ouzeghna)",
+                  "text": "Ksar Ouled Mehdi, cunoscut și sub numele de El Ouzeghna, prezintă rămășițele celulelor de depozitare cu mai multe etaje construite de triburile berbere pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.236788,
+                        33.157793
+                  ]
+            },
+            {
+                  "name": "Dahar el Behim",
+                  "text": "Situl arheologic Dahar el Behim dezvăluie urme structurale antice încastrate în suprafața pietroasă a platoului Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.208908,
+                        33.154788
+                  ]
+            },
+            {
+                  "name": "Ksar Jraa",
+                  "text": "Ruinele Ksar Jraa scot în evidență arhitectura istorică a grânarelor de deșert folosite de comunitățile locale pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.225724,
+                        33.147649
+                  ]
+            },
+            {
+                  "name": "Ksar Kef el Khedellej",
+                  "text": "Poziționat lângă un afloriment stâncos, situl arheologic Ksar Kef el Khedellej păstrează rămășițele unei structuri defensive antice pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.363128,
+                        33.139419
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed el Assoued",
+                  "text": "Situl arheologic Sidi Ahmed el Assoued include rămășițele unui vechi sanctuar sau așezare care presară peisajul arid al platoului Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.267563,
+                        33.20163
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa",
+                  "text": "Ksar Kherachfa prezintă ruinele impresionante ale unui grânar colectiv pe deal, ilustrând strategiile de supraviețuire pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.292565,
+                        33.188615
+                  ]
+            },
+            {
+                  "name": "Zebassa",
+                  "text": "Ruinele Zebassa oferă o privire în arhitectura de piatră decăzută a așezărilor istorice răspândite pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.363106,
+                        33.20159
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 01",
+                  "text": "Cocoțat pe o creastă pe platoul Dahar, primul sit arheologic Draa Kaid prezintă fundații antice cu vedere la văi.",
+                  "category": "historical",
+                  "coords": [
+                        10.252146,
+                        33.257378
+                  ]
+            },
+            {
+                  "name": "Ksar Kourikhia",
+                  "text": "Ksar Kourikhia este un grânar fortificat în ruină care a servit odată ca centru vital de depozitare a alimentelor pentru triburile locale de pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.334168,
+                        33.241936
+                  ]
+            },
+            {
+                  "name": "Sidi Said ben Salah ruines",
+                  "text": "Situl arheologic Sidi Said ben Salah cuprinde rămășițe structurale antice despre care se crede că sunt legate de un marabout local de pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.256297,
+                        33.242107
+                  ]
+            },
+            {
+                  "name": "Ksar El Guesirate - runines 02",
+                  "text": "Al doilea grup de ruine Ksar El Guesirate de pe platoul Dahar prezintă ziduri erodate ale vechilor unități de depozitare berbere.",
+                  "category": "historical",
+                  "coords": [
+                        10.24587,
+                        33.226539
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Acest Ksar nenumit de pe platoul Dahar este o dovadă a dependenței istorice a regiunii de grânarele comunale, ușor de apărat.",
+                  "category": "historical",
+                  "coords": [
+                        10.278146,
+                        33.23019
+                  ]
+            },
+            {
+                  "name": "Ksar El Gsir",
+                  "text": "Ksar El Gsir este un sit arheologic care prezintă arhitectura de piatră compactă și celulară a unui mic grânar de deșert de pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.293699,
+                        33.273549
+                  ]
+            },
+            {
+                  "name": "Ksar Semoumema",
+                  "text": "Ruinele Ksar Semoumema evidențiază rămășițele împrăștiate ale unui depozit fortificat istoric în mediul arid al platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.324714,
+                        33.211193
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 02",
+                  "text": "Al doilea sit arheologic Draa Kaid de pe platoul Dahar conține alte urme structurale de-a lungul crestei înalte.",
+                  "category": "historical",
+                  "coords": [
+                        10.249467,
+                        33.260902
+                  ]
+            },
+            {
+                  "name": "Kourikhia",
+                  "text": "Ruinele Kourikhia de pe platoul Dahar constau din fundații de piatră erodate care indică o așezare istorică sau o zonă de depozitare.",
+                  "category": "historical",
+                  "coords": [
+                        10.326871,
+                        33.24587
+                  ]
+            },
+            {
+                  "name": "ruines près de la Tsmed 02",
+                  "text": "Situate lângă o cisternă veche, aceste ruine de pe platoul Dahar demonstrează importanța depozitării apei în comunitățile istorice deșertice.",
+                  "category": "historical",
+                  "coords": [
+                        10.257761,
+                        33.212881
+                  ]
+            },
+            {
+                  "name": "Ruines El Kef",
+                  "text": "Ruinele El Kef sunt poziționate vizavi de o față stâncoasă proeminentă pe platoul Dahar, expunând rămășițele locuințelor naturale adăpostite de stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        10.277928,
+                        33.277645
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa ruines",
+                  "text": "Această secțiune a sitului arheologic Ksar Kherachfa expune bolțile erodate ale unui complex istoric de depozitare berber de pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.286432,
+                        33.188975
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 03",
+                  "text": "Al treilea grup de ruine Tsmed el Kherba dezvăluie rămășițe ale locuințelor istorice grupate în apropierea unei cisterne tradiționale din deșert pe platoul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.332986,
+                        33.115447
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 02",
+                  "text": "Al doilea sit al ruinelor Tsmed el Kherba de pe platoul Dahar prezintă ziduri de piatră dărăpănate asociate cu un sistem istoric de captare a apei.",
+                  "category": "historical",
+                  "coords": [
+                        10.33081,
+                        33.121828
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 01",
+                  "text": "Tsmed el Kherba este un grup de ruine istorice împrăștiate în peisajul arid al podișului Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.328181,
+                        33.122173
+                  ]
+            },
+            {
+                  "name": "Ksar Temzayet (El Ababsa)",
+                  "text": "Ksar Temzayet, cunoscut și sub numele de El Ababsa, prezintă rămășițele prăbușite ale unui hambar fortificat tradițional berber de pe podișul Dahar.",
+                  "category": "historical",
+                  "coords": [
+                        10.362525,
+                        33.147439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bir Miteur ruines",
+                  "text": "The Bir Miteur ruins mark the remains of an ancient desert well settlement scattered across the arid Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.306188,
+                        33.144051
+                  ]
+            },
+            {
+                  "name": "Henchir Gdiss",
+                  "text": "Henchir Gdiss is an archaeological site on the Dahar Plateau preserving the stone foundations of an ancient agricultural estate.",
+                  "category": "historical",
+                  "coords": [
+                        10.346904,
+                        33.24897
+                  ]
+            },
+            {
+                  "name": "El Souima ruines",
+                  "text": "The El Souima ruins offer an intriguing archaeological glimpse into past habitation on the rocky terrain of the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.294729,
+                        33.247588
+                  ]
+            },
+            {
+                  "name": "Ancienne Kourikhia",
+                  "text": "Ancienne Kourikhia is an archaeological site featuring the weathered remnants of an early settlement on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.301273,
+                        33.234515
+                  ]
+            },
+            {
+                  "name": "Ksar Mohammed ben Ammar",
+                  "text": "Ksar Mohammed ben Ammar features the crumbling walls of a traditional fortified granary characteristic of the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.284864,
+                        33.183609
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "These unnamed ruins on the Dahar Plateau contain scattered stone fragments pointing to ancient nomadic or agricultural life.",
+                  "category": "historical",
+                  "coords": [
+                        10.301799,
+                        33.170465
+                  ]
+            },
+            {
+                  "name": "Ras Kherachfa ruines",
+                  "text": "The Ras Kherachfa ruins are situated on a prominent peak of the Dahar Plateau, revealing strategic historical foundations.",
+                  "category": "historical",
+                  "coords": [
+                        10.273058,
+                        33.17461
+                  ]
+            },
+            {
+                  "name": "Oued el Khil ruines",
+                  "text": "Located near a dry riverbed, the Oued el Khil ruins on the Dahar Plateau show the remnants of water-dependent ancient settlements.",
+                  "category": "historical",
+                  "coords": [
+                        10.263975,
+                        33.179708
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi - citadelle",
+                  "text": "The citadel of Ksar Ouled Mehdi stands as a ruined fortress on the Dahar Plateau, once protecting local grain stores.",
+                  "category": "historical",
+                  "coords": [
+                        10.23557,
+                        33.158355
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Mehdi (El Ouzeghna)",
+                  "text": "Ksar Ouled Mehdi, also known as El Ouzeghna, features the remains of multi-story storage cells built by Berber tribes on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.236788,
+                        33.157793
+                  ]
+            },
+            {
+                  "name": "Dahar el Behim",
+                  "text": "The archaeological site of Dahar el Behim reveals ancient structural footprints embedded in the stony surface of the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.208908,
+                        33.154788
+                  ]
+            },
+            {
+                  "name": "Ksar Jraa",
+                  "text": "The ruins of Ksar Jraa highlight the historical architecture of desert granaries used by local communities on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.225724,
+                        33.147649
+                  ]
+            },
+            {
+                  "name": "Ksar Kef el Khedellej",
+                  "text": "Positioned near a rocky outcrop, the archaeological site of Ksar Kef el Khedellej preserves the remnants of an ancient defensive structure on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.363128,
+                        33.139419
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed el Assoued",
+                  "text": "The archaeological site of Sidi Ahmed el Assoued includes remnants of an old sanctuary or settlement dotting the arid landscape of the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.267563,
+                        33.20163
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa",
+                  "text": "Ksar Kherachfa presents the impressive ruins of a collective hillside granary, illustrating the survival strategies on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.292565,
+                        33.188615
+                  ]
+            },
+            {
+                  "name": "Zebassa",
+                  "text": "The ruins of Zebassa offer a glimpse into the decayed stone architecture of historic settlements scattered across the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.363106,
+                        33.20159
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 01",
+                  "text": "Perched on a ridge on the Dahar Plateau, the first Draa Kaid archaeological site features ancient foundations overlooking the valleys.",
+                  "category": "historical",
+                  "coords": [
+                        10.252146,
+                        33.257378
+                  ]
+            },
+            {
+                  "name": "Ksar Kourikhia",
+                  "text": "Ksar Kourikhia is a ruined fortified granary that once served as a vital food storage hub for local tribes on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.334168,
+                        33.241936
+                  ]
+            },
+            {
+                  "name": "Sidi Said ben Salah ruines",
+                  "text": "The archaeological site of Sidi Said ben Salah encompasses ancient structural remains believed to be tied to a local marabout on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.256297,
+                        33.242107
+                  ]
+            },
+            {
+                  "name": "Ksar El Guesirate - runines 02",
+                  "text": "The second cluster of Ksar El Guesirate ruins on the Dahar Plateau features eroded walls of ancient Berber storage units.",
+                  "category": "historical",
+                  "coords": [
+                        10.24587,
+                        33.226539
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "This unnamed Ksar on the Dahar Plateau is a testament to the region's historical reliance on communal, easily defensible granaries.",
+                  "category": "historical",
+                  "coords": [
+                        10.278146,
+                        33.23019
+                  ]
+            },
+            {
+                  "name": "Ksar El Gsir",
+                  "text": "Ksar El Gsir is an archaeological site exhibiting the compact, cellular stone architecture of a small desert granary on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.293699,
+                        33.273549
+                  ]
+            },
+            {
+                  "name": "Ksar Semoumema",
+                  "text": "The ruins of Ksar Semoumema highlight the scattered remains of a historical fortified storehouse in the arid environment of the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.324714,
+                        33.211193
+                  ]
+            },
+            {
+                  "name": "Draa Kaid ruines 02",
+                  "text": "The second Draa Kaid archaeological site on the Dahar Plateau contains further structural traces along the elevated ridge.",
+                  "category": "historical",
+                  "coords": [
+                        10.249467,
+                        33.260902
+                  ]
+            },
+            {
+                  "name": "Kourikhia",
+                  "text": "The Kourikhia ruins on the Dahar Plateau consist of weathered stone foundations indicating a historic settlement or storage area.",
+                  "category": "historical",
+                  "coords": [
+                        10.326871,
+                        33.24587
+                  ]
+            },
+            {
+                  "name": "ruines près de la Tsmed 02",
+                  "text": "Located near an ancient cistern, these ruins on the Dahar Plateau demonstrate the importance of water storage in historic desert communities.",
+                  "category": "historical",
+                  "coords": [
+                        10.257761,
+                        33.212881
+                  ]
+            },
+            {
+                  "name": "Ruines El Kef",
+                  "text": "The El Kef ruins are positioned against a prominent rock face on the Dahar Plateau, exposing remnants of natural rock-sheltered dwellings.",
+                  "category": "historical",
+                  "coords": [
+                        10.277928,
+                        33.277645
+                  ]
+            },
+            {
+                  "name": "Ksar Kherachfa ruines",
+                  "text": "This section of the Ksar Kherachfa archaeological site displays the eroded vaults of a historic Berber storage complex on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.286432,
+                        33.188975
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 03",
+                  "text": "The third cluster of the Tsmed el Kherba ruins reveals remnants of historic habitation clustered near a traditional desert cistern on the Dahar Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.332986,
+                        33.115447
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 02",
+                  "text": "The second site of the Tsmed el Kherba ruins on the Dahar Plateau features dilapidated stone walls associated with a historic water catchment system.",
+                  "category": "historical",
+                  "coords": [
+                        10.33081,
+                        33.121828
+                  ]
+            },
+            {
+                  "name": "Tsmed el Kherba ruines 01",
+                  "text": "Tsmed el Kherba is a cluster of historic ruins scattered across the arid landscape of the Dahar plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.328181,
+                        33.122173
+                  ]
+            },
+            {
+                  "name": "Ksar Temzayet (El Ababsa)",
+                  "text": "Ksar Temzayet, also known as El Ababsa, features the crumbling remains of a traditional Berber fortified granary on the Dahar plateau.",
+                  "category": "historical",
+                  "coords": [
+                        10.362525,
+                        33.147439
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "TN-08",
     coords: [10.3, 33.2],
@@ -363,7 +1695,88 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "djebel-bou-kornine-relief-v2",
+    id: "djebel-bou-kornine-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jebel Boukornine",
+                  "text": "Der Jebel Boukornine ist ein markanter Berggipfel, der die Landschaft der Region prägt.",
+                  "category": "natural",
+                  "coords": [
+                        10.333388,
+                        36.705028
+                  ]
+            },
+            {
+                  "name": "Ecomuseum",
+                  "text": "Das Ecomuseum am Jebel Boukornine widmet sich der Natur und Ökologie der umliegenden Bergregion.",
+                  "category": "museum",
+                  "coords": [
+                        10.32973,
+                        36.726345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jebel Boukornine",
+                  "text": "A Jebel Boukornine egy feltűnő hegycsúcs, amely meghatározza a régió tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        10.333388,
+                        36.705028
+                  ]
+            },
+            {
+                  "name": "Ecomuseum",
+                  "text": "A Jebel Boukornine közelében található Ecomuseum a környező hegyvidék természetét és ökológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.32973,
+                        36.726345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jebel Boukornine",
+                  "text": "Jebel Boukornine este un vârf montan proeminent care domină peisajul regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        10.333388,
+                        36.705028
+                  ]
+            },
+            {
+                  "name": "Ecomuseum",
+                  "text": "Ecomuzeul de lângă Jebel Boukornine este dedicat naturii și ecologiei regiunii montane înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        10.32973,
+                        36.726345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jebel Boukornine",
+                  "text": "Jebel Boukornine is a prominent mountain peak that dominates the landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        10.333388,
+                        36.705028
+                  ]
+            },
+            {
+                  "name": "Ecomuseum",
+                  "text": "The Ecomuseum near Jebel Boukornine is dedicated to the nature and ecology of the surrounding mountainous region.",
+                  "category": "museum",
+                  "coords": [
+                        10.32973,
+                        36.726345
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-11",
     coords: [10.33, 36.68],
@@ -507,7 +1920,52 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "djebel-fkirine-relief-v2",
+    id: "djebel-fkirine-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djebel Oust archaeological site;grande cisterne",
+                  "text": "Die archäologische Stätte Djebel Oust umfasst einen massiven antiken römischen Zisternenkomplex am Fuße der Berglandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        10.070816,
+                        36.533676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djebel Oust archaeological site;grande cisterne",
+                  "text": "A Djebel Oust-i régészeti lelőhely egy hatalmas ókori római víztározó komplexumot rejt a hegyvidék lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        10.070816,
+                        36.533676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djebel Oust archaeological site;grande cisterne",
+                  "text": "Situl arheologic Djebel Oust prezintă un complex masiv de cisterne de apă romane antice, la poalele munților.",
+                  "category": "historical",
+                  "coords": [
+                        10.070816,
+                        36.533676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djebel Oust archaeological site;grande cisterne",
+                  "text": "The Djebel Oust archaeological site features a massive ancient Roman water cistern complex nestled near the mountains.",
+                  "category": "historical",
+                  "coords": [
+                        10.070816,
+                        36.533676
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-11",
     coords: [10.0, 36.5],
@@ -579,7 +2037,52 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "djebel-es-sif-relief-v2",
+    id: "djebel-es-sif-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zama Regia",
+                  "text": "Diese antike archäologische Stätte in der Nähe der historischen Schlacht von Zama zeigt Überreste einer wichtigen numidischen und römischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        9.28587,
+                        36.112119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zama Regia",
+                  "text": "Ez a híres történelmi zamai csata helyszíne közelében található régészeti lelőhely egy fontos numidiai és római város maradványait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        9.28587,
+                        36.112119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zama Regia",
+                  "text": "Aflat în apropierea locului istoricei Bătălii de la Zama, acest sit arheologic antic dezvăluie rămășițele unui important oraș numidian și roman.",
+                  "category": "historical",
+                  "coords": [
+                        9.28587,
+                        36.112119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zama Regia",
+                  "text": "Believed to be near the site of the historical Battle of Zama, this ancient archaeological site reveals remnants of an important Numidian and Roman city.",
+                  "category": "historical",
+                  "coords": [
+                        9.28587,
+                        36.112119
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-02",
     coords: [9.3, 36.1],
@@ -615,7 +2118,52 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "djebel-el-gharrah-relief-v2",
+    id: "djebel-el-gharrah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "green land",
+                  "text": "Green land ist ein regionaler Themenpark vor der rauen Kulisse des Reliefs von Djebel el Gharrah.",
+                  "category": "recreational",
+                  "coords": [
+                        8.860691,
+                        35.175836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "green land",
+                  "text": "A Green land egy regionális vidámpark a Djebel el Gharrah domborzatának zord hátterében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.860691,
+                        35.175836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "green land",
+                  "text": "Green land este un parc tematic regional amplasat pe fundalul accidentat al reliefului Djebel el Gharrah.",
+                  "category": "recreational",
+                  "coords": [
+                        8.860691,
+                        35.175836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "green land",
+                  "text": "Green land is a regional theme park set against the rugged backdrop of the Djebel el Gharrah relief.",
+                  "category": "recreational",
+                  "coords": [
+                        8.860691,
+                        35.175836
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TN-12",
     coords: [8.9, 35.2],
@@ -687,7 +2235,88 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     },
   },
   {
-    id: "chott-el-gharsa-relief-v2",
+    id: "chott-el-gharsa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ong Jemel",
+                  "text": "Ong Jemel ist ein markanter Felsenaussichtspunkt in Form eines Kamelhalses mit Blick auf den Chott el Gharsa.",
+                  "category": "natural",
+                  "coords": [
+                        7.912406,
+                        34.016029
+                  ]
+            },
+            {
+                  "name": "Star Wars Set - Mos Espa",
+                  "text": "Das Star Wars Set von Mos Espa zeigt verlassene Filmrequisiten eines fiktiven Raumhafens, der in die Dünen von Chott el Gharsa gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.842796,
+                        33.994235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ong Jemel",
+                  "text": "Az Ong Jemel egy jellegzetes, teve nyakára emlékeztető sziklás kilátó, amely a Chott el Gharsa felett magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        7.912406,
+                        34.016029
+                  ]
+            },
+            {
+                  "name": "Star Wars Set - Mos Espa",
+                  "text": "A Mos Espa-i Star Wars díszlet egy kitalált űrkikötő elhagyatott filmes kellékeit mutatja be a Chott el Gharsa dűnéi között.",
+                  "category": "landmark",
+                  "coords": [
+                        7.842796,
+                        33.994235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ong Jemel",
+                  "text": "Ong Jemel este un punct de belvedere stâncos distinctiv, în formă de gât de cămilă, cu vedere la Chott el Gharsa.",
+                  "category": "natural",
+                  "coords": [
+                        7.912406,
+                        34.016029
+                  ]
+            },
+            {
+                  "name": "Star Wars Set - Mos Espa",
+                  "text": "Decorul Star Wars de la Mos Espa prezintă recuzită cinematografică abandonată a unui port spațial fictiv construit în dunele de la Chott el Gharsa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.842796,
+                        33.994235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ong Jemel",
+                  "text": "Ong Jemel is a distinctive rocky viewpoint shaped like a camel's neck overlooking the Chott el Gharsa.",
+                  "category": "natural",
+                  "coords": [
+                        7.912406,
+                        34.016029
+                  ]
+            },
+            {
+                  "name": "Star Wars Set - Mos Espa",
+                  "text": "The Star Wars Set of Mos Espa features abandoned movie props of a fictional spaceport built into the Chott el Gharsa dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        7.842796,
+                        33.994235
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "TN-07",
     coords: [7.9, 34.0],

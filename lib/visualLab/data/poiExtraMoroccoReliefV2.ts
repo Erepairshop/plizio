@@ -73,7 +73,52 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       fr: ["La plus haute montagne du Maroc et d'Afrique du Nord.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/mount-toubkal-relief-v2.webp"},
   {
-    id: "anti-atlas-relief-v2",
+    id: "anti-atlas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "rocks",
+                  "text": "Dieser Aussichtspunkt bietet einen beeindruckenden Blick auf die massiven, glatten rosa Granitblöcke des Antiatlas.",
+                  "category": "natural",
+                  "coords": [
+                        -8.496434,
+                        29.441646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "rocks",
+                  "text": "Ez a kilátó lenyűgöző rálátást nyújt az Anti-Atlasz hegység masszív, sima rózsaszín gránitszikláira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.496434,
+                        29.441646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "rocks",
+                  "text": "Acest punct de belvedere oferă o privire impresionantă asupra blocurilor masive de granit roz din Anti-Atlas.",
+                  "category": "natural",
+                  "coords": [
+                        -8.496434,
+                        29.441646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "rocks",
+                  "text": "This viewpoint offers an impressive look at the massive, smooth pink granite boulders typical of the Anti-Atlas.",
+                  "category": "natural",
+                  "coords": [
+                        -8.496434,
+                        29.441646
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MA-05",
     coords: [-8.5, 29.5],
@@ -213,7 +258,232 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       fr: ["Longue vallée fluviale en bordure du Sahara.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Est documenté dans des études locales et régionales."],
     }, image: "/poi-images/draa-valley-relief-v2.webp"},
   {
-    id: "dadès-valley-relief-v2",
+    id: "dadès-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorges de Sidi Boubkere",
+                  "text": "Eine dramatische Schluchtformation im Dadèstal, geprägt von steilen Felswänden.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.988617,
+                        31.439003
+                  ]
+            },
+            {
+                  "name": "Affenfinger",
+                  "text": "Ein Aussichtspunkt mit Blick auf die bizarren, röhrenförmigen Felsformationen, die als \"Affenpfoten\" bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        -5.970119,
+                        31.449237
+                  ]
+            },
+            {
+                  "name": "fenêtre rocheuse",
+                  "text": "Ein natürliches Felsenfenster, das den Blick über die weite Landschaft des Dadèstals freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.964484,
+                        31.45043
+                  ]
+            },
+            {
+                  "name": "Canyon des Doigts de Singe",
+                  "text": "Ein berühmter Canyon, der von markanten, von der Erosion geformten Sandsteinpfeilern gesäumt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.967207,
+                        31.44937
+                  ]
+            },
+            {
+                  "name": "Kasbahs",
+                  "text": "Ein Aussichtspunkt, der die traditionellen, aus Lehm erbauten Kasbahs im Tal perfekt in Szene setzt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.973157,
+                        31.454588
+                  ]
+            },
+            {
+                  "name": "rocks",
+                  "text": "Ein Aussichtspunkt, der sich auf die einzigartigen geologischen Gesteinsformationen des Dadèstals konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        -5.945452,
+                        31.453039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorges de Sidi Boubkere",
+                  "text": "Drámai szurdokképződmény a Dadès-völgyben, amelyet meredek sziklafalak jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.988617,
+                        31.439003
+                  ]
+            },
+            {
+                  "name": "Doigts des Singes",
+                  "text": "Kilátó, ahonnan a \"majomujjak\" néven ismert bizarr, csőszerű sziklaalakzatok láthatók.",
+                  "category": "natural",
+                  "coords": [
+                        -5.970119,
+                        31.449237
+                  ]
+            },
+            {
+                  "name": "fenêtre rocheuse",
+                  "text": "Természetes sziklaablak, amely a Dadès-völgy tágas tájára nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -5.964484,
+                        31.45043
+                  ]
+            },
+            {
+                  "name": "Canyon des Doigts de Singe",
+                  "text": "Híres kanyon, amelyet jellegzetes, erózió által formált homokkőoszlopok szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.967207,
+                        31.44937
+                  ]
+            },
+            {
+                  "name": "Kasbahs",
+                  "text": "Kilátópont, amely tökéletesen megmutatja a völgy hagyományos, vályogból épült kaszbáit.",
+                  "category": "natural",
+                  "coords": [
+                        -5.973157,
+                        31.454588
+                  ]
+            },
+            {
+                  "name": "rocks",
+                  "text": "A Dadès-völgy egyedülálló geológiai sziklaalakzataira fókuszáló kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        -5.945452,
+                        31.453039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorges de Sidi Boubkere",
+                  "text": "O formațiune spectaculoasă de defileu în Valea Dadès, caracterizată de pereți stâncoși abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.988617,
+                        31.439003
+                  ]
+            },
+            {
+                  "name": "Doigts des Singes",
+                  "text": "Un punct de belvedere cu vedere la formațiunile stâncoase bizare, tubulare, cunoscute sub numele de „degetele maimuței”.",
+                  "category": "natural",
+                  "coords": [
+                        -5.970119,
+                        31.449237
+                  ]
+            },
+            {
+                  "name": "fenêtre rocheuse",
+                  "text": "O fereastră naturală de stâncă care încadrează priveliștile asupra peisajului din Valea Dadès.",
+                  "category": "natural",
+                  "coords": [
+                        -5.964484,
+                        31.45043
+                  ]
+            },
+            {
+                  "name": "Canyon des Doigts de Singe",
+                  "text": "Un canion faimos străjuit de stâlpi de gresie distinctivi, sculptați de eroziune.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.967207,
+                        31.44937
+                  ]
+            },
+            {
+                  "name": "Kasbahs",
+                  "text": "Un punct de belvedere care pune în valoare kasbah-urile tradiționale din lut, risipite prin vale.",
+                  "category": "natural",
+                  "coords": [
+                        -5.973157,
+                        31.454588
+                  ]
+            },
+            {
+                  "name": "rocks",
+                  "text": "Un punct de belvedere concentrat pe formațiunile geologice stâncoase unice ale Văii Dadès.",
+                  "category": "natural",
+                  "coords": [
+                        -5.945452,
+                        31.453039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorges de Sidi Boubkere",
+                  "text": "A dramatic gorge formation in the Dadès Valley characterized by steep rock walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.988617,
+                        31.439003
+                  ]
+            },
+            {
+                  "name": "Monkey Fingers Viewpoint",
+                  "text": "A viewpoint overlooking the bizarre, tubular rock formations famously known as the \"monkey fingers\".",
+                  "category": "natural",
+                  "coords": [
+                        -5.970119,
+                        31.449237
+                  ]
+            },
+            {
+                  "name": "fenêtre rocheuse",
+                  "text": "A natural rocky window framing views over the expansive landscape of the Dadès Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -5.964484,
+                        31.45043
+                  ]
+            },
+            {
+                  "name": "Canyon des Doigts de Singe",
+                  "text": "A famous canyon lined with distinctive sandstone pillars sculpted by erosion.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.967207,
+                        31.44937
+                  ]
+            },
+            {
+                  "name": "Kasbahs",
+                  "text": "A vantage point that perfectly showcases the traditional earthen kasbahs scattered throughout the valley.",
+                  "category": "natural",
+                  "coords": [
+                        -5.973157,
+                        31.454588
+                  ]
+            },
+            {
+                  "name": "rocks",
+                  "text": "A viewpoint focusing on the unique geological rock formations of the Dadès Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -5.945452,
+                        31.453039
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MA-09",
     coords: [-5.9, 31.4],
@@ -248,7 +518,304 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       fr: ["Gorges spectaculaires dans le Haut Atlas.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Est documenté dans des études locales et régionales."],
     }, image: "/poi-images/dadès-valley-relief-v2.webp"},
   {
-    id: "todra-gorge-relief-v2",
+    id: "todra-gorge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coeur de la palmeraie",
+                  "text": "Ein malerischer Aussichtspunkt, der ein Panorama des üppig grünen Palmenhains bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -5.582497,
+                        31.550566
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Die zerfallenden Überreste eines traditionellen, befestigten Dorfes aus Lehmziegeln.",
+                  "category": "historical",
+                  "coords": [
+                        -5.577578,
+                        31.551976
+                  ]
+            },
+            {
+                  "name": "Ruines Ksar Ihjjamen",
+                  "text": "Die Überreste der historischen, befestigten Siedlung Ihjjamen inmitten der Palmenoase.",
+                  "category": "historical",
+                  "coords": [
+                        -5.574783,
+                        31.552125
+                  ]
+            },
+            {
+                  "name": "Vue sur la palmeraie et la vallée",
+                  "text": "Ein erhöhter Punkt, der weite Ausblicke über den Palmenhain und das Flusstal ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -5.571803,
+                        31.545411
+                  ]
+            },
+            {
+                  "name": "Ksar Affsalou",
+                  "text": "Ein traditionelles marokkanisches Wehrdorf in der Nähe der beeindruckenden Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.556919,
+                        31.544313
+                  ]
+            },
+            {
+                  "name": "Difficile",
+                  "text": "Ein schwer zugänglicher Aussichtspunkt mit schroffen Panoramablicken auf das Relief der Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        -5.575575,
+                        31.553592
+                  ]
+            },
+            {
+                  "name": "Ancienne Kasbah",
+                  "text": "Ein historisches Kasbah-Gebäude aus Lehmziegeln, das typisch für die Todra-Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.582807,
+                        31.553743
+                  ]
+            },
+            {
+                  "name": "Source des poissons sacrés",
+                  "text": "Eine natürliche Quelle in der Schlucht, die für ihre als heilig geltenden Fische bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.585136,
+                        31.554586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coeur de la palmeraie",
+                  "text": "Festői kilátópont, amely panorámát nyújt a buja zöld pálmaligetre.",
+                  "category": "natural",
+                  "coords": [
+                        -5.582497,
+                        31.550566
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Egy hagyományos, vályogtéglából épült erődített falu omladozó maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.577578,
+                        31.551976
+                  ]
+            },
+            {
+                  "name": "Ruines Ksar Ihjjamen",
+                  "text": "A történelmi, erődített Ihjjamen település maradványai a pálmaoázis közepén.",
+                  "category": "historical",
+                  "coords": [
+                        -5.574783,
+                        31.552125
+                  ]
+            },
+            {
+                  "name": "Vue sur la palmeraie et la vallée",
+                  "text": "Magaslati pont, amely széles kilátást nyújt a pálmaligetre és a folyóvölgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -5.571803,
+                        31.545411
+                  ]
+            },
+            {
+                  "name": "Ksar Affsalou",
+                  "text": "Hagyományos marokkói erődített falu, amely a lenyűgöző szurdok közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.556919,
+                        31.544313
+                  ]
+            },
+            {
+                  "name": "Difficile",
+                  "text": "Nehezen megközelíthető kilátópont, amely zord panorámát nyújt a szurdok domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        -5.575575,
+                        31.553592
+                  ]
+            },
+            {
+                  "name": "Ancienne Kasbah",
+                  "text": "Egy történelmi vályogtégla kaszba épület, amely a Todra régióra jellemző.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.582807,
+                        31.553743
+                  ]
+            },
+            {
+                  "name": "Source des poissons sacrés",
+                  "text": "Természetes forrás a szurdokban, amely szentként tisztelt halairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.585136,
+                        31.554586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coeur de la palmeraie",
+                  "text": "Un punct de belvedere pitoresc care oferă o panoramă a palmierilor luxuriant de verzi.",
+                  "category": "natural",
+                  "coords": [
+                        -5.582497,
+                        31.550566
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Rămășițele prăbușite ale unui sat tradițional fortificat, construit din cărămizi de lut.",
+                  "category": "historical",
+                  "coords": [
+                        -5.577578,
+                        31.551976
+                  ]
+            },
+            {
+                  "name": "Ruines Ksar Ihjjamen",
+                  "text": "Rămășițele așezării fortificate istorice Ihjjamen din mijlocul oazei de palmieri.",
+                  "category": "historical",
+                  "coords": [
+                        -5.574783,
+                        31.552125
+                  ]
+            },
+            {
+                  "name": "Vue sur la palmeraie et la vallée",
+                  "text": "Un punct înalt care permite priveliști largi asupra palmeriei și a văii râului.",
+                  "category": "natural",
+                  "coords": [
+                        -5.571803,
+                        31.545411
+                  ]
+            },
+            {
+                  "name": "Ksar Affsalou",
+                  "text": "Un sat fortificat tradițional marocan, situat în apropierea defileului impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.556919,
+                        31.544313
+                  ]
+            },
+            {
+                  "name": "Difficile",
+                  "text": "Un punct de belvedere greu accesibil, cu priveliști panoramice aspre asupra reliefului defileului.",
+                  "category": "natural",
+                  "coords": [
+                        -5.575575,
+                        31.553592
+                  ]
+            },
+            {
+                  "name": "Ancienne Kasbah",
+                  "text": "O clădire istorică kasbah din cărămidă de lut, tipică regiunii Todra.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.582807,
+                        31.553743
+                  ]
+            },
+            {
+                  "name": "Source des poissons sacrés",
+                  "text": "Un izvor natural în defileu, renumit pentru peștii săi considerați sacri.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.585136,
+                        31.554586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coeur de la palmeraie",
+                  "text": "A scenic viewpoint offering a panorama of the lush green palm grove.",
+                  "category": "natural",
+                  "coords": [
+                        -5.582497,
+                        31.550566
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "The crumbling remains of a traditional fortified mud-brick village.",
+                  "category": "historical",
+                  "coords": [
+                        -5.577578,
+                        31.551976
+                  ]
+            },
+            {
+                  "name": "Ruines Ksar Ihjjamen",
+                  "text": "The remnants of the historic Ihjjamen fortified settlement situated amidst the palm oasis.",
+                  "category": "historical",
+                  "coords": [
+                        -5.574783,
+                        31.552125
+                  ]
+            },
+            {
+                  "name": "Vue sur la palmeraie et la vallée",
+                  "text": "An elevated spot offering sweeping views over the palm grove and the river valley.",
+                  "category": "natural",
+                  "coords": [
+                        -5.571803,
+                        31.545411
+                  ]
+            },
+            {
+                  "name": "Ksar Affsalou",
+                  "text": "A traditional Moroccan fortified village situated near the impressive gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.556919,
+                        31.544313
+                  ]
+            },
+            {
+                  "name": "Hard",
+                  "text": "A difficult-to-access viewpoint offering rugged panoramic views of the gorge's relief.",
+                  "category": "natural",
+                  "coords": [
+                        -5.575575,
+                        31.553592
+                  ]
+            },
+            {
+                  "name": "Ancienne Kasbah",
+                  "text": "A historic mud-brick kasbah structure typical of the Todra region.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.582807,
+                        31.553743
+                  ]
+            },
+            {
+                  "name": "Source des poissons sacrés",
+                  "text": "A natural spring in the gorge renowned for its fish, which are considered sacred.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.585136,
+                        31.554586
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MA-09",
     coords: [-5.6, 31.5],
@@ -458,7 +1025,196 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       fr: ["Grande lagune sur la côte méditerranéenne.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/nador-lagoon-relief-v2.webp"},
   {
-    id: "guelmim-plains-relief-v2",
+    id: "guelmim-plains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardin Botanique Alex et Alessandro",
+                  "text": "Der Jardin Botanique Alex et Alessandro in der Region Guelmim zeigt eine vielfältige Sammlung an wüstenangepassten Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.962213,
+                        28.944763
+                  ]
+            },
+            {
+                  "name": "Musee mémoire des nomades",
+                  "text": "Das Musee mémoire des nomades dokumentiert die traditionelle Lebensweise, Kunst und Kultur der Wüstennomaden rund um Guelmim.",
+                  "category": "museum",
+                  "coords": [
+                        -9.964222,
+                        28.946484
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim",
+                  "text": "Die Porte de Guelmim ist ein monumentales Tor, das den symbolischen Eingang zur Sahara-Region markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.033709,
+                        29.016342
+                  ]
+            },
+            {
+                  "name": "Museum Kasbah",
+                  "text": "Das Museum Kasbah ist in einer traditionellen Lehmfestung untergebracht und widmet sich der regionalen Geschichte der Guelmim-Ebenen.",
+                  "category": "museum",
+                  "coords": [
+                        -9.958792,
+                        28.941257
+                  ]
+            },
+            {
+                  "name": "Borj",
+                  "text": "Das Borj ist ein alter steinerner Wachturm, der einst der Verteidigung der Ebenen von Guelmim diente.",
+                  "category": "castle",
+                  "coords": [
+                        -10.055642,
+                        29.011513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin Botanique Alex et Alessandro",
+                  "text": "A Guelmim régióban található Jardin Botanique Alex et Alessandro a sivataghoz alkalmazkodott növények változatos gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.962213,
+                        28.944763
+                  ]
+            },
+            {
+                  "name": "Musee mémoire des nomades",
+                  "text": "A Musee mémoire des nomades a Guelmim környéki sivatagi nomádok hagyományos életmódját, művészetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.964222,
+                        28.946484
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim",
+                  "text": "A Porte de Guelmim egy monumentális kapu, amely a Szahara régió szimbolikus bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.033709,
+                        29.016342
+                  ]
+            },
+            {
+                  "name": "Museum Kasbah",
+                  "text": "A Museum Kasbah egy hagyományos vályogerődben található, és a Guelmim-síkság regionális történetének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -9.958792,
+                        28.941257
+                  ]
+            },
+            {
+                  "name": "Borj",
+                  "text": "A Borj egy ősi kő őrtorony, amely egykor a Guelmim síkságainak védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        -10.055642,
+                        29.011513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardin Botanique Alex et Alessandro",
+                  "text": "Jardin Botanique Alex et Alessandro din regiunea Guelmim prezintă o colecție diversă de plante adaptate la deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.962213,
+                        28.944763
+                  ]
+            },
+            {
+                  "name": "Musee mémoire des nomades",
+                  "text": "Muzeul memoriei nomazilor documentează stilul de viață tradițional, arta și cultura nomazilor din deșertul din jurul orașului Guelmim.",
+                  "category": "museum",
+                  "coords": [
+                        -9.964222,
+                        28.946484
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim",
+                  "text": "Porte de Guelmim este o poartă monumentală ce marchează intrarea simbolică în regiunea Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.033709,
+                        29.016342
+                  ]
+            },
+            {
+                  "name": "Museum Kasbah",
+                  "text": "Muzeul Kasbah este găzduit într-o fortăreață tradițională de pământ și este dedicat istoriei regionale a câmpiilor Guelmim.",
+                  "category": "museum",
+                  "coords": [
+                        -9.958792,
+                        28.941257
+                  ]
+            },
+            {
+                  "name": "Borj",
+                  "text": "Borj este un vechi turn de veghe din piatră, folosit cândva pentru apărarea câmpiilor din Guelmim.",
+                  "category": "castle",
+                  "coords": [
+                        -10.055642,
+                        29.011513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin Botanique Alex et Alessandro",
+                  "text": "The Jardin Botanique Alex et Alessandro in the Guelmim plains showcases a diverse collection of desert-adapted flora.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.962213,
+                        28.944763
+                  ]
+            },
+            {
+                  "name": "Musee mémoire des nomades",
+                  "text": "The Musee mémoire des nomades preserves the traditional lifestyle, heritage, and artifacts of the desert nomads around Guelmim.",
+                  "category": "museum",
+                  "coords": [
+                        -9.964222,
+                        28.946484
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim",
+                  "text": "The Porte de Guelmim is a monumental archway that serves as a symbolic entrance to the Saharan region.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.033709,
+                        29.016342
+                  ]
+            },
+            {
+                  "name": "Museum Kasbah",
+                  "text": "The Museum Kasbah is housed within a traditional earthen fortress, displaying artifacts from the regional history of the Guelmim plains.",
+                  "category": "museum",
+                  "coords": [
+                        -9.958792,
+                        28.941257
+                  ]
+            },
+            {
+                  "name": "Borj",
+                  "text": "The Borj is an ancient stone watchtower historically used to defend the sweeping plains of Guelmim.",
+                  "category": "castle",
+                  "coords": [
+                        -10.055642,
+                        29.011513
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MA-05",
     coords: [-10.0, 29.0],
@@ -528,7 +1284,520 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       fr: ["Un oued important dans le sud-ouest.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-noun-valley-relief-v2.webp"},
   {
-    id: "figuig-oasis-relief-v2",
+    id: "figuig-oasis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Minaret Pierreux",
+                  "text": "Eine anerkannte historische Sehenswürdigkeit in der Oase Figuig, die über ein altes, strukturell markantes steinernes Minarett verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234754,
+                        32.115157
+                  ]
+            },
+            {
+                  "name": "Mellah Oudaghir",
+                  "text": "Das historische jüdische Viertel, eingebettet in die traditionellen Lehmziegelgassen der palmengesäumten Oase Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234634,
+                        32.118078
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Mahrez",
+                  "text": "Ein befestigtes Lehmziegeldorf, das die komplizierte, für die Palmenhaine von Figuig einzigartige Oasenarchitektur repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.233442,
+                        32.112801
+                  ]
+            },
+            {
+                  "name": "Bahbouha",
+                  "text": "Ein traditioneller kultureller Ort unter dem dichten Blätterdach von Dattelpalmen in der historischen Oase Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.235806,
+                        32.114997
+                  ]
+            },
+            {
+                  "name": "Ksar Jouaber (Oulad Jaber)",
+                  "text": "Eine befestigte traditionelle Siedlung, die sich nahtlos in die umliegenden landwirtschaftlichen Palmengärten von Figuig einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.236956,
+                        32.115229
+                  ]
+            },
+            {
+                  "name": "Ksar Tachroumet",
+                  "text": "Die verwitterten irdenen Ruinen eines alten befestigten Ksars, die zwischen den Dattelpalmen der Oase Figuig verborgen sind.",
+                  "category": "historical",
+                  "coords": [
+                        -1.246345,
+                        32.11292
+                  ]
+            },
+            {
+                  "name": "Arrahba",
+                  "text": "Ein zentraler Gemeinschaftsplatz in der Oase Figuig, der historisch als traditioneller Versammlungs- und Marktbereich diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234254,
+                        32.116465
+                  ]
+            },
+            {
+                  "name": "Ksar Laabidate Ait Annaj",
+                  "text": "Ein historischer Lehmziegel-Ksar, der die robuste befestigte Architektur zeigt, die für das Leben in der Oase Figuig entwickelt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.238995,
+                        32.11845
+                  ]
+            },
+            {
+                  "name": "Tachraft Oudaghir",
+                  "text": "Eine architektonische Attraktion, die in das Lehmziegel-Labyrinth des antiken Oudaghir-Sektors in Figuig integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.23359,
+                        32.118119
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Slimane",
+                  "text": "Eine antike irdene Siedlung in Figuig, die durch ihre hohen, defensiven Lehmziegelmauern und schattigen Gassen gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.230161,
+                        32.114273
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Fougani Ait Aamer",
+                  "text": "Ein einzigartiger befestigter Ksar in der Oase Figuig, berühmt für seine traditionelle erhöhte Gemeinschaftsbadehaus-Struktur.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.217782,
+                        32.118366
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Tahtani (Ait Ouadday)",
+                  "text": "Dieser traditionelle befestigte Ksar liegt inmitten der von Palmen geprägten Landschaft der Figuig-Oase.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.21783,
+                        32.115608
+                  ]
+            },
+            {
+                  "name": "Ksar Al Maiz",
+                  "text": "Ksar Al Maiz ist ein historisches befestigtes Lehmdorf in der Oase Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.227947,
+                        32.114674
+                  ]
+            },
+            {
+                  "name": "Maison de Culture",
+                  "text": "Dieses lokale Kunstzentrum veranstaltet kulturelle Events und Gemeindetreffen im Herzen der Figuig-Oase.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.230548,
+                        32.108884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Minaret Pierreux",
+                  "text": "A Figuig oázis elismert örökségi látványossága, amely egy ősi, szerkezetileg különleges kő minarettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234754,
+                        32.115157
+                  ]
+            },
+            {
+                  "name": "Mellah Oudaghir",
+                  "text": "A történelmi zsidó negyed a pálmákkal szegélyezett Figuig oázis hagyományos vályogtégla sikátoraiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234634,
+                        32.118078
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Mahrez",
+                  "text": "Vályogtéglából épült erődített falu, amely a Figuig pálmaligetek egyedi, bonyolult oázisépítészetét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.233442,
+                        32.112801
+                  ]
+            },
+            {
+                  "name": "Bahbouha",
+                  "text": "Hagyományos kulturális helyszín a datolyapálmák sűrű lombkoronája alatt a történelmi Figuig oázisban.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.235806,
+                        32.114997
+                  ]
+            },
+            {
+                  "name": "Ksar Jouaber (Oulad Jaber)",
+                  "text": "Erődített hagyományos település, amely zökkenőmentesen beleolvad Figuig környező mezőgazdasági pálmakertjeibe.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.236956,
+                        32.115229
+                  ]
+            },
+            {
+                  "name": "Ksar Tachroumet",
+                  "text": "Egy ősi erődített ksar viharvert földi romjai a Figuig oázis datolyapálmái között.",
+                  "category": "historical",
+                  "coords": [
+                        -1.246345,
+                        32.11292
+                  ]
+            },
+            {
+                  "name": "Arrahba",
+                  "text": "Központi közösségi tér a Figuig oázison belül, amely történelmileg hagyományos gyülekező- és piacként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234254,
+                        32.116465
+                  ]
+            },
+            {
+                  "name": "Ksar Laabidate Ait Annaj",
+                  "text": "Történelmi vályogtégla ksar, amely bemutatja a Figuig oázisban zajló élethez kifejlesztett robusztus erődített építészetet.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.238995,
+                        32.11845
+                  ]
+            },
+            {
+                  "name": "Tachraft Oudaghir",
+                  "text": "A Figuig ősi Oudaghir szektorának vályogtégla labirintusába integrált építészeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.23359,
+                        32.118119
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Slimane",
+                  "text": "Egy ősi földi település Figuigban, amelyet magas, védelmi célokat szolgáló vályogtégla falak és árnyékos sikátorok jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.230161,
+                        32.114273
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Fougani Ait Aamer",
+                  "text": "Egyedülálló erődített ksar a Figuig oázisban, amely híres hagyományos megemelt közösségi fürdőházáról.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.217782,
+                        32.118366
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Tahtani (Ait Ouadday)",
+                  "text": "Ez a hagyományos erődített ksar a pálmafákkal teli Figuig-oázis táján található.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.21783,
+                        32.115608
+                  ]
+            },
+            {
+                  "name": "Ksar Al Maiz",
+                  "text": "A Ksar Al Maiz egy történelmi, erődített, vályogtéglából épült falu a Figuig-oázisban.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.227947,
+                        32.114674
+                  ]
+            },
+            {
+                  "name": "Maison de Culture",
+                  "text": "Ez a helyi művészeti központ kulturális eseményeknek és közösségi összejöveteleknek ad otthont a Figuig-oázis szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.230548,
+                        32.108884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Minaret Pierreux",
+                  "text": "O atracție de patrimoniu recunoscută în oaza Figuig, prezentând un minaret de piatră antic, distinct din punct de vedere structural.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234754,
+                        32.115157
+                  ]
+            },
+            {
+                  "name": "Mellah Oudaghir",
+                  "text": "Cartierul istoric evreiesc cuibărit în benzile tradiționale de cărămidă de noroi din oaza Figuig, mărginită de palmieri.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234634,
+                        32.118078
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Mahrez",
+                  "text": "Un sat fortificat din cărămidă de noroi care reprezintă arhitectura oazei complicată, unică pentru plantațiile de palmieri din Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.233442,
+                        32.112801
+                  ]
+            },
+            {
+                  "name": "Bahbouha",
+                  "text": "Un loc cultural tradițional situat sub coronamentul gros de palmieri în oaza istorică Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.235806,
+                        32.114997
+                  ]
+            },
+            {
+                  "name": "Ksar Jouaber (Oulad Jaber)",
+                  "text": "O așezare tradițională fortificată care se îmbină perfect cu grădinile agricole de palmieri din jur din Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.236956,
+                        32.115229
+                  ]
+            },
+            {
+                  "name": "Ksar Tachroumet",
+                  "text": "Ruinele de pământ erodate ale unui ksar fortificat antic, ascunse printre curmalii din oaza Figuig.",
+                  "category": "historical",
+                  "coords": [
+                        -1.246345,
+                        32.11292
+                  ]
+            },
+            {
+                  "name": "Arrahba",
+                  "text": "O piață comunală centrală în oaza Figuig, care a servit istoric ca o zonă tradițională de adunare și piață.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234254,
+                        32.116465
+                  ]
+            },
+            {
+                  "name": "Ksar Laabidate Ait Annaj",
+                  "text": "Un ksar istoric din cărămidă de noroi care prezintă arhitectura robustă fortificată dezvoltată pentru viața în oaza Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.238995,
+                        32.11845
+                  ]
+            },
+            {
+                  "name": "Tachraft Oudaghir",
+                  "text": "O atracție arhitecturală integrată în labirintul de cărămidă de noroi din sectorul antic Oudaghir din Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.23359,
+                        32.118119
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Slimane",
+                  "text": "O așezare de pământ antică din Figuig caracterizată prin zidurile sale înalte de apărare din cărămidă de noroi și aleile umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.230161,
+                        32.114273
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Fougani Ait Aamer",
+                  "text": "Un ksar fortificat unic în oaza Figuig, renumit pentru structura tradițională înaltă a băii comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.217782,
+                        32.118366
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Tahtani (Ait Ouadday)",
+                  "text": "Acest ksar fortificat tradițional este situat în peisajele pline de palmieri ale oazei Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.21783,
+                        32.115608
+                  ]
+            },
+            {
+                  "name": "Ksar Al Maiz",
+                  "text": "Ksar Al Maiz este un sat istoric fortificat din cărămidă de lut, situat în oaza Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.227947,
+                        32.114674
+                  ]
+            },
+            {
+                  "name": "Maison de Culture",
+                  "text": "Acest centru de arte local găzduiește evenimente culturale și adunări comunitare în inima oazei Figuig.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.230548,
+                        32.108884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Minaret Pierreux",
+                  "text": "A recognized heritage attraction in the Figuig oasis featuring an ancient, structurally distinct stone minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234754,
+                        32.115157
+                  ]
+            },
+            {
+                  "name": "Mellah Oudaghir",
+                  "text": "The historical Jewish quarter nestled within the traditional mud-brick lanes of the palm-fringed Figuig oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234634,
+                        32.118078
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Mahrez",
+                  "text": "A fortified mud-brick village representing the intricate oasis architecture unique to the Figuig palm groves.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.233442,
+                        32.112801
+                  ]
+            },
+            {
+                  "name": "Bahbouha",
+                  "text": "A traditional cultural spot situated under the thick canopy of date palms in the historic Figuig oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.235806,
+                        32.114997
+                  ]
+            },
+            {
+                  "name": "Ksar Jouaber",
+                  "text": "A fortified traditional settlement blending seamlessly with the surrounding agricultural palm gardens of Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.236956,
+                        32.115229
+                  ]
+            },
+            {
+                  "name": "Ksar Tachroumet",
+                  "text": "The weathered earthen ruins of an ancient fortified ksar hidden among the date palms of the Figuig oasis.",
+                  "category": "historical",
+                  "coords": [
+                        -1.246345,
+                        32.11292
+                  ]
+            },
+            {
+                  "name": "Arrahba",
+                  "text": "A central communal square within the Figuig oasis serving historically as a traditional gathering and market area.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.234254,
+                        32.116465
+                  ]
+            },
+            {
+                  "name": "Ksar Laabidate Ait Annaj",
+                  "text": "A historic mud-brick ksar showcasing the robust fortified architecture developed for life in the Figuig oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.238995,
+                        32.11845
+                  ]
+            },
+            {
+                  "name": "Tachraft Oudaghir",
+                  "text": "An architectural attraction integrated into the mud-brick labyrinth of the ancient Oudaghir sector in Figuig.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.23359,
+                        32.118119
+                  ]
+            },
+            {
+                  "name": "Ksar Oulad Slimane",
+                  "text": "An ancient earthen settlement in Figuig characterized by its tall, defensive mud-brick walls and shaded alleyways.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.230161,
+                        32.114273
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Fougani Ait Aamer",
+                  "text": "A unique fortified ksar in the Figuig oasis famous for its traditional elevated community bathhouse structure.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.217782,
+                        32.118366
+                  ]
+            },
+            {
+                  "name": "Ksar Hammam Tahtani (Ait Ouadday)",
+                  "text": "This traditional fortified ksar is located within the palm-filled landscapes of the Figuig oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.21783,
+                        32.115608
+                  ]
+            },
+            {
+                  "name": "Ksar Al Maiz",
+                  "text": "Ksar Al Maiz is a historic fortified mud-brick village situated in the Figuig oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.227947,
+                        32.114674
+                  ]
+            },
+            {
+                  "name": "Maison de Culture",
+                  "text": "This local arts center hosts cultural events and community gatherings in the heart of the Figuig oasis.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.230548,
+                        32.108884
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MA-06",
     coords: [-1.2, 32.1],
@@ -808,7 +2077,88 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       fr: ["Hauts plateaux arides à l'est.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/high-plateaus-relief-v2.webp"},
   {
-    id: "oued-ziz-valley-relief-v2",
+    id: "oued-ziz-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meski Aufstieg zum alten Ksar",
+                  "text": "Ein malerischer Pfad, der zu den verlassenen Ksar-Ruinen aus Lehmziegeln hinaufführt, die die üppige Oase des Ziz-Tals überblicken.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.28357,
+                        31.851744
+                  ]
+            },
+            {
+                  "name": "La Source Bleue de Meski",
+                  "text": "Eine malerische natürliche blaue Wasserquelle, die inmitten eines schattigen Palmenhains im Ziz-Tal entspringt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.281992,
+                        31.856448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meski Aufstieg zum alten Ksar",
+                  "text": "Festői ösvény, amely az elhagyatott vályogtégla ksar romjaihoz vezet, ahonnan kilátás nyílik a buja Ziz-völgy oázisára.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.28357,
+                        31.851744
+                  ]
+            },
+            {
+                  "name": "La Source Bleue de Meski",
+                  "text": "Festői természetes kék vizű forrás, amely egy árnyékos pálmaligetben ered a Ziz-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.281992,
+                        31.856448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meski Aufstieg zum alten Ksar",
+                  "text": "O cărare pitorească care urcă spre ruinele părăsite ale unui ksar din cărămidă de noroi, cu vedere la oaza luxuriantă din Valea Ziz.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.28357,
+                        31.851744
+                  ]
+            },
+            {
+                  "name": "La Source Bleue de Meski",
+                  "text": "Un izvor pitoresc cu apă albastră naturală care iese la iveală într-o livadă de palmieri umbrită din Valea Ziz.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.281992,
+                        31.856448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meski Aufstieg zum alten Ksar",
+                  "text": "A scenic pathway ascending to the abandoned mud-brick ksar ruins that overlook the lush Ziz Valley oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.28357,
+                        31.851744
+                  ]
+            },
+            {
+                  "name": "La Source Bleue de Meski",
+                  "text": "A picturesque natural blue water spring emerging within a shaded palm grove in the Ziz Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.281992,
+                        31.856448
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MA-06",
     coords: [-4.2, 31.8],

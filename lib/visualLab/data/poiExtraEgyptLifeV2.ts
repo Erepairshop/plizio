@@ -38,7 +38,88 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Le parc a été déclaré parc national en 1986.", "La superficie totale est d'environ 35 600 kilomètres carrés.", "Gebel Elba est le plus haut sommet du parc avec 1 435 mètres.", "On y trouve plus de 458 espèces de plantes différentes.", "Le parc abrite la seule population d'ânes sauvages d'Afrique en Égypte.", "Les précipitations annuelles peuvent atteindre 400 mm grâce au brouillard."],
     }, image: "/poi-images/gabalba-national-park-life-v2.webp"},
   {
-    id: "wadial-rayan-life-v2",
+    id: "wadial-rayan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magic Lake from Mt Medawara",
+                  "text": "Dieser erhöhte Aussichtspunkt auf dem Berg Medawara blickt direkt auf das ruhige Wasser des Wüstensees.",
+                  "category": "natural",
+                  "coords": [
+                        30.350042,
+                        29.171551
+                  ]
+            },
+            {
+                  "name": "Magic Beach",
+                  "text": "Dieser sandige Picknickplatz liegt direkt an den Ufern des malerischen Magic Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        30.4169,
+                        29.154538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magic Lake from Mt Medawara",
+                  "text": "Ez a magaslati kilátó a Medawara-hegyen közvetlenül a sivatagi tó csendes vizére tekint.",
+                  "category": "natural",
+                  "coords": [
+                        30.350042,
+                        29.171551
+                  ]
+            },
+            {
+                  "name": "Magic Beach",
+                  "text": "Ez a homokos piknikezőhely közvetlenül a festői Magic Lake partján található.",
+                  "category": "landmark",
+                  "coords": [
+                        30.4169,
+                        29.154538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magic Lake from Mt Medawara",
+                  "text": "Acest punct de belvedere înalt de pe Muntele Medawara are vedere directă la apele liniștite ale lacului din deșert.",
+                  "category": "natural",
+                  "coords": [
+                        30.350042,
+                        29.171551
+                  ]
+            },
+            {
+                  "name": "Magic Beach",
+                  "text": "Acest loc de picnic nisipos este situat direct pe malul pitorescului Magic Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        30.4169,
+                        29.154538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magic Lake from Mt Medawara",
+                  "text": "This elevated viewpoint on Mount Medawara looks directly out over the calm waters of the desert lake.",
+                  "category": "natural",
+                  "coords": [
+                        30.350042,
+                        29.171551
+                  ]
+            },
+            {
+                  "name": "Magic Beach",
+                  "text": "This sandy picnic site is located directly on the shores of the scenic Magic Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        30.4169,
+                        29.154538
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "EG-FYM",
     coords: [30.40, 29.10],
@@ -73,7 +154,196 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["La réserve a été officiellement créée en 1989.", "Elle abrite les seules chutes d'eau naturelles d'Égypte.", "La superficie totale de la réserve est de 1 759 kilomètres carrés.", "Le site de l'UNESCO Wadi Al-Hitan se trouve à proximité.", "Les lacs se situent à environ 43 mètres sous le niveau de la mer.", "Des fossiles de plus de 400 baleines primitives ont été trouvés dans la zone."],
     }, image: "/poi-images/wadial-rayan-life-v2.webp"},
   {
-    id: "aswan-botanical-life-v2",
+    id: "aswan-botanical-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nile Valley Viewpoint",
+                  "text": "Dieser malerische Aussichtspunkt bietet ein weites Panorama auf den fließenden Nil, traditionelle Feluken und Sandbänke.",
+                  "category": "natural",
+                  "coords": [
+                        32.863469,
+                        24.065675
+                  ]
+            },
+            {
+                  "name": "Nubian Village",
+                  "text": "Dieser Aussichtspunkt überblickt ein traditionelles Dorf, das sich durch seine hell bemalten, bunten Lehmziegelhäuser am Flussufer auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        32.864297,
+                        24.061572
+                  ]
+            },
+            {
+                  "name": "Agha Khan Tomb",
+                  "text": "Dieses Mausoleum aus rosafarbenem Granit liegt auf einem Hügel am Westufer des Nils und birgt die sterblichen Überreste von Sir Sultan Muhammad Shah, Aga Khan III.",
+                  "category": "historical",
+                  "coords": [
+                        32.878835,
+                        24.08828
+                  ]
+            },
+            {
+                  "name": "hieroglyphs",
+                  "text": "Diese antiken Felsoberflächen bewahren kunstvolle ägyptische Hieroglyphen, die direkt in den Naturstein gemeißelt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        32.873696,
+                        24.057309
+                  ]
+            },
+            {
+                  "name": "Aussichtsrestaurant",
+                  "text": "Dieses Panoramarestaurant bietet seinen Gästen beim Essen einen spektakulären Blick auf den Nil.",
+                  "category": "natural",
+                  "coords": [
+                        32.881073,
+                        24.07267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nile Valley Viewpoint",
+                  "text": "Ez a festői kilátó széles panorámát nyújt a kanyargó Nílusra, a hagyományos felukka hajókra és a homokos partokra.",
+                  "category": "natural",
+                  "coords": [
+                        32.863469,
+                        24.065675
+                  ]
+            },
+            {
+                  "name": "Nubian Village",
+                  "text": "Ez a kilátó egy hagyományos falura néz, amelyet a folyópart mentén sorakozó élénk színűre festett vályogházak jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        32.864297,
+                        24.061572
+                  ]
+            },
+            {
+                  "name": "Agha Khan Tomb",
+                  "text": "A Nílus nyugati partján, egy dombtetőn nyugvó rózsaszín gránit mauzóleum Sir Sultan Muhammad Shah, III. Aga kán földi maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        32.878835,
+                        24.08828
+                  ]
+            },
+            {
+                  "name": "hieroglyphs",
+                  "text": "Ezek az ősi sziklafelületek bonyolult, közvetlenül a természetes kőbe vájt egyiptomi hieroglifákat őriznek.",
+                  "category": "historical",
+                  "coords": [
+                        32.873696,
+                        24.057309
+                  ]
+            },
+            {
+                  "name": "Aussichtsrestaurant",
+                  "text": "Ez a panorámás étterem látványos kilátást nyújt a Nílusra a vendégek számára, miközben élvezik ételeiket.",
+                  "category": "natural",
+                  "coords": [
+                        32.881073,
+                        24.07267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nile Valley Viewpoint",
+                  "text": "Acest punct de belvedere pitoresc oferă o panoramă vastă a fluviului Nil, a bărcilor tradiționale felucă și a malurilor nisipoase.",
+                  "category": "natural",
+                  "coords": [
+                        32.863469,
+                        24.065675
+                  ]
+            },
+            {
+                  "name": "Nubian Village",
+                  "text": "Acest punct de belvedere are vedere spre un sat tradițional caracterizat de casele sale din cărămidă de lut viu colorate, de-a lungul malului râului.",
+                  "category": "natural",
+                  "coords": [
+                        32.864297,
+                        24.061572
+                  ]
+            },
+            {
+                  "name": "Agha Khan Tomb",
+                  "text": "Așezat pe un deal pe malul vestic al Nilului, acest mausoleu din granit roz adăpostește rămășițele lui Sir Sultan Muhammad Shah, Aga Khan al III-lea.",
+                  "category": "historical",
+                  "coords": [
+                        32.878835,
+                        24.08828
+                  ]
+            },
+            {
+                  "name": "hieroglyphs",
+                  "text": "Aceste suprafețe stâncoase antice păstrează hieroglife egiptene complicate sculptate direct în piatra naturală.",
+                  "category": "historical",
+                  "coords": [
+                        32.873696,
+                        24.057309
+                  ]
+            },
+            {
+                  "name": "Aussichtsrestaurant",
+                  "text": "Acest restaurant panoramic oferă oaspeților o vedere spectaculoasă la fluviul Nil în timp ce savurează masa.",
+                  "category": "natural",
+                  "coords": [
+                        32.881073,
+                        24.07267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nile Valley Viewpoint",
+                  "text": "This scenic vantage point offers sweeping panoramas of the flowing Nile river, traditional felucca boats, and sandy banks.",
+                  "category": "natural",
+                  "coords": [
+                        32.863469,
+                        24.065675
+                  ]
+            },
+            {
+                  "name": "Nubian Village",
+                  "text": "This viewpoint overlooks a traditional village characterized by its brightly painted, colorful mud-brick houses along the riverbank.",
+                  "category": "natural",
+                  "coords": [
+                        32.864297,
+                        24.061572
+                  ]
+            },
+            {
+                  "name": "Agha Khan Tomb",
+                  "text": "Resting on a hilltop on the Nile's west bank, this pink granite mausoleum holds the remains of Sir Sultan Muhammad Shah, Aga Khan III.",
+                  "category": "historical",
+                  "coords": [
+                        32.878835,
+                        24.08828
+                  ]
+            },
+            {
+                  "name": "hieroglyphs",
+                  "text": "These ancient rock surfaces preserve intricate Egyptian hieroglyphs carved directly into the natural stone.",
+                  "category": "historical",
+                  "coords": [
+                        32.873696,
+                        24.057309
+                  ]
+            },
+            {
+                  "name": "Aussichtsrestaurant",
+                  "text": "This panoramic restaurant provides diners with spectacular views of the Nile River while they enjoy their meals.",
+                  "category": "natural",
+                  "coords": [
+                        32.881073,
+                        24.07267
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-ASN",
     coords: [32.88, 24.08],
@@ -143,7 +413,160 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Le delta s'étend sur une largeur de 240 km le long de la côte méditerranéenne.", "Environ 60 % de l'agriculture égyptienne se déroule dans cette région.", "Le Nil se divise en deux branches principales à environ 20 km au nord du Caire.", "La région abrite plus de 40 millions d'habitants sur un espace restreint.", "Le coton à fibres longues est le principal produit d'exportation depuis le XIXe siècle.", "Le delta s'enfonce de quelques millimètres par an en raison du manque de sédiments."],
     }, image: "/poi-images/nile-delta-agriculture-life-v2.webp"},
   {
-    id: "siwa-palm-agriculture-life-v2",
+    id: "siwa-palm-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peak",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Blick über die palmenreiche Wüstenoase.",
+                  "category": "natural",
+                  "coords": [
+                        25.552915,
+                        29.190165
+                  ]
+            },
+            {
+                  "name": "House of Siwa",
+                  "text": "Dieses Museum zeigt die einzigartige traditionelle Kultur, Kleidung und das Erbe der Wüstenoase.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "Fort of Shali",
+                  "text": "Die historischen Ruinen dieser zentralen Oasenfestung wurden aus dem traditionellen Salz- und Lehmziegelmaterial der Region erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        25.517929,
+                        29.20119
+                  ]
+            },
+            {
+                  "name": "Temple of Amun",
+                  "text": "Diese antike Tempelruine in der Oase ist berühmt dafür, das legendäre Orakel von Amun beherbergt zu haben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.543428,
+                        29.205163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peak",
+                  "text": "Ez a magaslati kilátó panorámás rálátást nyújt a pálmákkal teli sivatagi oázisra.",
+                  "category": "natural",
+                  "coords": [
+                        25.552915,
+                        29.190165
+                  ]
+            },
+            {
+                  "name": "House of Siwa",
+                  "text": "Ez a múzeum a sivatagi oázis egyedi hagyományos kultúráját, ruházatát és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "Fort of Shali",
+                  "text": "Ennek a központi oáziserődnek a történelmi romjai a régió hagyományos só- és vályogtégla anyagából épültek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.517929,
+                        29.20119
+                  ]
+            },
+            {
+                  "name": "Temple of Amun",
+                  "text": "Ez az ősi oázisbeli templomrom arról híres, hogy a legendás Ámon-jósdának adott otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        25.543428,
+                        29.205163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peak",
+                  "text": "Acest punct de belvedere înalt oferă o panoramă vastă asupra oazei de deșert pline de palmieri.",
+                  "category": "natural",
+                  "coords": [
+                        25.552915,
+                        29.190165
+                  ]
+            },
+            {
+                  "name": "House of Siwa",
+                  "text": "Acest muzeu expune cultura tradițională unică, îmbrăcămintea și moștenirea oazei din deșert.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "Fort of Shali",
+                  "text": "Ruinele istorice ale acestei fortărețe centrale din oază sunt construite din materialul tradițional de sare și cărămidă din lut al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        25.517929,
+                        29.20119
+                  ]
+            },
+            {
+                  "name": "Temple of Amun",
+                  "text": "Aceste ruine ale templului antic din oază sunt faimoase pentru găzduirea legendarului Oracol al lui Amon.",
+                  "category": "landmark",
+                  "coords": [
+                        25.543428,
+                        29.205163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peak",
+                  "text": "This elevated viewpoint offers a sweeping vantage point over the palm-filled desert oasis.",
+                  "category": "natural",
+                  "coords": [
+                        25.552915,
+                        29.190165
+                  ]
+            },
+            {
+                  "name": "House of Siwa",
+                  "text": "This museum showcases the unique traditional culture, clothing, and heritage of the desert oasis.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "Fort of Shali",
+                  "text": "The historic ruins of this central oasis fortress are built from the region's traditional salt and mud-brick material.",
+                  "category": "landmark",
+                  "coords": [
+                        25.517929,
+                        29.20119
+                  ]
+            },
+            {
+                  "name": "Temple of Amun",
+                  "text": "This ancient temple ruin in the oasis is famously known for having hosted the legendary Oracle of Amun.",
+                  "category": "landmark",
+                  "coords": [
+                        25.543428,
+                        29.205163
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "EG-MT",
     coords: [25.50, 29.20],
@@ -178,7 +601,124 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["L'oasis compte plus de 300 000 palmiers dattiers productifs.", "Siwa se trouve dans une dépression à 18 mètres sous le niveau de la mer.", "La région est alimentée par environ 230 sources d'eau douce naturelles.", "Plus de 70 000 oliviers produisent une huile d'olive de haute qualité.", "La saison des récoltes de dattes a lieu chaque année en octobre.", "Les habitants parlent le siwi, une langue berbère unique."],
     }, image: "/poi-images/siwa-palm-agriculture-life-v2.webp"},
   {
-    id: "giza-zoo-life-v2",
+    id: "giza-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Essam",
+                  "text": "Lokale Attraktion in der lebhaften Gegend in der Nähe des historischen Zoos von Gizeh.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188628,
+                        29.992999
+                  ]
+            },
+            {
+                  "name": "Chinese Cultural Center in Cairo",
+                  "text": "Einrichtung in der Nähe des Gizeh-Zoos, die sich der Förderung der chinesischen Sprache und Kunst in Ägypten widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        31.183359,
+                        30.004803
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Thaqafa",
+                  "text": "Lokaler Kulturpalast, der Kunst- und Gemeinschaftsprogramme im Bezirk Gizeh anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        31.197566,
+                        30.002483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Essam",
+                  "text": "Helyi látványosság a történelmi gízai állatkert melletti nyüzsgő környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188628,
+                        29.992999
+                  ]
+            },
+            {
+                  "name": "Chinese Cultural Center in Cairo",
+                  "text": "A gízai állatkert közelében található létesítmény, amely a kínai nyelv és művészet egyiptomi népszerűsítésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        31.183359,
+                        30.004803
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Thaqafa",
+                  "text": "Helyi kulturális palota, amely művészeti és közösségi programokat kínál a gízai kerületben.",
+                  "category": "cultural",
+                  "coords": [
+                        31.197566,
+                        30.002483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Essam",
+                  "text": "Atracție locală situată în zona vibrantă din apropierea grădinii zoologice istorice din Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188628,
+                        29.992999
+                  ]
+            },
+            {
+                  "name": "Chinese Cultural Center in Cairo",
+                  "text": "Instituție aflată lângă Grădina Zoologică din Giza, dedicată promovării limbii și artelor chineze în Egipt.",
+                  "category": "cultural",
+                  "coords": [
+                        31.183359,
+                        30.004803
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Thaqafa",
+                  "text": "Palat cultural local care oferă programe de artă și comunitare în districtul Giza.",
+                  "category": "cultural",
+                  "coords": [
+                        31.197566,
+                        30.002483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Essam",
+                  "text": "Local attraction situated in the vibrant area near the historical Giza Zoological Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188628,
+                        29.992999
+                  ]
+            },
+            {
+                  "name": "Chinese Cultural Center in Cairo",
+                  "text": "Facility near the Giza Zoo dedicated to promoting Chinese language and arts in Egypt.",
+                  "category": "cultural",
+                  "coords": [
+                        31.183359,
+                        30.004803
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Thaqafa",
+                  "text": "Local cultural palace offering arts and community programs in the Giza district.",
+                  "category": "cultural",
+                  "coords": [
+                        31.197566,
+                        30.002483
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-GZ",
     coords: [31.20, 30.01],
@@ -248,7 +788,52 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Le lac Qarun se situe à environ 45 mètres sous le niveau de la mer.", "Le Fayoum compte plus de 200 roues à eau historiques en bois.", "La région comprend une surface agricole d'environ 1 700 km².", "Sésostris II fit aménager le canal Bahr Yusuf pour l'irrigation.", "Le Fayoum est célèbre pour sa production d'huile de rose de haute qualité.", "Plus de 400 espèces d'oiseaux fréquentent la zone comme halte ou habitat."],
     }, image: "/poi-images/faiyum-agriculture-life-v2.webp"},
   {
-    id: "alqanater-kid-life-v2",
+    id: "alqanater-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bortos",
+                  "text": "Denkmal inmitten der landwirtschaftlichen Landschaften und Kanäle der Region Al Qanater.",
+                  "category": "historical",
+                  "coords": [
+                        31.134657,
+                        30.147558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bortos",
+                  "text": "Al Qanater régió mezőgazdasági tájai és csatornái között található emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        31.134657,
+                        30.147558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bortos",
+                  "text": "Monument situat printre peisajele agricole și canalele din regiunea Al Qanater.",
+                  "category": "historical",
+                  "coords": [
+                        31.134657,
+                        30.147558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bortos",
+                  "text": "Monument situated among the agricultural landscapes and canals of the Al Qanater region.",
+                  "category": "historical",
+                  "coords": [
+                        31.134657,
+                        30.147558
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-C",
     coords: [31.14, 30.18],
@@ -283,7 +868,88 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Les travaux du premier barrage ont commencé en 1833.", "Les parcs couvrent une superficie totale d'environ 500 feddans.", "Le projet a été réalisé sous la direction d'ingénieurs français.", "La ville est située exactement au sommet du delta du Nil.", "Il existe plus de 10 jardins publics différents dans la région.", "Les barrages historiques servaient à l'irrigation de 4 millions de feddans."],
     }, image: "/poi-images/alqanater-kid-life-v2.webp"},
   {
-    id: "luxor-botanical-life-v2",
+    id: "luxor-botanical-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Luxor Museum",
+                  "text": "Dieses Museum zeigt eine brillant kuratierte Antikensammlung und verfügt über exquisite Meisterwerke, darunter die wunderschön erhaltenen Statuen der Cachette des Luxor-Tempels.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "Sphinx-Allee",
+                  "text": "Dieser antike Prozessionsweg ist von hunderten von Steinstatuen gesäumt und verband ursprünglich die Tempel von Karnak und Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.649148,
+                        25.708773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luxor Museum",
+                  "text": "A csodálatosan összeállított régiséggyűjteményt bemutató múzeum lenyűgöző mesterművekkel büszkélkedhet, köztük a luxori templom rejtekhelyéről származó, gyönyörűen megőrzött szobrokkal.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "Avenue of Sphinxes",
+                  "text": "Ezt az ősi felvonulási utat több száz kőszobor szegélyezi, amelyek eredetileg a karnaki és luxori templomokat kötötték össze.",
+                  "category": "landmark",
+                  "coords": [
+                        32.649148,
+                        25.708773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luxor Museum",
+                  "text": "Prezentând o colecție de antichități îngrijită în mod strălucit, acest muzeu găzduiește capodopere rafinate, inclusiv statuile frumos conservate din ascunzătoarea Templului Luxor.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "Avenue of Sphinxes",
+                  "text": "Această veche cale de procesiune este străjuită de sute de statui de piatră, care făceau inițial legătura între templele din Karnak și Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.649148,
+                        25.708773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luxor Museum",
+                  "text": "Showcasing a brilliantly curated collection of antiquities, this museum features exquisite masterpieces including the beautifully preserved statues of the Luxor Temple cachette.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "Avenue of Sphinxes",
+                  "text": "This ancient processional walkway is lined with hundreds of stone statues, originally connecting the temples of Karnak and Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.649148,
+                        25.708773
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-LX",
     coords: [32.65, 25.70],
@@ -353,7 +1019,304 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Les dugongs peuvent vivre jusqu'à 70 ans.", "Un dugong adulte mange jusqu'à 40 kg d'herbe marine par jour.", "Marsa Alam abrite l'une des dernières populations de dugongs d'Égypte.", "Abu Dabbab est une zone marine protégée.", "Les animaux doivent remonter à la surface toutes les quelques minutes pour respirer.", "Les tortues vertes partagent leur habitat avec les dugongs."],
     }, image: "/poi-images/marsa-alam-habitat-life-v2.webp"},
   {
-    id: "alexandria-zoo-life-v2",
+    id: "alexandria-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ali Bek Genina Mosque",
+                  "text": "Ein historisches islamisches Gotteshaus aus dem Jahr 1853, das sich in der Nähe des Zoos befindet.",
+                  "category": "religious",
+                  "coords": [
+                        29.886785,
+                        31.194463
+                  ]
+            },
+            {
+                  "name": "Al Nasr Square",
+                  "text": "Ein öffentliches Denkmal und ein offener Platz im belebten Viertel des Zoos von Alexandria.",
+                  "category": "historical",
+                  "coords": [
+                        29.888023,
+                        31.198285
+                  ]
+            },
+            {
+                  "name": "Protestant Church of Alexandria",
+                  "text": "Ein protestantisch-christliches Gotteshaus, in dem in der Gegend um den Zoo von Alexandria Gottesdienste abgehalten werden.",
+                  "category": "religious",
+                  "coords": [
+                        29.894609,
+                        31.198945
+                  ]
+            },
+            {
+                  "name": "Mahatet El Raml",
+                  "text": "Dieser große öffentliche Platz dient als zentraler Verkehrsknotenpunkt und beherbergt die Hauptstraßenbahnstation der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.90135,
+                        31.201541
+                  ]
+            },
+            {
+                  "name": "El Queiry Beach",
+                  "text": "Ein Sandstrand am Mittelmeer, der in der Nähe des örtlichen Zooviertels einen Blick auf die Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.888075,
+                        31.202224
+                  ]
+            },
+            {
+                  "name": "Saint Mary and St. Moses the Black Coptic Orthodox Church",
+                  "text": "Eine koptisch-orthodoxe Kirche, die der Heiligen Maria und dem Heiligen Moses dem Schwarzen geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        29.892219,
+                        31.198912
+                  ]
+            },
+            {
+                  "name": "Saint Mark Anglican Cathedral",
+                  "text": "Eine anglikanische Kathedrale, die als bedeutender Ort der christlichen Anbetung in der Nähe des Zooviertels dient.",
+                  "category": "religious",
+                  "coords": [
+                        29.894362,
+                        31.197413
+                  ]
+            },
+            {
+                  "name": "Approximate original site of the Caesareum at Alexandria",
+                  "text": "Die archäologische Stätte markiert die Überreste des antiken Caesareum-Tempels, der von Kleopatra initiiert wurde.",
+                  "category": "historical",
+                  "coords": [
+                        29.90073,
+                        31.199985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ali Bek Genina Mosque",
+                  "text": "1853-ban alapított történelmi iszlám istentiszteleti hely, amely az állatkert közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        29.886785,
+                        31.194463
+                  ]
+            },
+            {
+                  "name": "Al Nasr Square",
+                  "text": "Nyilvános emlékmű és nyitott tér Alexandria nyüzsgő állatkerti negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        29.888023,
+                        31.198285
+                  ]
+            },
+            {
+                  "name": "Protestant Church of Alexandria",
+                  "text": "Protestáns keresztény istentiszteleti hely, amely vallási szertartásokat tart az alexandriai állatkert területén.",
+                  "category": "religious",
+                  "coords": [
+                        29.894609,
+                        31.198945
+                  ]
+            },
+            {
+                  "name": "Mahatet El Raml",
+                  "text": "Ez a nagy központi tér központi közlekedési csomópontként szolgál, itt található a város fő villamosmegállója.",
+                  "category": "landmark",
+                  "coords": [
+                        29.90135,
+                        31.201541
+                  ]
+            },
+            {
+                  "name": "El Queiry Beach",
+                  "text": "Homokos Földközi-tengeri strand, amely parti kilátást nyújt a helyi állatkert negyed közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.888075,
+                        31.202224
+                  ]
+            },
+            {
+                  "name": "Saint Mary and St. Moses the Black Coptic Orthodox Church",
+                  "text": "Szűz Mária és Fekete Szent Mózes tiszteletére szentelt kopt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        29.892219,
+                        31.198912
+                  ]
+            },
+            {
+                  "name": "Saint Mark Anglican Cathedral",
+                  "text": "Az állatkert közelében található anglikán katedrális jelentős keresztény istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        29.894362,
+                        31.197413
+                  ]
+            },
+            {
+                  "name": "Approximate original site of the Caesareum at Alexandria",
+                  "text": "Az a régészeti lelőhely, amely a Kleopátra által alapított ókori Caesareum templom maradványait jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        29.90073,
+                        31.199985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ali Bek Genina Mosque",
+                  "text": "Un lăcaș de cult islamic istoric, înființat în 1853, situat în vecinătatea grădinii zoologice.",
+                  "category": "religious",
+                  "coords": [
+                        29.886785,
+                        31.194463
+                  ]
+            },
+            {
+                  "name": "Al Nasr Square",
+                  "text": "Un monument public și o piață deschisă situate în cartierul aglomerat al grădinii zoologice din Alexandria.",
+                  "category": "historical",
+                  "coords": [
+                        29.888023,
+                        31.198285
+                  ]
+            },
+            {
+                  "name": "Protestant Church of Alexandria",
+                  "text": "Un lăcaș de cult creștin protestant care organizează slujbe religioase în zona grădinii zoologice din Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.894609,
+                        31.198945
+                  ]
+            },
+            {
+                  "name": "Mahatet El Raml",
+                  "text": "Această piață publică majoră servește ca principal nod de transport, găzduind stația centrală de tramvai a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        29.90135,
+                        31.201541
+                  ]
+            },
+            {
+                  "name": "El Queiry Beach",
+                  "text": "O plajă cu nisip la Marea Mediterană, ce oferă vederi spre coastă în apropierea cartierului local al grădinii zoologice.",
+                  "category": "recreational",
+                  "coords": [
+                        29.888075,
+                        31.202224
+                  ]
+            },
+            {
+                  "name": "Saint Mary and St. Moses the Black Coptic Orthodox Church",
+                  "text": "O biserică ortodoxă coptă dedicată Sfintei Maria și Sfântului Moise cel Negru.",
+                  "category": "religious",
+                  "coords": [
+                        29.892219,
+                        31.198912
+                  ]
+            },
+            {
+                  "name": "Saint Mark Anglican Cathedral",
+                  "text": "O catedrală anglicană ce servește ca un important lăcaș de cult creștin în apropierea zonei grădinii zoologice.",
+                  "category": "religious",
+                  "coords": [
+                        29.894362,
+                        31.197413
+                  ]
+            },
+            {
+                  "name": "Approximate original site of the Caesareum at Alexandria",
+                  "text": "Situl arheologic ce marchează rămășițele vechiului templu Caesareum inițiat de Cleopatra.",
+                  "category": "historical",
+                  "coords": [
+                        29.90073,
+                        31.199985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ali Bek Genina Mosque",
+                  "text": "A historic Islamic place of worship established in 1853, located in the vicinity of the zoo.",
+                  "category": "religious",
+                  "coords": [
+                        29.886785,
+                        31.194463
+                  ]
+            },
+            {
+                  "name": "Al Nasr Square",
+                  "text": "A public monument and open square situated in the bustling Alexandria zoo district.",
+                  "category": "historical",
+                  "coords": [
+                        29.888023,
+                        31.198285
+                  ]
+            },
+            {
+                  "name": "Protestant Church of Alexandria",
+                  "text": "A Protestant Christian place of worship holding religious services in the Alexandria zoo area.",
+                  "category": "religious",
+                  "coords": [
+                        29.894609,
+                        31.198945
+                  ]
+            },
+            {
+                  "name": "Mahatet El Raml",
+                  "text": "This major public square serves as a central transportation hub featuring the city's main tram station.",
+                  "category": "landmark",
+                  "coords": [
+                        29.90135,
+                        31.201541
+                  ]
+            },
+            {
+                  "name": "El Queiry Beach",
+                  "text": "A sandy Mediterranean beach providing coastal views near the local zoo district.",
+                  "category": "recreational",
+                  "coords": [
+                        29.888075,
+                        31.202224
+                  ]
+            },
+            {
+                  "name": "Saint Mary and St. Moses the Black Coptic Orthodox Church",
+                  "text": "A Coptic Orthodox church dedicated to Saint Mary and Saint Moses the Black.",
+                  "category": "religious",
+                  "coords": [
+                        29.892219,
+                        31.198912
+                  ]
+            },
+            {
+                  "name": "Saint Mark Anglican Cathedral",
+                  "text": "An Anglican cathedral serving as a significant place of Christian worship near the zoo area.",
+                  "category": "religious",
+                  "coords": [
+                        29.894362,
+                        31.197413
+                  ]
+            },
+            {
+                  "name": "Approximate original site of the Caesareum at Alexandria",
+                  "text": "The archaeological site marking the remnants of the ancient Caesareum temple initiated by Cleopatra.",
+                  "category": "historical",
+                  "coords": [
+                        29.90073,
+                        31.199985
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-ALX",
     coords: [29.90, 31.20],
@@ -423,7 +1386,52 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Plus de 300 espèces d'oiseaux ont été enregistrées dans le delta du Nil.", "Le lac Burullus couvre une superficie d'environ 460 km².", "Les flamants roses sont des visiteurs fréquents pendant les mois d'hiver.", "La zone est reconnue comme site Ramsar depuis 1988.", "La pêche dans le lac est la principale source de revenus de la population locale.", "Le delta sert de pont pour les oiseaux entre l'Europe et l'Afrique."],
     }, image: "/poi-images/delta-bird-habitat-life-v2.webp"},
   {
-    id: "giza-farm-agriculture-life-v2",
+    id: "giza-farm-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The World Relief",
+                  "text": "Diese künstlerische Reliefattraktion befindet sich inmitten der Agrarlandschaft von Gizeh.",
+                  "category": "landmark",
+                  "coords": [
+                        31.068216,
+                        29.93438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The World Relief",
+                  "text": "Ez a művészi dombormű-látványosság Gíza mezőgazdasági tájának közepén található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.068216,
+                        29.93438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The World Relief",
+                  "text": "Această atracție artistică în relief este situată în mijlocul peisajului agricol din Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.068216,
+                        29.93438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The World Relief",
+                  "text": "This artistic relief attraction is located amidst the agricultural landscape of Giza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.068216,
+                        29.93438
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "EG-GZ",
     coords: [31.10, 29.90],
@@ -458,7 +1466,196 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Les fermes utilisent des systèmes de recyclage de l'eau pour préserver les ressources.", "Les principaux produits cultivés sont les olives, les dattes et les légumes bio.", "Les sols sont constitués de sédiments fertiles de limon du Nil.", "Les canaux d'irrigation de la région ont été modernisés.", "Les fermes approvisionnent les marchés du Caire et de Gizeh.", "L'agriculture durable protège l'écosystème local."],
     }, image: "/poi-images/giza-farm-agriculture-life-v2.webp"},
   {
-    id: "aswan-island-kid-life-v2",
+    id: "aswan-island-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simeonskloster",
+                  "text": "Ein historisches, verfallenes koptisch-orthodoxes Kloster aus Stein und Lehmziegeln am Wüsten-Westufer des Nils.",
+                  "category": "landmark",
+                  "coords": [
+                        32.875738,
+                        24.09474
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "Die antiken Steinfundamente einer frühchristlichen Basilika in der Region Assuan.",
+                  "category": "historical",
+                  "coords": [
+                        32.886185,
+                        24.085684
+                  ]
+            },
+            {
+                  "name": "Animalia",
+                  "text": "Ein kleines Museum auf der Insel Elephantine, das die lokale nubische Kultur, Fauna und das traditionelle Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.888235,
+                        24.089426
+                  ]
+            },
+            {
+                  "name": "Aswan Botanical Garden",
+                  "text": "Ein üppiger Inselpark im Nil, der vollständig einer riesigen Sammlung exotischer Pflanzen und Bäume gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.886923,
+                        24.093759
+                  ]
+            },
+            {
+                  "name": "Tempel des Domitian",
+                  "text": "Die archäologischen Ruinen eines kleinen römischen Tempelbaus in der Nähe der Ufer des Nils.",
+                  "category": "historical",
+                  "coords": [
+                        32.892988,
+                        24.085883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Simeon Monastery",
+                  "text": "Történelmi romos kopt ortodox kolostor, amely kőből és vályogtéglából épült a Nílus sivatagi nyugati partján.",
+                  "category": "landmark",
+                  "coords": [
+                        32.875738,
+                        24.09474
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "Egy ókeresztény bazilika ősi kőalapjai az Asszuán régióban.",
+                  "category": "historical",
+                  "coords": [
+                        32.886185,
+                        24.085684
+                  ]
+            },
+            {
+                  "name": "Animalia",
+                  "text": "Kis múzeum az Elephantine-szigeten, amely a helyi núbiai kultúrát, állatvilágot és a hagyományos életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.888235,
+                        24.089426
+                  ]
+            },
+            {
+                  "name": "Aswan Botanical Garden",
+                  "text": "Buja szigetpark a Nílus folyóban, amelyet teljes egészében egzotikus növények és fák hatalmas gyűjteményének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.886923,
+                        24.093759
+                  ]
+            },
+            {
+                  "name": "Temple of Domitian",
+                  "text": "Egy kis római kori templomépület régészeti romjai a Nílus partjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.892988,
+                        24.085883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Simeon Monastery",
+                  "text": "O mănăstire ortodoxă coptă istorică în ruină, construită din piatră și cărămidă de lut pe malul de vest deșertic al Nilului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.875738,
+                        24.09474
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "Fundațiile antice din piatră ale unei bazilici creștine timpurii situate în regiunea Aswan.",
+                  "category": "historical",
+                  "coords": [
+                        32.886185,
+                        24.085684
+                  ]
+            },
+            {
+                  "name": "Animalia",
+                  "text": "Un mic muzeu pe Insula Elephantine care prezintă cultura nubiană locală, fauna și viața tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        32.888235,
+                        24.089426
+                  ]
+            },
+            {
+                  "name": "Aswan Botanical Garden",
+                  "text": "Un parc insular luxuriant pe fluviul Nil, dedicat în întregime unei vaste colecții de plante și copaci exotici.",
+                  "category": "landmark",
+                  "coords": [
+                        32.886923,
+                        24.093759
+                  ]
+            },
+            {
+                  "name": "Temple of Domitian",
+                  "text": "Ruinele arheologice ale unei mici structuri de templu din epoca romană situate în apropierea malurilor Nilului.",
+                  "category": "historical",
+                  "coords": [
+                        32.892988,
+                        24.085883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Simeon Monastery",
+                  "text": "A historic ruined Coptic Orthodox monastery built from stone and mudbrick on the desert west bank of the Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        32.875738,
+                        24.09474
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "The ancient stone foundations of an early Christian basilica situated in the Aswan region.",
+                  "category": "historical",
+                  "coords": [
+                        32.886185,
+                        24.085684
+                  ]
+            },
+            {
+                  "name": "Animalia",
+                  "text": "A small museum on Elephantine Island showcasing local Nubian culture, fauna, and traditional life.",
+                  "category": "museum",
+                  "coords": [
+                        32.888235,
+                        24.089426
+                  ]
+            },
+            {
+                  "name": "Aswan Botanical Garden",
+                  "text": "A lush island park in the Nile River entirely dedicated to a vast collection of exotic plants and trees.",
+                  "category": "landmark",
+                  "coords": [
+                        32.886923,
+                        24.093759
+                  ]
+            },
+            {
+                  "name": "Temple of Domitian",
+                  "text": "The archaeological ruins of a small Roman-era temple structure located near the banks of the Nile.",
+                  "category": "historical",
+                  "coords": [
+                        32.892988,
+                        24.085883
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-ASN",
     coords: [32.89, 24.09],
@@ -869,7 +2066,196 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Nabq abrite les forêts de mangroves les plus septentrionales d'Afrique.", "La zone protégée a été officiellement créée en 1992.", "La superficie totale est d'environ 600 kilomètres carrés.", "On y trouve plus de 134 espèces de plantes différentes.", "Des oiseaux rares comme le balbuzard pêcheur nichent dans les mangroves.", "La zone comprend également d'importants systèmes de récifs coralliens."],
     }, image: "/poi-images/nabq-protected-life-v2.webp"},
   {
-    id: "azhar-park-kid-life-v2",
+    id: "azhar-park-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque of Inal al-Yusufi",
+                  "text": "Eine Steinmoschee aus der späten Mamlukenzeit, die sich durch ihr traditionelles Minarett und ihre reich geschnitzten architektonischen Details auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        31.257437,
+                        30.041119
+                  ]
+            },
+            {
+                  "name": "Qogmas Al-Ishaqi Mosue",
+                  "text": "Dieser späte Mamluken-Komplex wurde geschickt an eine unregelmäßige Straßenecke angepasst und verfügt über außergewöhnliche Buntglasfenster und aufwendige Marmorverkleidungen.",
+                  "category": "religious",
+                  "coords": [
+                        31.259531,
+                        30.041471
+                  ]
+            },
+            {
+                  "name": "Zawiya-Sabil Faraj Ibn Barquq",
+                  "text": "Diese kleine religiöse Einrichtung aus dem Jahr 1408 kombiniert eine Sufi-Zawiya mit einem öffentlichen Wasserspender, der vom Mamluken-Sultan Faraj erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        31.257618,
+                        30.042606
+                  ]
+            },
+            {
+                  "name": "Blue Mosque",
+                  "text": "Die Innenwand dieser auch als Aqsunqur-Moschee bekannten Kultstätte ist eindrucksvoll mit wunderschönen blau-grünen Iznik-Fliesen verkleidet.",
+                  "category": "religious",
+                  "coords": [
+                        31.260329,
+                        30.036175
+                  ]
+            },
+            {
+                  "name": "al-Azhar-Park",
+                  "text": "Dieser weitläufige grüne Park wurde auf einer historischen Schutthalde angelegt und bietet heute terrassenförmig angelegte Gärten und einen Panoramablick über die Minarette des islamischen Kairo.",
+                  "category": "park",
+                  "coords": [
+                        31.264752,
+                        30.040597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque of Inal al-Yusufi",
+                  "text": "Egy késő mameluk kori kőmecset, amelyet hagyományos minaretje és gazdagon faragott építészeti részletei tesznek különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        31.257437,
+                        30.041119
+                  ]
+            },
+            {
+                  "name": "Qogmas Al-Ishaqi Mosue",
+                  "text": "A szabálytalan utcasarokhoz ügyesen alkalmazkodó, késő mameluk kori épületegyüttes kivételes ólomüveg ablakokkal és bonyolult márványburkolattal büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        31.259531,
+                        30.041471
+                  ]
+            },
+            {
+                  "name": "Zawiya-Sabil Faraj Ibn Barquq",
+                  "text": "Ez az 1408-ból származó kis vallási intézmény egy szufi záwiját egyesít egy nyilvános vízosztóval, amelyet Faraj mameluk szultán építtetett.",
+                  "category": "religious",
+                  "coords": [
+                        31.257618,
+                        30.042606
+                  ]
+            },
+            {
+                  "name": "Blue Mosque",
+                  "text": "Az Aqsunqur mecsetként is ismert szentély belső falát gyönyörű kék-zöld izniki csempék borítják.",
+                  "category": "religious",
+                  "coords": [
+                        31.260329,
+                        30.036175
+                  ]
+            },
+            {
+                  "name": "Al Azhar Park",
+                  "text": "Egy történelmi törmeléklerakó helyén épült ez a hatalmas zöld park, amely teraszos kerteket és panorámás kilátást kínál az iszlám Kairó minaretjeire.",
+                  "category": "park",
+                  "coords": [
+                        31.264752,
+                        30.040597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque of Inal al-Yusufi",
+                  "text": "O moschee de piatră de la sfârșitul epocii mameluce, distinsă prin minaretul său tradițional și detaliile arhitecturale bogat sculptate.",
+                  "category": "religious",
+                  "coords": [
+                        31.257437,
+                        30.041119
+                  ]
+            },
+            {
+                  "name": "Qogmas Al-Ishaqi Mosue",
+                  "text": "Adaptat cu pricepere la un colț de stradă neregulat, acest complex mameluc târziu prezintă vitralii excepționale și lambriuri complexe de marmură.",
+                  "category": "religious",
+                  "coords": [
+                        31.259531,
+                        30.041471
+                  ]
+            },
+            {
+                  "name": "Zawiya-Sabil Faraj Ibn Barquq",
+                  "text": "Datând din 1408, această mică unitate religioasă combină o zawiya sufită cu un dozator public de apă construit de sultanul mameluc Faraj.",
+                  "category": "religious",
+                  "coords": [
+                        31.257618,
+                        30.042606
+                  ]
+            },
+            {
+                  "name": "Blue Mosque",
+                  "text": "Cunoscută și sub numele de Moscheea Aqsunqur, peretele interior al acestui sanctuar este îmbrăcat impresionant în frumoase plăci Iznik albastre și verzi.",
+                  "category": "religious",
+                  "coords": [
+                        31.260329,
+                        30.036175
+                  ]
+            },
+            {
+                  "name": "Al Azhar Park",
+                  "text": "Construit pe o groapă istorică de moloz, acest parc verde vast oferă acum grădini terasate și vederi panoramice asupra minaretelor din Cairo Islamic.",
+                  "category": "park",
+                  "coords": [
+                        31.264752,
+                        30.040597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque of Inal al-Yusufi",
+                  "text": "A late Mamluk-era stone mosque distinguished by its traditional minaret and richly carved architectural details.",
+                  "category": "religious",
+                  "coords": [
+                        31.257437,
+                        30.041119
+                  ]
+            },
+            {
+                  "name": "Qogmas Al-Ishaqi Mosue",
+                  "text": "Skillfully adapted to an irregular street corner, this late Mamluk complex features exceptional stained-glass windows and intricate marble paneling.",
+                  "category": "religious",
+                  "coords": [
+                        31.259531,
+                        30.041471
+                  ]
+            },
+            {
+                  "name": "Zawiya-Sabil Faraj Ibn Barquq",
+                  "text": "Originating in 1408, this small religious establishment combines a Sufi zawiya with a public water dispenser built by the Mamluk Sultan Faraj.",
+                  "category": "religious",
+                  "coords": [
+                        31.257618,
+                        30.042606
+                  ]
+            },
+            {
+                  "name": "Blue Mosque",
+                  "text": "Also known as the Aqsunqur Mosque, this sanctuary's interior wall is strikingly clad in beautiful blue-and-green Iznik tiles.",
+                  "category": "religious",
+                  "coords": [
+                        31.260329,
+                        30.036175
+                  ]
+            },
+            {
+                  "name": "Al Azhar Park",
+                  "text": "Built over a historic rubble dump, this expansive green park now offers terraced gardens and panoramic views over the minarets of Islamic Cairo.",
+                  "category": "park",
+                  "coords": [
+                        31.264752,
+                        30.040597
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-C",
     coords: [31.26, 30.04],
@@ -904,7 +2290,196 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Le parc a été construit sur des décombres vieux de 500 ans.", "L'inauguration a eu lieu en 2005 par l'Aga Khan.", "Plus de 650 000 plantes ont été installées dans le parc.", "Le mur ayyoubide mesure environ 1,5 kilomètre de long.", "Le parc a reçu le prix Aga Khan d'architecture.", "Trois grands réservoirs alimentent le parc en eau."],
     }, image: "/poi-images/azhar-park-kid-life-v2.webp"},
   {
-    id: "rosseta-fruit-agriculture-life-v2",
+    id: "rosseta-fruit-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amasyali House",
+                  "text": "Diese gut erhaltene historische Residenz aus der osmanischen Zeit in Rosetta ist für ihre kunstvollen Holzarbeiten bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "Rosetta-Museum",
+                  "text": "Das Rashid-Nationalmuseum ist in einem traditionellen osmanischen Herrenhaus aus dem 18. Jahrhundert untergebracht und stellt lokale Artefakte aus.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "Wafya Al-Samet Mosque",
+                  "text": "Diese historische islamische Kultstätte aus Backstein befindet sich in der Stadt Rosetta.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "Al-Mahaly Mosque",
+                  "text": "Die Al-Mahaly-Moschee in Rosetta zeichnet sich durch ihre markanten Holzsäulen und ihr historisches islamisches Design aus.",
+                  "category": "religious",
+                  "coords": [
+                        30.421044,
+                        31.404167
+                  ]
+            },
+            {
+                  "name": "Fort Julien",
+                  "text": "In dieser mamelukischen Festung aus dem 15. Jahrhundert wurde 1799 der berühmte Stein von Rosette entdeckt.",
+                  "category": "castle",
+                  "coords": [
+                        30.389549,
+                        31.439669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amasyali House",
+                  "text": "Ez a jó állapotban fennmaradt oszmán kori történelmi rezidencia Rosettában a díszes fafaragásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "Rashid National Museum",
+                  "text": "A Rashid Nemzeti Múzeum egy hagyományos 18. századi oszmán kúriában kapott helyet, amely helyi leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "Wafya Al-Samet Mosque",
+                  "text": "Ez a történelmi, téglából épült iszlám istentiszteleti hely Rosetta városában található.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "Al-Mahaly Mosque",
+                  "text": "A rosettai Al-Mahaly mecsetet jellegzetes faoszlopai és történelmi iszlám dizájnja jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        30.421044,
+                        31.404167
+                  ]
+            },
+            {
+                  "name": "Fort Julien",
+                  "text": "Ebben a 15. századi mameluk erődben fedezték fel 1799-ben a híres rosette-i követ.",
+                  "category": "castle",
+                  "coords": [
+                        30.389549,
+                        31.439669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amasyali House",
+                  "text": "Această reședință istorică bine conservată din epoca otomană din Rosetta este cunoscută pentru lemnăria sa ornamentată.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "Rashid National Museum",
+                  "text": "Muzeul Național Rashid este găzduit într-un conac tradițional otoman din secolul al XVIII-lea și expune artefacte locale.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "Wafya Al-Samet Mosque",
+                  "text": "Acest lăcaș de cult islamic istoric din cărămidă este situat în orașul Rosetta.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "Al-Mahaly Mosque",
+                  "text": "Moscheea Al-Mahaly din Rosetta se caracterizează prin coloanele sale de lemn proeminente și designul islamic istoric.",
+                  "category": "religious",
+                  "coords": [
+                        30.421044,
+                        31.404167
+                  ]
+            },
+            {
+                  "name": "Fort Julien",
+                  "text": "În această fortificație mamelucă din secolul al XV-lea a fost descoperită celebra Piatră din Rosetta în 1799.",
+                  "category": "castle",
+                  "coords": [
+                        30.389549,
+                        31.439669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amasyali House",
+                  "text": "This well-preserved historical Ottoman-era residence in Rosetta is known for its ornate woodwork.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "Rashid National Museum",
+                  "text": "The Rashid National Museum is housed in a traditional 18th-century Ottoman mansion displaying local artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "Wafya Al-Samet Mosque",
+                  "text": "This historic brick Islamic place of worship is situated in the city of Rosetta.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "Al-Mahaly Mosque",
+                  "text": "The Al-Mahaly Mosque in Rosetta is characterized by its prominent wooden columns and historic Islamic design.",
+                  "category": "religious",
+                  "coords": [
+                        30.421044,
+                        31.404167
+                  ]
+            },
+            {
+                  "name": "Fort Julien",
+                  "text": "The famous Rosetta Stone was discovered at this 15th-century Mamluk fortification in 1799.",
+                  "category": "castle",
+                  "coords": [
+                        30.389549,
+                        31.439669
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "EG-BH",
     coords: [30.40, 31.40],
@@ -1009,7 +2584,268 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Minya est le plus grand producteur de canne à sucre d'Égypte.", "La ville de Minya est souvent surnommée la 'perle de la Haute-Égypte'.", "La saison de récolte de la canne à sucre commence en janvier.", "Le coton de Minya est considéré comme étant d'une qualité exceptionnelle.", "Le canal Ibrahimiya est vital pour l'irrigation.", "Plus de 60 % de la population travaille dans l'agriculture."],
     }, image: "/poi-images/minya-crops-agriculture-life-v2.webp"},
   {
-    id: "sohag-fields-agriculture-life-v2",
+    id: "sohag-fields-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Athribis (Upper Egypt)",
+                  "text": "Athribis ist eine bedeutende archäologische Stätte, deren Ruinen die Überreste einer antiken ägyptischen Siedlung in Oberägypten zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        31.665356,
+                        26.511359
+                  ]
+            },
+            {
+                  "name": "Temple of Ptolemy IX (Physkon)",
+                  "text": "Die Überreste des Tempels von Ptolemaios IX. zeugen von der Architektur der ptolemäischen Epoche in dieser Region.",
+                  "category": "historical",
+                  "coords": [
+                        31.665744,
+                        26.510337
+                  ]
+            },
+            {
+                  "name": "Tomb of the Mayor of Athribis",
+                  "text": "Das Grab des Bürgermeisters von Athribis ist eine historische Felsengrabanlage eines hochrangigen altägyptischen Beamten.",
+                  "category": "historical",
+                  "coords": [
+                        31.664488,
+                        26.510156
+                  ]
+            },
+            {
+                  "name": "Zodiac tomb",
+                  "text": "Das Zodiak-Grab ist eine archäologische Stätte, die für ihre faszinierenden astronomischen Deckendarstellungen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        31.665676,
+                        26.509244
+                  ]
+            },
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "Dieser steinerne ägyptische Obelisk ragt als historisches Monument in der Landschaft nahe Sohag empor.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            },
+            {
+                  "name": "White Monastery",
+                  "text": "Das Weiße Kloster ist eine koptisch-orthodoxe Anlage, die für ihre massiven Mauern aus weißem Kalkstein bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        31.645735,
+                        26.534551
+                  ]
+            },
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "Der Merritt-Tempel des Amun ist eine archäologische Ausgrabungsstätte, die den Kult des altägyptischen Gottes Amun dokumentiert.",
+                  "category": "historical",
+                  "coords": [
+                        31.746353,
+                        26.565173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Athribis (Upper Egypt)",
+                  "text": "Athribisz egy jelentős régészeti lelőhely, amely egy ókori egyiptomi település romjait őrzi Felső-Egyiptomban.",
+                  "category": "historical",
+                  "coords": [
+                        31.665356,
+                        26.511359
+                  ]
+            },
+            {
+                  "name": "Temple of Ptolemy IX (Physkon)",
+                  "text": "IX. Ptolemaiosz templomának maradványai a ptolemaioszi korszak építészetét mutatják be a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        31.665744,
+                        26.510337
+                  ]
+            },
+            {
+                  "name": "Tomb of the Mayor of Athribis",
+                  "text": "Athribisz polgármesterének sírja egy ókori sziklasír, amely egy magas rangú egyiptomi tisztségviselő nyughelye.",
+                  "category": "historical",
+                  "coords": [
+                        31.664488,
+                        26.510156
+                  ]
+            },
+            {
+                  "name": "Zodiac tomb",
+                  "text": "A Zodiákus-sír egy régészeti lelőhely, amely csillagászati mennyezeti díszítéseiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        31.665676,
+                        26.509244
+                  ]
+            },
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "Ez a kőből faragott egyiptomi obeliszk történelmi emlékműként magasodik Szóhág közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            },
+            {
+                  "name": "White Monastery",
+                  "text": "A Fehér Kolostor egy kopt ortodox épületegyüttes, amely fehér mészkőből épült masszív falairól híres.",
+                  "category": "religious",
+                  "coords": [
+                        31.645735,
+                        26.534551
+                  ]
+            },
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "Az Amonnak szentelt Merritt-templom az ókori egyiptomi isten kultuszának régészeti emléke.",
+                  "category": "historical",
+                  "coords": [
+                        31.746353,
+                        26.565173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Athribis (Upper Egypt)",
+                  "text": "Athribis este un sit arheologic proeminent ale cărui ruine dezvăluie o veche așezare egipteană din Egiptul de Sus.",
+                  "category": "historical",
+                  "coords": [
+                        31.665356,
+                        26.511359
+                  ]
+            },
+            {
+                  "name": "Temple of Ptolemy IX (Physkon)",
+                  "text": "Ruinele Templului lui Ptolemeu al IX-lea reflectă arhitectura epocii ptolemeice din această zonă.",
+                  "category": "historical",
+                  "coords": [
+                        31.665744,
+                        26.510337
+                  ]
+            },
+            {
+                  "name": "Tomb of the Mayor of Athribis",
+                  "text": "Mormântul primarului din Athribis este un vechi mormânt săpat în stâncă, aparținând unui oficial egiptean de rang înalt.",
+                  "category": "historical",
+                  "coords": [
+                        31.664488,
+                        26.510156
+                  ]
+            },
+            {
+                  "name": "Zodiac tomb",
+                  "text": "Mormântul Zodiacului este un sit arheologic remarcabil prin decorațiunile astronomice fascinante de pe tavan.",
+                  "category": "historical",
+                  "coords": [
+                        31.665676,
+                        26.509244
+                  ]
+            },
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "Acest obelisc egiptean din piatră se înalță ca un monument istoric distinctiv în peisajul din apropiere de Sohag.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            },
+            {
+                  "name": "White Monastery",
+                  "text": "Mănăstirea Albă este un lăcaș copt ortodox renumit pentru zidurile sale masive construite din calcar alb.",
+                  "category": "religious",
+                  "coords": [
+                        31.645735,
+                        26.534551
+                  ]
+            },
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "Templul lui Amon de la Merritt este un sit arheologic care reflectă cultul vechiului zeu egiptean Amon.",
+                  "category": "historical",
+                  "coords": [
+                        31.746353,
+                        26.565173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Athribis (Upper Egypt)",
+                  "text": "Athribis is a prominent archaeological site featuring the ruins of an ancient Egyptian settlement in Upper Egypt.",
+                  "category": "historical",
+                  "coords": [
+                        31.665356,
+                        26.511359
+                  ]
+            },
+            {
+                  "name": "Temple of Ptolemy IX (Physkon)",
+                  "text": "The ruins of the Temple of Ptolemy IX showcase the distinctive architecture of the Ptolemaic era in the region.",
+                  "category": "historical",
+                  "coords": [
+                        31.665744,
+                        26.510337
+                  ]
+            },
+            {
+                  "name": "Tomb of the Mayor of Athribis",
+                  "text": "The Tomb of the Mayor of Athribis is an ancient rock-cut burial site of a high-ranking Egyptian official.",
+                  "category": "historical",
+                  "coords": [
+                        31.664488,
+                        26.510156
+                  ]
+            },
+            {
+                  "name": "Zodiac tomb",
+                  "text": "The Zodiac tomb is an archaeological site renowned for its intriguing astronomical ceiling decorations.",
+                  "category": "historical",
+                  "coords": [
+                        31.665676,
+                        26.509244
+                  ]
+            },
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "This stone Egyptian obelisk stands as a prominent historical monument in the landscape near Sohag.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            },
+            {
+                  "name": "White Monastery",
+                  "text": "The White Monastery is a Coptic Orthodox complex renowned for its massive walls built from white limestone.",
+                  "category": "religious",
+                  "coords": [
+                        31.645735,
+                        26.534551
+                  ]
+            },
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "The Merritt Temple of Amun is an archaeological site reflecting the ancient worship of the Egyptian god Amun.",
+                  "category": "historical",
+                  "coords": [
+                        31.746353,
+                        26.565173
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "EG-SHG",
     coords: [31.70, 26.50],
@@ -1044,7 +2880,88 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Sohag est réputée pour sa production importante d'oignons.", "La zone utilise le barrage d'Assiout pour la régulation de l'eau.", "La région possède l'une des meilleures qualités de sol de la vallée du Nil.", "Le blé y est cultivé sur deux cycles par an.", "La province comprend plus de 300 000 feddans de terres agricoles.", "Des pigeonniers traditionnels en briques crues parsèment les champs."],
     }, image: "/poi-images/sohag-fields-agriculture-life-v2.webp"},
   {
-    id: "qena-farming-agriculture-life-v2",
+    id: "qena-farming-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "South palace at Deir el-Ballas",
+                  "text": "Die archäologischen Ruinen einer altägyptischen Königsresidenz in der Nähe des landwirtschaftlichen Gebiets von Qena.",
+                  "category": "historical",
+                  "coords": [
+                        32.750806,
+                        26.03851
+                  ]
+            },
+            {
+                  "name": "North Palace at Deir el-Ballas",
+                  "text": "Eine antike archäologische Stätte mit den Überresten einer monumentalen Lehmziegelstruktur in der Nähe von Qena.",
+                  "category": "historical",
+                  "coords": [
+                        32.751623,
+                        26.046833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "South palace at Deir el-Ballas",
+                  "text": "Egy ókori egyiptomi királyi rezidencia régészeti romjai a Qena mezőgazdasági terület közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.750806,
+                        26.03851
+                  ]
+            },
+            {
+                  "name": "North Palace at Deir el-Ballas",
+                  "text": "Ősi régészeti lelőhely egy monumentális vályogtégla építmény maradványaival Qena közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.751623,
+                        26.046833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "South palace at Deir el-Ballas",
+                  "text": "Ruinele arheologice ale unei vechi reședințe regale egiptene situate în apropierea zonei agricole Qena.",
+                  "category": "historical",
+                  "coords": [
+                        32.750806,
+                        26.03851
+                  ]
+            },
+            {
+                  "name": "North Palace at Deir el-Ballas",
+                  "text": "Un sit arheologic antic prezentând rămășițele unei structuri monumentale din cărămidă de lut în apropiere de Qena.",
+                  "category": "historical",
+                  "coords": [
+                        32.751623,
+                        26.046833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "South palace at Deir el-Ballas",
+                  "text": "The archaeological ruins of an ancient Egyptian royal residence located near the agricultural area of Qena.",
+                  "category": "historical",
+                  "coords": [
+                        32.750806,
+                        26.03851
+                  ]
+            },
+            {
+                  "name": "North Palace at Deir el-Ballas",
+                  "text": "An ancient archaeological site featuring the remains of a monumental mudbrick structure near Qena.",
+                  "category": "historical",
+                  "coords": [
+                        32.751623,
+                        26.046833
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "EG-QEN",
     coords: [32.70, 26.10],
@@ -1079,7 +2996,412 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Qena est célèbre pour ses tomates d'hiver juteuses.", "La région produit environ 30 % du sucre égyptien.", "Le Nil effectue ici un virage remarquable de 180 degrés.", "L'irrigation est assurée par le barrage de Naga Hammadi.", "Qena est un centre de commerce pour les produits agricoles.", "Les sols argileux sont idéaux pour la fabrication de cruches à eau."],
     }, image: "/poi-images/qena-farming-agriculture-life-v2.webp"},
   {
-    id: "hurghada-marine-habitat-life-v2",
+    id: "hurghada-marine-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "mobark 2",
+                  "text": "Mobark 2 ist ein lokales Handelszentrum, das touristische Dienstleistungen nahe der lebhaften Rotmeerküste von Hurghada anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.829683,
+                        27.196277
+                  ]
+            },
+            {
+                  "name": "Hilton Beach",
+                  "text": "Hilton Beach ist ein gehobener Resortbereich, der schattige Sonnenliegen und direkten Zugang zum klaren Wasser des Roten Meeres bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829123,
+                        27.160067
+                  ]
+            },
+            {
+                  "name": "Dolphina park",
+                  "text": "Dieses Meerestheater veranstaltet faszinierende Live-Auftritte mit trainierten Delfinen, die springen und mit ihren Trainern interagieren.",
+                  "category": "cultural",
+                  "coords": [
+                        33.762606,
+                        27.154025
+                  ]
+            },
+            {
+                  "name": "Beach Albatros",
+                  "text": "Beach Albatros ist ein großer Küstenkomplex mit mehreren Swimmingpools und weitläufigen Sandstränden am Roten Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829827,
+                        27.122168
+                  ]
+            },
+            {
+                  "name": "Albatros White Beach Resort",
+                  "text": "Das Albatros White Beach Resort bietet mit seinen weitläufigen Pools und der Strandpromenade ein modernes Urlaubserlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        33.826884,
+                        27.18268
+                  ]
+            },
+            {
+                  "name": "Old Vic",
+                  "text": "Old Vic ist einer der ältesten öffentlichen Sandstrände in Hurghada und bietet ruhiges Wasser, das ideal zum Schwimmen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840606,
+                        27.195045
+                  ]
+            },
+            {
+                  "name": "Dream Beach",
+                  "text": "Dream Beach ist ein angesagter Resortort, der für seine lebhafte Beach-Club-Atmosphäre, schwungvolle Musik und Entspannung an der Küste bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        33.842229,
+                        27.195823
+                  ]
+            },
+            {
+                  "name": "Kamareia Beach",
+                  "text": "Kamareia Beach bietet einen ruhigen goldenen Sandstrand am Roten Meer, der sich perfekt zum Sonnenbaden und Schnorcheln eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.831663,
+                        27.154711
+                  ]
+            },
+            {
+                  "name": "Sheraton beach 2",
+                  "text": "Sheraton Beach 2 ist ein gut gepflegter Küstenstreifen, der unberührten Zugang zum Wasser und schattige Cabanas in Hurghada bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846337,
+                        27.197836
+                  ]
+            },
+            {
+                  "name": "Sindbad Aqua Park",
+                  "text": "Der Sindbad Aqua Park bietet farbenfrohe, kurvige Rutschen, Planschzonen und künstliche Wellenbecken für familienfreundliche Unterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829925,
+                        27.189337
+                  ]
+            },
+            {
+                  "name": "Hurghada Grand Aquarium",
+                  "text": "Dieses große Aquarium zeigt die vielfältige Unterwasserwelt des Roten Meeres durch transparente Aussichtstunnel und riesige Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        33.821725,
+                        27.133947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "mobark 2",
+                  "text": "A Mobark 2 egy helyi kereskedelmi helyszín, amely turisztikai szolgáltatásokat nyújt Hurghada nyüzsgő Vörös-tengeri partja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.829683,
+                        27.196277
+                  ]
+            },
+            {
+                  "name": "Hilton Beach",
+                  "text": "A Hilton Beach egy előkelő üdülőövezet, amely árnyékos napozóágyakat és közvetlen hozzáférést kínál a Vörös-tenger tiszta vizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829123,
+                        27.160067
+                  ]
+            },
+            {
+                  "name": "Dolphina park",
+                  "text": "Ez a tengeri színház lenyűgöző élő előadásoknak ad otthont, ahol betanított delfinek ugrálnak és játszanak az oktatókkal.",
+                  "category": "cultural",
+                  "coords": [
+                        33.762606,
+                        27.154025
+                  ]
+            },
+            {
+                  "name": "Beach Albatros",
+                  "text": "A Beach Albatros egy nagy tengerparti komplexum, amely több úszómedencével és kiterjedt homokos parttal büszkélkedhet a Vörös-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829827,
+                        27.122168
+                  ]
+            },
+            {
+                  "name": "Albatros White Beach Resort",
+                  "text": "Az Albatros White Beach Resort modern nyaralási élményt kínál hatalmas medencéivel és tengerparti sétányaival.",
+                  "category": "recreational",
+                  "coords": [
+                        33.826884,
+                        27.18268
+                  ]
+            },
+            {
+                  "name": "Old Vic",
+                  "text": "Az Old Vic Hurghada egyik legrégebbi homokos nyilvános strandja, melynek nyugodt vize ideális egy laza úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840606,
+                        27.195045
+                  ]
+            },
+            {
+                  "name": "Dream Beach",
+                  "text": "A Dream Beach egy divatos üdülőhely, amely vibráló strandklub-hangulatáról, élénk zenéjéről és tengerparti pihenéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        33.842229,
+                        27.195823
+                  ]
+            },
+            {
+                  "name": "Kamareia Beach",
+                  "text": "A Kamareia Beach a Vörös-tenger mentén elterülő nyugodt, aranyszínű homokos partszakaszt kínál, amely tökéletes napozáshoz és sznorkelezéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        33.831663,
+                        27.154711
+                  ]
+            },
+            {
+                  "name": "Sheraton beach 2",
+                  "text": "A Sheraton beach 2 egy gondozott tengerparti sáv, amely tiszta vízparti hozzáférést és árnyékos kabinokat kínál Hurghadában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846337,
+                        27.197836
+                  ]
+            },
+            {
+                  "name": "Sindbad Aqua Park",
+                  "text": "A Sindbad Aqua Park színes kanyargós csúszdákkal, csobbanó zónákkal és mesterséges hullámmedencékkel várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829925,
+                        27.189337
+                  ]
+            },
+            {
+                  "name": "Hurghada Grand Aquarium",
+                  "text": "Ez a nagy akvárium a Vörös-tenger élénk tengeri élővilágát mutatja be átlátszó kilátó alagutakon és hatalmas medencéken keresztül.",
+                  "category": "recreational",
+                  "coords": [
+                        33.821725,
+                        27.133947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "mobark 2",
+                  "text": "Mobark 2 este un spațiu comercial local ce oferă servicii turistice în apropierea coastei pline de viață a Mării Roșii din Hurghada.",
+                  "category": "landmark",
+                  "coords": [
+                        33.829683,
+                        27.196277
+                  ]
+            },
+            {
+                  "name": "Hilton Beach",
+                  "text": "Hilton Beach este o zonă de stațiune de lux care oferă șezlonguri umbrite și acces direct la apele limpezi ale Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829123,
+                        27.160067
+                  ]
+            },
+            {
+                  "name": "Dolphina park",
+                  "text": "Acest teatru marin găzduiește spectacole live captivante cu delfini dresați care sar și interacționează cu instructorii.",
+                  "category": "cultural",
+                  "coords": [
+                        33.762606,
+                        27.154025
+                  ]
+            },
+            {
+                  "name": "Beach Albatros",
+                  "text": "Beach Albatros este un complex mare pe litoral, care se mândrește cu mai multe piscine și țărmuri mari de nisip la Marea Roșie.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829827,
+                        27.122168
+                  ]
+            },
+            {
+                  "name": "Albatros White Beach Resort",
+                  "text": "Albatros White Beach Resort oferă o experiență de vacanță contemporană, cu piscinele sale întinse și promenadele pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        33.826884,
+                        27.18268
+                  ]
+            },
+            {
+                  "name": "Old Vic",
+                  "text": "Old Vic este una dintre cele mai vechi plaje publice de nisip din Hurghada, cu ape calme, ideale pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840606,
+                        27.195045
+                  ]
+            },
+            {
+                  "name": "Dream Beach",
+                  "text": "Dream Beach este un loc de stațiune la modă, cunoscut pentru atmosfera sa vibrantă de club pe plajă, muzica plină de viață și relaxarea pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        33.842229,
+                        27.195823
+                  ]
+            },
+            {
+                  "name": "Kamareia Beach",
+                  "text": "Kamareia Beach oferă o porțiune liniștită de nisip auriu de-a lungul Mării Roșii, perfectă pentru băi de soare și snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        33.831663,
+                        27.154711
+                  ]
+            },
+            {
+                  "name": "Sheraton beach 2",
+                  "text": "Sheraton Beach 2 este o fâșie de coastă bine întreținută, care oferă acces la apă cristalină și cabane umbrite în Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846337,
+                        27.197836
+                  ]
+            },
+            {
+                  "name": "Sindbad Aqua Park",
+                  "text": "Sindbad Aqua Park are tobogane șerpuitoare colorate, zone de stropire și piscine cu valuri artificiale pentru divertisment în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829925,
+                        27.189337
+                  ]
+            },
+            {
+                  "name": "Hurghada Grand Aquarium",
+                  "text": "Acest mare acvariu prezintă viața marină vibrantă a Mării Roșii prin tuneluri de vizionare transparente și bazine masive.",
+                  "category": "recreational",
+                  "coords": [
+                        33.821725,
+                        27.133947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "mobark 2",
+                  "text": "Mobark 2 is a local commercial venue providing tourist services near the lively Red Sea coast of Hurghada.",
+                  "category": "landmark",
+                  "coords": [
+                        33.829683,
+                        27.196277
+                  ]
+            },
+            {
+                  "name": "Hilton Beach",
+                  "text": "Hilton Beach is an upscale resort area offering shaded sun loungers and direct access to the clear waters of the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829123,
+                        27.160067
+                  ]
+            },
+            {
+                  "name": "Dolphin show",
+                  "text": "This marine theatre hosts engaging live performances featuring trained dolphins jumping and interacting with their instructors.",
+                  "category": "cultural",
+                  "coords": [
+                        33.762606,
+                        27.154025
+                  ]
+            },
+            {
+                  "name": "Beach Albatros",
+                  "text": "Beach Albatros is a large seaside complex boasting multiple swimming pools and extensive sandy shores along the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829827,
+                        27.122168
+                  ]
+            },
+            {
+                  "name": "Albatros White Beach Resort",
+                  "text": "Albatros White Beach Resort offers a contemporary holiday experience with its sprawling swimming pools and beachfront promenades.",
+                  "category": "recreational",
+                  "coords": [
+                        33.826884,
+                        27.18268
+                  ]
+            },
+            {
+                  "name": "Old Vic",
+                  "text": "Old Vic is one of Hurghada's oldest sandy public beaches, featuring calm waters that are ideal for casual swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840606,
+                        27.195045
+                  ]
+            },
+            {
+                  "name": "Dream Beach",
+                  "text": "Dream Beach is a trendy resort spot known for its vibrant beach club atmosphere, lively music, and coastal lounging areas.",
+                  "category": "recreational",
+                  "coords": [
+                        33.842229,
+                        27.195823
+                  ]
+            },
+            {
+                  "name": "Kamareia Beach",
+                  "text": "Kamareia Beach offers a tranquil stretch of golden sand along the Red Sea, perfect for sunbathing and snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        33.831663,
+                        27.154711
+                  ]
+            },
+            {
+                  "name": "Sheraton beach 2",
+                  "text": "Sheraton beach 2 is a well-maintained coastal strip providing pristine water access and shaded cabanas in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846337,
+                        27.197836
+                  ]
+            },
+            {
+                  "name": "Sindbad Aqua Park",
+                  "text": "Sindbad Aqua Park features colorful winding slides, splash zones, and artificial wave pools for family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        33.829925,
+                        27.189337
+                  ]
+            },
+            {
+                  "name": "Hurghada Grand Aquarium",
+                  "text": "This large aquarium showcases the vibrant marine life of the Red Sea through transparent viewing tunnels and massive tanks.",
+                  "category": "recreational",
+                  "coords": [
+                        33.821725,
+                        27.133947
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "EG-RS",
     coords: [33.80, 27.20],
@@ -1114,7 +3436,160 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Abrite plus de 1200 espèces de poissons dans les structures récifales.", "La température de l'eau varie entre 21 et 28 degrés toute l'année.", "La région comprend des zones protégées comme le parc national de l'île Giftun.", "Plus de 200 espèces de coraux différentes y ont été scientifiquement répertoriées.", "Le tourisme de plongée est le principal secteur économique d'Hurghada depuis 1980.", "Les récifs font partie des écosystèmes coralliens les plus septentrionaux du monde."],
     }, image: "/poi-images/hurghada-marine-habitat-life-v2.webp"},
   {
-    id: "heliopolis-park-kid-life-v2",
+    id: "heliopolis-park-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masr 5614",
+                  "text": "Diese lebhafte lokale Attraktion zieht Familien und Besucher an, die in dem geschäftigen Viertel Heliopolis nach ungezwungenen Unterhaltungsmöglichkeiten suchen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.340079,
+                        30.061797
+                  ]
+            },
+            {
+                  "name": "CFCC",
+                  "text": "Diese als aktives Kunstzentrum betriebene Einrichtung beherbergt zeitgenössische Ausstellungen und kreative Workshops für die aufstrebenden Talente des Bezirks.",
+                  "category": "cultural",
+                  "coords": [
+                        31.333091,
+                        30.083921
+                  ]
+            },
+            {
+                  "name": "Elite Center",
+                  "text": "Diese von den Anwohnern frequentierte kommerzielle Attraktion bietet eine ausgewählte Auswahl an Freizeit- und Erholungsaktivitäten für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        31.349513,
+                        30.060006
+                  ]
+            },
+            {
+                  "name": "7ay l 10",
+                  "text": "Dieser nachbarschaftliche Treffpunkt zeichnet sich durch ein lebendiges Straßenleben und ungezwungene Freizeiteinrichtungen inmitten der örtlichen Wohngemeinde aus.",
+                  "category": "landmark",
+                  "coords": [
+                        31.37902,
+                        30.049188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masr 5614",
+                  "text": "Ez a nyüzsgő helyi látványosság a Heliopolisz negyedben lazább szórakozási lehetőségeket kereső családokat és látogatókat vonzza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.340079,
+                        30.061797
+                  ]
+            },
+            {
+                  "name": "CFCC",
+                  "text": "Aktív művészeti központként ez az intézmény kortárs kiállításoknak és kreatív workshopoknak ad otthont a kerület feltörekvő tehetségei számára.",
+                  "category": "cultural",
+                  "coords": [
+                        31.333091,
+                        30.083921
+                  ]
+            },
+            {
+                  "name": "Elite Center",
+                  "text": "A helyi lakosok által sűrűn látogatott kereskedelmi látványosság válogatott szabadidős és rekreációs tevékenységeket kínál a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        31.349513,
+                        30.060006
+                  ]
+            },
+            {
+                  "name": "7ay l 10",
+                  "text": "Ez a környékbeli gyülekezőhely pezsgő utcai élettel és a helyi lakóközösségbe ágyazott laza szabadidős szolgáltatásokkal várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.37902,
+                        30.049188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masr 5614",
+                  "text": "Această atracție locală vibrantă atrage familii și vizitatori care caută opțiuni de divertisment relaxat în cartierul plin de viață Heliopolis.",
+                  "category": "landmark",
+                  "coords": [
+                        31.340079,
+                        30.061797
+                  ]
+            },
+            {
+                  "name": "CFCC",
+                  "text": "Funcționând ca un centru de artă activ, această facilitate găzduiește expoziții contemporane și ateliere creative pentru talentele emergente ale districtului.",
+                  "category": "cultural",
+                  "coords": [
+                        31.333091,
+                        30.083921
+                  ]
+            },
+            {
+                  "name": "Elite Center",
+                  "text": "Frecventată de rezidenții locali, această atracție comercială oferă o selecție curată de activități de agrement și recreere pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        31.349513,
+                        30.060006
+                  ]
+            },
+            {
+                  "name": "7ay l 10",
+                  "text": "Acest loc de adunare din cartier prezintă o viață stradală vibrantă și facilități de recreere relaxate încorporate în comunitatea rezidențială locală.",
+                  "category": "landmark",
+                  "coords": [
+                        31.37902,
+                        30.049188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masr 5614",
+                  "text": "This vibrant local attraction draws families and visitors seeking casual entertainment options in the bustling Heliopolis neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        31.340079,
+                        30.061797
+                  ]
+            },
+            {
+                  "name": "CFCC",
+                  "text": "Operating as an active arts center, this facility hosts contemporary exhibitions and creative workshops for the district's emerging talents.",
+                  "category": "cultural",
+                  "coords": [
+                        31.333091,
+                        30.083921
+                  ]
+            },
+            {
+                  "name": "Elite Center",
+                  "text": "Frequented by local residents, this commercial attraction provides a curated selection of leisure and recreational activities for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        31.349513,
+                        30.060006
+                  ]
+            },
+            {
+                  "name": "7ay l 10",
+                  "text": "This neighborhood gathering spot features vibrant street life and casual recreational amenities embedded within the local residential community.",
+                  "category": "landmark",
+                  "coords": [
+                        31.37902,
+                        30.049188
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-C",
     coords: [31.33, 30.08],
@@ -1219,7 +3694,268 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Beni Souef est située à environ 120 km au sud de la capitale, Le Caire.", "La province est l'un des plus grands exportateurs d'herbes médicinales d'Égypte.", "Plus de 50 % de la population active travaille dans l'agriculture.", "Le coton de cette région est réputé pour la grande qualité de ses fibres.", "L'irrigation se fait principalement par le canal Bahr Yusuf.", "La pyramide de Meïdoum voisine date de la IVe dynastie (environ 2600 av. J.-C.)."],
     }, image: "/poi-images/benisuef-farms-agriculture-life-v2.webp"},
   {
-    id: "giza-green-kid-life-v2",
+    id: "giza-green-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "giza pyramids view",
+                  "text": "Aussichtspunkt, der malerische Ausblicke auf die antiken Pyramiden von den grüneren Bezirken von Gizeh aus bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.151698,
+                        29.959953
+                  ]
+            },
+            {
+                  "name": "Wissa Wassef Art Center",
+                  "text": "Museums- und Werkstattkomplex in Harraniya, der sich der Erhaltung der traditionellen ägyptischen Tapisserieweberei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        31.176465,
+                        29.969202
+                  ]
+            },
+            {
+                  "name": "Adam Henein Museum",
+                  "text": "Das Museum in giza-green-kid-life-v2 widmet sich dem Werk des renommierten ägyptischen Bildhauers Adam Henein.",
+                  "category": "museum",
+                  "coords": [
+                        31.175194,
+                        29.971964
+                  ]
+            },
+            {
+                  "name": "Layer Pyramid",
+                  "text": "Diese verfallene Stufenpyramide aus der 3. Dynastie befindet sich in der archäologischen Stätte von giza-green-kid-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.161262,
+                        29.93282
+                  ]
+            },
+            {
+                  "name": "giza pyramids view from afar",
+                  "text": "Dieser Aussichtspunkt in giza-green-kid-life-v2 bietet ein weites Panorama auf die ikonischen antiken Pyramiden von Gizeh.",
+                  "category": "natural",
+                  "coords": [
+                        31.164816,
+                        29.939117
+                  ]
+            },
+            {
+                  "name": "Unfinished Northern Pyramid of Zawyet El Aryan",
+                  "text": "Diese archäologische Stätte in giza-green-kid-life-v2 umfasst den riesigen Schacht einer unvollendeten Pyramide von Zawyet El Aryan.",
+                  "category": "historical",
+                  "coords": [
+                        31.151556,
+                        29.940122
+                  ]
+            },
+            {
+                  "name": "Malahy Al Fustat Land",
+                  "text": "Dieser familienfreundliche Freizeitpark in giza-green-kid-life-v2 bietet zahlreiche Karussells und Fahrgeschäfte für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        31.176807,
+                        29.973326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "giza pyramids view",
+                  "text": "A gízai zöldebb negyedekből a festői ókori piramisokra nyíló kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        31.151698,
+                        29.959953
+                  ]
+            },
+            {
+                  "name": "Wissa Wassef Art Center",
+                  "text": "Harraniyában található múzeum- és műhelykomplexum, amely a hagyományos egyiptomi kárpitszövés megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        31.176465,
+                        29.969202
+                  ]
+            },
+            {
+                  "name": "Adam Henein Museum",
+                  "text": "A giza-green-kid-life-v2-ben található múzeum a híres egyiptomi szobrász, Adam Henein munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.175194,
+                        29.971964
+                  ]
+            },
+            {
+                  "name": "Layer Pyramid",
+                  "text": "Ez a 3. dinasztiából származó, romos lépcsős piramis giza-green-kid-life-v2 régészeti lelőhelyén található.",
+                  "category": "historical",
+                  "coords": [
+                        31.161262,
+                        29.93282
+                  ]
+            },
+            {
+                  "name": "giza pyramids view from afar",
+                  "text": "Ez a giza-green-kid-life-v2-ben található kilátó széles panorámát nyújt a gízai piramisok ikonikus ókori építményeire.",
+                  "category": "natural",
+                  "coords": [
+                        31.164816,
+                        29.939117
+                  ]
+            },
+            {
+                  "name": "Unfinished Northern Pyramid of Zawyet El Aryan",
+                  "text": "Ez a giza-green-kid-life-v2-ben található régészeti lelőhely a Zawyet El Aryan-i befejezetlen piramis hatalmas aknáját foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        31.151556,
+                        29.940122
+                  ]
+            },
+            {
+                  "name": "Malahy Al Fustat Land",
+                  "text": "Ez a családbarát vidámpark giza-green-kid-life-v2-ben számos körhintát és szórakozási lehetőséget kínál a gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        31.176807,
+                        29.973326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "giza pyramids view",
+                  "text": "Punct de observație care oferă vederi pitorești ale piramidelor antice din districtele mai verzi ale Gizei.",
+                  "category": "natural",
+                  "coords": [
+                        31.151698,
+                        29.959953
+                  ]
+            },
+            {
+                  "name": "Wissa Wassef Art Center",
+                  "text": "Complex muzeal și atelier din Harraniya dedicat conservării țesutului tradițional de tapiserii egiptene.",
+                  "category": "museum",
+                  "coords": [
+                        31.176465,
+                        29.969202
+                  ]
+            },
+            {
+                  "name": "Adam Henein Museum",
+                  "text": "Muzeul din giza-green-kid-life-v2 este dedicat operei renumitului sculptor egiptean Adam Henein.",
+                  "category": "museum",
+                  "coords": [
+                        31.175194,
+                        29.971964
+                  ]
+            },
+            {
+                  "name": "Layer Pyramid",
+                  "text": "Această piramidă în trepte în ruină, datând din a III-a Dinastie, este situată în situl arheologic din giza-green-kid-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.161262,
+                        29.93282
+                  ]
+            },
+            {
+                  "name": "giza pyramids view from afar",
+                  "text": "Acest punct de belvedere din giza-green-kid-life-v2 oferă o panoramă largă asupra iconicii piramide antice din Giza.",
+                  "category": "natural",
+                  "coords": [
+                        31.164816,
+                        29.939117
+                  ]
+            },
+            {
+                  "name": "Unfinished Northern Pyramid of Zawyet El Aryan",
+                  "text": "Acest sit arheologic din giza-green-kid-life-v2 cuprinde puțul enorm al unei piramide neterminate de la Zawyet El Aryan.",
+                  "category": "historical",
+                  "coords": [
+                        31.151556,
+                        29.940122
+                  ]
+            },
+            {
+                  "name": "Malahy Al Fustat Land",
+                  "text": "Acest parc tematic pentru familii din giza-green-kid-life-v2 oferă numeroase atracții și carusele pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        31.176807,
+                        29.973326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "giza pyramids view",
+                  "text": "Vantage point offering scenic views of the ancient pyramids from the greener districts of Giza.",
+                  "category": "natural",
+                  "coords": [
+                        31.151698,
+                        29.959953
+                  ]
+            },
+            {
+                  "name": "Wissa Wassef Art Center",
+                  "text": "Museum and workshop complex in Harraniya dedicated to preserving traditional Egyptian tapestry weaving.",
+                  "category": "museum",
+                  "coords": [
+                        31.176465,
+                        29.969202
+                  ]
+            },
+            {
+                  "name": "Adam Henein Museum",
+                  "text": "The museum in giza-green-kid-life-v2 is dedicated to the work of the renowned Egyptian sculptor Adam Henein.",
+                  "category": "museum",
+                  "coords": [
+                        31.175194,
+                        29.971964
+                  ]
+            },
+            {
+                  "name": "Layer Pyramid",
+                  "text": "This ruined step pyramid dating to the Third Dynasty is located at the archaeological site in giza-green-kid-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.161262,
+                        29.93282
+                  ]
+            },
+            {
+                  "name": "giza pyramids view from afar",
+                  "text": "This distant viewpoint in giza-green-kid-life-v2 offers a sweeping panorama of the iconic ancient pyramids of Giza.",
+                  "category": "natural",
+                  "coords": [
+                        31.164816,
+                        29.939117
+                  ]
+            },
+            {
+                  "name": "Unfinished Northern Pyramid of Zawyet El Aryan",
+                  "text": "This archaeological site in giza-green-kid-life-v2 features the massive excavated shaft of an uncompleted pyramid at Zawyet El Aryan.",
+                  "category": "historical",
+                  "coords": [
+                        31.151556,
+                        29.940122
+                  ]
+            },
+            {
+                  "name": "Malahy Al Fustat Land",
+                  "text": "This family-friendly theme park in giza-green-kid-life-v2 features numerous amusement rides and attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        31.176807,
+                        29.973326
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "EG-GZ",
     coords: [31.15, 29.95],

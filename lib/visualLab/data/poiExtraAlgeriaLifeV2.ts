@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraAlgeriaLifeV2: POI[] = [
   {
-    id: "tassili-n-ajjer-life-v2",
+    id: "tassili-n-ajjer-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tassili N' Ajjer Rock Paintings",
+                  "text": "Diese prähistorischen Felsmalereien zeigen lebendige Szenen der Tierwelt und des Lebens in der einst grünen Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        8.556766,
+                        25.028619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tassili N' Ajjer Rock Paintings",
+                  "text": "Ezek a történelem előtti sziklafestmények a valaha zöldellő Szahara vadvilágát és mindennapi életét ábrázolják.",
+                  "category": "landmark",
+                  "coords": [
+                        8.556766,
+                        25.028619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tassili N' Ajjer Rock Paintings",
+                  "text": "Aceste picturi rupestre preistorice înfățișează scene vii ale faunei sălbatice și ale vieții din Sahara, pe vremea când era verde.",
+                  "category": "landmark",
+                  "coords": [
+                        8.556766,
+                        25.028619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tassili N' Ajjer Rock Paintings",
+                  "text": "These prehistoric rock paintings depict vivid scenes of wildlife and life in the once-green Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        8.556766,
+                        25.028619
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-33",
     coords: [8.5, 25.0],
@@ -38,7 +83,160 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Un plateau montagneux qui abrite des espèces animales rares comme le guépard du Sahara.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/tassili-n-ajjer-life-v2.webp"},
   {
-    id: "hoggar-mountains-life-v2",
+    id: "hoggar-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tigmal",
+                  "text": "Dieser felsige Gipfel bietet weite Ausblicke über die aride Landschaft des Hoggar-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        5.437825,
+                        22.945362
+                  ]
+            },
+            {
+                  "name": "Adrar-hedjrîn",
+                  "text": "Dieser abgelegene Berggipfel ist Teil des vulkanischen Massivs des Hoggar-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        5.556956,
+                        23.027413
+                  ]
+            },
+            {
+                  "name": "Tesa-n-edjenna",
+                  "text": "Ein markanter Gipfel im Hoggar-Gebirge, der von einer kargen Wüstenlandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.530994,
+                        23.001893
+                  ]
+            },
+            {
+                  "name": "Tanemrout",
+                  "text": "Dieser Berggipfel prägt die zerklüftete Skyline der zentralen Hoggar-Region.",
+                  "category": "natural",
+                  "coords": [
+                        5.49939,
+                        22.969944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tigmal",
+                  "text": "Ez a sziklás csúcs lenyűgöző kilátást nyújt a Hoggar-hegység száraz tájára.",
+                  "category": "natural",
+                  "coords": [
+                        5.437825,
+                        22.945362
+                  ]
+            },
+            {
+                  "name": "Adrar-hedjrîn",
+                  "text": "Ez a távoli hegycsúcs a Hoggar-hegység vulkáni masszívumának része.",
+                  "category": "natural",
+                  "coords": [
+                        5.556956,
+                        23.027413
+                  ]
+            },
+            {
+                  "name": "Tesa-n-edjenna",
+                  "text": "Egy feltűnő csúcs a Hoggar-hegységben, amelyet kopár sivatagi táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        5.530994,
+                        23.001893
+                  ]
+            },
+            {
+                  "name": "Tanemrout",
+                  "text": "Ez a hegycsúcs határozza meg a középső Hoggar-régió zord sziluettjét.",
+                  "category": "natural",
+                  "coords": [
+                        5.49939,
+                        22.969944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tigmal",
+                  "text": "Acest vârf stâncos oferă priveliști extinse asupra peisajului arid al Munților Hoggar.",
+                  "category": "natural",
+                  "coords": [
+                        5.437825,
+                        22.945362
+                  ]
+            },
+            {
+                  "name": "Adrar-hedjrîn",
+                  "text": "Acest vârf de munte izolat face parte din masivul vulcanic al Munților Hoggar.",
+                  "category": "natural",
+                  "coords": [
+                        5.556956,
+                        23.027413
+                  ]
+            },
+            {
+                  "name": "Tesa-n-edjenna",
+                  "text": "Un vârf proeminent din Munții Hoggar, înconjurat de un peisaj deșertic arid.",
+                  "category": "natural",
+                  "coords": [
+                        5.530994,
+                        23.001893
+                  ]
+            },
+            {
+                  "name": "Tanemrout",
+                  "text": "Acest vârf de munte conturează orizontul accidentat al regiunii centrale Hoggar.",
+                  "category": "natural",
+                  "coords": [
+                        5.49939,
+                        22.969944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ahegher",
+                  "text": "This rocky peak offers expansive views over the arid landscape of the Hoggar Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        5.437825,
+                        22.945362
+                  ]
+            },
+            {
+                  "name": "Adrar-hedjrîn",
+                  "text": "This remote mountain peak is part of the volcanic massif of the Hoggar Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        5.556956,
+                        23.027413
+                  ]
+            },
+            {
+                  "name": "Tesa-n-edjenna",
+                  "text": "A prominent peak in the Hoggar Mountains, surrounded by a barren desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.530994,
+                        23.001893
+                  ]
+            },
+            {
+                  "name": "Tanemrout",
+                  "text": "This mountain peak defines the rugged skyline of the central Hoggar region.",
+                  "category": "natural",
+                  "coords": [
+                        5.49939,
+                        22.969944
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-11",
     coords: [5.5, 23.0],
@@ -73,7 +271,124 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Une région montagneuse impressionnante avec une faune désertique unique.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/hoggar-mountains-life-v2.webp"},
   {
-    id: "el-kala-national-park-life-v2",
+    id: "el-kala-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Bafa",
+                  "text": "Al-Bafa ist eine natürliche Attraktion, die in das vielfältige Ökosystem des El Kala Nationalparks eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.377572,
+                        36.779338
+                  ]
+            },
+            {
+                  "name": "1 Novembre 1954",
+                  "text": "Das Denkmal des 1. November 1954 erinnert an den historischen Beginn des algerischen Unabhängigkeitskrieges.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "Nationalpark Al-Qala",
+                  "text": "Der El Kala-Nationalpark ist ein riesiges Biosphärenreservat, das einzigartige marine Ökosysteme, Wälder und Feuchtgebietsseen umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        8.42664,
+                        36.807287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Bafa",
+                  "text": "Az Al-Bafa egy természeti látványosság, amely az El Kala Nemzeti Park változatos ökoszisztémájában fészkel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.377572,
+                        36.779338
+                  ]
+            },
+            {
+                  "name": "1 Novembre 1954",
+                  "text": "Az 1954. november 1-jei emlékmű az algériai függetlenségi háború történelmi kezdetének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "Parc National d'El Kala",
+                  "text": "Az El Kala Nemzeti Park egy hatalmas védett bioszféra-rezervátum, amely egyedülálló tengeri ökoszisztémákat, erdőket és vizes élőhelyeket ölel fel.",
+                  "category": "natural",
+                  "coords": [
+                        8.42664,
+                        36.807287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Bafa",
+                  "text": "Al-Bafa este o atracție naturală situată în ecosistemul divers al Parcului Național El Kala.",
+                  "category": "landmark",
+                  "coords": [
+                        8.377572,
+                        36.779338
+                  ]
+            },
+            {
+                  "name": "1 Novembre 1954",
+                  "text": "Monumentul 1 Noiembrie 1954 comemorează începutul istoric al Războiului de Independență al Algeriei.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "Parc National d'El Kala",
+                  "text": "Parcul Național El Kala este o rezervație masivă a biosferei care protejează ecosisteme marine unice, păduri și lacuri cu zone umede.",
+                  "category": "natural",
+                  "coords": [
+                        8.42664,
+                        36.807287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Bafa",
+                  "text": "Al-Bafa is a natural attraction nestled within the diverse ecosystem of the El Kala National Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.377572,
+                        36.779338
+                  ]
+            },
+            {
+                  "name": "1 Novembre 1954",
+                  "text": "The 1 Novembre 1954 monument commemorates the historic beginning of the Algerian War of Independence.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "El Kala National Park",
+                  "text": "El Kala National Park is a massive protected biosphere reserve featuring unique marine ecosystems, forests, and wetland lakes.",
+                  "category": "natural",
+                  "coords": [
+                        8.42664,
+                        36.807287
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-36",
     coords: [8.4, 36.8],
@@ -108,7 +423,268 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       es: ["Un parque costero que protege importantes humedales y rutas de aves migratorias.", "Situado en el territorio de la República Argelina Democrática y Popular.", "Desempeña un papel en la identidad local de la región.", "Conocido por su importancia paisajística o cultural."],
     }, image: "/poi-images/el-kala-national-park-life-v2.webp"},
   {
-    id: "chrea-national-park-life-v2",
+    id: "chrea-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tombeau de Sidi Ahmed El Kebir",
+                  "text": "Ein verehrter Schrein, der die Grabstätte der einflussreichen lokalen religiösen Figur Sidi Ahmed El Kebir markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        2.839778,
+                        36.446652
+                  ]
+            },
+            {
+                  "name": "Koudiat Sidi Abdelkader",
+                  "text": "Ein markanter Berggipfel im Tellatlas, der einen weiten Blick über die umliegende raue Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        2.837362,
+                        36.403026
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Ein kleiner zoologischer Garten mit verschiedenen einheimischen Tierarten in einer Parkumgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        2.761726,
+                        36.400368
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "Ein Erholungspark für Familien, der mit Spielplätzen und Freiflächen für Freizeitaktivitäten ausgestattet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802648,
+                        36.468183
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "Ein historisches Theater, das nach dem berühmten algerischen Schauspieler benannt ist und lokale dramatische Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828154,
+                        36.469728
+                  ]
+            },
+            {
+                  "name": "Parc National de Chréa",
+                  "text": "Ein weitläufiges gebirgiges Naturschutzgebiet, das für seine Zedernwälder und Wintersportmöglichkeiten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        2.854881,
+                        36.400956
+                  ]
+            },
+            {
+                  "name": "La Citadelle",
+                  "text": "Die historischen Überreste einer alten Festung, die einen Panoramablick über das bergige Gelände bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75645,
+                        36.42342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tombeau de Sidi Ahmed El Kebir",
+                  "text": "Egy tisztelt szentély, amely a befolyásos helyi vallási alak, Sidi Ahmed El Kebir temetkezési helyét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        2.839778,
+                        36.446652
+                  ]
+            },
+            {
+                  "name": "Koudiat Sidi Abdelkader",
+                  "text": "A Tell-Atlasz egyik kiemelkedő hegycsúcsa, amely lenyűgöző kilátást nyújt a környező zord tájra.",
+                  "category": "natural",
+                  "coords": [
+                        2.837362,
+                        36.403026
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Egy kis állatkert, amely különféle helyi állatfajokat mutat be egy parkosított környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        2.761726,
+                        36.400368
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "Egy családi szabadidőpark játszóterekkel és szabadidős tevékenységekre alkalmas nyitott terekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802648,
+                        36.468183
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "A híres algériai színészről elnevezett történelmi színház, amely helyi drámai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828154,
+                        36.469728
+                  ]
+            },
+            {
+                  "name": "Parc National de Chréa",
+                  "text": "Egy kiterjedt hegyvidéki természetvédelmi terület, amely cédruserdeiről és téli síelési lehetőségeiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        2.854881,
+                        36.400956
+                  ]
+            },
+            {
+                  "name": "La Citadelle",
+                  "text": "Egy régi erőd történelmi maradványai, amelyek panorámás kilátást nyújtanak a hegyvidéki terepre.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75645,
+                        36.42342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tombeau de Sidi Ahmed El Kebir",
+                  "text": "Un altar venerat care marchează locul de înmormântare a figurii religioase locale influente Sidi Ahmed El Kebir.",
+                  "category": "landmark",
+                  "coords": [
+                        2.839778,
+                        36.446652
+                  ]
+            },
+            {
+                  "name": "Koudiat Sidi Abdelkader",
+                  "text": "Un vârf de munte proeminent din lanțul Tell Atlas, care oferă vederi ample asupra peisajului accidentat din jur.",
+                  "category": "natural",
+                  "coords": [
+                        2.837362,
+                        36.403026
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "O mică grădină zoologică care prezintă diverse specii de animale locale într-un cadru de parc.",
+                  "category": "recreational",
+                  "coords": [
+                        2.761726,
+                        36.400368
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "Un parc de agrement pentru familii dotat cu locuri de joacă și spații deschise pentru activități de timp liber.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802648,
+                        36.468183
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "Un teatru istoric care poartă numele celebrului actor algerian, care găzduiește spectacole dramatice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828154,
+                        36.469728
+                  ]
+            },
+            {
+                  "name": "Parc National de Chréa",
+                  "text": "O rezervație naturală montană întinsă, renumită pentru pădurile sale de cedru și oportunitățile de schi de iarnă.",
+                  "category": "natural",
+                  "coords": [
+                        2.854881,
+                        36.400956
+                  ]
+            },
+            {
+                  "name": "La Citadelle",
+                  "text": "Rămășițele istorice ale unei vechi cetăți care oferă vederi panoramice asupra terenului muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75645,
+                        36.42342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tombeau de Sidi Ahmed El Kebir",
+                  "text": "A revered shrine marking the burial place of the influential local religious figure Sidi Ahmed El Kebir.",
+                  "category": "landmark",
+                  "coords": [
+                        2.839778,
+                        36.446652
+                  ]
+            },
+            {
+                  "name": "Koudiat Sidi Abdelkader",
+                  "text": "A prominent mountain peak in the Tell Atlas range, offering sweeping views of the surrounding rugged landscape.",
+                  "category": "natural",
+                  "coords": [
+                        2.837362,
+                        36.403026
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "A small zoological garden featuring various local animal species in a park setting.",
+                  "category": "recreational",
+                  "coords": [
+                        2.761726,
+                        36.400368
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "A recreational family park equipped with playgrounds and open spaces for leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802648,
+                        36.468183
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "A historic theater venue named after the famous Algerian actor, hosting local dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828154,
+                        36.469728
+                  ]
+            },
+            {
+                  "name": "Chrea National Park",
+                  "text": "A sprawling mountainous nature reserve renowned for its cedar forests and winter skiing opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        2.854881,
+                        36.400956
+                  ]
+            },
+            {
+                  "name": "La Citadelle",
+                  "text": "The historic remnants of an old fortress offering panoramic views over the mountainous terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75645,
+                        36.42342
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-09",
     coords: [2.8, 36.4],
@@ -143,7 +719,124 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Habitat du macaque de Barbarie.", "Zone de randonnée populaire.", "Connu pour sa population de macaques de Barbarie dans les montagnes de l'Atlas.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/chrea-national-park-life-v2.webp"},
   {
-    id: "gouraya-national-park-life-v2",
+    id: "gouraya-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "club hippique",
+                  "text": "Ein Küstenort mit Reitsport-Thema in der Nähe des bewaldeten Gouraya-Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        5.087354,
+                        36.70472
+                  ]
+            },
+            {
+                  "name": "Djoua Plage",
+                  "text": "Ein malerischer Sandstrand an der rauen Küste in der Nähe des Gouraya-Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        5.099099,
+                        36.696654
+                  ]
+            },
+            {
+                  "name": "Plage Acherchour",
+                  "text": "Ein sandiger Küstenstrand in der natürlichen Umgebung des Gouraya-Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        5.127252,
+                        36.683188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "club hippique",
+                  "text": "Lovas témájú tengerparti hely az erdős Gouraya Nemzeti Park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.087354,
+                        36.70472
+                  ]
+            },
+            {
+                  "name": "Djoua Plage",
+                  "text": "Festői homokos strand a sziklás partvonal mentén, a Gouraya Nemzeti Park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.099099,
+                        36.696654
+                  ]
+            },
+            {
+                  "name": "Plage Acherchour",
+                  "text": "Homokos tengerparti strand a Gouraya Nemzeti Park természetes szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.127252,
+                        36.683188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "club hippique",
+                  "text": "Un loc de coastă cu tematică ecvestră, situat în apropierea Parcului Național Gouraya.",
+                  "category": "recreational",
+                  "coords": [
+                        5.087354,
+                        36.70472
+                  ]
+            },
+            {
+                  "name": "Djoua Plage",
+                  "text": "O plajă pitorească cu nisip, situată de-a lungul coastei stâncoase din apropierea Parcului Național Gouraya.",
+                  "category": "recreational",
+                  "coords": [
+                        5.099099,
+                        36.696654
+                  ]
+            },
+            {
+                  "name": "Plage Acherchour",
+                  "text": "O plajă de coastă cu nisip situată în vecinătatea naturală a Parcului Național Gouraya.",
+                  "category": "recreational",
+                  "coords": [
+                        5.127252,
+                        36.683188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "club hippique",
+                  "text": "An equestrian-themed coastal spot nestled near the forested Gouraya National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        5.087354,
+                        36.70472
+                  ]
+            },
+            {
+                  "name": "Djoua Plage",
+                  "text": "A scenic sandy beach nestled along the rugged coastline near Gouraya National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        5.099099,
+                        36.696654
+                  ]
+            },
+            {
+                  "name": "Plage Acherchour",
+                  "text": "A sandy coastal beach situated in the natural vicinity of Gouraya National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        5.127252,
+                        36.683188
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-06",
     coords: [5.1, 36.7],
@@ -178,7 +871,88 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Côte maritime.", "Magots.", "Sentiers de randonnée.", "Un parc sur la côte méditerranéenne avec une flore et une faune diversifiées.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/gouraya-national-park-life-v2.webp"},
   {
-    id: "mitidja-agriculture-life-v2",
+    id: "mitidja-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "Das Maison de Culture in der Mitidja-Ebene ist ein modernes Kunstzentrum, das lokale Ausstellungen, Theateraufführungen und Workshops veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        3.080501,
+                        36.543227
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Soumâa",
+                  "text": "Das Centre culturel de Soumâa dient als wichtiger Treffpunkt für Kunst und Kultur, in dem das historische und kreative Erbe der Mitidja-Region bewahrt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        2.903376,
+                        36.516388
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "A Mitidja-síkságon található Maison de Culture egy modern művészeti központ, amely helyi kiállításoknak, színházi előadásoknak és workshopoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        3.080501,
+                        36.543227
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Soumâa",
+                  "text": "A Centre culturel de Soumâa fontos művészeti és kulturális találkozóhelyként szolgál, ahol a Mitidja régió történelmi és kreatív örökségét őrzik.",
+                  "category": "cultural",
+                  "coords": [
+                        2.903376,
+                        36.516388
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "Maison de Culture din regiunea Mitidja este un centru de artă modern care găzduiește expoziții locale, spectacole de teatru și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        3.080501,
+                        36.543227
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Soumâa",
+                  "text": "Centrul cultural din Soumâa servește ca un important punct de întâlnire pentru artă, păstrând moștenirea creativă și istorică a regiunii Mitidja.",
+                  "category": "cultural",
+                  "coords": [
+                        2.903376,
+                        36.516388
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "The Maison de Culture in the Mitidja plain is a modern arts centre hosting local exhibitions, theatrical performances, and community workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        3.080501,
+                        36.543227
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Soumâa",
+                  "text": "The Centre culturel de Soumâa serves as a key arts venue dedicated to preserving and showcasing the historical and creative heritage of the Mitidja region.",
+                  "category": "cultural",
+                  "coords": [
+                        2.903376,
+                        36.516388
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-09",
     coords: [3.0, 36.5],
@@ -213,7 +987,268 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["La zone agricole la plus fertile d'Algérie, connue pour ses agrumes.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/mitidja-agriculture-life-v2.webp"},
   {
-    id: "oued-souf-agriculture-life-v2",
+    id: "oued-souf-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marché El oued",
+                  "text": "Der geschäftige Markt von El Oued wird von charakteristischen Kuppeldächern geprägt und bietet lokale Datteln sowie saharische Gewürze an.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "Makam Echahid",
+                  "text": "Das Makam Echahid in El Oued ist ein Denkmal, das an die Gefallenen des algerischen Unabhängigkeitskrieges in der Souf-Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "Sami meuble",
+                  "text": "Dieser Aussichtspunkt in El Oued überblickt das \"Meer der Sanddünen\" und die traditionelle Kuppelarchitektur der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.359639
+                  ]
+            },
+            {
+                  "name": "Tournage du Souf",
+                  "text": "Der Aussichtspunkt Torner in der Sahara-Oase El Oued bietet einen weiten Blick über die endlos wirkende, sandige Souf-Region.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Ahmed Atili corse de voiyej",
+                  "text": "Dieser urbane Aussichtspunkt in El Oued gewährt Einblicke in das tägliche Treiben der \"Stadt der tausend Kuppeln\".",
+                  "category": "natural",
+                  "coords": [
+                        6.880929,
+                        33.335391
+                  ]
+            },
+            {
+                  "name": "Parc zoologique de Robbah",
+                  "text": "Der Tierpark von Robbah in der Nähe von El Oued präsentiert Wüstentiere in einer Umgebung, die stark von den goldenen Sanddünen der Sahara geprägt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        6.894917,
+                        33.286276
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "Das alte Kulturhaus in El Oued ist ein architektonisches Zeugnis mit traditionellen Kuppeln, das ehemals saharische Kunstausstellungen beherbergte.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865085,
+                        33.359868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marché El oued",
+                  "text": "Az El Oued-i nyüzsgő piacot jellegzetes kupolás tetők borítják, ahol helyi datolyát és szaharai fűszereket árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "Makam Echahid",
+                  "text": "Az El Oued-i Makam Echahid egy emlékmű, amely a Souf régióban az algériai függetlenségi háború során elesetteknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "Sami meuble",
+                  "text": "Ez az El Oued-i kilátópont a \"homokdűnék tengerére\" és a város hagyományos kupolás építészetére néz.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.359639
+                  ]
+            },
+            {
+                  "name": "Tournage du Souf",
+                  "text": "A Torner kilátó az El Oued-i szaharai oázisban széles panorámát kínál a végtelennek tűnő homokos Souf régióra.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Ahmed Atili corse de voiyej",
+                  "text": "Ez az El Oued-i városi kilátó betekintést enged az \"ezer kupola városának\" mindennapi forgatagába.",
+                  "category": "natural",
+                  "coords": [
+                        6.880929,
+                        33.335391
+                  ]
+            },
+            {
+                  "name": "Parc zoologique de Robbah",
+                  "text": "Az El Oued közelében található robbahi állatkert a szaharai aranyhomokdűnék által dominált környezetben mutat be sivatagi állatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        6.894917,
+                        33.286276
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "Az egykori El Oued-i kulturális központ hagyományos kupolás épülete korábban szaharai művészeti kiállításoknak adott otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865085,
+                        33.359868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marché El oued",
+                  "text": "Piața aglomerată din El Oued se remarcă prin acoperișurile sale boltite și oferă curmale locale și condimente sahariene.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "Makam Echahid",
+                  "text": "Makam Echahid din El Oued este un monument ridicat în memoria celor căzuți în Războiul de Independență algerian din regiunea Souf.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "Sami meuble",
+                  "text": "Acest punct de belvedere din El Oued domină „Marea de Dune” și arhitectura tradițională cu cupole a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.359639
+                  ]
+            },
+            {
+                  "name": "Tournage du Souf",
+                  "text": "Punctul de belvedere Torner din oaza sahariană El Oued oferă o perspectivă largă asupra întinsei regiuni nisipoase Souf.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Ahmed Atili corse de voiyej",
+                  "text": "Acest punct de belvedere urban din El Oued oferă o privire asupra agitației zilnice din \"Orașul celor o mie de cupole\".",
+                  "category": "natural",
+                  "coords": [
+                        6.880929,
+                        33.335391
+                  ]
+            },
+            {
+                  "name": "Parc zoologique de Robbah",
+                  "text": "Grădina zoologică din Robbah, lângă El Oued, expune animale deșertice într-un mediu dominat de dunele de nisip auriu ale Saharei.",
+                  "category": "recreational",
+                  "coords": [
+                        6.894917,
+                        33.286276
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "Vechea Casă de Cultură din El Oued este o clădire cu cupole tradiționale care a găzduit anterior expoziții de artă sahariană.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865085,
+                        33.359868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marché El oued",
+                  "text": "The bustling market of El Oued is characterized by its domed roofs, offering local dates and Saharan spices to shoppers.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "Makam Echahid",
+                  "text": "The Makam Echahid in El Oued is a monument commemorating the fallen of the Algerian War of Independence from the Souf region.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "Sami meuble",
+                  "text": "This viewpoint in El Oued looks out over the \"Sea of Sand Dunes\" and the traditional domed architecture of the city.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.359639
+                  ]
+            },
+            {
+                  "name": "Torner",
+                  "text": "The Torner viewpoint in the Saharan oasis of El Oued provides a sweeping view across the expansive sandy Souf region.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Ahmed Atili corse de voiyej",
+                  "text": "This urban viewpoint in El Oued allows visitors to observe the daily bustle of the \"City of a Thousand Domes\".",
+                  "category": "natural",
+                  "coords": [
+                        6.880929,
+                        33.335391
+                  ]
+            },
+            {
+                  "name": "Parc zoologique de Robbah",
+                  "text": "The Robbah zoological park near El Oued showcases desert animals in an environment heavily shaped by the golden sand dunes of the Sahara.",
+                  "category": "recreational",
+                  "coords": [
+                        6.894917,
+                        33.286276
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "The old House of Culture in El Oued is a traditional domed structure that formerly hosted Saharan art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865085,
+                        33.359868
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-39",
     coords: [6.8, 33.3],
@@ -248,7 +1283,160 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Connu pour la culture de palmiers dattiers dans le Sahara.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/oued-souf-agriculture-life-v2.webp"},
   {
-    id: "annaba-agriculture-life-v2",
+    id: "annaba-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "cimetière des martyrs",
+                  "text": "Dieser Märtyrerfriedhof dient als feierliche Gedenkstätte für die Gefallenen des algerischen Unabhängigkeitskrieges.",
+                  "category": "historical",
+                  "coords": [
+                        7.683706,
+                        36.907584
+                  ]
+            },
+            {
+                  "name": "Plage Djenane El Bey",
+                  "text": "Dieser malerische Sandstrand am Rande von Annaba bietet ruhigere Küstenabschnitte abseits des Stadtzentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        7.704857,
+                        36.949662
+                  ]
+            },
+            {
+                  "name": "Oued El Guessab",
+                  "text": "Dieser Küstenbereich befindet sich an der malerischen Stelle, wo der Oued El Guessab ins Mittelmeer mündet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.62208,
+                        36.961314
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Annaba",
+                  "text": "Dieser städtische Vergnügungspark in Annaba bietet Familien verschiedene Fahrgeschäfte und Karussells.",
+                  "category": "recreational",
+                  "coords": [
+                        7.714257,
+                        36.873677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cimetière des martyrs",
+                  "text": "Ez a mártírtemető ünnepélyes emlékhelyként szolgál az algériai függetlenségi háború áldozatai számára.",
+                  "category": "historical",
+                  "coords": [
+                        7.683706,
+                        36.907584
+                  ]
+            },
+            {
+                  "name": "Plage Djenane El Bey",
+                  "text": "Ez a festői homokos strand Annaba szélén csendesebb partszakaszokat kínál a városközponttól távol.",
+                  "category": "recreational",
+                  "coords": [
+                        7.704857,
+                        36.949662
+                  ]
+            },
+            {
+                  "name": "Oued El Guessab",
+                  "text": "Ez a tengerparti terület azon a festői ponton található, ahol az Oued El Guessab patak a Földközi-tengerbe torkollik.",
+                  "category": "recreational",
+                  "coords": [
+                        7.62208,
+                        36.961314
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Annaba",
+                  "text": "Ez az Annabában található városi vidámpark különféle körhintákat és játékokat kínál a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.714257,
+                        36.873677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cimetière des martyrs",
+                  "text": "Acest cimitir al martirilor servește ca un memorial solemn pentru cei căzuți în Războiul de Independență al Algeriei.",
+                  "category": "historical",
+                  "coords": [
+                        7.683706,
+                        36.907584
+                  ]
+            },
+            {
+                  "name": "Plage Djenane El Bey",
+                  "text": "Această plajă pitorească de nisip de la marginea orașului Annaba oferă porțiuni de coastă mai liniștite, departe de centrul orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        7.704857,
+                        36.949662
+                  ]
+            },
+            {
+                  "name": "Oued El Guessab",
+                  "text": "Această zonă de coastă este situată în punctul pitoresc unde pârâul Oued El Guessab se varsă în Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.62208,
+                        36.961314
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Annaba",
+                  "text": "Acest parc de distracții urban din Annaba oferă familiilor diverse atracții și carusele.",
+                  "category": "recreational",
+                  "coords": [
+                        7.714257,
+                        36.873677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cimetière des martyrs",
+                  "text": "This martyrs' cemetery serves as a solemn memorial site for the fallen of the Algerian War of Independence.",
+                  "category": "historical",
+                  "coords": [
+                        7.683706,
+                        36.907584
+                  ]
+            },
+            {
+                  "name": "Beach Djenane El Bey",
+                  "text": "This picturesque sandy beach on the outskirts of Annaba offers quieter coastal stretches away from the city center.",
+                  "category": "recreational",
+                  "coords": [
+                        7.704857,
+                        36.949662
+                  ]
+            },
+            {
+                  "name": "Oued El Guessab",
+                  "text": "This coastal area is located at the scenic spot where the Oued El Guessab stream flows into the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.62208,
+                        36.961314
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Annaba",
+                  "text": "This urban amusement park in Annaba offers families various rides and carousels.",
+                  "category": "recreational",
+                  "coords": [
+                        7.714257,
+                        36.873677
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-23",
     coords: [7.7, 36.9],
@@ -284,7 +1472,160 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "biskra-agriculture-life-v2",
+    id: "biskra-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tent roundabout",
+                  "text": "Ein Kreisverkehrsdenkmal, das eine große Skulptur eines traditionellen Nomadenzeltes zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        5.657945,
+                        34.811324
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Ein regionales Kulturzentrum, das Gemeindeveranstaltungen, lokale Kunst und Ausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.74087,
+                        34.850679
+                  ]
+            },
+            {
+                  "name": "Musée régionale de la VI Wilaya historique",
+                  "text": "Ein regionales Museum, das den historischen Ereignissen der 6. Wilaya während des Algerienkriegs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.708364,
+                        34.847579
+                  ]
+            },
+            {
+                  "name": "Aqua Palm",
+                  "text": "Ein Wüstenwasserpark mit Pools und Rutschen, der von Palmen umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773756,
+                        34.824554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tent roundabout",
+                  "text": "Egy körforgalomban található emlékmű, amely egy hagyományos nomád sátrat ábrázoló nagy szobrot tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        5.657945,
+                        34.811324
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Közösségi eseményeknek, helyi művészeteknek és kiállításoknak otthont adó regionális kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        5.74087,
+                        34.850679
+                  ]
+            },
+            {
+                  "name": "Musée régionale de la VI Wilaya historique",
+                  "text": "Az algériai háború alatti 6. Wilaya történelmi eseményeinek szentelt regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.708364,
+                        34.847579
+                  ]
+            },
+            {
+                  "name": "Aqua Palm",
+                  "text": "Pálmafákkal körülvett sivatagi vízipark, amely medencékkel és csúszdákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773756,
+                        34.824554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tent roundabout",
+                  "text": "Un monument situat într-un sens giratoriu, prezentând o sculptură mare a unui cort nomad tradițional.",
+                  "category": "historical",
+                  "coords": [
+                        5.657945,
+                        34.811324
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Un centru cultural regional care găzduiește evenimente comunitare, arte locale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        5.74087,
+                        34.850679
+                  ]
+            },
+            {
+                  "name": "Musée régionale de la VI Wilaya historique",
+                  "text": "Un muzeu regional dedicat evenimentelor istorice din Wilaya 6 în timpul războiului din Algeria.",
+                  "category": "museum",
+                  "coords": [
+                        5.708364,
+                        34.847579
+                  ]
+            },
+            {
+                  "name": "Aqua Palm",
+                  "text": "Un parc acvatic de deșert cu piscine și tobogane, înconjurat de palmieri.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773756,
+                        34.824554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tent roundabout",
+                  "text": "A roundabout monument featuring a large sculpture of a traditional nomadic tent.",
+                  "category": "historical",
+                  "coords": [
+                        5.657945,
+                        34.811324
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "A regional cultural center hosting community events, local arts, and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        5.74087,
+                        34.850679
+                  ]
+            },
+            {
+                  "name": "Musée régionale de la VI Wilaya historique",
+                  "text": "A regional museum dedicated to the historical events of the 6th Wilaya during the Algerian War.",
+                  "category": "museum",
+                  "coords": [
+                        5.708364,
+                        34.847579
+                  ]
+            },
+            {
+                  "name": "Aqua Palm",
+                  "text": "A desert water park attraction featuring pools and slides surrounded by palm trees.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773756,
+                        34.824554
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-07",
     coords: [5.7, 34.8],
@@ -319,7 +1660,304 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Dattes Deglet Nour.", "Climat désertique.", "Irrigation.", "Centre de culture de dattes de haute qualité.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/biskra-agriculture-life-v2.webp"},
   {
-    id: "setif-highlands-agriculture-life-v2",
+    id: "setif-highlands-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "el yasmine",
+                  "text": "El Yasmine in der Nähe von Sétif ist ein markantes Bauwerk mit burgähnlichen architektonischen Merkmalen in der algerischen Hochebene.",
+                  "category": "castle",
+                  "coords": [
+                        5.453056,
+                        36.148269
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "Die Billardhalle in Sétif ist ein lokaler Freizeittreffpunkt, der speziell für Liebhaber dieses Präzisionssports eingerichtet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "Die Handwerkskammer in Sétif fungiert als Museum, in dem traditionelle algerische Handwerkskunst und lokales Kunsthandwerk ausgestellt sind.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Das Islamische Kulturzentrum in Sétif ist eine Bildungs- und Kultureinrichtung, die sich der Förderung islamischer Kunst und Theologie widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.437452,
+                        36.186031
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Houari Boumediene",
+                  "text": "Das nach dem ehemaligen Präsidenten benannte Kulturhaus Houari Boumediene in Sétif ist ein Zentrum für Kunstausstellungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.409299,
+                        36.192601
+                  ]
+            },
+            {
+                  "name": "masjid Al Iman",
+                  "text": "Die Masjid Al Iman in Sétif ist ein architektonisches Monument islamischer Baukunst, das als bedeutende lokale Moschee dient.",
+                  "category": "historical",
+                  "coords": [
+                        5.372677,
+                        36.176999
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "Das Musée du Moudjahid in Sétif bewahrt historische Dokumente und Waffen auf, die an den algerischen Unabhängigkeitskrieg erinnern.",
+                  "category": "museum",
+                  "coords": [
+                        5.405223,
+                        36.187168
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Mouloud Feroune",
+                  "text": "Das Jugendhaus Mouloud Feroune in Sétif bietet jungen Menschen der Region gut ausgestattete Räume für kulturelle und soziale Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        5.314683,
+                        36.187486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "el yasmine",
+                  "text": "A Sétif közelében található El Yasmine egy feltűnő, kastélyszerű építészeti jegyekkel rendelkező építmény az algériai fennsíkon.",
+                  "category": "castle",
+                  "coords": [
+                        5.453056,
+                        36.148269
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "A Sétifben található biliárdterem népszerű helyi szabadidős találkozóhely, amelyet kifejezetten a precíziós sport kedvelőinek alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "A Sétif-i Kézműves Kamara múzeumként is funkcionál, ahol a hagyományos algériai kézműves mesterségeket mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "A Sétif-i Iszlám Kulturális Központ az iszlám művészet és teológia tanulmányozására és megőrzésére szolgáló intézmény.",
+                  "category": "cultural",
+                  "coords": [
+                        5.437452,
+                        36.186031
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Houari Boumediene",
+                  "text": "A Sétifben található, a volt elnökről elnevezett Houari Boumediene Kultúrház a művészeti kiállítások és kulturális események központja.",
+                  "category": "cultural",
+                  "coords": [
+                        5.409299,
+                        36.192601
+                  ]
+            },
+            {
+                  "name": "masjid Al Iman",
+                  "text": "A Sétif-i Al Iman mecset az iszlám építészet fontos emlékműve, amely jelentős helyi imaházként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        5.372677,
+                        36.176999
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "A Sétif-i Mudzsahed Múzeum történelmi dokumentumokat és fegyvereket őriz, amelyek az algériai függetlenségi háborúra emlékeztetnek.",
+                  "category": "museum",
+                  "coords": [
+                        5.405223,
+                        36.187168
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Mouloud Feroune",
+                  "text": "A Sétif-i Mouloud Feroune Ifjúsági Ház jól felszerelt teret biztosít a régió fiataljainak kulturális és társadalmi tevékenységeihez.",
+                  "category": "cultural",
+                  "coords": [
+                        5.314683,
+                        36.187486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "el yasmine",
+                  "text": "El Yasmine de lângă Sétif este o clădire impresionantă, cu trăsături arhitecturale de castel, situată pe platoul algerian.",
+                  "category": "castle",
+                  "coords": [
+                        5.453056,
+                        36.148269
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "Sala de biliard din Sétif este un loc de recreere local dedicat în special pasionaților acestui sport de precizie.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "Camera de Artizanat din Sétif funcționează ca un muzeu care expune meșteșugurile tradiționale algeriene și arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Centrul Cultural Islamic din Sétif este o instituție educațională dedicată promovării artei și teologiei islamice.",
+                  "category": "cultural",
+                  "coords": [
+                        5.437452,
+                        36.186031
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Houari Boumediene",
+                  "text": "Casa de Cultură Houari Boumediene din Sétif, numită după fostul președinte, este un centru major pentru expoziții de artă și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.409299,
+                        36.192601
+                  ]
+            },
+            {
+                  "name": "masjid Al Iman",
+                  "text": "Moscheea Al Iman din Sétif este un monument arhitectural de design islamic, servind ca o importantă moschee locală.",
+                  "category": "historical",
+                  "coords": [
+                        5.372677,
+                        36.176999
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "Muzeul Moudjahidului din Sétif conservă documente istorice și arme care amintesc de Războiul de Independență al Algeriei.",
+                  "category": "museum",
+                  "coords": [
+                        5.405223,
+                        36.187168
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Mouloud Feroune",
+                  "text": "Casa Tineretului Mouloud Feroune din Sétif oferă tinerilor din regiune spații bine echipate pentru activități culturale și sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.314683,
+                        36.187486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "el yasmine",
+                  "text": "El Yasmine near Sétif is a striking building with castle-like architectural features located on the Algerian high plateau.",
+                  "category": "castle",
+                  "coords": [
+                        5.453056,
+                        36.148269
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "The billiard hall in Sétif is a local recreational venue specifically catering to enthusiasts of the cue sport.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "The Chamber of Crafts in Sétif functions as a museum displaying traditional Algerian craftsmanship and local artisanal work.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "The Islamic Cultural Centre in Sétif is an educational institution dedicated to the promotion of Islamic art and theology.",
+                  "category": "cultural",
+                  "coords": [
+                        5.437452,
+                        36.186031
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Houari Boumediene",
+                  "text": "The Houari Boumediene House of Culture in Sétif, named after the former president, is a major centre for art exhibitions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.409299,
+                        36.192601
+                  ]
+            },
+            {
+                  "name": "masjid Al Iman",
+                  "text": "The Masjid Al Iman in Sétif is an architectural monument of Islamic design serving as a significant local mosque.",
+                  "category": "historical",
+                  "coords": [
+                        5.372677,
+                        36.176999
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "The Moudjahid Museum in Sétif preserves historical documents and weapons commemorating the Algerian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        5.405223,
+                        36.187168
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Mouloud Feroune",
+                  "text": "The Mouloud Feroune Youth Centre in Sétif provides well-equipped spaces for cultural and social activities for the region's young people.",
+                  "category": "cultural",
+                  "coords": [
+                        5.314683,
+                        36.187486
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-19",
     coords: [5.4, 36.2],
@@ -355,7 +1993,124 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "algiers-botanical-garden-life-v2",
+    id: "algiers-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Ibn Badis",
+                  "text": "Ein Gemeinschaftstheater und kulturelles Zentrum, das lokale Aufführungen und Kunstveranstaltungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        2.945343,
+                        36.674001
+                  ]
+            },
+            {
+                  "name": "Parc Jurjura",
+                  "text": "Ein grüner Stadtpark, der schattige Gehwege und eine friedliche Umgebung innerhalb der Stadtgrenzen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        3.02184,
+                        36.731984
+                  ]
+            },
+            {
+                  "name": "Château de Draria",
+                  "text": "Die historischen Steinreste eines Schlosses, die auf die reiche architektonische Vergangenheit der Gegend hinweisen.",
+                  "category": "castle",
+                  "coords": [
+                        2.996232,
+                        36.730122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Ibn Badis",
+                  "text": "Közösségi színház és kulturális központ, amely helyi előadásokat és művészeti eseményeket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        2.945343,
+                        36.674001
+                  ]
+            },
+            {
+                  "name": "Parc Jurjura",
+                  "text": "Egy zöldellő városi park, amely árnyékos sétányokat és békés környezetet kínál a város határain belül.",
+                  "category": "landmark",
+                  "coords": [
+                        3.02184,
+                        36.731984
+                  ]
+            },
+            {
+                  "name": "Château de Draria",
+                  "text": "Egy kastély történelmi kőmaradványai, amelyek a terület gazdag építészeti múltjára utalnak.",
+                  "category": "castle",
+                  "coords": [
+                        2.996232,
+                        36.730122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Ibn Badis",
+                  "text": "Un teatru comunitar și un centru cultural care prezintă spectacole locale și evenimente de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        2.945343,
+                        36.674001
+                  ]
+            },
+            {
+                  "name": "Parc Jurjura",
+                  "text": "Un parc urban verde, care oferă alei umbrite și un mediu liniștit în limitele orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        3.02184,
+                        36.731984
+                  ]
+            },
+            {
+                  "name": "Château de Draria",
+                  "text": "Rămășițele istorice de piatră ale unui castel, care indică trecutul arhitectural bogat al zonei.",
+                  "category": "castle",
+                  "coords": [
+                        2.996232,
+                        36.730122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Ibn Badis",
+                  "text": "A community theatre and cultural hub presenting local performances and arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        2.945343,
+                        36.674001
+                  ]
+            },
+            {
+                  "name": "Parc Jurjura",
+                  "text": "A verdant urban park offering shaded walkways and a peaceful environment within the city limits.",
+                  "category": "landmark",
+                  "coords": [
+                        3.02184,
+                        36.731984
+                  ]
+            },
+            {
+                  "name": "Château de Draria",
+                  "text": "The historic stone remnants of a castle structure, hinting at the area's rich architectural past.",
+                  "category": "castle",
+                  "coords": [
+                        2.996232,
+                        36.730122
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DZ-16",
     coords: [3.0, 36.7],
@@ -390,7 +2145,268 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Plantes rares.", "Aires de jeux.", "Lieu de détente.", "Un parc verdoyant à Alger, idéal pour les familles et les enfants.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/algiers-botanical-garden-life-v2.webp"},
   {
-    id: "aquafortland-park-life-v2",
+    id: "aquafortland-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moustex",
+                  "text": "Eine lokale Touristenattraktion in der Nähe des Aquafortland-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        3.208756,
+                        36.718268
+                  ]
+            },
+            {
+                  "name": "Passerelle Cherarba",
+                  "text": "Eine Fußgängerbrücke mit Aussichtspunkt, die malerische Perspektiven in der Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        3.183705,
+                        36.655937
+                  ]
+            },
+            {
+                  "name": "Kiffan Club",
+                  "text": "Ein Freizeit-Wasserpark-Club mit Wasserrutschen und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        3.217613,
+                        36.75958
+                  ]
+            },
+            {
+                  "name": "Hotel Mercure",
+                  "text": "Ein Wassersport- und Erholungsgebiet, das zum Hotel Mercure-Komplex gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        3.196407,
+                        36.713269
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
+                  "text": "Ein kulturelles Jugend- und Kunstzentrum in der Siedlung 8 mai 1945.",
+                  "category": "cultural",
+                  "coords": [
+                        3.185632,
+                        36.732667
+                  ]
+            },
+            {
+                  "name": "Aquafortland",
+                  "text": "Ein großer Wasserpark-Komplex, der mit verschiedenen Wasserrutschen und Freizeitbecken ausgestattet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.219636,
+                        36.75731
+                  ]
+            },
+            {
+                  "name": "Bateau Cassé",
+                  "text": "Ein Sandstrand an der Küste, der nach einem zerbrochenen Boot benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.221814,
+                        36.767293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moustex",
+                  "text": "Helyi turisztikai látványosság az Aquafortland park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        3.208756,
+                        36.718268
+                  ]
+            },
+            {
+                  "name": "Passerelle Cherarba",
+                  "text": "Egy gyalogos kilátóhíd, amely festői kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        3.183705,
+                        36.655937
+                  ]
+            },
+            {
+                  "name": "Kiffan Club",
+                  "text": "Egy rekreációs vízipark klub, amely csúszdákkal és medencékkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        3.217613,
+                        36.75958
+                  ]
+            },
+            {
+                  "name": "Hotel Mercure",
+                  "text": "A Hotel Mercure komplexumhoz tartozó vízi rekreációs terület.",
+                  "category": "recreational",
+                  "coords": [
+                        3.196407,
+                        36.713269
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
+                  "text": "Kulturális ifjúsági és művészeti központ a 8 mai 1945 lakótelepen.",
+                  "category": "cultural",
+                  "coords": [
+                        3.185632,
+                        36.732667
+                  ]
+            },
+            {
+                  "name": "Aquafortland",
+                  "text": "Egy nagy vízipark komplexum, amely különféle csúszdákkal és élménymedencékkel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        3.219636,
+                        36.75731
+                  ]
+            },
+            {
+                  "name": "Bateau Cassé",
+                  "text": "Egy tengerparti homokos strand, amely egy törött csónakról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        3.221814,
+                        36.767293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moustex",
+                  "text": "O atracție turistică locală situată lângă parcul Aquafortland.",
+                  "category": "landmark",
+                  "coords": [
+                        3.208756,
+                        36.718268
+                  ]
+            },
+            {
+                  "name": "Passerelle Cherarba",
+                  "text": "Un pod pietonal de belvedere care oferă perspective pitorești în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        3.183705,
+                        36.655937
+                  ]
+            },
+            {
+                  "name": "Kiffan Club",
+                  "text": "Un club de agrement cu parc acvatic, oferind tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        3.217613,
+                        36.75958
+                  ]
+            },
+            {
+                  "name": "Hotel Mercure",
+                  "text": "O zonă de recreere acvatică asociată cu complexul Hotel Mercure.",
+                  "category": "recreational",
+                  "coords": [
+                        3.196407,
+                        36.713269
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
+                  "text": "Un centru cultural de tineret și arte situat în cartierul 8 mai 1945.",
+                  "category": "cultural",
+                  "coords": [
+                        3.185632,
+                        36.732667
+                  ]
+            },
+            {
+                  "name": "Aquafortland",
+                  "text": "Un complex mare de parc acvatic echipat cu diverse tobogane și piscine de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        3.219636,
+                        36.75731
+                  ]
+            },
+            {
+                  "name": "Bateau Cassé",
+                  "text": "O plajă de coastă cu nisip numită după o barcă spartă.",
+                  "category": "recreational",
+                  "coords": [
+                        3.221814,
+                        36.767293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moustex",
+                  "text": "A local tourist attraction situated near the Aquafortland park.",
+                  "category": "landmark",
+                  "coords": [
+                        3.208756,
+                        36.718268
+                  ]
+            },
+            {
+                  "name": "Passerelle Cherarba",
+                  "text": "A pedestrian viewpoint bridge offering scenic perspectives in the area.",
+                  "category": "natural",
+                  "coords": [
+                        3.183705,
+                        36.655937
+                  ]
+            },
+            {
+                  "name": "Kiffan Club",
+                  "text": "A recreational water park club featuring aquatic slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        3.217613,
+                        36.75958
+                  ]
+            },
+            {
+                  "name": "Hotel Mercure",
+                  "text": "An aquatic recreation area associated with the Hotel Mercure complex.",
+                  "category": "recreational",
+                  "coords": [
+                        3.196407,
+                        36.713269
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
+                  "text": "A cultural youth and arts centre located in the 8 mai 1945 estate.",
+                  "category": "cultural",
+                  "coords": [
+                        3.185632,
+                        36.732667
+                  ]
+            },
+            {
+                  "name": "Aquafortland",
+                  "text": "A large water park complex equipped with various water slides and leisure pools.",
+                  "category": "recreational",
+                  "coords": [
+                        3.219636,
+                        36.75731
+                  ]
+            },
+            {
+                  "name": "Bateau Cassé",
+                  "text": "A coastal sandy beach named after a broken boat.",
+                  "category": "recreational",
+                  "coords": [
+                        3.221814,
+                        36.767293
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DZ-16",
     coords: [3.2, 36.7],
@@ -461,7 +2477,268 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Modèles grandeur nature.", "Offre éducative.", "Divertissement.", "Un parc à thème avec des répliques de dinosaures pour les enfants.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/dinosaur-park-setif-life-v2.webp"},
   {
-    id: "mostaganem-wildlife-park-life-v2",
+    id: "mostaganem-wildlife-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ouled hamdan",
+                  "text": "Ouled Hamdan ist ein bemerkenswertes Siedlungsgebiet in der Nähe von Mostaganem, das für sein lokales Kulturerbe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102121,
+                        35.815748
+                  ]
+            },
+            {
+                  "name": "Cab",
+                  "text": "Cab ist eine lokale Attraktion in der Nähe von Mostaganem inmitten der weiten Wildtier- und Parklandschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102938,
+                        35.812269
+                  ]
+            },
+            {
+                  "name": "Khaima Moulay Timimoun",
+                  "text": "Khaima Moulay ist eine traditionelle kulturelle Attraktion im Zeltstil in der Parkregion von Mostaganem.",
+                  "category": "landmark",
+                  "coords": [
+                        0.046053,
+                        35.890338
+                  ]
+            },
+            {
+                  "name": "Colonne de commémoration de la bataille de Mazagran 1558",
+                  "text": "Dieses steinerne Säulenmonument erinnert an die historische Schlacht von Mazagran im Jahr 1558 in der Gegend von Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.07674,
+                        35.90249
+                  ]
+            },
+            {
+                  "name": "Djanat el arif foundation",
+                  "text": "Die Stiftung Djanat el Arif zeichnet sich durch schlossartige architektonische Elemente inmitten der Landschaft von Mostaganem aus.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "Plage Oureah",
+                  "text": "Plage Oureah ist ein beliebtes Küstenziel mit breiten Sandstränden am Mittelmeer in der Nähe von Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.033256,
+                        35.870331
+                  ]
+            },
+            {
+                  "name": "Les Sablettes",
+                  "text": "Les Sablettes ist ein markanter Abschnitt aus feinem Sand entlang der lebhaften Mittelmeerküste von Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.044212,
+                        35.887457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ouled hamdan",
+                  "text": "Ouled Hamdan egy figyelemre méltó településrész Mostaganem közelében, amelyet helyi kulturális örökségéről ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102121,
+                        35.815748
+                  ]
+            },
+            {
+                  "name": "Cab",
+                  "text": "A Cab egy helyi látványosság Mostaganem közelében, amely a tágabb vadvilág és parkosított tájak között található.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102938,
+                        35.812269
+                  ]
+            },
+            {
+                  "name": "Khaima Moulay Timimoun",
+                  "text": "A Khaima Moulay egy hagyományos sátor stílusú kulturális látványosság Mostaganem parkosított régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.046053,
+                        35.890338
+                  ]
+            },
+            {
+                  "name": "Colonne de commémoration de la bataille de Mazagran 1558",
+                  "text": "Ez a kőoszlop-emlékmű a történelmi 1558-as mazagrani csatának állít emléket Mostaganem környékén.",
+                  "category": "historical",
+                  "coords": [
+                        0.07674,
+                        35.90249
+                  ]
+            },
+            {
+                  "name": "Djanat el arif foundation",
+                  "text": "A Djanat el Arif alapítvány kastélyszerű építészeti elemekkel rendelkezik Mostaganem tájain.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "Plage Oureah",
+                  "text": "A Plage Oureah egy népszerű tengerparti úti cél széles homokos strandokkal a Földközi-tenger mentén, Mostaganem közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.033256,
+                        35.870331
+                  ]
+            },
+            {
+                  "name": "Les Sablettes",
+                  "text": "A Les Sablettes egy kiemelkedő finomhomokos partszakasz Mostaganem nyüzsgő Földközi-tengeri partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.044212,
+                        35.887457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ouled hamdan",
+                  "text": "Ouled Hamdan este o zonă de așezare notabilă din apropiere de Mostaganem, recunoscută pentru moștenirea sa culturală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102121,
+                        35.815748
+                  ]
+            },
+            {
+                  "name": "Cab",
+                  "text": "Cab este o atracție locală din apropiere de Mostaganem, situată în cadrul peisajelor mai largi de faună sălbatică și parcuri.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102938,
+                        35.812269
+                  ]
+            },
+            {
+                  "name": "Khaima Moulay Timimoun",
+                  "text": "Khaima Moulay este o atracție culturală tradițională în stil cort, situată în regiunea parcurilor din Mostaganem.",
+                  "category": "landmark",
+                  "coords": [
+                        0.046053,
+                        35.890338
+                  ]
+            },
+            {
+                  "name": "Colonne de commémoration de la bataille de Mazagran 1558",
+                  "text": "Acest monument sub formă de coloană de piatră comemorează bătălia istorică de la Mazagran din 1558 din zona Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.07674,
+                        35.90249
+                  ]
+            },
+            {
+                  "name": "Djanat el arif foundation",
+                  "text": "Fundația Djanat el Arif prezintă elemente arhitecturale asemănătoare unui castel, amplasate în peisajul din Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "Plage Oureah",
+                  "text": "Plage Oureah este o destinație de coastă populară care oferă plaje largi cu nisip de-a lungul Mării Mediterane, lângă Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.033256,
+                        35.870331
+                  ]
+            },
+            {
+                  "name": "Les Sablettes",
+                  "text": "Les Sablettes este o întindere proeminentă de nisip fin de-a lungul litoralului mediteranean plin de viață din Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.044212,
+                        35.887457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ouled hamdan",
+                  "text": "Ouled Hamdan is a notable settlement area near Mostaganem recognized for its local cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102121,
+                        35.815748
+                  ]
+            },
+            {
+                  "name": "Cab",
+                  "text": "Cab is a localized attraction near Mostaganem situated within the broader wildlife and park landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        0.102938,
+                        35.812269
+                  ]
+            },
+            {
+                  "name": "Khaima moulay",
+                  "text": "Khaima Moulay is a traditional tent-style cultural attraction located in the park region of Mostaganem.",
+                  "category": "landmark",
+                  "coords": [
+                        0.046053,
+                        35.890338
+                  ]
+            },
+            {
+                  "name": "Colonne de commémoration de la bataille de Mazagran 1558",
+                  "text": "This stone column monument commemorates the historic 1558 Battle of Mazagran in the Mostaganem area.",
+                  "category": "historical",
+                  "coords": [
+                        0.07674,
+                        35.90249
+                  ]
+            },
+            {
+                  "name": "Djanat el arif foundation",
+                  "text": "The Djanat el Arif foundation features castle-like architectural elements set amidst the Mostaganem landscape.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "Plage Oureah",
+                  "text": "Plage Oureah is a popular coastal destination featuring wide sandy beaches along the Mediterranean near Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.033256,
+                        35.870331
+                  ]
+            },
+            {
+                  "name": "Les Sablettes",
+                  "text": "Les Sablettes is a prominent stretch of fine sand along the lively Mediterranean waterfront of Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.044212,
+                        35.887457
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-27",
     coords: [0.1, 35.9],
@@ -496,7 +2773,196 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Visites familiales.", "Faune locale.", "Éducation.", "Un petit zoo axé sur les espèces animales locales.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/mostaganem-wildlife-park-life-v2.webp"},
   {
-    id: "oran-aquarium-life-v2",
+    id: "oran-aquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point Hai Es-Sabah",
+                  "text": "Dieser große Verkehrskreisverkehr verfügt über ein zentrales Monument, das den belebten Bezirk Hai Es-Sabah verankert.",
+                  "category": "historical",
+                  "coords": [
+                        -0.574853,
+                        35.694422
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdelhamid Ben Badis",
+                  "text": "Diese moderne große Moschee mit ihrem hoch aufragenden Minarett ist nach dem prominenten algerischen islamischen Gelehrten Abdelhamid Ben Badis benannt.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606352,
+                        35.697719
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture d'Oran",
+                  "text": "Dieses prominente städtische Kunstzentrum veranstaltet regelmäßig groß angelegte Ausstellungen und kulturelle Darbietungen für die Einwohner von Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.575304,
+                        35.696317
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Dieses Museum bewahrt sorgfältig Artefakte und historische Aufzeichnungen zur Ehrung der Kämpfer des algerischen Unabhängigkeitskrieges auf.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603371,
+                        35.69938
+                  ]
+            },
+            {
+                  "name": "Musée de l'artisanat",
+                  "text": "Dieses Museum zeigt regionale traditionelle Handwerkskunst und präsentiert lokale Keramik, Textilien und aufwendige Holzarbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        -0.577143,
+                        35.695818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point Hai Es-Sabah",
+                  "text": "Ezt a nagy forgalmi körforgalmat egy központi emlékmű díszíti a nyüzsgő Hai Es-Sabah negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        -0.574853,
+                        35.694422
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdelhamid Ben Badis",
+                  "text": "A magasba tornyosuló minarettel büszkélkedő modern nagymecsetet a kiemelkedő algériai iszlám tudósról, Abdelhamid Ben Badisról nevezték el.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606352,
+                        35.697719
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture d'Oran",
+                  "text": "Ez a kiemelkedő városi művészeti központ rendszeresen ad otthont nagyszabású kiállításoknak és kulturális előadásoknak Orán lakosai számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.575304,
+                        35.696317
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Ez a múzeum gondosan őrzi az algériai függetlenségi háború harcosainak emléket állító tárgyakat és történelmi feljegyzéseket.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603371,
+                        35.69938
+                  ]
+            },
+            {
+                  "name": "Musée de l'artisanat",
+                  "text": "A regionális hagyományos kézművességet bemutató múzeum helyi kerámiákat, textíliákat és bonyolult fafaragásokat vonultat fel.",
+                  "category": "museum",
+                  "coords": [
+                        -0.577143,
+                        35.695818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point Hai Es-Sabah",
+                  "text": "Acest sens giratoriu mare are un monument central care ancorează cartierul plin de viață Hai Es-Sabah.",
+                  "category": "historical",
+                  "coords": [
+                        -0.574853,
+                        35.694422
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdelhamid Ben Badis",
+                  "text": "Având un minaret impunător, această mare moschee modernă poartă numele proeminentului erudit islamic algerian Abdelhamid Ben Badis.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606352,
+                        35.697719
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture d'Oran",
+                  "text": "Acest proeminent centru de arte urbane găzduiește în mod regulat expoziții pe scară largă și spectacole culturale pentru locuitorii din Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.575304,
+                        35.696317
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Acest muzeu păstrează cu grijă artefacte și documente istorice care îi onorează pe luptătorii din Războiul de Independență al Algeriei.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603371,
+                        35.69938
+                  ]
+            },
+            {
+                  "name": "Musée de l'artisanat",
+                  "text": "Prezentând măiestria tradițională regională, acest muzeu găzduiește expoziții de ceramică locală, textile și prelucrarea complexă a lemnului.",
+                  "category": "museum",
+                  "coords": [
+                        -0.577143,
+                        35.695818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point Hai Es-Sabah",
+                  "text": "This large traffic roundabout features a central monument anchoring the bustling Hai Es-Sabah district.",
+                  "category": "historical",
+                  "coords": [
+                        -0.574853,
+                        35.694422
+                  ]
+            },
+            {
+                  "name": "Mosque of Abdelhamid Ibn Badis",
+                  "text": "Boasting a towering minaret, this modern grand mosque is named after the prominent Algerian Islamic scholar Abdelhamid Ben Badis.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606352,
+                        35.697719
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture d'Oran",
+                  "text": "This prominent urban arts centre regularly hosts large-scale exhibitions and cultural performances for the residents of Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.575304,
+                        35.696317
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "This museum carefully preserves artifacts and historical records honoring the fighters of the Algerian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603371,
+                        35.69938
+                  ]
+            },
+            {
+                  "name": "Musée de l'artisanat",
+                  "text": "Showcasing regional traditional craftsmanship, this museum features displays of local ceramics, textiles, and intricate woodwork.",
+                  "category": "museum",
+                  "coords": [
+                        -0.577143,
+                        35.695818
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DZ-31",
     coords: [-0.6, 35.7],
@@ -531,7 +2997,160 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Monde sous-marin.", "Éducation.", "Attraction pour enfants.", "Un aquarium présentant la vie marine de la Méditerranée.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/oran-aquarium-life-v2.webp"},
   {
-    id: "taza-national-park-life-v2",
+    id: "taza-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lemchaki",
+                  "text": "Panoramapunkt mit Blick auf die Küstenlandschaften des Taza-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        5.658483,
+                        36.604258
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed",
+                  "text": "Überreste einer historischen Siedlung in den Küstenhügeln des Taza-Nationalparks.",
+                  "category": "historical",
+                  "coords": [
+                        5.532645,
+                        36.602036
+                  ]
+            },
+            {
+                  "name": "Sidi Rehal",
+                  "text": "Historische Ruinen im zerklüfteten Gelände des Taza-Nationalparks.",
+                  "category": "historical",
+                  "coords": [
+                        5.521855,
+                        36.613258
+                  ]
+            },
+            {
+                  "name": "Lella Takouba",
+                  "text": "Alte Steinreste, die in den Küstenlandschaften des Taza-Nationalparks verborgen sind.",
+                  "category": "historical",
+                  "coords": [
+                        5.500535,
+                        36.616635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lemchaki",
+                  "text": "Panorámás kilátóhely, ahonnan kilátás nyílik a Taza Nemzeti Park tengerparti tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        5.658483,
+                        36.604258
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed",
+                  "text": "Egy történelmi település maradványai a Taza Nemzeti Park parti dombjain.",
+                  "category": "historical",
+                  "coords": [
+                        5.532645,
+                        36.602036
+                  ]
+            },
+            {
+                  "name": "Sidi Rehal",
+                  "text": "Történelmi romok a Taza Nemzeti Park zord terepén.",
+                  "category": "historical",
+                  "coords": [
+                        5.521855,
+                        36.613258
+                  ]
+            },
+            {
+                  "name": "Lella Takouba",
+                  "text": "A Taza Nemzeti Park tengerparti tájain megbúvó ősi kőmaradványok.",
+                  "category": "historical",
+                  "coords": [
+                        5.500535,
+                        36.616635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lemchaki",
+                  "text": "Punct de observație panoramic cu vedere la peisajele de coastă din Parcul Național Taza.",
+                  "category": "natural",
+                  "coords": [
+                        5.658483,
+                        36.604258
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed",
+                  "text": "Rămășițele unei așezări istorice situate în dealurile de coastă din Parcul Național Taza.",
+                  "category": "historical",
+                  "coords": [
+                        5.532645,
+                        36.602036
+                  ]
+            },
+            {
+                  "name": "Sidi Rehal",
+                  "text": "Ruine istorice situate în terenul accidentat din Parcul Național Taza.",
+                  "category": "historical",
+                  "coords": [
+                        5.521855,
+                        36.613258
+                  ]
+            },
+            {
+                  "name": "Lella Takouba",
+                  "text": "Rămășițe antice de piatră ascunse în peisajele de coastă din Parcul Național Taza.",
+                  "category": "historical",
+                  "coords": [
+                        5.500535,
+                        36.616635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lemchaki",
+                  "text": "Panoramic vantage point overlooking the coastal landscapes of Taza National Park.",
+                  "category": "natural",
+                  "coords": [
+                        5.658483,
+                        36.604258
+                  ]
+            },
+            {
+                  "name": "Sidi Ahmed",
+                  "text": "Remnants of a historical settlement situated within the coastal hills of Taza National Park.",
+                  "category": "historical",
+                  "coords": [
+                        5.532645,
+                        36.602036
+                  ]
+            },
+            {
+                  "name": "Sidi Rehal",
+                  "text": "Historical ruins located in the rugged terrain of Taza National Park.",
+                  "category": "historical",
+                  "coords": [
+                        5.521855,
+                        36.613258
+                  ]
+            },
+            {
+                  "name": "Lella Takouba",
+                  "text": "Ancient stone remains hidden within the coastal landscapes of Taza National Park.",
+                  "category": "historical",
+                  "coords": [
+                        5.500535,
+                        36.616635
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-18",
     coords: [5.6, 36.6],
@@ -566,7 +3185,52 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Paysage côtier.", "Flore.", "Un parc qui protège une grande diversité d'oiseaux et de mammifères.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/taza-national-park-life-v2.webp"},
   {
-    id: "belezma-national-park-life-v2",
+    id: "belezma-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de Belezma",
+                  "text": "Der Belezma-Nationalpark ist ein gebirgiges Naturschutzgebiet, das für seine wertvollen und schattigen Atlaszedernwälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.089224,
+                        35.598079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Belezma",
+                  "text": "A Belezma Nemzeti Park egy hegyvidéki természetvédelmi terület, amely értékes és árnyas atlaszcédrus erdeiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        6.089224,
+                        35.598079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Belezma",
+                  "text": "Parcul Național Belezma este o rezervație naturală montană renumită pentru pădurile sale valoroase și umbroase de cedru de Atlas.",
+                  "category": "natural",
+                  "coords": [
+                        6.089224,
+                        35.598079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belezma National Park",
+                  "text": "Belezma National Park is a mountainous nature reserve distinguished by its deeply shaded and valuable Atlas cedar forests.",
+                  "category": "natural",
+                  "coords": [
+                        6.089224,
+                        35.598079
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-05",
     coords: [6.1, 35.6],
@@ -601,7 +3265,88 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Cèdres de l'Atlas.", "Faune sauvage.", "Randonnée.", "Un parc montagneux connu pour ses cèdres de l'Atlas.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/belezma-national-park-life-v2.webp"},
   {
-    id: "djurdjura-national-park-life-v2",
+    id: "djurdjura-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "maison de l'italien , quelque par la",
+                  "text": "Isolierte Steinruinen inmitten der bergigen Landschaft des Djurdjura-Nationalparks.",
+                  "category": "historical",
+                  "coords": [
+                        4.014774,
+                        36.457898
+                  ]
+            },
+            {
+                  "name": "Djurdjura Nationalpark",
+                  "text": "Ein gebirgiges Naturschutzgebiet, das für seine tiefen Schluchten, Zedernwälder und schroffen Gipfel bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.169939,
+                        36.463455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "maison de l'italien , quelque par la",
+                  "text": "Elszigetelt kőromok, amelyek a Djurdjura Nemzeti Park hegyvidéki terepén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        4.014774,
+                        36.457898
+                  ]
+            },
+            {
+                  "name": "Parc National du Djurdjura",
+                  "text": "Hegyvidéki természetvédelmi terület, amely mély szurdokairól, cédruserdeiről és zord csúcsairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.169939,
+                        36.463455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "maison de l'italien , quelque par la",
+                  "text": "Ruine de piatră izolate, ascunse în peisajul muntos al Parcului Național Djurdjura.",
+                  "category": "historical",
+                  "coords": [
+                        4.014774,
+                        36.457898
+                  ]
+            },
+            {
+                  "name": "Parc National du Djurdjura",
+                  "text": "O rezervație naturală montană renumită pentru cheile sale adânci, pădurile de cedru și vârfurile accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        4.169939,
+                        36.463455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "the home of the Italien,some where here (ruines)",
+                  "text": "Isolated stone ruins nestled within the mountainous terrain of Djurdjura National Park.",
+                  "category": "historical",
+                  "coords": [
+                        4.014774,
+                        36.457898
+                  ]
+            },
+            {
+                  "name": "Djurdjura National Park",
+                  "text": "A mountainous nature reserve renowned for its deep gorges, cedar forests, and rugged peaks.",
+                  "category": "natural",
+                  "coords": [
+                        4.169939,
+                        36.463455
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DZ-10",
     coords: [4.1, 36.4],
@@ -776,7 +3521,52 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Construction d'oasis.", "Dattes.", "Tradition.", "Agriculture oasienne traditionnelle dans le désert.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/el-oued-palm-groves-life-v2.webp"},
   {
-    id: "mascara-vineyards-life-v2",
+    id: "mascara-vineyards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre culturel",
+                  "text": "Dieses Kulturzentrum befindet sich in der Region Mascara, die für ihre traditionellen Weinberge bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        0.160074,
+                        35.24762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre culturel",
+                  "text": "Ez a kulturális központ a hagyományos szőlőültetvényeiről ismert Mascara régióban található.",
+                  "category": "cultural",
+                  "coords": [
+                        0.160074,
+                        35.24762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre culturel",
+                  "text": "Acest centru cultural se află în regiunea Mascara, cunoscută pentru podgoriile sale tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        0.160074,
+                        35.24762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre culturel",
+                  "text": "This cultural centre is located in the Mascara region, an area historically known for its vineyards.",
+                  "category": "cultural",
+                  "coords": [
+                        0.160074,
+                        35.24762
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-29",
     coords: [0.1, 35.3],
@@ -811,7 +3601,268 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Viticulture.", "Climat.", "Tradition.", "Région ayant une longue tradition viticole.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/mascara-vineyards-life-v2.webp"},
   {
-    id: "tipaza-coastal-agriculture-life-v2",
+    id: "tipaza-coastal-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "View of Roman Aquaduct",
+                  "text": "Dieser Aussichtspunkt in der Nähe von Tipaza bietet einen klaren Blick auf die erhaltenen Steinbögen des antiken römischen Aquädukts.",
+                  "category": "landmark",
+                  "coords": [
+                        2.295053,
+                        36.576215
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Abdelouaheb Salim",
+                  "text": "Der Complexe Culturel Abdelouaheb Salim in Tipaza ist ein modernes Kulturzentrum, in dem lokale Theateraufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        2.407975,
+                        36.604845
+                  ]
+            },
+            {
+                  "name": "theatre plien air",
+                  "text": "Dieses Freilufttheater in Tipaza bietet eine Freilichtbühne für Aufführungen unter dem algerischen Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        2.419065,
+                        36.598256
+                  ]
+            },
+            {
+                  "name": "Chenoua Plage",
+                  "text": "Chenoua Plage ist ein malerischer Sandstrand am Fuße des Berges Chenoua an der Mittelmeerküste.",
+                  "category": "recreational",
+                  "coords": [
+                        2.412607,
+                        36.60218
+                  ]
+            },
+            {
+                  "name": "Plage ben ouda",
+                  "text": "Plage ben ouda ist ein erholsamer Küstenstrand in der Provinz Tipaza mit einem mediterranen Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        2.332986,
+                        36.639791
+                  ]
+            },
+            {
+                  "name": "Oued Oumazer",
+                  "text": "Der Strand von Oued Oumazer liegt an der Mündung des Wadis und bietet Sandstrände neben dem Bach.",
+                  "category": "recreational",
+                  "coords": [
+                        2.298795,
+                        36.63356
+                  ]
+            },
+            {
+                  "name": "Plage bleue",
+                  "text": "Plage bleue ist ein ruhiger Mittelmeerstrand, der für sein klares, bläuliches Wasser in der Nähe von Tipaza bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.34325,
+                        36.641301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View of Roman Aquaduct",
+                  "text": "Ez a Tipaza melletti kilátóhely tiszta rálátást biztosít az ókori római vízvezeték fennmaradt kőíveire.",
+                  "category": "landmark",
+                  "coords": [
+                        2.295053,
+                        36.576215
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Abdelouaheb Salim",
+                  "text": "A tipazai Complexe Culturel Abdelouaheb Salim egy modern kulturális központ, amely helyi színházi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        2.407975,
+                        36.604845
+                  ]
+            },
+            {
+                  "name": "theatre plien air",
+                  "text": "Ez a tipazai szabadtéri színház szabadtéri színpadot biztosít az algériai ég alatti előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        2.419065,
+                        36.598256
+                  ]
+            },
+            {
+                  "name": "Chenoua Plage",
+                  "text": "A Chenoua Plage egy festői homokos strand a Chenoua-hegy lábánál, a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        2.412607,
+                        36.60218
+                  ]
+            },
+            {
+                  "name": "Plage ben ouda",
+                  "text": "A Plage ben ouda egy pihentető tengerparti strand Tipaza tartományban, amely egy mediterrán homokos szakaszt kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        2.332986,
+                        36.639791
+                  ]
+            },
+            {
+                  "name": "Oued Oumazer",
+                  "text": "Az Oued Oumazer strandja a vádi torkolatánál található, és homokos partokat kínál a patak mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        2.298795,
+                        36.63356
+                  ]
+            },
+            {
+                  "name": "Plage bleue",
+                  "text": "A Plage bleue egy nyugodt Földközi-tengeri partszakasz Tipaza közelében, amely tiszta, kék árnyalatú vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.34325,
+                        36.641301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View of Roman Aquaduct",
+                  "text": "Acest punct de observare de lângă Tipaza oferă vederi clare ale arcurilor de piatră rămase ale anticului apeduct roman.",
+                  "category": "landmark",
+                  "coords": [
+                        2.295053,
+                        36.576215
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Abdelouaheb Salim",
+                  "text": "Complexe Culturel Abdelouaheb Salim din Tipaza este un centru cultural modern care găzduiește spectacole de teatru locale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.407975,
+                        36.604845
+                  ]
+            },
+            {
+                  "name": "theatre plien air",
+                  "text": "Acest teatru în aer liber din Tipaza oferă o scenă în aer liber pentru spectacole sub cerul algerian.",
+                  "category": "cultural",
+                  "coords": [
+                        2.419065,
+                        36.598256
+                  ]
+            },
+            {
+                  "name": "Chenoua Plage",
+                  "text": "Chenoua Plage este o plajă pitorească de nisip amplasată la poalele Muntelui Chenoua de-a lungul coastei mediteraneene.",
+                  "category": "recreational",
+                  "coords": [
+                        2.412607,
+                        36.60218
+                  ]
+            },
+            {
+                  "name": "Plage ben ouda",
+                  "text": "Plage ben ouda este o plajă de coastă relaxantă în provincia Tipaza, prezentând o întindere de nisip mediteranean.",
+                  "category": "recreational",
+                  "coords": [
+                        2.332986,
+                        36.639791
+                  ]
+            },
+            {
+                  "name": "Oued Oumazer",
+                  "text": "Plaja de la Oued Oumazer este situată la gura wadi-ului, oferind țărmuri de nisip pe malul pârâului.",
+                  "category": "recreational",
+                  "coords": [
+                        2.298795,
+                        36.63356
+                  ]
+            },
+            {
+                  "name": "Plage bleue",
+                  "text": "Plage bleue este o plajă liniștită de pe coasta mediteraneană cunoscută pentru apele sale clare și albastre din apropiere de Tipaza.",
+                  "category": "recreational",
+                  "coords": [
+                        2.34325,
+                        36.641301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View of Roman Aquaduct",
+                  "text": "This vantage point near Tipaza offers clear views of the ancient Roman aqueduct's remaining stone arches.",
+                  "category": "landmark",
+                  "coords": [
+                        2.295053,
+                        36.576215
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Abdelouaheb Salim",
+                  "text": "The Complexe Culturel Abdelouaheb Salim in Tipaza is a modern cultural center hosting local theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        2.407975,
+                        36.604845
+                  ]
+            },
+            {
+                  "name": "theatre plien air",
+                  "text": "This open-air theatre in Tipaza provides an outdoor stage for performances under the Algerian sky.",
+                  "category": "cultural",
+                  "coords": [
+                        2.419065,
+                        36.598256
+                  ]
+            },
+            {
+                  "name": "Chenoua Plage",
+                  "text": "Chenoua Plage is a scenic sandy beach nestled at the foot of Mount Chenoua along the Mediterranean coast.",
+                  "category": "recreational",
+                  "coords": [
+                        2.412607,
+                        36.60218
+                  ]
+            },
+            {
+                  "name": "Plage ben ouda",
+                  "text": "Plage ben ouda is a relaxing coastal beach in Tipaza Province, featuring a stretch of Mediterranean sand.",
+                  "category": "recreational",
+                  "coords": [
+                        2.332986,
+                        36.639791
+                  ]
+            },
+            {
+                  "name": "Oued Oumazer",
+                  "text": "The beach at Oued Oumazer is situated at the mouth of the wadi, offering sandy shores beside the stream.",
+                  "category": "recreational",
+                  "coords": [
+                        2.298795,
+                        36.63356
+                  ]
+            },
+            {
+                  "name": "Plage bleue",
+                  "text": "Plage bleue is a tranquil Mediterranean coastal beach known for its clear, blue-tinted waters near Tipaza.",
+                  "category": "recreational",
+                  "coords": [
+                        2.34325,
+                        36.641301
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-42",
     coords: [2.4, 36.6],
@@ -846,7 +3897,52 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Arboriculture fruitière.", "Légumes.", "Climat côtier.", "Terre fertile directement au bord de la mer.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/tipaza-coastal-agriculture-life-v2.webp"},
   {
-    id: "ghardaia-oasis-agriculture-life-v2",
+    id: "ghardaia-oasis-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "Ein lehrreiches Astronomiemuseum und Planetarium in der M'zab-Tal-Oase von Ghardaïa.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "Oktatási csillagászati múzeum és planetárium Ghardaïa M'zab-völgyi oázisában.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "Un muzeu educațional de astronomie și planetariu situat în oaza văii M'zab din Ghardaïa.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "An educational astronomy museum and planetarium located within the M'zab valley oasis of Ghardaïa.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503508
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-47",
     coords: [3.7, 32.5],
@@ -881,7 +3977,124 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       fr: ["Dattes.", "Irrigation.", "Culture.", "Culture oasienne unique avec irrigation traditionnelle.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/ghardaia-oasis-agriculture-life-v2.webp"},
   {
-    id: "souk-ahras-agriculture-life-v2",
+    id: "souk-ahras-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Dieses Museum in Souk Ahras widmet sich der Geschichte und den Kämpfern (Mudschaheddin) des algerischen Unabhängigkeitskrieges.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs ALN",
+                  "text": "Dieses Denkmal ehrt die gefallenen Märtyrer der Nationalen Befreiungsarmee (ALN) während des algerischen Unabhängigkeitskampfes.",
+                  "category": "historical",
+                  "coords": [
+                        7.946221,
+                        36.252447
+                  ]
+            },
+            {
+                  "name": "Musée Mohamed Boudiaf",
+                  "text": "Das Museum ist nach dem ehemaligen algerischen Präsidenten Mohamed Boudiaf benannt und präsentiert lokale historische Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        7.95819,
+                        36.283318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Ez a Souk Ahras-i múzeum az algériai függetlenségi háború történetének és harcosainak (mudzsahedin) állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs ALN",
+                  "text": "Ez az emlékmű a Nemzeti Felszabadítási Hadsereg (ALN) algériai függetlenségi harcban elesett mártírjai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        7.946221,
+                        36.252447
+                  ]
+            },
+            {
+                  "name": "Musée Mohamed Boudiaf",
+                  "text": "A volt algériai elnökről, Mohamed Boudiafról elnevezett múzeum helyi történelmi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.95819,
+                        36.283318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Acest muzeu din Souk Ahras este dedicat istoriei și luptătorilor (Moudjahidine) din Războiul de Independență al Algeriei.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs ALN",
+                  "text": "Acest monument onorează martirii căzuți ai Armatei de Eliberare Națională (ALN) în timpul luptei pentru independența Algeriei.",
+                  "category": "historical",
+                  "coords": [
+                        7.946221,
+                        36.252447
+                  ]
+            },
+            {
+                  "name": "Musée Mohamed Boudiaf",
+                  "text": "Muzeul este numit după fostul președinte algerian Mohamed Boudiaf și prezintă expoziții istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        7.95819,
+                        36.283318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "This museum in Souk Ahras is dedicated to the history and fighters (Moudjahidine) of the Algerian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs ALN",
+                  "text": "This monument honors the fallen martyrs of the National Liberation Army (ALN) during the Algerian struggle for independence.",
+                  "category": "historical",
+                  "coords": [
+                        7.946221,
+                        36.252447
+                  ]
+            },
+            {
+                  "name": "Musée Mohamed Boudiaf",
+                  "text": "Named after former Algerian President Mohamed Boudiaf, this museum showcases local historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        7.95819,
+                        36.283318
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DZ-41",
     coords: [7.9, 36.3],

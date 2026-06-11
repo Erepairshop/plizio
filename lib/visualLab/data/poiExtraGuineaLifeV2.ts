@@ -42,7 +42,52 @@ export const poiExtraGuineaLifeV2: POI[] = [
       fr: ["Le parc fait partie du complexe transfrontalier Niokolo-Badiar.", "Il abrite le mont Badiar et ses falaises de grès caractéristiques.", "C'est l'un des meilleurs endroits de Guinée pour observer les grands mammifères.", "La rivière Koulountou constitue la frontière naturelle au sein du parc.", "Le parc abrite de rares élands de Derby d'Afrique de l'Ouest.", "Badiar est un corridor important pour les troupeaux d'éléphants migrateurs."],
     }, image: "/poi-images/badiar-national-park-life-v2.webp"},
   {
-    id: "upper-niger-national-park-life-v2",
+    id: "upper-niger-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National du Haut-Niger",
+                  "text": "Der Nationalpark Haut-Niger ist ein riesiges Naturschutzgebiet, das wichtige Savannen- und Waldökosysteme entlang des Niger-Flusses umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -10.284932,
+                        10.430765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National du Haut-Niger",
+                  "text": "A Felső-Niger Nemzeti Park egy hatalmas természetvédelmi terület, amely létfontosságú szavanna- és erdei ökoszisztémákat foglal magában a Niger folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -10.284932,
+                        10.430765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National du Haut-Niger",
+                  "text": "Parcul Național Haut-Niger este o rezervație naturală vastă, care cuprinde ecosisteme vitale de savană și pădure de-a lungul râului Niger.",
+                  "category": "natural",
+                  "coords": [
+                        -10.284932,
+                        10.430765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National du Haut-Niger",
+                  "text": "The Upper Niger National Park is a vast protected nature reserve encompassing vital savanna and forest ecosystems along the Niger River.",
+                  "category": "natural",
+                  "coords": [
+                        -10.284932,
+                        10.430765
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GN-F",
     coords: [-10.3, 10.5],
@@ -198,7 +243,52 @@ export const poiExtraGuineaLifeV2: POI[] = [
       fr: ["Kankan est un centre majeur pour la production de riz pluvial et irrigué.", "Le fleuve Milo alimente les vastes systèmes d'irrigation de la zone.", "Le riz local de Kankan est réputé plus nutritif que les variétés importées.", "La période de récolte en novembre est la phase économique cruciale de la région.", "Les femmes occupent une place centrale dans la transformation et la vente du riz.", "Les rizières constituent un habitat vital pour les oiseaux migrateurs."],
     }, image: "/poi-images/kankan-rice-fields-life-v2.webp"},
   {
-    id: "fouta-djallon-coffee-life-v2",
+    id: "fouta-djallon-coffee-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "Das Petit Musée du Fouta ist ein Kulturmuseum, das traditionelle lokale Artefakte aus dem Hochland von Fouta Djallon in kompakten Räumen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "A Petit Musée du Fouta egy kulturális múzeum, amely a Fouta Djallon-fennsík hagyományos helyi leleteit mutatja be kis termekben.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "Petit Musée du Fouta este un muzeu cultural care expune artefacte tradiționale locale din regiunea muntoasă Fouta Djallon.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "Petit Musée du Fouta is a cultural museum showcasing traditional local artifacts from the Fouta Djallon highlands in a compact building.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GN-L",
     coords: [-12.3, 11.3],
@@ -315,7 +405,124 @@ export const poiExtraGuineaLifeV2: POI[] = [
       fr: ["Le jardin a été créé en 1894 comme jardin d'essai pour les cultures tropicales.", "Il abrite certains des plus vieux kapokiers de la ville de Conakry.", "Le site est un refuge important pour les oiseaux urbains et les petits mammifères.", "Des parties du jardin sont utilisées pour des études forestières.", "Le jardin botanique est situé à proximité immédiate du littoral atlantique.", "L'entrée est ouverte au public pour la détente et les loisirs."],
     }, image: "/poi-images/conakry-botanical-garden-life-v2.webp"},
   {
-    id: "nzerekore-palm-oil-life-v2",
+    id: "nzerekore-palm-oil-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Die Place des Martyrs ist ein Gedenkmonument in der lebhaften Stadt Nzérékoré.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            },
+            {
+                  "name": "Les Bas-Fonds",
+                  "text": "Les Bas-Fonds ist eine Naturattraktion in den tiefer gelegenen Feuchtgebieten von Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.797988,
+                        7.734937
+                  ]
+            },
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "Carrefour Dix-Huit-Horia ist eine belebte städtische Kreuzung, die als zentraler Treffpunkt in Nzérékoré dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "A Place des Martyrs egy emlékmű Nzérékoré nyüzsgő városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            },
+            {
+                  "name": "Les Bas-Fonds",
+                  "text": "A Les Bas-Fonds egy természeti látványosság Nzérékoré alacsonyan fekvő vizes élőhelyein.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.797988,
+                        7.734937
+                  ]
+            },
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "A Carrefour Dix-Huit-Horia egy forgalmas városi útkereszteződés, amely központi találkozóhelyként szolgál Nzérékoréban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Place des Martyrs este un monument comemorativ situat în orașul plin de viață Nzérékoré.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            },
+            {
+                  "name": "Les Bas-Fonds",
+                  "text": "Les Bas-Fonds este o atracție naturală situată în zonele umede joase din Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.797988,
+                        7.734937
+                  ]
+            },
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "Carrefour Dix-Huit-Horia este o intersecție urbană plină de viață, servind drept punct central de întâlnire în Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Place des Martyrs is a commemorative monument situated in the vibrant city of Nzérékoré.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            },
+            {
+                  "name": "Les Bas-Fonds",
+                  "text": "Les Bas-Fonds is a natural attraction nestled in the low-lying wetlands of Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.797988,
+                        7.734937
+                  ]
+            },
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "Carrefour Dix-Huit-Horia is a bustling urban intersection serving as a central meeting point in Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GN-N",
     coords: [-8.8, 7.7],
@@ -471,7 +678,52 @@ export const poiExtraGuineaLifeV2: POI[] = [
       fr: ["Kissidougou se trouve dans un écotone entre forêt et savane.", "Les 'forêts sacrées' sont protégées par des tabous traditionnels stricts.", "Des groupes isolés de chimpanzés d'Afrique de l'Ouest vivent dans ces îlots.", "La région est un centre d'étude sur la foresterie indigène.", "Les forêts régulent le microclimat local et empêchent l'érosion.", "Kissidougou abrite une immense diversité de plantes médicinales locales."],
     }, image: "/poi-images/kissidougou-forest-habitat-life-v2.webp"},
   {
-    id: "dubreka-mangrove-habitats-life-v2",
+    id: "dubreka-mangrove-habitats-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "Inmitten der küstennahen Mangrovenlebensräume von Dubréka veranstaltet dieses Kulturzentrum lokale Aufführungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "A Dubréka part menti mangrove-élőhelyeivel körülvett művészeti központ helyi kulturális előadásoknak és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "Înconjurat de habitatele de mangrove de coastă din Dubréka, acest centru de arte găzduiește spectacole și expoziții culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "Surrounded by the coastal mangrove habitats of Dubréka, this arts centre hosts local cultural performances and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GN-D",
     coords: [-13.5, 9.8],

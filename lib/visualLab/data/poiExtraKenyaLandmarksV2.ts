@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraKenyaLandmarksV2: POI[] = [
   {
-    id: "ke-kenyatta-international-convention-centre-landmarks-v2",
+    id: "ke-kenyatta-international-convention-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "KICC Observation Plattform",
+                  "text": "Auf einem markanten zylindrischen Hochhaus gelegen, bietet diese Aussichtsplattform einen Panoramablick über die Skyline der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.823206,
+                        -1.288716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KICC Observation Plattform",
+                  "text": "A kiemelkedő hengeres toronyház tetején található kilátó panorámás kilátást nyújt a város sziluettjére.",
+                  "category": "landmark",
+                  "coords": [
+                        36.823206,
+                        -1.288716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KICC Observation Plattform",
+                  "text": "Situată pe o clădire cilindrică înaltă și proeminentă, această punte de observație oferă vederi panoramice asupra orizontului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        36.823206,
+                        -1.288716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KICC Observation Plattform",
+                  "text": "Located atop a prominent cylindrical high-rise, this observation deck provides panoramic views over the city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        36.823206,
+                        -1.288716
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8228, -1.2886],
@@ -198,7 +243,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-britam-tower-landmarks-v2.webp"},
   {
-    id: "ke-uap-old-mutual-tower-landmarks-v2",
+    id: "ke-uap-old-mutual-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strathmore University Auditorium",
+                  "text": "Dieses akademische Theater veranstaltet Events und Aufführungen auf dem Universitätscampus in Nairobi.",
+                  "category": "cultural",
+                  "coords": [
+                        36.813882,
+                        -1.310104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strathmore University Auditorium",
+                  "text": "Ez az egyetemi színház rendezvényeknek és előadásoknak ad otthont a nairobi egyetemi kampuszon.",
+                  "category": "cultural",
+                  "coords": [
+                        36.813882,
+                        -1.310104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strathmore University Auditorium",
+                  "text": "Acest teatru academic găzduiește evenimente și spectacole în campusul universitar din Nairobi.",
+                  "category": "cultural",
+                  "coords": [
+                        36.813882,
+                        -1.310104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strathmore University Auditorium",
+                  "text": "This academic theatre hosts events and performances within the university campus in Nairobi.",
+                  "category": "cultural",
+                  "coords": [
+                        36.813882,
+                        -1.310104
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.816, -1.2985],
@@ -263,7 +353,196 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-uap-old-mutual-tower-landmarks-v2.webp"},
   {
-    id: "ke-global-trade-centre-landmarks-v2",
+    id: "ke-global-trade-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mathematics Lecture Theater",
+                  "text": "Dieser akademische Hörsaal im Universitätsviertel nahe dem Global Trade Centre beherbergt regelmäßig Mathematikvorlesungen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.806985,
+                        -1.273963
+                  ]
+            },
+            {
+                  "name": "Science Lecture theater 2",
+                  "text": "Dieser abgestufte Hörsaal auf dem Universitätscampus in der Nähe des Global Trade Centre ist ein Hauptveranstaltungsort für naturwissenschaftliche Vorlesungen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.804471,
+                        -1.27389
+                  ]
+            },
+            {
+                  "name": "The Art Space Kenya",
+                  "text": "Diese zeitgenössische kommerzielle Galerie in Nairobi zeigt Werke von aufstrebenden und etablierten ostafrikanischen bildenden Künstlern.",
+                  "category": "museum",
+                  "coords": [
+                        36.80439,
+                        -1.272877
+                  ]
+            },
+            {
+                  "name": "Biology lecture theatre 1 & 2",
+                  "text": "Diese beiden akademischen Säle auf dem Universitätscampus in Nairobi sind speziell für biowissenschaftliche Präsentationen auf Universitätsniveau ausgestattet.",
+                  "category": "cultural",
+                  "coords": [
+                        36.805653,
+                        -1.274051
+                  ]
+            },
+            {
+                  "name": "Millenium Hall 1",
+                  "text": "Dieser geräumige, moderne Vorlesungs- und Veranstaltungssaal im Campusviertel beherbergt große akademische Zusammenkünfte und Studentenversammlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.807713,
+                        -1.272966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mathematics Lecture Theater",
+                  "text": "Ez a Global Trade Centre közelében, az egyetemi negyedben található előadóterem ad otthont a rendszeres matematika kurzusoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        36.806985,
+                        -1.273963
+                  ]
+            },
+            {
+                  "name": "Science Lecture theater 2",
+                  "text": "A Global Trade Centre közelében, az egyetemi kampuszon található lépcsőzetes előadóterem a természettudományi előadások fő helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        36.804471,
+                        -1.27389
+                  ]
+            },
+            {
+                  "name": "The Art Space Kenya",
+                  "text": "Ez a kortárs nairobi kereskedelmi galéria feltörekvő és elismert kelet-afrikai képzőművészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        36.80439,
+                        -1.272877
+                  ]
+            },
+            {
+                  "name": "Biology lecture theatre 1 & 2",
+                  "text": "Ezek a nairobi egyetemi kampuszon található iker előadótermek kifejezetten egyetemi szintű biológiai előadások megtartására lettek felszerelve.",
+                  "category": "cultural",
+                  "coords": [
+                        36.805653,
+                        -1.274051
+                  ]
+            },
+            {
+                  "name": "Millenium Hall 1",
+                  "text": "Ez a kampuszkörzetben található tágas, modern előadó- és rendezvényterem nagy akadémiai összejöveteleknek és hallgatói gyűléseknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        36.807713,
+                        -1.272966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mathematics Lecture Theater",
+                  "text": "Această sală de curs academică din cartierul universitar, aproape de Global Trade Centre, găzduiește regulat cursuri de matematică.",
+                  "category": "cultural",
+                  "coords": [
+                        36.806985,
+                        -1.273963
+                  ]
+            },
+            {
+                  "name": "Science Lecture theater 2",
+                  "text": "Situată în campusul universitar de lângă Global Trade Centre, această sală de curs în trepte este un loc principal pentru prelegerile de științe.",
+                  "category": "cultural",
+                  "coords": [
+                        36.804471,
+                        -1.27389
+                  ]
+            },
+            {
+                  "name": "The Art Space Kenya",
+                  "text": "Această galerie comercială contemporană din Nairobi expune lucrări ale artiștilor vizuali emergenți și consacrați din Africa de Est.",
+                  "category": "museum",
+                  "coords": [
+                        36.80439,
+                        -1.272877
+                  ]
+            },
+            {
+                  "name": "Biology lecture theatre 1 & 2",
+                  "text": "Aceste săli academice gemene din campusul universitar din Nairobi sunt special echipate pentru prezentări universitare de științe biologice.",
+                  "category": "cultural",
+                  "coords": [
+                        36.805653,
+                        -1.274051
+                  ]
+            },
+            {
+                  "name": "Millenium Hall 1",
+                  "text": "Această sală de curs și evenimente spațioasă și modernă din cartierul campusului găzduiește mari adunări academice și adunări studențești.",
+                  "category": "cultural",
+                  "coords": [
+                        36.807713,
+                        -1.272966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mathematics Lecture Theater",
+                  "text": "This academic lecture hall, located in the university district near the Global Trade Centre, hosts regular university mathematics courses.",
+                  "category": "cultural",
+                  "coords": [
+                        36.806985,
+                        -1.273963
+                  ]
+            },
+            {
+                  "name": "Science Lecture theater 2",
+                  "text": "Located within the university campus near the Global Trade Centre, this stepped theater is a primary venue for academic science lectures.",
+                  "category": "cultural",
+                  "coords": [
+                        36.804471,
+                        -1.27389
+                  ]
+            },
+            {
+                  "name": "The Art Space Kenya",
+                  "text": "This contemporary commercial gallery in Nairobi showcases works by emerging and established East African visual artists.",
+                  "category": "museum",
+                  "coords": [
+                        36.80439,
+                        -1.272877
+                  ]
+            },
+            {
+                  "name": "Biology lecture theatre 1 & 2",
+                  "text": "These twin academic halls on the Nairobi university campus are specifically equipped for university-level life science presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        36.805653,
+                        -1.274051
+                  ]
+            },
+            {
+                  "name": "Millenium Hall 1",
+                  "text": "This spacious modern lecture and event hall in the campus district hosts large academic gatherings and student assemblies.",
+                  "category": "cultural",
+                  "coords": [
+                        36.807713,
+                        -1.272966
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.804, -1.272],
@@ -329,7 +608,124 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "ke-nyayo-national-stadium-landmarks-v2",
+    id: "ke-nyayo-national-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "KIMC Film Department",
+                  "text": "Ein Aussichtspunkt am Kenya Institute of Mass Communication, der Blicke über den umliegenden Bezirk von Nairobi bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.831539,
+                        -1.310117
+                  ]
+            },
+            {
+                  "name": "The GoDown Arts Centre",
+                  "text": "Eine prominente multidisziplinäre Kunsteinrichtung in Nairobi, die in einem umgebauten Lagerhaus untergebracht ist und lokale Ausstellungen und Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        36.829389,
+                        -1.298978
+                  ]
+            },
+            {
+                  "name": "Athletics Museum",
+                  "text": "Ein Museum in der Nähe des Nyayo National Stadium, das der Sportgeschichte und den Erfolgen kenianischer Langstreckenläufer gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        36.82365,
+                        -1.300289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KIMC Film Department",
+                  "text": "A Kenyai Tömegkommunikációs Intézet egyik kilátópontja, amely a környező nairobi kerületre nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        36.831539,
+                        -1.310117
+                  ]
+            },
+            {
+                  "name": "The GoDown Arts Centre",
+                  "text": "Nairobi egy kiemelkedő, átalakított raktárépületben működő multidiszciplináris művészeti létesítménye, amely helyi kiállításoknak és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        36.829389,
+                        -1.298978
+                  ]
+            },
+            {
+                  "name": "Athletics Museum",
+                  "text": "A Nyayo Nemzeti Stadion közelében található múzeum, amelyet a kenyai hosszútávfutók sporttörténetének és eredményeinek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        36.82365,
+                        -1.300289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KIMC Film Department",
+                  "text": "Un punct de observație la Institutul de Comunicare în Masă din Kenya, oferind priveliști asupra cartierului înconjurător din Nairobi.",
+                  "category": "natural",
+                  "coords": [
+                        36.831539,
+                        -1.310117
+                  ]
+            },
+            {
+                  "name": "The GoDown Arts Centre",
+                  "text": "O importantă facilitate de artă multidisciplinară din Nairobi, găzduită într-un depozit transformat, ce organizează expoziții și spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        36.829389,
+                        -1.298978
+                  ]
+            },
+            {
+                  "name": "Athletics Museum",
+                  "text": "Un muzeu dedicat istoriei sportive și realizărilor alergătorilor de cursă lungă kenyeni, lângă Stadionul Național Nyayo.",
+                  "category": "museum",
+                  "coords": [
+                        36.82365,
+                        -1.300289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KIMC Film Department",
+                  "text": "An observation point at the Kenya Institute of Mass Communication, offering views over the surrounding Nairobi district.",
+                  "category": "natural",
+                  "coords": [
+                        36.831539,
+                        -1.310117
+                  ]
+            },
+            {
+                  "name": "The GoDown Arts Centre",
+                  "text": "A prominent multidisciplinary arts facility in Nairobi housed in a converted warehouse, hosting local exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        36.829389,
+                        -1.298978
+                  ]
+            },
+            {
+                  "name": "Athletics Museum",
+                  "text": "A museum dedicated to the sporting history and achievements of Kenyan long-distance runners near Nyayo National Stadium.",
+                  "category": "museum",
+                  "coords": [
+                        36.82365,
+                        -1.300289
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8258, -1.3039],
@@ -394,7 +790,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-nyayo-national-stadium-landmarks-v2.webp"},
   {
-    id: "ke-kasarani-stadium-landmarks-v2",
+    id: "ke-kasarani-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Temple of Dawn",
+                  "text": "Bekannt für seinen hoch aufragenden, mit Porzellan verkrusteten Prang, ist dieses Gotteshaus am Flussufer ein markantes architektonisches Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        36.930266,
+                        -1.197341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Temple of Dawn",
+                  "text": "A tornyosuló, porcelánnal kirakott prangjáról ismert folyóparti istentiszteleti hely egy feltűnő építészeti mérföldkő.",
+                  "category": "religious",
+                  "coords": [
+                        36.930266,
+                        -1.197341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Temple of Dawn",
+                  "text": "Cunoscut pentru prangul său impunător, încrustat cu porțelan, acest lăcaș de cult de pe malul râului este un punct de reper arhitectural izbitor.",
+                  "category": "religious",
+                  "coords": [
+                        36.930266,
+                        -1.197341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple of Dawn, name:en=Wat Arun Ratchawararam",
+                  "text": "Known for its towering, porcelain-encrusted prang, this riverside place of worship is a striking architectural landmark.",
+                  "category": "religious",
+                  "coords": [
+                        36.930266,
+                        -1.197341
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8916, -1.2269],
@@ -459,7 +900,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-kasarani-stadium-landmarks-v2.webp"},
   {
-    id: "ke-jamia-mosque-landmarks-v2",
+    id: "ke-jamia-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khoja Mosque",
+                  "text": "Diese in den 1920er Jahren mit markanter Steinarchitektur und einem Uhrenturm erbaute Moschee in Nairobi ist ein wichtiges religiöses Zentrum für die ismailitische muslimische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        36.821624,
+                        -1.28147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khoja Mosque",
+                  "text": "Az 1920-as években épült, feltűnő kőépítészettel és óratoronnyal rendelkező nairobi mecset az iszmáilita muszlim közösség egyik legfontosabb vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        36.821624,
+                        -1.28147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khoja Mosque",
+                  "text": "Construită în anii 1920 cu o arhitectură impresionantă din piatră și un turn cu ceas proeminent, această moschee din Nairobi este un centru religios cheie pentru comunitatea musulmană ismailită.",
+                  "category": "religious",
+                  "coords": [
+                        36.821624,
+                        -1.28147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khoja Mosque",
+                  "text": "Built in the 1920s with striking stone architecture and a prominent clock tower, this Nairobi mosque is a key religious center for the Ismaili Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        36.821624,
+                        -1.28147
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8207, -1.2825],
@@ -524,7 +1010,124 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-jamia-mosque-landmarks-v2.webp"},
   {
-    id: "ke-all-saints-cathedral-landmarks-v2",
+    id: "ke-all-saints-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uhuru Park Museum",
+                  "text": "Das Uhuru Park Museum, das in der Nähe von Nairobis prominenten Grünflächen liegt, zeigt Ausstellungen zur nationalen Geschichte und Unabhängigkeit Kenias.",
+                  "category": "museum",
+                  "coords": [
+                        36.816428,
+                        -1.290445
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Der Central Park ist eine weitläufige grüne Oase neben dem Uhuru Park in Nairobi, die das imposante Nyayo-Denkmal und schattige Gehwege bietet.",
+                  "category": "park",
+                  "coords": [
+                        36.815292,
+                        -1.285106
+                  ]
+            },
+            {
+                  "name": "Nairobi Gallery",
+                  "text": "Die Nairobi Gallery ist in einem historischen Gebäude aus dem Jahr 1913 am Point Zero untergebracht und zeigt saisonale Kunstausstellungen sowie die Murumbi African Heritage-Kollektion.",
+                  "category": "museum",
+                  "coords": [
+                        36.817887,
+                        -1.286752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uhuru Park Museum",
+                  "text": "A Nairobi jelentős zöldövezetei közelében található Uhuru Park Múzeum Kenya nemzeti történelmével és függetlenségével kapcsolatos kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        36.816428,
+                        -1.290445
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "A Central Park egy kiterjedt zöld oázis az Uhuru Park mellett Nairobiban, ahol az impozáns Nyayo-emlékmű és árnyékos sétányok találhatók.",
+                  "category": "park",
+                  "coords": [
+                        36.815292,
+                        -1.285106
+                  ]
+            },
+            {
+                  "name": "Nairobi Gallery",
+                  "text": "A Point Zero 1913-as műemléképületében található Nairobi Galéria szezonális művészeti kiállításokkal és a Murumbi afrikai örökség gyűjteménnyel várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        36.817887,
+                        -1.286752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uhuru Park Museum",
+                  "text": "Muzeul Parcului Uhuru, situat în apropierea spațiilor verzi proeminente din Nairobi, prezintă expoziții legate de istoria națională și independența Kenyei.",
+                  "category": "museum",
+                  "coords": [
+                        36.816428,
+                        -1.290445
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Parcul Central este o oază verde extinsă adiacentă Parcului Uhuru din Nairobi, care prezintă impunătorul monument Nyayo și alei umbrite.",
+                  "category": "park",
+                  "coords": [
+                        36.815292,
+                        -1.285106
+                  ]
+            },
+            {
+                  "name": "Nairobi Gallery",
+                  "text": "Găzduită într-o clădire de patrimoniu din 1913 la Punctul Zero, Galeria Nairobi prezintă expoziții de artă sezoniere și colecția de patrimoniu african Murumbi.",
+                  "category": "museum",
+                  "coords": [
+                        36.817887,
+                        -1.286752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uhuru Park Museum",
+                  "text": "The Uhuru Park Museum, situated near Nairobi's prominent green spaces, displays exhibits related to Kenya's national history and independence.",
+                  "category": "museum",
+                  "coords": [
+                        36.816428,
+                        -1.290445
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Central Park is an expansive green oasis adjacent to Uhuru Park in Nairobi, featuring the imposing Nyayo monument and shaded walkways.",
+                  "category": "park",
+                  "coords": [
+                        36.815292,
+                        -1.285106
+                  ]
+            },
+            {
+                  "name": "Nairobi Gallery",
+                  "text": "Housed in a heritage 1913 building at Point Zero, the Nairobi Gallery features seasonal art exhibitions and the Murumbi African Heritage collection.",
+                  "category": "museum",
+                  "coords": [
+                        36.817887,
+                        -1.286752
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8173, -1.2861],
@@ -589,7 +1192,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-all-saints-cathedral-landmarks-v2.webp"},
   {
-    id: "ke-holy-family-basilica-landmarks-v2",
+    id: "ke-holy-family-basilica-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cross",
+                  "text": "Dieses religiöse Denkmal ist durch ein markantes Kreuz gekennzeichnet, das sich prominent auf dem Außengelände der Basilika befindet.",
+                  "category": "historical",
+                  "coords": [
+                        36.820113,
+                        -1.287492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cross",
+                  "text": "Ez a vallási emlékmű egy feltűnő kereszttel rendelkezik, amely a bazilika szabadtéri területén található.",
+                  "category": "historical",
+                  "coords": [
+                        36.820113,
+                        -1.287492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cross",
+                  "text": "Acest monument religios prezintă o cruce proeminentă situată pe terenurile exterioare ale bazilicii.",
+                  "category": "historical",
+                  "coords": [
+                        36.820113,
+                        -1.287492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cross",
+                  "text": "This religious monument features a prominent cross situated prominently within the basilica's outdoor grounds.",
+                  "category": "historical",
+                  "coords": [
+                        36.820113,
+                        -1.287492
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8213, -1.2872],
@@ -654,7 +1302,124 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-holy-family-basilica-landmarks-v2.webp"},
   {
-    id: "ke-baps-shri-swaminarayan-mandir-landmarks-v2",
+    id: "ke-baps-shri-swaminarayan-mandir-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pool",
+                  "text": "Dieser Pool ist eine erfrischende Wasserpark-Anlage in der Nähe der lokalen Sehenswürdigkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        36.809504,
+                        -1.260702
+                  ]
+            },
+            {
+                  "name": "East Africa Satsang Swaminarayan Temple",
+                  "text": "Der East Africa Satsang Swaminarayan Temple ist ein hinduistisches Gotteshaus in Nairobi.",
+                  "category": "religious",
+                  "coords": [
+                        36.816152,
+                        -1.268688
+                  ]
+            },
+            {
+                  "name": "City Park",
+                  "text": "Der City Park ist eine öffentliche Grünfläche im Stadtteil Parklands in Nairobi.",
+                  "category": "park",
+                  "coords": [
+                        36.828721,
+                        -1.263914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pool",
+                  "text": "Ez a medence egy frissítő vízipark-létesítmény a helyi nevezetességek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        36.809504,
+                        -1.260702
+                  ]
+            },
+            {
+                  "name": "East Africa Satsang Swaminarayan Temple",
+                  "text": "Az East Africa Satsang Swaminarayan-templom egy hindu istentiszteleti hely Nairobiban.",
+                  "category": "religious",
+                  "coords": [
+                        36.816152,
+                        -1.268688
+                  ]
+            },
+            {
+                  "name": "City Park",
+                  "text": "A City Park egy nyilvános zöldterület Nairobi Parklands negyedében.",
+                  "category": "park",
+                  "coords": [
+                        36.828721,
+                        -1.263914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pool",
+                  "text": "Această piscină este o atracție revigorantă a unui parc acvatic din apropierea reperelor locale.",
+                  "category": "recreational",
+                  "coords": [
+                        36.809504,
+                        -1.260702
+                  ]
+            },
+            {
+                  "name": "East Africa Satsang Swaminarayan Temple",
+                  "text": "Templul East Africa Satsang Swaminarayan este un lăcaș de cult hindus situat în Nairobi.",
+                  "category": "religious",
+                  "coords": [
+                        36.816152,
+                        -1.268688
+                  ]
+            },
+            {
+                  "name": "City Park",
+                  "text": "City Park este un spațiu verde public situat în zona Parklands din Nairobi.",
+                  "category": "park",
+                  "coords": [
+                        36.828721,
+                        -1.263914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pool",
+                  "text": "This pool is a refreshing water park feature near the local landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        36.809504,
+                        -1.260702
+                  ]
+            },
+            {
+                  "name": "East Africa Satsang Swaminarayan Temple",
+                  "text": "The East Africa Satsang Swaminarayan Temple is a Hindu place of worship in Nairobi.",
+                  "category": "religious",
+                  "coords": [
+                        36.816152,
+                        -1.268688
+                  ]
+            },
+            {
+                  "name": "City Park",
+                  "text": "City Park is a public green space located in the Parklands area of Nairobi.",
+                  "category": "park",
+                  "coords": [
+                        36.828721,
+                        -1.263914
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8203, -1.266],
@@ -719,7 +1484,160 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-baps-shri-swaminarayan-mandir-landmarks-v2.webp"},
   {
-    id: "ke-kenya-national-theatre-landmarks-v2",
+    id: "ke-kenya-national-theatre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "OC monument",
+                  "text": "Dieses historische städtische Denkmal in der Nähe des kenianischen Nationaltheaters ehrt das lokale Erbe im belebten Kulturviertel von Nairobi.",
+                  "category": "historical",
+                  "coords": [
+                        36.816659,
+                        -1.279758
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum Nairobi",
+                  "text": "Dieses führende Museum in Nairobi zeigt umfangreiche Sammlungen zur reichen Geschichte, Paläontologie und zum vielfältigen kulturellen Erbe Kenias.",
+                  "category": "museum",
+                  "coords": [
+                        36.814988,
+                        -1.274001
+                  ]
+            },
+            {
+                  "name": "Herbarium",
+                  "text": "Diese wichtige botanische Einrichtung ist im Komplex des Nationalmuseums in Nairobi untergebracht und bewahrt Tausende von Pflanzenexemplaren aus ganz Ostafrika auf.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816065,
+                        -1.274085
+                  ]
+            },
+            {
+                  "name": "Nationaltheater Kenias",
+                  "text": "Dieser 1952 eröffnete historische Veranstaltungsort in Nairobi bietet Theaterstücke, traditionelle kenianische Musik und internationale Bühnenproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.815628,
+                        -1.278621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "OC monument",
+                  "text": "A Kenyai Nemzeti Színház közelében található történelmi városi emlékmű a helyi örökség előtt tiszteleg Nairobi nyüzsgő kulturális negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        36.816659,
+                        -1.279758
+                  ]
+            },
+            {
+                  "name": "Nairobi National Museum",
+                  "text": "Ez a kiemelkedő nairobi múzeum gazdag gyűjteményeket mutat be Kenya történelmével, őslénytanával és sokszínű kulturális örökségével kapcsolatban.",
+                  "category": "museum",
+                  "coords": [
+                        36.814988,
+                        -1.274001
+                  ]
+            },
+            {
+                  "name": "Herbarium",
+                  "text": "A nairobi Nemzeti Múzeum komplexumában található ez a fontos botanikai létesítmény, amely növényfajok ezreit őrzi Kelet-Afrikából.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816065,
+                        -1.274085
+                  ]
+            },
+            {
+                  "name": "Kenya National Theatre",
+                  "text": "Az 1952-ben megnyílt történelmi nairobi előadó-művészeti helyszín drámáknak, hagyományos kenyai zenének és nemzetközi színpadi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        36.815628,
+                        -1.278621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "OC monument",
+                  "text": "Situat în apropiere de Teatrul Național din Kenya, acest monument urban istoric onorează moștenirea locală în cartierul cultural plin de viață din Nairobi.",
+                  "category": "historical",
+                  "coords": [
+                        36.816659,
+                        -1.279758
+                  ]
+            },
+            {
+                  "name": "Nairobi National Museum",
+                  "text": "Acest muzeu emblematic din Nairobi expune colecții extinse referitoare la istoria bogată a Kenyei, paleontologie și moștenirea culturală diversă.",
+                  "category": "museum",
+                  "coords": [
+                        36.814988,
+                        -1.274001
+                  ]
+            },
+            {
+                  "name": "Herbarium",
+                  "text": "Găzduită în complexul Muzeului Național din Nairobi, această facilitate botanică vitală conservă mii de specimene de plante din întreaga Africă de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816065,
+                        -1.274085
+                  ]
+            },
+            {
+                  "name": "Kenya National Theatre",
+                  "text": "Deschisă în 1952, această locație istorică de arte spectacole din Nairobi găzduiește piese de teatru, muzică tradițională kenyană și producții internaționale de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        36.815628,
+                        -1.278621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "OC monument",
+                  "text": "Located near the Kenya National Theatre, this historic urban monument honors local heritage within the bustling cultural district of Nairobi.",
+                  "category": "historical",
+                  "coords": [
+                        36.816659,
+                        -1.279758
+                  ]
+            },
+            {
+                  "name": "Nairobi National Museum",
+                  "text": "This flagship museum in Nairobi displays extensive collections relating to Kenya's rich history, paleontology, and diverse cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        36.814988,
+                        -1.274001
+                  ]
+            },
+            {
+                  "name": "Herbarium",
+                  "text": "Housed within the National Museum complex in Nairobi, this vital botanical facility preserves thousands of plant specimens from across East Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816065,
+                        -1.274085
+                  ]
+            },
+            {
+                  "name": "Kenya National Theatre",
+                  "text": "Opened in 1952, this historic performing arts venue in Nairobi hosts dramatic plays, traditional Kenyan music, and international stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        36.815628,
+                        -1.278621
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8164, -1.2801],
@@ -849,7 +1767,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-parliament-buildings-landmarks-v2.webp"},
   {
-    id: "ke-supreme-court-kenya-landmarks-v2",
+    id: "ke-supreme-court-kenya-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Judiciary Museum",
+                  "text": "Das Justizmuseum in Nairobi dokumentiert die kenianische Rechtsgeschichte anhand historischer Gerichtsartefakte.",
+                  "category": "museum",
+                  "coords": [
+                        36.823336,
+                        -1.287603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Judiciary Museum",
+                  "text": "A nairobi igazságügyi múzeum történelmi bírósági tárgyakon keresztül mutatja be Kenya jogtörténetét.",
+                  "category": "museum",
+                  "coords": [
+                        36.823336,
+                        -1.287603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Judiciary Museum",
+                  "text": "Muzeul Judiciar din Nairobi cronicizează istoria juridică a Kenyei prin artefacte judiciare istorice.",
+                  "category": "museum",
+                  "coords": [
+                        36.823336,
+                        -1.287603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Judiciary Museum",
+                  "text": "The Judiciary Museum in Nairobi chronicles Kenya's legal history through historical court artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        36.823336,
+                        -1.287603
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8225, -1.2878],
@@ -914,7 +1877,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-supreme-court-kenya-landmarks-v2.webp"},
   {
-    id: "ke-nairobi-railway-station-landmarks-v2",
+    id: "ke-nairobi-railway-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wood market",
+                  "text": "Diese lebhafte Open-Air-Attraktion präsentiert eine große Auswahl an handgeschnitzten Holzskulpturen und lokalen Holzprodukten.",
+                  "category": "landmark",
+                  "coords": [
+                        36.844944,
+                        -1.286413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wood market",
+                  "text": "Ez a nyüzsgő szabadtéri látványosság a kézműves faszobrok és helyi fatermékek széles választékát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        36.844944,
+                        -1.286413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wood market",
+                  "text": "Această atracție vibrantă în aer liber prezintă o gamă vastă de sculpturi din lemn lucrate manual și produse din lemn local.",
+                  "category": "landmark",
+                  "coords": [
+                        36.844944,
+                        -1.286413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wood market",
+                  "text": "This vibrant open-air attraction showcases a vast array of handcrafted wooden sculptures and local timber products.",
+                  "category": "landmark",
+                  "coords": [
+                        36.844944,
+                        -1.286413
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8286, -1.2917],
@@ -979,7 +1987,88 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-nairobi-railway-station-landmarks-v2.webp"},
   {
-    id: "ke-mombasa-tusks-landmarks-v2",
+    id: "ke-mombasa-tusks-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Ein kultureller Veranstaltungsort für darstellende Künste, in dem lokale Theaterstücke und gemeinschaftliche Theaterevents stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664815,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Fähre von Likoni",
+                  "text": "Ein geschäftiger Fährbetrieb, der Fahrzeuge und Fußgänger über den Kilindini-Hafen transportiert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.662775,
+                        -4.08218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Kulturális előadó-művészeti helyszín, amely helyi színpadi daraboknak és közösségi színházi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664815,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Likoni Ferry",
+                  "text": "Forgalmas kompjárat, amely járműveket és gyalogosokat szállít a Kilindini kikötőn keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        39.662775,
+                        -4.08218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Little Theatre Club",
+                  "text": "O locație culturală de arte spectacolului care găzduiește piese de teatru locale și evenimente teatrale comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664815,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Likoni Ferry",
+                  "text": "Un serviciu aglomerat de bărci care transportă vehicule și pasageri pietoni peste portul Kilindini.",
+                  "category": "landmark",
+                  "coords": [
+                        39.662775,
+                        -4.08218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Little Theatre Club",
+                  "text": "A cultural performing arts venue hosting local stage plays and community theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664815,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Likoni Ferry",
+                  "text": "A bustling boat service transporting vehicles and foot passengers across Kilindini Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        39.662775,
+                        -4.08218
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-28",
     coords: [39.6644, -4.062],
@@ -1044,7 +2133,124 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-mombasa-tusks-landmarks-v2.webp"},
   {
-    id: "ke-nyali-bridge-landmarks-v2",
+    id: "ke-nyali-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Market",
+                  "text": "Dieser belebte Freiluftmarkt in der Nähe der Brücke ist voller Verkaufsstände mit frischen regionalen Produkten und Alltagsgütern.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Mavi Mavi Beach ist ein malerischer Sandstrandabschnitt mit direktem Gezeitenzugang zu den warmen Gewässern des Indischen Ozeans.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Die Kengeleni-Glocke ist ein historisches Denkmal nahe der Nyali-Brücke, das im 19. Jahrhundert dazu diente, Einheimische vor herannahenden Sklavenschiffen zu warnen.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Market",
+                  "text": "Ez a hídhoz közeli nyüzsgő szabadtéri piac tele van friss regionális termékeket és mindennapi cikkeket árusító standokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "A Mavi Mavi Beach egy festői homokos partvidék, amely közvetlen hozzáférést biztosít az Indiai-óceán vizéhez az árapály zónában.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "A Kengeleni-harang egy történelmi műemlék a Nyali-híd közelében, amellyel a 19. században a közeledő rabszolgahajókra figyelmeztették a helyieket.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Market",
+                  "text": "Această piață aglomerată în aer liber, de lângă pod, este plină de tarabe ce oferă produse regionale proaspete.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Plaja Mavi Mavi este o zonă de coastă nisipoasă pitorească, oferind acces direct la apele Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Clopotul Kengeleni este un monument istoric de lângă Podul Nyali, folosit în secolul al XIX-lea pentru a avertiza localnicii de apropierea navelor de sclavi.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Market",
+                  "text": "This bustling open-air marketplace near the bridge is packed with vendor stalls selling fresh regional produce and everyday goods.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Mavi Mavi Beach is a scenic sandy coastal area offering direct tidal access to the warm waters of the Indian Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "The Kengeleni Bell is a historical monument near the Nyali Bridge, famously used in the 19th century to warn locals of approaching slave ships.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-28",
     coords: [39.6732, -4.0398],
@@ -1109,7 +2315,232 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-nyali-bridge-landmarks-v2.webp"},
   {
-    id: "ke-mandhry-mosque-landmarks-v2",
+    id: "ke-mandhry-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leven House",
+                  "text": "Ein historisches mehrstöckiges Gebäude mit klassischer Küstenarchitektur in der Nähe der alten Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "Ein historisches Unterkunftsgebäude aus dem Jahr 1901, das die frühe koloniale Gastfreundschaft repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "The Pegasus Gun",
+                  "text": "Ein ausgemustertes Marineartilleriegeschütz, das als markantes historisches Kriegsdenkmal ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67927,
+                        -4.062132
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "Ein üppiger Innenbereich, der lebendige, tropische Schmetterlinge in einem kontrollierten Lebensraum beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679299,
+                        -4.063395
+                  ]
+            },
+            {
+                  "name": "Kenyatta beach",
+                  "text": "Ein sehr beliebter öffentlicher Sandstrand, der warmes Wasser und Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.696023,
+                        -4.062003
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "Ein Sandstrand, der einen malerischen Blick über den Meeresarm auf die historische Altstadt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.683702,
+                        -4.057305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leven House",
+                  "text": "Történelmi többszintes épület klasszikus part menti építészettel a régi mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "1901-ből származó történelmi szállásépület, amely a korai gyarmati vendéglátást képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "The Pegasus Gun",
+                  "text": "Leszerelt tengerészeti tüzérségi löveg, amelyet lenyűgöző történelmi háborús emlékműként állítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67927,
+                        -4.062132
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "Buja beltéri télikert, amely élénk, élő trópusi pillangóknak ad otthont szabályozott élőhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679299,
+                        -4.063395
+                  ]
+            },
+            {
+                  "name": "Kenyatta beach",
+                  "text": "Nagyon népszerű nyilvános homokos partszakasz, amely meleg vizet és tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        39.696023,
+                        -4.062003
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "Homokos partvidék, amely festői kilátást nyújt a patakon túl a történelmi óvárosra.",
+                  "category": "recreational",
+                  "coords": [
+                        39.683702,
+                        -4.057305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leven House",
+                  "text": "O clădire istorică cu mai multe etaje, cu o arhitectură de coastă clasică, lângă vechea moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "O clădire istorică de cazare datând din 1901, reprezentând ospitalitatea colonială timpurie.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "The Pegasus Gun",
+                  "text": "O piesă de artilerie navală retrasă, expusă ca un monument istoric de război impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67927,
+                        -4.062132
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "O seră interioară luxuriantă care găzduiește fluturi tropicali vii și vibranți într-un habitat controlat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679299,
+                        -4.063395
+                  ]
+            },
+            {
+                  "name": "Kenyatta beach",
+                  "text": "O întindere publică de coastă nisipoasă foarte populară, care oferă ape calde și recreere pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        39.696023,
+                        -4.062003
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "Un țărm nisipos care oferă vederi pitorești peste pârâu spre vechiul oraș istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        39.683702,
+                        -4.057305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leven House",
+                  "text": "A historic multi-story building featuring classic coastal architecture near the old mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "A historic accommodation building dating back to 1901, representing early colonial hospitality.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "The Pegasus Gun",
+                  "text": "A retired naval artillery piece displayed as a striking historical war monument.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67927,
+                        -4.062132
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A lush indoor conservatory housing vibrant, live tropical butterflies in a controlled habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679299,
+                        -4.063395
+                  ]
+            },
+            {
+                  "name": "Kenyatta beach",
+                  "text": "A highly popular public stretch of sandy coast offering warm waters and seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        39.696023,
+                        -4.062003
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "A sandy shoreline offering picturesque views across the creek towards the historic old town.",
+                  "category": "recreational",
+                  "coords": [
+                        39.683702,
+                        -4.057305
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-28",
     coords: [39.6775, -4.0592],
@@ -1174,7 +2605,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-mandhry-mosque-landmarks-v2.webp"},
   {
-    id: "ke-kilifi-bridge-landmarks-v2",
+    id: "ke-kilifi-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "Diese auf einer Klippe in Kilifi gelegene Stätte zeigt geschnitzte Korallensteinsäulen von Moscheen aus dem 14. Jahrhundert sowie eine Sammlung lokaler Reptilien.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "A Kilifiben egy sziklaszirt tetején található helyszín a 14. századi mecsetek faragott korallkő oszlopait és helyi hüllők gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "Situat în vârful unei stânci din Kilifi, acest sit prezintă stâlpi sculptați din piatră de coral aparținând unor moschei din secolul al XIV-lea, alături de o colecție de reptile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "Set atop a bluff in Kilifi, this site features carved coral-stone pillars of 14th-century mosques alongside a collection of local reptiles.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-14",
     coords: [39.8475, -3.6391],
@@ -1239,7 +2715,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-kilifi-bridge-landmarks-v2.webp"},
   {
-    id: "ke-nairobi-terminus-sgr-landmarks-v2",
+    id: "ke-nairobi-terminus-sgr-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "grace baptized church",
+                  "text": "Diese bescheidene Kirche in der Nähe des Nairobi Terminus dient der örtlichen Gemeinde und ist ein aktives Zentrum für Gottesdienste und Versammlungen der Baptisten.",
+                  "category": "landmark",
+                  "coords": [
+                        36.926331,
+                        -1.382722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "grace baptized church",
+                  "text": "A Nairobi Terminus közelében a helyi gyülekezetet szolgáló szerény templom a baptista közösség istentiszteleteinek és összejöveteleinek aktív központja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.926331,
+                        -1.382722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "grace baptized church",
+                  "text": "Deservind congregația locală în apropiere de Terminus Nairobi, această biserică modestă este un centru activ pentru cultul și adunările comunității baptiste.",
+                  "category": "landmark",
+                  "coords": [
+                        36.926331,
+                        -1.382722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "grace baptized church",
+                  "text": "Serving the local congregation near the Nairobi Terminus, this modest church is an active center for Baptist community worship and gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        36.926331,
+                        -1.382722
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.915, -1.3323],
@@ -1304,7 +2825,88 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-nairobi-terminus-sgr-landmarks-v2.webp"},
   {
-    id: "ke-mombasa-terminus-sgr-landmarks-v2",
+    id: "ke-mombasa-terminus-sgr-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mtswakara",
+                  "text": "Ein dichter, heiliger Hain, in dem die Mijikenda-Gemeinschaften der Küste traditionelle Rituale durchführen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52179,
+                        -4.007338
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Gandini",
+                  "text": "Ein alter bewaldeter Ritualplatz, der die Ahnengeister der lokalen Gemeinschaft beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.506472,
+                        -4.025732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mtswakara",
+                  "text": "Sűrű szent liget, ahol a part menti mijikenda közösségek hagyományos rituálékat végeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52179,
+                        -4.007338
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Gandini",
+                  "text": "Ősi erdős rituális terület, amely a helyi közösség ősi szellemeinek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        39.506472,
+                        -4.025732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mtswakara",
+                  "text": "Un crâng sacru dens, unde comunitățile Mijikenda de pe coastă efectuează ritualuri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52179,
+                        -4.007338
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Gandini",
+                  "text": "Un vechi teren ritualic împădurit care găzduiește spiritele ancestrale ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.506472,
+                        -4.025732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mtswakara",
+                  "text": "A dense sacred grove where the coastal Mijikenda communities perform traditional rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52179,
+                        -4.007338
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Gandini",
+                  "text": "An ancient forested ritual ground that houses the ancestral spirits of the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        39.506472,
+                        -4.025732
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-28",
     coords: [39.567, -4.015],
@@ -1369,7 +2971,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-mombasa-terminus-sgr-landmarks-v2.webp"},
   {
-    id: "ke-prism-tower-landmarks-v2",
+    id: "ke-prism-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "All Saints Cathedral",
+                  "text": "Diese anglikanische Kathedrale ist ein markantes Steinbauwerk, das der religiösen Gemeinschaft der Stadt dient.",
+                  "category": "religious",
+                  "coords": [
+                        36.813478,
+                        -1.289303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "All Saints Cathedral",
+                  "text": "Ez az anglikán katedrális egy feltűnő kőépület, amely a város vallási közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        36.813478,
+                        -1.289303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "All Saints Cathedral",
+                  "text": "Această catedrală anglicană este o clădire de piatră izbitoare care servește comunitatea religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        36.813478,
+                        -1.289303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "All Saints Cathedral",
+                  "text": "This Anglican cathedral is a striking stone building that serves the city's religious community.",
+                  "category": "religious",
+                  "coords": [
+                        36.813478,
+                        -1.289303
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8123, -1.2941],
@@ -1434,7 +3081,88 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-prism-tower-landmarks-v2.webp"},
   {
-    id: "ke-lemac-towers-landmarks-v2",
+    id: "ke-lemac-towers-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tribal Gallery",
+                  "text": "Diese Galerie in der Nähe der Lemac Towers in Nairobi stellt traditionelle und zeitgenössische Stammeskunstwerke aus.",
+                  "category": "museum",
+                  "coords": [
+                        36.76574,
+                        -1.250264
+                  ]
+            },
+            {
+                  "name": "Kioki Mwitiki",
+                  "text": "Diese Kunstgalerie in Nairobi zeigt die unverwechselbaren Schrottskulpturen des kenianischen Künstlers Kioko Mwitiki.",
+                  "category": "museum",
+                  "coords": [
+                        36.770039,
+                        -1.279526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tribal Gallery",
+                  "text": "Ez a nairobi Lemac Towers közelében található galéria hagyományos és kortárs törzsi műalkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        36.76574,
+                        -1.250264
+                  ]
+            },
+            {
+                  "name": "Kioki Mwitiki",
+                  "text": "Ez a nairobi művészeti galéria Kioko Mwitiki kenyai művész jellegzetes, hegesztett fémhulladék-szobrait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        36.770039,
+                        -1.279526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tribal Gallery",
+                  "text": "Situată lângă Lemac Towers din Nairobi, această galerie expune opere de artă tribală tradiționale și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        36.76574,
+                        -1.250264
+                  ]
+            },
+            {
+                  "name": "Kioki Mwitiki",
+                  "text": "Această galerie de artă din Nairobi prezintă sculpturile distinctive din fier vechi sudat ale artistului kenyan Kioko Mwitiki.",
+                  "category": "museum",
+                  "coords": [
+                        36.770039,
+                        -1.279526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tribal Gallery",
+                  "text": "Located near Nairobi's Lemac Towers, this gallery exhibits traditional and contemporary tribal artworks.",
+                  "category": "museum",
+                  "coords": [
+                        36.76574,
+                        -1.250264
+                  ]
+            },
+            {
+                  "name": "Kioki Mwitiki",
+                  "text": "This Nairobi art gallery features the distinctive welded scrap metal sculptures of Kenyan artist Kioko Mwitiki.",
+                  "category": "museum",
+                  "coords": [
+                        36.770039,
+                        -1.279526
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.7865, -1.2619],
@@ -1564,7 +3292,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-cbk-pension-tower-landmarks-v2.webp"},
   {
-    id: "ke-i-m-bank-tower-landmarks-v2",
+    id: "ke-i-m-bank-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Market",
+                  "text": "Der City Market ist eine geschäftige städtische Markthalle, in der Händler frische Lebensmittel, Gewürze und lokales Kunsthandwerk feilbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        36.819492,
+                        -1.283597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Market",
+                  "text": "A City Market egy nyüzsgő városi vásárcsarnok, ahol az árusok friss élelmiszereket, fűszereket és helyi kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        36.819492,
+                        -1.283597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Market",
+                  "text": "City Market este o hală de piață urbană animată, unde comercianții vând alimente proaspete, condimente și artizanat local.",
+                  "category": "cultural",
+                  "coords": [
+                        36.819492,
+                        -1.283597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Market",
+                  "text": "The City Market is a bustling urban marketplace hall where vendors offer fresh produce, spices, and artisanal crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        36.819492,
+                        -1.283597
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8189, -1.2842],
@@ -1629,7 +3402,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-i-m-bank-tower-landmarks-v2.webp"},
   {
-    id: "ke-city-market-nairobi-landmarks-v2",
+    id: "ke-city-market-nairobi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jevanjee Gardens",
+                  "text": "Dieser angelegte städtische Raum fungiert als ruhiger Themenpark mit schattigen Bänken und historischen Statuen.",
+                  "category": "recreational",
+                  "coords": [
+                        36.819588,
+                        -1.281161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jevanjee Gardens",
+                  "text": "Ez a parkosított városi tér egy nyugodt tematikus parkként működik, árnyékos padokkal és történelmi szobrokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        36.819588,
+                        -1.281161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jevanjee Gardens",
+                  "text": "Acest spațiu urban amenajat funcționează ca un parc tematic liniștit, având bănci umbrite și statui istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        36.819588,
+                        -1.281161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jevanjee Gardens",
+                  "text": "This landscaped urban space functions as a tranquil theme park featuring shaded benches and historic statues.",
+                  "category": "recreational",
+                  "coords": [
+                        36.819588,
+                        -1.281161
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8197, -1.2821],
@@ -1694,7 +3512,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-city-market-nairobi-landmarks-v2.webp"},
   {
-    id: "ke-macmillan-memorial-library-landmarks-v2",
+    id: "ke-macmillan-memorial-library-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jamia Mosque",
+                  "text": "Diese große Moschee ist mit ihren klassischen Minaretten und Kuppeln ein bedeutendes islamisches Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        36.820703,
+                        -1.283411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jamia Mosque",
+                  "text": "Ez a nagy mecset klasszikus minaretjeivel és kupoláival jelentős iszlám központ.",
+                  "category": "religious",
+                  "coords": [
+                        36.820703,
+                        -1.283411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jamia Mosque",
+                  "text": "Această moschee mare, cu minaretele și domurile sale clasice, este un centru islamic semnificativ.",
+                  "category": "religious",
+                  "coords": [
+                        36.820703,
+                        -1.283411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jamia Mosque",
+                  "text": "This grand mosque, with its classic minarets and domes, is a significant Islamic center.",
+                  "category": "religious",
+                  "coords": [
+                        36.820703,
+                        -1.283411
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8208, -1.2833],
@@ -1759,7 +3622,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-macmillan-memorial-library-landmarks-v2.webp"},
   {
-    id: "ke-kenya-national-archives-landmarks-v2",
+    id: "ke-kenya-national-archives-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kenya National Archives",
+                  "text": "Dieses Museums- und Archivgebäude am zentralen Platz beherbergt historische Dokumente und ostafrikanische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        36.825941,
+                        -1.284944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kenya National Archives",
+                  "text": "Ez a központi téren álló múzeum és levéltárépület történelmi dokumentumoknak és kelet-afrikai művészetnek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        36.825941,
+                        -1.284944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kenya National Archives",
+                  "text": "Acest complex arhitectural și muzeal din piața centrală adăpostește documente istorice și artă est-africană.",
+                  "category": "museum",
+                  "coords": [
+                        36.825941,
+                        -1.284944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kenya National Archives",
+                  "text": "This museum and archives building on the central square houses historical documents and East African art.",
+                  "category": "museum",
+                  "coords": [
+                        36.825941,
+                        -1.284944
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.825, -1.2847],
@@ -1824,7 +3732,52 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-kenya-national-archives-landmarks-v2.webp"},
   {
-    id: "ke-dedan-kimathi-statue-landmarks-v2",
+    id: "ke-dedan-kimathi-statue-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Diese bronzene Statue aus der Kolonialzeit im Zentrum von Nairobi erinnert an die afrikanischen Truppen, die während des Ersten Weltkriegs für das britische Trägerkorps kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        36.821902,
+                        -1.284356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Askari Monument",
+                  "text": "A Nairobi központjában található, gyarmati korszakból származó bronzszobor azoknak az afrikai csapatoknak állít emléket, akik az első világháború alatt a brit szállítóhadtestben harcoltak.",
+                  "category": "historical",
+                  "coords": [
+                        36.821902,
+                        -1.284356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Situată în centrul orașului Nairobi, această statuie din bronz din epoca colonială comemorează trupele africane care au luptat pentru corpul de transportatori britanici în timpul Primului Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        36.821902,
+                        -1.284356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Situated in central Nairobi, this bronze colonial-era statue commemorates the African troops who fought for the British carrier corps during the First World War.",
+                  "category": "historical",
+                  "coords": [
+                        36.821902,
+                        -1.284356
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8222, -1.2835],
@@ -1889,7 +3842,160 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     
      image: "/poi-images/ke-dedan-kimathi-statue-landmarks-v2.webp"},
   {
-    id: "ke-tom-mboya-monument-landmarks-v2",
+    id: "ke-tom-mboya-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Good person",
+                  "text": "Ein erkennbares öffentliches Denkmal in Nairobi, das dem Gemeinschaftssinn und lokalen Kulturschaffenden gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.824024,
+                        -1.283713
+                  ]
+            },
+            {
+                  "name": "Kariokor Market",
+                  "text": "Ein geschäftiges Handelszentrum in Nairobi, das für seinen Großhandel und die lebhaften Stände mit traditionellen kenianischen Lederwaren bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.834268,
+                        -1.27787
+                  ]
+            },
+            {
+                  "name": "Lazarus",
+                  "text": "Ein markantes lokales Wahrzeichen in den belebten Straßen von Nairobi, das als bekannter Treffpunkt in der Stadtlandschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825025,
+                        -1.28362
+                  ]
+            },
+            {
+                  "name": "Sarakasi Dome",
+                  "text": "Ein lebendiges Zentrum für Kultur und darstellende Kunst in Nairobi, das für spektakuläre Akrobatik und zeitgenössische Tanzshows bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        36.8269,
+                        -1.276828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Good person",
+                  "text": "Egy felismerhető köztéri emlékmű Nairobiban, amelyet a közösségi szellemnek és a helyi kulturális személyiségeknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.824024,
+                        -1.283713
+                  ]
+            },
+            {
+                  "name": "Kariokor Market",
+                  "text": "Egy nyüzsgő kereskedelmi központ Nairobiban, amely nagykereskedelméről és a hagyományos kenyai bőrárukat árusító élénk standjairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        36.834268,
+                        -1.27787
+                  ]
+            },
+            {
+                  "name": "Lazarus",
+                  "text": "Egy jellegzetes helyi nevezetesség Nairobi forgalmas utcáin, amely jól ismert találkozóhelyként szolgál a városi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825025,
+                        -1.28362
+                  ]
+            },
+            {
+                  "name": "Sarakasi Dome",
+                  "text": "Egy élénk kulturális és előadó-művészeti központ Nairobiban, amely látványos akrobatikájáról és kortárs táncműsorairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        36.8269,
+                        -1.276828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Good person",
+                  "text": "Un monument public recunoscut în Nairobi dedicat sărbătoririi spiritului comunitar și a figurilor culturale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        36.824024,
+                        -1.283713
+                  ]
+            },
+            {
+                  "name": "Kariokor Market",
+                  "text": "Un centru comercial aglomerat din Nairobi, renumit pentru comerțul său cu ridicata și tarabele vibrante care vând articole tradiționale din piele kenyană.",
+                  "category": "landmark",
+                  "coords": [
+                        36.834268,
+                        -1.27787
+                  ]
+            },
+            {
+                  "name": "Lazarus",
+                  "text": "Un punct de reper local distinctiv pe străzile aglomerate din Nairobi, servind ca un punct de întâlnire binecunoscut în peisajul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825025,
+                        -1.28362
+                  ]
+            },
+            {
+                  "name": "Sarakasi Dome",
+                  "text": "Un centru vibrant de artă culturală și a spectacolului din Nairobi, faimos pentru găzduirea de spectacole spectaculoase de acrobație și dans contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        36.8269,
+                        -1.276828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Good person",
+                  "text": "A recognizable public monument in Nairobi dedicated to celebrating community spirit and local cultural figures.",
+                  "category": "landmark",
+                  "coords": [
+                        36.824024,
+                        -1.283713
+                  ]
+            },
+            {
+                  "name": "Kariokor Market",
+                  "text": "A bustling commercial hub in Nairobi renowned for its wholesale trade and vibrant stalls selling traditional Kenyan leather goods.",
+                  "category": "landmark",
+                  "coords": [
+                        36.834268,
+                        -1.27787
+                  ]
+            },
+            {
+                  "name": "Lazarus",
+                  "text": "A distinctive local landmark in the busy streets of Nairobi, serving as a well-known meeting point in the urban landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825025,
+                        -1.28362
+                  ]
+            },
+            {
+                  "name": "Sarakasi Dome",
+                  "text": "A vibrant cultural and performing arts center in Nairobi, famous for hosting spectacular acrobatics and contemporary dance shows.",
+                  "category": "cultural",
+                  "coords": [
+                        36.8269,
+                        -1.276828
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KE-30",
     coords: [36.8248, -1.2842],

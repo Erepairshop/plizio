@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraBotswanaEconomicV2: POI[] = [
   {
-    id: "jwaneng-diamond-mine-economic-v2",
+    id: "jwaneng-diamond-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jwaneng Moto-X",
+                  "text": "Eine Motocross-Strecke in der Nähe der Jwaneng-Diamantenmine, die adrenalingeladene Offroad-Rennen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742852,
+                        -24.616612
+                  ]
+            },
+            {
+                  "name": "Jwana Game Park",
+                  "text": "Ein Naturschutzgebiet, das an die Jwaneng-Diamantenmine grenzt und einen Zufluchtsort für die lokale Tierwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.76793,
+                        -24.547197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jwaneng Moto-X",
+                  "text": "A Jwaneng gyémántbánya közelében található motokrosszpálya, amely adrenalinban gazdag terepversenyeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742852,
+                        -24.616612
+                  ]
+            },
+            {
+                  "name": "Jwana Game Park",
+                  "text": "A Jwaneng gyémántbányával határos természetvédelmi terület, amely menedéket nyújt a helyi vadvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        24.76793,
+                        -24.547197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jwaneng Moto-X",
+                  "text": "O pistă de motocross situată lângă mina de diamante Jwaneng, oferind curse off-road pline de adrenalină.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742852,
+                        -24.616612
+                  ]
+            },
+            {
+                  "name": "Jwana Game Park",
+                  "text": "O rezervație naturală care se învecinează cu mina de diamante Jwaneng, oferind un sanctuar pentru fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        24.76793,
+                        -24.547197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jwaneng Moto-X",
+                  "text": "A motocross track situated near the Jwaneng Diamond Mine, offering adrenaline-fueled off-road racing.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742852,
+                        -24.616612
+                  ]
+            },
+            {
+                  "name": "Jwana Game Park",
+                  "text": "A nature reserve bordering the Jwaneng Diamond Mine, providing a sanctuary for local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        24.76793,
+                        -24.547197
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-JW",
     coords: [24.7333, -24.6],
@@ -24,7 +105,160 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
       en: ["Ranked as the world's most valuable diamond mine.", "Jointly owned by the Botswana government and De Beers.", "Plays a crucial role in Botswana's national GDP.", "Located within the Kweneng District of Botswana.", "Provides thousands of jobs in the local region.", "Known for consistently high-quality diamond yields."],
     }, image: "/poi-images/jwaneng-diamond-mine-economic-v2.webp"},
   {
-    id: "orapa-diamond-mine-economic-v2",
+    id: "orapa-diamond-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "church",
+                  "text": "Eine lokale Gemeindekirche, die den Bewohnern in der Nähe der riesigen Orapa-Diamantenmine dient.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358038,
+                        -21.337575
+                  ]
+            },
+            {
+                  "name": "Phane Square",
+                  "text": "Ein lokaler Treffpunkt, der eine freie Sicht auf die umliegende Bergbausiedlung Orapa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.369658,
+                        -21.333154
+                  ]
+            },
+            {
+                  "name": "Adrian Gale Diamond Musem",
+                  "text": "Ein informatives Museum, das die reiche Abbaugeschichte und die Abläufe der Orapa-Diamantenmine zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.380479,
+                        -21.334699
+                  ]
+            },
+            {
+                  "name": "Orapa Game Park",
+                  "text": "Ein geschütztes Wildreservat, das überraschenderweise direkt vor den Toren der großen Diamantenmine liegt.",
+                  "category": "natural",
+                  "coords": [
+                        25.359749,
+                        -21.246184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "church",
+                  "text": "Helyi közösségi istentiszteleti hely, amely a kiterjedt Orapa gyémántbánya közelében élőket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358038,
+                        -21.337575
+                  ]
+            },
+            {
+                  "name": "Phane Square",
+                  "text": "Helyi gyülekezőhely, ahonnan tiszta kilátás nyílik a környező orapai bányásztelepülésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.369658,
+                        -21.333154
+                  ]
+            },
+            {
+                  "name": "Adrian Gale Diamond Musem",
+                  "text": "Az Orapa gyémántbánya gazdag kitermelési történetét és működését bemutató informatív múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.380479,
+                        -21.334699
+                  ]
+            },
+            {
+                  "name": "Orapa Game Park",
+                  "text": "Meglepő módon a nagyüzemi gyémántbánya határain kívül található, védett vadvédelmi rezervátum.",
+                  "category": "natural",
+                  "coords": [
+                        25.359749,
+                        -21.246184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "church",
+                  "text": "Un lăcaș de cult comunitar care servește rezidenții din apropierea vastei mine de diamante Orapa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358038,
+                        -21.337575
+                  ]
+            },
+            {
+                  "name": "Phane Square",
+                  "text": "Un loc de adunare local care oferă priveliști clare asupra așezării miniere înconjurătoare din Orapa.",
+                  "category": "natural",
+                  "coords": [
+                        25.369658,
+                        -21.333154
+                  ]
+            },
+            {
+                  "name": "Adrian Gale Diamond Musem",
+                  "text": "Un muzeu informativ dedicat prezentării istoriei bogate de extracție și a operațiunilor minei de diamante Orapa.",
+                  "category": "museum",
+                  "coords": [
+                        25.380479,
+                        -21.334699
+                  ]
+            },
+            {
+                  "name": "Orapa Game Park",
+                  "text": "O rezervație naturală protejată, situată surprinzător chiar la granițele minei de diamante de mari dimensiuni.",
+                  "category": "natural",
+                  "coords": [
+                        25.359749,
+                        -21.246184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "church",
+                  "text": "A local community place of worship serving the residents near the expansive Orapa Diamond Mine.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358038,
+                        -21.337575
+                  ]
+            },
+            {
+                  "name": "Phane Square",
+                  "text": "A local gathering spot providing clear views over the surrounding mining settlement of Orapa.",
+                  "category": "natural",
+                  "coords": [
+                        25.369658,
+                        -21.333154
+                  ]
+            },
+            {
+                  "name": "Adrian Gale Diamond Musem",
+                  "text": "An informative museum dedicated to showcasing the rich extraction history and operations of the Orapa Diamond Mine.",
+                  "category": "museum",
+                  "coords": [
+                        25.380479,
+                        -21.334699
+                  ]
+            },
+            {
+                  "name": "Orapa Game Park",
+                  "text": "A protected wildlife reserve surprisingly situated just outside the boundaries of the large-scale diamond mine.",
+                  "category": "natural",
+                  "coords": [
+                        25.359749,
+                        -21.246184
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-CE",
     coords: [25.37, -21.32],
@@ -154,7 +388,52 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "karowe-diamond-mine-economic-v2",
+    id: "karowe-diamond-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karowe Diamond Mine",
+                  "text": "Eine Open-Pit-Diamantenmine, die dafür bekannt ist, einige der größten Rohdiamanten der Welt zu fördern.",
+                  "category": "landmark",
+                  "coords": [
+                        25.47999,
+                        -21.485272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karowe Diamond Mine",
+                  "text": "Nyílt színi gyémántbánya, amely a világ legnagyobb nyersgyémántjainak kitermeléséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        25.47999,
+                        -21.485272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karowe Diamond Mine",
+                  "text": "O mină de diamante în carieră deschisă, renumită pentru producerea unora dintre cele mai mari diamante brute din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        25.47999,
+                        -21.485272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karowe Diamond Mine",
+                  "text": "An open-pit diamond mine famous for producing some of the world's largest rough diamonds.",
+                  "category": "landmark",
+                  "coords": [
+                        25.47999,
+                        -21.485272
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-CE",
     coords: [25.474, -21.493],
@@ -176,7 +455,52 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "gaborone-dry-port-economic-v2",
+    id: "gaborone-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Philatelic Museum",
+                  "text": "Das Philateliemuseum am Gaborone Dry Port zeigt eine faszinierende Sammlung historischer Briefmarken und postalischer Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        25.911376,
+                        -24.661231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Philatelic Museum",
+                  "text": "A Gaborone Dry Portnál található Filatéliai Múzeum történelmi bélyegek és postai tárgyak lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.911376,
+                        -24.661231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Philatelic Museum",
+                  "text": "Muzeul Filatelic din Gaborone Dry Port expune o colecție fascinantă de timbre istorice și artefacte poștale.",
+                  "category": "museum",
+                  "coords": [
+                        25.911376,
+                        -24.661231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Philatelic Museum",
+                  "text": "The Philatelic Museum at Gaborone Dry Port exhibits a fascinating collection of historical stamps and postal artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        25.911376,
+                        -24.661231
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BW-GA",
     coords: [25.9167, -24.6583],
@@ -330,7 +654,52 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "francistown-dry-port-economic-v2",
+    id: "francistown-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Douma's Crocodile Farm",
+                  "text": "Ein spezielles Museum und eine Farm in der Nähe des Trockenhafens, wo Besucher große Nilkrokodile beobachten können.",
+                  "category": "museum",
+                  "coords": [
+                        27.474133,
+                        -21.10147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Douma's Crocodile Farm",
+                  "text": "A száraz kikötő közelében található speciális múzeum és farm, ahol a látogatók nagy nílusi krokodilokat figyelhetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        27.474133,
+                        -21.10147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Douma's Crocodile Farm",
+                  "text": "Un muzeu și o fermă specializată lângă portul terestru unde vizitatorii pot observa crocodili mari de Nil.",
+                  "category": "museum",
+                  "coords": [
+                        27.474133,
+                        -21.10147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Douma's Crocodile Farm",
+                  "text": "A specialized museum and farm near the dry port where visitors can observe large Nile crocodiles.",
+                  "category": "museum",
+                  "coords": [
+                        27.474133,
+                        -21.10147
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BW-FR",
     coords: [27.5, -21.1667],
@@ -352,7 +721,88 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "palapye-glass-manufacturing-economic-v2",
+    id: "palapye-glass-manufacturing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Segaladhole Hill Viewpoint",
+                  "text": "Ein Aussichtspunkt auf einem Hügel in der Nähe des Palapye-Werks mit Blick auf das umliegende Buschland.",
+                  "category": "natural",
+                  "coords": [
+                        27.1602,
+                        -22.609172
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Ein hoher Telekommunikationsmast als Denkmal, der die Konnektivität rund um das Industriegebiet Palapye sicherstellt.",
+                  "category": "historical",
+                  "coords": [
+                        27.130002,
+                        -22.554942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Segaladhole Hill Viewpoint",
+                  "text": "Dombvidéki kilátó a palapye-i üzem közelében, ahonnan kilátás nyílik a környező bozótosra.",
+                  "category": "natural",
+                  "coords": [
+                        27.1602,
+                        -22.609172
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Magas telekommunikációs árboc emlékműként, amely biztosítja a kapcsolatot a palapye-i ipari terület körül.",
+                  "category": "historical",
+                  "coords": [
+                        27.130002,
+                        -22.554942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Segaladhole Hill Viewpoint",
+                  "text": "Un punct de observație pe un deal lângă fabrica Palapye, cu vedere la savana din jur.",
+                  "category": "natural",
+                  "coords": [
+                        27.1602,
+                        -22.609172
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Un turn monumental de telecomunicații care oferă conectivitate esențială în zona industrială Palapye.",
+                  "category": "historical",
+                  "coords": [
+                        27.130002,
+                        -22.554942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Segaladhole Hill Viewpoint",
+                  "text": "A hilltop observation point near the Palapye plant, overlooking the surrounding bushveld.",
+                  "category": "natural",
+                  "coords": [
+                        27.1602,
+                        -22.609172
+                  ]
+            },
+            {
+                  "name": "Telecom Antenna",
+                  "text": "A tall communications mast monument providing essential connectivity around the Palapye industrial area.",
+                  "category": "historical",
+                  "coords": [
+                        27.130002,
+                        -22.554942
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-CE",
     coords: [27.1333, -22.55],
@@ -374,7 +824,88 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "gaborone-diamond-hub-economic-v2",
+    id: "gaborone-diamond-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Subaru Botswana",
+                  "text": "Subaru Botswana ist eine automobile Attraktion im Diamond Technology Park, die Fahrzeuge in einem modernen Umfeld präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.917526,
+                        -24.618103
+                  ]
+            },
+            {
+                  "name": "Dave's",
+                  "text": "Dave's ist eine lokale Attraktion im Diamond Technology Park, die als bekannter Treffpunkt in der Gegend dient.",
+                  "category": "landmark",
+                  "coords": [
+                        25.922538,
+                        -24.6066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Subaru Botswana",
+                  "text": "A Subaru Botswana egy autós látványosság a Diamond Technology Parkban, amely modern környezetben mutatja be a járműveket.",
+                  "category": "landmark",
+                  "coords": [
+                        25.917526,
+                        -24.618103
+                  ]
+            },
+            {
+                  "name": "Dave's",
+                  "text": "A Dave's egy helyi látványosság a Diamond Technology Parkban, amely jól ismert találkozóhelyként szolgál a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        25.922538,
+                        -24.6066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Subaru Botswana",
+                  "text": "Subaru Botswana este o atracție auto din Diamond Technology Park, expunând vehicule într-un cadru modern.",
+                  "category": "landmark",
+                  "coords": [
+                        25.917526,
+                        -24.618103
+                  ]
+            },
+            {
+                  "name": "Dave's",
+                  "text": "Dave's este o atracție locală din Diamond Technology Park, servind ca un loc de întâlnire familiar în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        25.922538,
+                        -24.6066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subaru Botswana",
+                  "text": "Subaru Botswana is an automotive attraction in Diamond Technology Park displaying vehicles in a modern setting.",
+                  "category": "landmark",
+                  "coords": [
+                        25.917526,
+                        -24.618103
+                  ]
+            },
+            {
+                  "name": "Dave's",
+                  "text": "Dave's is a local attraction in Diamond Technology Park serving as a familiar gathering spot in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.922538,
+                        -24.6066
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-GA",
     coords: [25.923, -24.628],
@@ -484,7 +1015,124 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "gaborone-brewery-economic-v2",
+    id: "gaborone-brewery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Botanical Gardens",
+                  "text": "Die National Botanical Gardens in der Region Kgalagadi Breweries verfügen über vielfältige Sammlungen einheimischer Flora und gepflegte Spazierwege.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944932,
+                        -24.669107
+                  ]
+            },
+            {
+                  "name": "National museum of botanical garden",
+                  "text": "Das Nationalmuseum des Botanischen Gartens in den Kgalagadi Breweries erforscht die reiche Pflanzenwelt und die botanische Geschichte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944689,
+                        -24.6672
+                  ]
+            },
+            {
+                  "name": "Thapong Visual Arts Centre",
+                  "text": "Das Thapong Visual Arts Centre in der Region Kgalagadi Breweries ist ein Zentrum für zeitgenössische Kunst und zeigt Ausstellungen lokaler Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        25.939715,
+                        -24.668704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Botanical Gardens",
+                  "text": "A Kgalagadi Breweries területén található Nemzeti Botanikus Kert az őshonos növényvilág változatos gyűjteményeivel és gondozott sétautakkal várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944932,
+                        -24.669107
+                  ]
+            },
+            {
+                  "name": "National museum of botanical garden",
+                  "text": "A Kgalagadi Breweries területén lévő Botanikus kert nemzeti múzeuma a régió gazdag növényvilágát és botanikai történetét tárja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944689,
+                        -24.6672
+                  ]
+            },
+            {
+                  "name": "Thapong Visual Arts Centre",
+                  "text": "A Kgalagadi Breweries-nél található Thapong Visual Arts Centre a kortárs művészet központja, amely helyi művészek kiállításait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        25.939715,
+                        -24.668704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Botanical Gardens",
+                  "text": "Grădinile Botanice Naționale din Kgalagadi Breweries prezintă colecții diverse de floră indigenă și alei de plimbare bine întreținute.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944932,
+                        -24.669107
+                  ]
+            },
+            {
+                  "name": "National museum of botanical garden",
+                  "text": "Muzeul național al grădinii botanice din Kgalagadi Breweries explorează viața vegetală bogată și istoria botanică a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944689,
+                        -24.6672
+                  ]
+            },
+            {
+                  "name": "Thapong Visual Arts Centre",
+                  "text": "Thapong Visual Arts Centre din Kgalagadi Breweries este un centru pentru arte vizuale contemporane, prezentând expoziții ale artiștilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        25.939715,
+                        -24.668704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Botanical Gardens",
+                  "text": "The National Botanical Gardens in Kgalagadi Breweries feature diverse collections of indigenous flora and well-kept walking paths.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944932,
+                        -24.669107
+                  ]
+            },
+            {
+                  "name": "National museum of botanical garden",
+                  "text": "The National museum of botanical garden in Kgalagadi Breweries explores the rich plant life and botanical history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.944689,
+                        -24.6672
+                  ]
+            },
+            {
+                  "name": "Thapong Visual Arts Centre",
+                  "text": "Thapong Visual Arts Centre in Kgalagadi Breweries is a hub for contemporary arts showcasing exhibitions by local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        25.939715,
+                        -24.668704
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-GA",
     coords: [25.9333, -24.6667],
@@ -506,7 +1154,160 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "mowana-copper-mine-economic-v2",
+    id: "mowana-copper-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sun set point",
+                  "text": "Eine ruhige Attraktion in der Nähe der Kupfermine mit freiem Blick auf den farbenfrohen afrikanischen Sonnenuntergang.",
+                  "category": "landmark",
+                  "coords": [
+                        26.271125,
+                        -20.361617
+                  ]
+            },
+            {
+                  "name": "Nata Wildlife Sanctuary",
+                  "text": "Eine von der Gemeinde geführte Attraktion am Rande der Makgadikgadi-Salzpfannen, bekannt für ihre saisonalen Flamingoschwärme.",
+                  "category": "landmark",
+                  "coords": [
+                        26.296235,
+                        -20.288881
+                  ]
+            },
+            {
+                  "name": "Hide",
+                  "text": "Ein geschützter Aussichtspunkt, der Wildtierliebhabern die Möglichkeit bietet, einheimische Tiere aus der Nähe zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        26.241089,
+                        -20.298571
+                  ]
+            },
+            {
+                  "name": "Nata Bird Sanctuary",
+                  "text": "Ein berühmtes Naturschutzgebiet, in dem während der Regenzeit Tausende von Pelikanen und Flamingos brüten.",
+                  "category": "natural",
+                  "coords": [
+                        26.262684,
+                        -20.310019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sun set point",
+                  "text": "Békés látványosság a rézbánya közelében, ahonnan akadálytalan kilátás nyílik a színes afrikai naplementére.",
+                  "category": "landmark",
+                  "coords": [
+                        26.271125,
+                        -20.361617
+                  ]
+            },
+            {
+                  "name": "Nata Wildlife Sanctuary",
+                  "text": "Közösségi üzemeltetésű látványosság a Makgadikgadi-sóserpenyők szélén, amely a szezonális flamingórajokról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        26.296235,
+                        -20.288881
+                  ]
+            },
+            {
+                  "name": "Hide",
+                  "text": "Védett kilátó, amely a vadvilág szerelmeseinek lehetőséget nyújt a helyi állatok közeli megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.241089,
+                        -20.298571
+                  ]
+            },
+            {
+                  "name": "Nata Bird Sanctuary",
+                  "text": "Híres természetvédelmi terület, amely az esős évszakban ezernyi fészkelő pelikánnak és flamingónak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        26.262684,
+                        -20.310019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sun set point",
+                  "text": "O atracție senină lângă mina de cupru, oferind vederi neîntrerupte ale apusului african colorat.",
+                  "category": "landmark",
+                  "coords": [
+                        26.271125,
+                        -20.361617
+                  ]
+            },
+            {
+                  "name": "Nata Wildlife Sanctuary",
+                  "text": "O atracție administrată de comunitate la marginea salinelor Makgadikgadi, cunoscută pentru stolurile sezoniere de flamingo.",
+                  "category": "landmark",
+                  "coords": [
+                        26.296235,
+                        -20.288881
+                  ]
+            },
+            {
+                  "name": "Hide",
+                  "text": "Un punct de observație adăpostit, oferind pasionaților de animale sălbatice o privire de aproape asupra faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        26.241089,
+                        -20.298571
+                  ]
+            },
+            {
+                  "name": "Nata Bird Sanctuary",
+                  "text": "O rezervație naturală renumită pentru găzduirea a mii de pelicani și flamingo în perioada de reproducere în timpul sezonului umed.",
+                  "category": "natural",
+                  "coords": [
+                        26.262684,
+                        -20.310019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sun set point",
+                  "text": "A serene attraction near the copper mine offering unhindered views of the colourful African sunset.",
+                  "category": "landmark",
+                  "coords": [
+                        26.271125,
+                        -20.361617
+                  ]
+            },
+            {
+                  "name": "Nata Wildlife Sanctuary",
+                  "text": "A community-run attraction on the edge of the Makgadikgadi Pans, known for its seasonal flocks of flamingos.",
+                  "category": "landmark",
+                  "coords": [
+                        26.296235,
+                        -20.288881
+                  ]
+            },
+            {
+                  "name": "Hide",
+                  "text": "A sheltered viewpoint offering wildlife enthusiasts a close-up look at local animals without disturbing them.",
+                  "category": "natural",
+                  "coords": [
+                        26.241089,
+                        -20.298571
+                  ]
+            },
+            {
+                  "name": "Nata Bird Sanctuary",
+                  "text": "A renowned nature reserve famous for hosting thousands of breeding pelicans and flamingos during the wet season.",
+                  "category": "natural",
+                  "coords": [
+                        26.262684,
+                        -20.310019
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-CE",
     coords: [26.3167, -20.35],
@@ -528,7 +1329,124 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "francistown-abattoir-economic-v2",
+    id: "francistown-abattoir-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Ein monumentaler Telekommunikationsturm, der in der Nähe des Francistown-Schlachthofkomplexes steht.",
+                  "category": "historical",
+                  "coords": [
+                        27.53529,
+                        -21.196346
+                  ]
+            },
+            {
+                  "name": "Old Water Tank",
+                  "text": "Ein monumentaler Wassertank aus der Industriezeit auf dem Gelände des Francistown-Schlachthofs.",
+                  "category": "historical",
+                  "coords": [
+                        27.527938,
+                        -21.186088
+                  ]
+            },
+            {
+                  "name": "Sunshine Plaza (Shopping Mall)",
+                  "text": "Ein belebtes Einkaufszentrum in der Nähe des Schlachthofs mit verschiedenen Geschäften und lokalen Anbietern.",
+                  "category": "landmark",
+                  "coords": [
+                        27.533022,
+                        -21.188006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Monumentális telekommunikációs torony, amely a francistowni vágóhíd komplexumának közelében áll.",
+                  "category": "historical",
+                  "coords": [
+                        27.53529,
+                        -21.196346
+                  ]
+            },
+            {
+                  "name": "Old Water Tank",
+                  "text": "Ipari korszakból származó monumentális víztartály a francistowni vágóhíd területén.",
+                  "category": "historical",
+                  "coords": [
+                        27.527938,
+                        -21.186088
+                  ]
+            },
+            {
+                  "name": "Sunshine Plaza (Shopping Mall)",
+                  "text": "Nyüzsgő bevásárlóközpont a vágóhíd közelében, különféle üzletekkel és helyi árusokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        27.533022,
+                        -21.188006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Telecom Antenna",
+                  "text": "Un turn monumental de telecomunicații situat lângă complexul abatorului din Francistown.",
+                  "category": "historical",
+                  "coords": [
+                        27.53529,
+                        -21.196346
+                  ]
+            },
+            {
+                  "name": "Old Water Tank",
+                  "text": "Un rezervor monumental de apă din era industrială, situat la abatorul din Francistown.",
+                  "category": "historical",
+                  "coords": [
+                        27.527938,
+                        -21.186088
+                  ]
+            },
+            {
+                  "name": "Sunshine Plaza (Shopping Mall)",
+                  "text": "Un centru comercial plin de viață lângă abator, cu diverse magazine și vânzători locali.",
+                  "category": "landmark",
+                  "coords": [
+                        27.533022,
+                        -21.188006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Telecom Antenna",
+                  "text": "A monumental telecommunications tower standing near the Francistown abattoir complex.",
+                  "category": "historical",
+                  "coords": [
+                        27.53529,
+                        -21.196346
+                  ]
+            },
+            {
+                  "name": "Old Water Tank",
+                  "text": "An industrial-era monumental water storage tank located at the Francistown abattoir site.",
+                  "category": "historical",
+                  "coords": [
+                        27.527938,
+                        -21.186088
+                  ]
+            },
+            {
+                  "name": "Sunshine Plaza (Shopping Mall)",
+                  "text": "A bustling retail attraction near the abattoir featuring various shops and local vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        27.533022,
+                        -21.188006
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BW-FR",
     coords: [27.5167, -21.1833],
@@ -616,7 +1534,160 @@ export const poiExtraBotswanaEconomicV2: POI[] = [
     }
   },
   {
-    id: "maun-airport-logistics-economic-v2",
+    id: "maun-airport-logistics-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Matalana Farm",
+                  "text": "Die Matalana Farm fungiert als landwirtschaftlicher Außenposten in der Nähe von Maun und baut im anspruchsvollen Savannenklima Nutzpflanzen an.",
+                  "category": "landmark",
+                  "coords": [
+                        23.495338,
+                        -19.908441
+                  ]
+            },
+            {
+                  "name": "The Space Gallery",
+                  "text": "Die Space Gallery in Maun stellt zeitgenössische bildende Künste in den Vordergrund und zeigt Werke lokaler Künstler, die von den umliegenden Deltalandschaften inspiriert wurden.",
+                  "category": "museum",
+                  "coords": [
+                        23.50537,
+                        -19.942674
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "Der Hippo Pool in der Nähe von Maun bietet eine natürliche Flussbiegung, an der Besucher untergetauchte Flusspferde in ihrem aquatischen Lebensraum sicher beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488929,
+                        -19.943704
+                  ]
+            },
+            {
+                  "name": "Scenic Flights",
+                  "text": "Vom Logistikzentrum in Maun ausgehend, bieten diese Rundflüge atemberaubende Luftaufnahmen über die komplexen Wasserstraßen des Okavango-Deltas.",
+                  "category": "landmark",
+                  "coords": [
+                        23.428008,
+                        -19.975718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Matalana Farm",
+                  "text": "A Matalana farm egy mezőgazdasági előretolt helyőrség Maun közelében, amely növényeket termeszt a kihívást jelentő szavannai éghajlaton.",
+                  "category": "landmark",
+                  "coords": [
+                        23.495338,
+                        -19.908441
+                  ]
+            },
+            {
+                  "name": "The Space Gallery",
+                  "text": "A mauni Space Gallery a kortárs képzőművészetet helyezi előtérbe, bemutatva a helyi alkotók környező delta tájai által ihletett műveit.",
+                  "category": "museum",
+                  "coords": [
+                        23.50537,
+                        -19.942674
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "A Maun közelében található Hippo Pool egy természetes folyókanyarulat, ahol a látogatók biztonságosan megfigyelhetik a vízben tartózkodó vízilovakat.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488929,
+                        -19.943704
+                  ]
+            },
+            {
+                  "name": "Scenic Flights",
+                  "text": "A mauni logisztikai központból induló festői sétarepülések lélegzetelállító kilátást nyújtanak az Okavango-delta összetett csatornarendszerére.",
+                  "category": "landmark",
+                  "coords": [
+                        23.428008,
+                        -19.975718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Matalana Farm",
+                  "text": "Ferma Matalana funcționează ca un avanpost agricol lângă Maun, cultivând culturi în climatul provocator de savană.",
+                  "category": "landmark",
+                  "coords": [
+                        23.495338,
+                        -19.908441
+                  ]
+            },
+            {
+                  "name": "The Space Gallery",
+                  "text": "Galeria Space din Maun evidențiază artele vizuale contemporane, expunând lucrări ale creatorilor locali inspirați de peisajele din delta înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        23.50537,
+                        -19.942674
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "Piscina Hipopotamilor de lângă Maun oferă o curbă naturală a râului unde vizitatorii pot observa în siguranță hipopotamii scufundați în habitatul lor acvatic.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488929,
+                        -19.943704
+                  ]
+            },
+            {
+                  "name": "Scenic Flights",
+                  "text": "Operând din hub-ul logistic Maun, aceste zboruri pitorești oferă priveliști aeriene uluitoare peste canalele complexe de apă ale Deltei Okavango.",
+                  "category": "landmark",
+                  "coords": [
+                        23.428008,
+                        -19.975718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Matalana Farm",
+                  "text": "Matalana Farm operates as an agricultural outpost near Maun, growing crops in the challenging savanna climate.",
+                  "category": "landmark",
+                  "coords": [
+                        23.495338,
+                        -19.908441
+                  ]
+            },
+            {
+                  "name": "The Space Gallery",
+                  "text": "The Space Gallery in Maun highlights contemporary visual arts, displaying works from local creatives inspired by the surrounding delta landscapes.",
+                  "category": "museum",
+                  "coords": [
+                        23.50537,
+                        -19.942674
+                  ]
+            },
+            {
+                  "name": "Hippo Pool",
+                  "text": "The Hippo Pool near Maun offers a natural river bend where visitors can safely observe submerged hippopotamuses in their aquatic habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488929,
+                        -19.943704
+                  ]
+            },
+            {
+                  "name": "Scenic Flights",
+                  "text": "Operating from the Maun logistics hub, these scenic flights offer breathtaking aerial views over the complex water channels of the Okavango Delta.",
+                  "category": "landmark",
+                  "coords": [
+                        23.428008,
+                        -19.975718
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BW-NW",
     coords: [23.4283, -19.9725],

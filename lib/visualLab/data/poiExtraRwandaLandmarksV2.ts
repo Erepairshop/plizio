@@ -63,7 +63,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-kigali-genocide-memorial-landmarks-v2",
+    id: "rw-kigali-genocide-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kigali Genocide Memorial",
+                  "text": "Dieses Museum in Kigali dokumentiert als offizielle Gedenkstätte die Geschichte des Völkermords an den Tutsi 1994.",
+                  "category": "museum",
+                  "coords": [
+                        30.060158,
+                        -1.93126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kigali Genocide Memorial",
+                  "text": "Ez a kigali múzeum hivatalos emlékhelyként dokumentálja a tuszik elleni 1994-es népirtás történetét.",
+                  "category": "museum",
+                  "coords": [
+                        30.060158,
+                        -1.93126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kigali Genocide Memorial",
+                  "text": "Acest muzeu din Kigali, un memorial oficial, documentează istoria genocidului din 1994 împotriva etnicilor tutsi.",
+                  "category": "museum",
+                  "coords": [
+                        30.060158,
+                        -1.93126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kigali Genocide Memorial",
+                  "text": "This museum in Kigali serves as the official memorial documenting the history of the 1994 genocide against the Tutsi.",
+                  "category": "museum",
+                  "coords": [
+                        30.060158,
+                        -1.93126
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.0601, -1.9304],
@@ -243,7 +288,160 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "rw-ethnographic-museum-landmarks-v2",
+    id: "rw-ethnographic-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arboretum Office",
+                  "text": "Das Arboretum Office dient als administratives Tor zum weitläufigen Ruhande Arboretum, das neben dem Ethnographischen Museum mit vielfältigen Baumarten bepflanzt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten in der Nähe des Ethnographischen Museums in Butare zeichnet sich durch ihre bescheidene Backsteinarchitektur aus der Kolonialzeit aus.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "Das Hauptauditorium des Campus ist ein wichtiger Veranstaltungsort der Universität in der Nähe des Ethnographischen Museums, der für große akademische Vorlesungen und kulturelle Theateraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "Die Kathedrale Unserer Lieben Frau der Weisheit in Butare ist eine bedeutende römisch-katholische Kirche mit einer markanten großen Backsteinfassade und einem geräumigen Innenraum.",
+                  "category": "religious",
+                  "coords": [
+                        29.742852,
+                        -2.607016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arboretum Office",
+                  "text": "Az Arborétum Iroda a Néprajzi Múzeum melletti, változatos fafajokkal beültetett kiterjedt Ruhande Arborétum adminisztratív bejárataként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Ez a butarei Néprajzi Múzeum közelében található Hetednapi Adventista Templom szerény, gyarmati kori téglaépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "A Campus főelőadója a Néprajzi Múzeum közelében található jelentős egyetemi helyszín, amelyet nagy akadémiai előadásokhoz és kulturális színházi előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "A butarei Bölcsesség Asszonya katedrális egy kiemelkedő római katolikus templom, amelynek jellegzetes hatalmas tégla homlokzata és tágas belső tere van.",
+                  "category": "religious",
+                  "coords": [
+                        29.742852,
+                        -2.607016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arboretum Office",
+                  "text": "Biroul Arboretumului servește ca poartă administrativă către vastul Arboretum Ruhande, plantat cu diverse specii de arbori lângă Muzeul Etnografic.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Această biserică adventistă de ziua a șaptea de lângă Muzeul Etnografic din Butare se remarcă prin arhitectura sa modestă din cărămidă din perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "Auditoriul Principal al Campusului este o locație universitară importantă de lângă Muzeul Etnografic, folosită pentru prelegeri academice ample și spectacole de teatru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "Catedrala Maicii Domnului a Înțelepciunii din Butare este o biserică romano-catolică proeminentă, care prezintă o fațadă mare distinctivă din cărămidă și un interior spațios.",
+                  "category": "religious",
+                  "coords": [
+                        29.742852,
+                        -2.607016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arboretum Office",
+                  "text": "The Arboretum Office serves as the administrative gateway to the extensive Ruhande Arboretum planted with diverse tree species next to the Ethnographic Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "This Seventh Day Adventist Church near the Ethnographic Museum in Butare stands out with its modest colonial-era brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "The Campus Main Auditorium is a significant university venue near the Ethnographic Museum used for large academic lectures and cultural theatre performances.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "Our Lady of Wisdom Cathedral in Butare is a prominent Roman Catholic church featuring a distinctive large brick facade and a spacious interior.",
+                  "category": "religious",
+                  "coords": [
+                        29.742852,
+                        -2.607016
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-05",
     coords: [29.7424, -2.608],
@@ -423,7 +621,88 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-ntarama-genocide-memorial-landmarks-v2",
+    id: "rw-ntarama-genocide-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santos Home",
+                  "text": "Eine Attraktion und ein ergreifender Ort in der Nähe der Ntarama-Völkermord-Gedenkstätten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079519,
+                        -2.095038
+                  ]
+            },
+            {
+                  "name": "Church Ntarama - Genocid Memorial",
+                  "text": "Eine ehemalige katholische Kirche, die heute als erschütternde Gedenkstätte für die Opfer des Völkermords in Ruanda 1994 dient.",
+                  "category": "historical",
+                  "coords": [
+                        30.050002,
+                        -2.112707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santos Home",
+                  "text": "Egy látványosság és megrendítő hely, amely a Ntarama népirtás emlékműveinek közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079519,
+                        -2.095038
+                  ]
+            },
+            {
+                  "name": "Church Ntarama - Genocid Memorial",
+                  "text": "Egykori katolikus templom, amely ma az 1994-es ruandai népirtás áldozatainak megrázó emlékműveként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        30.050002,
+                        -2.112707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santos Home",
+                  "text": "O atracție și un sit emoționant situat în apropierea monumentelor memoriale ale genocidului de la Ntarama.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079519,
+                        -2.095038
+                  ]
+            },
+            {
+                  "name": "Church Ntarama - Genocid Memorial",
+                  "text": "O fostă biserică catolică care servește acum drept un memorial cutremurător pentru victimele genocidului din Rwanda din 1994.",
+                  "category": "historical",
+                  "coords": [
+                        30.050002,
+                        -2.112707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santos Home",
+                  "text": "An attraction and poignant site situated in the vicinity of the Ntarama genocide memorial landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079519,
+                        -2.095038
+                  ]
+            },
+            {
+                  "name": "Church Ntarama - Genocid Memorial",
+                  "text": "A former Catholic church building that now serves as a harrowing memorial to the victims of the 1994 Rwandan genocide.",
+                  "category": "historical",
+                  "coords": [
+                        30.050002,
+                        -2.112707
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-02",
     coords: [30.0463, -2.1287],
@@ -483,7 +762,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-nyamata-genocide-memorial-landmarks-v2",
+    id: "rw-nyamata-genocide-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyamata Church - Genocide Memorial",
+                  "text": "Diese ehemalige Kirche dient heute als bewegende Gedenkstätte für die Opfer des Völkermords in Ruanda 1994.",
+                  "category": "historical",
+                  "coords": [
+                        30.093773,
+                        -2.148971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyamata Church - Genocide Memorial",
+                  "text": "Ez az egykori templom ma megrendítő emlékhelyként szolgál az 1994-es ruandai népirtás áldozatai számára.",
+                  "category": "historical",
+                  "coords": [
+                        30.093773,
+                        -2.148971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyamata Church - Genocide Memorial",
+                  "text": "Această fostă biserică servește acum ca un memorial emoționant dedicat victimelor genocidului din Rwanda din 1994.",
+                  "category": "historical",
+                  "coords": [
+                        30.093773,
+                        -2.148971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyamata Church - Genocide Memorial",
+                  "text": "This former church now serves as a poignant memorial dedicated to the victims of the 1994 Rwandan genocide.",
+                  "category": "historical",
+                  "coords": [
+                        30.093773,
+                        -2.148971
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-02",
     coords: [30.0934, -2.1472],
@@ -663,7 +987,196 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-rwanda-art-museum-landmarks-v2",
+    id: "rw-rwanda-art-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "PAROISSE SAINT JEAN PAUL II",
+                  "text": "Eine katholische Pfarrkirche im Stadtteil Kanombe von Kigali, die der örtlichen Gemeinde als Gotteshaus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        30.168299,
+                        -1.977258
+                  ]
+            },
+            {
+                  "name": "Umusambi Village",
+                  "text": "Ein wunderschön restauriertes Feuchtgebiet in Kigali, das als Schutzgebiet für gefährdete Südafrikanische Kronenkraniche dient.",
+                  "category": "recreational",
+                  "coords": [
+                        30.209838,
+                        -1.984471
+                  ]
+            },
+            {
+                  "name": "Rwanda Art Museum",
+                  "text": "Ein zeitgenössisches Kunstmuseum, das im ehemaligen Präsidentenpalast in Kanombe untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.173024,
+                        -1.975301
+                  ]
+            },
+            {
+                  "name": "Bambino Super City",
+                  "text": "Ein familienorientierter Freizeitpark in Kigali, der verschiedene Fahrgeschäfte und Freizeitaktivitäten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        30.213048,
+                        -1.98401
+                  ]
+            },
+            {
+                  "name": "Crashed Plane",
+                  "text": "Die historischen Überreste des 1994 abgestürzten Präsidentenflugzeugs Falcon 50, die sich auf dem Gelände des Kunstmuseums befinden.",
+                  "category": "landmark",
+                  "coords": [
+                        30.174151,
+                        -1.975497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PAROISSE SAINT JEAN PAUL II",
+                  "text": "Egy katolikus plébániatemplom Kigali Kanombe negyedében, amely a helyi közösség hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        30.168299,
+                        -1.977258
+                  ]
+            },
+            {
+                  "name": "Umusambi Village",
+                  "text": "Egy gyönyörűen helyreállított vizes élőhely Kigaliban, amely a veszélyeztetett szürkekoronás darvak menedékeként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.209838,
+                        -1.984471
+                  ]
+            },
+            {
+                  "name": "Rwanda Art Museum",
+                  "text": "Egy kortárs művészeti múzeum, amely a volt elnöki palotában, Kanombében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        30.173024,
+                        -1.975301
+                  ]
+            },
+            {
+                  "name": "Bambino Super City",
+                  "text": "Egy családbarát vidámpark Kigaliban, amely különféle játékgépeket és szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.213048,
+                        -1.98401
+                  ]
+            },
+            {
+                  "name": "Crashed Plane",
+                  "text": "Az 1994-ben lezuhant Falcon 50 elnöki repülőgép történelmi maradványai a művészeti múzeum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        30.174151,
+                        -1.975497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PAROISSE SAINT JEAN PAUL II",
+                  "text": "O biserică parohială catolică situată în zona Kanombe din Kigali, care deservește comunitatea fidelă.",
+                  "category": "landmark",
+                  "coords": [
+                        30.168299,
+                        -1.977258
+                  ]
+            },
+            {
+                  "name": "Umusambi Village",
+                  "text": "O zonă umedă frumos restaurată în Kigali, care servește drept sanctuar pentru cocorii cu coroană cenușie pe cale de dispariție.",
+                  "category": "recreational",
+                  "coords": [
+                        30.209838,
+                        -1.984471
+                  ]
+            },
+            {
+                  "name": "Rwanda Art Museum",
+                  "text": "Un muzeu de artă contemporană găzduit în fostul palat prezidențial din Kanombe.",
+                  "category": "museum",
+                  "coords": [
+                        30.173024,
+                        -1.975301
+                  ]
+            },
+            {
+                  "name": "Bambino Super City",
+                  "text": "Un parc de distracții orientat spre familie în Kigali, oferind diverse atracții și activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        30.213048,
+                        -1.98401
+                  ]
+            },
+            {
+                  "name": "Crashed Plane",
+                  "text": "Rămășițele istorice ale avionului prezidențial Falcon 50 care s-a prăbușit în 1994, situate pe terenul muzeului de artă.",
+                  "category": "landmark",
+                  "coords": [
+                        30.174151,
+                        -1.975497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint John Paul II Catholic Church",
+                  "text": "A Catholic parish church serving the faithful community in the Kanombe area of Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.168299,
+                        -1.977258
+                  ]
+            },
+            {
+                  "name": "Umusambi Village",
+                  "text": "A beautifully restored wetland area in Kigali serving as a sanctuary for endangered Grey Crowned Cranes.",
+                  "category": "recreational",
+                  "coords": [
+                        30.209838,
+                        -1.984471
+                  ]
+            },
+            {
+                  "name": "Rwanda Art Museum",
+                  "text": "A contemporary art museum housed within the former Presidential Palace in Kanombe.",
+                  "category": "museum",
+                  "coords": [
+                        30.173024,
+                        -1.975301
+                  ]
+            },
+            {
+                  "name": "Bambino Super City",
+                  "text": "A family-oriented amusement park in Kigali featuring various rides and recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        30.213048,
+                        -1.98401
+                  ]
+            },
+            {
+                  "name": "Crashed Plane",
+                  "text": "The historical remains of the presidential Falcon 50 aircraft that crashed in 1994, located on the museum grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        30.174151,
+                        -1.975497
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.1633, -1.9725],
@@ -723,7 +1236,88 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
     {
-    id: "rw-inema-arts-center-landmarks-v2",
+    id: "rw-inema-arts-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "Ein landschaftlich gestalteter grüner Golfplatz, der in Kigali Freizeitsport bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.093369,
+                        -1.9383
+                  ]
+            },
+            {
+                  "name": "Inemas arts gallery",
+                  "text": "Eine prominente Galerie für zeitgenössische Kunst, die lokales Talent in Kigali präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        30.090895,
+                        -1.941655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "Kialakított zöld golfpálya, amely szabadidős sportolási lehetőséget kínál Kigaliban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.093369,
+                        -1.9383
+                  ]
+            },
+            {
+                  "name": "Inemas arts gallery",
+                  "text": "Kiemelkedő kortárs művészeti galéria, amely a helyi tehetségeket mutatja be Kigaliban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.090895,
+                        -1.941655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "Un teren de golf verde amenajat, care oferă facilități pentru sporturi de agrement în Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.093369,
+                        -1.9383
+                  ]
+            },
+            {
+                  "name": "Inemas arts gallery",
+                  "text": "O galerie de artă contemporană proeminentă, care prezintă talentul local în Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.090895,
+                        -1.941655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "A landscaped green golf course offering recreational sports in Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.093369,
+                        -1.9383
+                  ]
+            },
+            {
+                  "name": "Inemas arts gallery",
+                  "text": "A prominent contemporary arts gallery showcasing local talent in Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.090895,
+                        -1.941655
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.0967, -1.9361],
@@ -783,7 +1377,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-niyo-arts-gallery-landmarks-v2",
+    id: "rw-niyo-arts-gallery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "Ein 18-Loch-Golfplatz, der idyllisch zwischen den sanften Hügeln von Kigali eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        30.091191,
+                        -1.93362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "Egy 18 lyukú golfpálya, amely Kigali lankás dombjai között terül el.",
+                  "category": "landmark",
+                  "coords": [
+                        30.091191,
+                        -1.93362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "Un teren de golf cu 18 găuri, situat idilic printre dealurile pitorești din Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.091191,
+                        -1.93362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kigali Golf Course",
+                  "text": "An 18-hole golf course beautifully set among the rolling hills of Kigali.",
+                  "category": "landmark",
+                  "coords": [
+                        30.091191,
+                        -1.93362
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.0883, -1.9333],
@@ -843,7 +1482,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
     {
-    id: "rw-our-lady-of-kibeho-sanctuary-landmarks-v2",
+    id: "rw-our-lady-of-kibeho-sanctuary-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mata Tea Company Limited",
+                  "text": "Das Gelände der Mata Tea Company Limited ist ein Industriedenkmal, das der regionalen Teeproduktion in der Nähe des Kibeho-Heiligtums gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.573133,
+                        -2.57871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mata Tea Company Limited",
+                  "text": "A Mata Tea Company Limited telephelye egy ipari műemlék, amelyet a regionális teatermelésnek szenteltek a Kibeho szentély közelében.",
+                  "category": "historical",
+                  "coords": [
+                        29.573133,
+                        -2.57871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mata Tea Company Limited",
+                  "text": "Situl Mata Tea Company Limited reprezintă un monument industrial dedicat producției regionale de ceai din apropierea Sanctuarului Kibeho.",
+                  "category": "historical",
+                  "coords": [
+                        29.573133,
+                        -2.57871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mata Tea Company Limited",
+                  "text": "The Mata Tea Company Limited site stands as an industrial monument dedicated to the regional tea production near the Kibeho Sanctuary.",
+                  "category": "historical",
+                  "coords": [
+                        29.573133,
+                        -2.57871
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-05",
     coords: [29.5539, -2.6394],
@@ -963,7 +1647,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-cathedral-of-st-michel-kigali-landmarks-v2",
+    id: "rw-cathedral-of-st-michel-kigali-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorilla Statue",
+                  "text": "Eine markante öffentliche Statue zu Ehren der legendären Berggorillas Ruandas, eines wichtigen Symbols der Tierwelt des Landes.",
+                  "category": "historical",
+                  "coords": [
+                        30.060985,
+                        -1.948368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorilla Statue",
+                  "text": "Egy kiemelkedő köztéri szobor, amely Ruanda ikonikus hegyi gorilláit, az ország vadvilágának kulcsfontosságú szimbólumát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        30.060985,
+                        -1.948368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorilla Statue",
+                  "text": "O statuie publică proeminentă care celebrează gorilele de munte emblematice din Rwanda, un simbol cheie al faunei sălbatice a țării.",
+                  "category": "historical",
+                  "coords": [
+                        30.060985,
+                        -1.948368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorilla Statue",
+                  "text": "A prominent public statue celebrating Rwanda's iconic mountain gorillas, a key symbol of the country's wildlife.",
+                  "category": "historical",
+                  "coords": [
+                        30.060985,
+                        -1.948368
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.0617, -1.9483],
@@ -1023,7 +1752,88 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-kigali-pele-stadium-landmarks-v2",
+    id: "rw-kigali-pele-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyamirambo Women's Centre",
+                  "text": "Eine Basisinitiative der Gemeinde, die Besuchern traditionelle Handwerksworkshops und geführte Rundgänge anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.062764,
+                        -1.964883
+                  ]
+            },
+            {
+                  "name": "Kigali zoo for Moussa",
+                  "text": "Eine lokale zoologische Attraktion, die eine zugängliche Möglichkeit bietet, regionale Tierarten in Kigali zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        30.055063,
+                        -1.968381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyamirambo Women's Centre",
+                  "text": "Egy alulról szerveződő közösségi kezdeményezés, amely hagyományos kézműves foglalkozásokat és vezetett sétákat kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        30.062764,
+                        -1.964883
+                  ]
+            },
+            {
+                  "name": "Kigali zoo for Moussa",
+                  "text": "Helyi zoológiai látványosság, amely hozzáférhető lehetőséget biztosít a regionális állatfajok megfigyelésére Kigaliban.",
+                  "category": "recreational",
+                  "coords": [
+                        30.055063,
+                        -1.968381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyamirambo Women's Centre",
+                  "text": "O inițiativă comunitară de la nivelul bazei, care oferă vizitatorilor ateliere de meșteșuguri tradiționale și tururi pietonale ghidate.",
+                  "category": "landmark",
+                  "coords": [
+                        30.062764,
+                        -1.964883
+                  ]
+            },
+            {
+                  "name": "Kigali zoo for Moussa",
+                  "text": "O atracție zoologică locală care oferă o oportunitate accesibilă de a observa specii de animale regionale în Kigali.",
+                  "category": "recreational",
+                  "coords": [
+                        30.055063,
+                        -1.968381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyamirambo Women's Centre",
+                  "text": "A grassroots community initiative offering traditional craft workshops and guided walking tours to visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        30.062764,
+                        -1.964883
+                  ]
+            },
+            {
+                  "name": "Kigali zoo for Moussa",
+                  "text": "A local zoological attraction providing an accessible opportunity to observe regional animal species in Kigali.",
+                  "category": "recreational",
+                  "coords": [
+                        30.055063,
+                        -1.968381
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.0547, -1.9667],
@@ -1083,7 +1893,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-ubumwe-grande-hotel-landmarks-v2",
+    id: "rw-ubumwe-grande-hotel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église de la Sainte-Famille de Kigali",
+                  "text": "Die Église de la Sainte-Famille ist eine bedeutende katholische Backsteinkirche in rw-ubumwe-grande-hotel-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        30.06364,
+                        -1.944587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église de la Sainte-Famille de Kigali",
+                  "text": "Az Église de la Sainte-Famille egy jelentős katolikus téglatemplom rw-ubumwe-grande-hotel-landmarks-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        30.06364,
+                        -1.944587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église de la Sainte-Famille de Kigali",
+                  "text": "Église de la Sainte-Famille este o biserică catolică masivă din cărămidă situată în rw-ubumwe-grande-hotel-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        30.06364,
+                        -1.944587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sainte-Famille Church",
+                  "text": "The Église de la Sainte-Famille is a prominent red-brick Catholic parish church in rw-ubumwe-grande-hotel-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        30.06364,
+                        -1.944587
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.0635, -1.9458],
@@ -1143,7 +1998,124 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-cathedral-of-our-lady-of-wisdom-butare-landmarks-v2",
+    id: "rw-cathedral-of-our-lady-of-wisdom-butare-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "Die Eglise Ste. Therese ist eine charmante lokale Kirche in der Nähe von Butare, die als friedlicher Ort für religiöse Zusammenkünfte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "Das Théâtre Verdure ist ein Freiluft-Amphitheater im Grünen von Butare, das verschiedene Open-Air-Aufführungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Das Ethnografische Museum in Butare beherbergt eine umfangreiche Sammlung traditioneller ruandischer Artefakte und zeigt das vorkoloniale Leben und die Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        29.745214,
+                        -2.588744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "A Ste. Therese templom egy bájos helyi templom Butare közelében, amely a vallási összejövetelek békés helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "A Théâtre Verdure egy szabadtéri amfiteátrum Butare zöldövezetében, amely különféle szabadtéri előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A butarei Néprajzi Múzeum a hagyományos ruandai műtárgyak kiterjedt gyűjteményének ad otthont, bemutatva a gyarmatosítás előtti életet és kultúrát.",
+                  "category": "museum",
+                  "coords": [
+                        29.745214,
+                        -2.588744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "Eglise Ste. Therese este o biserică locală fermecătoare de lângă Butare, servind drept loc liniștit pentru adunări religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "Théâtre Verdure este un amfiteatru în aer liber situat printre verdeața din Butare, găzduind diverse spectacole în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Muzeul Etnografic din Butare găzduiește o colecție vastă de artefacte tradiționale rwandeze, prezentând viața și cultura precolonială.",
+                  "category": "museum",
+                  "coords": [
+                        29.745214,
+                        -2.588744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "Eglise Ste. Therese is a charming local church near Butare, serving as a peaceful place for religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "Théâtre Verdure is an open-air amphitheatre set among the greenery of Butare, hosting various outdoor performances.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "The Ethnographic Museum in Butare houses an extensive collection of traditional Rwandan artifacts, showcasing pre-colonial life and culture.",
+                  "category": "museum",
+                  "coords": [
+                        29.745214,
+                        -2.588744
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-05",
     coords: [29.7408, -2.5983],
@@ -1263,7 +2235,88 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "rw-gisenyi-grand-mosque-landmarks-v2",
+    id: "rw-gisenyi-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "Ein lebendiger lokaler Galerieraum, der eine Reihe zeitgenössischer und traditioneller Werke verschiedener afrikanischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Tourist office",
+                  "text": "Die lokale Touristeninformation, die umfassende Führer, Karten und Details zur Erkundung der umliegenden Sehenswürdigkeiten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259955,
+                        -1.702228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "Pezsgő helyi galéria, amely kortárs és hagyományos művek sorát állítja ki különböző afrikai művészektől.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Tourist office",
+                  "text": "A helyi turisztikai információs iroda átfogó útmutatókat, térképeket és részleteket kínál a környező látnivalók felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259955,
+                        -1.702228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "O galerie locală vibrantă care expune o serie de lucrări contemporane și tradiționale ale diverșilor artiști africani.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Tourist office",
+                  "text": "Biroul local de informare turistică, care oferă ghiduri cuprinzătoare, hărți și detalji pentru explorarea atracțiilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259955,
+                        -1.702228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "A vibrant local gallery space exhibiting an array of contemporary and traditional works from diverse African artists.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Tourist office",
+                  "text": "The local tourist information office providing comprehensive guides, maps, and details for exploring the surrounding attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259955,
+                        -1.702228
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-04",
     coords: [29.2558, -1.7011],
@@ -1443,7 +2496,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rw-m-m-plaza-kigali-landmarks-v2",
+    id: "rw-m-m-plaza-kigali-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campaign Against Genocide Museum",
+                  "text": "Ein bedeutendes Museum, das die Geschichte der Militärkampagne detailliert beschreibt, die den Völkermord in Ruanda 1994 erfolgreich stoppte.",
+                  "category": "museum",
+                  "coords": [
+                        30.098985,
+                        -1.952315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campaign Against Genocide Museum",
+                  "text": "Jelentős múzeum, amely részletesen bemutatja annak a katonai kampánynak a történetét, amely sikeresen megállította az 1994-es ruandai népirtást.",
+                  "category": "museum",
+                  "coords": [
+                        30.098985,
+                        -1.952315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campaign Against Genocide Museum",
+                  "text": "Un muzeu semnificativ care detaliază istoria campaniei militare care a oprit cu succes genocidul din Rwanda din 1994.",
+                  "category": "museum",
+                  "coords": [
+                        30.098985,
+                        -1.952315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Campaign Against Genocide Museum",
+                  "text": "A significant museum detailing the history of the military campaign that successfully halted the 1994 Rwandan genocide.",
+                  "category": "museum",
+                  "coords": [
+                        30.098985,
+                        -1.952315
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-01",
     coords: [30.0989, -1.9567],
@@ -1503,7 +2601,52 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "rw-sorwathe-tea-factory-landmarks-v2",
+    id: "rw-sorwathe-tea-factory-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Buziganjwiri",
+                  "text": "Ein markanter Berggipfel, der atemberaubende Ausblicke auf die umliegenden ruandischen Teeplantagen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.83187,
+                        -1.78329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Buziganjwiri",
+                  "text": "Egy kiemelkedő hegycsúcs, amely lélegzetelállító kilátást nyújt a környező ruandai teaültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        29.83187,
+                        -1.78329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Buziganjwiri",
+                  "text": "Un vârf de munte proeminent care oferă vederi uluitoare asupra plantațiilor de ceai din Rwanda.",
+                  "category": "natural",
+                  "coords": [
+                        29.83187,
+                        -1.78329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Buziganjwiri",
+                  "text": "A prominent mountain peak offering breathtaking views over the surrounding Rwandan tea plantations.",
+                  "category": "natural",
+                  "coords": [
+                        29.83187,
+                        -1.78329
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RW-03",
     coords: [29.8785, -1.7482],

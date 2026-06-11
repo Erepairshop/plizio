@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraNigeriaLandmarksV2: POI[] = [
   {
-    id: "national-mosque-abuja-landmarks-v2",
+    id: "national-mosque-abuja-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thought Pyramid Art Centre",
+                  "text": "Das Thought Pyramid Art Centre in Abuja fungiert als innovativer Galerieraum, der zeitgenössische afrikanische Kunstwerke und Skulpturen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        7.460468,
+                        9.076251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thought Pyramid Art Centre",
+                  "text": "Az abujai Thought Pyramid Art Centre innovatív galériaként működik, amely kortárs afrikai művészeti alkotásokat és szobrokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        7.460468,
+                        9.076251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thought Pyramid Art Centre",
+                  "text": "Centrul de Artă Thought Pyramid din Abuja funcționează ca o galerie inovatoare care expune opere de artă și sculpturi africane contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        7.460468,
+                        9.076251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thought Pyramid Art Centre",
+                  "text": "The Thought Pyramid Art Centre in Abuja functions as an innovative gallery space exhibiting contemporary African artworks and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        7.460468,
+                        9.076251
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-FC",
     coords: [7.4735, 9.061],
@@ -51,7 +96,88 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-christian-centre-abuja-landmarks-v2",
+    id: "national-christian-centre-abuja-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "S'apeyi of Garki Palace",
+                  "text": "Der S'apeyi of Garki Palace ist eine traditionelle befestigte Residenz, die als Sitz der lokalen indigenen Führung dient.",
+                  "category": "castle",
+                  "coords": [
+                        7.487449,
+                        9.020925
+                  ]
+            },
+            {
+                  "name": "Exhibition Pavilion",
+                  "text": "Der Exhibition Pavilion ist ein öffentliches Kunstzentrum, das für die Präsentation nationaler kultureller und visueller Ausstellungen errichtet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        7.493059,
+                        9.042436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "S'apeyi of Garki Palace",
+                  "text": "A garki S'apeyi palota egy hagyományos megerősített rezidencia, amely a helyi őslakos vezetés székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        7.487449,
+                        9.020925
+                  ]
+            },
+            {
+                  "name": "Exhibition Pavilion",
+                  "text": "A Kiállítási Pavilon egy dedikált nyilvános művészeti központ, amely nemzeti kulturális és vizuális kiállítások bemutatására épült.",
+                  "category": "cultural",
+                  "coords": [
+                        7.493059,
+                        9.042436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "S'apeyi of Garki Palace",
+                  "text": "Palatul S'apeyi din Garki este o reședință tradițională fortificată care servește drept sediu al conducerii indigene locale.",
+                  "category": "castle",
+                  "coords": [
+                        7.487449,
+                        9.020925
+                  ]
+            },
+            {
+                  "name": "Exhibition Pavilion",
+                  "text": "Pavilionul expozițional este un centru public de arte dedicat, construit pentru prezentarea expozițiilor culturale și vizuale naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.493059,
+                        9.042436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "S'apeyi of Garki Palace",
+                  "text": "S'apeyi of Garki Palace is a traditional fortified residence serving as the seat of local indigenous leadership.",
+                  "category": "castle",
+                  "coords": [
+                        7.487449,
+                        9.020925
+                  ]
+            },
+            {
+                  "name": "Exhibition Pavilion",
+                  "text": "The Exhibition Pavilion is a dedicated public arts centre built for showcasing national cultural and visual exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.493059,
+                        9.042436
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-FC",
     coords: [7.4984, 9.0531],
@@ -99,7 +225,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "national-arts-theatre-lagos-landmarks-v2",
+    id: "national-arts-theatre-lagos-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Gallery of Modern Arts",
+                  "text": "Diese bedeutende Galerie im Komplex des National Arts Theatre zeigt eine große Sammlung zeitgenössischer nigerianischer Porträts und moderner Kunstwerke.",
+                  "category": "cultural",
+                  "coords": [
+                        3.369299,
+                        6.476868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Gallery of Modern Arts",
+                  "text": "A Nemzeti Művészeti Színház épületegyüttesében található jelentős galéria kortárs nigériai portrék és modern művészeti alkotások nagy gyűjteményét állítja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        3.369299,
+                        6.476868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Gallery of Modern Arts",
+                  "text": "Găzduită în complexul Teatrului Național de Arte, această galerie proeminentă expune o colecție majoră de portrete nigeriene contemporane și opere de artă modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        3.369299,
+                        6.476868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Gallery of Modern Arts",
+                  "text": "Housed within the National Arts Theatre complex, this prominent gallery exhibits a major collection of contemporary Nigerian portraits and modern artworks.",
+                  "category": "cultural",
+                  "coords": [
+                        3.369299,
+                        6.476868
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [3.3695, 6.4764],
@@ -147,7 +318,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "tafawa-balewa-square-landmarks-v2",
+    id: "tafawa-balewa-square-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum",
+                  "text": "Das National Museum of Nigeria ist ein weitläufiges Museum, das bedeutende archäologische Funde und traditionelle nigerianische Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        3.403542,
+                        6.444323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum",
+                  "text": "A Nigériai Nemzeti Múzeum egy kiterjedt múzeum, amely jelentős régészeti leleteket és hagyományos nigériai műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        3.403542,
+                        6.444323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum",
+                  "text": "Muzeul Național al Nigeriei este un muzeu extins care prezintă descoperiri arheologice semnificative și artefacte tradiționale nigeriene.",
+                  "category": "museum",
+                  "coords": [
+                        3.403542,
+                        6.444323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum",
+                  "text": "The National Museum of Nigeria is an expansive museum showcasing significant archaeological finds and traditional Nigerian artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        3.403542,
+                        6.444323
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [3.4014, 6.451],
@@ -243,7 +459,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lekki-ikoyi-link-bridge-landmarks-v2",
+    id: "lekki-ikoyi-link-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ikoyi Park",
+                  "text": "Ein grüner Erholungsraum, der einen natürlichen Rückzugsort im wohlhabenden Wohnviertel Ikoyi bietet.",
+                  "category": "park",
+                  "coords": [
+                        3.445556,
+                        6.458611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ikoyi Park",
+                  "text": "Egy zöld rekreációs terület, amely természetes menedéket nyújt a jómódú Ikoyi lakónegyedben.",
+                  "category": "park",
+                  "coords": [
+                        3.445556,
+                        6.458611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ikoyi Park",
+                  "text": "Un spațiu verde de recreere care oferă un refugiu natural în cartierul rezidențial bogat Ikoyi.",
+                  "category": "park",
+                  "coords": [
+                        3.445556,
+                        6.458611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ikoyi Park",
+                  "text": "A green recreational space providing a natural retreat within the affluent residential Ikoyi neighborhood.",
+                  "category": "park",
+                  "coords": [
+                        3.445556,
+                        6.458611
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [3.4566, 6.4491],
@@ -291,7 +552,196 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "necom-house-lagos-landmarks-v2",
+    id: "necom-house-lagos-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "Eine Küstenattraktion mit Sandstränden in der Nähe des historischen örtlichen Leuchtturms.",
+                  "category": "landmark",
+                  "coords": [
+                        3.39188,
+                        6.394245
+                  ]
+            },
+            {
+                  "name": "Atlas Beach",
+                  "text": "Ein Sandstrand an der Atlantikküste, der einen entspannenden Rückzugsort am Meer in der Metropole bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.394344,
+                        6.416334
+                  ]
+            },
+            {
+                  "name": "Holy Cross Cathedral",
+                  "text": "Eine römisch-katholische Kathedrale im französischen Gotikstil, entworfen von Lazarus Borges da Silva und Francisco Nobre.",
+                  "category": "religious",
+                  "coords": [
+                        3.396445,
+                        6.449995
+                  ]
+            },
+            {
+                  "name": "Old Government Printing Press",
+                  "text": "Ein Kunstzentrum, das auf einzigartige Weise in der umgenutzten historischen Regierungsdruckerei untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        3.394557,
+                        6.449035
+                  ]
+            },
+            {
+                  "name": "Freedom Park",
+                  "text": "Ein Gedenk- und Freizeitpark, der kreativ auf dem ehemaligen Gelände des Her Majesty's Broad Street Prison errichtet wurde.",
+                  "category": "park",
+                  "coords": [
+                        3.396551,
+                        6.448906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "Egy homokos tengerpartot kínáló látványosság a helyi történelmi világítótorony közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        3.39188,
+                        6.394245
+                  ]
+            },
+            {
+                  "name": "Atlas Beach",
+                  "text": "Az Atlanti-óceán partján fekvő homokos partszakasz, amely pihentető tengerparti menedéket nyújt a metropoliszban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.394344,
+                        6.416334
+                  ]
+            },
+            {
+                  "name": "Holy Cross Cathedral",
+                  "text": "Egy francia gótikus stílusú római katolikus katedrális, amelyet Lazarus Borges da Silva és Francisco Nobre tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        3.396445,
+                        6.449995
+                  ]
+            },
+            {
+                  "name": "Old Government Printing Press",
+                  "text": "Egy művészeti központ, amely az egykori történelmi kormányzati nyomda átalakított épületében kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        3.394557,
+                        6.449035
+                  ]
+            },
+            {
+                  "name": "Freedom Park",
+                  "text": "Egy emlék- és szabadidőpark, amelyet a korábbi Őfelsége Broad Street-i börtönének helyén hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        3.396551,
+                        6.448906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "O atracție de coastă care oferă țărmuri nisipoase situate în apropierea farului istoric local.",
+                  "category": "landmark",
+                  "coords": [
+                        3.39188,
+                        6.394245
+                  ]
+            },
+            {
+                  "name": "Atlas Beach",
+                  "text": "O întindere de nisip de-a lungul coastei Atlanticului, oferind o evadare relaxantă la malul mării în metropolă.",
+                  "category": "recreational",
+                  "coords": [
+                        3.394344,
+                        6.416334
+                  ]
+            },
+            {
+                  "name": "Holy Cross Cathedral",
+                  "text": "O catedrală romano-catolică cu arhitectură în stil gotic francez, proiectată de Lazarus Borges da Silva și Francisco Nobre.",
+                  "category": "religious",
+                  "coords": [
+                        3.396445,
+                        6.449995
+                  ]
+            },
+            {
+                  "name": "Old Government Printing Press",
+                  "text": "Un centru de arte găzduit într-o fostă tipografie istorică a guvernului, reamenajată.",
+                  "category": "cultural",
+                  "coords": [
+                        3.394557,
+                        6.449035
+                  ]
+            },
+            {
+                  "name": "Freedom Park",
+                  "text": "Un parc memorial și de agrement construit creativ pe fostul amplasament al închisorii Her Majesty's Broad Street.",
+                  "category": "park",
+                  "coords": [
+                        3.396551,
+                        6.448906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "A coastal attraction offering sandy shores located near the historic local lighthouse.",
+                  "category": "landmark",
+                  "coords": [
+                        3.39188,
+                        6.394245
+                  ]
+            },
+            {
+                  "name": "Atlas Beach",
+                  "text": "A sandy stretch along the Atlantic coast providing a relaxing seaside escape in the metropolis.",
+                  "category": "recreational",
+                  "coords": [
+                        3.394344,
+                        6.416334
+                  ]
+            },
+            {
+                  "name": "Holy Cross Cathedral",
+                  "text": "A Roman Catholic cathedral featuring French Gothic style architecture designed by Lazarus Borges da Silva and Francisco Nobre.",
+                  "category": "religious",
+                  "coords": [
+                        3.396445,
+                        6.449995
+                  ]
+            },
+            {
+                  "name": "Old Government Printing Press",
+                  "text": "An arts centre uniquely housed within the repurposed historical government printing facility.",
+                  "category": "cultural",
+                  "coords": [
+                        3.394557,
+                        6.449035
+                  ]
+            },
+            {
+                  "name": "Freedom Park",
+                  "text": "A memorial and leisure park creatively built on the former site of Her Majesty's Broad Street Prison.",
+                  "category": "park",
+                  "coords": [
+                        3.396551,
+                        6.448906
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [3.3957, 6.4485],
@@ -339,7 +789,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "godswill-akpabio-stadium-landmarks-v2",
+    id: "godswill-akpabio-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prof Stella Idiong's Art Gallery",
+                  "text": "Die Prof Stella Idiong's Art Gallery ist ein lokaler Kulturraum, der zeitgenössische visuelle Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        7.970623,
+                        5.037648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prof Stella Idiong's Art Gallery",
+                  "text": "A Prof Stella Idiong Művészeti Galéria egy helyi kulturális tér, amely kortárs vizuális alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        7.970623,
+                        5.037648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prof Stella Idiong's Art Gallery",
+                  "text": "Galeria de artă a profesorului Stella Idiong este un spațiu cultural local care expune lucrări vizuale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        7.970623,
+                        5.037648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prof Stella Idiong's Art Gallery",
+                  "text": "Prof Stella Idiong's Art Gallery is a local cultural space exhibiting contemporary visual works.",
+                  "category": "museum",
+                  "coords": [
+                        7.970623,
+                        5.037648
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-AK",
     coords: [7.9715, 5.0186],
@@ -387,7 +882,88 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moshood-abiola-stadium-landmarks-v2",
+    id: "moshood-abiola-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magicland Amusement Park",
+                  "text": "Der Magicland Amusement Park ist ein familienfreundlicher Freizeitpark mit Achterbahnen und Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        7.452293,
+                        9.043092
+                  ]
+            },
+            {
+                  "name": "Abuja City Gate",
+                  "text": "Das Abuja City Gate ist ein monumentaler zeremonieller Torbogen, der Besucher in Nigerias Hauptstadt willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        7.44862,
+                        9.035698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magicland Amusement Park",
+                  "text": "A Magicland Vidámpark egy családbarát tematikus park, amely hullámvasutakkal és vidámparki játékokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.452293,
+                        9.043092
+                  ]
+            },
+            {
+                  "name": "Abuja City Gate",
+                  "text": "Az abujai városkapu egy monumentális ceremoniális diadalív, amely Nigéria fővárosába fogadja a látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        7.44862,
+                        9.035698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magicland Amusement Park",
+                  "text": "Magicland Amusement Park este un parc tematic orientat spre familii, având montagne russe și atracții de bâlci.",
+                  "category": "recreational",
+                  "coords": [
+                        7.452293,
+                        9.043092
+                  ]
+            },
+            {
+                  "name": "Abuja City Gate",
+                  "text": "Poarta orașului Abuja este o arcadă ceremonială monumentală care întâmpină vizitatorii în capitala Nigeriei.",
+                  "category": "historical",
+                  "coords": [
+                        7.44862,
+                        9.035698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magicland Amusement Park",
+                  "text": "Magicland Amusement Park is a family-oriented theme park featuring roller coasters and fairground rides.",
+                  "category": "recreational",
+                  "coords": [
+                        7.452293,
+                        9.043092
+                  ]
+            },
+            {
+                  "name": "Abuja City Gate",
+                  "text": "The Abuja City Gate is a monumental ceremonial archway welcoming visitors to Nigeria's capital.",
+                  "category": "historical",
+                  "coords": [
+                        7.44862,
+                        9.035698
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-FC",
     coords: [7.4533, 9.0381],
@@ -435,7 +1011,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "central-bank-of-nigeria-hq-landmarks-v2",
+    id: "central-bank-of-nigeria-hq-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Millennium Tower",
+                  "text": "Der Millennium Tower ist eine monumentale architektonische Spitze, die die Skyline von Nigerias Hauptstadt dominiert.",
+                  "category": "tower",
+                  "coords": [
+                        7.492864,
+                        9.055821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Millennium Tower",
+                  "text": "A Millennium-torony egy monumentális építészeti torony, amely Nigéria fővárosának látképét uralja.",
+                  "category": "tower",
+                  "coords": [
+                        7.492864,
+                        9.055821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Millennium Tower",
+                  "text": "Turnul Mileniului este o turlă arhitecturală monumentală care domină orizontul capitalei Nigeriei.",
+                  "category": "tower",
+                  "coords": [
+                        7.492864,
+                        9.055821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Millennium Tower",
+                  "text": "The Millennium Tower is a monumental architectural spire dominating the skyline of Nigeria's capital.",
+                  "category": "tower",
+                  "coords": [
+                        7.492864,
+                        9.055821
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-FC",
     coords: [7.4947, 9.0556],
@@ -483,7 +1104,160 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cathedral-church-of-christ-landmarks-v2",
+    id: "cathedral-church-of-christ-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Water House",
+                  "text": "Ein historisches Denkmal, das von zurückgekehrten Afro-Brasilianern erbaut wurde und für seine einzigartigen kolonialen Architekturdetails bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        3.39099,
+                        6.452596
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Christ",
+                  "text": "Eine anglikanische Kathedrale, die vom Architekten Bagan Benjamin in einem markanten normannisch-gotischen Stil entworfen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        3.390196,
+                        6.450883
+                  ]
+            },
+            {
+                  "name": "Tinubu Square",
+                  "text": "Ein offener öffentlicher Platz mit einem zentralen Brunnen, der früher als Unabhängigkeitsplatz bekannt war.",
+                  "category": "park",
+                  "coords": [
+                        3.389382,
+                        6.453878
+                  ]
+            },
+            {
+                  "name": "Lagos Central Mosque",
+                  "text": "Ein bedeutendes islamisches Gotteshaus, das sich durch seine markanten Minarette und die weitläufige zentrale Kuppel auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        3.388158,
+                        6.457387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Water House",
+                  "text": "A visszatérő afro-brazilok által épített történelmi műemlék, amely egyedülálló gyarmati építészeti részleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        3.39099,
+                        6.452596
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Christ",
+                  "text": "Bagan Benjamin építész által tervezett anglikán katedrális, amely kiemelkedő normann gótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        3.390196,
+                        6.450883
+                  ]
+            },
+            {
+                  "name": "Tinubu Square",
+                  "text": "Egy központi szökőkúttal rendelkező nyitott köztér, amelyet korábban Függetlenség tereként ismertek.",
+                  "category": "park",
+                  "coords": [
+                        3.389382,
+                        6.453878
+                  ]
+            },
+            {
+                  "name": "Lagos Central Mosque",
+                  "text": "Egy jelentős iszlám istentiszteleti hely, amelyet feltűnő minaretjei és kiterjedt központi kupolája jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        3.388158,
+                        6.457387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Water House",
+                  "text": "Un monument istoric construit de afro-brazilieni repatriați, remarcat pentru detaliile sale arhitecturale coloniale unice.",
+                  "category": "historical",
+                  "coords": [
+                        3.39099,
+                        6.452596
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Christ",
+                  "text": "O catedrală anglicană proiectată de arhitectul Bagan Benjamin într-un proeminent stil gotic normand.",
+                  "category": "religious",
+                  "coords": [
+                        3.390196,
+                        6.450883
+                  ]
+            },
+            {
+                  "name": "Tinubu Square",
+                  "text": "Un spațiu public deschis care prezintă o fântână centrală, recunoscut anterior ca Piața Independenței.",
+                  "category": "park",
+                  "coords": [
+                        3.389382,
+                        6.453878
+                  ]
+            },
+            {
+                  "name": "Lagos Central Mosque",
+                  "text": "Un lăcaș de cult islamic major, caracterizat prin minaretele sale izbitoare și cupola centrală expansivă.",
+                  "category": "religious",
+                  "coords": [
+                        3.388158,
+                        6.457387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Water House",
+                  "text": "A historical monument built by returnee Afro-Brazilians, noted for its unique colonial architectural details.",
+                  "category": "historical",
+                  "coords": [
+                        3.39099,
+                        6.452596
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Christ",
+                  "text": "An Anglican cathedral designed by architect Bagan Benjamin in a prominent Norman Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        3.390196,
+                        6.450883
+                  ]
+            },
+            {
+                  "name": "Tinubu Square",
+                  "text": "An open public space featuring a central fountain, formerly recognized as Independence Square.",
+                  "category": "park",
+                  "coords": [
+                        3.389382,
+                        6.453878
+                  ]
+            },
+            {
+                  "name": "Lagos Central Mosque",
+                  "text": "A major Islamic place of worship characterized by its striking minarets and expansive central dome.",
+                  "category": "religious",
+                  "coords": [
+                        3.388158,
+                        6.457387
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [3.3888, 6.4526],
@@ -531,7 +1305,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ship-house-abuja-landmarks-v2",
+    id: "ship-house-abuja-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maitama Amusement Park",
+                  "text": "Ein Familienfreizeit- und Themenpark mit Fahrgeschäften und Grünflächen im Maitama-Viertel von Abuja.",
+                  "category": "recreational",
+                  "coords": [
+                        7.500147,
+                        9.084302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maitama Amusement Park",
+                  "text": "Családi rekreációs és szabadidős vidámpark vidámparki játékokkal és zöldterületekkel Abuja Maitama kerületében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.500147,
+                        9.084302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maitama Amusement Park",
+                  "text": "Un parc tematic de recreere și agrement pentru familie, oferind atracții și spații verzi în cartierul Maitama din Abuja.",
+                  "category": "recreational",
+                  "coords": [
+                        7.500147,
+                        9.084302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maitama Amusement Park",
+                  "text": "A family recreation and leisure theme park featuring rides and green spaces in the Maitama district of Abuja.",
+                  "category": "recreational",
+                  "coords": [
+                        7.500147,
+                        9.084302
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-FC",
     coords: [7.4871, 9.062],
@@ -627,7 +1446,196 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cocoa-house-ibadan-landmarks-v2",
+    id: "cocoa-house-ibadan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trans Amuserment Park",
+                  "text": "Dieser weitläufige Vergnügungspark in Ibadan bietet klassische Fahrgeschäfte und Erholungsräume für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        3.908477,
+                        7.435245
+                  ]
+            },
+            {
+                  "name": "Festac",
+                  "text": "Dieser Museumsraum bewahrt Artefakte und kulturelle Erinnerungen auf, die mit dem panafrikanischen Festac-Erbe verbunden sind.",
+                  "category": "museum",
+                  "coords": [
+                        3.895686,
+                        7.402658
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Dieses Nationalmuseum in Ibadan stellt bedeutende nigerianische Antiquitäten aus, darunter aufwendige lokale Schnitzereien und zeremonielle Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        3.868712,
+                        7.384946
+                  ]
+            },
+            {
+                  "name": "New Culture Studios",
+                  "text": "Dieses lebendige Kunstzentrum in Ibadan bietet einen kreativen Treffpunkt für zeitgenössische bildende und darstellende Künste Nigerias.",
+                  "category": "cultural",
+                  "coords": [
+                        3.89097,
+                        7.414684
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Eingebettet in das geschäftige Stadtbild von Ibadan bietet dieser städtische Vergnügungspark Freiluftaktivitäten und Unterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        3.899372,
+                        7.445013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trans Amuserment Park",
+                  "text": "Ez a kiterjedt ibadani vidámpark klasszikus szórakoztató attrakciókat és rekreációs tereket kínál a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        3.908477,
+                        7.435245
+                  ]
+            },
+            {
+                  "name": "Festac",
+                  "text": "Ez a múzeumi tér a pánafrikai Festac örökségéhez kapcsolódó műtárgyakat és kulturális emlékeket őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        3.895686,
+                        7.402658
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Az Ibadanban található nemzeti múzeum fontos nigériai régiségeket, többek között bonyolult helyi fafaragásokat és ceremoniális tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        3.868712,
+                        7.384946
+                  ]
+            },
+            {
+                  "name": "New Culture Studios",
+                  "text": "Ez a nyüzsgő ibadani művészeti központ a kortárs nigériai vizuális és előadóművészetek kreatív csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        3.89097,
+                        7.414684
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "A nyüzsgő ibadani városképben megbúvó városi vidámpark szabadtéri szabadidős tevékenységeket és szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        3.899372,
+                        7.445013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trans Amuserment Park",
+                  "text": "Acest vast parc de distracții din Ibadan oferă atracții clasice și spații de recreere pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        3.908477,
+                        7.435245
+                  ]
+            },
+            {
+                  "name": "Festac",
+                  "text": "Acest spațiu muzeal păstrează artefacte și amintiri culturale asociate cu moștenirea pan-africană Festac.",
+                  "category": "museum",
+                  "coords": [
+                        3.895686,
+                        7.402658
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Situat în Ibadan, acest muzeu național expune antichități nigeriene importante, inclusiv sculpturi locale complicate și artefacte ceremoniale.",
+                  "category": "museum",
+                  "coords": [
+                        3.868712,
+                        7.384946
+                  ]
+            },
+            {
+                  "name": "New Culture Studios",
+                  "text": "Acest centru de arte vibrant din Ibadan oferă un nucleu creativ pentru artele vizuale și spectacolului nigerian contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        3.89097,
+                        7.414684
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Amplasat în peisajul urban plin de viață din Ibadan, acest parc de distracții urban oferă activități recreative în aer liber și amuzament.",
+                  "category": "recreational",
+                  "coords": [
+                        3.899372,
+                        7.445013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trans Amuserment Park",
+                  "text": "This sprawling theme park in Ibadan offers classic amusement rides and recreational spaces for families.",
+                  "category": "recreational",
+                  "coords": [
+                        3.908477,
+                        7.435245
+                  ]
+            },
+            {
+                  "name": "Festac",
+                  "text": "This museum space preserves artifacts and cultural memories associated with the pan-African Festac heritage.",
+                  "category": "museum",
+                  "coords": [
+                        3.895686,
+                        7.402658
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Located in Ibadan, this national museum displays important Nigerian antiquities, including intricate local carvings and ceremonial artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        3.868712,
+                        7.384946
+                  ]
+            },
+            {
+                  "name": "New Culture Studios",
+                  "text": "This vibrant arts centre in Ibadan provides a creative hub for contemporary Nigerian visual and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        3.89097,
+                        7.414684
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Nestled in the bustling Ibadan cityscape, this urban theme park offers outdoor recreational activities and amusements.",
+                  "category": "recreational",
+                  "coords": [
+                        3.899372,
+                        7.445013
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-OY",
     coords: [3.8966, 7.3877],
@@ -675,7 +1683,88 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "great-mosque-of-kano-landmarks-v2",
+    id: "great-mosque-of-kano-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "Der traditionelle Palast des Emirs von Kano dient als kulturelles Zentrum nahe der Großen Moschee.",
+                  "category": "castle",
+                  "coords": [
+                        8.518798,
+                        11.994667
+                  ]
+            },
+            {
+                  "name": "Babban Masallacin Juma'a (Kano Central Mosque)",
+                  "text": "Die zentrale Freitagsmoschee von Kano ist eine der bedeutendsten islamischen Gebetsstätten der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        8.517641,
+                        11.994855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "A kanoi emír hagyományos palotája kulturális központként szolgál a Nagymecset közelében.",
+                  "category": "castle",
+                  "coords": [
+                        8.518798,
+                        11.994667
+                  ]
+            },
+            {
+                  "name": "Babban Masallacin Juma'a (Kano Central Mosque)",
+                  "text": "Kano központi pénteki mecsete a város egyik legfontosabb iszlám istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        8.517641,
+                        11.994855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "Palatul tradițional al emirului din Kano servește ca centru cultural în apropierea Marii Moschei.",
+                  "category": "castle",
+                  "coords": [
+                        8.518798,
+                        11.994667
+                  ]
+            },
+            {
+                  "name": "Babban Masallacin Juma'a (Kano Central Mosque)",
+                  "text": "Moscheea centrală de vineri din Kano este unul dintre cele mai importante locuri de cult islamic din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        8.517641,
+                        11.994855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "The traditional palace of the Emir of Kano serves as a cultural center near the Great Mosque.",
+                  "category": "castle",
+                  "coords": [
+                        8.518798,
+                        11.994667
+                  ]
+            },
+            {
+                  "name": "Babban Masallacin Juma'a (Kano Central Mosque)",
+                  "text": "The central Friday mosque of Kano is one of the most important Islamic places of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        8.517641,
+                        11.994855
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-KN",
     coords: [8.5173, 11.9964],
@@ -723,7 +1812,88 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mapo-hall-ibadan-landmarks-v2",
+    id: "mapo-hall-ibadan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mapo Hall",
+                  "text": "Mapo Hall ist ein imposantes bürgerliches Gebäude aus der Kolonialzeit, das als bedeutendes historisches Denkmal im Herzen der Stadt steht.",
+                  "category": "historical",
+                  "coords": [
+                        3.896993,
+                        7.375925
+                  ]
+            },
+            {
+                  "name": "Olubadan Palace",
+                  "text": "Der Olubadan-Palast ist ein verehrtes traditionelles Denkmal, das als historischer Sitz der lokalen Königsfamilie dient.",
+                  "category": "historical",
+                  "coords": [
+                        3.896245,
+                        7.37455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mapo Hall",
+                  "text": "A Mapo Hall egy impozáns, gyarmati korszakból származó középület, amely jelentős történelmi emlékműként áll a város szívében.",
+                  "category": "historical",
+                  "coords": [
+                        3.896993,
+                        7.375925
+                  ]
+            },
+            {
+                  "name": "Olubadan Palace",
+                  "text": "Az Olubadan Palota egy tiszteletreméltó hagyományos emlékmű, amely a helyi királyi család történelmi székhelyeként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        3.896245,
+                        7.37455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mapo Hall",
+                  "text": "Mapo Hall este o clădire civică impunătoare din epoca colonială, care se înalță ca un monument istoric semnificativ în inima orașului.",
+                  "category": "historical",
+                  "coords": [
+                        3.896993,
+                        7.375925
+                  ]
+            },
+            {
+                  "name": "Olubadan Palace",
+                  "text": "Palatul Olubadan este un monument tradițional venerat, care servește drept sediu istoric al regalității locale.",
+                  "category": "historical",
+                  "coords": [
+                        3.896245,
+                        7.37455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mapo Hall",
+                  "text": "Mapo Hall is an imposing colonial-era civic building that stands as a significant historical monument in the heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        3.896993,
+                        7.375925
+                  ]
+            },
+            {
+                  "name": "Olubadan Palace",
+                  "text": "Olubadan Palace is a revered traditional monument serving as the historic seat of local royalty.",
+                  "category": "historical",
+                  "coords": [
+                        3.896245,
+                        7.37455
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-OY",
     coords: [3.9015, 7.3753],
@@ -771,7 +1941,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mary-slessor-house-landmarks-v2",
+    id: "mary-slessor-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tinapa Resort",
+                  "text": "Ein großer Geschäfts- und Freizeitresort-Komplex, der als Freihandelszone in Calabar entwickelt wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318461,
+                        5.051546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tinapa Resort",
+                  "text": "Egy nagy kereskedelmi és szabadidős üdülőkomplexum, amelyet szabadkereskedelmi övezetként fejlesztettek ki Calabarban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318461,
+                        5.051546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinapa Resort",
+                  "text": "Un mare complex comercial și de agrement dezvoltat ca zonă de liber schimb în Calabar.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318461,
+                        5.051546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinapa Resort",
+                  "text": "A large commercial and leisure resort complex developed as a free trade zone in Calabar.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318461,
+                        5.051546
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-CR",
     coords: [8.3188, 5.0601],
@@ -915,7 +2130,88 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "badagry-heritage-museum-landmarks-v2",
+    id: "badagry-heritage-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mobee Royal Palace",
+                  "text": "Der als historischer Palast fungierende Mobee Royal Palace beherbergt Artefakte, die die komplexe Geschichte der Region in badagry-heritage-museum-landmarks-v2 dokumentieren.",
+                  "category": "castle",
+                  "coords": [
+                        2.884368,
+                        6.411948
+                  ]
+            },
+            {
+                  "name": "Wawu Palace",
+                  "text": "Der Wawu Palace dient als traditioneller Herrschersitz mit befestigten Mauern in der Gegend von badagry-heritage-museum-landmarks-v2.",
+                  "category": "castle",
+                  "coords": [
+                        2.883957,
+                        6.414383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mobee Royal Palace",
+                  "text": "A történelmi palotaként működő Mobee Royal Palace olyan műtárgyakat tartalmaz, amelyek dokumentálják a régió összetett történelmét a badagry-heritage-museum-landmarks-v2 területén.",
+                  "category": "castle",
+                  "coords": [
+                        2.884368,
+                        6.411948
+                  ]
+            },
+            {
+                  "name": "Wawu Palace",
+                  "text": "A Wawu Palace megerősített falakkal rendelkező hagyományos uralkodói székhelyként szolgál a badagry-heritage-museum-landmarks-v2 területén.",
+                  "category": "castle",
+                  "coords": [
+                        2.883957,
+                        6.414383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mobee Royal Palace",
+                  "text": "Funcționând ca un palat istoric, Mobee Royal Palace conține artefacte care documentează istoria complexă a regiunii în badagry-heritage-museum-landmarks-v2.",
+                  "category": "castle",
+                  "coords": [
+                        2.884368,
+                        6.411948
+                  ]
+            },
+            {
+                  "name": "Wawu Palace",
+                  "text": "Palatul Wawu servește ca un scaun tradițional de conducere cu ziduri fortificate în zona badagry-heritage-museum-landmarks-v2.",
+                  "category": "castle",
+                  "coords": [
+                        2.883957,
+                        6.414383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mobee Royal Palace",
+                  "text": "Functioning as a historical palace, the Mobee Royal Palace contains artifacts documenting the region's complex history in badagry-heritage-museum-landmarks-v2.",
+                  "category": "castle",
+                  "coords": [
+                        2.884368,
+                        6.411948
+                  ]
+            },
+            {
+                  "name": "Wawu Palace",
+                  "text": "The Wawu Palace serves as a traditional ruling seat with fortified walls in the badagry-heritage-museum-landmarks-v2 area.",
+                  "category": "castle",
+                  "coords": [
+                        2.883957,
+                        6.414383
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [2.8839, 6.4172],
@@ -963,7 +2259,160 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "oba-of-benin-palace-landmarks-v2",
+    id: "oba-of-benin-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Edogun of Benin",
+                  "text": "Die Stätte des Edogun von Benin dient als wichtiges kulturelles Wahrzeichen, das mit dem traditionellen Häuptlingstum und der Verwaltung der historischen Stadt verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.620883,
+                        6.337387
+                  ]
+            },
+            {
+                  "name": "Oliha Palace",
+                  "text": "Der Oliha-Palast dient als angestammte Residenz für den Oliha, einen wichtigen Häuptling, der an der traditionellen Krönung des Oba von Benin beteiligt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.608176,
+                        6.346541
+                  ]
+            },
+            {
+                  "name": "Oba Palace",
+                  "text": "Der Oba-Palast ist ein großartiger Architekturkomplex und die traditionelle, heilige Residenz des königlichen Herrschers des Edo-Volkes in Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.6201,
+                        6.331999
+                  ]
+            },
+            {
+                  "name": "Edo Carving Centre",
+                  "text": "Das Edo Carving Centre ist ein renommiertes handwerkliches Zentrum, in dem Handwerker traditionelle Bronze- und Holzskulpturen fertigen und so das künstlerische Erbe der Stadt bewahren.",
+                  "category": "cultural",
+                  "coords": [
+                        5.618625,
+                        6.328989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Edogun of Benin",
+                  "text": "Az Edogun of Benin egy fontos kulturális tájékozódási pont, amely a történelmi város hagyományos törzsfőnöki rendszeréhez és adminisztrációjához kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        5.620883,
+                        6.337387
+                  ]
+            },
+            {
+                  "name": "Oliha Palace",
+                  "text": "Az Oliha-palota ősi rezidenciaként szolgál az Oliha számára, aki egy kulcsfontosságú főnök a benini Oba hagyományos megkoronázásában.",
+                  "category": "castle",
+                  "coords": [
+                        5.608176,
+                        6.346541
+                  ]
+            },
+            {
+                  "name": "Oba Palace",
+                  "text": "Az Oba palota egy nagyszerű építészeti komplexum, és az Edo nép királyi uralkodójának hagyományos, szent rezidenciája Benin Cityben.",
+                  "category": "castle",
+                  "coords": [
+                        5.6201,
+                        6.331999
+                  ]
+            },
+            {
+                  "name": "Edo Carving Centre",
+                  "text": "Az Edo Carving Centre egy híres kézműves központ, ahol a mesterek hagyományos bronz- és faszobrokat készítenek, megőrizve a város művészeti örökségét.",
+                  "category": "cultural",
+                  "coords": [
+                        5.618625,
+                        6.328989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Edogun of Benin",
+                  "text": "Situl Edogun din Benin servește ca un reper cultural important legat de sistemul tradițional de conducere și administrare al orașului istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        5.620883,
+                        6.337387
+                  ]
+            },
+            {
+                  "name": "Oliha Palace",
+                  "text": "Palatul Oliha servește ca reședință ancestrală pentru Oliha, o căpetenie cheie implicată în încoronarea tradițională a Oba din Benin.",
+                  "category": "castle",
+                  "coords": [
+                        5.608176,
+                        6.346541
+                  ]
+            },
+            {
+                  "name": "Oba Palace",
+                  "text": "Palatul Oba este un grandios complex arhitectural și reședința tradițională, sacră, a conducătorului regal al poporului Edo din Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.6201,
+                        6.331999
+                  ]
+            },
+            {
+                  "name": "Edo Carving Centre",
+                  "text": "Edo Carving Centre este un renumit hub artizanal unde meșteșugarii creează sculpturi tradiționale din bronz și lemn, păstrând moștenirea artistică a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        5.618625,
+                        6.328989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Edogun of Benin",
+                  "text": "The Edogun of Benin site serves as an important cultural landmark tied to the traditional chieftaincy and administration of the historic city.",
+                  "category": "landmark",
+                  "coords": [
+                        5.620883,
+                        6.337387
+                  ]
+            },
+            {
+                  "name": "Oliha Palace",
+                  "text": "The Oliha Palace acts as the ancestral residence for the Oliha, a key chieftain involved in the traditional crowning of the Oba of Benin.",
+                  "category": "castle",
+                  "coords": [
+                        5.608176,
+                        6.346541
+                  ]
+            },
+            {
+                  "name": "Oba Palace",
+                  "text": "The Oba Palace is a grand architectural complex and the traditional, sacred residence of the royal ruler of the Edo people in Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.6201,
+                        6.331999
+                  ]
+            },
+            {
+                  "name": "Edo Carving Centre",
+                  "text": "The Edo Carving Centre is a renowned artisanal hub where craftsmen create traditional bronze and wood sculptures preserving the city's artistic heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        5.618625,
+                        6.328989
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-ED",
     coords: [5.6221, 6.3315],
@@ -1011,7 +2460,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "aso-villa-abuja-landmarks-v2",
+    id: "aso-villa-abuja-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Children's Zoo",
+                  "text": "Der Children's Zoo verfügt über zugängliche Tiergehege mit sanftmütigen Tieren, die speziell darauf ausgelegt sind, jüngere Besucher zu erziehen und zu begeistern.",
+                  "category": "recreational",
+                  "coords": [
+                        7.518494,
+                        9.081946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Children's Zoo",
+                  "text": "A Children's Zoo kifejezetten a fiatalabb látogatók oktatására és bevonására tervezett, könnyen megközelíthető, szelíd állatokat bemutató kifutókkal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        7.518494,
+                        9.081946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Children's Zoo",
+                  "text": "Children's Zoo oferă țarcuri accesibile cu animale blânde, special concepute pentru a educa și a atrage vizitatorii mai tineri.",
+                  "category": "recreational",
+                  "coords": [
+                        7.518494,
+                        9.081946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Children's Zoo",
+                  "text": "The Children's Zoo features gentle, accessible animal enclosures specially designed to educate and engage younger visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        7.518494,
+                        9.081946
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-FC",
     coords: [7.5255, 9.0601],
@@ -1155,7 +2649,232 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gidan-makama-museum-landmarks-v2",
+    id: "gidan-makama-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kano State Zoological Garden",
+                  "text": "Ein zoologischer Garten, der verschiedene Tierarten im Bundesstaat Kano zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.528748,
+                        11.969045
+                  ]
+            },
+            {
+                  "name": "Kofar Dan Agundi",
+                  "text": "Das südliche Stadttor in der historischen Wehrmauer von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.522983,
+                        11.981411
+                  ]
+            },
+            {
+                  "name": "Emir's Palace",
+                  "text": "Die prachtvolle traditionelle Palastanlage des Emirs von Kano.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522957,
+                        11.983384
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace Main Gate (Kofar Kudu)",
+                  "text": "Das Haupttor Kofar Kudu bildet den repräsentativen Eingang zum traditionellen Palast des Emirs von Kano.",
+                  "category": "castle",
+                  "coords": [
+                        8.519661,
+                        11.988753
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "Der Palast des Emirs von Kano dient als historische Residenz des traditionellen Herrschers.",
+                  "category": "castle",
+                  "coords": [
+                        8.518699,
+                        11.98868
+                  ]
+            },
+            {
+                  "name": "Kofar Naisa",
+                  "text": "Das Monument Kofar Naisa ist ein historisches Tor der alten Stadtmauern von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.513096,
+                        11.982454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kano State Zoological Garden",
+                  "text": "Egy állatkert, amely különféle állatfajokat mutat be Kano államban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.528748,
+                        11.969045
+                  ]
+            },
+            {
+                  "name": "Kofar Dan Agundi",
+                  "text": "A déli városkapu Kano történelmi védőfalában.",
+                  "category": "historical",
+                  "coords": [
+                        8.522983,
+                        11.981411
+                  ]
+            },
+            {
+                  "name": "Emir's Palace",
+                  "text": "Kano emírjének pompás hagyományos palotakomplexuma.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522957,
+                        11.983384
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace Main Gate (Kofar Kudu)",
+                  "text": "A Kofar Kudu főkapu a kanoi emír hagyományos palotájának reprezentatív bejárataként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        8.519661,
+                        11.988753
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "A kanoi emír palotája a hagyományos uralkodó történelmi rezidenciájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        8.518699,
+                        11.98868
+                  ]
+            },
+            {
+                  "name": "Kofar Naisa",
+                  "text": "A Kofar Naisa emlékmű Kano ősi városfalainak egyik történelmi kapuja.",
+                  "category": "historical",
+                  "coords": [
+                        8.513096,
+                        11.982454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kano State Zoological Garden",
+                  "text": "O grădină zoologică ce expune diverse specii de animale în statul Kano.",
+                  "category": "landmark",
+                  "coords": [
+                        8.528748,
+                        11.969045
+                  ]
+            },
+            {
+                  "name": "Kofar Dan Agundi",
+                  "text": "Poarta sudică a orașului din vechiul zid defensiv al orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.522983,
+                        11.981411
+                  ]
+            },
+            {
+                  "name": "Emir's Palace",
+                  "text": "Magnificul complex palatului tradițional al emirului din Kano.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522957,
+                        11.983384
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace Main Gate (Kofar Kudu)",
+                  "text": "Poarta principală Kofar Kudu este intrarea reprezentativă în palatul tradițional al emirului din Kano.",
+                  "category": "castle",
+                  "coords": [
+                        8.519661,
+                        11.988753
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "Palatul emirului din Kano servește drept reședință istorică a conducătorului tradițional.",
+                  "category": "castle",
+                  "coords": [
+                        8.518699,
+                        11.98868
+                  ]
+            },
+            {
+                  "name": "Kofar Naisa",
+                  "text": "Monumentul Kofar Naisa este o poartă istorică a vechilor ziduri ale orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.513096,
+                        11.982454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kano State Zoological Garden",
+                  "text": "A zoological garden displaying various animal species in Kano State.",
+                  "category": "landmark",
+                  "coords": [
+                        8.528748,
+                        11.969045
+                  ]
+            },
+            {
+                  "name": "Kofar Dan Agundi",
+                  "text": "The southern city gate in the historic defensive wall of Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.522983,
+                        11.981411
+                  ]
+            },
+            {
+                  "name": "Emir's Palace",
+                  "text": "The magnificent traditional palace complex of the Emir of Kano.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522957,
+                        11.983384
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace Main Gate (Kofar Kudu)",
+                  "text": "The Kofar Kudu main gate serves as the representative entrance to the traditional palace of the Emir of Kano.",
+                  "category": "castle",
+                  "coords": [
+                        8.519661,
+                        11.988753
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "The palace of the Emir of Kano serves as the historical residence of the traditional ruler.",
+                  "category": "castle",
+                  "coords": [
+                        8.518699,
+                        11.98868
+                  ]
+            },
+            {
+                  "name": "Kofar Naisa",
+                  "text": "The Kofar Naisa monument is a historic gate belonging to the ancient Kano City Walls.",
+                  "category": "historical",
+                  "coords": [
+                        8.513096,
+                        11.982454
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-KN",
     coords: [8.514, 11.9902],
@@ -1251,7 +2970,196 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "civic-centre-lagos-landmarks-v2",
+    id: "civic-centre-lagos-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "African Artists' Foundation",
+                  "text": "Ein gemeinnütziges Kunstzentrum, das sich der Förderung und Entwicklung der zeitgenössischen afrikanischen bildenden Kunst widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        3.419374,
+                        6.441768
+                  ]
+            },
+            {
+                  "name": "Didi Museum",
+                  "text": "Ein privates Museum, das eine vielfältige Sammlung nigerianischer Antiquitäten und moderner zeitgenössischer Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        3.423568,
+                        6.432619
+                  ]
+            },
+            {
+                  "name": "Oniru Private Beach",
+                  "text": "Ein privat geführter Sandstrand, der eine kontrollierte und entspannende Meeresumgebung an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.442198,
+                        6.422845
+                  ]
+            },
+            {
+                  "name": "Terra Kulture Gallery",
+                  "text": "Eine Kunstgalerie, die eine sorgfältig kuratierte Auswahl zeitgenössischer nigerianischer bildender Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        3.426812,
+                        6.425189
+                  ]
+            },
+            {
+                  "name": "TCA Gallery",
+                  "text": "Eine Galerie, die moderne Kunstwerke ausstellt und die lokale kreative Kunstszene aktiv unterstützt.",
+                  "category": "museum",
+                  "coords": [
+                        3.434624,
+                        6.440215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "African Artists' Foundation",
+                  "text": "Egy nonprofit művészeti központ, amely a kortárs afrikai vizuális művészetek népszerűsítésének és fejlesztésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        3.419374,
+                        6.441768
+                  ]
+            },
+            {
+                  "name": "Didi Museum",
+                  "text": "Egy magánmúzeum, amely nigériai régiségek és modern kortárs művészeti alkotások változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.423568,
+                        6.432619
+                  ]
+            },
+            {
+                  "name": "Oniru Private Beach",
+                  "text": "Egy magánkézben lévő homokos strand, amely ellenőrzött és pihentető tengerparti környezetet kínál a partvonal mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.442198,
+                        6.422845
+                  ]
+            },
+            {
+                  "name": "Terra Kulture Gallery",
+                  "text": "Művészeti galéria, amely a kortárs nigériai vizuális művészetek gondosan összeállított válogatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.426812,
+                        6.425189
+                  ]
+            },
+            {
+                  "name": "TCA Gallery",
+                  "text": "Egy galéria, amely modern művészeti alkotásokat állít ki, és aktívan támogatja a helyi kreatív művészeti közösséget.",
+                  "category": "museum",
+                  "coords": [
+                        3.434624,
+                        6.440215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "African Artists' Foundation",
+                  "text": "Un centru de arte non-profit dedicat promovării și dezvoltării artei vizuale africane contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        3.419374,
+                        6.441768
+                  ]
+            },
+            {
+                  "name": "Didi Museum",
+                  "text": "Un muzeu privat care expune o colecție diversă de antichități nigeriene și opere de artă contemporană modernă.",
+                  "category": "museum",
+                  "coords": [
+                        3.423568,
+                        6.432619
+                  ]
+            },
+            {
+                  "name": "Oniru Private Beach",
+                  "text": "O plajă cu nisip administrată privat, oferind un mediu litoral controlat și relaxant de-a lungul coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        3.442198,
+                        6.422845
+                  ]
+            },
+            {
+                  "name": "Terra Kulture Gallery",
+                  "text": "Un spațiu de galerie de artă care prezintă o selecție atent curatoriată de arte vizuale nigeriene contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        3.426812,
+                        6.425189
+                  ]
+            },
+            {
+                  "name": "TCA Gallery",
+                  "text": "O galerie care expune opere de artă modernă și sprijină activ comunitatea locală de arte creative.",
+                  "category": "museum",
+                  "coords": [
+                        3.434624,
+                        6.440215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Artists' Foundation",
+                  "text": "A non-profit arts centre dedicated to the promotion and development of contemporary African visual art.",
+                  "category": "cultural",
+                  "coords": [
+                        3.419374,
+                        6.441768
+                  ]
+            },
+            {
+                  "name": "Didi Museum",
+                  "text": "A private museum exhibiting a diverse collection of Nigerian antiquities and modern contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        3.423568,
+                        6.432619
+                  ]
+            },
+            {
+                  "name": "Oniru Private Beach",
+                  "text": "A privately managed sandy beach offering a controlled and relaxing seaside environment along the coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        3.442198,
+                        6.422845
+                  ]
+            },
+            {
+                  "name": "Terra Kulture Gallery",
+                  "text": "An art gallery space showcasing a thoughtfully curated selection of contemporary Nigerian visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        3.426812,
+                        6.425189
+                  ]
+            },
+            {
+                  "name": "TCA Gallery",
+                  "text": "A gallery exhibiting modern artworks and actively supporting the local creative arts community.",
+                  "category": "museum",
+                  "coords": [
+                        3.434624,
+                        6.440215
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [3.4325, 6.438],
@@ -1347,7 +3255,52 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "teslim-balogun-stadium-landmarks-v2",
+    id: "teslim-balogun-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ladipo Market",
+                  "text": "Der Ladipo Market ist ein weitläufiger Handelsplatz, der als größter Knotenpunkt für Autoersatzteile in Nigeria bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        3.341267,
+                        6.544445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ladipo Market",
+                  "text": "A Ladipo piac egy kiterjedt kereskedelmi piactér, amely Nigéria legnagyobb autóalkatrész-központjaként ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        3.341267,
+                        6.544445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ladipo Market",
+                  "text": "Piața Ladipo este o piață comercială extinsă, renumită ca fiind cel mai mare centru pentru piese de schimb auto din Nigeria.",
+                  "category": "cultural",
+                  "coords": [
+                        3.341267,
+                        6.544445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ladipo Market",
+                  "text": "Ladipo Market is an expansive commercial marketplace renowned as the largest hub for automobile spare parts in Nigeria.",
+                  "category": "cultural",
+                  "coords": [
+                        3.341267,
+                        6.544445
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-LA",
     coords: [3.3615, 6.4975],
@@ -1395,7 +3348,124 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gobarau-minaret-katsina-landmarks-v2",
+    id: "gobarau-minaret-katsina-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kofar Sauri",
+                  "text": "Eines der historischen Stadttore, das als Denkmal in Katsina erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        7.613891,
+                        13.009554
+                  ]
+            },
+            {
+                  "name": "Kofar Durbi",
+                  "text": "Ein altes Torbau-Denkmal der Stadt Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.615611,
+                        12.995552
+                  ]
+            },
+            {
+                  "name": "Kofar Kaura City Gate",
+                  "text": "Das historische Kofar-Kaura-Stadttor in Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.609169,
+                        12.978111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kofar Sauri",
+                  "text": "A katsinai történelmi városkapuk egyike, amely műemlékként fennmaradt.",
+                  "category": "historical",
+                  "coords": [
+                        7.613891,
+                        13.009554
+                  ]
+            },
+            {
+                  "name": "Kofar Durbi",
+                  "text": "Katsina városának egyik régi kapuépítmény-műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        7.615611,
+                        12.995552
+                  ]
+            },
+            {
+                  "name": "Kofar Kaura City Gate",
+                  "text": "A katsinai történelmi Kofar Kaura városkapu.",
+                  "category": "historical",
+                  "coords": [
+                        7.609169,
+                        12.978111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kofar Sauri",
+                  "text": "Una dintre porțile istorice ale orașului păstrate ca monument în Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.613891,
+                        13.009554
+                  ]
+            },
+            {
+                  "name": "Kofar Durbi",
+                  "text": "Un vechi monument reprezentând o poartă a orașului Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.615611,
+                        12.995552
+                  ]
+            },
+            {
+                  "name": "Kofar Kaura City Gate",
+                  "text": "Poarta istorică Kofar Kaura a orașului Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.609169,
+                        12.978111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kofar Sauri",
+                  "text": "One of the historic city gates preserved as a monument in Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.613891,
+                        13.009554
+                  ]
+            },
+            {
+                  "name": "Kofar Durbi",
+                  "text": "An ancient gate structure monument of the city of Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.615611,
+                        12.995552
+                  ]
+            },
+            {
+                  "name": "Kofar Kaura City Gate",
+                  "text": "The historic Kofar Kaura city gate monument in Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.609169,
+                        12.978111
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NG-KT",
     coords: [7.6083, 12.9866],

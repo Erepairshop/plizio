@@ -452,7 +452,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
             },
             {
                   "name": "Alcazaba de Mérida",
-                  "text": "Muslimische Festung aus dem 9. Jahrhundert im historischen Mérida.",
+                  "text": "Alcazaba de Mérida, eine maurische Festung neben dem römischen Theater von Mérida.",
                   "category": "historical",
                   "coords": [
                         -6.34679,
@@ -517,7 +517,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
             },
             {
                   "name": "Alcazaba de Mérida",
-                  "text": "9. századi muszlim erőd a történelmi Méridában.",
+                  "text": "Alcazaba de Mérida, egy mór erőd Mérida római színháza mellett.",
                   "category": "historical",
                   "coords": [
                         -6.34679,
@@ -582,7 +582,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
             },
             {
                   "name": "Alcazaba de Mérida",
-                  "text": "Cetate musulmană din secolul al IX-lea în Mérida istorică.",
+                  "text": "Alcazaba de Mérida, o fortăreață maură lângă Teatrul Roman din Mérida.",
                   "category": "historical",
                   "coords": [
                         -6.34679,
@@ -647,7 +647,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
             },
             {
                   "name": "Alcazaba de Mérida",
-                  "text": "9th-century Muslim fortress in historic Mérida.",
+                  "text": "Alcazaba de Mérida, a Moorish fortress adjacent to the Roman Theatre of Mérida.",
                   "category": "historical",
                   "coords": [
                         -6.34679,

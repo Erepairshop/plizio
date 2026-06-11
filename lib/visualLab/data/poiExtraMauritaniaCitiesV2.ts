@@ -552,7 +552,88 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-zouerat-cities-v2.webp",
   },
   {
-    id: "mauritania-atâr-cities-v2",
+    id: "mauritania-atâr-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Universitaire",
+                  "text": "Ein akademisches Museum, das regionale Artefakte und das kulturelle Erbe der Stadt Atâr ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053003,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "e de Touezek t",
+                  "text": "Ein spezialisiertes Museum zur Erhaltung und Präsentation des spezifischen lokalen Erbes von Atâr.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055963,
+                        20.510111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Universitaire",
+                  "text": "Egy akadémiai múzeum, amely Atâr város regionális tárgyi emlékeit és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053003,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "e de Touezek t",
+                  "text": "Egy speciális múzeum, amelyet Atâr sajátos helyi örökségének megőrzésének és bemutatásának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055963,
+                        20.510111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Universitaire",
+                  "text": "Un muzeu academic care expune artefacte regionale și patrimoniul cultural din orașul Atâr.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053003,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "e de Touezek t",
+                  "text": "Un muzeu specializat dedicat conservării și prezentării patrimoniului local specific din Atâr.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055963,
+                        20.510111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Universitaire",
+                  "text": "An academic museum showcasing regional artifacts and cultural heritage in the city of Atâr.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053003,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "e de Touezek t",
+                  "text": "A specialized museum dedicated to preserving and presenting the specific local heritage of Atâr.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055963,
+                        20.510111
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Atar", hu: "Atar", ro: "Atar", en: "Atar" },
     coords: [-13.0499, 20.5169],
@@ -821,7 +902,52 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-nema-cities-v2.webp",
   },
   {
-    id: "mauritania-boghe-cities-v2",
+    id: "mauritania-boghe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baba Lamine",
+                  "text": "Dieser weiche, sandige Uferabschnitt bietet einen ruhigen Rastplatz direkt am Flussufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271773,
+                        16.579091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baba Lamine",
+                  "text": "Ez a puha, homokos vízparti szakasz nyugodt pihenőhelyet nyújt közvetlenül a folyópart mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271773,
+                        16.579091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baba Lamine",
+                  "text": "Această întindere moale de nisip pe malul apei oferă un loc de odihnă liniștit chiar pe malul râului.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271773,
+                        16.579091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baba Lamine",
+                  "text": "This soft, sandy waterfront stretch provides a tranquil resting spot right along the riverbank.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271773,
+                        16.579091
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Boghé", hu: "Boghé", ro: "Boghé", en: "Boghé" },
@@ -956,7 +1082,52 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-ouadane-cities-v2.webp",
   },
   {
-    id: "mauritania-chinguetti-cities-v2",
+    id: "mauritania-chinguetti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison du Livre",
+                  "text": "Dieses kleine Museum in der historischen Wüstenstadt Chinguetti bewahrt zerbrechliche, jahrhundertealte islamische Manuskripte auf.",
+                  "category": "museum",
+                  "coords": [
+                        -12.361593,
+                        20.455001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison du Livre",
+                  "text": "Ez a kis múzeum a történelmi sivatagi Chinguetti városában törékeny, évszázados iszlám kéziratokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -12.361593,
+                        20.455001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison du Livre",
+                  "text": "Acest mic muzeu din orașul istoric din deșert, Chinguetti, conservă manuscrise islamice fragile, vechi de secole.",
+                  "category": "museum",
+                  "coords": [
+                        -12.361593,
+                        20.455001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison du Livre",
+                  "text": "This small museum in the historic desert town of Chinguetti preserves fragile, centuries-old Islamic manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        -12.361593,
+                        20.455001
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Chinguetti", hu: "Chinguetti", ro: "Chinguetti", en: "Chinguetti" },

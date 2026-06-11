@@ -40,7 +40,88 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["Founded on January 25, 1575, by Portuguese explorer Paulo Dias de Novais.", "The Port of Luanda is the largest and busiest in Angola.", "The city became the colonial capital in 1627.", "Luanda's population has swelled to over 8 million residents.", "The Iron Palace (Palácio de Ferro) was designed by Gustave Eiffel.", "The city has a hot semi-arid climate (BSh) with very little rain.", "The local dialect, Luandense, is a unique mix of Portuguese and Kimbundu.", "Fortress of São Miguel served as a slave depot for centuries."],
     }, image: "/poi-images/luanda-cities-v2.webp"},
   {
-    id: "caxito-cities-v2",
+    id: "caxito-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tank Wreck",
+                  "text": "Dieses verrostete Panzerwrack in Caxito erinnert als stummes Denkmal an vergangene militärische Konflikte in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        13.71027,
+                        -8.55257
+                  ]
+            },
+            {
+                  "name": "Teatro de Caxito",
+                  "text": "Das Teatro de Caxito ist ein lokaler kultureller Veranstaltungsort, der Bühnenaufführungen und darstellende Künste fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        13.656723,
+                        -8.584006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tank Wreck",
+                  "text": "Ez a rozsdásodó tankroncs Caxitóban a régió múltbeli katonai konfliktusainak néma emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        13.71027,
+                        -8.55257
+                  ]
+            },
+            {
+                  "name": "Teatro de Caxito",
+                  "text": "A Teatro de Caxito egy helyi kulturális helyszín, amely színpadi előadásokat és előadóművészeteket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        13.656723,
+                        -8.584006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tank Wreck",
+                  "text": "Această epavă ruginită de tanc din Caxito servește drept monument tăcut al conflictelor militare trecute din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        13.71027,
+                        -8.55257
+                  ]
+            },
+            {
+                  "name": "Teatro de Caxito",
+                  "text": "Teatro de Caxito este un spațiu cultural local dedicat spectacolelor de teatru și artelor performative.",
+                  "category": "cultural",
+                  "coords": [
+                        13.656723,
+                        -8.584006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tank Wreck",
+                  "text": "This rusting tank wreck in Caxito stands as a silent monument to past military conflicts in the region.",
+                  "category": "historical",
+                  "coords": [
+                        13.71027,
+                        -8.55257
+                  ]
+            },
+            {
+                  "name": "Teatro de Caxito",
+                  "text": "The Teatro de Caxito is a local cultural venue that fosters stage performances and the performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        13.656723,
+                        -8.584006
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-BGO",
     coords: [13.6644, -8.5786],
@@ -77,7 +158,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["The city is part of the Dande Municipality in Bengo Province.", "Its coordinates are 8°34'S and 13°39'E.", "Sugarcane production was revitalized by Brazilian investments.", "The bridge over the Dande River was a key site during the war.", "Caxito has a tropical savanna climate (Aw in Köppen classification).", "The literacy rate in the city has doubled in the last two decades.", "It serves as a key transit point for coffee from the northern highlands.", "The local hospital is a reference center for the surrounding rural areas."],
     }, image: "/poi-images/caxito-cities-v2.webp"},
   {
-    id: "ndalatando-cities-v2",
+    id: "ndalatando-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte de Ambaca",
+                  "text": "Die kolonialen Ruinen des Forte de Ambaca in der Region Ndalatando zeugen von der historischen portugiesischen Festungsarchitektur.",
+                  "category": "historical",
+                  "coords": [
+                        14.916666,
+                        -9.299996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte de Ambaca",
+                  "text": "A Ndalatando régióban található Forte de Ambaca gyarmati romjai a történelmi portugál erődítmény-építészetről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        14.916666,
+                        -9.299996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte de Ambaca",
+                  "text": "Ruinele coloniale ale Forte de Ambaca din regiunea Ndalatando stau mărturie arhitecturii istorice a fortificațiilor portugheze.",
+                  "category": "historical",
+                  "coords": [
+                        14.916666,
+                        -9.299996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte de Ambaca",
+                  "text": "The colonial ruins of Forte de Ambaca in the Ndalatando region bear witness to historical Portuguese fortress architecture.",
+                  "category": "historical",
+                  "coords": [
+                        14.916666,
+                        -9.299996
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-CNO",
     coords: [14.9116, -9.2978],
@@ -116,7 +242,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
 
   },
   {
-    id: "sumbe-cities-v2",
+    id: "sumbe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Unsere Liebe Frau von der Empfängnis",
+                  "text": "Die Cathedral of Our Lady of the Conception ist eine imposante katholische Kultstätte, die ursprünglich von dem Architekten Francisco Castro Rodrigues entworfen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        13.835772,
+                        -11.2016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catedral de Nossa Senhora da Conceição",
+                  "text": "A Cathedral of Our Lady of the Conception egy impozáns katolikus istentiszteleti hely, amelyet eredetileg Francisco Castro Rodrigues építész tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        13.835772,
+                        -11.2016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedral de Nossa Senhora da Conceição",
+                  "text": "Cathedral of Our Lady of the Conception este un impunător loc de cult catolic, proiectat inițial de arhitectul Francisco Castro Rodrigues.",
+                  "category": "religious",
+                  "coords": [
+                        13.835772,
+                        -11.2016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral of Our Lady of the Conception",
+                  "text": "The Cathedral of Our Lady of the Conception is an imposing Catholic place of worship originally designed by the architect Francisco Castro Rodrigues.",
+                  "category": "religious",
+                  "coords": [
+                        13.835772,
+                        -11.2016
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-CUS",
     coords: [13.8437, -11.2061],
@@ -264,7 +435,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["M'banza-Kongo was inscribed as a UNESCO World Heritage Site in 2017.", "It was the capital of the Kingdom of Kongo from the 14th to the 19th century.", "The ruins of the Cathedral of the Holy Savior date back to 1549.", "The city's name translates to 'City of Congo' in the local Kikongo language.", "The city is situated on a plateau at an elevation of 570 meters.", "It served as a major diplomatic hub between Africa and Europe in the 1500s.", "The King's Museum (Museu dos Reis do Congo) is located in the city center.", "M'banza-Kongo is the capital of the oil-rich Zaire Province."],
     }, image: "/poi-images/mbanzakongo-cities-v2.webp"},
   {
-    id: "cabinda-cities-v2",
+    id: "cabinda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Cabassango",
+                  "text": "Praia de Cabassango ist ein malerischer Sandstrand, der für seine natürliche Küstenlinie und die atlantische Brise geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228589,
+                        -5.546799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Cabassango",
+                  "text": "A Praia de Cabassango egy festői homokos strand, amelyet természetes partvonala és az atlanti szellők miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228589,
+                        -5.546799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Cabassango",
+                  "text": "Praia de Cabassango este o plajă nisipoasă pitorească favorizată pentru țărmul său natural și briza atlantică.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228589,
+                        -5.546799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Cabassango",
+                  "text": "Praia de Cabassango is a picturesque sandy beach favored for its natural shoreline and Atlantic breezes.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228589,
+                        -5.546799
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-CAB",
     coords: [12.2, -5.55],
@@ -301,7 +517,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["Cabinda was originally known as Tchiowa by the local inhabitants.", "The province contributes nearly $2 billion annually to the national budget.", "Offshore Block 0 is one of the world's most productive oil concessions.", "The city's elevation is approximately 20 meters above sea level.", "Cabinda is separated from mainland Angola by a 60km strip of DRC territory.", "The Lukula River flows near the city into the Atlantic Ocean.", "History includes a period under the Kingdom of Ngoyo.", "The local economy is diversifying into timber and phosphate mining."],
     }, image: "/poi-images/cabinda-cities-v2.webp"},
   {
-    id: "dundo-cities-v2",
+    id: "dundo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Regional do Dundo",
+                  "text": "Ein bedeutendes Regionalmuseum in Dundo, das das reiche ethnografische Erbe und traditionelle Artefakte im Nordosten Angolas bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        20.834739,
+                        -7.378854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Regional do Dundo",
+                  "text": "A jelentős dundói regionális múzeum Északkelet-Angola gazdag néprajzi örökségét és hagyományos műtárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        20.834739,
+                        -7.378854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Regional do Dundo",
+                  "text": "Un muzeu regional notabil din Dundo, care păstrează patrimoniul etnografic bogat și artefactele tradiționale din nord-estul Angolei.",
+                  "category": "museum",
+                  "coords": [
+                        20.834739,
+                        -7.378854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Regional do Dundo",
+                  "text": "A notable regional museum in Dundo preserving the rich ethnographic heritage and traditional artifacts of northeastern Angola.",
+                  "category": "museum",
+                  "coords": [
+                        20.834739,
+                        -7.378854
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-LNO",
     coords: [20.8333, -7.3833],
@@ -449,7 +710,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["Huambo was established as a strategic railway junction in 1912.", "The city elevation of 1,721m makes it one of the highest in Africa.", "It was the site of the infamous 55-day war siege in 1993.", "The Benguela Railway workshop in Huambo was once the largest in Africa.", "Average annual rainfall is approximately 1,200 mm.", "The city's namesake comes from the legendary hunter Wambo Kalunga.", "Huambo is home to the National Center for Agricultural Research.", "The urban plan features a central circular plaza called Largo Saydi Mingas."],
     }, image: "/poi-images/huambo-cities-v2.webp"},
   {
-    id: "benguela-cities-v2",
+    id: "benguela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unsere Liebe Frau Fátima Kathedrale",
+                  "text": "Die Our Lady Fátima Cathedral in Benguela ist eine markante katholische Kathedrale aus der Kolonialzeit.",
+                  "category": "religious",
+                  "coords": [
+                        13.40263,
+                        -12.585897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora de Fátima",
+                  "text": "A benguelai Our Lady Fátima Cathedral egy lenyűgöző, gyarmati korszakból származó katolikus katedrális.",
+                  "category": "religious",
+                  "coords": [
+                        13.40263,
+                        -12.585897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora de Fátima",
+                  "text": "Catedrala Our Lady Fátima din Benguela este o catedrală catolică impresionantă din epoca colonială.",
+                  "category": "religious",
+                  "coords": [
+                        13.40263,
+                        -12.585897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Lady Fátima Cathedral",
+                  "text": "Our Lady Fátima Cathedral in Benguela is a striking Catholic cathedral dating back to the colonial era.",
+                  "category": "religious",
+                  "coords": [
+                        13.40263,
+                        -12.585897
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-BGU",
     coords: [13.4, -12.5833],
@@ -486,7 +792,160 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["Benguela was officially founded by Portuguese settlers on May 17, 1617.", "The Benguela Railway (CFB) spans 1,344 km from the coast to the DRC border.", "Baía Azul (Blue Bay) is considered one of the finest beaches in West Africa.", "It was historically the main port for Portuguese trade in the southern Atlantic.", "The city's population has grown significantly, exceeding 500,000 residents.", "The Catumbela River provides the majority of the city's freshwater needs.", "Many 17th-century colonial buildings remain standing in the city's historic core.", "Benguela is a major educational hub with several regional universities."],
     }, image: "/poi-images/benguela-cities-v2.webp"},
   {
-    id: "lubango-cities-v2",
+    id: "lubango-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu de Ciência e Tecnologia da Huíla",
+                  "text": "Dieses Wissenschafts- und Technikmuseum in Lubango zeigt Exponate zu regionalen technischen und industriellen Fortschritten.",
+                  "category": "museum",
+                  "coords": [
+                        13.488688,
+                        -14.915435
+                  ]
+            },
+            {
+                  "name": "Universidade Mandume ya Ndemufayo (UMN) Auditório n.º 2",
+                  "text": "Dieses akademische Auditorium dient als Veranstaltungsort für Vorlesungen und Aufführungen auf dem Universitätscampus in Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.488267,
+                        -14.91995
+                  ]
+            },
+            {
+                  "name": "Museu Regional da Huíla",
+                  "text": "Dieses Regionalmuseum in Lubango bewahrt und zeigt Artefakte zur Kulturgeschichte der Provinz Huíla.",
+                  "category": "museum",
+                  "coords": [
+                        13.491461,
+                        -14.917782
+                  ]
+            },
+            {
+                  "name": "Monumento à Paz",
+                  "text": "Dieses Friedensdenkmal ist ein markantes Bauwerk im städtischen Zentrum von Lubango.",
+                  "category": "historical",
+                  "coords": [
+                        13.491742,
+                        -14.924613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu de Ciência e Tecnologia da Huíla",
+                  "text": "Ez a lubangói tudományos és technológiai múzeum a regionális műszaki és ipari fejlődésről szóló kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.488688,
+                        -14.915435
+                  ]
+            },
+            {
+                  "name": "Universidade Mandume ya Ndemufayo (UMN) Auditório n.º 2",
+                  "text": "Ez az egyetemi auditórium előadások és rendezvények helyszínéül szolgál a lubangói egyetemi kampuszon belül.",
+                  "category": "cultural",
+                  "coords": [
+                        13.488267,
+                        -14.91995
+                  ]
+            },
+            {
+                  "name": "Museu Regional da Huíla",
+                  "text": "Ez a lubangói regionális múzeum a Huíla tartomány kultúrtörténetéhez kapcsolódó tárgyakat őriz és állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        13.491461,
+                        -14.917782
+                  ]
+            },
+            {
+                  "name": "Monumento à Paz",
+                  "text": "Ez a békeemlékmű egy kiemelkedő emlékmű Lubango városközpontjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.491742,
+                        -14.924613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu de Ciência e Tecnologia da Huíla",
+                  "text": "Acest muzeu de știință și tehnologie din Lubango prezintă expoziții despre progresele tehnice și industriale regionale.",
+                  "category": "museum",
+                  "coords": [
+                        13.488688,
+                        -14.915435
+                  ]
+            },
+            {
+                  "name": "Universidade Mandume ya Ndemufayo (UMN) Auditório n.º 2",
+                  "text": "Acest amfiteatru academic servește ca loc de desfășurare a cursurilor și spectacolelor în campusul universitar din Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.488267,
+                        -14.91995
+                  ]
+            },
+            {
+                  "name": "Museu Regional da Huíla",
+                  "text": "Acest muzeu regional din Lubango păstrează și expune artefacte legate de istoria culturală a provinciei Huíla.",
+                  "category": "museum",
+                  "coords": [
+                        13.491461,
+                        -14.917782
+                  ]
+            },
+            {
+                  "name": "Monumento à Paz",
+                  "text": "Acest monument al păcii este o structură comemorativă proeminentă situată în centrul urban din Lubango.",
+                  "category": "historical",
+                  "coords": [
+                        13.491742,
+                        -14.924613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu de Ciência e Tecnologia da Huíla",
+                  "text": "This science and technology museum in Lubango features exhibits on regional technical and industrial advancements.",
+                  "category": "museum",
+                  "coords": [
+                        13.488688,
+                        -14.915435
+                  ]
+            },
+            {
+                  "name": "Universidade Mandume ya Ndemufayo (UMN) Auditório n.º 2",
+                  "text": "This academic auditorium serves as a venue for lectures and performances within the university campus in Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.488267,
+                        -14.91995
+                  ]
+            },
+            {
+                  "name": "Museu Regional da Huíla",
+                  "text": "This regional museum in Lubango preserves and displays artifacts related to the cultural history of the Huíla province.",
+                  "category": "museum",
+                  "coords": [
+                        13.491461,
+                        -14.917782
+                  ]
+            },
+            {
+                  "name": "Monumento à Paz",
+                  "text": "This peace monument is a prominent commemorative structure located in the urban center of Lubango.",
+                  "category": "historical",
+                  "coords": [
+                        13.491742,
+                        -14.924613
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-HUI",
     coords: [13.4925, -14.9172],
@@ -523,7 +982,340 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["Lubango is located at an elevation of 1,720 meters above sea level.", "The city was renamed from Sá da Bandeira to Lubango in 1975.", "The Cristo Rei statue was inspired by the Christ the Redeemer in Rio.", "Tundavala Gap is situated approximately 18 km from the city center.", "The city is the administrative headquarters of the Huíla Province.", "Lubango's economy is heavily based on agriculture and livestock.", "The Serra da Leba road climbs over 1,600 meters in just a few kilometers.", "The city hosts the main campus of Mandume ya Ndemufayo University."],
     }, image: "/poi-images/lubango-cities-v2.webp"},
   {
-    id: "namibe-cities-v2",
+    id: "namibe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Administração Municipal de Moçâmedes",
+                  "text": "Die Stadtverwaltung von Moçâmedes dient als bürgerlicher Hauptsitz und operiert von einem markanten öffentlichen Verwaltungsgebäude im Zentrum aus.",
+                  "category": "historical",
+                  "coords": [
+                        12.148264,
+                        -15.196625
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de São Fernando",
+                  "text": "Dieser Navigationsleuchtturm ist architektonisch in die historischen Steinmauern der Festung São Fernando mit Blick auf die Bucht integriert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.144666,
+                        -15.194717
+                  ]
+            },
+            {
+                  "name": "Palácio de Moçâmedes",
+                  "text": "Der Palácio de Moçâmedes, der zwischen 1857 und 1889 erbaut wurde, ist ein großes historisches Gebäude mit imposanter Kolonialarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        12.143128,
+                        -15.196649
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta do Noronha",
+                  "text": "Als Wächter an der felsigen Küste ist der Farol da Ponta do Noronha ein wichtiges Seezeichen, das Schiffe entlang der afrikanischen Atlantikküste leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.12568,
+                        -15.186396
+                  ]
+            },
+            {
+                  "name": "Farol de Moçâmedes",
+                  "text": "Der Farol de Moçâmedes ist ein hoher Leuchtturm, der zur Sicherung der Schifffahrtswege in den aktiven Hafen der Stadt errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.130189,
+                        -15.189489
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Praia das Conchas, übersetzt „Strand der Muscheln“, ist ein malerischer Sandstrand, der für die vielen angespülten Meeresmuscheln bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.117143,
+                        -15.118431
+                  ]
+            },
+            {
+                  "name": "Farol do Giraúl",
+                  "text": "Der Farol do Giraúl ist ein Marineturm nahe der Flussmündung, der der Küstenschifffahrt wesentliche Navigationssignale liefert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.112877,
+                        -15.134972
+                  ]
+            },
+            {
+                  "name": "Baía do Namibe",
+                  "text": "Baía do Namibe ist eine riesige, natürlich geschützte Tiefwasserbucht am Atlantik, die die Hafenaktivitäten der Region unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.139258,
+                        -15.179275
+                  ]
+            },
+            {
+                  "name": "Cine Teatro do Namibe",
+                  "text": "Das Cine Teatro do Namibe ist ein markantes Kulturzentrum mit Kino- und Theatersaal, das Aufführungen für die lokale Gemeinde veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        12.146993,
+                        -15.194796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Administração Municipal de Moçâmedes",
+                  "text": "A Moçâmedes Önkormányzati Hivatal a polgári közigazgatás központjaként szolgál a városközpont egyik kiemelkedő középületéből.",
+                  "category": "historical",
+                  "coords": [
+                        12.148264,
+                        -15.196625
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de São Fernando",
+                  "text": "Ez a navigációs világítótorony építészetileg az öbölre néző São Fernando erőd történelmi kőfalaiba van beépítve.",
+                  "category": "landmark",
+                  "coords": [
+                        12.144666,
+                        -15.194717
+                  ]
+            },
+            {
+                  "name": "Palácio de Moçâmedes",
+                  "text": "Az 1857 és 1889 között épült Palácio de Moçâmedes egy nagyszerű történelmi épület impozáns gyarmati építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        12.143128,
+                        -15.196649
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta do Noronha",
+                  "text": "A sziklás partnál őrködő Farol da Ponta do Noronha egy létfontosságú tengeri jelzőfény, amely az afrikai atlanti partvidéken irányítja a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        12.12568,
+                        -15.186396
+                  ]
+            },
+            {
+                  "name": "Farol de Moçâmedes",
+                  "text": "A Farol de Moçâmedes egy magas világítótorony, amelyet a város aktív kikötőjébe vezető hajózási útvonalak biztosítására építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        12.130189,
+                        -15.189489
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "A „Kagylók tengerpartja” jelentésű Praia das Conchas egy festői homokos part, amely a partra mosott rengeteg tengeri kagylóról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        12.117143,
+                        -15.118431
+                  ]
+            },
+            {
+                  "name": "Farol do Giraúl",
+                  "text": "A Farol do Giraúl egy tengerészeti torony a folyótorkolat közelében, amely elengedhetetlen navigációs jeleket biztosít a parti hajózás számára.",
+                  "category": "landmark",
+                  "coords": [
+                        12.112877,
+                        -15.134972
+                  ]
+            },
+            {
+                  "name": "Baía do Namibe",
+                  "text": "A Baía do Namibe egy hatalmas, természetesen védett mélyvízi öböl az Atlanti-óceánon, amely a régió kikötői tevékenységét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.139258,
+                        -15.179275
+                  ]
+            },
+            {
+                  "name": "Cine Teatro do Namibe",
+                  "text": "A Cine Teatro do Namibe egy lenyűgöző kulturális központ mozi- és színházteremmel, amely előadásoknak ad otthont a helyi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        12.146993,
+                        -15.194796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Administração Municipal de Moçâmedes",
+                  "text": "Administrația Municipală din Moçâmedes servește drept sediu civic, funcționând într-o clădire publică administrativă proeminentă din centru.",
+                  "category": "historical",
+                  "coords": [
+                        12.148264,
+                        -15.196625
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de São Fernando",
+                  "text": "Acest far de navigație este integrat arhitectural în zidurile istorice de piatră ale Cetății São Fernando care domină golful.",
+                  "category": "landmark",
+                  "coords": [
+                        12.144666,
+                        -15.194717
+                  ]
+            },
+            {
+                  "name": "Palácio de Moçâmedes",
+                  "text": "Construit între 1857 și 1889, Palácio de Moçâmedes este o clădire istorică grandioasă cu o arhitectură colonială impunătoare.",
+                  "category": "castle",
+                  "coords": [
+                        12.143128,
+                        -15.196649
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta do Noronha",
+                  "text": "Stând de strajă pe coasta stâncoasă, Farol da Ponta do Noronha este un far vital care ghidează navele de-a lungul coastei atlantice africane.",
+                  "category": "landmark",
+                  "coords": [
+                        12.12568,
+                        -15.186396
+                  ]
+            },
+            {
+                  "name": "Farol de Moçâmedes",
+                  "text": "Farol de Moçâmedes este un far înalt construit pentru a securiza căile de navigație spre portul activ al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        12.130189,
+                        -15.189489
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Tradus ca „Plaja Scoicilor”, Praia das Conchas este o coastă nisipoasă pitorească cunoscută pentru abundența de scoici marine spălate la țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        12.117143,
+                        -15.118431
+                  ]
+            },
+            {
+                  "name": "Farol do Giraúl",
+                  "text": "Farol do Giraúl este un turn maritim aflat lângă estuarul râului, oferind semnale de navigație esențiale navelor de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        12.112877,
+                        -15.134972
+                  ]
+            },
+            {
+                  "name": "Baía do Namibe",
+                  "text": "Baía do Namibe este un golf masiv cu ape adânci, adăpostit natural pe Atlantic, care susține activitatea portuară a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.139258,
+                        -15.179275
+                  ]
+            },
+            {
+                  "name": "Cine Teatro do Namibe",
+                  "text": "Cine Teatro do Namibe este un loc cultural impresionant cu sală de cinema și teatru, găzduind spectacole pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        12.146993,
+                        -15.194796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Administração Municipal de Moçâmedes",
+                  "text": "The Municipal Administration of Moçâmedes serves as the civic headquarters, operating from a prominent public administrative building in the center.",
+                  "category": "historical",
+                  "coords": [
+                        12.148264,
+                        -15.196625
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de São Fernando",
+                  "text": "This navigation lighthouse is architecturally integrated into the historic stone walls of the São Fernando Fortress overlooking the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        12.144666,
+                        -15.194717
+                  ]
+            },
+            {
+                  "name": "Palácio de Moçâmedes",
+                  "text": "Constructed between 1857 and 1889, the Palácio de Moçâmedes is a grand historical edifice featuring imposing colonial-era architecture.",
+                  "category": "castle",
+                  "coords": [
+                        12.143128,
+                        -15.196649
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta do Noronha",
+                  "text": "Standing sentinel on the rocky coast, the Farol da Ponta do Noronha is a vital beacon guiding vessels along the African Atlantic coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        12.12568,
+                        -15.186396
+                  ]
+            },
+            {
+                  "name": "Farol de Moçâmedes",
+                  "text": "The Farol de Moçâmedes is a tall lighthouse structure constructed to secure the shipping lanes into the city's active harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        12.130189,
+                        -15.189489
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Translating to \"Beach of the Shells,\" Praia das Conchas is a picturesque sandy coastline known for the abundant seashells washing ashore.",
+                  "category": "recreational",
+                  "coords": [
+                        12.117143,
+                        -15.118431
+                  ]
+            },
+            {
+                  "name": "Farol do Giraúl",
+                  "text": "The Farol do Giraúl is a maritime tower built near the river estuary, providing essential navigational flashes to coastal shipping.",
+                  "category": "landmark",
+                  "coords": [
+                        12.112877,
+                        -15.134972
+                  ]
+            },
+            {
+                  "name": "Baía do Namibe",
+                  "text": "Baía do Namibe is a massive, naturally sheltered deep-water bay on the Atlantic Ocean that supports the region's port activity.",
+                  "category": "landmark",
+                  "coords": [
+                        12.139258,
+                        -15.179275
+                  ]
+            },
+            {
+                  "name": "Cine Teatro do Namibe",
+                  "text": "The Cine Teatro do Namibe is a striking cultural venue with a cinematic and theatrical hall hosting performances for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        12.146993,
+                        -15.194796
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-NAM",
     coords: [12.15, -15.1961],
@@ -597,7 +1389,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       en: ["Ondjiva was originally the capital of the Cuanhama kingdom before Portuguese rule.", "The city's coordinates are 17°04′00″S 15°44′00″E near the Namibian border.", "It experienced a major flood in 2009 that destroyed many newly built homes.", "The city is a major hub for the 'Southern Corridor' of Angolan development.", "Ondjiva has several hotels catering to international businessmen and NGO workers.", "The traditional attire of Cuanhama women is still commonly seen in the markets.", "A major shopping mall, Ondjiva Shopping, was opened to modernize the retail sector.", "Local governance includes both the provincial governor and traditional kings."],
     }, image: "/poi-images/ondjiva-cities-v2.webp"},
   {
-    id: "menongue-cities-v2",
+    id: "menongue-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte Muene Vunongue",
+                  "text": "Diese 1887 errichtete Verteidigungsanlage steht als architektonisches Relikt der Kolonialverwaltung des späten 19. Jahrhunderts in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.664871,
+                        -14.634335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte Muene Vunongue",
+                  "text": "Ez az 1887-ben épült védelmi építmény a 19. század végi gyarmati közigazgatás építészeti relikviájaként áll a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.664871,
+                        -14.634335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte Muene Vunongue",
+                  "text": "Construită în 1887, această structură defensivă este o relicvă arhitecturală a administrației coloniale de la sfârșitul secolului al XIX-lea din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        17.664871,
+                        -14.634335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte Muene Vunongue",
+                  "text": "Constructed in 1887, this defensive structure stands as an architectural relic of the late 19th-century colonial administration in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.664871,
+                        -14.634335
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AO-CCU",
     coords: [17.6833, -14.65],
@@ -1096,7 +1933,88 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Centre commercial important au nord de la province de Bié.", "Réputé pour ses marchés aux bestiaux et ses foires agricoles.", "Nœud important pour le commerce du café dans la région.", "Dispose d'un aéroport régional pour les petits avions.", "La ville a connu une forte croissance démographique ces dernières années.", "Position stratégique entre les provinces de Bié et de Malanje.", "Centre de transformation du manioc et d'autres denrées de base.", "Siège de l'administration locale de l'éducation et de la santé."],
     }, image: "/poi-images/andulo-cities-v2.webp"},
   {
-    id: "portoamboim-cities-v2",
+    id: "portoamboim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amboim Festung",
+                  "text": "Die Ruinen einer portugiesischen Küstenfestung, die zur Verteidigung des natürlichen Hafens von Porto Amboim errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        13.749571,
+                        -10.732048
+                  ]
+            },
+            {
+                  "name": "Comboio do Porto de Aboim",
+                  "text": "Ein gut erhaltenes historisches Lokomotivendenkmal, das an das Schmalspurbahnnetz von Porto Amboim erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        13.752224,
+                        -10.73321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza do Amboim",
+                  "text": "Egy tengerparti portugál erőd romjai, amelyet Porto Amboim természetes kikötőjének védelmére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        13.749571,
+                        -10.732048
+                  ]
+            },
+            {
+                  "name": "Comboio do Porto de Aboim",
+                  "text": "Egy megőrzött történelmi mozdony emlékműve, amely a keskeny nyomtávú Porto Amboim vasúthálózatra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        13.752224,
+                        -10.73321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza do Amboim",
+                  "text": "Ruinele unei fortărețe coloniale portugheze de coastă construite pentru a apăra portul natural din Porto Amboim.",
+                  "category": "historical",
+                  "coords": [
+                        13.749571,
+                        -10.732048
+                  ]
+            },
+            {
+                  "name": "Comboio do Porto de Aboim",
+                  "text": "Un monument istoric cu o locomotivă conservată, amintind de rețeaua feroviară cu ecartament îngust din Porto Amboim.",
+                  "category": "historical",
+                  "coords": [
+                        13.752224,
+                        -10.73321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amboim Fortress",
+                  "text": "The ruins of a coastal Portuguese fortress built to defend the natural harbor of Porto Amboim.",
+                  "category": "historical",
+                  "coords": [
+                        13.749571,
+                        -10.732048
+                  ]
+            },
+            {
+                  "name": "Train of Porto Amboin Railway",
+                  "text": "A preserved historic locomotive monument serving as a reminder of the narrow-gauge Porto Amboim railway network.",
+                  "category": "historical",
+                  "coords": [
+                        13.752224,
+                        -10.73321
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-CUS",
     coords: [13.7667, -10.7333],
@@ -1974,7 +2892,124 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Important centre d'extraction de fer (région de Cassinga).", "Site industriel majeur dans l'histoire de l'Angola.", "Située dans une vaste région de savane à l'est de la province de Huíla.", "Nœud ferroviaire pour le transport du minerai vers l'Atlantique.", "Lieu stratégiquement important lors des conflits historiques.", "Centre pour l'administration et les infrastructures régionales.", "Entourée de zones à fort potentiel minier.", "Point d'approvisionnement important pour l'arrière-pays méridional."],
     }, image: "/poi-images/jamba-cities-v2.webp"},
   {
-    id: "tombua-cities-v2",
+    id: "tombua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "PORTO PESQUEIRO",
+                  "text": "Porto Pesqueiro ist ein Küstenstrand, der von lokalen Fischerbooten und den maritimen Aktivitäten in Tômbua geprägt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        11.826328,
+                        -15.803487
+                  ]
+            },
+            {
+                  "name": "Praia das Casuarinas",
+                  "text": "Praia das Casuarinas ist ein malerischer Sandstrand, der von den markanten Kasuarinenbäumen gesäumt wird, die ihm seinen Namen geben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.858707,
+                        -15.797403
+                  ]
+            },
+            {
+                  "name": "Largo das Três Taças",
+                  "text": "Largo das Três Taças ist ein städtischer Denkmalplatz in Tômbua, der für seine markante Architektur mit drei aufgestellten Pokalen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.853962,
+                        -15.802037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PORTO PESQUEIRO",
+                  "text": "A Porto Pesqueiro egy tengerparti partszakasz, amelyet a helyi halászhajók és a tengeri tevékenységek jellemeznek Tômbua városában.",
+                  "category": "recreational",
+                  "coords": [
+                        11.826328,
+                        -15.803487
+                  ]
+            },
+            {
+                  "name": "Praia das Casuarinas",
+                  "text": "A Praia das Casuarinas egy festői homokos tengerpart, amelyet a nevét adó jellegzetes kazuárfák szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        11.858707,
+                        -15.797403
+                  ]
+            },
+            {
+                  "name": "Largo das Três Taças",
+                  "text": "A Largo das Três Taças egy városi emlékmű tér Tômbua városában, amely jellegzetes, három kelyhet formázó építészeti eleméről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        11.853962,
+                        -15.802037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PORTO PESQUEIRO",
+                  "text": "Porto Pesqueiro este o zonă de plajă de coastă caracterizată de prezența bărcilor de pescuit locale și a activității maritime din Tômbua.",
+                  "category": "recreational",
+                  "coords": [
+                        11.826328,
+                        -15.803487
+                  ]
+            },
+            {
+                  "name": "Praia das Casuarinas",
+                  "text": "Praia das Casuarinas este o plajă pitorească cu nisip, mărginită de arborii casuarina care îi dau numele.",
+                  "category": "recreational",
+                  "coords": [
+                        11.858707,
+                        -15.797403
+                  ]
+            },
+            {
+                  "name": "Largo das Três Taças",
+                  "text": "Largo das Três Taças este o piață monumentală urbană din Tômbua, cunoscută pentru elementul său arhitectural distinctiv cu trei cupe.",
+                  "category": "historical",
+                  "coords": [
+                        11.853962,
+                        -15.802037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PORTO PESQUEIRO",
+                  "text": "Porto Pesqueiro is a coastal beach area characterized by the presence of local fishing boats and maritime activity in Tômbua.",
+                  "category": "recreational",
+                  "coords": [
+                        11.826328,
+                        -15.803487
+                  ]
+            },
+            {
+                  "name": "Praia das Casuarinas",
+                  "text": "Praia das Casuarinas is a scenic sandy beach lined with the distinctive casuarina trees that give it its name.",
+                  "category": "recreational",
+                  "coords": [
+                        11.858707,
+                        -15.797403
+                  ]
+            },
+            {
+                  "name": "Largo das Três Taças",
+                  "text": "Largo das Três Taças is an urban monument square known for its distinct three-cup architectural feature in Tômbua.",
+                  "category": "historical",
+                  "coords": [
+                        11.853962,
+                        -15.802037
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-NAM",
     coords: [11.8333, -15.8],

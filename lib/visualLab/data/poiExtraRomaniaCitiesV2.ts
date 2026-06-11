@@ -14548,7 +14548,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Palatul Știrbei",
-                  "text": "Ein prächtiges historisches Schlossgebäude in Buftea.",
+                  "text": "Denkmalgeschütztes Palast Știrbei in Buftea.",
                   "category": "historical",
                   "coords": [
                         25.940597,
@@ -14588,7 +14588,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Palatul Știrbei",
-                  "text": "Pompás történelmi palotaépület Buftea városában.",
+                  "text": "Műemlék Știrbei-palota Bufteában.",
                   "category": "historical",
                   "coords": [
                         25.940597,
@@ -14628,7 +14628,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Palatul Știrbei",
-                  "text": "Un palat istoric grandios situat în Buftea.",
+                  "text": "Palatul Știrbei, monument istoric în Buftea.",
                   "category": "historical",
                   "coords": [
                         25.940597,
@@ -14668,7 +14668,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Palatul Știrbei",
-                  "text": "A grand historic palace building located in Buftea.",
+                  "text": "Heritage-listed Știrbei Palace in Buftea.",
                   "category": "historical",
                   "coords": [
                         25.940597,
@@ -18031,7 +18031,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfinții Împărați Constantin și Elena”",
-                  "text": "Die lokale orthodoxe Kirche der Gemeinde Copăceni.",
+                  "text": "Orthodoxe Kirche Sfinții Împărați Constantin și Elena, erbaut 1817, denkmalgeschützt in Copaceni.",
                   "category": "religious",
                   "coords": [
                         26.07674,
@@ -18078,7 +18078,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfinții Împărați Constantin și Elena”",
-                  "text": "Copăceni község helyi ortodox temploma.",
+                  "text": "Sfinții Împărați Constantin și Elena ortodox templom, 1817-ben épült, műemlék Copaceniben.",
                   "category": "religious",
                   "coords": [
                         26.07674,
@@ -18125,7 +18125,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfinții Împărați Constantin și Elena”",
-                  "text": "Biserica ortodoxă locală a comunei Copăceni.",
+                  "text": "Biserica ortodoxă Sfinții Împărați Constantin și Elena, construită în 1817, monument istoric în Copaceni.",
                   "category": "religious",
                   "coords": [
                         26.07674,
@@ -18172,7 +18172,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfinții Împărați Constantin și Elena”",
-                  "text": "The local Orthodox church of the Copăceni commune.",
+                  "text": "Orthodox church of Saints Constantine and Helen built in 1817, heritage-listed in Copaceni.",
                   "category": "religious",
                   "coords": [
                         26.07674,

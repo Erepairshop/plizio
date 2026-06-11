@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraGabonLandmarksV2: POI[] = [
   {
-    id: "palais-presidentiel-landmarks-v2",
+    id: "palais-presidentiel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abraca'delires",
+                  "text": "Abraca'delires ist eine Freizeitattraktion in der Nähe des Palais Présidentiel.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447903,
+                        0.386143
+                  ]
+            },
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "Das Musée National des Arts et Traditions du Gabon ist ein Kulturmuseum in der Nähe des Palais Présidentiel.",
+                  "category": "museum",
+                  "coords": [
+                        9.444494,
+                        0.385866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abraca'delires",
+                  "text": "Az Abraca'delires egy szabadidős látványosság a Palais Présidentiel közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447903,
+                        0.386143
+                  ]
+            },
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "A Musée National des Arts et Traditions du Gabon egy kulturális múzeum a Palais Présidentiel közelében.",
+                  "category": "museum",
+                  "coords": [
+                        9.444494,
+                        0.385866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abraca'delires",
+                  "text": "Abraca'delires este o atracție de agrement situată în apropiere de Palais Présidentiel.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447903,
+                        0.386143
+                  ]
+            },
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "Musée National des Arts et Traditions du Gabon este un muzeu cultural situat lângă Palais Présidentiel.",
+                  "category": "museum",
+                  "coords": [
+                        9.444494,
+                        0.385866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abraca'delires",
+                  "text": "Abraca'delires is a recreational attraction situated near the Palais Présidentiel.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447903,
+                        0.386143
+                  ]
+            },
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "Musée National des Arts et Traditions du Gabon is a cultural museum located near the Palais Présidentiel.",
+                  "category": "museum",
+                  "coords": [
+                        9.444494,
+                        0.385866
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.4447, 0.3875],
@@ -38,7 +119,88 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       fr: ["Siège du président", "Prouesse architecturale"],
     }, image: "/poi-images/palais-presidentiel-landmarks-v2.webp"},
   {
-    id: "cathedrale-sainte-marie-landmarks-v2",
+    id: "cathedrale-sainte-marie-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosquée Hassan II",
+                  "text": "Die Mosquée Hassan II in Libreville ist eine bedeutende islamische Kultstätte der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        9.44462,
+                        0.393588
+                  ]
+            },
+            {
+                  "name": "Cheikh Ahmadou BAMBA",
+                  "text": "Diese seit 2002 geöffnete Kultstätte des senegalesischen Sufi-Meisters Cheikh Ahmadou Bamba wird als religiöses Erbe bewahrt.",
+                  "category": "religious",
+                  "coords": [
+                        9.44297,
+                        0.397852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosquée Hassan II",
+                  "text": "A libreville-i Mosquée Hassan II a város egyik jelentős iszlám istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        9.44462,
+                        0.393588
+                  ]
+            },
+            {
+                  "name": "Cheikh Ahmadou BAMBA",
+                  "text": "A szenegáli szúfi mester, Cheikh Ahmadou Bamba ezen, 2002-ben megnyílt istentiszteleti helyét vallási örökségként őrzik.",
+                  "category": "religious",
+                  "coords": [
+                        9.44297,
+                        0.397852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosquée Hassan II",
+                  "text": "Mosquée Hassan II din Libreville este un lăcaș de cult islamic important din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        9.44462,
+                        0.393588
+                  ]
+            },
+            {
+                  "name": "Cheikh Ahmadou BAMBA",
+                  "text": "Acest lăcaș de cult al maestrului sufit senegalez Cheikh Ahmadou Bamba, deschis în 2002, este conservat ca patrimoniu religios.",
+                  "category": "religious",
+                  "coords": [
+                        9.44297,
+                        0.397852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosquée Hassan II",
+                  "text": "The Mosquée Hassan II in Libreville is a significant Islamic place of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        9.44462,
+                        0.393588
+                  ]
+            },
+            {
+                  "name": "Cheikh Ahmadou BAMBA",
+                  "text": "Opened in 2002, this place of worship dedicated to the Senegalese Sufi master Cheikh Ahmadou Bamba is preserved as a religious heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        9.44297,
+                        0.397852
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.4464, 0.3958],
@@ -74,7 +236,88 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       fr: ["Église principale de Libreville", "Construite au XIXe siècle"],
     }, image: "/poi-images/cathedrale-sainte-marie-landmarks-v2.webp"},
   {
-    id: "eglise-saint-michel-landmarks-v2",
+    id: "eglise-saint-michel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument de la Tolérance",
+                  "text": "Das Monument de la Tolérance ist ein Gedenkstein in der Nähe der Église Saint-Michel.",
+                  "category": "historical",
+                  "coords": [
+                        9.463998,
+                        0.405817
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah-Ozangue",
+                  "text": "Der Kingdom Hall of Jehovah's witnesses ist ein religiöses Gebäude der Zeugen Jehovas in der Nähe der Église Saint-Michel.",
+                  "category": "religious",
+                  "coords": [
+                        9.4805,
+                        0.385169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument de la Tolérance",
+                  "text": "A Monument de la Tolérance egy emlékmű az Église Saint-Michel közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.463998,
+                        0.405817
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah-Ozangue",
+                  "text": "A Kingdom Hall of Jehovah's witnesses a Jehova Tanúi imahelye az Église Saint-Michel közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.4805,
+                        0.385169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument de la Tolérance",
+                  "text": "Monument de la Tolérance este un monument comemorativ situat în apropiere de Église Saint-Michel.",
+                  "category": "historical",
+                  "coords": [
+                        9.463998,
+                        0.405817
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah-Ozangue",
+                  "text": "Kingdom Hall of Jehovah's witnesses este un lăcaș de cult al Martorilor lui Iehova situat lângă Église Saint-Michel.",
+                  "category": "religious",
+                  "coords": [
+                        9.4805,
+                        0.385169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument de la Tolérance",
+                  "text": "Monument de la Tolérance is a commemorative monument situated near the Église Saint-Michel.",
+                  "category": "historical",
+                  "coords": [
+                        9.463998,
+                        0.405817
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's witnesses",
+                  "text": "Kingdom Hall of Jehovah's witnesses is a Jehovah's Witnesses place of worship located near the Église Saint-Michel.",
+                  "category": "religious",
+                  "coords": [
+                        9.4805,
+                        0.385169
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.4583, 0.3986],
@@ -145,7 +388,52 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-amitie-landmarks-v2",
+    id: "stade-amitie-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Temoins de Jéhovah-Nzeng Ayong",
+                  "text": "Der Königreichssaal der Zeugen Jehovas ist ein lokales Versammlungszentrum für religiöse Andachten in der Nähe des Stade de l'Amitié.",
+                  "category": "religious",
+                  "coords": [
+                        9.484859,
+                        0.427841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Temoins de Jéhovah-Nzeng Ayong",
+                  "text": "A Jehova Tanúi Királyságterme egy helyi gyülekezeti központ vallási áhítatokra a Stade de l'Amitié közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.484859,
+                        0.427841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Temoins de Jéhovah-Nzeng Ayong",
+                  "text": "Sala Regatului a Martorilor lui Iehova este un centru de adunare local pentru slujbe religioase lângă Stade de l'Amitié.",
+                  "category": "religious",
+                  "coords": [
+                        9.484859,
+                        0.427841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingdom Hall of Jehovah's witnesses",
+                  "text": "The Kingdom Hall of Jehovah's Witnesses is a local assembly center for religious worship near the Stade de l'Amitié.",
+                  "category": "religious",
+                  "coords": [
+                        9.484859,
+                        0.427841
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.4886, 0.4439],
@@ -217,7 +505,88 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mausolee-leon-mba-landmarks-v2",
+    id: "mausolee-leon-mba-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosquée du CHUL",
+                  "text": "Die Mosquée du CHUL ist ein islamisches Gotteshaus, das der Gemeinde in der Nähe des Centre Hospitalier Universitaire de Libreville dient.",
+                  "category": "religious",
+                  "coords": [
+                        9.446684,
+                        0.390177
+                  ]
+            },
+            {
+                  "name": "Memorial Léon MBA",
+                  "text": "Das Memorial Léon Mba ist ein bedeutendes Denkmal, das zu Ehren des Lebens und Vermächtnisses des ersten Präsidenten von Gabun errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        9.446124,
+                        0.391347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosquée du CHUL",
+                  "text": "A Mosquée du CHUL egy iszlám istentiszteleti hely, amely a Libreville-i Egyetemi Kórház Központ (CHUL) körüli közösséget szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        9.446684,
+                        0.390177
+                  ]
+            },
+            {
+                  "name": "Memorial Léon MBA",
+                  "text": "A Léon Mba Emlékmű egy kiemelkedő monumentális építmény, amelyet Gabon első elnökének élete és öröksége tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        9.446124,
+                        0.391347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosquée du CHUL",
+                  "text": "Mosquée du CHUL este un lăcaș de cult islamic care deservește comunitatea din apropierea Centrului Spitalicesc Universitar din Libreville.",
+                  "category": "religious",
+                  "coords": [
+                        9.446684,
+                        0.390177
+                  ]
+            },
+            {
+                  "name": "Memorial Léon MBA",
+                  "text": "Memorialul Léon Mba este un monument proeminent ridicat pentru a onora viața și moștenirea primului președinte al Gabonului.",
+                  "category": "historical",
+                  "coords": [
+                        9.446124,
+                        0.391347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosquée du CHUL",
+                  "text": "The Mosquée du CHUL is an Islamic place of worship serving the community near the Centre Hospitalier Universitaire de Libreville.",
+                  "category": "religious",
+                  "coords": [
+                        9.446684,
+                        0.390177
+                  ]
+            },
+            {
+                  "name": "Memorial Léon MBA",
+                  "text": "The Memorial Léon Mba is a prominent monument erected to honor the life and legacy of the first President of Gabon.",
+                  "category": "historical",
+                  "coords": [
+                        9.446124,
+                        0.391347
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.4475, 0.3925],
@@ -394,7 +763,124 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palais-parlement-landmarks-v2",
+    id: "palais-parlement-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Léon MBA",
+                  "text": "Léon MBA ist ein denkmalgeschütztes Denkmal in der Nähe des Palais du Parlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.450293,
+                        0.400166
+                  ]
+            },
+            {
+                  "name": "Tsunami Parc",
+                  "text": "Tsunami Parc ist ein Freizeitpark in der Nähe des Palais du Parlement.",
+                  "category": "recreational",
+                  "coords": [
+                        9.443887,
+                        0.405167
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das Hôtel de Ville ist ein denkmalgeschütztes städtisches Rathaus in der Nähe des Palais du Parlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.444562,
+                        0.410462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Léon MBA",
+                  "text": "A Léon MBA egy műemléki védelem alatt álló emlékmű a Palais du Parlement közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.450293,
+                        0.400166
+                  ]
+            },
+            {
+                  "name": "Tsunami Parc",
+                  "text": "A Tsunami Parc egy vidámpark a Palais du Parlement közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.443887,
+                        0.405167
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Az Hôtel de Ville egy műemléki védelem alatt álló városháza a Palais du Parlement közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.444562,
+                        0.410462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Léon MBA",
+                  "text": "Léon MBA este un monument de patrimoniu situat lângă Palais du Parlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.450293,
+                        0.400166
+                  ]
+            },
+            {
+                  "name": "Tsunami Parc",
+                  "text": "Tsunami Parc este un parc de distracții situat în apropiere de Palais du Parlement.",
+                  "category": "recreational",
+                  "coords": [
+                        9.443887,
+                        0.405167
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Hôtel de Ville este o primărie municipală de patrimoniu, situată lângă Palais du Parlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.444562,
+                        0.410462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Léon MBA",
+                  "text": "Léon MBA is a heritage-listed monument situated near the Palais du Parlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.450293,
+                        0.400166
+                  ]
+            },
+            {
+                  "name": "Tsunami Parc",
+                  "text": "Tsunami Parc is an amusement theme park located near the Palais du Parlement.",
+                  "category": "recreational",
+                  "coords": [
+                        9.443887,
+                        0.405167
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Hôtel de Ville is a heritage-listed municipal townhall situated near the Palais du Parlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.444562,
+                        0.410462
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.4480, 0.4030],
@@ -574,7 +1060,52 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "barrage-poubara-landmarks-v2",
+    id: "barrage-poubara-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les chutes de Poubara",
+                  "text": "Les chutes de Poubara sind beeindruckende Wasserfälle am Ogooué-Fluss unweit des Wasserkraftwerks Poubara.",
+                  "category": "landmark",
+                  "coords": [
+                        13.551243,
+                        -1.761163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les chutes de Poubara",
+                  "text": "A Les chutes de Poubara egy lenyűgöző vízesés az Ogooué folyón, a poubarai vízerőmű gátja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.551243,
+                        -1.761163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les chutes de Poubara",
+                  "text": "Les chutes de Poubara este o cascadă impresionantă pe râul Ogooué, situată lângă barajul hidroelectric Poubara.",
+                  "category": "landmark",
+                  "coords": [
+                        13.551243,
+                        -1.761163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les chutes de Poubara",
+                  "text": "Les chutes de Poubara is a striking set of waterfalls on the Ogooué River, located near the Poubara hydroelectric dam.",
+                  "category": "landmark",
+                  "coords": [
+                        13.551243,
+                        -1.761163
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-2",
     coords: [13.5500, -1.7800],
@@ -715,7 +1246,52 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       fr: ["Le mémorial a été érigé après le décès d'Omar Bongo en 2009.", "Omar Bongo était le doyen des chefs d'État africains au moment de son décès.", "Le site se trouve à Franceville, chef-lieu de la province du Haut-Ogooué.", "Le bâtiment abrite une bibliothèque et un centre de recherche sur l'histoire contemporaine.", "Le mausolée à l'intérieur est conçu selon les traditions islamiques, Bongo s'étant converti à l'islam.", "Des commémorations officielles y ont lieu chaque année le 8 juin, jour de son décès."],
     }, image: "/poi-images/memorial-omar-bongo-landmarks-v2.webp"},
   {
-    id: "pont-lianes-poubara-landmarks-v2",
+    id: "pont-lianes-poubara-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ndjaki Madiba",
+                  "text": "Ndjaki Madiba ist eine Attraktion in der Nähe der traditionellen Lianenbrücke von Poubara.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54464,
+                        -1.871607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ndjaki Madiba",
+                  "text": "A Ndjaki Madiba egy látványosság Poubara hagyományos liánhídja (pont de lianes) közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54464,
+                        -1.871607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ndjaki Madiba",
+                  "text": "Ndjaki Madiba este o atracție situată în apropierea podului tradițional de liane din Poubara.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54464,
+                        -1.871607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ndjaki Madiba",
+                  "text": "Ndjaki Madiba is an attraction situated near the traditional liana bridge (pont de lianes) of Poubara.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54464,
+                        -1.871607
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-2",
     coords: [13.5450, -1.7850],
@@ -751,7 +1327,52 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gare-transgabonais-landmarks-v2",
+    id: "gare-transgabonais-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "T2KGabon",
+                  "text": "T2KGabon ist ein zoologischer Park in der Nähe der Gare Transgabonais.",
+                  "category": "recreational",
+                  "coords": [
+                        9.547941,
+                        0.267684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "T2KGabon",
+                  "text": "A T2KGabon egy állatkert a Gare Transgabonais közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.547941,
+                        0.267684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "T2KGabon",
+                  "text": "T2KGabon este un parc zoologic situat în apropiere de Gare Transgabonais.",
+                  "category": "recreational",
+                  "coords": [
+                        9.547941,
+                        0.267684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "T2KGabon",
+                  "text": "T2KGabon is a zoological park situated near the Gare Transgabonais.",
+                  "category": "recreational",
+                  "coords": [
+                        9.547941,
+                        0.267684
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.5080, 0.2980],
@@ -786,7 +1407,232 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       fr: ["La gare d'Owendo est le point kilométrique 0 du chemin de fer Transgabonais.", "Les travaux de construction de la gare ont commencé officiellement en 1974.", "C'est le principal point de transbordement du minerai de manganèse des mines de Moanda.", "Des trains de nuit circulent régulièrement d'Owendo vers Franceville.", "La ligne de chemin de fer relie entre elles 5 des 9 provinces du Gabon.", "La gare dispose d'ateliers de maintenance spécialisés pour les locomotives."],
     }, image: "/poi-images/gare-transgabonais-landmarks-v2.webp"},
   {
-    id: "universite-omar-bongo-landmarks-v2",
+    id: "universite-omar-bongo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Delta Postal",
+                  "text": "Delta Postal ist ein städtisches Denkmal in der Nähe der Université Omar Bongo.",
+                  "category": "historical",
+                  "coords": [
+                        9.408548,
+                        0.499061
+                  ]
+            },
+            {
+                  "name": "Wax Me Gabon",
+                  "text": "Wax Me Gabon ist ein lokaler Kunstgalerieraum in der Nähe der Université Omar Bongo.",
+                  "category": "museum",
+                  "coords": [
+                        9.425375,
+                        0.424817
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint André",
+                  "text": "Die Paroisse Saint André ist ein denkmalgeschütztes Gotteshaus in der Nähe der Université Omar Bongo, das am 6. Januar 1964 gegründet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        9.42976,
+                        0.421096
+                  ]
+            },
+            {
+                  "name": "Amphithéatre",
+                  "text": "Das Amphithéatre ist ein Open-Air-Theater auf dem Gelände der Université Omar Bongo.",
+                  "category": "cultural",
+                  "coords": [
+                        9.430711,
+                        0.418702
+                  ]
+            },
+            {
+                  "name": "Plage Léon MBA",
+                  "text": "Der Plage Léon MBA ist ein Sandstrand an der Küste in der Nähe der Université Omar Bongo.",
+                  "category": "recreational",
+                  "coords": [
+                        9.420694,
+                        0.426713
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah-Bel Air",
+                  "text": "Témoins de Jéhovah-Bel Air ist ein Gotteshaus der Zeugen Jehovas in der Nähe der Université Omar Bongo.",
+                  "category": "religious",
+                  "coords": [
+                        9.447648,
+                        0.451845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Delta Postal",
+                  "text": "A Delta Postal egy városi emlékmű az Université Omar Bongo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.408548,
+                        0.499061
+                  ]
+            },
+            {
+                  "name": "Wax Me Gabon",
+                  "text": "A Wax Me Gabon egy helyi művészeti galéria az Université Omar Bongo közelében.",
+                  "category": "museum",
+                  "coords": [
+                        9.425375,
+                        0.424817
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint André",
+                  "text": "A Paroisse Saint André egy műemlékvédelem alatt álló, 1964. január 6-án alapított imahely az Université Omar Bongo közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.42976,
+                        0.421096
+                  ]
+            },
+            {
+                  "name": "Amphithéatre",
+                  "text": "Az Amphithéatre egy szabadtéri színházi helyszín az Université Omar Bongo területén.",
+                  "category": "cultural",
+                  "coords": [
+                        9.430711,
+                        0.418702
+                  ]
+            },
+            {
+                  "name": "Plage Léon MBA",
+                  "text": "A Plage Léon MBA egy homokos tengerparti strand az Université Omar Bongo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.420694,
+                        0.426713
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah-Bel Air",
+                  "text": "A Témoins de Jéhovah-Bel Air a Jehova Tanúi imahelye az Université Omar Bongo közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.447648,
+                        0.451845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Delta Postal",
+                  "text": "Delta Postal este un monument urban situat în apropiere de Universitatea Omar Bongo.",
+                  "category": "historical",
+                  "coords": [
+                        9.408548,
+                        0.499061
+                  ]
+            },
+            {
+                  "name": "Wax Me Gabon",
+                  "text": "Wax Me Gabon este o galerie de artă locală situată lângă Universitatea Omar Bongo.",
+                  "category": "museum",
+                  "coords": [
+                        9.425375,
+                        0.424817
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint André",
+                  "text": "Paroisse Saint André este un lăcaș de cult de patrimoniu, înființat la 6 ianuarie 1964 lângă Universitatea Omar Bongo.",
+                  "category": "religious",
+                  "coords": [
+                        9.42976,
+                        0.421096
+                  ]
+            },
+            {
+                  "name": "Amphithéatre",
+                  "text": "Amphithéatre este un teatru în aer liber situat la Universitatea Omar Bongo.",
+                  "category": "cultural",
+                  "coords": [
+                        9.430711,
+                        0.418702
+                  ]
+            },
+            {
+                  "name": "Plage Léon MBA",
+                  "text": "Plage Léon MBA este o plajă de nisip pe coasta din apropiere de Universitatea Omar Bongo.",
+                  "category": "recreational",
+                  "coords": [
+                        9.420694,
+                        0.426713
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah-Bel Air",
+                  "text": "Témoins de Jéhovah-Bel Air este un lăcaș de cult al Martorilor lui Iehova lângă Universitatea Omar Bongo.",
+                  "category": "religious",
+                  "coords": [
+                        9.447648,
+                        0.451845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Delta Postal",
+                  "text": "Delta Postal is an urban monument situated near the Université Omar Bongo.",
+                  "category": "historical",
+                  "coords": [
+                        9.408548,
+                        0.499061
+                  ]
+            },
+            {
+                  "name": "Wax Me Gabon",
+                  "text": "Wax Me Gabon is a local art gallery space located near the Université Omar Bongo.",
+                  "category": "museum",
+                  "coords": [
+                        9.425375,
+                        0.424817
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint André",
+                  "text": "Paroisse Saint André is a heritage-listed place of worship established on January 6, 1964, near the Université Omar Bongo.",
+                  "category": "religious",
+                  "coords": [
+                        9.42976,
+                        0.421096
+                  ]
+            },
+            {
+                  "name": "Amphithéatre",
+                  "text": "Amphithéatre is an open-air theatre venue located at the Université Omar Bongo.",
+                  "category": "cultural",
+                  "coords": [
+                        9.430711,
+                        0.418702
+                  ]
+            },
+            {
+                  "name": "Plage Léon MBA",
+                  "text": "Plage Léon MBA is a sandy coastal beach situated near the Université Omar Bongo.",
+                  "category": "recreational",
+                  "coords": [
+                        9.420694,
+                        0.426713
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah-Bel Air",
+                  "text": "Témoins de Jéhovah-Bel Air is a Jehovah's Witnesses place of worship near the Université Omar Bongo.",
+                  "category": "religious",
+                  "coords": [
+                        9.447648,
+                        0.451845
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-1",
     coords: [9.4520, 0.4210],
@@ -822,7 +1668,124 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stadium-port-gentil-landmarks-v2",
+    id: "stadium-port-gentil-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancien Phare",
+                  "text": "Eine historische Leuchtturmstruktur, die einst Schiffe in den Port-Gentil leitete.",
+                  "category": "landmark",
+                  "coords": [
+                        8.791472,
+                        -0.727447
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Louis de Port-Gentil",
+                  "text": "Eine denkmalgeschützte katholische Kirche, die zwischen 1926 und 1928 erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        8.786265,
+                        -0.722885
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Lambert Ona Ovono",
+                  "text": "Ein Kunst- und Kulturzentrum in Port-Gentil, das 2017 eröffnet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        8.788777,
+                        -0.726253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancien Phare",
+                  "text": "Egy történelmi világítótorony, amely egykor hajókat irányított Port-Gentilbe.",
+                  "category": "landmark",
+                  "coords": [
+                        8.791472,
+                        -0.727447
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Louis de Port-Gentil",
+                  "text": "Egy műemlékvédelem alatt álló katolikus templom, amely 1926 és 1928 között épült.",
+                  "category": "landmark",
+                  "coords": [
+                        8.786265,
+                        -0.722885
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Lambert Ona Ovono",
+                  "text": "Egy művészeti és kulturális központ Port-Gentilben, amely 2017-ben nyílt meg.",
+                  "category": "cultural",
+                  "coords": [
+                        8.788777,
+                        -0.726253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancien Phare",
+                  "text": "O structură istorică de far care odinioară ghida navele spre Port-Gentil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.791472,
+                        -0.727447
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Louis de Port-Gentil",
+                  "text": "O biserică catolică inclusă în patrimoniu, construită între 1926 și 1928.",
+                  "category": "landmark",
+                  "coords": [
+                        8.786265,
+                        -0.722885
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Lambert Ona Ovono",
+                  "text": "Un centru de artă și cultură în Port-Gentil, deschis în 2017.",
+                  "category": "cultural",
+                  "coords": [
+                        8.788777,
+                        -0.726253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancien Phare",
+                  "text": "A historic lighthouse structure that once guided ships into Port-Gentil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.791472,
+                        -0.727447
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Louis de Port-Gentil",
+                  "text": "A heritage-listed Catholic church constructed between 1926 and 1928.",
+                  "category": "landmark",
+                  "coords": [
+                        8.786265,
+                        -0.722885
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Lambert Ona Ovono",
+                  "text": "An arts and cultural center in Port-Gentil, opened in 2017.",
+                  "category": "cultural",
+                  "coords": [
+                        8.788777,
+                        -0.726253
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GA-8",
     coords: [8.7900, -0.7250],

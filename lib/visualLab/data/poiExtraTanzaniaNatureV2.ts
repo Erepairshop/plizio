@@ -111,7 +111,124 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "mafia-insel-nature-v2",
+    id: "mafia-insel-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo pool (only out at night)",
+                  "text": "Eine natürliche Wasserstelle auf der Insel Mafia, bekannt für ihre nächtliche Flusspferdaktivität.",
+                  "category": "landmark",
+                  "coords": [
+                        39.750778,
+                        -7.873206
+                  ]
+            },
+            {
+                  "name": "Ndagoni",
+                  "text": "Eine traditionelle Küstensiedlung auf der Insel Mafia.",
+                  "category": "landmark",
+                  "coords": [
+                        39.753149,
+                        -7.881279
+                  ]
+            },
+            {
+                  "name": "Hippo pool",
+                  "text": "Ein üppiges Feuchtgebiet, in dem sich lokale Wildtiere, darunter Flusspferde, versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        39.743867,
+                        -7.88271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo pool (only out at night)",
+                  "text": "Egy természetes itatóhely a Mafia-szigeten, amely éjszakai vízilótevékenységéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.750778,
+                        -7.873206
+                  ]
+            },
+            {
+                  "name": "Ndagoni",
+                  "text": "Egy hagyományos tengerparti település a Mafia-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        39.753149,
+                        -7.881279
+                  ]
+            },
+            {
+                  "name": "Hippo pool",
+                  "text": "Egy buja vizes élőhely, ahol a helyi vadvilág, köztük a vízilovak összegyűlnek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.743867,
+                        -7.88271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo pool (only out at night)",
+                  "text": "Un ochi de apă natural pe Insula Mafia, cunoscut pentru activitatea nocturnă a hipopotamilor.",
+                  "category": "landmark",
+                  "coords": [
+                        39.750778,
+                        -7.873206
+                  ]
+            },
+            {
+                  "name": "Ndagoni",
+                  "text": "O așezare tradițională de coastă situată pe Insula Mafia.",
+                  "category": "landmark",
+                  "coords": [
+                        39.753149,
+                        -7.881279
+                  ]
+            },
+            {
+                  "name": "Hippo pool",
+                  "text": "O zonă umedă luxuriantă unde se adună animale sălbatice locale, inclusiv hipopotami.",
+                  "category": "landmark",
+                  "coords": [
+                        39.743867,
+                        -7.88271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo pool (only out at night)",
+                  "text": "A natural watering hole on Mafia Island known for its nocturnal hippopotamus activity.",
+                  "category": "landmark",
+                  "coords": [
+                        39.750778,
+                        -7.873206
+                  ]
+            },
+            {
+                  "name": "Ndagoni",
+                  "text": "A traditional coastal settlement nestled on the island of Mafia.",
+                  "category": "landmark",
+                  "coords": [
+                        39.753149,
+                        -7.881279
+                  ]
+            },
+            {
+                  "name": "Hippo pool",
+                  "text": "A lush wetland area where local wildlife, including hippos, gather.",
+                  "category": "landmark",
+                  "coords": [
+                        39.743867,
+                        -7.88271
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "TZ-04",
     coords: [39.75, -7.85],
@@ -219,7 +336,52 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "pemba-insel-nature-v2",
+    id: "pemba-insel-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "Ein Kulturmuseum, das die reiche Geschichte und das Erbe der Insel Pemba detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "Egy kulturális múzeum, amely Pemba szigetének gazdag történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "Un muzeu cultural care detaliază bogata istorie și moștenire a Insulei Pemba.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "A cultural museum detailing the rich history and heritage of Pemba Island.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247635
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "TZ-15",
     coords: [39.75, -5.25],
@@ -291,7 +453,196 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "indischer-ozean-kueste-nature-v2",
+    id: "indischer-ozean-kueste-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Usumba Rock",
+                  "text": "Der Usumba Rock ist eine markante natürliche Felsformation an der malerischen Küste des Indischen Ozeans.",
+                  "category": "landmark",
+                  "coords": [
+                        39.539668,
+                        -6.461723
+                  ]
+            },
+            {
+                  "name": "Garden cave (The secret cave)",
+                  "text": "Die Garden Cave ist eine verborgene Küstenhöhle, die von üppiger grüner Vegetation nahe dem Indischen Ozean umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.483034,
+                        -6.45872
+                  ]
+            },
+            {
+                  "name": "Salam Cave",
+                  "text": "Die Salam Cave ist eine einzigartige, in eine Höhle integrierte Wasseranlage, die regionale Meereslebewesen in natürlicher Umgebung zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        39.46291,
+                        -6.440713
+                  ]
+            },
+            {
+                  "name": "Culture Village",
+                  "text": "Das Culture Village ist eine traditionelle Siedlung an der Küste, die lokales Erbe, Handwerkskunst und überlieferte Bräuche präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.479907,
+                        -6.459608
+                  ]
+            },
+            {
+                  "name": "bird reserve kizimkazi",
+                  "text": "Das Vogelreservat Kizimkazi ist ein geschützter Küstenlebensraum, der vielfältige regionale Vogelarten in ihrer natürlichen Umgebung beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        39.481424,
+                        -6.458651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Usumba Rock",
+                  "text": "Az Usumba Rock egy feltűnő természetes sziklaképződmény, amely az Indiai-óceán festői partjainál magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        39.539668,
+                        -6.461723
+                  ]
+            },
+            {
+                  "name": "Garden cave (The secret cave)",
+                  "text": "A Garden Cave egy eldugott parti barlang, amelyet buja zöld növényzet vesz körül az Indiai-óceán közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.483034,
+                        -6.45872
+                  ]
+            },
+            {
+                  "name": "Salam Cave",
+                  "text": "A Salam Cave egy egyedülálló, barlangban kialakított akvárium, amely természetes környezetben mutatja be a régió tengeri élővilágát.",
+                  "category": "recreational",
+                  "coords": [
+                        39.46291,
+                        -6.440713
+                  ]
+            },
+            {
+                  "name": "Culture Village",
+                  "text": "A Culture Village egy hagyományos tengerparti település, amely a helyi örökséget, kézművességet és az ősi szokásokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        39.479907,
+                        -6.459608
+                  ]
+            },
+            {
+                  "name": "bird reserve kizimkazi",
+                  "text": "A Kizimkazi madárrezervátum egy védett tengerparti élőhely, amely a régió változatos madárfajainak nyújt természetes menedéket.",
+                  "category": "natural",
+                  "coords": [
+                        39.481424,
+                        -6.458651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Usumba Rock",
+                  "text": "Usumba Rock este o formațiune stâncoasă naturală impresionantă, situată de-a lungul coastelor pitorești ale Oceanului Indian.",
+                  "category": "landmark",
+                  "coords": [
+                        39.539668,
+                        -6.461723
+                  ]
+            },
+            {
+                  "name": "Garden cave (The secret cave)",
+                  "text": "Garden Cave este o peșteră de coastă ascunsă, înconjurată de vegetație luxuriantă în apropierea Oceanului Indian.",
+                  "category": "landmark",
+                  "coords": [
+                        39.483034,
+                        -6.45872
+                  ]
+            },
+            {
+                  "name": "Salam Cave",
+                  "text": "Salam Cave este o atracție acvatică unică, amplasată într-o peșteră, care expune viața marină regională într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        39.46291,
+                        -6.440713
+                  ]
+            },
+            {
+                  "name": "Culture Village",
+                  "text": "Culture Village este o așezare tradițională pe coastă care prezintă patrimoniul local, meșteșugurile și obiceiurile ancestrale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.479907,
+                        -6.459608
+                  ]
+            },
+            {
+                  "name": "bird reserve kizimkazi",
+                  "text": "Rezervația de păsări Kizimkazi este un habitat de coastă protejat, care adăpostește diverse specii de păsări regionale în mediul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        39.481424,
+                        -6.458651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Usumba Rock",
+                  "text": "Usumba Rock is a striking natural coastal formation situated along the scenic shores of the Indian Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        39.539668,
+                        -6.461723
+                  ]
+            },
+            {
+                  "name": "Garden cave (The secret cave)",
+                  "text": "The Garden Cave is a hidden coastal cavern surrounded by lush, green vegetation near the Indian Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        39.483034,
+                        -6.45872
+                  ]
+            },
+            {
+                  "name": "Salam Cave",
+                  "text": "Salam Cave is a unique cavern-based aquatic site showcasing regional marine life in an enclosed natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        39.46291,
+                        -6.440713
+                  ]
+            },
+            {
+                  "name": "Culture Village",
+                  "text": "Culture Village is a traditional settlement along the coast that showcases local heritage, crafts, and ancestral customs.",
+                  "category": "landmark",
+                  "coords": [
+                        39.479907,
+                        -6.459608
+                  ]
+            },
+            {
+                  "name": "bird reserve kizimkazi",
+                  "text": "The Kizimkazi Bird Reserve is a protected coastal habitat supporting diverse regional avian species in their natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        39.481424,
+                        -6.458651
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "TZ-01",
     coords: [39.5, -6.5],
@@ -507,7 +858,52 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "wanyamwezi-wald-nature-v2",
+    id: "wanyamwezi-wald-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magili reserved natural forest",
+                  "text": "Eine geschützte Fläche natürlichen Waldes, die die einheimische Flora und Fauna der Region Wanyamwezi bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.011603,
+                        -4.954874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magili reserved natural forest",
+                  "text": "A Wanyamwezi régió őshonos növény- és állatvilágát megőrző, védett természetes kiterjedésű erdőség.",
+                  "category": "landmark",
+                  "coords": [
+                        33.011603,
+                        -4.954874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magili reserved natural forest",
+                  "text": "O întindere protejată de pădure naturală care conservă flora și fauna nativă din regiunea Wanyamwezi.",
+                  "category": "landmark",
+                  "coords": [
+                        33.011603,
+                        -4.954874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magili reserved natural forest",
+                  "text": "A protected expanse of natural woodland preserving the native flora and fauna of the Wanyamwezi region.",
+                  "category": "landmark",
+                  "coords": [
+                        33.011603,
+                        -4.954874
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TZ-06",
     coords: [33.0, -5.0],
@@ -543,7 +939,52 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "serengeti-steppenebene-nature-v2",
+    id: "serengeti-steppenebene-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippopotame point",
+                  "text": "Dieser beliebte Aussichtspunkt mit Blick auf eine schlammige Flussbiegung in der Serengeti ermöglicht es Besuchern, Dutzende von Flusspferden gefahrlos beim Suhlen zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        34.802124,
+                        -2.455716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippopotame point",
+                  "text": "A Serengeti egyik iszapos folyókanyarulatára néző népszerű kilátóhely lehetővé teszi a látogatók számára, hogy biztonságosan megfigyelhessenek több tucat dagonyázó vízilovat.",
+                  "category": "natural",
+                  "coords": [
+                        34.802124,
+                        -2.455716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippopotame point",
+                  "text": "Având vedere la o cotitură noroioasă a râului din Serengeti, acest loc popular de observare permite vizitatorilor să observe în siguranță zeci de hipopotami bălăcindu-se.",
+                  "category": "natural",
+                  "coords": [
+                        34.802124,
+                        -2.455716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippopotame point",
+                  "text": "Overlooking a muddy river bend in the Serengeti, this popular viewing spot allows safari-goers to safely observe dozens of large hippopotamuses wallowing in the water.",
+                  "category": "natural",
+                  "coords": [
+                        34.802124,
+                        -2.455716
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TZ-02",
     coords: [34.75, -2.5],
@@ -579,7 +1020,88 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "manyara-see-nature-v2",
+    id: "manyara-see-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Majo Moto Boardwalk Way",
+                  "text": "Ein malerischer Holzsteg führt über die geothermischen Feuchtgebiete der heißen Quellen von Maji Moto am Lake Manyara.",
+                  "category": "natural",
+                  "coords": [
+                        35.73976,
+                        -3.61643
+                  ]
+            },
+            {
+                  "name": "Lake Manyara National Park",
+                  "text": "Dieses Biosphärenreservat ist bekannt für seinen riesigen alkalischen See und die baumkletternden Löwen und bietet eine reiche Vielfalt ostafrikanischer Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        35.74528,
+                        -3.608596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Majo Moto Boardwalk Way",
+                  "text": "Festői fahídon sétálhatunk végig a Manyara-tó közelében lévő Maji Moto hőforrások geotermikus vizesélőhelyei felett.",
+                  "category": "natural",
+                  "coords": [
+                        35.73976,
+                        -3.61643
+                  ]
+            },
+            {
+                  "name": "Lake Manyara National Park",
+                  "text": "A hatalmas lúgos taváról és fára mászó oroszlánjairól ismert bioszféra-rezervátum a kelet-afrikai vadvilág gazdag sokszínűségét kínálja.",
+                  "category": "natural",
+                  "coords": [
+                        35.74528,
+                        -3.608596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Majo Moto Boardwalk Way",
+                  "text": "O pasarelă panoramică din lemn care traversează zonele umede geotermale ale izvoarelor termale Maji Moto de lângă Lacul Manyara.",
+                  "category": "natural",
+                  "coords": [
+                        35.73976,
+                        -3.61643
+                  ]
+            },
+            {
+                  "name": "Lake Manyara National Park",
+                  "text": "Cunoscută pentru vastul său lac alcalin și leii care se urcă în copaci, această rezervație a biosferei oferă o bogată diversitate de animale sălbatice est-africane.",
+                  "category": "natural",
+                  "coords": [
+                        35.74528,
+                        -3.608596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Majo Moto Boardwalk Way",
+                  "text": "A scenic wooden boardwalk leading over the geothermal wetland areas of the Maji Moto hot springs near Lake Manyara.",
+                  "category": "natural",
+                  "coords": [
+                        35.73976,
+                        -3.61643
+                  ]
+            },
+            {
+                  "name": "Lake Manyara National Park",
+                  "text": "Known for its vast alkaline lake and tree-climbing lions, this biospehere reserve offers a rich diversity of East African wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        35.74528,
+                        -3.608596
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TZ-02",
     coords: [35.8, -3.6],
@@ -687,7 +1209,52 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "unguja-insel-nature-v2",
+    id: "unguja-insel-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunga Ruins",
+                  "text": "Die Dunga-Ruinen sind die verfallenen Überreste eines Swahili-Palastes aus Korallenstein aus dem 19. Jahrhundert, der einst die lokale Königsfamilie beherbergte.",
+                  "category": "landmark",
+                  "coords": [
+                        39.324549,
+                        -6.135214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunga Ruins",
+                  "text": "A Dunga-romok egy 19. századi, korallkőből épült szuahéli palota omladozó maradványai, amely egykor a helyi uralkodók otthona volt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.324549,
+                        -6.135214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunga Ruins",
+                  "text": "Ruinele Dunga sunt rămășițele din piatră de coral ale unui palat swahili din secolul al XIX-lea, care a găzduit odată regalitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        39.324549,
+                        -6.135214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunga Ruins",
+                  "text": "The Dunga Ruins are the crumbling coral-stone remains of a 19th-century Swahili palace that once housed local royalty.",
+                  "category": "landmark",
+                  "coords": [
+                        39.324549,
+                        -6.135214
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "TZ-15",
     coords: [39.3, -6.15],
@@ -867,7 +1434,88 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "ruwenzori-auslaeufer-nature-v2",
+    id: "ruwenzori-auslaeufer-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bird Watchtower",
+                  "text": "Ein erhöhter Aussichtsturm, der speziell dafür konzipiert wurde, optimale Aussichtspunkte für die Vogelbeobachtung in den Ausläufern des Ruwenzori zu bieten.",
+                  "category": "natural",
+                  "coords": [
+                        29.979358,
+                        -1.58441
+                  ]
+            },
+            {
+                  "name": "Boat Lake Nyagafunzo",
+                  "text": "Ein ruhiger Aussichtspunkt, der malerische Ausblicke über die ruhigen Gewässer des Lake Nyagafunzo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.985928,
+                        -1.574523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bird Watchtower",
+                  "text": "Magasított megfigyelőtorony, amelyet kifejezetten arra terveztek, hogy optimális kilátópontokat biztosítson a madármegfigyeléshez a Ruwenzori lábánál.",
+                  "category": "natural",
+                  "coords": [
+                        29.979358,
+                        -1.58441
+                  ]
+            },
+            {
+                  "name": "Boat Lake Nyagafunzo",
+                  "text": "Csendes kilátóhely, ahonnan festői kilátás nyílik a Nyagafunzo-tó nyugodt vizére.",
+                  "category": "natural",
+                  "coords": [
+                        29.985928,
+                        -1.574523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bird Watchtower",
+                  "text": "Un turn de veghe înălțat, conceput special pentru a oferi puncte de observație optime pentru observarea păsărilor la poalele munților Ruwenzori.",
+                  "category": "natural",
+                  "coords": [
+                        29.979358,
+                        -1.58441
+                  ]
+            },
+            {
+                  "name": "Boat Lake Nyagafunzo",
+                  "text": "Un punct de belvedere liniștit care oferă priveliști pitorești asupra apelor senine ale lacului Nyagafunzo.",
+                  "category": "natural",
+                  "coords": [
+                        29.985928,
+                        -1.574523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bird Watchtower",
+                  "text": "An elevated watchtower structure designed specifically to provide optimal vantage points for birdwatching in the Ruwenzori foothills.",
+                  "category": "natural",
+                  "coords": [
+                        29.979358,
+                        -1.58441
+                  ]
+            },
+            {
+                  "name": "Boat Lake Nyagafunzo",
+                  "text": "A tranquil viewpoint spot offering scenic vistas over the serene waters of Lake Nyagafunzo.",
+                  "category": "natural",
+                  "coords": [
+                        29.985928,
+                        -1.574523
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TZ-17",
     coords: [30.0, -1.5],
@@ -939,7 +1587,196 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     },
   },
   {
-    id: "bongoyo-insel-nature-v2",
+    id: "bongoyo-insel-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach Two",
+                  "text": "Dieser Sandstrand lädt Besucher zum Schwimmen im ruhigen Küstenwasser ein.",
+                  "category": "recreational",
+                  "coords": [
+                        39.250293,
+                        -6.658204
+                  ]
+            },
+            {
+                  "name": "Mbudya and Bongoyo Marine Reserve",
+                  "text": "Dieses Meeresschutzgebiet bewahrt die intakten Korallenriffe und die Unterwasserwelt rund um die vorgelagerten Inseln.",
+                  "category": "natural",
+                  "coords": [
+                        39.26574,
+                        -6.679476
+                  ]
+            },
+            {
+                  "name": "Kunduchi Wet 'N' Wild Water Park",
+                  "text": "Dieser tropische Wasserpark ist mit zahlreichen Becken und Rutschen ausgestattet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.217844,
+                        -6.666451
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "Dieser küstennahe Sandstrand bietet einen erholsamen Ort zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        39.268784,
+                        -6.699308
+                  ]
+            },
+            {
+                  "name": "German House",
+                  "text": "Diese historischen Ruinen stammen aus der Zeit der deutschen Kolonialarchitektur auf der Insel.",
+                  "category": "historical",
+                  "coords": [
+                        39.269883,
+                        -6.702408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach Two",
+                  "text": "Ez a homokos strand a nyugodt tengerparti vízben való úszásra csábítja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        39.250293,
+                        -6.658204
+                  ]
+            },
+            {
+                  "name": "Mbudya and Bongoyo Marine Reserve",
+                  "text": "Ez a tengeri rezervátum megőrzi a tengerparti szigetek körüli érintetlen korallzátonyokat és a víz alatti világot.",
+                  "category": "natural",
+                  "coords": [
+                        39.26574,
+                        -6.679476
+                  ]
+            },
+            {
+                  "name": "Kunduchi Wet 'N' Wild Water Park",
+                  "text": "Ez a trópusi vízi park számos medencével és csúszdával van felszerelve.",
+                  "category": "recreational",
+                  "coords": [
+                        39.217844,
+                        -6.666451
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "Ez a partközeli homokos strand pihentető helyet kínál a napozáshoz és az úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        39.268784,
+                        -6.699308
+                  ]
+            },
+            {
+                  "name": "German House",
+                  "text": "Ezek a történelmi romok a szigeten a német gyarmati építészet idejéből származnak.",
+                  "category": "historical",
+                  "coords": [
+                        39.269883,
+                        -6.702408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach Two",
+                  "text": "Această plajă cu nisip invită vizitatorii să înoate în apele liniștite de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        39.250293,
+                        -6.658204
+                  ]
+            },
+            {
+                  "name": "Mbudya and Bongoyo Marine Reserve",
+                  "text": "Această rezervație marină păstrează recifele de corali intacte și lumea subacvatică din jurul insulelor din larg.",
+                  "category": "natural",
+                  "coords": [
+                        39.26574,
+                        -6.679476
+                  ]
+            },
+            {
+                  "name": "Kunduchi Wet 'N' Wild Water Park",
+                  "text": "Acest parc acvatic tropical este dotat cu numeroase piscine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        39.217844,
+                        -6.666451
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "Această plajă de nisip de lângă coastă oferă un loc de relaxare pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        39.268784,
+                        -6.699308
+                  ]
+            },
+            {
+                  "name": "German House",
+                  "text": "Aceste ruine istorice datează de pe vremea arhitecturii coloniale germane de pe insulă.",
+                  "category": "historical",
+                  "coords": [
+                        39.269883,
+                        -6.702408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach Two",
+                  "text": "This sandy beach invites visitors to swim in the calm coastal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        39.250293,
+                        -6.658204
+                  ]
+            },
+            {
+                  "name": "Mbudya and Bongoyo Marine Reserve",
+                  "text": "This marine reserve preserves the intact coral reefs and underwater life around the offshore islands.",
+                  "category": "natural",
+                  "coords": [
+                        39.26574,
+                        -6.679476
+                  ]
+            },
+            {
+                  "name": "Kunduchi Wet 'N' Wild Water Park",
+                  "text": "This tropical water park is equipped with numerous pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        39.217844,
+                        -6.666451
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "This nearshore sandy beach offers a relaxing spot for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        39.268784,
+                        -6.699308
+                  ]
+            },
+            {
+                  "name": "German House",
+                  "text": "These historic ruins date back to the time of German colonial architecture on the island.",
+                  "category": "historical",
+                  "coords": [
+                        39.269883,
+                        -6.702408
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "TZ-01",
     coords: [39.25, -6.65],

@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraEthiopiaEconomicV2: POI[] = [
   {
-    id: "hawassa-industrial-park-economic-v2",
+    id: "hawassa-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "አላሙራ",
+                  "text": "Alamura bietet einen malerischen Aussichtspunkt, der sowohl den wachsenden Industriepark von Hawassa als auch das schimmernde Wasser des nahen Hawassa-Sees einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        38.494751,
+                        7.021681
+                  ]
+            },
+            {
+                  "name": "ወልደ አማኑኤል ዱባለ አደባባይ",
+                  "text": "Ein öffentlicher Platz, der einen belebten Aussichtspunkt auf die umliegenden Industrieviertel von Hawassa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.49427,
+                        7.032592
+                  ]
+            },
+            {
+                  "name": "አቶቴ",
+                  "text": "Dieser Aussichtspunkt überblickt die dynamischen, dicht besiedelten Straßen des Viertels Atote in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.485518,
+                        7.03786
+                  ]
+            },
+            {
+                  "name": "ሰፈረ ሰላም",
+                  "text": "Sefere Selam bietet einen weiten Blick über die friedlichen Wohnhausdächer dieses Viertels in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.480788,
+                        7.029741
+                  ]
+            },
+            {
+                  "name": "አቶቴ",
+                  "text": "Ein erhöhter städtischer Aussichtspunkt am mehrstöckigen Beshu-Gebäudekomplex in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.486989,
+                        7.037068
+                  ]
+            },
+            {
+                  "name": "አላሙራ ሰፈር",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe des Berges Alamura, der Panoramablicke über die Landschaft des Rift Valleys bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.479666,
+                        7.024363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "አላሙራ",
+                  "text": "Az Alamura festői kilátópontot kínál, ahonnan mind a bővülő Hawassa ipari park, mind a közeli Hawassa-tó csillogó vize látható.",
+                  "category": "natural",
+                  "coords": [
+                        38.494751,
+                        7.021681
+                  ]
+            },
+            {
+                  "name": "ወልደ አማኑኤል ዱባለ አደባባይ",
+                  "text": "Egy nyilvános tér, amely nyüzsgő kilátópontot nyújt Hawassa forgalmas ipari negyedeire.",
+                  "category": "natural",
+                  "coords": [
+                        38.49427,
+                        7.032592
+                  ]
+            },
+            {
+                  "name": "አቶቴ",
+                  "text": "Ez a kilátópont Hawassa Atote negyedének dinamikus, sűrűn lakott utcáira tekint.",
+                  "category": "natural",
+                  "coords": [
+                        38.485518,
+                        7.03786
+                  ]
+            },
+            {
+                  "name": "ሰፈረ ሰላም",
+                  "text": "A Sefere Selam tágas kilátást nyújt ennek a hawassai negyednek a békés lakóházai felett.",
+                  "category": "natural",
+                  "coords": [
+                        38.480788,
+                        7.029741
+                  ]
+            },
+            {
+                  "name": "አቶቴ",
+                  "text": "Egy magasan fekvő városi kilátópont a többszintes Beshu épületegyüttesnél Hawassában.",
+                  "category": "natural",
+                  "coords": [
+                        38.486989,
+                        7.037068
+                  ]
+            },
+            {
+                  "name": "አላሙራ ሰፈር",
+                  "text": "Festői kilátópont az Alamura-hegy közelében, amely panorámás kilátást nyújt a környező Hasadékvölgy tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        38.479666,
+                        7.024363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "አላሙራ",
+                  "text": "Alamura oferă o priveliște pitorească care surprinde atât parcul industrial Hawassa în expansiune, cât și apele strălucitoare ale lacului Hawassa din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        38.494751,
+                        7.021681
+                  ]
+            },
+            {
+                  "name": "ወልደ አማኑኤል ዱባለ አደባባይ",
+                  "text": "O piață publică care oferă un punct de belvedere animat asupra zonelor industriale aglomerate din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.49427,
+                        7.032592
+                  ]
+            },
+            {
+                  "name": "አቶቴ",
+                  "text": "Acest punct de belvedere are vedere la străzile dinamice și dens populate ale cartierului Atote din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.485518,
+                        7.03786
+                  ]
+            },
+            {
+                  "name": "ሰፈረ ሰላም",
+                  "text": "Sefere Selam oferă o vedere panoramică peste acoperișurile pașnice ale locuințelor din acest cartier al Hawassei.",
+                  "category": "natural",
+                  "coords": [
+                        38.480788,
+                        7.029741
+                  ]
+            },
+            {
+                  "name": "አቶቴ",
+                  "text": "Un punct de belvedere urban ridicat, situat la complexul de clădiri cu mai multe etaje Beshu din Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.486989,
+                        7.037068
+                  ]
+            },
+            {
+                  "name": "አላሙራ ሰፈር",
+                  "text": "Un punct de belvedere pitoresc lângă Muntele Alamura, care oferă vederi panoramice ale peisajului din Valea Marelui Rift.",
+                  "category": "natural",
+                  "coords": [
+                        38.479666,
+                        7.024363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alamura",
+                  "text": "Alamura provides a scenic overlook capturing both the expanding Hawassa industrial park and the shimmering waters of Lake Hawassa nearby.",
+                  "category": "natural",
+                  "coords": [
+                        38.494751,
+                        7.021681
+                  ]
+            },
+            {
+                  "name": "Welde Emmanuel Dubale Square",
+                  "text": "A public square providing a vibrant vantage point over the bustling industrial areas of Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.49427,
+                        7.032592
+                  ]
+            },
+            {
+                  "name": "Atote",
+                  "text": "This vantage point overlooks the dynamic, densely populated streets of the Atote neighborhood in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.485518,
+                        7.03786
+                  ]
+            },
+            {
+                  "name": "Sefere Selam",
+                  "text": "Sefere Selam offers expansive views over the peaceful residential rooftops of this Hawassa neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        38.480788,
+                        7.029741
+                  ]
+            },
+            {
+                  "name": "Beshu complex",
+                  "text": "An elevated urban viewpoint located at the multi-story Beshu building complex in Hawassa.",
+                  "category": "natural",
+                  "coords": [
+                        38.486989,
+                        7.037068
+                  ]
+            },
+            {
+                  "name": "Alamura Area",
+                  "text": "A scenic viewpoint near Mount Alamura that provides panoramic vistas of the surrounding Rift Valley landscape.",
+                  "category": "natural",
+                  "coords": [
+                        38.479666,
+                        7.024363
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-SN",
     coords: [38.4833, 7.0333],
@@ -53,7 +278,52 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     
      image: "/poi-images/hawassa-industrial-park-economic-v2.webp"},
   {
-    id: "modjo-dry-port-economic-v2",
+    id: "modjo-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ዳዊት እንደገና",
+                  "text": "Eine bemerkenswerte lokale Sehenswürdigkeit in Modjo, die sich inmitten der geschäftigen Logistikaktivitäten nahe dem Trockenhafen befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.139378,
+                        8.579242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ዳዊት እንደገና",
+                  "text": "Egy figyelemre méltó helyi nevezetesség Modjóban, amely a szárazkikötő melletti nyüzsgő logisztikai tevékenység közepette található.",
+                  "category": "landmark",
+                  "coords": [
+                        39.139378,
+                        8.579242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ዳዊት እንደገና",
+                  "text": "Un punct de interes local notabil în Modjo, situat în mijlocul activității logistice pline de viață din apropierea portului uscat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.139378,
+                        8.579242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dawit Endegena",
+                  "text": "A notable local point of interest in Modjo situated amidst the bustling logistics activity near the dry port.",
+                  "category": "landmark",
+                  "coords": [
+                        39.139378,
+                        8.579242
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ET-OR",
     coords: [39.1235, 8.5833],
@@ -103,7 +373,232 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     
      image: "/poi-images/modjo-dry-port-economic-v2.webp"},
   {
-    id: "adama-industrial-park-economic-v2",
+    id: "adama-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bz-yeshi home",
+                  "text": "Ein deutlich befestigtes, burgähnliches Wohngebäude in Adama, das sich durch seine massiven, imposanten Steinmauern auszeichnet.",
+                  "category": "castle",
+                  "coords": [
+                        39.273421,
+                        8.531258
+                  ]
+            },
+            {
+                  "name": "Siidaa Abbaa Gadaa",
+                  "text": "Ein bedeutendes kulturelles Denkmal in Adama, das die traditionellen demokratischen Führer des Oromo-Gadaa-Systems mit einer symbolischen Skulptur ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        39.268576,
+                        8.541718
+                  ]
+            },
+            {
+                  "name": "Melaku home",
+                  "text": "Ein großes privates Wohnhaus im Schlossstil, das dem Stadtbild von Adama eine markante und wohlhabende architektonische Note verleiht.",
+                  "category": "castle",
+                  "coords": [
+                        39.296775,
+                        8.552987
+                  ]
+            },
+            {
+                  "name": "ቦኩ",
+                  "text": "Eine natürlich vorkommende geothermische Attraktion nahe dem Boku-Kamm in Adama, wo sichtbarer heißer Dampf direkt aus dem vulkanischen Boden aufsteigt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.270544,
+                        8.487817
+                  ]
+            },
+            {
+                  "name": "Bokku",
+                  "text": "Ein spektakulärer erhöhter Aussichtspunkt auf dem Boku-Kamm mit Blick auf die weite, trockene Ebene des Rift Valleys nahe Adama.",
+                  "category": "natural",
+                  "coords": [
+                        39.257099,
+                        8.496674
+                  ]
+            },
+            {
+                  "name": "105",
+                  "text": "Ein Aussichtspunkt in einem Wohngebiet am Hang, der weitreichende Panoramablicke über die modernen Industrieparks von Adama bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.259033,
+                        8.50073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bz-yeshi home",
+                  "text": "Kifejezetten erődített, kastélyszerű lakóépület Adamában, amelyet masszív, impozáns kőfalak jellemeznek.",
+                  "category": "castle",
+                  "coords": [
+                        39.273421,
+                        8.531258
+                  ]
+            },
+            {
+                  "name": "Siidaa Abbaa Gadaa",
+                  "text": "Jelentős kulturális emlékmű Adamában, amely az Oromo Gadaa rendszer hagyományos demokratikus vezetőit tiszteli egy szimbolikus szoborral.",
+                  "category": "historical",
+                  "coords": [
+                        39.268576,
+                        8.541718
+                  ]
+            },
+            {
+                  "name": "Melaku home",
+                  "text": "Nagyszerű, kastély stílusú magánrezidencia, amely jellegzetes és gazdag építészeti vonást kölcsönöz Adama városképének.",
+                  "category": "castle",
+                  "coords": [
+                        39.296775,
+                        8.552987
+                  ]
+            },
+            {
+                  "name": "ቦኩ",
+                  "text": "Természetes geotermikus látványosság a Boku gerinc közelében Adamában, ahol látható forró gőz száll fel közvetlenül a vulkáni talajból.",
+                  "category": "landmark",
+                  "coords": [
+                        39.270544,
+                        8.487817
+                  ]
+            },
+            {
+                  "name": "Bokku",
+                  "text": "Látványos, magasan fekvő kilátópont a Boku gerinc tetején, amely az Adama melletti Hasadékvölgy hatalmas, száraz térségére néz.",
+                  "category": "natural",
+                  "coords": [
+                        39.257099,
+                        8.496674
+                  ]
+            },
+            {
+                  "name": "105",
+                  "text": "Egy domboldali lakóövezeti kilátópont, amely széles panorámát nyújt Adama modern ipari parkjaira.",
+                  "category": "natural",
+                  "coords": [
+                        39.259033,
+                        8.50073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bz-yeshi home",
+                  "text": "O structură rezidențială distinct fortificată, asemănătoare unui castel în Adama, caracterizată prin zidurile sale masive și impunătoare de piatră.",
+                  "category": "castle",
+                  "coords": [
+                        39.273421,
+                        8.531258
+                  ]
+            },
+            {
+                  "name": "Siidaa Abbaa Gadaa",
+                  "text": "Un monument cultural semnificativ în Adama care onorează liderii democratici tradiționali ai sistemului Oromo Gadaa cu o sculptură simbolică.",
+                  "category": "historical",
+                  "coords": [
+                        39.268576,
+                        8.541718
+                  ]
+            },
+            {
+                  "name": "Melaku home",
+                  "text": "O reședință privată grandioasă, în stil castel, care adaugă o notă arhitecturală distinctă și bogată peisajului urban din Adama.",
+                  "category": "castle",
+                  "coords": [
+                        39.296775,
+                        8.552987
+                  ]
+            },
+            {
+                  "name": "ቦኩ",
+                  "text": "O atracție geotermală naturală lângă creasta Boku din Adama, unde aburul fierbinte vizibil se ridică direct din solul vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        39.270544,
+                        8.487817
+                  ]
+            },
+            {
+                  "name": "Bokku",
+                  "text": "Un punct de observație spectaculos ridicat deasupra crestei Boku, cu vedere la întinderea vastă și aridă a Văii Riftului de lângă Adama.",
+                  "category": "natural",
+                  "coords": [
+                        39.257099,
+                        8.496674
+                  ]
+            },
+            {
+                  "name": "105",
+                  "text": "Un punct de belvedere rezidențial pe deal, care oferă vederi panoramice ample asupra parcurilor industriale moderne din Adama.",
+                  "category": "natural",
+                  "coords": [
+                        39.259033,
+                        8.50073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bz-yeshi home",
+                  "text": "A distinctly fortified, castle-like residential structure in Adama characterized by its massive, imposing stone walls.",
+                  "category": "castle",
+                  "coords": [
+                        39.273421,
+                        8.531258
+                  ]
+            },
+            {
+                  "name": "Aba Gada Monument",
+                  "text": "A significant cultural monument in Adama honoring the traditional democratic leaders of the Oromo Gadaa system with a symbolic sculpture.",
+                  "category": "historical",
+                  "coords": [
+                        39.268576,
+                        8.541718
+                  ]
+            },
+            {
+                  "name": "Melaku home",
+                  "text": "A grand, castle-style private residence that adds a distinctive and wealthy architectural touch to Adama's cityscape.",
+                  "category": "castle",
+                  "coords": [
+                        39.296775,
+                        8.552987
+                  ]
+            },
+            {
+                  "name": "Boku Steaming",
+                  "text": "A naturally occurring geothermal attraction near the Boku ridge in Adama where visible hot steam rises directly from the volcanic soil.",
+                  "category": "landmark",
+                  "coords": [
+                        39.270544,
+                        8.487817
+                  ]
+            },
+            {
+                  "name": "Boku",
+                  "text": "A spectacular elevated viewpoint atop the Boku ridge overlooking the vast, arid expanse of the Rift Valley near Adama.",
+                  "category": "natural",
+                  "coords": [
+                        39.257099,
+                        8.496674
+                  ]
+            },
+            {
+                  "name": "105 Residential",
+                  "text": "A hillside residential vantage point providing sweeping panoramic views over the modern industrial parks of Adama.",
+                  "category": "natural",
+                  "coords": [
+                        39.259033,
+                        8.50073
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-OR",
     coords: [39.2711, 8.5414],
@@ -151,7 +646,196 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       fr: ["Favorise la production orientée vers l'exportation.", "Situé à proximité du port sec de Modjo."],
     }, image: "/poi-images/adama-industrial-park-economic-v2.webp"},
   {
-    id: "bole-lemi-industrial-park-economic-v2",
+    id: "bole-lemi-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ቦሌ አራብሳ",
+                  "text": "Bole Arabsa ist ein lokales Viertel in der Nähe des Industrieparks, das als Wohn- und Geschäftszentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        38.887717,
+                        8.977731
+                  ]
+            },
+            {
+                  "name": "ARAB",
+                  "text": "ARAB ist eine lokale Sehenswürdigkeit, die in der wirtschaftlichen Entwicklungszone Bole Lemi liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.884384,
+                        8.976393
+                  ]
+            },
+            {
+                  "name": "roda",
+                  "text": "roda ist eine schlossartige Architekturstruktur, die sich zwischen den modernen Anlagen der Industriezone befindet.",
+                  "category": "castle",
+                  "coords": [
+                        38.787697,
+                        8.95645
+                  ]
+            },
+            {
+                  "name": "ቡልቡላ ኮንዶሚኒየም",
+                  "text": "Das Bulbula condominium ist ein riesiger Wohnkomplex, der den Anwohnern in der Nähe des Industrieparks Unterkunft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.785969,
+                        8.946373
+                  ]
+            },
+            {
+                  "name": "MWA Plastic Industry",
+                  "text": "MWA Plastic Industry ist ein Aussichtspunkt, von dem aus man die industriellen Abläufe der Kunststofffabrik beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        38.818344,
+                        8.921699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ቦሌ አራብሳ",
+                  "text": "A Bole Arabsa egy helyi negyed az ipari park közelében, amely lakó- és üzleti központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        38.887717,
+                        8.977731
+                  ]
+            },
+            {
+                  "name": "ARAB",
+                  "text": "Az ARAB egy helyi látványosság, amely a Bole Lemi gazdasági fejlesztési övezetben található.",
+                  "category": "landmark",
+                  "coords": [
+                        38.884384,
+                        8.976393
+                  ]
+            },
+            {
+                  "name": "roda",
+                  "text": "A roda egy kastélyszerű építészeti struktúra, amely az ipari övezet modern létesítményei között található.",
+                  "category": "castle",
+                  "coords": [
+                        38.787697,
+                        8.95645
+                  ]
+            },
+            {
+                  "name": "ቡልቡላ ኮንዶሚኒየም",
+                  "text": "A Bulbula condominium egy hatalmas lakókomplexum, amely szállást nyújt az ipari park közelében lakók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        38.785969,
+                        8.946373
+                  ]
+            },
+            {
+                  "name": "MWA Plastic Industry",
+                  "text": "A MWA Plastic Industry egy kilátó, ahonnan megfigyelhetők a műanyaggyár ipari folyamatai.",
+                  "category": "natural",
+                  "coords": [
+                        38.818344,
+                        8.921699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ቦሌ አራብሳ",
+                  "text": "Bole Arabsa este un cartier local situat lângă parcul industrial, care servește ca centru rezidențial și de afaceri.",
+                  "category": "landmark",
+                  "coords": [
+                        38.887717,
+                        8.977731
+                  ]
+            },
+            {
+                  "name": "ARAB",
+                  "text": "ARAB este o atracție locală situată în zona de dezvoltare economică Bole Lemi.",
+                  "category": "landmark",
+                  "coords": [
+                        38.884384,
+                        8.976393
+                  ]
+            },
+            {
+                  "name": "roda",
+                  "text": "roda este o structură arhitecturală de tip castel, amplasată printre facilitățile moderne ale zonei industriale.",
+                  "category": "castle",
+                  "coords": [
+                        38.787697,
+                        8.95645
+                  ]
+            },
+            {
+                  "name": "ቡልቡላ ኮንዶሚኒየም",
+                  "text": "Condominiul Bulbula este un complex rezidențial masiv care oferă locuințe locuitorilor din apropierea parcului industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        38.785969,
+                        8.946373
+                  ]
+            },
+            {
+                  "name": "MWA Plastic Industry",
+                  "text": "MWA Plastic Industry este un punct de observație de unde pot fi văzute operațiunile industriale ale fabricii de mase plastice.",
+                  "category": "natural",
+                  "coords": [
+                        38.818344,
+                        8.921699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bole Arabsa",
+                  "text": "Bole Arabsa is a local neighborhood near the industrial park serving as a residential and commercial hub.",
+                  "category": "landmark",
+                  "coords": [
+                        38.887717,
+                        8.977731
+                  ]
+            },
+            {
+                  "name": "ARAB",
+                  "text": "ARAB is a local point of interest located within the Bole Lemi economic development zone.",
+                  "category": "landmark",
+                  "coords": [
+                        38.884384,
+                        8.976393
+                  ]
+            },
+            {
+                  "name": "roda",
+                  "text": "roda is a castle-like architectural structure situated amidst the modern facilities of the industrial zone.",
+                  "category": "castle",
+                  "coords": [
+                        38.787697,
+                        8.95645
+                  ]
+            },
+            {
+                  "name": "Bulbula condominium",
+                  "text": "The Bulbula condominium is a massive residential block providing housing to residents near the industrial park.",
+                  "category": "landmark",
+                  "coords": [
+                        38.785969,
+                        8.946373
+                  ]
+            },
+            {
+                  "name": "MWA Plastic Industry",
+                  "text": "MWA Plastic Industry is a vantage point where observers can view the industrial operations of the plastics factory.",
+                  "category": "natural",
+                  "coords": [
+                        38.818344,
+                        8.921699
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-AA",
     coords: [38.8258, 8.9567],
@@ -199,7 +883,448 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       fr: ["Attire des marques internationales.", "La phase 1 a été achevée en 2014."],
     }, image: "/poi-images/bole-lemi-industrial-park-economic-v2.webp"},
   {
-    id: "mekelle-industrial-park-economic-v2",
+    id: "mekelle-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ቃላይ 'ዳ ቦ ገብሩ",
+                  "text": "Ein kleiner, malerischer See, der als ruhiges Ausflugsziel in der Nähe von Mekelle dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.541206,
+                        13.482074
+                  ]
+            },
+            {
+                  "name": "Gyh",
+                  "text": "Eine lokale Touristenattraktion im städtischen Umfeld von Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.451126,
+                        13.486352
+                  ]
+            },
+            {
+                  "name": "ቤ/ፅ ህወሓት",
+                  "text": "Ein Museum mit historischen Ausstellungsstücken im ehemaligen TPLF-Bürogebäude in Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.461548,
+                        13.489471
+                  ]
+            },
+            {
+                  "name": "Hawelti Museum",
+                  "text": "Ein regionales Museum in unmittelbarer Nähe des hoch aufragenden Märtyrer-Denkmals in Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.460537,
+                        13.491294
+                  ]
+            },
+            {
+                  "name": "Martyrs Monument, Hawelti",
+                  "text": "Ein markantes Denkmal in Mekelle mit einem hohen Turm, der gefallenen regionalen Kämpfern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        39.45933,
+                        13.490568
+                  ]
+            },
+            {
+                  "name": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ",
+                  "text": "Ein Museum, das der Rundfunkgeschichte des regionalen Senders Dimtsi Woyane in Mekelle gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        39.46049,
+                        13.49404
+                  ]
+            },
+            {
+                  "name": "ሮማናት ኣደባባይ",
+                  "text": "Ein belebter städtischer Platz, der als zentraler Treffpunkt im Herzen von Mekelle dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.473205,
+                        13.493172
+                  ]
+            },
+            {
+                  "name": "ሓውዜን አደባባይ / Hawzen Square",
+                  "text": "Ein prominenter öffentlicher Platz, der einen offenen städtischen Raum in der Stadt Mekelle bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.474317,
+                        13.496169
+                  ]
+            },
+            {
+                  "name": "'ዳ ፊልሞን",
+                  "text": "Eine historische, schlossähnliche Struktur, die ein markantes architektonisches Wahrzeichen in Mekelle ist.",
+                  "category": "castle",
+                  "coords": [
+                        39.486567,
+                        13.514464
+                  ]
+            },
+            {
+                  "name": "ዮሃንስ ኣለሙ ሚናስ",
+                  "text": "Ein erhöhter Aussichtspunkt auf dem YAM-Gebäude, der einen Panoramablick über die Straßen von Mekelle bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.485299,
+                        13.513834
+                  ]
+            },
+            {
+                  "name": "bird watching",
+                  "text": "Ein ausgewiesenes Naturschutzgebiet bei Mekelle, das einen geschützten Lebensraum für die lokale Vogelbeobachtung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.395707,
+                        13.509931
+                  ]
+            },
+            {
+                  "name": "Emperor Yohannes Palace",
+                  "text": "Ein historisches Museum im imposanten Steinpalast des Kaisers Yohannes IV. aus dem 19. Jahrhundert in Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.478221,
+                        13.497987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ቃላይ 'ዳ ቦ ገብሩ",
+                  "text": "Egy kis, festői tó, amely csendes látványosságként szolgál Mekelle közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.541206,
+                        13.482074
+                  ]
+            },
+            {
+                  "name": "Gyh",
+                  "text": "Helyi turisztikai látványosság Mekelle városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.451126,
+                        13.486352
+                  ]
+            },
+            {
+                  "name": "ቤ/ፅ ህወሓት",
+                  "text": "Történelmi kiállításokat őrző múzeum az egykori TPLF irodaépületben, Mekellében.",
+                  "category": "museum",
+                  "coords": [
+                        39.461548,
+                        13.489471
+                  ]
+            },
+            {
+                  "name": "Hawelti Museum",
+                  "text": "Regionális múzeum a magasba törő Mártírok emlékműve közelében Mekellében.",
+                  "category": "museum",
+                  "coords": [
+                        39.460537,
+                        13.491294
+                  ]
+            },
+            {
+                  "name": "Martyrs Monument, Hawelti",
+                  "text": "Kiemelkedő emlékmű Mekellében, amelynek magasba törő tornya az elesett regionális harcosoknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        39.45933,
+                        13.490568
+                  ]
+            },
+            {
+                  "name": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ",
+                  "text": "A regionális Dimtsi Woyane rádióállomás műsorszórási történetét bemutató múzeum Mekellében.",
+                  "category": "museum",
+                  "coords": [
+                        39.46049,
+                        13.49404
+                  ]
+            },
+            {
+                  "name": "ሮማናት ኣደባባይ",
+                  "text": "Forgalmas városi tér, amely központi gyülekezőhelyként szolgál Mekelle szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.473205,
+                        13.493172
+                  ]
+            },
+            {
+                  "name": "ሓውዜን አደባባይ / Hawzen Square",
+                  "text": "Kiemelkedő közösségi tér, amely nyitott városi teret biztosít Mekelle városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.474317,
+                        13.496169
+                  ]
+            },
+            {
+                  "name": "'ዳ ፊልሞን",
+                  "text": "Történelmi, kastélyszerű építmény, amely jellegzetes építészeti mérföldkő Mekellében.",
+                  "category": "castle",
+                  "coords": [
+                        39.486567,
+                        13.514464
+                  ]
+            },
+            {
+                  "name": "ዮሃንስ ኣለሙ ሚናስ",
+                  "text": "Magasan fekvő kilátó a YAM épület tetején, amely panorámás kilátást nyújt Mekelle utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        39.485299,
+                        13.513834
+                  ]
+            },
+            {
+                  "name": "bird watching",
+                  "text": "Mekelle melletti kijelölt természetvédelmi terület, amely védett élőhelyet biztosít a helyi madármegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        39.395707,
+                        13.509931
+                  ]
+            },
+            {
+                  "name": "Emperor Yohannes Palace",
+                  "text": "Történelmi múzeum, amely IV. János császár 19. századi, impozáns kőpalotájában kapott helyet Mekellében.",
+                  "category": "museum",
+                  "coords": [
+                        39.478221,
+                        13.497987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ቃላይ 'ዳ ቦ ገብሩ",
+                  "text": "Un mic lac pitoresc ce servește drept atracție liniștită în apropiere de Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.541206,
+                        13.482074
+                  ]
+            },
+            {
+                  "name": "Gyh",
+                  "text": "O atracție turistică locală situată în mediul urban din Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.451126,
+                        13.486352
+                  ]
+            },
+            {
+                  "name": "ቤ/ፅ ህወሓት",
+                  "text": "Un muzeu care păstrează exponate istorice în fosta clădire de birouri a TPLF din Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.461548,
+                        13.489471
+                  ]
+            },
+            {
+                  "name": "Hawelti Museum",
+                  "text": "Un muzeu regional situat în apropierea impunătorului Monument al Martirilor din Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.460537,
+                        13.491294
+                  ]
+            },
+            {
+                  "name": "Martyrs Monument, Hawelti",
+                  "text": "Un monument proeminent în Mekelle, cu un turn înalt dedicat luptătorilor regionali căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        39.45933,
+                        13.490568
+                  ]
+            },
+            {
+                  "name": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ",
+                  "text": "Un muzeu dedicat istoriei transmisiunilor postului regional Dimtsi Woyane din Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.46049,
+                        13.49404
+                  ]
+            },
+            {
+                  "name": "ሮማናት ኣደባባይ",
+                  "text": "O piață urbană plină de viață care servește drept punct central de adunare în inima orașului Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.473205,
+                        13.493172
+                  ]
+            },
+            {
+                  "name": "ሓውዜን አደባባይ / Hawzen Square",
+                  "text": "O piață publică proeminentă care oferă un spațiu urban deschis în orașul Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.474317,
+                        13.496169
+                  ]
+            },
+            {
+                  "name": "'ዳ ፊልሞን",
+                  "text": "O structură istorică, asemănătoare unui castel, care reprezintă un reper arhitectural distinctiv în Mekelle.",
+                  "category": "castle",
+                  "coords": [
+                        39.486567,
+                        13.514464
+                  ]
+            },
+            {
+                  "name": "ዮሃንስ ኣለሙ ሚናስ",
+                  "text": "Un punct de belvedere înalt situat pe clădirea YAM, oferind vederi panoramice asupra străzilor din Mekelle.",
+                  "category": "natural",
+                  "coords": [
+                        39.485299,
+                        13.513834
+                  ]
+            },
+            {
+                  "name": "bird watching",
+                  "text": "O rezervație naturală dedicată lângă Mekelle, care oferă un habitat protejat pentru observarea păsărilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        39.395707,
+                        13.509931
+                  ]
+            },
+            {
+                  "name": "Emperor Yohannes Palace",
+                  "text": "Un muzeu istoric găzduit în impunătorul palat de piatră din secolul al XIX-lea al împăratului Yohannes al IV-lea din Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.478221,
+                        13.497987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Endabo Gebru Mini Lake",
+                  "text": "A small, picturesque lake serving as a tranquil attraction near the city of Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.541206,
+                        13.482074
+                  ]
+            },
+            {
+                  "name": "Gyh",
+                  "text": "A local tourist attraction situated within the urban environment of Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.451126,
+                        13.486352
+                  ]
+            },
+            {
+                  "name": "TPLF-Office",
+                  "text": "A museum preserving historical exhibits within the former TPLF office building in Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.461548,
+                        13.489471
+                  ]
+            },
+            {
+                  "name": "Hawelti Museum",
+                  "text": "A regional museum situated closely to the towering Martyrs Monument in Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.460537,
+                        13.491294
+                  ]
+            },
+            {
+                  "name": "Martyrs Monument, Hawelti",
+                  "text": "A prominent monument in Mekelle featuring a soaring tower dedicated to fallen regional fighters.",
+                  "category": "historical",
+                  "coords": [
+                        39.45933,
+                        13.490568
+                  ]
+            },
+            {
+                  "name": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ",
+                  "text": "A museum dedicated to the broadcasting history of the regional Dimtsi Woyane station in Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.46049,
+                        13.49404
+                  ]
+            },
+            {
+                  "name": "Romanat Square",
+                  "text": "A bustling urban square acting as a central gathering point in the heart of Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.473205,
+                        13.493172
+                  ]
+            },
+            {
+                  "name": "Hawzen Square",
+                  "text": "A prominent public square providing open urban space within the city of Mekelle.",
+                  "category": "landmark",
+                  "coords": [
+                        39.474317,
+                        13.496169
+                  ]
+            },
+            {
+                  "name": "'ዳ ፊልሞን",
+                  "text": "A historic, castle-like structure standing as a distinctive architectural landmark in Mekelle.",
+                  "category": "castle",
+                  "coords": [
+                        39.486567,
+                        13.514464
+                  ]
+            },
+            {
+                  "name": "YAM building",
+                  "text": "An elevated viewpoint atop the YAM building providing panoramic vistas over the streets of Mekelle.",
+                  "category": "natural",
+                  "coords": [
+                        39.485299,
+                        13.513834
+                  ]
+            },
+            {
+                  "name": "bird watching",
+                  "text": "A dedicated nature reserve near Mekelle providing a protected habitat for local bird watching.",
+                  "category": "natural",
+                  "coords": [
+                        39.395707,
+                        13.509931
+                  ]
+            },
+            {
+                  "name": "Emperor Yohannes Palace",
+                  "text": "A historic museum housed within the imposing 19th-century stone palace of Emperor Yohannes IV in Mekelle.",
+                  "category": "museum",
+                  "coords": [
+                        39.478221,
+                        13.497987
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-TI",
     coords: [39.4753, 13.4967],
@@ -295,7 +1420,52 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "derba-midroc-cement-economic-v2",
+    id: "derba-midroc-cement-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Derba waterfall",
+                  "text": "Ein natürlicher Wasserfall in der Nähe des Industriegebiets von Derba Midroc Cement.",
+                  "category": "landmark",
+                  "coords": [
+                        38.657608,
+                        9.429882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derba waterfall",
+                  "text": "Egy természetes vízesés a Derba Midroc Cement ipari terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.657608,
+                        9.429882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Derba waterfall",
+                  "text": "O cascadă naturală situată în apropierea zonei industriale Derba Midroc Cement.",
+                  "category": "landmark",
+                  "coords": [
+                        38.657608,
+                        9.429882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derba waterfall",
+                  "text": "A natural cascading waterfall situated near the Derba Midroc Cement industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        38.657608,
+                        9.429882
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-OR",
     coords: [38.5667, 9.4333],
@@ -487,7 +1657,124 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kilinto-industrial-park-economic-v2",
+    id: "kilinto-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "tuludimtu selam mosque",
+                  "text": "Eine monumentale Moschee in der Nähe des Kilinto-Industrieparks.",
+                  "category": "historical",
+                  "coords": [
+                        38.821418,
+                        8.86692
+                  ]
+            },
+            {
+                  "name": "ቱሉ ዲምቱ ኬላ",
+                  "text": "Ein lokaler Aussichtspunkt mit Blick auf das Gebiet Tulu Dimtu in der Nähe des Industrieparks Kilinto.",
+                  "category": "natural",
+                  "coords": [
+                        38.824515,
+                        8.863055
+                  ]
+            },
+            {
+                  "name": "አስቱካ",
+                  "text": "Ein malerischer Beobachtungspunkt mit Blick auf die Industrieregion Kilinto.",
+                  "category": "natural",
+                  "coords": [
+                        38.822967,
+                        8.83138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tuludimtu selam mosque",
+                  "text": "Egy monumentális mecset a Kilinto Ipari Park közelében.",
+                  "category": "historical",
+                  "coords": [
+                        38.821418,
+                        8.86692
+                  ]
+            },
+            {
+                  "name": "ቱሉ ዲምቱ ኬላ",
+                  "text": "Egy helyi kilátópont, amely rálátást nyújt a Tulu Dimtu területére a Kilinto Ipari Park közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.824515,
+                        8.863055
+                  ]
+            },
+            {
+                  "name": "አስቱካ",
+                  "text": "Egy festői megfigyelőpont, amely a Kilinto ipari régióra néz.",
+                  "category": "natural",
+                  "coords": [
+                        38.822967,
+                        8.83138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tuludimtu selam mosque",
+                  "text": "O moschee monumentală situată în apropierea Parcului Industrial Kilinto.",
+                  "category": "historical",
+                  "coords": [
+                        38.821418,
+                        8.86692
+                  ]
+            },
+            {
+                  "name": "ቱሉ ዲምቱ ኬላ",
+                  "text": "Un punct de belvedere local care oferă perspective asupra zonei Tulu Dimtu de lângă Parcul Industrial Kilinto.",
+                  "category": "natural",
+                  "coords": [
+                        38.824515,
+                        8.863055
+                  ]
+            },
+            {
+                  "name": "አስቱካ",
+                  "text": "Un punct de observație pitoresc care are vedere la regiunea industrială Kilinto.",
+                  "category": "natural",
+                  "coords": [
+                        38.822967,
+                        8.83138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tuludimtu selam mosque",
+                  "text": "A monumental mosque situated near the Kilinto Industrial Park.",
+                  "category": "historical",
+                  "coords": [
+                        38.821418,
+                        8.86692
+                  ]
+            },
+            {
+                  "name": "Tulu dimtu kella",
+                  "text": "A local viewpoint offering perspectives over the Tulu Dimtu area near the Kilinto Industrial Park.",
+                  "category": "natural",
+                  "coords": [
+                        38.824515,
+                        8.863055
+                  ]
+            },
+            {
+                  "name": "Astu sistu",
+                  "text": "A scenic observation point overlooking the Kilinto industrial region.",
+                  "category": "natural",
+                  "coords": [
+                        38.822967,
+                        8.83138
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-AA",
     coords: [38.7997, 8.8753],
@@ -679,7 +1966,88 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bgi-ethiopia-addis-ababa-economic-v2",
+    id: "bgi-ethiopia-addis-ababa-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mili home",
+                  "text": "Das Mili Home ist ein lokaler Anziehungspunkt in der Nähe des Wirtschaftszentrums von BGI Ethiopia.",
+                  "category": "landmark",
+                  "coords": [
+                        38.750072,
+                        8.984226
+                  ]
+            },
+            {
+                  "name": "ብሎክ 17",
+                  "text": "Block 17 ist ein bestimmtes Gebäude, das als lokaler Orientierungspunkt im Bereich von BGI Ethiopia dient.",
+                  "category": "landmark",
+                  "coords": [
+                        38.756251,
+                        8.983857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mili home",
+                  "text": "A Mili Home egy helyi látványosság a BGI Ethiopia gazdasági központjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.750072,
+                        8.984226
+                  ]
+            },
+            {
+                  "name": "ብሎክ 17",
+                  "text": "A 17-es blokk egy konkrét épület, amely helyi tájékozódási pontként szolgál a BGI Ethiopia területén.",
+                  "category": "landmark",
+                  "coords": [
+                        38.756251,
+                        8.983857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mili home",
+                  "text": "Mili Home este o atracție locală în apropierea centrului economic BGI Ethiopia.",
+                  "category": "landmark",
+                  "coords": [
+                        38.750072,
+                        8.984226
+                  ]
+            },
+            {
+                  "name": "ብሎክ 17",
+                  "text": "Blocul 17 este o clădire specifică care servește drept punct de reper local în zona BGI Ethiopia.",
+                  "category": "landmark",
+                  "coords": [
+                        38.756251,
+                        8.983857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mili home",
+                  "text": "Mili home is a local attraction located near the BGI Ethiopia economic hub.",
+                  "category": "landmark",
+                  "coords": [
+                        38.750072,
+                        8.984226
+                  ]
+            },
+            {
+                  "name": "Block 17",
+                  "text": "Block 17 is a specific building acting as a local landmark in the BGI Ethiopia area.",
+                  "category": "landmark",
+                  "coords": [
+                        38.756251,
+                        8.983857
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-AA",
     coords: [38.7461, 8.9953],
@@ -727,7 +2095,52 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "debark-industrial-park-economic-v2",
+    id: "debark-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "akir road",
+                  "text": "Eine regionale Schlossruine, die markant an der Akir-Straße in der Nähe der Stadt Debark liegt.",
+                  "category": "castle",
+                  "coords": [
+                        37.898296,
+                        13.158003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "akir road",
+                  "text": "Egy regionális kastélyrom, amely kiemelkedő helyen, az Akir út mentén fekszik Debark városa közelében.",
+                  "category": "castle",
+                  "coords": [
+                        37.898296,
+                        13.158003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "akir road",
+                  "text": "O ruină a unui castel regional situată în mod proeminent de-a lungul drumului Akir, lângă orașul Debark.",
+                  "category": "castle",
+                  "coords": [
+                        37.898296,
+                        13.158003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "akir road",
+                  "text": "A regional castle ruin situated prominently along the Akir road near the town of Debark.",
+                  "category": "castle",
+                  "coords": [
+                        37.898296,
+                        13.158003
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-AM",
     coords: [37.8986, 13.1436],
@@ -919,7 +2332,232 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kality-metal-products-factory-economic-v2",
+    id: "kality-metal-products-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "መድህን ዲኮር",
+                  "text": "Eine lokale Attraktion in der Nähe der Metallwarenfabrik Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.770539,
+                        8.923844
+                  ]
+            },
+            {
+                  "name": "ገላን ኮንደሚኒየም",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Wohnanlagen im Industriegebiet von Kality.",
+                  "category": "natural",
+                  "coords": [
+                        38.762727,
+                        8.87674
+                  ]
+            },
+            {
+                  "name": "Mobily store",
+                  "text": "Eine Einzelhandelsattraktion im Fabrikviertel von Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.758494,
+                        8.900628
+                  ]
+            },
+            {
+                  "name": "ጥላፎቅ",
+                  "text": "Ein lokaler Anziehungspunkt rund um das Industriegebiet von Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.772576,
+                        8.89792
+                  ]
+            },
+            {
+                  "name": "Ahmed Ali house",
+                  "text": "Ein als Attraktion geltendes Wohnhaus im Bereich der Metallwarenfabrik Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767411,
+                        8.883202
+                  ]
+            },
+            {
+                  "name": "አሚንሃን",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe des Industriegebiets von Kality.",
+                  "category": "natural",
+                  "coords": [
+                        38.766033,
+                        8.875031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "መድህን ዲኮር",
+                  "text": "Egy helyi látványosság a Kality fémárugyár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.770539,
+                        8.923844
+                  ]
+            },
+            {
+                  "name": "ገላን ኮንደሚኒየም",
+                  "text": "A Kality ipari övezet társasházaira néző kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        38.762727,
+                        8.87674
+                  ]
+            },
+            {
+                  "name": "Mobily store",
+                  "text": "Egy kiskereskedelmi látványosság a Kality gyárnegyeden belül.",
+                  "category": "landmark",
+                  "coords": [
+                        38.758494,
+                        8.900628
+                  ]
+            },
+            {
+                  "name": "ጥላፎቅ",
+                  "text": "Egy helyi nevezetesség a Kality ipari zóna környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        38.772576,
+                        8.89792
+                  ]
+            },
+            {
+                  "name": "Ahmed Ali house",
+                  "text": "Egy lakóházként funkcionáló látványosság a Kality fémárugyár területén.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767411,
+                        8.883202
+                  ]
+            },
+            {
+                  "name": "አሚንሃን",
+                  "text": "Egy festői kilátópont a Kality ipari negyed közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.766033,
+                        8.875031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "መድህን ዲኮር",
+                  "text": "O atracție locală situată în apropierea Fabricii de Produse Metalice Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.770539,
+                        8.923844
+                  ]
+            },
+            {
+                  "name": "ገላን ኮንደሚኒየም",
+                  "text": "Un punct de belvedere care oferă priveliști asupra blocurilor rezidențiale din zona industrială Kality.",
+                  "category": "natural",
+                  "coords": [
+                        38.762727,
+                        8.87674
+                  ]
+            },
+            {
+                  "name": "Mobily store",
+                  "text": "O atracție comercială situată în cartierul fabricilor din Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.758494,
+                        8.900628
+                  ]
+            },
+            {
+                  "name": "ጥላፎቅ",
+                  "text": "Un punct de interes local situat în jurul zonei industriale Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.772576,
+                        8.89792
+                  ]
+            },
+            {
+                  "name": "Ahmed Ali house",
+                  "text": "O atracție rezidențială situată în zona Fabricii de Produse Metalice Kality.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767411,
+                        8.883202
+                  ]
+            },
+            {
+                  "name": "አሚንሃን",
+                  "text": "Un punct de belvedere pitoresc situat în vecinătatea districtului industrial Kality.",
+                  "category": "natural",
+                  "coords": [
+                        38.766033,
+                        8.875031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Medhen Decor",
+                  "text": "A local attraction situated near the Kality Metal Products Factory.",
+                  "category": "landmark",
+                  "coords": [
+                        38.770539,
+                        8.923844
+                  ]
+            },
+            {
+                  "name": "Gelan condominium",
+                  "text": "A viewpoint offering sights over the residential condominium buildings in the Kality industrial area.",
+                  "category": "natural",
+                  "coords": [
+                        38.762727,
+                        8.87674
+                  ]
+            },
+            {
+                  "name": "Mobily store",
+                  "text": "A retail attraction located within the Kality factory district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.758494,
+                        8.900628
+                  ]
+            },
+            {
+                  "name": "Tilafoq",
+                  "text": "A local point of interest situated around the Kality industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        38.772576,
+                        8.89792
+                  ]
+            },
+            {
+                  "name": "Ahmed Ali house",
+                  "text": "A residential building attraction located in the Kality Metal Products Factory area.",
+                  "category": "landmark",
+                  "coords": [
+                        38.767411,
+                        8.883202
+                  ]
+            },
+            {
+                  "name": "AminHan",
+                  "text": "A scenic viewpoint located in the vicinity of the Kality industrial district.",
+                  "category": "natural",
+                  "coords": [
+                        38.766033,
+                        8.875031
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-AA",
     coords: [38.7667, 8.9],
@@ -967,7 +2605,124 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kombolcha-dry-port-economic-v2",
+    id: "kombolcha-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site 2",
+                  "text": "Ein ausgewiesener Anziehungspunkt innerhalb der Hafenanlage Kombolcha Dry Port.",
+                  "category": "landmark",
+                  "coords": [
+                        39.75119,
+                        11.015238
+                  ]
+            },
+            {
+                  "name": "Site 3",
+                  "text": "Ein spezifischer lokaler Anziehungspunkt innerhalb des Kombolcha Dry Port Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        39.746263,
+                        11.031745
+                  ]
+            },
+            {
+                  "name": "Shibiin area",
+                  "text": "Ein Beobachtungsbereich mit Blick auf den Industrie- und Verkehrsknotenpunkt Kombolcha.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site 2",
+                  "text": "Egy kijelölt látványosság a Kombolcha szárazkikötő létesítményén belül.",
+                  "category": "landmark",
+                  "coords": [
+                        39.75119,
+                        11.015238
+                  ]
+            },
+            {
+                  "name": "Site 3",
+                  "text": "Egy meghatározott helyi nevezetesség a Kombolcha szárazkikötő komplexumban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.746263,
+                        11.031745
+                  ]
+            },
+            {
+                  "name": "Shibiin area",
+                  "text": "Egy megfigyelőterület, amely kilátást nyújt Kombolcha ipari és közlekedési csomópontjára.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site 2",
+                  "text": "Un punct de interes desemnat situat în cadrul portului terestru Kombolcha.",
+                  "category": "landmark",
+                  "coords": [
+                        39.75119,
+                        11.015238
+                  ]
+            },
+            {
+                  "name": "Site 3",
+                  "text": "Un site local specific de interes în cadrul complexului portuar terestru Kombolcha.",
+                  "category": "landmark",
+                  "coords": [
+                        39.746263,
+                        11.031745
+                  ]
+            },
+            {
+                  "name": "Shibiin area",
+                  "text": "O zonă de observație care oferă priveliști asupra centrului industrial și de transport din Kombolcha.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site 2",
+                  "text": "A designated point of interest located within the Kombolcha dry port facility.",
+                  "category": "landmark",
+                  "coords": [
+                        39.75119,
+                        11.015238
+                  ]
+            },
+            {
+                  "name": "Site 3",
+                  "text": "A specific local site of interest within the Kombolcha dry port complex.",
+                  "category": "landmark",
+                  "coords": [
+                        39.746263,
+                        11.031745
+                  ]
+            },
+            {
+                  "name": "Shibiin area",
+                  "text": "An observation area providing views over the industrial and transport hub of Kombolcha.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082462
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ET-AM",
     coords: [39.75, 11.0833],
@@ -1063,7 +2818,52 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "dukem-eastern-industry-zone-economic-v2",
+    id: "dukem-eastern-industry-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ዱከም ፈታ place",
+                  "text": "Ein auffälliges, mehrstöckiges Hotelgebäude in der Nähe der Industriezone Dukem, das als markantes architektonisches Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911574,
+                        8.788615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ዱከም ፈታ place",
+                  "text": "Egy feltűnő többszintes szállodaépület a dukemi ipari övezet közelében, amely kiemelkedő építészeti tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911574,
+                        8.788615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ዱከም ፈታ place",
+                  "text": "O clădire hotelieră vizibilă, cu mai multe etaje, lângă zona industrială Dukem, care servește ca un reper arhitectural proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911574,
+                        8.788615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dukem radar hotel",
+                  "text": "A conspicuous multi-story hotel building near the Dukem industrial zone that serves as a prominent architectural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911574,
+                        8.788615
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-OR",
     coords: [38.9, 8.8],
@@ -1111,7 +2911,700 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "huajian-shoe-factory-economic-v2",
+    id: "huajian-shoe-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nuru House",
+                  "text": "Ein bekanntes lokales Wohnhaus, das als architektonische Sehenswürdigkeit in der Nähe der belebten Schuhfabrik Huajian dient.",
+                  "category": "landmark",
+                  "coords": [
+                        38.684586,
+                        8.955488
+                  ]
+            },
+            {
+                  "name": "Keyo house",
+                  "text": "Das Keyo house ist ein privates Wohnhaus, das einen Einblick in die lokale Architektur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689184,
+                        8.94
+                  ]
+            },
+            {
+                  "name": "Zebiba's Home",
+                  "text": "Zebiba Home ist ein markantes privates Wohnhaus, das in einem ungewöhnlichen Festungsstil erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        38.679913,
+                        8.927606
+                  ]
+            },
+            {
+                  "name": "Zewdu house",
+                  "text": "Das Zewdu house ist ein weiteres Beispiel der lokalen Wohnkultur in der Nähe des Industrieparks.",
+                  "category": "landmark",
+                  "coords": [
+                        38.668177,
+                        8.92652
+                  ]
+            },
+            {
+                  "name": "Nok adebabay",
+                  "text": "Kenteri ist ein Aussichtspunkt, der einen weiten Blick auf die umliegenden städtischen und industriellen Gebiete bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.67031,
+                        8.950514
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "Der Aussichtspunkt Keyo bietet Besuchern ein Panorama auf die expandierende städtische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        38.685214,
+                        8.942516
+                  ]
+            },
+            {
+                  "name": "ፉሪ",
+                  "text": "Furi ist ein erhöhter Aussichtspunkt in der Nähe der wirtschaftlichen Entwicklungszonen.",
+                  "category": "natural",
+                  "coords": [
+                        38.687758,
+                        8.951201
+                  ]
+            },
+            {
+                  "name": "ቴዶ place",
+                  "text": "Das Tedo recreation ist ein Erholungsgebiet, das eine Pause vom geschäftigen Treiben der angrenzenden Fabriken bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719832,
+                        8.956431
+                  ]
+            },
+            {
+                  "name": "አማን",
+                  "text": "Aman ist eine lokale Attraktion, die von den Anwohnern der Industrieviertel besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        38.711135,
+                        8.958902
+                  ]
+            },
+            {
+                  "name": "የሲቲና ቤት",
+                  "text": "Sitina's Home ist ein burgähnliches Privathaus mit einer architektonisch auffälligen Fassade.",
+                  "category": "castle",
+                  "coords": [
+                        38.709967,
+                        8.970769
+                  ]
+            },
+            {
+                  "name": "ጀሞ-ሚካኤል አደባባይ",
+                  "text": "Der Jemo-micheal roundabout dient als urbaner Knotenpunkt und bietet einen Überblick über den örtlichen Verkehr.",
+                  "category": "natural",
+                  "coords": [
+                        38.721905,
+                        8.968956
+                  ]
+            },
+            {
+                  "name": "Lidu",
+                  "text": "Lid ist ein städtischer Aussichtspunkt, der für seine Sicht auf die industriellen Dächer bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        38.736356,
+                        8.974428
+                  ]
+            },
+            {
+                  "name": "Lebu Mebrathayil",
+                  "text": "Lebu Mebrathayil bietet einen Blick auf die Vorstadtstraßen und die angrenzenden Wohnviertel.",
+                  "category": "natural",
+                  "coords": [
+                        38.733709,
+                        8.948261
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Dieses private Wohngebäude ist im Stil eines Schlosses errichtet und fällt in der städtischen Umgebung auf.",
+                  "category": "castle",
+                  "coords": [
+                        38.770475,
+                        8.9567
+                  ]
+            },
+            {
+                  "name": "shibiin place",
+                  "text": "Der shibiin place ist ein lokaler Platz, der sich als Aussichtspunkt auf das Treiben im Viertel eignet.",
+                  "category": "natural",
+                  "coords": [
+                        38.745821,
+                        8.932396
+                  ]
+            },
+            {
+                  "name": "ሃና ማርያም",
+                  "text": "Hana Maryam ist ein Aussichtspunkt in der Nähe der gleichnamigen religiösen Stätte.",
+                  "category": "natural",
+                  "coords": [
+                        38.744983,
+                        8.935602
+                  ]
+            },
+            {
+                  "name": "መካኒሣ ቆጣሪ የጋራ መኖሪያ ቤት",
+                  "text": "Das Mekannisa Kotari Condominium ist eine große Wohnanlage, die als Orientierungspunkt im Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        38.732614,
+                        8.932289
+                  ]
+            },
+            {
+                  "name": "Nekaho wajo",
+                  "text": "Nekaho wajo ist ein lokaler Treffpunkt und eine Attraktion im urbanen Gefüge.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721805,
+                        8.932156
+                  ]
+            },
+            {
+                  "name": "Outdoor Market",
+                  "text": "Der Outdoor Market ist ein geschäftiger Freiluftmarkt, auf dem lokale Händler ihre Waren anbieten.",
+                  "category": "landmark",
+                  "coords": [
+                        38.710994,
+                        8.960462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuru House",
+                  "text": "Egy jól ismert helyi lakóház, amely építészeti nevezetességként szolgál a nyüzsgő Huajian cipőgyár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.684586,
+                        8.955488
+                  ]
+            },
+            {
+                  "name": "Keyo house",
+                  "text": "A Keyo house egy magánlakás, amely bepillantást enged a helyi építészetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689184,
+                        8.94
+                  ]
+            },
+            {
+                  "name": "Zebiba's Home",
+                  "text": "A Zebiba Home egy jellegzetes, szokatlan erődítménystílusban épült magánrezidencia.",
+                  "category": "castle",
+                  "coords": [
+                        38.679913,
+                        8.927606
+                  ]
+            },
+            {
+                  "name": "Zewdu house",
+                  "text": "A Zewdu house a helyi lakáskultúra egy újabb példája az ipari park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.668177,
+                        8.92652
+                  ]
+            },
+            {
+                  "name": "Nok adebabay",
+                  "text": "A Kenteri egy kilátó, amely széles kilátást nyújt a környező városi és ipari területekre.",
+                  "category": "natural",
+                  "coords": [
+                        38.67031,
+                        8.950514
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "A Keyo kilátó panorámát kínál a látogatóknak a terjeszkedő városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        38.685214,
+                        8.942516
+                  ]
+            },
+            {
+                  "name": "ፉሪ",
+                  "text": "A Furi egy magaslati kilátó a gazdasági fejlesztési övezetek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.687758,
+                        8.951201
+                  ]
+            },
+            {
+                  "name": "ቴዶ place",
+                  "text": "A Tedo recreation egy pihenőövezet, amely szünetet biztosít a szomszédos gyárak nyüzsgéséből.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719832,
+                        8.956431
+                  ]
+            },
+            {
+                  "name": "አማን",
+                  "text": "Az Aman egy helyi látványosság, amelyet az ipari negyedek lakói látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        38.711135,
+                        8.958902
+                  ]
+            },
+            {
+                  "name": "የሲቲና ቤት",
+                  "text": "A Sitina's Home egy kastélyszerű magánház, amelynek építészetileg feltűnő homlokzata van.",
+                  "category": "castle",
+                  "coords": [
+                        38.709967,
+                        8.970769
+                  ]
+            },
+            {
+                  "name": "ጀሞ-ሚካኤል አደባባይ",
+                  "text": "A Jemo-micheal roundabout városi csomópontként szolgál, és rálátást nyújt a helyi forgalomra.",
+                  "category": "natural",
+                  "coords": [
+                        38.721905,
+                        8.968956
+                  ]
+            },
+            {
+                  "name": "Lidu",
+                  "text": "A Lid egy városi kilátó, amely az ipari tetőkre nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        38.736356,
+                        8.974428
+                  ]
+            },
+            {
+                  "name": "Lebu Mebrathayil",
+                  "text": "A Lebu Mebrathayil a külvárosi utcákra és a szomszédos lakónegyedekre nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        38.733709,
+                        8.948261
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Ez a kastély stílusában épült magánlakóépület kitűnik a városi környezetből.",
+                  "category": "castle",
+                  "coords": [
+                        38.770475,
+                        8.9567
+                  ]
+            },
+            {
+                  "name": "shibiin place",
+                  "text": "A shibiin place egy helyi tér, amely kilátóként szolgál a környékbeli nyüzsgésre.",
+                  "category": "natural",
+                  "coords": [
+                        38.745821,
+                        8.932396
+                  ]
+            },
+            {
+                  "name": "ሃና ማርያም",
+                  "text": "A Hana Maryam egy kilátó az azonos nevű vallási helyszín közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.744983,
+                        8.935602
+                  ]
+            },
+            {
+                  "name": "መካኒሣ ቆጣሪ የጋራ መኖሪያ ቤት",
+                  "text": "A Mekannisa Kotari Condominium egy nagy lakópark, amely tájékozódási pontként szolgál a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.732614,
+                        8.932289
+                  ]
+            },
+            {
+                  "name": "Nekaho wajo",
+                  "text": "A Nekaho wajo egy helyi találkozóhely és látványosság a városi szövetben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721805,
+                        8.932156
+                  ]
+            },
+            {
+                  "name": "Outdoor Market",
+                  "text": "Az Outdoor Market egy nyüzsgő szabadtéri piac, ahol a helyi kereskedők kínálják portékáikat.",
+                  "category": "landmark",
+                  "coords": [
+                        38.710994,
+                        8.960462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuru House",
+                  "text": "O casă rezidențială locală binecunoscută, care servește drept punct de interes arhitectural în apropierea aglomeratei fabrici de încălțăminte Huajian.",
+                  "category": "landmark",
+                  "coords": [
+                        38.684586,
+                        8.955488
+                  ]
+            },
+            {
+                  "name": "Keyo house",
+                  "text": "Keyo house este o locuință privată care oferă o privire asupra arhitecturii rezidențiale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689184,
+                        8.94
+                  ]
+            },
+            {
+                  "name": "Zebiba's Home",
+                  "text": "Zebiba Home este o reședință privată distinctă, construită într-un stil neobișnuit de fortăreață.",
+                  "category": "castle",
+                  "coords": [
+                        38.679913,
+                        8.927606
+                  ]
+            },
+            {
+                  "name": "Zewdu house",
+                  "text": "Zewdu house este un alt exemplu al culturii rezidențiale locale în apropierea parcului industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        38.668177,
+                        8.92652
+                  ]
+            },
+            {
+                  "name": "Nok adebabay",
+                  "text": "Kenteri este un punct de belvedere ce oferă perspective largi asupra zonelor urbane și industriale învecinate.",
+                  "category": "natural",
+                  "coords": [
+                        38.67031,
+                        8.950514
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "Punctul de belvedere Keyo oferă vizitatorilor o panoramă a peisajului urban în expansiune.",
+                  "category": "natural",
+                  "coords": [
+                        38.685214,
+                        8.942516
+                  ]
+            },
+            {
+                  "name": "ፉሪ",
+                  "text": "Furi este un punct de observație la înălțime situat în apropierea zonelor de dezvoltare economică.",
+                  "category": "natural",
+                  "coords": [
+                        38.687758,
+                        8.951201
+                  ]
+            },
+            {
+                  "name": "ቴዶ place",
+                  "text": "Tedo recreation este o zonă de agrement care oferă o pauză de la agitația fabricilor adiacente.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719832,
+                        8.956431
+                  ]
+            },
+            {
+                  "name": "አማን",
+                  "text": "Aman este o atracție locală vizitată de rezidenții cartierelor industriale.",
+                  "category": "landmark",
+                  "coords": [
+                        38.711135,
+                        8.958902
+                  ]
+            },
+            {
+                  "name": "የሲቲና ቤት",
+                  "text": "Sitina's Home este o casă privată asemănătoare unui castel, cu o fațadă atrăgătoare din punct de vedere arhitectural.",
+                  "category": "castle",
+                  "coords": [
+                        38.709967,
+                        8.970769
+                  ]
+            },
+            {
+                  "name": "ጀሞ-ሚካኤል አደባባይ",
+                  "text": "Sensul giratoriu Jemo-micheal servește drept nod urban, oferind o privire de ansamblu asupra traficului local.",
+                  "category": "natural",
+                  "coords": [
+                        38.721905,
+                        8.968956
+                  ]
+            },
+            {
+                  "name": "Lidu",
+                  "text": "Lid este un punct de belvedere urban cunoscut pentru vizibilitatea sa asupra acoperișurilor industriale.",
+                  "category": "natural",
+                  "coords": [
+                        38.736356,
+                        8.974428
+                  ]
+            },
+            {
+                  "name": "Lebu Mebrathayil",
+                  "text": "Lebu Mebrathayil oferă o perspectivă asupra străzilor suburbane și a cartierelor rezidențiale alăturate.",
+                  "category": "natural",
+                  "coords": [
+                        38.733709,
+                        8.948261
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Această clădire rezidențială privată este construită în stilul unui castel, ieșind în evidență în mediul urban.",
+                  "category": "castle",
+                  "coords": [
+                        38.770475,
+                        8.9567
+                  ]
+            },
+            {
+                  "name": "shibiin place",
+                  "text": "shibiin place este o piațetă locală ce servește ca punct de belvedere asupra agitației din cartier.",
+                  "category": "natural",
+                  "coords": [
+                        38.745821,
+                        8.932396
+                  ]
+            },
+            {
+                  "name": "ሃና ማርያም",
+                  "text": "Hana Maryam este un punct de belvedere situat în apropierea sitului religios cu același nume.",
+                  "category": "natural",
+                  "coords": [
+                        38.744983,
+                        8.935602
+                  ]
+            },
+            {
+                  "name": "መካኒሣ ቆጣሪ የጋራ መኖሪያ ቤት",
+                  "text": "Condominiul Mekannisa Kotari este un ansamblu rezidențial mare ce servește ca punct de reper în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        38.732614,
+                        8.932289
+                  ]
+            },
+            {
+                  "name": "Nekaho wajo",
+                  "text": "Nekaho wajo este un loc de întâlnire local și o atracție în țesutul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721805,
+                        8.932156
+                  ]
+            },
+            {
+                  "name": "Outdoor Market",
+                  "text": "Outdoor Market este o piață aglomerată în aer liber, unde comercianții locali își vând mărfurile.",
+                  "category": "landmark",
+                  "coords": [
+                        38.710994,
+                        8.960462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuru House",
+                  "text": "A well-known local residential home serving as an architectural point of interest near the bustling Huajian shoe factory.",
+                  "category": "landmark",
+                  "coords": [
+                        38.684586,
+                        8.955488
+                  ]
+            },
+            {
+                  "name": "Keyo house",
+                  "text": "Keyo house is a private residential dwelling offering a glimpse into local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        38.689184,
+                        8.94
+                  ]
+            },
+            {
+                  "name": "Zebiba Home",
+                  "text": "Zebiba Home is a distinctive private residence constructed in an unusual fortress style.",
+                  "category": "castle",
+                  "coords": [
+                        38.679913,
+                        8.927606
+                  ]
+            },
+            {
+                  "name": "Zewdu house",
+                  "text": "Zewdu house is another example of local residential culture near the industrial park.",
+                  "category": "landmark",
+                  "coords": [
+                        38.668177,
+                        8.92652
+                  ]
+            },
+            {
+                  "name": "Kenteri",
+                  "text": "Kenteri is a viewpoint offering broad vistas over the surrounding urban and industrial areas.",
+                  "category": "natural",
+                  "coords": [
+                        38.67031,
+                        8.950514
+                  ]
+            },
+            {
+                  "name": "Keyo",
+                  "text": "The Keyo viewpoint offers visitors a panorama of the expanding urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        38.685214,
+                        8.942516
+                  ]
+            },
+            {
+                  "name": "Furi",
+                  "text": "Furi is an elevated observation point situated near the economic development zones.",
+                  "category": "natural",
+                  "coords": [
+                        38.687758,
+                        8.951201
+                  ]
+            },
+            {
+                  "name": "Tedo recreation",
+                  "text": "Tedo recreation is a leisure area offering a break from the bustle of the adjacent factories.",
+                  "category": "landmark",
+                  "coords": [
+                        38.719832,
+                        8.956431
+                  ]
+            },
+            {
+                  "name": "Aman",
+                  "text": "Aman is a local attraction visited by the residents of the industrial neighborhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        38.711135,
+                        8.958902
+                  ]
+            },
+            {
+                  "name": "Sitina's Home",
+                  "text": "Sitina's Home is a castle-like private residence featuring an architecturally striking facade.",
+                  "category": "castle",
+                  "coords": [
+                        38.709967,
+                        8.970769
+                  ]
+            },
+            {
+                  "name": "Jemo-micheal roundabout",
+                  "text": "The Jemo-micheal roundabout serves as an urban hub offering an overview of the local traffic flow.",
+                  "category": "natural",
+                  "coords": [
+                        38.721905,
+                        8.968956
+                  ]
+            },
+            {
+                  "name": "Lid",
+                  "text": "Lid is an urban viewpoint known for its sightlines over the industrial rooftops.",
+                  "category": "natural",
+                  "coords": [
+                        38.736356,
+                        8.974428
+                  ]
+            },
+            {
+                  "name": "Lebu Mebrathayil",
+                  "text": "Lebu Mebrathayil provides a vantage point over the suburban streets and adjoining residential neighborhoods.",
+                  "category": "natural",
+                  "coords": [
+                        38.733709,
+                        8.948261
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "This private residential building is constructed in the style of a castle, standing out in the urban environment.",
+                  "category": "castle",
+                  "coords": [
+                        38.770475,
+                        8.9567
+                  ]
+            },
+            {
+                  "name": "shibiin place",
+                  "text": "shibiin place is a local spot acting as a viewpoint over the neighborhood's activities.",
+                  "category": "natural",
+                  "coords": [
+                        38.745821,
+                        8.932396
+                  ]
+            },
+            {
+                  "name": "Hana Maryam",
+                  "text": "Hana Maryam is an observation point located near the religious site of the same name.",
+                  "category": "natural",
+                  "coords": [
+                        38.744983,
+                        8.935602
+                  ]
+            },
+            {
+                  "name": "Mekannisa Kotari Condominium",
+                  "text": "The Mekannisa Kotari Condominium is a large residential complex serving as a landmark in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.732614,
+                        8.932289
+                  ]
+            },
+            {
+                  "name": "Nekaho wajo",
+                  "text": "Nekaho wajo is a local gathering spot and an attraction within the urban fabric.",
+                  "category": "landmark",
+                  "coords": [
+                        38.721805,
+                        8.932156
+                  ]
+            },
+            {
+                  "name": "Outdoor Market",
+                  "text": "The Outdoor Market is a bustling open-air marketplace where local vendors sell their goods.",
+                  "category": "landmark",
+                  "coords": [
+                        38.710994,
+                        8.960462
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-AA",
     coords: [38.7461, 8.9567],
@@ -1207,7 +3700,52 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "habesha-breweries-economic-v2",
+    id: "habesha-breweries-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ደ/ብርሀን ኢድ አደባባይ",
+                  "text": "Eine belebte Straßenattraktion in der Nähe der Habesha-Brauereien in Debre Birhan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ደ/ብርሀን ኢድ አደባባይ",
+                  "text": "Egy nyüzsgő utcai látványosság a debre birhani Habesha sörfőzdék közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ደ/ብርሀን ኢድ አደባባይ",
+                  "text": "O atracție stradală animată situată lângă fabricile de bere Habesha din Debre Birhan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Debrebirhan Eid Street",
+                  "text": "A bustling street attraction located near the Habesha Breweries in Debre Birhan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-AM",
     coords: [39.5167, 9.6833],
@@ -1399,7 +3937,124 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "adama-wind-farm-economic-v2",
+    id: "adama-wind-farm-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siidaa Wareegamtoota Oromoo",
+                  "text": "Eine düstere Gedenkstätte in Adama, die die Oromo-Märtyrer mit markanten, hoch aufragenden Steinsäulen ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        39.242118,
+                        8.535199
+                  ]
+            },
+            {
+                  "name": "መሬቴ",
+                  "text": "Ein malerischer Aussichtspunkt am Rande von Adama, der einen weiten Blick auf die sanften Hügel und nahegelegenen Windkraftanlagen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.265344,
+                        8.577309
+                  ]
+            },
+            {
+                  "name": "Colonel Abdissa Aga Square",
+                  "text": "Ein lebendiger öffentlicher Platz in Adama mit einem Denkmal zu Ehren von Oberst Abdissa Aga, einem berühmten äthiopischen Militärhelden.",
+                  "category": "historical",
+                  "coords": [
+                        39.298676,
+                        8.569643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siidaa Wareegamtoota Oromoo",
+                  "text": "Komor emlékhely Adamában, amely az oromo mártírok előtt tiszteleg kiemelkedő, tornyosuló kőoszlopokkal.",
+                  "category": "historical",
+                  "coords": [
+                        39.242118,
+                        8.535199
+                  ]
+            },
+            {
+                  "name": "መሬቴ",
+                  "text": "Festői kilátópont Adama szélén, amely lenyűgöző kilátást nyújt a dombokra és a közeli szélturbinákra.",
+                  "category": "natural",
+                  "coords": [
+                        39.265344,
+                        8.577309
+                  ]
+            },
+            {
+                  "name": "Colonel Abdissa Aga Square",
+                  "text": "Egy nyüzsgő nyilvános tér Adamában, amely Abdissa Aga ezredes, egy híres etióp katonai hős emlékművének ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        39.298676,
+                        8.569643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siidaa Wareegamtoota Oromoo",
+                  "text": "Un loc de pomenire sumbru în Adama care onorează martirii Oromo cu stâlpi înalți de piatră proeminenți.",
+                  "category": "historical",
+                  "coords": [
+                        39.242118,
+                        8.535199
+                  ]
+            },
+            {
+                  "name": "መሬቴ",
+                  "text": "Un punct de belvedere pitoresc la marginea orașului Adama, oferind vederi spectaculoase asupra dealurilor ondulate și a turbinelor eoliene din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        39.265344,
+                        8.577309
+                  ]
+            },
+            {
+                  "name": "Colonel Abdissa Aga Square",
+                  "text": "O piață publică plină de viață în Adama, care prezintă un monument dedicat colonelului Abdissa Aga, un faimos erou militar etiopian.",
+                  "category": "historical",
+                  "coords": [
+                        39.298676,
+                        8.569643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oromo Martyrs' monument",
+                  "text": "A somber memorial site in Adama honoring Oromo martyrs with prominent towering stone pillars.",
+                  "category": "historical",
+                  "coords": [
+                        39.242118,
+                        8.535199
+                  ]
+            },
+            {
+                  "name": "My land",
+                  "text": "A scenic viewpoint on the edge of Adama offering sweeping sights of the rolling hills and nearby wind turbines.",
+                  "category": "natural",
+                  "coords": [
+                        39.265344,
+                        8.577309
+                  ]
+            },
+            {
+                  "name": "Colonel Abdissa Aga Square",
+                  "text": "A lively public plaza in Adama featuring a monument dedicated to Colonel Abdissa Aga, a famous Ethiopian military hero.",
+                  "category": "historical",
+                  "coords": [
+                        39.298676,
+                        8.569643
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ET-OR",
     coords: [39.2667, 8.55],

@@ -147,7 +147,52 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     },
   },
   {
-    id: "pic-de-nazinga-nature-v2",
+    id: "pic-de-nazinga-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Observatorium",
+                  "text": "Das Observatoire ist ein erhöhter Aussichtspunkt, der weitreichende Panoramablicke über das umliegende Naturschutzgebiet ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -1.60965,
+                        11.156925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Observatoire",
+                  "text": "Az Observatoire egy magaslati kilátó, amely széleskörű panorámás kilátást nyújt a környező természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.60965,
+                        11.156925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Observatoire",
+                  "text": "Observatoire este un punct de belvedere înalt, care oferă priveliști panoramice extinse asupra rezervației naturale înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.60965,
+                        11.156925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Observatoire",
+                  "text": "The Observatoire is an elevated viewpoint providing expansive panoramas over the surrounding natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -1.60965,
+                        11.156925
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BF-45",
     coords: [-1.6, 11.2],
@@ -219,7 +264,52 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     },
   },
   {
-    id: "mare-aux-hippopotames-nature-v2",
+    id: "mare-aux-hippopotames-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marre aux hippopotames",
+                  "text": "Dieser markante Aussichtspunkt über Feuchtgebiete in Burkina Faso bietet einen Blick auf ein ausgewiesenes Biosphärenreservat, das für seine ansässigen Flusspferde berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -4.163154,
+                        11.566552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marre aux hippopotames",
+                  "text": "Ez a kiemelkedő burkina faso-i vizes élőhely-kilátó a helyi vízilovakról híres kijelölt bioszféra-rezervátumra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -4.163154,
+                        11.566552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marre aux hippopotames",
+                  "text": "Acest punct de belvedere proeminent asupra zonelor umede din Burkina Faso are vedere la o rezervație a biosferei desemnată, renumită pentru hipopotamii săi rezidenți.",
+                  "category": "natural",
+                  "coords": [
+                        -4.163154,
+                        11.566552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marre aux hippopotames",
+                  "text": "This prominent wetland viewpoint in Burkina Faso overlooks a designated biosphere reserve famous for its resident hippos.",
+                  "category": "natural",
+                  "coords": [
+                        -4.163154,
+                        11.566552
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BF-10",
     coords: [-4.2, 11.6],
@@ -255,7 +345,52 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     },
   },
   {
-    id: "foret-kourou-nature-v2",
+    id: "foret-kourou-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt Classé de Kou (La Guinguette)",
+                  "text": "Dieses Naturschutzgebiet schützt ein wichtiges Waldgebiet und bietet einen natürlichen Rückzugsort.",
+                  "category": "natural",
+                  "coords": [
+                        -4.441021,
+                        11.188956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt Classé de Kou (La Guinguette)",
+                  "text": "Ez a védett természetvédelmi terület létfontosságú erdei környezetet óv, és természetes menedéket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -4.441021,
+                        11.188956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt Classé de Kou (La Guinguette)",
+                  "text": "Această rezervație naturală protejează un mediu forestier vital, oferind un refugiu în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -4.441021,
+                        11.188956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt Classé de Kou (La Guinguette)",
+                  "text": "This protected nature reserve protects a vital woodland environment offering a natural retreat.",
+                  "category": "natural",
+                  "coords": [
+                        -4.441021,
+                        11.188956
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BF-03",
     coords: [-4.4, 11.2],
@@ -327,7 +462,52 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     },
   },
   {
-    id: "fleuve-volta-rouge-nature-v2",
+    id: "fleuve-volta-rouge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koussala",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die Naturlandschaften entlang des Flusses Roter Volta.",
+                  "category": "natural",
+                  "coords": [
+                        -1.262487,
+                        11.939616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koussala",
+                  "text": "Egy festői kilátó, amely a Vörös-Volta folyó menti természeti tájakra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.262487,
+                        11.939616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koussala",
+                  "text": "Un punct de belvedere pitoresc cu vedere la peisajele naturale de-a lungul râului Volta Roșie.",
+                  "category": "natural",
+                  "coords": [
+                        -1.262487,
+                        11.939616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koussala",
+                  "text": "A scenic viewpoint overlooking the natural landscapes along the Red Volta River.",
+                  "category": "natural",
+                  "coords": [
+                        -1.262487,
+                        11.939616
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BF-06",
     coords: [-1.2, 12.0],
@@ -471,7 +651,124 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     },
   },
   {
-    id: "fleuve-volta-blanche-nature-v2",
+    id: "fleuve-volta-blanche-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Selonghin",
+                  "text": "Ein Beobachtungspunkt, der einen weiten Blick auf das Gelände in der Nähe des Flusses Weißer Volta bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.436124,
+                        12.021967
+                  ]
+            },
+            {
+                  "name": "NINTENGA",
+                  "text": "Ein Aussichtspunkt, der eine breite Perspektive über die natürliche Umgebung des Flusses Weißer Volta bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.357226,
+                        12.059091
+                  ]
+            },
+            {
+                  "name": "Ancienne salle de cinéma",
+                  "text": "Ein verlassenes Kino, das als Relikt vergangener Unterhaltung in der Region um den Weißen Volta steht.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.339075,
+                        12.064088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Selonghin",
+                  "text": "Egy megfigyelőpont, amely széles kilátást nyújt a Fehér-Volta folyó melletti terepre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.436124,
+                        12.021967
+                  ]
+            },
+            {
+                  "name": "NINTENGA",
+                  "text": "Egy kilátópont, amely széles perspektívát nyújt a Fehér-Volta folyó természeti környezetére.",
+                  "category": "natural",
+                  "coords": [
+                        -1.357226,
+                        12.059091
+                  ]
+            },
+            {
+                  "name": "Ancienne salle de cinéma",
+                  "text": "Egy elhagyatott mozi, amely a múltbéli szórakozás emléke a Fehér-Volta régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.339075,
+                        12.064088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Selonghin",
+                  "text": "Un punct de observație care oferă o vedere amplă asupra terenului din apropierea râului Volta Albă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.436124,
+                        12.021967
+                  ]
+            },
+            {
+                  "name": "NINTENGA",
+                  "text": "Un punct de observație care oferă o perspectivă largă asupra împrejurimilor naturale ale râului Volta Albă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.357226,
+                        12.059091
+                  ]
+            },
+            {
+                  "name": "Ancienne salle de cinéma",
+                  "text": "O sală de cinema abandonată, care stă ca o relicvă a divertismentului din trecut în regiunea Volta Albă.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.339075,
+                        12.064088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Selonghin",
+                  "text": "An observation point offering sweeping views of the terrain near the White Volta River.",
+                  "category": "natural",
+                  "coords": [
+                        -1.436124,
+                        12.021967
+                  ]
+            },
+            {
+                  "name": "NINTENGA",
+                  "text": "A vantage point providing a wide perspective over the White Volta River's natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -1.357226,
+                        12.059091
+                  ]
+            },
+            {
+                  "name": "Ancienne salle de cinéma",
+                  "text": "An abandoned cinema hall standing as a relic of past entertainment in the White Volta area.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.339075,
+                        12.064088
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BF-06",
     coords: [-1.4, 12.1],
@@ -759,7 +1056,52 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     },
   },
   {
-    id: "mare-de-bale-nature-v2",
+    id: "mare-de-bale-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez moi fara",
+                  "text": "Diese schlossartige Struktur steht in der Nähe der natürlichen Feuchtgebietslandschaft von Mare de Bale.",
+                  "category": "castle",
+                  "coords": [
+                        -2.772187,
+                        11.535676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez moi fara",
+                  "text": "Ez a kastélyszerű építmény a Mare de Bale természetes vizes élőhelyének közelében áll.",
+                  "category": "castle",
+                  "coords": [
+                        -2.772187,
+                        11.535676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez moi fara",
+                  "text": "Această structură asemănătoare unui castel se află în apropierea zonelor umede naturale din Mare de Bale.",
+                  "category": "castle",
+                  "coords": [
+                        -2.772187,
+                        11.535676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez moi fara",
+                  "text": "This castle-like structure stands close to the natural wetland environment of Mare de Bale.",
+                  "category": "castle",
+                  "coords": [
+                        -2.772187,
+                        11.535676
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BF-11",
     coords: [-2.8, 11.5],

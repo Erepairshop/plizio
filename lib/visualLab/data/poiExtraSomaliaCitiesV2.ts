@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraSomaliaCitiesV2: POI[] = [
 {
-    id: "mogadishu-cities-v2",
+    id: "mogadishu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shuceyb Center",
+                  "text": "Das Shuceyb Center präsentiert regionale kulturelle Artefakte und historische Exponate im städtischen Zentrum von Mogadischu.",
+                  "category": "museum",
+                  "coords": [
+                        45.299707,
+                        2.041374
+                  ]
+            },
+            {
+                  "name": "carwada qaranka",
+                  "text": "Carwada Qaranka ist ein lebendiger nationaler Ausstellungsraum, der traditionelles somalisches Handwerk in Mogadischu präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.313735,
+                        2.03887
+                  ]
+            },
+            {
+                  "name": "afrikan village residence",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf die einzigartig gestalteten Wohnkomplexe des afrikanischen Dorfviertels in Mogadischu.",
+                  "category": "natural",
+                  "coords": [
+                        45.31294,
+                        2.045585
+                  ]
+            },
+            {
+                  "name": "21 October Triumphal Arch",
+                  "text": "Diese Gedenkstätte steht prominent in Mogadischu und erinnert an die Ereignisse nahe dem historischen Triumphbogen des 21. Oktober.",
+                  "category": "historical",
+                  "coords": [
+                        45.311344,
+                        2.031677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shuceyb Center",
+                  "text": "A Shuceyb Központ regionális kulturális leleteket és történelmi kiállításokat mutat be Mogadishu városközpontjában.",
+                  "category": "museum",
+                  "coords": [
+                        45.299707,
+                        2.041374
+                  ]
+            },
+            {
+                  "name": "carwada qaranka",
+                  "text": "A Carwada Qaranka egy nyüzsgő nemzeti kiállítótér, amely a hagyományos szomáliai kézművességet mutatja be Mogadishuban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.313735,
+                        2.03887
+                  ]
+            },
+            {
+                  "name": "afrikan village residence",
+                  "text": "Ez a kilátó a mogadishui afrikai falu negyed egyedi stílusú lakóparkjaira nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        45.31294,
+                        2.045585
+                  ]
+            },
+            {
+                  "name": "21 October Triumphal Arch",
+                  "text": "Ez az emlékmű kiemelkedő helyen áll Mogadishuban, és a történelmi Október 21. Diadalív közelében történt eseményeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        45.311344,
+                        2.031677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shuceyb Center",
+                  "text": "Centrul Shuceyb prezintă artefacte culturale regionale și expoziții istorice în centrul urban din Mogadishu.",
+                  "category": "museum",
+                  "coords": [
+                        45.299707,
+                        2.041374
+                  ]
+            },
+            {
+                  "name": "carwada qaranka",
+                  "text": "Carwada Qaranka este un spațiu expozițional național vibrant, care evidențiază meșteșugurile tradiționale somaleze în Mogadishu.",
+                  "category": "landmark",
+                  "coords": [
+                        45.313735,
+                        2.03887
+                  ]
+            },
+            {
+                  "name": "afrikan village residence",
+                  "text": "Acest punct de belvedere oferă o vedere asupra complexelor rezidențiale cu stil unic din cartierul satului african din Mogadishu.",
+                  "category": "natural",
+                  "coords": [
+                        45.31294,
+                        2.045585
+                  ]
+            },
+            {
+                  "name": "21 October Triumphal Arch",
+                  "text": "Această structură memorială se înalță proeminent în Mogadishu, comemorând evenimentele din apropierea istoricului Arc de Triumf al 21 Octombrie.",
+                  "category": "historical",
+                  "coords": [
+                        45.311344,
+                        2.031677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shuceyb Center",
+                  "text": "The Shuceyb Center showcases regional cultural artifacts and historical exhibits within Mogadishu's urban center.",
+                  "category": "museum",
+                  "coords": [
+                        45.299707,
+                        2.041374
+                  ]
+            },
+            {
+                  "name": "carwada qaranka",
+                  "text": "Carwada Qaranka is a vibrant national exhibition space highlighting traditional Somali crafts and culture in Mogadishu.",
+                  "category": "landmark",
+                  "coords": [
+                        45.313735,
+                        2.03887
+                  ]
+            },
+            {
+                  "name": "afrikan village residence",
+                  "text": "This viewpoint overlooks the uniquely styled residential compounds of the Afrikan village area in Mogadishu.",
+                  "category": "natural",
+                  "coords": [
+                        45.31294,
+                        2.045585
+                  ]
+            },
+            {
+                  "name": "near the 21 October Triumphal Arch",
+                  "text": "This memorial structure stands prominently in Mogadishu, commemorating the events near the historic 21 October Triumphal Arch.",
+                  "category": "historical",
+                  "coords": [
+                        45.311344,
+                        2.031677
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SO-BN",
     coords: [45.3182, 2.0469],
@@ -284,7 +437,52 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bossaso-cities-v2",
+    id: "bossaso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bosaso Range Rear Lighthouse",
+                  "text": "Der Bosaso Range Rear Lighthouse dient als wichtiges maritimes Navigationshilfsmittel, das Schiffe sicher in den geschäftigen Hafen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.180611,
+                        11.2861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bosaso Range Rear Lighthouse",
+                  "text": "A Bosaso Range Rear világítótorony kulcsfontosságú tengeri navigációs segédeszközként szolgál, amely biztonságosan vezeti be a hajókat a forgalmas kikötőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        49.180611,
+                        11.2861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bosaso Range Rear Lighthouse",
+                  "text": "Farul Bosaso Range Rear servește ca un ajutor de navigație maritimă crucial care ghidează navele în siguranță în portul aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        49.180611,
+                        11.2861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bosaso Range Rear Lighthouse",
+                  "text": "The Bosaso Range Rear Lighthouse serves as a crucial maritime navigational aid guiding ships safely into the busy port.",
+                  "category": "landmark",
+                  "coords": [
+                        49.180611,
+                        11.2861
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-BR",
     coords: [49.1816, 11.2842],
@@ -943,7 +1141,124 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "erigavo-cities-v2",
+    id: "erigavo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "xaafad somaal",
+                  "text": "Dieser städtische Aussichtspunkt bietet einen Einblick in das geschäftige tägliche Leben und die Architektur eines Viertels von Erigavo.",
+                  "category": "natural",
+                  "coords": [
+                        47.372579,
+                        10.62041
+                  ]
+            },
+            {
+                  "name": "lafoole",
+                  "text": "Der Aussichtspunkt Lafoole bietet eine besondere Perspektive auf die wachsende Infrastruktur der Stadt vor einer Bergkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        47.369443,
+                        10.614057
+                  ]
+            },
+            {
+                  "name": "xarunta ceeri",
+                  "text": "Ein zentraler Beobachtungspunkt mit Blick auf das geschäftige administrative und kommerzielle Herz von Erigavo.",
+                  "category": "natural",
+                  "coords": [
+                        47.367599,
+                        10.613862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "xaafad somaal",
+                  "text": "Ez a városi kilátó betekintést nyújt egy erigavói környék nyüzsgő mindennapjaiba és építészetébe.",
+                  "category": "natural",
+                  "coords": [
+                        47.372579,
+                        10.62041
+                  ]
+            },
+            {
+                  "name": "lafoole",
+                  "text": "A Lafoole kilátó különleges perspektívát kínál a város bővülő infrastruktúrájára egy hegyvidéki háttér előtt.",
+                  "category": "natural",
+                  "coords": [
+                        47.369443,
+                        10.614057
+                  ]
+            },
+            {
+                  "name": "xarunta ceeri",
+                  "text": "Központi megfigyelőpont, amely Erigavo nyüzsgő közigazgatási és kereskedelmi szívére néz.",
+                  "category": "natural",
+                  "coords": [
+                        47.367599,
+                        10.613862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "xaafad somaal",
+                  "text": "Acest punct de belvedere urban oferă o fereastră către viața de zi cu zi plină de viață și arhitectura unui cartier din Erigavo.",
+                  "category": "natural",
+                  "coords": [
+                        47.372579,
+                        10.62041
+                  ]
+            },
+            {
+                  "name": "lafoole",
+                  "text": "Punctul de belvedere Lafoole prezintă o perspectivă distinctă a infrastructurii în expansiune a orașului pe un fundal montan.",
+                  "category": "natural",
+                  "coords": [
+                        47.369443,
+                        10.614057
+                  ]
+            },
+            {
+                  "name": "xarunta ceeri",
+                  "text": "Un punct central de observație cu vedere la centrul administrativ și comercial plin de viață al orașului Erigavo.",
+                  "category": "natural",
+                  "coords": [
+                        47.367599,
+                        10.613862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "xaafad somaal",
+                  "text": "This urban overlook provides a window into the bustling daily life and architecture of an Erigavo neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        47.372579,
+                        10.62041
+                  ]
+            },
+            {
+                  "name": "lafoole",
+                  "text": "The Lafoole viewpoint presents a distinct perspective of the city's expanding infrastructure set against a mountainous backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        47.369443,
+                        10.614057
+                  ]
+            },
+            {
+                  "name": "xarunta ceeri",
+                  "text": "A central observation point overlooking the bustling administrative and commercial heart of Erigavo.",
+                  "category": "natural",
+                  "coords": [
+                        47.367599,
+                        10.613862
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-SA",
     coords: [47.3697, 10.6158],
@@ -986,7 +1301,88 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "las-anod-cities-v2",
+    id: "las-anod-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid",
+                  "text": "Ein erhöhter Aussichtspunkt mit klarem Blick auf die örtliche Moschee und die umliegende Stadtlandschaft von Las Anod.",
+                  "category": "natural",
+                  "coords": [
+                        47.357718,
+                        8.482435
+                  ]
+            },
+            {
+                  "name": "Xafada Daaraha Maraykanka",
+                  "text": "Ein städtischer Aussichtspunkt, der einen weitreichenden Blick über das moderne Viertel der „amerikanischen Gebäude“ in Las Anod bietet.",
+                  "category": "natural",
+                  "coords": [
+                        47.35147,
+                        8.464864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid",
+                  "text": "Egy magaslati kilátópont, ahonnan tiszta kilátás nyílik a helyi mecsetre és Las Anod környező városképére.",
+                  "category": "natural",
+                  "coords": [
+                        47.357718,
+                        8.482435
+                  ]
+            },
+            {
+                  "name": "Xafada Daaraha Maraykanka",
+                  "text": "Egy városi kilátó, ahonnan elsöprő kilátás nyílik a modern „amerikai épületek” negyedre Las Anodban.",
+                  "category": "natural",
+                  "coords": [
+                        47.35147,
+                        8.464864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid",
+                  "text": "Un punct de observație înalt, oferind vederi clare asupra moscheii locale și a peisajului urban înconjurător din Las Anod.",
+                  "category": "natural",
+                  "coords": [
+                        47.357718,
+                        8.482435
+                  ]
+            },
+            {
+                  "name": "Xafada Daaraha Maraykanka",
+                  "text": "Un punct de belvedere urban care oferă o privire de ansamblu asupra cartierului modern „Clădirile Americane” din Las Anod.",
+                  "category": "natural",
+                  "coords": [
+                        47.35147,
+                        8.464864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid",
+                  "text": "An elevated vantage point offering clear views over the local mosque and the surrounding urban landscape of Las Anod.",
+                  "category": "natural",
+                  "coords": [
+                        47.357718,
+                        8.482435
+                  ]
+            },
+            {
+                  "name": "Xafada Daaraha Maraykanka",
+                  "text": "An urban viewpoint providing a sweeping look over the modern \"American Buildings\" neighborhood in Las Anod.",
+                  "category": "natural",
+                  "coords": [
+                        47.35147,
+                        8.464864
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-SO",
     coords: [47.3587, 8.4751],
@@ -1368,7 +1764,52 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "dhusamareb-cities-v2",
+    id: "dhusamareb-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhuusamareeb Sports Arena",
+                  "text": "In dieser Sportarena in Dhusamareb finden lokale und regionale Wettkämpfe statt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.379313,
+                        5.535406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhuusamareeb Sports Arena",
+                  "text": "Ebben a dhusamarebi sportarénában helyi és regionális sporteseményeket rendeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        46.379313,
+                        5.535406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhuusamareeb Sports Arena",
+                  "text": "Această arenă sportivă din Dhusamareb găzduiește competiții locale și regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        46.379313,
+                        5.535406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhusamareb Sports Arena",
+                  "text": "This sports arena in Dhusamareb hosts local and regional athletic competitions.",
+                  "category": "landmark",
+                  "coords": [
+                        46.379313,
+                        5.535406
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-GA",
     coords: [46.3867, 5.5350],
@@ -1497,7 +1938,232 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "berbera-cities-v2",
+    id: "berbera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dahabshil money transfer",
+                  "text": "Ein belebtes Finanzbüro in Berbera, das wichtige internationale Überweisungen und lokale Geldwechsel erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.012882,
+                        10.441993
+                  ]
+            },
+            {
+                  "name": "Hal shiping agence",
+                  "text": "Dieses geschäftige Seefahrtsbüro organisiert die Frachtlogistik für Schiffe, die am strategischen Hafen von Berbera anlegen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.010679,
+                        10.44178
+                  ]
+            },
+            {
+                  "name": "fadhi ku ceesha",
+                  "text": "Dieser erhöhte Treffpunkt bietet einen Panoramablick auf die weitläufige Stadtlandschaft und das ferne Meer von Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        45.009649,
+                        10.442035
+                  ]
+            },
+            {
+                  "name": "Dhegcarmo hotel",
+                  "text": "Dieses Hotel ist für seine zentrale Lage bekannt und bietet einen einladenden Ausgangspunkt für Kaufleute, die durch die belebten Straßen von Berbera reisen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.015212,
+                        10.44219
+                  ]
+            },
+            {
+                  "name": "Cilmi Boodhari",
+                  "text": "Dieses Steindenkmal ehrt eine gefeierte lokale Persönlichkeit und spiegelt die reiche poetische und kulturelle Geschichte von Berbera wider.",
+                  "category": "historical",
+                  "coords": [
+                        45.016384,
+                        10.44489
+                  ]
+            },
+            {
+                  "name": "Boat zero berbera",
+                  "text": "Ein markantes nautisches Zeichen im Hafenbereich, das das maritime Erbe der Küste von Berbera symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009688,
+                        10.448137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dahabshil money transfer",
+                  "text": "Egy nyüzsgő pénzügyi iroda Berberában, amely elősegíti a létfontosságú nemzetközi átutalásokat és a helyi valuta átváltását.",
+                  "category": "landmark",
+                  "coords": [
+                        45.012882,
+                        10.441993
+                  ]
+            },
+            {
+                  "name": "Hal shiping agence",
+                  "text": "Ez a forgalmas tengerészeti iroda a berberai stratégiai kikötőben dokkoló hajók rakománylogisztikáját szervezi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.010679,
+                        10.44178
+                  ]
+            },
+            {
+                  "name": "fadhi ku ceesha",
+                  "text": "Ez a megemelt gyülekezőhely panorámás kilátást nyújt Berbera kiterjedt városszerkezetére és a távoli tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        45.009649,
+                        10.442035
+                  ]
+            },
+            {
+                  "name": "Dhegcarmo hotel",
+                  "text": "A központi elhelyezkedéséről ismert szálloda barátságos bázist nyújt a Berbera nyüzsgő utcáin átkelő kereskedők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.015212,
+                        10.44219
+                  ]
+            },
+            {
+                  "name": "Cilmi Boodhari",
+                  "text": "Ez a kőemlékmű egy ünnepelt helyi alak előtt tiszteleg, tükrözve Berbera gazdag költészeti és kulturális történelmét.",
+                  "category": "historical",
+                  "coords": [
+                        45.016384,
+                        10.44489
+                  ]
+            },
+            {
+                  "name": "Boat zero berbera",
+                  "text": "Egy jellegzetes hajózási jelző a kikötő környékén, amely a berberai partvidék tengeri örökségét szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009688,
+                        10.448137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dahabshil money transfer",
+                  "text": "Un birou financiar plin de viață din Berbera, care facilitează remitențele internaționale vitale și schimburile de monedă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        45.012882,
+                        10.441993
+                  ]
+            },
+            {
+                  "name": "Hal shiping agence",
+                  "text": "Acest birou maritim aglomerat organizează logistica mărfurilor pentru navele care acostează în portul strategic din Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.010679,
+                        10.44178
+                  ]
+            },
+            {
+                  "name": "fadhi ku ceesha",
+                  "text": "Acest loc de adunare la înălțime oferă vederi panoramice asupra aspectului urban extins și a mării îndepărtate a orașului Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        45.009649,
+                        10.442035
+                  ]
+            },
+            {
+                  "name": "Dhegcarmo hotel",
+                  "text": "Cunoscut pentru locația sa centrală, acest hotel oferă o bază primitoare pentru comercianții care traversează străzile pline de viață din Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.015212,
+                        10.44219
+                  ]
+            },
+            {
+                  "name": "Cilmi Boodhari",
+                  "text": "Acest monument de piatră onorează o figură locală celebră, reflectând bogata istorie poetică și culturală a orașului Berbera.",
+                  "category": "historical",
+                  "coords": [
+                        45.016384,
+                        10.44489
+                  ]
+            },
+            {
+                  "name": "Boat zero berbera",
+                  "text": "Un marker nautic distinct situat în zona portului, simbolizând moștenirea maritimă a coastei Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009688,
+                        10.448137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dahabshil money transfer",
+                  "text": "A bustling financial office in Berbera, facilitating vital international remittances and local currency exchanges.",
+                  "category": "landmark",
+                  "coords": [
+                        45.012882,
+                        10.441993
+                  ]
+            },
+            {
+                  "name": "Hal shiping agence",
+                  "text": "This busy maritime office organizes cargo logistics for vessels docking at the strategic port of Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.010679,
+                        10.44178
+                  ]
+            },
+            {
+                  "name": "fadhi ku ceesha",
+                  "text": "This elevated gathering place offers panoramic views over the sprawling urban layout and distant sea of Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        45.009649,
+                        10.442035
+                  ]
+            },
+            {
+                  "name": "Dhegcarmo hotel",
+                  "text": "Known for its central location, this hotel provides a welcoming base for merchants traversing the lively streets of Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        45.015212,
+                        10.44219
+                  ]
+            },
+            {
+                  "name": "Elmi Boodhari",
+                  "text": "This stone monument honors a celebrated local figure, reflecting the rich poetic and cultural history of Berbera.",
+                  "category": "historical",
+                  "coords": [
+                        45.016384,
+                        10.44489
+                  ]
+            },
+            {
+                  "name": "Boat zero berbera",
+                  "text": "A distinct nautical marker located in the harbor area, symbolizing the maritime heritage of the Berbera coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        45.009688,
+                        10.448137
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-WO",
     coords: [45.0143, 10.4396],
@@ -1712,7 +2378,52 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "balcad-cities-v2",
+    id: "balcad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horsed Ceelgele",
+                  "text": "Horsed Ceelgele ist eine bedeutende regionale Festungsruine, die in der landwirtschaftlich geprägten Landschaft bei Balcad liegt.",
+                  "category": "castle",
+                  "coords": [
+                        45.383813,
+                        2.365825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horsed Ceelgele",
+                  "text": "A Horsed Ceelgele egy jelentős regionális erődítményrom, amely a Balcad környéki mezőgazdasági tájban fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        45.383813,
+                        2.365825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horsed Ceelgele",
+                  "text": "Horsed Ceelgele este o ruină importantă a unei fortificații regionale, situată în peisajul agricol din apropiere de Balcad.",
+                  "category": "castle",
+                  "coords": [
+                        45.383813,
+                        2.365825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horsed Ceelgele",
+                  "text": "Horsed Ceelgele represents a significant regional fortification ruin situated in the agricultural landscape near Balcad.",
+                  "category": "castle",
+                  "coords": [
+                        45.383813,
+                        2.365825
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-SD",
     coords: [45.3941, 2.3616],
@@ -2175,7 +2886,52 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gabiley-cities-v2",
+    id: "gabiley-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gabiley laag barako",
+                  "text": "Mit Blick auf das fruchtbare Ackerland rund um Gabiley fängt dieser Aussichtspunkt die saisonalen Wadis ein, die die lokale Landwirtschaft erhalten.",
+                  "category": "natural",
+                  "coords": [
+                        43.624047,
+                        9.706558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gabiley laag barako",
+                  "text": "A Gabiley-t körülvevő termékeny termőföldekre tekintő kilátópont megörökíti a helyi mezőgazdasági gazdaságot fenntartó szezonális vádikat.",
+                  "category": "natural",
+                  "coords": [
+                        43.624047,
+                        9.706558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gabiley laag barako",
+                  "text": "Privind peste terenurile agricole fertile din jurul orașului Gabiley, acest punct de belvedere surprinde wadi-urile sezoniere care susțin economia agricolă locală.",
+                  "category": "natural",
+                  "coords": [
+                        43.624047,
+                        9.706558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gabiley laag barako",
+                  "text": "Looking over the fertile farmlands surrounding Gabiley, this viewpoint captures the seasonal wadis that sustain the local agricultural economy.",
+                  "category": "natural",
+                  "coords": [
+                        43.624047,
+                        9.706558
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-WO",
     coords: [43.6267, 9.6994],

@@ -273,7 +273,52 @@ export const lesothoReliefV2: POI[] = [
     image: "/poi-images/lesotho-likhoele-mountain-relief-v2.webp",
   },
   {
-    id: "lesotho-western-lowlands-relief-v2",
+    id: "lesotho-western-lowlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Die Eeufeesjaar 1938",
+                  "text": "Dieses 1938 errichtete historische Denkmal erinnert an lokale Ereignisse der Hundertjahrfeier in der westlichen Tiefebene.",
+                  "category": "historical",
+                  "coords": [
+                        27.144103,
+                        -29.527168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Die Eeufeesjaar 1938",
+                  "text": "Az 1938-ban emelt történelmi emlékmű a nyugati alföld helyi centenáriumi eseményeinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.144103,
+                        -29.527168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Die Eeufeesjaar 1938",
+                  "text": "Ridicat în 1938, acest monument istoric comemorează evenimentele centenare locale din zonele joase vestice.",
+                  "category": "historical",
+                  "coords": [
+                        27.144103,
+                        -29.527168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Die Eeufeesjaar 1938",
+                  "text": "Erected in 1938, this historic monument commemorates local centenary events in the western lowlands.",
+                  "category": "historical",
+                  "coords": [
+                        27.144103,
+                        -29.527168
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "valley",
     name: { de: "Westliches Tiefland", hu: "Nyugati alföld", ro: "Câmpiile de Vest", en: "Western Lowlands" },
@@ -498,7 +543,52 @@ export const lesothoReliefV2: POI[] = [
     image: "/poi-images/lesotho-tlaeeng-pass-relief-v2.webp",
   },
   {
-    id: "lesotho-black-mountain-pass-relief-v2",
+    id: "lesotho-black-mountain-pass-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotisephola Pass",
+                  "text": "An einer hochgelegenen Bergroute gelegen, überblickt dieser Aussichtspunkt die tiefen Täler und steilen Hänge der Black Mountain-Region in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        29.195333,
+                        -29.522103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotisephola Pass",
+                  "text": "Egy magasan fekvő hegyi útvonal mentén található ez a kilátó, amely a lesothói Fekete-hegy régió mély völgyeire és meredek lejtőire néz.",
+                  "category": "natural",
+                  "coords": [
+                        29.195333,
+                        -29.522103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotisephola Pass",
+                  "text": "Situat de-a lungul unui traseu montan de mare altitudine, acest punct de belvedere are vedere la văile adânci și pantele abrupte ale regiunii Munților Negri din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        29.195333,
+                        -29.522103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotisephola Pass",
+                  "text": "Situated along a high-altitude mountain route, this viewpoint overlooks the deep valleys and steep slopes of the Black Mountain region in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        29.195333,
+                        -29.522103
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "valley",
     name: { de: "Black Mountain Pass", hu: "Fekete-hegyi hágó", ro: "Pasul Black Mountain", en: "Black Mountain Pass" },
@@ -588,7 +678,52 @@ export const lesothoReliefV2: POI[] = [
     image: "/poi-images/lesotho-mokhoabong-pass-relief-v2.webp",
   },
   {
-    id: "lesotho-bushmans-pass-relief-v2",
+    id: "lesotho-bushmans-pass-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nazareth",
+                  "text": "Dieser Aussichtspunkt in dem hoch gelegenen Dorf Nazareth bietet einen weiten Blick über den Bushmans Pass in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nazareth",
+                  "text": "Ez a magasan fekvő Názáret faluban található kilátó pazar panorámát nyújt a lesothói Bushmans-hágóra.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nazareth",
+                  "text": "Acest punct de belvedere din satul de mare altitudine Nazareth oferă o vedere panoramică asupra pasului Bushmans din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nazareth",
+                  "text": "Located in the high-altitude village of Nazareth, this viewpoint offers panoramic sweeping sights over Lesotho's Bushmans Pass.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "valley",
     name: { de: "Bushmans-Pass", hu: "Bushmans-hágó", ro: "Pasul Bushmans", en: "Bushmans Pass" },
@@ -678,7 +813,124 @@ export const lesothoReliefV2: POI[] = [
     image: "/poi-images/lesotho-cheche-pass-relief-v2.webp",
   },
   {
-    id: "lesotho-sentinel-peak-relief-v2",
+    id: "lesotho-sentinel-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tunnel",
+                  "text": "Ein erhöhter malerischer Aussichtspunkt mit Blick auf das schroffe, gebirgige Relief.",
+                  "category": "natural",
+                  "coords": [
+                        28.914304,
+                        -28.742189
+                  ]
+            },
+            {
+                  "name": "Beacon Buttress",
+                  "text": "Ein imposanter, steiler Bergvorsprung, der sich dramatisch entlang des felsigen Steilhangs erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        28.889111,
+                        -28.745528
+                  ]
+            },
+            {
+                  "name": "Sentinel",
+                  "text": "Ein hoch aufragender monolithischer Basaltgipfel, der über die umliegenden Gebirgstäler wacht.",
+                  "category": "natural",
+                  "coords": [
+                        28.890722,
+                        -28.741444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tunnel",
+                  "text": "Magasan fekvő festői kilátó, amely a zord hegyvidéki domborzatra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        28.914304,
+                        -28.742189
+                  ]
+            },
+            {
+                  "name": "Beacon Buttress",
+                  "text": "Impozáns, meredek falú hegygerinc, amely drámaian emelkedik a sziklás meredély mentén.",
+                  "category": "natural",
+                  "coords": [
+                        28.889111,
+                        -28.745528
+                  ]
+            },
+            {
+                  "name": "Sentinel",
+                  "text": "Magasba tornyosuló monolitikus bazaltcsúcs, amely a környező hegyi völgyek felett őrködik.",
+                  "category": "natural",
+                  "coords": [
+                        28.890722,
+                        -28.741444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tunnel",
+                  "text": "Un punct de belvedere pitoresc elevat, cu vedere la relieful accidentat și muntos.",
+                  "category": "natural",
+                  "coords": [
+                        28.914304,
+                        -28.742189
+                  ]
+            },
+            {
+                  "name": "Beacon Buttress",
+                  "text": "Un contrafort de munte impunător, cu laturi abrupte, care se ridică spectaculos de-a lungul abruptului stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        28.889111,
+                        -28.745528
+                  ]
+            },
+            {
+                  "name": "Sentinel",
+                  "text": "Un vârf monolitic impunător de bazalt, stând de pază deasupra văilor muntoase din jur.",
+                  "category": "natural",
+                  "coords": [
+                        28.890722,
+                        -28.741444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tunnel",
+                  "text": "An elevated scenic viewpoint looking out over the rugged, mountainous relief.",
+                  "category": "natural",
+                  "coords": [
+                        28.914304,
+                        -28.742189
+                  ]
+            },
+            {
+                  "name": "Beacon Buttress",
+                  "text": "An imposing, steep-sided mountain buttress rising dramatically along the rocky escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        28.889111,
+                        -28.745528
+                  ]
+            },
+            {
+                  "name": "Sentinel",
+                  "text": "A towering monolithic basalt peak standing guard over the surrounding mountainous valleys.",
+                  "category": "natural",
+                  "coords": [
+                        28.890722,
+                        -28.741444
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "peak",
     name: { de: "The Sentinel", hu: "The Sentinel", ro: "Vârful Sentinel", en: "The Sentinel Peak" },
@@ -723,7 +975,52 @@ export const lesothoReliefV2: POI[] = [
     image: "/poi-images/lesotho-sentinel-peak-relief-v2.webp",
   },
   {
-    id: "lesotho-nteko-plateau-relief-v2",
+    id: "lesotho-nteko-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Helicopter Rock",
+                  "text": "Diese markant geformte Felsformation ist eine bemerkenswerte geologische Attraktion auf dem Nteko-Plateau in Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.303431,
+                        -30.035927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Helicopter Rock",
+                  "text": "Ez a jellegzetes formájú sziklaképződmény egy figyelemre méltó geológiai látványosság a lesothói Nteko-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        28.303431,
+                        -30.035927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Helicopter Rock",
+                  "text": "Această formațiune stâncoasă cu o formă distinctivă este o atracție geologică notabilă situată pe platoul Nteko din Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.303431,
+                        -30.035927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Helicopter Rock",
+                  "text": "This distinctively shaped rock formation is a notable geological attraction situated on the Nteko plateau in Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.303431,
+                        -30.035927
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "mountain",
     name: { de: "Nteko-Plateau", hu: "Nteko-fennsík", ro: "Platoul Nteko", en: "Nteko Plateau" },
@@ -768,7 +1065,52 @@ export const lesothoReliefV2: POI[] = [
     image: "/poi-images/lesotho-nteko-plateau-relief-v2.webp",
   },
   {
-    id: "lesotho-makhomalong-range-relief-v2",
+    id: "lesotho-makhomalong-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mahobong LECSA",
+                  "text": "Diese Gemeinde der Lesotho Evangelical Church in Southern Africa liegt vor der Kulisse der Makhomalong-Bergkette.",
+                  "category": "religious",
+                  "coords": [
+                        28.16536,
+                        -28.934099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mahobong LECSA",
+                  "text": "A Dél-afrikai Lesothói Evangélikus Egyház ezen gyülekezete a Makhomalong-hegység vonulatai előtt terül el.",
+                  "category": "religious",
+                  "coords": [
+                        28.16536,
+                        -28.934099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mahobong LECSA",
+                  "text": "Această congregație a Bisericii Evanghelice Lesotho din Africa de Sud este situată pe fundalul lanțului muntos Makhomalong.",
+                  "category": "religious",
+                  "coords": [
+                        28.16536,
+                        -28.934099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mahobong LECSA",
+                  "text": "This congregation of the Lesotho Evangelical Church in Southern Africa is set against the backdrop of the Makhomalong range.",
+                  "category": "religious",
+                  "coords": [
+                        28.16536,
+                        -28.934099
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "mountain",
     name: { de: "Makhomalong-Kette", hu: "Makhomalong-hegység", ro: "Munții Makhomalong", en: "Makhomalong Range" },
@@ -813,7 +1155,52 @@ export const lesothoReliefV2: POI[] = [
     image: "/poi-images/lesotho-makhomalong-range-relief-v2.webp",
   },
   {
-    id: "lesotho-thaba-tele-mountain-relief-v2",
+    id: "lesotho-thaba-tele-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lebelonyane Viewpoint",
+                  "text": "Der Aussichtspunkt Lebelonyane in den rauen Bergen von Lesotho bietet weite Panoramablicke über das umliegende Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        27.964129,
+                        -30.188878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lebelonyane Viewpoint",
+                  "text": "A zord Lesothói-hegységben található Lebelonyane-kilátó tágas panorámát nyújt a környező fennsík domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        27.964129,
+                        -30.188878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lebelonyane Viewpoint",
+                  "text": "Situat în munții accidentați din Lesotho, punctul de belvedere Lebelonyane oferă vederi panoramice vaste asupra reliefului montan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        27.964129,
+                        -30.188878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lebelonyane Viewpoint",
+                  "text": "Situated in the rugged Lesotho mountains, Lebelonyane Viewpoint offers expansive panoramic views over the surrounding highland relief.",
+                  "category": "natural",
+                  "coords": [
+                        27.964129,
+                        -30.188878
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "peak",
     name: { de: "Thaba-Tele", hu: "Thaba-Tele-hegy", ro: "Muntele Thaba-Tele", en: "Thaba-Tele Mountain" },

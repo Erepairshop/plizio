@@ -2917,7 +2917,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "East Market",
-                  "text": "Ein traditionsreicher Markt und eine lokale Attraktion in Tainan.",
+                  "text": "Dongcai Markt in Tainan, gegründet 1908.",
                   "category": "landmark",
                   "coords": [
                         120.209663,
@@ -2926,7 +2926,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "Taiwan Tiantan Temple",
-                  "text": "Ein bedeutender taoistischer Tempel und eine Sehenswürdigkeit in Tainan.",
+                  "text": "Tiantan-Tempel in Tainan, erstmals erbaut 1854.",
                   "category": "landmark",
                   "coords": [
                         120.204096,
@@ -3225,7 +3225,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "East Market",
-                  "text": "Hagyományőrző piac és helyi látványosság Tainanban.",
+                  "text": "Dongcai piac Tainanban, 1908-ban alapították.",
                   "category": "landmark",
                   "coords": [
                         120.209663,
@@ -3234,7 +3234,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "Taiwan Tiantan Temple",
-                  "text": "Jelentős taoista templom és nevezetesség Tainanban.",
+                  "text": "Tiantan templom Tainanban, először 1854-ben épült.",
                   "category": "landmark",
                   "coords": [
                         120.204096,
@@ -3533,7 +3533,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "East Market",
-                  "text": "O piață tradițională și atracție locală în Tainan.",
+                  "text": "Piața Dongcai din Tainan, înființată în 1908.",
                   "category": "landmark",
                   "coords": [
                         120.209663,
@@ -3542,7 +3542,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "Taiwan Tiantan Temple",
-                  "text": "Un templu taoist important și punct de interes în Tainan.",
+                  "text": "Templul Tiantan din Tainan, construit inițial în 1854.",
                   "category": "landmark",
                   "coords": [
                         120.204096,
@@ -3841,7 +3841,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "Dongcai market",
-                  "text": "A traditional market and local attraction in Tainan.",
+                  "text": "Dongcai Market in Tainan, established in 1908.",
                   "category": "landmark",
                   "coords": [
                         120.209663,
@@ -3850,7 +3850,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             },
             {
                   "name": "Tiantan Temple",
-                  "text": "A significant Taoist temple and attraction in Tainan.",
+                  "text": "Tiantan Temple in Tainan, first built in 1854.",
                   "category": "landmark",
                   "coords": [
                         120.204096,

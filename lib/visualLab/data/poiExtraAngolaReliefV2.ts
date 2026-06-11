@@ -640,7 +640,160 @@ export const poiExtraAngolaReliefV2: POI[] = [
       fr: ["Escarpement près de Lubango.", "Situé sur le territoire de la République d'Angola.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/monte-tundavala-relief-v2.webp"},
   {
-    id: "planalto-de-humpata-relief-v2",
+    id: "planalto-de-humpata-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Humpata Boer Friedhof",
+                  "text": "Diese archäologische Stätte auf dem Humpata-Plateau birgt die historischen Gräber der burischen Dorsland-Trekker.",
+                  "category": "historical",
+                  "coords": [
+                        13.409946,
+                        -15.009068
+                  ]
+            },
+            {
+                  "name": "Huíla Park - Parque Aquático",
+                  "text": "Dieser Freizeit-Wasserpark auf dem Humpata-Plateau bietet Schwimmbecken und Wasserattraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        13.590768,
+                        -15.013021
+                  ]
+            },
+            {
+                  "name": "Área da Cascata da Huíla",
+                  "text": "Dieses Naturschutzgebiet schützt die Landschaft rund um die Wasserfälle und die üppige Vegetation des Humpata-Plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        13.534589,
+                        -15.053706
+                  ]
+            },
+            {
+                  "name": "Residência Protocolar da Administração Comunal da Huìla",
+                  "text": "Dieses stattliche Herrenhaus dient als offizielle Protokollresidenz der Kommunalverwaltung von Huíla.",
+                  "category": "historical",
+                  "coords": [
+                        13.544672,
+                        -15.051253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cemitério Bóer da Humpata",
+                  "text": "Ez a Humpata-fennsíkon található régészeti lelőhely a búr Dorsland-trekker telepesek történelmi sírjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        13.409946,
+                        -15.009068
+                  ]
+            },
+            {
+                  "name": "Huíla Park - Parque Aquático",
+                  "text": "Ez a Humpata-fennsíkon található vízi vidámpark medencéket és vízi attrakciókat kínál a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.590768,
+                        -15.013021
+                  ]
+            },
+            {
+                  "name": "Área da Cascata da Huíla",
+                  "text": "Ez a természetvédelmi terület a Humpata-fennsík vízeséseit és buja növényzetét övező tájat óvja.",
+                  "category": "natural",
+                  "coords": [
+                        13.534589,
+                        -15.053706
+                  ]
+            },
+            {
+                  "name": "Residência Protocolar da Administração Comunal da Huìla",
+                  "text": "Ez a tekintélyes kúria Huíla községi közigazgatásának hivatalos protokolláris rezidenciájaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        13.544672,
+                        -15.051253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cemitério Bóer da Humpata",
+                  "text": "Acest sit arheologic de pe platoul Humpata găzduiește mormintele istorice ale coloniștilor buri Dorsland Trekkers.",
+                  "category": "historical",
+                  "coords": [
+                        13.409946,
+                        -15.009068
+                  ]
+            },
+            {
+                  "name": "Huíla Park - Parque Aquático",
+                  "text": "Acest parc acvatic de agrement de pe platoul Humpata oferă piscine și atracții pe apă pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.590768,
+                        -15.013021
+                  ]
+            },
+            {
+                  "name": "Área da Cascata da Huíla",
+                  "text": "Această rezervație naturală protejează peisajul din jurul cascadelor și vegetația luxuriantă a platoului Humpata.",
+                  "category": "natural",
+                  "coords": [
+                        13.534589,
+                        -15.053706
+                  ]
+            },
+            {
+                  "name": "Residência Protocolar da Administração Comunal da Huìla",
+                  "text": "Acest conac impunător servește drept reședință oficială de protocol pentru administrația comunală din Huíla.",
+                  "category": "historical",
+                  "coords": [
+                        13.544672,
+                        -15.051253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Humpata Boer graveyard",
+                  "text": "This archaeological site on the Humpata plateau preserves the historic graves of the Boer Dorsland Trekkers.",
+                  "category": "historical",
+                  "coords": [
+                        13.409946,
+                        -15.009068
+                  ]
+            },
+            {
+                  "name": "Huíla Park - Parque Aquático",
+                  "text": "This recreational water park on the Humpata plateau features swimming pools and water-based attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        13.590768,
+                        -15.013021
+                  ]
+            },
+            {
+                  "name": "Área da Cascata da Huíla",
+                  "text": "This nature reserve protects the landscape surrounding the waterfalls and lush vegetation of the Humpata plateau.",
+                  "category": "natural",
+                  "coords": [
+                        13.534589,
+                        -15.053706
+                  ]
+            },
+            {
+                  "name": "Residência Protocolar da Administração Comunal da Huìla",
+                  "text": "This stately manor serves as the official protocol residence for the communal administration of Huíla.",
+                  "category": "historical",
+                  "coords": [
+                        13.544672,
+                        -15.051253
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AO-HUI",
     coords: [13.5, -15.0],

@@ -99,7 +99,124 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "fortaleza-de-maputo-landmarks-v2",
+    id: "fortaleza-de-maputo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortaleza",
+                  "text": "Dieses historische Steinmonument diente einst der Verteidigung der Küstenstadt gegen maritime Invasionen.",
+                  "category": "historical",
+                  "coords": [
+                        32.570712,
+                        -25.975044
+                  ]
+            },
+            {
+                  "name": "Praça 25 de Junho",
+                  "text": "Dieser öffentliche Park ist ein Kulturerbe der Klasse B, der eine ruhige Grünfläche inmitten der geschäftigen Stadt bietet.",
+                  "category": "park",
+                  "coords": [
+                        32.569909,
+                        -25.974125
+                  ]
+            },
+            {
+                  "name": "Museu da Pesca",
+                  "text": "Dieses Museum ist in einem vom Architekten José Forjaz entworfenen Gebäude untergebracht und zeigt das reiche Fischereierbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        32.569233,
+                        -25.975093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza",
+                  "text": "Ez a történelmi kőemlékmű egykor a tengerparti város védelmét szolgálta a tengeri inváziókkal szemben.",
+                  "category": "historical",
+                  "coords": [
+                        32.570712,
+                        -25.975044
+                  ]
+            },
+            {
+                  "name": "Praça 25 de Junho",
+                  "text": "Ez a nyilvános park egy B kategóriás örökségi helyszín, amely nyugodt zöldterületet kínál a nyüzsgő város közepén.",
+                  "category": "park",
+                  "coords": [
+                        32.569909,
+                        -25.974125
+                  ]
+            },
+            {
+                  "name": "Museu da Pesca",
+                  "text": "A José Forjaz építész által tervezett épületben található múzeum a régió gazdag halászati örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.569233,
+                        -25.975093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza",
+                  "text": "Acest monument istoric de piatră a servit odată la apărarea orașului de coastă împotriva invaziilor maritime.",
+                  "category": "historical",
+                  "coords": [
+                        32.570712,
+                        -25.975044
+                  ]
+            },
+            {
+                  "name": "Praça 25 de Junho",
+                  "text": "Acest parc public este un sit de patrimoniu de gradul B care oferă un spațiu verde liniștit în mijlocul orașului plin de viață.",
+                  "category": "park",
+                  "coords": [
+                        32.569909,
+                        -25.974125
+                  ]
+            },
+            {
+                  "name": "Museu da Pesca",
+                  "text": "Găzduit într-o clădire proiectată de arhitectul José Forjaz, acest muzeu prezintă bogata moștenire pescărească a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.569233,
+                        -25.975093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortaleza",
+                  "text": "This historic stone monument once served to defend the coastal city against maritime invasions.",
+                  "category": "historical",
+                  "coords": [
+                        32.570712,
+                        -25.975044
+                  ]
+            },
+            {
+                  "name": "Praça 25 de Junho",
+                  "text": "This public park is a Grade B heritage site that offers a tranquil green space amidst the bustling city.",
+                  "category": "park",
+                  "coords": [
+                        32.569909,
+                        -25.974125
+                  ]
+            },
+            {
+                  "name": "Museu da Pesca",
+                  "text": "Housed in a building designed by architect José Forjaz, this museum showcases the rich fishing heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.569233,
+                        -25.975093
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5705, -25.9754],
@@ -147,7 +264,88 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "monument-mozambican-woman-landmarks-v2",
+    id: "monument-mozambican-woman-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aqua Park",
+                  "text": "Dieser Wasserpark bietet Freizeitaktivitäten in der Nähe des Monuments der Mosambikanischen Frau.",
+                  "category": "recreational",
+                  "coords": [
+                        32.6373,
+                        -25.90583
+                  ]
+            },
+            {
+                  "name": "Kosovo",
+                  "text": "Diese Attraktion liegt in der Nähe des markanten Monuments der Mosambikanischen Frau.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612863,
+                        -25.916906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqua Park",
+                  "text": "Ez a vízi park szabadidős tevékenységeket kínál a Mozambiki Nő Emlékműve közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.6373,
+                        -25.90583
+                  ]
+            },
+            {
+                  "name": "Kosovo",
+                  "text": "Ez a látványosság a feltűnő Mozambiki Nő Emlékműve közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612863,
+                        -25.916906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqua Park",
+                  "text": "Acest parc acvatic oferă activități de agrement în apropierea Monumentului Femeii Mozambicane.",
+                  "category": "recreational",
+                  "coords": [
+                        32.6373,
+                        -25.90583
+                  ]
+            },
+            {
+                  "name": "Kosovo",
+                  "text": "Această atracție este situată în apropierea impresionantului Monument al Femeii Mozambicane.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612863,
+                        -25.916906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqua Park",
+                  "text": "This water park offers recreational activities near the Monument of the Mozambican Woman.",
+                  "category": "recreational",
+                  "coords": [
+                        32.6373,
+                        -25.90583
+                  ]
+            },
+            {
+                  "name": "Kosovo",
+                  "text": "This attraction is located near the striking Monument of the Mozambican Woman.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612863,
+                        -25.916906
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5956, -25.9472],
@@ -195,7 +393,52 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "samora-machel-statue-landmarks-v2",
+    id: "samora-machel-statue-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural Franco-Moçambicano",
+                  "text": "Das Centro Cultural Franco-Moçambicano ist ein bedeutendes binationales Kunstzentrum in Maputo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.573513,
+                        -25.970055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural Franco-Moçambicano",
+                  "text": "A Centro Cultural Franco-Moçambicano egy kiemelkedő kétnemzetiségű művészeti központ Maputóban.",
+                  "category": "cultural",
+                  "coords": [
+                        32.573513,
+                        -25.970055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural Franco-Moçambicano",
+                  "text": "Centro Cultural Franco-Moçambicano este un important centru de arte binațional din Maputo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.573513,
+                        -25.970055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural Franco-Moçambicano",
+                  "text": "Centro Cultural Franco-Moçambicano is a prominent binational arts center in Maputo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.573513,
+                        -25.970055
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5732, -25.9696],
@@ -243,7 +486,88 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "praca-dos-herois-landmarks-v2",
+    id: "praca-dos-herois-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural e Municipal Ntsindya",
+                  "text": "Das Centro Cultural e Municipal Ntsindya ist eine Einrichtung, die lokale Kunst- und Kulturausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        32.563563,
+                        -25.946731
+                  ]
+            },
+            {
+                  "name": "Museu Mafalala",
+                  "text": "Das Museu Mafalala bietet historische Ausstellungen, die sich auf das kulturelle Erbe des gleichnamigen Viertels konzentrieren.",
+                  "category": "museum",
+                  "coords": [
+                        32.571709,
+                        -25.951865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural e Municipal Ntsindya",
+                  "text": "A Centro Cultural e Municipal Ntsindya a helyi művészeti és kulturális kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        32.563563,
+                        -25.946731
+                  ]
+            },
+            {
+                  "name": "Museu Mafalala",
+                  "text": "A Museu Mafalala történelmi kiállításokat kínál, amelyek a névadó környék kulturális örökségére összpontosítanak.",
+                  "category": "museum",
+                  "coords": [
+                        32.571709,
+                        -25.951865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural e Municipal Ntsindya",
+                  "text": "Centro Cultural e Municipal Ntsindya este o facilitate care găzduiește expoziții de artă și cultură locală.",
+                  "category": "cultural",
+                  "coords": [
+                        32.563563,
+                        -25.946731
+                  ]
+            },
+            {
+                  "name": "Museu Mafalala",
+                  "text": "Museu Mafalala oferă expoziții istorice axate pe moștenirea culturală a cartierului cu același nume.",
+                  "category": "museum",
+                  "coords": [
+                        32.571709,
+                        -25.951865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural e Municipal Ntsindya",
+                  "text": "The Centro Cultural e Municipal Ntsindya is a facility hosting local arts and cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        32.563563,
+                        -25.946731
+                  ]
+            },
+            {
+                  "name": "Museu Mafalala",
+                  "text": "Museu Mafalala offers historical exhibits focused on the cultural heritage of its namesake neighborhood.",
+                  "category": "museum",
+                  "coords": [
+                        32.571709,
+                        -25.951865
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5738, -25.9458],
@@ -291,7 +615,52 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tunduru-botanical-gardens-gates-landmarks-v2",
+    id: "tunduru-botanical-gardens-gates-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de Ferro",
+                  "text": "Diese historische Attraktion befindet sich in der Nähe des Botanischen Gartens von Tunduru.",
+                  "category": "landmark",
+                  "coords": [
+                        32.572881,
+                        -25.970424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Ferro",
+                  "text": "Ez a történelmi látványosság a tundurui botanikus kert közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        32.572881,
+                        -25.970424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Ferro",
+                  "text": "Această atracție istorică este situată lângă grădinile botanice din Tunduru.",
+                  "category": "landmark",
+                  "coords": [
+                        32.572881,
+                        -25.970424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Iron House",
+                  "text": "This historic attraction is located near the Tunduru botanical gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        32.572881,
+                        -25.970424
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5730, -25.9710],
@@ -483,7 +852,52 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cathedral-of-beira-landmarks-v2",
+    id: "cathedral-of-beira-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa do Artista",
+                  "text": "Casa do Artista ist ein inspirierender Galerieraum in der Nähe der Kathedrale von Beira, der sich der Präsentation lebendiger zeitgenössischer Werke mosambikanischer Künstler widmet.",
+                  "category": "museum",
+                  "coords": [
+                        34.833771,
+                        -19.828194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa do Artista",
+                  "text": "A Casa do Artista egy inspiráló galériatér a beirai katedrális közelében, amelyet a mozambiki művészek élénk kortárs alkotásainak bemutatására szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        34.833771,
+                        -19.828194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa do Artista",
+                  "text": "Casa do Artista este un spațiu de galerie inspirat, situat lângă Catedrala din Beira, dedicat prezentării lucrărilor contemporane vibrante ale artiștilor mozambicani.",
+                  "category": "museum",
+                  "coords": [
+                        34.833771,
+                        -19.828194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa do Artista",
+                  "text": "Casa do Artista is an inspiring gallery space near the Beira Cathedral, dedicated to showcasing vibrant contemporary works by Mozambican artists.",
+                  "category": "museum",
+                  "coords": [
+                        34.833771,
+                        -19.828194
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-S",
     coords: [34.8383, -19.8294],
@@ -531,7 +945,52 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "fortaleza-sao-sebastiao-landmarks-v2",
+    id: "fortaleza-sao-sebastiao-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statue",
+                  "text": "Eine lokale Monumentstatue in der Nähe der Festung São Sebastião.",
+                  "category": "historical",
+                  "coords": [
+                        40.737045,
+                        -15.031186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue",
+                  "text": "Egy helyi szoboremlékmű a São Sebastião erőd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        40.737045,
+                        -15.031186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue",
+                  "text": "O statuie monumentală locală situată lângă fortăreața São Sebastião.",
+                  "category": "historical",
+                  "coords": [
+                        40.737045,
+                        -15.031186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue",
+                  "text": "A local monument statue located near the São Sebastião fortress.",
+                  "category": "historical",
+                  "coords": [
+                        40.737045,
+                        -15.031186
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-N",
     coords: [40.7336, -15.0294],
@@ -627,7 +1086,52 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hospital-sao-joao-deus-landmarks-v2",
+    id: "hospital-sao-joao-deus-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slave Memorial Garden",
+                  "text": "Ein feierlich angelegter Gartenkomplex zum Gedenken an die Opfer des transatlantischen und des indischen Ozean-Sklavenhandels.",
+                  "category": "historical",
+                  "coords": [
+                        40.731396,
+                        -15.035027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slave Memorial Garden",
+                  "text": "Ünnepélyesen parkosított terület, amely a transzatlanti és az indiai-óceáni rabszolga-kereskedelem áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        40.731396,
+                        -15.035027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slave Memorial Garden",
+                  "text": "O zonă amenajată solemn care comemorează victimele comerțului cu sclavi transatlantici și din Oceanul Indian.",
+                  "category": "historical",
+                  "coords": [
+                        40.731396,
+                        -15.035027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slave Memorial Garden",
+                  "text": "A solemn landscaped area commemorating the victims of the transatlantic and Indian Ocean slave trades.",
+                  "category": "historical",
+                  "coords": [
+                        40.731396,
+                        -15.035027
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-N",
     coords: [40.7331, -15.0345],
@@ -771,7 +1275,124 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "forte-de-santo-antonio-ibo-landmarks-v2",
+    id: "forte-de-santo-antonio-ibo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortim de São José",
+                  "text": "Das 1760 erbaute Fortim de São José ist eine steinerne Küstenbefestigung, die zur Verteidigung der Insel errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        40.582647,
+                        -12.344737
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São João Baptista",
+                  "text": "Die 1791 fertiggestellte Fortaleza de São João Baptista ist eine sternförmige koloniale Festung mit Blick auf das Meer.",
+                  "category": "castle",
+                  "coords": [
+                        40.581957,
+                        -12.338551
+                  ]
+            },
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "Das 1847 errichtete Fortim de Santo António ist ein historischer Verteidigungsposten, der zum Schutz des nahe gelegenen Hafens erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        40.589483,
+                        -12.344937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortim de São José",
+                  "text": "Az 1760-ban épült Fortim de São José egy kőből épült part menti erődítmény, amelyet a sziget védelmére terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        40.582647,
+                        -12.344737
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São João Baptista",
+                  "text": "Az 1791-ben befejezett Fortaleza de São João Baptista egy csillag alakú gyarmati erőd, amely a tengerre néz.",
+                  "category": "castle",
+                  "coords": [
+                        40.581957,
+                        -12.338551
+                  ]
+            },
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "Az 1847-ből származó Fortim de Santo António egy történelmi védelmi előőrs, amelyet a közeli kikötő védelmére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        40.589483,
+                        -12.344937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortim de São José",
+                  "text": "Construit în 1760, Fortim de São José este o fortificație de coastă din piatră concepută pentru a apăra insula.",
+                  "category": "landmark",
+                  "coords": [
+                        40.582647,
+                        -12.344737
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São João Baptista",
+                  "text": "Finalizată în 1791, Fortaleza de São João Baptista este o fortăreață colonială în formă de stea cu vedere la mare.",
+                  "category": "castle",
+                  "coords": [
+                        40.581957,
+                        -12.338551
+                  ]
+            },
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "Datând din 1847, Fortim de Santo António este un avanpost defensiv istoric construit pentru a proteja portul din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        40.589483,
+                        -12.344937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortim de São José",
+                  "text": "Built in 1760, Fortim de São José is a stone coastal fortification designed to defend the island.",
+                  "category": "landmark",
+                  "coords": [
+                        40.582647,
+                        -12.344737
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São João Baptista",
+                  "text": "Completed in 1791, the Fortaleza de São João Baptista is a star-shaped colonial fortress overlooking the sea.",
+                  "category": "castle",
+                  "coords": [
+                        40.581957,
+                        -12.338551
+                  ]
+            },
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "Dating back to 1847, Fortim de Santo António is a historic defensive outpost built to protect the nearby harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        40.589483,
+                        -12.344937
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-P",
     coords: [40.5955, -12.3421],
@@ -1107,7 +1728,88 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "central-market-maputo-landmarks-v2",
+    id: "central-market-maputo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balcão do turista",
+                  "text": "Dieser Touristeninformationsschalter in der Nähe des Zentralmarkts bietet hilfreiche Ressourcen und lokale Karten für Besucher, die Maputo erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        32.567897,
+                        -25.970722
+                  ]
+            },
+            {
+                  "name": "Prédio Pott",
+                  "text": "Die Ruinen des Prédio Pott-Gebäudes sind als wichtiges Kulturerbe der Klasse A im Stadtzentrum anerkannt.",
+                  "category": "historical",
+                  "coords": [
+                        32.571063,
+                        -25.972225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balcão do turista",
+                  "text": "A Központi Piac közelében található turistainformációs pult hasznos forrásokat és helyi térképeket kínál a Maputót felfedező látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.567897,
+                        -25.970722
+                  ]
+            },
+            {
+                  "name": "Prédio Pott",
+                  "text": "A Prédio Pott épületének romjait fontos, A kategóriás műemlékként tartják számon a városközpontban.",
+                  "category": "historical",
+                  "coords": [
+                        32.571063,
+                        -25.972225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balcão do turista",
+                  "text": "Situat lângă Piața Centrală, acest birou turistic oferă resurse utile și hărți locale pentru vizitatorii care explorează Maputo.",
+                  "category": "landmark",
+                  "coords": [
+                        32.567897,
+                        -25.970722
+                  ]
+            },
+            {
+                  "name": "Prédio Pott",
+                  "text": "Ruinele clădirii Prédio Pott sunt recunoscute ca un important sit de patrimoniu de gradul A în centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        32.571063,
+                        -25.972225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balcão do turista",
+                  "text": "Located near the Central Market, this tourist desk provides helpful resources and local maps for visitors exploring Maputo.",
+                  "category": "landmark",
+                  "coords": [
+                        32.567897,
+                        -25.970722
+                  ]
+            },
+            {
+                  "name": "Prédio Pott",
+                  "text": "The ruins of the Prédio Pott building are recognized as an important Grade A heritage site in the city center.",
+                  "category": "historical",
+                  "coords": [
+                        32.571063,
+                        -25.972225
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5702, -25.9718],
@@ -1155,7 +1857,124 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nucleo-de-arte-landmarks-v2",
+    id: "nucleo-de-arte-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu da História Natural",
+                  "text": "Das in einem markanten Gebäude im manuelinischen Stil untergebrachte Naturhistorische Museum ist berühmt für seine einzigartige Sammlung von Elefantenföten und regionaler Präparationskunst.",
+                  "category": "museum",
+                  "coords": [
+                        32.58695,
+                        -25.977171
+                  ]
+            },
+            {
+                  "name": "Casa Velha",
+                  "text": "Casa Velha ist ein historischer Kulturort in Maputo, der das architektonische Erbe der Stadt und ihre lebendige darstellende Kunstszene widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.583931,
+                        -25.973831
+                  ]
+            },
+            {
+                  "name": "Sinagoga de Maputo",
+                  "text": "Die Synagoge von Maputo ist ein spirituelles Zentrum der lokalen jüdischen Gemeinde und zeichnet sich durch ihre besondere religiöse Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        32.586883,
+                        -25.97432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da História Natural",
+                  "text": "A lenyűgöző Mánuel-stílusú épületben található Természettudományi Múzeum híres egyedülálló elefántmagzat-gyűjteményéről és regionális taxidermiájáról.",
+                  "category": "museum",
+                  "coords": [
+                        32.58695,
+                        -25.977171
+                  ]
+            },
+            {
+                  "name": "Casa Velha",
+                  "text": "A Casa Velha egy történelmi kulturális helyszín Maputóban, amely a város építészeti örökségét és élénk előadóművészeti életét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        32.583931,
+                        -25.973831
+                  ]
+            },
+            {
+                  "name": "Sinagoga de Maputo",
+                  "text": "A Maputói Zsinagóga a helyi zsidó közösséget szolgáló spirituális központ, amely jellegzetes vallási építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        32.586883,
+                        -25.97432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da História Natural",
+                  "text": "Găzduit într-o clădire impresionantă în stil manuelin, Muzeul de Istorie Naturală este faimos pentru colecția sa unică de fetuși de elefant și taxidermie regională.",
+                  "category": "museum",
+                  "coords": [
+                        32.58695,
+                        -25.977171
+                  ]
+            },
+            {
+                  "name": "Casa Velha",
+                  "text": "Casa Velha este un loc cultural istoric din Maputo, care reflectă moștenirea arhitecturală a orașului și scena vibrantă a artelor spectacolului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.583931,
+                        -25.973831
+                  ]
+            },
+            {
+                  "name": "Sinagoga de Maputo",
+                  "text": "Sinagoga din Maputo este un centru spiritual care servește comunitatea evreiască locală, având o arhitectură religioasă distinctă.",
+                  "category": "religious",
+                  "coords": [
+                        32.586883,
+                        -25.97432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da História Natural",
+                  "text": "Housed in a striking Manueline-style building, the Natural History Museum is famous for its unique collection of elephant fetuses and regional taxidermy.",
+                  "category": "museum",
+                  "coords": [
+                        32.58695,
+                        -25.977171
+                  ]
+            },
+            {
+                  "name": "Casa Velha",
+                  "text": "Casa Velha is a historic cultural venue in Maputo that reflects the city's architectural heritage and vibrant performing arts scene.",
+                  "category": "landmark",
+                  "coords": [
+                        32.583931,
+                        -25.973831
+                  ]
+            },
+            {
+                  "name": "Sinagoga de Maputo",
+                  "text": "The Maputo Synagogue is a spiritual center serving the local Jewish community, featuring distinct religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        32.586883,
+                        -25.97432
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5833, -25.9733],
@@ -1203,7 +2022,124 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "xipamanine-market-landmarks-v2",
+    id: "xipamanine-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punto histórico",
+                  "text": "Dieser Punto histórico ist eine Gedenkmarkierung inmitten des belebten Xipamanine-Marktes, die an ein wichtiges lokales Ereignis erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        32.554111,
+                        -25.948465
+                  ]
+            },
+            {
+                  "name": "Casa Sigauque",
+                  "text": "Casa Sigauque ist ein dynamisches Gemeinschaftskunstzentrum im Stadtteil Xipamanine, das traditionelle mosambikanische darstellende Kunst und Kunsthandwerk fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        32.561122,
+                        -25.948879
+                  ]
+            },
+            {
+                  "name": "Convento de São José de Lhanguene",
+                  "text": "Der Convento de São José de Lhanguene ist ein bedeutender historischer katholischer Konvent, der in der Gegend von Xipamanine spirituelle Zuflucht bietet.",
+                  "category": "religious",
+                  "coords": [
+                        32.546876,
+                        -25.944188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punto histórico",
+                  "text": "Ez a Punto histórico egy emlékmű a nyüzsgő Xipamanine piac közepén, amely egy jelentős helyi eseménynek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        32.554111,
+                        -25.948465
+                  ]
+            },
+            {
+                  "name": "Casa Sigauque",
+                  "text": "A Casa Sigauque egy dinamikus közösségi művészeti központ a Xipamanine negyedben, amely a hagyományos mozambiki előadóművészeteket és kézművességet támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        32.561122,
+                        -25.948879
+                  ]
+            },
+            {
+                  "name": "Convento de São José de Lhanguene",
+                  "text": "A Convento de São José de Lhanguene egy jelentős történelmi katolikus kolostor, amely spirituális menedéket nyújt Xipamanine környékén.",
+                  "category": "religious",
+                  "coords": [
+                        32.546876,
+                        -25.944188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punto histórico",
+                  "text": "Acest Punto histórico este un marcaj memorial situat în mijlocul aglomeratei Piețe Xipamanine, comemorând un eveniment local semnificativ.",
+                  "category": "historical",
+                  "coords": [
+                        32.554111,
+                        -25.948465
+                  ]
+            },
+            {
+                  "name": "Casa Sigauque",
+                  "text": "Casa Sigauque este un centru comunitar de artă dinamic în zona Xipamanine, susținând artele spectacolului și meșteșugurile tradiționale mozambicane.",
+                  "category": "cultural",
+                  "coords": [
+                        32.561122,
+                        -25.948879
+                  ]
+            },
+            {
+                  "name": "Convento de São José de Lhanguene",
+                  "text": "Convento de São José de Lhanguene este o mănăstire catolică istorică semnificativă, oferind refugiu spiritual în zona Xipamanine.",
+                  "category": "religious",
+                  "coords": [
+                        32.546876,
+                        -25.944188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punto histórico",
+                  "text": "This Punto histórico is a memorial marker set amidst the bustling Xipamanine Market, commemorating a significant local event.",
+                  "category": "historical",
+                  "coords": [
+                        32.554111,
+                        -25.948465
+                  ]
+            },
+            {
+                  "name": "Casa Sigauque",
+                  "text": "Casa Sigauque is a dynamic community arts centre in the Xipamanine area, supporting traditional Mozambican performing arts and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        32.561122,
+                        -25.948879
+                  ]
+            },
+            {
+                  "name": "Convento de São José de Lhanguene",
+                  "text": "The Convento de São José de Lhanguene is a significant historic Catholic convent providing spiritual refuge in the Xipamanine area.",
+                  "category": "religious",
+                  "coords": [
+                        32.546876,
+                        -25.944188
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5534, -25.9405],
@@ -1251,7 +2187,232 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "feima-art-market-landmarks-v2",
+    id: "feima-art-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Instituto Camões Centro Cultural Português",
+                  "text": "Dieses lebendige portugiesische Kulturzentrum beherbergt Kunstausstellungen und Veranstaltungen in der Nähe des Feima-Kunstmarktes.",
+                  "category": "cultural",
+                  "coords": [
+                        32.594374,
+                        -25.974015
+                  ]
+            },
+            {
+                  "name": "Associação Portuguesa em Moçambique",
+                  "text": "Die portugiesische Vereinigung dient als aktives Kunstzentrum, das die lokale Kulturszene unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592929,
+                        -25.981724
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António da Polana",
+                  "text": "Bekannt für seine markante modernistische Architektur, ist diese ikonische Kultstätte ein Meisterwerk in Form einer Zitronenpresse.",
+                  "category": "religious",
+                  "coords": [
+                        32.596988,
+                        -25.965654
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Geologia",
+                  "text": "Das Nationale Geologiemuseum zeigt eine umfangreiche Sammlung von Mineralien, Gesteinen und paläontologischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        32.589803,
+                        -25.975517
+                  ]
+            },
+            {
+                  "name": "Villa Algarve",
+                  "text": "Die Ruinen der Villa Algarve sind eine ergreifende historische Stätte, die mit traditionellen portugiesischen Azulejo-Fliesen verziert ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.590984,
+                        -25.973897
+                  ]
+            },
+            {
+                  "name": "Núcleo d'Arte",
+                  "text": "Dieses renommierte Kunstzentrum fungiert als kreativer Knotenpunkt mit Ateliers und Galerien für lokale zeitgenössische Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        32.590739,
+                        -25.977619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Instituto Camões Centro Cultural Português",
+                  "text": "Ez a nyüzsgő portugál kulturális központ művészeti kiállításoknak és rendezvényeknek ad otthont a Feima művészeti piac közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.594374,
+                        -25.974015
+                  ]
+            },
+            {
+                  "name": "Associação Portuguesa em Moçambique",
+                  "text": "A Portugál Egyesület aktív művészeti központként szolgál, amely támogatja a helyi kulturális életet.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592929,
+                        -25.981724
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António da Polana",
+                  "text": "Lenyűgöző modernista építészetéről ismert ez az ikonikus imahely, amely egy citromfacsaróra emlékeztet.",
+                  "category": "religious",
+                  "coords": [
+                        32.596988,
+                        -25.965654
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Geologia",
+                  "text": "A Nemzeti Földtani Múzeum ásványok, kőzetek és őslénytani leletek kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.589803,
+                        -25.975517
+                  ]
+            },
+            {
+                  "name": "Villa Algarve",
+                  "text": "A Villa Algarve romjai egy megrendítő történelmi helyszínt alkotnak, amelyet hagyományos portugál azulejo csempék díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        32.590984,
+                        -25.973897
+                  ]
+            },
+            {
+                  "name": "Núcleo d'Arte",
+                  "text": "Ez a neves művészeti központ kreatív központként működik, stúdiókkal és galériákkal a helyi kortárs művészek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        32.590739,
+                        -25.977619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Instituto Camões Centro Cultural Português",
+                  "text": "Acest vibrant centru cultural portughez găzduiește expoziții de artă și evenimente în apropierea pieței de artă Feima.",
+                  "category": "cultural",
+                  "coords": [
+                        32.594374,
+                        -25.974015
+                  ]
+            },
+            {
+                  "name": "Associação Portuguesa em Moçambique",
+                  "text": "Asociația Portugheză servește ca un centru de artă activ care sprijină scena culturală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592929,
+                        -25.981724
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António da Polana",
+                  "text": "Cunoscut pentru arhitectura sa modernistă impresionantă, acest lăcaș de cult emblematic este o capodoperă în formă de storcător de lămâie.",
+                  "category": "religious",
+                  "coords": [
+                        32.596988,
+                        -25.965654
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Geologia",
+                  "text": "Muzeul Național de Geologie expune o colecție vastă de minerale, roci și artefacte paleontologice.",
+                  "category": "museum",
+                  "coords": [
+                        32.589803,
+                        -25.975517
+                  ]
+            },
+            {
+                  "name": "Villa Algarve",
+                  "text": "Ruinele Vilei Algarve reprezintă un loc istoric emoționant, împodobit cu plăci tradiționale portugheze azulejo.",
+                  "category": "historical",
+                  "coords": [
+                        32.590984,
+                        -25.973897
+                  ]
+            },
+            {
+                  "name": "Núcleo d'Arte",
+                  "text": "Acest renumit centru de artă funcționează ca un nucleu creativ cu studiouri și galerii pentru artiștii contemporani locali.",
+                  "category": "cultural",
+                  "coords": [
+                        32.590739,
+                        -25.977619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Instituto Camões Centro Cultural Português",
+                  "text": "This vibrant Portuguese cultural centre hosts art exhibitions and events near the Feima art market.",
+                  "category": "cultural",
+                  "coords": [
+                        32.594374,
+                        -25.974015
+                  ]
+            },
+            {
+                  "name": "Associação Portuguesa em Moçambique",
+                  "text": "The Portuguese Association serves as an active arts centre supporting the local cultural scene.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592929,
+                        -25.981724
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António da Polana",
+                  "text": "Known for its striking modernist architecture, this iconic place of worship is a masterpiece shaped like a lemon squeezer.",
+                  "category": "religious",
+                  "coords": [
+                        32.596988,
+                        -25.965654
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Geologia",
+                  "text": "The National Museum of Geology displays an extensive collection of minerals, rocks, and paleontological artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        32.589803,
+                        -25.975517
+                  ]
+            },
+            {
+                  "name": "Villa Algarve",
+                  "text": "The ruins of Villa Algarve stand as a poignant historical site adorned with traditional Portuguese azulejo tiles.",
+                  "category": "historical",
+                  "coords": [
+                        32.590984,
+                        -25.973897
+                  ]
+            },
+            {
+                  "name": "Núcleo d'Arte",
+                  "text": "This renowned arts centre functions as a creative hub with studios and galleries for local contemporary artists.",
+                  "category": "cultural",
+                  "coords": [
+                        32.590739,
+                        -25.977619
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5941, -25.9727],
@@ -1299,7 +2460,88 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "banco-de-mocambique-landmarks-v2",
+    id: "banco-de-mocambique-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Avenida",
+                  "text": "Das Teatro Avenida ist ein historisches Theatergebäude, in dem eine Vielzahl lebendiger Theateraufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        32.574133,
+                        -25.974839
+                  ]
+            },
+            {
+                  "name": "Feira Popular",
+                  "text": "Dieser lebhafte Themenpark bietet klassische Fahrgeschäfte und ist ein beliebtes Unterhaltungszentrum für einheimische Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        32.575485,
+                        -25.976119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Avenida",
+                  "text": "A Teatro Avenida egy történelmi színház, amely különféle élénk drámai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        32.574133,
+                        -25.974839
+                  ]
+            },
+            {
+                  "name": "Feira Popular",
+                  "text": "Ez a nyüzsgő vidámpark klasszikus körhintákkal várja a látogatókat, és a helyi családok kedvelt szórakoztató központja.",
+                  "category": "recreational",
+                  "coords": [
+                        32.575485,
+                        -25.976119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Avenida",
+                  "text": "Teatro Avenida este un teatru istoric care găzduiește o varietate de spectacole dramatice vibrante.",
+                  "category": "cultural",
+                  "coords": [
+                        32.574133,
+                        -25.974839
+                  ]
+            },
+            {
+                  "name": "Feira Popular",
+                  "text": "Acest parc tematic plin de viață oferă atracții clasice de bâlci și servește drept centru de divertisment popular pentru familiile locale.",
+                  "category": "recreational",
+                  "coords": [
+                        32.575485,
+                        -25.976119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Avenida",
+                  "text": "The Teatro Avenida is a historic theatre venue that stages a variety of vibrant dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        32.574133,
+                        -25.974839
+                  ]
+            },
+            {
+                  "name": "Feira Popular",
+                  "text": "This lively theme park features classic amusement rides and serves as a popular entertainment hub for local families.",
+                  "category": "recreational",
+                  "coords": [
+                        32.575485,
+                        -25.976119
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5721, -25.9744],
@@ -1347,7 +2589,88 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     },
   },
   {
-    id: "zimpeto-stadium-landmarks-v2",
+    id: "zimpeto-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portal",
+                  "text": "Das Portal-Denkmal ist ein symbolisches architektonisches Tor im belebten Bereich rund um das Zimpeto-Nationalstadion.",
+                  "category": "historical",
+                  "coords": [
+                        32.609002,
+                        -25.758578
+                  ]
+            },
+            {
+                  "name": "Monolito",
+                  "text": "Dieses Steinmonument ist ein imposantes Wahrzeichen in der Nähe des Zimpeto-Stadions.",
+                  "category": "historical",
+                  "coords": [
+                        32.607781,
+                        -25.758466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portal",
+                  "text": "A Portál emlékmű egy szimbolikus építészeti kapu, amely a Zimpeto Nemzeti Stadiont körülvevő nyüzsgő negyedben található.",
+                  "category": "historical",
+                  "coords": [
+                        32.609002,
+                        -25.758578
+                  ]
+            },
+            {
+                  "name": "Monolito",
+                  "text": "Ez a kőemlékmű egy impozáns tájékozódási pont a Zimpeto stadion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.607781,
+                        -25.758466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portal",
+                  "text": "Monumentul Portalului este o poartă arhitecturală simbolică situată în incinta plină de viață din jurul Stadionului Național Zimpeto.",
+                  "category": "historical",
+                  "coords": [
+                        32.609002,
+                        -25.758578
+                  ]
+            },
+            {
+                  "name": "Monolito",
+                  "text": "Acest monument de piatră este un reper impunător situat în apropierea stadionului Zimpeto.",
+                  "category": "historical",
+                  "coords": [
+                        32.607781,
+                        -25.758466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portal",
+                  "text": "The Portal monument is a symbolic architectural gateway located in the bustling precinct surrounding the Zimpeto National Stadium.",
+                  "category": "historical",
+                  "coords": [
+                        32.609002,
+                        -25.758578
+                  ]
+            },
+            {
+                  "name": "Monolito",
+                  "text": "This stone monument is an imposing landmark located near the Zimpeto stadium.",
+                  "category": "historical",
+                  "coords": [
+                        32.607781,
+                        -25.758466
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MZ-MPM",
     coords: [32.5574, -25.8239],

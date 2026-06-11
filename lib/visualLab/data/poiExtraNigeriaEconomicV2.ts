@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraNigeriaEconomicV2: POI[] = [
   {
-    id: "apapa-port-complex-economic-v2",
+    id: "apapa-port-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "cluster",
+                  "text": "Ein Aussichtspunkt, der weitreichende industrielle Panoramen über den geschäftigen Küstenhafenkomplex bietet.",
+                  "category": "natural",
+                  "coords": [
+                        3.358013,
+                        6.401785
+                  ]
+            },
+            {
+                  "name": "Apapa Amusement Park",
+                  "text": "Ein familienorientierter Themenpark, der mit arabischer Architektur neu gestaltet wurde, um Freizeitspaß in der Nähe des Hafens zu bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        3.36607,
+                        6.443832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cluster",
+                  "text": "Egy kilátópont, amely széleskörű ipari panorámát nyújt a forgalmas tengerparti kikötőkomplexumra.",
+                  "category": "natural",
+                  "coords": [
+                        3.358013,
+                        6.401785
+                  ]
+            },
+            {
+                  "name": "Apapa Amusement Park",
+                  "text": "Egy családbarát vidámpark, amelyet arab stílusú építészettel terveztek újra, hogy szabadidős lehetőséget biztosítson a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.36607,
+                        6.443832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cluster",
+                  "text": "Un punct de belvedere care oferă panorame industriale ample asupra aglomeratului complex portuar de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        3.358013,
+                        6.401785
+                  ]
+            },
+            {
+                  "name": "Apapa Amusement Park",
+                  "text": "Un parc de distracții orientat spre familie, reproiectat cu o arhitectură în stil arab pentru a oferi o zonă de agrement lângă port.",
+                  "category": "recreational",
+                  "coords": [
+                        3.36607,
+                        6.443832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cluster",
+                  "text": "A viewpoint offering sweeping industrial panoramas over the busy coastal port complex.",
+                  "category": "natural",
+                  "coords": [
+                        3.358013,
+                        6.401785
+                  ]
+            },
+            {
+                  "name": "Apapa Amusement Park",
+                  "text": "A family-oriented theme park redesigned with Arabian-style architecture to provide leisure near the port.",
+                  "category": "recreational",
+                  "coords": [
+                        3.36607,
+                        6.443832
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NG-LA",
     coords: [3.3592, 6.4444],
@@ -99,7 +180,52 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "onne-port-economic-v2",
+    id: "onne-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "King Agbadam Palace Square",
+                  "text": "Der King Agbadam Palace Square fungiert als zeremonieller Versammlungsort vor der Residenz des traditionellen Herrschers in der Nähe von Onne.",
+                  "category": "castle",
+                  "coords": [
+                        7.202547,
+                        4.740857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King Agbadam Palace Square",
+                  "text": "Az Agbadam király palotatere ceremoniális gyülekezőhelyként funkcionál a hagyományos uralkodó rezidenciája előtt Onne közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.202547,
+                        4.740857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King Agbadam Palace Square",
+                  "text": "Piața Palatului Regelui Agbadam funcționează ca un loc de adunare ceremonial în fața reședinței conducătorului tradițional de lângă Onne.",
+                  "category": "castle",
+                  "coords": [
+                        7.202547,
+                        4.740857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King Agbadam Palace Square",
+                  "text": "King Agbadam Palace Square functions as a ceremonial gathering place in front of the traditional ruler's residence near Onne.",
+                  "category": "castle",
+                  "coords": [
+                        7.202547,
+                        4.740857
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NG-RI",
     coords: [7.1558, 4.6975],
@@ -147,7 +273,88 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-harcourt-port-economic-v2",
+    id: "port-harcourt-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isaac Boro Park",
+                  "text": "Der Isaac Boro Park ist ein Erholungsgebiet im Freien, das der Erinnerung an einen nigerianischen Bürgerkriegshelden gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        7.005426,
+                        4.787792
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Cathedral",
+                  "text": "Die Corpus Christi Cathedral ist ein großes katholisches Gotteshaus, das der Diözese in Port Harcourt dient.",
+                  "category": "religious",
+                  "coords": [
+                        7.004223,
+                        4.797646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isaac Boro Park",
+                  "text": "Az Isaac Boro Park egy szabadtéri rekreációs zöldterület, amelyet egy nigériai polgárháborús hős emlékének szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        7.005426,
+                        4.787792
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Cathedral",
+                  "text": "A Corpus Christi-katedrális egy nagyszabású katolikus istentiszteleti hely, amely a Port Harcourt-i egyházmegyét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        7.004223,
+                        4.797646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isaac Boro Park",
+                  "text": "Parcul Isaac Boro este un spațiu verde de recreere în aer liber dedicat memoriei unui erou al războiului civil din Nigeria.",
+                  "category": "park",
+                  "coords": [
+                        7.005426,
+                        4.787792
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Cathedral",
+                  "text": "Catedrala Corpus Christi este un mare lăcaș de cult catolic care deservește dieceza din Port Harcourt.",
+                  "category": "religious",
+                  "coords": [
+                        7.004223,
+                        4.797646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isaac Boro Park",
+                  "text": "Isaac Boro Park is an outdoor recreational green space dedicated to the memory of a Nigerian civil war hero.",
+                  "category": "park",
+                  "coords": [
+                        7.005426,
+                        4.787792
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Cathedral",
+                  "text": "Corpus Christi Cathedral is a grand Catholic place of worship serving the diocese in Port Harcourt.",
+                  "category": "religious",
+                  "coords": [
+                        7.004223,
+                        4.797646
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NG-RI",
     coords: [7.0097, 4.7571],
@@ -243,7 +450,304 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "warri-port-economic-v2",
+    id: "warri-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igbo Market",
+                  "text": "Ein geschäftiger Freiluftmarkt, der als wichtiger Knotenpunkt für den regionalen Handel in Warri dient.",
+                  "category": "cultural",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "Ein großer Veranstaltungsort, der speziell für die Ausrichtung bedeutender Versammlungen und festlicher gesellschaftlicher Ereignisse konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "Ein lokaler Social Club, der seinen Mitgliedern einen exklusiven Versammlungsort und Unterhaltungsort bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "Eine zweckmäßig gebaute Einrichtung, die für die Ausrichtung verschiedener Gemeindetreffen und privater Feiern vorgesehen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Der königliche Palastkomplex, der als traditioneller Sitz und Residenz des Olu des Königreichs Warri dient.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "Die First Baptist Church an der Mission Road dient der lokalen Gemeinde in Warri als bedeutendes christliches Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        5.74613,
+                        5.518227
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Der Palast des Olu von Warri dient als traditionelle königliche Residenz und Verwaltungssitz des Königreichs Warri.",
+                  "category": "castle",
+                  "coords": [
+                        5.735715,
+                        5.526013
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "Die Word of Life Bible Church ist ein großes christliches Gotteshaus, das einer wachsenden evangelikalen Gemeinde in Warri Platz bietet.",
+                  "category": "religious",
+                  "coords": [
+                        5.734554,
+                        5.529061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igbo Market",
+                  "text": "Egy nyüzsgő szabadtéri piac, amely a regionális kereskedelem fontos központjaként szolgál Warriban.",
+                  "category": "cultural",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "Egy nagy helyszín, amelyet kifejezetten jelentős összejövetelek és ünnepi társadalmi események lebonyolítására terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "Egy helyi társasklub, amely exkluzív gyülekezőhelyet és szórakozóhelyet biztosít tagjai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "Egy erre a célra épült létesítmény, amelyet különféle közösségi összejövetelek és magánünnepségek lebonyolítására szántak.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "A királyi palotakomplexum, amely a Warri Királyság Olu-jának hagyományos székhelyeként és rezidenciájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "A Mission Roadon található First Baptist Church a helyi gyülekezet jelentős keresztény istentiszteleti helyeként szolgál Warriban.",
+                  "category": "religious",
+                  "coords": [
+                        5.74613,
+                        5.518227
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Az Olu of Warri palota a Warri Királyság hagyományos királyi rezidenciájaként és adminisztratív központjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        5.735715,
+                        5.526013
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "A Word of Life Bible Church egy nagyméretű keresztény istentiszteleti hely, amely egy növekvő evangéliumi gyülekezetet fogad Warriban.",
+                  "category": "religious",
+                  "coords": [
+                        5.734554,
+                        5.529061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igbo Market",
+                  "text": "O piață în aer liber plină de viață, care servește drept un centru major pentru comerțul regional în Warri.",
+                  "category": "cultural",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "O locație spațioasă concepută special pentru a găzdui adunări semnificative și evenimente sociale festive.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "Un club social local care oferă un spațiu de adunare exclusivist și un loc de divertisment pentru membrii săi.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "O facilitate construită special, dedicată găzduirii diverselor adunări comunitare și sărbători private.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Complexul palatului regal care servește drept reședință și sediu tradițional al Olu-ului din Regatul Warri.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "First Baptist Church de pe Mission Road este un lăcaș de cult creștin proeminent pentru congregația locală din Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.74613,
+                        5.518227
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Palatul Olu din Warri servește drept reședință regală tradițională și sediu administrativ pentru Regatul Warri.",
+                  "category": "castle",
+                  "coords": [
+                        5.735715,
+                        5.526013
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "Word of Life Bible Church este un lăcaș de cult creștin încăpător, care găzduiește o congregație evanghelică în creștere din Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.734554,
+                        5.529061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igbo Market",
+                  "text": "A bustling open-air marketplace serving as a major hub for regional commerce and trading in Warri.",
+                  "category": "cultural",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "A large venue specifically designed to host significant gatherings and festive social events.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "A local social club providing an exclusive gathering space and entertainment venue for its members.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "A purpose-built facility dedicated to hosting various community gatherings and private celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Kingdom Palace",
+                  "text": "The regal palace complex serving as the traditional seat and residence of the Olu of the Kingdom of Warri.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "The First Baptist Church on Mission Road serves as a prominent Christian place of worship for the local congregation in Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.74613,
+                        5.518227
+                  ]
+            },
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "The Olu of Warri Palace serves as the traditional royal residence and administrative seat for the Kingdom of Warri.",
+                  "category": "castle",
+                  "coords": [
+                        5.735715,
+                        5.526013
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "The Word of Life Bible Church is a large Christian place of worship accommodating a growing evangelical congregation in Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.734554,
+                        5.529061
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NG-DE",
     coords: [5.7323, 5.5174],
@@ -387,7 +891,88 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sapele-port-economic-v2",
+    id: "sapele-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosogar",
+                  "text": "Mosogar ist eine geschäftige lokale Siedlung in der Nähe von Sapele, die eng mit dem wirtschaftlichen Leben der Häfen der Region verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.737266,
+                        5.897914
+                  ]
+            },
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "Die Water Side in Sapele ist ein lebendiges Ufergebiet, an dem maritime Aktivitäten und lokaler Handel zusammenlaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosogar",
+                  "text": "Mosogar egy nyüzsgő helyi település Sapele közelében, amely szorosan kapcsolódik a régió kikötőinek gazdasági életéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        5.737266,
+                        5.897914
+                  ]
+            },
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "A sapele-i Water Side egy élénk folyóparti terület, ahol a tengeri tevékenység és a helyi kereskedelem találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosogar",
+                  "text": "Mosogar este o așezare locală plină de viață lângă Sapele, strâns legată de viața economică a porturilor din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        5.737266,
+                        5.897914
+                  ]
+            },
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "Water Side din Sapele este o zonă plină de viață pe malul râului, unde activitatea maritimă și comerțul local converg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosogar",
+                  "text": "Mosogar is a bustling local settlement near Sapele, closely tied to the economic life of the region's ports.",
+                  "category": "landmark",
+                  "coords": [
+                        5.737266,
+                        5.897914
+                  ]
+            },
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "The Water Side in Sapele is a lively riverfront area where maritime activity and local trade converge.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NG-DE",
     coords: [5.6896, 5.8887],
@@ -530,7 +1115,52 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       fr: ["Appartient à Chevron et se situe à l'extrême ouest du delta du Niger.", "Le nom dérive du mot portugais pour esclaves (Rio dos Escravos).", "Siège de l'usine Escravos Gas-to-Liquids (EGTL) de plusieurs milliards de dollars.", "A réduit massivement le torchage du gaz polluant au Nigeria.", "Dispose d'un immense port pétrolier flottant (SPM) dans l'océan.", "Le terminal est coupé de la terre ferme, accessible uniquement par bateau ou hélicoptère."],
     }, image: "/poi-images/escravos-terminal-economic-v2.webp"},
   {
-    id: "forcados-terminal-economic-v2",
+    id: "forcados-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamiengo Resort",
+                  "text": "Eine Resort-Attraktion mit Freizeiteinrichtungen und Unterkünften in der Nähe der regionalen Terminal-Infrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        5.327827,
+                        5.362821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamiengo Resort",
+                  "text": "Üdülőhelyi látványosság, amely szabadidős létesítményeket és szállást kínál a regionális terminálinfrastruktúra közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.327827,
+                        5.362821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tamiengo Resort",
+                  "text": "O atracție de tip resort care oferă facilități de agrement și cazare în apropierea infrastructurii terminalului regional.",
+                  "category": "landmark",
+                  "coords": [
+                        5.327827,
+                        5.362821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamiengo Resort",
+                  "text": "A resort attraction providing leisure facilities and accommodations near the regional terminal infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        5.327827,
+                        5.362821
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NG-DE",
     coords: [5.333, 5.3582],
@@ -577,7 +1207,88 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       fr: ["L'un des plus anciens et des plus grands terminaux d'exportation pétrolière du Nigeria.", "Exploité par la Shell Petroleum Development Company (SPDC).", "Traite le 'Forcados Blend', un brut léger de haute qualité très prisé.", "Situé sur une île isolée à l'embouchure du fleuve Forcados.", "Point d'arrivée du massif oléoduc Trans-Forcados-Pipeline (TFP).", "A été mis à l'arrêt à plusieurs reprises par des sabotages de groupes militants."],
     }, image: "/poi-images/forcados-terminal-economic-v2.webp"},
   {
-    id: "bonny-oil-terminal-economic-v2",
+    id: "bonny-oil-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "FINIMA NATURE PARK",
+                  "text": "Der Finima Nature Park schützt Küstenwälder und Mangrovensümpfe in der Nähe des Ölterminals von Bonny.",
+                  "category": "natural",
+                  "coords": [
+                        7.181241,
+                        4.394001
+                  ]
+            },
+            {
+                  "name": "Peace Monument",
+                  "text": "Das Peace Monument ist eine öffentliche Gedenkstätte in der Nähe des Ölterminals von Bonny.",
+                  "category": "historical",
+                  "coords": [
+                        7.165746,
+                        4.439325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FINIMA NATURE PARK",
+                  "text": "A Finima Természetvédelmi Terület a part menti erdőket és mangrovemocsarakat védi a bonnyi olajterminál közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.181241,
+                        4.394001
+                  ]
+            },
+            {
+                  "name": "Peace Monument",
+                  "text": "A Béke Emlékmű egy nyilvános emlékhely a bonnyi olajterminál területének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.165746,
+                        4.439325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FINIMA NATURE PARK",
+                  "text": "Rezervația naturală Finima protejează pădurile de coastă și mlaștinile de mangrove din apropierea terminalului petrolier Bonny.",
+                  "category": "natural",
+                  "coords": [
+                        7.181241,
+                        4.394001
+                  ]
+            },
+            {
+                  "name": "Peace Monument",
+                  "text": "Monumentul Păcii este o structură publică comemorativă situată în apropierea zonei terminalului petrolier Bonny.",
+                  "category": "historical",
+                  "coords": [
+                        7.165746,
+                        4.439325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FINIMA NATURE PARK",
+                  "text": "Finima Nature Park protects coastal forest and mangrove swamps near the Bonny oil terminal area.",
+                  "category": "natural",
+                  "coords": [
+                        7.181241,
+                        4.394001
+                  ]
+            },
+            {
+                  "name": "Peace Monument",
+                  "text": "The Peace Monument is a public memorial structure near the Bonny Oil Terminal area.",
+                  "category": "historical",
+                  "coords": [
+                        7.165746,
+                        4.439325
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NG-RI",
     coords: [7.1706, 4.4172],
@@ -720,7 +1431,52 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       fr: ["Exploité par la Nigerian Agip Oil Company (filiale de l'italien Eni).", "Situé dans l'État de Bayelsa, sur la côte de la baie de Bonny.", "La ville historique de Brass ('Nembe') était célèbre pour ses marchands d'huile de palme.", "Exporte le 'Brass River Blend', un brut léger de haute qualité.", "En raison de son isolement, des conflits avec les communautés locales surviennent souvent.", "Emplacement prévu pour la future méga-installation 'Brass LNG'."],
     }, image: "/poi-images/brass-terminal-economic-v2.webp"},
   {
-    id: "dangote-refinery-economic-v2",
+    id: "dangote-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yemisi Shyllon Museum of Art",
+                  "text": "Das Yemisi Shyllon Museum of Art ist eine Bildungsgalerie, die eine große Privatsammlung afrikanischer traditioneller und zeitgenössischer Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        3.855022,
+                        6.488198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yemisi Shyllon Museum of Art",
+                  "text": "A Yemisi Shyllon Művészeti Múzeum egy oktatási galéria, amely afrikai hagyományos és kortárs művek hatalmas magángyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.855022,
+                        6.488198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yemisi Shyllon Museum of Art",
+                  "text": "Muzeul de Artă Yemisi Shyllon este o galerie educațională care expune o vastă colecție privată de lucrări tradiționale și contemporane africane.",
+                  "category": "museum",
+                  "coords": [
+                        3.855022,
+                        6.488198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yemisi Shyllon Museum of Art",
+                  "text": "Yemisi Shyllon Museum of Art is an educational gallery exhibiting a vast private collection of African traditional and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        3.855022,
+                        6.488198
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NG-LA",
     coords: [3.8966, 6.4385],
@@ -816,7 +1572,52 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "warri-refinery-economic-v2",
+    id: "warri-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eagle Class Event Center",
+                  "text": "Das Eagle Class Event Center ist ein großer Veranstaltungsort in der Nähe der Warri-Raffinerie, der für Feierlichkeiten und Firmenveranstaltungen ausgestattet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.744977,
+                        5.570114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eagle Class Event Center",
+                  "text": "Az Eagle Class Event Center egy nagy rendezvényhelyszín a Warri finomító közelében, amely ünnepségek és céges rendezvények lebonyolítására alkalmas.",
+                  "category": "landmark",
+                  "coords": [
+                        5.744977,
+                        5.570114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eagle Class Event Center",
+                  "text": "Eagle Class Event Center este o locație spațioasă, dotată pentru a găzdui sărbători și evenimente corporative în apropierea Rafinăriei Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.744977,
+                        5.570114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eagle Class Event Center",
+                  "text": "The Eagle Class Event Center is a large gathering venue equipped to host celebrations and corporate functions near the Warri Refinery.",
+                  "category": "landmark",
+                  "coords": [
+                        5.744977,
+                        5.570114
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NG-DE",
     coords: [5.698, 5.567],
@@ -958,7 +1759,196 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       fr: ["Le projet industriel le plus grand et le plus ambitieux de l'histoire du Nigeria.", "Commencé en 1979 en étroite coopération technologique avec l'Union soviétique (Tiazhpromexport).", "Devait comprendre une ville complète pour 500 000 habitants (Ajaokuta Steel City).", "Malgré des milliards d'investissements et 98 % d'achèvement, jamais exploité commercialement.", "A échoué notamment à cause du manque de réseau de transport pour le minerai de fer et le charbon.", "Souvent cité au Nigeria comme l'exemple ultime de l'échec des grands projets étatiques."],
     }, image: "/poi-images/ajaokuta-steel-mill-economic-v2.webp"},
   {
-    id: "delta-steel-company-economic-v2",
+    id: "delta-steel-company-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rufes Amusement Park",
+                  "text": "Der Rufes Amusement Park bietet familienfreundliche Fahrgeschäfte und Freizeiteinrichtungen im Freien nahe dem Delta-Steel-Komplex.",
+                  "category": "landmark",
+                  "coords": [
+                        5.781844,
+                        5.546211
+                  ]
+            },
+            {
+                  "name": "3BN TRG SHADE",
+                  "text": "3BN TRG SHADE ist eine Anlage, die als überdachter Versammlungs- oder Trainingsraum in der Nähe der Delta Steel Company fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        5.762094,
+                        5.574753
+                  ]
+            },
+            {
+                  "name": "Odjegba Recreational Hall",
+                  "text": "Die Odjegba Recreational Hall bietet einen geräumigen Innenbereich für Gemeindeveranstaltungen und soziale Aktivitäten im Industrieviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776493,
+                        5.56881
+                  ]
+            },
+            {
+                  "name": "Evuovo Social Center",
+                  "text": "Das Evuovo Social Center fungiert als lokaler Knotenpunkt für gemeinschaftliche Zusammenkünfte und kulturelle Veranstaltungen nahe dem Delta-Steel-Komplex.",
+                  "category": "landmark",
+                  "coords": [
+                        5.770646,
+                        5.56215
+                  ]
+            },
+            {
+                  "name": "Synergy Center",
+                  "text": "Das Synergy Center ist eine moderne Einrichtung, die Gemeinschaftsveranstaltungen und Gemeindeaktivitäten in der lokalen Industriezone beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763013,
+                        5.564674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rufes Amusement Park",
+                  "text": "A Rufes Vidámpark családbarát játékokat és szabadtéri rekreációs tereket kínál a Delta Steel Company komplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.781844,
+                        5.546211
+                  ]
+            },
+            {
+                  "name": "3BN TRG SHADE",
+                  "text": "A 3BN TRG SHADE egy fedett gyülekező- vagy gyakorlótérként funkcionáló létesítmény a Delta Steel Company közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.762094,
+                        5.574753
+                  ]
+            },
+            {
+                  "name": "Odjegba Recreational Hall",
+                  "text": "Az Odjegba Rekreációs Csarnok tágas beltéri helyszínt biztosít a közösségi események és társadalmi tevékenységek számára az ipari negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776493,
+                        5.56881
+                  ]
+            },
+            {
+                  "name": "Evuovo Social Center",
+                  "text": "Az Evuovo Társadalmi Központ a helyi közösségi összejövetelek és kulturális események központjaként működik a Delta Steel komplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.770646,
+                        5.56215
+                  ]
+            },
+            {
+                  "name": "Synergy Center",
+                  "text": "A Synergy Center egy modern létesítmény, amely együttműködési eseményeknek és közösségi tevékenységeknek ad otthont a helyi ipari övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763013,
+                        5.564674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rufes Amusement Park",
+                  "text": "Parcul de distracții Rufes oferă atracții pentru familii și spații de recreere în aer liber lângă complexul Delta Steel Company.",
+                  "category": "landmark",
+                  "coords": [
+                        5.781844,
+                        5.546211
+                  ]
+            },
+            {
+                  "name": "3BN TRG SHADE",
+                  "text": "3BN TRG SHADE este o atracție ce funcționează ca spațiu umbrit pentru adunări sau antrenamente lângă Delta Steel Company.",
+                  "category": "landmark",
+                  "coords": [
+                        5.762094,
+                        5.574753
+                  ]
+            },
+            {
+                  "name": "Odjegba Recreational Hall",
+                  "text": "Sala de recreere Odjegba oferă un spațiu interior generos pentru evenimente comunitare și activități sociale în districtul industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776493,
+                        5.56881
+                  ]
+            },
+            {
+                  "name": "Evuovo Social Center",
+                  "text": "Centrul Social Evuovo este un hub local pentru adunări comunitare și evenimente culturale lângă complexul Delta Steel.",
+                  "category": "landmark",
+                  "coords": [
+                        5.770646,
+                        5.56215
+                  ]
+            },
+            {
+                  "name": "Synergy Center",
+                  "text": "Synergy Center este o facilitate modernă care găzduiește evenimente de colaborare și activități comunitare în zona industrială locală.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763013,
+                        5.564674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rufes Amusement Park",
+                  "text": "Rufes Amusement Park offers family-friendly rides and outdoor recreational spaces near the Delta Steel Company complex.",
+                  "category": "landmark",
+                  "coords": [
+                        5.781844,
+                        5.546211
+                  ]
+            },
+            {
+                  "name": "3BN TRG SHADE",
+                  "text": "3BN TRG SHADE is an attraction functioning as a shaded gathering or training space near the Delta Steel Company.",
+                  "category": "landmark",
+                  "coords": [
+                        5.762094,
+                        5.574753
+                  ]
+            },
+            {
+                  "name": "Odjegba Recreational Hall",
+                  "text": "The Odjegba Recreational Hall provides a spacious indoor venue for community events and social activities in the industrial district.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776493,
+                        5.56881
+                  ]
+            },
+            {
+                  "name": "Evuovo Social Center",
+                  "text": "Evuovo Social Center acts as a local hub for communal gatherings and cultural events near the Delta Steel complex.",
+                  "category": "landmark",
+                  "coords": [
+                        5.770646,
+                        5.56215
+                  ]
+            },
+            {
+                  "name": "Synergy Center",
+                  "text": "The Synergy Center is a modern facility hosting collaborative events and community activities within the local industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763013,
+                        5.564674
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NG-DE",
     coords: [5.808, 5.5312],

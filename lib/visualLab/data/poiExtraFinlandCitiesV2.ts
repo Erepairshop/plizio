@@ -6109,7 +6109,7 @@ export const finlandCitiesV2: POI[] = [
             },
             {
                   "name": "Kellotapuli",
-                  "text": "Ein hölzerner Glockenturm in Karkkila.",
+                  "text": "Der Kellotapuli in Karkkila ist ein Glockenturm, der 1804 von Martti Tolpo erbaut wurde.",
                   "category": "tower",
                   "coords": [
                         24.210818,
@@ -6399,7 +6399,7 @@ export const finlandCitiesV2: POI[] = [
             },
             {
                   "name": "Kellotapuli",
-                  "text": "Fából készült harangtorony Karkkilában.",
+                  "text": "A Karkkila-i Kellotapuli harangtorony 1804-ben épült Martti Tolpo tervei alapján.",
                   "category": "tower",
                   "coords": [
                         24.210818,
@@ -6689,7 +6689,7 @@ export const finlandCitiesV2: POI[] = [
             },
             {
                   "name": "Kellotapuli",
-                  "text": "O clopotniță de lemn în Karkkila.",
+                  "text": "Turnul clopotniță Kellotapuli din Karkkila, construit în 1804 de Martti Tolpo.",
                   "category": "tower",
                   "coords": [
                         24.210818,
@@ -6979,7 +6979,7 @@ export const finlandCitiesV2: POI[] = [
             },
             {
                   "name": "Kellotapuli",
-                  "text": "A wooden bell tower in Karkkila.",
+                  "text": "Kellotapuli bell tower in Karkkila, built in 1804, was designed by Martti Tolpo.",
                   "category": "tower",
                   "coords": [
                         24.210818,

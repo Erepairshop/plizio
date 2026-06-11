@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraCameroonEconomicV2: POI[] = [
   {
-    id: "douala-autonomous-port-economic-v2",
+    id: "douala-autonomous-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "lotophone",
+                  "text": "Diese einzigartige urbane Attraktion befindet sich im belebten Hafenviertel und spiegelt die dynamische lokale Kultur von Douala wider.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695492,
+                        4.045504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "lotophone",
+                  "text": "Ez az egyedülálló városi látványosság a nyüzsgő kikötői negyedben található, tükrözve Douala dinamikus helyi kultúráját.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695492,
+                        4.045504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "lotophone",
+                  "text": "Această atracție urbană unică se află în cartierul portuar aglomerat, reflectând cultura locală dinamică din Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695492,
+                        4.045504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "lotophone",
+                  "text": "This unique urban attraction stands in the bustling port district, reflecting Douala's dynamic local culture.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695492,
+                        4.045504
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CM-LT",
     coords: [9.6958, 4.0416],
@@ -99,7 +144,88 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "limbe-port-economic-v2",
+    id: "limbe-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lava Tongue",
+                  "text": "Diese geologische Attraktion besteht aus einer markanten Flussformation aus abgekühltem Vulkangestein, die in Richtung Hafen reicht.",
+                  "category": "landmark",
+                  "coords": [
+                        9.062636,
+                        4.053831
+                  ]
+            },
+            {
+                  "name": "Batoke Beach",
+                  "text": "Dieser Ort am Meer bietet entspannende Sandstrände unmittelbar neben der lokalen Wirtschaftszone des Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        9.089427,
+                        4.033165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lava Tongue",
+                  "text": "Ez a geológiai látványosság a kikötő felé nyúló, lehűlt vulkáni kőzetből álló jellegzetes áramlási formáció.",
+                  "category": "landmark",
+                  "coords": [
+                        9.062636,
+                        4.053831
+                  ]
+            },
+            {
+                  "name": "Batoke Beach",
+                  "text": "Ez a tengerparti hely pihentető homokos partokat kínál közvetlenül a helyi kikötő gazdasági övezete mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        9.089427,
+                        4.033165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lava Tongue",
+                  "text": "Această atracție geologică constă dintr-o formațiune de flux distinctă de rocă vulcanică răcită, care se îndreaptă spre port.",
+                  "category": "landmark",
+                  "coords": [
+                        9.062636,
+                        4.053831
+                  ]
+            },
+            {
+                  "name": "Batoke Beach",
+                  "text": "Această locație de pe litoral oferă țărmuri nisipoase relaxante chiar lângă zona economică a portului local.",
+                  "category": "recreational",
+                  "coords": [
+                        9.089427,
+                        4.033165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lava Tongue",
+                  "text": "This geological attraction consists of a distinct flow formation of cooled volcanic rock reaching towards the port.",
+                  "category": "landmark",
+                  "coords": [
+                        9.062636,
+                        4.053831
+                  ]
+            },
+            {
+                  "name": "Batoke Beach",
+                  "text": "This seaside location offers relaxing sandy shores immediately adjacent to the local port's economic zone.",
+                  "category": "recreational",
+                  "coords": [
+                        9.089427,
+                        4.033165
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CM-SW",
     coords: [9.0167, 4.0167],
@@ -147,7 +273,124 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "sonara-oil-refinery-economic-v2",
+    id: "sonara-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old German Lighthouse",
+                  "text": "Dieser historische Leuchtturm steht als maritimes Überbleibsel nahe dem Gebiet der Ölraffinerie.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976592,
+                        4.10053
+                  ]
+            },
+            {
+                  "name": "Bakangili Beach",
+                  "text": "Dieser Küstenstrand bietet eine sandige Uferlandschaft in der Nähe der wirtschaftlichen Anlagen der Ölraffinerie.",
+                  "category": "recreational",
+                  "coords": [
+                        9.036029,
+                        4.062748
+                  ]
+            },
+            {
+                  "name": "Tsaben Beach",
+                  "text": "Dieser Küstenabschnitt bietet malerische Ausblicke entlang der Gewässer unweit der industriellen Ölraffinerie.",
+                  "category": "recreational",
+                  "coords": [
+                        9.044994,
+                        4.059456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old German Lighthouse",
+                  "text": "Ez a történelmi világítótorony tengerészeti maradványként áll az olajfinomító területének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976592,
+                        4.10053
+                  ]
+            },
+            {
+                  "name": "Bakangili Beach",
+                  "text": "Ez a tengerparti strand homokos partvonalat kínál az olajfinomító gazdasági létesítményeinek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.036029,
+                        4.062748
+                  ]
+            },
+            {
+                  "name": "Tsaben Beach",
+                  "text": "Ez a partszakasz festői tengerparti kilátást nyújt az ipari olajfinomítóhoz közeli vizek mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        9.044994,
+                        4.059456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old German Lighthouse",
+                  "text": "Acest far istoric stă ca o rămășiță maritimă lângă zona rafinăriei de petrol.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976592,
+                        4.10053
+                  ]
+            },
+            {
+                  "name": "Bakangili Beach",
+                  "text": "Această plajă de coastă oferă o zonă de țărm nisipos în apropierea instalațiilor economice ale rafinăriei de petrol.",
+                  "category": "recreational",
+                  "coords": [
+                        9.036029,
+                        4.062748
+                  ]
+            },
+            {
+                  "name": "Tsaben Beach",
+                  "text": "Această porțiune de coastă oferă vederi pitorești de-a lungul apelor din apropierea rafinăriei industriale de petrol.",
+                  "category": "recreational",
+                  "coords": [
+                        9.044994,
+                        4.059456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old German Lighthouse",
+                  "text": "This historic lighthouse structure stands as a maritime remnant near the oil refinery area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976592,
+                        4.10053
+                  ]
+            },
+            {
+                  "name": "Bakangili Beach",
+                  "text": "This coastal beach offers a sandy shoreline setting near the economic developments of the oil refinery.",
+                  "category": "recreational",
+                  "coords": [
+                        9.036029,
+                        4.062748
+                  ]
+            },
+            {
+                  "name": "Tsaben Beach",
+                  "text": "This shoreline stretch features scenic coastal views along the waters near the industrial oil refinery.",
+                  "category": "recreational",
+                  "coords": [
+                        9.044994,
+                        4.059456
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-SW",
     coords: [9.0105, 4.0255],
@@ -291,7 +534,52 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "song-loulou-hydro-economic-v2",
+    id: "song-loulou-hydro-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lac naturel",
+                  "text": "Dieses natürliche Seegebiet fungiert als malerisches Wassererholungsgebiet, das mit der regionalen Wasserkraftökologie verbunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.474084,
+                        4.12957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lac naturel",
+                  "text": "Ez a természetes tóvidék festői vízi rekreációs helyként funkcionál, amely a regionális vízenergia-ökológiához kapcsolódik.",
+                  "category": "recreational",
+                  "coords": [
+                        10.474084,
+                        4.12957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lac naturel",
+                  "text": "Această zonă cu lac natural funcționează ca un loc pitoresc de recreere acvatică legat de ecologia hidroenergetică regională.",
+                  "category": "recreational",
+                  "coords": [
+                        10.474084,
+                        4.12957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lac naturel",
+                  "text": "This natural lake area functions as a scenic aquatic recreation spot linked to the regional hydro-power ecology.",
+                  "category": "recreational",
+                  "coords": [
+                        10.474084,
+                        4.12957
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-LT",
     coords: [10.45, 4.05],
@@ -387,7 +675,52 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "lom-pangar-dam-economic-v2",
+    id: "lom-pangar-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de Deng Deng",
+                  "text": "Der Nationalpark Deng Deng ist ein bewaldetes Naturschutzgebiet, das zum Schutz der dort lebenden Flachlandgorillas und Schimpansen eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        13.459077,
+                        5.336506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Deng Deng",
+                  "text": "A Deng Deng Nemzeti Park egy erdős természetvédelmi terület, amelyet az itt élő síkvidéki gorillák és csimpánzok védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        13.459077,
+                        5.336506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Deng Deng",
+                  "text": "Parcul Național Deng Deng este o rezervație naturală împădurită înființată pentru a proteja populațiile rezidente de gorile de câmpie și cimpanzei.",
+                  "category": "natural",
+                  "coords": [
+                        13.459077,
+                        5.336506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National de Deng Deng",
+                  "text": "Deng Deng National Park is a forested nature reserve established to protect the resident populations of lowland gorillas and chimpanzees.",
+                  "category": "natural",
+                  "coords": [
+                        13.459077,
+                        5.336506
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-ES",
     coords: [13.4833, 5.3833],
@@ -771,7 +1104,88 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "dangote-cement-douala-economic-v2",
+    id: "dangote-cement-douala-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie MAM",
+                  "text": "Diese Galerie für zeitgenössische Kunst in Douala dient als wichtige Plattform für die Ausstellung moderner afrikanischer bildender Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        9.688337,
+                        4.037045
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "Dieses Museum in Bonanjo zeigt historische Artefakte und Modelle, die Kameruns reiche Geschichte der Seefahrt und des Seehandels dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        9.684431,
+                        4.038625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie MAM",
+                  "text": "Ez a doualai kortárs művészeti galéria kiemelkedő platformként szolgál a modern afrikai képzőművészek bemutatására.",
+                  "category": "museum",
+                  "coords": [
+                        9.688337,
+                        4.037045
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "A Bonanjóban található múzeum történelmi tárgyakat és modelleket állít ki, amelyek Kamerun gazdag haditengerészeti és tengeri kereskedelmi történelmét dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        9.684431,
+                        4.038625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie MAM",
+                  "text": "Această galerie de artă contemporană din Douala servește ca o platformă importantă pentru expunerea artiștilor vizuali africani moderni.",
+                  "category": "museum",
+                  "coords": [
+                        9.688337,
+                        4.037045
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "Situat în Bonanjo, acest muzeu expune artefacte istorice și modele care documentează bogata istorie navală și comercială maritimă a Camerunului.",
+                  "category": "museum",
+                  "coords": [
+                        9.684431,
+                        4.038625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie MAM",
+                  "text": "This contemporary art gallery in Douala serves as a prominent platform for exposing modern African visual artists.",
+                  "category": "museum",
+                  "coords": [
+                        9.688337,
+                        4.037045
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "Located in Bonanjo, this museum exhibits historical artifacts and models documenting Cameroon's rich naval and maritime trading history.",
+                  "category": "museum",
+                  "coords": [
+                        9.684431,
+                        4.038625
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-LT",
     coords: [9.6833, 4.0333],
@@ -819,7 +1233,88 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "chococam-factory-douala-economic-v2",
+    id: "chococam-factory-douala-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Olivia",
+                  "text": "Die Maison Olivia ist ein schlossähnliches architektonisches Bauwerk, das in die industrielle und wirtschaftliche Landschaft von Douala integriert ist.",
+                  "category": "castle",
+                  "coords": [
+                        9.72431,
+                        4.080307
+                  ]
+            },
+            {
+                  "name": "Carrefour Baobab",
+                  "text": "Dieser monumentale Kreuzungspunkt hat seinen Namen von den ikonischen Affenbrotbäumen, die die Region prägen.",
+                  "category": "historical",
+                  "coords": [
+                        9.74295,
+                        4.1039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Olivia",
+                  "text": "A Maison Olivia egy kastélyszerű építészeti struktúra, amely beépült Douala ipari és gazdasági tájképébe.",
+                  "category": "castle",
+                  "coords": [
+                        9.72431,
+                        4.080307
+                  ]
+            },
+            {
+                  "name": "Carrefour Baobab",
+                  "text": "Ez a monumentális kereszteződés a régiót jellemző ikonikus majomkenyérfákról kapta a nevét.",
+                  "category": "historical",
+                  "coords": [
+                        9.74295,
+                        4.1039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Olivia",
+                  "text": "Maison Olivia se remarcă ca o structură arhitecturală asemănătoare unui castel integrată în peisajul industrial și economic din Douala.",
+                  "category": "castle",
+                  "coords": [
+                        9.72431,
+                        4.080307
+                  ]
+            },
+            {
+                  "name": "Carrefour Baobab",
+                  "text": "Această intersecție monumentală își ia numele de la copacii iconici baobab care caracterizează regiunea.",
+                  "category": "historical",
+                  "coords": [
+                        9.74295,
+                        4.1039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Olivia",
+                  "text": "Maison Olivia stands as a castle-like architectural structure integrated into Douala's industrial and economic landscape.",
+                  "category": "castle",
+                  "coords": [
+                        9.72431,
+                        4.080307
+                  ]
+            },
+            {
+                  "name": "Carrefour Baobab",
+                  "text": "This monumental intersection point takes its name from the iconic baobab trees that characterize the region.",
+                  "category": "historical",
+                  "coords": [
+                        9.74295,
+                        4.1039
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-LT",
     coords: [9.7333, 4.0667],
@@ -915,7 +1410,52 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "socapalm-dibombari-economic-v2",
+    id: "socapalm-dibombari-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yabéa",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Blick über die umliegenden Palmenplantagen und die Agrarlandschaft von Dibombari.",
+                  "category": "natural",
+                  "coords": [
+                        9.716453,
+                        4.201915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yabéa",
+                  "text": "Ez a magaslati kilátó tágas kilátást nyújt a környező pálmaültetvényekre és a Dibombari mezőgazdasági tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.716453,
+                        4.201915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yabéa",
+                  "text": "Acest punct de belvedere ridicat oferă vederi extinse asupra plantațiilor de palmieri din jur și a peisajului agricol Dibombari.",
+                  "category": "natural",
+                  "coords": [
+                        9.716453,
+                        4.201915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yabéa",
+                  "text": "This elevated viewpoint offers expansive sights over the surrounding palm plantations and the Dibombari agricultural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.716453,
+                        4.201915
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-LT",
     coords: [9.6667, 4.1833],
@@ -1011,7 +1551,52 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "sabc-brewery-yaounde-economic-v2",
+    id: "sabc-brewery-yaounde-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plus vieux bâtiment en dur de Yaoundé",
+                  "text": "Dieses historische Bauwerk, das als ältestes gemauertes Gebäude der Stadt Yaoundé gilt, stammt aus der frühen Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        11.513035,
+                        3.867118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plus vieux bâtiment en dur de Yaoundé",
+                  "text": "A Yaoundé város legrégebbi falazott épületének tartott történelmi építmény a kora gyarmati időszakból származik.",
+                  "category": "landmark",
+                  "coords": [
+                        11.513035,
+                        3.867118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plus vieux bâtiment en dur de Yaoundé",
+                  "text": "Considerată cea mai veche clădire din zidărie solidă din orașul Yaoundé, această structură istorică datează din era colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        11.513035,
+                        3.867118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plus vieux bâtiment en dur de Yaoundé",
+                  "text": "Regarded as the oldest solid masonry building in the city of Yaoundé, this historical structure dates back to the early colonial era.",
+                  "category": "landmark",
+                  "coords": [
+                        11.513035,
+                        3.867118
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-CE",
     coords: [11.5167, 3.8667],
@@ -1203,7 +1788,52 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "kribi-gas-plant-economic-v2",
+    id: "kribi-gas-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "Dieses Kunstzentrum der Baleng-Gemeinde dient als kultureller Treffpunkt in der Nähe der örtlichen Gasanlagen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "Ez a Baleng közösségi művészeti központ kulturális gyülekezőhelyként szolgál a helyi gázüzem közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "Acest centru de arte comunitare Baleng servește ca spațiu de adunare culturală în apropierea instalațiilor locale de gaze.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "This Baleng community arts centre serves as a cultural gathering space near the local gas plant facilities.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-SU",
     coords: [9.9333, 2.9333],
@@ -1395,7 +2025,52 @@ export const poiExtraCameroonEconomicV2: POI[] = [
     }
   },
   {
-    id: "sabc-ndokoti-economic-v2",
+    id: "sabc-ndokoti-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Entrée Cité de la Paix",
+                  "text": "Dieser Eingang markiert die Grenze des Wohngebiets Cité de la Paix im belebten Viertel Ndokoti.",
+                  "category": "landmark",
+                  "coords": [
+                        9.727322,
+                        4.041813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Entrée Cité de la Paix",
+                  "text": "Ez a bejárat jelöli a Cité de la Paix lakóövezet határát a nyüzsgő Ndokoti negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.727322,
+                        4.041813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Entrée Cité de la Paix",
+                  "text": "Această intrare marchează granița zonei rezidențiale Cité de la Paix în cartierul aglomerat Ndokoti.",
+                  "category": "landmark",
+                  "coords": [
+                        9.727322,
+                        4.041813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Entrée Cité de la Paix",
+                  "text": "This entryway marks the boundary of the Cité de la Paix residential area in the bustling Ndokoti district.",
+                  "category": "landmark",
+                  "coords": [
+                        9.727322,
+                        4.041813
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CM-LT",
     coords: [9.7333, 4.05],

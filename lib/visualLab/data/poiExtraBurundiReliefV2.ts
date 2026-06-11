@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraBurundiReliefV2: POI[] = [
   {
-    id: "gikizi-relief-v2",
+    id: "gikizi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Südliche Nilquelle",
+                  "text": "Die südliche Nilquelle in der Gikizi-Region markiert den am weitesten südlich gelegenen anerkannten Ursprung des längsten Flusses der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.839641,
+                        -3.913009
+                  ]
+            },
+            {
+                  "name": "Pyramide au Source du Nil",
+                  "text": "Dieses pyramidenförmige Denkmal im Gikizi-Gebiet wurde errichtet, um die südlichste Quelle des Nils offiziell zu markieren.",
+                  "category": "historical",
+                  "coords": [
+                        29.838014,
+                        -3.915074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nile South Source",
+                  "text": "A Gikizi régióban található déli Nílus-forrás a világ leghosszabb folyójának legdélebbi elismert eredeteként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.839641,
+                        -3.913009
+                  ]
+            },
+            {
+                  "name": "Pyramide au Source du Nil",
+                  "text": "Ezt a piramis alakú emlékművet a Gikizi régióban emelték a Nílus legdélebbi forrásának hivatalos megjelölésére.",
+                  "category": "historical",
+                  "coords": [
+                        29.838014,
+                        -3.915074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nile South Source",
+                  "text": "Izvorul sudic al Nilului din regiunea Gikizi marchează cel mai sudic punct de origine recunoscut al celui mai lung fluviu din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        29.839641,
+                        -3.913009
+                  ]
+            },
+            {
+                  "name": "Pyramide au Source du Nil",
+                  "text": "Acest monument în formă de piramidă din zona Gikizi a fost ridicat pentru a marca oficial cel mai sudic izvor al fluviului Nil.",
+                  "category": "historical",
+                  "coords": [
+                        29.838014,
+                        -3.915074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nile South Source",
+                  "text": "The Nile South Source in the Gikizi region marks the southernmost recognized origin point of the world's longest river.",
+                  "category": "landmark",
+                  "coords": [
+                        29.839641,
+                        -3.913009
+                  ]
+            },
+            {
+                  "name": "Pyramide au Source du Nil",
+                  "text": "This pyramid-shaped monument in the Gikizi area was erected to officially mark the southernmost source of the Nile River.",
+                  "category": "historical",
+                  "coords": [
+                        29.838014,
+                        -3.915074
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BI-BR",
     coords: [29.833, -3.916],
@@ -51,7 +132,52 @@ export const poiExtraBurundiReliefV2: POI[] = [
     }
   },
   {
-    id: "musongati-relief-v2",
+    id: "musongati-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chutes de la Kagera",
+                  "text": "Die Chutes de la Kagera sind mächtige Stromschnellen, die durch das felsige Gelände in der Region Musongati stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079927,
+                        -3.830274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chutes de la Kagera",
+                  "text": "A Chutes de la Kagera hatalmas zuhatagok, amelyek a Musongati régió sziklás terepén zúdulnak keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079927,
+                        -3.830274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chutes de la Kagera",
+                  "text": "Chutes de la Kagera sunt cascade puternice care se revarsă prin terenul stâncos din regiunea Musongati.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079927,
+                        -3.830274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chutes de la Kagera",
+                  "text": "The Chutes de la Kagera are powerful rapids cascading through the rocky terrain in the Musongati region.",
+                  "category": "landmark",
+                  "coords": [
+                        30.079927,
+                        -3.830274
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BI-RT",
     coords: [30.133, -3.8],
@@ -243,7 +369,52 @@ export const poiExtraBurundiReliefV2: POI[] = [
     }
   },
   {
-    id: "karonje-relief-v2",
+    id: "karonje-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gomvyi",
+                  "text": "Gomvyi ist eine zerklüftete und steile Erhebung, die prominent über den sanften grünen Landschaften der Region Karonje aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        29.414095,
+                        -3.539025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gomvyi",
+                  "text": "A Gomvyi egy zord és meredek magaslat, amely kiemelkedően tornyosul a Karonje régió dimbes-dombos zöld tájai fölé.",
+                  "category": "natural",
+                  "coords": [
+                        29.414095,
+                        -3.539025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gomvyi",
+                  "text": "Gomvyi este o altitudine accidentată și abruptă care se înalță proeminent deasupra peisajelor verzi și ondulate ale regiunii Karonje.",
+                  "category": "natural",
+                  "coords": [
+                        29.414095,
+                        -3.539025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gomvyi",
+                  "text": "Gomvyi is a rugged and steep elevation towering prominently over the rolling green landscapes of the Karonje region.",
+                  "category": "natural",
+                  "coords": [
+                        29.414095,
+                        -3.539025
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BI-BL",
     coords: [29.41, -3.51],
@@ -771,7 +942,52 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
   },
   {
-    id: "mirwa-relief-v2",
+    id: "mirwa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunstone Beach",
+                  "text": "Sunstone Beach ist ein abgelegener, malerischer Küstenabschnitt, der für seinen warmen, reflektierenden Sand entlang des Mirwa-Reliefs bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.38006,
+                        -3.873228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunstone Beach",
+                  "text": "A Sunstone Beach egy eldugott, festői partvidék, amely a Mirwa domborzata mentén található meleg, tükröződő homokjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.38006,
+                        -3.873228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunstone Beach",
+                  "text": "Sunstone Beach este o porțiune izolată de coastă pitorească, cunoscută pentru nisipurile sale calde și reflectorizante de-a lungul reliefului Mirwa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.38006,
+                        -3.873228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunstone Beach",
+                  "text": "Sunstone Beach is a secluded stretch of scenic shoreline, known for its warm, reflective sands along the Mirwa relief.",
+                  "category": "landmark",
+                  "coords": [
+                        29.38006,
+                        -3.873228
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BI-RM",
     coords: [29.4, -3.9],
@@ -819,7 +1035,52 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
   },
   {
-    id: "kumoso-relief-v2",
+    id: "kumoso-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sesa chez JEANINE",
+                  "text": "Sesa chez JEANINE ist ein lokaler Aussichtspunkt, der weite Blicke über das hügelige Relief von Kumoso und sein landwirtschaftliches Umland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        30.384753,
+                        -3.774867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sesa chez JEANINE",
+                  "text": "A Sesa chez JEANINE egy helyi kilátó, amely széles panorámát nyújt a hullámzó Kumoso-domborzatra és a vidéki mezőgazdasági területekre.",
+                  "category": "natural",
+                  "coords": [
+                        30.384753,
+                        -3.774867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sesa chez JEANINE",
+                  "text": "Sesa chez JEANINE este un punct de belvedere local care oferă perspective ample asupra reliefului ondulat Kumoso și a terenurilor sale agricole rurale.",
+                  "category": "natural",
+                  "coords": [
+                        30.384753,
+                        -3.774867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sesa chez JEANINE",
+                  "text": "Sesa chez JEANINE is a local viewpoint offering sweeping looks over the undulating Kumoso relief and its rural farmlands.",
+                  "category": "natural",
+                  "coords": [
+                        30.384753,
+                        -3.774867
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BI-RT",
     coords: [30.4, -3.8],
@@ -867,7 +1128,52 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
   },
   {
-    id: "mugamba-relief-v2",
+    id: "mugamba-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site Historique du Traité de Kiganda",
+                  "text": "Die Site Historique du Traité de Kiganda bewahrt das historische Gelände im Mugamba-Hochland, wo 1903 der Vertrag zur Beendigung des Krieges zwischen burundischen Königen und deutschen Kolonisatoren unterzeichnet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        29.686152,
+                        -3.347067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site Historique du Traité de Kiganda",
+                  "text": "A Site Historique du Traité de Kiganda a Mugamba fennsík történelmi területét őrzi, ahol 1903-ban aláírták a burundi királyok és a német gyarmatosítók közötti háborút lezáró békeszerződést.",
+                  "category": "landmark",
+                  "coords": [
+                        29.686152,
+                        -3.347067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site Historique du Traité de Kiganda",
+                  "text": "Site Historique du Traité de Kiganda păstrează terenurile istorice din ținuturile înalte Mugamba unde a fost semnat tratatul din 1903 care a pus capăt războiului dintre regii burundezi și coloniștii germani.",
+                  "category": "landmark",
+                  "coords": [
+                        29.686152,
+                        -3.347067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site Historique du Traité de Kiganda",
+                  "text": "The Site Historique du Traité de Kiganda preserves the historical grounds in the Mugamba highlands where the 1903 treaty ending the war between Burundian kings and German colonizers was signed.",
+                  "category": "landmark",
+                  "coords": [
+                        29.686152,
+                        -3.347067
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BI-MW",
     coords: [29.7, -3.4],

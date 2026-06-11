@@ -588,7 +588,52 @@ export const mauritaniaReliefV2: POI[] = [
     image: "/poi-images/mauritania-gorgol-valley-relief-v2.webp",
   },
   {
-    id: "mauritania-assaba-hills-relief-v2",
+    id: "mauritania-assaba-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt Classée de Maraï Seder",
+                  "text": "Der Forêt Classée de Maraï Seder ist ein bewaldetes ökologisches Schutzgebiet inmitten der trockenen und hügeligen Landschaft der Assaba-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -11.4783,
+                        16.7955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt Classée de Maraï Seder",
+                  "text": "A Forêt Classée de Maraï Seder egy fás ökológiai védett terület az Assaba régió száraz és dombos tájának közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -11.4783,
+                        16.7955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt Classée de Maraï Seder",
+                  "text": "Forêt Classée de Maraï Seder este o rezervație ecologică împădurită situată în peisajul arid și deluros al regiunii Assaba.",
+                  "category": "natural",
+                  "coords": [
+                        -11.4783,
+                        16.7955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt Classée de Maraï Seder",
+                  "text": "Forêt Classée de Maraï Seder is a wooded ecological reserve protected within the arid, hilly landscape of the Assaba region.",
+                  "category": "natural",
+                  "coords": [
+                        -11.4783,
+                        16.7955
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "mountain",
     name: { de: "Assaba-Hügel", hu: "Assaba-dombság", ro: "Dealurile Assaba", en: "Assaba Hills" },

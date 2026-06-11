@@ -1532,7 +1532,124 @@ export const poiExtraComorosCitiesV2: POI[] = [
       fr: ["Lieu de ponte des tortues", "Destination écotouristique", "Conservation communautaire"],
     }, image: "/poi-images/itsamia-cities-v2.webp"},
   {
-    id: "ouallah-cities-v2",
+    id: "ouallah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Livingstone",
+                  "text": "Ein historisches Haus, das mit der regionalen Kolonialgeschichte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "Ein malerischer natürlicher Wasserfall, der in ein üppiges Flussbecken mündet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Sambadjou",
+                  "text": "Ein unberührter Sandstrand, der sich perfekt für Entspannung an der Küste eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667958,
+                        -12.348108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Livingstone",
+                  "text": "A regionális gyarmati történelemhez kötődő történelmi házikó.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "Egy festői természetes vízesés, amely egy buja folyami medencébe ömlik.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Sambadjou",
+                  "text": "Egy érintetlen homokos tengerpart, amely tökéletes a parti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667958,
+                        -12.348108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Livingstone",
+                  "text": "O casă istorică legată de istoria colonială regională.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "O cascadă naturală pitorească care se varsă într-un bazin fluvial luxuriant.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Sambadjou",
+                  "text": "O coastă cu nisip curat, perfectă pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667958,
+                        -12.348108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Livingstone",
+                  "text": "A historic house attraction linked to regional colonial history.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "A scenic natural waterfall flowing into a lush river pool.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Sambadjou",
+                  "text": "A pristine sandy coastline perfect for coastal relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667958,
+                        -12.348108
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-M",
     coords: [43.6667, -12.35],
@@ -2680,7 +2797,52 @@ export const poiExtraComorosCitiesV2: POI[] = [
     },
   },
   {
-    id: "chindini-cities-v2",
+    id: "chindini-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Chindini",
+                  "text": "Dieser idyllische Sandstrand bietet ruhige Küstengewässer und eine entspannte Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        43.486752,
+                        -11.926969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Chindini",
+                  "text": "Ez az idilli homokos strand nyugodt tengerparti vizeket és pihentető légkört kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        43.486752,
+                        -11.926969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Chindini",
+                  "text": "Această plajă idilică cu nisip oferă ape de coastă calme și o atmosferă relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        43.486752,
+                        -11.926969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Chindini",
+                  "text": "This idyllic sandy beach offers calm coastal waters and a relaxing atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        43.486752,
+                        -11.926969
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.4667, -11.9167],

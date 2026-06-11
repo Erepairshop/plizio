@@ -18898,7 +18898,7 @@ export const poiExtraHrV2: POI[] = [
             },
             {
                   "name": "Ljetnikovac Vice Stjepovića-Skočibuhe",
-                  "text": "Das Herrenhaus Vice Stjepovića-Skočibuhe ist ein historisches Gebäude in Trsteno.",
+                  "text": "Das Ljetnikovac Vice Stjepovića-Skočibuhe, eine Festung auf der Insel Šipan, wurde 1563 für die Familie Skočibuha erbaut.",
                   "category": "fortress",
                   "coords": [
                         17.908739,
@@ -18977,7 +18977,7 @@ export const poiExtraHrV2: POI[] = [
             },
             {
                   "name": "Ljetnikovac Vice Stjepovića-Skočibuhe",
-                  "text": "Vice Stjepovića-Skočibuhe nyári kastélya egy történelmi emlékhely Trstenóban.",
+                  "text": "A Vice Stjepovića-Skočibuhe nyári lak, egy erőd Šipan szigetén, 1563-ban épült a Skočibuha család számára.",
                   "category": "fortress",
                   "coords": [
                         17.908739,
@@ -19056,7 +19056,7 @@ export const poiExtraHrV2: POI[] = [
             },
             {
                   "name": "Ljetnikovac Vice Stjepovića-Skočibuhe",
-                  "text": "Conacul Vice Stjepovića-Skočibuhe este o reședință istorică situată în Trsteno.",
+                  "text": "Ljetnikovac Vice Stjepovića-Skočibuhe, o fortăreață pe insula Šipan, a fost construită în 1563 pentru familia Skočibuha.",
                   "category": "fortress",
                   "coords": [
                         17.908739,
@@ -19135,7 +19135,7 @@ export const poiExtraHrV2: POI[] = [
             },
             {
                   "name": "Ljetnikovac Vice Stjepovića-Skočibuhe",
-                  "text": "The Vice Stjepovića-Skočibuhe summer residence is a historical landmark in Trsteno.",
+                  "text": "Ljetnikovac Vice Stjepovića-Skočibuhe, a fortress on the island of Šipan, was built in 1563 for the Skočibuha family.",
                   "category": "fortress",
                   "coords": [
                         17.908739,

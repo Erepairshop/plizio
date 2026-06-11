@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraKenyaCitiesV2: POI[] = [
   {
-    id: "nairobi-cities-v2",
+    id: "nairobi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nairobi Railway Museum",
+                  "text": "Dieses Museum zeigt historische Lokomotiven und Waggons, die den Bau der ostafrikanischen Eisenbahn dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        36.822486,
+                        -1.293673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nairobi Railway Museum",
+                  "text": "Ez a múzeum történelmi mozdonyokat és vagonokat mutat be, amelyek a kelet-afrikai vasút építését dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        36.822486,
+                        -1.293673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nairobi Railway Museum",
+                  "text": "Acest muzeu expune locomotive și vagoane istorice care documentează construcția căii ferate din Africa de Est.",
+                  "category": "museum",
+                  "coords": [
+                        36.822486,
+                        -1.293673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nairobi Railway Museum",
+                  "text": "This museum displays historical locomotives and carriages documenting the construction of the East African railway.",
+                  "category": "museum",
+                  "coords": [
+                        36.822486,
+                        -1.293673
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "KE-47",
     coords: [36.8219, -1.2921],
@@ -134,7 +179,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Makupa Causeway Bridge",
-                  "text": "Die Makupa Causeway Bridge ist eine Brücke, die Mombasa Island mit dem Festland verbindet.",
+                  "text": "2022 eingeweihte Makupa Causeway Bridge in Mombasa, verbindet die Insel mit dem Festland.",
                   "category": "landmark",
                   "coords": [
                         39.651584,
@@ -217,7 +262,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Makupa Causeway Bridge",
-                  "text": "A Makupa Causeway Bridge egy híd, amely a Mombasa-szigetet köti össze a szárazfölddel.",
+                  "text": "A 2022-ben átadott Makupa gátút híd Mombasában, összeköti a szigetet a szárazfölddel.",
                   "category": "landmark",
                   "coords": [
                         39.651584,
@@ -300,7 +345,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Makupa Causeway Bridge",
-                  "text": "Makupa Causeway Bridge este un pod care leagă Insula Mombasa de continent.",
+                  "text": "Podul Makupa Causeway din Mombasa, inaugurat în 2022, leagă insula de continent.",
                   "category": "landmark",
                   "coords": [
                         39.651584,
@@ -383,7 +428,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Makupa Causeway Bridge",
-                  "text": "Makupa Causeway Bridge is a bridge linking Mombasa Island to the mainland.",
+                  "text": "Makupa Causeway Bridge in Mombasa, inaugurated in 2022, linking the island to the mainland.",
                   "category": "landmark",
                   "coords": [
                         39.651584,
@@ -593,7 +638,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Connue à l'origine sous le nom de Port Florence.", "C'est le centre commercial de l'ouest du Kenya."],
     }, image: "/poi-images/kisumu-cities-v2.webp"},
   {
-    id: "nakuru-cities-v2",
+    id: "nakuru-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "KFA Rounda About",
+                  "text": "Der KFA Rounda About dient als markantes monumentales Wahrzeichen im städtischen Straßenbild von Nakuru.",
+                  "category": "historical",
+                  "coords": [
+                        36.06323,
+                        -0.286232
+                  ]
+            },
+            {
+                  "name": "Players Theatre",
+                  "text": "Das Players Theatre ist ein lokaler Veranstaltungsort für darstellende Künste, in dem kulturelle Produktionen im Herzen von Nakuru stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        36.067092,
+                        -0.288567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KFA Rounda About",
+                  "text": "A KFA körforgalom kiemelkedő monumentális nevezetesség Nakuru városképében.",
+                  "category": "historical",
+                  "coords": [
+                        36.06323,
+                        -0.286232
+                  ]
+            },
+            {
+                  "name": "Players Theatre",
+                  "text": "A Players Theatre egy helyi előadó-művészeti helyszín, amely kulturális produkcióknak ad otthont Nakuru szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.067092,
+                        -0.288567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KFA Rounda About",
+                  "text": "Sensul giratoriu KFA servește drept punct de reper monumental proeminent în peisajul stradal urban din Nakuru.",
+                  "category": "historical",
+                  "coords": [
+                        36.06323,
+                        -0.286232
+                  ]
+            },
+            {
+                  "name": "Players Theatre",
+                  "text": "Players Theatre este o locație locală de arte spectacolului care găzduiește producții culturale în inima orașului Nakuru.",
+                  "category": "cultural",
+                  "coords": [
+                        36.067092,
+                        -0.288567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KFA Rounda About",
+                  "text": "The KFA Rounda About serves as a prominent monumental landmark within the urban streetscape of Nakuru.",
+                  "category": "historical",
+                  "coords": [
+                        36.06323,
+                        -0.286232
+                  ]
+            },
+            {
+                  "name": "Players Theatre",
+                  "text": "Players Theatre is a local performing arts venue hosting cultural productions in the heart of Nakuru.",
+                  "category": "cultural",
+                  "coords": [
+                        36.067092,
+                        -0.288567
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-32",
     coords: [36.08, -0.3031],
@@ -1211,7 +1337,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Siège administratif du comté de Kakamega.", "La forêt est la seule forêt tropicale humide du Kenya."],
     }, image: "/poi-images/kakamega-cities-v2.webp"},
   {
-    id: "nyeri-cities-v2",
+    id: "nyeri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "NELSON MANDELA AND ALBERTINA SISULU",
+                  "text": "Ein Gedenkmonument, das dem Erbe von Nelson Mandela und Albertina Sisulu in Nyeri gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.961247,
+                        -0.396912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NELSON MANDELA AND ALBERTINA SISULU",
+                  "text": "Nelson Mandela és Albertina Sisulu örökségének szentelt emlékmű Nyeri városában.",
+                  "category": "historical",
+                  "coords": [
+                        36.961247,
+                        -0.396912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NELSON MANDELA AND ALBERTINA SISULU",
+                  "text": "Un monument comemorativ dedicat moștenirii lui Nelson Mandela și a Albertinei Sisulu în Nyeri.",
+                  "category": "historical",
+                  "coords": [
+                        36.961247,
+                        -0.396912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NELSON MANDELA AND ALBERTINA SISULU",
+                  "text": "A commemorative monument dedicated to the legacies of Nelson Mandela and Albertina Sisulu in Nyeri.",
+                  "category": "historical",
+                  "coords": [
+                        36.961247,
+                        -0.396912
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-19",
     coords: [36.9452, -0.4168],
@@ -1271,7 +1442,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Abrite la tombe de Lord Baden-Powell, fondateur du scoutisme.", "Située au pied du mont Kenya."],
     }, image: "/poi-images/nyeri-cities-v2.webp"},
   {
-    id: "machakos-cities-v2",
+    id: "machakos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catholic Diocese Of Machakos",
+                  "text": "Dieses zentrale katholische Gotteshaus dient als geistliches und administratives Zentrum der lokalen Diözese.",
+                  "category": "religious",
+                  "coords": [
+                        37.265563,
+                        -1.522043
+                  ]
+            },
+            {
+                  "name": "Mulu Mutisya Gardens",
+                  "text": "Diese angelegte Gartenanlage enthält ein Denkmal zu Ehren einer prominenten regionalen politischen Persönlichkeit.",
+                  "category": "historical",
+                  "coords": [
+                        37.268287,
+                        -1.519298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catholic Diocese Of Machakos",
+                  "text": "Ez a központi katolikus istentiszteleti hely a helyi egyházmegye spirituális és közigazgatási központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        37.265563,
+                        -1.522043
+                  ]
+            },
+            {
+                  "name": "Mulu Mutisya Gardens",
+                  "text": "Ez a parkosított kert egy prominens regionális politikai személyiségnek emléket állító emlékművet tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        37.268287,
+                        -1.519298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catholic Diocese Of Machakos",
+                  "text": "Acest lăcaș de cult catolic central servește drept centru spiritual și administrativ pentru dieceza locală.",
+                  "category": "religious",
+                  "coords": [
+                        37.265563,
+                        -1.522043
+                  ]
+            },
+            {
+                  "name": "Mulu Mutisya Gardens",
+                  "text": "Acest spațiu verde amenajat conține un monument care onorează o proeminentă figură politică regională.",
+                  "category": "historical",
+                  "coords": [
+                        37.268287,
+                        -1.519298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catholic Diocese Of Machakos",
+                  "text": "This central Catholic place of worship serves as a spiritual and administrative hub for the local diocese.",
+                  "category": "religious",
+                  "coords": [
+                        37.265563,
+                        -1.522043
+                  ]
+            },
+            {
+                  "name": "Mulu Mutisya Gardens",
+                  "text": "This landscaped garden space contains a monument honoring a prominent regional political figure.",
+                  "category": "historical",
+                  "coords": [
+                        37.268287,
+                        -1.519298
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-16",
     coords: [37.2634, -1.5177],
@@ -1436,7 +1688,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Un centre agricole et commercial majeur.", "Connue pour sa production à grande échelle de Miraa (Khat)."],
     }, image: "/poi-images/meru-cities-v2.webp"},
   {
-    id: "embu-cities-v2",
+    id: "embu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kenya Wildlife Service (KWS)",
+                  "text": "Dieses geschützte Naturschutzgebiet wird aktiv bewirtschaftet, um die vielfältige Tierwelt der Region zu erhalten.",
+                  "category": "natural",
+                  "coords": [
+                        37.454059,
+                        -0.531247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kenya Wildlife Service (KWS)",
+                  "text": "Ezt a védett természetvédelmi területet a régió változatos vadvilágának megőrzése érdekében kezelik.",
+                  "category": "natural",
+                  "coords": [
+                        37.454059,
+                        -0.531247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kenya Wildlife Service (KWS)",
+                  "text": "Această arie naturală protejată este gestionată activ pentru a conserva fauna diversă a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        37.454059,
+                        -0.531247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kenya Wildlife Service (KWS)",
+                  "text": "This protected nature reserve area is actively managed to conserve the region's diverse wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        37.454059,
+                        -0.531247
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-14",
     coords: [37.4527, -0.5311],
@@ -2352,7 +2649,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Abrite des vestiges architecturaux historiques de la Seconde Guerre mondiale.", "Le commerce du bétail est le pilier de l'économie."],
     }, image: "/poi-images/wajir-cities-v2.webp"},
   {
-    id: "narok-cities-v2",
+    id: "narok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Narok Museum",
+                  "text": "Eine kulturelle Einrichtung in Narok mit lebendigen Ausstellungen über das Erbe, die Kunst und den traditionellen Lebensstil der Massai.",
+                  "category": "museum",
+                  "coords": [
+                        35.874381,
+                        -1.089504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narok Museum",
+                  "text": "Kulturális intézmény Narokban, amely a maszáj nép örökségét, művészetét és hagyományos életmódját bemutató élénk kiállításokkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        35.874381,
+                        -1.089504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narok Museum",
+                  "text": "O instituție culturală din Narok, care prezintă expoziții vibrante despre moștenirea, arta și stilul de viață tradițional al poporului Maasai.",
+                  "category": "museum",
+                  "coords": [
+                        35.874381,
+                        -1.089504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Narok Museum",
+                  "text": "A cultural institution in Narok featuring vibrant exhibits on the heritage, art, and traditional lifestyle of the Maasai people.",
+                  "category": "museum",
+                  "coords": [
+                        35.874381,
+                        -1.089504
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-33",
     coords: [35.86, -1.0833],
@@ -3611,7 +3953,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Siège de l'université de Chuka.", "Connue pour ses marchés locaux animés vendant des produits frais."],
     }, image: "/poi-images/chuka-cities-v2.webp"},
   {
-    id: "kiambu-cities-v2",
+    id: "kiambu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karura Nursery",
+                  "text": "Dieses bewaldete Naturschutzgebiet fungiert als grünes Refugium, das der Aufzucht einheimischer Bäume gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.836511,
+                        -1.177382
+                  ]
+            },
+            {
+                  "name": "Paradise lost",
+                  "text": "Diese beliebte Naturattraktion bietet malerische Pfade und eine Reihe alter Höhlen, die in einer Kaffeeplantage verborgen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825963,
+                        -1.187889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karura Nursery",
+                  "text": "Ez az erdős természetvédelmi terület egy zöldellő szentély, amely őshonos fák termesztésének van szentelve.",
+                  "category": "natural",
+                  "coords": [
+                        36.836511,
+                        -1.177382
+                  ]
+            },
+            {
+                  "name": "Paradise lost",
+                  "text": "Ez a népszerű természeti látványosság festői ösvényeket és egy kávéültetvényen megbúvó ősi barlangrendszert kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825963,
+                        -1.187889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karura Nursery",
+                  "text": "Această rezervație naturală împădurită funcționează ca un sanctuar verde dedicat cultivării arborilor nativi.",
+                  "category": "natural",
+                  "coords": [
+                        36.836511,
+                        -1.177382
+                  ]
+            },
+            {
+                  "name": "Paradise lost",
+                  "text": "Această atracție naturală populară prezintă trasee pitorești și o serie de peșteri antice ascunse într-o plantație de cafea.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825963,
+                        -1.187889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karura Nursery",
+                  "text": "This forested nature reserve functions as a green sanctuary dedicated to cultivating native trees.",
+                  "category": "natural",
+                  "coords": [
+                        36.836511,
+                        -1.177382
+                  ]
+            },
+            {
+                  "name": "Paradise lost",
+                  "text": "This popular natural attraction features scenic trails and a series of ancient caves hidden in a coffee estate.",
+                  "category": "landmark",
+                  "coords": [
+                        36.825963,
+                        -1.187889
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-22",
     coords: [36.83, -1.1667],
@@ -4551,7 +4974,124 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Les collines de Ngong offrent des sentiers de randonnée pittoresques.", "Des éoliennes sur les collines produisent de l'électricité."],
     }, image: "/poi-images/ngong-cities-v2.webp"},
   {
-    id: "kisii-cities-v2",
+    id: "kisii-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyamaches'",
+                  "text": "Nyamaches' ist ein lokaler Aussichtspunkt, der weite Ausblicke über die städtische Landschaft von Kisii bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.763875,
+                        -0.695285
+                  ]
+            },
+            {
+                  "name": "Nyamaches' home",
+                  "text": "Das Nyamaches' home dient als ein kulturell bedeutender Aussichtspunkt innerhalb der Region Kisii.",
+                  "category": "natural",
+                  "coords": [
+                        34.763878,
+                        -0.696733
+                  ]
+            },
+            {
+                  "name": "Nyanchwa",
+                  "text": "Nyanchwa ist eine unverwechselbare lokale Attraktion in der geschäftigen Umgebung von Kisii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.751763,
+                        -0.680666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyamaches'",
+                  "text": "A Nyamaches' egy helyi kilátó, amely széles kilátást nyújt Kisii városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        34.763875,
+                        -0.695285
+                  ]
+            },
+            {
+                  "name": "Nyamaches' home",
+                  "text": "A Nyamaches' home kulturálisan jelentős kilátóként szolgál a Kisii régióban.",
+                  "category": "natural",
+                  "coords": [
+                        34.763878,
+                        -0.696733
+                  ]
+            },
+            {
+                  "name": "Nyanchwa",
+                  "text": "Nyanchwa egy jellegzetes helyi látványosság Kisii nyüzsgő környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.751763,
+                        -0.680666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyamaches'",
+                  "text": "Nyamaches' este un punct de belvedere local care oferă priveliști largi asupra peisajului urban din Kisii.",
+                  "category": "natural",
+                  "coords": [
+                        34.763875,
+                        -0.695285
+                  ]
+            },
+            {
+                  "name": "Nyamaches' home",
+                  "text": "Nyamaches' home servește ca un punct de belvedere cu semnificație culturală în regiunea Kisii.",
+                  "category": "natural",
+                  "coords": [
+                        34.763878,
+                        -0.696733
+                  ]
+            },
+            {
+                  "name": "Nyanchwa",
+                  "text": "Nyanchwa este o atracție locală distinctivă situată în mediul plin de viață din Kisii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.751763,
+                        -0.680666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyamaches'",
+                  "text": "Nyamaches' is a local viewpoint providing sweeping vistas across the urban landscape of Kisii.",
+                  "category": "natural",
+                  "coords": [
+                        34.763875,
+                        -0.695285
+                  ]
+            },
+            {
+                  "name": "Nyamaches' home",
+                  "text": "Nyamaches' home serves as a culturally significant viewpoint within the Kisii region.",
+                  "category": "natural",
+                  "coords": [
+                        34.763878,
+                        -0.696733
+                  ]
+            },
+            {
+                  "name": "Nyanchwa",
+                  "text": "Nyanchwa is a distinctive local attraction situated in the bustling environment of Kisii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.751763,
+                        -0.680666
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-45",
     coords: [34.7733, -0.6811],
@@ -4912,7 +5452,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     }
   },
   {
-    id: "mariakani-cities-v2",
+    id: "mariakani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mariakani Market",
+                  "text": "Ein geschäftiger Freiluftmarkt, auf dem lokale Händler frische Produkte und traditionelle Waren verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.476113,
+                        -3.861226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mariakani Market",
+                  "text": "Forgalmas szabadtéri piac, ahol a helyi árusok friss terményeket és hagyományos árukat kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.476113,
+                        -3.861226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mariakani Market",
+                  "text": "O piață în aer liber plină de viață, unde comercianții locali vând produse proaspete și bunuri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.476113,
+                        -3.861226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mariakani Market",
+                  "text": "A bustling open-air market where local traders sell fresh produce and traditional goods.",
+                  "category": "landmark",
+                  "coords": [
+                        39.476113,
+                        -3.861226
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-03",
     coords: [39.4678, -3.8642],

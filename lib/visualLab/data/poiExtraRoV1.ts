@@ -12312,7 +12312,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Biserica Sfânta Treime",
-                  "text": "Eine historische orthodoxe Kirche und Einsiedelei in Comarnic.",
+                  "text": "Orthodoxe Kirche (Sfânta Treime), erbaut 1661 in Comarnic.",
                   "category": "religious",
                   "coords": [
                         25.618198,
@@ -12343,7 +12343,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Biserica Sfânta Treime",
-                  "text": "Történelmi ortodox templom és remeteség Comarnic településen.",
+                  "text": "Ortodox templom (Sfânta Treime), 1661-ben épült Comarnicban.",
                   "category": "religious",
                   "coords": [
                         25.618198,
@@ -12374,7 +12374,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Biserica Sfânta Treime",
-                  "text": "O biserică ortodoxă istorică și schit situat în Comarnic.",
+                  "text": "Biserica ortodoxă Sfânta Treime, construită în 1661 în Comarnic.",
                   "category": "religious",
                   "coords": [
                         25.618198,
@@ -12405,7 +12405,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Biserica Sfânta Treime",
-                  "text": "A historical Orthodox church and hermitage located in Comarnic.",
+                  "text": "Orthodox church of the Holy Trinity built in 1661 in Comarnic.",
                   "category": "religious",
                   "coords": [
                         25.618198,
@@ -22629,7 +22629,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Castelul Kendeffy",
-                  "text": "Ein im neugotischen Stil erbautes Schloss in der Nähe von Hațeg.",
+                  "text": "Denkmalgeschütztes Schloss Kendeffy in Hațeg.",
                   "category": "landmark",
                   "coords": [
                         22.96674,
@@ -22705,7 +22705,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Castelul Kendeffy",
-                  "text": "Hátszeg közelében található, neogótikus stílusban épült kastély.",
+                  "text": "Műemlék Kendeffy-kastély Hațegban.",
                   "category": "landmark",
                   "coords": [
                         22.96674,
@@ -22781,7 +22781,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Castelul Kendeffy",
-                  "text": "Un castel construit în stil neogotic, situat în apropiere de Hațeg.",
+                  "text": "Castelul Kendeffy, monument istoric în Hațeg.",
                   "category": "landmark",
                   "coords": [
                         22.96674,
@@ -22857,7 +22857,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Castelul Kendeffy",
-                  "text": "A castle built in Neo-Gothic style located near Hațeg.",
+                  "text": "Heritage-listed Kendeffy Castle in Hațeg.",
                   "category": "landmark",
                   "coords": [
                         22.96674,
@@ -32678,7 +32678,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Mănăstirea armeană „Hagigadar”",
-                  "text": "Ein armenisches Kloster auf einem Hügel in der Nähe von Suceava.",
+                  "text": "Armenisches Kloster Hagigadar, erbaut 1512 in Sfântu Ilie.",
                   "category": "religious",
                   "coords": [
                         26.232279,
@@ -32725,7 +32725,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Mănăstirea armeană „Hagigadar”",
-                  "text": "Örmény kolostor egy dombon Szucsáva közelében.",
+                  "text": "Örmény Hagigadar-kolostor, 1512-ben épült Sfântu Iliében.",
                   "category": "religious",
                   "coords": [
                         26.232279,
@@ -32772,7 +32772,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Mănăstirea Armeană \"Hagigadar\"",
-                  "text": "O mănăstire armenească situată pe un deal lângă Suceava.",
+                  "text": "Mănăstirea armeană Hagigadar, construită în 1512 la Sfântu Ilie.",
                   "category": "religious",
                   "coords": [
                         26.232279,
@@ -32819,7 +32819,7 @@ export const poiExtraRoV1: POI[] = [
             },
             {
                   "name": "Hagigadar Monastery",
-                  "text": "An Armenian monastery located on a hill near Suceava.",
+                  "text": "Armenian Hagigadar Monastery built in 1512 in Sfântu Ilie.",
                   "category": "religious",
                   "coords": [
                         26.232279,

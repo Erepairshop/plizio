@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraComorosNatureV2: POI[] = [
   {
-    id: "mount-karthala-nature-v2",
+    id: "mount-karthala-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baobab",
+                  "text": "Ein massiver, uralter Affenbrotbaum, der als natürliches Wahrzeichen an den Hängen des Mount Karthala steht.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            },
+            {
+                  "name": "Foyer ACET",
+                  "text": "Ein lokales Kunstzentrum am Mount Karthala, das künstlerische Traditionen und Gemeindeveranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435423,
+                        -11.794386
+                  ]
+            },
+            {
+                  "name": "Point de vue caldera nord Karthala",
+                  "text": "Ein hochgelegener Aussichtspunkt mit Panoramablick in den nördlichen Vulkankrater des Mount Karthala.",
+                  "category": "natural",
+                  "coords": [
+                        43.354044,
+                        -11.755261
+                  ]
+            },
+            {
+                  "name": "Point de vue sur le cratère du Karthala",
+                  "text": "Ein malerischer Aussichtspunkt, der dramatische Blicke in die riesige, aktive Caldera des Mount Karthala bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.359041,
+                        -11.762932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baobab",
+                  "text": "Egy hatalmas, ősi majomkenyérfa, amely természetes nevezetességként áll a Karthala-hegy lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            },
+            {
+                  "name": "Foyer ACET",
+                  "text": "A Karthala-hegy melletti helyi művészeti központ, amely a művészeti hagyományokat és közösségi eseményeket támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435423,
+                        -11.794386
+                  ]
+            },
+            {
+                  "name": "Point de vue caldera nord Karthala",
+                  "text": "Magasan fekvő kilátó, amely panorámás kilátást nyújt a Karthala-hegy északi vulkáni kráterére.",
+                  "category": "natural",
+                  "coords": [
+                        43.354044,
+                        -11.755261
+                  ]
+            },
+            {
+                  "name": "Point de vue sur le cratère du Karthala",
+                  "text": "Festői kilátó, amely drámai kilátást nyújt a Karthala-hegy hatalmas, aktív kalderájára.",
+                  "category": "natural",
+                  "coords": [
+                        43.359041,
+                        -11.762932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baobab",
+                  "text": "Un baobab masiv și străvechi, care stă ca un punct de reper natural pe versanții Muntelui Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            },
+            {
+                  "name": "Foyer ACET",
+                  "text": "Un centru de arte local lângă Muntele Karthala, care promovează tradițiile artistice și evenimentele comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435423,
+                        -11.794386
+                  ]
+            },
+            {
+                  "name": "Point de vue caldera nord Karthala",
+                  "text": "Un punct de belvedere la altitudine mare, oferind vederi panoramice spre craterul vulcanic nordic al Muntelui Karthala.",
+                  "category": "natural",
+                  "coords": [
+                        43.354044,
+                        -11.755261
+                  ]
+            },
+            {
+                  "name": "Point de vue sur le cratère du Karthala",
+                  "text": "Un punct de observare pitoresc ce oferă priveliști dramatice asupra uriașei caldere active a Muntelui Karthala.",
+                  "category": "natural",
+                  "coords": [
+                        43.359041,
+                        -11.762932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baobab",
+                  "text": "A massive, ancient baobab tree standing as a prominent natural landmark on the slopes of Mount Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            },
+            {
+                  "name": "Foyer ACET",
+                  "text": "A local arts centre near Mount Karthala fostering artistic traditions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435423,
+                        -11.794386
+                  ]
+            },
+            {
+                  "name": "Karthala Northern Crater Viewpoint",
+                  "text": "A high-altitude viewpoint offering panoramic views into the northern volcanic crater of Mount Karthala.",
+                  "category": "natural",
+                  "coords": [
+                        43.354044,
+                        -11.755261
+                  ]
+            },
+            {
+                  "name": "Karthala Crater Viewpoint",
+                  "text": "A scenic overlook providing dramatic views of the vast, active volcanic caldera of Mount Karthala.",
+                  "category": "natural",
+                  "coords": [
+                        43.359041,
+                        -11.762932
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KM-G",
     coords: [43.3553, -11.7553],
@@ -1015,7 +1168,52 @@ export const poiExtraComorosNatureV2: POI[] = [
     },
   },
   {
-    id: "river-padzani-nature-v2",
+    id: "river-padzani-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Chomoni",
+                  "text": "Dieser Sandstrand an der Küste ist ein beliebtes Ziel zum Schwimmen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        43.395485,
+                        -11.645274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Chomoni",
+                  "text": "Ez a tengerparti homokos strand népszerű célpont az úszáshoz és a pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        43.395485,
+                        -11.645274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Chomoni",
+                  "text": "Această plajă de coastă cu nisip este o destinație populară pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        43.395485,
+                        -11.645274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chomoni Beach",
+                  "text": "This sandy coastal beach is a popular destination for swimming and relaxing.",
+                  "category": "recreational",
+                  "coords": [
+                        43.395485,
+                        -11.645274
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KM-G",
     coords: [43.3167, -11.6667],
@@ -1059,7 +1257,52 @@ export const poiExtraComorosNatureV2: POI[] = [
     },
   },
   {
-    id: "coelacanth-marine-area-nature-v2",
+    id: "coelacanth-marine-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Mbachile",
+                  "text": "Plage de Mbachile ist ein sandiges Küstengebiet in der Nähe der geschützten Quastenflosser-Meereszone.",
+                  "category": "recreational",
+                  "coords": [
+                        43.24064,
+                        -11.759623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Mbachile",
+                  "text": "A Plage de Mbachile egy homokos part menti terület, amely a védett bojtosúszós tengeri zóna közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        43.24064,
+                        -11.759623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Mbachile",
+                  "text": "Plage de Mbachile este o zonă de coastă cu nisip situată în apropierea zonei marine protejate a celacantului.",
+                  "category": "recreational",
+                  "coords": [
+                        43.24064,
+                        -11.759623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Mbachile",
+                  "text": "Plage de Mbachile is a coastal sandy area located near the protected coelacanth marine zone.",
+                  "category": "recreational",
+                  "coords": [
+                        43.24064,
+                        -11.759623
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "KM-G",
     coords: [43.25, -11.75],

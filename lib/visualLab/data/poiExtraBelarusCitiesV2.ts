@@ -79,7 +79,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Dom-muzei I-ga zʼezda RSDRP",
-                  "text": "Dieses Hausmuseum in Minsk bewahrt den Ort des ersten Kongresses der Sozialdemokratischen Arbeiterpartei Russlands.",
+                  "text": "Museum in Minsk über den ersten Parteitag der SDAPR, erbaut Ende des 19. Jahrhunderts.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -97,7 +97,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny mastatski muzei",
-                  "text": "Das Nationale Kunstmuseum in Minsk ist die wichtigste Institution des Landes für bildende Künste.",
+                  "text": "Größtes Kunstmuseum in Belarus, Minsk, eröffnet 1957.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -160,7 +160,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Rathaus",
-                  "text": "Das Rathaus in Minsk ist ein historisches Gebäude, das die Selbstverwaltung der Stadt repräsentiert.",
+                  "text": "Rathaus in Minsk, 2003 nach dem Original des 18. Jahrhunderts wiederaufgebaut.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -214,7 +214,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Nationales Akademisches Großes Opern- und Balletttheater der Republik Weißrussland",
-                  "text": "Dieses majestätische Theater in Minsk ist die wichtigste nationale Bühne für Opern- und Ballettaufführungen.",
+                  "text": "Nationales Akademisches Großes Opern- und Balletttheater, 1935–1937 in Minsk erbaut.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -259,7 +259,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Alexander-Newski-Kirche",
-                  "text": "Die Alexander-Newski-Kirche ist eine bemerkenswerte Kultstätte in Minsk.",
+                  "text": "Alexander-Newski-Kirche in Minsk, 1898 erbaut.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -268,7 +268,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
-                  "text": "Die Dreifaltigkeitskirche, auch bekannt als St.-Rochus-Kirche, ist eine historische Kirche in Minsk.",
+                  "text": "1864 im neugotischen Stil auf dem Goldenen Hügel in Minsk erbaute Kirche (St. Rochus).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -340,7 +340,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Nationales Akademisches Janka-Kupala-Theater",
-                  "text": "Das nationale akademische Janka-Kupala-Theater ist eine bedeutende kulturelle Sehenswürdigkeit in Minsk.",
+                  "text": "Janka-Kupala-Nationaltheater in Minsk, 1890 erbaut.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -504,7 +504,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Dom-muzei I-ga zʼezda RSDRP",
-                  "text": "Ez a minszki házmúzeum az Oroszországi Szociáldemokrata Munkáspárt első kongresszusának helyszínét őrzi.",
+                  "text": "Múzeum Minszkben az OSZDMP első kongresszusáról, épült a 19. század végén.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -522,7 +522,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny mastatski muzei",
-                  "text": "A Nemzeti Művészeti Múzeum Minszkben az ország legkiemelkedőbb képzőművészeti intézménye.",
+                  "text": "Fehéroroszország legnagyobb művészeti múzeuma Minszkben, 1957-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -585,7 +585,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Ratusha",
-                  "text": "A minszki városháza a város önkormányzatát jelképező történelmi épület.",
+                  "text": "Minszki Városháza, a 18. századi eredeti alapján 2003-ban újjáépítve.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -639,7 +639,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus",
-                  "text": "Ez a fenséges minszki színház az ország elsőszámú színpada az opera- és balettelőadások számára.",
+                  "text": "Nemzeti Akadémiai Nagyszínház Opera és Balett, 1935–1937-ben épült Minszkben.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -684,7 +684,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Tsarkva Alyaksandra Neuskaga",
-                  "text": "Az Alekszandr Nyevszkij-templom egy jelentős istentiszteleti hely Minszkben.",
+                  "text": "Alexandr Nyevszkij-templom Minszkben, 1898-ban épült.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -693,7 +693,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
-                  "text": "A Szentháromság-templom, más néven Szent Rókus-templom egy történelmi templom Minszkben.",
+                  "text": "1864-ben épült neogótikus templom Minszk Aranyhegyén (Szent Rókus-templom).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -765,7 +765,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny teatr imya Yanki Kupaly",
-                  "text": "A Janka Kupala Nemzeti Akadémiai Színház egy fontos kulturális látványosság Minszkben.",
+                  "text": "Janka Kupala Nemzeti Színház Minszkben, 1890-ben épült.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -929,7 +929,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Dom-muzei I-ga zʼezda RSDRP",
-                  "text": "Acest muzeu din Minsk conservă locul primului congres al Partidului Social Democrat al Muncii din Rusia.",
+                  "text": "Muzeu în Minsk despre primul congres al Partidului Muncitoresc Social-Democrat Rus, construit la sfârșitul secolului al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -947,7 +947,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny mastatski muzei",
-                  "text": "Muzeul Național de Artă din Minsk este instituția preeminentă a țării pentru arte plastice.",
+                  "text": "Cel mai mare muzeu de artă din Belarus, Minsk, deschis în 1957.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -1010,7 +1010,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Ratusha",
-                  "text": "Primăria din Minsk este o clădire istorică care reprezintă autoguvernarea orașului.",
+                  "text": "Primăria din Minsk, reconstruită în 2003 după proiectul original din secolul al XVIII-lea.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -1064,7 +1064,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus",
-                  "text": "Acest teatru maiestuos din Minsk este scena națională principală pentru spectacole de operă și balet.",
+                  "text": "Teatrul Național Academic Mare de Operă și Balet, construit între 1935 și 1937 la Minsk.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -1109,7 +1109,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Tsarkva Alyaksandra Neuskaga",
-                  "text": "Biserica Alexandru Nevski este un lăcaș de cult notabil situat în Minsk.",
+                  "text": "Biserica Sfântul Alexandru Nevski din Minsk, construită în 1898.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -1118,7 +1118,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
-                  "text": "Biserica Sfintei Treimi, cunoscută și sub numele de Biserica Sf. Roch, este o biserică istorică din Minsk.",
+                  "text": "Biserică în stil neogotic construită în 1864 pe Dealul de Aur din Minsk (Biserica Sf. Roche).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -1190,7 +1190,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny teatr imya Yanki Kupaly",
-                  "text": "Teatrul Național Academic Yanka Kupala este o atracție culturală majoră situată în Minsk.",
+                  "text": "Teatrul Național Janka Kupala din Minsk, construit în 1890.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -1354,7 +1354,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "House Museum of First Congress of the Russian Social Democratic Labour Party",
-                  "text": "This house museum in Minsk preserves the site of the first congress of the Russian Social Democratic Labour Party.",
+                  "text": "Museum in Minsk about the first congress of the Russian Social Democratic Labour Party, built in the late 19th century.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -1372,7 +1372,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "National Art Museum",
-                  "text": "The National Art Museum in Minsk is the country's preeminent institution for fine arts.",
+                  "text": "Largest art museum in Belarus, Minsk, opened in 1957.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -1435,7 +1435,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "City Hall",
-                  "text": "The City Hall in Minsk is a historical building representing the city's self-government.",
+                  "text": "City Hall in Minsk, rebuilt in 2003 based on the original 18th-century design.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -1489,7 +1489,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "National Academic Grand Opera and Ballet Theatre of the Republic of Belarus",
-                  "text": "This majestic theatre in Minsk is the premier national stage for opera and ballet performances.",
+                  "text": "National Academic Grand Opera and Ballet Theatre, built 1935–1937 in Minsk.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -1534,7 +1534,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Alexander Nevsky Church",
-                  "text": "The Alexander Nevsky Church is a notable place of worship located in Minsk.",
+                  "text": "Alexander Nevsky Church in Minsk, built in 1898.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -1543,7 +1543,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Holy Trinity (Church of St. Roch)",
-                  "text": "The Church of the Holy Trinity, also known as the Church of St. Roch, is a historic church in Minsk.",
+                  "text": "Built 1864 in Neo-Gothic style on Minsk's Golden Hill (Church of St. Roch).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -1615,7 +1615,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Yanka Kupala National Academic Theatre",
-                  "text": "The Yanka Kupala National Academic Theatre is a major cultural attraction located in Minsk.",
+                  "text": "Yanka Kupala National Academic Theatre in Minsk, built in 1890.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -1753,7 +1753,7 @@ export const belarusCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Budynak dukhounaga vuchylishcha",
-                  "text": "Museum in Homel.",
+                  "text": "Ehemaliges Priesterseminar in Homel, 1799–1819 erbaut, heute Museum.",
                   "category": "museum",
                   "coords": [
                         31.019256,
@@ -1825,7 +1825,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Budynak garadskoi dumy",
-                  "text": "Historisches Gebäude in Homel.",
+                  "text": "Ehemaliges Stadtratsgebäude in Homel, Ende 19. bis Anfang 20. Jahrhundert erbaut.",
                   "category": "landmark",
                   "coords": [
                         31.014902,
@@ -2169,7 +2169,7 @@ export const belarusCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Budynak dukhounaga vuchylishcha",
-                  "text": "Múzeum Homelben.",
+                  "text": "Egykori teológiai szeminárium Homelben, 1799–1819 között épült, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         31.019256,
@@ -2241,7 +2241,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Budynak garadskoi dumy",
-                  "text": "Történelmi épület Homelben.",
+                  "text": "Egykori városi tanács épülete Homelben, a 19. század végétől a 20. század elejéig épült.",
                   "category": "landmark",
                   "coords": [
                         31.014902,
@@ -2585,7 +2585,7 @@ export const belarusCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Budynak dukhounaga vuchylishcha",
-                  "text": "Muzeu în Homel.",
+                  "text": "Fosta școală teologică din Gomel, construită între 1799 și 1819, astăzi muzeu.",
                   "category": "museum",
                   "coords": [
                         31.019256,
@@ -2657,7 +2657,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Budynak garadskoi dumy",
-                  "text": "Clădire istorică în Homel.",
+                  "text": "Fosta clădire a consiliului orașului din Gomel, construită la sfârșitul secolului al XIX-lea – începutul secolului al XX-lea.",
                   "category": "landmark",
                   "coords": [
                         31.014902,
@@ -3001,7 +3001,7 @@ export const belarusCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Budynak dukhounaga vuchylishcha",
-                  "text": "Museum in Homel.",
+                  "text": "Former theological seminary building in Gomel, built 1799–1819, now a museum.",
                   "category": "museum",
                   "coords": [
                         31.019256,
@@ -3073,7 +3073,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Budynak garadskoi dumy",
-                  "text": "Historic building in Homel.",
+                  "text": "Former city council building in Gomel, built late 19th to early 20th century.",
                   "category": "landmark",
                   "coords": [
                         31.014902,
@@ -19528,7 +19528,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kurgan Bessmyarotnastsi Adama Mitskevicha",
-                  "text": "Dieser Gedenkhügel für Adam Mickiewicz ist eine Sehenswürdigkeit in Nawahrudak.",
+                  "text": "Hügel der Unsterblichkeit für Adam Mickiewicz in Navahrudak, 1931 errichtet.",
                   "category": "landmark",
                   "coords": [
                         25.826209,
@@ -19728,7 +19728,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kurgan Bessmyarotnastsi Adama Mitskevicha",
-                  "text": "Ez az Adam Mickiewicznek állított emlékhalom egy látványosság Nawahrudak városában.",
+                  "text": "Adam Mickiewicz Halhatatlansági Halma Navahrudakban, 1931-ben emelték.",
                   "category": "landmark",
                   "coords": [
                         25.826209,
@@ -19928,7 +19928,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kurgan Bessmyarotnastsi Adama Mitskevicha",
-                  "text": "Acest tumul memorial pentru Adam Mickiewicz este o atracție în Nawahrudak.",
+                  "text": "Movila Nemuririi lui Adam Mickiewicz din Navahrudak, construită în 1931.",
                   "category": "landmark",
                   "coords": [
                         25.826209,
@@ -20128,7 +20128,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Mound of Immortality of Adam Mickievič",
-                  "text": "This memorial mound for Adam Mickiewicz is an attraction in Nawahrudak.",
+                  "text": "Mound of Immortality of Adam Mickiewicz in Navahrudak, built in 1931.",
                   "category": "landmark",
                   "coords": [
                         25.826209,
@@ -22624,7 +22624,7 @@ export const belarusCitiesV2: POI[] = [
       "de": [
             {
                   "name": "palats Tyzengauzau",
-                  "text": "Der Tyzengauz-Palast, ein historischer Palastkomplex in Pastawy.",
+                  "text": "Tyzengauz-Palast in Pastavy, 1760–1830 erbaut, Architekt Giuseppe Sacco.",
                   "category": "castle",
                   "coords": [
                         26.83792,
@@ -22651,7 +22651,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Gandlevaya ploshcha",
-                  "text": "Der historische Marktplatz von Pastawy.",
+                  "text": "Gandlevaya ploshcha (Lenin-Platz) in Pastavy, ein Marktplatz aus dem 18. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         26.839559,
@@ -22705,7 +22705,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoga Antoniya Paduanskaga",
-                  "text": "Die St.-Antonius-von-Padua-Kirche in Pastawy.",
+                  "text": "1904 von Artur Karol Nikazy Goebel im neoromanischen Stil erbaute Kirche in Pastavy.",
                   "category": "religious",
                   "coords": [
                         26.843637,
@@ -22714,7 +22714,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Svyata-Mikalaeuskaya tsarkva",
-                  "text": "Die St.-Nikolaus-Kirche in Pastawy.",
+                  "text": "St.-Nikolaus-Wundertäter-Kirche in Pastavy, 1894 erbaut.",
                   "category": "religious",
                   "coords": [
                         26.840836,
@@ -22743,7 +22743,7 @@ export const belarusCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "palats Tyzengauzau",
-                  "text": "A Tyzengauz-palota, egy történelmi palotaegyüttes Pastawyban.",
+                  "text": "Tyzengauz-palota Pastavyban, 1760–1830 között épült, Giuseppe Sacco tervezte.",
                   "category": "castle",
                   "coords": [
                         26.83792,
@@ -22770,7 +22770,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Gandlevaya ploshcha",
-                  "text": "Pastawy történelmi piactere.",
+                  "text": "Gandlevaya ploshcha (Lenin tér) Pastavyban, 18. századi piactér.",
                   "category": "landmark",
                   "coords": [
                         26.839559,
@@ -22824,7 +22824,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoga Antoniya Paduanskaga",
-                  "text": "A Szent Antal-templom Pastawyban.",
+                  "text": "1904-ben épült neoromán stílusú templom Pastavyban, Artur Karol Nikazy Goebel tervezte.",
                   "category": "religious",
                   "coords": [
                         26.843637,
@@ -22833,7 +22833,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Svyata-Mikalaeuskaya tsarkva",
-                  "text": "A Szent Miklós-templom Pastawyban.",
+                  "text": "Szent Miklós Csodatevő templom Pastavyban, 1894-ben épült.",
                   "category": "religious",
                   "coords": [
                         26.840836,
@@ -22862,7 +22862,7 @@ export const belarusCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "palats Tyzengauzau",
-                  "text": "Palatul Tyzengauz, un complex istoric în Pastawy.",
+                  "text": "Palatul Tyzengauz din Pastavy, construit între 1760 și 1830, arhitect Giuseppe Sacco.",
                   "category": "castle",
                   "coords": [
                         26.83792,
@@ -22889,7 +22889,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Gandlevaya ploshcha",
-                  "text": "Piața istorică a orașului Pastawy.",
+                  "text": "Piața Gandlevaya (Piața Lenin) din Pastavy, o piață comercială din secolul al XVIII-lea.",
                   "category": "landmark",
                   "coords": [
                         26.839559,
@@ -22943,7 +22943,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoga Antoniya Paduanskaga",
-                  "text": "Biserica Sfântul Anton de Padova din Pastawy.",
+                  "text": "Biserică în stil neoromanic construită în 1904 de Artur Karol Nikazy Goebel în Pastavy.",
                   "category": "religious",
                   "coords": [
                         26.843637,
@@ -22952,7 +22952,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Svyata-Mikalaeuskaya tsarkva",
-                  "text": "Biserica Sfântul Nicolae din Pastawy.",
+                  "text": "Biserica Sfântul Nicolae Făcătorul de Minuni din Pastavy, construită în 1894.",
                   "category": "religious",
                   "coords": [
                         26.840836,
@@ -22981,7 +22981,7 @@ export const belarusCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tyzengauz palace",
-                  "text": "The Tyzengauz Palace, a historic palace complex in Pastawy.",
+                  "text": "Tyzengauz Palace in Pastavy, built 1760–1830, designed by architect Giuseppe Sacco.",
                   "category": "castle",
                   "coords": [
                         26.83792,
@@ -23008,7 +23008,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Gandlevaya ploshcha",
-                  "text": "The historic market square of Pastawy.",
+                  "text": "Gandlevaya ploshcha (Lenin Square) in Pastavy, an 18th-century market square.",
                   "category": "landmark",
                   "coords": [
                         26.839559,
@@ -23062,7 +23062,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St. Anthony of Padua",
-                  "text": "The Church of St. Anthony of Padua in Pastawy.",
+                  "text": "Built 1904 in Neo-Romanesque style by Artur Karol Nikazy Goebel in Pastavy.",
                   "category": "religious",
                   "coords": [
                         26.843637,
@@ -23071,7 +23071,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St. Nicholas the Wonderworker",
-                  "text": "The Church of St. Nicholas in Pastawy.",
+                  "text": "Church of St. Nicholas the Wonderworker in Pastavy, built in 1894.",
                   "category": "religious",
                   "coords": [
                         26.840836,
@@ -24308,7 +24308,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "St. Kasimir (katholisch)",
-                  "text": "Die Kirche St. Kasimir ist eine historische katholische Kirche in Lepel.",
+                  "text": "St.-Kasimir-Kirche in Lepel, 1876 erbaut.",
                   "category": "landmark",
                   "coords": [
                         28.693161,
@@ -24400,7 +24400,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoga Kazimira",
-                  "text": "A Szent Kázmér-templom egy történelmi katolikus templom Lepelben.",
+                  "text": "Szent Kázmér-templom Lepelben, 1876-ban épült.",
                   "category": "landmark",
                   "coords": [
                         28.693161,
@@ -24492,7 +24492,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoga Kazimira",
-                  "text": "Biserica Sfântul Cazimir este o biserică catolică istorică situată în Lepel.",
+                  "text": "Biserica Sfântul Cazimir din Lepel, construită în 1876.",
                   "category": "landmark",
                   "coords": [
                         28.693161,
@@ -24584,7 +24584,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saint Casimir",
-                  "text": "The Church of Saint Casimir is a historic Catholic church located in Lepel.",
+                  "text": "Church of Saint Casimir in Lepel, built in 1876.",
                   "category": "landmark",
                   "coords": [
                         28.693161,
@@ -27559,7 +27559,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kalodzezhny shatser",
-                  "text": "Historisches Brunnenzelt in Braslau.",
+                  "text": "Brunnenpavillon in Braslau, 1925 als überdachter Brunnen erbaut.",
                   "category": "landmark",
                   "coords": [
                         27.030958,
@@ -27613,7 +27613,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Tsarkva Uspennya Prasvyatoi Bagarodzitsy",
-                  "text": "Orthodoxe Mariä-Entschlafens-Kirche in Braslau.",
+                  "text": "Mariä-Himmelfahrt-Kirche in Braslau, 1897 erbaut.",
                   "category": "religious",
                   "coords": [
                         27.050508,
@@ -27696,7 +27696,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kalodzezhny shatser",
-                  "text": "Történelmi kútpavilon Braslauban.",
+                  "text": "Kútsátor Braslauban, 1925-ben épült fedett kút.",
                   "category": "landmark",
                   "coords": [
                         27.030958,
@@ -27750,7 +27750,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Tsarkva Uspennya Prasvyatoi Bagarodzitsy",
-                  "text": "A braslaui Istenanya Elszenderedése ortodox templom.",
+                  "text": "Szűz Mária Mennybemenetele templom Braslauban, 1897-ben épült.",
                   "category": "religious",
                   "coords": [
                         27.050508,
@@ -27833,7 +27833,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Kalodzezhny shatser",
-                  "text": "Pavilion istoric pentru fântână în Braslau.",
+                  "text": "Fântână acoperită în Braslau, construită în 1925.",
                   "category": "landmark",
                   "coords": [
                         27.030958,
@@ -27887,7 +27887,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Tsarkva Uspennya Prasvyatoi Bagarodzitsy",
-                  "text": "Biserica ortodoxă Adormirea Maicii Domnului din Braslau.",
+                  "text": "Biserica Adormirea Maicii Domnului din Braslau, construită în 1897.",
                   "category": "religious",
                   "coords": [
                         27.050508,
@@ -27970,7 +27970,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Well tent",
-                  "text": "Historical well tent in Braslau.",
+                  "text": "Well tent in Braslau, built in 1925 as a covered well.",
                   "category": "landmark",
                   "coords": [
                         27.030958,
@@ -28024,7 +28024,7 @@ export const belarusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Assumption of the Blessed Virgin Mary",
-                  "text": "Orthodox Church of the Assumption of the Blessed Virgin Mary in Braslau.",
+                  "text": "Church of the Assumption of the Blessed Virgin Mary in Braslau, built in 1897.",
                   "category": "religious",
                   "coords": [
                         27.050508,

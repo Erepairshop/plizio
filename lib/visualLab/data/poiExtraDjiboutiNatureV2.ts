@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraDjiboutiNatureV2: POI[] = [
   {
-    id: "assal-lake-nature-v2",
+    id: "assal-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madgangougou",
+                  "text": "Madgangougou ist ein zerklüfteter Gipfel, der erhöhte Ausblicke hinab in den salzhaltigen Krater des Assal-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.366667,
+                        11.633333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madgangougou",
+                  "text": "A Madgangougou egy sziklás csúcs, ahonnan fentről tekinthetünk le az Assal-tó sós vizű kráterére.",
+                  "category": "natural",
+                  "coords": [
+                        42.366667,
+                        11.633333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madgangougou",
+                  "text": "Madgangougou este un vârf stâncos care oferă vederi la înălțime în jos spre craterul salin al lacului Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.366667,
+                        11.633333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madgangougou",
+                  "text": "Madgangougou is a craggy summit offering elevated views down into the saline crater of Lake Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.366667,
+                        11.633333
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DJ-TA",
     coords: [42.41, 11.65],
@@ -51,7 +96,52 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "abbe-lake-nature-v2",
+    id: "abbe-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gambôlim",
+                  "text": "Gambôlim ist ein trockener Gipfel, der weite Ausblicke auf die berühmten Kalksteinkamine des Abbe-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        41.856971,
+                        11.216048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gambôlim",
+                  "text": "A Gambôlim egy száraz hegycsúcs, ahonnan távoli kilátás nyílik az Abbe-tó híres mészkőkéményeire.",
+                  "category": "natural",
+                  "coords": [
+                        41.856971,
+                        11.216048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gambôlim",
+                  "text": "Gambôlim este un vârf arid care oferă vederi îndepărtate ale faimoaselor coșuri de calcar ale lacului Abbe.",
+                  "category": "natural",
+                  "coords": [
+                        41.856971,
+                        11.216048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gambôlim",
+                  "text": "Gambôlim is an arid summit offering distant views of Lake Abbe's famous limestone chimneys.",
+                  "category": "natural",
+                  "coords": [
+                        41.856971,
+                        11.216048
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DJ-DI",
     coords: [41.79, 11.16],
@@ -147,7 +237,196 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "moussa-ali-nature-v2",
+    id: "moussa-ali-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hamawle",
+                  "text": "Ein zerklüfteter Berggipfel inmitten des vulkanischen Massivs des Naturschutzgebietes Mousa Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.446454,
+                        12.508412
+                  ]
+            },
+            {
+                  "name": "Karmiseyna",
+                  "text": "Ein abgelegener Gipfel, umgeben von den dramatischen vulkanischen Landschaften der Mousa Ali-Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.420524,
+                        12.466308
+                  ]
+            },
+            {
+                  "name": "Musa Ali",
+                  "text": "Als höchster Punkt Dschibutis dominiert dieser markante Schichtvulkan das Dreiländereck.",
+                  "category": "natural",
+                  "coords": [
+                        42.40421,
+                        12.468805
+                  ]
+            },
+            {
+                  "name": "Mâgayra Kôma",
+                  "text": "Ein markanter vulkanischer Gipfel, der steil innerhalb der rauen Gebirgskette des Mousa Ali aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.485557,
+                        12.466317
+                  ]
+            },
+            {
+                  "name": "Faffahto",
+                  "text": "Ein karger, steiniger Gipfel, der charakteristisch für das raue vulkanische Terrain rund um Mousa Ali ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.438561,
+                        12.391445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hamawle",
+                  "text": "Egy zord hegycsúcs, amely a Mousa Ali természetvédelmi terület vulkáni masszívumában található.",
+                  "category": "natural",
+                  "coords": [
+                        42.446454,
+                        12.508412
+                  ]
+            },
+            {
+                  "name": "Karmiseyna",
+                  "text": "Egy távoli csúcs, amelyet a Mousa Ali régió drámai vulkáni tájai vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        42.420524,
+                        12.466308
+                  ]
+            },
+            {
+                  "name": "Moussa 'Ali",
+                  "text": "Dzsibuti legmagasabb pontjaként ez a kiemelkedő rétegvulkán uralja a hármashatár régióját.",
+                  "category": "natural",
+                  "coords": [
+                        42.40421,
+                        12.468805
+                  ]
+            },
+            {
+                  "name": "Mâgayra Kôma",
+                  "text": "Egy jellegzetes vulkáni csúcs, amely élesen emelkedik ki a zord Mousa Ali hegységből.",
+                  "category": "natural",
+                  "coords": [
+                        42.485557,
+                        12.466317
+                  ]
+            },
+            {
+                  "name": "Faffahto",
+                  "text": "Egy kopár, köves hegycsúcs, amely a Mousa Ali körüli zord vulkáni terep jellegzetessége.",
+                  "category": "natural",
+                  "coords": [
+                        42.438561,
+                        12.391445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hamawle",
+                  "text": "Un vârf de munte accidentat, situat în masivul vulcanic al rezervației naturale Mousa Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.446454,
+                        12.508412
+                  ]
+            },
+            {
+                  "name": "Karmiseyna",
+                  "text": "Un vârf izolat înconjurat de peisajele vulcanice dramatice ale regiunii Mousa Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.420524,
+                        12.466308
+                  ]
+            },
+            {
+                  "name": "Moussa 'Ali",
+                  "text": "Fiind cel mai înalt punct din Djibouti, acest stratovulcan proeminent domină regiunea de graniță triplă.",
+                  "category": "natural",
+                  "coords": [
+                        42.40421,
+                        12.468805
+                  ]
+            },
+            {
+                  "name": "Mâgayra Kôma",
+                  "text": "Un vârf vulcanic distinct care se înalță brusc în lanțul muntos accidentat Mousa Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.485557,
+                        12.466317
+                  ]
+            },
+            {
+                  "name": "Faffahto",
+                  "text": "Un vârf sterp și pietros, caracteristic terenului vulcanic aspru care înconjoară Mousa Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.438561,
+                        12.391445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hamawle",
+                  "text": "A rugged mountain peak situated within the volcanic massif of the Mousa Ali nature area.",
+                  "category": "natural",
+                  "coords": [
+                        42.446454,
+                        12.508412
+                  ]
+            },
+            {
+                  "name": "Karmiseyna",
+                  "text": "A remote summit surrounded by the dramatic volcanic landscapes of the Mousa Ali region.",
+                  "category": "natural",
+                  "coords": [
+                        42.420524,
+                        12.466308
+                  ]
+            },
+            {
+                  "name": "Mousa Ali",
+                  "text": "Standing as the highest point in Djibouti, this prominent stratovolcano dominates the tri-point border region.",
+                  "category": "natural",
+                  "coords": [
+                        42.40421,
+                        12.468805
+                  ]
+            },
+            {
+                  "name": "Mâgayra Kôma",
+                  "text": "A distinct volcanic peak rising sharply within the rugged Mousa Ali mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        42.485557,
+                        12.466317
+                  ]
+            },
+            {
+                  "name": "Faffahto",
+                  "text": "A barren, stony summit characteristic of the harsh volcanic terrain surrounding Mousa Ali.",
+                  "category": "natural",
+                  "coords": [
+                        42.438561,
+                        12.391445
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-TA",
     coords: [42.40, 12.47],
@@ -243,7 +522,52 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "ghoubbet-kharab-nature-v2",
+    id: "ghoubbet-kharab-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baie de Ghoubbet-el-Kharab",
+                  "text": "Diese Meeresbucht ist Teil der Wasserlandschaft des Ghoubbet el Kharab.",
+                  "category": "landmark",
+                  "coords": [
+                        42.604244,
+                        11.526669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baie de Ghoubbet-el-Kharab",
+                  "text": "Ez a tengeröböl a Ghoubbet el Kharab vízi tájának része.",
+                  "category": "landmark",
+                  "coords": [
+                        42.604244,
+                        11.526669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baie de Ghoubbet-el-Kharab",
+                  "text": "Această regiune de golf face parte din peisajul acvatic al Ghoubbet el Kharab.",
+                  "category": "landmark",
+                  "coords": [
+                        42.604244,
+                        11.526669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Ghoubet",
+                  "text": "This bay area forms part of the Ghoubbet el Kharab waterscape.",
+                  "category": "landmark",
+                  "coords": [
+                        42.604244,
+                        11.526669
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "DJ-AR",
     coords: [42.63, 11.53],
@@ -339,7 +663,52 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "maskali-island-nature-v2",
+    id: "maskali-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golf von Tadschura",
+                  "text": "Der Golf von Tadjoura ist ein großes Becken des Indischen Ozeans, das am Horn von Afrika tief in die Küste von Dschibuti hineinreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        43.082491,
+                        11.721918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tadjoura-öböl",
+                  "text": "A Tadjoura-öböl az Indiai-óceán egy nagy medencéje Afrika szarván, amely mélyen benyúlik Dzsibuti partvonalába.",
+                  "category": "landmark",
+                  "coords": [
+                        43.082491,
+                        11.721918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golfe de Tadjourah",
+                  "text": "Golful Tadjoura este un bazin vast al Oceanului Indian din Cornul Africii, care pătrunde adânc în coasta Djiboutiului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.082491,
+                        11.721918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gulf of Tadjoura",
+                  "text": "The Gulf of Tadjoura is a large basin of the Indian Ocean in the Horn of Africa, extending deeply into the coastline of Djibouti.",
+                  "category": "landmark",
+                  "coords": [
+                        43.082491,
+                        11.721918
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DJ-DJ",
     coords: [43.16, 11.71],
@@ -387,7 +756,232 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "ardoukoba-volcano-nature-v2",
+    id: "ardoukoba-volcano-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gale le Kôma",
+                  "text": "Dieser Gipfel erhebt sich hoch im Gebiet ardoukoba-volcano-nature-v2 und ist Teil eines dynamischen vulkanischen Geländes mit dunklen Basaltgesteinsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        42.476667,
+                        11.596111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Dieser Gipfel hebt die dramatische Landschaft der Zone ardoukoba-volcano-nature-v2 hervor und bietet einen Aussichtspunkt über die kargen, lavabedeckten Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        42.493333,
+                        11.596944
+                  ]
+            },
+            {
+                  "name": "Fî‘ale",
+                  "text": "Dieser markante vulkanische Gipfel erhebt sich in der Nähe des Gebiets ardoukoba-volcano-nature-v2 und trägt zur rauen, geologisch aktiven Topografie der Region bei.",
+                  "category": "natural",
+                  "coords": [
+                        42.492222,
+                        11.587778
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Dieser malerische Aussichtspunkt in der Zone ardoukoba-volcano-nature-v2 bietet Besuchern einen weiten Blick auf die frischen Lavaströme und den aktiven Grabenbruch.",
+                  "category": "natural",
+                  "coords": [
+                        42.494902,
+                        11.585634
+                  ]
+            },
+            {
+                  "name": "Daloalé",
+                  "text": "Als bedeutende Erhebung im Gebiet ardoukoba-volcano-nature-v2 besteht dieser Gipfel aus rauen Hängen, die durch die intensiven geologischen Kräfte des Grabens geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        42.511667,
+                        11.6025
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "Dieser natürliche Gipfel in der Region ardoukoba-volcano-nature-v2 zeichnet sich durch trockene Hänge aus, die charakteristisch für die tektonische Umgebung des Horns sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.415,
+                        11.528056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gale le Kôma",
+                  "text": "Az ardoukoba-volcano-nature-v2 területén magasodó hegycsúcs a sötét bazaltsziklákkal jellemezhető dinamikus vulkáni terep része.",
+                  "category": "natural",
+                  "coords": [
+                        42.476667,
+                        11.596111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Az ardoukoba-volcano-nature-v2 zóna drámai táját kiemelő csúcsról kilátás nyílik a kietlen, lávával borított síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        42.493333,
+                        11.596944
+                  ]
+            },
+            {
+                  "name": "Fî‘ale",
+                  "text": "Ez a különálló vulkáni csúcs az ardoukoba-volcano-nature-v2 területének közelében emelkedik, hozzájárulva a régió zord, geológiailag aktív topográfiájához.",
+                  "category": "natural",
+                  "coords": [
+                        42.492222,
+                        11.587778
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Ez az ardoukoba-volcano-nature-v2 zónában található festői kilátó lehetővé teszi a látogatók számára, hogy megcsodálják a friss lávafolyamokat és az aktív hasadékvölgyet.",
+                  "category": "natural",
+                  "coords": [
+                        42.494902,
+                        11.585634
+                  ]
+            },
+            {
+                  "name": "Daloalé",
+                  "text": "Az ardoukoba-volcano-nature-v2 terület jelentős magaslataként ez a hegycsúcs a hasadékvölgy intenzív geológiai erői által formált, zord lejtőkkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        42.511667,
+                        11.6025
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "Az ardoukoba-volcano-nature-v2 régióban kiemelkedő helyet elfoglaló természetes csúcs a hegyfok tektonikus környezetére jellemző száraz lejtőkkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        42.415,
+                        11.528056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gale le Kôma",
+                  "text": "Situat la înălțime în zona ardoukoba-volcano-nature-v2, acest vârf face parte dintr-un teren vulcanic dinamic, caracterizat de formațiuni întunecate de rocă bazaltică.",
+                  "category": "natural",
+                  "coords": [
+                        42.476667,
+                        11.596111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Înălțând peisajul dramatic al zonei ardoukoba-volcano-nature-v2, acest summit oferă un punct de observație peste câmpiile goale, acoperite de lavă.",
+                  "category": "natural",
+                  "coords": [
+                        42.493333,
+                        11.596944
+                  ]
+            },
+            {
+                  "name": "Fî‘ale",
+                  "text": "Acest vârf vulcanic distinct se ridică în apropierea zonei ardoukoba-volcano-nature-v2, contribuind la topografia aspră și activă geologic a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        42.492222,
+                        11.587778
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Acest punct de belvedere panoramic din zona ardoukoba-volcano-nature-v2 permite vizitatorilor să admire priveliști ample ale fluxurilor proaspete de lavă și ale văii de rift active.",
+                  "category": "natural",
+                  "coords": [
+                        42.494902,
+                        11.585634
+                  ]
+            },
+            {
+                  "name": "Daloalé",
+                  "text": "Fiind o elevație semnificativă în zona ardoukoba-volcano-nature-v2, acest vârf constă în pante accidentate formate de forțele geologice intense ale riftului.",
+                  "category": "natural",
+                  "coords": [
+                        42.511667,
+                        11.6025
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "Situat proeminent în regiunea ardoukoba-volcano-nature-v2, acest vârf natural prezintă înclinații aride caracteristice mediului tectonic al cornului.",
+                  "category": "natural",
+                  "coords": [
+                        42.415,
+                        11.528056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gale le Kôma",
+                  "text": "Standing high within the ardoukoba-volcano-nature-v2 area, this peak is part of a dynamic volcanic terrain characterized by dark basaltic rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        42.476667,
+                        11.596111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Elevating the dramatic landscape of the ardoukoba-volcano-nature-v2 zone, this summit provides a vantage point over the stark, lava-covered plains.",
+                  "category": "natural",
+                  "coords": [
+                        42.493333,
+                        11.596944
+                  ]
+            },
+            {
+                  "name": "Fî‘ale",
+                  "text": "This distinct volcanic peak rises near the ardoukoba-volcano-nature-v2 area, contributing to the harsh, geologically active topography of the region.",
+                  "category": "natural",
+                  "coords": [
+                        42.492222,
+                        11.587778
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "This scenic viewpoint in the ardoukoba-volcano-nature-v2 zone allows visitors to take in sweeping sights of the fresh lava flows and active rift valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.494902,
+                        11.585634
+                  ]
+            },
+            {
+                  "name": "Daloalé",
+                  "text": "As a significant elevation in the ardoukoba-volcano-nature-v2 area, this peak consists of rugged slopes formed by the intense geological forces of the rift.",
+                  "category": "natural",
+                  "coords": [
+                        42.511667,
+                        11.6025
+                  ]
+            },
+            {
+                  "name": "Id‘a Kôma",
+                  "text": "Prominently situated in the ardoukoba-volcano-nature-v2 region, this natural peak features arid inclines characteristic of the horn's tectonic environment.",
+                  "category": "natural",
+                  "coords": [
+                        42.415,
+                        11.528056
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-TA",
     coords: [42.47, 11.58],
@@ -483,7 +1077,232 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "goda-mountains-nature-v2",
+    id: "goda-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amḏerta",
+                  "text": "Amḏerta ist ein üppig bewachsener Gipfel, der die reiche Artenvielfalt des Goda-Gebirges veranschaulicht.",
+                  "category": "natural",
+                  "coords": [
+                        42.7375,
+                        11.738056
+                  ]
+            },
+            {
+                  "name": "Afnaba",
+                  "text": "Afnaba ist ein steiler, felsiger Gipfel, der über den grünen Tälern des Goda-Gebirges thront.",
+                  "category": "natural",
+                  "coords": [
+                        42.761944,
+                        11.796667
+                  ]
+            },
+            {
+                  "name": "Gouroulé",
+                  "text": "Gouroulé ist eine markante gebirgige Erhebung inmitten der seltenen Waldlandschaft des Goda-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        42.766667,
+                        11.783333
+                  ]
+            },
+            {
+                  "name": "Alosli",
+                  "text": "Alosli ist ein markanter Gipfel, der weite Ausblicke über das grüne Hochlandterrain des Goda-Gebirges bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.8025,
+                        11.835
+                  ]
+            },
+            {
+                  "name": "Assa Kania",
+                  "text": "Assa Kania ist eine isolierte Felsnadel, eingebettet in die einzigartige Flora des Goda-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.833333
+                  ]
+            },
+            {
+                  "name": "Kantar Kôma",
+                  "text": "Kantar Kôma ist ein hochgelegener Gipfel, der als malerisches Wahrzeichen in den natürlichen Weiten des Goda-Gebirges dient.",
+                  "category": "natural",
+                  "coords": [
+                        42.738611,
+                        11.801667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amḏerta",
+                  "text": "Az Amḏerta egy buja növényzetű hegycsúcs, amely a Goda-hegység gazdag biodiverzitását mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        42.7375,
+                        11.738056
+                  ]
+            },
+            {
+                  "name": "Afnaba",
+                  "text": "Az Afnaba egy meredek sziklás hegycsúcs, amely a Goda-hegység zöldellő völgyei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.761944,
+                        11.796667
+                  ]
+            },
+            {
+                  "name": "Gouroulé",
+                  "text": "A Gouroulé egy lenyűgöző hegyvidéki magaslat a Goda-hegység ritka erdei környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        42.766667,
+                        11.783333
+                  ]
+            },
+            {
+                  "name": "Alosli",
+                  "text": "Az Alosli egy kiemelkedő hegycsúcs, ahonnan kiterjedt kilátás nyílik a Goda-hegység zöldellő, hegyvidéki terepére.",
+                  "category": "natural",
+                  "coords": [
+                        42.8025,
+                        11.835
+                  ]
+            },
+            {
+                  "name": "Assa Kania",
+                  "text": "Az Assa Kania egy elszigetelt sziklás csúcs, amely a Goda-hegység egyedülálló növényvilágában bújik meg.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.833333
+                  ]
+            },
+            {
+                  "name": "Kantar Kôma",
+                  "text": "A Kantar Kôma egy magaslati hegycsúcs, amely festői tájékozódási pontként szolgál a Goda-hegység természeti kiterjedésében.",
+                  "category": "natural",
+                  "coords": [
+                        42.738611,
+                        11.801667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amḏerta",
+                  "text": "Amḏerta este un vârf cu vegetație luxuriantă care evidențiază bogata biodiversitate a Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.7375,
+                        11.738056
+                  ]
+            },
+            {
+                  "name": "Afnaba",
+                  "text": "Afnaba este un vârf stâncos abrupt care se înalță deasupra văilor înverzite ale Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.761944,
+                        11.796667
+                  ]
+            },
+            {
+                  "name": "Gouroulé",
+                  "text": "Gouroulé este o înălțime muntoasă impresionantă, situată în mediul rar împădurit al Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.766667,
+                        11.783333
+                  ]
+            },
+            {
+                  "name": "Alosli",
+                  "text": "Alosli este un vârf proeminent care oferă priveliști vaste asupra terenului verde, înalt al Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.8025,
+                        11.835
+                  ]
+            },
+            {
+                  "name": "Assa Kania",
+                  "text": "Assa Kania este o culme stâncoasă izolată, ascunsă printre flora unică a Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.833333
+                  ]
+            },
+            {
+                  "name": "Kantar Kôma",
+                  "text": "Kantar Kôma este un vârf de mare altitudine care acționează ca un punct de reper pitoresc în întinderea naturală a Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.738611,
+                        11.801667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amḏerta",
+                  "text": "Amḏerta is a lushly vegetated summit that showcases the rich biodiversity of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.7375,
+                        11.738056
+                  ]
+            },
+            {
+                  "name": "Afnaba",
+                  "text": "Afnaba is a steep rocky peak towering above the verdant valleys of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.761944,
+                        11.796667
+                  ]
+            },
+            {
+                  "name": "Gouroulé",
+                  "text": "Gouroulé is a striking mountainous elevation set within the rare woodland environment of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.766667,
+                        11.783333
+                  ]
+            },
+            {
+                  "name": "Alosli",
+                  "text": "Alosli is a prominent summit offering expansive vistas over the green, highland terrain of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.8025,
+                        11.835
+                  ]
+            },
+            {
+                  "name": "Assa Kania",
+                  "text": "Assa Kania is an isolated rocky pinnacle nestled among the unique flora of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.833333
+                  ]
+            },
+            {
+                  "name": "Kantar Kôma",
+                  "text": "Kantar Kôma is a high-altitude peak acting as a scenic landmark within the natural expanse of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.738611,
+                        11.801667
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-TA",
     coords: [42.75, 11.78],
@@ -531,7 +1350,1348 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "mabla-mountains-nature-v2",
+    id: "mabla-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Erekté",
+                  "text": "Erekté ist ein zerklüfteter Gipfel in den malerischen und abgelegenen Gebirgszügen der Mabla-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Sa‘a‘",
+                  "text": "Sa`a` ist ein markanter, felsiger Gipfel, der sich scharf zwischen den Bergen des Mabla-Gebirges erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.9675,
+                        11.9525
+                  ]
+            },
+            {
+                  "name": "‘Angaffi",
+                  "text": "`Angaffi ist eine markante Erhebung, die zur zerklüfteten Skyline der Mabla-Berge beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        42.975278,
+                        11.939444
+                  ]
+            },
+            {
+                  "name": "Ḏikil",
+                  "text": "Ḏikil ist ein Berggipfel im trockenen Hochland der Mabla-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        42.971667,
+                        11.921944
+                  ]
+            },
+            {
+                  "name": "Ibna Fila",
+                  "text": "Ibna Fila ist ein steiler Gipfel, der Teil der dramatischen Landschaft der Mabla-Berge ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.054167,
+                        11.971667
+                  ]
+            },
+            {
+                  "name": "Ouaïbolou",
+                  "text": "Ouaïbolou ist ein hoch aufragender Gipfel, der seinen Abschnitt in den felsigen Mabla-Bergen dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        43.061111,
+                        11.959444
+                  ]
+            },
+            {
+                  "name": "Garab",
+                  "text": "Garab ist ein imposanter Berggipfel innerhalb der vielfältigen Ökosysteme des Mabla-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.933333
+                  ]
+            },
+            {
+                  "name": "Ouaïbolé",
+                  "text": "Ouaïbolé ist eine große Erhebung, die einen Panoramablick über die Täler der Mabla-Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.055,
+                        11.914167
+                  ]
+            },
+            {
+                  "name": "Obloli",
+                  "text": "Obloli ist ein spitzer Berggipfel, der den Horizont in der Region der Mabla-Berge prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.088889,
+                        11.912222
+                  ]
+            },
+            {
+                  "name": "Mangaïa",
+                  "text": "Mangaïa ist ein trockener Berggipfel, der markant zwischen den natürlichen Formationen der Mabla-Kette steht.",
+                  "category": "natural",
+                  "coords": [
+                        43.057778,
+                        11.883889
+                  ]
+            },
+            {
+                  "name": "Garassou",
+                  "text": "Garassou ist eine zerklüftete Erhebung, die sich aus den felsigen Hängen der Mabla-Berge erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.874722
+                  ]
+            },
+            {
+                  "name": "Galato",
+                  "text": "Galato ist ein markanter Gipfel inmitten der abgelegenen Hochlandumgebung der Mabla-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.891667
+                  ]
+            },
+            {
+                  "name": "Dihilta",
+                  "text": "Dihilta ist ein hoch aufragender Gipfel, der einen festen Bestandteil der malerischen Landschaft der Mabla-Berge bildet.",
+                  "category": "natural",
+                  "coords": [
+                        43.065,
+                        11.901667
+                  ]
+            },
+            {
+                  "name": "Ado Tim",
+                  "text": "Ado Tim ist ein Berggipfel, der vom zerklüfteten, unberührten Gelände des Mabla-Gebirges umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        11.9
+                  ]
+            },
+            {
+                  "name": "Gabilema",
+                  "text": "Gabilema ist ein erhöhter felsiger Punkt in der trockenen Weite der Mabla-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        43.019444,
+                        11.903056
+                  ]
+            },
+            {
+                  "name": "Ediliba",
+                  "text": "Ediliba ist ein markanter Gipfel, der sich dramatisch aus den umliegenden Tälern der Mabla-Berge erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Gaoa",
+                  "text": "Gaoa ist ein steiniger Berggipfel in der optisch reizvollen Naturregion der Mabla-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        43.028333,
+                        11.872222
+                  ]
+            },
+            {
+                  "name": "Issa",
+                  "text": "Issa ist eine zerklüftete Bergerhebung, die zum strukturellen Rückgrat der Mabla-Berge beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        43.005833,
+                        11.883056
+                  ]
+            },
+            {
+                  "name": "Gôma Bôra",
+                  "text": "Goma Bora ist ein exponierter Gipfel, der weite Ausblicke über das zerklüftete Gelände der Mabla-Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.895
+                  ]
+            },
+            {
+                  "name": "Kaḏḏa Mayrâ‘aḏi",
+                  "text": "Kaḏḏa Mayrâ‘aḏi ist ein hoch aufragender Gipfel vor der abgelegenen, ungezähmten Landschaft des Mabla-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.925278
+                  ]
+            },
+            {
+                  "name": "Inkararou",
+                  "text": "Inkararou ist eine steile Felsnadel, die einen bemerkenswerten Teil der Skyline der Mabla-Berge bildet.",
+                  "category": "natural",
+                  "coords": [
+                        43.01,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oudlé",
+                  "text": "Oudlé ist ein markanter Berggipfel in den zerklüfteten und historisch pastoralen Mabla-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        43.02,
+                        11.915278
+                  ]
+            },
+            {
+                  "name": "Arda Dabba",
+                  "text": "Arda Dabba ist eine imposante Erhebung tief im Naturgebiet der Mabla-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        43.040833,
+                        11.936111
+                  ]
+            },
+            {
+                  "name": "Tablo",
+                  "text": "Tablo ist ein hoher Berggipfel, der sich über die trockenen, felsigen Täler des Mabla-Gebirges erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.016389,
+                        11.931667
+                  ]
+            },
+            {
+                  "name": "Hassim",
+                  "text": "Hassim ist ein felsiger Berggipfel im Mabla-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        43.016944,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Oudadi",
+                  "text": "Oudadi ist ein hoher Berggipfel im zerklüfteten Gelände des Mabla-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        43.033056,
+                        11.965
+                  ]
+            },
+            {
+                  "name": "Ado Daba",
+                  "text": "Ado Daba ist ein markanter Gipfel in den malerischen Mabla-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.963333
+                  ]
+            },
+            {
+                  "name": "Bassalé",
+                  "text": "Bassalé ist ein steiler Berggipfel in der Landschaft des Mabla-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        43.001944,
+                        11.948611
+                  ]
+            },
+            {
+                  "name": "‘Asal Dâba",
+                  "text": "‘Asal Dâba erhebt sich als zerklüfteter Berggipfel im Mabla-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        42.996111,
+                        11.953611
+                  ]
+            },
+            {
+                  "name": "Dadar",
+                  "text": "Dadar ist ein markanter Berggipfel, der im Mabla-Gebirge aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "‘Asa Dawou",
+                  "text": "Der Gipfel `Asa Dawou ist Teil der hohen Bergkämme des Mabla-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        42.976944,
+                        11.990833
+                  ]
+            },
+            {
+                  "name": "Ankasalla",
+                  "text": "Ankasalla ist ein imposanter felsiger Gipfel im Mabla-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        42.979167,
+                        11.997778
+                  ]
+            },
+            {
+                  "name": "Oûḏ ‘Ale",
+                  "text": "Oûḏ ‘Ale ist ein hoher Berggipfel, der das Mabla-Gebirge überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        42.99,
+                        11.994444
+                  ]
+            },
+            {
+                  "name": "Maanditi Gouyyouh",
+                  "text": "Maanditi Gouyyouh ist ein zerklüfteter Kamm in den Gipfeln des Mabla-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        43.005556,
+                        11.981944
+                  ]
+            },
+            {
+                  "name": "Danan-kak-rade-Bôlo",
+                  "text": "Danan-kak-rade-Bôlo ist ein abgelegener Berggipfel im Mabla-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        42.980567,
+                        12.000297
+                  ]
+            },
+            {
+                  "name": "Harsa",
+                  "text": "Harsa ist ein steiniger Berggipfel, der im Mabla-Gebirge hervorsticht.",
+                  "category": "natural",
+                  "coords": [
+                        43.030278,
+                        11.995556
+                  ]
+            },
+            {
+                  "name": "Assagoli",
+                  "text": "Assagoli steht als massiver Berggipfel im Gelände des Mabla-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        43.033611,
+                        11.983611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erekté",
+                  "text": "Az Erekté egy zord hegycsúcs a Mabla-hegység festői és távoli vonulatai között.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Sa‘a‘",
+                  "text": "A Sa`a` egy különálló sziklás csúcs, amely élesen emelkedik ki a Mabla-hegység hegyei közül.",
+                  "category": "natural",
+                  "coords": [
+                        42.9675,
+                        11.9525
+                  ]
+            },
+            {
+                  "name": "‘Angaffi",
+                  "text": "Az `Angaffi egy kiemelkedő magaslat, amely hozzájárul a Mabla-hegység zord sziluettjéhez.",
+                  "category": "natural",
+                  "coords": [
+                        42.975278,
+                        11.939444
+                  ]
+            },
+            {
+                  "name": "Ḏikil",
+                  "text": "A Ḏikil egy hegycsúcs a Mabla-hegység régiójának száraz, felvidéki terepén.",
+                  "category": "natural",
+                  "coords": [
+                        42.971667,
+                        11.921944
+                  ]
+            },
+            {
+                  "name": "Ibna Fila",
+                  "text": "Az Ibna Fila egy meredek csúcs, amely a Mabla-hegység drámai tájának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.054167,
+                        11.971667
+                  ]
+            },
+            {
+                  "name": "Ouaïbolou",
+                  "text": "Az Ouaïbolou egy tornyosuló hegycsúcs, amely a sziklás Mabla-hegység ezen részét uralja.",
+                  "category": "natural",
+                  "coords": [
+                        43.061111,
+                        11.959444
+                  ]
+            },
+            {
+                  "name": "Garab",
+                  "text": "A Garab egy impozáns hegycsúcs a Mabla-hegység változatos ökoszisztémáiban.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.933333
+                  ]
+            },
+            {
+                  "name": "Ouaïbolé",
+                  "text": "Az Ouaïbolé egy magaslat, amelyről panorámás kilátás nyílik a Mabla-hegység völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        43.055,
+                        11.914167
+                  ]
+            },
+            {
+                  "name": "Obloli",
+                  "text": "Az Obloli egy éles hegycsúcs, amely megtöri a horizontot a Mabla-hegység régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.088889,
+                        11.912222
+                  ]
+            },
+            {
+                  "name": "Mangaïa",
+                  "text": "A Mangaïa egy száraz hegycsúcs, amely kiemelkedik a Mabla-hegység természeti képződményei közül.",
+                  "category": "natural",
+                  "coords": [
+                        43.057778,
+                        11.883889
+                  ]
+            },
+            {
+                  "name": "Garassou",
+                  "text": "A Garassou egy zord magaslat, amely a Mabla-hegység sziklás lejtőiből emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.874722
+                  ]
+            },
+            {
+                  "name": "Galato",
+                  "text": "A Galato egy jellegzetes hegycsúcs a Mabla-hegység távoli felvidéki környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.891667
+                  ]
+            },
+            {
+                  "name": "Dihilta",
+                  "text": "A Dihilta egy tornyosuló csúcs, amely a festői Mabla-hegység tájának szerves részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.065,
+                        11.901667
+                  ]
+            },
+            {
+                  "name": "Ado Tim",
+                  "text": "Az Ado Tim egy hegycsúcs, amelyet a Mabla-hegység zord, érintetlen terepe vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        11.9
+                  ]
+            },
+            {
+                  "name": "Gabilema",
+                  "text": "A Gabilema egy magaslati sziklás pont a Mabla-hegység száraz kiterjedésében.",
+                  "category": "natural",
+                  "coords": [
+                        43.019444,
+                        11.903056
+                  ]
+            },
+            {
+                  "name": "Ediliba",
+                  "text": "Az Ediliba egy kiemelkedő csúcs, amely drámaian emelkedik ki a Mabla-hegység környező völgyeiből.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Gaoa",
+                  "text": "A Gaoa egy köves hegycsúcs a vizuálisan lenyűgöző Mabla-hegység természeti régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.028333,
+                        11.872222
+                  ]
+            },
+            {
+                  "name": "Issa",
+                  "text": "Az Issa egy zord hegyvidéki magaslat, amely a Mabla-hegység szerkezeti gerincéhez járul hozzá.",
+                  "category": "natural",
+                  "coords": [
+                        43.005833,
+                        11.883056
+                  ]
+            },
+            {
+                  "name": "Gôma Bôra",
+                  "text": "A Goma Bora egy kitett hegycsúcs, ahonnan hatalmas kilátás nyílik a Mabla-hegység zord terepére.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.895
+                  ]
+            },
+            {
+                  "name": "Kaḏḏa Mayrâ‘aḏi",
+                  "text": "A Kaḏḏa Mayrâ‘aḏi egy tornyosuló hegycsúcs a Mabla-hegység távoli, zabolátlan tájával szemben.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.925278
+                  ]
+            },
+            {
+                  "name": "Inkararou",
+                  "text": "Az Inkararou egy meredek sziklás csúcs, amely a Mabla-hegység sziluettjének figyelemre méltó részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.01,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oudlé",
+                  "text": "Az Oudlé egy jellegzetes hegycsúcs a zord és történelmileg pásztorkodó Mabla-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        43.02,
+                        11.915278
+                  ]
+            },
+            {
+                  "name": "Arda Dabba",
+                  "text": "Az Arda Dabba egy impozáns hegyvidéki magaslat a Mabla-hegység természetvédelmi területének mélyén.",
+                  "category": "natural",
+                  "coords": [
+                        43.040833,
+                        11.936111
+                  ]
+            },
+            {
+                  "name": "Tablo",
+                  "text": "A Tablo egy magas hegycsúcs, amely a Mabla-hegység száraz, sziklás völgyei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.016389,
+                        11.931667
+                  ]
+            },
+            {
+                  "name": "Hassim",
+                  "text": "A Hassim egy sziklás hegycsúcs a Mabla-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        43.016944,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Oudadi",
+                  "text": "Az Oudadi egy magas hegycsúcs a Mabla-hegység zord vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        43.033056,
+                        11.965
+                  ]
+            },
+            {
+                  "name": "Ado Daba",
+                  "text": "Az Ado Daba egy kiemelkedő hegycsúcs a festői Mabla-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.963333
+                  ]
+            },
+            {
+                  "name": "Bassalé",
+                  "text": "A Bassalé egy meredek hegycsúcs a Mabla-hegység vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        43.001944,
+                        11.948611
+                  ]
+            },
+            {
+                  "name": "‘Asal Dâba",
+                  "text": "Az ‘Asal Dâba egy zord hegycsúcsként emelkedik a Mabla-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        42.996111,
+                        11.953611
+                  ]
+            },
+            {
+                  "name": "Dadar",
+                  "text": "A Dadar egy jellegzetes hegycsúcs, amely a Mabla-hegységben magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "‘Asa Dawou",
+                  "text": "Az `Asa Dawou csúcs a Mabla-hegység magas hegygerinceinek részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.976944,
+                        11.990833
+                  ]
+            },
+            {
+                  "name": "Ankasalla",
+                  "text": "Az Ankasalla egy impozáns sziklás csúcs a Mabla-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        42.979167,
+                        11.997778
+                  ]
+            },
+            {
+                  "name": "Oûḏ ‘Ale",
+                  "text": "Az Oûḏ ‘Ale egy magas hegycsúcs, amely a Mabla-hegységre néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.99,
+                        11.994444
+                  ]
+            },
+            {
+                  "name": "Maanditi Gouyyouh",
+                  "text": "A Maanditi Gouyyouh egy zord hegygerinc a Mabla-hegység csúcsai között.",
+                  "category": "natural",
+                  "coords": [
+                        43.005556,
+                        11.981944
+                  ]
+            },
+            {
+                  "name": "Danan-kak-rade-Bôlo",
+                  "text": "A Danan-kak-rade-Bôlo egy elszigetelt hegycsúcs a Mabla-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        42.980567,
+                        12.000297
+                  ]
+            },
+            {
+                  "name": "Harsa",
+                  "text": "A Harsa egy köves hegycsúcs, amely kiemelkedik a Mabla-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        43.030278,
+                        11.995556
+                  ]
+            },
+            {
+                  "name": "Assagoli",
+                  "text": "Az Assagoli egy masszív hegycsúcs a Mabla-hegység domborzatában.",
+                  "category": "natural",
+                  "coords": [
+                        43.033611,
+                        11.983611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erekté",
+                  "text": "Erekté este un vârf stâncos situat în lanțurile montane pitorești și izolate ale Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Sa‘a‘",
+                  "text": "Sa`a` este un vârf stâncos distinct, care se înalță brusc printre culmile Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.9675,
+                        11.9525
+                  ]
+            },
+            {
+                  "name": "‘Angaffi",
+                  "text": "`Angaffi este o elevație proeminentă care contribuie la orizontul stâncos al Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.975278,
+                        11.939444
+                  ]
+            },
+            {
+                  "name": "Ḏikil",
+                  "text": "Ḏikil este un vârf montan situat în terenul arid și înalt al regiunii Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.971667,
+                        11.921944
+                  ]
+            },
+            {
+                  "name": "Ibna Fila",
+                  "text": "Ibna Fila este un vârf abrupt care face parte din peisajul dramatic al Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.054167,
+                        11.971667
+                  ]
+            },
+            {
+                  "name": "Ouaïbolou",
+                  "text": "Ouaïbolou este un vârf falnic care domină secțiunea sa din stâncoșii Munți Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.061111,
+                        11.959444
+                  ]
+            },
+            {
+                  "name": "Garab",
+                  "text": "Garab este un vârf montan impunător situat în cadrul ecosistemelor diverse ale lanțului Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.933333
+                  ]
+            },
+            {
+                  "name": "Ouaïbolé",
+                  "text": "Ouaïbolé este o altitudine înaltă care oferă vederi panoramice peste văile Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.055,
+                        11.914167
+                  ]
+            },
+            {
+                  "name": "Obloli",
+                  "text": "Obloli este un vârf montan ascuțit care punctează orizontul în regiunea Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.088889,
+                        11.912222
+                  ]
+            },
+            {
+                  "name": "Mangaïa",
+                  "text": "Mangaïa este un vârf montan arid care se distinge printre formațiunile naturale ale lanțului Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.057778,
+                        11.883889
+                  ]
+            },
+            {
+                  "name": "Garassou",
+                  "text": "Garassou este o elevație stâncoasă care se înalță din pantele abrupte ale Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.874722
+                  ]
+            },
+            {
+                  "name": "Galato",
+                  "text": "Galato este un vârf distinct, situat în mediul izolat de munte din Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.891667
+                  ]
+            },
+            {
+                  "name": "Dihilta",
+                  "text": "Dihilta este un vârf impunător care formează o parte integrantă a peisajului pitoresc al Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.065,
+                        11.901667
+                  ]
+            },
+            {
+                  "name": "Ado Tim",
+                  "text": "Ado Tim este un vârf montan înconjurat de terenul stâncos și neatins al lanțului Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        11.9
+                  ]
+            },
+            {
+                  "name": "Gabilema",
+                  "text": "Gabilema este un punct stâncos înalt situat în întinderea aridă a Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.019444,
+                        11.903056
+                  ]
+            },
+            {
+                  "name": "Ediliba",
+                  "text": "Ediliba este un vârf proeminent care se înalță spectaculos din văile înconjurătoare ale Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Gaoa",
+                  "text": "Gaoa este un vârf montan pietros situat în impresionanta regiune naturală a Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.028333,
+                        11.872222
+                  ]
+            },
+            {
+                  "name": "Issa",
+                  "text": "Issa este o elevație montană stâncoasă care contribuie la coloana vertebrală structurală a Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.005833,
+                        11.883056
+                  ]
+            },
+            {
+                  "name": "Gôma Bôra",
+                  "text": "Goma Bora este un vârf expus care oferă priveliști vaste asupra terenului accidentat al Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.895
+                  ]
+            },
+            {
+                  "name": "Kaḏḏa Mayrâ‘aḏi",
+                  "text": "Kaḏḏa Mayrâ‘aḏi este un vârf falnic profilat pe peisajul izolat și sălbatic al lanțului muntos Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.925278
+                  ]
+            },
+            {
+                  "name": "Inkararou",
+                  "text": "Inkararou este un vârf stâncos abrupt care formează o parte notabilă a orizontului Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.01,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oudlé",
+                  "text": "Oudlé este un vârf montan distinct, situat în stâncoșii și istoric pastoralii Munți Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.02,
+                        11.915278
+                  ]
+            },
+            {
+                  "name": "Arda Dabba",
+                  "text": "Arda Dabba este o elevație montană impunătoare situată adânc în zona naturală a Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.040833,
+                        11.936111
+                  ]
+            },
+            {
+                  "name": "Tablo",
+                  "text": "Tablo este un vârf montan înalt care se ridică deasupra văilor uscate și stâncoase ale lanțului Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.016389,
+                        11.931667
+                  ]
+            },
+            {
+                  "name": "Hassim",
+                  "text": "Hassim este un vârf montan stâncos situat în Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.016944,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Oudadi",
+                  "text": "Oudadi este un vârf montan înalt din terenul accidentat al Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.033056,
+                        11.965
+                  ]
+            },
+            {
+                  "name": "Ado Daba",
+                  "text": "Ado Daba este un vârf proeminent situat în pitoreștii Munți Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.963333
+                  ]
+            },
+            {
+                  "name": "Bassalé",
+                  "text": "Bassalé este un vârf montan abrupt aflat în peisajul Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.001944,
+                        11.948611
+                  ]
+            },
+            {
+                  "name": "‘Asal Dâba",
+                  "text": "‘Asal Dâba se înalță ca un vârf montan accidentat în Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.996111,
+                        11.953611
+                  ]
+            },
+            {
+                  "name": "Dadar",
+                  "text": "Dadar este un vârf montan distinctiv care se înalță în Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "‘Asa Dawou",
+                  "text": "Vârful `Asa Dawou face parte din crestele montane înalte ale Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.976944,
+                        11.990833
+                  ]
+            },
+            {
+                  "name": "Ankasalla",
+                  "text": "Ankasalla este un vârf stâncos impunător situat în Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.979167,
+                        11.997778
+                  ]
+            },
+            {
+                  "name": "Oûḏ ‘Ale",
+                  "text": "Oûḏ ‘Ale este un vârf montan înalt care domină Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.99,
+                        11.994444
+                  ]
+            },
+            {
+                  "name": "Maanditi Gouyyouh",
+                  "text": "Maanditi Gouyyouh este o creastă accidentată aflată printre vârfurile Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.005556,
+                        11.981944
+                  ]
+            },
+            {
+                  "name": "Danan-kak-rade-Bôlo",
+                  "text": "Danan-kak-rade-Bôlo este un vârf montan izolat situat în Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        42.980567,
+                        12.000297
+                  ]
+            },
+            {
+                  "name": "Harsa",
+                  "text": "Harsa este un vârf montan pietros, proeminent în Munții Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.030278,
+                        11.995556
+                  ]
+            },
+            {
+                  "name": "Assagoli",
+                  "text": "Assagoli se înalță ca un vârf montan masiv în relieful Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.033611,
+                        11.983611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erekté",
+                  "text": "Erekté is a rugged summit located within the scenic and remote ranges of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Sa`a`",
+                  "text": "Sa`a` is a distinct rocky peak rising sharply among the peaks of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.9675,
+                        11.9525
+                  ]
+            },
+            {
+                  "name": "`Angaffi",
+                  "text": "`Angaffi is a prominent elevation contributing to the rugged skyline of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.975278,
+                        11.939444
+                  ]
+            },
+            {
+                  "name": "Ḏikil",
+                  "text": "Ḏikil is a mountainous peak set within the arid, highland terrain of the Mabla Mountains region.",
+                  "category": "natural",
+                  "coords": [
+                        42.971667,
+                        11.921944
+                  ]
+            },
+            {
+                  "name": "Ibna Fila",
+                  "text": "Ibna Fila is a steep summit that forms part of the dramatic landscape of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.054167,
+                        11.971667
+                  ]
+            },
+            {
+                  "name": "Ouaïbolou",
+                  "text": "Ouaïbolou is a towering peak dominating its section of the rocky Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.061111,
+                        11.959444
+                  ]
+            },
+            {
+                  "name": "Garab",
+                  "text": "Garab is an imposing mountain peak situated within the diverse ecosystems of the Mabla range.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.933333
+                  ]
+            },
+            {
+                  "name": "Ouaïbolé",
+                  "text": "Ouaïbolé is a high elevation offering panoramic views across the valleys of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.055,
+                        11.914167
+                  ]
+            },
+            {
+                  "name": "Obloli",
+                  "text": "Obloli is a sharp mountain summit that punctuates the horizon in the Mabla Mountains region.",
+                  "category": "natural",
+                  "coords": [
+                        43.088889,
+                        11.912222
+                  ]
+            },
+            {
+                  "name": "Mangaïa",
+                  "text": "Mangaïa is an arid mountain peak standing prominently among the natural formations of the Mabla range.",
+                  "category": "natural",
+                  "coords": [
+                        43.057778,
+                        11.883889
+                  ]
+            },
+            {
+                  "name": "Garassou",
+                  "text": "Garassou is a rugged elevation rising from the rocky slopes of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.874722
+                  ]
+            },
+            {
+                  "name": "Galato",
+                  "text": "Galato is a distinctive peak located amidst the remote highland environment of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.891667
+                  ]
+            },
+            {
+                  "name": "Dihilta",
+                  "text": "Dihilta is a towering summit forming an integral part of the scenic Mabla Mountains landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.065,
+                        11.901667
+                  ]
+            },
+            {
+                  "name": "Ado Tim",
+                  "text": "Ado Tim is a mountain peak surrounded by the rugged, unspoiled terrain of the Mabla range.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        11.9
+                  ]
+            },
+            {
+                  "name": "Gabilema",
+                  "text": "Gabilema is an elevated rocky point situated within the arid expanse of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.019444,
+                        11.903056
+                  ]
+            },
+            {
+                  "name": "Ediliba",
+                  "text": "Ediliba is a prominent peak rising dramatically from the surrounding valleys of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Gaoa",
+                  "text": "Gaoa is a stony mountain summit located in the visually striking Mabla Mountains natural region.",
+                  "category": "natural",
+                  "coords": [
+                        43.028333,
+                        11.872222
+                  ]
+            },
+            {
+                  "name": "Issa",
+                  "text": "Issa is a rugged mountain elevation contributing to the structural backbone of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.005833,
+                        11.883056
+                  ]
+            },
+            {
+                  "name": "Goma Bora",
+                  "text": "Goma Bora is an exposed summit offering vast vistas over the rugged terrain of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.895
+                  ]
+            },
+            {
+                  "name": "Kaḏḏa Mayrâ‘aḏi",
+                  "text": "Kaḏḏa Mayrâ‘aḏi is a towering peak set against the remote, untamed landscape of the Mabla mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        42.980556,
+                        11.925278
+                  ]
+            },
+            {
+                  "name": "Inkararou",
+                  "text": "Inkararou is a steep rocky pinnacle that forms a notable part of the Mabla Mountains skyline.",
+                  "category": "natural",
+                  "coords": [
+                        43.01,
+                        11.9225
+                  ]
+            },
+            {
+                  "name": "Oudlé",
+                  "text": "Oudlé is a distinct mountain peak located in the rugged and historically pastoral Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.02,
+                        11.915278
+                  ]
+            },
+            {
+                  "name": "Arda Dabba",
+                  "text": "Arda Dabba is an imposing mountainous elevation situated deep within the Mabla Mountains nature area.",
+                  "category": "natural",
+                  "coords": [
+                        43.040833,
+                        11.936111
+                  ]
+            },
+            {
+                  "name": "Tablo",
+                  "text": "Tablo is a high mountain summit rising above the dry, rocky valleys of the Mabla range.",
+                  "category": "natural",
+                  "coords": [
+                        43.016389,
+                        11.931667
+                  ]
+            },
+            {
+                  "name": "Hassim",
+                  "text": "Hassim is a rocky mountain peak rising in the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.016944,
+                        11.949722
+                  ]
+            },
+            {
+                  "name": "Oudadi",
+                  "text": "Oudadi is an elevated mountain summit within the rugged terrain of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.033056,
+                        11.965
+                  ]
+            },
+            {
+                  "name": "Ado Daba",
+                  "text": "Ado Daba is a prominent summit located in the scenic Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.016667,
+                        11.963333
+                  ]
+            },
+            {
+                  "name": "Bassalé",
+                  "text": "Bassalé is a steep mountain peak set in the Mabla Mountains landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.001944,
+                        11.948611
+                  ]
+            },
+            {
+                  "name": "‘Asal Dâba",
+                  "text": "‘Asal Dâba stands as a rugged mountain peak in the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.996111,
+                        11.953611
+                  ]
+            },
+            {
+                  "name": "Dadar",
+                  "text": "Dadar is a distinctive mountain summit towering in the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.972778
+                  ]
+            },
+            {
+                  "name": "`Asa Dawou",
+                  "text": "The `Asa Dawou peak forms part of the elevated mountain ridges of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.976944,
+                        11.990833
+                  ]
+            },
+            {
+                  "name": "Ankasalla",
+                  "text": "Ankasalla is an imposing rocky peak situated in the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.979167,
+                        11.997778
+                  ]
+            },
+            {
+                  "name": "Oûḏ ‘Ale",
+                  "text": "Oûḏ ‘Ale is a high mountain summit overlooking the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.99,
+                        11.994444
+                  ]
+            },
+            {
+                  "name": "Maanditi Gouyyouh",
+                  "text": "Maanditi Gouyyouh is a rugged crest found within the peaks of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.005556,
+                        11.981944
+                  ]
+            },
+            {
+                  "name": "Danan-kak-rade-Bôlo",
+                  "text": "Danan-kak-rade-Bôlo is an isolated mountain peak located in the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.980567,
+                        12.000297
+                  ]
+            },
+            {
+                  "name": "Harsa",
+                  "text": "Harsa is a stony mountain summit prominent in the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.030278,
+                        11.995556
+                  ]
+            },
+            {
+                  "name": "Assagoli",
+                  "text": "Assagoli stands as a solid mountain peak in the terrain of the Mabla Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.033611,
+                        11.983611
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-OB",
     coords: [43.05, 11.95],
@@ -579,7 +2739,304 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "ras-siyyan-nature-v2",
+    id: "ras-siyyan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goûlen",
+                  "text": "Ein natürlicher Gipfel in der Küsten- und Binnenlandschaft von Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.276742,
+                        12.469701
+                  ]
+            },
+            {
+                  "name": "Herkalou",
+                  "text": "Dieser Gipfel trägt zur zerklüfteten Topografie des Naturgebiets Ras Siyyan bei.",
+                  "category": "natural",
+                  "coords": [
+                        43.290243,
+                        12.45406
+                  ]
+            },
+            {
+                  "name": "Gamfoulle",
+                  "text": "Ein erhöhter Gipfel, der weite Ausblicke über die Naturlandschaften von Ras Siyyan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.255456,
+                        12.499664
+                  ]
+            },
+            {
+                  "name": "Moud‘oudli",
+                  "text": "Ein markanter Berggipfel, der innerhalb der geschützten natürlichen Grenzen von Ras Siyyan steht.",
+                  "category": "natural",
+                  "coords": [
+                        43.248704,
+                        12.49778
+                  ]
+            },
+            {
+                  "name": "Sinan Boyna",
+                  "text": "Dieser Berggipfel ist ein markantes geologisches Merkmal in der Region Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.221345,
+                        12.501581
+                  ]
+            },
+            {
+                  "name": "Afḏêrar",
+                  "text": "Ein natürlicher Höhepunkt, der in das vielfältige Ökosystem von Ras Siyyan integriert ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.245581,
+                        12.480108
+                  ]
+            },
+            {
+                  "name": "‘Oudounta",
+                  "text": "Dieser Gipfel erhebt sich abrupt über das umliegende natürliche Gelände im Gebiet Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.249612,
+                        12.467561
+                  ]
+            },
+            {
+                  "name": "Rahra",
+                  "text": "Ein topografischer Gipfel, der den Landschaftscharakter in der Naturzone Ras Siyyan prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.264697,
+                        12.455823
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goûlen",
+                  "text": "A Ras Siyyan partvidéki és szárazföldi természeti környezetében található természetes csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.276742,
+                        12.469701
+                  ]
+            },
+            {
+                  "name": "Herkalou",
+                  "text": "Ez a csúcs hozzájárul a Ras Siyyan-i természeti terület zord domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        43.290243,
+                        12.45406
+                  ]
+            },
+            {
+                  "name": "Gamfoulle",
+                  "text": "A Ras Siyyan természeti tájaira széles panorámát nyújtó magaslati csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.255456,
+                        12.499664
+                  ]
+            },
+            {
+                  "name": "Moud‘oudli",
+                  "text": "A Ras Siyyan védett természeti határain belül álló kiemelkedő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.248704,
+                        12.49778
+                  ]
+            },
+            {
+                  "name": "Sinan Boyna",
+                  "text": "Ez a hegycsúcs a Ras Siyyan régió egyik kiemelkedő geológiai képződménye.",
+                  "category": "natural",
+                  "coords": [
+                        43.221345,
+                        12.501581
+                  ]
+            },
+            {
+                  "name": "Afḏêrar",
+                  "text": "A Ras Siyyan változatos ökoszisztémájába illeszkedő természetes magaslati pont.",
+                  "category": "natural",
+                  "coords": [
+                        43.245581,
+                        12.480108
+                  ]
+            },
+            {
+                  "name": "‘Oudounta",
+                  "text": "Ez a csúcs hirtelen emelkedik ki a Ras Siyyan-i terület környező természetes terepéből.",
+                  "category": "natural",
+                  "coords": [
+                        43.249612,
+                        12.467561
+                  ]
+            },
+            {
+                  "name": "Rahra",
+                  "text": "A Ras Siyyan-i természeti övezet tájjellegének részét képező domborzati csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.264697,
+                        12.455823
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goûlen",
+                  "text": "Un vârf natural situat în mediul natural de coastă și de interior din Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.276742,
+                        12.469701
+                  ]
+            },
+            {
+                  "name": "Herkalou",
+                  "text": "Acest pisc contribuie la topografia accidentată a zonei naturale Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.290243,
+                        12.45406
+                  ]
+            },
+            {
+                  "name": "Gamfoulle",
+                  "text": "Un vârf înalt care oferă priveliști panoramice peste peisajele naturale din Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.255456,
+                        12.499664
+                  ]
+            },
+            {
+                  "name": "Moud‘oudli",
+                  "text": "Un vârf montan distins aflat în granițele naturale protejate ale zonei Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.248704,
+                        12.49778
+                  ]
+            },
+            {
+                  "name": "Sinan Boyna",
+                  "text": "Această culme montană este o trăsătură geologică proeminentă în regiunea Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.221345,
+                        12.501581
+                  ]
+            },
+            {
+                  "name": "Afḏêrar",
+                  "text": "Un punct înalt natural integrat în ecosistemul divers din Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.245581,
+                        12.480108
+                  ]
+            },
+            {
+                  "name": "‘Oudounta",
+                  "text": "Acest vârf se înalță abrupt deasupra terenului natural înconjurător din zona Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.249612,
+                        12.467561
+                  ]
+            },
+            {
+                  "name": "Rahra",
+                  "text": "Un vârf topografic care face parte din caracterul peisagistic al zonei naturale Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.264697,
+                        12.455823
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goûlen",
+                  "text": "A natural peak located in the coastal and inland nature environment of Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.276742,
+                        12.469701
+                  ]
+            },
+            {
+                  "name": "Herkalou",
+                  "text": "This peak contributes to the rugged topography of the Ras Siyyan natural area.",
+                  "category": "natural",
+                  "coords": [
+                        43.290243,
+                        12.45406
+                  ]
+            },
+            {
+                  "name": "Gamfoulle",
+                  "text": "An elevated summit providing sweeping views over the nature landscapes of Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.255456,
+                        12.499664
+                  ]
+            },
+            {
+                  "name": "Moud`oudli",
+                  "text": "A distinguished mountain peak standing within the protected natural boundaries of Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.248704,
+                        12.49778
+                  ]
+            },
+            {
+                  "name": "Sinan Boyna",
+                  "text": "This mountain summit is a prominent geological feature in the Ras Siyyan region.",
+                  "category": "natural",
+                  "coords": [
+                        43.221345,
+                        12.501581
+                  ]
+            },
+            {
+                  "name": "Afḏêrar",
+                  "text": "A natural high point integrated into the diverse ecosystem of Ras Siyyan.",
+                  "category": "natural",
+                  "coords": [
+                        43.245581,
+                        12.480108
+                  ]
+            },
+            {
+                  "name": "`Oudounta",
+                  "text": "This peak rises abruptly above the surrounding natural terrain in the Ras Siyyan area.",
+                  "category": "natural",
+                  "coords": [
+                        43.249612,
+                        12.467561
+                  ]
+            },
+            {
+                  "name": "Rahra",
+                  "text": "A topographic peak forming part of the landscape character in the Ras Siyyan nature zone.",
+                  "category": "natural",
+                  "coords": [
+                        43.264697,
+                        12.455823
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DJ-OB",
     coords: [43.31, 12.48],
@@ -675,7 +3132,340 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "khor-angar-nature-v2",
+    id: "khor-angar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dallou‘ta",
+                  "text": "Ein Berggipfel, der sich in der Naturlandschaft rund um Khor Angar erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.273815,
+                        12.322043
+                  ]
+            },
+            {
+                  "name": "Gid‘i",
+                  "text": "Dieser Gipfel ist Teil des zerklüfteten Geländes im Naturgebiet Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.295816,
+                        12.305532
+                  ]
+            },
+            {
+                  "name": "Kabi‘lou",
+                  "text": "Ein markanter Gipfel, der zur topografischen Vielfalt der Region Khor Angar beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        43.294182,
+                        12.340021
+                  ]
+            },
+            {
+                  "name": "Ayrole",
+                  "text": "Ein markanter Berggipfel inmitten der natürlichen Umgebung von Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.278651,
+                        12.334808
+                  ]
+            },
+            {
+                  "name": "Malable",
+                  "text": "Dieser Gipfel sticht in der für das Gebiet Khor Angar charakteristischen Naturkulisse hervor.",
+                  "category": "natural",
+                  "coords": [
+                        43.279296,
+                        12.374071
+                  ]
+            },
+            {
+                  "name": "Na‘sibaḏa",
+                  "text": "Ein natürlicher Gipfel, der sich über die umliegende Landschaft von Khor Angar erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.288342,
+                        12.380513
+                  ]
+            },
+            {
+                  "name": "‘As Gabla",
+                  "text": "Dieser felsige Gipfel ist ein bemerkenswertes topografisches Merkmal in der Naturzone Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.271198,
+                        12.413909
+                  ]
+            },
+            {
+                  "name": "Amḏerta",
+                  "text": "Ein markanter Berggipfel, der in die Wildnis um Khor Angar integriert ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.261682,
+                        12.375867
+                  ]
+            },
+            {
+                  "name": "Bôrallahe",
+                  "text": "Dieser Gipfel prägt einen Teil der Skyline in den natürlichen Weiten bei Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.255711,
+                        12.307043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dallou‘ta",
+                  "text": "A Khor Angart körülvevő természeti tájon kiemelkedő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.273815,
+                        12.322043
+                  ]
+            },
+            {
+                  "name": "Gid‘i",
+                  "text": "Ez a csúcs a Khor Angar-i természetvédelmi terület zord terepének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.295816,
+                        12.305532
+                  ]
+            },
+            {
+                  "name": "Kabi‘lou",
+                  "text": "A Khor Angar régió domborzati sokszínűségéhez hozzájáruló magaslati csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.294182,
+                        12.340021
+                  ]
+            },
+            {
+                  "name": "Ayrole",
+                  "text": "A Khor Angar természeti környezetében található kiemelkedő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.278651,
+                        12.334808
+                  ]
+            },
+            {
+                  "name": "Malable",
+                  "text": "Ez a csúcs a Khor Angar környékére jellemző természeti tájból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        43.279296,
+                        12.374071
+                  ]
+            },
+            {
+                  "name": "Na‘sibaḏa",
+                  "text": "A környező Khor Angar-i táj fölé magasodó természetes csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.288342,
+                        12.380513
+                  ]
+            },
+            {
+                  "name": "‘As Gabla",
+                  "text": "Ez a sziklás hegytető a Khor Angar-i természeti övezet egyik jelentős domborzati jellemzője.",
+                  "category": "natural",
+                  "coords": [
+                        43.271198,
+                        12.413909
+                  ]
+            },
+            {
+                  "name": "Amḏerta",
+                  "text": "A Khor Angar körüli vadonba simuló jellegzetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        43.261682,
+                        12.375867
+                  ]
+            },
+            {
+                  "name": "Bôrallahe",
+                  "text": "Ez a csúcs határozza meg a horizont egy részét a Khor Angar melletti természetes térségekben.",
+                  "category": "natural",
+                  "coords": [
+                        43.255711,
+                        12.307043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dallou‘ta",
+                  "text": "Un vârf montan care se înalță în peisajul natural din jurul localității Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.273815,
+                        12.322043
+                  ]
+            },
+            {
+                  "name": "Gid‘i",
+                  "text": "Acest pisc face parte din terenul accidentat din zona naturală Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.295816,
+                        12.305532
+                  ]
+            },
+            {
+                  "name": "Kabi‘lou",
+                  "text": "Un vârf înalt care contribuie la diversitatea topografică a regiunii Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.294182,
+                        12.340021
+                  ]
+            },
+            {
+                  "name": "Ayrole",
+                  "text": "Un summit montan proeminent situat în mediul natural din Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.278651,
+                        12.334808
+                  ]
+            },
+            {
+                  "name": "Malable",
+                  "text": "Acest vârf se evidențiază în decorul natural caracteristic zonei Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.279296,
+                        12.374071
+                  ]
+            },
+            {
+                  "name": "Na‘sibaḏa",
+                  "text": "Un vârf natural care se înalță deasupra peisajului înconjurător din Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.288342,
+                        12.380513
+                  ]
+            },
+            {
+                  "name": "‘As Gabla",
+                  "text": "Această culme stâncoasă este o trăsătură topografică notabilă în zona naturală Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.271198,
+                        12.413909
+                  ]
+            },
+            {
+                  "name": "Amḏerta",
+                  "text": "Un vârf montan distinct integrat în sălbăticia din jurul localității Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.261682,
+                        12.375867
+                  ]
+            },
+            {
+                  "name": "Bôrallahe",
+                  "text": "Acest vârf definește o parte a orizontului în întinderile naturale din apropiere de Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.255711,
+                        12.307043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dallou`ta",
+                  "text": "A mountain peak rising within the natural landscape surrounding Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.273815,
+                        12.322043
+                  ]
+            },
+            {
+                  "name": "Gid`i",
+                  "text": "This summit forms part of the rugged terrain in the Khor Angar nature area.",
+                  "category": "natural",
+                  "coords": [
+                        43.295816,
+                        12.305532
+                  ]
+            },
+            {
+                  "name": "Kabi`lou",
+                  "text": "An elevated peak contributing to the topographical diversity of the Khor Angar region.",
+                  "category": "natural",
+                  "coords": [
+                        43.294182,
+                        12.340021
+                  ]
+            },
+            {
+                  "name": "Ayrole",
+                  "text": "A prominent mountain summit located within the natural environment of Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.278651,
+                        12.334808
+                  ]
+            },
+            {
+                  "name": "Malable",
+                  "text": "This peak stands out in the natural scenery characteristic of the Khor Angar area.",
+                  "category": "natural",
+                  "coords": [
+                        43.279296,
+                        12.374071
+                  ]
+            },
+            {
+                  "name": "Na‘sibaḏa",
+                  "text": "A natural peak offering elevation above the surrounding Khor Angar landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.288342,
+                        12.380513
+                  ]
+            },
+            {
+                  "name": "`As Gabla",
+                  "text": "This rocky summit is a notable topographical feature in the Khor Angar nature zone.",
+                  "category": "natural",
+                  "coords": [
+                        43.271198,
+                        12.413909
+                  ]
+            },
+            {
+                  "name": "Amḏerta",
+                  "text": "A distinct mountain peak integrated into the wilderness around Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.261682,
+                        12.375867
+                  ]
+            },
+            {
+                  "name": "Bôrallahe",
+                  "text": "This peak defines part of the skyline in the natural expanses near Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.255711,
+                        12.307043
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DJ-OB",
     coords: [43.32, 12.37],
@@ -723,7 +3513,52 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "ambouli-river-nature-v2",
+    id: "ambouli-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Balbala (1894)",
+                  "text": "Der alte Leuchtturm von Balbala ist ein historischer Navigationsturm in der Nähe der Mündung des Flusses Ambouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.122915,
+                        11.553132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancien phare de Balbala",
+                  "text": "Balbala régi világítótornya egy történelmi navigációs torony az Ambouli-folyó torkolata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.122915,
+                        11.553132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancien phare de Balbala",
+                  "text": "Vechiul far din Balbala este un turn de navigație istoric situat în apropierea râului Ambouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.122915,
+                        11.553132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old lighthouse of Balbala",
+                  "text": "The Old lighthouse of Balbala is a historic navigational tower standing near the Ambouli River.",
+                  "category": "landmark",
+                  "coords": [
+                        43.122915,
+                        11.553132
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DJ-DJ",
     coords: [43.12, 11.55],
@@ -771,7 +3606,304 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "wea-river-nature-v2",
+    id: "wea-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bil‘in Ouéïn",
+                  "text": "Der Gipfel Bil‘in Ouéïn ist eine markante Erhebung im Tal des Flusses Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "Lângobâlé Madôbé",
+                  "text": "Der Lângobâlé Madôbé ist ein unberührter Berggipfel, der die Ufer des Flusses Wea flankiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Doqéï",
+                  "text": "Der Gipfel Doqéï fügt sich in die naturbelassene Landschaft nahe dem Lauf des Wea-Flusses ein.",
+                  "category": "natural",
+                  "coords": [
+                        42.914444,
+                        11.445556
+                  ]
+            },
+            {
+                  "name": "‘Ânôd",
+                  "text": "Die natürliche Erhebung ‘Ânôd überragt die trockene Flusslandschaft des Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.905833,
+                        11.460833
+                  ]
+            },
+            {
+                  "name": "Bour Ougoul",
+                  "text": "Der felsige Gipfel Bour Ougoul bietet einen Ausblick auf das umliegende Wea-Flusstal.",
+                  "category": "natural",
+                  "coords": [
+                        42.883333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "‘Ali Sagar",
+                  "text": "Der Gipfel ‘Ali Sagar ist eine markante landschaftliche Besonderheit in der natürlichen Umgebung des Wea-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        42.844722,
+                        11.426944
+                  ]
+            },
+            {
+                  "name": "Kalâloho",
+                  "text": "Der Kalâloho ist ein abgelegener Berggipfel in der artenreichen Natur um den Fluss Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "Die Touristenattraktion \"letters\" ist eine großformatige Beschilderung in der Nähe des Wea-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bil‘in Ouéïn",
+                  "text": "A Bil‘in Ouéïn csúcs egy kiemelkedő magaslat a Wea-folyó völgyében.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "Lângobâlé Madôbé",
+                  "text": "A Lângobâlé Madôbé egy érintetlen hegycsúcs, amely a Wea-folyó partjait szegélyezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Doqéï",
+                  "text": "A Doqéï hegycsúcs a Wea-folyó folyása melletti természetes tájba illeszkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.914444,
+                        11.445556
+                  ]
+            },
+            {
+                  "name": "‘Ânôd",
+                  "text": "Az ‘Ânôd természetes magaslat a Wea száraz folyóvölgye fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.905833,
+                        11.460833
+                  ]
+            },
+            {
+                  "name": "Bour Ougoul",
+                  "text": "A Bour Ougoul sziklás csúcsa kilátást nyújt a környező Wea-folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        42.883333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "‘Ali Sagar",
+                  "text": "Az ‘Ali Sagar csúcs egy jelentős táji elem a Wea-folyó természetes környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        42.844722,
+                        11.426944
+                  ]
+            },
+            {
+                  "name": "Kalâloho",
+                  "text": "A Kalâloho egy félreeső hegycsúcs a Wea-folyó körüli gazdag természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "A \"letters\" nevű látványosság egy nagybetűs felirat a Wea-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bil‘in Ouéïn",
+                  "text": "Vârful Bil‘in Ouéïn este o formă de relief proeminentă în valea râului Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "Lângobâlé Madôbé",
+                  "text": "Lângobâlé Madôbé este un vârf montan neatins care flanchează malurile râului Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Doqéï",
+                  "text": "Vârful Doqéï se integrează în peisajul natural de lângă cursul râului Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.914444,
+                        11.445556
+                  ]
+            },
+            {
+                  "name": "‘Ânôd",
+                  "text": "Cotația naturală ‘Ânôd se înalță deasupra văii aride a râului Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.905833,
+                        11.460833
+                  ]
+            },
+            {
+                  "name": "Bour Ougoul",
+                  "text": "Vârful stâncos Bour Ougoul oferă o priveliște asupra văii râului Wea înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        42.883333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "‘Ali Sagar",
+                  "text": "Vârful ‘Ali Sagar este un element peisagistic proeminent în mediul natural al râului Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.844722,
+                        11.426944
+                  ]
+            },
+            {
+                  "name": "Kalâloho",
+                  "text": "Kalâloho este un vârf montan izolat în mediul natural bogat din jurul râului Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "Atracția turistică „letters” este un semn de mari dimensiuni situat în apropierea râului Wea.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bil‘in Ouéïn",
+                  "text": "The Bil‘in Ouéïn peak is a prominent elevation located within the valley of the Wea River.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "Lângobâlé Madôbé",
+                  "text": "Lângobâlé Madôbé is a pristine mountain peak flanking the banks of the Wea River.",
+                  "category": "natural",
+                  "coords": [
+                        42.921667,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Doqéï",
+                  "text": "The Doqéï peak blends into the natural landscape near the course of the Wea River.",
+                  "category": "natural",
+                  "coords": [
+                        42.914444,
+                        11.445556
+                  ]
+            },
+            {
+                  "name": "‘Ânôd",
+                  "text": "The natural elevation of ‘Ânôd towers above the dry riverbed landscape of the Wea.",
+                  "category": "natural",
+                  "coords": [
+                        42.905833,
+                        11.460833
+                  ]
+            },
+            {
+                  "name": "Bour Ougoul",
+                  "text": "The rocky peak of Bour Ougoul provides an overlook of the surrounding Wea River valley.",
+                  "category": "natural",
+                  "coords": [
+                        42.883333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "‘Ali Sagar",
+                  "text": "The ‘Ali Sagar peak stands as a notable landscape feature in the natural environment of the Wea River.",
+                  "category": "natural",
+                  "coords": [
+                        42.844722,
+                        11.426944
+                  ]
+            },
+            {
+                  "name": "Kalâloho",
+                  "text": "Kalâloho is a remote mountain peak set in the diverse natural environment around the Wea River.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "The \"letters\" attraction features a large-scale sign set against the natural backdrop of the Wea River.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DJ-AR",
     coords: [42.86, 11.47],
@@ -819,7 +3951,160 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "ghoubbet-lake-nature-v2",
+    id: "ghoubbet-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kanniyeyta",
+                  "text": "Kanniyeyta ist ein natürlicher Gipfel, der sich über den malerischen, salzhaltigen Gewässern des Ghoubbet-Sees erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.624167,
+                        11.621667
+                  ]
+            },
+            {
+                  "name": "Baddi Guêra",
+                  "text": "Der Gipfel des Baddi Guêra trägt zur dramatischen Bergkulisse bei, die den natürlichen Ghoubbet-See umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        42.671944,
+                        11.576389
+                  ]
+            },
+            {
+                  "name": "Dourmal‘e",
+                  "text": "Dourmal‘e ist ein topografisches Merkmal, das die wilde, unberührte Natur rund um den Ghoubbet-See charakterisiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.615278,
+                        11.616667
+                  ]
+            },
+            {
+                  "name": "‘Osdora",
+                  "text": "Der schroffe Gipfel des `Osdora überblickt das einzigartige ökologische Becken des natürlichen Ghoubbet-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        42.6,
+                        11.622778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kanniyeyta",
+                  "text": "A Kanniyeyta egy természetes hegycsúcs, amely a Ghoubbet-tó festői, sós vizei fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.624167,
+                        11.621667
+                  ]
+            },
+            {
+                  "name": "Baddi Guêra",
+                  "text": "A Baddi Guêra csúcsa hozzájárul a természetes Ghoubbet-tavat körülvevő drámai hegyvidéki háttérhez.",
+                  "category": "natural",
+                  "coords": [
+                        42.671944,
+                        11.576389
+                  ]
+            },
+            {
+                  "name": "Dourmal‘e",
+                  "text": "A Dourmal‘e egy kiemelkedő topográfiai jellemző, amely a Ghoubbet-tó körüli vad, érintetlen természetet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        42.615278,
+                        11.616667
+                  ]
+            },
+            {
+                  "name": "‘Osdora",
+                  "text": "Az `Osdora zord csúcsa a természetes Ghoubbet-tó egyedülálló ökológiai medencéjére néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.6,
+                        11.622778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kanniyeyta",
+                  "text": "Kanniyeyta este un vârf natural care se ridică deasupra apelor saline și pitorești ale lacului Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.624167,
+                        11.621667
+                  ]
+            },
+            {
+                  "name": "Baddi Guêra",
+                  "text": "Vârful Baddi Guêra contribuie la fundalul montan dramatic care înconjoară lacul natural Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.671944,
+                        11.576389
+                  ]
+            },
+            {
+                  "name": "Dourmal‘e",
+                  "text": "Dourmal‘e este o caracteristică topografică înaltă care caracterizează natura sălbatică și netulburată din jurul lacului Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.615278,
+                        11.616667
+                  ]
+            },
+            {
+                  "name": "‘Osdora",
+                  "text": "Vârful accidentat `Osdora domină bazinul ecologic unic al lacului natural Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.6,
+                        11.622778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanniyeyta",
+                  "text": "Kanniyeyta is a natural peak rising above the scenic, saline waters of the Ghoubbet lake.",
+                  "category": "natural",
+                  "coords": [
+                        42.624167,
+                        11.621667
+                  ]
+            },
+            {
+                  "name": "Baddi Guêra",
+                  "text": "The summit of Baddi Guêra contributes to the dramatic mountainous backdrop surrounding the Ghoubbet natural lake.",
+                  "category": "natural",
+                  "coords": [
+                        42.671944,
+                        11.576389
+                  ]
+            },
+            {
+                  "name": "Dourmal‘e",
+                  "text": "Dourmal‘e is an elevated topographic feature characterizing the wild, undisturbed nature around the Ghoubbet lake.",
+                  "category": "natural",
+                  "coords": [
+                        42.615278,
+                        11.616667
+                  ]
+            },
+            {
+                  "name": "`Osdora",
+                  "text": "The rugged peak of `Osdora overlooks the unique ecological basin of the Ghoubbet natural lake.",
+                  "category": "natural",
+                  "coords": [
+                        42.6,
+                        11.622778
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DJ-AR",
     coords: [42.66, 11.56],
@@ -867,7 +4152,304 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "goda-forest-nature-v2",
+    id: "goda-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "H̱âliblou",
+                  "text": "Haliblou ist ein schattiger, waldbedeckter Gipfel tief im alten Ökosystem des Forêt du Day.",
+                  "category": "natural",
+                  "coords": [
+                        42.752222,
+                        11.823889
+                  ]
+            },
+            {
+                  "name": "Sâroule",
+                  "text": "Sâroule ist ein aufragender Hochlandgipfel, der Überreste der seltenen Wacholderwälder des Goda-Waldes beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        42.721944,
+                        11.821389
+                  ]
+            },
+            {
+                  "name": "Am‘isso Dâba",
+                  "text": "Am‘isso Dâba ist ein schroffer Bergrücken, umgeben vom dichten, geschützten Grün des Goda-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        42.706944,
+                        11.830556
+                  ]
+            },
+            {
+                  "name": "Garrasi ‘Alé",
+                  "text": "Garrasi ‘Alé ist ein Berggipfel, der sich über die üppige Vegetation der Goda-Waldregion erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.726667,
+                        11.848333
+                  ]
+            },
+            {
+                  "name": "Ma‘arre",
+                  "text": "Ma‘arre ist ein zerklüfteter Gipfel inmitten der malerischen, bewaldeten Landschaft der Goda-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        42.739444,
+                        11.881111
+                  ]
+            },
+            {
+                  "name": "Aloumboulo",
+                  "text": "Aloumboulo ist ein markanter Berggipfel in der natürlichen Umgebung des Goda-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        42.75,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Sasaẖya",
+                  "text": "Sasahya ist ein erhabener Gipfel, der einen weiten Blick über die grünen Weiten des Goda-Waldes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.760556,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Dîdâle",
+                  "text": "Dîdâle ist ein felsiger Berggipfel, eingebettet in das abwechslungsreiche Gelände des Goda-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        42.756667,
+                        11.855833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "H̱âliblou",
+                  "text": "A Haliblou egy árnyékos, erdővel borított hegycsúcs, amely mélyen az ősi Day-erdő ökoszisztémájában fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        42.752222,
+                        11.823889
+                  ]
+            },
+            {
+                  "name": "Sâroule",
+                  "text": "A Sâroule egy tornyosuló felvidéki hegycsúcs, amely a Goda-erdő ritka borókaerdeinek maradványait rejti.",
+                  "category": "natural",
+                  "coords": [
+                        42.721944,
+                        11.821389
+                  ]
+            },
+            {
+                  "name": "Am‘isso Dâba",
+                  "text": "Az Am‘isso Dâba egy zord hegygerinc, amelyet a Goda-erdő sűrű, védett növényzete vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        42.706944,
+                        11.830556
+                  ]
+            },
+            {
+                  "name": "Garrasi ‘Alé",
+                  "text": "A Garrasi ‘Alé egy hegycsúcs, amely a Goda-erdő régiójának buja növényzete fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.726667,
+                        11.848333
+                  ]
+            },
+            {
+                  "name": "Ma‘arre",
+                  "text": "A Ma‘arre egy zord hegycsúcs a Goda-hegység festői, erdős tájain.",
+                  "category": "natural",
+                  "coords": [
+                        42.739444,
+                        11.881111
+                  ]
+            },
+            {
+                  "name": "Aloumboulo",
+                  "text": "Az Aloumboulo egy kiemelkedő hegycsúcs a Goda-erdő természeti környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        42.75,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Sasaẖya",
+                  "text": "A Sasahya egy magaslati csúcs, ahonnan pazar kilátás nyílik a Goda-erdő zöldellő kiterjedésére.",
+                  "category": "natural",
+                  "coords": [
+                        42.760556,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Dîdâle",
+                  "text": "A Dîdâle egy sziklás hegycsúcs, amely a Goda-erdő vidékének változatos terepén fészkel.",
+                  "category": "natural",
+                  "coords": [
+                        42.756667,
+                        11.855833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "H̱âliblou",
+                  "text": "Haliblou este un vârf umbrit, acoperit de pădure, situat adânc în vechiul ecosistem al Pădurii Day.",
+                  "category": "natural",
+                  "coords": [
+                        42.752222,
+                        11.823889
+                  ]
+            },
+            {
+                  "name": "Sâroule",
+                  "text": "Sâroule este un vârf înalt care adăpostește rămășițe ale pădurilor rare de ienupăr din Pădurea Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.721944,
+                        11.821389
+                  ]
+            },
+            {
+                  "name": "Am‘isso Dâba",
+                  "text": "Am‘isso Dâba este o creastă muntoasă accidentată înconjurată de verdeața densă și protejată a Pădurii Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.706944,
+                        11.830556
+                  ]
+            },
+            {
+                  "name": "Garrasi ‘Alé",
+                  "text": "Garrasi ‘Alé este un vârf montan care se înalță deasupra vegetației luxuriante din regiunea Pădurii Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.726667,
+                        11.848333
+                  ]
+            },
+            {
+                  "name": "Ma‘arre",
+                  "text": "Ma‘arre este un vârf stâncos situat în peisajele pitorești și împădurite ale Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.739444,
+                        11.881111
+                  ]
+            },
+            {
+                  "name": "Aloumboulo",
+                  "text": "Aloumboulo este un vârf montan proeminent, situat în mediul natural al Pădurii Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.75,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Sasaẖya",
+                  "text": "Sasahya este un vârf înalt care oferă vederi panoramice peste întinderea verde a Pădurii Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.760556,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Dîdâle",
+                  "text": "Dîdâle este un vârf montan stâncos, ascuns printre terenurile variate ale zonei Pădurii Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.756667,
+                        11.855833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haliblou",
+                  "text": "Haliblou is a shaded, forest-covered peak situated deeply within the ancient Day Forest ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        42.752222,
+                        11.823889
+                  ]
+            },
+            {
+                  "name": "Sâroule",
+                  "text": "Sâroule is a towering highland peak harboring remnants of the rare juniper woodlands of the Goda Forest.",
+                  "category": "natural",
+                  "coords": [
+                        42.721944,
+                        11.821389
+                  ]
+            },
+            {
+                  "name": "Am‘isso Dâba",
+                  "text": "Am‘isso Dâba is a rugged mountainous ridge surrounded by the dense, protected greenery of the Goda Forest.",
+                  "category": "natural",
+                  "coords": [
+                        42.706944,
+                        11.830556
+                  ]
+            },
+            {
+                  "name": "Garrasi ‘Alé",
+                  "text": "Garrasi ‘Alé is a mountain peak rising above the lush vegetation of the Goda Forest region.",
+                  "category": "natural",
+                  "coords": [
+                        42.726667,
+                        11.848333
+                  ]
+            },
+            {
+                  "name": "Ma‘arre",
+                  "text": "Ma‘arre is a rugged summit situated within the scenic, forested landscapes of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.739444,
+                        11.881111
+                  ]
+            },
+            {
+                  "name": "Aloumboulo",
+                  "text": "Aloumboulo is a prominent mountain peak located within the natural environment of the Goda Forest.",
+                  "category": "natural",
+                  "coords": [
+                        42.75,
+                        11.883333
+                  ]
+            },
+            {
+                  "name": "Sasahya",
+                  "text": "Sasahya is an elevated peak offering sweeping views over the green expanse of the Goda Forest.",
+                  "category": "natural",
+                  "coords": [
+                        42.760556,
+                        11.866667
+                  ]
+            },
+            {
+                  "name": "Dîdâle",
+                  "text": "Dîdâle is a rocky mountain peak nestled among the varied terrain of the Goda Forest area.",
+                  "category": "natural",
+                  "coords": [
+                        42.756667,
+                        11.855833
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DJ-TA",
     coords: [42.72, 11.82],
@@ -903,7 +4485,988 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "mabla-forest-nature-v2",
+    id: "mabla-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leïssan Koma",
+                  "text": "Leïssan Koma ist ein steiler felsiger Gipfel, der sich inmitten der dichten Vegetation des Mabla-Waldes erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.136667,
+                        11.932778
+                  ]
+            },
+            {
+                  "name": "Tabkallé",
+                  "text": "Tabkallé ist ein markanter Berggipfel, der von den Bäumen des Mabla-Waldes umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Oroli",
+                  "text": "Oroli ist ein isolierter felsiger Gipfel tief im ruhigen Mabla-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        43.108333,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Halam",
+                  "text": "Halam ist ein hoher Bergkamm mit Blick auf das üppige Blätterdach des Mabla-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        43.113056,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Arkaïlé",
+                  "text": "Arkaïlé ist eine markante felsige Erhebung im bewaldeten Hochland des Mabla-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        43.110833,
+                        11.951389
+                  ]
+            },
+            {
+                  "name": "Gaoura",
+                  "text": "Gaoura ist ein massiver Berggipfel, der über die Naturlandschaften des Mabla-Waldes aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.090556,
+                        11.959167
+                  ]
+            },
+            {
+                  "name": "Gabao",
+                  "text": "Gabao ist ein zerklüfteter Gipfel, der Aussichtspunkte über den Mabla-Wald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.095278,
+                        11.979167
+                  ]
+            },
+            {
+                  "name": "Boloka",
+                  "text": "Boloka bildet einen felsigen Berggipfel eingebettet im grünen Mabla-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        43.084167,
+                        11.967778
+                  ]
+            },
+            {
+                  "name": "Mirato",
+                  "text": "Mirato ist ein steiler Berggipfel, der sich abrupt aus dem dichten Mabla-Wald erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.07,
+                        11.971944
+                  ]
+            },
+            {
+                  "name": "Badameli",
+                  "text": "Badameli ist ein hoher Gipfel, umgeben von der einheimischen Flora des Mabla-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.946944
+                  ]
+            },
+            {
+                  "name": "Maabo",
+                  "text": "Maabo ist ein malerischer Berggipfel in der Wildnis des Mabla-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        43.100833,
+                        11.944167
+                  ]
+            },
+            {
+                  "name": "Akkaba",
+                  "text": "Akkaba ist ein markanter steiniger Gipfel, der die Landschaft des Mabla-Waldes prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.116111,
+                        11.929722
+                  ]
+            },
+            {
+                  "name": "Dagelébé Koma",
+                  "text": "Dagelébé Koma ist ein markanter Berggipfel, der aus den grünen Baumkronen des Mabla-Waldes hervorragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.101111,
+                        11.908333
+                  ]
+            },
+            {
+                  "name": "Aoudi",
+                  "text": "Aoudi ist ein zerklüfteter felsiger Berggipfel im Reservat des Mabla-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "Sadi‘",
+                  "text": "Sadi` steht als imposanter Berggipfel in der waldreichen Umgebung des Mabla-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        43.055662,
+                        12.000238
+                  ]
+            },
+            {
+                  "name": "Bililli‘a",
+                  "text": "Bililli`a ist ein hoher Berggipfel, der das natürliche Gelände des Mabla-Waldes dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        43.081243,
+                        12.014212
+                  ]
+            },
+            {
+                  "name": "Bourguiba",
+                  "text": "Bourguiba ist ein hoher felsiger Gipfel im malerischen Mabla-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        43.068611,
+                        11.9825
+                  ]
+            },
+            {
+                  "name": "Data Harka",
+                  "text": "Data Harka ist eine massive Bergerhebung tief im Mabla-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        43.091667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "As Alé",
+                  "text": "As Ale ist ein steiler felsiger Gipfel, der über der üppigen Umgebung des Mabla-Waldes aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.114167,
+                        11.991389
+                  ]
+            },
+            {
+                  "name": "Harka",
+                  "text": "Harka ist ein markanter Berggipfel, der sich innerhalb des bewaldeten Geländes der Mabla-Berge erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.116667,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "‘Aranmouda",
+                  "text": "`Aranmouda ist ein markanter Berggipfel mit Blick auf die bewaldeten Naturlandschaften von Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.075638,
+                        12.044099
+                  ]
+            },
+            {
+                  "name": "Sousso",
+                  "text": "Der Gipfel des Sousso bietet eine raue Topographie inmitten des malerischen Naturgebiets der Mabla-Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "‘Adgellou",
+                  "text": "‘Adgellou ist ein felsiger Gipfel, der die erhöhte natürliche Umgebung nahe dem Mabla-Wald prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.057168,
+                        12.02619
+                  ]
+            },
+            {
+                  "name": "Biḏalou",
+                  "text": "Der über die umliegenden Wälder aufragende Gipfel Biḏalou ist ein bemerkenswertes geografisches Merkmal der Mabla-Region.",
+                  "category": "natural",
+                  "coords": [
+                        43.134441,
+                        12.034596
+                  ]
+            },
+            {
+                  "name": "Gabolle",
+                  "text": "Gabolle ist ein imposanter Gipfel, der durch die abgelegene und bewaldete Bergwelt von Mabla gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.156419,
+                        12.014939
+                  ]
+            },
+            {
+                  "name": "Inḏa‘i ‘Alé",
+                  "text": "Der Gipfel des Inda`i `Ale trägt zu den dramatischen Höhenunterschieden bei, die die Naturzone des Mabla-Waldes prägen.",
+                  "category": "natural",
+                  "coords": [
+                        43.143056,
+                        11.986944
+                  ]
+            },
+            {
+                  "name": "Imilé Bolo",
+                  "text": "Imilé Bolo ist ein natürlicher Berggipfel, der das raue Gelände nahe dem Mabla-Waldgebiet dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        43.158889,
+                        11.991667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leïssan Koma",
+                  "text": "A Leïssan Koma egy meredek sziklás csúcs, amely a Mabla-erdő sűrű növényzete között emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.136667,
+                        11.932778
+                  ]
+            },
+            {
+                  "name": "Tabkallé",
+                  "text": "A Tabkallé egy kiemelkedő hegycsúcs, amelyet a Mabla-erdő fái vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Oroli",
+                  "text": "Az Oroli egy elszigetelt sziklás csúcs a csendes Mabla-erdő mélyén.",
+                  "category": "natural",
+                  "coords": [
+                        43.108333,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Halam",
+                  "text": "A Halam egy magas hegygerinc, amely a Mabla-erdő buja lombkoronájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.113056,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Arkaïlé",
+                  "text": "Az Arkaïlé egy kiemelkedő sziklás magaslat a Mabla-erdő erdős felvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        43.110833,
+                        11.951389
+                  ]
+            },
+            {
+                  "name": "Gaoura",
+                  "text": "A Gaoura egy hatalmas hegycsúcs, amely a Mabla-erdő természeti tájai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.090556,
+                        11.959167
+                  ]
+            },
+            {
+                  "name": "Gabao",
+                  "text": "A Gabao egy zord hegycsúcs, amely kilátópontokat kínál a Mabla-erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        43.095278,
+                        11.979167
+                  ]
+            },
+            {
+                  "name": "Boloka",
+                  "text": "A Boloka egy sziklás hegycsúcs, amely a zöldellő Mabla-erdőben bújik meg.",
+                  "category": "natural",
+                  "coords": [
+                        43.084167,
+                        11.967778
+                  ]
+            },
+            {
+                  "name": "Mirato",
+                  "text": "A Mirato egy meredek hegycsúcs, amely hirtelen emelkedik ki a sűrű Mabla-erdőből.",
+                  "category": "natural",
+                  "coords": [
+                        43.07,
+                        11.971944
+                  ]
+            },
+            {
+                  "name": "Badameli",
+                  "text": "A Badameli egy magas hegycsúcs, amelyet a Mabla-erdő őshonos növényzete vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.946944
+                  ]
+            },
+            {
+                  "name": "Maabo",
+                  "text": "A Maabo egy festői hegycsúcs a Mabla-erdő vadonjában.",
+                  "category": "natural",
+                  "coords": [
+                        43.100833,
+                        11.944167
+                  ]
+            },
+            {
+                  "name": "Akkaba",
+                  "text": "Az Akkaba egy kiemelkedő köves csúcs, amely a Mabla-erdő táját pettyezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.116111,
+                        11.929722
+                  ]
+            },
+            {
+                  "name": "Dagelébé Koma",
+                  "text": "A Dagelébé Koma egy jellegzetes hegycsúcs, amely a Mabla-erdő zöld lombkoronái közül bukkan elő.",
+                  "category": "natural",
+                  "coords": [
+                        43.101111,
+                        11.908333
+                  ]
+            },
+            {
+                  "name": "Aoudi",
+                  "text": "Az Aoudi egy zord sziklás hegytető a Mabla-erdő rezervátumában.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "Sadi‘",
+                  "text": "A Sadi` egy impozáns hegycsúcs a Mabla-erdő erdős környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        43.055662,
+                        12.000238
+                  ]
+            },
+            {
+                  "name": "Bililli‘a",
+                  "text": "A Bililli`a egy magas hegycsúcs, amely uralja a Mabla-erdő természeti domborzatát.",
+                  "category": "natural",
+                  "coords": [
+                        43.081243,
+                        12.014212
+                  ]
+            },
+            {
+                  "name": "Bourguiba",
+                  "text": "A Bourguiba egy magas sziklás csúcs a festői Mabla-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        43.068611,
+                        11.9825
+                  ]
+            },
+            {
+                  "name": "Data Harka",
+                  "text": "A Data Harka egy masszív hegyi kiemelkedés a Mabla-erdő mélyén.",
+                  "category": "natural",
+                  "coords": [
+                        43.091667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "As Alé",
+                  "text": "Az As Ale egy meredek sziklás csúcs, amely a Mabla-erdő buja környezete fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.114167,
+                        11.991389
+                  ]
+            },
+            {
+                  "name": "Harka",
+                  "text": "A Harka egy kiemelkedő hegycsúcs, amely a Mabla-hegység erdős területein emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.116667,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "‘Aranmouda",
+                  "text": "Az `Aranmouda egy jellegzetes hegycsúcs, amely a Mabla erdős természeti tájaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.075638,
+                        12.044099
+                  ]
+            },
+            {
+                  "name": "Sousso",
+                  "text": "A Sousso csúcsa zord domborzatot kínál a festői Mabla-erdő természetvédelmi területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "‘Adgellou",
+                  "text": "Az ‘Adgellou egy sziklás csúcs, amely a Mabla-erdő környéki magaslati természeti környezetet formálja.",
+                  "category": "natural",
+                  "coords": [
+                        43.057168,
+                        12.02619
+                  ]
+            },
+            {
+                  "name": "Biḏalou",
+                  "text": "A környező erdők fölé magasodó Biḏalou csúcs a Mabla régió figyelemre méltó földrajzi képződménye.",
+                  "category": "natural",
+                  "coords": [
+                        43.134441,
+                        12.034596
+                  ]
+            },
+            {
+                  "name": "Gabolle",
+                  "text": "A Gabolle egy impozáns csúcs, amelyet a Mabla távoli és erdős hegyvidéki környezete jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        43.156419,
+                        12.014939
+                  ]
+            },
+            {
+                  "name": "Inḏa‘i ‘Alé",
+                  "text": "Az Inda`i `Ale csúcsa hozzájárul a Mabla erdő természetvédelmi övezetét jellemző drámai szintkülönbségekhez.",
+                  "category": "natural",
+                  "coords": [
+                        43.143056,
+                        11.986944
+                  ]
+            },
+            {
+                  "name": "Imilé Bolo",
+                  "text": "Az Imilé Bolo egy természetes hegycsúcs, amely a Mabla-erdő környéki zord terepet uralja.",
+                  "category": "natural",
+                  "coords": [
+                        43.158889,
+                        11.991667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leïssan Koma",
+                  "text": "Leïssan Koma este un vârf stâncos abrupt care se înalță în mijlocul vegetației dense a Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.136667,
+                        11.932778
+                  ]
+            },
+            {
+                  "name": "Tabkallé",
+                  "text": "Tabkallé este un vârf montan proeminent înconjurat de copacii din Pădurea Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Oroli",
+                  "text": "Oroli se înalță ca un vârf stâncos izolat adânc în Pădurea senină Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.108333,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Halam",
+                  "text": "Halam este o creastă montană înaltă care domină coronamentul luxuriant al Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.113056,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Arkaïlé",
+                  "text": "Arkaïlé este o proeminență stâncoasă remarcabilă în zonele înalte împădurite ale Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.110833,
+                        11.951389
+                  ]
+            },
+            {
+                  "name": "Gaoura",
+                  "text": "Gaoura este un vârf montan masiv care se înalță deasupra peisajelor naturale din Pădurea Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.090556,
+                        11.959167
+                  ]
+            },
+            {
+                  "name": "Gabao",
+                  "text": "Gabao este un vârf accidentat care oferă puncte de observație peste Pădurea Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.095278,
+                        11.979167
+                  ]
+            },
+            {
+                  "name": "Boloka",
+                  "text": "Boloka formează un vârf montan stâncos cuibărit în Pădurea înverzită Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.084167,
+                        11.967778
+                  ]
+            },
+            {
+                  "name": "Mirato",
+                  "text": "Mirato este un vârf montan abrupt care se ridică brusc din Pădurea deasă Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.07,
+                        11.971944
+                  ]
+            },
+            {
+                  "name": "Badameli",
+                  "text": "Badameli este un vârf înalt înconjurat de flora nativă a Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.946944
+                  ]
+            },
+            {
+                  "name": "Maabo",
+                  "text": "Maabo este un vârf montan pitoresc situat în sălbăticia Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.100833,
+                        11.944167
+                  ]
+            },
+            {
+                  "name": "Akkaba",
+                  "text": "Akkaba este un vârf pietros proeminent care punctează peisajul Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.116111,
+                        11.929722
+                  ]
+            },
+            {
+                  "name": "Dagelébé Koma",
+                  "text": "Dagelébé Koma este un vârf montan distinct care iese din coronamentul verde al Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.101111,
+                        11.908333
+                  ]
+            },
+            {
+                  "name": "Aoudi",
+                  "text": "Aoudi este un vârf montan stâncos și accidentat situat în rezervația Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "Sadi‘",
+                  "text": "Sadi` se înalță ca un vârf montan impunător în împrejurimile împădurite ale Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.055662,
+                        12.000238
+                  ]
+            },
+            {
+                  "name": "Bililli‘a",
+                  "text": "Bililli`a este un vârf montan înalt care domină terenul natural al Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.081243,
+                        12.014212
+                  ]
+            },
+            {
+                  "name": "Bourguiba",
+                  "text": "Bourguiba este un vârf stâncos înalt aflat în pitoreasca Pădure Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.068611,
+                        11.9825
+                  ]
+            },
+            {
+                  "name": "Data Harka",
+                  "text": "Data Harka este o proeminență montană masivă situată adânc în Pădurea Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.091667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "As Alé",
+                  "text": "As Ale este un vârf stâncos abrupt care se înalță deasupra mediului luxuriant al Pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.114167,
+                        11.991389
+                  ]
+            },
+            {
+                  "name": "Harka",
+                  "text": "Harka este un vârf proeminent care se ridică în terenul împădurit al regiunii Munților Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.116667,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "‘Aranmouda",
+                  "text": "`Aranmouda este un vârf muntos distinct, cu vedere la peisajele naturale împădurite din Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.075638,
+                        12.044099
+                  ]
+            },
+            {
+                  "name": "Sousso",
+                  "text": "Vârful Sousso oferă o topografie accidentată în mijlocul zonei pitorești a pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "‘Adgellou",
+                  "text": "‘Adgellou este un vârf stâncos care modelează mediul natural ridicat din apropierea pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.057168,
+                        12.02619
+                  ]
+            },
+            {
+                  "name": "Biḏalou",
+                  "text": "Ridicându-se deasupra pădurilor din jur, vârful Biḏalou este o caracteristică geografică notabilă a regiunii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.134441,
+                        12.034596
+                  ]
+            },
+            {
+                  "name": "Gabolle",
+                  "text": "Gabolle este un vârf impunător caracterizat de decorul montan izolat și împădurit din Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.156419,
+                        12.014939
+                  ]
+            },
+            {
+                  "name": "Inḏa‘i ‘Alé",
+                  "text": "Vârful Inda`i `Ale contribuie la schimbările dramatice de altitudine care caracterizează zona naturală a pădurii Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.143056,
+                        11.986944
+                  ]
+            },
+            {
+                  "name": "Imilé Bolo",
+                  "text": "Imilé Bolo este un vârf muntos natural care domină terenul accidentat din apropierea zonei forestiere Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.158889,
+                        11.991667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leïssan Koma",
+                  "text": "Leïssan Koma is a steep rocky summit rising amidst the dense vegetation of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.136667,
+                        11.932778
+                  ]
+            },
+            {
+                  "name": "Tabkallé",
+                  "text": "Tabkallé is a prominent mountain peak surrounded by the trees of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.95
+                  ]
+            },
+            {
+                  "name": "Oroli",
+                  "text": "Oroli stands as an isolated rocky peak deep within the serene Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.108333,
+                        11.966667
+                  ]
+            },
+            {
+                  "name": "Halam",
+                  "text": "Halam is an elevated mountain crest overlooking the lush canopy of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.113056,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Arkaïlé",
+                  "text": "Arkaïlé is a prominent rocky elevation in the forested highlands of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.110833,
+                        11.951389
+                  ]
+            },
+            {
+                  "name": "Gaoura",
+                  "text": "Gaoura is a massive mountain peak towering above the natural landscapes of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.090556,
+                        11.959167
+                  ]
+            },
+            {
+                  "name": "Gabao",
+                  "text": "Gabao is a rugged summit that offers vantage points across the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.095278,
+                        11.979167
+                  ]
+            },
+            {
+                  "name": "Boloka",
+                  "text": "Boloka forms a rocky mountain peak nestled within the verdant Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.084167,
+                        11.967778
+                  ]
+            },
+            {
+                  "name": "Mirato",
+                  "text": "Mirato is a steep mountain peak rising abruptly from the dense Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.07,
+                        11.971944
+                  ]
+            },
+            {
+                  "name": "Badameli",
+                  "text": "Badameli is an elevated summit surrounded by the native flora of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.079722,
+                        11.946944
+                  ]
+            },
+            {
+                  "name": "Maabo",
+                  "text": "Maabo is a scenic mountain peak located within the wilderness of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.100833,
+                        11.944167
+                  ]
+            },
+            {
+                  "name": "Akkaba",
+                  "text": "Akkaba is a prominent stony peak dotting the landscape of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.116111,
+                        11.929722
+                  ]
+            },
+            {
+                  "name": "Dagelébé Koma",
+                  "text": "Dagelébé Koma is a distinct mountain summit emerging from the green canopies of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.101111,
+                        11.908333
+                  ]
+            },
+            {
+                  "name": "Aoudi",
+                  "text": "Aoudi is a rugged rocky mountain top situated within the Mabla Forest reserve.",
+                  "category": "natural",
+                  "coords": [
+                        43.061667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "Sadi`",
+                  "text": "Sadi` stands as an imposing mountain peak in the wooded surroundings of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.055662,
+                        12.000238
+                  ]
+            },
+            {
+                  "name": "Bililli`a",
+                  "text": "Bililli`a is a tall mountain summit dominating the natural terrain of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.081243,
+                        12.014212
+                  ]
+            },
+            {
+                  "name": "Bourguiba",
+                  "text": "Bourguiba is an elevated rocky peak found in the picturesque Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.068611,
+                        11.9825
+                  ]
+            },
+            {
+                  "name": "Data Harka",
+                  "text": "Data Harka is a solid mountain prominence located deeply within the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.091667,
+                        11.993611
+                  ]
+            },
+            {
+                  "name": "As Ale",
+                  "text": "As Ale is a steep rocky summit towering above the lush environment of the Mabla Forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.114167,
+                        11.991389
+                  ]
+            },
+            {
+                  "name": "Harka",
+                  "text": "Harka is a prominent peak rising within the forested terrain of the Mabla mountains region.",
+                  "category": "natural",
+                  "coords": [
+                        43.116667,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "`Aranmouda",
+                  "text": "`Aranmouda stands as a distinct mountain peak overlooking the forested natural landscapes of Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.075638,
+                        12.044099
+                  ]
+            },
+            {
+                  "name": "Sousso",
+                  "text": "The summit of Sousso offers rugged topography amidst the scenic Mabla forest nature area.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        12.016667
+                  ]
+            },
+            {
+                  "name": "‘Adgellou",
+                  "text": "‘Adgellou is a rocky peak shaping the elevated natural environment near the Mabla forest.",
+                  "category": "natural",
+                  "coords": [
+                        43.057168,
+                        12.02619
+                  ]
+            },
+            {
+                  "name": "Biḏalou",
+                  "text": "Rising above the surrounding woodlands, the Biḏalou peak is a notable geographical feature of the Mabla region.",
+                  "category": "natural",
+                  "coords": [
+                        43.134441,
+                        12.034596
+                  ]
+            },
+            {
+                  "name": "Gabolle",
+                  "text": "Gabolle is an imposing summit characterized by the remote and forested mountainous setting of Mabla.",
+                  "category": "natural",
+                  "coords": [
+                        43.156419,
+                        12.014939
+                  ]
+            },
+            {
+                  "name": "Inda`i `Ale",
+                  "text": "The peak of Inda`i `Ale contributes to the dramatic elevation changes characterizing the Mabla forest nature zone.",
+                  "category": "natural",
+                  "coords": [
+                        43.143056,
+                        11.986944
+                  ]
+            },
+            {
+                  "name": "Imilé Bolo",
+                  "text": "Imilé Bolo is a natural mountain peak dominating the rugged terrain near the Mabla forest area.",
+                  "category": "natural",
+                  "coords": [
+                        43.158889,
+                        11.991667
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DJ-OB",
     coords: [43.08, 11.97],
@@ -1095,7 +5658,124 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
     },
   },
   {
-    id: "allols-depression-nature-v2",
+    id: "allols-depression-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sârouli",
+                  "text": "Sârouli erhebt sich als markantes geologisches Merkmal, das die raue, trockene natürliche Umgebung der Allols-Senke einrahmt.",
+                  "category": "natural",
+                  "coords": [
+                        42.194167,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Inkaflou",
+                  "text": "Die schroffen Hänge des Inkaflou fallen direkt zu den Salzebenen und dem natürlichen Becken der Allols-Senke ab.",
+                  "category": "natural",
+                  "coords": [
+                        42.188056,
+                        11.936389
+                  ]
+            },
+            {
+                  "name": "Ouroumma",
+                  "text": "Ouroumma ist eine felsige Erhebung, die erhöhte Ausblicke auf die einzigartigen Ökosysteme bietet, die in der Allols-Senke verborgen sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.223611,
+                        11.924444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sârouli",
+                  "text": "A Sârouli éles geológiai képződményként magasodik, keretbe foglalva az Allols-mélyföld zord, száraz természeti környezetét.",
+                  "category": "natural",
+                  "coords": [
+                        42.194167,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Inkaflou",
+                  "text": "Az Inkaflou zord lejtői közvetlenül az Allols-mélyföld sós síkságai és természetes medencéje felé ereszkednek.",
+                  "category": "natural",
+                  "coords": [
+                        42.188056,
+                        11.936389
+                  ]
+            },
+            {
+                  "name": "Ouroumma",
+                  "text": "Az Ouroumma egy sziklás kiemelkedés, ahonnan fentről nyílik kilátás az Allols-mélyföldön megbúvó egyedülálló ökoszisztémákra.",
+                  "category": "natural",
+                  "coords": [
+                        42.223611,
+                        11.924444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sârouli",
+                  "text": "Sârouli se înalță ca o caracteristică geologică ascuțită care încadrează mediul natural aspru și uscat al depresiunii Allols.",
+                  "category": "natural",
+                  "coords": [
+                        42.194167,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Inkaflou",
+                  "text": "Pante accidentate ale Inkaflou coboară direct spre câmpiile sărate și bazinul natural al depresiunii Allols.",
+                  "category": "natural",
+                  "coords": [
+                        42.188056,
+                        11.936389
+                  ]
+            },
+            {
+                  "name": "Ouroumma",
+                  "text": "Ouroumma este o proeminență stâncoasă care oferă vederi la înălțime ale ecosistemelor unice ascunse în depresiunea Allols.",
+                  "category": "natural",
+                  "coords": [
+                        42.223611,
+                        11.924444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sârouli",
+                  "text": "Sârouli rises as a sharp geological feature framing the harsh, dry natural environment of the Allols depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.194167,
+                        11.963611
+                  ]
+            },
+            {
+                  "name": "Inkaflou",
+                  "text": "The rugged slopes of Inkaflou descend directly towards the salt plains and natural basin of the Allols depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.188056,
+                        11.936389
+                  ]
+            },
+            {
+                  "name": "Ouroumma",
+                  "text": "Ouroumma is a rocky prominence that offers elevated views of the unique ecosystems hidden within the Allols depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.223611,
+                        11.924444
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DJ-TA",
     coords: [42.23, 12.01],

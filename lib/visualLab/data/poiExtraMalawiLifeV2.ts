@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const malawiLifeV2: POI[] = [
 
   {
-    id: "malawi-liwonde-national-park-life-v2",
+    id: "malawi-liwonde-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bushman's Baobab Viewpoint",
+                  "text": "Ein malerischer Aussichtspunkt im Liwonde-Nationalpark, in dessen Zentrum ein massiver alter Affenbrotbaum steht.",
+                  "category": "natural",
+                  "coords": [
+                        35.237539,
+                        -15.024242
+                  ]
+            },
+            {
+                  "name": "Liwonde Safari Camp Viewpoint",
+                  "text": "Eine erhöhte Plattform zur Wildbeobachtung im Safari-Camp, die einen weiten Blick über die Überschwemmungsgebiete des Liwonde-Nationalparks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.240026,
+                        -15.027706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bushman's Baobab Viewpoint",
+                  "text": "Egy festői kilátóhely a Liwonde Nemzeti Parkban, amelynek középpontjában egy hatalmas, ősi baobabfa áll.",
+                  "category": "natural",
+                  "coords": [
+                        35.237539,
+                        -15.024242
+                  ]
+            },
+            {
+                  "name": "Liwonde Safari Camp Viewpoint",
+                  "text": "A szafaritábor megemelt vadmegfigyelő terasza, amely pazar kilátást nyújt a Liwonde Nemzeti Park árterületeire.",
+                  "category": "natural",
+                  "coords": [
+                        35.240026,
+                        -15.027706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bushman's Baobab Viewpoint",
+                  "text": "Un punct de observație pitoresc din Parcul Național Liwonde, centrat în jurul unui masiv și antic arbore baobab.",
+                  "category": "natural",
+                  "coords": [
+                        35.237539,
+                        -15.024242
+                  ]
+            },
+            {
+                  "name": "Liwonde Safari Camp Viewpoint",
+                  "text": "O platformă ridicată pentru observarea animalelor la tabăra de safari, oferind o vedere panoramică asupra câmpiilor inundabile din Parcul Național Liwonde.",
+                  "category": "natural",
+                  "coords": [
+                        35.240026,
+                        -15.027706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bushman's Baobab Viewpoint",
+                  "text": "A scenic observation spot in Liwonde National Park centered around a massive ancient baobab tree.",
+                  "category": "natural",
+                  "coords": [
+                        35.237539,
+                        -15.024242
+                  ]
+            },
+            {
+                  "name": "Liwonde Safari Camp Viewpoint",
+                  "text": "An elevated game-viewing deck at the safari camp, offering sweeping views over the floodplains of Liwonde National Park.",
+                  "category": "natural",
+                  "coords": [
+                        35.240026,
+                        -15.027706
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "park",
     name: { de: "Liwonde-Nationalpark", hu: "Liwonde Nemzeti Park", ro: "Parcul Național Liwonde", en: "Liwonde National Park" },
@@ -48,7 +129,52 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-liwonde-national-park-life-v2.webp",
   },
   {
-    id: "malawi-nyika-national-park-life-v2",
+    id: "malawi-nyika-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyika National Park",
+                  "text": "Dieses 1965 gegründete Naturschutzgebiet liegt auf dem Nyika-Plateau in Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        33.847287,
+                        -10.5703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyika National Park",
+                  "text": "Ez az 1965-ben alapított természetvédelmi terület a malawi Nyika-fennsíkon található.",
+                  "category": "natural",
+                  "coords": [
+                        33.847287,
+                        -10.5703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyika National Park",
+                  "text": "Această rezervație naturală înființată în 1965 este situată pe platoul Nyika din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        33.847287,
+                        -10.5703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyika National Park",
+                  "text": "This nature reserve established in 1965 is located on the Nyika Plateau in Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        33.847287,
+                        -10.5703
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "park",
     name: { de: "Nyika-Nationalpark", hu: "Nyika Nemzeti Park", ro: "Parcul Național Nyika", en: "Nyika National Park" },
@@ -138,7 +264,196 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-kasungu-national-park-life-v2.webp",
   },
   {
-    id: "malawi-lengwe-national-park-life-v2",
+    id: "malawi-lengwe-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Main hide",
+                  "text": "Das Main Hide im Lengwe-Nationalpark bietet Besuchern einen geschützten Beobachtungspunkt an einem stark frequentierten Wasserloch.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783499,
+                        -16.220763
+                  ]
+            },
+            {
+                  "name": "North Thicket Hide",
+                  "text": "Das North Thicket Hide ermöglicht die versteckte Wildtierbeobachtung in den dichten afrikanischen Buschlandschaften des Lengwe-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        34.752772,
+                        -16.210851
+                  ]
+            },
+            {
+                  "name": "Nyanga hide",
+                  "text": "Das Nyanga Hide ist ein rustikaler Beobachtungsstand, der gezielt zur Wildtierbeobachtung in den trockenen Savannen des Lengwe-Nationalparks errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.767955,
+                        -16.243134
+                  ]
+            },
+            {
+                  "name": "Jasi Hide",
+                  "text": "Das Jasi Hide im Lengwe-Nationalpark dient als strategisch platzierter Unterstand für Naturfotografen und Safarigäste.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799321,
+                        -16.260382
+                  ]
+            },
+            {
+                  "name": "Lengwe National Park",
+                  "text": "Der Lengwe-Nationalpark schützt dichte Trockenwälder und ist besonders für seine seltene, nördlichste Nyala-Antilopenpopulation bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        34.751923,
+                        -16.256921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Main hide",
+                  "text": "A Lengwe Nemzeti Park fő leskunyhója (Main Hide) egy forgalmas itató melletti védett megfigyelőpontot biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783499,
+                        -16.220763
+                  ]
+            },
+            {
+                  "name": "North Thicket Hide",
+                  "text": "A North Thicket Hide a Lengwe Nemzeti Park sűrű cserjésében teszi lehetővé a rejtett vadmegfigyelést.",
+                  "category": "landmark",
+                  "coords": [
+                        34.752772,
+                        -16.210851
+                  ]
+            },
+            {
+                  "name": "Nyanga hide",
+                  "text": "A Nyanga Hide egy rusztikus megfigyelőállás, amelyet kifejezetten a Lengwe Nemzeti Park száraz szavannáinak vadon élő állatainak megfigyelésére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        34.767955,
+                        -16.243134
+                  ]
+            },
+            {
+                  "name": "Jasi Hide",
+                  "text": "A Lengwe Nemzeti Parkban található Jasi Hide stratégiailag elhelyezett menedékként szolgál a természetfotósok és szafarizók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799321,
+                        -16.260382
+                  ]
+            },
+            {
+                  "name": "Lengwe National Park",
+                  "text": "A sűrű száraz erdőket védő Lengwe Nemzeti Park különösen a ritka nyala antilopok legészakibb populációjáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        34.751923,
+                        -16.256921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Main hide",
+                  "text": "Main Hide din Parcul Național Lengwe oferă vizitatorilor un punct de observație protejat lângă o adăpătoare frecventată de animale.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783499,
+                        -16.220763
+                  ]
+            },
+            {
+                  "name": "North Thicket Hide",
+                  "text": "North Thicket Hide permite observarea faunei sălbatice camuflate printre tufișurile dese ale Parcului Național Lengwe.",
+                  "category": "landmark",
+                  "coords": [
+                        34.752772,
+                        -16.210851
+                  ]
+            },
+            {
+                  "name": "Nyanga hide",
+                  "text": "Nyanga Hide este un punct de observare rustic, construit special pentru a urmări viața sălbatică în savana aridă din Parcul Național Lengwe.",
+                  "category": "landmark",
+                  "coords": [
+                        34.767955,
+                        -16.243134
+                  ]
+            },
+            {
+                  "name": "Jasi Hide",
+                  "text": "Jasi Hide din Parcul Național Lengwe servește ca adăpost plasat strategic pentru fotografii de natură și oaspeții aflați în safari.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799321,
+                        -16.260382
+                  ]
+            },
+            {
+                  "name": "Lengwe National Park",
+                  "text": "Parcul Național Lengwe protejează păduri uscate dense și este renumit în special pentru populația sa rară și cea mai nordică de antilope nyala.",
+                  "category": "natural",
+                  "coords": [
+                        34.751923,
+                        -16.256921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Main hide",
+                  "text": "The Main Hide in Lengwe National Park offers a sheltered vantage point right beside a bustling watering hole.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783499,
+                        -16.220763
+                  ]
+            },
+            {
+                  "name": "North Thicket Hide",
+                  "text": "The North Thicket Hide enables concealed wildlife viewing within the dense bushlands of Lengwe National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        34.752772,
+                        -16.210851
+                  ]
+            },
+            {
+                  "name": "Nyanga hide",
+                  "text": "The Nyanga Hide is a rustic observation stand built specifically for wildlife spotting in the dry savannas of Lengwe National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        34.767955,
+                        -16.243134
+                  ]
+            },
+            {
+                  "name": "Jasi Hide",
+                  "text": "The Jasi Hide in Lengwe National Park serves as a strategically placed shelter for nature photographers and safari guests.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799321,
+                        -16.260382
+                  ]
+            },
+            {
+                  "name": "Lengwe National Park",
+                  "text": "Lengwe National Park protects dense dry thickets and is especially renowned for its rare, northernmost population of nyala antelopes.",
+                  "category": "natural",
+                  "coords": [
+                        34.751923,
+                        -16.256921
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "park",
     name: { de: "Lengwe-Nationalpark", hu: "Lengwe Nemzeti Park", ro: "Parcul Național Lengwe", en: "Lengwe National Park" },
@@ -183,7 +498,88 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-lengwe-national-park-life-v2.webp",
   },
   {
-    id: "malawi-lake-malawi-national-park-life-v2",
+    id: "malawi-lake-malawi-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Scrars Rock National Monument",
+                  "text": "Dieses markante geologische Denkmal bietet dramatische Felsvorsprünge, die direkt in das klare Süßwasser des Sees ragen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.868355,
+                        -14.045463
+                  ]
+            },
+            {
+                  "name": "Malawisee-Nationalpark",
+                  "text": "Als UNESCO-Weltnaturerbe schützt dieses riesige Süßwasserreservat Hunderte von einzigartigen Buntbarscharten, die nirgendwo sonst vorkommen.",
+                  "category": "natural",
+                  "coords": [
+                        34.878088,
+                        -14.062609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Scrars Rock National Monument",
+                  "text": "Ez a lenyűgöző geológiai emlékmű drámai sziklakibúvásokat kínál, amelyek közvetlenül a tó tiszta édesvizébe nyúlnak.",
+                  "category": "landmark",
+                  "coords": [
+                        34.868355,
+                        -14.045463
+                  ]
+            },
+            {
+                  "name": "Malawi-tó Nemzeti Park",
+                  "text": "Az UNESCO Világörökség részeként ez a hatalmas édesvízi rezervátum több száz egyedi sügérfajnak nyújt védelmet, amelyek sehol máshol nem találhatók meg.",
+                  "category": "natural",
+                  "coords": [
+                        34.878088,
+                        -14.062609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Scrars Rock National Monument",
+                  "text": "Acest monument geologic impresionant oferă aflorimente stâncoase dramatice care ies direct în apa dulce și limpede a lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        34.868355,
+                        -14.045463
+                  ]
+            },
+            {
+                  "name": "Lake Malawi National Park",
+                  "text": "Ca sit al Patrimoniului Mondial UNESCO, această rezervație masivă de apă dulce protejează sute de specii unice de pești cichlide care nu se găsesc nicăieri altundeva.",
+                  "category": "natural",
+                  "coords": [
+                        34.878088,
+                        -14.062609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scrars Rock National Monument",
+                  "text": "This striking geological monument offers dramatic rocky outcrops that jut directly into the clear freshwater of the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        34.868355,
+                        -14.045463
+                  ]
+            },
+            {
+                  "name": "Lake Malawi National Park",
+                  "text": "As a UNESCO World Heritage site, this massive freshwater reserve protects hundreds of unique cichlid fish species found nowhere else.",
+                  "category": "natural",
+                  "coords": [
+                        34.878088,
+                        -14.062609
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "park",
     name: { de: "Lake-Malawi-Nationalpark", hu: "Malawi-tó Nemzeti Park", ro: "Parcul Național Lacul Malawi", en: "Lake Malawi National Park" },
@@ -228,7 +624,124 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-lake-malawi-national-park-life-v2.webp",
   },
   {
-    id: "malawi-majete-wildlife-reserve-life-v2",
+    id: "malawi-majete-wildlife-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old House",
+                  "text": "Diese verwitterten Steinruinen eines alten Hauses werden langsam vom umliegenden Buschland des Majete Wildlife Reserve zurückerobert.",
+                  "category": "historical",
+                  "coords": [
+                        34.735037,
+                        -15.819899
+                  ]
+            },
+            {
+                  "name": "Hippo Spot",
+                  "text": "Am Flussufer des Majete Wildlife Reserve gelegen, bietet diese landschaftlich reizvolle Attraktion einen hervorragenden Aussichtspunkt zur Beobachtung wilder Flusspferde im Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740463,
+                        -15.831709
+                  ]
+            },
+            {
+                  "name": "Nsepete Hide",
+                  "text": "Das Nsepete Hide ist ein versteckter hölzerner Aussichtspunkt im Majete Wildlife Reserve, der einen hautnahen Blick auf die sich am nahen Wasserloch versammelnden Wildtiere bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.714841,
+                        -15.831026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old House",
+                  "text": "Egy régi ház ezen viharvert kőromjait lassan visszahódítja a Majete Vadvédelmi Terület környező bozótosa.",
+                  "category": "historical",
+                  "coords": [
+                        34.735037,
+                        -15.819899
+                  ]
+            },
+            {
+                  "name": "Hippo Spot",
+                  "text": "A Majete Vadvédelmi Terület folyópartján elhelyezkedő festői látványosság kiváló kilátópontot kínál a vadon élő vízilovak megfigyelésére a vízben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740463,
+                        -15.831709
+                  ]
+            },
+            {
+                  "name": "Nsepete Hide",
+                  "text": "A Nsepete Hide egy rejtett fa kilátó a Majete Vadvédelmi Területen, amely közeli rálátást biztosít a közeli itatónál gyülekező vadvilágra.",
+                  "category": "natural",
+                  "coords": [
+                        34.714841,
+                        -15.831026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old House",
+                  "text": "Aceste ruine din piatră erodată ale unei case vechi sunt încet-încet recucerite de vegetația din Rezervația de Faună Majete.",
+                  "category": "historical",
+                  "coords": [
+                        34.735037,
+                        -15.819899
+                  ]
+            },
+            {
+                  "name": "Hippo Spot",
+                  "text": "Situată de-a lungul malurilor râului din Rezervația de Faună Majete, această atracție pitorească oferă un punct de observație excelent pentru a vedea hipopotamii sălbatici în apă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740463,
+                        -15.831709
+                  ]
+            },
+            {
+                  "name": "Nsepete Hide",
+                  "text": "Nsepete Hide este un punct de observare ascuns, din lemn, în Rezervația de Faună Majete, oferind o vedere de aproape a animalelor sălbatice care se adună la adăpătoarea din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        34.714841,
+                        -15.831026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old House",
+                  "text": "These weathered stone ruins of an old house are slowly being reclaimed by the surrounding bush of the Majete Wildlife Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        34.735037,
+                        -15.819899
+                  ]
+            },
+            {
+                  "name": "Hippo Spot",
+                  "text": "Situated along the riverbanks of the Majete Wildlife Reserve, this scenic attraction provides an excellent vantage point for observing wild hippopotamuses wallowing in the water.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740463,
+                        -15.831709
+                  ]
+            },
+            {
+                  "name": "Nsepete Hide",
+                  "text": "The Nsepete Hide is a concealed wooden viewpoint in the Majete Wildlife Reserve, offering close-up views of wildlife gathering at the nearby watering hole.",
+                  "category": "natural",
+                  "coords": [
+                        34.714841,
+                        -15.831026
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "wildlife",
     name: { de: "Majete-Wildreservat", hu: "Majete Vadvédelmi Terület", ro: "Rezervația Faunistică Majete", en: "Majete Wildlife Reserve" },
@@ -318,7 +831,88 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-mwabvi-wildlife-reserve-life-v2.webp",
   },
   {
-    id: "malawi-nkhotakota-wildlife-reserve-life-v2",
+    id: "malawi-nkhotakota-wildlife-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muta Falls",
+                  "text": "Dieser Wasserfall, der in der dichten Landschaft Malawis versteckt ist, bietet einen ruhigen Ort für Naturliebhaber, die die Region Nkhotakota erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        34.100586,
+                        -12.855714
+                  ]
+            },
+            {
+                  "name": "Nkhotakota Game Reserve",
+                  "text": "Als Malawis größtes und ältestes Wildreservat bietet dieses weitläufige Schutzgebiet dichte Miombo-Wälder und ist die Heimat von sich erholenden Elefanten- und Antilopenpopulationen.",
+                  "category": "natural",
+                  "coords": [
+                        34.032067,
+                        -12.871566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muta Falls",
+                  "text": "A sűrű malawi tájban megbúvó vízesés békés pihenőhelyet nyújt a Nkhotakota régiót felfedező természetjáróknak.",
+                  "category": "landmark",
+                  "coords": [
+                        34.100586,
+                        -12.855714
+                  ]
+            },
+            {
+                  "name": "Nkhotakota Game Reserve",
+                  "text": "Malawi legnagyobb és legrégebbi vadrezervátuma sűrű miombo erdőkkel rendelkezik, és megerősödő elefánt- és antiloppopulációknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        34.032067,
+                        -12.871566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muta Falls",
+                  "text": "Ascunsă în peisajele dese din Malawi, această cascadă oferă un loc liniștit pentru pasionații de natură care explorează regiunea Nkhotakota.",
+                  "category": "landmark",
+                  "coords": [
+                        34.100586,
+                        -12.855714
+                  ]
+            },
+            {
+                  "name": "Nkhotakota Game Reserve",
+                  "text": "Fiind cea mai mare și mai veche rezervație a faunei sălbatice din Malawi, acest vast sanctuar prezintă păduri dese de miombo și adăpostește populații în creștere de elefanți.",
+                  "category": "natural",
+                  "coords": [
+                        34.032067,
+                        -12.871566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muta Falls",
+                  "text": "Hidden within the dense Malawian landscapes, this cascading waterfall provides a serene spot for nature enthusiasts exploring the Nkhotakota region.",
+                  "category": "landmark",
+                  "coords": [
+                        34.100586,
+                        -12.855714
+                  ]
+            },
+            {
+                  "name": "Nkhotakota Game Reserve",
+                  "text": "As Malawi's largest and oldest wildlife reserve, this expansive sanctuary features dense miombo woodlands and is home to recovering populations of elephants and antelope.",
+                  "category": "natural",
+                  "coords": [
+                        34.032067,
+                        -12.871566
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "wildlife",
     name: { de: "Nkhotakota-Wildreservat", hu: "Nkhotakota Vadvédelmi Terület", ro: "Rezervația Faunistică Nkhotakota", en: "Nkhotakota Wildlife Reserve" },
@@ -453,7 +1047,232 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-lilongwe-wildlife-centre-life-v2.webp",
   },
   {
-    id: "malawi-mulanje-mountain-forest-reserve-life-v2",
+    id: "malawi-mulanje-mountain-forest-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Matambale Peak",
+                  "text": "Der Matambale Peak ist einer der zerklüfteten, hochgelegenen Gipfel, die aus den riesigen Zedernwäldern des Mulanje Mountain Reserve ragen.",
+                  "category": "natural",
+                  "coords": [
+                        35.70701,
+                        -15.90158
+                  ]
+            },
+            {
+                  "name": "Eingang Jungle Route",
+                  "text": "Die Entrance Jungle Route dient als malerischer, dicht bewaldeter Zugangsweg für Wanderer, die die Hänge des Mulanje-Massivs in Angriff nehmen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638064,
+                        -15.893866
+                  ]
+            },
+            {
+                  "name": "Chinzama Peak",
+                  "text": "Der Chinzama Peak bietet anspruchsvolle felsige Anstiege und atemberaubende Panoramablicke über die sanften Hochebenen des Mulanje-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        35.66225,
+                        -15.90749
+                  ]
+            },
+            {
+                  "name": "Namasile",
+                  "text": "Namasile ist ein steiler Granitgipfel im Mulanje-Reservat, der eine anspruchsvolle Kletterei für erfahrene Bergsteiger darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        35.684101,
+                        -15.888929
+                  ]
+            },
+            {
+                  "name": "Naikoto Peak",
+                  "text": "Der Naikoto Peak ist eine beeindruckende Felsspitze, die von den einzigartigen Bergwiesen des Mulanje-Massivs umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.68534,
+                        -15.92419
+                  ]
+            },
+            {
+                  "name": "Tsunga Peak",
+                  "text": "Der Tsunga Peak ist ein abgelegener Berggipfel in der Mulanje-Kette, der oft in die für diese Hochgebirgsregion typischen wirbelnden Nebel gehüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.66961,
+                        -15.92664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Matambale Peak",
+                  "text": "A Matambale-csúcs a Mulanje-hegységi rezervátum hatalmas cédruserdőiből kiemelkedő zord, magaslati csúcsok egyike.",
+                  "category": "natural",
+                  "coords": [
+                        35.70701,
+                        -15.90158
+                  ]
+            },
+            {
+                  "name": "Entrance Jungle Route",
+                  "text": "Az Entrance Jungle Route egy festői, sűrűn erdősített bejárati ösvényként szolgál a Mulanje-hegység lejtőit megmászó túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638064,
+                        -15.893866
+                  ]
+            },
+            {
+                  "name": "Chinzama Peak",
+                  "text": "A Chinzama-csúcs megerőltető sziklás emelkedőket és lélegzetelállító panorámát kínál a Mulanje-hegység dimbes-dombos felvidékeire.",
+                  "category": "natural",
+                  "coords": [
+                        35.66225,
+                        -15.90749
+                  ]
+            },
+            {
+                  "name": "Namasile",
+                  "text": "A Namasile egy meredek gránitcsúcs a Mulanje rezervátumban, amely kihívást jelentő mászást kínál a tapasztalt hegymászók számára.",
+                  "category": "natural",
+                  "coords": [
+                        35.684101,
+                        -15.888929
+                  ]
+            },
+            {
+                  "name": "Naikoto Peak",
+                  "text": "A Naikoto-csúcs egy félelmetes sziklatoronyként magasodik, amelyet a Mulanje-hegység egyedülálló hegyi gyepei vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        35.68534,
+                        -15.92419
+                  ]
+            },
+            {
+                  "name": "Tsunga Peak",
+                  "text": "A Tsunga-csúcs egy távoli hegycsúcs a Mulanje-hegységben, amelyet gyakran borítanak be a magaslati régióra jellemző kavargó ködök.",
+                  "category": "natural",
+                  "coords": [
+                        35.66961,
+                        -15.92664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Matambale Peak",
+                  "text": "Vârful Matambale este unul dintre summiturile accidentate de mare altitudine care se ridică din vastele păduri de cedru ale Rezervației Montane Mulanje.",
+                  "category": "natural",
+                  "coords": [
+                        35.70701,
+                        -15.90158
+                  ]
+            },
+            {
+                  "name": "Entrance Jungle Route",
+                  "text": "Entrance Jungle Route servește ca un traseu de acces pitoresc, puternic împădurit, pentru drumeții care abordează pantele masivului Mulanje.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638064,
+                        -15.893866
+                  ]
+            },
+            {
+                  "name": "Chinzama Peak",
+                  "text": "Vârful Chinzama oferă ascensiuni stâncoase solicitante și vederi panoramice uluitoare asupra podișurilor ondulate ale masivului Mulanje.",
+                  "category": "natural",
+                  "coords": [
+                        35.66225,
+                        -15.90749
+                  ]
+            },
+            {
+                  "name": "Namasile",
+                  "text": "Namasile este un vârf abrupt de granit din rezervația Mulanje, prezentând o urcare provocatoare pentru alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        35.684101,
+                        -15.888929
+                  ]
+            },
+            {
+                  "name": "Naikoto Peak",
+                  "text": "Vârful Naikoto se profilează ca o formidabilă turlă stâncoasă înconjurată de pajiștile montane unice ale masivului Mulanje.",
+                  "category": "natural",
+                  "coords": [
+                        35.68534,
+                        -15.92419
+                  ]
+            },
+            {
+                  "name": "Tsunga Peak",
+                  "text": "Vârful Tsunga este un summit muntos izolat din lanțul Mulanje, adesea învăluit în cețurile învolburate tipice acestei regiuni de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        35.66961,
+                        -15.92664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Matambale Peak",
+                  "text": "Matambale Peak is one of the rugged, high-altitude summits emerging from the vast cedar forests of the Mulanje Mountain Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        35.70701,
+                        -15.90158
+                  ]
+            },
+            {
+                  "name": "Entrance Jungle Route",
+                  "text": "The Entrance Jungle Route serves as a scenic, heavily forested gateway trail for hikers tackling the slopes of the Mulanje Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638064,
+                        -15.893866
+                  ]
+            },
+            {
+                  "name": "Chinzama Peak",
+                  "text": "Chinzama Peak offers demanding rocky ascents and breathtaking panoramic views over the rolling highlands of the Mulanje Massif.",
+                  "category": "natural",
+                  "coords": [
+                        35.66225,
+                        -15.90749
+                  ]
+            },
+            {
+                  "name": "Namasile",
+                  "text": "Namasile is a stark granite peak within the Mulanje reserve, presenting a challenging climb for experienced mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        35.684101,
+                        -15.888929
+                  ]
+            },
+            {
+                  "name": "Naikoto Peak",
+                  "text": "Naikoto Peak stands as a formidable rocky spire surrounded by the unique montane grasslands of the Mulanje Massif.",
+                  "category": "natural",
+                  "coords": [
+                        35.68534,
+                        -15.92419
+                  ]
+            },
+            {
+                  "name": "Tsunga Peak",
+                  "text": "Tsunga Peak is a remote mountainous summit in the Mulanje range, often shrouded in the swirling mists typical of this high-altitude region.",
+                  "category": "natural",
+                  "coords": [
+                        35.66961,
+                        -15.92664
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "forest",
     name: { de: "Mulanje-Bergwaldreservat", hu: "Mulanje-hegyi Erdőrezervátum", ro: "Rezervația Forestieră Muntele Mulanje", en: "Mulanje Mountain Forest Reserve" },
@@ -498,7 +1317,124 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-mulanje-mountain-forest-reserve-life-v2.webp",
   },
   {
-    id: "malawi-zomba-plateau-forest-reserve-life-v2",
+    id: "malawi-zomba-plateau-forest-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drum rock",
+                  "text": "Drum Rock ist eine einzigartige geologische Attraktion im grünen Zomba Plateau Forest Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28279,
+                        -15.326969
+                  ]
+            },
+            {
+                  "name": "Chingwe's hole",
+                  "text": "Chingwe's Hole ist ein steiler natürlicher Schacht und eine beliebte Attraktion auf dem malerischen Zomba-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276635,
+                        -15.328608
+                  ]
+            },
+            {
+                  "name": "Malumbe",
+                  "text": "Malumbe ist ein hoch aufragender Gipfel, der die dramatische Skyline des Zomba Plateau Forest Reserve prägt.",
+                  "category": "natural",
+                  "coords": [
+                        35.274057,
+                        -15.34954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drum rock",
+                  "text": "A Drum Rock egy egyedülálló geológiai látványosság a zöldellő Zomba Plateau Forest Reserve-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28279,
+                        -15.326969
+                  ]
+            },
+            {
+                  "name": "Chingwe's hole",
+                  "text": "A Chingwe's Hole egy meredek természetes akna és népszerű látványosság a festői Zomba-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276635,
+                        -15.328608
+                  ]
+            },
+            {
+                  "name": "Malumbe",
+                  "text": "A Malumbe egy tornyosuló csúcs, amely a Zomba Plateau Forest Reserve drámai látképét alakítja.",
+                  "category": "natural",
+                  "coords": [
+                        35.274057,
+                        -15.34954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drum rock",
+                  "text": "Stânca Drum este o atracție geologică unică situată în verdeața Rezervației Forestiere Platoul Zomba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28279,
+                        -15.326969
+                  ]
+            },
+            {
+                  "name": "Chingwe's hole",
+                  "text": "Gaura lui Chingwe este un puț natural abrupt și o atracție populară pe pitorescul Platou Zomba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276635,
+                        -15.328608
+                  ]
+            },
+            {
+                  "name": "Malumbe",
+                  "text": "Malumbe este un vârf falnic care conturează orizontul dramatic al Rezervației Forestiere Platoul Zomba.",
+                  "category": "natural",
+                  "coords": [
+                        35.274057,
+                        -15.34954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drum rock",
+                  "text": "Drum rock is a unique geological attraction nestled within the verdant Zomba Plateau Forest Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28279,
+                        -15.326969
+                  ]
+            },
+            {
+                  "name": "Chingwe's hole",
+                  "text": "Chingwe's Hole is a steep natural shaft and popular attraction located on the scenic Zomba Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276635,
+                        -15.328608
+                  ]
+            },
+            {
+                  "name": "Malumbe",
+                  "text": "Malumbe is a towering peak that shapes the dramatic skyline of the Zomba Plateau Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        35.274057,
+                        -15.34954
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "forest",
     name: { de: "Zomba-Plateau-Waldreservat", hu: "Zomba-fennsík Erdőrezervátum", ro: "Rezervația Forestieră Podișul Zomba", en: "Zomba Plateau Forest Reserve" },
@@ -543,7 +1479,160 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-zomba-plateau-forest-reserve-life-v2.webp",
   },
   {
-    id: "malawi-dzalanyama-forest-reserve-life-v2",
+    id: "malawi-dzalanyama-forest-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sosolo peak",
+                  "text": "Der Sosolo Peak dient als malerischer Aussichtspunkt auf die dichten Wälder des Dzalanyama Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        33.447965,
+                        -14.231326
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "Dieser Aussichtspunkt bietet einen ruhigen Blick über die vielfältigen Landschaften des Dzalanyama Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        33.437135,
+                        -14.251626
+                  ]
+            },
+            {
+                  "name": "Kauziuzi",
+                  "text": "Kauziuzi ist ein bemerkenswerter Aussichtspunkt mit weitreichendem Blick über das Blätterdach des Dzalanyama Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        33.438517,
+                        -14.267574
+                  ]
+            },
+            {
+                  "name": "Kampambe Hill",
+                  "text": "Der Kampambe Hill ist ein markanter Gipfel, der sich innerhalb der geschützten Landschaften des Dzalanyama Forest Reserve erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        33.41736,
+                        -14.187071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sosolo peak",
+                  "text": "A Sosolo Peak festői kilátóként szolgál a Dzalanyama Forest Reserve sűrű erdeire.",
+                  "category": "natural",
+                  "coords": [
+                        33.447965,
+                        -14.231326
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "Ez a kilátó békés kilátást nyújt a Dzalanyama Forest Reserve változatos tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        33.437135,
+                        -14.251626
+                  ]
+            },
+            {
+                  "name": "Kauziuzi",
+                  "text": "A Kauziuzi egy figyelemre méltó kilátó, amely kiterjedt kilátást nyújt a Dzalanyama Forest Reserve lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        33.438517,
+                        -14.267574
+                  ]
+            },
+            {
+                  "name": "Kampambe Hill",
+                  "text": "A Kampambe Hill egy kiemelkedő csúcs, amely a Dzalanyama Forest Reserve védett tájain emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        33.41736,
+                        -14.187071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sosolo peak",
+                  "text": "Vârful Sosolo servește ca punct de belvedere pitoresc asupra pădurilor dense ale Rezervației Forestiere Dzalanyama.",
+                  "category": "natural",
+                  "coords": [
+                        33.447965,
+                        -14.231326
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "Acest punct de belvedere oferă o priveliște senină asupra peisajelor diverse ale Rezervației Forestiere Dzalanyama.",
+                  "category": "natural",
+                  "coords": [
+                        33.437135,
+                        -14.251626
+                  ]
+            },
+            {
+                  "name": "Kauziuzi",
+                  "text": "Kauziuzi este un punct de belvedere remarcabil care oferă priveliști ample peste coronamentul Rezervației Forestiere Dzalanyama.",
+                  "category": "natural",
+                  "coords": [
+                        33.438517,
+                        -14.267574
+                  ]
+            },
+            {
+                  "name": "Kampambe Hill",
+                  "text": "Dealul Kampambe este un vârf proeminent care se înalță în peisajele protejate ale Rezervației Forestiere Dzalanyama.",
+                  "category": "natural",
+                  "coords": [
+                        33.41736,
+                        -14.187071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sosolo peak",
+                  "text": "Sosolo peak serves as a scenic viewpoint overlooking the dense woodlands of the Dzalanyama Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        33.447965,
+                        -14.231326
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "This viewpoint offers a serene outlook over the diverse landscapes of the Dzalanyama Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        33.437135,
+                        -14.251626
+                  ]
+            },
+            {
+                  "name": "Kauziuzi",
+                  "text": "Kauziuzi is a notable viewpoint providing expansive sights across the canopy of the Dzalanyama Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        33.438517,
+                        -14.267574
+                  ]
+            },
+            {
+                  "name": "Kampambe Hill",
+                  "text": "Kampambe Hill is a prominent peak rising within the protected landscapes of the Dzalanyama Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        33.41736,
+                        -14.187071
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "forest",
     name: { de: "Dzalanyama-Waldreservat", hu: "Dzalanyama Erdőrezervátum", ro: "Rezervația Forestieră Dzalanyama", en: "Dzalanyama Forest Reserve" },
@@ -633,7 +1722,196 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-ntchisi-forest-reserve-life-v2.webp",
   },
   {
-    id: "malawi-misuku-hills-forest-reserve-life-v2",
+    id: "malawi-misuku-hills-forest-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forest Entrance",
+                  "text": "Das primäre natürliche Tor, das Besucher in die üppigen, artenreichen Wälder der Misuku Hills führt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.498757,
+                        -9.703908
+                  ]
+            },
+            {
+                  "name": "Nalupalang'ombe",
+                  "text": "Ein landschaftlich reizvoller Aussichtspunkt, der weitreichende, ununterbrochene Panoramen auf die sanften Misuku Hills bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.520224,
+                        -9.708311
+                  ]
+            },
+            {
+                  "name": "Chanya Lookout",
+                  "text": "Ein hoch gelegener Aussichtspunkt, der einen spektakulären Blick über das dichte, grüne Blätterdach des Waldes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.528816,
+                        -9.648746
+                  ]
+            },
+            {
+                  "name": "Songwe Lookout",
+                  "text": "Ein Aussichtspunkt mit Blick, der weit über die Landschaft in Richtung des Songwe-Flusstals reicht.",
+                  "category": "natural",
+                  "coords": [
+                        33.53667,
+                        -9.643924
+                  ]
+            },
+            {
+                  "name": "Misuku Lookout",
+                  "text": "Ein markanter Beobachtungsplatz, der die weite Ausdehnung der umliegenden nördlichen Hochlandwälder zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        33.540916,
+                        -9.657174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forest Entrance",
+                  "text": "Az elsődleges természetes kapu, amely a Misuku-hegység buja, biológiailag sokszínű erdeibe vezeti a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        33.498757,
+                        -9.703908
+                  ]
+            },
+            {
+                  "name": "Nalupalang'ombe",
+                  "text": "Festői kilátó, amely zavartalan, széles panorámát nyújt a Misuku-hegység lankáira.",
+                  "category": "natural",
+                  "coords": [
+                        33.520224,
+                        -9.708311
+                  ]
+            },
+            {
+                  "name": "Chanya Lookout",
+                  "text": "Magaslati kilátópont, ahonnan drámai kilátás nyílik a sűrű, zöld erdei lombkoronára.",
+                  "category": "natural",
+                  "coords": [
+                        33.528816,
+                        -9.648746
+                  ]
+            },
+            {
+                  "name": "Songwe Lookout",
+                  "text": "Festői kilátó, ahonnan a táj a Songwe folyó völgye felé nyúlik el.",
+                  "category": "natural",
+                  "coords": [
+                        33.53667,
+                        -9.643924
+                  ]
+            },
+            {
+                  "name": "Misuku Lookout",
+                  "text": "Kiemelkedő megfigyelőterület, amely bemutatja az északi felvidéki erdők hatalmas kiterjedését.",
+                  "category": "natural",
+                  "coords": [
+                        33.540916,
+                        -9.657174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forest Entrance",
+                  "text": "Poarta naturală principală care conduce vizitatorii în pădurile luxuriante și biodiverse din Misuku Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        33.498757,
+                        -9.703908
+                  ]
+            },
+            {
+                  "name": "Nalupalang'ombe",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame neîntrerupte asupra dealurilor unduitoare Misuku.",
+                  "category": "natural",
+                  "coords": [
+                        33.520224,
+                        -9.708311
+                  ]
+            },
+            {
+                  "name": "Chanya Lookout",
+                  "text": "Un punct de observație la mare altitudine oferind priveliști dramatice peste coronamentul dens și verde al pădurii.",
+                  "category": "natural",
+                  "coords": [
+                        33.528816,
+                        -9.648746
+                  ]
+            },
+            {
+                  "name": "Songwe Lookout",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști ce se întind departe peste peisaj spre valea râului Songwe.",
+                  "category": "natural",
+                  "coords": [
+                        33.53667,
+                        -9.643924
+                  ]
+            },
+            {
+                  "name": "Misuku Lookout",
+                  "text": "O zonă de observație proeminentă care prezintă vasta întindere a pădurilor muntoase nordice din jur.",
+                  "category": "natural",
+                  "coords": [
+                        33.540916,
+                        -9.657174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forest Entrance",
+                  "text": "The primary natural gateway leading visitors into the lush, biodiverse woodlands of the Misuku Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        33.498757,
+                        -9.703908
+                  ]
+            },
+            {
+                  "name": "Nalupalang'ombe",
+                  "text": "A scenic overlook offering sweeping, uninterrupted panoramas of the rolling Misuku Hills.",
+                  "category": "natural",
+                  "coords": [
+                        33.520224,
+                        -9.708311
+                  ]
+            },
+            {
+                  "name": "Chanya Lookout",
+                  "text": "A high-altitude vantage point providing dramatic views over the dense, green forest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        33.528816,
+                        -9.648746
+                  ]
+            },
+            {
+                  "name": "Songwe Lookout",
+                  "text": "A scenic viewpoint offering vistas that stretch far across the landscape towards the Songwe River valley.",
+                  "category": "natural",
+                  "coords": [
+                        33.53667,
+                        -9.643924
+                  ]
+            },
+            {
+                  "name": "Misuku Lookout",
+                  "text": "A prominent observation area showcasing the vast expanse of the surrounding northern highland forests.",
+                  "category": "natural",
+                  "coords": [
+                        33.540916,
+                        -9.657174
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "forest",
     name: { de: "Misuku-Hills-Waldreservat", hu: "Misuku-dombság Erdőrezervátum", ro: "Rezervația Forestieră Dealurile Misuku", en: "Misuku Hills Forest Reserve" },
@@ -678,7 +1956,88 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-misuku-hills-forest-reserve-life-v2.webp",
   },
   {
-    id: "malawi-elephant-marsh-life-v2",
+    id: "malawi-elephant-marsh-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilovo Sugar cane estates",
+                  "text": "Die Ilovo Sugar Cane Estates nahe der Elephant Marsh umfassen weitläufige landwirtschaftliche Flächen, auf denen intensiv Zuckerrohr angebaut wird.",
+                  "category": "landmark",
+                  "coords": [
+                        34.850875,
+                        -16.193999
+                  ]
+            },
+            {
+                  "name": "Nyala Park",
+                  "text": "Der Nyala Park nahe der Elephant Marsh ist ein kleines Schutzgebiet, in dem Besucher die eleganten Nyala-Antilopen in ihrem natürlichen Lebensraum beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        34.863966,
+                        -16.171188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilovo Sugar cane estates",
+                  "text": "Az Elephant Marsh közelében elterülő Ilovo Sugar Cane Estates hatalmas mezőgazdasági területein intenzív cukornádtermesztés folyik.",
+                  "category": "landmark",
+                  "coords": [
+                        34.850875,
+                        -16.193999
+                  ]
+            },
+            {
+                  "name": "Nyala Park",
+                  "text": "Az Elephant Marsh melletti Nyala Park egy kis védett terület, ahol a látogatók természetes élőhelyükön figyelhetik meg az elegáns nyala antilopokat.",
+                  "category": "natural",
+                  "coords": [
+                        34.863966,
+                        -16.171188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilovo Sugar cane estates",
+                  "text": "Ilovo Sugar Cane Estates de lângă Elephant Marsh cuprind terenuri agricole vaste, dedicate cultivării intensive a trestiei de zahăr.",
+                  "category": "landmark",
+                  "coords": [
+                        34.850875,
+                        -16.193999
+                  ]
+            },
+            {
+                  "name": "Nyala Park",
+                  "text": "Parcul Nyala, situat lângă Elephant Marsh, este o mică rezervație unde vizitatorii pot observa antilopele nyala în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        34.863966,
+                        -16.171188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilovo Sugar cane estates",
+                  "text": "The Ilovo Sugar cane estates near Elephant Marsh encompass vast agricultural lands dedicated to intensive sugarcane cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        34.850875,
+                        -16.193999
+                  ]
+            },
+            {
+                  "name": "Nyala Park",
+                  "text": "Nyala Park near Elephant Marsh is a small reserve where visitors can observe elegant nyala antelopes in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        34.863966,
+                        -16.171188
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "wildlife",
     name: { de: "Elefantensumpf", hu: "Elefánt-mocsár", ro: "Mlaștina Elefanților", en: "Elephant Marsh" },
@@ -813,7 +2172,52 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-kuti-wildlife-reserve-life-v2.webp",
   },
   {
-    id: "malawi-thuma-forest-reserve-life-v2",
+    id: "malawi-thuma-forest-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "mphuzi hills camping site",
+                  "text": "Dieser ländliche Campingplatz in den Hügeln bietet Outdoor-Enthusiasten einen naturnahen Aufenthalt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310559,
+                        -13.762493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "mphuzi hills camping site",
+                  "text": "Ez a hegyekben fekvő vidéki kemping természetközeli tartózkodást kínál a szabadtéri rajongóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310559,
+                        -13.762493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "mphuzi hills camping site",
+                  "text": "Acest loc de campare rural din dealuri oferă o ședere în natură pentru pasionații de aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310559,
+                        -13.762493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "mphuzi hills camping site",
+                  "text": "This rural camping site in the hills offers a close-to-nature stay for outdoor enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310559,
+                        -13.762493
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "forest",
     name: { de: "Thuma-Waldreservat", hu: "Thuma Erdőrezervátum", ro: "Rezervația Forestieră Thuma", en: "Thuma Forest Reserve" },
@@ -858,7 +2262,160 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-thuma-forest-reserve-life-v2.webp",
   },
   {
-    id: "malawi-michiru-mountain-conservation-area-life-v2",
+    id: "malawi-michiru-mountain-conservation-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Picknick spot",
+                  "text": "Dieser ruhige Picknickplatz bietet eine einladende natürliche Attraktion innerhalb der Michiru Mountain Conservation Area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988244,
+                        -15.71703
+                  ]
+            },
+            {
+                  "name": "Michiru Mountain",
+                  "text": "Der Michiru Mountain bietet weitreichende malerische Aussichtspunkte über sein umliegendes geschütztes Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        34.962015,
+                        -15.736572
+                  ]
+            },
+            {
+                  "name": "Michiru Forest Reserve",
+                  "text": "Die Michiru Forest Reserve ist ein geschütztes Naturparadies, das eine vielfältige Tierwelt am Michiru Mountain beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        34.966848,
+                        -15.736259
+                  ]
+            },
+            {
+                  "name": "tyi",
+                  "text": "Dieses burgartige Bauwerk mit dem Namen 'tyi' steht als kuriose architektonische Besonderheit nahe der Michiru Mountain Conservation Area.",
+                  "category": "castle",
+                  "coords": [
+                        34.991435,
+                        -15.741713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Picknick spot",
+                  "text": "Ez a csendes piknikezőhely hívogató természeti látványosságot kínál a Michiru Mountain Conservation Area területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988244,
+                        -15.71703
+                  ]
+            },
+            {
+                  "name": "Michiru Mountain",
+                  "text": "A Michiru Mountain kiterjedt, festői kilátóhelyeket kínál a környező védett természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        34.962015,
+                        -15.736572
+                  ]
+            },
+            {
+                  "name": "Michiru Forest Reserve",
+                  "text": "A Michiru Forest Reserve egy védett természeti menedékhely, amely változatos vadvilágot támogat a Michiru Mountain-on.",
+                  "category": "natural",
+                  "coords": [
+                        34.966848,
+                        -15.736259
+                  ]
+            },
+            {
+                  "name": "tyi",
+                  "text": "Ez a 'tyi' nevű, kastélyszerű építmény egy különös építészeti sajátosságként áll a Michiru Mountain Conservation Area közelében.",
+                  "category": "castle",
+                  "coords": [
+                        34.991435,
+                        -15.741713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Picknick spot",
+                  "text": "Acest loc liniștit de picnic oferă o atracție naturală primitoare în cadrul Zonei de Conservare a Muntelui Michiru.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988244,
+                        -15.71703
+                  ]
+            },
+            {
+                  "name": "Michiru Mountain",
+                  "text": "Muntele Michiru oferă puncte de belvedere pitorești și ample asupra zonei sale de conservare protejate din jur.",
+                  "category": "natural",
+                  "coords": [
+                        34.962015,
+                        -15.736572
+                  ]
+            },
+            {
+                  "name": "Michiru Forest Reserve",
+                  "text": "Rezervația Forestieră Michiru este un refugiu natural protejat care susține o faună diversă pe Muntele Michiru.",
+                  "category": "natural",
+                  "coords": [
+                        34.966848,
+                        -15.736259
+                  ]
+            },
+            {
+                  "name": "tyi",
+                  "text": "Această structură asemănătoare unui castel numită 'tyi' reprezintă o trăsătură arhitecturală curioasă lângă Zona de Conservare a Muntelui Michiru.",
+                  "category": "castle",
+                  "coords": [
+                        34.991435,
+                        -15.741713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picknick spot",
+                  "text": "This quiet picnic spot offers an inviting natural attraction within the Michiru Mountain Conservation Area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988244,
+                        -15.71703
+                  ]
+            },
+            {
+                  "name": "Michiru Mountain",
+                  "text": "Michiru Mountain offers sweeping scenic viewpoints over its surrounding protected conservation area.",
+                  "category": "natural",
+                  "coords": [
+                        34.962015,
+                        -15.736572
+                  ]
+            },
+            {
+                  "name": "Michiru Forest Reserve",
+                  "text": "The Michiru Forest Reserve is a protected natural haven supporting diverse wildlife on Michiru Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        34.966848,
+                        -15.736259
+                  ]
+            },
+            {
+                  "name": "tyi",
+                  "text": "This castle-like structure named 'tyi' stands as a curious architectural feature near the Michiru Mountain Conservation Area.",
+                  "category": "castle",
+                  "coords": [
+                        34.991435,
+                        -15.741713
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mountain",
     name: { de: "Michiru-Berg-Schutzgebiet", hu: "Michiru-hegyi Természetvédelmi Terület", ro: "Zona de Conservare Muntele Michiru", en: "Michiru Mountain Conservation Area" },
@@ -948,7 +2505,88 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-thyolo-mountain-forest-reserve-life-v2.webp",
   },
   {
-    id: "malawi-kaningina-forest-reserve-life-v2",
+    id: "malawi-kaningina-forest-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chifunga Coffee Factory",
+                  "text": "Die Kaffeefabrik Chifunga verarbeitet Kaffeebohnen, die im umliegenden Hochland geerntet wurden, und erfüllt die Luft mit dem Duft von röstendem Kaffee.",
+                  "category": "landmark",
+                  "coords": [
+                        34.045614,
+                        -11.449548
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "Der Uhrenturm steht als zentrales bürgerliches Denkmal an einer markanten Kreuzung der Siedlung und markiert das Vergehen der Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chifunga Coffee Factory",
+                  "text": "A Chifunga kávégyár a környező hegyvidékeken betakarított kávébabokat dolgozza fel, és a pörkölődő kávé illatával tölti meg a levegőt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.045614,
+                        -11.449548
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "Az óratorony a település egy forgalmas kereszteződésében álló központi polgári emlékmű, amely az idő múlását jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chifunga Coffee Factory",
+                  "text": "Fabrica de cafea Chifunga procesează boabele de cafea recoltate din zonele muntoase înconjurătoare, umplând aerul cu mirosul cafelei prăjite.",
+                  "category": "landmark",
+                  "coords": [
+                        34.045614,
+                        -11.449548
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "Turnul cu ceas se înalță ca un monument civic central care marchează trecerea timpului la o intersecție proeminentă din așezare.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chifunga Coffee Factory",
+                  "text": "Chifunga Coffee Factory processes coffee beans harvested from the surrounding highlands, filling the air with the scent of roasting coffee.",
+                  "category": "landmark",
+                  "coords": [
+                        34.045614,
+                        -11.449548
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "The Clocktower stands as a central civic monument marking the passing of time at a prominent intersection in the settlement.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "forest",
     name: { de: "Kaning'ina-Waldreservat", hu: "Kaning'ina Erdőrezervátum", ro: "Rezervația Forestieră Kaning'ina", en: "Kaning'ina Forest Reserve" },
@@ -1038,7 +2676,52 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-senga-bay-biodiversity-area-life-v2.webp",
   },
   {
-    id: "malawi-cape-maclear-nature-reserve-life-v2",
+    id: "malawi-cape-maclear-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cape Maclear",
+                  "text": "Dieser sandige Badeort am See ist berühmt für sein kristallklares Wasser, farbenprächtige Buntbarsche und hervorragende Schnorchelmöglichkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        34.852988,
+                        -13.998653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cape Maclear",
+                  "text": "Ez a homokos tóparti üdülőhely kristálytiszta vizéről, színes sügérféléiről és kiváló sznorkelezési lehetőségeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        34.852988,
+                        -13.998653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cape Maclear",
+                  "text": "Această stațiune de nisip de pe malul lacului este renumită pentru apele sale cristaline, peștii cichlide colorați și oportunitățile excelente de snorkeling.",
+                  "category": "landmark",
+                  "coords": [
+                        34.852988,
+                        -13.998653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Maclear",
+                  "text": "This sandy lakeside resort is famous for its crystalline waters, colorful cichlid fish, and excellent snorkeling opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        34.852988,
+                        -13.998653
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "park",
     name: { de: "Naturschutzgebiet Cape Maclear", hu: "Cape Maclear Természetvédelmi Terület", ro: "Rezervația Naturală Cape Maclear", en: "Cape Maclear Nature Reserve" },
@@ -1083,7 +2766,52 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-cape-maclear-nature-reserve-life-v2.webp",
   },
   {
-    id: "malawi-domwe-island-reserve-life-v2",
+    id: "malawi-domwe-island-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Domwe Island",
+                  "text": "Das Naturschutzgebiet Domwe Island schützt die üppige Inselflora und Uferzonen im malawi-domwe-island-reserve-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        34.833591,
+                        -13.982402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Domwe Island",
+                  "text": "A Domwe Island természetvédelmi terület malawi-domwe-island-reserve-life-v2 buja szigeti növényvilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        34.833591,
+                        -13.982402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domwe Island",
+                  "text": "Rezervația naturală Domwe Island protejează flora insulară luxuriantă din malawi-domwe-island-reserve-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        34.833591,
+                        -13.982402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Domwe Island",
+                  "text": "The Domwe Island nature reserve protects lush, pristine island habitats within malawi-domwe-island-reserve-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        34.833591,
+                        -13.982402
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "wildlife",
     name: { de: "Domwe-Insel-Reservat", hu: "Domwe-sziget Rezervátum", ro: "Rezervația Insula Domwe", en: "Domwe Island Reserve" },
@@ -1308,7 +3036,160 @@ export const malawiLifeV2: POI[] = [
     image: "/poi-images/malawi-bua-river-sanctuary-life-v2.webp",
   },
   {
-    id: "malawi-lilongwe-nature-sanctuary-life-v2",
+    id: "malawi-lilongwe-nature-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Craft market monthly",
+                  "text": "Dieser lebhafte Freiluftmarkt findet einmal im Monat statt und bietet handgefertigte Holzschnitzereien, Textilien und lokale Handwerksprodukte aus Malawi.",
+                  "category": "landmark",
+                  "coords": [
+                        33.786065,
+                        -13.968943
+                  ]
+            },
+            {
+                  "name": "open Theatre",
+                  "text": "Dieses Open-Air-Amphitheater auf dem Gelände des Schutzgebiets bietet eine natürliche Kulisse für kulturelle Aufführungen und Versammlungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        33.790918,
+                        -13.951944
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "Dieses bewaldete städtische Reservat liegt zwischen der Altstadt und der Neustadt von Lilongwe und schützt die lokale Tierwelt sowie den Lingadzi-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        33.790853,
+                        -13.971847
+                  ]
+            },
+            {
+                  "name": "Kumbali Cultural Village",
+                  "text": "Dieses faszinierende Kulturdorf bietet traditionelle malawische Hütten, rhythmische Trommelvorführungen und Einblicke in den ländlichen Alltag.",
+                  "category": "landmark",
+                  "coords": [
+                        33.841015,
+                        -13.939178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Craft market monthly",
+                  "text": "A havonta megrendezett, nyüzsgő szabadtéri piacon kézzel készített malawi fafaragványokat, textíliákat és helyi kézműves termékeket kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        33.786065,
+                        -13.968943
+                  ]
+            },
+            {
+                  "name": "open Theatre",
+                  "text": "A menedékhely területén található szabadtéri amfiteátrum természetes környezetet biztosít a szabadtéri kulturális előadások és összejövetelek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        33.790918,
+                        -13.951944
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "A Lilongwe óvárosa és újvárosa között elterülő erdős városi rezervátum a helyi vadvilágot és a Lingadzi-folyót védi.",
+                  "category": "natural",
+                  "coords": [
+                        33.790853,
+                        -13.971847
+                  ]
+            },
+            {
+                  "name": "Kumbali Cultural Village",
+                  "text": "Ez a magával ragadó kulturális falu hagyományos malawi kunyhókkal, ritmikus dobos előadásokkal és a helyi mindennapi falusi élet bemutatásával várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        33.841015,
+                        -13.939178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Craft market monthly",
+                  "text": "Desfășurată o dată pe lună, această piață vibrantă în aer liber oferă sculpturi din lemn din Malawi realizate manual, textile și bunuri artizanale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        33.786065,
+                        -13.968943
+                  ]
+            },
+            {
+                  "name": "open Theatre",
+                  "text": "Acest amfiteatru în aer liber din incinta sanctuarului oferă un cadru natural pentru spectacole culturale și adunări în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        33.790918,
+                        -13.951944
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "Situată între Orașul Vechi și Orașul Nou din Lilongwe, această rezervație urbană împădurită protejează fauna locală și râul Lingadzi.",
+                  "category": "natural",
+                  "coords": [
+                        33.790853,
+                        -13.971847
+                  ]
+            },
+            {
+                  "name": "Kumbali Cultural Village",
+                  "text": "Acest sat cultural captivant prezintă colibe tradiționale din Malawi, spectacole de tobe ritmice și expoziții ale vieții rurale zilnice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        33.841015,
+                        -13.939178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Craft market monthly",
+                  "text": "Held once a month, this vibrant outdoor market offers handmade Malawian wooden carvings, textiles, and local artisanal goods.",
+                  "category": "landmark",
+                  "coords": [
+                        33.786065,
+                        -13.968943
+                  ]
+            },
+            {
+                  "name": "open Theatre",
+                  "text": "This open-air amphitheater within the sanctuary grounds provides a natural setting for outdoor cultural performances and gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        33.790918,
+                        -13.951944
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "Situated between the Old and New Town of Lilongwe, this forested urban reserve protects local wildlife and the Lingadzi River.",
+                  "category": "natural",
+                  "coords": [
+                        33.790853,
+                        -13.971847
+                  ]
+            },
+            {
+                  "name": "Kumbali Cultural Village",
+                  "text": "This immersive cultural village features traditional Malawian huts, rhythmic drumming performances, and displays of local daily village life.",
+                  "category": "landmark",
+                  "coords": [
+                        33.841015,
+                        -13.939178
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "wildlife",
     name: { de: "Lilongwe-Naturschutzgebiet", hu: "Lilongwe Természetvédelmi Terület", ro: "Sanctuarul Naturii Lilongwe", en: "Lilongwe Nature Sanctuary" },

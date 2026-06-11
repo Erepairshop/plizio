@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraBurundiLifeV2: POI[] = [
   {
-    id: "musee-vivant-life-v2",
+    id: "musee-vivant-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo Feeding Point",
+                  "text": "Der Hippo Feeding Point ist eine beliebte Attraktion im Musée Vivant, wo Besucher Nilpferde während ihrer geplanten Fütterungszeiten sicher beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        29.350061,
+                        -3.383971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo Feeding Point",
+                  "text": "A vízilovak etetőhelye a Musée Vivant népszerű látványossága, ahol a látogatók biztonságosan megfigyelhetik az állatokat a tervezett etetési időkben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.350061,
+                        -3.383971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo Feeding Point",
+                  "text": "Punctul de hrănire a hipopotamilor este o atracție populară din cadrul Musée Vivant, unde vizitatorii pot observa în siguranță aceste animale în timpul orelor programate de masă.",
+                  "category": "landmark",
+                  "coords": [
+                        29.350061,
+                        -3.383971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo Feeding Point",
+                  "text": "The Hippo Feeding Point is a popular attraction within the Musée Vivant where visitors can safely observe hippopotamuses during their scheduled feeding times.",
+                  "category": "landmark",
+                  "coords": [
+                        29.350061,
+                        -3.383971
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BI-BM",
     coords: [29.355, -3.385],
@@ -51,7 +96,52 @@ export const poiExtraBurundiLifeV2: POI[] = [
     }
   },
   {
-    id: "rusizi-delta-life-v2",
+    id: "rusizi-delta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Associaton d'Appui Animal",
+                  "text": "Die Association d'Appui Animal ist eine museale Bildungseinrichtung, die sich dem Schutz der Tierwelt im Ökosystem des Rusizi-Deltas widmet.",
+                  "category": "museum",
+                  "coords": [
+                        29.266812,
+                        -3.335126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Associaton d'Appui Animal",
+                  "text": "Az Association d'Appui Animal egy oktatási célú múzeum, amely a Rusizi-delta ökoszisztémájának vadvédelmi erőfeszítéseinek szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        29.266812,
+                        -3.335126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Associaton d'Appui Animal",
+                  "text": "Asociația d'Appui Animal este un muzeu educațional dedicat eforturilor de conservare a faunei sălbatice din ecosistemul deltei Rusizi.",
+                  "category": "museum",
+                  "coords": [
+                        29.266812,
+                        -3.335126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Associaton d'Appui Animal",
+                  "text": "The Association d'Appui Animal is an educational museum facility dedicated to the wildlife conservation efforts within the Rusizi Delta ecosystem.",
+                  "category": "museum",
+                  "coords": [
+                        29.266812,
+                        -3.335126
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BI-BL",
     coords: [29.25, -3.35],
@@ -387,7 +477,52 @@ export const poiExtraBurundiLifeV2: POI[] = [
     },
   },
   {
-    id: "mosso-sugar-life-v2",
+    id: "mosso-sugar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre de négoce GAKUNGU",
+                  "text": "Das Centre de négoce GAKUNGU fungiert als geschäftiges Handelszentrum, das auch einen erhöhten Aussichtspunkt über die umliegenden Zuckerrohrfelder von Mosso bietet.",
+                  "category": "natural",
+                  "coords": [
+                        30.32186,
+                        -3.753368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre de négoce GAKUNGU",
+                  "text": "A Centre de négoce GAKUNGU nyüzsgő kereskedelmi központként működik, amely egyúttal magaslati kilátást is nyújt a környező Mosso cukornádültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        30.32186,
+                        -3.753368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre de négoce GAKUNGU",
+                  "text": "Centrul de negoce GAKUNGU funcționează ca un centru comercial plin de viață, care oferă, de asemenea, un punct de belvedere ridicat asupra câmpurilor de trestie de zahăr Mosso din jur.",
+                  "category": "natural",
+                  "coords": [
+                        30.32186,
+                        -3.753368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre de négoce GAKUNGU",
+                  "text": "The Centre de négoce GAKUNGU functions as a bustling trading hub that also offers an elevated viewpoint over the surrounding Mosso sugar cane fields.",
+                  "category": "natural",
+                  "coords": [
+                        30.32186,
+                        -3.753368
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BI-RT",
     coords: [30.3, -3.8],
@@ -435,7 +570,52 @@ export const poiExtraBurundiLifeV2: POI[] = [
     },
   },
   {
-    id: "bujumbura-beach-life-v2",
+    id: "bujumbura-beach-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pagode Pascasia",
+                  "text": "Die Pagode Pascasia ist eine unverwechselbar asiatisch inspirierte Attraktion in der Nähe der Sandstrände von Bujumbura Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        29.341723,
+                        -3.416738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pagode Pascasia",
+                  "text": "A Pagode Pascasia egy jellegzetes ázsiai stílusú látványosság, amely Bujumbura Beach homokos partjai közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        29.341723,
+                        -3.416738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pagode Pascasia",
+                  "text": "Pagode Pascasia este o atracție cu o arhitectură distinctivă de inspirație asiatică, situată lângă plajele de nisip din Bujumbura.",
+                  "category": "landmark",
+                  "coords": [
+                        29.341723,
+                        -3.416738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pagode Pascasia",
+                  "text": "Pagode Pascasia is a distinctively styled Asian-inspired attraction situated near the sandy shores of Bujumbura Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        29.341723,
+                        -3.416738
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BI-BM",
     coords: [29.34, -3.4],
@@ -483,7 +663,52 @@ export const poiExtraBurundiLifeV2: POI[] = [
     },
   },
   {
-    id: "gitega-drums-kids-life-v2",
+    id: "gitega-drums-kids-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sanctuaire des Tambours Sacrés",
+                  "text": "Das Gishora Drum Sanctuary ist eine kulturelle Stätte, an der traditionelle burundische königliche Trommelrituale bewahrt und aufgeführt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        29.921972,
+                        -3.362878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sanctuaire des Tambours Sacrés",
+                  "text": "A Gishora Dobszentély egy kulturális helyszín, ahol a hagyományos burundi királyi dobolási rituálékat őrzik és adják elő.",
+                  "category": "landmark",
+                  "coords": [
+                        29.921972,
+                        -3.362878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sanctuaire des Tambours Sacrés",
+                  "text": "Sanctuarul Tobei din Gishora este un sit cultural unde sunt păstrate și interpretate ritualurile tradiționale de tobe regale burundeze.",
+                  "category": "landmark",
+                  "coords": [
+                        29.921972,
+                        -3.362878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gishora Drum Sanctuary",
+                  "text": "The Gishora Drum Sanctuary is a cultural site where traditional Burundian royal drumming rituals are preserved and performed.",
+                  "category": "landmark",
+                  "coords": [
+                        29.921972,
+                        -3.362878
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BI-GI",
     coords: [29.93, -3.36],

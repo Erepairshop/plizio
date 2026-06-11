@@ -130,7 +130,52 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
     },
   },
     {
-    id: "colinas-de-boe-palace-landmarks-v2",
+    id: "colinas-de-boe-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "Ein Denkmal auf einem Hügel mit einer statuenhaften Darstellung Christi, die die umliegende Landschaft überblickt.",
+                  "category": "historical",
+                  "coords": [
+                        -15.60205,
+                        11.858254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "Domboldali emlékmű, amely Krisztust ábrázoló szobrával tekint le a környező tájra.",
+                  "category": "historical",
+                  "coords": [
+                        -15.60205,
+                        11.858254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "Un monument pe un deal care prezintă o reprezentare statuară a lui Hristos cu vedere la peisajul din jur.",
+                  "category": "historical",
+                  "coords": [
+                        -15.60205,
+                        11.858254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "A hilltop monument featuring a statuesque depiction of Christ overlooking the surrounding landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -15.60205,
+                        11.858254
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GW-BS",
     coords: [-15.5941, 11.8614],
@@ -194,7 +239,88 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
     }
   },
     {
-    id: "central-market-bissau-landmarks-v2",
+    id: "central-market-bissau-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado Central",
+                  "text": "Die baufälligen Überreste dessen, was historisch gesehen der geschäftige zentrale Marktplatz der Stadt war.",
+                  "category": "historical",
+                  "coords": [
+                        -15.582383,
+                        11.859123
+                  ]
+            },
+            {
+                  "name": "Kathedrale von Bissau",
+                  "text": "Eine unverwechselbare katholische Kathedrale, bekannt für ihre Architektur im mittelalterlichen Stil aus der Mitte des 20. Jahrhunderts in der Hauptstadt.",
+                  "category": "religious",
+                  "coords": [
+                        -15.58116,
+                        11.860034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado Central",
+                  "text": "A város egykori nyüzsgő központi piacának romos maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -15.582383,
+                        11.859123
+                  ]
+            },
+            {
+                  "name": "Catedral Católica de Nossa Senhora da Candelária",
+                  "text": "Jellegzetes katolikus katedrális, amely a 20. század közepén épült, középkori stílusú építészetéről ismert a fővárosban.",
+                  "category": "religious",
+                  "coords": [
+                        -15.58116,
+                        11.860034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado Central",
+                  "text": "Rămășițele dărăpănate ale ceea ce a fost din punct de vedere istoric piața centrală plină de viață a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -15.582383,
+                        11.859123
+                  ]
+            },
+            {
+                  "name": "Catedral Católica de Nossa Senhora da Candelária",
+                  "text": "O catedrală catolică distinctă cunoscută pentru arhitectura sa în stil medieval de la mijlocul secolului al XX-lea din capitală.",
+                  "category": "religious",
+                  "coords": [
+                        -15.58116,
+                        11.860034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado Central",
+                  "text": "The dilapidated remnants of what was historically the bustling central marketplace of the city.",
+                  "category": "historical",
+                  "coords": [
+                        -15.582383,
+                        11.859123
+                  ]
+            },
+            {
+                  "name": "Bissau Cathedral",
+                  "text": "A distinctive Catholic cathedral known for its mid-20th-century medieval-style architecture in the capital.",
+                  "category": "religious",
+                  "coords": [
+                        -15.58116,
+                        11.860034
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GW-BS",
     coords: [-15.5822, 11.8601],
@@ -258,7 +384,52 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
     }
   },
     {
-    id: "bceao-building-bissau-landmarks-v2",
+    id: "bceao-building-bissau-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hotel Portugal",
+                  "text": "Die noch stehende Ruine eines Gastgewerbebetriebs aus der frühen Kolonialzeit.",
+                  "category": "historical",
+                  "coords": [
+                        -15.583473,
+                        11.859816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hotel Portugal",
+                  "text": "Egy kora gyarmati korszakból származó vendéglátóipari létesítmény álló romos váza.",
+                  "category": "historical",
+                  "coords": [
+                        -15.583473,
+                        11.859816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hotel Portugal",
+                  "text": "Carcasa în ruină rămasă în picioare a unei unități de ospitalitate din epoca colonială timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        -15.583473,
+                        11.859816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hotel Portugal",
+                  "text": "The standing ruined shell of an early colonial-era hospitality establishment.",
+                  "category": "historical",
+                  "coords": [
+                        -15.583473,
+                        11.859816
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GW-BS",
     coords: [-15.5836, 11.8594],
@@ -386,7 +557,52 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
     }
   },
     {
-    id: "ilheu-do-rei-lighthouse-landmarks-v2",
+    id: "ilheu-do-rei-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Ilha do Rei",
+                  "text": "Ein funktionaler maritimer Leuchtturmbau, der auf der strategisch günstig gelegenen Königsinsel errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.564506,
+                        11.855166
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Ilha do Rei",
+                  "text": "Funkcionális tengeri világítótorony, amelyet a stratégiai elhelyezkedésű Király-szigeten emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.564506,
+                        11.855166
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Ilha do Rei",
+                  "text": "Un turn de far maritim funcțional ridicat pe Insula Regelui, poziționată strategic.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.564506,
+                        11.855166
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Ilha do Rei",
+                  "text": "A functional maritime lighthouse tower erected on the strategically positioned King's Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.564506,
+                        11.855166
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GW-BS",
     coords: [-15.5714, 11.8475],
@@ -1026,7 +1242,124 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
     }
   },
     {
-    id: "january-20-monument-landmarks-v2",
+    id: "january-20-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado di Coqueiros",
+                  "text": "Ein lebhafter Kunsthandwerksmarkt, der traditionelles Kunsthandwerk und lokal gewebte Waren anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.585384,
+                        11.866459
+                  ]
+            },
+            {
+                  "name": "Praça dos Heróis Nacionais",
+                  "text": "Praça dos Heróis Nacionais ist ein Gedenkpark in der Nähe der Wahrzeichen des 20. Januars.",
+                  "category": "park",
+                  "coords": [
+                        -15.584323,
+                        11.863218
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico",
+                  "text": "Das Museu Etnográfico ist ein kulturhistorisches Museum in der Nähe der Wahrzeichen des 20. Januars.",
+                  "category": "museum",
+                  "coords": [
+                        -15.585284,
+                        11.862924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado di Coqueiros",
+                  "text": "Nyüzsgő kézműves piac, amely hagyományos kézműves termékeket és helyi szövött árukat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.585384,
+                        11.866459
+                  ]
+            },
+            {
+                  "name": "Praça dos Heróis Nacionais",
+                  "text": "A Praça dos Heróis Nacionais egy emlékpark, amely a Január 20-i emlékművek közelében található.",
+                  "category": "park",
+                  "coords": [
+                        -15.584323,
+                        11.863218
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico",
+                  "text": "A Museu Etnográfico egy kulturális múzeum, amely a Január 20-i emlékművek közelében található.",
+                  "category": "museum",
+                  "coords": [
+                        -15.585284,
+                        11.862924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado di Coqueiros",
+                  "text": "O piață artizanală plină de viață care oferă artizanat tradițional și produse țesute local.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.585384,
+                        11.866459
+                  ]
+            },
+            {
+                  "name": "Praça dos Heróis Nacionais",
+                  "text": "Praça dos Heróis Nacionais este un parc memorial situat în apropierea monumentelor din 20 ianuarie.",
+                  "category": "park",
+                  "coords": [
+                        -15.584323,
+                        11.863218
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico",
+                  "text": "Museu Etnográfico este un muzeu cultural situat în apropierea monumentelor din 20 ianuarie.",
+                  "category": "museum",
+                  "coords": [
+                        -15.585284,
+                        11.862924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coqueiros Craft Market",
+                  "text": "A lively artisan market venue offering traditional handicrafts and locally woven goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.585384,
+                        11.866459
+                  ]
+            },
+            {
+                  "name": "Praça dos Heróis Nacionais",
+                  "text": "Praça dos Heróis Nacionais is a memorial park situated near the January 20 landmarks.",
+                  "category": "park",
+                  "coords": [
+                        -15.584323,
+                        11.863218
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico",
+                  "text": "Museu Etnográfico is a cultural museum located near the January 20 landmarks.",
+                  "category": "museum",
+                  "coords": [
+                        -15.585284,
+                        11.862924
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GW-BS",
     coords: [-15.5849, 11.8628],
@@ -1218,7 +1551,52 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
     }
   },
     {
-    id: "bandim-fishing-port-landmarks-v2",
+    id: "bandim-fishing-port-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Ponta Bernafel",
+                  "text": "Ein maritimer Leuchtturm, der an einem markanten Küstenpunkt steht, um Schiffe zu leiten.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.652138,
+                        11.789939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Ponta Bernafel",
+                  "text": "Tengeri világítótorony, amely egy kiemelkedő tengerparti ponton áll a hajók irányítására.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.652138,
+                        11.789939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Ponta Bernafel",
+                  "text": "O structură de far maritim situată pe un punct de coastă proeminent pentru a ghida navele.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.652138,
+                        11.789939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Ponta Bernafel",
+                  "text": "A maritime lighthouse structure standing on a prominent coastal point to guide ships.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.652138,
+                        11.789939
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GW-BS",
     coords: [-15.6075, 11.8475],

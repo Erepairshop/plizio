@@ -32,7 +32,52 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     
   },
   {
-    id: "maromokotro-peak-relief-v2",
+    id: "maromokotro-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maromokotro",
+                  "text": "Der höchste Gipfel Madagaskars im Tsaratanana-Massiv, der Bergsteiger mit seinem abgelegenen, vulkanischen Terrain herausfordert.",
+                  "category": "natural",
+                  "coords": [
+                        48.967651,
+                        -14.022581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maromokotro",
+                  "text": "Madagaszkár legmagasabb hegycsúcsa a Tsaratanana-hegységben, amely távoli, vulkanikus terepével kihívás elé állítja a hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        48.967651,
+                        -14.022581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maromokotro",
+                  "text": "Cel mai înalt vârf din Madagascar, situat în Masivul Tsaratanana, care provoacă alpiniștii prin terenul său vulcanic și izolat.",
+                  "category": "natural",
+                  "coords": [
+                        48.967651,
+                        -14.022581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maromokotro",
+                  "text": "The highest peak in Madagascar, situated within the Tsaratanana Massif and challenging climbers with its remote, volcanic terrain.",
+                  "category": "natural",
+                  "coords": [
+                        48.967651,
+                        -14.022581
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MG-M",
     coords: [48.9667, -14.0203],
@@ -189,7 +234,52 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     
   },
   {
-    id: "bemaraha-plateau-relief-v2",
+    id: "bemaraha-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Circuit Tsingy May",
+                  "text": "Dieser schroffe Wanderweg schlängelt sich durch einen dramatischen Wald aus rasiermesserscharfen Kalksteinnadeln und nutzt Hängebrücken über tiefe Spalten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.715754,
+                        -18.757247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Circuit Tsingy May",
+                  "text": "Ez a zord túraútvonal borotvaéles mészkőtűk drámai erdején kanyarog keresztül, ahol függőhidak segítségével kelhetünk át a mély hasadékokon.",
+                  "category": "landmark",
+                  "coords": [
+                        44.715754,
+                        -18.757247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Circuit Tsingy May",
+                  "text": "Acest traseu de drumeție accidentat șerpuiește printr-o pădure dramatică de pinacluri de calcar ascuțite, folosind poduri suspendate peste crevase adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        44.715754,
+                        -18.757247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Circuit Tsingy May",
+                  "text": "This rugged hiking trail winds through a dramatic forest of razor-sharp limestone pinnacles, utilizing suspension bridges over deep crevices.",
+                  "category": "landmark",
+                  "coords": [
+                        44.715754,
+                        -18.757247
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MG-M",
     coords: [44.75, -18.75],
@@ -346,7 +436,196 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     
   },
   {
-    id: "montagne-dambre-relief-v2",
+    id: "montagne-dambre-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lac Mahasarika",
+                  "text": "Ein ruhiger Aussichtspunkt mit Blick auf einen Kratersee, der in den üppigen Regenwäldern der Montagne d'Ambre eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        49.173698,
+                        -12.535738
+                  ]
+            },
+            {
+                  "name": "Cascade Sacrée",
+                  "text": "Ein wunderschöner natürlicher Wasserfall in der Montagne d'Ambre, der für die lokale Bevölkerung von tiefer spiritueller Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.169753,
+                        -12.528459
+                  ]
+            },
+            {
+                  "name": "Cascade Antankarana",
+                  "text": "Ein beeindruckender Waldwasserfall in der grünen Landschaft des Montagne d'Ambre Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        49.172066,
+                        -12.52053
+                  ]
+            },
+            {
+                  "name": "Cascade Antomboka",
+                  "text": "Ein hoch aufragender Wasserfall, der steil in eine tiefe Regenwaldschlucht in der Montagne d'Ambre stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.174962,
+                        -12.499196
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "Ein weitläufiger Kratersee, der als ruhiger Aussichtspunkt inmitten des dichten Blätterdachs des hochgelegenen Nationalparks Montagne d'Ambre dient.",
+                  "category": "natural",
+                  "coords": [
+                        49.159937,
+                        -12.596122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lac Mahasarika",
+                  "text": "Nyugodt kilátópont, ahonnan a Montagne d'Ambre buja esőerdeiben megbúvó krátertóra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        49.173698,
+                        -12.535738
+                  ]
+            },
+            {
+                  "name": "Cascade Sacrée",
+                  "text": "Gyönyörű természetes vízesés a Montagne d'Ambre-ban, amely mély spirituális jelentőséggel bír a helyi lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        49.169753,
+                        -12.528459
+                  ]
+            },
+            {
+                  "name": "Cascade Antankarana",
+                  "text": "Lenyűgöző erdei vízesés, amely a Montagne d'Ambre Nemzeti Park zöldellő tájain található.",
+                  "category": "landmark",
+                  "coords": [
+                        49.172066,
+                        -12.52053
+                  ]
+            },
+            {
+                  "name": "Cascade Antomboka",
+                  "text": "Magasba tornyosuló vízesés, amely meredeken zuhan egy mély esőerdei szakadékba a Montagne d'Ambre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        49.174962,
+                        -12.499196
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "Hatalmas krátertó, amely nyugodt kilátópontként szolgál a Montagne d'Ambre magasan fekvő nemzeti parkjának sűrű lombkoronája közepette.",
+                  "category": "natural",
+                  "coords": [
+                        49.159937,
+                        -12.596122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lac Mahasarika",
+                  "text": "Un punct de belvedere liniștit cu vedere la un lac de crater situat în inima pădurilor tropicale luxuriante din Montagne d'Ambre.",
+                  "category": "natural",
+                  "coords": [
+                        49.173698,
+                        -12.535738
+                  ]
+            },
+            {
+                  "name": "Cascade Sacrée",
+                  "text": "O frumoasă cascadă naturală din Montagne d'Ambre care are o profundă semnificație spirituală pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        49.169753,
+                        -12.528459
+                  ]
+            },
+            {
+                  "name": "Cascade Antankarana",
+                  "text": "O impresionantă atracție sub formă de cascadă forestieră, situată în peisajul plin de verdeață al Parcului Național Montagne d'Ambre.",
+                  "category": "landmark",
+                  "coords": [
+                        49.172066,
+                        -12.52053
+                  ]
+            },
+            {
+                  "name": "Cascade Antomboka",
+                  "text": "O cascadă impunătoare care cade abrupt într-o râpă adâncă de pădure tropicală din Montagne d'Ambre.",
+                  "category": "landmark",
+                  "coords": [
+                        49.174962,
+                        -12.499196
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "Un lac de crater întins, care servește drept punct de belvedere liniștit în mijlocul coronamentului dens al parcului național de la altitudine Montagne d'Ambre.",
+                  "category": "natural",
+                  "coords": [
+                        49.159937,
+                        -12.596122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lac Mahasarika",
+                  "text": "A tranquil viewpoint looking out over a crater lake nested within the lush rainforests of Montagne d'Ambre.",
+                  "category": "natural",
+                  "coords": [
+                        49.173698,
+                        -12.535738
+                  ]
+            },
+            {
+                  "name": "Cascade Sacrée",
+                  "text": "A beautiful natural waterfall attraction in Montagne d'Ambre that holds deep spiritual significance for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        49.169753,
+                        -12.528459
+                  ]
+            },
+            {
+                  "name": "Cascade Antankarana",
+                  "text": "An impressive forest waterfall attraction situated within the verdant landscape of the Montagne d'Ambre National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        49.172066,
+                        -12.52053
+                  ]
+            },
+            {
+                  "name": "Cascade Antomboka",
+                  "text": "A towering waterfall attraction dropping steeply into a deep rainforest ravine within Montagne d'Ambre.",
+                  "category": "landmark",
+                  "coords": [
+                        49.174962,
+                        -12.499196
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "An expansive crater lake acting as a serene viewpoint amid the dense canopy of Montagne d'Ambre's elevated national park.",
+                  "category": "natural",
+                  "coords": [
+                        49.159937,
+                        -12.596122
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MG-D",
     coords: [49.1667, -12.5167],
@@ -462,7 +741,52 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     
   },
   {
-    id: "marojejy-massif-relief-v2",
+    id: "marojejy-massif-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marojejy",
+                  "text": "Ein schroffes Bergmassiv und Nationalpark in Madagaskar, bekannt für seine außergewöhnliche Artenvielfalt und die steilen, bewaldeten Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        49.732411,
+                        -14.449174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marojejy",
+                  "text": "Egy zord hegyvidéki masszívum és nemzeti park Madagaszkáron, amely kivételes biológiai sokféleségéről és meredek, erdős lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        49.732411,
+                        -14.449174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marojejy",
+                  "text": "Un masiv muntos accidentat și parc național din Madagascar, cunoscut pentru biodiversitatea sa excepțională și pentru pantele sale abrupte și împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        49.732411,
+                        -14.449174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marojejy",
+                  "text": "A rugged mountainous massif and national park in Madagascar known for its exceptional biodiversity and steep, forested slopes.",
+                  "category": "natural",
+                  "coords": [
+                        49.732411,
+                        -14.449174
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MG-S",
     coords: [49.75, -14.4333],
@@ -578,7 +902,232 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     
   },
   {
-    id: "ankarana-karst-relief-v2",
+    id: "ankarana-karst-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsingy",
+                  "text": "Dieser Aussichtspunkt in Ankarana blickt auf die Tsingy, eine dramatische Landschaft aus messerscharfen Kalksteinnadeln, die durch Erosion geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        49.116555,
+                        -12.955732
+                  ]
+            },
+            {
+                  "name": "Ankarana l Reserve",
+                  "text": "Das Ankarana-Reservat schützt ein dichtes Waldgebiet, das von spektakulären Karstkalksteinformationen und tiefen Höhlensystemen durchzogen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.138478,
+                        -12.968048
+                  ]
+            },
+            {
+                  "name": "Tsingy Rary",
+                  "text": "Der Aussichtspunkt Tsingy Rary bietet ein weitläufiges Panorama auf tiefe Schluchten, die sich durch die grauen Kalksteinnadelformationen schneiden.",
+                  "category": "natural",
+                  "coords": [
+                        49.12123,
+                        -12.942464
+                  ]
+            },
+            {
+                  "name": "Lac Vert",
+                  "text": "Tief im Karstrelief von Ankarana gelegen, überblickt der Aussichtspunkt Lac Vert einen auffällig smaragdgrünen Kratersee, der von dichter Vegetation umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        49.087164,
+                        -12.922805
+                  ]
+            },
+            {
+                  "name": "Ruins from ancient WWF-building",
+                  "text": "Vor der Kulisse der Kalksteinlandschaft von Ankarana markieren diese verfallenen Ruinen die Überreste eines ehemaligen Außenpostens des World Wildlife Fund.",
+                  "category": "historical",
+                  "coords": [
+                        49.129861,
+                        -12.956253
+                  ]
+            },
+            {
+                  "name": "Nationalpark Ankarana",
+                  "text": "Das Sonderreservat Ankarana ist ein Naturschutzgebiet, das für seine dichten Lemurenpopulationen und die weitreichenden, nadelartigen Kalksteinkarstformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        49.143932,
+                        -12.907758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsingy",
+                  "text": "Ez az ankaranai kilátó a Tsingyre, az ősi erózió által formált, borotvaéles mészkőcsúcsokból álló drámai tájra néz.",
+                  "category": "natural",
+                  "coords": [
+                        49.116555,
+                        -12.955732
+                  ]
+            },
+            {
+                  "name": "Ankarana l Reserve",
+                  "text": "Az Ankarana Rezervátum sűrű erdőhálózatot véd, amelyet látványos karszt mészkőalakzatok és mély barlangrendszerek tarkítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        49.138478,
+                        -12.968048
+                  ]
+            },
+            {
+                  "name": "Tsingy Rary",
+                  "text": "A Tsingy Rary kilátópontról kiterjedt panoráma nyílik a szürke mészkőtű-alakzatokat átszelő mély kanyonokra.",
+                  "category": "natural",
+                  "coords": [
+                        49.12123,
+                        -12.942464
+                  ]
+            },
+            {
+                  "name": "Lac Vert",
+                  "text": "Az Ankarana karsztdomborművének mélyén fekvő Lac Vert kilátópont egy sűrű növényzettel körülvett, lenyűgöző smaragdzöld krátertóra néz.",
+                  "category": "natural",
+                  "coords": [
+                        49.087164,
+                        -12.922805
+                  ]
+            },
+            {
+                  "name": "Ruins from ancient WWF-building",
+                  "text": "Az Ankarana mészkőtája előtt álló romok a Természetvédelmi Világalap (WWF) egykori védelmi előörsének maradványait jelzik.",
+                  "category": "historical",
+                  "coords": [
+                        49.129861,
+                        -12.956253
+                  ]
+            },
+            {
+                  "name": "Réserve Spéciale Ankarana",
+                  "text": "Az Ankarana Különleges Rezervátum egy védett természeti terület, amely sűrű makiállományáról és kiterjedt, tűszerű mészkőkarszt képződményeiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        49.143932,
+                        -12.907758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsingy",
+                  "text": "Acest punct de belvedere din Ankarana privește spre Tsingy, un peisaj dramatic de vârfuri de calcar ascuțite, formate prin eroziune.",
+                  "category": "natural",
+                  "coords": [
+                        49.116555,
+                        -12.955732
+                  ]
+            },
+            {
+                  "name": "Ankarana l Reserve",
+                  "text": "Rezervația Ankarana protejează o rețea de păduri dese intercalate cu formațiuni spectaculoase de calcar carstic și sisteme de peșteri adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        49.138478,
+                        -12.968048
+                  ]
+            },
+            {
+                  "name": "Tsingy Rary",
+                  "text": "Punctul de belvedere Tsingy Rary prezintă o panoramă vastă a canioanelor adânci care străbat formațiunile de ace de calcar cenușiu.",
+                  "category": "natural",
+                  "coords": [
+                        49.12123,
+                        -12.942464
+                  ]
+            },
+            {
+                  "name": "Lac Vert",
+                  "text": "Aflat adânc în relieful carstic din Ankarana, punctul de belvedere Lac Vert privește spre un lac de crater de un verde-smarald uimitor, înconjurat de vegetație deasă.",
+                  "category": "natural",
+                  "coords": [
+                        49.087164,
+                        -12.922805
+                  ]
+            },
+            {
+                  "name": "Ruins from ancient WWF-building",
+                  "text": "Pe fundalul peisajului de calcar din Ankarana, aceste ruine dărăpănate marchează rămășițele unui fost avanpost de conservare al World Wildlife Fund.",
+                  "category": "historical",
+                  "coords": [
+                        49.129861,
+                        -12.956253
+                  ]
+            },
+            {
+                  "name": "Réserve Spéciale Ankarana",
+                  "text": "Rezervația Specială Ankarana este o arie naturală protejată, renumită pentru populațiile sale dense de lemuri și formațiunile carstice de calcar sub formă de ace.",
+                  "category": "natural",
+                  "coords": [
+                        49.143932,
+                        -12.907758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsingy",
+                  "text": "This viewpoint in Ankarana overlooks the Tsingy, a dramatic landscape of razor-sharp limestone pinnacles formed by ancient erosion.",
+                  "category": "natural",
+                  "coords": [
+                        49.116555,
+                        -12.955732
+                  ]
+            },
+            {
+                  "name": "Ankarana l Reserve",
+                  "text": "The Ankarana Reserve protects a dense forest network interspersed with spectacular karst limestone formations and deep cave systems.",
+                  "category": "landmark",
+                  "coords": [
+                        49.138478,
+                        -12.968048
+                  ]
+            },
+            {
+                  "name": "Tsingy Rary",
+                  "text": "The Tsingy Rary viewpoint features an expansive panorama of deep canyons cutting through the gray limestone needle formations.",
+                  "category": "natural",
+                  "coords": [
+                        49.12123,
+                        -12.942464
+                  ]
+            },
+            {
+                  "name": "Lac Vert",
+                  "text": "Set deep within the Ankarana karst relief, the Lac Vert viewpoint overlooks a striking emerald-green crater lake surrounded by dense vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        49.087164,
+                        -12.922805
+                  ]
+            },
+            {
+                  "name": "Ruins from ancient WWF-building",
+                  "text": "Set against the Ankarana limestone landscape, these dilapidated ruins mark the remains of a former World Wildlife Fund conservation outpost.",
+                  "category": "historical",
+                  "coords": [
+                        49.129861,
+                        -12.956253
+                  ]
+            },
+            {
+                  "name": "Ankarana Special Reserve",
+                  "text": "The Ankarana Special Reserve is a protected natural area renowned for its dense lemur populations and expansive, needle-like limestone karst formations.",
+                  "category": "natural",
+                  "coords": [
+                        49.143932,
+                        -12.907758
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MG-D",
     coords: [49.1, -12.9],
@@ -607,7 +1156,52 @@ export const poiExtraMadagascarReliefV2: POI[] = [
     
   },
   {
-    id: "vohimana-relief-v2",
+    id: "vohimana-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont de Vohimana",
+                  "text": "Von dieser Hängebrücke aus haben Wanderer einen hervorragenden Aussichtspunkt über das üppige, nebelverhangene Dach des Regenwaldreservats.",
+                  "category": "natural",
+                  "coords": [
+                        48.515405,
+                        -18.923721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont de Vohimana",
+                  "text": "Ezen a függőhídon állva a túrázók kiváló kilátópontból csodálhatják meg az esőerdő-rezervátum buja, ködbe burkolózó lombkoronáját.",
+                  "category": "natural",
+                  "coords": [
+                        48.515405,
+                        -18.923721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont de Vohimana",
+                  "text": "Stând deasupra acestui pod suspendat, drumeții au un punct de observație dominant asupra coronamentului de pădure tropicală luxuriantă și acoperită de ceață a rezervației.",
+                  "category": "natural",
+                  "coords": [
+                        48.515405,
+                        -18.923721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont de Vohimana",
+                  "text": "Standing atop this suspension bridge gives hikers a commanding vantage point over the lush, mist-covered canopy of the rainforest reserve.",
+                  "category": "natural",
+                  "coords": [
+                        48.515405,
+                        -18.923721
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MG-A",
     coords: [48.5, -19.0],

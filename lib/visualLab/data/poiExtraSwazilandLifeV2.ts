@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSwazilandLifeV2: POI[] = [
   {
-    id: "hlane-national-park-life-v2",
+    id: "hlane-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hlane Royal National Park",
+                  "text": "Der Hlane Royal National Park ist das größte Naturschutzgebiet in Eswatini.",
+                  "category": "natural",
+                  "coords": [
+                        31.865191,
+                        -26.263975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hlane Royal National Park",
+                  "text": "A Hlane Királyi Nemzeti Park Szváziföld legnagyobb védett természetvédelmi területe.",
+                  "category": "natural",
+                  "coords": [
+                        31.865191,
+                        -26.263975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hlane Royal National Park",
+                  "text": "Parcul Național Regal Hlane este cea mai mare rezervație naturală protejată din Swaziland.",
+                  "category": "natural",
+                  "coords": [
+                        31.865191,
+                        -26.263975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hlane Royal National Park",
+                  "text": "Hlane Royal National Park is Swaziland's largest protected nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        31.865191,
+                        -26.263975
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SZ-LU",
     coords: [31.88, -26.25],
@@ -99,7 +144,88 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "mlilwane-sanctuary-life-v2",
+    id: "mlilwane-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mlilwane Wildlife Sanctuary Entrance",
+                  "text": "Der Eingang zum Mlilwane Wildlife Sanctuary heißt Besucher in einem renaturierten Naturschutzgebiet willkommen, das durch seine Grasebenen besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        31.196182,
+                        -26.479883
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife sanctuary",
+                  "text": "Dieser Teil des Schutzgebietes fungiert als geschütztes Gehege, in dem Besucher die vielfältige afrikanische Tierwelt aus nächster Nähe sicher beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        31.184586,
+                        -26.491076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mlilwane Wildlife Sanctuary Entrance",
+                  "text": "A Mlilwane Vadvédelmi Terület bejárata egy füves síkságokkal jellemezhető, úttörő jellegű, helyreállított természetvédelmi övezetbe invitálja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.196182,
+                        -26.479883
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife sanctuary",
+                  "text": "A menedékhely ezen része védett elkerített területként működik, ahol a látogatók biztonságban, közvetlen közelről figyelhetik meg a változatos afrikai vadvilágot.",
+                  "category": "recreational",
+                  "coords": [
+                        31.184586,
+                        -26.491076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mlilwane Wildlife Sanctuary Entrance",
+                  "text": "Intrarea în Sanctuarul faunei sălbatice Mlilwane primește vizitatorii într-o zonă de conservare pionier restaurată, caracterizată prin câmpiile sale ierboase.",
+                  "category": "landmark",
+                  "coords": [
+                        31.196182,
+                        -26.479883
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife sanctuary",
+                  "text": "Această secțiune a sanctuarului funcționează ca un țarc de protecție unde vizitatorii pot observa în siguranță și de aproape diversitatea faunei africane.",
+                  "category": "recreational",
+                  "coords": [
+                        31.184586,
+                        -26.491076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mlilwane Wildlife Sanctuary Entrance",
+                  "text": "The entrance to the Mlilwane Wildlife Sanctuary welcomes visitors into a restored pioneer conservation area characterized by its grassy plains.",
+                  "category": "landmark",
+                  "coords": [
+                        31.196182,
+                        -26.479883
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife sanctuary",
+                  "text": "This section of the sanctuary functions as a protective enclosure where visitors can safely observe diverse African wildlife at close range.",
+                  "category": "recreational",
+                  "coords": [
+                        31.184586,
+                        -26.491076
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SZ-MA",
     coords: [31.18, -26.48],
@@ -147,7 +273,52 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "mbuluzi-game-reserve-life-v2",
+    id: "mbuluzi-game-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mbuluzi",
+                  "text": "Dieses unberührte Wildschutzgebiet grenzt an den Fluss Mbuluzi und bietet Wege durch dichtes Buschland und Galeriewälder, in denen es von Giraffen und Antilopen wimmelt.",
+                  "category": "natural",
+                  "coords": [
+                        31.999424,
+                        -26.154659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mbuluzi",
+                  "text": "A Mbuluzi-folyó mentén elterülő érintetlen vadaspark ösvényei zsiráfokban és antilopokban bővelkedő, sűrű bozótosokon és ártéri erdőkön vezetnek keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        31.999424,
+                        -26.154659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mbuluzi",
+                  "text": "Mărginit de râul Mbuluzi, această rezervație imaculată oferă trasee prin tufișuri dense și păduri riverane pline de girafe și antilope.",
+                  "category": "natural",
+                  "coords": [
+                        31.999424,
+                        -26.154659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mbuluzi",
+                  "text": "Bordering the Mbuluzi River, this pristine game reserve offers trails through dense bushveld and riverine forests teeming with giraffes and antelope.",
+                  "category": "natural",
+                  "coords": [
+                        31.999424,
+                        -26.154659
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SZ-LU",
     coords: [31.97, -26.15],
@@ -291,7 +462,52 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "royal-jozini-reserve-life-v2",
+    id: "royal-jozini-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "Das Royal Jozini Big 6 Private Estate ist ein exklusives Wildschutzgebiet, das spektakuläre Tierbeobachtungen in einer unberührten Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.93824,
+                        -27.240246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "A Royal Jozini Big 6 Private Estate egy exkluzív vadvédelmi terület, amely látványos vadmegfigyelést kínál érintetlen természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        31.93824,
+                        -27.240246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "Domeniul Privat Royal Jozini Big 6 este un sanctuar exclusivist de faună sălbatică, care oferă vizionări spectaculoase de animale într-un cadru natural imaculat.",
+                  "category": "natural",
+                  "coords": [
+                        31.93824,
+                        -27.240246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "Royal Jozini Big 6 Private Estate is an exclusive wildlife sanctuary offering spectacular game viewing in a pristine natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        31.93824,
+                        -27.240246
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SZ-SH",
     coords: [31.95, -27.2],
@@ -339,7 +555,124 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "malolotja-birds-life-v2",
+    id: "malolotja-birds-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Logwaja Viewpoint",
+                  "text": "Der Aussichtspunkt Logwaja bietet ein weites Panorama auf die sanften Hügellandschaften des Malolotja-Naturreservats.",
+                  "category": "natural",
+                  "coords": [
+                        31.107628,
+                        -26.128672
+                  ]
+            },
+            {
+                  "name": "Malolotja Falls View",
+                  "text": "Das Malolotja Falls View ist eine Aussichtsplattform, die auf das spektakulär herabstürzende Wasser des Flusses Malolotja blickt.",
+                  "category": "natural",
+                  "coords": [
+                        31.103929,
+                        -26.116369
+                  ]
+            },
+            {
+                  "name": "Malolotja Canopy Tour",
+                  "text": "Die Malolotja Canopy Tour ist ein aufregendes Zipline-Abenteuer hoch über der unberührten Bergschlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        31.110937,
+                        -26.11319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Logwaja Viewpoint",
+                  "text": "A Logwaja kilátó panorámás kilátást nyújt a Malolotja dimbes-dombos hegyi tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        31.107628,
+                        -26.128672
+                  ]
+            },
+            {
+                  "name": "Malolotja Falls View",
+                  "text": "A Malolotja Falls View egy kilátó, amely a Malolotja-folyó látványos, vízesésként lezúduló vizére néz.",
+                  "category": "natural",
+                  "coords": [
+                        31.103929,
+                        -26.116369
+                  ]
+            },
+            {
+                  "name": "Malolotja Canopy Tour",
+                  "text": "A Malolotja Canopy Tour egy izgalmas drótkötélpályás kaland az érintetlen hegyi szurdok felett.",
+                  "category": "landmark",
+                  "coords": [
+                        31.110937,
+                        -26.11319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Logwaja Viewpoint",
+                  "text": "Punctul de belvedere Logwaja oferă o perspectivă panoramică asupra peisajelor montane ondulate din Malolotja.",
+                  "category": "natural",
+                  "coords": [
+                        31.107628,
+                        -26.128672
+                  ]
+            },
+            {
+                  "name": "Malolotja Falls View",
+                  "text": "Malolotja Falls View este o platformă de observație orientată spre cascadele spectaculoase ale râului Malolotja.",
+                  "category": "natural",
+                  "coords": [
+                        31.103929,
+                        -26.116369
+                  ]
+            },
+            {
+                  "name": "Malolotja Canopy Tour",
+                  "text": "Malolotja Canopy Tour este o aventură palpitantă cu tiroliana, suspendată la înălțime deasupra unui defileu montan virgin.",
+                  "category": "landmark",
+                  "coords": [
+                        31.110937,
+                        -26.11319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Logwaja Viewpoint",
+                  "text": "The Logwaja Viewpoint offers visitors sweeping, elevated panoramas of the rolling hills and diverse bird habitats of Malolotja.",
+                  "category": "natural",
+                  "coords": [
+                        31.107628,
+                        -26.128672
+                  ]
+            },
+            {
+                  "name": "Malolotja Falls View",
+                  "text": "The Malolotja Falls View serves as an elevated vantage point to watch the stunning, plunging cascades of the Malolotja River.",
+                  "category": "natural",
+                  "coords": [
+                        31.103929,
+                        -26.116369
+                  ]
+            },
+            {
+                  "name": "Malolotja Canopy Tour",
+                  "text": "The Malolotja Canopy Tour is an exhilarating zipline experience that glides directly over a deep, forested mountain gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        31.110937,
+                        -26.11319
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SZ-HH",
     coords: [31.12, -26.12],
@@ -483,7 +816,52 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "ngwenya-glass-life-v2",
+    id: "ngwenya-glass-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "Ngwenya Glass ist eine berühmte Werkstatt, in der Handwerker wunderschöne Glaskunstwerke aus recyceltem Glas herstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "A Ngwenya Glass egy híres látványosság, ahol a kézművesek gyönyörű üvegfúvó alkotásokat készítenek újrahasznosított üvegből.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "Ngwenya Glass este un atelier renumit unde artizanii creează piese superbe de sticlărie din sticlă reciclată.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "Ngwenya Glass is an interactive factory attraction where skilled artisans blow hot recycled glass into intricate African animal figurines.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SZ-HH",
     coords: [31.02, -26.21],
@@ -531,7 +909,160 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "mantenga-village-life-v2",
+    id: "mantenga-village-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bird's Eye",
+                  "text": "Der Aussichtspunkt Bird's Eye bietet einen weiten Panoramablick über die traditionellen Swasi-Gehöfte und die umliegenden bewaldeten Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        31.162141,
+                        -26.458595
+                  ]
+            },
+            {
+                  "name": "Nyagato",
+                  "text": "Der Aussichtspunkt Nyagato bietet einen erhöhten Aussichtspunkt, um die schroffe Topographie des Ezulwini-Tals zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        31.161261,
+                        -26.4568
+                  ]
+            },
+            {
+                  "name": "Execution Hill",
+                  "text": "Der Execution Hill, auch als Nyonyane Peak bekannt, ist eine dramatische, freiliegende Granitkuppe mit einer dunklen Geschichte in der lokalen Überlieferung.",
+                  "category": "natural",
+                  "coords": [
+                        31.170016,
+                        -26.455878
+                  ]
+            },
+            {
+                  "name": "Swazi Cultural Village",
+                  "text": "Das Swazi Cultural Village ist ein lebendiges Museum, in dem Besucher traditionelle Bienenkorbhütten und authentische Sibhaca-Tänze erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        31.163038,
+                        -26.446665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bird's Eye",
+                  "text": "A Bird's Eye kilátópontról elsöprő panoráma nyílik a hagyományos szvázi tanyákra és a környező erdős dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        31.162141,
+                        -26.458595
+                  ]
+            },
+            {
+                  "name": "Nyagato",
+                  "text": "A Nyagato kilátó magaslati pontról enged bepillantást az Ezulwini-völgy zord domborzatába.",
+                  "category": "natural",
+                  "coords": [
+                        31.161261,
+                        -26.4568
+                  ]
+            },
+            {
+                  "name": "Execution Hill",
+                  "text": "Az Execution Hill, más néven Nyonyane Peak, egy drámai megjelenésű, csupasz gránitkúp, melyhez sötét helyi legendák fűződnek.",
+                  "category": "natural",
+                  "coords": [
+                        31.170016,
+                        -26.455878
+                  ]
+            },
+            {
+                  "name": "Swazi Cultural Village",
+                  "text": "A Szvázi Kulturális Falu egy élő múzeum, ahol a látogatók megismerhetik a hagyományos méhkaptár alakú kunyhókat és az autentikus sibhaca táncokat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.163038,
+                        -26.446665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bird's Eye",
+                  "text": "Punctul de belvedere Bird's Eye oferă o vedere panoramică vastă asupra gospodăriilor tradiționale swazi și a dealurilor împădurite din jur.",
+                  "category": "natural",
+                  "coords": [
+                        31.162141,
+                        -26.458595
+                  ]
+            },
+            {
+                  "name": "Nyagato",
+                  "text": "Punctul de observație Nyagato oferă un loc de belvedere la înălțime pentru a admira topografia accidentată a Văii Ezulwini.",
+                  "category": "natural",
+                  "coords": [
+                        31.161261,
+                        -26.4568
+                  ]
+            },
+            {
+                  "name": "Execution Hill",
+                  "text": "Execution Hill, cunoscut și sub numele de Vârful Nyonyane, este un dom de granit expus, spectaculos, cu o istorie întunecată în folclorul local.",
+                  "category": "natural",
+                  "coords": [
+                        31.170016,
+                        -26.455878
+                  ]
+            },
+            {
+                  "name": "Swazi Cultural Village",
+                  "text": "Satul Cultural Swazi este un muzeu viu unde vizitatorii pot experimenta colibele tradiționale în formă de stup și dansurile autentice Sibhaca.",
+                  "category": "landmark",
+                  "coords": [
+                        31.163038,
+                        -26.446665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bird's Eye",
+                  "text": "Bird's Eye viewpoint offers sweeping panoramic vistas over the traditional Swazi homesteads and the surrounding forested hills.",
+                  "category": "natural",
+                  "coords": [
+                        31.162141,
+                        -26.458595
+                  ]
+            },
+            {
+                  "name": "Nyagato",
+                  "text": "The Nyagato viewpoint provides an elevated vantage point to admire the rugged topography of the Ezulwini Valley.",
+                  "category": "natural",
+                  "coords": [
+                        31.161261,
+                        -26.4568
+                  ]
+            },
+            {
+                  "name": "Execution Hill",
+                  "text": "Execution Hill, also known as Nyonyane Peak, is a dramatic exposed granite dome with a dark history in local lore.",
+                  "category": "natural",
+                  "coords": [
+                        31.170016,
+                        -26.455878
+                  ]
+            },
+            {
+                  "name": "Swazi Cultural Village",
+                  "text": "The Swazi Cultural Village is a living museum where visitors can experience traditional beehive huts and authentic Sibhaca dances.",
+                  "category": "landmark",
+                  "coords": [
+                        31.163038,
+                        -26.446665
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SZ-MA",
     coords: [31.18, -26.45],
@@ -723,7 +1254,52 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "mhlume-agriculture-life-v2",
+    id: "mhlume-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shoka",
+                  "text": "Der Shoka-Gipfel hebt sich von den Agrarlandschaften um Mhlume ab und bietet einen weiten Blick auf die umliegenden Zuckerrohrfelder.",
+                  "category": "natural",
+                  "coords": [
+                        31.9142,
+                        -25.955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shoka",
+                  "text": "A Shoka-csúcs élesen elüt Mhlume mezőgazdasági tájaitól, és széles panorámát nyújt a környező cukornádültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        31.9142,
+                        -25.955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shoka",
+                  "text": "Vârful Shoka iese în evidență față de peisajele agricole din Mhlume, oferind vederi panoramice ale câmpurilor de trestie de zahăr din jur.",
+                  "category": "natural",
+                  "coords": [
+                        31.9142,
+                        -25.955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shoka",
+                  "text": "The Shoka peak stands out against the agricultural landscapes of Mhlume, offering sweeping views of the surrounding sugar cane fields.",
+                  "category": "natural",
+                  "coords": [
+                        31.9142,
+                        -25.955
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SZ-LU",
     coords: [31.85, -25.98],
@@ -867,7 +1443,52 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     },
   },
   {
-    id: "ubombo-sugar-life-v2",
+    id: "ubombo-sugar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mhlosinga Nature Reserve",
+                  "text": "Dieses Naturreservat in der landwirtschaftlichen Landschaft schützt die heimische Vegetation im Zuckeranbaugebiet Ubombo.",
+                  "category": "natural",
+                  "coords": [
+                        31.910865,
+                        -26.799867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mhlosinga Nature Reserve",
+                  "text": "A mezőgazdasági tájban fekvő természetvédelmi terület a hazai növényzetet óvja az ubombói cukortermelő régióban.",
+                  "category": "natural",
+                  "coords": [
+                        31.910865,
+                        -26.799867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mhlosinga Nature Reserve",
+                  "text": "Situată în peisajul agricol, această rezervație naturală protejează vegetația nativă din regiunea cultivatoare de zahăr Ubombo.",
+                  "category": "natural",
+                  "coords": [
+                        31.910865,
+                        -26.799867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mhlosinga Nature Reserve",
+                  "text": "Set in the agricultural landscape, this nature reserve protects native vegetation within the Ubombo sugar-growing region.",
+                  "category": "natural",
+                  "coords": [
+                        31.910865,
+                        -26.799867
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SZ-LU",
     coords: [31.92, -26.8],

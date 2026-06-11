@@ -51,7 +51,88 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
     }
   },
   {
-    id: "pico-do-fogo-relief-v2",
+    id: "pico-do-fogo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lapá Faanguyí",
+                  "text": "Ein steiler vulkanischer Berggipfel, der das dramatische Relief des Pico do Fogo formt.",
+                  "category": "natural",
+                  "coords": [
+                        5.626279,
+                        -1.454249
+                  ]
+            },
+            {
+                  "name": "Macizo Santa Mina",
+                  "text": "Ein zerklüftetes Bergmassiv, das Teil des vulkanischen Hochlandes der Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.639705,
+                        -1.454442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lapá Faanguyí",
+                  "text": "Meredek vulkáni hegycsúcs, amely a Pico do Fogo drámai domborzatát formálja.",
+                  "category": "natural",
+                  "coords": [
+                        5.626279,
+                        -1.454249
+                  ]
+            },
+            {
+                  "name": "Macizo Santa Mina",
+                  "text": "Sziklás hegytömb, amely a régió vulkanikus felvidékének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        5.639705,
+                        -1.454442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lapá Faanguyí",
+                  "text": "Un vârf de munte vulcanic abrupt care modelează relieful dramatic al Pico do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        5.626279,
+                        -1.454249
+                  ]
+            },
+            {
+                  "name": "Macizo Santa Mina",
+                  "text": "Un masiv montan accidentat care face parte din zonele muntoase vulcanice din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        5.639705,
+                        -1.454442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lapá Faanguyí",
+                  "text": "A steep volcanic mountain peak shaping the dramatic relief of Pico do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        5.626279,
+                        -1.454249
+                  ]
+            },
+            {
+                  "name": "Macizo Santa Mina",
+                  "text": "A rugged mountain massif forming part of the volcanic highlands in the region.",
+                  "category": "natural",
+                  "coords": [
+                        5.639705,
+                        -1.454442
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GQ-AN",
     coords: [5.625, -1.445],
@@ -99,7 +180,52 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
     },
   },
   {
-    id: "pico-malabo-relief-v2",
+    id: "pico-malabo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Josemartin vivienda",
+                  "text": "Dieses Wohngebäude in der Reliefzone ist ein herausragendes Beispiel für den lokalen burgartigen Architekturstil.",
+                  "category": "castle",
+                  "coords": [
+                        8.753344,
+                        3.747705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Josemartin vivienda",
+                  "text": "Ez a domborzati övezetben található lakóépület a helyi kastényszerű építészeti stílusok kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        8.753344,
+                        3.747705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Josemartin vivienda",
+                  "text": "Această clădire rezidențială din zona de relief servește ca un exemplu remarcabil al stilului arhitectural local asemănător unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        8.753344,
+                        3.747705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Josemartin vivienda",
+                  "text": "This residential structure in the relief zone serves as a prominent example of local castle-like architectural styles.",
+                  "category": "castle",
+                  "coords": [
+                        8.753344,
+                        3.747705
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GQ-BN",
     coords: [8.755, 3.748],
@@ -387,7 +513,52 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
     }
   },
   {
-    id: "rio-muni-becken-relief-v2",
+    id: "rio-muni-becken-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Monte Alén",
+                  "text": "Der Monte Alén National Park ist ein bewaldetes Naturschutzgebiet, das den tropischen Regenwald von Äquatorialguinea schützt.",
+                  "category": "natural",
+                  "coords": [
+                        10.091851,
+                        1.487183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional de Monte Alén",
+                  "text": "A Monte Alén National Park egy erdős természetvédelmi terület, amely Egyenlítői-Guinea trópusi esőerdejét védi.",
+                  "category": "natural",
+                  "coords": [
+                        10.091851,
+                        1.487183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional de Monte Alén",
+                  "text": "Monte Alén National Park este o rezervație naturală împădurită care protejează pădurea tropicală a Guineei Ecuatoriale.",
+                  "category": "natural",
+                  "coords": [
+                        10.091851,
+                        1.487183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Alén National Park",
+                  "text": "Monte Alén National Park is a forested nature reserve that protects the tropical rainforest of Equatorial Guinea.",
+                  "category": "natural",
+                  "coords": [
+                        10.091851,
+                        1.487183
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GQ-LT",
     coords: [10.125, 1.455],

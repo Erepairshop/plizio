@@ -48,7 +48,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-menkhoaneng-history-v2.webp",
   },
   {
-    id: "lesotho-cana-mission-history-v2",
+    id: "lesotho-cana-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malimong Cave",
+                  "text": "Eine historische Höhlenstätte in Lesotho, die für ihre Verbindung zur Frühgeschichte des Landes und als ehemaliger Zufluchtsort für Kannibalen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malimong Cave",
+                  "text": "Történelmi barlang Lesothóban, amely az ország korai történelmével való kapcsolatáról és mint egykori kannibál menedékhely ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malimong Cave",
+                  "text": "O peșteră istorică din Lesotho, cunoscută pentru asocierea sa cu istoria timpurie a țării și ca fost refugiu pentru canibali.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malimong Cave",
+                  "text": "A historic cave site in Lesotho, known for its association with the country's early history and as a former refuge for cannibals.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "Cana Mission", hu: "Cana misszió", ro: "Misiunea Cana", en: "Cana Mission" },
@@ -93,7 +138,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-cana-mission-history-v2.webp",
   },
   {
-    id: "lesotho-masitise-cave-history-v2",
+    id: "lesotho-masitise-cave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masitise Cave House",
+                  "text": "Dieses faszinierende Höhlenhaus wurde 1862 von dem Schweizer Missionar David-Frédéric Ellenberger in einen überhängenden Sandsteinfelsen gebaut.",
+                  "category": "landmark",
+                  "coords": [
+                        27.642241,
+                        -30.40549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masitise Cave House",
+                  "text": "Ezt a lenyűgöző barlangházat 1862-ben építette David-Frédéric Ellenberger svájci misszionárius egy kiugró homokkőszikla alá.",
+                  "category": "landmark",
+                  "coords": [
+                        27.642241,
+                        -30.40549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masitise Cave House",
+                  "text": "Această casă fascinantă în peșteră a fost construită în 1862 de misionarul elvețian David-Frédéric Ellenberger sub o stâncă de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        27.642241,
+                        -30.40549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masitise Cave House",
+                  "text": "This fascinating cave house was built in 1862 by Swiss missionary David-Frédéric Ellenberger beneath an overhanging sandstone rock.",
+                  "category": "landmark",
+                  "coords": [
+                        27.642241,
+                        -30.40549
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "museum",
     name: { de: "Masitise Cave", hu: "Masitise-barlang", ro: "Peștera Masitise", en: "Masitise Cave" },
@@ -453,7 +543,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-bethesda-church-history-v2.webp",
   },
   {
-    id: "lesotho-tebellong-station-history-v2",
+    id: "lesotho-tebellong-station-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "THE TWINS",
+                  "text": "Dieser markante Doppelgipfel bietet weite Ausblicke über das zerklüftete Gelände in der Nähe von Tebellong in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.472752,
+                        -30.155947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "THE TWINS",
+                  "text": "Ez a kiemelkedő ikercsúcsú hegy széles kilátást nyújt a lesothói Tebellong környéki zord terepre.",
+                  "category": "natural",
+                  "coords": [
+                        28.472752,
+                        -30.155947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "THE TWINS",
+                  "text": "Acest munte proeminent cu două vârfuri oferă vederi extinse asupra terenului accidentat din apropiere de Tebellong, Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.472752,
+                        -30.155947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "THE TWINS",
+                  "text": "This prominent twin-peaked mountain offers expansive views across the rugged terrain near Tebellong in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.472752,
+                        -30.155947
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "village",
     name: { de: "Tebellong Station", hu: "Tebellong-állomás", ro: "Stația Tebellong", en: "Tebellong Station" },
@@ -678,7 +813,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-qhomane-hill-history-v2.webp",
   },
   {
-    id: "lesotho-koalabata-ruins-history-v2",
+    id: "lesotho-koalabata-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lancer's Gap",
+                  "text": "Dieser historische Gebirgspass nahe den Koalabata-Ruinen bietet weitreichende Ausblicke über die umliegenden Täler Lesothos.",
+                  "category": "natural",
+                  "coords": [
+                        27.544778,
+                        -29.315214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lancer's Gap",
+                  "text": "Ez a történelmi hágó a Koalabata romok közelében széleskörű kilátást nyújt a környező lesothói völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        27.544778,
+                        -29.315214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lancer's Gap",
+                  "text": "Acest pas montan istoric din apropierea ruinelor Koalabata oferă priveliști ample asupra văilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        27.544778,
+                        -29.315214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lancer's Gap",
+                  "text": "This historically significant mountain pass near the Koalabata ruins provides sweeping views over the surrounding Lesotho valleys.",
+                  "category": "natural",
+                  "coords": [
+                        27.544778,
+                        -29.315214
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "ruins",
     name: { de: "Koalabata Ruins", hu: "Koalabata-romok", ro: "Ruinele Koalabata", en: "Koalabata Ruins" },
@@ -723,7 +903,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-koalabata-ruins-history-v2.webp",
   },
   {
-    id: "lesotho-lancers-gap-history-v2",
+    id: "lesotho-lancers-gap-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mabote LECSA",
+                  "text": "Diese Gemeinde, die der Lesotho Evangelical Church in Southern Africa angehört, dient der Gemeinschaft in der Nähe von Lancers Gap.",
+                  "category": "religious",
+                  "coords": [
+                        27.532666,
+                        -29.294984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mabote LECSA",
+                  "text": "A Dél-afrikai Lesothói Evangélikus Egyházhoz tartozó plébánia a Lancers Gap környéki közösséget szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        27.532666,
+                        -29.294984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mabote LECSA",
+                  "text": "Afiliată Bisericii Evanghelice Lesotho din Africa de Sud, această parohie servește comunitatea din apropiere de Lancers Gap.",
+                  "category": "religious",
+                  "coords": [
+                        27.532666,
+                        -29.294984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mabote LECSA",
+                  "text": "Affiliated with the Lesotho Evangelical Church in Southern Africa, this parish serves the community near Lancers Gap.",
+                  "category": "religious",
+                  "coords": [
+                        27.532666,
+                        -29.294984
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "battlefield",
     name: { de: "Lancers Gap", hu: "Lancers-szoros", ro: "Pasul Lancers", en: "Lancers Gap" },
@@ -813,7 +1038,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-pius-xii-college-history-v2.webp",
   },
   {
-    id: "lesotho-major-bell-tower-history-v2",
+    id: "lesotho-major-bell-tower-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Subeng Dinosaur Footprints",
+                  "text": "Diese archäologische Stätte, die in einem Sandsteinflussbett erhalten ist, weist versteinerte Spuren antiker Dinosaurier auf.",
+                  "category": "historical",
+                  "coords": [
+                        28.074928,
+                        -28.823065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Subeng Dinosaur Footprints",
+                  "text": "A homokkő folyómederben fennmaradt régészeti lelőhely ősi dinoszauruszok megkövesedett lábnyomait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        28.074928,
+                        -28.823065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Subeng Dinosaur Footprints",
+                  "text": "Păstrat într-o albie de gresie, acest sit arheologic prezintă urme fosilizate ale dinozaurilor antici.",
+                  "category": "historical",
+                  "coords": [
+                        28.074928,
+                        -28.823065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subeng Dinosaur Footprints",
+                  "text": "Preserved in a sandstone riverbed, this archaeological site features fossilized tracks of ancient dinosaurs.",
+                  "category": "historical",
+                  "coords": [
+                        28.074928,
+                        -28.823065
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "tower",
     name: { de: "Major Bell Tower", hu: "Bell őrnagy tornya", ro: "Turnul Maiorului Bell", en: "Major Bell Tower" },
@@ -948,7 +1218,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-our-lady-victories-history-v2.webp",
   },
   {
-    id: "lesotho-christ-the-king-history-v2",
+    id: "lesotho-christ-the-king-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Papal Monument",
+                  "text": "Das Papstdenkmal ist ein steinernes Bauwerk, das an ein bedeutendes historisches Ereignis erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        27.478764,
+                        -29.336959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Papal Monument",
+                  "text": "A Pápai emlékmű egy kőből épült építmény, amely egy jelentős történelmi eseménynek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.478764,
+                        -29.336959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Papal Monument",
+                  "text": "Monumentul Papal este o structură comemorativă din piatră care marchează un eveniment istoric semnificativ.",
+                  "category": "historical",
+                  "coords": [
+                        27.478764,
+                        -29.336959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Papal Monument",
+                  "text": "The Papal Monument is a commemorative stone structure marking a significant historic event.",
+                  "category": "historical",
+                  "coords": [
+                        27.478764,
+                        -29.336959
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "cathedral",
     name: { de: "Christ the King", hu: "Krisztus Király", ro: "Cristos Rege", en: "Christ the King" },
@@ -993,7 +1308,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-christ-the-king-history-v2.webp",
   },
   {
-    id: "lesotho-paris-evangelical-history-v2",
+    id: "lesotho-paris-evangelical-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "An dieser prähistorischen Stätte in Lesotho sind gut erhaltene Fußabdrücke von Dinosauriern im Fels verewigt.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Ezen a lesothói őskori lelőhelyen jól megőrzött dinoszaurusz-lábnyomok láthatók a sziklába vésődve.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Acest sit arheologic preistoric din Lesotho prezintă urme de dinozauri bine conservate, pietrificate în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "This prehistoric archaeological site in Lesotho features well-preserved dinosaur footprints fossilized directly into the exposed rock.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Paris Evangelical Mission", hu: "Párizsi Evangélikus Misszió", ro: "Misiunea Evanghelică din Paris", en: "Paris Evangelical Mission" },
@@ -1263,7 +1623,88 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-st-gerard-mission-history-v2.webp",
   },
   {
-    id: "lesotho-st-agnes-mission-history-v2",
+    id: "lesotho-st-agnes-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "manga site",
+                  "text": "Ein hoch gelegener Aussichtspunkt im Freien, der einen weiten Blick über das ländliche Hochlandterrain bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            },
+            {
+                  "name": "Kolonyama Corporatives Society",
+                  "text": "Dieses kommunale Kunstzentrum fungiert als kooperativer Knotenpunkt für lokale Kunsthandwerker, um ihre Werke zu schaffen und auszustellen.",
+                  "category": "cultural",
+                  "coords": [
+                        27.74069,
+                        -29.061159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "manga site",
+                  "text": "Egy magasan fekvő szabadtéri kilátópont, amely kiterjedt kilátást nyújt a vidéki felföldi terepre.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            },
+            {
+                  "name": "Kolonyama Corporatives Society",
+                  "text": "Ez a közösségi művészeti központ helyi kézművesek szövetkezeti központjaként működik, ahol alkothatnak és kiállíthatják munkáikat.",
+                  "category": "cultural",
+                  "coords": [
+                        27.74069,
+                        -29.061159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "manga site",
+                  "text": "Un punct de belvedere în aer liber situat la înălțime, care oferă o priveliște vastă asupra terenului rural din zonele înalte.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            },
+            {
+                  "name": "Kolonyama Corporatives Society",
+                  "text": "Acest centru comunitar de artă funcționează ca un hub cooperativ pentru artizanii locali care își creează și își expun lucrările.",
+                  "category": "cultural",
+                  "coords": [
+                        27.74069,
+                        -29.061159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "manga site",
+                  "text": "An elevated outdoor viewpoint providing expansive sights across the rural highland terrain.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            },
+            {
+                  "name": "Kolonyama Corporatives Society",
+                  "text": "This communal arts centre functions as a cooperative hub for local craftspeople to create and display their work.",
+                  "category": "cultural",
+                  "coords": [
+                        27.74069,
+                        -29.061159
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "St Agnes Mission", hu: "Szent Ágnes misszió", ro: "Misiunea Sfânta Agnes", en: "St Agnes Mission" },
@@ -1623,7 +2064,88 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-post-office-museum-history-v2.webp",
   },
   {
-    id: "lesotho-leribe-craft-centre-history-v2",
+    id: "lesotho-leribe-craft-centre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandstone Heritage Trust",
+                  "text": "Dieses weitläufige landwirtschaftliche Anwesen ist berühmt für seine große Sammlung betriebsfähiger Schmalspurbahn-Lokomotiven.",
+                  "category": "landmark",
+                  "coords": [
+                        28.002447,
+                        -28.844933
+                  ]
+            },
+            {
+                  "name": "Major Bell Tour",
+                  "text": "Dieses historische Steindenkmal erinnert an die militärische Vergangenheit der Region aus der Kolonialzeit.",
+                  "category": "historical",
+                  "coords": [
+                        28.04304,
+                        -28.871311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandstone Heritage Trust",
+                  "text": "Ez a kiterjedt mezőgazdasági birtok a működőképes keskeny nyomtávú örökségvédelmi mozdonyok nagy gyűjteményéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        28.002447,
+                        -28.844933
+                  ]
+            },
+            {
+                  "name": "Major Bell Tour",
+                  "text": "Ez a történelmi kőemlékmű a régió gyarmati kori katonai múltjának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        28.04304,
+                        -28.871311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandstone Heritage Trust",
+                  "text": "Această vastă proprietate agricolă este renumită pentru marea sa colecție de locomotive de patrimoniu cu ecartament îngust complet funcționale.",
+                  "category": "landmark",
+                  "coords": [
+                        28.002447,
+                        -28.844933
+                  ]
+            },
+            {
+                  "name": "Major Bell Tour",
+                  "text": "Acest monument istoric din piatră comemorează trecutul militar din epoca colonială al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        28.04304,
+                        -28.871311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandstone Heritage Trust",
+                  "text": "This expansive agricultural estate is renowned for its large collection of operational narrow-gauge heritage railway locomotives.",
+                  "category": "landmark",
+                  "coords": [
+                        28.002447,
+                        -28.844933
+                  ]
+            },
+            {
+                  "name": "Major Bell Tour",
+                  "text": "This historic stone monument commemorates the region's colonial-era military past.",
+                  "category": "historical",
+                  "coords": [
+                        28.04304,
+                        -28.871311
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Leribe Craft Centre", hu: "Leribe Kézműves Központ", ro: "Centrul de Meșteșuguri Leribe", en: "Leribe Craft Centre" },
@@ -1758,7 +2280,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-ellenberger-cave-history-v2.webp",
   },
   {
-    id: "lesotho-moshoeshoe-statue-history-v2",
+    id: "lesotho-moshoeshoe-statue-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument",
+                  "text": "Diese historische Statue in Lesotho erinnert an das bedeutende politische Erbe des Basotho-Königs Moshoeshoe.",
+                  "category": "historical",
+                  "coords": [
+                        27.475108,
+                        -29.30641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument",
+                  "text": "Ez a Lesothóban található történelmi szobor a basotho király, Moshoeshoe jelentős politikai örökségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.475108,
+                        -29.30641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument",
+                  "text": "Această statuie istorică din Lesotho comemorează moștenirea politică semnificativă a regelui basotho Moshoeshoe.",
+                  "category": "historical",
+                  "coords": [
+                        27.475108,
+                        -29.30641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument",
+                  "text": "This historic statue in Lesotho commemorates the significant political legacy of the Basotho King Moshoeshoe.",
+                  "category": "historical",
+                  "coords": [
+                        27.475108,
+                        -29.30641
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "monument",
     name: { de: "Moshoeshoe Statue", hu: "Moshoeshoe-szobor", ro: "Statuia lui Moshoeshoe", en: "Moshoeshoe Statue" },
@@ -1938,7 +2505,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-koro-koro-site-history-v2.webp",
   },
   {
-    id: "lesotho-qeme-plateau-history-v2",
+    id: "lesotho-qeme-plateau-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Likatola Horse Riding and Adventure",
+                  "text": "Diese Attraktion auf dem Qeme-Plateau bietet geführte Ausritte durch die raue Landschaft von Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        27.463776,
+                        -29.404082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Likatola Horse Riding and Adventure",
+                  "text": "Ez a Qeme-fennsíkon található látványosság vezetett lovastúrákat kínál Lesotho zord tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        27.463776,
+                        -29.404082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Likatola Horse Riding and Adventure",
+                  "text": "Această atracție de pe Podișul Qeme oferă excursii călare ghidate prin peisajele accidentate din Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        27.463776,
+                        -29.404082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Likatola Horse Riding and Adventure",
+                  "text": "Situated on the Qeme Plateau, this attraction offers guided horse riding adventures through the rugged Lesotho landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        27.463776,
+                        -29.404082
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "battlefield",
     name: { de: "Qeme Plateau", hu: "Qeme-fennsík", ro: "Podișul Qeme", en: "Qeme Plateau" },
@@ -2073,7 +2685,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-viervoet-history-v2.webp",
   },
   {
-    id: "lesotho-berea-mission-history-v2",
+    id: "lesotho-berea-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spitskop",
+                  "text": "Dieser markant spitze Berggipfel hebt sich vom Horizont ab und ist bei lokalen Bergsteigern sehr beliebt.",
+                  "category": "natural",
+                  "coords": [
+                        27.582099,
+                        -29.110147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spitskop",
+                  "text": "Ez a jellegzetesen hegyes hegycsúcs kiemelkedik a horizontból, és népszerű a helyi túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        27.582099,
+                        -29.110147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spitskop",
+                  "text": "Acest vârf de munte distinctiv ascuțit se profilează pe orizont, fiind popular printre alpiniștii locali.",
+                  "category": "natural",
+                  "coords": [
+                        27.582099,
+                        -29.110147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spitskop",
+                  "text": "This distinctively pointed mountain peak stands out against the horizon, popular among local trail climbers.",
+                  "category": "natural",
+                  "coords": [
+                        27.582099,
+                        -29.110147
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "Berea Mission", hu: "Berea misszió", ro: "Misiunea Berea", en: "Berea Mission" },
@@ -2208,7 +2865,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-national-university-heritage-v2.webp",
   },
   {
-    id: "lesotho-st-benedict-mission-history-v2",
+    id: "lesotho-st-benedict-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "phuthiatsana",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf den gewundenen Fluss Phuthiatsana und die angrenzende Tallandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.087989,
+                        -29.089132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "phuthiatsana",
+                  "text": "Festői kilátópont, ahonnan a kanyargó Phuthiatsana-folyóra és a szomszédos völgyre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        28.087989,
+                        -29.089132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "phuthiatsana",
+                  "text": "Un punct de belvedere pitoresc cu vedere la cursul șerpuitor al râului Phuthiatsana și la peisajul văii adiacente.",
+                  "category": "natural",
+                  "coords": [
+                        28.087989,
+                        -29.089132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "phuthiatsana",
+                  "text": "A scenic viewpoint overlooking the winding Phuthiatsana River and its adjacent valley landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.087989,
+                        -29.089132
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "church",
     name: { de: "St Benedict Mission", hu: "Szent Benedek misszió", ro: "Misiunea Sfântul Benedict", en: "St Benedict Mission" },
@@ -2388,7 +3090,52 @@ export const lesothoHistoryV2: POI[] = [
     image: "/poi-images/lesotho-st-gerard-cathedral-history-v2.webp",
   },
   {
-    id: "lesotho-royal-archives-history-v2",
+    id: "lesotho-royal-archives-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "King's Residence",
+                  "text": "Dieser königliche Wohnsitz beherbergt bedeutende Archive zur Geschichte der Monarchie in Lesotho.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King's Residence",
+                  "text": "Ez a királyi rezidencia fontos levéltári anyagoknak ad otthont Lesotho monarchiájának történetéből.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King's Residence",
+                  "text": "Această reședință regală găzduiește arhive importante legate de istoria monarhiei din Lesotho.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King's Residence",
+                  "text": "This royal residence is associated with significant historical archives detailing the history of the Lesotho monarchy.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "museum",
     name: { de: "Royal Archives", hu: "Királyi Archívum", ro: "Arhivele Regale", en: "Royal Archives" },

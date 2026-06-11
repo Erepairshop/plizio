@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const republicofcongoLandmarksV2: POI[] = [
 
   {
-    id: "republicofcongo-basilique-sainte-anne-landmarks-v2",
+    id: "republicofcongo-basilique-sainte-anne-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument des AET",
+                  "text": "Das Monument des AET ist ein Denkmal in der Nähe der Basilika Sainte-Anne, das der Association des Enfants de Troupe gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        15.263973,
+                        -4.26971
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "Zoolandia ist ein städtischer zoologischer Park in Brazzaville, der verschiedene regionale Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.260756,
+                        -4.271547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument des AET",
+                  "text": "A Monument des AET a Sainte-Anne bazilika közelében található emlékmű, amely az Association des Enfants de Troupe előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        15.263973,
+                        -4.26971
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "A Zoolandia egy városi állatkert Brazzaville-ben, amely különféle regionális vadon élő állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        15.260756,
+                        -4.271547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument des AET",
+                  "text": "Monument des AET este un monument dedicat situat lângă bazilica Sainte-Anne, recunoscând Association des Enfants de Troupe.",
+                  "category": "historical",
+                  "coords": [
+                        15.263973,
+                        -4.26971
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "Zoolandia este un parc zoologic urban din Brazzaville care prezintă diverse specii de animale sălbatice regionale.",
+                  "category": "recreational",
+                  "coords": [
+                        15.260756,
+                        -4.271547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument des AET",
+                  "text": "Monument des AET is a dedicated monument located near the Sainte-Anne basilica recognizing the Association des Enfants de Troupe.",
+                  "category": "historical",
+                  "coords": [
+                        15.263973,
+                        -4.26971
+                  ]
+            },
+            {
+                  "name": "Zoolandia",
+                  "text": "Zoolandia is an urban zoological park in Brazzaville showcasing various regional wildlife species.",
+                  "category": "recreational",
+                  "coords": [
+                        15.260756,
+                        -4.271547
+                  ]
+            }
+      ]
+},
     type: "cathedral",
     name: { de: "Basilika Sankt Anna", hu: "Szent Anna-bazilika", ro: "Bazilica Sfânta Ana", en: "Basilica of Saint Anne" },
     coords: [15.26, -4.275],
@@ -47,7 +128,88 @@ export const republicofcongoLandmarksV2: POI[] = [
     image: "/poi-images/republicofcongo-basilique-sainte-anne-landmarks-v2.webp",
   },
   {
-    id: "republicofcongo-mausolee-savorgnan-de-brazza-landmarks-v2",
+    id: "republicofcongo-mausolee-savorgnan-de-brazza-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-Point de la Paix",
+                  "text": "Der Rond-Point de la Paix ist ein zentrales Denkmal, das als Verkehrsknotenpunkt und Symbol der nationalen Einheit dient.",
+                  "category": "historical",
+                  "coords": [
+                        15.273672,
+                        -4.254086
+                  ]
+            },
+            {
+                  "name": "Café Coco",
+                  "text": "Café Coco ist eine beliebte lokale Attraktion, die Besuchern einen Einblick in das regionale Ambiente von Brazzaville bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278045,
+                        -4.253938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-Point de la Paix",
+                  "text": "A Rond-Point de la Paix egy központi emlékművel rendelkező közlekedési csomópont és a nemzeti egység szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        15.273672,
+                        -4.254086
+                  ]
+            },
+            {
+                  "name": "Café Coco",
+                  "text": "A Café Coco egy népszerű helyi látványosság, amely bepillantást enged a látogatóknak a brazzaville-i regionális hangulatba.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278045,
+                        -4.253938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-Point de la Paix",
+                  "text": "Rond-Point de la Paix prezintă un monument centralizat care acționează ca un nod de trafic și un simbol al unității naționale.",
+                  "category": "historical",
+                  "coords": [
+                        15.273672,
+                        -4.254086
+                  ]
+            },
+            {
+                  "name": "Café Coco",
+                  "text": "Café Coco este o atracție locală populară care oferă vizitatorilor o mostră din ambianța regională a orașului Brazzaville.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278045,
+                        -4.253938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-Point de la Paix",
+                  "text": "Rond-Point de la Paix features a centralized monument acting as a traffic hub and a symbol of national unity.",
+                  "category": "historical",
+                  "coords": [
+                        15.273672,
+                        -4.254086
+                  ]
+            },
+            {
+                  "name": "Café Coco",
+                  "text": "Café Coco is a popular local attraction offering visitors a taste of regional ambiance in Brazzaville.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278045,
+                        -4.253938
+                  ]
+            }
+      ]
+},
     type: "monument",
     name: { de: "Mausoleum Savorgnan de Brazza", hu: "Savorgnan de Brazza mauzóleum", ro: "Mausoleul Savorgnan de Brazza", en: "Savorgnan de Brazza Mausoleum" },
     coords: [15.28, -4.26],

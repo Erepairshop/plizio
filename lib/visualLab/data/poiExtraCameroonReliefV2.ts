@@ -73,7 +73,124 @@ export const poiExtraCameroonReliefV2: POI[] = [
       fr: ["Massif montagneux volcanique accidenté.", "Paysage dominant dans l'extrême nord du Cameroun.", "Façonne la structure des habitations depuis des siècles.", "Vallées profondes entre des formations rocheuses escarpées.", "Rempart naturel protecteur d'une grande importance stratégique.", "Relief unique avec une forte densité paysagère."],
     }, image: "/poi-images/mandara-mountains-relief-v2.webp"},
   {
-    id: "bamenda-highlands-relief-v2",
+    id: "bamenda-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum",
+                  "text": "Dieses lokale Museum stellt kulturelle und historische Artefakte aus dem umliegenden Bamenda-Hochland aus.",
+                  "category": "museum",
+                  "coords": [
+                        10.104699,
+                        6.003152
+                  ]
+            },
+            {
+                  "name": "Pa Ndakwe Residence",
+                  "text": "Die Pa Ndakwe Residence bietet weitreichende Aussichtspunkte über das malerische Bamenda-Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        10.015001,
+                        6.000777
+                  ]
+            },
+            {
+                  "name": "PC MBENGWI.",
+                  "text": "Diese große, befestigte Struktur, lokal als PC Mbengwi bekannt, befindet sich im malerischen Bamenda-Hochland.",
+                  "category": "castle",
+                  "coords": [
+                        10.01548,
+                        6.009355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum",
+                  "text": "Ez a helyi múzeum a környező Bamenda-felföld kulturális és történelmi tárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        10.104699,
+                        6.003152
+                  ]
+            },
+            {
+                  "name": "Pa Ndakwe Residence",
+                  "text": "A Pa Ndakwe Residence lenyűgöző kilátást nyújt a festői Bamenda-felföldre.",
+                  "category": "natural",
+                  "coords": [
+                        10.015001,
+                        6.000777
+                  ]
+            },
+            {
+                  "name": "PC MBENGWI.",
+                  "text": "A helyiek által PC Mbengwi néven ismert hatalmas, erődített épület a festői Bamenda-felföldön található.",
+                  "category": "castle",
+                  "coords": [
+                        10.01548,
+                        6.009355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum",
+                  "text": "Acest muzeu local expune artefacte culturale și istorice din Munții Bamenda din împrejurimi.",
+                  "category": "museum",
+                  "coords": [
+                        10.104699,
+                        6.003152
+                  ]
+            },
+            {
+                  "name": "Pa Ndakwe Residence",
+                  "text": "Pa Ndakwe Residence oferă puncte de belvedere panoramice asupra peisajului pitoresc din Munții Bamenda.",
+                  "category": "natural",
+                  "coords": [
+                        10.015001,
+                        6.000777
+                  ]
+            },
+            {
+                  "name": "PC MBENGWI.",
+                  "text": "Cunoscută local sub numele de PC Mbengwi, această structură mare și fortificată este situată în pitoreștii Munți Bamenda.",
+                  "category": "castle",
+                  "coords": [
+                        10.01548,
+                        6.009355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum",
+                  "text": "This local museum exhibits cultural and historical artifacts from the surrounding Bamenda Highlands.",
+                  "category": "museum",
+                  "coords": [
+                        10.104699,
+                        6.003152
+                  ]
+            },
+            {
+                  "name": "Pa Ndakwe Residence",
+                  "text": "The Pa Ndakwe Residence provides sweeping viewpoints across the scenic Bamenda Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        10.015001,
+                        6.000777
+                  ]
+            },
+            {
+                  "name": "PC MBENGWI.",
+                  "text": "Known locally as PC Mbengwi, this grand, fortified structure is situated in the scenic Bamenda Highlands.",
+                  "category": "castle",
+                  "coords": [
+                        10.01548,
+                        6.009355
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CM-NW",
     coords: [10.1, 6.0],
@@ -145,7 +262,52 @@ export const poiExtraCameroonReliefV2: POI[] = [
     },
   },
     {
-    id: "mount-kupe-relief-v2",
+    id: "mount-kupe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Kupe",
+                  "text": "Mount Kupe ist ein majestätischer Gipfel in den Bakossi-Bergen, der von dichtem, artenreichem Nebelwald bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.707563,
+                        4.80135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Kupe",
+                  "text": "A Mount Kupe a Bakossi-hegység fenséges csúcsa, amelyet sűrű, változatos élővilágú köderdő borít.",
+                  "category": "natural",
+                  "coords": [
+                        9.707563,
+                        4.80135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Kupe",
+                  "text": "Muntele Kupe este un vârf maiestuos din Munții Bakossi, acoperit de o pădure noroasă densă și bogată în biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        9.707563,
+                        4.80135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Kupe",
+                  "text": "Mount Kupe is a majestic peak in the Bakossi Mountains, covered by a dense, biodiverse cloud forest.",
+                  "category": "natural",
+                  "coords": [
+                        9.707563,
+                        4.80135
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CM-SW",
     coords: [9.7, 4.8],
@@ -181,7 +343,52 @@ export const poiExtraCameroonReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-oissa-relief-v2",
+    id: "mount-oissa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ekombe Waterfall",
+                  "text": "Der Ekombe-Wasserfall ist ein verborgener Naturschatz, der die zerklüfteten, grünen Hänge in der Nähe des Mount Oissa hinabstürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.158781,
+                        4.478622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ekombe Waterfall",
+                  "text": "Az Ekombe-vízesés egy rejtett természeti kincs, amely az Oissa-hegy melletti zord, zöldellő lejtőkön zuhog alá.",
+                  "category": "landmark",
+                  "coords": [
+                        9.158781,
+                        4.478622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ekombe Waterfall",
+                  "text": "Cascada Ekombe este o comoară naturală ascunsă care se cascadă pe pantele abrupte și înverzite din apropierea Muntelui Oissa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.158781,
+                        4.478622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ekombe Waterfall",
+                  "text": "Ekombe Waterfall is a hidden natural treasure cascading down the rugged, verdant slopes near Mount Oissa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.158781,
+                        4.478622
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CM-SW",
     coords: [9.2, 4.5],
@@ -217,7 +424,52 @@ export const poiExtraCameroonReliefV2: POI[] = [
     },
   },
   {
-    id: "nlonako-mountains-relief-v2",
+    id: "nlonako-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Nlonako",
+                  "text": "Der Mont Nlonako ist ein markanter Berggipfel, der für seine reiche Artenvielfalt und die Population des Goliathfroschs bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.9526,
+                        4.9062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Nlonako",
+                  "text": "A Mont Nlonako egy kiemelkedő hegycsúcs, amely gazdag biodiverzitásáról, köztük a góliátbéka-populációról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.9526,
+                        4.9062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Nlonako",
+                  "text": "Mont Nlonako este un vârf montan proeminent, renumit pentru biodiversitatea sa bogată, inclusiv populațiile de broaște Goliat.",
+                  "category": "natural",
+                  "coords": [
+                        9.9526,
+                        4.9062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Nlonako",
+                  "text": "Mont Nlonako is a prominent mountain peak renowned for its rich biodiversity, including populations of the Goliath frog.",
+                  "category": "natural",
+                  "coords": [
+                        9.9526,
+                        4.9062
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CM-LT",
     coords: [9.9, 4.9],
@@ -253,7 +505,916 @@ export const poiExtraCameroonReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-bambouto-relief-v2",
+    id: "mount-bambouto-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "chefferie Bameghuie 2",
+                  "text": "Ein traditionelles Häuptlingsviertel, das als historischer Sitz der lokalen traditionellen Macht in der Region des Mount Bamboutos dient.",
+                  "category": "castle",
+                  "coords": [
+                        10.126776,
+                        5.635681
+                  ]
+            },
+            {
+                  "name": "chefferie Balie",
+                  "text": "Der palastartige Sitz des lokalen Balie-Häuptlings, der durch traditionelle regionale Architektur geprägt ist.",
+                  "category": "castle",
+                  "coords": [
+                        10.174205,
+                        5.555396
+                  ]
+            },
+            {
+                  "name": "chefferie Badengang",
+                  "text": "Ein königlicher Hof und Verwaltungszentrum für das traditionelle Häuptlingstum Badengang.",
+                  "category": "castle",
+                  "coords": [
+                        10.172691,
+                        5.562927
+                  ]
+            },
+            {
+                  "name": "Chefferie de Kontia",
+                  "text": "Der traditionelle Palast und Hof des Kontia-Häuptlings in der Bergregion.",
+                  "category": "castle",
+                  "coords": [
+                        10.16489,
+                        5.56393
+                  ]
+            },
+            {
+                  "name": "Chefferie Fomelié",
+                  "text": "Eine traditionelle Häuptlingsstruktur, die als kulturelles und politisches Zentrum der Fomelié-Gemeinschaft dient.",
+                  "category": "castle",
+                  "coords": [
+                        10.170149,
+                        5.552621
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamela",
+                  "text": "Ein traditioneller Palastkomplex eines Bamileke-Häuptlingstums in der bergigen Region des Bamboutos-Massivs.",
+                  "category": "castle",
+                  "coords": [
+                        10.169089,
+                        5.547992
+                  ]
+            },
+            {
+                  "name": "chefferie bankak",
+                  "text": "Eine lokale traditionelle königliche Residenz der Bamileke in der hochgelegenen Landschaft des Bamboutos-Massivs.",
+                  "category": "castle",
+                  "coords": [
+                        10.156486,
+                        5.573205
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangang",
+                  "text": "Eine historische Häuptlingssiedlung mit traditioneller Bamileke-Architektur an den Hängen des Bamboutos-Massivs.",
+                  "category": "castle",
+                  "coords": [
+                        10.169482,
+                        5.568183
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangueala",
+                  "text": "Ein ländliches königliches Anwesen, das als kulturelles Zentrum eines lokalen Häuptlingstums im Bamboutos-Hochland dient.",
+                  "category": "castle",
+                  "coords": [
+                        10.164857,
+                        5.583387
+                  ]
+            },
+            {
+                  "name": "chefferie Bamboue",
+                  "text": "Eine traditionelle Palastanlage, die als Residenz des lokalen Bamileke-Führers in der Bamboutos-Gebirgskette erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        10.143848,
+                        5.581471
+                  ]
+            },
+            {
+                  "name": "chefferie bassessa",
+                  "text": "Ein angestammter Häuptlingspalast vor der dramatischen vulkanischen Kulisse der Bamboutos-Region.",
+                  "category": "castle",
+                  "coords": [
+                        10.143369,
+                        5.579687
+                  ]
+            },
+            {
+                  "name": "Chefferie Balekouet",
+                  "text": "Ein Zentrum lokaler Stammesautorität mit charakteristischen einheimischen Hütten im Bamboutos-Hochland.",
+                  "category": "castle",
+                  "coords": [
+                        10.155111,
+                        5.552459
+                  ]
+            },
+            {
+                  "name": "chefferie Tchelequet 2",
+                  "text": "Eine traditionelle Nebenresidenz eines Häuptlings in der rauen Umgebung der Bamboutos-Region.",
+                  "category": "castle",
+                  "coords": [
+                        10.146538,
+                        5.550308
+                  ]
+            },
+            {
+                  "name": "chefferie Bamelio",
+                  "text": "Ein historischer Komplex, der die Herrschaft und das Erbe einer Bamileke-Gemeinde am Mount Bamboutos repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        10.13056,
+                        5.597122
+                  ]
+            },
+            {
+                  "name": "Chefferie Bakofong",
+                  "text": "Ein Häuptlingspalast im Hochland, bekannt für seine traditionellen Höfe und seine kulturelle Bedeutung in der Bamboutos-Region.",
+                  "category": "castle",
+                  "coords": [
+                        10.152552,
+                        5.576004
+                  ]
+            },
+            {
+                  "name": "chefferie de biete",
+                  "text": "Ein traditionelles Herrscherhaus inmitten der landwirtschaftlich genutzten Hänge des Bamboutos-Massivs.",
+                  "category": "castle",
+                  "coords": [
+                        10.135252,
+                        5.559048
+                  ]
+            },
+            {
+                  "name": "Chefferie Zemezong",
+                  "text": "Die Residenz eines Bamileke-Häuptlings, eingebettet in die malerische Bergtopographie von Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.149754,
+                        5.555051
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamessa",
+                  "text": "Ein traditioneller Palast, der als soziales und politisches Zentrum der Bamessa-Gemeinschaft am Mount Bamboutos dient.",
+                  "category": "castle",
+                  "coords": [
+                        10.169061,
+                        5.561624
+                  ]
+            },
+            {
+                  "name": "chefferie Bameghuie 1",
+                  "text": "Eine königliche Ahnensiedlung, die lokale Bräuche und Architektur im rauen Gelände des Bamboutos-Massivs bewahrt.",
+                  "category": "castle",
+                  "coords": [
+                        10.1406,
+                        5.625153
+                  ]
+            },
+            {
+                  "name": "chefferie Balafotio",
+                  "text": "Eine traditionelle Regierungseinrichtung der Bamileke, die sich durch ihre herkömmlichen Strukturen im Bamboutos-Hochland auszeichnet.",
+                  "category": "castle",
+                  "coords": [
+                        10.189875,
+                        5.592758
+                  ]
+            },
+            {
+                  "name": "chefferie Baghang",
+                  "text": "Ein königliches Häuptlingsanwesen, das als Hüter des Bamileke-Erbes an den erhöhten Hängen des Mount Bamboutos fungiert.",
+                  "category": "castle",
+                  "coords": [
+                        10.173021,
+                        5.550427
+                  ]
+            },
+            {
+                  "name": "chefferie Baletia",
+                  "text": "Eine traditionelle Häuptlingssiedlung, die mit herkömmlichen Materialien im vulkanischen Relief des Mount Bamboutos erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        10.163109,
+                        5.557952
+                  ]
+            },
+            {
+                  "name": "Teidjeudji",
+                  "text": "Eine traditionelle Häuptlingsstruktur inmitten der ländlichen landwirtschaftlichen Gemeinden des Bamboutos-Hochlandes.",
+                  "category": "castle",
+                  "coords": [
+                        10.161937,
+                        5.564805
+                  ]
+            },
+            {
+                  "name": "chefferie bamelieu",
+                  "text": "Ein lokaler königlicher Palastkomplex, der die fortbestehende Stammeshierarchie der Bergzone des Bamboutos-Massivs widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        10.130128,
+                        5.562287
+                  ]
+            },
+            {
+                  "name": "Chefferie Melouong",
+                  "text": "Eine königliche Ahnensiedlung, die der lokalen Bevölkerung rund um das Bamboutos-Massiv eine traditionelle Führung bietet.",
+                  "category": "castle",
+                  "coords": [
+                        10.075589,
+                        5.561711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chefferie Bameghuie 2",
+                  "text": "Egy hagyományos törzsfői rezidencia, amely a helyi hatalom történelmi székhelyeként szolgál a Bamboutos-hegy régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        10.126776,
+                        5.635681
+                  ]
+            },
+            {
+                  "name": "chefferie Balie",
+                  "text": "A helyi Balie törzsfőnök hagyományos regionális építészetű palotaszerű székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        10.174205,
+                        5.555396
+                  ]
+            },
+            {
+                  "name": "chefferie Badengang",
+                  "text": "A hagyományos Badengang törzsfőnökség királyi rezidenciája és adminisztratív központja.",
+                  "category": "castle",
+                  "coords": [
+                        10.172691,
+                        5.562927
+                  ]
+            },
+            {
+                  "name": "Chefferie de Kontia",
+                  "text": "A Kontia törzsfőnök hagyományos palotája és udvara a hegyvidéki régióban.",
+                  "category": "castle",
+                  "coords": [
+                        10.16489,
+                        5.56393
+                  ]
+            },
+            {
+                  "name": "Chefferie Fomelié",
+                  "text": "Egy hagyományos törzsfői építmény, amely a Fomelié közösség kulturális és politikai központjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        10.170149,
+                        5.552621
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamela",
+                  "text": "Hagyományos bamileke törzsfői palotaegyüttes a Bamboutos-hegység hegyvidéki területén.",
+                  "category": "castle",
+                  "coords": [
+                        10.169089,
+                        5.547992
+                  ]
+            },
+            {
+                  "name": "chefferie bankak",
+                  "text": "Hagyományos bamileke királyi rezidencia a Bamboutos-hegység magasan fekvő tájain.",
+                  "category": "castle",
+                  "coords": [
+                        10.156486,
+                        5.573205
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangang",
+                  "text": "Történelmi törzsfői település hagyományos bamileke építészettel a Bamboutos-hegy lejtőin.",
+                  "category": "castle",
+                  "coords": [
+                        10.169482,
+                        5.568183
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangueala",
+                  "text": "Vidéki királyi birtok, amely egy helyi törzsfőnség kulturális központjaként szolgál a Bamboutos-felföldön.",
+                  "category": "castle",
+                  "coords": [
+                        10.164857,
+                        5.583387
+                  ]
+            },
+            {
+                  "name": "chefferie Bamboue",
+                  "text": "Hagyományos palotaegyüttes, amely a helyi bamileke vezető lakhelyéül épült a Bamboutos-hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        10.143848,
+                        5.581471
+                  ]
+            },
+            {
+                  "name": "chefferie bassessa",
+                  "text": "Ősi törzsfői palota a Bamboutos-régió drámai vulkanikus domborzata előtt.",
+                  "category": "castle",
+                  "coords": [
+                        10.143369,
+                        5.579687
+                  ]
+            },
+            {
+                  "name": "Chefferie Balekouet",
+                  "text": "A helyi törzsi hatalom központja jellegzetes népi kunyhókkal a Bamboutos-felföldön.",
+                  "category": "castle",
+                  "coords": [
+                        10.155111,
+                        5.552459
+                  ]
+            },
+            {
+                  "name": "chefferie Tchelequet 2",
+                  "text": "Hagyományos másodlagos törzsfői rezidencia a Bamboutos térség zord környezetében.",
+                  "category": "castle",
+                  "coords": [
+                        10.146538,
+                        5.550308
+                  ]
+            },
+            {
+                  "name": "chefferie Bamelio",
+                  "text": "Történelmi épületegyüttes, amely egy bamileke közösség irányítását és örökségét képviseli a Bamboutos-hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        10.13056,
+                        5.597122
+                  ]
+            },
+            {
+                  "name": "Chefferie Bakofong",
+                  "text": "Felföldi törzsfői palota, amely hagyományos udvarairól és kulturális jelentőségéről ismert a Bamboutos régióban.",
+                  "category": "castle",
+                  "coords": [
+                        10.152552,
+                        5.576004
+                  ]
+            },
+            {
+                  "name": "chefferie de biete",
+                  "text": "Hagyományos uralkodói ház a Bamboutos-domborzat mezőgazdasági lejtői között.",
+                  "category": "castle",
+                  "coords": [
+                        10.135252,
+                        5.559048
+                  ]
+            },
+            {
+                  "name": "Chefferie Zemezong",
+                  "text": "Egy bamileke törzsfőnök lakóparkja a Bamboutos festői hegyvidéki domborzatában.",
+                  "category": "castle",
+                  "coords": [
+                        10.149754,
+                        5.555051
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamessa",
+                  "text": "Hagyományos palota, amely a Bamessa közösség társadalmi és politikai központjaként működik a Bamboutos-hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        10.169061,
+                        5.561624
+                  ]
+            },
+            {
+                  "name": "chefferie Bameghuie 1",
+                  "text": "Ősi királyi enklávé, amely megőrzi a helyi szokásokat és építészetet a Bamboutos-hegy zord terepén.",
+                  "category": "castle",
+                  "coords": [
+                        10.1406,
+                        5.625153
+                  ]
+            },
+            {
+                  "name": "chefferie Balafotio",
+                  "text": "Hagyományos bamileke kormányzati épületegyüttes, amely a Bamboutos-felföld szokásos építményeivel tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        10.189875,
+                        5.592758
+                  ]
+            },
+            {
+                  "name": "chefferie Baghang",
+                  "text": "Királyi törzsfői birtok, amely a bamileke örökség őrzőjeként működik a Bamboutos-hegy magas lejtőin.",
+                  "category": "castle",
+                  "coords": [
+                        10.173021,
+                        5.550427
+                  ]
+            },
+            {
+                  "name": "chefferie Baletia",
+                  "text": "Szokásos törzsfői település, amely hagyományos anyagokból épült a Bamboutos-hegy vulkanikus domborzatán.",
+                  "category": "castle",
+                  "coords": [
+                        10.163109,
+                        5.557952
+                  ]
+            },
+            {
+                  "name": "Teidjeudji",
+                  "text": "Hagyományos törzsfői építmény a Bamboutos-felföld vidéki mezőgazdasági közösségei között.",
+                  "category": "castle",
+                  "coords": [
+                        10.161937,
+                        5.564805
+                  ]
+            },
+            {
+                  "name": "chefferie bamelieu",
+                  "text": "Helyi királyi palotakomplexum, amely a Bamboutos hegyvidéki övezet fennmaradó törzsi hierarchiáját tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        10.130128,
+                        5.562287
+                  ]
+            },
+            {
+                  "name": "Chefferie Melouong",
+                  "text": "Ősi királyi épületegyüttes, amely hagyományos vezetést biztosít a Bamboutos-hegy körüli helyi lakosság számára.",
+                  "category": "castle",
+                  "coords": [
+                        10.075589,
+                        5.561711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chefferie Bameghuie 2",
+                  "text": "O reședință tradițională a unei căpetenii, care servește drept sediu istoric al puterii locale în regiunea Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.126776,
+                        5.635681
+                  ]
+            },
+            {
+                  "name": "chefferie Balie",
+                  "text": "Sediul sub formă de palat al căpeteniei locale Balie, prezentând arhitectura tradițională regională.",
+                  "category": "castle",
+                  "coords": [
+                        10.174205,
+                        5.555396
+                  ]
+            },
+            {
+                  "name": "chefferie Badengang",
+                  "text": "O reședință regală și centru administrativ pentru comunitatea tradițională a căpeteniei Badengang.",
+                  "category": "castle",
+                  "coords": [
+                        10.172691,
+                        5.562927
+                  ]
+            },
+            {
+                  "name": "Chefferie de Kontia",
+                  "text": "Palatul tradițional și curtea căpeteniei Kontia din regiunea muntoasă.",
+                  "category": "castle",
+                  "coords": [
+                        10.16489,
+                        5.56393
+                  ]
+            },
+            {
+                  "name": "Chefferie Fomelié",
+                  "text": "O structură tradițională a unei căpetenii care servește ca centru cultural și politic al comunității Fomelié.",
+                  "category": "castle",
+                  "coords": [
+                        10.170149,
+                        5.552621
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamela",
+                  "text": "Un complex tradițional de palat al unei căpetenii Bamileke, situat în terenul muntos al masivului Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.169089,
+                        5.547992
+                  ]
+            },
+            {
+                  "name": "chefferie bankak",
+                  "text": "O reședință regală tradițională Bamileke situată în peisajul de mare altitudine al Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.156486,
+                        5.573205
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangang",
+                  "text": "O așezare istorică de căpetenie care prezintă arhitectura tradițională Bamileke pe pantele Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.169482,
+                        5.568183
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangueala",
+                  "text": "Un domeniu regal rural ce servește drept centru cultural al unei căpetenii locale în zonele înalte ale Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.164857,
+                        5.583387
+                  ]
+            },
+            {
+                  "name": "chefferie Bamboue",
+                  "text": "Un complex tradițional de palat construit pentru a găzdui liderul local Bamileke din lanțul muntos Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.143848,
+                        5.581471
+                  ]
+            },
+            {
+                  "name": "chefferie bassessa",
+                  "text": "Un palat ancestral de căpetenie așezat pe fundalul reliefului vulcanic dramatic al regiunii Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.143369,
+                        5.579687
+                  ]
+            },
+            {
+                  "name": "Chefferie Balekouet",
+                  "text": "Un centru al autorității tribale locale cu colibe tradiționale distinctive în zonele înalte ale Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.155111,
+                        5.552459
+                  ]
+            },
+            {
+                  "name": "chefferie Tchelequet 2",
+                  "text": "Un complex secundar tradițional de căpetenie situat în mediul accidentat al zonei Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.146538,
+                        5.550308
+                  ]
+            },
+            {
+                  "name": "chefferie Bamelio",
+                  "text": "Un complex istoric care reprezintă guvernarea și patrimoniul unei comunități Bamileke pe Muntele Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.13056,
+                        5.597122
+                  ]
+            },
+            {
+                  "name": "Chefferie Bakofong",
+                  "text": "Un palat de căpetenie montan, cunoscut pentru curțile sale tradiționale și importanța culturală din regiunea Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.152552,
+                        5.576004
+                  ]
+            },
+            {
+                  "name": "chefferie de biete",
+                  "text": "O casă conducătoare tradițională situată printre pantele agricole ale reliefului Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.135252,
+                        5.559048
+                  ]
+            },
+            {
+                  "name": "Chefferie Zemezong",
+                  "text": "Un complex rezidențial al unui șef Bamileke amplasat în topografia muntoasă pitorească a zonei Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.149754,
+                        5.555051
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamessa",
+                  "text": "Un palat tradițional care funcționează ca centru social și politic al comunității Bamessa pe Muntele Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.169061,
+                        5.561624
+                  ]
+            },
+            {
+                  "name": "chefferie Bameghuie 1",
+                  "text": "O enclavă regală ancestrală care păstrează obiceiurile și arhitectura locală în terenul accidentat al Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.1406,
+                        5.625153
+                  ]
+            },
+            {
+                  "name": "chefferie Balafotio",
+                  "text": "Un complex tradițional de guvernare Bamileke care se distinge prin structurile sale obișnuite din zonele înalte ale regiunii Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.189875,
+                        5.592758
+                  ]
+            },
+            {
+                  "name": "chefferie Baghang",
+                  "text": "Un domeniu regal de căpetenie care acționează ca un custode al patrimoniului Bamileke pe pantele înalte ale Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.173021,
+                        5.550427
+                  ]
+            },
+            {
+                  "name": "chefferie Baletia",
+                  "text": "O așezare obișnuită de căpetenie construită cu materiale tradiționale în relieful vulcanic al Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.163109,
+                        5.557952
+                  ]
+            },
+            {
+                  "name": "Teidjeudji",
+                  "text": "O structură tradițională de căpetenie amplasată în mijlocul comunităților agricole rurale din zonele înalte ale Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.161937,
+                        5.564805
+                  ]
+            },
+            {
+                  "name": "chefferie bamelieu",
+                  "text": "Un complex regal local care reflectă ierarhia tribală de durată din zona muntoasă a Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.130128,
+                        5.562287
+                  ]
+            },
+            {
+                  "name": "Chefferie Melouong",
+                  "text": "Un complex regal ancestral care asigură o conducere tradițională pentru populația locală din jurul Muntelui Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.075589,
+                        5.561711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chefferie Bameghuie 2",
+                  "text": "A traditional chieftaincy compound serving as the historic seat of local traditional power in the Mount Bamboutos region.",
+                  "category": "castle",
+                  "coords": [
+                        10.126776,
+                        5.635681
+                  ]
+            },
+            {
+                  "name": "chefferie Balie",
+                  "text": "The palatial seat of the local Balie chief, featuring traditional regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        10.174205,
+                        5.555396
+                  ]
+            },
+            {
+                  "name": "chefferie Badengang",
+                  "text": "A royal compound and administrative center for the traditional Badengang chieftaincy.",
+                  "category": "castle",
+                  "coords": [
+                        10.172691,
+                        5.562927
+                  ]
+            },
+            {
+                  "name": "Chefferie de Kontia",
+                  "text": "The traditional palace and court of the Kontia chief in the mountainous region.",
+                  "category": "castle",
+                  "coords": [
+                        10.16489,
+                        5.56393
+                  ]
+            },
+            {
+                  "name": "Chefferie Fomelié",
+                  "text": "A traditional chieftaincy structure serving as the cultural and political heart of the Fomelié community.",
+                  "category": "castle",
+                  "coords": [
+                        10.170149,
+                        5.552621
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamela",
+                  "text": "A traditional Bamileke chiefdom palace complex nestled in the mountainous terrain of the Mount Bamboutos region.",
+                  "category": "castle",
+                  "coords": [
+                        10.169089,
+                        5.547992
+                  ]
+            },
+            {
+                  "name": "chefferie bankak",
+                  "text": "A local traditional Bamileke royal compound situated in the high-altitude landscape of Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.156486,
+                        5.573205
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangang",
+                  "text": "A historical chiefdom settlement featuring traditional Bamileke architecture on the slopes of Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.169482,
+                        5.568183
+                  ]
+            },
+            {
+                  "name": "Chefferie Bangueala",
+                  "text": "A rural royal estate serving as the cultural heart of a local chiefdom in the Mount Bamboutos highlands.",
+                  "category": "castle",
+                  "coords": [
+                        10.164857,
+                        5.583387
+                  ]
+            },
+            {
+                  "name": "chefferie Bamboue",
+                  "text": "A traditional palace compound built to house the local Bamileke leader within the Bamboutos mountain range.",
+                  "category": "castle",
+                  "coords": [
+                        10.143848,
+                        5.581471
+                  ]
+            },
+            {
+                  "name": "chefferie bassessa",
+                  "text": "An ancestral chiefdom palace set against the dramatic volcanic relief of the Mount Bamboutos region.",
+                  "category": "castle",
+                  "coords": [
+                        10.143369,
+                        5.579687
+                  ]
+            },
+            {
+                  "name": "Chefferie Balekouet",
+                  "text": "A center of local tribal authority featuring distinctive vernacular huts in the Mount Bamboutos highlands.",
+                  "category": "castle",
+                  "coords": [
+                        10.155111,
+                        5.552459
+                  ]
+            },
+            {
+                  "name": "chefferie Tchelequet 2",
+                  "text": "A secondary traditional chief's compound located within the rugged environment of the Mount Bamboutos area.",
+                  "category": "castle",
+                  "coords": [
+                        10.146538,
+                        5.550308
+                  ]
+            },
+            {
+                  "name": "chefferie Bamelio",
+                  "text": "A historical compound representing the governance and heritage of a Bamileke community on Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.13056,
+                        5.597122
+                  ]
+            },
+            {
+                  "name": "Chefferie Bakofong",
+                  "text": "A highland chieftaincy palace known for its traditional courtyards and cultural significance in the Bamboutos region.",
+                  "category": "castle",
+                  "coords": [
+                        10.152552,
+                        5.576004
+                  ]
+            },
+            {
+                  "name": "chefferie de biete",
+                  "text": "A traditional ruling house situated amidst the agricultural slopes of the Mount Bamboutos relief.",
+                  "category": "castle",
+                  "coords": [
+                        10.135252,
+                        5.559048
+                  ]
+            },
+            {
+                  "name": "Chefferie Zemezong",
+                  "text": "A Bamileke chief's residential complex nestled in the scenic mountainous topography of Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.149754,
+                        5.555051
+                  ]
+            },
+            {
+                  "name": "Chefferie Bamessa",
+                  "text": "A traditional palace functioning as the social and political hub of the Bamessa community on Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.169061,
+                        5.561624
+                  ]
+            },
+            {
+                  "name": "chefferie Bameghuie 1",
+                  "text": "An ancestral royal enclave preserving local customs and architecture in the rugged Mount Bamboutos terrain.",
+                  "category": "castle",
+                  "coords": [
+                        10.1406,
+                        5.625153
+                  ]
+            },
+            {
+                  "name": "chefferie Balafotio",
+                  "text": "A traditional Bamileke governance compound distinguished by its customary structures in the Bamboutos highlands.",
+                  "category": "castle",
+                  "coords": [
+                        10.189875,
+                        5.592758
+                  ]
+            },
+            {
+                  "name": "chefferie Baghang",
+                  "text": "A royal chiefdom estate acting as a custodian of Bamileke heritage on the elevated slopes of Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.173021,
+                        5.550427
+                  ]
+            },
+            {
+                  "name": "chefferie Baletia",
+                  "text": "A customary chieftaincy settlement built with traditional materials in the volcanic relief of Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.163109,
+                        5.557952
+                  ]
+            },
+            {
+                  "name": "Teidjeudji",
+                  "text": "A traditional chieftaincy structure set amidst the rural agricultural communities of the Mount Bamboutos highlands.",
+                  "category": "castle",
+                  "coords": [
+                        10.161937,
+                        5.564805
+                  ]
+            },
+            {
+                  "name": "chefferie bamelieu",
+                  "text": "A local royal palace complex reflecting the enduring tribal hierarchy of the Mount Bamboutos mountainous zone.",
+                  "category": "castle",
+                  "coords": [
+                        10.130128,
+                        5.562287
+                  ]
+            },
+            {
+                  "name": "Chefferie Melouong",
+                  "text": "An ancestral royal compound providing traditional leadership for the local population around Mount Bamboutos.",
+                  "category": "castle",
+                  "coords": [
+                        10.075589,
+                        5.561711
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CM-NW",
     coords: [10.1, 5.6],
@@ -685,7 +1846,160 @@ export const poiExtraCameroonReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-logone-relief-v2",
+    id: "mount-logone-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Poulailler Ali Klessoum",
+                  "text": "Eine bemerkenswerte lokale Geflügelfarm in der Nähe des Logone-Flusses, die aufgrund ihrer landwirtschaftlichen Praktiken Interesse weckt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.190628,
+                        12.014781
+                  ]
+            },
+            {
+                  "name": "Couveuse OWIYANA",
+                  "text": "Diese landwirtschaftliche Anlage verfügt über einen speziellen Brutkasten für das Ausbrüten von Geflügel und unterstützt so die lokalen Bauerngemeinschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        15.211919,
+                        12.001859
+                  ]
+            },
+            {
+                  "name": "Poulailler Ali Adji",
+                  "text": "Eine aktive Geflügelfarm in der Logone-Region, die lokale tschadische Tierhaltungstechniken demonstriert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.264748,
+                        12.047583
+                  ]
+            },
+            {
+                  "name": "Parc de jeux",
+                  "text": "Ein Freizeits-Spielplatz in der Nähe des Logone-Flusses, an dem sich einheimische Kinder zu Spielen und Aktivitäten im Freien treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155116,
+                        11.961284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poulailler Ali Klessoum",
+                  "text": "Egy figyelemre méltó helyi baromfifarm a Logone folyó közelében, amely mezőgazdasági gyakorlatával vonzza az érdeklődőket.",
+                  "category": "landmark",
+                  "coords": [
+                        15.190628,
+                        12.014781
+                  ]
+            },
+            {
+                  "name": "Couveuse OWIYANA",
+                  "text": "Ez a mezőgazdasági létesítmény egy speciális inkubátorral rendelkezik a baromfi keltetésére, támogatva a helyi gazdálkodó közösségeket.",
+                  "category": "landmark",
+                  "coords": [
+                        15.211919,
+                        12.001859
+                  ]
+            },
+            {
+                  "name": "Poulailler Ali Adji",
+                  "text": "Egy aktív baromfifarm a Logone régióban, amely bemutatja a helyi csádi állattenyésztési technikákat.",
+                  "category": "landmark",
+                  "coords": [
+                        15.264748,
+                        12.047583
+                  ]
+            },
+            {
+                  "name": "Parc de jeux",
+                  "text": "Szabadidős játszótér a Logone folyó közelében, ahol a helyi gyerekek szabadtéri játékokra és tevékenységekre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155116,
+                        11.961284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poulailler Ali Klessoum",
+                  "text": "O fermă locală notabilă de păsări din apropierea râului Logone, care atrage interesul pentru practicile sale agricole.",
+                  "category": "landmark",
+                  "coords": [
+                        15.190628,
+                        12.014781
+                  ]
+            },
+            {
+                  "name": "Couveuse OWIYANA",
+                  "text": "Această facilitate agricolă dispune de un incubator specializat pentru clocirea păsărilor de curte, susținând comunitățile agricole locale.",
+                  "category": "landmark",
+                  "coords": [
+                        15.211919,
+                        12.001859
+                  ]
+            },
+            {
+                  "name": "Poulailler Ali Adji",
+                  "text": "O fermă activă de păsări din regiunea Logone care prezintă tehnicile locale de creștere a animalelor din Ciad.",
+                  "category": "landmark",
+                  "coords": [
+                        15.264748,
+                        12.047583
+                  ]
+            },
+            {
+                  "name": "Parc de jeux",
+                  "text": "Un loc de joacă de agrement lângă râul Logone, unde copiii locali se adună pentru jocuri și activități în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155116,
+                        11.961284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poulailler Ali Klessoum",
+                  "text": "A notable local poultry farm near the Logone River that draws interest for its agricultural practices.",
+                  "category": "landmark",
+                  "coords": [
+                        15.190628,
+                        12.014781
+                  ]
+            },
+            {
+                  "name": "Couveuse OWIYANA",
+                  "text": "This agricultural facility features a specialized incubator for hatching poultry, supporting local farming communities.",
+                  "category": "landmark",
+                  "coords": [
+                        15.211919,
+                        12.001859
+                  ]
+            },
+            {
+                  "name": "Poulailler Ali Adji",
+                  "text": "An active poultry farm in the Logone region showcasing local Chadian livestock rearing techniques.",
+                  "category": "landmark",
+                  "coords": [
+                        15.264748,
+                        12.047583
+                  ]
+            },
+            {
+                  "name": "Parc de jeux",
+                  "text": "A recreational playground near the Logone River where local children gather for outdoor games and activities.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155116,
+                        11.961284
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CM-EN",
     coords: [15.2, 12.0],

@@ -46,7 +46,88 @@ export const poiExtraGabonHistoryV2: POI[] = [
       fr: ["Inscrit au patrimoine mondial de l'UNESCO (mixte) depuis 2007", "Preuves d'occupation humaine depuis 400 000 ans", "Abrite plus de 1 800 gravures rupestres répertoriées", "Lieu de découverte de fourneaux de l'âge du fer", "Corridor de migration stratégique pour les peuples bantous", "Seul site du patrimoine mondial au Gabon ayant un statut mixte"],
     }, image: "/poi-images/lope-archaeology-history-v2.webp"},
   {
-    id: "st-peter-cathedral-history-v2",
+    id: "st-peter-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "Das Musée National des Arts et Traditions du Gabon zeigt eine reiche Sammlung einheimischer Masken, Schnitzereien und kultureller Artefakte aus dem ganzen Land.",
+                  "category": "museum",
+                  "coords": [
+                        9.446488,
+                        0.38387
+                  ]
+            },
+            {
+                  "name": "Plage Acaé",
+                  "text": "Plage Acaé ist ein sandiger Küstenstreifen, der eine entspannende Meeresumgebung an den atlantischen Gewässern in Libreville bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473055,
+                        0.349193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "A Musée National des Arts et Traditions du Gabon a hazai maszkok, fafaragások és az egész országból származó kulturális tárgyak gazdag gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        9.446488,
+                        0.38387
+                  ]
+            },
+            {
+                  "name": "Plage Acaé",
+                  "text": "A Plage Acaé egy homokos partszakasz, amely pihentető tengerparti környezetet kínál Libreville atlanti vizeinél.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473055,
+                        0.349193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "Musée National des Arts et Traditions du Gabon expune o colecție bogată de măști indigene, sculpturi și artefacte culturale din întreaga țară.",
+                  "category": "museum",
+                  "coords": [
+                        9.446488,
+                        0.38387
+                  ]
+            },
+            {
+                  "name": "Plage Acaé",
+                  "text": "Plage Acaé este o fâșie de coastă nisipoasă care oferă un mediu marin relaxant de-a lungul apelor atlantice din Libreville.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473055,
+                        0.349193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée National des Arts et Traditions du Gabon",
+                  "text": "The Musée National des Arts et Traditions du Gabon exhibits a rich collection of indigenous masks, carvings, and cultural artifacts from across the country.",
+                  "category": "museum",
+                  "coords": [
+                        9.446488,
+                        0.38387
+                  ]
+            },
+            {
+                  "name": "Plage Acaé",
+                  "text": "Plage Acaé is a sandy coastal strip offering a relaxing seaside environment along the Atlantic waters in Libreville.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473055,
+                        0.349193
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GA-1",
     coords: [9.4447, 0.3831],
@@ -268,7 +349,52 @@ export const poiExtraGabonHistoryV2: POI[] = [
       fr: ["Ancien marché aux esclaves", "Point le plus à l'ouest", "Place commerciale historique", "Lieu de mémoire"],
     }, image: "/poi-images/cap-lopez-slave-port-history-v2.webp"},
   {
-    id: "schweitzer-museum-history-v2",
+    id: "schweitzer-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Albert Schweitzer",
+                  "text": "Ein historisches Museum, das 1913 vom berühmten Dr. Albert Schweitzer gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        10.230581,
+                        -0.67909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Albert Schweitzer",
+                  "text": "Egy örökségi múzeum, amelyet 1913-ban alapított a híres Dr. Albert Schweitzer.",
+                  "category": "museum",
+                  "coords": [
+                        10.230581,
+                        -0.67909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Albert Schweitzer",
+                  "text": "Un muzeu de patrimoniu fondat în 1913 de ilustrul Dr. Albert Schweitzer.",
+                  "category": "museum",
+                  "coords": [
+                        10.230581,
+                        -0.67909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Albert Schweitzer",
+                  "text": "A heritage museum founded in 1913 by the illustrious Dr. Albert Schweitzer.",
+                  "category": "museum",
+                  "coords": [
+                        10.230581,
+                        -0.67909
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GA-3",
     coords: [10.2300, -0.6900],
@@ -665,7 +791,88 @@ export const poiExtraGabonHistoryV2: POI[] = [
       fr: ["Architecture commerciale coloniale", "Au bord du fleuve", "Reliques de la pêche", "Histoire locale"],
     }, image: "/poi-images/lambarene-old-quarter-history-v2.webp"},
   {
-    id: "lastour-memorial-history-v2",
+    id: "lastour-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "L'Ïle Fétiche ist eine kulturelle Inselattraktion, die für ihre traditionelle Bedeutung und lokale animistische Geschichte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727886,
+                        -0.80619
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Pierre Claver",
+                  "text": "Die Paroisse Saint-Pierre Claver ist eine anerkannte historische Pfarrei, deren geschichtliche Wurzeln bis zu ihrer Gründung im Jahr 1883 zurückreichen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.7047,
+                        -0.82445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "A L'Ïle Fétiche egy kulturális szigeti látványosság, amely hagyományos jelentőségéről és helyi animista történelméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727886,
+                        -0.80619
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Pierre Claver",
+                  "text": "A Paroisse Saint-Pierre Claver egy elismert örökségvédelmi plébánia, amelynek történelmi gyökerei az 1883-as alapításig nyúlnak vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        12.7047,
+                        -0.82445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "L'Ïle Fétiche este o atracție insulară culturală cunoscută pentru semnificația sa tradițională și istoria animistă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727886,
+                        -0.80619
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Pierre Claver",
+                  "text": "Paroisse Saint-Pierre Claver este o parohie de patrimoniu recunoscută, ale cărei rădăcini istorice datează de la înființarea sa în 1883.",
+                  "category": "landmark",
+                  "coords": [
+                        12.7047,
+                        -0.82445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "L'Ïle Fétiche is a cultural island attraction known for its traditional significance and local animist history.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727886,
+                        -0.80619
+                  ]
+            },
+            {
+                  "name": "Paroisse Saint-Pierre Claver",
+                  "text": "The Paroisse Saint-Pierre Claver is a recognized heritage parish whose historical roots date back to its founding in 1883.",
+                  "category": "landmark",
+                  "coords": [
+                        12.7047,
+                        -0.82445
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GA-7",
     coords: [12.7200, -0.8200],
@@ -709,7 +916,52 @@ export const poiExtraGabonHistoryV2: POI[] = [
       fr: ["Hommage à l'explorateur", "À Lastoursville", "Fait partie de l'histoire coloniale", "Origine du nom régional"],
     }, image: "/poi-images/lastour-memorial-history-v2.webp"},
   {
-    id: "savorgnan-de-brazza-site-history-v2",
+    id: "savorgnan-de-brazza-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint-Hillaire",
+                  "text": "Die Cathédrale Saint-Hillaire ist eine monumentale Kultstätte, die sich durch ihre Kathedralenarchitektur in Franceville auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        13.607502,
+                        -1.631781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saint-Hillaire",
+                  "text": "A Cathédrale Saint-Hillaire egy monumentális istentiszteleti hely, amelyet a katedrális építészete tesz különlegessé Franceville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        13.607502,
+                        -1.631781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Saint-Hillaire",
+                  "text": "Cathédrale Saint-Hillaire este un loc de cult monumental distins prin arhitectura sa de catedrală din Franceville.",
+                  "category": "religious",
+                  "coords": [
+                        13.607502,
+                        -1.631781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Saint-Hillaire",
+                  "text": "Cathédrale Saint-Hillaire is a monumental place of worship distinguished by its cathedral architecture in Franceville.",
+                  "category": "religious",
+                  "coords": [
+                        13.607502,
+                        -1.631781
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GA-2",
     coords: [13.5850, -1.6350],
@@ -753,7 +1005,52 @@ export const poiExtraGabonHistoryV2: POI[] = [
     },
   },
   {
-    id: "fernand-vaz-colonial-site-history-v2",
+    id: "fernand-vaz-colonial-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magaya Beach",
+                  "text": "Ein entspannendes Strandresort am malerischen Lagunensystem von Fernand Vaz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193986,
+                        -1.564899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magaya Beach",
+                  "text": "Egy pihentető tengerparti üdülőhely a festői Fernand Vaz lagúnarendszer mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193986,
+                        -1.564899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magaya Beach",
+                  "text": "O stațiune balneară relaxantă situată de-a lungul sistemului pitoresc de lagune Fernand Vaz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193986,
+                        -1.564899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magaya Beach",
+                  "text": "A relaxing beach resort set along the scenic Fernand Vaz lagoon system.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193986,
+                        -1.564899
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GA-8",
     coords: [9.2000, -1.5000],

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthafricaNatureV2: POI[] = [
   {
-    id: "orange-river-nature-v2",
+    id: "orange-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Orange River Mouth Nature Reserve",
+                  "text": "Dieses im Jahr 2018 gegründete Naturschutzgebiet schützt die Mündung des Oranje.",
+                  "category": "natural",
+                  "coords": [
+                        16.543188,
+                        -28.585325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Orange River Mouth Nature Reserve",
+                  "text": "Ez a 2018-ban létrehozott természetvédelmi terület az Oranje folyó torkolatát védi.",
+                  "category": "natural",
+                  "coords": [
+                        16.543188,
+                        -28.585325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Orange River Mouth Nature Reserve",
+                  "text": "Această rezervație naturală înființată în 2018 protejează gura de vărsare a râului Orange.",
+                  "category": "natural",
+                  "coords": [
+                        16.543188,
+                        -28.585325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orange River Mouth Nature Reserve",
+                  "text": "This nature reserve established in 2018 protects the mouth of the Orange River.",
+                  "category": "natural",
+                  "coords": [
+                        16.543188,
+                        -28.585325
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZA-NC",
     coords: [16.485, -28.636],
@@ -89,7 +134,520 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       en: ["Flows through Zimbabwe and Botswana.", "Empties into the Indian Ocean."]
     }, image: "/poi-images/limpopo-river-nature-v2.webp"},
   {
-    id: "table-mountain-nature-v2",
+    id: "table-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Woodhead Tunnel",
+                  "text": "Ein historischer Wassertunnel aus dem 19. Jahrhundert, der durch den Sandstein des Tafelbergmassivs gebohrt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        18.389828,
+                        -33.982334
+                  ]
+            },
+            {
+                  "name": "World Cup Boulder",
+                  "text": "Ein bekannter Kletterblock an den schroffen Hängen des Tafelberg-Naturreservats.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412437,
+                        -33.950168
+                  ]
+            },
+            {
+                  "name": "Tree Traverse Boulder",
+                  "text": "Ein spezieller Bouldering-Spot zwischen den Bäumen an den Hängen des Tafelbergs.",
+                  "category": "landmark",
+                  "coords": [
+                        18.420709,
+                        -33.950938
+                  ]
+            },
+            {
+                  "name": "Low Seam Boulder",
+                  "text": "Ein Kletterfels, der sich durch seine charakteristischen niedrigen Handgriffe auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419707,
+                        -33.952912
+                  ]
+            },
+            {
+                  "name": "Big Block Boulder",
+                  "text": "Ein massiver Felsblock, der verschiedene Bouldering-Routen im Nationalpark bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41971,
+                        -33.954364
+                  ]
+            },
+            {
+                  "name": "River Boulder",
+                  "text": "Ein Bouldering-Fels, der in der Nähe eines Wasserlaufs im Berggebiet liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418355,
+                        -33.955553
+                  ]
+            },
+            {
+                  "name": "Union Cave",
+                  "text": "Ein versteckter Höhleneingang in den Sandsteinklippen des Tafelbergs.",
+                  "category": "natural",
+                  "coords": [
+                        18.410139,
+                        -33.956051
+                  ]
+            },
+            {
+                  "name": "Bright Lights Bouldering",
+                  "text": "Ein ausgewiesenes Bouldering-Gebiet vor der rauen Kulisse des Bergreservats.",
+                  "category": "landmark",
+                  "coords": [
+                        18.410205,
+                        -33.952277
+                  ]
+            },
+            {
+                  "name": "Blinkwater Pinacle",
+                  "text": "Eine markante Sandsteinnadel mit dramatischem Blick auf die Atlantikküste.",
+                  "category": "natural",
+                  "coords": [
+                        18.401489,
+                        -33.965359
+                  ]
+            },
+            {
+                  "name": "Junction Peak",
+                  "text": "Ein felsiger Gipfel an einer wichtigen Kreuzung von Wanderrouten auf dem Bergplateau.",
+                  "category": "natural",
+                  "coords": [
+                        18.415878,
+                        -33.973834
+                  ]
+            },
+            {
+                  "name": "Waaikoppie",
+                  "text": "Ein ausgesetzter, windiger Gipfel auf dem oberen Plateau des Tafelberg-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        18.417452,
+                        -33.971353
+                  ]
+            },
+            {
+                  "name": "Tafelberg (Maclears Bake)",
+                  "text": "Maclear's Beacon ist ein Gipfel auf dem Tafelberg, der im Dezember 1844 errichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        18.425555,
+                        -33.966832
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "Pulpit Rock ist ein natürlicher Aussichtspunkt auf dem ikonischen Tafelberg.",
+                  "category": "natural",
+                  "coords": [
+                        18.429516,
+                        -33.968547
+                  ]
+            },
+            {
+                  "name": "Waterworks Museum",
+                  "text": "Das Waterworks Museum auf dem Tafelberg zeigt die Geschichte der frühen Wasserversorgung Kapstadts.",
+                  "category": "museum",
+                  "coords": [
+                        18.407557,
+                        -33.974884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Woodhead Tunnel",
+                  "text": "Egy 19. századi történelmi vízalagút, amelyet a Tábla-hegy masszívumának homokkőjébe fúrtak.",
+                  "category": "historical",
+                  "coords": [
+                        18.389828,
+                        -33.982334
+                  ]
+            },
+            {
+                  "name": "World Cup Boulder",
+                  "text": "Jól ismert sziklamászó kihívás a Tábla-hegy természetvédelmi terület zord lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412437,
+                        -33.950168
+                  ]
+            },
+            {
+                  "name": "Tree Traverse Boulder",
+                  "text": "Különleges sziklamászó hely a Tábla-hegy lejtőin növő fák között.",
+                  "category": "landmark",
+                  "coords": [
+                        18.420709,
+                        -33.950938
+                  ]
+            },
+            {
+                  "name": "Low Seam Boulder",
+                  "text": "Mászószikla, amelyet kifejezetten alacsonyan elhelyezkedő fogásai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419707,
+                        -33.952912
+                  ]
+            },
+            {
+                  "name": "Big Block Boulder",
+                  "text": "Hatalmas, kiemelkedő sziklatömb, amely különféle mászóútvonalakat kínál a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41971,
+                        -33.954364
+                  ]
+            },
+            {
+                  "name": "River Boulder",
+                  "text": "Sziklamászó tömb a hegyvidéki terepen, egy vízfolyás közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418355,
+                        -33.955553
+                  ]
+            },
+            {
+                  "name": "Union Cave",
+                  "text": "A Tábla-hegy homokkő szikláiban megbúvó földalatti barlangbejárat.",
+                  "category": "natural",
+                  "coords": [
+                        18.410139,
+                        -33.956051
+                  ]
+            },
+            {
+                  "name": "Bright Lights Bouldering",
+                  "text": "Kijelölt sziklamászó terület a hegyvidéki rezervátum zord hátterével.",
+                  "category": "landmark",
+                  "coords": [
+                        18.410205,
+                        -33.952277
+                  ]
+            },
+            {
+                  "name": "Blinkwater Pinacle",
+                  "text": "Kiemelkedő homokkő torony, ahonnan drámai kilátás nyílik az Atlanti-óceán partvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        18.401489,
+                        -33.965359
+                  ]
+            },
+            {
+                  "name": "Junction Peak",
+                  "text": "Sziklás hegycsúcs a hegyi fennsík túraútvonalainak fontos kereszteződésénél.",
+                  "category": "natural",
+                  "coords": [
+                        18.415878,
+                        -33.973834
+                  ]
+            },
+            {
+                  "name": "Waaikoppie",
+                  "text": "Kitetett, szeles hegycsúcs a Tábla-hegy láncának felső fennsíkján.",
+                  "category": "natural",
+                  "coords": [
+                        18.417452,
+                        -33.971353
+                  ]
+            },
+            {
+                  "name": "Table Mountain (Maclear's beacon)",
+                  "text": "A Maclear's Beacon a Tábla-hegy egyik csúcsa, amelyet 1844 decemberében állítottak fel.",
+                  "category": "natural",
+                  "coords": [
+                        18.425555,
+                        -33.966832
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "A Pulpit Rock egy természetes kilátó a híres Tábla-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        18.429516,
+                        -33.968547
+                  ]
+            },
+            {
+                  "name": "Waterworks Museum",
+                  "text": "A Tábla-hegyen található Waterworks Museum Fokváros korai vízellátásának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.407557,
+                        -33.974884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Woodhead Tunnel",
+                  "text": "Un tunel de apă istoric din secolul al XIX-lea, săpat prin gresia masivului Muntelui Masa.",
+                  "category": "historical",
+                  "coords": [
+                        18.389828,
+                        -33.982334
+                  ]
+            },
+            {
+                  "name": "World Cup Boulder",
+                  "text": "O provocare cunoscută pentru bouldering pe pantele accidentate ale rezervației naturale Table Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412437,
+                        -33.950168
+                  ]
+            },
+            {
+                  "name": "Tree Traverse Boulder",
+                  "text": "Un loc specific pentru bouldering, situat printre copacii de pe pantele Muntelui Masa.",
+                  "category": "landmark",
+                  "coords": [
+                        18.420709,
+                        -33.950938
+                  ]
+            },
+            {
+                  "name": "Low Seam Boulder",
+                  "text": "O stâncă de escaladă caracterizată prin prizele sale distincte la nivel scăzut.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419707,
+                        -33.952912
+                  ]
+            },
+            {
+                  "name": "Big Block Boulder",
+                  "text": "Un bolovan masiv și proeminent care oferă diverse rute de bouldering în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41971,
+                        -33.954364
+                  ]
+            },
+            {
+                  "name": "River Boulder",
+                  "text": "O stâncă pentru bouldering situată lângă un curs de apă în terenul muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418355,
+                        -33.955553
+                  ]
+            },
+            {
+                  "name": "Union Cave",
+                  "text": "O intrare subterană ascunsă în stâncile de gresie ale Muntelui Masa.",
+                  "category": "natural",
+                  "coords": [
+                        18.410139,
+                        -33.956051
+                  ]
+            },
+            {
+                  "name": "Bright Lights Bouldering",
+                  "text": "O zonă desemnată pentru bouldering pe fundalul accidentat al rezervației montane.",
+                  "category": "landmark",
+                  "coords": [
+                        18.410205,
+                        -33.952277
+                  ]
+            },
+            {
+                  "name": "Blinkwater Pinacle",
+                  "text": "Un turn proeminent din gresie care oferă vederi dramatice asupra litoralului atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        18.401489,
+                        -33.965359
+                  ]
+            },
+            {
+                  "name": "Junction Peak",
+                  "text": "Un vârf stâncos situat la o intersecție cheie a traseelor de drumeție pe platoul montan.",
+                  "category": "natural",
+                  "coords": [
+                        18.415878,
+                        -33.973834
+                  ]
+            },
+            {
+                  "name": "Waaikoppie",
+                  "text": "Un vârf expus și bătut de vânturi, situat pe platoul superior al lanțului Table Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        18.417452,
+                        -33.971353
+                  ]
+            },
+            {
+                  "name": "Table Mountain (Maclear's beacon)",
+                  "text": "Maclear's Beacon este un vârf pe Muntele Masă, stabilit în decembrie 1844.",
+                  "category": "natural",
+                  "coords": [
+                        18.425555,
+                        -33.966832
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "Pulpit Rock este un punct de belvedere natural situat pe iconicul Munte Masă.",
+                  "category": "natural",
+                  "coords": [
+                        18.429516,
+                        -33.968547
+                  ]
+            },
+            {
+                  "name": "Waterworks Museum",
+                  "text": "Muzeul Waterworks de pe Muntele Masă prezintă istoria aprovizionării timpurii cu apă a orașului Cape Town.",
+                  "category": "museum",
+                  "coords": [
+                        18.407557,
+                        -33.974884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Woodhead Tunnel",
+                  "text": "An historic 19th-century water tunnel bored through the sandstone of the Table Mountain massif.",
+                  "category": "historical",
+                  "coords": [
+                        18.389828,
+                        -33.982334
+                  ]
+            },
+            {
+                  "name": "World Cup Boulder",
+                  "text": "A well-known bouldering challenge on the rugged slopes of the Table Mountain nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412437,
+                        -33.950168
+                  ]
+            },
+            {
+                  "name": "Tree Traverse Boulder",
+                  "text": "A specific bouldering spot located among the trees on the slopes of Table Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.420709,
+                        -33.950938
+                  ]
+            },
+            {
+                  "name": "Low Seam Boulder",
+                  "text": "A climbing rock characterized by its distinct low-level handholds.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419707,
+                        -33.952912
+                  ]
+            },
+            {
+                  "name": "Big Block Boulder",
+                  "text": "A massive, prominent boulder offering various bouldering routes in the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41971,
+                        -33.954364
+                  ]
+            },
+            {
+                  "name": "River Boulder",
+                  "text": "A bouldering rock situated near a watercourse in the mountainous terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418355,
+                        -33.955553
+                  ]
+            },
+            {
+                  "name": "Union Cave",
+                  "text": "A subterranean entrance hidden within the sandstone cliffs of Table Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        18.410139,
+                        -33.956051
+                  ]
+            },
+            {
+                  "name": "Bright Lights Bouldering",
+                  "text": "A designated bouldering area set against the rugged backdrop of the mountain reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        18.410205,
+                        -33.952277
+                  ]
+            },
+            {
+                  "name": "Blinkwater Pinacle",
+                  "text": "A prominent sandstone spire offering dramatic views over the Atlantic seaboard.",
+                  "category": "natural",
+                  "coords": [
+                        18.401489,
+                        -33.965359
+                  ]
+            },
+            {
+                  "name": "Junction Peak",
+                  "text": "A rocky summit situated at a key intersection of hiking routes on the mountain plateau.",
+                  "category": "natural",
+                  "coords": [
+                        18.415878,
+                        -33.973834
+                  ]
+            },
+            {
+                  "name": "Waaikoppie",
+                  "text": "An exposed, windy summit located on the upper plateau of the Table Mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        18.417452,
+                        -33.971353
+                  ]
+            },
+            {
+                  "name": "Table Mountain (Maclear's beacon)",
+                  "text": "Maclear's Beacon is a peak on Table Mountain established in December 1844.",
+                  "category": "natural",
+                  "coords": [
+                        18.425555,
+                        -33.966832
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "Pulpit Rock is a natural viewpoint situated on the iconic Table Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        18.429516,
+                        -33.968547
+                  ]
+            },
+            {
+                  "name": "Waterworks Museum",
+                  "text": "The Waterworks Museum on Table Mountain showcases the history of Cape Town's early water supply.",
+                  "category": "museum",
+                  "coords": [
+                        18.407557,
+                        -33.974884
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-WC",
     coords: [18.406, -33.963],
@@ -125,7 +683,196 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-st-lucia-nature-v2",
+    id: "lake-st-lucia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Lucia Park",
+                  "text": "Der St. Lucia Park ist ein vielfältiges Küstennaturschutzgebiet, das Feuchtgebietsökosysteme und eine reiche Tierwelt schützt.",
+                  "category": "natural",
+                  "coords": [
+                        32.436111,
+                        -28.068611
+                  ]
+            },
+            {
+                  "name": "Dead Tree Bay",
+                  "text": "Dead Tree Bay ist eine eindrucksvoll schöne Küstenbucht, die durch die skelettartigen Überreste alter Bäume in der Region Lake St. Lucia gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.47,
+                        -28.131111
+                  ]
+            },
+            {
+                  "name": "St. Lucia Wildreservaat",
+                  "text": "Das St. Lucia Wildreservaat ist ein geschütztes Wildnisgebiet, das komplexe Mündungshabitate und die lokale Fauna unterstützt.",
+                  "category": "natural",
+                  "coords": [
+                        32.481944,
+                        -28.010556
+                  ]
+            },
+            {
+                  "name": "kwaLokothwayo Lookout",
+                  "text": "Der Aussichtspunkt kwaLokothwayo Lookout bietet erhöhte und weitreichende Perspektiven über die reichen Feuchtgebiete des Lake St. Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        32.539691,
+                        -28.137692
+                  ]
+            },
+            {
+                  "name": "Cape Vidal",
+                  "text": "Cape Vidal ist ein unberührter Sandstrand, der sich zwischen den Küstendünen und dem warmen Indischen Ozean in der Nähe des Lake St. Lucia erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.559291,
+                        -28.129094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Lucia Park",
+                  "text": "A St. Lucia Park egy változatos tengerparti természetvédelmi terület, amely vizes élőhelyeket és gazdag vadvilágot óv.",
+                  "category": "natural",
+                  "coords": [
+                        32.436111,
+                        -28.068611
+                  ]
+            },
+            {
+                  "name": "Dead Tree Bay",
+                  "text": "A Dead Tree Bay egy kísértetiesen szép tengerparti öböl, amelyet a St. Lucia-tó régiójában lévő ősi fák csontvázszerű maradványai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.47,
+                        -28.131111
+                  ]
+            },
+            {
+                  "name": "St. Lucia Wildreservaat",
+                  "text": "A St. Lucia Wildreservaat egy védett vadon, amely összetett torkolati élőhelyeket és a helyi faunát támogatja.",
+                  "category": "natural",
+                  "coords": [
+                        32.481944,
+                        -28.010556
+                  ]
+            },
+            {
+                  "name": "kwaLokothwayo Lookout",
+                  "text": "A kwaLokothwayo Lookout egy magaslati kilátópont, amely tágas perspektívát nyújt a St. Lucia-tó gazdag vizes élőhelyeire.",
+                  "category": "natural",
+                  "coords": [
+                        32.539691,
+                        -28.137692
+                  ]
+            },
+            {
+                  "name": "Cape Vidal",
+                  "text": "A Cape Vidal egy érintetlen homokos strand, amely a partmenti dűnék és a meleg Indiai-óceán között fekszik a St. Lucia-tó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.559291,
+                        -28.129094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Lucia Park",
+                  "text": "Parcul St. Lucia este o rezervație naturală de coastă diversă, care protejează ecosistemele zonelor umede și o faună variată.",
+                  "category": "natural",
+                  "coords": [
+                        32.436111,
+                        -28.068611
+                  ]
+            },
+            {
+                  "name": "Dead Tree Bay",
+                  "text": "Dead Tree Bay este un golf de coastă de o frumusețe stranie, caracterizat prin resturile scheletice ale copacilor antici din regiunea Lacului St. Lucia.",
+                  "category": "landmark",
+                  "coords": [
+                        32.47,
+                        -28.131111
+                  ]
+            },
+            {
+                  "name": "St. Lucia Wildreservaat",
+                  "text": "St. Lucia Wildreservaat este o zonă de sălbăticie protejată, care susține habitate estuarine complexe și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        32.481944,
+                        -28.010556
+                  ]
+            },
+            {
+                  "name": "kwaLokothwayo Lookout",
+                  "text": "Punctul de belvedere kwaLokothwayo este un observator la înălțime, oferind perspective expansive asupra zonelor umede bogate ale Lacului St. Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        32.539691,
+                        -28.137692
+                  ]
+            },
+            {
+                  "name": "Cape Vidal",
+                  "text": "Cape Vidal este o plajă de nisip virgină, așezată între dunele de coastă și caldul Ocean Indian, lângă Lacul St. Lucia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.559291,
+                        -28.129094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Lucia Park",
+                  "text": "St. Lucia Park is a diverse coastal nature reserve safeguarding wetland ecosystems and abundant wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        32.436111,
+                        -28.068611
+                  ]
+            },
+            {
+                  "name": "Dead Tree Bay",
+                  "text": "Dead Tree Bay is a hauntingly beautiful coastal inlet characterized by the skeletal remains of ancient trees in the Lake St. Lucia region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.47,
+                        -28.131111
+                  ]
+            },
+            {
+                  "name": "St. Lucia Wildreservaat",
+                  "text": "St. Lucia Wildreservaat is a protected wilderness area supporting complex estuarine habitats and local fauna.",
+                  "category": "natural",
+                  "coords": [
+                        32.481944,
+                        -28.010556
+                  ]
+            },
+            {
+                  "name": "kwaLokothwayo Lookout",
+                  "text": "kwaLokothwayo Lookout is an elevated viewpoint offering expansive perspectives over the rich Lake St. Lucia wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        32.539691,
+                        -28.137692
+                  ]
+            },
+            {
+                  "name": "Cape Vidal",
+                  "text": "Cape Vidal is a pristine sandy beach nestled between coastal dunes and the warm Indian Ocean near Lake St. Lucia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.559291,
+                        -28.129094
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ZA-KZN",
     coords: [32.483, -28.083],
@@ -161,7 +908,88 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "kruger-forest-nature-v2",
+    id: "kruger-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nhlanganini Dam Viewpoint",
+                  "text": "Dieser ruhige Aussichtspunkt in der Kruger-Gegend blickt auf ein wichtiges Wasserloch, das oft von wilden Tieren aufgesucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        31.495142,
+                        -23.9333
+                  ]
+            },
+            {
+                  "name": "Krüger-Nationalpark",
+                  "text": "Dieses riesige Savannen-Naturschutzgebiet ist weltberühmt für seine vielfältige Tierwelt und beherbergt die berühmten Big Five.",
+                  "category": "natural",
+                  "coords": [
+                        31.485653,
+                        -24.016847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhlanganini Dam Viewpoint",
+                  "text": "Ez a csendes kilátó a Kruger területén egy létfontosságú itatóhelyre néz, amelyet gyakran látogat a helyi vadvilág.",
+                  "category": "natural",
+                  "coords": [
+                        31.495142,
+                        -23.9333
+                  ]
+            },
+            {
+                  "name": "Kruger National Park",
+                  "text": "A változatos vadvilágáról világszerte ismert, hatalmas szavannai természetvédelmi terület ad otthont a híres Nagy Ötösnek.",
+                  "category": "natural",
+                  "coords": [
+                        31.485653,
+                        -24.016847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhlanganini Dam Viewpoint",
+                  "text": "Acest punct de belvedere liniștit din zona Kruger are vedere la un ochi de apă vital frecventat de animalele sălbatice locale.",
+                  "category": "natural",
+                  "coords": [
+                        31.495142,
+                        -23.9333
+                  ]
+            },
+            {
+                  "name": "Parcul Național Kruger",
+                  "text": "Renumită în întreaga lume pentru diversitatea faunei sale sălbatice, această vastă rezervație naturală de savană găzduiește faimosul grup Big Five.",
+                  "category": "natural",
+                  "coords": [
+                        31.485653,
+                        -24.016847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nhlanganini Dam Viewpoint",
+                  "text": "This quiet viewpoint in the Kruger area overlooks a vital watering hole frequented by local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        31.495142,
+                        -23.9333
+                  ]
+            },
+            {
+                  "name": "Kruger National Park",
+                  "text": "World-renowned for its diverse wildlife, this vast savanna nature reserve is home to the famous Big Five.",
+                  "category": "natural",
+                  "coords": [
+                        31.485653,
+                        -24.016847
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ZA-LIM",
     coords: [31.5, -24.0],
@@ -233,7 +1061,160 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "cederberg-nature-v2",
+    id: "cederberg-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Die Bushman Paintings-Stätte bewahrt zarte Ockerpigmente, die von indigenen Jägern und Sammlern vor Jahrhunderten auf geschützten Felswänden hinterlassen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        19.184109,
+                        -32.42924
+                  ]
+            },
+            {
+                  "name": "Hoogvertoon",
+                  "text": "Hoogvertoon zeigt die abgelegenen Steinreste eines isolierten Bergbauernhofs, der langsam von der einheimischen Fynbos-Flora zurückerobert wird.",
+                  "category": "historical",
+                  "coords": [
+                        19.153605,
+                        -32.4712
+                  ]
+            },
+            {
+                  "name": "Waterfall viewpoint",
+                  "text": "Der Waterfall-Aussichtspunkt bietet eine beeindruckende Perspektive über eine steile Klippe, an der Bergbäche in die felsige Schlucht tief unten stürzen.",
+                  "category": "natural",
+                  "coords": [
+                        19.225371,
+                        -32.346961
+                  ]
+            },
+            {
+                  "name": "Cederberg Wilderness Area",
+                  "text": "Das Cederberg Wilderness Area ist ein riesiges Schutzgebiet, das für seine zerklüftete Sandsteintypografie und die seltenen Clanwilliam-Zedern bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.102296,
+                        -32.352571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "A Busman Festmények lelőhelye finom okker pigmenteket őriz, amelyeket az őslakos vadászó-gyűjtögetők hagytak évszázadokkal ezelőtt a védett sziklafalakon.",
+                  "category": "historical",
+                  "coords": [
+                        19.184109,
+                        -32.42924
+                  ]
+            },
+            {
+                  "name": "Hoogvertoon",
+                  "text": "A Hoogvertoon egy elszigetelt hegyi tanya távoli kőmaradványait mutatja be, amelyeket lassan visszahódít az őshonos fynbos flóra.",
+                  "category": "historical",
+                  "coords": [
+                        19.153605,
+                        -32.4712
+                  ]
+            },
+            {
+                  "name": "Waterfall viewpoint",
+                  "text": "A vízesés kilátópontja lenyűgöző perspektívát kínál egy meredek sziklára, ahol hegyi patakok zuhannak a mélyben lévő sziklás szurdokba.",
+                  "category": "natural",
+                  "coords": [
+                        19.225371,
+                        -32.346961
+                  ]
+            },
+            {
+                  "name": "Cederberg Wilderness Area",
+                  "text": "A Cederberg Vadon Terület egy hatalmas védett szentély, amely csipkézett homokkő domborzatáról és ritka Clanwilliam-cédrusairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.102296,
+                        -32.352571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Situl Picturilor Boșimanilor păstrează pigmenți delicați de ocru lăsați pe pereții de stâncă adăpostiți de vânătorii-culegători indigeni cu secole în urmă.",
+                  "category": "historical",
+                  "coords": [
+                        19.184109,
+                        -32.42924
+                  ]
+            },
+            {
+                  "name": "Hoogvertoon",
+                  "text": "Hoogvertoon prezintă rămășițele îndepărtate din piatră ale unei ferme montane izolate, revendicate încet de flora fynbos indigenă.",
+                  "category": "historical",
+                  "coords": [
+                        19.153605,
+                        -32.4712
+                  ]
+            },
+            {
+                  "name": "Waterfall viewpoint",
+                  "text": "Punctul de belvedere al cascadei oferă o perspectivă impunătoare deasupra unei stânci abrupte unde pâraiele de munte se prăbușesc în defileul stâncos mult dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        19.225371,
+                        -32.346961
+                  ]
+            },
+            {
+                  "name": "Cederberg Wilderness Area",
+                  "text": "Zona Sălbatică Cederberg este un vast sanctuar protejat, cunoscut pentru topografia sa accidentată din gresie și copacii rari de cedru Clanwilliam.",
+                  "category": "natural",
+                  "coords": [
+                        19.102296,
+                        -32.352571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "The Bushman Paintings site preserves delicate ochre pigments left on sheltered rock faces by indigenous hunter-gatherers centuries ago.",
+                  "category": "historical",
+                  "coords": [
+                        19.184109,
+                        -32.42924
+                  ]
+            },
+            {
+                  "name": "Hoogvertoon",
+                  "text": "Hoogvertoon features the remote stone remnants of an isolated mountain farmstead slowly being reclaimed by indigenous fynbos flora.",
+                  "category": "historical",
+                  "coords": [
+                        19.153605,
+                        -32.4712
+                  ]
+            },
+            {
+                  "name": "Waterfall viewpoint",
+                  "text": "The Waterfall viewpoint offers a commanding perspective over a sheer cliff where mountain streams plunge into the rocky gorge far below.",
+                  "category": "natural",
+                  "coords": [
+                        19.225371,
+                        -32.346961
+                  ]
+            },
+            {
+                  "name": "Cederberg Wilderness Area",
+                  "text": "The Cederberg Wilderness Area is a vast protected sanctuary known for its jagged sandstone typography and rare Clanwilliam cedar trees.",
+                  "category": "natural",
+                  "coords": [
+                        19.102296,
+                        -32.352571
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.166, -32.416],
@@ -341,7 +1322,232 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "olifants-river-nature-v2",
+    id: "olifants-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rabelais Museum",
+                  "text": "Ein kleines Museum, das die lokale Geschichte und Ökologie in der Nähe des Olifants-Flusses präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        31.468247,
+                        -24.465543
+                  ]
+            },
+            {
+                  "name": "N'wamatsatsa Waterhole Viewpoint",
+                  "text": "Ein Beobachtungsbereich mit Blick auf ein belebtes Wasserloch, das von Tieren in der Olifants-River-Region frequentiert wird.",
+                  "category": "natural",
+                  "coords": [
+                        31.458532,
+                        -24.479072
+                  ]
+            },
+            {
+                  "name": "Manyeletiwildtuin",
+                  "text": "Ein Wildreservat, das ungezäunte Grenzen mit dem Ökosystem des Greater Kruger teilt.",
+                  "category": "natural",
+                  "coords": [
+                        31.425556,
+                        -24.490556
+                  ]
+            },
+            {
+                  "name": "Rabelais Dam",
+                  "text": "Ein malerischer Aussichtspunkt an einer künstlichen Wasserquelle, die die einheimische Tierwelt in der Nähe des Olifants-Flusses anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        31.498397,
+                        -24.458865
+                  ]
+            },
+            {
+                  "name": "Mahlabyanini Waterhole Viewpoint",
+                  "text": "Ein ausgewiesener Platz, um durstige Tiere zu beobachten, die sich in der Nähe des Olifants-River-Ökosystems versammeln.",
+                  "category": "natural",
+                  "coords": [
+                        31.515036,
+                        -24.585517
+                  ]
+            },
+            {
+                  "name": "Nasionale Krugerwildtuin",
+                  "text": "Der riesige südafrikanische Nationalpark, der weltweit für seine Big Five und vielfältigen Buschland-Ökosysteme bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.463611,
+                        -24.532778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rabelais Museum",
+                  "text": "Kis múzeum, amely a helyi történelmet és ökológiát mutatja be az Olifants folyó közelében.",
+                  "category": "museum",
+                  "coords": [
+                        31.468247,
+                        -24.465543
+                  ]
+            },
+            {
+                  "name": "N'wamatsatsa Waterhole Viewpoint",
+                  "text": "Megfigyelőterület, ahonnan az Olifants folyó régiójában az állatok által sűrűn látogatott forgalmas itatóhelyre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        31.458532,
+                        -24.479072
+                  ]
+            },
+            {
+                  "name": "Manyeletiwildtuin",
+                  "text": "Vadrezervátum, amely kerítés nélküli határokon osztozik a Nagy Kruger ökoszisztémával.",
+                  "category": "natural",
+                  "coords": [
+                        31.425556,
+                        -24.490556
+                  ]
+            },
+            {
+                  "name": "Rabelais Dam",
+                  "text": "Festői kilátó egy mesterséges vízforrásnál, amely vonzza a helyi vadvilágot az Olifants folyó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        31.498397,
+                        -24.458865
+                  ]
+            },
+            {
+                  "name": "Mahlabyanini Waterhole Viewpoint",
+                  "text": "Kijelölt hely, ahol a szomjas állatok gyülekezését lehet megfigyelni az Olifants folyó ökoszisztémájának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        31.515036,
+                        -24.585517
+                  ]
+            },
+            {
+                  "name": "Nasionale Krugerwildtuin",
+                  "text": "A hatalmas dél-afrikai nemzeti park, amely világszerte ismert a Big Five-ról és a változatos bozótos ökoszisztémákról.",
+                  "category": "natural",
+                  "coords": [
+                        31.463611,
+                        -24.532778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rabelais Museum",
+                  "text": "Un mic muzeu care prezintă istoria locală și ecologia în apropierea râului Olifants.",
+                  "category": "museum",
+                  "coords": [
+                        31.468247,
+                        -24.465543
+                  ]
+            },
+            {
+                  "name": "N'wamatsatsa Waterhole Viewpoint",
+                  "text": "O zonă de observare cu vedere la un punct de adăpare aglomerat, frecventat de animale în regiunea râului Olifants.",
+                  "category": "natural",
+                  "coords": [
+                        31.458532,
+                        -24.479072
+                  ]
+            },
+            {
+                  "name": "Manyeletiwildtuin",
+                  "text": "O rezervație de animale sălbatice care împarte granițe neîmprejmuite cu ecosistemul Greater Kruger.",
+                  "category": "natural",
+                  "coords": [
+                        31.425556,
+                        -24.490556
+                  ]
+            },
+            {
+                  "name": "Rabelais Dam",
+                  "text": "Un punct de belvedere pitoresc la o sursă de apă artificială care atrage viața sălbatică locală lângă râul Olifants.",
+                  "category": "natural",
+                  "coords": [
+                        31.498397,
+                        -24.458865
+                  ]
+            },
+            {
+                  "name": "Mahlabyanini Waterhole Viewpoint",
+                  "text": "Un loc dedicat pentru a privi animalele însetate care se adună lângă ecosistemul râului Olifants.",
+                  "category": "natural",
+                  "coords": [
+                        31.515036,
+                        -24.585517
+                  ]
+            },
+            {
+                  "name": "Nasionale Krugerwildtuin",
+                  "text": "Vasta rezervație națională sud-africană cunoscută la nivel global pentru Big Five și diversele ecosisteme de savană.",
+                  "category": "natural",
+                  "coords": [
+                        31.463611,
+                        -24.532778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rabelais Museum",
+                  "text": "A small museum showcasing the local history and ecology near the Olifants River.",
+                  "category": "museum",
+                  "coords": [
+                        31.468247,
+                        -24.465543
+                  ]
+            },
+            {
+                  "name": "N'wamatsatsa Waterhole Viewpoint",
+                  "text": "An observation area overlooking a busy waterhole frequented by animals in the Olifants River region.",
+                  "category": "natural",
+                  "coords": [
+                        31.458532,
+                        -24.479072
+                  ]
+            },
+            {
+                  "name": "Manyeletiwildtuin",
+                  "text": "A game reserve sharing unfenced borders with the Greater Kruger ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        31.425556,
+                        -24.490556
+                  ]
+            },
+            {
+                  "name": "Rabelais Dam",
+                  "text": "A scenic overlook at a man-made water source that attracts local wildlife near the Olifants River.",
+                  "category": "natural",
+                  "coords": [
+                        31.498397,
+                        -24.458865
+                  ]
+            },
+            {
+                  "name": "Mahlabyanini Waterhole Viewpoint",
+                  "text": "A dedicated spot for watching thirsty animals gather near the Olifants River ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        31.515036,
+                        -24.585517
+                  ]
+            },
+            {
+                  "name": "Nasionale Krugerwildtuin",
+                  "text": "The vast South African national park known globally for its Big Five and diverse bushveld ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        31.463611,
+                        -24.532778
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZA-LIM",
     coords: [31.5, -24.5],
@@ -377,7 +1583,232 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "robben-island-nature-v2",
+    id: "robben-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prison of Robert Sobukwe",
+                  "text": "Das Gefängnis von Robert Sobukwe auf Robben Island ist die isolierte Hütte, in der der Anti-Apartheid-Führer gefangen gehalten wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376459,
+                        -33.80381
+                  ]
+            },
+            {
+                  "name": "Reception office",
+                  "text": "Das Empfangsbüro von Robben Island diente als erster Registrierungspunkt für ankommende politische Gefangene.",
+                  "category": "landmark",
+                  "coords": [
+                        18.372535,
+                        -33.79983
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Eden on the Bay)",
+                  "text": "Der gelbe Rahmen bei Eden on the Bay bietet ein perfekt eingerahmtes Fotomotiv mit dem Tafelberg im Hintergrund.",
+                  "category": "landmark",
+                  "coords": [
+                        18.456717,
+                        -33.791849
+                  ]
+            },
+            {
+                  "name": "Garrison Church",
+                  "text": "Die Garrison Church auf Robben Island ist ein anglikanisches Gotteshaus aus dem Jahr 1841.",
+                  "category": "religious",
+                  "coords": [
+                        18.378882,
+                        -33.811099
+                  ]
+            },
+            {
+                  "name": "Robben Island Prison",
+                  "text": "Das Hochsicherheitsgefängnis auf Robben Island ist heute ein Museum, das an die Geschichte der Apartheid erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        18.371242,
+                        -33.800129
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "Die Church of the Good Shepherd ist eine kleine Steinkirche auf Robben Island, die im Jahr 1895 von Leprakranken erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376665,
+                        -33.805559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prison of Robert Sobukwe",
+                  "text": "Robert Sobukwe börtöne a Robben-szigeten az az elszigetelt kunyhó, ahol az apartheidellenes vezetőt fogva tartották.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376459,
+                        -33.80381
+                  ]
+            },
+            {
+                  "name": "Reception office",
+                  "text": "A Robben-szigeti fogadóiroda szolgált az érkező politikai foglyok első regisztrációs pontjaként.",
+                  "category": "landmark",
+                  "coords": [
+                        18.372535,
+                        -33.79983
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Eden on the Bay)",
+                  "text": "Az Eden on the Bay-nél található sárga keret tökéletes fotózási lehetőséget kínál a Tábla-heggyel a háttérben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.456717,
+                        -33.791849
+                  ]
+            },
+            {
+                  "name": "Garrison Church",
+                  "text": "A Robben-szigeti helyőrségi templom egy anglikán istentiszteleti hely, amely 1841-ben épült.",
+                  "category": "religious",
+                  "coords": [
+                        18.378882,
+                        -33.811099
+                  ]
+            },
+            {
+                  "name": "Robben szigeti börtön",
+                  "text": "A Robben-szigeti szigorúan őrzött börtön ma múzeum, amely az apartheid történetére emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        18.371242,
+                        -33.800129
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "A Jó Pásztor-templom egy kis kőtemplom a Robben-szigeten, amelyet 1895-ben leprások építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376665,
+                        -33.805559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prison of Robert Sobukwe",
+                  "text": "Închisoarea lui Robert Sobukwe de pe Insula Robben este cabana izolată unde a fost ținut prizonier liderul anti-apartheid.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376459,
+                        -33.80381
+                  ]
+            },
+            {
+                  "name": "Reception office",
+                  "text": "Biroul de recepție de pe Insula Robben a servit drept primul punct de înregistrare pentru deținuții politici care soseau.",
+                  "category": "landmark",
+                  "coords": [
+                        18.372535,
+                        -33.79983
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Eden on the Bay)",
+                  "text": "Rama galbenă de la Eden on the Bay oferă un cadru foto perfect, cu Muntele Masă pe fundal.",
+                  "category": "landmark",
+                  "coords": [
+                        18.456717,
+                        -33.791849
+                  ]
+            },
+            {
+                  "name": "Garrison Church",
+                  "text": "Biserica de garnizoană de pe Insula Robben este un lăcaș de cult anglican construit în anul 1841.",
+                  "category": "religious",
+                  "coords": [
+                        18.378882,
+                        -33.811099
+                  ]
+            },
+            {
+                  "name": "Robben Island Prison",
+                  "text": "Închisoarea de maximă securitate de pe Insula Robben este acum un muzeu care comemorează istoria apartheidului.",
+                  "category": "museum",
+                  "coords": [
+                        18.371242,
+                        -33.800129
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "Biserica Bunului Păstor este o mică biserică de piatră de pe Insula Robben, construită în 1895.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376665,
+                        -33.805559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prison of Robert Sobukwe",
+                  "text": "The Prison of Robert Sobukwe on Robben Island is the isolated solitary confinement house where the anti-apartheid leader was held.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376459,
+                        -33.80381
+                  ]
+            },
+            {
+                  "name": "Reception office",
+                  "text": "The reception office of Robben Island served as the initial processing point for incoming political prisoners.",
+                  "category": "landmark",
+                  "coords": [
+                        18.372535,
+                        -33.79983
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Eden on the Bay)",
+                  "text": "The yellow frame at Eden on the Bay provides a perfectly composed photo opportunity with Table Mountain in the backdrop.",
+                  "category": "landmark",
+                  "coords": [
+                        18.456717,
+                        -33.791849
+                  ]
+            },
+            {
+                  "name": "Garrison Church",
+                  "text": "The Garrison Church on Robben Island is an Anglican place of worship dating back to 1841.",
+                  "category": "religious",
+                  "coords": [
+                        18.378882,
+                        -33.811099
+                  ]
+            },
+            {
+                  "name": "Robben Island Prison",
+                  "text": "The maximum-security Robben Island Prison now serves as a museum chronicling South Africa's apartheid history.",
+                  "category": "museum",
+                  "coords": [
+                        18.371242,
+                        -33.800129
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "The Church of the Good Shepherd is a small stone chapel on Robben Island completed in 1895.",
+                  "category": "landmark",
+                  "coords": [
+                        18.376665,
+                        -33.805559
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ZA-WC",
     coords: [18.36, -33.80],
@@ -413,7 +1844,124 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "tugela-falls-nature-v2",
+    id: "tugela-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Devil's Tooth",
+                  "text": "Ein spitzer Felsnadelgipfel, der regionalen Kletterern gewaltige Herausforderungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.931355,
+                        -28.760682
+                  ]
+            },
+            {
+                  "name": "Mount Amery",
+                  "text": "Ein imposanter Berggipfel, der markant in der dramatischen natürlichen Hochgebirgslandschaft steht.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.77043
+                  ]
+            },
+            {
+                  "name": "Thukela Falls",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf einen der höchsten stürzenden Wasserfälle der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        28.894411,
+                        -28.752553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Devil's Tooth",
+                  "text": "Hegyes sziklatorony csúcs, amely félelmetes kihívásokat tartogat a regionális hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.931355,
+                        -28.760682
+                  ]
+            },
+            {
+                  "name": "Mount Amery",
+                  "text": "Impozáns hegycsúcs, amely kiemelkedően magasodik a drámai természetes magaslati tájban.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.77043
+                  ]
+            },
+            {
+                  "name": "Thukela Falls",
+                  "text": "Festői kilátó, ahonnan a világ egyik legmagasabb zuhatagára nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        28.894411,
+                        -28.752553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Devil's Tooth",
+                  "text": "Un vârf ascuțit sub formă de turlă de stâncă, care oferă provocări formidabile alpiniștilor regionali.",
+                  "category": "natural",
+                  "coords": [
+                        28.931355,
+                        -28.760682
+                  ]
+            },
+            {
+                  "name": "Mount Amery",
+                  "text": "Un vârf de munte impunător, situat proeminent în peisajul natural dramatic de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.77043
+                  ]
+            },
+            {
+                  "name": "Thukela Falls",
+                  "text": "Un punct de belvedere pitoresc cu vedere la una dintre cascadele cu cea mai mare cădere din lume.",
+                  "category": "natural",
+                  "coords": [
+                        28.894411,
+                        -28.752553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Devil's Tooth",
+                  "text": "A sharply pointed rock spire peak offering formidable challenges to regional climbers.",
+                  "category": "natural",
+                  "coords": [
+                        28.931355,
+                        -28.760682
+                  ]
+            },
+            {
+                  "name": "Mount Amery",
+                  "text": "An imposing mountain peak standing prominently within the dramatic natural high-altitude landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.77043
+                  ]
+            },
+            {
+                  "name": "Thukela Falls",
+                  "text": "A scenic viewpoint overlooking one of the highest plunging waterfalls in the world.",
+                  "category": "natural",
+                  "coords": [
+                        28.894411,
+                        -28.752553
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZA-KZN",
     coords: [28.89, -28.75],
@@ -521,7 +2069,412 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "tsitsikamma-forest-nature-v2",
+    id: "tsitsikamma-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Storms River Bridge Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick auf die dramatische Schlucht in Tsitsikamma und die ikonische Betonbogenbrücke.",
+                  "category": "natural",
+                  "coords": [
+                        23.931027,
+                        -33.96758
+                  ]
+            },
+            {
+                  "name": "Skuitbaai",
+                  "text": "Eine raue Küstenbucht in Tsitsikamma, wo die mächtigen Meereswellen gegen die felsige südafrikanische Küste brechen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.839323,
+                        -34.017078
+                  ]
+            },
+            {
+                  "name": "Bloubaai Lookout",
+                  "text": "Diese erhöhte Küsten-Aussichtsplattform in Tsitsikamma bietet Besuchern einen klaren Blick auf das tiefblaue Wasser in der Bucht darunter.",
+                  "category": "natural",
+                  "coords": [
+                        23.798897,
+                        -34.008576
+                  ]
+            },
+            {
+                  "name": "Leeukop",
+                  "text": "Ein markanter Berggipfel, der steil aus der Tsitsikamma-Landschaft aufragt und anspruchsvolle Wanderungen sowie Panoramablicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.962771,
+                        -33.952579
+                  ]
+            },
+            {
+                  "name": "Canyon",
+                  "text": "Ein dramatischer Aussichtspunkt in Tsitsikamma, an dem Besucher direkt in die steil abfallende, bewaldete, vom Fluss in den Fels geschnittene Schlucht blicken können.",
+                  "category": "natural",
+                  "coords": [
+                        23.931685,
+                        -33.968581
+                  ]
+            },
+            {
+                  "name": "Daeraad se Baai",
+                  "text": "Eine abgelegene, felsige Bucht an der Tsitsikamma-Küste, bekannt für ihre dynamischen Gezeitentümpel und die tosende Brandung.",
+                  "category": "landmark",
+                  "coords": [
+                        23.980117,
+                        -34.034871
+                  ]
+            },
+            {
+                  "name": "Soetbaai",
+                  "text": "Diese Küsteneinbuchtung liegt am rauen Ufer von Tsitsikamma und ist von üppigem Küsten-Fynbos und steilen Klippen umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.952778,
+                        -34.03032
+                  ]
+            },
+            {
+                  "name": "Grootbaai",
+                  "text": "Diese breite, weitläufige Bucht an der Tsitsikamma-Küste gibt den Blick auf weite Strecken unruhigen Meerwassers frei, hinter denen sich hohe Küstenberge erheben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.939874,
+                        -34.027886
+                  ]
+            },
+            {
+                  "name": "Agulhas lookout point",
+                  "text": "Ein zerklüftetes Felskap in Tsitsikamma, das eine windgepeitschte Aussichtsplattform über den chaotischen Meeresströmungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.892242,
+                        -34.02353
+                  ]
+            },
+            {
+                  "name": "Toorbaai",
+                  "text": "Ein malerischer Abschnitt der Tsitsikamma-Küste, der sich durch tief eingeschnittene felsige Buchten und eine Aura abgelegener Wildnis auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.871464,
+                        -34.020808
+                  ]
+            },
+            {
+                  "name": "Driftwood Bay",
+                  "text": "Ein Küstenstrand in Tsitsikamma, an dem die raue See beeindruckende Ansammlungen von gebleichtem Treibholz und maritimem Treibgut anspült.",
+                  "category": "recreational",
+                  "coords": [
+                        23.899405,
+                        -34.021228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Storms River Bridge Viewpoint",
+                  "text": "A Tsitsikamma drámai szurdokára néző kilátópont széles kilátást nyújt az ikonikus beton ívhídra.",
+                  "category": "natural",
+                  "coords": [
+                        23.931027,
+                        -33.96758
+                  ]
+            },
+            {
+                  "name": "Skuitbaai",
+                  "text": "Egy zord tengerparti öböl Tsitsikammában, ahol az óceán hatalmas hullámai a sziklás dél-afrikai partoknak csapódnak.",
+                  "category": "landmark",
+                  "coords": [
+                        23.839323,
+                        -34.017078
+                  ]
+            },
+            {
+                  "name": "Bloubaai Lookout",
+                  "text": "Ez a megemelt parti kilátóterasz Tsitsikammában tiszta kilátást nyújt a látogatóknak az alatta lévő öböl mélykék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        23.798897,
+                        -34.008576
+                  ]
+            },
+            {
+                  "name": "Leeukop",
+                  "text": "A Tsitsikamma tájából meredeken kiemelkedő, markáns hegycsúcs kihívást jelentő túrákat és panorámás kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        23.962771,
+                        -33.952579
+                  ]
+            },
+            {
+                  "name": "Canyon",
+                  "text": "Drámai kilátópont Tsitsikammában, ahonnan a látogatók közvetlenül a folyó által kivájt meredek falú, erdős szurdokba tekinthetnek le.",
+                  "category": "natural",
+                  "coords": [
+                        23.931685,
+                        -33.968581
+                  ]
+            },
+            {
+                  "name": "Daeraad se Baai",
+                  "text": "Félreeső, sziklás öböl a Tsitsikamma partvidéken, amely dinamikus árapály-medencéiről és dübörgő hullámairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.980117,
+                        -34.034871
+                  ]
+            },
+            {
+                  "name": "Soetbaai",
+                  "text": "A zord Tsitsikamma partvidéken elhelyezkedő tengerparti bemélyedést buja parti fynbos növényzet és meredek sziklák veszik körül.",
+                  "category": "landmark",
+                  "coords": [
+                        23.952778,
+                        -34.03032
+                  ]
+            },
+            {
+                  "name": "Grootbaai",
+                  "text": "Ez a széles, kiterjedt öböl a Tsitsikamma partvonal mentén, viharos óceánvíz hatalmas szakaszait fedi fel, amelyet tornyosuló partmenti hegyek szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        23.939874,
+                        -34.027886
+                  ]
+            },
+            {
+                  "name": "Agulhas lookout point",
+                  "text": "Egy csipkézett sziklás hegyfok Tsitsikammában, amely szélfútta kilátóteraszt nyújt a kaotikus óceáni áramlatok felett.",
+                  "category": "natural",
+                  "coords": [
+                        23.892242,
+                        -34.02353
+                  ]
+            },
+            {
+                  "name": "Toorbaai",
+                  "text": "A Tsitsikamma partvonalának festői szakasza, amelyet mélyen bevágott sziklás öblök és a távoli vadon aurája jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        23.871464,
+                        -34.020808
+                  ]
+            },
+            {
+                  "name": "Driftwood Bay",
+                  "text": "Tengerparti szakasz Tsitsikammában, ahol a viharos tenger a kifehéredett uszadékfa és tengeri törmelék lenyűgöző felhalmozódásait mossa partra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.899405,
+                        -34.021228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Storms River Bridge Viewpoint",
+                  "text": "Cu vedere spre defileul dramatic din Tsitsikamma, acest punct de belvedere oferă panorame ample ale emblematicei punți cu arc din beton.",
+                  "category": "natural",
+                  "coords": [
+                        23.931027,
+                        -33.96758
+                  ]
+            },
+            {
+                  "name": "Skuitbaai",
+                  "text": "Un golf de coastă accidentat din Tsitsikamma, unde valurile puternice ale oceanului se izbesc de țărmul stâncos sud-african.",
+                  "category": "landmark",
+                  "coords": [
+                        23.839323,
+                        -34.017078
+                  ]
+            },
+            {
+                  "name": "Bloubaai Lookout",
+                  "text": "Această punte de observație de coastă înălțată din Tsitsikamma oferă vizitatorilor o vedere clară asupra apelor de un albastru profund din golful de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        23.798897,
+                        -34.008576
+                  ]
+            },
+            {
+                  "name": "Leeukop",
+                  "text": "Un vârf de munte proeminent care se înalță abrupt din peisajul Tsitsikamma, oferind drumeții provocatoare și vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        23.962771,
+                        -33.952579
+                  ]
+            },
+            {
+                  "name": "Canyon",
+                  "text": "Un punct de belvedere dramatic în Tsitsikamma, unde vizitatorii pot privi direct în jos în defileul împădurit cu laturi abrupte, sculptat de râu.",
+                  "category": "natural",
+                  "coords": [
+                        23.931685,
+                        -33.968581
+                  ]
+            },
+            {
+                  "name": "Daeraad se Baai",
+                  "text": "O golfuleț stâncos retras de pe coasta Tsitsikamma, cunoscut pentru bazinele sale dinamice cu maree și valurile care se izbesc.",
+                  "category": "landmark",
+                  "coords": [
+                        23.980117,
+                        -34.034871
+                  ]
+            },
+            {
+                  "name": "Soetbaai",
+                  "text": "Situată de-a lungul țărmului accidentat din Tsitsikamma, această indentare a coastei este înconjurată de un fynbos de coastă luxuriant și stânci abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        23.952778,
+                        -34.03032
+                  ]
+            },
+            {
+                  "name": "Grootbaai",
+                  "text": "Acest golf larg și expansiv de-a lungul coastei Tsitsikamma expune întinderi vaste de apă oceanică tulbure, susținute de munți de coastă falnici.",
+                  "category": "landmark",
+                  "coords": [
+                        23.939874,
+                        -34.027886
+                  ]
+            },
+            {
+                  "name": "Agulhas lookout point",
+                  "text": "Un promontoriu stâncos zimțat din Tsitsikamma, care oferă o platformă de vizionare bătută de vânt peste curenții haotici ai oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        23.892242,
+                        -34.02353
+                  ]
+            },
+            {
+                  "name": "Toorbaai",
+                  "text": "O întindere pitorească a țărmului Tsitsikamma, caracterizată de golfuri stâncoase adânc gravate și o aură de sălbăticie îndepărtată.",
+                  "category": "landmark",
+                  "coords": [
+                        23.871464,
+                        -34.020808
+                  ]
+            },
+            {
+                  "name": "Driftwood Bay",
+                  "text": "O zonă de plajă de pe coasta Tsitsikamma unde mările agitate aruncă la țărm acumulări impresionante de lemn de derivă albit și resturi maritime.",
+                  "category": "recreational",
+                  "coords": [
+                        23.899405,
+                        -34.021228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Storms River Bridge Viewpoint",
+                  "text": "Overlooking the dramatic gorge in Tsitsikamma, this vantage point provides sweeping vistas of the iconic concrete arch bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.931027,
+                        -33.96758
+                  ]
+            },
+            {
+                  "name": "Skuitbaai",
+                  "text": "A rugged coastal bay in Tsitsikamma where the powerful ocean waves crash against the rocky South African shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        23.839323,
+                        -34.017078
+                  ]
+            },
+            {
+                  "name": "Bloubaai Lookout",
+                  "text": "This elevated coastal viewing deck in Tsitsikamma affords visitors a clear view of the deep blue waters in the bay below.",
+                  "category": "natural",
+                  "coords": [
+                        23.798897,
+                        -34.008576
+                  ]
+            },
+            {
+                  "name": "Leeukop",
+                  "text": "A prominent mountain peak rising steeply from the Tsitsikamma landscape, offering challenging hikes and panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        23.962771,
+                        -33.952579
+                  ]
+            },
+            {
+                  "name": "Canyon",
+                  "text": "A dramatic viewpoint in Tsitsikamma where visitors can look directly down into the steep-sided, forested gorge carved by the river.",
+                  "category": "natural",
+                  "coords": [
+                        23.931685,
+                        -33.968581
+                  ]
+            },
+            {
+                  "name": "Daeraad se Baai",
+                  "text": "A secluded rocky inlet on the Tsitsikamma coast, known for its dynamic tide pools and crashing surf.",
+                  "category": "landmark",
+                  "coords": [
+                        23.980117,
+                        -34.034871
+                  ]
+            },
+            {
+                  "name": "Soetbaai",
+                  "text": "Set along the rugged Tsitsikamma shore, this coastal indentation is surrounded by lush coastal fynbos and steep cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        23.952778,
+                        -34.03032
+                  ]
+            },
+            {
+                  "name": "Grootbaai",
+                  "text": "This wide, expansive bay along the Tsitsikamma coastline exposes vast stretches of turbulent ocean water backed by towering coastal mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.939874,
+                        -34.027886
+                  ]
+            },
+            {
+                  "name": "Spikes",
+                  "text": "A jagged rocky promontory in Tsitsikamma offering a windswept viewing platform over the chaotic ocean currents.",
+                  "category": "natural",
+                  "coords": [
+                        23.892242,
+                        -34.02353
+                  ]
+            },
+            {
+                  "name": "Toorbaai",
+                  "text": "A picturesque stretch of the Tsitsikamma shoreline, characterized by deeply etched rocky coves and an aura of remote wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        23.871464,
+                        -34.020808
+                  ]
+            },
+            {
+                  "name": "Driftwood Bay",
+                  "text": "A coastal beach area in Tsitsikamma where rough seas wash up impressive accumulations of bleached driftwood and maritime debris.",
+                  "category": "recreational",
+                  "coords": [
+                        23.899405,
+                        -34.021228
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ZA-EC",
     coords: [23.9, -34.0],
@@ -557,7 +2510,232 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "swartberg-nature-v2",
+    id: "swartberg-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teeberg",
+                  "text": "Teeberg ist ein malerischer Aussichtspunkt im Naturschutzgebiet, von dem aus man die zerklüfteten Schluchten der Swartberge überblicken kann.",
+                  "category": "natural",
+                  "coords": [
+                        22.043108,
+                        -33.328896
+                  ]
+            },
+            {
+                  "name": "Waboomsberg",
+                  "text": "Der Waboomsberg ist ein felsiger Gipfel, dessen Hänge von der für diese Bergregion typischen Protea-Vegetation geprägt sind.",
+                  "category": "natural",
+                  "coords": [
+                        21.9958,
+                        -33.355
+                  ]
+            },
+            {
+                  "name": "Die Top",
+                  "text": "Die Top ist ein hochgelegener Aussichtspunkt, der spektakuläre Panoramablicke über die weiten Täler der Swartberge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.046183,
+                        -33.352154
+                  ]
+            },
+            {
+                  "name": "Skelmdraai",
+                  "text": "Skelmdraai ist ein markanter Aussichtspunkt an einer engen Kurve, wo die Bergstraße tiefe Blicke in die Schlucht gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        22.065615,
+                        -33.363663
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "Der Rock Pool ist ein natürliches Felsenbecken, dessen kühles Bergwasser nach einer Wanderung im Swartberg-Gebiet erfrischt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.057221,
+                        -33.373474
+                  ]
+            },
+            {
+                  "name": "Waterval",
+                  "text": "Der Waterval stürzt über die steilen Felsen der Swartberge in die Tiefe und formt dabei ein malerisches Naturschauspiel.",
+                  "category": "landmark",
+                  "coords": [
+                        22.051492,
+                        -33.372999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teeberg",
+                  "text": "A Teeberg egy festői kilátó a természetvédelmi területen, ahonnan belátni a Swartberg-hegység sziklás szurdokait.",
+                  "category": "natural",
+                  "coords": [
+                        22.043108,
+                        -33.328896
+                  ]
+            },
+            {
+                  "name": "Waboomsberg",
+                  "text": "A Waboomsberg egy sziklás hegycsúcs, amelynek lejtőit a hegyvidékre jellemző próteafélék borítják.",
+                  "category": "natural",
+                  "coords": [
+                        21.9958,
+                        -33.355
+                  ]
+            },
+            {
+                  "name": "Die Top",
+                  "text": "A Die Top egy magasan fekvő kilátó, amely látványos panorámát nyújt a Swartberg-hegység tágas völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        22.046183,
+                        -33.352154
+                  ]
+            },
+            {
+                  "name": "Skelmdraai",
+                  "text": "A Skelmdraai egy jellegzetes kilátó egy szűk kanyarban, ahonnan a hegyi út mentén mélyen be lehet látni a szurdokba.",
+                  "category": "natural",
+                  "coords": [
+                        22.065615,
+                        -33.363663
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "A Rock Pool egy természetes sziklamedence, amelynek hűvös hegyi vize felfrissülést nyújt a Swartberg-régióban tett túra után.",
+                  "category": "landmark",
+                  "coords": [
+                        22.057221,
+                        -33.373474
+                  ]
+            },
+            {
+                  "name": "Waterval",
+                  "text": "A Waterval a Swartberg-hegység meredek szikláin zuhan a mélybe, festői természeti látványosságot alkotva.",
+                  "category": "landmark",
+                  "coords": [
+                        22.051492,
+                        -33.372999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teeberg",
+                  "text": "Teeberg este un punct de belvedere pitoresc din rezervația naturală, de unde se pot admira cheile abrupte ale munților Swartberg.",
+                  "category": "natural",
+                  "coords": [
+                        22.043108,
+                        -33.328896
+                  ]
+            },
+            {
+                  "name": "Waboomsberg",
+                  "text": "Waboomsberg este un vârf stâncos, ale cărui pante sunt caracterizate de vegetația de protea specifică acestei regiuni montane.",
+                  "category": "natural",
+                  "coords": [
+                        21.9958,
+                        -33.355
+                  ]
+            },
+            {
+                  "name": "Die Top",
+                  "text": "Die Top este un punct de belvedere situat la mare altitudine, care oferă vederi panoramice spectaculoase asupra văilor vaste din Munții Swartberg.",
+                  "category": "natural",
+                  "coords": [
+                        22.046183,
+                        -33.352154
+                  ]
+            },
+            {
+                  "name": "Skelmdraai",
+                  "text": "Skelmdraai este un punct de belvedere la o curbă strânsă, de unde drumul montan oferă perspective adânci în defileu.",
+                  "category": "natural",
+                  "coords": [
+                        22.065615,
+                        -33.363663
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "Rock Pool este un bazin natural din stâncă, a cărui apă proaspătă de munte oferă răcorire după o drumeție în Munții Swartberg.",
+                  "category": "landmark",
+                  "coords": [
+                        22.057221,
+                        -33.373474
+                  ]
+            },
+            {
+                  "name": "Waterval",
+                  "text": "Cascada Waterval se prăvălește peste stâncile abrupte ale munților Swartberg, creând un peisaj natural pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        22.051492,
+                        -33.372999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teeberg",
+                  "text": "Teeberg is a scenic viewpoint in the nature reserve, looking out over the rugged ravines of the Swartberg mountains.",
+                  "category": "natural",
+                  "coords": [
+                        22.043108,
+                        -33.328896
+                  ]
+            },
+            {
+                  "name": "Waboomsberg",
+                  "text": "Waboomsberg is a rocky peak whose slopes are characterised by the protea vegetation typical of this mountainous region.",
+                  "category": "natural",
+                  "coords": [
+                        21.9958,
+                        -33.355
+                  ]
+            },
+            {
+                  "name": "Die Top",
+                  "text": "Die Top is a high-altitude viewpoint that offers spectacular panoramic views across the vast valleys of the Swartberg mountains.",
+                  "category": "natural",
+                  "coords": [
+                        22.046183,
+                        -33.352154
+                  ]
+            },
+            {
+                  "name": "Skelmdraai",
+                  "text": "Skelmdraai is a distinctive viewpoint on a tight bend where the mountain pass offers deep views into the gorge below.",
+                  "category": "natural",
+                  "coords": [
+                        22.065615,
+                        -33.363663
+                  ]
+            },
+            {
+                  "name": "Rock Pool",
+                  "text": "Rock Pool is a natural rocky basin filled with cool mountain water, offering a refreshing dip after hiking in the Swartberg area.",
+                  "category": "landmark",
+                  "coords": [
+                        22.057221,
+                        -33.373474
+                  ]
+            },
+            {
+                  "name": "Waterval",
+                  "text": "The Waterval tumbles over the steep cliffs of the Swartberg mountains, creating a picturesque natural cascade.",
+                  "category": "landmark",
+                  "coords": [
+                        22.051492,
+                        -33.372999
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-WC",
     coords: [22.0, -33.3],
@@ -593,7 +2771,124 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "breede-river-nature-v2",
+    id: "breede-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo Pools",
+                  "text": "Am Breede River gelegen, bieten die Hippo Pools einen sandigen Strandabschnitt am Flussufer, der für sein ruhiges Wasser und die lokale Tierwelt bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.512211,
+                        -34.478064
+                  ]
+            },
+            {
+                  "name": "De Hoop Nature Reserve",
+                  "text": "Das Naturreservat De Hoop ist berühmt für seine massiven weißen Sanddünen sowie eine reiche Unterwasserwelt und gilt als erstklassiges Ziel für Walbeobachtungen vom Land aus.",
+                  "category": "natural",
+                  "coords": [
+                        20.558,
+                        -34.436459
+                  ]
+            },
+            {
+                  "name": "Hasekraal Private Nature Reserve",
+                  "text": "Das 1998 gegründete private Naturschutzgebiet Hasekraal schützt Gebiete mit einheimischer Küstenflora entlang der ruhigen Umgebung des Breede River.",
+                  "category": "natural",
+                  "coords": [
+                        20.449633,
+                        -34.356027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo Pools",
+                  "text": "A Breede-folyó mentén fekvő Hippo Pools egy homokos folyóparti strand, amely nyugodt vizéről és helyi vadvilágáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.512211,
+                        -34.478064
+                  ]
+            },
+            {
+                  "name": "De Hoop Nature Reserve",
+                  "text": "A hatalmas fehér homokdűnéiről és gazdag tengeri élővilágáról híres De Hoop Természetvédelmi Terület elsőrangú szárazföldi bálnaleső helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        20.558,
+                        -34.436459
+                  ]
+            },
+            {
+                  "name": "Hasekraal Private Nature Reserve",
+                  "text": "Az 1998-ban alapított Hasekraal Magán Természetvédelmi Terület az őshonos tengerparti flórát védi a nyugodt Breede-folyó környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        20.449633,
+                        -34.356027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo Pools",
+                  "text": "Situate de-a lungul râului Breede, Hippo Pools oferă o plajă nisipoasă pe malul râului, cunoscută pentru apele sale calme și fauna locală.",
+                  "category": "recreational",
+                  "coords": [
+                        20.512211,
+                        -34.478064
+                  ]
+            },
+            {
+                  "name": "De Hoop Nature Reserve",
+                  "text": "Faimoasă pentru dunele sale masive de nisip alb și viața marină bogată, Rezervația Naturală De Hoop este o destinație de top pentru observarea balenelor de pe uscat.",
+                  "category": "natural",
+                  "coords": [
+                        20.558,
+                        -34.436459
+                  ]
+            },
+            {
+                  "name": "Hasekraal Private Nature Reserve",
+                  "text": "Înființată în 1998, Rezervația Naturală Privată Hasekraal protejează suprafețe de floră de coastă nativă alături de mediul senin al râului Breede.",
+                  "category": "natural",
+                  "coords": [
+                        20.449633,
+                        -34.356027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo Pools",
+                  "text": "Set along the Breede River, the Hippo Pools offer a sandy riverside beach spot known for its calm waters and local wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        20.512211,
+                        -34.478064
+                  ]
+            },
+            {
+                  "name": "De Hoop Nature Reserve",
+                  "text": "Famous for its massive white sand dunes and rich marine life, De Hoop Nature Reserve is a premier land-based whale-watching destination.",
+                  "category": "natural",
+                  "coords": [
+                        20.558,
+                        -34.436459
+                  ]
+            },
+            {
+                  "name": "Hasekraal Private Nature Reserve",
+                  "text": "Established in 1998, the Hasekraal Private Nature Reserve protects tracts of native coastal flora alongside the serene Breede River environment.",
+                  "category": "natural",
+                  "coords": [
+                        20.449633,
+                        -34.356027
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZA-WC",
     coords: [20.5, -34.4],
@@ -629,7 +2924,340 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "blyde-river-canyon-nature-v2",
+    id: "blyde-river-canyon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mariepskop",
+                  "text": "Dieser markante Gipfel, der den Blyde River Canyon überragt, verfügt über Radaranlagen und eine vielfältige Bergflora.",
+                  "category": "natural",
+                  "coords": [
+                        30.871433,
+                        -24.538979
+                  ]
+            },
+            {
+                  "name": "Three Rondavels Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen spektakulären Blick auf drei riesige Felsformationen, die wie traditionelle afrikanische Hütten geformt sind.",
+                  "category": "natural",
+                  "coords": [
+                        30.798912,
+                        -24.573747
+                  ]
+            },
+            {
+                  "name": "Drie Rondawels Lookout",
+                  "text": "Dieser Aussichtspunkt am Rande des Blyde River Canyon ist direkt auf die berühmten hüttenartigen Gipfel ausgerichtet.",
+                  "category": "natural",
+                  "coords": [
+                        30.798729,
+                        -24.572135
+                  ]
+            },
+            {
+                  "name": "World's End Viewpoint",
+                  "text": "Dieser dramatische Aussichtspunkt entlang des Blyde River Canyon offenbart eine weite, endlos scheinende Schluchtenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        30.785027,
+                        -24.569297
+                  ]
+            },
+            {
+                  "name": "Unterer Aussichtspunkt",
+                  "text": "Diese tiefer gelegene Aussichtsplattform im Blyde River Canyon ermöglicht es Besuchern, direkt in das tiefe Flusstal hinabzublicken.",
+                  "category": "natural",
+                  "coords": [
+                        30.784072,
+                        -24.573551
+                  ]
+            },
+            {
+                  "name": "Mogologolo",
+                  "text": "Mogologolo ist ein schroffer Berggipfel, der zur dramatischen Quarzittopographie des Blyde River Canyon Gebiets beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        30.7408,
+                        -24.4592
+                  ]
+            },
+            {
+                  "name": "24 Degrees South",
+                  "text": "Diese lebhafte Landgut-Attraktion in der Nähe des Blyde River Canyon bietet eine Oldtimersammlung und Handwerksbetriebe.",
+                  "category": "landmark",
+                  "coords": [
+                        30.87939,
+                        -24.468166
+                  ]
+            },
+            {
+                  "name": "Blyde Nature Reserve",
+                  "text": "Dieses riesige Naturschutzgebiet schützt die spektakulären grünen Canyons und Wasserfälle entlang des Blyde River.",
+                  "category": "natural",
+                  "coords": [
+                        30.795,
+                        -24.460556
+                  ]
+            },
+            {
+                  "name": "Canyon Game Reserve",
+                  "text": "Dieses Naturschutzgebiet in der malerischen Region des Blyde River Canyon bietet Safaris durch raues, bergiges Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        30.78035,
+                        -24.448057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mariepskop",
+                  "text": "A Blyde River-kanyon fölé magasodó, kiemelkedő csúcsokon radarlétesítmények és változatos hegyi növényvilág található.",
+                  "category": "natural",
+                  "coords": [
+                        30.871433,
+                        -24.538979
+                  ]
+            },
+            {
+                  "name": "Three Rondavels Viewpoint",
+                  "text": "Ez a kilátó látványos rálátást nyújt a három, hagyományos afrikai kunyhó alakú kolosszális sziklaképződményre.",
+                  "category": "natural",
+                  "coords": [
+                        30.798912,
+                        -24.573747
+                  ]
+            },
+            {
+                  "name": "Drie Rondawels Lookout",
+                  "text": "A Blyde River-kanyon szélén álló kilátó egyenesen a híres kunyhószerű csúcsok felé néz.",
+                  "category": "natural",
+                  "coords": [
+                        30.798729,
+                        -24.572135
+                  ]
+            },
+            {
+                  "name": "World's End Viewpoint",
+                  "text": "A Blyde River-kanyon mentén található drámai kilátó egy hatalmas, végtelennek tűnő szurdokvidéket tár elénk.",
+                  "category": "natural",
+                  "coords": [
+                        30.785027,
+                        -24.569297
+                  ]
+            },
+            {
+                  "name": "Lower Viewpoint",
+                  "text": "A Blyde River-kanyon ezen alsó kilátóterasza lehetővé teszi a látogatók számára, hogy egyenesen letekintsenek a mély folyóvölgybe.",
+                  "category": "natural",
+                  "coords": [
+                        30.784072,
+                        -24.573551
+                  ]
+            },
+            {
+                  "name": "Mogologolo",
+                  "text": "A Mogologolo egy zord hegycsúcs, amely tovább növeli a Blyde River-kanyon területének drámai kvarcit topográfiáját.",
+                  "category": "natural",
+                  "coords": [
+                        30.7408,
+                        -24.4592
+                  ]
+            },
+            {
+                  "name": "24 Degrees South",
+                  "text": "Ez a Blyde River-kanyon melletti nyüzsgő vidéki birtok egy klasszikus autókalandot és kézműves boltokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        30.87939,
+                        -24.468166
+                  ]
+            },
+            {
+                  "name": "Blyde Nature Reserve",
+                  "text": "Ez a hatalmas természetvédelmi terület megvédi a Blyde-folyó menti látványos zöld kanyonokat és vízeséseket.",
+                  "category": "natural",
+                  "coords": [
+                        30.795,
+                        -24.460556
+                  ]
+            },
+            {
+                  "name": "Canyon Game Reserve",
+                  "text": "A festői Blyde River-kanyon régióban található természetvédelmi terület szafarikat kínál egyenetlen, hegyvidéki terepen.",
+                  "category": "natural",
+                  "coords": [
+                        30.78035,
+                        -24.448057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mariepskop",
+                  "text": "Dominând Canionul Râului Blyde, acest vârf proeminent are instalații radar și o floră montană diversă.",
+                  "category": "natural",
+                  "coords": [
+                        30.871433,
+                        -24.538979
+                  ]
+            },
+            {
+                  "name": "Three Rondavels Viewpoint",
+                  "text": "Acest punct de belvedere oferă o priveliște spectaculoasă a trei formațiuni de rocă colosale, în formă de colibe tradiționale africane.",
+                  "category": "natural",
+                  "coords": [
+                        30.798912,
+                        -24.573747
+                  ]
+            },
+            {
+                  "name": "Drie Rondawels Lookout",
+                  "text": "Cocoțat pe marginea Canionului Râului Blyde, acest punct de observație este îndreptat direct către faimoasele vârfuri asemănătoare unor colibe.",
+                  "category": "natural",
+                  "coords": [
+                        30.798729,
+                        -24.572135
+                  ]
+            },
+            {
+                  "name": "World's End Viewpoint",
+                  "text": "Situat de-a lungul Canionului Râului Blyde, acest punct de belvedere dramatic dezvăluie un peisaj vast, aparent nesfârșit.",
+                  "category": "natural",
+                  "coords": [
+                        30.785027,
+                        -24.569297
+                  ]
+            },
+            {
+                  "name": "Lower Viewpoint",
+                  "text": "Această punte de observație inferioară din Canionul Râului Blyde permite vizitatorilor să privească direct în valea adâncă a râului.",
+                  "category": "natural",
+                  "coords": [
+                        30.784072,
+                        -24.573551
+                  ]
+            },
+            {
+                  "name": "Mogologolo",
+                  "text": "Mogologolo este un vârf de munte accidentat care se adaugă la topografia cuarțitică dramatică a zonei Canionului Râului Blyde.",
+                  "category": "natural",
+                  "coords": [
+                        30.7408,
+                        -24.4592
+                  ]
+            },
+            {
+                  "name": "24 Degrees South",
+                  "text": "Această atracție vibrantă a unei proprietăți de la țară, situată lângă Canionul Râului Blyde, are o colecție de mașini clasice și magazine artizanale.",
+                  "category": "landmark",
+                  "coords": [
+                        30.87939,
+                        -24.468166
+                  ]
+            },
+            {
+                  "name": "Blyde Nature Reserve",
+                  "text": "Această vastă rezervație naturală protejează spectaculoasele canioane verzi și cascade de-a lungul râului Blyde.",
+                  "category": "natural",
+                  "coords": [
+                        30.795,
+                        -24.460556
+                  ]
+            },
+            {
+                  "name": "Canyon Game Reserve",
+                  "text": "Situată în regiunea pitorească a Canionului Râului Blyde, această rezervație naturală oferă safari prin terenuri accidentate, muntoase.",
+                  "category": "natural",
+                  "coords": [
+                        30.78035,
+                        -24.448057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mariepskop",
+                  "text": "Towering over the Blyde River Canyon, this prominent peak features radar installations and diverse mountain flora.",
+                  "category": "natural",
+                  "coords": [
+                        30.871433,
+                        -24.538979
+                  ]
+            },
+            {
+                  "name": "Three Rondavels Viewpoint",
+                  "text": "This viewpoint provides spectacular sights of three colossal rock formations shaped like traditional African huts.",
+                  "category": "natural",
+                  "coords": [
+                        30.798912,
+                        -24.573747
+                  ]
+            },
+            {
+                  "name": "Drie Rondawels Lookout",
+                  "text": "Perched on the edge of the Blyde River Canyon, this lookout points directly toward the famous hut-like peaks.",
+                  "category": "natural",
+                  "coords": [
+                        30.798729,
+                        -24.572135
+                  ]
+            },
+            {
+                  "name": "World's End Viewpoint",
+                  "text": "Located along the Blyde River Canyon, this dramatic viewpoint reveals a vast, seemingly endless gorge landscape.",
+                  "category": "natural",
+                  "coords": [
+                        30.785027,
+                        -24.569297
+                  ]
+            },
+            {
+                  "name": "Lower Viewpoint",
+                  "text": "This lower observation deck in the Blyde River Canyon allows visitors to gaze straight down into the deep river valley.",
+                  "category": "natural",
+                  "coords": [
+                        30.784072,
+                        -24.573551
+                  ]
+            },
+            {
+                  "name": "Mogologolo",
+                  "text": "Mogologolo is a rugged mountain peak that adds to the dramatic quartzite topography of the Blyde River Canyon area.",
+                  "category": "natural",
+                  "coords": [
+                        30.7408,
+                        -24.4592
+                  ]
+            },
+            {
+                  "name": "24 Degrees South",
+                  "text": "This vibrant country estate attraction near the Blyde River Canyon features a classic car collection and artisan shops.",
+                  "category": "landmark",
+                  "coords": [
+                        30.87939,
+                        -24.468166
+                  ]
+            },
+            {
+                  "name": "Blyde Nature Reserve",
+                  "text": "This vast nature reserve protects the spectacular green canyons and waterfalls along the Blyde River.",
+                  "category": "natural",
+                  "coords": [
+                        30.795,
+                        -24.460556
+                  ]
+            },
+            {
+                  "name": "Canyon Game Reserve",
+                  "text": "Set in the scenic Blyde River Canyon region, this nature reserve offers safaris through rugged, mountainous terrain.",
+                  "category": "natural",
+                  "coords": [
+                        30.78035,
+                        -24.448057
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZA-MP",
     coords: [30.8, -24.5],
@@ -665,7 +3293,592 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "knysna-forest-nature-v2",
+    id: "knysna-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goudveld Forest Main Entrance",
+                  "text": "Dieses Tor bietet den Hauptzugang zu den dichten, historischen Goudveld-Wäldern, die für ihre hoch aufragenden einheimischen Bäume und alten Goldminen bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        22.95557,
+                        -33.928789
+                  ]
+            },
+            {
+                  "name": "Knysna Waterfront",
+                  "text": "Dieses belebte Hafenviertel liegt direkt am Ufer der weitläufigen Lagune von Knysna und bietet einen lebhaften Jachthafen, Restaurants und Boutiquen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.045064,
+                        -34.041295
+                  ]
+            },
+            {
+                  "name": "Margaret's Viewpoint",
+                  "text": "Dieser hoch über der Stadt gelegene beliebte Aussichtspunkt bietet einen weiten Blick über die Knysna-Mündung bis hin zu den berühmten Heads.",
+                  "category": "natural",
+                  "coords": [
+                        22.990372,
+                        -34.05309
+                  ]
+            },
+            {
+                  "name": "Benton on Sea View point",
+                  "text": "Dieser Aussichtspunkt mit Blick auf die Küste des Indischen Ozeans bietet einen atemberaubenden Blick auf die weiten Sandstrände und rollenden Wellen von Brenton-on-Sea.",
+                  "category": "natural",
+                  "coords": [
+                        22.99764,
+                        -34.059786
+                  ]
+            },
+            {
+                  "name": "The Motorcycle Room",
+                  "text": "Dieses spezialisierte Museum zeigt eine einzigartige Sammlung von Oldtimer-, Custom- und klassischen Motorrädern und zelebriert die Geschichte des Zweiradsports.",
+                  "category": "museum",
+                  "coords": [
+                        23.048187,
+                        -34.047948
+                  ]
+            },
+            {
+                  "name": "Belvidere Manor Houseroad",
+                  "text": "Die historische Gasse führt durch ein malerisches Anwesen, das sich durch seine Architektur im Kolonialstil des 19. Jahrhunderts und seine ruhigen Gärten mit Blick auf die Lagune auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.99783,
+                        -34.046848
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "Auf diesem lebhaften Wochenmarkt im Freien versammeln sich lokale Kunsthandwerker und Bauern, um frische regionale Produkte, Kunsthandwerk und Streetfood zu verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.020574,
+                        -34.033493
+                  ]
+            },
+            {
+                  "name": "Lelievlei Nature Reserve",
+                  "text": "Dieses Reservat schützt einen unberührten Abschnitt einheimischer Fynbos- und Waldlebensräume und bietet ruhige Wanderwege für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        23.041667,
+                        -33.925
+                  ]
+            },
+            {
+                  "name": "Greetenboom Naturewalk",
+                  "text": "Dieser malerische Waldweg schlängelt sich durch uralte Gelbholzbäume und dichtes Unterholz und ermöglicht es den Besuchern, die üppige Küstenökologie der Region zu erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.054343,
+                        -33.945082
+                  ]
+            },
+            {
+                  "name": "Brenton Blue Butterfly Nature Reserve",
+                  "text": "Dieses spezielle Schutzgebiet wurde eingerichtet, um den gefährdeten Brenton-Bläuling und seinen wichtigen Lebensraum im Fynbos an der Küste zu schützen.",
+                  "category": "natural",
+                  "coords": [
+                        23.031557,
+                        -34.072406
+                  ]
+            },
+            {
+                  "name": "Westford Bridge Private Nature Reserve",
+                  "text": "Dieses im Februar 2000 gegründete, privat geführte Schutzgebiet schützt die empfindliche Ufervegetation an den Ufern des Knysna-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        22.981189,
+                        -34.023478
+                  ]
+            },
+            {
+                  "name": "Pledge Nature Reserve",
+                  "text": "Dieses städtische Reservat erstreckt sich über ein grünes Tal mitten im Herzen von Knysna und bietet einen friedlichen Zufluchtsort mit einheimischer Flora und gewundenen Bächen.",
+                  "category": "natural",
+                  "coords": [
+                        23.043763,
+                        -34.031202
+                  ]
+            },
+            {
+                  "name": "Featherbed Tours",
+                  "text": "Diese geführten Öko-Ausflüge bieten einen exklusiven Boots- und Fußgängerzugang über die Lagune von Knysna zum unberührten Naturschutzgebiet am Western Head.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040887,
+                        -34.039165
+                  ]
+            },
+            {
+                  "name": "Skuilte Private Nature Reserve",
+                  "text": "Dieses private Naturschutzgebiet aus dem Dezember 1981 schützt ein abgeschiedenes Stück einheimischen südafrikanischen Küstenwaldes und Fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        23.033119,
+                        -34.0606
+                  ]
+            },
+            {
+                  "name": "Featherbed Private Nature Reserve",
+                  "text": "Dieses spektakuläre Küstenreservat wurde im September 1985 offiziell am Western Head von Knysna gegründet und bietet schroffe Sandsteinklippen und unberührte Milkwood-Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        23.053455,
+                        -34.077915
+                  ]
+            },
+            {
+                  "name": "Eastford Private Nature Reserve",
+                  "text": "Dieses im September 1997 gegründete, ruhige Öko-Anwesen verbindet das Wohnen mit der Erhaltung ausgedehnter fynbosbewachsener Hügel mit Blick auf die Mündung des Knysna.",
+                  "category": "natural",
+                  "coords": [
+                        23.016537,
+                        -34.018996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goudveld Forest Main Entrance",
+                  "text": "Ez a kapu biztosítja a fő bejáratot a sűrű, történelmi Goudveld-erdőkbe, amelyek magasba törő őshonos fáikról és régi aranybányáikról ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        22.95557,
+                        -33.928789
+                  ]
+            },
+            {
+                  "name": "Knysna Waterfront",
+                  "text": "A hatalmas Knysna-lagúna partján fekvő nyüzsgő rakparti negyedben élénk kikötő, éttermek és butikok találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        23.045064,
+                        -34.041295
+                  ]
+            },
+            {
+                  "name": "Margaret's Viewpoint",
+                  "text": "A város felett magasodó népszerű kilátóhelyről tágas panoráma nyílik a Knysna-tölcsértorkolatra és a híres Heads sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        22.990372,
+                        -34.05309
+                  ]
+            },
+            {
+                  "name": "Benton on Sea View point",
+                  "text": "Az Indiai-óceán partvidékére néző kilátópontról lenyűgöző kilátás nyílik Brenton-on-Sea kanyargós homokos strandjaira és hullámaira.",
+                  "category": "natural",
+                  "coords": [
+                        22.99764,
+                        -34.059786
+                  ]
+            },
+            {
+                  "name": "The Motorcycle Room",
+                  "text": "Ez a különleges múzeum a veterán, egyedi építésű és klasszikus motorkerékpárok egyedülálló gyűjteményét mutatja be, a kétkerekű autózás történetét ünnepelve.",
+                  "category": "museum",
+                  "coords": [
+                        23.048187,
+                        -34.047948
+                  ]
+            },
+            {
+                  "name": "Belvidere Manor Houseroad",
+                  "text": "A történelmi sáv egy festői birtokon vezet keresztül, amelyet a 19. századi gyarmati stílusú építészet és a lagúnára néző nyugodt kertek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        22.99783,
+                        -34.046848
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "A hetente megrendezett, nyüzsgő szabadtéri piacon helyi kézművesek és gazdák gyűlnek össze, hogy friss regionális termékeket, kézműves tárgyakat és utcai ételeket áruljanak.",
+                  "category": "landmark",
+                  "coords": [
+                        23.020574,
+                        -34.033493
+                  ]
+            },
+            {
+                  "name": "Lelievlei Nature Reserve",
+                  "text": "Az őshonos fynbos és erdei élőhelyek érintetlen részét védő rezervátum nyugodt sétautakat kínál a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.041667,
+                        -33.925
+                  ]
+            },
+            {
+                  "name": "Greetenboom Naturewalk",
+                  "text": "Ez a festői erdei ösvény ősi sárgafák és sűrű aljnövényzet között kanyarog, lehetővé téve a látogatók számára, hogy megtapasztalják a régió buja parti ökológiáját.",
+                  "category": "landmark",
+                  "coords": [
+                        23.054343,
+                        -33.945082
+                  ]
+            },
+            {
+                  "name": "Brenton Blue Butterfly Nature Reserve",
+                  "text": "Ezt a különleges természetvédelmi területet a veszélyeztetett Brenton Blue pillangó és a tengerparti fynbos élőhelyének védelmére hozták létre.",
+                  "category": "natural",
+                  "coords": [
+                        23.031557,
+                        -34.072406
+                  ]
+            },
+            {
+                  "name": "Westford Bridge Private Nature Reserve",
+                  "text": "A 2000 februárjában létrehozott, magánkézben lévő menedékhely a Knysna-folyó partja mentén található érzékeny folyóparti növényzetet védi.",
+                  "category": "natural",
+                  "coords": [
+                        22.981189,
+                        -34.023478
+                  ]
+            },
+            {
+                  "name": "Pledge Nature Reserve",
+                  "text": "A Knysna szívében egy zöldellő völgyet felölelő városi rezervátum békés menedéket nyújt őshonos növényvilágával és kanyargós patakjaival.",
+                  "category": "natural",
+                  "coords": [
+                        23.043763,
+                        -34.031202
+                  ]
+            },
+            {
+                  "name": "Featherbed Tours",
+                  "text": "Ezek a vezetett ökokirándulások exkluzív hajós és gyalogos hozzáférést biztosítanak a Knysna-lagúnán keresztül a Western Head érintetlen természetvédelmi területéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040887,
+                        -34.039165
+                  ]
+            },
+            {
+                  "name": "Skuilte Private Nature Reserve",
+                  "text": "Az 1981 decemberéig visszanyúló magán természetvédelmi terület az őshonos dél-afrikai part menti erdők és a fynbos egy eldugott szakaszát védi.",
+                  "category": "natural",
+                  "coords": [
+                        23.033119,
+                        -34.0606
+                  ]
+            },
+            {
+                  "name": "Featherbed Private Nature Reserve",
+                  "text": "A hivatalosan 1985 szeptemberében a Knysna nyugati fokán (Western Head) létrehozott látványos part menti rezervátumban zord homokkősziklák és érintetlen tejfaerdők találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        23.053455,
+                        -34.077915
+                  ]
+            },
+            {
+                  "name": "Eastford Private Nature Reserve",
+                  "text": "Az 1997 szeptemberében létrehozott csendes ökológiai birtok a lakhatást a Knysna-torkolatra néző, hatalmas fynbos borította dombok megőrzésével ötvözi.",
+                  "category": "natural",
+                  "coords": [
+                        23.016537,
+                        -34.018996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goudveld Forest Main Entrance",
+                  "text": "Această poartă oferă acces principal la pădurile dense și istorice Goudveld, cunoscute pentru arborii indigeni impunători și vechile situri de exploatare a aurului.",
+                  "category": "landmark",
+                  "coords": [
+                        22.95557,
+                        -33.928789
+                  ]
+            },
+            {
+                  "name": "Knysna Waterfront",
+                  "text": "Situată direct pe malurile vastei lagune Knysna, această zonă portuară plină de viață găzduiește un port de agrement animat, restaurante și magazine de tip boutique.",
+                  "category": "landmark",
+                  "coords": [
+                        23.045064,
+                        -34.041295
+                  ]
+            },
+            {
+                  "name": "Margaret's Viewpoint",
+                  "text": "Cocoțat deasupra orașului, acest punct de observație popular oferă o perspectivă largă asupra estuarului Knysna și către celebrele formațiuni stâncoase Heads.",
+                  "category": "natural",
+                  "coords": [
+                        22.990372,
+                        -34.05309
+                  ]
+            },
+            {
+                  "name": "Benton on Sea View point",
+                  "text": "Având vedere la coasta Oceanului Indian, acest punct de observație oferă priveliști uimitoare ale plajelor largi de nisip și ale valurilor de la Brenton-on-Sea.",
+                  "category": "natural",
+                  "coords": [
+                        22.99764,
+                        -34.059786
+                  ]
+            },
+            {
+                  "name": "The Motorcycle Room",
+                  "text": "Acest muzeu specializat prezintă o colecție unică de motociclete de epocă, personalizate și clasice, celebrând istoria automobilismului pe două roți.",
+                  "category": "museum",
+                  "coords": [
+                        23.048187,
+                        -34.047948
+                  ]
+            },
+            {
+                  "name": "Belvidere Manor Houseroad",
+                  "text": "Această alee istorică duce printr-o proprietate pitorească caracterizată de arhitectura sa în stil colonial din secolul al XIX-lea și de grădinile liniștite cu vedere la lagună.",
+                  "category": "landmark",
+                  "coords": [
+                        22.99783,
+                        -34.046848
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "Funcționând săptămânal, această piață vibrantă în aer liber adună artizani și fermieri locali pentru a vinde produse regionale proaspete, obiecte de artizanat și mâncare stradală.",
+                  "category": "landmark",
+                  "coords": [
+                        23.020574,
+                        -34.033493
+                  ]
+            },
+            {
+                  "name": "Lelievlei Nature Reserve",
+                  "text": "Protejând o secțiune curată a habitatelor indigene de fynbos și pădure, această rezervație oferă cărări liniștite de mers pe jos pentru pasionații de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.041667,
+                        -33.925
+                  ]
+            },
+            {
+                  "name": "Greetenboom Naturewalk",
+                  "text": "Acest traseu forestier pitoresc șerpuiește printre copaci antici de lemn galben și tufișuri dense, permițând vizitatorilor să experimenteze ecologia luxuriantă a coastei regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        23.054343,
+                        -33.945082
+                  ]
+            },
+            {
+                  "name": "Brenton Blue Butterfly Nature Reserve",
+                  "text": "Această zonă specializată de conservare a fost înființată pentru a proteja fluturele Brenton Blue pe cale de dispariție și habitatul său critic de fynbos de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        23.031557,
+                        -34.072406
+                  ]
+            },
+            {
+                  "name": "Westford Bridge Private Nature Reserve",
+                  "text": "Înființat în februarie 2000, acest sanctuar administrat privat protejează vegetația riverană sensibilă de-a lungul malurilor râului Knysna.",
+                  "category": "natural",
+                  "coords": [
+                        22.981189,
+                        -34.023478
+                  ]
+            },
+            {
+                  "name": "Pledge Nature Reserve",
+                  "text": "Acoperind o vale înverzită chiar în inima orașului Knysna, această rezervație urbană oferă un refugiu liniștit cu floră nativă și pâraie șerpuitoare.",
+                  "category": "natural",
+                  "coords": [
+                        23.043763,
+                        -34.031202
+                  ]
+            },
+            {
+                  "name": "Featherbed Tours",
+                  "text": "Aceste eco-excursii ghidate oferă acces exclusiv cu barca și pe jos prin lagunele Knysna către rezervația naturală curată de pe Western Head.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040887,
+                        -34.039165
+                  ]
+            },
+            {
+                  "name": "Skuilte Private Nature Reserve",
+                  "text": "Datând din decembrie 1981, această zonă privată de conservare protejează o porțiune retrasă a pădurii de coastă și a fynbos-ului indigen din Africa de Sud.",
+                  "category": "natural",
+                  "coords": [
+                        23.033119,
+                        -34.0606
+                  ]
+            },
+            {
+                  "name": "Featherbed Private Nature Reserve",
+                  "text": "Înființată oficial în septembrie 1985 pe promontoriul vestic din Knysna, această rezervație de coastă spectaculoasă prezintă stânci accidentate de gresie și păduri de coastă imaculate.",
+                  "category": "natural",
+                  "coords": [
+                        23.053455,
+                        -34.077915
+                  ]
+            },
+            {
+                  "name": "Eastford Private Nature Reserve",
+                  "text": "Creată în septembrie 1997, această proprietate ecologică liniștită îmbină locuințele rezidențiale cu conservarea dealurilor întinse acoperite de fynbos, cu vedere la estuarul Knysna.",
+                  "category": "natural",
+                  "coords": [
+                        23.016537,
+                        -34.018996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goudveld Forest Main Entrance",
+                  "text": "This gateway provides primary access to the dense, historic Goudveld timberlands, known for their towering indigenous trees and old gold mining sites.",
+                  "category": "landmark",
+                  "coords": [
+                        22.95557,
+                        -33.928789
+                  ]
+            },
+            {
+                  "name": "Knysna Waterfront",
+                  "text": "Situated directly on the shores of the expansive Knysna Lagoon, this bustling quayside precinct features a lively marina, restaurants, and boutique shops.",
+                  "category": "landmark",
+                  "coords": [
+                        23.045064,
+                        -34.041295
+                  ]
+            },
+            {
+                  "name": "Margaret's Viewpoint",
+                  "text": "Perched above the town, this popular observation spot provides expansive vistas across the Knysna estuary and out towards the famous Heads.",
+                  "category": "natural",
+                  "coords": [
+                        22.990372,
+                        -34.05309
+                  ]
+            },
+            {
+                  "name": "Benton on Sea View point",
+                  "text": "Overlooking the Indian Ocean coastline, this vantage point offers stunning views of the sweeping sandy beaches and rolling waves of Brenton-on-Sea.",
+                  "category": "natural",
+                  "coords": [
+                        22.99764,
+                        -34.059786
+                  ]
+            },
+            {
+                  "name": "The Motorcycle Room",
+                  "text": "This specialized museum showcases a unique collection of vintage, custom, and classic motorcycles, celebrating the history of two-wheeled motoring.",
+                  "category": "museum",
+                  "coords": [
+                        23.048187,
+                        -34.047948
+                  ]
+            },
+            {
+                  "name": "Belvidere Manor Houseroad",
+                  "text": "The historic lane leads through a picturesque estate characterized by its 19th-century colonial-style architecture and tranquil gardens overlooking the lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        22.99783,
+                        -34.046848
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "Operating weekly, this vibrant outdoor market gathers local artisans and farmers to sell fresh regional produce, crafts, and street food.",
+                  "category": "landmark",
+                  "coords": [
+                        23.020574,
+                        -34.033493
+                  ]
+            },
+            {
+                  "name": "Lelievlei Nature Reserve",
+                  "text": "Protecting a pristine section of indigenous fynbos and forest habitats, this reserve offers tranquil walking paths for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        23.041667,
+                        -33.925
+                  ]
+            },
+            {
+                  "name": "Greetenboom Naturewalk",
+                  "text": "This scenic forest trail winds through ancient yellowwood trees and dense undergrowth, allowing visitors to experience the region's lush coastal ecology.",
+                  "category": "landmark",
+                  "coords": [
+                        23.054343,
+                        -33.945082
+                  ]
+            },
+            {
+                  "name": "Brenton Blue Butterfly Nature Reserve",
+                  "text": "This specialized conservation area was established to protect the endangered Brenton Blue butterfly and its critical coastal fynbos habitat.",
+                  "category": "natural",
+                  "coords": [
+                        23.031557,
+                        -34.072406
+                  ]
+            },
+            {
+                  "name": "Westford Bridge Private Nature Reserve",
+                  "text": "Established in February 2000, this privately managed sanctuary safeguards sensitive riverside vegetation along the banks of the Knysna River.",
+                  "category": "natural",
+                  "coords": [
+                        22.981189,
+                        -34.023478
+                  ]
+            },
+            {
+                  "name": "Pledge Nature Reserve",
+                  "text": "Covering a verdant valley right in the heart of Knysna, this urban reserve provides a peaceful refuge with native flora and meandering streams.",
+                  "category": "natural",
+                  "coords": [
+                        23.043763,
+                        -34.031202
+                  ]
+            },
+            {
+                  "name": "Featherbed Tours",
+                  "text": "These guided eco-excursions provide exclusive boat and walking access across the Knysna Lagoon to the pristine nature reserve on the Western Head.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040887,
+                        -34.039165
+                  ]
+            },
+            {
+                  "name": "Skuilte Private Nature Reserve",
+                  "text": "Dating back to December 1981, this private conservation area protects a secluded tract of indigenous South African coastal forest and fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        23.033119,
+                        -34.0606
+                  ]
+            },
+            {
+                  "name": "Featherbed Private Nature Reserve",
+                  "text": "Officially established in September 1985 on the Western Head of Knysna, this spectacular coastal reserve features rugged sandstone cliffs and pristine milkwood forests.",
+                  "category": "natural",
+                  "coords": [
+                        23.053455,
+                        -34.077915
+                  ]
+            },
+            {
+                  "name": "Eastford Private Nature Reserve",
+                  "text": "Created in September 1997, this tranquil eco-estate blends residential living with the conservation of expansive fynbos-covered hills overlooking the Knysna estuary.",
+                  "category": "natural",
+                  "coords": [
+                        23.016537,
+                        -34.018996
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ZA-WC",
     coords: [23.0, -34.0],
@@ -737,7 +3950,628 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "drakensberg-amphitheatre-nature-v2",
+    id: "drakensberg-amphitheatre-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sugar Loaf",
+                  "text": "Der Sugar Loaf ist ein markant geformter Berggipfel in der dramatischen Landschaft des Drakensberg-Amphitheaters.",
+                  "category": "natural",
+                  "coords": [
+                        28.942276,
+                        -28.640341
+                  ]
+            },
+            {
+                  "name": "Dooley",
+                  "text": "Dooley ist ein beeindruckender felsiger Gipfel, der Teil der hoch aufragenden Drakensberg-Schichtstufe ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.913781,
+                        -28.702258
+                  ]
+            },
+            {
+                  "name": "Rugged Glen Nature Reserve",
+                  "text": "Das Rugged Glen Nature Reserve zeichnet sich durch tiefe Bergschluchten und montanes Grasland innerhalb der Drakensberg-Region aus.",
+                  "category": "natural",
+                  "coords": [
+                        28.985,
+                        -28.673056
+                  ]
+            },
+            {
+                  "name": "Surprise Ridge",
+                  "text": "Surprise Ridge bietet steile Wanderwege und plötzliche, atemberaubende Ausblicke über die Drakensberg-Stufe.",
+                  "category": "natural",
+                  "coords": [
+                        28.961716,
+                        -28.649644
+                  ]
+            },
+            {
+                  "name": "Camel's Hump",
+                  "text": "Camel's Hump ist eine markante zweigipfelige Bergformation, die charakteristisch für die Topografie der Drakensberge ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.971649,
+                        -28.6516
+                  ]
+            },
+            {
+                  "name": "The Diamond",
+                  "text": "The Diamond ist eine steile, markante Felsnadel, die aus den Gipfeln der Drakensberge herausragt.",
+                  "category": "natural",
+                  "coords": [
+                        28.94864,
+                        -28.657068
+                  ]
+            },
+            {
+                  "name": "Mahai Falls",
+                  "text": "Die Mahai Falls sind eine malerische Wasserkaskade, die in ein klares Felsenbecken in den Drakensbergen stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.905733,
+                        -28.695645
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "The Dome ist ein massiver, abgerundeter Berggipfel, der ein bedeutendes Wahrzeichen entlang des Drakensberg-Amphitheaters bildet.",
+                  "category": "natural",
+                  "coords": [
+                        28.896652,
+                        -28.705672
+                  ]
+            },
+            {
+                  "name": "Breakfast Rock",
+                  "text": "Breakfast Rock ist ein bemerkenswerter Felsvorsprung, der oft als landschaftlich reizvoller Rastplatz von Wanderern in den Drakensbergen genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        28.885954,
+                        -28.706448
+                  ]
+            },
+            {
+                  "name": "The Pudding",
+                  "text": "The Pudding ist ein markanter Berggipfel, der sich aus der dramatischen Landschaft des Drakensberg-Amphitheaters erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        28.898317,
+                        -28.719739
+                  ]
+            },
+            {
+                  "name": "Thendele, Sitzbank",
+                  "text": "Der Aussichtspunkt Thendele, Sitzbank bietet weite Panoramablicke auf die schroffen Felswände des Drakensberg-Amphitheaters.",
+                  "category": "natural",
+                  "coords": [
+                        28.934268,
+                        -28.711771
+                  ]
+            },
+            {
+                  "name": "The Crack",
+                  "text": "The Crack ist eine markante geologische Attraktion in der zerklüfteten Region des Drakensberg-Amphitheaters.",
+                  "category": "landmark",
+                  "coords": [
+                        28.921514,
+                        -28.682011
+                  ]
+            },
+            {
+                  "name": "Plowman's Kop",
+                  "text": "Plowman's Kop ist ein markanter Berggipfel, der über dem Terrain des Drakensberg-Amphitheaters thront.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.678084
+                  ]
+            },
+            {
+                  "name": "Lookout Rock",
+                  "text": "Lookout Rock ist ein natürlicher Felsenaussichtspunkt, der weite Ausblicke über das Drakensberg-Amphitheater bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.9308,
+                        -28.688245
+                  ]
+            },
+            {
+                  "name": "Cascades",
+                  "text": "Cascades ist ein malerischer Aussichtspunkt, der die Wasserspiele und Täler des Drakensberg-Amphitheaters überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        28.937931,
+                        -28.689471
+                  ]
+            },
+            {
+                  "name": "Rock Art Site",
+                  "text": "Die Rock Art Site ist eine archäologische Stätte, die alte Felsmalereien der San im Drakensberg-Amphitheater zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        28.966678,
+                        -28.67811
+                  ]
+            },
+            {
+                  "name": "Crocodile",
+                  "text": "Crocodile ist ein markant geformter Berggipfel, der die Skyline des Drakensberg-Amphitheaters prägt.",
+                  "category": "natural",
+                  "coords": [
+                        28.977977,
+                        -28.714354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sugar Loaf",
+                  "text": "A Sugar Loaf egy jellegzetes formájú hegycsúcs a drámai Sárkány-hegység Amfiteátrumának táján.",
+                  "category": "natural",
+                  "coords": [
+                        28.942276,
+                        -28.640341
+                  ]
+            },
+            {
+                  "name": "Dooley",
+                  "text": "A Dooley egy lenyűgöző sziklás csúcs, amely a magasba tornyosuló Sárkány-hegység meredélyének része.",
+                  "category": "natural",
+                  "coords": [
+                        28.913781,
+                        -28.702258
+                  ]
+            },
+            {
+                  "name": "Rugged Glen Nature Reserve",
+                  "text": "A Rugged Glen Természetvédelmi Területet mély hegyi szakadékok és hegyvidéki gyepek jellemzik a Sárkány-hegység régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        28.985,
+                        -28.673056
+                  ]
+            },
+            {
+                  "name": "Surprise Ridge",
+                  "text": "A Surprise Ridge meredek túraútvonalakat és hirtelen, lélegzetelállító kilátást kínál a Sárkány-hegység meredélyére.",
+                  "category": "natural",
+                  "coords": [
+                        28.961716,
+                        -28.649644
+                  ]
+            },
+            {
+                  "name": "Camel's Hump",
+                  "text": "A Camel's Hump egy feltűnő kétcsúcsú hegyképződmény, amely a Sárkány-hegység topográfiájára jellemző.",
+                  "category": "natural",
+                  "coords": [
+                        28.971649,
+                        -28.6516
+                  ]
+            },
+            {
+                  "name": "The Diamond",
+                  "text": "A The Diamond egy meredek, kiemelkedő sziklatorony, amely a Sárkány-hegység csúcsai közül emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        28.94864,
+                        -28.657068
+                  ]
+            },
+            {
+                  "name": "Mahai Falls",
+                  "text": "A Mahai-vízesés egy festői vízkaszkád, amely egy tiszta sziklamedencébe zuhan a Sárkány-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.905733,
+                        -28.695645
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "A The Dome egy hatalmas, lekerekített hegycsúcs, amely jelentős tájékozódási pontot alkot a Sárkány-hegység Amfiteátruma mentén.",
+                  "category": "natural",
+                  "coords": [
+                        28.896652,
+                        -28.705672
+                  ]
+            },
+            {
+                  "name": "Breakfast Rock",
+                  "text": "A Breakfast Rock egy figyelemre méltó sziklakibúvás, amelyet a Sárkány-hegység túrázói gyakran használnak festői pihenőhelyként.",
+                  "category": "natural",
+                  "coords": [
+                        28.885954,
+                        -28.706448
+                  ]
+            },
+            {
+                  "name": "The Pudding",
+                  "text": "A The Pudding egy zord hegycsúcs, amely a Drakensberg-amfiteátrum drámai tájából emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        28.898317,
+                        -28.719739
+                  ]
+            },
+            {
+                  "name": "Thendele, Sitzbank",
+                  "text": "A Thendele, Sitzbank nevű kilátóhely széles panorámát kínál a Drakensberg-amfiteátrum zord sziklafalaira.",
+                  "category": "natural",
+                  "coords": [
+                        28.934268,
+                        -28.711771
+                  ]
+            },
+            {
+                  "name": "The Crack",
+                  "text": "A The Crack egy feltűnő geológiai látványosság a Drakensberg-amfiteátrum zord régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.921514,
+                        -28.682011
+                  ]
+            },
+            {
+                  "name": "Plowman's Kop",
+                  "text": "A Plowman's Kop egy kiemelkedő hegycsúcs, amely a Drakensberg-amfiteátrum terepe fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.678084
+                  ]
+            },
+            {
+                  "name": "Lookout Rock",
+                  "text": "A Lookout Rock egy természetes sziklakilátó, amely hatalmas kilátást nyújt a Drakensberg-amfiteátrumra.",
+                  "category": "natural",
+                  "coords": [
+                        28.9308,
+                        -28.688245
+                  ]
+            },
+            {
+                  "name": "Cascades",
+                  "text": "A Cascades egy festői kilátóhely, amely a Drakensberg-amfiteátrum vízfolyásaira és völgyeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        28.937931,
+                        -28.689471
+                  ]
+            },
+            {
+                  "name": "Rock Art Site",
+                  "text": "A Rock Art Site egy régészeti lelőhely, amely a szanok ősi sziklafestményeit mutatja be a Drakensberg-amfiteátrumban.",
+                  "category": "historical",
+                  "coords": [
+                        28.966678,
+                        -28.67811
+                  ]
+            },
+            {
+                  "name": "Crocodile",
+                  "text": "A Crocodile egy jellegzetes formájú hegycsúcs, amely a Drakensberg-amfiteátrum sziluettjét formálja.",
+                  "category": "natural",
+                  "coords": [
+                        28.977977,
+                        -28.714354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sugar Loaf",
+                  "text": "Sugar Loaf este un vârf montan cu o formă distinctivă situat în peisajul dramatic al Amfiteatrului Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.942276,
+                        -28.640341
+                  ]
+            },
+            {
+                  "name": "Dooley",
+                  "text": "Dooley este un summit stâncos impresionant, care face parte din impunătoarea escarpă Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.913781,
+                        -28.702258
+                  ]
+            },
+            {
+                  "name": "Rugged Glen Nature Reserve",
+                  "text": "Rezervația Naturală Rugged Glen prezintă ravene montane adânci și pajiști alpine în cadrul regiunii Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.985,
+                        -28.673056
+                  ]
+            },
+            {
+                  "name": "Surprise Ridge",
+                  "text": "Surprise Ridge oferă trasee de drumeție abrupte și priveliști bruște și uluitoare asupra escarpei Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.961716,
+                        -28.649644
+                  ]
+            },
+            {
+                  "name": "Camel's Hump",
+                  "text": "Camel's Hump este o formațiune montană uimitoare cu două vârfuri, caracteristică topografiei Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.971649,
+                        -28.6516
+                  ]
+            },
+            {
+                  "name": "The Diamond",
+                  "text": "The Diamond este un pinaclu stâncos abrupt și proeminent, care se remarcă printre vârfurile Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.94864,
+                        -28.657068
+                  ]
+            },
+            {
+                  "name": "Mahai Falls",
+                  "text": "Cascada Mahai este o cădere de apă pitorească care se varsă într-un bazin stâncos limpede din munții Drakensberg.",
+                  "category": "landmark",
+                  "coords": [
+                        28.905733,
+                        -28.695645
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "The Dome este un vârf montan masiv și rotunjit, care formează un reper semnificativ de-a lungul Amfiteatrului Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.896652,
+                        -28.705672
+                  ]
+            },
+            {
+                  "name": "Breakfast Rock",
+                  "text": "Breakfast Rock este un afloriment stâncos notabil, folosit adesea ca punct de odihnă pitoresc de către drumeții din Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.885954,
+                        -28.706448
+                  ]
+            },
+            {
+                  "name": "The Pudding",
+                  "text": "The Pudding este un vârf muntos accidentat care se înalță din peisajul dramatic al Amfiteatrului Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.898317,
+                        -28.719739
+                  ]
+            },
+            {
+                  "name": "Thendele, Sitzbank",
+                  "text": "Punctul de belvedere Thendele, Sitzbank oferă panorame largi asupra pereților stâncoși accidentați din Amfiteatrul Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.934268,
+                        -28.711771
+                  ]
+            },
+            {
+                  "name": "The Crack",
+                  "text": "The Crack este o atracție geologică izbitoare, situată în regiunea accidentată a Amfiteatrului Drakensberg.",
+                  "category": "landmark",
+                  "coords": [
+                        28.921514,
+                        -28.682011
+                  ]
+            },
+            {
+                  "name": "Plowman's Kop",
+                  "text": "Plowman's Kop este un vârf montan proeminent care se înalță deasupra terenului din Amfiteatrul Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.678084
+                  ]
+            },
+            {
+                  "name": "Lookout Rock",
+                  "text": "Lookout Rock este un punct de belvedere natural din stâncă, oferind priveliști expansive asupra Amfiteatrului Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.9308,
+                        -28.688245
+                  ]
+            },
+            {
+                  "name": "Cascades",
+                  "text": "Cascades este un punct de belvedere pitoresc, cu vedere la cursurile de apă și văile din Amfiteatrul Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.937931,
+                        -28.689471
+                  ]
+            },
+            {
+                  "name": "Rock Art Site",
+                  "text": "Rock Art Site este un sit arheologic care prezintă picturi rupestre antice ale populației San în Amfiteatrul Drakensberg.",
+                  "category": "historical",
+                  "coords": [
+                        28.966678,
+                        -28.67811
+                  ]
+            },
+            {
+                  "name": "Crocodile",
+                  "text": "Crocodile este un vârf de munte cu o formă distinctivă, care caracterizează orizontul Amfiteatrului Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.977977,
+                        -28.714354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sugar Loaf",
+                  "text": "Sugar Loaf is a distinctively shaped mountain peak situated in the dramatic Drakensberg Amphitheatre landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.942276,
+                        -28.640341
+                  ]
+            },
+            {
+                  "name": "Dooley",
+                  "text": "Dooley is an impressive rocky summit forming part of the towering Drakensberg escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        28.913781,
+                        -28.702258
+                  ]
+            },
+            {
+                  "name": "Rugged Glen Nature Reserve",
+                  "text": "Rugged Glen Nature Reserve features deep mountainous ravines and montane grasslands within the Drakensberg region.",
+                  "category": "natural",
+                  "coords": [
+                        28.985,
+                        -28.673056
+                  ]
+            },
+            {
+                  "name": "Surprise Ridge",
+                  "text": "Surprise Ridge offers steep hiking trails and sudden, breathtaking vistas over the Drakensberg escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        28.961716,
+                        -28.649644
+                  ]
+            },
+            {
+                  "name": "Camel's Hump",
+                  "text": "Camel's Hump is a striking double-peaked mountain formation characteristic of the Drakensberg topography.",
+                  "category": "natural",
+                  "coords": [
+                        28.971649,
+                        -28.6516
+                  ]
+            },
+            {
+                  "name": "The Diamond",
+                  "text": "The Diamond is a steep, prominent rock pinnacle standing out among the Drakensberg peaks.",
+                  "category": "natural",
+                  "coords": [
+                        28.94864,
+                        -28.657068
+                  ]
+            },
+            {
+                  "name": "Mahai Falls",
+                  "text": "Mahai Falls features a scenic water cascade dropping into a clear rock pool within the Drakensberg mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        28.905733,
+                        -28.695645
+                  ]
+            },
+            {
+                  "name": "The Dome",
+                  "text": "The Dome is a massive, rounded mountain peak forming a significant landmark along the Drakensberg Amphitheatre.",
+                  "category": "natural",
+                  "coords": [
+                        28.896652,
+                        -28.705672
+                  ]
+            },
+            {
+                  "name": "Breakfast Rock",
+                  "text": "Breakfast Rock is a notable rocky outcrop often used as a scenic resting point by hikers in the Drakensberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.885954,
+                        -28.706448
+                  ]
+            },
+            {
+                  "name": "The Pudding",
+                  "text": "The Pudding is a rugged peak rising within the dramatic landscape of the Drakensberg Amphitheatre area.",
+                  "category": "natural",
+                  "coords": [
+                        28.898317,
+                        -28.719739
+                  ]
+            },
+            {
+                  "name": "Thendele, Sitzbank",
+                  "text": "Thendele, Sitzbank is a scenic viewpoint offering sweeping panoramas of the rugged cliffs of the Drakensberg Amphitheatre.",
+                  "category": "natural",
+                  "coords": [
+                        28.934268,
+                        -28.711771
+                  ]
+            },
+            {
+                  "name": "The Crack",
+                  "text": "The Crack is a striking geological attraction nestled within the rugged Drakensberg Amphitheatre region.",
+                  "category": "landmark",
+                  "coords": [
+                        28.921514,
+                        -28.682011
+                  ]
+            },
+            {
+                  "name": "Plowman's Kop",
+                  "text": "Plowman's Kop is a prominent mountain peak towering over the Drakensberg Amphitheatre terrain.",
+                  "category": "natural",
+                  "coords": [
+                        28.93141,
+                        -28.678084
+                  ]
+            },
+            {
+                  "name": "Lookout Rock",
+                  "text": "Lookout Rock is a natural rock formation viewpoint providing expansive vistas over the Drakensberg Amphitheatre.",
+                  "category": "natural",
+                  "coords": [
+                        28.9308,
+                        -28.688245
+                  ]
+            },
+            {
+                  "name": "Cascades",
+                  "text": "Cascades is a serene viewpoint overlooking the water features and valleys of the Drakensberg Amphitheatre.",
+                  "category": "natural",
+                  "coords": [
+                        28.937931,
+                        -28.689471
+                  ]
+            },
+            {
+                  "name": "Rock Art Site",
+                  "text": "The Rock Art Site is an archaeological site showcasing ancient San rock paintings within the Drakensberg Amphitheatre.",
+                  "category": "historical",
+                  "coords": [
+                        28.966678,
+                        -28.67811
+                  ]
+            },
+            {
+                  "name": "Crocodile",
+                  "text": "Crocodile is a distinctively shaped mountain peak characterizing the Drakensberg Amphitheatre skyline.",
+                  "category": "natural",
+                  "coords": [
+                        28.977977,
+                        -28.714354
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-KZN",
     coords: [28.9, -28.7],
@@ -773,7 +4607,304 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "golden-gate-highlands-nature-v2",
+    id: "golden-gate-highlands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wodehouse Kop",
+                  "text": "Dieser markante Sandsteingipfel im Hochland bietet einen steilen Wanderweg, der Kletterer mit weiten Blicken auf den Park belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        28.6333,
+                        -28.4925
+                  ]
+            },
+            {
+                  "name": "Vulture Hide",
+                  "text": "Dieser spezielle Aussichtspunkt für Wildtiere ist für die Beobachtung der seltenen Bartgeier in ihrem natürlichen felsigen Lebensraum konzipiert.",
+                  "category": "natural",
+                  "coords": [
+                        28.6546,
+                        -28.513123
+                  ]
+            },
+            {
+                  "name": "Echo Ravine",
+                  "text": "Diese tiefe natürliche Schlucht im Nationalpark verfügt über hoch aufragende Sandsteinwände, die den Schall dramatisch reflektieren.",
+                  "category": "landmark",
+                  "coords": [
+                        28.622428,
+                        -28.499352
+                  ]
+            },
+            {
+                  "name": "Boskloof",
+                  "text": "Dieser dicht bewaldete Schluchtweg ermöglicht es den Besuchern, die reiche einheimische Flora zu erkunden, die zwischen den Sandsteinformationen verborgen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.619124,
+                        -28.498938
+                  ]
+            },
+            {
+                  "name": "Brandwag Buttress",
+                  "text": "Diese ikonische Klippenformation aus goldenem Sandstein leuchtet im Sonnenlicht lebhaft auf und dient als optischer Mittelpunkt des Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        28.613848,
+                        -28.503144
+                  ]
+            },
+            {
+                  "name": "Gladstone Dam Lookout Point",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen Panoramablick über das ruhige Wasser des Gladstone-Staudamms vor einer bergigen Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        28.589259,
+                        -28.503648
+                  ]
+            },
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Diese historische Stätte zeigt alte San-Felsmalereien, die direkt auf die schützenden Überhänge der Sandsteinhöhlen gemalt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        28.565213,
+                        -28.508675
+                  ]
+            },
+            {
+                  "name": "Golden Gate Highlands National Park",
+                  "text": "Dieses renommierte Naturschutzgebiet ist berühmt für seine tief erodierten, goldfarbenen Sandsteinklippen und sein vielfältiges Hochlandökosystem.",
+                  "category": "natural",
+                  "coords": [
+                        28.664214,
+                        -28.492968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wodehouse Kop",
+                  "text": "Ez a kiemelkedő homokkőcsúcs a felvidéken meredek túraútvonalat kínál, amely a hegymászókat tágas parki kilátással jutalmazza.",
+                  "category": "natural",
+                  "coords": [
+                        28.6333,
+                        -28.4925
+                  ]
+            },
+            {
+                  "name": "Vulture Hide",
+                  "text": "Ezt a speciális vadvilági kilátót a ritka szakállas saskeselyűk természetes sziklás élőhelyükön történő megfigyelésére tervezték.",
+                  "category": "natural",
+                  "coords": [
+                        28.6546,
+                        -28.513123
+                  ]
+            },
+            {
+                  "name": "Echo Ravine",
+                  "text": "Ez a nemzeti parkban található mély természetes szurdok tornyosuló homokkő falakkal rendelkezik, amelyek drámaian verik vissza a hangot.",
+                  "category": "landmark",
+                  "coords": [
+                        28.622428,
+                        -28.499352
+                  ]
+            },
+            {
+                  "name": "Boskloof",
+                  "text": "Ezen a sűrűn erdősült szurdokösvényen a látogatók felfedezhetik a homokkő képződmények között megbúvó gazdag őshonos flórát.",
+                  "category": "landmark",
+                  "coords": [
+                        28.619124,
+                        -28.498938
+                  ]
+            },
+            {
+                  "name": "Brandwag Buttress",
+                  "text": "Ez az ikonikus aranyszínű homokkő sziklaalakzat élénken ragyog a napfényben, és a park vizuális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.613848,
+                        -28.503144
+                  ]
+            },
+            {
+                  "name": "Gladstone Dam Lookout Point",
+                  "text": "Ez a festői kilátó panorámás kilátást nyújt a Gladstone-gát nyugodt vizére a hegyvidéki háttér előtt.",
+                  "category": "natural",
+                  "coords": [
+                        28.589259,
+                        -28.503648
+                  ]
+            },
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Ezen a történelmi helyszínen ősi san sziklarajzok találhatók, amelyeket közvetlenül a homokkő barlangok védelmet nyújtó túlnyúlásaira festettek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.565213,
+                        -28.508675
+                  ]
+            },
+            {
+                  "name": "Golden Gate Highlands National Park",
+                  "text": "Ez a híres természetvédelmi terület mélyen erodált, aranyszínű homokkő szikláiról és változatos felvidéki ökoszisztémájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        28.664214,
+                        -28.492968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wodehouse Kop",
+                  "text": "Acest vârf proeminent de gresie din regiunea muntoasă oferă un traseu de drumeție abrupt care răsplătește alpiniștii cu vederi ample asupra parcului.",
+                  "category": "natural",
+                  "coords": [
+                        28.6333,
+                        -28.4925
+                  ]
+            },
+            {
+                  "name": "Vulture Hide",
+                  "text": "Acest punct de belvedere specializat pentru animale sălbatice este conceput pentru observarea vulturilor bărbos rari în habitatul lor stâncos natural.",
+                  "category": "natural",
+                  "coords": [
+                        28.6546,
+                        -28.513123
+                  ]
+            },
+            {
+                  "name": "Echo Ravine",
+                  "text": "Acest defileu natural adânc din cadrul parcului național prezintă pereți impunători de gresie care reflectă sunetul în mod dramatic.",
+                  "category": "landmark",
+                  "coords": [
+                        28.622428,
+                        -28.499352
+                  ]
+            },
+            {
+                  "name": "Boskloof",
+                  "text": "Acest traseu dens împădurit din defileu permite vizitatorilor să exploreze bogata floră indigenă ascunsă printre formațiunile de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        28.619124,
+                        -28.498938
+                  ]
+            },
+            {
+                  "name": "Brandwag Buttress",
+                  "text": "Această formațiune iconică de stânci din gresie aurie strălucește viu în lumina soarelui și servește drept piesa centrală vizuală a parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.613848,
+                        -28.503144
+                  ]
+            },
+            {
+                  "name": "Gladstone Dam Lookout Point",
+                  "text": "Acest punct de belvedere pitoresc oferă priveliști panoramice peste apele calme ale barajului Gladstone pe un fundal muntos.",
+                  "category": "natural",
+                  "coords": [
+                        28.589259,
+                        -28.503648
+                  ]
+            },
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Acest sit istoric prezintă artă rupestră antică San, pictată direct pe surplombele protectoare ale peșterilor de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        28.565213,
+                        -28.508675
+                  ]
+            },
+            {
+                  "name": "Golden Gate Highlands National Park",
+                  "text": "Această renumită rezervație naturală este faimoasă pentru stâncile sale de gresie de culoare aurie, profund erodate, și pentru ecosistemul divers al regiunii muntoase.",
+                  "category": "natural",
+                  "coords": [
+                        28.664214,
+                        -28.492968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wodehouse Kop",
+                  "text": "This prominent sandstone peak in the highlands offers a steep hiking trail rewarding climbers with expansive park views.",
+                  "category": "natural",
+                  "coords": [
+                        28.6333,
+                        -28.4925
+                  ]
+            },
+            {
+                  "name": "Vulture Hide",
+                  "text": "This specialized wildlife viewpoint is designed for observing the rare bearded vultures in their natural rocky habitat.",
+                  "category": "natural",
+                  "coords": [
+                        28.6546,
+                        -28.513123
+                  ]
+            },
+            {
+                  "name": "Echo Ravine",
+                  "text": "This deep natural gorge within the national park features towering sandstone walls that reflect sound dramatically.",
+                  "category": "landmark",
+                  "coords": [
+                        28.622428,
+                        -28.499352
+                  ]
+            },
+            {
+                  "name": "Boskloof",
+                  "text": "This densely wooded ravine trail allows visitors to explore the rich indigenous flora hidden among the sandstone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        28.619124,
+                        -28.498938
+                  ]
+            },
+            {
+                  "name": "Brandwag Buttress",
+                  "text": "This iconic golden sandstone cliff formation vividly glows in the sunlight and serves as the visual centerpiece of the park.",
+                  "category": "landmark",
+                  "coords": [
+                        28.613848,
+                        -28.503144
+                  ]
+            },
+            {
+                  "name": "Gladstone Dam Lookout Point",
+                  "text": "This scenic viewpoint offers panoramic vistas across the calm waters of the Gladstone Dam against a mountainous backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        28.589259,
+                        -28.503648
+                  ]
+            },
+            {
+                  "name": "Bushman Paintings",
+                  "text": "This historical site features ancient San rock art painted directly onto the protective overhangs of the sandstone caves.",
+                  "category": "landmark",
+                  "coords": [
+                        28.565213,
+                        -28.508675
+                  ]
+            },
+            {
+                  "name": "Golden Gate Highlands National Park",
+                  "text": "This renowned nature reserve is famous for its deeply eroded, golden-hued sandstone cliffs and diverse highland ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        28.664214,
+                        -28.492968
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-FS",
     coords: [28.6, -28.5],
@@ -809,7 +4940,88 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "agullhas-cape-nature-v2",
+    id: "agullhas-cape-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stingray at the Harbour",
+                  "text": "Ein bekannter Ort, um Stachelrochen zu beobachten, die nahe der Hafenmauer schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.057907,
+                        -34.800339
+                  ]
+            },
+            {
+                  "name": "Relaxtion Area",
+                  "text": "Dieser Küstenabschnitt ist speziell dafür gedacht, die Meeresumgebung entspannt zu genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.06366,
+                        -34.803562
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stingray at the Harbour",
+                  "text": "Jól ismert hely a kikötőfal közelében úszó ráják megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        20.057907,
+                        -34.800339
+                  ]
+            },
+            {
+                  "name": "Relaxtion Area",
+                  "text": "Ez a tengerparti terület a tengeri környezet nyugodt élvezetére lett kialakítva.",
+                  "category": "landmark",
+                  "coords": [
+                        20.06366,
+                        -34.803562
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stingray at the Harbour",
+                  "text": "Un loc binecunoscut pentru observarea pisicilor de mare înotând lângă zidul portului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.057907,
+                        -34.800339
+                  ]
+            },
+            {
+                  "name": "Relaxtion Area",
+                  "text": "Acest loc de coastă este conceput pentru a vă bucura de mediul marin în relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        20.06366,
+                        -34.803562
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stingray at the Harbour",
+                  "text": "A well-known spot for observing stingrays swimming near the harbour wall.",
+                  "category": "landmark",
+                  "coords": [
+                        20.057907,
+                        -34.800339
+                  ]
+            },
+            {
+                  "name": "Relaxtion Area",
+                  "text": "This coastal spot is designed for relaxing and enjoying the seaside environment.",
+                  "category": "landmark",
+                  "coords": [
+                        20.06366,
+                        -34.803562
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "ZA-WC",
     coords: [20.0, -34.8],
@@ -917,7 +5129,124 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "mountain-zebra-park-nature-v2",
+    id: "mountain-zebra-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rooiplaat Loop Viewpoint",
+                  "text": "Ein hochgelegener Aussichtspunkt an einer Ringstraße, der einen weiten Blick über die grasbewachsenen Ebenen des Nationalparks ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        25.418969,
+                        -32.214572
+                  ]
+            },
+            {
+                  "name": "Sonnenrust Loop Viewpoint",
+                  "text": "Eine malerische Aussichtsterrasse entlang einer Wildbeobachtungsroute, die sich besonders in den goldenen Abendstunden für die Landschaftsfotografie eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.409124,
+                        -32.1397
+                  ]
+            },
+            {
+                  "name": "Mountain Zebra National Park",
+                  "text": "Ein 1937 gegründetes, raues Karoo-Schutzgebiet, das speziell zur Rettung des damals fast ausgestorbenen Kap-Bergzebras eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        25.395322,
+                        -32.1958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rooiplaat Loop Viewpoint",
+                  "text": "Magasan fekvő kilátópont egy körgyűrűn, ahonnan széles kilátás nyílik a nemzeti park füves síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        25.418969,
+                        -32.214572
+                  ]
+            },
+            {
+                  "name": "Sonnenrust Loop Viewpoint",
+                  "text": "Festői kilátóterasz egy vadvédelmi útvonal mentén, amely különösen a kora esti órákban alkalmas tájfotózásra.",
+                  "category": "natural",
+                  "coords": [
+                        25.409124,
+                        -32.1397
+                  ]
+            },
+            {
+                  "name": "Mountain Zebra National Park",
+                  "text": "Az 1937-ben alapított, zord Karoo természetvédelmi terület, amelyet kifejezetten az akkor majdnem kihalt fokföldi hegyizebra megmentésére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        25.395322,
+                        -32.1958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rooiplaat Loop Viewpoint",
+                  "text": "Un punct de belvedere la mare altitudine, pe un drum circular, care oferă o vedere largă asupra câmpiilor înierbate ale parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        25.418969,
+                        -32.214572
+                  ]
+            },
+            {
+                  "name": "Sonnenrust Loop Viewpoint",
+                  "text": "O terasă panoramică pitorească de-a lungul unui traseu de observare a vieții sălbatice, ideală pentru fotografia de peisaj în orele aurii ale serii.",
+                  "category": "natural",
+                  "coords": [
+                        25.409124,
+                        -32.1397
+                  ]
+            },
+            {
+                  "name": "Mountain Zebra National Park",
+                  "text": "O rezervație aspră de protecție în regiunea Karoo, fondată în 1937 special pentru a salva zebra de munte a Capului, aproape dispărută la acea vreme.",
+                  "category": "natural",
+                  "coords": [
+                        25.395322,
+                        -32.1958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rooiplaat Loop Viewpoint",
+                  "text": "A high-altitude viewpoint on a loop road offering sweeping views over the grassy plains of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        25.418969,
+                        -32.214572
+                  ]
+            },
+            {
+                  "name": "Sonnenrust Loop Viewpoint",
+                  "text": "A scenic viewing terrace along a game-viewing route, particularly suited for landscape photography during the golden evening hours.",
+                  "category": "natural",
+                  "coords": [
+                        25.409124,
+                        -32.1397
+                  ]
+            },
+            {
+                  "name": "Mountain Zebra National Park",
+                  "text": "A rugged Karoo conservation area founded in 1937, established specifically to save the then nearly extinct Cape mountain zebra.",
+                  "category": "natural",
+                  "coords": [
+                        25.395322,
+                        -32.1958
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZA-EC",
     coords: [25.4, -32.2],
@@ -953,7 +5282,88 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     },
   },
   {
-    id: "add-elephant-park-nature-v2",
+    id: "add-elephant-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Addo Elephant Park (Nyati Section)",
+                  "text": "Die Nyati-Sektion des Addo Elephant Park ist ein geschütztes Wildtiergebiet, in dem Besucher Herden afrikanischer Elefanten beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        25.824356,
+                        -33.383317
+                  ]
+            },
+            {
+                  "name": "Nguni River Lodge Hide",
+                  "text": "Das Nguni River Lodge Hide ist ein versteckter Beobachtungsstand, der sich ideal zur Beobachtung der Wildtiere am Flussufer eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79272,
+                        -33.384641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Addo Elephant Park (Nyati Section)",
+                  "text": "Az Addo Elephant Park Nyati részlege egy védett vadvilági terület, ahol a látogatók afrikai elefántcsordákat figyelhetnek meg.",
+                  "category": "natural",
+                  "coords": [
+                        25.824356,
+                        -33.383317
+                  ]
+            },
+            {
+                  "name": "Nguni River Lodge Hide",
+                  "text": "A Nguni River Lodge Hide egy álcázott leshely, amely ideális a folyóparti vadvilág megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79272,
+                        -33.384641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Addo Elephant Park (Nyati Section)",
+                  "text": "Secțiunea Nyati a Addo Elephant Park este o zonă cu faună sălbatică protejată, unde vizitatorii pot observa turme de elefanți africani.",
+                  "category": "natural",
+                  "coords": [
+                        25.824356,
+                        -33.383317
+                  ]
+            },
+            {
+                  "name": "Nguni River Lodge Hide",
+                  "text": "Nguni River Lodge Hide este un ascunziș de observație ideal pentru vizionarea faunei sălbatice de pe malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79272,
+                        -33.384641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Addo Elephant Park (Nyati Section)",
+                  "text": "The Nyati Section of the Addo Elephant Park is a protected wildlife area where visitors can observe herds of African elephants.",
+                  "category": "natural",
+                  "coords": [
+                        25.824356,
+                        -33.383317
+                  ]
+            },
+            {
+                  "name": "Nguni River Lodge Hide",
+                  "text": "The Nguni River Lodge Hide is a concealed observation blind ideal for watching riverine wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        25.79272,
+                        -33.384641
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ZA-EC",
     coords: [25.8, -33.4],

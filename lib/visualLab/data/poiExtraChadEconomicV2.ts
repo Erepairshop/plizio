@@ -199,7 +199,88 @@ export const poiExtraChadEconomicV2: POI[] = [
       fr: ["Producteur de la bière Gala", "Plus grand employeur de Moundou"],
     }, image: "/poi-images/moundou-brewery-economic-v2.webp"},
   {
-    id: "sarh-sugar-refinery-economic-v2",
+    id: "sarh-sugar-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruin of the Hotel de Chasse",
+                  "text": "Die Ruinen des Hotel de Chasse in Sarh stehen als verfallendes Zeugnis für die Vergangenheit der Stadt als beliebter Ausgangspunkt für Großwildjagden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "Dieses humanitäre Zentrum in der lebhaften Stadt Sarh konzentriert sich auf die Unterstützung und Förderung von Menschen mit Behinderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381468,
+                        9.152994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruin of the Hotel de Chasse",
+                  "text": "A sarhi Hotel de Chasse romjai pusztuló emlékeztetőként szolgálnak a város múltjára, amikor a nagyvadas vadászatok népszerű központja volt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "Ez a nyüzsgő Sarh városában található humanitárius központ a fogyatékkal élők támogatására és szerepvállalásának növelésére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381468,
+                        9.152994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruin of the Hotel de Chasse",
+                  "text": "Ruinele Hotel de Chasse din Sarh stau ca o mărturie decăzută a trecutului orașului ca un centru popular pentru expedițiile de vânătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "Situat în orașul vibrant Sarh, acest centru umanitar se concentrează pe sprijinirea și abilitarea persoanelor cu dizabilități.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381468,
+                        9.152994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruin of the Hotel de Chasse",
+                  "text": "The ruins of the Hotel de Chasse in Sarh stand as a decaying reminder of the city's past as a popular hub for big game hunting expeditions.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "Located in the vibrant city of Sarh, this humanitarian center focuses on supporting and empowering people with disabilities.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381468,
+                        9.152994
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TD-MC",
     coords: [18.39, 9.15],
@@ -494,7 +575,304 @@ export const poiExtraChadEconomicV2: POI[] = [
       fr: ["Base d'approvisionnement pour les champs pétroliers", "Infrastructure technique majeure"],
     }, image: "/poi-images/bebedjia-oil-center-economic-v2.webp"},
   {
-    id: "ndjamena-abattoir-economic-v2",
+    id: "ndjamena-abattoir-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre de jeux Hinda",
+                  "text": "Ein lebhaftes Spielzentrum in N'Djamena, in dem sich Einheimische zu Freizeitaktivitäten und zum sozialen Austausch treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.082613,
+                        12.092845
+                  ]
+            },
+            {
+                  "name": "Couturier",
+                  "text": "Diese traditionelle Schneiderei ist eine lokale Attraktion und präsentiert tschadisches Textilhandwerk und maßgeschneiderte Kleidung.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071048,
+                        12.094506
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "Ein lokaler Treffpunkt und Anziehungspunkt im Wirtschaftsviertel von N'Djamena, der vom täglichen Gemeinschaftsleben geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.05342,
+                        12.098033
+                  ]
+            },
+            {
+                  "name": "Rond point Masdjid",
+                  "text": "Dieses Kreisverkehr-Denkmal befindet sich in der Nähe einer lokalen Moschee und dient als markanter Wegweiser in N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.050418,
+                        12.111392
+                  ]
+            },
+            {
+                  "name": "Rond point march",
+                  "text": "Dieses Kreisverkehr-Denkmal liegt in der Nähe des Marktbereichs und steht inmitten des dichten Stroms von Händlern und Käufern.",
+                  "category": "historical",
+                  "coords": [
+                        15.055083,
+                        12.109628
+                  ]
+            },
+            {
+                  "name": "Petit jardin à coté de ISFOP",
+                  "text": "Eine ruhige kleine Grünfläche neben dem ISFOP-Campus, die einen friedlichen natürlichen Rückzugsort in der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.063413,
+                        12.094967
+                  ]
+            },
+            {
+                  "name": "Salles d'exposition",
+                  "text": "Diese Messehallen präsentieren lokale tschadische Kunst, Kunsthandwerk und kulturelle Ausstellungen innerhalb der Wirtschaftszone der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.056039,
+                        12.099271
+                  ]
+            },
+            {
+                  "name": "Jardin de la salade",
+                  "text": "Eine kleine städtische Grünfläche in N'Djamena, die dem Anbau von frischen Produkten und Salatgemüse gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.065432,
+                        12.094885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre de jeux Hinda",
+                  "text": "Egy élénk játékközpont N'Djamenában, ahol a helyiek szabadidős tevékenységekre és társasági életre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        15.082613,
+                        12.092845
+                  ]
+            },
+            {
+                  "name": "Couturier",
+                  "text": "Ez a hagyományos szabóság helyi látványosságként szolgál, bemutatva a csádi textilkézművességet és az egyedi ruházatot.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071048,
+                        12.094506
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "Helyi találkozóhely és látványosság N'Djamena gazdasági negyedében, amely a mindennapi közösségi élettől zsong.",
+                  "category": "landmark",
+                  "coords": [
+                        15.05342,
+                        12.098033
+                  ]
+            },
+            {
+                  "name": "Rond point Masdjid",
+                  "text": "Ez a körforgalmi emlékmű egy helyi mecset közelében található, és kiemelkedő útjelzőként szolgál N'Djamenában.",
+                  "category": "historical",
+                  "coords": [
+                        15.050418,
+                        12.111392
+                  ]
+            },
+            {
+                  "name": "Rond point march",
+                  "text": "Ez a piac közelében található körforgalmi emlékmű a kereskedők és vásárlók sűrű áradatának közepén áll.",
+                  "category": "historical",
+                  "coords": [
+                        15.055083,
+                        12.109628
+                  ]
+            },
+            {
+                  "name": "Petit jardin à coté de ISFOP",
+                  "text": "Egy csendes kis zöldterület az ISFOP kampusza mellett, amely békés természeti menedéket kínál a városban.",
+                  "category": "natural",
+                  "coords": [
+                        15.063413,
+                        12.094967
+                  ]
+            },
+            {
+                  "name": "Salles d'exposition",
+                  "text": "Ezek a kiállítótermek a helyi csádi művészetet, kézművességet és kulturális kiállításokat mutatják be a város gazdasági övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.056039,
+                        12.099271
+                  ]
+            },
+            {
+                  "name": "Jardin de la salade",
+                  "text": "Egy kis városi zöldterület N'Djamenában, amelyet friss termékek és salátafélék termesztésére szenteltek.",
+                  "category": "natural",
+                  "coords": [
+                        15.065432,
+                        12.094885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre de jeux Hinda",
+                  "text": "Un centru de jocuri plin de viață din N'Djamena, unde localnicii se adună pentru activități recreative și interacțiune socială.",
+                  "category": "landmark",
+                  "coords": [
+                        15.082613,
+                        12.092845
+                  ]
+            },
+            {
+                  "name": "Couturier",
+                  "text": "Această croitorie tradițională servește ca o atracție locală, prezentând meșteșugurile textile din Ciad și îmbrăcămintea la comandă.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071048,
+                        12.094506
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "Un punct de întâlnire și o atracție locală în districtul economic din N'Djamena, plin de viața comunitară zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        15.05342,
+                        12.098033
+                  ]
+            },
+            {
+                  "name": "Rond point Masdjid",
+                  "text": "Acest monument cu sens giratoriu este situat lângă o moschee locală, servind ca un indicator proeminent în N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.050418,
+                        12.111392
+                  ]
+            },
+            {
+                  "name": "Rond point march",
+                  "text": "Situat în apropierea zonei pieței, acest monument cu sens giratoriu se află în mijlocul fluxului intens de comercianți și cumpărători.",
+                  "category": "historical",
+                  "coords": [
+                        15.055083,
+                        12.109628
+                  ]
+            },
+            {
+                  "name": "Petit jardin à coté de ISFOP",
+                  "text": "Un mic spațiu verde liniștit lângă campusul ISFOP, oferind un refugiu natural pașnic în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        15.063413,
+                        12.094967
+                  ]
+            },
+            {
+                  "name": "Salles d'exposition",
+                  "text": "Aceste săli de expoziție prezintă artă locală din Ciad, meșteșuguri și expoziții culturale în zona economică a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.056039,
+                        12.099271
+                  ]
+            },
+            {
+                  "name": "Jardin de la salade",
+                  "text": "Un mic spațiu verde urban din N'Djamena dedicat cultivării de produse proaspete și verdețuri pentru salată.",
+                  "category": "natural",
+                  "coords": [
+                        15.065432,
+                        12.094885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre de jeux Hinda",
+                  "text": "A lively game centre in N'Djamena where locals gather for recreational activities and social interaction.",
+                  "category": "landmark",
+                  "coords": [
+                        15.082613,
+                        12.092845
+                  ]
+            },
+            {
+                  "name": "Couturier",
+                  "text": "This traditional tailor shop serves as a local attraction, showcasing Chadian fabric crafts and custom clothing.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071048,
+                        12.094506
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "A local meeting point and attraction within N'Djamena's economic district, bustling with daily community life.",
+                  "category": "landmark",
+                  "coords": [
+                        15.05342,
+                        12.098033
+                  ]
+            },
+            {
+                  "name": "Rond point Masdjid",
+                  "text": "This roundabout monument is located near a local mosque, serving as a prominent waymarker in N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.050418,
+                        12.111392
+                  ]
+            },
+            {
+                  "name": "Rond point march",
+                  "text": "Set near the market area, this roundabout monument stands amidst the heavy flow of traders and shoppers.",
+                  "category": "historical",
+                  "coords": [
+                        15.055083,
+                        12.109628
+                  ]
+            },
+            {
+                  "name": "Petit jardin à coté de ISFOP",
+                  "text": "A tranquil little green space next to the ISFOP campus, offering a quiet natural retreat in the city.",
+                  "category": "natural",
+                  "coords": [
+                        15.063413,
+                        12.094967
+                  ]
+            },
+            {
+                  "name": "Salles d'exposition",
+                  "text": "These exhibition halls showcase local Chadian art, crafts, and cultural displays within the city's economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        15.056039,
+                        12.099271
+                  ]
+            },
+            {
+                  "name": "Jardin de la salade",
+                  "text": "A small urban green space in N'Djamena dedicated to cultivating fresh produce and salad greens.",
+                  "category": "natural",
+                  "coords": [
+                        15.065432,
+                        12.094885
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TD-ND",
     coords: [15.05, 12.11],
@@ -831,7 +1209,52 @@ export const poiExtraChadEconomicV2: POI[] = [
       fr: ["Centre de transformation du poisson", "Important pour l'alimentation"],
     }, image: "/poi-images/bagasola-fishing-port-economic-v2.webp"},
   {
-    id: "lere-fishing-center-economic-v2",
+    id: "lere-fishing-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Königspalast von Léré",
+                  "text": "Dieses in einer traditionellen königlichen Residenz untergebrachte Kulturmuseum zeigt die Geschichte und Artefakte des lokalen Häuptlingstums in der Nähe des Léré-Sees.",
+                  "category": "museum",
+                  "coords": [
+                        14.226194,
+                        9.657156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais Royal de L",
+                  "text": "A hagyományos királyi rezidenciában helyet kapó kulturális múzeum a Léré-tó környéki helyi törzsfőnökség történetét és tárgyi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.226194,
+                        9.657156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais Royal de L",
+                  "text": "Găzduit într-o reședință regală tradițională, acest muzeu cultural prezintă istoria și artefactele căpeteniei locale din apropierea lacului Léré.",
+                  "category": "museum",
+                  "coords": [
+                        14.226194,
+                        9.657156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais Royal de L",
+                  "text": "Housed within a traditional royal residence, this cultural museum showcases the history and artifacts of the local chiefdom near Lake Léré.",
+                  "category": "museum",
+                  "coords": [
+                        14.226194,
+                        9.657156
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TD-MO",
     coords: [14.16, 9.61],

@@ -275,7 +275,124 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       fr: ["Son nom signifie 'éclair' en portugais.", "Superficie d'environ 14 kilomètres carrés.", "Ancien comptoir commercial historique.", "Célèbre pour ses eaux cristallines."],
     }, image: "/poi-images/corisco-island-nature-v2.webp"},
   {
-    id: "annobon-island-nature-v2",
+    id: "annobon-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alturas de Mol",
+                  "text": "Hohe Erhebungen mit weitem Blick über die Vulkaninsel Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.639762,
+                        -1.434167
+                  ]
+            },
+            {
+                  "name": "Pico Lago",
+                  "text": "Ein markanter Berggipfel in der Nähe des Kratersees auf der Insel Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.635466,
+                        -1.433009
+                  ]
+            },
+            {
+                  "name": "Pico Quioveo",
+                  "text": "Der höchste vulkanische Gipfel auf Annobón, bedeckt mit dichtem tropischen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        5.632847,
+                        -1.440039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alturas de Mol",
+                  "text": "Magaslati pontok, ahonnan széles kilátás nyílik Annobón vulkanikus szigetére.",
+                  "category": "natural",
+                  "coords": [
+                        5.639762,
+                        -1.434167
+                  ]
+            },
+            {
+                  "name": "Pico Lago",
+                  "text": "Kiemelkedő hegycsúcs Annobón szigetén, a krátertó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.635466,
+                        -1.433009
+                  ]
+            },
+            {
+                  "name": "Pico Quioveo",
+                  "text": "Annobón legmagasabb vulkáni csúcsa, amelyet sűrű trópusi erdő borít.",
+                  "category": "natural",
+                  "coords": [
+                        5.632847,
+                        -1.440039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alturas de Mol",
+                  "text": "Puncte înalte care oferă vederi ample peste insula vulcanică Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.639762,
+                        -1.434167
+                  ]
+            },
+            {
+                  "name": "Pico Lago",
+                  "text": "Un vârf de munte proeminent situat lângă lacul crater de pe insula Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.635466,
+                        -1.433009
+                  ]
+            },
+            {
+                  "name": "Pico Quioveo",
+                  "text": "Cel mai înalt vârf vulcanic de pe Annobón, acoperit de păduri tropicale dense.",
+                  "category": "natural",
+                  "coords": [
+                        5.632847,
+                        -1.440039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alturas de Mol",
+                  "text": "High elevation points offering sweeping views across the volcanic island of Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.639762,
+                        -1.434167
+                  ]
+            },
+            {
+                  "name": "Pico Lago",
+                  "text": "A prominent mountain peak situated near the crater lake on Annobón island.",
+                  "category": "natural",
+                  "coords": [
+                        5.635466,
+                        -1.433009
+                  ]
+            },
+            {
+                  "name": "Pico Quioveo",
+                  "text": "The highest volcanic peak on Annobón, covered in dense tropical forest.",
+                  "category": "natural",
+                  "coords": [
+                        5.632847,
+                        -1.440039
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GQ-AN",
     coords: [5.6312, -1.4321],
@@ -479,7 +596,52 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
     }
   },
   {
-    id: "gran-caldera-luba-nature-v2",
+    id: "gran-caldera-luba-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Científica de la Caldera de San Carlos",
+                  "text": "Dieses wissenschaftliche Naturschutzgebiet schützt das unberührte Innere der Gran Caldera de Luba, eines alten, von dichtem Dschungel bedeckten Vulkankraters.",
+                  "category": "natural",
+                  "coords": [
+                        8.567921,
+                        3.319227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Científica de la Caldera de San Carlos",
+                  "text": "Ez a tudományos természetvédelmi terület a Gran Caldera de Luba érintetlen belsejét, egy sűrű dzsungellel borított ősi vulkáni krátert véd.",
+                  "category": "natural",
+                  "coords": [
+                        8.567921,
+                        3.319227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Científica de la Caldera de San Carlos",
+                  "text": "Această rezervație naturală științifică protejează interiorul virgin al Gran Caldera de Luba, un vechi crater vulcanic acoperit de o junglă deasă.",
+                  "category": "natural",
+                  "coords": [
+                        8.567921,
+                        3.319227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Científica de la Caldera de San Carlos",
+                  "text": "This scientific nature reserve protects the pristine interior of the Gran Caldera de Luba, an ancient volcanic crater covered in dense jungle.",
+                  "category": "natural",
+                  "coords": [
+                        8.567921,
+                        3.319227
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GQ-BS",
     coords: [8.5521, 3.3315],
@@ -683,7 +845,52 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
     }
   },
   {
-    id: "elobey-grande-nature-v2",
+    id: "elobey-grande-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capital antigua de Rio Muni",
+                  "text": "Die Antigua capital of Rio Muni ist eine historische Ruinenstätte auf der Insel Elobey Grande.",
+                  "category": "historical",
+                  "coords": [
+                        9.518176,
+                        1.001169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capital antigua de Rio Muni",
+                  "text": "Az Antigua capital of Rio Muni egy történelmi romterület Elobey Grande szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        9.518176,
+                        1.001169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capital antigua de Rio Muni",
+                  "text": "Antigua capital of Rio Muni este un sit de ruine istorice aflat pe insula Elobey Grande.",
+                  "category": "historical",
+                  "coords": [
+                        9.518176,
+                        1.001169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antigua capital of Rio Muni",
+                  "text": "Antigua capital of Rio Muni is a site of historic ruins located on the island of Elobey Grande.",
+                  "category": "historical",
+                  "coords": [
+                        9.518176,
+                        1.001169
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GQ-LI",
     coords: [9.5123, 1.0012],
@@ -955,7 +1162,52 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
     }
   },
   {
-    id: "cascadas-de-moca-nature-v2",
+    id: "cascadas-de-moca-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "Inmitten üppiger Landschaften in der Nähe der Wasserfälle gelegen, dient dieses imposante Präsidentenschloss als markanter architektonischer Rückzugsort.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "A vízesésekhez közeli buja tájak között fekvő impozáns elnöki kastély kiemelkedő építészeti menedékként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "Situat în mijlocul peisajelor luxuriante din apropierea cascadelor, acest impresionant castel prezidențial servește drept refugiu arhitectural proeminent.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "Situated amid lush landscapes near the waterfalls, this imposing presidential castle serves as a prominent architectural retreat.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GQ-BS",
     coords: [8.6612, 3.3456],

@@ -108,7 +108,88 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     
   },
   {
-    id: "lake-alaotra-nature-v2",
+    id: "lake-alaotra-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Berapanitra",
+                  "text": "Dieses Kunstzentrum fördert das lokale Kulturschaffen in der Nähe des Alaotra-Sees.",
+                  "category": "cultural",
+                  "coords": [
+                        48.430102,
+                        -17.505409
+                  ]
+            },
+            {
+                  "name": "Tranopokonolona",
+                  "text": "Dieses gemeinschaftliche Kunstzentrum bietet einen Ort für kulturelle Zusammenkünfte in der Region des Alaotra-Sees.",
+                  "category": "cultural",
+                  "coords": [
+                        48.432982,
+                        -17.50914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Berapanitra",
+                  "text": "Ez a művészeti központ a helyi kulturális alkotásokat népszerűsíti az Alaotra-tó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        48.430102,
+                        -17.505409
+                  ]
+            },
+            {
+                  "name": "Tranopokonolona",
+                  "text": "Ez a közösségi művészeti központ kulturális összejöveteleknek ad otthont az Alaotra-tó vidékén.",
+                  "category": "cultural",
+                  "coords": [
+                        48.432982,
+                        -17.50914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Berapanitra",
+                  "text": "Acest centru de arte promovează creațiile culturale locale în apropierea lacului Alaotra.",
+                  "category": "cultural",
+                  "coords": [
+                        48.430102,
+                        -17.505409
+                  ]
+            },
+            {
+                  "name": "Tranopokonolona",
+                  "text": "Acest centru comunitar de arte oferă un spațiu pentru adunări culturale în regiunea lacului Alaotra.",
+                  "category": "cultural",
+                  "coords": [
+                        48.432982,
+                        -17.50914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berapanitra",
+                  "text": "This arts centre promotes local cultural creations near the shores of Lake Alaotra.",
+                  "category": "cultural",
+                  "coords": [
+                        48.430102,
+                        -17.505409
+                  ]
+            },
+            {
+                  "name": "Tranopokonolona",
+                  "text": "This community arts centre provides a venue for cultural gatherings in the Lake Alaotra region.",
+                  "category": "cultural",
+                  "coords": [
+                        48.432982,
+                        -17.50914
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MG-A",
     coords: [48.5, -17.5],
@@ -143,7 +224,304 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     
   },
   {
-    id: "lokobe-nature-v2",
+    id: "lokobe-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le musée royal Sakalava",
+                  "text": "Das Königliche Sakalava-Museum in der Nähe von Lokobe bewahrt das reiche kulturelle Erbe und traditionelle Artefakte des indigenen Sakalava-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        48.280465,
+                        -13.373689
+                  ]
+            },
+            {
+                  "name": "Ampasimenabe Distillery de Parfum",
+                  "text": "In der Destillerie Ampasimenabe in der Nähe des Lokobe-Waldes können Besucher die traditionelle Destillation von ätherischen Ölen wie Ylang-Ylang und Vanille beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28211,
+                        -13.392595
+                  ]
+            },
+            {
+                  "name": "Musée océanographique",
+                  "text": "Dieses ozeanographische Museum in der Nähe des Lokobe-Reservats zeigt vielfältige Meerespräparate und Ausstellungen über die Küstenökosysteme des Indischen Ozeans.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "Diese lebhafte Disco in der Nähe des alten Hafens ist ein beliebter Ort für das Nachtleben, der moderne Musik mit madagassischen Rhythmen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "Dieser massive, heilige Banyanbaum ist in rote und weiße Tücher gehüllt und ein verehrter spiritueller Ort, an dem die Sakalava traditionelle Gebete sprechen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413465
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "Location Bienvenu dient als praktischer lokaler Verleih, der Reisende für Ausflüge in das dichte Naturschutzgebiet Lokobe ausrüstet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "Nosy Easy Rent vermietet Motorroller und Fahrzeuge an Touristen, die die Küstenstraßen und bewaldeten Regionen rund um Lokobe erkunden möchten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "Dieser tief verehrte heilige Baum in der Nähe von Lokobe hat weitläufige Wurzeln und ist mit traditionellen Opfergaben der örtlichen Gemeinde geschmückt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.25328,
+                        -13.412054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le musée royal Sakalava",
+                  "text": "A Lokobe közelében található Királyi Sakalava Múzeum a bennszülött sakalava nép gazdag kulturális örökségét és hagyományos tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        48.280465,
+                        -13.373689
+                  ]
+            },
+            {
+                  "name": "Ampasimenabe Distillery de Parfum",
+                  "text": "A Lokobe-erdő közelében található Ampasimenabe lepárlóban a látogatók megfigyelhetik az olyan illóolajok hagyományos lepárlását, mint az ilang-ilang és a vanília.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28211,
+                        -13.392595
+                  ]
+            },
+            {
+                  "name": "Musée océanographique",
+                  "text": "Ez a Lokobe rezervátum közelében található oceanográfiai múzeum különféle tengeri példányokat és az Indiai-óceán partvidéki ökoszisztémáit bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "A régi kikötő közelében található nyüzsgő diszkó egy népszerű éjszakai szórakozóhely, amely a modern zenét ötvözi a pezsgő madagaszkári ritmusokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "A piros-fehér textíliákba burkolt, hatalmas, szent banyánfa egy tisztelt spirituális helyszín, ahol a sakalava nép hagyományos imákat mond.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413465
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "A Location Bienvenu kényelmes helyi kölcsönzőként szolgál, amely felszereli az utazókat a sűrű Lokobe Természetvédelmi Területre induló kirándulásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "A Nosy Easy Rent robogókat és járműveket biztosít azoknak a turistáknak, akik fel szeretnék fedezni a Lokobe körüli tengerparti utakat és erdős régiókat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "A Lokobe közelében található, mélyen tisztelt szent fának kiterjedt gyökérzete van, és a helyi közösség hagyományos felajánlásaival díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.25328,
+                        -13.412054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le musée royal Sakalava",
+                  "text": "Muzeul Regal Sakalava de lângă Lokobe păstrează bogata moștenire culturală și artefactele tradiționale ale poporului indigen Sakalava.",
+                  "category": "museum",
+                  "coords": [
+                        48.280465,
+                        -13.373689
+                  ]
+            },
+            {
+                  "name": "Ampasimenabe Distillery de Parfum",
+                  "text": "La distileria Ampasimenabe de lângă pădurea Lokobe, vizitatorii pot observa distilarea tradițională a uleiurilor esențiale, precum ylang-ylang și vanilie.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28211,
+                        -13.392595
+                  ]
+            },
+            {
+                  "name": "Musée océanographique",
+                  "text": "Acest muzeu oceanografic din apropierea rezervației Lokobe expune diverse specimene marine și expoziții educative despre ecosistemele de coastă ale Oceanului Indian.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "Situată lângă vechiul port, această discotecă vibrantă este o locație populară pentru viața de noapte, îmbinând muzica modernă cu ritmuri malgașe pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "Înfășurat în pânze roșii și albe, acest arbore banyan sacru și masiv este un loc spiritual venerat unde poporul Sakalava oferă rugăciuni tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413465
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "Location Bienvenu servește drept un centru local convenabil de închirieri, echipând călătorii pentru excursii în rezervația naturală densă Lokobe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "Nosy Easy Rent oferă scutere și vehicule turiștilor care doresc să exploreze drumurile de coastă și regiunile împădurite din jurul Lokobe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "Acest arbore sacru profund venerat din apropiere de Lokobe are rădăcini extinse și este împodobit cu ofrande tradiționale din partea comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.25328,
+                        -13.412054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le musée royal Sakalava",
+                  "text": "The Royal Sakalava Museum near Lokobe preserves the rich cultural heritage and traditional artifacts of the indigenous Sakalava people.",
+                  "category": "museum",
+                  "coords": [
+                        48.280465,
+                        -13.373689
+                  ]
+            },
+            {
+                  "name": "Ampasimenabe Distillery de Parfum",
+                  "text": "At the Ampasimenabe Distillery near the Lokobe forest, visitors can observe the traditional distillation of essential oils like ylang-ylang and vanilla.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28211,
+                        -13.392595
+                  ]
+            },
+            {
+                  "name": "Musée océanographique",
+                  "text": "This oceanographic museum near the Lokobe reserve exhibits diverse marine specimens and educational displays about the Indian Ocean's coastal ecosystems.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "Situated near the old port, this vibrant disco is a popular nightlife venue blending modern music with lively Malagasy rhythms.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "Wrapped in red and white cloth, this massive, sacred banyan tree is a revered spiritual site where the Sakalava people offer traditional prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413465
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "Location Bienvenu serves as a convenient local rental outpost, equipping travelers for excursions into the dense Lokobe Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "Nosy Easy Rent provides scooters and vehicles to tourists looking to explore the coastal roads and forested regions surrounding Lokobe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "This deeply revered sacred tree near Lokobe features sprawling roots and is adorned with traditional offerings from the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.25328,
+                        -13.412054
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MG-D",
     coords: [48.3, -13.4],
@@ -318,7 +696,52 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     
   },
   {
-    id: "lake-itasy-nature-v2",
+    id: "lake-itasy-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt d'Alandramanavy",
+                  "text": "Ein üppiges, geschütztes Naturreservat in der Nähe des Itasy-Sees, das der lokalen madagassischen Tierwelt Schutz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        46.773141,
+                        -19.247207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt d'Alandramanavy",
+                  "text": "Egy buja, védett természetvédelmi terület az Itasy-tó közelében, amely a helyi madagaszkári vadvilágnak nyújt menedéket.",
+                  "category": "natural",
+                  "coords": [
+                        46.773141,
+                        -19.247207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt d'Alandramanavy",
+                  "text": "O rezervație naturală luxuriantă protejată lângă Lacul Itasy, oferind adăpost faunei locale malgașe.",
+                  "category": "natural",
+                  "coords": [
+                        46.773141,
+                        -19.247207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt d'Alandramanavy",
+                  "text": "A lush protected nature reserve near Lake Itasy, offering shelter to local Malagasy wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        46.773141,
+                        -19.247207
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MG-I",
     coords: [46.7, -19.2],
@@ -475,7 +898,412 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     
   },
   {
-    id: "isalo-nature-v2",
+    id: "isalo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardin Botanique Ambatos",
+                  "text": "Der Jardin Botanique Ambatos ist ein botanischer Garten, der die einzigartige, trockenheitsresistente Flora der Isalo-Region präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.318111,
+                        -22.541944
+                  ]
+            },
+            {
+                  "name": "Loup de l'Isalo",
+                  "text": "Der Loup de l'Isalo ist eine berühmte natürliche Felsformation, die von Wind und Regen so geformt wurde, dass sie einem heulenden Wolf ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.300564,
+                        -22.610457
+                  ]
+            },
+            {
+                  "name": "Fenster von Isalo",
+                  "text": "Das Isalo-Fenster ist ein natürlicher Sandsteinbogen, der berühmt dafür ist, spektakuläre Sonnenuntergänge über der Savanne einzurahmen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.308682,
+                        -22.641163
+                  ]
+            },
+            {
+                  "name": "Reine de l'Isalo",
+                  "text": "Die Reine de l'Isalo ist eine majestätische, kronenförmige Felsformation, die markant in der erodierten Sandsteinlandschaft des Parks aufragt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.33888,
+                        -22.62825
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "Dieser Jardin Botanique bietet einen geführten Wanderweg, der von endemischen Sukkulenten und Pachypodium-Pflanzen des südlichen Madagaskars umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.358682,
+                        -22.611603
+                  ]
+            },
+            {
+                  "name": "Tsingy",
+                  "text": "Die Tsingy von Isalo bestehen aus rasiermesserscharfen, stark erodierten Steinspitzen, die eine dramatische, labyrinthartige Landschaft bilden.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333226,
+                        -22.581188
+                  ]
+            },
+            {
+                  "name": "Piscine noir",
+                  "text": "Die Piscine Noir ist ein tiefes, dunkles natürliches Becken, das versteckt in den schattigen Sandsteincanyons von Isalo liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.370165,
+                        -22.539082
+                  ]
+            },
+            {
+                  "name": "Petit Nazareth",
+                  "text": "Petit Nazareth ist ein erhöhter Aussichtspunkt mit weitem Blick über das zerklüftete Massiv und die grasbewachsenen Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        45.371518,
+                        -22.560078
+                  ]
+            },
+            {
+                  "name": "Piscine Naturelle",
+                  "text": "Dieser ikonische Naturpool ist eine kristallklare Oase, die von Pandanus-Bäumen gesäumt wird und Wanderern im trockenen Park eine erfrischende Abkühlung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.364233,
+                        -22.566402
+                  ]
+            },
+            {
+                  "name": "Ampasimaiky",
+                  "text": "Ampasimaiky ist ein Panoramablick auf einem felsigen Kamm, ideal, um die Weite der erodierten Canyonlandschaft auf sich wirken zu lassen.",
+                  "category": "natural",
+                  "coords": [
+                        45.361566,
+                        -22.566045
+                  ]
+            },
+            {
+                  "name": "Isalo Museum",
+                  "text": "Das Isalo-Museum dient als Informationszentrum, in dem die komplexe Geologie der Sandsteinmassive und die lokale Bara-Kultur detailliert erklärt werden.",
+                  "category": "museum",
+                  "coords": [
+                        45.362682,
+                        -22.617935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin Botanique Ambatos",
+                  "text": "A Jardin Botanique Ambatos egy buja botanikai látványosság, amely az Isalo Nemzeti Park szárazságtűrő növényvilágát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        45.318111,
+                        -22.541944
+                  ]
+            },
+            {
+                  "name": "Loup de l'Isalo",
+                  "text": "A Loup de l'Isalo egy híres, szél és eső által formált sziklaalakzat, amely egy üvöltő farkasra hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        45.300564,
+                        -22.610457
+                  ]
+            },
+            {
+                  "name": "La Fenêtre",
+                  "text": "Az Isalo Window egy természetes homokkő boltív, amely a szavanna feletti látványos naplementék megkeretezéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        45.308682,
+                        -22.641163
+                  ]
+            },
+            {
+                  "name": "Reine de l'Isalo",
+                  "text": "A Reine de l'Isalo egy fenséges, korona alakú sziklaalakzat, amely kiemelkedik a park erodált homokkő tájából.",
+                  "category": "landmark",
+                  "coords": [
+                        45.33888,
+                        -22.62825
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "Ez a Jardin Botanique egy vezetett ösvénnyel rendelkezik, amelyet Dél-Madagaszkár endemikus pozsgásai és pachypodium növényei vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        45.358682,
+                        -22.611603
+                  ]
+            },
+            {
+                  "name": "Tsingy",
+                  "text": "Az Isalo-i Tsingy borotvaéles, erősen erodált kőoszlopokkal rendelkezik, amelyek drámai, labirintusszerű tájat hoznak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333226,
+                        -22.581188
+                  ]
+            },
+            {
+                  "name": "Piscine noir",
+                  "text": "A Piscine Noir egy mély, sötét természetes medence, amely Isalo árnyékos homokkő kanyonjaiban bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        45.370165,
+                        -22.539082
+                  ]
+            },
+            {
+                  "name": "Petit Nazareth",
+                  "text": "A Petit Nazareth egy magaslati kilátó, ahonnan elsöprő kilátás nyílik a zord masszívumra és a füves síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        45.371518,
+                        -22.560078
+                  ]
+            },
+            {
+                  "name": "Piscine Naturelle",
+                  "text": "Ez az ikonikus természetes medence egy kristálytiszta oázis pandanusz fákkal szegélyezve, amely frissítő úszást kínál a túrázóknak a száraz parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.364233,
+                        -22.566402
+                  ]
+            },
+            {
+                  "name": "Ampasimaiky",
+                  "text": "Az Ampasimaiky egy sziklás gerincen található panorámás kilátó, amely tökéletes az erodált kanyon kiterjedésének megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        45.361566,
+                        -22.566045
+                  ]
+            },
+            {
+                  "name": "Isalo Museum",
+                  "text": "Az Isalo Múzeum értelmező központként szolgál, bemutatva a homokkő masszívumok bonyolult geológiáját és a helyi Bara kultúrát.",
+                  "category": "museum",
+                  "coords": [
+                        45.362682,
+                        -22.617935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardin Botanique Ambatos",
+                  "text": "Jardin Botanique Ambatos este o grădină botanică luxuriantă care prezintă flora unică și rezistentă la secetă din regiunea Isalo.",
+                  "category": "landmark",
+                  "coords": [
+                        45.318111,
+                        -22.541944
+                  ]
+            },
+            {
+                  "name": "Loup de l'Isalo",
+                  "text": "Loup de l'Isalo este o faimoasă formațiune stâncoasă naturală, sculptată de vânt și ploaie pentru a semăna cu un lup care urlă.",
+                  "category": "landmark",
+                  "coords": [
+                        45.300564,
+                        -22.610457
+                  ]
+            },
+            {
+                  "name": "La Fenêtre",
+                  "text": "Fereastra Isalo este un arc natural de gresie, renumit pentru încadrarea apusurilor de soare spectaculoase peste savană.",
+                  "category": "landmark",
+                  "coords": [
+                        45.308682,
+                        -22.641163
+                  ]
+            },
+            {
+                  "name": "Reine de l'Isalo",
+                  "text": "Reine de l'Isalo este o formațiune stâncoasă maiestuoasă, în formă de coroană, care se profilează proeminent în peisajul de gresie erodată al parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.33888,
+                        -22.62825
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "Această Jardin Botanique dispune de un traseu ghidat, înconjurat de plante suculente și pachypodium endemice din sudul Madagascarului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.358682,
+                        -22.611603
+                  ]
+            },
+            {
+                  "name": "Tsingy",
+                  "text": "Tsingy din Isalo prezintă pinacluri de piatră foarte ascuțite și puternic erodate, care creează un peisaj dramatic și labirintic.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333226,
+                        -22.581188
+                  ]
+            },
+            {
+                  "name": "Piscine noir",
+                  "text": "Piscine Noir este o piscină naturală adâncă și întunecată, ascunsă în canioanele umbrite de gresie din Isalo.",
+                  "category": "landmark",
+                  "coords": [
+                        45.370165,
+                        -22.539082
+                  ]
+            },
+            {
+                  "name": "Petit Nazareth",
+                  "text": "Petit Nazareth este un punct de belvedere ridicat, care oferă o priveliște vastă asupra masivului accidentat și a câmpiilor înierbate.",
+                  "category": "natural",
+                  "coords": [
+                        45.371518,
+                        -22.560078
+                  ]
+            },
+            {
+                  "name": "Piscine Naturelle",
+                  "text": "Această piscină naturală iconică este o oază cu apă cristalină, mărginită de arbori pandanus, oferind drumeților o baie răcoritoare în parcul arid.",
+                  "category": "landmark",
+                  "coords": [
+                        45.364233,
+                        -22.566402
+                  ]
+            },
+            {
+                  "name": "Ampasimaiky",
+                  "text": "Ampasimaiky este un punct de belvedere panoramic situat pe o creastă stâncoasă, perfect pentru a admira imensitatea peisajului de canion erodat.",
+                  "category": "natural",
+                  "coords": [
+                        45.361566,
+                        -22.566045
+                  ]
+            },
+            {
+                  "name": "Isalo Museum",
+                  "text": "Muzeul Isalo servește ca centru interpretativ, detaliind geologia complexă a masivelor de gresie și cultura locală Bara.",
+                  "category": "museum",
+                  "coords": [
+                        45.362682,
+                        -22.617935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin Botanique Ambatos",
+                  "text": "Jardin Botanique Ambatos is a lush botanical attraction showcasing the unique, drought-resistant flora of the Isalo National Park region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.318111,
+                        -22.541944
+                  ]
+            },
+            {
+                  "name": "Loup de l'Isalo",
+                  "text": "The Loup de l'Isalo is a famous natural rock formation sculpted by wind and rain to resemble a howling wolf.",
+                  "category": "landmark",
+                  "coords": [
+                        45.300564,
+                        -22.610457
+                  ]
+            },
+            {
+                  "name": "Isalo Window",
+                  "text": "The Isalo Window is a natural sandstone archway renowned for framing spectacular sunsets across the savanna.",
+                  "category": "landmark",
+                  "coords": [
+                        45.308682,
+                        -22.641163
+                  ]
+            },
+            {
+                  "name": "Reine de l'Isalo",
+                  "text": "The Reine de l'Isalo is a majestic, crown-shaped rock formation standing prominently within the eroded sandstone landscape of the park.",
+                  "category": "landmark",
+                  "coords": [
+                        45.33888,
+                        -22.62825
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "This Jardin Botanique features a guided walking trail surrounded by endemic succulents and pachypodium plants of southern Madagascar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.358682,
+                        -22.611603
+                  ]
+            },
+            {
+                  "name": "Tsingy",
+                  "text": "The Tsingy of Isalo features razor-sharp, heavily eroded stone pinnacles creating a dramatic, labyrinthine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        45.333226,
+                        -22.581188
+                  ]
+            },
+            {
+                  "name": "Piscine noir",
+                  "text": "The Piscine Noir is a deep, dark natural pool tucked away within the shaded sandstone canyons of Isalo.",
+                  "category": "landmark",
+                  "coords": [
+                        45.370165,
+                        -22.539082
+                  ]
+            },
+            {
+                  "name": "Petit Nazareth",
+                  "text": "Petit Nazareth is an elevated scenic viewpoint offering sweeping vistas over the rugged massif and grassy plains.",
+                  "category": "natural",
+                  "coords": [
+                        45.371518,
+                        -22.560078
+                  ]
+            },
+            {
+                  "name": "Natural pool",
+                  "text": "This iconic natural pool is a crystal-clear oasis fringed by pandanus trees, offering hikers a refreshing swim in the arid park.",
+                  "category": "landmark",
+                  "coords": [
+                        45.364233,
+                        -22.566402
+                  ]
+            },
+            {
+                  "name": "Ampasimaiky",
+                  "text": "Ampasimaiky is a panoramic viewpoint situated on a rocky ridge, perfect for taking in the vastness of the eroded canyon landscape.",
+                  "category": "natural",
+                  "coords": [
+                        45.361566,
+                        -22.566045
+                  ]
+            },
+            {
+                  "name": "Isalo Museum",
+                  "text": "The Isalo Museum serves as an interpretive center detailing the complex geology of the sandstone massifs and the local Bara culture.",
+                  "category": "museum",
+                  "coords": [
+                        45.362682,
+                        -22.617935
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MG-T",
     coords: [45.3, -22.6],
@@ -650,7 +1478,88 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     
   },
   {
-    id: "saint-marie-island-nature-v2",
+    id: "saint-marie-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Endemika",
+                  "text": "Dieses Naturschutzgebiet auf der Insel Sainte Marie ermöglicht es Besuchern, Madagaskars einzigartige endemische Fauna, einschließlich besonderer Lemurenarten, zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        49.825649,
+                        -17.067909
+                  ]
+            },
+            {
+                  "name": "Phare",
+                  "text": "Eine hohe, funktionale Leuchtturmstruktur, die auf der Insel Sainte Marie errichtet wurde, um den Seeverkehr entlang der felsigen Küste der Insel zu leiten.",
+                  "category": "landmark",
+                  "coords": [
+                        49.809277,
+                        -17.115132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Endemika",
+                  "text": "Ez a Sainte Marie-szigeten található természetvédelmi terület lehetővé teszi a látogatók számára Madagaszkár egyedülálló, endemikus faunájának, köztük a különleges makifajoknak a megfigyelését.",
+                  "category": "recreational",
+                  "coords": [
+                        49.825649,
+                        -17.067909
+                  ]
+            },
+            {
+                  "name": "Phare",
+                  "text": "A Sainte Marie-szigeten emelt magas, működő világítótorony a sziget sziklás partjai mentén haladó tengeri forgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        49.809277,
+                        -17.115132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Endemika",
+                  "text": "Această rezervație naturală de pe insula Sainte Marie permite vizitatorilor să observe fauna endemică unică a Madagascarului, inclusiv specii distincte de lemurieni.",
+                  "category": "recreational",
+                  "coords": [
+                        49.825649,
+                        -17.067909
+                  ]
+            },
+            {
+                  "name": "Phare",
+                  "text": "O structură înaltă și funcțională de far ridicată pe insula Sainte Marie pentru a ghida traficul maritim de-a lungul coastei stâncoase a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        49.809277,
+                        -17.115132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Endemika",
+                  "text": "This nature reserve on Saint Marie Island allows visitors to observe Madagascar's unique endemic fauna, including distinct lemur species.",
+                  "category": "recreational",
+                  "coords": [
+                        49.825649,
+                        -17.067909
+                  ]
+            },
+            {
+                  "name": "Phare",
+                  "text": "A tall, functional lighthouse structure erected on Saint Marie Island to guide maritime traffic along the island's rocky coast.",
+                  "category": "landmark",
+                  "coords": [
+                        49.809277,
+                        -17.115132
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MG-A",
     coords: [49.8, -17.1],
@@ -720,7 +1629,52 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     
   },
   {
-    id: "lake-tsimanampetsotsa-nature-v2",
+    id: "lake-tsimanampetsotsa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsimanapetsotse",
+                  "text": "Ein Nationalpark und Naturschutzgebiet rund um den salzhaltigen Tsimanampetsotsa-See.",
+                  "category": "natural",
+                  "coords": [
+                        43.826204,
+                        -24.180049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsimanapetsotse",
+                  "text": "A sós Tsimanampetsotsa-tó körül elterülő nemzeti park és természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        43.826204,
+                        -24.180049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsimanapetsotse",
+                  "text": "Un parc național și o rezervație naturală centrată în jurul lacului sărat Tsimanampetsotsa.",
+                  "category": "natural",
+                  "coords": [
+                        43.826204,
+                        -24.180049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsimanapetsotse",
+                  "text": "A national park and nature reserve centered around the saline Lake Tsimanampetsotsa.",
+                  "category": "natural",
+                  "coords": [
+                        43.826204,
+                        -24.180049
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MG-T",
     coords: [43.8, -24.1],
@@ -877,7 +1831,52 @@ export const poiExtraMadagascarNatureV2: POI[] = [
     
   },
   {
-    id: "lake-anivorano-nature-v2",
+    id: "lake-anivorano-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Antanavo",
+                  "text": "Der Antanavo-See bietet einen beeindruckenden Aussichtspunkt auf einen vulkanischen Kratersee, der für seine heiligen Nilkrokodile bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        49.257826,
+                        -12.757045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Antanavo",
+                  "text": "Az Antanavo-tó kilátója egy vulkáni krátertóra tekint, amely a benne élő szent nílusi krokodilokról híres.",
+                  "category": "natural",
+                  "coords": [
+                        49.257826,
+                        -12.757045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Antanavo",
+                  "text": "Lacul Antanavo oferă un punct de belvedere impresionant asupra unui lac vulcanic de crater, faimos pentru crocodilii de Nil sacri.",
+                  "category": "natural",
+                  "coords": [
+                        49.257826,
+                        -12.757045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Antanavo",
+                  "text": "Lake Antanavo offers a striking viewpoint over a volcanic crater lake famously inhabited by sacred Nile crocodiles.",
+                  "category": "natural",
+                  "coords": [
+                        49.257826,
+                        -12.757045
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MG-D",
     coords: [49.2, -12.7],

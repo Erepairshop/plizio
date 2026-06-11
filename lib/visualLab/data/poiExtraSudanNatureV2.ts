@@ -179,7 +179,52 @@ export const poiExtraSudanNatureV2: POI[] = [
     },
   },
   {
-    id: "atbara-river-nature-v2",
+    id: "atbara-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Railway Museum Atbara",
+                  "text": "Dieses Museum am Atbara-Fluss dokumentiert die reiche Eisenbahngeschichte des Sudan mit historischen Zügen und Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        33.972422,
+                        17.695579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Railway Museum Atbara",
+                  "text": "Ez az Atbara folyó melletti múzeum történelmi vonatokkal és műtárgyakkal dokumentálja Szudán gazdag vasúttörténetét.",
+                  "category": "museum",
+                  "coords": [
+                        33.972422,
+                        17.695579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Railway Museum Atbara",
+                  "text": "Acest muzeu de pe râul Atbara documentează bogata istorie feroviară a Sudanului cu trenuri și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        33.972422,
+                        17.695579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Railway Museum Atbara",
+                  "text": "This museum by the Atbara River documents Sudan's rich railway history with historical trains and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        33.972422,
+                        17.695579
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SD-NR",
     coords: [33.98, 17.68],
@@ -223,7 +268,52 @@ export const poiExtraSudanNatureV2: POI[] = [
     },
   },
   {
-    id: "blue-nile-river-nature-v2",
+    id: "blue-nile-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goethe Institute Theatre",
+                  "text": "Ein Theatersaal des deutschen Kulturinstituts am Blauen Nil.",
+                  "category": "cultural",
+                  "coords": [
+                        32.53548,
+                        15.603616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goethe Institute Theatre",
+                  "text": "A német kulturális intézet által fenntartott színházi előadóterem a Kék-Nílus közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.53548,
+                        15.603616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goethe Institute Theatre",
+                  "text": "O sală de spectacole găzduită de institutul cultural german de lângă Nilul Albastru.",
+                  "category": "cultural",
+                  "coords": [
+                        32.53548,
+                        15.603616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goethe Institute Theatre",
+                  "text": "A performing arts venue hosted by the German cultural institute near the Blue Nile.",
+                  "category": "cultural",
+                  "coords": [
+                        32.53548,
+                        15.603616
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SD-NR",
     coords: [32.5333, 15.6],
@@ -751,7 +841,268 @@ export const poiExtraSudanNatureV2: POI[] = [
     },
   },
   {
-    id: "sabaloka-gorge-nature-v2",
+    id: "sabaloka-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Retejat al Ezerq",
+                  "text": "Dieser Gipfel erhebt sich über der Sabaloka-Schlucht und bietet einen spektakulären Blick auf den Nil, der durch die Felsen stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        32.8551,
+                        16.3011
+                  ]
+            },
+            {
+                  "name": "Hijer ad Dabba",
+                  "text": "Ein steiler felsiger Abhang, der an die tiefe Schlucht grenzt, in der sich das Flussbett deutlich verengt.",
+                  "category": "natural",
+                  "coords": [
+                        32.8703,
+                        16.3032
+                  ]
+            },
+            {
+                  "name": "Hijer al Amlat",
+                  "text": "Dieser schroffe Gipfel überblickt die schäumenden Stromschnellen des natürlichen Flussengpasses darunter.",
+                  "category": "natural",
+                  "coords": [
+                        32.8648,
+                        16.2948
+                  ]
+            },
+            {
+                  "name": "Jabal Qallot",
+                  "text": "Geprägt von massiven Granitblöcken, wacht dieser Berg über die schnell fließenden Wasser der Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        32.9036,
+                        16.3062
+                  ]
+            },
+            {
+                  "name": "Jabal al Qaw",
+                  "text": "Dieser hohe Gipfel bietet einen hervorragenden Aussichtspunkt, um die einzigartige Geologie des Katarakts zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        32.8973,
+                        16.3349
+                  ]
+            },
+            {
+                  "name": "Jabal en Nasil",
+                  "text": "Ein markanter Höhepunkt im Naturschutzgebiet, der sich scharf vom Hintergrund des fließenden Flusses abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        32.9007,
+                        16.3659
+                  ]
+            },
+            {
+                  "name": "Jebel Qanatir",
+                  "text": "Diese felsige Anhöhe ist Teil des natürlichen Engpasses, der die turbulenten Stromschnellen der Sabaloka-Schlucht erzeugt.",
+                  "category": "natural",
+                  "coords": [
+                        32.899444,
+                        16.383333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Retejat al Ezerq",
+                  "text": "A Sabaloka-szurdok fölé magasodó csúcs lenyűgöző kilátást nyújt a sziklák között lezúduló Nílusra.",
+                  "category": "natural",
+                  "coords": [
+                        32.8551,
+                        16.3011
+                  ]
+            },
+            {
+                  "name": "Hijer ad Dabba",
+                  "text": "Meredek sziklás lejtő, amely a mély szurdokot szegélyezi, ahol a folyómeder jelentősen összeszűkül.",
+                  "category": "natural",
+                  "coords": [
+                        32.8703,
+                        16.3032
+                  ]
+            },
+            {
+                  "name": "Hijer al Amlat",
+                  "text": "Ez a zord csúcs a lenti természetes folyószűkület örvénylő zuhatagaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        32.8648,
+                        16.2948
+                  ]
+            },
+            {
+                  "name": "Jabal Qallot",
+                  "text": "A hatalmas gránitsziklákkal jellemezhető hegy a szurdok sebes folyású vizei felett őrködik.",
+                  "category": "natural",
+                  "coords": [
+                        32.9036,
+                        16.3062
+                  ]
+            },
+            {
+                  "name": "Jabal al Qaw",
+                  "text": "Ez a magas csúcs kiváló kilátópontot nyújt a kataraktusz egyedülálló geológiájának megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        32.8973,
+                        16.3349
+                  ]
+            },
+            {
+                  "name": "Jabal en Nasil",
+                  "text": "A természetvédelmi terület kiemelkedő magaslata, amely élesen elüt a folyó hátterétől.",
+                  "category": "natural",
+                  "coords": [
+                        32.9007,
+                        16.3659
+                  ]
+            },
+            {
+                  "name": "Jebel Qanatir",
+                  "text": "Ez a sziklás magaslat része annak a természetes szűkületnek, amely a Sabaloka-szurdok viharos zuhatagait hozza létre.",
+                  "category": "natural",
+                  "coords": [
+                        32.899444,
+                        16.383333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Retejat al Ezerq",
+                  "text": "Ridicându-se deasupra defileului Sabaloka, acest vârf oferă vederi spectaculoase ale Nilului care curge în cascade printre stânci.",
+                  "category": "natural",
+                  "coords": [
+                        32.8551,
+                        16.3011
+                  ]
+            },
+            {
+                  "name": "Hijer ad Dabba",
+                  "text": "O pantă stâncoasă abruptă care mărginește defileul adânc unde albia râului se îngustează semnificativ.",
+                  "category": "natural",
+                  "coords": [
+                        32.8703,
+                        16.3032
+                  ]
+            },
+            {
+                  "name": "Hijer al Amlat",
+                  "text": "Acest vârf stâncos are vedere la prăpăstiile învolburate ale gâtului de sticlă natural al râului de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        32.8648,
+                        16.2948
+                  ]
+            },
+            {
+                  "name": "Jabal Qallot",
+                  "text": "Caracterizat de bolovani masivi de granit, acest munte veghează asupra apelor cu curgere rapidă ale defileului.",
+                  "category": "natural",
+                  "coords": [
+                        32.9036,
+                        16.3062
+                  ]
+            },
+            {
+                  "name": "Jabal al Qaw",
+                  "text": "Acest vârf înalt oferă un punct de observație excelent pentru a admira geologia unică a cataractei.",
+                  "category": "natural",
+                  "coords": [
+                        32.8973,
+                        16.3349
+                  ]
+            },
+            {
+                  "name": "Jabal en Nasil",
+                  "text": "Un punct înalt proeminent în rezervația naturală, evidențiindu-se clar pe fundalul râului curgător.",
+                  "category": "natural",
+                  "coords": [
+                        32.9007,
+                        16.3659
+                  ]
+            },
+            {
+                  "name": "Jebel Qanatir",
+                  "text": "Această înălțime stâncoasă face parte din îngustarea naturală care creează prăpăstiile turbulente ale defileului Sabaloka.",
+                  "category": "natural",
+                  "coords": [
+                        32.899444,
+                        16.383333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Retejat al Ezerq",
+                  "text": "Rising above the Sabaloka Gorge, this peak offers spectacular views of the Nile cascading through the rocks.",
+                  "category": "natural",
+                  "coords": [
+                        32.8551,
+                        16.3011
+                  ]
+            },
+            {
+                  "name": "Hijer ad Dabba",
+                  "text": "A steep rocky incline bordering the deep gorge where the river channel narrows significantly.",
+                  "category": "natural",
+                  "coords": [
+                        32.8703,
+                        16.3032
+                  ]
+            },
+            {
+                  "name": "Hijer al Amlat",
+                  "text": "This craggy summit overlooks the churning rapids of the natural river bottleneck below.",
+                  "category": "natural",
+                  "coords": [
+                        32.8648,
+                        16.2948
+                  ]
+            },
+            {
+                  "name": "Jabal Qallot",
+                  "text": "Characterized by massive granite boulders, this mountain watches over the fast-flowing gorge waters.",
+                  "category": "natural",
+                  "coords": [
+                        32.9036,
+                        16.3062
+                  ]
+            },
+            {
+                  "name": "Jabal al Qaw",
+                  "text": "This elevated peak provides a prime vantage point for observing the unique geology of the cataract.",
+                  "category": "natural",
+                  "coords": [
+                        32.8973,
+                        16.3349
+                  ]
+            },
+            {
+                  "name": "Jabal en Nasil",
+                  "text": "A prominent high point in the nature reserve, standing starkly against the flowing river backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        32.9007,
+                        16.3659
+                  ]
+            },
+            {
+                  "name": "Jebel Qanatir",
+                  "text": "This rocky height forms part of the natural bottleneck that creates the Sabaloka Gorge's turbulent rapids.",
+                  "category": "natural",
+                  "coords": [
+                        32.899444,
+                        16.383333
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SD-NR",
     coords: [32.9, 16.3],
@@ -883,7 +1234,52 @@ export const poiExtraSudanNatureV2: POI[] = [
     },
   },
   {
-    id: "jebel-dair-nature-v2",
+    id: "jebel-dair-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jebel Dair",
+                  "text": "Ein schroffer Gipfel und ein geschützter Nationalpark in der Savannenregion des Sudan.",
+                  "category": "natural",
+                  "coords": [
+                        30.678978,
+                        12.453339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jebel Dair",
+                  "text": "Zord hegycsúcs és védett nemzeti park a szudáni szavanna régióban.",
+                  "category": "natural",
+                  "coords": [
+                        30.678978,
+                        12.453339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jebel Dair",
+                  "text": "Un vârf stâncos și o arie protejată de parc național în regiunea de savană a Sudanului.",
+                  "category": "natural",
+                  "coords": [
+                        30.678978,
+                        12.453339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jebel Dair",
+                  "text": "A rugged peak and protected national park area located in Sudan's savanna region.",
+                  "category": "natural",
+                  "coords": [
+                        30.678978,
+                        12.453339
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SD-SK",
     coords: [30.7, 12.4],
@@ -1091,7 +1487,52 @@ export const poiExtraSudanNatureV2: POI[] = [
     },
   },
   {
-    id: "nile-cataract-6-nature-v2",
+    id: "nile-cataract-6-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal‘at el Hada",
+                  "text": "Dieser schroffe Gipfel am sechsten Katarakt bietet dramatische Ausblicke auf den felsigen Abstieg des Nils.",
+                  "category": "natural",
+                  "coords": [
+                        32.9569,
+                        16.3673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal‘at el Hada",
+                  "text": "A Hatodik Kataraktusznál található zord csúcs drámai kilátást nyújt a Nílus sziklás ereszkedésére.",
+                  "category": "natural",
+                  "coords": [
+                        32.9569,
+                        16.3673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal‘at el Hada",
+                  "text": "Situat lângă a șasea cataractă, acest vârf accidentat oferă priveliști dramatice ale coborârii stâncoase a Nilului.",
+                  "category": "natural",
+                  "coords": [
+                        32.9569,
+                        16.3673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`at el Hada",
+                  "text": "Situated by the Sixth Cataract, this rugged peak offers dramatic views of the Nile's rocky descent.",
+                  "category": "natural",
+                  "coords": [
+                        32.9569,
+                        16.3673
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SD-NR",
     coords: [33, 16.3],
@@ -1179,7 +1620,52 @@ export const poiExtraSudanNatureV2: POI[] = [
     },
   },
   {
-    id: "khor-el-gash-nature-v2",
+    id: "khor-el-gash-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hala's House",
+                  "text": "Hala's House ist ein schlossähnliches Gebäude, das als markantes architektonisches Wahrzeichen in der Nähe des saisonalen Flussbetts des Khor el Gash steht.",
+                  "category": "castle",
+                  "coords": [
+                        36.347891,
+                        15.408073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hala's House",
+                  "text": "A Hala's House egy kastélyszerű építmény, amely jellegzetes építészeti nevezetességként áll a szezonális Khor el Gash folyómeder közelében.",
+                  "category": "castle",
+                  "coords": [
+                        36.347891,
+                        15.408073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hala's House",
+                  "text": "Casa Hala este o structură asemănătoare unui castel, care se profilează ca un reper arhitectural distinctiv lângă albia sezonieră a râului Khor el Gash.",
+                  "category": "castle",
+                  "coords": [
+                        36.347891,
+                        15.408073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hala's House",
+                  "text": "Hala's House is a castle-like structure standing as a distinctive architectural landmark near the seasonal Khor el Gash riverbed.",
+                  "category": "castle",
+                  "coords": [
+                        36.347891,
+                        15.408073
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SD-KS",
     coords: [36.4, 15.4],

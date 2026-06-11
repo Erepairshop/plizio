@@ -61,7 +61,7 @@ export const russiaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzei iskusstva narodov Vostoka",
-                  "text": "Museum für orientalische Kunst in Moskau.",
+                  "text": "Museum für Orientalische Kunst, gegründet 1918 in Moskau.",
                   "category": "museum",
                   "coords": [
                         37.599895,
@@ -549,7 +549,7 @@ export const russiaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzei iskusstva narodov Vostoka",
-                  "text": "Keleti Művészeti Múzeum Moszkvában.",
+                  "text": "Keleti Művészeti Múzeum, 1918-ban alapították Moszkvában.",
                   "category": "museum",
                   "coords": [
                         37.599895,
@@ -1037,7 +1037,7 @@ export const russiaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzei iskusstva narodov Vostoka",
-                  "text": "Muzeul de Artă Orientală în Moscova.",
+                  "text": "Muzeul de Artă Orientală, fondat în 1918 la Moscova.",
                   "category": "museum",
                   "coords": [
                         37.599895,
@@ -1525,7 +1525,7 @@ export const russiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Oriental Arts",
-                  "text": "Museum of Oriental Art in Moskau.",
+                  "text": "Museum of Oriental Art founded in 1918 in Moscow.",
                   "category": "museum",
                   "coords": [
                         37.599895,
@@ -2177,7 +2177,7 @@ imageHint: "Moscow Kremlin and Saint Basil Cathedral",
             },
             {
                   "name": "Akademicheskii dramaticheskii teatr imeni V. F. Komissarzhevskoi",
-                  "text": "Академический драматический театр имени В. Ф. Комиссаржевской ist ein bekanntes Theater in Sankt Petersburg.",
+                  "text": "Dramatisches Theater, eröffnet am 18. Oktober 1942 in Sankt Petersburg.",
                   "category": "cultural",
                   "coords": [
                         30.335049,
@@ -2692,7 +2692,7 @@ imageHint: "Moscow Kremlin and Saint Basil Cathedral",
             },
             {
                   "name": "Akademicheskii dramaticheskii teatr imeni V. F. Komissarzhevskoi",
-                  "text": "A(z) Академический драматический театр имени В. Ф. Комиссаржевской egy nevezetes színház Szentpétervár városában.",
+                  "text": "Drámai Színház, 1942. október 18-án nyílt meg Szentpéterváron.",
                   "category": "cultural",
                   "coords": [
                         30.335049,
@@ -3207,7 +3207,7 @@ imageHint: "Moscow Kremlin and Saint Basil Cathedral",
             },
             {
                   "name": "Akademicheskii dramaticheskii teatr imeni V. F. Komissarzhevskoi",
-                  "text": "Академический драматический театр имени В. Ф. Комиссаржевской este un teatru notabil situat în Sankt Petersburg.",
+                  "text": "Teatrul dramatic, deschis la 18 octombrie 1942 în Sankt Petersburg.",
                   "category": "cultural",
                   "coords": [
                         30.335049,
@@ -3722,7 +3722,7 @@ imageHint: "Moscow Kremlin and Saint Basil Cathedral",
             },
             {
                   "name": "Akademicheskii dramaticheskii teatr imeni V. F. Komissarzhevskoi",
-                  "text": "Академический драматический театр имени В. Ф. Комиссаржевской is a notable theatre located in Sankt Petersburg.",
+                  "text": "Drama theatre opened on 18 October 1942 in Saint Petersburg.",
                   "category": "cultural",
                   "coords": [
                         30.335049,
@@ -5356,7 +5356,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Muzei Bazhova",
-                  "text": "Museum zu Ehren von Pawel Baschow in Jekaterinburg.",
+                  "text": "Gedenkhaus-Museum des Schriftstellers Pawel Baschow, erbaut 1911–1914 in Jekaterinburg.",
                   "category": "museum",
                   "coords": [
                         60.613476,
@@ -5365,7 +5365,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "Kunstmuseum in Jekaterinburg.",
+                  "text": "Kunstmuseum Ernst Neiswestny in einem Gebäude aus dem 19. Jahrhundert in Jekaterinburg.",
                   "category": "museum",
                   "coords": [
                         60.603762,
@@ -5500,7 +5500,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khram v chest Vozneseniya Gospodnya",
-                  "text": "Die Himmelfahrtskirche ist ein Gotteshaus in Jekaterinburg.",
+                  "text": "Himmelfahrtskirche, erbaut 1792 in Jekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.61284,
@@ -5527,7 +5527,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Tserkov Svyatogo Karapeta",
-                  "text": "Die St.-Karapet-Kirche ist ein Gotteshaus in Jekaterinburg.",
+                  "text": "Armenische Kirche des heiligen Karapet, erbaut 2014 in Jekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.617574,
@@ -5572,7 +5572,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Chasovnya Aleksandra Nevskogo",
-                  "text": "Die Alexander-Newski-Kapelle ist ein Gotteshaus in Jekaterinburg.",
+                  "text": "Alexander-Newski-Kapelle, erbaut 1881 in Jekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.602766,
@@ -5853,7 +5853,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Muzei Bazhova",
-                  "text": "Pawel Baschow-múzeum Jekatyerinburgban.",
+                  "text": "Pavel Bazsov író emlékház-múzeuma, 1911–1914-ben épült Jekatyerinburgban.",
                   "category": "museum",
                   "coords": [
                         60.613476,
@@ -5862,7 +5862,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "Művészeti múzeum Jekatyerinburgban.",
+                  "text": "Ernst Neizvesztnij Művészeti Múzeum egy 19. századi épületben Jekatyerinburgban.",
                   "category": "museum",
                   "coords": [
                         60.603762,
@@ -5997,7 +5997,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khram v chest Vozneseniya Gospodnya",
-                  "text": "A Mennybemenetel-templom egy istentiszteleti hely Jekatyerinburgban.",
+                  "text": "Mennybemenetel-templom, 1792-ben épült Jekatyerinburgban.",
                   "category": "religious",
                   "coords": [
                         60.61284,
@@ -6024,7 +6024,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Tserkov Svyatogo Karapeta",
-                  "text": "A Szent Karapet-templom egy istentiszteleti hely Jekatyerinburgban.",
+                  "text": "Szent Karapet örmény templom, 2014-ben épült Jekatyerinburgban.",
                   "category": "religious",
                   "coords": [
                         60.617574,
@@ -6069,7 +6069,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Chasovnya Aleksandra Nevskogo",
-                  "text": "Az Alexander Nyevszkij-kápolna egy istentiszteleti hely Jekatyerinburgban.",
+                  "text": "Alexandru Nyevszkij-kápolna, 1881-ben épült Jekatyerinburgban.",
                   "category": "religious",
                   "coords": [
                         60.602766,
@@ -6350,7 +6350,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Muzei Bazhova",
-                  "text": "Muzeu dedicat lui Pavel Bajov în Ekaterinburg.",
+                  "text": "Casa-muzeu memorială a scriitorului Pavel Bajov, construită între 1911 și 1914 în Ekaterinburg.",
                   "category": "museum",
                   "coords": [
                         60.613476,
@@ -6359,7 +6359,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "Muzeu de artă în Ekaterinburg.",
+                  "text": "Muzeul de Artă Ernst Neizvestny, într-o clădire din secolul al XIX-lea în Ekaterinburg.",
                   "category": "museum",
                   "coords": [
                         60.603762,
@@ -6494,7 +6494,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khram v chest Vozneseniya Gospodnya",
-                  "text": "Biserica Înălțării Domnului este un lăcaș de cult din Ekaterinburg.",
+                  "text": "Biserica Înălțarea Domnului, construită în 1792 în Ekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.61284,
@@ -6521,7 +6521,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Tserkov Svyatogo Karapeta",
-                  "text": "Biserica Sfântul Karapet este un lăcaș de cult din Ekaterinburg.",
+                  "text": "Biserica armeană Sfântul Karapet, construită în 2014 în Ekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.617574,
@@ -6566,7 +6566,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Chasovnya Aleksandra Nevskogo",
-                  "text": "Capela Alexandru Nevski este un lăcaș de cult din Ekaterinburg.",
+                  "text": "Capela Alexandru Nevski, construită în 1881 în Ekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.602766,
@@ -6847,7 +6847,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Muzei Bazhova",
-                  "text": "Museum dedicated to Pavel Bazhov in Ekaterinburg.",
+                  "text": "Memorial house-museum of writer Pavel Bazhov, built 1911–1914 in Yekaterinburg.",
                   "category": "museum",
                   "coords": [
                         60.613476,
@@ -6856,7 +6856,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "Art museum in Ekaterinburg.",
+                  "text": "Ernst Neizvestny Art Museum housed in a 19th-century building in Yekaterinburg.",
                   "category": "museum",
                   "coords": [
                         60.603762,
@@ -6991,7 +6991,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Khram v chest Vozneseniya Gospodnya",
-                  "text": "The Church of the Ascension is a place of worship in Yekaterinburg.",
+                  "text": "Church of the Ascension built in 1792 in Yekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.61284,
@@ -7018,7 +7018,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Tserkov Svyatogo Karapeta",
-                  "text": "The Church of St. Karapet is a place of worship in Yekaterinburg.",
+                  "text": "Armenian church of Saint Karapet built in 2014 in Yekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.617574,
@@ -7063,7 +7063,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
             },
             {
                   "name": "Aleksandro-Nevskaya Chapel",
-                  "text": "The Alexander Nevsky Chapel is a place of worship in Yekaterinburg.",
+                  "text": "Alexander Nevsky Chapel built in 1881 in Yekaterinburg.",
                   "category": "religious",
                   "coords": [
                         60.602766,
@@ -7329,7 +7329,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Domik Kashirina",
-                  "text": "Домик Каширина ist ein Museum in Nischni Nowgorod.",
+                  "text": "Kashirin-Hausmuseum (Kindheitshaus von Maxim Gorki), Ende des 18. Jahrhunderts erbaut in Nischni Nowgorod.",
                   "category": "museum",
                   "coords": [
                         43.990692,
@@ -7347,7 +7347,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Muzei-kvartira A.M. Gorkogo",
-                  "text": "Музей-квартира А.М. Горького ist ein Herrenhaus in Nischni Nowgorod.",
+                  "text": "Gorki-Wohnungsmuseum, erbaut 1861 in Nischni Nowgorod.",
                   "category": "historical",
                   "coords": [
                         44.018587,
@@ -7356,7 +7356,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Sobor Aleksandra Nevskogo",
-                  "text": "Собор Александра Невского ist ein Gotteshaus in Nischni Nowgorod.",
+                  "text": "Denkmalgeschützte Alexander-Newski-Kathedrale in Nischni Nowgorod.",
                   "category": "religious",
                   "coords": [
                         43.971411,
@@ -7383,7 +7383,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Nizhegorodskii ostrog",
-                  "text": "Нижегородский острог ist ein Gefängnis in Nischni Nowgorod.",
+                  "text": "Ehemaliges Gefängnis (Ostrog), erbaut 1820–1823 in Nischni Nowgorod.",
                   "category": "landmark",
                   "coords": [
                         44.017006,
@@ -7392,7 +7392,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Spaso-Preobrazhenskaya kolokolnya",
-                  "text": "Спасо-Преображенская колокольня ist ein Aussichtspunkt in Nischni Nowgorod.",
+                  "text": "Glockenturm der Verklärungskathedrale, erbaut 2021 in Nischni Nowgorod.",
                   "category": "natural",
                   "coords": [
                         44.004876,
@@ -7772,7 +7772,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Domik Kashirina",
-                  "text": "A(z) Домик Каширина egy múzeum Nischni Nowgorod városában.",
+                  "text": "Kashirin-házmúzeum (Maxim Gorkij gyerekkori otthona), a 18. század végén épült Nyizsnyij Novgorodban.",
                   "category": "museum",
                   "coords": [
                         43.990692,
@@ -7790,7 +7790,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Muzei-kvartira A.M. Gorkogo",
-                  "text": "A(z) Музей-квартира А.М. Горького egy udvarház Nischni Nowgorod városában.",
+                  "text": "Gorkij-lakásmúzeum, 1861-ben épült Nyizsnyij Novgorodban.",
                   "category": "historical",
                   "coords": [
                         44.018587,
@@ -7799,7 +7799,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Sobor Aleksandra Nevskogo",
-                  "text": "A(z) Собор Александра Невского egy istentiszteleti hely Nischni Nowgorod városában.",
+                  "text": "Műemlék Alexandru Nyevszkij-székesegyház Nyizsnyij Novgorodban.",
                   "category": "religious",
                   "coords": [
                         43.971411,
@@ -7826,7 +7826,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Nizhegorodskii ostrog",
-                  "text": "A(z) Нижегородский острог egy börtön Nischni Nowgorod városában.",
+                  "text": "Egykori börtön (ostrog), 1820–1823 között épült Nyizsnyij Novgorodban.",
                   "category": "landmark",
                   "coords": [
                         44.017006,
@@ -7835,7 +7835,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Spaso-Preobrazhenskaya kolokolnya",
-                  "text": "A(z) Спасо-Преображенская колокольня egy kilátó Nischni Nowgorod városában.",
+                  "text": "Az Úr Színeváltozása-székesegyház harangtornya, 2021-ben épült Nyizsnyij Novgorodban.",
                   "category": "natural",
                   "coords": [
                         44.004876,
@@ -8215,7 +8215,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Domik Kashirina",
-                  "text": "Домик Каширина este un muzeu situat în Nischni Nowgorod.",
+                  "text": "Casa-muzeu Kashirin (casa copilăriei lui Maxim Gorki), construită la sfârșitul secolului al XVIII-lea în Nijni Novgorod.",
                   "category": "museum",
                   "coords": [
                         43.990692,
@@ -8233,7 +8233,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Muzei-kvartira A.M. Gorkogo",
-                  "text": "Музей-квартира А.М. Горького este un conac situat în Nischni Nowgorod.",
+                  "text": "Apartamentul-muzeu al lui Maxim Gorki, construit în 1861 în Nijni Novgorod.",
                   "category": "historical",
                   "coords": [
                         44.018587,
@@ -8242,7 +8242,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Sobor Aleksandra Nevskogo",
-                  "text": "Собор Александра Невского este un lăcaș de cult situat în Nischni Nowgorod.",
+                  "text": "Catedrala Alexandru Nevski, monument istoric în Nijni Novgorod.",
                   "category": "religious",
                   "coords": [
                         43.971411,
@@ -8269,7 +8269,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Nizhegorodskii ostrog",
-                  "text": "Нижегородский острог este o închisoare situată în Nischni Nowgorod.",
+                  "text": "Fosta închisoare (ostrog), construită între 1820 și 1823 în Nijni Novgorod.",
                   "category": "landmark",
                   "coords": [
                         44.017006,
@@ -8278,7 +8278,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Spaso-Preobrazhenskaya kolokolnya",
-                  "text": "Спасо-Преображенская колокольня este un punct de belvedere situat în Nischni Nowgorod.",
+                  "text": "Clopotnița Catedralei Schimbarea la Față, construită în 2021 în Nijni Novgorod.",
                   "category": "natural",
                   "coords": [
                         44.004876,
@@ -8658,7 +8658,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Domik Kashirina",
-                  "text": "Домик Каширина is a museum located in Nischni Nowgorod.",
+                  "text": "Kashirin house-museum (Maxim Gorky's childhood home), built in the late 18th century in Nizhny Novgorod.",
                   "category": "museum",
                   "coords": [
                         43.990692,
@@ -8676,7 +8676,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Muzei-kvartira A.M. Gorkogo",
-                  "text": "Музей-квартира А.М. Горького is a manor located in Nischni Nowgorod.",
+                  "text": "Apartment-museum of Maxim Gorky, built in 1861 in Nizhny Novgorod.",
                   "category": "historical",
                   "coords": [
                         44.018587,
@@ -8685,7 +8685,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Sobor Aleksandra Nevskogo",
-                  "text": "Собор Александра Невского is a place of worship located in Nischni Nowgorod.",
+                  "text": "Heritage-listed Alexander Nevsky Cathedral in Nizhny Novgorod.",
                   "category": "religious",
                   "coords": [
                         43.971411,
@@ -8712,7 +8712,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Nizhegorodskii ostrog",
-                  "text": "Нижегородский острог is a jail located in Nischni Nowgorod.",
+                  "text": "Former prison (ostrog) built between 1820 and 1823 in Nizhny Novgorod.",
                   "category": "landmark",
                   "coords": [
                         44.017006,
@@ -8721,7 +8721,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
             },
             {
                   "name": "Spaso-Preobrazhenskaya kolokolnya",
-                  "text": "Спасо-Преображенская колокольня is a viewpoint located in Nischni Nowgorod.",
+                  "text": "Bell tower of the Transfiguration Cathedral built in 2021 in Nizhny Novgorod.",
                   "category": "natural",
                   "coords": [
                         44.004876,
@@ -12490,7 +12490,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "dom-muzei Mazhita Gafuri",
-                  "text": "Das Mazhit-Gafuri-Hausmuseum ist ein Gedenkort in Ufa.",
+                  "text": "Gedenkhaus-Museum des Dichters Masyit Gafuri, erbaut im 19. Jahrhundert in Ufa.",
                   "category": "museum",
                   "coords": [
                         55.93654,
@@ -12814,7 +12814,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Khakimovskaya (chetvertaya sobornaya) mechet",
-                  "text": "Historische Moschee in Ufa.",
+                  "text": "Moschee, erbaut 1908 in Ufa.",
                   "category": "religious",
                   "coords": [
                         55.944614,
@@ -12841,7 +12841,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Pokrovskii khram",
-                  "text": "Historische Kirche in Ufa.",
+                  "text": "Schutzmantelkirche (Pokrowskaja), erbaut 1817–1823 in Ufa.",
                   "category": "religious",
                   "coords": [
                         55.969372,
@@ -12879,7 +12879,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "dom-muzei Mazhita Gafuri",
-                  "text": "A Mazsit Gafuri Házmúzeum egy emlékhely Ufában.",
+                  "text": "Mazsit Gafuri költő emlékház-múzeuma, a 19. században épült Ufában.",
                   "category": "museum",
                   "coords": [
                         55.93654,
@@ -13203,7 +13203,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Khakimovskaya (chetvertaya sobornaya) mechet",
-                  "text": "Történelmi mecset Ufában.",
+                  "text": "Mecset, 1908-ban épült Ufában.",
                   "category": "religious",
                   "coords": [
                         55.944614,
@@ -13230,7 +13230,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Pokrovskii khram",
-                  "text": "Történelmi templom Ufában.",
+                  "text": "Pokrov (Oltalom)-templom, 1817–1823 között épült Ufában.",
                   "category": "religious",
                   "coords": [
                         55.969372,
@@ -13268,7 +13268,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "dom-muzei Mazhita Gafuri",
-                  "text": "Casa-muzeu Mazhit Gafuri este un loc memorial din Ufa.",
+                  "text": "Casa-muzeu memorială a poetului Mazhit Gafuri, construită în secolul al XIX-lea la Ufa.",
                   "category": "museum",
                   "coords": [
                         55.93654,
@@ -13592,7 +13592,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Khakimovskaya (chetvertaya sobornaya) mechet",
-                  "text": "Moschee istorică în Ufa.",
+                  "text": "Moschee construită în 1908 la Ufa.",
                   "category": "religious",
                   "coords": [
                         55.944614,
@@ -13619,7 +13619,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Pokrovskii khram",
-                  "text": "Biserică istorică în Ufa.",
+                  "text": "Biserica Acoperământul Maicii Domnului, construită între 1817 și 1823 la Ufa.",
                   "category": "religious",
                   "coords": [
                         55.969372,
@@ -13657,7 +13657,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "dom-muzei Mazhita Gafuri",
-                  "text": "The Mazhit Gafuri House Museum is a memorial place in Ufa.",
+                  "text": "Memorial house-museum of poet Mazhit Gafuri, built in the 19th century in Ufa.",
                   "category": "museum",
                   "coords": [
                         55.93654,
@@ -13981,7 +13981,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Khakimovskaya (chetvertaya sobornaya) mechet",
-                  "text": "Historic mosque in Ufa.",
+                  "text": "Mosque built in 1908 in Ufa.",
                   "category": "religious",
                   "coords": [
                         55.944614,
@@ -14008,7 +14008,7 @@ imageHint: "Don River embankment in Rostov",
             },
             {
                   "name": "Pokrovskii khram",
-                  "text": "Historic church in Ufa.",
+                  "text": "Church of the Intercession built between 1817 and 1823 in Ufa.",
                   "category": "religious",
                   "coords": [
                         55.969372,
@@ -14309,7 +14309,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             },
             {
                   "name": "Pokrovskii Sobor",
-                  "text": "Die Pokrowski-Kathedrale ist eine Attraktion in Krasnojarsk.",
+                  "text": "Mariä-Schutz-Kathedrale, erbaut 1795 in Krasnojarsk.",
                   "category": "landmark",
                   "coords": [
                         92.876652,
@@ -14590,7 +14590,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             },
             {
                   "name": "Pokrovskii Sobor",
-                  "text": "A Pokrovszkij-székesegyház egy látványosság Krasznojarszkban.",
+                  "text": "Pokrov-székesegyház, 1795-ben épült Krasznojarszkban.",
                   "category": "landmark",
                   "coords": [
                         92.876652,
@@ -14871,7 +14871,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             },
             {
                   "name": "Pokrovskii Sobor",
-                  "text": "Catedrala Pokrovsky este o atracție situată în Krasnojarsk.",
+                  "text": "Catedrala Acoperământul Maicii Domnului, construită în 1795 în Krasnoiarsk.",
                   "category": "landmark",
                   "coords": [
                         92.876652,
@@ -15152,7 +15152,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             },
             {
                   "name": "Pokrovskii Sobor",
-                  "text": "Pokrovsky Cathedral is an attraction located in Krasnojarsk.",
+                  "text": "Cathedral of the Intercession built in 1795 in Krasnoyarsk.",
                   "category": "landmark",
                   "coords": [
                         92.876652,
@@ -15400,7 +15400,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Tserkov Stefana, episkopa Velikopermskogo",
-                  "text": "Historische Kapelle in Perm.",
+                  "text": "Stephan-von-Perm-Kapelle, erbaut 1882 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.23754,
@@ -15409,7 +15409,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dvorets kultury im. A. G. Soldatova",
-                  "text": "Kulturpalast in Perm.",
+                  "text": "Kulturpalast Soldatow, eröffnet im November 1951 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.250183,
@@ -15418,7 +15418,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Voznesensko-Feodosievskaya tserkov",
-                  "text": "Historische Kirche in Perm.",
+                  "text": "Himmelfahrts- und Theodosiuskirche, erbaut 1903–1910 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.220841,
@@ -15436,7 +15436,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Svyato-Troitskii Kafedralnyi Sobor",
-                  "text": "Orthodoxe Kathedrale in Perm.",
+                  "text": "Dreifaltigkeitskathedrale, erbaut um 1842 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.216903,
@@ -15454,7 +15454,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Osobnyak K. F. Tokarevoi",
-                  "text": "Historisches Herrenhaus in Perm.",
+                  "text": "Um 1900 erbautes Herrenhaus von K. F. Tokarewa in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.240553,
@@ -15472,7 +15472,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Korolevskie nomera",
-                  "text": "Historisches Gebäude in Perm.",
+                  "text": "1910 erbautes Gebäude 'Korolevskie nomera' in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.242844,
@@ -15481,7 +15481,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Torgovaya banya meshchanki E. P. Kashinoi",
-                  "text": "Historisches Badehaus in Perm.",
+                  "text": "Um 1874 erbautes Handelsbad der Bürgerin E. P. Kaschina in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.241722,
@@ -15508,7 +15508,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dom Smyshlyaeva",
-                  "text": "Historisches Gebäude in Perm.",
+                  "text": "Das Smyshlyaev-Haus in Perm, erbaut in den 1790er Jahren von Pjotr Wassiljew.",
                   "category": "landmark",
                   "coords": [
                         56.244354,
@@ -15526,7 +15526,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dukhovnaya konsistoriya",
-                  "text": "Historisches Verwaltungsgebäude in Perm.",
+                  "text": "Die geistliche Konsistorium in Perm, erbaut 1843 von I. A. Kruglyashov.",
                   "category": "landmark",
                   "coords": [
                         56.239131,
@@ -15535,7 +15535,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Rostok",
-                  "text": "Historisches Handelshaus in Perm.",
+                  "text": "Das Handelshaus Izhboldin (Rostok) in Perm, erbaut 1910 von Alexander Turchevich.",
                   "category": "landmark",
                   "coords": [
                         56.229057,
@@ -15544,7 +15544,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Akademiya zhivopisi",
-                  "text": "Ehemaliges Waisenhaus in Perm.",
+                  "text": "Vor 1850 erbautes ehemaliges Waisenhaus in Perm, heute Malerei-Akademie.",
                   "category": "landmark",
                   "coords": [
                         56.239588,
@@ -15834,7 +15834,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Tserkov Stefana, episkopa Velikopermskogo",
-                  "text": "Történelmi kápolna Permben.",
+                  "text": "Permi Szent István-kápolna, 1882-ben épült Permben.",
                   "category": "landmark",
                   "coords": [
                         56.23754,
@@ -15843,7 +15843,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dvorets kultury im. A. G. Soldatova",
-                  "text": "Kultúrpalota Permben.",
+                  "text": "Szoldatov Kulturpalota, 1951 novemberében nyílt meg Permben.",
                   "category": "landmark",
                   "coords": [
                         56.250183,
@@ -15852,7 +15852,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Voznesensko-Feodosievskaya tserkov",
-                  "text": "Történelmi templom Permben.",
+                  "text": "Mennybemenetel és Szent Theodosius-templom, 1903–1910 között épült Permben.",
                   "category": "landmark",
                   "coords": [
                         56.220841,
@@ -15870,7 +15870,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Svyato-Troitskii Kafedralnyi Sobor",
-                  "text": "Ortodox székesegyház Permben.",
+                  "text": "Szentháromság-székesegyház, 1842 körül épült Permben.",
                   "category": "landmark",
                   "coords": [
                         56.216903,
@@ -15888,7 +15888,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Osobnyak K. F. Tokarevoi",
-                  "text": "Történelmi kúria Permben.",
+                  "text": "1900 körül épült Tokareva-kúria Permben.",
                   "category": "landmark",
                   "coords": [
                         56.240553,
@@ -15906,7 +15906,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Korolevskie nomera",
-                  "text": "Történelmi épület Permben.",
+                  "text": "1910-ben épült 'Koroljevszkije nomera' Permben.",
                   "category": "landmark",
                   "coords": [
                         56.242844,
@@ -15915,7 +15915,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Torgovaya banya meshchanki E. P. Kashinoi",
-                  "text": "Történelmi fürdőház Permben.",
+                  "text": "1874 körül épült kereskedelmi fürdőház, E. P. Kasina polgárnőé, Permben.",
                   "category": "landmark",
                   "coords": [
                         56.241722,
@@ -15942,7 +15942,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dom Smyshlyaeva",
-                  "text": "Történelmi épület Permben.",
+                  "text": "A Szmisljajev-ház Permben, az 1790-es években építette Pjotr Vasziljev.",
                   "category": "landmark",
                   "coords": [
                         56.244354,
@@ -15960,7 +15960,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dukhovnaya konsistoriya",
-                  "text": "Történelmi közigazgatási épület Permben.",
+                  "text": "Az egyházi konzisztórium Permben, 1843-ban építette I. A. Krugljásov.",
                   "category": "landmark",
                   "coords": [
                         56.239131,
@@ -15969,7 +15969,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Rostok",
-                  "text": "Történelmi kereskedőház Permben.",
+                  "text": "Az Izhboldin-kereskedőház (Rostok) Permben, 1910-ben építette Alexander Turcsevic.",
                   "category": "landmark",
                   "coords": [
                         56.229057,
@@ -15978,7 +15978,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Akademiya zhivopisi",
-                  "text": "Egykori árvaház Permben.",
+                  "text": "1850 előtt épült egykori árvaház Permben, ma festészeti akadémia.",
                   "category": "landmark",
                   "coords": [
                         56.239588,
@@ -16268,7 +16268,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Tserkov Stefana, episkopa Velikopermskogo",
-                  "text": "Capelă istorică în Perm.",
+                  "text": "Capela Sfântul Ștefan de Perm, construită în 1882 în Perm.",
                   "category": "landmark",
                   "coords": [
                         56.23754,
@@ -16277,7 +16277,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dvorets kultury im. A. G. Soldatova",
-                  "text": "Palat al culturii în Perm.",
+                  "text": "Palatul de Cultură Soldatov, deschis în noiembrie 1951 în Perm.",
                   "category": "landmark",
                   "coords": [
                         56.250183,
@@ -16286,7 +16286,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Voznesensko-Feodosievskaya tserkov",
-                  "text": "Biserică istorică în Perm.",
+                  "text": "Biserica Înălțarea Domnului și Sfântul Teodosie, construită între 1903 și 1910 în Perm.",
                   "category": "landmark",
                   "coords": [
                         56.220841,
@@ -16304,7 +16304,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Svyato-Troitskii Kafedralnyi Sobor",
-                  "text": "Catedrală ortodoxă în Perm.",
+                  "text": "Catedrala Sfânta Treime, construită în jurul anului 1842 în Perm.",
                   "category": "landmark",
                   "coords": [
                         56.216903,
@@ -16322,7 +16322,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Osobnyak K. F. Tokarevoi",
-                  "text": "Conac istoric în Perm.",
+                  "text": "Conacul lui K. F. Tokareva, construit în jurul anului 1900 în Perm.",
                   "category": "landmark",
                   "coords": [
                         56.240553,
@@ -16340,7 +16340,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Korolevskie nomera",
-                  "text": "Clădire istorică în Perm.",
+                  "text": "Clădirea 'Korolevskie nomera' construită în 1910 în Perm.",
                   "category": "landmark",
                   "coords": [
                         56.242844,
@@ -16349,7 +16349,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Torgovaya banya meshchanki E. P. Kashinoi",
-                  "text": "Baie istorică în Perm.",
+                  "text": "Baia comercială a orășencei E. P. Kașina, construită în jurul anului 1874 în Perm.",
                   "category": "landmark",
                   "coords": [
                         56.241722,
@@ -16376,7 +16376,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dom Smyshlyaeva",
-                  "text": "Clădire istorică în Perm.",
+                  "text": "Casa Smyshlyaev din Perm, construită în anii 1790 de Piotr Vasiliev.",
                   "category": "landmark",
                   "coords": [
                         56.244354,
@@ -16394,7 +16394,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dukhovnaya konsistoriya",
-                  "text": "Clădire administrativă istorică în Perm.",
+                  "text": "Consistoriul duhovnicesc din Perm, construit în 1843 de I. A. Krugliașov.",
                   "category": "landmark",
                   "coords": [
                         56.239131,
@@ -16403,7 +16403,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Rostok",
-                  "text": "Casă comercială istorică în Perm.",
+                  "text": "Casa comercială Izhboldin (Rostok) din Perm, construită în 1910 de Alexander Turchevich.",
                   "category": "landmark",
                   "coords": [
                         56.229057,
@@ -16412,7 +16412,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Akademiya zhivopisi",
-                  "text": "Fost orfelinat în Perm.",
+                  "text": "Fostul orfelinat construit înainte de 1850 în Perm, acum academia de pictură.",
                   "category": "landmark",
                   "coords": [
                         56.239588,
@@ -16702,7 +16702,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Tserkov Stefana, episkopa Velikopermskogo",
-                  "text": "Historic chapel in Perm.",
+                  "text": "Chapel of Saint Stephen of Perm built in 1882 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.23754,
@@ -16711,7 +16711,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dvorets kultury im. A. G. Soldatova",
-                  "text": "Palace of culture in Perm.",
+                  "text": "Soldatov Palace of Culture opened in November 1951 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.250183,
@@ -16720,7 +16720,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Voznesensko-Feodosievskaya tserkov",
-                  "text": "Historic church in Perm.",
+                  "text": "Church of the Ascension and Theodosius built between 1903 and 1910 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.220841,
@@ -16738,7 +16738,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Svyato-Troitskii Kafedralnyi Sobor",
-                  "text": "Orthodox cathedral in Perm.",
+                  "text": "Holy Trinity Cathedral built around 1842 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.216903,
@@ -16756,7 +16756,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Osobnyak K. F. Tokarevoi",
-                  "text": "Historic mansion in Perm.",
+                  "text": "Mansion of K. F. Tokareva built around 1900 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.240553,
@@ -16774,7 +16774,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Korolevskie nomera",
-                  "text": "Historic building in Perm.",
+                  "text": "'Korolevskie nomera' building built in 1910 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.242844,
@@ -16783,7 +16783,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Torgovaya banya meshchanki E. P. Kashinoi",
-                  "text": "Historic bathhouse in Perm.",
+                  "text": "Trade bathhouse of bourgeois E. P. Kashina built around 1874 in Perm.",
                   "category": "landmark",
                   "coords": [
                         56.241722,
@@ -16810,7 +16810,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dom Smyshlyaeva",
-                  "text": "Historic building in Perm.",
+                  "text": "Smyshlyaev House in Perm, built in the 1790s by Pyotr Vasilyev.",
                   "category": "landmark",
                   "coords": [
                         56.244354,
@@ -16828,7 +16828,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Dukhovnaya konsistoriya",
-                  "text": "Historic administrative building in Perm.",
+                  "text": "The spiritual consistory in Perm, built in 1843 by I. A. Kruglyashov.",
                   "category": "landmark",
                   "coords": [
                         56.239131,
@@ -16837,7 +16837,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Rostok",
-                  "text": "Historic trading house in Perm.",
+                  "text": "The Izhboldin Trade House (Rostok) in Perm, built in 1910 by Alexander Turchevich.",
                   "category": "landmark",
                   "coords": [
                         56.229057,
@@ -16846,7 +16846,7 @@ imageHint: "Peter the Great monument in Voronezh",
             },
             {
                   "name": "Akademiya zhivopisi",
-                  "text": "Former orphanage in Perm.",
+                  "text": "Former orphanage built before 1850 in Perm, now an academy of painting.",
                   "category": "landmark",
                   "coords": [
                         56.239588,
@@ -17211,7 +17211,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Kinoteatr «Avrora»",
-                  "text": "Das Kino \"Awrora\" ist ein bekanntes Gebäude und eine Sehenswürdigkeit in Krasnodar.",
+                  "text": "1967 erbautes Kino 'Awrora' in Krasnodar.",
                   "category": "landmark",
                   "coords": [
                         38.982539,
@@ -17355,7 +17355,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Tserkov svyatogo Ili Proroka",
-                  "text": "Die Kirche des Heiligen Propheten Elias ist ein religiöses Wahrzeichen in Krasnodar.",
+                  "text": "1912 vom Architekten N. G. Petin erbaute Eliaskirche in Krasnodar.",
                   "category": "religious",
                   "coords": [
                         38.968744,
@@ -17708,7 +17708,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Kinoteatr «Avrora»",
-                  "text": "Az \"Avrora\" egy ikonikus moziépület és látványosság Krasznodarban.",
+                  "text": "1967-ben épült 'Avrora' mozi Krasznodarban.",
                   "category": "landmark",
                   "coords": [
                         38.982539,
@@ -17852,7 +17852,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Tserkov svyatogo Ili Proroka",
-                  "text": "Szent Illés próféta temploma egy vallási nevezetesség Krasznodarban.",
+                  "text": "1912-ben épült Illés próféta templom, építész N. G. Petin, Krasznodarban.",
                   "category": "religious",
                   "coords": [
                         38.968744,
@@ -18205,7 +18205,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Kinoteatr «Avrora»",
-                  "text": "„Avrora” este un cinematograf celebru și o atracție arhitecturală în Krasnodar.",
+                  "text": "Cinematograful 'Avrora' construit în 1967 în Krasnodar.",
                   "category": "landmark",
                   "coords": [
                         38.982539,
@@ -18349,7 +18349,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Tserkov svyatogo Ili Proroka",
-                  "text": "Biserica Sfântului Ilie Profetul este un punct de reper religios din Krasnodar.",
+                  "text": "Biserica Sfântul Ilie Profetul, construită în 1912 de arhitectul N. G. Petin în Krasnodar.",
                   "category": "religious",
                   "coords": [
                         38.968744,
@@ -18702,7 +18702,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Avrora",
-                  "text": "\"Avrora\" is a famous cinema and architectural attraction in Krasnodar.",
+                  "text": "Cinema 'Avrora' built in 1967 in Krasnodar.",
                   "category": "landmark",
                   "coords": [
                         38.982539,
@@ -18846,7 +18846,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
             },
             {
                   "name": "Tserkov svyatogo Ili Proroka",
-                  "text": "The Church of St. Elijah the Prophet is a religious landmark in Krasnodar.",
+                  "text": "Church of St. Elijah the Prophet built in 1912 by architect N. G. Petin in Krasnodar.",
                   "category": "religious",
                   "coords": [
                         38.968744,
@@ -19210,7 +19210,7 @@ imageHint: "Alexander Nevsky Cathedral in Krasnodar",
             },
             {
                   "name": "Saratovskaya oblastnaya filarmoniya imeni Shnitke",
-                  "text": "Die Schittke-Philharmonie ist ein Zentrum für Musik in Saratow.",
+                  "text": "1937 gegründete Philharmonie Saratow, benannt nach Alfred Schnittke.",
                   "category": "cultural",
                   "coords": [
                         46.03459,
@@ -19599,7 +19599,7 @@ imageHint: "Alexander Nevsky Cathedral in Krasnodar",
             },
             {
                   "name": "Saratovskaya oblastnaya filarmoniya imeni Shnitke",
-                  "text": "A Schnittke Filharmónia a zene központja Szaratovban.",
+                  "text": "1937-ben alapított Szaratovi Filharmónia, Schnittkéről elnevezve.",
                   "category": "cultural",
                   "coords": [
                         46.03459,
@@ -19988,7 +19988,7 @@ imageHint: "Alexander Nevsky Cathedral in Krasnodar",
             },
             {
                   "name": "Saratovskaya oblastnaya filarmoniya imeni Shnitke",
-                  "text": "Filarmonica Schnittke este un centru de muzică în Saratov.",
+                  "text": "Filarmonica regională Saratov, fondată în 1937, numită după Alfred Schnittke.",
                   "category": "cultural",
                   "coords": [
                         46.03459,
@@ -20377,7 +20377,7 @@ imageHint: "Alexander Nevsky Cathedral in Krasnodar",
             },
             {
                   "name": "Saratovskaya oblastnaya filarmoniya imeni Shnitke",
-                  "text": "The Schnittke Philharmonic is a center for music in Saratov.",
+                  "text": "Saratov Regional Philharmonic founded in 1937, named after Alfred Schnittke.",
                   "category": "cultural",
                   "coords": [
                         46.03459,
@@ -27904,7 +27904,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "Tserkov Ioanna Predtechi v Tolchkove",
-                  "text": "Die Johannes-der-Täufer-Kirche in Toltschkowo ist für ihre reichen Fresken bekannt.",
+                  "text": "1671–1687 erbaute Johannes-der-Täufer-Kirche in Toltschkowo bei Jaroslawl, bekannt für 15 Kuppeln.",
                   "category": "religious",
                   "coords": [
                         39.856861,
@@ -27976,7 +27976,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "Vlasevskaya (Znamenskaya) bashnya",
-                  "text": "Der Znamenskaya-Turm mit Kirche ist ein markanter Punkt in Jaroslawl.",
+                  "text": "1658–1659 erbauter Wlassjewskaja-Turm (Snamenskaja-Turm) in Jaroslawl.",
                   "category": "tower",
                   "coords": [
                         39.884974,
@@ -28365,7 +28365,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "Tserkov Ioanna Predtechi v Tolchkove",
-                  "text": "A tolcskovói Keresztelő Szent János-templom gazdag freskóiról híres.",
+                  "text": "1671–1687 között épült Keresztelő Szent János-templom Tolcskovóban, 15 kupolájáról híres.",
                   "category": "religious",
                   "coords": [
                         39.856861,
@@ -28437,7 +28437,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "Vlasevskaya (Znamenskaya) bashnya",
-                  "text": "A Znamenszkaja-torony templommal egy jellegzetes pont Jaroszlavlban.",
+                  "text": "1658–1659-ben épült Vlaszjevszkaja-torony (Znamenszkaja-torony) Jaroszlavlban.",
                   "category": "tower",
                   "coords": [
                         39.884974,
@@ -28826,7 +28826,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "Tserkov Ioanna Predtechi v Tolchkove",
-                  "text": "Biserica Sfântul Ioan Botezătorul din Tolcikov este celebră pentru frescele sale bogate.",
+                  "text": "Biserica Sfântul Ioan Botezătorul din Tolcikovo, construită între 1671 și 1687, renumită pentru cele 15 cupole.",
                   "category": "religious",
                   "coords": [
                         39.856861,
@@ -28898,7 +28898,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "Vlasevskaya (Znamenskaya) bashnya",
-                  "text": "Turnul Znamenskaia, împreună cu biserica sa, este un punct marcant în Iaroslavl.",
+                  "text": "Turnul Znamenskaia (Vlasievskaia) construit între 1658 și 1659 în Iaroslavl.",
                   "category": "tower",
                   "coords": [
                         39.884974,
@@ -29287,7 +29287,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "John the Baptist Church at Tolchkovo",
-                  "text": "The St. John the Baptist Church in Tolchkovo is famous for its rich frescoes.",
+                  "text": "St John the Baptist Church at Tolchkovo built 1671–1687, famous for its 15 domes.",
                   "category": "religious",
                   "coords": [
                         39.856861,
@@ -29359,7 +29359,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
             },
             {
                   "name": "Znamenskaya Tower",
-                  "text": "The Znamenskaya Tower with church is a prominent landmark in Yaroslavl.",
+                  "text": "Znamenskaya (Vlasyevskaya) Tower built 1658–1659 in Yaroslavl.",
                   "category": "tower",
                   "coords": [
                         39.884974,
@@ -34319,7 +34319,7 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
             },
             {
                   "name": "Tserkov Uspeniya Presvyatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
-                  "text": "Die Mariä-Himmelfahrt-Kirche ist ein bedeutendes religiöses Gebäude in Astrachan.",
+                  "text": "1721 erbaute Mariä-Himmelfahrt-Kirche in Astrachan.",
                   "category": "religious",
                   "coords": [
                         48.051015,
@@ -34816,7 +34816,7 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
             },
             {
                   "name": "Tserkov Uspeniya Presvyatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
-                  "text": "A Szűz Mária Mennybemenetele templom egy jelentős vallási épület Asztrahánban.",
+                  "text": "1721-ben épült Nagyboldogasszony-templom Asztrahánban.",
                   "category": "religious",
                   "coords": [
                         48.051015,
@@ -35313,7 +35313,7 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
             },
             {
                   "name": "Tserkov Uspeniya Presvyatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
-                  "text": "Biserica Adormirea Maicii Domnului este o clădire religioasă notabilă din Astrahan.",
+                  "text": "Biserica Adormirea Maicii Domnului construită în 1721 în Astrahan.",
                   "category": "religious",
                   "coords": [
                         48.051015,
@@ -35810,7 +35810,7 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
             },
             {
                   "name": "Church of the Assumption of Mary",
-                  "text": "The Church of the Assumption of Mary is a notable religious building in Astrachan.",
+                  "text": "Church of the Assumption of Mary built in 1721 in Astrakhan.",
                   "category": "religious",
                   "coords": [
                         48.051015,
@@ -39472,7 +39472,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "Ausfalskie vorota",
-                  "text": "Das Ausfalltor ist ein historisches Stadttor in Kaliningrad.",
+                  "text": "Im 17. Jahrhundert erbautes Ausfal-Tor in Kaliningrad (Königsberg).",
                   "category": "fortress",
                   "coords": [
                         20.490464,
@@ -39535,7 +39535,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "Hufen",
-                  "text": "Hufen ist ein historischer Stadtteil von Kaliningrad.",
+                  "text": "1286 gegründetes historisches Viertel Hufen in Kaliningrad.",
                   "category": "landmark",
                   "coords": [
                         20.481428,
@@ -39825,7 +39825,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "Ausfalskie vorota",
-                  "text": "Az Ausfall kapu egy történelmi városkapu Kalinyingrádban.",
+                  "text": "A 17. században épült Ausfal-kapu Kalinyingrádban.",
                   "category": "fortress",
                   "coords": [
                         20.490464,
@@ -39888,7 +39888,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "raion Khufen",
-                  "text": "Hufen Kalinyingrád történelmi városrésze.",
+                  "text": "1286-ban alapított Hufen történelmi negyed Kalinyingrádban.",
                   "category": "landmark",
                   "coords": [
                         20.481428,
@@ -40178,7 +40178,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "Ausfalskie vorota",
-                  "text": "Poarta Ausfall este o poartă istorică a orașului din Kaliningrad.",
+                  "text": "Poarta Ausfal construită în secolul al XVII-lea în Kaliningrad.",
                   "category": "fortress",
                   "coords": [
                         20.490464,
@@ -40241,7 +40241,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "raion Khufen",
-                  "text": "Hufen este un cartier istoric al orașului Kaliningrad.",
+                  "text": "Cartierul istoric Hufen, fondat în 1286, în Kaliningrad.",
                   "category": "landmark",
                   "coords": [
                         20.481428,
@@ -40531,7 +40531,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "Ausfalskie vorota",
-                  "text": "The Ausfall Gate is a historic city gate in Kaliningrad.",
+                  "text": "Ausfal Gate built in the 17th century in Kaliningrad.",
                   "category": "fortress",
                   "coords": [
                         20.490464,
@@ -40594,7 +40594,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
             },
             {
                   "name": "raion Khufen",
-                  "text": "Hufen is a historic district of Kaliningrad.",
+                  "text": "Historical district Hufen founded in 1286 in Kaliningrad.",
                   "category": "landmark",
                   "coords": [
                         20.481428,
@@ -41914,7 +41914,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Muzei istorii goroda Ulan-Ude",
-                  "text": "Das Stadtmuseum von Ulan-Ude.",
+                  "text": "1879–1891 erbautes Städtisches Museum Ulan-Ude.",
                   "category": "museum",
                   "coords": [
                         107.584896,
@@ -42085,7 +42085,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Chasovnya Svyatoi velikomuchenitsy Varvary",
-                  "text": "Die St.-Barbara-Kapelle in Ulan-Ude.",
+                  "text": "2001 erbaute Barbara-Kapelle in Ulan-Ude.",
                   "category": "religious",
                   "coords": [
                         107.621001,
@@ -42132,7 +42132,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Muzei istorii goroda Ulan-Ude",
-                  "text": "Ulan-Ude város múzeuma.",
+                  "text": "1879–1891 között épült Ulan-Ude Városi Múzeum.",
                   "category": "museum",
                   "coords": [
                         107.584896,
@@ -42303,7 +42303,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Chasovnya Svyatoi velikomuchenitsy Varvary",
-                  "text": "A Szent Borbála-kápolna Ulan-Udében.",
+                  "text": "2001-ben épült Szent Borbála-kápolna Ulan-Udében.",
                   "category": "religious",
                   "coords": [
                         107.621001,
@@ -42350,7 +42350,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Muzei istorii goroda Ulan-Ude",
-                  "text": "Muzeul orașului Ulan-Ude.",
+                  "text": "Muzeul orașului Ulan-Ude construit între 1879 și 1891.",
                   "category": "museum",
                   "coords": [
                         107.584896,
@@ -42521,7 +42521,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Chasovnya Svyatoi velikomuchenitsy Varvary",
-                  "text": "Capela Sfânta Varvara în Ulan-Ude.",
+                  "text": "Capela Sfintei Mucenițe Varvara construită în 2001 în Ulan-Ude.",
                   "category": "religious",
                   "coords": [
                         107.621001,
@@ -42568,7 +42568,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Ulan-Ude City Museum",
-                  "text": "The Ulan-Ude City Museum.",
+                  "text": "Ulan-Ude City Museum built between 1879 and 1891.",
                   "category": "museum",
                   "coords": [
                         107.584896,
@@ -42739,7 +42739,7 @@ imageHint: "Victory Memorial in Kursk",
             },
             {
                   "name": "Chasovnya Svyatoi velikomuchenitsy Varvary",
-                  "text": "The St. Barbara Chapel in Ulan-Ude.",
+                  "text": "Chapel of St. Barbara built in 2001 in Ulan-Ude.",
                   "category": "religious",
                   "coords": [
                         107.621001,
@@ -46482,7 +46482,7 @@ imageHint: "Old Volga Bridge in Tver",
             },
             {
                   "name": "Sotsialnye obekty",
-                  "text": "Sotsialnye obyekty ist eine Sehenswürdigkeit in der Postyschew-Straße in Iwanowo.",
+                  "text": "Denkmalgeschützte soziale Infrastruktur aus den Jahren 1909–1910 an der Postyschewa-Straße in Iwanowo.",
                   "category": "landmark",
                   "coords": [
                         40.992683,
@@ -46916,7 +46916,7 @@ imageHint: "Old Volga Bridge in Tver",
             },
             {
                   "name": "Sotsialnye obekty",
-                  "text": "A Szocialnije Objekti egy látványosság az ivanovói Posztisev utcában.",
+                  "text": "Műemlékké nyilvánított szociális létesítmények 1909–1910-ből az Ivanovói Postyseva utcában.",
                   "category": "landmark",
                   "coords": [
                         40.992683,
@@ -47350,7 +47350,7 @@ imageHint: "Old Volga Bridge in Tver",
             },
             {
                   "name": "Sotsialnye obekty",
-                  "text": "Sotsialnye obyekty este o atracție situată pe strada Postîșev din Ivanovo.",
+                  "text": "Complex de facilități sociale din 1909–1910 pe strada Postyșeva din Ivanovo, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         40.992683,
@@ -47784,7 +47784,7 @@ imageHint: "Old Volga Bridge in Tver",
             },
             {
                   "name": "Sotsialnye obekty",
-                  "text": "Sotsialnye obyekty is an attraction on Postyshev Street in Ivanovo.",
+                  "text": "Heritage-listed social facilities from 1909–1910 on Postysheva Street in Ivanovo.",
                   "category": "landmark",
                   "coords": [
                         40.992683,
@@ -48202,7 +48202,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Pamyatnik letchikam",
-                  "text": "Ein Denkmal zu Ehren von Piloten in Brjansk.",
+                  "text": "1975 errichtetes Denkmal für Piloten mit MiG-17-Jet in Brjansk.",
                   "category": "landmark",
                   "coords": [
                         34.326976,
@@ -48247,7 +48247,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Khram v chest Pokrova Presvyatoi Bogoroditsy",
-                  "text": "Eine bedeutende orthodoxe Kirche in Brjansk.",
+                  "text": "1698 erbaute Fürbitte-Kathedrale in Brjansk.",
                   "category": "religious",
                   "coords": [
                         34.373997,
@@ -48501,7 +48501,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Pamyatnik letchikam",
-                  "text": "Pilóták tiszteletére emelt emlékmű Brjanszkban.",
+                  "text": "1975-ben felállított pilóták emlékműve MiG-17-es vadászgéppel Brjanszkban.",
                   "category": "landmark",
                   "coords": [
                         34.326976,
@@ -48546,7 +48546,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Khram v chest Pokrova Presvyatoi Bogoroditsy",
-                  "text": "Fontos ortodox templom Brjanszkban.",
+                  "text": "1698-ban épült Közbenjárási székesegyház Brjanszkban.",
                   "category": "religious",
                   "coords": [
                         34.373997,
@@ -48800,7 +48800,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Pamyatnik letchikam",
-                  "text": "Monument în cinstea piloților în Briansk.",
+                  "text": "Monumentul aviatorilor cu un avion MiG-17 ridicat în 1975 la Breansk.",
                   "category": "landmark",
                   "coords": [
                         34.326976,
@@ -48845,7 +48845,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Khram v chest Pokrova Presvyatoi Bogoroditsy",
-                  "text": "Biserică ortodoxă importantă în Briansk.",
+                  "text": "Catedrala Mijlocirii Maicii Domnului construită în 1698 la Breansk.",
                   "category": "religious",
                   "coords": [
                         34.373997,
@@ -49099,7 +49099,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Pamyatnik letchikam",
-                  "text": "Monument in honor of pilots in Bryansk.",
+                  "text": "Monument to pilots with a MiG-17 jet erected in 1975 in Bryansk.",
                   "category": "landmark",
                   "coords": [
                         34.326976,
@@ -49144,7 +49144,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             },
             {
                   "name": "Khram v chest Pokrova Presvyatoi Bogoroditsy",
-                  "text": "Significant Orthodox church in Bryansk.",
+                  "text": "Intercession Cathedral built in 1698 in Bryansk.",
                   "category": "religious",
                   "coords": [
                         34.373997,
@@ -50132,7 +50132,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "Teatr dramy im. M. V. Lomonosova",
-                  "text": "Das M.-W.-Lomonossow-Dramatheater ist eine der wichtigsten Kulturstätten in Archangelsk.",
+                  "text": "1932 gegründetes Lomonossow-Schauspielhaus in Archangelsk.",
                   "category": "cultural",
                   "coords": [
                         40.515123,
@@ -50141,7 +50141,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "Gosudarstvennyi akademicheskii Severnyi russkii narodnyi khor",
-                  "text": "Der staatliche akademische russische Nord-Volkschor ist eine bedeutende kulturelle Attraktion in Archangelsk.",
+                  "text": "Am 8. März 1926 gegründeter Nordrussischer Volkschor in Archangelsk.",
                   "category": "landmark",
                   "coords": [
                         40.551962,
@@ -50512,7 +50512,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "Teatr dramy im. M. V. Lomonosova",
-                  "text": "Az M. V. Lomonoszov Drámai Színház Arhangelszk egyik legfontosabb kulturális intézménye.",
+                  "text": "1932-ben alapított Lomonoszov Színház Arhangelszkben.",
                   "category": "cultural",
                   "coords": [
                         40.515123,
@@ -50521,7 +50521,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "Gosudarstvennyi akademicheskii Severnyi russkii narodnyi khor",
-                  "text": "Az Állami Akadémiai Északi Orosz Népi Kórus jelentős kulturális látványosság Arhangelszkben.",
+                  "text": "1926. március 8-án alapított Észak-Orosz Népi Kórus Arhangelszkben.",
                   "category": "landmark",
                   "coords": [
                         40.551962,
@@ -50892,7 +50892,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "Teatr dramy im. M. V. Lomonosova",
-                  "text": "Teatrul Dramatic M.V. Lomonosov este una dintre principalele atracții culturale din Arhanghelsk.",
+                  "text": "Teatrul Dramatic Lomonosov fondat în 1932 în Arhanghelsk.",
                   "category": "cultural",
                   "coords": [
                         40.515123,
@@ -50901,7 +50901,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "Gosudarstvennyi akademicheskii Severnyi russkii narodnyi khor",
-                  "text": "Corul academic de stat al poporului rus din Nord este o importantă atracție culturală din Arhanghelsk.",
+                  "text": "Corul popular nord-rusesc fondat la 8 martie 1926 în Arhanghelsk.",
                   "category": "landmark",
                   "coords": [
                         40.551962,
@@ -51272,7 +51272,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "MV Lomonosov Drama Theatre",
-                  "text": "The M.V. Lomonosov Drama Theatre is a major cultural venue in Arkhangelsk.",
+                  "text": "Lomonosov Drama Theatre founded in 1932 in Arkhangelsk.",
                   "category": "cultural",
                   "coords": [
                         40.515123,
@@ -51281,7 +51281,7 @@ imageHint: "Golden Gate of Vladimir architecture",
             },
             {
                   "name": "The State academic Northern russian folk choir",
-                  "text": "The State Academic Northern Russian Folk Choir is a major cultural attraction in Arkhangelsk.",
+                  "text": "Northern Russian Folk Choir founded on 8 March 1926 in Arkhangelsk.",
                   "category": "landmark",
                   "coords": [
                         40.551962,
@@ -52459,7 +52459,7 @@ imageHint: "Mordovia Arena in Saransk",
             },
             {
                   "name": "Usadba Galskikh",
-                  "text": "Ein historisches Herrenhaus in Tscherepowez.",
+                  "text": "Anfang des 19. Jahrhunderts erbautes Gut der Galskis in Tscherepowez.",
                   "category": "historical",
                   "coords": [
                         37.921467,
@@ -52659,7 +52659,7 @@ imageHint: "Mordovia Arena in Saransk",
             },
             {
                   "name": "Usadba Galskikh",
-                  "text": "Történelmi kúria Cserepovecben.",
+                  "text": "A 19. század elején épült Galszkij-kúria Cserpovecben.",
                   "category": "historical",
                   "coords": [
                         37.921467,
@@ -52859,7 +52859,7 @@ imageHint: "Mordovia Arena in Saransk",
             },
             {
                   "name": "Usadba Galskikh",
-                  "text": "Un conac istoric din Cerepovăț.",
+                  "text": "Moșia familiei Galski, construită la începutul secolului al XIX-lea în Cherepoveț.",
                   "category": "historical",
                   "coords": [
                         37.921467,
@@ -53059,7 +53059,7 @@ imageHint: "Mordovia Arena in Saransk",
             },
             {
                   "name": "Usadba Galskikh",
-                  "text": "A historical manor in Cherepovets.",
+                  "text": "Galsky estate built in the early 19th century in Cherepovets.",
                   "category": "historical",
                   "coords": [
                         37.921467,
@@ -59151,7 +59151,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Kunstmuseum Taganrog",
-                  "text": "Das Taganroger Kunstmuseum ist ein bemerkenswertes Kunstmuseum in Taganrog.",
+                  "text": "Das Kunstmuseum Taganrog, 1870 gegründet, ein denkmalgeschütztes Gebäude.",
                   "category": "museum",
                   "coords": [
                         38.930746,
@@ -59160,7 +59160,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Alferaki-Palast",
-                  "text": "Der Alferaki-Palast ist ein bedeutendes Museum in Taganrog.",
+                  "text": "Der Alferaki-Palast in Taganrog, entworfen von Andrei Stackenschneider, heute Museum seit 1948.",
                   "category": "museum",
                   "coords": [
                         38.928244,
@@ -59169,7 +59169,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Laden der Tschechows",
-                  "text": "Der Tschechow-Laden ist ein bemerkenswertes Museum in Taganrog.",
+                  "text": "In den 1840er Jahren erbauter Laden der Familie Tschechow in Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.918076,
@@ -59178,7 +59178,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom-muzei pisatelya I. D. Vasilenko",
-                  "text": "Das I. D. Vasilenko-Museum ist ein Museum in Taganrog.",
+                  "text": "1906 erbautes Wohnhaus des Schriftstellers I. D. Wassilenko, heute Museum in Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.925555,
@@ -59187,7 +59187,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Anton-Tschechow-Geburtshaus",
-                  "text": "Das Geburtshaus von Anton Tschechow ist ein bemerkenswertes Museum in Taganrog.",
+                  "text": "1950 rekonstruiertes Geburtshaus von Anton Tschechow in Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.931361,
@@ -59439,7 +59439,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Sankt-Nikolaus-Kirche",
-                  "text": "Die St.-Nikolaus-Kirche ist eine bemerkenswerte Kirche in Taganrog.",
+                  "text": "1778 erbaute Nikolauskirche in Taganrog.",
                   "category": "religious",
                   "coords": [
                         38.940628,
@@ -59477,7 +59477,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Taganrogskii khudozhestvennyi muzei",
-                  "text": "A Taganrogi Művészeti Múzeum egy figyelemre méltó múzeum Taganrogban.",
+                  "text": "A Taganrogi Művészeti Múzeum, 1870-ben alapították, műemlék épület.",
                   "category": "museum",
                   "coords": [
                         38.930746,
@@ -59486,7 +59486,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dvorets N. D. Alferaki",
-                  "text": "Az Alferaki-palota egy jelentős múzeum Taganrogban.",
+                  "text": "Az Alferaki-palota Taganrogban, Andrei Stackenschneider tervezte, 1948 óta múzeum.",
                   "category": "museum",
                   "coords": [
                         38.928244,
@@ -59495,7 +59495,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Muzei «Lavka Chekhovykh»",
-                  "text": "A Csehov-bolt egy figyelemre méltó múzeum Taganrogban.",
+                  "text": "Az 1840-es években épült Csehov családi bolt Taganrogban.",
                   "category": "museum",
                   "coords": [
                         38.918076,
@@ -59504,7 +59504,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom-muzei pisatelya I. D. Vasilenko",
-                  "text": "Az I. D. Vaszilenko Múzeum egy múzeum Taganrogban.",
+                  "text": "1906-ban épült Vaszilenko író háza, ma múzeum Taganrogban.",
                   "category": "museum",
                   "coords": [
                         38.925555,
@@ -59513,7 +59513,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Domik Chekhova",
-                  "text": "Anton Csehov szülőháza egy figyelemre méltó múzeum Taganrogban.",
+                  "text": "1950-ben rekonstruált Csehov-szülőház Taganrogban.",
                   "category": "museum",
                   "coords": [
                         38.931361,
@@ -59765,7 +59765,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Tserkov Nikolaya Chudotvortsa",
-                  "text": "A Szent Miklós-templom egy jelentős templom Taganrogban.",
+                  "text": "1778-ban épült Szent Miklós-templom Taganrogban.",
                   "category": "religious",
                   "coords": [
                         38.940628,
@@ -59803,7 +59803,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Taganrogskii khudozhestvennyi muzei",
-                  "text": "Muzeul de Artă din Taganrog este un muzeu de artă notabil din Taganrog.",
+                  "text": "Muzeul de Artă din Taganrog, fondat în 1870, clădire monument istoric.",
                   "category": "museum",
                   "coords": [
                         38.930746,
@@ -59812,7 +59812,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dvorets N. D. Alferaki",
-                  "text": "Palatul Alferaki este un muzeu important din Taganrog.",
+                  "text": "Palatul Alferaki din Taganrog, proiectat de Andrei Stackenschneider, muzeu din 1948.",
                   "category": "museum",
                   "coords": [
                         38.928244,
@@ -59821,7 +59821,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Muzei «Lavka Chekhovykh»",
-                  "text": "Magazinul Cehov este un muzeu notabil din Taganrog.",
+                  "text": "Magazinul familiei Cehov construit în anii 1840 în Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.918076,
@@ -59830,7 +59830,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom-muzei pisatelya I. D. Vasilenko",
-                  "text": "Muzeul I. D. Vasilenko este un muzeu din Taganrog.",
+                  "text": "Casa scriitorului I. D. Vasilenko din 1906, acum muzeu în Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.925555,
@@ -59839,7 +59839,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Domik Chekhova",
-                  "text": "Casa natală a lui Anton Cehov este un muzeu notabil din Taganrog.",
+                  "text": "Casa natală a lui Anton Cehov reconstruită în 1950 în Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.931361,
@@ -60091,7 +60091,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Tserkov Nikolaya Chudotvortsa",
-                  "text": "Biserica Sfântul Nicolae este o biserică notabilă din Taganrog.",
+                  "text": "Biserica Sfântul Nicolae construită în 1778 în Taganrog.",
                   "category": "religious",
                   "coords": [
                         38.940628,
@@ -60129,7 +60129,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Taganrog Museum of Art",
-                  "text": "The Taganrog Museum of Art is a notable art museum located in Taganrog.",
+                  "text": "Taganrog Museum of Art, established in 1870, a listed building.",
                   "category": "museum",
                   "coords": [
                         38.930746,
@@ -60138,7 +60138,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Alferaki Palace",
-                  "text": "The Alferaki Palace is a significant museum located in Taganrog.",
+                  "text": "Alferaki Palace in Taganrog, designed by Andrei Stackenschneider, a museum since 1948.",
                   "category": "museum",
                   "coords": [
                         38.928244,
@@ -60147,7 +60147,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Chekhov Shop",
-                  "text": "The Chekhov Shop is a notable museum located in Taganrog.",
+                  "text": "Chekhov family shop built in the 1840s in Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.918076,
@@ -60156,7 +60156,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom-muzei pisatelya I. D. Vasilenko",
-                  "text": "The I. D. Vasilenko Museum is a museum located in Taganrog.",
+                  "text": "House-museum of writer I. D. Vasilenko built in 1906 in Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.925555,
@@ -60165,7 +60165,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Birth house of Anton Chekhov",
-                  "text": "The Birth house of Anton Chekhov is a notable museum located in Taganrog.",
+                  "text": "Anton Chekhov's birth house reconstructed in 1950 in Taganrog.",
                   "category": "museum",
                   "coords": [
                         38.931361,
@@ -60417,7 +60417,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "St. Nicholas Church",
-                  "text": "St. Nicholas Church is a notable church located in Taganrog.",
+                  "text": "St. Nicholas Church built in 1778 in Taganrog.",
                   "category": "religious",
                   "coords": [
                         38.940628,
@@ -60510,7 +60510,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Kostromskoi gosudarstvennyi istoriko-arkhitekturnyi i khudozhestvennyi muzei-zapovednik",
-                  "text": "Historisches und architektonisches Museum in Kostroma.",
+                  "text": "1909–1913 erbautes Staatliches Historisch-Architektonisches und Kunstmuseum Kostroma.",
                   "category": "museum",
                   "coords": [
                         40.929722,
@@ -60519,7 +60519,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom Borshchova",
-                  "text": "Das historische Borschtschow-Haus in Kostroma.",
+                  "text": "1824 erbautes Haus Borschtschow in Kostroma.",
                   "category": "historical",
                   "coords": [
                         40.928632,
@@ -60600,7 +60600,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Tserkov Voskreseniya Khristova na Debre",
-                  "text": "Die Auferstehungskirche in Kostroma.",
+                  "text": "Mitte des 17. Jahrhunderts erbaute Auferstehungskirche auf der Debra in Kostroma.",
                   "category": "religious",
                   "coords": [
                         40.948397,
@@ -60953,7 +60953,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Kostromskoi gosudarstvennyi istoriko-arkhitekturnyi i khudozhestvennyi muzei-zapovednik",
-                  "text": "Történelmi és építészeti múzeum Kosztromában.",
+                  "text": "1909–1913 között épült Kosztromai Állami Történeti-Építészeti és Művészeti Múzeum-rezervátum.",
                   "category": "museum",
                   "coords": [
                         40.929722,
@@ -60962,7 +60962,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom Borshchova",
-                  "text": "A történelmi Borschcsov-ház Kosztromában.",
+                  "text": "1824-ben épült Borscsov-ház Kosztromában.",
                   "category": "historical",
                   "coords": [
                         40.928632,
@@ -61043,7 +61043,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Tserkov Voskreseniya Khristova na Debre",
-                  "text": "A Feltámadás temploma Kosztromában.",
+                  "text": "A 17. század közepén épült Feltámadás-templom a Debrán, Kosztromában.",
                   "category": "religious",
                   "coords": [
                         40.948397,
@@ -61396,7 +61396,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Kostromskoi gosudarstvennyi istoriko-arkhitekturnyi i khudozhestvennyi muzei-zapovednik",
-                  "text": "Muzeu istoric și arhitectural din Kostroma.",
+                  "text": "Muzeul-rezervație istorico-arhitectural și artistic de stat Kostroma, construit între 1909 și 1913.",
                   "category": "museum",
                   "coords": [
                         40.929722,
@@ -61405,7 +61405,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom Borshchova",
-                  "text": "Istorica Casă Borșciov din Kostroma.",
+                  "text": "Casa Borșciov construită în 1824 în Kostroma.",
                   "category": "historical",
                   "coords": [
                         40.928632,
@@ -61486,7 +61486,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Tserkov Voskreseniya Khristova na Debre",
-                  "text": "Biserica Învierii Domnului din Kostroma.",
+                  "text": "Biserica Învierii lui Hristos de pe Debria, construită la mijlocul secolului al XVII-lea în Kostroma.",
                   "category": "religious",
                   "coords": [
                         40.948397,
@@ -61839,7 +61839,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Kostromskoi gosudarstvennyi istoriko-arkhitekturnyi i khudozhestvennyi muzei-zapovednik",
-                  "text": "Historical and architectural museum in Kostroma.",
+                  "text": "Kostroma State Historical-Architectural and Art Museum-Reserve built 1909–1913.",
                   "category": "museum",
                   "coords": [
                         40.929722,
@@ -61848,7 +61848,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Dom Borshchova",
-                  "text": "The historic Borshchov House in Kostroma.",
+                  "text": "Borshchov House built in 1824 in Kostroma.",
                   "category": "historical",
                   "coords": [
                         40.928632,
@@ -61929,7 +61929,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Tserkov Voskreseniya Khristova na Debre",
-                  "text": "The Church of the Resurrection in Kostroma.",
+                  "text": "Church of the Resurrection on the Debrya built mid-17th century in Kostroma.",
                   "category": "religious",
                   "coords": [
                         40.948397,
@@ -65028,7 +65028,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Michail Kutusow",
-                  "text": "Die Michail Kutusow ist ein historischer Kreuzer und Museumsschiff in Noworossijsk.",
+                  "text": "1952 vom Stapel gelaufener Kreuzer 'Michail Kutusow' in Noworossijsk, heute Museumsschiff.",
                   "category": "landmark",
                   "coords": [
                         37.782047,
@@ -65219,7 +65219,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Kreiser Mikhail Kutuzov",
-                  "text": "A Mihail Kutuzov egy történelmi cirkáló és múzeumhajó Novorosszijszkban.",
+                  "text": "1952-ben vízre bocsátott 'Mihail Kutuzov' cirkáló Novorosszijszkban, ma múzeumhajó.",
                   "category": "landmark",
                   "coords": [
                         37.782047,
@@ -65410,7 +65410,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Kreiser Mikhail Kutuzov",
-                  "text": "Mihail Kutuzov este un crucișător istoric și o navă muzeu în Novorossiisk.",
+                  "text": "Crucișătorul 'Mihail Kutuzov' lansat în 1952 la Novorossiisk, acum navă muzeu.",
                   "category": "landmark",
                   "coords": [
                         37.782047,
@@ -65601,7 +65601,7 @@ imageHint: "Alyosha Monument in Murmansk",
             },
             {
                   "name": "Mikhail Kutuzov",
-                  "text": "The Mikhail Kutuzov is a historic cruiser and museum ship in Novorossiysk.",
+                  "text": "Cruiser 'Mikhail Kutuzov' launched in 1952 in Novorossiysk, now a museum ship.",
                   "category": "landmark",
                   "coords": [
                         37.782047,

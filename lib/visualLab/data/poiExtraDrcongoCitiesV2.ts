@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraDrcongoCitiesV2: POI[] = [
   {
-    id: "cd-kinshasa-cities-v2",
+    id: "cd-kinshasa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mongita",
+                  "text": "Mongita ist ein lebendiges lokales Theater, das der dynamischen darstellenden Kunstszene von Kinshasa eine Bühne bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.312231,
+                        -4.322485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mongita",
+                  "text": "A Mongita egy élénk helyi színház, amely színpadot kínál Kinshasa dinamikus előadóművészeti közösségének.",
+                  "category": "cultural",
+                  "coords": [
+                        15.312231,
+                        -4.322485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mongita",
+                  "text": "Mongita este un teatru local vibrant care oferă o scenă pentru comunitatea dinamică de arte spectacole din Kinshasa.",
+                  "category": "cultural",
+                  "coords": [
+                        15.312231,
+                        -4.322485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mongita",
+                  "text": "Mongita is a vibrant local theatre offering a stage for Kinshasa's dynamic performing arts community.",
+                  "category": "cultural",
+                  "coords": [
+                        15.312231,
+                        -4.322485
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-KN",
     coords: [15.3105, -4.3275],
@@ -94,7 +139,52 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     
      image: "/poi-images/cd-maluku-cities-v2.webp"},
   {
-    id: "cd-matadi-cities-v2",
+    id: "cd-matadi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bula Matadi",
+                  "text": "Dieses Denkmal ehrt den ‚Felsenbrecher‘, eine historische Anspielung auf die schwierige Errichtung der Siedlung im steilen Gelände von Matadi.",
+                  "category": "historical",
+                  "coords": [
+                        13.460401,
+                        -5.821354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bula Matadi",
+                  "text": "Ez az emlékmű a „Sziklatörő” előtt tiszteleg, amely egy történelmi utalás a település nehézkes kialakítására Matadi meredek terepén.",
+                  "category": "historical",
+                  "coords": [
+                        13.460401,
+                        -5.821354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bula Matadi",
+                  "text": "Acest monument îl onorează pe „Spărgătorul de stânci”, un indiciu istoric la crearea dificilă a așezării pe terenul abrupt din Matadi.",
+                  "category": "historical",
+                  "coords": [
+                        13.460401,
+                        -5.821354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bula Matadi",
+                  "text": "This monument honors the 'Breaker of Rocks', a historical nod to the difficult creation of the settlement amidst Matadi's steep terrain.",
+                  "category": "historical",
+                  "coords": [
+                        13.460401,
+                        -5.821354
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-BC",
     coords: [13.46, -5.8167],
@@ -585,7 +675,52 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     
   },
   {
-    id: "cd-kipushi-cities-v2",
+    id: "cd-kipushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loco",
+                  "text": "Loco ist eine bemerkenswerte lokale Attraktion in der vom Bergbau geprägten Stadt Kipushi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.240476,
+                        -11.765938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loco",
+                  "text": "A Loco egy figyelemre méltó helyi látványosság a bányászatról ismert Kipushi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.240476,
+                        -11.765938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loco",
+                  "text": "Loco este o atracție locală notabilă situată în orașul minier Kipushi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.240476,
+                        -11.765938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loco",
+                  "text": "Loco is a notable local attraction situated within the mining-oriented city of Kipushi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.240476,
+                        -11.765938
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CD-HK",
     coords: [27.2333, -11.7667],
@@ -834,7 +969,52 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     
   },
   {
-    id: "cd-kamina-cities-v2",
+    id: "cd-kamina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ecran géant",
+                  "text": "Das Freiluftkino Ecran géant bietet eine riesige Leinwand für abendliche Projektionen in cd-kamina-cities-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        24.981199,
+                        -8.732446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ecran géant",
+                  "text": "Az Ecran géant szabadtéri mozi hatalmas vetítővásznat kínál az esti vetítésekhez cd-kamina-cities-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        24.981199,
+                        -8.732446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ecran géant",
+                  "text": "Parcul tematic Ecran géant oferă un ecran masiv pentru proiecții nocturne în aer liber în cd-kamina-cities-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        24.981199,
+                        -8.732446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ecran géant",
+                  "text": "The Ecran géant outdoor theater space provides a massive projection screen for evening entertainment in cd-kamina-cities-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        24.981199,
+                        -8.732446
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-HL",
     coords: [24.99, -8.73],
@@ -1128,7 +1308,52 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     
   },
   {
-    id: "cd-bukavu-cities-v2",
+    id: "cd-bukavu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Résidence du gouverneur",
+                  "text": "Die Résidence du gouverneur ist ein stattliches Herrenhaus, das als offizieller Verwaltungssitz der Stadt dient.",
+                  "category": "historical",
+                  "coords": [
+                        28.869522,
+                        -2.49762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Résidence du gouverneur",
+                  "text": "A Résidence du gouverneur egy tekintélyes kúria, amely a város hivatalos közigazgatási rezidenciájaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        28.869522,
+                        -2.49762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Résidence du gouverneur",
+                  "text": "Résidence du gouverneur este un conac impunător care servește ca reședință administrativă oficială în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        28.869522,
+                        -2.49762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Résidence du gouverneur",
+                  "text": "The Résidence du gouverneur is a stately manor house that serves as the official administrative dwelling in the city.",
+                  "category": "historical",
+                  "coords": [
+                        28.869522,
+                        -2.49762
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-SK",
     coords: [28.8667, -2.5],
@@ -1317,7 +1542,52 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
   },
   {
-    id: "cd-goma-cities-v2",
+    id: "cd-goma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint Joseph",
+                  "text": "Diese Kathedrale ist eine bedeutende Andachtsstätte in Goma.",
+                  "category": "religious",
+                  "coords": [
+                        29.234376,
+                        -1.670043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saint Joseph",
+                  "text": "Ez a katedrális egy jelentős istentiszteleti hely Gomában.",
+                  "category": "religious",
+                  "coords": [
+                        29.234376,
+                        -1.670043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Saint Joseph",
+                  "text": "Această catedrală este un lăcaș de cult important din Goma.",
+                  "category": "religious",
+                  "coords": [
+                        29.234376,
+                        -1.670043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral of St. Joseph",
+                  "text": "This cathedral is a prominent place of worship in Goma.",
+                  "category": "religious",
+                  "coords": [
+                        29.234376,
+                        -1.670043
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-NK",
     coords: [29.2333, -1.6667],
@@ -1359,7 +1629,88 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
   },
   {
-    id: "cd-beni-cities-v2",
+    id: "cd-beni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "In memoriam MGR Henri Pierard",
+                  "text": "Dieses Steindenkmal ist Monsignore Henri Piérard gewidmet, einem einflussreichen Assumptionisten-Missionar, der in der Region diente.",
+                  "category": "historical",
+                  "coords": [
+                        29.492754,
+                        0.479154
+                  ]
+            },
+            {
+                  "name": "Gallérie Belle Union",
+                  "text": "Diese lokale Galerie in Beni dient als kulturelles Zentrum und präsentiert regionale bildende Kunst und traditionelle kongolesische Handwerkskunst.",
+                  "category": "museum",
+                  "coords": [
+                        29.462456,
+                        0.486303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "In memoriam MGR Henri Pierard",
+                  "text": "Ez a kőemlékmű Henri Piérard püspöknek, a régióban szolgáló befolyásos asszumpcionista misszionáriusnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        29.492754,
+                        0.479154
+                  ]
+            },
+            {
+                  "name": "Gallérie Belle Union",
+                  "text": "Ez a Beni-ben található helyi galéria kulturális központként működik, és bemutatja a regionális képzőművészetet, valamint a hagyományos kongói kézművességet.",
+                  "category": "museum",
+                  "coords": [
+                        29.462456,
+                        0.486303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "In memoriam MGR Henri Pierard",
+                  "text": "Acest monument de piatră este dedicat Monseniorului Henri Piérard, un influent misionar asumpționist care a slujit în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        29.492754,
+                        0.479154
+                  ]
+            },
+            {
+                  "name": "Gallérie Belle Union",
+                  "text": "Această galerie locală din Beni servește drept centru cultural, prezentând arte vizuale regionale și măiestrie tradițională congoleză.",
+                  "category": "museum",
+                  "coords": [
+                        29.462456,
+                        0.486303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "In memoriam MGR Henri Pierard",
+                  "text": "This stone monument is dedicated to Monsignor Henri Piérard, an influential Assumptionist missionary who served in the region.",
+                  "category": "historical",
+                  "coords": [
+                        29.492754,
+                        0.479154
+                  ]
+            },
+            {
+                  "name": "Gallérie Belle Union",
+                  "text": "This local gallery in Beni serves as a cultural hub, showcasing regional visual arts and traditional Congolese craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        29.462456,
+                        0.486303
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CD-NK",
     coords: [29.4667, 0.4833],
@@ -1800,7 +2151,52 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
   },
   {
-    id: "cd-bunia-cities-v2",
+    id: "cd-bunia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Plage",
+                  "text": "Ein erholsamer Freizeitpark in Bunia, der verschiedene Freizeitaktivitäten am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        30.187417,
+                        1.568633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Plage",
+                  "text": "Egy pihentető vidámpark Buniában, amely különféle vízparti szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.187417,
+                        1.568633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Plage",
+                  "text": "Un parc tematic de agrement în Bunia care oferă diverse activități de petrecere a timpului liber pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        30.187417,
+                        1.568633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Plage",
+                  "text": "A recreational theme park in Bunia offering various waterfront leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        30.187417,
+                        1.568633
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-IT",
     coords: [30.25, 1.5667],
@@ -2478,7 +2874,124 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
   },
   {
-    id: "cd-mbandaka-cities-v2",
+    id: "cd-mbandaka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ndeke",
+                  "text": "Das Ndeke-Monument ist ein lokales Wahrzeichen in Mbandaka, das das kulturelle Erbe der Region inmitten des tropischen Regenwaldes feiert.",
+                  "category": "historical",
+                  "coords": [
+                        18.263949,
+                        0.061537
+                  ]
+            },
+            {
+                  "name": "Musée d'Eala",
+                  "text": "Das Musée d'Eala in der Nähe von Mbandaka ergänzt die historischen botanischen Gärten, indem es die reiche florale Artenvielfalt des Kongobeckens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.314039,
+                        0.068197
+                  ]
+            },
+            {
+                  "name": "Paulin, le Croco",
+                  "text": "Paulin das Krokodil ist eine bekannte lokale Attraktion in Mbandaka, die den Besuchern einen Blick auf die beeindruckende Flussfauna der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.314108,
+                        0.066526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ndeke",
+                  "text": "A Ndeke-emlékmű egy helyi nevezetesség Mbandakában, amely a trópusi esőerdőben található régió kulturális örökségét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        18.263949,
+                        0.061537
+                  ]
+            },
+            {
+                  "name": "Musée d'Eala",
+                  "text": "A Mbandaka közelében található Musée d'Eala a történelmi botanikus kerteket egészíti ki a Kongó-medence gazdag növényvilágának bemutatásával.",
+                  "category": "museum",
+                  "coords": [
+                        18.314039,
+                        0.068197
+                  ]
+            },
+            {
+                  "name": "Paulin, le Croco",
+                  "text": "Paulin, a krokodil egy jól ismert helyi látványosság Mbandakában, amely bepillantást enged a régió lenyűgöző folyami vadvilágába.",
+                  "category": "landmark",
+                  "coords": [
+                        18.314108,
+                        0.066526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ndeke",
+                  "text": "Monumentul Ndeke este un punct de reper local în Mbandaka, care sărbătorește moștenirea culturală a regiunii în mijlocul pădurii tropicale.",
+                  "category": "historical",
+                  "coords": [
+                        18.263949,
+                        0.061537
+                  ]
+            },
+            {
+                  "name": "Musée d'Eala",
+                  "text": "Musée d'Eala din apropiere de Mbandaka completează grădinile botanice istorice, prezentând bogata biodiversitate florală a bazinului Congo.",
+                  "category": "museum",
+                  "coords": [
+                        18.314039,
+                        0.068197
+                  ]
+            },
+            {
+                  "name": "Paulin, le Croco",
+                  "text": "Crocodilul Paulin este o atracție locală bine cunoscută în Mbandaka, oferind vizitatorilor o privire asupra faunei fluviale formidabile a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.314108,
+                        0.066526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ndeke",
+                  "text": "The Ndeke monument is a local landmark in Mbandaka, celebrating the region's cultural heritage within the tropical rainforest.",
+                  "category": "historical",
+                  "coords": [
+                        18.263949,
+                        0.061537
+                  ]
+            },
+            {
+                  "name": "Musée d'Eala",
+                  "text": "The Musée d'Eala near Mbandaka complements the nearby historical botanical gardens by showcasing the rich floral biodiversity of the Congo Basin.",
+                  "category": "museum",
+                  "coords": [
+                        18.314039,
+                        0.068197
+                  ]
+            },
+            {
+                  "name": "Paulin, le Croco",
+                  "text": "Paulin the Crocodile is a well-known local attraction in Mbandaka, fascinating visitors with a glimpse of the region's formidable river wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        18.314108,
+                        0.066526
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-EQ",
     coords: [18.2667, 0.05],
@@ -2616,7 +3129,52 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
   },
   {
-    id: "cd-boende-cities-v2",
+    id: "cd-boende-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boende Monument",
+                  "text": "Ein städtisches Denkmal im Stadtzentrum, das an die regionale Geschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        20.875568,
+                        -0.277845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boende Monument",
+                  "text": "A városközpontban álló civil emlékmű, amely a regionális történelemnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        20.875568,
+                        -0.277845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boende Monument",
+                  "text": "Un monument civic situat în centrul orașului pentru a comemora istoria regională.",
+                  "category": "historical",
+                  "coords": [
+                        20.875568,
+                        -0.277845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boende Monument",
+                  "text": "A civic monument standing in the town center to commemorate regional history.",
+                  "category": "historical",
+                  "coords": [
+                        20.875568,
+                        -0.277845
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CD-TU",
     coords: [20.8667, -0.2833],

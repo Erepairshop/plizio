@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraNamibiaEconomicV2: POI[] = [
   {
-    id: "walvis-bay-hafen-economic-v2",
+    id: "walvis-bay-hafen-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hope Locomotive",
+                  "text": "Eine historische Schmalspur-Dampflokomotive, die erhalten wurde, um an die Anfänge des Schienenverkehrs im Hafen von Walvis Bay zu erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.501253,
+                        -22.954321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hope Locomotive",
+                  "text": "Egy történelmi kis nyomtávú gőzmozdony, amelyet a walvis bay-i kikötő korai vasúti szállításának emlékére őriztek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        14.501253,
+                        -22.954321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hope Locomotive",
+                  "text": "O locomotivă istorică cu abur cu ecartament îngust păstrată pentru a comemora primele zile ale transportului feroviar în portul Walvis Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        14.501253,
+                        -22.954321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hope Locomotive",
+                  "text": "A historic small gauge steam locomotive preserved to commemorate the early days of railway transport at the Walvis Bay port.",
+                  "category": "landmark",
+                  "coords": [
+                        14.501253,
+                        -22.954321
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NA-ER",
     coords: [14.5, -22.95],
@@ -85,7 +130,52 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/luederitz-hafen-economic-v2.webp"},
   {
-    id: "roessing-uranmine-economic-v2",
+    id: "roessing-uranmine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khanmyn",
+                  "text": "Khanmyn ist ein historischer Minenstandort in der Wüstenregion der Khan-Kupfermine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.992198,
+                        -22.503438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khanmyn",
+                  "text": "A Khanmyn egy történelmi bányaterület a Khan rézbánya sivatagi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.992198,
+                        -22.503438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khanmyn",
+                  "text": "Khanmyn este un sit minier istoric în regiunea deșertică a minei de cupru Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        14.992198,
+                        -22.503438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khanmyn",
+                  "text": "Khanmyn is a historic mining site located in the desert region near the Khan copper mine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.992198,
+                        -22.503438
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-ER",
     coords: [15.0461, -22.4636],
@@ -126,7 +216,88 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/roessing-uranmine-economic-v2.webp"},
   {
-    id: "husab-uranmine-economic-v2",
+    id: "husab-uranmine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Welwitschia Drive Beacon 12",
+                  "text": "Die Bake 12 markiert einen Streckenabschnitt auf dem Welwitschia-Drive durch die steinige Wüste.",
+                  "category": "landmark",
+                  "coords": [
+                        15.028015,
+                        -22.668906
+                  ]
+            },
+            {
+                  "name": "Welwitschia Drive Beacon 11",
+                  "text": "Die Bake 11 ist ein Orientierungspunkt auf der Wüstenroute des Welwitschia-Drives.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991622,
+                        -22.665679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Welwitschia Drive Beacon 12",
+                  "text": "A 12-es jelzőtábla a kősivatagon áthaladó Welwitschia-útvonal egyik állomását jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        15.028015,
+                        -22.668906
+                  ]
+            },
+            {
+                  "name": "Welwitschia Drive Beacon 11",
+                  "text": "A 11-es jelzőtábla egy tájékozódási pont a Welwitschia-útvonal sivatagi szakaszán.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991622,
+                        -22.665679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Welwitschia Drive Beacon 12",
+                  "text": "Baliza 12 marchează un punct de pe traseul Welwitschia Drive prin deșertul stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        15.028015,
+                        -22.668906
+                  ]
+            },
+            {
+                  "name": "Welwitschia Drive Beacon 11",
+                  "text": "Baliza 11 servește ca punct de orientare pe traseul deșertic Welwitschia Drive.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991622,
+                        -22.665679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Welwitschia Drive Beacon 12",
+                  "text": "Beacon 12 marks a point of interest along the Welwitschia Drive through the rocky desert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.028015,
+                        -22.668906
+                  ]
+            },
+            {
+                  "name": "Welwitschia Drive Beacon 11",
+                  "text": "Beacon 11 serves as an orientation point along the desert route of the Welwitschia Drive.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991622,
+                        -22.665679
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-ER",
     coords: [15.05, -22.65],
@@ -167,7 +338,52 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/husab-uranmine-economic-v2.webp"},
   {
-    id: "langer-heinrich-mine-economic-v2",
+    id: "langer-heinrich-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blutkuppe",
+                  "text": "Die Blutkuppe ist ein markanter Granit-Inselberg, der sich aus der Wüstenlandschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        15.38172,
+                        -22.843892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bloedkoppie",
+                  "text": "A Bloedkoppie (Vérhegy) egy jellegzetes gránit szigethegy, amely kiemelkedik a sivatagi tájból.",
+                  "category": "natural",
+                  "coords": [
+                        15.38172,
+                        -22.843892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bloedkoppie",
+                  "text": "Bloedkoppie este un vârf proeminent de granit care se înalță din peisajul deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        15.38172,
+                        -22.843892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bloedkoppie",
+                  "text": "Bloedkoppie is a prominent granite inselberg rising from the surrounding desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.38172,
+                        -22.843892
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-ER",
     coords: [15.3167, -22.8167],
@@ -577,7 +793,88 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/otjihase-kupfermine-economic-v2.webp"},
   {
-    id: "namdeb-oranjemund-economic-v2",
+    id: "namdeb-oranjemund-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Little Theatre",
+                  "text": "Diese kleine Innenbühne bietet einen kulturellen Veranstaltungsort für Aufführungen in der isolierten Diamantenminenstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.425072,
+                        -28.550815
+                  ]
+            },
+            {
+                  "name": "The Jasper House Museum",
+                  "text": "Dieses historische Gebäude bewahrt die Sozialgeschichte und die Artefakte der lokalen Diamantenabbau-Gemeinde.",
+                  "category": "museum",
+                  "coords": [
+                        16.427754,
+                        -28.552783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Little Theatre",
+                  "text": "Ez a kis beltéri színpad kulturális helyszínt biztosít az előadások számára az elszigetelt gyémántbányász városban.",
+                  "category": "cultural",
+                  "coords": [
+                        16.425072,
+                        -28.550815
+                  ]
+            },
+            {
+                  "name": "The Jasper House Museum",
+                  "text": "Ez az örökségvédelmi épület a helyi gyémántbányász közösség társadalmi történelmét és tárgyi emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        16.427754,
+                        -28.552783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Little Theatre",
+                  "text": "Această mică scenă interioară oferă un spațiu cultural pentru spectacole în orașul izolat de extracție a diamantelor.",
+                  "category": "cultural",
+                  "coords": [
+                        16.425072,
+                        -28.550815
+                  ]
+            },
+            {
+                  "name": "The Jasper House Museum",
+                  "text": "Acest clădire de patrimoniu păstrează istoria socială și artefactele comunității locale de extracție a diamantelor.",
+                  "category": "museum",
+                  "coords": [
+                        16.427754,
+                        -28.552783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Little Theatre",
+                  "text": "This small indoor stage provides a cultural venue for performances in the isolated diamond-mining town.",
+                  "category": "cultural",
+                  "coords": [
+                        16.425072,
+                        -28.550815
+                  ]
+            },
+            {
+                  "name": "The Jasper House Museum",
+                  "text": "This heritage building preserves the social history and artifacts of the local diamond mining community.",
+                  "category": "museum",
+                  "coords": [
+                        16.427754,
+                        -28.552783
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-KA",
     coords: [16.45, -28.5333],
@@ -700,7 +997,160 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/bogenfels-diamantenmine-economic-v2.webp"},
   {
-    id: "salzgewinnung-swakopmund-economic-v2",
+    id: "salzgewinnung-swakopmund-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pebble Beach",
+                  "text": "Der Pebble Beach ist ein steiniger Küstenabschnitt am Atlantischen Ozean in Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524711,
+                        -22.631537
+                  ]
+            },
+            {
+                  "name": "Flamingo Lagoon",
+                  "text": "An der Flamingo Lagoon versammeln sich zahlreiche Flamingos in den flachen Küstengewässern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521093,
+                        -22.583498
+                  ]
+            },
+            {
+                  "name": "Swakopmund Genocide Museum",
+                  "text": "Das Swakopmund Genocide Museum dokumentiert die tragische Geschichte des Völkermords in der Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        14.563477,
+                        -22.637569
+                  ]
+            },
+            {
+                  "name": "Vogelstrand",
+                  "text": "Der Vogelstrand ist ein malerischer Sandstrand an der kühlen Atlantikküste von Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.525893,
+                        -22.640236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pebble Beach",
+                  "text": "A Pebble Beach egy kavicsos partszakasz az Atlanti-óceán partján Swakopmund közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524711,
+                        -22.631537
+                  ]
+            },
+            {
+                  "name": "Flamingo Lagoon",
+                  "text": "A Flamingo-lagúna sekély part menti vizeiben rengeteg flamingó gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521093,
+                        -22.583498
+                  ]
+            },
+            {
+                  "name": "Swakopmund Genocide Museum",
+                  "text": "A Swakopmundi Népirtás Múzeum a gyarmati időszak alatti népirtás tragikus történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.563477,
+                        -22.637569
+                  ]
+            },
+            {
+                  "name": "Vogelstrand",
+                  "text": "A Vogelstrand egy festői homokos tengerpart Swakopmund hűvös atlanti partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.525893,
+                        -22.640236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pebble Beach",
+                  "text": "Pebble Beach este o porțiune de coastă stâncoasă de-a lungul Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524711,
+                        -22.631537
+                  ]
+            },
+            {
+                  "name": "Flamingo Lagoon",
+                  "text": "La Laguna Flamingo se adună numeroși flamingo în apele de coastă puțin adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521093,
+                        -22.583498
+                  ]
+            },
+            {
+                  "name": "Swakopmund Genocide Museum",
+                  "text": "Muzeul Genocidului din Swakopmund documentează istoria tragică a genocidului din perioada colonială.",
+                  "category": "museum",
+                  "coords": [
+                        14.563477,
+                        -22.637569
+                  ]
+            },
+            {
+                  "name": "Vogelstrand",
+                  "text": "Vogelstrand este o plajă pitorească de nisip pe coasta atlantică din Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.525893,
+                        -22.640236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pebble Beach",
+                  "text": "Pebble Beach is a stony coastal stretch along the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524711,
+                        -22.631537
+                  ]
+            },
+            {
+                  "name": "Flamingo Lagoon",
+                  "text": "The Flamingo Lagoon is a shallow coastal inlet where large numbers of flamingos gather.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521093,
+                        -22.583498
+                  ]
+            },
+            {
+                  "name": "Swakopmund Genocide Museum",
+                  "text": "The Swakopmund Genocide Museum documents the tragic history of the genocide during the colonial era.",
+                  "category": "museum",
+                  "coords": [
+                        14.563477,
+                        -22.637569
+                  ]
+            },
+            {
+                  "name": "Vogelstrand",
+                  "text": "Vogelstrand is a scenic sandy beach situated along the cool Atlantic coast of Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.525893,
+                        -22.640236
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-ER",
     coords: [14.5333, -22.6167],
@@ -741,7 +1191,124 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/salzgewinnung-swakopmund-economic-v2.webp"},
   {
-    id: "walvis-bay-salzgewinnung-economic-v2",
+    id: "walvis-bay-salzgewinnung-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Walvis Bay Salt Works",
+                  "text": "Eine riesige industrielle Küstenanlage, in der riesige Mengen Meersalz über solare Verdunstungsbecken produziert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        14.464481,
+                        -23.026863
+                  ]
+            },
+            {
+                  "name": "Pink Lake",
+                  "text": "Ein auffälliges Verdunstungsbecken der Salinen, das durch spezialisierte Algen und Mikroorganismen leuchtend rosa gefärbt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.453972,
+                        -23.013637
+                  ]
+            },
+            {
+                  "name": "Pelicans",
+                  "text": "Ein beliebter Küstenbeobachtungspunkt, an dem sich große Pelikanschwärme versammeln, um sich in den nährstoffreichen Gewässern zu ernähren.",
+                  "category": "natural",
+                  "coords": [
+                        14.431959,
+                        -22.964087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Walvis Bay Salt Works",
+                  "text": "Hatalmas tengerparti ipari létesítmény, ahol hatalmas mennyiségű tengeri sót állítanak elő napenergiával működő párologtató medencéken keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        14.464481,
+                        -23.026863
+                  ]
+            },
+            {
+                  "name": "Pink Lake",
+                  "text": "Lenyűgöző párologtató tó a sólepárlóknál, amelyet speciális algák és mikroorganizmusok élénk rózsaszínűre festenek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.453972,
+                        -23.013637
+                  ]
+            },
+            {
+                  "name": "Pelicans",
+                  "text": "Népszerű tengerparti megfigyelőhely, ahol nagy pelikáncsapatok gyűlnek össze, hogy a tápanyagban gazdag vizekben táplálkozzanak.",
+                  "category": "natural",
+                  "coords": [
+                        14.431959,
+                        -22.964087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walvis Bay Salt Works",
+                  "text": "O instalație industrială masivă de coastă unde se produc cantități uriașe de sare de mare prin bazine de evaporare solară.",
+                  "category": "landmark",
+                  "coords": [
+                        14.464481,
+                        -23.026863
+                  ]
+            },
+            {
+                  "name": "Pink Lake",
+                  "text": "Un bazin izbitor de evaporare la saline, colorat în roz strălucitor de alge și microorganisme specializate.",
+                  "category": "landmark",
+                  "coords": [
+                        14.453972,
+                        -23.013637
+                  ]
+            },
+            {
+                  "name": "Pelicans",
+                  "text": "Un loc popular de observare de coastă unde se adună stoluri mari de pelicani pentru a se hrăni în apele bogate în nutrienți.",
+                  "category": "natural",
+                  "coords": [
+                        14.431959,
+                        -22.964087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Walvis Bay Salt Works",
+                  "text": "A massive coastal industrial facility where huge quantities of sea salt are produced via solar evaporation pans.",
+                  "category": "landmark",
+                  "coords": [
+                        14.464481,
+                        -23.026863
+                  ]
+            },
+            {
+                  "name": "Pink Lake",
+                  "text": "A striking evaporation pond at the salt works, colored bright pink by specialized algae and microorganisms.",
+                  "category": "landmark",
+                  "coords": [
+                        14.453972,
+                        -23.013637
+                  ]
+            },
+            {
+                  "name": "Pelicans",
+                  "text": "A popular coastal observation spot where large flocks of pelicans gather to feed in the nutrient-rich waters.",
+                  "category": "natural",
+                  "coords": [
+                        14.431959,
+                        -22.964087
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-ER",
     coords: [14.4167, -23.0167],
@@ -782,7 +1349,124 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/walvis-bay-salzgewinnung-economic-v2.webp"},
   {
-    id: "namwater-hauptsitz-economic-v2",
+    id: "namwater-hauptsitz-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gibeon Meteorits",
+                  "text": "Diese auf Stahlsäulen in der Post Street Mall ausgestellten authentischen Gesteinsfragmente stammen aus einem massiven prähistorischen Meteoritenschauer.",
+                  "category": "landmark",
+                  "coords": [
+                        17.083068,
+                        -22.566423
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "Dieses von der US-Botschaft betriebene Zentrum fungiert als Bildungsressource und bietet eine umfangreiche Bibliothek für den internationalen Kulturaustausch.",
+                  "category": "cultural",
+                  "coords": [
+                        17.08406,
+                        -22.567543
+                  ]
+            },
+            {
+                  "name": "Windhoek Clocktower",
+                  "text": "Ein markantes historisches Uhrendenkmal, das im Stadtzentrum von Windhoek durch sein klassisches Design aus der Kolonialzeit auffällt.",
+                  "category": "historical",
+                  "coords": [
+                        17.084178,
+                        -22.566275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gibeon Meteorits",
+                  "text": "A Post Street Mall acéloszlopain kiállított eredeti földönkívüli kőzettöredékek egy hatalmas, történelem előtti meteoritzáporból származnak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.083068,
+                        -22.566423
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "Az amerikai nagykövetség által működtetett központ oktatási erőforrásként szolgál, és kiterjedt könyvtárat kínál a nemzetközi kulturális cseréhez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.08406,
+                        -22.567543
+                  ]
+            },
+            {
+                  "name": "Windhoek Clocktower",
+                  "text": "Egy kiemelkedő történelmi óratorony, amely klasszikus, gyarmati korszakbeli dizájnjával hívja fel magára a figyelmet Windhoek városközpontjában.",
+                  "category": "historical",
+                  "coords": [
+                        17.084178,
+                        -22.566275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gibeon Meteorits",
+                  "text": "Expuse pe coloane de oțel în Post Street Mall, aceste fragmente autentice de roci extraterestre provin dintr-o ploaie masivă de meteoriți preistorici.",
+                  "category": "landmark",
+                  "coords": [
+                        17.083068,
+                        -22.566423
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "Gestionat de ambasada SUA, acest centru funcționează ca resursă educațională și oferă o bibliotecă extinsă pentru schimburi culturale internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.08406,
+                        -22.567543
+                  ]
+            },
+            {
+                  "name": "Windhoek Clocktower",
+                  "text": "Un monument istoric proeminent sub formă de turn cu ceas, care iese în evidență în centrul orașului Windhoek prin designul său clasic din era colonială.",
+                  "category": "historical",
+                  "coords": [
+                        17.084178,
+                        -22.566275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gibeon Meteorits",
+                  "text": "Displayed on steel columns in the Post Street Mall, these authentic extraterrestrial rock fragments originate from a massive prehistoric meteorite shower.",
+                  "category": "landmark",
+                  "coords": [
+                        17.083068,
+                        -22.566423
+                  ]
+            },
+            {
+                  "name": "American Cultural Centre",
+                  "text": "Run by the US embassy, this facility functions as an educational resource and offers an extensive library for international cultural exchange.",
+                  "category": "cultural",
+                  "coords": [
+                        17.08406,
+                        -22.567543
+                  ]
+            },
+            {
+                  "name": "Windhoek Clocktower",
+                  "text": "A prominent historical timepiece monument that stands out in the Windhoek city center with its classic colonial-era design.",
+                  "category": "historical",
+                  "coords": [
+                        17.084178,
+                        -22.566275
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-KH",
     coords: [17.0833, -22.5667],
@@ -823,7 +1507,52 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/namwater-hauptsitz-economic-v2.webp"},
   {
-    id: "van-eck-kraftwerk-economic-v2",
+    id: "van-eck-kraftwerk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eros Feste",
+                  "text": "Inmitten des zerklüfteten Terrains der Erosberge gelegen, bieten die Ruinen dieser alten Festungsanlage einen Einblick in die koloniale Vergangenheit.",
+                  "category": "fortress",
+                  "coords": [
+                        17.116431,
+                        -22.520904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eros Feste",
+                  "text": "Az Eros-hegység zord vidékén található régi erőd romjai bepillantást engednek a régió gyarmati múltjába.",
+                  "category": "fortress",
+                  "coords": [
+                        17.116431,
+                        -22.520904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eros Feste",
+                  "text": "Situate printre terenurile accidentate ale Munților Eros, ruinele acestei vechi fortificații oferă o privire în trecutul colonial al regiunii.",
+                  "category": "fortress",
+                  "coords": [
+                        17.116431,
+                        -22.520904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eros Feste",
+                  "text": "Situated amidst the rugged terrain of the Eros Mountains, the ruins of this old fortification offer a glimpse into the region's colonial past.",
+                  "category": "fortress",
+                  "coords": [
+                        17.116431,
+                        -22.520904
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-KH",
     coords: [17.0833, -22.5167],
@@ -864,7 +1593,52 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/van-eck-kraftwerk-economic-v2.webp"},
   {
-    id: "ruacana-wasserkraftwerk-economic-v2",
+    id: "ruacana-wasserkraftwerk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruacanafälle",
+                  "text": "Dieser Aussichtspunkt bietet eine dramatische Perspektive auf die kaskadierenden Gewässer und die felsige Schlucht der Ruacana-Fälle.",
+                  "category": "natural",
+                  "coords": [
+                        14.219802,
+                        -17.392351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruacana Falls",
+                  "text": "Ez a kilátó drámai perspektívát nyújt a Ruacana-vízesés lezúduló vizeire és sziklás szurdokára.",
+                  "category": "natural",
+                  "coords": [
+                        14.219802,
+                        -17.392351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruacana Falls",
+                  "text": "Acest punct de belvedere oferă o perspectivă dramatică asupra apelor în cascadă și a defileului stâncos al cascadelor Ruacana.",
+                  "category": "natural",
+                  "coords": [
+                        14.219802,
+                        -17.392351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruacana Falls",
+                  "text": "This viewpoint provides a dramatic perspective on the cascading waters and rocky gorge of the Ruacana Falls.",
+                  "category": "natural",
+                  "coords": [
+                        14.219802,
+                        -17.392351
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-OM",
     coords: [14.2833, -17.4],
@@ -1028,7 +1802,88 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/erongo-entsalzungsanlage-economic-v2.webp"},
   {
-    id: "meatco-fleischfabrik-economic-v2",
+    id: "meatco-fleischfabrik-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "John Muafangejo Art Centre",
+                  "text": "Diese nach Namibias berühmtem Grafiker benannte Galerie widmet sich der Förderung der bildenden Kunst und zeigt beeindruckende Linolschnitte.",
+                  "category": "museum",
+                  "coords": [
+                        17.064366,
+                        -22.52873
+                  ]
+            },
+            {
+                  "name": "KCAC Arena",
+                  "text": "Als Hauptveranstaltungsort innerhalb des Katutura Community Arts Centre beherbergt diese Arena lebendige Kulturfestivals und Aufführungen der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        17.066001,
+                        -22.528143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "John Muafangejo Art Centre",
+                  "text": "A Namíbia híres grafikusáról elnevezett galéria a vizuális művészetek támogatásának és a lenyűgöző linómetszetek bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        17.064366,
+                        -22.52873
+                  ]
+            },
+            {
+                  "name": "KCAC Arena",
+                  "text": "A Katutura Közösségi Művészeti Központ fő előadóhelyeként szolgáló aréna nyüzsgő kulturális fesztiváloknak és közösségi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.066001,
+                        -22.528143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "John Muafangejo Art Centre",
+                  "text": "Numită după un gravor namibian faimos, această galerie este dedicată încurajării artelor vizuale și expunerii impresionantelor lucrări în linogravură.",
+                  "category": "museum",
+                  "coords": [
+                        17.064366,
+                        -22.52873
+                  ]
+            },
+            {
+                  "name": "KCAC Arena",
+                  "text": "Servind drept principalul loc de desfășurare din cadrul Katutura Community Arts Centre, această arenă găzduiește festivaluri culturale și spectacole comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        17.066001,
+                        -22.528143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "John Muafangejo Art Centre",
+                  "text": "Named after Namibia's famous printmaker, this gallery is dedicated to fostering visual arts and showcasing impressive linocut works.",
+                  "category": "museum",
+                  "coords": [
+                        17.064366,
+                        -22.52873
+                  ]
+            },
+            {
+                  "name": "KCAC Arena",
+                  "text": "Serving as the primary venue within the Katutura Community Arts Centre, this arena hosts lively cultural festivals and local community performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.066001,
+                        -22.528143
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-KH",
     coords: [17.0667, -22.5333],
@@ -1110,7 +1965,88 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/namibia-brauereien-economic-v2.webp"},
   {
-    id: "ebh-namibia-economic-v2",
+    id: "ebh-namibia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Independence Beach",
+                  "text": "Dieser beliebte Küstenabschnitt in der Walvis Bay bietet Sandstrände und weite Ausblicke auf den Ozean und dient als bevorzugter Ort für lokale Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526603,
+                        -22.919552
+                  ]
+            },
+            {
+                  "name": "Bird Rock Guano Platform",
+                  "text": "Diese künstliche hölzerne Offshore-Plattform wurde speziell für die Gewinnung von Guano gebaut und dient als ungewöhnlicher dauerhafter Schlafplatz für Tausende von Seevögeln.",
+                  "category": "landmark",
+                  "coords": [
+                        14.535786,
+                        -22.87853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Independence Beach",
+                  "text": "Ez a népszerű tengerparti szakasz a Walvis-öbölben homokos partokat és széles óceáni kilátást kínál, és a helyi szabadidős tevékenységek kedvelt helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526603,
+                        -22.919552
+                  ]
+            },
+            {
+                  "name": "Bird Rock Guano Platform",
+                  "text": "Ezt a nyílt tengeri mesterséges faplatformot kifejezetten guanó begyűjtésére építették, és több ezer tengeri madár szokatlan állandó pihenőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.535786,
+                        -22.87853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Independence Beach",
+                  "text": "Această porțiune de coastă populară din Golful Walvis oferă țărmuri nisipoase și vederi largi la ocean, servind drept loc preferat pentru activitățile locale de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526603,
+                        -22.919552
+                  ]
+            },
+            {
+                  "name": "Bird Rock Guano Platform",
+                  "text": "Această platformă artificială de lemn din larg a fost construită special pentru recoltarea guanoului, servind ca un loc de odihnă permanent neobișnuit pentru mii de păsări marine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.535786,
+                        -22.87853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Independence Beach",
+                  "text": "This popular coastal stretch in Walvis Bay offers sandy shores and wide ocean views, serving as a favored spot for local leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526603,
+                        -22.919552
+                  ]
+            },
+            {
+                  "name": "Bird Rock Guano Platform",
+                  "text": "This offshore artificial wooden platform was constructed specifically to harvest guano, serving as an unusual permanent roosting site for thousands of seabirds.",
+                  "category": "landmark",
+                  "coords": [
+                        14.535786,
+                        -22.87853
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-ER",
     coords: [14.5, -22.9333],
@@ -1151,7 +2087,196 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/ebh-namibia-economic-v2.webp"},
   {
-    id: "namdia-diamantenhandel-economic-v2",
+    id: "namdia-diamantenhandel-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "iFun Family Park",
+                  "text": "Dieser kommerzielle Wasserpark in der Hauptstadt bietet ein Netzwerk aus farbenfrohen Rutschen und Planschbecken, das als städtischer Erholungsort für Familien konzipiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        17.088385,
+                        -22.611698
+                  ]
+            },
+            {
+                  "name": "National Earth Science Museum",
+                  "text": "Dieses wissenschaftliche Museum in Windhoek zeigt umfangreiche geologische Sammlungen, darunter beeindruckende namibische Meteoriten, paläontologische Exponate und Mineralienproben, die für den Bergbausektor von entscheidender Bedeutung sind.",
+                  "category": "museum",
+                  "coords": [
+                        17.083384,
+                        -22.60087
+                  ]
+            },
+            {
+                  "name": "Old Location",
+                  "text": "Dieses Museum dokumentiert ein tragisches Kapitel in der Geschichte Windhoeks und erinnert an die Zwangsumsiedlung der einheimischen Bewohner durch die Apartheid-Verwaltung im Jahr 1959.",
+                  "category": "museum",
+                  "coords": [
+                        17.063956,
+                        -22.580987
+                  ]
+            },
+            {
+                  "name": "Kaiser Wilhelm Berg",
+                  "text": "Von diesem erhöhten Aussichtspunkt können Besucher die expandierenden Geschäftsviertel der Hauptstadt überblicken, die sich zwischen die zentralen Khomas-Hochlandkämme schmiegen.",
+                  "category": "natural",
+                  "coords": [
+                        17.02652,
+                        -22.616631
+                  ]
+            },
+            {
+                  "name": "Space Theatre",
+                  "text": "Dieses Theater fungiert als kultureller Veranstaltungsort in Windhoek und bietet in seinem speziell gestalteten Auditorium lokale Theateraufführungen und Filmvorführungen an.",
+                  "category": "cultural",
+                  "coords": [
+                        17.057728,
+                        -22.610087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "iFun Family Park",
+                  "text": "A fővárosban található kereskedelmi vízipark színes csúszdák és medencék hálózatát kínálja, amelyet városi rekreációs menedékként terveztek családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        17.088385,
+                        -22.611698
+                  ]
+            },
+            {
+                  "name": "National Earth Science Museum",
+                  "text": "Ez a windhoeki tudományos múzeum kiterjedt geológiai gyűjteményeket mutat be, köztük lenyűgöző namíbiai meteoritokat, őslénytani kiállításokat és a bányászati ágazat számára létfontosságú ásványi mintákat.",
+                  "category": "museum",
+                  "coords": [
+                        17.083384,
+                        -22.60087
+                  ]
+            },
+            {
+                  "name": "Old Location",
+                  "text": "A Windhoek történelmének egyik tragikus fejezetét dokumentáló múzeum az őslakosok 1959-es, az apartheid adminisztráció általi kényszerkitelepítésének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        17.063956,
+                        -22.580987
+                  ]
+            },
+            {
+                  "name": "Kaiser Wilhelm Berg",
+                  "text": "Erről a magasan fekvő kilátópontról a látogatók végigtekinthetnek a főváros terjeszkedő kereskedelmi negyedein, amelyek a központi Khomas-felföld hegygerincei között bújnak meg.",
+                  "category": "natural",
+                  "coords": [
+                        17.02652,
+                        -22.616631
+                  ]
+            },
+            {
+                  "name": "Space Theatre",
+                  "text": "A Windhoek kulturális helyszíneként működő színház helyi drámai előadásoknak és filmvetítéseknek ad otthont egyedi kialakítású nézőterén.",
+                  "category": "cultural",
+                  "coords": [
+                        17.057728,
+                        -22.610087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "iFun Family Park",
+                  "text": "Situat în capitală, acest parc acvatic comercial oferă o rețea de tobogane colorate și piscine cu valuri concepute ca o evadare recreativă urbană pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        17.088385,
+                        -22.611698
+                  ]
+            },
+            {
+                  "name": "National Earth Science Museum",
+                  "text": "Acest muzeu științific din Windhoek prezintă colecții geologice extinse, inclusiv meteoriți namibieni impresionanți, exponate de paleontologie și exemplare de minerale vitale pentru sectorul minier.",
+                  "category": "museum",
+                  "coords": [
+                        17.083384,
+                        -22.60087
+                  ]
+            },
+            {
+                  "name": "Old Location",
+                  "text": "Documentând un capitol tragic din istoria orașului Windhoek, acest muzeu comemorează strămutarea forțată a rezidenților indigeni de către administrația apartheidului în 1959.",
+                  "category": "museum",
+                  "coords": [
+                        17.063956,
+                        -22.580987
+                  ]
+            },
+            {
+                  "name": "Kaiser Wilhelm Berg",
+                  "text": "Din acest punct de observație înalt, vizitatorii pot privi cartierele comerciale în expansiune ale capitalei cuibărite printre crestele centrale Khomas Highland.",
+                  "category": "natural",
+                  "coords": [
+                        17.02652,
+                        -22.616631
+                  ]
+            },
+            {
+                  "name": "Space Theatre",
+                  "text": "Funcționând ca o locație culturală în Windhoek, acest teatru găzduiește spectacole dramatice locale și proiecții de filme în amenajarea sa specializată a sălii.",
+                  "category": "cultural",
+                  "coords": [
+                        17.057728,
+                        -22.610087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "iFun Family Park",
+                  "text": "Located in the capital, this commercial water park offers a network of colorful slides and splash pools designed as an urban recreational escape for families.",
+                  "category": "recreational",
+                  "coords": [
+                        17.088385,
+                        -22.611698
+                  ]
+            },
+            {
+                  "name": "National Earth Science Museum",
+                  "text": "This scientific museum in Windhoek showcases extensive geological collections, including impressive Namibian meteorites, paleontology exhibits, and mineral specimens vital to the mining sector.",
+                  "category": "museum",
+                  "coords": [
+                        17.083384,
+                        -22.60087
+                  ]
+            },
+            {
+                  "name": "Old Location",
+                  "text": "Documenting a tragic chapter in Windhoek's history, this museum memorializes the forced removal of indigenous residents by the apartheid administration in 1959.",
+                  "category": "museum",
+                  "coords": [
+                        17.063956,
+                        -22.580987
+                  ]
+            },
+            {
+                  "name": "Kaiser Wilhelm Berg",
+                  "text": "From this elevated vantage point, visitors can overlook the expanding commercial districts of the capital nestled amongst the central Khomas Highland ridges.",
+                  "category": "natural",
+                  "coords": [
+                        17.02652,
+                        -22.616631
+                  ]
+            },
+            {
+                  "name": "Space Theatre",
+                  "text": "Operating as a cultural venue in Windhoek, this theatre hosts local dramatic performances and film screenings within its specialized auditorium layout.",
+                  "category": "cultural",
+                  "coords": [
+                        17.057728,
+                        -22.610087
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-KH",
     coords: [17.0833, -22.5833],
@@ -1192,7 +2317,88 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     
      image: "/poi-images/namdia-diamantenhandel-economic-v2.webp"},
   {
-    id: "dundee-precious-metals-tsumeb-economic-v2",
+    id: "dundee-precious-metals-tsumeb-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cultural Village",
+                  "text": "Das Cultural Village in Tsumeb ist ein Freilichtmuseum, das die traditionellen Behausungen und das Kunsthandwerk der verschiedenen ethnischen Gruppen Namibias zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706808,
+                        -19.263099
+                  ]
+            },
+            {
+                  "name": "Tsumeb Castel",
+                  "text": "Das Tsumeb Castel ist eine imposante Steinbefestigung, die historische Architektur mit der durch den Bergbau vorangetriebenen Entwicklung der Region Tsumeb verbindhe.",
+                  "category": "castle",
+                  "coords": [
+                        17.698453,
+                        -19.283206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cultural Village",
+                  "text": "A tsumebi kulturális falu egy szabadtéri múzeumként működik, amely Namíbia különböző etnikai csoportjainak hagyományos lakóhelyeit és kézműves mesterségeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706808,
+                        -19.263099
+                  ]
+            },
+            {
+                  "name": "Tsumeb Castel",
+                  "text": "A Tsumeb Castel egy impozáns kőerőd, amely a történelmi építészetet a Tsumeb régió bányászat által vezérelt fejlődésével ötvözi.",
+                  "category": "castle",
+                  "coords": [
+                        17.698453,
+                        -19.283206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cultural Village",
+                  "text": "Satul Cultural din Tsumeb acționează ca un muzeu în aer liber, demonstrând locuințele tradiționale și meșteșugurile diverselor grupuri etnice din Namibia.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706808,
+                        -19.263099
+                  ]
+            },
+            {
+                  "name": "Tsumeb Castel",
+                  "text": "Castelul Tsumeb este o fortificație de piatră impunătoare care îmbină arhitectura istorică cu dezvoltarea impulsionată de minerit a regiunii Tsumeb.",
+                  "category": "castle",
+                  "coords": [
+                        17.698453,
+                        -19.283206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cultural Village",
+                  "text": "The Cultural Village in Tsumeb acts as an open-air museum, demonstrating the traditional dwellings and crafts of Namibia's diverse ethnic groups.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706808,
+                        -19.263099
+                  ]
+            },
+            {
+                  "name": "Tsumeb Castel",
+                  "text": "Tsumeb Castel is an imposing stone fortification blending historical architecture with the mining-driven development of the Tsumeb region.",
+                  "category": "castle",
+                  "coords": [
+                        17.698453,
+                        -19.283206
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NA-OS",
     coords: [17.7, -19.2333],

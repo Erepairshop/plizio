@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraEgyptEconomicV2: POI[] = [
   {
-    id: "alexandria-port-economic-v2",
+    id: "alexandria-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ibn Khaldun Mosque",
+                  "text": "Eine Gemeindemoschee, die den Gläubigen in der Nähe der geschäftigen Wirtschaftszone des Hafens von Alexandria dient.",
+                  "category": "religious",
+                  "coords": [
+                        29.884851,
+                        31.195568
+                  ]
+            },
+            {
+                  "name": "Abu Ali Mosque",
+                  "text": "Diese historische Moschee, die auf das Jahr 1279 zurückgeht, ist ein mittelalterliches Architekturdenkmal in der Nähe des Hafens.",
+                  "category": "religious",
+                  "coords": [
+                        29.885986,
+                        31.194603
+                  ]
+            },
+            {
+                  "name": "Tabiyat al Salih",
+                  "text": "Eine befestigte Burgstruktur, die zur Küstenverteidigung in der Nähe der Wirtschaftszone des Hafens von Alexandria errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        29.866667,
+                        31.183333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ibn Khaldun Mosque",
+                  "text": "Alexandria nyüzsgő kikötői gazdasági övezete közelében a hívőket szolgáló közösségi mecset.",
+                  "category": "religious",
+                  "coords": [
+                        29.884851,
+                        31.195568
+                  ]
+            },
+            {
+                  "name": "Abu Ali Mosque",
+                  "text": "Ez az 1279-ből származó történelmi mecset középkori építészeti emlékként áll a kikötő közelében.",
+                  "category": "religious",
+                  "coords": [
+                        29.885986,
+                        31.194603
+                  ]
+            },
+            {
+                  "name": "Tabiyat al Salih",
+                  "text": "Megerősített kastélyépület, amelyet partvédelemre emeltek Alexandria kikötői gazdasági övezete közelében.",
+                  "category": "castle",
+                  "coords": [
+                        29.866667,
+                        31.183333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ibn Khaldun Mosque",
+                  "text": "O moschee comunitară care deservește credincioșii din apropierea zonei economice aglomerate a portului Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        29.884851,
+                        31.195568
+                  ]
+            },
+            {
+                  "name": "Abu Ali Mosque",
+                  "text": "Datând din 1279, această moschee istorică reprezintă un monument arhitectural medieval în apropierea portului.",
+                  "category": "religious",
+                  "coords": [
+                        29.885986,
+                        31.194603
+                  ]
+            },
+            {
+                  "name": "Tabiyat al Salih",
+                  "text": "O structură fortificată de castel, ridicată pentru apărarea coastei în apropierea zonei economice a portului Alexandria.",
+                  "category": "castle",
+                  "coords": [
+                        29.866667,
+                        31.183333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ibn Khaldun Mosque",
+                  "text": "A community mosque serving worshippers near the bustling Alexandria port economic zone.",
+                  "category": "religious",
+                  "coords": [
+                        29.884851,
+                        31.195568
+                  ]
+            },
+            {
+                  "name": "Abu Ali Mosque",
+                  "text": "Dating back to 1279, this historic mosque stands as a medieval architectural monument near the port.",
+                  "category": "religious",
+                  "coords": [
+                        29.885986,
+                        31.194603
+                  ]
+            },
+            {
+                  "name": "Tabiyat al Salih",
+                  "text": "A fortified castle structure erected for coastal defense near the Alexandria port economic zone.",
+                  "category": "castle",
+                  "coords": [
+                        29.866667,
+                        31.183333
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-ALX",
     coords: [29.8719, 31.1927],
@@ -926,7 +1043,88 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Inauguration du port moderne en 1986", "Situé à 8,5 km à l'ouest de l'embouchure du Nil à Damiette", "Héberge l'un des plus grands terminaux GNL au monde", "La profondeur d'eau dans le bassin atteint 15,5 mètres", "Premier port égyptien doté d'une porte à conteneurs automatisée", "Plaque tournante pour plus de 4 millions de tonnes de céréales par an"],
     }, image: "/poi-images/damietta-port-economic-v2.webp"},
   {
-    id: "safaga-port-economic-v2",
+    id: "safaga-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ENP",
+                  "text": "Das ENP ist ein Museum in der Hafenstadt Safaga.",
+                  "category": "museum",
+                  "coords": [
+                        33.940802,
+                        26.797537
+                  ]
+            },
+            {
+                  "name": "Utopia",
+                  "text": "Utopia ist ein Sandstrand an der Küste von Safaga.",
+                  "category": "recreational",
+                  "coords": [
+                        33.978404,
+                        26.816671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ENP",
+                  "text": "Az ENP egy múzeum a szafagai kikötővárosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.940802,
+                        26.797537
+                  ]
+            },
+            {
+                  "name": "Utopia",
+                  "text": "Az Utopia egy homokos tengerpart Szafaga partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.978404,
+                        26.816671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ENP",
+                  "text": "ENP este un muzeu situat în orașul portuar Safaga.",
+                  "category": "museum",
+                  "coords": [
+                        33.940802,
+                        26.797537
+                  ]
+            },
+            {
+                  "name": "Utopia",
+                  "text": "Utopia este o plajă cu nisip pe coasta din Safaga.",
+                  "category": "recreational",
+                  "coords": [
+                        33.978404,
+                        26.816671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ENP",
+                  "text": "The ENP is a museum located in the port city of Safaga.",
+                  "category": "museum",
+                  "coords": [
+                        33.940802,
+                        26.797537
+                  ]
+            },
+            {
+                  "name": "Utopia",
+                  "text": "Utopia is a sandy coastal beach in Safaga.",
+                  "category": "recreational",
+                  "coords": [
+                        33.978404,
+                        26.816671
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-BA",
     coords: [33.9389, 26.7469],
@@ -961,7 +1159,52 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Port stratégique sur la côte ouest de la mer Rouge", "Principal port d'exportation pour les minerais de phosphate égyptiens", "Port principal pour l'exportation d'aluminium de Nag Hammadi", "Plaque tournante centrale pour les pèlerinages à La Mecque", "Fait partie du projet de développement économique « Golden Triangle »", "Dispose d'une baie naturelle en eau profonde avec fonction de protection"],
     }, image: "/poi-images/safaga-port-economic-v2.webp"},
   {
-    id: "sokhna-port-economic-v2",
+    id: "sokhna-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teda Fun Valley",
+                  "text": "Ein lebhafter Themenpark, der verschiedene Fahrgeschäfte und Familienunterhaltung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.311689,
+                        29.67329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teda Fun Valley",
+                  "text": "Nyüzsgő vidámpark, amely különféle szórakoztató túrákat és családi programokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        32.311689,
+                        29.67329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teda Fun Valley",
+                  "text": "Un parc tematic plin de viață, care oferă diverse atracții de agrement și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        32.311689,
+                        29.67329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teda Fun Valley",
+                  "text": "A lively theme park offering various amusement rides and family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        32.311689,
+                        29.67329
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-SUZ",
     coords: [32.3387, 29.6265],
@@ -996,7 +1239,196 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Ouverture du port en 2002", "Situé sur le golfe de Suez, à 120 km à l'est du Caire", "Exploité par DP World, un opérateur mondial de terminaux", "Dispose d'un bassin en eau profonde de 17 mètres de profondeur", "Plaque tournante centrale de la zone économique du canal de Suez (SCZone)", "Site des futures installations de production d'hydrogène vert"],
     }, image: "/poi-images/sokhna-port-economic-v2.webp"},
   {
-    id: "helwan-iron-steel-economic-v2",
+    id: "helwan-iron-steel-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rokn Farouk",
+                  "text": "Ein Museum, das in der historischen ehemaligen Raststätte von König Farouk am Flussufer in Helwan untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        31.294831,
+                        29.847038
+                  ]
+            },
+            {
+                  "name": "Wax museum",
+                  "text": "Ein lokales Museum in Helwan, das lebensgroße historische Persönlichkeiten und Szenen zeigt, die sorgfältig aus Wachs gefertigt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        31.325708,
+                        29.860196
+                  ]
+            },
+            {
+                  "name": "Mohamed Fares",
+                  "text": "Ein malerischer Aussichtspunkt in der Gegend von Helwan, der einen erhöhten Panoramablick auf die umliegende Stadtlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.340682,
+                        29.843455
+                  ]
+            },
+            {
+                  "name": "Helwan Observatory Museum",
+                  "text": "Ein der Astronomie und Meteorologie gewidmetes wissenschaftliches Museum auf dem historischen Gelände des Helwan-Observatoriums.",
+                  "category": "museum",
+                  "coords": [
+                        31.342383,
+                        29.85875
+                  ]
+            },
+            {
+                  "name": "Ali Baba Theme Park",
+                  "text": "Ein lokaler Themenpark mit familienfreundlichen Fahrgeschäften und Freizeitattraktionen im Bezirk Helwan.",
+                  "category": "recreational",
+                  "coords": [
+                        31.34137,
+                        29.849312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rokn Farouk",
+                  "text": "A Helvánban található folyóparti egykori királyi pihenőház, Farúk király történelmi épülete, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        31.294831,
+                        29.847038
+                  ]
+            },
+            {
+                  "name": "Wax museum",
+                  "text": "Helyi múzeum Helvánban, amely aprólékosan kidolgozott, életnagyságú történelmi viaszfigurákat és jeleneteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        31.325708,
+                        29.860196
+                  ]
+            },
+            {
+                  "name": "Mohamed Fares",
+                  "text": "Festői kilátópont a helváni területen, ahonnan panorámás kilátás nyílik a környező városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        31.340682,
+                        29.843455
+                  ]
+            },
+            {
+                  "name": "Helwan Observatory Museum",
+                  "text": "A csillagászatnak és meteorológiának szentelt tudományos múzeum, amely a történelmi helváni csillagvizsgáló komplexumban található.",
+                  "category": "museum",
+                  "coords": [
+                        31.342383,
+                        29.85875
+                  ]
+            },
+            {
+                  "name": "Ali Baba Theme Park",
+                  "text": "Egy helyi vidámpark, amely családbarát hullámvasutakat és szabadidős látványosságokat kínál a helváni kerületben.",
+                  "category": "recreational",
+                  "coords": [
+                        31.34137,
+                        29.849312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rokn Farouk",
+                  "text": "Un muzeu găzduit în fosta casă de odihnă istorică de pe malul râului a regelui Farouk din Helwan.",
+                  "category": "museum",
+                  "coords": [
+                        31.294831,
+                        29.847038
+                  ]
+            },
+            {
+                  "name": "Wax museum",
+                  "text": "Un muzeu local din Helwan care expune figuri și scene istorice în mărime naturală, realizate cu meticulozitate din ceară.",
+                  "category": "museum",
+                  "coords": [
+                        31.325708,
+                        29.860196
+                  ]
+            },
+            {
+                  "name": "Mohamed Fares",
+                  "text": "Un punct de observație pitoresc în zona Helwan, oferind vederi panoramice elevate ale peisajului urban înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        31.340682,
+                        29.843455
+                  ]
+            },
+            {
+                  "name": "Helwan Observatory Museum",
+                  "text": "Un muzeu științific dedicat astronomiei și meteorologiei, situat la complexul istoric al Observatorului Helwan.",
+                  "category": "museum",
+                  "coords": [
+                        31.342383,
+                        29.85875
+                  ]
+            },
+            {
+                  "name": "Ali Baba Theme Park",
+                  "text": "Un parc tematic local care oferă atracții de agrement și atracții recreative pentru familii în cartierul Helwan.",
+                  "category": "recreational",
+                  "coords": [
+                        31.34137,
+                        29.849312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rokn Farouk",
+                  "text": "A museum housed in the historic former riverside rest house of King Farouk in Helwan.",
+                  "category": "museum",
+                  "coords": [
+                        31.294831,
+                        29.847038
+                  ]
+            },
+            {
+                  "name": "Wax museum",
+                  "text": "A local museum in Helwan displaying life-sized historical figures and scenes meticulously crafted in wax.",
+                  "category": "museum",
+                  "coords": [
+                        31.325708,
+                        29.860196
+                  ]
+            },
+            {
+                  "name": "Mohamed Fares",
+                  "text": "A scenic viewpoint in the Helwan area providing elevated panoramic sights of the surrounding urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        31.340682,
+                        29.843455
+                  ]
+            },
+            {
+                  "name": "Helwan Observatory Museum",
+                  "text": "A scientific museum dedicated to astronomy and meteorology located at the historic Helwan Observatory complex.",
+                  "category": "museum",
+                  "coords": [
+                        31.342383,
+                        29.85875
+                  ]
+            },
+            {
+                  "name": "Ali Baba Theme Park",
+                  "text": "A local theme park offering family-friendly rides and recreational attractions in the Helwan district.",
+                  "category": "recreational",
+                  "coords": [
+                        31.34137,
+                        29.849312
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EG-C",
     coords: [31.3323, 29.8394],
@@ -1101,7 +1533,88 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Première mine d'or moderne d'Égypte à l'échelle industrielle", "Située dans le désert oriental près de Marsa Alam", "La première coulée d'or a eu lieu en 2009", "Exploitée en coentreprise avec la société Centamin", "Réserves d'or estimées à plus de 12 millions d'onces", "Combine exploitation à ciel ouvert et mine souterraine"],
     }, image: "/poi-images/sukari-gold-mine-economic-v2.webp"},
   {
-    id: "alexandria-petroleum-economic-v2",
+    id: "alexandria-petroleum-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tabiyat Bab al Arab",
+                  "text": "Tabiyat Bab al Arab ist ein altes Verteidigungsfort, das historisch die westlichen Zugänge zur Stadt bewachte.",
+                  "category": "castle",
+                  "coords": [
+                        29.850171,
+                        31.149364
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "Die alte Bastion ist eine historische Küstenburg mit robusten Steinmauern, die zur maritimen Verteidigung errichtet wurden.",
+                  "category": "castle",
+                  "coords": [
+                        29.863452,
+                        31.161209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tabiyat Bab al Arab",
+                  "text": "A Tabiyat Bab al Arab egy régi védelmi erőd, amely történelmileg a város nyugati megközelítését őrizte.",
+                  "category": "castle",
+                  "coords": [
+                        29.850171,
+                        31.149364
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "Az Öreg bástya egy történelmi tengerparti vár, amely a tengeri védelemre épített robusztus kőfalakkal rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        29.863452,
+                        31.161209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tabiyat Bab al Arab",
+                  "text": "Tabiyat Bab al Arab este un vechi fort defensiv care a păzit istoric abordările vestice ale orașului.",
+                  "category": "castle",
+                  "coords": [
+                        29.850171,
+                        31.149364
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "Vechiul Bastion este un castel de coastă istoric, cu ziduri robuste de piatră construite pentru apărarea maritimă.",
+                  "category": "castle",
+                  "coords": [
+                        29.863452,
+                        31.161209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tabiyat Bab al Arab",
+                  "text": "Tabiyat Bab al Arab is an old defensive fort historically guarding the western approaches to the city.",
+                  "category": "castle",
+                  "coords": [
+                        29.850171,
+                        31.149364
+                  ]
+            },
+            {
+                  "name": "Old Bastion",
+                  "text": "The Old Bastion is a historic coastal castle featuring robust stone walls built for maritime defense.",
+                  "category": "castle",
+                  "coords": [
+                        29.863452,
+                        31.161209
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EG-ALX",
     coords: [29.8926, 31.1578],
@@ -1136,7 +1649,124 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Siège de l'Alexandria Petroleum Company (APC) dans le quartier d'El-Max.", "Réorganisation majeure de l'entreprise en 1954.", "Transforme le pétrole brut en essence, diesel et lubrifiants.", "Situation stratégique à proximité du plus grand port maritime d'Égypte.", "Approvisionnement du marché égyptien en matières premières industrielles.", "Investissements massifs dans la protection de l'environnement et l'épuration des eaux."],
     }, image: "/poi-images/alexandria-petroleum-economic-v2.webp"},
   {
-    id: "abu-qir-fertilizer-economic-v2",
+    id: "abu-qir-fertilizer-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tabyet al Taufiqiya",
+                  "text": "Tabyet al Taufiqiya ist eine historische militärische Befestigungsanlage aus Stein, die zur Verteidigung des umliegenden Küstengebietes errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        30.050142,
+                        31.314466
+                  ]
+            },
+            {
+                  "name": "Tabyet al Burg",
+                  "text": "Diese Küstenfestung aus Stein befindet sich in der Region Abu Qir und überblickt das Mittelmeer.",
+                  "category": "fortress",
+                  "coords": [
+                        30.064326,
+                        31.3246
+                  ]
+            },
+            {
+                  "name": "Heraklion",
+                  "text": "Diese antike ägyptische Hafenstadt liegt heute unter den Gewässern des Mittelmeers verborgen.",
+                  "category": "historical",
+                  "coords": [
+                        30.120813,
+                        31.302979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tabyet al Taufiqiya",
+                  "text": "A Tabyet al Taufiqiya egy történelmi, kőből épült katonai erődítmény, amelyet a környező partvidék védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        30.050142,
+                        31.314466
+                  ]
+            },
+            {
+                  "name": "Tabyet al Burg",
+                  "text": "Ez a tengerparti kőerőd Abu Qir régiójában található, kilátással a Földközi-tengerre.",
+                  "category": "fortress",
+                  "coords": [
+                        30.064326,
+                        31.3246
+                  ]
+            },
+            {
+                  "name": "Heraklion",
+                  "text": "Ez az ókori egyiptomi kikötőváros ma a Földközi-tenger vize alatt fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        30.120813,
+                        31.302979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tabyet al Taufiqiya",
+                  "text": "Tabyet al Taufiqiya este o fortificație militară istorică din piatră construită pentru a apăra zona de coastă înconjurătoare.",
+                  "category": "fortress",
+                  "coords": [
+                        30.050142,
+                        31.314466
+                  ]
+            },
+            {
+                  "name": "Tabyet al Burg",
+                  "text": "Acest fort de coastă din piatră este situat în regiunea Abu Qir, având vedere la Marea Mediterană.",
+                  "category": "fortress",
+                  "coords": [
+                        30.064326,
+                        31.3246
+                  ]
+            },
+            {
+                  "name": "Heraklion",
+                  "text": "Acest oraș portuar antic egiptean se află acum scufundat sub apele Mării Mediterane.",
+                  "category": "historical",
+                  "coords": [
+                        30.120813,
+                        31.302979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tabyet al Taufiqiya",
+                  "text": "Tabyet al Taufiqiya is a historical stone military fortification built to defend the surrounding coastal area.",
+                  "category": "fortress",
+                  "coords": [
+                        30.050142,
+                        31.314466
+                  ]
+            },
+            {
+                  "name": "Tabyet al Burg",
+                  "text": "This coastal stone fort is located in the Abu Qir region, overlooking the Mediterranean Sea.",
+                  "category": "fortress",
+                  "coords": [
+                        30.064326,
+                        31.3246
+                  ]
+            },
+            {
+                  "name": "Heraklion",
+                  "text": "This ancient Egyptian port city now lies submerged beneath the waters of the Mediterranean Sea.",
+                  "category": "historical",
+                  "coords": [
+                        30.120813,
+                        31.302979
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EG-ALX",
     coords: [30.0638, 31.3167],
@@ -1171,7 +1801,88 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Fondation de l'Abu Qir Fertilizers Company en 1976.", "Plus grand producteur d'engrais azotés d'Égypte.", "Se compose de trois grandes unités de production (Abou Qir I-III).", "Utilise le gaz naturel comme matière première principale pour la synthèse de l'ammoniac.", "Couvre plus de 50 % des besoins nationaux en engrais.", "Acteur clé du secteur des exportations agricoles égyptiennes."],
     }, image: "/poi-images/abu-qir-fertilizer-economic-v2.webp"},
   {
-    id: "borg-el-arab-industrial-economic-v2",
+    id: "borg-el-arab-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Mena UNESCO World Heritage Site",
+                  "text": "Diese antike Kirchenruine ist Teil des frühchristlichen Pilgerkomplexes in Abu Mena.",
+                  "category": "historical",
+                  "coords": [
+                        29.663376,
+                        30.841069
+                  ]
+            },
+            {
+                  "name": "Abu Mena",
+                  "text": "Abu Mena ist eine archäologische Welterbestätte, in der die Überreste eines bedeutenden frühchristlichen Pilgerzentrums erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        29.669811,
+                        30.842028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Mena UNESCO World Heritage Site",
+                  "text": "Ez az ókori templomrom az Abu Mena-i ókeresztény zarándokközpont része.",
+                  "category": "historical",
+                  "coords": [
+                        29.663376,
+                        30.841069
+                  ]
+            },
+            {
+                  "name": "Abu Mena",
+                  "text": "Abu Mena egy világörökségi régészeti lelőhely, amely egy jelentős ókeresztény zarándokközpont maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        29.669811,
+                        30.842028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Mena UNESCO World Heritage Site",
+                  "text": "Această ruină a unei biserici antice face parte din complexul de pelerinaj creștin timpuriu de la Abu Mena.",
+                  "category": "historical",
+                  "coords": [
+                        29.663376,
+                        30.841069
+                  ]
+            },
+            {
+                  "name": "Abu Mena",
+                  "text": "Abu Mena este un sit arheologic din Patrimoniul Mondial care păstrează rămășițele unui important centru de pelerinaj creștin timpuriu.",
+                  "category": "historical",
+                  "coords": [
+                        29.669811,
+                        30.842028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church",
+                  "text": "This ancient church ruin is part of the early Christian pilgrimage complex at Abu Mena.",
+                  "category": "historical",
+                  "coords": [
+                        29.663376,
+                        30.841069
+                  ]
+            },
+            {
+                  "name": "Abu Mena",
+                  "text": "Abu Mena is a World Heritage archaeological site preserving the remains of a significant early Christian pilgrimage centre.",
+                  "category": "historical",
+                  "coords": [
+                        29.669811,
+                        30.842028
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EG-ALX",
     coords: [29.575, 30.8753],
@@ -1381,7 +2092,160 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Le terminal dispose de deux trains de liquéfaction de 3,6 millions de tonnes de capacité chacun", "Au total, jusqu'à 7,2 millions de tonnes de GNL peuvent être exportées chaque année", "Le projet est exploité par des partenaires tels que Shell, Petronas et EGAS", "La mise en service du premier train a eu lieu en mai 2005", "Idku possède deux réservoirs de stockage de GNL d'une capacité de 140 000 m³ chacun", "L'appontement peut accueillir des méthaniers d'une capacité allant jusqu'à 160 000 m³"],
     }, image: "/poi-images/idku-lng-terminal-economic-v2.webp"},
   {
-    id: "el-dakheila-port-economic-v2",
+    id: "el-dakheila-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Tahtaniya Fort",
+                  "text": "Das Fort Al Tahtaniya ist eine historische Küstenbefestigung zum Schutz des Hafengebietes.",
+                  "category": "castle",
+                  "coords": [
+                        29.841111,
+                        31.151944
+                  ]
+            },
+            {
+                  "name": "Palm",
+                  "text": "Diese lokale Küstenattraktion verfügt über einen markanten palmengesäumten Bereich in Meeresnähe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.73708,
+                        31.080709
+                  ]
+            },
+            {
+                  "name": "Fort Abbassia",
+                  "text": "Das Fort Abbassia ist eine militärische Burgruine, die als Zeugnis der historischen Küstenverteidigung der Region dient.",
+                  "category": "castle",
+                  "coords": [
+                        29.78496,
+                        31.146455
+                  ]
+            },
+            {
+                  "name": "Tabyet Agami al Qibliya",
+                  "text": "Tabyet Agami al Qibliya ist eine südliche Verteidigungsburg entlang der Mittelmeerküste.",
+                  "category": "castle",
+                  "coords": [
+                        29.783858,
+                        31.145772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Tahtaniya Fort",
+                  "text": "Az Al Tahtaniya erőd egy történelmi part menti erődítmény, amelyet a kikötő területének védelmére terveztek.",
+                  "category": "castle",
+                  "coords": [
+                        29.841111,
+                        31.151944
+                  ]
+            },
+            {
+                  "name": "Palm",
+                  "text": "Ez a helyi tengerparti látványosság egy kiemelkedő, pálmafákkal szegélyezett terület a tenger közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.73708,
+                        31.080709
+                  ]
+            },
+            {
+                  "name": "Fort Abbassia",
+                  "text": "Az Abbassia erőd egy katonai várrom, amely a régió történelmi partvédelmének állít emléket.",
+                  "category": "castle",
+                  "coords": [
+                        29.78496,
+                        31.146455
+                  ]
+            },
+            {
+                  "name": "Tabyet Agami al Qibliya",
+                  "text": "A Tabyet Agami al Qibliya egy déli védelmi vár a Földközi-tenger partvonala mentén.",
+                  "category": "castle",
+                  "coords": [
+                        29.783858,
+                        31.145772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Tahtaniya Fort",
+                  "text": "Fortul Al Tahtaniya este o fortificație de coastă istorică concepută pentru a proteja zona portuară.",
+                  "category": "castle",
+                  "coords": [
+                        29.841111,
+                        31.151944
+                  ]
+            },
+            {
+                  "name": "Palm",
+                  "text": "Această atracție de coastă locală prezintă o zonă proeminentă mărginită de palmieri, aproape de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        29.73708,
+                        31.080709
+                  ]
+            },
+            {
+                  "name": "Fort Abbassia",
+                  "text": "Fortul Abbassia este o ruină de castel militar care stă ca o mărturie a apărării de coastă istorice a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        29.78496,
+                        31.146455
+                  ]
+            },
+            {
+                  "name": "Tabyet Agami al Qibliya",
+                  "text": "Tabyet Agami al Qibliya este un castel defensiv sudic poziționat de-a lungul coastei mediteraneene.",
+                  "category": "castle",
+                  "coords": [
+                        29.783858,
+                        31.145772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Tahtaniya Fort",
+                  "text": "Al Tahtaniya Fort is a historic coastal fortification designed to protect the port area.",
+                  "category": "castle",
+                  "coords": [
+                        29.841111,
+                        31.151944
+                  ]
+            },
+            {
+                  "name": "Palm",
+                  "text": "This local coastal attraction features a prominent palm-fringed area near the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        29.73708,
+                        31.080709
+                  ]
+            },
+            {
+                  "name": "Fort Abbassia",
+                  "text": "Fort Abbassia is a military castle ruin standing as a testament to the region's historical coastal defenses.",
+                  "category": "castle",
+                  "coords": [
+                        29.78496,
+                        31.146455
+                  ]
+            },
+            {
+                  "name": "Tabyet Agami al Qibliya",
+                  "text": "Tabyet Agami al Qibliya is a southern defensive castle positioned along the Mediterranean coastline.",
+                  "category": "castle",
+                  "coords": [
+                        29.783858,
+                        31.145772
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-ALX",
     coords: [29.8058, 31.1397],
@@ -1451,7 +2315,232 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["La ville a été fondée en 1977 par un décret du président Anouar el-Sadate.", "Elle couvre une superficie totale d'environ 390 kilomètres carrés.", "Abrite plus de 2 500 usines enregistrées de différentes tailles.", "La population de la ville est estimée à plus de 600 000 habitants.", "Idéalement située sur l'autoroute Le Caire-Ismaïlia.", "Dispose de sa propre université et d'instituts techniques spécialisés."],
     }, image: "/poi-images/10th-of-ramadan-industrial-economic-v2.webp"},
   {
-    id: "6th-of-october-industrial-economic-v2",
+    id: "6th-of-october-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magic Land",
+                  "text": "Eine lokale Vergnügungsattraktion mit Freizeitangeboten in der Stadt des 6. Oktober.",
+                  "category": "landmark",
+                  "coords": [
+                        31.024284,
+                        29.961798
+                  ]
+            },
+            {
+                  "name": "MUST Opera House",
+                  "text": "Ein markantes Theater und kultureller Veranstaltungsort in der Stadt des 6. Oktober.",
+                  "category": "cultural",
+                  "coords": [
+                        30.965283,
+                        29.996613
+                  ]
+            },
+            {
+                  "name": "CAF statue",
+                  "text": "Ein markantes öffentliches Denkmal zu Ehren der Confédération Africaine de Football in der Stadt des 6. Oktober.",
+                  "category": "landmark",
+                  "coords": [
+                        30.962565,
+                        29.995554
+                  ]
+            },
+            {
+                  "name": "The Statue",
+                  "text": "Eine öffentliche Skulptur, die als visuelles Wahrzeichen und lokale Attraktion in der Stadt des 6. Oktober dient.",
+                  "category": "landmark",
+                  "coords": [
+                        30.959821,
+                        29.994376
+                  ]
+            },
+            {
+                  "name": "The Roller Fountain",
+                  "text": "Eine öffentliche Wasserspiel-Attraktion, die einen zentralen Punkt in der Stadt des 6. Oktober bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973493,
+                        30.00626
+                  ]
+            },
+            {
+                  "name": "6 October Cultural Palace",
+                  "text": "Ein bedeutendes Kulturzentrum, in dem lokale Kunst, Ausstellungen und Gemeinschaftsveranstaltungen in der Stadt des 6. Oktober stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        30.939977,
+                        29.980509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magic Land",
+                  "text": "Helyi szórakoztató látványosság, amely szabadidős tevékenységeket kínál Október 6. városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.024284,
+                        29.961798
+                  ]
+            },
+            {
+                  "name": "MUST Opera House",
+                  "text": "Egy kiemelkedő színház és kulturális előadóhely Október 6. városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.965283,
+                        29.996613
+                  ]
+            },
+            {
+                  "name": "CAF statue",
+                  "text": "Az Afrikai Labdarúgó-szövetséget ünneplő kiemelkedő köztéri emlékmű Október 6. városában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.962565,
+                        29.995554
+                  ]
+            },
+            {
+                  "name": "The Statue",
+                  "text": "Egy köztéri szobor, amely vizuális tájékozódási pontként és helyi látványosságként szolgál Október 6. városában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.959821,
+                        29.994376
+                  ]
+            },
+            {
+                  "name": "The Roller Fountain",
+                  "text": "Egy köztéri szökőkút, amely központi látványosságot nyújt Október 6. városában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973493,
+                        30.00626
+                  ]
+            },
+            {
+                  "name": "6 October Cultural Palace",
+                  "text": "Kiemelkedő kulturális központ Október 6. városában, amely helyi művészeti kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        30.939977,
+                        29.980509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magic Land",
+                  "text": "O atracție locală de divertisment care oferă activități recreative în Orașul 6 Octombrie.",
+                  "category": "landmark",
+                  "coords": [
+                        31.024284,
+                        29.961798
+                  ]
+            },
+            {
+                  "name": "MUST Opera House",
+                  "text": "Un teatru proeminent și un loc de spectacole culturale situat în Orașul 6 Octombrie.",
+                  "category": "cultural",
+                  "coords": [
+                        30.965283,
+                        29.996613
+                  ]
+            },
+            {
+                  "name": "CAF statue",
+                  "text": "Un monument public proeminent care celebrează Confederația Africană de Fotbal în Orașul 6 Octombrie.",
+                  "category": "landmark",
+                  "coords": [
+                        30.962565,
+                        29.995554
+                  ]
+            },
+            {
+                  "name": "The Statue",
+                  "text": "O sculptură publică care servește ca punct de reper vizual și atracție locală în Orașul 6 Octombrie.",
+                  "category": "landmark",
+                  "coords": [
+                        30.959821,
+                        29.994376
+                  ]
+            },
+            {
+                  "name": "The Roller Fountain",
+                  "text": "O atracție publică cu fântână arteziană, oferind un punct de atracție în Orașul 6 Octombrie.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973493,
+                        30.00626
+                  ]
+            },
+            {
+                  "name": "6 October Cultural Palace",
+                  "text": "Un centru cultural proeminent care găzduiește arte locale, expoziții și evenimente comunitare în Orașul 6 Octombrie.",
+                  "category": "landmark",
+                  "coords": [
+                        30.939977,
+                        29.980509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magic Land",
+                  "text": "A local amusement attraction offering recreational activities in 6th of October City.",
+                  "category": "landmark",
+                  "coords": [
+                        31.024284,
+                        29.961798
+                  ]
+            },
+            {
+                  "name": "MUST Opera House",
+                  "text": "A prominent theatre and cultural performance venue situated within the 6th of October City.",
+                  "category": "cultural",
+                  "coords": [
+                        30.965283,
+                        29.996613
+                  ]
+            },
+            {
+                  "name": "CAF statue",
+                  "text": "A prominent public monument celebrating the Confederation of African Football in 6th of October City.",
+                  "category": "landmark",
+                  "coords": [
+                        30.962565,
+                        29.995554
+                  ]
+            },
+            {
+                  "name": "The Statue",
+                  "text": "A public sculpture serving as a visual landmark and local attraction in 6th of October City.",
+                  "category": "landmark",
+                  "coords": [
+                        30.959821,
+                        29.994376
+                  ]
+            },
+            {
+                  "name": "The Roller Fountain",
+                  "text": "A public water feature attraction providing a focal point in 6th of October City.",
+                  "category": "landmark",
+                  "coords": [
+                        30.973493,
+                        30.00626
+                  ]
+            },
+            {
+                  "name": "6 October Cultural Palace",
+                  "text": "A prominent cultural center hosting local arts, exhibitions, and community events in 6th of October City.",
+                  "category": "landmark",
+                  "coords": [
+                        30.939977,
+                        29.980509
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EG-GZ",
     coords: [30.936, 29.932],
@@ -1521,7 +2610,700 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Le port est situé à environ 70 kilomètres au sud de Taba, sur le golfe d'Aqaba", "A été officiellement ouvert en 1985 pour renforcer la liaison avec la Jordanie", "Sert de base principale à l'Arab Bridge Maritime Company", "Le port comprend un terminal pour les passagers et un pour les camions", "Possède un quai d'une longueur d'environ 150 mètres", "Est un point de transit majeur pour les camions venant de toute l'Égypte"],
     }, image: "/poi-images/nuweiba-port-economic-v2.webp"},
   {
-    id: "hurghada-port-economic-v2",
+    id: "hurghada-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shiri Tourist Walk",
+                  "text": "Der Shiri Tourist Walk ist eine belebte Fußgängerpromenade mit zahlreichen Geschäften und Cafés, die einen freien Blick auf das Stadtbild bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.83763,
+                        27.220181
+                  ]
+            },
+            {
+                  "name": "Scandic resort",
+                  "text": "Ein Strandresort am Roten Meer, das Unterkünfte und Freizeiteinrichtungen an der Küste von Hurghada bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843268,
+                        27.243244
+                  ]
+            },
+            {
+                  "name": "Cinema",
+                  "text": "Ein lokales Kino, das Filmvorführungen und Indoor-Unterhaltung im Herzen von Hurghada bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "The View",
+                  "text": "Ein malerischer Strand am Roten Meer, bekannt für sein klares Wasser und die weiten Küstenpanoramen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.849349,
+                        27.204879
+                  ]
+            },
+            {
+                  "name": "New Ramoza Beach",
+                  "text": "Ein Sandstrand am Roten Meer in Hurghada, der zum Schwimmen und Sonnenbaden unter der ägyptischen Sonne einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843002,
+                        27.211664
+                  ]
+            },
+            {
+                  "name": "Arabella Azur Theatre",
+                  "text": "Ein Open-Air-Unterhaltungsort im Resort, der lebhafte Abendshows für Gäste in Hurghada veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        33.847113,
+                        27.239467
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "Ein familienfreundlicher Küstenabschnitt am Roten Meer, der sichere Schwimmbereiche in Hurghada bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840532,
+                        27.248388
+                  ]
+            },
+            {
+                  "name": "Zahabia Beach",
+                  "text": "Ein entspannender Küstenort mit herrlichem Blick auf das Rote Meer und einfachem Zugang zum Schwimmen in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846169,
+                        27.245218
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Ein markanter, goldener Sandstrand an der idyllischen Küste des Roten Meeres.",
+                  "category": "recreational",
+                  "coords": [
+                        33.844586,
+                        27.244873
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "Ein Aquarium, das das pulsierende Meeresleben und die vielfältigen Korallenriffarten des Roten Meeres zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819122,
+                        27.261641
+                  ]
+            },
+            {
+                  "name": "Sea Shell Beach",
+                  "text": "Ein Badeortkomplex an der Küste des Roten Meeres mit direktem Zugang zum Sandstrand und Sonnenliegen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.851537,
+                        27.200849
+                  ]
+            },
+            {
+                  "name": "Blue Beach Club",
+                  "text": "Ein lebhafter Strandclub an der Küste von Hurghada mit Bademöglichkeiten im Roten Meer und energiegeladenen Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841666,
+                        27.223285
+                  ]
+            },
+            {
+                  "name": "Fairouz Beach",
+                  "text": "Ein entspannender Küstenstreifen, der Besuchern direkten Zugang zum klaren Wasser des Roten Meeres bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84144,
+                        27.217843
+                  ]
+            },
+            {
+                  "name": "Public Beach No. 3",
+                  "text": "Ein öffentlicher Sandstrand, der Einheimischen und Touristen freien Zugang zu den warmen Wellen des Roten Meeres bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84207,
+                        27.213426
+                  ]
+            },
+            {
+                  "name": "El Sakia Beach",
+                  "text": "Ein zentral gelegener Strand in Hurghada, der einen sandigen Rückzugsort direkt an den sanften Wellen des Roten Meeres bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841983,
+                        27.221759
+                  ]
+            },
+            {
+                  "name": "Star Fish",
+                  "text": "Ein markantes Denkmal in Hurghada, das das maritime Erbe und das Meeresleben der Stadt am Roten Meer feiert.",
+                  "category": "historical",
+                  "coords": [
+                        33.83904,
+                        27.228709
+                  ]
+            },
+            {
+                  "name": "Sheraton Beach",
+                  "text": "Ein bekannter Strandabschnitt am Roten Meer, der malerische Küstenentspannung und Resort-Annehmlichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.850309,
+                        27.199169
+                  ]
+            },
+            {
+                  "name": "Sun & Sea Beach",
+                  "text": "Ein sonniger Küstenstreifen am Roten Meer, der speziell für Entspannung und Schwimmen am Meer konzipiert wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        33.845467,
+                        27.209902
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "Ein entspanntes Strandcamp in Hurghada, das einfache Entspannung direkt am Roten Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824393,
+                        27.259188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shiri Tourist Walk",
+                  "text": "A Shiri Tourist Walk egy nyüzsgő, üzletekkel és kávézókkal szegélyezett sétálóutca, ahonnan zavartalan kilátás nyílik a városképre.",
+                  "category": "natural",
+                  "coords": [
+                        33.83763,
+                        27.220181
+                  ]
+            },
+            {
+                  "name": "Scandic resort",
+                  "text": "Egy Vörös-tengeri tengerparti üdülőhely, amely tengerparti szállást és szabadidős létesítményeket kínál Gurdaka városában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843268,
+                        27.243244
+                  ]
+            },
+            {
+                  "name": "Cinema",
+                  "text": "Egy helyi mozi, amely filmvetítéseket és beltéri szórakozást kínál Gurdaka szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "The View",
+                  "text": "Festői Vörös-tengeri strand, amely tiszta vizéről és lenyűgöző tengerparti panorámájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        33.849349,
+                        27.204879
+                  ]
+            },
+            {
+                  "name": "New Ramoza Beach",
+                  "text": "Homokos Vörös-tengeri partszakasz Gurdakában, amely fürdőzést és napozást kínál az egyiptomi napsütésben.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843002,
+                        27.211664
+                  ]
+            },
+            {
+                  "name": "Arabella Azur Theatre",
+                  "text": "Egy szabadtéri üdülőhelyi szórakozóhely, amely élénk esti műsoroknak ad otthont a gurdakai vendégek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        33.847113,
+                        27.239467
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "Egy családbarát, homokos Vörös-tengeri partszakasz, amely biztonságos fürdőhelyeket kínál Gurdakában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840532,
+                        27.248388
+                  ]
+            },
+            {
+                  "name": "Zahabia Beach",
+                  "text": "Egy pihentető tengerparti hely, ahonnan lenyűgöző kilátás nyílik a Vörös-tengerre, és könnyű úszási lehetőséget biztosít Gurdakában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846169,
+                        27.245218
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Látványos, aranyhomokos partszakasz az idilli Vörös-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        33.844586,
+                        27.244873
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "Egy akvárium, amely a Vörös-tenger nyüzsgő tengeri élővilágát és változatos korallzátony-fajait mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819122,
+                        27.261641
+                  ]
+            },
+            {
+                  "name": "Sea Shell Beach",
+                  "text": "Tengerparti üdülőkomplexum a Vörös-tenger partján, amely közvetlen hozzáférést biztosít a homokos strandhoz és a napozóágyakhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        33.851537,
+                        27.200849
+                  ]
+            },
+            {
+                  "name": "Blue Beach Club",
+                  "text": "Egy nyüzsgő strandklub Gurdaka partján, amely Vörös-tengeri fürdőzést és energikus szabadidős létesítményeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841666,
+                        27.223285
+                  ]
+            },
+            {
+                  "name": "Fairouz Beach",
+                  "text": "Pihentető tengerparti sáv, amely közvetlen hozzáférést biztosít a látogatóknak a Vörös-tenger tiszta vizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84144,
+                        27.217843
+                  ]
+            },
+            {
+                  "name": "Public Beach No. 3",
+                  "text": "Egy nyilvános homokos part, amely nyílt hozzáférést biztosít a helyieknek és a turistáknak a Vörös-tenger meleg hullámaihoz.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84207,
+                        27.213426
+                  ]
+            },
+            {
+                  "name": "El Sakia Beach",
+                  "text": "Egy központi elhelyezkedésű gurdakai strand, amely homokos menedéket kínál közvetlenül a Vörös-tenger szelíd hullámai mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841983,
+                        27.221759
+                  ]
+            },
+            {
+                  "name": "Star Fish",
+                  "text": "Különleges emlékmű Gurdakában, amely a város Vörös-tengeri tengerészeti örökségét és tengeri élővilágát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        33.83904,
+                        27.228709
+                  ]
+            },
+            {
+                  "name": "Sheraton Beach",
+                  "text": "A Vörös-tenger partjának egy jól ismert szakasza, amely festői tengerparti pihenést és üdülési kényelmet biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        33.850309,
+                        27.199169
+                  ]
+            },
+            {
+                  "name": "Sun & Sea Beach",
+                  "text": "Napfényes tengerparti sáv a Vörös-tengeren, amelyet kifejezetten tengerparti pihenésre és úszásra terveztek.",
+                  "category": "recreational",
+                  "coords": [
+                        33.845467,
+                        27.209902
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "Egy laza tengerparti tábor Gurdakában, amely egyszerű tengerparti pihenést kínál közvetlenül a Vörös-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824393,
+                        27.259188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shiri Tourist Walk",
+                  "text": "Shiri Tourist Walk este o promenadă pietonală plină de viață, străjuită de magazine și cafenele, care oferă vederi clare asupra peisajului urban local.",
+                  "category": "natural",
+                  "coords": [
+                        33.83763,
+                        27.220181
+                  ]
+            },
+            {
+                  "name": "Scandic resort",
+                  "text": "O stațiune pe plaja Mării Roșii, oferind cazare pe litoral și facilități de agrement în Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843268,
+                        27.243244
+                  ]
+            },
+            {
+                  "name": "Cinema",
+                  "text": "Un cinematograf local care oferă proiecții de filme și divertisment de interior în inima orașului Hurghada.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "The View",
+                  "text": "Un loc pitoresc pe plaja Mării Roșii, cunoscut pentru apele sale limpezi și panoramele largi de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        33.849349,
+                        27.204879
+                  ]
+            },
+            {
+                  "name": "New Ramoza Beach",
+                  "text": "O plajă de nisip la Marea Roșie în Hurghada, oferind înot și plajă sub soarele egiptean.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843002,
+                        27.211664
+                  ]
+            },
+            {
+                  "name": "Arabella Azur Theatre",
+                  "text": "Un loc de divertisment în aer liber din stațiune, care găzduiește spectacole de seară vibrante pentru oaspeții din Hurghada.",
+                  "category": "cultural",
+                  "coords": [
+                        33.847113,
+                        27.239467
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "O porțiune de coastă nisipoasă a Mării Roșii pentru familii, oferind zone sigure de înot în Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840532,
+                        27.248388
+                  ]
+            },
+            {
+                  "name": "Zahabia Beach",
+                  "text": "Un loc de coastă relaxant, cu vederi uimitoare la Marea Roșie și acces ușor pentru înot în Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846169,
+                        27.245218
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "O plajă izbitoare cu nisip auriu, situată de-a lungul coastei idilice a Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        33.844586,
+                        27.244873
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "Un acvariu care prezintă viața marină vibrantă și diversele specii de recife de corali din Marea Roșie.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819122,
+                        27.261641
+                  ]
+            },
+            {
+                  "name": "Sea Shell Beach",
+                  "text": "Un complex de stațiune pe litoralul Mării Roșii, oferind acces direct la plaja de nisip și șezlonguri.",
+                  "category": "recreational",
+                  "coords": [
+                        33.851537,
+                        27.200849
+                  ]
+            },
+            {
+                  "name": "Blue Beach Club",
+                  "text": "Un club de plajă plin de viață pe coasta din Hurghada, cu facilități de înot în Marea Roșie și opțiuni energice de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841666,
+                        27.223285
+                  ]
+            },
+            {
+                  "name": "Fairouz Beach",
+                  "text": "O fâșie relaxantă pe malul mării, oferind vizitatorilor acces direct la apele limpezi ale Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84144,
+                        27.217843
+                  ]
+            },
+            {
+                  "name": "Public Beach No. 3",
+                  "text": "Un țărm public de nisip care oferă localnicilor și turiștilor acces deschis la valurile calde ale Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84207,
+                        27.213426
+                  ]
+            },
+            {
+                  "name": "El Sakia Beach",
+                  "text": "O plajă centrală din Hurghada, oferind un refugiu de nisip chiar lângă valurile blânde ale Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841983,
+                        27.221759
+                  ]
+            },
+            {
+                  "name": "Star Fish",
+                  "text": "Un monument distinctiv în Hurghada care celebrează moștenirea maritimă și viața marină a Mării Roșii a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        33.83904,
+                        27.228709
+                  ]
+            },
+            {
+                  "name": "Sheraton Beach",
+                  "text": "O porțiune binecunoscută a plajei Mării Roșii, oferind relaxare pitorească pe coastă și facilități de stațiune.",
+                  "category": "recreational",
+                  "coords": [
+                        33.850309,
+                        27.199169
+                  ]
+            },
+            {
+                  "name": "Sun & Sea Beach",
+                  "text": "O fâșie de coastă însorită la Marea Roșie, concepută special pentru relaxare pe litoral și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        33.845467,
+                        27.209902
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "O tabără relaxată pe malul mării în Hurghada, care oferă o relaxare simplă chiar pe Marea Roșie.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824393,
+                        27.259188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shiri Tourist Walk",
+                  "text": "Shiri Tourist Walk is a bustling pedestrian promenade lined with shops and cafes offering clear views of the local cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        33.83763,
+                        27.220181
+                  ]
+            },
+            {
+                  "name": "Scandic resort",
+                  "text": "A Red Sea beach resort offering seaside accommodations and leisure facilities in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843268,
+                        27.243244
+                  ]
+            },
+            {
+                  "name": "Cinema",
+                  "text": "A local cinema venue offering film screenings and indoor entertainment in the heart of Hurghada.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "The View",
+                  "text": "A scenic Red Sea beach spot known for its clear waters and sweeping coastal panoramas.",
+                  "category": "recreational",
+                  "coords": [
+                        33.849349,
+                        27.204879
+                  ]
+            },
+            {
+                  "name": "New Ramoza Beach",
+                  "text": "A sandy Red Sea beachfront in Hurghada offering swimming and sunbathing under the Egyptian sun.",
+                  "category": "recreational",
+                  "coords": [
+                        33.843002,
+                        27.211664
+                  ]
+            },
+            {
+                  "name": "Arabella Azur Theatre",
+                  "text": "An open-air resort entertainment venue hosting vibrant evening shows for guests in Hurghada.",
+                  "category": "cultural",
+                  "coords": [
+                        33.847113,
+                        27.239467
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "A family-friendly stretch of sandy Red Sea coastline providing safe swimming areas in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840532,
+                        27.248388
+                  ]
+            },
+            {
+                  "name": "Zahabia Beach",
+                  "text": "A relaxing coastal spot with stunning Red Sea views and easy swimming access in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.846169,
+                        27.245218
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "A striking golden sandy beachfront situated along the idyllic Red Sea coast.",
+                  "category": "recreational",
+                  "coords": [
+                        33.844586,
+                        27.244873
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "An aquarium showcasing the vibrant marine life and diverse coral reef species of the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819122,
+                        27.261641
+                  ]
+            },
+            {
+                  "name": "Sea Shell Beach",
+                  "text": "A seaside resort complex on the Red Sea coast offering direct sandy beach access and sun loungers.",
+                  "category": "recreational",
+                  "coords": [
+                        33.851537,
+                        27.200849
+                  ]
+            },
+            {
+                  "name": "Blue Beach Club",
+                  "text": "A lively beach club on the Hurghada coast featuring Red Sea swimming and energetic leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841666,
+                        27.223285
+                  ]
+            },
+            {
+                  "name": "Fairouz Beach",
+                  "text": "A relaxing seaside strip providing visitors with direct access to the clear waters of the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84144,
+                        27.217843
+                  ]
+            },
+            {
+                  "name": "Public Beach No. 3",
+                  "text": "A public sandy shore giving locals and tourists open access to the warm waves of the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.84207,
+                        27.213426
+                  ]
+            },
+            {
+                  "name": "El Sakia Beach",
+                  "text": "A centrally located Hurghada beach offering a sandy retreat right by the gentle Red Sea waves.",
+                  "category": "recreational",
+                  "coords": [
+                        33.841983,
+                        27.221759
+                  ]
+            },
+            {
+                  "name": "Star Fish",
+                  "text": "A distinctive monument in Hurghada celebrating the city's Red Sea maritime heritage and marine life.",
+                  "category": "historical",
+                  "coords": [
+                        33.83904,
+                        27.228709
+                  ]
+            },
+            {
+                  "name": "Sheraton Beach",
+                  "text": "A well-known stretch of Red Sea beach providing scenic coastal relaxation and resort amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        33.850309,
+                        27.199169
+                  ]
+            },
+            {
+                  "name": "Sun & Sea Beach",
+                  "text": "A sunny coastal strip on the Red Sea specifically designed for seaside relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        33.845467,
+                        27.209902
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "A laid-back beachfront camp in Hurghada offering simple seaside relaxation right on the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824393,
+                        27.259188
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-BA",
     coords: [33.8239, 27.2341],
@@ -3268,7 +5050,52 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Seule mine de charbon notable en Égypte", "Réserves estimées à plus de 50 millions de tonnes", "L'extraction se fait en mine souterraine jusqu'à 150 mètres de profondeur", "Située dans le massif du Jebel Maghara au Nord-Sinaï", "Réouverture en 2014 après une réhabilitation complète", "Fournit du charbon à haut pouvoir calorifique pour l'industrie"],
     }, image: "/poi-images/maghara-coal-mine-economic-v2.webp"},
   {
-    id: "abu-zaabal-fertilizer-economic-v2",
+    id: "abu-zaabal-fertilizer-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leontopolis",
+                  "text": "Die archäologische Stätte Leontopolis, einst bekannt als Stadt der Löwen, bewahrt die Überreste eines jüdischen Tempels.",
+                  "category": "historical",
+                  "coords": [
+                        31.33262,
+                        30.293402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leontopolis",
+                  "text": "A Leontopolis régészeti lelőhely egy egykori zsidó templom maradványait is őrzi a Nílus-deltában.",
+                  "category": "historical",
+                  "coords": [
+                        31.33262,
+                        30.293402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leontopolis",
+                  "text": "Situl arheologic Leontopolis păstrează ruinele unui străvechi așezământ și ale unui vechi templu iudaic.",
+                  "category": "historical",
+                  "coords": [
+                        31.33262,
+                        30.293402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leontopolis",
+                  "text": "The archaeological site of Leontopolis preserves the historic ruins associated with ancient lion worship and an ancient Jewish temple.",
+                  "category": "historical",
+                  "coords": [
+                        31.33262,
+                        30.293402
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EG-KB",
     coords: [31.4011, 30.2522],

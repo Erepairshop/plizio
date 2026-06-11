@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const westernsaharaHistoryV2: POI[] = [
 
   {
-    id: "westernsahara-smara-ancient-city-history-v2",
+    id: "westernsahara-smara-ancient-city-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zaouia de Cheikh Ma El A",
+                  "text": "Diese steinernen Ruinen bilden einen historischen religiösen Komplex in Smara, der von dem verehrten Saharafürsten Ma al-Ainin gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.680123,
+                        26.742371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zaouia de Cheikh Ma El A",
+                  "text": "Ezek a kőromok egy történelmi vallási komplexumot alkotnak Smarában, amelyet a tisztelt szaharai vezető, Ma al-Ainin alapított.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.680123,
+                        26.742371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zaouia de Cheikh Ma El A",
+                  "text": "Aceste ruine de piatră formează un complex religios istoric în Smara, fondat de veneratul lider saharian Ma al-Ainin.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.680123,
+                        26.742371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zaouia de Cheikh Ma El A",
+                  "text": "These stone ruins form a historic religious complex in Smara founded by the revered Saharan leader Ma al-'Aynayn.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.680123,
+                        26.742371
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Smara Altstadt", hu: "Szamara óváros", ro: "Orașul vechi Smara", en: "Smara Old City" },
     coords: [-11.6736, 26.7408],
@@ -91,7 +136,88 @@ export const westernsaharaHistoryV2: POI[] = [
     image: "/poi-images/westernsahara-laayoune-old-quarter-history-v2.webp",
   },
   {
-    id: "westernsahara-dakhla-fort-history-v2",
+    id: "westernsahara-dakhla-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pointe de Lassarga",
+                  "text": "Der Leuchtturm Pointe de Lassarga markiert die windgepeitschte Südspitze der Halbinsel von Dakhla.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.000481,
+                        23.633329
+                  ]
+            },
+            {
+                  "name": "La plage de Lassarga",
+                  "text": "Der Strand von Lassarga liegt an der Spitze der Halbinsel und ist ein beliebter Spot für Kitesurfer in Dakhla.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.994993,
+                        23.632301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pointe de Lassarga",
+                  "text": "A Pointe de Lassarga világítótorony a Dakhla-félsziget szélfútta déli csücskét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.000481,
+                        23.633329
+                  ]
+            },
+            {
+                  "name": "La plage de Lassarga",
+                  "text": "A Lassarga strand a félsziget csúcsánál fekszik, és a sárkányszörfösök kedvelt helye Dakhlában.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.994993,
+                        23.632301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pointe de Lassarga",
+                  "text": "Farul Pointe de Lassarga marchează extremitatea sudică bătută de vânturi a Peninsulei Dakhla.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.000481,
+                        23.633329
+                  ]
+            },
+            {
+                  "name": "La plage de Lassarga",
+                  "text": "Plaja Lassarga este situată la vârful peninsulei și este un loc popular pentru kitesurfing în Dakhla.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.994993,
+                        23.632301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pointe de Lassarga",
+                  "text": "The Pointe de Lassarga lighthouse guides vessels around the windswept southern tip of the Dakhla peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.000481,
+                        23.633329
+                  ]
+            },
+            {
+                  "name": "Lassarga beach",
+                  "text": "Lassarga beach stretches along the tip of the peninsula, offering prime wind conditions for kitesurfers in Dakhla.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.994993,
+                        23.632301
+                  ]
+            }
+      ]
+},
     type: "castle",
     name: { de: "Dakhla Festung", hu: "Dahla erőd", ro: "Fortăreața Dakhla", en: "Dakhla Fort" },
     coords: [-15.9582, 23.6848],

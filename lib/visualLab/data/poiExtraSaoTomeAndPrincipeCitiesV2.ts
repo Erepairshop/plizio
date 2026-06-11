@@ -60,7 +60,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       en: "São Tomé is the capital and largest city of the island nation of São Tomé and Príncipe, situated on the northeastern coast of São Tomé Island. Established by Portuguese explorers in 1485, it stands as one of the oldest colonial settlements in the Gulf of Guinea. The city’s history is deeply intertwined with the development of the plantation economy, particularly sugar in the 16th century and later cocoa and coffee in the 19th century. Today, the city serves as the nation's political, educational, and commercial hub. Its urban layout features a blend of historic Portuguese colonial buildings, such as the Presidential Palace and the 16th-century Cathedral of Our Lady of Grace, alongside more functional modern structures. The economy is primarily driven by administrative services, fishing, and the export of agricultural products through its busy port. São Tomé is also the gateway for the country's growing eco-tourism industry, providing access to the lush Obo National Park and stunning volcanic landscapes. The demographic profile is diverse, consisting mainly of Forros (descendants of freed slaves) and Mesticos, contributing to a rich cultural tapestry. The local cuisine is a highlight, featuring dishes like calulu, a traditional stew made with dried fish and local greens. The city enjoys a tropical wet and dry climate, with a significant rainy season from October to May. Landmarks like the National Museum, housed in the historic Fort São Sebastião, offer visitors a deep dive into the island's complex past, from the era of 'roças' (plantations) to its emergence as a sovereign state in 1975. As the cultural heart of the nation, São Tomé hosts numerous festivals and vibrant markets that showcase the island's unique blend of African and European heritage.",
     }, image: "/poi-images/sao-tome-cities-v2.webp"},
   {
-    id: "pantufo-cities-v2",
+    id: "pantufo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas ist ein ruhiger Sandstrand an der Küste in der Nähe der Fischergemeinde Pantufo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750599,
+                        0.287672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "A Praia das Pombas egy nyugodt tengerparti homokos strand a pantufoi halászközösség közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750599,
+                        0.287672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas este o plajă de coastă liniștită, cu nisip, situată în apropiere de comunitatea de pescari din Pantufo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750599,
+                        0.287672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas is a tranquil sandy coastal beach located near the fishing community of Pantufo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750599,
+                        0.287672
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.75, 0.31],
@@ -842,7 +887,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "sao-joao-dos-angolares-cities-v2",
+    id: "sao-joao-dos-angolares-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Sta Cruz",
+                  "text": "Praia Sta Cruz ist ein sandiger Küstenstrand mit ruhigem Ozeanwasser nahe der Stadt São João dos Angolares.",
+                  "category": "recreational",
+                  "coords": [
+                        6.646098,
+                        0.128392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Sta Cruz",
+                  "text": "A Praia Sta Cruz egy tengerparti homokos strand, amely nyugodt óceáni vizeket kínál São João dos Angolares városának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.646098,
+                        0.128392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Sta Cruz",
+                  "text": "Praia Sta Cruz este o plajă de coastă cu nisip, oferind ape oceanice liniștite în apropierea orașului São João dos Angolares.",
+                  "category": "recreational",
+                  "coords": [
+                        6.646098,
+                        0.128392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Sta Cruz",
+                  "text": "Praia Sta Cruz is a coastal sandy beach offering tranquil ocean waters near the town of São João dos Angolares.",
+                  "category": "recreational",
+                  "coords": [
+                        6.646098,
+                        0.128392
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-03",
     coords: [6.64, 0.13],
@@ -1168,7 +1258,124 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "ribeira-peixe-cities-v2",
+    id: "ribeira-peixe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "Der Aussichtspunkt Pico do Cão Grande umrahmt den dramatischen, nadelförmigen Vulkankegel, der aus dem Dschungel aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Praia Diogo Afonso ist ein abgelegener Küstenstrand mit ruhigen Ufern in der Nähe von Ribeira Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598145,
+                        0.081407
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Praia Zongõnhim ist ein sandiger Strand am Meer, der von der üppigen Küstenvegetation der Region gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578669,
+                        0.086404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "A Pico do Cão Grande kilátópontja a környező dzsungelből kiemelkedő drámai, tű alakú vulkáni dugót keretezi.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "A Praia Diogo Afonso egy eldugott tengerparti strand, amely nyugodt partokat kínál Ribeira Peixe közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598145,
+                        0.081407
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "A Praia Zongõnhim egy homokos tengerparti hely, amelyet a régió buja növényzete szegélyez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578669,
+                        0.086404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "Punctul de belvedere Pico do Cão Grande încadrează dopul vulcanic dramatic, în formă de ac, care se ridică din jungla din jur.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Praia Diogo Afonso este o plajă de coastă izolată, care oferă țărmuri liniștite lângă Ribeira Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598145,
+                        0.081407
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Praia Zongõnhim este un loc cu nisip la malul oceanului, mărginit de vegetația de coastă luxuriantă a regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578669,
+                        0.086404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "The Pico do Cão Grande viewpoint frames the dramatic, needle-like volcanic plug rising from the surrounding jungle.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Praia Diogo Afonso is a secluded coastal beach offering tranquil shores near Ribeira Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598145,
+                        0.081407
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Praia Zongõnhim is a sandy oceanfront spot bordered by the lush coastal vegetation of the region.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578669,
+                        0.086404
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-03",
     coords: [6.6, 0.09],
@@ -3390,7 +3597,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "terreiro-velho-cities-v2",
+    id: "terreiro-velho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Mencorne",
+                  "text": "Pico Mencorne ist ein steiler Berggipfel, der aus den dichten tropischen Wäldern von Príncipe aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        7.398238,
+                        1.579061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Mencorne",
+                  "text": "A Pico Mencorne egy meredek hegycsúcs, amely Príncipe sűrű trópusi erdeiből emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        7.398238,
+                        1.579061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Mencorne",
+                  "text": "Pico Mencorne este un vârf de munte abrupt care iese din pădurile tropicale dense din Príncipe.",
+                  "category": "natural",
+                  "coords": [
+                        7.398238,
+                        1.579061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Mencorne",
+                  "text": "Pico Mencorne is a steep mountain summit emerging from the dense tropical forests of Príncipe.",
+                  "category": "natural",
+                  "coords": [
+                        7.398238,
+                        1.579061
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.41, 1.59],
@@ -3454,7 +3706,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "sundy-cities-v2",
+    id: "sundy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel ist ein landschaftlich reizvoller Aussichtspunkt in der Nähe der historischen Plantage Sundy.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Az Oque Daniel egy festői kilátó a történelmi Sundy ültetvény közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel este un punct de belvedere panoramic situat în apropierea plantației istorice Sundy.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel is a scenic viewpoint offering sweeping vistas near the historic Sundy plantation.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.38, 1.66],
@@ -4118,7 +4415,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "abade-cities-v2",
+    id: "abade-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade ist ein abgelegener tropischer Strand mit goldenem Sand und ruhigem, klarem Meerwasser in der Inselregion Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.456029,
+                        1.631241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Abade",
+                  "text": "A Praia Abade egy eldugott trópusi strand, amely aranyhomokos parttal és nyugodt, tiszta óceáni vizekkel büszkélkedhet a Príncipe-sziget régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.456029,
+                        1.631241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade este o plajă tropicală izolată, cu nisip auriu și ape oceanice liniștite și clare, în regiunea insulei Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.456029,
+                        1.631241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade is a secluded tropical beach featuring golden sands and calm, clear ocean waters in the Príncipe island region.",
+                  "category": "recreational",
+                  "coords": [
+                        7.456029,
+                        1.631241
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.44, 1.62],
@@ -4291,7 +4633,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "pantufo-sao-tome-cities-v2",
+    id: "pantufo-sao-tome-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gesunkenes Schiff",
+                  "text": "Dieses Schiffswrack zeigt die verrosteten Überreste eines Schiffes, das an der Küste von Pantufo ruht.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Ez a hajóroncs egy Pantufo partjainál nyugvó vízi jármű rozsdás maradványaiból áll.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Această epavă prezintă rămășițele ruginite ale unei nave care se odihnește de-a lungul coastei Pantufo.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shipwreck",
+                  "text": "This shipwreck features the rusted remains of a vessel resting along the coast of Pantufo.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.74, 0.32],
@@ -4592,7 +4979,196 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "belo-monte-principe-cities-v2",
+    id: "belo-monte-principe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Banana",
+                  "text": "Der Aussichtspunkt Praia Banana bietet einen atemberaubenden Blick von oben auf den perfekt geschwungenen, bananenförmigen Sandstrand.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande ist ein idyllischer Küstenstrand in der Nähe der Plantage Belo Monte auf Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.446919,
+                        1.670311
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco ist ein malerischer Sandstrand an der Küste nahe Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453588,
+                        1.681847
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra ist ein ruhiger Küstenstrand in der Nähe der Plantage Belo Monte auf Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435563,
+                        1.684604
+                  ]
+            },
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra ist ein malerischer Küstenstrand, der sich in der Nähe von Belo Monte in Príncipe befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426062,
+                        1.683733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Banana",
+                  "text": "A Praia Banana kilátópontról lenyűgöző felülnézeti kép tárul a tökéletesen ívelt, banán alakú homokos strandra.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy tengerparti strand Príncipe szigetén, a Belo Monte ültetvény közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.446919,
+                        1.670311
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "A Praia Macaco egy homokos tengerparti strand a Belo Monte közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453588,
+                        1.681847
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "A Praia Burra egy csendes tengerparti strand Príncipe szigetén, a Belo Monte ültetvény közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435563,
+                        1.684604
+                  ]
+            },
+            {
+                  "name": "Praia Seabra",
+                  "text": "A Praia Seabra egy festői tengerparti strand Príncipe szigetén, a Belo Monte közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426062,
+                        1.683733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Banana",
+                  "text": "Punctul de belvedere Praia Banana oferă o vedere uimitoare de sus asupra plajei de nisip perfect curbate, în formă de banană.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande este o plajă de coastă situată în apropierea plantației Belo Monte din Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.446919,
+                        1.670311
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco este o plajă de nisip pe coasta din apropiere de Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453588,
+                        1.681847
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra este o plajă de coastă liniștită lângă plantația Belo Monte din Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435563,
+                        1.684604
+                  ]
+            },
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra este o plajă pitorească de coastă cuibărită lângă Belo Monte în Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426062,
+                        1.683733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Banana",
+                  "text": "The Praia Banana viewpoint offers a stunning overhead look at the perfectly curved, banana-shaped sandy beach.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande is a coastal beach located near the Belo Monte plantation on Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.446919,
+                        1.670311
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco is a sandy coastal beach near the Belo Monte plantation on Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453588,
+                        1.681847
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra is a tranquil coastal beach retreat near the Belo Monte plantation on Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435563,
+                        1.684604
+                  ]
+            },
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra is a scenic coastal beach nestled near the Belo Monte plantation on Príncipe.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426062,
+                        1.683733
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.43, 1.68],
@@ -5648,7 +6224,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "blublu-lobata-river-cities-v2",
+    id: "blublu-lobata-river-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Roça Agostinho Neto ist ein Aussichtspunkt mit weitem Blick über die historische Plantagenanlage und die umliegenden Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "A Roça Agostinho Neto kilátópontról széles panoráma nyílik a történelmi ültetvényre és a környező dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Roça Agostinho Neto este un punct de belvedere care oferă vederi ample asupra proprietății istorice a plantației și a dealurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Roça Agostinho Neto is a viewpoint offering sweeping vistas over the historic plantation estate and surrounding hills.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.64, 0.38],

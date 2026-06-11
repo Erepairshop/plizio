@@ -3058,7 +3058,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massasoit National Wildlife Refuge",
-                  "text": "Das Massasoit National Wildlife Refuge ist ein Naturschutzgebiet in Plymouth, das Lebensraum für Wildtiere bietet.",
+                  "text": "1983 eingerichtetes Wildschutzgebiet an der Küste von Rock.",
                   "category": "natural",
                   "coords": [
                         -70.643448,
@@ -3076,7 +3076,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pilgrim Memorial State Park",
-                  "text": "Der Pilgrim Memorial State Park ist ein Park in Plymouth, der an die Pilgerväter erinnert und den Plymouth Rock umfasst.",
+                  "text": "2001 angelegter Park zum Schutz des historischen Plymouth Rock in Rock.",
                   "category": "park",
                   "coords": [
                         -70.675947,
@@ -3157,7 +3157,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Pier Light (\"Bug Light\")",
-                  "text": "Das Duxbury Pier Light, auch Bug Light genannt, ist ein historischer Leuchtturm in Plymouth.",
+                  "text": "1871 erbauter Leuchtturm in der Duxbury Bay in Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.648558,
@@ -3330,7 +3330,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massasoit National Wildlife Refuge",
-                  "text": "A Massasoit National Wildlife Refuge egy vadvédelmi terület Plymouthban, amely élőhelyet biztosít a vadon élő állatok számára.",
+                  "text": "1983-ban létesített vadvédelmi terület a Rock-i parton.",
                   "category": "natural",
                   "coords": [
                         -70.643448,
@@ -3348,7 +3348,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pilgrim Memorial State Park",
-                  "text": "A Pilgrim Memorial State Park egy park Plymouthban, amely a zarándokatyákra emlékezik és magában foglalja a Plymouth Rockot.",
+                  "text": "2001-ben létesített park a történelmi Plymouth Rock védelmére a Rockban.",
                   "category": "park",
                   "coords": [
                         -70.675947,
@@ -3429,7 +3429,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Pier Light (\"Bug Light\")",
-                  "text": "A Duxbury Pier Light, más néven Bug Light, egy történelmi világítótorony Plymouthban.",
+                  "text": "1871-ben épült világítótorony a Duxbury-öbölben, Rockban.",
                   "category": "landmark",
                   "coords": [
                         -70.648558,
@@ -3602,7 +3602,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massasoit National Wildlife Refuge",
-                  "text": "Massasoit National Wildlife Refuge este o rezervație naturală din Plymouth, care oferă habitat pentru fauna sălbatică.",
+                  "text": "Refugiu pentru fauna sălbatică înființat în 1983 pe coasta din Rock.",
                   "category": "natural",
                   "coords": [
                         -70.643448,
@@ -3620,7 +3620,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pilgrim Memorial State Park",
-                  "text": "Pilgrim Memorial State Park este un parc din Plymouth care comemorează Părinții Pelerini și include Plymouth Rock.",
+                  "text": "Parcul creat în 2001 pentru a proteja istoricul Plymouth Rock din Rock.",
                   "category": "park",
                   "coords": [
                         -70.675947,
@@ -3701,7 +3701,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Pier Light (\"Bug Light\")",
-                  "text": "Duxbury Pier Light, cunoscut și ca Bug Light, este un far istoric în Plymouth.",
+                  "text": "Far construit în 1871 în Golful Duxbury, în Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.648558,
@@ -3874,7 +3874,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massasoit National Wildlife Refuge",
-                  "text": "Massasoit National Wildlife Refuge is a nature reserve in Plymouth, providing habitat for wildlife.",
+                  "text": "Wildlife refuge established in 1983 along the coast in Rock.",
                   "category": "natural",
                   "coords": [
                         -70.643448,
@@ -3892,7 +3892,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pilgrim Memorial State Park",
-                  "text": "Pilgrim Memorial State Park is a park in Plymouth, commemorating the Pilgrims and containing Plymouth Rock.",
+                  "text": "Park created in 2001 to protect the historic Plymouth Rock in Rock.",
                   "category": "park",
                   "coords": [
                         -70.675947,
@@ -3973,7 +3973,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Pier Light (\"Bug Light\")",
-                  "text": "Duxbury Pier Light, also called Bug Light, is a historic lighthouse in Plymouth.",
+                  "text": "Lighthouse built in 1871 in Duxbury Bay in Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.648558,
@@ -5548,7 +5548,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skippack Bridge",
-                  "text": "Eine historische Brücke über den Skippack Creek.",
+                  "text": "Historische Steinbogenbrücke über den Skippack Creek in Forge.",
                   "category": "landmark",
                   "coords": [
                         -75.421689,
@@ -5874,7 +5874,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skippack Bridge",
-                  "text": "Egy történelmi híd a Skippack-patak felett.",
+                  "text": "Történelmi kőíves híd a Skippack-patak felett a Forge-ban.",
                   "category": "landmark",
                   "coords": [
                         -75.421689,
@@ -6200,7 +6200,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skippack Bridge",
-                  "text": "Un pod istoric peste Pârâul Skippack.",
+                  "text": "Pod istoric din piatră cu arc peste pârâul Skippack în Forge.",
                   "category": "landmark",
                   "coords": [
                         -75.421689,
@@ -6526,7 +6526,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skippack Bridge",
-                  "text": "A historic bridge over Skippack Creek.",
+                  "text": "Historic stone arch bridge over Skippack Creek in Forge.",
                   "category": "landmark",
                   "coords": [
                         -75.421689,
@@ -9490,7 +9490,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "NS Savannah",
-                  "text": "Die NS Savannah ist ein Museumsschiff in Fort-McHenry-History-v2.",
+                  "text": "1959 vom Stapel gelaufenes erstes nuklear betriebenes Handelsschiff in Mchenry.",
                   "category": "landmark",
                   "coords": [
                         -76.555434,
@@ -9816,7 +9816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "NS Savannah",
-                  "text": "Az NS Savannah egy múzeumhajó Fort-McHenry-History-v2-ben.",
+                  "text": "1959-ben vízre bocsátott első nukleáris meghajtású kereskedelmi hajó a Mchenryben.",
                   "category": "landmark",
                   "coords": [
                         -76.555434,
@@ -10142,7 +10142,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "NS Savannah",
-                  "text": "Nava NS Savannah este o navă muzeu în Fort-McHenry-History-v2.",
+                  "text": "Prima navă comercială cu propulsie nucleară lansată în 1959 în Mchenry.",
                   "category": "landmark",
                   "coords": [
                         -76.555434,
@@ -10468,7 +10468,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "NS Savannah",
-                  "text": "NS Savannah is a museum ship in Fort-McHenry-History-v2.",
+                  "text": "First nuclear-powered merchant ship launched in 1959 in Mchenry.",
                   "category": "landmark",
                   "coords": [
                         -76.555434,
@@ -10798,7 +10798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Utah",
-                  "text": "Die USS Utah ist ein gesunkenes Schlachtschiff und eine Gedenkstätte in Pearl Harbor.",
+                  "text": "Vom Stapel gelassen 1909, dieses Schlachtschiff ist eine Gedenkstätte in Pearl Harbor, Hawaii.",
                   "category": "landmark",
                   "coords": [
                         -157.962711,
@@ -11142,7 +11142,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Utah",
-                  "text": "A USS Utah egy elsüllyedt csatahajó és emlékhely Pearl Harborban.",
+                  "text": "1909-ben bocsátották vízre, ez a csatahajó emlékmű a Pearl Harbor-i bázison, Hawaiin.",
                   "category": "landmark",
                   "coords": [
                         -157.962711,
@@ -11486,7 +11486,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Utah",
-                  "text": "USS Utah este o navă de luptă scufundată și un memorial în Pearl Harbor.",
+                  "text": "Lansat în 1909, acest cuirasat este un memorial la Pearl Harbor, Hawaii.",
                   "category": "landmark",
                   "coords": [
                         -157.962711,
@@ -11830,7 +11830,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Utah",
-                  "text": "USS Utah is a sunken battleship and memorial in Pearl Harbor.",
+                  "text": "Launched in 1909, this battleship is a memorial at Pearl Harbor, Hawaii.",
                   "category": "landmark",
                   "coords": [
                         -157.962711,
@@ -12496,7 +12496,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Van Wagenen House",
-                  "text": "Das Van Wagenen House ist ein historisches Hausmuseum in ellis-island-history-v2.",
+                  "text": "1740 erbautes historisches niederländisches Bauernhaus in Island.",
                   "category": "museum",
                   "coords": [
                         -74.066423,
@@ -12514,7 +12514,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Statue of Liberty Museum",
-                  "text": "Das Statue of Liberty Museum ist ein Museum, das der Freiheitsstatue gewidmet ist, in ellis-island-history-v2.",
+                  "text": "2019 auf Liberty Island eröffnetes Museum zur Freiheitsstatue.",
                   "category": "museum",
                   "coords": [
                         -74.046389,
@@ -12541,7 +12541,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Castle Williams",
-                  "text": "Castle Williams ist ein Fort auf Governors Island in ellis-island-history-v2.",
+                  "text": "1807 erbaute runde Festung auf Governors Island.",
                   "category": "fortress",
                   "coords": [
                         -74.01934,
@@ -12577,7 +12577,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "Die Saint Demetrios Greek Orthodox Church ist eine griechisch-orthodoxe Kirche in ellis-island-history-v2.",
+                  "text": "1886 gegründete griechisch-orthodoxe Kirche in Island (Jersey City).",
                   "category": "religious",
                   "coords": [
                         -74.059685,
@@ -12586,7 +12586,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mana Contemporary",
-                  "text": "Mana Contemporary ist ein Kunstzentrum in ellis-island-history-v2.",
+                  "text": "In einer 1890 erbauten Fabrik untergebrachtes Kulturzentrum in Island.",
                   "category": "cultural",
                   "coords": [
                         -74.06868,
@@ -12649,7 +12649,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colgate Clock",
-                  "text": "Die Colgate Clock ist eine große Uhr in ellis-island-history-v2.",
+                  "text": "1924 am Colgate-Palmolive-Werk in Island (Jersey City) installierte Uhr.",
                   "category": "landmark",
                   "coords": [
                         -74.033915,
@@ -12658,7 +12658,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Robbins Reef Light",
-                  "text": "Das Robbins Reef Light ist ein Leuchtturm in ellis-island-history-v2.",
+                  "text": "Erbaut 1883, dieser Leuchtturm steht im New Yorker Hafen.",
                   "category": "landmark",
                   "coords": [
                         -74.065361,
@@ -12667,7 +12667,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.80",
-                  "text": "Die Amtrak Bridge No. 7.80 ist eine Brücke in ellis-island-history-v2.",
+                  "text": "1907 als Teil der Sawtooth Bridges erbaute Eisenbahnbrücke in Island.",
                   "category": "landmark",
                   "coords": [
                         -74.125106,
@@ -12703,7 +12703,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.96",
-                  "text": "Die Amtrak Bridge No. 7.96 ist eine Brücke in ellis-island-history-v2.",
+                  "text": "1907 als Teil der Sawtooth Bridges erbaute Eisenbahnbrücke in Island.",
                   "category": "landmark",
                   "coords": [
                         -74.128047,
@@ -12849,7 +12849,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Van Wagenen House",
-                  "text": "A Van Wagenen House egy történelmi házmúzeum az ellis-island-history-v2-ben.",
+                  "text": "1740-ben épült történelmi holland parasztház az Islanden.",
                   "category": "museum",
                   "coords": [
                         -74.066423,
@@ -12867,7 +12867,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Statue of Liberty Museum",
-                  "text": "A Szabadság-szobor Múzeum egy a Szabadság-szobornak szentelt múzeum az ellis-island-history-v2-ben.",
+                  "text": "2019-ben megnyitott múzeum a Szabadság-szoborról a Liberty Islanden.",
                   "category": "museum",
                   "coords": [
                         -74.046389,
@@ -12894,7 +12894,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Castle Williams",
-                  "text": "A Castle Williams egy erőd a Governors Islanden az ellis-island-history-v2-ben.",
+                  "text": "1807-ben épült kör alakú erőd a Governors Islanden.",
                   "category": "fortress",
                   "coords": [
                         -74.01934,
@@ -12930,7 +12930,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "A Saint Demetrios Görög Ortodox Templom egy görög ortodox templom az ellis-island-history-v2-ben.",
+                  "text": "1886-ban alapított görög ortodox templom az Islanden (Jersey City).",
                   "category": "religious",
                   "coords": [
                         -74.059685,
@@ -12939,7 +12939,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mana Contemporary",
-                  "text": "A Mana Contemporary egy művészeti központ az ellis-island-history-v2-ben.",
+                  "text": "Egy 1890-ben épült gyárban elhelyezett kulturális központ az Islanden.",
                   "category": "cultural",
                   "coords": [
                         -74.06868,
@@ -13002,7 +13002,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colgate Clock",
-                  "text": "A Colgate Clock egy nagy óra az ellis-island-history-v2-ben.",
+                  "text": "1924-ben elhelyezett óra a Colgate-Palmolive gyárban az Islanden (Jersey City).",
                   "category": "landmark",
                   "coords": [
                         -74.033915,
@@ -13011,7 +13011,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Robbins Reef Light",
-                  "text": "A Robbins Reef Light egy világítótorony az ellis-island-history-v2-ben.",
+                  "text": "1883-ban épült, ez a világítótorony a New York-i kikötőben áll.",
                   "category": "landmark",
                   "coords": [
                         -74.065361,
@@ -13020,7 +13020,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.80",
-                  "text": "Az Amtrak 7.80-as híd egy híd az ellis-island-history-v2-ben.",
+                  "text": "1907-ben épült vasúti híd a Sawtooth Bridges részeként az Islanden.",
                   "category": "landmark",
                   "coords": [
                         -74.125106,
@@ -13056,7 +13056,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.96",
-                  "text": "Az Amtrak 7.96-os híd egy híd az ellis-island-history-v2-ben.",
+                  "text": "1907-ben épült vasúti híd a Sawtooth Bridges részeként az Islanden.",
                   "category": "landmark",
                   "coords": [
                         -74.128047,
@@ -13202,7 +13202,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Van Wagenen House",
-                  "text": "Casa Van Wagenen este un muzeu de casă istorică în ellis-island-history-v2.",
+                  "text": "Casă de fermă istorică olandeză construită în 1740 în Island.",
                   "category": "museum",
                   "coords": [
                         -74.066423,
@@ -13220,7 +13220,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Statue of Liberty Museum",
-                  "text": "Muzeul Statuii Libertății este un muzeu dedicat Statuii Libertății în ellis-island-history-v2.",
+                  "text": "Muzeu al Statuii Libertății deschis în 2019 pe Liberty Island.",
                   "category": "museum",
                   "coords": [
                         -74.046389,
@@ -13247,7 +13247,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Castle Williams",
-                  "text": "Castelul Williams este un fort pe Insula Governors în ellis-island-history-v2.",
+                  "text": "Fortăreață circulară construită în 1807 pe Governors Island.",
                   "category": "fortress",
                   "coords": [
                         -74.01934,
@@ -13283,7 +13283,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "Biserica Ortodoxă Greacă Sfântul Dimitrie este o biserică greco-ortodoxă în ellis-island-history-v2.",
+                  "text": "Biserică greco-ortodoxă fondată în 1886 în Island (Jersey City).",
                   "category": "religious",
                   "coords": [
                         -74.059685,
@@ -13292,7 +13292,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mana Contemporary",
-                  "text": "Mana Contemporary este un centru de artă în ellis-island-history-v2.",
+                  "text": "Centru cultural găzduit într-o fostă fabrică construită în 1890 în Island.",
                   "category": "cultural",
                   "coords": [
                         -74.06868,
@@ -13355,7 +13355,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colgate Clock",
-                  "text": "Ceasul Colgate este un ceas mare în ellis-island-history-v2.",
+                  "text": "Ceas instalat în 1924 la fabrica Colgate-Palmolive din Island (Jersey City).",
                   "category": "landmark",
                   "coords": [
                         -74.033915,
@@ -13364,7 +13364,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Robbins Reef Light",
-                  "text": "Farul Robbins Reef este un far în ellis-island-history-v2.",
+                  "text": "Construit în 1883, acest far se află în portul New York.",
                   "category": "landmark",
                   "coords": [
                         -74.065361,
@@ -13373,7 +13373,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.80",
-                  "text": "Podul Amtrak nr. 7.80 este un pod în ellis-island-history-v2.",
+                  "text": "Pod feroviar construit în 1907 ca parte a podurilor Sawtooth în Island.",
                   "category": "landmark",
                   "coords": [
                         -74.125106,
@@ -13409,7 +13409,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.96",
-                  "text": "Podul Amtrak nr. 7.96 este un pod în ellis-island-history-v2.",
+                  "text": "Pod feroviar construit în 1907 ca parte a podurilor Sawtooth în Island.",
                   "category": "landmark",
                   "coords": [
                         -74.128047,
@@ -13555,7 +13555,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Van Wagenen House",
-                  "text": "Van Wagenen House is a historic house museum in ellis-island-history-v2.",
+                  "text": "Historic Dutch farmhouse built in 1740 in Island.",
                   "category": "museum",
                   "coords": [
                         -74.066423,
@@ -13573,7 +13573,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Statue of Liberty Museum",
-                  "text": "The Statue of Liberty Museum is a museum dedicated to the Statue of Liberty in ellis-island-history-v2.",
+                  "text": "Museum for the Statue of Liberty opened on Liberty Island in 2019.",
                   "category": "museum",
                   "coords": [
                         -74.046389,
@@ -13600,7 +13600,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Castle Williams",
-                  "text": "Castle Williams is a fort on Governors Island in ellis-island-history-v2.",
+                  "text": "Circular fortification built in 1807 on Governors Island.",
                   "category": "fortress",
                   "coords": [
                         -74.01934,
@@ -13636,7 +13636,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "Saint Demetrios Greek Orthodox Church is a Greek Orthodox church in ellis-island-history-v2.",
+                  "text": "Greek Orthodox church founded in 1886 in Island (Jersey City).",
                   "category": "religious",
                   "coords": [
                         -74.059685,
@@ -13645,7 +13645,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mana Contemporary",
-                  "text": "Mana Contemporary is an arts centre in ellis-island-history-v2.",
+                  "text": "Cultural center housed in a former factory built in 1890 in Island.",
                   "category": "cultural",
                   "coords": [
                         -74.06868,
@@ -13708,7 +13708,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colgate Clock",
-                  "text": "Colgate Clock is a large clock in ellis-island-history-v2.",
+                  "text": "Clock installed in 1924 on the Colgate-Palmolive plant in Island (Jersey City).",
                   "category": "landmark",
                   "coords": [
                         -74.033915,
@@ -13717,7 +13717,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Robbins Reef Light",
-                  "text": "Robbins Reef Light is a lighthouse in ellis-island-history-v2.",
+                  "text": "Built in 1883, this lighthouse stands in New York Harbor.",
                   "category": "landmark",
                   "coords": [
                         -74.065361,
@@ -13726,7 +13726,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.80",
-                  "text": "Amtrak Bridge No. 7.80 is a bridge in ellis-island-history-v2.",
+                  "text": "Railroad bridge built in 1907 as part of the Sawtooth Bridges in Island.",
                   "category": "landmark",
                   "coords": [
                         -74.125106,
@@ -13762,7 +13762,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Amtrak Bridge No. 7.96",
-                  "text": "Amtrak Bridge No. 7.96 is a bridge in ellis-island-history-v2.",
+                  "text": "Railroad bridge built in 1907 as part of the Sawtooth Bridges in Island.",
                   "category": "landmark",
                   "coords": [
                         -74.128047,
@@ -14047,7 +14047,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "Ein Kunstmuseum mit einer Sammlung amerikanischer und südstaatlicher Kunst.",
+                  "text": "Eröffnet 1905 und von Frank Pierce Milburn entworfen, das Gibbes Museum of Art in Sumter, South Carolina.",
                   "category": "museum",
                   "coords": [
                         -79.93173,
@@ -14074,7 +14074,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Thomson",
-                  "text": "Eine ehemalige Küstenartilleriebatterie in Charleston.",
+                  "text": "Betonartilleriebatterie auf Sullivan’s Island in Sumter.",
                   "category": "fortress",
                   "coords": [
                         -79.839565,
@@ -14155,7 +14155,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "Eine der ältesten methodistischen Kirchen in Charleston.",
+                  "text": "Erbaut 1853 und von E. Curtis entworfen, die Bethel United Methodist Church in Sumter, South Carolina.",
                   "category": "religious",
                   "coords": [
                         -79.941084,
@@ -14200,7 +14200,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "Die Second Presbyterian Church in Charleston ist ein historisches presbyterianisches Gotteshaus.",
+                  "text": "1811 gegründete presbyterianische Kirche in Sumter (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.934005,
@@ -14218,7 +14218,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "Die First (Scots) Presbyterian Church in Charleston ist ein presbyterianisches Kirchengebäude.",
+                  "text": "1814 erbaute presbyterianische Kirche in Sumter (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.931344,
@@ -14236,7 +14236,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "Die Cathedral of St. John the Baptist in Charleston ist die römisch-katholische Kathedrale der Stadt.",
+                  "text": "Fertiggestellt 1890 und von Patrick C. Keely entworfen, die Kathedrale St. Johannes der Täufer in Sumter, South Carolina.",
                   "category": "religious",
                   "coords": [
                         -79.93447,
@@ -14245,7 +14245,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "Das Memminger Auditorium in Charleston ist ein Theater in der Stadt.",
+                  "text": "Eröffnet 1939 und von Simons und Lapham entworfen, das Memminger Auditorium in Sumter, South Carolina.",
                   "category": "cultural",
                   "coords": [
                         -79.936406,
@@ -14364,7 +14364,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "Egy művészeti múzeum amerikai és déli művészeti gyűjteménnyel.",
+                  "text": "1905-ben nyílt meg, Frank Pierce Milburn tervezte, a Gibbes Művészeti Múzeum Sumterben, Dél-Karolinában.",
                   "category": "museum",
                   "coords": [
                         -79.93173,
@@ -14391,7 +14391,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Thomson",
-                  "text": "Egy korábbi parti tüzérüteg Charlestonban.",
+                  "text": "Beton tüzérségi üteg a Sullivan's Islanden a Sumterben.",
                   "category": "fortress",
                   "coords": [
                         -79.839565,
@@ -14472,7 +14472,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "Az egyik legrégebbi metodista templom Charlestonban.",
+                  "text": "1853-ban épült, E. Curtis tervezte, a Bethel Egyesült Metodista Templom Sumterben, Dél-Karolinában.",
                   "category": "religious",
                   "coords": [
                         -79.941084,
@@ -14517,7 +14517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "A Second Presbyterian Church Charlestonban egy történelmi presbiteri istentiszteleti hely.",
+                  "text": "1811-ben alapított presbiteriánus templom a Sumterben (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.934005,
@@ -14535,7 +14535,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "A First (Scots) Presbyterian Church Charlestonban egy presbiteri templomépület.",
+                  "text": "1814-ben épült presbiteriánus templom a Sumterben (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.931344,
@@ -14553,7 +14553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "A Cathedral of St. John the Baptist Charlestonban a város római katolikus székesegyháza.",
+                  "text": "1890-ben készült el, Patrick C. Keely tervezte, a Keresztelő Szent János-székesegyház Sumterben, Dél-Karolinában.",
                   "category": "religious",
                   "coords": [
                         -79.93447,
@@ -14562,7 +14562,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "A Memminger Auditorium Charlestonban egy színház a városban.",
+                  "text": "1939-ben nyílt meg, Simons és Lapham tervezte, a Memminger Auditorium Sumterben, Dél-Karolinában.",
                   "category": "cultural",
                   "coords": [
                         -79.936406,
@@ -14681,7 +14681,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "Un muzeu de artă cu o colecție de artă americană și sudistă.",
+                  "text": "Deschis în 1905 și proiectat de Frank Pierce Milburn, Muzeul de Artă Gibbes din Sumter, Carolina de Sud.",
                   "category": "museum",
                   "coords": [
                         -79.93173,
@@ -14708,7 +14708,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Thomson",
-                  "text": "O fostă baterie de artilerie de coastă în Charleston.",
+                  "text": "Baterie de artilerie din beton pe Insula Sullivan în Sumter.",
                   "category": "fortress",
                   "coords": [
                         -79.839565,
@@ -14789,7 +14789,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "Una dintre cele mai vechi biserici metodiste din Charleston.",
+                  "text": "Construită în 1853 și proiectată de E. Curtis, Biserica Metodistă Unită Bethel din Sumter, Carolina de Sud.",
                   "category": "religious",
                   "coords": [
                         -79.941084,
@@ -14834,7 +14834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "Biserica a Doua Prezbiteriană din Charleston este un lăcaș de cult prezbiterian istoric.",
+                  "text": "Biserică prezbiteriană fondată în 1811 în Sumter (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.934005,
@@ -14852,7 +14852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "Prima Biserică Prezbiteriană (Scoțiană) din Charleston este o clădire bisericească prezbiteriană.",
+                  "text": "Biserică prezbiteriană construită în 1814 în Sumter (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.931344,
@@ -14870,7 +14870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "Catedrala Sf. Ioan Botezătorul din Charleston este catedrala romano-catolică a orașului.",
+                  "text": "Finalizată în 1890 și proiectată de Patrick C. Keely, Catedrala Sfântul Ioan Botezătorul din Sumter, Carolina de Sud.",
                   "category": "religious",
                   "coords": [
                         -79.93447,
@@ -14879,7 +14879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "Auditoriul Memminger din Charleston este un teatru în oraș.",
+                  "text": "Deschis în 1939 și proiectat de Simons și Lapham, Auditoriumul Memminger din Sumter, Carolina de Sud.",
                   "category": "cultural",
                   "coords": [
                         -79.936406,
@@ -14998,7 +14998,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibbes Museum of Art",
-                  "text": "An art museum with a collection of American and Southern art.",
+                  "text": "Opened in 1905 and designed by Frank Pierce Milburn, the Gibbes Museum of Art in Sumter, South Carolina.",
                   "category": "museum",
                   "coords": [
                         -79.93173,
@@ -15025,7 +15025,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Thomson",
-                  "text": "A former coastal artillery battery in Charleston.",
+                  "text": "Concrete artillery battery on Sullivan's Island in Sumter.",
                   "category": "fortress",
                   "coords": [
                         -79.839565,
@@ -15106,7 +15106,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel United Methodist Church",
-                  "text": "One of the oldest Methodist churches in Charleston.",
+                  "text": "Built in 1853 and designed by E. Curtis, the Bethel United Methodist Church in Sumter, South Carolina.",
                   "category": "religious",
                   "coords": [
                         -79.941084,
@@ -15151,7 +15151,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Second Presbyterian Church",
-                  "text": "Second Presbyterian Church in Charleston is a historic Presbyterian place of worship.",
+                  "text": "Presbyterian church founded in 1811 in Sumter (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.934005,
@@ -15169,7 +15169,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First (Scots) Presbyterian Church",
-                  "text": "First (Scots) Presbyterian Church in Charleston is a Presbyterian church building.",
+                  "text": "Presbyterian church built in 1814 in Sumter (Charleston).",
                   "category": "religious",
                   "coords": [
                         -79.931344,
@@ -15187,7 +15187,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "The Cathedral of St. John the Baptist in Charleston is the city's Roman Catholic cathedral.",
+                  "text": "Completed in 1890 and designed by Patrick C. Keely, the Cathedral of St. John the Baptist in Sumter, South Carolina.",
                   "category": "religious",
                   "coords": [
                         -79.93447,
@@ -15196,7 +15196,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Memminger Auditorium",
-                  "text": "Memminger Auditorium in Charleston is a theatre in the city.",
+                  "text": "Opened in 1939 and designed by Simons and Lapham, the Memminger Auditorium in Sumter, South Carolina.",
                   "category": "cultural",
                   "coords": [
                         -79.936406,
@@ -23641,7 +23641,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Angel Island Immigration Station",
-                  "text": "Ein Museum, das die Geschichte der Einwanderung durch Angel Island dokumentiert.",
+                  "text": "Historische Einwanderungsstation auf Angel Island in der Bucht von San Francisco.",
                   "category": "museum",
                   "coords": [
                         -122.425916,
@@ -23668,7 +23668,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Chamberlin",
-                  "text": "Eine historische Küstenverteidigungsbatterie auf Angel Island.",
+                  "text": "1904 erbaute Küstenverteidigungsbatterie auf Angel Island.",
                   "category": "historical",
                   "coords": [
                         -122.482622,
@@ -23848,7 +23848,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS Red Oak Victory",
-                  "text": "Ein Museumsschiff aus dem Zweiten Weltkrieg auf Angel Island.",
+                  "text": "Erbaut 1944, dieses Victory-Schiff aus dem Zweiten Weltkrieg ist ein Museum in Richmond, Kalifornien.",
                   "category": "landmark",
                   "coords": [
                         -122.3657,
@@ -23967,7 +23967,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Angel Island Immigration Station",
-                  "text": "Múzeum, amely az Angel Islanden keresztüli bevándorlás történetét dokumentálja.",
+                  "text": "Történelmi bevándorlási állomás az Angel Islanden a San Francisco-öbölben.",
                   "category": "museum",
                   "coords": [
                         -122.425916,
@@ -23994,7 +23994,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Chamberlin",
-                  "text": "Egy történelmi partvédelmi üteg az Angel Islanden.",
+                  "text": "1904-ben épült partvédelmi üteg az Angel Islanden.",
                   "category": "historical",
                   "coords": [
                         -122.482622,
@@ -24174,7 +24174,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS Red Oak Victory",
-                  "text": "Egy második világháborús múzeumhajó az Angel Islanden.",
+                  "text": "1944-ben épült, ez a második világháborús győzelemhajó múzeum Richmondban, Kaliforniában.",
                   "category": "landmark",
                   "coords": [
                         -122.3657,
@@ -24293,7 +24293,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Angel Island Immigration Station",
-                  "text": "Un muzeu care documentează istoria imigrației prin Angel Island.",
+                  "text": "Stație istorică de imigrație pe Insula Angel în Golful San Francisco.",
                   "category": "museum",
                   "coords": [
                         -122.425916,
@@ -24320,7 +24320,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Chamberlin",
-                  "text": "O baterie istorică de apărare costieră pe Angel Island.",
+                  "text": "Baterie de apărare de coastă construită în 1904 pe Insula Angel.",
                   "category": "historical",
                   "coords": [
                         -122.482622,
@@ -24500,7 +24500,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS Red Oak Victory",
-                  "text": "Un vas muzeu din al Doilea Război Mondial pe Angel Island.",
+                  "text": "Construit în 1944, această navă Victory din al Doilea Război Mondial este un muzeu în Richmond, California.",
                   "category": "landmark",
                   "coords": [
                         -122.3657,
@@ -24619,7 +24619,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Angel Island Immigration Station",
-                  "text": "A museum documenting the history of immigration through Angel Island.",
+                  "text": "Historic immigration station on Angel Island in San Francisco Bay.",
                   "category": "museum",
                   "coords": [
                         -122.425916,
@@ -24646,7 +24646,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Chamberlin",
-                  "text": "A historic coastal defense battery on Angel Island.",
+                  "text": "Coastal defense battery built in 1904 on Angel Island.",
                   "category": "historical",
                   "coords": [
                         -122.482622,
@@ -24826,7 +24826,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS Red Oak Victory",
-                  "text": "A WWII Victory ship museum on Angel Island.",
+                  "text": "Built in 1944, this WWII Victory ship is a museum in Richmond, California.",
                   "category": "landmark",
                   "coords": [
                         -122.3657,
@@ -25852,7 +25852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Episcopal Church of the Holy Trinity",
-                  "text": "Eine historische Kirche im neugotischen Stil in Vicksburg.",
+                  "text": "Historische Kirche aus dem 19. Jahrhundert in Vicksburg im National Military Park.",
                   "category": "religious",
                   "coords": [
                         -90.879781,
@@ -25906,7 +25906,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel African Methodist Episcopal Church",
-                  "text": "Eine historische afroamerikanische Kirche in Vicksburg.",
+                  "text": "Historische afroamerikanische Kirche in Vicksburg im National Military Park.",
                   "category": "religious",
                   "coords": [
                         -90.878645,
@@ -25915,7 +25915,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Court House Museum",
-                  "text": "Ein Museum im historischen Gerichtsgebäude von Warren County in Vicksburg.",
+                  "text": "Museum im historischen Warren County Courthouse in Vicksburg im National Military Park.",
                   "category": "museum",
                   "coords": [
                         -90.878723,
@@ -26007,7 +26007,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Episcopal Church of the Holy Trinity",
-                  "text": "Egy történelmi, neogótikus stílusú templom Vicksburgben.",
+                  "text": "19. századi történelmi templom Vicksburgben, a National Military Parkban.",
                   "category": "religious",
                   "coords": [
                         -90.879781,
@@ -26061,7 +26061,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel African Methodist Episcopal Church",
-                  "text": "Egy történelmi afroamerikai templom Vicksburgben.",
+                  "text": "Történelmi afroamerikai templom Vicksburgben, a National Military Parkban.",
                   "category": "religious",
                   "coords": [
                         -90.878645,
@@ -26070,7 +26070,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Court House Museum",
-                  "text": "Egy múzeum a Warren megyei történelmi bírósági épületben Vicksburgben.",
+                  "text": "Múzeum a történelmi Warren megyei bíróság épületében Vicksburgben, a National Military Parkban.",
                   "category": "museum",
                   "coords": [
                         -90.878723,
@@ -26162,7 +26162,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Episcopal Church of the Holy Trinity",
-                  "text": "O biserică istorică în stil neogotic în Vicksburg.",
+                  "text": "Biserică istorică din secolul al XIX-lea în Vicksburg, în Parcul Militar Național.",
                   "category": "religious",
                   "coords": [
                         -90.879781,
@@ -26216,7 +26216,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel African Methodist Episcopal Church",
-                  "text": "O biserică istorică afro-americană în Vicksburg.",
+                  "text": "Biserică istorică afro-americană în Vicksburg, în Parcul Militar Național.",
                   "category": "religious",
                   "coords": [
                         -90.878645,
@@ -26225,7 +26225,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Court House Museum",
-                  "text": "Un muzeu în clădirea istorică a tribunalului din comitatul Warren din Vicksburg.",
+                  "text": "Muzeu găzduit în istoricul tribunal al comitatului Warren din Vicksburg, în Parcul Militar Național.",
                   "category": "museum",
                   "coords": [
                         -90.878723,
@@ -26317,7 +26317,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Episcopal Church of the Holy Trinity",
-                  "text": "A historic Gothic Revival church in Vicksburg.",
+                  "text": "Historic 19th-century church in Vicksburg in National Military Park.",
                   "category": "religious",
                   "coords": [
                         -90.879781,
@@ -26371,7 +26371,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bethel African Methodist Episcopal Church",
-                  "text": "A historic African American church in Vicksburg.",
+                  "text": "Historic African American church in Vicksburg in National Military Park.",
                   "category": "religious",
                   "coords": [
                         -90.878645,
@@ -26380,7 +26380,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Court House Museum",
-                  "text": "A museum located in the historic Warren County Courthouse in Vicksburg.",
+                  "text": "Museum housed in the historic Warren County Courthouse in Vicksburg in National Military Park.",
                   "category": "museum",
                   "coords": [
                         -90.878723,

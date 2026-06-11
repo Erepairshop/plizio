@@ -38856,7 +38856,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Bate Collection of Musical Instruments",
-                  "text": "Ein Museum in Oxford mit einer umfangreichen Sammlung historischer Musikinstrumente.",
+                  "text": "Die Bate Collection of Musical Instruments in Oxford ist eine 1968 gegründete Museumssammlung mit über 2.000 Instrumenten.",
                   "category": "museum",
                   "coords": [
                         -1.263875,
@@ -39165,7 +39165,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Bate Collection of Musical Instruments",
-                  "text": "Oxfordi múzeum, amely történelmi hangszerek gazdag gyűjteményét mutatja be.",
+                  "text": "A Bate Collection of Musical Instruments Oxfordban egy 1968-ban alapított múzeumi gyűjtemény, amely több mint 2000 hangszert tartalmaz.",
                   "category": "museum",
                   "coords": [
                         -1.263875,
@@ -39474,7 +39474,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Bate Collection of Musical Instruments",
-                  "text": "Un muzeu din Oxford care adăpostește o colecție vastă de instrumente muzicale istorice.",
+                  "text": "Colecția Bate de Instrumente Muzicale din Oxford este o colecție muzeală fondată în 1968, cu peste 2.000 de instrumente.",
                   "category": "museum",
                   "coords": [
                         -1.263875,
@@ -39783,7 +39783,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Bate Collection of Musical Instruments",
-                  "text": "A museum in Oxford housing an extensive collection of historic musical instruments.",
+                  "text": "The Bate Collection of Musical Instruments in Oxford is a museum collection founded in 1968, comprising over 2,000 instruments.",
                   "category": "museum",
                   "coords": [
                         -1.263875,
@@ -58855,7 +58855,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Sutton Park National Nature Reserve",
-                  "text": "Ein großer Stadtpark und nationales Naturschutzgebiet in Sutton Coldfield.",
+                  "text": "Das Sutton Park National Nature Reserve in Sutton Coldfield ist ein großes städtisches Naturschutzgebiet, das 1997 ausgewiesen wurde.",
                   "category": "natural",
                   "coords": [
                         -1.856362,
@@ -59110,7 +59110,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Sutton Park National Nature Reserve",
-                  "text": "Nagy városi park és országos jelentőségű természetvédelmi terület Sutton Coldfieldben.",
+                  "text": "A Sutton Park National Nature Reserve Sutton Coldfieldben egy nagy városi természetvédelmi terület, amelyet 1997-ben jelöltek ki.",
                   "category": "natural",
                   "coords": [
                         -1.856362,
@@ -59365,7 +59365,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Sutton Park National Nature Reserve",
-                  "text": "Un parc urban mare și rezervație naturală națională în Sutton Coldfield.",
+                  "text": "Rezervația Naturală Națională Sutton Park din Sutton Coldfield este o mare rezervație naturală urbană desemnată în 1997.",
                   "category": "natural",
                   "coords": [
                         -1.856362,
@@ -59620,7 +59620,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "Sutton Park National Nature Reserve",
-                  "text": "A large urban park and national nature reserve in Sutton Coldfield.",
+                  "text": "Sutton Park National Nature Reserve in Sutton Coldfield is a large urban nature reserve designated in 1997.",
                   "category": "natural",
                   "coords": [
                         -1.856362,
@@ -182303,7 +182303,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "St Mary the Virgin",
-                  "text": "Eine traditionelle anglikanische Kirche, die der Gemeinde Wyke dient.",
+                  "text": "Die St Mary the Virgin Church in Wyke ist eine denkmalgeschützte Kirche, erbaut 1847 (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.771674,
@@ -182484,7 +182484,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "St Mary the Virgin",
-                  "text": "Egy hagyományos anglikán templom, amely a Wyke-i plébániát szolgálja.",
+                  "text": "A St Mary the Virgin Church Wyke-ben egy Grade II-es listás templom, 1847-ben épült.",
                   "category": "religious",
                   "coords": [
                         -1.771674,
@@ -182665,7 +182665,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "St Mary the Virgin",
-                  "text": "O biserică anglicană tradițională care deservește parohia Wyke.",
+                  "text": "Biserica St Mary the Virgin din Wyke este o biserică de gradul II construită în 1847.",
                   "category": "religious",
                   "coords": [
                         -1.771674,
@@ -182846,7 +182846,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "St Mary the Virgin",
-                  "text": "A traditional Anglican church serving the Wyke parish.",
+                  "text": "St Mary the Virgin Church in Wyke is a Grade II listed church built in 1847.",
                   "category": "religious",
                   "coords": [
                         -1.771674,
@@ -196275,7 +196275,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "National Marine Aquarium",
-                  "text": "Das National Marine Aquarium in Stoke ist eine große Anlage, die eine vielfältige Meereswelt zeigt.",
+                  "text": "Das National Marine Aquarium in Plymouth ist das größte Aquarium Großbritanniens, eröffnet 1998.",
                   "category": "family",
                   "coords": [
                         -4.130829,
@@ -196681,7 +196681,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "National Marine Aquarium",
-                  "text": "A stoke-i National Marine Aquarium egy nagy létesítmény, amely változatos tengeri élővilágot mutat be.",
+                  "text": "A National Marine Aquarium Plymouthban a legnagyobb akvárium az Egyesült Királyságban, 1998-ban nyílt meg.",
                   "category": "family",
                   "coords": [
                         -4.130829,
@@ -197087,7 +197087,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "National Marine Aquarium",
-                  "text": "National Marine Aquarium din Stoke este o facilitate mare care prezintă o viață marină diversă.",
+                  "text": "Acvariul Național Marin din Plymouth este cel mai mare acvariu din Marea Britanie, deschis în 1998.",
                   "category": "family",
                   "coords": [
                         -4.130829,
@@ -197493,7 +197493,7 @@ export const poiExtraUkMissingV1: POI[] = [
             },
             {
                   "name": "National Marine Aquarium",
-                  "text": "National Marine Aquarium in Stoke is a large facility showcasing diverse marine life.",
+                  "text": "The National Marine Aquarium in Plymouth is the largest aquarium in the UK, opened in 1998.",
                   "category": "family",
                   "coords": [
                         -4.130829,

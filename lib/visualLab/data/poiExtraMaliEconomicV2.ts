@@ -731,7 +731,124 @@ export const poiExtraMaliEconomicV2: POI[] = [
     },
   },
   {
-    "id": "koutiala-cotton-plant-economic-v2",
+    "id": "koutiala-cotton-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "Dieses Denkmal ist der regionalen Baumwollindustrie gewidmet und steht in der Nähe der CMDT-Anlage in Koutiala.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Moulin de céréale",
+                  "text": "Diese traditionelle Getreidemühle befindet sich in der Umgebung des Baumwollanbaugebietes von Koutiala.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.442186,
+                        12.351848
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Dieses Kunstzentrum dient als Veranstaltungsort für die Gemeinde rund um die Baumwollspinnerei in Koutiala.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "Ez az emlékmű a regionális gyapotiparnak állít emléket, és a koutialai CMDT üzem közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Moulin de céréale",
+                  "text": "Ez a hagyományos gabonamalom a koutialai gyapottermelő terület közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.442186,
+                        12.351848
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Ez a művészeti központ szórakozóhelyként szolgál a koutialai gyapotüzem környékén élő közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "Acest monument este dedicat industriei regionale a bumbacului și se află în apropierea fabricii CMDT din Koutiala.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Moulin de céréale",
+                  "text": "Această moară tradițională de cereale este situată în vecinătatea zonei de producție a bumbacului din Koutiala.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.442186,
+                        12.351848
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Acest centru de arte servește drept loc de divertisment pentru comunitatea din jurul fabricii de bumbac din Koutiala.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "This monument is dedicated to the regional cotton industry and stands near the CMDT plant in Koutiala.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Moulin de céréale",
+                  "text": "This traditional cereal mill is located in the vicinity of the Koutiala cotton production area.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.442186,
+                        12.351848
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "This arts centre serves as an entertainment venue for the community around the Koutiala cotton plant.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ]
+},
     "type": "industry",
     "parent": "ML-SIK",
     "coords": [
@@ -787,7 +904,88 @@ export const poiExtraMaliEconomicV2: POI[] = [
     },
   },
   {
-    "id": "comatex-textile-factory-economic-v2",
+    "id": "comatex-textile-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tientigiba Danté",
+                  "text": "Dieses lokale Theater befindet sich in der lebendigen Gemeinde rund um die COMATEX-Textilfabrik.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.241377,
+                        13.44143
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée du vendredi de Ségou",
+                  "text": "Diese große Freitagsmoschee ist ein wichtiges Zentrum des islamischen Gottesdienstes in der Stadt Ségou.",
+                  "category": "religious",
+                  "coords": [
+                        -6.245157,
+                        13.441762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tientigiba Danté",
+                  "text": "Ez a helyi színház a COMATEX textilgyár körüli nyüzsgő közösségben található.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.241377,
+                        13.44143
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée du vendredi de Ségou",
+                  "text": "Ez a nagy Pénteki mecset az iszlám istentisztelet fontos központja Ségou városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.245157,
+                        13.441762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tientigiba Danté",
+                  "text": "Acest teatru local este situat în comunitatea vibrantă din jurul fabricii de textile COMATEX.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.241377,
+                        13.44143
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée du vendredi de Ségou",
+                  "text": "Această mare moschee de vineri este un important centru de cult islamic din orașului Ségou.",
+                  "category": "religious",
+                  "coords": [
+                        -6.245157,
+                        13.441762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tientigiba Danté",
+                  "text": "This local theatre is situated in the vibrant community around the COMATEX textile factory.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.241377,
+                        13.44143
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée du vendredi de Ségou",
+                  "text": "This large Friday mosque is an important center of Islamic worship in the city of Ségou.",
+                  "category": "religious",
+                  "coords": [
+                        -6.245157,
+                        13.441762
+                  ]
+            }
+      ]
+},
     "type": "industry",
     "parent": "ML-SEG",
     "coords": [
@@ -955,7 +1153,52 @@ export const poiExtraMaliEconomicV2: POI[] = [
     },
   },
   {
-    "id": "manantali-dam-economic-v2",
+    "id": "manantali-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foyer de Manantali",
+                  "text": "Dieses Kunstzentrum am riesigen Manantali-Staudamm dient als kultureller Treffpunkt für die umliegende Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.448324,
+                        13.201464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foyer de Manantali",
+                  "text": "A hatalmas Manantali-gátnál található művészeti központ kulturális találkozóhelyként szolgál a környező közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.448324,
+                        13.201464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foyer de Manantali",
+                  "text": "Situat lângă imensul baraj Manantali, acest centru de arte funcționează ca un punct de întâlnire culturală pentru comunitatea din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.448324,
+                        13.201464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foyer de Manantali",
+                  "text": "Situated by the immense Manantali Dam, this arts centre acts as a cultural gathering hub for the surrounding community.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.448324,
+                        13.201464
+                  ]
+            }
+      ]
+},
     "type": "industry",
     "parent": "ML-KAY",
     "coords": [
@@ -1067,7 +1310,52 @@ export const poiExtraMaliEconomicV2: POI[] = [
     },
   },
   {
-    "id": "gouina-hydroelectric-plant-economic-v2",
+    "id": "gouina-hydroelectric-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chutes de Gouina",
+                  "text": "Die Chutes de Gouina sind ein spektakulärer hufeisenförmiger Wasserfall, der durch die felsigen Barrieren des Senegal-Flusses bricht.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.102472,
+                        14.015185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chutes de Gouina",
+                  "text": "A Chutes de Gouina egy látványos, patkó alakú vízesés, amely a Szenegál-folyó sziklás gátjain tör át.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.102472,
+                        14.015185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chutes de Gouina",
+                  "text": "Chutes de Gouina este o cascadă spectaculoasă în formă de potcoavă, care rupe barierele stâncoase ale râului Senegal.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.102472,
+                        14.015185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chutes de Gouina",
+                  "text": "Chutes de Gouina is a spectacular horseshoe-shaped waterfall crashing over the rocky barriers of the Senegal River.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.102472,
+                        14.015185
+                  ]
+            }
+      ]
+},
     "type": "industry",
     "parent": "ML-KAY",
     "coords": [
@@ -1179,7 +1467,196 @@ export const poiExtraMaliEconomicV2: POI[] = [
     },
   },
   {
-    "id": "sotuba-hydroelectric-plant-economic-v2",
+    "id": "sotuba-hydroelectric-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Hamidou Toure",
+                  "text": "Diese bemerkenswerte Wohnattraktion in der Nähe des Wasserkraftwerks Sotuba zeigt die charakteristische urbane malische Wohnarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.907154,
+                        12.671145
+                  ]
+            },
+            {
+                  "name": "Park Happy Hour",
+                  "text": "Dieser lebhafte Themenpark bietet Familienunterhaltung mit farbenfrohen Fahrgeschäften in der Nähe von Sotuba.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.915279,
+                        12.63686
+                  ]
+            },
+            {
+                  "name": "monument, porteurdu drapeau du 05 sept 1961en mosaique",
+                  "text": "Dieses markante Mosaikdenkmal stellt einen Fahnenträger vom 5. September 1961 dar und verewigt einen Schlüsselmoment der malischen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931986,
+                        12.653604
+                  ]
+            },
+            {
+                  "name": "Monument du Groupe de Combattants à l'Assaut",
+                  "text": "Dieses militärische Denkmal in der Nähe von Sotuba ist tapferen Soldaten gewidmet und fängt die Intensität einer Infanterie-Angriffsgruppe ein.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931831,
+                        12.655246
+                  ]
+            },
+            {
+                  "name": "CHEZ DAMO",
+                  "text": "Dieses moderne Herrenhaus in der Nähe des Wasserkraftwerks Sotuba wurde Anfang 2026 fertiggestellt und verbindet zeitgenössischen Luxus mit lokalem Design.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914621,
+                        12.680385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Hamidou Toure",
+                  "text": "Ez a Sotuba vízerőmű közelében található figyelemre méltó lakóépület a jellegzetes városi mali otthoni építészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.907154,
+                        12.671145
+                  ]
+            },
+            {
+                  "name": "Park Happy Hour",
+                  "text": "Ez a nyüzsgő vidámpark családi szórakozást kínál színes vidámparki túrákkal Sotuba térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.915279,
+                        12.63686
+                  ]
+            },
+            {
+                  "name": "monument, porteurdu drapeau du 05 sept 1961en mosaique",
+                  "text": "Ez a feltűnő mozaik emlékmű egy 1961. szeptember 5-i zászlóvivőt ábrázol, megörökítve a mali történelem egy kulcsfontosságú pillanatát.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931986,
+                        12.653604
+                  ]
+            },
+            {
+                  "name": "Monument du Groupe de Combattants à l'Assaut",
+                  "text": "A bátor katonáknak szentelt Sotuba melletti katonai emlékmű a gyalogsági támadócsoportok intenzitását örökíti meg.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931831,
+                        12.655246
+                  ]
+            },
+            {
+                  "name": "CHEZ DAMO",
+                  "text": "A 2026 elején befejezett modern kúria a Sotuba vízerőmű közelében a kortárs luxust a helyi dizájnnal ötvözi.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914621,
+                        12.680385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Hamidou Toure",
+                  "text": "Această atracție rezidențială notabilă din apropierea centralei hidroelectrice Sotuba prezintă arhitectura urbană caracteristică a casei maliene.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.907154,
+                        12.671145
+                  ]
+            },
+            {
+                  "name": "Park Happy Hour",
+                  "text": "Acest parc tematic plin de viață oferă divertisment de familie, cu atracții de agrement colorate în zona Sotuba.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.915279,
+                        12.63686
+                  ]
+            },
+            {
+                  "name": "monument, porteurdu drapeau du 05 sept 1961en mosaique",
+                  "text": "Acest monument de mozaic impresionant înfățișează un purtător de steag din 5 septembrie 1961, imortalizând un moment cheie în istoria Maliană.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931986,
+                        12.653604
+                  ]
+            },
+            {
+                  "name": "Monument du Groupe de Combattants à l'Assaut",
+                  "text": "Dedicat soldaților curajoși, acest monument militar din apropiere de Sotuba surprinde intensitatea unui grup de asalt de infanterie.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931831,
+                        12.655246
+                  ]
+            },
+            {
+                  "name": "CHEZ DAMO",
+                  "text": "Finalizat la începutul anului 2026, acest conac modern din apropierea centralei hidroelectrice Sotuba îmbină luxul contemporan cu designul local.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914621,
+                        12.680385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Hamidou Toure",
+                  "text": "This notable residential attraction near the Sotuba Hydroelectric Plant showcases characteristic urban Malian home architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.907154,
+                        12.671145
+                  ]
+            },
+            {
+                  "name": "Park Happy Hour",
+                  "text": "This lively theme park provides family entertainment with colorful amusement rides near the Sotuba area.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.915279,
+                        12.63686
+                  ]
+            },
+            {
+                  "name": "monument, porteurdu drapeau du 05 sept 1961en mosaique",
+                  "text": "This striking mosaic monument depicts a flag bearer from September 5, 1961, immortalising a key moment in Malian history.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931986,
+                        12.653604
+                  ]
+            },
+            {
+                  "name": "Monument du Groupe de Combattants à l'Assaut",
+                  "text": "Dedicated to valiant soldiers, this military monument near Sotuba captures the intensity of an infantry assault group.",
+                  "category": "historical",
+                  "coords": [
+                        -7.931831,
+                        12.655246
+                  ]
+            },
+            {
+                  "name": "CHEZ DAMO",
+                  "text": "Completed in early 2026, this modern manor estate near the Sotuba Hydroelectric Plant blends contemporary luxury with local design.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914621,
+                        12.680385
+                  ]
+            }
+      ]
+},
     "type": "industry",
     "parent": "ML-BKO",
     "coords": [
@@ -1291,7 +1768,88 @@ export const poiExtraMaliEconomicV2: POI[] = [
     },
   },
   {
-    "id": "bamako-industrial-zone-economic-v2",
+    "id": "bamako-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "LUNAPARC",
+                  "text": "Der LUNAPARC bietet Fahrgeschäfte und Freizeitaktivitäten inmitten der geschäftigen Industriezone von Bamako.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.962381,
+                        12.658534
+                  ]
+            },
+            {
+                  "name": "MUSO KUNDA",
+                  "text": "Muso Kunda ist ein einzigartiges Museum in der Industriezone von Bamako, das sich der Geschichte und den kulturellen Beiträgen der Frauen in Mali widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.952772,
+                        12.667782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "LUNAPARC",
+                  "text": "A LUNAPARC vidámparki játékokat és szabadidős tevékenységeket kínál Bamako nyüzsgő ipari övezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.962381,
+                        12.658534
+                  ]
+            },
+            {
+                  "name": "MUSO KUNDA",
+                  "text": "A Muso Kunda egy egyedülálló múzeum Bamako ipari övezetében, amely a mali nők történelmének és kulturális hozzájárulásának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -7.952772,
+                        12.667782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "LUNAPARC",
+                  "text": "LUNAPARC oferă atracții de parc de distracții și activități recreative în mijlocul zonei industriale aglomerate din Bamako.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.962381,
+                        12.658534
+                  ]
+            },
+            {
+                  "name": "MUSO KUNDA",
+                  "text": "Muso Kunda este un muzeu unic în zona industrială din Bamako, dedicat celebrării istoriei femeilor și contribuțiilor lor culturale în Mali.",
+                  "category": "museum",
+                  "coords": [
+                        -7.952772,
+                        12.667782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "LUNAPARC",
+                  "text": "LUNAPARC provides amusement rides and recreational activities amid the bustling Bamako Industrial Zone.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.962381,
+                        12.658534
+                  ]
+            },
+            {
+                  "name": "MUSO KUNDA",
+                  "text": "Muso Kunda is a unique museum in the Bamako Industrial Zone dedicated to celebrating women's history and cultural contributions in Mali.",
+                  "category": "museum",
+                  "coords": [
+                        -7.952772,
+                        12.667782
+                  ]
+            }
+      ]
+},
     "type": "industry",
     "parent": "ML-BKO",
     "coords": [
@@ -1347,7 +1905,52 @@ export const poiExtraMaliEconomicV2: POI[] = [
     },
   },
   {
-    "id": "kita-peanut-processing-economic-v2",
+    "id": "kita-peanut-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin",
+                  "text": "Diese historische ländliche Windmühlenstruktur wurde traditionell für die landwirtschaftliche Verarbeitung im Erdnussanbaugebiet Kita genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.494455,
+                        13.041889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin",
+                  "text": "Ezt a történelmi vidéki szélmalmot hagyományosan mezőgazdasági feldolgozásra használták a kitai földimogyoró-termesztő vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.494455,
+                        13.041889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin",
+                  "text": "Această structură de moară de vânt rurală istorică a fost folosită tradițional pentru prelucrarea agricolă în zona de cultivare a arahidelor din Kita.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.494455,
+                        13.041889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin",
+                  "text": "This historic rural windmill structure was traditionally used in agricultural processing in the Kita peanut growing area.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.494455,
+                        13.041889
+                  ]
+            }
+      ]
+},
     "type": "industry",
     "parent": "ML-KAY",
     "coords": [

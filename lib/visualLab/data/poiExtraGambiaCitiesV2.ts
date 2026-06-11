@@ -861,7 +861,52 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/bansang-cities-v2.webp"
   },
   {
-    id: "barra-cities-v2",
+    id: "barra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Bullen",
+                  "text": "Dieses denkmalgeschützte Fort in Barra wurde 1826 erbaut, um den Sklavenhandel an der Mündung des Gambia-Flusses zu bekämpfen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.548669,
+                        13.48749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Bullen",
+                  "text": "Ezt a barra-i műemlékerődöt 1826-ban építették, hogy megakadályozzák a rabszolgakereskedelmet a Gambia folyó torkolatánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.548669,
+                        13.48749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Bullen",
+                  "text": "Acest fort de patrimoniu din Barra a fost construit în 1826 pentru a combate comerțul cu sclavi la gura râului Gambia.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.548669,
+                        13.48749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Bullen",
+                  "text": "Constructed in 1826, this heritage-listed fort in Barra was established to thwart the slave trade at the mouth of the Gambia River.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.548669,
+                        13.48749
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-N",
     coords: [-16.545, 13.4833],
@@ -2205,7 +2250,52 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/kanifing-cities-v2.webp"
   },
   {
-    id: "bundung-cities-v2",
+    id: "bundung-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto ist ein lokales historisches Denkmal, das als Wahrzeichen in der Gegend von bundung-cities-v2 dient.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "A Tallinding Sitokoto egy helyi történelmi emlékmű, amely tájékozódási pontként szolgál bundung-cities-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto este un monument istoric local care servește ca reper în zona bundung-cities-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto is a local historical monument serving as a landmark in the bundung-cities-v2 area.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6667, 13.4167],
@@ -2700,7 +2790,52 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/abuko-cities-v2.webp"
   },
   {
-    id: "batokunku-cities-v2",
+    id: "batokunku-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "art village turning",
+                  "text": "Ein künstlerischer lokaler Wendepunkt, der Besucher mit seiner kreativen Gemeinschaftsatmosphäre anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "art village turning",
+                  "text": "Művészeti helyi csomópont, amely kreatív közösségi atmoszférájával vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "art village turning",
+                  "text": "Un punct de cotitură artistic local care atrage vizitatorii prin atmosfera sa creativă de comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "art village turning",
+                  "text": "An artistic local turning point that draws visitors with its creative communal atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.8, 13.3167],
@@ -4212,7 +4347,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "San Domingo",
-                  "text": "San Domingo sind historische Ruinen in Albreda.",
+                  "text": "San Domingo in Albreda ist eine Handelsstation aus dem 15. Jahrhundert, UNESCO-Weltkulturerbe.",
                   "category": "historical",
                   "coords": [
                         -16.385635,
@@ -4250,7 +4385,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "San Domingo",
-                  "text": "San Domingo történelmi romok Albreda területén.",
+                  "text": "Az Albreda-i San Domingo egy 15. századi kereskedelmi telep, UNESCO világörökség.",
                   "category": "historical",
                   "coords": [
                         -16.385635,
@@ -4288,7 +4423,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "San Domingo",
-                  "text": "San Domingo reprezintă niște ruine istorice din Albreda.",
+                  "text": "San Domingo din Albreda, un post comercial din secolul al XV-lea, Patrimoniu UNESCO.",
                   "category": "historical",
                   "coords": [
                         -16.385635,
@@ -4326,7 +4461,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "San Domingo",
-                  "text": "San Domingo features historic ruins in Albreda.",
+                  "text": "San Domingo in Albreda, a 15th-century trading post, is a UNESCO World Heritage site.",
                   "category": "historical",
                   "coords": [
                         -16.385635,

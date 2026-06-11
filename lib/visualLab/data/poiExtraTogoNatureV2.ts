@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraTogoNatureV2: POI[] = [
   {
-    id: "lake-togo-nature-v2",
+    id: "lake-togo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrefour Deux Lions",
+                  "text": "Das Carrefour Deux Lions ist ein markantes Denkmal mit Löwensymbolik in der Nähe der Naturlandschaft des Togo-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        1.18852,
+                        6.217656
+                  ]
+            },
+            {
+                  "name": "FIL O PARC",
+                  "text": "FIL O PARC ist eine familienfreundliche Outdoor-Attraktion in der malerischen Umgebung des Togo-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        1.210128,
+                        6.233742
+                  ]
+            },
+            {
+                  "name": "Ikad design",
+                  "text": "Ikad Design ist ein kreatives Kunstzentrum, das lokales Handwerk in der Nähe der Naturlandschaften des Togo-Sees ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        1.220426,
+                        6.23274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrefour Deux Lions",
+                  "text": "A Carrefour Deux Lions egy oroszlánokat ábrázoló jellegzetes emlékmű a Togo-tó természeti környezetének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.18852,
+                        6.217656
+                  ]
+            },
+            {
+                  "name": "FIL O PARC",
+                  "text": "A FIL O PARC egy családbarát szabadtéri látványosság, amely a Togo-tó festői környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        1.210128,
+                        6.233742
+                  ]
+            },
+            {
+                  "name": "Ikad design",
+                  "text": "Az Ikad design egy kreatív művészeti központ, amely a Togo-tó közelében mutatja be a helyi kézművességet.",
+                  "category": "cultural",
+                  "coords": [
+                        1.220426,
+                        6.23274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrefour Deux Lions",
+                  "text": "Carrefour Deux Lions este un monument distinctiv cu simbolistica unor lei, situat în apropierea peisajului natural al Lacului Togo.",
+                  "category": "historical",
+                  "coords": [
+                        1.18852,
+                        6.217656
+                  ]
+            },
+            {
+                  "name": "FIL O PARC",
+                  "text": "FIL O PARC este o atracție în aer liber dedicată familiilor, amplasată în mediul pitoresc din jurul Lacului Togo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.210128,
+                        6.233742
+                  ]
+            },
+            {
+                  "name": "Ikad design",
+                  "text": "Ikad design este un centru de artă creativă care prezintă meșteșugurile locale în apropierea peisajelor naturale ale Lacului Togo.",
+                  "category": "cultural",
+                  "coords": [
+                        1.220426,
+                        6.23274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrefour Deux Lions",
+                  "text": "The Carrefour Deux Lions is a distinct monument featuring lion symbolism situated near the natural expanse of Lake Togo.",
+                  "category": "historical",
+                  "coords": [
+                        1.18852,
+                        6.217656
+                  ]
+            },
+            {
+                  "name": "FIL O PARC",
+                  "text": "FIL O PARC is a family-oriented outdoor attraction located in the scenic environment around Lake Togo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.210128,
+                        6.233742
+                  ]
+            },
+            {
+                  "name": "Ikad design",
+                  "text": "Ikad design is a creative arts centre showcasing local craftsmanship near the natural landscapes of Lake Togo.",
+                  "category": "cultural",
+                  "coords": [
+                        1.220426,
+                        6.23274
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TG-M",
     coords: [1.23, 6.25],
@@ -51,7 +168,52 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-agou-nature-v2",
+    id: "mount-agou-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Agou",
+                  "text": "Der Mont Agou ist mit seiner markanten Erhebung der höchste Berg Togos.",
+                  "category": "natural",
+                  "coords": [
+                        0.748177,
+                        6.872156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Agou",
+                  "text": "A Mont Agou Togo legmagasabb hegye, amely kiemelkedik a környező tájból.",
+                  "category": "natural",
+                  "coords": [
+                        0.748177,
+                        6.872156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Agou",
+                  "text": "Mont Agou este cel mai înalt munte din Togo, remarcându-se în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        0.748177,
+                        6.872156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Agou",
+                  "text": "Mont Agou is the highest mountain peak in Togo, dominating the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        0.748177,
+                        6.872156
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TG-P",
     coords: [0.75, 6.87],
@@ -241,7 +403,52 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "fosse-aux-lions-forest-nature-v2",
+    id: "fosse-aux-lions-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grottes de Nok UNESCO entrée",
+                  "text": "Dieser Aussichtspunkt markiert den steinigen Eingang zu den Nok-Höhlen, einer alten Zufluchtsstätte in den schroffen Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        0.140938,
+                        10.671129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grottes de Nok UNESCO entrée",
+                  "text": "Ez a kilátó a Nok-barlangok köves bejáratát jelzi, amely egy ősi menedékhely a zord sziklákba vájva.",
+                  "category": "natural",
+                  "coords": [
+                        0.140938,
+                        10.671129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grottes de Nok UNESCO entrée",
+                  "text": "Acest punct de belvedere marchează intrarea pietroasă în Peșterile Nok, un vechi loc de refugiu așezat în stâncile abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        0.140938,
+                        10.671129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grottes de Nok UNESCO entrée",
+                  "text": "This viewpoint marks the stony entrance to the Nok Caves, an ancient refuge site set into the rugged cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        0.140938,
+                        10.671129
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TG-S",
     coords: [0.15, 10.75],
@@ -337,7 +544,52 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-malfakassa-nature-v2",
+    id: "mount-malfakassa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fazao-Malfakassa Nationalpark",
+                  "text": "Dieses bergige Naturschutzgebiet umfasst die bewaldeten Hänge des Mount Malfakassa in Togo.",
+                  "category": "natural",
+                  "coords": [
+                        0.806952,
+                        8.737758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Fazao-Malfakassa",
+                  "text": "Ez a hegyvidéki természetvédelmi terület a togói Malfakassa-hegy erdős lejtőit foglalja magába.",
+                  "category": "natural",
+                  "coords": [
+                        0.806952,
+                        8.737758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Fazao-Malfakassa",
+                  "text": "Această rezervație naturală muntoasă cuprinde pantele împădurite ale Muntelui Malfakassa din Togo.",
+                  "category": "natural",
+                  "coords": [
+                        0.806952,
+                        8.737758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fazao-Malfakassa National Park",
+                  "text": "This mountainous nature reserve encompasses the forested slopes of Mount Malfakassa in Togo.",
+                  "category": "natural",
+                  "coords": [
+                        0.806952,
+                        8.737758
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TG-C",
     coords: [0.80, 8.80],
@@ -385,7 +637,52 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-koranga-nature-v2",
+    id: "mount-koranga-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin de Sirka centre",
+                  "text": "Die Windmühle im Zentrum von Sirka ist ein seltenes Beispiel lokaler Mühlenarchitektur nahe dem Mount Koranga.",
+                  "category": "landmark",
+                  "coords": [
+                        1.327716,
+                        9.553361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin de Sirka centre",
+                  "text": "A Sirka központjában található szélmalom a helyi malomépítészet ritka példája a Koranga-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.327716,
+                        9.553361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin de Sirka centre",
+                  "text": "Moara de vânt din centrul localității Sirka este un exemplu rar de arhitectură a morilor locale lângă Muntele Koranga.",
+                  "category": "landmark",
+                  "coords": [
+                        1.327716,
+                        9.553361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin de Sirka centre",
+                  "text": "The windmill in the center of Sirka is a rare example of local mill architecture near Mount Koranga.",
+                  "category": "landmark",
+                  "coords": [
+                        1.327716,
+                        9.553361
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TG-K",
     coords: [1.30, 9.60],
@@ -529,7 +826,160 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "sio-river-nature-v2",
+    id: "sio-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yesuvito (Rond point)",
+                  "text": "Ein Kreisverkehr als markanter Orientierungspunkt in der Nähe des Flusses Sio.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110425,
+                        6.340625
+                  ]
+            },
+            {
+                  "name": "Monument de l'indépendance",
+                  "text": "Ein Unabhängigkeitsdenkmal in der Landschaft nahe des Flusses Sio.",
+                  "category": "historical",
+                  "coords": [
+                        1.109548,
+                        6.34194
+                  ]
+            },
+            {
+                  "name": "ferme d'Aquaculture La Main de Dieu",
+                  "text": "Eine Aquakulturfarm in der ländlichen Umgebung des Flusses Sio.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110086,
+                        6.356587
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "Eine traditionelle Windmühle in der landwirtschaftlichen Gegend nahe des Flusses Sio.",
+                  "category": "landmark",
+                  "coords": [
+                        1.130051,
+                        6.274405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yesuvito (Rond point)",
+                  "text": "Egy körforgalom, amely jellegzetes tájékozódási pontként szolgál a Sio folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110425,
+                        6.340625
+                  ]
+            },
+            {
+                  "name": "Monument de l'indépendance",
+                  "text": "Egy függetlenségi emlékmű a Sio folyóhoz közeli tájon.",
+                  "category": "historical",
+                  "coords": [
+                        1.109548,
+                        6.34194
+                  ]
+            },
+            {
+                  "name": "ferme d'Aquaculture La Main de Dieu",
+                  "text": "Egy akvakultúra-farm a Sio folyó vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110086,
+                        6.356587
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "Egy hagyományos szélmalom a Sio folyó körüli mezőgazdasági területen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.130051,
+                        6.274405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yesuvito (Rond point)",
+                  "text": "Un sens giratoriu care servește drept punct de reper în apropierea râului Sio.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110425,
+                        6.340625
+                  ]
+            },
+            {
+                  "name": "Monument de l'indépendance",
+                  "text": "Un monument al independenței situat în peisajul din apropierea râului Sio.",
+                  "category": "historical",
+                  "coords": [
+                        1.109548,
+                        6.34194
+                  ]
+            },
+            {
+                  "name": "ferme d'Aquaculture La Main de Dieu",
+                  "text": "O fermă de acvacultură situată în zona rurală din jurul râului Sio.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110086,
+                        6.356587
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "O moară de vânt tradițională în zona agricolă din apropierea râului Sio.",
+                  "category": "landmark",
+                  "coords": [
+                        1.130051,
+                        6.274405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yesuvito (Rond point)",
+                  "text": "A roundabout serving as a distinctive landmark near the Sio River.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110425,
+                        6.340625
+                  ]
+            },
+            {
+                  "name": "Monument de l'indépendance",
+                  "text": "An independence monument set in the landscape near the Sio River.",
+                  "category": "historical",
+                  "coords": [
+                        1.109548,
+                        6.34194
+                  ]
+            },
+            {
+                  "name": "ferme d'Aquaculture La Main de Dieu",
+                  "text": "An aquaculture farm located in the rural setting of the Sio River.",
+                  "category": "landmark",
+                  "coords": [
+                        1.110086,
+                        6.356587
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "A traditional windmill situated in the agricultural area near the Sio River.",
+                  "category": "landmark",
+                  "coords": [
+                        1.130051,
+                        6.274405
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TG-M",
     coords: [1.10, 6.30],
@@ -744,7 +1194,88 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "aledjo-forest-nature-v2",
+    id: "aledjo-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tde",
+                  "text": "Der Tde-Wasserpark bietet aquatische Erholung mit erfrischenden Pools in der Nähe des grünen Alédjo-Waldes.",
+                  "category": "recreational",
+                  "coords": [
+                        1.215173,
+                        9.201543
+                  ]
+            },
+            {
+                  "name": "Faille d'Alédjo",
+                  "text": "Die Alédjo-Verwerfung ist eine spektakuläre natürliche Felsspalte, durch die die Nationalstraße auf dramatische Weise führt.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217709,
+                        9.274538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tde",
+                  "text": "A Tde vízipark frissítő medencékkel kínál vízi kikapcsolódást a zöldellő Alédjo erdő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.215173,
+                        9.201543
+                  ]
+            },
+            {
+                  "name": "Faille d'Alédjo",
+                  "text": "Az Alédjo-törésvonal egy látványos természetes sziklahasadék, amelyen a nemzeti autópálya drámai módon halad keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217709,
+                        9.274538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tde",
+                  "text": "Parcul acvatic Tde oferă recreere acvatică, cu piscine revigorante, fiind amplasat lângă pădurea înverzită Alédjo.",
+                  "category": "recreational",
+                  "coords": [
+                        1.215173,
+                        9.201543
+                  ]
+            },
+            {
+                  "name": "Faille d'Alédjo",
+                  "text": "Falia Alédjo este o crăpătură spectaculoasă în stâncă naturală, prin care trece dramatic autostrada națională.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217709,
+                        9.274538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tde",
+                  "text": "The Tde water park provides aquatic recreation with refreshing pools nestled near the verdant Alédjo forest.",
+                  "category": "recreational",
+                  "coords": [
+                        1.215173,
+                        9.201543
+                  ]
+            },
+            {
+                  "name": "Faille d'Alédjo",
+                  "text": "The Alédjo Fault is a spectacular natural rock cleft where the national highway dramatically passes right through the stone.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217709,
+                        9.274538
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TG-C",
     coords: [1.20, 9.25],
@@ -888,7 +1419,52 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "koumongou-river-nature-v2",
+    id: "koumongou-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de Keran",
+                  "text": "Der Parc National de Keran ist ein bemerkenswertes Naturschutzgebiet, das für den Schutz der Savannenökosysteme rund um den Koumongou-Fluss bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        0.623784,
+                        10.096776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Keran",
+                  "text": "A Parc National de Keran egy nevezetes természetvédelmi terület, amely a Koumongou-folyó körüli szavanna ökoszisztémák megőrzéséről híres.",
+                  "category": "natural",
+                  "coords": [
+                        0.623784,
+                        10.096776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Keran",
+                  "text": "Parc National de Keran este o rezervație naturală notabilă, renumită pentru protejarea ecosistemelor de savană din jurul râului Koumongou.",
+                  "category": "natural",
+                  "coords": [
+                        0.623784,
+                        10.096776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National de Keran",
+                  "text": "Parc National de Keran is a notable nature reserve renowned for safeguarding the savanna ecosystems around the Koumongou River.",
+                  "category": "natural",
+                  "coords": [
+                        0.623784,
+                        10.096776
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TG-K",
     coords: [0.60, 10.10],
@@ -984,7 +1560,88 @@ export const poiExtraTogoNatureV2: POI[] = [
     },
   },
   {
-    id: "cascade-kpime-forest-nature-v2",
+    id: "cascade-kpime-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "road to Agotimé",
+                  "text": "Eine landschaftlich reizvolle Route in der Nähe des Kpimé-Waldes, die malerische Ausblicke auf dem Weg in die Region Agotimé bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        0.681973,
+                        7.015412
+                  ]
+            },
+            {
+                  "name": "Cascade de Kpimé",
+                  "text": "Ein dramatischer natürlicher Wasserfall, umgeben von üppigem tropischem Wald in der Nähe von Kpalimé.",
+                  "category": "landmark",
+                  "coords": [
+                        0.645588,
+                        7.008398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "road to Agotimé",
+                  "text": "Festői útvonal a Kpimé-erdő közelében, amely gyönyörű kilátást nyújt, ahogy az Agotimé régió felé halad.",
+                  "category": "landmark",
+                  "coords": [
+                        0.681973,
+                        7.015412
+                  ]
+            },
+            {
+                  "name": "Cascade de Kpimé",
+                  "text": "Látványos természetes vízesés, amelyet buja trópusi erdő vesz körül Kpalimé közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.645588,
+                        7.008398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "road to Agotimé",
+                  "text": "Un traseu pitoresc lângă pădurea Kpimé, care oferă vederi pitorești în timp ce duce spre regiunea Agotimé.",
+                  "category": "landmark",
+                  "coords": [
+                        0.681973,
+                        7.015412
+                  ]
+            },
+            {
+                  "name": "Cascade de Kpimé",
+                  "text": "O cascadă naturală spectaculoasă înconjurată de o pădure tropicală luxuriantă lângă Kpalimé.",
+                  "category": "landmark",
+                  "coords": [
+                        0.645588,
+                        7.008398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "road to Agotimé",
+                  "text": "A scenic route near the Kpimé forest offering picturesque views as it leads towards the Agotimé region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.681973,
+                        7.015412
+                  ]
+            },
+            {
+                  "name": "Cascade de Kpimé",
+                  "text": "A dramatic natural waterfall surrounded by lush tropical forest near Kpalimé.",
+                  "category": "landmark",
+                  "coords": [
+                        0.645588,
+                        7.008398
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TG-P",
     coords: [0.65, 7.00],

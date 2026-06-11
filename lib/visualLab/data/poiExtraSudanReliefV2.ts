@@ -255,7 +255,556 @@ export const poiExtraSudanReliefV2: POI[] = [
     },
   },
   {
-    id: "jebel-shabluka-relief-v2",
+    id: "jebel-shabluka-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Marwi",
+                  "text": "Diese felsige Erhebung erhebt sich aus den trockenen Ebenen, die die zerklüftete Shabluka-Region umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        32.8472,
+                        16.2608
+                  ]
+            },
+            {
+                  "name": "Jab`al Ab Zol",
+                  "text": "Ein isolierter Berggipfel mit kargen, steinigen Hängen, die charakteristisch für das lokale Wüstenrelief sind.",
+                  "category": "natural",
+                  "coords": [
+                        32.8339,
+                        16.2568
+                  ]
+            },
+            {
+                  "name": "Qal`at Bador",
+                  "text": "Dieser schroffe Gipfel bietet einen weiten Blick über die trockene, hügelige Landschaft der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        32.808,
+                        16.2392
+                  ]
+            },
+            {
+                  "name": "Jibelat Abu Mihereb",
+                  "text": "Charakterisiert durch steile felsige Hänge, ist dieser Wüstenhügel ein markantes Wahrzeichen im Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        32.8012,
+                        16.2264
+                  ]
+            },
+            {
+                  "name": "Jabal Gari",
+                  "text": "Diese markante topografische Erhebung besteht aus sonnenverbrannten Felsformationen, die im rauen Klima verwittern.",
+                  "category": "natural",
+                  "coords": [
+                        32.8009,
+                        16.2571
+                  ]
+            },
+            {
+                  "name": "Al Limmet",
+                  "text": "Ein kahler Berggipfel, der Teil der schroffen Bergkämme ist, die diese trockene Region dominieren.",
+                  "category": "natural",
+                  "coords": [
+                        32.7616,
+                        16.261
+                  ]
+            },
+            {
+                  "name": "Jabal Um Minedreba",
+                  "text": "Dieser erhöhte Felsenhügel hebt sich von der flachen, spärlichen Vegetation der umliegenden Ebene ab.",
+                  "category": "natural",
+                  "coords": [
+                        32.78,
+                        16.2259
+                  ]
+            },
+            {
+                  "name": "Jabal al Laghar",
+                  "text": "Der Gipfel dieses Wüstenberges besteht aus stark erodierten Felsbrocken und losem Geröll.",
+                  "category": "natural",
+                  "coords": [
+                        32.7289,
+                        16.2793
+                  ]
+            },
+            {
+                  "name": "Marwat Bit Abyad",
+                  "text": "Ein trockener, exponierter Berggipfel, der eine raue Herausforderung für lokale Wanderer darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        32.7896,
+                        16.3069
+                  ]
+            },
+            {
+                  "name": "Jebel Qarn Eleteiba",
+                  "text": "Diese Felsformation verfügt über zwei hornartige Gipfel, die schon von weitem über die Ebenen sichtbar sind.",
+                  "category": "natural",
+                  "coords": [
+                        32.773611,
+                        16.268333
+                  ]
+            },
+            {
+                  "name": "Qal‘at el Huwara",
+                  "text": "Ein erhöhter Plateau-Gipfel, der strategische Aussichtspunkte über das umliegende karge Gebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.8315,
+                        16.2635
+                  ]
+            },
+            {
+                  "name": "Qal‘at Mgheseba",
+                  "text": "Dieser steinige Hügel erhebt sich steil und wirft bei Sonnenaufgang deutliche Schatten auf den Wüstenboden.",
+                  "category": "natural",
+                  "coords": [
+                        32.836,
+                        16.2633
+                  ]
+            },
+            {
+                  "name": "Marwat Ab Qedom",
+                  "text": "Ein stark verwitterter Felsvorsprung, der das unnachgiebige lokale Gelände prägt.",
+                  "category": "natural",
+                  "coords": [
+                        32.8439,
+                        16.2895
+                  ]
+            },
+            {
+                  "name": "Jibelat al Khatwa",
+                  "text": "Dieser relativ niedrige Gipfel ist von verstreutem Wüstengestrüpp und staubigen, felsigen Ausläufern geprägt.",
+                  "category": "natural",
+                  "coords": [
+                        32.8308,
+                        16.2976
+                  ]
+            },
+            {
+                  "name": "Jabal Ed al Biweda",
+                  "text": "Eine imposante geologische Formation aus dunklem Stein, die im Kontrast zur helleren Sandelerde der Umgebung steht.",
+                  "category": "natural",
+                  "coords": [
+                        32.8358,
+                        16.2997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Marwi",
+                  "text": "Ez a sziklás magaslat a zord Shabluka régiót körülvevő száraz síkságokból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        32.8472,
+                        16.2608
+                  ]
+            },
+            {
+                  "name": "Jab`al Ab Zol",
+                  "text": "Egy elszigetelt hegycsúcs, amelynek kopár, köves lejtői a helyi sivatagi domborzatra jellemzőek.",
+                  "category": "natural",
+                  "coords": [
+                        32.8339,
+                        16.2568
+                  ]
+            },
+            {
+                  "name": "Qal`at Bador",
+                  "text": "Ez a zord hegycsúcs pazar kilátást nyújt a környék száraz, hullámzó tájára.",
+                  "category": "natural",
+                  "coords": [
+                        32.808,
+                        16.2392
+                  ]
+            },
+            {
+                  "name": "Jibelat Abu Mihereb",
+                  "text": "A meredek sziklás lejtőkkel jellemezhető sivatagi domb a terep jellegzetes tájékozódási pontja.",
+                  "category": "natural",
+                  "coords": [
+                        32.8012,
+                        16.2264
+                  ]
+            },
+            {
+                  "name": "Jabal Gari",
+                  "text": "Ez a kiemelkedő topográfiai képződmény a zord éghajlaton málló, napsütötte sziklaalakzatokból áll.",
+                  "category": "natural",
+                  "coords": [
+                        32.8009,
+                        16.2571
+                  ]
+            },
+            {
+                  "name": "Al Limmet",
+                  "text": "Egy kopár hegycsúcs, amely e száraz régiót uraló zord gerincek részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        32.7616,
+                        16.261
+                  ]
+            },
+            {
+                  "name": "Jabal Um Minedreba",
+                  "text": "Ez a magas, sziklás domb kiemelkedik a környező síkság lapos, gyér növényzetéből.",
+                  "category": "natural",
+                  "coords": [
+                        32.78,
+                        16.2259
+                  ]
+            },
+            {
+                  "name": "Jabal al Laghar",
+                  "text": "Ennek a sivatagi hegynek a csúcsa erősen erodált sziklákból és laza törmelékből áll.",
+                  "category": "natural",
+                  "coords": [
+                        32.7289,
+                        16.2793
+                  ]
+            },
+            {
+                  "name": "Marwat Bit Abyad",
+                  "text": "Egy száraz, kitett hegycsúcs, amely zord kihívást jelent a helyi túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        32.7896,
+                        16.3069
+                  ]
+            },
+            {
+                  "name": "Jebel Qarn Eleteiba",
+                  "text": "Ez a sziklás kiemelkedés ikerszarvszerű csúcsokkal rendelkezik, amelyek távolról is láthatóak a síkságon át.",
+                  "category": "natural",
+                  "coords": [
+                        32.773611,
+                        16.268333
+                  ]
+            },
+            {
+                  "name": "Qal‘at el Huwara",
+                  "text": "Egy magas fennsíki csúcs, amely stratégiai kilátópontokat biztosít a környező kopár terület felett.",
+                  "category": "natural",
+                  "coords": [
+                        32.8315,
+                        16.2635
+                  ]
+            },
+            {
+                  "name": "Qal‘at Mgheseba",
+                  "text": "Ez a köves domb meredeken emelkedik, és napkeltekor jellegzetes árnyékokat vet a sivatag talajára.",
+                  "category": "natural",
+                  "coords": [
+                        32.836,
+                        16.2633
+                  ]
+            },
+            {
+                  "name": "Marwat Ab Qedom",
+                  "text": "Erősen mállott sziklás kiszögellés, amely a zord helyi terepet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        32.8439,
+                        16.2895
+                  ]
+            },
+            {
+                  "name": "Jibelat al Khatwa",
+                  "text": "Ezt a viszonylag alacsony csúcsot elszórt sivatagi cserjések és poros, sziklás lábhegyek jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        32.8308,
+                        16.2976
+                  ]
+            },
+            {
+                  "name": "Jabal Ed al Biweda",
+                  "text": "Sötét kőzetből álló impozáns geológiai képződmény, amely elüt a körülötte lévő világosabb homokos földtől.",
+                  "category": "natural",
+                  "coords": [
+                        32.8358,
+                        16.2997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Marwi",
+                  "text": "Această proeminență stâncoasă se înalță din câmpiile aride care înconjoară regiunea accidentată Shabluka.",
+                  "category": "natural",
+                  "coords": [
+                        32.8472,
+                        16.2608
+                  ]
+            },
+            {
+                  "name": "Jab`al Ab Zol",
+                  "text": "Un vârf de munte izolat, cu pante aride și stâncoase caracteristice reliefului deșertic local.",
+                  "category": "natural",
+                  "coords": [
+                        32.8339,
+                        16.2568
+                  ]
+            },
+            {
+                  "name": "Qal`at Bador",
+                  "text": "Acest vârf stâncos oferă vederi ample asupra peisajului uscat și ondulat al zonei.",
+                  "category": "natural",
+                  "coords": [
+                        32.808,
+                        16.2392
+                  ]
+            },
+            {
+                  "name": "Jibelat Abu Mihereb",
+                  "text": "Caracterizat de pante stâncoase abrupte, acest deal din deșert este un punct de reper distinct în teren.",
+                  "category": "natural",
+                  "coords": [
+                        32.8012,
+                        16.2264
+                  ]
+            },
+            {
+                  "name": "Jabal Gari",
+                  "text": "Această caracteristică topografică proeminentă constă din formațiuni stâncoase arse de soare, care se uzează în climatul aspru.",
+                  "category": "natural",
+                  "coords": [
+                        32.8009,
+                        16.2571
+                  ]
+            },
+            {
+                  "name": "Al Limmet",
+                  "text": "Un vârf de munte golaș care face parte din crestele accidentate ce domină această regiune aridă.",
+                  "category": "natural",
+                  "coords": [
+                        32.7616,
+                        16.261
+                  ]
+            },
+            {
+                  "name": "Jabal Um Minedreba",
+                  "text": "Acest deal stâncos ridicat iese în evidență pe fundalul vegetației plate și rare a câmpiei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        32.78,
+                        16.2259
+                  ]
+            },
+            {
+                  "name": "Jabal al Laghar",
+                  "text": "Vârful acestui munte deșertic este compus din bolovani puternic erodați și grohotiș afânat.",
+                  "category": "natural",
+                  "coords": [
+                        32.7289,
+                        16.2793
+                  ]
+            },
+            {
+                  "name": "Marwat Bit Abyad",
+                  "text": "Un vârf de munte uscat și expus, care oferă o provocare dificilă pentru orice drumeț local.",
+                  "category": "natural",
+                  "coords": [
+                        32.7896,
+                        16.3069
+                  ]
+            },
+            {
+                  "name": "Jebel Qarn Eleteiba",
+                  "text": "Această proeminență stâncoasă prezintă două vârfuri sub formă de corn vizibile de la distanță peste câmpii.",
+                  "category": "natural",
+                  "coords": [
+                        32.773611,
+                        16.268333
+                  ]
+            },
+            {
+                  "name": "Qal‘at el Huwara",
+                  "text": "Un vârf de platou înalt care oferă puncte de observație strategice asupra teritoriului arid înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        32.8315,
+                        16.2635
+                  ]
+            },
+            {
+                  "name": "Qal‘at Mgheseba",
+                  "text": "Acest deal pietros se înalță brusc, creând umbre distincte pe fundul deșertului la răsărit.",
+                  "category": "natural",
+                  "coords": [
+                        32.836,
+                        16.2633
+                  ]
+            },
+            {
+                  "name": "Marwat Ab Qedom",
+                  "text": "Un afloriment stâncos puternic erodat care caracterizează terenul local neclintit.",
+                  "category": "natural",
+                  "coords": [
+                        32.8439,
+                        16.2895
+                  ]
+            },
+            {
+                  "name": "Jibelat al Khatwa",
+                  "text": "Acest vârf relativ scăzut este marcat de tufișuri de deșert împrăștiate și poale prăfuite și stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        32.8308,
+                        16.2976
+                  ]
+            },
+            {
+                  "name": "Jabal Ed al Biweda",
+                  "text": "O formațiune geologică impunătoare din piatră întunecată care contrastează cu pământul nisipos mai deschis din jurul ei.",
+                  "category": "natural",
+                  "coords": [
+                        32.8358,
+                        16.2997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Marwi",
+                  "text": "This rocky prominence rises from the arid plains surrounding the rugged Shabluka region.",
+                  "category": "natural",
+                  "coords": [
+                        32.8472,
+                        16.2608
+                  ]
+            },
+            {
+                  "name": "Jab`al Ab Zol",
+                  "text": "An isolated mountain peak featuring barren, stony slopes characteristic of the local desert relief.",
+                  "category": "natural",
+                  "coords": [
+                        32.8339,
+                        16.2568
+                  ]
+            },
+            {
+                  "name": "Qal`at Bador",
+                  "text": "This craggy summit provides sweeping views over the dry, undulating landscape of the area.",
+                  "category": "natural",
+                  "coords": [
+                        32.808,
+                        16.2392
+                  ]
+            },
+            {
+                  "name": "Jibelat Abu Mihereb",
+                  "text": "Characterized by steep rocky inclines, this desert hill is a distinct landmark in the terrain.",
+                  "category": "natural",
+                  "coords": [
+                        32.8012,
+                        16.2264
+                  ]
+            },
+            {
+                  "name": "Jabal Gari",
+                  "text": "This prominent topographic feature consists of sun-baked rock formations weathering in the harsh climate.",
+                  "category": "natural",
+                  "coords": [
+                        32.8009,
+                        16.2571
+                  ]
+            },
+            {
+                  "name": "Al Limmet",
+                  "text": "A stark mountain peak that forms part of the rugged ridgelines dominating this arid region.",
+                  "category": "natural",
+                  "coords": [
+                        32.7616,
+                        16.261
+                  ]
+            },
+            {
+                  "name": "Jabal Um Minedreba",
+                  "text": "This elevated rocky hill stands out against the flat, sparse vegetation of the surrounding plain.",
+                  "category": "natural",
+                  "coords": [
+                        32.78,
+                        16.2259
+                  ]
+            },
+            {
+                  "name": "Jabal al Laghar",
+                  "text": "The summit of this desert mountain is composed of heavily eroded boulders and loose scree.",
+                  "category": "natural",
+                  "coords": [
+                        32.7289,
+                        16.2793
+                  ]
+            },
+            {
+                  "name": "Marwat Bit Abyad",
+                  "text": "A dry, exposed mountain peak that offers a rugged challenge for any local hikers.",
+                  "category": "natural",
+                  "coords": [
+                        32.7896,
+                        16.3069
+                  ]
+            },
+            {
+                  "name": "Jebel Qarn Eleteiba",
+                  "text": "This rocky prominence features twin horn-like summits visible from a distance across the plains.",
+                  "category": "natural",
+                  "coords": [
+                        32.773611,
+                        16.268333
+                  ]
+            },
+            {
+                  "name": "Qal`at el Huwara",
+                  "text": "An elevated plateau peak providing strategic vantage points over the surrounding barren territory.",
+                  "category": "natural",
+                  "coords": [
+                        32.8315,
+                        16.2635
+                  ]
+            },
+            {
+                  "name": "Qal`at Mgheseba",
+                  "text": "This stony hill rises sharply, creating distinct shadows on the desert floor during sunrise.",
+                  "category": "natural",
+                  "coords": [
+                        32.836,
+                        16.2633
+                  ]
+            },
+            {
+                  "name": "Marwat Ab Qedom",
+                  "text": "A heavily weathered rocky outcropping that characterizes the unyielding local terrain.",
+                  "category": "natural",
+                  "coords": [
+                        32.8439,
+                        16.2895
+                  ]
+            },
+            {
+                  "name": "Jibelat al Khatwa",
+                  "text": "This relatively low peak is marked by scattered desert scrub and dusty, rocky foothills.",
+                  "category": "natural",
+                  "coords": [
+                        32.8308,
+                        16.2976
+                  ]
+            },
+            {
+                  "name": "Jabal Ed al Biweda",
+                  "text": "An imposing geological formation of dark stone contrasting with the lighter sandy earth around it.",
+                  "category": "natural",
+                  "coords": [
+                        32.8358,
+                        16.2997
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SD-NR",
     coords: [32.8, 16.3],
@@ -435,7 +984,52 @@ export const poiExtraSudanReliefV2: POI[] = [
     },
   },
   {
-    id: "kosti-ridge-relief-v2",
+    id: "kosti-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bagdad",
+                  "text": "Ein markantes lokales Denkmal auf dem Bergrücken bei Kosti.",
+                  "category": "historical",
+                  "coords": [
+                        32.562001,
+                        13.180672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bagdad",
+                  "text": "Kosti közelében, a gerincen található jelentős helyi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        32.562001,
+                        13.180672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bagdad",
+                  "text": "Un monument local proeminent situat pe creasta din apropiere de Kosti.",
+                  "category": "historical",
+                  "coords": [
+                        32.562001,
+                        13.180672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bagdad",
+                  "text": "A prominent local monument situated along the ridge near Kosti.",
+                  "category": "historical",
+                  "coords": [
+                        32.562001,
+                        13.180672
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SD-WH",
     coords: [32.6, 13.2],
@@ -723,7 +1317,52 @@ export const poiExtraSudanReliefV2: POI[] = [
     },
   },
   {
-    id: "jebel-uwaynat-sudan-relief-v2",
+    id: "jebel-uwaynat-sudan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gebel el Uwaynat",
+                  "text": "Ein markanter Wüstengipfel, der an der rauen Grenzregion zwischen Ägypten, Libyen und dem Sudan aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        24.992451,
+                        21.913521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gebel el Uwaynat",
+                  "text": "Kiemelkedő sivatagi csúcs, amely Egyiptom, Líbia és Szudán zord hármashatárán magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        24.992451,
+                        21.913521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gebel el Uwaynat",
+                  "text": "Un vârf deșertic proeminent, care se înalță la intersecția granițelor stâncoase dintre Egipt, Libia și Sudan.",
+                  "category": "natural",
+                  "coords": [
+                        24.992451,
+                        21.913521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gebel el Uwaynat",
+                  "text": "A prominent desert peak towering at the rugged border junction of Egypt, Libya, and Sudan.",
+                  "category": "natural",
+                  "coords": [
+                        24.992451,
+                        21.913521
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SD-DN",
     coords: [25.0, 22.0],
@@ -759,7 +1398,88 @@ export const poiExtraSudanReliefV2: POI[] = [
     },
   },
   {
-    id: "dongola-plain-relief-v2",
+    id: "dongola-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kawa",
+                  "text": "Die antike Stadt Kawa besticht durch die Ruinen ägyptischer Tempel, die einst unter dem Sand der Dongola-Ebene begraben waren.",
+                  "category": "landmark",
+                  "coords": [
+                        30.498387,
+                        19.122241
+                  ]
+            },
+            {
+                  "name": "Temple of Taharqa",
+                  "text": "Der ausgegrabene Taharqa-Tempel ist ein antikes steinernes Heiligtum in der Dongola-Ebene, das dem Gott Amun gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        30.496961,
+                        19.123167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kawa",
+                  "text": "Kawa ókori városa az egyiptomi templomok romjaival rendelkezik, amelyeket egykor a Dongola-síkság homokja temetett el.",
+                  "category": "landmark",
+                  "coords": [
+                        30.498387,
+                        19.122241
+                  ]
+            },
+            {
+                  "name": "Temple of Taharqa",
+                  "text": "A feltárt Taharka templom a Dongola-síkságon található, és egy Amon istennek szentelt ősi kő szentély.",
+                  "category": "historical",
+                  "coords": [
+                        30.496961,
+                        19.123167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kawa",
+                  "text": "Orașul antic Kawa prezintă ruinele templelor egiptene care au fost odată îngropate sub nisipul câmpiei Dongola.",
+                  "category": "landmark",
+                  "coords": [
+                        30.498387,
+                        19.122241
+                  ]
+            },
+            {
+                  "name": "Temple of Taharqa",
+                  "text": "Templul excavat al lui Taharqa este un vechi sanctuar de piatră din câmpia Dongola dedicat zeului Amon.",
+                  "category": "historical",
+                  "coords": [
+                        30.496961,
+                        19.123167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kawa",
+                  "text": "The ancient town of Kawa features the ruins of Egyptian temples that were once buried beneath the sand of the Dongola plain.",
+                  "category": "landmark",
+                  "coords": [
+                        30.498387,
+                        19.122241
+                  ]
+            },
+            {
+                  "name": "Temple of Taharqa",
+                  "text": "The excavated Temple of Taharqa is an ancient stone sanctuary on the Dongola plain dedicated to the god Amun.",
+                  "category": "historical",
+                  "coords": [
+                        30.496961,
+                        19.123167
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SD-NR",
     coords: [30.5, 19.1],

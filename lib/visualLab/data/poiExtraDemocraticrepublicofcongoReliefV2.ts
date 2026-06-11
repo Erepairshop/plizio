@@ -147,7 +147,88 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
     },
   },
   {
-    id: "mont-muhi-relief-v2",
+    id: "mont-muhi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Mohi",
+                  "text": "Der Mont Mohi ist ein markanter Berggipfel, der im zerklüfteten Gelände des Mitumba-Gebirges steil aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        28.788113,
+                        -2.953391
+                  ]
+            },
+            {
+                  "name": "Mont Mushive",
+                  "text": "Der Mont Mushive ist ein bemerkenswerter geografischer Gipfel, der sich durch seine steilen, bewaldeten Hänge im afrikanischen Hochlandrelief auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        28.755997,
+                        -2.915475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Mohi",
+                  "text": "A Mont Mohi egy kiemelkedő hegycsúcs, amely meredeken emelkedik ki a Mitumba-hegység zord terepéből.",
+                  "category": "natural",
+                  "coords": [
+                        28.788113,
+                        -2.953391
+                  ]
+            },
+            {
+                  "name": "Mont Mushive",
+                  "text": "A Mont Mushive egy jelentős földrajzi csúcs, amelyet meredek, erdős lejtők jellemeznek az afrikai felvidéki domborzatban.",
+                  "category": "natural",
+                  "coords": [
+                        28.755997,
+                        -2.915475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Mohi",
+                  "text": "Mont Mohi este un vârf muntos proeminent care se înalță abrupt în terenul accidentat al Munților Mitumba.",
+                  "category": "natural",
+                  "coords": [
+                        28.788113,
+                        -2.953391
+                  ]
+            },
+            {
+                  "name": "Mont Mushive",
+                  "text": "Mont Mushive este un vârf geografic remarcabil, caracterizat de pantele sale abrupte și împădurite din relieful muntos african.",
+                  "category": "natural",
+                  "coords": [
+                        28.755997,
+                        -2.915475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Mohi",
+                  "text": "Mont Mohi is a prominent mountain peak rising steeply within the rugged terrain of the Mitumba Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        28.788113,
+                        -2.953391
+                  ]
+            },
+            {
+                  "name": "Mont Mushive",
+                  "text": "Mont Mushive is a notable geographic peak characterized by its steep, forested slopes in the African highland relief.",
+                  "category": "natural",
+                  "coords": [
+                        28.755997,
+                        -2.915475
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CD-SK",
     coords: [28.8, -2.9],
@@ -531,7 +612,52 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
     },
   },
   {
-    id: "ngiri-sumpfwald-relief-v2",
+    id: "ngiri-sumpfwald-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malele 2",
+                  "text": "Malele 2 bietet einen weiten Aussichtspunkt über die dichten Sumpfwälder von Ngiri und offenbart die komplizierte Gewässernetzwerke des Kongobeckens.",
+                  "category": "natural",
+                  "coords": [
+                        18.483841,
+                        0.982752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malele 2",
+                  "text": "A Malele 2 széles kilátást nyújt a Ngiri sűrű mocsári erdeire, felfedve a Kongó-medence bonyolult vízhálózatát.",
+                  "category": "natural",
+                  "coords": [
+                        18.483841,
+                        0.982752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malele 2",
+                  "text": "Malele 2 oferă un punct de belvedere amplu asupra pădurilor mlăștinoase dense din Ngiri, dezvăluind rețelele complexe de apă ale bazinului Congo.",
+                  "category": "natural",
+                  "coords": [
+                        18.483841,
+                        0.982752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malele 2",
+                  "text": "Malele 2 offers a sweeping viewpoint over the dense Ngiri swamp forests, revealing the intricate water networks of the Congo Basin.",
+                  "category": "natural",
+                  "coords": [
+                        18.483841,
+                        0.982752
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CD-EQ",
     coords: [18.5, 1.0],

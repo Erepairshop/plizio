@@ -51,7 +51,304 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       fr: ["Plus grand port d'Afrique de l'Est", "Centre commercial majeur"],
     }, image: "/poi-images/mombasa-port-economic-v2.webp"},
   {
-    id: "kisumu-port-economic-v2",
+    id: "kisumu-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo viewpoint",
+                  "text": "Ein beliebter Aussichtspunkt am See in Kisumu, der besonders für die Beobachtung von Nilpferden im Viktoriasee bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        34.742051,
+                        -0.124952
+                  ]
+            },
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "Ein regionales Museum, das die Kultur- und Naturgeschichte Westkenias, einschließlich traditioneller Luo-Gehöfte, präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "Eine hohe Aussichtsstruktur in Kisumu, die einen Panoramablick auf den Sonnenuntergang über der weiten Fläche des Viktoriasees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            },
+            {
+                  "name": "Milimani beach resort",
+                  "text": "Ein Erholungsort am See im gehobenen Viertel Milimani in Kisumu, der direkten Zugang zu den Ufern des Viktoriasees bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.735014,
+                        -0.139346
+                  ]
+            },
+            {
+                  "name": "Dunga Beach",
+                  "text": "Ein lebhafter Fischerstrand am Ufer des Viktoriasees, berühmt für frischen Tilapia und lokale Bootstouren.",
+                  "category": "recreational",
+                  "coords": [
+                        34.73668,
+                        -0.144622
+                  ]
+            },
+            {
+                  "name": "Bingo Beach",
+                  "text": "Eine entspannte Resortanlage am See, die Freizeitaktivitäten am Strand entlang der Küste von Kisumu anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.71309,
+                        -0.098987
+                  ]
+            },
+            {
+                  "name": "Locco Beach",
+                  "text": "Ein malerisches Küsten-Resort, das Freizeiteinrichtungen direkt am Rande des Viktoriasees in Kisumu bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.732634,
+                        -0.095641
+                  ]
+            },
+            {
+                  "name": "Kisumu Impala Wildlife Sanctuary",
+                  "text": "Ein geschütztes Seeheiligtum in Kisumu, das Herden von Impalas und anderen geretteten heimischen Wildtieren einen sicheren Hafen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744926,
+                        -0.115081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo viewpoint",
+                  "text": "Egy népszerű tóparti megfigyelőpont Kisumuban, amely kifejezetten a Viktória-tó vizében élő vízilovak megfigyeléséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        34.742051,
+                        -0.124952
+                  ]
+            },
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "Nyugat-Kenya kulturális és természeti történetét bemutató regionális múzeum, amely a hagyományos luo tanyákat is magában foglalja.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "Egy magas kilátóépítmény Kisumuban, amely panorámás kilátást nyújt a naplementére a Viktória-tó hatalmas kiterjedésén.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            },
+            {
+                  "name": "Milimani beach resort",
+                  "text": "Egy tóparti pihenőhely Kisumu elegáns Milimani negyedében, amely közvetlen hozzáférést biztosít a Viktória-tó partjához.",
+                  "category": "recreational",
+                  "coords": [
+                        34.735014,
+                        -0.139346
+                  ]
+            },
+            {
+                  "name": "Dunga Beach",
+                  "text": "Egy nyüzsgő halászstrand a Viktória-tó partján, amely híres a friss tilápiájáról és a helyi hajótúrákról.",
+                  "category": "recreational",
+                  "coords": [
+                        34.73668,
+                        -0.144622
+                  ]
+            },
+            {
+                  "name": "Bingo Beach",
+                  "text": "Egy nyugodt tóparti üdülőlétesítmény, amely rekreációs strandtevékenységeket kínál a kisumui partvonal mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        34.71309,
+                        -0.098987
+                  ]
+            },
+            {
+                  "name": "Locco Beach",
+                  "text": "Egy festői tengerparti üdülőhely, amely szabadidős kényelmet nyújt közvetlenül a Viktória-tó szélén Kisumuban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.732634,
+                        -0.095641
+                  ]
+            },
+            {
+                  "name": "Kisumu Impala Wildlife Sanctuary",
+                  "text": "Egy védett tóparti menedékhely Kisumuban, amely biztonságos otthont nyújt az impalacsordáknak és más megmentett őshonos vadon élő állatoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744926,
+                        -0.115081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo viewpoint",
+                  "text": "Un punct de observație popular pe malul lacului în Kisumu, cunoscut în mod special pentru zărirea hipopotamilor rezidenți în apele Lacului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        34.742051,
+                        -0.124952
+                  ]
+            },
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "Un muzeu regional ce prezintă istoria culturală și naturală a Kenyei de Vest, incluzând gospodării tradiționale Luo.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "O structură de observație înaltă din Kisumu, oferind vederi panoramice la apus peste imensa întindere a Lacului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            },
+            {
+                  "name": "Milimani beach resort",
+                  "text": "O destinație de agrement pe malul lacului, în cartierul exclusivist Milimani din Kisumu, oferind acces direct la țărmurile Lacului Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        34.735014,
+                        -0.139346
+                  ]
+            },
+            {
+                  "name": "Dunga Beach",
+                  "text": "O plajă de pescuit vibrantă pe țărmul Lacului Victoria, faimoasă pentru tilapia proaspătă și excursiile locale cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        34.73668,
+                        -0.144622
+                  ]
+            },
+            {
+                  "name": "Bingo Beach",
+                  "text": "O stațiune relaxantă pe malul lacului, oferind activități de agrement pe plajă de-a lungul coastei din Kisumu.",
+                  "category": "recreational",
+                  "coords": [
+                        34.71309,
+                        -0.098987
+                  ]
+            },
+            {
+                  "name": "Locco Beach",
+                  "text": "O stațiune pitorească de coastă ce oferă facilități de agrement chiar la marginea Lacului Victoria din Kisumu.",
+                  "category": "recreational",
+                  "coords": [
+                        34.732634,
+                        -0.095641
+                  ]
+            },
+            {
+                  "name": "Kisumu Impala Wildlife Sanctuary",
+                  "text": "Un sanctuar protejat pe malul lacului în Kisumu, care oferă un refugiu sigur pentru turmele de impala și alte animale sălbatice native salvate.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744926,
+                        -0.115081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo viewpoint",
+                  "text": "A popular lakeside observation point in Kisumu specifically known for spotting resident hippos in the waters of Lake Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        34.742051,
+                        -0.124952
+                  ]
+            },
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "A regional museum showcasing the cultural and natural history of Western Kenya, including traditional Luo homesteads.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "A tall observation structure in Kisumu offering panoramic sunset views across the vast expanse of Lake Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            },
+            {
+                  "name": "Milimani beach resort",
+                  "text": "A lakeside leisure retreat in the upscale Milimani neighborhood of Kisumu, offering direct access to the shores of Lake Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        34.735014,
+                        -0.139346
+                  ]
+            },
+            {
+                  "name": "Dunga Beach",
+                  "text": "A vibrant fishing beach on the shores of Lake Victoria, famous for its fresh tilapia and local boat tours.",
+                  "category": "recreational",
+                  "coords": [
+                        34.73668,
+                        -0.144622
+                  ]
+            },
+            {
+                  "name": "Bingo Beach",
+                  "text": "A relaxed lakeside resort facility offering recreational beach activities along the Kisumu shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        34.71309,
+                        -0.098987
+                  ]
+            },
+            {
+                  "name": "Locco Beach",
+                  "text": "A scenic coastal getaway resort providing leisure amenities right on the edge of Lake Victoria in Kisumu.",
+                  "category": "recreational",
+                  "coords": [
+                        34.732634,
+                        -0.095641
+                  ]
+            },
+            {
+                  "name": "Kisumu Impala Wildlife Sanctuary",
+                  "text": "A protected lakeside sanctuary in Kisumu that provides a safe haven for herds of impalas and other rescued native wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744926,
+                        -0.115081
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KE-42",
     coords: [34.75, -0.1],
@@ -147,7 +444,52 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       fr: ["Projet de port en eaux profondes", "Fait partie du corridor LAPSSET"],
     }, image: "/poi-images/lamu-port-economic-v2.webp"},
   {
-    id: "athi-river-epz-economic-v2",
+    id: "athi-river-epz-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "African Heritage House",
+                  "text": "Dieses spektakuläre Museumsgebäude in der Nähe des Flusses Athi überblickt den Nairobi-Nationalpark und ist im Stil traditioneller afrikanischer Lehmarchitektur gestaltet.",
+                  "category": "museum",
+                  "coords": [
+                        36.939163,
+                        -1.400717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "African Heritage House",
+                  "text": "Az Athi folyó közelében, a Nairobi Nemzeti Parkra néző látványos múzeumépületet a hagyományos afrikai vályogépítészet stílusában tervezték.",
+                  "category": "museum",
+                  "coords": [
+                        36.939163,
+                        -1.400717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "African Heritage House",
+                  "text": "Având vedere la Parcul Național Nairobi în apropiere de râul Athi, această clădire spectaculoasă a muzeului este proiectată în stilul arhitecturii tradiționale africane din chirpici.",
+                  "category": "museum",
+                  "coords": [
+                        36.939163,
+                        -1.400717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Heritage House",
+                  "text": "Overlooking the Nairobi National Park near Athi River, this spectacular museum building is designed in the style of traditional African mud architecture.",
+                  "category": "museum",
+                  "coords": [
+                        36.939163,
+                        -1.400717
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-16",
     coords: [36.98, -1.45],
@@ -243,7 +585,376 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       fr: ["Plus grande usine de soude d'Afrique", "Située au bord du lac Magadi"],
     }, image: "/poi-images/magadi-soda-ash-economic-v2.webp"},
   {
-    id: "ol-karia-geothermal-economic-v2",
+    id: "ol-karia-geothermal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kagoni Wildlife Valley",
+                  "text": "Ein Naturreservat in der Nähe von Olkaria, das eine geschützte Umgebung für die lokale Tierwelt im geothermisch aktiven Gebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.262236,
+                        -0.82768
+                  ]
+            },
+            {
+                  "name": "Olkaria Gate",
+                  "text": "Das Eingangstor zum geothermisch aktiven Gebiet von Olkaria, das Zugang zur einzigartigen Vulkanlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.292307,
+                        -0.857032
+                  ]
+            },
+            {
+                  "name": "fumarole",
+                  "text": "Ein Aussichtspunkt in Olkaria, von dem aus man die heißen vulkanischen Gase und Dämpfe der Fumarolen beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        36.28675,
+                        -0.87774
+                  ]
+            },
+            {
+                  "name": "Hobley's Volcano Viewpoint",
+                  "text": "Ein Aussichtspunkt, der spektakuläre Ausblicke auf die geologischen Formationen und vulkanischen Überreste von Hobley's Volcano bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.28468,
+                        -0.882213
+                  ]
+            },
+            {
+                  "name": "Old picnic stand",
+                  "text": "Die verlassenen Überreste eines alten Picknickplatzes inmitten der vulkanisch geprägten Landschaft von Olkaria.",
+                  "category": "historical",
+                  "coords": [
+                        36.289062,
+                        -0.880399
+                  ]
+            },
+            {
+                  "name": "Lake view point",
+                  "text": "Ein Aussichtspunkt im geothermischen Olkaria-Gebiet, der einen weiten Panoramablick über den nahegelegenen Naivashasee bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.319367,
+                        -0.846593
+                  ]
+            },
+            {
+                  "name": "Narasha Gate",
+                  "text": "Ein Zugangstor zum Hell's Gate Nationalpark, das oft von Besuchern der benachbarten geothermischen Anlagen in Olkaria genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        36.2731,
+                        -0.904815
+                  ]
+            },
+            {
+                  "name": "Oserongoni Wildlife Sanctuary & Oserian Two Lakes Estate",
+                  "text": "Ein privates Tierschutzgebiet am Rande des Naivashasees, das sich dem Schutz der lokalen Flora und Fauna im Rift Valley widmet.",
+                  "category": "natural",
+                  "coords": [
+                        36.250115,
+                        -0.853115
+                  ]
+            },
+            {
+                  "name": "Hell's Gate National Park",
+                  "text": "Ein Nationalpark, der für seine intensiven geothermischen Aktivitäten und hoch aufragenden vulkanischen Klippen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.321503,
+                        -0.881462
+                  ]
+            },
+            {
+                  "name": "Oserian Wildlife Sanctuary",
+                  "text": "Ein geschütztes Naturreservat in der Nähe von Olkaria, das als sicherer Lebensraum für Nashörner und Leoparden dient.",
+                  "category": "natural",
+                  "coords": [
+                        36.230481,
+                        -0.861537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kagoni Wildlife Valley",
+                  "text": "Egy természetvédelmi terület Olkaria közelében, amely védett környezetet biztosít a helyi vadvilág számára a geotermikusan aktív régióban.",
+                  "category": "natural",
+                  "coords": [
+                        36.262236,
+                        -0.82768
+                  ]
+            },
+            {
+                  "name": "Olkaria Gate",
+                  "text": "Az olkariai geotermikusan aktív terület bejárati kapuja, amely hozzáférést biztosít az egyedülálló vulkáni tájhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        36.292307,
+                        -0.857032
+                  ]
+            },
+            {
+                  "name": "fumarole",
+                  "text": "Egy kilátópont Olkariában, ahonnan megfigyelhetők a fumarolákból feltörő forró vulkáni gázok és gőzök.",
+                  "category": "natural",
+                  "coords": [
+                        36.28675,
+                        -0.87774
+                  ]
+            },
+            {
+                  "name": "Hobley's Volcano Viewpoint",
+                  "text": "Egy kilátópont, amely látványos kilátást nyújt a Hobley-vulkán geológiai formációira és vulkáni maradványaira.",
+                  "category": "natural",
+                  "coords": [
+                        36.28468,
+                        -0.882213
+                  ]
+            },
+            {
+                  "name": "Old picnic stand",
+                  "text": "Egy régi piknikezőhely elhagyatott maradványai Olkaria vulkanikus tájának közepén.",
+                  "category": "historical",
+                  "coords": [
+                        36.289062,
+                        -0.880399
+                  ]
+            },
+            {
+                  "name": "Lake view point",
+                  "text": "Egy kilátópont a geotermikus Olkaria régióban, amely széles panorámát nyújt a közeli Naivasha-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        36.319367,
+                        -0.846593
+                  ]
+            },
+            {
+                  "name": "Narasha Gate",
+                  "text": "A Hell's Gate Nemzeti Park egyik kapuja, amelyet gyakran használnak a szomszédos olkariai geotermikus létesítmények látogatói.",
+                  "category": "landmark",
+                  "coords": [
+                        36.2731,
+                        -0.904815
+                  ]
+            },
+            {
+                  "name": "Oserongoni Wildlife Sanctuary & Oserian Two Lakes Estate",
+                  "text": "Egy magán vadvédelmi terület a Naivasha-tó partján, amely a helyi növény- és állatvilág védelmének szenteli magát a Hasadékvölgyben.",
+                  "category": "natural",
+                  "coords": [
+                        36.250115,
+                        -0.853115
+                  ]
+            },
+            {
+                  "name": "Hell's Gate National Park",
+                  "text": "Egy nemzeti park, amely intenzív geotermikus aktivitásáról és magasba tornyosuló vulkáni szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        36.321503,
+                        -0.881462
+                  ]
+            },
+            {
+                  "name": "Oserian Wildlife Sanctuary",
+                  "text": "Egy védett természetvédelmi terület Olkaria közelében, amely biztonságos élőhelyet szolgál orrszarvúk és leopárdok számára.",
+                  "category": "natural",
+                  "coords": [
+                        36.230481,
+                        -0.861537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kagoni Wildlife Valley",
+                  "text": "O rezervație naturală lângă Olkaria care oferă un mediu protejat pentru fauna locală în zona activă geotermal.",
+                  "category": "natural",
+                  "coords": [
+                        36.262236,
+                        -0.82768
+                  ]
+            },
+            {
+                  "name": "Olkaria Gate",
+                  "text": "Poarta de intrare în zona activă geotermal din Olkaria, oferind acces la peisajul vulcanic unic.",
+                  "category": "landmark",
+                  "coords": [
+                        36.292307,
+                        -0.857032
+                  ]
+            },
+            {
+                  "name": "fumarole",
+                  "text": "Un punct de belvedere în Olkaria de unde pot fi observate gazele și aburii vulcanici fierbinți emiși de fumarole.",
+                  "category": "natural",
+                  "coords": [
+                        36.28675,
+                        -0.87774
+                  ]
+            },
+            {
+                  "name": "Hobley's Volcano Viewpoint",
+                  "text": "Un punct de belvedere care oferă priveliști spectaculoase ale formațiunilor geologice și ale rămășițelor vulcanului Hobley.",
+                  "category": "natural",
+                  "coords": [
+                        36.28468,
+                        -0.882213
+                  ]
+            },
+            {
+                  "name": "Old picnic stand",
+                  "text": "Rămășițele abandonate ale unui vechi loc de picnic situat în mijlocul peisajului vulcanic din Olkaria.",
+                  "category": "historical",
+                  "coords": [
+                        36.289062,
+                        -0.880399
+                  ]
+            },
+            {
+                  "name": "Lake view point",
+                  "text": "Un punct de belvedere în zona geotermală Olkaria, oferind o panoramă vastă asupra lacului Naivasha din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        36.319367,
+                        -0.846593
+                  ]
+            },
+            {
+                  "name": "Narasha Gate",
+                  "text": "O poartă de acces către Parcul Național Hell's Gate, adesea folosită de vizitatorii facilităților geotermale învecinate din Olkaria.",
+                  "category": "landmark",
+                  "coords": [
+                        36.2731,
+                        -0.904815
+                  ]
+            },
+            {
+                  "name": "Oserongoni Wildlife Sanctuary & Oserian Two Lakes Estate",
+                  "text": "Un sanctuar privat pentru animale sălbatice pe malul lacului Naivasha, dedicat protejării florei și faunei locale din Valea Riftului.",
+                  "category": "natural",
+                  "coords": [
+                        36.250115,
+                        -0.853115
+                  ]
+            },
+            {
+                  "name": "Hell's Gate National Park",
+                  "text": "Un parc național renumit pentru activitatea sa geotermală intensă și stâncile vulcanice falnice.",
+                  "category": "natural",
+                  "coords": [
+                        36.321503,
+                        -0.881462
+                  ]
+            },
+            {
+                  "name": "Oserian Wildlife Sanctuary",
+                  "text": "O rezervație naturală protejată lângă Olkaria, servind ca un habitat sigur pentru rinoceri și leoparzi.",
+                  "category": "natural",
+                  "coords": [
+                        36.230481,
+                        -0.861537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kagoni Wildlife Valley",
+                  "text": "A nature reserve near Olkaria providing a protected environment for local wildlife in the geothermally active region.",
+                  "category": "natural",
+                  "coords": [
+                        36.262236,
+                        -0.82768
+                  ]
+            },
+            {
+                  "name": "Olkaria Gate",
+                  "text": "The entrance gate to the geothermally active Olkaria area, providing access to the unique volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        36.292307,
+                        -0.857032
+                  ]
+            },
+            {
+                  "name": "fumarole",
+                  "text": "A viewpoint in Olkaria offering observations of hot volcanic gases and steam emitted from fumaroles.",
+                  "category": "natural",
+                  "coords": [
+                        36.28675,
+                        -0.87774
+                  ]
+            },
+            {
+                  "name": "Hobley's Volcano Viewpoint",
+                  "text": "A viewpoint offering spectacular views of the geological formations and volcanic remnants of Hobley's Volcano.",
+                  "category": "natural",
+                  "coords": [
+                        36.28468,
+                        -0.882213
+                  ]
+            },
+            {
+                  "name": "Old picnic stand",
+                  "text": "The abandoned remains of an old picnic spot situated amidst the volcanic landscape of Olkaria.",
+                  "category": "historical",
+                  "coords": [
+                        36.289062,
+                        -0.880399
+                  ]
+            },
+            {
+                  "name": "Lake view point",
+                  "text": "A vantage point in the geothermal Olkaria area offering a sweeping panoramic view over the nearby Lake Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.319367,
+                        -0.846593
+                  ]
+            },
+            {
+                  "name": "Narasha Gate",
+                  "text": "An access gate to Hell's Gate National Park, often used by visitors exploring the neighboring geothermal facilities at Olkaria.",
+                  "category": "landmark",
+                  "coords": [
+                        36.2731,
+                        -0.904815
+                  ]
+            },
+            {
+                  "name": "Oserongoni Wildlife Sanctuary & Oserian Two Lakes Estate",
+                  "text": "A private wildlife sanctuary on the shores of Lake Naivasha dedicated to protecting the local flora and fauna in the Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        36.250115,
+                        -0.853115
+                  ]
+            },
+            {
+                  "name": "Hell's Gate National Park",
+                  "text": "A national park renowned for its intense geothermal activity and towering volcanic cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        36.321503,
+                        -0.881462
+                  ]
+            },
+            {
+                  "name": "Oserian Wildlife Sanctuary",
+                  "text": "A protected nature reserve near Olkaria serving as a secure habitat for rhinos and leopards.",
+                  "category": "natural",
+                  "coords": [
+                        36.230481,
+                        -0.861537
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-32",
     coords: [36.31, -0.89],
@@ -387,7 +1098,52 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       fr: ["Grande cimenterie", "Importante pour l'industrie du bâtiment"],
     }, image: "/poi-images/bamburi-cement-factory-economic-v2.webp"},
   {
-    id: "webuye-panpaper-economic-v2",
+    id: "webuye-panpaper-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nabuyole waterfalls",
+                  "text": "Die Nabuyole-Wasserfälle stürzen entlang des Flusses Nzoia in der Nähe von Webuye inmitten einer üppigen tropischen Landschaft in die Tiefe.",
+                  "category": "landmark",
+                  "coords": [
+                        34.800039,
+                        0.597321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabuyole waterfalls",
+                  "text": "A Nabuyole-vízesés a Nzoia folyón zuhog alá Webuye közelében, buja trópusi tájjal övezve.",
+                  "category": "landmark",
+                  "coords": [
+                        34.800039,
+                        0.597321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabuyole waterfalls",
+                  "text": "Cascadele Nabuyole cad de-a lungul râului Nzoia în apropiere de Webuye, înconjurate de un peisaj tropical luxuriant.",
+                  "category": "landmark",
+                  "coords": [
+                        34.800039,
+                        0.597321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabuyole waterfalls",
+                  "text": "The Nabuyole waterfalls cascade along the Nzoia River near Webuye, surrounded by a lush tropical landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        34.800039,
+                        0.597321
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-39",
     coords: [34.77, 0.61],
@@ -435,7 +1191,124 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       fr: ["Papeterie historique", "Importante pour l'économie locale"],
     }, image: "/poi-images/webuye-panpaper-economic-v2.webp"},
   {
-    id: "muhoroni-sugar-factory-economic-v2",
+    id: "muhoroni-sugar-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Homaline junction",
+                  "text": "Die Homaline-Kreuzung ist ein bemerkenswertes lokales Wahrzeichen in der Nähe des Zuckerfabrikkomplexes Muhoroni.",
+                  "category": "landmark",
+                  "coords": [
+                        35.255711,
+                        -0.184468
+                  ]
+            },
+            {
+                  "name": "Homaline quarry",
+                  "text": "Der Homaline-Steinbruch ist eine industrielle Ausgrabungsstätte, die die wirtschaftliche Aktivität in der Nähe der Zuckerfabrik Muhoroni widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.253606,
+                        -0.145016
+                  ]
+            },
+            {
+                  "name": "Homaline offices",
+                  "text": "Die Homaline-Büros dienen als Verwaltungszentrum für den lokalen Industriebetrieb in der Nähe der Zuckerfabrik Muhoroni.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262696,
+                        -0.17161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Homaline junction",
+                  "text": "A Homaline csomópont egy figyelemre méltó helyi tájékozódási pont a Muhoroni cukorgyár komplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.255711,
+                        -0.184468
+                  ]
+            },
+            {
+                  "name": "Homaline quarry",
+                  "text": "A Homaline kőbánya egy ipari kitermelőhely, amely a Muhoroni cukorgyár környéki gazdasági tevékenységet tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.253606,
+                        -0.145016
+                  ]
+            },
+            {
+                  "name": "Homaline offices",
+                  "text": "A Homaline irodák a helyi ipari műveletek adminisztratív központjaként szolgálnak a Muhoroni cukorgyár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262696,
+                        -0.17161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Homaline junction",
+                  "text": "Intersecția Homaline este un punct de reper local notabil în apropierea complexului fabricii de zahăr Muhoroni.",
+                  "category": "landmark",
+                  "coords": [
+                        35.255711,
+                        -0.184468
+                  ]
+            },
+            {
+                  "name": "Homaline quarry",
+                  "text": "Cariera Homaline este un sit de excavare industrială care reflectă activitatea economică din apropierea fabricii de zahăr Muhoroni.",
+                  "category": "landmark",
+                  "coords": [
+                        35.253606,
+                        -0.145016
+                  ]
+            },
+            {
+                  "name": "Homaline offices",
+                  "text": "Birourile Homaline servesc drept centru administrativ pentru operațiunile industriale locale de lângă fabrica de zahăr Muhoroni.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262696,
+                        -0.17161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Homaline junction",
+                  "text": "The Homaline junction is a notable local landmark near the Muhoroni sugar factory complex.",
+                  "category": "landmark",
+                  "coords": [
+                        35.255711,
+                        -0.184468
+                  ]
+            },
+            {
+                  "name": "Homaline quarry",
+                  "text": "The Homaline quarry is an industrial excavation site reflecting the economic activity near the Muhoroni sugar factory.",
+                  "category": "landmark",
+                  "coords": [
+                        35.253606,
+                        -0.145016
+                  ]
+            },
+            {
+                  "name": "Homaline offices",
+                  "text": "The Homaline offices serve as the administrative hub for local industrial operations near the Muhoroni sugar factory.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262696,
+                        -0.17161
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-42",
     coords: [35.19, -0.15],
@@ -676,7 +1549,52 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       fr: ["Projet minier de sables minéralisés", "Produit du rutile et du zircon"],
     }, image: "/poi-images/kwale-titanium-mine-economic-v2.webp"},
   {
-    id: "machakos-epz-economic-v2",
+    id: "machakos-epz-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Macha Be, Water Park",
+                  "text": "Dieser lebhafte Wasserpark bietet Freizeitschwimmbecken und Rutschen für Familienunterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        37.205507,
+                        -1.529417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Macha Be, Water Park",
+                  "text": "Ez a nyüzsgő vízi park szabadidős medencéket és csúszdákat kínál a családi szórakozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        37.205507,
+                        -1.529417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Macha Be, Water Park",
+                  "text": "Acest parc acvatic plin de viață oferă piscine de agrement și tobogane pentru divertisment în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        37.205507,
+                        -1.529417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macha Be, Water Park",
+                  "text": "This lively water park provides recreational swimming pools and slides for family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        37.205507,
+                        -1.529417
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-16",
     coords: [37.26, -1.51],
@@ -820,7 +1738,304 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       fr: ["Plus grand parc éolien d'Afrique", "Fournit de l'énergie propre"],
     }, image: "/poi-images/lake-turkana-wind-power-economic-v2.webp"},
   {
-    id: "naivasha-flower-farms-economic-v2",
+    id: "naivasha-flower-farms-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippo point Conservancy",
+                  "text": "Ein Naturschutzgebiet, das für seine malerische natürliche Umgebung in der Nähe der Blumenfarmen von Naivasha bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.295127,
+                        -0.797401
+                  ]
+            },
+            {
+                  "name": "Lentolia Conservancy",
+                  "text": "Eine geschützte Naturschutzlandschaft, die der Erhaltung der Tierwelt in der Region Naivasha gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.282906,
+                        -0.764396
+                  ]
+            },
+            {
+                  "name": "Malewa Bay Wildlife Estate",
+                  "text": "Ein Naturschutzgebiet an der Bucht, das die Tierwelt und die natürlichen Lebensräume in der Umgebung von Naivasha schützt.",
+                  "category": "natural",
+                  "coords": [
+                        36.330666,
+                        -0.674416
+                  ]
+            },
+            {
+                  "name": "Loldia Farm Conservancy",
+                  "text": "Ein Naturschutzgebiet, das natürliche Landschaften und historisches Ackerland in der Nähe von Naivasha integriert.",
+                  "category": "natural",
+                  "coords": [
+                        36.302185,
+                        -0.690788
+                  ]
+            },
+            {
+                  "name": "Ecoscapes Sanctuary Conservancy",
+                  "text": "Ein geschütztes Naturschutzgebiet, das das ökologische Gleichgewicht und den Schutz der Tierwelt in der Region Naivasha fördert.",
+                  "category": "natural",
+                  "coords": [
+                        36.273991,
+                        -0.764234
+                  ]
+            },
+            {
+                  "name": "Wileli Conservancy",
+                  "text": "Ein spezielles Naturschutzgebiet in den natürlichen, malerischen Landschaften von Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.275453,
+                        -0.754869
+                  ]
+            },
+            {
+                  "name": "Sirroco Wildlife Sanctuary",
+                  "text": "Ein geschütztes Naturschutzgebiet, das der lokalen Tierwelt in der Nähe von Naivasha einen sicheren, ungestörten Lebensraum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.288246,
+                        -0.723903
+                  ]
+            },
+            {
+                  "name": "Ol Suswa Conservancy (not offcial boundaries)",
+                  "text": "Ein weitläufiges Naturschutzgebiet, das sich der informellen Land- und Wildtiererhaltung in der Region Naivasha widmet.",
+                  "category": "natural",
+                  "coords": [
+                        36.270046,
+                        -0.714831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippo point Conservancy",
+                  "text": "Egy vadvédelmi terület, amely a Naivasha virágfarmjaihoz közeli festői természeti környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        36.295127,
+                        -0.797401
+                  ]
+            },
+            {
+                  "name": "Lentolia Conservancy",
+                  "text": "A vadvilág megőrzésének szentelt védett természetvédelmi táj a Naivasha régióban.",
+                  "category": "natural",
+                  "coords": [
+                        36.282906,
+                        -0.764396
+                  ]
+            },
+            {
+                  "name": "Malewa Bay Wildlife Estate",
+                  "text": "Az öböl mentén található természetvédelmi terület, amely védi a vadvilágot és a természetes élőhelyeket Naivasha térségében.",
+                  "category": "natural",
+                  "coords": [
+                        36.330666,
+                        -0.674416
+                  ]
+            },
+            {
+                  "name": "Loldia Farm Conservancy",
+                  "text": "Természetvédelmi terület, amely integrálja a természeti tájakat és a történelmi gazdaságokat Naivasha közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.302185,
+                        -0.690788
+                  ]
+            },
+            {
+                  "name": "Ecoscapes Sanctuary Conservancy",
+                  "text": "Védett természeti menedékhely, amely elősegíti az ökológiai egyensúlyt és a vadvilág megőrzését a Naivasha régióban.",
+                  "category": "natural",
+                  "coords": [
+                        36.273991,
+                        -0.764234
+                  ]
+            },
+            {
+                  "name": "Wileli Conservancy",
+                  "text": "Dedikált vadvédelmi rezervátum, amely Naivasha természetes festői tájain található.",
+                  "category": "natural",
+                  "coords": [
+                        36.275453,
+                        -0.754869
+                  ]
+            },
+            {
+                  "name": "Sirroco Wildlife Sanctuary",
+                  "text": "Védett természeti menedékhely, amely biztonságos, zavartalan élőhelyet kínál a helyi vadvilág számára Naivasha közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.288246,
+                        -0.723903
+                  ]
+            },
+            {
+                  "name": "Ol Suswa Conservancy (not offcial boundaries)",
+                  "text": "Egy kiterjedt természetvédelmi terület, amelyet a nem hivatalos föld- és vadvédelemnek szenteltek a Naivasha régióban.",
+                  "category": "natural",
+                  "coords": [
+                        36.270046,
+                        -0.714831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippo point Conservancy",
+                  "text": "O zonă de conservare a faunei sălbatice cunoscută pentru cadrul său natural pitoresc din apropierea fermelor florale din Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.295127,
+                        -0.797401
+                  ]
+            },
+            {
+                  "name": "Lentolia Conservancy",
+                  "text": "Un peisaj de rezervație naturală protejată dedicat conservării faunei sălbatice din regiunea Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.282906,
+                        -0.764396
+                  ]
+            },
+            {
+                  "name": "Malewa Bay Wildlife Estate",
+                  "text": "O rezervație naturală situată de-a lungul golfului, protejând fauna sălbatică și habitatele naturale din zona Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.330666,
+                        -0.674416
+                  ]
+            },
+            {
+                  "name": "Loldia Farm Conservancy",
+                  "text": "O zonă de conservare care integrează peisaje naturale și terenuri agricole istorice lângă Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.302185,
+                        -0.690788
+                  ]
+            },
+            {
+                  "name": "Ecoscapes Sanctuary Conservancy",
+                  "text": "Un sanctuar natural protejat care promovează echilibrul ecologic și conservarea faunei sălbatice în regiunea Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.273991,
+                        -0.764234
+                  ]
+            },
+            {
+                  "name": "Wileli Conservancy",
+                  "text": "O rezervație dedicată conservării faunei sălbatice, situată în peisajele naturale pitorești din Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.275453,
+                        -0.754869
+                  ]
+            },
+            {
+                  "name": "Sirroco Wildlife Sanctuary",
+                  "text": "Un sanctuar natural protejat, care oferă un habitat sigur și netulburat pentru fauna locală lângă Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.288246,
+                        -0.723903
+                  ]
+            },
+            {
+                  "name": "Ol Suswa Conservancy (not offcial boundaries)",
+                  "text": "O zonă de rezervație naturală întinsă dedicată conservării informale a terenurilor și a faunei sălbatice din regiunea Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.270046,
+                        -0.714831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippo point Conservancy",
+                  "text": "A wildlife conservation area known for its scenic natural setting near the floral farms of Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.295127,
+                        -0.797401
+                  ]
+            },
+            {
+                  "name": "Lentolia Conservancy",
+                  "text": "A protected nature reserve landscape dedicated to wildlife conservation in the Naivasha region.",
+                  "category": "natural",
+                  "coords": [
+                        36.282906,
+                        -0.764396
+                  ]
+            },
+            {
+                  "name": "Malewa Bay Wildlife Estate",
+                  "text": "A nature reserve situated along the bay, protecting wildlife and natural habitats in the Naivasha area.",
+                  "category": "natural",
+                  "coords": [
+                        36.330666,
+                        -0.674416
+                  ]
+            },
+            {
+                  "name": "Loldia Farm Conservancy",
+                  "text": "A conservation area integrating natural landscapes and historic farm grounds near Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.302185,
+                        -0.690788
+                  ]
+            },
+            {
+                  "name": "Ecoscapes Sanctuary Conservancy",
+                  "text": "A protected nature sanctuary promoting ecological balance and wildlife conservation in the Naivasha region.",
+                  "category": "natural",
+                  "coords": [
+                        36.273991,
+                        -0.764234
+                  ]
+            },
+            {
+                  "name": "Wileli Conservancy",
+                  "text": "A dedicated wildlife conservation reserve located within the natural scenic landscapes of Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.275453,
+                        -0.754869
+                  ]
+            },
+            {
+                  "name": "Sirroco Wildlife Sanctuary",
+                  "text": "A protected nature sanctuary offering a safe, undisturbed habitat for local wildlife near Naivasha.",
+                  "category": "natural",
+                  "coords": [
+                        36.288246,
+                        -0.723903
+                  ]
+            },
+            {
+                  "name": "Ol Suswa Conservancy (not offcial boundaries)",
+                  "text": "A sprawling nature reserve area dedicated to informal land and wildlife conservation in the Naivasha region.",
+                  "category": "natural",
+                  "coords": [
+                        36.270046,
+                        -0.714831
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-32",
     coords: [36.35, -0.75],
@@ -870,7 +2085,160 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
   },
   {
-    id: "nairobi-industrial-area-economic-v2",
+    id: "nairobi-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mukuru Arts",
+                  "text": "Mukuru Arts ist ein kreatives Gemeindezentrum im Industriegebiet von Nairobi, das lokale künstlerische Talente fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865201,
+                        -1.311645
+                  ]
+            },
+            {
+                  "name": "Gaoal",
+                  "text": "Gaoal fungiert als lokales Kunstzentrum im Industrieviertel von Nairobi und bietet Raum für kulturelle Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.844391,
+                        -1.312436
+                  ]
+            },
+            {
+                  "name": "Nairobi-Nationalpark",
+                  "text": "Der Nairobi-Nationalpark ist ein herausragendes Wildreservat direkt neben der geschäftigen Hauptstadt, das Safari-Erlebnisse mit Löwen und Nashörnern bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.844584,
+                        -1.369477
+                  ]
+            },
+            {
+                  "name": "Gkobol youth centre",
+                  "text": "Das Gkobol Jugendzentrum bietet kreative Kunstprogramme und einen unterstützenden Treffpunkt für junge Menschen in der Industriezone von Nairobi.",
+                  "category": "cultural",
+                  "coords": [
+                        36.842335,
+                        -1.310422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mukuru Arts",
+                  "text": "A Mukuru Arts egy közösségi kreatív központ Nairobi ipari negyedében, amely a helyi művészeti tehetségeket gondozza.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865201,
+                        -1.311645
+                  ]
+            },
+            {
+                  "name": "Gaoal",
+                  "text": "A Gaoal egy helyi művészeti központként működik Nairobi ipari negyedében, teret kínálva a kulturális kiállításoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        36.844391,
+                        -1.312436
+                  ]
+            },
+            {
+                  "name": "Nairobi National Park",
+                  "text": "A Nairobi Nemzeti Park egyedülálló módon a nyüzsgő főváros mellett található jelentős vadrezervátum, amely szafari élményeket kínál oroszlánokkal és orrszarvúkkal.",
+                  "category": "natural",
+                  "coords": [
+                        36.844584,
+                        -1.369477
+                  ]
+            },
+            {
+                  "name": "Gkobol youth centre",
+                  "text": "A Gkobol ifjúsági központ kreatív művészeti programokat és támogató közösségi teret biztosít a fiatalok számára Nairobi ipari övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.842335,
+                        -1.310422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mukuru Arts",
+                  "text": "Mukuru Arts este un centru creativ comunitar situat în zona industrială a orașului Nairobi, care cultivă talentele artistice de la firul ierbii.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865201,
+                        -1.311645
+                  ]
+            },
+            {
+                  "name": "Gaoal",
+                  "text": "Gaoal funcționează ca un centru de arte local în districtul industrial din Nairobi, oferind un spațiu pentru expoziții culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        36.844391,
+                        -1.312436
+                  ]
+            },
+            {
+                  "name": "Nairobi National Park",
+                  "text": "Parcul Național Nairobi este o rezervație de animale sălbatice unică, situată chiar lângă capitala aglomerată, oferind experiențe de safari cu lei și rinoceri.",
+                  "category": "natural",
+                  "coords": [
+                        36.844584,
+                        -1.369477
+                  ]
+            },
+            {
+                  "name": "Gkobol youth centre",
+                  "text": "Centrul de tineret Gkobol oferă programe de arte creative și un spațiu de adunare pentru tinerii din zona industrială a orașului Nairobi.",
+                  "category": "cultural",
+                  "coords": [
+                        36.842335,
+                        -1.310422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mukuru Arts",
+                  "text": "Mukuru Arts is a community creative centre located in Nairobi's industrial area, nurturing grassroots artistic talent.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865201,
+                        -1.311645
+                  ]
+            },
+            {
+                  "name": "Gaoal",
+                  "text": "Gaoal operates as a local arts centre within the industrial district of Nairobi, offering a space for cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        36.844391,
+                        -1.312436
+                  ]
+            },
+            {
+                  "name": "Nairobi National Park",
+                  "text": "Nairobi National Park is a prominent wildlife reserve uniquely situated right beside the bustling capital city, offering safari experiences featuring lions and rhinos.",
+                  "category": "natural",
+                  "coords": [
+                        36.844584,
+                        -1.369477
+                  ]
+            },
+            {
+                  "name": "Gkobol youth centre",
+                  "text": "The Gkobol youth centre provides creative arts programs and a supportive gathering space for young people in Nairobi's industrial zone.",
+                  "category": "cultural",
+                  "coords": [
+                        36.842335,
+                        -1.310422
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-47",
     coords: [36.86, -1.31],
@@ -919,7 +2287,52 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/nairobi-industrial-area-economic-v2.webp"},
   {
-    id: "tatu-city-industrial-park-economic-v2",
+    id: "tatu-city-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "JKUAT Monument",
+                  "text": "Dieses moderne Denkmal aus Stein und Metall steht in der Nähe des Industrieparks Tatu City und erinnert an den pädagogischen Einfluss der Jomo Kenyatta University.",
+                  "category": "historical",
+                  "coords": [
+                        37.014373,
+                        -1.100153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "JKUAT Monument",
+                  "text": "A Tatu City ipari park közelében álló, kőből és fémből készült modern emlékmű a Jomo Kenyatta Egyetem oktatási hatásának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        37.014373,
+                        -1.100153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "JKUAT Monument",
+                  "text": "Stând lângă parcul industrial Tatu City, acest monument modern din piatră și metal comemorează influența educațională a Universității Jomo Kenyatta.",
+                  "category": "historical",
+                  "coords": [
+                        37.014373,
+                        -1.100153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "JKUAT Monument",
+                  "text": "Standing proudly near the Tatu City industrial park, this modern stone and metal monument commemorates the educational footprint of the Jomo Kenyatta University.",
+                  "category": "historical",
+                  "coords": [
+                        37.014373,
+                        -1.100153
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-22",
     coords: [36.95, -1.13],
@@ -1067,7 +2480,88 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/nzoia-sugar-company-economic-v2.webp"},
   {
-    id: "isuzu-east-africa-assembly-economic-v2",
+    id: "isuzu-east-africa-assembly-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Bing Movie Central",
+                  "text": "Ein lokales Kino in der Umgebung von Nairobi, das sowohl regionale als auch internationale Filme zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892663,
+                        -1.293714
+                  ]
+            },
+            {
+                  "name": "Murdock Emisembe Foundation M.E.F",
+                  "text": "Ein markantes, schlossartiges Verwaltungsgebäude, das im Bezirk von Nairobi als Stiftungszentrum operiert.",
+                  "category": "castle",
+                  "coords": [
+                        36.861955,
+                        -1.29766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Bing Movie Central",
+                  "text": "Nairobi környékén található helyi mozi, amely regionális és nemzetközi filmeket is vetít.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892663,
+                        -1.293714
+                  ]
+            },
+            {
+                  "name": "Murdock Emisembe Foundation M.E.F",
+                  "text": "Egy jellegzetes, kastélyszerű közigazgatási épület, amely alapítványi központként működik Nairobi kerületében.",
+                  "category": "castle",
+                  "coords": [
+                        36.861955,
+                        -1.29766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Bing Movie Central",
+                  "text": "Un cinematograf local din zona Nairobi, care difuzează filme regionale și internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892663,
+                        -1.293714
+                  ]
+            },
+            {
+                  "name": "Murdock Emisembe Foundation M.E.F",
+                  "text": "O clădire administrativă distinctivă în formă de castel, care funcționează în districtul Nairobi.",
+                  "category": "castle",
+                  "coords": [
+                        36.861955,
+                        -1.29766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Bing Movie Central",
+                  "text": "A local cinema venue in the Nairobi area screening both regional and international films.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892663,
+                        -1.293714
+                  ]
+            },
+            {
+                  "name": "Murdock Emisembe Foundation M.E.F",
+                  "text": "A distinctive castle-like administrative building operating as a foundation center within the Nairobi district.",
+                  "category": "castle",
+                  "coords": [
+                        36.861955,
+                        -1.29766
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-47",
     coords: [36.87, -1.3],
@@ -1116,7 +2610,268 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/isuzu-east-africa-assembly-economic-v2.webp"},
   {
-    id: "east-african-breweries-economic-v2",
+    id: "east-african-breweries-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beckam Studio Huruma",
+                  "text": "Dieses lokale Nachbarschaftstheater fungiert als Gemeinschaftsvideosaal in einem dicht besiedelten Viertel.",
+                  "category": "cultural",
+                  "coords": [
+                        36.873851,
+                        -1.256375
+                  ]
+            },
+            {
+                  "name": "ZAM ZAM VIDEO SHOW",
+                  "text": "Dieser kleine, informelle Theaterort zeigt Videos und Filme für die lokale städtische Gemeinschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        36.875591,
+                        -1.25482
+                  ]
+            },
+            {
+                  "name": "SLUM SANAA ART CENTER",
+                  "text": "Dieses von der Basis ausgehende Kunstzentrum fördert die lokale städtische Jugend durch von der Gemeinschaft getragene kreative Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865268,
+                        -1.260478
+                  ]
+            },
+            {
+                  "name": "Kenya heven of hope myto youth group",
+                  "text": "Dieses gemeinschaftliche Kunstzentrum dient als wichtiger Raum für Jugendentwicklungsprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        36.859127,
+                        -1.261081
+                  ]
+            },
+            {
+                  "name": "Uncle Say Say Video Show",
+                  "text": "Dieser nachbarschaftliche Videosaal bietet einen bescheidenen, informellen Theaterrahmen für lokale Unterhaltung.",
+                  "category": "cultural",
+                  "coords": [
+                        36.854843,
+                        -1.264741
+                  ]
+            },
+            {
+                  "name": "NZUMARI AFRICA ART CENTER",
+                  "text": "Dieses kulturelle Kunstzentrum veranstaltet Workshops und Ausstellungen, die zeitgenössische afrikanische Kunsttraditionen feiern.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874946,
+                        -1.260037
+                  ]
+            },
+            {
+                  "name": "Nyayo Market",
+                  "text": "Dieser geschäftige lokale Schlachthof fungiert als wichtiges Handelszentrum für den Fleischhandel des Bezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        36.884549,
+                        -1.259594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beckam Studio Huruma",
+                  "text": "Ez a helyi szomszédsági színház közösségi videóteremként működik egy sűrűn lakott negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        36.873851,
+                        -1.256375
+                  ]
+            },
+            {
+                  "name": "ZAM ZAM VIDEO SHOW",
+                  "text": "Ez a kis, informális színházi helyszín videókat és filmeket vetít a helyi városi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        36.875591,
+                        -1.25482
+                  ]
+            },
+            {
+                  "name": "SLUM SANAA ART CENTER",
+                  "text": "Ez az alulról szerveződő művészeti központ helyi, városi fiatalokat támogat közösségi vezérlésű kreatív projekteken keresztül.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865268,
+                        -1.260478
+                  ]
+            },
+            {
+                  "name": "Kenya heven of hope myto youth group",
+                  "text": "Ez az együttműködésen alapuló művészeti központ létfontosságú közösségi térként szolgál az ifjúságfejlesztési programok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        36.859127,
+                        -1.261081
+                  ]
+            },
+            {
+                  "name": "Uncle Say Say Video Show",
+                  "text": "Ez a szomszédsági videóterem szerény, informális színházi környezetet biztosít a helyi szórakoztatáshoz.",
+                  "category": "cultural",
+                  "coords": [
+                        36.854843,
+                        -1.264741
+                  ]
+            },
+            {
+                  "name": "NZUMARI AFRICA ART CENTER",
+                  "text": "Ez a kulturális művészeti központ olyan workshopoknak és kiállításoknak ad otthont, amelyek a kortárs afrikai művészeti hagyományokat ünneplik.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874946,
+                        -1.260037
+                  ]
+            },
+            {
+                  "name": "Nyayo Market",
+                  "text": "Ez a forgalmas helyi vágóhíd a kerület húsiparának jelentős kereskedelmi központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.884549,
+                        -1.259594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beckam Studio Huruma",
+                  "text": "Acest teatru de cartier funcționează ca o sală video comunitară într-un cartier dens populat.",
+                  "category": "cultural",
+                  "coords": [
+                        36.873851,
+                        -1.256375
+                  ]
+            },
+            {
+                  "name": "ZAM ZAM VIDEO SHOW",
+                  "text": "Acest mic spațiu de teatru informal difuzează videoclipuri și filme pentru comunitatea urbană locală.",
+                  "category": "cultural",
+                  "coords": [
+                        36.875591,
+                        -1.25482
+                  ]
+            },
+            {
+                  "name": "SLUM SANAA ART CENTER",
+                  "text": "Acest centru de artă comunitar sprijină tineretul urban local prin proiecte creative la nivel de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865268,
+                        -1.260478
+                  ]
+            },
+            {
+                  "name": "Kenya heven of hope myto youth group",
+                  "text": "Acest centru de artă colaborativ servește ca un spațiu comunitar vital pentru programele de dezvoltare a tineretului.",
+                  "category": "cultural",
+                  "coords": [
+                        36.859127,
+                        -1.261081
+                  ]
+            },
+            {
+                  "name": "Uncle Say Say Video Show",
+                  "text": "Această sală video de cartier oferă un cadru de teatru modest, informal, pentru divertismentul local.",
+                  "category": "cultural",
+                  "coords": [
+                        36.854843,
+                        -1.264741
+                  ]
+            },
+            {
+                  "name": "NZUMARI AFRICA ART CENTER",
+                  "text": "Acest centru cultural de artă găzduiește ateliere și expoziții care celebrează tradițiile artistice africane contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874946,
+                        -1.260037
+                  ]
+            },
+            {
+                  "name": "Nyayo Market",
+                  "text": "Acest abator local aglomerat funcționează ca un centru comercial major pentru comerțul cu carne al districtului.",
+                  "category": "landmark",
+                  "coords": [
+                        36.884549,
+                        -1.259594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beckam Studio Huruma",
+                  "text": "This local neighborhood theatre functions as a community video hall in a densely populated district.",
+                  "category": "cultural",
+                  "coords": [
+                        36.873851,
+                        -1.256375
+                  ]
+            },
+            {
+                  "name": "ZAM ZAM VIDEO SHOW",
+                  "text": "This small, informal theatre venue screens videos and movies for the local urban community.",
+                  "category": "cultural",
+                  "coords": [
+                        36.875591,
+                        -1.25482
+                  ]
+            },
+            {
+                  "name": "SLUM SANAA ART CENTER",
+                  "text": "This grassroots arts centre empowers local urban youth through community-driven creative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        36.865268,
+                        -1.260478
+                  ]
+            },
+            {
+                  "name": "Kenya heven of hope myto youth group",
+                  "text": "This collaborative arts centre serves as a vital community space for youth development programs.",
+                  "category": "cultural",
+                  "coords": [
+                        36.859127,
+                        -1.261081
+                  ]
+            },
+            {
+                  "name": "Uncle Say Say Video Show",
+                  "text": "This neighborhood video hall provides a modest, informal theatre setting for local entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        36.854843,
+                        -1.264741
+                  ]
+            },
+            {
+                  "name": "NZUMARI AFRICA ART CENTER",
+                  "text": "This cultural arts centre hosts workshops and exhibitions that celebrate contemporary African artistic traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874946,
+                        -1.260037
+                  ]
+            },
+            {
+                  "name": "Nyayo Market",
+                  "text": "This busy local slaughterhouse operates as a major commercial center for the district's meat trade.",
+                  "category": "landmark",
+                  "coords": [
+                        36.884549,
+                        -1.259594
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-47",
     coords: [36.88, -1.25],
@@ -1214,7 +2969,196 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/mombasa-apparel-epz-economic-v2.webp"},
   {
-    id: "twiga-chemicals-plant-economic-v2",
+    id: "twiga-chemicals-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Institute of perpet Theatre",
+                  "text": "Ein Zentrum für darstellende Künste in Nairobi, das lokale Theaterproduktionen und Schauspielunterricht fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.889105,
+                        -1.324194
+                  ]
+            },
+            {
+                  "name": "MAKUENI VIDEO SHOW",
+                  "text": "Ein lokales Videotheater in der Gemeinde, das den Bewohnern Filme und Unterhaltungsprogramme präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.887675,
+                        -1.318838
+                  ]
+            },
+            {
+                  "name": "makindu video show",
+                  "text": "Ein dörflicher Vorführraum, in dem sich die Anwohner zu gemeinsamen Kinoerlebnissen versammeln.",
+                  "category": "cultural",
+                  "coords": [
+                        36.886471,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Wajukuuu art centre",
+                  "text": "Ein gemeindebasiertes Kunstzentrum im Mukuru-Slum von Nairobi, das benachteiligten Jugendlichen kreativen Raum bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        36.872824,
+                        -1.311709
+                  ]
+            },
+            {
+                  "name": "Wajukuuu",
+                  "text": "Eine lokale Kunsteinrichtung, die sich der Stärkung der Gemeinschaft durch bildende Künste und Bildung verschrieben hat.",
+                  "category": "cultural",
+                  "coords": [
+                        36.871286,
+                        -1.314061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Institute of perpet Theatre",
+                  "text": "Nairobi egyik előadó-művészeti központja, amely támogatja a helyi színházi produkciókat és a drámaoktatást.",
+                  "category": "cultural",
+                  "coords": [
+                        36.889105,
+                        -1.324194
+                  ]
+            },
+            {
+                  "name": "MAKUENI VIDEO SHOW",
+                  "text": "Helyi közösségi videószínház, amely filmeket és szórakoztató műsorokat kínál az ott lakóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        36.887675,
+                        -1.318838
+                  ]
+            },
+            {
+                  "name": "makindu video show",
+                  "text": "Egy falusi vetítőterem, ahol a helyi lakosok közös filmnézésre gyűlnek össze.",
+                  "category": "cultural",
+                  "coords": [
+                        36.886471,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Wajukuuu art centre",
+                  "text": "Egy közösségi alapú művészeti központ Nairobi Mukuru nyomornegyedében, amely kreatív teret biztosít a hátrányos helyzetű fiataloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        36.872824,
+                        -1.311709
+                  ]
+            },
+            {
+                  "name": "Wajukuuu",
+                  "text": "Helyi művészeti intézmény, amely a közösség képzőművészeteken és oktatáson keresztüli megerősítését szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        36.871286,
+                        -1.314061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Institute of perpet Theatre",
+                  "text": "Un centru de arte interpretative din Nairobi care sprijină producțiile teatrale locale și educația dramatică.",
+                  "category": "cultural",
+                  "coords": [
+                        36.889105,
+                        -1.324194
+                  ]
+            },
+            {
+                  "name": "MAKUENI VIDEO SHOW",
+                  "text": "Un teatru video comunitar care prezintă filme și programe de divertisment rezidenților locali.",
+                  "category": "cultural",
+                  "coords": [
+                        36.887675,
+                        -1.318838
+                  ]
+            },
+            {
+                  "name": "makindu video show",
+                  "text": "Un loc de proiecție local unde rezidenții se adună pentru experiențe cinematografice comune.",
+                  "category": "cultural",
+                  "coords": [
+                        36.886471,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Wajukuuu art centre",
+                  "text": "Un centru de artă comunitar din mahalaua Mukuru, care oferă spațiu creativ tinerilor defavorizați.",
+                  "category": "cultural",
+                  "coords": [
+                        36.872824,
+                        -1.311709
+                  ]
+            },
+            {
+                  "name": "Wajukuuu",
+                  "text": "O facilitate de artă locală dedicată împuternicirii comunității prin arte vizuale și educație.",
+                  "category": "cultural",
+                  "coords": [
+                        36.871286,
+                        -1.314061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Institute of perpet Theatre",
+                  "text": "A performing arts venue in Nairobi supporting local theatre productions and drama education.",
+                  "category": "cultural",
+                  "coords": [
+                        36.889105,
+                        -1.324194
+                  ]
+            },
+            {
+                  "name": "MAKUENI VIDEO SHOW",
+                  "text": "A community video showhouse presenting films and entertainment programming to local residents.",
+                  "category": "cultural",
+                  "coords": [
+                        36.887675,
+                        -1.318838
+                  ]
+            },
+            {
+                  "name": "makindu video show",
+                  "text": "A local screening venue gathering residents for shared cinematic experiences in the area.",
+                  "category": "cultural",
+                  "coords": [
+                        36.886471,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Wajukuuu art centre",
+                  "text": "A community-driven arts centre in the Mukuru slum providing creative space and opportunities for disadvantaged youth.",
+                  "category": "cultural",
+                  "coords": [
+                        36.872824,
+                        -1.311709
+                  ]
+            },
+            {
+                  "name": "Wajukuuu",
+                  "text": "A grassroots art facility dedicated to empowering the local community through visual arts and education.",
+                  "category": "cultural",
+                  "coords": [
+                        36.871286,
+                        -1.314061
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-47",
     coords: [36.875, -1.315],
@@ -1263,7 +3207,88 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/twiga-chemicals-plant-economic-v2.webp"},
   {
-    id: "kenya-meat-commission-economic-v2",
+    id: "kenya-meat-commission-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Diese Open-Air-Veranstaltungsstätte verfügt über abgestufte Sitzplätze und bietet einen gemeinschaftlichen Raum für kulturelle Veranstaltungen und öffentliche Versammlungen im Bezirk.",
+                  "category": "cultural",
+                  "coords": [
+                        37.048509,
+                        -1.442107
+                  ]
+            },
+            {
+                  "name": "Kasanga Conservancy",
+                  "text": "Dieses geschützte Naturschutzgebiet fungiert als lebenswichtiger ökologischer Korridor in der Region und bewahrt einheimische Flora und Weideland für Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        37.072538,
+                        -1.460919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ez a lépcsőzetes ülőhelyekkel rendelkező szabadtéri előadóhely közösségi teret biztosít a kerület kulturális rendezvényei és nyilvános összejövetelei számára.",
+                  "category": "cultural",
+                  "coords": [
+                        37.048509,
+                        -1.442107
+                  ]
+            },
+            {
+                  "name": "Kasanga Conservancy",
+                  "text": "A régió létfontosságú ökológiai folyosójaként működő védett természetvédelmi terület megőrzi az őshonos növényvilágot és a vadvilág legelőit.",
+                  "category": "natural",
+                  "coords": [
+                        37.072538,
+                        -1.460919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Această locație în aer liber are scaune dispuse în trepte, oferind un spațiu comunitar pentru evenimente culturale și adunări publice din district.",
+                  "category": "cultural",
+                  "coords": [
+                        37.048509,
+                        -1.442107
+                  ]
+            },
+            {
+                  "name": "Kasanga Conservancy",
+                  "text": "Acționând ca un coridor ecologic vital în regiune, această rezervație naturală protejată conservă flora indigenă și pășunile pentru fauna sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        37.072538,
+                        -1.460919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "This open-air performance venue features tiered seating, providing a communal space for cultural events and public gatherings in the district.",
+                  "category": "cultural",
+                  "coords": [
+                        37.048509,
+                        -1.442107
+                  ]
+            },
+            {
+                  "name": "Kasanga Conservancy",
+                  "text": "Acting as a vital ecological corridor in the region, this protected nature conservancy preserves indigenous flora and grazing lands for wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        37.072538,
+                        -1.460919
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-16",
     coords: [36.985, -1.455],
@@ -1312,7 +3337,196 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/kenya-meat-commission-economic-v2.webp"},
   {
-    id: "brooksides-dairy-processing-economic-v2",
+    id: "brooksides-dairy-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "KUNEC Monument",
+                  "text": "Dieses am 4. Dezember 1992 eingeweihte Denkmal erinnert an die bedeutenden organisatorischen Meilensteine der lokalen Genossenschaftsbewegung.",
+                  "category": "historical",
+                  "coords": [
+                        36.933239,
+                        -1.180891
+                  ]
+            },
+            {
+                  "name": "Warbugia Ugandensis(Muthiga)",
+                  "text": "Dieses Naturdenkmal, das sich um einen hochgeschätzten medizinischen ostafrikanischen Grünholzbaum dreht, ehrt das traditionelle Heilungs-Erbe, das mit der Muthiga-Art verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.92912,
+                        -1.180002
+                  ]
+            },
+            {
+                  "name": "Joys Home",
+                  "text": "Dieses einladende Wohnhaus zeichnet sich durch seine unverwechselbare lokale Architektur aus und dient als malerische Sehenswürdigkeit im täglichen Leben des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        36.921513,
+                        -1.151386
+                  ]
+            },
+            {
+                  "name": "The Kenyatta University Graduate School",
+                  "text": "Dieses beeindruckende institutionelle Gebäude steht als architektonisches Denkmal für Hochschulbildung und fortgeschrittene akademische Forschung in Kenia.",
+                  "category": "historical",
+                  "coords": [
+                        36.927337,
+                        -1.183576
+                  ]
+            },
+            {
+                  "name": "KU Campanille",
+                  "text": "Dieser ikonische Glockenturm erhebt sich über den Universitätscampus und dient als historisches Wahrzeichen und zentraler Orientierungspunkt für Studenten.",
+                  "category": "historical",
+                  "coords": [
+                        36.935252,
+                        -1.177383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KUNEC Monument",
+                  "text": "Az 1992. december 4-én felavatott emlékmű a helyi szövetkezeti mozgalom jelentős szervezeti mérföldköveinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        36.933239,
+                        -1.180891
+                  ]
+            },
+            {
+                  "name": "Warbugia Ugandensis(Muthiga)",
+                  "text": "A nagyra becsült kelet-afrikai gyógyító fára összpontosító természeti emlékmű a Muthiga fajhoz kötődő hagyományos gyógyászati örökség előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        36.92912,
+                        -1.180002
+                  ]
+            },
+            {
+                  "name": "Joys Home",
+                  "text": "Ez a barátságos lakóingatlan jellegzetes helyi építészetével tűnik ki, és a környék mindennapi életének egyik festői nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        36.921513,
+                        -1.151386
+                  ]
+            },
+            {
+                  "name": "The Kenyatta University Graduate School",
+                  "text": "Ez a lenyűgöző intézményi épület a felsőoktatás és a fejlett tudományos kutatás építészeti emlékműve Kenyában.",
+                  "category": "historical",
+                  "coords": [
+                        36.927337,
+                        -1.183576
+                  ]
+            },
+            {
+                  "name": "KU Campanille",
+                  "text": "Az egyetemi campus fölé magasodó ikonikus harangtorony történelmi mérföldkőként és központi tájékozódási pontként szolgál a hallgatók számára.",
+                  "category": "historical",
+                  "coords": [
+                        36.935252,
+                        -1.177383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KUNEC Monument",
+                  "text": "Inaugurat la 4 decembrie 1992, acest monument în picioare comemorează etapele organizaționale semnificative ale mișcării cooperatiste locale.",
+                  "category": "historical",
+                  "coords": [
+                        36.933239,
+                        -1.180891
+                  ]
+            },
+            {
+                  "name": "Warbugia Ugandensis(Muthiga)",
+                  "text": "Centrat în jurul unui arbore din lemn de esență tare din Africa de Est, de mare valoare medicinală, acest monument natural onorează moștenirea de vindecare tradițională asociată speciei Muthiga.",
+                  "category": "historical",
+                  "coords": [
+                        36.92912,
+                        -1.180002
+                  ]
+            },
+            {
+                  "name": "Joys Home",
+                  "text": "Această proprietate rezidențială primitoare se remarcă prin arhitectura sa locală distinctivă și servește drept un punct de atracție pitoresc în viața de zi cu zi a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        36.921513,
+                        -1.151386
+                  ]
+            },
+            {
+                  "name": "The Kenyatta University Graduate School",
+                  "text": "Această structură instituțională impresionantă reprezintă un monument arhitectural dedicat învățământului superior și cercetării academice avansate din Kenia.",
+                  "category": "historical",
+                  "coords": [
+                        36.927337,
+                        -1.183576
+                  ]
+            },
+            {
+                  "name": "KU Campanille",
+                  "text": "Ridicându-se deasupra campusului universitar, această clopotniță emblematică servește ca un reper istoric și un punct central de orientare pentru studenți.",
+                  "category": "historical",
+                  "coords": [
+                        36.935252,
+                        -1.177383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KUNEC Monument",
+                  "text": "Inaugurated on December 4, 1992, this standing monument commemorates the significant organizational milestones of the local cooperative movement.",
+                  "category": "historical",
+                  "coords": [
+                        36.933239,
+                        -1.180891
+                  ]
+            },
+            {
+                  "name": "Warbugia Ugandensis(Muthiga)",
+                  "text": "Centered around a highly valued medicinal East African greenwood tree, this natural monument honors the traditional healing heritage associated with the Muthiga species.",
+                  "category": "historical",
+                  "coords": [
+                        36.92912,
+                        -1.180002
+                  ]
+            },
+            {
+                  "name": "Joys Home",
+                  "text": "This welcoming residential property features distinctive local architecture and serves as a quaint point of interest within the neighborhood's daily life.",
+                  "category": "landmark",
+                  "coords": [
+                        36.921513,
+                        -1.151386
+                  ]
+            },
+            {
+                  "name": "The Kenyatta University Graduate School",
+                  "text": "This impressive institutional structure stands as an architectural monument to higher education and advanced academic research in Kenya.",
+                  "category": "historical",
+                  "coords": [
+                        36.927337,
+                        -1.183576
+                  ]
+            },
+            {
+                  "name": "KU Campanille",
+                  "text": "Rising above the university campus, this iconic bell tower structure serves as a historic landmark and a central orientation point for students.",
+                  "category": "historical",
+                  "coords": [
+                        36.935252,
+                        -1.177383
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-22",
     coords: [36.955, -1.14],
@@ -1361,7 +3575,124 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/brooksides-dairy-processing-economic-v2.webp"},
   {
-    id: "base-titanium-port-facility-economic-v2",
+    id: "base-titanium-port-facility-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MoonQue House",
+                  "text": "Dieser lokale Aussichtspunkt bietet einen weiten Blick über die umliegende Hafenregion.",
+                  "category": "natural",
+                  "coords": [
+                        39.661355,
+                        -4.116335
+                  ]
+            },
+            {
+                  "name": "Pungu villa",
+                  "text": "Besucher dieses Aussichtspunktes können von der Villa aus Küstenpanoramen genießen.",
+                  "category": "natural",
+                  "coords": [
+                        39.661389,
+                        -4.113856
+                  ]
+            },
+            {
+                  "name": "Kwa DA SHAMSA LIKONI",
+                  "text": "Dieser Aussichtspunkt bietet eine klare Sicht auf das geschäftige Küstengebiet von Likoni.",
+                  "category": "natural",
+                  "coords": [
+                        39.66461,
+                        -4.096237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MoonQue House",
+                  "text": "Ez a helyi kilátó festői panorámát nyújt a környező kikötői régióra.",
+                  "category": "natural",
+                  "coords": [
+                        39.661355,
+                        -4.116335
+                  ]
+            },
+            {
+                  "name": "Pungu villa",
+                  "text": "A kilátónál a látogatók a villa területéről élvezhetik a tengerparti panorámát.",
+                  "category": "natural",
+                  "coords": [
+                        39.661389,
+                        -4.113856
+                  ]
+            },
+            {
+                  "name": "Kwa DA SHAMSA LIKONI",
+                  "text": "Ez a megfigyelőpont tiszta rálátást biztosít a nyüzsgő Likoni partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        39.66461,
+                        -4.096237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MoonQue House",
+                  "text": "Acest punct de belvedere local oferă panorame pitorești asupra regiunii portuare înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        39.661355,
+                        -4.116335
+                  ]
+            },
+            {
+                  "name": "Pungu villa",
+                  "text": "Vizitatorii acestui punct de belvedere se pot bucura de panorame de coastă de pe domeniul vilei.",
+                  "category": "natural",
+                  "coords": [
+                        39.661389,
+                        -4.113856
+                  ]
+            },
+            {
+                  "name": "Kwa DA SHAMSA LIKONI",
+                  "text": "Acest punct de observație oferă vederi clare asupra zonei de coastă pline de viață din Likoni.",
+                  "category": "natural",
+                  "coords": [
+                        39.66461,
+                        -4.096237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MoonQue House",
+                  "text": "This local viewpoint offers scenic vistas over the surrounding port region.",
+                  "category": "natural",
+                  "coords": [
+                        39.661355,
+                        -4.116335
+                  ]
+            },
+            {
+                  "name": "Pungu villa",
+                  "text": "Visitors at this viewpoint can enjoy coastal panoramas from the grounds of the villa.",
+                  "category": "natural",
+                  "coords": [
+                        39.661389,
+                        -4.113856
+                  ]
+            },
+            {
+                  "name": "Kwa DA SHAMSA LIKONI",
+                  "text": "This observation point provides clear sights over the bustling Likoni coastal area.",
+                  "category": "natural",
+                  "coords": [
+                        39.66461,
+                        -4.096237
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KE-01",
     coords: [39.635, -4.09],
@@ -1410,7 +3741,52 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     
      image: "/poi-images/base-titanium-port-facility-economic-v2.webp"},
   {
-    id: "pepsi-cola-plant-ruaraka-economic-v2",
+    id: "pepsi-cola-plant-ruaraka-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. John Ampitheatre",
+                  "text": "Dieses Amphitheater bietet Freiluftaufführungen in der Nähe der Wirtschaftszone von Ruaraka.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892332,
+                        -1.248931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. John Ampitheatre",
+                  "text": "Ez az amfiteátrum szabadtéri előadásoknak ad otthont a ruarakai gazdasági övezet közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892332,
+                        -1.248931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. John Ampitheatre",
+                  "text": "Acest amfiteatru oferă spectacole în aer liber în apropierea zonei economice Ruaraka.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892332,
+                        -1.248931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. John Ampitheatre",
+                  "text": "This open-air amphitheatre hosts performances near the Ruaraka economic and industrial zone.",
+                  "category": "cultural",
+                  "coords": [
+                        36.892332,
+                        -1.248931
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KE-47",
     coords: [36.885, -1.245],

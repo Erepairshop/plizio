@@ -75,7 +75,88 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "cal-madow-mountains-nature-v2",
+    id: "cal-madow-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dharin Duley",
+                  "text": "Dharin Duley ist eine unberührte natürliche Quelle, die sich durch die tief bewaldeten Schluchten des Cal-Madow-Gebirges schneidet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.438852,
+                        11.055377
+                  ]
+            },
+            {
+                  "name": "Geshalaal",
+                  "text": "Geshalaal ist eine hoch aufragende Felsformation, die hoch über das nebelbedeckte Blätterdach der Cal-Madow-Wälder ragt.",
+                  "category": "natural",
+                  "coords": [
+                        48.42673,
+                        11.030692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dharin Duley",
+                  "text": "A Dharin Duley egy érintetlen természetes forrás, amely a Cal Madow hegység mélyen erdősült szakadékait szeli át.",
+                  "category": "landmark",
+                  "coords": [
+                        48.438852,
+                        11.055377
+                  ]
+            },
+            {
+                  "name": "Geshalaal",
+                  "text": "A Geshalaal egy tornyosuló sziklaképződmény, amely magasan a Cal Madow erdők ködbe burkolózó lombkoronája fölé nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        48.42673,
+                        11.030692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dharin Duley",
+                  "text": "Dharin Duley este un izvor natural curat care taie prin râpele adânc împădurite ale munților Cal Madow.",
+                  "category": "landmark",
+                  "coords": [
+                        48.438852,
+                        11.055377
+                  ]
+            },
+            {
+                  "name": "Geshalaal",
+                  "text": "Geshalaal este o formațiune stâncoasă falnică care ajunge sus deasupra coronamentului acoperit de ceață al pădurilor Cal Madow.",
+                  "category": "natural",
+                  "coords": [
+                        48.42673,
+                        11.030692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dharin Duley",
+                  "text": "Dharin Duley is a pristine natural spring cutting through the deeply forested ravines of the Cal Madow mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        48.438852,
+                        11.055377
+                  ]
+            },
+            {
+                  "name": "Geshalaal",
+                  "text": "Geshalaal is a towering rock formation reaching high above the mist-covered canopy of the Cal Madow forests.",
+                  "category": "natural",
+                  "coords": [
+                        48.42673,
+                        11.030692
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-SA",
     coords: [48.5, 11.0],
@@ -111,7 +192,196 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "golis-mountains-nature-v2",
+    id: "golis-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Darasalam2",
+                  "text": "Dieser malerische Aussichtspunkt liegt an den steilen Hängen der Golis-Berge und blickt auf tiefe Täler, die mit widerstandsfähigen Akazienbäumen gesprenkelt sind.",
+                  "category": "natural",
+                  "coords": [
+                        44.04596,
+                        9.75593
+                  ]
+            },
+            {
+                  "name": "Daarasalam3",
+                  "text": "Hoch oben auf dem Bergkamm gelegen, offenbart dieser Aussichtspunkt die dramatischen tektonischen Falten und die spärliche Vegetation der Golis-Kette.",
+                  "category": "natural",
+                  "coords": [
+                        44.046248,
+                        9.758548
+                  ]
+            },
+            {
+                  "name": "Darasalam4",
+                  "text": "Dieser bergige Aussichtspunkt bietet Reisenden atemberaubende Panoramablicke auf die schroffen, trockenen Gipfel, die das nördliche Somaliland prägen.",
+                  "category": "natural",
+                  "coords": [
+                        44.036473,
+                        9.757215
+                  ]
+            },
+            {
+                  "name": "Darasalam1",
+                  "text": "Als Tor zu den Golis-Bergen bietet dieser Ort weitreichende Ausblicke auf die Steilstufe, die zur Küstenebene hin abfällt.",
+                  "category": "natural",
+                  "coords": [
+                        44.037818,
+                        9.753423
+                  ]
+            },
+            {
+                  "name": "BEERTA QARBADLE ENG SHIBIIN",
+                  "text": "Mit Blick auf die landwirtschaftlichen Einfriedungen inmitten der Golis-Berge kontrastiert dieser Aussichtspunkt bewirtschaftete grüne Parzellen mit den trockenen, felsigen Hügeln.",
+                  "category": "natural",
+                  "coords": [
+                        44.013171,
+                        9.818679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Darasalam2",
+                  "text": "A Golis-hegység meredek lejtőin fekvő festői kilátó mély völgyekre néz, amelyeket szívós akácfák pöttyöznek.",
+                  "category": "natural",
+                  "coords": [
+                        44.04596,
+                        9.75593
+                  ]
+            },
+            {
+                  "name": "Daarasalam3",
+                  "text": "A hegygerincen magasan elhelyezkedő kilátó feltárja a Golis-hegység drámai tektonikus redőit és gyér növényzetét.",
+                  "category": "natural",
+                  "coords": [
+                        44.046248,
+                        9.758548
+                  ]
+            },
+            {
+                  "name": "Darasalam4",
+                  "text": "Ez a hegyvidéki kilátó lélegzetelállító panorámát nyújt az utazóknak az Észak-Szomáliföldet meghatározó zord, száraz csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        44.036473,
+                        9.757215
+                  ]
+            },
+            {
+                  "name": "Darasalam1",
+                  "text": "A Golis-hegység kapujaként szolgáló pontról messzire nyúló kilátás nyílik a tengerparti síkság felé lejtő meredélyre.",
+                  "category": "natural",
+                  "coords": [
+                        44.037818,
+                        9.753423
+                  ]
+            },
+            {
+                  "name": "BEERTA QARBADLE ENG SHIBIIN",
+                  "text": "A Golis-hegység terepén megbúvó mezőgazdasági bekerített területekre néző kilátó kontrasztot állít a művelt zöld parcellák és a száraz sziklás dombok között.",
+                  "category": "natural",
+                  "coords": [
+                        44.013171,
+                        9.818679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Darasalam2",
+                  "text": "Așezat pe pantele abrupte ale Munților Golis, acest punct de belvedere pitoresc domină văi adânci presărate cu salcâmi rezistenți.",
+                  "category": "natural",
+                  "coords": [
+                        44.04596,
+                        9.75593
+                  ]
+            },
+            {
+                  "name": "Daarasalam3",
+                  "text": "Poziționat sus, de-a lungul crestei muntelui, acest punct de observație dezvăluie faldurile tectonice dramatice și vegetația rară a lanțului Golis.",
+                  "category": "natural",
+                  "coords": [
+                        44.046248,
+                        9.758548
+                  ]
+            },
+            {
+                  "name": "Darasalam4",
+                  "text": "Acest punct de belvedere montan oferă călătorilor scene panoramice uluitoare ale vârfurilor stâncoase și aride care definesc nordul Somalilandului.",
+                  "category": "natural",
+                  "coords": [
+                        44.036473,
+                        9.757215
+                  ]
+            },
+            {
+                  "name": "Darasalam1",
+                  "text": "Servind ca o perspectivă de poartă către Munții Golis, acest loc oferă vederi îndepărtate ale escarpamentului care coboară spre câmpia de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        44.037818,
+                        9.753423
+                  ]
+            },
+            {
+                  "name": "BEERTA QARBADLE ENG SHIBIIN",
+                  "text": "Dominând incintele agricole cuibărite în terenul muntos Golis, acest punct de belvedere contrastează parcelele verzi cultivate cu dealurile stâncoase uscate.",
+                  "category": "natural",
+                  "coords": [
+                        44.013171,
+                        9.818679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Darasalam2",
+                  "text": "Perched on the steep slopes of the Golis Mountains, this scenic vantage point overlooks deep valleys dotted with resilient acacia trees.",
+                  "category": "natural",
+                  "coords": [
+                        44.04596,
+                        9.75593
+                  ]
+            },
+            {
+                  "name": "Daarasalam3",
+                  "text": "Positioned high along the mountain ridge, this lookout reveals the dramatic tectonic folds and sparse vegetation of the Golis range.",
+                  "category": "natural",
+                  "coords": [
+                        44.046248,
+                        9.758548
+                  ]
+            },
+            {
+                  "name": "Darasalam4",
+                  "text": "This mountainous viewpoint provides travelers with breathtaking panoramic scenes of the rugged, arid peaks defining northern Somaliland.",
+                  "category": "natural",
+                  "coords": [
+                        44.036473,
+                        9.757215
+                  ]
+            },
+            {
+                  "name": "Darasalam1",
+                  "text": "Serving as a gateway perspective into the Golis Mountains, this spot offers far-reaching views of the escarpment dropping towards the coastal plain.",
+                  "category": "natural",
+                  "coords": [
+                        44.037818,
+                        9.753423
+                  ]
+            },
+            {
+                  "name": "BEERTA QARBADLE ENG SHIBIIN",
+                  "text": "Overlooking the agricultural enclosures nestled within the Golis mountain terrain, this viewpoint contrasts cultivated green plots against the dry rocky hills.",
+                  "category": "natural",
+                  "coords": [
+                        44.013171,
+                        9.818679
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-WO",
     coords: [44.0, 9.8],
@@ -147,7 +417,88 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "surud-cad-nature-v2",
+    id: "surud-cad-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waraq",
+                  "text": "Waraq ist ein hoch aufragender Gipfel in der zerklüfteten Bergwildnis des nördlichen somalischen Hochlands.",
+                  "category": "natural",
+                  "coords": [
+                        47.189107,
+                        10.750788
+                  ]
+            },
+            {
+                  "name": "Surud Cad",
+                  "text": "Surud Cad stellt eine der höchsten Berglagen Somalias dar und zeichnet sich durch steile Felshänge aus.",
+                  "category": "natural",
+                  "coords": [
+                        47.200721,
+                        10.727515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waraq",
+                  "text": "A Waraq egy tornyosuló csúcs az északi szomáliai felvidék zord hegyi vadonjában.",
+                  "category": "natural",
+                  "coords": [
+                        47.189107,
+                        10.750788
+                  ]
+            },
+            {
+                  "name": "Surud Cad",
+                  "text": "A Surud Cad Szomália egyik legmagasabb hegyvonulata, melyet meredek sziklás lejtők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        47.200721,
+                        10.727515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waraq",
+                  "text": "Waraq este un vârf falnic situat în sălbăticia montană accidentată a munților din nordul Somaliei.",
+                  "category": "natural",
+                  "coords": [
+                        47.189107,
+                        10.750788
+                  ]
+            },
+            {
+                  "name": "Surud Cad",
+                  "text": "Surud Cad reprezintă una dintre cele mai înalte cote montane din Somalia, caracterizată prin pante stâncoase abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        47.200721,
+                        10.727515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waraq",
+                  "text": "Waraq is a towering summit located in the rugged mountain wilderness of the northern Somali highlands.",
+                  "category": "natural",
+                  "coords": [
+                        47.189107,
+                        10.750788
+                  ]
+            },
+            {
+                  "name": "Surud Cad",
+                  "text": "Surud Cad represents one of the highest mountain elevations in Somalia, characterized by steep rocky slopes.",
+                  "category": "natural",
+                  "coords": [
+                        47.200721,
+                        10.727515
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-SA",
     coords: [47.2, 10.7],
@@ -363,7 +714,52 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "ayaha-valley-nature-v2",
+    id: "ayaha-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xabaalaha baqiic",
+                  "text": "Dieser ruhige Aussichtspunkt im Ayaha-Tal bietet einen respektvollen Blick auf die weitläufigen traditionellen Begräbnisstätten von Xabaalaha Baqiic.",
+                  "category": "natural",
+                  "coords": [
+                        44.037763,
+                        9.648168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xabaalaha baqiic",
+                  "text": "Ez a csendes kilátó az Ayaha-völgyben tiszteletteljes áttekintést nyújt Xabaalaha Baqiic kiterjedt hagyományos temetkezési helyeiről.",
+                  "category": "natural",
+                  "coords": [
+                        44.037763,
+                        9.648168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xabaalaha baqiic",
+                  "text": "Acest punct de belvedere liniștit din Valea Ayaha oferă o privire de ansamblu respectuoasă asupra întinselor terenuri funerare tradiționale din Xabaalaha Baqiic.",
+                  "category": "natural",
+                  "coords": [
+                        44.037763,
+                        9.648168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xabaalaha baqiic",
+                  "text": "This quiet viewpoint in the Ayaha Valley offers a respectful overview of the expansive traditional burial grounds of Xabaalaha Baqiic.",
+                  "category": "natural",
+                  "coords": [
+                        44.037763,
+                        9.648168
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SO-WO",
     coords: [44.1, 9.7],
@@ -399,7 +795,160 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "gacan-libaah-nature-v2",
+    id: "gacan-libaah-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barqasan",
+                  "text": "Dieser markante Gipfel im Naturschutzgebiet Gacan Libaah erhebt sich über die dichten Reste des Hochlandwaldes, die die Steilstufe prägen.",
+                  "category": "natural",
+                  "coords": [
+                        44.740448,
+                        9.964185
+                  ]
+            },
+            {
+                  "name": "Dhariyo",
+                  "text": "Dieser steile Berggipfel in der Region Gacan Libaah ist durch seine dramatischen Klippen definiert und dient als Lebensraum für verschiedene hochalpine Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        44.718069,
+                        9.89176
+                  ]
+            },
+            {
+                  "name": "Mandheera",
+                  "text": "Dieser beeindruckende Granitgipfel dominiert die lokale Skyline und fungiert als wichtiges geografisches Wahrzeichen, das das bergige Gelände zwischen Hargeisa und Berbera markiert.",
+                  "category": "natural",
+                  "coords": [
+                        44.722547,
+                        9.906495
+                  ]
+            },
+            {
+                  "name": "ABDAAL TAWER TLS",
+                  "text": "Dieser hoch gelegene Aussichtspunkt in der Nähe eines hoch aufragenden Kommunikationsmastes bietet ununterbrochene Panoramen über die bewaldete Steilstufe von Gacan Libaah.",
+                  "category": "natural",
+                  "coords": [
+                        44.691424,
+                        9.924874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barqasan",
+                  "text": "A Gacan Libaah természetvédelmi területen álló kiemelkedő csúcs a meredélyt jellemző sűrű felvidéki erdőmaradványok fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        44.740448,
+                        9.964185
+                  ]
+            },
+            {
+                  "name": "Dhariyo",
+                  "text": "A Gacan Libaah régióban található meredek hegycsúcsot drámai sziklái határozzák meg, és különféle nagy magasságú madárfajok élőhelyeként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        44.718069,
+                        9.89176
+                  ]
+            },
+            {
+                  "name": "Mandheera",
+                  "text": "A helyi látképet uraló hatalmas gránitcsúcs kulcsfontosságú földrajzi tájékozódási pontként szolgál, amely kijelöli a Hargeisa és Berbera közötti hegyvidéki terepet.",
+                  "category": "natural",
+                  "coords": [
+                        44.722547,
+                        9.906495
+                  ]
+            },
+            {
+                  "name": "ABDAAL TAWER TLS",
+                  "text": "A tornyosuló távközlési árboc közelében elhelyezkedő magaslati kilátó zavartalan panorámát nyújt a Gacan Libaah erdős meredélyére.",
+                  "category": "natural",
+                  "coords": [
+                        44.691424,
+                        9.924874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barqasan",
+                  "text": "Aflat în zona rezervației naturale Gacan Libaah, acest vârf proeminent se ridică deasupra rămășițelor dense de pădure montană care caracterizează escarpamentul.",
+                  "category": "natural",
+                  "coords": [
+                        44.740448,
+                        9.964185
+                  ]
+            },
+            {
+                  "name": "Dhariyo",
+                  "text": "Acest vârf muntos abrupt din regiunea Gacan Libaah este definit de stâncile sale dramatice și servește ca habitat pentru diverse specii de păsări de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        44.718069,
+                        9.89176
+                  ]
+            },
+            {
+                  "name": "Mandheera",
+                  "text": "Dominând orizontul local, acest formidabil vârf de granit acționează ca un punct de reper geografic cheie, marcând terenul muntos dintre Hargeisa și Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.722547,
+                        9.906495
+                  ]
+            },
+            {
+                  "name": "ABDAAL TAWER TLS",
+                  "text": "Poziționat lângă un catarg înalt de comunicații, acest punct de belvedere de mare altitudine oferă panorame neîntrerupte asupra escarpamentului împădurit Gacan Libaah.",
+                  "category": "natural",
+                  "coords": [
+                        44.691424,
+                        9.924874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barqasan",
+                  "text": "Standing within the Gacan Libaah nature reserve area, this prominent summit rises above the dense highland forest remnants that characterize the escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        44.740448,
+                        9.964185
+                  ]
+            },
+            {
+                  "name": "Dhariyo",
+                  "text": "This steep mountain peak in the Gacan Libaah region is defined by its dramatic cliffs and serves as a habitat for diverse high-altitude bird species.",
+                  "category": "natural",
+                  "coords": [
+                        44.718069,
+                        9.89176
+                  ]
+            },
+            {
+                  "name": "Mandheera",
+                  "text": "Dominating the local skyline, this formidable granite peak acts as a key geographical landmark marking the mountainous terrain between Hargeisa and Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.722547,
+                        9.906495
+                  ]
+            },
+            {
+                  "name": "ABDAAL TAWER TLS",
+                  "text": "Positioned near a towering communications mast, this high-altitude viewpoint delivers uninterrupted panoramas over the forested Gacan Libaah escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        44.691424,
+                        9.924874
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-WO",
     coords: [44.7, 9.9],
@@ -687,7 +1236,88 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "ceerigaabo-uplands-nature-v2",
+    id: "ceerigaabo-uplands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ceel Ileed",
+                  "text": "Ceel Ileed ist eine Süßwasseroase im hochgelegenen Gelände der Region Sanaag.",
+                  "category": "landmark",
+                  "coords": [
+                        47.223147,
+                        10.615245
+                  ]
+            },
+            {
+                  "name": "laan qiciye",
+                  "text": "Dieser hoch gelegene Aussichtspunkt bietet einen weiten Blick über die gebirgige Hochebene.",
+                  "category": "natural",
+                  "coords": [
+                        47.306724,
+                        10.633356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ceel Ileed",
+                  "text": "A Ceel Ileed egy édesvizű oázis, amely a Sanaag régió magasan fekvő terepén található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.223147,
+                        10.615245
+                  ]
+            },
+            {
+                  "name": "laan qiciye",
+                  "text": "Ez a magasan fekvő kilátóhely elsöprő kilátást nyújt a hegyvidéki fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        47.306724,
+                        10.633356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ceel Ileed",
+                  "text": "Ceel Ileed este o oază cu apă dulce situată pe terenul de mare altitudine din regiunea Sanaag.",
+                  "category": "landmark",
+                  "coords": [
+                        47.223147,
+                        10.615245
+                  ]
+            },
+            {
+                  "name": "laan qiciye",
+                  "text": "Acest punct de observație situat la mare altitudine oferă priveliști ample peste platoul muntos al ținuturilor înalte.",
+                  "category": "natural",
+                  "coords": [
+                        47.306724,
+                        10.633356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ceel Ileed",
+                  "text": "Ceel Ileed is a freshwater oasis situated in the high-altitude terrain of the Sanaag region.",
+                  "category": "landmark",
+                  "coords": [
+                        47.223147,
+                        10.615245
+                  ]
+            },
+            {
+                  "name": "laan qiciye",
+                  "text": "This high-altitude vantage point provides sweeping views across the mountainous plateau of the uplands.",
+                  "category": "natural",
+                  "coords": [
+                        47.306724,
+                        10.633356
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-SA",
     coords: [47.3, 10.6],
@@ -831,7 +1461,52 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "cal-madow-forest-nature-v2",
+    id: "cal-madow-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laas Baar",
+                  "text": "Die Ruinen von Laas Baar bestehen aus rätselhaften Steinresten, die tief in der dichten Vegetation des Cal-Madow-Waldes verborgen sind.",
+                  "category": "historical",
+                  "coords": [
+                        48.616764,
+                        11.072255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laas Baar",
+                  "text": "A Laas Baar romjai a Cal Madow erdő sűrű növényzetében mélyen megbúvó, rejtélyes kőmaradványokból állnak.",
+                  "category": "historical",
+                  "coords": [
+                        48.616764,
+                        11.072255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laas Baar",
+                  "text": "Ruinele de la Laas Baar constau în rămășițe enigmatice de piatră ascunse adânc în vegetația deasă a pădurii Cal Madow.",
+                  "category": "historical",
+                  "coords": [
+                        48.616764,
+                        11.072255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laas Baar",
+                  "text": "The ruins of Laas Baar consist of enigmatic stone remains hidden deeply within the dense vegetation of the Cal Madow forest.",
+                  "category": "historical",
+                  "coords": [
+                        48.616764,
+                        11.072255
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SO-SA",
     coords: [48.7, 11.1],
@@ -867,7 +1542,52 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "golis-northern-slope-nature-v2",
+    id: "golis-northern-slope-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karin Hodai",
+                  "text": "Dieser Gipfel liegt an den Nordhängen, die zum Golf von Aden hin abfallen, und fängt die vorbeiziehende Meeresfeuchtigkeit ein, die spärliches Berggebüsch nährt.",
+                  "category": "natural",
+                  "coords": [
+                        44.582534,
+                        10.020784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karin Hodai",
+                  "text": "Az Ádeni-öböl felé ereszkedő északi lejtőkön elhelyezkedő csúcs felfogja az elhaladó tengeri nedvességet, amely ritkás hegyi cserjéseket tart fenn.",
+                  "category": "natural",
+                  "coords": [
+                        44.582534,
+                        10.020784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karin Hodai",
+                  "text": "Situat pe pantele nordice care coboară spre Golful Aden, acest vârf interceptează umiditatea maritimă trecătoare, susținând tufărișurile montane rare.",
+                  "category": "natural",
+                  "coords": [
+                        44.582534,
+                        10.020784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karin Hodai",
+                  "text": "Situated on the northern slopes that descend towards the Gulf of Aden, this peak intercepts passing maritime moisture, supporting sparse montane scrub.",
+                  "category": "natural",
+                  "coords": [
+                        44.582534,
+                        10.020784
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SO-WO",
     coords: [44.5, 10.0],
@@ -939,7 +1659,52 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "ras-xaafuun-nature-v2",
+    id: "ras-xaafuun-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ra's Hafun Lighthouse",
+                  "text": "Ein Navigationsleuchtturm auf der markanten Landzunge Ras Hafun in der Nähe des östlichsten Punktes Afrikas.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413942,
+                        10.443079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ra's Hafun Lighthouse",
+                  "text": "Egy navigációs világítótorony a kiemelkedő Ras Hafun hegyfokon, Afrika legkeletibb pontjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413942,
+                        10.443079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ra's Hafun Lighthouse",
+                  "text": "Un far de navigație situat pe proeminentul promontoriu Ras Hafun, lângă cel mai estic punct al Africii.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413942,
+                        10.443079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ra's Hafun Lighthouse",
+                  "text": "A navigational lighthouse situated on the prominent Ras Hafun headland, near the easternmost point of Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413942,
+                        10.443079
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "SO-BR",
     coords: [51.4, 10.4],
@@ -1011,7 +1776,88 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "gardafui-coast-nature-v2",
+    id: "gardafui-coast-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sarbi Dheer",
+                  "text": "Ein erhöhter Berggipfel, der das zerklüftete, trockene Gelände der Gardafui-Küste überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        51.2193,
+                        11.6857
+                  ]
+            },
+            {
+                  "name": "Meyro",
+                  "text": "Eine natürliche Süßwasserquelle, die aus dem Boden in der trockenen Landschaft der Gardafui-Region entspringt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2335,
+                        11.7189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sarbi Dheer",
+                  "text": "Egy magaslati hegycsúcs, amely a Gardafui partvidék zord, száraz terepére néz.",
+                  "category": "natural",
+                  "coords": [
+                        51.2193,
+                        11.6857
+                  ]
+            },
+            {
+                  "name": "Meyro",
+                  "text": "Egy természetes édesvizű forrás, amely a Gardafui régió száraz táján tör elő a földből.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2335,
+                        11.7189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sarbi Dheer",
+                  "text": "Un vârf de munte înalt, cu vedere la terenul accidentat și arid al coastei Gardafui.",
+                  "category": "natural",
+                  "coords": [
+                        51.2193,
+                        11.6857
+                  ]
+            },
+            {
+                  "name": "Meyro",
+                  "text": "Un izvor natural de apă dulce care iese din pământ în peisajul arid al regiunii Gardafui.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2335,
+                        11.7189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarbi Dheer",
+                  "text": "An elevated mountain peak overlooking the rugged, arid terrain of the Gardafui coast.",
+                  "category": "natural",
+                  "coords": [
+                        51.2193,
+                        11.6857
+                  ]
+            },
+            {
+                  "name": "Meyro",
+                  "text": "A natural freshwater spring emerging from the ground within the arid landscape of the Gardafui region.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2335,
+                        11.7189
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "SO-BR",
     coords: [51.3, 11.7],
@@ -1047,7 +1893,124 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     },
   },
   {
-    id: "ayaha-plains-nature-v2",
+    id: "ayaha-plains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "tls t miyi iyo magaalo",
+                  "text": "Mit Blick auf die weiten Ayaha-Ebenen veranschaulicht dieser Aussichtspunkt grafisch den krassen Übergang zwischen verstreuten ländlichen Nomadensiedlungen und herannahenden städtischen Entwicklungen.",
+                  "category": "natural",
+                  "coords": [
+                        44.238872,
+                        9.635147
+                  ]
+            },
+            {
+                  "name": "tls geele Arab",
+                  "text": "Mit Blick über die flachen, staubigen Weiten der Ayaha-Ebenen fängt dieser offene Aussichtspunkt die typischen halbtrockenen Weidelandschaften der lokalen Hirten ein.",
+                  "category": "natural",
+                  "coords": [
+                        44.204782,
+                        9.638518
+                  ]
+            },
+            {
+                  "name": "TAYO FACTORY0634422343 (ENG:shibin 4220248)",
+                  "text": "Dieser lokale Aussichtspunkt bietet eine erhöhte Perspektive über das weitläufige Naturgebiet der Ayaha Plains.",
+                  "category": "natural",
+                  "coords": [
+                        44.179668,
+                        9.623052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tls t miyi iyo magaalo",
+                  "text": "A hatalmas Ayaha-síkságra néző kilátó szemléletesen illusztrálja a szórványos vidéki nomád települések és a terjeszkedő városi fejlesztések közötti éles átmenetet.",
+                  "category": "natural",
+                  "coords": [
+                        44.238872,
+                        9.635147
+                  ]
+            },
+            {
+                  "name": "tls geele Arab",
+                  "text": "Az Ayaha-síkság lapos, poros kiterjedésein átnézve ez a nyitott kilátó a helyi pásztorok tipikus félszáraz legeltetési környezetét rögzíti.",
+                  "category": "natural",
+                  "coords": [
+                        44.204782,
+                        9.638518
+                  ]
+            },
+            {
+                  "name": "TAYO FACTORY0634422343 (ENG:shibin 4220248)",
+                  "text": "Ez a helyi kilátó magaslati perspektívát kínál a kiterjedt Ayaha Plains természeti területre.",
+                  "category": "natural",
+                  "coords": [
+                        44.179668,
+                        9.623052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tls t miyi iyo magaalo",
+                  "text": "Dominând vastele Câmpii Ayaha, acest punct de belvedere ilustrează grafic tranziția puternică dintre așezările nomade rurale împrăștiate și dezvoltările urbane care se extind.",
+                  "category": "natural",
+                  "coords": [
+                        44.238872,
+                        9.635147
+                  ]
+            },
+            {
+                  "name": "tls geele Arab",
+                  "text": "Privind peste întinderile plate și prăfuite ale câmpiilor Ayaha, acest punct de observație deschis surprinde mediile de pășunat semiaride tipice păstorilor locali.",
+                  "category": "natural",
+                  "coords": [
+                        44.204782,
+                        9.638518
+                  ]
+            },
+            {
+                  "name": "TAYO FACTORY0634422343 (ENG:shibin 4220248)",
+                  "text": "Acest punct de belvedere local oferă o perspectivă înaltă asupra zonei naturale întinse Ayaha Plains.",
+                  "category": "natural",
+                  "coords": [
+                        44.179668,
+                        9.623052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tls t miyi iyo magaalo eng shibiin",
+                  "text": "Overlooking the vast Ayaha Plains, this viewpoint graphically illustrates the stark transition between scattered rural nomadic settlements and encroaching urban developments.",
+                  "category": "natural",
+                  "coords": [
+                        44.238872,
+                        9.635147
+                  ]
+            },
+            {
+                  "name": "tls geele Arab",
+                  "text": "Looking across the flat, dusty expanses of the Ayaha plains, this open vantage point captures the typical semi-arid grazing environments of the local pastoralists.",
+                  "category": "natural",
+                  "coords": [
+                        44.204782,
+                        9.638518
+                  ]
+            },
+            {
+                  "name": "TAYO FACTORY0634422343 (ENG:shibin 4220248)",
+                  "text": "This local viewpoint offers an elevated perspective over the sprawling Ayaha Plains nature area.",
+                  "category": "natural",
+                  "coords": [
+                        44.179668,
+                        9.623052
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SO-WO",
     coords: [44.2, 9.6],

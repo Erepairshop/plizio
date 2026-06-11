@@ -51,7 +51,304 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-kegue-lome-landmarks-v2",
+    id: "stade-kegue-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tata Park",
+                  "text": "Ein Freizeitpark in Lomé, der Fahrgeschäfte und Unterhaltung im Freien für einheimische Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.256104,
+                        6.187793
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "Eine rustikale Windmühlenstruktur, die als ungewöhnliches architektonisches Wahrzeichen im städtischen Umfeld von Lomé steht.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242855,
+                        6.203771
+                  ]
+            },
+            {
+                  "name": "Pizza / Go Karts",
+                  "text": "Diese Freizeitanlage in der Nähe des Stade de Kégué bietet sowohl eine Go-Kart-Bahn als auch eine Pizzeria.",
+                  "category": "landmark",
+                  "coords": [
+                        1.238238,
+                        6.193919
+                  ]
+            },
+            {
+                  "name": "Monument des morts",
+                  "text": "Dieses Kriegerdenkmal in Lomé ehrt die gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        1.230427,
+                        6.194551
+                  ]
+            },
+            {
+                  "name": "Marché d'Hédjranawè",
+                  "text": "Ein geschäftiger traditioneller Markt in Lomé, auf dem Einheimische verschiedene Waren handeln.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240565,
+                        6.181266
+                  ]
+            },
+            {
+                  "name": "Dead Yovo Marjet",
+                  "text": "Dieser unverwechselbare lokale Markt in Lomé bietet einen einzigartigen Einblick in den togoischen Alltags-Handel.",
+                  "category": "landmark",
+                  "coords": [
+                        1.243379,
+                        6.17737
+                  ]
+            },
+            {
+                  "name": "EJES",
+                  "text": "Eine lokal bedeutsame Gemeinschaftsattraktion im belebten Viertel von Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.262719,
+                        6.20006
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "Dieser spezifische Grenzstein markiert das Gelände der Himmlischen Kirche Christi in Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242642,
+                        6.183693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tata Park",
+                  "text": "Szabadidős vidámpark Loméban, amely vidámparki túrákat és szabadtéri szórakozást kínál a helyi családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        1.256104,
+                        6.187793
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "Egy rusztikus szélmalom épület, amely szokatlan építészeti nevezetességként áll Lomé városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242855,
+                        6.203771
+                  ]
+            },
+            {
+                  "name": "Pizza / Go Karts",
+                  "text": "Ez a Stade de Kégué közelében található szórakozóhely gokartpályát és pizzériát is kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        1.238238,
+                        6.193919
+                  ]
+            },
+            {
+                  "name": "Monument des morts",
+                  "text": "Ez a loméi háborús emlékmű az elesett katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        1.230427,
+                        6.194551
+                  ]
+            },
+            {
+                  "name": "Marché d'Hédjranawè",
+                  "text": "Forgalmas hagyományos piac Loméban, ahol a helyiek különféle árukat cserélnek.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240565,
+                        6.181266
+                  ]
+            },
+            {
+                  "name": "Dead Yovo Marjet",
+                  "text": "Ez a jellegzetes loméi helyi piac egyedülálló bepillantást nyújt a togói mindennapi kereskedelembe.",
+                  "category": "landmark",
+                  "coords": [
+                        1.243379,
+                        6.17737
+                  ]
+            },
+            {
+                  "name": "EJES",
+                  "text": "Egy helyi jelentőségű közösségi látványosság Lomé forgalmas részén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.262719,
+                        6.20006
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "Ez a jellegzetes határkő a loméi Krisztus Mennyei Egyházához tartozó területet jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242642,
+                        6.183693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tata Park",
+                  "text": "Un parc de distracții de agrement din Lomé care oferă curse și divertisment în aer liber pentru familiile locale.",
+                  "category": "recreational",
+                  "coords": [
+                        1.256104,
+                        6.187793
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "O moară de vânt rustică care servește ca un punct de reper arhitectural neobișnuit în mediul urban din Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242855,
+                        6.203771
+                  ]
+            },
+            {
+                  "name": "Pizza / Go Karts",
+                  "text": "Această atracție de agrement de lângă Stade de Kégué oferă atât o pistă de karting, cât și o pizzerie.",
+                  "category": "landmark",
+                  "coords": [
+                        1.238238,
+                        6.193919
+                  ]
+            },
+            {
+                  "name": "Monument des morts",
+                  "text": "Acest monument comemorativ de război din Lomé aduce un omagiu soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        1.230427,
+                        6.194551
+                  ]
+            },
+            {
+                  "name": "Marché d'Hédjranawè",
+                  "text": "O piață tradițională plină de viață din Lomé, unde localnicii se adună pentru a face negoț.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240565,
+                        6.181266
+                  ]
+            },
+            {
+                  "name": "Dead Yovo Marjet",
+                  "text": "Această piață locală distinctă din Lomé oferă o privire unică asupra comerțului zilnic togolez.",
+                  "category": "landmark",
+                  "coords": [
+                        1.243379,
+                        6.17737
+                  ]
+            },
+            {
+                  "name": "EJES",
+                  "text": "O atracție comunitară de importanță locală situată în zona plină de viață din Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.262719,
+                        6.20006
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "Această piatră de hotar specifică marchează terenurile asociate cu Biserica Creștinismului Celest din Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242642,
+                        6.183693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tata Park",
+                  "text": "A recreational amusement park in Lomé providing rides and outdoor entertainment for local families.",
+                  "category": "recreational",
+                  "coords": [
+                        1.256104,
+                        6.187793
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "A rustic windmill structure standing as an unusual architectural landmark in the urban environment of Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242855,
+                        6.203771
+                  ]
+            },
+            {
+                  "name": "Pizza / Go Karts",
+                  "text": "This recreational attraction near Stade de Kégué offers both a go-kart track and a pizza dining area.",
+                  "category": "landmark",
+                  "coords": [
+                        1.238238,
+                        6.193919
+                  ]
+            },
+            {
+                  "name": "Monument des morts",
+                  "text": "This commemorative war memorial in Lomé pays tribute to the fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        1.230427,
+                        6.194551
+                  ]
+            },
+            {
+                  "name": "Marché d'Hédjranawè",
+                  "text": "A bustling traditional market in Lomé where locals gather to trade various goods.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240565,
+                        6.181266
+                  ]
+            },
+            {
+                  "name": "Dead Yovo Marjet",
+                  "text": "This distinctive local market in Lomé offers a unique glimpse into Togolese daily commerce.",
+                  "category": "landmark",
+                  "coords": [
+                        1.243379,
+                        6.17737
+                  ]
+            },
+            {
+                  "name": "EJES",
+                  "text": "A locally significant community attraction located in the bustling Lomé area.",
+                  "category": "landmark",
+                  "coords": [
+                        1.262719,
+                        6.20006
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "This specific boundary stone marks the grounds associated with the Celestial Church of Christ in Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.242642,
+                        6.183693
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2385, 6.1775],
@@ -99,7 +396,160 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hotel-2-fevrier-lome-landmarks-v2",
+    id: "hotel-2-fevrier-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Die Place des Martyrs ist ein bedeutendes Denkmal für die Nationalhelden in der Nähe des imposanten Hotels 2 Février.",
+                  "category": "historical",
+                  "coords": [
+                        1.21936,
+                        6.129636
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Das Nationalmuseum von Togo stellt kulturelle und historische Artefakte aus und bewahrt so das Erbe des Landes in der Nähe des Hotel 2 Février.",
+                  "category": "museum",
+                  "coords": [
+                        1.217966,
+                        6.130673
+                  ]
+            },
+            {
+                  "name": "Galerie Coin du Terroir",
+                  "text": "Die Galerie Coin du Terroir ist ein Museum, das lokales togolesisches Kunsthandwerk und Traditionen im Zentrum von Lomé präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        1.215976,
+                        6.132272
+                  ]
+            },
+            {
+                  "name": "Village Artisanal",
+                  "text": "Das Village Artisanal ist ein lebendiger Markt, auf dem lokale Handwerker traditionelles togolesisches Kunsthandwerk herstellen und verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.219726,
+                        6.133511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "A Place des Martyrs a nemzeti hősöknek szentelt jelentős emlékmű az impozáns Hotel 2 Février közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.21936,
+                        6.129636
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "A Togói Nemzeti Múzeum kulturális és történelmi műtárgyakat állít ki a Hotel 2 Février közelében.",
+                  "category": "museum",
+                  "coords": [
+                        1.217966,
+                        6.130673
+                  ]
+            },
+            {
+                  "name": "Galerie Coin du Terroir",
+                  "text": "A Galerie Coin du Terroir a helyi togói kézműves termékeket és hagyományokat bemutató múzeum Lomé központjában.",
+                  "category": "museum",
+                  "coords": [
+                        1.215976,
+                        6.132272
+                  ]
+            },
+            {
+                  "name": "Village Artisanal",
+                  "text": "A Village Artisanal egy nyüzsgő piac, ahol a helyi kézművesek hagyományos togói termékeket készítenek és árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        1.219726,
+                        6.133511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Place des Martyrs este un monument dedicat eroilor naționali, situat în apropierea impunătorului Hotel 2 Février.",
+                  "category": "historical",
+                  "coords": [
+                        1.21936,
+                        6.129636
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Muzeul Național din Togo expune artefacte culturale și istorice, păstrând moștenirea națiunii lângă Hotel 2 Février.",
+                  "category": "museum",
+                  "coords": [
+                        1.217966,
+                        6.130673
+                  ]
+            },
+            {
+                  "name": "Galerie Coin du Terroir",
+                  "text": "Galerie Coin du Terroir este un muzeu care expune meșteșuguri și tradiții locale togoleze în centrul orașului Lomé.",
+                  "category": "museum",
+                  "coords": [
+                        1.215976,
+                        6.132272
+                  ]
+            },
+            {
+                  "name": "Village Artisanal",
+                  "text": "Village Artisanal este o piață plină de viață unde artizanii locali creează și vând obiecte de artizanat togoleze tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        1.219726,
+                        6.133511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des Martyrs",
+                  "text": "The Place des Martyrs is a significant monument dedicated to national heroes, located near the imposing Hotel 2 Février.",
+                  "category": "historical",
+                  "coords": [
+                        1.21936,
+                        6.129636
+                  ]
+            },
+            {
+                  "name": "Togo National Museum",
+                  "text": "The Togo National Museum exhibits cultural and historical artifacts, preserving the nation's heritage near the Hotel 2 Février.",
+                  "category": "museum",
+                  "coords": [
+                        1.217966,
+                        6.130673
+                  ]
+            },
+            {
+                  "name": "Galerie Coin du Terroir",
+                  "text": "Galerie Coin du Terroir is a museum showcasing local Togolese crafts and traditions in central Lomé.",
+                  "category": "museum",
+                  "coords": [
+                        1.215976,
+                        6.132272
+                  ]
+            },
+            {
+                  "name": "Village Artisanal",
+                  "text": "The Village Artisanal is a vibrant market where local artisans create and sell traditional Togolese crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        1.219726,
+                        6.133511
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2208, 6.1304],
@@ -147,7 +597,124 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "port-autonome-lome-landmarks-v2",
+    id: "port-autonome-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée international d'art d'afrique",
+                  "text": "Das internationale Museum für afrikanische Kunst zeigt traditionelle Artefakte in der Nähe des Autonomen Hafens von Lomé.",
+                  "category": "museum",
+                  "coords": [
+                        1.251455,
+                        6.132804
+                  ]
+            },
+            {
+                  "name": "Dream",
+                  "text": "Dream ist eine Kunstgalerie in der Nähe des autonomen Hafens von Lomé, die zeitgenössische Ausstellungen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        1.2393,
+                        6.152043
+                  ]
+            },
+            {
+                  "name": "Forêt Sacrée de Bè",
+                  "text": "Der Heilige Wald von Bè ist ein wichtiges traditionelles Waldgebiet, das inmitten der städtischen Expansion von Lomé erhalten blieb.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240785,
+                        6.14341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée international d'art d'afrique",
+                  "text": "Az afrikai művészet nemzetközi múzeuma hagyományos műtárgyakat állít ki a Loméi Autonóm Kikötő közelében.",
+                  "category": "museum",
+                  "coords": [
+                        1.251455,
+                        6.132804
+                  ]
+            },
+            {
+                  "name": "Dream",
+                  "text": "A Dream egy művészeti galéria a loméi autonóm kikötő közelében, amely kortárs kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        1.2393,
+                        6.152043
+                  ]
+            },
+            {
+                  "name": "Forêt Sacrée de Bè",
+                  "text": "A Bè szent erdeje egy fontos hagyományos erdőterület, amelyet Lomé városi terjeszkedése közepette is megőriztek.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240785,
+                        6.14341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée international d'art d'afrique",
+                  "text": "Muzeul internațional de artă africană expune artefacte tradiționale în apropierea Portului Autonom din Lomé.",
+                  "category": "museum",
+                  "coords": [
+                        1.251455,
+                        6.132804
+                  ]
+            },
+            {
+                  "name": "Dream",
+                  "text": "Dream este o galerie de artă cu expoziții contemporane, situată în apropierea portului autonom din Lomé.",
+                  "category": "museum",
+                  "coords": [
+                        1.2393,
+                        6.152043
+                  ]
+            },
+            {
+                  "name": "Forêt Sacrée de Bè",
+                  "text": "Pădurea Sacră Bè este o zonă împădurită tradițională importantă, conservată în mijlocul expansiunii urbane din Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240785,
+                        6.14341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée international d'art d'afrique",
+                  "text": "The international museum of African art exhibits traditional artifacts near the Autonomous Port of Lomé.",
+                  "category": "museum",
+                  "coords": [
+                        1.251455,
+                        6.132804
+                  ]
+            },
+            {
+                  "name": "Dream",
+                  "text": "Dream is an art gallery offering contemporary exhibitions near Lomé's autonomous port.",
+                  "category": "museum",
+                  "coords": [
+                        1.2393,
+                        6.152043
+                  ]
+            },
+            {
+                  "name": "Forêt Sacrée de Bè",
+                  "text": "The Sacred Forest of Bè is an important traditional woodland preserved amidst the urban expansion of Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.240785,
+                        6.14341
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2505, 6.1352],
@@ -195,7 +762,52 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cathedrale-saint-esprit-kpalime-landmarks-v2",
+    id: "cathedrale-saint-esprit-kpalime-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "africa",
+                  "text": "Ein lokales Denkmal in der Nähe der Heilig-Geist-Kathedrale in Kpalimé.",
+                  "category": "historical",
+                  "coords": [
+                        0.640286,
+                        6.924791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "africa",
+                  "text": "Egy helyi emlékmű a kpaliméi Szentlélek-székesegyház közelében.",
+                  "category": "historical",
+                  "coords": [
+                        0.640286,
+                        6.924791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "africa",
+                  "text": "Un monument local situat în apropierea Catedralei Sfântul Duh din Kpalimé.",
+                  "category": "historical",
+                  "coords": [
+                        0.640286,
+                        6.924791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "africa",
+                  "text": "A local monument located near the Cathedral of the Holy Spirit in Kpalimé.",
+                  "category": "historical",
+                  "coords": [
+                        0.640286,
+                        6.924791
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-P",
     coords: [0.6325, 6.9112],
@@ -243,7 +855,88 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "grande-mosquee-sokode-landmarks-v2",
+    id: "grande-mosquee-sokode-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point Sokodé",
+                  "text": "Der Kreisverkehr in Sokodé ist ein zentraler monumental ausgelegter Verkehrsknotenpunkt in der Nähe der Großen Moschee der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        1.140258,
+                        8.985913
+                  ]
+            },
+            {
+                  "name": "Centre Padre Francisco",
+                  "text": "Das Centro Padre Francisco in der Nähe der Großen Moschee von Sokodé ist ein lebendiges Zentrum für lokale Kunst und Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.158416,
+                        8.975009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point Sokodé",
+                  "text": "A sokodéi körforgalom egy központi monumentális csomópont a város Nagy Mecsetjének közelében, amely a forgalmi hálózat magját alkotja.",
+                  "category": "historical",
+                  "coords": [
+                        1.140258,
+                        8.985913
+                  ]
+            },
+            {
+                  "name": "Centre Padre Francisco",
+                  "text": "A sokodéi Nagy Mecset közelében található Padre Francisco Központ a helyi közösségi művészetek és kulturális események élénk központja.",
+                  "category": "cultural",
+                  "coords": [
+                        1.158416,
+                        8.975009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point Sokodé",
+                  "text": "Sensul giratoriu Sokodé este o intersecție monumentală centrală din apropierea Marii Moschei a orașului, formând nucleul rețelei de trafic.",
+                  "category": "historical",
+                  "coords": [
+                        1.140258,
+                        8.985913
+                  ]
+            },
+            {
+                  "name": "Centre Padre Francisco",
+                  "text": "Situat lângă Marea Moschee din Sokodé, Centrul Padre Francisco este un centru vibrant pentru artele comunitare locale și evenimentele culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.158416,
+                        8.975009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point Sokodé",
+                  "text": "The Sokodé Roundabout is a central monumental intersection near the city's Grand Mosque, forming the core of the traffic network.",
+                  "category": "historical",
+                  "coords": [
+                        1.140258,
+                        8.985913
+                  ]
+            },
+            {
+                  "name": "Centre Padre Francisco",
+                  "text": "Situated near the Grand Mosque of Sokodé, the Padre Francisco Center is a vibrant hub for local community arts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.158416,
+                        8.975009
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-C",
     coords: [1.1398, 8.9835],
@@ -339,7 +1032,52 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mairie-lome-landmarks-v2",
+    id: "mairie-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Institut Français du Togo",
+                  "text": "Das Kunstzentrum organisiert regelmäßig französischsprachige Filmvorführungen, Theaterproduktionen und Kunstveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.216117,
+                        6.124333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Institut Français du Togo",
+                  "text": "A művészeti központ rendszeresen szervez frankofón filmvetítéseket, színházi produkciókat és művészeti eseményeket.",
+                  "category": "cultural",
+                  "coords": [
+                        1.216117,
+                        6.124333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Institut Français du Togo",
+                  "text": "Centrul de artă organizează periodic proiecții de filme francofone, producții de teatru și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        1.216117,
+                        6.124333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Institut Français du Togo",
+                  "text": "The arts centre organizes regular francophone film screenings, theater productions, and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.216117,
+                        6.124333
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2158, 6.1218],
@@ -435,7 +1173,88 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "siege-bceao-lome-landmarks-v2",
+    id: "siege-bceao-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais des congrès de Lomé",
+                  "text": "Der Palais des congrès de Lomé ist ein großes Kongresszentrum, das bedeutende nationale und internationale Veranstaltungen beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217368,
+                        6.130307
+                  ]
+            },
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "Das Unabhängigkeitsdenkmal erinnert an Togos Unabhängigkeit mit einem markanten strukturellen Design in einem angelegten Platz.",
+                  "category": "historical",
+                  "coords": [
+                        1.216011,
+                        6.129962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais des congrès de Lomé",
+                  "text": "A loméi Kongresszusi Palota egy jelentős rendezvényközpont, amely nemzeti és nemzetközi eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217368,
+                        6.130307
+                  ]
+            },
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "A Függetlenségi Emlékmű Togo függetlenségének állít emléket egy lenyűgöző szerkezettel, egy parkosított téren.",
+                  "category": "historical",
+                  "coords": [
+                        1.216011,
+                        6.129962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais des congrès de Lomé",
+                  "text": "Palatul congreselor din Lomé este un centru major de convenții care găzduiește evenimente naționale și internaționale importante.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217368,
+                        6.130307
+                  ]
+            },
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "Monumentul Independenței comemorează independența statului Togo printr-o structură arhitecturală deosebită situată într-o piață amenajată.",
+                  "category": "historical",
+                  "coords": [
+                        1.216011,
+                        6.129962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais des congrès de Lomé",
+                  "text": "The Palais des congrès de Lomé is a major convention centre hosting significant national and international events.",
+                  "category": "landmark",
+                  "coords": [
+                        1.217368,
+                        6.130307
+                  ]
+            },
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "The Independence Monument commemorates Togo's independence with a striking structural design set within a landscaped plaza.",
+                  "category": "historical",
+                  "coords": [
+                        1.216011,
+                        6.129962
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2188, 6.1278],
@@ -483,7 +1302,52 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cathedrale-sainte-therese-aneho-landmarks-v2",
+    id: "cathedrale-sainte-therese-aneho-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "Dieses Kunstzentrum in Aného widmet sich der kreativen Förderung und kulturellen Bildung von Jugendlichen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "Ez az Anéhóban található művészeti központ a fiatalok kreatív támogatásának és kulturális nevelésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "Acest centru de artă din Aného este dedicat promovării creative și educației culturale a tinerilor.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "This arts centre in Aného is dedicated to the creative development and cultural education of youth.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.5972, 6.2282],
@@ -627,7 +1491,52 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "aeroport-terminal-lome-landmarks-v2",
+    id: "aeroport-terminal-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin électrique à Maïs",
+                  "text": "Diese elektrische Maismühle befindet sich in der Nähe des Flughafenterminals von Lomé und verarbeitet lokale Ernten.",
+                  "category": "landmark",
+                  "coords": [
+                        1.258276,
+                        6.158416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin électrique à Maïs",
+                  "text": "Ez az elektromos kukoricamalom a loméi repülőtér terminálja közelében működik, és a helyi termést dolgozza fel.",
+                  "category": "landmark",
+                  "coords": [
+                        1.258276,
+                        6.158416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin électrique à Maïs",
+                  "text": "Această moară electrică de porumb funcționează lângă terminalul aeroportului din Lomé, procesând recoltele locale.",
+                  "category": "landmark",
+                  "coords": [
+                        1.258276,
+                        6.158416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin électrique à Maïs",
+                  "text": "This electric maize mill operates near the Lomé Airport terminal, processing local harvests.",
+                  "category": "landmark",
+                  "coords": [
+                        1.258276,
+                        6.158416
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2548, 6.1668],
@@ -723,7 +1632,52 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "theatre-verdure-lome-landmarks-v2",
+    id: "theatre-verdure-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goethe-Institut",
+                  "text": "Das Kunstzentrum fördert deutsche Kulturprogramme, das Erlernen von Sprachen und internationale Kunstkooperationen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.225519,
+                        6.128133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goethe-Institut",
+                  "text": "A művészeti központ német kulturális programokat, nyelvtanulást és nemzetközi művészeti együttműködéseket segít elő.",
+                  "category": "cultural",
+                  "coords": [
+                        1.225519,
+                        6.128133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goethe-Institut",
+                  "text": "Centrul de artă facilitează programe culturale germane, învățarea limbilor străine și colaborări artistice internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.225519,
+                        6.128133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goethe-Institut",
+                  "text": "The arts centre facilitates German cultural programming, language learning, and international art collaborations.",
+                  "category": "cultural",
+                  "coords": [
+                        1.225519,
+                        6.128133
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2255, 6.1292],
@@ -819,7 +1773,88 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pont-aneho-landmarks-v2",
+    id: "pont-aneho-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Diese traditionelle Mais-Windmühle in der Nähe der Brücke von Aného unterstreicht die historischen landwirtschaftlichen Praktiken der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "Das IYF-Zentrum in Aného ist eine lebendige Kunsteinrichtung nahe der symbolträchtigen Brücke, die kulturelle Initiativen für Jugendliche fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Az anéhoi híd közelében található hagyományos kukoricaőrlő szélmalom a régió történelmi mezőgazdasági gyakorlatát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "Az anéhoi IYF Központ egy élénk művészeti létesítmény a város ikonikus hídja közelében, amely az ifjúsági kulturális kezdeményezéseket támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Situată lângă podul Aného, această moară de vânt tradițională pentru porumb evidențiază practicile agricole istorice ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "Centrul IYF din Aného este o facilitate de artă animată care promovează inițiativele culturale ale tinerilor, situată lângă podul emblematic al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Located near the Aného bridge, this traditional maize-grinding windmill highlights the region's historic agricultural practices.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "The IYF Centre in Aného is a lively arts facility promoting youth cultural initiatives near the city's iconic bridge.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.5958, 6.2278],
@@ -915,7 +1950,124 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palais-congres-kara-landmarks-v2",
+    id: "palais-congres-kara-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paroisse Saint Pierre et Paul de Kara",
+                  "text": "Die Paroisse Saint Pierre et Paul ist eine katholische Pfarrkirche, die der Gemeinde in Kara als alltägliche Kultstätte dient.",
+                  "category": "religious",
+                  "coords": [
+                        1.189442,
+                        9.552831
+                  ]
+            },
+            {
+                  "name": "sculterie",
+                  "text": "Dieser Aussichtspunkt in Kara bietet einen weiten Blick auf die umliegende Stadtlandschaft nahe dem Palais des Congrès.",
+                  "category": "natural",
+                  "coords": [
+                        1.183849,
+                        9.548961
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte Famille de Dongoyo",
+                  "text": "Die Paroisse Sainte Famille de Dongoyo ist eine Pfarrkirche, die den Gläubigen im Viertel Dongoyo in Kara dient.",
+                  "category": "religious",
+                  "coords": [
+                        1.172587,
+                        9.543175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paroisse Saint Pierre et Paul de Kara",
+                  "text": "A Paroisse Saint Pierre et Paul egy katolikus plébániatemplom, amely a kara-i közösség mindennapi istentiszteleti helyéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        1.189442,
+                        9.552831
+                  ]
+            },
+            {
+                  "name": "sculterie",
+                  "text": "Ez a kara-i kilátó széles látképet nyújt a Palais des Congrès közelében lévő környező városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        1.183849,
+                        9.548961
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte Famille de Dongoyo",
+                  "text": "A Paroisse Sainte Famille de Dongoyo egy plébániatemplom, amely a kara-i Dongoyo kerület híveit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        1.172587,
+                        9.543175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paroisse Saint Pierre et Paul de Kara",
+                  "text": "Paroisse Saint Pierre et Paul este o biserică parohială catolică care oferă un lăcaș de cult cotidian pentru comunitatea din Kara.",
+                  "category": "religious",
+                  "coords": [
+                        1.189442,
+                        9.552831
+                  ]
+            },
+            {
+                  "name": "sculterie",
+                  "text": "Acest punct de belvedere din Kara oferă o priveliște largă asupra peisajului urban înconjurător de lângă Palais des Congrès.",
+                  "category": "natural",
+                  "coords": [
+                        1.183849,
+                        9.548961
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte Famille de Dongoyo",
+                  "text": "Paroisse Sainte Famille de Dongoyo este o biserică parohială care deservește credincioșii din cartierul Dongoyo din Kara.",
+                  "category": "religious",
+                  "coords": [
+                        1.172587,
+                        9.543175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paroisse Saint Pierre et Paul de Kara",
+                  "text": "The Paroisse Saint Pierre et Paul is a Catholic parish church providing an everyday place of worship for the community in Kara.",
+                  "category": "religious",
+                  "coords": [
+                        1.189442,
+                        9.552831
+                  ]
+            },
+            {
+                  "name": "sculterie",
+                  "text": "This viewpoint in Kara overlooks the surrounding urban landscape near the Palais des Congrès.",
+                  "category": "natural",
+                  "coords": [
+                        1.183849,
+                        9.548961
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte Famille de Dongoyo",
+                  "text": "The Paroisse Sainte Famille de Dongoyo is a parish church serving the faithful in the Dongoyo district of Kara.",
+                  "category": "religious",
+                  "coords": [
+                        1.172587,
+                        9.543175
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-K",
     coords: [1.1882, 9.5522],
@@ -963,7 +2115,52 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "marche-central-kara-landmarks-v2",
+    id: "marche-central-kara-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paroisse de Don Bosco de Kara",
+                  "text": "Die Pfarrei Don Bosco in Kara ist eine christliche Kultstätte in der Nähe des Zentralmarktes.",
+                  "category": "religious",
+                  "coords": [
+                        1.20117,
+                        9.529743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paroisse de Don Bosco de Kara",
+                  "text": "A karai Don Bosco plébánia egy keresztény istentiszteleti hely a központi piac közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.20117,
+                        9.529743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paroisse de Don Bosco de Kara",
+                  "text": "Parohia Don Bosco din Kara este un lăcaș de cult creștin în apropierea pieței centrale.",
+                  "category": "religious",
+                  "coords": [
+                        1.20117,
+                        9.529743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paroisse de Don Bosco de Kara",
+                  "text": "The Parish of Don Bosco in Kara is a Christian place of worship near the central market.",
+                  "category": "religious",
+                  "coords": [
+                        1.20117,
+                        9.529743
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-K",
     coords: [1.1928, 9.5508],
@@ -1011,7 +2208,520 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bibliotheque-universitaire-lome-landmarks-v2",
+    id: "bibliotheque-universitaire-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Senghor",
+                  "text": "Das Monument Senghor in der Nähe der Universitätsbibliothek von Lomé ehrt den einflussreichen Dichter und Politiker.",
+                  "category": "historical",
+                  "coords": [
+                        1.222556,
+                        6.164751
+                  ]
+            },
+            {
+                  "name": "Auditorium de L'Université de Lomé",
+                  "text": "Das Hauptauditorium der Universität Lomé ist ein großer Veranstaltungsort für akademische Vorlesungen und kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.213726,
+                        6.174277
+                  ]
+            },
+            {
+                  "name": "Dekawowo",
+                  "text": "Das Dekawowo-Denkmal steht auf dem Universitätscampus und symbolisiert Solidarität und Wissen.",
+                  "category": "historical",
+                  "coords": [
+                        1.196502,
+                        6.204885
+                  ]
+            },
+            {
+                  "name": "Maison ASSIMADI",
+                  "text": "Die imposante Maison ASSIMADI fällt im Universitätsviertel von Lomé durch ihre schlossähnliche Architektur auf.",
+                  "category": "castle",
+                  "coords": [
+                        1.144996,
+                        6.217703
+                  ]
+            },
+            {
+                  "name": "mediasoft",
+                  "text": "Dieses im Herrenhausstil erbaute Anwesen beherbergt die Mediasoft-Einrichtung in der lebhaften Umgebung der Universität von Lomé.",
+                  "category": "historical",
+                  "coords": [
+                        1.134849,
+                        6.186261
+                  ]
+            },
+            {
+                  "name": "chez Kelly Prisca",
+                  "text": "Chez Kelly Prisca ist ein beliebter lokaler Treffpunkt für Studenten und Besucher in der Nähe der Universitätsbibliothek.",
+                  "category": "landmark",
+                  "coords": [
+                        1.139472,
+                        6.173298
+                  ]
+            },
+            {
+                  "name": "Rond-point Douanes Adidogomé",
+                  "text": "Der Kreisverkehr Douanes Adidogomé ist ein wichtiger Verkehrsknotenpunkt mit regionalem Flair im Vorort von Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.162648,
+                        6.188612
+                  ]
+            },
+            {
+                  "name": "Chez Camara",
+                  "text": "Chez Camara besticht durch eine ungewöhnliche, schlossähnliche Wohnarchitektur, die sich im Studentenviertel abhebt.",
+                  "category": "castle",
+                  "coords": [
+                        1.176398,
+                        6.196803
+                  ]
+            },
+            {
+                  "name": "Carrefour Adzi",
+                  "text": "Carrefour Adzi ist eine belebte Kreuzung nahe der Universität von Lomé, die für ihre vielen Straßenverkäufer bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        1.159657,
+                        6.180637
+                  ]
+            },
+            {
+                  "name": "Fauna Zoo",
+                  "text": "Der Fauna Zoo bietet Studenten und Familien die Möglichkeit, die regionale Tierwelt direkt neben dem Universitätsgelände zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        1.166173,
+                        6.173185
+                  ]
+            },
+            {
+                  "name": "Espace Culturel MIDJO-Togo",
+                  "text": "Das Espace Culturel MIDJO-Togo ist ein dynamisches kommunales Kunstzentrum, das lokale musikalische und theatralische Talente fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        1.1913,
+                        6.191731
+                  ]
+            },
+            {
+                  "name": "Gamessou art",
+                  "text": "Gamessou Art fungiert als lebendige Werkstatt und Galerie für zeitgenössische togolesische Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        1.186632,
+                        6.189692
+                  ]
+            },
+            {
+                  "name": "Filebleu-AREMA",
+                  "text": "Filebleu-AREMA ist ein Kunstzentrum, das der Kulturszene rund um das belebte Universitätsbibliothek-Viertel in Lomé dient.",
+                  "category": "cultural",
+                  "coords": [
+                        1.192384,
+                        6.170862
+                  ]
+            },
+            {
+                  "name": "Ets Soir au Village",
+                  "text": "Das Kunstzentrum Ets Soir au Village bietet kulturelle und künstlerische Erlebnisse nahe der Universitätsbibliothek in Lomé.",
+                  "category": "cultural",
+                  "coords": [
+                        1.197779,
+                        6.169922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Senghor",
+                  "text": "A Senghor-emlékmű a befolyásos költő és politikus előtt tiszteleg a loméi egyetemi könyvtár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.222556,
+                        6.164751
+                  ]
+            },
+            {
+                  "name": "Auditorium de L'Université de Lomé",
+                  "text": "A Loméi Egyetem fő auditóriuma egy nagy előadóterem akadémiai előadások és kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        1.213726,
+                        6.174277
+                  ]
+            },
+            {
+                  "name": "Dekawowo",
+                  "text": "A Dekawowo emlékmű az egyetemi campuson áll, a szolidaritást és a tudást szimbolizálva.",
+                  "category": "historical",
+                  "coords": [
+                        1.196502,
+                        6.204885
+                  ]
+            },
+            {
+                  "name": "Maison ASSIMADI",
+                  "text": "Az impozáns Maison ASSIMADI kastélyra emlékeztető építészetével tűnik ki Lomé egyetemi negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        1.144996,
+                        6.217703
+                  ]
+            },
+            {
+                  "name": "mediasoft",
+                  "text": "Ez a kúria stílusú ingatlan ad otthont a Mediasoft létesítménynek a loméi egyetem nyüzsgő környékén.",
+                  "category": "historical",
+                  "coords": [
+                        1.134849,
+                        6.186261
+                  ]
+            },
+            {
+                  "name": "chez Kelly Prisca",
+                  "text": "A Chez Kelly Prisca egy népszerű helyi találkozóhely a diákok és a látogatók körében az egyetemi könyvtár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.139472,
+                        6.173298
+                  ]
+            },
+            {
+                  "name": "Rond-point Douanes Adidogomé",
+                  "text": "A Douanes Adidogomé körforgalom egy jelentős, regionális hangulatú közlekedési csomópont Lomé külvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.162648,
+                        6.188612
+                  ]
+            },
+            {
+                  "name": "Chez Camara",
+                  "text": "A Chez Camara szokatlan, kastélyra emlékeztető lakóépítészeti stílusával tűnik ki a diáknegyedben.",
+                  "category": "castle",
+                  "coords": [
+                        1.176398,
+                        6.196803
+                  ]
+            },
+            {
+                  "name": "Carrefour Adzi",
+                  "text": "A Carrefour Adzi egy nyüzsgő kereszteződés a Loméi Egyetem közelében, amely az élettel teli utcai árusairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        1.159657,
+                        6.180637
+                  ]
+            },
+            {
+                  "name": "Fauna Zoo",
+                  "text": "A Fauna Állatkert lehetőséget kínál a diákoknak és a családoknak a regionális vadvilág megfigyelésére, közvetlenül az egyetem területe mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        1.166173,
+                        6.173185
+                  ]
+            },
+            {
+                  "name": "Espace Culturel MIDJO-Togo",
+                  "text": "Az Espace Culturel MIDJO-Togo egy dinamikus közösségi művészeti központ, amely a helyi zenei és színházi tehetségeket gondozza.",
+                  "category": "cultural",
+                  "coords": [
+                        1.1913,
+                        6.191731
+                  ]
+            },
+            {
+                  "name": "Gamessou art",
+                  "text": "A Gamessou Art a kortárs togói kézművesek nyüzsgő műhelyeként és galériájaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        1.186632,
+                        6.189692
+                  ]
+            },
+            {
+                  "name": "Filebleu-AREMA",
+                  "text": "A Filebleu-AREMA egy művészeti központ, amely a loméi egyetemi könyvtár körüli nyüzsgő kulturális negyedet szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        1.192384,
+                        6.170862
+                  ]
+            },
+            {
+                  "name": "Ets Soir au Village",
+                  "text": "Az Ets Soir au Village egy művészeti központ, amely kulturális élményeket kínál a loméi egyetemi könyvtár közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        1.197779,
+                        6.169922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Senghor",
+                  "text": "Monumentul Senghor onorează influentul poet și politician lângă biblioteca Universității din Lomé.",
+                  "category": "historical",
+                  "coords": [
+                        1.222556,
+                        6.164751
+                  ]
+            },
+            {
+                  "name": "Auditorium de L'Université de Lomé",
+                  "text": "Auditoriul principal al Universității din Lomé este o sală mare pentru prelegeri academice și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.213726,
+                        6.174277
+                  ]
+            },
+            {
+                  "name": "Dekawowo",
+                  "text": "Monumentul Dekawowo se înalță în campusul universitar, simbolizând solidaritatea și cunoașterea.",
+                  "category": "historical",
+                  "coords": [
+                        1.196502,
+                        6.204885
+                  ]
+            },
+            {
+                  "name": "Maison ASSIMADI",
+                  "text": "Impunătoarea Maison ASSIMADI se remarcă prin arhitectura sa asemănătoare unui castel din cartierul universitar al orașului Lomé.",
+                  "category": "castle",
+                  "coords": [
+                        1.144996,
+                        6.217703
+                  ]
+            },
+            {
+                  "name": "mediasoft",
+                  "text": "Această proprietate în stil conac găzduiește sediul Mediasoft în vecinătatea plină de viață a universității din Lomé.",
+                  "category": "historical",
+                  "coords": [
+                        1.134849,
+                        6.186261
+                  ]
+            },
+            {
+                  "name": "chez Kelly Prisca",
+                  "text": "Chez Kelly Prisca este un loc local popular care adună studenți și vizitatori lângă biblioteca universității.",
+                  "category": "landmark",
+                  "coords": [
+                        1.139472,
+                        6.173298
+                  ]
+            },
+            {
+                  "name": "Rond-point Douanes Adidogomé",
+                  "text": "Sensul giratoriu Douanes Adidogomé este un nod rutier major decorat cu fler regional la periferia orașului Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.162648,
+                        6.188612
+                  ]
+            },
+            {
+                  "name": "Chez Camara",
+                  "text": "Chez Camara se mândrește cu o arhitectură rezidențială neobișnuită, asemănătoare unui castel, care o diferențiază în cartierul studențesc.",
+                  "category": "castle",
+                  "coords": [
+                        1.176398,
+                        6.196803
+                  ]
+            },
+            {
+                  "name": "Carrefour Adzi",
+                  "text": "Carrefour Adzi este o intersecție aglomerată, cunoscută pentru vânzătorii stradali animați, situată lângă Universitatea din Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.159657,
+                        6.180637
+                  ]
+            },
+            {
+                  "name": "Fauna Zoo",
+                  "text": "Grădina Zoologică Fauna oferă studenților și familiilor șansa de a observa viața sălbatică regională chiar lângă campusul universitar.",
+                  "category": "recreational",
+                  "coords": [
+                        1.166173,
+                        6.173185
+                  ]
+            },
+            {
+                  "name": "Espace Culturel MIDJO-Togo",
+                  "text": "Espace Culturel MIDJO-Togo este un centru comunitar de arte dinamic, care promovează talentul muzical și teatral local.",
+                  "category": "cultural",
+                  "coords": [
+                        1.1913,
+                        6.191731
+                  ]
+            },
+            {
+                  "name": "Gamessou art",
+                  "text": "Gamessou Art funcționează ca un atelier plin de viață și o galerie pentru artizanii contemporani togolezi.",
+                  "category": "cultural",
+                  "coords": [
+                        1.186632,
+                        6.189692
+                  ]
+            },
+            {
+                  "name": "Filebleu-AREMA",
+                  "text": "Filebleu-AREMA este un centru de artă care deservește comunitatea culturală din jurul bibliotecii universitare din Lomé.",
+                  "category": "cultural",
+                  "coords": [
+                        1.192384,
+                        6.170862
+                  ]
+            },
+            {
+                  "name": "Ets Soir au Village",
+                  "text": "Centrul de artă Ets Soir au Village oferă experiențe culturale în apropierea zonei bibliotecii universitare din Lomé.",
+                  "category": "cultural",
+                  "coords": [
+                        1.197779,
+                        6.169922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Senghor",
+                  "text": "The Monument Senghor honours the influential poet and politician, located near the University of Lomé's library.",
+                  "category": "historical",
+                  "coords": [
+                        1.222556,
+                        6.164751
+                  ]
+            },
+            {
+                  "name": "Auditorium de L'Université de Lomé",
+                  "text": "The main auditorium of the University of Lomé is a large venue for academic lectures and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        1.213726,
+                        6.174277
+                  ]
+            },
+            {
+                  "name": "Dekawowo",
+                  "text": "The Dekawowo monument stands on the university campus, symbolising solidarity and knowledge.",
+                  "category": "historical",
+                  "coords": [
+                        1.196502,
+                        6.204885
+                  ]
+            },
+            {
+                  "name": "Maison ASSIMADI",
+                  "text": "The imposing Maison ASSIMADI stands out with its castle-like architecture in the university district of Lomé.",
+                  "category": "castle",
+                  "coords": [
+                        1.144996,
+                        6.217703
+                  ]
+            },
+            {
+                  "name": "mediasoft",
+                  "text": "This manor-style property houses the Mediasoft facility in the lively vicinity of Lomé's university.",
+                  "category": "historical",
+                  "coords": [
+                        1.134849,
+                        6.186261
+                  ]
+            },
+            {
+                  "name": "chez Kelly Prisca",
+                  "text": "Chez Kelly Prisca is a popular local spot gathering students and visitors near the university library.",
+                  "category": "landmark",
+                  "coords": [
+                        1.139472,
+                        6.173298
+                  ]
+            },
+            {
+                  "name": "Rond-point Douanes Adidogomé",
+                  "text": "The Douanes Adidogomé roundabout is a major traffic hub adorned with regional flair in suburban Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.162648,
+                        6.188612
+                  ]
+            },
+            {
+                  "name": "Chez Camara",
+                  "text": "Chez Camara boasts an unusual, castle-like residential architecture that sets it apart in the student neighborhood.",
+                  "category": "castle",
+                  "coords": [
+                        1.176398,
+                        6.196803
+                  ]
+            },
+            {
+                  "name": "Carrefour Adzi",
+                  "text": "Carrefour Adzi is a bustling intersection known for its lively street vendors near the University of Lomé.",
+                  "category": "landmark",
+                  "coords": [
+                        1.159657,
+                        6.180637
+                  ]
+            },
+            {
+                  "name": "Fauna Zoo",
+                  "text": "The Fauna Zoo offers students and families a chance to observe regional wildlife right next to the university grounds.",
+                  "category": "recreational",
+                  "coords": [
+                        1.166173,
+                        6.173185
+                  ]
+            },
+            {
+                  "name": "Espace Culturel MIDJO-Togo",
+                  "text": "The Espace Culturel MIDJO-Togo is a dynamic community arts centre fostering local musical and theatrical talent.",
+                  "category": "cultural",
+                  "coords": [
+                        1.1913,
+                        6.191731
+                  ]
+            },
+            {
+                  "name": "Gamessou art",
+                  "text": "Gamessou Art operates as a vibrant workshop and gallery for contemporary Togolese artisans.",
+                  "category": "cultural",
+                  "coords": [
+                        1.186632,
+                        6.189692
+                  ]
+            },
+            {
+                  "name": "Filebleu-AREMA",
+                  "text": "Filebleu-AREMA is an arts centre serving the cultural community around the bustling university library district in Lomé.",
+                  "category": "cultural",
+                  "coords": [
+                        1.192384,
+                        6.170862
+                  ]
+            },
+            {
+                  "name": "Ets Soir au Village",
+                  "text": "Ets Soir au Village offers cultural and artistic experiences near the university library area in Lomé.",
+                  "category": "cultural",
+                  "coords": [
+                        1.197779,
+                        6.169922
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2242, 6.1752],
@@ -1059,7 +2769,124 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pont-kara-landmarks-v2",
+    id: "pont-kara-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paroisse Christ Sauveur de Kara Tomdè",
+                  "text": "Diese Pfarrkirche im Viertel Tomdè von Kara dient der lokalen christlichen Gemeinde als religiöser Versammlungsort.",
+                  "category": "religious",
+                  "coords": [
+                        1.20358,
+                        9.559826
+                  ]
+            },
+            {
+                  "name": "Paroisse Catholique Sainte Monique de Lassa Elimdè",
+                  "text": "Diese katholische Pfarrkirche befindet sich im Viertel Lassa Elimdè und bietet ihrer örtlichen Gemeinde spirituelle Dienste an.",
+                  "category": "religious",
+                  "coords": [
+                        1.22475,
+                        9.56566
+                  ]
+            },
+            {
+                  "name": "Paroisse de Tchintchinda",
+                  "text": "Die Paroisse de Tchintchinda ist ein Kultgebäude, das die Gemeindemitglieder in ihrem bestimmten städtischen Viertel von Kara willkommen heißt.",
+                  "category": "religious",
+                  "coords": [
+                        1.215461,
+                        9.547165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paroisse Christ Sauveur de Kara Tomdè",
+                  "text": "Ez a Kara Tomdè negyedében található plébániatemplom a helyi keresztény közösség vallási gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        1.20358,
+                        9.559826
+                  ]
+            },
+            {
+                  "name": "Paroisse Catholique Sainte Monique de Lassa Elimdè",
+                  "text": "Ez a katolikus plébániatemplom a Lassa Elimdè negyedben található, és spirituális szolgáltatásokat nyújt a helyi gyülekezetnek.",
+                  "category": "religious",
+                  "coords": [
+                        1.22475,
+                        9.56566
+                  ]
+            },
+            {
+                  "name": "Paroisse de Tchintchinda",
+                  "text": "A Paroisse de Tchintchinda egy istentiszteleti hely, amely Kara kijelölt városi kerületében várja a híveket.",
+                  "category": "religious",
+                  "coords": [
+                        1.215461,
+                        9.547165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paroisse Christ Sauveur de Kara Tomdè",
+                  "text": "Situată în zona Tomdè din Kara, această biserică parohială servește drept loc de adunare religioasă pentru comunitatea creștină locală.",
+                  "category": "religious",
+                  "coords": [
+                        1.20358,
+                        9.559826
+                  ]
+            },
+            {
+                  "name": "Paroisse Catholique Sainte Monique de Lassa Elimdè",
+                  "text": "Această biserică parohială catolică este situată în cartierul Lassa Elimdè, oferind servicii spirituale congregației sale locale.",
+                  "category": "religious",
+                  "coords": [
+                        1.22475,
+                        9.56566
+                  ]
+            },
+            {
+                  "name": "Paroisse de Tchintchinda",
+                  "text": "Paroisse de Tchintchinda este un lăcaș de cult care își întâmpină enoriașii în cartierul său urban desemnat din Kara.",
+                  "category": "religious",
+                  "coords": [
+                        1.215461,
+                        9.547165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paroisse Christ Sauveur de Kara Tomdè",
+                  "text": "Located in the Tomdè area of Kara, this parish church serves as a religious gathering place for the local Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        1.20358,
+                        9.559826
+                  ]
+            },
+            {
+                  "name": "Paroisse Catholique Sainte Monique de Lassa Elimdè",
+                  "text": "This Catholic parish church is situated in the Lassa Elimdè neighborhood, providing spiritual services to its local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        1.22475,
+                        9.56566
+                  ]
+            },
+            {
+                  "name": "Paroisse de Tchintchinda",
+                  "text": "The Paroisse de Tchintchinda is a place of worship welcoming parishioners in its designated urban district of Kara.",
+                  "category": "religious",
+                  "coords": [
+                        1.215461,
+                        9.547165
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-K",
     coords: [1.1952, 9.5532],
@@ -1107,7 +2934,52 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "monument-colombe-lome-landmarks-v2",
+    id: "monument-colombe-lome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "débarquement français de 1928",
+                  "text": "Diese Ruinen markieren den Ort der französischen Landung von 1928 und spiegeln Togos Kolonialgeschichte wider.",
+                  "category": "historical",
+                  "coords": [
+                        1.222368,
+                        6.120841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "débarquement français de 1928",
+                  "text": "Ezek a romok az 1928-as francia partraszállás helyszínét jelölik, tükrözve Togo gyarmati történelmét.",
+                  "category": "historical",
+                  "coords": [
+                        1.222368,
+                        6.120841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "débarquement français de 1928",
+                  "text": "Aceste ruine marchează locul debarcării franceze din 1928, amintind de istoria colonială a statului Togo.",
+                  "category": "historical",
+                  "coords": [
+                        1.222368,
+                        6.120841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "débarquement français de 1928",
+                  "text": "These ruins mark the site of the 1928 French landing, reflecting Togo's colonial history.",
+                  "category": "historical",
+                  "coords": [
+                        1.222368,
+                        6.120841
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TG-M",
     coords: [1.2182, 6.1202],

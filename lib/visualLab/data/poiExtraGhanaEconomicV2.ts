@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraGhanaEconomicV2: POI[] = [
   {
-    id: "ghana-tema-port",
+    id: "ghana-tema-port", "sights": {
+      "de": [
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "Ein Denkmal, das den Nullmeridian an einer presbyterianischen Kirche in Tema markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "Emlékmű a temai presbiteriánus templomnál, amely a kezdőmeridiánt jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "Un monument care marchează meridianul zero situat la o biserică presbiteriană din Tema.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "A monument marking the prime meridian line located at a Presbyterian church in Tema.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GH-AA",
     coords: [-0.0039, 5.6264],
@@ -43,7 +88,88 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-takoradi-port",
+    id: "ghana-takoradi-port", "sights": {
+      "de": [
+            {
+                  "name": "Allan Beach",
+                  "text": "Ein Küstenstrandresort in der Nähe des geschäftigen maritimen Zentrums des Hafens von Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Ein sandiger Küstenabschnitt in der Nähe des Hafens von Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753621,
+                        4.878399
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Allan Beach",
+                  "text": "Egy tengerparti üdülőhely, amely a Takoradi kikötő nyüzsgő tengeri csomópontja közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Egy homokos tengerparti szakasz, amely a Takoradi kikötő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753621,
+                        4.878399
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Allan Beach",
+                  "text": "O stațiune de plajă de coastă situată în apropierea centrului maritim aglomerat al portului Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Last Hour Beach",
+                  "text": "O întindere de coastă cu nisip situată în vecinătatea portului Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753621,
+                        4.878399
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Allan Beach",
+                  "text": "A coastal beach resort situated near the bustling maritime hub of Takoradi Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Last Hour Beach",
+                  "text": "A sandy stretch of coastline located in the vicinity of Takoradi Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753621,
+                        4.878399
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GH-WP",
     coords: [-1.745, 4.8872],
@@ -155,7 +281,52 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-awaso-bauxite",
+    id: "ghana-awaso-bauxite", "sights": {
+      "de": [
+            {
+                  "name": "Chief Palace",
+                  "text": "Der traditionelle Palastkomplex dient als kultureller und administrativer Sitz der lokalen Stammesführung.",
+                  "category": "castle",
+                  "coords": [
+                        -2.321724,
+                        6.195009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chief Palace",
+                  "text": "A hagyományos palotakomplexum a helyi törzsi vezetés kulturális és adminisztratív székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -2.321724,
+                        6.195009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chief Palace",
+                  "text": "Complexul palatului tradițional servește drept sediu cultural și administrativ al conducerii tribale locale.",
+                  "category": "castle",
+                  "coords": [
+                        -2.321724,
+                        6.195009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chief Palace",
+                  "text": "The traditional palace complex serves as the cultural and administrative seat of the local tribal leadership.",
+                  "category": "castle",
+                  "coords": [
+                        -2.321724,
+                        6.195009
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-WN",
     coords: [-2.2619, 6.223],
@@ -191,7 +362,88 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-nsuta-manganese",
+    id: "ghana-nsuta-manganese", "sights": {
+      "de": [
+            {
+                  "name": "TNA Park",
+                  "text": "Der TNA Park ist ein städtisches Stadion, das hauptsächlich für energiereiche Vereinsfußballspiele in der ghanaischen Bergbauregion um Nsuta genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            },
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "Das Wassa Fiase Traditional Council operiert in einem palastartigen Gebäude, das als ständiger Verwaltungssitz für die lokalen traditionellen Häuptlinge dient.",
+                  "category": "castle",
+                  "coords": [
+                        -1.989212,
+                        5.297441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TNA Park",
+                  "text": "A TNA Park egy városi stadion, amelyet elsősorban a ghánai Nsuta környéki bányászati régió futballmérkőzéseire használnak.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            },
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "A Wassa Fiase Hagyományos Tanács egy palotaszerű épületből működik, amely a helyi szokásjogi törzsfőnökök állandó adminisztratív székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -1.989212,
+                        5.297441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TNA Park",
+                  "text": "Parcul TNA este un stadion municipal utilizat în principal pentru meciurile echipelor de fotbal din regiunea minieră ghaneză din jurul orașului Nsuta.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            },
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "Consiliul Tradițional Wassa Fiase funcționează dintr-o structură impunătoare care servește drept sediu administrativ permanent pentru șefii tradiționali locali.",
+                  "category": "castle",
+                  "coords": [
+                        -1.989212,
+                        5.297441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TNA Park",
+                  "text": "TNA Park is a municipal stadium primarily utilized for energetic association football matches in the Ghanaian mining region around Nsuta.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            },
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "The Wassa Fiase Traditional Council operates from a palatial structure that serves as the permanent administrative seat for local customary chiefs.",
+                  "category": "castle",
+                  "coords": [
+                        -1.989212,
+                        5.297441
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-WP",
     coords: [-1.9877, 5.2934],
@@ -299,7 +551,52 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-tema-oil-refinery",
+    id: "ghana-tema-oil-refinery", "sights": {
+      "de": [
+            {
+                  "name": "church",
+                  "text": "Diese lokale Kirche dient der Gemeinde, die in der Nähe der Erdölraffinerie Tema lebt.",
+                  "category": "landmark",
+                  "coords": [
+                        0.009873,
+                        5.724536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "church",
+                  "text": "Ez a helyi templom a temai olajfinomító közelében élő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        0.009873,
+                        5.724536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "church",
+                  "text": "Această biserică locală deservește comunitatea care trăiește în apropierea rafinăriei de petrol din Tema.",
+                  "category": "landmark",
+                  "coords": [
+                        0.009873,
+                        5.724536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "church",
+                  "text": "This local church serves the community residing near the Tema Oil Refinery.",
+                  "category": "landmark",
+                  "coords": [
+                        0.009873,
+                        5.724536
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-AA",
     coords: [-0.0097, 5.6669],
@@ -335,7 +632,88 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-valco-aluminum",
+    id: "ghana-valco-aluminum", "sights": {
+      "de": [
+            {
+                  "name": "Kpone Beach Resort",
+                  "text": "Das Kpone Beach Resort bietet einen ruhigen Zufluchtsort an der ghanaischen Küste nahe der Aluminiumhütte Valco.",
+                  "category": "landmark",
+                  "coords": [
+                        0.055278,
+                        5.683716
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Paradise Beach ist ein sandiger Küstenabschnitt nahe der Industriezone von Tema in Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        0.043273,
+                        5.672908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kpone Beach Resort",
+                  "text": "A Kpone Beach Resort tengerparti kikapcsolódást kínál Ghánában, a Valco alumíniumkohó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.055278,
+                        5.683716
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "A Paradise Beach egy homokos partszakasz Ghánában, a temai ipari övezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.043273,
+                        5.672908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kpone Beach Resort",
+                  "text": "Kpone Beach Resort oferă o evadare pe coastă în Ghana, lângă zona industrială Valco Aluminum.",
+                  "category": "landmark",
+                  "coords": [
+                        0.055278,
+                        5.683716
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Paradise Beach este o plajă de nisip situată pe coasta Ghanei, aproape de zona industrială Tema.",
+                  "category": "landmark",
+                  "coords": [
+                        0.043273,
+                        5.672908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kpone Beach Resort",
+                  "text": "The Kpone Beach Resort provides a coastal escape near the Valco Aluminum area in Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        0.055278,
+                        5.683716
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Paradise Beach is a sandy coastal attraction situated near the industrial zone of Tema in Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        0.043273,
+                        5.672908
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-AA",
     coords: [0.0197, 5.6569],
@@ -407,7 +785,52 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-chirano-gold",
+    id: "ghana-chirano-gold", "sights": {
+      "de": [
+            {
+                  "name": "Chirano chief palace",
+                  "text": "Eine traditionelle monumentale Residenz, die als Stammsitz des lokalen Häuptlings im Goldbezirk Chirano dient.",
+                  "category": "historical",
+                  "coords": [
+                        -2.31685,
+                        6.272551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chirano chief palace",
+                  "text": "Egy hagyományos monumentális rezidencia, amely a helyi főnök ősi székhelyeként szolgál a Chirano aranykerületben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.31685,
+                        6.272551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chirano chief palace",
+                  "text": "O reședință monumentală tradițională care servește drept sediu ancestral pentru căpetenia locală din districtul aurifer Chirano.",
+                  "category": "historical",
+                  "coords": [
+                        -2.31685,
+                        6.272551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chirano chief palace",
+                  "text": "A traditional monumental residence serving as the ancestral seat for the local chief in the Chirano gold district.",
+                  "category": "historical",
+                  "coords": [
+                        -2.31685,
+                        6.272551
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-WN",
     coords: [-2.35, 6.2667],
@@ -587,7 +1010,52 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-damang-gold",
+    id: "ghana-damang-gold", "sights": {
+      "de": [
+            {
+                  "name": "Bosomtwi Palaceq",
+                  "text": "Der Bosomtwi-Palast ist eine Residenz der lokalen Häuptlinge, in der sich die Stammesältesten versammeln, um die Gemeinschaft in der Nähe der Damang-Goldminen zu leiten.",
+                  "category": "castle",
+                  "coords": [
+                        -1.916917,
+                        5.473078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bosomtwi Palaceq",
+                  "text": "A Bosomtwi-palota a helyi törzsfőnökök rezidenciája, ahol a vének összegyűlnek, hogy irányítsák a közösséget a damangi aranybányák közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -1.916917,
+                        5.473078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bosomtwi Palaceq",
+                  "text": "Palatul Bosomtwi este o reședință a căpeteniilor locale, unde liderii tribali se adună pentru a ghida comunitatea în apropierea minelor de aur din Damang.",
+                  "category": "castle",
+                  "coords": [
+                        -1.916917,
+                        5.473078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bosomtwi Palaceq",
+                  "text": "The Bosomtwi Palace is a local chieftaincy residence where tribal elders gather to guide the community near the Damang gold fields.",
+                  "category": "castle",
+                  "coords": [
+                        -1.916917,
+                        5.473078
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-WP",
     coords: [-1.9333, 5.5167],
@@ -659,7 +1127,124 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-edikan-gold",
+    id: "ghana-edikan-gold", "sights": {
+      "de": [
+            {
+                  "name": "CHN View Point",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick auf die weiten Industrielandschaften des Goldabbaugebiets Edikan.",
+                  "category": "natural",
+                  "coords": [
+                        -1.891039,
+                        5.941914
+                  ]
+            },
+            {
+                  "name": "Mpesiem Palace",
+                  "text": "Eine traditionelle königliche Struktur im Schlossstil in der Nähe der aktiven Goldfelder von Edikan.",
+                  "category": "castle",
+                  "coords": [
+                        -1.837168,
+                        5.957952
+                  ]
+            },
+            {
+                  "name": "ESN View Point",
+                  "text": "Ein erhöhter Aussichtspunkt, der weite Sichtlinien über die regionale Goldbergbauumgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.886052,
+                        5.970692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CHN View Point",
+                  "text": "Egy magaslati megfigyelőpont, kilátással az Edikan aranybányászati terület hatalmas ipari tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -1.891039,
+                        5.941914
+                  ]
+            },
+            {
+                  "name": "Mpesiem Palace",
+                  "text": "Egy hagyományos királyi építmény kastélyszerű stílusban építve az aktív Edikan aranyföldek közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -1.837168,
+                        5.957952
+                  ]
+            },
+            {
+                  "name": "ESN View Point",
+                  "text": "Egy magaslati kilátópont, amely kiterjedt látóvonalakat biztosít a regionális aranybányászati környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -1.886052,
+                        5.970692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CHN View Point",
+                  "text": "Un punct de observație ridicat cu vedere la vastele peisaje industriale ale zonei miniere de aur Edikan.",
+                  "category": "natural",
+                  "coords": [
+                        -1.891039,
+                        5.941914
+                  ]
+            },
+            {
+                  "name": "Mpesiem Palace",
+                  "text": "O structură regală tradițională construită într-un stil asemănător unui castel lângă câmpurile active de aur Edikan.",
+                  "category": "castle",
+                  "coords": [
+                        -1.837168,
+                        5.957952
+                  ]
+            },
+            {
+                  "name": "ESN View Point",
+                  "text": "Un punct de observație înalt care oferă o perspectivă extinsă asupra mediului regional de exploatare a aurului.",
+                  "category": "natural",
+                  "coords": [
+                        -1.886052,
+                        5.970692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CHN View Point",
+                  "text": "A raised observation point overlooking the vast industrial landscapes of the Edikan gold mining area.",
+                  "category": "natural",
+                  "coords": [
+                        -1.891039,
+                        5.941914
+                  ]
+            },
+            {
+                  "name": "Mpesiem Palace",
+                  "text": "A traditional royal structure built in a castle-like style near the active Edikan gold fields.",
+                  "category": "castle",
+                  "coords": [
+                        -1.837168,
+                        5.957952
+                  ]
+            },
+            {
+                  "name": "ESN View Point",
+                  "text": "An elevated vantage spot providing extensive sightlines across the regional gold mining environment.",
+                  "category": "natural",
+                  "coords": [
+                        -1.886052,
+                        5.970692
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-CP",
     coords: [-1.8667, 5.9667],
@@ -803,7 +1388,160 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-ghacem-tema",
+    id: "ghana-ghacem-tema", "sights": {
+      "de": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "Eine Wassereinrichtung in Tema, die eine Vielzahl von regionalen und marinen Fischarten ausstellt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            },
+            {
+                  "name": "Green Fm 88.9",
+                  "text": "Der Hauptsitz eines beliebten lokalen Radiosenders in Tema.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.066264,
+                        5.63212
+                  ]
+            },
+            {
+                  "name": "Sakoumono beach",
+                  "text": "Ein beliebter Sandstrand entlang des Golfs, bekannt für den lokalen Fischfang und lebhafte Wochenendtreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.028682,
+                        5.613711
+                  ]
+            },
+            {
+                  "name": "Nighty Beach",
+                  "text": "Ein abgelegener Sandstrand an der Küste von Tema, der am Abend friedliche Ausblicke über das Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056528,
+                        5.607651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "Különféle regionális és tengeri halfajokat bemutató vízi létesítmény Temában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            },
+            {
+                  "name": "Green Fm 88.9",
+                  "text": "Egy népszerű helyi rádióállomás központja Temában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.066264,
+                        5.63212
+                  ]
+            },
+            {
+                  "name": "Sakoumono beach",
+                  "text": "Az öböl mentén húzódó népszerű homokos partvidék, amely a helyi halászatról és a nyüzsgő hétvégi összejövetelekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.028682,
+                        5.613711
+                  ]
+            },
+            {
+                  "name": "Nighty Beach",
+                  "text": "Félreeső homokos szakasz Tema partvidékén, amely békés esti kilátást nyújt a vízre.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056528,
+                        5.607651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "O unitate acvatică din Tema ce expune o varietate de specii de pești regionali și marini.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            },
+            {
+                  "name": "Green Fm 88.9",
+                  "text": "Sediul central al unui post de radio local popular din Tema.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.066264,
+                        5.63212
+                  ]
+            },
+            {
+                  "name": "Sakoumono beach",
+                  "text": "O coastă de nisip populară care se întinde de-a lungul golfului, cunoscută pentru pescuitul local și adunările vibrante de weekend.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.028682,
+                        5.613711
+                  ]
+            },
+            {
+                  "name": "Nighty Beach",
+                  "text": "O fâșie de nisip izolată de-a lungul coastei Tema, care oferă vederi pașnice de seară asupra apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056528,
+                        5.607651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "An aquatic facility in Tema exhibiting a variety of regional and marine fish species.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            },
+            {
+                  "name": "Green Fm 88.9",
+                  "text": "The headquarters of a popular local radio broadcasting station in Tema.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.066264,
+                        5.63212
+                  ]
+            },
+            {
+                  "name": "Sakoumono beach",
+                  "text": "A popular sandy coastline stretching along the gulf, known for local fishing and vibrant weekend gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.028682,
+                        5.613711
+                  ]
+            },
+            {
+                  "name": "Nighty Beach",
+                  "text": "A secluded sandy stretch along the coast of Tema that offers peaceful evening views over the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056528,
+                        5.607651
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-AA",
     coords: [-0.015, 5.635],
@@ -839,7 +1577,88 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-ghacem-takoradi",
+    id: "ghana-ghacem-takoradi", "sights": {
+      "de": [
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Eine lokale kommerzielle Attraktion im Industriegebiet Ghacem von Takoradi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Ein Küstenresort vor der Kulisse des Industriegebiets Ghacem in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766386,
+                        4.875995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Egy helyi kereskedelmi látványosság Takoradi Ghacem nevű ipari területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Egy tengerparti üdülőlétesítmény a takaradi-i Ghacem ipari zóna hátterében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766386,
+                        4.875995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "O atracție comercială locală situată în zona industrială Ghacem din Takoradi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "O stațiune de coastă amplasată pe fundalul zonei industriale Ghacem din Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766386,
+                        4.875995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "A local commercial attraction situated in the industrial Ghacem area of Takoradi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "A coastal resort property set against the backdrop of the Ghacem industrial zone in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766386,
+                        4.875995
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-WP",
     coords: [-1.755, 4.895],
@@ -947,7 +1766,52 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghana-cargill-cocoa",
+    id: "ghana-cargill-cocoa", "sights": {
+      "de": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "Ein privater Freizeitclub, der ursprünglich für die Arbeiter der örtlichen Aluminiumhütte gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "Eredetileg a helyi alumíniumkohó dolgozói számára létrehozott zártkörű szabadidős klub.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "Un club de recreere privat, înființat inițial pentru lucrătorii topitoriei locale de aluminiu.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "A private recreational club originally established for the workers of the local aluminium smelter.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GH-AA",
     coords: [-0.01, 5.66],

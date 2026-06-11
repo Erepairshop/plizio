@@ -195,7 +195,88 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sacred-heart-cathedral-landmarks-v2",
+    id: "sacred-heart-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Cotton Tree",
+                  "text": "Dieser berühmte Baum, ein imposanter historischer botanischer Riese in sacred-heart-cathedral-landmarks-v2, ist eine weithin bekannte natürliche Attraktion mit einer massiven, weitläufigen Krone.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.235624,
+                        8.487148
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Mit seiner charakteristischen Steinmetzarbeit fungiert dieses Gotteshaus im Gebiet sacred-heart-cathedral-landmarks-v2 als imposantes Kathedralengebäude.",
+                  "category": "religious",
+                  "coords": [
+                        -13.235704,
+                        8.489996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Cotton Tree",
+                  "text": "A sacred-heart-cathedral-landmarks-v2 területén álló, lenyűgöző történelmi botanikai óriás, ez a híres fa egy széles körben elismert, hatalmas és kiterjedt lombkoronájú természeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.235624,
+                        8.487148
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "A jellegzetes kőművesmunkával épült istentiszteleti hely a sacred-heart-cathedral-landmarks-v2 területén impozáns katedrálisként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -13.235704,
+                        8.489996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Cotton Tree",
+                  "text": "Stând ca un gigant botanic istoric impunător în sacred-heart-cathedral-landmarks-v2, acest copac faimos este o atracție naturală recunoscută la scară largă, cu o coroană masivă și extinsă.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.235624,
+                        8.487148
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Construit cu o zidărie de piatră distinctivă, acest lăcaș de cult din zona sacred-heart-cathedral-landmarks-v2 funcționează ca o clădire impunătoare a unei catedrale.",
+                  "category": "religious",
+                  "coords": [
+                        -13.235704,
+                        8.489996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cotton Tree",
+                  "text": "Standing as an imposing historical botanical giant in sacred-heart-cathedral-landmarks-v2, this famous tree is a widely recognized natural attraction with a massive, sprawling canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.235624,
+                        8.487148
+                  ]
+            },
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Built with distinctive stone masonry, this place of worship in the sacred-heart-cathedral-landmarks-v2 area functions as an imposing cathedral building.",
+                  "category": "religious",
+                  "coords": [
+                        -13.235704,
+                        8.489996
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-W",
     coords: [-13.235, 8.487],
@@ -259,7 +340,52 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "freetown-central-mosque-landmarks-v2",
+    id: "freetown-central-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Diese markante katholische Kathedrale in Freetown steht als historisches Pendant zur nahegelegenen Zentralmoschee und zeugt von der religiösen Vielfalt der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -13.233211,
+                        8.489477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Freetown feltűnő katolikus katedrálisa a közeli Központi Mecset történelmi párjaként a város vallási sokszínűségét mutatja be.",
+                  "category": "religious",
+                  "coords": [
+                        -13.233211,
+                        8.489477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Această catedrală catolică impresionantă din Freetown este un omolog istoric al Moscheii Centrale din apropiere, evidențiind diversitatea religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -13.233211,
+                        8.489477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "This striking Catholic cathedral in Freetown stands as a historic counterpart to the nearby Central Mosque, showcasing the city's religious diversity.",
+                  "category": "religious",
+                  "coords": [
+                        -13.233211,
+                        8.489477
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-W",
     coords: [-13.231, 8.489],
@@ -323,7 +449,88 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "guma-valley-dam-landmarks-v2",
+    id: "guma-valley-dam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "Diese spezielle Attraktion in der Umgebung von guma-valley-dam-landmarks-v2 besteht aus einem speziellen lokalen Gebäude, das regionale Besucher anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            },
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Dieses riesige Naturreservat in der Nähe von guma-valley-dam-landmarks-v2 umfasst raue tropische Hänge und schützt wichtige Biodiversität und dicht bewaldete Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        -13.159752,
+                        8.327124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "A guma-valley-dam-landmarks-v2 szomszédságában található különleges látványosság egy dedikált helyi épületből áll, amely vonzza a régiós látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            },
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "A guma-valley-dam-landmarks-v2 közelében található zord, trópusi hegyoldalakat magába foglaló hatalmas természetvédelmi terület megóvja a kritikus biodiverzitást és az erősen erdősülő lejtőket.",
+                  "category": "natural",
+                  "coords": [
+                        -13.159752,
+                        8.327124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "Găsită în vecinătatea guma-valley-dam-landmarks-v2, această atracție specifică constă dintr-o clădire locală dedicată care atrage vizitatori regionali.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            },
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Cuprinzând versanți tropicali accidentați în apropiere de guma-valley-dam-landmarks-v2, această vastă rezervație naturală protejează biodiversitatea critică și pantele puternic împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        -13.159752,
+                        8.327124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "Found within the guma-valley-dam-landmarks-v2 vicinity, this specific attraction consists of a dedicated local building that draws regional visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            },
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Encompassing rugged tropical hillsides near the guma-valley-dam-landmarks-v2, this vast nature reserve safeguards critical biodiversity and heavily forested slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -13.159752,
+                        8.327124
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-W",
     coords: [-13.193, 8.361],
@@ -451,7 +658,88 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "aberdeen-lighthouse-landmarks-v2",
+    id: "aberdeen-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamba Kula Wharf",
+                  "text": "Ausgestattet mit aquatischen Freizeiteinrichtungen ist Tamba Kula Wharf ein lebhaftes Wasserparkziel, das in die Uferpromenade von aberdeen-lighthouse-landmarks-v2 integriert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.292244,
+                        8.494067
+                  ]
+            },
+            {
+                  "name": "Aberdeen Creek",
+                  "text": "Der Aberdeen Creek, der sich zu einer geschützten natürlichen Bucht öffnet, bietet im Bezirk aberdeen-lighthouse-landmarks-v2 eine ruhige Gezeitenumgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.277959,
+                        8.484668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamba Kula Wharf",
+                  "text": "A vízi szabadidős létesítményekkel felszerelt Tamba Kula Wharf egy nyüzsgő vízipark, amely az aberdeen-lighthouse-landmarks-v2 vízpartjába illeszkedik.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.292244,
+                        8.494067
+                  ]
+            },
+            {
+                  "name": "Aberdeen Creek",
+                  "text": "A védett, természetes öbölbe nyíló Aberdeen Creek nyugodt árapály-környezetet biztosít az aberdeen-lighthouse-landmarks-v2 negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.277959,
+                        8.484668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tamba Kula Wharf",
+                  "text": "Echipat cu facilități acvatice de agrement, Tamba Kula Wharf este o destinație plină de viață a unui parc acvatic integrat în zona portuară aberdeen-lighthouse-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.292244,
+                        8.494067
+                  ]
+            },
+            {
+                  "name": "Aberdeen Creek",
+                  "text": "Deschizându-se într-un golf natural adăpostit, Aberdeen Creek oferă un mediu liniștit supus mareelor în districtul aberdeen-lighthouse-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.277959,
+                        8.484668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamba Kula Wharf",
+                  "text": "Equipped with aquatic leisure facilities, Tamba Kula Wharf is a bustling water park destination integrated into the aberdeen-lighthouse-landmarks-v2 waterfront.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.292244,
+                        8.494067
+                  ]
+            },
+            {
+                  "name": "Aberdeen Creek",
+                  "text": "Opening up into a sheltered natural bay, Aberdeen Creek provides a tranquil tidal environment within the aberdeen-lighthouse-landmarks-v2 district.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.277959,
+                        8.484668
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-W",
     coords: [-13.295, 8.495],
@@ -643,7 +931,88 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "king-jimmy-bridge-landmarks-v2",
+    id: "king-jimmy-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sea Side View POW",
+                  "text": "Dieser malerische Aussichtspunkt liegt erhöht über der Küste in king-jimmy-bridge-landmarks-v2 und bietet weitreichende Panoramen über die angrenzenden Küstengewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -13.24361,
+                        8.489835
+                  ]
+            },
+            {
+                  "name": "Pujeh",
+                  "text": "Dieser spezielle Ort im Gebiet king-jimmy-bridge-landmarks-v2 dient derzeit als ausgewiesenes strukturelles Testgelände.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.237195,
+                        8.488608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sea Side View POW",
+                  "text": "A king-jimmy-bridge-landmarks-v2 partszakasza fölé magasodó festői kilátópontról elsöprő panoráma nyílik a szomszédos parti vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        -13.24361,
+                        8.489835
+                  ]
+            },
+            {
+                  "name": "Pujeh",
+                  "text": "A king-jimmy-bridge-landmarks-v2 területén található konkrét helyszín jelenleg kijelölt szerkezeti tesztelési területként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.237195,
+                        8.488608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sea Side View POW",
+                  "text": "Ridicat deasupra coastei în king-jimmy-bridge-landmarks-v2, acest punct de belvedere pitoresc oferă panorame vaste asupra apelor de coastă adiacente.",
+                  "category": "natural",
+                  "coords": [
+                        -13.24361,
+                        8.489835
+                  ]
+            },
+            {
+                  "name": "Pujeh",
+                  "text": "Situată în zona king-jimmy-bridge-landmarks-v2, această locație specifică servește în prezent ca un site de testare structurală desemnat.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.237195,
+                        8.488608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sea Side View POW",
+                  "text": "Elevated above the coastline in king-jimmy-bridge-landmarks-v2, this scenic viewpoint offers sweeping panoramas over the adjacent coastal waters.",
+                  "category": "natural",
+                  "coords": [
+                        -13.24361,
+                        8.489835
+                  ]
+            },
+            {
+                  "name": "Pujeh",
+                  "text": "Located in the king-jimmy-bridge-landmarks-v2 area, this specific location currently serves as a designated structural testing site.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.237195,
+                        8.488608
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-W",
     coords: [-13.239, 8.489],
@@ -707,7 +1076,52 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "peace-museum-sl-landmarks-v2",
+    id: "peace-museum-sl-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "75A Leicester Road",
+                  "text": "Von seiner erhöhten Lage an der Straße in der Nähe von peace-museum-sl-landmarks-v2 aus bietet dieser Aussichtspunkt Besuchern einen Blick auf die umliegende Architektur der Nachbarschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -13.227659,
+                        8.471926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "75A Leicester Road",
+                  "text": "A peace-museum-sl-landmarks-v2 közelében található magaslati, utcai elhelyezkedéséből ez a kilátó lehetővé teszi a látogatók számára, hogy rálássanak a környező városrész építészetére.",
+                  "category": "natural",
+                  "coords": [
+                        -13.227659,
+                        8.471926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "75A Leicester Road",
+                  "text": "Din locația sa stradală înaltă din apropiere de peace-museum-sl-landmarks-v2, acest punct de belvedere permite vizitatorilor să privească peste arhitectura cartierului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -13.227659,
+                        8.471926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "75A Leicester Road",
+                  "text": "From its elevated street-side location near peace-museum-sl-landmarks-v2, this viewpoint allows visitors to look out over the surrounding neighbourhood architecture.",
+                  "category": "natural",
+                  "coords": [
+                        -13.227659,
+                        8.471926
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-W",
     coords: [-13.227, 8.475],
@@ -835,7 +1249,124 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "youyi-building-landmarks-v2",
+    id: "youyi-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Former Hill Station",
+                  "text": "Die Former Hill Station zeigt Elemente kolonialzeitlicher Raumplanung und ist eine angesehene historische Attraktion im Bezirk youyi-building-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.25287,
+                        8.458545
+                  ]
+            },
+            {
+                  "name": "Government Quarter Hillstation",
+                  "text": "Mit seiner markanten Verwaltungsarchitektur ist das Government Quarter Hillstation eine etablierte Wohn- und Regierungsattraktion im Gebiet youyi-building-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.254126,
+                        8.457343
+                  ]
+            },
+            {
+                  "name": "Bob Art",
+                  "text": "Bob Art fungiert als engagiertes Kunstzentrum im Gebiet youyi-building-landmarks-v2 und bietet Galerieräume für zeitgenössische lokale Künstler und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.248869,
+                        8.474443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Former Hill Station",
+                  "text": "A gyarmati kori térrendezés elemeit felvonultató Former Hill Station a youyi-building-landmarks-v2 negyed egyik jeles történelmi látványossága marad.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.25287,
+                        8.458545
+                  ]
+            },
+            {
+                  "name": "Government Quarter Hillstation",
+                  "text": "A jellegzetes közigazgatási építészettel rendelkező Government Quarter Hillstation egy jól bejáratott lakó- és hivatali látványosság a youyi-building-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.254126,
+                        8.457343
+                  ]
+            },
+            {
+                  "name": "Bob Art",
+                  "text": "A youyi-building-landmarks-v2 területén elkötelezett művészeti központként működő Bob Art galériateret biztosít a kortárs helyi alkotóknak és kiállításoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.248869,
+                        8.474443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Former Hill Station",
+                  "text": "Prezentând elemente ale planificării spațiale din epoca colonială, Fosta Stație de pe Deal rămâne o atracție istorică distinsă în districtul youyi-building-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.25287,
+                        8.458545
+                  ]
+            },
+            {
+                  "name": "Government Quarter Hillstation",
+                  "text": "Având o arhitectură administrativă distinctă, Cartierul Guvernamental Hillstation este o atracție rezidențială și oficială consacrată în zona youyi-building-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.254126,
+                        8.457343
+                  ]
+            },
+            {
+                  "name": "Bob Art",
+                  "text": "Funcționând ca un centru de artă dedicat în zona youyi-building-landmarks-v2, Bob Art oferă un spațiu de galerie pentru creatorii locali contemporani și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.248869,
+                        8.474443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Former Hill Station",
+                  "text": "Showcasing elements of colonial-era spatial planning, the Former Hill Station remains a distinguished historical attraction in the youyi-building-landmarks-v2 district.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.25287,
+                        8.458545
+                  ]
+            },
+            {
+                  "name": "Government Quarter Hillstation",
+                  "text": "Featuring distinct administrative architecture, the Government Quarter Hillstation is an established residential and official attraction in the youyi-building-landmarks-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.254126,
+                        8.457343
+                  ]
+            },
+            {
+                  "name": "Bob Art",
+                  "text": "Acting as a dedicated arts centre in the youyi-building-landmarks-v2 area, Bob Art provides gallery space for contemporary local creators and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.248869,
+                        8.474443
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-W",
     coords: [-13.244, 8.481],
@@ -963,7 +1494,52 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "st-pauls-cathedral-kenema-landmarks-v2",
+    id: "st-pauls-cathedral-kenema-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Holy Trinity Hall",
+                  "text": "Die Holy Trinity Hall ist ein bekannter Veranstaltungsort für Theater- und Gemeinde-Events in der Nähe der St. Paul's Cathedral in Kenema.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.19877,
+                        7.861576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holy Trinity Hall",
+                  "text": "A Holy Trinity Hall egy kiemelkedő színházi és közösségi rendezvényhelyszín Kenemában, a Szent Pál-székesegyház közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.19877,
+                        7.861576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Holy Trinity Hall",
+                  "text": "Holy Trinity Hall este un loc proeminent pentru evenimente teatrale și comunitare, situat în apropiere de Catedrala Sf. Paul din Kenema.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.19877,
+                        7.861576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Trinity Hall",
+                  "text": "Holy Trinity Hall is a prominent venue for theatrical and community events located near St. Paul's Cathedral in Kenema.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.19877,
+                        7.861576
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-E",
     coords: [-11.189, 7.876],
@@ -1091,7 +1667,52 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "makeni-clock-tower-landmarks-v2",
+    id: "makeni-clock-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "Als bedeutender Veranstaltungsort im Bezirk makeni-clock-tower-landmarks-v2 beherbergt das UNIMAK Auditorium regelmäßig lokale kulturelle und akademische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "A makeni-clock-tower-landmarks-v2 negyed kiemelkedő színházi helyszíneként a UNIMAK Auditorium rendszeresen ad otthont helyi kulturális és tudományos előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "Funcționând ca o locație teatrală proeminentă în districtul makeni-clock-tower-landmarks-v2, UNIMAK Auditorium găzduiește regulat spectacole culturale și academice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "Functioning as a prominent theatre venue in the makeni-clock-tower-landmarks-v2 district, the UNIMAK Auditorium regularly hosts local cultural and academic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-N",
     coords: [-12.046, 8.884],
@@ -1155,7 +1776,52 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "immaculate-conception-cathedral-bo-landmarks-v2",
+    id: "immaculate-conception-cathedral-bo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "Die SALWACO-Anlage fungiert als kritische Wasserversorgungsinfrastruktur innerhalb der Stadtgrenzen von Bo.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "A SALWACO létesítmény kritikus vízellátási infrastruktúraként működik Bo város határain belül.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "Instalația SALWACO funcționează ca o infrastructură critică de alimentare cu apă situată în limitele orașului Bo.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "The SALWACO facility functions as a critical water supply infrastructure site located within the Bo city limits.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-S",
     coords: [-11.737, 7.962],
@@ -1219,7 +1885,52 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     },
   },
   {
-    id: "wesley-methodist-church-makeni-landmarks-v2",
+    id: "wesley-methodist-church-makeni-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wusum",
+                  "text": "Der natürliche Gipfel des Wusum, der die Skyline nahe wesley-methodist-church-makeni-landmarks-v2 dominiert, bildet eine markante Kulisse für die umliegende städtische Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wusum",
+                  "text": "A wesley-methodist-church-makeni-landmarks-v2 közelében magasodó Wusum természetes csúcsa lenyűgöző hátteret biztosít a környező városi környezetnek.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wusum",
+                  "text": "Dominând orizontul din apropiere de wesley-methodist-church-makeni-landmarks-v2, vârful natural Wusum oferă un fundal uimitor mediului urban înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wusum",
+                  "text": "Dominating the skyline near wesley-methodist-church-makeni-landmarks-v2, the natural peak of Wusum provides a striking backdrop to the surrounding urban environment.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SL-N",
     coords: [-12.044, 8.885],

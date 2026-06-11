@@ -39,7 +39,124 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "ferme-de-kolda-life-v2",
+    id: "ferme-de-kolda-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Village artisanal El Bassirou DIALLO",
+                  "text": "Das Village artisanal El Bassirou DIALLO ist ein traditionelles Handwerkszentrum in der Nähe der Kolda-Farmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.944394,
+                        12.884917
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Régional de Kolda",
+                  "text": "Das Centre Culturel Régional de Kolda ist eine regionale Kultureinrichtung in der Nähe der Kolda-Farmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.923462,
+                        12.886238
+                  ]
+            },
+            {
+                  "name": "Centre culturel des Six Jarres",
+                  "text": "Das Centre culturel des Six Jarres ist ein Kulturzentrum in der Region Kolda.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.935269,
+                        12.897089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Village artisanal El Bassirou DIALLO",
+                  "text": "A Village artisanal El Bassirou DIALLO egy hagyományos kézműves központ a koldai farmok közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.944394,
+                        12.884917
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Régional de Kolda",
+                  "text": "A Centre Culturel Régional de Kolda egy regionális művészeti létesítmény a koldai farmok közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.923462,
+                        12.886238
+                  ]
+            },
+            {
+                  "name": "Centre culturel des Six Jarres",
+                  "text": "A Centre culturel des Six Jarres egy kulturális központ Kolda régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.935269,
+                        12.897089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Village artisanal El Bassirou DIALLO",
+                  "text": "Village artisanal El Bassirou DIALLO este un centru meșteșugăresc tradițional lângă fermele din Kolda.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.944394,
+                        12.884917
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Régional de Kolda",
+                  "text": "Centre Culturel Régional de Kolda este o facilitate artistică regională situată lângă fermele din Kolda.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.923462,
+                        12.886238
+                  ]
+            },
+            {
+                  "name": "Centre culturel des Six Jarres",
+                  "text": "Centre culturel des Six Jarres este un centru cultural situat în regiunea Kolda.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.935269,
+                        12.897089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Village artisanal El Bassirou DIALLO",
+                  "text": "Village artisanal El Bassirou DIALLO is a traditional craft center near the Kolda farms.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.944394,
+                        12.884917
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Régional de Kolda",
+                  "text": "Centre Culturel Régional de Kolda is a regional arts facility situated near the Kolda farms.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.923462,
+                        12.886238
+                  ]
+            },
+            {
+                  "name": "Centre culturel des Six Jarres",
+                  "text": "Centre culturel des Six Jarres is a cultural center located in the Kolda region.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.935269,
+                        12.897089
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SN-KD",
     coords: [-14.95, 12.8833],
@@ -147,7 +264,88 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "musee-des-enfants-life-v2",
+    id: "musee-des-enfants-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sale de jeux",
+                  "text": "Dieses Indoor-Gaming-Zentrum bietet verschiedene Arcade-Automaten und digitale Unterhaltungsmöglichkeiten für die lokale Jugend.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.455695,
+                        14.683373
+                  ]
+            },
+            {
+                  "name": "Village Artisanal de Soumbédioune",
+                  "text": "Dieses lebendige Handwerkerdorf an der Küste ist bekannt für seine erfahrenen Kunsthandwerker, die komplizierte Lederarbeiten, Schmuck und Holzschnitzereien herstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.457846,
+                        14.676791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sale de jeux",
+                  "text": "Ez a beltéri játékközpont különféle játéktermi gépeket és digitális szórakozási lehetőségeket kínál a helyi fiataloknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.455695,
+                        14.683373
+                  ]
+            },
+            {
+                  "name": "Village Artisanal de Soumbédioune",
+                  "text": "Ez a nyüzsgő tengerparti kézműves falu híres az ügyes mesteremberekről, akik bonyolult bőrdíszműveket, ékszereket és fafaragványokat készítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.457846,
+                        14.676791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sale de jeux",
+                  "text": "Acest centru de jocuri de interior oferă o varietate de aparate arcade și opțiuni de divertisment digital pentru tinerii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.455695,
+                        14.683373
+                  ]
+            },
+            {
+                  "name": "Village Artisanal de Soumbédioune",
+                  "text": "Acest sat artizanal de coastă vibrant este renumit pentru meșterii săi pricepuți care creează articole complexe din piele, bijuterii și sculpturi în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.457846,
+                        14.676791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CyberGame",
+                  "text": "This indoor gaming center offers a variety of arcade machines and digital entertainment options for local youth.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.455695,
+                        14.683373
+                  ]
+            },
+            {
+                  "name": "Village Artisanal de Soumbédioune",
+                  "text": "This vibrant coastal artisan village is renowned for its skilled craftsmen creating intricate leatherwork, jewelry, and woodcarvings.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.457846,
+                        14.676791
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SN-DK",
     coords: [-17.45, 14.68],
@@ -183,7 +381,88 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "reserve-gueumbeul-life-v2",
+    id: "reserve-gueumbeul-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de N'Diago",
+                  "text": "Der weitläufige Sandstrand erstreckt sich entlang der Küstenumgebung und bietet weite Ausblicke auf das Meerwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.510971,
+                        16.177609
+                  ]
+            },
+            {
+                  "name": "Plage de Ghara",
+                  "text": "Dieser Sandstrand an der Küste bietet eine natürliche Kulisse für Strandspaziergänge und die Beobachtung der lokalen maritimen Landschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.511298,
+                        16.215786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de N'Diago",
+                  "text": "A kiterjedt homokos strand a tengerparti környezet mentén húzódik, széles kilátást nyújtva az óceán vizére.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.510971,
+                        16.177609
+                  ]
+            },
+            {
+                  "name": "Plage de Ghara",
+                  "text": "Ez a tengerparti homokos strand természetes környezetet biztosít a parti sétákhoz és a helyi tengeri táj megtekintéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.511298,
+                        16.215786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de N'Diago",
+                  "text": "Plaja vastă de nisip se întinde de-a lungul coastei, oferind priveliști ample asupra apelor oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.510971,
+                        16.177609
+                  ]
+            },
+            {
+                  "name": "Plage de Ghara",
+                  "text": "Această plajă de nisip de pe coastă oferă un cadru natural pentru plimbări la malul mării și pentru a admira peisajul maritim local.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.511298,
+                        16.215786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de N'Diago",
+                  "text": "The expansive sandy beach stretches along the coastal environment, offering wide views of the ocean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.510971,
+                        16.177609
+                  ]
+            },
+            {
+                  "name": "Plage de Ghara",
+                  "text": "This coastal sandy beach provides a natural setting for seaside walks and viewing the local maritime landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.511298,
+                        16.215786
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SN-SL",
     coords: [-16.45, 16.15],
@@ -255,7 +534,124 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "jardin-zoologique-dakar-life-v2",
+    id: "jardin-zoologique-dakar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre National Daniel Sorano",
+                  "text": "Das Théâtre National Daniel Sorano ist ein großer Indoor-Veranstaltungsort für darstellende Künste, der mit einer Bühne für Theaterproduktionen in der Nähe von jardin-zoologique-dakar-life-v2 ausgestattet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.439471,
+                        14.666317
+                  ]
+            },
+            {
+                  "name": "Musèe des Forces Armèes Senegalaises",
+                  "text": "Das Musèe des Forces Armèes Senegalaises ist ein Indoor-Museumsraum in der Nähe von jardin-zoologique-dakar-life-v2, der die nationale Militärgeschichte und Artefakte bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -17.441967,
+                        14.667191
+                  ]
+            },
+            {
+                  "name": "Marché Sandaga",
+                  "text": "Der Marché Sandaga ist ein belebter, mehrstöckiger kommerzieller Markt im zentralen Viertel in der Nähe von jardin-zoologique-dakar-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437782,
+                        14.670036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre National Daniel Sorano",
+                  "text": "A Théâtre National Daniel Sorano egy jelentős beltéri előadóművészeti helyszín, amely színpaddal rendelkezik a színházi produkciókhoz a jardin-zoologique-dakar-life-v2 közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.439471,
+                        14.666317
+                  ]
+            },
+            {
+                  "name": "Musèe des Forces Armèes Senegalaises",
+                  "text": "A Musèe des Forces Armèes Senegalaises egy beltéri múzeumi tér a jardin-zoologique-dakar-life-v2 közelében, amely megőrzi a nemzeti hadtörténetet és a műtárgyakat.",
+                  "category": "museum",
+                  "coords": [
+                        -17.441967,
+                        14.667191
+                  ]
+            },
+            {
+                  "name": "Marché Sandaga",
+                  "text": "A Marché Sandaga egy nyüzsgő, többszintes kereskedelmi piac a központi negyedben, a jardin-zoologique-dakar-life-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437782,
+                        14.670036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre National Daniel Sorano",
+                  "text": "Théâtre National Daniel Sorano este o locație majoră de arte performative interioare, dotată cu o scenă pentru producții teatrale lângă jardin-zoologique-dakar-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.439471,
+                        14.666317
+                  ]
+            },
+            {
+                  "name": "Musèe des Forces Armèes Senegalaises",
+                  "text": "Musèe des Forces Armèes Senegalaises este un spațiu muzeal interior lângă jardin-zoologique-dakar-life-v2, care păstrează istoria militară națională și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        -17.441967,
+                        14.667191
+                  ]
+            },
+            {
+                  "name": "Marché Sandaga",
+                  "text": "Marché Sandaga este o atracție comercială aglomerată, pe mai multe etaje, situată în cartierul central de lângă jardin-zoologique-dakar-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437782,
+                        14.670036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre National Daniel Sorano",
+                  "text": "Théâtre National Daniel Sorano is a major indoor performing arts venue equipped with a stage for theatrical productions near jardin-zoologique-dakar-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.439471,
+                        14.666317
+                  ]
+            },
+            {
+                  "name": "Musèe des Forces Armèes Senegalaises",
+                  "text": "The Musèe des Forces Armèes Senegalaises is an indoor museum space near jardin-zoologique-dakar-life-v2 that preserves national military history and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -17.441967,
+                        14.667191
+                  ]
+            },
+            {
+                  "name": "Marché Sandaga",
+                  "text": "Marché Sandaga is a bustling, multi-story commercial market attraction located in the central district near jardin-zoologique-dakar-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437782,
+                        14.670036
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SN-DK",
     coords: [-17.44, 14.67],
@@ -363,7 +759,52 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "parc-national-oiseaux-life-v2",
+    id: "parc-national-oiseaux-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National des oiseaux du Djoudj",
+                  "text": "Dieses 1971 gegründete riesige Feuchtgebiet ist ein wichtiges Schutzgebiet für Millionen von Zugvögeln, insbesondere großen Pelikanschwärmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.228407,
+                        16.417312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National des oiseaux du Djoudj",
+                  "text": "Ez az 1971-ben alapított hatalmas vizes élőhely millió vándormadár, köztük hatalmas pelikánrajok létfontosságú menedékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.228407,
+                        16.417312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National des oiseaux du Djoudj",
+                  "text": "Această vastă zonă umedă, fondată în 1971, este un sanctuar esențial pentru milioane de păsări migratoare, inclusiv turme mari de pelicani.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.228407,
+                        16.417312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National des oiseaux du Djoudj",
+                  "text": "Established in 1971, this immense wetland is a crucial sanctuary for millions of migratory birds, including massive flocks of pelicans.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.228407,
+                        16.417312
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SN-SL",
     coords: [-16.26, 16.48],
@@ -435,7 +876,232 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "plage-des-enfants-life-v2",
+    id: "plage-des-enfants-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie Arte",
+                  "text": "Eine zeitgenössische Galerie, die afrikanische Kunst und Design in Dakar ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -17.474553,
+                        14.707121
+                  ]
+            },
+            {
+                  "name": "Raw Material Company",
+                  "text": "Ein unabhängiges Kunstzentrum und Museum mit Schwerpunkt auf zeitgenössischer bildender Kunst in Dakar.",
+                  "category": "museum",
+                  "coords": [
+                        -17.455365,
+                        14.697546
+                  ]
+            },
+            {
+                  "name": "Musée Léopold Sédar Senghor",
+                  "text": "Ein Museum, das in der ehemaligen Residenz des ersten Präsidenten des Senegal untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471304,
+                        14.696207
+                  ]
+            },
+            {
+                  "name": "Ebbet's Field (U.S. Embassy)",
+                  "text": "Ein Erholungspark auf dem Gelände der US-Botschaft.",
+                  "category": "park",
+                  "coords": [
+                        -17.479466,
+                        14.70271
+                  ]
+            },
+            {
+                  "name": "Baie de Mermoz",
+                  "text": "Eine weitläufige Küstenbucht entlang der Küste von Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.475223,
+                        14.698687
+                  ]
+            },
+            {
+                  "name": "Centre de Recherche et d'Essais",
+                  "text": "Ein Kunst- und Forschungszentrum, das technologische und kreative Erkundungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.456296,
+                        14.697901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie Arte",
+                  "text": "Kortárs galéria, amely afrikai művészetet és dizájnt mutat be Dakarban.",
+                  "category": "museum",
+                  "coords": [
+                        -17.474553,
+                        14.707121
+                  ]
+            },
+            {
+                  "name": "Raw Material Company",
+                  "text": "Független művészeti központ és múzeum Dakarban, amely a kortárs képzőművészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -17.455365,
+                        14.697546
+                  ]
+            },
+            {
+                  "name": "Musée Léopold Sédar Senghor",
+                  "text": "Múzeum, amely Szenegál első elnökének egykori rezidenciáján kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471304,
+                        14.696207
+                  ]
+            },
+            {
+                  "name": "Ebbet's Field (U.S. Embassy)",
+                  "text": "Szabadidős park az Egyesült Államok nagykövetségének épületegyüttesén belül.",
+                  "category": "park",
+                  "coords": [
+                        -17.479466,
+                        14.70271
+                  ]
+            },
+            {
+                  "name": "Baie de Mermoz",
+                  "text": "Széles parti öböl Dakar partvonala mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.475223,
+                        14.698687
+                  ]
+            },
+            {
+                  "name": "Centre de Recherche et d'Essais",
+                  "text": "Művészeti és kutatóközpont, amely a technológiai és kreatív felfedezést ösztönzi.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.456296,
+                        14.697901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie Arte",
+                  "text": "O galerie contemporană care expune artă și design african în Dakar.",
+                  "category": "museum",
+                  "coords": [
+                        -17.474553,
+                        14.707121
+                  ]
+            },
+            {
+                  "name": "Raw Material Company",
+                  "text": "Un centru de artă și muzeu independent axat pe artele vizuale contemporane din Dakar.",
+                  "category": "museum",
+                  "coords": [
+                        -17.455365,
+                        14.697546
+                  ]
+            },
+            {
+                  "name": "Musée Léopold Sédar Senghor",
+                  "text": "Un muzeu găzduit în fosta reședință a primului președinte al Senegalului.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471304,
+                        14.696207
+                  ]
+            },
+            {
+                  "name": "Ebbet's Field (U.S. Embassy)",
+                  "text": "Un parc de recreere situat în incinta Ambasadei Statelor Unite.",
+                  "category": "park",
+                  "coords": [
+                        -17.479466,
+                        14.70271
+                  ]
+            },
+            {
+                  "name": "Baie de Mermoz",
+                  "text": "O zonă de golf de coastă care se întinde de-a lungul țărmului din Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.475223,
+                        14.698687
+                  ]
+            },
+            {
+                  "name": "Centre de Recherche et d'Essais",
+                  "text": "Un centru de cercetare și arte care promovează explorarea tehnologică și creativă.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.456296,
+                        14.697901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie Arte",
+                  "text": "A contemporary gallery showcasing African art and design in Dakar.",
+                  "category": "museum",
+                  "coords": [
+                        -17.474553,
+                        14.707121
+                  ]
+            },
+            {
+                  "name": "Raw Material Company",
+                  "text": "An independent art center and museum focused on contemporary visual arts in Dakar.",
+                  "category": "museum",
+                  "coords": [
+                        -17.455365,
+                        14.697546
+                  ]
+            },
+            {
+                  "name": "Musée Léopold Sédar Senghor",
+                  "text": "A museum housed in the former residence of Senegal's first president.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471304,
+                        14.696207
+                  ]
+            },
+            {
+                  "name": "Ebbet's Field (U.S. Embassy)",
+                  "text": "A recreational park area located within the U.S. Embassy compound.",
+                  "category": "park",
+                  "coords": [
+                        -17.479466,
+                        14.70271
+                  ]
+            },
+            {
+                  "name": "Baie de Mermoz",
+                  "text": "A sweeping coastal bay situated along the Dakar shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.475223,
+                        14.698687
+                  ]
+            },
+            {
+                  "name": "Centre de Recherche et d'Essais",
+                  "text": "An arts and research center promoting technological and creative exploration.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.456296,
+                        14.697901
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SN-DK",
     coords: [-17.46, 14.7],
@@ -471,7 +1137,52 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "reserve-fathala-life-v2",
+    id: "reserve-fathala-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fathala Wildlife Reserve",
+                  "text": "Das Fathala Wildlife Reserve ist eine Naturattraktion, die Tierbeobachtungen in der Savanne bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.431395,
+                        13.641559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fathala Wildlife Reserve",
+                  "text": "A Fathala Vadaspark egy természeti látványosság, amely szavannai vadvilág megfigyelését kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.431395,
+                        13.641559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fathala Wildlife Reserve",
+                  "text": "Fathala Wildlife Reserve este o atracție naturală care oferă observarea faunei sălbatice din savană.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.431395,
+                        13.641559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fathala Wildlife Reserve",
+                  "text": "Fathala Wildlife Reserve is a natural attraction offering savanna wildlife viewing.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.431395,
+                        13.641559
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SN-FK",
     coords: [-16.4, 13.6],
@@ -507,7 +1218,52 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "jardin-botanique-dakar-life-v2",
+    id: "jardin-botanique-dakar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand Théâtre National de Dakar",
+                  "text": "Dieser moderne Theaterkomplex ist ein bedeutender Veranstaltungsort für groß angelegte kulturelle Aufführungen in Dakar.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.436398,
+                        14.679359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand Théâtre National de Dakar",
+                  "text": "Ez a modern színházi komplexum a nagyszabású kulturális előadások jelentős helyszíne Dakarban.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.436398,
+                        14.679359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand Théâtre National de Dakar",
+                  "text": "Acest complex teatral modern este o locație majoră pentru spectacole culturale de mare amploare în Dakar.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.436398,
+                        14.679359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Théâtre National de Dakar",
+                  "text": "This modern theatre complex is a major venue for large-scale cultural performances in Dakar.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.436398,
+                        14.679359
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SN-DK",
     coords: [-17.44, 14.68],
@@ -543,7 +1299,52 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "culture-tomate-podor-life-v2",
+    id: "culture-tomate-podor-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt Classée de Tessèm",
+                  "text": "Die Forêt Classée de Tessèm ist ein geschütztes Waldgebiet, das zum lokalen ökologischen Gleichgewicht in der Nähe von Podor beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -14.859393,
+                        16.643245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt Classée de Tessèm",
+                  "text": "A Forêt Classée de Tessèm egy védett erdőterület, amely hozzájárul Podor környékének helyi ökológiai egyensúlyához.",
+                  "category": "natural",
+                  "coords": [
+                        -14.859393,
+                        16.643245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt Classée de Tessèm",
+                  "text": "Forêt Classée de Tessèm este o zonă împădurită protejată care contribuie la echilibrul ecologic local de lângă Podor.",
+                  "category": "natural",
+                  "coords": [
+                        -14.859393,
+                        16.643245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt Classée de Tessèm",
+                  "text": "The Forêt Classée de Tessèm is a protected woodland area contributing to local ecological balance near Podor.",
+                  "category": "natural",
+                  "coords": [
+                        -14.859393,
+                        16.643245
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SN-SL",
     coords: [-14.9, 16.6],
@@ -579,7 +1380,88 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "centre-ecquestre-dakar-life-v2",
+    id: "centre-ecquestre-dakar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Socio-Culturel de Grand-Dakar",
+                  "text": "Ein soziokulturelles Zentrum, das dem Viertel Grand-Dakar dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.45364,
+                        14.704301
+                  ]
+            },
+            {
+                  "name": "Massalikoul Djinane",
+                  "text": "Eine riesige Mouriden-Moschee mit fünf Minaretten und weitläufigen Marmorinnenräumen.",
+                  "category": "religious",
+                  "coords": [
+                        -17.448647,
+                        14.701076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Socio-Culturel de Grand-Dakar",
+                  "text": "Szociokulturális központ, amely Grand-Dakar negyedét szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.45364,
+                        14.704301
+                  ]
+            },
+            {
+                  "name": "Massalikoul Djinane",
+                  "text": "Hatalmas murid mecset, amely öt minarettel és tágas márványbelsővel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        -17.448647,
+                        14.701076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Socio-Culturel de Grand-Dakar",
+                  "text": "Un centru socio-cultural care deservește cartierul Grand-Dakar.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.45364,
+                        14.704301
+                  ]
+            },
+            {
+                  "name": "Massalikoul Djinane",
+                  "text": "O moschee masivă a confreriei Mouride, cu cinci minarete și interioare vaste din marmură.",
+                  "category": "religious",
+                  "coords": [
+                        -17.448647,
+                        14.701076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Socio-Culturel de Grand-Dakar",
+                  "text": "A community arts center serving the Grand-Dakar neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.45364,
+                        14.704301
+                  ]
+            },
+            {
+                  "name": "Massalikoul Djinane",
+                  "text": "A massive Mouride mosque featuring five minarets and vast marble interiors.",
+                  "category": "religious",
+                  "coords": [
+                        -17.448647,
+                        14.701076
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SN-DK",
     coords: [-17.45, 14.7],
@@ -651,7 +1533,268 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "parc-safari-delta-life-v2",
+    id: "parc-safari-delta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Fagaru",
+                  "text": "Das Centre Fagaru ist ein lokaler Mittelpunkt und eine Attraktion im Gebiet parc-safari-delta-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.485052,
+                        13.712537
+                  ]
+            },
+            {
+                  "name": "Le fromager géant",
+                  "text": "Le fromager géant ist ein riesiger, hoch aufragender Kapokbaum, der als natürliches Wahrzeichen in parc-safari-delta-life-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.502457,
+                        13.679569
+                  ]
+            },
+            {
+                  "name": "île reposoire aux oiseaux",
+                  "text": "Die île reposoire aux oiseaux ist ein ruhiges Inselschutzgebiet, das rastenden Vogelschwärmen in parc-safari-delta-life-v2 gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.533442,
+                        13.647663
+                  ]
+            },
+            {
+                  "name": "Entrée du parc du Delta du Saloum",
+                  "text": "Das Entrée du parc du Delta du Saloum ist das monumentale Eingangstor, das Besucher im Park willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        -16.488928,
+                        13.648593
+                  ]
+            },
+            {
+                  "name": "Marché artisanal",
+                  "text": "Der Marché artisanal ist ein lebhafter lokaler Markt, der traditionelles handgemachtes Kunsthandwerk und Waren präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.477109,
+                        13.786636
+                  ]
+            },
+            {
+                  "name": "Reserve de Fathala",
+                  "text": "Das Reserve de Fathala ist ein geschütztes Wildtierreservat, das für seine vielfältigen Savannenökosysteme in parc-safari-delta-life-v2 bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -16.460028,
+                        13.653235
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc du Delta du Saloum",
+                  "text": "Das Bureau du Parc du Delta du Saloum fungiert als administratives Hauptquartier, das das geschützte Naturschutzgebiet verwaltet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.494021,
+                        13.648125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Fagaru",
+                  "text": "A Centre Fagaru egy helyi központ és látványosság a parc-safari-delta-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.485052,
+                        13.712537
+                  ]
+            },
+            {
+                  "name": "Le fromager géant",
+                  "text": "A Le fromager géant egy hatalmas, magasba tornyosuló kapokfa, amely természetes tájékozódási pontként szolgál parc-safari-delta-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.502457,
+                        13.679569
+                  ]
+            },
+            {
+                  "name": "île reposoire aux oiseaux",
+                  "text": "Az île reposoire aux oiseaux egy nyugodt szigeti menedék a pihenő madárrajok számára parc-safari-delta-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.533442,
+                        13.647663
+                  ]
+            },
+            {
+                  "name": "Entrée du parc du Delta du Saloum",
+                  "text": "Az Entrée du parc du Delta du Saloum a Saloum-delta Nemzeti Parkba érkező látogatókat üdvözlő monumentális bejárati kapu.",
+                  "category": "historical",
+                  "coords": [
+                        -16.488928,
+                        13.648593
+                  ]
+            },
+            {
+                  "name": "Marché artisanal",
+                  "text": "A Marché artisanal egy élénk helyi piac, amely hagyományos, kézzel készített kézműves termékeket és árukat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.477109,
+                        13.786636
+                  ]
+            },
+            {
+                  "name": "Reserve de Fathala",
+                  "text": "A Reserve de Fathala egy védett vadvédelmi terület, amely változatos szavannai ökoszisztémáiról ismert parc-safari-delta-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        -16.460028,
+                        13.653235
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc du Delta du Saloum",
+                  "text": "A Bureau du Parc du Delta du Saloum a védett természeti rezervátumot irányító adminisztratív központként működik.",
+                  "category": "natural",
+                  "coords": [
+                        -16.494021,
+                        13.648125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Fagaru",
+                  "text": "Centre Fagaru este un punct central și o atracție locală în zona parc-safari-delta-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.485052,
+                        13.712537
+                  ]
+            },
+            {
+                  "name": "Le fromager géant",
+                  "text": "Le fromager géant este un arbore kapok masiv și impunător care servește ca reper natural în parc-safari-delta-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.502457,
+                        13.679569
+                  ]
+            },
+            {
+                  "name": "île reposoire aux oiseaux",
+                  "text": "île reposoire aux oiseaux este un sanctuar insular liniștit, dedicat odihnei stolurilor de păsări din parc-safari-delta-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.533442,
+                        13.647663
+                  ]
+            },
+            {
+                  "name": "Entrée du parc du Delta du Saloum",
+                  "text": "Entrée du parc du Delta du Saloum este poarta de intrare monumentală care întâmpină vizitatorii în parc.",
+                  "category": "historical",
+                  "coords": [
+                        -16.488928,
+                        13.648593
+                  ]
+            },
+            {
+                  "name": "Marché artisanal",
+                  "text": "Marché artisanal este o piață locală vibrantă care expune meșteșuguri și bunuri tradiționale realizate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.477109,
+                        13.786636
+                  ]
+            },
+            {
+                  "name": "Reserve de Fathala",
+                  "text": "Reserve de Fathala este o rezervație naturală protejată pentru fauna sălbatică, cunoscută pentru diversele sale ecosisteme de savană din parc-safari-delta-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -16.460028,
+                        13.653235
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc du Delta du Saloum",
+                  "text": "Bureau du Parc du Delta du Saloum funcționează ca sediu administrativ care gestionează rezervația naturală protejată.",
+                  "category": "natural",
+                  "coords": [
+                        -16.494021,
+                        13.648125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Fagaru",
+                  "text": "Centre Fagaru is a local focal point and attraction within the parc-safari-delta-life-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.485052,
+                        13.712537
+                  ]
+            },
+            {
+                  "name": "Le fromager géant",
+                  "text": "Le fromager géant is a massive, towering kapok tree that serves as a natural landmark in parc-safari-delta-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.502457,
+                        13.679569
+                  ]
+            },
+            {
+                  "name": "île reposoire aux oiseaux",
+                  "text": "L'île reposoire aux oiseaux is a tranquil island sanctuary dedicated to resting bird flocks in parc-safari-delta-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.533442,
+                        13.647663
+                  ]
+            },
+            {
+                  "name": "Entrée du parc du Delta du Saloum",
+                  "text": "The Entrée du parc du Delta du Saloum is the monumental physical gateway welcoming visitors into the park.",
+                  "category": "historical",
+                  "coords": [
+                        -16.488928,
+                        13.648593
+                  ]
+            },
+            {
+                  "name": "Marché artisanal",
+                  "text": "The Marché artisanal is a vibrant local market showcasing traditional handmade crafts and goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.477109,
+                        13.786636
+                  ]
+            },
+            {
+                  "name": "Reserve de Fathala",
+                  "text": "Reserve de Fathala is a protected wildlife nature reserve known for its diverse savanna ecosystems in parc-safari-delta-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -16.460028,
+                        13.653235
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc du Delta du Saloum",
+                  "text": "The Bureau du Parc du Delta du Saloum functions as the administrative headquarters managing the protected nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -16.494021,
+                        13.648125
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SN-FK",
     coords: [-16.5, 13.7],
@@ -723,7 +1866,124 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "musee-oceanographique-dakar-life-v2",
+    id: "musee-oceanographique-dakar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie le Manege",
+                  "text": "Diese bekannte Galerie veranstaltet regelmäßig Ausstellungen zeitgenössischer Kunst und kulturelle Events im Herzen der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -17.427602,
+                        14.669231
+                  ]
+            },
+            {
+                  "name": "Selebe Yoon",
+                  "text": "Diese Galerie fungiert als künstlerischer Knotenpunkt und fördert zeitgenössische Künstler aus dem Senegal und dem gesamten afrikanischen Kontinent.",
+                  "category": "museum",
+                  "coords": [
+                        -17.429142,
+                        14.669264
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "Dieser dynamische Galerieraum widmet sich der Präsentation avantgardistischer zeitgenössischer Kunst aus dem gesamten afrikanischen Kontinent.",
+                  "category": "museum",
+                  "coords": [
+                        -17.430379,
+                        14.667957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie le Manege",
+                  "text": "Ez a jól ismert galériatér gyakran ad otthont kortárs művészeti kiállításoknak és kulturális eseményeknek a város szívében.",
+                  "category": "museum",
+                  "coords": [
+                        -17.427602,
+                        14.669231
+                  ]
+            },
+            {
+                  "name": "Selebe Yoon",
+                  "text": "Művészeti útkereszteződésként ez a galéria a szenegáli és a szélesebb afrikai kontinens kortárs művészeit népszerűsíti.",
+                  "category": "museum",
+                  "coords": [
+                        -17.429142,
+                        14.669264
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "Ez a dinamikus galériatér az afrikai kontinens élvonalbeli kortárs művészetének bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -17.430379,
+                        14.667957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie le Manege",
+                  "text": "Acest spațiu de galerie binecunoscut găzduiește frecvent expoziții de artă contemporană și evenimente culturale în inima orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -17.427602,
+                        14.669231
+                  ]
+            },
+            {
+                  "name": "Selebe Yoon",
+                  "text": "Servind drept o răscruce artistică, această galerie promovează artiștii contemporani din Senegal și din întregul continent african.",
+                  "category": "museum",
+                  "coords": [
+                        -17.429142,
+                        14.669264
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "Acest spațiu de galerie dinamic este dedicat prezentării artei contemporane de avangardă de pe întreg continentul african.",
+                  "category": "museum",
+                  "coords": [
+                        -17.430379,
+                        14.667957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie le Manege",
+                  "text": "This well-known gallery space frequently hosts contemporary art exhibitions and cultural events in the heart of the city.",
+                  "category": "museum",
+                  "coords": [
+                        -17.427602,
+                        14.669231
+                  ]
+            },
+            {
+                  "name": "Selebe Yoon",
+                  "text": "Serving as an artistic crossroads, this gallery promotes contemporary artists from Senegal and the wider African continent.",
+                  "category": "museum",
+                  "coords": [
+                        -17.429142,
+                        14.669264
+                  ]
+            },
+            {
+                  "name": "Galerie Cécile Fakhoury",
+                  "text": "This dynamic gallery space is dedicated to showcasing cutting-edge contemporary art from across the African continent.",
+                  "category": "museum",
+                  "coords": [
+                        -17.430379,
+                        14.667957
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SN-DK",
     coords: [-17.43, 14.67],
@@ -831,7 +2091,52 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "culture-canne-sucre-richard-toll-life-v2",
+    id: "culture-canne-sucre-richard-toll-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosquée Niary",
+                  "text": "Die Mosquée Niary ist eine bedeutende Kultstätte in der Region Richard Toll.",
+                  "category": "historical",
+                  "coords": [
+                        -15.719065,
+                        16.374825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosquée Niary",
+                  "text": "A Mosquée Niary egy jelentős istentiszteleti hely a Richard Toll nevű területen.",
+                  "category": "historical",
+                  "coords": [
+                        -15.719065,
+                        16.374825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosquée Niary",
+                  "text": "Moscheea Niary este un loc de cult semnificativ situat în zona Richard Toll.",
+                  "category": "historical",
+                  "coords": [
+                        -15.719065,
+                        16.374825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosquée Niary",
+                  "text": "The Mosquée Niary is a significant place of worship located in the Richard Toll area.",
+                  "category": "historical",
+                  "coords": [
+                        -15.719065,
+                        16.374825
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SN-SL",
     coords: [-15.7, 16.4],
@@ -903,7 +2208,52 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "ferme-aquacole-stlouis-life-v2",
+    id: "ferme-aquacole-stlouis-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Die gestuften Freiluft-Sitzplätze dieses Theaters bieten einen geräumigen Rahmen für lokale kulturelle Vorführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.42342,
+                        16.062742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "A színház lépcsőzetes szabadtéri ülőhelyei tágas helyszínt biztosítanak a helyi kulturális előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.42342,
+                        16.062742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Scaunele terasate în aer liber ale acestui teatru oferă un cadru spațios pentru spectacole culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.42342,
+                        16.062742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "The tiered open-air seating of this theatre provides a spacious setting for local cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.42342,
+                        16.062742
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SN-SL",
     coords: [-16.45, 16.05],
@@ -939,7 +2289,52 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "parc-des-singes-life-v2",
+    id: "parc-des-singes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forêt classée de Thiès",
+                  "text": "Dieses klassifizierte Waldgebiet in der Nähe von Thiès schützt die lokale Flora und Fauna Senegals.",
+                  "category": "natural",
+                  "coords": [
+                        -16.999437,
+                        14.713323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forêt classée de Thiès",
+                  "text": "Ez a Thiès közelében található védett erdőterület Szenegál helyi növény- és állatvilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -16.999437,
+                        14.713323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forêt classée de Thiès",
+                  "text": "Această rezervație forestieră din apropiere de Thiès protejează flora și fauna locală din Senegal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.999437,
+                        14.713323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forêt classée de Thiès",
+                  "text": "This classified forest reserve near Thiès protects the local flora and fauna of Senegal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.999437,
+                        14.713323
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SN-TH",
     coords: [-16.95, 14.75],
@@ -1038,7 +2433,160 @@ export const poiExtraSenegalLifeV2: POI[] = [
     },
   },
   {
-    id: "centre-de-rehabilitation-life-v2",
+    id: "centre-de-rehabilitation-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Village des Arts de Dakar",
+                  "text": "Ein am 23. April 1998 eröffnetes Kunstzentrum, das als Knotenpunkt für senegalesische Künstler dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.457314,
+                        14.746359
+                  ]
+            },
+            {
+                  "name": "Chez les frères",
+                  "text": "Ein Küstenresort am Strand der Küstenlinie von Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.460338,
+                        14.762617
+                  ]
+            },
+            {
+                  "name": "Plage BCEAO",
+                  "text": "Plage BCEAO ist ein sandiger Küstenstrand in der Nähe von centre-de-rehabilitation-life-v2, an dem Besucher die Meeresbrise genießen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.462003,
+                        14.762332
+                  ]
+            },
+            {
+                  "name": "CICES",
+                  "text": "CICES ist ein weitläufiges Kultur- und Ausstellungszentrum für Kunst im Bereich centre-de-rehabilitation-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.464042,
+                        14.745454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Village des Arts de Dakar",
+                  "text": "1998. április 23-án megnyílt művészeti központ, amely a szenegáli művészek csomópontjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.457314,
+                        14.746359
+                  ]
+            },
+            {
+                  "name": "Chez les frères",
+                  "text": "Tengerparti üdülőhely Dakar partvidéke mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.460338,
+                        14.762617
+                  ]
+            },
+            {
+                  "name": "Plage BCEAO",
+                  "text": "A Plage BCEAO egy homokos tengerpart a centre-de-rehabilitation-life-v2 közelében, ahol a látogatók élvezhetik az óceáni szellőt.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.462003,
+                        14.762332
+                  ]
+            },
+            {
+                  "name": "CICES",
+                  "text": "A CICES egy kiterjedt kulturális és kiállítási művészeti központ a centre-de-rehabilitation-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.464042,
+                        14.745454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Village des Arts de Dakar",
+                  "text": "Un centru de arte inaugurat la 23 aprilie 1998, ce servește drept hub pentru artiștii senegalezi.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.457314,
+                        14.746359
+                  ]
+            },
+            {
+                  "name": "Chez les frères",
+                  "text": "O stațiune de coastă care operează de-a lungul litoralului din Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.460338,
+                        14.762617
+                  ]
+            },
+            {
+                  "name": "Plage BCEAO",
+                  "text": "Plage BCEAO este o plajă cu nisip pe coastă lângă centre-de-rehabilitation-life-v2, unde vizitatorii se pot bucura de briza oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.462003,
+                        14.762332
+                  ]
+            },
+            {
+                  "name": "CICES",
+                  "text": "CICES este un centru de artă cultural și expozițional extins, situat în zona centre-de-rehabilitation-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.464042,
+                        14.745454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Village des Arts de Dakar",
+                  "text": "An arts center opened on April 23, 1998, serving as a hub for Senegalese artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.457314,
+                        14.746359
+                  ]
+            },
+            {
+                  "name": "Chez les frères",
+                  "text": "A coastal beach resort operating along the Dakar shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.460338,
+                        14.762617
+                  ]
+            },
+            {
+                  "name": "Plage BCEAO",
+                  "text": "Plage BCEAO is a sandy coastal beach near centre-de-rehabilitation-life-v2 where visitors can enjoy the ocean breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.462003,
+                        14.762332
+                  ]
+            },
+            {
+                  "name": "CICES",
+                  "text": "CICES is an expansive cultural and exhibition arts centre situated in the centre-de-rehabilitation-life-v2 area.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.464042,
+                        14.745454
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SN-DK",
     coords: [-17.45, 14.75],

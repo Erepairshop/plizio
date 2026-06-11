@@ -2527,7 +2527,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Coletakerk",
-                  "text": "Eine katholische Kirche, die der heiligen Coleta gewidmet ist.",
+                  "text": "1888–1890 von Auguste Van Assche im neugotischen Stil erbaute Kirche in Gent.",
                   "category": "religious",
                   "coords": [
                         3.726695,
@@ -2536,7 +2536,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Annakerk",
-                  "text": "Eine monumentale Kirche im eklektischen Stil in Gent.",
+                  "text": "Sint-Annakerk in Gent, 1853 erbaut.",
                   "category": "religious",
                   "coords": [
                         3.735011,
@@ -2608,7 +2608,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Theresia van het Kind Jezuskerk",
-                  "text": "Eine katholische Kirche, die der heiligen Theresia gewidmet ist.",
+                  "text": "1928 von Edgard Van Hoecke-Delmarle im Art-Déco-Stil erbaute Kirche in Gent.",
                   "category": "religious",
                   "coords": [
                         3.692147,
@@ -2653,7 +2653,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Hoosmolen",
-                  "text": "Eine historische Windmühle in der Nähe der Stadt Gent.",
+                  "text": "Hoosmolen-Windmühle in Gent, 1701 erbaut.",
                   "category": "landmark",
                   "coords": [
                         3.686466,
@@ -2662,7 +2662,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Dulle Griet",
-                  "text": "Eine gewaltige mittelalterliche Kanone aus geschmiedetem Eisen.",
+                  "text": "Dulle Griet – eine große Kanone in Gent, aus der Mitte des 15. Jahrhunderts.",
                   "category": "landmark",
                   "coords": [
                         3.724116,
@@ -3168,7 +3168,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Coletakerk",
-                  "text": "Szent Koletának szentelt katolikus templom.",
+                  "text": "1888–1890-ben épült neogótikus templom Gentben, Auguste Van Assche tervezte.",
                   "category": "religious",
                   "coords": [
                         3.726695,
@@ -3177,7 +3177,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Annakerk",
-                  "text": "Monumentális eklektikus stílusú templom Gentben.",
+                  "text": "Szent Anna-templom Gentben, 1853-ban épült.",
                   "category": "religious",
                   "coords": [
                         3.735011,
@@ -3249,7 +3249,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Theresia van het Kind Jezuskerk",
-                  "text": "Szent Teréznek szentelt katolikus templom.",
+                  "text": "1928-ban épült art déco stílusú templom Gentben, Edgard Van Hoecke-Delmarle tervezte.",
                   "category": "religious",
                   "coords": [
                         3.692147,
@@ -3294,7 +3294,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Hoosmolen",
-                  "text": "Történelmi szélmalom Gent városa közelében.",
+                  "text": "Hoosmolen szélmalom Gentben, 1701-ben épült.",
                   "category": "landmark",
                   "coords": [
                         3.686466,
@@ -3303,7 +3303,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Dulle Griet",
-                  "text": "Hatalmas középkori kovácsoltvas ágyú.",
+                  "text": "Dulle Griet – egy nagy ágyú Gentben, a 15. század közepéről.",
                   "category": "landmark",
                   "coords": [
                         3.724116,
@@ -3809,7 +3809,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Coletakerk",
-                  "text": "O biserică catolică dedicată Sfintei Coleta.",
+                  "text": "Biserică în stil neogotic construită între 1888-1890 de Auguste Van Assche în Gent.",
                   "category": "religious",
                   "coords": [
                         3.726695,
@@ -3818,7 +3818,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Annakerk",
-                  "text": "O biserică monumentală în stil eclectic în Gent.",
+                  "text": "Biserica Sfânta Ana din Gent, construită în 1853.",
                   "category": "religious",
                   "coords": [
                         3.735011,
@@ -3890,7 +3890,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Theresia van het Kind Jezuskerk",
-                  "text": "O biserică catolică dedicată Sfintei Tereza.",
+                  "text": "Biserică în stil Art Deco construită în 1928 de Edgard Van Hoecke-Delmarle în Gent.",
                   "category": "religious",
                   "coords": [
                         3.692147,
@@ -3935,7 +3935,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Hoosmolen",
-                  "text": "O moară de vânt istorică în apropierea orașului Gent.",
+                  "text": "Moara de vânt Hoosmolen din Gent, construită în 1701.",
                   "category": "landmark",
                   "coords": [
                         3.686466,
@@ -3944,7 +3944,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Dulle Griet",
-                  "text": "Un tun medieval uriaș din fier forjat.",
+                  "text": "Dulle Griet – un tun mare în Gent, din mijlocul secolului al XV-lea.",
                   "category": "landmark",
                   "coords": [
                         3.724116,
@@ -4450,7 +4450,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Coletakerk",
-                  "text": "A Catholic church dedicated to Saint Colette.",
+                  "text": "Built 1888–1890 in Neo-Gothic style by Auguste Van Assche in Ghent.",
                   "category": "religious",
                   "coords": [
                         3.726695,
@@ -4459,7 +4459,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Annakerk",
-                  "text": "A monumental church in eclectic style in Ghent.",
+                  "text": "Sint-Annakerk in Ghent, built in 1853.",
                   "category": "religious",
                   "coords": [
                         3.735011,
@@ -4531,7 +4531,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Theresia van het Kind Jezuskerk",
-                  "text": "A Catholic church dedicated to Saint Thérèse.",
+                  "text": "Built 1928 in Art Deco style by Edgard Van Hoecke-Delmarle in Ghent.",
                   "category": "religious",
                   "coords": [
                         3.692147,
@@ -4576,7 +4576,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Hoosmolen",
-                  "text": "A historic windmill located near the city of Ghent.",
+                  "text": "Hoosmolen windmill in Ghent, built in 1701.",
                   "category": "landmark",
                   "coords": [
                         3.686466,
@@ -4585,7 +4585,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Dulle Griet",
-                  "text": "A massive medieval wrought-iron cannon.",
+                  "text": "Dulle Griet cannon in Ghent, a large bombard from the mid-15th century.",
                   "category": "landmark",
                   "coords": [
                         3.724116,
@@ -5200,7 +5200,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Maria Assumptakerk",
-                  "text": "Kirche in Brügge.",
+                  "text": "Maria Assumptakerk in Brügge, 1965 erbaut.",
                   "category": "religious",
                   "coords": [
                         3.25166,
@@ -5209,7 +5209,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Zandwegemolen",
-                  "text": "Historische Windmühle in Brügge.",
+                  "text": "Zandwegemolen-Windmühle in Brügge, 1860 erbaut.",
                   "category": "landmark",
                   "coords": [
                         3.193443,
@@ -5272,7 +5272,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Janshuismolen",
-                  "text": "Historische Windmühle auf den Wallanlagen von Brügge.",
+                  "text": "Sint-Janshuismolen-Windmühle in Brügge, 1770 erbaut.",
                   "category": "landmark",
                   "coords": [
                         3.238111,
@@ -5299,7 +5299,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Koeleweimolen",
-                  "text": "Historische Windmühle am Rande der Stadt.",
+                  "text": "Koeleweimolen-Windmühle in Brügge, ursprünglich 1765, 1996 rekonstruiert.",
                   "category": "landmark",
                   "coords": [
                         3.234267,
@@ -5317,7 +5317,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Bonne Chiere",
-                  "text": "Eine der vier verbliebenen Windmühlen in Brügge.",
+                  "text": "Bonne Chiere-Windmühle in Brügge, 1844 erbaut.",
                   "category": "landmark",
                   "coords": [
                         3.23908,
@@ -5326,7 +5326,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Poertoren",
-                  "text": "Ehemaliger Pulverturm in der Nähe des Minnewaters.",
+                  "text": "Poertoren (Pulverturm) in Brügge, 1401 erbaut.",
                   "category": "tower",
                   "coords": [
                         3.223592,
@@ -5344,7 +5344,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Torenbrug",
-                  "text": "Kleine Brücke im historischen Viertel von Brügge.",
+                  "text": "Torenbrug (Turmbrücke) in Brügge, 1390 erbaut.",
                   "category": "landmark",
                   "coords": [
                         3.22597,
@@ -5652,7 +5652,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Maria Assumptakerk",
-                  "text": "Templom Brüggében.",
+                  "text": "Mária Mennybevétele templom Brugge-ben, 1965-ben épült.",
                   "category": "religious",
                   "coords": [
                         3.25166,
@@ -5661,7 +5661,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Zandwegemolen",
-                  "text": "Történelmi szélmalom Brüggében.",
+                  "text": "Zandwegemolen szélmalom Brugge-ben, 1860-ban épült.",
                   "category": "landmark",
                   "coords": [
                         3.193443,
@@ -5724,7 +5724,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Janshuismolen",
-                  "text": "Történelmi szélmalom Brügge városfalán.",
+                  "text": "Sint-Janshuismolen szélmalom Brugge-ben, 1770-ben épült.",
                   "category": "landmark",
                   "coords": [
                         3.238111,
@@ -5751,7 +5751,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Koeleweimolen",
-                  "text": "Történelmi szélmalom a város szélén.",
+                  "text": "Koeleweimolen szélmalom Brugge-ben, eredetileg 1765-ből, 1996-ban rekonstruálva.",
                   "category": "landmark",
                   "coords": [
                         3.234267,
@@ -5769,7 +5769,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Bonne Chiere",
-                  "text": "A négy fennmaradt szélmalom egyike Brüggében.",
+                  "text": "Bonne Chiere szélmalom Brugge-ben, 1844-ben épült.",
                   "category": "landmark",
                   "coords": [
                         3.23908,
@@ -5778,7 +5778,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Poertoren",
-                  "text": "Egykori lőportorony a Minnewater közelében.",
+                  "text": "Poertoren (Lőportorony) Brugge-ben, 1401-ben épült.",
                   "category": "tower",
                   "coords": [
                         3.223592,
@@ -5796,7 +5796,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Torenbrug",
-                  "text": "Kis híd Brügge történelmi negyedében.",
+                  "text": "Torenbrug (Toronyhíd) Brugge-ben, 1390-ben épült.",
                   "category": "landmark",
                   "coords": [
                         3.22597,
@@ -6104,7 +6104,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Maria Assumptakerk",
-                  "text": "Biserică în Bruges.",
+                  "text": "Biserica Adormirea Maicii Domnului din Bruges, construită în 1965.",
                   "category": "religious",
                   "coords": [
                         3.25166,
@@ -6113,7 +6113,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Zandwegemolen",
-                  "text": "Moară de vânt istorică în Bruges.",
+                  "text": "Moara de vânt Zandwegemolen din Bruges, construită în 1860.",
                   "category": "landmark",
                   "coords": [
                         3.193443,
@@ -6176,7 +6176,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Janshuismolen",
-                  "text": "Moară de vânt istorică pe zidurile orașului Bruges.",
+                  "text": "Moara de vânt Sint-Janshuismolen din Bruges, construită în 1770.",
                   "category": "landmark",
                   "coords": [
                         3.238111,
@@ -6203,7 +6203,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Koeleweimolen",
-                  "text": "Moară de vânt istorică la marginea orașului.",
+                  "text": "Moara de vânt Koeleweimolen din Bruges, originală din 1765, reconstruită în 1996.",
                   "category": "landmark",
                   "coords": [
                         3.234267,
@@ -6221,7 +6221,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Bonne Chiere",
-                  "text": "Una dintre cele patru mori de vânt rămase în Bruges.",
+                  "text": "Moara de vânt Bonne Chiere din Bruges, construită în 1844.",
                   "category": "landmark",
                   "coords": [
                         3.23908,
@@ -6230,7 +6230,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Poertoren",
-                  "text": "Fost turn de pulbere în apropiere de Minnewater.",
+                  "text": "Poertoren (Turnul Pulberii) din Bruges, construit în 1401.",
                   "category": "tower",
                   "coords": [
                         3.223592,
@@ -6248,7 +6248,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Torenbrug",
-                  "text": "Pod mic în cartierul istoric din Bruges.",
+                  "text": "Torenbrug (Podul Turn) din Bruges, construit în 1390.",
                   "category": "landmark",
                   "coords": [
                         3.22597,
@@ -6556,7 +6556,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Maria Assumptakerk",
-                  "text": "A church in Bruges.",
+                  "text": "Maria Assumptakerk in Bruges, built in 1965.",
                   "category": "religious",
                   "coords": [
                         3.25166,
@@ -6565,7 +6565,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Zandwegemolen",
-                  "text": "A historic windmill in Bruges.",
+                  "text": "Zandwegemolen windmill in Bruges, built in 1860.",
                   "category": "landmark",
                   "coords": [
                         3.193443,
@@ -6628,7 +6628,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Janshuismolen",
-                  "text": "A historic windmill on the city ramparts of Bruges.",
+                  "text": "Sint Janshuismolen windmill in Bruges, built in 1770.",
                   "category": "landmark",
                   "coords": [
                         3.238111,
@@ -6655,7 +6655,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Koeleweimolen",
-                  "text": "A historic windmill on the edge of the city.",
+                  "text": "Koeleweimolen windmill in Bruges, originally built 1765, reconstructed 1996.",
                   "category": "landmark",
                   "coords": [
                         3.234267,
@@ -6673,7 +6673,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Bonne Chiere",
-                  "text": "One of the four remaining windmills in Bruges.",
+                  "text": "Bonne Chiere windmill in Bruges, built in 1844.",
                   "category": "landmark",
                   "coords": [
                         3.23908,
@@ -6682,7 +6682,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Poertoren",
-                  "text": "A former gunpowder tower near the Minnewater.",
+                  "text": "Poertoren (powder tower) in Bruges, built in 1401.",
                   "category": "tower",
                   "coords": [
                         3.223592,
@@ -6700,7 +6700,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Torenbrug",
-                  "text": "A small bridge in the historic district of Bruges.",
+                  "text": "Torenbrug (tower bridge) in Bruges, built in 1390.",
                   "category": "landmark",
                   "coords": [
                         3.22597,
@@ -6865,7 +6865,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Beaumont",
-                  "text": "Ein historisches Schloss in Lüttich.",
+                  "text": "Schloss Beaumont in Lüttich, 1772 erbaut.",
                   "category": "castle",
                   "coords": [
                         5.567687,
@@ -6919,7 +6919,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Opéra Royal de Wallonie",
-                  "text": "Ein bedeutendes Opernhaus im Herzen von Lüttich.",
+                  "text": "1820 erbautes neoklassizistisches Opernhaus in Lüttich, entworfen von Auguste Duckers und Julien-Étienne Rémont.",
                   "category": "cultural",
                   "coords": [
                         5.570295,
@@ -6937,7 +6937,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Vincent",
-                  "text": "Eine Kirche in Lüttich, die für ihre moderne Architektur bekannt ist.",
+                  "text": "Saint-Vincent-Kirche in Lüttich, 1930 erbaut, Architekt Robert Toussaint.",
                   "category": "religious",
                   "coords": [
                         5.582461,
@@ -6955,7 +6955,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pholien",
-                  "text": "Eine historische Kirche im Stadtteil Outremeuse in Lüttich.",
+                  "text": "Saint-Pholien-Kirche in Lüttich, 1914 erbaut, Architekt Edmond Jamar.",
                   "category": "religious",
                   "coords": [
                         5.581232,
@@ -7027,7 +7027,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Gilles",
-                  "text": "Eine historische Kirche auf den Höhen von Lüttich.",
+                  "text": "Saint-Gilles-Kirche in Lüttich, 1124 erbaut, eine der ältesten Kirchen.",
                   "category": "religious",
                   "coords": [
                         5.547433,
@@ -7108,7 +7108,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'abbaye de la Paix Notre-Dame",
-                  "text": "Die Kirche der Abtei Paix Notre-Dame in Lüttich.",
+                  "text": "Kirche der Abtei Paix Notre-Dame in Lüttich, 1627 erbaut.",
                   "category": "religious",
                   "coords": [
                         5.567418,
@@ -7135,7 +7135,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Julienne",
-                  "text": "Eine Kirche in Lüttich, die der heiligen Juliana gewidmet ist.",
+                  "text": "Sainte-Julienne-Kirche in Lüttich, 1969 erbaut, Architekt Jean Hacken.",
                   "category": "religious",
                   "coords": [
                         5.556598,
@@ -7153,7 +7153,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saints-Pierre et Paul",
-                  "text": "Eine Kirche in Lüttich, die den Heiligen Peter und Paul gewidmet ist.",
+                  "text": "Kirche St. Peter und Paul in Lüttich, 1973 erbaut, Architekt Groupe EGAU.",
                   "category": "religious",
                   "coords": [
                         5.603753,
@@ -7434,7 +7434,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Beaumont",
-                  "text": "Történelmi kastély Liège városában.",
+                  "text": "Beaumont-kastély Liège-ben, 1772-ben épült.",
                   "category": "castle",
                   "coords": [
                         5.567687,
@@ -7488,7 +7488,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Opéra Royal de Wallonie",
-                  "text": "Jelentős operaház Liège szívében.",
+                  "text": "1820-ban épült neoklasszicista operaház Liège-ben, Auguste Duckers és Julien-Étienne Rémont tervezte.",
                   "category": "cultural",
                   "coords": [
                         5.570295,
@@ -7506,7 +7506,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Vincent",
-                  "text": "Modern építészetéről ismert templom Liège-ben.",
+                  "text": "Szent Vincent-templom Liège-ben, 1930-ban épült, Robert Toussaint tervezte.",
                   "category": "religious",
                   "coords": [
                         5.582461,
@@ -7524,7 +7524,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pholien",
-                  "text": "Történelmi templom Liège Outremeuse negyedében.",
+                  "text": "Szent Fólián-templom Liège-ben, 1914-ben épült, Edmond Jamar tervezte.",
                   "category": "religious",
                   "coords": [
                         5.581232,
@@ -7596,7 +7596,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Gilles",
-                  "text": "Történelmi templom Liège magaslatain.",
+                  "text": "Szent Giles-templom Liège-ben, 1124-ben épült, az egyik legrégebbi templom.",
                   "category": "religious",
                   "coords": [
                         5.547433,
@@ -7677,7 +7677,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'abbaye de la Paix Notre-Dame",
-                  "text": "A liège-i Paix Notre-Dame apátság temploma.",
+                  "text": "A Paix Notre-Dame apátság temploma Liège-ben, 1627-ben épült.",
                   "category": "religious",
                   "coords": [
                         5.567418,
@@ -7704,7 +7704,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Julienne",
-                  "text": "Szent Juliannának szentelt templom Liège-ben.",
+                  "text": "Szent Julianna-templom Liège-ben, 1969-ben épült, Jean Hacken tervezte.",
                   "category": "religious",
                   "coords": [
                         5.556598,
@@ -7722,7 +7722,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saints-Pierre et Paul",
-                  "text": "Szent Péternek és Pálnak szentelt templom Liège-ben.",
+                  "text": "Szent Péter és Pál templom Liège-ben, 1973-ban épült, a Groupe EGAU tervezte.",
                   "category": "religious",
                   "coords": [
                         5.603753,
@@ -8003,7 +8003,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Beaumont",
-                  "text": "Un castel istoric situat în Liège.",
+                  "text": "Castelul Beaumont din Liège, construit în 1772.",
                   "category": "castle",
                   "coords": [
                         5.567687,
@@ -8057,7 +8057,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Opéra Royal de Wallonie",
-                  "text": "O operă importantă situată în inima orașului Liège.",
+                  "text": "Operă neoclasică construită în 1820 la Liège, proiectată de Auguste Duckers și Julien-Étienne Rémont.",
                   "category": "cultural",
                   "coords": [
                         5.570295,
@@ -8075,7 +8075,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Vincent",
-                  "text": "O biserică din Liège cunoscută pentru arhitectura sa modernă.",
+                  "text": "Biserica Saint-Vincent din Liège, construită în 1930, arhitect Robert Toussaint.",
                   "category": "religious",
                   "coords": [
                         5.582461,
@@ -8093,7 +8093,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pholien",
-                  "text": "O biserică istorică situată în cartierul Outremeuse din Liège.",
+                  "text": "Biserica Saint-Pholien din Liège, construită în 1914, arhitect Edmond Jamar.",
                   "category": "religious",
                   "coords": [
                         5.581232,
@@ -8165,7 +8165,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Gilles",
-                  "text": "O biserică istorică situată pe înălțimile orașului Liège.",
+                  "text": "Biserica Saint-Gilles din Liège, construită în 1124, una dintre cele mai vechi biserici.",
                   "category": "religious",
                   "coords": [
                         5.547433,
@@ -8246,7 +8246,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'abbaye de la Paix Notre-Dame",
-                  "text": "Biserica abației Paix Notre-Dame din Liège.",
+                  "text": "Biserica abației Paix Notre-Dame din Liège, construită în 1627.",
                   "category": "religious",
                   "coords": [
                         5.567418,
@@ -8273,7 +8273,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Julienne",
-                  "text": "O biserică din Liège dedicată Sfintei Iuliana.",
+                  "text": "Biserica Sainte-Julienne din Liège, construită în 1969, arhitect Jean Hacken.",
                   "category": "religious",
                   "coords": [
                         5.556598,
@@ -8291,7 +8291,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saints-Pierre et Paul",
-                  "text": "O biserică din Liège dedicată Sfinților Petru și Paul.",
+                  "text": "Biserica Sfinții Petru și Pavel din Liège, construită în 1973, arhitect Groupe EGAU.",
                   "category": "religious",
                   "coords": [
                         5.603753,
@@ -8572,7 +8572,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Beaumont",
-                  "text": "A historic castle located in Liège.",
+                  "text": "Château de Beaumont in Liège, built in 1772.",
                   "category": "castle",
                   "coords": [
                         5.567687,
@@ -8626,7 +8626,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Opéra Royal de Wallonie",
-                  "text": "A major opera house located in the heart of Liège.",
+                  "text": "Neoclassical opera house built 1820 in Liège, designed by Auguste Duckers and Julien-Étienne Rémont.",
                   "category": "cultural",
                   "coords": [
                         5.570295,
@@ -8644,7 +8644,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Vincent",
-                  "text": "A church in Liège known for its modern architecture.",
+                  "text": "Église Saint-Vincent in Liège, built in 1930, designed by Robert Toussaint.",
                   "category": "religious",
                   "coords": [
                         5.582461,
@@ -8662,7 +8662,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pholien",
-                  "text": "A historic church in the Outremeuse district of Liège.",
+                  "text": "Église Saint-Pholien in Liège, built in 1914, designed by Edmond Jamar.",
                   "category": "religious",
                   "coords": [
                         5.581232,
@@ -8734,7 +8734,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Gilles",
-                  "text": "A historic church situated on the heights of Liège.",
+                  "text": "Église Saint-Gilles in Liège, built in 1124, one of the oldest churches.",
                   "category": "religious",
                   "coords": [
                         5.547433,
@@ -8815,7 +8815,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'abbaye de la Paix Notre-Dame",
-                  "text": "The church of the Peace Notre-Dame abbey in Liège.",
+                  "text": "Église de l'abbaye de la Paix Notre-Dame in Liège, abbey church built in 1627.",
                   "category": "religious",
                   "coords": [
                         5.567418,
@@ -8842,7 +8842,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Julienne",
-                  "text": "A church in Liège dedicated to Saint Juliana.",
+                  "text": "Église Sainte-Julienne in Liège, built in 1969, designed by Jean Hacken.",
                   "category": "religious",
                   "coords": [
                         5.556598,
@@ -8860,7 +8860,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saints-Pierre et Paul",
-                  "text": "A church in Liège dedicated to Saints Peter and Paul.",
+                  "text": "Église Saints-Pierre et Paul in Liège, built in 1973, designed by Groupe EGAU.",
                   "category": "religious",
                   "coords": [
                         5.603753,
@@ -9239,7 +9239,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Royal de Namur",
-                  "text": "Das Théâtre Royal de Namur ist ein historisches Theater in der Stadt Namur.",
+                  "text": "Königliches Theater in Namur, 1863 erbaut.",
                   "category": "cultural",
                   "coords": [
                         4.868159,
@@ -9266,7 +9266,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Verdure",
-                  "text": "Théatre de Verdure ist ein Freilufttheater an der Zitadelle von Namur.",
+                  "text": "Dieses 1910 erbaute Freilichttheater in Namur steht unter Denkmalschutz.",
                   "category": "cultural",
                   "coords": [
                         4.856213,
@@ -9717,7 +9717,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Royal de Namur",
-                  "text": "A Théâtre Royal de Namur egy történelmi színház Namur városában.",
+                  "text": "Királyi Színház Namurban, 1863-ban épült.",
                   "category": "cultural",
                   "coords": [
                         4.868159,
@@ -9744,7 +9744,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Verdure",
-                  "text": "A Théatre de Verdure egy szabadtéri színház Namur fellegvárában.",
+                  "text": "Az 1910-ben épült szabadtéri színház Namurban műemlékvédelem alatt áll.",
                   "category": "cultural",
                   "coords": [
                         4.856213,
@@ -10195,7 +10195,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Royal de Namur",
-                  "text": "Théâtre Royal de Namur este un teatru istoric situat în orașul Namur.",
+                  "text": "Teatrul Regal din Namur, construit în 1863.",
                   "category": "cultural",
                   "coords": [
                         4.868159,
@@ -10222,7 +10222,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Verdure",
-                  "text": "Théatre de Verdure este un teatru în aer liber situat la Cetatea Namur.",
+                  "text": "Acest teatru în aer liber din Namur, construit în 1910, este monument istoric.",
                   "category": "cultural",
                   "coords": [
                         4.856213,
@@ -10673,7 +10673,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Royal de Namur",
-                  "text": "The Théâtre Royal de Namur is a historic theatre located in the city of Namur.",
+                  "text": "Théâtre Royal de Namur in Namur, built in 1863.",
                   "category": "cultural",
                   "coords": [
                         4.868159,
@@ -10700,7 +10700,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Verdure",
-                  "text": "Théatre de Verdure is an open-air theatre situated at the Citadel of Namur.",
+                  "text": "Built in 1910, this open-air theatre in Namur is a listed heritage site.",
                   "category": "cultural",
                   "coords": [
                         4.856213,
@@ -11129,7 +11129,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Kwintenskerk",
-                  "text": "Eine spätgotische Kirche im Zentrum von Löwen.",
+                  "text": "Die um 1440 erbaute Sint-Kwintenskerk in Löwen ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         4.698572,
@@ -11770,7 +11770,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Kwintenskerk",
-                  "text": "Késő gótikus templom Leuven központjában.",
+                  "text": "A körülbelül 1440-ben épült Sint-Kwintenskerk Leuvenben műemlék.",
                   "category": "religious",
                   "coords": [
                         4.698572,
@@ -12411,7 +12411,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Kwintenskerk",
-                  "text": "O biserică în stil gotic târziu în centrul orașului Leuven.",
+                  "text": "Biserica Sint-Kwintenskerk din Leuven, construită în jurul anului 1440, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         4.698572,
@@ -13052,7 +13052,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Kwintenskerk",
-                  "text": "A late Gothic church located in the center of Leuven.",
+                  "text": "This Gothic church in Leuven was constructed around 1440 and is a protected monument.",
                   "category": "religious",
                   "coords": [
                         4.698572,
@@ -18797,7 +18797,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Janskerk",
-                  "text": "Eine neugotische Kirche im Viertel Sint-Jan.",
+                  "text": "Die am 29. Oktober 1911 geweihte Sint-Janskerk in Kortrijk steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         3.281175,
@@ -19267,7 +19267,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Janskerk",
-                  "text": "Neogótikus templom a Sint-Jan negyedben.",
+                  "text": "Az 1911. október 29-én felszentelt Sint-Janskerk Kortrijkben műemlék.",
                   "category": "religious",
                   "coords": [
                         3.281175,
@@ -19737,7 +19737,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Janskerk",
-                  "text": "O biserică neogotică situată în cartierul Sint-Jan.",
+                  "text": "Biserica Sint-Janskerk din Kortrijk, sfințită la 29 octombrie 1911, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         3.281175,
@@ -20207,7 +20207,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Janskerk",
-                  "text": "A Neo-Gothic church in the Sint-Jan neighborhood.",
+                  "text": "Consecrated on 29 October 1911, this church in Kortrijk is a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         3.281175,
@@ -23297,7 +23297,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Eine neugotische Kirche in Ostende.",
+                  "text": "Die 1897 von Auguste Verraert entworfene Sint-Jozefkerk in Ostende ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         2.913558,
@@ -23306,7 +23306,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Ein markantes Kirchengebäude im Stil der Neugotik in Ostende.",
+                  "text": "Die 1928 erbaute Heilig-Hart-Kirche in Ostende ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         2.906049,
@@ -23668,7 +23668,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Neogótikus templom Oostende városában.",
+                  "text": "Az Auguste Verraert által tervezett, 1897-ben épült Sint-Jozefkerk Oostendében műemlék.",
                   "category": "religious",
                   "coords": [
                         2.913558,
@@ -23677,7 +23677,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Jellegzetes neogótikus stílusú templomépület Oostende városában.",
+                  "text": "Az 1928-ban épült Heilig Hartkerk Oostendében műemlék.",
                   "category": "religious",
                   "coords": [
                         2.906049,
@@ -24039,7 +24039,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "O biserică neogotică în orașul Oostende.",
+                  "text": "Biserica Sint-Jozefkerk din Ostend, proiectată de Auguste Verraert și construită în 1897, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         2.913558,
@@ -24048,7 +24048,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "O clădire bisericească distinctivă în stil neogotic în Oostende.",
+                  "text": "Biserica Heilig Hartkerk din Ostend, construită în 1928, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         2.906049,
@@ -24410,7 +24410,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "A neo-Gothic church located in Ostend.",
+                  "text": "Designed by Auguste Verraert, this church in Ostend was built in 1897.",
                   "category": "religious",
                   "coords": [
                         2.913558,
@@ -24419,7 +24419,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "A distinctive neo-Gothic church building in Ostend.",
+                  "text": "Built in 1928, this Sacred Heart church in Ostend is a listed monument.",
                   "category": "religious",
                   "coords": [
                         2.906049,
@@ -33080,7 +33080,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Gotische Kirche am Grote Markt in Turnhout.",
+                  "text": "Die Sint-Pieterskerk in Turnhout, deren Ursprünge ins 12. Jahrhundert zurückreichen, steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         4.948915,
@@ -33089,7 +33089,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Neugotische Kirche im Stadtzentrum von Turnhout.",
+                  "text": "Die zwischen 1903 und 1907 erbaute Heilig-Hart-Kirche in Turnhout ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         4.942291,
@@ -33550,7 +33550,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Gótikus templom Turnhout főterén, a Grote Markton.",
+                  "text": "A turnhouti Sint-Pieterskerk, amelynek gyökerei a 12. századig nyúlnak vissza, műemlék.",
                   "category": "religious",
                   "coords": [
                         4.948915,
@@ -33559,7 +33559,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Neogótikus templom Turnhout városközpontjában.",
+                  "text": "Az 1903 és 1907 között épült Heilig Hartkerk Turnhoutban műemlék.",
                   "category": "religious",
                   "coords": [
                         4.942291,
@@ -34020,7 +34020,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Biserică gotică situată în piața principală Grote Markt din Turnhout.",
+                  "text": "Biserica Sint-Pieterskerk din Turnhout, cu origini în secolul al XII-lea, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         4.948915,
@@ -34029,7 +34029,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Biserică neogotică în centrul orașului Turnhout.",
+                  "text": "Biserica Heilig Hartkerk din Turnhout, construită între 1903 și 1907, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         4.942291,
@@ -34490,7 +34490,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Gothic church located on the Grote Markt in Turnhout.",
+                  "text": "With origins in the 12th century, this church in Turnhout is a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         4.948915,
@@ -34499,7 +34499,7 @@ export const belgiumCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig Hartkerk",
-                  "text": "Neo-Gothic church in the city center of Turnhout.",
+                  "text": "Built between 1903 and 1907, this church in Turnhout is a protected monument.",
                   "category": "religious",
                   "coords": [
                         4.942291,
@@ -36033,7 +36033,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Onze-Lieve-Vrouwkerk",
-                  "text": "Eine historische Kirche in Lokeren, die Unserer Lieben Frau geweiht ist.",
+                  "text": "Die 1156 erbaute Onze-Lieve-Vrouwkerk in Lokeren steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         3.98013,
@@ -36051,7 +36051,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Kopkapel",
-                  "text": "Eine bekannte Wallfahrtskapelle in Lokeren.",
+                  "text": "Die 1899 erbaute Kopkapel in Lokeren ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         3.997866,
@@ -36278,7 +36278,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Onze-Lieve-Vrouwkerk",
-                  "text": "Miasszonyunknak szentelt történelmi templom Lokerenben.",
+                  "text": "Az 1156-ban épült Onze-Lieve-Vrouwkerk Lokerenben műemlék.",
                   "category": "religious",
                   "coords": [
                         3.98013,
@@ -36296,7 +36296,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Kopkapel",
-                  "text": "Ismert zarándokkápolna Lokeren városában.",
+                  "text": "Az 1899-ben épült Kopkapel Lokerenben műemlék.",
                   "category": "religious",
                   "coords": [
                         3.997866,
@@ -36523,7 +36523,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Onze-Lieve-Vrouwkerk",
-                  "text": "O biserică istorică din Lokeren dedicată Maicii Domnului.",
+                  "text": "Biserica Onze-Lieve-Vrouwkerk din Lokeren, construită în 1156, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         3.98013,
@@ -36541,7 +36541,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Kopkapel",
-                  "text": "O cunoscută capelă de pelerinaj din Lokeren.",
+                  "text": "Capela Kopkapel din Lokeren, construită în 1899, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         3.997866,
@@ -36768,7 +36768,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Onze-Lieve-Vrouwkerk",
-                  "text": "A historic church in Lokeren dedicated to Our Lady.",
+                  "text": "Dating from 1156, this church in Lokeren is a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         3.98013,
@@ -36786,7 +36786,7 @@ imageHint: "Sint-Truiden Abbey tower",
             },
             {
                   "name": "Kopkapel",
-                  "text": "A well-known pilgrimage chapel in Lokeren.",
+                  "text": "Built in 1899, this chapel in Lokeren is a protected monument.",
                   "category": "religious",
                   "coords": [
                         3.997866,
@@ -37015,7 +37015,7 @@ imageHint: "Lokeren city hall and square",
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Kirche im Stadtteil Holven von Geel.",
+                  "text": "Die 1935 von Joseph Willems entworfene Sint-Jozefkerk in Geel ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         4.985028,
@@ -37359,7 +37359,7 @@ imageHint: "Lokeren city hall and square",
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Templom Geel Holven negyedében.",
+                  "text": "A Joseph Willems által tervezett, 1935-ben épült Sint-Jozefkerk Geelben műemlék.",
                   "category": "religious",
                   "coords": [
                         4.985028,
@@ -37703,7 +37703,7 @@ imageHint: "Lokeren city hall and square",
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Biserică în cartierul Holven din Geel.",
+                  "text": "Biserica Sint-Jozefkerk din Geel, proiectată de Joseph Willems și construită în 1935, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         4.985028,
@@ -38047,7 +38047,7 @@ imageHint: "Lokeren city hall and square",
             },
             {
                   "name": "Sint-Jozefkerk",
-                  "text": "Church in the Holven district of Geel.",
+                  "text": "Designed by Joseph Willems, this church in Geel was built in 1935.",
                   "category": "religious",
                   "coords": [
                         4.985028,
@@ -42745,7 +42745,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             },
             {
                   "name": "Stuwbrug",
-                  "text": "Eine Brücke in der Stadt Lier, die sich in der Nähe eines Wehrs befindet.",
+                  "text": "Die um 1880 erbaute Stuwbrug in Lier steht unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         4.565689,
@@ -43125,7 +43125,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             },
             {
                   "name": "Stuwbrug",
-                  "text": "Egy gát közelében található híd Lier városában.",
+                  "text": "Az 1880 körül épült Stuwbrug Lierben műemlék.",
                   "category": "landmark",
                   "coords": [
                         4.565689,
@@ -43505,7 +43505,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             },
             {
                   "name": "Stuwbrug",
-                  "text": "Un pod în orașul Lier situat în apropierea unui stăvilar.",
+                  "text": "Podul Stuwbrug din Lier, construit în jurul anului 1880, este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         4.565689,
@@ -43885,7 +43885,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             },
             {
                   "name": "Stuwbrug",
-                  "text": "A bridge in the city of Lier located near a weir.",
+                  "text": "This weir bridge in Lier dates from around 1880 and is a listed structure.",
                   "category": "landmark",
                   "coords": [
                         4.565689,
@@ -46953,7 +46953,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "Eine katholische Herz-Jesu-Kirche in der Stadt Arlon.",
+                  "text": "Die 1895 von Architekt Léonard erbaute Herz-Jesu-Kirche in Arlon ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         5.821658,
@@ -46962,7 +46962,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Synagogue d'Arlon",
-                  "text": "Ein historisches jüdisches Gotteshaus in Arlon.",
+                  "text": "Die 1865 von Albert Jamot entworfene Synagoge in Arlon ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         5.818771,
@@ -47081,7 +47081,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "Katolikus Jézus Szíve-templom Arlon városában.",
+                  "text": "Az 1895-ben Léonard építész által tervezett Szent Szív templom Arlonban műemlék.",
                   "category": "religious",
                   "coords": [
                         5.821658,
@@ -47090,7 +47090,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Synagogue d'Arlon",
-                  "text": "Történelmi zsidó imaház Arlonban.",
+                  "text": "Az Albert Jamot által tervezett, 1865-ben épült arloni zsinagóga műemlék.",
                   "category": "religious",
                   "coords": [
                         5.818771,
@@ -47209,7 +47209,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "O biserică catolică dedicată Sfintei Inimi în Arlon.",
+                  "text": "Biserica Sacré-Cœur din Arlon, construită în 1895 de arhitectul Léonard, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         5.821658,
@@ -47218,7 +47218,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Synagogue d'Arlon",
-                  "text": "Un lăcaș de cult evreiesc istoric în Arlon.",
+                  "text": "Sinagoga din Arlon, proiectată de Albert Jamot și construită în 1865, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         5.818771,
@@ -47337,7 +47337,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "A Catholic Sacred Heart church in the city of Arlon.",
+                  "text": "Built in 1895 and designed by architect Léonard, this church in Arlon is dedicated to the Sacred Heart.",
                   "category": "religious",
                   "coords": [
                         5.821658,
@@ -47346,7 +47346,7 @@ imageHint: "Wavre city hall and church",
             },
             {
                   "name": "Synagogue d'Arlon",
-                  "text": "A historical Jewish place of worship in Arlon.",
+                  "text": "Designed by Albert Jamot, this synagogue in Arlon was completed in 1865.",
                   "category": "religious",
                   "coords": [
                         5.818771,
@@ -48143,7 +48143,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Tumulus van Koninksem (Paardsweidestraat)",
-                  "text": "Ein gallorömischer Grabhügel in der Nähe von Tongeren.",
+                  "text": "Dieser römische Grabhügel aus dem 1.–3. Jahrhundert in Tongern steht unter Denkmalschutz.",
                   "category": "historical",
                   "coords": [
                         5.444424,
@@ -48161,7 +48161,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Kasteel Rooi",
-                  "text": "Ein denkmalgeschütztes Schloss in Tongeren.",
+                  "text": "Das 1698 erbaute Schloss Rooi in Tongern ist ein geschütztes Denkmal.",
                   "category": "castle",
                   "coords": [
                         5.439957,
@@ -48253,7 +48253,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Tumulus van Koninksem (Paardsweidestraat)",
-                  "text": "Galloromán sírhalom Tongeren közelében.",
+                  "text": "Ez a római sírhalom Tongerenben az 1–3. századból műemlék.",
                   "category": "historical",
                   "coords": [
                         5.444424,
@@ -48271,7 +48271,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Kasteel Rooi",
-                  "text": "Műemléki védelem alatt álló kastély Tongerenben.",
+                  "text": "Az 1698-ban épült Kasteel Rooi Tongerenben műemlék.",
                   "category": "castle",
                   "coords": [
                         5.439957,
@@ -48363,7 +48363,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Tumulus van Koninksem (Paardsweidestraat)",
-                  "text": "Un tumul galo-roman situat lângă Tongeren.",
+                  "text": "Acest tumul roman din secolele I–III de la Tongeren este monument istoric.",
                   "category": "historical",
                   "coords": [
                         5.444424,
@@ -48381,7 +48381,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Kasteel Rooi",
-                  "text": "Un castel de patrimoniu situat în Tongeren.",
+                  "text": "Castelul Kasteel Rooi din Tongeren, construit în 1698, este monument istoric.",
                   "category": "castle",
                   "coords": [
                         5.439957,
@@ -48473,7 +48473,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Tumulus van Koninksem (Paardsweidestraat)",
-                  "text": "A Gallo-Roman burial mound located near Tongeren.",
+                  "text": "This Roman burial mound from the 1st–3rd century in Tongeren is a listed archaeological site.",
                   "category": "historical",
                   "coords": [
                         5.444424,
@@ -48491,7 +48491,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
             },
             {
                   "name": "Kasteel Rooi",
-                  "text": "A heritage-listed castle located in Tongeren.",
+                  "text": "Built in 1698, this castle in Tongeren is a protected heritage site.",
                   "category": "castle",
                   "coords": [
                         5.439957,
@@ -49964,7 +49964,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Schloss Libermé",
-                  "text": "Ein Wasserschloss in Eupen, das für kulturelle Veranstaltungen genutzt wird.",
+                  "text": "Das 1334 erbaute Schloss Libermé in Eupen steht unter Denkmalschutz.",
                   "category": "castle",
                   "coords": [
                         6.048967,
@@ -50135,7 +50135,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Werthkapelle - Kapelle St. Lambertus",
-                  "text": "Die Werthkapelle ist eine spätbarocke Kapelle, die dem heiligen Lambertus geweiht ist.",
+                  "text": "Die 1690 erbaute Werthkapelle (St.-Lambertus-Kapelle) in Eupen steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         6.039391,
@@ -50281,7 +50281,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Schloss Libermé",
-                  "text": "Vízivár Eupenben, amelyet kulturális eseményekre használnak.",
+                  "text": "Az 1334-ben épült Schloss Libermé Eupenben műemlék.",
                   "category": "castle",
                   "coords": [
                         6.048967,
@@ -50452,7 +50452,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Werthkapelle - Kapelle St. Lambertus",
-                  "text": "A Werth-kápolna egy késő barokk kápolna, amelyet Szent Lambertnek szenteltek.",
+                  "text": "Az 1690-ben épült Werthkapelle (Szent Lambertus kápolna) Eupenben műemlék.",
                   "category": "religious",
                   "coords": [
                         6.039391,
@@ -50598,7 +50598,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Schloss Libermé",
-                  "text": "Un castel cu apă în Eupen folosit pentru evenimente culturale.",
+                  "text": "Castelul Schloss Libermé din Eupen, construit în 1334, este monument istoric.",
                   "category": "castle",
                   "coords": [
                         6.048967,
@@ -50769,7 +50769,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Werthkapelle - Kapelle St. Lambertus",
-                  "text": "Capela Werth este o capelă în stil baroc târziu, dedicată Sfântului Lambertus.",
+                  "text": "Capela Werthkapelle (Capela Sf. Lambert) din Eupen, construită în 1690, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         6.039391,
@@ -50915,7 +50915,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Schloss Libermé",
-                  "text": "A moated castle in Eupen used for cultural events.",
+                  "text": "Dating from 1334, this castle in Eupen is a listed monument.",
                   "category": "castle",
                   "coords": [
                         6.048967,
@@ -51086,7 +51086,7 @@ imageHint: "Bastogne Mardasson Memorial",
             },
             {
                   "name": "Werthkapelle - Kapelle St. Lambertus",
-                  "text": "The Werthkapelle is a late Baroque chapel dedicated to Saint Lambertus.",
+                  "text": "Built in 1690, this chapel in Eupen is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         6.039391,
@@ -54146,7 +54146,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Hoge vuurtoren van Heist",
-                  "text": "Der hohe Leuchtturm von Heist ist ein markantes Bauwerk in Knokke-Heist.",
+                  "text": "Der 1907 erbaute hohe Leuchtturm von Heist in Knokke-Heist steht unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         3.230383,
@@ -54245,7 +54245,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Oude Molen",
-                  "text": "Die Oude Molen ist eine historische Windmühle in Knokke-Heist.",
+                  "text": "Die aus dem späten 19. Jahrhundert stammende Oude Molen in Knokke-Heist steht unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         3.308487,
@@ -54391,7 +54391,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Hoge vuurtoren van Heist",
-                  "text": "A Heist-i magas világítótorony egy jellegzetes építmény Knokke-Heistben.",
+                  "text": "Az 1907-ben épült Hoge vuurtoren van Heist Knokke-Heistben műemlék.",
                   "category": "landmark",
                   "coords": [
                         3.230383,
@@ -54490,7 +54490,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Oude Molen",
-                  "text": "Az Oude Molen egy történelmi szélmalom Knokke-Heist városában.",
+                  "text": "A 19. század végéről származó Oude Molen Knokke-Heistben műemlék.",
                   "category": "landmark",
                   "coords": [
                         3.308487,
@@ -54636,7 +54636,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Hoge vuurtoren van Heist",
-                  "text": "Farul înalt din Heist este o structură distinctivă din Knokke-Heist.",
+                  "text": "Farul înalt Hoge vuurtoren van Heist din Knokke-Heist, construit în 1907, este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         3.230383,
@@ -54735,7 +54735,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Oude Molen",
-                  "text": "Oude Molen este o moară de vânt istorică din Knokke-Heist.",
+                  "text": "Moara Oude Molen din Knokke-Heist, datând de la sfârșitul secolului al XIX-lea, este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         3.308487,
@@ -54881,7 +54881,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Hoge vuurtoren van Heist",
-                  "text": "The high lighthouse of Heist is a landmark in Knokke-Heist.",
+                  "text": "This tall lighthouse in Knokke-Heist was erected in 1907 and is a listed monument.",
                   "category": "landmark",
                   "coords": [
                         3.230383,
@@ -54980,7 +54980,7 @@ imageHint: "Geraardsbergen Muur climb view",
             },
             {
                   "name": "Oude Molen",
-                  "text": "Oude Molen is a historic windmill in Knokke-Heist.",
+                  "text": "Dating from the late 19th century, this windmill in Knokke-Heist is a protected site.",
                   "category": "landmark",
                   "coords": [
                         3.308487,
@@ -61274,7 +61274,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             },
             {
                   "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
-                  "text": "Die Onze-Lieve-Vrouw Hemelvaartkerk in Ninove ist eine imposante ehemalige Abteikirche.",
+                  "text": "Die am 27. April 1727 geweihte Mariä-Himmelfahrt-Kirche in Ninove steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         4.021295,
@@ -61429,7 +61429,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             },
             {
                   "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
-                  "text": "A ninovei Onze-Lieve-Vrouw Hemelvaartkerk egy impozáns egykori apátsági templom.",
+                  "text": "Az 1727. április 27-én felszentelt Onze-Lieve-Vrouw Hemelvaartkerk Ninovében műemlék.",
                   "category": "religious",
                   "coords": [
                         4.021295,
@@ -61584,7 +61584,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             },
             {
                   "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
-                  "text": "Biserica Onze-Lieve-Vrouw Hemelvaart din Ninove este o impunătoare fostă biserică abațială.",
+                  "text": "Biserica Onze-Lieve-Vrouw Hemelvaartkerk din Ninove, sfințită la 27 aprilie 1727, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         4.021295,
@@ -61739,7 +61739,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             },
             {
                   "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
-                  "text": "Onze-Lieve-Vrouw Hemelvaartkerk in Ninove is an imposing former abbey church.",
+                  "text": "Consecrated on 27 April 1727, this church in Ninove is a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         4.021295,
@@ -63844,7 +63844,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Kirche in Langdorp, einem Ortsteil von Aarschot.",
+                  "text": "Die zwischen dem 14. und 18. Jahrhundert erbaute Sint-Pieterskerk in Aarschot steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         4.870524,
@@ -64062,7 +64062,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Templom Langdorpban, Aarschot egyik városrészében.",
+                  "text": "A 14. és 18. század között épült Sint-Pieterskerk Aarschotban műemlék.",
                   "category": "religious",
                   "coords": [
                         4.870524,
@@ -64280,7 +64280,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Biserică din Langdorp, o subdiviziune a orașului Aarschot.",
+                  "text": "Biserica Sint-Pieterskerk din Aarschot, construită între secolele al XIV-lea și al XVIII-lea, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         4.870524,
@@ -64498,7 +64498,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Pieterskerk",
-                  "text": "Church in Langdorp, a district of Aarschot.",
+                  "text": "Built between the 14th and 18th centuries, this church in Aarschot is a protected monument.",
                   "category": "religious",
                   "coords": [
                         4.870524,
@@ -67228,7 +67228,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "de": [
             {
                   "name": "Château de Leignon",
-                  "text": "Markantes neugotisches Schloss in Ciney.",
+                  "text": "1895 von Auguste Van Assche im neugotischen Stil erbautes Schloss in Ciney.",
                   "category": "castle",
                   "coords": [
                         5.110951,
@@ -67311,7 +67311,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "hu": [
             {
                   "name": "Château de Leignon",
-                  "text": "Jellegzetes neogótikus kastély Ciney-ben.",
+                  "text": "1895-ben épült neogótikus kastély Ciney-ben, Auguste Van Assche tervezte.",
                   "category": "castle",
                   "coords": [
                         5.110951,
@@ -67394,7 +67394,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "ro": [
             {
                   "name": "Château de Leignon",
-                  "text": "Castel neogotic distinctiv în Ciney.",
+                  "text": "Castel în stil neogotic construit în 1895 de Auguste Van Assche în Ciney.",
                   "category": "castle",
                   "coords": [
                         5.110951,
@@ -67477,7 +67477,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "en": [
             {
                   "name": "Château de Leignon",
-                  "text": "Distinctive neo-Gothic castle in Ciney.",
+                  "text": "Built 1895 in Neo-Gothic style by Auguste Van Assche in Ciney.",
                   "category": "castle",
                   "coords": [
                         5.110951,
@@ -73888,7 +73888,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Coq de Jemappes",
-                  "text": "Denkmal zur Erinnerung an die Schlacht von Jemappes.",
+                  "text": "Das 1922 von Charles Samuël entworfene Kriegerdenkmal 'Coq de Jemappes' in Frameries ist ein geschütztes Denkmal.",
                   "category": "historical",
                   "coords": [
                         3.882272,
@@ -74025,7 +74025,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Coq de Jemappes",
-                  "text": "Emlékmű a jemappes-i csata emlékére.",
+                  "text": "Az 1922-ben Charles Samuël által tervezett Coq de Jemappes háborús emlékmű Frameriesben műemlék.",
                   "category": "historical",
                   "coords": [
                         3.882272,
@@ -74162,7 +74162,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Coq de Jemappes",
-                  "text": "Monument care comemorează Bătălia de la Jemappes.",
+                  "text": "Monumentul de război Coq de Jemappes din Frameries, proiectat de Charles Samuël în 1922, este monument istoric.",
                   "category": "historical",
                   "coords": [
                         3.882272,
@@ -74299,7 +74299,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Coq de Jemappes",
-                  "text": "Monument commemorating the Battle of Jemappes.",
+                  "text": "Designed by Charles Samuël, this war memorial in Frameries was erected in 1922.",
                   "category": "historical",
                   "coords": [
                         3.882272,
@@ -77884,7 +77884,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "de": [
             {
                   "name": "Hôtel de Ville de Jodoigne",
-                  "text": "Rathaus, das im historischen Schloss Pastur untergebracht ist.",
+                  "text": "Dieses aus dem 13. Jahrhundert stammende Schloss in Jodoigne dient als Rathaus und steht unter Denkmalschutz.",
                   "category": "castle",
                   "coords": [
                         4.866918,
@@ -77985,7 +77985,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "hu": [
             {
                   "name": "Hôtel de Ville de Jodoigne",
-                  "text": "Városháza, amely a történelmi Château Pastur-ban található.",
+                  "text": "Ez a 13. századi kastély Jodoigne-ban városházaként szolgál és műemlék.",
                   "category": "castle",
                   "coords": [
                         4.866918,
@@ -78086,7 +78086,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "ro": [
             {
                   "name": "Hôtel de Ville de Jodoigne",
-                  "text": "Primăria situată în istoricul Castel Pastur.",
+                  "text": "Acest castel din secolul al XIII-lea din Jodoigne servește drept primărie și este monument istoric.",
                   "category": "castle",
                   "coords": [
                         4.866918,
@@ -78187,7 +78187,7 @@ imageHint: "Knokke luxury storefronts and beach",
       "en": [
             {
                   "name": "Hôtel de Ville de Jodoigne",
-                  "text": "Town hall located in the historic Château Pastur.",
+                  "text": "This 13th-century castle in Jodoigne serves as the town hall and is a listed heritage site.",
                   "category": "castle",
                   "coords": [
                         4.866918,
@@ -82582,7 +82582,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Cantecroy",
-                  "text": "Eines der ältesten Schlösser der Region in Mortsel.",
+                  "text": "Das zwischen dem 13. und 17. Jahrhundert erbaute Schloss Cantecroy in Mortsel steht unter Denkmalschutz.",
                   "category": "castle",
                   "coords": [
                         4.463254,
@@ -82906,7 +82906,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Lodewijkskerk",
-                  "text": "Eine Pfarrkirche in Mortsel, die dem heiligen Ludwig geweiht ist.",
+                  "text": "Die 1935 erbaute Sint-Lodewijkskerk in Mortsel steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         4.45371,
@@ -83079,7 +83079,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Cantecroy",
-                  "text": "A régió egyik legrégebbi kastélya Mortselben.",
+                  "text": "A 13. és 17. század között épült Cantecroy-kastély Mortselben műemlék.",
                   "category": "castle",
                   "coords": [
                         4.463254,
@@ -83403,7 +83403,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Lodewijkskerk",
-                  "text": "Szent Lajosnak szentelt plébániatemplom Mortselben.",
+                  "text": "Az 1935-ben épült Sint-Lodewijkskerk Mortselben műemlék.",
                   "category": "religious",
                   "coords": [
                         4.45371,
@@ -83576,7 +83576,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Cantecroy",
-                  "text": "Unul dintre cele mai vechi castele din regiune, situat în Mortsel.",
+                  "text": "Castelul Cantecroy din Mortsel, construit între secolele al XIII-lea și al XVII-lea, este monument istoric.",
                   "category": "castle",
                   "coords": [
                         4.463254,
@@ -83900,7 +83900,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Lodewijkskerk",
-                  "text": "O biserică parohială în Mortsel, sfințită în onoarea Sfântului Ludovic.",
+                  "text": "Biserica Sint-Lodewijkskerk din Mortsel, construită în 1935, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         4.45371,
@@ -84073,7 +84073,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Cantecroy",
-                  "text": "One of the oldest castles in the region, located in Mortsel.",
+                  "text": "This castle in Mortsel, built from the 13th to 17th centuries, is a protected monument.",
                   "category": "castle",
                   "coords": [
                         4.463254,
@@ -84397,7 +84397,7 @@ imageHint: "Knokke luxury storefronts and beach",
             },
             {
                   "name": "Sint-Lodewijkskerk",
-                  "text": "A parish church in Mortsel consecrated to Saint Louis.",
+                  "text": "Built in 1935, this church in Mortsel is a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         4.45371,

@@ -675,7 +675,88 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
     },
   },
   {
-    id: "ss-lafon-hill-relief-v2",
+    id: "ss-lafon-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Traditional Fishing",
+                  "text": "Die traditionelle Fischereiattraktion zeigt die jahrhundertealten, manuellen Flusserntetechniken, die von den lokalen Gemeinden in der Nähe des Lafon-Hügels praktiziert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        32.482783,
+                        5.026101
+                  ]
+            },
+            {
+                  "name": "Jabal Lafon",
+                  "text": "Jabal Lafon ist ein markanter felsiger Gipfel, der sich dramatisch über die umliegenden Ebenen erhebt und eine weite Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.468913,
+                        5.033228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Traditional Fishing",
+                  "text": "A hagyományos halászati látványosság a Lafon-hegy melletti helyi közösségek által gyakorolt régi, kézi folyami halászati technikákat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.482783,
+                        5.026101
+                  ]
+            },
+            {
+                  "name": "Jabal Lafon",
+                  "text": "A Jabal Lafon egy kiemelkedő sziklás csúcs, amely drámaian emelkedik a környező síkságok fölé, lenyűgöző kilátást nyújtva.",
+                  "category": "natural",
+                  "coords": [
+                        32.468913,
+                        5.033228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Traditional Fishing",
+                  "text": "Atracția de pescuit tradițional prezintă tehnicile seculare, manuale, de recoltare din râu practicate de comunitățile locale din apropierea dealului Lafon.",
+                  "category": "landmark",
+                  "coords": [
+                        32.482783,
+                        5.026101
+                  ]
+            },
+            {
+                  "name": "Jabal Lafon",
+                  "text": "Jabal Lafon este un vârf stâncos proeminent care se înalță dramatic deasupra câmpiilor înconjurătoare, oferind vederi întinse.",
+                  "category": "natural",
+                  "coords": [
+                        32.468913,
+                        5.033228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Traditional Fishing",
+                  "text": "The traditional fishing attraction showcases the age-old, manual river-harvesting techniques practiced by local communities near Lafon Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        32.482783,
+                        5.026101
+                  ]
+            },
+            {
+                  "name": "Jabal Lafon",
+                  "text": "Jabal Lafon is a prominent rocky peak that rises dramatically above the surrounding plains, offering expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        32.468913,
+                        5.033228
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SS-EE",
     coords: [32.5, 5.1],

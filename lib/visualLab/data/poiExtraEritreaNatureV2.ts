@@ -73,7 +73,52 @@ export const poiExtraEritreaNatureV2: POI[] = [
       fr: ["La rivière a une longueur totale d'environ 440 kilomètres.", "Dans son cours supérieur, la rivière marque la frontière entre l'Érythrée et l'Éthiopie.", "Elle n'atteint pas le Nil mais se termine dans un delta intérieur au Soudan.", "La région de Gash-Barka tire son nom de cette rivière.", "Le lit de la rivière sert de voie de transport pendant la saison sèche.", "La crue annuelle apporte des dépôts de limon précieux et riches en nutriments."],
     }, image: "/poi-images/gash-river-nature-v2.webp"},
   {
-    id: "soira-mountain-nature-v2",
+    id: "soira-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emba Soira",
+                  "text": "Emba Soira ist der höchste Berg Eritreas und erreicht in der malerischen Debub-Region eine Höhe von über 3.000 Metern über dem Meeresspiegel.",
+                  "category": "natural",
+                  "coords": [
+                        39.523398,
+                        14.756982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emba Soira",
+                  "text": "Az Emba Soira Eritrea legmagasabb hegye, amely a festői Debub régióban több mint 3000 méteres tengerszint feletti magasságot ér el.",
+                  "category": "natural",
+                  "coords": [
+                        39.523398,
+                        14.756982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emba Soira",
+                  "text": "Emba Soira este cel mai înalt munte din Eritreea, atingând o altitudine de peste 3.000 de metri deasupra nivelului mării în regiunea pitorească Debub.",
+                  "category": "natural",
+                  "coords": [
+                        39.523398,
+                        14.756982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emba Soira",
+                  "text": "Emba Soira is the highest mountain in Eritrea, reaching an elevation of over 3,000 meters above sea level within the scenic Debub Region.",
+                  "category": "natural",
+                  "coords": [
+                        39.523398,
+                        14.756982
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ER-DU",
     coords: [39.4667, 14.7333],

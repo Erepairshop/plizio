@@ -50,7 +50,268 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       fr: ["Principal port de conteneurs de l'Angola.", "Situé dans une baie naturelle protégée par l'Ilha de Luanda.", "Traite environ 70 à 80 % des importations nationales.", "Dispose de terminaux spécialisés pour les conteneurs, le vrac et le pétrole.", "Modernisé pour accueillir des navires de classe Post-Panamax.", "Connecté directement aux réseaux routiers et ferroviaires nationaux.", "Point central de ravitaillement pour tout l'intérieur du pays.", "Centre majeur pour les services maritimes et le stockage."],
     }, image: "/poi-images/ao-port-of-luanda-economic-v2.webp"},
   {
-    id: "ao-port-of-lobito-economic-v2",
+    id: "ao-port-of-lobito-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Colina da Saudade",
+                  "text": "Ein Aussichtspunkt am Hang, der weite Panoramen über den geschäftigen Hafen und die Küstenstadt Lobito bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Lobito Leuchtturm",
+                  "text": "Ein hoch aufragender Küstenleuchtturm, der historisch den Seeverkehr sicher in die Tiefwasserbucht von Lobito führte.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595556,
+                        -12.321041
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Der geschäftige städtische Markt von Lobito, der in einem historischen Gebäude untergebracht ist, in dem Einheimische mit frischen Produkten und regionalen Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        13.546175,
+                        -12.350317
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "Das Cine-Teatro Empérium ist ein klassisches Theatergebäude, das kulturelle Aufführungen nahe dem Hafen von Lobito bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551257,
+                        -12.341724
+                  ]
+            },
+            {
+                  "name": "Portas do Mar",
+                  "text": "Portas do Mar ist eine Küstenattraktion, die malerische maritime Ausblicke entlang der Küste von Lobito bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.553905,
+                        -12.340379
+                  ]
+            },
+            {
+                  "name": "Zaire Barco",
+                  "text": "Zaire Barco ist eine markante Bootsattraktion, die das maritime Erbe der Hafenregion von Lobito unterstreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579424,
+                        -12.31855
+                  ]
+            },
+            {
+                  "name": "Baía de Lobito",
+                  "text": "Die Baía de Lobito ist eine tiefe, geschützte natürliche Bucht, die das Fundament des geschäftigen Seehafens der Region bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.570896,
+                        -12.336364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colina da Saudade",
+                  "text": "Hegyoldali kilátópont, amely kiterjedt panorámát nyújt a nyüzsgő kikötőre és Lobito tengerparti városára.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Farol de Lobito",
+                  "text": "Tornyosuló part menti világítótorony, amely történelmileg biztonságosan irányította a tengeri forgalmat Lobito mélyvizű öblébe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595556,
+                        -12.321041
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Lobito nyüzsgő önkormányzati piaca egy történelmi épületben kapott helyet, ahol a helyiek friss termékekkel és regionális árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        13.546175,
+                        -12.350317
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "A Cine-Teatro Empérium egy klasszikus színházépület, amely kulturális előadásoknak ad otthont Lobito forgalmas kikötője közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551257,
+                        -12.341724
+                  ]
+            },
+            {
+                  "name": "Portas do Mar",
+                  "text": "A Portas do Mar egy tengerparti látványosság, amely festői kilátást nyújt Lobito partvidékére.",
+                  "category": "landmark",
+                  "coords": [
+                        13.553905,
+                        -12.340379
+                  ]
+            },
+            {
+                  "name": "Zaire Barco",
+                  "text": "A Zaire Barco egy feltűnő hajós látványosság, amely a lobitói kikötővidék tengerészeti örökségét hangsúlyozza.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579424,
+                        -12.31855
+                  ]
+            },
+            {
+                  "name": "Baía de Lobito",
+                  "text": "A Baía de Lobito egy mély, védett természetes öböl, amely a környék forgalmas kikötőjének alapját képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        13.570896,
+                        -12.336364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colina da Saudade",
+                  "text": "Un punct de belvedere pe deal care oferă panorame vaste asupra portului plin de viață și a orașului de coastă Lobito.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Farol de Lobito",
+                  "text": "Un far de coastă impunător care istoric a ghidat în siguranță traficul maritim în golful cu ape adânci din Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595556,
+                        -12.321041
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Piața municipală animată din Lobito, găzduită într-o clădire istorică unde localnicii fac comerț cu produse proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        13.546175,
+                        -12.350317
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "Cine-Teatro Empérium este o clădire clasică de teatru care găzduiește spectacole culturale în apropierea portului Lobito.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551257,
+                        -12.341724
+                  ]
+            },
+            {
+                  "name": "Portas do Mar",
+                  "text": "Portas do Mar este o atracție de coastă care oferă priveliști maritime pitorești de-a lungul țărmului din Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.553905,
+                        -12.340379
+                  ]
+            },
+            {
+                  "name": "Zaire Barco",
+                  "text": "Zaire Barco este o atracție navală impresionantă care evidențiază moștenirea maritimă a zonei portuare Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579424,
+                        -12.31855
+                  ]
+            },
+            {
+                  "name": "Baía de Lobito",
+                  "text": "Baía de Lobito este un golf natural adânc și adăpostit care formează baza portului maritim aglomerat al zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        13.570896,
+                        -12.336364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colina da Saudade",
+                  "text": "A hillside viewpoint offering expansive panoramas over the bustling port and coastal city of Lobito.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Lobito Lighthouse",
+                  "text": "A towering coastal lighthouse that historically guided maritime traffic safely into the deep-water Bay of Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595556,
+                        -12.321041
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "The bustling municipal market of Lobito, housed in a historic building where locals trade fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        13.546175,
+                        -12.350317
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "The Cine-Teatro Empérium is a classic theatre building offering cultural performances near the bustling Port of Lobito.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551257,
+                        -12.341724
+                  ]
+            },
+            {
+                  "name": "Portas do Mar",
+                  "text": "Portas do Mar is a coastal attraction providing scenic maritime views along the shoreline of Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.553905,
+                        -12.340379
+                  ]
+            },
+            {
+                  "name": "Zaire Barco",
+                  "text": "Zaire Barco is a striking boat attraction highlighting the maritime heritage of the Lobito port area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579424,
+                        -12.31855
+                  ]
+            },
+            {
+                  "name": "Baía de Lobito",
+                  "text": "Baía de Lobito is a deep, sheltered natural bay that forms the foundation of the area's busy shipping port.",
+                  "category": "landmark",
+                  "coords": [
+                        13.570896,
+                        -12.336364
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "AO-BGU",
     coords: [13.5415, -12.3396],
@@ -97,7 +358,88 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       fr: ["Port stratégique à l'extrémité du corridor de Lobito.", "Interface maritime du chemin de fer de Benguela (CFB).", "Principal port d'exportation pour le cuivre et le cobalt d'Afrique centrale.", "Profondeur d'eau naturelle allant jusqu'à 14 mètres.", "Équipé d'installations modernes pour le chargement rapide du minerai.", "Les terminaux à conteneurs privés augmentent la capacité de traitement.", "Facteur clé du développement économique de l'ouest de l'Angola.", "Sert de route alternative pour les produits miniers de la Copperbelt."],
     }, image: "/poi-images/ao-port-of-lobito-economic-v2.webp"},
   {
-    id: "ao-port-of-namibe-economic-v2",
+    id: "ao-port-of-namibe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Nação",
+                  "text": "Praia da Nação ist ein breiter Stadtstrand, der weite Meeresblicke direkt neben den geschäftigen Hafenanlagen von Namibe bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.154167,
+                        -15.173853
+                  ]
+            },
+            {
+                  "name": "Praia das Miragens",
+                  "text": "Dieser Sandstrand in Namibe zieht Besucher mit seiner weiten Küstenlandschaft am Atlantischen Ozean an.",
+                  "category": "recreational",
+                  "coords": [
+                        12.149167,
+                        -15.19001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Nação",
+                  "text": "A Praia da Nação egy széles városi strand, amely lenyűgöző tengeri kilátást nyújt közvetlenül Namibe nyüzsgő kikötői létesítményei mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        12.154167,
+                        -15.173853
+                  ]
+            },
+            {
+                  "name": "Praia das Miragens",
+                  "text": "Ez a namibei homokos tengerpart széles óceánparti kilátással és kellemes parti környezettel vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        12.149167,
+                        -15.19001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Nação",
+                  "text": "Praia da Nação este o plajă urbană largă care oferă vederi ample la mare chiar lângă facilitățile portuare aglomerate din Namibe.",
+                  "category": "recreational",
+                  "coords": [
+                        12.154167,
+                        -15.173853
+                  ]
+            },
+            {
+                  "name": "Praia das Miragens",
+                  "text": "Această plajă cu nisip din Namibe atrage vizitatorii cu peisajul său extins de coastă de-a lungul Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        12.149167,
+                        -15.19001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Nação",
+                  "text": "Praia da Nação is a wide urban beach offering sweeping ocean views right beside the bustling port facilities of Namibe.",
+                  "category": "recreational",
+                  "coords": [
+                        12.154167,
+                        -15.173853
+                  ]
+            },
+            {
+                  "name": "Praia das Miragens",
+                  "text": "This sandy beach in Namibe attracts visitors with its expansive coastal landscape along the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        12.149167,
+                        -15.19001
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "AO-NAM",
     coords: [12.1528, -15.1950],
@@ -144,7 +486,304 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       fr: ["Port le plus important du sud de l'Angola.", "Centre logistique pour l'exportation de pierres ornementales (granit, marbre).", "Terminus de la ligne de chemin de fer de Moçâmedes (CFM).", "Lieu de transit essentiel pour l'industrie de la pêche régionale.", "Bénéficie actuellement d'une modernisation complète de ses quais.", "Stratégique pour le ravitaillement des provinces de Huíla et Cunene.", "Réputé pour son efficacité dans le chargement des produits miniers.", "Centre important pour la maintenance navale et les services maritimes au sud."],
     }, image: "/poi-images/ao-port-of-namibe-economic-v2.webp"},
   {
-    id: "ao-port-of-cabinda-economic-v2",
+    id: "ao-port-of-cabinda-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung von Cabinda",
+                  "text": "Die Festung Cabinda umfasst verwitterte Ruinen, die einst als koloniale militärische Hochburg an der Atlantikküste dienten.",
+                  "category": "historical",
+                  "coords": [
+                        12.183275,
+                        -5.550185
+                  ]
+            },
+            {
+                  "name": "Praia do Girassol",
+                  "text": "Praia do Girassol ist ein sandiger Küstenstreifen, der für seine entspannte Atmosphäre am Meer nahe dem Hafen von Cabinda bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.184208,
+                        -5.550187
+                  ]
+            },
+            {
+                  "name": "Feira",
+                  "text": "Die Feira ist eine lebhafte Freiluftmarkt-Attraktion, auf der Einheimische in Cabinda regionale Waren und Kunsthandwerk handeln.",
+                  "category": "landmark",
+                  "coords": [
+                        12.191475,
+                        -5.552808
+                  ]
+            },
+            {
+                  "name": "Museu de Cabinda",
+                  "text": "Das Museu de Cabinda präsentiert traditionelle Artefakte und historische Ausstellungen, die das reiche kulturelle Erbe der Enklave detailliert darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        12.196427,
+                        -5.558729
+                  ]
+            },
+            {
+                  "name": "Praia da Missão",
+                  "text": "Praia da Missão ist ein ruhiger Küstenstrand, der einen friedlichen Rückzugsort mit weichem Sand an den Gewässern des Atlantiks bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176608,
+                        -5.562738
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "Dieses markante Denkmal steht in Cabinda als strukturelle Hommage an lokale historische Ereignisse.",
+                  "category": "landmark",
+                  "coords": [
+                        12.185175,
+                        -5.575137
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Dieser weite Sandstrand bietet Einheimischen und Besuchern einen sonnenverwöhnten Küstenstreifen entlang der Küste von Cabinda.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179297,
+                        -5.556802
+                  ]
+            },
+            {
+                  "name": "Largo Pedro Benge",
+                  "text": "Der Largo Pedro Benge ist ein städtischer öffentlicher Platz, der als beliebter Treffpunkt für Fußgänger im Herzen von Cabinda dient.",
+                  "category": "landmark",
+                  "coords": [
+                        12.192582,
+                        -5.55833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza de Cabinda",
+                  "text": "A Cabindai erőd málladozó romjai egykor gyarmati katonai támaszpontként szolgáltak az Atlanti-óceán partján.",
+                  "category": "historical",
+                  "coords": [
+                        12.183275,
+                        -5.550185
+                  ]
+            },
+            {
+                  "name": "Praia do Girassol",
+                  "text": "A Praia do Girassol egy homokos partszakasz, amely pihentető tengerparti hangulatáról ismert a cabindai kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.184208,
+                        -5.550187
+                  ]
+            },
+            {
+                  "name": "Feira",
+                  "text": "A Feira egy élénk szabadtéri piaci látványosság Cabindában, ahol a helyiek regionális árukkal és kézműves termékekkel kereskednek.",
+                  "category": "landmark",
+                  "coords": [
+                        12.191475,
+                        -5.552808
+                  ]
+            },
+            {
+                  "name": "Museu de Cabinda",
+                  "text": "A Museu de Cabinda hagyományos műtárgyakat és történelmi kiállításokat mutat be, amelyek részletezik az enklávé gazdag kulturális örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        12.196427,
+                        -5.558729
+                  ]
+            },
+            {
+                  "name": "Praia da Missão",
+                  "text": "A Praia da Missão egy nyugodt tengerparti strand, amely csendes menedéket kínál puha homokjával az Atlanti-óceán vizénél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176608,
+                        -5.562738
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "Ez a jellegzetes emlékmű Cabindában áll, mint a helyi történelmi események strukturális tisztelgése.",
+                  "category": "landmark",
+                  "coords": [
+                        12.185175,
+                        -5.575137
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Ez a kiterjedt homokos strand napsütötte partszakaszt biztosít a helyiek és a látogatók számára a cabindai partvonal mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179297,
+                        -5.556802
+                  ]
+            },
+            {
+                  "name": "Largo Pedro Benge",
+                  "text": "A Largo Pedro Benge egy városi köztér, amely népszerű gyalogos találkozóhelyként szolgál Cabinda szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.192582,
+                        -5.55833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza de Cabinda",
+                  "text": "Fortăreața Cabinda prezintă ruine măcinate de vreme care au servit cândva drept bastion militar colonial pe coasta atlantică.",
+                  "category": "historical",
+                  "coords": [
+                        12.183275,
+                        -5.550185
+                  ]
+            },
+            {
+                  "name": "Praia do Girassol",
+                  "text": "Praia do Girassol este o fâșie de coastă nisipoasă, cunoscută pentru atmosfera sa relaxantă de la malul mării, lângă Portul Cabinda.",
+                  "category": "recreational",
+                  "coords": [
+                        12.184208,
+                        -5.550187
+                  ]
+            },
+            {
+                  "name": "Feira",
+                  "text": "Feira este o atracție de piață animată în aer liber, unde localnicii se adună pentru a face negoț cu bunuri și meșteșuguri regionale în Cabinda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.191475,
+                        -5.552808
+                  ]
+            },
+            {
+                  "name": "Museu de Cabinda",
+                  "text": "Museu de Cabinda prezintă artefacte tradiționale și expoziții istorice care detaliază bogata moștenire culturală a enclavei.",
+                  "category": "museum",
+                  "coords": [
+                        12.196427,
+                        -5.558729
+                  ]
+            },
+            {
+                  "name": "Praia da Missão",
+                  "text": "Praia da Missão este o plajă de coastă liniștită care oferă un refugiu tăcut cu nisipuri fine la apele Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176608,
+                        -5.562738
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "Acest monument distinctiv se află în Cabinda ca un omagiu structural adus evenimentelor istorice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        12.185175,
+                        -5.575137
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Această plajă nisipoasă întinsă oferă localnicilor și vizitatorilor un țărm scăldat în soare de-a lungul coastei din Cabinda.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179297,
+                        -5.556802
+                  ]
+            },
+            {
+                  "name": "Largo Pedro Benge",
+                  "text": "Largo Pedro Benge este o piață publică urbană care servește drept un spațiu popular de adunare pietonală în inima orașului Cabinda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.192582,
+                        -5.55833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cabinda Fortress",
+                  "text": "The Cabinda Fortress features weathered ruins that once served as a colonial military stronghold on the Atlantic coast.",
+                  "category": "historical",
+                  "coords": [
+                        12.183275,
+                        -5.550185
+                  ]
+            },
+            {
+                  "name": "Praia do Girassol",
+                  "text": "Praia do Girassol is a sandy coastal stretch known for its relaxing seaside atmosphere near the Port of Cabinda.",
+                  "category": "recreational",
+                  "coords": [
+                        12.184208,
+                        -5.550187
+                  ]
+            },
+            {
+                  "name": "Feira",
+                  "text": "The Feira is a lively open-air market attraction where locals gather to trade regional goods and crafts in Cabinda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.191475,
+                        -5.552808
+                  ]
+            },
+            {
+                  "name": "Museu de Cabinda",
+                  "text": "The Museu de Cabinda showcases traditional artifacts and historical exhibits detailing the rich cultural heritage of the enclave.",
+                  "category": "museum",
+                  "coords": [
+                        12.196427,
+                        -5.558729
+                  ]
+            },
+            {
+                  "name": "Praia da Missão",
+                  "text": "Praia da Missão is a tranquil coastal beach offering a quiet retreat with soft sands by the Atlantic waters.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176608,
+                        -5.562738
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "This distinctive monument stands in Cabinda as a structural tribute to local historical events.",
+                  "category": "landmark",
+                  "coords": [
+                        12.185175,
+                        -5.575137
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "This sweeping sandy beach provides locals and visitors with a sun-drenched shoreline along the Cabinda coast.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179297,
+                        -5.556802
+                  ]
+            },
+            {
+                  "name": "Largo Pedro Benge",
+                  "text": "Largo Pedro Benge is an urban public square that serves as a popular pedestrian gathering space in the heart of Cabinda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.192582,
+                        -5.55833
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "AO-CAB",
     coords: [12.1932, -5.5562],
@@ -383,7 +1022,52 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       fr: ["Quatrième plus grande mine de diamants à ciel ouvert au monde.", "Cheminée de kimberlite d'un diamètre de plus de 600 mètres.", "Produit plus de 75 % de la quantité totale de diamants angolais.", "Située à environ 35 kilomètres de la ville de Saurimo.", "Joint-venture entre partenaires étatiques et internationaux.", "Propre parc de centrales électriques assurant l'énergie.", "Emploie des milliers de professionnels spécialisés.", "Moteur central de la transformation économique de Lunda Sul."],
     }, image: "/poi-images/ao-catoca-diamond-mine-economic-v2.webp"},
   {
-    id: "ao-angola-lng-plant-economic-v2",
+    id: "ao-angola-lng-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Padrão de São Jorge",
+                  "text": "Der Padrão de São Jorge ist ein historisches Steinmonument, das an die frühe portugiesische Seefahrt entlang der angolanischen Küste erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        12.331973,
+                        -6.078766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Padrão de São Jorge",
+                  "text": "A Padrão de São Jorge egy történelmi kőemlékmű, amely a korai portugál tengeri felfedezéseknek állít emléket az angolai parton.",
+                  "category": "historical",
+                  "coords": [
+                        12.331973,
+                        -6.078766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Padrão de São Jorge",
+                  "text": "Padrão de São Jorge este un monument istoric din piatră care comemorează explorarea maritimă portugheză timpurie de-a lungul coastei angoleze.",
+                  "category": "historical",
+                  "coords": [
+                        12.331973,
+                        -6.078766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Padrão de São Jorge",
+                  "text": "The Padrão de São Jorge is a historical stone monument commemorating early Portuguese maritime exploration along the Angolan coast.",
+                  "category": "historical",
+                  "coords": [
+                        12.331973,
+                        -6.078766
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AO-ZAI",
     coords: [12.3385, -6.1158],
@@ -571,7 +1255,52 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       fr: ["Plus grande centrale hydroélectrique d'Angola (2070 MW).", "Le mur du barrage a une hauteur impressionnante de 132 mètres.", "Produit assez d'électricité pour des millions de foyers.", "Centre du plan national d'électrification.", "Possède six turbines principales dans d'immenses cavernes.", "Construit dans le respect de normes environnementales strictes.", "Contribue à la réduction des émissions de CO2 du pays.", "Un pilier stratégique pour la diversification industrielle."],
     }, image: "/poi-images/ao-lauca-dam-economic-v2.webp"},
   {
-    id: "ao-cambambe-dam-economic-v2",
+    id: "ao-cambambe-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Kambambe",
+                  "text": "Die Kambambe Fortress ist eine robuste historische Festungsanlage, die einst als bedeutender Verteidigungsstützpunkt in der Region diente.",
+                  "category": "fortress",
+                  "coords": [
+                        14.487166,
+                        -9.742459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza de Kambambe",
+                  "text": "A Kambambe Fortress egy ellenálló történelmi erődítmény, amely egykor jelentős védelmi bástyaként szolgált a régióban.",
+                  "category": "fortress",
+                  "coords": [
+                        14.487166,
+                        -9.742459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza de Kambambe",
+                  "text": "Kambambe Fortress este o structură fortificată istorică rezistentă, care a servit cândva ca un bastion defensiv semnificativ în regiune.",
+                  "category": "fortress",
+                  "coords": [
+                        14.487166,
+                        -9.742459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kambambe Fortress",
+                  "text": "The Kambambe Fortress is a resilient historical fort structure that once served as a significant defensive stronghold in the region.",
+                  "category": "fortress",
+                  "coords": [
+                        14.487166,
+                        -9.742459
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AO-CNO",
     coords: [14.4789, -9.7483],
@@ -1043,7 +1772,88 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       fr: ["Gisement de fer le plus important de l'histoire de l'Angola.", "Colonne vertébrale du développement économique de Huíla.", "Connexion directe au chemin de fer de Moçâmedes (CFM).", "Possède des réserves de centaines de millions de tonnes.", "Projet central pour la diversification hors pétrole.", "Siège d'installations modernes de concassage et d'enrichissement.", "Site important pour la promotion de l'emploi régional.", "Symbole de continuité technologique depuis l'époque coloniale."],
     }, image: "/poi-images/ao-cassinga-iron-ore-mine-economic-v2.webp"},
   {
-    id: "ao-cuca-brewery-luanda-economic-v2",
+    id: "ao-cuca-brewery-luanda-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento aos heróis do 4 de Fevereiro",
+                  "text": "Dieses Denkmal erinnert an den entscheidenden Aufstand von 1961, der den angolanischen Unabhängigkeitskrieg auslöste.",
+                  "category": "historical",
+                  "coords": [
+                        13.280946,
+                        -8.829776
+                  ]
+            },
+            {
+                  "name": "Fernmeldemuseum",
+                  "text": "Dieses Museum verfolgt die technologische Entwicklung der Kommunikation in Angola und zeigt historische Rundfunk- und Telefonausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        13.271116,
+                        -8.818144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento aos heróis do 4 de Fevereiro",
+                  "text": "Ez az emlékmű az 1961-es sorsdöntő felkelésnek állít emléket, amely kirobbantotta az angolai függetlenségi háborút.",
+                  "category": "historical",
+                  "coords": [
+                        13.280946,
+                        -8.829776
+                  ]
+            },
+            {
+                  "name": "Museu das Telecomunicações",
+                  "text": "Ez a múzeum az angolai kommunikáció technológiai fejlődését követi nyomon, történelmi műsorszóró és telefonos berendezéseket bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        13.271116,
+                        -8.818144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento aos heróis do 4 de Fevereiro",
+                  "text": "Acest memorial comemorează revolta esențială din 1961 care a declanșat Războiul de Independență al Angolei.",
+                  "category": "historical",
+                  "coords": [
+                        13.280946,
+                        -8.829776
+                  ]
+            },
+            {
+                  "name": "Museu das Telecomunicações",
+                  "text": "Acest muzeu urmărește evoluția tehnologică a comunicării în Angola, prezentând echipamente istorice de radiodifuziune și telefonie.",
+                  "category": "museum",
+                  "coords": [
+                        13.271116,
+                        -8.818144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento aos heróis do 4 de Fevereiro",
+                  "text": "This memorial commemorates the pivotal 1961 uprising that sparked the Angolan War of Independence.",
+                  "category": "historical",
+                  "coords": [
+                        13.280946,
+                        -8.829776
+                  ]
+            },
+            {
+                  "name": "Telecommunications Museum",
+                  "text": "This museum traces the technological evolution of communication in Angola, featuring vintage broadcasting and telephone equipment.",
+                  "category": "museum",
+                  "coords": [
+                        13.271116,
+                        -8.818144
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AO-LUA",
     coords: [13.2689, -8.8144],
@@ -1278,7 +2088,52 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       fr: ["La plus grande base logistique du secteur pétrolier en Afrique subsaharienne.", "Couvre une superficie de plus de 200 hectares dans le port de Luanda.", "Dispose de quais en eaux profondes dédiés aux navires de ravitaillement.", "Des centaines d'entreprises du secteur de l'énergie y sont installées.", "Possède des ateliers de pointe pour la réparation de technologies sous-marines.", "Point central pour l'approvisionnement des plateformes offshore.", "Employeur majeur de main-d'œuvre locale hautement qualifiée.", "Certifiée selon les normes internationales de qualité et d'environnement."],
     }, image: "/poi-images/ao-sonils-logistics-base-economic-v2.webp"},
   {
-    id: "ao-catumbela-industrial-pole-economic-v2",
+    id: "ao-catumbela-industrial-pole-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catumbela Der Heilige Pedro Redoute",
+                  "text": "Eine gut erhaltene koloniale Verteidigungsschanze auf einem Hügel mit Blick auf den Fluss Catumbela.",
+                  "category": "fortress",
+                  "coords": [
+                        13.541936,
+                        -12.437535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reduto de São Pedro de Catumbela",
+                  "text": "Jó állapotban fennmaradt gyarmati védelmi redut, amely egy dombon található, kilátással a Catumbela folyóra.",
+                  "category": "fortress",
+                  "coords": [
+                        13.541936,
+                        -12.437535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reduto de São Pedro de Catumbela",
+                  "text": "Un redut defensiv colonial bine conservat, situat pe un deal cu vedere la râul Catumbela.",
+                  "category": "fortress",
+                  "coords": [
+                        13.541936,
+                        -12.437535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catumbela Saint Peter's Redoubt",
+                  "text": "A well-preserved colonial defensive redoubt situated on a hill overlooking the Catumbela River.",
+                  "category": "fortress",
+                  "coords": [
+                        13.541936,
+                        -12.437535
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AO-BGU",
     coords: [13.5344, -12.4358],
@@ -1327,7 +2182,52 @@ export const poiExtraAngolaEconomicV2: POI[] = [
 
   },
   {
-    id: "ao-matala-dam-economic-v2",
+    id: "ao-matala-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilha",
+                  "text": "Diese Flussinsel-Attraktion befindet sich in der Nähe des Wasserkraftwerks Matala-Staudamm am Fluss Cunene.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilha",
+                  "text": "Ez a folyami sziget látványosság a Cunene folyón található Matala-gát vízerőművének közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilha",
+                  "text": "Această insulă fluvială, atracție pitorească, este situată în apropierea barajului hidroelectric Matala de pe râul Cunene.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilha",
+                  "text": "This river island attraction is situated near the hydroelectric Matala Dam on the Cunene River.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AO-HUI",
     coords: [15.0456, -14.7333],

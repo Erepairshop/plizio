@@ -2783,7 +2783,268 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "ajdabiya-cities-v2",
+    id: "ajdabiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The island of Tobruk",
+                  "text": "Ein lokales Denkmal im Stadtzentrum von Ajdabiya, das der historischen Stadt Tobruk gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.240735,
+                        30.768152
+                  ]
+            },
+            {
+                  "name": "Jallow Island",
+                  "text": "Ein belebter Kreisverkehr und öffentliches Wahrzeichen, das als urbaner Treffpunkt in Ajdabiya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233707,
+                        30.748302
+                  ]
+            },
+            {
+                  "name": "A E",
+                  "text": "Eine städtische Attraktion entlang der belebten Straßen im Stadtzentrum von Ajdabiya.",
+                  "category": "landmark",
+                  "coords": [
+                        20.213866,
+                        30.748304
+                  ]
+            },
+            {
+                  "name": "Auto rotation Island",
+                  "text": "Eine zentral gelegene Verkehrsinsel, die einen Panoramablick auf die belebten Straßen von Ajdabiya bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.210054,
+                        30.739979
+                  ]
+            },
+            {
+                  "name": "Ajdabia Museum",
+                  "text": "Eine kulturelle Einrichtung, die lokale Artefakte und das reiche historische Erbe der Region Ajdabiya bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        20.224158,
+                        30.758494
+                  ]
+            },
+            {
+                  "name": "Clipperton Island",
+                  "text": "Ein ungewöhnlich benanntes städtisches Wahrzeichen inmitten der Wüstenstadtlandschaft von Ajdabiya.",
+                  "category": "landmark",
+                  "coords": [
+                        20.20224,
+                        30.770213
+                  ]
+            },
+            {
+                  "name": "Fatami Castle",
+                  "text": "Eine bedeutende archäologische Stätte mit den Überresten eines historischen islamischen Palastes aus der Fatimidenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        20.220007,
+                        30.757681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The island of Tobruk",
+                  "text": "Egy helyi emlékmű és nevezetesség Ajdabiya városközpontjában, amely a történelmi Tobruk városa köré épül.",
+                  "category": "landmark",
+                  "coords": [
+                        20.240735,
+                        30.768152
+                  ]
+            },
+            {
+                  "name": "Jallow Island",
+                  "text": "Nyüzsgő körforgalom és nyilvános nevezetesség, amely városi találkozóhelyként szolgál Ajdabiya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233707,
+                        30.748302
+                  ]
+            },
+            {
+                  "name": "A E",
+                  "text": "Városi látványosság Ajdabiya városközpontjának nyüzsgő utcái mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.213866,
+                        30.748304
+                  ]
+            },
+            {
+                  "name": "Auto rotation Island",
+                  "text": "Központilag elhelyezkedő forgalomsziget, ahonnan jól beláthatóak Ajdabiya forgalmas városi utcái.",
+                  "category": "natural",
+                  "coords": [
+                        20.210054,
+                        30.739979
+                  ]
+            },
+            {
+                  "name": "Ajdabia Museum",
+                  "text": "Kulturális intézmény, amely a helyi műtárgyakat és az Ajdabiya régió gazdag történelmi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        20.224158,
+                        30.758494
+                  ]
+            },
+            {
+                  "name": "Clipperton Island",
+                  "text": "Egy szeszélyes nevű városi nevezetesség, amely Ajdabiya sivatagi városképében fészkel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.20224,
+                        30.770213
+                  ]
+            },
+            {
+                  "name": "Fatami Castle",
+                  "text": "Fontos régészeti lelőhely, amely egy történelmi iszlám palota romjait őrzi a Fátimida-korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        20.220007,
+                        30.757681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The island of Tobruk",
+                  "text": "Un punct de reper comemorativ local în centrul urban al orașului Ajdabiya, cu tematica orașului istoric Tobruk.",
+                  "category": "landmark",
+                  "coords": [
+                        20.240735,
+                        30.768152
+                  ]
+            },
+            {
+                  "name": "Jallow Island",
+                  "text": "Un sens giratoriu vibrant și un punct de reper public care servește ca spațiu de adunare urbană în Ajdabiya.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233707,
+                        30.748302
+                  ]
+            },
+            {
+                  "name": "A E",
+                  "text": "O atracție urbană situată de-a lungul străzilor pline de viață din centrul orașului Ajdabiya.",
+                  "category": "landmark",
+                  "coords": [
+                        20.213866,
+                        30.748304
+                  ]
+            },
+            {
+                  "name": "Auto rotation Island",
+                  "text": "O insulă de trafic situată central, care oferă un punct de vedere panoramic asupra străzilor urbane aglomerate din Ajdabiya.",
+                  "category": "natural",
+                  "coords": [
+                        20.210054,
+                        30.739979
+                  ]
+            },
+            {
+                  "name": "Ajdabia Museum",
+                  "text": "O instituție culturală care păstrează artefacte locale și bogata moștenire istorică a regiunii Ajdabiya.",
+                  "category": "museum",
+                  "coords": [
+                        20.224158,
+                        30.758494
+                  ]
+            },
+            {
+                  "name": "Clipperton Island",
+                  "text": "Un punct de reper urban cu un nume fantezist, amplasat în peisajul orașului deșertic Ajdabiya.",
+                  "category": "landmark",
+                  "coords": [
+                        20.20224,
+                        30.770213
+                  ]
+            },
+            {
+                  "name": "Fatami Castle",
+                  "text": "Un important sit arheologic care prezintă rămășițele unui palat islamic istoric din epoca fatimidă.",
+                  "category": "historical",
+                  "coords": [
+                        20.220007,
+                        30.757681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The island of Tobruk",
+                  "text": "A local commemorative landmark in the urban center of Ajdabiya, themed around the historic city of Tobruk.",
+                  "category": "landmark",
+                  "coords": [
+                        20.240735,
+                        30.768152
+                  ]
+            },
+            {
+                  "name": "Jallow Island",
+                  "text": "A vibrant roundabout and public landmark serving as an urban gathering space in Ajdabiya.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233707,
+                        30.748302
+                  ]
+            },
+            {
+                  "name": "A E",
+                  "text": "An urban attraction situated along the bustling streets of Ajdabiya's city center.",
+                  "category": "landmark",
+                  "coords": [
+                        20.213866,
+                        30.748304
+                  ]
+            },
+            {
+                  "name": "Auto rotation Island",
+                  "text": "A centrally located traffic island that provides a panoramic viewpoint of Ajdabiya's busy urban streets.",
+                  "category": "natural",
+                  "coords": [
+                        20.210054,
+                        30.739979
+                  ]
+            },
+            {
+                  "name": "Ajdabia Museum",
+                  "text": "A cultural institution preserving local artifacts and the rich historical heritage of the Ajdabiya region.",
+                  "category": "museum",
+                  "coords": [
+                        20.224158,
+                        30.758494
+                  ]
+            },
+            {
+                  "name": "Clipperton Island",
+                  "text": "A whimsically named urban landmark nestled within the desert city landscape of Ajdabiya.",
+                  "category": "landmark",
+                  "coords": [
+                        20.20224,
+                        30.770213
+                  ]
+            },
+            {
+                  "name": "Fatami Castle",
+                  "text": "An important archaeological site featuring the remains of a historic Islamic palace from the Fatimid era.",
+                  "category": "historical",
+                  "coords": [
+                        20.220007,
+                        30.757681
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-WA",
     coords: [20.2253, 30.7554],
@@ -4106,7 +4367,160 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "gharyan-cities-v2",
+    id: "gharyan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque of Brascisci",
+                  "text": "Die Brascisci-Moschee ist ein traditionelles islamisches Gebetshaus und architektonisches Wahrzeichen in Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01524,
+                        32.140632
+                  ]
+            },
+            {
+                  "name": "OTHMANIC GOVERNOR CASTLE since 1510",
+                  "text": "Das seit 1510 bestehende osmanische Gouverneurs-Kastell thront als steinerne Festung majestätisch über Gharyan.",
+                  "category": "castle",
+                  "coords": [
+                        13.00392,
+                        32.170668
+                  ]
+            },
+            {
+                  "name": "Martyred square \"Emilio De bono- Ex known name",
+                  "text": "Dieser Aussichtspunkt am Platz der Märtyrer in Gharyan bietet Einblicke in das städtische Treiben und die Historie.",
+                  "category": "natural",
+                  "coords": [
+                        13.006682,
+                        32.16896
+                  ]
+            },
+            {
+                  "name": "Fc. Ittihad Garian Building",
+                  "text": "Das Gebäude des FC Ittihad Garian ist ein zentraler Treffpunkt für den lokalen Sportbetrieb in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01161,
+                        32.168806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque of Brascisci",
+                  "text": "A Brascisci-mecset egy hagyományos iszlám imahely és fontos építészeti látványosság Gharyanban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01524,
+                        32.140632
+                  ]
+            },
+            {
+                  "name": "OTHMANIC GOVERNOR CASTLE since 1510",
+                  "text": "Az 1510-ben alapított oszmán kormányzói vár masszív erődítményként magasodik Gharyan városa fölé.",
+                  "category": "castle",
+                  "coords": [
+                        13.00392,
+                        32.170668
+                  ]
+            },
+            {
+                  "name": "Martyred square \"Emilio De bono- Ex known name",
+                  "text": "A Mártírok tere nevű kilátópontról nagyszerű rálátás nyílik Gharyan városi életére és épületeire.",
+                  "category": "natural",
+                  "coords": [
+                        13.006682,
+                        32.16896
+                  ]
+            },
+            {
+                  "name": "Fc. Ittihad Garian Building",
+                  "text": "Az FC Ittihad Garian épülete a helyi sportrajongók fontos központja és létesítménye a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01161,
+                        32.168806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque of Brascisci",
+                  "text": "Moscheea Brascisci este un locaș de cult islamic tradițional și un punct de reper arhitectural în Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01524,
+                        32.140632
+                  ]
+            },
+            {
+                  "name": "OTHMANIC GOVERNOR CASTLE since 1510",
+                  "text": "Castelul guvernatorului otoman, atestat din 1510, este o fortificație impunătoare din piatră în Gharyan.",
+                  "category": "castle",
+                  "coords": [
+                        13.00392,
+                        32.170668
+                  ]
+            },
+            {
+                  "name": "Martyred square \"Emilio De bono- Ex known name",
+                  "text": "Punctul de belvedere de la Piața Martirilor oferă perspective asupra activității urbane și istoriei din Gharyan.",
+                  "category": "natural",
+                  "coords": [
+                        13.006682,
+                        32.16896
+                  ]
+            },
+            {
+                  "name": "Fc. Ittihad Garian Building",
+                  "text": "Clădirea FC Ittihad Garian servește drept centru sportiv local și punct de întâlnire pentru comunitatea din Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01161,
+                        32.168806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque of Brascisci",
+                  "text": "The Mosque of Brascisci is a traditional Islamic place of worship and architectural landmark in Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01524,
+                        32.140632
+                  ]
+            },
+            {
+                  "name": "OTHMANIC GOVERNOR CASTLE since 1510",
+                  "text": "The Othmanic Governor Castle, dating back to 1510, is a commanding stone fortress in Gharyan.",
+                  "category": "castle",
+                  "coords": [
+                        13.00392,
+                        32.170668
+                  ]
+            },
+            {
+                  "name": "Martyred square \"Emilio De bono- Ex known name",
+                  "text": "The viewpoint at the Martyred square in Gharyan offers perspectives on the urban layout and city history.",
+                  "category": "natural",
+                  "coords": [
+                        13.006682,
+                        32.16896
+                  ]
+            },
+            {
+                  "name": "Fc. Ittihad Garian Building",
+                  "text": "The Fc. Ittihad Garian Building serves as a local sports facility and community hub in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        13.01161,
+                        32.168806
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JG",
     coords: [13.0167, 32.1667],
@@ -4198,7 +4612,88 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "surman-cities-v2",
+    id: "surman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surman municipal Museum",
+                  "text": "Das städtische Museum von Surman beherbergt Exponate zur regionalen libyschen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        12.575037,
+                        32.754838
+                  ]
+            },
+            {
+                  "name": "Cultural Centre of Surman",
+                  "text": "Das Kulturzentrum von Surman ist ein lebendiger Treffpunkt für Kunstausstellungen und städtische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568052,
+                        32.761413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surman municipal Museum",
+                  "text": "A surmani városi múzeum a régió líbiai történelmi és kulturális emlékeit mutatja be a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        12.575037,
+                        32.754838
+                  ]
+            },
+            {
+                  "name": "Cultural Centre of Surman",
+                  "text": "A surmani kulturális központ művészeti kiállítások és városi közösségi rendezvények élénk találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568052,
+                        32.761413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surman municipal Museum",
+                  "text": "Muzeul municipal din Surman găzduiește exponate ce ilustrează istoria și cultura regională libiană.",
+                  "category": "museum",
+                  "coords": [
+                        12.575037,
+                        32.754838
+                  ]
+            },
+            {
+                  "name": "Cultural Centre of Surman",
+                  "text": "Centrul Cultural din Surman găzduiește expoziții de artă și evenimente pentru comunitatea urbană.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568052,
+                        32.761413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surman municipal Museum",
+                  "text": "The Surman municipal Museum houses exhibits detailing the regional Libyan history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        12.575037,
+                        32.754838
+                  ]
+            },
+            {
+                  "name": "Cultural Centre of Surman",
+                  "text": "The Cultural Centre of Surman is an urban hub for art exhibitions and community events in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568052,
+                        32.761413
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-ZA",
     coords: [12.5714, 32.7567],
@@ -4606,7 +5101,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "murzuq-cities-v2",
+    id: "murzuq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "al nazlah",
+                  "text": "Al Nazlah ist eine lokale Wüstensiedlung, welche die traditionelle Architektur der Sahara-Oasen präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.916795,
+                        25.925028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "al nazlah",
+                  "text": "Az Al Nazlah egy helyi sivatagi település, amely a hagyományos szaharai oázis építészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        13.916795,
+                        25.925028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "al nazlah",
+                  "text": "Al Nazlah este o așezare locală din deșert care prezintă arhitectura tradițională a oazelor din Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        13.916795,
+                        25.925028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "al nazlah",
+                  "text": "Al Nazlah is a local desert settlement showcasing traditional Saharan oasis architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        13.916795,
+                        25.925028
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-MQ",
     coords: [13.9167, 25.9167],
@@ -7406,7 +7946,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "suluq-cities-v2",
+    id: "suluq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Center district",
+                  "text": "Das belebte geschäftliche und bürgerliche Zentrum von Suluq, das von lokalen Geschäften und städtischen Gebäuden geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250014,
+                        31.664098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Center district",
+                  "text": "Suluq nyüzsgő kereskedelmi és civil központja, amelyet helyi üzletek és önkormányzati épületek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250014,
+                        31.664098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Center district",
+                  "text": "Inima comercială și civică plină de viață a orașului Suluq, caracterizată prin magazine locale și clădiri municipale.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250014,
+                        31.664098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Center district",
+                  "text": "The bustling commercial and civic heart of Suluq, characterized by local shops and municipal buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250014,
+                        31.664098
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-BA",
     coords: [20.2500, 31.6667],
@@ -8409,7 +8994,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "al-ajaylat-cities-v2",
+    id: "al-ajaylat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "AL TAYASH Palace",
+                  "text": "Der AL TAYASH Palast ist ein markanter Festungsbau, der die lokale traditionelle Architektur in Al Ajaylat prägt.",
+                  "category": "castle",
+                  "coords": [
+                        12.377114,
+                        32.763874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AL TAYASH Palace",
+                  "text": "Az AL TAYASH Palota egy erődítményszerű épület, amely meghatározza Al Ajaylat helyi hagyományos építészetét.",
+                  "category": "castle",
+                  "coords": [
+                        12.377114,
+                        32.763874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AL TAYASH Palace",
+                  "text": "Palatul AL TAYASH este o fortificație impunătoare ce reflectă arhitectura tradițională locală din Al Ajaylat.",
+                  "category": "castle",
+                  "coords": [
+                        12.377114,
+                        32.763874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AL TAYASH Palace",
+                  "text": "AL TAYASH Palace is an imposing castle-like structure showcasing local traditional architecture in Al Ajaylat.",
+                  "category": "castle",
+                  "coords": [
+                        12.377114,
+                        32.763874
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-ZA",
     coords: [12.3789, 32.7561],

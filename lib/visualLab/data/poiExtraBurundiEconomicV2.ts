@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraBurundiEconomicV2: POI[] = [
   {
-    id: "brarudi-brauerei-economic-v2",
+    id: "brarudi-brauerei-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Bujumbura",
+                  "text": "Der Plage de Bujumbura ist ein beliebter Sandstrand an den Ufern des Tanganjikasees, der Entspannung am See und malerische Sonnenuntergänge bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.347433,
+                        -3.379781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Bujumbura",
+                  "text": "A Plage de Bujumbura egy népszerű homokos partszakasz a Tanganyika-tó partján, amely vízparti pihenést és festői naplementét kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        29.347433,
+                        -3.379781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Bujumbura",
+                  "text": "Plage de Bujumbura este o porțiune populară de nisip situată de-a lungul țărmurilor Lacului Tanganyika, oferind relaxare pe malul lacului și priveliști pitorești la apus.",
+                  "category": "recreational",
+                  "coords": [
+                        29.347433,
+                        -3.379781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Bujumbura",
+                  "text": "Plage de Bujumbura is a popular sandy stretch situated along the shores of Lake Tanganyika, offering lakeside relaxation and scenic sunset views.",
+                  "category": "recreational",
+                  "coords": [
+                        29.347433,
+                        -3.379781
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BI-BM",
     coords: [29.352, -3.372],
@@ -51,7 +96,52 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     }
   },
   {
-    id: "sosumo-zuckerfabrik-economic-v2",
+    id: "sosumo-zuckerfabrik-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirotsa",
+                  "text": "Der Aussichtspunkt Kirotsa bietet einen direkten Blick auf die Industrielandschaft und die landwirtschaftlichen Abläufe der nahegelegenen Zuckerfabrik Sosumo.",
+                  "category": "natural",
+                  "coords": [
+                        30.126431,
+                        -3.896074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kirotsa",
+                  "text": "A Kirotsa kilátó közvetlen rálátást biztosít a közeli Sosumo cukorgyár ipari tájára és mezőgazdasági műveleteire.",
+                  "category": "natural",
+                  "coords": [
+                        30.126431,
+                        -3.896074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kirotsa",
+                  "text": "Punctul de belvedere Kirotsa oferă o privire directă asupra peisajului industrial și a operațiunilor agricole ale fabricii de zahăr Sosumo din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        30.126431,
+                        -3.896074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kirotsa",
+                  "text": "The Kirotsa viewpoint provides a direct look over the industrial landscape and agricultural operations of the nearby Sosumo sugar factory.",
+                  "category": "natural",
+                  "coords": [
+                        30.126431,
+                        -3.896074
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BI-RT",
     coords: [30.155, -3.955],
@@ -99,7 +189,52 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     }
   },
   {
-    id: "buceco-zementwerk-economic-v2",
+    id: "buceco-zementwerk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kwa Johnson Chez Johnson",
+                  "text": "Kwa Johnson Chez Johnson ist eine lebhafte lokale Attraktion und ein Gastronomiebetrieb, der für sein authentisches Gemeinschaftserlebnis bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.394326,
+                        -3.354628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwa Johnson Chez Johnson",
+                  "text": "A Kwa Johnson Chez Johnson egy nyüzsgő helyi látványosság és vendéglátóhely, amely autentikus közösségi élményt kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        29.394326,
+                        -3.354628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwa Johnson Chez Johnson",
+                  "text": "Kwa Johnson Chez Johnson este o atracție locală vibrantă și un loc de ospitalitate cunoscut pentru oferirea unei experiențe comunitare autentice.",
+                  "category": "landmark",
+                  "coords": [
+                        29.394326,
+                        -3.354628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwa Johnson Chez Johnson",
+                  "text": "Kwa Johnson Chez Johnson is a vibrant local attraction and hospitality spot known for offering an authentic community experience.",
+                  "category": "landmark",
+                  "coords": [
+                        29.394326,
+                        -3.354628
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BI-BM",
     coords: [29.385, -3.355],
@@ -147,7 +282,88 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     },
   },
   {
-    id: "afritextile-fabrik-economic-v2",
+    id: "afritextile-fabrik-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du soldat inconu",
+                  "text": "Ein feierliches Denkmal für ungenannte gefallene Soldaten in der Nähe der Afritextile-Fabrik.",
+                  "category": "historical",
+                  "coords": [
+                        29.36597,
+                        -3.392443
+                  ]
+            },
+            {
+                  "name": "Cathédrale Regina Mundi",
+                  "text": "Bujumburas katholische Hauptkathedrale, die sich durch ihr modernes architektonisches Design und das große Mittelschiff auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        29.363769,
+                        -3.392153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du soldat inconu",
+                  "text": "Az Afritextile gyár közelében található, névtelenül elesett katonáknak szentelt ünnepélyes emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        29.36597,
+                        -3.392443
+                  ]
+            },
+            {
+                  "name": "Cathédrale Regina Mundi",
+                  "text": "Bujumbura fő katolikus katedrálisa, amelyet modern építészeti dizájnja és hatalmas középhajója tesz különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        29.363769,
+                        -3.392153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du soldat inconu",
+                  "text": "Un memorial solemn dedicat soldaților căzuți anonimi, situat în vecinătatea fabricii Afritextile.",
+                  "category": "historical",
+                  "coords": [
+                        29.36597,
+                        -3.392443
+                  ]
+            },
+            {
+                  "name": "Cathédrale Regina Mundi",
+                  "text": "Principala catedrală catolică din Bujumbura, distinsă prin designul său arhitectural modern și nava centrală mare.",
+                  "category": "religious",
+                  "coords": [
+                        29.363769,
+                        -3.392153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du soldat inconu",
+                  "text": "A solemn memorial dedicated to unnamed fallen soldiers, located in the vicinity of the Afritextile factory.",
+                  "category": "historical",
+                  "coords": [
+                        29.36597,
+                        -3.392443
+                  ]
+            },
+            {
+                  "name": "Regina Mundi Cathedral",
+                  "text": "Bujumbura's main Catholic cathedral, distinguished by its modern architectural design and large central nave.",
+                  "category": "religious",
+                  "coords": [
+                        29.363769,
+                        -3.392153
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BI-BM",
     coords: [29.365, -3.395],

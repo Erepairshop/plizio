@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraSwazilandNatureV2: POI[] = [
   {
-    id: "emlembe-nature-v2",
+    id: "emlembe-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ida Doyer Nature Reserve",
+                  "text": "Das Ida Doyer Nature Reserve schützt ein wichtiges bergiges Ökosystem und ist besonders für die Erhaltung einer seltenen einheimischen Palmfarnart bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        31.113611,
+                        -25.883889
+                  ]
+            },
+            {
+                  "name": "Emlembe",
+                  "text": "Der Emlembe ist der höchste Berg in Eswatini, liegt an der Grenze zu Südafrika und bietet einen weiten Blick auf die Makhonjwa-Berge.",
+                  "category": "natural",
+                  "coords": [
+                        31.126731,
+                        -25.921263
+                  ]
+            },
+            {
+                  "name": "Shokhohlwa",
+                  "text": "Der schroffe Gipfel des Shokhohlwa ist Teil des uralten, dramatisch gefalteten Grünsteingürtels der Region.",
+                  "category": "natural",
+                  "coords": [
+                        31.04,
+                        -25.8658
+                  ]
+            },
+            {
+                  "name": "Masenjane",
+                  "text": "Der Masenjane ist ein schroffer Hochlandgipfel, der abenteuerlustigen Wanderern einen anspruchsvollen Aufstieg durch unberührte Bergflora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.1058,
+                        -25.86
+                  ]
+            },
+            {
+                  "name": "Oosterbeek Nature Reserve",
+                  "text": "Das Oosterbeek Nature Reserve ist ein ruhiges Schutzgebiet, das durch sein hügeliges Terrain und einheimische Waldstücke gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.027995,
+                        -25.875367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ida Doyer Nature Reserve",
+                  "text": "Az Ida Doyer Természetvédelmi Terület egy létfontosságú hegyvidéki ökoszisztémát véd, és különösen egy ritka őshonos cikászfaj megőrzéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        31.113611,
+                        -25.883889
+                  ]
+            },
+            {
+                  "name": "Emlembe",
+                  "text": "Az Emlembe Szváziföld legmagasabb hegye, amely a dél-afrikai határon fekszik, és pazar kilátást nyújt a Makhonjwa-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        31.126731,
+                        -25.921263
+                  ]
+            },
+            {
+                  "name": "Shokhohlwa",
+                  "text": "A Shokhohlwa sziklás csúcsa a régió ősi, drámaian meggyűrődött zöldkő-övezetének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        31.04,
+                        -25.8658
+                  ]
+            },
+            {
+                  "name": "Masenjane",
+                  "text": "A Masenjane egy zord felvidéki csúcs, amely a kalandvágyó túrázóknak kihívást jelentő mászást kínál az érintetlen hegyvidéki növényvilágon keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        31.1058,
+                        -25.86
+                  ]
+            },
+            {
+                  "name": "Oosterbeek Nature Reserve",
+                  "text": "Az Oosterbeek Természetvédelmi Terület egy békés védett menedékhely, amelyet hullámzó domborzat és őshonos erdőfoltok jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        31.027995,
+                        -25.875367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ida Doyer Nature Reserve",
+                  "text": "Rezervația Naturală Ida Doyer protejează un ecosistem montan vital, fiind cunoscută în special pentru conservarea unei specii rare de cicadee indigene.",
+                  "category": "natural",
+                  "coords": [
+                        31.113611,
+                        -25.883889
+                  ]
+            },
+            {
+                  "name": "Emlembe",
+                  "text": "Emlembe este cel mai înalt munte din Eswatini, situat la granița cu Africa de Sud, oferind vederi panoramice ale Munților Makhonjwa.",
+                  "category": "natural",
+                  "coords": [
+                        31.126731,
+                        -25.921263
+                  ]
+            },
+            {
+                  "name": "Shokhohlwa",
+                  "text": "Vârful stâncos Shokhohlwa face parte din centura antică de roci verzi, dramatic cutată a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        31.04,
+                        -25.8658
+                  ]
+            },
+            {
+                  "name": "Masenjane",
+                  "text": "Masenjane este un vârf montan accidentat, oferind drumeților aventuroși o ascensiune provocatoare prin flora montană imaculată.",
+                  "category": "natural",
+                  "coords": [
+                        31.1058,
+                        -25.86
+                  ]
+            },
+            {
+                  "name": "Oosterbeek Nature Reserve",
+                  "text": "Rezervația Naturală Oosterbeek este un sanctuar protejat senin, caracterizat prin terenul său ondulat și petice de pădure indigenă.",
+                  "category": "natural",
+                  "coords": [
+                        31.027995,
+                        -25.875367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ida Doyer Nature Reserve",
+                  "text": "The Ida Doyer Nature Reserve protects a vital mountainous ecosystem, particularly known for preserving a rare species of indigenous cycad.",
+                  "category": "natural",
+                  "coords": [
+                        31.113611,
+                        -25.883889
+                  ]
+            },
+            {
+                  "name": "Emlembe",
+                  "text": "Emlembe stands as the highest mountain in Eswatini, straddling the border with South Africa and offering sweeping views of the Makhonjwa Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        31.126731,
+                        -25.921263
+                  ]
+            },
+            {
+                  "name": "Shokhohlwa",
+                  "text": "The craggy summit of Shokhohlwa forms part of the ancient, dramatically folded greenstone belt of the region.",
+                  "category": "natural",
+                  "coords": [
+                        31.04,
+                        -25.8658
+                  ]
+            },
+            {
+                  "name": "Masenjane",
+                  "text": "Masenjane is a rugged highland peak offering adventurous hikers a challenging ascent through pristine montane flora.",
+                  "category": "natural",
+                  "coords": [
+                        31.1058,
+                        -25.86
+                  ]
+            },
+            {
+                  "name": "Oosterbeek Nature Reserve",
+                  "text": "Oosterbeek Nature Reserve is a serene protected sanctuary characterized by its undulating terrain and indigenous forest patches.",
+                  "category": "natural",
+                  "coords": [
+                        31.027995,
+                        -25.875367
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SZ-HH",
     coords: [31.1167, -25.9167],
@@ -47,7 +236,124 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "sibebe-rock-nature-v2",
+    id: "sibebe-rock-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sibebe Cave",
+                  "text": "Diese natürliche Höhlenformation schmiegt sich in die massive Granitkuppe des Sibebe Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174799,
+                        -26.261834
+                  ]
+            },
+            {
+                  "name": "Ngubhela Cave",
+                  "text": "Eine malerische natürliche Höhle an den zerklüfteten Hängen des Monolithen Sibebe in Eswatini.",
+                  "category": "landmark",
+                  "coords": [
+                        31.175701,
+                        -26.263803
+                  ]
+            },
+            {
+                  "name": "Sibebe Rock",
+                  "text": "Dieses hoch aufragende Wahrzeichen von Eswatini ist als zweitgrößter freiliegender Granitpluton der Welt bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168942,
+                        -26.263738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sibebe Cave",
+                  "text": "Ez a természetes barlangképződmény a Sibebe Rock hatalmas gránitkupolájában található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174799,
+                        -26.261834
+                  ]
+            },
+            {
+                  "name": "Ngubhela Cave",
+                  "text": "Festői természetes barlang az eswatini Sibebe monolit zord lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        31.175701,
+                        -26.263803
+                  ]
+            },
+            {
+                  "name": "Sibebe Rock",
+                  "text": "Eswatini tornyosuló nevezetessége a világ második legnagyobb felszínre került gránit plutonjaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168942,
+                        -26.263738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sibebe Cave",
+                  "text": "Această formațiune naturală de peșteră este cuibărită în domul masiv de granit al Sibebe Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174799,
+                        -26.261834
+                  ]
+            },
+            {
+                  "name": "Ngubhela Cave",
+                  "text": "O peșteră naturală pitorească situată de-a lungul pantelor accidentate ale monolitului Sibebe din Eswatini.",
+                  "category": "landmark",
+                  "coords": [
+                        31.175701,
+                        -26.263803
+                  ]
+            },
+            {
+                  "name": "Sibebe Rock",
+                  "text": "Acest punct de reper impunător din Eswatini este renumit drept al doilea cel mai mare pluton de granit expus din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168942,
+                        -26.263738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sibebe Cave",
+                  "text": "This natural cave formation is nestled within the massive granite dome of Sibebe Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.174799,
+                        -26.261834
+                  ]
+            },
+            {
+                  "name": "Ngubhela Cave",
+                  "text": "A scenic natural cave located along the rugged slopes of the Eswatini Sibebe monolith.",
+                  "category": "landmark",
+                  "coords": [
+                        31.175701,
+                        -26.263803
+                  ]
+            },
+            {
+                  "name": "Sibebe Rock",
+                  "text": "This towering Eswatini landmark is renowned as the second-largest exposed granite pluton in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168942,
+                        -26.263738
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SZ-HH",
     coords: [31.1667, -26.25],
@@ -135,7 +441,88 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "komati-river-nature-v2",
+    id: "komati-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nsangwini Rock Art",
+                  "text": "Die Stätte Nsangwini Rock Art zeigt alte, lebendige Felsmalereien der San-Buschmänner, die Jagdszenen und spirituelle Figuren auf einer massiven Felswand darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.292655,
+                        -26.069631
+                  ]
+            },
+            {
+                  "name": "The Gap",
+                  "text": "The Gap ist eine markante geologische Formation, bei der sich ein mächtiger Fluss dramatisch seinen Weg durch eine schmale Spalte im massiven Fels bahnt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.305995,
+                        -26.08446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nsangwini Rock Art",
+                  "text": "A Nsangwini sziklarajz-menedékhelyen a szan busmanok ősi, élénk festményei láthatók, amelyek vadászjeleneteket és spirituális alakokat ábrázolnak egy hatalmas sziklafalon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.292655,
+                        -26.069631
+                  ]
+            },
+            {
+                  "name": "The Gap",
+                  "text": "A The Gap nevű hasadék egy feltűnő geológiai képződmény, ahol egy sebes folyó drámai módon tör utat magának a tömör szikla egy szűk résén keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        31.305995,
+                        -26.08446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nsangwini Rock Art",
+                  "text": "Adăpostul de artă rupestră Nsangwini prezintă picturi antice și vibrante ale boșimanilor San, care înfățișează scene de vânătoare și figuri spirituale pe un perete de stâncă masiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.292655,
+                        -26.069631
+                  ]
+            },
+            {
+                  "name": "The Gap",
+                  "text": "The Gap este o formațiune geologică izbitoare, unde un râu puternic își face loc în mod dramatic printr-o crăpătură îngustă în stânca solidă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.305995,
+                        -26.08446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nsangwini Rock Art",
+                  "text": "The Nsangwini Rock Art shelter features ancient, vibrant San bushman paintings that depict hunting scenes and spiritual figures on a massive rock face.",
+                  "category": "landmark",
+                  "coords": [
+                        31.292655,
+                        -26.069631
+                  ]
+            },
+            {
+                  "name": "The Gap",
+                  "text": "The Gap is a striking geological formation where a powerful river dramatically forces its way through a narrow cleft in the solid rock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.305995,
+                        -26.08446
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SZ-HH",
     coords: [31.3, -26.0],
@@ -223,7 +610,52 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "ngwempisi-river-nature-v2",
+    id: "ngwempisi-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Etjebovu view point",
+                  "text": "Der Aussichtspunkt Etjebovu bietet ein weites Panorama über die üppige Schlucht des Ngwempisi-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        31.185772,
+                        -26.696132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Etjebovu view point",
+                  "text": "Az Etjebovu kilátó lenyűgöző panorámát nyújt a buja Ngwempisi-folyó szurdokára.",
+                  "category": "natural",
+                  "coords": [
+                        31.185772,
+                        -26.696132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Etjebovu view point",
+                  "text": "Punctul de belvedere Etjebovu oferă o panoramă vastă asupra defileului luxuriant al râului Ngwempisi.",
+                  "category": "natural",
+                  "coords": [
+                        31.185772,
+                        -26.696132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Etjebovu view point",
+                  "text": "The Etjebovu view point provides breathtaking, elevated panoramas over the deep Ngwempisi River gorge.",
+                  "category": "natural",
+                  "coords": [
+                        31.185772,
+                        -26.696132
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SZ-MA",
     coords: [31.2, -26.7],
@@ -443,7 +875,52 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "sand-river-dam-nature-v2",
+    id: "sand-river-dam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "Dieses geschützte Naturreservat bewahrt die lebenswichtigen aquatischen Ökosysteme in der Nähe des Sand River Dam.",
+                  "category": "natural",
+                  "coords": [
+                        31.846178,
+                        -25.92624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "Ez a védett természetvédelmi terület a Sand River gát körüli létfontosságú vízi ökoszisztémákat óvja.",
+                  "category": "natural",
+                  "coords": [
+                        31.846178,
+                        -25.92624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "Această rezervație naturală protejată conservă ecosistemele acvatice vitale din apropierea barajului Sand River.",
+                  "category": "natural",
+                  "coords": [
+                        31.846178,
+                        -25.92624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "This protected nature reserve preserves the vital aquatic ecosystems near the Sand River Dam.",
+                  "category": "natural",
+                  "coords": [
+                        31.846178,
+                        -25.92624
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SZ-LU",
     coords: [31.8, -25.9],
@@ -531,7 +1008,52 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "shewula-forest-nature-v2",
+    id: "shewula-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "Das Zuckerrohrmuseum zeigt Ausstellungen, die die Agrargeschichte und die Verarbeitung von Zuckerrohr detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        31.921702,
+                        -26.105504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "A Cukornád Múzeum kiállításai a cukornád mezőgazdasági történetét és feldolgozását mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        31.921702,
+                        -26.105504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "Muzeul Trestei de Zahăr prezintă expoziții care detaliază istoria agricolă și prelucrarea trestiei de zahăr.",
+                  "category": "museum",
+                  "coords": [
+                        31.921702,
+                        -26.105504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "The Sugar Cane Museum features exhibits detailing the agricultural history and processing of sugarcane.",
+                  "category": "museum",
+                  "coords": [
+                        31.921702,
+                        -26.105504
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SZ-LU",
     coords: [31.98, -26.1],
@@ -575,7 +1097,124 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "malolotja-mountains-nature-v2",
+    id: "malolotja-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Silotfwane Viewpoint",
+                  "text": "Der Aussichtspunkt Silotfwane blickt auf das hochgelegene Grasland und die tiefen Flussschluchten des Malolotja Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        31.112512,
+                        -26.107315
+                  ]
+            },
+            {
+                  "name": "Nkomati Viewpoint",
+                  "text": "Der Aussichtspunkt Nkomati bietet dramatische Ausblicke auf den Nkomati-Fluss, der sich durch das schroffe Bergland schneidet.",
+                  "category": "natural",
+                  "coords": [
+                        31.132723,
+                        -26.084903
+                  ]
+            },
+            {
+                  "name": "Malolotja Nature Reserve",
+                  "text": "Das Malolotja Nature Reserve ist ein riesiges Wildnisgebiet, das für seine uralten Felsformationen, seltene Pflanzenarten und die imposanten Malolotja-Wasserfälle bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.089406,
+                        -26.098804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silotfwane Viewpoint",
+                  "text": "A Silotfwane kilátóról a Malolotja Természetvédelmi Terület magaslati füves pusztáira és mély folyószurdokaira nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        31.112512,
+                        -26.107315
+                  ]
+            },
+            {
+                  "name": "Nkomati Viewpoint",
+                  "text": "Az Nkomati kilátóból lenyűgöző kilátás nyílik az Nkomati folyóra, ahogy utat tör magának a zord hegyvidéki terepen.",
+                  "category": "natural",
+                  "coords": [
+                        31.132723,
+                        -26.084903
+                  ]
+            },
+            {
+                  "name": "Malolotja Nature Reserve",
+                  "text": "A Malolotja Természetvédelmi Terület egy hatalmas vadon, amely ősi sziklaképződményeiről, ritka növényvilágáról és a magasba törő Malolotja-vízesésről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        31.089406,
+                        -26.098804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silotfwane Viewpoint",
+                  "text": "Punctul de belvedere Silotfwane oferă o vedere spre pajiștile de mare altitudine și defileele adânci ale râurilor din Rezervația Naturală Malolotja.",
+                  "category": "natural",
+                  "coords": [
+                        31.112512,
+                        -26.107315
+                  ]
+            },
+            {
+                  "name": "Nkomati Viewpoint",
+                  "text": "Punctul de belvedere Nkomati oferă priveliști spectaculoase ale râului Nkomati, care străbate terenul montan accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        31.132723,
+                        -26.084903
+                  ]
+            },
+            {
+                  "name": "Malolotja Nature Reserve",
+                  "text": "Rezervația Naturală Malolotja este o zonă sălbatică vastă, cunoscută pentru formațiunile sale stâncoase antice, flora rară și cascada impunătoare Malolotja.",
+                  "category": "natural",
+                  "coords": [
+                        31.089406,
+                        -26.098804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silotfwane Viewpoint",
+                  "text": "Silotfwane Viewpoint overlooks the high-altitude grasslands and deep river gorges of the Malolotja Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        31.112512,
+                        -26.107315
+                  ]
+            },
+            {
+                  "name": "Nkomati Viewpoint",
+                  "text": "The Nkomati Viewpoint provides dramatic vistas of the Nkomati River as it cuts through the rugged mountain terrain.",
+                  "category": "natural",
+                  "coords": [
+                        31.132723,
+                        -26.084903
+                  ]
+            },
+            {
+                  "name": "Malolotja Nature Reserve",
+                  "text": "Malolotja Nature Reserve is a vast wilderness area known for its ancient rock formations, rare flora, and the towering Malolotja Falls.",
+                  "category": "natural",
+                  "coords": [
+                        31.089406,
+                        -26.098804
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SZ-HH",
     coords: [31.1, -26.1],
@@ -707,7 +1346,160 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "mantenga-falls-nature-v2",
+    id: "mantenga-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sheba’s summit 1171m",
+                  "text": "Sheba’s Summit bietet von seiner Höhe von 1171 Metern atemberaubende Ausblicke über die Region Mantenga.",
+                  "category": "natural",
+                  "coords": [
+                        31.168697,
+                        -26.430677
+                  ]
+            },
+            {
+                  "name": "Mantenga Falls",
+                  "text": "Die Mantenga Falls sind ein spektakulärer Wasserfall, der in einem üppigen Naturschutzgebiet in ein malerisches Becken stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.159053,
+                        -26.442332
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife Sanctuary",
+                  "text": "Das Mlilwane Wildlife Sanctuary ist das älteste Naturschutzgebiet Eswatinis, in dem Besucher frei grasende Antilopen und Zebras in einem ruhigen Tal beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        31.154807,
+                        -26.436697
+                  ]
+            },
+            {
+                  "name": "Mantenga Nature Reserve",
+                  "text": "Das Mantenga Nature Reserve schützt ein üppiges, bewaldetes Tal, in dem sich die malerischen Mantenga-Wasserfälle befinden.",
+                  "category": "natural",
+                  "coords": [
+                        31.156224,
+                        -26.436036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheba’s summit 1171m",
+                  "text": "A Sheba hegycsúcs 1171 méteres tengerszint feletti magasságból kínál lélegzetelállító kilátást a Mantenga régióra.",
+                  "category": "natural",
+                  "coords": [
+                        31.168697,
+                        -26.430677
+                  ]
+            },
+            {
+                  "name": "Mantenga Falls",
+                  "text": "A Mantenga Falls egy látványos vízesés, amely egy buja természetvédelmi terület festői medencéjébe zuhan.",
+                  "category": "landmark",
+                  "coords": [
+                        31.159053,
+                        -26.442332
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife Sanctuary",
+                  "text": "A Mlilwane Vadvédelmi Terület Szváziföld legrégebbi védett területe, ahol a látogatók szabadon kószáló antilopokat és zebrákat figyelhetnek meg egy nyugodt völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        31.154807,
+                        -26.436697
+                  ]
+            },
+            {
+                  "name": "Mantenga Nature Reserve",
+                  "text": "A Mantenga Természetvédelmi Terület egy buja, erdős völgyet véd, ahol a festői Mantenga-vízesés is található.",
+                  "category": "natural",
+                  "coords": [
+                        31.156224,
+                        -26.436036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sheba’s summit 1171m",
+                  "text": "Vârful Sheba oferă priveliști uluitoare de la o altitudine de 1171 metri deasupra regiunii Mantenga.",
+                  "category": "natural",
+                  "coords": [
+                        31.168697,
+                        -26.430677
+                  ]
+            },
+            {
+                  "name": "Mantenga Falls",
+                  "text": "Cascada Mantenga este o cădere de apă spectaculoasă, care se varsă într-un bazin pitoresc, în mijlocul unei rezervații luxuriante.",
+                  "category": "landmark",
+                  "coords": [
+                        31.159053,
+                        -26.442332
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife Sanctuary",
+                  "text": "Sanctuarul faunei sălbatice Mlilwane este cea mai veche arie protejată din Eswatini, oferind vizitatorilor șansa de a vedea antilope și zebre în libertate într-o vale liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        31.154807,
+                        -26.436697
+                  ]
+            },
+            {
+                  "name": "Mantenga Nature Reserve",
+                  "text": "Rezervația naturală Mantenga protejează o vale împădurită luxuriantă care găzduiește pitoreasca cascadă Mantenga.",
+                  "category": "natural",
+                  "coords": [
+                        31.156224,
+                        -26.436036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheba’s summit - 1171m",
+                  "text": "Sheba’s summit is a commanding viewpoint that reaches an impressive elevation of 1171 metres above the rocky terrain.",
+                  "category": "natural",
+                  "coords": [
+                        31.168697,
+                        -26.430677
+                  ]
+            },
+            {
+                  "name": "Mantenga Falls",
+                  "text": "Mantenga Falls is a dramatic waterfall attraction that cascades heavily over jagged rocks into a deep river pool.",
+                  "category": "landmark",
+                  "coords": [
+                        31.159053,
+                        -26.442332
+                  ]
+            },
+            {
+                  "name": "Mlilwane Wildlife Sanctuary",
+                  "text": "The Mlilwane Wildlife Sanctuary is Eswatini's oldest protected area, offering visitors a chance to see free-roaming antelopes and zebras in a serene valley setting.",
+                  "category": "natural",
+                  "coords": [
+                        31.154807,
+                        -26.436697
+                  ]
+            },
+            {
+                  "name": "Mantenga Nature Reserve",
+                  "text": "Mantenga Nature Reserve protects a lush forested valley that features the picturesque Mantenga Falls.",
+                  "category": "natural",
+                  "coords": [
+                        31.156224,
+                        -26.436036
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SZ-MA",
     coords: [31.18, -26.44],
@@ -883,7 +1675,52 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "mlumati-river-nature-v2",
+    id: "mlumati-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Angle Ridge Nature Reserve",
+                  "text": "Dieses geschützte Naturreservat umfasst das unwegsame Gelände und die Uferzonen entlang des Mlumati-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        31.149754,
+                        -25.826693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Angle Ridge Nature Reserve",
+                  "text": "Ez a védett természetvédelmi terület a Mlumati-folyó menti zord terepet és part menti övezeteket foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        31.149754,
+                        -25.826693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Angle Ridge Nature Reserve",
+                  "text": "Această rezervație naturală protejată cuprinde terenul accidentat și zonele riverane de-a lungul râului Mlumati.",
+                  "category": "natural",
+                  "coords": [
+                        31.149754,
+                        -25.826693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Angle Ridge Nature Reserve",
+                  "text": "This protected nature reserve encompasses the rugged terrain and riparian zones along the Mlumati River.",
+                  "category": "natural",
+                  "coords": [
+                        31.149754,
+                        -25.826693
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SZ-HH",
     coords: [31.2, -25.8],
@@ -927,7 +1764,88 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "pongola-river-nature-v2",
+    id: "pongola-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shayamoya",
+                  "text": "Shayamoya ist ein malerisches Naturschutzgebiet, das sich durch seine weiten Buschfeldlandschaften und einheimischen Wildtiere auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        31.816435,
+                        -27.353344
+                  ]
+            },
+            {
+                  "name": "Harloo Game Reserve",
+                  "text": "Das Harloo Game Reserve ist ein ruhiges Wildnisgebiet, das sich auf die Erhaltung des natürlichen Ökosystems und der lokalen Tierpopulationen konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        31.811884,
+                        -27.333485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shayamoya",
+                  "text": "A Shayamoya egy festői természetvédelmi terület, amelyet kiterjedt bozótos környezete és őshonos vadvidéke jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        31.816435,
+                        -27.353344
+                  ]
+            },
+            {
+                  "name": "Harloo Game Reserve",
+                  "text": "A Harloo Game Reserve egy csendes vadonbéli menedékhely, amely a természetes ökoszisztéma és a helyi állatállományok megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        31.811884,
+                        -27.333485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shayamoya",
+                  "text": "Shayamoya este o rezervație naturală pitorească, caracterizată prin mediile sale extinse de savană și fauna sălbatică indigenă.",
+                  "category": "natural",
+                  "coords": [
+                        31.816435,
+                        -27.353344
+                  ]
+            },
+            {
+                  "name": "Harloo Game Reserve",
+                  "text": "Rezervația de Vânătoare Harloo este un refugiu liniștit de sălbăticie, axat pe conservarea ecosistemului natural și a populațiilor de animale locale.",
+                  "category": "natural",
+                  "coords": [
+                        31.811884,
+                        -27.333485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shayamoya",
+                  "text": "Shayamoya is a scenic nature reserve characterized by its expansive bushveld environments and indigenous wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        31.816435,
+                        -27.353344
+                  ]
+            },
+            {
+                  "name": "Harloo Game Reserve",
+                  "text": "Harloo Game Reserve is a tranquil wilderness haven focused on preserving the natural ecosystem and local animal populations.",
+                  "category": "natural",
+                  "coords": [
+                        31.811884,
+                        -27.333485
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SZ-SH",
     coords: [31.8, -27.3],
@@ -971,7 +1889,52 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     },
   },
   {
-    id: "ngwenya-mountain-nature-v2",
+    id: "ngwenya-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lion Cave",
+                  "text": "Die Löwenhöhle (Lion Cave) ist eine alte archäologische Stätte, die einige der ältesten bekannten Beweise für Pigmentabbau birgt.",
+                  "category": "historical",
+                  "coords": [
+                        31.030626,
+                        -26.192306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lion Cave",
+                  "text": "A Lion Cave egy ősi régészeti lelőhely, amely a pigmentbányászat legkorábbi ismert nyomait rejti magában.",
+                  "category": "historical",
+                  "coords": [
+                        31.030626,
+                        -26.192306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lion Cave",
+                  "text": "Peștera Leului este un sit arheologic antic ce conține unele dintre cele mai vechi dovezi cunoscute de extragere a pigmenților.",
+                  "category": "historical",
+                  "coords": [
+                        31.030626,
+                        -26.192306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lion Cave",
+                  "text": "Lion Cave is an ancient archaeological site nestled in the mountains, containing early evidence of human pigment mining.",
+                  "category": "historical",
+                  "coords": [
+                        31.030626,
+                        -26.192306
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SZ-HH",
     coords: [31.02, -26.2],

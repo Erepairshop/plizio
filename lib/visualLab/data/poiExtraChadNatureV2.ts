@@ -690,7 +690,52 @@ export const poiExtraChadNatureV2: POI[] = [
       fr: ["Fait partie du système du Niger.", "Connu pour ses chutes d'eau.", "Relie les lacs à la Bénoué.", "Important pour la biodiversité."],
     }, image: "/poi-images/mayo-kebbi-nature-v2.webp"},
   {
-    id: "lake-lere-nature-v2",
+    id: "lake-lere-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kao Maya",
+                  "text": "Der Kao Maya-Gipfel erhebt sich dramatisch in der Nähe des Léré-Sees und bietet einen weiten Blick über die umliegenden tschadischen Feuchtgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        9.6541,
+                        14.0551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kao Maya",
+                  "text": "A Kao Maya hegycsúcs drámaian magasodik a Léré-tó közelében, és pazar kilátást nyújt a környező csádi vizes élőhelyekre.",
+                  "category": "natural",
+                  "coords": [
+                        9.6541,
+                        14.0551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kao Maya",
+                  "text": "Vârful Kao Maya se ridică dramatic lângă lacul Léré, oferind vederi panoramice asupra zonelor umede din Ciad înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        9.6541,
+                        14.0551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kao Maya",
+                  "text": "The Kao Maya peak rises dramatically near Lake Léré, offering sweeping views over the surrounding Chadian wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        9.6541,
+                        14.0551
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TD-MO",
     coords: [9.6, 14.1],
@@ -1062,7 +1107,52 @@ export const poiExtraChadNatureV2: POI[] = [
     }
   },
   {
-    id: "manda-forest-nature-v2",
+    id: "manda-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tazourout",
+                  "text": "Dieser schroffe Berggipfel ragt über die bewaldeten Landschaften von Manda hinaus und bildet ein markantes natürliches Wahrzeichen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        9.2305,
+                        17.9855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tazourout",
+                  "text": "Ez a zord hegycsúcs a Manda erdős tájai fölé magasodik, és a régió egy kiemelkedő természeti tájékozódási pontját képezi.",
+                  "category": "natural",
+                  "coords": [
+                        9.2305,
+                        17.9855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tazourout",
+                  "text": "Acest vârf muntos accidentat se înalță deasupra peisajelor împădurite din Manda, formând un reper natural proeminent în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        9.2305,
+                        17.9855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tazourout",
+                  "text": "This rugged mountain peak stands above the forested landscapes of Manda, forming a prominent natural landmark in the region.",
+                  "category": "natural",
+                  "coords": [
+                        9.2305,
+                        17.9855
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TD-MC",
     coords: [9.2, 18.0],

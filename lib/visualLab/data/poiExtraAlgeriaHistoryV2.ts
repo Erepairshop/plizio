@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraAlgeriaHistoryV2: POI[] = [
   {
-    id: "timgad-roman-ruins-history-v2",
+    id: "timgad-roman-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kapitol",
+                  "text": "Das Kapitol von Timgad verfügt über hoch aufragende Säulen und einen massiven Unterbau, der ursprünglich der römischen Trias aus Jupiter, Juno und Minerva gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        6.466644,
+                        35.483495
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Dieses in einen sanften Hang gebaute antike Freilufttheater bot einst über dreitausend Zuschauern Platz für dramatische Aufführungen in Timgad.",
+                  "category": "cultural",
+                  "coords": [
+                        6.46622,
+                        35.489065
+                  ]
+            },
+            {
+                  "name": "Triumphbogen",
+                  "text": "Dieser monumentale Triumphbogen überspannt eine antike gepflasterte Straße und fungierte ursprünglich als prächtiges Westtor in die Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.463955,
+                        35.486456
+                  ]
+            },
+            {
+                  "name": "Arc de Trajan",
+                  "text": "Der Trajansbogen in Timgad ist ein bemerkenswert gut erhaltener dreiteiliger Torbogen aus Sandstein mit kannelierten korinthischen Säulen.",
+                  "category": "historical",
+                  "coords": [
+                        6.467167,
+                        35.485038
+                  ]
+            },
+            {
+                  "name": "Große Nordtherme",
+                  "text": "Die Großen Nordbäder sind die weitläufigen Ruinen eines massiven öffentlichen Badekomplexes, der etwas außerhalb des ursprünglichen rechtwinkligen Stadtnetzes liegt.",
+                  "category": "historical",
+                  "coords": [
+                        6.46774,
+                        35.487416
+                  ]
+            },
+            {
+                  "name": "Grand Thermes du sud",
+                  "text": "Die Grand Thermes du sud sind eine weitläufige antike Badeanlage mit komplizierten unterirdischen Heizkanälen aus Backstein.",
+                  "category": "historical",
+                  "coords": [
+                        6.46838,
+                        35.483053
+                  ]
+            },
+            {
+                  "name": "Fort Byzantin",
+                  "text": "Das byzantinische Fort in den Ruinen von Timgad ist eine archäologische Stätte, die von den massiven militärischen Befestigungen der Spätantike zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        6.467998,
+                        35.479493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capitolium",
+                  "text": "A timgadi Capitolium hatalmas oszlopokkal és masszív alépítménnyel rendelkezik, amelyet eredetileg a Jupiter, Juno és Minerva római triásznak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        6.466644,
+                        35.483495
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Az egy enyhe domboldalba épült ősi szabadtéri színház egykor több mint háromezer nézőt fogadott be drámai előadásokra Timgadban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.46622,
+                        35.489065
+                  ]
+            },
+            {
+                  "name": "Triumphal arch",
+                  "text": "Ez a monumentális diadalív egy ősi, kővel burkolt utat ível át, és eredetileg a város grandiózus nyugati kapujaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        6.463955,
+                        35.486456
+                  ]
+            },
+            {
+                  "name": "Arc de Trajan",
+                  "text": "A timgadi Traianus-diadalív egy figyelemre méltóan megőrzött, homokkőből épült hármas ív, amelyet kannelúrázott korinthoszi oszlopok díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        6.467167,
+                        35.485038
+                  ]
+            },
+            {
+                  "name": "Great North Baths",
+                  "text": "Az Északi Nagy Fürdő egy hatalmas nyilvános fürdőkomplexum kiterjedt romja, amely közvetlenül az eredeti derékszögű városhálózaton kívül található.",
+                  "category": "historical",
+                  "coords": [
+                        6.46774,
+                        35.487416
+                  ]
+            },
+            {
+                  "name": "Grand Thermes du sud",
+                  "text": "A Grand Thermes du sud egy kiterjedt ókori fürdőlétesítmény, amely bonyolult földalatti tégla fűtőcsatornákkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        6.46838,
+                        35.483053
+                  ]
+            },
+            {
+                  "name": "Fort Byzantin",
+                  "text": "A Timgad romjainál található bizánci erőd egy régészeti lelőhely, amely a késő ókori masszív katonai erődítményeket mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        6.467998,
+                        35.479493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capitolium",
+                  "text": "Capitoliul din Timgad impresionează prin coloanele sale falnice și o substructură masivă, fiind dedicat inițial triadei romane a lui Jupiter, Junona și Minerva.",
+                  "category": "historical",
+                  "coords": [
+                        6.466644,
+                        35.483495
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Construit pe o pantă lină, acest vechi teatru în aer liber a găzduit odinioară peste trei mii de spectatori la spectacolele dramatice din Timgad.",
+                  "category": "cultural",
+                  "coords": [
+                        6.46622,
+                        35.489065
+                  ]
+            },
+            {
+                  "name": "Triumphal arch",
+                  "text": "Acest arc de triumf monumental traversează un drum antic pavat cu piatră, servind inițial ca o intrare vestică grandioasă în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        6.463955,
+                        35.486456
+                  ]
+            },
+            {
+                  "name": "Arc de Trajan",
+                  "text": "Arcul lui Traian din Timgad este un arc triplu din gresie extrem de bine conservat, decorat cu coloane corintice canelate.",
+                  "category": "historical",
+                  "coords": [
+                        6.467167,
+                        35.485038
+                  ]
+            },
+            {
+                  "name": "Great North Baths",
+                  "text": "Marile Băi de Nord reprezintă ruinele extinse ale unui masiv complex de băi publice, situat chiar în afara planului ortogonal original al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        6.46774,
+                        35.487416
+                  ]
+            },
+            {
+                  "name": "Grand Thermes du sud",
+                  "text": "Marile Terme de Sud reprezintă o vastă facilitate de băi antice care dispune de canale subterane complexe din cărămidă pentru încălzire.",
+                  "category": "historical",
+                  "coords": [
+                        6.46838,
+                        35.483053
+                  ]
+            },
+            {
+                  "name": "Fort Byzantin",
+                  "text": "Fortul bizantin din ruinele Timgad este un sit arheologic care stă mărturie fortificațiilor militare masive din Antichitatea târzie.",
+                  "category": "historical",
+                  "coords": [
+                        6.467998,
+                        35.479493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capitolium",
+                  "text": "The Capitolium of Timgad features towering columns and a massive substructure originally dedicated to the Roman triad of Jupiter, Juno, and Minerva.",
+                  "category": "historical",
+                  "coords": [
+                        6.466644,
+                        35.483495
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Built into a gentle hillside, this ancient open-air theater once accommodated over three thousand spectators for dramatic performances in Timgad.",
+                  "category": "cultural",
+                  "coords": [
+                        6.46622,
+                        35.489065
+                  ]
+            },
+            {
+                  "name": "Triumphal arch",
+                  "text": "This monumental triumphal arch spans an ancient stone-paved road, originally acting as a grand western gateway into the city.",
+                  "category": "historical",
+                  "coords": [
+                        6.463955,
+                        35.486456
+                  ]
+            },
+            {
+                  "name": "Arc de Trajan",
+                  "text": "The Arch of Trajan in Timgad is a remarkably preserved sandstone triple archways featuring fluted Corinthian columns.",
+                  "category": "historical",
+                  "coords": [
+                        6.467167,
+                        35.485038
+                  ]
+            },
+            {
+                  "name": "Great North Baths",
+                  "text": "The Great North Baths are the sprawling ruins of a massive public bathing complex located just outside the original orthogonal city grid.",
+                  "category": "historical",
+                  "coords": [
+                        6.46774,
+                        35.487416
+                  ]
+            },
+            {
+                  "name": "Grand Thermes du sud",
+                  "text": "The Grand Thermes du sud is an expansive ancient bathing facility that features intricate underground brick heating channels.",
+                  "category": "historical",
+                  "coords": [
+                        6.46838,
+                        35.483053
+                  ]
+            },
+            {
+                  "name": "Fort Byzantin",
+                  "text": "The Byzantine Fort within the Timgad ruins is an archaeological site showcasing the massive military fortifications of late antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        6.467998,
+                        35.479493
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-05",
     coords: [6.4682, 35.4842],
@@ -50,7 +311,232 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Une cité coloniale romaine d'Afrique du Nord fondée par l'empereur Trajan et connue pour son excellent plan en damier.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/timgad-roman-ruins-history-v2.webp"},
   {
-    id: "djemila-cuicul-history-v2",
+    id: "djemila-cuicul-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Garden of the Small Baths at Cuicul",
+                  "text": "Der Garten der kleinen Thermen im antiken Cuicul ist eine archäologische Stätte, die den erholsamen Außenbereich der römischen Badeanlage bildete.",
+                  "category": "historical",
+                  "coords": [
+                        5.736305,
+                        36.318525
+                  ]
+            },
+            {
+                  "name": "Temple de la famille des Sévères",
+                  "text": "Die Ruinen des Tempels der Familie des Severus in Djemila zeugen von der kaiserlichen Architektur und der religiösen Bedeutung der Dynastie in Nordafrika.",
+                  "category": "historical",
+                  "coords": [
+                        5.736424,
+                        36.320738
+                  ]
+            },
+            {
+                  "name": "Roman Forum",
+                  "text": "Ruinen des öffentlichen Platzes in der antiken römischen Stadt Cuicul.",
+                  "category": "historical",
+                  "coords": [
+                        5.735096,
+                        36.322234
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Djmila",
+                  "text": "Beherbergt Mosaike und Artefakte, die in den römischen Ruinen von Cuicul ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        5.736183,
+                        36.316985
+                  ]
+            },
+            {
+                  "name": "Basilica of Cresconius",
+                  "text": "Ruinen einer frühchristlichen Basilika in der antiken Stadt Cuicul.",
+                  "category": "historical",
+                  "coords": [
+                        5.737812,
+                        36.319058
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Lokales Kunst- und Kulturzentrum für die Jugend von Djémila.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737824,
+                        36.315554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garden of the Small Baths at Cuicul",
+                  "text": "Az ókori Cuiculban található Kis Termák kertje egy régészeti lelőhely, amely a római fürdőkomplexum egykori pihentető szabadtéri része volt.",
+                  "category": "historical",
+                  "coords": [
+                        5.736305,
+                        36.318525
+                  ]
+            },
+            {
+                  "name": "Temple de la famille des Sévères",
+                  "text": "A Djemilában található Severus-család templomának romjai az észak-afrikai dinasztia császári építészetéről és vallási jelentőségéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        5.736424,
+                        36.320738
+                  ]
+            },
+            {
+                  "name": "Roman Forum",
+                  "text": "Az ókori római város, Cuicul nyilvános terének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        5.735096,
+                        36.322234
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Djmila",
+                  "text": "A Cuicul római romjai között feltárt mozaikoknak és műtárgyaknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        5.736183,
+                        36.316985
+                  ]
+            },
+            {
+                  "name": "Basilica of Cresconius",
+                  "text": "Egy ókeresztény bazilika romjai Cuicul ókori városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.737812,
+                        36.319058
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "A djémilai ifjúságot szolgáló helyi művészeti és kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737824,
+                        36.315554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Garden of the Small Baths at Cuicul",
+                  "text": "Grădina Micilor Terme din vechiul Cuicul este un sit arheologic care a servit ca zonă de relaxare în aer liber a complexului de băi roman.",
+                  "category": "historical",
+                  "coords": [
+                        5.736305,
+                        36.318525
+                  ]
+            },
+            {
+                  "name": "Temple de la famille des Sévères",
+                  "text": "Ruinele templului familiei Severilor din Djemila demonstrează arhitectura imperială și importanța religioasă a dinastiei în Africa de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        5.736424,
+                        36.320738
+                  ]
+            },
+            {
+                  "name": "Roman Forum",
+                  "text": "Ruinele pieței publice din vechiul oraș roman Cuicul.",
+                  "category": "historical",
+                  "coords": [
+                        5.735096,
+                        36.322234
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Djmila",
+                  "text": "Găzduiește mozaicuri și artefacte excavate din ruinele romane de la Cuicul.",
+                  "category": "museum",
+                  "coords": [
+                        5.736183,
+                        36.316985
+                  ]
+            },
+            {
+                  "name": "Basilica of Cresconius",
+                  "text": "Ruinele unei bazilici paleocreștine din orașul antic Cuicul.",
+                  "category": "historical",
+                  "coords": [
+                        5.737812,
+                        36.319058
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Centru cultural și de arte local, destinat tinerilor din Djémila.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737824,
+                        36.315554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Garden of the Small Baths at Cuicul",
+                  "text": "The Garden of the Small Baths in ancient Cuicul is an archaeological site representing the relaxing outdoor area of the Roman bathing complex.",
+                  "category": "historical",
+                  "coords": [
+                        5.736305,
+                        36.318525
+                  ]
+            },
+            {
+                  "name": "Temple de la famille des Sévères",
+                  "text": "The ruins of the Severan family temple in Djemila demonstrate the imperial architecture and religious significance of the dynasty in North Africa.",
+                  "category": "historical",
+                  "coords": [
+                        5.736424,
+                        36.320738
+                  ]
+            },
+            {
+                  "name": "Roman Forum",
+                  "text": "Ruins of the public square in the ancient Roman city of Cuicul.",
+                  "category": "historical",
+                  "coords": [
+                        5.735096,
+                        36.322234
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Djmila",
+                  "text": "Houses mosaics and artifacts excavated from the Roman ruins of Cuicul.",
+                  "category": "museum",
+                  "coords": [
+                        5.736183,
+                        36.316985
+                  ]
+            },
+            {
+                  "name": "Basilica of Cresconius",
+                  "text": "Ruins of an early Christian basilica located in the ancient city of Cuicul.",
+                  "category": "historical",
+                  "coords": [
+                        5.737812,
+                        36.319058
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Local cultural and arts centre serving the youth of Djémila.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737824,
+                        36.315554
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-19",
     coords: [5.7333, 36.3167],
@@ -97,7 +583,412 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Un ancien camp militaire romain dont les ruines bien conservées s'intègrent dans le paysage montagneux du nord de l'Algérie.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/djemila-cuicul-history-v2.webp"},
   {
-    id: "tipasa-ruins-history-v2",
+    id: "tipasa-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Tipaza",
+                  "text": "Dieser maritime Leuchtturm blickt auf die Mittelmeerküste und führt Schiffe sicher an den felsigen Ufern nahe der antiken Ruinen von Tipaza vorbei.",
+                  "category": "landmark",
+                  "coords": [
+                        2.447604,
+                        36.596995
+                  ]
+            },
+            {
+                  "name": "EPW-EREPEV",
+                  "text": "Diese befestigte Struktur in der Region Tipaza zeigt eine robuste Steinarchitektur, die typisch für regionale Verteidigungsposten ist.",
+                  "category": "castle",
+                  "coords": [
+                        2.448487,
+                        36.59117
+                  ]
+            },
+            {
+                  "name": "Kouali",
+                  "text": "Dieser mediterrane Küstenstrand in der Nähe von Tipaza zeichnet sich durch seine Sandstrände und das klare blaue Wasser aus, das auf die schroffe Küste trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        2.494249,
+                        36.590261
+                  ]
+            },
+            {
+                  "name": "Musée archéologique de Tipaza",
+                  "text": "Dieses Museum beherbergt Sammlungen von römischer Töpferware, Glaswaren und Skulpturenfragmenten, die an der nahegelegenen Welterbestätte ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        2.448636,
+                        36.593075
+                  ]
+            },
+            {
+                  "name": "Plage Matares",
+                  "text": "Der Strand Matares ist ein belebter Küstenabschnitt in der Nähe von Tipaza, der einen weiten Blick auf das Mittelmeer sowie Freizeiteinrichtungen am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.431964,
+                        36.593917
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre Romain",
+                  "text": "Die Steinruinen dieses antiken römischen Amphitheaters in Tipaza waren einst Schauplatz von Gladiatorenspielen und öffentlichen Spektakeln.",
+                  "category": "landmark",
+                  "coords": [
+                        2.44547,
+                        36.593144
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Dieses städtische Kulturzentrum in Tipaza bietet Räume für lokale Kunstausstellungen, Workshops und Gemeindeveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.409857,
+                        36.512701
+                  ]
+            },
+            {
+                  "name": "Plage Chenoua",
+                  "text": "Eingebettet unter dem Berg Chenoua ist dieser weitläufige Sandstrand für seine breite Küstenlinie und die markante Bergkulisse bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        2.425342,
+                        36.596198
+                  ]
+            },
+            {
+                  "name": "Ruines Romaines de Tipaza",
+                  "text": "Diese Welterbestätte mit Blick auf das Meer bietet umfangreiche Überreste punischer, römischer und byzantinischer Siedlungen, die in die Küstenlandschaft integriert sind.",
+                  "category": "historical",
+                  "coords": [
+                        2.443204,
+                        36.594332
+                  ]
+            },
+            {
+                  "name": "Nymphes Water Fountain Ruins",
+                  "text": "Dieser antike ruinierte Monumentalbrunnen oder Nymphäum verfügt über gebogene Steinmauern, die einst kaskadierendes Wasser für die Bewohner des römischen Tipaza leiteten.",
+                  "category": "historical",
+                  "coords": [
+                        2.44283,
+                        36.592664
+                  ]
+            },
+            {
+                  "name": "Römisches Theater",
+                  "text": "Die verwitterten Steinstufen dieses klassischen römischen Theaters sind direkt in die Landschaft gehauen, wo sich einst das antike Publikum zu Dramen versammelte.",
+                  "category": "landmark",
+                  "coords": [
+                        2.441703,
+                        36.592642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Tipaza",
+                  "text": "A Földközi-tenger partjára néző tengeri világítótorony biztonságosan vezeti át a hajókat Tipaza ősi romjai melletti sziklás partokon.",
+                  "category": "landmark",
+                  "coords": [
+                        2.447604,
+                        36.596995
+                  ]
+            },
+            {
+                  "name": "EPW-EREPEV",
+                  "text": "Ez az erődített építmény a Tipaza régióban a regionális védelmi előőrsökre jellemző masszív kőépítészetet mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        2.448487,
+                        36.59117
+                  ]
+            },
+            {
+                  "name": "Kouali",
+                  "text": "Ezt a Tipaza melletti Földközi-tengeri tengerpartot homokos szakaszok és a zord partvonallal találkozó tiszta kék víz jellemzi.",
+                  "category": "recreational",
+                  "coords": [
+                        2.494249,
+                        36.590261
+                  ]
+            },
+            {
+                  "name": "Musée archéologique de Tipaza",
+                  "text": "Ez a múzeum római fazekasáruk, üvegedények és szobortöredékek gyűjteményének ad otthont, amelyeket a közeli világörökségi helyszínen tártak fel.",
+                  "category": "museum",
+                  "coords": [
+                        2.448636,
+                        36.593075
+                  ]
+            },
+            {
+                  "name": "Plage Matares",
+                  "text": "A Plage Matares egy forgalmas partszakasz Tipaza közelében, amely lenyűgöző kilátást nyújt a Földközi-tengerre a tengerparti rekreációs szolgáltatások mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        2.431964,
+                        36.593917
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre Romain",
+                  "text": "A tipazai ókori római amfiteátrum kőromjai egykor gladiátorjátékoknak és nyilvános látványosságoknak adtak otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        2.44547,
+                        36.593144
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Ez a tipazai települési kulturális központ helyszínt biztosít a helyi művészeti kiállításoknak, műhelyeknek és közösségi eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        2.409857,
+                        36.512701
+                  ]
+            },
+            {
+                  "name": "Plage Chenoua",
+                  "text": "A Chenoua-hegy alatt megbúvó kiterjedt homokos strand széles partvonaláról és lenyűgöző hegyi hátteréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.425342,
+                        36.596198
+                  ]
+            },
+            {
+                  "name": "Ruines Romaines de Tipaza",
+                  "text": "A tengerre néző világörökségi helyszín a pún, római és bizánci települések kiterjedt maradványait mutatja be a part menti tájba integrálva.",
+                  "category": "historical",
+                  "coords": [
+                        2.443204,
+                        36.594332
+                  ]
+            },
+            {
+                  "name": "Nymphes Water Fountain Ruins",
+                  "text": "Ez az ősi, romos, monumentális szökőkút vagy nymphaeum ívelt kőfalakkal rendelkezik, amelyek egykor vízesésként irányították a vizet a római Tipaza lakói számára.",
+                  "category": "historical",
+                  "coords": [
+                        2.44283,
+                        36.592664
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "A klasszikus római színház viharvert kősorait közvetlenül a tájba vájták, ahol egykor az ókori közönség gyűlt össze drámákra.",
+                  "category": "landmark",
+                  "coords": [
+                        2.441703,
+                        36.592642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Tipaza",
+                  "text": "Având vedere la coasta mediteraneană, acest far maritim ghidează navele în siguranță pe lângă țărmurile stâncoase din apropierea ruinelor antice din Tipaza.",
+                  "category": "landmark",
+                  "coords": [
+                        2.447604,
+                        36.596995
+                  ]
+            },
+            {
+                  "name": "EPW-EREPEV",
+                  "text": "Această structură fortificată din regiunea Tipaza prezintă o arhitectură robustă din piatră, tipică avanposturilor defensive regionale.",
+                  "category": "castle",
+                  "coords": [
+                        2.448487,
+                        36.59117
+                  ]
+            },
+            {
+                  "name": "Kouali",
+                  "text": "Această plajă mediteraneană de coastă de lângă Tipaza este definită de întinderile sale nisipoase și de apele albastre limpezi care întâlnesc țărmul accidentat.",
+                  "category": "recreational",
+                  "coords": [
+                        2.494249,
+                        36.590261
+                  ]
+            },
+            {
+                  "name": "Musée archéologique de Tipaza",
+                  "text": "Acest muzeu găzduiește colecții de ceramică, sticlărie și fragmente sculpturale romane excavate din situl Patrimoniului Mondial din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        2.448636,
+                        36.593075
+                  ]
+            },
+            {
+                  "name": "Plage Matares",
+                  "text": "Plage Matares este o porțiune de coastă aglomerată lângă Tipaza, oferind vederi panoramice ale Mării Mediterane, alături de facilități de recreere pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        2.431964,
+                        36.593917
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre Romain",
+                  "text": "Ruinele de piatră ale acestui antic amfiteatru roman din Tipaza au găzduit odată jocuri de gladiatori și spectacole publice.",
+                  "category": "landmark",
+                  "coords": [
+                        2.44547,
+                        36.593144
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Acest centru cultural municipal din Tipaza oferă spații pentru expoziții de artă locale, ateliere și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        2.409857,
+                        36.512701
+                  ]
+            },
+            {
+                  "name": "Plage Chenoua",
+                  "text": "Amplasată sub Muntele Chenoua, această plajă vastă de nisip este cunoscută pentru țărmul său larg și fundalul montan impresionant.",
+                  "category": "recreational",
+                  "coords": [
+                        2.425342,
+                        36.596198
+                  ]
+            },
+            {
+                  "name": "Ruines Romaines de Tipaza",
+                  "text": "Cu vedere la mare, acest sit al Patrimoniului Mondial prezintă rămășițe extinse ale așezărilor punice, romane și bizantine integrate în peisajul de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        2.443204,
+                        36.594332
+                  ]
+            },
+            {
+                  "name": "Nymphes Water Fountain Ruins",
+                  "text": "Această fântână monumentală antică în ruină, sau nimfeu, prezintă pereți de piatră curbați care direcționau odinioară apa în cascadă pentru locuitorii din Tipaza romană.",
+                  "category": "historical",
+                  "coords": [
+                        2.44283,
+                        36.592664
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Treptele de piatră erodate ale acestui teatru roman clasic sunt sculptate direct în peisaj, unde publicul antic se aduna odinioară pentru drame.",
+                  "category": "landmark",
+                  "coords": [
+                        2.441703,
+                        36.592642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare de Tipaza",
+                  "text": "Overlooking the Mediterranean coast, this maritime lighthouse guides vessels safely past the rocky shores near the ancient ruins of Tipaza.",
+                  "category": "landmark",
+                  "coords": [
+                        2.447604,
+                        36.596995
+                  ]
+            },
+            {
+                  "name": "EPW-EREPEV",
+                  "text": "This fortified structure in the Tipaza region showcases sturdy stone architecture typical of regional defensive outposts.",
+                  "category": "castle",
+                  "coords": [
+                        2.448487,
+                        36.59117
+                  ]
+            },
+            {
+                  "name": "Kouali",
+                  "text": "This coastal Mediterranean beach near Tipaza is defined by its sandy stretches and clear blue waters meeting the rugged shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        2.494249,
+                        36.590261
+                  ]
+            },
+            {
+                  "name": "Musée archéologique de Tipaza",
+                  "text": "This museum houses collections of Roman pottery, glassware, and sculptural fragments excavated from the nearby World Heritage site.",
+                  "category": "museum",
+                  "coords": [
+                        2.448636,
+                        36.593075
+                  ]
+            },
+            {
+                  "name": "Plage Matares",
+                  "text": "Plage Matares is a busy coastal stretch near Tipaza offering sweeping views of the Mediterranean Sea alongside seaside recreational amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        2.431964,
+                        36.593917
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre Romain",
+                  "text": "The stone ruins of this ancient Roman amphitheater in Tipaza once hosted gladiatorial games and public spectacles.",
+                  "category": "landmark",
+                  "coords": [
+                        2.44547,
+                        36.593144
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "This municipal cultural center in Tipaza provides spaces for local art exhibitions, workshops, and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        2.409857,
+                        36.512701
+                  ]
+            },
+            {
+                  "name": "Plage Chenoua",
+                  "text": "Nestled beneath Mount Chenoua, this expansive sandy beach is known for its wide shoreline and striking mountain backdrop.",
+                  "category": "recreational",
+                  "coords": [
+                        2.425342,
+                        36.596198
+                  ]
+            },
+            {
+                  "name": "Roman Ruins of Tipaza",
+                  "text": "Overlooking the sea, this World Heritage site features extensive remains of Punic, Roman, and Byzantine settlements integrated into the coastal landscape.",
+                  "category": "historical",
+                  "coords": [
+                        2.443204,
+                        36.594332
+                  ]
+            },
+            {
+                  "name": "Nymphes Water Fountain Ruins",
+                  "text": "This ancient ruined monumental fountain, or nymphaeum, features curved stone walls that once directed cascading water for Roman Tipaza's residents.",
+                  "category": "historical",
+                  "coords": [
+                        2.44283,
+                        36.592664
+                  ]
+            },
+            {
+                  "name": "Roman Theatre",
+                  "text": "The weathered stone tiers of this classical Roman theater are carved directly into the landscape, where ancient audiences once gathered for dramas.",
+                  "category": "landmark",
+                  "coords": [
+                        2.441703,
+                        36.592642
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-42",
     coords: [2.443, 36.5942],
@@ -144,7 +1035,160 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Un ancien comptoir punique conquis par Rome et situé directement sur la côte méditerranéenne.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/tipasa-ruins-history-v2.webp"},
     {
-    id: "qala-beni-hammad-history-v2",
+    id: "qala-beni-hammad-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Beni Hammad",
+                  "text": "Das Fort Beni Hammad ist eine historische Attraktion, die Teil der alten Befestigungsanlagen der ehemaligen Hauptstadt des hammamiden Reiches ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.789409,
+                        35.821215
+                  ]
+            },
+            {
+                  "name": "Qasr Beni Hamad",
+                  "text": "Die Ruinen des Qasr Beni Hamad umfassen die Überreste einstiger königlicher Anlagen inmitten der zerklüfteten algerischen Berglandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        4.799064,
+                        35.823002
+                  ]
+            },
+            {
+                  "name": "Musée de la Qalaa des Beni Hammad",
+                  "text": "Das Museum der Qalaa der Beni Hammad zeigt antike Keramiken und Ornamente aus der ersten befestigten Hauptstadt der Hammamiden.",
+                  "category": "museum",
+                  "coords": [
+                        4.797401,
+                        35.817072
+                  ]
+            },
+            {
+                  "name": "Qalaa Beni Hammad",
+                  "text": "Die im Jahr 1007 gegründete archäologische Stätte Qalaa Beni Hammad umfasst die steinernen Reste einer befestigten muslimischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        4.793801,
+                        35.823088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Beni Hammad",
+                  "text": "A Beni Hammad erőd egy történelmi látványosság, amely a hammádida birodalom egykori fővárosának ősi erődítményeihez tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        4.789409,
+                        35.821215
+                  ]
+            },
+            {
+                  "name": "Qasr Beni Hamad",
+                  "text": "A Qasr Beni Hamad romjai az egykori királyi épületek maradványait foglalják magukban a zord algériai hegyvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        4.799064,
+                        35.823002
+                  ]
+            },
+            {
+                  "name": "Musée de la Qalaa des Beni Hammad",
+                  "text": "A Beni Hammad-i Qalaa Múzeum a hammádidák első erődített fővárosából származó ősi kerámiákat és díszítőelemeket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        4.797401,
+                        35.817072
+                  ]
+            },
+            {
+                  "name": "Qalaa Beni Hammad",
+                  "text": "Az 1007-ben alapított Qalaa Beni Hammad régészeti lelőhely egy erődített iszlám főváros kőből épült romjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        4.793801,
+                        35.823088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Beni Hammad",
+                  "text": "Fortul Beni Hammad este o atracție istorică, parte a vechilor fortificații ale fostei capitale a imperiului hammadid.",
+                  "category": "landmark",
+                  "coords": [
+                        4.789409,
+                        35.821215
+                  ]
+            },
+            {
+                  "name": "Qasr Beni Hamad",
+                  "text": "Ruinele Qasr Beni Hamad cuprind rămășițele fostelor structuri regale situate în peisajul montan accidentat al Algeriei.",
+                  "category": "historical",
+                  "coords": [
+                        4.799064,
+                        35.823002
+                  ]
+            },
+            {
+                  "name": "Musée de la Qalaa des Beni Hammad",
+                  "text": "Muzeul Qalaa-ului din Beni Hammad expune ceramică antică și ornamente din prima capitală fortificată a hammadizilor.",
+                  "category": "museum",
+                  "coords": [
+                        4.797401,
+                        35.817072
+                  ]
+            },
+            {
+                  "name": "Qalaa Beni Hammad",
+                  "text": "Situl arheologic Qalaa Beni Hammad, fondat în anul 1007, cuprinde vestigiile din piatră ale unei capitale musulmane fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        4.793801,
+                        35.823088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Beni Hammad",
+                  "text": "Fort Beni Hammad is a historic attraction that is part of the ancient fortifications of the former capital of the Hammadid empire.",
+                  "category": "landmark",
+                  "coords": [
+                        4.789409,
+                        35.821215
+                  ]
+            },
+            {
+                  "name": "Qasr Beni Hamad",
+                  "text": "The ruins of Qasr Beni Hamad comprise the remains of former royal structures set amidst the rugged Algerian mountain landscape.",
+                  "category": "historical",
+                  "coords": [
+                        4.799064,
+                        35.823002
+                  ]
+            },
+            {
+                  "name": "Musée de la Qalaa des Beni Hammad",
+                  "text": "The Museum of the Qalaa of Beni Hammad exhibits ancient ceramics and ornaments from the first fortified Hammadid capital.",
+                  "category": "museum",
+                  "coords": [
+                        4.797401,
+                        35.817072
+                  ]
+            },
+            {
+                  "name": "Qalaa Beni Hammad",
+                  "text": "The archaeological site of Qalaa Beni Hammad, founded in the year 1007, features the stone remains of a fortified Muslim capital.",
+                  "category": "historical",
+                  "coords": [
+                        4.793801,
+                        35.823088
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-28",
     coords: [4.7833, 35.8167],
@@ -191,7 +1235,52 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Les ruines de la première capitale des émirs hammadites, situées dans un environnement montagneux à plus de 1000 mètres d'altitude.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/qala-beni-hammad-history-v2.webp"},
   {
-    id: "mzab-valley-history-v2",
+    id: "mzab-valley-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral of Ghardaïa",
+                  "text": "Eine ehemalige katholische Kathedrale, die als bemerkenswertes Gotteshaus im M'zab-Tal dient.",
+                  "category": "religious",
+                  "coords": [
+                        3.670655,
+                        32.48829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral of Ghardaïa",
+                  "text": "Egykori katolikus katedrális, amely jelentős istentiszteleti helyként szolgált a M'zab-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        3.670655,
+                        32.48829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral of Ghardaïa",
+                  "text": "O fostă catedrală catolică care servește ca un lăcaș de cult remarcabil în Valea M'zab.",
+                  "category": "religious",
+                  "coords": [
+                        3.670655,
+                        32.48829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral of Ghardaïa",
+                  "text": "A former Catholic cathedral serving as a notable place of worship in the M'zab Valley.",
+                  "category": "religious",
+                  "coords": [
+                        3.670655,
+                        32.48829
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-47",
     coords: [3.6833, 32.4833],
@@ -238,7 +1327,304 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Un ensemble de cinq villes du désert fortifiées (ksours), construites au XIe siècle par les Ibadites dans la roche du Sahara.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/mzab-valley-history-v2.webp"},
     {
-    id: "lambaesis-history-v2",
+    id: "lambaesis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praetorium",
+                  "text": "Das Prätorium von Lambaesis ist das monumentale, stark befestigte Hauptquartier der römischen Legio III Augusta.",
+                  "category": "historical",
+                  "coords": [
+                        6.254729,
+                        35.490116
+                  ]
+            },
+            {
+                  "name": "Museum of Lambaesis",
+                  "text": "Das Museum von Lambaesis beherbergt eine bedeutende Sammlung von Epigraphen, Statuen und militärischen Artefakten, die im antiken Römerlager ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        6.257627,
+                        35.481472
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Dieses archäologische Museum widmet sich der Erhaltung der in den umliegenden Ruinen von Lambaesis gefundenen steinernen Stelen und Töpferwaren.",
+                  "category": "museum",
+                  "coords": [
+                        6.247809,
+                        35.494691
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "Das antike Forum von Lambaesis offenbart die gepflasterten Überreste des zivilen Zentrums, in dem sich die römische Militärstadt versammelte.",
+                  "category": "historical",
+                  "coords": [
+                        6.269431,
+                        35.478587
+                  ]
+            },
+            {
+                  "name": "Roman arch",
+                  "text": "Dieser verwitterte römische Bogen diente als großer zeremonieller Eingang, der das Militärlager mit der zivilen Siedlung verband.",
+                  "category": "historical",
+                  "coords": [
+                        6.271848,
+                        35.479566
+                  ]
+            },
+            {
+                  "name": "Chasseurs baths",
+                  "text": "Die Chasseurs-Bäder sind die archäologischen Überreste eines großen römischen Thermenkomplexes mit gut erhaltenen antiken Hypokausten-Heizungen.",
+                  "category": "historical",
+                  "coords": [
+                        6.270055,
+                        35.479869
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "Das Amphitheater von Lambaesis ist eine elliptische Arena, die für Gladiatorenkämpfe und Spektakel zur Unterhaltung der Legionäre gebaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        6.259837,
+                        35.489217
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch of Lambaesis",
+                  "text": "Der Triumphbogen von Lambaesis ist ein majestätisches Denkmal mit drei Bögen, das die kriegerischen Siege der römischen Kaiser feiert.",
+                  "category": "historical",
+                  "coords": [
+                        6.25864,
+                        35.491255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praetorium",
+                  "text": "A lambaesisi Praetorium a római Legio III Augusta monumentális, erősen megerősített főhadiszállás-épülete.",
+                  "category": "historical",
+                  "coords": [
+                        6.254729,
+                        35.490116
+                  ]
+            },
+            {
+                  "name": "Museum of Lambaesis",
+                  "text": "A Lambaesis Múzeum az ókori római táborban feltárt feliratok, szobrok és katonai műtárgyak jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        6.257627,
+                        35.481472
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Ez a régészeti múzeum a Lambaesis környező romjaiban talált faragott kősztélék és kerámiák megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        6.247809,
+                        35.494691
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "Lambaesis ősi Fóruma a római katonaváros egykori polgári központjának kövezett maradványait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        6.269431,
+                        35.478587
+                  ]
+            },
+            {
+                  "name": "Roman arch",
+                  "text": "Ez az időmarta római diadalív egy grandiózus szertartásos bejáratként szolgált, amely összekötötte a katonai tábort a polgári településsel.",
+                  "category": "historical",
+                  "coords": [
+                        6.271848,
+                        35.479566
+                  ]
+            },
+            {
+                  "name": "Chasseurs baths",
+                  "text": "A Chasseurs fürdők egy nagy római termálkomplexum régészeti maradványai, amelyek jól megőrzött ókori padlófűtési rendszereket tartalmaznak.",
+                  "category": "historical",
+                  "coords": [
+                        6.270055,
+                        35.479869
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "A lambaesisi amfiteátrum egy elliptikus aréna, amelyet gladiátorjátékok és látványosságok megrendezésére építettek a légiósok szórakoztatására.",
+                  "category": "historical",
+                  "coords": [
+                        6.259837,
+                        35.489217
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch of Lambaesis",
+                  "text": "A lambaesisi diadalív egy fenséges, háromíves műemlék, amely a római császárok hadi győzelmeit dicsőíti.",
+                  "category": "historical",
+                  "coords": [
+                        6.25864,
+                        35.491255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praetorium",
+                  "text": "Praetoriumul din Lambaesis este sediul monumental și puternic fortificat al Legiunii a III-a Augusta romane.",
+                  "category": "historical",
+                  "coords": [
+                        6.254729,
+                        35.490116
+                  ]
+            },
+            {
+                  "name": "Museum of Lambaesis",
+                  "text": "Muzeul din Lambaesis găzduiește o colecție importantă de epigrafe, statui și artefacte militare excavate din vechea tabără romană.",
+                  "category": "museum",
+                  "coords": [
+                        6.257627,
+                        35.481472
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Acest muzeu arheologic este dedicat conservării stelelor de piatră sculptate și ceramicii descoperite în ruinele din jurul orașului Lambaesis.",
+                  "category": "museum",
+                  "coords": [
+                        6.247809,
+                        35.494691
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "Anticul Forum din Lambaesis dezvăluie rămășițele pavate ale centrului civic unde se aduna orașul militar roman.",
+                  "category": "historical",
+                  "coords": [
+                        6.269431,
+                        35.478587
+                  ]
+            },
+            {
+                  "name": "Roman arch",
+                  "text": "Acest arc roman erodat a servit drept o grandioasă intrare ceremonială ce conecta tabăra militară de așezarea civilă.",
+                  "category": "historical",
+                  "coords": [
+                        6.271848,
+                        35.479566
+                  ]
+            },
+            {
+                  "name": "Chasseurs baths",
+                  "text": "Băile Chasseurs reprezintă vestigiile arheologice ale unui mare complex termal roman, remarcându-se prin sistemele antice de încălzire (hipocaust) bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        6.270055,
+                        35.479869
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "Amfiteatrul din Lambaesis este o arenă eliptică construită pentru a găzdui lupte cu gladiatori și spectacole destinate amuzamentului legionarilor.",
+                  "category": "historical",
+                  "coords": [
+                        6.259837,
+                        35.489217
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch of Lambaesis",
+                  "text": "Arcul de Triumf din Lambaesis este un monument maiestuos cu trei arcade, care celebrează victoriile militare ale împăraților romani.",
+                  "category": "historical",
+                  "coords": [
+                        6.25864,
+                        35.491255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praetorium",
+                  "text": "The Praetorium of Lambaesis is the monumental, heavily fortified headquarters building of the Roman Third Augustan Legion.",
+                  "category": "historical",
+                  "coords": [
+                        6.254729,
+                        35.490116
+                  ]
+            },
+            {
+                  "name": "Museum of Lambaesis",
+                  "text": "The Museum of Lambaesis houses a significant collection of epigraphs, statues, and military artifacts excavated from the ancient Roman camp.",
+                  "category": "museum",
+                  "coords": [
+                        6.257627,
+                        35.481472
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "This archaeological museum is dedicated to preserving the carved stone steles and pottery found in the surrounding ruins of Lambaesis.",
+                  "category": "museum",
+                  "coords": [
+                        6.247809,
+                        35.494691
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "The ancient Forum of Lambaesis reveals the paved remnants of the civic center where the Roman military town gathered.",
+                  "category": "historical",
+                  "coords": [
+                        6.269431,
+                        35.478587
+                  ]
+            },
+            {
+                  "name": "Roman arch",
+                  "text": "This weathered Roman arch served as a grand ceremonial entrance connecting the military camp to the civilian settlement.",
+                  "category": "historical",
+                  "coords": [
+                        6.271848,
+                        35.479566
+                  ]
+            },
+            {
+                  "name": "Chasseurs baths",
+                  "text": "The Chasseurs baths are the archaeological remains of a large Roman thermal complex featuring well-preserved ancient heating hypocausts.",
+                  "category": "historical",
+                  "coords": [
+                        6.270055,
+                        35.479869
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "The Amphithéâtre of Lambaesis is an elliptical arena built to host gladiatorial games and spectacles for the amusement of the legionaries.",
+                  "category": "historical",
+                  "coords": [
+                        6.259837,
+                        35.489217
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch of Lambaesis",
+                  "text": "The Triumphal Arch of Lambaesis is a majestic triple-arched monument celebrating the martial victories of the Roman emperors.",
+                  "category": "historical",
+                  "coords": [
+                        6.25864,
+                        35.491255
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-05",
     coords: [6.2667, 35.4833],
@@ -285,7 +1671,88 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Les vestiges d'un grand camp de légion romaine dans la province de Numidie, qui servait de base à la Legio III Augusta.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/lambaesis-history-v2.webp"},
   {
-    id: "tiddis-ruins-history-v2",
+    id: "tiddis-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines Romaines Tiddis",
+                  "text": "Die römischen Ruinen von Tiddis umfassen eine antike Hügelsiedlung, die mit beeindruckenden terrassenförmigen Straßen strukturiert ist.",
+                  "category": "historical",
+                  "coords": [
+                        6.482372,
+                        36.462372
+                  ]
+            },
+            {
+                  "name": "Quintus Lollius Urbicus Mausoleum",
+                  "text": "Das Mausoleum des Quintus Lollius Urbicus ist ein markantes kreisförmiges Grabmal für einen prominenten römischen Statthalter aus Tiddis.",
+                  "category": "historical",
+                  "coords": [
+                        6.483458,
+                        36.489773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines Romaines Tiddis",
+                  "text": "Tiddis római kori romjai egy ősi hegyvidéki települést mutatnak be, amelynek lenyűgöző teraszos utcái vannak.",
+                  "category": "historical",
+                  "coords": [
+                        6.482372,
+                        36.462372
+                  ]
+            },
+            {
+                  "name": "Quintus Lollius Urbicus Mausoleum",
+                  "text": "A Quintus Lollius Urbicus-mauzóleum egy jellegzetes kör alakú síremlék, amelyet Tiddisből származó kiemelkedő római kormányzónak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        6.483458,
+                        36.489773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines Romaines Tiddis",
+                  "text": "Ruinele romane de la Tiddis prezintă o așezare antică pe deal, structurată cu străzi terasate impresionante.",
+                  "category": "historical",
+                  "coords": [
+                        6.482372,
+                        36.462372
+                  ]
+            },
+            {
+                  "name": "Quintus Lollius Urbicus Mausoleum",
+                  "text": "Mausoleul lui Quintus Lollius Urbicus este un mormânt circular distinct, dedicat unui guvernator roman proeminent originar din Tiddis.",
+                  "category": "historical",
+                  "coords": [
+                        6.483458,
+                        36.489773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruines Romaines Tiddis",
+                  "text": "The Roman ruins of Tiddis feature an ancient hillside settlement structured with impressive terraced streets.",
+                  "category": "historical",
+                  "coords": [
+                        6.482372,
+                        36.462372
+                  ]
+            },
+            {
+                  "name": "Quintus Lollius Urbicus Mausoleum",
+                  "text": "The Quintus Lollius Urbicus Mausoleum is a distinct circular tomb dedicated to a prominent Roman governor native to Tiddis.",
+                  "category": "historical",
+                  "coords": [
+                        6.483458,
+                        36.489773
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-25",
     coords: [6.4833, 36.4667],
@@ -379,7 +1846,124 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Les ruines impressionnantes d'une ville fortifiée et d'une mosquée, construites au XIVe siècle pendant le siège de Tlemcen par les Mérinides.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/mansourah-mosque-history-v2.webp"},
   {
-    id: "khemissa-thubursicum-history-v2",
+    id: "khemissa-thubursicum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines romaines de Khemissa",
+                  "text": "Diese ausgedehnten Ruinen bewahren die Überreste der römisch-berberischen Stadt Thubursicum in Khemissa.",
+                  "category": "historical",
+                  "coords": [
+                        7.656604,
+                        36.193423
+                  ]
+            },
+            {
+                  "name": "Forum Novum",
+                  "text": "Das Forum Novum war einst ein zentraler öffentlicher Platz für Handel und Versammlungen in der antiken Stadt Khemissa.",
+                  "category": "historical",
+                  "coords": [
+                        7.653989,
+                        36.1919
+                  ]
+            },
+            {
+                  "name": "Thubursicum Numidarum",
+                  "text": "Die weitreichenden Ruinen von Thubursicum Numidarum umfassen Überreste einer bedeutenden römisch-berberischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        7.655814,
+                        36.191238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines romaines de Khemissa",
+                  "text": "Ezek a kiterjedt romok őrzik a római-berber Thubursicum város maradványait Khemissában.",
+                  "category": "historical",
+                  "coords": [
+                        7.656604,
+                        36.193423
+                  ]
+            },
+            {
+                  "name": "Forum Novum",
+                  "text": "A Forum Novum egykor a kereskedelem és a gyülekezések központi tere volt az ókori Khemissa városában.",
+                  "category": "historical",
+                  "coords": [
+                        7.653989,
+                        36.1919
+                  ]
+            },
+            {
+                  "name": "Thubursicum Numidarum",
+                  "text": "Thubursicum Numidarum kiterjedt romjai egy jelentős római-berber város maradványait foglalják magukban.",
+                  "category": "historical",
+                  "coords": [
+                        7.655814,
+                        36.191238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines romaines de Khemissa",
+                  "text": "Aceste ruine întinse păstrează vestigiile orașului romano-berber Thubursicum din Khemissa.",
+                  "category": "historical",
+                  "coords": [
+                        7.656604,
+                        36.193423
+                  ]
+            },
+            {
+                  "name": "Forum Novum",
+                  "text": "Forum Novum a fost cândva o piață publică centrală pentru comerț și adunări în orașul antic Khemissa.",
+                  "category": "historical",
+                  "coords": [
+                        7.653989,
+                        36.1919
+                  ]
+            },
+            {
+                  "name": "Thubursicum Numidarum",
+                  "text": "Ruinele extinse ale Thubursicum Numidarum includ rămășițele unui important oraș romano-berber.",
+                  "category": "historical",
+                  "coords": [
+                        7.655814,
+                        36.191238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruines romaines de Khemissa",
+                  "text": "These extensive ruins preserve the remains of the Roman-Berber city of Thubursicum in Khemissa.",
+                  "category": "historical",
+                  "coords": [
+                        7.656604,
+                        36.193423
+                  ]
+            },
+            {
+                  "name": "Forum Novum",
+                  "text": "The Forum Novum was once a central public square for trade and gatherings in the ancient city of Khemissa.",
+                  "category": "historical",
+                  "coords": [
+                        7.653989,
+                        36.1919
+                  ]
+            },
+            {
+                  "name": "Thubursicum Numidarum",
+                  "text": "The expansive ruins of Thubursicum Numidarum encompass the remains of a significant Roman-Berber city.",
+                  "category": "historical",
+                  "coords": [
+                        7.655814,
+                        36.191238
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-41",
     coords: [7.6667, 36.1833],
@@ -426,7 +2010,88 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["L'antique Thubursicum Numidarum avec l'un des théâtres romains les mieux conservés d'Afrique du Nord au milieu d'un paysage vallonné.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/khemissa-thubursicum-history-v2.webp"},
   {
-    id: "madauros-history-v2",
+    id: "madauros-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madauros Theatre",
+                  "text": "Das Madauros Theatre zeigt die aus Stein gehauenen Zuschauerränge einer klassischen römischen Unterhaltungsstätte.",
+                  "category": "historical",
+                  "coords": [
+                        7.901459,
+                        36.077898
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Die Maison de jeunes ist ein lokales Gebäude, das jungen Menschen Raum für Freizeitgestaltung und künstlerische Workshops bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.818248,
+                        36.077538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madauros Theatre",
+                  "text": "A Madaurosz Színház egy klasszikus római szórakoztatóipari létesítmény kőből faragott nézőterét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        7.901459,
+                        36.077898
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "A Maison de jeunes egy helyi intézmény, amely teret biztosít a fiatalok számára a szabadidős tevékenységekhez és művészeti foglalkozásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        7.818248,
+                        36.077538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madauros Theatre",
+                  "text": "Teatrul din Madauros expune treptele pentru spectatori sculptate în piatră ale unui spațiu clasic de divertisment roman.",
+                  "category": "historical",
+                  "coords": [
+                        7.901459,
+                        36.077898
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Maison de jeunes este o clădire comunitară care oferă tinerilor spații pentru activități de agrement și ateliere artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        7.818248,
+                        36.077538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madauros Theatre",
+                  "text": "The Madauros Theatre showcases the stone-carved seating tiers of a classical Roman entertainment venue.",
+                  "category": "historical",
+                  "coords": [
+                        7.901459,
+                        36.077898
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "The Maison de jeunes is a local civic building providing space for youth recreation and artistic community workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        7.818248,
+                        36.077538
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-41",
     coords: [7.8833, 36.1167],
@@ -473,7 +2138,412 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Une ancienne ville numido-romaine qui était considérée comme un centre important de la théologie et de la littérature chrétiennes primitives en Afrique.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/madauros-history-v2.webp"},
   {
-    id: "hippo-regius-history-v2",
+    id: "hippo-regius-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Dieses Museum stellt faszinierende antike Artefakte aus den benachbarten Ausgrabungen der römischen Stadt Hippo Regius aus.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Die Ruinen dieser großen antiken Thermen im südlichen Sektor von Hippo Regius veranschaulichen die damalige Badekultur.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Die Überreste dieser großzügigen römischen Residenz in Hippo Regius lassen den einstigen Reichtum des Prokurators erahnen.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Die steinernen Ränge dieses antiken römischen Freilufttheaters boten einst Platz für zahlreiche Zuschauer im alten Hippo Regius.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Risidance el hana",
+                  "text": "Diese moderne Wohn- oder Unterkunftsanlage fügt sich in das zeitgenössische Stadtbild nahe der historischen Stätten ein.",
+                  "category": "landmark",
+                  "coords": [
+                        7.728028,
+                        36.891579
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Diese majestätische katholische Basilika thront auf einem Hügel und ist dem berühmten Kirchenvater Augustinus von Hippo gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        7.74474,
+                        36.881921
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Dieses Areal war das antike römische Forum und bildete das einst belebte politische und kommerzielle Zentrum von Hippo Regius.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "Macellum of Hippo Regius",
+                  "text": "Die Ruinen dieses antiken Macellums zeigen die architektonischen Überreste einer römischen Markthalle für Lebensmittel.",
+                  "category": "historical",
+                  "coords": [
+                        7.749702,
+                        36.882736
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "Diese antiken römischen Thermenanlagen boten den Bürgern von Hippo Regius einst luxuriöse Bade- und Entspannungsmöglichkeiten.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Great Church of Hippo Regius",
+                  "text": "In den Überresten dieser großen christlichen Basilika soll einst der heilige Augustinus von Hippo gepredigt haben.",
+                  "category": "historical",
+                  "coords": [
+                        7.75089,
+                        36.883062
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Dieses städtische Jugendzentrum bietet einen kreativen Treffpunkt für junge Menschen mit verschiedenen kulturellen Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        7.735405,
+                        36.855736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Ez a múzeum lenyűgöző ókori műtárgyakat állít ki a szomszédos római város, Hippo Regius ásatásaiból.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Hippo Regius déli szektorában található nagyméretű ókori termák romjai az akkori fürdőkultúrát szemléltetik.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Ennek a tágas római rezidenciának a maradványai Hippo Regiusban a procurator egykori gazdagságát sejtetik.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Ennek az ókori római szabadtéri színháznak a kősorai egykor számos nézőnek adtak helyet a régi Hippo Regiusban.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Risidance el hana",
+                  "text": "Ez a modern lakó- vagy szálláskomplexum beilleszkedik a történelmi helyszínekhez közeli kortárs városképbe.",
+                  "category": "landmark",
+                  "coords": [
+                        7.728028,
+                        36.891579
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Ez a fenséges katolikus bazilika egy dombon týmagasodik, és a híres egyházatya, Hippói Szent Ágoston tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        7.74474,
+                        36.881921
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Ez a terület volt az ókori római fórum, és Hippo Regius egykor nyüzsgő politikai és kereskedelmi központját alkotta.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "Macellum of Hippo Regius",
+                  "text": "Ennek az ókori macellumnak a romjai egy római élelmiszerpiac építészeti maradványait mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        7.749702,
+                        36.882736
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "Ezek az ókori római fürdőkomplexumok egykor luxus fürdőzési és pihenési lehetőségeket kínáltak Hippo Regius polgárainak.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Great Church of Hippo Regius",
+                  "text": "Ennek a nagy keresztény bazilikának a maradványaiban állítólag egykor Hippói Szent Ágoston prédikált.",
+                  "category": "historical",
+                  "coords": [
+                        7.75089,
+                        36.883062
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Ez a városi ifjúsági központ kreatív találkozóhelyet kínál a fiatalok számára különféle kulturális tevékenységekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        7.735405,
+                        36.855736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Acest muzeu expune artefacte antice fascinante de la săpăturile învecinate ale orașului roman Hippo Regius.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Ruinele acestor mari terme antice din sectorul sudic al orașului Hippo Regius ilustrează cultura băilor de la acea vreme.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Rămășițele acestei reședințe romane spațioase din Hippo Regius sugerează bogăția de odinioară a procuratorului.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Treptele de piatră ale acestui antic teatru roman în aer liber au oferit odată loc pentru numeroși spectatori în vechiul Hippo Regius.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Risidance el hana",
+                  "text": "Acest complex modern rezidențial sau de cazare se integrează în peisajul urban contemporan din apropierea siturilor istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        7.728028,
+                        36.891579
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Această maiestuoasă basilică catolică tronează pe un deal și este dedicată celebrului părinte al bisericii, Augustin de Hipona.",
+                  "category": "religious",
+                  "coords": [
+                        7.74474,
+                        36.881921
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Această zonă a fost forumul roman antic și a format centrul politic și comercial odată plin de viață al orașului Hippo Regius.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "Macellum of Hippo Regius",
+                  "text": "Ruinele acestui macellum antic prezintă rămășițele arhitecturale ale unei piețe romane de alimente.",
+                  "category": "historical",
+                  "coords": [
+                        7.749702,
+                        36.882736
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "Aceste complexe de băi romane antice au oferit odată cetățenilor din Hippo Regius opțiuni luxoase de scăldat și relaxare.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Great Church of Hippo Regius",
+                  "text": "În rămășițele acestei mari bazilici creștine se spune că a predicat odată Sfântul Augustin de Hipona.",
+                  "category": "historical",
+                  "coords": [
+                        7.75089,
+                        36.883062
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Acest centru municipal de tineret oferă un loc de întâlnire creativ pentru tineri, cu diverse activități culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.735405,
+                        36.855736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "This museum displays fascinating ancient artifacts from the adjacent excavations of the Roman city of Hippo Regius.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "The ruins of these large ancient thermal baths in the southern sector of Hippo Regius illustrate the bathing culture of the time.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "The remains of this spacious Roman residential villa in Hippo Regius hint at the former wealth of the procurator.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "The stone tiers of this ancient Roman open-air theater once accommodated numerous spectators in old Hippo Regius.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Risidance el hana",
+                  "text": "This modern residential or lodging complex blends into the contemporary cityscape near the historic sites.",
+                  "category": "landmark",
+                  "coords": [
+                        7.728028,
+                        36.891579
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Set on a hill, this majestic Catholic basilica is dedicated to the famous early Christian theologian Saint Augustine of Hippo.",
+                  "category": "religious",
+                  "coords": [
+                        7.74474,
+                        36.881921
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "This area was the ancient Roman forum, forming the once-bustling political and commercial center of Hippo Regius.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "Macellum of Hippo Regius",
+                  "text": "The ruins of this ancient macellum showcase the architectural remains of a Roman indoor provisions market.",
+                  "category": "historical",
+                  "coords": [
+                        7.749702,
+                        36.882736
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "These ancient Roman bath complexes once offered the citizens of Hippo Regius luxurious bathing and relaxation facilities.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Great Church of Hippo Regius",
+                  "text": "Saint Augustine of Hippo is said to have once preached within the remains of this large Christian basilica.",
+                  "category": "historical",
+                  "coords": [
+                        7.75089,
+                        36.883062
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "This municipal youth center provides a creative meeting place for young people with various cultural activities.",
+                  "category": "cultural",
+                  "coords": [
+                        7.735405,
+                        36.855736
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-23",
     coords: [7.75, 36.8833],
@@ -520,7 +2590,196 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Les ruines antiques d'une importante ville portuaire phénicienne, berbère et romaine, où vécut Augustin d'Hippone.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/hippo-regius-history-v2.webp"},
   {
-    id: "calama-guelma-history-v2",
+    id: "calama-guelma-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jeu des Boules",
+                  "text": "Dieser öffentliche Platz in Guelma ist ein beliebter lokaler Treffpunkt für traditionelle Boule-Spiele.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436505,
+                        36.463429
+                  ]
+            },
+            {
+                  "name": "Théatre Romain",
+                  "text": "Das rekonstruierte römische Theater von Calama in Guelma beeindruckt mit seinen historischen Sitzreihen.",
+                  "category": "historical",
+                  "coords": [
+                        7.43022,
+                        36.467193
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipal",
+                  "text": "Das Stadttheater von Guelma ist eine wichtige architektonische Institution für klassische und moderne Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.431909,
+                        36.464617
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Dieses Museum in Guelma widmet sich mit historischen Exponaten dem algerischen Unabhängigkeitskrieg.",
+                  "category": "museum",
+                  "coords": [
+                        7.435431,
+                        36.472959
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Das Jugendzentrum in Guelma bietet kreative Workshops und kulturelle Aktivitäten für Heranwachsende.",
+                  "category": "cultural",
+                  "coords": [
+                        7.436148,
+                        36.505545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jeu des Boules",
+                  "text": "Ez a guelmai központ egy népszerű helyi találkozóhely a hagyományos pétanque játékokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436505,
+                        36.463429
+                  ]
+            },
+            {
+                  "name": "Théatre Romain",
+                  "text": "A guelmai Calama rekonstruált római színháza lenyűgöz történelmi üléssoraival.",
+                  "category": "historical",
+                  "coords": [
+                        7.43022,
+                        36.467193
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipal",
+                  "text": "Guelma Városi Színháza a klasszikus és modern előadások fontos építészeti intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        7.431909,
+                        36.464617
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Ez a guelmai múzeum történelmi kiállítási tárgyaival az algériai függetlenségi háborúnak szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        7.435431,
+                        36.472959
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "A guelmai ifjúsági központ kreatív workshopokat és kulturális tevékenységeket kínál fiatalok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.436148,
+                        36.505545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jeu des Boules",
+                  "text": "Acest spațiu public din Guelma este un loc de întâlnire popular la nivel local pentru jocurile tradiționale cu bile.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436505,
+                        36.463429
+                  ]
+            },
+            {
+                  "name": "Théatre Romain",
+                  "text": "Teatrul roman reconstruit din Calama, situat în Guelma, impresionează prin rândurile sale istorice de scaune.",
+                  "category": "historical",
+                  "coords": [
+                        7.43022,
+                        36.467193
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipal",
+                  "text": "Teatrul Municipal din Guelma este o instituție arhitecturală importantă pentru spectacole clasice și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        7.431909,
+                        36.464617
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Acest muzeu din Guelma este dedicat Războiului de Independență al Algeriei, prin intermediul exponatelor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.435431,
+                        36.472959
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Centrul pentru tineret din Guelma oferă ateliere creative și activități culturale pentru adolescenți.",
+                  "category": "cultural",
+                  "coords": [
+                        7.436148,
+                        36.505545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jeu des Boules",
+                  "text": "This public square in Guelma is a popular local gathering spot for traditional boules games.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436505,
+                        36.463429
+                  ]
+            },
+            {
+                  "name": "Théatre Romain",
+                  "text": "The reconstructed Roman theatre of Calama in Guelma impresses with its historic rows of seating.",
+                  "category": "historical",
+                  "coords": [
+                        7.43022,
+                        36.467193
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipal",
+                  "text": "The Municipal Theatre of Guelma is a key architectural institution for classical and modern performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.431909,
+                        36.464617
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "This museum in Guelma is dedicated to the Algerian War of Independence through its historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        7.435431,
+                        36.472959
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "The youth center in Guelma offers creative workshops and cultural activities for adolescents.",
+                  "category": "cultural",
+                  "coords": [
+                        7.436148,
+                        36.505545
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-24",
     coords: [7.4333, 36.4667],
@@ -567,7 +2826,52 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Établissement romain, célèbre pour son théâtre antique bien restauré qui abrite encore aujourd'hui d'impressionnantes statues.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/calama-guelma-history-v2.webp"},
     {
-    id: "medracen-history-v2",
+    id: "medracen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc d'attraction Kadri",
+                  "text": "Der Parc d'attraction Kadri ist ein familienorientierter Vergnügungspark mit verschiedenen mechanischen Fahrgeschäften und Karussells.",
+                  "category": "recreational",
+                  "coords": [
+                        6.255692,
+                        35.621087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc d'attraction Kadri",
+                  "text": "A Parc d'attraction Kadri egy családbarát vidámpark, amely különféle mechanikus játékgépekkel és körhintákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        6.255692,
+                        35.621087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc d'attraction Kadri",
+                  "text": "Parc d'attraction Kadri este un parc tematic orientat spre familii, oferind diverse atracții mecanice și carusele.",
+                  "category": "recreational",
+                  "coords": [
+                        6.255692,
+                        35.621087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc d'attraction Kadri",
+                  "text": "Parc d'attraction Kadri is a vibrant theme park featuring a variety of mechanical rides and family-oriented carousels.",
+                  "category": "recreational",
+                  "coords": [
+                        6.255692,
+                        35.621087
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-05",
     coords: [6.2167, 35.6833],
@@ -661,7 +2965,52 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["L'ancienne capitale du royaume de Numidie, qui a donné naissance plus tard à la ville moderne de Constantine et ses gorges.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/cirta-ruins-history-v2.webp"},
   {
-    id: "sigus-megaliths-history-v2",
+    id: "sigus-megaliths-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djebel Fertas",
+                  "text": "Der Djebel Fertas ist ein markanter Berggipfel, der eine raue Naturlandschaft über der Megalithregion von Sigus bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.710221,
+                        36.05511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djebel Fertas",
+                  "text": "A Djebel Fertas egy kiemelkedő hegycsúcs, amely zord természeti tájat kínál Sigus megalitikus régiója felett.",
+                  "category": "natural",
+                  "coords": [
+                        6.710221,
+                        36.05511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djebel Fertas",
+                  "text": "Djebel Fertas este un vârf montan proeminent care oferă un peisaj natural accidentat deasupra regiunii megalitice Sigus.",
+                  "category": "natural",
+                  "coords": [
+                        6.710221,
+                        36.05511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djebel Fertas",
+                  "text": "Djebel Fertas is a prominent mountain peak offering rugged natural landscapes above the megalic region of Sigus.",
+                  "category": "natural",
+                  "coords": [
+                        6.710221,
+                        36.05511
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-04",
     coords: [6.7833, 36.1167],
@@ -755,7 +3104,52 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Une immense nécropole préhistorique dans l'est de l'Algérie, comprenant plus de mille dolmens anciens et complexes funéraires.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/roknia-dolmens-history-v2.webp"},
   {
-    id: "zana-diana-veteranorum-history-v2",
+    id: "zana-diana-veteranorum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines romaines de Diana Veteranorum",
+                  "text": "Diana Veteranorum ist eine antike römische Siedlung in Numidien, deren weitreichende Ruinen Bögen und alte Fundamente umfassen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.07467,
+                        35.779956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines romaines de Diana Veteranorum",
+                  "text": "Diana Veteranorum egy numídiai ősi római település, amelynek kiterjedt romjai diadalíveket és régi alapozásokat foglalnak magukban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.07467,
+                        35.779956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines romaines de Diana Veteranorum",
+                  "text": "Diana Veteranorum este o antică așezare romană din Numidia, ale cărei ruine extinse includ arcuri de triumf și fundații vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.07467,
+                        35.779956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diana Veteranorum",
+                  "text": "Diana Veteranorum is an ancient Roman settlement in Numidia preserved as an expansive archaeological ruin with standing arches.",
+                  "category": "landmark",
+                  "coords": [
+                        6.07467,
+                        35.779956
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-05",
     coords: [6.0833, 35.7833],
@@ -849,7 +3243,52 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Jadis une importante cité numide, puis romaine et islamique, dont il ne reste aujourd'hui que des vestiges archéologiques.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/tobna-tubunae-history-v2.webp"},
   {
-    id: "ksar-beni-abbes-history-v2",
+    id: "ksar-beni-abbes-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beni Abbes Museum",
+                  "text": "Das Museum Beni Abbes zeigt die saharische Flora, Fauna sowie lokale ethnografische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -2.176692,
+                        30.129233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beni Abbes Museum",
+                  "text": "A Beni Abbes Múzeum a szaharai növény- és állatvilágot, valamint helyi néprajzi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.176692,
+                        30.129233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beni Abbes Museum",
+                  "text": "Muzeul Beni Abbes expune flora și fauna sahariană, alături de artefacte etnografice locale.",
+                  "category": "museum",
+                  "coords": [
+                        -2.176692,
+                        30.129233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beni Abbes Museum",
+                  "text": "The Beni Abbes Museum showcases Saharan flora, fauna, and local ethnographic artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -2.176692,
+                        30.129233
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-08",
     coords: [-2.1833, 30.1333],
@@ -943,7 +3382,88 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Un complexe palatial royal historique du XIIIe siècle qui servit de résidence aux souverains Zianides de Tlemcen.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/el-mechouar-palace-history-v2.webp"},
   {
-    id: "tlemcen-great-mosque-history-v2",
+    id: "tlemcen-great-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Memorial",
+                  "text": "Dieses Denkmal in der Nähe der Großen Moschee von Tlemcen erinnert an wichtige historische Ereignisse der Region.",
+                  "category": "historical",
+                  "coords": [
+                        1.241812,
+                        34.896088
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Dieses Jugendkulturzentrum in der Nähe der Großen Moschee von Tlemcen ist ein Treffpunkt für lokale Kunst und Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        1.242468,
+                        34.894421
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Memorial",
+                  "text": "Ez a tlemceni Nagy Mecset közelében található emlékmű a régió fontos történelmi eseményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        1.241812,
+                        34.896088
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Ez a tlemceni Nagy Mecset közelében található ifjúsági kulturális központ a helyi művészetek és tevékenységek találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        1.242468,
+                        34.894421
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memorial",
+                  "text": "Acest monument situat în apropierea Marii Moschei din Tlemcen comemorează evenimente istorice importante din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        1.241812,
+                        34.896088
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Acest centru cultural pentru tineret, situat în apropierea Marii Moschei din Tlemcen, este un loc de întâlnire pentru arta și activitățile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.242468,
+                        34.894421
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial",
+                  "text": "This monument near the Great Mosque of Tlemcen commemorates important historical events of the region.",
+                  "category": "historical",
+                  "coords": [
+                        1.241812,
+                        34.896088
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "This youth cultural centre near the Great Mosque of Tlemcen is a meeting place for local arts and activities.",
+                  "category": "cultural",
+                  "coords": [
+                        1.242468,
+                        34.894421
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-13",
     coords: [1.3139, 34.8817],
@@ -990,7 +3510,268 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["L'un des exemples les mieux conservés de l'architecture almoravide au Maghreb, ayant une importance religieuse historique pour la région.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/tlemcen-great-mosque-history-v2.webp"},
   {
-    id: "bida-ruins-history-v2",
+    id: "bida-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "Ein Freilicht-Amphitheater, das dem Moudjahid Mechedou Salah gewidmet ist und für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "Der regionale Veranstaltungsort für darstellende Künste, der nach Amar Laskri benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "Ein Freizeit-Wasserpark mit großen Schwimmbädern und aufregenden Wasserrutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.877059,
+                        36.383717
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
+                  "text": "Ein historisches Denkmal zum Gedenken an die gefallenen Helden des Algerienkriegs von 1954 bis 1962.",
+                  "category": "historical",
+                  "coords": [
+                        3.892212,
+                        36.37356
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "Ein historisches Museum, das dem algerischen Unabhängigkeitskampf und den Mudschaheddin gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.882886,
+                        36.379254
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "Das städtische Theater der Region, in dem regelmäßig Theaterstücke und Gemeinschaftsaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380726
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "Die alten Steinruinen der historischen Festung Bordj Hamza.",
+                  "category": "historical",
+                  "coords": [
+                        3.892968,
+                        36.369452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "Egy szabadtéri amfiteátrum, amelyet Moudjahid Mechedou Salah-nak szenteltek, és kulturális rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "Az Amar Laskriról elnevezett regionális előadó-művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "Egy szabadidős vízipark, amely úszómedencékkel és izgalmas vízi csúszdákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        3.877059,
+                        36.383717
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
+                  "text": "Történelmi emlékmű, amely az 1954-1962 közötti algériai háború elesett hőseinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        3.892212,
+                        36.37356
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "Történelmi múzeum, amely az algériai függetlenségi harcnak és a mudzsaheddeknek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        3.882886,
+                        36.379254
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "A helyi önkormányzati színház, amely színdaraboknak és közösségi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380726
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "A történelmi Bordj Hamza erőd ősi kőromjai.",
+                  "category": "historical",
+                  "coords": [
+                        3.892968,
+                        36.369452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "Un amfiteatru în aer liber dedicat lui Moudjahid Mechedou Salah, folosit pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "Locul regional pentru artele spectacolului, numit după Amar Laskri.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "Un parc acvatic de agrement cu piscine mari și tobogane cu apă.",
+                  "category": "recreational",
+                  "coords": [
+                        3.877059,
+                        36.383717
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
+                  "text": "Un monument istoric care comemorează eroii căzuți în Războiul din Algeria între 1954 și 1962.",
+                  "category": "historical",
+                  "coords": [
+                        3.892212,
+                        36.37356
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "Un muzeu istoric dedicat luptei algeriene pentru independență și mujahedinilor.",
+                  "category": "museum",
+                  "coords": [
+                        3.882886,
+                        36.379254
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "Teatrul municipal local, care găzduiește piese de teatru și spectacole comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380726
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "Vechile ruine de piatră ale fortăreței istorice Bordj Hamza.",
+                  "category": "historical",
+                  "coords": [
+                        3.892968,
+                        36.369452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "An open-air amphitheatre dedicated to Moudjahid Mechedou Salah, used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "The regional performing arts venue named after Amar Laskri.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "A recreational water park featuring swimming pools and water slides.",
+                  "category": "recreational",
+                  "coords": [
+                        3.877059,
+                        36.383717
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
+                  "text": "A historical monument commemorating the fallen heroes of the 1954-1962 Algerian War.",
+                  "category": "historical",
+                  "coords": [
+                        3.892212,
+                        36.37356
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "A historical museum dedicated to the Algerian struggle for independence and the Moudjahideen.",
+                  "category": "museum",
+                  "coords": [
+                        3.882886,
+                        36.379254
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "A local municipal theatre hosting plays and community performances.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380726
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "The ancient stone ruins of the historical Bordj Hamza fortress.",
+                  "category": "historical",
+                  "coords": [
+                        3.892968,
+                        36.369452
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-10",
     coords: [3.8833, 36.3167],
@@ -1084,7 +3865,304 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Les anciennes ruines du port romain près de l'actuelle Bethioua, qui revêtaient une importance stratégique pour l'exportation agricole dans l'Antiquité.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/portus-magnus-history-v2.webp"},
   {
-    id: "nedroma-historic-town-history-v2",
+    id: "nedroma-historic-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bab Taza",
+                  "text": "Dieser Berggipfel erhebt sich über der historischen Stadt Nedroma und bietet einen weiten Blick auf die umliegende algerische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -1.755151,
+                        34.974231
+                  ]
+            },
+            {
+                  "name": "Djebel El Goulia",
+                  "text": "Dieser markante, schroffe Gipfel bietet anspruchsvolle Wanderwege mit Blick auf die historische Region des Trara-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        -1.735925,
+                        34.981686
+                  ]
+            },
+            {
+                  "name": "BDL",
+                  "text": "Dieses monumentale Bankgebäude, das ursprünglich für die lokale Entwicklung errichtet wurde, weist charakteristische regionale Architekturelemente auf.",
+                  "category": "historical",
+                  "coords": [
+                        -1.745868,
+                        35.010162
+                  ]
+            },
+            {
+                  "name": "Makem Chahid",
+                  "text": "Dieses feierliche Gedenkmonument ist eine dauerhafte Hommage an die lokalen Märtyrer der algerischen Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        -1.749158,
+                        35.012995
+                  ]
+            },
+            {
+                  "name": "Sayyidi Musa",
+                  "text": "Dieses historische Mausoleum, das einer verehrten lokalen spirituellen Persönlichkeit gewidmet ist, ist eine Stätte von tiefer kultureller Bedeutung in Nedroma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.713769,
+                        35.057577
+                  ]
+            },
+            {
+                  "name": "Zaouia Sidi Benamer",
+                  "text": "Dieser traditionelle Sufi-Religionskomplex diente jahrhundertelang sowohl als spiritueller Rückzugsort als auch als islamisches Bildungszentrum.",
+                  "category": "historical",
+                  "coords": [
+                        -1.650552,
+                        35.041634
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Die Große Moschee von Nedroma ist für ihre almoravidischen architektonischen Ursprünge bekannt und verfügt über eines der ältesten erhaltenen Minarette im Maghreb.",
+                  "category": "religious",
+                  "coords": [
+                        -1.747042,
+                        35.008155
+                  ]
+            },
+            {
+                  "name": "Sidi Benamar",
+                  "text": "Dieser verehrte historische Schrein ist ein Zeugnis des tief verwurzelten islamischen Erbes der Region Nedroma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79632,
+                        35.046692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bab Taza",
+                  "text": "A történelmi Nedroma városa fölé magasodó hegycsúcsról lenyűgöző kilátás nyílik a környező algériai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.755151,
+                        34.974231
+                  ]
+            },
+            {
+                  "name": "Djebel El Goulia",
+                  "text": "Ez a kiemelkedő, zord csúcs kihívást jelentő túraútvonalakat kínál, kilátással a történelmi Trara-hegység régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        -1.735925,
+                        34.981686
+                  ]
+            },
+            {
+                  "name": "Agence BDL",
+                  "text": "Az eredetileg a helyi fejlesztésre létrehozott monumentális banképület jellegzetes regionális építészeti elemekkel rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        -1.745868,
+                        35.010162
+                  ]
+            },
+            {
+                  "name": "Makem Chahid",
+                  "text": "Ez az ünnepélyes emlékmű az algériai forradalom helyi mártírjai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -1.749158,
+                        35.012995
+                  ]
+            },
+            {
+                  "name": "Sayyidi Musa",
+                  "text": "Egy tisztelt helyi spirituális személyiségnek szentelt történelmi mauzóleum mély kulturális jelentőséggel bír Nedromában.",
+                  "category": "historical",
+                  "coords": [
+                        -1.713769,
+                        35.057577
+                  ]
+            },
+            {
+                  "name": "Zaouia Sidi Benamer",
+                  "text": "Ez a hagyományos szúfi vallási komplexum évszázadokon át spirituális menedékként és iszlám oktatási központként is szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -1.650552,
+                        35.041634
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Az almorávida építészeti eredetéről ismert nedromai nagymecset a Maghreb régió egyik legrégebbi fennmaradt minaretjével büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        -1.747042,
+                        35.008155
+                  ]
+            },
+            {
+                  "name": "Sidi Benamar",
+                  "text": "Ez a tisztelt történelmi szentély a nedromai régió mélyen gyökerező iszlám örökségének bizonyítéka.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79632,
+                        35.046692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bab Taza",
+                  "text": "Ridicându-se deasupra orașului istoric Nedroma, acest vârf de munte oferă vederi panoramice ale peisajului algerian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -1.755151,
+                        34.974231
+                  ]
+            },
+            {
+                  "name": "Djebel El Goulia",
+                  "text": "Acest vârf stâncos proeminent oferă trasee montane provocatoare, cu vedere la regiunea istorică a Munților Trara.",
+                  "category": "natural",
+                  "coords": [
+                        -1.735925,
+                        34.981686
+                  ]
+            },
+            {
+                  "name": "Agence BDL",
+                  "text": "Înființată inițial pentru dezvoltarea locală, această clădire monumentală de bancă prezintă elemente arhitecturale regionale distincte.",
+                  "category": "historical",
+                  "coords": [
+                        -1.745868,
+                        35.010162
+                  ]
+            },
+            {
+                  "name": "Makem Chahid",
+                  "text": "Acest monument memorial solemn stă ca un tribut de durată adus martirilor locali ai revoluției algeriene.",
+                  "category": "historical",
+                  "coords": [
+                        -1.749158,
+                        35.012995
+                  ]
+            },
+            {
+                  "name": "Sayyidi Musa",
+                  "text": "Dedicat unei figuri spirituale locale venerate, acest monument istoric de tip mausoleu este un sit cu o semnificație culturală profundă în Nedroma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.713769,
+                        35.057577
+                  ]
+            },
+            {
+                  "name": "Zaouia Sidi Benamer",
+                  "text": "Acest complex religios sufit tradițional a servit timp de secole atât ca refugiu spiritual, cât și ca centru educațional islamic.",
+                  "category": "historical",
+                  "coords": [
+                        -1.650552,
+                        35.041634
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Cunoscută pentru originile sale arhitecturale almoravide, Marea Moschee din Nedroma prezintă unul dintre cele mai vechi minarete supraviețuitoare din Maghreb.",
+                  "category": "religious",
+                  "coords": [
+                        -1.747042,
+                        35.008155
+                  ]
+            },
+            {
+                  "name": "Sidi Benamar",
+                  "text": "Acest altar istoric venerat stă ca o mărturie a moștenirii islamice adânc înrădăcinate a regiunii Nedroma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79632,
+                        35.046692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bab Taza",
+                  "text": "Rising above the historic town of Nedroma, this mountain peak provides sweeping views of the surrounding Algerian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -1.755151,
+                        34.974231
+                  ]
+            },
+            {
+                  "name": "Djebel El Goulia",
+                  "text": "This prominent rugged peak offers challenging hiking trails overlooking the historic Trara Mountains region.",
+                  "category": "natural",
+                  "coords": [
+                        -1.735925,
+                        34.981686
+                  ]
+            },
+            {
+                  "name": "Agence BDL",
+                  "text": "Originally established for local development, this monumental bank building features distinct regional architectural elements.",
+                  "category": "historical",
+                  "coords": [
+                        -1.745868,
+                        35.010162
+                  ]
+            },
+            {
+                  "name": "Makem Chahid",
+                  "text": "This solemn memorial monument stands as a lasting tribute to the local martyrs of the Algerian revolution.",
+                  "category": "historical",
+                  "coords": [
+                        -1.749158,
+                        35.012995
+                  ]
+            },
+            {
+                  "name": "Sayyidi Musa",
+                  "text": "Dedicated to a revered local spiritual figure, this historic mausoleum monument is a site of deep cultural significance in Nedroma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.713769,
+                        35.057577
+                  ]
+            },
+            {
+                  "name": "Zaouia Sidi Benamer",
+                  "text": "This traditional Sufi religious complex served as both a spiritual retreat and an Islamic educational center for centuries.",
+                  "category": "historical",
+                  "coords": [
+                        -1.650552,
+                        35.041634
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Known for its Almoravid architectural origins, the Great Mosque of Nedroma features one of the oldest surviving minarets in the Maghreb.",
+                  "category": "religious",
+                  "coords": [
+                        -1.747042,
+                        35.008155
+                  ]
+            },
+            {
+                  "name": "Sidi Benamar",
+                  "text": "This revered historical shrine stands as a testament to the deep-rooted Islamic heritage of the Nedroma region.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79632,
+                        35.046692
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-13",
     coords: [-1.75, 35.0167],
@@ -1131,7 +4209,88 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["Une ancienne ville andalouse d'Algérie, connue pour son architecture traditionnelle et comme refuge pour les réfugiés maures après la Reconquista.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/nedroma-historic-town-history-v2.webp"},
   {
-    id: "palace-of-the-dey-history-v2",
+    id: "palace-of-the-dey-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trois Horloges",
+                  "text": "Das Monument Trois Horloges ist eine ikonische öffentliche Uhrenstruktur, die prominent im belebten Viertel Bab El Oued steht.",
+                  "category": "historical",
+                  "coords": [
+                        3.051796,
+                        36.790986
+                  ]
+            },
+            {
+                  "name": "Former location of the Star Fort",
+                  "text": "Diese historischen Ruinen markieren das ehemalige Verteidigungsgelände, auf dem einst die strenge sternförmige Militärfestung stand.",
+                  "category": "historical",
+                  "coords": [
+                        3.050438,
+                        36.780789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trois Horloges",
+                  "text": "A Trois Horloges emlékmű egy ikonikus köztéri óraszerkezet, amely a nyüzsgő Bab El Oued negyedben áll.",
+                  "category": "historical",
+                  "coords": [
+                        3.051796,
+                        36.790986
+                  ]
+            },
+            {
+                  "name": "Former location of the Star Fort",
+                  "text": "Ezek a történelmi romok jelzik azt az egykori védelmi területet, ahol egykor a szigorú, csillag alakú katonai erőd állt.",
+                  "category": "historical",
+                  "coords": [
+                        3.050438,
+                        36.780789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trois Horloges",
+                  "text": "Monumentul Trois Horloges este o structură iconică cu ceas public, aflată în cartierul plin de viață Bab El Oued.",
+                  "category": "historical",
+                  "coords": [
+                        3.051796,
+                        36.790986
+                  ]
+            },
+            {
+                  "name": "Former location of the Star Fort",
+                  "text": "Aceste ruine istorice marchează fostul teren defensiv unde s-a aflat odată austerul fort militar în formă de stea.",
+                  "category": "historical",
+                  "coords": [
+                        3.050438,
+                        36.780789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trois Horloges",
+                  "text": "The Trois Horloges monument is an iconic public clock structure standing prominently in the lively Bab El Oued district.",
+                  "category": "historical",
+                  "coords": [
+                        3.051796,
+                        36.790986
+                  ]
+            },
+            {
+                  "name": "Former location of the Star Fort",
+                  "text": "These historical ruins mark the former defensive grounds where the severe star-shaped military fort once stood.",
+                  "category": "historical",
+                  "coords": [
+                        3.050438,
+                        36.780789
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-16",
     coords: [3.0531, 36.7865],
@@ -1178,7 +4337,556 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["L'ancien siège des souverains ottomans d'Alger, qui a joué un rôle important dans l'histoire diplomatique du pays.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/palace-of-the-dey-history-v2.webp"},
   {
-    id: "cherchell-caesarea-history-v2",
+    id: "cherchell-caesarea-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théatre de Cherchell",
+                  "text": "Das Théatre de Cherchell ist ein lokaler Kulturveranstaltungsort in der Küstenstadt Cherchell.",
+                  "category": "cultural",
+                  "coords": [
+                        2.198831,
+                        36.609558
+                  ]
+            },
+            {
+                  "name": "Phare de Cherchell",
+                  "text": "Dieser historische Leuchtturm steht an der Küste von Cherchell und weist Schiffen auf dem Mittelmeer den Weg.",
+                  "category": "landmark",
+                  "coords": [
+                        2.188025,
+                        36.611496
+                  ]
+            },
+            {
+                  "name": "Bab el Gherb",
+                  "text": "Bab El Gherb bewahrt die alten steinernen Überreste des Westtors im historischen Cherchell.",
+                  "category": "historical",
+                  "coords": [
+                        2.186214,
+                        36.605743
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Cherchell",
+                  "text": "Das Archäologische Museum von Cherchell zeigt römische Mosaike und antike Artefakte aus der mauretanischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        2.201423,
+                        36.597993
+                  ]
+            },
+            {
+                  "name": "El Maskhota",
+                  "text": "El Maskhota ist ein malerischer Küstenstrand, der einen erholsamen Sandstrand in der Nähe von Cherchell bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.271888,
+                        36.62662
+                  ]
+            },
+            {
+                  "name": "Plage El Hamdania 2",
+                  "text": "Plage El Hamdania 2 ist ein mediterraner Küstenstrand, der zum Sonnenbaden in der Gegend von Cherchell beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.28084,
+                        36.628912
+                  ]
+            },
+            {
+                  "name": "Plage Mer et Soleil",
+                  "text": "Der Plage Mer et Soleil ist ein sonnenbeschienener Sandstrand am Mittelmeer bei Cherchell.",
+                  "category": "recreational",
+                  "coords": [
+                        2.202923,
+                        36.611407
+                  ]
+            },
+            {
+                  "name": "Madame La Romaine",
+                  "text": "Madame La Romaine ist ein algerischer Mittelmeerstrand bei Cherchell, der für seine Küstenlage bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.099198,
+                        36.581381
+                  ]
+            },
+            {
+                  "name": "Césarée de Maurétanie",
+                  "text": "Césarée de Maurétanie umfasst die riesigen römischen Ruinen der antiken Hauptstadt von Mauretania Caesariensis.",
+                  "category": "historical",
+                  "coords": [
+                        2.186875,
+                        36.607338
+                  ]
+            },
+            {
+                  "name": "Théâtre romain",
+                  "text": "Dieses antike römische Theater in Cherchell zeigt die halbrunden Steinruinen der klassischen Unterhaltung.",
+                  "category": "historical",
+                  "coords": [
+                        2.190545,
+                        36.605298
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Cherchell",
+                  "text": "Das Archäologische Museum von Cherchell beherbergt eine beeindruckende Sammlung römischer Antiquitäten und Marmorskulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        2.191334,
+                        36.608336
+                  ]
+            },
+            {
+                  "name": "Musée Césarée",
+                  "text": "Das Musée Césarée bewahrt lokale historische Artefakte und klassische Überreste der antiken Stadt Caesarea auf.",
+                  "category": "museum",
+                  "coords": [
+                        2.195966,
+                        36.608542
+                  ]
+            },
+            {
+                  "name": "Plage de Oued El Bellaa",
+                  "text": "Der Plage de Oued El Bellaa ist ein ruhiger Mittelmeerstrand, der sich dort befindet, wo der saisonale Wadi auf das Meer trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        2.228899,
+                        36.613315
+                  ]
+            },
+            {
+                  "name": "3 ilots",
+                  "text": "Der Strand der 3 kleinen Inseln zeichnet sich durch den Blick auf drei felsige Eilande vor der Küste von Cherchell aus.",
+                  "category": "recreational",
+                  "coords": [
+                        2.26072,
+                        36.62389
+                  ]
+            },
+            {
+                  "name": "Hamdania",
+                  "text": "Hamdania ist ein beliebter Küstenabschnitt in der Nähe von Cherchell mit klarem Mittelmeerwasser und Sandbänken.",
+                  "category": "recreational",
+                  "coords": [
+                        2.254641,
+                        36.61932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théatre de Cherchell",
+                  "text": "A Théatre de Cherchell egy helyi kulturális létesítmény a tengerparti Cherchell városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.198831,
+                        36.609558
+                  ]
+            },
+            {
+                  "name": "Phare de Cherchell",
+                  "text": "Ez a történelmi világítótorony Cherchell partvidékén áll, és a Földközi-tengeren közlekedő hajókat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        2.188025,
+                        36.611496
+                  ]
+            },
+            {
+                  "name": "Bab el Gherb",
+                  "text": "A Bab El Gherb a történelmi Cherchell nyugati kapujának ősi kőmaradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        2.186214,
+                        36.605743
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Cherchell",
+                  "text": "A Cherchelli Régészeti Múzeum római mozaikokat és a mauritániai fővárosból származó ókori leleteket állít ki.",
+                  "category": "historical",
+                  "coords": [
+                        2.201423,
+                        36.597993
+                  ]
+            },
+            {
+                  "name": "El Maskhota",
+                  "text": "Az El Maskhota egy festői tengerparti strand, amely pihentető homokos menedéket kínál Cherchell közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.271888,
+                        36.62662
+                  ]
+            },
+            {
+                  "name": "Plage El Hamdania 2",
+                  "text": "A Plage El Hamdania 2 egy tengerparti mediterrán strand, amely népszerű napozóhely Cherchell környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        2.28084,
+                        36.628912
+                  ]
+            },
+            {
+                  "name": "Plage Mer et Soleil",
+                  "text": "A Plage Mer et Soleil egy napsütötte homokos partszakasz a Földközi-tenger partján, Cherchellnél.",
+                  "category": "recreational",
+                  "coords": [
+                        2.202923,
+                        36.611407
+                  ]
+            },
+            {
+                  "name": "Madame La Romaine",
+                  "text": "A Madame La Romaine egy algériai Földközi-tengeri strand Cherchell közelében, amely tengerparti környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.099198,
+                        36.581381
+                  ]
+            },
+            {
+                  "name": "Césarée de Maurétanie",
+                  "text": "A Césarée de Maurétanie magában foglalja Mauretania Caesariensis ősi fővárosának kiterjedt római romjait.",
+                  "category": "historical",
+                  "coords": [
+                        2.186875,
+                        36.607338
+                  ]
+            },
+            {
+                  "name": "Théâtre romain",
+                  "text": "Ez a cherchelli ókori római színház a klasszikus szórakoztatás félkör alakú kőromjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        2.190545,
+                        36.605298
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Cherchell",
+                  "text": "A Cherchelli Régészeti Múzeum a római régiségek és márványszobrok lenyűgöző gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        2.191334,
+                        36.608336
+                  ]
+            },
+            {
+                  "name": "Musée Césarée",
+                  "text": "A Musée Césarée helyi történelmi leleteket és az ókori Caesarea városának klasszikus maradványait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        2.195966,
+                        36.608542
+                  ]
+            },
+            {
+                  "name": "Plage de Oued El Bellaa",
+                  "text": "A Plage de Oued El Bellaa egy nyugodt Földközi-tengeri strand ott, ahol a szezonális vádi találkozik a tengerrel.",
+                  "category": "recreational",
+                  "coords": [
+                        2.228899,
+                        36.613315
+                  ]
+            },
+            {
+                  "name": "3 ilots",
+                  "text": "A 3 ilots strandot a Cherchell partjainál fekvő három sziklás szigetre nyíló kilátás jellemzi.",
+                  "category": "recreational",
+                  "coords": [
+                        2.26072,
+                        36.62389
+                  ]
+            },
+            {
+                  "name": "Hamdania",
+                  "text": "A Hamdania egy népszerű partszakasz Cherchell közelében, amely tiszta mediterrán vizekkel és homokpadokkal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        2.254641,
+                        36.61932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théatre de Cherchell",
+                  "text": "Théatre de Cherchell este un loc cultural local situat în orașul de coastă Cherchell.",
+                  "category": "cultural",
+                  "coords": [
+                        2.198831,
+                        36.609558
+                  ]
+            },
+            {
+                  "name": "Phare de Cherchell",
+                  "text": "Acest far istoric se află pe marginea coastei Cherchell, ghidând navele de-a lungul Mediteranei.",
+                  "category": "landmark",
+                  "coords": [
+                        2.188025,
+                        36.611496
+                  ]
+            },
+            {
+                  "name": "Bab el Gherb",
+                  "text": "Bab El Gherb păstrează vechile rămășițe de piatră ale porții de vest din orașul istoric Cherchell.",
+                  "category": "historical",
+                  "coords": [
+                        2.186214,
+                        36.605743
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Cherchell",
+                  "text": "Muzeul Arheologic din Cherchell expune mozaicuri romane și artefacte antice din capitala mauritană.",
+                  "category": "historical",
+                  "coords": [
+                        2.201423,
+                        36.597993
+                  ]
+            },
+            {
+                  "name": "El Maskhota",
+                  "text": "El Maskhota este o plajă de coastă pitorească care oferă un refugiu de nisip relaxant lângă Cherchell.",
+                  "category": "recreational",
+                  "coords": [
+                        2.271888,
+                        36.62662
+                  ]
+            },
+            {
+                  "name": "Plage El Hamdania 2",
+                  "text": "Plage El Hamdania 2 este o plajă mediteraneană de coastă populară pentru plajă în zona Cherchell.",
+                  "category": "recreational",
+                  "coords": [
+                        2.28084,
+                        36.628912
+                  ]
+            },
+            {
+                  "name": "Plage Mer et Soleil",
+                  "text": "Plage Mer et Soleil este o coastă cu nisip însorită de-a lungul apelor mediteraneene din Cherchell.",
+                  "category": "recreational",
+                  "coords": [
+                        2.202923,
+                        36.611407
+                  ]
+            },
+            {
+                  "name": "Madame La Romaine",
+                  "text": "Madame La Romaine este o plajă mediteraneană algeriană de lângă Cherchell, cunoscută pentru cadrul său de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        2.099198,
+                        36.581381
+                  ]
+            },
+            {
+                  "name": "Césarée de Maurétanie",
+                  "text": "Césarée de Maurétanie cuprinde vastele ruine romane ale vechii capitale a Mauritaniei Caesariensis.",
+                  "category": "historical",
+                  "coords": [
+                        2.186875,
+                        36.607338
+                  ]
+            },
+            {
+                  "name": "Théâtre romain",
+                  "text": "Acest antic teatru roman din Cherchell prezintă ruinele de piatră semicirculare ale divertismentului clasic.",
+                  "category": "historical",
+                  "coords": [
+                        2.190545,
+                        36.605298
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Cherchell",
+                  "text": "Muzeul Arheologic din Cherchell găzduiește o colecție impresionantă de antichități romane și sculpturi de marmură.",
+                  "category": "museum",
+                  "coords": [
+                        2.191334,
+                        36.608336
+                  ]
+            },
+            {
+                  "name": "Musée Césarée",
+                  "text": "Musée Césarée păstrează artefacte istorice locale și rămășițe clasice din orașul antic Caesarea.",
+                  "category": "museum",
+                  "coords": [
+                        2.195966,
+                        36.608542
+                  ]
+            },
+            {
+                  "name": "Plage de Oued El Bellaa",
+                  "text": "Plage de Oued El Bellaa este o plajă senină la Marea Mediterană, situată acolo unde wadi-ul sezonier întâlnește marea.",
+                  "category": "recreational",
+                  "coords": [
+                        2.228899,
+                        36.613315
+                  ]
+            },
+            {
+                  "name": "3 ilots",
+                  "text": "Plaja cu cele 3 insulițe este caracterizată prin priveliștile sale asupra a trei insulițe stâncoase chiar în largul coastei Cherchell.",
+                  "category": "recreational",
+                  "coords": [
+                        2.26072,
+                        36.62389
+                  ]
+            },
+            {
+                  "name": "Hamdania",
+                  "text": "Hamdania este o întindere de coastă populară lângă Cherchell, cu ape clare ale Mediteranei și bănci de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        2.254641,
+                        36.61932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théatre de Cherchell",
+                  "text": "The Théatre de Cherchell is a local cultural venue situated in the coastal town of Cherchell.",
+                  "category": "cultural",
+                  "coords": [
+                        2.198831,
+                        36.609558
+                  ]
+            },
+            {
+                  "name": "Phare de Cherchell",
+                  "text": "This historic lighthouse stands on the coastal edge of Cherchell, guiding ships along the Mediterranean.",
+                  "category": "landmark",
+                  "coords": [
+                        2.188025,
+                        36.611496
+                  ]
+            },
+            {
+                  "name": "Bab El Gherb",
+                  "text": "Bab El Gherb preserves the ancient stone remains of the western gate in historical Cherchell.",
+                  "category": "historical",
+                  "coords": [
+                        2.186214,
+                        36.605743
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Cherchell",
+                  "text": "The Archaeological Museum of Cherchell exhibits Roman mosaics and ancient artifacts from the Mauritanian capital.",
+                  "category": "historical",
+                  "coords": [
+                        2.201423,
+                        36.597993
+                  ]
+            },
+            {
+                  "name": "El Maskhota",
+                  "text": "El Maskhota is a scenic coastal beach offering a relaxing sandy retreat near Cherchell.",
+                  "category": "recreational",
+                  "coords": [
+                        2.271888,
+                        36.62662
+                  ]
+            },
+            {
+                  "name": "Plage El Hamdania 2",
+                  "text": "Plage El Hamdania 2 is a coastal Mediterranean beach popular for sunbathing in the Cherchell area.",
+                  "category": "recreational",
+                  "coords": [
+                        2.28084,
+                        36.628912
+                  ]
+            },
+            {
+                  "name": "Plage Mer et Soleil",
+                  "text": "Plage Mer et Soleil is a sunlit sandy shoreline along the Mediterranean waters of Cherchell.",
+                  "category": "recreational",
+                  "coords": [
+                        2.202923,
+                        36.611407
+                  ]
+            },
+            {
+                  "name": "Madame La Romaine",
+                  "text": "Madame La Romaine is an Algerian Mediterranean beach near Cherchell known for its coastal setting.",
+                  "category": "recreational",
+                  "coords": [
+                        2.099198,
+                        36.581381
+                  ]
+            },
+            {
+                  "name": "Césarée de Maurétanie",
+                  "text": "Césarée de Maurétanie encompasses the vast Roman ruins of the ancient capital of Mauretania Caesariensis.",
+                  "category": "historical",
+                  "coords": [
+                        2.186875,
+                        36.607338
+                  ]
+            },
+            {
+                  "name": "Théâtre romain",
+                  "text": "This ancient Roman theatre in Cherchell displays the semicircular stone ruins of classical entertainment.",
+                  "category": "historical",
+                  "coords": [
+                        2.190545,
+                        36.605298
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Cherchell",
+                  "text": "The Archaeological Museum of Cherchell houses an impressive collection of Roman antiquities and marble sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        2.191334,
+                        36.608336
+                  ]
+            },
+            {
+                  "name": "Musée Césarée",
+                  "text": "Musée Césarée preserves local historical artifacts and classical remnants from the ancient city of Caesarea.",
+                  "category": "museum",
+                  "coords": [
+                        2.195966,
+                        36.608542
+                  ]
+            },
+            {
+                  "name": "Plage de Oued El Bellaa",
+                  "text": "Plage de Oued El Bellaa is a serene Mediterranean beach located where the seasonal wadi meets the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        2.228899,
+                        36.613315
+                  ]
+            },
+            {
+                  "name": "3 ilots",
+                  "text": "The 3 ilots beach is characterized by its views of three rocky islets just off the Cherchell coast.",
+                  "category": "recreational",
+                  "coords": [
+                        2.26072,
+                        36.62389
+                  ]
+            },
+            {
+                  "name": "Hamdania",
+                  "text": "Hamdania is a popular coastal stretch near Cherchell, featuring clear Mediterranean waters and sandy banks.",
+                  "category": "recreational",
+                  "coords": [
+                        2.254641,
+                        36.61932
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-42",
     coords: [2.1833, 36.6],
@@ -1225,7 +4933,556 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       fr: ["L'ancienne capitale de la Maurétanie Césarienne, dont les ruines importantes sont aujourd'hui recouvertes par la ville portuaire de Cherchell.", "Situé sur le territoire de la République algérienne démocratique et populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/cherchell-caesarea-history-v2.webp"},
   {
-    id: "ksar-ouargla-history-v2",
+    id: "ksar-ouargla-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "2-11",
+                  "text": "2-11 ist ein städtischer Anziehungspunkt in der Wüstensiedlung Ouargla, der Teil der lokalen Infrastruktur ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.293701,
+                        31.985536
+                  ]
+            },
+            {
+                  "name": "2-10",
+                  "text": "2-10 ist ein markanter Ort im historischen Wüstengebiet von Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.29146,
+                        31.989548
+                  ]
+            },
+            {
+                  "name": "Khaled",
+                  "text": "Das Theater Khaled in Ouargla bietet eine Bühne für regionale arabische Aufführungen in der Oasenstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "Das große Haus",
+                  "text": "„The Big House“ in Ouargla ist ein festungsartiges Anwesen, das die typische wuchtige Architektur der algerischen Wüstenstädte widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Insurance",
+                  "text": "Der Aussichtspunkt „Insurance“ in Ouargla bietet einen weiten Blick über die flachen Dächer der Oasenstadt und die angrenzende Sahara.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "Das Centre Culturel Hadjaj ist ein kultureller Treffpunkt in Ouargla, in dem lokale Kunstausstellungen und Bildungsprogramme stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333665,
+                        31.944202
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Das Musée El Moudjahid in Ouargla dokumentiert die Rolle der südlichen Sahara-Region während des algerischen Befreiungskrieges.",
+                  "category": "museum",
+                  "coords": [
+                        5.33002,
+                        31.959181
+                  ]
+            },
+            {
+                  "name": "Bordj Chandez",
+                  "text": "Bordj Chandez ist ein koloniales Fort in Ouargla, das mit seinen dicken Lehmziegelmauern ehemals der Überwachung der Wüstenrouten diente.",
+                  "category": "castle",
+                  "coords": [
+                        5.327445,
+                        31.956932
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Die Maison de la Culture in Ouargla ist ein modernes Veranstaltungszentrum für traditionelle Musik und Festivitäten der Oase.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328323,
+                        31.958676
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Dieses Kulturzentrum in Ouargla bietet den Bewohnern der Sandwüstenstadt Raum für literarische Zirkel und Handwerkskunst.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267583,
+                        31.955401
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "Der Aquapark in Ouargla bietet mit seinen Schwimmbecken eine kühle Erfrischung vor den extremen Sommertemperaturen der Sahara.",
+                  "category": "recreational",
+                  "coords": [
+                        5.282349,
+                        31.948302
+                  ]
+            },
+            {
+                  "name": "Parc Bamendil",
+                  "text": "Der Parc Bamendil ist ein belebter Freizeitpark in Ouargla, in dem Familien aus der Umgebung Fahrgeschäfte und Grünflächen genießen können.",
+                  "category": "recreational",
+                  "coords": [
+                        5.294143,
+                        31.98301
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction de Ouargla",
+                  "text": "Der Vergnügungspark von Ouargla bringt mit seinen Karussells und Unterhaltungsmöglichkeiten städtisches Leben in die Wüstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        5.280944,
+                        31.947403
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "Das Jugendzentrum in Ouargla ist ein sozialer Treffpunkt für junge Menschen, in dem Sport und künstlerische Aktivitäten gefördert werden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312402,
+                        31.965143
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "Der Kreisverkehr ELHADJRA ist ein markanter Verkehrsknotenpunkt, der die von Palmen gesäumten Straßen Ouarglas miteinander verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "2-11",
+                  "text": "A 2-11 egy helyi látványosság az oázisváros, Ouargla sivatagi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.293701,
+                        31.985536
+                  ]
+            },
+            {
+                  "name": "2-10",
+                  "text": "A 2-10 egy jellegzetes tájékozódási pont Ouargla történelmi sivatagi övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.29146,
+                        31.989548
+                  ]
+            },
+            {
+                  "name": "Khaled",
+                  "text": "Az ouarglai Khaled színház regionális arab nyelvű előadásoknak ad otthont az oázisvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "The Big House",
+                  "text": "A „The Big House” egy erődszerű épület Ouarglában, amely az algériai sivatagi városok jellegzetes, masszív építészetét képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Insurance",
+                  "text": "Az „Insurance” kilátópont Ouarglában széles panorámát nyújt az oázisváros lapos tetőire és a környező Szaharára.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "A Centre Culturel Hadjaj egy ouarglai kulturális központ, amely helyi művészeti kiállításoknak és oktatási programoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333665,
+                        31.944202
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Az ouarglai Musée El Moudjahid a déli szaharai régió szerepét dokumentálja az algériai felszabadító háború során.",
+                  "category": "museum",
+                  "coords": [
+                        5.33002,
+                        31.959181
+                  ]
+            },
+            {
+                  "name": "Bordj Chandez",
+                  "text": "A Bordj Chandez egy ouarglai gyarmati erődítmény, amelynek vastag vályogfalai egykor a sivatagi útvonalak ellenőrzését szolgálták.",
+                  "category": "castle",
+                  "coords": [
+                        5.327445,
+                        31.956932
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Az ouarglai Maison de la Culture egy modern rendezvényközpont az oázis hagyományos zenei előadásai és fesztiváljai számára.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328323,
+                        31.958676
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Ez az ouarglai kulturális központ irodalmi köröknek és kézműves foglalkozásoknak ad teret a homoksivatagi városban.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267583,
+                        31.955401
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "Az ouarglai vízipark medencéivel hűsítő felfrissülést kínál a Szahara extrém nyári hősége elől.",
+                  "category": "recreational",
+                  "coords": [
+                        5.282349,
+                        31.948302
+                  ]
+            },
+            {
+                  "name": "Parc Bamendil",
+                  "text": "A Parc Bamendil egy nyüzsgő vidámpark Ouarglában, ahol a helyi családok körhintákat és zöldterületeket élvezhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        5.294143,
+                        31.98301
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction de Ouargla",
+                  "text": "Az ouarglai vidámpark körhintáival és szórakoztató létesítményeivel városi nyüzsgést visz a sivatagi tájba.",
+                  "category": "recreational",
+                  "coords": [
+                        5.280944,
+                        31.947403
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "Az ouarglai ifjúsági központ egy közösségi találkozóhely a fiatalok számára, ahol sport- és művészeti tevékenységeket támogatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312402,
+                        31.965143
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "Az ELHADJRA körforgalom egy jelentős közlekedési csomópont, amely Ouargla pálmafákkal szegélyezett utcáit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "2-11",
+                  "text": "2-11 este un punct de atracție urban din așezarea sahariană Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.293701,
+                        31.985536
+                  ]
+            },
+            {
+                  "name": "2-10",
+                  "text": "2-10 este un reper caracteristic situat în zona deșertică istorică a orașului Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.29146,
+                        31.989548
+                  ]
+            },
+            {
+                  "name": "Khaled",
+                  "text": "Teatrul Khaled din Ouargla oferă o scenă pentru spectacole regionale arabe în inima orașului-oază.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "The Big House",
+                  "text": "„The Big House” din Ouargla este o clădire fortificată care reflectă arhitectura masivă tipică a orașelor deșertice algeriene.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Insurance",
+                  "text": "Punctul de belvedere „Insurance” din Ouargla oferă o priveliște amplă asupra acoperișurilor plate ale oazei și a Saharei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "Centre Culturel Hadjaj este un spațiu cultural din Ouargla care găzduiește expoziții de artă locală și programe educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333665,
+                        31.944202
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Muzeul El Moudjahid din Ouargla documentează rolul regiunii sudice sahariene în timpul Războiului de Eliberare Algerian.",
+                  "category": "museum",
+                  "coords": [
+                        5.33002,
+                        31.959181
+                  ]
+            },
+            {
+                  "name": "Bordj Chandez",
+                  "text": "Bordj Chandez este un fort colonial din Ouargla ale cărui ziduri groase de chirpici serveau odinioară la paza rutelor deșertice.",
+                  "category": "castle",
+                  "coords": [
+                        5.327445,
+                        31.956932
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture din Ouargla este un centru de evenimente modern pentru muzica tradițională și festivalurile oazei.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328323,
+                        31.958676
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Acest centru cultural din Ouargla oferă locuitorilor orașului-oază un spațiu pentru cercuri literare și meșteșuguri.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267583,
+                        31.955401
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "Parcul acvatic din Ouargla oferă o răcorire binevenită cu piscinele sale în fața temperaturilor extreme de vară din Sahara.",
+                  "category": "recreational",
+                  "coords": [
+                        5.282349,
+                        31.948302
+                  ]
+            },
+            {
+                  "name": "Parc Bamendil",
+                  "text": "Parcul Bamendil este un parc de distracții animat din Ouargla, unde familiile locale se bucură de carusele și spații verzi.",
+                  "category": "recreational",
+                  "coords": [
+                        5.294143,
+                        31.98301
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction de Ouargla",
+                  "text": "Parcul de distracții din Ouargla aduce viață urbană în peisajul deșertic, oferind carusele și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        5.280944,
+                        31.947403
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "Centrul de tineret din Ouargla este un loc de întâlnire socială, promovând activitățile sportive și artistice printre tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312402,
+                        31.965143
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "Sensul giratoriu ELHADJRA este un nod rutier distinctiv care conectează străzile mărginite de palmieri din Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "2-11",
+                  "text": "2-11 is a local urban attraction situated within the desert settlement of Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.293701,
+                        31.985536
+                  ]
+            },
+            {
+                  "name": "2-10",
+                  "text": "2-10 is a distinctive site located in the historic desert region of Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.29146,
+                        31.989548
+                  ]
+            },
+            {
+                  "name": "Khaled",
+                  "text": "The Khaled theatre in Ouargla provides a stage for regional Arabic performances within the oasis city.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "The Big House",
+                  "text": "\"The Big House\" in Ouargla is a fortress-like estate reflecting the massive architecture typical of Algerian desert cities.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Insurance",
+                  "text": "The \"Insurance\" viewpoint in Ouargla offers a sweeping look over the flat roofs of the oasis city and the adjacent Sahara.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "The Centre Culturel Hadjaj is a cultural gathering place in Ouargla hosting local art exhibitions and educational programs.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333665,
+                        31.944202
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "The Musée El Moudjahid in Ouargla documents the role of the southern Saharan region during the Algerian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        5.33002,
+                        31.959181
+                  ]
+            },
+            {
+                  "name": "Bordj Chandez",
+                  "text": "Bordj Chandez is a colonial fort in Ouargla whose thick adobe walls once served to monitor the Saharan trade routes.",
+                  "category": "castle",
+                  "coords": [
+                        5.327445,
+                        31.956932
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "The Maison de la Culture in Ouargla is a modern venue for traditional music and festivals of the oasis.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328323,
+                        31.958676
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "This cultural centre in Ouargla provides space for literary circles and artisanal crafts in the sandy desert town.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267583,
+                        31.955401
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "The water park in Ouargla offers cooling relief with its swimming pools against the extreme summer temperatures of the Sahara.",
+                  "category": "recreational",
+                  "coords": [
+                        5.282349,
+                        31.948302
+                  ]
+            },
+            {
+                  "name": "Parc Bamendil",
+                  "text": "Parc Bamendil is a bustling theme park in Ouargla where local families can enjoy rides and green recreational spaces.",
+                  "category": "recreational",
+                  "coords": [
+                        5.294143,
+                        31.98301
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction de Ouargla",
+                  "text": "The Ouargla amusement park brings urban life to the desert landscape with its carousels and entertainment facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        5.280944,
+                        31.947403
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "The youth centre in Ouargla is a social gathering place that promotes sports and artistic activities for local young people.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312402,
+                        31.965143
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "The ELHADJRA roundabout is a distinctive traffic hub connecting the palm-lined streets of Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DZ-30",
     coords: [5.3167, 31.95],

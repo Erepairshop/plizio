@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraMozambiqueLifeV2: POI[] = [
   {
-    id: "gorongosa-national-park-life-v2",
+    id: "gorongosa-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional da Gorongosa",
+                  "text": "Der Parque Nacional da Gorongosa liegt im südlichen Teil des Ostafrikanischen Grabenbruchs und ist berühmt für seine vielfältigen Wildtierbestände.",
+                  "category": "landmark",
+                  "coords": [
+                        34.394231,
+                        -18.941705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional da Gorongosa",
+                  "text": "A Kelet-afrikai árok déli részén található Gorongosa Nemzeti Park változatos vadon élő állatairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        34.394231,
+                        -18.941705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional da Gorongosa",
+                  "text": "Parcul Național Gorongosa este situat în partea de sud a Marelui Rift African și este renumit pentru viața sa sălbatică diversă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.394231,
+                        -18.941705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Nacional da Gorongosa",
+                  "text": "Gorongosa National Park lies in the southern section of the Great Rift Valley and is renowned for its diverse wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        34.394231,
+                        -18.941705
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MZ-SO",
     coords: [34.45, -18.98],
@@ -426,7 +471,124 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     },
   },
   {
-    id: "maputo-garden-life-v2",
+    id: "maputo-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu da Revolução",
+                  "text": "Das Museum der Revolution dokumentiert ausführlich den bewaffneten Kampf des Landes um die Unabhängigkeit von der Kolonialherrschaft.",
+                  "category": "museum",
+                  "coords": [
+                        32.567791,
+                        -25.962637
+                  ]
+            },
+            {
+                  "name": "Bota Fogo",
+                  "text": "Bota Fogo ist ein dynamisches lokales Kunstzentrum, das künstlerische Talente in einer gartenähnlichen Umgebung fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        32.567248,
+                        -25.953292
+                  ]
+            },
+            {
+                  "name": "Igreja de São Cipriano do Chamanculo",
+                  "text": "Die Kirche São Cipriano im Viertel Chamanculo zeichnet sich durch eine markante lokale Architektur aus und dient einer lebendigen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        32.560848,
+                        -25.955529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da Revolução",
+                  "text": "A Forradalom Múzeuma részletesen dokumentálja az ország gyarmati uralom elleni függetlenségi fegyveres harcát.",
+                  "category": "museum",
+                  "coords": [
+                        32.567791,
+                        -25.962637
+                  ]
+            },
+            {
+                  "name": "Bota Fogo",
+                  "text": "A Bota Fogo egy dinamikus helyi művészeti központ, amely kerthez hasonló környezetben támogatja a művészeti tehetségeket.",
+                  "category": "cultural",
+                  "coords": [
+                        32.567248,
+                        -25.953292
+                  ]
+            },
+            {
+                  "name": "Igreja de São Cipriano do Chamanculo",
+                  "text": "A Chamanculo negyedben található São Cipriano-templom jellegzetes helyi építészettel büszkélkedhet, és egy nyüzsgő egyházközséget szolgál ki.",
+                  "category": "religious",
+                  "coords": [
+                        32.560848,
+                        -25.955529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da Revolução",
+                  "text": "Muzeul Revoluției documentează pe larg lupta armată a țării pentru independența față de dominația colonială.",
+                  "category": "museum",
+                  "coords": [
+                        32.567791,
+                        -25.962637
+                  ]
+            },
+            {
+                  "name": "Bota Fogo",
+                  "text": "Bota Fogo este un centru de artă local dinamic care cultivă tinerele talente artistice într-un cadru asemănător unei grădini.",
+                  "category": "cultural",
+                  "coords": [
+                        32.567248,
+                        -25.953292
+                  ]
+            },
+            {
+                  "name": "Igreja de São Cipriano do Chamanculo",
+                  "text": "Biserica São Cipriano din cartierul Chamanculo prezintă o arhitectură locală distinctivă și deservește o parohie vibrantă.",
+                  "category": "religious",
+                  "coords": [
+                        32.560848,
+                        -25.955529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da Revolução",
+                  "text": "The Museum of the Revolution extensively documents the country's armed struggle for independence from colonial rule.",
+                  "category": "museum",
+                  "coords": [
+                        32.567791,
+                        -25.962637
+                  ]
+            },
+            {
+                  "name": "Bota Fogo",
+                  "text": "Bota Fogo is a dynamic local arts centre that nurtures grassroots artistic talents in a garden-like setting.",
+                  "category": "cultural",
+                  "coords": [
+                        32.567248,
+                        -25.953292
+                  ]
+            },
+            {
+                  "name": "Igreja de São Cipriano do Chamanculo",
+                  "text": "The Church of São Cipriano in the Chamanculo neighborhood features distinctive local architecture and serves a vibrant parish.",
+                  "category": "religious",
+                  "coords": [
+                        32.560848,
+                        -25.955529
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MZ-MP",
     coords: [32.57, -25.96],
@@ -534,7 +696,160 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     },
   },
   {
-    id: "tofo-beach-kid-life-v2",
+    id: "tofo-beach-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cavalheiros do Tofo",
+                  "text": "Diese beliebte Reitattraktion bietet geführte Ausritte direkt an den Sandstränden von Tofo Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        35.536648,
+                        -23.843273
+                  ]
+            },
+            {
+                  "name": "Underwater Africa Volunteer Program",
+                  "text": "Diese faszinierende Meeresattraktion bietet Freiwilligen die praktische Möglichkeit, das Meeresleben vor der Küste von Tofo zu erforschen und zu schützen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549909,
+                        -23.854779
+                  ]
+            },
+            {
+                  "name": "Monumento do Tofinho",
+                  "text": "Das Monumento do Tofinho ist eine kahle Gedenksäule, die sich auf den dramatischen Küstenklippen mit Blick auf den Indischen Ozean befindet.",
+                  "category": "historical",
+                  "coords": [
+                        35.553878,
+                        -23.866489
+                  ]
+            },
+            {
+                  "name": "Tofo",
+                  "text": "Tofo ist ein malerischer Sandstrand, der für sein klares Wasser und hervorragende Surfbedingungen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.54151,
+                        -23.843833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cavalheiros do Tofo",
+                  "text": "Ez a népszerű lovas attrakció vezetett lovaglásokat kínál közvetlenül a Tofo Beach homokos partjain.",
+                  "category": "landmark",
+                  "coords": [
+                        35.536648,
+                        -23.843273
+                  ]
+            },
+            {
+                  "name": "Underwater Africa Volunteer Program",
+                  "text": "Ez az érdekes tengeri attrakció gyakorlati lehetőségeket kínál az önkénteseknek az óceáni élet kutatására és védelmére a Tofo-partoknál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549909,
+                        -23.854779
+                  ]
+            },
+            {
+                  "name": "Monumento do Tofinho",
+                  "text": "A Monumento do Tofinho egy zord emlékmű, amely az Indiai-óceánra néző drámai tengerparti sziklákon áll.",
+                  "category": "historical",
+                  "coords": [
+                        35.553878,
+                        -23.866489
+                  ]
+            },
+            {
+                  "name": "Tofo",
+                  "text": "Tofo egy festői homokos strand, amely tiszta vizéről és kiváló szörfözési lehetőségeiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        35.54151,
+                        -23.843833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cavalheiros do Tofo",
+                  "text": "Această atracție ecvestră populară oferă plimbări ghidate călare chiar pe țărmurile nisipoase ale plajei Tofo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.536648,
+                        -23.843273
+                  ]
+            },
+            {
+                  "name": "Underwater Africa Volunteer Program",
+                  "text": "Această atracție marină captivantă oferă voluntarilor oportunități practice de a cerceta și proteja viața oceanică din largul coastei Tofo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549909,
+                        -23.854779
+                  ]
+            },
+            {
+                  "name": "Monumento do Tofinho",
+                  "text": "Monumento do Tofinho este un stâlp memorial auster situat pe stâncile dramatice de coastă care domină Oceanul Indian.",
+                  "category": "historical",
+                  "coords": [
+                        35.553878,
+                        -23.866489
+                  ]
+            },
+            {
+                  "name": "Tofo",
+                  "text": "Tofo este o plajă pitorească cu nisip, renumită pentru apele sale limpezi și condițiile excelente de surf.",
+                  "category": "recreational",
+                  "coords": [
+                        35.54151,
+                        -23.843833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horse Riding Tofo",
+                  "text": "This popular equestrian attraction offers guided horseback rides right along the sandy shores of Tofo Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        35.536648,
+                        -23.843273
+                  ]
+            },
+            {
+                  "name": "Underwater Africa Volunteer Program",
+                  "text": "This engaging marine attraction provides volunteers with hands-on opportunities to research and protect ocean life off the Tofo coast.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549909,
+                        -23.854779
+                  ]
+            },
+            {
+                  "name": "Monumento do Tofinho",
+                  "text": "The Monumento do Tofinho is a stark memorial pillar situated on the dramatic coastal cliffs overlooking the Indian Ocean.",
+                  "category": "historical",
+                  "coords": [
+                        35.553878,
+                        -23.866489
+                  ]
+            },
+            {
+                  "name": "Tofo",
+                  "text": "Tofo is a picturesque sandy beach renowned for its clear waters and excellent surfing conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        35.54151,
+                        -23.843833
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MZ-IN",
     coords: [35.53, -23.85],
@@ -858,7 +1173,52 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     },
   },
   {
-    id: "chimoio-kids-green-life-v2",
+    id: "chimoio-kids-green-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praça dos Heróis",
+                  "text": "Die Praça dos Heróis in Chimoio ist ein von Grünflächen umgebener Gedenkplatz, der den Nationalhelden Mosambiks gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.469567,
+                        -19.108865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praça dos Heróis",
+                  "text": "A chimoio-i Praça dos Heróis egy zöldterületekkel körülvett emlékhely, amelyet Mozambik nemzeti hőseinek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        33.469567,
+                        -19.108865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praça dos Heróis",
+                  "text": "Praça dos Heróis din Chimoio este o piață memorială înconjurată de spații verzi, dedicată eroilor naționali ai Mozambicului.",
+                  "category": "historical",
+                  "coords": [
+                        33.469567,
+                        -19.108865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praça dos Heróis",
+                  "text": "The Praça dos Heróis in Chimoio is a memorial square surrounded by green spaces, dedicated to Mozambique's national heroes.",
+                  "category": "historical",
+                  "coords": [
+                        33.469567,
+                        -19.108865
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MZ-MA",
     coords: [33.48, -19.12],
@@ -894,7 +1254,52 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     },
   },
   {
-    id: "vilankulo-marine-kid-life-v2",
+    id: "vilankulo-marine-kid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "Erleben Sie einen traditionellen Segeltörn zum Sonnenuntergang auf einem hölzernen Dhau an der Küste von Vilankulo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "Vegyen részt egy hagyományos naplementés vitorlázáson egy fából készült dhow hajón Vilankulo partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "Experimentați o excursie tradițională la apus de soare pe un dhow de lemn de-a lungul coastei din Vilankulo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "Experience a traditional sunset sailing trip on a wooden dhow along the coast of Vilankulo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MZ-IN",
     coords: [35.32, -21.99],
@@ -930,7 +1335,52 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     },
   },
   {
-    id: "inhambane-kid-discovery-life-v2",
+    id: "inhambane-kid-discovery-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Mosque 1840",
+                  "text": "Diese historische Moschee aus dem Jahr 1840 ist eines der ältesten islamischen Denkmäler in der Region Inhambane.",
+                  "category": "historical",
+                  "coords": [
+                        35.381182,
+                        -23.862207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Mosque 1840",
+                  "text": "Az 1840-ben épült történelmi mecset az Inhambane régió egyik legrégebbi iszlám műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        35.381182,
+                        -23.862207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Mosque 1840",
+                  "text": "Construită în 1840, această moschee istorică este unul dintre cele mai vechi monumente islamice din regiunea Inhambane.",
+                  "category": "historical",
+                  "coords": [
+                        35.381182,
+                        -23.862207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Mosque 1840",
+                  "text": "Built in 1840, this historic mosque stands as one of the oldest Islamic monuments in the Inhambane region.",
+                  "category": "historical",
+                  "coords": [
+                        35.381182,
+                        -23.862207
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MZ-IN",
     coords: [35.38, -23.86],

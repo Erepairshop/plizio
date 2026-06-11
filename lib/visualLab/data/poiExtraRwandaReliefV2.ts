@@ -77,7 +77,52 @@ export const poiExtraRwandaReliefV2: POI[] = [
     
      image: "/poi-images/karisimbi-mountain-relief-v2.webp"},
   {
-    id: "nyiragongo-border-relief-v2",
+    id: "nyiragongo-border-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aussichtspunkt auf den Lavasee",
+                  "text": "Ein spektakulärer Aussichtspunkt mit Blick auf den riesigen, aktiven und brodelnden Lavasee im Krater des Mount Nyiragongo.",
+                  "category": "natural",
+                  "coords": [
+                        29.250669,
+                        -1.527819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point de Vue du Lac de Lave",
+                  "text": "Látványos megfigyelőpont, ahonnan kilátás nyílik a Nyiragongo-hegy kráterében lévő hatalmas, aktív és bugyborékoló lávatóra.",
+                  "category": "natural",
+                  "coords": [
+                        29.250669,
+                        -1.527819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point de Vue du Lac de Lave",
+                  "text": "Un punct de observație spectaculos cu vedere la lacul de lavă vast, activ și clocotitor din interiorul craterului Muntelui Nyiragongo.",
+                  "category": "natural",
+                  "coords": [
+                        29.250669,
+                        -1.527819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lava Lake View Point",
+                  "text": "A spectacular observation point overlooking the vast, active and bubbling lava lake inside the crater of Mount Nyiragongo.",
+                  "category": "natural",
+                  "coords": [
+                        29.250669,
+                        -1.527819
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RW-01",
     coords: [29.25, -1.52],
@@ -545,7 +590,52 @@ export const poiExtraRwandaReliefV2: POI[] = [
     }
   },
   {
-    id: "mt-sabyinyo-relief-v2",
+    id: "mt-sabyinyo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Sabyinyo 3rd Peak",
+                  "text": "Der 3. Gipfel des Mount Sabyinyo ist eine steile vulkanische Erhebung, die das schroffe Dreiländereck der Virunga-Berge markiert.",
+                  "category": "natural",
+                  "coords": [
+                        29.592021,
+                        -1.387796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Sabyinyo 3rd Peak",
+                  "text": "A Sabyinyo-hegy 3. csúcsa egy meredek vulkáni magaslat, amely a Virunga-hegység zord hármashatárát jelöli.",
+                  "category": "natural",
+                  "coords": [
+                        29.592021,
+                        -1.387796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Sabyinyo 3rd Peak",
+                  "text": "Al treilea vârf al Muntelui Sabyinyo este o culme vulcanică abruptă care marchează frontiera triplă accidentată a Munților Virunga.",
+                  "category": "natural",
+                  "coords": [
+                        29.592021,
+                        -1.387796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Sabyinyo 3rd Peak",
+                  "text": "Mount Sabyinyo 3rd Peak is a steep volcanic summit marking the rugged triple border of the Virunga Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        29.592021,
+                        -1.387796
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RW-01",
     coords: [29.58, -1.39],
@@ -726,7 +816,196 @@ export const poiExtraRwandaReliefV2: POI[] = [
     },
   },
   {
-    id: "nyungwe-canopy-relief-v2",
+    id: "nyungwe-canopy-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Start of the Kamiranzovu Trail",
+                  "text": "Dieser Ausgangspunkt in Nyungwe markiert den Beginn einer Route, die durch den Wald zu einem riesigen Sumpf- und Orchideenhabitat führt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.154158,
+                        -2.490146
+                  ]
+            },
+            {
+                  "name": "End of the Umugote Trail",
+                  "text": "Der Endpunkt einer üppig bewaldeten Wanderroute in Nyungwe, umgeben von uralten Mahagonibäumen.",
+                  "category": "landmark",
+                  "coords": [
+                        29.193261,
+                        -2.489571
+                  ]
+            },
+            {
+                  "name": "Start of the Umugote Trail",
+                  "text": "Der Eingang zu einem malerischen Wanderweg im Nyungwe-Wald, der für seine reiche Artenvielfalt und Primatenbeobachtungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199159,
+                        -2.486903
+                  ]
+            },
+            {
+                  "name": "Start of the Irebero Trail",
+                  "text": "Dieser Ausgangspunkt im Nyungwe-Wald beginnt einen Pfad, der für atemberaubende Ausblicke aus großer Höhe auf die ruandischen Bergkämme bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.198911,
+                        -2.485134
+                  ]
+            },
+            {
+                  "name": "Start of the Buhoro Trail",
+                  "text": "Ein Ausgangspunkt für einen relativ kurzen Naturspaziergang durch den dichten Bergregenwald von Nyungwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199923,
+                        -2.481875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Start of the Kamiranzovu Trail",
+                  "text": "Ez a nyungwei ösvénykezdet egy olyan útvonalat jelöl, amely az erdőn át egy hatalmas mocsári és orchidea élőhelyre vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.154158,
+                        -2.490146
+                  ]
+            },
+            {
+                  "name": "End of the Umugote Trail",
+                  "text": "Egy buja erdős túraútvonal végpontja Nyungwéban, amelyet ősi mahagónifák vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        29.193261,
+                        -2.489571
+                  ]
+            },
+            {
+                  "name": "Start of the Umugote Trail",
+                  "text": "Egy festői túraútvonal bejárata a Nyungwe-erdőben, amely gazdag biológiai sokféleségéről és főemlősök megfigyeléséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199159,
+                        -2.486903
+                  ]
+            },
+            {
+                  "name": "Start of the Irebero Trail",
+                  "text": "Ez a Nyungwe-erdei ösvény egy olyan utat nyit meg, amely a ruandai hegygerincekre nyíló lenyűgöző magaslati kilátásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.198911,
+                        -2.485134
+                  ]
+            },
+            {
+                  "name": "Start of the Buhoro Trail",
+                  "text": "Kiindulópont egy viszonylag rövid természetjáráshoz Nyungwe sűrű hegyi esőerdejében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199923,
+                        -2.481875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Start of the Kamiranzovu Trail",
+                  "text": "Acest capăt de traseu din Nyungwe marchează începutul unei rute care duce prin pădure către o vastă mlaștină și habitat de orhidee.",
+                  "category": "landmark",
+                  "coords": [
+                        29.154158,
+                        -2.490146
+                  ]
+            },
+            {
+                  "name": "End of the Umugote Trail",
+                  "text": "Punctul final al unui traseu de drumeție luxuriant din Nyungwe, înconjurat de arbori de mahon antici.",
+                  "category": "landmark",
+                  "coords": [
+                        29.193261,
+                        -2.489571
+                  ]
+            },
+            {
+                  "name": "Start of the Umugote Trail",
+                  "text": "Intrarea unui traseu pitoresc din Pădurea Nyungwe, cunoscut pentru biodiversitatea sa bogată și oportunitățile de observare a primatelor.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199159,
+                        -2.486903
+                  ]
+            },
+            {
+                  "name": "Start of the Irebero Trail",
+                  "text": "Acest capăt de traseu din Pădurea Nyungwe începe o potecă cunoscută pentru vederile uluitoare de la mare altitudine asupra creastărilor rwandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        29.198911,
+                        -2.485134
+                  ]
+            },
+            {
+                  "name": "Start of the Buhoro Trail",
+                  "text": "Un punct de plecare pentru o scurtă plimbare în natură prin deasa pădure tropicală montană din Nyungwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199923,
+                        -2.481875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Start of the Kamiranzovu Trail",
+                  "text": "This trailhead in Nyungwe marks the beginning of a route leading through the forest to a vast swamp and orchid habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        29.154158,
+                        -2.490146
+                  ]
+            },
+            {
+                  "name": "End of the Umugote Trail",
+                  "text": "The concluding point of a lush forested hiking route in Nyungwe, surrounded by ancient mahogany trees.",
+                  "category": "landmark",
+                  "coords": [
+                        29.193261,
+                        -2.489571
+                  ]
+            },
+            {
+                  "name": "Start of the Umugote Trail",
+                  "text": "The entrance to a scenic trail in Nyungwe Forest known for its rich biodiversity and primate viewing opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199159,
+                        -2.486903
+                  ]
+            },
+            {
+                  "name": "Start of the Irebero Trail",
+                  "text": "This trailhead in Nyungwe Forest begins a path known for stunning high-altitude views overlooking the Rwandan ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        29.198911,
+                        -2.485134
+                  ]
+            },
+            {
+                  "name": "Start of the Buhoro Trail",
+                  "text": "A starting point for a relatively short nature walk through the dense montane rainforest of Nyungwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.199923,
+                        -2.481875
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "RW-05",
     coords: [29.20, -2.50],

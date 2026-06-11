@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraKenyaReliefV2: POI[] = [
   {
-    id: "rift-valley-kenya-relief-v2",
+    id: "rift-valley-kenya-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Equator Sign",
+                  "text": "Eine geografische Markierung im Großen Afrikanischen Grabenbruch, an der Besucher gleichzeitig mit einem Fuß in jeder Hemisphäre stehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964974,
+                        -0.002678
+                  ]
+            },
+            {
+                  "name": "Equator Tortoise Park",
+                  "text": "Ein Park in der Rift Valley, der Besuchern die Möglichkeit bietet, Schildkröten in der Nähe der geographischen Äquatorlinie zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.965438,
+                        -0.005817
+                  ]
+            },
+            {
+                  "name": "equator",
+                  "text": "Ein markierter Aussichtspunkt in der Rift Valley, der die genaue geografische Linie des Äquators anzeigt.",
+                  "category": "natural",
+                  "coords": [
+                        35.965053,
+                        -0.024152
+                  ]
+            },
+            {
+                  "name": "Equator Dip Alphega Road",
+                  "text": "Eine lokale Attraktion an der Alphega Road in der Rift Valley, die den geografischen Verlauf des Äquators markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9646,
+                        0.003583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Equator Sign",
+                  "text": "Földrajzi jelzőtábla a Nagy-hasadékvölgyben, ahol a látogatók egyszerre állhatnak egyik lábukkal az egyik, másikkal a másik féltekén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964974,
+                        -0.002678
+                  ]
+            },
+            {
+                  "name": "Equator Tortoise Park",
+                  "text": "A Hasadékvölgyben található park, ahol a látogatók teknősöket figyelhetnek meg a földrajzi Egyenlítő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.965438,
+                        -0.005817
+                  ]
+            },
+            {
+                  "name": "equator",
+                  "text": "Egy kijelölt kilátópont a Hasadékvölgyben, amely az Egyenlítő pontos földrajzi vonalát jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        35.965053,
+                        -0.024152
+                  ]
+            },
+            {
+                  "name": "Equator Dip Alphega Road",
+                  "text": "Egy helyi látványosság az Alphega úton a Hasadékvölgyben, amely az Egyenlítő földrajzi áthaladását jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9646,
+                        0.003583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Equator Sign",
+                  "text": "Un marker geografic în Marea Vale a Riftului, unde vizitatorii pot sta simultan cu un picior în fiecare emisferă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964974,
+                        -0.002678
+                  ]
+            },
+            {
+                  "name": "Equator Tortoise Park",
+                  "text": "Un parc în Valea Riftului care oferă vizitatorilor posibilitatea de a observa broaște țestoase în apropierea liniei geografice a ecuatorului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.965438,
+                        -0.005817
+                  ]
+            },
+            {
+                  "name": "equator",
+                  "text": "Un punct de belvedere marcat în Valea Riftului, care indică linia geografică exactă a ecuatorului.",
+                  "category": "natural",
+                  "coords": [
+                        35.965053,
+                        -0.024152
+                  ]
+            },
+            {
+                  "name": "Equator Dip Alphega Road",
+                  "text": "O atracție locală pe drumul Alphega din Valea Riftului, marcând trecerea geografică a ecuatorului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9646,
+                        0.003583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Equator Sign",
+                  "text": "A geographical marker in the Great Rift Valley where visitors can simultaneously stand with one foot in each hemisphere.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964974,
+                        -0.002678
+                  ]
+            },
+            {
+                  "name": "Equator Tortoise Park",
+                  "text": "A park in the Rift Valley offering visitors the chance to observe tortoises near the geographical equatorial line.",
+                  "category": "landmark",
+                  "coords": [
+                        35.965438,
+                        -0.005817
+                  ]
+            },
+            {
+                  "name": "equator",
+                  "text": "A marked viewpoint in the Rift Valley indicating the exact geographical line of the equator.",
+                  "category": "natural",
+                  "coords": [
+                        35.965053,
+                        -0.024152
+                  ]
+            },
+            {
+                  "name": "Equator Dip Alphega Road",
+                  "text": "A local attraction on Alphega Road in the Rift Valley, marking the geographical crossing of the equator.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9646,
+                        0.003583
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "KE-30",
     coords: [36.0, 0.0],
@@ -299,7 +452,52 @@ export const poiExtraKenyaReliefV2: POI[] = [
     
      image: "/poi-images/tsavo-plains-relief-v2.webp"},
   {
-    id: "tana-delta-relief-v2",
+    id: "tana-delta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shakababo Community Conservancy",
+                  "text": "Dieses von der Gemeinde verwaltete Naturreservat schützt die vielfältigen Ökosysteme der Tana-Delta-Region.",
+                  "category": "natural",
+                  "coords": [
+                        40.135207,
+                        -2.443893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shakababo Community Conservancy",
+                  "text": "Ez a közösség által kezelt természetvédelmi terület a Tana-delta régió változatos ökoszisztémáit védi.",
+                  "category": "natural",
+                  "coords": [
+                        40.135207,
+                        -2.443893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shakababo Community Conservancy",
+                  "text": "Această rezervație naturală administrată de comunitate protejează diversele ecosisteme din regiunea Deltei Tana.",
+                  "category": "natural",
+                  "coords": [
+                        40.135207,
+                        -2.443893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shakababo Community Conservancy",
+                  "text": "This community-managed nature reserve protects the diverse ecosystems of the Tana Delta region.",
+                  "category": "natural",
+                  "coords": [
+                        40.135207,
+                        -2.443893
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "KE-26",
     coords: [40.2, -2.4],
@@ -336,7 +534,124 @@ export const poiExtraKenyaReliefV2: POI[] = [
     
      image: "/poi-images/tana-delta-relief-v2.webp"},
   {
-    id: "loldaika-hills-relief-v2",
+    id: "loldaika-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shulmai Conservancy",
+                  "text": "Dieses Schutzgebiet in den Hügeln engagiert sich für die Erhaltung der lokalen Wildtiere und ihrer Lebensräume.",
+                  "category": "natural",
+                  "coords": [
+                        37.191674,
+                        0.479943
+                  ]
+            },
+            {
+                  "name": "Mukogodo Forest Reserve",
+                  "text": "Dieses Naturschutzgebiet bewahrt ein ausgedehntes Waldgebiet, das für die regionale Biodiversität entscheidend ist.",
+                  "category": "natural",
+                  "coords": [
+                        37.257671,
+                        0.391134
+                  ]
+            },
+            {
+                  "name": "Maiyanat Community Conservancy",
+                  "text": "Dieses von der Gemeinschaft verwaltete Naturschutzgebiet schützt die Weidelandschaften und die Tierwelt der Region.",
+                  "category": "natural",
+                  "coords": [
+                        37.175771,
+                        0.335946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shulmai Conservancy",
+                  "text": "Ez a dombvidéki védett terület a helyi vadvilág és élőhelyeik megőrzésével foglalkozik.",
+                  "category": "natural",
+                  "coords": [
+                        37.191674,
+                        0.479943
+                  ]
+            },
+            {
+                  "name": "Mukogodo Forest Reserve",
+                  "text": "Ez a természetvédelmi terület egy kiterjedt erdőt őriz, amely kulcsfontosságú a regionális biodiverzitás szempontjából.",
+                  "category": "natural",
+                  "coords": [
+                        37.257671,
+                        0.391134
+                  ]
+            },
+            {
+                  "name": "Maiyanat Community Conservancy",
+                  "text": "Ez a közösség által kezelt természetvédelmi terület a régió legelőit és vadvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        37.175771,
+                        0.335946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shulmai Conservancy",
+                  "text": "Această arie de conservare din dealuri este dedicată protejării faunei sălbatice locale și a habitatelor acestora.",
+                  "category": "natural",
+                  "coords": [
+                        37.191674,
+                        0.479943
+                  ]
+            },
+            {
+                  "name": "Mukogodo Forest Reserve",
+                  "text": "Această rezervație naturală păstrează o pădure extinsă, esențială pentru biodiversitatea regională.",
+                  "category": "natural",
+                  "coords": [
+                        37.257671,
+                        0.391134
+                  ]
+            },
+            {
+                  "name": "Maiyanat Community Conservancy",
+                  "text": "Această rezervație naturală administrată de comunitate protejează pășunile și fauna sălbatică din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        37.175771,
+                        0.335946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shulmai Conservancy",
+                  "text": "This hilly conservancy is dedicated to the preservation of local wildlife and their habitats.",
+                  "category": "natural",
+                  "coords": [
+                        37.191674,
+                        0.479943
+                  ]
+            },
+            {
+                  "name": "Mukogodo Forest Reserve",
+                  "text": "This nature reserve preserves an extensive forest area that is crucial for regional biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        37.257671,
+                        0.391134
+                  ]
+            },
+            {
+                  "name": "Maiyanat Community Conservancy",
+                  "text": "This community-managed nature reserve protects the rangelands and wildlife of the region.",
+                  "category": "natural",
+                  "coords": [
+                        37.175771,
+                        0.335946
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KE-20",
     coords: [37.2, 0.4],
@@ -521,7 +836,88 @@ export const poiExtraKenyaReliefV2: POI[] = [
     
      image: "/poi-images/yatta-plateau-relief-v2.webp"},
   {
-    id: "uganda-escarpment-relief-v2",
+    id: "uganda-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kitum Cave",
+                  "text": "Die Kitum-Höhle ist eine tiefe Vulkanhöhle im Mount-Elgon-Steilhang, die berühmt dafür ist, regelmäßig von Elefanten auf der Suche nach Salz aufgesucht zu werden.",
+                  "category": "natural",
+                  "coords": [
+                        34.755959,
+                        1.029762
+                  ]
+            },
+            {
+                  "name": "Mount Elgon National Park",
+                  "text": "Der Mount Elgon Nationalpark schützt die schroffen Hänge und dichten Bergwälder eines riesigen erloschenen Schildvulkans.",
+                  "category": "natural",
+                  "coords": [
+                        34.686796,
+                        1.081199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kitum Cave",
+                  "text": "A Kitum-barlang egy mély vulkáni barlang a Mount Elgon meredek lejtőjén, amely arról híres, hogy a sót kereső elefántok rendszeresen látogatják.",
+                  "category": "natural",
+                  "coords": [
+                        34.755959,
+                        1.029762
+                  ]
+            },
+            {
+                  "name": "Mount Elgon National Park",
+                  "text": "A Mount Elgon Nemzeti Park egy hatalmas kialudt pajzsvulkán zord lejtőit és sűrű hegyi erdeit védi.",
+                  "category": "natural",
+                  "coords": [
+                        34.686796,
+                        1.081199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kitum Cave",
+                  "text": "Peștera Kitum este o peșteră vulcanică adâncă din escarpamentul Muntelui Elgon, renumită pentru faptul că este vizitată în mod regulat de elefanți în căutare de sare.",
+                  "category": "natural",
+                  "coords": [
+                        34.755959,
+                        1.029762
+                  ]
+            },
+            {
+                  "name": "Mount Elgon National Park",
+                  "text": "Parcul Național Muntele Elgon protejează pantele accidentate și pădurile montane dense ale unui masiv vulcan scut stins.",
+                  "category": "natural",
+                  "coords": [
+                        34.686796,
+                        1.081199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kitum Cave",
+                  "text": "Kitum Cave is a deep volcanic cave within the Mount Elgon escarpment, famous for being regularly visited by elephants seeking salt.",
+                  "category": "natural",
+                  "coords": [
+                        34.755959,
+                        1.029762
+                  ]
+            },
+            {
+                  "name": "Mount Elgon National Park",
+                  "text": "Mount Elgon National Park protects the rugged slopes and dense montane forests of a massive extinct shield volcano.",
+                  "category": "natural",
+                  "coords": [
+                        34.686796,
+                        1.081199
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "KE-26",
     coords: [34.7, 1.0],

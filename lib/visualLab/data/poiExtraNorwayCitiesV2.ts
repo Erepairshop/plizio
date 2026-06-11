@@ -16,7 +16,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Chateauet",
-                  "text": "Ein historisches Herrenhaus und Museum in Molde.",
+                  "text": "Das denkmalgeschützte Museum Chateauet in einem historischen weißen Holzhaus in Molde.",
                   "category": "museum",
                   "coords": [
                         7.15073,
@@ -216,7 +216,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Chateauet",
-                  "text": "Történelmi kúria és múzeum Molde városában.",
+                  "text": "A műemlék Chateauet múzeum egy történelmi fehér faházban Moldeban.",
                   "category": "museum",
                   "coords": [
                         7.15073,
@@ -416,7 +416,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Chateauet",
-                  "text": "Un conac istoric și muzeu situat în Molde.",
+                  "text": "Muzeul Chateauet, monument istoric, într-o casă istorică din lemn alb în Molde.",
                   "category": "museum",
                   "coords": [
                         7.15073,
@@ -616,7 +616,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Chateauet",
-                  "text": "A historic manor house and museum located in Molde.",
+                  "text": "The heritage-listed Chateauet museum in a historic white wooden house in Molde.",
                   "category": "museum",
                   "coords": [
                         7.15073,
@@ -979,7 +979,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hamardomen",
-                  "text": "Hamardomen ist eine einzigartige, gläsern umschlossene Kathedralruine in Hamar.",
+                  "text": "Die Ruinen des um 1200 erbauten Hamar Doms.",
                   "category": "religious",
                   "coords": [
                         11.038384,
@@ -1188,7 +1188,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hamardomen",
-                  "text": "A Hamardomen egy egyedülálló, üveggel körülvett katedrálisrom Hamarban.",
+                  "text": "Az 1200 körül épült Hamari székesegyház romjai.",
                   "category": "religious",
                   "coords": [
                         11.038384,
@@ -1397,7 +1397,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hamardomen",
-                  "text": "Hamardomen este o ruină de catedrală unică, închisă în sticlă, din Hamar.",
+                  "text": "Ruinele Catedralei din Hamar, construite în jurul anului 1200.",
                   "category": "religious",
                   "coords": [
                         11.038384,
@@ -1606,7 +1606,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hamardomen",
-                  "text": "Hamardomen is a unique glass-enclosed cathedral ruin in Hamar.",
+                  "text": "The ruins of Hamar Cathedral, built around 1200.",
                   "category": "religious",
                   "coords": [
                         11.038384,
@@ -7207,7 +7207,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Eidsvoll kirke",
-                  "text": "Eine historische Kirche in Eidsvoll.",
+                  "text": "Die um 1200 erbaute Eidsvoll kirke in Eidsvoll ist eine mittelalterliche Steinkirche, die im 19. Jahrhundert umgebaut wurde.",
                   "category": "religious",
                   "coords": [
                         11.24423,
@@ -7254,7 +7254,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Eidsvoll kirke",
-                  "text": "Történelmi templom Eidsvollban.",
+                  "text": "A Eidsvoll-i templom 1200 körül épült, középkori kőtemplom, amelyet a 19. században építettek át.",
                   "category": "religious",
                   "coords": [
                         11.24423,
@@ -7301,7 +7301,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Eidsvoll kirke",
-                  "text": "O biserică istorică în Eidsvoll.",
+                  "text": "Biserica Eidsvoll din Eidsvoll, construită în jurul anului 1200, este o biserică medievală de piatră, reconstruită în secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         11.24423,
@@ -7348,7 +7348,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Eidsvoll kirke",
-                  "text": "A historic church located in Eidsvoll.",
+                  "text": "Eidsvoll Church in Eidsvoll, built around 1200, is a medieval stone church rebuilt in the 19th century.",
                   "category": "religious",
                   "coords": [
                         11.24423,
@@ -7558,7 +7558,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Horten kirke",
-                  "text": "Eine evangelische Kirche in der Stadt Horten.",
+                  "text": "Die Horten kirke, erbaut 1855 nach Plänen von Chr. H. Grosch, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         10.490224,
@@ -7567,7 +7567,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sentrumskirken",
-                  "text": "Eine moderne Kirche im Zentrum von Horten.",
+                  "text": "Die Sentrumskirken in Horten, erbaut 1972 von Elisabeth Breen Fidjestøl, ist eine moderne Kirche.",
                   "category": "religious",
                   "coords": [
                         10.47736,
@@ -7740,7 +7740,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Horten kirke",
-                  "text": "Evangélikus templom Horten városában.",
+                  "text": "A horteni templom (Horten kirke) 1855-ben épült Chr. H. Grosch tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         10.490224,
@@ -7749,7 +7749,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sentrumskirken",
-                  "text": "Modern templom Horten központjában.",
+                  "text": "A horteni Sentrumskirken (Központi templom) 1972-ben épült Elisabeth Breen Fidjestøl tervei alapján.",
                   "category": "religious",
                   "coords": [
                         10.47736,
@@ -7922,7 +7922,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Horten kirke",
-                  "text": "O biserică evanghelică în orașul Horten.",
+                  "text": "Biserica Horten kirke, construită în 1855 după planurile lui Chr. H. Grosch, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         10.490224,
@@ -7931,7 +7931,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sentrumskirken",
-                  "text": "O biserică modernă în centrul orașului Horten.",
+                  "text": "Biserica Sentrumskirken din Horten, construită în 1972 de arhitecta Elisabeth Breen Fidjestøl, este o biserică modernă.",
                   "category": "religious",
                   "coords": [
                         10.47736,
@@ -8104,7 +8104,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Horten kirke",
-                  "text": "An evangelical church in the town of Horten.",
+                  "text": "Horten Church, built in 1855 to designs by Chr. H. Grosch, is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         10.490224,
@@ -8113,7 +8113,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sentrumskirken",
-                  "text": "A modern church in the center of Horten.",
+                  "text": "The Sentrumskirken in Horten, built in 1972, was designed by architect Elisabeth Breen Fidjestøl.",
                   "category": "religious",
                   "coords": [
                         10.47736,
@@ -8368,7 +8368,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrøm kirke",
-                  "text": "Die Hauptkirche von Lillestrøm.",
+                  "text": "Die Lillestrøm kirke, erbaut 1935 von Dagfinn Morseth und Mads Wiel Gedde, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         11.048293,
@@ -8386,7 +8386,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømmen kirke",
-                  "text": "Eine Kirche im Stadtteil Strømmen von Lillestrøm.",
+                  "text": "Die Strømmen kirke, erbaut 1929 von O. Olson, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         11.015102,
@@ -8496,7 +8496,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrøm kirke",
-                  "text": "Lillestrøm főtemploma.",
+                  "text": "A Lillestrøm-i templom 1935-ben épült Dagfinn Morseth és Mads Wiel Gedde tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         11.048293,
@@ -8514,7 +8514,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømmen kirke",
-                  "text": "Templom Lillestrøm Strømmen negyedében.",
+                  "text": "A Strømmen-i templom 1929-ben épült O. Olson tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         11.015102,
@@ -8624,7 +8624,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrøm kirke",
-                  "text": "Biserica principală din Lillestrøm.",
+                  "text": "Biserica Lillestrøm kirke, construită în 1935 de arhitecții Dagfinn Morseth și Mads Wiel Gedde, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         11.048293,
@@ -8642,7 +8642,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømmen kirke",
-                  "text": "O biserică în cartierul Strømmen din Lillestrøm.",
+                  "text": "Biserica Strømmen kirke, construită în 1929 de arhitectul O. Olson, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         11.015102,
@@ -8752,7 +8752,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrøm kirke",
-                  "text": "The main church of Lillestrøm.",
+                  "text": "Lillestrøm Church, built in 1935, was designed by Dagfinn Morseth and Mads Wiel Gedde and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         11.048293,
@@ -8770,7 +8770,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømmen kirke",
-                  "text": "A church in the Strømmen district of Lillestrøm.",
+                  "text": "Strømmen Church, built in 1929, was designed by O. Olson and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         11.015102,
@@ -8962,7 +8962,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik kirke",
-                  "text": "Die Hauptkirche der Stadt Gjøvik.",
+                  "text": "Die Gjøvik kirke, erbaut 1882 von Jacob Wilhelm Nordan, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         10.687758,
@@ -8989,7 +8989,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hunn kirke",
-                  "text": "Eine moderne Kirche im Stadtteil Hunn in Gjøvik.",
+                  "text": "Die 1968 erbaute Hunn-Kirche in Gjøvik, entworfen von Abrahamsen, Grinde und Phil.",
                   "category": "religious",
                   "coords": [
                         10.65681,
@@ -8998,7 +8998,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engehaugen kirke",
-                  "text": "Eine im 20. Jahrhundert erbaut Kirche in Gjøvik.",
+                  "text": "Die 1985 erbaute Engehaugen-Kirche in Gjøvik, Architekt Jan Arne Frydenlund.",
                   "category": "religious",
                   "coords": [
                         10.669387,
@@ -9153,7 +9153,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik kirke",
-                  "text": "Gjøvik városának főtemploma.",
+                  "text": "A Gjøvik-i templom 1882-ben épült Jacob Wilhelm Nordan tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         10.687758,
@@ -9180,7 +9180,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hunn kirke",
-                  "text": "Modern templom Gjøvik Hunn negyedében.",
+                  "text": "A gjøviki Hunn templom, 1968-ban épült, Abrahamsen, Grinde és Phil tervezte.",
                   "category": "religious",
                   "coords": [
                         10.65681,
@@ -9189,7 +9189,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engehaugen kirke",
-                  "text": "A 20. században épült templom Gjøvikben.",
+                  "text": "A gjøviki Engehaugen templom, 1985-ben épült, Jan Arne Frydenlund tervezte.",
                   "category": "religious",
                   "coords": [
                         10.669387,
@@ -9344,7 +9344,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik kirke",
-                  "text": "Biserica principală a orașului Gjøvik.",
+                  "text": "Biserica Gjøvik kirke, construită în 1882 de arhitectul Jacob Wilhelm Nordan, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         10.687758,
@@ -9371,7 +9371,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hunn kirke",
-                  "text": "O biserică modernă în cartierul Hunn din Gjøvik.",
+                  "text": "Biserica Hunn din Gjøvik, construită în 1968, proiectată de Abrahamsen, Grinde și Phil.",
                   "category": "religious",
                   "coords": [
                         10.65681,
@@ -9380,7 +9380,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engehaugen kirke",
-                  "text": "O biserică construită în secolul al XX-lea în Gjøvik.",
+                  "text": "Biserica Engehaugen din Gjøvik, construită în 1985, proiectată de Jan Arne Frydenlund.",
                   "category": "religious",
                   "coords": [
                         10.669387,
@@ -9535,7 +9535,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik kirke",
-                  "text": "The main church of the city of Gjøvik.",
+                  "text": "Gjøvik Church, built in 1882, was designed by Jacob Wilhelm Nordan and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         10.687758,
@@ -9562,7 +9562,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hunn kirke",
-                  "text": "A modern church in the Hunn district of Gjøvik.",
+                  "text": "Hunn Church in Gjøvik, built in 1968, designed by Abrahamsen, Grinde and Phil.",
                   "category": "religious",
                   "coords": [
                         10.65681,
@@ -9571,7 +9571,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engehaugen kirke",
-                  "text": "A church built in the 20th century in Gjøvik.",
+                  "text": "Engehaugen Church in Gjøvik, built in 1985, designed by Jan Arne Frydenlund.",
                   "category": "religious",
                   "coords": [
                         10.669387,
@@ -10537,7 +10537,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egge kirke",
-                  "text": "Eine traditionelle Steinkirche in Steinkjer.",
+                  "text": "Die Egge kirke in Steinkjer, erbaut 1767, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         11.474777,
@@ -10546,7 +10546,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinkjer kirke",
-                  "text": "Die moderne Hauptkirche von Steinkjer.",
+                  "text": "Die 1965 erbaute Steinkjer-Kirche, Architekt Olav Platou.",
                   "category": "religious",
                   "coords": [
                         11.49409,
@@ -10647,7 +10647,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egge kirke",
-                  "text": "Hagyományos kőtemplom Steinkjerben.",
+                  "text": "A steinkjeri Egge templom 1767-ben épült, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         11.474777,
@@ -10656,7 +10656,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinkjer kirke",
-                  "text": "Steinkjer modern főtemploma.",
+                  "text": "A steinkjeri templom, 1965-ben épült, Olav Platou tervezte.",
                   "category": "religious",
                   "coords": [
                         11.49409,
@@ -10757,7 +10757,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egge kirke",
-                  "text": "O biserică tradițională de piatră în Steinkjer.",
+                  "text": "Biserica Egge kirke din Steinkjer, construită în 1767, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         11.474777,
@@ -10766,7 +10766,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinkjer kirke",
-                  "text": "Biserica principală modernă din Steinkjer.",
+                  "text": "Biserica Steinkjer, construită în 1965, proiectată de Olav Platou.",
                   "category": "religious",
                   "coords": [
                         11.49409,
@@ -10867,7 +10867,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egge kirke",
-                  "text": "A traditional stone church in Steinkjer.",
+                  "text": "Egge Church in Steinkjer, built in 1767, is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         11.474777,
@@ -10876,7 +10876,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinkjer kirke",
-                  "text": "The modern main church of Steinkjer.",
+                  "text": "Steinkjer Church, built in 1965, designed by Olav Platou.",
                   "category": "religious",
                   "coords": [
                         11.49409,
@@ -11032,7 +11032,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Namsos kirke",
-                  "text": "Eine evangelisch-lutherische Kirche in Namsos.",
+                  "text": "Die 1960 erbaute Namsos-Kirche, Architekt Ola B. Aasness.",
                   "category": "religious",
                   "coords": [
                         11.494992,
@@ -11187,7 +11187,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Namsos kirke",
-                  "text": "Egy evangélikus templom Namsos városában.",
+                  "text": "A namsosi templom, 1960-ban épült, Ola B. Aasness tervezte.",
                   "category": "religious",
                   "coords": [
                         11.494992,
@@ -11342,7 +11342,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Namsos kirke",
-                  "text": "O biserică luterană evanghelică în Namsos.",
+                  "text": "Biserica Namsos, construită în 1960, proiectată de Ola B. Aasness.",
                   "category": "religious",
                   "coords": [
                         11.494992,
@@ -11497,7 +11497,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Namsos kirke",
-                  "text": "An evangelical Lutheran church in Namsos.",
+                  "text": "Namsos Church, built in 1960, designed by Ola B. Aasness.",
                   "category": "religious",
                   "coords": [
                         11.494992,
@@ -11707,7 +11707,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dolstad kirke",
-                  "text": "Eine historische Holzkirche in Mosjøen.",
+                  "text": "Die Dolstad kirke in Mosjøen, erbaut 1735 von Nils Pedersen Beck, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         13.204012,
@@ -11817,7 +11817,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dolstad kirke",
-                  "text": "Történelmi fatemplom Mosjøenben.",
+                  "text": "A mosjøeni Dolstad templom 1735-ben épült Nils Pedersen Beck tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         13.204012,
@@ -11927,7 +11927,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dolstad kirke",
-                  "text": "O biserică istorică de lemn în Mosjøen.",
+                  "text": "Biserica Dolstad kirke din Mosjøen, construită în 1735 de Nils Pedersen Beck, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         13.204012,
@@ -12037,7 +12037,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dolstad kirke",
-                  "text": "A historic wooden church in Mosjøen.",
+                  "text": "Dolstad Church in Mosjøen, built in 1735, was designed by Nils Pedersen Beck and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         13.204012,
@@ -12166,7 +12166,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gruben kirke",
-                  "text": "Eine Pfarrkirche im Stadtteil Gruben von Mo i Rana.",
+                  "text": "Die 1965 erbaute Gruben-Kirche in Mo i Rana, Architekt Nils Toft.",
                   "category": "religious",
                   "coords": [
                         14.194597,
@@ -12240,7 +12240,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gruben kirke",
-                  "text": "Plébániatemplom Mo i Rana Gruben negyedében.",
+                  "text": "A Mo i Ranai Gruben templom, 1965-ben épült, Nils Toft tervezte.",
                   "category": "religious",
                   "coords": [
                         14.194597,
@@ -12314,7 +12314,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gruben kirke",
-                  "text": "O biserică parohială situată în districtul Gruben din Mo i Rana.",
+                  "text": "Biserica Gruben din Mo i Rana, construită în 1965, proiectată de Nils Toft.",
                   "category": "religious",
                   "coords": [
                         14.194597,
@@ -12388,7 +12388,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gruben kirke",
-                  "text": "A parish church located in the village of Gruben in Mo i Rana.",
+                  "text": "Gruben Church in Mo i Rana, built in 1965, designed by Nils Toft.",
                   "category": "religious",
                   "coords": [
                         14.194597,
@@ -13372,7 +13372,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkefjord kirke",
-                  "text": "Eine markante Kirche in Flekkefjord.",
+                  "text": "Die Flekkefjord kirke, erbaut 1833 von H.D.F. Linstow, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         6.661879,
@@ -13536,7 +13536,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkefjord kirke",
-                  "text": "Jellegzetes templom Flekkefjordban.",
+                  "text": "A Flekkefjord-i templom 1833-ban épült H.D.F. Linstow tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         6.661879,
@@ -13700,7 +13700,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkefjord kirke",
-                  "text": "O biserică distinctivă în Flekkefjord.",
+                  "text": "Biserica Flekkefjord kirke, construită în 1833 de arhitectul H.D.F. Linstow, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         6.661879,
@@ -13864,7 +13864,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkefjord kirke",
-                  "text": "A prominent church in Flekkefjord.",
+                  "text": "Flekkefjord Church, built in 1833, was designed by H.D.F. Linstow and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         6.661879,
@@ -14074,7 +14074,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Odda kirke",
-                  "text": "Die Gemeindekirche in Odda.",
+                  "text": "Die 1870 erbaute Odda-Kirche, Architekt Eriksen.",
                   "category": "religious",
                   "coords": [
                         6.547904,
@@ -14139,7 +14139,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Odda kirke",
-                  "text": "Odda községi temploma.",
+                  "text": "Az oddai templom, 1870-ben épült, Eriksen tervezte.",
                   "category": "religious",
                   "coords": [
                         6.547904,
@@ -14204,7 +14204,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Odda kirke",
-                  "text": "Biserica parohială din Odda.",
+                  "text": "Biserica Odda, construită în 1870, proiectată de arhitectul Eriksen.",
                   "category": "religious",
                   "coords": [
                         6.547904,
@@ -14269,7 +14269,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Odda kirke",
-                  "text": "The parish church in Odda.",
+                  "text": "Odda Church, built in 1870, designed by architect Eriksen.",
                   "category": "religious",
                   "coords": [
                         6.547904,
@@ -14362,7 +14362,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førde kyrkje",
-                  "text": "Eine steinerne Langkirche aus dem 19. Jahrhundert in Førde.",
+                  "text": "Die Førde kyrkje, erbaut 1885 von J.W. Nordan, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         5.862852,
@@ -14427,7 +14427,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førde kyrkje",
-                  "text": "19. századi kőből épült templom Førde városában.",
+                  "text": "A Førde-i templom (Førde kyrkje) 1885-ben épült J.W. Nordan tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         5.862852,
@@ -14492,7 +14492,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førde kyrkje",
-                  "text": "O biserică de piatră din secolul al XIX-lea în Førde.",
+                  "text": "Biserica Førde kyrkje, construită în 1885 de arhitectul J.W. Nordan, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         5.862852,
@@ -14557,7 +14557,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førde kyrkje",
-                  "text": "A 19th-century stone church located in Førde.",
+                  "text": "Førde Church, built in 1885, was designed by J.W. Nordan and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         5.862852,
@@ -14677,7 +14677,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sør-Vågsøy kyrkje",
-                  "text": "Die Hauptkirche der Gemeinde Sør-Vågsøy in Måløy.",
+                  "text": "Die Sør-Vågsøy kyrkje in Måløy, erbaut 1907, steht im Ortsteil Raudeberg.",
                   "category": "religious",
                   "coords": [
                         5.110857,
@@ -14724,7 +14724,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sør-Vågsøy kyrkje",
-                  "text": "Sør-Vågsøy község főtemploma Måløyban.",
+                  "text": "A måløy-i Sør-Vågsøy templom 1907-ben épült Raudeberg településrészen.",
                   "category": "religious",
                   "coords": [
                         5.110857,
@@ -14771,7 +14771,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sør-Vågsøy kyrkje",
-                  "text": "Biserica principală a comunei Sør-Vågsøy din Måløy.",
+                  "text": "Biserica Sør-Vågsøy kyrkje din Måløy, construită în 1907, se află în localitatea Raudeberg.",
                   "category": "religious",
                   "coords": [
                         5.110857,
@@ -14818,7 +14818,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sør-Vågsøy kyrkje",
-                  "text": "The main church of the Sør-Vågsøy parish located in Måløy.",
+                  "text": "Sør-Vågsøy Church in Måløy, built in 1907, is located in the village of Raudeberg.",
                   "category": "religious",
                   "coords": [
                         5.110857,
@@ -14902,7 +14902,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "Eine mittelalterliche Steinkirche in Brønnøysund.",
+                  "text": "Die um 1200 erbaute Brønnøy kirke in Brønnøysund ist eine mittelalterliche Steinkirche, die 1870 von H. A. Mosling restauriert wurde.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -14940,7 +14940,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "Középkori kőtemplom Brønnøysundban.",
+                  "text": "A Brønnøysund-i Brønnøy-templom 1200 körül épült, középkori kőtemplom, amelyet 1870-ben H. A. Mosling állított helyre.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -14978,7 +14978,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "O biserică medievală de piatră în Brønnøysund.",
+                  "text": "Biserica Brønnøy din Brønnøysund, construită în jurul anului 1200, este o biserică medievală de piatră, restaurată în 1870 de H. A. Mosling.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -15016,7 +15016,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "A medieval stone church in Brønnøysund.",
+                  "text": "Brønnøy Church in Brønnøysund, built around 1200, is a medieval stone church restored in 1870 by H. A. Mosling.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -15082,7 +15082,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sandnessjøen kirke",
-                  "text": "Die Hauptkirche der Stadt Sandnessjøen.",
+                  "text": "Die Sandnessjøen kirke, erbaut 1881, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         12.61822,
@@ -15129,7 +15129,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sandnessjøen kirke",
-                  "text": "Sandnessjøen városának főtemploma.",
+                  "text": "A Sandnessjøen-i templom 1881-ben épült, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         12.61822,
@@ -15176,7 +15176,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sandnessjøen kirke",
-                  "text": "Biserica principală a orașului Sandnessjøen.",
+                  "text": "Biserica Sandnessjøen kirke, construită în 1881, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         12.61822,
@@ -15223,7 +15223,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sandnessjøen kirke",
-                  "text": "The main church of the town of Sandnessjøen.",
+                  "text": "Sandnessjøen Church, built in 1881, is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         12.61822,
@@ -16045,7 +16045,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Heggelia kapell",
-                  "text": "Eine Kapelle in Bardufoss.",
+                  "text": "Die 1961 erbaute Heggelia-Kapelle in Bardufoss, entworfen von Bjørhovde, Flakstad und Lindeberg.",
                   "category": "religious",
                   "coords": [
                         18.510459,
@@ -16074,7 +16074,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Heggelia kapell",
-                  "text": "Kápolna Bardufossban.",
+                  "text": "A bardufossi Heggelia-kápolna, 1961-ben épült, Bjørhovde, Flakstad és Lindeberg tervezte.",
                   "category": "religious",
                   "coords": [
                         18.510459,
@@ -16103,7 +16103,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Heggelia kapell",
-                  "text": "O capelă în Bardufoss.",
+                  "text": "Capela Heggelia din Bardufoss, construită în 1961, proiectată de Bjørhovde, Flakstad și Lindeberg.",
                   "category": "religious",
                   "coords": [
                         18.510459,
@@ -16132,7 +16132,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Heggelia kapell",
-                  "text": "A chapel in Bardufoss.",
+                  "text": "Heggelia Chapel in Bardufoss, built in 1961, designed by Bjørhovde, Flakstad and Lindeberg.",
                   "category": "religious",
                   "coords": [
                         18.510459,
@@ -17305,7 +17305,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hol kirke",
-                  "text": "Eine historische Kirche in der Ortschaft Hol bei Leknes.",
+                  "text": "Die 1806 erbaute denkmalgeschützte Hol-Kirche in Leknes.",
                   "category": "religious",
                   "coords": [
                         13.642175,
@@ -17370,7 +17370,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hol kirke",
-                  "text": "Történelmi templom Hol faluban, Leknes közelében.",
+                  "text": "A leknesi Hol templom, 1806-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         13.642175,
@@ -17435,7 +17435,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hol kirke",
-                  "text": "O biserică istorică în satul Hol, lângă Leknes.",
+                  "text": "Biserica Hol din Leknes, construită în 1806, monument istoric.",
                   "category": "religious",
                   "coords": [
                         13.642175,
@@ -17500,7 +17500,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hol kirke",
-                  "text": "A historical church in the village of Hol near Leknes.",
+                  "text": "Hol Church in Leknes, built in 1806, a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         13.642175,
@@ -17620,7 +17620,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes kirke",
-                  "text": "Eine Kirche in der Küstenstadt Andenes.",
+                  "text": "Die Andenes kirke, erbaut 1876 von Ingebrigt Julin, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         16.12678,
@@ -17667,7 +17667,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes kirke",
-                  "text": "Templom Andenes tengerparti városában.",
+                  "text": "Az Andenes-i templom 1876-ban épült Ingebrigt Julin tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         16.12678,
@@ -17714,7 +17714,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes kirke",
-                  "text": "O biserică în orașul de coastă Andenes.",
+                  "text": "Biserica Andenes kirke, construită în 1876 de arhitectul Ingebrigt Julin, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         16.12678,
@@ -17761,7 +17761,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes kirke",
-                  "text": "A church in the coastal town of Andenes.",
+                  "text": "Andenes Church, built in 1876, was designed by Ingebrigt Julin and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         16.12678,
@@ -17827,7 +17827,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bardu kirke",
-                  "text": "Eine hölzerne Kreuzkirche in Setermoen.",
+                  "text": "Die Bardu kirke in Setermoen, erbaut 1829 von Ole Olsen Lundberg, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         18.346348,
@@ -17847,7 +17847,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bardu kirke",
-                  "text": "Fából készült keresztirányú templom Setermoenben.",
+                  "text": "A setermoeni Bardu templom 1829-ben épült Ole Olsen Lundberg tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         18.346348,
@@ -17867,7 +17867,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bardu kirke",
-                  "text": "O biserică de lemn în formă de cruce în Setermoen.",
+                  "text": "Biserica Bardu kirke din Setermoen, construită în 1829 de arhitectul Ole Olsen Lundberg, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         18.346348,
@@ -17887,7 +17887,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bardu kirke",
-                  "text": "A wooden cruciform church in Setermoen.",
+                  "text": "Bardu Church in Setermoen, built in 1829, was designed by Ole Olsen Lundberg and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         18.346348,
@@ -18106,7 +18106,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lakselv kirke",
-                  "text": "Die Hauptkirche in Lakselv.",
+                  "text": "Die 1963 erbaute Lakselv-Kirche, Architekt Eyvind Moestue.",
                   "category": "religious",
                   "coords": [
                         24.952835,
@@ -18117,7 +18117,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lakselv kirke",
-                  "text": "Lakselv főtemploma.",
+                  "text": "A lakselvi templom, 1963-ban épült, Eyvind Moestue tervezte.",
                   "category": "religious",
                   "coords": [
                         24.952835,
@@ -18128,7 +18128,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lakselv kirke",
-                  "text": "Biserica principală din Lakselv.",
+                  "text": "Biserica Lakselv, construită în 1963, proiectată de Eyvind Moestue.",
                   "category": "religious",
                   "coords": [
                         24.952835,
@@ -18139,7 +18139,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lakselv kirke",
-                  "text": "The main church in Lakselv.",
+                  "text": "Lakselv Church, built in 1963, designed by Eyvind Moestue.",
                   "category": "religious",
                   "coords": [
                         24.952835,
@@ -19249,7 +19249,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "Eine historische Steinkirche in der Gemeinde Brønnøy.",
+                  "text": "Die um 1200 erbaute Brønnøy kirke in Brønnøy ist eine mittelalterliche Steinkirche, die 1870 von H. A. Mosling restauriert wurde.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -19287,7 +19287,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "Történelmi kőtemplom Brønnøy községben.",
+                  "text": "A Brønnøy-i Brønnøy-templom 1200 körül épült, középkori kőtemplom, amelyet 1870-ben H. A. Mosling állított helyre.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -19325,7 +19325,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "O biserică istorică de piatră în comuna Brønnøy.",
+                  "text": "Biserica Brønnøy din Brønnøy, construită în jurul anului 1200, este o biserică medievală de piatră, restaurată în 1870 de H. A. Mosling.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -19363,7 +19363,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Brønnøy kirke",
-                  "text": "A historic stone church in Brønnøy municipality.",
+                  "text": "Brønnøy Church in Brønnøy, built around 1200, is a medieval stone church restored in 1870 by H. A. Mosling.",
                   "category": "religious",
                   "coords": [
                         12.206501,
@@ -20068,7 +20068,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø kirke",
-                  "text": "Eine große Backsteinkirche in Kragerø.",
+                  "text": "Die Kragerø kirke, erbaut 1870 von G.A. Bull, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         9.414378,
@@ -20250,7 +20250,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø kirke",
-                  "text": "Nagy téglaépítésű templom Kragerőben.",
+                  "text": "A Kragerø-i templom 1870-ben épült G.A. Bull tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         9.414378,
@@ -20432,7 +20432,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø kirke",
-                  "text": "O biserică mare din cărămidă în Kragerø.",
+                  "text": "Biserica Kragerø kirke, construită în 1870 de arhitectul G.A. Bull, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         9.414378,
@@ -20614,7 +20614,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø kirke",
-                  "text": "A large brick church in Kragerø.",
+                  "text": "Kragerø Church, built in 1870, was designed by G.A. Bull and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         9.414378,
@@ -21913,7 +21913,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrand kirke",
-                  "text": "Eine lokale Kirche für die Gemeinde von Tvedestrand.",
+                  "text": "Die Tvedestrand kirke, erbaut 1861 von Georg Andreas Bull, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         8.927722,
@@ -22023,7 +22023,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrand kirke",
-                  "text": "Helyi templom Tvedestrand közössége számára.",
+                  "text": "A Tvedestrand-i templom 1861-ben épült Georg Andreas Bull tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         8.927722,
@@ -22133,7 +22133,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrand kirke",
-                  "text": "O biserică locală care deservește comunitatea din Tvedestrand.",
+                  "text": "Biserica Tvedestrand kirke, construită în 1861 de arhitectul Georg Andreas Bull, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         8.927722,
@@ -22243,7 +22243,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrand kirke",
-                  "text": "A local church serving the community of Tvedestrand.",
+                  "text": "Tvedestrand Church, built in 1861, was designed by Georg Andreas Bull and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         8.927722,
@@ -27592,7 +27592,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bryne kyrkje",
-                  "text": "Die moderne Gemeindekirche der Stadt Bryne.",
+                  "text": "Die 1979 erbaute Bryne-Kirche, Architekt Per Stokholm.",
                   "category": "religious",
                   "coords": [
                         5.644712,
@@ -27675,7 +27675,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bryne kyrkje",
-                  "text": "Bryne városának modern közösségi temploma.",
+                  "text": "A bryne-i templom, 1979-ben épült, Per Stokholm tervezte.",
                   "category": "religious",
                   "coords": [
                         5.644712,
@@ -27758,7 +27758,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bryne kyrkje",
-                  "text": "Biserica modernă a comunității din orașul Bryne.",
+                  "text": "Biserica Bryne, construită în 1979, proiectată de Per Stokholm.",
                   "category": "religious",
                   "coords": [
                         5.644712,
@@ -27841,7 +27841,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bryne kyrkje",
-                  "text": "The modern community church of Bryne city.",
+                  "text": "Bryne Church, built in 1979, designed by Per Stokholm.",
                   "category": "religious",
                   "coords": [
                         5.644712,
@@ -27943,7 +27943,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Klepp kyrkje",
-                  "text": "Die Kirche von Klepp ist ein zentrales religiöses Gebäude der Gemeinde in Kleppe.",
+                  "text": "Die Klepp kyrkje, erbaut 1846 im Linstow-Typ, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         5.624412,
@@ -28044,7 +28044,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Klepp kyrkje",
-                  "text": "Klepp temploma a község központi vallási épülete Kleppében.",
+                  "text": "A Klepp-i templom (Klepp kyrkje) 1846-ban épült Linstow-típusú tervek alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         5.624412,
@@ -28145,7 +28145,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Klepp kyrkje",
-                  "text": "Biserica din Klepp este un edificiu religios central al comunei din Kleppe.",
+                  "text": "Biserica Klepp kyrkje, construită în 1846 după planurile tip Linstow, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         5.624412,
@@ -28246,7 +28246,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Klepp kyrkje",
-                  "text": "Klepp church is a central religious building for the community in Kleppe.",
+                  "text": "Klepp Church, built in 1846, follows the Linstow type design and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         5.624412,
@@ -28402,7 +28402,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sola kirke",
-                  "text": "Eine moderne Pfarrkirche, die der Gemeinde Sola dient.",
+                  "text": "Die 1955 erbaute Sola-Kirche, Architekt Gustav Helland.",
                   "category": "religious",
                   "coords": [
                         5.619152,
@@ -28476,7 +28476,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sola kirke",
-                  "text": "Modern plébániatemplom Sola közössége számára.",
+                  "text": "A solai templom, 1955-ben épült, Gustav Helland tervezte.",
                   "category": "religious",
                   "coords": [
                         5.619152,
@@ -28550,7 +28550,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sola kirke",
-                  "text": "O biserică parohială modernă care deservește comunitatea din Sola.",
+                  "text": "Biserica Sola, construită în 1955, proiectată de Gustav Helland.",
                   "category": "religious",
                   "coords": [
                         5.619152,
@@ -28624,7 +28624,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sola kirke",
-                  "text": "A modern parish church serving the community of Sola.",
+                  "text": "Sola Church, built in 1955, designed by Gustav Helland.",
                   "category": "religious",
                   "coords": [
                         5.619152,
@@ -30184,7 +30184,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Saudasjøen kapell",
-                  "text": "Eine historische Kapelle im Dorf Saudasjøen.",
+                  "text": "Die 1973 erbaute Saudasjøen-Kapelle in Sauda, Architekt Grindheim.",
                   "category": "religious",
                   "coords": [
                         6.305536,
@@ -30267,7 +30267,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Saudasjøen kapell",
-                  "text": "Történelmi kápolna Saudasjøen faluban.",
+                  "text": "A saudai Saudasjøen-kápolna, 1973-ban épült, Grindheim tervezte.",
                   "category": "religious",
                   "coords": [
                         6.305536,
@@ -30350,7 +30350,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Saudasjøen kapell",
-                  "text": "O capelă istorică situată în satul Saudasjøen.",
+                  "text": "Capela Saudasjøen din Sauda, construită în 1973, proiectată de arhitectul Grindheim.",
                   "category": "religious",
                   "coords": [
                         6.305536,
@@ -30433,7 +30433,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Saudasjøen kapell",
-                  "text": "A historic chapel located in the village of Saudasjøen.",
+                  "text": "Saudasjøen Chapel in Sauda, built in 1973, designed by architect Grindheim.",
                   "category": "religious",
                   "coords": [
                         6.305536,
@@ -31831,7 +31831,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjerde kyrkje",
-                  "text": "Eine historische Steinkirche im Dorf Gjerde.",
+                  "text": "Die 1676 erbaute denkmalgeschützte Gjerde-Kirche in Eta.",
                   "category": "religious",
                   "coords": [
                         5.934852,
@@ -31887,7 +31887,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjerde kyrkje",
-                  "text": "Történelmi kőtemplom Gjerde faluban.",
+                  "text": "Az etai Gjerde templom, 1676-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         5.934852,
@@ -31943,7 +31943,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjerde kyrkje",
-                  "text": "O biserică istorică din piatră situată în satul Gjerde.",
+                  "text": "Biserica Gjerde din Eta, construită în 1676, monument istoric.",
                   "category": "religious",
                   "coords": [
                         5.934852,
@@ -31999,7 +31999,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjerde kyrkje",
-                  "text": "A historic stone church located in the village of Gjerde.",
+                  "text": "Gjerde Church in Eta, built in 1676, a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         5.934852,
@@ -32110,7 +32110,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skånevik kyrkje",
-                  "text": "Die Kirche von Skånevik ist das religiöse Wahrzeichen des Dorfes Skånevik.",
+                  "text": "Die Skånevik kyrkje, erbaut 1900 von H.S. Eckhoff, ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         5.939343,
@@ -32157,7 +32157,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skånevik kyrkje",
-                  "text": "Skånevik temploma a település vallási jelképe Skånevikben.",
+                  "text": "A Skånevik-i templom (Skånevik kyrkje) 1900-ban épült H.S. Eckhoff tervei alapján, védett műemlék.",
                   "category": "religious",
                   "coords": [
                         5.939343,
@@ -32204,7 +32204,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skånevik kyrkje",
-                  "text": "Biserica din Skånevik este simbolul religios al satului Skånevik.",
+                  "text": "Biserica Skånevik kyrkje, construită în 1900 de arhitectul H.S. Eckhoff, este un monument protejat.",
                   "category": "religious",
                   "coords": [
                         5.939343,
@@ -32251,7 +32251,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skånevik kyrkje",
-                  "text": "Skånevik church is the religious landmark of the village of Skånevik.",
+                  "text": "Skånevik Church, built in 1900, was designed by H.S. Eckhoff and is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         5.939343,
@@ -32641,7 +32641,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Husnes kyrkje",
-                  "text": "Eine moderne Kirche, die den Einwohnern von Husnes dient.",
+                  "text": "Die 1874 erbaute Husnes-Kirche, Architekt J. Utne (1974 renoviert von P. Helland-Hansen).",
                   "category": "religious",
                   "coords": [
                         5.757918,
@@ -32650,7 +32650,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Valen kyrkje",
-                  "text": "Eine Langkirche im Dorf Valen bei Husnes.",
+                  "text": "Die 1978 erbaute Valen-Kirche in Husnes, Architekt Aksel Fronth.",
                   "category": "religious",
                   "coords": [
                         5.774037,
@@ -32697,7 +32697,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Husnes kyrkje",
-                  "text": "Husnes lakóit szolgáló modern templom.",
+                  "text": "A husnesi templom, 1874-ben épült, J. Utne tervezte (1974-ben P. Helland-Hansen renoválta).",
                   "category": "religious",
                   "coords": [
                         5.757918,
@@ -32706,7 +32706,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Valen kyrkje",
-                  "text": "Valen faluban, Husnes közelében található hosszhajós templom.",
+                  "text": "A husnesi Valen templom, 1978-ban épült, Aksel Fronth tervezte.",
                   "category": "religious",
                   "coords": [
                         5.774037,
@@ -32753,7 +32753,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Husnes kyrkje",
-                  "text": "O biserică modernă care deservește locuitorii din Husnes.",
+                  "text": "Biserica Husnes, construită în 1874, proiectată de J. Utne (renovată în 1974 de P. Helland-Hansen).",
                   "category": "religious",
                   "coords": [
                         5.757918,
@@ -32762,7 +32762,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Valen kyrkje",
-                  "text": "O biserică situată în satul Valen, lângă Husnes.",
+                  "text": "Biserica Valen din Husnes, construită în 1978, proiectată de Aksel Fronth.",
                   "category": "religious",
                   "coords": [
                         5.774037,
@@ -32809,7 +32809,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Husnes kyrkje",
-                  "text": "A modern church serving the residents of Husnes.",
+                  "text": "Husnes Church, built in 1874, designed by J. Utne (renovated in 1974 by P. Helland-Hansen).",
                   "category": "religious",
                   "coords": [
                         5.757918,
@@ -32818,7 +32818,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Valen kyrkje",
-                  "text": "A long church located in the village of Valen near Husnes.",
+                  "text": "Valen Church in Husnes, built in 1978, designed by Aksel Fronth.",
                   "category": "religious",
                   "coords": [
                         5.774037,

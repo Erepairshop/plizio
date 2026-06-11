@@ -8548,7 +8548,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Vestborgen",
-                  "text": "Die Ruinen einer mittelalterlichen Befestigungsanlage in Kalundborg.",
+                  "text": "Die Vestborgen in Kalundborg, erbaut 1167, ist eine denkmalgeschützte Burgruine.",
                   "category": "castle",
                   "coords": [
                         11.078241,
@@ -8730,7 +8730,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Vestborgen",
-                  "text": "Egy középkori erődítmény romjai Kalundborgban.",
+                  "text": "A kalundborgi Vestborgent 1167-ben építették, védett várrom.",
                   "category": "castle",
                   "coords": [
                         11.078241,
@@ -8912,7 +8912,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Vestborgen",
-                  "text": "Ruinele unei fortificații medievale din Kalundborg.",
+                  "text": "Vestborgen din Kalundborg, construită în 1167, este o ruină de castel protejată.",
                   "category": "castle",
                   "coords": [
                         11.078241,
@@ -9094,7 +9094,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Vestborgen",
-                  "text": "The ruins of a medieval fortification located in Kalundborg.",
+                  "text": "Vestborgen in Kalundborg, built in 1167, is a heritage-listed castle ruin.",
                   "category": "castle",
                   "coords": [
                         11.078241,
@@ -51991,7 +51991,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Den Blå Planet",
-                  "text": "Das National Aquarium Denmark auf Amager ist ein beeindruckendes Ziel für Meeresfreunde.",
+                  "text": "Das Nationale Aquarium Dänemarks (Den Blå Planet) in Amager wurde 2013 eröffnet und vom Architekten 3XN entworfen.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -52596,7 +52596,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Den Blå Planet",
-                  "text": "Az Amager szigetén található National Aquarium Denmark lenyűgöző célpont a tenger szerelmeseinek.",
+                  "text": "A Dán Nemzeti Akvárium (Den Blå Planet) Amageren 2013-ban nyílt meg, a 3XN építész tervezte.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -53201,7 +53201,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Den Blå Planet",
-                  "text": "Acvariul National Aquarium Denmark din Amager este o destinație impresionantă pentru iubitorii mării.",
+                  "text": "Acvariul Național al Danemarcei (Den Blå Planet) din Amager, deschis în 2013, proiectat de arhitecții 3XN.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -53806,7 +53806,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "National Aquarium Denmark",
-                  "text": "National Aquarium Denmark in Amager is an impressive destination for ocean enthusiasts.",
+                  "text": "The National Aquarium Denmark (Den Blå Planet) in Amager, opened in 2013, was designed by architects 3XN.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -54718,7 +54718,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Den Blå Planet",
-                  "text": "Das National Aquarium Denmark in Taarnby ist ein beeindruckendes Ziel für einen Familienausflug.",
+                  "text": "Das Nationale Aquarium Dänemarks (Den Blå Planet) in Tårnby wurde 2013 eröffnet und vom Architekten 3XN entworfen.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -54909,7 +54909,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Den Blå Planet",
-                  "text": "A National Aquarium Denmark Taarnby városában lenyűgöző célpont egy családi kiránduláshoz.",
+                  "text": "A Dán Nemzeti Akvárium (Den Blå Planet) Tårnbyben 2013-ban nyílt meg, a 3XN építész tervezte.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -55100,7 +55100,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Den Blå Planet",
-                  "text": "Acvariul Național al Danemarcei din Taarnby este o destinație impresionantă pentru o ieșire în familie.",
+                  "text": "Acvariul Național al Danemarcei (Den Blå Planet) din Tårnby, deschis în 2013, proiectat de arhitecții 3XN.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -55291,7 +55291,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "National Aquarium Denmark",
-                  "text": "The National Aquarium Denmark in Taarnby is an impressive destination for a family outing.",
+                  "text": "The National Aquarium Denmark (Den Blå Planet) in Tårnby, opened in 2013, was designed by architects 3XN.",
                   "category": "family",
                   "coords": [
                         12.656115,
@@ -66265,7 +66265,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Christiansborg Schlosskirche",
-                  "text": "Die Schlosskirche von Christiansborg wird für königliche Zeremonien genutzt.",
+                  "text": "Die Schlosskirche von Christiansborg in Nørrebro, erbaut 1826, wurde von C.F. Hansen entworfen.",
                   "category": "religious",
                   "coords": [
                         12.579361,
@@ -66789,7 +66789,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Christiansborg Slotskirke",
-                  "text": "A Christiansborg-palota temploma, amelyet királyi ceremóniákhoz használnak.",
+                  "text": "A nørrebrori Christiansborg Palota kápolnáját 1826-ban építették, C.F. Hansen tervezte.",
                   "category": "religious",
                   "coords": [
                         12.579361,
@@ -67313,7 +67313,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Christiansborg Slotskirke",
-                  "text": "Capela Palatului Christiansborg este utilizată pentru ceremonii regale.",
+                  "text": "Capela Palatului Christiansborg din Nørrebro, construită în 1826, proiectată de C.F. Hansen.",
                   "category": "religious",
                   "coords": [
                         12.579361,
@@ -67837,7 +67837,7 @@ export const denmarkCitiesV2: POI[] = [
             },
             {
                   "name": "Christiansborg Palace Chapel",
-                  "text": "The chapel of Christiansborg Palace is used for royal ceremonies.",
+                  "text": "Christiansborg Palace Chapel in Nørrebro, built in 1826, was designed by C.F. Hansen.",
                   "category": "religious",
                   "coords": [
                         12.579361,

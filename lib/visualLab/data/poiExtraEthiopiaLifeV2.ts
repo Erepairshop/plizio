@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraEthiopiaLifeV2: POI[] = [
   {
-    id: "babile-elephant-habitat-life-v2",
+    id: "babile-elephant-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camel Market",
+                  "text": "Der Kamelmarkt von Babile ist ein lebendiger, staubiger Handelsplatz, auf dem wöchentlich Hunderte von Kamelen und anderem Vieh verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        42.402128,
+                        9.17875
+                  ]
+            },
+            {
+                  "name": "Qoloji IDP Camp",
+                  "text": "Dieser Aussichtspunkt überblickt das weitläufige Lager Qoloji für Binnenvertriebene vor der Kulisse der trockenen Landschaft in der Nähe von Babile.",
+                  "category": "natural",
+                  "coords": [
+                        42.390862,
+                        9.1815
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camel Market",
+                  "text": "A babilei tevepiac egy nyüzsgő, poros kereskedelmi központ, ahol hetente több száz tevét és más jószágot adnak el.",
+                  "category": "landmark",
+                  "coords": [
+                        42.402128,
+                        9.17875
+                  ]
+            },
+            {
+                  "name": "Qoloji IDP Camp",
+                  "text": "Ebből a kilátópontból a hatalmas Qoloji belső menekülttáborra nyílik kilátás a Babile melletti száraz táj hátterében.",
+                  "category": "natural",
+                  "coords": [
+                        42.390862,
+                        9.1815
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camel Market",
+                  "text": "Piața de cămile din Babile este un centru comercial vibrant și prăfuit, unde sute de cămile și alte animale sunt vândute săptămânal.",
+                  "category": "landmark",
+                  "coords": [
+                        42.402128,
+                        9.17875
+                  ]
+            },
+            {
+                  "name": "Qoloji IDP Camp",
+                  "text": "Acest punct de belvedere oferă o priveliște asupra întinsei tabere de persoane strămutate intern Qoloji, amplasată în peisajul arid de lângă Babile.",
+                  "category": "natural",
+                  "coords": [
+                        42.390862,
+                        9.1815
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camel Market",
+                  "text": "The Babile Camel Market is a vibrant, dusty trading hub where hundreds of camels and other livestock are sold weekly.",
+                  "category": "landmark",
+                  "coords": [
+                        42.402128,
+                        9.17875
+                  ]
+            },
+            {
+                  "name": "Qoloji IDP Camp",
+                  "text": "This vantage point overlooks the sprawling Qoloji internally displaced persons camp set against the arid landscape near Babile.",
+                  "category": "natural",
+                  "coords": [
+                        42.390862,
+                        9.1815
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ET-OR",
     coords: [42.4, 9.1],
@@ -42,7 +123,52 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     
      image: "/poi-images/babile-elephant-habitat-life-v2.webp"},
   {
-    id: "senkele-hartebeest-habitat-life-v2",
+    id: "senkele-hartebeest-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Senkelle Swayne’s Hartebeest sanctuary",
+                  "text": "Das Senkelle Swayne's Hartebeest Sanctuary ist ein äthiopisches Naturschutzgebiet, das dem Schutz der bedrohten Swayne-Kuhantilope gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        38.296831,
+                        7.164937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Senkelle Swayne’s Hartebeest sanctuary",
+                  "text": "A Senkelle Swayne tehénantilop-menedékhely egy etióp természetvédelmi terület, amely a veszélyeztetett alfaj védelmét szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        38.296831,
+                        7.164937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Senkelle Swayne’s Hartebeest sanctuary",
+                  "text": "Sanctuarul Senkelle Swayne's Hartebeest este o rezervație naturală etiopiană dedicată protejării antilopei Swayne pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        38.296831,
+                        7.164937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Senkelle Swayne’s Hartebeest sanctuary",
+                  "text": "Senkelle Swayne’s Hartebeest Sanctuary is an Ethiopian nature reserve dedicated to protecting the endangered Swayne's hartebeest.",
+                  "category": "natural",
+                  "coords": [
+                        38.296831,
+                        7.164937
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ET-OR",
     coords: [38.3, 7.2],
@@ -509,7 +635,52 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "metahara-sugar-agriculture-life-v2",
+    id: "metahara-sugar-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "የጅብ ዋሻ",
+                  "text": "Die Hyena's Cave ist eine natürliche Höhle, die historisch mit der Sichtung der lokalen Hyänenpopulation verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.90266,
+                        8.920881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "የጅብ ዋሻ",
+                  "text": "A Hyena's Cave egy természetes barlang, amely történelmileg a helyi hiénapopuláció megfigyeléséhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        39.90266,
+                        8.920881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "የጅብ ዋሻ",
+                  "text": "Hyena's Cave este o peșteră naturală asociată istoric cu observarea populației locale de hiene.",
+                  "category": "landmark",
+                  "coords": [
+                        39.90266,
+                        8.920881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hyena's Cave",
+                  "text": "Hyena's Cave is a natural cavern historically associated with sightings of the local hyena population.",
+                  "category": "landmark",
+                  "coords": [
+                        39.90266,
+                        8.920881
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ET-OR",
     coords: [39.9, 8.9],
@@ -545,7 +716,88 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "arba-minch-fruit-agriculture-life-v2",
+    id: "arba-minch-fruit-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abaya Viewpoint",
+                  "text": "Der Abaya-Aussichtspunkt bietet ein spektakuläres, erhöhtes Panorama über das rötlich gefärbte Wasser des Abayasees.",
+                  "category": "natural",
+                  "coords": [
+                        37.653427,
+                        5.971697
+                  ]
+            },
+            {
+                  "name": "Chamo Viewpoint",
+                  "text": "Der Chamo-Aussichtspunkt überblickt das klare, wasserreiche Becken des Chamosees, ein Gebiet, das für seine dichte Flusspferdpopulation berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        37.640699,
+                        5.944493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abaya Viewpoint",
+                  "text": "Az Abaya kilátópont látványos, magaslati panorámát nyújt az Abaya-tó vöröses árnyalatú vizére.",
+                  "category": "natural",
+                  "coords": [
+                        37.653427,
+                        5.971697
+                  ]
+            },
+            {
+                  "name": "Chamo Viewpoint",
+                  "text": "A Chamo kilátópontról a Chamo-tó tiszta, bő vizére nyílik kilátás, amely terület a sűrű vízilópopulációjáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        37.640699,
+                        5.944493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abaya Viewpoint",
+                  "text": "Punctul de belvedere Abaya oferă o panoramă spectaculoasă la înălțime asupra apelor cu nuanțe roșiatice ale lacului Abaya.",
+                  "category": "natural",
+                  "coords": [
+                        37.653427,
+                        5.971697
+                  ]
+            },
+            {
+                  "name": "Chamo Viewpoint",
+                  "text": "Punctul de belvedere Chamo are vedere la apele clare și abundente ale Lacului Chamo, o zonă renumită pentru populația sa densă de hipopotami.",
+                  "category": "natural",
+                  "coords": [
+                        37.640699,
+                        5.944493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abaya Viewpoint",
+                  "text": "Abaya Viewpoint provides a spectacular elevated panorama over the red-tinted waters of Lake Abaya.",
+                  "category": "natural",
+                  "coords": [
+                        37.653427,
+                        5.971697
+                  ]
+            },
+            {
+                  "name": "Chamo Viewpoint",
+                  "text": "Chamo Viewpoint overlooks the clear, abundant waters of Lake Chamo, an area famous for its dense hippopotamus population.",
+                  "category": "natural",
+                  "coords": [
+                        37.640699,
+                        5.944493
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ET-SN",
     coords: [37.6, 6.0],
@@ -581,7 +833,52 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ziway-roses-agriculture-life-v2",
+    id: "ziway-roses-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bird island",
+                  "text": "Bird Island ist eine faszinierende Attraktion nahe Ziway, die für ihre reiche und vielfältige Vogelwelt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.75133,
+                        7.931816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bird island",
+                  "text": "A Bird Island egy lenyűgöző szigeti látványosság Ziway közelében, amely gazdag és változatos madárvilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.75133,
+                        7.931816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bird island",
+                  "text": "Insula Păsărilor este o atracție insulară captivantă lângă Ziway, renumită pentru abundența sa de păsări.",
+                  "category": "landmark",
+                  "coords": [
+                        38.75133,
+                        7.931816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bird island",
+                  "text": "Bird Island is an engaging island attraction near Ziway, recognized for its abundant and diverse birdlife.",
+                  "category": "landmark",
+                  "coords": [
+                        38.75133,
+                        7.931816
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ET-OR",
     coords: [38.7, 7.9],
@@ -653,7 +950,88 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "unity-park-addis-kid-landmark-life-v2",
+    id: "unity-park-addis-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Africa Unbound Museum",
+                  "text": "Ein Museum nahe dem Unity Park, das sich der panafrikanischen Geschichte und Philosophie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        38.756965,
+                        9.027038
+                  ]
+            },
+            {
+                  "name": "ሸገር ፓርክ",
+                  "text": "Dieser moderne Stadtpark bietet angelegte Grünflächen, Wasserfontänen und Erholungsbereiche.",
+                  "category": "park",
+                  "coords": [
+                        38.759105,
+                        9.023839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Africa Unbound Museum",
+                  "text": "A Unity Park közelében található múzeum a pánafrikai történelemnek és filozófiának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        38.756965,
+                        9.027038
+                  ]
+            },
+            {
+                  "name": "ሸገር ፓርክ",
+                  "text": "Ez a modern városi park parkosított zöldterületeket, szökőkutakat és pihenőövezeteket kínál.",
+                  "category": "park",
+                  "coords": [
+                        38.759105,
+                        9.023839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Africa Unbound Museum",
+                  "text": "Un muzeu de lângă Parcul Unity dedicat istoriei și filosofiei panafricane.",
+                  "category": "museum",
+                  "coords": [
+                        38.756965,
+                        9.027038
+                  ]
+            },
+            {
+                  "name": "ሸገር ፓርክ",
+                  "text": "Acest parc urban modern oferă spații verzi amenajate, fântâni arteziene și zone de recreere.",
+                  "category": "park",
+                  "coords": [
+                        38.759105,
+                        9.023839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Africa Unbound Museum",
+                  "text": "A museum near Unity Park dedicated to Pan-African history and philosophy.",
+                  "category": "museum",
+                  "coords": [
+                        38.756965,
+                        9.027038
+                  ]
+            },
+            {
+                  "name": "Friendship Square",
+                  "text": "This modern urban park features landscaped green spaces, water fountains, and recreational areas.",
+                  "category": "park",
+                  "coords": [
+                        38.759105,
+                        9.023839
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ET-AA",
     coords: [38.76, 9.03],
@@ -724,7 +1102,340 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "gullele-botanical-kid-landmark-life-v2",
+    id: "gullele-botanical-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bahiru finance father hope",
+                  "text": "Eine markant gebaute lokale Finanzinstitution, die für ihre schlossartigen architektonischen Merkmale bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        38.665293,
+                        9.05386
+                  ]
+            },
+            {
+                  "name": "የሂሩት ቤት",
+                  "text": "Ein herrschaftliches lokales Anwesen, das für seine imposanten, befestigten Mauern bekannt ist, die an eine kleine Burg erinnern.",
+                  "category": "castle",
+                  "coords": [
+                        38.694696,
+                        9.060776
+                  ]
+            },
+            {
+                  "name": "Seid Afre House",
+                  "text": "Ein markantes Wohnwahrzeichen, das den Straßen des Gullele-Viertels einen einzigartigen Charakter verleiht.",
+                  "category": "landmark",
+                  "coords": [
+                        38.698444,
+                        9.030674
+                  ]
+            },
+            {
+                  "name": "ዴቭ (lekeso)",
+                  "text": "Ein lokal bekannter Aussichtspunkt, der einen ruhigen Ort zum Nachdenken mit Blick auf das Gullele-Gebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.704642,
+                        9.031911
+                  ]
+            },
+            {
+                  "name": "ቅድስት ማርያም ቤተ ክርስቲያን",
+                  "text": "Eine markante äthiopisch-orthodoxe Kirche, die von ihrem spirituellen Gelände im Alem Bank-Gebiet aus erhabene Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.664473,
+                        9.009413
+                  ]
+            },
+            {
+                  "name": "የታፈሰ ተገኝ መኖሪያ ቤት",
+                  "text": "Ein historisch bedeutsames Haus mit einer imposanten Architektur, die einer befestigten Burg ähnelt.",
+                  "category": "castle",
+                  "coords": [
+                        38.720525,
+                        9.043837
+                  ]
+            },
+            {
+                  "name": "አጠና ተራ ቶርሽን",
+                  "text": "Ein lebendiges lokales Handelswahrzeichen, das historisch für seine geschäftigen Holz- und Marktaktivitäten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.715699,
+                        9.040029
+                  ]
+            },
+            {
+                  "name": "Melesi foundation",
+                  "text": "Ein institutioneller Museumsraum, der der Bewahrung des Erbes und der Gemeinschaftsinitiativen der Stiftung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        38.723291,
+                        9.083848
+                  ]
+            },
+            {
+                  "name": "shegole ring road exit",
+                  "text": "Ein erhöhter Straßeninfrastrukturpunkt, der weite Ausblicke auf das geschäftige Verkehrsnetz der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.721315,
+                        9.069171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahiru finance father hope",
+                  "text": "Különleges építésű helyi pénzintézet, amely kastélyszerű építészeti jegyeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        38.665293,
+                        9.05386
+                  ]
+            },
+            {
+                  "name": "የሂሩት ቤት",
+                  "text": "Nagyszerű helyi rezidencia, amely egy kis kastélyra emlékeztető impozáns, erődített falairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        38.694696,
+                        9.060776
+                  ]
+            },
+            {
+                  "name": "Seid Afre House",
+                  "text": "Jellegzetes lakóépületi tájékozódási pont, amely egyedi karaktert kölcsönöz a Gullele negyed utcáinak.",
+                  "category": "landmark",
+                  "coords": [
+                        38.698444,
+                        9.030674
+                  ]
+            },
+            {
+                  "name": "ዴቭ (lekeso)",
+                  "text": "Helyileg ismert kilátópont, amely csendes helyet kínál az elmélkedésre, kilátással a Gullele területére.",
+                  "category": "natural",
+                  "coords": [
+                        38.704642,
+                        9.031911
+                  ]
+            },
+            {
+                  "name": "ቅድስት ማርያም ቤተ ክርስቲያን",
+                  "text": "Kiemelkedő etióp ortodox templom, amely az Alem Bank területén lévő spirituális területéről magaslati kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        38.664473,
+                        9.009413
+                  ]
+            },
+            {
+                  "name": "የታፈሰ ተገኝ መኖሪያ ቤት",
+                  "text": "Történelmi jelentőségű ház, amelynek impozáns építészete egy erődített kastélyra emlékeztet.",
+                  "category": "castle",
+                  "coords": [
+                        38.720525,
+                        9.043837
+                  ]
+            },
+            {
+                  "name": "አጠና ተራ ቶርሽን",
+                  "text": "Nyüzsgő helyi kereskedelmi tájékozódási pont, amely történelmileg forgalmas fa- és piaci tevékenységeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.715699,
+                        9.040029
+                  ]
+            },
+            {
+                  "name": "Melesi foundation",
+                  "text": "Intézményi múzeumi tér, amelyet az alapítvány örökségének és közösségi kezdeményezéseinek megőrzésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        38.723291,
+                        9.083848
+                  ]
+            },
+            {
+                  "name": "shegole ring road exit",
+                  "text": "Magaslati közúti infrastrukturális pont, amely széles kilátást nyújt a város forgalmas közlekedési hálózatára.",
+                  "category": "natural",
+                  "coords": [
+                        38.721315,
+                        9.069171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahiru finance father hope",
+                  "text": "O instituție financiară locală construită distinctiv, remarcată pentru trăsăturile sale arhitecturale asemănătoare unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        38.665293,
+                        9.05386
+                  ]
+            },
+            {
+                  "name": "የሂሩት ቤት",
+                  "text": "O reședință locală măreață, remarcată pentru zidurile sale impunătoare și fortificate ce amintesc de un mic castel.",
+                  "category": "castle",
+                  "coords": [
+                        38.694696,
+                        9.060776
+                  ]
+            },
+            {
+                  "name": "Seid Afre House",
+                  "text": "Un punct de reper rezidențial distinctiv care adaugă un caracter unic străzilor din cartierul Gullele.",
+                  "category": "landmark",
+                  "coords": [
+                        38.698444,
+                        9.030674
+                  ]
+            },
+            {
+                  "name": "ዴቭ (lekeso)",
+                  "text": "Un punct de belvedere cunoscut local, oferind un loc liniștit pentru reflecție și cu vedere spre zona Gullele.",
+                  "category": "natural",
+                  "coords": [
+                        38.704642,
+                        9.031911
+                  ]
+            },
+            {
+                  "name": "ቅድስት ማርያም ቤተ ክርስቲያን",
+                  "text": "O biserică ortodoxă etiopiană proeminentă care oferă vederi de la înălțime de pe terenurile sale spirituale din zona Alem Bank.",
+                  "category": "natural",
+                  "coords": [
+                        38.664473,
+                        9.009413
+                  ]
+            },
+            {
+                  "name": "የታፈሰ ተገኝ መኖሪያ ቤት",
+                  "text": "O casă cu semnificație istorică care prezintă o arhitectură impunătoare ce seamănă cu un castel fortificat.",
+                  "category": "castle",
+                  "coords": [
+                        38.720525,
+                        9.043837
+                  ]
+            },
+            {
+                  "name": "አጠና ተራ ቶርሽን",
+                  "text": "Un reper comercial local vibrant, cunoscut istoric pentru activitățile sale pline de viață de la piața de cherestea.",
+                  "category": "landmark",
+                  "coords": [
+                        38.715699,
+                        9.040029
+                  ]
+            },
+            {
+                  "name": "Melesi foundation",
+                  "text": "Un spațiu muzeal instituțional dedicat conservării moștenirii și inițiativelor comunitare ale fundației.",
+                  "category": "museum",
+                  "coords": [
+                        38.723291,
+                        9.083848
+                  ]
+            },
+            {
+                  "name": "shegole ring road exit",
+                  "text": "Un punct de infrastructură rutieră la înălțime, oferind vederi largi ale rețelei de trafic aglomerate a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        38.721315,
+                        9.069171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahiru finance father hope",
+                  "text": "A distinctively built local financial institution noted for its castle-like architectural features.",
+                  "category": "castle",
+                  "coords": [
+                        38.665293,
+                        9.05386
+                  ]
+            },
+            {
+                  "name": "hirut home",
+                  "text": "A grand local residence noted for its imposing, fortified walls reminiscent of a small castle.",
+                  "category": "castle",
+                  "coords": [
+                        38.694696,
+                        9.060776
+                  ]
+            },
+            {
+                  "name": "Seid Afre House",
+                  "text": "A distinctive residential landmark adding unique character to the streets of the Gullele district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.698444,
+                        9.030674
+                  ]
+            },
+            {
+                  "name": "ዴቭ (lekeso)",
+                  "text": "A locally known viewpoint offering a quiet spot for reflection and overlooking the Gullele area.",
+                  "category": "natural",
+                  "coords": [
+                        38.704642,
+                        9.031911
+                  ]
+            },
+            {
+                  "name": "አለም ባንክ ቅድስት ማርያም ቤተክርስቲያን",
+                  "text": "A prominent Ethiopian Orthodox church offering elevated views from its spiritual grounds in the Alem Bank area.",
+                  "category": "natural",
+                  "coords": [
+                        38.664473,
+                        9.009413
+                  ]
+            },
+            {
+                  "name": "Residence of Tafesse Tegegne",
+                  "text": "A historically significant home featuring imposing architecture that resembles a fortified castle.",
+                  "category": "castle",
+                  "coords": [
+                        38.720525,
+                        9.043837
+                  ]
+            },
+            {
+                  "name": "አጠና ተራ ቶርሽን",
+                  "text": "A vibrant local commercial landmark historically known for its bustling timber and market activities.",
+                  "category": "landmark",
+                  "coords": [
+                        38.715699,
+                        9.040029
+                  ]
+            },
+            {
+                  "name": "Melesi foundation",
+                  "text": "An institutional museum space dedicated to preserving the legacy and community initiatives of the foundation.",
+                  "category": "museum",
+                  "coords": [
+                        38.723291,
+                        9.083848
+                  ]
+            },
+            {
+                  "name": "shegole ring road exit",
+                  "text": "An elevated roadway infrastructure point providing sweeping views of the city's bustling traffic network.",
+                  "category": "natural",
+                  "coords": [
+                        38.721315,
+                        9.069171
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ET-AA",
     coords: [38.71, 9.06],
@@ -760,7 +1471,88 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "lion-zoo-addis-kid-landmark-life-v2",
+    id: "lion-zoo-addis-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Degol Square",
+                  "text": "Der Platz ist durch ein Denkmal geprägt, das den urbanen Mittelpunkt des Viertels markiert.",
+                  "category": "historical",
+                  "coords": [
+                        38.754051,
+                        9.032628
+                  ]
+            },
+            {
+                  "name": "Hager Fiker Theatre",
+                  "text": "Dieses älteste indigene Theater Äthiopiens ist ein Eckpfeiler der kulturellen Tradition des Landes.",
+                  "category": "cultural",
+                  "coords": [
+                        38.754399,
+                        9.037859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Degol Square",
+                  "text": "A teret egy emlékmű uralja, amely a negyed városi középpontját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        38.754051,
+                        9.032628
+                  ]
+            },
+            {
+                  "name": "Hager Fiker Theatre",
+                  "text": "Etiópia legrégebbi bennszülött színháza az ország kulturális hagyományainak alapköve.",
+                  "category": "cultural",
+                  "coords": [
+                        38.754399,
+                        9.037859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Degol Square",
+                  "text": "Piața este dominată de un monument care marchează centrul urban al cartierului.",
+                  "category": "historical",
+                  "coords": [
+                        38.754051,
+                        9.032628
+                  ]
+            },
+            {
+                  "name": "Hager Fiker Theatre",
+                  "text": "Acest cel mai vechi teatru indigen din Etiopia este o piatră de temelie a tradiției culturale a țării.",
+                  "category": "cultural",
+                  "coords": [
+                        38.754399,
+                        9.037859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Degol Square",
+                  "text": "The square is dominated by a monument that marks the urban center of the district.",
+                  "category": "historical",
+                  "coords": [
+                        38.754051,
+                        9.032628
+                  ]
+            },
+            {
+                  "name": "Hager Fiker Theatre",
+                  "text": "This oldest indigenous theater in Ethiopia is a cornerstone of the country's cultural tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        38.754399,
+                        9.037859
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ET-AA",
     coords: [38.755, 9.035],
@@ -796,7 +1588,124 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "kuriftu-waterpark-kid-landmark-life-v2",
+    id: "kuriftu-waterpark-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ደ/ዘ ቁ.5 ሙሉ ወንጌል አማኞች ቤ/ክ",
+                  "text": "Ein erhöhter Aussichtspunkt auf dem Gelände der protestantischen Kirche, der weite Blicke auf die Stadtlandschaft von Bishoftu bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.950078,
+                        8.757081
+                  ]
+            },
+            {
+                  "name": "Lake Cheleleka",
+                  "text": "Ein flacher Kratersee und ein wichtiges saisonales Feuchtgebiet in Bishoftu, das große Schwärme von Zugvögeln wie Flamingos anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        38.970965,
+                        8.766531
+                  ]
+            },
+            {
+                  "name": "ባቦጋያ የወጣቶች መዝናኛ ቁ.1",
+                  "text": "Ein Freizeitzentrum direkt am steilen Ufer des Babogaya-Kratersees, das für Wasseraktivitäten der lokalen Jugend genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        38.997912,
+                        8.78443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ደ/ዘ ቁ.5 ሙሉ ወንጌል አማኞች ቤ/ክ",
+                  "text": "Egy magaslati kilátópont a protestáns templom területén, amely széles kilátást kínál Bishoftu városképére.",
+                  "category": "natural",
+                  "coords": [
+                        38.950078,
+                        8.757081
+                  ]
+            },
+            {
+                  "name": "Lake Cheleleka",
+                  "text": "Sekély krátertó és létfontosságú szezonális vizes élőhely Bishoftuban, amely nagy vonuló madárcsapatokat, köztük flamingókat vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        38.970965,
+                        8.766531
+                  ]
+            },
+            {
+                  "name": "ባቦጋያ የወጣቶች መዝናኛ ቁ.1",
+                  "text": "Egy tóparti rekreációs központ közvetlenül a Babogaya krátertó meredek partján, amelyet a helyi fiatalok vízi tevékenységeihez használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        38.997912,
+                        8.78443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ደ/ዘ ቁ.5 ሙሉ ወንጌል አማኞች ቤ/ክ",
+                  "text": "Un punct de observație ridicat pe terenul bisericii protestante, oferind vederi largi asupra peisajului urban din Bishoftu.",
+                  "category": "natural",
+                  "coords": [
+                        38.950078,
+                        8.757081
+                  ]
+            },
+            {
+                  "name": "Lake Cheleleka",
+                  "text": "Un lac de crater de mică adâncime și o zonă umedă sezonieră vitală în Bishoftu, care atrage stoluri mari de păsări migratoare, inclusiv flamingo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.970965,
+                        8.766531
+                  ]
+            },
+            {
+                  "name": "ባቦጋያ የወጣቶች መዝናኛ ቁ.1",
+                  "text": "Un centru de recreere pe malul lacului, chiar pe țărmurile abrupte ale lacului de crater Babogaya, folosit pentru activitățile acvatice ale tinerilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        38.997912,
+                        8.78443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Debrezeyt Full Gospel Church (No. 5)",
+                  "text": "An elevated vantage point on the Protestant church grounds offering wide views over the urban landscape of Bishoftu.",
+                  "category": "natural",
+                  "coords": [
+                        38.950078,
+                        8.757081
+                  ]
+            },
+            {
+                  "name": "Lake Cheleleka",
+                  "text": "A shallow crater lake and vital seasonal wetland in Bishoftu that attracts large flocks of migratory birds, including flamingos.",
+                  "category": "landmark",
+                  "coords": [
+                        38.970965,
+                        8.766531
+                  ]
+            },
+            {
+                  "name": "Babogaya Youth recreation No. 1",
+                  "text": "A lakeside recreation center right on the steep shores of the Babogaya crater lake, used for local youth water activities.",
+                  "category": "landmark",
+                  "coords": [
+                        38.997912,
+                        8.78443
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ET-OR",
     coords: [38.98, 8.75],
@@ -868,7 +1777,160 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "arba-minch-crocodiles-habitat-life-v2",
+    id: "arba-minch-crocodiles-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arba Minch Crocodile Ranch",
+                  "text": "Die Arba Minch Crocodile Ranch ist eine bedeutende Einrichtung, die sich der Zucht und Beobachtung der großen Nilkrokodile widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        37.598764,
+                        6.025701
+                  ]
+            },
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "Der Pool der Paradise Lodge bietet eine erfrischende Bademöglichkeit mit einer malerischen Kulisse der lokalen Grabenbruchseen.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "Dieses lokale Restaurant in der Nähe des Krokodilhabitats serviert traditionelle Mahlzeiten, darunter regionale Fischgerichte.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            },
+            {
+                  "name": "Crocodile Ranch",
+                  "text": "Auf der Krokodilfarm können Besucher verschiedene Entwicklungsstadien von Nilkrokodilen in einem sicheren Gehege aus der Nähe betrachten.",
+                  "category": "landmark",
+                  "coords": [
+                        37.592302,
+                        6.030282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arba Minch Crocodile Ranch",
+                  "text": "Az Arba Minch Krokodilfarm a nagy nílusi krokodilok tenyésztésének és megfigyelésének szentelt kiemelkedő létesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        37.598764,
+                        6.025701
+                  ]
+            },
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "A Paradise Lodge Pool frissítő úszási lehetőséget kínál a helyi hasadékvölgyi tavak festői hátterével.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "Ez a krokodilélőhely közelében lévő helyi étterem hagyományos ételeket szolgál fel, köztük regionális halételeket.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            },
+            {
+                  "name": "Crocodile Ranch",
+                  "text": "A krokodilfarmon a látogatók egy biztonságos kifutón belül, közelről tekinthetik meg a nílusi krokodilok különböző fejlődési szakaszait.",
+                  "category": "landmark",
+                  "coords": [
+                        37.592302,
+                        6.030282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arba Minch Crocodile Ranch",
+                  "text": "Ferma de crocodili Arba Minch este o unitate proeminentă dedicată creșterii și observării marilor crocodili de Nil.",
+                  "category": "landmark",
+                  "coords": [
+                        37.598764,
+                        6.025701
+                  ]
+            },
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "Piscina Paradise Lodge oferă o facilitate de înot răcoritoare cu un fundal pitoresc al lacurilor locale din valea de rift.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "Acest restaurant local situat în apropierea habitatului crocodililor servește mese tradiționale cu preparate din pește regional.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            },
+            {
+                  "name": "Crocodile Ranch",
+                  "text": "Ferma de crocodili le permite vizitatorilor să privească îndeaproape diverse stadii de dezvoltare ale crocodililor de Nil într-un spațiu securizat.",
+                  "category": "landmark",
+                  "coords": [
+                        37.592302,
+                        6.030282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arba Minch Crocodile Ranch",
+                  "text": "The Arba Minch Crocodile Ranch is a prominent facility dedicated to the breeding and observation of the large Nile crocodiles.",
+                  "category": "landmark",
+                  "coords": [
+                        37.598764,
+                        6.025701
+                  ]
+            },
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "The Paradise Lodge Pool offers a refreshing swimming facility with a scenic backdrop of the local rift valley lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "This local restaurant near the crocodile habitat serves traditional meals featuring regional fish dishes.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            },
+            {
+                  "name": "Crocodile Ranch",
+                  "text": "The Crocodile Ranch allows visitors to closely view various developmental stages of Nile crocodiles within a secure enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        37.592302,
+                        6.030282
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ET-SN",
     coords: [37.59, 6.01],
@@ -976,7 +2038,52 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "wondo-genet-forest-agriculture-life-v2",
+    id: "wondo-genet-forest-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arboretum",
+                  "text": "Ein lebendiges Museum im Wald von Wondo Genet, das eine vielfältige Sammlung äthiopischer Hochlandbaumarten und tropischer Pflanzen bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        38.653115,
+                        7.076086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arboretum",
+                  "text": "Élő múzeum a Wondo Genet erdőben, amely az etióp felvidéki fafajok és trópusi növények változatos gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        38.653115,
+                        7.076086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arboretum",
+                  "text": "Un muzeu viu în pădurea Wondo Genet care păstrează o colecție diversă de specii de arbori din ținuturile muntoase etiopiene și plante tropicale.",
+                  "category": "museum",
+                  "coords": [
+                        38.653115,
+                        7.076086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arboretum",
+                  "text": "A living museum in the Wondo Genet forest preserving a diverse collection of Ethiopian highland tree species and tropical plants.",
+                  "category": "museum",
+                  "coords": [
+                        38.653115,
+                        7.076086
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ET-SI",
     coords: [38.6, 7.1],
@@ -1048,7 +2155,700 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     },
   },
   {
-    id: "yeka-nature-park-kid-landmark-life-v2",
+    id: "yeka-nature-park-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maseltegna",
+                  "text": "Maseltegna ayat ist eine urbane Einrichtung in der Nähe des Naturparks, die das lokale Leben bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878127,
+                        9.010811
+                  ]
+            },
+            {
+                  "name": "Eyob",
+                  "text": "My Home - Ayat ist ein charmantes Privathaus, das als inoffizieller Anziehungspunkt in diesem Wohnviertel gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878535,
+                        9.049195
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "Das Castle in dieser Gegend ist ein massiver steinerner Bau im Festungsstil, der eine imposante Präsenz besitzt.",
+                  "category": "castle",
+                  "coords": [
+                        38.859971,
+                        9.014562
+                  ]
+            },
+            {
+                  "name": "OLD TRA",
+                  "text": "OLD TRA ist ein lokaler Anlaufpunkt, der an die historische Nutzung dieses Stadtteils erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.859399,
+                        9.019461
+                  ]
+            },
+            {
+                  "name": "ሮፓክ የመኖሪያ መንደር",
+                  "text": "Das Ropack Village bietet einen erhöhten Beobachtungspunkt über die Häuser des Dorfes.",
+                  "category": "natural",
+                  "coords": [
+                        38.887835,
+                        9.071072
+                  ]
+            },
+            {
+                  "name": "Entoto",
+                  "text": "Entoto ist ein bewaldeter Berggipfel, der für seine Eukalyptusbäume bekannt ist und Addis Abeba überragt.",
+                  "category": "natural",
+                  "coords": [
+                        38.819356,
+                        9.108086
+                  ]
+            },
+            {
+                  "name": "Grace City Mall Breakthrough Trading Center",
+                  "text": "Das Gelände der breakthrough trading sc dient auch als Aussichtspunkt auf die lokalen Geschäftsaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        38.796935,
+                        9.020941
+                  ]
+            },
+            {
+                  "name": "Unknown place",
+                  "text": "Der Unknown place ist eine geheimnisvolle, schlossartige Struktur in der Nähe des Naturparks.",
+                  "category": "castle",
+                  "coords": [
+                        38.8166,
+                        9.020284
+                  ]
+            },
+            {
+                  "name": "ሀልወተ እግዚኣብሔር ኣለማቀፍ ቤተክርስትያን",
+                  "text": "Die Presence of God International Church befindet sich in einem markanten, burgähnlichen Gebäude.",
+                  "category": "castle",
+                  "coords": [
+                        38.817428,
+                        9.022411
+                  ]
+            },
+            {
+                  "name": "Queen's kitchens seller",
+                  "text": "Die Queen's kitchens seller ist eine kulinarische Attraktion, die traditionelle Straßengerichte im Viertel anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815212,
+                        9.021901
+                  ]
+            },
+            {
+                  "name": "ኮተቤ መድሐንያለም ቤተክርስቲያን",
+                  "text": "Eine lokale christliche Andachtsstätte unweit der grünen Umgebung des Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815493,
+                        9.033149
+                  ]
+            },
+            {
+                  "name": "የኤርምያስ መኖሪያ ቤት",
+                  "text": "Ein malerischer Aussichtspunkt im Wohngebiet, der einen Panoramablick über die Dächer der Nachbarschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        38.817193,
+                        9.046023
+                  ]
+            },
+            {
+                  "name": "ዋሻ ሚካኤል",
+                  "text": "Eine alte, unvollendete Felsenkirche in den Hügeln des Yeka-Viertels.",
+                  "category": "historical",
+                  "coords": [
+                        38.806727,
+                        9.042669
+                  ]
+            },
+            {
+                  "name": "የእቴቴ ቦታ",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick auf die umliegende äthiopische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        38.84243,
+                        9.050656
+                  ]
+            },
+            {
+                  "name": "የክርስቶስ ተልእኮ",
+                  "text": "Ein markantes Gebäude mit robusten Mauern, das als lokale Missionskirche dient.",
+                  "category": "castle",
+                  "coords": [
+                        38.818795,
+                        9.022246
+                  ]
+            },
+            {
+                  "name": "CMC,Altad",
+                  "text": "Eine lokale Attraktion inmitten der lebendigen natürlichen Umgebung des Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        38.843169,
+                        9.018052
+                  ]
+            },
+            {
+                  "name": "መሀመድ መላኩ",
+                  "text": "Ein lokaler Treffpunkt namens Mohammed Melaku im belebten Yeka-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        38.854975,
+                        9.012694
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Ein lebhafter lokaler Treffpunkt, der einen Eindruck von der täglichen Atmosphäre des Viertels vermittelt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.852048,
+                        9.009976
+                  ]
+            },
+            {
+                  "name": "Summit adebabaye",
+                  "text": "Ein belebter Kreisverkehr, der als wichtiger Verkehrsknotenpunkt und Wahrzeichen in der Gegend von Summit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        38.851854,
+                        9.00152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maseltegna",
+                  "text": "A Maseltegna ayat egy városi létesítmény a natúrpark közelében, amely gazdagítja a helyi életet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878127,
+                        9.010811
+                  ]
+            },
+            {
+                  "name": "Eyob",
+                  "text": "A My Home - Ayat egy bájos magánház, amely nem hivatalos vonzerőként szolgál ebben a lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878535,
+                        9.049195
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "A környéken található Castle egy masszív, kőből épült, erődítménystílusú épület, amely impozáns jelenléttel bír.",
+                  "category": "castle",
+                  "coords": [
+                        38.859971,
+                        9.014562
+                  ]
+            },
+            {
+                  "name": "OLD TRA",
+                  "text": "Az OLD TRA egy helyi fókuszpont, amely e kerület történelmi használatára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        38.859399,
+                        9.019461
+                  ]
+            },
+            {
+                  "name": "ሮፓክ የመኖሪያ መንደር",
+                  "text": "A Ropack Village egy magaslati megfigyelőpontot kínál a falu házai felett.",
+                  "category": "natural",
+                  "coords": [
+                        38.887835,
+                        9.071072
+                  ]
+            },
+            {
+                  "name": "Entoto",
+                  "text": "Az Entoto egy erdős hegycsúcs, amely az eukaliptuszfáiról ismert és Addisz-Abeba fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        38.819356,
+                        9.108086
+                  ]
+            },
+            {
+                  "name": "Grace City Mall Breakthrough Trading Center",
+                  "text": "A breakthrough trading sc területe kilátóként is szolgál a helyi üzleti tevékenységekre.",
+                  "category": "natural",
+                  "coords": [
+                        38.796935,
+                        9.020941
+                  ]
+            },
+            {
+                  "name": "Unknown place",
+                  "text": "Az Unknown place egy titokzatos, kastélyszerű építmény a natúrpark közelében.",
+                  "category": "castle",
+                  "coords": [
+                        38.8166,
+                        9.020284
+                  ]
+            },
+            {
+                  "name": "ሀልወተ እግዚኣብሔር ኣለማቀፍ ቤተክርስትያን",
+                  "text": "A Presence of God International Church egy feltűnő, kastélyszerű épületben kapott helyet.",
+                  "category": "castle",
+                  "coords": [
+                        38.817428,
+                        9.022411
+                  ]
+            },
+            {
+                  "name": "Queen's kitchens seller",
+                  "text": "A Queen's kitchens seller egy kulináris látványosság, amely hagyományos utcai ételeket kínál a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815212,
+                        9.021901
+                  ]
+            },
+            {
+                  "name": "ኮተቤ መድሐንያለም ቤተክርስቲያን",
+                  "text": "Egy helyi keresztény istentiszteleti hely a natúrpark zöldellő környezetének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815493,
+                        9.033149
+                  ]
+            },
+            {
+                  "name": "የኤርምያስ መኖሪያ ቤት",
+                  "text": "Festői kilátópont a lakónegyedben, amely panorámás kilátást nyújt a helyi házak háztetőire.",
+                  "category": "natural",
+                  "coords": [
+                        38.817193,
+                        9.046023
+                  ]
+            },
+            {
+                  "name": "ዋሻ ሚካኤል",
+                  "text": "Egy ősi, befejezetlen sziklába vájt templom romja a Yeka negyed dombjai között.",
+                  "category": "historical",
+                  "coords": [
+                        38.806727,
+                        9.042669
+                  ]
+            },
+            {
+                  "name": "የእቴቴ ቦታ",
+                  "text": "Magaslati festői hely, ahonnan kilátás nyílik a környező etióp tájra.",
+                  "category": "natural",
+                  "coords": [
+                        38.84243,
+                        9.050656
+                  ]
+            },
+            {
+                  "name": "የክርስቶስ ተልእኮ",
+                  "text": "Erős falakkal rendelkező, feltűnő épület, amely helyi missziós templomként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        38.818795,
+                        9.022246
+                  ]
+            },
+            {
+                  "name": "CMC,Altad",
+                  "text": "Helyi látványosság a park élénk természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.843169,
+                        9.018052
+                  ]
+            },
+            {
+                  "name": "መሀመድ መላኩ",
+                  "text": "Egy Mohammed Melaku nevű helyi gyülekezőhely a nyüzsgő Yeka negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.854975,
+                        9.012694
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Nyüzsgő helyi találkozóhely, amely ízelítőt nyújt a környék mindennapi hangulatából.",
+                  "category": "landmark",
+                  "coords": [
+                        38.852048,
+                        9.009976
+                  ]
+            },
+            {
+                  "name": "Summit adebabaye",
+                  "text": "Forgalmas körforgalom, amely jelentős közlekedési csomópontként és tájékozódási pontként szolgál a Summit területén.",
+                  "category": "landmark",
+                  "coords": [
+                        38.851854,
+                        9.00152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maseltegna",
+                  "text": "Maseltegna ayat este o facilitate urbană în apropierea parcului natural, care îmbogățește viața locală.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878127,
+                        9.010811
+                  ]
+            },
+            {
+                  "name": "Eyob",
+                  "text": "My Home - Ayat este o casă privată fermecătoare care servește ca punct de atracție neoficial în acest cartier rezidențial.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878535,
+                        9.049195
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "Castle din această zonă este o structură masivă de piatră în stil de fortăreață, cu o prezență impunătoare.",
+                  "category": "castle",
+                  "coords": [
+                        38.859971,
+                        9.014562
+                  ]
+            },
+            {
+                  "name": "OLD TRA",
+                  "text": "OLD TRA este un punct local de atracție care amintește de utilizarea istorică a acestui cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        38.859399,
+                        9.019461
+                  ]
+            },
+            {
+                  "name": "ሮፓክ የመኖሪያ መንደር",
+                  "text": "Ropack Village oferă un punct de observație ridicat deasupra caselor din sat.",
+                  "category": "natural",
+                  "coords": [
+                        38.887835,
+                        9.071072
+                  ]
+            },
+            {
+                  "name": "Entoto",
+                  "text": "Entoto este un vârf de munte împădurit, cunoscut pentru arborii săi de eucalipt și care domină Addis Abeba.",
+                  "category": "natural",
+                  "coords": [
+                        38.819356,
+                        9.108086
+                  ]
+            },
+            {
+                  "name": "Grace City Mall Breakthrough Trading Center",
+                  "text": "Terenul breakthrough trading sc servește și ca punct de observație asupra activităților comerciale locale.",
+                  "category": "natural",
+                  "coords": [
+                        38.796935,
+                        9.020941
+                  ]
+            },
+            {
+                  "name": "Unknown place",
+                  "text": "Unknown place este o structură misterioasă asemănătoare unui castel, situată lângă parcul natural.",
+                  "category": "castle",
+                  "coords": [
+                        38.8166,
+                        9.020284
+                  ]
+            },
+            {
+                  "name": "ሀልወተ እግዚኣብሔር ኣለማቀፍ ቤተክርስትያን",
+                  "text": "Presence of God International Church este găzduită într-o clădire distinctivă asemănătoare unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        38.817428,
+                        9.022411
+                  ]
+            },
+            {
+                  "name": "Queen's kitchens seller",
+                  "text": "Queen's kitchens seller este o atracție culinară care oferă mâncare stradală tradițională în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815212,
+                        9.021901
+                  ]
+            },
+            {
+                  "name": "ኮተቤ መድሐንያለም ቤተክርስቲያን",
+                  "text": "Un lăcaș de cult creștin local situat aproape de împrejurimile luxuriante ale parcului natural.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815493,
+                        9.033149
+                  ]
+            },
+            {
+                  "name": "የኤርምያስ መኖሪያ ቤት",
+                  "text": "Un punct de belvedere pitoresc rezidențial care oferă vedere panoramică peste acoperișurile cartierului.",
+                  "category": "natural",
+                  "coords": [
+                        38.817193,
+                        9.046023
+                  ]
+            },
+            {
+                  "name": "ዋሻ ሚካኤል",
+                  "text": "O ruină a unei vechi biserici neterminate cioplite în stâncă, cuibărită în dealurile cartierului Yeka.",
+                  "category": "historical",
+                  "coords": [
+                        38.806727,
+                        9.042669
+                  ]
+            },
+            {
+                  "name": "የእቴቴ ቦታ",
+                  "text": "Un punct de observație la înălțime, cu vedere la peisajul etiopian din jur.",
+                  "category": "natural",
+                  "coords": [
+                        38.84243,
+                        9.050656
+                  ]
+            },
+            {
+                  "name": "የክርስቶስ ተልእኮ",
+                  "text": "O structură impresionantă marcată de ziduri robuste, care servește drept biserică de misiune locală.",
+                  "category": "castle",
+                  "coords": [
+                        38.818795,
+                        9.022246
+                  ]
+            },
+            {
+                  "name": "CMC,Altad",
+                  "text": "O atracție locală amplasată în mediul natural vibrant al parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        38.843169,
+                        9.018052
+                  ]
+            },
+            {
+                  "name": "መሀመድ መላኩ",
+                  "text": "Un loc de adunare local numit Mohammed Melaku, situat în animatul cartier Yeka.",
+                  "category": "landmark",
+                  "coords": [
+                        38.854975,
+                        9.012694
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Un punct de adunare local plin de viață care oferă o mostră din atmosfera zilnică a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        38.852048,
+                        9.009976
+                  ]
+            },
+            {
+                  "name": "Summit adebabaye",
+                  "text": "Un sens giratoriu aglomerat care servește ca un important nod de trafic și punct de reper în zona Summit.",
+                  "category": "landmark",
+                  "coords": [
+                        38.851854,
+                        9.00152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maseltegna ayat",
+                  "text": "Maseltegna ayat is an urban facility near the nature park that enriches local life.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878127,
+                        9.010811
+                  ]
+            },
+            {
+                  "name": "My Home - Ayat",
+                  "text": "My Home - Ayat is a charming private dwelling acting as an unofficial attraction in this residential district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.878535,
+                        9.049195
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "The Castle in this area is a massive stone fortress-style structure with an imposing presence.",
+                  "category": "castle",
+                  "coords": [
+                        38.859971,
+                        9.014562
+                  ]
+            },
+            {
+                  "name": "OLD TRA",
+                  "text": "OLD TRA is a local focal point that recalls the historical usage of this district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.859399,
+                        9.019461
+                  ]
+            },
+            {
+                  "name": "Ropack Village",
+                  "text": "Ropack Village provides an elevated observation point over the houses of the village.",
+                  "category": "natural",
+                  "coords": [
+                        38.887835,
+                        9.071072
+                  ]
+            },
+            {
+                  "name": "Entoto",
+                  "text": "Entoto is a forested mountain peak noted for its eucalyptus trees that overlooks Addis Ababa.",
+                  "category": "natural",
+                  "coords": [
+                        38.819356,
+                        9.108086
+                  ]
+            },
+            {
+                  "name": "breakthrough trading sc",
+                  "text": "The grounds of breakthrough trading sc also serve as a vantage point over the local commercial activities.",
+                  "category": "natural",
+                  "coords": [
+                        38.796935,
+                        9.020941
+                  ]
+            },
+            {
+                  "name": "Unknown place",
+                  "text": "Unknown place is a mysterious castle-like structure situated near the nature park.",
+                  "category": "castle",
+                  "coords": [
+                        38.8166,
+                        9.020284
+                  ]
+            },
+            {
+                  "name": "Presence of God International Church",
+                  "text": "The Presence of God International Church is housed in a distinctive, castle-like building.",
+                  "category": "castle",
+                  "coords": [
+                        38.817428,
+                        9.022411
+                  ]
+            },
+            {
+                  "name": "Queen's kitchens seller",
+                  "text": "Queen's kitchens seller is a culinary attraction offering traditional street food in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815212,
+                        9.021901
+                  ]
+            },
+            {
+                  "name": "kotebe medhanyalem curch",
+                  "text": "A local Christian worship site situated near the lush surroundings of the nature park.",
+                  "category": "landmark",
+                  "coords": [
+                        38.815493,
+                        9.033149
+                  ]
+            },
+            {
+                  "name": "Ermiyas resident",
+                  "text": "A scenic residential viewpoint offering panoramic views over the local neighborhood's rooftops.",
+                  "category": "natural",
+                  "coords": [
+                        38.817193,
+                        9.046023
+                  ]
+            },
+            {
+                  "name": "Washa michael",
+                  "text": "An ancient, unfinished rock-hewn church ruin nestled in the hills of the Yeka district.",
+                  "category": "historical",
+                  "coords": [
+                        38.806727,
+                        9.042669
+                  ]
+            },
+            {
+                  "name": "Ye etete bota",
+                  "text": "An elevated scenic spot overlooking the surrounding Ethiopian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        38.84243,
+                        9.050656
+                  ]
+            },
+            {
+                  "name": "CHRIST MISSION CHURCH   cm",
+                  "text": "A striking structure marked by robust walls that serves as a local mission church.",
+                  "category": "castle",
+                  "coords": [
+                        38.818795,
+                        9.022246
+                  ]
+            },
+            {
+                  "name": "bake",
+                  "text": "A local attraction nestled within the park's vibrant natural environment.",
+                  "category": "landmark",
+                  "coords": [
+                        38.843169,
+                        9.018052
+                  ]
+            },
+            {
+                  "name": "መሀመድ መላኩ",
+                  "text": "A local gathering site named Mohammed Melaku located in the bustling Yeka district.",
+                  "category": "landmark",
+                  "coords": [
+                        38.854975,
+                        9.012694
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "A lively local gathering point offering a taste of the neighborhood's daily atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        38.852048,
+                        9.009976
+                  ]
+            },
+            {
+                  "name": "Summit Adebabay",
+                  "text": "A bustling roundabout that serves as a major traffic hub and landmark in the Summit area.",
+                  "category": "landmark",
+                  "coords": [
+                        38.851854,
+                        9.00152
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ET-AA",
     coords: [38.82, 9.03],

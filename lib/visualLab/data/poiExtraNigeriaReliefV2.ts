@@ -867,7 +867,268 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     },
   },
   {
-    id: "kano-ebene-relief-v2",
+    id: "kano-ebene-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kofar Famfo",
+                  "text": "Ein altes Tor in der historischen, aus Lehm erbauten Stadtmauer von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.485161,
+                        11.978919
+                  ]
+            },
+            {
+                  "name": "Kofar Gadan Kaya",
+                  "text": "Dieses Denkmal ist ein Teil der alten Lehmmauern der Stadt Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.495777,
+                        11.980425
+                  ]
+            },
+            {
+                  "name": "Kofar Ruwa",
+                  "text": "Ein erhaltenes Tor in der antiken Stadtmauer von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.500785,
+                        12.026626
+                  ]
+            },
+            {
+                  "name": "Dala Hill",
+                  "text": "Dieser Hügel ist die Stätte der ersten menschlichen Siedlung in Kano.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506974,
+                        12.009305
+                  ]
+            },
+            {
+                  "name": "Kofar Kabuga",
+                  "text": "Ein historisches Tor, das in die alten Lehmmauern von Kano integriert ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.481443,
+                        11.987396
+                  ]
+            },
+            {
+                  "name": "Kofar Dawanau",
+                  "text": "Ein Abschnitt der antiken Festungsanlage und Stadtmauer von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.492023,
+                        12.018033
+                  ]
+            },
+            {
+                  "name": "Theatre (IGR)",
+                  "text": "Ein lokaler Theatersaal für Aufführungen in Kano.",
+                  "category": "cultural",
+                  "coords": [
+                        8.428326,
+                        11.972488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kofar Famfo",
+                  "text": "Egy ősi kapu Kano történelmi, agyagból épült városfalán.",
+                  "category": "historical",
+                  "coords": [
+                        8.485161,
+                        11.978919
+                  ]
+            },
+            {
+                  "name": "Kofar Gadan Kaya",
+                  "text": "Ez az emlékmű Kano város régi agyagfalainak része.",
+                  "category": "historical",
+                  "coords": [
+                        8.495777,
+                        11.980425
+                  ]
+            },
+            {
+                  "name": "Kofar Ruwa",
+                  "text": "Egy fennmaradt kapu Kano ősi városfalában.",
+                  "category": "historical",
+                  "coords": [
+                        8.500785,
+                        12.026626
+                  ]
+            },
+            {
+                  "name": "Dala Hill",
+                  "text": "Ez a domb a kanoi első emberi település helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506974,
+                        12.009305
+                  ]
+            },
+            {
+                  "name": "Kofar Kabuga",
+                  "text": "Egy történelmi kapu, amely Kano régi agyagfalaiba épült be.",
+                  "category": "historical",
+                  "coords": [
+                        8.481443,
+                        11.987396
+                  ]
+            },
+            {
+                  "name": "Kofar Dawanau",
+                  "text": "Kano ősi erődítményének és városfalának egy szakasza.",
+                  "category": "historical",
+                  "coords": [
+                        8.492023,
+                        12.018033
+                  ]
+            },
+            {
+                  "name": "Theatre (IGR)",
+                  "text": "Egy helyi színházterem, amely előadásoknak ad otthont Kanóban.",
+                  "category": "cultural",
+                  "coords": [
+                        8.428326,
+                        11.972488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kofar Famfo",
+                  "text": "O poartă antică în zidul istoric de pământ al orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.485161,
+                        11.978919
+                  ]
+            },
+            {
+                  "name": "Kofar Gadan Kaya",
+                  "text": "Acest monument face parte din vechile ziduri de pământ ale orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.495777,
+                        11.980425
+                  ]
+            },
+            {
+                  "name": "Kofar Ruwa",
+                  "text": "O poartă conservată în vechiul zid al orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.500785,
+                        12.026626
+                  ]
+            },
+            {
+                  "name": "Dala Hill",
+                  "text": "Acest deal este locul primei așezări umane din Kano.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506974,
+                        12.009305
+                  ]
+            },
+            {
+                  "name": "Kofar Kabuga",
+                  "text": "O poartă istorică integrată în vechile ziduri de pământ din Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.481443,
+                        11.987396
+                  ]
+            },
+            {
+                  "name": "Kofar Dawanau",
+                  "text": "O secțiune a vechiului sistem de fortificații și zid al orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.492023,
+                        12.018033
+                  ]
+            },
+            {
+                  "name": "Theatre (IGR)",
+                  "text": "O sală de teatru locală pentru spectacole în Kano.",
+                  "category": "cultural",
+                  "coords": [
+                        8.428326,
+                        11.972488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kofar Famfo",
+                  "text": "An ancient gate in the historical earthen defensive city walls of Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.485161,
+                        11.978919
+                  ]
+            },
+            {
+                  "name": "Kofar Gadan Kaya",
+                  "text": "This monument is a part of the ancient earthen walls of Kano city.",
+                  "category": "historical",
+                  "coords": [
+                        8.495777,
+                        11.980425
+                  ]
+            },
+            {
+                  "name": "Kofar Ruwa",
+                  "text": "A preserved gate within the ancient city walls of Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.500785,
+                        12.026626
+                  ]
+            },
+            {
+                  "name": "Dala Hill",
+                  "text": "This hill is the site of the first human settlement in Kano.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506974,
+                        12.009305
+                  ]
+            },
+            {
+                  "name": "Kofar Kabuga",
+                  "text": "A historic gate integrated into the ancient earthen walls of Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.481443,
+                        11.987396
+                  ]
+            },
+            {
+                  "name": "Kofar Dawanau",
+                  "text": "A section of the ancient defensive fortifications and city wall of Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.492023,
+                        12.018033
+                  ]
+            },
+            {
+                  "name": "Theatre (IGR)",
+                  "text": "A local theatrical venue for performances in Kano.",
+                  "category": "cultural",
+                  "coords": [
+                        8.428326,
+                        11.972488
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "NG-KN",
     coords: [8.5, 12.0],

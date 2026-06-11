@@ -848,7 +848,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "Der Torre del Montale ist eine berühmte Burg und fungiert als der Dritte Turm von Cà Melone.",
+                  "text": "Vor 1320 erbauter Turm Torre del Montale in Cà Melone.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -967,7 +967,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "A Torre del Montale egy híres vár, amely Cà Melone harmadik tornyaként ismert.",
+                  "text": "1320 előtt épült Torre del Montale torony Cà Melone-ban.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -1086,7 +1086,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "Torre del Montale este un castel renumit, care funcționează ca al Treilea Turn din Cà Melone.",
+                  "text": "Turnul Torre del Montale construit înainte de 1320 în Cà Melone.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -1205,7 +1205,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "Torre del Montale is a renowned castle, functioning as the Third Tower of Cà Melone.",
+                  "text": "Torre del Montale tower built before 1320 in Cà Melone.",
                   "category": "castle",
                   "coords": [
                         12.452474,

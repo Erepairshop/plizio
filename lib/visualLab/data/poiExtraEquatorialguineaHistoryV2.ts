@@ -71,7 +71,52 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       fr: ["Début des travaux en 1897", "Conçue par l'architecte Luis Segarra Llairadó", "Deux tours de 40 mètres de haut", "Située sur la Plaza de la Independencia"],
     }, image: "/poi-images/catedral-santa-isabel-history-v2.webp"},
   {
-    id: "casa-correos-bata-history-v2",
+    id: "casa-correos-bata-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaza de la Libertad",
+                  "text": "Die Plaza de la Libertad ist ein monumentaler öffentlicher Platz in der Nähe der Casa de Correos in Bata.",
+                  "category": "historical",
+                  "coords": [
+                        9.764477,
+                        1.863547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaza de la Libertad",
+                  "text": "A Plaza de la Libertad egy monumentális központ a batai Casa de Correos közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.764477,
+                        1.863547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaza de la Libertad",
+                  "text": "Plaza de la Libertad este o piață publică monumentală situată lângă Casa de Correos din Bata.",
+                  "category": "historical",
+                  "coords": [
+                        9.764477,
+                        1.863547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaza de la Libertad",
+                  "text": "Plaza de la Libertad is a monumental public square located near the Casa de Correos in Bata.",
+                  "category": "historical",
+                  "coords": [
+                        9.764477,
+                        1.863547
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GQ-LI",
     coords: [9.7654, 1.8632],
@@ -276,7 +321,52 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       fr: ["Consacrée officiellement en 2011", "Deuxième plus grande basilique d'Afrique", "Siège du diocèse de Mongomo", "Splendide décor intérieur en marbre"],
     }, image: "/poi-images/basilica-mongomo-history-v2.webp"},
   {
-    id: "mision-claretiana-baney-history-v2",
+    id: "mision-claretiana-baney-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point de départ",
+                  "text": "Dieser Ausgangspunkt eröffnet historische Wanderwege durch die üppige Landschaft der Baney-Mission.",
+                  "category": "landmark",
+                  "coords": [
+                        8.787459,
+                        3.655804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point de départ",
+                  "text": "Ez a kiindulópont történelmi gyalogos útvonalakat nyit meg a baneyi misszió buja tájain keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        8.787459,
+                        3.655804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point de départ",
+                  "text": "Acest punct de plecare deschide trasee istorice de drumeție prin peisajul luxuriant al misiunii Baney.",
+                  "category": "landmark",
+                  "coords": [
+                        8.787459,
+                        3.655804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trailhead",
+                  "text": "This starting point opens up historic walking routes through the lush Baney missionary landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.787459,
+                        3.655804
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GQ-BN",
     coords: [8.8123, 3.6542],
@@ -480,7 +570,52 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "elobey-chico-ruins-history-v2",
+    id: "elobey-chico-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Football",
+                  "text": "Football ist ein Sportdenkmal in der Nähe der Ruinen von Elobey Chico.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Football",
+                  "text": "A Football egy sport témájú emlékmű Elobey Chico romjai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Football",
+                  "text": "Football este un monument cu tematică sportivă situat lângă ruinele din Elobey Chico.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Football",
+                  "text": "Football is a sports-themed monument located near the ruins of Elobey Chico.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GQ-LI",
     coords: [9.5245, 1.0112],
@@ -548,7 +683,88 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       fr: ["Abandonnée à la fin du XIXe siècle", "Vestiges du palais du gouverneur", "Ancien centre commercial majeur", "Bâtiments envahis par la forêt tropicale"],
     }, image: "/poi-images/elobey-chico-ruins-history-v2.webp"},
   {
-    id: "iglesia-pale-history-v2",
+    id: "iglesia-pale-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa del Palmar",
+                  "text": "Der Küstenstrand zeichnet sich durch seine sandigen Ufer und rollenden Meereswellen aus, die Strandbesucher anziehen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.634057,
+                        -1.404518
+                  ]
+            },
+            {
+                  "name": "Playa de Amor",
+                  "text": "Der sandige Küstenstrand präsentiert eine abgelegene Meeresumgebung, die von natürlichen Felsformationen begrenzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        5.626095,
+                        -1.404849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa del Palmar",
+                  "text": "A tengerparti strandot a homokos partok és a tengerparti látogatókat vonzó, hömpölygő óceáni hullámok jellemzik.",
+                  "category": "recreational",
+                  "coords": [
+                        5.634057,
+                        -1.404518
+                  ]
+            },
+            {
+                  "name": "Playa de Amor",
+                  "text": "A homokos tengerparti strand egy elzárt, természetes sziklaképződményekkel szegélyezett tengerparti környezetet mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        5.626095,
+                        -1.404849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa del Palmar",
+                  "text": "Plaja de coastă se caracterizează prin țărmurile sale de nisip și valurile oceanului care atrag vizitatorii litoralului.",
+                  "category": "recreational",
+                  "coords": [
+                        5.634057,
+                        -1.404518
+                  ]
+            },
+            {
+                  "name": "Playa de Amor",
+                  "text": "Plaja de nisip de pe coastă prezintă un mediu retras, mărginit de formațiuni stâncoase naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        5.626095,
+                        -1.404849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa del Palmar",
+                  "text": "The coastal beach is characterized by its sandy shores and rolling ocean waves that attract seaside visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        5.634057,
+                        -1.404518
+                  ]
+            },
+            {
+                  "name": "Playa de Amor",
+                  "text": "The sandy coastal beach presents a secluded seaside environment bordered by natural rocky features.",
+                  "category": "recreational",
+                  "coords": [
+                        5.626095,
+                        -1.404849
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GQ-AN",
     coords: [5.6321, -1.4045],
@@ -752,7 +968,52 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "cathedral-ebebiyin-history-v2",
+    id: "cathedral-ebebiyin-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catedral de Ebebiyín",
+                  "text": "Die Catedral de Ebebiyín ist eine bemerkenswerte Kultstätte und dient als katholische Hauptkathedrale in Ebebiyín.",
+                  "category": "religious",
+                  "coords": [
+                        11.333999,
+                        2.159582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catedral de Ebebiyín",
+                  "text": "A Catedral de Ebebiyín egy nevezetes istentiszteleti hely, amely Ebebiyín fő katolikus katedrálisaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        11.333999,
+                        2.159582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedral de Ebebiyín",
+                  "text": "Catedral de Ebebiyín este un loc de cult notabil, servind ca principală catedrală catolică din Ebebiyín.",
+                  "category": "religious",
+                  "coords": [
+                        11.333999,
+                        2.159582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catedral de Ebebiyín",
+                  "text": "The Catedral de Ebebiyín is a notable place of worship serving as the primary Catholic cathedral in Ebebiyín.",
+                  "category": "religious",
+                  "coords": [
+                        11.333999,
+                        2.159582
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GQ-KN",
     coords: [11.3345, 2.1523],
@@ -1024,7 +1285,52 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
     }
   },
   {
-    id: "faro-punta-unidad-history-v2",
+    id: "faro-punta-unidad-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zone tampon du Parc National Marin Manyange na Elombo-Campo",
+                  "text": "Diese ausgewiesene Pufferzone schützt das Küstenübergangsgebiet des Manyange na Elombo-Campo Marine National Park und sichert wichtige marine Lebensräume.",
+                  "category": "natural",
+                  "coords": [
+                        9.845116,
+                        2.389999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zone tampon du Parc National Marin Manyange na Elombo-Campo",
+                  "text": "Ez a kijelölt pufferzóna a Manyange na Elombo-Campo Tengeri Nemzeti Park part menti átmeneti területét védi, megóvva a kulcsfontosságú tengeri élőhelyeket.",
+                  "category": "natural",
+                  "coords": [
+                        9.845116,
+                        2.389999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zone tampon du Parc National Marin Manyange na Elombo-Campo",
+                  "text": "Această zonă tampon desemnată protejează zona de tranziție costieră a Parcului Național Marin Manyange na Elombo-Campo, salvgardând habitate marine cruciale.",
+                  "category": "natural",
+                  "coords": [
+                        9.845116,
+                        2.389999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buffer Zone of Manyange na Elombo-Campo Marine National Park",
+                  "text": "This designated buffer zone protects the coastal transition area of the Manyange na Elombo-Campo Marine National Park, safeguarding crucial marine habitats.",
+                  "category": "natural",
+                  "coords": [
+                        9.845116,
+                        2.389999
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GQ-LI",
     coords: [9.8212, 2.3456],

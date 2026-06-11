@@ -47,7 +47,124 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-echangeur-de-limete-landmarks-v2",
+    id: "cd-echangeur-de-limete-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazza",
+                  "text": "Die Plazza ist ein öffentlicher Anziehungspunkt in der Nähe des markanten Échangeur-Turms in Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.347951,
+                        -4.369167
+                  ]
+            },
+            {
+                  "name": "Foire Internationale de Kinshasa (FIKIN)",
+                  "text": "Die Foire Internationale de Kinshasa (FIKIN) ist ein großes internationales Messegelände in der Nähe des Limete-Turms.",
+                  "category": "landmark",
+                  "coords": [
+                        15.337815,
+                        -4.371706
+                  ]
+            },
+            {
+                  "name": "Place Echangeur",
+                  "text": "Der Interchange Tower, auch Tour de l'Échangeur genannt, ist ein 210 Meter hoher markanter Turm im Viertel Limete in Kinshasa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345451,
+                        -4.374364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazza",
+                  "text": "A Plazza egy nyilvános attrakció és tér a limete-i Échangeur-torony közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.347951,
+                        -4.369167
+                  ]
+            },
+            {
+                  "name": "Foire Internationale de Kinshasa (FIKIN)",
+                  "text": "A Foire Internationale de Kinshasa (FIKIN) egy nagy nemzetközi vásárterület a Limete-torony közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.337815,
+                        -4.371706
+                  ]
+            },
+            {
+                  "name": "Place Echangeur",
+                  "text": "Az Interchange Tower, vagy Tour de l'Échangeur, egy 210 méter magas, jellegzetes torony Kinshasa Limete negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345451,
+                        -4.374364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazza",
+                  "text": "Plazza este un spațiu de atracție publică situat lângă turnul Échangeur din Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.347951,
+                        -4.369167
+                  ]
+            },
+            {
+                  "name": "Foire Internationale de Kinshasa (FIKIN)",
+                  "text": "Foire Internationale de Kinshasa (FIKIN) este un mare complex expozițional internațional situat lângă Turnul Limete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.337815,
+                        -4.371706
+                  ]
+            },
+            {
+                  "name": "Place Echangeur",
+                  "text": "Interchange Tower, sau Tour de l'Échangeur, este un turn impunător de 210 metri, situat în cartierul Limete din Kinshasa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345451,
+                        -4.374364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazza",
+                  "text": "Plazza is a public attraction space set near the landmark Limete Tower.",
+                  "category": "landmark",
+                  "coords": [
+                        15.347951,
+                        -4.369167
+                  ]
+            },
+            {
+                  "name": "Foire Internationale de Kinshasa (FIKIN)",
+                  "text": "The Foire Internationale de Kinshasa (FIKIN) is a large international fairground and attraction near the Limete Tower.",
+                  "category": "landmark",
+                  "coords": [
+                        15.337815,
+                        -4.371706
+                  ]
+            },
+            {
+                  "name": "Interchange Tower",
+                  "text": "The Interchange Tower, or Tour de l'Échangeur, is a major 210-meter-tall monument tower near the Limete intersection.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345451,
+                        -4.374364
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.34, -4.381],
@@ -69,7 +186,160 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-musee-national-rdc-landmarks-v2",
+    id: "cd-musee-national-rdc-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laura K",
+                  "text": "Laura K ist ein Aussichtspunkt in der Nähe des Nationalmuseums der DR Kongo in Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.312325,
+                        -4.334564
+                  ]
+            },
+            {
+                  "name": "CARREFOUR DES JEUNES",
+                  "text": "Das CARREFOUR DES JEUNES ist ein Kunstzentrum für Jugendliche unweit des Nationalmuseums der DR Kongo.",
+                  "category": "cultural",
+                  "coords": [
+                        15.315086,
+                        -4.335339
+                  ]
+            },
+            {
+                  "name": "Monument des Artistes",
+                  "text": "Das Monument des Artistes ist ein Denkmal zu Ehren von Künstlern in der Nähe des Nationalmuseums der DR Kongo.",
+                  "category": "historical",
+                  "coords": [
+                        15.313911,
+                        -4.341164
+                  ]
+            },
+            {
+                  "name": "PLACE DES ANCIENS COMMBATTANTS",
+                  "text": "Der PLACE DES ANCIENS COMMBATTANTS ist ein Denkmalsplatz für Kriegsveteranen in der Nähe des Nationalmuseums der DR Kongo.",
+                  "category": "historical",
+                  "coords": [
+                        15.306712,
+                        -4.348053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laura K",
+                  "text": "A Laura K egy kilátó a Kongói Demokratikus Köztársaság Nemzeti Múzeumának közelében, Kinshasában.",
+                  "category": "natural",
+                  "coords": [
+                        15.312325,
+                        -4.334564
+                  ]
+            },
+            {
+                  "name": "CARREFOUR DES JEUNES",
+                  "text": "A CARREFOUR DES JEUNES egy ifjúsági művészeti központ a Kongói Demokratikus Köztársaság Nemzeti Múzeumának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.315086,
+                        -4.335339
+                  ]
+            },
+            {
+                  "name": "Monument des Artistes",
+                  "text": "A Monument des Artistes egy művészeknek emléket állító emlékmű a Kongói Demokratikus Köztársaság Nemzeti Múzeumának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.313911,
+                        -4.341164
+                  ]
+            },
+            {
+                  "name": "PLACE DES ANCIENS COMMBATTANTS",
+                  "text": "A PLACE DES ANCIENS COMMBATTANTS egy háborús veteránok előtt tisztelgő emléktér a Nemzeti Múzeum közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.306712,
+                        -4.348053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laura K",
+                  "text": "Laura K este un punct de belvedere situat în apropierea Muzeului Național al RDC din Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.312325,
+                        -4.334564
+                  ]
+            },
+            {
+                  "name": "CARREFOUR DES JEUNES",
+                  "text": "CARREFOUR DES JEUNES este un centru de artă pentru tineret situat lângă Muzeul Național al RDC.",
+                  "category": "cultural",
+                  "coords": [
+                        15.315086,
+                        -4.335339
+                  ]
+            },
+            {
+                  "name": "Monument des Artistes",
+                  "text": "Monument des Artistes este un memorial dedicat artiștilor, situat în apropierea Muzeului Național al RDC.",
+                  "category": "historical",
+                  "coords": [
+                        15.313911,
+                        -4.341164
+                  ]
+            },
+            {
+                  "name": "PLACE DES ANCIENS COMMBATTANTS",
+                  "text": "PLACE DES ANCIENS COMMBATTANTS este o piață monumentală care onorează veteranii de război, lângă Muzeul Național al RDC.",
+                  "category": "historical",
+                  "coords": [
+                        15.306712,
+                        -4.348053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laura K",
+                  "text": "Laura K is a viewpoint offering city vistas near the National Museum of DRC in Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.312325,
+                        -4.334564
+                  ]
+            },
+            {
+                  "name": "CARREFOUR DES JEUNES",
+                  "text": "CARREFOUR DES JEUNES is a youth arts centre located near the National Museum of DRC.",
+                  "category": "cultural",
+                  "coords": [
+                        15.315086,
+                        -4.335339
+                  ]
+            },
+            {
+                  "name": "Monument des Artistes",
+                  "text": "Monument des Artistes is a memorial dedicated to artists, situated close to the National Museum of DRC.",
+                  "category": "historical",
+                  "coords": [
+                        15.313911,
+                        -4.341164
+                  ]
+            },
+            {
+                  "name": "PLACE DES ANCIENS COMMBATTANTS",
+                  "text": "PLACE DES ANCIENS COMMBATTANTS is a monument square honoring war veterans near the National Museum of DRC.",
+                  "category": "historical",
+                  "coords": [
+                        15.306712,
+                        -4.348053
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.314, -4.334],
@@ -135,7 +405,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-academie-beaux-arts-landmarks-v2",
+    id: "cd-academie-beaux-arts-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des arts congolaise",
+                  "text": "Das Musée des arts congolais befindet sich in der Akademie der Bildenden Künste und bewahrt eine reiche Sammlung traditioneller und zeitgenössischer lokaler Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        15.292454,
+                        -4.321136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des arts congolaise",
+                  "text": "A Képzőművészeti Akadémián található Musée des arts congolais a hagyományos és kortárs helyi alkotások gazdag gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        15.292454,
+                        -4.321136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des arts congolaise",
+                  "text": "Situat la Academia de Arte Frumoase, Musée des arts congolais păstrează o colecție bogată de lucrări de artă locale, tradiționale și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        15.292454,
+                        -4.321136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des arts congolaise",
+                  "text": "Situated at the Academy of Fine Arts, the Musée des arts congolais preserves a rich collection of traditional and contemporary local artworks.",
+                  "category": "museum",
+                  "coords": [
+                        15.292454,
+                        -4.321136
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.294, -4.318],
@@ -157,7 +472,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-gare-centrale-kinshasa-landmarks-v2",
+    id: "cd-gare-centrale-kinshasa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bellissima",
+                  "text": "Bellissima ist eine moderne Kunstgalerie in der Nähe des Hauptbahnhofs von Kinshasa, die zeitgenössische visuelle Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.307635,
+                        -4.302671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bellissima",
+                  "text": "A Bellissima egy modern művészeti galéria a kinshasai főpályaudvar közelében, amely kortárs vizuális alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        15.307635,
+                        -4.302671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bellissima",
+                  "text": "Bellissima este o galerie de artă modernă de lângă Gara Centrală din Kinshasa, care scoate în evidență lucrări vizuale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        15.307635,
+                        -4.302671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bellissima",
+                  "text": "Bellissima is a modern art gallery near Kinshasa Central Station highlighting contemporary visual pieces.",
+                  "category": "museum",
+                  "coords": [
+                        15.307635,
+                        -4.302671
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.308, -4.306],
@@ -200,7 +560,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       en: ["Event: Independence 1960", "Date: June 30", "Location: Place de l'Indépendance", "City: Kinshasa", "Significance: National symbol", "Function: Commemorative site"],
     }, image: "/poi-images/cd-monument-independance-landmarks-v2.webp"},
   {
-    id: "cd-stade-tata-raphael-landmarks-v2",
+    id: "cd-stade-tata-raphael-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ndaku ya la vie est belle",
+                  "text": "Das Ndaku ya la vie est belle ist ein kulturelles Museum in der Nähe des Stade Tata Raphaël, das der kongolesischen Kunst und dem Kino gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.316613,
+                        -4.344766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ndaku ya la vie est belle",
+                  "text": "A Ndaku ya la vie est belle egy kongói művészetet és mozit bemutató kulturális múzeum a Stade Tata Raphaël közelében.",
+                  "category": "museum",
+                  "coords": [
+                        15.316613,
+                        -4.344766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ndaku ya la vie est belle",
+                  "text": "Ndaku ya la vie est belle este un muzeu cultural dedicat artei și cinematografiei congoleze, situat lângă Stade Tata Raphaël.",
+                  "category": "museum",
+                  "coords": [
+                        15.316613,
+                        -4.344766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ndaku ya la vie est belle",
+                  "text": "Ndaku ya la vie est belle is a cultural museum located near Stade Tata Raphaël, celebrating Congolese art and cinema.",
+                  "category": "museum",
+                  "coords": [
+                        15.316613,
+                        -4.344766
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.323, -4.339],
@@ -309,7 +714,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-chukudu-monument-landmarks-v2",
+    id: "cd-chukudu-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Chukudu",
+                  "text": "Ein markantes goldenes Denkmal zu Ehren des legendären Chukudu, des traditionellen Holzrollers, der für lokale Frachtspediteure unverzichtbar ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.235418,
+                        -1.684093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Chukudu",
+                  "text": "Látványos arany emlékmű, amely az ikonikus chukudut, a helyi áruszállítók számára nélkülözhetetlen hagyományos fából készült rollert tiszteli.",
+                  "category": "historical",
+                  "coords": [
+                        29.235418,
+                        -1.684093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Chukudu",
+                  "text": "Un monument auriu impresionant care onorează faimosul chukudu, scuterul tradițional din lemn, esențial pentru transportatorii locali de marfă.",
+                  "category": "historical",
+                  "coords": [
+                        29.235418,
+                        -1.684093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Chukudu",
+                  "text": "A striking golden monument honoring the iconic chukudu, the traditional wooden scooter essential for local cargo haulers.",
+                  "category": "historical",
+                  "coords": [
+                        29.235418,
+                        -1.684093
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-NK",
     coords: [29.231, -1.68],
@@ -331,7 +781,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-cathedrale-saint-joseph-goma-landmarks-v2",
+    id: "cd-cathedrale-saint-joseph-goma-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Institut français",
+                  "text": "Ein markantes Kultur- und Kunstzentrum, das Französischkurse anbietet und lokale Kunstausstellungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        29.228196,
+                        -1.683968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Institut français",
+                  "text": "Kiemelkedő kulturális művészeti központ, amely francia nyelvtanfolyamokat kínál és helyi művészeti kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        29.228196,
+                        -1.683968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Institut français",
+                  "text": "Un centru de arte culturale proeminent, care oferă cursuri de limba franceză și găzduiește expoziții de artă locală.",
+                  "category": "cultural",
+                  "coords": [
+                        29.228196,
+                        -1.683968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Institut français",
+                  "text": "A prominent cultural arts centre offering French language classes and hosting local art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        29.228196,
+                        -1.683968
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-NK",
     coords: [29.228, -1.685],
@@ -353,7 +848,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2",
+    id: "cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saints-Pierre-et-Paul",
+                  "text": "Die Cathédrale Saints-Pierre-et-Paul ist eine markante historische Kathedrale und ein wichtiges religiöses Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479783,
+                        -11.665723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saints-Pierre-et-Paul",
+                  "text": "A Cathédrale Saints-Pierre-et-Paul egy kiemelkedő történelmi katedrális, amely jelentős vallási nevezetesség.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479783,
+                        -11.665723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Saints-Pierre-et-Paul",
+                  "text": "Cathédrale Saints-Pierre-et-Paul este o catedrală istorică proeminentă care servește ca un reper religios major.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479783,
+                        -11.665723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Saints-Pierre-et-Paul",
+                  "text": "Cathédrale Saints-Pierre-et-Paul is a prominent historic cathedral serving as a major religious landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479783,
+                        -11.665723
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-HK",
     coords: [27.478, -11.667],
@@ -419,7 +959,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-palais-de-justice-lubumbashi-landmarks-v2",
+    id: "cd-palais-de-justice-lubumbashi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoo de Lubumbashi",
+                  "text": "Dieser Zoo befindet sich in der Nähe des Justizpalastes von Lubumbashi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.47423,
+                        -11.668703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoo de Lubumbashi",
+                  "text": "Ez az állatkert a lubumbashi Igazságügyi Palota közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        27.47423,
+                        -11.668703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoo de Lubumbashi",
+                  "text": "Această grădină zoologică este situată în apropierea Palatului de Justiție din Lubumbashi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.47423,
+                        -11.668703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoo de Lubumbashi",
+                  "text": "This zoo is located near the Palace of Justice in Lubumbashi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.47423,
+                        -11.668703
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-HK",
     coords: [27.477, -11.67],
@@ -441,7 +1026,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-cathedrale-paix-bukavu-landmarks-v2",
+    id: "cd-cathedrale-paix-bukavu-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedrale Notre Dame de la Paix",
+                  "text": "Die Cathédrale Notre-Dame de la Paix in Bukavu ist eine imposante katholische Bischofskirche der Demokratischen Republik Kongo.",
+                  "category": "religious",
+                  "coords": [
+                        28.859492,
+                        -2.501919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedrale Notre Dame de la Paix",
+                  "text": "A bukavui Cathédrale Notre-Dame de la Paix a Kongói Demokratikus Köztársaság egyik impozáns katolikus püspöki temploma.",
+                  "category": "religious",
+                  "coords": [
+                        28.859492,
+                        -2.501919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedrale Notre Dame de la Paix",
+                  "text": "Cathédrale Notre-Dame de la Paix din Bukavu este o catedrală catolică impunătoare din Republica Democratică Congo.",
+                  "category": "religious",
+                  "coords": [
+                        28.859492,
+                        -2.501919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedrale Notre Dame de la Paix",
+                  "text": "The Cathédrale Notre-Dame de la Paix in Bukavu is an imposing Catholic episcopal church in the Democratic Republic of the Congo.",
+                  "category": "religious",
+                  "coords": [
+                        28.859492,
+                        -2.501919
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-SK",
     coords: [28.858, -2.502],
@@ -507,7 +1137,88 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-universite-kisangani-landmarks-v2",
+    id: "cd-universite-kisangani-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place SAIO",
+                  "text": "Die Place SAIO ist ein zentraler Denkmalplatz auf dem Campus der Universität Kisangani.",
+                  "category": "historical",
+                  "coords": [
+                        25.188418,
+                        0.510583
+                  ]
+            },
+            {
+                  "name": "Espace NGOMA",
+                  "text": "Der Espace NGOMA ist ein kultureller Theaterraum an der Universität Kisangani.",
+                  "category": "cultural",
+                  "coords": [
+                        25.186051,
+                        0.515389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place SAIO",
+                  "text": "A Place SAIO egy központi emlékmű-tér a Kisangani Egyetem kampuszán.",
+                  "category": "historical",
+                  "coords": [
+                        25.188418,
+                        0.510583
+                  ]
+            },
+            {
+                  "name": "Espace NGOMA",
+                  "text": "Az Espace NGOMA egy kulturális színházi tér a Kisangani Egyetemen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.186051,
+                        0.515389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place SAIO",
+                  "text": "Place SAIO este o piață monumentală centrală din campusul Universității din Kisangani.",
+                  "category": "historical",
+                  "coords": [
+                        25.188418,
+                        0.510583
+                  ]
+            },
+            {
+                  "name": "Espace NGOMA",
+                  "text": "Espace NGOMA este un spațiu teatral cultural la Universitatea din Kisangani.",
+                  "category": "cultural",
+                  "coords": [
+                        25.186051,
+                        0.515389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place SAIO",
+                  "text": "Place SAIO is a central monument square on the campus of the University of Kisangani.",
+                  "category": "historical",
+                  "coords": [
+                        25.188418,
+                        0.510583
+                  ]
+            },
+            {
+                  "name": "Espace NGOMA",
+                  "text": "Espace NGOMA is a cultural theatre space located at the University of Kisangani.",
+                  "category": "cultural",
+                  "coords": [
+                        25.186051,
+                        0.515389
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-TO",
     coords: [25.188, 0.514],
@@ -529,7 +1240,88 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-place-de-la-femme-kisangani-landmarks-v2",
+    id: "cd-place-de-la-femme-kisangani-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "FlyCongo",
+                  "text": "Dieses Denkmal mit dem Namen FlyCongo steht an der belebten Place de la Femme.",
+                  "category": "historical",
+                  "coords": [
+                        25.193273,
+                        0.508393
+                  ]
+            },
+            {
+                  "name": "Trust Merchant Bank",
+                  "text": "Das Gebäude der Trust Merchant Bank dient als markantes Architekturdenkmal an der Place de la Femme.",
+                  "category": "historical",
+                  "coords": [
+                        25.193286,
+                        0.509998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FlyCongo",
+                  "text": "Ez a FlyCongo nevű emlékmű a forgalmas Place de la Femme téren áll.",
+                  "category": "historical",
+                  "coords": [
+                        25.193273,
+                        0.508393
+                  ]
+            },
+            {
+                  "name": "Trust Merchant Bank",
+                  "text": "A Trust Merchant Bank épülete kiemelkedő építészeti emlékként szolgál a Place de la Femme téren.",
+                  "category": "historical",
+                  "coords": [
+                        25.193286,
+                        0.509998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FlyCongo",
+                  "text": "Acest monument numit FlyCongo se află în animata Place de la Femme.",
+                  "category": "historical",
+                  "coords": [
+                        25.193273,
+                        0.508393
+                  ]
+            },
+            {
+                  "name": "Trust Merchant Bank",
+                  "text": "Clădirea Trust Merchant Bank servește ca un monument arhitectural impresionant în Place de la Femme.",
+                  "category": "historical",
+                  "coords": [
+                        25.193286,
+                        0.509998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FlyCongo",
+                  "text": "This monument named FlyCongo stands at the bustling Place de la Femme.",
+                  "category": "historical",
+                  "coords": [
+                        25.193273,
+                        0.508393
+                  ]
+            },
+            {
+                  "name": "Trust Merchant Bank",
+                  "text": "The Trust Merchant Bank building serves as a striking architectural monument at Place de la Femme.",
+                  "category": "historical",
+                  "coords": [
+                        25.193286,
+                        0.509998
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-TO",
     coords: [25.193, 0.514],
@@ -551,7 +1343,88 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-cathedrale-christ-roi-kalemie-landmarks-v2",
+    id: "cd-cathedrale-christ-roi-kalemie-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "cellule marche jumbo",
+                  "text": "Dieses geschäftige Marktviertel in der Nähe eines großen Verbrauchermarkts ist ein lebendiger Knotenpunkt für den lokalen Handel und die täglichen Einkäufe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.195224,
+                        -5.937862
+                  ]
+            },
+            {
+                  "name": "Safari Beach",
+                  "text": "Dieses Küstenresort im Schatten hoher Palmen bietet seinen Besuchern einen entspannenden Sandstrand, der durch tropische Freizeiteinrichtungen ergänzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        29.217499,
+                        -5.904759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cellule marche jumbo",
+                  "text": "A nagy bevásárlóközpont közelében található, nyüzsgő piaci pavilonok a helyi kereskedelem és a napi bevásárlások élénk csomópontját alkotják.",
+                  "category": "landmark",
+                  "coords": [
+                        29.195224,
+                        -5.937862
+                  ]
+            },
+            {
+                  "name": "Safari Beach",
+                  "text": "A magas pálmafák árnyékában fekvő tengerparti üdülőhely pihentető, homokos parttal és trópusi szabadidős létesítményekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        29.217499,
+                        -5.904759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cellule marche jumbo",
+                  "text": "Situată în apropierea unui mare hipermarket comercial, această zonă plină de tarabe este un nod vibrant pentru comerțul local și cumpărăturile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        29.195224,
+                        -5.937862
+                  ]
+            },
+            {
+                  "name": "Safari Beach",
+                  "text": "Umbrită de palmieri înalți, această stațiune pe plajă oferă vizitatorilor o coastă cu nisip relaxantă, completată de facilități de agrement tropicale.",
+                  "category": "recreational",
+                  "coords": [
+                        29.217499,
+                        -5.904759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cellule marche jumbo",
+                  "text": "Situated near a major commercial hypermarket, this bustling market stall area is a vibrant node for local trade and daily shopping.",
+                  "category": "landmark",
+                  "coords": [
+                        29.195224,
+                        -5.937862
+                  ]
+            },
+            {
+                  "name": "Safari Beach",
+                  "text": "Shaded by tall palm trees, this coastal beach resort offers visitors a relaxing sandy shoreline complemented by tropical leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        29.217499,
+                        -5.904759
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-TA",
     coords: [29.195, -5.941],
@@ -617,7 +1490,88 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-barrage-inga-landmarks-v2",
+    id: "cd-barrage-inga-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Kakila",
+                  "text": "Der Mont Kakila ist ein markanter Gipfel, der sich steil über der massiven Wasserkraftinfrastruktur des Kongo-Flusses erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        13.623732,
+                        -5.559187
+                  ]
+            },
+            {
+                  "name": "Inga-Staudamm",
+                  "text": "Diese riesigen Staudämme nutzen die immense Kraft der Stromschnellen des Kongo-Flusses zur Stromerzeugung.",
+                  "category": "landmark",
+                  "coords": [
+                        13.622997,
+                        -5.513296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Kakila",
+                  "text": "A Mont Kakila egy kiemelkedő csúcs, amely meredeken emelkedik a Kongó folyó masszív vízenergia-infrastruktúrája fölé.",
+                  "category": "natural",
+                  "coords": [
+                        13.623732,
+                        -5.559187
+                  ]
+            },
+            {
+                  "name": "Inga-vízerőművek",
+                  "text": "Ezek a hatalmas gátak a Kongó folyó zuhatagainak hatalmas erejét hasznosítják áramtermelésre.",
+                  "category": "landmark",
+                  "coords": [
+                        13.622997,
+                        -5.513296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Kakila",
+                  "text": "Mont Kakila este un vârf proeminent care se înalță abrupt deasupra infrastructurii hidroelectrice masive a fluviului Congo.",
+                  "category": "natural",
+                  "coords": [
+                        13.623732,
+                        -5.559187
+                  ]
+            },
+            {
+                  "name": "Inga dams",
+                  "text": "Aceste baraje hidroelectrice masive valorifică puterea imensă a rapidelor fluviului Congo pentru a genera electricitate.",
+                  "category": "landmark",
+                  "coords": [
+                        13.622997,
+                        -5.513296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Kakila",
+                  "text": "Mont Kakila is a prominent peak rising sharply above the massive hydroelectric infrastructure of the Congo River.",
+                  "category": "natural",
+                  "coords": [
+                        13.623732,
+                        -5.559187
+                  ]
+            },
+            {
+                  "name": "Inga dams",
+                  "text": "These massive hydroelectric dams harness the immense power of the Congo River's rapids to generate electricity.",
+                  "category": "landmark",
+                  "coords": [
+                        13.622997,
+                        -5.513296
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-BC",
     coords: [13.619, -5.522],
@@ -639,7 +1593,52 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cd-palais-de-la-nation-landmarks-v2",
+    id: "cd-palais-de-la-nation-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Boboto",
+                  "text": "Das Centre Culturel Boboto ist ein aktives Kunstzentrum in der Nähe des Palais de la Nation, das verschiedene kulturelle Ausstellungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.286111,
+                        -4.307885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Boboto",
+                  "text": "A Palais de la Nation közelében található Centre Culturel Boboto egy aktív művészeti központ, amely különféle kulturális kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.286111,
+                        -4.307885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Boboto",
+                  "text": "Centre Culturel Boboto este un centru de arte activ situat în apropiere de Palais de la Nation, găzduind diverse expoziții culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.286111,
+                        -4.307885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Boboto",
+                  "text": "The Centre Culturel Boboto is an active arts center located near the Palais de la Nation, hosting various cultural exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        15.286111,
+                        -4.307885
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CD-KN",
     coords: [15.289, -4.305],

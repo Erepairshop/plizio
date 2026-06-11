@@ -195,7 +195,88 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "hima-cement-factory-economic-v2",
+    id: "hima-cement-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Market place",
+                  "text": "Dieser belebte Marktplatz in der Nähe der Zementfabrik ist voll von Freiluftständen, die frische Produkte und alltägliche Haushaltswaren verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        30.117469,
+                        0.260129
+                  ]
+            },
+            {
+                  "name": "Rwenzori Founders",
+                  "text": "Diese einzigartige Galerie mit Bronzegießerei zeigt lokal gefertigte Metallkunstwerke, die von der Tierwelt und Kultur der Region inspiriert sind.",
+                  "category": "museum",
+                  "coords": [
+                        30.10734,
+                        0.256895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Market place",
+                  "text": "A cementgyár melletti nyüzsgő piacon szabadtéri standok kínálnak friss terményeket és mindennapi háztartási cikkeket.",
+                  "category": "landmark",
+                  "coords": [
+                        30.117469,
+                        0.260129
+                  ]
+            },
+            {
+                  "name": "Rwenzori Founders",
+                  "text": "Ez az egyedülálló galéria és bronzöntöde a régió vadvilága és kultúrája által ihletett, helyben formázott fémalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        30.10734,
+                        0.256895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Market place",
+                  "text": "Această piață plină de viață din apropierea fabricii de ciment este plină de tarabe în aer liber care vând produse proaspete și bunuri de uz casnic zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        30.117469,
+                        0.260129
+                  ]
+            },
+            {
+                  "name": "Rwenzori Founders",
+                  "text": "Această galerie unică și turnătorie de bronz expune opere de artă din metal sculptate local, inspirate de viața sălbatică și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        30.10734,
+                        0.256895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Market place",
+                  "text": "This bustling marketplace near the cement factory is filled with open-air stalls selling fresh produce and everyday household goods.",
+                  "category": "landmark",
+                  "coords": [
+                        30.117469,
+                        0.260129
+                  ]
+            },
+            {
+                  "name": "Rwenzori Founders",
+                  "text": "This unique gallery and bronze-casting foundry displays locally sculpted metal artworks inspired by the wildlife and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        30.10734,
+                        0.256895
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UG-405",
     coords: [30.1778, 0.2917],
@@ -451,7 +532,52 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "lugazi-sugar-factory-economic-v2",
+    id: "lugazi-sugar-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mabira Forest Zipline Reception",
+                  "text": "Versteckt im dichten Blätterdach ist dieser Empfangsbereich der Ausgangspunkt für aufregende Seilrutschen-Touren durch den Mabira-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        32.954016,
+                        0.437449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mabira Forest Zipline Reception",
+                  "text": "A sűrű lombkorona alatt megbúvó recepció a Mabira-erdőn átívelő izgalmas drótkötélpályás túrák kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        32.954016,
+                        0.437449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mabira Forest Zipline Reception",
+                  "text": "Ascuns sub coronamentul dens, această zonă de recepție este punctul de plecare pentru trasee palpitante cu tiroliana prin Pădurea Mabira.",
+                  "category": "landmark",
+                  "coords": [
+                        32.954016,
+                        0.437449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mabira Forest Zipline Reception",
+                  "text": "Hidden within the dense canopy, this reception area is the starting point for exhilarating zipline tours through the Mabira Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        32.954016,
+                        0.437449
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UG-202",
     coords: [32.9333, 0.3667],
@@ -579,7 +705,52 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bujagali-hydroelectric-power-station-economic-v2",
+    id: "bujagali-hydroelectric-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "All Terrain Adventures Uganda",
+                  "text": "Dieser Abenteuerpark in der Nähe des Bujagali-Damms ist auf aufregende geführte Quad-Safaris entlang der schlammigen Ufer des Nils spezialisiert.",
+                  "category": "recreational",
+                  "coords": [
+                        33.162698,
+                        0.484678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "All Terrain Adventures Uganda",
+                  "text": "A Bujagali-gát közelében működő kalandpark izgalmas vezetett quadszafarikra specializálódott a Nílus iszapos partjai mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.162698,
+                        0.484678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "All Terrain Adventures Uganda",
+                  "text": "Funcționând în apropierea barajului Bujagali, acest parc de aventură este specializat în safariuri ghidate palpitante cu ATV-ul de-a lungul malurilor noroioase ale râului Nil.",
+                  "category": "recreational",
+                  "coords": [
+                        33.162698,
+                        0.484678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "All Terrain Adventures Uganda",
+                  "text": "Operating near the Bujagali Dam, this adventure park specializes in thrilling guided quad bike safaris along the muddy banks of the River Nile.",
+                  "category": "recreational",
+                  "coords": [
+                        33.162698,
+                        0.484678
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UG-203",
     coords: [33.1389, 0.4958],
@@ -835,7 +1006,52 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tilenga-oil-project-economic-v2",
+    id: "tilenga-oil-project-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "BUGUNGU HERITAGE AND INFORMATION CENTRE MUSEUM",
+                  "text": "Das Bugungu Heritage and Information Centre Museum bewahrt die einzigartigen kulturellen Artefakte und reichen Traditionen des lokalen Bugungu-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        31.415229,
+                        2.119852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BUGUNGU HERITAGE AND INFORMATION CENTRE MUSEUM",
+                  "text": "A Bugungu Örökség és Információs Központ Múzeum a helyi bugungu nép egyedülálló kulturális tárgyait és gazdag hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        31.415229,
+                        2.119852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BUGUNGU HERITAGE AND INFORMATION CENTRE MUSEUM",
+                  "text": "Muzeul Centrului de Patrimoniu și Informare Bugungu păstrează artefactele culturale unice și tradițiile bogate ale poporului local Bugungu.",
+                  "category": "museum",
+                  "coords": [
+                        31.415229,
+                        2.119852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BUGUNGU HERITAGE AND INFORMATION CENTRE MUSEUM",
+                  "text": "The Bugungu Heritage and Information Centre Museum preserves the unique cultural artifacts and rich traditions of the local Bugungu people.",
+                  "category": "museum",
+                  "coords": [
+                        31.415229,
+                        2.119852
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UG-401",
     coords: [31.4167, 2.05],
@@ -1539,7 +1755,52 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-bell-economic-v2",
+    id: "port-bell-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Side Adventure Park",
+                  "text": "Nahe den Gewässern von Port Bell gelegen, bietet dieser Themenpark aktive Outdoor-Abenteuer direkt am See.",
+                  "category": "recreational",
+                  "coords": [
+                        32.68365,
+                        0.229436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Side Adventure Park",
+                  "text": "A Port Bell vizeihez közel fekvő vidámpark aktív szabadtéri kalandokat kínál közvetlenül a tóparton.",
+                  "category": "recreational",
+                  "coords": [
+                        32.68365,
+                        0.229436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Side Adventure Park",
+                  "text": "Situat aproape de apele din Port Bell, acest parc tematic oferă aventuri active în aer liber chiar pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        32.68365,
+                        0.229436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Side Adventure Park",
+                  "text": "Situated near the waters of Port Bell, this theme park offers active outdoor adventures right by the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        32.68365,
+                        0.229436
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "UG-102",
     coords: [32.65, 0.2833],
@@ -1603,7 +1864,52 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "jinja-pier-economic-v2",
+    id: "jinja-pier-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cruise to the Source of Nile",
+                  "text": "Diese entspannende Bootstour, die in der Nähe des Jinja-Piers ablegt, führt Besucher zu der Stelle, wo der Nil auf den Viktoriasee trifft.",
+                  "category": "landmark",
+                  "coords": [
+                        33.205906,
+                        0.414451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cruise to the Source of Nile",
+                  "text": "A jinja móló közeléből induló pihentető hajótúra közvetlenül oda viszi a látogatókat, ahol a Nílus a Viktória-tóval találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        33.205906,
+                        0.414451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cruise to the Source of Nile",
+                  "text": "Plecând din apropierea digului Jinja, acest tur relaxant cu barca duce vizitatorii în locul unde Nilul se întâlnește cu Lacul Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        33.205906,
+                        0.414451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cruise to the Source of Nile",
+                  "text": "Departing near the bustling Jinja Pier, this relaxing boat tour takes visitors to the exact spot where the Nile meets Lake Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        33.205906,
+                        0.414451
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "UG-203",
     coords: [33.2, 0.4167],
@@ -1667,7 +1973,556 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "entebbe-pier-economic-v2",
+    id: "entebbe-pier-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omutaka Kasiga rruins - Mamba Enangiira clan",
+                  "text": "Diese historischen Ruinen in der Region Entebbe sind mit dem Mamba Enangiira-Clan verbunden und zeugen von der lokalen Kulturgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        32.522955,
+                        0.059432
+                  ]
+            },
+            {
+                  "name": "Kisembi Road",
+                  "text": "Ein Aussichtspunkt entlang der Kisembi Road, der einen weiten Blick über die Landschaft von Entebbe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.5104,
+                        0.069294
+                  ]
+            },
+            {
+                  "name": "Entebbe Bay",
+                  "text": "Die Entebbe-Bucht ist eine bedeutende Einbuchtung des Viktoriasees, die an die gleichnamige Hafenstadt in Uganda grenzt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.492157,
+                        0.070636
+                  ]
+            },
+            {
+                  "name": "Destroyed Buildings",
+                  "text": "Die zerstörten Gebäude in Entebbe zeugen als verfallene Strukturen von vergangenen städtischen Entwicklungen in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        32.480032,
+                        0.062299
+                  ]
+            },
+            {
+                  "name": "Missed Call Beach",
+                  "text": "Ein einzigartig benanntes Strandresort in Entebbe, das Freizeitmöglichkeiten direkt am Ufer des Viktoriasees bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4952,
+                        0.08337
+                  ]
+            },
+            {
+                  "name": "Mount Saint Theresa",
+                  "text": "Das Monument Mount Saint Theresa in Entebbe ist eine Gedenkstätte von lokaler historischer und kultureller Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        32.531961,
+                        0.121262
+                  ]
+            },
+            {
+                  "name": "Kisubi Beach",
+                  "text": "Das Kisubi Beach Resort ist ein ruhiges Erholungsgebiet am Viktoriasee, ideal für Entspannung am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        32.546019,
+                        0.11341
+                  ]
+            },
+            {
+                  "name": "Nabynoonya Resort Beach",
+                  "text": "Das Nabynoonya Resort Beach bietet Sandstrände und Unterkünfte an den malerischen Ufern des Viktoriasees.",
+                  "category": "recreational",
+                  "coords": [
+                        32.547164,
+                        0.108038
+                  ]
+            },
+            {
+                  "name": "Kasenyi beach",
+                  "text": "Der Kasenyi-Strand in der Nähe von Entebbe ist ein belebter Ort, der oft von Fischern und Erholungssuchenden am See frequentiert wird.",
+                  "category": "recreational",
+                  "coords": [
+                        32.517149,
+                        0.053932
+                  ]
+            },
+            {
+                  "name": "Entebbe Botanical Gardens",
+                  "text": "Die 1898 angelegten Botanischen Gärten von Entebbe beherbergen eine große Vielfalt an tropischen Pflanzen, Vögeln und Affen am Nordufer des Viktoriasees.",
+                  "category": "park",
+                  "coords": [
+                        32.478723,
+                        0.062621
+                  ]
+            },
+            {
+                  "name": "UWEC - Entebbe Zoo Beach",
+                  "text": "Dieser Strand liegt am Rande des Entebbe-Zoos (UWEC) und verbindet den Blick auf den See mit der Nähe zum Schutzgebiet für Wildtiere.",
+                  "category": "recreational",
+                  "coords": [
+                        32.47827,
+                        0.052219
+                  ]
+            },
+            {
+                  "name": "SSese Gateway Beach",
+                  "text": "Ein bekannter Strand in Entebbe, der oft als Treffpunkt oder Ausgangspunkt für Fahrten zu den nahegelegenen Ssese-Inseln dient.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488025,
+                        0.08763
+                  ]
+            },
+            {
+                  "name": "Garuga Resort Beach Hotel",
+                  "text": "Ein am Strand gelegenes Hotel in Garuga, das seinen Gästen Unterkünfte und Erholungsmöglichkeiten direkt am Viktoriasee bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.552418,
+                        0.041606
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Conservation Education Centre (UWEC)",
+                  "text": "Das UWEC in Entebbe dient als zentraler Zoo und Rettungsstation in Uganda, in dem gerettete einheimische Tiere in naturnahen Gehegen gepflegt werden.",
+                  "category": "recreational",
+                  "coords": [
+                        32.475973,
+                        0.052581
+                  ]
+            },
+            {
+                  "name": "Uganda Reptile Village - Snake Park",
+                  "text": "Dieser Schlangenpark in Entebbe widmet sich der Aufklärung und dem Schutz von Ugandas vielfältigen Reptilienarten, darunter Mambas und Pythons.",
+                  "category": "recreational",
+                  "coords": [
+                        32.474364,
+                        0.105777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omutaka Kasiga rruins - Mamba Enangiira clan",
+                  "text": "Ezek az Entebbe régióban található történelmi romok a Mamba Enangiira klánhoz kötődnek, és a helyi kultúrtörténetről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        32.522955,
+                        0.059432
+                  ]
+            },
+            {
+                  "name": "Kisembi Road",
+                  "text": "A Kisembi úton található kilátópont, amely széles kilátást nyújt Entebbe tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        32.5104,
+                        0.069294
+                  ]
+            },
+            {
+                  "name": "Entebbe Bay",
+                  "text": "Az Entebbe-öböl a Viktória-tó egyik jelentős öble, amely a vele azonos nevű ugandai kikötőváros határolja.",
+                  "category": "landmark",
+                  "coords": [
+                        32.492157,
+                        0.070636
+                  ]
+            },
+            {
+                  "name": "Destroyed Buildings",
+                  "text": "Ezek a lerombolt épületek Entebbe-ben egy letűnt városi fejlődés elhagyatott struktúráiként állnak a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        32.480032,
+                        0.062299
+                  ]
+            },
+            {
+                  "name": "Missed Call Beach",
+                  "text": "Egy egyedi nevű tengerparti üdülőhely Entebbe-ben, amely szabadidős tevékenységeket kínál közvetlenül a Viktória-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4952,
+                        0.08337
+                  ]
+            },
+            {
+                  "name": "Mount Saint Theresa",
+                  "text": "A Mount Saint Theresa emlékmű Entebbe-ben egy helyi történelmi és kulturális jelentőségű emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        32.531961,
+                        0.121262
+                  ]
+            },
+            {
+                  "name": "Kisubi Beach",
+                  "text": "A Kisubi Beach Resort egy csendes pihenőhely a Viktória-tónál, amely ideális a vízparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        32.546019,
+                        0.11341
+                  ]
+            },
+            {
+                  "name": "Nabynoonya Resort Beach",
+                  "text": "A Nabynoonya Resort Beach homokos partokat és szálláslehetőséget kínál a Viktória-tó festői partján.",
+                  "category": "recreational",
+                  "coords": [
+                        32.547164,
+                        0.108038
+                  ]
+            },
+            {
+                  "name": "Kasenyi beach",
+                  "text": "Az Entebbe melletti Kasenyi strand egy forgalmas hely, amelyet gyakran látogatnak a halászok és a tónál kikapcsolódni vágyók.",
+                  "category": "recreational",
+                  "coords": [
+                        32.517149,
+                        0.053932
+                  ]
+            },
+            {
+                  "name": "Entebbe Botanical Gardens",
+                  "text": "Az 1898-ban alapított Entebbe-i botanikus kert trópusi növények, madarak és majmok hatalmas választékának ad otthont a Viktória-tó északi partján.",
+                  "category": "park",
+                  "coords": [
+                        32.478723,
+                        0.062621
+                  ]
+            },
+            {
+                  "name": "UWEC - Entebbe Zoo Beach",
+                  "text": "Ez a strand az Entebbe-i állatkert (UWEC) szélén található, és a tóra nyíló kilátást ötvözi a vadvédelmi terület közelségével.",
+                  "category": "recreational",
+                  "coords": [
+                        32.47827,
+                        0.052219
+                  ]
+            },
+            {
+                  "name": "SSese Gateway Beach",
+                  "text": "Egy ismert strand Entebbe-ben, amely gyakran találkozóhelyként vagy indulási pontként szolgál a közeli Ssese-szigetekre.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488025,
+                        0.08763
+                  ]
+            },
+            {
+                  "name": "Garuga Resort Beach Hotel",
+                  "text": "Egy vízparti szálloda Garugában, amely szállást és kikapcsolódási lehetőséget kínál a vendégeknek közvetlenül a Viktória-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        32.552418,
+                        0.041606
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Conservation Education Centre (UWEC)",
+                  "text": "Az Entebbe-ben található UWEC Uganda központi állatkertjeként és mentőközpontjaként működik, ahol a kimentett őshonos állatokat félig természetes környezetben gondozzák.",
+                  "category": "recreational",
+                  "coords": [
+                        32.475973,
+                        0.052581
+                  ]
+            },
+            {
+                  "name": "Uganda Reptile Village - Snake Park",
+                  "text": "Ez az Entebbe-i kígyópark Uganda változatos hüllőfajainak, köztük a mambáknak és a pitonoknak a bemutatásával és védelmével foglalkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        32.474364,
+                        0.105777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omutaka Kasiga rruins - Mamba Enangiira clan",
+                  "text": "Aceste ruine istorice din regiunea Entebbe sunt asociate cu clanul Mamba Enangiira, fiind o mărturie a istoriei culturale locale.",
+                  "category": "historical",
+                  "coords": [
+                        32.522955,
+                        0.059432
+                  ]
+            },
+            {
+                  "name": "Kisembi Road",
+                  "text": "Un punct de belvedere situat pe drumul Kisembi, oferind o priveliște amplă asupra peisajului din Entebbe.",
+                  "category": "natural",
+                  "coords": [
+                        32.5104,
+                        0.069294
+                  ]
+            },
+            {
+                  "name": "Entebbe Bay",
+                  "text": "Golful Entebbe este o întindere importantă de apă pe Lacul Victoria, mărginind orașul-port cu același nume din Uganda.",
+                  "category": "landmark",
+                  "coords": [
+                        32.492157,
+                        0.070636
+                  ]
+            },
+            {
+                  "name": "Destroyed Buildings",
+                  "text": "Clădirile distruse din Entebbe stau ca structuri părăsite, mărturii ale dezvoltării urbane trecute din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        32.480032,
+                        0.062299
+                  ]
+            },
+            {
+                  "name": "Missed Call Beach",
+                  "text": "O stațiune balneară cu un nume unic în Entebbe, oferind facilități de agrement chiar pe malul Lacului Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4952,
+                        0.08337
+                  ]
+            },
+            {
+                  "name": "Mount Saint Theresa",
+                  "text": "Monumentul Muntele Sfânta Tereza din Entebbe este un loc comemorativ de importanță istorică și culturală locală.",
+                  "category": "historical",
+                  "coords": [
+                        32.531961,
+                        0.121262
+                  ]
+            },
+            {
+                  "name": "Kisubi Beach",
+                  "text": "Stațiunea Kisubi Beach este o zonă de agrement liniștită de pe Lacul Victoria, ideală pentru relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        32.546019,
+                        0.11341
+                  ]
+            },
+            {
+                  "name": "Nabynoonya Resort Beach",
+                  "text": "Nabynoonya Resort Beach oferă porțiuni de nisip și cazare pe țărmurile pitorești ale Lacului Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.547164,
+                        0.108038
+                  ]
+            },
+            {
+                  "name": "Kasenyi beach",
+                  "text": "Plaja Kasenyi din apropiere de Entebbe este un loc plin de viață, adesea frecventat de pescari și de cei care caută relaxare pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        32.517149,
+                        0.053932
+                  ]
+            },
+            {
+                  "name": "Entebbe Botanical Gardens",
+                  "text": "Înființată în 1898, Grădina Botanică din Entebbe găzduiește o mare varietate de plante tropicale, păsări și maimuțe pe malul nordic al Lacului Victoria.",
+                  "category": "park",
+                  "coords": [
+                        32.478723,
+                        0.062621
+                  ]
+            },
+            {
+                  "name": "UWEC - Entebbe Zoo Beach",
+                  "text": "Situată la marginea Grădinii Zoologice din Entebbe (UWEC), această plajă combină priveliștile lacului cu apropierea de sanctuarul pentru animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        32.47827,
+                        0.052219
+                  ]
+            },
+            {
+                  "name": "SSese Gateway Beach",
+                  "text": "O plajă cunoscută din Entebbe, care servește adesea ca punct de întâlnire sau punct de plecare pentru călătoriile către insulele Ssese din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488025,
+                        0.08763
+                  ]
+            },
+            {
+                  "name": "Garuga Resort Beach Hotel",
+                  "text": "Un hotel situat pe plajă în Garuga, oferind oaspeților cazare și facilități de relaxare chiar la marginea Lacului Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.552418,
+                        0.041606
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Conservation Education Centre (UWEC)",
+                  "text": "UWEC din Entebbe servește drept grădina zoologică centrală și centru de salvare al Ugandei, îngrijind animale autohtone salvate în incinte semi-naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        32.475973,
+                        0.052581
+                  ]
+            },
+            {
+                  "name": "Uganda Reptile Village - Snake Park",
+                  "text": "Acest parc de șerpi din Entebbe este dedicat educării și conservării diverselor specii de reptile din Uganda, inclusiv mamba și pitoni.",
+                  "category": "recreational",
+                  "coords": [
+                        32.474364,
+                        0.105777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omutaka Kasiga rruins - Mamba Enangiira clan",
+                  "text": "These historic ruins in the Entebbe region are linked to the Mamba Enangiira clan, serving as a testament to local cultural history.",
+                  "category": "historical",
+                  "coords": [
+                        32.522955,
+                        0.059432
+                  ]
+            },
+            {
+                  "name": "Kisembi Road",
+                  "text": "A viewpoint situated along Kisembi Road providing sweeping views across the Entebbe landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.5104,
+                        0.069294
+                  ]
+            },
+            {
+                  "name": "Entebbe Bay",
+                  "text": "Entebbe Bay is a significant inlet on Lake Victoria, bordering the Ugandan port city of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        32.492157,
+                        0.070636
+                  ]
+            },
+            {
+                  "name": "Destroyed Buildings",
+                  "text": "The destroyed buildings in Entebbe stand as derelict structures hinting at past urban developments in the region.",
+                  "category": "historical",
+                  "coords": [
+                        32.480032,
+                        0.062299
+                  ]
+            },
+            {
+                  "name": "Missed Call Beach",
+                  "text": "A uniquely named beach resort in Entebbe offering leisure facilities right on the shore of Lake Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4952,
+                        0.08337
+                  ]
+            },
+            {
+                  "name": "Mount Saint Theresa",
+                  "text": "The Mount Saint Theresa monument in Entebbe is a commemorative site of local historical and cultural significance.",
+                  "category": "historical",
+                  "coords": [
+                        32.531961,
+                        0.121262
+                  ]
+            },
+            {
+                  "name": "Kisubi Beach",
+                  "text": "Kisubi Beach resort is a tranquil recreation area on Lake Victoria, ideal for waterfront relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        32.546019,
+                        0.11341
+                  ]
+            },
+            {
+                  "name": "Nabynoonya Resort Beach",
+                  "text": "Nabynoonya Resort Beach offers sandy stretches and accommodations on the scenic shores of Lake Victoria.",
+                  "category": "recreational",
+                  "coords": [
+                        32.547164,
+                        0.108038
+                  ]
+            },
+            {
+                  "name": "Kasenyi beach",
+                  "text": "Kasenyi beach near Entebbe is a bustling spot frequently visited by fishermen and lakeside leisure seekers.",
+                  "category": "recreational",
+                  "coords": [
+                        32.517149,
+                        0.053932
+                  ]
+            },
+            {
+                  "name": "Entebbe Botanical Gardens",
+                  "text": "Established in 1898, the Entebbe Botanical Gardens host a huge variety of tropical plants, birds, and monkeys on the northern shores of Lake Victoria.",
+                  "category": "park",
+                  "coords": [
+                        32.478723,
+                        0.062621
+                  ]
+            },
+            {
+                  "name": "UWEC - Entebbe Zoo Beach",
+                  "text": "Situated at the edge of the Entebbe Zoo (UWEC), this beach combines lake views with proximity to the wildlife sanctuary.",
+                  "category": "recreational",
+                  "coords": [
+                        32.47827,
+                        0.052219
+                  ]
+            },
+            {
+                  "name": "SSese Gateway Beach",
+                  "text": "A well-known beach in Entebbe that often serves as a gathering spot or a departure point towards the nearby Ssese Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        32.488025,
+                        0.08763
+                  ]
+            },
+            {
+                  "name": "Garuga Resort Beach Hotel",
+                  "text": "A beachfront hotel located in Garuga, providing guests with accommodations and leisure right on the edge of Lake Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.552418,
+                        0.041606
+                  ]
+            },
+            {
+                  "name": "Uganda Wildlife Conservation Education Centre (UWEC)",
+                  "text": "The UWEC in Entebbe serves as Uganda's central zoo and rescue center, caring for rescued indigenous animals in semi-natural enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        32.475973,
+                        0.052581
+                  ]
+            },
+            {
+                  "name": "Uganda Reptile Village - Snake Park",
+                  "text": "This snake park in Entebbe is dedicated to education and conservation regarding Uganda's diverse reptile species, including mambas and pythons.",
+                  "category": "recreational",
+                  "coords": [
+                        32.474364,
+                        0.105777
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "UG-112",
     coords: [32.4833, 0.05],
@@ -1731,7 +2586,88 @@ export const poiExtraUgandaEconomicV2: POI[] = [
     },
   },
   {
-    id: "majanji-port-economic-v2",
+    id: "majanji-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nebolola",
+                  "text": "Der felsige Gipfel des Nebolola erhebt sich am Ufer des Viktoriasees und bietet einen weiten Blick über die Küstenebenen von Majanji.",
+                  "category": "natural",
+                  "coords": [
+                        34.018889,
+                        0.314719
+                  ]
+            },
+            {
+                  "name": "Sangola Sand Beach",
+                  "text": "Dieser Sandstrand am Viktoriasee in der Nähe des Hafens von Majanji ist ein beliebtes Erholungsgebiet zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990027,
+                        0.240472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nebolola",
+                  "text": "A Viktória-tó partján magasodó Nebolola sziklás csúcsa pazar kilátást nyújt a majanji tengerparti síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        34.018889,
+                        0.314719
+                  ]
+            },
+            {
+                  "name": "Sangola Sand Beach",
+                  "text": "A Majanji kikötő közelében, a Viktória-tó mentén húzódó homokos partszakasz az úszni vágyók népszerű rekreációs helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990027,
+                        0.240472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nebolola",
+                  "text": "Ridicându-se pe malurile Lacului Victoria, vârful stâncos Nebolola oferă vederi ample asupra câmpiilor de coastă Majanji.",
+                  "category": "natural",
+                  "coords": [
+                        34.018889,
+                        0.314719
+                  ]
+            },
+            {
+                  "name": "Sangola Sand Beach",
+                  "text": "Situat în apropierea portului Majanji, acest țărm nisipos de-a lungul Lacului Victoria este un loc de agrement popular pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990027,
+                        0.240472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nebolola",
+                  "text": "Rising near the shores of Lake Victoria, the rocky peak of Nebolola offers sweeping views over the surrounding Majanji coastal plains.",
+                  "category": "natural",
+                  "coords": [
+                        34.018889,
+                        0.314719
+                  ]
+            },
+            {
+                  "name": "Sangola Sand Beach",
+                  "text": "Situated near Majanji Port, this sandy shoreline along Lake Victoria is a popular recreational spot for lakeside swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990027,
+                        0.240472
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "UG-201",
     coords: [33.9833, 0.2333],

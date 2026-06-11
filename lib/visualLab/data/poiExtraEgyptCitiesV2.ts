@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraEgyptCitiesV2: POI[] = [
   {
-    id: "cairo-cities-v2",
+    id: "cairo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasr El Dobara Evangelical Church",
+                  "text": "Die größte protestantische Kirche in Ägypten und im Nahen Osten, in der Nähe des Tahrir-Platzes gelegen.",
+                  "category": "religious",
+                  "coords": [
+                        31.234784,
+                        30.042078
+                  ]
+            },
+            {
+                  "name": "Omar Makram mosque",
+                  "text": "Diese von dem Architekten Mario Rossi entworfene Moschee dient als markantes Gotteshaus der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        31.233991,
+                        30.043201
+                  ]
+            },
+            {
+                  "name": "El Tahrir Square",
+                  "text": "Dieser große öffentliche Platz dient als zentrale Parkanlage im Herzen der ägyptischen Hauptstadt.",
+                  "category": "park",
+                  "coords": [
+                        31.235746,
+                        30.044416
+                  ]
+            },
+            {
+                  "name": "Armenian Catholic Cathedral of Annunciation",
+                  "text": "Diese 1926 geweihte Kathedrale ist ein zentrales Gotteshaus der armenisch-katholischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        31.239546,
+                        30.046796
+                  ]
+            },
+            {
+                  "name": "Falaki Theater",
+                  "text": "Diese Theaterbühne ist ein kultureller Veranstaltungsort, der den darstellenden Künsten und dramatischen Produktionen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        31.239017,
+                        30.04412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasr El Dobara Evangelical Church",
+                  "text": "Egyiptom és a Közel-Kelet legnagyobb protestáns temploma a Tahrír tér közelében.",
+                  "category": "religious",
+                  "coords": [
+                        31.234784,
+                        30.042078
+                  ]
+            },
+            {
+                  "name": "Omar Makram mosque",
+                  "text": "Ezt a mecsetet Mario Rossi építész tervezte, és a város egyik kiemelkedő istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        31.233991,
+                        30.043201
+                  ]
+            },
+            {
+                  "name": "El Tahrir Square",
+                  "text": "Ez a nagy közterület központi parkként szolgál az egyiptomi főváros szívében.",
+                  "category": "park",
+                  "coords": [
+                        31.235746,
+                        30.044416
+                  ]
+            },
+            {
+                  "name": "Armenian Catholic Cathedral of Annunciation",
+                  "text": "Az 1926-ban felszentelt katedrális az örmény katolikus közösség központi istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        31.239546,
+                        30.046796
+                  ]
+            },
+            {
+                  "name": "Falaki Theater",
+                  "text": "Ez a színházi színpad az élő előadóművészetnek és a drámai produkcióknak szentelt kulturális helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        31.239017,
+                        30.04412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasr El Dobara Evangelical Church",
+                  "text": "Cea mai mare biserică protestantă din Egipt și Orientul Mijlociu, situată lângă Piața Tahrir.",
+                  "category": "religious",
+                  "coords": [
+                        31.234784,
+                        30.042078
+                  ]
+            },
+            {
+                  "name": "Omar Makram mosque",
+                  "text": "Proiectată de arhitectul Mario Rossi, această moschee servește drept un important lăcaș de cult în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        31.233991,
+                        30.043201
+                  ]
+            },
+            {
+                  "name": "El Tahrir Square",
+                  "text": "Această piață publică majoră servește ca zonă de parc central în inima capitalei egiptene.",
+                  "category": "park",
+                  "coords": [
+                        31.235746,
+                        30.044416
+                  ]
+            },
+            {
+                  "name": "Armenian Catholic Cathedral of Annunciation",
+                  "text": "Sfințită în 1926, această catedrală este un lăcaș de cult central pentru comunitatea armeană catolică.",
+                  "category": "religious",
+                  "coords": [
+                        31.239546,
+                        30.046796
+                  ]
+            },
+            {
+                  "name": "Falaki Theater",
+                  "text": "Această scenă de teatru este un loc cultural dedicat artelor spectacolului live și producțiilor dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        31.239017,
+                        30.04412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasr El Dobara Evangelical Church",
+                  "text": "The largest Protestant church in Egypt and the Middle East, located near Tahrir Square.",
+                  "category": "religious",
+                  "coords": [
+                        31.234784,
+                        30.042078
+                  ]
+            },
+            {
+                  "name": "Omar Makram mosque",
+                  "text": "Designed by architect Mario Rossi, this mosque serves as a prominent place of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        31.233991,
+                        30.043201
+                  ]
+            },
+            {
+                  "name": "El Tahrir Square",
+                  "text": "This major public square serves as a central park area in the heart of the Egyptian capital.",
+                  "category": "park",
+                  "coords": [
+                        31.235746,
+                        30.044416
+                  ]
+            },
+            {
+                  "name": "Armenian Catholic Cathedral of Annunciation",
+                  "text": "Consecrated in 1926, this cathedral is a central place of worship for the Armenian Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        31.239546,
+                        30.046796
+                  ]
+            },
+            {
+                  "name": "Falaki Theater",
+                  "text": "This theatre stage is a cultural venue dedicated to live performing arts and dramatic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        31.239017,
+                        30.04412
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "EG-C",
     coords: [31.2357, 30.0444],
@@ -59,7 +248,88 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ro: ["Un important oraș portuar la Marea Mediterană, faimos pentru istoria sa antică.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."]
     }, image: "/poi-images/alexandria-cities-v2.webp"},
   {
-    id: "giza-cities-v2",
+    id: "giza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mogamma Nasr El Din",
+                  "text": "Ein markanter städtischer oder monumentaler Komplex in Gizeh.",
+                  "category": "historical",
+                  "coords": [
+                        31.205376,
+                        30.011417
+                  ]
+            },
+            {
+                  "name": "Giza Zoo",
+                  "text": "Der älteste zoologische Garten Ägyptens, der sich über ein historisch angelegtes Gelände in der Nähe des Nils erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        31.214122,
+                        30.023953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mogamma Nasr El Din",
+                  "text": "Kiemelkedő polgári vagy monumentális épületegyüttes Gízában.",
+                  "category": "historical",
+                  "coords": [
+                        31.205376,
+                        30.011417
+                  ]
+            },
+            {
+                  "name": "Giza Zoo",
+                  "text": "Egyiptom legrégebbi állatkertje, amely történelmileg parkosított területen terül el a Nílus közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        31.214122,
+                        30.023953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mogamma Nasr El Din",
+                  "text": "Un complex civic sau monumental proeminent situat în Giza.",
+                  "category": "historical",
+                  "coords": [
+                        31.205376,
+                        30.011417
+                  ]
+            },
+            {
+                  "name": "Giza Zoo",
+                  "text": "Cea mai veche grădină zoologică din Egipt, care se întinde pe un teren amenajat istoric, lângă Nil.",
+                  "category": "recreational",
+                  "coords": [
+                        31.214122,
+                        30.023953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mogamma Nasr El Din",
+                  "text": "A prominent civic or monumental complex situated in Giza.",
+                  "category": "historical",
+                  "coords": [
+                        31.205376,
+                        30.011417
+                  ]
+            },
+            {
+                  "name": "Giza Zoo",
+                  "text": "Egypt's oldest zoological garden, sprawling across historically landscaped grounds near the Nile.",
+                  "category": "recreational",
+                  "coords": [
+                        31.214122,
+                        30.023953
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-GZ",
     coords: [31.2089, 30.0131],
@@ -94,7 +364,88 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Gizeh compte une population estimée à plus de 9 millions d'habitants.", "La pyramide de Khéops fut la plus haute structure au monde pendant plus de 3 800 ans.", "Le Grand Sphinx de Gizeh mesure environ 73 mètres de long et 20 mètres de haut.", "Gizeh se situe à environ 20 kilomètres au sud-ouest du centre-ville du Caire.", "L'Université du Caire à Gizeh a été fondée en 1908.", "Le plateau de Gizeh est inscrit au patrimoine mondial de l'UNESCO depuis 1979."],
     }, image: "/poi-images/giza-cities-v2.webp"},
   {
-    id: "shubra-el-kheima-cities-v2",
+    id: "shubra-el-kheima-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ashraf",
+                  "text": "Ashraf ist ein lokaler Anziehungspunkt inmitten des geschäftigen städtischen Umfelds von Shubra El-Kheima.",
+                  "category": "landmark",
+                  "coords": [
+                        31.274165,
+                        30.129498
+                  ]
+            },
+            {
+                  "name": "Muhammed Ali Palace",
+                  "text": "Der Muhammad-Ali-Palast in Shubra El-Kheima besticht durch seine osmanisch geprägte Architektur mit weitläufigen Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        31.245238,
+                        30.115134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ashraf",
+                  "text": "Ashraf egy jellegzetes helyi látványosság Shubra El-Kheima nyüzsgő városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.274165,
+                        30.129498
+                  ]
+            },
+            {
+                  "name": "Muhammed Ali Palace",
+                  "text": "A Muhammad Ali Palota Shubra El-Kheima városában lenyűgöző, oszmán stílusú építészettel és kiterjedt kertekkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.245238,
+                        30.115134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ashraf",
+                  "text": "Ashraf este un punct de atracție local situat în mediul urban aglomerat din Shubra El-Kheima.",
+                  "category": "landmark",
+                  "coords": [
+                        31.274165,
+                        30.129498
+                  ]
+            },
+            {
+                  "name": "Muhammed Ali Palace",
+                  "text": "Palatul Muhammad Ali din Shubra El-Kheima prezintă o arhitectură impresionantă de influență otomană, cu grădini extinse.",
+                  "category": "landmark",
+                  "coords": [
+                        31.245238,
+                        30.115134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ashraf",
+                  "text": "Ashraf is a local point of interest situated in the bustling urban setting of Shubra El-Kheima.",
+                  "category": "landmark",
+                  "coords": [
+                        31.274165,
+                        30.129498
+                  ]
+            },
+            {
+                  "name": "Muhammed Ali Palace",
+                  "text": "The Muhammed Ali Palace in Shubra El-Kheima showcases impressive Ottoman-influenced architecture set amidst expansive historical gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        31.245238,
+                        30.115134
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-QTB",
     coords: [31.2461, 30.1286],
@@ -620,7 +971,88 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["La ville abrite l'une des plus grandes usines textiles au monde.", "El Mahalla El Kubra compte une population de plus de 550 000 habitants.", "La Misr Spinning and Weaving Company a été fondée en 1927.", "La ville se situe à environ 110 kilomètres au nord du Caire.", "Le club de football local Ghazl El Mahalla a remporté le championnat d'Égypte en 1973.", "La région est un centre majeur pour la transformation du coton égyptien à fibres longues."],
     }, image: "/poi-images/el-mahalla-el-kubra-cities-v2.webp"},
   {
-    id: "tanta-cities-v2",
+    id: "tanta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Andalus Garden",
+                  "text": "Der Al-Andalus Garden ist ein städtischer zoologischer Park, der eine grüne Oase zur Beobachtung lokaler und exotischer Tiergehege bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        30.999198,
+                        30.797452
+                  ]
+            },
+            {
+                  "name": "Maqam Sidi Ahmed Al-Badawy",
+                  "text": "Der Maqam Sidi Ahmed Al-Badawy ist ein wichtiges islamisches Heiligtum, in dem sich das Grab des verehrten Sufi-Heiligen aus dem 13. Jahrhundert befindet.",
+                  "category": "religious",
+                  "coords": [
+                        30.999096,
+                        30.783917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Andalus Garden",
+                  "text": "Az Al-Andalus kert egy városi állatkert, amely zöld oázist biztosít a helyi és egzotikus állatok kifutóinak megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        30.999198,
+                        30.797452
+                  ]
+            },
+            {
+                  "name": "Maqam Sidi Ahmed Al-Badawy",
+                  "text": "A Maqam Sidi Ahmed Al-Badawy egy fontos iszlám szentély, amely a nagyra becsült 13. századi szúfi szent sírját őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        30.999096,
+                        30.783917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Andalus Garden",
+                  "text": "Grădina Al-Andalus este un parc zoologic urban care oferă o oază verde pentru observarea incintelor cu animale locale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        30.999198,
+                        30.797452
+                  ]
+            },
+            {
+                  "name": "Maqam Sidi Ahmed Al-Badawy",
+                  "text": "Maqam Sidi Ahmed Al-Badawy este un sanctuar islamic important care găzduiește mormântul veneratului sfânt sufit din secolul al XIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        30.999096,
+                        30.783917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Andalus Garden",
+                  "text": "Al-Andalus Garden is an urban zoological park providing a green oasis for observing local and exotic animal enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        30.999198,
+                        30.797452
+                  ]
+            },
+            {
+                  "name": "Maqam Sidi Ahmed Al-Badawy",
+                  "text": "Maqam Sidi Ahmed Al-Badawy is an important Islamic sanctuary housing the tomb of the revered 13th-century Sufi saint.",
+                  "category": "religious",
+                  "coords": [
+                        30.999096,
+                        30.783917
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-GH",
     coords: [30.9957, 30.7865],
@@ -1219,7 +1651,196 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Fayoum est considérée comme l'une des plus anciennes villes habitées en continu au monde.", "La ville est située à environ 23 mètres sous le niveau de la mer.", "Sept roues à eau historiques servent d'emblème à la ville.", "Le lac Qaroun est le troisième plus grand lac d'Égypte.", "La pyramide de Hawara d'Amenemhat III se trouve à proximité.", "Fayoum compte une population d'environ 350 000 habitants."],
     }, image: "/poi-images/faiyum-cities-v2.webp"},
   {
-    id: "zagazig-cities-v2",
+    id: "zagazig-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zag arrive point",
+                  "text": "Der Ankunftspunkt Zag ist ein zentraler Treffpunkt und eine lokale Attraktion in Zagazig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.501786,
+                        30.583336
+                  ]
+            },
+            {
+                  "name": "Zag home",
+                  "text": "Zag home ist ein charakteristisches Wohngebiet und lokales Wahrzeichen in Zagazig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.494935,
+                        30.584223
+                  ]
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "Der Kulturpalast in Zagazig ist ein festungsähnliches Gebäude, das der Förderung lokaler Künste dient.",
+                  "category": "castle",
+                  "coords": [
+                        31.497993,
+                        30.584294
+                  ]
+            },
+            {
+                  "name": "Tell-Basta",
+                  "text": "Die antike Stadt Bubastis in Zagazig war das Zentrum des Kultes der Katzengöttin Bastet.",
+                  "category": "historical",
+                  "coords": [
+                        31.51206,
+                        30.572062
+                  ]
+            },
+            {
+                  "name": "Al-Fath Mosque",
+                  "text": "Die Al-Fath-Moschee in Zagazig ist ein eindrucksvolles Zentrum islamischer Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        31.491021,
+                        30.586688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zag arrive point",
+                  "text": "A Zag érkezési pont egy forgalmas helyi találkozóhely Zagazig városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.501786,
+                        30.583336
+                  ]
+            },
+            {
+                  "name": "Zag home",
+                  "text": "A Zag home egy helyi jellegzetesség és lakóövezeti látványosság Zagazigban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.494935,
+                        30.584223
+                  ]
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "A zagazigi Kultúrpalota egy kastélyszerű épület, amely a helyi művészeteket hivatott támogatni.",
+                  "category": "castle",
+                  "coords": [
+                        31.497993,
+                        30.584294
+                  ]
+            },
+            {
+                  "name": "Tell-Basta",
+                  "text": "Bubastis ősi városának romjai Zagazigban Básztet macskaistennő kultuszának egykori központját rejtik.",
+                  "category": "historical",
+                  "coords": [
+                        31.51206,
+                        30.572062
+                  ]
+            },
+            {
+                  "name": "Al-Fath Mosque",
+                  "text": "Az Al-Fath mecset egy lenyűgöző iszlám istentiszteleti hely Zagazig városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.491021,
+                        30.586688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zag arrive point",
+                  "text": "Punctul de sosire Zag este un reper local aglomerat din orașul Zagazig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.501786,
+                        30.583336
+                  ]
+            },
+            {
+                  "name": "Zag home",
+                  "text": "Zag home este o atracție locală și un punct de interes rezidențial în Zagazig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.494935,
+                        30.584223
+                  ]
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "Palatul Culturii din Zagazig este o clădire impunătoare asemănătoare unui castel, dedicată evenimentelor culturale.",
+                  "category": "castle",
+                  "coords": [
+                        31.497993,
+                        30.584294
+                  ]
+            },
+            {
+                  "name": "Tell-Basta",
+                  "text": "Situl arheologic Bubastis din Zagazig adăpostește ruinele vechiului centru al cultului zeiței egiptene Bastet.",
+                  "category": "historical",
+                  "coords": [
+                        31.51206,
+                        30.572062
+                  ]
+            },
+            {
+                  "name": "Al-Fath Mosque",
+                  "text": "Moscheea Al-Fath din Zagazig este un punct de reper important pentru rugăciune și comunitatea islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        31.491021,
+                        30.586688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zag arrive point",
+                  "text": "Zag arrive point is a bustling local landmark and meeting place within the urban landscape of Zagazig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.501786,
+                        30.583336
+                  ]
+            },
+            {
+                  "name": "Zag home",
+                  "text": "Zag home stands as a distinctive local point of interest in the residential fabric of Zagazig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.494935,
+                        30.584223
+                  ]
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "The Palace of Culture in Zagazig is a castle-like architectural structure dedicated to fostering local arts and events.",
+                  "category": "castle",
+                  "coords": [
+                        31.497993,
+                        30.584294
+                  ]
+            },
+            {
+                  "name": "Bubastis",
+                  "text": "The archaeological site of Bubastis in Zagazig contains the ruined temples of the ancient feline goddess Bastet.",
+                  "category": "historical",
+                  "coords": [
+                        31.51206,
+                        30.572062
+                  ]
+            },
+            {
+                  "name": "Al-Fath Mosque",
+                  "text": "The Al-Fath Mosque serves as a prominent and architecturally striking center for Islamic worship in Zagazig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.491021,
+                        30.586688
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-SHR",
     coords: [31.5021, 30.5877],
@@ -1334,7 +1955,124 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["La ville a été occupée par le roi Louis IX de France lors de la Septième croisade en 1249.", "Le port moderne de Damiette a été inauguré en 1986 pour désengorger le port d'Alexandrie.", "Damiette abrite la deuxième plus ancienne mosquée d'Égypte, fondée en 642 après J.-C.", "Environ 70 % de la production de meubles égyptienne provient des ateliers de Damiette.", "La ville se situe à environ 15 kilomètres au sud de l'embouchure de la branche de Damiette dans la Méditerranée.", "Damiette est un centre majeur pour la production de gaz naturel liquéfié (GNL) avec des terminaux d'exportation."],
     }, image: "/poi-images/damietta-cities-v2.webp"},
   {
-    id: "aswan-cities-v2",
+    id: "aswan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aswan Culture House",
+                  "text": "Dieses lokale Kunstzentrum veranstaltet regelmäßig traditionelle nubische Folkloreaufführungen und kulturelle Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        32.897187,
+                        24.094028
+                  ]
+            },
+            {
+                  "name": "Sharia as-Souq",
+                  "text": "Dieser belebte lokale Souk ist berühmt für seine bunten Stände, an denen duftende Gewürze, Parfums und traditionelles nubisches Kunsthandwerk verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        32.901172,
+                        24.097844
+                  ]
+            },
+            {
+                  "name": "Al-Tabia Mosque",
+                  "text": "Diese auf einem markanten Hügel der Stadt erbaute Moschee ist an ihren beiden markanten, hohen Minaretten leicht zu erkennen.",
+                  "category": "religious",
+                  "coords": [
+                        32.899827,
+                        24.08902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aswan Culture House",
+                  "text": "Ez a helyi művészeti központ gyakran ad otthont hagyományos núbiai folklórelőadásoknak és kulturális kiállításoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        32.897187,
+                        24.094028
+                  ]
+            },
+            {
+                  "name": "Sharia as-Souq",
+                  "text": "Ez a nyüzsgő helyi piac élénk standjairól híres, ahol illatos fűszereket, parfümöket és hagyományos núbiai kézműves termékeket árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.901172,
+                        24.097844
+                  ]
+            },
+            {
+                  "name": "Al-Tabia Mosque",
+                  "text": "A város egyik kiemelkedő dombjára épült mecset két jellegzetes, magas minaretjéről könnyen felismerhető.",
+                  "category": "religious",
+                  "coords": [
+                        32.899827,
+                        24.08902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aswan Culture House",
+                  "text": "Acest centru de arte local găzduiește frecvent spectacole de folclor tradițional nubian și expoziții culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.897187,
+                        24.094028
+                  ]
+            },
+            {
+                  "name": "Sharia as-Souq",
+                  "text": "Acest souk local plin de viață este renumit pentru tarabele sale vibrante care vând condimente parfumate, parfumuri și meșteșuguri tradiționale nubiene.",
+                  "category": "landmark",
+                  "coords": [
+                        32.901172,
+                        24.097844
+                  ]
+            },
+            {
+                  "name": "Al-Tabia Mosque",
+                  "text": "Construită pe un deal proeminent din oraș, această moschee este ușor de recunoscut datorită celor două minarete înalte și izbitoare ale sale.",
+                  "category": "religious",
+                  "coords": [
+                        32.899827,
+                        24.08902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aswan Culture House",
+                  "text": "This local arts center frequently hosts traditional Nubian folk performances and cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        32.897187,
+                        24.094028
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "This bustling local souq is famous for its vibrant stalls selling fragrant spices, perfumes, and traditional Nubian crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        32.901172,
+                        24.097844
+                  ]
+            },
+            {
+                  "name": "Al-Tabia Mosque",
+                  "text": "Built on a prominent hill in the city, this mosque is easily recognizable by its two tall, striking minarets.",
+                  "category": "religious",
+                  "coords": [
+                        32.899827,
+                        24.08902
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-ASN",
     coords: [32.8998, 24.0889],
@@ -1369,7 +2107,160 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Le Haut Barrage d'Assouan a une longueur de 3 830 mètres et une hauteur de 111 mètres.", "L'Obélisque inachevé aurait mesuré environ 42 mètres de haut et pesé 1 168 tonnes s'il avait été terminé.", "Le temple de Philae a été déplacé entre 1972 et 1980 lors d'une opération de sauvetage internationale de l'UNESCO.", "Assouan est considérée comme l'une des villes habitées les plus sèches au monde ; la pluie y est rare.", "L'île Éléphantine était dans l'Antiquité un centre de culte du dieu Khnoum à tête de bélier.", "Le légendaire Old Cataract Hotel à Assouan est l'endroit où Agatha Christie a écrit 'Mort sur le Nil'."],
     }, image: "/poi-images/aswan-cities-v2.webp"},
   {
-    id: "minya-cities-v2",
+    id: "minya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman Theater",
+                  "text": "Die halbkreisförmigen Steinsitzreihen eines antiken römischen Theaters, das in der Region Minya entdeckt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        30.766788,
+                        28.089573
+                  ]
+            },
+            {
+                  "name": "othman ibn affan mosque",
+                  "text": "Eine islamische Moschee in Minya, die nach dem dritten Kalifen Othman ibn Affan benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        30.742632,
+                        28.124954
+                  ]
+            },
+            {
+                  "name": "AL NOOR MOSQUUE",
+                  "text": "Eine lokale islamische Moschee, die als Versammlungs- und Gebetsort für die Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        30.746279,
+                        28.127282
+                  ]
+            },
+            {
+                  "name": "Echnaton Museum",
+                  "text": "Ein bedeutendes Museum, das der Geschichte des Pharaos Echnaton und den Ausgrabungen seiner Hauptstadt in Amarna gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.770067,
+                        28.094954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman Theater",
+                  "text": "Egy Minja régióban felfedezett ókori római színház félköríves kőülései.",
+                  "category": "cultural",
+                  "coords": [
+                        30.766788,
+                        28.089573
+                  ]
+            },
+            {
+                  "name": "othman ibn affan mosque",
+                  "text": "Egy iszlám mecset Minjában, amelyet a harmadik kalifáról, Oszmán ibn Affánról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        30.742632,
+                        28.124954
+                  ]
+            },
+            {
+                  "name": "AL NOOR MOSQUUE",
+                  "text": "Egy helyi iszlám mecset, amely a közösség gyülekezési és imádkozási helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        30.746279,
+                        28.127282
+                  ]
+            },
+            {
+                  "name": "Echnaton Museum",
+                  "text": "Egy kiemelkedő múzeum, amelyet Ehnaton fáraó történetének és amarnai fővárosa ásatásainak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        30.770067,
+                        28.094954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman Theater",
+                  "text": "Treptele semicirculare din piatră ale unui teatru antic roman descoperit în regiunea Minya.",
+                  "category": "cultural",
+                  "coords": [
+                        30.766788,
+                        28.089573
+                  ]
+            },
+            {
+                  "name": "othman ibn affan mosque",
+                  "text": "O moschee islamică din Minya, numită după al treilea calif Othman ibn Affan.",
+                  "category": "religious",
+                  "coords": [
+                        30.742632,
+                        28.124954
+                  ]
+            },
+            {
+                  "name": "AL NOOR MOSQUUE",
+                  "text": "O moschee islamică locală care oferă un loc de adunare și rugăciune pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        30.746279,
+                        28.127282
+                  ]
+            },
+            {
+                  "name": "Echnaton Museum",
+                  "text": "Un muzeu proeminent dedicat istoriei faraonului Akhenaton și excavațiilor capitalei sale de la Amarna.",
+                  "category": "museum",
+                  "coords": [
+                        30.770067,
+                        28.094954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Theater",
+                  "text": "The semi-circular stone seating of an ancient Roman theater discovered in the Minya region.",
+                  "category": "cultural",
+                  "coords": [
+                        30.766788,
+                        28.089573
+                  ]
+            },
+            {
+                  "name": "othman ibn affan mosque",
+                  "text": "An Islamic mosque in Minya, named after the third caliph Othman ibn Affan.",
+                  "category": "religious",
+                  "coords": [
+                        30.742632,
+                        28.124954
+                  ]
+            },
+            {
+                  "name": "AL NOOR MOSQUUE",
+                  "text": "A local Islamic mosque providing a place of congregation and daily prayer for the community.",
+                  "category": "religious",
+                  "coords": [
+                        30.746279,
+                        28.127282
+                  ]
+            },
+            {
+                  "name": "Echnaton Museum",
+                  "text": "A prominent museum dedicated to the history of the pharaoh Akhenaten and the excavations of his capital at Amarna.",
+                  "category": "museum",
+                  "coords": [
+                        30.770067,
+                        28.094954
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-MN",
     coords: [30.7503, 28.1099],
@@ -1404,7 +2295,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Les tombes rupestres de Beni Hassan, à environ 20 km au sud de Minya, datent des XIe et XIIe dynasties.", "Minya abrite l'une des plus longues corniches du Nil en Égypte, s'étendant sur plusieurs kilomètres.", "L'université de Minya a été officiellement fondée en 1976.", "La ville était au début du XXe siècle un centre pour les marchands de coton grecs et italiens.", "Les ruines de Tell el-Amarna se trouvent à environ 58 kilomètres au sud de la ville de Minya.", "La région de Minya abrite certaines des plus grandes carrières de calcaire d'Égypte."],
     }, image: "/poi-images/minya-cities-v2.webp"},
   {
-    id: "damanhur-cities-v2",
+    id: "damanhur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unknown Soldier",
+                  "text": "Das Grabmal des unbekannten Soldaten in Damanhur ehrt die Gefallenen der bewaffneten Konflikte.",
+                  "category": "historical",
+                  "coords": [
+                        30.459772,
+                        31.036721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Unknown Soldier",
+                  "text": "Az Ismeretlen Katona emlékműve Damanhur városában a fegyveres konfliktusokban elesetteknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        30.459772,
+                        31.036721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Unknown Soldier",
+                  "text": "Monumentul Soldatului Necunoscut din Damanhur onorează memoria militarilor căzuți în lupte.",
+                  "category": "historical",
+                  "coords": [
+                        30.459772,
+                        31.036721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Unknown Soldier",
+                  "text": "The Unknown Soldier monument in Damanhur stands as a solemn tribute to fallen military personnel.",
+                  "category": "historical",
+                  "coords": [
+                        30.459772,
+                        31.036721
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-BH",
     coords: [30.4738, 31.0363],

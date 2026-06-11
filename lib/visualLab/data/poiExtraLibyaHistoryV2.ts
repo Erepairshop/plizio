@@ -3,7 +3,412 @@ import type { POI } from "./poi";
 
 export const poiExtraLibyaHistoryV2: POI[] = [
   {
-    id: "ly-leptis-magna-history-v2",
+    id: "ly-leptis-magna-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "Ein antiker römischer Triumphbogen in Leptis Magna, der dem Kaiser Antoninus Pius gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.637649
+                  ]
+            },
+            {
+                  "name": "Tiberius Arch",
+                  "text": "Dieser antike römische Torbogen in Leptis Magna wurde zu Ehren des Kaisers Tiberius errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.291652,
+                        32.637563
+                  ]
+            },
+            {
+                  "name": "Hardian baths",
+                  "text": "Die Ruinen der weitläufigen Thermenanlage des Hadrian in der antiken Stadt Leptis Magna.",
+                  "category": "historical",
+                  "coords": [
+                        14.291462,
+                        32.635059
+                  ]
+            },
+            {
+                  "name": "Arch of Septimius Severus",
+                  "text": "Ein prächtiger römischer Triumphbogen in Leptis Magna, errichtet zu Ehren des dort geborenen Kaisers Septimius Severus.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "Ein Aussichtspunkt in der Nähe der beeindruckenden antiken römischen Ruinen von Leptis Magna.",
+                  "category": "natural",
+                  "coords": [
+                        14.303054,
+                        32.635924
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "Ein bedeutendes römisches Monument in Leptis Magna, das dem Kaiser Mark Aurel gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.286191,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "Dieses Museum beherbergt Artefakte und Statuen, die bei Ausgrabungen im antiken Leptis Magna gefunden wurden.",
+                  "category": "museum",
+                  "coords": [
+                        14.288586,
+                        32.634371
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of Leptis Magna",
+                  "text": "Ein bemerkenswert gut erhaltenes römisches Amphitheater, das in das Gelände von Leptis Magna eingebettet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.309461,
+                        32.632325
+                  ]
+            },
+            {
+                  "name": "Circus of Lepcis Magna",
+                  "text": "Die antiken Ruinen eines riesigen römischen Circus, der in Leptis Magna für Wagenrennen genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        14.310528,
+                        32.633073
+                  ]
+            },
+            {
+                  "name": "Lepcis Magna",
+                  "text": "Eine prominente UNESCO-Welterbestätte mit den weitläufigen und gut erhaltenen Ruinen einer römischen Metropole in Nordafrika.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293388,
+                        32.636991
+                  ]
+            },
+            {
+                  "name": "Temple of Jupiter",
+                  "text": "Die steinernen Überreste eines antiken römischen Tempels, der Jupiter in der Anlage von Leptis Magna gewidmet war.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297497,
+                        32.636877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "Egy ókori római diadalív Leptis Magnában, amelyet Antoninus Pius császárnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.637649
+                  ]
+            },
+            {
+                  "name": "Tiberius Arch",
+                  "text": "Ezt az ókori római kaput Leptis Magnában Tiberius császár tiszteletére emelték.",
+                  "category": "landmark",
+                  "coords": [
+                        14.291652,
+                        32.637563
+                  ]
+            },
+            {
+                  "name": "Hardian baths",
+                  "text": "Hadrianus kiterjedt fürdőkomplexumának romjai az ókori Leptis Magna városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.291462,
+                        32.635059
+                  ]
+            },
+            {
+                  "name": "Arch of Septimius Severus",
+                  "text": "Egy lenyűgöző római diadalív Leptis Magnában, amelyet az ott született Septimius Severus császár tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "Egy kilátópont Leptis Magna lenyűgöző ókori római romjainak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.303054,
+                        32.635924
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "Egy jelentős római emlékmű Leptis Magnában, amelyet Marcus Aurelius császárnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        14.286191,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "Ez a múzeum az ókori Leptis Magna ásatásai során előkerült leleteket és szobrokat őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        14.288586,
+                        32.634371
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of Leptis Magna",
+                  "text": "Egy figyelemre méltóan jól megőrzött római amfiteátrum, amely a Leptis Magna romvárosába illeszkedik.",
+                  "category": "historical",
+                  "coords": [
+                        14.309461,
+                        32.632325
+                  ]
+            },
+            {
+                  "name": "Circus of Lepcis Magna",
+                  "text": "Egy hatalmas római cirkusz ókori romjai, amelyet kocsiversenyekre használtak Leptis Magnában.",
+                  "category": "historical",
+                  "coords": [
+                        14.310528,
+                        32.633073
+                  ]
+            },
+            {
+                  "name": "Lepcis Magna",
+                  "text": "Egy kiemelkedő UNESCO Világörökségi helyszín, amely egy észak-afrikai római metropolisz kiterjedt és jól megőrzött romjait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293388,
+                        32.636991
+                  ]
+            },
+            {
+                  "name": "Temple of Jupiter",
+                  "text": "Egy Jupiternek szentelt ókori római templom kőmaradványai a Leptis Magna komplexumban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297497,
+                        32.636877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "Un arc de triumf antic roman din Leptis Magna, dedicat împăratului Antoninus Pius.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.637649
+                  ]
+            },
+            {
+                  "name": "Tiberius Arch",
+                  "text": "Acest arc roman antic din Leptis Magna a fost ridicat în onoarea împăratului Tiberius.",
+                  "category": "landmark",
+                  "coords": [
+                        14.291652,
+                        32.637563
+                  ]
+            },
+            {
+                  "name": "Hardian baths",
+                  "text": "Ruinele vastului complex de băi al lui Hadrian din orașul antic Leptis Magna.",
+                  "category": "historical",
+                  "coords": [
+                        14.291462,
+                        32.635059
+                  ]
+            },
+            {
+                  "name": "Arch of Septimius Severus",
+                  "text": "Un grandios arc de triumf roman în Leptis Magna, ridicat în onoarea împăratului Septimius Severus, născut aici.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "Un punct de belvedere situat în apropierea impresionantelor ruine romane din Leptis Magna.",
+                  "category": "natural",
+                  "coords": [
+                        14.303054,
+                        32.635924
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "Un monument roman important din Leptis Magna, dedicat împăratului Marcus Aurelius.",
+                  "category": "historical",
+                  "coords": [
+                        14.286191,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "Acest muzeu adăpostește artefacte și statui descoperite în timpul excavațiilor din orașul antic Leptis Magna.",
+                  "category": "museum",
+                  "coords": [
+                        14.288586,
+                        32.634371
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of Leptis Magna",
+                  "text": "Un amfiteatru roman remarcabil de bine conservat, amplasat în situl arheologic Leptis Magna.",
+                  "category": "historical",
+                  "coords": [
+                        14.309461,
+                        32.632325
+                  ]
+            },
+            {
+                  "name": "Circus of Lepcis Magna",
+                  "text": "Ruinele antice ale unui imens circ roman folosit pentru curse de care în Leptis Magna.",
+                  "category": "historical",
+                  "coords": [
+                        14.310528,
+                        32.633073
+                  ]
+            },
+            {
+                  "name": "Lepcis Magna",
+                  "text": "Un sit proeminent al Patrimoniului Mondial UNESCO, care prezintă ruinele vaste și bine conservate ale unei metropole romane din Africa de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293388,
+                        32.636991
+                  ]
+            },
+            {
+                  "name": "Temple of Jupiter",
+                  "text": "Rămășițele de piatră ale unui templu roman antic dedicat lui Jupiter în complexul Leptis Magna.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297497,
+                        32.636877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "An ancient Roman triumphal arch in Leptis Magna dedicated to the Emperor Antoninus Pius.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.637649
+                  ]
+            },
+            {
+                  "name": "Tiberius Arch",
+                  "text": "This ancient Roman archway in Leptis Magna was erected in honor of Emperor Tiberius.",
+                  "category": "landmark",
+                  "coords": [
+                        14.291652,
+                        32.637563
+                  ]
+            },
+            {
+                  "name": "Hardian baths",
+                  "text": "The ruins of the extensive Hadrianic baths complex in the ancient city of Leptis Magna.",
+                  "category": "historical",
+                  "coords": [
+                        14.291462,
+                        32.635059
+                  ]
+            },
+            {
+                  "name": "Arch of Septimius Severus",
+                  "text": "A magnificent Roman triumphal arch in Leptis Magna, erected to honor the locally born Emperor Septimius Severus.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "A viewpoint situated near the impressive ancient Roman ruins of Leptis Magna.",
+                  "category": "natural",
+                  "coords": [
+                        14.303054,
+                        32.635924
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "A significant Roman monument in Leptis Magna dedicated to the Emperor Marcus Aurelius.",
+                  "category": "historical",
+                  "coords": [
+                        14.286191,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "This museum houses artifacts and statues discovered during excavations in ancient Leptis Magna.",
+                  "category": "museum",
+                  "coords": [
+                        14.288586,
+                        32.634371
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of Leptis Magna",
+                  "text": "A remarkably well-preserved Roman amphitheater nestled within the grounds of Leptis Magna.",
+                  "category": "historical",
+                  "coords": [
+                        14.309461,
+                        32.632325
+                  ]
+            },
+            {
+                  "name": "Circus of Lepcis Magna",
+                  "text": "The ancient ruins of a vast Roman circus used for chariot racing at Leptis Magna.",
+                  "category": "historical",
+                  "coords": [
+                        14.310528,
+                        32.633073
+                  ]
+            },
+            {
+                  "name": "Lepcis Magna",
+                  "text": "A prominent UNESCO World Heritage site featuring the extensive and well-preserved ruins of a Roman metropolis in North Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293388,
+                        32.636991
+                  ]
+            },
+            {
+                  "name": "Temple of Jupiter",
+                  "text": "The stone remains of an ancient Roman temple dedicated to Jupiter within the Leptis Magna complex.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297497,
+                        32.636877
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-MB",
     coords: [14.292, 32.638],
@@ -53,7 +458,556 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-sabratha-history-v2",
+    id: "ly-sabratha-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surman Beach resort",
+                  "text": "Ein Küstenresort in der Nähe von Sabratha, das seinen Gästen direkten Zugang zum Mittelmeerstrand bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56426,
+                        32.796229
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Sabratha",
+                  "text": "Die Überreste eines römischen Amphitheaters aus dem späten 2. Jahrhundert in der antiken Stadt Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.494017,
+                        32.803913
+                  ]
+            },
+            {
+                  "name": "Andalusia Traffic",
+                  "text": "Ein Aussichtspunkt in der Nähe von Sabratha, der Ausblicke auf die lokale Landschaft und Verkehrsströme bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.483242,
+                        32.795648
+                  ]
+            },
+            {
+                  "name": "Basílica de Apuleo",
+                  "text": "Die Ruinen einer byzantinischen christlichen Basilika innerhalb der antiken Stätte von Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.481127,
+                        32.806552
+                  ]
+            },
+            {
+                  "name": "Puerta Bizantina",
+                  "text": "Die byzantinischen Toranlagen, die als Teil der historischen Verteidigungsstrukturen von Sabratha dienten.",
+                  "category": "historical",
+                  "coords": [
+                        12.482213,
+                        32.805689
+                  ]
+            },
+            {
+                  "name": "Termas",
+                  "text": "Die Überreste antiker römischer Badeanlagen, die einst zur öffentlichen Erholung in Sabratha genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        12.482465,
+                        32.804692
+                  ]
+            },
+            {
+                  "name": "Museo Romano Sabratha",
+                  "text": "Ein Museum, das bedeutende Fundstücke aus der römischen Epoche der antiken Küstenstadt Sabratha ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.48316,
+                        32.803699
+                  ]
+            },
+            {
+                  "name": "Templo de Hércules",
+                  "text": "Die Überreste eines römischen Tempels in Sabratha, der wahrscheinlich dem Gott Herkules geweiht war.",
+                  "category": "historical",
+                  "coords": [
+                        12.484409,
+                        32.805681
+                  ]
+            },
+            {
+                  "name": "Christian basilica",
+                  "text": "Die Ruinen einer frühchristlichen Basilika, die die byzantinische Präsenz im antiken Sabratha bezeugen.",
+                  "category": "historical",
+                  "coords": [
+                        12.485363,
+                        32.80708
+                  ]
+            },
+            {
+                  "name": "ISIS TEMPLE",
+                  "text": "Die archäologischen Ruinen eines Tempels in Sabratha, der dem Kult der ägyptischen Göttin Isis gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        12.486629,
+                        32.807585
+                  ]
+            },
+            {
+                  "name": "Roman baths",
+                  "text": "Zerfallene römische Thermenanlagen mit noch erkennbaren Heiz- und Wasserleitungssystemen in Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.48212,
+                        32.807459
+                  ]
+            },
+            {
+                  "name": "Sobrata Resort",
+                  "text": "Das Sobrata Resort ist ein weitläufiger Sandstrand an der Mittelmeerküste bei Sabratha.",
+                  "category": "recreational",
+                  "coords": [
+                        12.380702,
+                        32.816047
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sabratha",
+                  "text": "Diese als Weltkulturerbe anerkannte archäologische Stätte umfasst spektakuläre römische Ruinen an der Mittelmeerküste.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487049,
+                        32.805136
+                  ]
+            },
+            {
+                  "name": "Sabratha National Park",
+                  "text": "Der Sabratha-Nationalpark schützt die natürliche Mittelmeerküstenlandschaft und Fauna nahe der historischen Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        12.415517,
+                        32.812077
+                  ]
+            },
+            {
+                  "name": "Sobrata Lighthouse",
+                  "text": "Der Sobrata-Leuchtturm dient der Navigation entlang der nordafrikanischen Mittelmeerküste bei den antiken Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.430124,
+                        32.814151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surman Beach resort",
+                  "text": "Egy tengerparti üdülőhely Sabratha közelében, amely közvetlen hozzáférést biztosít a Földközi-tenger partjához.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56426,
+                        32.796229
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Sabratha",
+                  "text": "Egy késő 2. századi római amfiteátrum maradványai Sabratha ókori városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.494017,
+                        32.803913
+                  ]
+            },
+            {
+                  "name": "Andalusia Traffic",
+                  "text": "Egy kilátó Sabratha közelében, ahonnan kilátás nyílik a helyi tájra és a forgalomra.",
+                  "category": "natural",
+                  "coords": [
+                        12.483242,
+                        32.795648
+                  ]
+            },
+            {
+                  "name": "Basílica de Apuleo",
+                  "text": "Egy bizánci keresztény bazilika romjai Sabratha ókori területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.481127,
+                        32.806552
+                  ]
+            },
+            {
+                  "name": "Puerta Bizantina",
+                  "text": "A bizánci kapuk, amelyek Sabratha történelmi védelmi rendszereinek részeként szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        12.482213,
+                        32.805689
+                  ]
+            },
+            {
+                  "name": "Termas",
+                  "text": "Sabrathában az ókori római fürdők maradványai, amelyeket egykor nyilvános pihenésre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        12.482465,
+                        32.804692
+                  ]
+            },
+            {
+                  "name": "Museo Romano Sabratha",
+                  "text": "Egy múzeum, amely jelentős leleteket állít ki Sabratha ókori tengerparti város római korszakából.",
+                  "category": "museum",
+                  "coords": [
+                        12.48316,
+                        32.803699
+                  ]
+            },
+            {
+                  "name": "Templo de Hércules",
+                  "text": "Egy római templom maradványai Sabrathában, amelyet valószínűleg Herkules istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        12.484409,
+                        32.805681
+                  ]
+            },
+            {
+                  "name": "Christian basilica",
+                  "text": "Egy ókeresztény bazilika romjai, amelyek a bizánci jelenlétről tanúskodnak az ókori Sabrathában.",
+                  "category": "historical",
+                  "coords": [
+                        12.485363,
+                        32.80708
+                  ]
+            },
+            {
+                  "name": "ISIS TEMPLE",
+                  "text": "Egy templom régészeti romjai Sabrathában, amelyet az egyiptomi Ízisz istennő kultuszának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        12.486629,
+                        32.807585
+                  ]
+            },
+            {
+                  "name": "Roman baths",
+                  "text": "Romos római fürdőkomplexumok, amelyeknek fűtési és vízvezeték-rendszere még mindig felismerhető Sabrathában.",
+                  "category": "historical",
+                  "coords": [
+                        12.48212,
+                        32.807459
+                  ]
+            },
+            {
+                  "name": "Sobrata Resort",
+                  "text": "A Sobrata Resort egy homokos tengerparti strand Sabratha mediterrán partvonalán.",
+                  "category": "recreational",
+                  "coords": [
+                        12.380702,
+                        32.816047
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sabratha",
+                  "text": "Ez a világörökségi védelem alatt álló régészeti lelőhely lenyűgöző római romokat rejt a Földközi-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487049,
+                        32.805136
+                  ]
+            },
+            {
+                  "name": "Sabratha National Park",
+                  "text": "A Sabratha Nemzeti Park a történelmi római város melletti mediterrán tengerparti flórát és faunát védi.",
+                  "category": "natural",
+                  "coords": [
+                        12.415517,
+                        32.812077
+                  ]
+            },
+            {
+                  "name": "Sobrata Lighthouse",
+                  "text": "A Sobrata világítótorony az észak-afrikai mediterrán partvidék hajózását segíti a római romok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.430124,
+                        32.814151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surman Beach resort",
+                  "text": "O stațiune de coastă lângă Sabratha, care oferă oaspeților acces direct la plaja mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56426,
+                        32.796229
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Sabratha",
+                  "text": "Rămășițele unui amfiteatru roman de la sfârșitul secolului al II-lea din orașul antic Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.494017,
+                        32.803913
+                  ]
+            },
+            {
+                  "name": "Andalusia Traffic",
+                  "text": "Un punct de observație lângă Sabratha, oferind priveliști asupra peisajului local și a traficului.",
+                  "category": "natural",
+                  "coords": [
+                        12.483242,
+                        32.795648
+                  ]
+            },
+            {
+                  "name": "Basílica de Apuleo",
+                  "text": "Ruinele unei bazilici creștine bizantine aflate în situl antic Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.481127,
+                        32.806552
+                  ]
+            },
+            {
+                  "name": "Puerta Bizantina",
+                  "text": "Porțile bizantine care au servit ca parte a structurilor defensive istorice din Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.482213,
+                        32.805689
+                  ]
+            },
+            {
+                  "name": "Termas",
+                  "text": "Rămășițele unor băi romane antice, folosite odată pentru recreere publică în Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.482465,
+                        32.804692
+                  ]
+            },
+            {
+                  "name": "Museo Romano Sabratha",
+                  "text": "Un muzeu care expune descoperiri semnificative din epoca romană a anticului oraș de coastă Sabratha.",
+                  "category": "museum",
+                  "coords": [
+                        12.48316,
+                        32.803699
+                  ]
+            },
+            {
+                  "name": "Templo de Hércules",
+                  "text": "Rămășițele unui templu roman din Sabratha, probabil dedicat zeului Hercule.",
+                  "category": "historical",
+                  "coords": [
+                        12.484409,
+                        32.805681
+                  ]
+            },
+            {
+                  "name": "Christian basilica",
+                  "text": "Ruinele unei bazilici paleocreștine care atestă prezența bizantină în anticul Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.485363,
+                        32.80708
+                  ]
+            },
+            {
+                  "name": "ISIS TEMPLE",
+                  "text": "Ruinele arheologice ale unui templu din Sabratha dedicat cultului zeiței egiptene Isis.",
+                  "category": "historical",
+                  "coords": [
+                        12.486629,
+                        32.807585
+                  ]
+            },
+            {
+                  "name": "Roman baths",
+                  "text": "Băi termale romane în ruină, cu sisteme de încălzire și conducte de apă încă vizibile în Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.48212,
+                        32.807459
+                  ]
+            },
+            {
+                  "name": "Sobrata Resort",
+                  "text": "Sobrata Resort este o plajă cu nisip situată de-a lungul coastei mediteraneene a orașului Sabratha.",
+                  "category": "recreational",
+                  "coords": [
+                        12.380702,
+                        32.816047
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sabratha",
+                  "text": "Acest sit arheologic, clasat ca patrimoniu, cuprinde ruine romane spectaculoase cu vedere la Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487049,
+                        32.805136
+                  ]
+            },
+            {
+                  "name": "Sabratha National Park",
+                  "text": "Parcul Național Sabratha protejează peisajul de coastă mediteranean și fauna din apropierea orașului antic.",
+                  "category": "natural",
+                  "coords": [
+                        12.415517,
+                        32.812077
+                  ]
+            },
+            {
+                  "name": "Sobrata Lighthouse",
+                  "text": "Farul Sobrata ghidează navigația maritimă de-a lungul coastei mediteraneene nord-africane, aproape de siturile antice.",
+                  "category": "landmark",
+                  "coords": [
+                        12.430124,
+                        32.814151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surman Beach resort",
+                  "text": "A coastal resort near Sabratha offering guests direct access to the Mediterranean beach.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56426,
+                        32.796229
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Sabratha",
+                  "text": "The remains of a late 2nd-century Roman amphitheater located in the ancient city of Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.494017,
+                        32.803913
+                  ]
+            },
+            {
+                  "name": "Andalusia Traffic",
+                  "text": "A viewpoint near Sabratha offering vistas over the local landscape and traffic flow.",
+                  "category": "natural",
+                  "coords": [
+                        12.483242,
+                        32.795648
+                  ]
+            },
+            {
+                  "name": "Basilica of Apuleius",
+                  "text": "The ruins of a Byzantine Christian basilica located within the ancient site of Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.481127,
+                        32.806552
+                  ]
+            },
+            {
+                  "name": "Puerta Bizantina",
+                  "text": "The Byzantine gates that served as part of the historical defensive structures of Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.482213,
+                        32.805689
+                  ]
+            },
+            {
+                  "name": "Baths",
+                  "text": "The remains of ancient Roman bathing complexes once used for public recreation in Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.482465,
+                        32.804692
+                  ]
+            },
+            {
+                  "name": "Museo Romano Sabratha",
+                  "text": "A museum displaying significant artifacts from the Roman era of the ancient coastal city of Sabratha.",
+                  "category": "museum",
+                  "coords": [
+                        12.48316,
+                        32.803699
+                  ]
+            },
+            {
+                  "name": "Templo de Hércules",
+                  "text": "The remains of a Roman temple in Sabratha likely dedicated to the god Hercules.",
+                  "category": "historical",
+                  "coords": [
+                        12.484409,
+                        32.805681
+                  ]
+            },
+            {
+                  "name": "Christian basilica",
+                  "text": "The ruins of an early Christian basilica attesting to the Byzantine presence in ancient Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.485363,
+                        32.80708
+                  ]
+            },
+            {
+                  "name": "ISIS TEMPLE",
+                  "text": "The archaeological ruins of a temple in Sabratha dedicated to the cult of the Egyptian goddess Isis.",
+                  "category": "historical",
+                  "coords": [
+                        12.486629,
+                        32.807585
+                  ]
+            },
+            {
+                  "name": "Roman baths",
+                  "text": "Ruined Roman thermal bath complexes with still-visible heating and plumbing systems in Sabratha.",
+                  "category": "historical",
+                  "coords": [
+                        12.48212,
+                        32.807459
+                  ]
+            },
+            {
+                  "name": "Sobrata Resort",
+                  "text": "Sobrata Resort is a sandy Mediterranean beach stretching along the coast near Sabratha.",
+                  "category": "recreational",
+                  "coords": [
+                        12.380702,
+                        32.816047
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sabratha",
+                  "text": "This heritage-listed archaeological site features spectacular Roman ruins overlooking the Mediterranean coast.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487049,
+                        32.805136
+                  ]
+            },
+            {
+                  "name": "Sabratha National Park",
+                  "text": "Sabratha National Park is a nature reserve protecting the Mediterranean coastal environment near the historic ruins.",
+                  "category": "natural",
+                  "coords": [
+                        12.415517,
+                        32.812077
+                  ]
+            },
+            {
+                  "name": "Sobrata Lighthouse",
+                  "text": "The Sobrata Lighthouse serves as a navigational aid along the North African Mediterranean coast near the ancient city.",
+                  "category": "landmark",
+                  "coords": [
+                        12.430124,
+                        32.814151
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-ZA",
     coords: [12.484, 32.805],
@@ -103,7 +1057,520 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-cyrene-history-v2",
+    id: "ly-cyrene-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hwa ahjiri",
+                  "text": "Eine markante lokale Attraktion in der kulturell reichen Umgebung der antiken Kyrene-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.943457,
+                        32.820481
+                  ]
+            },
+            {
+                  "name": "Corina",
+                  "text": "Ein malerischer Aussichtspunkt mit weitem Blick über die ausgedehnten Ruinen und Landschaften des antiken Kyrene.",
+                  "category": "natural",
+                  "coords": [
+                        21.949844,
+                        32.820127
+                  ]
+            },
+            {
+                  "name": "Shahhat (Cyrene) monuments",
+                  "text": "Ein weitläufiger Komplex aus antiken griechischen und römischen Steindenkmälern, die die historische Stadt Kyrene prägen.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Temple of Apolo",
+                  "text": "Diese antike Ruine in Kyrene ist nach Apollon benannt und war ein wichtiges religiöses Bauwerk.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Diese historischen Ruinen in der Nähe von Kyrene bieten einen Einblick in die antike Architektur der Region.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845268
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "Die verfallene antike Akropolis von Kyrene liegt auf einer Anhöhe und diente einst als Hauptverteidigungsanlage der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Shahhat Museum",
+                  "text": "Dieses Museum im modernen Shahhat beherbergt zahlreiche Artefakte, die in der nahegelegenen antiken griechischen Stadt Kyrene ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "Die monumentalen Ruinen des Zeustempels in Kyrene sind größer als der Parthenon in Athen.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius and Lucius Verus, Cyrene",
+                  "text": "Diese archäologische Stätte verfügt über einen römischen Triumphbogen, der den Kaisern Marcus Aurelius und Lucius Verus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.85584,
+                        32.821054
+                  ]
+            },
+            {
+                  "name": "Apollo sanctuary",
+                  "text": "Das verfallene Apollon-Heiligtum in Kyrene war ein bedeutendes religiöses Zentrum mit mehreren Altären und Tempeln.",
+                  "category": "historical",
+                  "coords": [
+                        21.852532,
+                        32.823629
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "Diese archäologische Stätte umfasst die Überreste eines großen Tempels im Herzen von Kyrene, der Apollon gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        21.851593,
+                        32.823948
+                  ]
+            },
+            {
+                  "name": "House of Hesychios",
+                  "text": "Die antiken Ruinen des Hauses des Hesychios in Kyrene zeigen die Wohnarchitektur jener Epoche.",
+                  "category": "historical",
+                  "coords": [
+                        21.856452,
+                        32.81878
+                  ]
+            },
+            {
+                  "name": "House of Jason Magnus",
+                  "text": "Diese weitläufige archäologische Stätte in Kyrene enthält die Überreste einer luxuriösen Residenz aus römischer Zeit, die als Haus des Jason Magnus bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.857118,
+                        32.817876
+                  ]
+            },
+            {
+                  "name": "House of the Doric Peristyle",
+                  "text": "Diese archäologische Stätte in Kyrene zeichnet sich durch die Überreste eines von dorischen Säulen umgebenen Wohnhofs aus.",
+                  "category": "historical",
+                  "coords": [
+                        21.858529,
+                        32.817601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hwa ahjiri",
+                  "text": "Egy jellegzetes helyi látványosság az ókori Küréné régió kulturálisan gazdag környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.943457,
+                        32.820481
+                  ]
+            },
+            {
+                  "name": "Corina",
+                  "text": "Festői kilátóhely, ahonnan pazar kilátás nyílik az ókori Küréné kiterjedt romjaira és tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        21.949844,
+                        32.820127
+                  ]
+            },
+            {
+                  "name": "Shahhat (Cyrene) monuments",
+                  "text": "Ókori görög és római kőemlékek kiterjedt komplexuma, amelyek a történelmi Küréné városát jellemzik.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Temple of Apolo",
+                  "text": "Ez a Kürénében található ősi rom Apollón nevét viseli, és fontos vallási építményként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Ezek a Küréné közelében fekvő történelmi romok bepillantást engednek a régió ókori építészetébe.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845268
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "Küréné romos ókori akropolisza egy magaslaton áll, amely egykor a város fő védelmi fellegváraként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Shahhat Museum",
+                  "text": "A modern Shahhatban található múzeum a közeli ókori görög városból, Kürénéből feltárt számos műtárgynak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "A kürénéi Zeusz-templom monumentális romjai nagyobbak, mint az athéni Parthenón.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius and Lucius Verus, Cyrene",
+                  "text": "Ez a régészeti lelőhely egy római diadalívet rejt, amelyet Marcus Aurelius és Lucius Verus császároknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        21.85584,
+                        32.821054
+                  ]
+            },
+            {
+                  "name": "Apollo sanctuary",
+                  "text": "A romos kürénéi Apollón-szentély egy jelentős vallási központ volt, több oltárral és templommal.",
+                  "category": "historical",
+                  "coords": [
+                        21.852532,
+                        32.823629
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "Ez a régészeti lelőhely egy jelentős, Apollónnak szentelt templom maradványait foglalja magában Küréné szívében.",
+                  "category": "historical",
+                  "coords": [
+                        21.851593,
+                        32.823948
+                  ]
+            },
+            {
+                  "name": "House of Hesychios",
+                  "text": "A kürénéi Hesychiosz házának ókori romjai a korszak lakóépítészetét mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        21.856452,
+                        32.81878
+                  ]
+            },
+            {
+                  "name": "House of Jason Magnus",
+                  "text": "Ez a nagy kürénéi régészeti lelőhely egy római kori luxusrezidencia, a Jason Magnus házának maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        21.857118,
+                        32.817876
+                  ]
+            },
+            {
+                  "name": "House of the Doric Peristyle",
+                  "text": "Ezt a kürénéi régészeti lelőhelyet egy dór oszlopokkal körülvett lakóudvar maradványai jellemzik.",
+                  "category": "historical",
+                  "coords": [
+                        21.858529,
+                        32.817601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hwa ahjiri",
+                  "text": "O atracție locală distinctă, situată în mediul bogat cultural al vechii regiuni Cirene.",
+                  "category": "landmark",
+                  "coords": [
+                        21.943457,
+                        32.820481
+                  ]
+            },
+            {
+                  "name": "Corina",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști ample asupra ruinelor și peisajelor vaste din vechea Cirene.",
+                  "category": "natural",
+                  "coords": [
+                        21.949844,
+                        32.820127
+                  ]
+            },
+            {
+                  "name": "Shahhat (Cyrene) monuments",
+                  "text": "Un complex vast de monumente antice grecești și romane din piatră care definesc orașul istoric Cirene.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Temple of Apolo",
+                  "text": "Această ruină antică din Cirene poartă numele lui Apollo și a servit ca o structură religioasă importantă.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Aceste ruine istorice din apropiere de Cirene oferă o privire în arhitectura antică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845268
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "Acropola antică în ruină din Cirene este situată pe un teren înalt, servind odinioară drept principală cetate de apărare a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Shahhat Museum",
+                  "text": "Situat în orașul modern Shahhat, acest muzeu găzduiește numeroase artefacte excavate din orașul antic grec Cirene din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "Ruinele monumentale ale Templului lui Zeus din Cirene sunt mai mari decât Partenonul din Atena.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius and Lucius Verus, Cyrene",
+                  "text": "Acest sit arheologic prezintă un arc de triumf roman dedicat împăraților Marcus Aurelius și Lucius Verus.",
+                  "category": "historical",
+                  "coords": [
+                        21.85584,
+                        32.821054
+                  ]
+            },
+            {
+                  "name": "Apollo sanctuary",
+                  "text": "Sanctuarul în ruină al lui Apollo din Cirene a fost un centru religios major care prezenta multiple altare și temple.",
+                  "category": "historical",
+                  "coords": [
+                        21.852532,
+                        32.823629
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "Acest sit arheologic cuprinde rămășițele unui templu major dedicat lui Apollo în inima orașului Cirene.",
+                  "category": "historical",
+                  "coords": [
+                        21.851593,
+                        32.823948
+                  ]
+            },
+            {
+                  "name": "House of Hesychios",
+                  "text": "Ruinele antice ale Casei lui Hesychios din Cirene prezintă arhitectura rezidențială a epocii.",
+                  "category": "historical",
+                  "coords": [
+                        21.856452,
+                        32.81878
+                  ]
+            },
+            {
+                  "name": "House of Jason Magnus",
+                  "text": "Acest mare sit arheologic din Cirene conține rămășițele unei rezidențe luxoase din epoca romană, cunoscută sub numele de Casa lui Iason Magnus.",
+                  "category": "historical",
+                  "coords": [
+                        21.857118,
+                        32.817876
+                  ]
+            },
+            {
+                  "name": "House of the Doric Peristyle",
+                  "text": "Acest sit arheologic din Cirene este caracterizat de rămășițele unei curți rezidențiale înconjurate de coloane dorice.",
+                  "category": "historical",
+                  "coords": [
+                        21.858529,
+                        32.817601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hwa ahjiri",
+                  "text": "A distinctive local attraction situated within the culturally rich environment of the ancient Cyrene region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.943457,
+                        32.820481
+                  ]
+            },
+            {
+                  "name": "Corina",
+                  "text": "A scenic vantage point providing sweeping views over the expansive ruins and landscapes of ancient Cyrene.",
+                  "category": "natural",
+                  "coords": [
+                        21.949844,
+                        32.820127
+                  ]
+            },
+            {
+                  "name": "Shahhat (Cyrene) monuments",
+                  "text": "A sprawling complex of ancient Greek and Roman stone monuments that define the historic city of Cyrene.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Temple of Apolo",
+                  "text": "This ancient ruin in Cyrene is named after Apollo and served as an important religious structure.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "These historical ruins near Cyrene offer a glimpse into the region's ancient architectural past.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845268
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "The ruined ancient Acropolis of Cyrene stands on high ground, once serving as the city's main defensive citadel.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Shahhat Museum",
+                  "text": "Located in modern Shahhat, this museum houses numerous artifacts excavated from the nearby ancient Greek city of Cyrene.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "The monumental ruins of the Temple of Zeus in Cyrene are larger than the Parthenon in Athens.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius and Lucius Verus, Cyrene",
+                  "text": "This archaeological site features a Roman triumphal arch dedicated to emperors Marcus Aurelius and Lucius Verus.",
+                  "category": "historical",
+                  "coords": [
+                        21.85584,
+                        32.821054
+                  ]
+            },
+            {
+                  "name": "Apollo sanctuary",
+                  "text": "The ruined Sanctuary of Apollo in Cyrene was a major religious center featuring multiple altars and temples.",
+                  "category": "historical",
+                  "coords": [
+                        21.852532,
+                        32.823629
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "This archaeological site encompasses the remains of a major temple dedicated to Apollo in the heart of Cyrene.",
+                  "category": "historical",
+                  "coords": [
+                        21.851593,
+                        32.823948
+                  ]
+            },
+            {
+                  "name": "House of Hesychios",
+                  "text": "The ancient ruins of the House of Hesychios in Cyrene showcase the residential architecture of the era.",
+                  "category": "historical",
+                  "coords": [
+                        21.856452,
+                        32.81878
+                  ]
+            },
+            {
+                  "name": "House of Jason Magnus",
+                  "text": "This large archaeological site in Cyrene contains the remains of a luxurious Roman-era residence known as the House of Jason Magnus.",
+                  "category": "historical",
+                  "coords": [
+                        21.857118,
+                        32.817876
+                  ]
+            },
+            {
+                  "name": "House of the Doric Peristyle",
+                  "text": "This archaeological site in Cyrene is characterized by the remains of a residential courtyard surrounded by Doric columns.",
+                  "category": "historical",
+                  "coords": [
+                        21.858529,
+                        32.817601
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-JA",
     coords: [21.857, 32.822],
@@ -153,7 +1620,448 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-apollonia-history-v2",
+    id: "ly-apollonia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haua Fteah Cave",
+                  "text": "Eine riesige Karsthöhle in der Nähe von Apollonia, die wichtige archäologische Beweise für die prähistorische Besiedlung Nordafrikas liefert.",
+                  "category": "historical",
+                  "coords": [
+                        22.051563,
+                        32.900195
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "Die in Stein gehauenen Gräber der Ostnekropole markieren die antiken Grabstätten von Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "Die baulichen Überreste antiker Lagerhäuser, die einst den florierenden Seehandel in Apollonia unterstützten.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "Ruinen der Lagereinrichtungen, die für die Logistik der Hafenstadt im antiken Apollonia von entscheidender Bedeutung waren.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "West Necropolis of Apollonia",
+                  "text": "Eine ausgedehnte antike Friedhofsanlage mit zahlreichen Felsengräbern auf der Westseite von Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Susa Resort & Beach",
+                  "text": "Ein moderner mediterraner Rückzugsort am Meer, der sich in der Nähe der historischen Ruinen von Apollonia befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.923571,
+                        32.893051
+                  ]
+            },
+            {
+                  "name": "Qaşr as Suwayrah",
+                  "text": "Die archäologischen Überreste einer befestigten Anlage in der Nähe des antiken Apollonia, die frühe Verteidigungsarchitektur offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        21.902604,
+                        32.894294
+                  ]
+            },
+            {
+                  "name": "Theatre of Apollonia",
+                  "text": "Die erhaltenen Sitzreihen eines klassischen Theaters mit Blick auf das Meer an der archäologischen Stätte von Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.974916,
+                        32.902831
+                  ]
+            },
+            {
+                  "name": "West Church of Apollonia",
+                  "text": "Die steinernen Überreste einer frühen byzantinischen Kirche im westlichen Sektor des antiken Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.966645,
+                        32.90142
+                  ]
+            },
+            {
+                  "name": "Central Church",
+                  "text": "Die zentralen Basilika-Ruinen mit antiken Säulen, die inmitten der archäologischen Stätte von Apollonia stehen.",
+                  "category": "historical",
+                  "coords": [
+                        21.968374,
+                        32.902093
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "Die imposanten Fundamente des Palastes eines byzantinischen Militärbefehlshabers mit Blick auf die antike Stadt Apollonia.",
+                  "category": "castle",
+                  "coords": [
+                        21.969783,
+                        32.901578
+                  ]
+            },
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Diese bedeutende archäologische Stätte wurde um das 7. Jahrhundert v. Chr. gegründet und war einst der blühende Hafen des antiken Kyrene.",
+                  "category": "historical",
+                  "coords": [
+                        21.971355,
+                        32.90221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haua Fteah Cave",
+                  "text": "Egy hatalmas karsztbarlang Apollónia közelében, amely kulcsfontosságú régészeti bizonyítékokkal szolgál Észak-Afrika történelem előtti emberi betelepüléséről.",
+                  "category": "historical",
+                  "coords": [
+                        22.051563,
+                        32.900195
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "A keleti nekropolisz kőbe vájt sírjai Apollónia ősi temetkezési helyét jelölik.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "Az egykori raktárak szerkezeti maradványai, amelyek egykor az apollóniai nyüzsgő tengeri kereskedelmet szolgálták.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "A raktárlétesítmények romjai, amelyek létfontosságúak voltak a kikötőváros logisztikájában az ókori Apollóniában.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "West Necropolis of Apollonia",
+                  "text": "Egy kiterjedt ősi temető, amely számos sziklába vájt sírt tartalmaz Apollónia nyugati oldalán.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Susa Resort & Beach",
+                  "text": "Egy modern mediterrán tengerparti nyaralóhely Apollónia történelmi romjainak közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.923571,
+                        32.893051
+                  ]
+            },
+            {
+                  "name": "Qaşr as Suwayrah",
+                  "text": "Egy erődített építmény régészeti maradványai az ókori Apollónia közelében, amelyek a korai védelmi építészetet tárják fel.",
+                  "category": "historical",
+                  "coords": [
+                        21.902604,
+                        32.894294
+                  ]
+            },
+            {
+                  "name": "Theatre of Apollonia",
+                  "text": "Egy klasszikus színház fennmaradt üléssorai, amelyek a tengerre néznek Apollónia régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        21.974916,
+                        32.902831
+                  ]
+            },
+            {
+                  "name": "West Church of Apollonia",
+                  "text": "Egy kora bizánci templom kőmaradványai az ókori Apollónia nyugati szektorában.",
+                  "category": "historical",
+                  "coords": [
+                        21.966645,
+                        32.90142
+                  ]
+            },
+            {
+                  "name": "Central Church",
+                  "text": "Az apollóniai régészeti lelőhely közepén álló ősi oszlopokat felvonultató központi bazilika romjai.",
+                  "category": "historical",
+                  "coords": [
+                        21.968374,
+                        32.902093
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "Egy bizánci katonai parancsnoki palota impozáns alapjai, amelyek az ókori Apollónia városára néznek.",
+                  "category": "castle",
+                  "coords": [
+                        21.969783,
+                        32.901578
+                  ]
+            },
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Az i. e. 7. század körül alapított jelentős régészeti lelőhely egykor az ókori Küréné virágzó kikötője volt.",
+                  "category": "historical",
+                  "coords": [
+                        21.971355,
+                        32.90221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haua Fteah Cave",
+                  "text": "O peșteră carstică masivă de lângă Apollonia, care oferă dovezi arheologice cruciale ale ocupației umane preistorice în Africa de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        22.051563,
+                        32.900195
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "Mormintele sculptate în piatră ale Necropolei de Est marchează vechile locuri de înmormântare din Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "Rămășițele structurale ale unor vechi depozite care au susținut cândva comerțul maritim plin de viață din Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "Ruinele facilităților de depozitare care erau vitale pentru logistica orașului-port în antica Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "West Necropolis of Apollonia",
+                  "text": "Un vast cimitir antic ce conține numeroase morminte tăiate în stâncă pe latura vestică a Apolloniei.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Susa Resort & Beach",
+                  "text": "O destinație modernă de vacanță pe litoralul mediteranean, situată aproape de ruinele istorice ale Apolloniei.",
+                  "category": "recreational",
+                  "coords": [
+                        21.923571,
+                        32.893051
+                  ]
+            },
+            {
+                  "name": "Qaşr as Suwayrah",
+                  "text": "Vestigiile arheologice ale unei structuri fortificate de lângă antica Apollonia, dezvăluind o arhitectură defensivă timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        21.902604,
+                        32.894294
+                  ]
+            },
+            {
+                  "name": "Theatre of Apollonia",
+                  "text": "Rândurile de scaune păstrate ale unui teatru clasic cu vedere la mare, la situl arheologic din Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.974916,
+                        32.902831
+                  ]
+            },
+            {
+                  "name": "West Church of Apollonia",
+                  "text": "Rămășițele de piatră ale unei biserici bizantine timpurii situate în sectorul vestic al anticei Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.966645,
+                        32.90142
+                  ]
+            },
+            {
+                  "name": "Central Church",
+                  "text": "Ruinele bazilicii centrale, cu coloane antice care se înalță în mijlocul sitului arheologic din Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.968374,
+                        32.902093
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "Fundațiile impunătoare ale palatului unui comandant militar bizantin, care domină orașul antic Apollonia.",
+                  "category": "castle",
+                  "coords": [
+                        21.969783,
+                        32.901578
+                  ]
+            },
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Fondat în jurul secolului al VII-lea î.Hr., acest important sit arheologic a fost odinioară portul înfloritor al anticei Cirene.",
+                  "category": "historical",
+                  "coords": [
+                        21.971355,
+                        32.90221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haua Fteah Cave",
+                  "text": "A massive karst cave near Apollonia, providing crucial archaeological evidence of prehistoric human occupation in North Africa.",
+                  "category": "historical",
+                  "coords": [
+                        22.051563,
+                        32.900195
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "The stone-carved tombs of the East Necropolis mark the ancient burial grounds of Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "The structural remnants of ancient storehouses that once supported the bustling maritime trade in Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "Ruins of the storage facilities that were vital to the port city's logistics in ancient Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "West Necropolis of Apollonia",
+                  "text": "An expansive ancient cemetery site containing numerous rock-cut tombs on the western side of Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Susa Resort & Beach",
+                  "text": "A modern Mediterranean seaside getaway situated close to the historical ruins of Apollonia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.923571,
+                        32.893051
+                  ]
+            },
+            {
+                  "name": "Qaşr as Suwayrah",
+                  "text": "The archaeological remains of a fortified structure near ancient Apollonia, revealing early defensive architecture.",
+                  "category": "historical",
+                  "coords": [
+                        21.902604,
+                        32.894294
+                  ]
+            },
+            {
+                  "name": "Theatre of Apollonia",
+                  "text": "The preserved seating tiers of a classical theatre overlooking the sea at the archaeological site of Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.974916,
+                        32.902831
+                  ]
+            },
+            {
+                  "name": "West Church of Apollonia",
+                  "text": "The stone remains of an early Byzantine church situated in the western sector of ancient Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.966645,
+                        32.90142
+                  ]
+            },
+            {
+                  "name": "Central Church",
+                  "text": "The central basilican ruins featuring ancient columns that stand amidst the archaeological site of Apollonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.968374,
+                        32.902093
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "The imposing foundations of a Byzantine military commander's palace overlooking the ancient city of Apollonia.",
+                  "category": "castle",
+                  "coords": [
+                        21.969783,
+                        32.901578
+                  ]
+            },
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Founded around the 7th century BC, this major archaeological site was once the thriving port of ancient Cyrene.",
+                  "category": "historical",
+                  "coords": [
+                        21.971355,
+                        32.90221
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-JA",
     coords: [21.968, 32.901],
@@ -203,7 +2111,556 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-ptolemais-history-v2",
+    id: "ly-ptolemais-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Talamitha lighthouse",
+                  "text": "Dieser historische Leuchtturm leitete den Schiffsverkehr entlang der Küste nahe den Ruinen von Ptolemais.",
+                  "category": "landmark",
+                  "coords": [
+                        20.945128,
+                        32.715131
+                  ]
+            },
+            {
+                  "name": "Military headquarters",
+                  "text": "Die Ruinen eines antiken militärischen Hauptquartiers, das der strategischen Stadt Ptolemais diente.",
+                  "category": "historical",
+                  "coords": [
+                        20.954382,
+                        32.711099
+                  ]
+            },
+            {
+                  "name": "Baptistery",
+                  "text": "Die steinernen Ruinen eines frühchristlichen Baptisteriums auf dem archäologischen Gelände von Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954253,
+                        32.708698
+                  ]
+            },
+            {
+                  "name": "House of Paulus",
+                  "text": "Eine ausgegrabene antike Residenz, bekannt als Haus des Paulus, die das häusliche Leben im historischen Ptolemais veranschaulicht.",
+                  "category": "historical",
+                  "coords": [
+                        20.950638,
+                        32.709736
+                  ]
+            },
+            {
+                  "name": "Ptolemais, Cyrenaica",
+                  "text": "Diese riesige archäologische Stätte stammt aus der Zeit um das 3. Jahrhundert v. Chr. und bewahrt eine bedeutende antike Stadt der Kyrenaika.",
+                  "category": "historical",
+                  "coords": [
+                        20.950669,
+                        32.708759
+                  ]
+            },
+            {
+                  "name": "Western fort",
+                  "text": "Die Ruinen eines Verteidigungsforts im Westen, das einst die Zugänge zum antiken Ptolemais schützte.",
+                  "category": "historical",
+                  "coords": [
+                        20.950241,
+                        32.706811
+                  ]
+            },
+            {
+                  "name": "Byzantine theatre",
+                  "text": "Ein ausgegrabenes Theater aus byzantinischer Zeit, das in Ptolemais als Ort für Unterhaltung und Versammlungen diente.",
+                  "category": "historical",
+                  "coords": [
+                        20.954059,
+                        32.704579
+                  ]
+            },
+            {
+                  "name": "Al-Husn Church",
+                  "text": "Die archäologischen Überreste der Al-Husn-Kirche, einer frühchristlichen Kultstätte in der antiken Stadt Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.948428,
+                        32.705646
+                  ]
+            },
+            {
+                  "name": "Hippodrome",
+                  "text": "Die Umrisse eines großen antiken Hippodroms in Ptolemais, das einst für Wagenrennen und öffentliche Spektakel genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.96018,
+                        32.703422
+                  ]
+            },
+            {
+                  "name": "Greek theatre",
+                  "text": "Die steinernen Sitzreihen eines klassischen griechischen Theaters, das in die Landschaft des antiken Ptolemais gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.959981,
+                        32.702228
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Die archäologischen Überreste eines römischen Amphitheaters, das für Gladiatorenkämpfe und ein großes Publikum in Ptolemais konzipiert war.",
+                  "category": "historical",
+                  "coords": [
+                        20.945748,
+                        32.707914
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "Ein kleines, antikes überdachtes Theater, bekannt als Odeon, das für musikalische Aufführungen und Poesie in Ptolemais genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.952934,
+                        32.706929
+                  ]
+            },
+            {
+                  "name": "Ptolemais",
+                  "text": "Die weitläufigen Ruinen von Ptolemais, einst eine bedeutende hellenistische und römische Stadt an der Küste der Kyrenaika.",
+                  "category": "historical",
+                  "coords": [
+                        20.953904,
+                        32.707193
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "Die offene archäologische Stätte der antiken Agora, die als zentraler öffentlicher Platz und Marktplatz von Ptolemais diente.",
+                  "category": "historical",
+                  "coords": [
+                        20.954054,
+                        32.705856
+                  ]
+            },
+            {
+                  "name": "Qurina Beach",
+                  "text": "Ein ruhiger Küstenstrand in der Nähe der archäologischen Wunder von Ptolemais.",
+                  "category": "recreational",
+                  "coords": [
+                        20.936452,
+                        32.706677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Talamitha lighthouse",
+                  "text": "Ez a történelmi világítótorony irányította a tengeri forgalmat a Ptolemaisz romjai melletti part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.945128,
+                        32.715131
+                  ]
+            },
+            {
+                  "name": "Military headquarters",
+                  "text": "Egy ókori katonai főhadiszállás romjai, amely a stratégiai jelentőségű Ptolemaisz városát szolgálta.",
+                  "category": "historical",
+                  "coords": [
+                        20.954382,
+                        32.711099
+                  ]
+            },
+            {
+                  "name": "Baptistery",
+                  "text": "Egy ókeresztény keresztelőkápolna kőromjai Ptolemaisz régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        20.954253,
+                        32.708698
+                  ]
+            },
+            {
+                  "name": "House of Paulus",
+                  "text": "Egy feltárt ókori lakóház, a Paulus-ház, amely a történelmi Ptolemaisz mindennapi életét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        20.950638,
+                        32.709736
+                  ]
+            },
+            {
+                  "name": "Ptolemais, Cyrenaica",
+                  "text": "Az i. e. 3. század körül alapított hatalmas régészeti lelőhely Cyrenaica egyik jelentős ókori városát őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        20.950669,
+                        32.708759
+                  ]
+            },
+            {
+                  "name": "Western fort",
+                  "text": "Egy nyugati védőerőd romjai, amely egykor az ókori Ptolemaisz megközelítési útvonalait védte.",
+                  "category": "historical",
+                  "coords": [
+                        20.950241,
+                        32.706811
+                  ]
+            },
+            {
+                  "name": "Byzantine theatre",
+                  "text": "Egy feltárt bizánci kori színház, amely szórakozóhelyként és gyülekezőhelyként szolgált Ptolemaiszban.",
+                  "category": "historical",
+                  "coords": [
+                        20.954059,
+                        32.704579
+                  ]
+            },
+            {
+                  "name": "Al-Husn Church",
+                  "text": "Az Al-Husn templom régészeti maradványai, amely egy ókeresztény istentiszteleti hely volt Ptolemaisz ókori városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.948428,
+                        32.705646
+                  ]
+            },
+            {
+                  "name": "Hippodrome",
+                  "text": "Egy nagy ókori hippodrom körvonalai Ptolemaiszban, amelyet egykor szekérversenyekre és nyilvános látványosságokra használtak.",
+                  "category": "historical",
+                  "coords": [
+                        20.96018,
+                        32.703422
+                  ]
+            },
+            {
+                  "name": "Greek theatre",
+                  "text": "Egy klasszikus görög színház kőülései, amelyeket az ókori Ptolemaisz tájába vájtak.",
+                  "category": "historical",
+                  "coords": [
+                        20.959981,
+                        32.702228
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Egy római amfiteátrum régészeti maradványai, amelyet gladiátorjátékokra és nagy közönség befogadására terveztek Ptolemaiszban.",
+                  "category": "historical",
+                  "coords": [
+                        20.945748,
+                        32.707914
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "Egy kis ókori fedett színház, egy úgynevezett odeon, amelyet zenei előadásokra és költészetre használtak Ptolemaiszban.",
+                  "category": "historical",
+                  "coords": [
+                        20.952934,
+                        32.706929
+                  ]
+            },
+            {
+                  "name": "Ptolemais",
+                  "text": "Ptolemaisz kiterjedt romjai, amely egykor jelentős hellenisztikus és római város volt a Cyrenaica partvidékén.",
+                  "category": "historical",
+                  "coords": [
+                        20.953904,
+                        32.707193
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "Az ókori agora nyílt régészeti lelőhelye, amely Ptolemaisz központi köztereként és piactereként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        20.954054,
+                        32.705856
+                  ]
+            },
+            {
+                  "name": "Qurina Beach",
+                  "text": "Egy nyugodt tengerparti strand Ptolemaisz régészeti csodáinak közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.936452,
+                        32.706677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Talamitha lighthouse",
+                  "text": "Acest far istoric a ghidat traficul maritim de-a lungul coastei lângă ruinele orașului Ptolemais.",
+                  "category": "landmark",
+                  "coords": [
+                        20.945128,
+                        32.715131
+                  ]
+            },
+            {
+                  "name": "Military headquarters",
+                  "text": "Ruinele unui vechi cartier general militar care deservea orașul strategic Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954382,
+                        32.711099
+                  ]
+            },
+            {
+                  "name": "Baptistery",
+                  "text": "Ruinele din piatră ale unui baptisteriu paleocreștin situat în situl arheologic Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954253,
+                        32.708698
+                  ]
+            },
+            {
+                  "name": "House of Paulus",
+                  "text": "O reședință antică excavată, cunoscută sub numele de Casa lui Paulus, care ilustrează viața domestică din istoricul Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.950638,
+                        32.709736
+                  ]
+            },
+            {
+                  "name": "Ptolemais, Cyrenaica",
+                  "text": "Având originile în secolul al III-lea î.Hr., acest vast sit arheologic păstrează un important oraș antic din Cirenaica.",
+                  "category": "historical",
+                  "coords": [
+                        20.950669,
+                        32.708759
+                  ]
+            },
+            {
+                  "name": "Western fort",
+                  "text": "Ruinele unui fort defensiv vestic care proteja cândva căile de acces spre anticul Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.950241,
+                        32.706811
+                  ]
+            },
+            {
+                  "name": "Byzantine theatre",
+                  "text": "Un teatru din epoca bizantină, excavat, care a servit ca loc de divertisment și adunări în Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954059,
+                        32.704579
+                  ]
+            },
+            {
+                  "name": "Al-Husn Church",
+                  "text": "Vestigiile arheologice ale bisericii Al-Husn, un vechi lăcaș de cult creștin din anticul Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.948428,
+                        32.705646
+                  ]
+            },
+            {
+                  "name": "Hippodrome",
+                  "text": "Conturul unui mare hipodrom antic din Ptolemais, folosit odinioară pentru curse de care și spectacole publice.",
+                  "category": "historical",
+                  "coords": [
+                        20.96018,
+                        32.703422
+                  ]
+            },
+            {
+                  "name": "Greek theatre",
+                  "text": "Scaunele din piatră ale unui teatru clasic grecesc, sculptate în peisajul anticului Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.959981,
+                        32.702228
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Vestigiile arheologice ale unui amfiteatru roman conceput pentru lupte de gladiatori și un public numeros în Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.945748,
+                        32.707914
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "Un mic teatru antic acoperit, cunoscut sub numele de Odeon, utilizat pentru spectacole muzicale și poezie în Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.952934,
+                        32.706929
+                  ]
+            },
+            {
+                  "name": "Ptolemais",
+                  "text": "Ruinele întinse ale orașului Ptolemais, odinioară un oraș elenistic și roman proeminent pe coasta Cirenaicii.",
+                  "category": "historical",
+                  "coords": [
+                        20.953904,
+                        32.707193
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "Situl arheologic deschis al vechii Agora, care a servit ca piață publică centrală și spațiu comercial al orașului Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954054,
+                        32.705856
+                  ]
+            },
+            {
+                  "name": "Qurina Beach",
+                  "text": "O plajă de coastă liniștită situată lângă minunile arheologice din Ptolemais.",
+                  "category": "recreational",
+                  "coords": [
+                        20.936452,
+                        32.706677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Talamitha lighthouse",
+                  "text": "This historic lighthouse structure guided maritime traffic along the coast near the ruins of Ptolemais.",
+                  "category": "landmark",
+                  "coords": [
+                        20.945128,
+                        32.715131
+                  ]
+            },
+            {
+                  "name": "Military headquarters",
+                  "text": "The ruins of an ancient military headquarters serving the strategic city of Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954382,
+                        32.711099
+                  ]
+            },
+            {
+                  "name": "Baptistery",
+                  "text": "The stone ruins of an early Christian baptistery located within the archaeological site of Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954253,
+                        32.708698
+                  ]
+            },
+            {
+                  "name": "House of Paulus",
+                  "text": "An excavated ancient residence known as the House of Paulus, showcasing domestic life in historic Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.950638,
+                        32.709736
+                  ]
+            },
+            {
+                  "name": "Ptolemais, Cyrenaica",
+                  "text": "Originating around the 3rd century BC, this vast archaeological site preserves a major ancient city of Cyrenaica.",
+                  "category": "historical",
+                  "coords": [
+                        20.950669,
+                        32.708759
+                  ]
+            },
+            {
+                  "name": "Western fort",
+                  "text": "The ruins of a defensive western fort that once protected the approaches to ancient Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.950241,
+                        32.706811
+                  ]
+            },
+            {
+                  "name": "Byzantine theatre",
+                  "text": "An excavated Byzantine-era theatre that served as a venue for entertainment and gatherings in Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954059,
+                        32.704579
+                  ]
+            },
+            {
+                  "name": "Al-Husn Church",
+                  "text": "The archaeological remains of Al-Husn Church, an early Christian place of worship in the ancient city of Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.948428,
+                        32.705646
+                  ]
+            },
+            {
+                  "name": "Hippodrome",
+                  "text": "The outline of a large ancient hippodrome in Ptolemais, once used for chariot racing and public spectacles.",
+                  "category": "historical",
+                  "coords": [
+                        20.96018,
+                        32.703422
+                  ]
+            },
+            {
+                  "name": "Greek theatre",
+                  "text": "The stone seating of a classical Greek theatre carved into the landscape of ancient Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.959981,
+                        32.702228
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "The archaeological remains of a Roman amphitheater designed for gladiatorial contests and large audiences in Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.945748,
+                        32.707914
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "A small, ancient roofed theatre known as an Odeon, utilized for musical performances and poetry in Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.952934,
+                        32.706929
+                  ]
+            },
+            {
+                  "name": "Ptolemais",
+                  "text": "The sprawling ruins of Ptolemais, once a prominent Hellenistic and Roman city on the Cyrenaica coast.",
+                  "category": "historical",
+                  "coords": [
+                        20.953904,
+                        32.707193
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "The open archaeological site of the ancient Agora, which served as the central public square and marketplace of Ptolemais.",
+                  "category": "historical",
+                  "coords": [
+                        20.954054,
+                        32.705856
+                  ]
+            },
+            {
+                  "name": "Qurina Beach",
+                  "text": "A serene coastal beach situated near the archaeological wonders of Ptolemais.",
+                  "category": "recreational",
+                  "coords": [
+                        20.936452,
+                        32.706677
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-JA",
     coords: [20.945, 32.706],
@@ -253,7 +2710,232 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-tocra-history-v2",
+    id: "ly-tocra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tocra Castle",
+                  "text": "Eine widerstandsfähige steinerne Küstenfestung, die über der antiken Siedlung Tocra am Rande des Mittelmeers thront.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "Taucheira",
+                  "text": "Eine weitläufige antike griechische Ausgrabungsstätte, die um 630 v. Chr. gegründet wurde und gut erhaltene Küstenruinen aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "Al Bakoor Castle",
+                  "text": "Die steinernen Ruinenfundamente einer antiken Festung, die einst die historischen Routen in der Nähe von Tocra bewachte.",
+                  "category": "historical",
+                  "coords": [
+                        20.63195,
+                        32.517021
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "Die historischen Überreste einer in Arsinoe umbenannten hellenistischen Stadt, die Reste massiver Verteidigungsmauern und antiker ziviler Strukturen zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "Diese archäologischen Überreste in Tocra markieren den antiken Sitz des byzantinischen Statthalters.",
+                  "category": "historical",
+                  "coords": [
+                        20.56843,
+                        32.536626
+                  ]
+            },
+            {
+                  "name": "Tocra Beach",
+                  "text": "Ein sandiger mediterraner Küstenabschnitt in der Nähe der historischen Stadt Tocra.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53757,
+                        32.520849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tocra Castle",
+                  "text": "Ellenálló tengerparti kőerőd, amely az ősi Tocra település felett magasodik a Földközi-tenger partján.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "Taucheira",
+                  "text": "Kr. e. 630 körül alapított kiterjedt ókori görög régészeti lelőhely, amely jól karbantartott tengerparti romokkal büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "Al Bakoor Castle",
+                  "text": "Egy antik erőd romos kőalapjai, amely egykor a Tocra környéki történelmi útvonalakat őrizte.",
+                  "category": "historical",
+                  "coords": [
+                        20.63195,
+                        32.517021
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "Az Arsinoe-ra átkeresztelt hellenisztikus város történelmi maradványai, amelyek hatalmas védőfalakat és ősi polgári épületeket tárnak fel.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "Ezek a tocrai régészeti maradványok a bizánci kormányzó egykori székhelyét jelzik.",
+                  "category": "historical",
+                  "coords": [
+                        20.56843,
+                        32.536626
+                  ]
+            },
+            {
+                  "name": "Tocra Beach",
+                  "text": "Homokos mediterrán partszakasz a történelmi Tocra város közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53757,
+                        32.520849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tocra Castle",
+                  "text": "O fortăreață de coastă rezistentă din piatră, care se înalță deasupra așezării antice Tocra de-a lungul marginii Mediteranei.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "Taucheira",
+                  "text": "Un vast sit arheologic antic grecesc fondat în jurul anului 630 î.Hr., care prezintă ruine de coastă bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "Al Bakoor Castle",
+                  "text": "Fundațiile de piatră în ruine ale unei fortărețe antice care păzea odată rutele istorice din apropiere de Tocra.",
+                  "category": "historical",
+                  "coords": [
+                        20.63195,
+                        32.517021
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "Rămășițele istorice ale unei cetăți elenistice redenumite Arsinoe, prezentând vestigii ale unor ziduri de apărare masive și structuri civice antice.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "Aceste vestigii arheologice din Tocra marchează vechiul sediu al guvernatorului bizantin.",
+                  "category": "historical",
+                  "coords": [
+                        20.56843,
+                        32.536626
+                  ]
+            },
+            {
+                  "name": "Tocra Beach",
+                  "text": "O întindere de coastă mediteraneană cu nisip situată lângă orașul istoric Tocra.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53757,
+                        32.520849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tocra Castle",
+                  "text": "A resilient stone coastal fortress standing over the ancient settlement of Tocra along the Mediterranean edge.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "Taucheira",
+                  "text": "An expansive ancient Greek archaeological site founded around 630 BC, featuring well-preserved coastal ruins.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "Al Bakoor Castle",
+                  "text": "The ruined stone foundations of an antique fortress that once guarded the historic routes near Tocra.",
+                  "category": "historical",
+                  "coords": [
+                        20.63195,
+                        32.517021
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "The historic remains of a Hellenistic city renamed Arsinoe, showcasing remnants of massive defensive walls and ancient civic structures.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "These archaeological remains in Tocra mark the ancient seat of the Byzantine governor.",
+                  "category": "historical",
+                  "coords": [
+                        20.56843,
+                        32.536626
+                  ]
+            },
+            {
+                  "name": "Tocra Beach",
+                  "text": "A sandy Mediterranean coastal stretch located near the historic town of Tocra.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53757,
+                        32.520849
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-JA",
     coords: [20.531, 32.531],
@@ -303,7 +2985,88 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-ghadames-old-town-history-v2",
+    id: "ly-ghadames-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tilwan School",
+                  "text": "Die Tilwan-Schule ist eine historische Sehenswürdigkeit, die früher als Bildungseinrichtung in der Altstadt von Ghadames diente.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            },
+            {
+                  "name": "Gadames Castle",
+                  "text": "Das Schloss von Gadames ist eine befestigte Lehmkonstruktion, die als historischer Wächter in der Altstadt von Ghadames steht.",
+                  "category": "castle",
+                  "coords": [
+                        9.495104,
+                        30.130012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tilwan School",
+                  "text": "A Tilwan Iskola egy történelmi látványosság, amely korábban oktatási intézményként szolgált Ghadames óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            },
+            {
+                  "name": "Gadames Castle",
+                  "text": "A Gadames kastély egy erődített földépítmény, amely történelmi őrszemként áll Ghadames óvárosában.",
+                  "category": "castle",
+                  "coords": [
+                        9.495104,
+                        30.130012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tilwan School",
+                  "text": "Școala Tilwan este o atracție istorică care a servit anterior ca instituție de învățământ în orașul vechi Ghadames.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            },
+            {
+                  "name": "Gadames Castle",
+                  "text": "Castelul Gadames este o structură de pământ fortificată, care stă ca o santinelă istorică în orașul vechi Ghadames.",
+                  "category": "castle",
+                  "coords": [
+                        9.495104,
+                        30.130012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tilwan School",
+                  "text": "The Tilwan School is a historic attraction formerly serving as an educational facility in the old town of Ghadames.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            },
+            {
+                  "name": "Gadames Castle",
+                  "text": "Gadames Castle is a fortified earthen structure standing as a historical sentinel in the Ghadames old town.",
+                  "category": "castle",
+                  "coords": [
+                        9.495104,
+                        30.130012
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-NL",
     coords: [9.497, 30.133],
@@ -353,7 +3116,124 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-marcus-aurelius-arch-history-v2",
+    id: "ly-marcus-aurelius-arch-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Turkish Prison",
+                  "text": "Eine ehemalige Gefängnisanlage aus der osmanischen Zeit in der Altstadt von Tripolis.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175838,
+                        32.898846
+                  ]
+            },
+            {
+                  "name": "Mark-Aurel-Bogen",
+                  "text": "Ein römischer Triumphbogen aus dem 2. Jahrhundert, der am Rande der Medina von Tripolis steht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175825,
+                        32.899928
+                  ]
+            },
+            {
+                  "name": "Altstadt",
+                  "text": "Das historische Zentrum von Tripolis, dessen Ursprünge bis in die Antike zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        13.175604,
+                        32.897372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Turkish Prison",
+                  "text": "Egy egykori börtön az oszmán korszakból Tripoli óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175838,
+                        32.898846
+                  ]
+            },
+            {
+                  "name": "Marcus Aurelius Arch",
+                  "text": "Egy 2. századi római diadalív, amely a tripoli medina szélén áll.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175825,
+                        32.899928
+                  ]
+            },
+            {
+                  "name": "Old City",
+                  "text": "Tripoli történelmi központja, amelynek gyökerei az ókorig nyúlnak vissza.",
+                  "category": "historical",
+                  "coords": [
+                        13.175604,
+                        32.897372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Turkish Prison",
+                  "text": "O fostă închisoare din perioada otomană situată în orașul vechi din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175838,
+                        32.898846
+                  ]
+            },
+            {
+                  "name": "Marcus Aurelius Arch",
+                  "text": "Un arc de triumf roman din secolul al II-lea, situat la marginea medinei din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175825,
+                        32.899928
+                  ]
+            },
+            {
+                  "name": "Old City",
+                  "text": "Centrul istoric din Tripoli, cu rădăcini care datează din antichitate.",
+                  "category": "historical",
+                  "coords": [
+                        13.175604,
+                        32.897372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Turkish Prison",
+                  "text": "A former prison facility from the Ottoman era located in the old city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175838,
+                        32.898846
+                  ]
+            },
+            {
+                  "name": "Marcus Aurelius Arch",
+                  "text": "A 2nd-century Roman triumphal arch standing at the edge of the medina of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.175825,
+                        32.899928
+                  ]
+            },
+            {
+                  "name": "Old City",
+                  "text": "The historical center of Tripoli, with roots dating back to antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        13.175604,
+                        32.897372
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-TB",
     coords: [13.176, 32.898],
@@ -453,7 +3333,52 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-tadrart-acacus-history-v2",
+    id: "ly-tadrart-acacus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tadrart Acacus",
+                  "text": "Tadrart Acacus ist ein UNESCO-gelistetes Wüstenmassiv, das für Tausende von prähistorischen Felsmalereien bekannt ist, die Giraffen, Elefanten und frühes menschliches Leben detailgetreu darstellen.",
+                  "category": "historical",
+                  "coords": [
+                        10.33332,
+                        24.833429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tadrart Acacus",
+                  "text": "A Tadrart Acacus egy UNESCO-listás sivatagi masszívum, amely zsiráfokat, elefántokat és korai emberi életet ábrázoló több ezer történelem előtti sziklafestményéről híres.",
+                  "category": "historical",
+                  "coords": [
+                        10.33332,
+                        24.833429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tadrart Acacus",
+                  "text": "Tadrart Acacus este un masiv deșertic inclus pe lista UNESCO, renumit pentru mii de picturi rupestre preistorice care detaliază girafe, elefanți și viața umană timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        10.33332,
+                        24.833429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tadrart Acacus",
+                  "text": "Tadrart Acacus is a UNESCO-listed desert massif renowned for thousands of prehistoric rock paintings detailing giraffes, elephants, and early human life.",
+                  "category": "historical",
+                  "coords": [
+                        10.33332,
+                        24.833429
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-GT",
     coords: [10.333, 24.833],
@@ -503,7 +3428,124 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-germa-history-v2",
+    id: "ly-germa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zinchecra",
+                  "text": "Zinchecra ist eine antike garamantische Hügelsiedlung, die in den Fels gehauene Gräber und Verteidigungsruinen aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        13.033114,
+                        26.516519
+                  ]
+            },
+            {
+                  "name": "Jirmah Museum",
+                  "text": "Das Jirmah Museum stellt Artefakte der alten Garamanten-Zivilisation aus, darunter Töpferwaren und Grabbeigaben.",
+                  "category": "museum",
+                  "coords": [
+                        13.066878,
+                        26.525678
+                  ]
+            },
+            {
+                  "name": "City garma old",
+                  "text": "Die Garama Metropolis bewahrt die Überreste aus Lehmziegeln und Stein, die zur antiken Hauptstadt des Garamantenreichs gehörten.",
+                  "category": "historical",
+                  "coords": [
+                        13.063217,
+                        26.544712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zinchecra",
+                  "text": "Zinchecra egy ősi garamant hegytetői település, amely sziklába vájt sírokkal és védelmi romokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        13.033114,
+                        26.516519
+                  ]
+            },
+            {
+                  "name": "Jirmah Museum",
+                  "text": "A Jirmah Múzeum az ősi garamant civilizáció leleteit, köztük kerámiákat és sírmellékleteket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        13.066878,
+                        26.525678
+                  ]
+            },
+            {
+                  "name": "City garma old",
+                  "text": "A Garama Metropolis megőrzi a garamant birodalom ősi fővárosának vályogtéglából és kőből épült maradványait.",
+                  "category": "historical",
+                  "coords": [
+                        13.063217,
+                        26.544712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zinchecra",
+                  "text": "Zinchecra este o așezare antică garamantică pe un deal, prezentând morminte tăiate în stâncă și ruine defensive.",
+                  "category": "historical",
+                  "coords": [
+                        13.033114,
+                        26.516519
+                  ]
+            },
+            {
+                  "name": "Jirmah Museum",
+                  "text": "Muzeul Jirmah expune artefacte din vechea civilizație a garamantelor, inclusiv ceramică și bunuri funerare.",
+                  "category": "museum",
+                  "coords": [
+                        13.066878,
+                        26.525678
+                  ]
+            },
+            {
+                  "name": "City garma old",
+                  "text": "Metropola Garama păstrează rămășițele din cărămidă de noroi și piatră ale vechii capitale a imperiului Garamant.",
+                  "category": "historical",
+                  "coords": [
+                        13.063217,
+                        26.544712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zinchecra",
+                  "text": "Zinchecra is an ancient Garamantian hilltop settlement featuring rock-cut tombs and defensive ruins.",
+                  "category": "historical",
+                  "coords": [
+                        13.033114,
+                        26.516519
+                  ]
+            },
+            {
+                  "name": "Jirmah Museum",
+                  "text": "The Jirmah Museum exhibits artifacts from the ancient Garamantes civilization, including pottery and burial goods.",
+                  "category": "museum",
+                  "coords": [
+                        13.066878,
+                        26.525678
+                  ]
+            },
+            {
+                  "name": "Garama Metropolis",
+                  "text": "The Garama Metropolis preserves the mud-brick and stone remains of the ancient capital of the Garamantian empire.",
+                  "category": "historical",
+                  "coords": [
+                        13.063217,
+                        26.544712
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-WD",
     coords: [13.064, 26.533],
@@ -603,7 +3645,124 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-villa-silin-history-v2",
+    id: "ly-villa-silin-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naggaza Beach",
+                  "text": "Sandstrand-Resort an der Küste, das eine entspannte Atmosphäre für Urlauber bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.102938,
+                        32.715213
+                  ]
+            },
+            {
+                  "name": "Sealine Resort",
+                  "text": "Küstenstrand, der für seine Erholungsmöglichkeiten am Meer in der Nähe historischer Stätten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154711,
+                        32.711719
+                  ]
+            },
+            {
+                  "name": "Villa Selene",
+                  "text": "Antike römische archäologische Stätte, berühmt für die Überreste ihrer gut erhaltenen Villa am Meer.",
+                  "category": "historical",
+                  "coords": [
+                        14.178072,
+                        32.709561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naggaza Beach",
+                  "text": "Homokos tengerparti üdülőhely, amely nyugodt légkört kínál a nyaralóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.102938,
+                        32.715213
+                  ]
+            },
+            {
+                  "name": "Sealine Resort",
+                  "text": "Tengerparti strand, amely történelmi helyszínek közelében lévő tengeri kikapcsolódási lehetőségeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154711,
+                        32.711719
+                  ]
+            },
+            {
+                  "name": "Villa Selene",
+                  "text": "Ókori római régészeti lelőhely, amely jó állapotban fennmaradt tengerparti villájának romjairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        14.178072,
+                        32.709561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naggaza Beach",
+                  "text": "Stațiune pe o plajă cu nisip pe coastă, oferind o atmosferă relaxantă pentru vacanțe.",
+                  "category": "recreational",
+                  "coords": [
+                        14.102938,
+                        32.715213
+                  ]
+            },
+            {
+                  "name": "Sealine Resort",
+                  "text": "Plajă de coastă cunoscută pentru oportunitățile sale de recreere pe malul mării în apropierea unor situri istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154711,
+                        32.711719
+                  ]
+            },
+            {
+                  "name": "Villa Selene",
+                  "text": "Sit arheologic roman antic, faimos pentru rămășițele vilei sale de la malul mării bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        14.178072,
+                        32.709561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naggaza Beach",
+                  "text": "Coastal sandy beach resort providing a relaxing atmosphere for holidaymakers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.102938,
+                        32.715213
+                  ]
+            },
+            {
+                  "name": "Sealine Resort",
+                  "text": "Coastal beach known for its seaside recreation opportunities near historic sites.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154711,
+                        32.711719
+                  ]
+            },
+            {
+                  "name": "Villa Selene",
+                  "text": "Ancient Roman archaeological site famous for the remains of its well-preserved seaside villa.",
+                  "category": "historical",
+                  "coords": [
+                        14.178072,
+                        32.709561
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-MB",
     coords: [14.153, 32.656],
@@ -653,7 +3812,52 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-qasr-libya-history-v2",
+    id: "ly-qasr-libya-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadi Al-Kouf Bridge",
+                  "text": "Diese beeindruckende Spannbetonbrücke überspannt das tiefe Tal des Wadi al-Kouf in der Nähe von Qasr Libya.",
+                  "category": "landmark",
+                  "coords": [
+                        21.564833,
+                        32.697556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadi Al-Kouf Bridge",
+                  "text": "Ez a lenyűgöző feszített vasbeton híd a mély Wadi al-Kouf völgyet íveli át Qasr Libya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.564833,
+                        32.697556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadi Al-Kouf Bridge",
+                  "text": "Acest pod impresionant din beton precomprimat traversează valea adâncă Wadi al-Kouf, lângă Qasr Libya.",
+                  "category": "landmark",
+                  "coords": [
+                        21.564833,
+                        32.697556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadi Al-Kouf Bridge",
+                  "text": "This impressive prestressed concrete bridge spans the deep Wadi al-Kouf valley near Qasr Libya.",
+                  "category": "landmark",
+                  "coords": [
+                        21.564833,
+                        32.697556
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-JA",
     coords: [21.571, 32.664],
@@ -703,7 +3907,52 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-tripoli-medina-history-v2",
+    id: "ly-tripoli-medina-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Harem of Ali Garamanli",
+                  "text": "Eine historische Residenz in der Medina von Tripolis, die eng mit der Karamanli-Dynastie verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176808,
+                        32.897378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Harem of Ali Garamanli",
+                  "text": "Egy történelmi rezidencia Tripoli medinájában, amely szorosan kötődik a Karamanli-dinasztiához.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176808,
+                        32.897378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Harem of Ali Garamanli",
+                  "text": "O reședință istorică din medina din Tripoli, strâns legată de dinastia Karamanli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176808,
+                        32.897378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Harem of Ali Garamanli",
+                  "text": "A historic residence in the medina of Tripoli closely associated with the Karamanli dynasty.",
+                  "category": "landmark",
+                  "coords": [
+                        13.176808,
+                        32.897378
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-TB",
     coords: [13.177, 32.897],
@@ -753,7 +4002,52 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-gharyan-troglodyte-history-v2",
+    id: "ly-gharyan-troglodyte-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roundabouts Garages",
+                  "text": "Diese Anlagen am Kreisverkehr in Gharyan sind verkehrstechnisch mit den charakteristischen Troglodyten-Stätten der Region verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.029569,
+                        32.174935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roundabouts Garages",
+                  "text": "Ezek a körforgalom melletti garázsok a gharyani barlanglakások környékének mindennapi közlekedési infrastruktúrájához tartoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.029569,
+                        32.174935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roundabouts Garages",
+                  "text": "Aceste garaje și structuri rutiere sprijină transportul local în apropierea așezărilor troglodite din Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.029569,
+                        32.174935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roundabouts Garages",
+                  "text": "These roundabout garages support the local transport infrastructure near the historic troglodyte sites of Gharyan.",
+                  "category": "landmark",
+                  "coords": [
+                        13.029569,
+                        32.174935
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-JG",
     coords: [13.018, 32.17],
@@ -903,7 +4197,52 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-tobruk-war-cemetery-history-v2",
+    id: "ly-tobruk-war-cemetery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tobruk’s Bay",
+                  "text": "Dieser Aussichtspunkt überblickt den tiefen Naturhafen der Bucht von Tobruk, der im Zweiten Weltkrieg ein wichtiges strategisches Ziel war.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tobruk’s Bay",
+                  "text": "Ez a kilátópont a Tobruk-öböl mély természetes kikötőjére néz, amely a második világháború alatt létfontosságú stratégiai zsákmány volt.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tobruk’s Bay",
+                  "text": "Acest punct de observație are vedere la portul natural adânc al Golfului Tobruk, care a fost un premiu strategic vital în timpul celui de-al Doilea Război Mondial.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tobruk’s Bay",
+                  "text": "This viewpoint overlooks the deep natural harbor of Tobruk's Bay, which was a vital strategic prize during World War II.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-BU",
     coords: [23.978, 32.072],
@@ -953,7 +4292,52 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-malta-castle-history-v2",
+    id: "ly-malta-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum des Roten Schlosses",
+                  "text": "Ein Nationalmuseum, das in der historischen Festung Assaraya al-Hamra in Tripolis untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.181111,
+                        32.895925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Red Castle Museum",
+                  "text": "Egy nemzeti múzeum, amely a történelmi Assaraya al-Hamra erődben található Tripoliban.",
+                  "category": "museum",
+                  "coords": [
+                        13.181111,
+                        32.895925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Red Castle Museum",
+                  "text": "Un muzeu național găzduit în fortăreața istorică Assaraya al-Hamra din Tripoli.",
+                  "category": "museum",
+                  "coords": [
+                        13.181111,
+                        32.895925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Red Castle Museum",
+                  "text": "A national museum housed within the historic Assaraya al-Hamra fortress in Tripoli.",
+                  "category": "museum",
+                  "coords": [
+                        13.181111,
+                        32.895925
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-TB",
     coords: [13.181, 32.896],
@@ -1003,7 +4387,160 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-murzuq-fort-history-v2",
+    id: "ly-murzuq-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "arm kolo",
+                  "text": "Arm Kolo ist eine historische Attraktion, die sich vor der Kulisse der traditionellen Lehmarchitektur der Region befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.925198,
+                        25.908914
+                  ]
+            },
+            {
+                  "name": "hi al shabab",
+                  "text": "Hi Al Shabab dient als lokaler Treffpunkt in der historischen Wüstenoasen-Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        13.920499,
+                        25.898759
+                  ]
+            },
+            {
+                  "name": "old city",
+                  "text": "Die Altstadt bietet ein Labyrinth aus traditionellen Lehmziegelgassen aus ihrer Zeit als Knotenpunkt des Transsaharahandels.",
+                  "category": "landmark",
+                  "coords": [
+                        13.913938,
+                        25.912949
+                  ]
+            },
+            {
+                  "name": "Castle Murzuq",
+                  "text": "Das Castle Murzuq ist eine massive historische Wüstenfestung, die aus sonnengetrockneten Lehmziegeln errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        13.91813,
+                        25.908637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "arm kolo",
+                  "text": "Az Arm Kolo egy történelmi látványosság, amely a régió hagyományos vályogépítészetének hátterében helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        13.925198,
+                        25.908914
+                  ]
+            },
+            {
+                  "name": "hi al shabab",
+                  "text": "A Hi Al Shabab helyi gyülekezőhelyként szolgál a történelmi sivatagi oázis környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.920499,
+                        25.898759
+                  ]
+            },
+            {
+                  "name": "old city",
+                  "text": "Az óváros hagyományos vályogtégla sikátorok labirintusával rendelkezik abból az időből, amikor még a transzszaharai kereskedelem központja volt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.913938,
+                        25.912949
+                  ]
+            },
+            {
+                  "name": "Castle Murzuq",
+                  "text": "A Castle Murzuq egy hatalmas történelmi sivatagi erőd, amely napon szárított vályogtéglából épült.",
+                  "category": "castle",
+                  "coords": [
+                        13.91813,
+                        25.908637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "arm kolo",
+                  "text": "Arm Kolo este o atracție istorică situată pe fundalul arhitecturii tradiționale de pământ a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        13.925198,
+                        25.908914
+                  ]
+            },
+            {
+                  "name": "hi al shabab",
+                  "text": "Hi Al Shabab servește ca punct de întâlnire local în decorul istoric al oazei din deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.920499,
+                        25.898759
+                  ]
+            },
+            {
+                  "name": "old city",
+                  "text": "Orașul vechi prezintă un labirint de alei tradiționale din cărămidă de noroi din perioada în care a fost un centru al comerțului transsaharian.",
+                  "category": "landmark",
+                  "coords": [
+                        13.913938,
+                        25.912949
+                  ]
+            },
+            {
+                  "name": "Castle Murzuq",
+                  "text": "Castelul Murzuq este o fortăreață masivă istorică din deșert, construită din cărămizi de noroi uscate la soare.",
+                  "category": "castle",
+                  "coords": [
+                        13.91813,
+                        25.908637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "arm kolo",
+                  "text": "Arm Kolo is an engaging historic attraction set against the traditional earthen architecture of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.925198,
+                        25.908914
+                  ]
+            },
+            {
+                  "name": "hi al shabab",
+                  "text": "Hi Al Shabab serves as a local gathering point within the historic desert oasis setting.",
+                  "category": "landmark",
+                  "coords": [
+                        13.920499,
+                        25.898759
+                  ]
+            },
+            {
+                  "name": "old city",
+                  "text": "The old city features a labyrinth of traditional mud-brick alleys from its time as a major trans-Saharan trade hub.",
+                  "category": "landmark",
+                  "coords": [
+                        13.913938,
+                        25.912949
+                  ]
+            },
+            {
+                  "name": "Castle Murzuq",
+                  "text": "Castle Murzuq is a massive historic desert fortress constructed from sun-baked mud bricks.",
+                  "category": "castle",
+                  "coords": [
+                        13.91813,
+                        25.908637
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-MQ",
     coords: [13.918, 25.914],
@@ -1153,7 +4690,52 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-karamanli-mosque-history-v2",
+    id: "ly-karamanli-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meydan Assa'a",
+                  "text": "Ein zentraler Platz und Anziehungspunkt im historischen Umfeld der Karamanli-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.179191,
+                        32.896232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meydan Assa'a",
+                  "text": "Egy központi tér és látványosság a Karamanli-mecset történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.179191,
+                        32.896232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meydan Assa'a",
+                  "text": "O piață centrală și un punct de atracție în împrejurimile istorice ale Moscheii Karamanli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.179191,
+                        32.896232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meydan Assa'a",
+                  "text": "A central square and attraction located in the historic surroundings of the Karamanli Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        13.179191,
+                        32.896232
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-TB",
     coords: [13.179, 32.896],
@@ -1303,7 +4885,160 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-hospitaller-fort-benghazi-history-v2",
+    id: "ly-hospitaller-fort-benghazi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theatre",
+                  "text": "Ein etablierter kultureller Saal, der als prominente Bühne für Theaterproduktionen und lokale Künste in Bengasi dient.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "Benghazi exhibition Commercial",
+                  "text": "Ein weitläufiger Ausstellungskomplex, der für große Handelsmessen und regionale Kunstpräsentationen konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "Alboudozerah",
+                  "text": "Ein beliebter Freizeitpark mit Seepromenaden, Fahrgeschäften und Erholungseinrichtungen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        20.132222,
+                        32.168064
+                  ]
+            },
+            {
+                  "name": "Sidi Oubed Cemetery",
+                  "text": "Eine bedeutende historische Begräbnisstätte mit alten Gräbern, die Einblicke in vergangene Generationen von Bengasi bieten.",
+                  "category": "historical",
+                  "coords": [
+                        20.087757,
+                        32.135067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theatre",
+                  "text": "Elismert kulturális nézőtér, amely színházi produkciók és a helyi művészetek kiemelkedő színpadaként szolgál Bengáziban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "Benghazi exhibition Commercial",
+                  "text": "Tágas kiállítási komplexum, amelyet nagy volumenű kereskedelmi vásárok és regionális művészeti bemutatók megrendezésére terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "Alboudozerah",
+                  "text": "Népszerű vidámpark, amely tóparti sétányokkal, vidámparki játékokkal és családi szabadidős létesítményekkel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        20.132222,
+                        32.168064
+                  ]
+            },
+            {
+                  "name": "Sidi Oubed Cemetery",
+                  "text": "Jelentős történelmi temető régi sírokkal, amelyek bepillantást engednek Bengázi múltbéli generációinak életébe.",
+                  "category": "historical",
+                  "coords": [
+                        20.087757,
+                        32.135067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theatre",
+                  "text": "O sală de spectacole culturală consacrată, care servește ca o scenă proeminentă pentru producții teatrale și arte locale în Benghazi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "Benghazi exhibition Commercial",
+                  "text": "Un complex expozițional spațios, conceput pentru a găzdui târguri comerciale la scară largă și expoziții de artă regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "Alboudozerah",
+                  "text": "Un parc tematic de agrement popular, care oferă promenade pe malul lacului, atracții de distracție și facilități de petrecere a timpului liber pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.132222,
+                        32.168064
+                  ]
+            },
+            {
+                  "name": "Sidi Oubed Cemetery",
+                  "text": "Un cimitir istoric semnificativ, care conține morminte vechi ce oferă o perspectivă asupra generațiilor trecute din Benghazi.",
+                  "category": "historical",
+                  "coords": [
+                        20.087757,
+                        32.135067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre",
+                  "text": "An established cultural auditorium serving as a prominent stage for theatrical productions and local arts in Benghazi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "Benghazi exhibition Commercial",
+                  "text": "A spacious exhibition complex designed to host large-scale commercial trade fairs and regional art showcases.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "Alboudozerah",
+                  "text": "A popular recreational theme park featuring lakeside promenades, amusement rides, and family leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        20.132222,
+                        32.168064
+                  ]
+            },
+            {
+                  "name": "Sidi Oubed Cemetery",
+                  "text": "A significant historical burial ground containing aged tombs that provide insight into Benghazi's past generations.",
+                  "category": "historical",
+                  "coords": [
+                        20.087757,
+                        32.135067
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-BA",
     coords: [20.066, 32.116],
@@ -1353,7 +5088,160 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-benghazi-cathedral-history-v2",
+    id: "ly-benghazi-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Local Culture Theater",
+                  "text": "Das Local Culture Theater in ly-benghazi-cathedral-history-v2 verfügt über einen großen Saal für regionale Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Kathedrale von Bengasi",
+                  "text": "Die ehemals katholische Benghazi Cathedral in ly-benghazi-cathedral-history-v2 ist an ihren massiven Kuppeln erkennbar.",
+                  "category": "religious",
+                  "coords": [
+                        20.059441,
+                        32.11421
+                  ]
+            },
+            {
+                  "name": "Al Manar Palace",
+                  "text": "Der Al Manar Palace in ly-benghazi-cathedral-history-v2 ist ein historisches Schlossgebäude, das einst als königliche Residenz diente.",
+                  "category": "castle",
+                  "coords": [
+                        20.058018,
+                        32.116674
+                  ]
+            },
+            {
+                  "name": "City culture center",
+                  "text": "Das City culture center in ly-benghazi-cathedral-history-v2 ist ein monumentales Gebäude zur Bewahrung lokaler Kunst und Kultur.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Local Culture Theater",
+                  "text": "A ly-benghazi-cathedral-history-v2-ben lévő Local Culture Theater egy tágas teremmel rendelkezik a helyi színpadi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Benghazi Cathedral",
+                  "text": "A ly-benghazi-cathedral-history-v2-ben található egykori katolikus Benghazi Cathedral masszív kupoláiról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        20.059441,
+                        32.11421
+                  ]
+            },
+            {
+                  "name": "Al Manar Palace",
+                  "text": "A ly-benghazi-cathedral-history-v2-ben található Al Manar Palace egy történelmi kastélyépület, amely egykor királyi rezidenciaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        20.058018,
+                        32.116674
+                  ]
+            },
+            {
+                  "name": "City culture center",
+                  "text": "A ly-benghazi-cathedral-history-v2-ben található City culture center egy monumentális épület, amely a helyi művészet és kultúra megőrzését szolgálja.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Local Culture Theater",
+                  "text": "Local Culture Theater din ly-benghazi-cathedral-history-v2 dispune de o sală spațioasă destinată spectacolelor scenice regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Benghazi Cathedral",
+                  "text": "Fosta catedrală catolică Benghazi Cathedral din ly-benghazi-cathedral-history-v2 se recunoaște după cupolele sale masive.",
+                  "category": "religious",
+                  "coords": [
+                        20.059441,
+                        32.11421
+                  ]
+            },
+            {
+                  "name": "Al Manar Palace",
+                  "text": "Al Manar Palace din ly-benghazi-cathedral-history-v2 este o clădire istorică impunătoare care a servit odinioară ca reședință regală.",
+                  "category": "castle",
+                  "coords": [
+                        20.058018,
+                        32.116674
+                  ]
+            },
+            {
+                  "name": "City culture center",
+                  "text": "City culture center din ly-benghazi-cathedral-history-v2 este o clădire monumentală dedicată păstrării artei și culturii locale.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Local Culture Theater",
+                  "text": "The Local Culture Theater in ly-benghazi-cathedral-history-v2 features an expansive auditorium dedicated to regional stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Benghazi Cathedral",
+                  "text": "The former Catholic Benghazi Cathedral in ly-benghazi-cathedral-history-v2 is instantly recognizable by its massive, prominent domes.",
+                  "category": "religious",
+                  "coords": [
+                        20.059441,
+                        32.11421
+                  ]
+            },
+            {
+                  "name": "Al Manar Palace",
+                  "text": "The Al Manar Palace in ly-benghazi-cathedral-history-v2 is an imposing historic castle structure that once served as a royal residence.",
+                  "category": "castle",
+                  "coords": [
+                        20.058018,
+                        32.116674
+                  ]
+            },
+            {
+                  "name": "City culture center",
+                  "text": "The City culture center in ly-benghazi-cathedral-history-v2 is a monumental facility designed to preserve and exhibit local artistic heritage.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-BA",
     coords: [20.06, 32.115],
@@ -1453,7 +5341,88 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     
   },
   {
-    id: "ly-qasr-al-haj-history-v2",
+    id: "ly-qasr-al-haj-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tank memorial 2011",
+                  "text": "Das Panzerdenkmal erinnert in Qasr Al-Hajj an die militärischen Ereignisse des libyschen Konflikts 2011.",
+                  "category": "landmark",
+                  "coords": [
+                        12.162843,
+                        32.069749
+                  ]
+            },
+            {
+                  "name": "Gasr Al-Hajj",
+                  "text": "Der Gasr Al-Hajj ist ein massiver historischer Berber-Getreidespeicher, der bis ins 13. Jahrhundert zurückreicht.",
+                  "category": "historical",
+                  "coords": [
+                        12.164827,
+                        32.044538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tank memorial 2011",
+                  "text": "A 2011-es tankemlékmű a líbiai katonai konfliktus eseményeinek állít emléket Qasr Al-Hajjban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.162843,
+                        32.069749
+                  ]
+            },
+            {
+                  "name": "Gasr Al-Hajj",
+                  "text": "A Gasr Al-Hajj egy lenyűgöző berber magtárépítmény, amely a 13. században épült.",
+                  "category": "historical",
+                  "coords": [
+                        12.164827,
+                        32.044538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tank memorial 2011",
+                  "text": "Memorialul tancului din Qasr Al-Hajj comemorează evenimentele militare din conflictul libian din 2011.",
+                  "category": "landmark",
+                  "coords": [
+                        12.162843,
+                        32.069749
+                  ]
+            },
+            {
+                  "name": "Gasr Al-Hajj",
+                  "text": "Gasr Al-Hajj este un masiv grânar fortificat berber, fondat în secolul al XIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        12.164827,
+                        32.044538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tank memorial 2011",
+                  "text": "The Tank memorial in Qasr Al-Hajj commemorates the military events of the 2011 Libyan conflict.",
+                  "category": "landmark",
+                  "coords": [
+                        12.162843,
+                        32.069749
+                  ]
+            },
+            {
+                  "name": "Gasr Al-Hajj",
+                  "text": "Gasr Al-Hajj is an impressive fortified Berber granary that dates back to the 13th century.",
+                  "category": "historical",
+                  "coords": [
+                        12.164827,
+                        32.044538
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "LY-JG",
     coords: [12.167, 32.043],

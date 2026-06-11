@@ -1051,7 +1051,7 @@ export const serbiaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das Haupttheater von Subotica, ein bedeutendes kulturelles Zentrum der Stadt.",
+                  "text": "Das Nationaltheater Subotica, 1854 von János Skultéti erbaut, nahe dem Rathaus von Subotica.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -1116,7 +1116,7 @@ export const serbiaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Szabadkai Népszínház",
-                  "text": "Szabadka nemzeti színháza, a város egyik legfontosabb kulturális intézménye.",
+                  "text": "A Szabadkai Nemzeti Színház, 1854-ben építette Skultéti János, a szabadkai városháza közelében.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -1181,7 +1181,7 @@ export const serbiaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica, un centru cultural major al orașului.",
+                  "text": "Teatrul Național din Subotica, construit în 1854 de János Skultéti, lângă Primăria orașului.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -1246,7 +1246,7 @@ export const serbiaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Subotica National Theatre",
-                  "text": "The National Theatre of Subotica, a major cultural institution in the city.",
+                  "text": "Subotica National Theatre, built in 1854 by János Skultéti, near the City Hall.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -7387,7 +7387,7 @@ export const serbiaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das Nationaltheater von Subotica ist eine bedeutende kulturelle Institution in einem klassizistischen Gebäude.",
+                  "text": "Das Nationaltheater Subotica, 1854 von János Skultéti erbaut, nahe der Stadtbibliothek von Subotica.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -7452,7 +7452,7 @@ export const serbiaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Szabadkai Népszínház",
-                  "text": "A Szabadkai Népszínház a város jelentős kulturális intézménye egy klasszicista épületben.",
+                  "text": "A Szabadkai Nemzeti Színház, 1854-ben építette Skultéti János, a szabadkai városi könyvtár közelében.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -7517,7 +7517,7 @@ export const serbiaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica este o instituție culturală majoră, situată într-o clădire neoclasică.",
+                  "text": "Teatrul Național din Subotica, construit în 1854 de János Skultéti, lângă Biblioteca Orășenească.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -7582,7 +7582,7 @@ export const serbiaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Subotica National Theatre",
-                  "text": "The National Theatre in Subotica is a major cultural institution housed in a neoclassical building.",
+                  "text": "Subotica National Theatre, built in 1854 by János Skultéti, near the City Library.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -8791,7 +8791,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gradska kutsha",
-                  "text": "Das monumentale Rathaus von Subotica ist ein Wahrzeichen des ungarischen Jugendstils.",
+                  "text": "Das 1912 von Komor Marcell und Jakab Dezső erbaute Rathaus von Subotica ist ein Jugendstilbauwerk.",
                   "category": "landmark",
                   "coords": [
                         19.664552,
@@ -8856,7 +8856,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Városháza",
-                  "text": "Szabadka monumentális városháza a magyar szecesszió egyik jelképe.",
+                  "text": "A szabadkai városháza 1912-ben épült Komor Marcell és Jakab Dezső tervei alapján, szecessziós stílusban.",
                   "category": "landmark",
                   "coords": [
                         19.664552,
@@ -8921,7 +8921,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gradska kutsha",
-                  "text": "Primăria monumentală din Subotica este un simbol al stilului Secession maghiar.",
+                  "text": "Primăria din Subotica, construită în 1912 de Komor Marcell și Jakab Dezső, este o clădire Art Nouveau.",
                   "category": "landmark",
                   "coords": [
                         19.664552,
@@ -8986,7 +8986,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Town hall",
-                  "text": "The monumental Town Hall of Subotica is a landmark of Hungarian Art Nouveau.",
+                  "text": "Subotica Town Hall, built in 1912 by Komor Marcell and Jakab Dezső, is an Art Nouveau building.",
                   "category": "landmark",
                   "coords": [
                         19.664552,

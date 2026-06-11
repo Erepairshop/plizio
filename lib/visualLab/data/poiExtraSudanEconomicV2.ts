@@ -135,7 +135,88 @@ export const poiExtraSudanEconomicV2: POI[] = [
     }
   },
   {
-    id: "wadi-halfa-river-port-economic-v2",
+    id: "wadi-halfa-river-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadi Halfa",
+                  "text": "Diese geschäftige nordsudanesische Stadt am Ufer des Nassersees dient als Hauptendstation der Passagierfähre nach Ägypten.",
+                  "category": "landmark",
+                  "coords": [
+                        31.371867,
+                        21.796099
+                  ]
+            },
+            {
+                  "name": "Lake Nasser",
+                  "text": "Von diesem Aussichtspunkt aus kann man die weite Fläche eines der größten Stauseen der Welt bewundern, der durch die Stauung des Nils entstand.",
+                  "category": "natural",
+                  "coords": [
+                        31.345631,
+                        21.793958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadi Halfa",
+                  "text": "A Nasszer-tó partján fekvő nyüzsgő észak-szudáni város az Egyiptomba tartó személyszállító kompok elsődleges végállomásaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        31.371867,
+                        21.796099
+                  ]
+            },
+            {
+                  "name": "Lake Nasser",
+                  "text": "Ebből a kilátóból a Nílus felduzzasztásával létrehozott, a világ egyik legnagyobb mesterséges tavának hatalmas kiterjedése csodálható meg.",
+                  "category": "natural",
+                  "coords": [
+                        31.345631,
+                        21.793958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadi Halfa",
+                  "text": "Situat pe malul Lacului Nasser, acest oraș aglomerat din nordul Sudanului servește drept punct terminus principal pentru feribotul de pasageri către Egipt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.371867,
+                        21.796099
+                  ]
+            },
+            {
+                  "name": "Lake Nasser",
+                  "text": "Din acest punct de belvedere, se poate admira întinderea vastă a unuia dintre cele mai mari lacuri artificiale din lume, creat prin îndiguirea Nilului.",
+                  "category": "natural",
+                  "coords": [
+                        31.345631,
+                        21.793958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadi Halfa",
+                  "text": "Situated on the shores of Lake Nasser, this bustling northern Sudanese town serves as the primary terminus for the passenger ferry to Egypt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.371867,
+                        21.796099
+                  ]
+            },
+            {
+                  "name": "Lake Nasser",
+                  "text": "From this viewpoint, one can take in the vast expanse of one of the world's largest man-made lakes, created by damming the Nile.",
+                  "category": "natural",
+                  "coords": [
+                        31.345631,
+                        21.793958
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SD-NO",
     coords: [31.353, 21.796],
@@ -222,7 +303,52 @@ export const poiExtraSudanEconomicV2: POI[] = [
     }
   },
   {
-    id: "guneid-sugar-factory-economic-v2",
+    id: "guneid-sugar-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roufa'a",
+                  "text": "Roufa'a ist eine Attraktion in der Nähe der Guneid-Zuckerfabrik, die für ihre traditionellen Märkte und die unmittelbare Nähe zum Blauen Nil bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        33.360226,
+                        14.76814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roufa'a",
+                  "text": "Roufa'a a Guneid cukorgyár közelében lévő látványosság, amely hagyományos piacairól és a Kék-Nílus közelségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.360226,
+                        14.76814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roufa'a",
+                  "text": "Roufa'a este o atracție lângă Fabrica de Zahăr Guneid, cunoscută pentru piețele sale tradiționale și apropierea sa de Nilul Albastru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.360226,
+                        14.76814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roufa'a",
+                  "text": "Roufa'a is an attraction near the Guneid Sugar Factory known for its traditional markets and close proximity to the Blue Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        33.360226,
+                        14.76814
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SD-GZ",
     coords: [33.31, 14.83],
@@ -288,7 +414,160 @@ export const poiExtraSudanEconomicV2: POI[] = [
     }
   },
   {
-    id: "al-jaili-oil-refinery-economic-v2",
+    id: "al-jaili-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal er Rawyan",
+                  "text": "In der Nähe der Ölraffinerie gelegen, überblickt dieser Berggipfel die weiten industriellen Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        32.6836,
+                        16.1255
+                  ]
+            },
+            {
+                  "name": "Al Qileta",
+                  "text": "Dieser markante Gipfel ist ein natürliches Wahrzeichen inmitten der regionalen Infrastrukturentwicklung.",
+                  "category": "natural",
+                  "coords": [
+                        32.6474,
+                        16.2118
+                  ]
+            },
+            {
+                  "name": "Ab Qarnen",
+                  "text": "Ein Berg mit zwei Gipfeln, dessen markante Silhouette von der nahegelegenen Raffinerie aus leicht zu erkennen ist.",
+                  "category": "natural",
+                  "coords": [
+                        32.655,
+                        16.2141
+                  ]
+            },
+            {
+                  "name": "Jabal el Lihemir",
+                  "text": "Dieses schroffe Bergmassiv besteht aus rötlichem Gestein, das in der späten Nachmittagssonne leuchtet.",
+                  "category": "natural",
+                  "coords": [
+                        32.6339,
+                        16.1486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal er Rawyan",
+                  "text": "Az olajfinomító közelében található hegycsúcs a hatalmas ipari síkságokra néz.",
+                  "category": "natural",
+                  "coords": [
+                        32.6836,
+                        16.1255
+                  ]
+            },
+            {
+                  "name": "Al Qileta",
+                  "text": "Ez a kiemelkedő csúcs természetes tájékozódási pontként szolgál a regionális infrastruktúra-fejlesztés közepette.",
+                  "category": "natural",
+                  "coords": [
+                        32.6474,
+                        16.2118
+                  ]
+            },
+            {
+                  "name": "Ab Qarnen",
+                  "text": "Kétcsúcsú hegy, amelynek jellegzetes sziluettje könnyen felismerhető a közeli finomítóból.",
+                  "category": "natural",
+                  "coords": [
+                        32.655,
+                        16.2141
+                  ]
+            },
+            {
+                  "name": "Jabal el Lihemir",
+                  "text": "Ez a zord hegyvonulat vöröses kőzetből áll, amely a késő délutáni napfényben ragyog.",
+                  "category": "natural",
+                  "coords": [
+                        32.6339,
+                        16.1486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal er Rawyan",
+                  "text": "Situat în apropierea rafinăriei de petrol, acest vârf de munte are vedere la vastele câmpii industriale.",
+                  "category": "natural",
+                  "coords": [
+                        32.6836,
+                        16.1255
+                  ]
+            },
+            {
+                  "name": "Al Qileta",
+                  "text": "Acest vârf proeminent stă ca un reper natural în mijlocul dezvoltării infrastructurii regionale.",
+                  "category": "natural",
+                  "coords": [
+                        32.6474,
+                        16.2118
+                  ]
+            },
+            {
+                  "name": "Ab Qarnen",
+                  "text": "Un munte cu două vârfuri a cărui siluetă distinctivă este ușor de recunoscut de la rafinăria din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        32.655,
+                        16.2141
+                  ]
+            },
+            {
+                  "name": "Jabal el Lihemir",
+                  "text": "Acest munte accidentat este compus din rocă roșiatică care strălucește în lumina soarelui de după-amiază târziu.",
+                  "category": "natural",
+                  "coords": [
+                        32.6339,
+                        16.1486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal er Rawyan",
+                  "text": "Located near the oil refinery, this mountain peak overlooks the vast industrial plains.",
+                  "category": "natural",
+                  "coords": [
+                        32.6836,
+                        16.1255
+                  ]
+            },
+            {
+                  "name": "Al Qileta",
+                  "text": "This prominent peak stands as a natural landmark amidst the regional infrastructure development.",
+                  "category": "natural",
+                  "coords": [
+                        32.6474,
+                        16.2118
+                  ]
+            },
+            {
+                  "name": "Ab Qarnen",
+                  "text": "A dual-peaked mountain whose distinctive silhouette is easily recognizable from the nearby refinery.",
+                  "category": "natural",
+                  "coords": [
+                        32.655,
+                        16.2141
+                  ]
+            },
+            {
+                  "name": "Jabal el Lihemir",
+                  "text": "This rugged mountain feature is composed of reddish rock that glows during the late afternoon sun.",
+                  "category": "natural",
+                  "coords": [
+                        32.6339,
+                        16.1486
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SD-KN",
     coords: [32.61, 16.14],
@@ -548,7 +827,124 @@ export const poiExtraSudanEconomicV2: POI[] = [
     }
   },
   {
-    id: "khartoum-north-industrial-economic-v2",
+    id: "khartoum-north-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khider Bashier Theatre",
+                  "text": "Ein lokales Kulturtheater im Industriegebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        32.536214,
+                        15.667648
+                  ]
+            },
+            {
+                  "name": "1438",
+                  "text": "Ein lokaler erhöhter Aussichtspunkt mit Blick auf die umliegenden Industriegebäude.",
+                  "category": "natural",
+                  "coords": [
+                        32.608006,
+                        15.71358
+                  ]
+            },
+            {
+                  "name": "Al Shifa Pharmaceutical Factory",
+                  "text": "Die Ruinen einer großen pharmazeutischen Fabrik, die 1998 bekanntermaßen zerstört wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        32.561678,
+                        15.645861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khider Bashier Theatre",
+                  "text": "Helyi kulturális színház az ipari övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        32.536214,
+                        15.667648
+                  ]
+            },
+            {
+                  "name": "1438",
+                  "text": "Helyi magaslati kilátópont, ahonnan rálátni a környező ipari épületekre.",
+                  "category": "natural",
+                  "coords": [
+                        32.608006,
+                        15.71358
+                  ]
+            },
+            {
+                  "name": "Al Shifa Pharmaceutical Factory",
+                  "text": "Egy nagy gyógyszergyár romjai, amely arról híres, hogy 1998-ban megsemmisült.",
+                  "category": "landmark",
+                  "coords": [
+                        32.561678,
+                        15.645861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khider Bashier Theatre",
+                  "text": "Un teatru cultural local situat în cadrul zonei industriale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.536214,
+                        15.667648
+                  ]
+            },
+            {
+                  "name": "1438",
+                  "text": "Un punct de belvedere local înalt, care oferă o privire asupra clădirilor industriale din jur.",
+                  "category": "natural",
+                  "coords": [
+                        32.608006,
+                        15.71358
+                  ]
+            },
+            {
+                  "name": "Al Shifa Pharmaceutical Factory",
+                  "text": "Ruinele unei mari fabrici farmaceutice, celebră pentru că a fost distrusă în 1998.",
+                  "category": "landmark",
+                  "coords": [
+                        32.561678,
+                        15.645861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khider Bashier Theatre",
+                  "text": "A local cultural theatre situated within the industrial zone of Khartoum North.",
+                  "category": "cultural",
+                  "coords": [
+                        32.536214,
+                        15.667648
+                  ]
+            },
+            {
+                  "name": "1438",
+                  "text": "A local elevated viewpoint offering a look over the surrounding industrial buildings.",
+                  "category": "natural",
+                  "coords": [
+                        32.608006,
+                        15.71358
+                  ]
+            },
+            {
+                  "name": "Al Shifa Pharmaceutical Factory",
+                  "text": "The ruins of a large pharmaceutical facility that was famously destroyed by a cruise missile strike in 1998.",
+                  "category": "landmark",
+                  "coords": [
+                        32.561678,
+                        15.645861
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SD-KN",
     coords: [32.55, 15.65],

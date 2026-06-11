@@ -53,7 +53,52 @@ export const poiExtraGabonEconomicV2: POI[] = [
     
      image: "/poi-images/gamba-oil-terminal-economic-v2.webp"},
   {
-    id: "nkok-sez-economic-v2",
+    id: "nkok-sez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chutes de Meyang",
+                  "text": "Die Chutes de Meyang sind kaskadierende Wasserfälle in der Nähe der Sonderwirtschaftszone Nkok.",
+                  "category": "landmark",
+                  "coords": [
+                        9.820599,
+                        0.395737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chutes de Meyang",
+                  "text": "A Chutes de Meyang egy vízesés a Nkok Különleges Gazdasági Övezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.820599,
+                        0.395737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chutes de Meyang",
+                  "text": "Chutes de Meyang este o atracție cu cascade situată în apropiere de Zona Economică Specială Nkok.",
+                  "category": "landmark",
+                  "coords": [
+                        9.820599,
+                        0.395737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chutes de Meyang",
+                  "text": "Chutes de Meyang is a cascading waterfall attraction located near the Nkok Special Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        9.820599,
+                        0.395737
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GA-1",
     coords: [9.78, 0.40],
@@ -148,7 +193,52 @@ export const poiExtraGabonEconomicV2: POI[] = [
     },
   },
   {
-    id: "cap-lopez-terminal-economic-v2",
+    id: "cap-lopez-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Phare du Cap Lopez",
+                  "text": "Le Phare du Cap Lopez ist ein historischer Leuchtturm, der 1911 in Betrieb genommen und von Gustave Eiffel entworfen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        8.702582,
+                        -0.631274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Phare du Cap Lopez",
+                  "text": "A Le Phare du Cap Lopez egy történelmi világítótorony, amelyet Gustave Eiffel tervezett és 1911-ben helyeztek üzembe.",
+                  "category": "landmark",
+                  "coords": [
+                        8.702582,
+                        -0.631274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Phare du Cap Lopez",
+                  "text": "Le Phare du Cap Lopez este un far istoric, proiectat de Gustave Eiffel și dat în folosință în 1911.",
+                  "category": "landmark",
+                  "coords": [
+                        8.702582,
+                        -0.631274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Phare du Cap Lopez",
+                  "text": "Le Phare du Cap Lopez is a historic lighthouse commissioned in 1911 and designed by Gustave Eiffel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.702582,
+                        -0.631274
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GA-8",
     coords: [8.70, -0.63],
@@ -196,7 +286,52 @@ export const poiExtraGabonEconomicV2: POI[] = [
       fr: ["Réservoirs de stockage de pétrole brut.", "Quai d'accostage pour les grands pétroliers."],
     }, image: "/poi-images/cap-lopez-terminal-economic-v2.webp"},
   {
-    id: "sogara-refinery-economic-v2",
+    id: "sogara-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marina",
+                  "text": "Eine Küstenbootanlage in der Nähe des Raffineriekomplexes Sogara.",
+                  "category": "landmark",
+                  "coords": [
+                        8.758604,
+                        -0.677202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marina",
+                  "text": "Egy tengerparti csónakázási létesítmény a Sogara finomítókomplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.758604,
+                        -0.677202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marina",
+                  "text": "O facilitate de navigație de coastă situată în apropierea complexului de rafinărie Sogara.",
+                  "category": "landmark",
+                  "coords": [
+                        8.758604,
+                        -0.677202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marina",
+                  "text": "A coastal boating facility situated near the Sogara refinery complex.",
+                  "category": "landmark",
+                  "coords": [
+                        8.758604,
+                        -0.677202
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GA-8",
     coords: [8.75, -0.68],
@@ -436,7 +571,88 @@ export const poiExtraGabonEconomicV2: POI[] = [
       fr: ["Électricité pour la région de la capitale.", "Production d'énergie durable."],
     }, image: "/poi-images/kinguele-power-station-economic-v2.webp"},
   {
-    id: "mayumba-port-economic-v2",
+    id: "mayumba-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Ein Gedenkkreuzdenkmal in Mayumba, das 2011 errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        10.65929,
+                        -3.442373
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte Odile",
+                  "text": "Eine denkmalgeschützte Kapelle, die der lokalen Hafengemeinde von Mayumba dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.668379,
+                        -3.431361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Egy 2011-ben felállított emlékereszt emlékmű Mayumbában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.65929,
+                        -3.442373
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte Odile",
+                  "text": "Egy műemlékvédelem alatt álló kápolna, amely Mayumba helyi kikötői közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        10.668379,
+                        -3.431361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Un monument cu cruce comemorativă în Mayumba, stabilit în 2011.",
+                  "category": "landmark",
+                  "coords": [
+                        10.65929,
+                        -3.442373
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte Odile",
+                  "text": "O capelă de patrimoniu recunoscută care deservește comunitatea portuară locală din Mayumba.",
+                  "category": "religious",
+                  "coords": [
+                        10.668379,
+                        -3.431361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "A commemorative cross monument in Mayumba, established in 2011.",
+                  "category": "landmark",
+                  "coords": [
+                        10.65929,
+                        -3.442373
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte Odile",
+                  "text": "A recognized heritage chapel serving the local Mayumba port community.",
+                  "category": "religious",
+                  "coords": [
+                        10.668379,
+                        -3.431361
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GA-5",
     coords: [10.65, -3.42],
@@ -532,7 +748,52 @@ export const poiExtraGabonEconomicV2: POI[] = [
     },
   },
   {
-    id: "mounana-uranium-economic-v2",
+    id: "mounana-uranium-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturreaktor Oklo",
+                  "text": "Dieser prähistorische natürliche Kernreaktor in den Uranminen von Oklo bei Mounana war vor etwa 1,7 Milliarden Jahren aktiv.",
+                  "category": "historical",
+                  "coords": [
+                        13.160256,
+                        -1.394522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Natural nuclear fission reactor",
+                  "text": "Ez a Mounana melletti okloi uránlelőhelyen felfedezett, ősi természetes atomreaktor körülbelül 1,7 milliárd évvel ezelőtt működött.",
+                  "category": "historical",
+                  "coords": [
+                        13.160256,
+                        -1.394522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Natural nuclear fission reactor",
+                  "text": "Acest reactor nuclear natural antic din depozitele de uraniu Oklo de lângă Mounana a funcționat cu aproximativ 1,7 miliarde de ani în urmă.",
+                  "category": "historical",
+                  "coords": [
+                        13.160256,
+                        -1.394522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Natural nuclear fission reactor",
+                  "text": "Discovered in the Oklo uranium deposits near Mounana, this ancient natural nuclear fission reactor operated around 1.7 billion years ago.",
+                  "category": "historical",
+                  "coords": [
+                        13.160256,
+                        -1.394522
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GA-2",
     coords: [13.16, -1.41],
@@ -580,7 +841,88 @@ export const poiExtraGabonEconomicV2: POI[] = [
     },
   },
   {
-    id: "biniomi-manganese-economic-v2",
+    id: "biniomi-manganese-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Observatoire de Mapouba",
+                  "text": "Das Observatoire de Mapouba ist ein Aussichtspunkt mit Blick über die manganreichen Wirtschaftszonen von Biniomi.",
+                  "category": "natural",
+                  "coords": [
+                        13.433496,
+                        -1.619814
+                  ]
+            },
+            {
+                  "name": "Fouga-Magister",
+                  "text": "Die Fouga-Magister in Biniomi ist eine von der Luftfahrt inspirierte Attraktion mit einem ausgemusterten strahlgetriebenen Schulflugzeug.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444303,
+                        -1.622409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Observatoire de Mapouba",
+                  "text": "Az Observatoire de Mapouba egy kilátó, ahonnan Biniomi mangángazdag gazdasági övezeteire nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        13.433496,
+                        -1.619814
+                  ]
+            },
+            {
+                  "name": "Fouga-Magister",
+                  "text": "A biniomi Fouga-Magister egy repülési témájú látványosság, amely egy leselejtezett sugárhajtású kiképző repülőgépet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444303,
+                        -1.622409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Observatoire de Mapouba",
+                  "text": "Observatoire de Mapouba este un punct de belvedere ce oferă priveliști peste zonele economice bogate în mangan din Biniomi.",
+                  "category": "natural",
+                  "coords": [
+                        13.433496,
+                        -1.619814
+                  ]
+            },
+            {
+                  "name": "Fouga-Magister",
+                  "text": "Fouga-Magister din Biniomi este o atracție cu tematică aviatică, prezentând un fost avion de antrenament cu reacție.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444303,
+                        -1.622409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Observatoire de Mapouba",
+                  "text": "Observatoire de Mapouba is a viewpoint offering vistas over the manganese-rich economic zones of Biniomi.",
+                  "category": "natural",
+                  "coords": [
+                        13.433496,
+                        -1.619814
+                  ]
+            },
+            {
+                  "name": "Fouga-Magister",
+                  "text": "Fouga-Magister is an aviation-themed attraction, featuring a retired jet trainer aircraft, situated in the Biniomi area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444303,
+                        -1.622409
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GA-2",
     coords: [13.5, -1.6],

@@ -90,7 +90,88 @@ export const poiExtraMaliNatureV2: POI[] = [
     },
   },
   {
-    id: "baoule-river-nature-v2",
+    id: "baoule-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ferme de M. DOUMBIA",
+                  "text": "Diese landwirtschaftliche Attraktion bietet einen Einblick in das Landleben nahe des Flusses Baoulé.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.761299,
+                        12.727338
+                  ]
+            },
+            {
+                  "name": "Notre champs",
+                  "text": "Vor der Kulisse der Baoulé-Flusslandschaft dient dieses lokale Feld als malerische landwirtschaftliche Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.737426,
+                        12.743125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ferme de M. DOUMBIA",
+                  "text": "Ez a mezőgazdasági látványosság bepillantást enged a Baoulé folyó melletti vidéki életbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.761299,
+                        12.727338
+                  ]
+            },
+            {
+                  "name": "Notre champs",
+                  "text": "A Baoulé folyó tájába simuló helyi szántóföld festői mezőgazdasági látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.737426,
+                        12.743125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ferme de M. DOUMBIA",
+                  "text": "Această fermă agricolă oferă o privire asupra vieții rurale din apropierea râului Baoulé.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.761299,
+                        12.727338
+                  ]
+            },
+            {
+                  "name": "Notre champs",
+                  "text": "Amplasat pe fundalul peisajului râului Baoulé, acest câmp local servește drept atracție agricolă pitorească.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.737426,
+                        12.743125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ferme de M. DOUMBIA",
+                  "text": "This agricultural farm attraction offers a glimpse into rural life near the Baoulé River.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.761299,
+                        12.727338
+                  ]
+            },
+            {
+                  "name": "Notre champs",
+                  "text": "Set against the Baoulé River landscape, this local field site serves as a scenic agricultural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.737426,
+                        12.743125
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ML-KK",
     coords: [-7.8, 12.8],
@@ -981,7 +1062,52 @@ export const poiExtraMaliNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-sikasso-nature-v2",
+    id: "mount-sikasso-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salle Lamissa Bengaly",
+                  "text": "Dieses regionale Theater und Veranstaltungssaal in Sikasso beherbergt eine Vielzahl von kulturellen Veranstaltungen und lokalen künstlerischen Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.698264,
+                        11.313305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salle Lamissa Bengaly",
+                  "text": "Ez a sikassói regionális színház és előadóterem számos kulturális eseménynek és helyi művészeti produkciónak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.698264,
+                        11.313305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salle Lamissa Bengaly",
+                  "text": "Această sală de teatru și spectacole regională din Sikasso găzduiește o varietate de evenimente culturale și producții artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.698264,
+                        11.313305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salle Lamissa Bengaly",
+                  "text": "This regional theatre and performance hall in Sikasso hosts a variety of cultural events and local artistic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.698264,
+                        11.313305
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ML-SK",
     coords: [-5.7, 11.3],

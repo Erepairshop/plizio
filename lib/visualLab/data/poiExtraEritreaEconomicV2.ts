@@ -243,7 +243,52 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       fr: ["Se situe dans la région d'Anseba.", "L'exploitation commerciale a commencé en 2016.", "Exploitée par un consortium international.", "Contribue fortement au Produit Intérieur Brut."],
     }, image: "/poi-images/er-anseba-zara-mining-economic-v2.webp"},
   {
-    id: "er-sem-kei-bahri-massawa-port-economic-v2",
+    id: "er-sem-kei-bahri-massawa-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Azieb",
+                  "text": "Ein lokaler Anziehungspunkt in der Hafenregion von Massaua am Roten Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Azieb",
+                  "text": "Egy helyi látványosság a Vörös-tenger partján, Masszava kikötői régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Azieb",
+                  "text": "Un punct de atracție local în regiunea portuară Massawa de la Marea Roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Azieb",
+                  "text": "A local attraction located in the Red Sea port region of Massawa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ER-SK",
     coords: [39.4754, 15.6074],
@@ -339,7 +384,52 @@ export const poiExtraEritreaEconomicV2: POI[] = [
     },
   },
   {
-    id: "er-deb-kei-bahri-assab-refinery-economic-v2",
+    id: "er-deb-kei-bahri-assab-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arsinoé",
+                  "text": "Die archäologische Stätte Arsinoé umfasst die antiken Ruinen einer Küstensiedlung in der Nähe der Assab-Raffinerie.",
+                  "category": "historical",
+                  "coords": [
+                        42.736599,
+                        13.031405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arsinoé",
+                  "text": "Arsinoé régészeti lelőhelye egy Assab finomítója közelében található ősi tengerparti település romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        42.736599,
+                        13.031405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arsinoé",
+                  "text": "Situl arheologic Arsinoé cuprinde ruinele antice ale unei așezări de coastă situate lângă rafinăria din Assab.",
+                  "category": "historical",
+                  "coords": [
+                        42.736599,
+                        13.031405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsinoé",
+                  "text": "The archaeological site of Arsinoé features the ancient ruins of a coastal settlement located near Assab.",
+                  "category": "historical",
+                  "coords": [
+                        42.736599,
+                        13.031405
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ER-DK",
     coords: [42.73, 13.015],
@@ -435,7 +525,124 @@ export const poiExtraEritreaEconomicV2: POI[] = [
     },
   },
   {
-    id: "er-maekel-asmara-textile-economic-v2",
+    id: "er-maekel-asmara-textile-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haben home",
+                  "text": "Haben Home ist ein markantes lokales Gebäude in den lebhaften Textil- und Wirtschaftsvierteln der Region Maekel in Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939606,
+                        15.336383
+                  ]
+            },
+            {
+                  "name": "H Max",
+                  "text": "H Max ist eine bemerkenswerte moderne kommerzielle Attraktion im pulsierenden Wirtschaftszentrum von Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939671,
+                        15.334392
+                  ]
+            },
+            {
+                  "name": "Baptisms",
+                  "text": "Das Taufdenkmal in Asmara ist eine skulpturale Hommage, die bedeutende religiöse Traditionen der lokalen orthodoxen Gemeinde festhält.",
+                  "category": "historical",
+                  "coords": [
+                        38.945507,
+                        15.335132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haben home",
+                  "text": "A Haben home egy kiemelkedő helyi építmény, amely Asmara Maekel régiójának nyüzsgő textil- és gazdasági negyedeiben bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939606,
+                        15.336383
+                  ]
+            },
+            {
+                  "name": "H Max",
+                  "text": "A H Max egy figyelemre méltó modern kereskedelmi látványosság Asmara nyüzsgő gazdasági központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939671,
+                        15.334392
+                  ]
+            },
+            {
+                  "name": "Baptisms",
+                  "text": "A Keresztelések emlékmű Asmarában egy szobrászati alkotás, amely a helyi ortodox közösség jelentős vallási hagyományait örökíti meg.",
+                  "category": "historical",
+                  "coords": [
+                        38.945507,
+                        15.335132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haben home",
+                  "text": "Haben home este o structură locală proeminentă situată în districtele textile și economice vibrante din regiunea Maekel a Asmarei.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939606,
+                        15.336383
+                  ]
+            },
+            {
+                  "name": "H Max",
+                  "text": "H Max este o atracție comercială modernă notabilă situată în centrul economic plin de viață din Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939671,
+                        15.334392
+                  ]
+            },
+            {
+                  "name": "Baptisms",
+                  "text": "Monumentul Botezului din Asmara este un tribut sculptural ce surprinde tradiții religioase semnificative ale comunității ortodoxe locale.",
+                  "category": "historical",
+                  "coords": [
+                        38.945507,
+                        15.335132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haben home",
+                  "text": "Haben home is a prominent local structure nestled within the vibrant textile and economic districts of the Maekel region in Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939606,
+                        15.336383
+                  ]
+            },
+            {
+                  "name": "H Max",
+                  "text": "H Max is a notable modern commercial attraction situated in Asmara's bustling economic hub.",
+                  "category": "landmark",
+                  "coords": [
+                        38.939671,
+                        15.334392
+                  ]
+            },
+            {
+                  "name": "Baptisms",
+                  "text": "The Baptisms monument in Asmara is a sculptural tribute capturing significant religious traditions of the local Orthodox community.",
+                  "category": "historical",
+                  "coords": [
+                        38.945507,
+                        15.335132
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ER-MA",
     coords: [38.94, 15.335],
@@ -1155,7 +1362,52 @@ export const poiExtraEritreaEconomicV2: POI[] = [
     },
   },
   {
-    id: "er-sem-kei-bahri-zula-port-economic-v2",
+    id: "er-sem-kei-bahri-zula-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adulis",
+                  "text": "Die antiken Ruinen der Hafenstadt Adulis an der Bucht von Zula.",
+                  "category": "historical",
+                  "coords": [
+                        39.667625,
+                        15.211718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adulis",
+                  "text": "Adulisz ősi kikötővárosának romjai a Zula-öböl partján.",
+                  "category": "historical",
+                  "coords": [
+                        39.667625,
+                        15.211718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adulis",
+                  "text": "Ruinele anticului oraș-port Adulis de pe țărmul golfului Zula.",
+                  "category": "historical",
+                  "coords": [
+                        39.667625,
+                        15.211718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adulis",
+                  "text": "The ancient archaeological ruins of the port city of Adulis on the Gulf of Zula.",
+                  "category": "historical",
+                  "coords": [
+                        39.667625,
+                        15.211718
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ER-SK",
     coords: [39.6667, 15.25],

@@ -103,7 +103,232 @@ export const poiExtraGambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "kartong-reptile-farm-life-v2",
+    id: "kartong-reptile-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tesito Beach",
+                  "text": "Dieser Sandstrand an der Küste bietet einen malerischen Ort der Entspannung an den Meereswellen.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76926,
+                        13.095753
+                  ]
+            },
+            {
+                  "name": "Halahin Beach",
+                  "text": "Dieser offene, sandige Küstenstrand lädt zu Spaziergängen entlang der Uferlinie ein.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.766904,
+                        13.106816
+                  ]
+            },
+            {
+                  "name": "Sandele beach",
+                  "text": "Dieser Sandstrandbereich bietet Besuchern eine ruhige Küstenumgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76609,
+                        13.120986
+                  ]
+            },
+            {
+                  "name": "Mama sanchaba",
+                  "text": "Dieser sandige Küstenstrand bietet einen entspannenden Ort am Meeresufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76836,
+                        13.126648
+                  ]
+            },
+            {
+                  "name": "Baboi Beach",
+                  "text": "Dieser Sandstrand an der Küste besticht durch Meerblick und eine natürliche Uferlinie.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.765784,
+                        13.115102
+                  ]
+            },
+            {
+                  "name": "Gambia Reptile Farm",
+                  "text": "Diese zoologische Einrichtung konzentriert sich auf die Erhaltung und Ausstellung verschiedener lokaler Reptilienarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.757743,
+                        13.121848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tesito Beach",
+                  "text": "Ez a homokos tengerpart festői helyszínt kínál a pihenésre az óceán hullámai mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76926,
+                        13.095753
+                  ]
+            },
+            {
+                  "name": "Halahin Beach",
+                  "text": "Ez a nyílt, homokos tengerpart ideális a part menti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.766904,
+                        13.106816
+                  ]
+            },
+            {
+                  "name": "Sandele beach",
+                  "text": "Ez a homokos strandszakasz nyugodt tengerparti környezetet biztosít a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76609,
+                        13.120986
+                  ]
+            },
+            {
+                  "name": "Mama sanchaba",
+                  "text": "Ez a tengerparti homokos strand pihentető helyszínt kínál az óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76836,
+                        13.126648
+                  ]
+            },
+            {
+                  "name": "Baboi Beach",
+                  "text": "Ez a tengerpart menti homokos strand óceánra néző kilátást és természetes partvonalat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.765784,
+                        13.115102
+                  ]
+            },
+            {
+                  "name": "Gambia Reptile Farm",
+                  "text": "Ez az állatkerti létesítmény a különböző helyi hüllőfajok megőrzésére és bemutatására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.757743,
+                        13.121848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tesito Beach",
+                  "text": "Această plajă cu nisip pe coastă oferă un loc pitoresc pentru relaxare lângă valurile oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76926,
+                        13.095753
+                  ]
+            },
+            {
+                  "name": "Halahin Beach",
+                  "text": "Această întindere deschisă de plajă cu nisip este ideală pentru plimbări de-a lungul țărmului.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.766904,
+                        13.106816
+                  ]
+            },
+            {
+                  "name": "Sandele beach",
+                  "text": "Această zonă de plajă cu nisip oferă un mediu de coastă liniștit pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76609,
+                        13.120986
+                  ]
+            },
+            {
+                  "name": "Mama sanchaba",
+                  "text": "Această plajă cu nisip pe coastă oferă un loc relaxant de-a lungul țărmului oceanic.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76836,
+                        13.126648
+                  ]
+            },
+            {
+                  "name": "Baboi Beach",
+                  "text": "Această plajă cu nisip de-a lungul coastei are vedere la ocean și un țărm natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.765784,
+                        13.115102
+                  ]
+            },
+            {
+                  "name": "Gambia Reptile Farm",
+                  "text": "Această facilitate zoologică se concentrează pe conservarea și expoziția diferitelor specii locale de reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.757743,
+                        13.121848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tesito Beach",
+                  "text": "This sandy coastal beach offers a scenic spot for relaxation by the ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76926,
+                        13.095753
+                  ]
+            },
+            {
+                  "name": "Halahin Beach",
+                  "text": "This open stretch of sandy coastal beach is ideal for walking along the shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.766904,
+                        13.106816
+                  ]
+            },
+            {
+                  "name": "Sandele beach",
+                  "text": "This sandy beach area provides a tranquil coastal environment for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76609,
+                        13.120986
+                  ]
+            },
+            {
+                  "name": "Mama sanchaba",
+                  "text": "This coastal sandy beach provides a relaxing spot along the ocean shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.76836,
+                        13.126648
+                  ]
+            },
+            {
+                  "name": "Baboi Beach",
+                  "text": "This sandy beach along the coast features ocean views and a natural shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.765784,
+                        13.115102
+                  ]
+            },
+            {
+                  "name": "Gambia Reptile Farm",
+                  "text": "This zoo facility focuses on the conservation and exhibition of various local reptile species.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.757743,
+                        13.121848
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GM-W",
     coords: [-16.76, 13.1],
@@ -249,7 +474,88 @@ export const poiExtraGambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "serekunda-central-market-life-v2",
+    id: "serekunda-central-market-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Dieses öffentliche Denkmal steht als zentrale Hommage an die Jugend der örtlichen Gemeinschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445335
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Dieses Kunstzentrum fördert den kulturellen Austausch durch Sprachkurse und Kunstausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678294,
+                        13.448299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Ez a köztéri emlékmű a helyi közösség ifjúságának központi tisztelgéseként áll.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445335
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Ez a művészeti központ kulturális cserét hirdet nyelvtanfolyamokon és művészeti kiállításokon keresztül.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678294,
+                        13.448299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Acest monument public este un omagiu central adus tineretului din comunitatea locală.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445335
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Acest centru de arte promovează schimbul cultural prin cursuri de limbă și expoziții artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678294,
+                        13.448299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "This public monument stands as a central tribute to the youth of the local community.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445335
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "This arts centre promotes cultural exchange through language classes and artistic exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678294,
+                        13.448299
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GM-W",
     coords: [-16.68, 13.44],
@@ -297,7 +603,52 @@ export const poiExtraGambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "lamin-lodge-mangroves-life-v2",
+    id: "lamin-lodge-mangroves-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elephant Tree",
+                  "text": "Der Elephant Tree ist ein einzigartig geformtes natürliches Wahrzeichen, das Besucher in der Gegend von lamin-lodge-mangroves-life-v2 anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elephant Tree",
+                  "text": "Az Elephant Tree egy egyedi formájú természetes nevezetesség, amely vonzza a látogatókat lamin-lodge-mangroves-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elephant Tree",
+                  "text": "Elephant Tree este un reper natural cu o formă unică care atrage vizitatorii în zona lamin-lodge-mangroves-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elephant Tree",
+                  "text": "The Elephant Tree is a uniquely shaped natural landmark drawing visitors in the lamin-lodge-mangroves-life-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GM-W",
     coords: [-16.64, 13.39],
@@ -441,7 +792,52 @@ export const poiExtraGambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "basse-peanut-fields-life-v2",
+    id: "basse-peanut-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sabi Forest Park",
+                  "text": "Der Sabi Forest Park schützt ein wichtiges Waldgebiet, das an die ausgedehnten landwirtschaftlichen Erdnussfelder der Region Basse grenzt.",
+                  "category": "natural",
+                  "coords": [
+                        -14.188441,
+                        13.278505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sabi Forest Park",
+                  "text": "A Sabi Erdei Park egy fontos erdei élőhelyet véd, amely a Basse régió kiterjedt mezőgazdasági mogyoróföldjeivel határos.",
+                  "category": "natural",
+                  "coords": [
+                        -14.188441,
+                        13.278505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sabi Forest Park",
+                  "text": "Parcul Forestier Sabi protejează o zonă împădurită esențială care se învecinează cu întinsele câmpuri agricole de arahide din regiunea Basse.",
+                  "category": "natural",
+                  "coords": [
+                        -14.188441,
+                        13.278505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sabi Forest Park",
+                  "text": "Sabi Forest Park protects a crucial patch of woodland habitat adjacent to the sprawling agricultural peanut fields of the Basse area.",
+                  "category": "natural",
+                  "coords": [
+                        -14.188441,
+                        13.278505
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GM-U",
     coords: [-14.2, 13.3],
@@ -633,7 +1029,88 @@ export const poiExtraGambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "tanji-village-museum-life-v2",
+    id: "tanji-village-museum-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "Ein geschütztes Küsten-Naturschutzgebiet, das vielfältige Lebensräume für die lokale Tierwelt umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Ein ausgewiesenes Vogelschutzgebiet, das wichtigen Lebensraum für Zugvögel und endemische Vogelarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.783401,
+                        13.374045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "Védett part menti természetvédelmi terület, amely változatos élőhelyeket foglal magában a helyi vadvilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Kijelölt madárvédelmi terület, amely létfontosságú menedéket nyújt a vándorló és endemikus madárfajoknak.",
+                  "category": "natural",
+                  "coords": [
+                        -16.783401,
+                        13.374045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "O rezervație naturală de coastă protejată, care cuprinde habitate diverse pentru fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "O rezervație naturală dedicată păsărilor, oferind un sanctuar esențial pentru speciile migratoare și endemice.",
+                  "category": "natural",
+                  "coords": [
+                        -16.783401,
+                        13.374045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "A protected coastal nature reserve encompassing diverse habitats for local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "A dedicated avian nature reserve offering essential sanctuary for migratory and endemic bird species.",
+                  "category": "natural",
+                  "coords": [
+                        -16.783401,
+                        13.374045
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GM-W",
     coords: [-16.78, 13.36],
@@ -777,7 +1254,52 @@ export const poiExtraGambiaLifeV2: POI[] = [
     },
   },
   {
-    id: "farafenni-livestock-market-life-v2",
+    id: "farafenni-livestock-market-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pakala Forest Park",
+                  "text": "Der Pakala Forest Park ist ein dicht bewachsenes Naturschutzgebiet in Gambia, das einen wertvollen Lebensraum für die lokale Flora und Fauna in der Region Farafenni bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -15.65399,
+                        13.562209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pakala Forest Park",
+                  "text": "A Pakala Forest Park egy sűrű növényzetű természetvédelmi terület Gambiában, amely értékes élőhelyet biztosít a helyi növény- és állatvilágnak Farafenni környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -15.65399,
+                        13.562209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pakala Forest Park",
+                  "text": "Pakala Forest Park este o rezervație naturală cu vegetație densă din Gambia, oferind un habitat valoros pentru flora și fauna locală din regiunea Farafenni.",
+                  "category": "natural",
+                  "coords": [
+                        -15.65399,
+                        13.562209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pakala Forest Park",
+                  "text": "Pakala Forest Park is a densely vegetated nature reserve in The Gambia, providing a valuable habitat for local flora and fauna near Farafenni.",
+                  "category": "natural",
+                  "coords": [
+                        -15.65399,
+                        13.562209
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GM-N",
     coords: [-15.6, 13.57],

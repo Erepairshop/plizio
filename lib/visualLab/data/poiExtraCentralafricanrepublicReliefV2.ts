@@ -875,7 +875,52 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
     },
   },
   {
-    id: "kotto-massiv-relief-v2",
+    id: "kotto-massiv-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zone d'interêt cynégétique de Poula / secteur N°33",
+                  "text": "Dieses ausgewiesene Jagd- und Naturschutzgebiet schützt die Tierwelt der Savanne nahe dem Kotto-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        23.033861,
+                        7.475904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zone d'interêt cynégétique de Poula / secteur N°33",
+                  "text": "Ez a kijelölt vadász- és természetvédelmi terület a Kotto-hegység közelében fekvő szavanna vadvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        23.033861,
+                        7.475904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zone d'interêt cynégétique de Poula / secteur N°33",
+                  "text": "Această zonă de vânătoare și rezervație naturală protejează fauna sălbatică de savană din apropierea Masivului Kotto.",
+                  "category": "natural",
+                  "coords": [
+                        23.033861,
+                        7.475904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zone d'interêt cynégétique de Poula / secteur N°33",
+                  "text": "This designated hunting zone and nature reserve protects the savanna wildlife near the Kotto Massif.",
+                  "category": "natural",
+                  "coords": [
+                        23.033861,
+                        7.475904
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CF-HK",
     coords: [23.0, 7.5],

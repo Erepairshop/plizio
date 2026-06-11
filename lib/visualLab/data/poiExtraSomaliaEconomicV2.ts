@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSomaliaEconomicV2: POI[] = [
   {
-    id: "mogadishu-port-economic-v2",
+    id: "mogadishu-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liido Beach",
+                  "text": "Dieser weite Sandstrand in Mogadischu ist ein beliebter Treffpunkt an der somalischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        45.371718,
+                        2.044891
+                  ]
+            },
+            {
+                  "name": "Il Binocolo",
+                  "text": "Dieses steinerne Denkmal aus der Kolonialzeit prägt das historische Stadtbild von Mogadischu.",
+                  "category": "historical",
+                  "coords": [
+                        45.349607,
+                        2.036566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liido Beach",
+                  "text": "Ez a széles homokos strand Mogadishuban a szomáliai tengerpart egyik kedvelt találkozóhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        45.371718,
+                        2.044891
+                  ]
+            },
+            {
+                  "name": "Il Binocolo",
+                  "text": "Ez a gyarmati időszakból származó kőemlékmű Mogadishu történelmi városképének része.",
+                  "category": "historical",
+                  "coords": [
+                        45.349607,
+                        2.036566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liido Beach",
+                  "text": "Această plajă vastă de nisip din Mogadishu este un punct de atracție popular pe coasta somaleză.",
+                  "category": "recreational",
+                  "coords": [
+                        45.371718,
+                        2.044891
+                  ]
+            },
+            {
+                  "name": "Il Binocolo",
+                  "text": "Acest monument de piatră din epoca colonială marchează peisajul istoric al orașului Mogadishu.",
+                  "category": "historical",
+                  "coords": [
+                        45.349607,
+                        2.036566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liido Beach",
+                  "text": "This expansive sandy beach in Mogadishu is a popular gathering spot along the Somali coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        45.371718,
+                        2.044891
+                  ]
+            },
+            {
+                  "name": "Il Binocolo",
+                  "text": "This stone monument from the colonial era marks the historical landscape of Mogadishu.",
+                  "category": "historical",
+                  "coords": [
+                        45.349607,
+                        2.036566
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SO-BN",
     coords: [45.3475, 2.0308],
@@ -51,7 +132,88 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "berbera-port-economic-v2",
+    id: "berbera-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Telesom Berbera tower port",
+                  "text": "Dieser hohe Fernmeldeturm erhebt sich über die Docks und bietet eine weite Vogelperspektive auf den geschäftigen Hafen von Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.999685,
+                        10.439191
+                  ]
+            },
+            {
+                  "name": "System-ka dakada Berbera",
+                  "text": "Dieser strategische Aussichtspunkt bietet einen umfassenden Einblick in die logistischen Abläufe bei der Abfertigung riesiger Frachtschiffe im Hafen von Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.994333,
+                        10.43624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Telesom Berbera tower port",
+                  "text": "A dokkok fölé magasodó magas kommunikációs torony lenyűgöző légi perspektívát nyújt a forgalmas berberai kikötőről.",
+                  "category": "natural",
+                  "coords": [
+                        44.999685,
+                        10.439191
+                  ]
+            },
+            {
+                  "name": "System-ka dakada Berbera",
+                  "text": "Ez a stratégiai kilátópont átfogó pillantást nyújt a hatalmas teherhajókat kiszolgáló logisztikai műveletekre Berbera kikötőjében.",
+                  "category": "natural",
+                  "coords": [
+                        44.994333,
+                        10.43624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Telesom Berbera tower port",
+                  "text": "Ridicându-se deasupra docurilor, acest turn de comunicații înalt oferă o perspectivă aeriană vastă asupra portului aglomerat din Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.999685,
+                        10.439191
+                  ]
+            },
+            {
+                  "name": "System-ka dakada Berbera",
+                  "text": "Acest punct de observație strategic oferă o privire cuprinzătoare asupra operațiunilor logistice care manipulează nave masive de marfă în portul din Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.994333,
+                        10.43624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Telesom Berbera tower port",
+                  "text": "Rising above the docks, this tall communications tower provides a sweeping aerial perspective of the busy Berbera port.",
+                  "category": "natural",
+                  "coords": [
+                        44.999685,
+                        10.439191
+                  ]
+            },
+            {
+                  "name": "System-ka dakada Berbera",
+                  "text": "This strategic vantage point offers a comprehensive look at the logistical operations handling massive cargo ships at Berbera's port.",
+                  "category": "natural",
+                  "coords": [
+                        44.994333,
+                        10.43624
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SO-WO",
     coords: [44.9922, 10.4358],
@@ -99,7 +261,124 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kismayo-port-economic-v2",
+    id: "kismayo-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "Die verrosteten Überreste eines amphibischen Spähpanzers vom Typ BRDM-2 aus der Sowjetzeit stehen verlassen in der Nähe des Hafens als stilles Denkmal der turbulenten Vergangenheit der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            },
+            {
+                  "name": "Leedo Beach",
+                  "text": "Der Leedo Beach ist ein lebhafter Sandstrand mit goldenem Sand, an dem sich Einheimische zum Schwimmen und für gesellige Stunden vor der Kulisse der somalischen Küste treffen.",
+                  "category": "recreational",
+                  "coords": [
+                        42.556075,
+                        -0.366587
+                  ]
+            },
+            {
+                  "name": "Qoryoley Beach",
+                  "text": "Der Qoryoley Beach ist ein abgelegener, windgepeitschter Abschnitt der somalischen Küste, der sich durch sanfte Dünen und brechende Meereswellen auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        42.557096,
+                        -0.363372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "Egy szovjet korabeli BRDM–2 kétéltű páncélozott jármű rozsdásodó maradványai hevernek elhagyatottan a kikötő közelében, zord emlékműveként a régió viharos múltjának.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            },
+            {
+                  "name": "Leedo Beach",
+                  "text": "A Leedo Beach egy élénk, aranyhomokos partvidék, ahol a helyiek úszni és beszélgetni gyűlnek össze a szomáliai tengerpart háttere előtt.",
+                  "category": "recreational",
+                  "coords": [
+                        42.556075,
+                        -0.366587
+                  ]
+            },
+            {
+                  "name": "Qoryoley Beach",
+                  "text": "A Qoryoley Beach a szomáliai tengerpart egy távoli, szélfútta szakasza, amelyet hullámzó dűnék és lezúduló óceáni hullámok jellemeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        42.557096,
+                        -0.363372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "Rămășițele ruginite ale unui vehicul blindat amfibiu BRDM-2 din era sovietică zac abandonate lângă port, servind ca un monument sumbru al trecutului turbulent al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            },
+            {
+                  "name": "Leedo Beach",
+                  "text": "Leedo Beach este un țărm plin de viață cu nisip auriu, unde localnicii se adună pentru a înota și a socializa pe fundalul coastei somaleze.",
+                  "category": "recreational",
+                  "coords": [
+                        42.556075,
+                        -0.366587
+                  ]
+            },
+            {
+                  "name": "Qoryoley Beach",
+                  "text": "Qoryoley Beach prezintă o porțiune izolată și bătută de vânt a coastei somaleze, caracterizată prin dune ondulate și valuri oceanice care se sparg la țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        42.557096,
+                        -0.363372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "The rusted remains of a Soviet-era BRDM-2 amphibious armored car sit abandoned near the port, serving as a stark monument to the region's turbulent past.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            },
+            {
+                  "name": "Leedo Beach",
+                  "text": "Leedo Beach is a lively, golden-sand shoreline where locals gather to swim and socialize against the backdrop of the Somali coast.",
+                  "category": "recreational",
+                  "coords": [
+                        42.556075,
+                        -0.366587
+                  ]
+            },
+            {
+                  "name": "Qoryoley Beach",
+                  "text": "Qoryoley Beach features a remote, windswept stretch of Somali coastline characterized by rolling dunes and crashing ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        42.557096,
+                        -0.363372
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SO-JU",
     coords: [42.5489, -0.3621],
@@ -387,7 +666,88 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "somaliland-beverage-economic-v2",
+    id: "somaliland-beverage-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "tec power plant beerta xoriyada",
+                  "text": "Ein industrieller und öffentlicher Aussichtspunkt in der Nähe des Kraftwerks am Liberty Park der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        44.058387,
+                        9.559347
+                  ]
+            },
+            {
+                  "name": "Jaromar",
+                  "text": "Ein lokalisierter Aussichtspunkt in der Landschaft von Somaliland, der Ausblicke auf das umliegende Gelände bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.058584,
+                        9.55822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tec power plant beerta xoriyada",
+                  "text": "Ipari és nyilvános kilátópont az erőmű közelében, a város Szabadság parkjánál.",
+                  "category": "natural",
+                  "coords": [
+                        44.058387,
+                        9.559347
+                  ]
+            },
+            {
+                  "name": "Jaromar",
+                  "text": "Helyi kilátópont Szomáliföld tájain, amely kilátást nyújt a környező vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        44.058584,
+                        9.55822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tec power plant beerta xoriyada",
+                  "text": "Un punct de belvedere industrial și public lângă centrala electrică de la Parcul Libertății din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        44.058387,
+                        9.559347
+                  ]
+            },
+            {
+                  "name": "Jaromar",
+                  "text": "Un punct de observare localizat în peisajul din Somaliland, care oferă priveliști asupra terenului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.058584,
+                        9.55822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tec power plant beerta xoriyada",
+                  "text": "An industrial and public viewpoint near the power plant by the city's Liberty Park.",
+                  "category": "natural",
+                  "coords": [
+                        44.058387,
+                        9.559347
+                  ]
+            },
+            {
+                  "name": "Jaromar",
+                  "text": "A localized vantage point in the Somaliland landscape offering views of the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        44.058584,
+                        9.55822
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-WO",
     coords: [44.0626, 9.5592],
@@ -435,7 +795,52 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "berbera-cement-economic-v2",
+    id: "berbera-cement-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guriga ashwaaq c.kariim shibiin",
+                  "text": "Mit Blick auf den Industriesektor umrahmt dieser Aussichtspunkt die weitläufigen Strukturen von Berberas schwerer Zementwirtschaft.",
+                  "category": "natural",
+                  "coords": [
+                        45.029307,
+                        10.437712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guriga ashwaaq c.kariim shibiin",
+                  "text": "Az ipari szektorra néző kilátó keretbe foglalja Berbera nehézcement-gazdaságának kiterjedt struktúráit.",
+                  "category": "natural",
+                  "coords": [
+                        45.029307,
+                        10.437712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guriga ashwaaq c.kariim shibiin",
+                  "text": "Cu vedere la sectorul industrial, acest punct de belvedere încadrează structurile extinse ale economiei cimentului din Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        45.029307,
+                        10.437712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guriga ashwaaq c.kariim shibiin",
+                  "text": "Overlooking the industrial sector, this viewpoint frames the sprawling structures of Berbera's heavy cement economy.",
+                  "category": "natural",
+                  "coords": [
+                        45.029307,
+                        10.437712
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-WO",
     coords: [45.0333, 10.4333],
@@ -771,7 +1176,520 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "burao-tannery-economic-v2",
+    id: "burao-tannery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "yuroobe",
+                  "text": "Ein Aussichtspunkt in Burao, der einen Blick über die wirtschaftlichen Gebiete und Gerbereien der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        45.617478,
+                        9.46483
+                  ]
+            },
+            {
+                  "name": "kkk",
+                  "text": "Ein Beobachtungspunkt in der Nähe der Gerbereianlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.545278,
+                        9.544704
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 12",
+                  "text": "Der 12. Aussichtspunkt bei den industriellen Anlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.603298,
+                        9.482953
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 13",
+                  "text": "Der 13. Aussichtspunkt bei den industriellen Anlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.604268,
+                        9.483146
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 11",
+                  "text": "Der 11. Aussichtspunkt bei den industriellen Anlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.601765,
+                        9.482708
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 6",
+                  "text": "Der 6. Aussichtspunkt bei den industriellen Anlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.600644,
+                        9.482329
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 4",
+                  "text": "Der 4. Aussichtspunkt bei den industriellen Anlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.599388,
+                        9.481796
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 1",
+                  "text": "Ein weiterer Bereich des ersten Aussichtspunkts bei den industriellen Anlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.597473,
+                        9.484149
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 2",
+                  "text": "Der 2. Aussichtspunkt bei den industriellen Anlagen von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.597964,
+                        9.48189
+                  ]
+            },
+            {
+                  "name": "ciise m 16",
+                  "text": "Aussichtspunkt 26 in den industriellen Gebieten von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576889,
+                        9.520252
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "Aussichtspunkt 24 in den industriellen Gebieten von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            },
+            {
+                  "name": "ciise m 7",
+                  "text": "Aussichtspunkt 7 in den industriellen Gebieten von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.575207,
+                        9.518715
+                  ]
+            },
+            {
+                  "name": "ciise m 14",
+                  "text": "Aussichtspunkt 14 in den industriellen Gebieten von Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576238,
+                        9.518077
+                  ]
+            },
+            {
+                  "name": "ciise m2",
+                  "text": "Dieser Aussichtspunkt ist strategisch günstig gelegen, um das Gelände der Gerberei von Burao zu überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        45.574854,
+                        9.519691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yuroobe",
+                  "text": "Egy kilátó Buraóban, amely a város gazdasági övezeteire és cserzőüzemeire nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        45.617478,
+                        9.46483
+                  ]
+            },
+            {
+                  "name": "kkk",
+                  "text": "Egy megfigyelőpont Burao cserzőüzemeinek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        45.545278,
+                        9.544704
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 12",
+                  "text": "A 12-es számú kilátó Burao ipari létesítményeinél.",
+                  "category": "natural",
+                  "coords": [
+                        45.603298,
+                        9.482953
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 13",
+                  "text": "A 13-as számú kilátó Burao ipari létesítményeinél.",
+                  "category": "natural",
+                  "coords": [
+                        45.604268,
+                        9.483146
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 11",
+                  "text": "A 11-es számú kilátó Burao ipari létesítményeinél.",
+                  "category": "natural",
+                  "coords": [
+                        45.601765,
+                        9.482708
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 6",
+                  "text": "A 6-os számú kilátó Burao ipari létesítményeinél.",
+                  "category": "natural",
+                  "coords": [
+                        45.600644,
+                        9.482329
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 4",
+                  "text": "A 4-es számú kilátó Burao ipari létesítményeinél.",
+                  "category": "natural",
+                  "coords": [
+                        45.599388,
+                        9.481796
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 1",
+                  "text": "Az első kilátó egy másik területe Burao ipari létesítményeinél.",
+                  "category": "natural",
+                  "coords": [
+                        45.597473,
+                        9.484149
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 2",
+                  "text": "A 2-es számú kilátó Burao ipari létesítményeinél.",
+                  "category": "natural",
+                  "coords": [
+                        45.597964,
+                        9.48189
+                  ]
+            },
+            {
+                  "name": "ciise m 16",
+                  "text": "A 26-os kilátópont Burao ipari területein.",
+                  "category": "natural",
+                  "coords": [
+                        45.576889,
+                        9.520252
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "A 24-es kilátópont Burao ipari területein.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            },
+            {
+                  "name": "ciise m 7",
+                  "text": "A 7-es kilátópont Burao ipari területein.",
+                  "category": "natural",
+                  "coords": [
+                        45.575207,
+                        9.518715
+                  ]
+            },
+            {
+                  "name": "ciise m 14",
+                  "text": "A 14-es kilátópont Burao ipari területein.",
+                  "category": "natural",
+                  "coords": [
+                        45.576238,
+                        9.518077
+                  ]
+            },
+            {
+                  "name": "ciise m2",
+                  "text": "Ez a kilátó stratégiailag úgy helyezkedik el, hogy rálásson a buraói cserzőüzem területére.",
+                  "category": "natural",
+                  "coords": [
+                        45.574854,
+                        9.519691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yuroobe",
+                  "text": "Un punct de belvedere în Burao, oferind o priveliște asupra zonelor economice și a tăbăcăriilor orașului.",
+                  "category": "natural",
+                  "coords": [
+                        45.617478,
+                        9.46483
+                  ]
+            },
+            {
+                  "name": "kkk",
+                  "text": "Un punct de observație situat în apropierea tăbăcăriilor din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.545278,
+                        9.544704
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 12",
+                  "text": "Punctul de belvedere numărul 12 de lângă facilitățile industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.603298,
+                        9.482953
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 13",
+                  "text": "Punctul de belvedere numărul 13 de lângă facilitățile industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.604268,
+                        9.483146
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 11",
+                  "text": "Punctul de belvedere numărul 11 de lângă facilitățile industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.601765,
+                        9.482708
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 6",
+                  "text": "Punctul de belvedere numărul 6 de lângă facilitățile industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.600644,
+                        9.482329
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 4",
+                  "text": "Punctul de belvedere numărul 4 de lângă facilitățile industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.599388,
+                        9.481796
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 1",
+                  "text": "O altă secțiune a primului punct de belvedere de lângă facilitățile industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.597473,
+                        9.484149
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 2",
+                  "text": "Punctul de belvedere numărul 2 de lângă facilitățile industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.597964,
+                        9.48189
+                  ]
+            },
+            {
+                  "name": "ciise m 16",
+                  "text": "Punctul de belvedere 26 situat în zonele industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576889,
+                        9.520252
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "Punctul de belvedere 24 situat în zonele industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            },
+            {
+                  "name": "ciise m 7",
+                  "text": "Punctul de belvedere 7 situat în zonele industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.575207,
+                        9.518715
+                  ]
+            },
+            {
+                  "name": "ciise m 14",
+                  "text": "Punctul de belvedere 14 situat în zonele industriale din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576238,
+                        9.518077
+                  ]
+            },
+            {
+                  "name": "ciise m2",
+                  "text": "Acest punct de observație este situat strategic pentru a domina situl tăbăcăriei din Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.574854,
+                        9.519691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yuroobe",
+                  "text": "A viewpoint in Burao offering sights over the city's economic areas and tanneries.",
+                  "category": "natural",
+                  "coords": [
+                        45.617478,
+                        9.46483
+                  ]
+            },
+            {
+                  "name": "kkk",
+                  "text": "An observation point situated near the tannery facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.545278,
+                        9.544704
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 12",
+                  "text": "The 12th viewpoint overlooking the industrial facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.603298,
+                        9.482953
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 13",
+                  "text": "The 13th viewpoint overlooking the industrial facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.604268,
+                        9.483146
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 11",
+                  "text": "The 11th viewpoint overlooking the industrial facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.601765,
+                        9.482708
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 6",
+                  "text": "The 6th viewpoint overlooking the industrial facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.600644,
+                        9.482329
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 4",
+                  "text": "The 4th viewpoint overlooking the industrial facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.599388,
+                        9.481796
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 1",
+                  "text": "Another section of the first viewpoint overlooking the industrial facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.597473,
+                        9.484149
+                  ]
+            },
+            {
+                  "name": "ciise m warshada 2",
+                  "text": "The 2nd viewpoint overlooking the industrial facilities in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.597964,
+                        9.48189
+                  ]
+            },
+            {
+                  "name": "ciise m 26",
+                  "text": "Viewpoint 26 located in the industrial zones of Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576889,
+                        9.520252
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "Viewpoint 24 located in the industrial zones of Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            },
+            {
+                  "name": "ciise m 7",
+                  "text": "Viewpoint 7 located in the industrial zones of Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.575207,
+                        9.518715
+                  ]
+            },
+            {
+                  "name": "ciise m 14",
+                  "text": "Viewpoint 14 located in the industrial zones of Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576238,
+                        9.518077
+                  ]
+            },
+            {
+                  "name": "ciise m 2",
+                  "text": "This vantage point is strategically located to overlook the Burao tannery site.",
+                  "category": "natural",
+                  "coords": [
+                        45.574854,
+                        9.519691
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-TO",
     coords: [45.5651, 9.525],
@@ -867,7 +1785,52 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kismayo-meat-economic-v2",
+    id: "kismayo-meat-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "shibiin",
+                  "text": "Dieser raue Aussichtspunkt bietet einen weiten Blick über die trockenen, sonnenverbrannten Ebenen rund um die Küstenstadt Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "shibiin",
+                  "text": "Ez a zord kilátó tágas kilátást nyújt a Kismayo tengerparti városát körülvevő száraz, napsütötte síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "shibiin",
+                  "text": "Acest punct de observație stâncos oferă vederi extinse peste câmpiile aride, bătute de soare, care înconjoară orașul de coastă Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "shibiin",
+                  "text": "This rugged lookout point offers expansive views across the arid, sun-baked plains surrounding the coastal city of Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-JU",
     coords: [42.547, -0.36],
@@ -1011,7 +1974,52 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "garowe-bottling-economic-v2",
+    id: "garowe-bottling-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barxada",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen Panoramablick über die städtischen und industriellen Abfüllanlagen von Garowe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barxada",
+                  "text": "Egy magaslati kilátó, amely panorámás kilátást nyújt Garowe városi és ipari palackozó területeire.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barxada",
+                  "text": "Un punct de belvedere înalt, oferind o vedere panoramică asupra zonelor urbane și a facilităților industriale de îmbuteliere din Garowe.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barxada",
+                  "text": "An elevated viewpoint offering panoramic sights over the urban and industrial bottling areas of Garowe.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-NU",
     coords: [48.5463, 8.4069],
@@ -1059,7 +2067,52 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "mogadishu-plastics-economic-v2",
+    id: "mogadishu-plastics-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "guriga xasan c.maxamud",
+                  "text": "Dieser Aussichtspunkt in Mogadischu überblickt die städtische Landschaft rund um die Residenz des lokalen Politikers Hasan C. Maxamud.",
+                  "category": "natural",
+                  "coords": [
+                        45.338662,
+                        2.068644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "guriga xasan c.maxamud",
+                  "text": "Ez a mogadishui kilátó a helyi politikai személyiség, Hasan C. Maxamud rezidenciáját körülvevő városi tájra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        45.338662,
+                        2.068644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "guriga xasan c.maxamud",
+                  "text": "Acest punct de belvedere din Mogadishu oferă vedere asupra peisajului urban din jurul reședinței figurii politice locale Hasan C. Maxamud.",
+                  "category": "natural",
+                  "coords": [
+                        45.338662,
+                        2.068644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "guriga xasan c.maxamud",
+                  "text": "This viewpoint in Mogadishu overlooks the urban landscape surrounding the residence of local political figure Hasan C. Maxamud.",
+                  "category": "natural",
+                  "coords": [
+                        45.338662,
+                        2.068644
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-BN",
     coords: [45.34, 2.06],
@@ -1107,7 +2160,916 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "hargeisa-flour-economic-v2",
+    id: "hargeisa-flour-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "523345",
+                  "text": "Ein erhöhter Beobachtungspunkt im Stadtgebiet von Hargeisa, der einen weiten Blick über die Wirtschaftszone bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.042949,
+                        9.554759
+                  ]
+            },
+            {
+                  "name": "tec bada cas1",
+                  "text": "Der Aussichtspunkt Bada Cas1 ermöglicht einen klaren Blick auf die Wohn- und Geschäftsviertel von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036388,
+                        9.557571
+                  ]
+            },
+            {
+                  "name": "tls point shabeel",
+                  "text": "Von diesem Shabeel-TLS-Standort aus genießt man eine hervorragende Aussicht auf die Skyline von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.013011,
+                        9.566652
+                  ]
+            },
+            {
+                  "name": "guriga muuse",
+                  "text": "Der Aussichtspunkt am Guriga Muuse bietet eine charmante Perspektive auf die traditionellen Häuser in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.022447,
+                        9.583868
+                  ]
+            },
+            {
+                  "name": "tls poin to poin",
+                  "text": "Ein strategisch gelegener Aussichtspunkt an einer Point-to-Point-Antenne, der weite Teile von Hargeisa überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        44.016453,
+                        9.583022
+                  ]
+            },
+            {
+                  "name": "Tls pp kaab school",
+                  "text": "Von diesem Standort nahe der Kaab-Schule aus hat man einen guten Blick auf die schulischen und städtischen Einrichtungen von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.0268,
+                        9.582189
+                  ]
+            },
+            {
+                  "name": "tec salaam health",
+                  "text": "Dieser Aussichtspunkt beim Salaam-Gesundheitszentrum gewährt einen ruhigen Blick auf das medizinische Viertel von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.042448,
+                        9.572516
+                  ]
+            },
+            {
+                  "name": "jimicsi",
+                  "text": "Der Jimicsi-Aussichtspunkt bietet eine großartige Sicht auf die Naherholungsgebiete innerhalb des Stadtgebiets von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.042826,
+                        9.570663
+                  ]
+            },
+            {
+                  "name": "tec goolada telesom jjy",
+                  "text": "Von der Telesom-Kreuzung JJY aus genießt man einen dynamischen Blick auf den städtischen Verkehr in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036638,
+                        9.571759
+                  ]
+            },
+            {
+                  "name": "Guriga jacaylka",
+                  "text": "Der Aussichtspunkt Guriga Jacaylka bietet einen malerischen Blick auf die städtische Bebauung in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.026332,
+                        9.563485
+                  ]
+            },
+            {
+                  "name": "ASTAAN CABLE TV",
+                  "text": "Von den Anlagen von Astaan Cable TV aus hat man einen erhöhten Blick auf die Dächer und Antennen von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.03594,
+                        9.560492
+                  ]
+            },
+            {
+                  "name": "tec is goyska guuled hotel",
+                  "text": "Dieser Aussichtspunkt an der Kreuzung beim Guuled-Hotel überblickt das geschäftige Treiben im Herzen von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.043523,
+                        9.564301
+                  ]
+            },
+            {
+                  "name": "572614",
+                  "text": "Ein städtischer Aussichtspunkt in den Straßen von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.041299,
+                        9.561936
+                  ]
+            },
+            {
+                  "name": "Xarunta Dhaqanka ee Hargeysa",
+                  "text": "Eine kulturelle Einrichtung in Hargeisa, die als Zentrum für Theater- und Kunstaufführungen in Somaliland dient.",
+                  "category": "cultural",
+                  "coords": [
+                        44.049287,
+                        9.563888
+                  ]
+            },
+            {
+                  "name": "wasaarada m/cashuraha bariga",
+                  "text": "Ein städtischer Aussichtspunkt in der Nähe der Gebäude des östlichen Steuerministeriums in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.048848,
+                        9.561242
+                  ]
+            },
+            {
+                  "name": "tec cid",
+                  "text": "Ein städtischer Aussichtspunkt in der Nähe der CID-Infrastruktur in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.049053,
+                        9.559508
+                  ]
+            },
+            {
+                  "name": "tec shacabka telesom",
+                  "text": "Ein Aussichtspunkt, der Blicke auf die Telesom-Telekommunikationsinfrastruktur im Gebiet Shacabka bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.053619,
+                        9.557101
+                  ]
+            },
+            {
+                  "name": "tec komishan",
+                  "text": "Ein städtischer Aussichtspunkt in der Nähe der örtlichen Kommissionsgebäude in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.0498,
+                        9.557729
+                  ]
+            },
+            {
+                  "name": "tec goolada state house",
+                  "text": "Ein Aussichtspunkt auf Straßenebene in der Nähe des belebten State-House-Kreisverkehrs der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        44.04614,
+                        9.557813
+                  ]
+            },
+            {
+                  "name": "Gudoomiye maxamuud 2baloodh",
+                  "text": "Ein spezifischer städtischer Aussichtspunkt im Gebiet von Hargeisa, der nach lokalen Führungspersönlichkeiten benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.007627,
+                        9.601094
+                  ]
+            },
+            {
+                  "name": "Gudoomiye Maxamuud 1",
+                  "text": "Ein lokaler Aussichtspunkt, der einen markanten Ort in einem Viertel von Hargeisa markiert.",
+                  "category": "natural",
+                  "coords": [
+                        44.000051,
+                        9.596763
+                  ]
+            },
+            {
+                  "name": "Maxamuud xaji",
+                  "text": "Ein lokalisierter Aussichtsbereich in Hargeisa, der einen traditionellen somalischen Namen trägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.999568,
+                        9.599552
+                  ]
+            },
+            {
+                  "name": "buurta kala",
+                  "text": "Ein malerischer Aussichtspunkt an den felsigen Hängen des Berges Kala.",
+                  "category": "natural",
+                  "coords": [
+                        44.004144,
+                        9.585967
+                  ]
+            },
+            {
+                  "name": "West check point",
+                  "text": "Ein strategischer Aussichtspunkt am westlichen Kontrollpunkt zur Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        43.975579,
+                        9.589985
+                  ]
+            },
+            {
+                  "name": "Buur Abaarso",
+                  "text": "Ein markanter Gipfel in der Region Hargeisa, der sich über die trockene Landschaft von Somaliland erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.96602,
+                        9.564135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "523345",
+                  "text": "Egy magaslati megfigyelőpont Hargeisa városi területén, amely széles rálátást nyújt a gazdasági övezetre.",
+                  "category": "natural",
+                  "coords": [
+                        44.042949,
+                        9.554759
+                  ]
+            },
+            {
+                  "name": "tec bada cas1",
+                  "text": "A Bada Cas1 kilátópont tiszta rálátást tesz lehetővé Hargeisa lakó- és üzleti negyedeire.",
+                  "category": "natural",
+                  "coords": [
+                        44.036388,
+                        9.557571
+                  ]
+            },
+            {
+                  "name": "tls point shabeel",
+                  "text": "Ebből a Shabeel TLS helyszínből kiváló kilátás nyílik Hargeisa látképére.",
+                  "category": "natural",
+                  "coords": [
+                        44.013011,
+                        9.566652
+                  ]
+            },
+            {
+                  "name": "guriga muuse",
+                  "text": "A Guriga Muuse melletti kilátópont bájos perspektívát nyújt a hagyományos házakra Hargeisában.",
+                  "category": "natural",
+                  "coords": [
+                        44.022447,
+                        9.583868
+                  ]
+            },
+            {
+                  "name": "tls poin to poin",
+                  "text": "Egy stratégiailag elhelyezett kilátópont egy point-to-point antennánál, amely Hargeisa nagy részére néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.016453,
+                        9.583022
+                  ]
+            },
+            {
+                  "name": "Tls pp kaab school",
+                  "text": "Ebből a Kaab iskola közeli helyszínből jó rálátás nyílik Hargeisa oktatási és városi intézményeire.",
+                  "category": "natural",
+                  "coords": [
+                        44.0268,
+                        9.582189
+                  ]
+            },
+            {
+                  "name": "tec salaam health",
+                  "text": "Ez a Salaam egészségügyi központnál lévő kilátópont nyugodt rálátást biztosít Hargeisa orvosi negyedére.",
+                  "category": "natural",
+                  "coords": [
+                        44.042448,
+                        9.572516
+                  ]
+            },
+            {
+                  "name": "jimicsi",
+                  "text": "A Jimicsi kilátópont nagyszerű rálátást nyújt a Hargeisa városi területén belüli rekreációs övezetekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.042826,
+                        9.570663
+                  ]
+            },
+            {
+                  "name": "tec goolada telesom jjy",
+                  "text": "A JJY Telesom kereszteződésből dinamikus kilátás élvezhető Hargeisa városi forgalmára.",
+                  "category": "natural",
+                  "coords": [
+                        44.036638,
+                        9.571759
+                  ]
+            },
+            {
+                  "name": "Guriga jacaylka",
+                  "text": "A Guriga Jacaylka kilátópont festői kilátást nyújt Hargeisa városi beépítettségére.",
+                  "category": "natural",
+                  "coords": [
+                        44.026332,
+                        9.563485
+                  ]
+            },
+            {
+                  "name": "ASTAAN CABLE TV",
+                  "text": "Az Astaan Cable TV létesítményeiből magaslati kilátás nyílik Hargeisa háztetőire és antennáira.",
+                  "category": "natural",
+                  "coords": [
+                        44.03594,
+                        9.560492
+                  ]
+            },
+            {
+                  "name": "tec is goyska guuled hotel",
+                  "text": "Ez a Guuled szálloda melletti kereszteződésnél lévő kilátópont Hargeisa szívének nyüzsgésére néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.043523,
+                        9.564301
+                  ]
+            },
+            {
+                  "name": "572614",
+                  "text": "Egy városi kilátópont, amely Hargeisa utcáin található.",
+                  "category": "natural",
+                  "coords": [
+                        44.041299,
+                        9.561936
+                  ]
+            },
+            {
+                  "name": "Xarunta Dhaqanka ee Hargeysa",
+                  "text": "Kulturális helyszín Hargeisában, amely a szomáliföldi színházi és művészeti előadások központja.",
+                  "category": "cultural",
+                  "coords": [
+                        44.049287,
+                        9.563888
+                  ]
+            },
+            {
+                  "name": "wasaarada m/cashuraha bariga",
+                  "text": "Egy városi kilátópont Hargeisában, amely a keleti adóügyi minisztérium épületei közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        44.048848,
+                        9.561242
+                  ]
+            },
+            {
+                  "name": "tec cid",
+                  "text": "Városi kilátópont, amely a bűnügyi nyomozóiroda (CID) infrastruktúrája közelében fekszik Hargeisában.",
+                  "category": "natural",
+                  "coords": [
+                        44.049053,
+                        9.559508
+                  ]
+            },
+            {
+                  "name": "tec shacabka telesom",
+                  "text": "Kilátópont a Shacabka negyedben, amely a Telesom telekommunikációs infrastruktúrájára nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        44.053619,
+                        9.557101
+                  ]
+            },
+            {
+                  "name": "tec komishan",
+                  "text": "Egy városi kilátópont Hargeisában, amely a helyi bizottsági épületek közelében helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        44.0498,
+                        9.557729
+                  ]
+            },
+            {
+                  "name": "tec goolada state house",
+                  "text": "Utcaszintű kilátópont a város forgalmas State House körforgalma közelében.",
+                  "category": "natural",
+                  "coords": [
+                        44.04614,
+                        9.557813
+                  ]
+            },
+            {
+                  "name": "Gudoomiye maxamuud 2baloodh",
+                  "text": "Egy helyi vezetőkről elnevezett városi kilátópont a Hargeisa régióban.",
+                  "category": "natural",
+                  "coords": [
+                        44.007627,
+                        9.601094
+                  ]
+            },
+            {
+                  "name": "Gudoomiye Maxamuud 1",
+                  "text": "Egy helyi szomszédsági kilátópont, amely egy meghatározott helyet jelöl Hargeisában.",
+                  "category": "natural",
+                  "coords": [
+                        44.000051,
+                        9.596763
+                  ]
+            },
+            {
+                  "name": "Maxamuud xaji",
+                  "text": "Hagyományos szomáliai nevet viselő, lokális kilátópont Hargeisában.",
+                  "category": "natural",
+                  "coords": [
+                        43.999568,
+                        9.599552
+                  ]
+            },
+            {
+                  "name": "buurta kala",
+                  "text": "Festői kilátópont a Kala-hegy sziklás lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        44.004144,
+                        9.585967
+                  ]
+            },
+            {
+                  "name": "West check point",
+                  "text": "Stratégiai kilátópont, amely a városba vezető nyugati ellenőrzőpontnál található.",
+                  "category": "natural",
+                  "coords": [
+                        43.975579,
+                        9.589985
+                  ]
+            },
+            {
+                  "name": "Buur Abaarso",
+                  "text": "Kiemelkedő hegycsúcs a Hargeisa régióban, amely a környező száraz szomáliföldi táj fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.96602,
+                        9.564135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "523345",
+                  "text": "Un punct de observație elevat în zona urbană din Hargeisa, oferind o vedere amplă asupra zonei economice.",
+                  "category": "natural",
+                  "coords": [
+                        44.042949,
+                        9.554759
+                  ]
+            },
+            {
+                  "name": "tec bada cas1",
+                  "text": "Punctul de belvedere Bada Cas1 permite o vedere clară asupra cartierelor rezidențiale și comerciale din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036388,
+                        9.557571
+                  ]
+            },
+            {
+                  "name": "tls point shabeel",
+                  "text": "Din acest amplasament Shabeel TLS se pot bucura de o priveliște excelentă asupra orizontului orașului Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.013011,
+                        9.566652
+                  ]
+            },
+            {
+                  "name": "guriga muuse",
+                  "text": "Punctul de observație de la Guriga Muuse oferă o perspectivă fermecătoare asupra caselor tradiționale din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.022447,
+                        9.583868
+                  ]
+            },
+            {
+                  "name": "tls poin to poin",
+                  "text": "Un punct de belvedere situat strategic la o antenă point-to-point, care privește spre mari părți din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.016453,
+                        9.583022
+                  ]
+            },
+            {
+                  "name": "Tls pp kaab school",
+                  "text": "Din această locație apropiată de școala Kaab se deschide o vedere bună asupra facilităților școlare și urbane din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.0268,
+                        9.582189
+                  ]
+            },
+            {
+                  "name": "tec salaam health",
+                  "text": "Acest punct de observație de la centrul de sănătate Salaam oferă o vedere liniștită asupra cartierului medical din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.042448,
+                        9.572516
+                  ]
+            },
+            {
+                  "name": "jimicsi",
+                  "text": "Punctul de belvedere Jimicsi oferă o vedere excelentă asupra zonelor de recreere din interiorul ariei urbane din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.042826,
+                        9.570663
+                  ]
+            },
+            {
+                  "name": "tec goolada telesom jjy",
+                  "text": "De la intersecția Telesom JJY se poate savura o vedere dinamică asupra traficului urban din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036638,
+                        9.571759
+                  ]
+            },
+            {
+                  "name": "Guriga jacaylka",
+                  "text": "Punctul de observație Guriga Jacaylka oferă o vedere pitorească asupra structurilor urbane din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.026332,
+                        9.563485
+                  ]
+            },
+            {
+                  "name": "ASTAAN CABLE TV",
+                  "text": "De la facilitățile Astaan Cable TV se deschide o vedere elevată asupra acoperișurilor și antenelor din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.03594,
+                        9.560492
+                  ]
+            },
+            {
+                  "name": "tec is goyska guuled hotel",
+                  "text": "Acest punct de belvedere de la intersecția de lângă hotelul Guuled privește spre forfota din inima orașului Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.043523,
+                        9.564301
+                  ]
+            },
+            {
+                  "name": "572614",
+                  "text": "Un punct de belvedere urban situat pe străzile din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.041299,
+                        9.561936
+                  ]
+            },
+            {
+                  "name": "Xarunta Dhaqanka ee Hargeysa",
+                  "text": "O locație culturală din Hargeisa care servește drept centru pentru spectacolele de teatru și artă din Somaliland.",
+                  "category": "cultural",
+                  "coords": [
+                        44.049287,
+                        9.563888
+                  ]
+            },
+            {
+                  "name": "wasaarada m/cashuraha bariga",
+                  "text": "Un punct de belvedere urban situat lângă clădirile ministerului fiscal din estul orașului Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.048848,
+                        9.561242
+                  ]
+            },
+            {
+                  "name": "tec cid",
+                  "text": "Un punct de belvedere urban situat în apropierea infrastructurii CID din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.049053,
+                        9.559508
+                  ]
+            },
+            {
+                  "name": "tec shacabka telesom",
+                  "text": "Un punct de belvedere care oferă vedere către infrastructura de telecomunicații Telesom din zona Shacabka.",
+                  "category": "natural",
+                  "coords": [
+                        44.053619,
+                        9.557101
+                  ]
+            },
+            {
+                  "name": "tec komishan",
+                  "text": "Un punct de belvedere urban situat lângă clădirile comisiei locale din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.0498,
+                        9.557729
+                  ]
+            },
+            {
+                  "name": "tec goolada state house",
+                  "text": "Un punct de observare la nivelul străzii, aproape de aglomeratul sens giratoriu State House din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        44.04614,
+                        9.557813
+                  ]
+            },
+            {
+                  "name": "Gudoomiye maxamuud 2baloodh",
+                  "text": "Un punct de belvedere urban specific, numit după conducerea locală din zona Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.007627,
+                        9.601094
+                  ]
+            },
+            {
+                  "name": "Gudoomiye Maxamuud 1",
+                  "text": "Un punct de belvedere de cartier care marchează un loc distinct în Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.000051,
+                        9.596763
+                  ]
+            },
+            {
+                  "name": "Maxamuud xaji",
+                  "text": "O zonă de belvedere localizată în Hargeisa, care poartă un nume tradițional somalez.",
+                  "category": "natural",
+                  "coords": [
+                        43.999568,
+                        9.599552
+                  ]
+            },
+            {
+                  "name": "buurta kala",
+                  "text": "Un punct de belvedere pitoresc situat pe pantele stâncoase ale muntelui Kala.",
+                  "category": "natural",
+                  "coords": [
+                        44.004144,
+                        9.585967
+                  ]
+            },
+            {
+                  "name": "West check point",
+                  "text": "Un punct de observație strategic situat la punctul de control vestic de la intrarea în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        43.975579,
+                        9.589985
+                  ]
+            },
+            {
+                  "name": "Buur Abaarso",
+                  "text": "Un vârf proeminent în regiunea Hargeisa, care se înalță deasupra peisajului arid din Somaliland.",
+                  "category": "natural",
+                  "coords": [
+                        43.96602,
+                        9.564135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "523345",
+                  "text": "An elevated observation point in the urban area of Hargeisa that provides a broad view over the economic zone.",
+                  "category": "natural",
+                  "coords": [
+                        44.042949,
+                        9.554759
+                  ]
+            },
+            {
+                  "name": "tec bada cas1",
+                  "text": "The Bada Cas1 viewpoint allows a clear look at the residential and commercial districts of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036388,
+                        9.557571
+                  ]
+            },
+            {
+                  "name": "tls point shabeel",
+                  "text": "From this Shabeel TLS location, one can enjoy an excellent view of Hargeisa's skyline.",
+                  "category": "natural",
+                  "coords": [
+                        44.013011,
+                        9.566652
+                  ]
+            },
+            {
+                  "name": "guriga muuse",
+                  "text": "The viewpoint at Guriga Muuse offers a charming perspective on the traditional houses in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.022447,
+                        9.583868
+                  ]
+            },
+            {
+                  "name": "tls poin to poin",
+                  "text": "A strategically located viewpoint at a point-to-point antenna, overlooking large parts of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.016453,
+                        9.583022
+                  ]
+            },
+            {
+                  "name": "Tls pp kaab school",
+                  "text": "From this location near the Kaab school, there is a good view of Hargeisa's educational and urban facilities.",
+                  "category": "natural",
+                  "coords": [
+                        44.0268,
+                        9.582189
+                  ]
+            },
+            {
+                  "name": "tec salaam health",
+                  "text": "This viewpoint at the Salaam health center grants a calm look over Hargeisa's medical district.",
+                  "category": "natural",
+                  "coords": [
+                        44.042448,
+                        9.572516
+                  ]
+            },
+            {
+                  "name": "jimicsi",
+                  "text": "The Jimicsi viewpoint offers a great sight of the recreational areas within the urban spread of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.042826,
+                        9.570663
+                  ]
+            },
+            {
+                  "name": "tec goolada telesom jjy",
+                  "text": "From the Telesom JJY intersection, one can enjoy a dynamic view of the urban traffic in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.036638,
+                        9.571759
+                  ]
+            },
+            {
+                  "name": "Guriga jacaylka",
+                  "text": "The Guriga Jacaylka viewpoint offers a picturesque view of the urban structures in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.026332,
+                        9.563485
+                  ]
+            },
+            {
+                  "name": "ASTAAN CABLE TV",
+                  "text": "From the facilities of Astaan Cable TV, there is an elevated view of the rooftops and antennas of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.03594,
+                        9.560492
+                  ]
+            },
+            {
+                  "name": "tec is goyska guuled hotel",
+                  "text": "This viewpoint at the intersection near the Guuled Hotel overlooks the bustling activity in the heart of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.043523,
+                        9.564301
+                  ]
+            },
+            {
+                  "name": "572614",
+                  "text": "An urban viewpoint landmark located within the city streets of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.041299,
+                        9.561936
+                  ]
+            },
+            {
+                  "name": "Hargeysa Cultural Centre",
+                  "text": "A cultural venue in Hargeisa serving as a hub for Somaliland's theatrical and artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        44.049287,
+                        9.563888
+                  ]
+            },
+            {
+                  "name": "wasaarada m/cashuraha bariga",
+                  "text": "An urban viewpoint situated near the eastern taxation ministry buildings in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.048848,
+                        9.561242
+                  ]
+            },
+            {
+                  "name": "tec cid",
+                  "text": "A city viewpoint landmark situated near the CID infrastructure in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.049053,
+                        9.559508
+                  ]
+            },
+            {
+                  "name": "tec shacabka telesom",
+                  "text": "A viewpoint landmark offering sights of the Telesom telecommunications infrastructure in the Shacabka area.",
+                  "category": "natural",
+                  "coords": [
+                        44.053619,
+                        9.557101
+                  ]
+            },
+            {
+                  "name": "tec komishan",
+                  "text": "An urban vantage point located near the local commission buildings in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.0498,
+                        9.557729
+                  ]
+            },
+            {
+                  "name": "tec goolada state house",
+                  "text": "A street-level viewpoint near the bustling State House roundabout in the city.",
+                  "category": "natural",
+                  "coords": [
+                        44.04614,
+                        9.557813
+                  ]
+            },
+            {
+                  "name": "Gudoomiye maxamuud 2baloodh",
+                  "text": "A specific urban vantage point named after local leadership in the Hargeisa area.",
+                  "category": "natural",
+                  "coords": [
+                        44.007627,
+                        9.601094
+                  ]
+            },
+            {
+                  "name": "Gudoomiye Maxamuud 1",
+                  "text": "A local neighborhood viewpoint landmark marking a distinct point in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.000051,
+                        9.596763
+                  ]
+            },
+            {
+                  "name": "Maxamuud xaji",
+                  "text": "A localized viewpoint area in Hargeisa bearing a traditional Somali name.",
+                  "category": "natural",
+                  "coords": [
+                        43.999568,
+                        9.599552
+                  ]
+            },
+            {
+                  "name": "buurta kala",
+                  "text": "A scenic viewpoint situated on the rocky slopes of the Kala mountain.",
+                  "category": "natural",
+                  "coords": [
+                        44.004144,
+                        9.585967
+                  ]
+            },
+            {
+                  "name": "West check point",
+                  "text": "A strategic vantage point located at the western checkpoint entering the city.",
+                  "category": "natural",
+                  "coords": [
+                        43.975579,
+                        9.589985
+                  ]
+            },
+            {
+                  "name": "Buur Abaarso",
+                  "text": "A prominent peak in the Hargeisa region, rising above the surrounding arid Somaliland landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.96602,
+                        9.564135
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-WO",
     coords: [44.05, 9.56],
@@ -1155,7 +3117,124 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "berbera-oil-terminal-economic-v2",
+    id: "berbera-oil-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "wado",
+                  "text": "Dieser Aussichtspunkt an der Küste bietet freie Sicht auf die industrielle Infrastruktur des geschäftigen Ölterminals von Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.931568,
+                        10.401907
+                  ]
+            },
+            {
+                  "name": "Mayara (Berbera)",
+                  "text": "Dieser Leuchtturm steht hoch am Ufer und navigiert den ankommenden Tankerverkehr in Richtung des Berbera-Terminals.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974896,
+                        10.420491
+                  ]
+            },
+            {
+                  "name": "Tamara Point (Raastamar)",
+                  "text": "Dieser Leuchtturm an einem strategischen Küstenvorsprung strahlt über den Golf von Aden, um die nächtliche Schifffahrt abzusichern.",
+                  "category": "landmark",
+                  "coords": [
+                        44.981249,
+                        10.443939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "wado",
+                  "text": "Ez a tengerparti kilátó tiszta rálátást biztosít Berbera forgalmas olajtermináljának ipari infrastruktúrájára.",
+                  "category": "natural",
+                  "coords": [
+                        44.931568,
+                        10.401907
+                  ]
+            },
+            {
+                  "name": "Mayara (Berbera)",
+                  "text": "Ez a part menti világítótorony a bejövő tartályhajó forgalmat irányítja a berberai terminál felé.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974896,
+                        10.420491
+                  ]
+            },
+            {
+                  "name": "Tamara Point (Raastamar)",
+                  "text": "Egy stratégiai part menti kiemelkedésen elhelyezkedő világítótorony, amely az Ádeni-öbölön keresztül sugároz, hogy biztosítsa az éjszakai hajózást.",
+                  "category": "landmark",
+                  "coords": [
+                        44.981249,
+                        10.443939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "wado",
+                  "text": "Acest punct de observație de coastă oferă linii vizuale clare asupra infrastructurii industriale a terminalului petrolier aglomerat din Berbera.",
+                  "category": "natural",
+                  "coords": [
+                        44.931568,
+                        10.401907
+                  ]
+            },
+            {
+                  "name": "Mayara (Berbera)",
+                  "text": "Acest far de ghidare se înalță pe țărm, navigând traficul de tancuri care intră spre terminalul din Berbera.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974896,
+                        10.420491
+                  ]
+            },
+            {
+                  "name": "Tamara Point (Raastamar)",
+                  "text": "Poziționat pe un afloriment de coastă strategic, acest far luminează peste Golful Aden pentru a asigura navigația pe timp de noapte.",
+                  "category": "landmark",
+                  "coords": [
+                        44.981249,
+                        10.443939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "wado",
+                  "text": "This coastal vantage point provides clear sightlines over the industrial infrastructure of Berbera's busy oil terminal.",
+                  "category": "natural",
+                  "coords": [
+                        44.931568,
+                        10.401907
+                  ]
+            },
+            {
+                  "name": "Mayara (Berbera)",
+                  "text": "This guiding lighthouse stands tall on the shore, navigating incoming tanker traffic toward the Berbera terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974896,
+                        10.420491
+                  ]
+            },
+            {
+                  "name": "Tamara Point (Raastamar)",
+                  "text": "Positioned at a strategic coastal outcrop, this lighthouse beams across the Gulf of Aden to secure nighttime shipping.",
+                  "category": "landmark",
+                  "coords": [
+                        44.981249,
+                        10.443939
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SO-WO",
     coords: [44.991, 10.436],
@@ -1251,7 +3330,52 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "maydh-port-economic-v2",
+    id: "maydh-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cidiye",
+                  "text": "Cidiye ist ein markanter Küstenberggipfel in der Nähe des historischen Handelshafens von Maydh.",
+                  "category": "natural",
+                  "coords": [
+                        47.171762,
+                        10.937659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cidiye",
+                  "text": "A Cidiye egy kiemelkedő tengerparti hegycsúcs Maydh történelmi kereskedelmi kikötője közelében.",
+                  "category": "natural",
+                  "coords": [
+                        47.171762,
+                        10.937659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cidiye",
+                  "text": "Cidiye este un vârf muntos de coastă proeminent situat în apropierea portului comercial istoric Maydh.",
+                  "category": "natural",
+                  "coords": [
+                        47.171762,
+                        10.937659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cidiye",
+                  "text": "Cidiye is a prominent coastal mountain peak standing near the historic trading port of Maydh.",
+                  "category": "natural",
+                  "coords": [
+                        47.171762,
+                        10.937659
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SO-SA",
     coords: [47.113, 11.004],
@@ -1299,7 +3423,52 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "mogadishu-soap-economic-v2",
+    id: "mogadishu-soap-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mogadishu Tourist Village",
+                  "text": "Dieses Feriendorf an der somalischen Küste bietet Erholungs- und Freizeitmöglichkeiten am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        45.28863,
+                        2.091645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mogadishu Tourist Village",
+                  "text": "Ez a szomáliai tengerparton fekvő üdülőfalu kikapcsolódási lehetőségeket kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        45.28863,
+                        2.091645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mogadishu Tourist Village",
+                  "text": "Acest sat turistic de pe coasta somaleză oferă facilități de agrement la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        45.28863,
+                        2.091645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mogadishu Tourist Village",
+                  "text": "This coastal tourist village offers seaside recreation and leisure facilities along the Somali shore.",
+                  "category": "landmark",
+                  "coords": [
+                        45.28863,
+                        2.091645
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-BN",
     coords: [45.32, 2.07],
@@ -1347,7 +3516,124 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "eyl-fish-processing-economic-v2",
+    id: "eyl-fish-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lighthouse",
+                  "text": "Ein Küstenfeuer, das lokale Fischerei- und Verarbeitungsschiffe durch die Gewässer in der Nähe von Eyl navigiert.",
+                  "category": "landmark",
+                  "coords": [
+                        49.84466,
+                        7.965894
+                  ]
+            },
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "Eine historische Steinfestung aus dem Jahr 1917, die das architektonische Erbe der Derwische in Eyl widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            },
+            {
+                  "name": "Arin Diir",
+                  "text": "Ein sandiger Küstenstreifen, der von den lokalen See- und Fischereigemeinden aus Eyl genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        49.853845,
+                        7.968351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lighthouse",
+                  "text": "Egy parti jelzőfény, amely a helyi halász- és feldolgozóhajókat irányítja Eyl vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        49.84466,
+                        7.965894
+                  ]
+            },
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "Egy 1917-ben épült történelmi kőerőd, amely a dervis építészeti örökséget tükrözi Eylben.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            },
+            {
+                  "name": "Arin Diir",
+                  "text": "Egy homokos partszakasz, amelyet az Eylből induló helyi tengeri és halászati közösségek használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        49.853845,
+                        7.968351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lighthouse",
+                  "text": "Un far de coastă care ghidează navele locale de pescuit și procesare care navighează în apele din apropiere de Eyl.",
+                  "category": "landmark",
+                  "coords": [
+                        49.84466,
+                        7.965894
+                  ]
+            },
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "O fortificație istorică din piatră înființată în 1917, reflectând moștenirea arhitecturală a dervișilor din Eyl.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            },
+            {
+                  "name": "Arin Diir",
+                  "text": "O fâșie de coastă nisipoasă utilizată de comunitățile maritime și de pescuit locale care operează din Eyl.",
+                  "category": "recreational",
+                  "coords": [
+                        49.853845,
+                        7.968351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lighthouse",
+                  "text": "A coastal beacon guiding local fishing and processing vessels navigating the waters near Eyl.",
+                  "category": "landmark",
+                  "coords": [
+                        49.84466,
+                        7.965894
+                  ]
+            },
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "A historic stone fortification established in 1917, reflecting the Dervish architectural legacy in Eyl.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            },
+            {
+                  "name": "Arin Diir",
+                  "text": "A sandy coastal strip utilized by the local maritime and fishing communities operating out of Eyl.",
+                  "category": "recreational",
+                  "coords": [
+                        49.853845,
+                        7.968351
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-NU",
     coords: [49.82, 7.98],
@@ -1395,7 +3681,556 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
     },
   },
   {
-    id: "hargeisa-packaging-economic-v2",
+    id: "hargeisa-packaging-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "tt power plant ff",
+                  "text": "Dieser Beobachtungspunkt am TT-Kraftwerk bietet einen Blick auf die industrielle Infrastruktur im Wirtschaftsviertel von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.099878,
+                        9.519213
+                  ]
+            },
+            {
+                  "name": "TAAJ MASALAHA",
+                  "text": "Der Aussichtspunkt bei Taaj Masalaha eröffnet den Blick auf die dynamischen Geschäftsstraßen von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.075432,
+                        9.521554
+                  ]
+            },
+            {
+                  "name": "Warsan relief",
+                  "text": "Von diesem Aussichtspunkt beim Warsan-Zentrum aus kann man die umliegende städtische Bebauung in Hargeisa beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        44.074834,
+                        9.515857
+                  ]
+            },
+            {
+                  "name": "TLS 567047",
+                  "text": "Ein Aussichtspunkt an einer weiteren TLS-Anlage, der einen Überblick über die umliegenden Dächer von Hargeisa gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        44.067129,
+                        9.51884
+                  ]
+            },
+            {
+                  "name": "world concern",
+                  "text": "Dieser Aussichtspunkt nahe den Büros von World Concern bietet eine ruhige Perspektive auf das geschäftige Treiben in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.069839,
+                        9.520824
+                  ]
+            },
+            {
+                  "name": "TLS POINT TO POINT",
+                  "text": "Von dieser TLS Point-to-Point-Station aus hat man einen erhöhten Blick über die Kommunikationsinfrastruktur von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.068877,
+                        9.521759
+                  ]
+            },
+            {
+                  "name": "tls kaamil",
+                  "text": "Ein städtischer Aussichtspunkt am Kaamil-Standort, der die angrenzenden Viertel in Hargeisas Wirtschaftszone überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        44.062497,
+                        9.469291
+                  ]
+            },
+            {
+                  "name": "561193",
+                  "text": "Ein Aussichtspunkt im städtischen Umfeld von Hargeisa, der einen guten Blick auf die lokalen Geschäftsgebäude bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.072212,
+                        9.542653
+                  ]
+            },
+            {
+                  "name": "tls 565918",
+                  "text": "Dieser Standort einer TLS-Antenne fungiert als Aussichtspunkt über die weitläufigen Stadtteile von Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.063157,
+                        9.545097
+                  ]
+            },
+            {
+                  "name": "Guriga Biciid",
+                  "text": "Von Guriga Biciid aus kann man das alltägliche Leben in den Straßen von Hargeisa beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        44.0647,
+                        9.547623
+                  ]
+            },
+            {
+                  "name": "TLS 565881",
+                  "text": "Von diesem TLS-Standort aus lassen sich die Verkehrsströme im Wirtschaftsviertel von Hargeisa gut überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        44.060913,
+                        9.543076
+                  ]
+            },
+            {
+                  "name": "Daad Street",
+                  "text": "Ein Aussichtspunkt an der Daad Street, von dem aus man die lebhaften Marktaktivitäten in Hargeisa sehen kann.",
+                  "category": "natural",
+                  "coords": [
+                        44.05804,
+                        9.53803
+                  ]
+            },
+            {
+                  "name": "tec power aloore masjid",
+                  "text": "Dieser Aussichtspunkt nahe der Aloore-Moschee bietet einen friedlichen Blick auf die städtischen Anlagen in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.07544,
+                        9.540033
+                  ]
+            },
+            {
+                  "name": "tec power plant telesom star",
+                  "text": "Der Aussichtspunkt am Telesom-Kraftwerk ermöglicht einen Ausblick auf die industriellen und Telekommunikationsgebäude in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.075336,
+                        9.537553
+                  ]
+            },
+            {
+                  "name": "tec power plant muruq liqe",
+                  "text": "Vom Aussichtspunkt am Kraftwerk Muruq Liqe aus kann man die industriellen Randbezirke von Hargeisa betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        44.077902,
+                        9.540144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tt power plant ff",
+                  "text": "Ez a TT erőműnél lévő megfigyelőpont Hargeisa gazdasági negyedének ipari infrastruktúrájára nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        44.099878,
+                        9.519213
+                  ]
+            },
+            {
+                  "name": "TAAJ MASALAHA",
+                  "text": "A Taaj Masalaha melletti kilátópont Hargeisa dinamikus kereskedelmi utcáira tár fel panorámát.",
+                  "category": "natural",
+                  "coords": [
+                        44.075432,
+                        9.521554
+                  ]
+            },
+            {
+                  "name": "Warsan relief",
+                  "text": "Ebből a Warsan központ melletti kilátópontból megfigyelhető a környező városi beépítettség Hargeisában.",
+                  "category": "natural",
+                  "coords": [
+                        44.074834,
+                        9.515857
+                  ]
+            },
+            {
+                  "name": "TLS 567047",
+                  "text": "Egy újabb TLS létesítménynél lévő kilátópont, amely áttekintést nyújt Hargeisa környező háztetőire.",
+                  "category": "natural",
+                  "coords": [
+                        44.067129,
+                        9.51884
+                  ]
+            },
+            {
+                  "name": "world concern",
+                  "text": "Ez a World Concern irodáihoz közeli kilátópont nyugodt rálátást biztosít a nyüzsgő Hargeisára.",
+                  "category": "natural",
+                  "coords": [
+                        44.069839,
+                        9.520824
+                  ]
+            },
+            {
+                  "name": "TLS POINT TO POINT",
+                  "text": "Ebből a TLS Point-to-Point állomásból magaslati kilátás nyílik Hargeisa kommunikációs infrastruktúrájára.",
+                  "category": "natural",
+                  "coords": [
+                        44.068877,
+                        9.521759
+                  ]
+            },
+            {
+                  "name": "tls kaamil",
+                  "text": "Egy városi kilátópont a Kaamil helyszínen, amely Hargeisa gazdasági övezetének szomszédos kerületeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.062497,
+                        9.469291
+                  ]
+            },
+            {
+                  "name": "561193",
+                  "text": "Egy kilátópont Hargeisa városi környezetében, amely jó rálátást biztosít a helyi üzleti épületekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.072212,
+                        9.542653
+                  ]
+            },
+            {
+                  "name": "tls 565918",
+                  "text": "Ez a TLS antennahelyszín kilátópontként szolgál Hargeisa kiterjedt városrészeire.",
+                  "category": "natural",
+                  "coords": [
+                        44.063157,
+                        9.545097
+                  ]
+            },
+            {
+                  "name": "Guriga Biciid",
+                  "text": "A Guriga Biciidből megfigyelhető a mindennapi élet Hargeisa utcáin.",
+                  "category": "natural",
+                  "coords": [
+                        44.0647,
+                        9.547623
+                  ]
+            },
+            {
+                  "name": "TLS 565881",
+                  "text": "Ebből a TLS helyszínből jól áttekinthetők a forgalmi áramlatok Hargeisa gazdasági negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        44.060913,
+                        9.543076
+                  ]
+            },
+            {
+                  "name": "Daad Street",
+                  "text": "Egy kilátópont a Daad utcában, ahonnan láthatók Hargeisa nyüzsgő piaci tevékenységei.",
+                  "category": "natural",
+                  "coords": [
+                        44.05804,
+                        9.53803
+                  ]
+            },
+            {
+                  "name": "tec power aloore masjid",
+                  "text": "Ez az Aloore mecsethez közeli kilátópont békés rálátást nyújt Hargeisa városi létesítményeire.",
+                  "category": "natural",
+                  "coords": [
+                        44.07544,
+                        9.540033
+                  ]
+            },
+            {
+                  "name": "tec power plant telesom star",
+                  "text": "A Telesom erőműnél lévő kilátópont rálátást tesz lehetővé Hargeisa ipari és telekommunikációs épületeire.",
+                  "category": "natural",
+                  "coords": [
+                        44.075336,
+                        9.537553
+                  ]
+            },
+            {
+                  "name": "tec power plant muruq liqe",
+                  "text": "A Muruq Liqe erőműnél lévő kilátópontból megtekinthetők Hargeisa ipari külvárosai.",
+                  "category": "natural",
+                  "coords": [
+                        44.077902,
+                        9.540144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tt power plant ff",
+                  "text": "Acest punct de observație de la centrala electrică TT oferă o privire asupra infrastructurii industriale din districtul economic al Hargeisei.",
+                  "category": "natural",
+                  "coords": [
+                        44.099878,
+                        9.519213
+                  ]
+            },
+            {
+                  "name": "TAAJ MASALAHA",
+                  "text": "Punctul de belvedere de la Taaj Masalaha deschide o perspectivă asupra străzilor comerciale dinamice din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.075432,
+                        9.521554
+                  ]
+            },
+            {
+                  "name": "Warsan relief",
+                  "text": "Din acest punct de observație de la centrul Warsan se pot observa clădirile urbane din jur în Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.074834,
+                        9.515857
+                  ]
+            },
+            {
+                  "name": "TLS 567047",
+                  "text": "Un punct de observație la o altă instalație TLS, care oferă o vedere de ansamblu asupra acoperișurilor învecinate din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.067129,
+                        9.51884
+                  ]
+            },
+            {
+                  "name": "world concern",
+                  "text": "Acest punct de belvedere de lângă birourile World Concern oferă o perspectivă liniștită asupra agitației din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.069839,
+                        9.520824
+                  ]
+            },
+            {
+                  "name": "TLS POINT TO POINT",
+                  "text": "Din această stație TLS Point-to-Point se deschide o vedere elevată asupra infrastructurii de comunicații din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.068877,
+                        9.521759
+                  ]
+            },
+            {
+                  "name": "tls kaamil",
+                  "text": "Un punct de belvedere urban la locația Kaamil, cu vedere spre cartierele adiacente din zona economică a Hargeisei.",
+                  "category": "natural",
+                  "coords": [
+                        44.062497,
+                        9.469291
+                  ]
+            },
+            {
+                  "name": "561193",
+                  "text": "Un punct de observație în mediul urban din Hargeisa, oferind o vedere bună asupra clădirilor comerciale locale.",
+                  "category": "natural",
+                  "coords": [
+                        44.072212,
+                        9.542653
+                  ]
+            },
+            {
+                  "name": "tls 565918",
+                  "text": "Acest amplasament al unei antene TLS funcționează ca un punct de belvedere asupra cartierelor extinse din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.063157,
+                        9.545097
+                  ]
+            },
+            {
+                  "name": "Guriga Biciid",
+                  "text": "De la Guriga Biciid se poate observa viața de zi cu zi de pe străzile din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.0647,
+                        9.547623
+                  ]
+            },
+            {
+                  "name": "TLS 565881",
+                  "text": "Din acest amplasament TLS se pot observa bine fluxurile de trafic din districtul economic al Hargeisei.",
+                  "category": "natural",
+                  "coords": [
+                        44.060913,
+                        9.543076
+                  ]
+            },
+            {
+                  "name": "Daad Street",
+                  "text": "Un punct de observație pe strada Daad, de unde se pot vedea activitățile pline de viață din piețele din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.05804,
+                        9.53803
+                  ]
+            },
+            {
+                  "name": "tec power aloore masjid",
+                  "text": "Acest punct de belvedere de lângă Moscheea Aloore oferă o privire pașnică asupra facilităților urbane din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.07544,
+                        9.540033
+                  ]
+            },
+            {
+                  "name": "tec power plant telesom star",
+                  "text": "Punctul de belvedere de la centrala electrică Telesom permite o vedere asupra clădirilor industriale și de telecomunicații din Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.075336,
+                        9.537553
+                  ]
+            },
+            {
+                  "name": "tec power plant muruq liqe",
+                  "text": "De la punctul de belvedere de la centrala Muruq Liqe se pot privi periferiile industriale ale Hargeisei.",
+                  "category": "natural",
+                  "coords": [
+                        44.077902,
+                        9.540144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tt power plant ff",
+                  "text": "This observation point at the TT power plant offers a look at the industrial infrastructure in Hargeisa's economic district.",
+                  "category": "natural",
+                  "coords": [
+                        44.099878,
+                        9.519213
+                  ]
+            },
+            {
+                  "name": "TAAJ MASALAHA",
+                  "text": "The viewpoint by Taaj Masalaha opens up a vista over the dynamic commercial streets of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.075432,
+                        9.521554
+                  ]
+            },
+            {
+                  "name": "Warsan relief",
+                  "text": "From this viewpoint at the Warsan center, one can observe the surrounding urban developments in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.074834,
+                        9.515857
+                  ]
+            },
+            {
+                  "name": "TLS 567047",
+                  "text": "A viewpoint at another TLS facility that provides an overview of the neighboring rooftops in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.067129,
+                        9.51884
+                  ]
+            },
+            {
+                  "name": "world concern",
+                  "text": "This viewpoint near the World Concern offices offers a quiet perspective on the busy activity of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.069839,
+                        9.520824
+                  ]
+            },
+            {
+                  "name": "TLS POINT TO POINT",
+                  "text": "From this TLS point-to-Point station, there is an elevated view over Hargeisa's communication infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        44.068877,
+                        9.521759
+                  ]
+            },
+            {
+                  "name": "tls kaamil",
+                  "text": "An urban viewpoint at the Kaamil site, overlooking the adjacent districts in Hargeisa's economic zone.",
+                  "category": "natural",
+                  "coords": [
+                        44.062497,
+                        9.469291
+                  ]
+            },
+            {
+                  "name": "561193",
+                  "text": "A viewpoint in Hargeisa's urban environment that provides a good look at local commercial buildings.",
+                  "category": "natural",
+                  "coords": [
+                        44.072212,
+                        9.542653
+                  ]
+            },
+            {
+                  "name": "tls 565918",
+                  "text": "This site of a TLS antenna serves as a viewpoint over the expansive neighborhoods of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.063157,
+                        9.545097
+                  ]
+            },
+            {
+                  "name": "Guriga Biciid",
+                  "text": "From Guriga Biciid, one can observe the everyday life in the streets of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.0647,
+                        9.547623
+                  ]
+            },
+            {
+                  "name": "TLS 565881",
+                  "text": "From this TLS site, the traffic flows in Hargeisa's economic district can be well observed.",
+                  "category": "natural",
+                  "coords": [
+                        44.060913,
+                        9.543076
+                  ]
+            },
+            {
+                  "name": "Daad Street",
+                  "text": "A viewpoint on Daad Street from which one can see the lively market activities in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.05804,
+                        9.53803
+                  ]
+            },
+            {
+                  "name": "tec power aloore masjid",
+                  "text": "This viewpoint near the Aloore Mosque offers a peaceful look at the urban facilities in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.07544,
+                        9.540033
+                  ]
+            },
+            {
+                  "name": "tec power plant telesom star",
+                  "text": "The viewpoint at the Telesom power plant provides an outlook on the industrial and telecommunication buildings in Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.075336,
+                        9.537553
+                  ]
+            },
+            {
+                  "name": "tec power plant muruq liqe",
+                  "text": "From the viewpoint at the Muruq Liqe power plant, one can view the industrial outskirts of Hargeisa.",
+                  "category": "natural",
+                  "coords": [
+                        44.077902,
+                        9.540144
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SO-WO",
     coords: [44.06, 9.55],

@@ -435,7 +435,88 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
   },
   {
-    id: "mitsamiouli-graeber-history-v2",
+    id: "mitsamiouli-graeber-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "Der farbenfrohe Markt von Mitsamiouli ist ein geschäftiger Handelsplatz auf den Komoren, auf dem Einheimische frische tropische Früchte, Gewürze und Fisch verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Plage de Mitsamiouli",
+                  "text": "Dieser malerische tropische Strand bietet unberührten weißen Sand und klares, türkisfarbenes Wasser des Indischen Ozeans, umrahmt von Kokospalmen.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290981,
+                        -11.389209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "A színes Mitsamiouli Piac a Comore-szigetek nyüzsgő kereskedelmi központja, ahol a helyiek friss trópusi gyümölcsöket, fűszereket és halat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Plage de Mitsamiouli",
+                  "text": "Ez a festői trópusi strand érintetlen fehér homokkal és az Indiai-óceán tiszta türkizkék vizével büszkélkedhet, kókuszpálmákkal övezve.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290981,
+                        -11.389209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "Piața colorată din Mitsamiouli este un centru comercial aglomerat din Comore, unde localnicii se adună pentru a vinde fructe tropicale proaspete, condimente și pește.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Plage de Mitsamiouli",
+                  "text": "Această plajă tropicală pitorească are nisip alb imaculat și ape clare turcoaz ale Oceanului Indian, încadrate de cocotieri.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290981,
+                        -11.389209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "The colorful Mitsamiouli Market is a bustling trading hub in the Comoros where locals gather to sell fresh tropical fruits, spices, and fish.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Plage de Mitsamiouli",
+                  "text": "This scenic tropical beach features pristine white sands and clear turquoise Indian Ocean waters framed by coconut palms.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290981,
+                        -11.389209
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KM-G",
     coords: [43.2911, -11.3839],
@@ -579,7 +660,88 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
   },
   {
-    id: "ntsaoueni-moschee-history-v2",
+    id: "ntsaoueni-moschee-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bangwe Kuyu",
+                  "text": "Bangwe Kuyu ist ein lokales Kulturmuseum, das Artefakte und historische Erzählungen über die alte Siedlung Ntsaoueni bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        43.399181,
+                        -11.503711
+                  ]
+            },
+            {
+                  "name": "Plage de Buuni",
+                  "text": "Die Plage de Buuni bietet einen geschwungenen, hellen Sandstrand, der auf die warmen Wellen des Indischen Ozeans trifft und ideal für Strandspaziergänge ist.",
+                  "category": "recreational",
+                  "coords": [
+                        43.399006,
+                        -11.485701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bangwe Kuyu",
+                  "text": "A Bangwe Kuyu egy helyi kulturális múzeum, amely Ntsaoueni ősi települése köré épülő történelmi elbeszéléseket és tárgyi emlékeket őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        43.399181,
+                        -11.503711
+                  ]
+            },
+            {
+                  "name": "Plage de Buuni",
+                  "text": "A Plage de Buuni finom, világos homokos íve az Indiai-óceán meleg hullámaival találkozik, így tökéletes hely a tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        43.399006,
+                        -11.485701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bangwe Kuyu",
+                  "text": "Bangwe Kuyu este un muzeu cultural local care păstrează artefacte și narațiuni istorice centrate pe așezarea antică Ntsaoueni.",
+                  "category": "museum",
+                  "coords": [
+                        43.399181,
+                        -11.503711
+                  ]
+            },
+            {
+                  "name": "Plage de Buuni",
+                  "text": "Plaja de Buuni prezintă o întindere curbată de nisip deschis la culoare care se întâlnește cu valurile calde ale Oceanului Indian, fiind perfectă pentru plimbări pe țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        43.399006,
+                        -11.485701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bangwe Kuyu",
+                  "text": "Bangwe Kuyu is a local cultural museum preserving artifacts and historical narratives centered around the ancient settlement of Ntsaoueni.",
+                  "category": "museum",
+                  "coords": [
+                        43.399181,
+                        -11.503711
+                  ]
+            },
+            {
+                  "name": "Plage de Buuni",
+                  "text": "Plage de Buuni features a curving stretch of light-colored sand meeting the warm waves of the Indian Ocean, perfect for shoreline walks.",
+                  "category": "recreational",
+                  "coords": [
+                        43.399006,
+                        -11.485701
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KM-G",
     coords: [43.3444, -11.4333],
@@ -627,7 +789,52 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
   },
   {
-    id: "sima-ausgrabungen-history-v2",
+    id: "sima-ausgrabungen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Mkijirou Sombe",
+                  "text": "Plage de Mkijirou Sombe ist ein natürlicher Sandstrand neben archäologischen Ausgrabungsstätten.",
+                  "category": "recreational",
+                  "coords": [
+                        44.316358,
+                        -12.195273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Mkijirou Sombe",
+                  "text": "A Plage de Mkijirou Sombe egy természetes homokos strand a régészeti ásatási területek mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        44.316358,
+                        -12.195273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Mkijirou Sombe",
+                  "text": "Plage de Mkijirou Sombe este o plajă naturală de nisip situată în apropierea zonelor de excavații arheologice.",
+                  "category": "recreational",
+                  "coords": [
+                        44.316358,
+                        -12.195273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Mkijirou Sombe",
+                  "text": "Plage de Mkijirou Sombe is a natural sandy beach adjacent to archaeological excavation areas.",
+                  "category": "recreational",
+                  "coords": [
+                        44.316358,
+                        -12.195273
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KM-A",
     coords: [44.2817, -12.1972],
@@ -771,7 +978,124 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
   },
   {
-    id: "bangoua-kouni-history-v2",
+    id: "bangoua-kouni-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point de vue du Lac Salé",
+                  "text": "Dieser erhöhte Aussichtspunkt blickt direkt hinab auf das perfekt kreisrunde, dunkle Wasser des mythischen Vulkankraters Lac Salé.",
+                  "category": "natural",
+                  "coords": [
+                        43.371659,
+                        -11.376349
+                  ]
+            },
+            {
+                  "name": "Plage de Mboi Mbia",
+                  "text": "Die Plage de Mboi Mbia ist ein ruhiger, sandiger Küstenabschnitt, der von Küstenvegetation gesäumt wird und einen abgelegenen Ort zur Entspannung am Ozean bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        43.364843,
+                        -11.370289
+                  ]
+            },
+            {
+                  "name": "Plage Ountsini",
+                  "text": "Der Strand Ountsini zeichnet sich durch dunklen Vulkansand und schroffe Felsformationen aus, die von den Wellen der komorischen Küste geformt wurden.",
+                  "category": "recreational",
+                  "coords": [
+                        43.374636,
+                        -11.373439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point de vue du Lac Salé",
+                  "text": "Ez a megemelt kilátópont közvetlenül a mitikus Lac Salé vulkáni kráter tökéletesen kör alakú, sötét vizére néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.371659,
+                        -11.376349
+                  ]
+            },
+            {
+                  "name": "Plage de Mboi Mbia",
+                  "text": "A Plage de Mboi Mbia egy csendes, homokos partvidék, amelyet tengerparti növényzet szegélyez, így eldugott helyet kínál a pihenésre az óceán mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        43.364843,
+                        -11.370289
+                  ]
+            },
+            {
+                  "name": "Plage Ountsini",
+                  "text": "Az Ountsini strandot sötét vulkáni homok és a Comore-szigetek partvidékének hullámai által formált zord sziklaalakzatok jellemzik.",
+                  "category": "recreational",
+                  "coords": [
+                        43.374636,
+                        -11.373439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point de vue du Lac Salé",
+                  "text": "Acest punct de belvedere înalt privește direct în apele întunecate, perfect circulare, ale miticului crater vulcanic Lac Salé.",
+                  "category": "natural",
+                  "coords": [
+                        43.371659,
+                        -11.376349
+                  ]
+            },
+            {
+                  "name": "Plage de Mboi Mbia",
+                  "text": "Plaja Mboi Mbia este o coastă nisipoasă și liniștită, mărginită de vegetație de coastă, oferind un loc izolat pentru relaxare la malul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        43.364843,
+                        -11.370289
+                  ]
+            },
+            {
+                  "name": "Plage Ountsini",
+                  "text": "Plaja Ountsini prezintă nisipuri vulcanice întunecate și formațiuni stâncoase accidentate, modelate de valurile de pe coasta din Comore.",
+                  "category": "recreational",
+                  "coords": [
+                        43.374636,
+                        -11.373439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point de vue du Lac Salé",
+                  "text": "This elevated viewpoint looks directly down into the perfectly circular, dark waters of the mythical Lac Salé volcanic crater.",
+                  "category": "natural",
+                  "coords": [
+                        43.371659,
+                        -11.376349
+                  ]
+            },
+            {
+                  "name": "Plage de Mboi Mbia",
+                  "text": "Plage de Mboi Mbia is a tranquil, sandy shoreline bordered by coastal vegetation, offering a secluded spot for relaxation by the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        43.364843,
+                        -11.370289
+                  ]
+            },
+            {
+                  "name": "Plage Ountsini",
+                  "text": "Plage Ountsini features dark volcanic sands and rugged rock formations shaped by the waves of the Comorian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        43.374636,
+                        -11.373439
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KM-G",
     coords: [43.35, -11.35],
@@ -867,7 +1191,88 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
   },
   {
-    id: "iconi-klippen-history-v2",
+    id: "iconi-klippen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iconi Crater",
+                  "text": "Ein Aussichtspunkt mit Blick auf einen dramatischen Vulkankrater in der Nähe der Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        43.23294,
+                        -11.740498
+                  ]
+            },
+            {
+                  "name": "Ruines du Palais de Kavhiridjewo (XVIe siècle)",
+                  "text": "Historische Palastruinen aus dem 16. Jahrhundert entlang der Küstenklippen.",
+                  "category": "historical",
+                  "coords": [
+                        43.232528,
+                        -11.743376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iconi Crater",
+                  "text": "Egy kilátó, ahonnan a sziklák melletti drámai vulkáni kráterre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        43.23294,
+                        -11.740498
+                  ]
+            },
+            {
+                  "name": "Ruines du Palais de Kavhiridjewo (XVIe siècle)",
+                  "text": "Történelmi, 16. századi palotarombák a tengerparti sziklák mentén.",
+                  "category": "historical",
+                  "coords": [
+                        43.232528,
+                        -11.743376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iconi Crater",
+                  "text": "Un punct de belvedere cu vedere la un crater vulcanic dramatic lângă stânci.",
+                  "category": "natural",
+                  "coords": [
+                        43.23294,
+                        -11.740498
+                  ]
+            },
+            {
+                  "name": "Ruines du Palais de Kavhiridjewo (XVIe siècle)",
+                  "text": "Ruine istorice ale unui palat din secolul al XVI-lea, situate de-a lungul stâncilor de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        43.232528,
+                        -11.743376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iconi Crater",
+                  "text": "A scenic viewpoint overlooking a dramatic volcanic crater near the cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        43.23294,
+                        -11.740498
+                  ]
+            },
+            {
+                  "name": "Ruines du Palais de Kavhiridjewo (XVIe siècle)",
+                  "text": "Historic 16th-century palace ruins set along the coastal cliffs.",
+                  "category": "historical",
+                  "coords": [
+                        43.232528,
+                        -11.743376
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KM-G",
     coords: [43.2375, -11.7422],
@@ -915,7 +1320,52 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
   },
   {
-    id: "itsandra-ruinen-history-v2",
+    id: "itsandra-ruinen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage d'Itsandra",
+                  "text": "Dieser Strand am Meer ist bekannt für seinen feinen Sand und das klare Wasser der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        43.266095,
+                        -11.673782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage d'Itsandra",
+                  "text": "Ez a tengerparti strand finom homokjáról és a part tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        43.266095,
+                        -11.673782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage d'Itsandra",
+                  "text": "Această plajă de la malul mării este cunoscută pentru nisipul său fin și apele limpezi de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        43.266095,
+                        -11.673782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage d'Itsandra",
+                  "text": "This seaside beach is known for its fine sand and the clear coastal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        43.266095,
+                        -11.673782
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KM-G",
     coords: [43.2544, -11.6672],

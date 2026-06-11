@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTanzaniaLandmarksV2: POI[] = [
   {
-    id: "benjamin-mkapa-stadium-landmarks-v2",
+    id: "benjamin-mkapa-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Twiga cement industry",
+                  "text": "Ein industrieller Aussichtspunkt mit Blick auf die großen Zementproduktionsanlagen in der Nähe des Benjamin-Mkapa-Stadions.",
+                  "category": "natural",
+                  "coords": [
+                        39.257157,
+                        -6.81933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Twiga cement industry",
+                  "text": "Ipari kilátó, amely a Benjamin Mkapa Stadion melletti nagyüzemi cementgyártó létesítményekre néz.",
+                  "category": "natural",
+                  "coords": [
+                        39.257157,
+                        -6.81933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Twiga cement industry",
+                  "text": "Un punct de belvedere industrial cu vedere la marile facilități de producție a cimentului de lângă Stadionul Benjamin Mkapa.",
+                  "category": "natural",
+                  "coords": [
+                        39.257157,
+                        -6.81933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Twiga cement industry",
+                  "text": "An industrial viewpoint overlooking the large-scale cement manufacturing facilities near Benjamin Mkapa Stadium.",
+                  "category": "natural",
+                  "coords": [
+                        39.257157,
+                        -6.81933
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2736, -6.8394],
@@ -135,7 +180,52 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tpa-tower-landmarks-v2",
+    id: "tpa-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Diese Bronzestatue in Dar es Salaam erinnert an die Askari-Soldaten, die während des Ersten Weltkriegs im britischen Carrier Corps kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        39.289479,
+                        -6.816633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Ez a Dar es-Salaam-i bronzszobor azoknak az askari katonáknak állít emléket, akik az első világháború alatt a brit szállítóhadtestben harcoltak.",
+                  "category": "historical",
+                  "coords": [
+                        39.289479,
+                        -6.816633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Askari Monument",
+                  "text": "Această statuie de bronz din Dar es Salaam comemorează soldații Askari care au luptat în Corpul Britanic de Transport în timpul Primului Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        39.289479,
+                        -6.816633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Askari Monument",
+                  "text": "This bronze statue in Dar es Salaam commemorates the Askari soldiers who fought in the British Carrier Corps during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        39.289479,
+                        -6.816633
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2900, -6.8170],
@@ -183,7 +273,52 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pspf-twin-towers-landmarks-v2",
+    id: "pspf-twin-towers-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hilda Cultural Fashion",
+                  "text": "Hilda Cultural Fashion ist ein Kunstzentrum in der Nähe der PSPF Twin Towers, das sich auf traditionelle und zeitgenössische kulturelle Kleidung konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        39.268938,
+                        -6.790277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hilda Cultural Fashion",
+                  "text": "A Hilda Cultural Fashion egy művészeti központ a PSPF ikertornyok közelében, amely a hagyományos és kortárs kulturális öltözködésre fókuszál.",
+                  "category": "cultural",
+                  "coords": [
+                        39.268938,
+                        -6.790277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hilda Cultural Fashion",
+                  "text": "Hilda Cultural Fashion este un centru de artă concentrat pe ținute culturale tradiționale și contemporane, lângă Turnurile Gemene PSPF.",
+                  "category": "cultural",
+                  "coords": [
+                        39.268938,
+                        -6.790277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hilda Cultural Fashion",
+                  "text": "Hilda Cultural Fashion is an arts centre focused on traditional and contemporary cultural attire near the PSPF Twin Towers.",
+                  "category": "cultural",
+                  "coords": [
+                        39.268938,
+                        -6.790277
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2860, -6.8120],
@@ -231,7 +366,232 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "uhuru-monument-landmarks-v2",
+    id: "uhuru-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mwalimu Nyerere Museum",
+                  "text": "Ein Museum, das die persönlichen Gegenstände und das politische Erbe des ersten Präsidenten Tansanias bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        39.253607,
+                        -6.807221
+                  ]
+            },
+            {
+                  "name": "Unknown [38]",
+                  "text": "Ein malerischer städtischer Aussichtspunkt mit erhöhtem Blick auf die Straßen rund um das Uhuru Monument.",
+                  "category": "natural",
+                  "coords": [
+                        39.281108,
+                        -6.8202
+                  ]
+            },
+            {
+                  "name": "NES Mitumba & Smak limited [31]",
+                  "text": "Ein Geschäftsgebäude, das einzigartige urbane Aussichtspunkte über das belebte Viertel rund um das Uhuru Monument bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.281708,
+                        -6.818545
+                  ]
+            },
+            {
+                  "name": "Mussaji building [7]",
+                  "text": "Ein urbaner Aussichtspunkt auf einem markanten mehrstöckigen Gebäude in der Nähe des historischen Uhuru Monument.",
+                  "category": "natural",
+                  "coords": [
+                        39.285507,
+                        -6.816252
+                  ]
+            },
+            {
+                  "name": "Kaderonia Alarakhia Building [48]",
+                  "text": "Ein architektonischer Aussichtspunkt mit freiem Blick auf die lebhafte Stadtlandschaft nahe dem Uhuru Monument.",
+                  "category": "natural",
+                  "coords": [
+                        39.283352,
+                        -6.817176
+                  ]
+            },
+            {
+                  "name": "Jessa Rice Mills [27]",
+                  "text": "Eine industrielle Reismühle, die einen einzigartigen, erhöhten städtischen Aussichtspunkt in der Nähe des Uhuru Monument bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.282089,
+                        -6.817298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mwalimu Nyerere Museum",
+                  "text": "Tanzánia első elnökének személyes tárgyait és politikai örökségét őrző dedikált múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        39.253607,
+                        -6.807221
+                  ]
+            },
+            {
+                  "name": "Unknown [38]",
+                  "text": "Festői városi kilátópont, amely magaslati kilátást nyújt az Uhuru Monument körüli utcákra.",
+                  "category": "natural",
+                  "coords": [
+                        39.281108,
+                        -6.8202
+                  ]
+            },
+            {
+                  "name": "NES Mitumba & Smak limited [31]",
+                  "text": "Kereskedelmi épület, amely egyedülálló városi kilátást nyújt a nyüzsgő Uhuru Monument területére.",
+                  "category": "natural",
+                  "coords": [
+                        39.281708,
+                        -6.818545
+                  ]
+            },
+            {
+                  "name": "Mussaji building [7]",
+                  "text": "A történelmi Uhuru Monument közelében található figyelemre méltó többszintes épületen kialakított városi kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        39.285507,
+                        -6.816252
+                  ]
+            },
+            {
+                  "name": "Kaderonia Alarakhia Building [48]",
+                  "text": "Építészeti kilátópont, amely tiszta rálátást biztosít az Uhuru Monument körüli nyüzsgő városképre.",
+                  "category": "natural",
+                  "coords": [
+                        39.283352,
+                        -6.817176
+                  ]
+            },
+            {
+                  "name": "Jessa Rice Mills [27]",
+                  "text": "Ipari rizsmalom, amely egyedülálló, magaslati városi kilátópontot kínál az Uhuru Monument közelében.",
+                  "category": "natural",
+                  "coords": [
+                        39.282089,
+                        -6.817298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mwalimu Nyerere Museum",
+                  "text": "Un muzeu dedicat care păstrează artefactele personale și moștenirea politică a primului președinte al Tanzaniei.",
+                  "category": "museum",
+                  "coords": [
+                        39.253607,
+                        -6.807221
+                  ]
+            },
+            {
+                  "name": "Unknown [38]",
+                  "text": "Un punct de observație urban pitoresc, care oferă vederi ridicate asupra străzilor din jurul monumentului Uhuru.",
+                  "category": "natural",
+                  "coords": [
+                        39.281108,
+                        -6.8202
+                  ]
+            },
+            {
+                  "name": "NES Mitumba & Smak limited [31]",
+                  "text": "O clădire comercială care oferă puncte de observație urbane unice asupra zonei pline de viață a monumentului Uhuru.",
+                  "category": "natural",
+                  "coords": [
+                        39.281708,
+                        -6.818545
+                  ]
+            },
+            {
+                  "name": "Mussaji building [7]",
+                  "text": "Un punct de belvedere urban situat pe o clădire cu mai multe etaje notabilă din apropierea monumentului istoric Uhuru.",
+                  "category": "natural",
+                  "coords": [
+                        39.285507,
+                        -6.816252
+                  ]
+            },
+            {
+                  "name": "Kaderonia Alarakhia Building [48]",
+                  "text": "Un punct de observație arhitectural care oferă vederi clare asupra peisajului urban vibrant de lângă monumentul Uhuru.",
+                  "category": "natural",
+                  "coords": [
+                        39.283352,
+                        -6.817176
+                  ]
+            },
+            {
+                  "name": "Jessa Rice Mills [27]",
+                  "text": "O moară industrială care oferă un punct de observație urban unic și ridicat lângă monumentul Uhuru.",
+                  "category": "natural",
+                  "coords": [
+                        39.282089,
+                        -6.817298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mwalimu Nyerere Museum",
+                  "text": "A dedicated museum preserving the personal artifacts and political legacy of Tanzania's first president.",
+                  "category": "museum",
+                  "coords": [
+                        39.253607,
+                        -6.807221
+                  ]
+            },
+            {
+                  "name": "Unknown [38]",
+                  "text": "A scenic urban observation spot offering elevated views of the streets around the Uhuru Monument.",
+                  "category": "natural",
+                  "coords": [
+                        39.281108,
+                        -6.8202
+                  ]
+            },
+            {
+                  "name": "NES Mitumba & Smak limited [31]",
+                  "text": "A commercial building that provides unique urban vantage points over the bustling Uhuru Monument area.",
+                  "category": "natural",
+                  "coords": [
+                        39.281708,
+                        -6.818545
+                  ]
+            },
+            {
+                  "name": "Mussaji building [7]",
+                  "text": "An urban viewpoint situated on a notable multi-story building near the historic Uhuru Monument.",
+                  "category": "natural",
+                  "coords": [
+                        39.285507,
+                        -6.816252
+                  ]
+            },
+            {
+                  "name": "Kaderonia Alarakhia Building [48]",
+                  "text": "An architectural viewpoint offering clear sights of the vibrant urban landscape near the Uhuru Monument.",
+                  "category": "natural",
+                  "coords": [
+                        39.283352,
+                        -6.817176
+                  ]
+            },
+            {
+                  "name": "Jessa Rice Mills [27]",
+                  "text": "An industrial milling facility providing a unique, elevated urban observation point near the Uhuru Monument.",
+                  "category": "natural",
+                  "coords": [
+                        39.282089,
+                        -6.817298
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2845, -6.8153],
@@ -279,7 +639,88 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nyerere-bridge-landmarks-v2",
+    id: "nyerere-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kipepeo Beach Village",
+                  "text": "Dieses Strandresort an der Küste bietet Sandstrände und Entspannung direkt auf der anderen Seite der Nyerere-Brücke.",
+                  "category": "recreational",
+                  "coords": [
+                        39.361358,
+                        -6.851465
+                  ]
+            },
+            {
+                  "name": "Nyerere Bridge",
+                  "text": "Diese im Jahr 2016 eröffnete Brücke verbindet den Bezirk Kigamboni über den Kurasini Creek mit dem Rest von Daressalam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.299534,
+                        -6.859227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kipepeo Beach Village",
+                  "text": "Ez a tengerparti üdülőhely homokos partokat és kikapcsolódást kínál közvetlenül a Nyerere-híd túloldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        39.361358,
+                        -6.851465
+                  ]
+            },
+            {
+                  "name": "Nyerere Bridge",
+                  "text": "A 2016-ban megnyitott híd a Kurasini Creek felett köti össze a Kigamboni negyedet Dar es Salaam többi részével.",
+                  "category": "landmark",
+                  "coords": [
+                        39.299534,
+                        -6.859227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kipepeo Beach Village",
+                  "text": "Această stațiune de plajă de coastă oferă țărmuri nisipoase și relaxare chiar peste Podul Nyerere.",
+                  "category": "recreational",
+                  "coords": [
+                        39.361358,
+                        -6.851465
+                  ]
+            },
+            {
+                  "name": "Nyerere Bridge",
+                  "text": "Deschis în 2016, acest pod conectează cartierul Kigamboni de restul orașului Dar es Salaam peste pârâul Kurasini.",
+                  "category": "landmark",
+                  "coords": [
+                        39.299534,
+                        -6.859227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kipepeo Beach Village",
+                  "text": "This coastal beach resort offers sandy shores and relaxation just across the Nyerere Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        39.361358,
+                        -6.851465
+                  ]
+            },
+            {
+                  "name": "Nyerere Bridge",
+                  "text": "Opened in 2016, this prominent bridge connects the Kigamboni district with the rest of Dar es Salaam over the Kurasini Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.299534,
+                        -6.859227
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2931, -6.8485],
@@ -375,7 +816,196 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gaddafi-mosque-landmarks-v2",
+    id: "gaddafi-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Train",
+                  "text": "Ein historischer Eisenbahnwaggon, der als Attraktion in der Nähe der Gaddafi-Moschee in Dodoma erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750042,
+                        -6.183811
+                  ]
+            },
+            {
+                  "name": "Museum for Geoscience",
+                  "text": "Ein Museum in Dodoma, das Felsformationen, Mineralien und geologische Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        35.748611,
+                        -6.186293
+                  ]
+            },
+            {
+                  "name": "mashuja monument",
+                  "text": "Ein monumentales Bauwerk in Dodoma, das dem Gedenken an die gefallenen Helden der Nation gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.749694,
+                        -6.182332
+                  ]
+            },
+            {
+                  "name": "Kigamboni Mtaa",
+                  "text": "Ein Aussichtspunkt auf Straßenebene, der die alltägliche urbane Atmosphäre in Dodoma einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        35.733399,
+                        -6.191812
+                  ]
+            },
+            {
+                  "name": "Imagi",
+                  "text": "Ein markanter Berggipfel, der einen Panoramablick über die Region Dodoma bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.748722,
+                        -6.21273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Train",
+                  "text": "A dodomai Kadhafi-mecset közelében látványosságként megőrzött történelmi vasúti kocsi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750042,
+                        -6.183811
+                  ]
+            },
+            {
+                  "name": "Museum for Geoscience",
+                  "text": "Dodomai múzeum, amely sziklaalakzatokat, ásványokat és földtörténetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.748611,
+                        -6.186293
+                  ]
+            },
+            {
+                  "name": "mashuja monument",
+                  "text": "A nemzet elesett hőseinek emlékére szentelt monumentális építmény Dodomában.",
+                  "category": "historical",
+                  "coords": [
+                        35.749694,
+                        -6.182332
+                  ]
+            },
+            {
+                  "name": "Kigamboni Mtaa",
+                  "text": "Egy utcaszintű kilátó, amely megragadja Dodoma mindennapi városi hangulatát.",
+                  "category": "natural",
+                  "coords": [
+                        35.733399,
+                        -6.191812
+                  ]
+            },
+            {
+                  "name": "Imagi",
+                  "text": "Egy kiemelkedő hegycsúcs, amely panorámás kilátást nyújt a Dodoma régióra.",
+                  "category": "natural",
+                  "coords": [
+                        35.748722,
+                        -6.21273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Train",
+                  "text": "Un vagon de tren istoric păstrat ca atracție în apropierea Moscheei Gaddafi din Dodoma.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750042,
+                        -6.183811
+                  ]
+            },
+            {
+                  "name": "Museum for Geoscience",
+                  "text": "Un muzeu din Dodoma care prezintă formațiuni stâncoase, minerale și istorie geologică.",
+                  "category": "museum",
+                  "coords": [
+                        35.748611,
+                        -6.186293
+                  ]
+            },
+            {
+                  "name": "mashuja monument",
+                  "text": "O structură monumentală în Dodoma dedicată comemorării eroilor căzuți ai națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        35.749694,
+                        -6.182332
+                  ]
+            },
+            {
+                  "name": "Kigamboni Mtaa",
+                  "text": "Un punct de belvedere la nivelul străzii care surprinde atmosfera urbană de zi cu zi din Dodoma.",
+                  "category": "natural",
+                  "coords": [
+                        35.733399,
+                        -6.191812
+                  ]
+            },
+            {
+                  "name": "Imagi",
+                  "text": "Un vârf de munte proeminent care oferă vederi panoramice asupra regiunii Dodoma.",
+                  "category": "natural",
+                  "coords": [
+                        35.748722,
+                        -6.21273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Train",
+                  "text": "A historic train carriage preserved as an attraction near the Gaddafi Mosque in Dodoma.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750042,
+                        -6.183811
+                  ]
+            },
+            {
+                  "name": "Museum for Geoscience",
+                  "text": "A museum in Dodoma showcasing rock formations, minerals, and geological history.",
+                  "category": "museum",
+                  "coords": [
+                        35.748611,
+                        -6.186293
+                  ]
+            },
+            {
+                  "name": "mashuja monument",
+                  "text": "A monumental structure in Dodoma dedicated to remembering the nation's fallen heroes.",
+                  "category": "historical",
+                  "coords": [
+                        35.749694,
+                        -6.182332
+                  ]
+            },
+            {
+                  "name": "Kigamboni Mtaa",
+                  "text": "A street-level viewpoint capturing the everyday urban atmosphere in Dodoma.",
+                  "category": "natural",
+                  "coords": [
+                        35.733399,
+                        -6.191812
+                  ]
+            },
+            {
+                  "name": "Imagi",
+                  "text": "A prominent mountain peak providing panoramic views over the Dodoma region.",
+                  "category": "natural",
+                  "coords": [
+                        35.748722,
+                        -6.21273
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-03",
     coords: [35.7483, -6.1824],
@@ -459,7 +1089,88 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "old-dispensary-landmarks-v2",
+    id: "old-dispensary-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Big Tree",
+                  "text": "Ein massiver, historischer Banyanbaum in der Nähe der Uferpromenade von Sansibar, der als traditioneller Treffpunkt und schattiges Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.191895,
+                        -6.158775
+                  ]
+            },
+            {
+                  "name": "Bharmal Building",
+                  "text": "Ein markantes Gebäude aus der Kolonialzeit in Sansibar, das den architektonischen Einfluss wohlhabender indischer Kaufleute widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194965,
+                        -6.158706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Big Tree",
+                  "text": "Egy hatalmas történelmi banyánfa Zanzibár vízpartjának közelében, amely hagyományos találkozóhelyként és árnyékos tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.191895,
+                        -6.158775
+                  ]
+            },
+            {
+                  "name": "Bharmal Building",
+                  "text": "Egy kiemelkedő gyarmati korszakbeli épület Zanzibáron, amely a gazdag indiai kereskedők építészeti hatását tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194965,
+                        -6.158706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Big Tree",
+                  "text": "Un copac banyan indian masiv și istoric lângă faleza din Zanzibar, care servește drept loc de adunare tradițional și reper umbrit.",
+                  "category": "landmark",
+                  "coords": [
+                        39.191895,
+                        -6.158775
+                  ]
+            },
+            {
+                  "name": "Bharmal Building",
+                  "text": "O structură istorică proeminentă din epoca colonială din Zanzibar, reflectând influența arhitecturală a comercianților bogați indieni.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194965,
+                        -6.158706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Big Tree",
+                  "text": "A massive, historic Indian banyan tree near the Zanzibar waterfront that serves as a traditional gathering place and shaded landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        39.191895,
+                        -6.158775
+                  ]
+            },
+            {
+                  "name": "Bharmal Building",
+                  "text": "A prominent historic colonial-era structure in Zanzibar, reflecting the architectural influence of wealthy Indian merchants.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194965,
+                        -6.158706
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-15",
     coords: [39.1906, -6.1583],
@@ -507,7 +1218,160 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hamamni-persian-baths-landmarks-v2",
+    id: "hamamni-persian-baths-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dr. Bulugu Gallery",
+                  "text": "Eine Kunstgalerie in Stone Town, die lokale Gemälde und traditionelles Kunsthandwerk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        39.19137,
+                        -6.161376
+                  ]
+            },
+            {
+                  "name": "Karume Monument",
+                  "text": "Ein Gedenkmonument, das Abeid Amani Karume, eine Schlüsselfigur in der Geschichte Sansibars, ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        39.193562,
+                        -6.164145
+                  ]
+            },
+            {
+                  "name": "Slavery Memorial",
+                  "text": "Eine ernste Attraktion mit Steinstatuen, die an die tragische Geschichte des ostafrikanischen Sklavenhandels erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192781,
+                        -6.163047
+                  ]
+            },
+            {
+                  "name": "Cultural Arts Center",
+                  "text": "Eine lebendige Galerie, die traditionelles Kunsthandwerk aus Sansibar und zeitgenössische Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        39.190953,
+                        -6.162379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dr. Bulugu Gallery",
+                  "text": "Egy művészeti galéria Stone Townban, amely helyi festményeket és hagyományos kézműves termékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.19137,
+                        -6.161376
+                  ]
+            },
+            {
+                  "name": "Karume Monument",
+                  "text": "Emlékmű, amely Abeid Amani Karume, Zanzibár történelmének egyik kulcsfigurája előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        39.193562,
+                        -6.164145
+                  ]
+            },
+            {
+                  "name": "Slavery Memorial",
+                  "text": "Komor látványosság kőszobrokkal, amely a kelet-afrikai rabszolgakereskedelem tragikus történetének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192781,
+                        -6.163047
+                  ]
+            },
+            {
+                  "name": "Cultural Arts Center",
+                  "text": "Élettel teli galéria, amely hagyományos zanzibári kézműves alkotásokat és kortárs művészeti műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.190953,
+                        -6.162379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dr. Bulugu Gallery",
+                  "text": "O galerie de artă în Stone Town care expune picturi locale și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        39.19137,
+                        -6.161376
+                  ]
+            },
+            {
+                  "name": "Karume Monument",
+                  "text": "Un monument comemorativ care îl onorează pe Abeid Amani Karume, o figură cheie în istoria Zanzibarului.",
+                  "category": "historical",
+                  "coords": [
+                        39.193562,
+                        -6.164145
+                  ]
+            },
+            {
+                  "name": "Slavery Memorial",
+                  "text": "O atracție solemnă cu statui din piatră, care comemorează istoria tragică a comerțului cu sclavi din Africa de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192781,
+                        -6.163047
+                  ]
+            },
+            {
+                  "name": "Cultural Arts Center",
+                  "text": "O galerie vibrantă care prezintă meșteșuguri tradiționale din Zanzibar și opere de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        39.190953,
+                        -6.162379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dr. Bulugu Gallery",
+                  "text": "An art gallery in Stone Town showcasing local paintings and traditional cultural crafts.",
+                  "category": "museum",
+                  "coords": [
+                        39.19137,
+                        -6.161376
+                  ]
+            },
+            {
+                  "name": "Karume Monument",
+                  "text": "A memorial monument honoring Abeid Amani Karume, a key figure in Zanzibar's history.",
+                  "category": "historical",
+                  "coords": [
+                        39.193562,
+                        -6.164145
+                  ]
+            },
+            {
+                  "name": "Slavery Memorial",
+                  "text": "A solemn attraction featuring stone statues that commemorate the tragic history of the East African slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192781,
+                        -6.163047
+                  ]
+            },
+            {
+                  "name": "Cultural Arts Center",
+                  "text": "A vibrant gallery space displaying traditional Zanzibari crafts and contemporary artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        39.190953,
+                        -6.162379
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-15",
     coords: [39.1911, -6.1633],
@@ -555,7 +1419,160 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "peace-memorial-museum-landmarks-v2",
+    id: "peace-memorial-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pange Island",
+                  "text": "Diese unberührte Sandbank-Insel vor Sansibar, die man nach einer kurzen Bootsfahrt von Stone Town aus erreicht, bietet hervorragende Schnorchelmöglichkeiten in den Korallenriffen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162713,
+                        -6.186186
+                  ]
+            },
+            {
+                  "name": "Peace Memorial Museum",
+                  "text": "Dieses vom Architekten J.H. Sinclair entworfene Museum in Sansibar mit seiner markanten kugelförmigen Kuppel beherbergt historische Artefakte der reichen Geschichte der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        39.191288,
+                        -6.167989
+                  ]
+            },
+            {
+                  "name": "Practical Permaculture Institute",
+                  "text": "Dieses Institut auf Sansibar fungiert als Bildungszentrum und lehrt lokale Gemeinschaften nachhaltige landwirtschaftliche Techniken.",
+                  "category": "landmark",
+                  "coords": [
+                        39.238528,
+                        -6.231502
+                  ]
+            },
+            {
+                  "name": "Nakupenda Beach",
+                  "text": "Diese atemberaubende Sandbank vor der Küste Sansibars, deren Name auf Swahili „Ich liebe dich“ bedeutet, ist von kristallklarem, azurblauem Wasser umgeben.",
+                  "category": "recreational",
+                  "coords": [
+                        39.149029,
+                        -6.17205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pange Island",
+                  "text": "A Stone Townból rövid hajóúttal elérhető érintetlen zanzibári homokpados sziget kiváló sznorkelezési lehetőségeket kínál a parti korallzátonyoknál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162713,
+                        -6.186186
+                  ]
+            },
+            {
+                  "name": "Peace Memorial Museum",
+                  "text": "A J.H. Sinclair építész által tervezett, jellegzetes gömbkupolájú zanzibári múzeum történelmi leleteket őriz a sziget gazdag múltjából.",
+                  "category": "museum",
+                  "coords": [
+                        39.191288,
+                        -6.167989
+                  ]
+            },
+            {
+                  "name": "Practical Permaculture Institute",
+                  "text": "Ez a zanzibári oktatási központ fenntartható mezőgazdasági technikákat és környezetbarát gazdálkodási gyakorlatokat tanít a helyi közösségeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.238528,
+                        -6.231502
+                  ]
+            },
+            {
+                  "name": "Nakupenda Beach",
+                  "text": "A zanzibári partoknál fekvő lenyűgöző homokpad, melynek neve szuahéliül azt jelenti, hogy \"szeretlek\", kristálytiszta, azúrkék víz ölelésében található.",
+                  "category": "recreational",
+                  "coords": [
+                        39.149029,
+                        -6.17205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pange Island",
+                  "text": "Accesibilă printr-o scurtă plimbare cu barca din Stone Town, această insulă cu bancuri de nisip din Zanzibar oferă condiții excelente de snorkeling printre recife.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162713,
+                        -6.186186
+                  ]
+            },
+            {
+                  "name": "Peace Memorial Museum",
+                  "text": "Proiectat de arhitectul J.H. Sinclair, acest muzeu din Zanzibar, cu domul său sferic distinctiv, adăpostește artefacte din istoria bogată a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        39.191288,
+                        -6.167989
+                  ]
+            },
+            {
+                  "name": "Practical Permaculture Institute",
+                  "text": "Funcționând ca un centru educațional în Zanzibar, acest institut predă tehnici agricole durabile și practici ecologice comunităților locale.",
+                  "category": "landmark",
+                  "coords": [
+                        39.238528,
+                        -6.231502
+                  ]
+            },
+            {
+                  "name": "Nakupenda Beach",
+                  "text": "Acest banc de nisip uimitor din largul coastei Zanzibar, al cărui nume înseamnă „Te iubesc” în swahili, este înconjurat de ape azurii cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        39.149029,
+                        -6.17205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pange Island",
+                  "text": "Accessible via a short boat ride from Stone Town, this pristine sandbank island in Zanzibar offers excellent snorkeling among coastal coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162713,
+                        -6.186186
+                  ]
+            },
+            {
+                  "name": "Peace Memorial Museum",
+                  "text": "Designed by architect J.H. Sinclair, this landmark museum with its distinctive spherical dome houses historical artifacts spanning Zanzibar's rich history.",
+                  "category": "museum",
+                  "coords": [
+                        39.191288,
+                        -6.167989
+                  ]
+            },
+            {
+                  "name": "Practical Permaculture Institute",
+                  "text": "Operating as an educational hub in Zanzibar, this institute teaches sustainable agricultural techniques and eco-friendly farming practices to local communities.",
+                  "category": "landmark",
+                  "coords": [
+                        39.238528,
+                        -6.231502
+                  ]
+            },
+            {
+                  "name": "Nakupenda Beach",
+                  "text": "This stunning sandbank off the Zanzibar coast, whose name translates to \"I love you\" in Swahili, is surrounded by crystal-clear, azure waters.",
+                  "category": "recreational",
+                  "coords": [
+                        39.149029,
+                        -6.17205
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-15",
     coords: [39.1895, -6.1681],
@@ -651,7 +1668,52 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "forodhani-bandstand-landmarks-v2",
+    id: "forodhani-bandstand-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset place",
+                  "text": "Dieser lebhafte Ort an der Uferpromenade der Forodhani-Gärten ist ein beliebter Treffpunkt, um zu beobachten, wie die Sonne im Ozean versinkt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188044,
+                        -6.160742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset place",
+                  "text": "A Forodhani-kertek tengerparti sétánya mentén fekvő élénk hely híres arról, hogy kiváló kilátást nyújt az óceánba bukó naplementére.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188044,
+                        -6.160742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset place",
+                  "text": "Situat de-a lungul promenadei de la malul mării din Grădinile Forodhani, acest loc animat este renumit pentru vizionarea apusurilor de soare în ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188044,
+                        -6.160742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset place",
+                  "text": "Situated along the seafront promenade of Forodhani Gardens, this lively spot is famously favored for watching the sun dip into the ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        39.188044,
+                        -6.160742
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-15",
     coords: [39.1884, -6.1606],
@@ -699,7 +1761,52 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ccm-kirumba-stadium-landmarks-v2",
+    id: "ccm-kirumba-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kissing Rocks",
+                  "text": "Eine faszinierende geologische Felsformation in der Nähe des CCM Kirumba-Stadions in Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865326,
+                        -2.506806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kissing Rocks",
+                  "text": "Egy lenyűgöző geológiai sziklaképződmény a mwanzai CCM Kirumba Stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865326,
+                        -2.506806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kissing Rocks",
+                  "text": "O formațiune geologică stâncoasă fascinantă situată în apropierea Stadionului CCM Kirumba din Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865326,
+                        -2.506806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kissing Rocks",
+                  "text": "An intriguing geological rock formation located near the CCM Kirumba Stadium in Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865326,
+                        -2.506806
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-18",
     coords: [32.8942, -2.5086],
@@ -747,7 +1854,448 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "arusha-clock-tower-landmarks-v2",
+    id: "arusha-clock-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arusha coffee mill Ltd",
+                  "text": "Eine alte Kaffeemühlenanlage, die als Industriedenkmal in Arusha steht.",
+                  "category": "historical",
+                  "coords": [
+                        36.71955,
+                        -3.403072
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Ein berühmter runder Uhrturm in Arusha, der traditionell als genauer Mittelpunkt zwischen Kairo und Kapstadt gilt.",
+                  "category": "tower",
+                  "coords": [
+                        36.694472,
+                        -3.37237
+                  ]
+            },
+            {
+                  "name": "Sundowner Spot",
+                  "text": "Eine beliebte abendliche Attraktion in Arusha, die malerische Ausblicke auf den Sonnenuntergang bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.708062,
+                        -3.313556
+                  ]
+            },
+            {
+                  "name": "Songota Waterfall",
+                  "text": "Ein malerischer Aussichtspunkt, der Besuchern ermöglicht, das herabstürzende Wasser von Songota in Arusha zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        36.74544,
+                        -3.348829
+                  ]
+            },
+            {
+                  "name": "Arusha Tours (Hidden Arusha Waterfall, Coffee & Village Tour - All-Inclusive)",
+                  "text": "Eine geführte Attraktion, die Besuchern verborgene Wasserfälle und lokale Kaffeeanbaugemeinschaften rund um Arusha näherbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751563,
+                        -3.367022
+                  ]
+            },
+            {
+                  "name": "HKFARMS",
+                  "text": "Eine landwirtschaftliche Attraktion, die den lokalen Pflanzenanbau und landwirtschaftliche Praktiken in Arusha zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755242,
+                        -3.373487
+                  ]
+            },
+            {
+                  "name": "Masai camp",
+                  "text": "Ein Kunstzentrum und kultureller Knotenpunkt in Arusha, der die Traditionen des Massai-Volkes widerspiegelt.",
+                  "category": "cultural",
+                  "coords": [
+                        36.719812,
+                        -3.384517
+                  ]
+            },
+            {
+                  "name": "Alliance Franco Tanzanienne of Arusha",
+                  "text": "Ein Kunstzentrum in Arusha, das den kulturellen Austausch durch französische und tansanische Kunstveranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.703536,
+                        -3.385479
+                  ]
+            },
+            {
+                  "name": "Bodaboda stand",
+                  "text": "Ein lebhafter städtischer Aussichtspunkt an einem geschäftigen Motorradtaxistand in Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.715953,
+                        -3.407808
+                  ]
+            },
+            {
+                  "name": "Nyumba za kupanga",
+                  "text": "Ein Aussichtspunkt mit Blick auf die typischen Mietwohnstrukturen in Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.717879,
+                        -3.406639
+                  ]
+            },
+            {
+                  "name": "Natural History National Museum",
+                  "text": "Ein Nationalmuseum in Arusha, das die menschliche Evolution, die lokale Tierwelt und die regionale Geschichte detailliert darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        36.696184,
+                        -3.369594
+                  ]
+            },
+            {
+                  "name": "Moivaro Forest",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe von Arusha, das das einheimische Waldökosystem bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        36.747585,
+                        -3.381694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arusha coffee mill Ltd",
+                  "text": "Egy régi kávéőrlő üzem, amely ipari műemlékként áll Arushában.",
+                  "category": "historical",
+                  "coords": [
+                        36.71955,
+                        -3.403072
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Egy híres kör alakú óratorony Arushában, amelyet hagyományosan Kairó és Fokváros pontos felezőpontjának tartanak.",
+                  "category": "tower",
+                  "coords": [
+                        36.694472,
+                        -3.37237
+                  ]
+            },
+            {
+                  "name": "Sundowner Spot",
+                  "text": "Egy népszerű esti látványosság Arushában, amely festői naplemente kilátást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        36.708062,
+                        -3.313556
+                  ]
+            },
+            {
+                  "name": "Songota Waterfall",
+                  "text": "Egy festői kilátó, ahonnan a látogatók megfigyelhetik Songota vízeséseit Arushában.",
+                  "category": "natural",
+                  "coords": [
+                        36.74544,
+                        -3.348829
+                  ]
+            },
+            {
+                  "name": "Arusha Tours (Hidden Arusha Waterfall, Coffee & Village Tour - All-Inclusive)",
+                  "text": "Vezetett látványosság, amely bemutatja a látogatóknak a rejtett vízeséseket és a helyi kávétermesztő közösségeket Arusha környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751563,
+                        -3.367022
+                  ]
+            },
+            {
+                  "name": "HKFARMS",
+                  "text": "Mezőgazdasági látványosság, amely a helyi növénytermesztést és gazdálkodási gyakorlatokat mutatja be Arushában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755242,
+                        -3.373487
+                  ]
+            },
+            {
+                  "name": "Masai camp",
+                  "text": "Művészeti központ és kulturális csomópont Arushában, amely a maszáj nép hagyományait tükrözi.",
+                  "category": "cultural",
+                  "coords": [
+                        36.719812,
+                        -3.384517
+                  ]
+            },
+            {
+                  "name": "Alliance Franco Tanzanienne of Arusha",
+                  "text": "Egy arushai művészeti központ, amely francia és tanzániai művészeti eseményeken keresztül segíti a kulturális cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        36.703536,
+                        -3.385479
+                  ]
+            },
+            {
+                  "name": "Bodaboda stand",
+                  "text": "Egy élénk városi kilátó, amely egy forgalmas motorkerékpár-taxi állomáson található Arushában.",
+                  "category": "natural",
+                  "coords": [
+                        36.715953,
+                        -3.407808
+                  ]
+            },
+            {
+                  "name": "Nyumba za kupanga",
+                  "text": "Az arushai tipikus bérházi lakóépületeket bemutató nézőpont.",
+                  "category": "natural",
+                  "coords": [
+                        36.717879,
+                        -3.406639
+                  ]
+            },
+            {
+                  "name": "Natural History National Museum",
+                  "text": "Egy arushai nemzeti múzeum, amely az emberi evolúciót, a helyi vadvilágot és a regionális történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        36.696184,
+                        -3.369594
+                  ]
+            },
+            {
+                  "name": "Moivaro Forest",
+                  "text": "Az őshonos erdei ökoszisztémát megőrző védett természetvédelmi terület Arusha közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.747585,
+                        -3.381694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arusha coffee mill Ltd",
+                  "text": "O veche instalație de măcinat cafea, care se află ca monument industrial în Arusha.",
+                  "category": "historical",
+                  "coords": [
+                        36.71955,
+                        -3.403072
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Un faimos turn cu ceas circular din Arusha, considerat în mod tradițional punctul de mijloc exact între Cairo și Cape Town.",
+                  "category": "tower",
+                  "coords": [
+                        36.694472,
+                        -3.37237
+                  ]
+            },
+            {
+                  "name": "Sundowner Spot",
+                  "text": "O atracție populară de seară în Arusha, care oferă vederi pitorești la apus.",
+                  "category": "landmark",
+                  "coords": [
+                        36.708062,
+                        -3.313556
+                  ]
+            },
+            {
+                  "name": "Songota Waterfall",
+                  "text": "Un punct de belvedere pitoresc care permite vizitatorilor să observe apele în cascadă de la Songota din Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.74544,
+                        -3.348829
+                  ]
+            },
+            {
+                  "name": "Arusha Tours (Hidden Arusha Waterfall, Coffee & Village Tour - All-Inclusive)",
+                  "text": "O atracție ghidată care prezintă vizitatorilor cascade ascunse și comunități locale de cultivare a cafelei din jurul Arushei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751563,
+                        -3.367022
+                  ]
+            },
+            {
+                  "name": "HKFARMS",
+                  "text": "O atracție agricolă care prezintă cultivarea culturilor locale și practicile agricole din Arusha.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755242,
+                        -3.373487
+                  ]
+            },
+            {
+                  "name": "Masai camp",
+                  "text": "Un centru de artă și un centru cultural din Arusha care reflectă tradițiile poporului Maasai.",
+                  "category": "cultural",
+                  "coords": [
+                        36.719812,
+                        -3.384517
+                  ]
+            },
+            {
+                  "name": "Alliance Franco Tanzanienne of Arusha",
+                  "text": "Un centru de artă din Arusha care promovează schimbul cultural prin evenimente artistice franceze și tanzaniene.",
+                  "category": "cultural",
+                  "coords": [
+                        36.703536,
+                        -3.385479
+                  ]
+            },
+            {
+                  "name": "Bodaboda stand",
+                  "text": "Un punct de belvedere urban plin de viață, situat la o stație aglomerată de taxiuri pe motocicletă din Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.715953,
+                        -3.407808
+                  ]
+            },
+            {
+                  "name": "Nyumba za kupanga",
+                  "text": "Un punct de belvedere de unde se pot observa structurile rezidențiale tipice de închiriat din Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.717879,
+                        -3.406639
+                  ]
+            },
+            {
+                  "name": "Natural History National Museum",
+                  "text": "Un muzeu național din Arusha care detaliază evoluția umană, fauna locală și istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        36.696184,
+                        -3.369594
+                  ]
+            },
+            {
+                  "name": "Moivaro Forest",
+                  "text": "O rezervație naturală protejată în apropiere de Arusha, care conservă ecosistemul forestier indigen.",
+                  "category": "natural",
+                  "coords": [
+                        36.747585,
+                        -3.381694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arusha coffee mill Ltd",
+                  "text": "An old coffee milling facility standing as an industrial monument in Arusha.",
+                  "category": "historical",
+                  "coords": [
+                        36.71955,
+                        -3.403072
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A famous circular clock tower in Arusha, traditionally considered the exact midpoint between Cairo and Cape Town.",
+                  "category": "tower",
+                  "coords": [
+                        36.694472,
+                        -3.37237
+                  ]
+            },
+            {
+                  "name": "Sundowner Spot",
+                  "text": "A popular evening attraction in Arusha offering scenic sunset vistas.",
+                  "category": "landmark",
+                  "coords": [
+                        36.708062,
+                        -3.313556
+                  ]
+            },
+            {
+                  "name": "Songota Waterfall",
+                  "text": "A picturesque viewpoint allowing visitors to observe the cascading waters of Songota in Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.74544,
+                        -3.348829
+                  ]
+            },
+            {
+                  "name": "Arusha Tours (Hidden Arusha Waterfall, Coffee & Village Tour - All-Inclusive)",
+                  "text": "A guided attraction introducing visitors to hidden waterfalls and local coffee farming communities around Arusha.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751563,
+                        -3.367022
+                  ]
+            },
+            {
+                  "name": "HKFARMS",
+                  "text": "An agricultural attraction showcasing local crop cultivation and farming practices in Arusha.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755242,
+                        -3.373487
+                  ]
+            },
+            {
+                  "name": "Masai camp",
+                  "text": "An arts centre and cultural hub in Arusha reflecting the traditions of the Maasai people.",
+                  "category": "cultural",
+                  "coords": [
+                        36.719812,
+                        -3.384517
+                  ]
+            },
+            {
+                  "name": "Alliance Franco Tanzanienne of Arusha",
+                  "text": "An arts centre in Arusha promoting cultural exchange through French and Tanzanian artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        36.703536,
+                        -3.385479
+                  ]
+            },
+            {
+                  "name": "Bodaboda stand",
+                  "text": "A lively urban viewpoint located at a busy motorcycle taxi stand in Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.715953,
+                        -3.407808
+                  ]
+            },
+            {
+                  "name": "Nyumba za kupanga",
+                  "text": "A viewpoint observing the typical residential rental housing structures in Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.717879,
+                        -3.406639
+                  ]
+            },
+            {
+                  "name": "Natural History National Museum",
+                  "text": "A national museum in Arusha detailing human evolution, local wildlife, and regional history.",
+                  "category": "museum",
+                  "coords": [
+                        36.696184,
+                        -3.369594
+                  ]
+            },
+            {
+                  "name": "Moivaro Forest",
+                  "text": "A protected nature reserve near Arusha preserving the indigenous woodland ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        36.747585,
+                        -3.381694
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-01",
     coords: [36.6908, -3.3703],
@@ -795,7 +2343,124 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "arusha-declaration-monument-landmarks-v2",
+    id: "arusha-declaration-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arusha Declaration Monument",
+                  "text": "Ein markantes Denkmal in Arusha, das an die wegweisende Arusha-Deklaration von 1967 erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        36.688083,
+                        -3.369705
+                  ]
+            },
+            {
+                  "name": "Viboko vya nabi",
+                  "text": "Ein malerischer Aussichtspunkt, der ein erhöhtes Panorama in der Nähe der Denkmäler der Arusha-Deklaration bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.709449,
+                        -3.412695
+                  ]
+            },
+            {
+                  "name": "Nyangumi vimbweta",
+                  "text": "Ein lokaler Aussichtsbereich mit Blick auf die umliegende Landschaft in Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.711888,
+                        -3.414307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arusha Declaration Monument",
+                  "text": "Egy kiemelkedő emlékmű Arushában, amely az 1967-es sorsdöntő arushai nyilatkozatnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        36.688083,
+                        -3.369705
+                  ]
+            },
+            {
+                  "name": "Viboko vya nabi",
+                  "text": "Egy festői kilátó, amely magaslati panorámát kínál az Arusha-nyilatkozat emlékművei közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.709449,
+                        -3.412695
+                  ]
+            },
+            {
+                  "name": "Nyangumi vimbweta",
+                  "text": "Egy helyi kilátóhely, amely rálátást biztosít a környező tájra Arushában.",
+                  "category": "natural",
+                  "coords": [
+                        36.711888,
+                        -3.414307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arusha Declaration Monument",
+                  "text": "Un monument proeminent în Arusha care comemorează Declarația de la Arusha din 1967.",
+                  "category": "historical",
+                  "coords": [
+                        36.688083,
+                        -3.369705
+                  ]
+            },
+            {
+                  "name": "Viboko vya nabi",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame ridicate în apropierea monumentelor Declarației de la Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.709449,
+                        -3.412695
+                  ]
+            },
+            {
+                  "name": "Nyangumi vimbweta",
+                  "text": "O zonă de vizionare locală care oferă priveliști ale peisajului înconjurător din Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.711888,
+                        -3.414307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arusha Declaration Monument",
+                  "text": "A prominent monument in Arusha commemorating the pivotal 1967 Arusha Declaration.",
+                  "category": "historical",
+                  "coords": [
+                        36.688083,
+                        -3.369705
+                  ]
+            },
+            {
+                  "name": "Viboko vya nabi",
+                  "text": "A scenic viewpoint offering elevated panoramas near the Arusha Declaration monuments.",
+                  "category": "natural",
+                  "coords": [
+                        36.709449,
+                        -3.412695
+                  ]
+            },
+            {
+                  "name": "Nyangumi vimbweta",
+                  "text": "A local viewing area providing sights of the surrounding landscape in Arusha.",
+                  "category": "natural",
+                  "coords": [
+                        36.711888,
+                        -3.414307
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-01",
     coords: [36.6895, -3.3712],
@@ -843,7 +2508,232 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sheikh-amri-abeid-stadium-landmarks-v2",
+    id: "sheikh-amri-abeid-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ukumbi wa mpira",
+                  "text": "Eine massige, hallenartige Struktur in der Nähe des Sheikh Amri Abeid Memorial Stadiums in Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.703854,
+                        -3.416461
+                  ]
+            },
+            {
+                  "name": "Cultural Heritage Museum",
+                  "text": "Ein bedeutendes Museum in Arusha, das eine umfangreiche Sammlung afrikanischer Masken, Schnitzereien und traditioneller Artefakte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        36.658252,
+                        -3.377203
+                  ]
+            },
+            {
+                  "name": "Bilepo Street",
+                  "text": "Ein strukturell bedeutsames Gebäude oder ein befestigtes Gelände an der Bilepo Street in Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.705028,
+                        -3.423058
+                  ]
+            },
+            {
+                  "name": "Chakula Cha mifugo",
+                  "text": "Eine befestigte oder geschlossene Lagerstruktur in Arusha, die für landwirtschaftliches Tierfutter genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        36.706379,
+                        -3.439785
+                  ]
+            },
+            {
+                  "name": "Simba Road",
+                  "text": "Ein steinernes oder massiv gebautes architektonisches Element an der Simba Road in Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.708556,
+                        -3.449237
+                  ]
+            },
+            {
+                  "name": "SADOKI'S HOUSE",
+                  "text": "Ein Wohngebäude in Arusha, das einen lokalen Aussichtspunkt über die umliegenden Straßen des Viertels bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.703256,
+                        -3.448106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ukumbi wa mpira",
+                  "text": "A Sheikh Amri Abeid Emlékstadion közelében található, jelentős csarnokszerű építmény Arushában.",
+                  "category": "castle",
+                  "coords": [
+                        36.703854,
+                        -3.416461
+                  ]
+            },
+            {
+                  "name": "Cultural Heritage Museum",
+                  "text": "Egy kiemelkedő múzeum Arushában, amely afrikai maszkok, fafaragások és hagyományos műtárgyak kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        36.658252,
+                        -3.377203
+                  ]
+            },
+            {
+                  "name": "Bilepo Street",
+                  "text": "Egy szerkezetileg jelentős épület vagy megerősített épületegyüttes a Bilepo utcában, Arushában.",
+                  "category": "castle",
+                  "coords": [
+                        36.705028,
+                        -3.423058
+                  ]
+            },
+            {
+                  "name": "Chakula Cha mifugo",
+                  "text": "Mezőgazdasági állattakarmány céljára használt megerősített vagy zárt tárolóépítmény Arushában.",
+                  "category": "castle",
+                  "coords": [
+                        36.706379,
+                        -3.439785
+                  ]
+            },
+            {
+                  "name": "Simba Road",
+                  "text": "Egy kőből épült vagy masszív építészeti elem a Simba Road mentén Arushában.",
+                  "category": "castle",
+                  "coords": [
+                        36.708556,
+                        -3.449237
+                  ]
+            },
+            {
+                  "name": "SADOKI'S HOUSE",
+                  "text": "Egy arushai lakóingatlan, amely helyi kilátópontot kínál a környező negyed utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        36.703256,
+                        -3.448106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ukumbi wa mpira",
+                  "text": "O structură substanțială asemănătoare unei hale, situată în apropierea Stadionului Memorial Sheikh Amri Abeid din Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.703854,
+                        -3.416461
+                  ]
+            },
+            {
+                  "name": "Cultural Heritage Museum",
+                  "text": "Un muzeu proeminent în Arusha care expune o colecție vastă de măști africane, sculpturi și artefacte tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        36.658252,
+                        -3.377203
+                  ]
+            },
+            {
+                  "name": "Bilepo Street",
+                  "text": "O clădire semnificativă din punct de vedere structural sau un complex fortificat situat de-a lungul străzii Bilepo din Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.705028,
+                        -3.423058
+                  ]
+            },
+            {
+                  "name": "Chakula Cha mifugo",
+                  "text": "O structură de depozitare fortificată sau închisă din Arusha utilizată pentru hrana animalelor de fermă.",
+                  "category": "castle",
+                  "coords": [
+                        36.706379,
+                        -3.439785
+                  ]
+            },
+            {
+                  "name": "Simba Road",
+                  "text": "O caracteristică arhitecturală din piatră sau solid construită, poziționată de-a lungul Simba Road din Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.708556,
+                        -3.449237
+                  ]
+            },
+            {
+                  "name": "SADOKI'S HOUSE",
+                  "text": "O proprietate rezidențială din Arusha care oferă un punct de belvedere local asupra străzilor din cartierul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        36.703256,
+                        -3.448106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ukumbi wa mpira",
+                  "text": "A substantial hall-like structure located near the Sheikh Amri Abeid Memorial Stadium in Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.703854,
+                        -3.416461
+                  ]
+            },
+            {
+                  "name": "Cultural Heritage Museum",
+                  "text": "A prominent museum in Arusha displaying an extensive collection of African masks, carvings, and traditional artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        36.658252,
+                        -3.377203
+                  ]
+            },
+            {
+                  "name": "Bilepo Street",
+                  "text": "A structurally significant building or fortified compound situated along Bilepo Street in Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.705028,
+                        -3.423058
+                  ]
+            },
+            {
+                  "name": "Chakula Cha mifugo",
+                  "text": "A fortified or enclosed storage structure in Arusha utilized for agricultural livestock feed.",
+                  "category": "castle",
+                  "coords": [
+                        36.706379,
+                        -3.439785
+                  ]
+            },
+            {
+                  "name": "Simba Road",
+                  "text": "A stone or heavily built architectural feature positioned along Simba Road in Arusha.",
+                  "category": "castle",
+                  "coords": [
+                        36.708556,
+                        -3.449237
+                  ]
+            },
+            {
+                  "name": "SADOKI'S HOUSE",
+                  "text": "A residential property in Arusha offering a localized viewpoint over the surrounding neighborhood streets.",
+                  "category": "natural",
+                  "coords": [
+                        36.703256,
+                        -3.448106
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-01",
     coords: [36.6847, -3.3731],
@@ -891,7 +2781,160 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mwl-nyerere-mausoleum-landmarks-v2",
+    id: "mwl-nyerere-mausoleum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mwalimu Julius Nyerere Museum",
+                  "text": "Dieses biografische Museum in Butiama dokumentiert das Leben, die Führung und das Erbe des Gründervaters von Tansania.",
+                  "category": "museum",
+                  "coords": [
+                        33.960132,
+                        -1.762559
+                  ]
+            },
+            {
+                  "name": "Butiama Mwitongo",
+                  "text": "Diese historische Stätte im Dorf Butiama ist eng mit dem frühen Leben und dem Erbe von Julius Nyerere verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        33.95994,
+                        -1.764492
+                  ]
+            },
+            {
+                  "name": "Kiabakari Market",
+                  "text": "Dieser belebte lokale Markt dient als lebendiges Handelszentrum für die ländlichen Gemeinden rund um Butiama.",
+                  "category": "landmark",
+                  "coords": [
+                        33.86694,
+                        -1.751956
+                  ]
+            },
+            {
+                  "name": "Butiama chief Wanzagi Compound",
+                  "text": "Dieses traditionelle Gehöft in Butiama bewahrt das historische Wohnhaus von Chief Wanzagi und spiegelt das lokale Zanaki-Erbe wider.",
+                  "category": "landmark",
+                  "coords": [
+                        33.96295,
+                        -1.769879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mwalimu Julius Nyerere Museum",
+                  "text": "Ez a Butiamában található életrajzi múzeum Tanzánia alapító atyjának életét, vezetését és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.960132,
+                        -1.762559
+                  ]
+            },
+            {
+                  "name": "Butiama Mwitongo",
+                  "text": "Ez a butiamai történelmi helyszín szorosan kapcsolódik Julius Nyerere korai életéhez és örökségéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        33.95994,
+                        -1.764492
+                  ]
+            },
+            {
+                  "name": "Kiabakari Market",
+                  "text": "Ez a nyüzsgő helyi piac élénk kereskedelmi központként szolgál Butiama környékének vidéki közösségei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        33.86694,
+                        -1.751956
+                  ]
+            },
+            {
+                  "name": "Butiama chief Wanzagi Compound",
+                  "text": "Ez a Butiamában található hagyományos komplexum megőrzi Wanzagi főnök történelmi lakhelyét, tükrözve a helyi zanaki örökséget.",
+                  "category": "landmark",
+                  "coords": [
+                        33.96295,
+                        -1.769879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mwalimu Julius Nyerere Museum",
+                  "text": "Acest muzeu biografic din Butiama cronicizează viața, conducerea și moștenirea părintelui fondator al Tanzaniei.",
+                  "category": "museum",
+                  "coords": [
+                        33.960132,
+                        -1.762559
+                  ]
+            },
+            {
+                  "name": "Butiama Mwitongo",
+                  "text": "Acest sit istoric din satul Butiama este strâns asociat cu viața timpurie și moștenirea lui Julius Nyerere.",
+                  "category": "landmark",
+                  "coords": [
+                        33.95994,
+                        -1.764492
+                  ]
+            },
+            {
+                  "name": "Kiabakari Market",
+                  "text": "Această piață locală plină de viață servește ca un centru comercial animat pentru comunitățile rurale din jurul Butiamei.",
+                  "category": "landmark",
+                  "coords": [
+                        33.86694,
+                        -1.751956
+                  ]
+            },
+            {
+                  "name": "Butiama chief Wanzagi Compound",
+                  "text": "Acest complex tradițional din Butiama păstrează locuința istorică a șefului Wanzagi, reflectând moștenirea locală Zanaki.",
+                  "category": "landmark",
+                  "coords": [
+                        33.96295,
+                        -1.769879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mwalimu Julius Nyerere Museum",
+                  "text": "This biographical museum in Butiama chronicles the life, leadership, and legacy of Tanzania's founding father.",
+                  "category": "museum",
+                  "coords": [
+                        33.960132,
+                        -1.762559
+                  ]
+            },
+            {
+                  "name": "Butiama Mwitongo",
+                  "text": "This historical site in Butiama village is closely associated with the early life and heritage of Julius Nyerere.",
+                  "category": "landmark",
+                  "coords": [
+                        33.95994,
+                        -1.764492
+                  ]
+            },
+            {
+                  "name": "Kiabakari Market",
+                  "text": "This bustling local market serves as a lively commercial hub for the rural communities surrounding Butiama.",
+                  "category": "landmark",
+                  "coords": [
+                        33.86694,
+                        -1.751956
+                  ]
+            },
+            {
+                  "name": "Butiama chief Wanzagi Compound",
+                  "text": "This traditional compound in Butiama preserves the historical dwelling of Chief Wanzagi, reflecting local Zanaki heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        33.96295,
+                        -1.769879
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-13",
     coords: [33.9510, -1.7766],
@@ -939,7 +2982,88 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "christ-the-king-cathedral-moshi-landmarks-v2",
+    id: "christ-the-king-cathedral-moshi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Askari",
+                  "text": "Das Askari-Denkmal in Moshi ehrt die einheimischen afrikanischen Soldaten, die in der Kolonialzeit dienten.",
+                  "category": "historical",
+                  "coords": [
+                        37.344103,
+                        -3.343022
+                  ]
+            },
+            {
+                  "name": "Public Pool",
+                  "text": "Dieses große öffentliche Schwimmbad in Moshi bietet ein Freiluftbecken zur Abkühlung im tropischen Klima.",
+                  "category": "recreational",
+                  "coords": [
+                        37.384028,
+                        -3.351425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Askari",
+                  "text": "A moshi Askari-emlékmű a gyarmati időkben szolgált helyi afrikai katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        37.344103,
+                        -3.343022
+                  ]
+            },
+            {
+                  "name": "Public Pool",
+                  "text": "Ez a nagy moshi nyilvános uszoda szabadtéri medencével kínál felfrissülést a trópusi éghajlaton.",
+                  "category": "recreational",
+                  "coords": [
+                        37.384028,
+                        -3.351425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Askari",
+                  "text": "Monumentul Askari din Moshi onorează soldații africani nativi care au servit în timpul epocii coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        37.344103,
+                        -3.343022
+                  ]
+            },
+            {
+                  "name": "Public Pool",
+                  "text": "Această facilitate publică mare de înot din Moshi oferă o piscină în aer liber pentru răcorire în climatul tropical.",
+                  "category": "recreational",
+                  "coords": [
+                        37.384028,
+                        -3.351425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Askari",
+                  "text": "The Askari monument in Moshi honors the native African soldiers who served during colonial times.",
+                  "category": "historical",
+                  "coords": [
+                        37.344103,
+                        -3.343022
+                  ]
+            },
+            {
+                  "name": "Public Pool",
+                  "text": "This large public swimming facility in Moshi offers an open-air pool for cooling off in the tropical climate.",
+                  "category": "recreational",
+                  "coords": [
+                        37.384028,
+                        -3.351425
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-09",
     coords: [37.3392, -3.3486],
@@ -987,7 +3111,52 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "umoja-monument-moshi-landmarks-v2",
+    id: "umoja-monument-moshi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Margaret's church",
+                  "text": "Dieses historische Kirchengebäude in der Nähe von Moshi weist eine für frühe koloniale Siedlungen typische Steinarchitektur auf.",
+                  "category": "castle",
+                  "coords": [
+                        37.334196,
+                        -3.343375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Margaret's church",
+                  "text": "Ez a Moshi közelében található történelmi templomépület a korai gyarmati településekre jellemző kőépítészettel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        37.334196,
+                        -3.343375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Margaret's church",
+                  "text": "Această biserică istorică de lângă Moshi prezintă o arhitectură din piatră tipică primelor așezări coloniale.",
+                  "category": "castle",
+                  "coords": [
+                        37.334196,
+                        -3.343375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Margaret's church",
+                  "text": "This historic church building near Moshi features stone architecture typical of early colonial settlements.",
+                  "category": "castle",
+                  "coords": [
+                        37.334196,
+                        -3.343375
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-09",
     coords: [37.3375, -3.3490],
@@ -1035,7 +3204,160 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "iringa-boma-landmarks-v2",
+    id: "iringa-boma-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruaha river",
+                  "text": "Der Great Ruaha River fließt dynamisch durch die rauen Landschaften bei Iringa und dient als lebenswichtige Wasserader für dichte lokale Wildtierpopulationen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787826
+                  ]
+            },
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "Dieses Zentrum ist in einem der ältesten noch erhaltenen deutschen Kolonialgebäude der Region untergebracht und erforscht die lokale Geschichte und Kultur des Südlichen Hochlandes.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "Dieser massive Felsbrocken, was in der Hehe-Sprache „sprechender Stein“ bedeutet, ist der Ort, an dem Häuptling Mkwawa historisch sein Volk versammelte, um eine Strategie gegen die deutschen Kolonialtruppen zu entwickeln.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "Ein lokales Wildtiergehege in der Gegend von Iringa, das traditionelle Stammeslegenden um Mkwawa in seine Tierausstellungen einwebt.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687511,
+                        -7.750651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruaha river",
+                  "text": "A Great Ruaha-folyó dinamikusan kanyarog Iringa melletti zord tájakon, létfontosságú vízforrást biztosítva a sűrű helyi vadvilág számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787826
+                  ]
+            },
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "A régió egyik legrégebbi fennmaradt német gyarmati épületében helyet kapó központ a Déli-felföld helyi történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "Ez a hatalmas szikla, amelynek neve a Hehe nyelvben „beszélő követ” jelent, történelmileg az a hely, ahol Mkwawa törzsfőnök összegyűjtötte népét, hogy a német gyarmati erők elleni stratégiát kidolgozzák.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "Egy helyi vadvédelmi terület Iringa térségében, amely a hagyományos Mkwawa törzsi mondavilágot szövi bele az állatbemutatóiba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687511,
+                        -7.750651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruaha river",
+                  "text": "Râul Great Ruaha curge dinamic prin peisajele accidentate de lângă Iringa, servind ca un colac de salvare crucial de apă pentru populațiile dense de animale sălbatice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787826
+                  ]
+            },
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "Găzduit în una dintre cele mai vechi clădiri coloniale germane care au supraviețuit în regiune, acest centru explorează istoria și cultura locală a Înălțimilor de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "Însemnând „piatra vorbitoare” în limba Hehe, acest bolovan masiv este locul în care șeful Mkwawa și-a adunat din punct de vedere istoric poporul pentru a elabora strategii împotriva forțelor coloniale germane.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "O incintă locală cu animale sălbatice din zona Iringa care împletește tradițiile tribale Mkwawa cu expozițiile sale de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687511,
+                        -7.750651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruaha river",
+                  "text": "The Great Ruaha River flows dynamically through the rugged landscapes near Iringa, serving as a crucial water lifeline for dense local wildlife populations.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787826
+                  ]
+            },
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "Housed in one of the oldest surviving German colonial buildings in the region, this center explores the local history and culture of the Southern Highlands.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "Meaning \"talking stone\" in the Hehe language, this massive boulder is where Chief Mkwawa historically gathered his people to strategize against German colonial forces.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "A local wildlife enclosure in the Iringa area that weaves traditional Mkwawa tribal lore into its animal exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687511,
+                        -7.750651
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-04",
     coords: [35.6980, -7.7770],
@@ -1083,7 +3405,448 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "central-railway-station-dar-landmarks-v2",
+    id: "central-railway-station-dar-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Hall [9]",
+                  "text": "Ein Aussichtspunkt, der Blicke auf das historische städtische Hauptquartier im zentralen Bahnhofsviertel von Dar es Salaam bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.286856,
+                        -6.820626
+                  ]
+            },
+            {
+                  "name": "Matasalmat Mansions [41]",
+                  "text": "Ein markanter architektonischer Aussichtspunkt, der die mehrstöckigen Wohnkonzepte im zentralen Bahnhofsviertel von Dar es Salaam einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        39.286586,
+                        -6.818963
+                  ]
+            },
+            {
+                  "name": "Mwanza house [39]",
+                  "text": "Ein bemerkenswerter Aussichtspunkt auf Gebäude, der sich im geschäftigen kommerziellen Herzen nahe dem Hauptbahnhof von Dar es Salaam befindet.",
+                  "category": "natural",
+                  "coords": [
+                        39.284962,
+                        -6.818687
+                  ]
+            },
+            {
+                  "name": "Khoja Ithna Ashari Trust [29]",
+                  "text": "Ein Aussichtspunkt, der die Präsenz und Architektur der historischen Gebäude der Khoja Ithna Ashari-Gemeinde im Zentrum von Dar es Salaam hervorhebt.",
+                  "category": "natural",
+                  "coords": [
+                        39.284757,
+                        -6.819941
+                  ]
+            },
+            {
+                  "name": "CF Union Bank [43]",
+                  "text": "Ein Aussichtspunkt, der eines der prominenten Finanzinstitute zeigt, die in das städtische Gefüge im Zentrum von Dar es Salaam integriert sind.",
+                  "category": "natural",
+                  "coords": [
+                        39.2835,
+                        -6.819511
+                  ]
+            },
+            {
+                  "name": "Kishan Enterprises [20]",
+                  "text": "Ein Aussichtspunkt, der einen Einblick in die traditionelle Handelsarchitektur und die aktiven Schaufenster im zentralen Bezirk von Dar es Salaam bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.282215,
+                        -6.820174
+                  ]
+            },
+            {
+                  "name": "Gulamhussein & Sons [23]",
+                  "text": "Ein zentraler Aussichtspunkt, der die historischen Geschäftsfronten hervorhebt, die das Handelserbe von Dar es Salaam prägen.",
+                  "category": "natural",
+                  "coords": [
+                        39.282996,
+                        -6.821458
+                  ]
+            },
+            {
+                  "name": "MGM Copy Shop [19]",
+                  "text": "Ein lokaler Aussichtspunkt, der das alltägliche kommerzielle Straßenbild und die kleinen Unternehmen im Zentrum von Dar es Salaam widerspiegelt.",
+                  "category": "natural",
+                  "coords": [
+                        39.281905,
+                        -6.821569
+                  ]
+            },
+            {
+                  "name": "Anjuman Islamia [32]",
+                  "text": "Ein Aussichtspunkt, der das Gebäude Anjuman Islamia zeigt, ein bemerkenswertes kulturelles und pädagogisches Wahrzeichen in Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.281595,
+                        -6.823206
+                  ]
+            },
+            {
+                  "name": "Blaschke House[13]",
+                  "text": "Ein architektonischer Aussichtspunkt, der sich auf den Stil der Kolonialzeit und die historische Bedeutung des Blaschke-Hauses konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        39.284045,
+                        -6.821542
+                  ]
+            },
+            {
+                  "name": "Light Corner [12]",
+                  "text": "Ein Aussichtspunkt auf Straßenebene, der eine Perspektive auf die belebten Kreuzungen im zentralen Bahnhofsviertel von Dar es Salaam bietet.",
+                  "category": "natural",
+                  "coords": [
+                        39.287606,
+                        -6.818427
+                  ]
+            },
+            {
+                  "name": "Manzil Building [14]",
+                  "text": "Ein Aussichtspunkt, der die markante Fassade des Manzil-Gebäudes aus der Mitte des Jahrhunderts im städtischen Zentrum von Dar es Salaam einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        39.286792,
+                        -6.816976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Hall [9]",
+                  "text": "Kilátópont, amely Dar es-Salaam központi pályaudvari negyedében a történelmi önkormányzati központra nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        39.286856,
+                        -6.820626
+                  ]
+            },
+            {
+                  "name": "Matasalmat Mansions [41]",
+                  "text": "Különleges építészeti kilátópont, amely megörökíti a többszintes lakóépületeket Dar es-Salaam központi pályaudvari részén.",
+                  "category": "natural",
+                  "coords": [
+                        39.286586,
+                        -6.818963
+                  ]
+            },
+            {
+                  "name": "Mwanza house [39]",
+                  "text": "Egy figyelemre méltó épületre néző kilátópont Dar es-Salaam központi pályaudvara közelében, a nyüzsgő kereskedelmi központban.",
+                  "category": "natural",
+                  "coords": [
+                        39.284962,
+                        -6.818687
+                  ]
+            },
+            {
+                  "name": "Khoja Ithna Ashari Trust [29]",
+                  "text": "Kilátópont, amely kiemeli a történelmi Khodzsa Ithna Asari közösség épületeinek jelenlétét és építészetét Dar es-Salaam központjában.",
+                  "category": "natural",
+                  "coords": [
+                        39.284757,
+                        -6.819941
+                  ]
+            },
+            {
+                  "name": "CF Union Bank [43]",
+                  "text": "Egy kilátópont, amely a központi Dar es-Salaam városi szövetébe integrált egyik kiemelkedő pénzügyi intézményt mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        39.2835,
+                        -6.819511
+                  ]
+            },
+            {
+                  "name": "Kishan Enterprises [20]",
+                  "text": "Kilátópont, amely bepillantást enged Dar es-Salaam központi negyedének hagyományos kereskedelmi építészetébe és aktív üzlethelyiségeibe.",
+                  "category": "natural",
+                  "coords": [
+                        39.282215,
+                        -6.820174
+                  ]
+            },
+            {
+                  "name": "Gulamhussein & Sons [23]",
+                  "text": "Központi kilátópont, amely kiemeli Dar es-Salaam kereskedelmi örökségét meghatározó történelmi üzlethelyiségeket.",
+                  "category": "natural",
+                  "coords": [
+                        39.282996,
+                        -6.821458
+                  ]
+            },
+            {
+                  "name": "MGM Copy Shop [19]",
+                  "text": "Helyi kilátópont, amely Dar es-Salaam központjának mindennapi kereskedelmi utcaképét és kisvállalkozásait tükrözi.",
+                  "category": "natural",
+                  "coords": [
+                        39.281905,
+                        -6.821569
+                  ]
+            },
+            {
+                  "name": "Anjuman Islamia [32]",
+                  "text": "Az Anjuman Islamia épületét bemutató kilátópont, amely egy figyelemre méltó kulturális és oktatási nevezetesség Dar es-Salaamban.",
+                  "category": "natural",
+                  "coords": [
+                        39.281595,
+                        -6.823206
+                  ]
+            },
+            {
+                  "name": "Blaschke House[13]",
+                  "text": "Építészeti kilátópont, amely a Blaschke-ház gyarmati korabeli stílusára és történelmi jelentőségére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        39.284045,
+                        -6.821542
+                  ]
+            },
+            {
+                  "name": "Light Corner [12]",
+                  "text": "Utcaszintű kilátópont, amely perspektívát nyújt Dar es-Salaam központi pályaudvari részének nyüzsgő kereszteződéseire.",
+                  "category": "natural",
+                  "coords": [
+                        39.287606,
+                        -6.818427
+                  ]
+            },
+            {
+                  "name": "Manzil Building [14]",
+                  "text": "Kilátópont, amely a Manzil épület különleges, századközepi homlokzatát örökíti meg Dar es-Salaam városközpontjában.",
+                  "category": "natural",
+                  "coords": [
+                        39.286792,
+                        -6.816976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Hall [9]",
+                  "text": "Un punct de belvedere care oferă priveliști ale sediului istoric al municipalității din cartierul gării centrale din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.286856,
+                        -6.820626
+                  ]
+            },
+            {
+                  "name": "Matasalmat Mansions [41]",
+                  "text": "Un punct de belvedere arhitectural distinct, care surprinde designurile rezidențiale cu mai multe etaje din zona gării centrale din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.286586,
+                        -6.818963
+                  ]
+            },
+            {
+                  "name": "Mwanza house [39]",
+                  "text": "Un punct de observare a unei clădiri remarcabile, situat în inima comercială plină de viață, lângă gara centrală din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.284962,
+                        -6.818687
+                  ]
+            },
+            {
+                  "name": "Khoja Ithna Ashari Trust [29]",
+                  "text": "Un punct de belvedere care evidențiază prezența și arhitectura clădirilor istorice ale comunității Khoja Ithna Ashari din centrul orașului Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.284757,
+                        -6.819941
+                  ]
+            },
+            {
+                  "name": "CF Union Bank [43]",
+                  "text": "Un punct de belvedere care prezintă una dintre instituțiile financiare proeminente integrate în țesutul urban din centrul orașului Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.2835,
+                        -6.819511
+                  ]
+            },
+            {
+                  "name": "Kishan Enterprises [20]",
+                  "text": "Un punct de belvedere care oferă o privire asupra arhitecturii comerciale tradiționale și a vitrinelor active din districtul central din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.282215,
+                        -6.820174
+                  ]
+            },
+            {
+                  "name": "Gulamhussein & Sons [23]",
+                  "text": "Un punct de belvedere central care evidențiază vitrinele comerciale istorice ce definesc moștenirea comercială a orașului Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.282996,
+                        -6.821458
+                  ]
+            },
+            {
+                  "name": "MGM Copy Shop [19]",
+                  "text": "Un punct de belvedere local care reflectă peisajul stradal comercial de zi cu zi și micile afaceri din centrul orașului Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.281905,
+                        -6.821569
+                  ]
+            },
+            {
+                  "name": "Anjuman Islamia [32]",
+                  "text": "Un punct de belvedere care prezintă clădirea Anjuman Islamia, un reper cultural și educațional remarcabil din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.281595,
+                        -6.823206
+                  ]
+            },
+            {
+                  "name": "Blaschke House[13]",
+                  "text": "Un punct de belvedere arhitectural axat pe stilul din epoca colonială și semnificația istorică a Casei Blaschke.",
+                  "category": "natural",
+                  "coords": [
+                        39.284045,
+                        -6.821542
+                  ]
+            },
+            {
+                  "name": "Light Corner [12]",
+                  "text": "Un punct de belvedere la nivelul străzii care oferă o perspectivă asupra intersecțiilor aglomerate din zona gării centrale din Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.287606,
+                        -6.818427
+                  ]
+            },
+            {
+                  "name": "Manzil Building [14]",
+                  "text": "Un punct de belvedere care surprinde fațada distinctă de la mijlocul secolului a Clădirii Manzil din centrul urban al orașului Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.286792,
+                        -6.816976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Hall [9]",
+                  "text": "A viewpoint offering sights of the historic municipal headquarters in Dar es Salaam's central railway station district.",
+                  "category": "natural",
+                  "coords": [
+                        39.286856,
+                        -6.820626
+                  ]
+            },
+            {
+                  "name": "Matasalmat Mansions [41]",
+                  "text": "A distinct architectural viewpoint capturing the multi-story residential designs in the central railway station area of Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.286586,
+                        -6.818963
+                  ]
+            },
+            {
+                  "name": "Mwanza house [39]",
+                  "text": "A notable building viewpoint located in the bustling commercial heart near Dar es Salaam's central railway station.",
+                  "category": "natural",
+                  "coords": [
+                        39.284962,
+                        -6.818687
+                  ]
+            },
+            {
+                  "name": "Khoja Ithna Ashari Trust [29]",
+                  "text": "A vantage point highlighting the presence and architecture of the historic Khoja Ithna Ashari community buildings in central Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.284757,
+                        -6.819941
+                  ]
+            },
+            {
+                  "name": "CF Union Bank [43]",
+                  "text": "A viewpoint showcasing one of the prominent financial institutions integrated into the urban fabric of central Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.2835,
+                        -6.819511
+                  ]
+            },
+            {
+                  "name": "Kishan Enterprises [20]",
+                  "text": "A viewpoint offering a glimpse into the traditional commercial architecture and active storefronts around Dar es Salaam's central district.",
+                  "category": "natural",
+                  "coords": [
+                        39.282215,
+                        -6.820174
+                  ]
+            },
+            {
+                  "name": "Gulamhussein & Sons [23]",
+                  "text": "A central viewpoint highlighting the historic commercial storefronts that define the trading heritage of Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.282996,
+                        -6.821458
+                  ]
+            },
+            {
+                  "name": "MGM Copy Shop [19]",
+                  "text": "A local viewpoint reflecting the everyday commercial streetscape and small businesses of central Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.281905,
+                        -6.821569
+                  ]
+            },
+            {
+                  "name": "Anjuman Islamia [32]",
+                  "text": "A viewpoint showcasing the Anjuman Islamia building, a notable cultural and educational landmark in Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.281595,
+                        -6.823206
+                  ]
+            },
+            {
+                  "name": "Blaschke House[13]",
+                  "text": "An architectural viewpoint focusing on the colonial-era styling and historical significance of Blaschke House.",
+                  "category": "natural",
+                  "coords": [
+                        39.284045,
+                        -6.821542
+                  ]
+            },
+            {
+                  "name": "Light Corner [12]",
+                  "text": "A street-level viewpoint offering a perspective of the bustling intersections in the central railway station area of Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.287606,
+                        -6.818427
+                  ]
+            },
+            {
+                  "name": "Manzil Building [14]",
+                  "text": "A viewpoint capturing the distinct mid-century facade of the Manzil Building in the urban center of Dar es Salaam.",
+                  "category": "natural",
+                  "coords": [
+                        39.286792,
+                        -6.816976
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2870, -6.8190],
@@ -1131,7 +3894,880 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "makumbusho-village-museum-landmarks-v2",
+    id: "makumbusho-village-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Robin Photo Studio",
+                  "text": "Ein Zentrum für Fotokunst und ein Studio in der Nähe des Dorfmuseums in Makumbusho.",
+                  "category": "cultural",
+                  "coords": [
+                        39.248498,
+                        -6.799313
+                  ]
+            },
+            {
+                  "name": "Nyerere Movie Theatre",
+                  "text": "Ein lokales Kino in der Nähe von Makumbusho, benannt nach dem Gründervater Tansanias.",
+                  "category": "cultural",
+                  "coords": [
+                        39.235025,
+                        -6.767318
+                  ]
+            },
+            {
+                  "name": "Cappuccino cafe",
+                  "text": "Ein beliebtes lokales Café in der Nähe des Dorfmuseums, das Heißgetränke anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.236536,
+                        -6.772019
+                  ]
+            },
+            {
+                  "name": "Dlab chakula place",
+                  "text": "Eine kulinarische Attraktion, die lokale tansanische Küche in der Gegend von Makumbusho serviert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.23989,
+                        -6.768603
+                  ]
+            },
+            {
+                  "name": "Kiwakija",
+                  "text": "Ein lokales Kunst- und Kulturzentrum, das kreative Räume in der Nähe des Dorfmuseums bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242616,
+                        -6.79612
+                  ]
+            },
+            {
+                  "name": "Nyamiela camp",
+                  "text": "Ein künstlerischer Lagerplatz, der lokale kreative Veranstaltungen und Versammlungen in der Nähe von Makumbusho beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242111,
+                        -6.793274
+                  ]
+            },
+            {
+                  "name": "Makumbusho Museum",
+                  "text": "Ein ethnografisches Freilichtmuseum, das authentisch rekonstruierte traditionelle tansanische Stammeswohnungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        39.245581,
+                        -6.775989
+                  ]
+            },
+            {
+                  "name": "Kama Classic",
+                  "text": "Ein Kultur- und Kunstort, der lokale Talente im Makumbusho-Viertel präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        39.263456,
+                        -6.779741
+                  ]
+            },
+            {
+                  "name": "Chuma Art Workshop",
+                  "text": "Eine Kunstgalerie mit lokaler Metallarbeit und bildender Kunst in der Nähe des Makumbusho Village Museum.",
+                  "category": "museum",
+                  "coords": [
+                        39.274181,
+                        -6.771005
+                  ]
+            },
+            {
+                  "name": "Lost Beach",
+                  "text": "Ein Strandresort an der Küste von Daressalam, das einen abgelegenen Sandstrand am Ozean bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.243613,
+                        -6.748732
+                  ]
+            },
+            {
+                  "name": "Berkeley electrical company",
+                  "text": "Eine kommerzielle Attraktion, die für ihre Stromversorgungsdienste in der Gegend von Makumbusho bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.259622,
+                        -6.774565
+                  ]
+            },
+            {
+                  "name": "China Beach Club",
+                  "text": "Ein Strandclub am Meer, der Freizeiteinrichtungen und einen weiten Blick auf den Ozean in Daressalam bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.261552,
+                        -6.760669
+                  ]
+            },
+            {
+                  "name": "Dhow Licious Boat Yard",
+                  "text": "Ein einzigartiger Galerieraum in einer traditionellen Dhau-Bootsbauwerft.",
+                  "category": "museum",
+                  "coords": [
+                        39.272512,
+                        -6.753527
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "Ein beliebter öffentlicher Strand auf der Halbinsel Msasani, bekannt für seine lebhaften lokalen Essensstände und seine Strandatmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        39.282393,
+                        -6.767974
+                  ]
+            },
+            {
+                  "name": "Limbachia Bar",
+                  "text": "Eine lebhafte lokale Kneipe in der Nähe des Dorfmuseums in Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.239363,
+                        -6.755774
+                  ]
+            },
+            {
+                  "name": "Litttle Theatre",
+                  "text": "Ein intimer Veranstaltungsort für darstellende Künste in Daressalam, der lokale Theaterproduktionen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.274358,
+                        -6.780346
+                  ]
+            },
+            {
+                  "name": "Aristotee Hair Beauty Clinic",
+                  "text": "Eine lokale Schönheits- und Wellnessklinik, die die Gemeinde rund um das Dorfmuseum versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264015,
+                        -6.780898
+                  ]
+            },
+            {
+                  "name": "Yacht Club Beach",
+                  "text": "Ein sandiger Küstenstreifen neben den privaten Segeleinrichtungen und Bootsanlegeplätzen in Daressalam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.274529,
+                        -6.743031
+                  ]
+            },
+            {
+                  "name": "Mount Ukombozi Hospital",
+                  "text": "Eine lokale Gesundheitseinrichtung und ein medizinisches Wahrzeichen in der Nähe von Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264159,
+                        -6.778633
+                  ]
+            },
+            {
+                  "name": "Rangi Gallery",
+                  "text": "Eine 2022 eröffnete Galerie für zeitgenössische Kunst mit modernen tansanischen visuellen Werken.",
+                  "category": "museum",
+                  "coords": [
+                        39.271258,
+                        -6.768711
+                  ]
+            },
+            {
+                  "name": "Jane Goodalls Root & Shoots",
+                  "text": "Ein lokaler Zweig des von Jane Goodall gegründeten Umwelt- und humanitären Jugendprogramms.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251685,
+                        -6.756936
+                  ]
+            },
+            {
+                  "name": "Nafasi Art Space",
+                  "text": "Ein lebendiger Raum für zeitgenössische Kunst, der in ehemaligen Industrielagerhallen in Daressalam untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.240818,
+                        -6.763389
+                  ]
+            },
+            {
+                  "name": "Bravo Coco Beach",
+                  "text": "Ein Strandhotel, das seinen Gästen direkten Zugang zu den Sandstränden von Coco Beach bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282254,
+                        -6.763865
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "Ein sandiger Küstenabschnitt am Indischen Ozean in der Nähe des Makumbusho Village Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        39.236643,
+                        -6.727544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Robin Photo Studio",
+                  "text": "Egy fotóművészeti központ és stúdió a makumbushoi Falumúzeum közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        39.248498,
+                        -6.799313
+                  ]
+            },
+            {
+                  "name": "Nyerere Movie Theatre",
+                  "text": "Egy helyi mozi Makumbusho közelében, amelyet Tanzánia alapító atyjáról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        39.235025,
+                        -6.767318
+                  ]
+            },
+            {
+                  "name": "Cappuccino cafe",
+                  "text": "Egy népszerű helyi kávézó a Falumúzeum közelében, amely meleg italokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.236536,
+                        -6.772019
+                  ]
+            },
+            {
+                  "name": "Dlab chakula place",
+                  "text": "A Makumbusho környékén található kulináris látványosság, amely helyi tanzániai ételeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.23989,
+                        -6.768603
+                  ]
+            },
+            {
+                  "name": "Kiwakija",
+                  "text": "Egy helyi művészeti és kulturális központ, amely kreatív tereket biztosít a Falumúzeum közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242616,
+                        -6.79612
+                  ]
+            },
+            {
+                  "name": "Nyamiela camp",
+                  "text": "Művészeti táborhely, amely helyi kreatív eseményeknek és összejöveteleknek ad otthont Makumbusho közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242111,
+                        -6.793274
+                  ]
+            },
+            {
+                  "name": "Makumbusho Museum",
+                  "text": "Egy szabadtéri néprajzi múzeum, amely hitelesen rekonstruált hagyományos tanzániai törzsi lakásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.245581,
+                        -6.775989
+                  ]
+            },
+            {
+                  "name": "Kama Classic",
+                  "text": "A makumbushoi negyedben található kulturális és művészeti helyszín, amely a helyi tehetségeket mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        39.263456,
+                        -6.779741
+                  ]
+            },
+            {
+                  "name": "Chuma Art Workshop",
+                  "text": "A Makumbusho Falumúzeum közelében található művészeti galéria, amely helyi fémműves és vizuális művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.274181,
+                        -6.771005
+                  ]
+            },
+            {
+                  "name": "Lost Beach",
+                  "text": "Egy tengerparti üdülőhely Dar es Salaamban, amely félreeső, homokos menedéket kínál az óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        39.243613,
+                        -6.748732
+                  ]
+            },
+            {
+                  "name": "Berkeley electrical company",
+                  "text": "A Makumbusho környékén villamosenergia-ellátási szolgáltatásairól ismert kereskedelmi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        39.259622,
+                        -6.774565
+                  ]
+            },
+            {
+                  "name": "China Beach Club",
+                  "text": "Tengerparti klub Dar es Salaamban, amely szabadidős létesítményeket és széles óceáni kilátást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        39.261552,
+                        -6.760669
+                  ]
+            },
+            {
+                  "name": "Dhow Licious Boat Yard",
+                  "text": "Egyedülálló galériatér egy hagyományos dhow hajóépítő udvarban.",
+                  "category": "museum",
+                  "coords": [
+                        39.272512,
+                        -6.753527
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "Egy népszerű nyilvános strand a Msasani-félszigeten, amely nyüzsgő helyi ételárusairól és tengerparti hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        39.282393,
+                        -6.767974
+                  ]
+            },
+            {
+                  "name": "Limbachia Bar",
+                  "text": "Egy nyüzsgő helyi italmérés a makumbushoi Falumúzeum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.239363,
+                        -6.755774
+                  ]
+            },
+            {
+                  "name": "Litttle Theatre",
+                  "text": "Egy meghitt előadóművészeti helyszín Dar es Salaamban, amely helyi drámai produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        39.274358,
+                        -6.780346
+                  ]
+            },
+            {
+                  "name": "Aristotee Hair Beauty Clinic",
+                  "text": "Egy helyi szépség- és wellness klinika, amely a Falumúzeum körüli közösséget szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264015,
+                        -6.780898
+                  ]
+            },
+            {
+                  "name": "Yacht Club Beach",
+                  "text": "A privát vitorlás létesítményekkel és hajókikötőkkel szomszédos homokos partszakasz Dar es Salaamban.",
+                  "category": "recreational",
+                  "coords": [
+                        39.274529,
+                        -6.743031
+                  ]
+            },
+            {
+                  "name": "Mount Ukombozi Hospital",
+                  "text": "Egy helyi egészségügyi létesítmény és orvosi tájékozódási pont Makumbusho közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264159,
+                        -6.778633
+                  ]
+            },
+            {
+                  "name": "Rangi Gallery",
+                  "text": "A 2022-ben megnyílt kortárs művészeti galéria, amely modern tanzániai vizuális alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.271258,
+                        -6.768711
+                  ]
+            },
+            {
+                  "name": "Jane Goodalls Root & Shoots",
+                  "text": "A Jane Goodall által alapított környezetvédelmi és humanitárius ifjúsági program helyi fiókja.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251685,
+                        -6.756936
+                  ]
+            },
+            {
+                  "name": "Nafasi Art Space",
+                  "text": "Egy nyüzsgő kortárs művészeti tér, amely egykori ipari raktárakban kapott helyet Dar es Salaamban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.240818,
+                        -6.763389
+                  ]
+            },
+            {
+                  "name": "Bravo Coco Beach",
+                  "text": "Egy tengerparti szálloda, amely közvetlen hozzáférést biztosít a vendégeknek a Coco Beach homokos szakaszaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282254,
+                        -6.763865
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "Homokos partszakasz az Indiai-óceán partján, a Makumbusho Village Museum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        39.236643,
+                        -6.727544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Robin Photo Studio",
+                  "text": "Un centru de artă fotografică și un studio situat lângă Muzeul Satului din Makumbusho.",
+                  "category": "cultural",
+                  "coords": [
+                        39.248498,
+                        -6.799313
+                  ]
+            },
+            {
+                  "name": "Nyerere Movie Theatre",
+                  "text": "Un cinematograf local de lângă Makumbusho, numit după părintele fondator al Tanzaniei.",
+                  "category": "cultural",
+                  "coords": [
+                        39.235025,
+                        -6.767318
+                  ]
+            },
+            {
+                  "name": "Cappuccino cafe",
+                  "text": "O cafenea locală populară situată lângă Muzeul Satului, care oferă băuturi calde.",
+                  "category": "landmark",
+                  "coords": [
+                        39.236536,
+                        -6.772019
+                  ]
+            },
+            {
+                  "name": "Dlab chakula place",
+                  "text": "O atracție culinară care servește preparate din bucătăria locală tanzaniană în zona Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.23989,
+                        -6.768603
+                  ]
+            },
+            {
+                  "name": "Kiwakija",
+                  "text": "Un centru local de artă și cultură care oferă spații creative lângă Muzeul Satului.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242616,
+                        -6.79612
+                  ]
+            },
+            {
+                  "name": "Nyamiela camp",
+                  "text": "Un spațiu de tabără artistică care găzduiește evenimente și întâlniri creative locale lângă Makumbusho.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242111,
+                        -6.793274
+                  ]
+            },
+            {
+                  "name": "Makumbusho Museum",
+                  "text": "Un muzeu etnografic în aer liber care prezintă locuințe tribale tradiționale tanzaniene reconstruite autentic.",
+                  "category": "museum",
+                  "coords": [
+                        39.245581,
+                        -6.775989
+                  ]
+            },
+            {
+                  "name": "Kama Classic",
+                  "text": "O locație culturală și de artă care prezintă talentul local în districtul Makumbusho.",
+                  "category": "cultural",
+                  "coords": [
+                        39.263456,
+                        -6.779741
+                  ]
+            },
+            {
+                  "name": "Chuma Art Workshop",
+                  "text": "O galerie de artă cu lucrări locale din metal și arte vizuale în apropiere de Makumbusho Village Museum.",
+                  "category": "museum",
+                  "coords": [
+                        39.274181,
+                        -6.771005
+                  ]
+            },
+            {
+                  "name": "Lost Beach",
+                  "text": "O stațiune de plajă pe coastă în Dar es Salaam, care oferă un refugiu retras de nisip la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        39.243613,
+                        -6.748732
+                  ]
+            },
+            {
+                  "name": "Berkeley electrical company",
+                  "text": "O atracție comercială cunoscută pentru serviciile sale de aprovizionare cu energie electrică în zona Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.259622,
+                        -6.774565
+                  ]
+            },
+            {
+                  "name": "China Beach Club",
+                  "text": "Un club de plajă pe malul mării care oferă facilități de agrement și vederi panoramice la ocean în Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.261552,
+                        -6.760669
+                  ]
+            },
+            {
+                  "name": "Dhow Licious Boat Yard",
+                  "text": "Un spațiu unic de galerie situat într-un șantier de construcție a bărcilor tradiționale dhow.",
+                  "category": "museum",
+                  "coords": [
+                        39.272512,
+                        -6.753527
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "O plajă publică populară de pe Peninsula Msasani, cunoscută pentru tarabele sale vibrante cu mâncare locală și atmosfera de la malul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        39.282393,
+                        -6.767974
+                  ]
+            },
+            {
+                  "name": "Limbachia Bar",
+                  "text": "Un bar local animat situat lângă Muzeul Satului din Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.239363,
+                        -6.755774
+                  ]
+            },
+            {
+                  "name": "Litttle Theatre",
+                  "text": "O locație intimă de arte teatrale din Dar es Salaam, care găzduiește producții dramatice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        39.274358,
+                        -6.780346
+                  ]
+            },
+            {
+                  "name": "Aristotee Hair Beauty Clinic",
+                  "text": "O clinică locală de frumusețe și wellness care deservește comunitatea din jurul Muzeului Satului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264015,
+                        -6.780898
+                  ]
+            },
+            {
+                  "name": "Yacht Club Beach",
+                  "text": "O zonă de coastă cu nisip adiacentă facilităților private de navigație și ancorărilor pentru bărci din Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.274529,
+                        -6.743031
+                  ]
+            },
+            {
+                  "name": "Mount Ukombozi Hospital",
+                  "text": "O unitate locală de asistență medicală și un punct de reper medical situat lângă Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264159,
+                        -6.778633
+                  ]
+            },
+            {
+                  "name": "Rangi Gallery",
+                  "text": "O galerie de artă contemporană deschisă în 2022, care prezintă lucrări vizuale tanzaniene moderne.",
+                  "category": "museum",
+                  "coords": [
+                        39.271258,
+                        -6.768711
+                  ]
+            },
+            {
+                  "name": "Jane Goodalls Root & Shoots",
+                  "text": "O filială locală a programului de mediu și umanitar pentru tineret fondat de Jane Goodall.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251685,
+                        -6.756936
+                  ]
+            },
+            {
+                  "name": "Nafasi Art Space",
+                  "text": "Un spațiu vibrant de artă contemporană găzduit în foste depozite industriale din Dar es Salaam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.240818,
+                        -6.763389
+                  ]
+            },
+            {
+                  "name": "Bravo Coco Beach",
+                  "text": "Un hotel pe malul mării care oferă oaspeților acces direct la întinderile de nisip ale plajei Coco.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282254,
+                        -6.763865
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "O întindere de coastă cu nisip la Oceanul Indian, situată lângă Makumbusho Village Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        39.236643,
+                        -6.727544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Robin Photo Studio",
+                  "text": "A photographic arts centre and studio located near the Village Museum in Makumbusho.",
+                  "category": "cultural",
+                  "coords": [
+                        39.248498,
+                        -6.799313
+                  ]
+            },
+            {
+                  "name": "Nyerere Movie Theatre",
+                  "text": "A local cinema venue near Makumbusho, named after Tanzania's founding father.",
+                  "category": "cultural",
+                  "coords": [
+                        39.235025,
+                        -6.767318
+                  ]
+            },
+            {
+                  "name": "Cappuccino cafe",
+                  "text": "A popular local cafe attraction near the Village Museum offering hot beverages.",
+                  "category": "landmark",
+                  "coords": [
+                        39.236536,
+                        -6.772019
+                  ]
+            },
+            {
+                  "name": "Dlab chakula place",
+                  "text": "A culinary attraction serving local Tanzanian cuisine near the Makumbusho area.",
+                  "category": "landmark",
+                  "coords": [
+                        39.23989,
+                        -6.768603
+                  ]
+            },
+            {
+                  "name": "Kiwakija",
+                  "text": "A local arts and cultural centre providing creative spaces near the Village Museum.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242616,
+                        -6.79612
+                  ]
+            },
+            {
+                  "name": "Nyamiela camp",
+                  "text": "An artistic camp space hosting local creative events and gatherings near Makumbusho.",
+                  "category": "cultural",
+                  "coords": [
+                        39.242111,
+                        -6.793274
+                  ]
+            },
+            {
+                  "name": "Village Museum",
+                  "text": "An open-air ethnographic museum showcasing authentically reconstructed traditional Tanzanian tribal dwellings.",
+                  "category": "museum",
+                  "coords": [
+                        39.245581,
+                        -6.775989
+                  ]
+            },
+            {
+                  "name": "Kama Classic",
+                  "text": "A cultural and arts venue showcasing local talent in the Makumbusho district.",
+                  "category": "cultural",
+                  "coords": [
+                        39.263456,
+                        -6.779741
+                  ]
+            },
+            {
+                  "name": "Chuma Art Workshop",
+                  "text": "An art gallery featuring local metalwork and visual arts near the Makumbusho Village Museum.",
+                  "category": "museum",
+                  "coords": [
+                        39.274181,
+                        -6.771005
+                  ]
+            },
+            {
+                  "name": "Lost Beach",
+                  "text": "A coastal beach resort in Dar es Salaam offering a secluded sandy retreat by the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        39.243613,
+                        -6.748732
+                  ]
+            },
+            {
+                  "name": "Berkeley electrical company",
+                  "text": "A commercial attraction known for its electrical supply services in the Makumbusho area.",
+                  "category": "landmark",
+                  "coords": [
+                        39.259622,
+                        -6.774565
+                  ]
+            },
+            {
+                  "name": "China Beach Club",
+                  "text": "A seaside beach club offering leisure facilities and expansive ocean views in Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.261552,
+                        -6.760669
+                  ]
+            },
+            {
+                  "name": "Dhow Licious Boat Yard",
+                  "text": "A unique gallery space set in a traditional dhow boat construction yard.",
+                  "category": "museum",
+                  "coords": [
+                        39.272512,
+                        -6.753527
+                  ]
+            },
+            {
+                  "name": "Coco Beach",
+                  "text": "A popular public beach on the Msasani Peninsula known for its vibrant local food stalls and oceanfront atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        39.282393,
+                        -6.767974
+                  ]
+            },
+            {
+                  "name": "Limbachia Bar",
+                  "text": "A lively local watering hole situated near the Village Museum in Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.239363,
+                        -6.755774
+                  ]
+            },
+            {
+                  "name": "Litttle Theatre",
+                  "text": "An intimate performing arts venue in Dar es Salaam hosting local dramatic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        39.274358,
+                        -6.780346
+                  ]
+            },
+            {
+                  "name": "Aristotee Hair Beauty Clinic",
+                  "text": "A local beauty and wellness clinic serving the community around the Village Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264015,
+                        -6.780898
+                  ]
+            },
+            {
+                  "name": "Yacht Club Beach",
+                  "text": "A sandy shoreline area adjacent to the private sailing facilities and boat moorings in Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.274529,
+                        -6.743031
+                  ]
+            },
+            {
+                  "name": "Mount Ukombozi Hospital",
+                  "text": "A local healthcare facility and medical landmark located near Makumbusho.",
+                  "category": "landmark",
+                  "coords": [
+                        39.264159,
+                        -6.778633
+                  ]
+            },
+            {
+                  "name": "Rangi Gallery",
+                  "text": "A contemporary art gallery opened in 2022 featuring modern Tanzanian visual works.",
+                  "category": "museum",
+                  "coords": [
+                        39.271258,
+                        -6.768711
+                  ]
+            },
+            {
+                  "name": "Jane Goodalls Root & Shoots",
+                  "text": "A local branch of the environmental and humanitarian youth program founded by Jane Goodall.",
+                  "category": "landmark",
+                  "coords": [
+                        39.251685,
+                        -6.756936
+                  ]
+            },
+            {
+                  "name": "Nafasi Art Space",
+                  "text": "A vibrant contemporary arts space hosted in former industrial warehouses in Dar es Salaam.",
+                  "category": "landmark",
+                  "coords": [
+                        39.240818,
+                        -6.763389
+                  ]
+            },
+            {
+                  "name": "Bravo Coco Beach",
+                  "text": "A seaside hotel offering guests direct access to the sandy stretches of Coco Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        39.282254,
+                        -6.763865
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "A sandy coastal stretch along the Indian Ocean, located near the Makumbusho Village Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        39.236643,
+                        -6.727544
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2478, -6.7720],
@@ -1227,7 +4863,52 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "udom-administration-block-landmarks-v2",
+    id: "udom-administration-block-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "CCM",
+                  "text": "Dieses imposante Denkmal erinnert an die Chama Cha Mapinduzi, Tansanias langjährige dominierende politische Regierungspartei, und befindet sich in der Nähe des Verwaltungszentrums.",
+                  "category": "historical",
+                  "coords": [
+                        35.795534,
+                        -6.204407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CCM",
+                  "text": "Ez az impozáns emlékmű a Chama Cha Mapinduzi, Tanzánia régóta fennálló domináns kormányzópártja előtt tiszteleg a közigazgatási központ közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.795534,
+                        -6.204407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CCM",
+                  "text": "Acest monument impunător comemorează Chama Cha Mapinduzi, partidul politic aflat la putere de mult timp în Tanzania, situat lângă centrul administrativ.",
+                  "category": "historical",
+                  "coords": [
+                        35.795534,
+                        -6.204407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CCM",
+                  "text": "This imposing monument commemorates the Chama Cha Mapinduzi, Tanzania's long-standing dominant ruling political party, located near the administrative hub.",
+                  "category": "historical",
+                  "coords": [
+                        35.795534,
+                        -6.204407
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-03",
     coords: [35.8058, -6.2230],
@@ -1275,7 +4956,52 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bank-of-tanzania-headquarters-landmarks-v2",
+    id: "bank-of-tanzania-headquarters-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Culture and Youth",
+                  "text": "Dieses Kunst- und Kulturzentrum fördert die kreative Entwicklung und kulturelle Bildung von Jugendlichen.",
+                  "category": "cultural",
+                  "coords": [
+                        39.290985,
+                        -6.816139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Culture and Youth",
+                  "text": "Ez a művészeti és kulturális központ a fiatalok kreatív fejlődését és kulturális nevelését támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        39.290985,
+                        -6.816139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Culture and Youth",
+                  "text": "Acest centru de artă și cultură promovează dezvoltarea creativă și educația culturală a tinerilor.",
+                  "category": "cultural",
+                  "coords": [
+                        39.290985,
+                        -6.816139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Culture and Youth",
+                  "text": "This arts and cultural centre focuses on fostering creative development and cultural education for youth.",
+                  "category": "cultural",
+                  "coords": [
+                        39.290985,
+                        -6.816139
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2905, -6.8155],
@@ -1323,7 +5049,124 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "aga-khan-hospital-dar-landmarks-v2",
+    id: "aga-khan-hospital-dar-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barberian",
+                  "text": "Dieser lokale Themenpark bietet Fahrgeschäfte und Familienunterhaltung in Daressalam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.284699,
+                        -6.778407
+                  ]
+            },
+            {
+                  "name": "The Russian Tanzania Culture Centre",
+                  "text": "Dieses Kulturzentrum in Daressalam veranstaltet künstlerische Events und Ausstellungen zur Förderung der internationalen Beziehungen.",
+                  "category": "cultural",
+                  "coords": [
+                        39.287229,
+                        -6.801748
+                  ]
+            },
+            {
+                  "name": "Selander Bridge",
+                  "text": "Diese bekannte Brücke in Daressalam überspannt die Msimbazi-Mündung und verbindet wichtige Teile der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.281375,
+                        -6.796213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barberian",
+                  "text": "Ez a helyi vidámpark vidámparki attrakciókat és családi szórakozást kínál Dar es Salaamban.",
+                  "category": "recreational",
+                  "coords": [
+                        39.284699,
+                        -6.778407
+                  ]
+            },
+            {
+                  "name": "The Russian Tanzania Culture Centre",
+                  "text": "Ez a Dar es Salaam-i kulturális központ művészeti eseményeknek és kiállításoknak ad otthont a nemzetközi kapcsolatok ápolására.",
+                  "category": "cultural",
+                  "coords": [
+                        39.287229,
+                        -6.801748
+                  ]
+            },
+            {
+                  "name": "Selander Bridge",
+                  "text": "Ez a jól ismert Dar es Salaam-i híd a Msimbazi-torkolatot íveli át, összekötve a város fontos részeit.",
+                  "category": "landmark",
+                  "coords": [
+                        39.281375,
+                        -6.796213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barberian",
+                  "text": "Acest parc tematic local oferă plimbări recreative și divertisment pentru familie în Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.284699,
+                        -6.778407
+                  ]
+            },
+            {
+                  "name": "The Russian Tanzania Culture Centre",
+                  "text": "Acest centru cultural din Dar es Salaam găzduiește evenimente artistice și expoziții care promovează relațiile internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        39.287229,
+                        -6.801748
+                  ]
+            },
+            {
+                  "name": "Selander Bridge",
+                  "text": "Acest pod bine-cunoscut din Dar es Salaam traversează estuarul Msimbazi, conectând părți vitale ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.281375,
+                        -6.796213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barberian",
+                  "text": "This local theme park provides recreational rides and family entertainment in Dar es Salaam.",
+                  "category": "recreational",
+                  "coords": [
+                        39.284699,
+                        -6.778407
+                  ]
+            },
+            {
+                  "name": "The Russian Tanzania Culture Centre",
+                  "text": "This cultural centre in Dar es Salaam hosts artistic events and exhibitions fostering international relations.",
+                  "category": "cultural",
+                  "coords": [
+                        39.287229,
+                        -6.801748
+                  ]
+            },
+            {
+                  "name": "Selander Bridge",
+                  "text": "This well-known bridge in Dar es Salaam spans the Msimbazi estuary, connecting vital parts of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        39.281375,
+                        -6.796213
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2942, -6.8041],
@@ -1371,7 +5214,88 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mlimani-city-mall-landmarks-v2",
+    id: "mlimani-city-mall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Massana Road",
+                  "text": "Dieser urbane Aussichtspunkt entlang der belebten Massana Road bietet einen weiten Blick über den energiegeladenen Fluss des lokalen Stadtverkehrs und Handels.",
+                  "category": "natural",
+                  "coords": [
+                        39.213391,
+                        -6.724342
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "Mbezi Beach ist ein wohlhabender und lebhafter Küstenabschnitt in Daressalam, gesäumt von gehobenen Resorts und wogenden Palmen.",
+                  "category": "recreational",
+                  "coords": [
+                        39.234702,
+                        -6.720029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Massana Road",
+                  "text": "Ez a nyüzsgő Massana Road mentén található városi kilátópont széles tekintetet nyújt a helyi városi forgalom és kereskedelem energikus áramlására.",
+                  "category": "natural",
+                  "coords": [
+                        39.213391,
+                        -6.724342
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "A Mbezi Beach egy jómódú és nyüzsgő partszakasz Dar es Salaamban, amelyet előkelő üdülőhelyek és ringatózó pálmafák szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        39.234702,
+                        -6.720029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Massana Road",
+                  "text": "Acest punct de belvedere urban de-a lungul aglomeratului drum Massana oferă o privire cuprinzătoare asupra fluxului energic al traficului și comerțului local din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        39.213391,
+                        -6.724342
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "Mbezi Beach este o zonă de coastă bogată și vibrantă din Dar es Salaam, mărginită de stațiuni exclusiviste și palmieri legănați de vânt.",
+                  "category": "recreational",
+                  "coords": [
+                        39.234702,
+                        -6.720029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Massana Road",
+                  "text": "This urban viewpoint along the bustling Massana Road provides a sweeping look over the energetic flow of local city traffic and commerce.",
+                  "category": "natural",
+                  "coords": [
+                        39.213391,
+                        -6.724342
+                  ]
+            },
+            {
+                  "name": "Mbezi Beach",
+                  "text": "Mbezi Beach is an affluent and vibrant coastal stretch in Dar es Salaam, lined with upscale resorts and swaying palm trees.",
+                  "category": "recreational",
+                  "coords": [
+                        39.234702,
+                        -6.720029
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TZ-02",
     coords: [39.2198, -6.7706],

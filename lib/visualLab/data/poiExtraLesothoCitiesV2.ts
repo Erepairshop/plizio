@@ -351,7 +351,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "quthing-cities-v2",
+    id: "quthing-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Die Fundstätte der Dinosaurier-Fußabdrücke in Quthing zeigt prähistorische Spuren, die im freiliegenden Gestein erhalten geblieben sind.",
+                  "category": "cultural",
+                  "coords": [
+                        27.692996,
+                        -30.395061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "A quthingi dinoszaurusz lábnyomok lelőhelye a szabadon lévő sziklákban megőrzött őskori nyomokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        27.692996,
+                        -30.395061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Situl urmelor de dinozaur din Quthing prezintă urme preistorice conservate în stânca expusă.",
+                  "category": "cultural",
+                  "coords": [
+                        27.692996,
+                        -30.395061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "The Dinosaur Footprints site in Quthing showcases prehistoric tracks preserved in the exposed rock.",
+                  "category": "cultural",
+                  "coords": [
+                        27.692996,
+                        -30.395061
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-G",
     coords: [27.7, -30.4],
@@ -1270,7 +1315,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "mphaki-cities-v2",
+    id: "mphaki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ongeluksnek Nature Reserve",
+                  "text": "Das Ongeluksnek Nature Reserve ist ein raues Bergschutzgebiet rund um einen historischen Gebirgspass.",
+                  "category": "natural",
+                  "coords": [
+                        28.305215,
+                        -30.335607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ongeluksnek Nature Reserve",
+                  "text": "Az Ongeluksnek Nature Reserve egy zord hegyvidéki természetvédelmi terület, amely egy történelmi hágó körül terül el.",
+                  "category": "natural",
+                  "coords": [
+                        28.305215,
+                        -30.335607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ongeluksnek Nature Reserve",
+                  "text": "Rezervația Naturală Ongeluksnek este o zonă accidentată de conservare montană, centrată în jurul unei trecători istorice.",
+                  "category": "natural",
+                  "coords": [
+                        28.305215,
+                        -30.335607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ongeluksnek Nature Reserve",
+                  "text": "Ongeluksnek Nature Reserve is a rugged mountain conservation area centered around a historic mountain pass.",
+                  "category": "natural",
+                  "coords": [
+                        28.305215,
+                        -30.335607
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-G",
     coords: [28.2833, -30.35],

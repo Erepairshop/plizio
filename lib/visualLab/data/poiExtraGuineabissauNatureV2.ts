@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraGuineabissauNatureV2: POI[] = [
   {
-    id: "orango-island-nature-v2",
+    id: "orango-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punta Canapá",
+                  "text": "Punta Canapá ist ein markanter Küstenpunkt in der unberührten Naturlandschaft der Insel Orango.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.885255,
+                        11.066726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Canapá",
+                  "text": "A Punta Canapá egy kiemelkedő tengerparti fok Orango szigetének természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.885255,
+                        11.066726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Canapá",
+                  "text": "Punta Canapá este un promontoriu de coastă proeminent, ascuns în peisajul natural al insulei Orango.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.885255,
+                        11.066726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Canapá",
+                  "text": "Punta Canapá is a prominent coastal point nestled within the natural landscape of Orango Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.885255,
+                        11.066726
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GW-BL",
     coords: [-15.86, 11.08],
@@ -385,7 +430,88 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
     }
   },
   {
-    id: "bubaque-island-nature-v2",
+    id: "bubaque-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia di Escadinha",
+                  "text": "Die Praia di Escadinha auf der Insel Bubaque ist ein tropischer Strandabschnitt im Bissagos-Archipel, der von üppiger grüner Vegetation gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.841818,
+                        11.305195
+                  ]
+            },
+            {
+                  "name": "Ruined pier",
+                  "text": "Die Ruinen dieses alten Piers auf der Insel Bubaque ragen in das Wasser des Archipels hinein und erinnern an vergangene Seehandelszeiten.",
+                  "category": "historical",
+                  "coords": [
+                        -15.82523,
+                        11.2985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia di Escadinha",
+                  "text": "A Bubaque-szigeten található Praia di Escadinha egy trópusi tengerpart a Bissagos-szigetcsoportban, amelyet buja zöld növényzet szegélyez.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.841818,
+                        11.305195
+                  ]
+            },
+            {
+                  "name": "Ruined pier",
+                  "text": "A Bubaque-szigeten található ősi móló romjai a szigetcsoport vizébe nyúlnak, emlékeztetve a letűnt tengeri kereskedelem időszakára.",
+                  "category": "historical",
+                  "coords": [
+                        -15.82523,
+                        11.2985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia di Escadinha",
+                  "text": "Praia di Escadinha, situată pe Insula Bubaque din arhipelagul Bissagos, este o plajă tropicală mărginită de o vegetație bogată.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.841818,
+                        11.305195
+                  ]
+            },
+            {
+                  "name": "Ruined pier",
+                  "text": "Ruinele acestui vechi debarcader de pe Insula Bubaque se extind în apele arhipelagului, fiind o amintire a comerțului maritim de odinioară.",
+                  "category": "historical",
+                  "coords": [
+                        -15.82523,
+                        11.2985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia di Escadinha",
+                  "text": "Praia di Escadinha on Bubaque Island is a tropical beach segment in the Bissagos Archipelago, fringed by lush green vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.841818,
+                        11.305195
+                  ]
+            },
+            {
+                  "name": "Ruined pier",
+                  "text": "The ruins of this old pier on Bubaque Island extend into the archipelago's waters, standing as a remnant of past maritime activity.",
+                  "category": "historical",
+                  "coords": [
+                        -15.82523,
+                        11.2985
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GW-BL",
     coords: [-15.83, 11.30],
@@ -961,7 +1087,88 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
     }
   },
   {
-    id: "uno-island-nature-v2",
+    id: "uno-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de Biosfera do Arquipélago Bolama Bijagós",
+                  "text": "Das 1996 gegründete Biosphärenreservat Bolama-Bijagós umfasst eine Vielzahl von Inseln, die für ihre reiche Biodiversität und einzigartige marine Ökosysteme bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        -16.061106,
+                        11.24498
+                  ]
+            },
+            {
+                  "name": "Old Port",
+                  "text": "Der Strandabschnitt Old Port auf der Insel Uno bietet einen malerischen, sandigen Zugang zum Ozean mit Überresten historischer Hafenanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.105685,
+                        11.33628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de Biosfera do Arquipélago Bolama Bijagós",
+                  "text": "Az 1996-ban létrehozott Bolama-Bijagós Bioszféra-rezervátum szigetek sokaságát foglalja magában, amelyeket gazdag biodiverzitásuk és egyedi tengeri ökoszisztémáik tesznek különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        -16.061106,
+                        11.24498
+                  ]
+            },
+            {
+                  "name": "Old Port",
+                  "text": "Az Uno szigetén található Old Port strand festői, homokos lejárót kínál az óceánhoz, történelmi kikötői létesítmények nyomaival.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.105685,
+                        11.33628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de Biosfera do Arquipélago Bolama Bijagós",
+                  "text": "Înființată în 1996, Rezervația Biosferei Bolama-Bijagós cuprinde o multitudine de insule cunoscute pentru biodiversitatea lor bogată și ecosistemele marine unice.",
+                  "category": "natural",
+                  "coords": [
+                        -16.061106,
+                        11.24498
+                  ]
+            },
+            {
+                  "name": "Old Port",
+                  "text": "Plaja Old Port de pe Insula Uno oferă un acces nisipos pitoresc la ocean, având urme ale unor vechi amenajări portuare.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.105685,
+                        11.33628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de Biosfera do Arquipélago Bolama Bijagós",
+                  "text": "Established in 1996, the Bolama Bijagós Archipelago Biosphere Reserve encompasses multiple islands known for their rich biodiversity and unique marine ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -16.061106,
+                        11.24498
+                  ]
+            },
+            {
+                  "name": "Old Port",
+                  "text": "The Old Port beach on Uno Island offers a picturesque, sandy stretch by the ocean with remnants of historical docking facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.105685,
+                        11.33628
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GW-BL",
     coords: [-16.05, 11.28],
@@ -1281,7 +1488,88 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
     }
   },
   {
-    id: "rio-grande-de-buba-nature-v2",
+    id: "rio-grande-de-buba-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hotel da Praia de Ofir",
+                  "text": "Die verlassenen Ruinen dieses ehemaligen Hotels blicken auf die vielfältigen Küstenökosysteme in der Nähe des Rio Grande de Buba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.472286,
+                        11.556109
+                  ]
+            },
+            {
+                  "name": "Praia de Gaimoreia",
+                  "text": "Dieser abgelegene Sandstrand bietet ruhige Ausblicke entlang der ökologisch reichen Gewässer des Rio Grande de Buba.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.558615,
+                        11.504772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hotel da Praia de Ofir",
+                  "text": "Ennek az egykori szállodának az elhagyatott romjai a Rio Grande de Buba közelében lévő változatos tengerparti ökoszisztémákra néznek.",
+                  "category": "historical",
+                  "coords": [
+                        -15.472286,
+                        11.556109
+                  ]
+            },
+            {
+                  "name": "Praia de Gaimoreia",
+                  "text": "Ez a félreeső homokos strand nyugodt kilátást nyújt a Rio Grande de Buba ökológiailag gazdag vizeire.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.558615,
+                        11.504772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hotel da Praia de Ofir",
+                  "text": "Ruinele abandonate ale acestui fost hotel au vedere la diversele ecosisteme de coastă din apropierea Rio Grande de Buba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.472286,
+                        11.556109
+                  ]
+            },
+            {
+                  "name": "Praia de Gaimoreia",
+                  "text": "Această plajă izolată cu nisip oferă vederi liniștite de-a lungul apelor bogate din punct de vedere ecologic ale râului Rio Grande de Buba.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.558615,
+                        11.504772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hotel da Praia de Ofir",
+                  "text": "The abandoned ruins of this former hotel overlook the diverse coastal ecosystems near the Rio Grande de Buba.",
+                  "category": "historical",
+                  "coords": [
+                        -15.472286,
+                        11.556109
+                  ]
+            },
+            {
+                  "name": "Praia de Gaimoreia",
+                  "text": "This secluded sandy beach offers tranquil views along the ecologically rich waters of the Rio Grande de Buba.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.558615,
+                        11.504772
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GW-QU",
     coords: [-15.48, 11.55],

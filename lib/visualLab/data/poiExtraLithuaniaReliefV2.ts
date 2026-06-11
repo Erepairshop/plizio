@@ -2324,7 +2324,7 @@ imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
       "de": [
             {
                   "name": "Žvirgždaičių Švč. Jėzaus Širdies naujoji bažnyčia",
-                  "text": "Eine Holzkirche in Litauen, die dem Heiligsten Herzen Jesu geweiht ist.",
+                  "text": "2012 erbaute Herz-Jesu-Kirche.",
                   "category": "religious",
                   "coords": [
                         23.028537,
@@ -2335,7 +2335,7 @@ imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
       "hu": [
             {
                   "name": "Žvirgždaičių Švč. Jėzaus Širdies naujoji bažnyčia",
-                  "text": "Jézus Szent Szívének szentelt fatemplom Litvániában.",
+                  "text": "2012-ben épült Jézus Szentséges Szíve-templom.",
                   "category": "religious",
                   "coords": [
                         23.028537,
@@ -2346,7 +2346,7 @@ imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
       "ro": [
             {
                   "name": "Žvirgždaičių Švč. Jėzaus Širdies naujoji bažnyčia",
-                  "text": "O biserică de lemn din Lituania, dedicată Inimii Sacre a lui Iisus.",
+                  "text": "Biserica Preasfânta Inimă a lui Isus, construită în 2012.",
                   "category": "religious",
                   "coords": [
                         23.028537,
@@ -2357,7 +2357,7 @@ imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
       "en": [
             {
                   "name": "Žvirgždaičiai St. Sacred Heart of Jesus Church",
-                  "text": "A wooden church in Lithuania dedicated to the Sacred Heart of Jesus.",
+                  "text": "Sacred Heart of Jesus church built in 2012.",
                   "category": "religious",
                   "coords": [
                         23.028537,

@@ -75,7 +75,52 @@ export const poiExtraNigerNatureV2: POI[] = [
     },
   },
   {
-    id: "air-gebirge-nature-v2",
+    id: "air-gebirge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Safout",
+                  "text": "Ein Berggipfel inmitten der Naturlandschaft des Aïr-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        8.43,
+                        18.048056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Safout",
+                  "text": "Egy hegycsúcs az Aïr-hegység természeti tájain.",
+                  "category": "natural",
+                  "coords": [
+                        8.43,
+                        18.048056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Safout",
+                  "text": "Un vârf montan în peisajul natural al Munților Aïr.",
+                  "category": "natural",
+                  "coords": [
+                        8.43,
+                        18.048056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Safout",
+                  "text": "A mountain peak set within the natural landscape of the Aïr Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        8.43,
+                        18.048056
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NE-07",
     coords: [8.500, 18.000],
@@ -903,7 +948,52 @@ export const poiExtraNigerNatureV2: POI[] = [
     },
   },
   {
-    id: "massif-iférouane-nature-v2",
+    id: "massif-iférouane-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tachet",
+                  "text": "Der Tachet ist ein zerklüfteter Berggipfel, der weite Ausblicke über die felsigen Landschaften des Aïr-Massivs bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.504444,
+                        19.001111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tachet",
+                  "text": "A Tachet egy zord hegycsúcs, amely széles kilátást nyújt az Aïr-hegység sziklás tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        9.504444,
+                        19.001111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tachet",
+                  "text": "Tachet este un vârf muntos accidentat care oferă vederi extinse asupra peisajelor stâncoase ale Masivului Aïr.",
+                  "category": "natural",
+                  "coords": [
+                        9.504444,
+                        19.001111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tachet",
+                  "text": "Tachet is a rugged mountain peak offering expansive views over the rocky landscapes of the Aïr Massif.",
+                  "category": "natural",
+                  "coords": [
+                        9.504444,
+                        19.001111
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NE-07",
     coords: [9.500, 19.000],

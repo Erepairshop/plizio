@@ -1744,7 +1744,7 @@ export const latviaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Matīšu evaņģēliski luteriskā baznīca",
-                  "text": "Eine historische lutherische Kirche in der Nähe des Burtnieks-Sees.",
+                  "text": "1687 erbaute evangelisch-lutherische Kirche Matīši am Burtnieks-See, barocke Holzkirche.",
                   "category": "religious",
                   "coords": [
                         25.159705,
@@ -1755,7 +1755,7 @@ export const latviaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Matīšu evaņģēliski luteriskā baznīca",
-                  "text": "Egy történelmi evangélikus templom a Burtnieks-tó közelében.",
+                  "text": "Az 1687-ben épült matīši evangélikus templom a Burtnieks-tónál, barokk favázas templom.",
                   "category": "religious",
                   "coords": [
                         25.159705,
@@ -1766,7 +1766,7 @@ export const latviaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Matīšu evaņģēliski luteriskā baznīca",
-                  "text": "O biserică luterană istorică lângă lacul Burtnieks.",
+                  "text": "Biserica evanghelică luterană Matīši, construită în 1687 lângă lacul Burtnieks, biserică de lemn barocă.",
                   "category": "religious",
                   "coords": [
                         25.159705,
@@ -1777,7 +1777,7 @@ export const latviaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Matīšu evaņģēliski luteriskā baznīca",
-                  "text": "A historic Lutheran church near Lake Burtnieks.",
+                  "text": "Matīši Lutheran Church built in 1687 near Lake Burtnieks, a Baroque wooden church.",
                   "category": "religious",
                   "coords": [
                         25.159705,

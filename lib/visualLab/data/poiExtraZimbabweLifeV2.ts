@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraZimbabweLifeV2: POI[] = [
   {
-    id: "harare-botanical-gardens-life-v2",
+    id: "harare-botanical-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "7 Arts",
+                  "text": "Dieses Theater in der Gegend von Harare ist ein bekannter Veranstaltungsort für verschiedene Live-Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.038525,
+                        -17.802254
+                  ]
+            },
+            {
+                  "name": "National Archives of Zimbabwe",
+                  "text": "Dieses Museum in Harare bewahrt die historischen Aufzeichnungen, nationalen Dokumente und das kulturelle Erbe Simbabwes auf.",
+                  "category": "museum",
+                  "coords": [
+                        31.063934,
+                        -17.794896
+                  ]
+            },
+            {
+                  "name": "Point A",
+                  "text": "Ein spezifischer geografischer Marker in der Nähe des Botanischen Gartens von Harare, der oft zur Navigation auf lokalen Wegen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        31.034982,
+                        -17.769684
+                  ]
+            },
+            {
+                  "name": "Castle Corner",
+                  "text": "Ein markanter Aussichtspunkt in der Gegend von Harare, der einen weiten Blick über die umliegenden städtischen und grünen Landschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.050303,
+                        -17.814695
+                  ]
+            },
+            {
+                  "name": "Montague Shops",
+                  "text": "Ein lebhaftes lokales Einkaufszentrum in Harare, in dem alltägliche Waren und Dienstleistungen sowohl Anwohner als auch Besucher anziehen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.039035,
+                        -17.819079
+                  ]
+            },
+            {
+                  "name": "Reps Theatre",
+                  "text": "Dieser etablierte Veranstaltungsort für darstellende Kunst in Harare ist berühmt für die Inszenierung lokaler Theaterproduktionen und Gemeinschaftsshows.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04374,
+                        -17.794881
+                  ]
+            },
+            {
+                  "name": "National Ballet",
+                  "text": "Dieser prominente Theaterraum in Harare widmet sich klassischen und zeitgenössischen Tanzaufführungen und fördert lokale Ballett-Talente.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04358,
+                        -17.793856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "7 Arts",
+                  "text": "Ez a Harare térségében található színház egy jól ismert kulturális helyszín, amely különféle élő előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        31.038525,
+                        -17.802254
+                  ]
+            },
+            {
+                  "name": "National Archives of Zimbabwe",
+                  "text": "A Harare városában található múzeum Zimbabwe történelmi feljegyzéseit, nemzeti dokumentumait és kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        31.063934,
+                        -17.794896
+                  ]
+            },
+            {
+                  "name": "Point A",
+                  "text": "Egy meghatározott földrajzi jelzőpont a hararei botanikus kertek közelében, amelyet gyakran használnak a helyi ösvényeken való tájékozódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        31.034982,
+                        -17.769684
+                  ]
+            },
+            {
+                  "name": "Castle Corner",
+                  "text": "Egy jellegzetes kilátópont Harare területén, amely széles körpanorámát nyújt a környező városi és zöldellő tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        31.050303,
+                        -17.814695
+                  ]
+            },
+            {
+                  "name": "Montague Shops",
+                  "text": "Egy nyüzsgő helyi kereskedelmi központ Harare városában, ahol a mindennapi cikkek és szolgáltatások vonzzák a lakosokat és a látogatókat egyaránt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.039035,
+                        -17.819079
+                  ]
+            },
+            {
+                  "name": "Reps Theatre",
+                  "text": "Ez a Harare városában található, bejáratott előadóművészeti helyszín híres a helyi drámai produkciók és közösségi műsorok bemutatásáról.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04374,
+                        -17.794881
+                  ]
+            },
+            {
+                  "name": "National Ballet",
+                  "text": "Ez a kiemelkedő hararei színházi tér klasszikus és kortárs táncelőadásoknak ad otthont, és a helyi balett tehetségeket támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04358,
+                        -17.793856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "7 Arts",
+                  "text": "Acest teatru din zona Harare este o locație culturală bine cunoscută, care găzduiește o varietate de spectacole live.",
+                  "category": "cultural",
+                  "coords": [
+                        31.038525,
+                        -17.802254
+                  ]
+            },
+            {
+                  "name": "National Archives of Zimbabwe",
+                  "text": "Situat în Harare, acest muzeu păstrează înregistrările istorice, documentele naționale și patrimoniul cultural al statului Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        31.063934,
+                        -17.794896
+                  ]
+            },
+            {
+                  "name": "Point A",
+                  "text": "Un marcaj geografic specific lângă zona grădinilor botanice din Harare, folosit adesea pentru navigarea pe potecile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.034982,
+                        -17.769684
+                  ]
+            },
+            {
+                  "name": "Castle Corner",
+                  "text": "Un punct de belvedere distinctiv din zona Harare, care oferă vederi ample asupra peisajelor urbane și verzi din jur.",
+                  "category": "natural",
+                  "coords": [
+                        31.050303,
+                        -17.814695
+                  ]
+            },
+            {
+                  "name": "Montague Shops",
+                  "text": "Un centru comercial local vibrant în Harare, unde bunurile și serviciile de zi cu zi atrag atât locuitorii, cât și vizitatorii.",
+                  "category": "landmark",
+                  "coords": [
+                        31.039035,
+                        -17.819079
+                  ]
+            },
+            {
+                  "name": "Reps Theatre",
+                  "text": "Situat în Harare, acest spațiu consacrat artelor spectacolului este celebru pentru punerea în scenă a producțiilor dramatice locale și a spectacolelor comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04374,
+                        -17.794881
+                  ]
+            },
+            {
+                  "name": "National Ballet",
+                  "text": "Acest spațiu teatral proeminent din Harare este dedicat spectacolelor de dans clasic și contemporan, susținând talentul local de balet.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04358,
+                        -17.793856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "7 Arts",
+                  "text": "This theatre in the Harare area is a well-known cultural venue hosting a variety of live stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        31.038525,
+                        -17.802254
+                  ]
+            },
+            {
+                  "name": "National Archives of Zimbabwe",
+                  "text": "Located in Harare, this museum preserves the historical records, national documents, and cultural heritage of Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        31.063934,
+                        -17.794896
+                  ]
+            },
+            {
+                  "name": "Point A",
+                  "text": "A specific geographic marker near the Harare botanical gardens area, often used to navigate local paths.",
+                  "category": "landmark",
+                  "coords": [
+                        31.034982,
+                        -17.769684
+                  ]
+            },
+            {
+                  "name": "Castle Corner",
+                  "text": "A distinctive viewpoint in the Harare area providing sweeping views over the surrounding urban and green landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        31.050303,
+                        -17.814695
+                  ]
+            },
+            {
+                  "name": "Montague Shops",
+                  "text": "A vibrant local commercial hub in Harare where everyday goods and services attract both residents and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        31.039035,
+                        -17.819079
+                  ]
+            },
+            {
+                  "name": "Reps Theatre",
+                  "text": "Situated in Harare, this established performing arts venue is celebrated for staging local dramatic productions and community shows.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04374,
+                        -17.794881
+                  ]
+            },
+            {
+                  "name": "National Ballet",
+                  "text": "This prominent Harare theatre space is dedicated to classical and contemporary dance performances, fostering local ballet talent.",
+                  "category": "cultural",
+                  "coords": [
+                        31.04358,
+                        -17.793856
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ZW-HA",
     coords: [31.0494, -17.8174],
@@ -39,7 +300,52 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "kuimba-shiri-bird-park-life-v2",
+    id: "kuimba-shiri-bird-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khumba Shiri",
+                  "text": "Eine beliebte Attraktion im Kuimba Shiri Bird Park.",
+                  "category": "landmark",
+                  "coords": [
+                        30.80166,
+                        -17.870405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khumba Shiri",
+                  "text": "Népszerű látványosság a Kuimba Shiri Madárpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        30.80166,
+                        -17.870405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khumba Shiri",
+                  "text": "O atracție populară situată în Parcul de Păsări Kuimba Shiri.",
+                  "category": "landmark",
+                  "coords": [
+                        30.80166,
+                        -17.870405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khumba Shiri",
+                  "text": "A popular attraction situated within the Kuimba Shiri Bird Park.",
+                  "category": "landmark",
+                  "coords": [
+                        30.80166,
+                        -17.870405
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZW-HA",
     coords: [30.8524, -17.9254],
@@ -183,7 +489,160 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "matobo-rhino-habitat-life-v2",
+    id: "matobo-rhino-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inanke Cave",
+                  "text": "Eine bedeutende archäologische Stätte, die für ihre gut erhaltenen antiken San-Felsmalereien bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        28.49453,
+                        -20.419043
+                  ]
+            },
+            {
+                  "name": "White Rhino Shelter",
+                  "text": "Ein historischer Felsüberhang, der alte Höhlenmalereien von Nashörnern und anderen Wildtieren beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        28.525541,
+                        -20.475887
+                  ]
+            },
+            {
+                  "name": "Shangani Patrol Memorial",
+                  "text": "Dieses markante Denkmal erinnert an die im Konflikt von 1893 gefallenen Soldaten.",
+                  "category": "landmark",
+                  "coords": [
+                        28.514505,
+                        -20.494153
+                  ]
+            },
+            {
+                  "name": "Bambata cave",
+                  "text": "Ein wichtiger archäologischer Felsunterstand, der wertvolle Beweise für frühe menschliche Besiedlung geliefert hat.",
+                  "category": "historical",
+                  "coords": [
+                        28.406073,
+                        -20.503225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inanke Cave",
+                  "text": "Jelentős régészeti lelőhely, amely jól megőrzött ősi San sziklafestményeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        28.49453,
+                        -20.419043
+                  ]
+            },
+            {
+                  "name": "White Rhino Shelter",
+                  "text": "Történelmi sziklaeresz, amely orrszarvúk és más vadon élő állatok ősi barlangrajzainak ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        28.525541,
+                        -20.475887
+                  ]
+            },
+            {
+                  "name": "Shangani Patrol Memorial",
+                  "text": "Ez a feltűnő emlékmű az 1893-as konfliktusban elesett katonáknak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        28.514505,
+                        -20.494153
+                  ]
+            },
+            {
+                  "name": "Bambata cave",
+                  "text": "Fontos régészeti sziklamenedék, amely értékes bizonyítékokkal szolgált a korai emberi megtelepedésről.",
+                  "category": "historical",
+                  "coords": [
+                        28.406073,
+                        -20.503225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inanke Cave",
+                  "text": "Un sit arheologic semnificativ, cunoscut pentru picturile sale antice pe stâncă San bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        28.49453,
+                        -20.419043
+                  ]
+            },
+            {
+                  "name": "White Rhino Shelter",
+                  "text": "O surplombă stâncoasă istorică, care găzduiește picturi rupestre antice reprezentând rinoceri și alte animale sălbatice.",
+                  "category": "historical",
+                  "coords": [
+                        28.525541,
+                        -20.475887
+                  ]
+            },
+            {
+                  "name": "Shangani Patrol Memorial",
+                  "text": "Acest monument izbitor comemorează soldații căzuți în conflictul din 1893.",
+                  "category": "landmark",
+                  "coords": [
+                        28.514505,
+                        -20.494153
+                  ]
+            },
+            {
+                  "name": "Bambata cave",
+                  "text": "Un adăpost sub stâncă arheologic important, care a oferit dovezi valoroase ale locuirii umane timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        28.406073,
+                        -20.503225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inanke Cave",
+                  "text": "A significant archaeological site known for its well-preserved ancient San rock art.",
+                  "category": "historical",
+                  "coords": [
+                        28.49453,
+                        -20.419043
+                  ]
+            },
+            {
+                  "name": "White Rhino Shelter",
+                  "text": "A historic rock overhang housing ancient cave paintings of rhinos and other wildlife.",
+                  "category": "historical",
+                  "coords": [
+                        28.525541,
+                        -20.475887
+                  ]
+            },
+            {
+                  "name": "Shangani Patrol Memorial",
+                  "text": "This striking monument commemorates the soldiers who fell in the 1893 conflict.",
+                  "category": "landmark",
+                  "coords": [
+                        28.514505,
+                        -20.494153
+                  ]
+            },
+            {
+                  "name": "Bambata cave",
+                  "text": "An important archaeological rock shelter that has yielded valuable evidence of early human habitation.",
+                  "category": "historical",
+                  "coords": [
+                        28.406073,
+                        -20.503225
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZW-MN",
     coords: [28.5, -20.5],
@@ -219,7 +678,52 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "hwedza-farming-district-life-v2",
+    id: "hwedza-farming-district-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imire Rhino and Wildlife Conservation Wilderness",
+                  "text": "Die Imire Rhino and Wildlife Conservation Wilderness ist ein wichtiges Schutzgebiet, das sich intensiv dem Schutz und der Zucht gefährdeter Nashörner widmet.",
+                  "category": "natural",
+                  "coords": [
+                        31.498106,
+                        -18.473484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imire Rhino and Wildlife Conservation Wilderness",
+                  "text": "Az Imire Rhino and Wildlife Conservation Wilderness egy kritikus fontosságú menedékhely, amely elkötelezett a veszélyeztetett orrszarvúk védelme és tenyésztése iránt.",
+                  "category": "natural",
+                  "coords": [
+                        31.498106,
+                        -18.473484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imire Rhino and Wildlife Conservation Wilderness",
+                  "text": "Imire Rhino and Wildlife Conservation Wilderness este un sanctuar critic dedicat profund protecției și reproducerii rinocerilor pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        31.498106,
+                        -18.473484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imire Rhino and Wildlife Conservation Wilderness",
+                  "text": "Imire Rhino and Wildlife Conservation Wilderness is a critical sanctuary deeply committed to the protection and breeding of endangered rhinoceroses.",
+                  "category": "natural",
+                  "coords": [
+                        31.498106,
+                        -18.473484
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ZW-ME",
     coords: [31.5, -18.5],
@@ -399,7 +903,52 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "mutare-orchard-district-life-v2",
+    id: "mutare-orchard-district-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prince of Wales View",
+                  "text": "Der Prince of Wales View bietet von seiner erhobenen Lage in Mutare aus einen weiten, spektakulären Blick auf die umliegenden Täler.",
+                  "category": "landmark",
+                  "coords": [
+                        32.692092,
+                        -19.017945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prince of Wales View",
+                  "text": "A mutare-i Prince of Wales View magaslati fekvésének köszönhetően lenyűgöző, széles kilátást nyújt a környező völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        32.692092,
+                        -19.017945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prince of Wales View",
+                  "text": "Punctul de belvedere Prince of Wales View din Mutare oferă o priveliște spectaculoasă și amplă asupra văilor înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        32.692092,
+                        -19.017945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prince of Wales View",
+                  "text": "The Prince of Wales View offers a wide, spectacular panorama of the surrounding valleys from its elevated position in Mutare.",
+                  "category": "landmark",
+                  "coords": [
+                        32.692092,
+                        -19.017945
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ZW-MA",
     coords: [32.7, -19.0],
@@ -471,7 +1020,88 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "chiredzi-wildlife-ranch-life-v2",
+    id: "chiredzi-wildlife-ranch-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "DCP7",
+                  "text": "Ein ausgewiesener Beobachtungspunkt innerhalb des ausgedehnten Wildtierzuchtgebiets von Chiredzi.",
+                  "category": "natural",
+                  "coords": [
+                        31.565968,
+                        -20.998112
+                  ]
+            },
+            {
+                  "name": "DCP Point 1",
+                  "text": "Der erste einer Reihe von Aussichtspunkten mit Blick auf das trockene Buschland der Wildtierfarm von Chiredzi.",
+                  "category": "natural",
+                  "coords": [
+                        31.571695,
+                        -21.002735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DCP7",
+                  "text": "Kijelölt megfigyelőpont a kiterjedt chiredzi-i vadászterületen belül.",
+                  "category": "natural",
+                  "coords": [
+                        31.565968,
+                        -20.998112
+                  ]
+            },
+            {
+                  "name": "DCP Point 1",
+                  "text": "Az első egy kilátópont-sorozatból, amely a chiredzi-i vadrezervátum száraz bozótosára néz.",
+                  "category": "natural",
+                  "coords": [
+                        31.571695,
+                        -21.002735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DCP7",
+                  "text": "Un punct de observație desemnat în cadrul zonei extinse de creștere a faunei sălbatice din Chiredzi.",
+                  "category": "natural",
+                  "coords": [
+                        31.565968,
+                        -20.998112
+                  ]
+            },
+            {
+                  "name": "DCP Point 1",
+                  "text": "Primul dintr-o serie de puncte de belvedere cu vedere la savana uscată a fermei de animale sălbatice Chiredzi.",
+                  "category": "natural",
+                  "coords": [
+                        31.571695,
+                        -21.002735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DCP7",
+                  "text": "A designated observation point within the extensive wildlife ranching area of Chiredzi.",
+                  "category": "natural",
+                  "coords": [
+                        31.565968,
+                        -20.998112
+                  ]
+            },
+            {
+                  "name": "DCP Point 1",
+                  "text": "The first in a series of viewpoints overlooking the dry bushveld of the Chiredzi wildlife ranch.",
+                  "category": "natural",
+                  "coords": [
+                        31.571695,
+                        -21.002735
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZW-MV",
     coords: [31.6, -21.0],
@@ -507,7 +1137,52 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "bulawayo-childrens-park-life-v2",
+    id: "bulawayo-childrens-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mguza Nature Reserve",
+                  "text": "Das Mguza Nature Reserve ist ein geschütztes Wildnisgebiet, das die Lebensräume einheimischer Wildtiere und Savannenökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        28.538004,
+                        -20.04757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mguza Nature Reserve",
+                  "text": "A Mguza Természetvédelmi Terület egy védett vadon, amely megóvja a hazai vadvilág élőhelyeit és a szavannai ökoszisztémákat.",
+                  "category": "natural",
+                  "coords": [
+                        28.538004,
+                        -20.04757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mguza Nature Reserve",
+                  "text": "Rezervația naturală Mguza este o zonă de sălbăticie protejată care conservă habitatele faunei sălbatice indigene și ecosistemele de savană.",
+                  "category": "natural",
+                  "coords": [
+                        28.538004,
+                        -20.04757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mguza Nature Reserve",
+                  "text": "Mguza Nature Reserve is a protected wilderness area protecting indigenous wildlife habitats and savanna ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        28.538004,
+                        -20.04757
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ZW-BU",
     coords: [28.6, -20.1],
@@ -579,7 +1254,88 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "kwe-kwe-nature-park-life-v2",
+    id: "kwe-kwe-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "Dieses Museum beleuchtet das reiche Goldbergbau-Erbe und die historischen Fördertechniken der Region.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            },
+            {
+                  "name": "National Mining Museum",
+                  "text": "Ein umfangreicher Museumskomplex, der der reichen Bergbaugeschichte der Nation und den schweren Maschinen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "Ez a múzeum a régió gazdag aranybányászati örökségét és történelmi kitermelési technikáit világítja meg.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            },
+            {
+                  "name": "National Mining Museum",
+                  "text": "Kiterjedt múzeumi komplexum, amelyet a nemzet gazdag bányászati történelmének és nehézgépeinek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "Acest muzeu evidențiază bogata moștenire a mineritului de aur și tehnicile istorice de extracție ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            },
+            {
+                  "name": "National Mining Museum",
+                  "text": "Un complex muzeal extins dedicat istoriei miniere bogate a națiunii și utilajelor grele.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "This museum highlights the region's rich gold mining heritage and historic extraction techniques.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            },
+            {
+                  "name": "National Mining Museum",
+                  "text": "An extensive museum complex dedicated to the nation's rich mining history and heavy machinery.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZW-MI",
     coords: [29.8, -18.9],
@@ -831,7 +1587,124 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "nyanga-nature-walk-life-v2",
+    id: "nyanga-nature-walk-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyangombe Falls",
+                  "text": "Dieser beliebte Aussichtspunkt überblickt eine Reihe von kaskadierenden Wasserfällen, wenn der Nyangombe-Fluss über große Felsformationen stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        32.679054,
+                        -18.284887
+                  ]
+            },
+            {
+                  "name": "Pit Structure",
+                  "text": "Diese alte, mit Steinen ausgekleidete Grube im Nyanga-Tal wurde traditionell genutzt, um Vieh während der Nacht unterzubringen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.740205,
+                        -18.284598
+                  ]
+            },
+            {
+                  "name": "Nyangombe Swimming Pool",
+                  "text": "Dieser natürliche Badeplatz wird durch das sandige Flussufer gebildet und bietet einen erfrischenden Rückzugsort in der Nyanga-Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        32.723126,
+                        -18.281084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyangombe Falls",
+                  "text": "Ez a népszerű kilátó a Nyangombe-folyó nagy sziklaalakzatokon lezúduló vízeséseinek sorozatára tekint.",
+                  "category": "natural",
+                  "coords": [
+                        32.679054,
+                        -18.284887
+                  ]
+            },
+            {
+                  "name": "Pit Structure",
+                  "text": "Ezt az ősi, kővel bélelt gödröt a Nyanga-völgyben hagyományosan az állatállomány éjszakai elszállásolására használták.",
+                  "category": "landmark",
+                  "coords": [
+                        32.740205,
+                        -18.284598
+                  ]
+            },
+            {
+                  "name": "Nyangombe Swimming Pool",
+                  "text": "Ezt a természetes fürdőhelyet a folyó homokos partja alakította ki, amely frissítő menedéket nyújt a Nyanga-tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.723126,
+                        -18.281084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyangombe Falls",
+                  "text": "Acest punct de belvedere popular oferă vedere la o serie de cascade în timp ce râul Nyangombe se revarsă peste formațiuni stâncoase mari.",
+                  "category": "natural",
+                  "coords": [
+                        32.679054,
+                        -18.284887
+                  ]
+            },
+            {
+                  "name": "Pit Structure",
+                  "text": "Această groapă antică căptușită cu piatră din valea Nyanga a fost folosită în mod tradițional pentru adăpostirea vitelor pe timpul nopții.",
+                  "category": "landmark",
+                  "coords": [
+                        32.740205,
+                        -18.284598
+                  ]
+            },
+            {
+                  "name": "Nyangombe Swimming Pool",
+                  "text": "Acest loc natural de înot este format de marginea nisipoasă a râului, oferind un refugiu răcoritor în peisajul Nyanga.",
+                  "category": "landmark",
+                  "coords": [
+                        32.723126,
+                        -18.281084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyangombe Falls",
+                  "text": "This popular viewpoint overlooks a cascading series of waterfalls as the Nyangombe River tumbles over large rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        32.679054,
+                        -18.284887
+                  ]
+            },
+            {
+                  "name": "Pit Structure",
+                  "text": "This ancient stone-lined pit in the Nyanga valley was traditionally used for housing livestock during the night.",
+                  "category": "landmark",
+                  "coords": [
+                        32.740205,
+                        -18.284598
+                  ]
+            },
+            {
+                  "name": "Nyangombe Swimming Pool",
+                  "text": "This natural swimming spot is formed by the river's sandy edge, providing a refreshing retreat in the Nyanga landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        32.723126,
+                        -18.281084
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ZW-MA",
     coords: [32.7, -18.3],
@@ -867,7 +1740,52 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "bulawayo-bird-sanctuary-life-v2",
+    id: "bulawayo-bird-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "12443 Nkulumane",
+                  "text": "Eine lokale kulturelle Attraktion im Herzen des lebendigen Wohnviertels.",
+                  "category": "landmark",
+                  "coords": [
+                        28.510341,
+                        -20.185065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "12443 Nkulumane",
+                  "text": "Helyi kulturális látványosság az élénk lakónegyed szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.510341,
+                        -20.185065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "12443 Nkulumane",
+                  "text": "O atracție culturală locală situată în inima cartierului rezidențial plin de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        28.510341,
+                        -20.185065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "12443 Nkulumane",
+                  "text": "A local cultural attraction situated in the heart of the vibrant residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        28.510341,
+                        -20.185065
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ZW-BU",
     coords: [28.5, -20.2],
@@ -939,7 +1857,52 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     },
   },
   {
-    id: "guruve-farming-life-v2",
+    id: "guruve-farming-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tengenenge Museum",
+                  "text": "Ein Museum, das der berühmten Tengenenge-Steinskulpturen-Gemeinschaft gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.943058,
+                        -16.73018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tengenenge Museum",
+                  "text": "A híres Tengenenge kőszobrász közösségnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        30.943058,
+                        -16.73018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tengenenge Museum",
+                  "text": "Un muzeu dedicat celebrei comunități de sculptură în piatră Tengenenge.",
+                  "category": "museum",
+                  "coords": [
+                        30.943058,
+                        -16.73018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tengenenge Museum",
+                  "text": "A museum dedicated to the famous Tengenenge stone sculpture community.",
+                  "category": "museum",
+                  "coords": [
+                        30.943058,
+                        -16.73018
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ZW-MC",
     coords: [31.0, -16.8],

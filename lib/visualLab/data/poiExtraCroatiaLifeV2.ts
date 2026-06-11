@@ -656,7 +656,7 @@ imageHint: "Papuk nature park forest waterfall",
             },
             {
                   "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "Eine kleine katholische Kirche auf dem Gipfel des Sljeme.",
+                  "text": "Die 1932 erbaute Kirche Majke Božje Sljemenske Kraljice Hrvata auf dem Medvednica ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         15.955248,
@@ -730,7 +730,7 @@ imageHint: "Papuk nature park forest waterfall",
             },
             {
                   "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "Kis katolikus templom a Sljeme-csúcs közelében.",
+                  "text": "Az 1932-ben épült Majke Božje Sljemenske Kraljice Hrvata templom a Medvednicán műemlék.",
                   "category": "religious",
                   "coords": [
                         15.955248,
@@ -804,7 +804,7 @@ imageHint: "Papuk nature park forest waterfall",
             },
             {
                   "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "O mică biserică catolică situată pe vârful Sljeme.",
+                  "text": "Biserica Majke Božje Sljemenske Kraljice Hrvata de pe Medvednica, construită în 1932, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         15.955248,
@@ -878,7 +878,7 @@ imageHint: "Papuk nature park forest waterfall",
             },
             {
                   "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "A small Catholic church located on the Sljeme peak.",
+                  "text": "Built in 1932, this church on Medvednica is a heritage-protected site.",
                   "category": "religious",
                   "coords": [
                         15.955248,

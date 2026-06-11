@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraNigerLandmarksV2: POI[] = [
   {
-    "id": "niamey-boubou-hama-museum-landmarks-v2",
+    "id": "niamey-boubou-hama-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National Boubou Hama",
+                  "text": "Dieser weitläufige Museumskomplex, der Kulturpavillons und einen integrierten zoologischen Garten kombiniert, zeigt traditionelle nigerische Architektur und Dinosaurierskelette.",
+                  "category": "museum",
+                  "coords": [
+                        2.10822,
+                        13.512039
+                  ]
+            },
+            {
+                  "name": "Place Djibo Bakary",
+                  "text": "Dieser Denkmalplatz ehrt Djibo Bakary, eine wichtige Figur in Nigers Unabhängigkeitsbewegung und dessen erster einheimischer Regierungschef.",
+                  "category": "historical",
+                  "coords": [
+                        2.109249,
+                        13.514066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National Boubou Hama",
+                  "text": "A kulturális pavilonokat és egy integrált állatkertet ötvöző hatalmas múzeumkomplexum a hagyományos nigeri építészetet és dinoszaurusz csontvázakat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        2.10822,
+                        13.512039
+                  ]
+            },
+            {
+                  "name": "Place Djibo Bakary",
+                  "text": "Ez az emléktér Djibo Bakarynak, a nigeri függetlenségi mozgalom egyik fő alakjának és az ország első őslakos kormányfőjének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        2.109249,
+                        13.514066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National Boubou Hama",
+                  "text": "Combinând pavilioane culturale și un parc zoologic integrat, acest vast complex muzeal expune arhitectură tradițională nigeriană și schelete de dinozauri.",
+                  "category": "museum",
+                  "coords": [
+                        2.10822,
+                        13.512039
+                  ]
+            },
+            {
+                  "name": "Place Djibo Bakary",
+                  "text": "Această piață a monumentului îl onorează pe Djibo Bakary, o figură majoră a mișcării de independență a Nigerului și primul său șef de guvern indigen.",
+                  "category": "historical",
+                  "coords": [
+                        2.109249,
+                        13.514066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boubou Hama National Museum",
+                  "text": "Combining cultural pavilions and an integrated zoological park, this vast museum complex displays traditional Nigerien architecture and dinosaur skeletons.",
+                  "category": "museum",
+                  "coords": [
+                        2.10822,
+                        13.512039
+                  ]
+            },
+            {
+                  "name": "Place Djibo Bakary",
+                  "text": "This monument square honors Djibo Bakary, a major figure in Niger's independence movement and its first indigenous head of government.",
+                  "category": "historical",
+                  "coords": [
+                        2.109249,
+                        13.514066
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -63,7 +144,376 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-grande-mosquee-landmarks-v2",
+    "id": "niamey-grande-mosquee-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point Terrain Musulman",
+                  "text": "Dieser stark befahrenen Kreisverkehr regelt den Verkehrsfluss neben einem großen offenen Feld, das für gemeinsame islamische Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        2.125877,
+                        13.513457
+                  ]
+            },
+            {
+                  "name": "Maison de l'Uranium",
+                  "text": "Dieses dem Bergbausektor Nigers gewidmete Museum zeigt die Geschichte und die wirtschaftlichen Auswirkungen der Uranförderung im Land.",
+                  "category": "museum",
+                  "coords": [
+                        2.141258,
+                        13.493748
+                  ]
+            },
+            {
+                  "name": "Sapka Layiya",
+                  "text": "Eine lokale städtische Attraktion in den belebten Straßen rund um die zentrale Moschee der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.140136,
+                        13.504287
+                  ]
+            },
+            {
+                  "name": "Rond-point Police Secours",
+                  "text": "Dieser Kreisverkehr, der durch die nahe gelegene Notrufzentrale markiert ist, stellt einen wichtigen Knotenpunkt im Notfallnetz der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.1469,
+                        13.508694
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Niamey",
+                  "text": "Dieses großartige islamische Gotteshaus, das stark von Libyen finanziert wurde, verfügt über die größte Kapazität der Stadt und ein imposantes zentrales Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        2.13291,
+                        13.522122
+                  ]
+            },
+            {
+                  "name": "Ceinture Verte",
+                  "text": "Dieses großflächige Naturschutzgebiet ist ein städtischer Grüngürtel, der angelegt wurde, um die Wüstenbildung und Sandstürme aufzuhalten, die die Hauptstadt bedrohen.",
+                  "category": "natural",
+                  "coords": [
+                        2.158163,
+                        13.514569
+                  ]
+            },
+            {
+                  "name": "Centre de formation et de promotion musicale CFPM Taya",
+                  "text": "Dieses musikalische Kunstzentrum widmet sich der Lehre und Erhaltung der reichen traditionellen akustischen Musik Nigers.",
+                  "category": "cultural",
+                  "coords": [
+                        2.138143,
+                        13.519663
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Imam Maleck",
+                  "text": "Dieses islamische Kulturzentrum bietet religiöse Bildung und kommunale Kunstprogramme mit Schwerpunkt auf der malikitischen Rechtsschule.",
+                  "category": "cultural",
+                  "coords": [
+                        2.135293,
+                        13.502388
+                  ]
+            },
+            {
+                  "name": "Village d'Artisanal Wadata",
+                  "text": "Die Handwerker in diesem geschäftigen Kunsthandwerkszentrum stellen traditionellen Tuareg-Schmuck, Lederwaren und kunstvolle Töpferwaren her und verkaufen diese.",
+                  "category": "cultural",
+                  "coords": [
+                        2.144498,
+                        13.512926
+                  ]
+            },
+            {
+                  "name": "Centre culturel Oumarou Ganda",
+                  "text": "Dieses weitläufige Kulturzentrum mit Freiluftamphitheater und Bibliothek ist nach Nigers wegweisendem Filmregisseur benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        2.137288,
+                        13.521216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point Terrain Musulman",
+                  "text": "Ez a forgalmas körforgalom egy nagy, közös iszlám imádságokra használt nyílt térség melletti forgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        2.125877,
+                        13.513457
+                  ]
+            },
+            {
+                  "name": "Maison de l'Uranium",
+                  "text": "A Niger bányászati ágazatának szentelt múzeum az uránkitermelés történetét és az országra gyakorolt gazdasági hatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        2.141258,
+                        13.493748
+                  ]
+            },
+            {
+                  "name": "Sapka Layiya",
+                  "text": "Helyi városi látványosság a város központi mecsetjét körülvevő nyüzsgő utcákban.",
+                  "category": "landmark",
+                  "coords": [
+                        2.140136,
+                        13.504287
+                  ]
+            },
+            {
+                  "name": "Rond-point Police Secours",
+                  "text": "A közeli sürgősségi rendőrőrs által jelzett körforgalom a város veszélyhelyzeti reagálási hálózatának kritikus csomópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        2.1469,
+                        13.508694
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Niamey",
+                  "text": "Ezt a nagyrészt Líbia által finanszírozott hatalmas iszlám istentiszteleti helyet a város legnagyobb befogadóképessége és egy impozáns központi minaret jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        2.13291,
+                        13.522122
+                  ]
+            },
+            {
+                  "name": "Ceinture Verte",
+                  "text": "Ez a nagyszabású természetvédelmi terület egy városi zöldövezet, amelyet a fővárost fenyegető sivatagosodás és homokviharok megállítására telepítettek.",
+                  "category": "natural",
+                  "coords": [
+                        2.158163,
+                        13.514569
+                  ]
+            },
+            {
+                  "name": "Centre de formation et de promotion musicale CFPM Taya",
+                  "text": "Ez a zeneművészeti központ Niger gazdag hagyományos akusztikus zenéjének oktatásának és megőrzésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        2.138143,
+                        13.519663
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Imam Maleck",
+                  "text": "Ez az iszlám kulturális központ vallási oktatást és közösségi művészeti programokat kínál a máliki jogtudományi iskolára összpontosítva.",
+                  "category": "cultural",
+                  "coords": [
+                        2.135293,
+                        13.502388
+                  ]
+            },
+            {
+                  "name": "Village d'Artisanal Wadata",
+                  "text": "A nyüzsgő kézműves központ kézművesei hagyományos tuareg ékszereket, bőrárukat és bonyolult fazekastermékeket készítenek és árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        2.144498,
+                        13.512926
+                  ]
+            },
+            {
+                  "name": "Centre culturel Oumarou Ganda",
+                  "text": "Ez a szabadtéri amfiteátrummal és könyvtárral rendelkező kiterjedt kulturális központ Niger úttörő filmrendezőjéről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        2.137288,
+                        13.521216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point Terrain Musulman",
+                  "text": "Acest sens giratoriu aglomerat gestionează fluxul de trafic adiacent unui câmp deschis mare, folosit pentru rugăciunile islamice comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        2.125877,
+                        13.513457
+                  ]
+            },
+            {
+                  "name": "Maison de l'Uranium",
+                  "text": "Acest muzeu dedicat sectorului minier din Niger expune istoria și impactul economic al extracției de uraniu în țară.",
+                  "category": "museum",
+                  "coords": [
+                        2.141258,
+                        13.493748
+                  ]
+            },
+            {
+                  "name": "Sapka Layiya",
+                  "text": "O atracție urbană locală situată pe străzile pline de viață din jurul zonei moscheii centrale a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        2.140136,
+                        13.504287
+                  ]
+            },
+            {
+                  "name": "Rond-point Police Secours",
+                  "text": "Marcat de stația de poliție de urgență din apropiere, acest sens giratoriu este un nod critic în rețeaua de răspuns la urgențe a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        2.1469,
+                        13.508694
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Niamey",
+                  "text": "Finanțat masiv de Libia, acest măreț lăcaș de cult islamic are cea mai mare capacitate din oraș și un minaret central impunător.",
+                  "category": "religious",
+                  "coords": [
+                        2.13291,
+                        13.522122
+                  ]
+            },
+            {
+                  "name": "Ceinture Verte",
+                  "text": "Această rezervație naturală la scară largă este o centură verde urbană plantată pentru a stopa deșertificarea și furtunile de nisip care amenință capitala.",
+                  "category": "natural",
+                  "coords": [
+                        2.158163,
+                        13.514569
+                  ]
+            },
+            {
+                  "name": "Centre de formation et de promotion musicale CFPM Taya",
+                  "text": "Acest centru de arte muzicale este dedicat predării și conservării bogatei muzici acustice tradiționale din Niger.",
+                  "category": "cultural",
+                  "coords": [
+                        2.138143,
+                        13.519663
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Imam Maleck",
+                  "text": "Acest centru cultural islamic oferă educație religioasă și programe de arte comunitare axate pe școala de jurisprudență Maliki.",
+                  "category": "cultural",
+                  "coords": [
+                        2.135293,
+                        13.502388
+                  ]
+            },
+            {
+                  "name": "Village d'Artisanal Wadata",
+                  "text": "Meșteșugarii din acest centru artizanal aglomerat confecționează și vând manual bijuterii tradiționale tuarege, articole din piele și ceramică complexă.",
+                  "category": "cultural",
+                  "coords": [
+                        2.144498,
+                        13.512926
+                  ]
+            },
+            {
+                  "name": "Centre culturel Oumarou Ganda",
+                  "text": "Având un amfiteatru în aer liber și o bibliotecă, acest centru cultural vast poartă numele regizorului de film pionier din Niger.",
+                  "category": "cultural",
+                  "coords": [
+                        2.137288,
+                        13.521216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point Terrain Musulman",
+                  "text": "This busy roundabout manages traffic flow adjacent to a large open field used for communal Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        2.125877,
+                        13.513457
+                  ]
+            },
+            {
+                  "name": "Maison de l'Uranium",
+                  "text": "This museum dedicated to Niger's mining sector exhibits the history and economic impact of uranium extraction in the country.",
+                  "category": "museum",
+                  "coords": [
+                        2.141258,
+                        13.493748
+                  ]
+            },
+            {
+                  "name": "Sapka Layiya",
+                  "text": "A local urban attraction situated in the bustling streets surrounding the city's central mosque area.",
+                  "category": "landmark",
+                  "coords": [
+                        2.140136,
+                        13.504287
+                  ]
+            },
+            {
+                  "name": "Rond-point Police Secours",
+                  "text": "Marked by the nearby emergency police station, this roundabout is a critical node in the city's emergency response network.",
+                  "category": "landmark",
+                  "coords": [
+                        2.1469,
+                        13.508694
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Niamey",
+                  "text": "Funded heavily by Libya, this grand Islamic place of worship features the largest capacity in the city and an imposing central minaret.",
+                  "category": "religious",
+                  "coords": [
+                        2.13291,
+                        13.522122
+                  ]
+            },
+            {
+                  "name": "Ceinture Verte",
+                  "text": "This large-scale nature reserve is an urban green belt planted to halt desertification and sandstorms threatening the capital.",
+                  "category": "natural",
+                  "coords": [
+                        2.158163,
+                        13.514569
+                  ]
+            },
+            {
+                  "name": "Centre de formation et de promotion musicale CFPM Taya",
+                  "text": "This musical arts center is dedicated to teaching and preserving the rich traditional acoustic music of Niger.",
+                  "category": "cultural",
+                  "coords": [
+                        2.138143,
+                        13.519663
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Imam Maleck",
+                  "text": "This Islamic cultural center provides religious education and community arts programs focused on the Maliki school of jurisprudence.",
+                  "category": "cultural",
+                  "coords": [
+                        2.135293,
+                        13.502388
+                  ]
+            },
+            {
+                  "name": "Village d'Artisanal Wadata",
+                  "text": "Artisans at this bustling crafts center hand-make and sell traditional Tuareg jewelry, leather goods, and intricate pottery.",
+                  "category": "cultural",
+                  "coords": [
+                        2.144498,
+                        13.512926
+                  ]
+            },
+            {
+                  "name": "Centre culturel Oumarou Ganda",
+                  "text": "Featuring an outdoor amphitheater and library, this sprawling cultural center is named after Niger's pioneering film director.",
+                  "category": "cultural",
+                  "coords": [
+                        2.137288,
+                        13.521216
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -303,7 +753,52 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-ccfn-jean-rouch-landmarks-v2",
+    "id": "niamey-ccfn-jean-rouch-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Notre-Dame du Perpétuel Secours",
+                  "text": "Diese große Kathedrale, die als Sitz des katholischen Erzbistums Niamey dient, weist unverwechselbare lokale Architekturelemente auf.",
+                  "category": "religious",
+                  "coords": [
+                        2.110649,
+                        13.517764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Notre-Dame du Perpétuel Secours",
+                  "text": "A Niamey-i katolikus főegyházmegye székhelyeként működő nagy katedrális jellegzetes helyi építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        2.110649,
+                        13.517764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Notre-Dame du Perpétuel Secours",
+                  "text": "Funcționând ca sediu al Arhidiecezei Catolice de Niamey, această catedrală mare prezintă elemente arhitecturale locale distincte.",
+                  "category": "religious",
+                  "coords": [
+                        2.110649,
+                        13.517764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Notre-Dame du Perpétuel Secours",
+                  "text": "Functioning as the seat of the Catholic Archdiocese of Niamey, this large cathedral features distinct local architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        2.110649,
+                        13.517764
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -483,7 +978,412 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-gare-railway-landmarks-v2",
+    "id": "niamey-gare-railway-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boutique de vente de divers articles",
+                  "text": "Dieser vielseitige Laden in der Nähe des Bahnhofs, der durch eine markante windmühlenartige Struktur auffällt, verkauft eine Vielzahl lokaler Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        2.109213,
+                        13.550371
+                  ]
+            },
+            {
+                  "name": "Garbey Hinza",
+                  "text": "Dieser lokale Anziehungspunkt in der Nähe des Bahnhofs von Niamey dient als vertrautes Wahrzeichen des Viertels im belebten Transitbereich.",
+                  "category": "landmark",
+                  "coords": [
+                        2.107587,
+                        13.543626
+                  ]
+            },
+            {
+                  "name": "Place Ibrahim Baré Mainassara",
+                  "text": "Dieser öffentliche Platz in der Nähe des Verkehrsknotenpunkts ist dem ehemaligen Militärführer und Präsidenten Nigers gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        2.129184,
+                        13.550183
+                  ]
+            },
+            {
+                  "name": "Rond Point Mairie Garage",
+                  "text": "Ein verkehrsreicher Kreisverkehr, der den Verkehr um die städtischen Garagenanlagen in Bahnhofsnähe leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        2.124445,
+                        13.536015
+                  ]
+            },
+            {
+                  "name": "Rond point Salou Djibo",
+                  "text": "Diese Verkehrskreuzung ist zu Ehren des nigerischen Armeekommandanten benannt, der 2010 die Übergangsregierung leitete.",
+                  "category": "landmark",
+                  "coords": [
+                        2.144404,
+                        13.539073
+                  ]
+            },
+            {
+                  "name": "salle de jeux",
+                  "text": "Dieser kleine Indoor-Freizeitpark und Spielhalle bietet Unterhaltung und Spielaktivitäten für Reisende in der Nähe des Bahnhofs.",
+                  "category": "recreational",
+                  "coords": [
+                        2.138483,
+                        13.537738
+                  ]
+            },
+            {
+                  "name": "Kokorbado",
+                  "text": "Eine städtische Attraktion inmitten des geschäftigen Bahnhofsviertels, die die alltägliche Straßenkultur von Niamey zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.142019,
+                        13.541744
+                  ]
+            },
+            {
+                  "name": "Kangaweydo",
+                  "text": "Dieser Ort im Viertel nahe dem Bahnhof bereichert das lebhafte Mosaik von Niameys Wohn- und Transitzonen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.120457,
+                        13.59591
+                  ]
+            },
+            {
+                  "name": "Barré pompi",
+                  "text": "Ein strukturelles Denkmal im Bahnhofsviertel, das als lokaler Punkt städtischen Stolzes dient.",
+                  "category": "historical",
+                  "coords": [
+                        2.118525,
+                        13.590937
+                  ]
+            },
+            {
+                  "name": "Château d'eau Tawaye Tawaye",
+                  "text": "Dieser hoch aufragende Beton-Wasserspeicher dominiert die Skyline seines Viertels und fungiert für die Einheimischen als modernes „Schloss“.",
+                  "category": "castle",
+                  "coords": [
+                        2.115272,
+                        13.565943
+                  ]
+            },
+            {
+                  "name": "Fada Ada",
+                  "text": "Ein traditioneller, informeller Treffpunkt im Bahnhofsviertel, an dem Einheimische zusammenkommen, um Kontakte zu knüpfen und den Alltag zu besprechen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.10374,
+                        13.562471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boutique de vente de divers articles",
+                  "text": "A vasútállomás közelében lévő, jellegzetes szélmalomszerű épülettel rendelkező eklektikus bolt különféle helyi árukat árul.",
+                  "category": "landmark",
+                  "coords": [
+                        2.109213,
+                        13.550371
+                  ]
+            },
+            {
+                  "name": "Garbey Hinza",
+                  "text": "Ez a Niamey vasútállomás közelében lévő helyi látványosság ismerős szomszédsági tájékozódási pontként szolgál a nyüzsgő tranzitzónában.",
+                  "category": "landmark",
+                  "coords": [
+                        2.107587,
+                        13.543626
+                  ]
+            },
+            {
+                  "name": "Place Ibrahim Baré Mainassara",
+                  "text": "Ezt a vasúti csomópont közelében lévő közteret Niger korábbi katonai vezetőjének és elnökének szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        2.129184,
+                        13.550183
+                  ]
+            },
+            {
+                  "name": "Rond Point Mairie Garage",
+                  "text": "Forgalmas körforgalom, amely a vasútállomás közelében lévő önkormányzati garázslétesítmények körüli forgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        2.124445,
+                        13.536015
+                  ]
+            },
+            {
+                  "name": "Rond point Salou Djibo",
+                  "text": "Ezt a körforgalmat annak a nigeri hadseregparancsnoknak a tiszteletére nevezték el, aki 2010-ben az átmeneti kormányt vezette.",
+                  "category": "landmark",
+                  "coords": [
+                        2.144404,
+                        13.539073
+                  ]
+            },
+            {
+                  "name": "salle de jeux",
+                  "text": "Ez a kis beltéri vidámpark és játékterem szórakoztató és játéklehetőségeket kínál a vasútállomás közelében lévő utazóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        2.138483,
+                        13.537738
+                  ]
+            },
+            {
+                  "name": "Kokorbado",
+                  "text": "A forgalmas vasúti negyedben megbúvó városi látványosság, amely Niamey mindennapi utcai kultúráját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        2.142019,
+                        13.541744
+                  ]
+            },
+            {
+                  "name": "Kangaweydo",
+                  "text": "Ez az állomás közelében lévő környékbeli helyszín gazdagítja Niamey lakó- és tranzitzónáinak élénk szövevényét.",
+                  "category": "landmark",
+                  "coords": [
+                        2.120457,
+                        13.59591
+                  ]
+            },
+            {
+                  "name": "Barré pompi",
+                  "text": "A vasúti negyedben található építészeti emlékmű, amely a helyi polgári büszkeség szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        2.118525,
+                        13.590937
+                  ]
+            },
+            {
+                  "name": "Château d'eau Tawaye Tawaye",
+                  "text": "Ez a magasba tornyosuló beton víztározó uralja a környék látképét, és egyfajta modern „kastélyként” funkcionál a helyiek számára.",
+                  "category": "castle",
+                  "coords": [
+                        2.115272,
+                        13.565943
+                  ]
+            },
+            {
+                  "name": "Fada Ada",
+                  "text": "Hagyományos, kötetlen gyülekezési hely a vasút környékén, ahová a helyiek társalogni és a mindennapi életet megbeszélni járnak.",
+                  "category": "landmark",
+                  "coords": [
+                        2.10374,
+                        13.562471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boutique de vente de divers articles",
+                  "text": "Marcat de o structură distinctivă asemănătoare unei mori de vânt, acest magazin eclectic din apropierea gării vinde o varietate de bunuri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        2.109213,
+                        13.550371
+                  ]
+            },
+            {
+                  "name": "Garbey Hinza",
+                  "text": "Acest punct de interes local din apropierea Gării Niamey servește drept punct de reper familial al cartierului în zona de tranzit aglomerată.",
+                  "category": "landmark",
+                  "coords": [
+                        2.107587,
+                        13.543626
+                  ]
+            },
+            {
+                  "name": "Place Ibrahim Baré Mainassara",
+                  "text": "Această piață publică din apropierea nodului feroviar este dedicată fostului lider militar și președinte al Nigerului.",
+                  "category": "landmark",
+                  "coords": [
+                        2.129184,
+                        13.550183
+                  ]
+            },
+            {
+                  "name": "Rond Point Mairie Garage",
+                  "text": "Un sens giratoriu aglomerat care ghidează traficul în jurul garajelor municipale din apropierea gării.",
+                  "category": "landmark",
+                  "coords": [
+                        2.124445,
+                        13.536015
+                  ]
+            },
+            {
+                  "name": "Rond point Salou Djibo",
+                  "text": "Această intersecție circulară este numită în onoarea comandantului armatei nigeriene care a condus guvernul de tranziție din 2010.",
+                  "category": "landmark",
+                  "coords": [
+                        2.144404,
+                        13.539073
+                  ]
+            },
+            {
+                  "name": "salle de jeux",
+                  "text": "Acest mic parc tematic acoperit și sală de jocuri oferă activități de divertisment și jocuri pentru călătorii din apropierea gării.",
+                  "category": "recreational",
+                  "coords": [
+                        2.138483,
+                        13.537738
+                  ]
+            },
+            {
+                  "name": "Kokorbado",
+                  "text": "O atracție urbană amplasată în cartierul aglomerat al gării, care prezintă cultura stradală de zi cu zi a orașului Niamey.",
+                  "category": "landmark",
+                  "coords": [
+                        2.142019,
+                        13.541744
+                  ]
+            },
+            {
+                  "name": "Kangaweydo",
+                  "text": "Acest loc din cartier, situat în apropierea gării, se adaugă la tapiseria plină de viață a zonelor rezidențiale și de tranzit din Niamey.",
+                  "category": "landmark",
+                  "coords": [
+                        2.120457,
+                        13.59591
+                  ]
+            },
+            {
+                  "name": "Barré pompi",
+                  "text": "Un monument structural situat în districtul gării, servind drept punct local de mândrie civică.",
+                  "category": "historical",
+                  "coords": [
+                        2.118525,
+                        13.590937
+                  ]
+            },
+            {
+                  "name": "Château d'eau Tawaye Tawaye",
+                  "text": "Acest rezervor de apă din beton impunător domină orizontul cartierului său, funcționând ca un „castel” modern falnic pentru localnici.",
+                  "category": "castle",
+                  "coords": [
+                        2.115272,
+                        13.565943
+                  ]
+            },
+            {
+                  "name": "Fada Ada",
+                  "text": "Un spațiu tradițional de adunare informală din zona gării, unde localnicii vin să socializeze și să discute despre viața de zi cu zi.",
+                  "category": "landmark",
+                  "coords": [
+                        2.10374,
+                        13.562471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boutique de vente de divers articles",
+                  "text": "Mapped with a distinctive windmill-like structure, this eclectic shop near the railway station sells a variety of local goods.",
+                  "category": "landmark",
+                  "coords": [
+                        2.109213,
+                        13.550371
+                  ]
+            },
+            {
+                  "name": "Garbey Hinza",
+                  "text": "This local point of interest near the Niamey Railway Station serves as a familiar neighborhood landmark in the bustling transit area.",
+                  "category": "landmark",
+                  "coords": [
+                        2.107587,
+                        13.543626
+                  ]
+            },
+            {
+                  "name": "Place Ibrahim Baré Mainassara",
+                  "text": "This public square near the railway hub is dedicated to the former military leader and president of Niger.",
+                  "category": "landmark",
+                  "coords": [
+                        2.129184,
+                        13.550183
+                  ]
+            },
+            {
+                  "name": "Rond Point Mairie Garage",
+                  "text": "A busy roundabout landmark navigating traffic around the municipal garage facilities near the station.",
+                  "category": "landmark",
+                  "coords": [
+                        2.124445,
+                        13.536015
+                  ]
+            },
+            {
+                  "name": "Rond point Salou Djibo",
+                  "text": "This circular traffic intersection is named in honor of the Nigerien army commander who led the 2010 transitional government.",
+                  "category": "landmark",
+                  "coords": [
+                        2.144404,
+                        13.539073
+                  ]
+            },
+            {
+                  "name": "salle de jeux",
+                  "text": "This small indoor theme park and arcade room provides entertainment and gaming activities for travelers near the railway station.",
+                  "category": "recreational",
+                  "coords": [
+                        2.138483,
+                        13.537738
+                  ]
+            },
+            {
+                  "name": "Kokorbado",
+                  "text": "An urban attraction nestled in the busy railway district, showcasing the everyday street culture of Niamey.",
+                  "category": "landmark",
+                  "coords": [
+                        2.142019,
+                        13.541744
+                  ]
+            },
+            {
+                  "name": "Kangaweydo",
+                  "text": "This neighborhood site near the station adds to the lively tapestry of Niamey's residential and transit zones.",
+                  "category": "landmark",
+                  "coords": [
+                        2.120457,
+                        13.59591
+                  ]
+            },
+            {
+                  "name": "Barré pompi",
+                  "text": "A structural monument situated in the railway district, standing as a local point of civic pride.",
+                  "category": "historical",
+                  "coords": [
+                        2.118525,
+                        13.590937
+                  ]
+            },
+            {
+                  "name": "Château d'eau Tawaye Tawaye",
+                  "text": "This towering concrete water reservoir dominates the skyline of its neighborhood, functioning as a towering modern \"castle\" for locals.",
+                  "category": "castle",
+                  "coords": [
+                        2.115272,
+                        13.565943
+                  ]
+            },
+            {
+                  "name": "Fada Ada",
+                  "text": "A traditional informal gathering space in the railway area where locals come to socialize and discuss daily life.",
+                  "category": "landmark",
+                  "coords": [
+                        2.10374,
+                        13.562471
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -603,7 +1503,124 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-abdou-moumouni-university-landmarks-v2",
+    "id": "niamey-abdou-moumouni-university-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "girafe",
+                  "text": "Dieses Campus-Denkmal an der Abdou-Moumouni-Universität stellt eine Giraffe dar, ein gefeiertes Symbol der heimischen Tierwelt Nigers.",
+                  "category": "historical",
+                  "coords": [
+                        2.094046,
+                        13.500509
+                  ]
+            },
+            {
+                  "name": "Statue Éléphant FAST",
+                  "text": "Diese Elefantenstatue vor der Fakultät für Naturwissenschaften und Technik symbolisiert Stärke und Ausdauer für die Studenten.",
+                  "category": "historical",
+                  "coords": [
+                        2.095077,
+                        13.501219
+                  ]
+            },
+            {
+                  "name": "Place Amadou Boubacar (AB)",
+                  "text": "Dieser Open-Air-Theaterplatz der Universität ist ein zentraler Treffpunkt für studentische Zusammenkünfte und akademische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.099078,
+                        13.501527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "girafe",
+                  "text": "Az Abdou Moumouni Egyetem campusán található műemlék egy zsiráfot ábrázol, amely a nigeri vadvilág ünnepelt szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        2.094046,
+                        13.500509
+                  ]
+            },
+            {
+                  "name": "Statue Éléphant FAST",
+                  "text": "A Természettudományi és Technológiai Kar épülete előtt álló elefántszobor az erőt és a kitartást szimbolizálja a hallgatók számára.",
+                  "category": "historical",
+                  "coords": [
+                        2.095077,
+                        13.501219
+                  ]
+            },
+            {
+                  "name": "Place Amadou Boubacar (AB)",
+                  "text": "Ez a szabadtéri egyetemi színháztér a hallgatói összejövetelek és akadémiai események központi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        2.099078,
+                        13.501527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "girafe",
+                  "text": "Acest monument din campus, situat la Universitatea Abdou Moumouni, înfățișează o girafă, un simbol celebru al faunei sălbatice din Niger.",
+                  "category": "historical",
+                  "coords": [
+                        2.094046,
+                        13.500509
+                  ]
+            },
+            {
+                  "name": "Statue Éléphant FAST",
+                  "text": "Aflată în fața Facultății de Științe și Tehnologie, această statuie de elefant simbolizează puterea și rezistența pentru studenți.",
+                  "category": "historical",
+                  "coords": [
+                        2.095077,
+                        13.501219
+                  ]
+            },
+            {
+                  "name": "Place Amadou Boubacar (AB)",
+                  "text": "Acest spațiu teatral universitar în aer liber este un centru principal pentru adunările studențești și evenimentele academice.",
+                  "category": "cultural",
+                  "coords": [
+                        2.099078,
+                        13.501527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "girafe",
+                  "text": "This campus monument depicts a giraffe, a celebrated symbol of Niger's native wildlife, located at Abdou Moumouni University.",
+                  "category": "historical",
+                  "coords": [
+                        2.094046,
+                        13.500509
+                  ]
+            },
+            {
+                  "name": "Statue Éléphant FAST",
+                  "text": "Standing outside the Faculty of Science and Technology, this elephant statue symbolizes strength and endurance for the students.",
+                  "category": "historical",
+                  "coords": [
+                        2.095077,
+                        13.501219
+                  ]
+            },
+            {
+                  "name": "Place Amadou Boubacar (AB)",
+                  "text": "This open-air university theater space is a central hub for student gatherings and academic events.",
+                  "category": "cultural",
+                  "coords": [
+                        2.099078,
+                        13.501527
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -663,7 +1680,88 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-china-niger-bridge-landmarks-v2",
+    "id": "niamey-china-niger-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lieu des Activités Culturelles (EMIG)",
+                  "text": "Diese in der Bergbauschule gelegene Kulturhalle beherbergt studentische Theateraufführungen und akademische Feiern nahe der Freundschaftsbrücke.",
+                  "category": "cultural",
+                  "coords": [
+                        2.08754,
+                        13.501464
+                  ]
+            },
+            {
+                  "name": "Centre des Jeunes Karadjé",
+                  "text": "Dieses lebendige Kunstzentrum im Viertel Karadjé bietet kreative Workshops und Kulturprogramme für die örtliche Jugend.",
+                  "category": "cultural",
+                  "coords": [
+                        2.090307,
+                        13.49463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lieu des Activités Culturelles (EMIG)",
+                  "text": "A Bányászati Iskolában található kulturális terem hallgatói színházi előadásoknak és egyetemi ünnepségeknek ad otthont a Barátság híd közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        2.08754,
+                        13.501464
+                  ]
+            },
+            {
+                  "name": "Centre des Jeunes Karadjé",
+                  "text": "Ez a Karadjé negyedben található nyüzsgő művészeti központ kreatív műhelyeket és kulturális programokat kínál a helyi fiataloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        2.090307,
+                        13.49463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lieu des Activités Culturelles (EMIG)",
+                  "text": "Situată la Școala de Mine, această sală culturală găzduiește spectacole de teatru studențesc și ceremonii academice lângă Podul Prieteniei.",
+                  "category": "cultural",
+                  "coords": [
+                        2.08754,
+                        13.501464
+                  ]
+            },
+            {
+                  "name": "Centre des Jeunes Karadjé",
+                  "text": "Acest centru de arte vibrant din districtul Karadjé oferă ateliere creative și programe culturale pentru tinerii din zonă.",
+                  "category": "cultural",
+                  "coords": [
+                        2.090307,
+                        13.49463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lieu des Activités Culturelles (EMIG)",
+                  "text": "Located at the School of Mines, this cultural hall hosts student theater performances and academic ceremonies near the Friendship Bridge.",
+                  "category": "cultural",
+                  "coords": [
+                        2.08754,
+                        13.501464
+                  ]
+            },
+            {
+                  "name": "Centre des Jeunes Karadjé",
+                  "text": "This vibrant arts center in the Karadjé district offers creative workshops and cultural programs for local youth.",
+                  "category": "cultural",
+                  "coords": [
+                        2.090307,
+                        13.49463
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -723,7 +1821,52 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-diori-hamani-airport-landmarks-v2",
+    "id": "niamey-diori-hamani-airport-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "2e Cassis",
+                  "text": "Diese lokale Attraktion befindet sich in der Nähe des Flughafens Diori Hamani in Niamey.",
+                  "category": "landmark",
+                  "coords": [
+                        2.141722,
+                        13.468696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "2e Cassis",
+                  "text": "Ez a helyi látványosság a Diori Hamani repülőtér közelében található Niameyben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.141722,
+                        13.468696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "2e Cassis",
+                  "text": "Această atracție locală este situată în apropiere de Aeroportul Diori Hamani din Niamey.",
+                  "category": "landmark",
+                  "coords": [
+                        2.141722,
+                        13.468696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "2e Cassis",
+                  "text": "This local attraction is located near the Diori Hamani Airport in Niamey.",
+                  "category": "landmark",
+                  "coords": [
+                        2.141722,
+                        13.468696
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -843,7 +1986,88 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-maouretania-cathedral-landmarks-v2",
+    "id": "niamey-maouretania-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place du Capitaine Monteil",
+                  "text": "Dieser Denkmalplatz erinnert an Parfait-Louis Monteil, einen französischen Kolonialoffizier, der Westafrika erkundete.",
+                  "category": "historical",
+                  "coords": [
+                        2.116008,
+                        13.50768
+                  ]
+            },
+            {
+                  "name": "Club des Artistes Jean Baco",
+                  "text": "Dieses lebendige Kunstzentrum, benannt nach dem bekannten lokalen Künstler, veranstaltet Ausstellungen und Live-Auftritte für Niameys kreative Gemeinschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        2.113261,
+                        13.514143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place du Capitaine Monteil",
+                  "text": "Ez az emléktér Parfait-Louis Monteil francia gyarmati katonatisztnek állít emléket, aki Nyugat-Afrikát kutatta.",
+                  "category": "historical",
+                  "coords": [
+                        2.116008,
+                        13.50768
+                  ]
+            },
+            {
+                  "name": "Club des Artistes Jean Baco",
+                  "text": "A neves helyi művészről elnevezett nyüzsgő művészeti központ kiállításoknak és élő előadásoknak ad otthont Niamey kreatív közössége számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.113261,
+                        13.514143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place du Capitaine Monteil",
+                  "text": "Această piață a monumentului îl comemorează pe Parfait-Louis Monteil, un ofițer militar colonial francez care a explorat Africa de Vest.",
+                  "category": "historical",
+                  "coords": [
+                        2.116008,
+                        13.50768
+                  ]
+            },
+            {
+                  "name": "Club des Artistes Jean Baco",
+                  "text": "Numit după remarcabilul artist local, acest centru de arte vibrant găzduiește expoziții și spectacole live pentru comunitatea creativă din Niamey.",
+                  "category": "cultural",
+                  "coords": [
+                        2.113261,
+                        13.514143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place du Capitaine Monteil",
+                  "text": "This monument square commemorates Parfait-Louis Monteil, a French colonial military officer who explored West Africa.",
+                  "category": "historical",
+                  "coords": [
+                        2.116008,
+                        13.50768
+                  ]
+            },
+            {
+                  "name": "Club des Artistes Jean Baco",
+                  "text": "Named after the notable local artist, this vibrant arts center hosts exhibitions and live performances for Niamey's creative community.",
+                  "category": "cultural",
+                  "coords": [
+                        2.113261,
+                        13.514143
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -963,7 +2187,52 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "niamey-ortn-tower-landmarks-v2",
+    "id": "niamey-ortn-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre de Metier de Cuir et d'Art du Niger",
+                  "text": "Dieses in der Nähe des ORTN-Sendeturms gelegene Handwerkszentrum widmet sich der traditionellen Herstellung feiner nigerischer Lederwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        2.103794,
+                        13.527592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre de Metier de Cuir et d'Art du Niger",
+                  "text": "Az ORTN rádiótorony közelében található kézműves központ a finom nigeri bőráruk hagyományos készítésének van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        2.103794,
+                        13.527592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre de Metier de Cuir et d'Art du Niger",
+                  "text": "Situat lângă turnul de difuzare ORTN, acest centru meșteșugăresc este dedicat confecționării tradiționale a articolelor fine din piele din Niger.",
+                  "category": "cultural",
+                  "coords": [
+                        2.103794,
+                        13.527592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre de Metier de Cuir et d'Art du Niger",
+                  "text": "Situated near the ORTN broadcasting tower, this artisanal center is dedicated to the traditional crafting of fine Nigerien leather goods.",
+                  "category": "cultural",
+                  "coords": [
+                        2.103794,
+                        13.527592
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-8",
     "coords": [
@@ -1143,7 +2412,88 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "zinder-grande-mosquee-landmarks-v2",
+    "id": "zinder-grande-mosquee-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soraz",
+                  "text": "Eine historische Festungsanlage nahe der Großen Moschee von Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985928,
+                        13.848311
+                  ]
+            },
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "Der traditionelle Palast des Tuareg-Führers in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soraz",
+                  "text": "Egy történelmi erőd a zinderi Nagymecset közelében.",
+                  "category": "castle",
+                  "coords": [
+                        8.985928,
+                        13.848311
+                  ]
+            },
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "A zinderi tuareg vezető hagyományos palotája.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soraz",
+                  "text": "O structură fortificată istorică situată lângă Marea Moschee din Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985928,
+                        13.848311
+                  ]
+            },
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "Palatul tradițional al conducătorului tuaregilor din Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soraz",
+                  "text": "A historic fortified structure located near the Grand Mosque of Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985928,
+                        13.848311
+                  ]
+            },
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "The traditional palace of the Tuareg chief in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-7",
     "coords": [
@@ -1203,7 +2553,88 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "zinder-fort-tringuier-landmarks-v2",
+    "id": "zinder-fort-tringuier-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "gida",
+                  "text": "Ein befestigtes Gebäude innerhalb des historischen Forts von Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "Das französisch-nigrische Kulturzentrum im historischen Fort von Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990289,
+                        13.804278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "gida",
+                  "text": "Egy erődített épület Zinder történelmi erődjén belül.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "A francia-nigeri kulturális központ Zinder történelmi erődjében.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990289,
+                        13.804278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "gida",
+                  "text": "O clădire fortificată în incinta fortului istoric din Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "Centrul cultural franco-nigerian din fortul istoric din Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990289,
+                        13.804278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "gida",
+                  "text": "A fortified building within the historical Fort of Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "The Franco-Nigerien Cultural Center located in the historic Fort of Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990289,
+                        13.804278
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-7",
     "coords": [
@@ -1383,7 +2814,52 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "tahoua-grande-mosquee-landmarks-v2",
+    "id": "tahoua-grande-mosquee-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "Ein historisches Denkmal in der Nähe der Großen Moschee von Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.264465,
+                        14.890246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "Történelmi emlékmű a tahouai Nagymecset közelében.",
+                  "category": "historical",
+                  "coords": [
+                        5.264465,
+                        14.890246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "Un monument istoric din apropierea Marii Moschei din Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.264465,
+                        14.890246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "A historic monument located near the Grand Mosque of Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.264465,
+                        14.890246
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-5",
     "coords": [
@@ -1503,7 +2979,52 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "tahoua-chef-de-canton-palace-landmarks-v2",
+    "id": "tahoua-chef-de-canton-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "Ein Kunstzentrum in Tahoua, in dem lokale Kunsthandwerker traditionelles nigrisches Kunsthandwerk herstellen und ausstellen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.26708,
+                        14.898374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "Egy tahouai művészeti központ, ahol a helyi kézművesek hagyományos nigeri kézműves termékeket készítenek és állítanak ki.",
+                  "category": "cultural",
+                  "coords": [
+                        5.26708,
+                        14.898374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "Un centru de arte din Tahoua unde artizanii locali creează și expun meșteșuguri tradiționale nigeriene.",
+                  "category": "cultural",
+                  "coords": [
+                        5.26708,
+                        14.898374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "An arts center in Tahoua where local artisans create and display traditional Nigerien crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        5.26708,
+                        14.898374
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-5",
     "coords": [
@@ -1563,7 +3084,52 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     },
   },
   {
-    "id": "maradi-grande-mosquee-landmarks-v2",
+    "id": "maradi-grande-mosquee-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sultanat de Maradi",
+                  "text": "Der befestigte Palastkomplex des Sultanats nahe der Großen Moschee von Maradi.",
+                  "category": "castle",
+                  "coords": [
+                        7.096732,
+                        13.493993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sultanat de Maradi",
+                  "text": "A szultánság erődített palotakomplexuma a maradi Nagymecset közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.096732,
+                        13.493993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sultanat de Maradi",
+                  "text": "Complexul palatului fortificat al Sultanatului de lângă Marea Moschee din Maradi.",
+                  "category": "castle",
+                  "coords": [
+                        7.096732,
+                        13.493993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultanat de Maradi",
+                  "text": "The fortified palace complex of the Sultanate near the Grand Mosque of Maradi.",
+                  "category": "castle",
+                  "coords": [
+                        7.096732,
+                        13.493993
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "NE-4",
     "coords": [

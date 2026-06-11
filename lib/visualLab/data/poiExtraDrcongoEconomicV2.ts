@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraDrcongoEconomicV2: POI[] = [
   {
-    id: "cd-mine-tenke-fungurume-economic-v2",
+    id: "cd-mine-tenke-fungurume-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "TFM Logo",
+                  "text": "Das TFM-Logo ist ein markantes Industriemonument, das die groß angelegten Bergbaubetriebe von Tenke Fungurume repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        26.19232,
+                        -10.566402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TFM Logo",
+                  "text": "A TFM Logo egy kiemelkedő ipari emlékmű, amely a nagyszabású Tenke Fungurume bányászati műveleteket szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        26.19232,
+                        -10.566402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TFM Logo",
+                  "text": "Sigla TFM este un monument industrial proeminent care reprezintă operațiunile miniere pe scară largă de la Tenke Fungurume.",
+                  "category": "historical",
+                  "coords": [
+                        26.19232,
+                        -10.566402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TFM Logo",
+                  "text": "The TFM Logo is a prominent industrial monument representing the large-scale Tenke Fungurume mining operations.",
+                  "category": "historical",
+                  "coords": [
+                        26.19232,
+                        -10.566402
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CD-LU",
     coords: [26.1833, -10.55],
@@ -543,7 +588,88 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     },
   },
   {
-    id: "cd-port-matadi-economic-v2",
+    id: "cd-port-matadi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument aux porteurs",
+                  "text": "Dieses ergreifende Denkmal ehrt die kongolesischen Träger, die vor dem Bau der Eisenbahn schwere Fracht manuell um die unpassierbaren Stromschnellen des Flusses transportierten.",
+                  "category": "historical",
+                  "coords": [
+                        13.497521,
+                        -5.82636
+                  ]
+            },
+            {
+                  "name": "BALLON",
+                  "text": "Dieses markante, ballonförmige Denkmal steht als einzigartiges strukturelles Wahrzeichen in der Nähe des geschäftigen Binnenhafens.",
+                  "category": "historical",
+                  "coords": [
+                        13.470955,
+                        -5.827657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux porteurs",
+                  "text": "Ez a megrendítő emlékmű azokat a kongói hordárokat tiszteli, akik a vasút megépítése előtt kézzel szállították a nehéz rakományt az áthatolhatatlan folyami zuhatagok körül.",
+                  "category": "historical",
+                  "coords": [
+                        13.497521,
+                        -5.82636
+                  ]
+            },
+            {
+                  "name": "BALLON",
+                  "text": "Ez a jellegzetes, ballon alakú emlékmű egyedülálló szerkezeti tájékozódási pontként áll a nyüzsgő belvízi kikötő közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.470955,
+                        -5.827657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux porteurs",
+                  "text": "Acest memorial emoționant îi onorează pe purtătorii congolezi care au transportat manual mărfuri grele în jurul prăpăstiilor impracticabile ale râului, înainte de construirea căii ferate.",
+                  "category": "historical",
+                  "coords": [
+                        13.497521,
+                        -5.82636
+                  ]
+            },
+            {
+                  "name": "BALLON",
+                  "text": "Acest monument distinctiv, în formă de balon, reprezintă un punct de reper structural unic în apropierea aglomeratului port interior.",
+                  "category": "historical",
+                  "coords": [
+                        13.470955,
+                        -5.827657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument for the bearers",
+                  "text": "This poignant memorial honors the Congolese porters who manually transported heavy cargo around the impassable river rapids before the railway was built.",
+                  "category": "historical",
+                  "coords": [
+                        13.497521,
+                        -5.82636
+                  ]
+            },
+            {
+                  "name": "BALLON",
+                  "text": "This distinctive, balloon-shaped monument stands as a unique structural landmark near the bustling inland port.",
+                  "category": "historical",
+                  "coords": [
+                        13.470955,
+                        -5.827657
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CD-KC",
     coords: [13.4667, -5.8167],
@@ -579,7 +705,52 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     },
   },
   {
-    id: "cd-port-banana-economic-v2",
+    id: "cd-port-banana-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pointe de Bulambemba",
+                  "text": "Pointe de Bulambemba ist ein Küstenaussichtspunkt, der weite Panoramen bietet, wo der Kongo auf den Atlantischen Ozean trifft.",
+                  "category": "natural",
+                  "coords": [
+                        12.405508,
+                        -6.025533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pointe de Bulambemba",
+                  "text": "A Pointe de Bulambemba egy tengerparti kilátó, ahonnan lenyűgöző panoráma nyílik arra a pontra, ahol a Kongó folyó az Atlanti-óceánba ömlik.",
+                  "category": "natural",
+                  "coords": [
+                        12.405508,
+                        -6.025533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pointe de Bulambemba",
+                  "text": "Pointe de Bulambemba este un punct de belvedere pe coastă care oferă panorame ample acolo unde fluviul Congo se varsă în Oceanul Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        12.405508,
+                        -6.025533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pointe de Bulambemba",
+                  "text": "Pointe de Bulambemba is a coastal viewpoint offering sweeping panoramas where the Congo River meets the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        12.405508,
+                        -6.025533
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CD-KC",
     coords: [12.4, -6.0167],
@@ -615,7 +786,88 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     },
   },
   {
-    id: "cd-port-boma-economic-v2",
+    id: "cd-port-boma-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "Dieses Denkmal markiert den Standort des ersten kolonialen Militärlagers in der historischen Hafenstadt Boma.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            },
+            {
+                  "name": "Ehemalige Residenz des Generalgouverneurs",
+                  "text": "Dieses erhaltene Kolonialgebäude diente als Sitz der Macht während Bomas Zeit als Hauptstadt und fungiert heute als Museum.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "Ez az emlékmű az első gyarmati katonai tábor helyét jelöli Boma történelmi kikötővárosában.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            },
+            {
+                  "name": "Résidence du Premier Gouverneur Général du Congo",
+                  "text": "Ez a megőrzött gyarmati épület ma múzeumként működik, egykor pedig a hatalom székhelye volt, amikor Boma volt a főváros.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "Acest monument marchează locul primei tabere militare coloniale din orașul portuar istoric Boma.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            },
+            {
+                  "name": "Résidence du Premier Gouverneur Général du Congo",
+                  "text": "Servind ca muzeu, această clădire colonială conservată a fost odată sediul puterii în perioada în care Boma era capitală.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "This monument marks the site of the first colonial military encampment in the historic port town of Boma.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            },
+            {
+                  "name": "Former residence of the Governor-General",
+                  "text": "Serving as a museum, this preserved colonial building was once the seat of power during Boma's time as the capital.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854728
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CD-KC",
     coords: [13.05, -5.85],
@@ -795,7 +1047,52 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     },
   },
   {
-    id: "cd-mine-zongo-ii-economic-v2",
+    id: "cd-mine-zongo-ii-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zongo Falls Viewpoint",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen spektakulären und unverbauten Blick auf die kraftvoll herabstürzenden Wassermassen der Zongo-Fälle.",
+                  "category": "natural",
+                  "coords": [
+                        14.905208,
+                        -4.776605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zongo Falls Viewpoint",
+                  "text": "Ez a magaslati kilátó lenyűgöző és zavartalan panorámát nyújt a lezúduló Zongo-vízesés hatalmas víztömegére.",
+                  "category": "natural",
+                  "coords": [
+                        14.905208,
+                        -4.776605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zongo Falls Viewpoint",
+                  "text": "Acest punct de belvedere înalt oferă o priveliște spectaculoasă și neobstrucționată asupra apelor învolburate ale cascadelor Zongo.",
+                  "category": "natural",
+                  "coords": [
+                        14.905208,
+                        -4.776605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zongo Falls Viewpoint",
+                  "text": "This elevated viewpoint offers a spectacular and unobstructed perspective of the powerfully cascading Zongo Falls.",
+                  "category": "natural",
+                  "coords": [
+                        14.905208,
+                        -4.776605
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CD-KC",
     coords: [14.8833, -4.7833],
@@ -867,7 +1164,196 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     },
   },
   {
-    id: "cd-industry-bralima-economic-v2",
+    id: "cd-industry-bralima-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Teke Humbu",
+                  "text": "Das Centre Culturel Teke Humbu ist ein Kunstzentrum in Kinshasa, das sich der Bewahrung des kulturellen Erbes der Völker Teke und Humbu widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.297542,
+                        -4.346491
+                  ]
+            },
+            {
+                  "name": "Monument President Kasa-Vubu",
+                  "text": "Das Monument President Kasa-Vubu ist ein Denkmal zu Ehren des ersten Präsidenten der Demokratischen Republik Kongo.",
+                  "category": "historical",
+                  "coords": [
+                        15.305114,
+                        -4.338088
+                  ]
+            },
+            {
+                  "name": "Musée national de la République démocratique du Congo",
+                  "text": "Das Nationalmuseum der Demokratischen Republik Kongo präsentiert umfangreiche ethnografische und historische Sammlungen des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        15.299452,
+                        -4.335242
+                  ]
+            },
+            {
+                  "name": "Centre Culturel et Artistique pour les pays d'Afrique centrale",
+                  "text": "Das Centre Culturel et Artistique pour les pays d'Afrique centrale ist ein bedeutender Veranstaltungsort zur Förderung der künstlerischen Zusammenarbeit in den zentralafrikanischen Ländern.",
+                  "category": "cultural",
+                  "coords": [
+                        15.302403,
+                        -4.336066
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "Der Palais du Peuple ist der monumentale Sitz der Nationalversammlung und des Senats der Demokratischen Republik Kongo.",
+                  "category": "historical",
+                  "coords": [
+                        15.303144,
+                        -4.332117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Teke Humbu",
+                  "text": "A Centre Culturel Teke Humbu egy művészeti központ Kinshasában, amely a teke és a humbu nép kulturális örökségének megőrzésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        15.297542,
+                        -4.346491
+                  ]
+            },
+            {
+                  "name": "Monument President Kasa-Vubu",
+                  "text": "A Monument President Kasa-Vubu a Kongói Demokratikus Köztársaság első elnökének emléket állító monumentális alkotás.",
+                  "category": "historical",
+                  "coords": [
+                        15.305114,
+                        -4.338088
+                  ]
+            },
+            {
+                  "name": "Musée national de la République démocratique du Congo",
+                  "text": "A Kongói Demokratikus Köztársaság Nemzeti Múzeuma az ország kiterjedt néprajzi és történelmi gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.299452,
+                        -4.335242
+                  ]
+            },
+            {
+                  "name": "Centre Culturel et Artistique pour les pays d'Afrique centrale",
+                  "text": "A Centre Culturel et Artistique pour les pays d'Afrique centrale egy jelentős helyszín, amely a közép-afrikai nemzetek művészeti együttműködését segíti elő.",
+                  "category": "cultural",
+                  "coords": [
+                        15.302403,
+                        -4.336066
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "A Palais du Peuple a Kongói Demokratikus Köztársaság Nemzetgyűlésének és Szenátusának nagyszabású monumentális székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        15.303144,
+                        -4.332117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Teke Humbu",
+                  "text": "Centre Culturel Teke Humbu este un centru de arte din Kinshasa axat pe păstrarea patrimoniului cultural al popoarelor Teke și Humbu.",
+                  "category": "cultural",
+                  "coords": [
+                        15.297542,
+                        -4.346491
+                  ]
+            },
+            {
+                  "name": "Monument President Kasa-Vubu",
+                  "text": "Monument President Kasa-Vubu este un tribut monumental dedicat primului președinte al Republicii Democrate Congo.",
+                  "category": "historical",
+                  "coords": [
+                        15.305114,
+                        -4.338088
+                  ]
+            },
+            {
+                  "name": "Musée national de la République démocratique du Congo",
+                  "text": "Muzeul Național al Republicii Democrate Congo prezintă ample colecții etnografice și istorice ale țării.",
+                  "category": "museum",
+                  "coords": [
+                        15.299452,
+                        -4.335242
+                  ]
+            },
+            {
+                  "name": "Centre Culturel et Artistique pour les pays d'Afrique centrale",
+                  "text": "Centre Culturel et Artistique pour les pays d'Afrique centrale este un centru important care promovează colaborarea artistică în țările din Africa Centrală.",
+                  "category": "cultural",
+                  "coords": [
+                        15.302403,
+                        -4.336066
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "Palais du Peuple este un sediu monumental grandios al Adunării Naționale și al Senatului Republicii Democrate Congo.",
+                  "category": "historical",
+                  "coords": [
+                        15.303144,
+                        -4.332117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Teke Humbu",
+                  "text": "Centre Culturel Teke Humbu is an arts centre focused on preserving the cultural heritage of the Teke and Humbu people in Kinshasa.",
+                  "category": "cultural",
+                  "coords": [
+                        15.297542,
+                        -4.346491
+                  ]
+            },
+            {
+                  "name": "Monument President Kasa-Vubu",
+                  "text": "Monument President Kasa-Vubu is a monumental tribute dedicated to the first president of the Democratic Republic of the Congo.",
+                  "category": "historical",
+                  "coords": [
+                        15.305114,
+                        -4.338088
+                  ]
+            },
+            {
+                  "name": "Musée national de la République démocratique du Congo",
+                  "text": "The National Museum of the Democratic Republic of the Congo showcases extensive ethnographic and historical collections of the country.",
+                  "category": "museum",
+                  "coords": [
+                        15.299452,
+                        -4.335242
+                  ]
+            },
+            {
+                  "name": "Centre Culturel et Artistique pour les pays d'Afrique centrale",
+                  "text": "The Centre Culturel et Artistique pour les pays d'Afrique centrale is a prominent venue fostering artistic collaboration across Central African nations.",
+                  "category": "cultural",
+                  "coords": [
+                        15.302403,
+                        -4.336066
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "Palais du Peuple is a large monumental seat of the National Assembly and Senate of the Democratic Republic of the Congo.",
+                  "category": "historical",
+                  "coords": [
+                        15.303144,
+                        -4.332117
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CD-KN",
     coords: [15.3, -4.3333],
@@ -1047,7 +1533,52 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     },
   },
   {
-    id: "cd-mine-luiswishi-economic-v2",
+    id: "cd-mine-luiswishi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "CNK",
+                  "text": "CNK ist eine historische festungsähnliche Burgstruktur in der Bergbauregion Luiswishi.",
+                  "category": "castle",
+                  "coords": [
+                        27.542579,
+                        -11.548034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CNK",
+                  "text": "A CNK egy történelmi erődszerű kastélyszerkezet a Luiswishi bányászati ​​régióban.",
+                  "category": "castle",
+                  "coords": [
+                        27.542579,
+                        -11.548034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CNK",
+                  "text": "CNK este o structură istorică tip castel, similară unei fortărețe, situată în regiunea minieră Luiswishi.",
+                  "category": "castle",
+                  "coords": [
+                        27.542579,
+                        -11.548034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CNK",
+                  "text": "CNK is a historic fortress-like castle structure located in the Luiswishi mining region.",
+                  "category": "castle",
+                  "coords": [
+                        27.542579,
+                        -11.548034
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CD-HK",
     coords: [27.4667, -11.5167],

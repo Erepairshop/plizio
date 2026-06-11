@@ -5875,7 +5875,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Gonzaga",
-                  "text": "Eine imposante Festung auf einem Hügel über Messina.",
+                  "text": "Eine 1540 von Antonio Ferramolino erbaute Festung in Messina.",
                   "category": "castle",
                   "coords": [
                         15.54074,
@@ -5884,7 +5884,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellaccio",
-                  "text": "Die Überreste einer alten Burgfestung in Messina.",
+                  "text": "Das Castellaccio (Forte Castellaccio) ist eine Festung aus dem Jahr 1547, die Messina überblickt.",
                   "category": "castle",
                   "coords": [
                         15.542879,
@@ -5949,7 +5949,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Gonzaga",
-                  "text": "Impozáns erőd egy dombon Messina felett.",
+                  "text": "Antonio Ferramolino által 1540-ben épített erőd Messinában.",
                   "category": "castle",
                   "coords": [
                         15.54074,
@@ -5958,7 +5958,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellaccio",
-                  "text": "Egy régi várkastély maradványai Messinában.",
+                  "text": "A Castellaccio (Forte Castellaccio) egy 1547-ben épült erőd, amely Messinára néz.",
                   "category": "castle",
                   "coords": [
                         15.542879,
@@ -6023,7 +6023,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Gonzaga",
-                  "text": "O fortăreață impunătoare pe un deal deasupra orașului Messina.",
+                  "text": "O fortăreață din 1540 proiectată de Antonio Ferramolino în Messina.",
                   "category": "castle",
                   "coords": [
                         15.54074,
@@ -6032,7 +6032,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellaccio",
-                  "text": "Rămășițele unei vechi cetăți din Messina.",
+                  "text": "Castellaccio (Forte Castellaccio) este o fortăreață construită în 1547, cu vedere spre Messina.",
                   "category": "castle",
                   "coords": [
                         15.542879,
@@ -6097,7 +6097,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Gonzaga",
-                  "text": "An imposing fortress on a hill above Messina.",
+                  "text": "A 1540 fortress designed by Antonio Ferramolino in Messina.",
                   "category": "castle",
                   "coords": [
                         15.54074,
@@ -6106,7 +6106,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellaccio",
-                  "text": "The remains of an old castle fortress in Messina.",
+                  "text": "Castellaccio (Forte Castellaccio) is a fortress built in 1547 overlooking Messina.",
                   "category": "castle",
                   "coords": [
                         15.542879,

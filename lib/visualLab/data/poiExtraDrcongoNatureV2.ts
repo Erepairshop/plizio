@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraDrcongoNatureV2: POI[] = [
   {
-    id: "congo-river-nature-v2",
+    id: "congo-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bucht von Diogo Cao",
+                  "text": "Die Baía de Diogo Cão ist eine weite Mündungsbucht an der Mündung des Kongo-Flusses, die den Namen des berühmten Entdeckers trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.437954,
+                        -6.072454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baía de Diogo Cão",
+                  "text": "A Baía de Diogo Cão egy kiterjedt tölcsértorkolati öböl a Kongó-folyó torkolatánál, amely a híres felfedező nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        12.437954,
+                        -6.072454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baía de Diogo Cão",
+                  "text": "Baía de Diogo Cão este un golf estuarin vast situat la gura râului Congo, purtând numele renumitului explorator.",
+                  "category": "landmark",
+                  "coords": [
+                        12.437954,
+                        -6.072454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baía de Diogo Cão",
+                  "text": "Baía de Diogo Cão is a sweeping estuarine bay located at the mouth of the Congo River, bearing the name of the renowned explorer.",
+                  "category": "landmark",
+                  "coords": [
+                        12.437954,
+                        -6.072454
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CD-XX",
     coords: [12.44, -6.08],

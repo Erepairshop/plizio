@@ -145,7 +145,52 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     }
   },
   {
-    id: "bissau-cicer-brauerei-economic-v2",
+    id: "bissau-cicer-brauerei-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol do Ilhéu dos Pássaros",
+                  "text": "Ein isolierter Navigations-Leuchtturm auf einer kleinen, von Vögeln bewohnten Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.590107,
+                        11.821027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol do Ilhéu dos Pássaros",
+                  "text": "Elszigetelt navigációs világítótorony egy kis, madarak lakta szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.590107,
+                        11.821027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol do Ilhéu dos Pássaros",
+                  "text": "Un far de navigație izolat, situat pe o mică insulă locuită de păsări.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.590107,
+                        11.821027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol do Ilhéu dos Pássaros",
+                  "text": "An isolated navigation lighthouse situated on a small, bird-inhabited islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.590107,
+                        11.821027
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GW-BS",
     coords: [-15.58, 11.85],
@@ -913,7 +958,52 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     }
   },
   {
-    id: "bissau-reismuehle-economic-v2",
+    id: "bissau-reismuehle-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ethnográfico",
+                  "text": "Ein ethnografisches Museum, das sich der Bewahrung der vielfältigen indigenen Kulturen und Artefakte der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -15.610802,
+                        11.856866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ethnográfico",
+                  "text": "Néprajzi múzeum, amely a régió változatos őslakos kultúráinak és műtárgyainak megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -15.610802,
+                        11.856866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ethnográfico",
+                  "text": "Un muzeu etnografic dedicat păstrării diverselor culturi indigene și artefactelor regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -15.610802,
+                        11.856866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ethnográfico",
+                  "text": "An ethnographic museum dedicated to preserving the diverse indigenous cultures and artifacts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -15.610802,
+                        11.856866
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GW-BS",
     coords: [-15.62, 11.86],

@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraAlgeriaEconomicV2: POI[] = [
   {
-    id: "port-of-algiers-economic-v2",
+    id: "port-of-algiers-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bounetta Rooftop",
+                  "text": "Das Bounetta Rooftop dient als erhöhter Panoramapunkt mit Blick auf das geschäftige maritime Treiben des Handelshafens.",
+                  "category": "landmark",
+                  "coords": [
+                        3.06168,
+                        36.775431
+                  ]
+            },
+            {
+                  "name": "North Pass",
+                  "text": "Der Leuchtturm am Nordpass dient als wichtige Navigationshilfe, die die nördliche Einfahrt zum Hafen markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        3.07048,
+                        36.778287
+                  ]
+            },
+            {
+                  "name": "North Pier",
+                  "text": "Der Leuchtturm am North Pier steht ganz am Ende des massiven Wellenbrechers und leitet einlaufende Frachtschiffe in den Hafen.",
+                  "category": "landmark",
+                  "coords": [
+                        3.071746,
+                        36.779576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bounetta Rooftop",
+                  "text": "A Bounetta Rooftop egy magasan fekvő panorámás kilátópont, ahonnan a kereskedelmi kikötő nyüzsgő tengeri forgalmát lehet megfigyelni.",
+                  "category": "landmark",
+                  "coords": [
+                        3.06168,
+                        36.775431
+                  ]
+            },
+            {
+                  "name": "North Pass",
+                  "text": "A North Pass világítótorony kulcsfontosságú navigációs segédeszközként működik, és a kikötő északi bejáratát jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        3.07048,
+                        36.778287
+                  ]
+            },
+            {
+                  "name": "North Pier",
+                  "text": "A hatalmas hullámtörő legvégén álló North Pier világítótorony a kikötőbe irányítja az érkező teherhajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        3.071746,
+                        36.779576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bounetta Rooftop",
+                  "text": "Bounetta Rooftop servește ca un punct de belvedere panoramic elevat, cu vedere la activitatea maritimă agitată a portului comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        3.06168,
+                        36.775431
+                  ]
+            },
+            {
+                  "name": "North Pass",
+                  "text": "Farul North Pass funcționează ca un ajutor crucial de navigație care marchează intrarea nordică în port.",
+                  "category": "landmark",
+                  "coords": [
+                        3.07048,
+                        36.778287
+                  ]
+            },
+            {
+                  "name": "North Pier",
+                  "text": "Situat la capătul digului masiv, farul North Pier ghidează navele de marfă care sosesc în port.",
+                  "category": "landmark",
+                  "coords": [
+                        3.071746,
+                        36.779576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bounetta Rooftop",
+                  "text": "Bounetta Rooftop serves as an elevated panoramic viewpoint overlooking the bustling maritime activity of the commercial port.",
+                  "category": "landmark",
+                  "coords": [
+                        3.06168,
+                        36.775431
+                  ]
+            },
+            {
+                  "name": "North Pass",
+                  "text": "The North Pass lighthouse functions as a crucial navigational aid marking the northern sea entrance to the port.",
+                  "category": "landmark",
+                  "coords": [
+                        3.07048,
+                        36.778287
+                  ]
+            },
+            {
+                  "name": "North Pier",
+                  "text": "Standing at the very end of the massive breakwater, the North Pier lighthouse guides incoming cargo vessels safely into the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        3.071746,
+                        36.779576
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-16",
     coords: [3.0645, 36.7758],
@@ -50,7 +167,88 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Le plus grand port maritime d'Algérie, un centre majeur pour le commerce et le trafic international.", "Situé sur le territoire de la République algérienne démocratique et populaire."],
     }, image: "/poi-images/port-of-algiers-economic-v2.webp"},
   {
-    id: "hassi-messaoud-oil-field-economic-v2",
+    id: "hassi-messaoud-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cette 1850 HMD",
+                  "text": "Cette 1850 HMD ist ein Aussichtspunkt in der Erdöl-Stadt Hassi Messaoud, der Blicke auf die umliegenden Wüsten- und Industrieanlagen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.067784,
+                        31.708163
+                  ]
+            },
+            {
+                  "name": "Pépinière et Zoo",
+                  "text": "Die Pépinière et Zoo in Hassi Messaoud vereint eine Gärtnerei mit Tiergehegen und ist eine grüne Oase inmitten der staubigen Erdölfelder.",
+                  "category": "recreational",
+                  "coords": [
+                        6.053662,
+                        31.735141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cette 1850 HMD",
+                  "text": "A Cette 1850 HMD egy kilátó a Hassi Messaoud-i olajvárosban, ahonnan rálátni a környező sivatagi és ipari létesítményekre.",
+                  "category": "natural",
+                  "coords": [
+                        6.067784,
+                        31.708163
+                  ]
+            },
+            {
+                  "name": "Pépinière et Zoo",
+                  "text": "A Hassi Messaoud-i Pépinière et Zoo egy faiskolát és állatkertet ötvöz, zöld oázist teremtve a poros olajmezők között.",
+                  "category": "recreational",
+                  "coords": [
+                        6.053662,
+                        31.735141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cette 1850 HMD",
+                  "text": "Cette 1850 HMD este un punct de belvedere în orașul petrolier Hassi Messaoud, oferind vederi spre peisajul deșertic și facilitățile industriale.",
+                  "category": "natural",
+                  "coords": [
+                        6.067784,
+                        31.708163
+                  ]
+            },
+            {
+                  "name": "Pépinière et Zoo",
+                  "text": "Pépinière et Zoo din Hassi Messaoud combină o pepinieră cu țarcuri pentru animale, fiind o oază verde în mijlocul câmpurilor petroliere prăfuite.",
+                  "category": "recreational",
+                  "coords": [
+                        6.053662,
+                        31.735141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cette 1850 HMD",
+                  "text": "Cette 1850 HMD is a viewpoint in the oil city of Hassi Messaoud, offering views over the surrounding desert and industrial facilities.",
+                  "category": "natural",
+                  "coords": [
+                        6.067784,
+                        31.708163
+                  ]
+            },
+            {
+                  "name": "Pépinière et Zoo",
+                  "text": "The Pépinière et Zoo in Hassi Messaoud combines a plant nursery with animal enclosures, forming a green oasis amid the dusty oil fields.",
+                  "category": "recreational",
+                  "coords": [
+                        6.053662,
+                        31.735141
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DZ-30",
     coords: [6.0667, 31.6833],
@@ -98,7 +296,124 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "hassi-r-mel-gas-field-economic-v2",
+    id: "hassi-r-mel-gas-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "HR001",
+                  "text": "Ein Industriedenkmal, das das historische Entdeckungsbohrloch des riesigen Gasfeldes Hassi R'Mel markiert.",
+                  "category": "historical",
+                  "coords": [
+                        3.269191,
+                        32.932014
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Saiadi Alaid",
+                  "text": "Eine lokale Kultur- und Kunsteinrichtung, die der Gemeinde rund um das Industriegebiet Hassi R'Mel dient.",
+                  "category": "cultural",
+                  "coords": [
+                        3.277752,
+                        32.954135
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "Ein kleiner regionaler Tierpark, der Erholung in der Nähe des Gasfeldes Hassi R'Mel bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183216,
+                        32.949827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HR001",
+                  "text": "Ipari műemlék, amely a hatalmas Hassi R'Mel gázmező történelmi felfedező kútját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        3.269191,
+                        32.932014
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Saiadi Alaid",
+                  "text": "Helyi kulturális és művészeti létesítmény, amely a Hassi R'Mel ipari gázövezet körüli közösséget szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        3.277752,
+                        32.954135
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "Kis regionális állatpark, amely kikapcsolódást nyújt a Hassi R'Mel gázmező közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183216,
+                        32.949827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HR001",
+                  "text": "Un monument industrial care marchează puțul istoric de descoperire a masivului zăcământ de gaze Hassi R'Mel.",
+                  "category": "historical",
+                  "coords": [
+                        3.269191,
+                        32.932014
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Saiadi Alaid",
+                  "text": "O facilitate culturală și de arte locală care deservește comunitatea din jurul zonei industriale de gaze Hassi R'Mel.",
+                  "category": "cultural",
+                  "coords": [
+                        3.277752,
+                        32.954135
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "Un mic parc regional de animale care oferă recreere în apropierea zonei zăcământului de gaze Hassi R'Mel.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183216,
+                        32.949827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HR001",
+                  "text": "An industrial monument marking the historic discovery well of the massive Hassi R'Mel gas field.",
+                  "category": "historical",
+                  "coords": [
+                        3.269191,
+                        32.932014
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Saiadi Alaid",
+                  "text": "A local cultural and arts facility serving the community around the Hassi R'Mel industrial gas zone.",
+                  "category": "cultural",
+                  "coords": [
+                        3.277752,
+                        32.954135
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "A small regional animal park providing recreation near the Hassi R'Mel gas field area.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183216,
+                        32.949827
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DZ-03",
     coords: [3.2667, 32.9333],
@@ -145,7 +460,88 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Découvert en 1956.", "Réserves de gaz gigantesques.", "Alimente des gazoducs vers l'Europe.", "L'un des plus grands au monde.", "Centre de la production de gaz.", "L'un des plus grands champs de gaz naturel au monde et source d'énergie centrale pour l'Europe.", "Situé sur le territoire de la République algérienne démocratique et populaire."],
     }, image: "/poi-images/hassi-r-mel-gas-field-economic-v2.webp"},
   {
-    id: "arzew-petrochemical-port-economic-v2",
+    id: "arzew-petrochemical-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "saint michel",
+                  "text": "Dieser lokale Sandstrand in der Nähe der Hafenanlagen von Arzew bietet einen Rückzugsort an der Küste abseits der Industriezone.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.295301,
+                        35.863196
+                  ]
+            },
+            {
+                  "name": "Parc d'Arzew",
+                  "text": "Dieser lokale Freizeitpark bietet familienfreundliche Vergnügungs- und Fahrgeschäfte inmitten der Küstenregion von Arzew.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323208,
+                        35.851995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "saint michel",
+                  "text": "Az arzewi kikötői létesítmények közelében található helyi homokos strand tengerparti menedéket nyújt az ipari zónától.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.295301,
+                        35.863196
+                  ]
+            },
+            {
+                  "name": "Parc d'Arzew",
+                  "text": "Ez a helyi vidámpark családbarát szórakozást és körhintákat kínál az arzewi tengerparti területen.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323208,
+                        35.851995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "saint michel",
+                  "text": "Situată în apropierea facilităților portuare din Arzew, această plajă locală cu nisip oferă o evadare pe coastă din zona industrială.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.295301,
+                        35.863196
+                  ]
+            },
+            {
+                  "name": "Parc d'Arzew",
+                  "text": "Acest parc tematic local oferă distracție pentru familii și atracții recreative în mijlocul zonei de coastă Arzew.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323208,
+                        35.851995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "saint michel",
+                  "text": "Situated near Arzew's port facilities, this local sandy beach provides a coastal escape from the industrial zone.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.295301,
+                        35.863196
+                  ]
+            },
+            {
+                  "name": "Parc d'Arzew",
+                  "text": "This local theme park provides family-friendly amusement and recreational rides amidst the Arzew coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323208,
+                        35.851995
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-31",
     coords: [-0.3167, 35.8167],
@@ -192,7 +588,952 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["L'un des ports d'exportation de GNL les plus importants au monde.", "Installations majeures pour la production de méthanol.", "Liaison directe par pipeline vers Hassi R'Mel.", "Vastes capacités de stockage de gaz.", "Employeur important dans la ceinture industrielle.", "Logistique portuaire modernisée pour les grands pétroliers."],
     }, image: "/poi-images/arzew-petrochemical-port-economic-v2.webp"},
   {
-    id: "skikda-port-economic-v2",
+    id: "skikda-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Île Srigina Lighthouse",
+                  "text": "Dieser historische Leuchtturm erhebt sich auf der kleinen, felsigen Insel Srigina direkt vor der Küste von Skikda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.886204,
+                        36.937757
+                  ]
+            },
+            {
+                  "name": "Bab Csantina",
+                  "text": "Dieses markante Wahrzeichen in Skikda markiert historisch das Tor in Richtung der Stadt Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909702,
+                        36.876238
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Dieses lokale Museum in Skikda präsentiert faszinierende Exponate zur regionalen Geschichte und zum maritimen Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        6.905328,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "Dieser ausgedehnte Sandstrand ist der Hauptbadestrand entlang der Mittelmeerküste von Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.853495,
+                        36.933189
+                  ]
+            },
+            {
+                  "name": "Plage les Calatines",
+                  "text": "Plage les Calatines ist ein mediterraner Küstenstrand in der Nähe des Hafengebiets von Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.875168,
+                        36.930586
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 2",
+                  "text": "Plage la Carrière 2 ist ein Küstenstrand, der sich entlang der Mittelmeerküste nahe dem Hafen von Skikda erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883221,
+                        36.91306
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 3",
+                  "text": "Plage la Carrière 3 ist ein sandiger Küstenstreifen, der nahe Skikda Zugang zum Mittelmeer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883115,
+                        36.914528
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 1",
+                  "text": "Plage la Carrière 1 ist ein mediterraner Strandabschnitt an der Küste von Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.884142,
+                        36.911827
+                  ]
+            },
+            {
+                  "name": "Plage Miramar",
+                  "text": "Plage Miramar ist ein mediterraner Küstenstrand, der weite Ausblicke auf das Meer bei Skikda bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883331,
+                        36.909585
+                  ]
+            },
+            {
+                  "name": "La Petite Plage",
+                  "text": "La Petite Plage ist eine kleine Küstenbucht, die einen geschützten sandigen Rastplatz in Skikda bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883121,
+                        36.908565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Das Centre Culturel Ali Tlilani ist ein städtisches Kunstzentrum, das lokale Ausstellungen und Gemeindeveranstaltungen in Skikda beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869111
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Das Musée d'el Moujahid in Skikda ist ein regionales Museum, das Artefakte im Zusammenhang mit dem algerischen Unabhängigkeitskrieg aufbewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        6.920261,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Baie de Stora",
+                  "text": "Die Baie de Stora ist eine markante Mittelmeerbucht, die einen großen natürlichen Hafen an der Küste von Skikda bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.951597,
+                        36.909006
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Das Maison de Culture Mohamed Seradj ist ein regionales Kulturzentrum in Skikda, das darstellende Künste und lokale Workshops fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909354,
+                        36.868222
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 2",
+                  "text": "Plage Militaire 2 ist ein mediterraner Küstenstrand, der historisch mit den lokalen militärischen Einrichtungen von Skikda verbunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        6.88612,
+                        36.892741
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Das Théâtre Romain in Skikda ist ein gut erhaltenes antikes römisches Amphitheater, das in den natürlichen Hang gebaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905134,
+                        36.879587
+                  ]
+            },
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "Das Théâtre Régional de Skikda ist ein klassischer Veranstaltungsort für darstellende Künste und dient als Mittelpunkt für moderne Theaterproduktionen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906486,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Das Kulturzentrum Issat Idir fungiert als städtischer Kunst- und Bildungsraum für die Gemeinde von Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910662,
+                        36.875429
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "Der Palast für Kultur und Kunst in Skikda ist eine markante öffentliche Einrichtung, die der Ausrichtung regionaler Kunstausstellungen und kultureller Veranstaltungen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911299,
+                        36.882221
+                  ]
+            },
+            {
+                  "name": "Plage Bikini",
+                  "text": "Plage Bikini ist ein beliebter sandiger Küstenstrand an den mediterranen Gewässern von Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.87995,
+                        36.89796
+                  ]
+            },
+            {
+                  "name": "Plage Molo",
+                  "text": "Plage Molo bietet einen geschützten Strandabschnitt an der Küste, der an die städtischen Uferstrukturen von Skikda grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.880466,
+                        36.904466
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Plage Market ist ein städtischer Küstenstrand in Skikda, der sich in unmittelbarer Nähe zu den lokalen kommerziellen Küstenvierteln befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890393,
+                        36.890251
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Plage Paradis ist ein malerischer Sandstrand am Mittelmeer, der einen sonnigen Erholungsort in Skikda bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883904,
+                        36.894075
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 ist ein mediterraner Strandbereich in Skikda, der für seine frühere Nutzung durch die Streitkräfte der Stadt bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887064,
+                        36.89215
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Das Palais Meriem, auch bekannt als Chateau Bengana, ist eine reich verzierte Burg im maurischen Stil, die auf einem Hügel in Skikda thront.",
+                  "category": "castle",
+                  "coords": [
+                        6.897141,
+                        36.886594
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert ist ein weitläufiger Küstenstrand mit direktem Zugang zum Mittelmeer, der von den felsigen Hängen von Skikda gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895435,
+                        36.888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Île Srigina Lighthouse",
+                  "text": "Ez a történelmi világítótorony a Skikda partjainál fekvő kis, sziklás Srigina-szigeten emelkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.886204,
+                        36.937757
+                  ]
+            },
+            {
+                  "name": "Bab Csantina",
+                  "text": "Ez a Skikdában található feltűnő nevezetesség történelmileg a Constantine városa felé vezető kaput jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909702,
+                        36.876238
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Ez a helyi múzeum Skikdában a regionális történelem és a tengeri örökség lenyűgöző kiállítási tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.905328,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "Ez a kiterjedt homokos strand a fő fürdőzőhely Skikda mediterrán partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.853495,
+                        36.933189
+                  ]
+            },
+            {
+                  "name": "Plage les Calatines",
+                  "text": "A Plage les Calatines egy homokos mediterrán tengerparti strand Skikda kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.875168,
+                        36.930586
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 2",
+                  "text": "A Plage la Carrière 2 egy tengerparti strand a Földközi-tenger partján, a skikdai kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883221,
+                        36.91306
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 3",
+                  "text": "A Plage la Carrière 3 egy homokos partvidék, amely hozzáférést biztosít a Földközi-tengerhez Skikda közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883115,
+                        36.914528
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 1",
+                  "text": "A helyi partvonal részét képező Plage la Carrière 1 egy mediterrán strandövezet Skikdában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.884142,
+                        36.911827
+                  ]
+            },
+            {
+                  "name": "Plage Miramar",
+                  "text": "A Plage Miramar egy mediterrán tengerparti strand, amely festői kilátást nyújt a tengerre Skikda vizénél.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883331,
+                        36.909585
+                  ]
+            },
+            {
+                  "name": "La Petite Plage",
+                  "text": "A La Petite Plage egy kis partmenti öböl, amely védett, homokos pihenőhelyet kínál Skikdában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883121,
+                        36.908565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "A Centre Culturel Ali Tlilani egy városi művészeti központ, amely helyi kiállításoknak és közösségi eseményeknek ad otthont Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869111
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "A skikdai Musée d'el Moujahid egy regionális múzeum, amely az algériai függetlenségi háborúhoz kapcsolódó emlékeket őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        6.920261,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Baie de Stora",
+                  "text": "A Baie de Stora egy kiemelkedő mediterrán öböl, amely hatalmas természetes kikötőt képez Skikda partvonalán.",
+                  "category": "landmark",
+                  "coords": [
+                        6.951597,
+                        36.909006
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "A Maison de Culture Mohamed Seradj egy regionális kulturális központ Skikdában, amely előadóművészeteket és helyi workshopokat támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909354,
+                        36.868222
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 2",
+                  "text": "A Plage Militaire 2 egy mediterrán tengerparti strand, amely történelmileg Skikda helyi katonai létesítményeihez kötődik.",
+                  "category": "recreational",
+                  "coords": [
+                        6.88612,
+                        36.892741
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "A skikdai Théâtre Romain egy fennmaradt ókori római amfiteátrum, amelyet a természetes domboldalba építettek.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905134,
+                        36.879587
+                  ]
+            },
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "A Théâtre Régional de Skikda egy klasszikus előadóművészeti helyszín, amely a város modern színházi produkcióinak központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906486,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Az Issat Idir Kulturális Központ városi művészeti és oktatási térként működik Skikda közössége számára.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910662,
+                        36.875429
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "A skikdai Kultúra és Művészetek Palotája egy kiemelkedő közintézmény, amely regionális művészeti kiállításoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911299,
+                        36.882221
+                  ]
+            },
+            {
+                  "name": "Plage Bikini",
+                  "text": "A Plage Bikini egy népszerű homokos tengerparti strand Skikda mediterrán vizeinél.",
+                  "category": "recreational",
+                  "coords": [
+                        6.87995,
+                        36.89796
+                  ]
+            },
+            {
+                  "name": "Plage Molo",
+                  "text": "A Plage Molo egy védett tengerparti sávot kínál, amely a skikdai városi vízparti építmények mellett fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        6.880466,
+                        36.904466
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "A Plage Market egy városi tengerparti strand Skikdában, közel a helyi kereskedelmi negyedekhez a tenger felé nézve.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890393,
+                        36.890251
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "A Plage Paradis egy festői homokos part a Földközi-tenger mentén, amely napos kikapcsolódási lehetőséget nyújt Skikdában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883904,
+                        36.894075
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "A Plage Militaire 1 egy mediterrán tengerparti terület Skikdában, amely a fegyveres erők általi egykori használatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887064,
+                        36.89215
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "A Palais Meriem, más néven Chateau Bengana, egy díszes, mór stílusú építészeti kastély, amely egy dombon magasodik Skikdában.",
+                  "category": "castle",
+                  "coords": [
+                        6.897141,
+                        36.886594
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "A Plage Château Vert egy kiterjedt tengerparti strand, amely közvetlen hozzáférést kínál a Földközi-tengerhez, Skikda sziklás lejtőivel övezve.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895435,
+                        36.888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Île Srigina Lighthouse",
+                  "text": "Acest far istoric se înalță pe mica insulă stâncoasă Srigina, chiar în largul coastei Skikda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.886204,
+                        36.937757
+                  ]
+            },
+            {
+                  "name": "Bab Csantina",
+                  "text": "Acest punct de reper impresionant din Skikda marchează istoric poarta către orașul Constantin.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909702,
+                        36.876238
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Acest muzeu local din Skikda prezintă exponate fascinante din istoria regională și moștenirea maritimă.",
+                  "category": "museum",
+                  "coords": [
+                        6.905328,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "Această plajă extinsă de nisip este principala zonă de înot de-a lungul coastei mediteraneene din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.853495,
+                        36.933189
+                  ]
+            },
+            {
+                  "name": "Plage les Calatines",
+                  "text": "Plage les Calatines este o plajă de coastă la Marea Mediterană, situată în apropierea zonei portuare din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.875168,
+                        36.930586
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 2",
+                  "text": "Plage la Carrière 2 este o plajă de coastă cu deschidere la Marea Mediterană, aproape de portul Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883221,
+                        36.91306
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 3",
+                  "text": "Plage la Carrière 3 este o fâșie de nisip de coastă ce oferă acces la Marea Mediterană în apropiere de Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883115,
+                        36.914528
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 1",
+                  "text": "Formând o parte a țărmului local, Plage la Carrière 1 este o zonă de plajă mediteraneană situată în Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.884142,
+                        36.911827
+                  ]
+            },
+            {
+                  "name": "Plage Miramar",
+                  "text": "Plage Miramar este o plajă mediteraneană de coastă ce oferă vederi pitorești spre apele din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883331,
+                        36.909585
+                  ]
+            },
+            {
+                  "name": "La Petite Plage",
+                  "text": "La Petite Plage este un mic golf de coastă care oferă un loc de odihnă nisipos și adăpostit în Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883121,
+                        36.908565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Centre Culturel Ali Tlilani este un centru de arte urban ce găzduiește expoziții locale și evenimente comunitare în Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869111
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Muzeul d'el Moujahid din Skikda este un muzeu regional ce conservă artefacte legate de războiul de independență al Algeriei.",
+                  "category": "museum",
+                  "coords": [
+                        6.920261,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Baie de Stora",
+                  "text": "Baie de Stora este un golf mediteranean proeminent care formează un port natural mare de-a lungul coastei din Skikda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.951597,
+                        36.909006
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Maison de Culture Mohamed Seradj este un centru cultural regional din Skikda care sprijină artele spectacolului și atelierele comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909354,
+                        36.868222
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 2",
+                  "text": "Plage Militaire 2 este o plajă mediteraneană de coastă asociată istoric cu instalațiile militare locale din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.88612,
+                        36.892741
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Théâtre Romain din Skikda este un amfiteatru antic roman conservat, construit în versantul natural, reflectând originile antice ale orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905134,
+                        36.879587
+                  ]
+            },
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "Teatrul Regional din Skikda este un loc de desfășurare a artelor spectacolului clasic, servind ca punct central pentru producțiile teatrale moderne ale orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906486,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Centrul Cultural Issat Idir funcționează ca un spațiu urban de educație și arte pentru comunitatea din Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910662,
+                        36.875429
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "Palatul Culturii și Artelor din Skikda este o instituție publică proeminentă dedicată găzduirii expozițiilor de artă regionale și evenimentelor culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911299,
+                        36.882221
+                  ]
+            },
+            {
+                  "name": "Plage Bikini",
+                  "text": "Plage Bikini este o plajă populară de nisip situată pe coasta mediteraneană din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.87995,
+                        36.89796
+                  ]
+            },
+            {
+                  "name": "Plage Molo",
+                  "text": "Plage Molo oferă o fâșie protejată de plajă, situată adiacent structurilor urbane de pe malul apei din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.880466,
+                        36.904466
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Plage Market este o plajă urbană de coastă în Skikda, situată în imediata apropiere a cartierelor comerciale locale orientate spre mare.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890393,
+                        36.890251
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Plage Paradis este o plajă de nisip pitorească, amplasată la Marea Mediterană, oferind un loc de recreere însorit în Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883904,
+                        36.894075
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 este o zonă de plajă mediteraneană în Skikda, cunoscută pentru utilizarea sa anterioară de către forțele armate ale orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887064,
+                        36.89215
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Palais Meriem, cunoscut și sub numele de Chateau Bengana, este un castel cu o arhitectură maură ornată, situat pe un deal în Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897141,
+                        36.886594
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert este o plajă vastă de coastă care oferă acces direct la Marea Mediterană, fiind mărginită de pantele stâncoase ale orașului Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895435,
+                        36.888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Île Srigina Lighthouse",
+                  "text": "This historic lighthouse rises on the small, rocky Srigina Island just off the coast of Skikda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.886204,
+                        36.937757
+                  ]
+            },
+            {
+                  "name": "Bab Csantina",
+                  "text": "This prominent landmark in Skikda historically marks the gate leading towards the city of Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909702,
+                        36.876238
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "This local museum in Skikda presents fascinating exhibits related to the regional history and maritime heritage.",
+                  "category": "museum",
+                  "coords": [
+                        6.905328,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "This extensive sandy stretch is the main bathing beach along the Mediterranean coast of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.853495,
+                        36.933189
+                  ]
+            },
+            {
+                  "name": "Plage les Calatines",
+                  "text": "Plage les Calatines is a coastal Mediterranean beach stretching near the port area of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.875168,
+                        36.930586
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 2",
+                  "text": "Plage la Carrière 2 is a coastal beach nestled along the Mediterranean shoreline near Skikda's port.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883221,
+                        36.91306
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 3",
+                  "text": "Plage la Carrière 3 is a sandy coastal strip offering Mediterranean sea access near Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883115,
+                        36.914528
+                  ]
+            },
+            {
+                  "name": "Plage la Carrière 1",
+                  "text": "Forming part of the local shoreline, Plage la Carrière 1 is a Mediterranean beach area located in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.884142,
+                        36.911827
+                  ]
+            },
+            {
+                  "name": "Plage Miramar",
+                  "text": "Plage Miramar is a coastal Mediterranean beach offering scenic seaside views over the waters of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883331,
+                        36.909585
+                  ]
+            },
+            {
+                  "name": "La Petite Plage",
+                  "text": "La Petite Plage is a small coastal inlet providing a sheltered sandy resting spot in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883121,
+                        36.908565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Centre Culturel Ali Tlilani is an urban arts center hosting local exhibitions and community events in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869111
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "The Musée d'el Moujahid in Skikda is a dedicated regional museum preserving artifacts related to the Algerian war of independence.",
+                  "category": "museum",
+                  "coords": [
+                        6.920261,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Baie de Stora",
+                  "text": "Baie de Stora is a prominent Mediterranean bay forming a large natural harbor along the coastline of Skikda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.951597,
+                        36.909006
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Maison de Culture Mohamed Seradj is a regional cultural hub in Skikda that supports performing arts and local community workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909354,
+                        36.868222
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 2",
+                  "text": "Plage Militaire 2 is a coastal Mediterranean beach historically associated with the local military installations of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.88612,
+                        36.892741
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "The Théâtre Romain in Skikda is a preserved ancient Roman amphitheater built into the natural hillside, reflecting the city's ancient origins.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905134,
+                        36.879587
+                  ]
+            },
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "The Théâtre Régional de Skikda is a classical performing arts venue serving as a focal point for the city's modern theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906486,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Issat Idir Cultural Centre",
+                  "text": "The Issat Idir Cultural Centre operates as an urban arts and education space for the community of Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910662,
+                        36.875429
+                  ]
+            },
+            {
+                  "name": "Palace of Culture and Arts",
+                  "text": "The Palace of Culture and Arts in Skikda is a prominent public facility dedicated to hosting regional art exhibitions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911299,
+                        36.882221
+                  ]
+            },
+            {
+                  "name": "Plage Bikini",
+                  "text": "Plage Bikini is a popular sandy coastal beach along the Mediterranean waters of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.87995,
+                        36.89796
+                  ]
+            },
+            {
+                  "name": "Plage Molo",
+                  "text": "Plage Molo offers a sheltered strip of coastal beach adjacent to the urban waterfront structures of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.880466,
+                        36.904466
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Plage Market is an urban coastal beach in Skikda, situated closely to local commercial sea-facing districts.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890393,
+                        36.890251
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Plage Paradis is a scenic sandy beach nestled against the Mediterranean sea, providing a sunny recreational spot in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883904,
+                        36.894075
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 is a Mediterranean beach area in Skikda, known for its past use by the city's armed forces.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887064,
+                        36.89215
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Palais Meriem, also known as Chateau Bengana, is an ornate Moorish-revival architectural castle perched on a hill in Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897141,
+                        36.886594
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert is a sweeping coastal beach offering direct Mediterranean Sea access bordered by the rocky slopes of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895435,
+                        36.888
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-21",
     coords: [6.9083, 36.8797],
@@ -239,7 +1580,52 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Abrite l'une des plus grandes raffineries d'Algérie.", "Exporte de l'éthylène et du polyéthylène.", "Hub important pour le commerce international.", "La situation sur la Méditerranée permet une exportation rapide.", "Vastes installations pétrochimiques.", "Dispose d'une infrastructure portuaire moderne."],
     }, image: "/poi-images/skikda-port-economic-v2.webp"},
   {
-    id: "el-hadjar-steel-economic-v2",
+    id: "el-hadjar-steel-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cite 800 log chahmi",
+                  "text": "Diese belebte Wohnsiedlung in El Hadjar spiegelt das städtische und alltägliche Leben der Industriestadt wider.",
+                  "category": "landmark",
+                  "coords": [
+                        7.722647,
+                        36.830255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cite 800 log chahmi",
+                  "text": "Ez az El Hadjar-i nyüzsgő lakótelep az iparváros városi és mindennapi életét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.722647,
+                        36.830255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cite 800 log chahmi",
+                  "text": "Acest complex rezidențial plin de viață din El Hadjar reflectă viața urbană și de zi cu zi a orașului industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        7.722647,
+                        36.830255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cite 800 log chahmi",
+                  "text": "This bustling residential complex in El Hadjar reflects the urban and everyday life of the industrial city.",
+                  "category": "landmark",
+                  "coords": [
+                        7.722647,
+                        36.830255
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DZ-23",
     coords: [7.7208, 36.8042],
@@ -286,7 +1672,88 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Mise en service dans les années 1960.", "Capacité de production de plus de 2 millions de tonnes d'acier par an.", "Situé à environ 12 kilomètres au sud d'Annaba.", "Emploie des milliers de collaborateurs.", "Construit à l'origine avec la technologie soviétique.", "Produit de l'acier pour la construction, l'automobile et l'électroménager.", "Le complexe comprend sa propre centrale électrique et des cokeries.", "Étroitement lié à la mine de fer de l'Ouenza."],
     }, image: "/poi-images/el-hadjar-steel-economic-v2.webp"},
   {
-    id: "port-of-oran-economic-v2",
+    id: "port-of-oran-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "Dieser familienfreundliche Vergnügungspark in Oran bietet klassische Fahrgeschäfte und Erholungsflächen.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634307,
+                        35.684844
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi",
+                  "text": "Dieses kulturelle Konservatorium in der Stadt Oran widmet sich der regionalen Musik und den darstellenden Künsten.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644712,
+                        35.704108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "Ez az oran-i családbarát vidámpark klasszikus játékokkal és rekreációs terekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634307,
+                        35.684844
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi",
+                  "text": "Az Oran városában található kulturális konzervatórium a regionális zenének és az előadóművészeteknek szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644712,
+                        35.704108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "Acest parc de distracții pentru familii din Oran oferă atracții clasice și spații de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634307,
+                        35.684844
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi",
+                  "text": "Dedicat muzicii regionale și artelor spectacolului, acest conservator cultural este situat în orașul Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644712,
+                        35.704108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "This family-friendly amusement park in Oran features classic rides and recreational spaces.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634307,
+                        35.684844
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi",
+                  "text": "Dedicated to regional music and performing arts, this cultural conservatory is situated in the city of Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644712,
+                        35.704108
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-31",
     coords: [-0.6397, 35.7061],
@@ -333,7 +1800,772 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Deuxième plus grand port d'Algérie après Alger.", "Trafic annuel de marchandises de plusieurs millions de tonnes.", "Liaisons régulières par ferry vers Marseille, Alicante et Almería.", "Point de transit majeur pour l'importation de céréales et autres denrées.", "Le terminal à conteneurs moderne a été agrandi ces dernières années.", "Le port est situé à l'abri dans une baie naturelle.", "Joue un rôle clé dans l'économie de toute la région d'Oran.", "L'histoire du port remonte à plus de 2000 ans."],
     }, image: "/poi-images/port-of-oran-economic-v2.webp"},
   {
-    id: "port-of-bejaia-economic-v2",
+    id: "port-of-bejaia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pointe Noir",
+                  "text": "Bemerkenswerter Küstenpunkt und Attraktion in der Nähe des Hafens von Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.107221,
+                        36.768974
+                  ]
+            },
+            {
+                  "name": "Cap Bouak",
+                  "text": "Markante Küstenlandzunge mit weitem Blick auf das Mittelmeer bei Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.106159,
+                        36.760145
+                  ]
+            },
+            {
+                  "name": "Pic des singes",
+                  "text": "Malerischer Bergaussichtspunkt in Béjaïa, der berühmt dafür ist, von Berberaffen bewohnt zu sein.",
+                  "category": "natural",
+                  "coords": [
+                        5.096163,
+                        36.769542
+                  ]
+            },
+            {
+                  "name": "Citernes Romaines",
+                  "text": "Antike römische Wasserzisternen, die historische Ingenieurskunst in der Nähe des Hafens von Béjaïa zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083438,
+                        36.757005
+                  ]
+            },
+            {
+                  "name": "Brise de Mer",
+                  "text": "Angenehme Küstenpromenade, die frische Meeresbrisen in Béjaïa bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.093697,
+                        36.757068
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Feierliches Denkmal aus Stein, das den gefallenen Soldaten gewidmet ist und sich in Béjaïa befindet.",
+                  "category": "historical",
+                  "coords": [
+                        5.086607,
+                        36.754975
+                  ]
+            },
+            {
+                  "name": "Porte Fouka",
+                  "text": "Historisches Bogentor, das einst Teil der mittelalterlichen Befestigungsanlagen von Béjaïa war.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081259,
+                        36.754967
+                  ]
+            },
+            {
+                  "name": "Fort Lemercier",
+                  "text": "Eine auf einem Hügel gelegene Festung, die einen weiten Blick über die Mittelmeerküste und die darunter liegende Stadt bietet.",
+                  "category": "castle",
+                  "coords": [
+                        5.068297,
+                        36.76635
+                  ]
+            },
+            {
+                  "name": "Pointe Mezaïa",
+                  "text": "Eine felsige Küstenspitze, die ins Mittelmeer ragt und einen malerischen Ort zur Meeresbeobachtung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.014914,
+                        36.806919
+                  ]
+            },
+            {
+                  "name": "Cap Carbon",
+                  "text": "Ein hoch aufragender maritimer Leuchtturm, der auf zerklüfteten Klippen thront und das Mittelmeer überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.103148,
+                        36.7761
+                  ]
+            },
+            {
+                  "name": "Tamalaht",
+                  "text": "Ein schattiger Picknickplatz, an dem Besucher inmitten der natürlichen Küstenlandschaft entspannen können.",
+                  "category": "landmark",
+                  "coords": [
+                        5.09611,
+                        36.773332
+                  ]
+            },
+            {
+                  "name": "Parc national de Gouraya",
+                  "text": "Ein geschütztes Naturschutzgebiet, das die Küstenklippen und den markanten Berg Yemma Gouraya umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        5.039087,
+                        36.780602
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 15",
+                  "text": "Eine abgestufte Sitzstruktur, die für lokale Aufführungen und Bildungsveranstaltungen konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        5.03885,
+                        36.751033
+                  ]
+            },
+            {
+                  "name": "amphithéâtre n°3",
+                  "text": "Ein Freiluft- oder überdachter Theaterraum mit angeordneten Sitzplätzen für das Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035834,
+                        36.751476
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre n°16",
+                  "text": "Ein dedizierter Theaterraum mit gestuften Reihen, der für die Aufnahme großer Gruppen ausgelegt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035715,
+                        36.749892
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 12",
+                  "text": "Ein gestufter Veranstaltungsort, der klare Sichtlinien für Zuschauer bei geplanten Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.037301,
+                        36.750715
+                  ]
+            },
+            {
+                  "name": "Nateur Plage",
+                  "text": "Ein sandiger Küstenstrand, an dem die Wellen des Mittelmeers auf das Ufer treffen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.017217,
+                        36.793285
+                  ]
+            },
+            {
+                  "name": "Yemma Yamna",
+                  "text": "Eine historische Ruinenstätte an einem rauen Pfad, welche die antike Vergangenheit der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        5.073873,
+                        36.772215
+                  ]
+            },
+            {
+                  "name": "Aire de repos",
+                  "text": "Ein angelegter Freizeitpark mit Einrichtungen für eine erholsame Pause.",
+                  "category": "recreational",
+                  "coords": [
+                        5.089175,
+                        36.769096
+                  ]
+            },
+            {
+                  "name": "Yemma Gouraya",
+                  "text": "Ein markanter Gipfel und ein kulturelles Wahrzeichen, das sich dramatisch über die Mittelmeerküste erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081294,
+                        36.770765
+                  ]
+            },
+            {
+                  "name": "Bordj Moussa",
+                  "text": "Ein lokales Museum in historischen Mauern, das regionale Artefakte und Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.083659,
+                        36.755111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pointe Noir",
+                  "text": "Nevezetes part menti pont és látványosság Béjaïa kikötője közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.107221,
+                        36.768974
+                  ]
+            },
+            {
+                  "name": "Cap Bouak",
+                  "text": "Kiemelkedő tengerparti hegyfok, ahonnan pazar kilátás nyílik a Földközi-tengerre Béjaïa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.106159,
+                        36.760145
+                  ]
+            },
+            {
+                  "name": "Pic des singes",
+                  "text": "Festői hegyi kilátó Béjaïában, amelyet híresen berber makákók laknak.",
+                  "category": "natural",
+                  "coords": [
+                        5.096163,
+                        36.769542
+                  ]
+            },
+            {
+                  "name": "Citernes Romaines",
+                  "text": "Ókori római víztározók, amelyek a történelmi mérnöki munkát mutatják be Béjaïa kikötője közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083438,
+                        36.757005
+                  ]
+            },
+            {
+                  "name": "Brise de Mer",
+                  "text": "Kellemes tengerparti sétány, amely friss tengeri szellőt kínál Béjaïában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.093697,
+                        36.757068
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Az elesett katonáknak szentelt ünnepélyes kő emlékmű Béjaïában.",
+                  "category": "historical",
+                  "coords": [
+                        5.086607,
+                        36.754975
+                  ]
+            },
+            {
+                  "name": "Porte Fouka",
+                  "text": "Történelmi boltíves kapu, amely egykor Béjaïa középkori erődítményeinek része volt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081259,
+                        36.754967
+                  ]
+            },
+            {
+                  "name": "Fort Lemercier",
+                  "text": "Egy dombtetőn álló erődítmény, amely széles kilátást nyújt a Földközi-tenger partvidékére és az alatta elterülő városra.",
+                  "category": "castle",
+                  "coords": [
+                        5.068297,
+                        36.76635
+                  ]
+            },
+            {
+                  "name": "Pointe Mezaïa",
+                  "text": "A Földközi-tengerbe nyúló sziklás partfok, amely festői helyet kínál a tenger megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        5.014914,
+                        36.806919
+                  ]
+            },
+            {
+                  "name": "Cap Carbon",
+                  "text": "Egy magasodó tengeri világítótorony, amely a Földközi-tengerre néző, zord sziklákon magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        5.103148,
+                        36.7761
+                  ]
+            },
+            {
+                  "name": "Tamalaht",
+                  "text": "Egy árnyékos piknikezőhely, ahol a látogatók a természetes tengerparti tájban pihenhetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        5.09611,
+                        36.773332
+                  ]
+            },
+            {
+                  "name": "Parc national de Gouraya",
+                  "text": "Egy védett természetvédelmi terület, amely magában foglalja a tengerparti sziklákat és az ikonikus Yemma Gouraya hegyet.",
+                  "category": "natural",
+                  "coords": [
+                        5.039087,
+                        36.780602
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 15",
+                  "text": "Helyi előadásokra és oktatási összejövetelekre tervezett, lépcsőzetes ülőhelyekkel rendelkező építmény.",
+                  "category": "cultural",
+                  "coords": [
+                        5.03885,
+                        36.751033
+                  ]
+            },
+            {
+                  "name": "amphithéâtre n°3",
+                  "text": "Egy szabadtéri vagy szerkezeti színházi tér, amely elrendezett ülőhelyeket kínál a közönség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035834,
+                        36.751476
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre n°16",
+                  "text": "Kialakított színházi tér lépcsőzetes sorokkal, amelyet nagy csoportok befogadására terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035715,
+                        36.749892
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 12",
+                  "text": "Lépcsőzetes helyszín, amely tiszta rálátást biztosít a tervezett eseményeken részt vevő közönség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        5.037301,
+                        36.750715
+                  ]
+            },
+            {
+                  "name": "Nateur Plage",
+                  "text": "Egy homokos tengerparti szakasz, ahol a Földközi-tenger hullámai a partot mossák.",
+                  "category": "recreational",
+                  "coords": [
+                        5.017217,
+                        36.793285
+                  ]
+            },
+            {
+                  "name": "Yemma Yamna",
+                  "text": "Egy zord ösvény mentén található történelmi romterület, amely a régió ősi múltját tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        5.073873,
+                        36.772215
+                  ]
+            },
+            {
+                  "name": "Aire de repos",
+                  "text": "Kialakított pihenőpark, amelyet nyugodt pihenést biztosító kényelmi szolgáltatásokkal terveztek.",
+                  "category": "recreational",
+                  "coords": [
+                        5.089175,
+                        36.769096
+                  ]
+            },
+            {
+                  "name": "Yemma Gouraya",
+                  "text": "Kiemelkedő csúcs és kulturális nevezetesség, amely drámaian emelkedik a Földközi-tenger partvonala fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081294,
+                        36.770765
+                  ]
+            },
+            {
+                  "name": "Bordj Moussa",
+                  "text": "Történelmi falak között helyet kapott helyi múzeum, amely regionális leleteket és történelmet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        5.083659,
+                        36.755111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pointe Noir",
+                  "text": "Punct de coastă remarcabil și atracție situată lângă portul Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.107221,
+                        36.768974
+                  ]
+            },
+            {
+                  "name": "Cap Bouak",
+                  "text": "Promontoriu de coastă proeminent, care oferă vederi ample asupra Mării Mediterane, lângă Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.106159,
+                        36.760145
+                  ]
+            },
+            {
+                  "name": "Pic des singes",
+                  "text": "Punct de observație montan pitoresc în Béjaïa, faimos pentru că este locuit de macaci berberi.",
+                  "category": "natural",
+                  "coords": [
+                        5.096163,
+                        36.769542
+                  ]
+            },
+            {
+                  "name": "Citernes Romaines",
+                  "text": "Cisterne antice romane de apă, care demonstrează ingineria istorică lângă portul Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083438,
+                        36.757005
+                  ]
+            },
+            {
+                  "name": "Brise de Mer",
+                  "text": "Promenadă de coastă plăcută, care oferă brize proaspete de mare în Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.093697,
+                        36.757068
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Memorial solemn de piatră dedicat soldaților căzuți, situat în Béjaïa.",
+                  "category": "historical",
+                  "coords": [
+                        5.086607,
+                        36.754975
+                  ]
+            },
+            {
+                  "name": "Porte Fouka",
+                  "text": "Poartă istorică arcuită care a făcut parte cândva din fortificațiile medievale din Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081259,
+                        36.754967
+                  ]
+            },
+            {
+                  "name": "Fort Lemercier",
+                  "text": "O fortăreață situată pe un deal, care oferă o vedere panoramică asupra coastei mediteraneene și a orașului de dedesubt.",
+                  "category": "castle",
+                  "coords": [
+                        5.068297,
+                        36.76635
+                  ]
+            },
+            {
+                  "name": "Pointe Mezaïa",
+                  "text": "Un punct de coastă stâncos care iese în Marea Mediterană, oferind un loc pitoresc pentru observarea mării.",
+                  "category": "landmark",
+                  "coords": [
+                        5.014914,
+                        36.806919
+                  ]
+            },
+            {
+                  "name": "Cap Carbon",
+                  "text": "Un far maritim impunător cocoțat pe stânci accidentate, cu vedere la Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        5.103148,
+                        36.7761
+                  ]
+            },
+            {
+                  "name": "Tamalaht",
+                  "text": "Un loc de picnic umbrit, unde vizitatorii se pot relaxa în mijlocul peisajului natural de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        5.09611,
+                        36.773332
+                  ]
+            },
+            {
+                  "name": "Parc national de Gouraya",
+                  "text": "O rezervație naturală protejată care cuprinde stâncile de coastă și emblematicul munte Yemma Gouraya.",
+                  "category": "natural",
+                  "coords": [
+                        5.039087,
+                        36.780602
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 15",
+                  "text": "O structură cu locuri pe scaune în trepte, concepută pentru spectacole locale și adunări educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.03885,
+                        36.751033
+                  ]
+            },
+            {
+                  "name": "amphithéâtre n°3",
+                  "text": "Un spațiu de teatru în aer liber sau structural, care dispune de locuri amenajate pentru public.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035834,
+                        36.751476
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre n°16",
+                  "text": "Un spațiu de teatru dedicat, cu rânduri în trepte, conceput pentru a găzdui grupuri mari.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035715,
+                        36.749892
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 12",
+                  "text": "O locație în trepte care oferă o vizibilitate clară publicului care participă la evenimentele programate.",
+                  "category": "cultural",
+                  "coords": [
+                        5.037301,
+                        36.750715
+                  ]
+            },
+            {
+                  "name": "Nateur Plage",
+                  "text": "O porțiune nisipoasă de plajă de coastă, unde valurile Mediteranei se întâlnesc cu țărmul.",
+                  "category": "recreational",
+                  "coords": [
+                        5.017217,
+                        36.793285
+                  ]
+            },
+            {
+                  "name": "Yemma Yamna",
+                  "text": "Un sit cu ruine istorice situat de-a lungul unui traseu accidentat, reflectând trecutul antic al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        5.073873,
+                        36.772215
+                  ]
+            },
+            {
+                  "name": "Aire de repos",
+                  "text": "Un parc de recreere amenajat, conceput cu facilități pentru o pauză odihnitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        5.089175,
+                        36.769096
+                  ]
+            },
+            {
+                  "name": "Yemma Gouraya",
+                  "text": "Un vârf proeminent și un reper cultural care se înalță dramatic deasupra coastei mediteraneene.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081294,
+                        36.770765
+                  ]
+            },
+            {
+                  "name": "Bordj Moussa",
+                  "text": "Un muzeu local găzduit în ziduri istorice, care expune artefacte și istorie regională.",
+                  "category": "museum",
+                  "coords": [
+                        5.083659,
+                        36.755111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pointe Noir",
+                  "text": "Notable coastal point and attraction located near the port of Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.107221,
+                        36.768974
+                  ]
+            },
+            {
+                  "name": "Cap Bouak",
+                  "text": "Prominent coastal headland offering sweeping views of the Mediterranean Sea near Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.106159,
+                        36.760145
+                  ]
+            },
+            {
+                  "name": "Pic des singes",
+                  "text": "Scenic mountain viewpoint in Béjaïa famously inhabited by Barbary macaques.",
+                  "category": "natural",
+                  "coords": [
+                        5.096163,
+                        36.769542
+                  ]
+            },
+            {
+                  "name": "Citernes Romaines",
+                  "text": "Ancient Roman water cisterns demonstrating historical engineering near the port of Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083438,
+                        36.757005
+                  ]
+            },
+            {
+                  "name": "Brise de Mer",
+                  "text": "Pleasant coastal promenade offering fresh sea breezes in Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.093697,
+                        36.757068
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Solemn stone memorial dedicated to the fallen soldiers, located in Béjaïa.",
+                  "category": "historical",
+                  "coords": [
+                        5.086607,
+                        36.754975
+                  ]
+            },
+            {
+                  "name": "Porte Fouka",
+                  "text": "Historical arched gateway that once formed part of the medieval fortifications of Béjaïa.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081259,
+                        36.754967
+                  ]
+            },
+            {
+                  "name": "Fort Lemercier",
+                  "text": "A hilltop fortress offering sweeping views of the Mediterranean coastline and the city below.",
+                  "category": "castle",
+                  "coords": [
+                        5.068297,
+                        36.76635
+                  ]
+            },
+            {
+                  "name": "Pointe Mezaïa",
+                  "text": "A rocky coastal point jutting into the Mediterranean, providing a scenic spot for observing the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        5.014914,
+                        36.806919
+                  ]
+            },
+            {
+                  "name": "Cap Carbon",
+                  "text": "A towering maritime lighthouse perched on rugged cliffs overlooking the Mediterranean Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        5.103148,
+                        36.7761
+                  ]
+            },
+            {
+                  "name": "Tamalaht",
+                  "text": "A shaded picnic site where visitors can relax amidst the natural coastal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        5.09611,
+                        36.773332
+                  ]
+            },
+            {
+                  "name": "Parc national de Gouraya",
+                  "text": "A protected natural reserve encompassing coastal cliffs and the iconic Yemma Gouraya mountain.",
+                  "category": "natural",
+                  "coords": [
+                        5.039087,
+                        36.780602
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 15",
+                  "text": "A tiered seating structure designed for local performances and educational gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        5.03885,
+                        36.751033
+                  ]
+            },
+            {
+                  "name": "amphithéâtre n°3",
+                  "text": "An open-air or structural theater space featuring arranged seating for audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035834,
+                        36.751476
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre n°16",
+                  "text": "A dedicated theater space with tiered rows, designed to accommodate large groups.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035715,
+                        36.749892
+                  ]
+            },
+            {
+                  "name": "Amphitheatre N° 12",
+                  "text": "A tiered venue offering clear sightlines for audiences attending scheduled events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.037301,
+                        36.750715
+                  ]
+            },
+            {
+                  "name": "Nateur Plage",
+                  "text": "A sandy stretch of coastal beach where the Mediterranean waves meet the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        5.017217,
+                        36.793285
+                  ]
+            },
+            {
+                  "name": "Yemma Yamna Trail",
+                  "text": "A historic ruin site located along a rugged trail, reflecting the region's ancient past.",
+                  "category": "historical",
+                  "coords": [
+                        5.073873,
+                        36.772215
+                  ]
+            },
+            {
+                  "name": "Aire de repos",
+                  "text": "A landscaped recreational park designed with amenities for taking a restful break.",
+                  "category": "recreational",
+                  "coords": [
+                        5.089175,
+                        36.769096
+                  ]
+            },
+            {
+                  "name": "Yemma Gouraya",
+                  "text": "A prominent peak and cultural landmark rising dramatically above the Mediterranean coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        5.081294,
+                        36.770765
+                  ]
+            },
+            {
+                  "name": "Bordj Moussa",
+                  "text": "A local museum housed within historical walls, showcasing regional artifacts and history.",
+                  "category": "museum",
+                  "coords": [
+                        5.083659,
+                        36.755111
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-06",
     coords: [5.0847, 36.7572],
@@ -380,7 +2612,376 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Un port important en eaux profondes qui traite de nombreuses marchandises diverses et du pétrole, servant de porte d'entrée vers la Kabylie.", "Situé sur le territoire de la République algérienne démocratique et populaire."],
     }, image: "/poi-images/port-of-bejaia-economic-v2.webp"},
   {
-    id: "port-of-annaba-economic-v2",
+    id: "port-of-annaba-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Cap de Garde",
+                  "text": "Dieser historische Leuchtturm steht auf dem felsigen Vorgebirge Cap de Garde und überblickt majestätisch das Mittelmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783556,
+                        36.967081
+                  ]
+            },
+            {
+                  "name": "belles vues d'air",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über die Küstenlinie und die Hafenstadt Annaba.",
+                  "category": "natural",
+                  "coords": [
+                        7.769506,
+                        36.945598
+                  ]
+            },
+            {
+                  "name": "Plage Ain Achir",
+                  "text": "Dieser einladende Sandstrand am Mittelmeer ist ein beliebter Ort zum Schwimmen und Entspannen an der Küste von Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.780169,
+                        36.956976
+                  ]
+            },
+            {
+                  "name": "Plage du Belvédère",
+                  "text": "Der Strand Plage du Belvédère lockt Besucher mit seiner malerischen Lage und dem klaren Wasser der Mittelmeerküste.",
+                  "category": "recreational",
+                  "coords": [
+                        7.770603,
+                        36.946619
+                  ]
+            },
+            {
+                  "name": "Plage Refas Zahouen",
+                  "text": "An diesem lokalen Mittelmeerstrand können Sonnenbader die entspannte Küstenatmosphäre von Annaba genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.767592,
+                        36.943199
+                  ]
+            },
+            {
+                  "name": "Plage La Caroube",
+                  "text": "Plage La Caroube ist ein beliebter Stadtstrand, dessen weicher Sand ideal für Spaziergänge am Mittelmeer ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.763614,
+                        36.933712
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Dieses bedeutende regionale Theater ist nach dem ermordeten algerischen Schauspieler Azzedine Medjoubi benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759561,
+                        36.899695
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Mohamed Boudiaf",
+                  "text": "Dieser große Kulturpalast ist ein Zentrum für Ausstellungen und Kunstveranstaltungen in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757296,
+                        36.902762
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Dieser bekannte zentrale Strandabschnitt liegt direkt an der belebten Uferpromenade von Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761018,
+                        36.927379
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "Diese historische Moschee aus dem 11. Jahrhundert wurde majestätisch mit Blick auf den alten Hafen von Annaba erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        7.764131,
+                        36.898435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Cap de Garde",
+                  "text": "Ez a történelmi világítótorony a Cap de Garde sziklás hegyfokán áll, és fenségesen tekint a Földközi-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783556,
+                        36.967081
+                  ]
+            },
+            {
+                  "name": "belles vues d'air",
+                  "text": "Ez a kilátó széles panorámát kínál a partvonalra és Annaba kikötővárosára.",
+                  "category": "natural",
+                  "coords": [
+                        7.769506,
+                        36.945598
+                  ]
+            },
+            {
+                  "name": "Plage Ain Achir",
+                  "text": "Ez a hívogató homokos mediterrán strand kedvelt úszó- és pihenőhely Annaba partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.780169,
+                        36.956976
+                  ]
+            },
+            {
+                  "name": "Plage du Belvédère",
+                  "text": "A Plage du Belvédère strand festői fekvésével és a Földközi-tenger partjának tiszta vizével vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.770603,
+                        36.946619
+                  ]
+            },
+            {
+                  "name": "Plage Refas Zahouen",
+                  "text": "Ezen a helyi mediterrán strandon a napozók élvezhetik Annaba nyugodt tengerparti hangulatát.",
+                  "category": "recreational",
+                  "coords": [
+                        7.767592,
+                        36.943199
+                  ]
+            },
+            {
+                  "name": "Plage La Caroube",
+                  "text": "A Plage La Caroube egy népszerű városi strand, melynek puha homokja ideális a mediterrán sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.763614,
+                        36.933712
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Ez a jelentős regionális színház a meggyilkolt algériai színészről, Azzedine Medjoubiról kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759561,
+                        36.899695
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Mohamed Boudiaf",
+                  "text": "Ez a nagy kulturális palota kiállítások és művészeti események központja Annabában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757296,
+                        36.902762
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Ez a jól ismert központi strand közvetlenül Annaba nyüzsgő vízparti sétánya mentén található.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761018,
+                        36.927379
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "Ezt a 11. századi történelmi mecsetet fenségesen, Annaba régi kikötőjére néző kilátással építették.",
+                  "category": "religious",
+                  "coords": [
+                        7.764131,
+                        36.898435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Cap de Garde",
+                  "text": "Acest far istoric stă pe promontoriul stâncos Cap de Garde și privește maiestuos spre Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783556,
+                        36.967081
+                  ]
+            },
+            {
+                  "name": "belles vues d'air",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică largă asupra coastei și a orașului portuar Annaba.",
+                  "category": "natural",
+                  "coords": [
+                        7.769506,
+                        36.945598
+                  ]
+            },
+            {
+                  "name": "Plage Ain Achir",
+                  "text": "Această plajă mediteraneană de nisip primitoare este un loc popular pentru înot și relaxare pe coasta Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.780169,
+                        36.956976
+                  ]
+            },
+            {
+                  "name": "Plage du Belvédère",
+                  "text": "Plaja Plage du Belvédère atrage vizitatorii cu locația sa pitorească și apele limpezi ale coastei mediteraneene.",
+                  "category": "recreational",
+                  "coords": [
+                        7.770603,
+                        36.946619
+                  ]
+            },
+            {
+                  "name": "Plage Refas Zahouen",
+                  "text": "Pe această plajă mediteraneană locală, iubitorii de soare se pot bucura de atmosfera de coastă relaxată din Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.767592,
+                        36.943199
+                  ]
+            },
+            {
+                  "name": "Plage La Caroube",
+                  "text": "Plage La Caroube este o plajă urbană populară, al cărei nisip fin este ideal pentru plimbări la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.763614,
+                        36.933712
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Acest important teatru regional este numit după actorul algerian asasinat Azzedine Medjoubi.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759561,
+                        36.899695
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Mohamed Boudiaf",
+                  "text": "Acest mare palat cultural este un centru pentru expoziții și evenimente de artă în Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757296,
+                        36.902762
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Această plajă centrală bine-cunoscută este situată direct pe faleza plină de viață a orașului Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761018,
+                        36.927379
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "Această moschee istorică din secolul al XI-lea a fost construită maiestuos cu vedere la vechiul port al orașului Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764131,
+                        36.898435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare de Cap de Garde",
+                  "text": "This historic lighthouse stands on the rocky Cap de Garde promontory, majestically overlooking the Mediterranean Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783556,
+                        36.967081
+                  ]
+            },
+            {
+                  "name": "belles vues d'air",
+                  "text": "This viewpoint offers a sweeping panoramic vista over the coastline and the port city of Annaba.",
+                  "category": "natural",
+                  "coords": [
+                        7.769506,
+                        36.945598
+                  ]
+            },
+            {
+                  "name": "Beach Ain Achir",
+                  "text": "This inviting sandy Mediterranean beach is a popular spot for swimming and relaxing on the Annaba coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.780169,
+                        36.956976
+                  ]
+            },
+            {
+                  "name": "Plage du Belvédère",
+                  "text": "Plage du Belvédère beach attracts visitors with its scenic setting and the clear waters of the Mediterranean coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.770603,
+                        36.946619
+                  ]
+            },
+            {
+                  "name": "Plage Refas Zahouen",
+                  "text": "At this local Mediterranean beach, sunbathers can enjoy the relaxed coastal atmosphere of Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.767592,
+                        36.943199
+                  ]
+            },
+            {
+                  "name": "Plage La Caroube",
+                  "text": "Plage La Caroube is a popular urban beach, whose soft sand is ideal for strolls along the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        7.763614,
+                        36.933712
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "This major regional theater is named after the assassinated Algerian actor Azzedine Medjoubi.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759561,
+                        36.899695
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture Mohamed Boudiaf",
+                  "text": "This large cultural palace serves as a hub for exhibitions and arts events in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757296,
+                        36.902762
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "This well-known central beach stretch is situated directly along the bustling waterfront corniche of Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761018,
+                        36.927379
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "This historic 11th-century mosque was majestically built overlooking the old port of Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764131,
+                        36.898435
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-23",
     coords: [7.7783, 36.9025],
@@ -427,7 +3028,592 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["L'un des ports les plus importants de l'est de l'Algérie, notamment pour l'exportation de minerai de fer et d'acier.", "Situé sur le territoire de la République algérienne démocratique et populaire."],
     }, image: "/poi-images/port-of-annaba-economic-v2.webp"},
   {
-    id: "port-of-mostaganem-economic-v2",
+    id: "port-of-mostaganem-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "Cité zagheloul f integriert befestigte architektonische Elemente innerhalb der Hafenstadt Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Dieses Museum in Mostaganem widmet sich der Geschichte und den Erinnerungen des algerischen Unabhängigkeitskrieges.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "Dieses in einem traditionellen Gebäude untergebrachte Museum zeigt das regionale Erbe und historische Artefakte von Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "Diese historische Festung aus der osmanischen Zeit diente als Küstenverteidigungsanlage mit Blick auf das Mittelmeer.",
+                  "category": "castle",
+                  "coords": [
+                        0.096424,
+                        35.934288
+                  ]
+            },
+            {
+                  "name": "Les Coquillages",
+                  "text": "Dieses öffentlich zugängliche Monument in Form von Muscheln zelebriert die maritime Identität der Küstenstadt Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.060288,
+                        35.916941
+                  ]
+            },
+            {
+                  "name": "The three dolphins",
+                  "text": "Ein skulpturales Denkmal mit drei springenden Delfinen, das die Verbundenheit der Stadt mit dem Meer widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "Dieses städtische Theater ist ein zentraler Veranstaltungsort für Theaterstücke und dramatische Aufführungen in Mostaganem.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Dieses Kulturzentrum veranstaltet Kunstausstellungen, Workshops und Gemeindeveranstaltungen zur Förderung lokaler Kreativität.",
+                  "category": "cultural",
+                  "coords": [
+                        0.0804,
+                        35.926697
+                  ]
+            },
+            {
+                  "name": "salamander",
+                  "text": "Dieser Ort im lebhaften Küstenviertel Salamandre bietet malerische Ausblicke auf die Mittelmeerküste.",
+                  "category": "landmark",
+                  "coords": [
+                        0.056997,
+                        35.915627
+                  ]
+            },
+            {
+                  "name": "25 - Ghost House",
+                  "text": "Diese gruselige Geisterbahn im lokalen Vergnügungspark bietet Schreckmomente und dunkle, thematisch gestaltete Gänge.",
+                  "category": "landmark",
+                  "coords": [
+                        0.096323,
+                        35.953295
+                  ]
+            },
+            {
+                  "name": "21 - Grand 8 - Rollercoaster",
+                  "text": "Eine rasante Stahlachterbahn mit steilen Abfahrten und engen Kurven für Nervenkitzel-Sucher.",
+                  "category": "landmark",
+                  "coords": [
+                        0.098249,
+                        35.95356
+                  ]
+            },
+            {
+                  "name": "11 - Boat Ride",
+                  "text": "Eine sanfte Bootsattraktion, bei der Familien einen ruhigen, künstlich angelegten Wasserweg im Park befahren können.",
+                  "category": "landmark",
+                  "coords": [
+                        0.097261,
+                        35.95377
+                  ]
+            },
+            {
+                  "name": "Plage Sonagther",
+                  "text": "Ein mediterraner Sandstrand in Mostaganem, der zum Schwimmen und für Spaziergänge entlang der Wellen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        0.118778,
+                        36.00715
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "Dieser zoologische Park beherbergt verschiedene Wildtierarten in Gehegen und bietet lehrreiche Spaziergänge für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088975,
+                        35.932813
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "Mostaganems größter Vergnügungspark kombiniert aufregende Achterbahnen, Familienfahrgeschäfte und einen zoologischen Garten.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098027,
+                        35.956845
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Ein Tierpark mit naturnahen Lebensräumen, in denen Besucher lokale und exotische Tiere beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        0.10023,
+                        35.958529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "A Cité zagheloul f erődített építészeti elemeket foglal magába Mostaganem kikötővárosában.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Ez a mosztagánemi múzeum az algériai függetlenségi háború történetét és emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "A hagyományos épületben helyet kapó múzeum Mosztagánem regionális örökségét és műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "Ez a történelmi, oszmán kori erőd partvédelmi építményként magasodik a Földközi-tenger fölé.",
+                  "category": "castle",
+                  "coords": [
+                        0.096424,
+                        35.934288
+                  ]
+            },
+            {
+                  "name": "Les Coquillages",
+                  "text": "Ez a kagylókat formázó köztéri emlékmű Mosztagánem tengerparti és tengerészeti identitását ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        0.060288,
+                        35.916941
+                  ]
+            },
+            {
+                  "name": "The three dolphins",
+                  "text": "Három ugró delfint ábrázoló szoboremlékmű, amely a város tengerhez fűződő kapcsolatát jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "Ez a városi színház a színdarabok és drámai előadások központi helyszíne Mosztagánemben.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Ez a kulturális központ művészeti kiállításoknak, workshopoknak és közösségi eseményeknek ad otthont a helyi kreativitás népszerűsítésére.",
+                  "category": "cultural",
+                  "coords": [
+                        0.0804,
+                        35.926697
+                  ]
+            },
+            {
+                  "name": "salamander",
+                  "text": "A nyüzsgő Salamandre tengerparti negyedben található látványosság festői kilátást nyújt a Földközi-tenger partvonalára.",
+                  "category": "landmark",
+                  "coords": [
+                        0.056997,
+                        35.915627
+                  ]
+            },
+            {
+                  "name": "25 - Ghost House",
+                  "text": "Ez a kísérteties szellemház a helyi vidámparkban hirtelen ijesztgetésekkel és sötét, tematikus folyosókkal várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        0.096323,
+                        35.953295
+                  ]
+            },
+            {
+                  "name": "21 - Grand 8 - Rollercoaster",
+                  "text": "Gyors tempójú acél hullámvasút meredek lejtőkkel és szűk kanyarokkal az izgalomra vágyóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        0.098249,
+                        35.95356
+                  ]
+            },
+            {
+                  "name": "11 - Boat Ride",
+                  "text": "Békés csónakázós attrakció, amely lehetővé teszi a családok számára, hogy egy nyugodt mesterséges csatornán evezzenek a parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.097261,
+                        35.95377
+                  ]
+            },
+            {
+                  "name": "Plage Sonagther",
+                  "text": "Homokos Földközi-tengeri part Mosztagánemben, amely népszerű a fürdőzők és a hullámok mentén sétálók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.118778,
+                        36.00715
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "Ez a zoológiai park különféle vadon élő állatfajoknak ad otthont kifutókban, oktató jellegű sétákat kínálva a családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088975,
+                        35.932813
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "Mosztagánem fő vidámparkja, amely izgalmas hullámvasutakat, családi játékokat és egy állatkertet is magában foglal.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098027,
+                        35.956845
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Állatpark természetközeli élőhelyekkel, ahol a látogatók helyi és egzotikus élőlényeket egyaránt megfigyelhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        0.10023,
+                        35.958529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "Cité zagheloul f încorporează elemente arhitecturale fortificate în cadrul orașului-port Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Acest muzeu din Mostaganem este dedicat păstrării istoriei Războiului de Independență al Algeriei.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "Găzduit într-o clădire tradițională, acest muzeu expune moștenirea regională și artefactele istorice din Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "Această fortăreață istorică din epoca otomană servește drept structură de apărare pe coastă, cu vedere la Marea Mediterană.",
+                  "category": "castle",
+                  "coords": [
+                        0.096424,
+                        35.934288
+                  ]
+            },
+            {
+                  "name": "Les Coquillages",
+                  "text": "Acest monument public cu tematică de scoici celebrează identitatea de coastă și maritimă a orașului Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.060288,
+                        35.916941
+                  ]
+            },
+            {
+                  "name": "The three dolphins",
+                  "text": "Un monument sculptural ce înfățișează trei delfini sărind, reflectând legătura orașului cu marea.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "Acest teatru al orașului este o locație centrală pentru punerea în scenă a pieselor și spectacolelor dramatice în Mostaganem.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Acest centru cultural găzduiește expoziții de artă, ateliere și evenimente comunitare pentru a promova creativitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        0.0804,
+                        35.926697
+                  ]
+            },
+            {
+                  "name": "salamander",
+                  "text": "Situat în cartierul de coastă vibrant Salamandre, acest loc oferă vederi pitorești către țărmul Mării Mediterane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.056997,
+                        35.915627
+                  ]
+            },
+            {
+                  "name": "25 - Ghost House",
+                  "text": "Această casă bântuită înfricoșătoare din parcul de distracții local oferă sperieturi bruște și coridoare întunecate, tematice.",
+                  "category": "landmark",
+                  "coords": [
+                        0.096323,
+                        35.953295
+                  ]
+            },
+            {
+                  "name": "21 - Grand 8 - Rollercoaster",
+                  "text": "Un montagne russe rapid din oțel, cu coborâri abrupte și viraje strânse pentru amatorii de senzații tari.",
+                  "category": "landmark",
+                  "coords": [
+                        0.098249,
+                        35.95356
+                  ]
+            },
+            {
+                  "name": "11 - Boat Ride",
+                  "text": "O atracție blândă cu barca, ce permite familiilor să navigheze pe o cale navigabilă calmă artificială din parc.",
+                  "category": "landmark",
+                  "coords": [
+                        0.097261,
+                        35.95377
+                  ]
+            },
+            {
+                  "name": "Plage Sonagther",
+                  "text": "O plajă cu nisip la Marea Mediterană din Mostaganem, populară pentru înot și plimbări pe coastă de-a lungul valurilor.",
+                  "category": "recreational",
+                  "coords": [
+                        0.118778,
+                        36.00715
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "Acest parc zoologic adăpostește diverse specii de animale sălbatice în incinte, oferind plimbări educative pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088975,
+                        35.932813
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "Principalul parc de distracții din Mostaganem, combinând montagne ruse palpitante, atracții pentru familii și o grădină zoologică.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098027,
+                        35.956845
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Un parc de animale cu habitate naturaliste unde vizitatorii pot observa creaturi locale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        0.10023,
+                        35.958529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "Cité zagheloul f incorporates fortified architectural elements within the port city of Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "This museum in Mostaganem is dedicated to preserving the history of the Algerian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "Housed in a traditional building, this museum showcases the regional heritage and artifacts of Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "This historic Ottoman-era fortress stands as a coastal defense structure overlooking the Mediterranean Sea.",
+                  "category": "castle",
+                  "coords": [
+                        0.096424,
+                        35.934288
+                  ]
+            },
+            {
+                  "name": "Les Coquillages",
+                  "text": "This shell-themed public monument celebrates the coastal and maritime identity of Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.060288,
+                        35.916941
+                  ]
+            },
+            {
+                  "name": "The three dolphins",
+                  "text": "A sculptural monument featuring three leaping dolphins, reflecting the city's connection to the sea.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "This formal city theatre is a central venue for staging plays and dramatic performances in Mostaganem.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "This cultural center hosts art exhibitions, workshops, and community events to promote local creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        0.0804,
+                        35.926697
+                  ]
+            },
+            {
+                  "name": "salamander",
+                  "text": "Situated in the vibrant coastal district of Salamandre, this spot offers scenic views of the Mediterranean shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        0.056997,
+                        35.915627
+                  ]
+            },
+            {
+                  "name": "25 - Ghost House",
+                  "text": "This spooky haunted house ride in the local amusement park offers jump scares and dark, themed corridors.",
+                  "category": "landmark",
+                  "coords": [
+                        0.096323,
+                        35.953295
+                  ]
+            },
+            {
+                  "name": "21 - Grand 8 - Rollercoaster",
+                  "text": "A fast-paced steel rollercoaster featuring steep drops and tight turns for thrill-seekers.",
+                  "category": "landmark",
+                  "coords": [
+                        0.098249,
+                        35.95356
+                  ]
+            },
+            {
+                  "name": "11 - Boat Ride",
+                  "text": "A gentle boat attraction allowing families to navigate a calm man-made waterway in the park.",
+                  "category": "landmark",
+                  "coords": [
+                        0.097261,
+                        35.95377
+                  ]
+            },
+            {
+                  "name": "Plage Sonagther",
+                  "text": "A sandy Mediterranean beach in Mostaganem popular for swimming and coastal strolls along the waves.",
+                  "category": "recreational",
+                  "coords": [
+                        0.118778,
+                        36.00715
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "This zoological park houses various wildlife species in animal enclosures, providing educational strolls for families.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088975,
+                        35.932813
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "Mostaganem's main amusement park, combining thrilling rollercoasters, family rides, and a zoological garden.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098027,
+                        35.956845
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "An animal park featuring naturalistic habitats where visitors can observe local and exotic creatures.",
+                  "category": "recreational",
+                  "coords": [
+                        0.10023,
+                        35.958529
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-27",
     coords: [0.0833, 35.9333],
@@ -474,7 +3660,232 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Exportation de produits agricoles.", "Proche d'Oran.", "Trafic de ferries en augmentation.", "Centre de commerce régional.", "Soulage le port d'Oran.", "Un port de taille moyenne sur la côte ouest qui traite des produits agricoles et des marchandises.", "Situé sur le territoire de la République algérienne démocratique et populaire."],
     }, image: "/poi-images/port-of-mostaganem-economic-v2.webp"},
   {
-    id: "djendjen-port-economic-v2",
+    id: "djendjen-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Status of Ouled swissy",
+                  "text": "Das Denkmal von Ouled Swissy ist eine Gedenkstatue im Freien, die in der städtischen Umgebung des Hafengebiets von Djendjen liegt.",
+                  "category": "historical",
+                  "coords": [
+                        5.900762,
+                        36.761233
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "3ème ist ein erhöhter malerischer Aussichtspunkt, der weite Panoramen über den Hafen von Djendjen und die umliegende Küstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Das Théâtre de verdure ist ein Freilichtamphitheater inmitten einer grünen Parkanlage nahe dem Gebiet von Djendjen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780194,
+                        36.80601
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes",
+                  "text": "Maison des jeunes ist ein lokales Jugendkulturzentrum, das der Gemeinde des Hafens von Djendjen kulturelle und Freizeitaktivitäten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.848189,
+                        36.754384
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Plage Kotama ist ein weitläufiger Küstenstrand mit sandigen Mittelmeergestaden in der Nähe der maritimen Zonen von Djendjen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.775737,
+                        36.814249
+                  ]
+            },
+            {
+                  "name": "el Ashouat Beach",
+                  "text": "El Ashouat Beach ist ein malerischer, offener Sandstrand entlang des Mittelmeers in der Nähe des Hafens von Djendjen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.864841,
+                        36.814735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Status of Ouled swissy",
+                  "text": "Az Ouled Swissy emlékműve egy szabadtéri kommemorációs műemlék a dzsendzseni kikötőövezet városi környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        5.900762,
+                        36.761233
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "A 3ème egy magaslati kilátópont, amely lenyűgöző panorámát nyújt a dzsendzseni kikötőre és a környező tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "A Théâtre de verdure egy szabadtéri amfiteátrum, amely a dzsendzseni terület közelében egy zöld parkos részben fészkel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780194,
+                        36.80601
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes",
+                  "text": "A Maison des jeunes egy helyi ifjúsági művészeti központ, amely kulturális és szabadidős tevékenységeket biztosít a dzsendzseni kikötő közösségének.",
+                  "category": "cultural",
+                  "coords": [
+                        5.848189,
+                        36.754384
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "A Plage Kotama egy kiterjedt tengerparti strand homokos mediterrán partokkal Djendjen tengeri övezetei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.775737,
+                        36.814249
+                  ]
+            },
+            {
+                  "name": "el Ashouat Beach",
+                  "text": "Az El Ashouat tengerpart egy festői, nyitott homokos partszakasz a Földközi-tenger mentén, a dzsendzseni kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.864841,
+                        36.814735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Status of Ouled swissy",
+                  "text": "Statuia lui Ouled Swissy este un monument comemorativ în aer liber, situat în zona urbană a portului Djendjen.",
+                  "category": "historical",
+                  "coords": [
+                        5.900762,
+                        36.761233
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "3ème este un punct de belvedere pitoresc situat la înălțime, oferind panorame ample asupra portului Djendjen și a peisajului de coastă din jur.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Théâtre de verdure este un amfiteatru în aer liber amplasat într-un parc verde din zona Djendjen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780194,
+                        36.80601
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes",
+                  "text": "Maison des jeunes este un centru local de artă pentru tineret, oferind activități culturale și recreative pentru comunitatea din portul Djendjen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.848189,
+                        36.754384
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Plage Kotama este o plajă largă cu țărmuri mediteraneene nisipoase, situată lângă zonele maritime din Djendjen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.775737,
+                        36.814249
+                  ]
+            },
+            {
+                  "name": "el Ashouat Beach",
+                  "text": "Plaja El Ashouat este o întindere nisipoasă deschisă, pitorească, de-a lungul Mării Mediterane, în apropierea portului Djendjen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.864841,
+                        36.814735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Status of Ouled swissy",
+                  "text": "The Status of Ouled Swissy is an outdoor commemorative monument situated in the urban surroundings of the Djendjen port area.",
+                  "category": "historical",
+                  "coords": [
+                        5.900762,
+                        36.761233
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "3ème is an elevated scenic viewpoint offering sweeping panoramas over the Djendjen port and the surrounding coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "The Théâtre de verdure is an open-air amphitheater nestled within a green park space near the Djendjen area.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780194,
+                        36.80601
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes",
+                  "text": "Maison des jeunes is a local youth arts center providing cultural and recreational activities for the Djendjen port community.",
+                  "category": "cultural",
+                  "coords": [
+                        5.848189,
+                        36.754384
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Plage Kotama is a sweeping coastal beach with sandy Mediterranean shores near the maritime zones of Djendjen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.775737,
+                        36.814249
+                  ]
+            },
+            {
+                  "name": "el Ashouat Beach",
+                  "text": "El Ashouat Beach is a scenic, open sandy coastal stretch lying along the Mediterranean Sea near the Djendjen port.",
+                  "category": "recreational",
+                  "coords": [
+                        5.864841,
+                        36.814735
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-18",
     coords: [5.8856, 36.8203],
@@ -522,7 +3933,160 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "ghazaouet-port-economic-v2",
+    id: "ghazaouet-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Ghazaouet",
+                  "text": "Der Leuchtturm von Ghazaouet ist eine hoch aufragende Küstennavigationshilfe, die den Schiffsverkehr sicher in den örtlichen Mittelmeerhafen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.871699,
+                        35.103394
+                  ]
+            },
+            {
+                  "name": "sidna youchaa beach",
+                  "text": "Der Sidna Youchaa Beach bietet eine malerische sandige Küste entlang des Mittelmeers in der Nähe von Ghazaouet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.776518,
+                        35.118646
+                  ]
+            },
+            {
+                  "name": "Plage Oued Abdellah",
+                  "text": "Der Plage Oued Abdellah bietet einen angenehmen sandigen Küstenstreifen, der sich ideal zum Schwimmen und Entspannen am Meer in der Nähe von Ghazaouet eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.876893,
+                        35.095514
+                  ]
+            },
+            {
+                  "name": "Dekhla",
+                  "text": "Dekhla ist ein sandiger Mittelmeerstrand, der eine malerische und entspannende Küstenumgebung in der Nähe von Ghazaouet bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.885115,
+                        35.090877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Ghazaouet",
+                  "text": "A Ghazaouet világítótorony egy magasba tornyosuló part menti navigációs segédeszköz, amely biztonságosan a helyi mediterrán kikötőbe irányítja a tengeri forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.871699,
+                        35.103394
+                  ]
+            },
+            {
+                  "name": "sidna youchaa beach",
+                  "text": "A Sidna Youchaa strand festői, homokos tengerpartot kínál a Földközi-tenger mentén Ghazaouet közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.776518,
+                        35.118646
+                  ]
+            },
+            {
+                  "name": "Plage Oued Abdellah",
+                  "text": "A Plage Oued Abdellah egy kellemes, homokos partszakasszal rendelkezik, amely ideális fürdőzéshez és tengerparti kikapcsolódáshoz Ghazaouet közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.876893,
+                        35.095514
+                  ]
+            },
+            {
+                  "name": "Dekhla",
+                  "text": "A Dekhla egy homokos mediterrán strand, amely festői és pihentető tengerparti környezetet biztosít Ghazaouet közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.885115,
+                        35.090877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Ghazaouet",
+                  "text": "Farul Ghazaouet este un ajutor de navigație de coastă impunător care ghidează traficul maritim în siguranță către portul mediteranean local.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.871699,
+                        35.103394
+                  ]
+            },
+            {
+                  "name": "sidna youchaa beach",
+                  "text": "Plaja Sidna Youchaa oferă un litoral nisipos pitoresc de-a lungul Mării Mediterane, lângă Ghazaouet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.776518,
+                        35.118646
+                  ]
+            },
+            {
+                  "name": "Plage Oued Abdellah",
+                  "text": "Plage Oued Abdellah prezintă o porțiune de coastă cu nisip plăcută, ideală pentru înot și relaxare pe litoral, lângă Ghazaouet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.876893,
+                        35.095514
+                  ]
+            },
+            {
+                  "name": "Dekhla",
+                  "text": "Dekhla este o destinație de plajă mediteraneană cu nisip, care oferă un mediu de coastă pitoresc și relaxant lângă Ghazaouet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.885115,
+                        35.090877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghazaouet Lighthouse",
+                  "text": "The Ghazaouet Lighthouse is a towering coastal navigational aid guiding maritime traffic safely into the local Mediterranean port.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.871699,
+                        35.103394
+                  ]
+            },
+            {
+                  "name": "sidna youchaa beach",
+                  "text": "Sidna Youchaa Beach offers a scenic sandy coastal shoreline along the Mediterranean Sea near Ghazaouet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.776518,
+                        35.118646
+                  ]
+            },
+            {
+                  "name": "Plage Oued Abdellah",
+                  "text": "Plage Oued Abdellah features a pleasant sandy coastal stretch ideal for swimming and seaside relaxation near Ghazaouet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.876893,
+                        35.095514
+                  ]
+            },
+            {
+                  "name": "Dekhla",
+                  "text": "Dekhla is a sandy Mediterranean beach destination providing a scenic and relaxing coastal environment near Ghazaouet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.885115,
+                        35.090877
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-13",
     coords: [-1.8625, 35.1017],
@@ -663,7 +4227,52 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Une zone minière importante dans l'est de l'Algérie qui, avec Ouenza, soutient la production nationale d'acier.", "Située sur le territoire de la République Algérienne Démocratique et Populaire."],
     }, image: "/poi-images/boukhadra-iron-mine-economic-v2.webp"},
   {
-    id: "djebel-onk-phosphate-mine-economic-v2",
+    id: "djebel-onk-phosphate-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djebel Onk",
+                  "text": "Der Djebel Onk ist ein markanter Berggipfel in der Nähe des Phosphatabbaugebietes in Algerien.",
+                  "category": "natural",
+                  "coords": [
+                        7.959418,
+                        34.713995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djebel Onk",
+                  "text": "A Djebel Onk egy kiemelkedő hegycsúcs az algériai foszfátbányászati terület közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.959418,
+                        34.713995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djebel Onk",
+                  "text": "Djebel Onk este un vârf de munte proeminent situat în apropierea zonei de extracție a fosfaților din Algeria.",
+                  "category": "natural",
+                  "coords": [
+                        7.959418,
+                        34.713995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djebel Onk",
+                  "text": "Djebel Onk is a prominent mountain peak located near the phosphate mining area in Algeria.",
+                  "category": "natural",
+                  "coords": [
+                        7.959418,
+                        34.713995
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DZ-12",
     coords: [8.0333, 34.7],
@@ -758,7 +4367,448 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "rouiba-industrial-zone-economic-v2",
+    id: "rouiba-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "martyrs memorial",
+                  "text": "Ein feierliches Denkmal zum Gedenken an die gefallenen Märtyrer.",
+                  "category": "historical",
+                  "coords": [
+                        3.28245,
+                        36.736196
+                  ]
+            },
+            {
+                  "name": "Serkouf Plage",
+                  "text": "Ein Sandstrand an der Küste im Industriegebiet Rouiba.",
+                  "category": "recreational",
+                  "coords": [
+                        3.312995,
+                        36.788528
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Ein Gedenkdenkmal zu Ehren der Opfer der nationalen Märtyrer.",
+                  "category": "historical",
+                  "coords": [
+                        3.250165,
+                        36.790659
+                  ]
+            },
+            {
+                  "name": "Les ruines",
+                  "text": "Eine Stätte mit Überresten und historischen Ruinen älterer Bauwerke.",
+                  "category": "historical",
+                  "coords": [
+                        3.238674,
+                        36.798982
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Mohamed El Bey",
+                  "text": "Ein lokales Jugend- und Kunstzentrum, das zu Ehren von Mohamed El Bey benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        3.36502,
+                        36.741495
+                  ]
+            },
+            {
+                  "name": "Tamentfoust",
+                  "text": "Ein Strandgebiet an der Küste, das Erholung am Meer in Tamentfoust bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.234297,
+                        36.805783
+                  ]
+            },
+            {
+                  "name": "Deca Plage",
+                  "text": "Ein Küstenstrandresort namens Deca Plage, das Annehmlichkeiten am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.314737,
+                        36.788365
+                  ]
+            },
+            {
+                  "name": "Mosquée Essouna",
+                  "text": "Ein Pflanzgefäß und lokaler Platz, der den Namen Mosquée Essouna trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        3.239358,
+                        36.779419
+                  ]
+            },
+            {
+                  "name": "Jardin Public de Rouiba",
+                  "text": "Ein angelegter öffentlicher Garten, der eine Grünfläche in Rouiba bietet.",
+                  "category": "park",
+                  "coords": [
+                        3.279299,
+                        36.738612
+                  ]
+            },
+            {
+                  "name": "Plage de Reghaia",
+                  "text": "Ein Strandresort am Meer, das Erholung an der Küste am Plage de Reghaia bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.363155,
+                        36.780966
+                  ]
+            },
+            {
+                  "name": "Plage Kadous",
+                  "text": "Plage Kadous ist ein Küstenresort mit breitem Sandstrand in der Nähe der Industriezone von Rouiba.",
+                  "category": "recreational",
+                  "coords": [
+                        3.341721,
+                        36.78401
+                  ]
+            },
+            {
+                  "name": "Les Canadiennes",
+                  "text": "Das Strandresort Les Canadiennes in der Nähe von Rouiba lockt Besucher mit entspannenden Küsteneinrichtungen an.",
+                  "category": "recreational",
+                  "coords": [
+                        3.328218,
+                        36.785652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "martyrs memorial",
+                  "text": "Ünnepélyes emlékmű az elesett mártírok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        3.28245,
+                        36.736196
+                  ]
+            },
+            {
+                  "name": "Serkouf Plage",
+                  "text": "Egy tengerparti homokos strand a rouibai ipari övezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.312995,
+                        36.788528
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "A nemzeti vértanúk áldozatait megörökítő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        3.250165,
+                        36.790659
+                  ]
+            },
+            {
+                  "name": "Les ruines",
+                  "text": "Egy helyszín, ahol régebbi építmények maradványai és történelmi romjai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        3.238674,
+                        36.798982
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Mohamed El Bey",
+                  "text": "Egy helyi ifjúsági és művészeti központ, amelyet Mohamed El Bey tiszteletére neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        3.36502,
+                        36.741495
+                  ]
+            },
+            {
+                  "name": "Tamentfoust",
+                  "text": "Egy tengerparti strandterület, amely tengerparti pihenést kínál Tamentfoustban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.234297,
+                        36.805783
+                  ]
+            },
+            {
+                  "name": "Deca Plage",
+                  "text": "Egy Deca Plage néven ismert tengerparti üdülőhely, amely tengerparti kényelmi szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        3.314737,
+                        36.788365
+                  ]
+            },
+            {
+                  "name": "Mosquée Essouna",
+                  "text": "Egy növénytartóval díszített helyi terület, amely a Mosquée Essouna nevet viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        3.239358,
+                        36.779419
+                  ]
+            },
+            {
+                  "name": "Jardin Public de Rouiba",
+                  "text": "Egy parkosított nyilvános kert, amely zöldövezetet biztosít Rouibában.",
+                  "category": "park",
+                  "coords": [
+                        3.279299,
+                        36.738612
+                  ]
+            },
+            {
+                  "name": "Plage de Reghaia",
+                  "text": "Egy tengerparti üdülőhely, amely tengerparti kikapcsolódást kínál a Plage de Reghaia területén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.363155,
+                        36.780966
+                  ]
+            },
+            {
+                  "name": "Plage Kadous",
+                  "text": "A Plage Kadous egy széles homokos parttal rendelkező tengerparti üdülőhely a rouibai ipari övezet közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.341721,
+                        36.78401
+                  ]
+            },
+            {
+                  "name": "Les Canadiennes",
+                  "text": "A Rouiba közelében található Les Canadiennes strandüdülő pihentető tengerparti létesítményekkel vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        3.328218,
+                        36.785652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "martyrs memorial",
+                  "text": "Un monument solemn dedicat memoriei martirilor căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        3.28245,
+                        36.736196
+                  ]
+            },
+            {
+                  "name": "Serkouf Plage",
+                  "text": "O plajă de coastă cu nisip situată în zona industrială Rouiba.",
+                  "category": "recreational",
+                  "coords": [
+                        3.312995,
+                        36.788528
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Un monument comemorativ care onorează sacrificiile martirilor naționali.",
+                  "category": "historical",
+                  "coords": [
+                        3.250165,
+                        36.790659
+                  ]
+            },
+            {
+                  "name": "Les ruines",
+                  "text": "Un sit care prezintă rămășițe și ruine istorice ale unor structuri mai vechi.",
+                  "category": "historical",
+                  "coords": [
+                        3.238674,
+                        36.798982
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Mohamed El Bey",
+                  "text": "Un centru local de tineret și arte numit în onoarea lui Mohamed El Bey.",
+                  "category": "cultural",
+                  "coords": [
+                        3.36502,
+                        36.741495
+                  ]
+            },
+            {
+                  "name": "Tamentfoust",
+                  "text": "O zonă de plajă pe coastă care oferă relaxare la malul mării în Tamentfoust.",
+                  "category": "recreational",
+                  "coords": [
+                        3.234297,
+                        36.805783
+                  ]
+            },
+            {
+                  "name": "Deca Plage",
+                  "text": "O stațiune de plajă pe coastă cunoscută sub numele de Deca Plage, oferind facilități pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        3.314737,
+                        36.788365
+                  ]
+            },
+            {
+                  "name": "Mosquée Essouna",
+                  "text": "Un element decorativ cu plante și sit local care poartă numele Mosquée Essouna.",
+                  "category": "landmark",
+                  "coords": [
+                        3.239358,
+                        36.779419
+                  ]
+            },
+            {
+                  "name": "Jardin Public de Rouiba",
+                  "text": "O grădină publică amenajată, oferind un spațiu verde în Rouiba.",
+                  "category": "park",
+                  "coords": [
+                        3.279299,
+                        36.738612
+                  ]
+            },
+            {
+                  "name": "Plage de Reghaia",
+                  "text": "O stațiune de plajă pe litoral, care oferă recreere pe coastă la Plage de Reghaia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.363155,
+                        36.780966
+                  ]
+            },
+            {
+                  "name": "Plage Kadous",
+                  "text": "Plage Kadous este o stațiune de coastă cu o plajă largă de nisip lângă zona industrială Rouiba.",
+                  "category": "recreational",
+                  "coords": [
+                        3.341721,
+                        36.78401
+                  ]
+            },
+            {
+                  "name": "Les Canadiennes",
+                  "text": "Stațiunea pe plajă Les Canadiennes de lângă Rouiba atrage vizitatorii cu facilități de coastă relaxante.",
+                  "category": "recreational",
+                  "coords": [
+                        3.328218,
+                        36.785652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "martyrs memorial",
+                  "text": "A solemn monument dedicated to the memory of fallen martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        3.28245,
+                        36.736196
+                  ]
+            },
+            {
+                  "name": "Serkouf Plage",
+                  "text": "A coastal sandy beach located in the Rouiba industrial zone area.",
+                  "category": "recreational",
+                  "coords": [
+                        3.312995,
+                        36.788528
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "A commemorative monument honoring the sacrifices of national martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        3.250165,
+                        36.790659
+                  ]
+            },
+            {
+                  "name": "Les ruines",
+                  "text": "A site featuring remnants and historical ruins of older structures.",
+                  "category": "historical",
+                  "coords": [
+                        3.238674,
+                        36.798982
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Mohamed El Bey",
+                  "text": "A local youth and arts centre named in honor of Mohamed El Bey.",
+                  "category": "cultural",
+                  "coords": [
+                        3.36502,
+                        36.741495
+                  ]
+            },
+            {
+                  "name": "Tamentfoust",
+                  "text": "A coastal beach area offering seaside relaxation in Tamentfoust.",
+                  "category": "recreational",
+                  "coords": [
+                        3.234297,
+                        36.805783
+                  ]
+            },
+            {
+                  "name": "Deca Plage",
+                  "text": "A coastal beach resort known as Deca Plage, offering seaside amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        3.314737,
+                        36.788365
+                  ]
+            },
+            {
+                  "name": "Mosquée Essouna",
+                  "text": "A planter feature and local site bearing the name of Mosquée Essouna.",
+                  "category": "landmark",
+                  "coords": [
+                        3.239358,
+                        36.779419
+                  ]
+            },
+            {
+                  "name": "Jardin Public de Rouiba",
+                  "text": "A landscaped public garden providing a green space in Rouiba.",
+                  "category": "park",
+                  "coords": [
+                        3.279299,
+                        36.738612
+                  ]
+            },
+            {
+                  "name": "Plage de Reghaia",
+                  "text": "A seaside beach resort offering coastal recreation at Plage de Reghaia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.363155,
+                        36.780966
+                  ]
+            },
+            {
+                  "name": "Plage Kadous",
+                  "text": "Plage Kadous is a coastal resort offering a broad sandy beach near the Rouiba industrial zone.",
+                  "category": "recreational",
+                  "coords": [
+                        3.341721,
+                        36.78401
+                  ]
+            },
+            {
+                  "name": "Les Canadiennes",
+                  "text": "Les Canadiennes beach resort near Rouiba attracts visitors with relaxing coastal facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        3.328218,
+                        36.785652
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DZ-16",
     coords: [3.3, 36.7333],
@@ -994,7 +5044,88 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       fr: ["Un secteur en croissance rapide à Constantine avec des sites de production de médicaments et de vaccins.", "Située sur le territoire de la République Algérienne Démocratique et Populaire."],
     }, image: "/poi-images/constantine-pharmaceutical-hub-economic-v2.webp"},
   {
-    id: "bethioua-petrochemical-zone-economic-v2",
+    id: "bethioua-petrochemical-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portus Magnus",
+                  "text": "Besucher können im heutigen Bethioua die antiken römischen Ruinen dieser einst blühenden Hafenstadt erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        -0.259249,
+                        35.804993
+                  ]
+            },
+            {
+                  "name": "Grande plage",
+                  "text": "Dieser weitläufige, sandige Küstenabschnitt bietet einen breiten Erholungsstrand in der Nähe des Industriezentrums Bethioua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.157589,
+                        35.791795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portus Magnus",
+                  "text": "A látogatók a mai Bethioua területén felfedezhetik ezen egykor virágzó ókori római kikötőváros romjait.",
+                  "category": "historical",
+                  "coords": [
+                        -0.259249,
+                        35.804993
+                  ]
+            },
+            {
+                  "name": "Grande plage",
+                  "text": "Ez a kiterjedt, homokos partszakasz széles rekreációs strandot kínál a bethiouai ipari központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.157589,
+                        35.791795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portus Magnus",
+                  "text": "Vizitatorii pot explora ruinele romane antice ale acestui oraș portuar cândva înfloritor, aflat în Bethioua modernă.",
+                  "category": "historical",
+                  "coords": [
+                        -0.259249,
+                        35.804993
+                  ]
+            },
+            {
+                  "name": "Grande plage",
+                  "text": "Această întindere de coastă vastă și nisipoasă oferă o plajă de recreere largă în apropierea centrului industrial Bethioua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.157589,
+                        35.791795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portus Magnus",
+                  "text": "Visitors can explore the ancient Roman ruins of this once-thriving port city in modern-day Bethioua.",
+                  "category": "historical",
+                  "coords": [
+                        -0.259249,
+                        35.804993
+                  ]
+            },
+            {
+                  "name": "Grande plage",
+                  "text": "This expansive, sandy coastal stretch offers a wide recreational beachfront near the industrial hub of Bethioua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.157589,
+                        35.791795
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DZ-31",
     coords: [-0.2667, 35.8],
@@ -1231,7 +5362,196 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "touat-gas-field-economic-v2",
+    id: "touat-gas-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zawiet sid albakri",
+                  "text": "Diese traditionelle Zawiya dient als spiritueller Rückzugsort und Versammlungsplatz in der Touat-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.253387,
+                        27.802299
+                  ]
+            },
+            {
+                  "name": "Old Zawiet",
+                  "text": "Die verfallenden Steinreste des Alten Zawiet markieren die Stätte einer historischen islamischen Religionsschule in der Wüste.",
+                  "category": "historical",
+                  "coords": [
+                        -0.250643,
+                        27.800045
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Dieser traditionelle Lehmziegel-Ksar fungierte als befestigte Festung zum Schutz der lokalen Wüstengemeinde.",
+                  "category": "castle",
+                  "coords": [
+                        -0.270723,
+                        27.830153
+                  ]
+            },
+            {
+                  "name": "Station Thermale",
+                  "text": "Diese Thermalstation bietet natürlich beheizte Bäder inmitten der trockenen Landschaften der Touat-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300707,
+                        27.876632
+                  ]
+            },
+            {
+                  "name": "Palais de la culture d'Adrar",
+                  "text": "Der Kulturpalast von Adrar ist ein lebendiger Kunstort, der sich der Erhaltung und Ausstellung des regionalen Sahara-Erbes widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.289662,
+                        27.873272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zawiet sid albakri",
+                  "text": "Ez a hagyományos zawiya spirituális menedékként és gyülekezési helyként szolgál a Touat régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.253387,
+                        27.802299
+                  ]
+            },
+            {
+                  "name": "Old Zawiet",
+                  "text": "A Régi Zawiet omladozó kőmaradványai egy történelmi iszlám vallási iskola helyét jelzik a sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.250643,
+                        27.800045
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Ez a hagyományos vályogtéglából épült ksar erődítményként szolgált a helyi sivatagi közösség védelmére.",
+                  "category": "castle",
+                  "coords": [
+                        -0.270723,
+                        27.830153
+                  ]
+            },
+            {
+                  "name": "Station Thermale",
+                  "text": "Ez a termálállomás természetes úton fűtött fürdőket kínál a Touat régió száraz tájaival körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300707,
+                        27.876632
+                  ]
+            },
+            {
+                  "name": "Palais de la culture d'Adrar",
+                  "text": "Az Adrari Kultúrpalota egy nyüzsgő művészeti helyszín, amelyet a regionális szaharai örökség megőrzésének és bemutatásának szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.289662,
+                        27.873272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zawiet sid albakri",
+                  "text": "Această zawiya tradițională servește drept refugiu spiritual și loc de adunare în regiunea Touat.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.253387,
+                        27.802299
+                  ]
+            },
+            {
+                  "name": "Old Zawiet",
+                  "text": "Rămășițele de piatră prăbușite ale Vechii Zawiet marchează locul unei școli religioase islamice istorice din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        -0.250643,
+                        27.800045
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Acest ksar tradițional din cărămidă de lut a funcționat ca o fortăreață pentru a proteja comunitatea locală din deșert.",
+                  "category": "castle",
+                  "coords": [
+                        -0.270723,
+                        27.830153
+                  ]
+            },
+            {
+                  "name": "Station Thermale",
+                  "text": "Această stațiune termală oferă băi încălzite natural, înconjurate de peisajele aride ale regiunii Touat.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300707,
+                        27.876632
+                  ]
+            },
+            {
+                  "name": "Palais de la culture d'Adrar",
+                  "text": "Palatul Culturii din Adrar este o locație artistică vibrantă, dedicată conservării și expunerii patrimoniului saharian regional.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.289662,
+                        27.873272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zawiet sid albakri",
+                  "text": "This traditional zawiya serves as a spiritual retreat and gathering place in the Touat region.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.253387,
+                        27.802299
+                  ]
+            },
+            {
+                  "name": "Old Zawiet",
+                  "text": "The crumbling stone remains of Old Zawiet mark the site of a historic Islamic religious school in the desert.",
+                  "category": "historical",
+                  "coords": [
+                        -0.250643,
+                        27.800045
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "This traditional mud-brick ksar functioned as a fortified stronghold to protect the local desert community.",
+                  "category": "castle",
+                  "coords": [
+                        -0.270723,
+                        27.830153
+                  ]
+            },
+            {
+                  "name": "Station Thermale",
+                  "text": "This thermal station offers naturally heated baths surrounded by the arid landscapes of the Touat region.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300707,
+                        27.876632
+                  ]
+            },
+            {
+                  "name": "Palais de la culture d'Adrar",
+                  "text": "The Adrar Palace of Culture is a vibrant arts venue dedicated to preserving and exhibiting regional Saharan heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.289662,
+                        27.873272
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DZ-01",
     coords: [-0.2833, 27.8833],
@@ -1374,7 +5694,592 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-tenes-economic-v2",
+    id: "port-of-tenes-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Île",
+                  "text": "Diese kleine Insel vor der Küste von Ténès lockt als natürliches Ausflugsziel mit unberührter Meeresflora.",
+                  "category": "landmark",
+                  "coords": [
+                        1.365632,
+                        36.554066
+                  ]
+            },
+            {
+                  "name": "sidi merouan",
+                  "text": "Der Strand Sidi Merouan in der Nähe von Ténès bietet eine ruhige Küstenkulisse für entspannte Tage am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346752,
+                        36.550849
+                  ]
+            },
+            {
+                  "name": "Cap T",
+                  "text": "Der historische Leuchtturm Cap Ténès wurde Mitte des 19. Jahrhunderts errichtet und thront majestätisch auf den Klippen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.340587,
+                        36.549575
+                  ]
+            },
+            {
+                  "name": "CANON DE TENES",
+                  "text": "Die verwitterten Überreste der Canon de Tenes zeugen von alten Verteidigungsanlagen an der algerischen Küste.",
+                  "category": "historical",
+                  "coords": [
+                        1.321173,
+                        36.522187
+                  ]
+            },
+            {
+                  "name": "Bordj El Ghoula",
+                  "text": "Die steinerne Ruine von Bordj El Ghoula in Ténès ist eine verlassene Festungsanlage aus vergangenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        1.318248,
+                        36.499821
+                  ]
+            },
+            {
+                  "name": "e Sidi Ma",
+                  "text": "Die Sidi-Maaiza-Moschee in Ténès ist ein historisches islamisches Gotteshaus mit einem traditionell gestalteten Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        1.317037,
+                        36.501491
+                  ]
+            },
+            {
+                  "name": "Amamra dar rih",
+                  "text": "Die Ruinen von Amamra dar rih dokumentieren zerfallene architektonische Strukturen nahe Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.241975,
+                        36.484378
+                  ]
+            },
+            {
+                  "name": "amamra abdelrahman",
+                  "text": "Amamra abdelrahman ist eine weitere Ruinenstätte in der Region Ténès, deren alte Grundmauern noch im Boden sichtbar sind.",
+                  "category": "historical",
+                  "coords": [
+                        1.250092,
+                        36.473494
+                  ]
+            },
+            {
+                  "name": "Traghnia Cascades",
+                  "text": "Die Traghnia-Kaskaden bei Ténès sind malerische Wasserfälle, die über felsige Stufen in ein natürliches Becken stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.400123,
+                        36.533185
+                  ]
+            },
+            {
+                  "name": "Musée de Ténès",
+                  "text": "Das Musée de Ténès bewahrt bedeutende archäologische und historische Fundstücke der lokalen Regionaltgeschichte auf.",
+                  "category": "museum",
+                  "coords": [
+                        1.304752,
+                        36.512235
+                  ]
+            },
+            {
+                  "name": "Former French Army military camp",
+                  "text": "Das ehemalige Militärlager der französischen Armee in Ténès ist heute eine archäologische Stätte kolonialer Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        1.249414,
+                        36.471357
+                  ]
+            },
+            {
+                  "name": "Bab E Bahr",
+                  "text": "Die steinernen Überreste von Bab al Bahr zeugen von einem ehemaligen seeseitigen Tor in der Küstenstadt Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.314447,
+                        36.501018
+                  ]
+            },
+            {
+                  "name": "French Army observation post",
+                  "text": "Dieser Beobachtungsposten der französischen Armee ist ein historisches Relikt aus der Zeit der militärischen Überwachung in Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.283824,
+                        36.485383
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Das Théâtre de verdure in Ténès ist ein grünes Freilichttheater, in dem kulturelle Veranstaltungen im Freien stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        1.31811,
+                        36.519066
+                  ]
+            },
+            {
+                  "name": "The Dome el goba",
+                  "text": "Diese archäologische Küstenstätte in der Nähe von Ténès beherbergt historische Kuppelruinen.",
+                  "category": "historical",
+                  "coords": [
+                        1.276191,
+                        36.486344
+                  ]
+            },
+            {
+                  "name": "Plage d'Aïn Kadi",
+                  "text": "Der Plage d'Aïn Kadi ist ein Sandstrand an der algerischen Mittelmeerküste in der Nähe von Ténès.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283758,
+                        36.507044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Île",
+                  "text": "Ez a Ténès partjainál fekvő kis sziget érintetlen tengeri növényvilággal vonzza a természetkedvelőket.",
+                  "category": "landmark",
+                  "coords": [
+                        1.365632,
+                        36.554066
+                  ]
+            },
+            {
+                  "name": "sidi merouan",
+                  "text": "A Ténès melletti Sidi Merouan strand csendes tengerparti hátteret kínál a tengerparti pihentető napokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346752,
+                        36.550849
+                  ]
+            },
+            {
+                  "name": "Cap T",
+                  "text": "A történelmi Cap Ténès világítótorony a 19. század közepén épült, és fenségesen magasodik a sziklákon.",
+                  "category": "landmark",
+                  "coords": [
+                        1.340587,
+                        36.549575
+                  ]
+            },
+            {
+                  "name": "CANON DE TENES",
+                  "text": "A Canon de Tenes viharvert maradványai az algériai tengerpart egykori védelmi rendszereiről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        1.321173,
+                        36.522187
+                  ]
+            },
+            {
+                  "name": "Bordj El Ghoula",
+                  "text": "A Bordj El Ghoula kőromjai Ténèsben egy elhagyatott erődítmény egy letűnt korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        1.318248,
+                        36.499821
+                  ]
+            },
+            {
+                  "name": "e Sidi Ma",
+                  "text": "A ténès-i Sidi Maaiza mecset egy történelmi iszlám istentiszteleti hely, hagyományos tervezésű minarettel.",
+                  "category": "religious",
+                  "coords": [
+                        1.317037,
+                        36.501491
+                  ]
+            },
+            {
+                  "name": "Amamra dar rih",
+                  "text": "Az Amamra dar rih romjai Ténès közelében lévő omladozó építészeti struktúrákat dokumentálnak.",
+                  "category": "historical",
+                  "coords": [
+                        1.241975,
+                        36.484378
+                  ]
+            },
+            {
+                  "name": "amamra abdelrahman",
+                  "text": "Az amamra abdelrahman egy másik romváros Ténès régióban, amelynek ősi alapfalai még ma is láthatók a földben.",
+                  "category": "historical",
+                  "coords": [
+                        1.250092,
+                        36.473494
+                  ]
+            },
+            {
+                  "name": "Traghnia Cascades",
+                  "text": "A Ténès melletti Traghnia vízesések festői vízesések, amelyek sziklás lépcsőkön zuhannak egy természetes medencébe.",
+                  "category": "landmark",
+                  "coords": [
+                        1.400123,
+                        36.533185
+                  ]
+            },
+            {
+                  "name": "Musée de Ténès",
+                  "text": "A Musée de Ténès jelentős régészeti és történelmi leleteket őriz a helyi regionális történelemből.",
+                  "category": "museum",
+                  "coords": [
+                        1.304752,
+                        36.512235
+                  ]
+            },
+            {
+                  "name": "Former French Army military camp",
+                  "text": "A francia hadsereg egykori katonai tábora Ténèsben ma a gyarmati történelem régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        1.249414,
+                        36.471357
+                  ]
+            },
+            {
+                  "name": "Bab E Bahr",
+                  "text": "A Bab al Bahr kőmaradványai egy egykori tengerparti kapuról tanúskodnak a tengerparti Ténès városában.",
+                  "category": "historical",
+                  "coords": [
+                        1.314447,
+                        36.501018
+                  ]
+            },
+            {
+                  "name": "French Army observation post",
+                  "text": "A francia hadsereg e megfigyelőállása a ténès-i katonai megfigyelés korszakának történelmi emléke.",
+                  "category": "historical",
+                  "coords": [
+                        1.283824,
+                        36.485383
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "A ténès-i Théâtre de verdure egy zöld szabadtéri színház, amely szabadtéri kulturális rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        1.31811,
+                        36.519066
+                  ]
+            },
+            {
+                  "name": "The Dome el goba",
+                  "text": "Ez a Ténès közelében található tengerparti régészeti lelőhely történelmi kupolás romokat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        1.276191,
+                        36.486344
+                  ]
+            },
+            {
+                  "name": "Plage d'Aïn Kadi",
+                  "text": "A Plage d'Aïn Kadi egy homokos partszakasz az algériai Földközi-tenger partján, Ténès közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283758,
+                        36.507044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Île",
+                  "text": "Această mică insulă în largul coastei Ténès atrage ca o destinație naturală cu floră marină neatinsă.",
+                  "category": "landmark",
+                  "coords": [
+                        1.365632,
+                        36.554066
+                  ]
+            },
+            {
+                  "name": "sidi merouan",
+                  "text": "Plaja Sidi Merouan de lângă Ténès oferă un cadru de coastă liniștit pentru zile de relaxare la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346752,
+                        36.550849
+                  ]
+            },
+            {
+                  "name": "Cap T",
+                  "text": "Istoricul far Cap Ténès a fost construit la mijlocul secolului al XIX-lea și se înalță maiestuos pe stânci.",
+                  "category": "landmark",
+                  "coords": [
+                        1.340587,
+                        36.549575
+                  ]
+            },
+            {
+                  "name": "CANON DE TENES",
+                  "text": "Rămășițele erodate ale Canon de Tenes stau mărturie a vechilor sisteme de apărare de pe coasta algeriană.",
+                  "category": "historical",
+                  "coords": [
+                        1.321173,
+                        36.522187
+                  ]
+            },
+            {
+                  "name": "Bordj El Ghoula",
+                  "text": "Ruinele de piatră de la Bordj El Ghoula din Ténès sunt o fortăreață abandonată din epoci trecute.",
+                  "category": "historical",
+                  "coords": [
+                        1.318248,
+                        36.499821
+                  ]
+            },
+            {
+                  "name": "e Sidi Ma",
+                  "text": "Moscheea Sidi Maaiza din Ténès este un lăcaș de cult islamic istoric, cu un minaret cu design tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        1.317037,
+                        36.501491
+                  ]
+            },
+            {
+                  "name": "Amamra dar rih",
+                  "text": "Ruinele de la Amamra dar rih documentează structurile arhitecturale prăbușite de lângă Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.241975,
+                        36.484378
+                  ]
+            },
+            {
+                  "name": "amamra abdelrahman",
+                  "text": "Amamra abdelrahman este un alt sit în ruină din regiunea Ténès, ai cărui pereți vechi de fundație sunt încă vizibili în pământ.",
+                  "category": "historical",
+                  "coords": [
+                        1.250092,
+                        36.473494
+                  ]
+            },
+            {
+                  "name": "Traghnia Cascades",
+                  "text": "Cascadele Traghnia de lângă Ténès sunt cascade pitorești care se prăbușesc peste trepte stâncoase într-un bazin natural.",
+                  "category": "landmark",
+                  "coords": [
+                        1.400123,
+                        36.533185
+                  ]
+            },
+            {
+                  "name": "Musée de Ténès",
+                  "text": "Musée de Ténès păstrează descoperiri arheologice și istorice semnificative din istoria regională locală.",
+                  "category": "museum",
+                  "coords": [
+                        1.304752,
+                        36.512235
+                  ]
+            },
+            {
+                  "name": "Former French Army military camp",
+                  "text": "Fostul lagăr militar al armatei franceze din Ténès este acum un sit arheologic al istoriei coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        1.249414,
+                        36.471357
+                  ]
+            },
+            {
+                  "name": "Bab E Bahr",
+                  "text": "Rămășițele de piatră ale lui Bab al Bahr stau mărturie a unei foste porți la mare în orașul de coastă Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.314447,
+                        36.501018
+                  ]
+            },
+            {
+                  "name": "French Army observation post",
+                  "text": "Acest post de observare al armatei franceze este o relicvă istorică de pe vremea supravegherii militare din Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.283824,
+                        36.485383
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Théâtre de verdure din Ténès este un teatru verde în aer liber, care găzduiește evenimente culturale în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        1.31811,
+                        36.519066
+                  ]
+            },
+            {
+                  "name": "The Dome el goba",
+                  "text": "Acest sit arheologic de coastă de lângă Ténès prezintă ruine istorice cu dom.",
+                  "category": "historical",
+                  "coords": [
+                        1.276191,
+                        36.486344
+                  ]
+            },
+            {
+                  "name": "Plage d'Aïn Kadi",
+                  "text": "Plage d'Aïn Kadi este o întindere de nisip pe coasta algeriană a Mării Mediterane, lângă Ténès.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283758,
+                        36.507044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Île",
+                  "text": "This small island off the coast of Ténès attracts visitors as a natural destination with untouched marine flora.",
+                  "category": "landmark",
+                  "coords": [
+                        1.365632,
+                        36.554066
+                  ]
+            },
+            {
+                  "name": "Sidi Merouan",
+                  "text": "Sidi Merouan beach near Ténès offers a quiet coastal setting for relaxing days by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346752,
+                        36.550849
+                  ]
+            },
+            {
+                  "name": "Cap Ténès",
+                  "text": "The historic Cap Ténès lighthouse was built in the mid-19th century and majestically crowns the cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        1.340587,
+                        36.549575
+                  ]
+            },
+            {
+                  "name": "CANON DE TENES",
+                  "text": "The weathered remains of the Canon de Tenes bear witness to ancient defense systems on the Algerian coast.",
+                  "category": "historical",
+                  "coords": [
+                        1.321173,
+                        36.522187
+                  ]
+            },
+            {
+                  "name": "Bordj El Ghoula",
+                  "text": "The stone ruins of Bordj El Ghoula in Ténès are an abandoned fortress from bygone eras.",
+                  "category": "historical",
+                  "coords": [
+                        1.318248,
+                        36.499821
+                  ]
+            },
+            {
+                  "name": "Sidi Maaiza Mosque",
+                  "text": "The Sidi Maaiza Mosque in Ténès is a historic Islamic place of worship featuring a traditionally designed minaret.",
+                  "category": "religious",
+                  "coords": [
+                        1.317037,
+                        36.501491
+                  ]
+            },
+            {
+                  "name": "Amamra dar rih",
+                  "text": "The ruins of Amamra dar rih document crumbling architectural structures near Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.241975,
+                        36.484378
+                  ]
+            },
+            {
+                  "name": "amamra abdelrahman",
+                  "text": "Amamra abdelrahman is another ruin site in the Ténès region whose ancient foundation walls are still visible in the ground.",
+                  "category": "historical",
+                  "coords": [
+                        1.250092,
+                        36.473494
+                  ]
+            },
+            {
+                  "name": "Traghnia Cascades",
+                  "text": "The Traghnia Cascades near Ténès are picturesque waterfalls that plunge over rocky steps into a natural basin.",
+                  "category": "landmark",
+                  "coords": [
+                        1.400123,
+                        36.533185
+                  ]
+            },
+            {
+                  "name": "Musée de Ténès",
+                  "text": "The Musée de Ténès preserves significant archaeological and historical findings of local regional history.",
+                  "category": "museum",
+                  "coords": [
+                        1.304752,
+                        36.512235
+                  ]
+            },
+            {
+                  "name": "Former French Army military camp",
+                  "text": "The former French Army military camp in Ténès is now an archaeological site of colonial history.",
+                  "category": "historical",
+                  "coords": [
+                        1.249414,
+                        36.471357
+                  ]
+            },
+            {
+                  "name": "Bab al Bahr",
+                  "text": "The stone remains of Bab al Bahr bear witness to a former seaside gate in the coastal town of Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.314447,
+                        36.501018
+                  ]
+            },
+            {
+                  "name": "French Army observation post",
+                  "text": "This French Army observation post is a historical relic from the era of military surveillance in Ténès.",
+                  "category": "historical",
+                  "coords": [
+                        1.283824,
+                        36.485383
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "The Théâtre de verdure in Ténès is a green open-air theater hosting outdoor cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.31811,
+                        36.519066
+                  ]
+            },
+            {
+                  "name": "the Dome",
+                  "text": "This coastal archaeological site near Ténès features historic domed ruins.",
+                  "category": "historical",
+                  "coords": [
+                        1.276191,
+                        36.486344
+                  ]
+            },
+            {
+                  "name": "Plage d'Aïn Kadi",
+                  "text": "Plage d'Aïn Kadi is a sandy stretch of the Algerian Mediterranean coast near Ténès.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283758,
+                        36.507044
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DZ-02",
     coords: [1.3094, 36.5178],

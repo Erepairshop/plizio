@@ -1123,7 +1123,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Stara Brama Lubelska",
-                  "text": "Das Alte Lubliner Tor ist ein historisches Tor in den Befestigungsanlagen der Altstadt von Zamość.",
+                  "text": "Altes Lubliner Tor, denkmalgeschützt in der Zamośćer Altstadt.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -1132,7 +1132,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Die Rotunde von Zamość ist ein Museum, das an das Martyrium und die Opfer der Region Zamość erinnert.",
+                  "text": "Rotunde – Museum des Martyriums der Region Zamość, denkmalgeschützt in der Zamośćer Altstadt.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -1467,7 +1467,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Stara Brama Lubelska",
-                  "text": "A Régi Lublini-kapu egy történelmi kapu Zamość óvárosának erődítményeiben.",
+                  "text": "Régi Lublini kapu, műemlék Zamość óvárosában.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -1476,7 +1476,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "A Zamośći Rotunda a zamośći régió mártírjainak és áldozatainak emléket állító múzeum.",
+                  "text": "Rotunda – Zamośći régió mártíromságának múzeuma, műemlék Zamość óvárosában.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -1811,7 +1811,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Stara Brama Lubelska",
-                  "text": "Vechea Poartă a Lublinului este o poartă istorică din fortificațiile orașului vechi din Zamość.",
+                  "text": "Poarta Veche de la Lublin, monument protejat în Orașul Vechi Zamość.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -1820,7 +1820,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotonda Zamość este un muzeu care comemorează martiriul și victimele regiunii Zamość.",
+                  "text": "Rotonda – Muzeul Martiriului Regiunii Zamość, monument protejat în Orașul Vechi Zamość.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -2155,7 +2155,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "The Old Lublin Gate",
-                  "text": "The Old Lublin Gate is a historic gate in the fortifications of Zamość's Old Town.",
+                  "text": "Old Lublin Gate, a listed monument in Zamość Old Town.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -2164,7 +2164,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "The Zamość Rotunda is a museum commemorating the martyrdom and victims of the Zamość region.",
+                  "text": "Rotunda – Museum of Martyrdom of the Zamość Region, a listed museum in Zamość Old Town.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -3373,7 +3373,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Dybow",
-                  "text": "Ruinen der mittelalterlichen Dybowski-Burg bei Toruń.",
+                  "text": "Ruine der Dybów-Burg, erbaut 1424 in der Toruńer Altstadt.",
                   "category": "castle",
                   "coords": [
                         18.600019,
@@ -3427,7 +3427,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XII Władysława Jagiełły",
-                  "text": "Historisches Fort innerhalb des Festungsgürtels von Toruń.",
+                  "text": "Fort XII Władysław Jagiełło, erbaut zwischen 1889 und 1892 in der Toruńer Altstadt.",
                   "category": "fortress",
                   "coords": [
                         18.594026,
@@ -3436,7 +3436,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XVI Kolejowy",
-                  "text": "Ehemaliges Fort der Toruńer Festungsanlage.",
+                  "text": "Eisenbahn-Fort XVI (Fort XVI Kolejowy), erbaut zwischen 1863 und 1866 in der Toruńer Altstadt.",
                   "category": "fortress",
                   "coords": [
                         18.63459,
@@ -3472,7 +3472,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Stadttheater",
-                  "text": "Bedeutendes Theater in der Altstadt von Toruń.",
+                  "text": "Denkmalgeschütztes Theater in der Toruńer Altstadt.",
                   "category": "cultural",
                   "coords": [
                         18.602598,
@@ -3499,7 +3499,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Marienkirche",
-                  "text": "Kirchengebäude in Toruń, benannt nach der Jungfrau Maria.",
+                  "text": "Denkmalgeschützte Kirche Mariä Himmelfahrt und des seligen Priesters Stefan Frelichowski in der Toruńer Altstadt.",
                   "category": "religious",
                   "coords": [
                         18.60241,
@@ -3508,7 +3508,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Johanniskirche",
-                  "text": "Bedeutende gotische Kathedrale in der Toruńer Altstadt.",
+                  "text": "Gotische Kathedrale aus dem 14. Jahrhundert in der Toruńer Altstadt, Johannes dem Täufer und Johannes dem Evangelisten geweiht.",
                   "category": "religious",
                   "coords": [
                         18.606332,
@@ -3517,7 +3517,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
-                  "text": "Katholische Kirche mit historischer Bedeutung.",
+                  "text": "Die 1905–1907 erbaute Kirche der Siegreichen Muttergottes und des Heiligen Georg in der Thorner Altstadt ist ein Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         18.609588,
@@ -3544,7 +3544,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "Katholische Kirchengemeinde in Toruń.",
+                  "text": "1909 erbaute Kirche der Vorsehung in der Toruńer Altstadt.",
                   "category": "religious",
                   "coords": [
                         18.640855,
@@ -3580,7 +3580,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Heiligen Stephanus Kirche",
-                  "text": "Historische Kirche in Toruń.",
+                  "text": "Denkmalgeschützte St.-Stephans-Kirche in der Toruńer Altstadt.",
                   "category": "religious",
                   "coords": [
                         18.606068,
@@ -3843,7 +3843,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Ruiny Zamku Dybowskiego",
-                  "text": "A középkori Dybowski-vár romjai Toruń közelében.",
+                  "text": "Dybów-vár romjai, 1424-ben épült Toruń óvárosában.",
                   "category": "castle",
                   "coords": [
                         18.600019,
@@ -3897,7 +3897,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XII Władysława Jagiełły",
-                  "text": "Történelmi erőd Toruń erődgyűrűjében.",
+                  "text": "Fort XII Władysław Jagiełło, 1889 és 1892 között épült Toruń óvárosában.",
                   "category": "fortress",
                   "coords": [
                         18.594026,
@@ -3906,7 +3906,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XVI Kolejowy",
-                  "text": "A toruńi erődítmény egykori erődje.",
+                  "text": "Vasúti erőd XVI (Fort XVI Kolejowy), 1863 és 1866 között épült Toruń óvárosában.",
                   "category": "fortress",
                   "coords": [
                         18.63459,
@@ -3942,7 +3942,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Teatr im. Wilama Horzycy",
-                  "text": "Fontos színház Toruń óvárosában.",
+                  "text": "Műemlék színház a toruńi óvárosban.",
                   "category": "cultural",
                   "coords": [
                         18.602598,
@@ -3969,7 +3969,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny i Błogosławionego księdza Stefana Wincentego Frelichowskiego",
-                  "text": "Templomépület Toruńban, amelyet Szűz Máriáról neveztek el.",
+                  "text": "Műemlék templom a toruńi óvárosban, Szűz Mária mennybevétele és Boldog Stefan Wincenty Frelichowski tiszteletére.",
                   "category": "religious",
                   "coords": [
                         18.60241,
@@ -3978,7 +3978,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Katedra pw. Świętych Jana Chrzciciela i Jana Ewangelisty",
-                  "text": "Fontos gótikus székesegyház Toruń óvárosában.",
+                  "text": "14. századi gótikus székesegyház a toruńi óvárosban, Keresztelő Szent János és János evangélista tiszteletére.",
                   "category": "religious",
                   "coords": [
                         18.606332,
@@ -3987,7 +3987,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
-                  "text": "Történelmi jelentőségű katolikus templom.",
+                  "text": "A Toruń óvárosában található Győztes Szűzanya és Szent György templom 1905–1907 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.609588,
@@ -4014,7 +4014,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "Katolikus templomi közösség Toruńban.",
+                  "text": "1909-ben épült Gondviselés-templom a toruńi óvárosban.",
                   "category": "religious",
                   "coords": [
                         18.640855,
@@ -4050,7 +4050,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Szczepana",
-                  "text": "Történelmi templom Toruńban.",
+                  "text": "Műemlék Szent István-templom a toruńi óvárosban.",
                   "category": "religious",
                   "coords": [
                         18.606068,
@@ -4313,7 +4313,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Ruiny Zamku Dybowskiego",
-                  "text": "Ruinele castelului medieval Dybowski de lângă Toruń.",
+                  "text": "Ruinele Castelului Dybów, construit în 1424 în Orașul Vechi Toruń.",
                   "category": "castle",
                   "coords": [
                         18.600019,
@@ -4367,7 +4367,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XII Władysława Jagiełły",
-                  "text": "Fort istoric în centura de apărare a orașului Toruń.",
+                  "text": "Fortul XII Władysław Jagiełło, construit între 1889 și 1892 în Orașul Vechi Toruń.",
                   "category": "fortress",
                   "coords": [
                         18.594026,
@@ -4376,7 +4376,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XVI Kolejowy",
-                  "text": "Fost fort al sistemului de fortificații Toruń.",
+                  "text": "Fortul XVI Feroviar (Fort XVI Kolejowy), construit între 1863 și 1866 în Orașul Vechi Toruń.",
                   "category": "fortress",
                   "coords": [
                         18.63459,
@@ -4412,7 +4412,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Teatr im. Wilama Horzycy",
-                  "text": "Teatru important în centrul vechi al orașului Toruń.",
+                  "text": "Teatru monument istoric în Orașul Vechi Toruń.",
                   "category": "cultural",
                   "coords": [
                         18.602598,
@@ -4439,7 +4439,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny i Błogosławionego księdza Stefana Wincentego Frelichowskiego",
-                  "text": "Clădire bisericească în Toruń, numită după Fecioara Maria.",
+                  "text": "Biserică monument istoric în Orașul Vechi Toruń, dedicată Adormirii Maicii Domnului și Fericitului preot Stefan Frelichowski.",
                   "category": "religious",
                   "coords": [
                         18.60241,
@@ -4448,7 +4448,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Katedra pw. Świętych Jana Chrzciciela i Jana Ewangelisty",
-                  "text": "Catedrală gotică importantă în centrul vechi al orașului Toruń.",
+                  "text": "Catedrală gotică din secolul al XIV-lea în Orașul Vechi Toruń, dedicată Sfinților Ioan Botezătorul și Ioan Evanghelistul.",
                   "category": "religious",
                   "coords": [
                         18.606332,
@@ -4457,7 +4457,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
-                  "text": "Biserică catolică cu semnificație istorică.",
+                  "text": "Biserica „Maica Domnului Victorioasă și Sfântul Gheorghe” din Orașul Vechi al Toruńului, construită între 1905 și 1907, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.609588,
@@ -4484,7 +4484,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "Comunitate bisericească catolică în Toruń.",
+                  "text": "Biserica Providenței, construită în 1909, în Orașul Vechi Toruń.",
                   "category": "religious",
                   "coords": [
                         18.640855,
@@ -4520,7 +4520,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Szczepana",
-                  "text": "Biserică istorică în Toruń.",
+                  "text": "Biserica Sfântul Ștefan, monument istoric în Orașul Vechi Toruń.",
                   "category": "religious",
                   "coords": [
                         18.606068,
@@ -4783,7 +4783,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Ruiny Zamku Dybowskiego",
-                  "text": "Ruins of the medieval Dybowski castle near Toruń.",
+                  "text": "Ruins of Dybów Castle, built in 1424, in Toruń Old Town.",
                   "category": "castle",
                   "coords": [
                         18.600019,
@@ -4837,7 +4837,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XII Władysława Jagiełły",
-                  "text": "Historic fort within the defensive ring of Toruń.",
+                  "text": "Fort XII Władysław Jagiełły, built between 1889 and 1892, in Toruń Old Town.",
                   "category": "fortress",
                   "coords": [
                         18.594026,
@@ -4846,7 +4846,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Fort XVI Kolejowy",
-                  "text": "Former fort of the Toruń fortification system.",
+                  "text": "Fort XVI Kolejowy (Railway Fort), built between 1863 and 1866, in Toruń Old Town.",
                   "category": "fortress",
                   "coords": [
                         18.63459,
@@ -4882,7 +4882,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Teatr im. Wilama Horzycy",
-                  "text": "Important theater in Toruń's Old Town.",
+                  "text": "Heritage-listed theatre in Toruń Old Town.",
                   "category": "cultural",
                   "coords": [
                         18.602598,
@@ -4909,7 +4909,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny i Błogosławionego księdza Stefana Wincentego Frelichowskiego",
-                  "text": "Church building in Toruń named after the Virgin Mary.",
+                  "text": "Heritage-listed church of the Assumption and Blessed Priest Stefan Frelichowski in Toruń Old Town.",
                   "category": "religious",
                   "coords": [
                         18.60241,
@@ -4918,7 +4918,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral church of SS. John the Baptist and John the Evangelist",
-                  "text": "Important Gothic cathedral in Toruń's Old Town.",
+                  "text": "14th-century Gothic cathedral in Toruń Old Town dedicated to SS. John the Baptist and John the Evangelist.",
                   "category": "religious",
                   "coords": [
                         18.606332,
@@ -4927,7 +4927,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
-                  "text": "Catholic church with historical significance.",
+                  "text": "Built 1905–1907, the Church of Our Lady Victorious and St. George in Toruń Old Town is a heritage building.",
                   "category": "religious",
                   "coords": [
                         18.609588,
@@ -4954,7 +4954,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "Catholic church community in Toruń.",
+                  "text": "Church of Divine Providence built in 1909 in Toruń Old Town.",
                   "category": "religious",
                   "coords": [
                         18.640855,
@@ -4990,7 +4990,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen Church",
-                  "text": "Historic church in Toruń.",
+                  "text": "Heritage-listed St. Stephen's Church in Toruń Old Town.",
                   "category": "religious",
                   "coords": [
                         18.606068,
@@ -5263,7 +5263,7 @@ export const polandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Burg Kazimierz Dolny",
-                  "text": "Kazimierz Dolny Castle ist ein bekanntes Schloss in Kazimierz Dolny.",
+                  "text": "Burgruine auf einem Hügel über der Altstadt von Kazimierz Dolny.",
                   "category": "castle",
                   "coords": [
                         21.950329,
@@ -5371,7 +5371,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Baszta",
-                  "text": "Baszta ist eine bekannte Sehenswürdigkeit in Kazimierz Dolny.",
+                  "text": "Denkmalgeschützter Turm der Kazimierz-Dolny-Burg.",
                   "category": "landmark",
                   "coords": [
                         21.952755,
@@ -5436,7 +5436,7 @@ export const polandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Zamek w Kazimierzu Dolnym",
-                  "text": "A Kazimierz Dolny Castle egy ismert kastély Kazimierz Dolny városában.",
+                  "text": "Várrom egy dombon Kazimierz Dolny óvárosa fölött.",
                   "category": "castle",
                   "coords": [
                         21.950329,
@@ -5544,7 +5544,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Baszta",
-                  "text": "A Baszta egy ismert látványosság Kazimierz Dolny városában.",
+                  "text": "Műemlék torony a kazimierz dolny-i várhoz tartozóan.",
                   "category": "landmark",
                   "coords": [
                         21.952755,
@@ -5609,7 +5609,7 @@ export const polandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Zamek w Kazimierzu Dolnym",
-                  "text": "Kazimierz Dolny Castle este un castel notabil în Kazimierz Dolny.",
+                  "text": "Ruinele castelului pe un deal deasupra orașului vechi Kazimierz Dolny.",
                   "category": "castle",
                   "coords": [
                         21.950329,
@@ -5717,7 +5717,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Baszta",
-                  "text": "Baszta este o atracție notabilă în Kazimierz Dolny.",
+                  "text": "Turn monument istoric al castelului din Kazimierz Dolny.",
                   "category": "landmark",
                   "coords": [
                         21.952755,
@@ -5782,7 +5782,7 @@ export const polandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Kazimierz Dolny Castle",
-                  "text": "Kazimierz Dolny Castle is a notable castle located in Kazimierz Dolny.",
+                  "text": "Hilltop castle ruins overlooking Kazimierz Dolny Old Town.",
                   "category": "castle",
                   "coords": [
                         21.950329,
@@ -5890,7 +5890,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Baszta",
-                  "text": "Baszta is a notable attraction located in Kazimierz Dolny.",
+                  "text": "Heritage-listed tower of Kazimierz Dolny Castle.",
                   "category": "landmark",
                   "coords": [
                         21.952755,
@@ -8910,7 +8910,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Cerkiew Wszystkich Świętych",
-                  "text": "Historische orthodoxe Kirche in der Stadt.",
+                  "text": "Denkmalgeschützte orthodoxe Allerheiligenkirche in der Altstadt von Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.689644,
@@ -8919,7 +8919,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
-                  "text": "Bedeutendes Heiligtum der Muttergottes.",
+                  "text": "Denkmalgeschütztes Sanktuarium der Muttergottes von Piotrków in der Altstadt von Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.692946,
@@ -8928,7 +8928,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba Apostoła",
-                  "text": "Prächtige Basilika des Heiligen Jakobus.",
+                  "text": "Denkmalgeschützte Basilika St. Jakobus in der Altstadt von Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.697778,
@@ -8955,7 +8955,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Jacka i św. Doroty",
-                  "text": "Historische Kirche der Heiligen Hyazinth und Dorothea.",
+                  "text": "Denkmalgeschützte Kirche der Heiligen Hyazinth und Dorothea in der Altstadt von Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.695146,
@@ -9146,7 +9146,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Cerkiew Wszystkich Świętych",
-                  "text": "Történelmi ortodox templom a városban.",
+                  "text": "Műemlék ortodox Mindenszentek-templom Piotrków Trybunalski óvárosában.",
                   "category": "religious",
                   "coords": [
                         19.689644,
@@ -9155,7 +9155,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
-                  "text": "A Szűzanya jelentős kegyhelye.",
+                  "text": "Műemlék piotrkówi Szűzanya-kegyhely Piotrków Trybunalski óvárosában.",
                   "category": "religious",
                   "coords": [
                         19.692946,
@@ -9164,7 +9164,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba Apostoła",
-                  "text": "Szent Jakab pompás bazilikája.",
+                  "text": "Műemlék Szent Jakab-bazilika Piotrków Trybunalski óvárosában.",
                   "category": "religious",
                   "coords": [
                         19.697778,
@@ -9191,7 +9191,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Jacka i św. Doroty",
-                  "text": "Szent Jácint és Szent Dorottya történelmi temploma.",
+                  "text": "Műemlék Szent Hyacint és Szent Dorottya-templom Piotrków Trybunalski óvárosában.",
                   "category": "religious",
                   "coords": [
                         19.695146,
@@ -9382,7 +9382,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Cerkiew Wszystkich Świętych",
-                  "text": "Biserică ortodoxă istorică în oraș.",
+                  "text": "Biserică ortodoxă monument istoric, Toți Sfinții, în Orașul Vechi Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.689644,
@@ -9391,7 +9391,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
-                  "text": "Sanctuar important al Maicii Domnului.",
+                  "text": "Sanctuarul Maicii Domnului din Piotrków, monument istoric, în Orașul Vechi Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.692946,
@@ -9400,7 +9400,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba Apostoła",
-                  "text": "Bazilică magnifică a Sfântului Iacob.",
+                  "text": "Basilica Sfântul Iacob, monument istoric, în Orașul Vechi Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.697778,
@@ -9427,7 +9427,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Jacka i św. Doroty",
-                  "text": "Biserica istorică a Sfinților Iachint și Doroteea.",
+                  "text": "Biserica Sfinții Iacint și Dorotheea, monument istoric, în Orașul Vechi Piotrków Trybunalski.",
                   "category": "religious",
                   "coords": [
                         19.695146,
@@ -9618,7 +9618,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Cerkiew Wszystkich Świętych",
-                  "text": "Historic orthodox church in the city.",
+                  "text": "Heritage-listed Orthodox All Saints Church in Piotrków Trybunalski Old Town.",
                   "category": "religious",
                   "coords": [
                         19.689644,
@@ -9627,7 +9627,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
-                  "text": "Significant sanctuary of the Mother of God.",
+                  "text": "Heritage-listed sanctuary of Our Lady of Piotrków in Piotrków Trybunalski Old Town.",
                   "category": "religious",
                   "coords": [
                         19.692946,
@@ -9636,7 +9636,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba Apostoła",
-                  "text": "Magnificent basilica of Saint James.",
+                  "text": "Heritage-listed Basilica of St. James in Piotrków Trybunalski Old Town.",
                   "category": "religious",
                   "coords": [
                         19.697778,
@@ -9663,7 +9663,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Jacka i św. Doroty",
-                  "text": "Historic church of Saints Hyacinth and Dorothy.",
+                  "text": "Heritage-listed church of St. Hyacinth and St. Dorothy in Piotrków Trybunalski Old Town.",
                   "category": "religious",
                   "coords": [
                         19.695146,
@@ -11025,7 +11025,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "Kościół pw. Ducha Świętego ist eine Kirche in der Altstadt von Kościan.",
+                  "text": "Die Heiliggeistkirche in der Altstadt von Kościan stammt aus dem 15. Jahrhundert, Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         16.649372,
@@ -11090,7 +11090,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "A Kościół pw. Ducha Świętego egy templom Altstadt von Kościanban.",
+                  "text": "A Kościan óvárosában található Szentlélek templom a 15. században épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         16.649372,
@@ -11155,7 +11155,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "Kościół pw. Ducha Świętego este o biserică din Altstadt von Kościan.",
+                  "text": "Biserica „Sfântul Duh” din orașul vechi al localității Kościan, construită în secolul al XV-lea, monument istoric.",
                   "category": "religious",
                   "coords": [
                         16.649372,
@@ -11220,7 +11220,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "Kościół pw. Ducha Świętego is a church situated in the Altstadt von Kościan.",
+                  "text": "The Holy Spirit Church in Kościan Old Town dates from the 15th century and is a heritage building.",
                   "category": "religious",
                   "coords": [
                         16.649372,
@@ -13122,7 +13122,7 @@ export const polandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Zamek w Kole",
-                  "text": "Ruinen einer gotischen Burg am Fluss Warthe in Koło.",
+                  "text": "Die 1362 erbaute Burg in Koło ist eine gotische Burgruine, Baudenkmal.",
                   "category": "castle",
                   "coords": [
                         18.608453,
@@ -13158,7 +13158,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Nowy Rynek",
-                  "text": "Ein zentraler Platz und Parkanlage in der Stadt Koło.",
+                  "text": "1824 angelegter Marktplatz-Park in der Nähe der Burg Koło.",
                   "category": "park",
                   "coords": [
                         18.629899,
@@ -13196,7 +13196,7 @@ export const polandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Zamek w Kole",
-                  "text": "Gótikus vár romjai a Warta folyó partján, Kołóban.",
+                  "text": "A Koło-i vár 1362-ben épült gótikus várrom, műemlék.",
                   "category": "castle",
                   "coords": [
                         18.608453,
@@ -13232,7 +13232,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Nowy Rynek",
-                  "text": "Központi tér és park Koło városában.",
+                  "text": "1824-ben létesített piactér-park a kołói vár közelében.",
                   "category": "park",
                   "coords": [
                         18.629899,
@@ -13270,7 +13270,7 @@ export const polandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Zamek w Kole",
-                  "text": "Ruinele unui castel gotic pe malul râului Warta în Koło.",
+                  "text": "Castelul din Koło, construit în 1362, ruină gotică, monument istoric.",
                   "category": "castle",
                   "coords": [
                         18.608453,
@@ -13306,7 +13306,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Nowy Rynek",
-                  "text": "O piață centrală și zonă de parc în orașul Koło.",
+                  "text": "Parc-piață amenajat în 1824 lângă Castelul Koło.",
                   "category": "park",
                   "coords": [
                         18.629899,
@@ -13344,7 +13344,7 @@ export const polandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Zamek w Kole",
-                  "text": "Ruins of a Gothic castle on the Warta River in Koło.",
+                  "text": "Built in 1362, the castle in Koło is a Gothic castle ruin and heritage monument.",
                   "category": "castle",
                   "coords": [
                         18.608453,
@@ -13380,7 +13380,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Nowy Rynek",
-                  "text": "A central square and park area in the town of Koło.",
+                  "text": "Market square park laid out in 1824 near Koło Castle.",
                   "category": "park",
                   "coords": [
                         18.629899,
@@ -13527,7 +13527,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Museum für militärhistorische Funde in Krosno.",
+                  "text": "2003 eröffnetes Museum der Schlachtfelder des Karpatenvorlands in der Altstadt von Krosno.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -13745,7 +13745,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Katonai történelmi leletek múzeuma Krosnóban.",
+                  "text": "2003-ban megnyílt Kárpátaljai Csatamezők Múzeuma Krosno óvárosában.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -13963,7 +13963,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Muzeu de descoperiri istorico-militare în Krosno.",
+                  "text": "Muzeul Câmpurilor de Bătălie din Subcarpați, deschis în 2003, în Orașul Vechi Krosno.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -14181,7 +14181,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Museum of military historical findings in Krosno.",
+                  "text": "Museum of Subcarpathian Battlefields opened in 2003 in Krosno Old Town.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -15057,7 +15057,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Krzyża",
-                  "text": "Kościół Świętego Krzyża ist eine Kirche in der Altstadt von Nysa.",
+                  "text": "Denkmalgeschützte Heilig-Kreuz-Kirche in der Altstadt von Nysa.",
                   "category": "religious",
                   "coords": [
                         17.316501,
@@ -15075,7 +15075,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny ist eine Kirche in der Altstadt von Nysa.",
+                  "text": "Die 1688–1692 erbaute Mariä-Himmelfahrt-Kirche in der Neisser Altstadt ist ein barockes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         17.337123,
@@ -15410,7 +15410,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Krzyża",
-                  "text": "A Kościół Świętego Krzyża egy templom Altstadt von Nysában.",
+                  "text": "Műemlék Szent Kereszt-templom Nysa óvárosában.",
                   "category": "religious",
                   "coords": [
                         17.316501,
@@ -15428,7 +15428,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "A Kościół pw. Wniebowzięcia Najświętszej Maryi Panny egy templom Altstadt von Nysában.",
+                  "text": "A Nysa óvárosában található Nagyboldogasszony templom 1688–1692 között épült barokk stílusú műemlék.",
                   "category": "religious",
                   "coords": [
                         17.337123,
@@ -15763,7 +15763,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Krzyża",
-                  "text": "Kościół Świętego Krzyża este o biserică din Altstadt von Nysa.",
+                  "text": "Biserica Sfânta Cruce, monument istoric, în Orașul Vechi Nysa.",
                   "category": "religious",
                   "coords": [
                         17.316501,
@@ -15781,7 +15781,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny este o biserică din Altstadt von Nysa.",
+                  "text": "Biserica „Adormirea Maicii Domnului” din orașul veche al localității Nysa, construită între 1688 și 1692 în stil baroc, monument istoric.",
                   "category": "religious",
                   "coords": [
                         17.337123,
@@ -16116,7 +16116,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Krzyża",
-                  "text": "Kościół Świętego Krzyża is a church located in the Altstadt von Nysa.",
+                  "text": "Heritage-listed Holy Cross Church in Nysa Old Town.",
                   "category": "religious",
                   "coords": [
                         17.316501,
@@ -16134,7 +16134,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny is a church in the Altstadt von Nysa.",
+                  "text": "Built 1688–1692, the Baroque Church of the Assumption in Nysa Old Town is a listed heritage building.",
                   "category": "religious",
                   "coords": [
                         17.337123,
@@ -16929,7 +16929,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
-                  "text": "Eine katholische Pfarrkirche in Kędzierzyn.",
+                  "text": "Denkmalgeschützte Pfarrkirche Mater Dolorosa in der Altstadt von Kędzierzyn.",
                   "category": "religious",
                   "coords": [
                         18.169316,
@@ -16938,7 +16938,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "Eine historische Pfarrkirche in Kędzierzyn.",
+                  "text": "Denkmalgeschützte Pfarrkirche St. Nikolaus in der Altstadt von Kędzierzyn.",
                   "category": "religious",
                   "coords": [
                         18.209151,
@@ -16947,7 +16947,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "Eine evangelische Kirche in Kędzierzyn.",
+                  "text": "Denkmalgeschützte evangelisch-lutherische Kirche in der Altstadt von Kędzierzyn.",
                   "category": "religious",
                   "coords": [
                         18.206695,
@@ -17039,7 +17039,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
-                  "text": "Katolikus plébániatemplom Kędzierzynben.",
+                  "text": "Műemlék Fájdalmas Szűzanya-plébániatemplom Kędzierzyn óvárosában.",
                   "category": "religious",
                   "coords": [
                         18.169316,
@@ -17048,7 +17048,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "Történelmi plébániatemplom Kędzierzynben.",
+                  "text": "Műemlék Szent Miklós-plébániatemplom Kędzierzyn óvárosában.",
                   "category": "religious",
                   "coords": [
                         18.209151,
@@ -17057,7 +17057,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "Evangélikus templom Kędzierzynben.",
+                  "text": "Műemlék evangélikus templom Kędzierzyn óvárosában.",
                   "category": "religious",
                   "coords": [
                         18.206695,
@@ -17149,7 +17149,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
-                  "text": "O biserică parohială catolică în Kędzierzyn.",
+                  "text": "Biserica parohială Maica Domnului Îndurerată, monument istoric, în Orașul Vechi Kędzierzyn.",
                   "category": "religious",
                   "coords": [
                         18.169316,
@@ -17158,7 +17158,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "O biserică parohială istorică în Kędzierzyn.",
+                  "text": "Biserica parohială Sfântul Nicolae, monument istoric, în Orașul Vechi Kędzierzyn.",
                   "category": "religious",
                   "coords": [
                         18.209151,
@@ -17167,7 +17167,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "O biserică evanghelică în Kędzierzyn.",
+                  "text": "Biserică evanghelică-luterană monument istoric în Orașul Vechi Kędzierzyn.",
                   "category": "religious",
                   "coords": [
                         18.206695,
@@ -17259,7 +17259,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
-                  "text": "A Catholic parish church in Kędzierzyn.",
+                  "text": "Heritage-listed parish church of Our Lady of Sorrows in Kędzierzyn Old Town.",
                   "category": "religious",
                   "coords": [
                         18.169316,
@@ -17268,7 +17268,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "A historic parish church in Kędzierzyn.",
+                  "text": "Heritage-listed parish church of St. Nicholas in Kędzierzyn Old Town.",
                   "category": "religious",
                   "coords": [
                         18.209151,
@@ -17277,7 +17277,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "An Evangelical church in Kędzierzyn.",
+                  "text": "Heritage-listed Lutheran church in Kędzierzyn Old Town.",
                   "category": "religious",
                   "coords": [
                         18.206695,
@@ -17478,7 +17478,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Opera Śląska",
-                  "text": "Opera Śląska ist ein Theater in der Altstadt von Bytom.",
+                  "text": "Denkmalgeschütztes Opernhaus in der Altstadt von Bytom.",
                   "category": "cultural",
                   "coords": [
                         18.92124,
@@ -17957,7 +17957,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Opera Śląska",
-                  "text": "Az Opera Śląska egy színház Altstadt von Bytom városában.",
+                  "text": "Műemlék operaház Bytom óvárosában.",
                   "category": "cultural",
                   "coords": [
                         18.92124,
@@ -18436,7 +18436,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Opera Śląska",
-                  "text": "Opera Śląska este un teatru din Altstadt von Bytom.",
+                  "text": "Operă monument istoric în Orașul Vechi Bytom.",
                   "category": "cultural",
                   "coords": [
                         18.92124,
@@ -18915,7 +18915,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Opera Śląska",
-                  "text": "Opera Śląska is a theatre located in the Altstadt von Bytom.",
+                  "text": "Heritage-listed Opera House in Bytom Old Town.",
                   "category": "cultural",
                   "coords": [
                         18.92124,
@@ -19755,7 +19755,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kolegiata pw. św. Jerzego",
-                  "text": "Eine kleine Stiftskirche in der Altstadt von Gnesen.",
+                  "text": "Denkmalgeschützte St.-Georgs-Stiftskirche in der Altstadt von Gniezno.",
                   "category": "religious",
                   "coords": [
                         17.593096,
@@ -19827,7 +19827,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Michała Archanioła",
-                  "text": "Ein historisches Kirchengebäude in der Altstadt von Gnesen.",
+                  "text": "Denkmalgeschützte Erzengel-Michael-Kirche in der Altstadt von Gniezno.",
                   "category": "religious",
                   "coords": [
                         17.602853,
@@ -19836,7 +19836,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
-                  "text": "Eine historische Pfarrkirche in der Altstadt von Gnesen.",
+                  "text": "Denkmalgeschützte Kirche der Heiligen Apostel Petrus und Paulus in der Altstadt von Gniezno.",
                   "category": "religious",
                   "coords": [
                         17.586511,
@@ -20009,7 +20009,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kolegiata pw. św. Jerzego",
-                  "text": "Egy kis káptalani templom Gniezno óvárosában.",
+                  "text": "Műemlék Szent György-társaskáptalani templom Gniezno óvárosában.",
                   "category": "religious",
                   "coords": [
                         17.593096,
@@ -20081,7 +20081,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Michała Archanioła",
-                  "text": "Egy történelmi templomépület Gniezno óvárosában.",
+                  "text": "Műemlék Szent Mihály arkangyal-templom Gniezno óvárosában.",
                   "category": "religious",
                   "coords": [
                         17.602853,
@@ -20090,7 +20090,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
-                  "text": "Egy történelmi plébániatemplom Gniezno óvárosában.",
+                  "text": "Műemlék Szent Péter és Pál apostolok-templom Gniezno óvárosában.",
                   "category": "religious",
                   "coords": [
                         17.586511,
@@ -20263,7 +20263,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kolegiata pw. św. Jerzego",
-                  "text": "O mică biserică colegială în orașul vechi din Gniezno.",
+                  "text": "Biserică colegială Sfântul Gheorghe, monument istoric, în Orașul Vechi Gniezno.",
                   "category": "religious",
                   "coords": [
                         17.593096,
@@ -20335,7 +20335,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Michała Archanioła",
-                  "text": "O clădire istorică a bisericii în orașul vechi din Gniezno.",
+                  "text": "Biserica Sfântul Mihail Arhanghelul, monument istoric, în Orașul Vechi Gniezno.",
                   "category": "religious",
                   "coords": [
                         17.602853,
@@ -20344,7 +20344,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
-                  "text": "O biserică parohială istorică în orașul vechi din Gniezno.",
+                  "text": "Biserica Sfinții Apostoli Petru și Pavel, monument istoric, în Orașul Vechi Gniezno.",
                   "category": "religious",
                   "coords": [
                         17.586511,
@@ -20517,7 +20517,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kolegiata pw. św. Jerzego",
-                  "text": "A small collegiate church in the Old Town of Gniezno.",
+                  "text": "Heritage-listed collegiate church of St. George in Gniezno Old Town.",
                   "category": "religious",
                   "coords": [
                         17.593096,
@@ -20589,7 +20589,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. św. Michała Archanioła",
-                  "text": "A historic church building in the Old Town of Gniezno.",
+                  "text": "Heritage-listed church of St. Michael the Archangel in Gniezno Old Town.",
                   "category": "religious",
                   "coords": [
                         17.602853,
@@ -20598,7 +20598,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
-                  "text": "A historic parish church in the Old Town of Gniezno.",
+                  "text": "Heritage-listed church of SS. Peter and Paul in Gniezno Old Town.",
                   "category": "religious",
                   "coords": [
                         17.586511,
@@ -20934,7 +20934,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kładka Esperanto",
-                  "text": "Esperanto Bridge ist eine bekannte Brücke in der Altstadt von Bydgoszcz.",
+                  "text": "2012 erbaute Fußgängerbrücke, die dem Esperanto gewidmet ist, in der Altstadt von Bydgoszcz.",
                   "category": "landmark",
                   "coords": [
                         18.02317,
@@ -21422,7 +21422,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kładka Esperanto",
-                  "text": "A(z) Esperanto Bridge egy nevezetes híd Bydgoszcz óvárosában.",
+                  "text": "2012-ben épült gyalogoshíd az eszperantónak szentelve Bydgoszcz óvárosában.",
                   "category": "landmark",
                   "coords": [
                         18.02317,
@@ -21910,7 +21910,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kładka Esperanto",
-                  "text": "Esperanto Bridge este un pod notabil situat în Orașul Vechi din Bydgoszcz.",
+                  "text": "Pod pietonal construit în 2012, dedicat limbii esperanto, în Orașul Vechi Bydgoszcz.",
                   "category": "landmark",
                   "coords": [
                         18.02317,
@@ -22398,7 +22398,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Esperanto Bridge",
-                  "text": "Esperanto Bridge is a notable bridge located in the Old Town of Bydgoszcz.",
+                  "text": "Footbridge built in 2012 dedicated to Esperanto in Bydgoszcz Old Town.",
                   "category": "landmark",
                   "coords": [
                         18.02317,
@@ -22824,7 +22824,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Protestantyzmu",
-                  "text": "Ein lokales Museum in der Altstadt von Teschen.",
+                  "text": "Museum des Protestantismus in der denkmalgeschützten Jesuskirche in der Altstadt von Cieszyn.",
                   "category": "museum",
                   "coords": [
                         18.636817,
@@ -23105,7 +23105,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Protestantyzmu",
-                  "text": "Egy helyi múzeum Cieszyn óvárosában.",
+                  "text": "Protestantizmus Múzeuma a műemlék Jézus-templomban Cieszyn óvárosában.",
                   "category": "museum",
                   "coords": [
                         18.636817,
@@ -23386,7 +23386,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Protestantyzmu",
-                  "text": "Un muzeu local în orașul vechi din Cieszyn.",
+                  "text": "Muzeul Protestantismului în biserica monument istoric Iisus din Orașul Vechi Cieszyn.",
                   "category": "museum",
                   "coords": [
                         18.636817,
@@ -23667,7 +23667,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Protestantyzmu",
-                  "text": "A local museum in the Old Town of Cieszyn.",
+                  "text": "Museum of Protestantism in the heritage-listed Jesus Church in Cieszyn Old Town.",
                   "category": "museum",
                   "coords": [
                         18.636817,
@@ -23958,7 +23958,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Trójcy Przenajświętszej",
-                  "text": "Eine prächtige historische Kirche in Tykocin.",
+                  "text": "Barockkirche der Heiligsten Dreifaltigkeit, erbaut 1740–1750, in der Altstadt von Tykocin.",
                   "category": "religious",
                   "coords": [
                         22.774301,
@@ -23976,7 +23976,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
-                  "text": "Eine historische Kirche in Tykocin.",
+                  "text": "Spätbarocke Kirche Mariä Heimsuchung, erbaut 1771–1791, in der Altstadt von Tykocin.",
                   "category": "religious",
                   "coords": [
                         22.771733,
@@ -24014,7 +24014,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Trójcy Przenajświętszej",
-                  "text": "Pompás történelmi templom Tykocinban.",
+                  "text": "Barokk Szentháromság-templom, 1740–1750 között épült, Tykocin óvárosában.",
                   "category": "religious",
                   "coords": [
                         22.774301,
@@ -24032,7 +24032,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
-                  "text": "Történelmi templom Tykocinban.",
+                  "text": "Késő barokk Vizitáció-templom, 1771–1791 között épült, Tykocin óvárosában.",
                   "category": "religious",
                   "coords": [
                         22.771733,
@@ -24070,7 +24070,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Trójcy Przenajświętszej",
-                  "text": "O biserică istorică magnifică în Tykocin.",
+                  "text": "Biserică barocă a Sfintei Treimi, construită între 1740 și 1750, în Orașul Vechi Tykocin.",
                   "category": "religious",
                   "coords": [
                         22.774301,
@@ -24088,7 +24088,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
-                  "text": "O biserică istorică în Tykocin.",
+                  "text": "Biserică barocă târzie a Vizitării Maicii Domnului, construită între 1771 și 1791, în Orașul Vechi Tykocin.",
                   "category": "religious",
                   "coords": [
                         22.771733,
@@ -24126,7 +24126,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Trójcy Przenajświętszej",
-                  "text": "A magnificent historic church in Tykocin.",
+                  "text": "Baroque church of the Holy Trinity built 1740–1750 in Tykocin Old Town.",
                   "category": "religious",
                   "coords": [
                         22.774301,
@@ -24144,7 +24144,7 @@ export const polandHistoryV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
-                  "text": "A historic church in Tykocin.",
+                  "text": "Late Baroque church of the Visitation built 1771–1791 in Tykocin Old Town.",
                   "category": "religious",
                   "coords": [
                         22.771733,

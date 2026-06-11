@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraMozambiqueCitiesV2: POI[] = [
   {
-    id: "maputo-cities-v2",
+    id: "maputo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fundação Fernando Leite Couto",
+                  "text": "Die Fundação Fernando Leite Couto ist ein wichtiges Kunstzentrum in Maputo, das die mosambikanische Literatur und zeitgenössische Kultur aktiv fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        32.595699,
+                        -25.960104
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Americano Martin Luther King Jr.",
+                  "text": "Das Centro Cultural Americano Martin Luther King Jr. dient als Knotenpunkt für den interkulturellen Austausch und veranstaltet Bildungsprogramme in Maputo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592915,
+                        -25.965058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fundação Fernando Leite Couto",
+                  "text": "A Fundação Fernando Leite Couto egy kiemelkedő művészeti központ Maputóban, amely aktívan népszerűsíti a mozambiki irodalmat és kortárs kultúrát.",
+                  "category": "cultural",
+                  "coords": [
+                        32.595699,
+                        -25.960104
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Americano Martin Luther King Jr.",
+                  "text": "A Centro Cultural Americano Martin Luther King Jr. a kultúrközi csereprogramok központjaként működik, oktatási programoknak adva otthont Maputóban.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592915,
+                        -25.965058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fundação Fernando Leite Couto",
+                  "text": "Fundação Fernando Leite Couto este un centru de arte vital din Maputo, care promovează activ literatura mozambicană și cultura contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        32.595699,
+                        -25.960104
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Americano Martin Luther King Jr.",
+                  "text": "Centro Cultural Americano Martin Luther King Jr. servește ca un centru pentru schimburile culturale, găzduind programe educaționale în Maputo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592915,
+                        -25.965058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fundação Fernando Leite Couto",
+                  "text": "The Fundação Fernando Leite Couto is a vital arts center in Maputo that actively promotes Mozambican literature and contemporary culture.",
+                  "category": "cultural",
+                  "coords": [
+                        32.595699,
+                        -25.960104
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Americano Martin Luther King Jr.",
+                  "text": "The Centro Cultural Americano Martin Luther King Jr. serves as a hub for cross-cultural exchange, hosting educational programs and events in Maputo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.592915,
+                        -25.965058
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "MZ-MP",
     coords: [32.5892, -25.9692],
@@ -349,7 +430,160 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "pemba-cities-v2",
+    id: "pemba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortim Jerónimo Romero",
+                  "text": "Eine historische koloniale Festung in Pemba, die im Januar 1863 zum Schutz der Bucht errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        40.504317,
+                        -12.950657
+                  ]
+            },
+            {
+                  "name": "Prayer Hut",
+                  "text": "Eine kleine, überdachte Denkmalsstruktur in Pemba, die als friedlicher Raum für das Gebet gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        40.531669,
+                        -12.969634
+                  ]
+            },
+            {
+                  "name": "Praça Kankhomba",
+                  "text": "Ein öffentlicher Platz in Pemba mit Gedenkelementen, die lokalen historischen Persönlichkeiten gewidmet sind.",
+                  "category": "historical",
+                  "coords": [
+                        40.517348,
+                        -12.96013
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Maunhane",
+                  "text": "Ein Küstenleuchtturm, der die Schifffahrt entlang der von Riffen gesäumten Küste in der Nähe von Pemba sichert.",
+                  "category": "landmark",
+                  "coords": [
+                        40.586821,
+                        -12.972091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortim Jerónimo Romero",
+                  "text": "Egy történelmi gyarmati erődítmény Pembában, amelyet 1863 januárjában hoztak létre az öböl védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        40.504317,
+                        -12.950657
+                  ]
+            },
+            {
+                  "name": "Prayer Hut",
+                  "text": "Kis, fedett műemlék épület Pembában, amelyet a békés imádkozás helyszíneként tartanak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        40.531669,
+                        -12.969634
+                  ]
+            },
+            {
+                  "name": "Praça Kankhomba",
+                  "text": "Pemba egyik köztere, amely a helyi történelmi személyiségeknek szentelt emlékművekkel rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        40.517348,
+                        -12.96013
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Maunhane",
+                  "text": "Tengerparti világítótorony, amely a zátonyokkal övezett partvidék menti navigációt védi Pemba közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        40.586821,
+                        -12.972091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortim Jerónimo Romero",
+                  "text": "O fortificație colonială istorică în Pemba, înființată în ianuarie 1863 pentru a proteja golful.",
+                  "category": "fortress",
+                  "coords": [
+                        40.504317,
+                        -12.950657
+                  ]
+            },
+            {
+                  "name": "Prayer Hut",
+                  "text": "O mică structură monumentală acoperită în Pemba, dedicată ca spațiu liniștit pentru rugăciune.",
+                  "category": "historical",
+                  "coords": [
+                        40.531669,
+                        -12.969634
+                  ]
+            },
+            {
+                  "name": "Praça Kankhomba",
+                  "text": "O piață publică din Pemba cu elemente comemorative dedicate figurilor istorice locale.",
+                  "category": "historical",
+                  "coords": [
+                        40.517348,
+                        -12.96013
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Maunhane",
+                  "text": "Un far de coastă care protejează navigația de-a lungul coastei cu recife din apropiere de Pemba.",
+                  "category": "landmark",
+                  "coords": [
+                        40.586821,
+                        -12.972091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortim Jerónimo Romero",
+                  "text": "A historic colonial fortification in Pemba established in January 1863 to protect the bay.",
+                  "category": "fortress",
+                  "coords": [
+                        40.504317,
+                        -12.950657
+                  ]
+            },
+            {
+                  "name": "Prayer Hut",
+                  "text": "A small, sheltered monument structure in Pemba dedicated as a peaceful space for prayer.",
+                  "category": "historical",
+                  "coords": [
+                        40.531669,
+                        -12.969634
+                  ]
+            },
+            {
+                  "name": "Praça Kankhomba",
+                  "text": "A public square in Pemba featuring memorial elements dedicated to local historical figures.",
+                  "category": "historical",
+                  "coords": [
+                        40.517348,
+                        -12.96013
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Maunhane",
+                  "text": "A coastal lighthouse safeguarding navigation along the reef-fringed coastline near Pemba.",
+                  "category": "landmark",
+                  "coords": [
+                        40.586821,
+                        -12.972091
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "MZ-P",
     coords: [40.5178, -12.974],
@@ -379,7 +613,52 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "lichinga-cities-v2",
+    id: "lichinga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place dos Liberados",
+                  "text": "Dieser zentrale öffentliche Platz in Lichinga erinnert an die Kämpfer, die für die nationale Unabhängigkeit Mosambiks gestritten haben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245826,
+                        -13.299807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place dos Liberados",
+                  "text": "Ez a központi fekvésű nyilvános tér Lichingában azoknak a harcosoknak állít emléket, akik Mozambik nemzeti függetlenségéért küzdöttek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245826,
+                        -13.299807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place dos Liberados",
+                  "text": "Această piață publică centrală din Lichinga îi comemorează pe luptătorii care au luptat pentru independența națională a Mozambicului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245826,
+                        -13.299807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place dos Liberados",
+                  "text": "This central public square in Lichinga commemorates the fighters who struggled for Mozambique's national independence.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245826,
+                        -13.299807
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "MZ-A",
     coords: [35.2406, -13.3128],
@@ -616,7 +895,52 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "angoche-cities-v2",
+    id: "angoche-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Parapato",
+                  "text": "Ein bemerkenswertes Denkmal auf einem Hügel in der Küstenstadt Angoche.",
+                  "category": "historical",
+                  "coords": [
+                        39.908607,
+                        -16.228975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Parapato",
+                  "text": "Egy nevezetes emlékmű egy dombon az óceánparti Angoche városában.",
+                  "category": "historical",
+                  "coords": [
+                        39.908607,
+                        -16.228975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Parapato",
+                  "text": "Un monument notabil situat pe un deal în orașul de coastă Angoche.",
+                  "category": "historical",
+                  "coords": [
+                        39.908607,
+                        -16.228975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Parapato",
+                  "text": "A notable monument situated on a hill in the coastal city of Angoche.",
+                  "category": "historical",
+                  "coords": [
+                        39.908607,
+                        -16.228975
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-N",
     coords: [39.9083, -16.23],
@@ -1498,7 +1822,88 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "ilha-de-mocambique-cities-v2",
+    id: "ilha-de-mocambique-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Nina",
+                  "text": "Ein lokales Kulturtheater auf der historischen Ilha de Moçambique.",
+                  "category": "cultural",
+                  "coords": [
+                        40.739032,
+                        -15.032425
+                  ]
+            },
+            {
+                  "name": "Museu Arte Sacra",
+                  "text": "Ein Museum für sakrale Kunst auf der Ilha de Moçambique.",
+                  "category": "museum",
+                  "coords": [
+                        40.737327,
+                        -15.031835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Nina",
+                  "text": "Helyi kulturális színház a történelmi Mozambik-szigeten.",
+                  "category": "cultural",
+                  "coords": [
+                        40.739032,
+                        -15.032425
+                  ]
+            },
+            {
+                  "name": "Museu Arte Sacra",
+                  "text": "Szakrális művészetnek szentelt múzeum a Mozambik-szigeten.",
+                  "category": "museum",
+                  "coords": [
+                        40.737327,
+                        -15.031835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Nina",
+                  "text": "Un teatru cultural local situat pe istorica Insulă Mozambic.",
+                  "category": "cultural",
+                  "coords": [
+                        40.739032,
+                        -15.032425
+                  ]
+            },
+            {
+                  "name": "Museu Arte Sacra",
+                  "text": "Un muzeu dedicat artei sacre, situat pe Insula Mozambic.",
+                  "category": "museum",
+                  "coords": [
+                        40.737327,
+                        -15.031835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Nina",
+                  "text": "A local cultural theatre situated on the historic Island of Mozambique.",
+                  "category": "cultural",
+                  "coords": [
+                        40.739032,
+                        -15.032425
+                  ]
+            },
+            {
+                  "name": "Museu Arte Sacra",
+                  "text": "A museum dedicated to sacred art located on the Island of Mozambique.",
+                  "category": "museum",
+                  "coords": [
+                        40.737327,
+                        -15.031835
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-N",
     coords: [40.7333, -15.0333],
@@ -1534,7 +1939,52 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "malema-cities-v2",
+    id: "malema-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heroes Plaza",
+                  "text": "Ein zentraler öffentlicher Platz in Malema, der dem Gedenken an bedeutende lokale historische Persönlichkeiten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        37.409804,
+                        -14.957188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heroes Plaza",
+                  "text": "Egy központi központi tér Malemában, amelyet jelentős helyi történelmi alakok emlékének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        37.409804,
+                        -14.957188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heroes Plaza",
+                  "text": "O piață publică centrală din Malema dedicată comemorării unor figuri istorice locale semnificative.",
+                  "category": "landmark",
+                  "coords": [
+                        37.409804,
+                        -14.957188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heroes Plaza",
+                  "text": "A central public square in Malema dedicated to commemorating significant local historical figures.",
+                  "category": "landmark",
+                  "coords": [
+                        37.409804,
+                        -14.957188
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-N",
     coords: [37.4167, -14.95],

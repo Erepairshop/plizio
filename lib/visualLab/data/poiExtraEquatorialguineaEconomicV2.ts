@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraEquatorialguineaEconomicV2: POI[] = [
   {
-    id: "seehafen-malabo-economic-v2",
+    id: "seehafen-malabo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "Die Catedrál de Santa Isabel ist eine markante neugotische römisch-katholische Kathedrale, die das historische Zentrum von Malabo überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782876,
+                        3.756941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "A Catedrál de Santa Isabel egy kiemelkedő neogótikus római katolikus katedrális, amely Malabo történelmi központja fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782876,
+                        3.756941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "Catedrál de Santa Isabel este o proeminentă catedrală romano-catolică neogotică care domină centrul istoric al orașului Malabo.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782876,
+                        3.756941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "The Catedrál de Santa Isabel is a prominent Neo-Gothic Roman Catholic cathedral towering over the historic center of Malabo.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782876,
+                        3.756941
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GQ-BN",
     coords: [8.781, 3.762],
@@ -244,7 +289,52 @@ export const poiExtraEquatorialguineaEconomicV2: POI[] = [
     }
   },
   {
-    id: "alba-gas-plant-economic-v2",
+    id: "alba-gas-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chantier de fabrication d'ECG",
+                  "text": "Dieser industrielle Fertigungshof bietet einen weiten Blick über die umliegende Infrastruktur der Gasanlage.",
+                  "category": "natural",
+                  "coords": [
+                        8.689269,
+                        3.749358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chantier de fabrication d'ECG",
+                  "text": "Ez az ipari gyártóudvar kiterjedt kilátást nyújt a gázüzem környező infrastruktúrájára.",
+                  "category": "natural",
+                  "coords": [
+                        8.689269,
+                        3.749358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chantier de fabrication d'ECG",
+                  "text": "Această curte de fabricație industrială oferă vederi ample asupra infrastructurii din jur a uzinei de gaze.",
+                  "category": "natural",
+                  "coords": [
+                        8.689269,
+                        3.749358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ECG Fabrication Yard",
+                  "text": "This industrial fabrication yard offers expansive views over the surrounding gas plant infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        8.689269,
+                        3.749358
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GQ-BN",
     coords: [8.692, 3.765],
@@ -428,7 +518,88 @@ image: "/poi-images/sendje-dam-economic-v2.webp",
       fr: ["Utilise la force du fleuve Benito.", "Assure l'approvisionnement électrique de la ville de Bata.", "Centrale moderne à haute capacité.", "Réduit la dépendance aux combustibles fossiles."],
     }, image: "/poi-images/sendje-dam-economic-v2.webp"},
   {
-    id: "port-annobon-economic-v2",
+    id: "port-annobon-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quepuchin",
+                  "text": "Ein rauer vulkanischer Gipfel, der sich über die tropische Landschaft der Insel Annobón erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        5.646829,
+                        -1.419801
+                  ]
+            },
+            {
+                  "name": "Pico del Fuego",
+                  "text": "Ein markanter vulkanischer Gipfel, der das Gelände in der Nähe des Hafens von Annobón dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        5.635394,
+                        -1.421398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quepuchin",
+                  "text": "Egy zord vulkáni csúcs, amely Annobón szigetének trópusi tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        5.646829,
+                        -1.419801
+                  ]
+            },
+            {
+                  "name": "Pico del Fuego",
+                  "text": "Egy jelentős vulkáni csúcs, amely az annobóni kikötő körüli terepet uralja.",
+                  "category": "natural",
+                  "coords": [
+                        5.635394,
+                        -1.421398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quepuchin",
+                  "text": "Un vârf vulcanic accidentat care se înalță deasupra peisajului tropical al insulei Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.646829,
+                        -1.419801
+                  ]
+            },
+            {
+                  "name": "Pico del Fuego",
+                  "text": "Un vârf vulcanic notabil care domină terenul din apropierea portului Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.635394,
+                        -1.421398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quepuchin",
+                  "text": "A rugged volcanic peak rising above the tropical landscape of Annobón island.",
+                  "category": "natural",
+                  "coords": [
+                        5.646829,
+                        -1.419801
+                  ]
+            },
+            {
+                  "name": "Pico del Fuego",
+                  "text": "A notable volcanic summit dominating the terrain near the port of Annobón.",
+                  "category": "natural",
+                  "coords": [
+                        5.635394,
+                        -1.421398
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GQ-AN",
     coords: [5.631, -1.415],
@@ -860,7 +1031,52 @@ image: "/poi-images/sendje-dam-economic-v2.webp",
     }
   },
   {
-    id: "k5-logistics-malabo-economic-v2",
+    id: "k5-logistics-malabo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Finca Sampaka",
+                  "text": "Dieses traditionelle Anwesen präsentiert die landwirtschaftliche Geschichte und die Plantagenarchitektur der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.747562,
+                        3.715163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Finca Sampaka",
+                  "text": "Ez a hagyományos birtok a régió mezőgazdasági történelmét és ültetvényes építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        8.747562,
+                        3.715163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Finca Sampaka",
+                  "text": "Această proprietate tradițională prezintă istoria agricolă și arhitectura de plantație a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        8.747562,
+                        3.715163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Finca Sampaka",
+                  "text": "This traditional estate showcases the region's agricultural history and plantation architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        8.747562,
+                        3.715163
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GQ-BN",
     coords: [8.732, 3.715],

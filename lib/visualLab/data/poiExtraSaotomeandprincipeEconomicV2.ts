@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
   {
-    id: "schokoladenmanufaktur-corallo-economic-v2",
+    id: "schokoladenmanufaktur-corallo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Espaço Cacau ist eine Galerie nahe der Schokoladenfabrik Corallo, die lokale Kunst und Kakaokultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Praia P.M ist ein Küstenstrand mit Meerblick in der Nähe der Schokoladenfabrik Corallo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73898,
+                        0.34586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Az Espaço Cacau a Corallo csokoládégyár közelében található galéria, amely a helyi művészetet és a kakaókultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "A Praia P.M egy tengerparti szakasz óceánra néző kilátással a Corallo csokoládégyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73898,
+                        0.34586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Espaço Cacau este o galerie lângă fabrica de ciocolată Corallo, care prezintă arta locală și cultura cacaoului.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Praia P.M este o zonă de plajă de coastă cu vedere la ocean, aproape de zona fabricii de ciocolată Corallo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73898,
+                        0.34586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Espaço Cacau is a gallery near the Corallo chocolate factory showcasing local art and cocoa culture.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Praia P.M is a coastal beach area with ocean views near the Corallo chocolate manufacturing site.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73898,
+                        0.34586
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ST-01",
     coords: [6.738, 0.345],
@@ -195,7 +276,52 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     },
   },
   {
-    id: "oelmuehle-ribeira-peixe-economic-v2",
+    id: "oelmuehle-ribeira-peixe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vista a Cascada Pesqueira",
+                  "text": "Vista a Cascada Pesqueira bietet malerische Panoramen eines Wasserfalls inmitten üppiger tropischer Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        6.6204,
+                        0.098919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vista a Cascada Pesqueira",
+                  "text": "A Vista a Cascada Pesqueira festői panorámát nyújt egy buja trópusi növényzet közepette alázúduló vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        6.6204,
+                        0.098919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vista a Cascada Pesqueira",
+                  "text": "Vista a Cascada Pesqueira oferă panorame pitorești ale unei cascade înconjurate de vegetație tropicală luxuriantă.",
+                  "category": "natural",
+                  "coords": [
+                        6.6204,
+                        0.098919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vista a Cascada Pesqueira",
+                  "text": "Vista a Cascada Pesqueira offers scenic panoramas of a cascading waterfall set amidst lush tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        6.6204,
+                        0.098919
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ST-03",
     coords: [6.605, 0.088],
@@ -643,7 +769,232 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     },
   },
   {
-    id: "anlegestelle-porto-alegre-economic-v2",
+    id: "anlegestelle-porto-alegre-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Inhame",
+                  "text": "Die Praia Inhame ist ein malerischer, tropischer Sandstrand nahe der Anlegestelle von Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.520902,
+                        0.024804
+                  ]
+            },
+            {
+                  "name": "Praia Istangá",
+                  "text": "Die Praia Istangá bietet einen feinen Küstensandstrand in der Nähe der Pier von Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.530562,
+                        0.026612
+                  ]
+            },
+            {
+                  "name": "Praia Cabana",
+                  "text": "Die Praia Cabana ist ein tropischer Sandstrand in Küstennähe bei Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.526255,
+                        0.026444
+                  ]
+            },
+            {
+                  "name": "Praia Dom Gái",
+                  "text": "Die Praia Dom Gái ist ein sonniger Sandstrand, der am Atlantischen Ozean nahe Porto Alegre liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.532088,
+                        0.028328
+                  ]
+            },
+            {
+                  "name": "Praia Simão Sàdó",
+                  "text": "Die Praia Simão Sàdó ist ein Ozeanstrand mit sanften Sanddünen nahe der Anlegestelle von Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.533207,
+                        0.029258
+                  ]
+            },
+            {
+                  "name": "Praia Bungá",
+                  "text": "Die Praia Bungá liegt an der afrikanischen Atlantikküste bei Porto Alegre und bietet ausgedehnte Sandflächen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.5337,
+                        0.032813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Inhame",
+                  "text": "A Praia Inhame egy festői trópusi homokos strand Porto Alegre kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.520902,
+                        0.024804
+                  ]
+            },
+            {
+                  "name": "Praia Istangá",
+                  "text": "A Praia Istangá finom homokos tengerparttal várja a látogatókat Porto Alegre mólója közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.530562,
+                        0.026612
+                  ]
+            },
+            {
+                  "name": "Praia Cabana",
+                  "text": "A Praia Cabana egy trópusi homokos part Porto Alegre partvonala közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.526255,
+                        0.026444
+                  ]
+            },
+            {
+                  "name": "Praia Dom Gái",
+                  "text": "A Praia Dom Gái egy napos homokos tengerpart az Atlanti-óceán partján, Porto Alegre közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.532088,
+                        0.028328
+                  ]
+            },
+            {
+                  "name": "Praia Simão Sàdó",
+                  "text": "A Praia Simão Sàdó egy óceáni partszakasz finom homokdűnékkel Porto Alegre kikötője mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        6.533207,
+                        0.029258
+                  ]
+            },
+            {
+                  "name": "Praia Bungá",
+                  "text": "A Praia Bungá az afrikai Atlanti-óceán partján fekszik Porto Alegre közelében, hatalmas homokos területekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.5337,
+                        0.032813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Inhame",
+                  "text": "Praia Inhame este o plajă de nisip tropicală pitorească situată lângă debarcaderul din Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.520902,
+                        0.024804
+                  ]
+            },
+            {
+                  "name": "Praia Istangá",
+                  "text": "Praia Istangá oferă o plajă de coastă cu nisip fin, nu departe de debarcaderul din Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.530562,
+                        0.026612
+                  ]
+            },
+            {
+                  "name": "Praia Cabana",
+                  "text": "Praia Cabana este o plajă tropicală cu nisip situată pe coasta de lângă Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.526255,
+                        0.026444
+                  ]
+            },
+            {
+                  "name": "Praia Dom Gái",
+                  "text": "Praia Dom Gái este o plajă însorită cu nisip pe coasta Oceanului Atlantic, lângă Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.532088,
+                        0.028328
+                  ]
+            },
+            {
+                  "name": "Praia Simão Sàdó",
+                  "text": "Praia Simão Sàdó este o plajă oceanică cu dune de nisip ușoare lângă debarcaderul din Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.533207,
+                        0.029258
+                  ]
+            },
+            {
+                  "name": "Praia Bungá",
+                  "text": "Praia Bungá este situată pe coasta atlantică africană, lângă Porto Alegre, și oferă întinderi de nisip vaste.",
+                  "category": "recreational",
+                  "coords": [
+                        6.5337,
+                        0.032813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Inhame",
+                  "text": "Praia Inhame is a picturesque tropical sandy beach located near the landing stage of Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.520902,
+                        0.024804
+                  ]
+            },
+            {
+                  "name": "Praia Istangá",
+                  "text": "Praia Istangá offers a fine sandy coastal beach not far from the pier of Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.530562,
+                        0.026612
+                  ]
+            },
+            {
+                  "name": "Praia Cabana",
+                  "text": "Praia Cabana is a tropical sandy beach situated on the coastline near Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.526255,
+                        0.026444
+                  ]
+            },
+            {
+                  "name": "Praia Dom Gái",
+                  "text": "Praia Dom Gái is a sunny sandy beach set along the Atlantic Ocean coast near Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.532088,
+                        0.028328
+                  ]
+            },
+            {
+                  "name": "Praia Simão Sàdó",
+                  "text": "Praia Simão Sàdó is an ocean beach with gentle sand dunes near the landing stage of Porto Alegre.",
+                  "category": "recreational",
+                  "coords": [
+                        6.533207,
+                        0.029258
+                  ]
+            },
+            {
+                  "name": "Praia Bungá",
+                  "text": "Praia Bungá is located on the African Atlantic coast near Porto Alegre and provides vast sandy expanses.",
+                  "category": "recreational",
+                  "coords": [
+                        6.5337,
+                        0.032813
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ST-03",
     coords: [6.532, 0.032],
@@ -899,7 +1250,52 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     },
   },
   {
-    id: "steinbruch-morro-peixe-economic-v2",
+    id: "steinbruch-morro-peixe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Guégué",
+                  "text": "Praia Guégué ist ein ruhiger, von Palmen gesäumter Sandstrand an der malerischen Nordküste bei Morro Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635044,
+                        0.406719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Guégué",
+                  "text": "A Praia Guégué egy csendes, pálmafákkal szegélyezett homokos strand Morro Peixe festői északi partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635044,
+                        0.406719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Guégué",
+                  "text": "Praia Guégué este o plajă cu nisip liniștită, mărginită de palmieri, situată de-a lungul coastei pitorești de nord, lângă Morro Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635044,
+                        0.406719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Guégué",
+                  "text": "Praia Guégué is a quiet, palm-fringed sandy beach located along the scenic northern coastline near Morro Peixe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635044,
+                        0.406719
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ST-05",
     coords: [6.635, 0.405],

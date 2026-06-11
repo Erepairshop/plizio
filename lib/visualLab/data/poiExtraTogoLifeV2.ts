@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTogoLifeV2: POI[] = [
   {
-    id: "sarakawa-wildtierreservat-life-v2",
+    id: "sarakawa-wildtierreservat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mémorial de la catastrophe aérienne de Sarakawa",
+                  "text": "Das Mémorial de la catastrophe aérienne de Sarakawa ist ein feierliches Denkmal zum Gedenken an die Opfer des tragischen Flugzeugabsturzes von Sarakawa.",
+                  "category": "historical",
+                  "coords": [
+                        1.073424,
+                        9.610849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mémorial de la catastrophe aérienne de Sarakawa",
+                  "text": "A Mémorial de la catastrophe aérienne de Sarakawa egy ünnepélyes emlékmű, amely a tragikus sarakawai repülőgép-szerencsétlenség áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        1.073424,
+                        9.610849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mémorial de la catastrophe aérienne de Sarakawa",
+                  "text": "Mémorial de la catastrophe aérienne de Sarakawa este un monument solemn care comemorează victimele tragicului accident aviatic de la Sarakawa.",
+                  "category": "historical",
+                  "coords": [
+                        1.073424,
+                        9.610849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mémorial de la catastrophe aérienne de Sarakawa",
+                  "text": "The Mémorial de la catastrophe aérienne de Sarakawa is a solemn monument commemorating the victims of the tragic Sarakawa airplane crash.",
+                  "category": "historical",
+                  "coords": [
+                        1.073424,
+                        9.610849
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TG-K",
     coords: [1.1, 9.6],
@@ -195,7 +240,88 @@ export const poiExtraTogoLifeV2: POI[] = [
     },
   },
   {
-    id: "tsevie-maniokfelder-life-v2",
+    id: "tsevie-maniokfelder-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Association Solidarité Humaine pour le Développement Durable au Togo",
+                  "text": "Diese Attraktion nahe Tsévié beleuchtet die Bemühungen um nachhaltige Entwicklung und das landwirtschaftliche Leben inmitten der Maniokfelder.",
+                  "category": "landmark",
+                  "coords": [
+                        1.209394,
+                        6.408522
+                  ]
+            },
+            {
+                  "name": "Adjif Art",
+                  "text": "Adjif Art ist ein kreativer Themenpark, der künstlerische Installationen mit der landwirtschaftlichen Umgebung der Maniokfelder von Tsévié verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.188843,
+                        6.474563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Association Solidarité Humaine pour le Développement Durable au Togo",
+                  "text": "Ez a Tsévié melletti látványosság a közösség fenntartható fejlődéséért tett erőfeszítéseit és a maniókamezők körüli mezőgazdasági életet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        1.209394,
+                        6.408522
+                  ]
+            },
+            {
+                  "name": "Adjif Art",
+                  "text": "Az Adjif Art egy kreatív vidámpark, amely művészeti installációkat ötvöz Tsévié maniókamezőinek mezőgazdasági környezetével.",
+                  "category": "recreational",
+                  "coords": [
+                        1.188843,
+                        6.474563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Association Solidarité Humaine pour le Développement Durable au Togo",
+                  "text": "Această atracție de lângă Tsévié evidențiază eforturile de dezvoltare durabilă ale comunității și viața agricolă din mijlocul câmpurilor de manioc.",
+                  "category": "landmark",
+                  "coords": [
+                        1.209394,
+                        6.408522
+                  ]
+            },
+            {
+                  "name": "Adjif Art",
+                  "text": "Adjif Art este un parc tematic creativ care îmbină instalațiile artistice cu peisajul agricol al câmpurilor de manioc din Tsévié.",
+                  "category": "recreational",
+                  "coords": [
+                        1.188843,
+                        6.474563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Association Solidarité Humaine pour le Développement Durable au Togo",
+                  "text": "This attraction near Tsévié highlights the community's sustainable development efforts and local agricultural life amidst the cassava fields.",
+                  "category": "landmark",
+                  "coords": [
+                        1.209394,
+                        6.408522
+                  ]
+            },
+            {
+                  "name": "Adjif Art",
+                  "text": "Adjif Art is a creative theme park blending artistic installations with the agricultural setting of Tsévié's cassava fields.",
+                  "category": "recreational",
+                  "coords": [
+                        1.188843,
+                        6.474563
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TG-M",
     coords: [1.2, 6.4],
@@ -243,7 +369,88 @@ export const poiExtraTogoLifeV2: POI[] = [
     },
   },
   {
-    id: "atakpame-baumwollfelder-life-v2",
+    id: "atakpame-baumwollfelder-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Evou-Kpodegbe",
+                  "text": "Der Parc Evou-Kpodegbe ist ein lokaler zoologischer Garten in Atakpamé, der Besuchern die regionale westafrikanische Tierwelt näherbringt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.043127,
+                        7.529455
+                  ]
+            },
+            {
+                  "name": "Parc Zoo de Témédja",
+                  "text": "Der Témédja-Zoo zeigt inmitten der Baumwollanbauregion bei Atakpamé eine Vielzahl lokaler Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041997,
+                        7.530552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Evou-Kpodegbe",
+                  "text": "A Parc Evou-Kpodegbe egy helyi állatkert Atakpaméban, ahol a látogatók megfigyelhetik a regionális nyugat-afrikai faunát.",
+                  "category": "recreational",
+                  "coords": [
+                        1.043127,
+                        7.529455
+                  ]
+            },
+            {
+                  "name": "Parc Zoo de Témédja",
+                  "text": "A Témédja Állatkert számos helyi állatfajt mutat be az Atakpamé melletti gyapottermő táj szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041997,
+                        7.530552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Evou-Kpodegbe",
+                  "text": "Parcul Evou-Kpodegbe este o grădină zoologică locală din Atakpamé, unde vizitatorii pot observa fauna regională vest-africană.",
+                  "category": "recreational",
+                  "coords": [
+                        1.043127,
+                        7.529455
+                  ]
+            },
+            {
+                  "name": "Parc Zoo de Témédja",
+                  "text": "Parcul Zoo din Témédja prezintă o varietate de specii locale de animale în mijlocul peisajului cultivat cu bumbac din apropiere de Atakpamé.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041997,
+                        7.530552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Evou-Kpodegbe",
+                  "text": "Parc Evou-Kpodegbe is a local zoological garden in Atakpamé where visitors can observe regional West African fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        1.043127,
+                        7.529455
+                  ]
+            },
+            {
+                  "name": "Parc Zoo de Témédja",
+                  "text": "The Témédja Zoo Park showcases a variety of local animal species amidst the cotton-growing landscape near Atakpamé.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041997,
+                        7.530552
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TG-P",
     coords: [1.1, 7.5],
@@ -339,7 +546,196 @@ export const poiExtraTogoLifeV2: POI[] = [
     },
   },
   {
-    id: "kouffo-wildtierreservat-life-v2",
+    id: "kouffo-wildtierreservat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mare de dindin",
+                  "text": "Ein natürliches Gewässer und Erholungsgebiet im Wildtierreservat Kouffo.",
+                  "category": "recreational",
+                  "coords": [
+                        1.604165,
+                        6.775609
+                  ]
+            },
+            {
+                  "name": "Mare des hypopotame de lotoè",
+                  "text": "Ein bedeutendes natürliches Becken im Kouffo-Reservat, das als Lebensraum für lokale Flusspferde bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        1.599523,
+                        6.771375
+                  ]
+            },
+            {
+                  "name": "Mare Afito",
+                  "text": "Ein ruhiges Feuchtgebiet inmitten der artenreichen Landschaft des Kouffo-Wildtierreservats.",
+                  "category": "recreational",
+                  "coords": [
+                        1.595225,
+                        6.755208
+                  ]
+            },
+            {
+                  "name": "Ferme - Reserve hippopotames",
+                  "text": "Eine Wildfarm und ein geschütztes Reservat in Kouffo, die der Beobachtung und Erhaltung von Flusspferden in ihrem natürlichen Lebensraum gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        1.591707,
+                        6.746567
+                  ]
+            },
+            {
+                  "name": "Mare alagoè",
+                  "text": "Ein natürliches Gewässer im Kouffo-Reservat, das einen malerischen Ort für Tierbeobachtungen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.596694,
+                        6.742648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mare de dindin",
+                  "text": "Természetes vízfelület és rekreációs terület a Kouffo vadvédelmi rezervátumban.",
+                  "category": "recreational",
+                  "coords": [
+                        1.604165,
+                        6.775609
+                  ]
+            },
+            {
+                  "name": "Mare des hypopotame de lotoè",
+                  "text": "Jelentős természetes medence a Kouffo rezervátumban, amely a helyi vízilovak élőhelyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        1.599523,
+                        6.771375
+                  ]
+            },
+            {
+                  "name": "Mare Afito",
+                  "text": "Csendes vizes élőhely a Kouffo vadvédelmi rezervátum biodiverz tájában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.595225,
+                        6.755208
+                  ]
+            },
+            {
+                  "name": "Ferme - Reserve hippopotames",
+                  "text": "Vadaspark és védett rezervátum Kouffóban, amelyet a vízilovak természetes élőhelyükön történő megfigyelésének és megőrzésének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        1.591707,
+                        6.746567
+                  ]
+            },
+            {
+                  "name": "Mare alagoè",
+                  "text": "Természetes vízfelület a Kouffo rezervátumban, amely festői helyszínt kínál a vadon élő állatok megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        1.596694,
+                        6.742648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mare de dindin",
+                  "text": "O caracteristică naturală a apei și o zonă de recreere în rezervația de animale sălbatice Kouffo.",
+                  "category": "recreational",
+                  "coords": [
+                        1.604165,
+                        6.775609
+                  ]
+            },
+            {
+                  "name": "Mare des hypopotame de lotoè",
+                  "text": "O piscină naturală semnificativă din rezervația Kouffo, cunoscută ca habitat pentru hipopotamii locali.",
+                  "category": "recreational",
+                  "coords": [
+                        1.599523,
+                        6.771375
+                  ]
+            },
+            {
+                  "name": "Mare Afito",
+                  "text": "O zonă umedă liniștită, situată în peisajul biodivers al rezervației de animale sălbatice Kouffo.",
+                  "category": "recreational",
+                  "coords": [
+                        1.595225,
+                        6.755208
+                  ]
+            },
+            {
+                  "name": "Ferme - Reserve hippopotames",
+                  "text": "O fermă de animale sălbatice și o rezervație protejată în Kouffo, dedicată observării și conservării hipopotamilor în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        1.591707,
+                        6.746567
+                  ]
+            },
+            {
+                  "name": "Mare alagoè",
+                  "text": "Un corp de apă natural situat în rezervația Kouffo, oferind un loc pitoresc pentru observarea vieții sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        1.596694,
+                        6.742648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mare de dindin",
+                  "text": "A natural water feature and recreational area within the Kouffo wildlife reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        1.604165,
+                        6.775609
+                  ]
+            },
+            {
+                  "name": "Mare des hypopotame de lotoè",
+                  "text": "A significant natural pool in the Kouffo reserve known as a habitat for local hippopotamuses.",
+                  "category": "recreational",
+                  "coords": [
+                        1.599523,
+                        6.771375
+                  ]
+            },
+            {
+                  "name": "Mare Afito",
+                  "text": "A tranquil wetland pool situated within the biodiverse landscape of the Kouffo wildlife reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        1.595225,
+                        6.755208
+                  ]
+            },
+            {
+                  "name": "Ferme - Reserve hippopotames",
+                  "text": "A wildlife farm and protected reserve in Kouffo dedicated to observing and conserving hippopotamuses in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        1.591707,
+                        6.746567
+                  ]
+            },
+            {
+                  "name": "Mare alagoè",
+                  "text": "A natural water body located in the Kouffo reserve, offering a scenic spot for wildlife observation.",
+                  "category": "recreational",
+                  "coords": [
+                        1.596694,
+                        6.742648
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TG-M",
     coords: [1.6, 6.8],
@@ -483,7 +879,52 @@ export const poiExtraTogoLifeV2: POI[] = [
     },
   },
   {
-    id: "agbodrafo-schildkroetenzentrum-life-v2",
+    id: "agbodrafo-schildkroetenzentrum-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coco Beach chez Antoine",
+                  "text": "Dieses entspannende Strandresort an der Küste bietet direkten Zugang zum Meer und Gastlichkeit am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346925,
+                        6.166325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coco Beach chez Antoine",
+                  "text": "Ez a pihentető tengerparti üdülőhely közvetlen hozzáférést biztosít a tengerhez és vízparti vendéglátást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346925,
+                        6.166325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coco Beach chez Antoine",
+                  "text": "Această stațiune de coastă relaxantă pe plajă oferă acces direct la mare și ospitalitate pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346925,
+                        6.166325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coco Beach chez Antoine",
+                  "text": "This relaxing coastal beach resort offers direct access to the sea and waterfront hospitality.",
+                  "category": "recreational",
+                  "coords": [
+                        1.346925,
+                        6.166325
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TG-M",
     coords: [1.4, 6.2],
@@ -915,7 +1356,88 @@ export const poiExtraTogoLifeV2: POI[] = [
     },
   },
   {
-    id: "missahoe-schmetterlingspfad-life-v2",
+    id: "missahoe-schmetterlingspfad-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mama Dza V's palace",
+                  "text": "Ein traditioneller Palast in der Gegend um den Schmetterlingspfad von Missahoe.",
+                  "category": "castle",
+                  "coords": [
+                        0.538818,
+                        6.90837
+                  ]
+            },
+            {
+                  "name": "Togbegã Gadze IX's palace",
+                  "text": "Der Palast von Togbegã Gadze IX in der malerischen Umgebung von Missahoe.",
+                  "category": "castle",
+                  "coords": [
+                        0.542993,
+                        6.908683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mama Dza V's palace",
+                  "text": "Egy hagyományos palota a missahoei pillangóösvény környékén.",
+                  "category": "castle",
+                  "coords": [
+                        0.538818,
+                        6.90837
+                  ]
+            },
+            {
+                  "name": "Togbegã Gadze IX's palace",
+                  "text": "Togbegã Gadze IX palotája Missahoe festői környezetében.",
+                  "category": "castle",
+                  "coords": [
+                        0.542993,
+                        6.908683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mama Dza V's palace",
+                  "text": "Un palat tradițional situat în zona traseului fluturilor din Missahoe.",
+                  "category": "castle",
+                  "coords": [
+                        0.538818,
+                        6.90837
+                  ]
+            },
+            {
+                  "name": "Togbegã Gadze IX's palace",
+                  "text": "Palatul lui Togbegã Gadze IX din împrejurimile pitorești ale localității Missahoe.",
+                  "category": "castle",
+                  "coords": [
+                        0.542993,
+                        6.908683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mama Dza V's palace",
+                  "text": "A traditional palace structure located near the Missahoe butterfly trail.",
+                  "category": "castle",
+                  "coords": [
+                        0.538818,
+                        6.90837
+                  ]
+            },
+            {
+                  "name": "Togbegã Gadze IX's palace",
+                  "text": "The palace of Togbegã Gadze IX, situated in the scenic surroundings of Missahoe.",
+                  "category": "castle",
+                  "coords": [
+                        0.542993,
+                        6.908683
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TG-P",
     coords: [0.5, 6.9],

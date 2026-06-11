@@ -51,7 +51,52 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }
   },
   {
-    id: "livingstone-stanley-monument-history-v2",
+    id: "livingstone-stanley-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Livingstone–Stanley",
+                  "text": "Das Monument Livingstone–Stanley markiert die genaue Stelle in der Nähe des Tanganjikasees, an der der Entdecker Henry Morton Stanley 1871 angeblich seinen berühmten Gruß an Dr. David Livingstone richtete.",
+                  "category": "landmark",
+                  "coords": [
+                        29.352452,
+                        -3.4819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Livingstone–Stanley",
+                  "text": "A Livingstone–Stanley emlékmű pontosan azt a Tanganyika-tó melletti helyet jelöli, ahol Henry Morton Stanley felfedező állítólag elmondta híres üdvözletét Dr. David Livingstone-nak 1871-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.352452,
+                        -3.4819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Livingstone–Stanley",
+                  "text": "Monumentul Livingstone-Stanley marchează locul exact de lângă lacul Tanganyika unde exploratorul Henry Morton Stanley i-ar fi adresat celebrul său salut doctorului David Livingstone în 1871.",
+                  "category": "landmark",
+                  "coords": [
+                        29.352452,
+                        -3.4819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Livingstone–Stanley",
+                  "text": "The Monument Livingstone–Stanley marks the exact spot near Lake Tanganyika where explorer Henry Morton Stanley allegedly spoke his famous greeting to Dr. David Livingstone in 1871.",
+                  "category": "landmark",
+                  "coords": [
+                        29.352452,
+                        -3.4819
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BI-BL",
     coords: [29.342, -3.488],
@@ -195,7 +240,52 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }
   },
   {
-    id: "muramvya-ancient-palace-history-v2",
+    id: "muramvya-ancient-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancienne maison du roi",
+                  "text": "Die Ancienne maison du roi ist eine gut erhaltene, traditionelle königliche Residenz mit Strohdach auf dem Gelände des alten Palastes in Muramvya.",
+                  "category": "landmark",
+                  "coords": [
+                        29.621114,
+                        -3.262899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancienne maison du roi",
+                  "text": "Az Ancienne maison du roi egy megőrzött hagyományos, nádtetős királyi lakóhely Muramvya ősi palotájának területén.",
+                  "category": "landmark",
+                  "coords": [
+                        29.621114,
+                        -3.262899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancienne maison du roi",
+                  "text": "Ancienne maison du roi este o locuință regală tradițională cu acoperiș din paie conservată, situată pe locul vechiului palat din Muramvya.",
+                  "category": "landmark",
+                  "coords": [
+                        29.621114,
+                        -3.262899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancienne maison du roi",
+                  "text": "The Ancienne maison du roi is a preserved traditional thatched-roof royal dwelling located at the ancient palace site in Muramvya.",
+                  "category": "landmark",
+                  "coords": [
+                        29.621114,
+                        -3.262899
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BI-MU",
     coords: [29.610, -3.268],

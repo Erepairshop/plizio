@@ -269,7 +269,52 @@ export const poiExtraLibyaNatureV2: POI[] = [
     
   },
   {
-    id: "gargaf-mountains-nature-v2",
+    id: "gargaf-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al - Badour",
+                  "text": "Al - Badour ist eine alte Steinburg im rauen natürlichen Gelände des Gargaf-Gebirges.",
+                  "category": "castle",
+                  "coords": [
+                        14.020015,
+                        27.497908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al - Badour",
+                  "text": "Az Al - Badour egy régi kőkastély a Gargaf-hegység zord természeti terepén.",
+                  "category": "castle",
+                  "coords": [
+                        14.020015,
+                        27.497908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al - Badour",
+                  "text": "Al - Badour este un vechi castel de piatră situat în terenul natural accidentat al Munților Gargaf.",
+                  "category": "castle",
+                  "coords": [
+                        14.020015,
+                        27.497908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al - Badour",
+                  "text": "Al - Badour is an old stone castle situated in the rugged natural terrain of the Gargaf Mountains.",
+                  "category": "castle",
+                  "coords": [
+                        14.020015,
+                        27.497908
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LY-WA",
     coords: [14.0, 27.5],
@@ -307,7 +352,124 @@ export const poiExtraLibyaNatureV2: POI[] = [
     
   },
   {
-    id: "mizdah-plateau-nature-v2",
+    id: "mizdah-plateau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Center for heritage",
+                  "text": "Das Zentrum für Kulturerbe in Mizdah widmet sich als Museum den Traditionen der trockenen libyschen Hochebene.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "Lawtia",
+                  "text": "Lawtia ist ein markantes örtliches Merkmal auf der landschaftlich reizvollen Hochebene von Mizdah.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Von diesen historischen Ruinen aus bietet sich ein weitreichender Blick über die schroffe Landschaft der Mizdah-Hochebene.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Center for heritage",
+                  "text": "A mizdahi múzeum és örökségvédelmi központ a száraz líbiai fennsík gazdag kulturális hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "Lawtia",
+                  "text": "Lawtia egy érdekes helyi látványosság Mizdah festői és magaslati fennsíkján.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Ezek a történelmi romok kiváló kilátópontot nyújtanak a zord mizdahi fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Center for heritage",
+                  "text": "Acest muzeu din Mizdah prezintă tradițiile și patrimoniul cultural specific platoului arid libian.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "Lawtia",
+                  "text": "Lawtia este un punct de atracție local situat pe pitorescul platou de altitudine din Mizdah.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Aceste ruine istorice servesc drept punct de belvedere asupra peisajului arid din platoul Mizdah.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Center for heritage",
+                  "text": "This heritage museum in Mizdah preserves and exhibits the cultural traditions of the arid Libyan plateau.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "Lawtia",
+                  "text": "Lawtia is an interesting local attraction set within the scenic plateau landscape of Mizdah.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "These historic ruins serve as a viewpoint offering sweeping vistas over the rugged Mizdah plateau.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LY-MI",
     coords: [13.0, 31.4],
@@ -497,7 +659,52 @@ export const poiExtraLibyaNatureV2: POI[] = [
     
   },
     {
-    id: "gulf-of-sidra-nature-v2",
+    id: "gulf-of-sidra-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Große Syrte",
+                  "text": "Eine große Bucht am Mittelmeer, die eine markante Einbuchtung an der Nordküste Libyens bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.996228,
+                        31.449168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gulf of Sidra",
+                  "text": "Egy nagy öböl a Földközi-tengeren, amely jelentős bemélyedést képez Líbia északi partvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.996228,
+                        31.449168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golful Sidra",
+                  "text": "Un golf mare pe Marea Mediterană formând o indentare proeminentă pe coasta nordică a Libiei.",
+                  "category": "landmark",
+                  "coords": [
+                        17.996228,
+                        31.449168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gulf of Sidra",
+                  "text": "A large bay on the Mediterranean Sea forming a prominent indentation on the northern coastline of Libya.",
+                  "category": "landmark",
+                  "coords": [
+                        17.996228,
+                        31.449168
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "LY-SR",
     coords: [18.0, 31.5],

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTogoEconomicV2: POI[] = [
   {
-    id: "kpeme-wharf-economic-v2",
+    id: "kpeme-wharf-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "fossil site at Kpeme",
+                  "text": "Die Fossilienfundstätte in Kpémé ist eine faszinierende Naturattraktion, die alte geologische Formationen nahe dem wirtschaftlichen Zentrum des lokalen Piers enthüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        1.523554,
+                        6.211695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "fossil site at Kpeme",
+                  "text": "A kpéméi fosszília-lelőhely egy lenyűgöző természeti látványosság, amely ősi geológiai képződményeket tár fel a helyi rakpart gazdasági központjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.523554,
+                        6.211695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "fossil site at Kpeme",
+                  "text": "Situl de fosile de la Kpémé este o atracție naturală fascinantă care dezvăluie formațiuni geologice străvechi lângă debarcaderul local.",
+                  "category": "landmark",
+                  "coords": [
+                        1.523554,
+                        6.211695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "fossil site at Kpeme",
+                  "text": "The fossil site at Kpémé is a fascinating natural attraction revealing ancient geological formations near the economic center of the local wharf.",
+                  "category": "landmark",
+                  "coords": [
+                        1.523554,
+                        6.211695
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TG-M",
     coords: [1.512, 6.242],
@@ -771,7 +816,52 @@ export const poiExtraTogoEconomicV2: POI[] = [
     },
   },
   {
-    id: "kekeli-power-economic-v2",
+    id: "kekeli-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marché des Féticheurs",
+                  "text": "Die weithin bekannte Attraktion ist als großer Voodoo-Markt berühmt, auf dem traditionelle Talismane und spirituelle Gegenstände verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        1.26726,
+                        6.157657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marché des Féticheurs",
+                  "text": "A széles körben elismert látványosság hatalmas vudu piacként híres, ahol hagyományos talizmánokat és spirituális tárgyakat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        1.26726,
+                        6.157657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marché des Féticheurs",
+                  "text": "Atracția, recunoscută pe scară largă, este faimoasă ca fiind o mare piață voodoo, unde se vând talismane tradiționale și articole spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        1.26726,
+                        6.157657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akodessawa Fetish Market",
+                  "text": "The widely recognized attraction is famous as a large voodoo market selling traditional talismans and spiritual items.",
+                  "category": "landmark",
+                  "coords": [
+                        1.26726,
+                        6.157657
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TG-M",
     coords: [1.268, 6.158],
@@ -867,7 +957,52 @@ export const poiExtraTogoEconomicV2: POI[] = [
     },
   },
   {
-    id: "pompage-lassa-economic-v2",
+    id: "pompage-lassa-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la Victoire",
+                  "text": "Der Place de la Victoire ist ein markantes bürgerliches Denkmal, das zentral auf einem gepflasterten öffentlichen Platz steht.",
+                  "category": "historical",
+                  "coords": [
+                        1.182271,
+                        9.559501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la Victoire",
+                  "text": "A Place de la Victoire egy kiemelkedő polgári emlékmű, amely központilag egy kövezett nyilvános téren áll.",
+                  "category": "historical",
+                  "coords": [
+                        1.182271,
+                        9.559501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la Victoire",
+                  "text": "Place de la Victoire este un monument civic proeminent care se înalță central într-o piață publică pietruită.",
+                  "category": "historical",
+                  "coords": [
+                        1.182271,
+                        9.559501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la Victoire",
+                  "text": "The Place de la Victoire is a prominent civic monument standing centrally in a paved public square.",
+                  "category": "historical",
+                  "coords": [
+                        1.182271,
+                        9.559501
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TG-K",
     coords: [1.185, 9.565],

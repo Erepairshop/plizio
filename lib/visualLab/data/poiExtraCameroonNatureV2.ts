@@ -38,7 +38,52 @@ export const poiExtraCameroonNatureV2: POI[] = [
       fr: ["Plus long fleuve du Cameroun avec environ 918 km.", "Fournisseur d'énergie majeur via des centrales.", "Corridor écologique crucial pour la forêt tropicale.", "Se jette dans l'océan Atlantique.", "Abrite une flore et une faune aquatiques diverses.", "Pilier économique pour les régions limitrophes."],
     }, image: "/poi-images/sanaga-river-nature-v2.webp"},
   {
-    id: "mount-cameroon-nature-v2",
+    id: "mount-cameroon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Kamerunberg",
+                  "text": "Dieses äußerst artenreiche Naturschutzgebiet umfasst die Hänge eines aktiven Vulkans und verfügt über ökologische Zonen, die von dichten Regenwäldern bis hin zu alpinem Grasland reichen.",
+                  "category": "natural",
+                  "coords": [
+                        9.138775,
+                        4.226381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National du Mont Cameroun",
+                  "text": "Ez a rendkívül biológiailag sokszínű védett terület egy aktív vulkán lejtőit foglalja magában, a sűrű esőerdőktől az alpesi gyepekig terjedő ökológiai zónákkal.",
+                  "category": "natural",
+                  "coords": [
+                        9.138775,
+                        4.226381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National du Mont Cameroun",
+                  "text": "Această arie protejată extrem de biodiversă cuprinde pantele unui vulcan activ, prezentând zone ecologice care variază de la păduri tropicale dense la pajiști alpine.",
+                  "category": "natural",
+                  "coords": [
+                        9.138775,
+                        4.226381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Cameroon National Park",
+                  "text": "This highly biodiverse protected area encompasses the slopes of an active volcano, featuring ecological zones ranging from dense rainforests to alpine grasslands.",
+                  "category": "natural",
+                  "coords": [
+                        9.138775,
+                        4.226381
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CM-SW",
     coords: [9.1667, 4.2167],
@@ -318,7 +363,88 @@ export const poiExtraCameroonNatureV2: POI[] = [
       fr: ["Chutes d'eau spectaculaires à l'ouest.", "Référence touristique du Cameroun.", "Paysage façonné par l'histoire volcanique.", "Masses d'eau puissantes dans la forêt tropicale.", "Points de vue uniques.", "Une merveille naturelle des hauts plateaux."],
     }, image: "/poi-images/nkam-falls-nature-v2.webp"},
   {
-    id: "kribi-sea-nature-v2",
+    id: "kribi-sea-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paris Plage chez Cédric",
+                  "text": "Paris Plage chez Cédric ist eine Küstenattraktion direkt am Strand der Kribi Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        9.884674,
+                        2.838157
+                  ]
+            },
+            {
+                  "name": "Chutes de la Lobé",
+                  "text": "Die Chutes de la Lobé sind einzigartige Wasserfälle, bei denen der Fluss direkt in die Kribi Sea stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.897299,
+                        2.882857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paris Plage chez Cédric",
+                  "text": "A Paris Plage chez Cédric egy tengerparti látványosság a Kribi-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        9.884674,
+                        2.838157
+                  ]
+            },
+            {
+                  "name": "Chutes de la Lobé",
+                  "text": "A Chutes de la Lobé egyedülálló vízesés, ahol a folyó közvetlenül a Kribi-tengerbe ömlik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.897299,
+                        2.882857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paris Plage chez Cédric",
+                  "text": "Paris Plage chez Cédric este o atracție de coastă situată de-a lungul Mării Kribi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.884674,
+                        2.838157
+                  ]
+            },
+            {
+                  "name": "Chutes de la Lobé",
+                  "text": "Chutes de la Lobé este o atracție unică cu cascade în care râul se varsă direct în Marea Kribi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.897299,
+                        2.882857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paris Plage chez Cédric",
+                  "text": "Paris Plage chez Cédric is a coastal beachfront attraction situated along the Kribi Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        9.884674,
+                        2.838157
+                  ]
+            },
+            {
+                  "name": "Chutes de la Lobé",
+                  "text": "Chutes de la Lobé is a unique waterfall attraction where the river cascades directly into the Kribi Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        9.897299,
+                        2.882857
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "CM-SU",
     coords: [9.9, 2.9],
@@ -425,7 +551,52 @@ export const poiExtraCameroonNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-oku-nature-v2",
+    id: "lake-oku-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oku Fon's Palace",
+                  "text": "Der Oku-Fon-Palast ist ein aufwendig dekoriertes traditionelles Häuptlingstum in der Nähe des vulkanischen Oku-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        10.49892,
+                        6.250296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oku Fon's Palace",
+                  "text": "Az Oku Fon palotája egy bonyolult díszítésű hagyományos törzsfőnökség a vulkanikus Oku-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.49892,
+                        6.250296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oku Fon's Palace",
+                  "text": "Palatul Oku Fon este o căpetenie tradițională decorată cu complexitate, situată lângă Lacul vulcanic Oku.",
+                  "category": "landmark",
+                  "coords": [
+                        10.49892,
+                        6.250296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oku Fon's Palace",
+                  "text": "The Oku Fon's Palace is an intricately decorated traditional chiefdom located near the volcanic Lake Oku.",
+                  "category": "landmark",
+                  "coords": [
+                        10.49892,
+                        6.250296
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CM-NW",
     coords: [10.45, 6.25],
@@ -497,7 +668,52 @@ export const poiExtraCameroonNatureV2: POI[] = [
     },
   },
   {
-    id: "buea-mountain-nature-v2",
+    id: "buea-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Entrée du parc national",
+                  "text": "Dieses Tor markiert den offiziellen Ausgangspunkt für die Erkundung der Naturlandschaften des Bergparks Buea.",
+                  "category": "landmark",
+                  "coords": [
+                        9.210713,
+                        4.173588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Entrée du parc national",
+                  "text": "Ez a kapu jelzi a Buea hegyi park természeti tájainak felfedezésének hivatalos kiindulópontját.",
+                  "category": "landmark",
+                  "coords": [
+                        9.210713,
+                        4.173588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Entrée du parc national",
+                  "text": "Această poartă marchează punctul oficial de plecare pentru explorarea peisajelor naturale ale parcului montan Buea.",
+                  "category": "landmark",
+                  "coords": [
+                        9.210713,
+                        4.173588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Park Entrance",
+                  "text": "This gateway marks the official starting point for exploring the natural landscapes of the Buea mountain park.",
+                  "category": "landmark",
+                  "coords": [
+                        9.210713,
+                        4.173588
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CM-SW",
     coords: [9.2, 4.15],
@@ -713,7 +929,52 @@ export const poiExtraCameroonNatureV2: POI[] = [
     },
   },
   {
-    id: "mungo-delta-nature-v2",
+    id: "mungo-delta-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foyer Touristique et Culturel de Bwadibo",
+                  "text": "Das Foyer Touristique et Culturel de Bwadibo ist ein Kunst- und Gemeindezentrum nahe dem artenreichen Mungo-Delta, das die lokale Kultur feiert.",
+                  "category": "cultural",
+                  "coords": [
+                        9.577428,
+                        4.099132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foyer Touristique et Culturel de Bwadibo",
+                  "text": "A Foyer Touristique et Culturel de Bwadibo egy művészeti és közösségi központ, amely a helyi kultúrát ünnepli a biológiailag sokszínű Mungo-delta közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.577428,
+                        4.099132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foyer Touristique et Culturel de Bwadibo",
+                  "text": "Foyer Touristique et Culturel de Bwadibo este un centru de artă și comunitar care celebrează cultura locală în apropiere de Delta Mungo, o zonă bogată în biodiversitate.",
+                  "category": "cultural",
+                  "coords": [
+                        9.577428,
+                        4.099132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foyer Touristique et Culturel de Bwadibo",
+                  "text": "The Foyer Touristique et Culturel de Bwadibo is an arts and community centre celebrating local culture near the biodiverse Mungo Delta.",
+                  "category": "cultural",
+                  "coords": [
+                        9.577428,
+                        4.099132
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CM-SW",
     coords: [9.55, 4.1],

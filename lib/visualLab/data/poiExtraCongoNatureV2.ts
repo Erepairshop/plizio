@@ -545,7 +545,124 @@ export const poiExtraCongoNatureV2: POI[] = [
     },
   },
   {
-    id: "cg-loango-bay-nature-v2",
+    id: "cg-loango-bay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cirque de Boueti",
+                  "text": "Ein natürliches Amphitheater und Erosionskessel mit Blick auf die Gewässer der Loango-Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        11.83137,
+                        -4.571759
+                  ]
+            },
+            {
+                  "name": "Plage de Bimba",
+                  "text": "Ein Aussichtspunkt an der Küste mit weitem Blick über die Sandstrände des Bimba-Strandes.",
+                  "category": "natural",
+                  "coords": [
+                        11.801154,
+                        -4.566854
+                  ]
+            },
+            {
+                  "name": "Gorges de Tchissanga",
+                  "text": "Ein Aussichtspunkt mit Blick auf die tiefen Küstenschluchten in der Nähe der Loango-Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        11.800047,
+                        -4.548031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cirque de Boueti",
+                  "text": "Természetes amfiteátrum és eróziós katlan, amely a Loango-öböl vizeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        11.83137,
+                        -4.571759
+                  ]
+            },
+            {
+                  "name": "Plage de Bimba",
+                  "text": "Tengerparti kilátó, ahonnan széles kilátás nyílik a Bimba strand homokos szakaszaira.",
+                  "category": "natural",
+                  "coords": [
+                        11.801154,
+                        -4.566854
+                  ]
+            },
+            {
+                  "name": "Gorges de Tchissanga",
+                  "text": "Kilátó, amely a Loango-öböl közelében lévő mély tengerparti szakadékokra néz.",
+                  "category": "natural",
+                  "coords": [
+                        11.800047,
+                        -4.548031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cirque de Boueti",
+                  "text": "Un amfiteatru natural și circ de eroziune cu vedere la apele golfului Loango.",
+                  "category": "natural",
+                  "coords": [
+                        11.83137,
+                        -4.571759
+                  ]
+            },
+            {
+                  "name": "Plage de Bimba",
+                  "text": "Un punct de belvedere de coastă care oferă vederi ample asupra întinderilor de nisip ale plajei Bimba.",
+                  "category": "natural",
+                  "coords": [
+                        11.801154,
+                        -4.566854
+                  ]
+            },
+            {
+                  "name": "Gorges de Tchissanga",
+                  "text": "Un punct de belvedere cu vedere la râpele adânci de coastă din apropierea golfului Loango.",
+                  "category": "natural",
+                  "coords": [
+                        11.800047,
+                        -4.548031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cirque de Boueti",
+                  "text": "A natural amphitheatre and erosion cirque overlooking the waters of Loango Bay.",
+                  "category": "natural",
+                  "coords": [
+                        11.83137,
+                        -4.571759
+                  ]
+            },
+            {
+                  "name": "Plage de Bimba",
+                  "text": "A coastal viewpoint offering sweeping vistas over the sandy stretches of Bimba beach.",
+                  "category": "natural",
+                  "coords": [
+                        11.801154,
+                        -4.566854
+                  ]
+            },
+            {
+                  "name": "Gorges de Tchissanga",
+                  "text": "A viewpoint overlooking the carved coastal ravines near Loango Bay.",
+                  "category": "natural",
+                  "coords": [
+                        11.800047,
+                        -4.548031
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "CG-5",
     coords: [11.8, -4.6],
@@ -633,7 +750,52 @@ export const poiExtraCongoNatureV2: POI[] = [
     },
   },
   {
-    id: "cg-cayo-lake-nature-v2",
+    id: "cg-cayo-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorges",
+                  "text": "Der Aussichtspunkt Gorges in der Nähe des Cayo Lake offenbart dramatische, tiefe felsige Schluchten, die sich durch die Naturlandschaft ziehen.",
+                  "category": "natural",
+                  "coords": [
+                        12.019056,
+                        -4.773696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorges",
+                  "text": "A Cayo-tó közelében található Gorges kilátó drámai, mély sziklás szakadékokat tár a látogatók elé a természeti tájban.",
+                  "category": "natural",
+                  "coords": [
+                        12.019056,
+                        -4.773696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorges",
+                  "text": "Punctul de belvedere Gorges de lângă Lacul Cayo dezvăluie ravene stâncoase dramatice și adânci, sculptate în peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        12.019056,
+                        -4.773696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorges",
+                  "text": "The Gorges viewpoint near Cayo Lake reveals dramatic, deep rocky ravines carved through the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.019056,
+                        -4.773696
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CG-5",
     coords: [12.0, -4.7],
@@ -809,7 +971,52 @@ export const poiExtraCongoNatureV2: POI[] = [
     },
   },
   {
-    id: "cg-dimonika-reserve-nature-v2",
+    id: "cg-dimonika-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porte du Mayombe",
+                  "text": "Die Porte du Mayombe fungiert als malerischer Aussichtspunkt am Eingang in die üppigen Bergwälder des Dimonika-Reservats.",
+                  "category": "natural",
+                  "coords": [
+                        12.455846,
+                        -4.310706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porte du Mayombe",
+                  "text": "A Porte du Mayombe festői kapuként és kilátópontként szolgál a Dimonika Rezervátum buja, hegyvidéki erdeibe.",
+                  "category": "natural",
+                  "coords": [
+                        12.455846,
+                        -4.310706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porte du Mayombe",
+                  "text": "Porte du Mayombe acționează ca un punct de belvedere pitoresc la intrarea în pădurile muntoase luxuriante ale Rezervației Dimonika.",
+                  "category": "natural",
+                  "coords": [
+                        12.455846,
+                        -4.310706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porte du Mayombe",
+                  "text": "Porte du Mayombe acts as a scenic gateway viewpoint into the lush, mountainous forests of the Dimonika Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        12.455846,
+                        -4.310706
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CG-5",
     coords: [12.4, -4.3],

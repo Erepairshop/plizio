@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSwazilandHistoryV2: POI[] = [
   {
-    id: "forbes-reef-mine-history-v2",
+    id: "forbes-reef-mine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ngwenya Viewpoint",
+                  "text": "Der Aussichtspunkt Ngwenya blickt über die historischen, tiefen Ausgrabungen der Forbes Reef Mine.",
+                  "category": "natural",
+                  "coords": [
+                        31.098642,
+                        -26.148966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ngwenya Viewpoint",
+                  "text": "A Ngwenya kilátóból rá lehet látni a Forbes Reef bánya történelmi, mélyen fekvő fejtéseire.",
+                  "category": "natural",
+                  "coords": [
+                        31.098642,
+                        -26.148966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ngwenya Viewpoint",
+                  "text": "Punctul de belvedere Ngwenya are vedere spre excavațiile adânci și istorice ale zonei miniere Forbes Reef.",
+                  "category": "natural",
+                  "coords": [
+                        31.098642,
+                        -26.148966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ngwenya Viewpoint",
+                  "text": "The Ngwenya Viewpoint provides a dramatic overlook of the ancient, deep excavations from historic iron ore mining.",
+                  "category": "natural",
+                  "coords": [
+                        31.098642,
+                        -26.148966
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SZ-HH",
     coords: [31.13, -26.15],
@@ -627,7 +672,124 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     },
   },
   {
-    id: "nsoko-old-mill-history-v2",
+    id: "nsoko-old-mill-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Border Cave Archaeological SITE , Tent WHS",
+                  "text": "Diese provisorische Welterbe-Ausgrabungsstätte umfasst eine alte Höhle mit bemerkenswerten Funden aus der mittleren Steinzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        31.990507,
+                        -27.02036
+                  ]
+            },
+            {
+                  "name": "Ngwavuma Viewpoint",
+                  "text": "Der Aussichtspunkt Ngwavuma mit Blick auf die malerischen Flusstäler bietet einen weiten Panoramablick auf die umliegende Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        31.98133,
+                        -27.076445
+                  ]
+            },
+            {
+                  "name": "Nisela Game Reserve",
+                  "text": "Dieses weitläufige Naturschutzgebiet schützt die vielfältige lokale Tierwelt und bietet authentische Safari-Erlebnisse im Bushveld.",
+                  "category": "natural",
+                  "coords": [
+                        31.943052,
+                        -26.987197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Border Cave Archaeological SITE , Tent WHS",
+                  "text": "Ez a javasolt világörökségi régészeti lelőhely egy ősi barlangot rejt, amely figyelemre méltó leleteket kínál a középső kőkorszakból.",
+                  "category": "landmark",
+                  "coords": [
+                        31.990507,
+                        -27.02036
+                  ]
+            },
+            {
+                  "name": "Ngwavuma Viewpoint",
+                  "text": "A festői folyóvölgyekre néző Ngwavuma kilátó pazar panorámát nyújt a környező vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        31.98133,
+                        -27.076445
+                  ]
+            },
+            {
+                  "name": "Nisela Game Reserve",
+                  "text": "Ez a kiterjedt természetvédelmi terület megóvja a változatos helyi vadvilágot, és autentikus szafari élményeket kínál a bozótosban.",
+                  "category": "natural",
+                  "coords": [
+                        31.943052,
+                        -26.987197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Border Cave Archaeological SITE , Tent WHS",
+                  "text": "Acest sit arheologic, aflat pe lista tentativă a Patrimoniului Mondial, prezintă o peșteră antică cu descoperiri remarcabile din Epoca de Mijloc a Pietrei.",
+                  "category": "landmark",
+                  "coords": [
+                        31.990507,
+                        -27.02036
+                  ]
+            },
+            {
+                  "name": "Ngwavuma Viewpoint",
+                  "text": "Având vedere spre văile pitorești ale râurilor, punctul de belvedere Ngwavuma oferă o panoramă vastă a sălbăticiei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        31.98133,
+                        -27.076445
+                  ]
+            },
+            {
+                  "name": "Nisela Game Reserve",
+                  "text": "Această rezervație naturală vastă protejează viața sălbatică locală diversă și oferă experiențe autentice de safari în savană.",
+                  "category": "natural",
+                  "coords": [
+                        31.943052,
+                        -26.987197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Border Cave Archaeological SITE , Tent WHS",
+                  "text": "This tentative World Heritage archaeological site features an ancient cave with remarkable findings from the Middle Stone Age.",
+                  "category": "landmark",
+                  "coords": [
+                        31.990507,
+                        -27.02036
+                  ]
+            },
+            {
+                  "name": "Ngwavuma Viewpoint",
+                  "text": "Overlooking the scenic river valleys, the Ngwavuma viewpoint provides an expansive panoramic vista of the surrounding wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        31.98133,
+                        -27.076445
+                  ]
+            },
+            {
+                  "name": "Nisela Game Reserve",
+                  "text": "This sprawling nature reserve protects diverse local wildlife and offers authentic safari experiences in the bushveld.",
+                  "category": "natural",
+                  "coords": [
+                        31.943052,
+                        -26.987197
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SZ-LU",
     coords: [31.94, -27.02],
@@ -723,7 +885,52 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     },
   },
   {
-    id: "sivunga-dlamini-history-v2",
+    id: "sivunga-dlamini-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Libetse Nature Reserve",
+                  "text": "Das Libetse Nature Reserve ist ein geschützter natürlicher Lebensraum, der die lokale Flora und Fauna bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        31.489158,
+                        -26.633775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Libetse Nature Reserve",
+                  "text": "A Libetse Természetvédelmi Terület egy védett természeti élőhely, amely a helyi vadvilágot és növényvilágot óvja.",
+                  "category": "natural",
+                  "coords": [
+                        31.489158,
+                        -26.633775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Libetse Nature Reserve",
+                  "text": "Rezervația Naturală Libetse este un habitat natural protejat care conservă flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        31.489158,
+                        -26.633775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Libetse Nature Reserve",
+                  "text": "Libetse Nature Reserve is a protected natural habitat preserving local wildlife and flora.",
+                  "category": "natural",
+                  "coords": [
+                        31.489158,
+                        -26.633775
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SZ-MA",
     coords: [31.45, -26.65],
@@ -819,7 +1026,52 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     },
   },
   {
-    id: "mlawula-stone-age-history-v2",
+    id: "mlawula-stone-age-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mlawula Nature Reserve",
+                  "text": "Das sich bis in die zerklüfteten Lebombo-Berge erstreckende Mlawula-Naturreservat schützt eine abwechslungsreiche Landschaft aus Savannen und tiefen Flussschluchten.",
+                  "category": "natural",
+                  "coords": [
+                        32.020155,
+                        -26.243973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mlawula Nature Reserve",
+                  "text": "A zord Lebombo-hegységig nyúló Mlawula Természetvédelmi Terület szavannák és mély folyóvölgyek változatos táját védi.",
+                  "category": "natural",
+                  "coords": [
+                        32.020155,
+                        -26.243973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mlawula Nature Reserve",
+                  "text": "Extinzându-se până în Munții stâncoși Lebombo, Rezervația Naturală Mlawula protejează un peisaj divers de savane și defileuri adânci de râuri.",
+                  "category": "natural",
+                  "coords": [
+                        32.020155,
+                        -26.243973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mlawula Nature Reserve",
+                  "text": "Spanning into the rugged Lebombo Mountains, Mlawula Nature Reserve protects a diverse landscape of savannas and deep river gorges.",
+                  "category": "natural",
+                  "coords": [
+                        32.020155,
+                        -26.243973
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SZ-LU",
     coords: [32.01, -26.21],

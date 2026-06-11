@@ -144,7 +144,124 @@ export const poiExtraGuineaReliefV2: POI[] = [
       fr: ["Le Mont Saré compte parmi les plus hauts sommets de la région de Dalaba.", "Le mont est composé de roches gréseuses anciennes et stratifiées.", "Plusieurs petits ruisseaux prennent leur source dans les forêts de pente.", "Le plateau est réputé pour ses températures fraîches durant la nuit.", "Le Mont Saré est un maillon important du corridor écologique de Dalaba.", "Des guides locaux proposent des randonnées thématiques sur la géologie du mont."],
     }, image: "/poi-images/mount-sare-relief-v2.webp"},
   {
-    id: "mount-tinka-relief-v2",
+    id: "mount-tinka-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont du dieu",
+                  "text": "Der Pont du dieu ist eine natürliche Felsbogenformation, die durch Erosion inmitten des rauen Geländes des Berges Tinka entstanden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.213012,
+                        10.68611
+                  ]
+            },
+            {
+                  "name": "Centre d'Exposition et de Vente Touristique",
+                  "text": "Das Centre d'Exposition et de Vente Touristique dient als Handelsplatz zur Ausstellung und zum Verkauf von regionalem Kunsthandwerk nahe dem Berg Tinka.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.255726,
+                        10.687509
+                  ]
+            },
+            {
+                  "name": "Vue sur Dalaba centre",
+                  "text": "Vue sur Dalaba centre bietet ein beeindruckendes, erhöhtes Panorama über die zentralen Dächer der Stadt und das umgebende Grün.",
+                  "category": "natural",
+                  "coords": [
+                        -12.259261,
+                        10.689985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont du dieu",
+                  "text": "A Pont du dieu egy természetes sziklaív képződmény, amelyet az erózió alakított ki a Tinka-hegy zord terepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.213012,
+                        10.68611
+                  ]
+            },
+            {
+                  "name": "Centre d'Exposition et de Vente Touristique",
+                  "text": "A Centre d'Exposition et de Vente Touristique egy kereskedelmi központ, amely regionális kézműves termékeket állít ki és árusít a Tinka-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.255726,
+                        10.687509
+                  ]
+            },
+            {
+                  "name": "Vue sur Dalaba centre",
+                  "text": "A Vue sur Dalaba centre lenyűgöző magaslati panorámát nyújt a város központi háztetőire és a környező zöldövezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -12.259261,
+                        10.689985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont du dieu",
+                  "text": "Pont du dieu este o formațiune naturală de arcadă de stâncă creată de eroziune, aflată în terenul accidentat al muntelui Tinka.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.213012,
+                        10.68611
+                  ]
+            },
+            {
+                  "name": "Centre d'Exposition et de Vente Touristique",
+                  "text": "Centre d'Exposition et de Vente Touristique servește drept spațiu comercial ce expune și vinde obiecte de artizanat regionale lângă muntele Tinka.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.255726,
+                        10.687509
+                  ]
+            },
+            {
+                  "name": "Vue sur Dalaba centre",
+                  "text": "Vue sur Dalaba centre oferă o panoramă ridicată și impunătoare asupra acoperișurilor centrale ale orașului și a verdeții înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -12.259261,
+                        10.689985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont du dieu",
+                  "text": "Pont du dieu is a natural rock arch formation shaped by erosion amidst the rugged terrain of Mount Tinka.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.213012,
+                        10.68611
+                  ]
+            },
+            {
+                  "name": "Centre d'Exposition et de Vente Touristique",
+                  "text": "The Centre d'Exposition et de Vente Touristique serves as a commercial space displaying and selling regional handicrafts near Mount Tinka.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.255726,
+                        10.687509
+                  ]
+            },
+            {
+                  "name": "Vue sur Dalaba centre",
+                  "text": "Vue sur Dalaba centre offers a commanding elevated panorama over the town's central rooftops and surrounding greenery.",
+                  "category": "natural",
+                  "coords": [
+                        -12.259261,
+                        10.689985
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GN-M",
     coords: [-12.22, 10.68],
@@ -379,7 +496,160 @@ export const poiExtraGuineaReliefV2: POI[] = [
       fr: ["Le Mont Kourandou fait partie de la ligne de partage des eaux entre les bassins du Niger et du Makona.", "Le massif est composé de certaines des formations rocheuses les plus anciennes de Guinée.", "Les vallées du Kourandou recèlent d'importants gisements de diamants.", "La végétation passe brusquement de la forêt de montagne dense à la savane arborée claire.", "Le mont est un point de repère crucial pour le commerce régional entre Kissidougou et Kankan.", "Il abrite des espèces rares de rapaces qui nichent dans ses parois rocheuses."],
     }, image: "/poi-images/mount-kourandou-relief-v2.webp"},
   {
-    id: "dalaba-plateau-relief-v2",
+    id: "dalaba-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terrasse de l'hôtel du Fouta",
+                  "text": "Die Terrasse de l'hôtel du Fouta ist eine erhöhte Freiluft-Aussichtsplattform mit malerischem Blick über die weitläufigen Täler des Dalaba-Plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        -12.265649,
+                        10.688478
+                  ]
+            },
+            {
+                  "name": "Musée Africain American",
+                  "text": "Das Musée Africain American ist eine kulturelle Einrichtung auf dem Dalaba-Plateau, die historische Exponate zur gemeinsamen Geschichte Afrikas und der Amerikas bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -12.258854,
+                        10.683537
+                  ]
+            },
+            {
+                  "name": "Case des palabres",
+                  "text": "Die Case des palabres ist eine traditionelle runde Versammlungshütte mit einem charakteristischen Strohdach, die für die Besprechung von Gemeinschaftsangelegenheiten genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -12.264976,
+                        10.681456
+                  ]
+            },
+            {
+                  "name": "Case Myriam Makeba",
+                  "text": "Die Case Myriam Makeba ist die erhaltene traditionelle Rundhütte, die einst von der berühmten südafrikanischen Sängerin während ihres Exils in Guinea bewohnt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.262108,
+                        10.684653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terrasse de l'hôtel du Fouta",
+                  "text": "A Terrasse de l'hôtel du Fouta egy magaslati szabadtéri kilátóterasz, amely festői látványt nyújt a Dalaba-fennsík kiterjedt völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -12.265649,
+                        10.688478
+                  ]
+            },
+            {
+                  "name": "Musée Africain American",
+                  "text": "A Musée Africain American egy kulturális intézmény a Dalaba-fennsíkon, amely Afrika és Amerika közös történelméhez kapcsolódó történelmi kiállításokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -12.258854,
+                        10.683537
+                  ]
+            },
+            {
+                  "name": "Case des palabres",
+                  "text": "A Case des palabres egy hagyományos kerek, nádfedeles tanácskozó kunyhó, amelyet a közösségi ügyek megvitatására használtak történelmileg.",
+                  "category": "historical",
+                  "coords": [
+                        -12.264976,
+                        10.681456
+                  ]
+            },
+            {
+                  "name": "Case Myriam Makeba",
+                  "text": "A Case Myriam Makeba az a megőrzött hagyományos kerek kunyhó, ahol a híres dél-afrikai énekesnő élt guineai száműzetése alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.262108,
+                        10.684653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terrasse de l'hôtel du Fouta",
+                  "text": "Terrasse de l'hôtel du Fouta este o platformă de observare elevată, în aer liber, oferind priveliști pitorești peste văile extinse ale platoului Dalaba.",
+                  "category": "natural",
+                  "coords": [
+                        -12.265649,
+                        10.688478
+                  ]
+            },
+            {
+                  "name": "Musée Africain American",
+                  "text": "Musée Africain American este o instituție culturală care păstrează exponate istorice legate de trecutul comun al Africii și al Americii pe platoul Dalaba.",
+                  "category": "museum",
+                  "coords": [
+                        -12.258854,
+                        10.683537
+                  ]
+            },
+            {
+                  "name": "Case des palabres",
+                  "text": "Case des palabres este o colibă tradițională rotundă pentru întâlniri, cu un acoperiș de paie caracteristic, folosită istoric pentru a discuta afacerile comunității.",
+                  "category": "historical",
+                  "coords": [
+                        -12.264976,
+                        10.681456
+                  ]
+            },
+            {
+                  "name": "Case Myriam Makeba",
+                  "text": "Case Myriam Makeba este coliba tradițională rotundă conservată, locuită odinioară de renumita cântăreață sud-africană în timpul exilului ei în Guineea.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.262108,
+                        10.684653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terrasse de l'hôtel du Fouta",
+                  "text": "Terrasse de l'hôtel du Fouta is an elevated open-air viewing platform providing scenic vistas across the sweeping valleys of the Dalaba plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -12.265649,
+                        10.688478
+                  ]
+            },
+            {
+                  "name": "Musée Africain American",
+                  "text": "The Musée Africain American is a cultural institution preserving historical exhibits related to the shared history of Africa and the Americas on the Dalaba plateau.",
+                  "category": "museum",
+                  "coords": [
+                        -12.258854,
+                        10.683537
+                  ]
+            },
+            {
+                  "name": "Case des palabres",
+                  "text": "Case des palabres is a traditional round meeting hut featuring a characteristic thatched roof, historically used for discussing community affairs.",
+                  "category": "historical",
+                  "coords": [
+                        -12.264976,
+                        10.681456
+                  ]
+            },
+            {
+                  "name": "Case Myriam Makeba",
+                  "text": "Case Myriam Makeba is the preserved traditional round hut once inhabited by the renowned South African singer during her exile in Guinea.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.262108,
+                        10.684653
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GN-M",
     coords: [-12.25, 10.65],
@@ -568,7 +838,52 @@ export const poiExtraGuineaReliefV2: POI[] = [
       fr: ["Les basses terres de Boké abritent plus de 25 % des réserves mondiales de bauxite.", "Le relief est découpé par de nombreux fleuves côtiers comme le rio Nuñez.", "Les plateaux latéritiques (bowal) sont souvent totalement dépourvus d'arbres et riches en minéraux.", "La région se situe à une altitude comprise entre 0 et 200 mètres au-dessus du niveau de la mer.", "Plusieurs lignes de chemin de fer minières modernes traversent les basses terres.", "La plaine côtière est caractérisée par de vastes dépôts sableux et des sols alluviaux."],
     }, image: "/poi-images/boke-lowlands-relief-v2.webp"},
   {
-    id: "siguiri-lowland-relief-v2",
+    id: "siguiri-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "Dieses Denkmal steht stolz in der Tieflandregion von Siguiri.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "Ez a műemléképület büszkén áll Siguiri alföldi terepén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "Această structură monumentală se înalță mândră în regiunea de câmpie a orașului Siguiri.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "This monument structure stands proudly within the lowland terrain of Siguiri.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GN-K",
     coords: [-9.25, 11.45],
@@ -663,7 +978,52 @@ export const poiExtraGuineaReliefV2: POI[] = [
       fr: ["La source du Niger se situe à environ 800 m d'altitude.", "Faranah est le lieu de naissance du premier président Ahmed Sékou Touré.", "La région abrite le parc national du Haut-Niger.", "Les collines sont riches en roches volcaniques résiduelles.", "La pluviométrie annuelle est comprise entre 1 500 et 2 000 mm.", "Site important pour l'élevage de bovins Ndama."],
     }, image: "/poi-images/faranah-hills-relief-v2.webp"},
   {
-    id: "koubia-plateau-relief-v2",
+    id: "koubia-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National du Moyen-Bafing",
+                  "text": "Der 2021 gegründete Nationalpark Moyen-Bafing ist ein riesiges Schutzgebiet im Koubia-Plateau, das speziell zum Erhalt der westafrikanischen Schimpansenpopulationen eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -11.259575,
+                        11.56244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National du Moyen-Bafing",
+                  "text": "A 2021-ben alapított Moyen-Bafing Nemzeti Park egy hatalmas védett terület a Koubia-fennsíkon, amelyet kifejezetten a nyugat-afrikai csimpánzpopulációk megőrzésére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        -11.259575,
+                        11.56244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National du Moyen-Bafing",
+                  "text": "Înființat în 2021, Parcul Național Moyen-Bafing este o arie protejată masivă din Podișul Koubia, creată special pentru conservarea populațiilor de cimpanzei vest-africani.",
+                  "category": "natural",
+                  "coords": [
+                        -11.259575,
+                        11.56244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moyen-Bafing National Park",
+                  "text": "Established in 2021, the Moyen-Bafing National Park is a massive protected area in the Koubia plateau, specifically designed to safeguard West African chimpanzee populations.",
+                  "category": "natural",
+                  "coords": [
+                        -11.259575,
+                        11.56244
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GN-L",
     coords: [-11.35, 11.55],

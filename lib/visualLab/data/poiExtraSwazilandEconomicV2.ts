@@ -67,7 +67,52 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     },
   },
   {
-    id: "maloma-anthracite-mine-economic-v2",
+    id: "maloma-anthracite-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maloma Nhloya Bird Conservation/ Sanctuary",
+                  "text": "Das Maloma Nhloya Vogelschutzgebiet ist eine geschützte Feuchtgebietszone, die sich der Vogelbeobachtung und dem Angeln widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.710839,
+                        -26.973588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maloma Nhloya Bird Conservation/ Sanctuary",
+                  "text": "A Maloma Nhloya Madárvédelmi Terület egy madármegfigyelésre és horgászatra kijelölt védett vizes élőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        31.710839,
+                        -26.973588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maloma Nhloya Bird Conservation/ Sanctuary",
+                  "text": "Sanctuarul pentru Conservarea Păsărilor Maloma Nhloya este o zonă umedă protejată, dedicată observării păsărilor și pescuitului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.710839,
+                        -26.973588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maloma Nhloya Bird Conservation/ Sanctuary",
+                  "text": "The Maloma Nhloya Bird Conservation Sanctuary is a tranquil wetland environment set aside for fishing and bird watching.",
+                  "category": "landmark",
+                  "coords": [
+                        31.710839,
+                        -26.973588
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SZ-SH",
     coords: [31.65, -27.02],
@@ -1027,7 +1072,160 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     },
   },
   {
-    id: "lavumisa-freight-terminal-economic-v2",
+    id: "lavumisa-freight-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ostrich nest",
+                  "text": "Eine natürliche Attraktion zur Beobachtung der Nistplätze großer flugunfähiger Vögel am Boden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.910194,
+                        -27.369436
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Mpalane Section)",
+                  "text": "Ein ausgewiesener Abschnitt eines geschützten Savannen-Wildreservats, der sich auf den lokalen Artenschutz konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        31.865978,
+                        -27.396581
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Dubula Section)",
+                  "text": "Der Dubula-Sektor des weitläufigen Wildreservats, der geschützte Savannenlebensräume bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.839191,
+                        -27.369431
+                  ]
+            },
+            {
+                  "name": "Phongola Nature Reserve",
+                  "text": "Ein geschütztes Naturreservat, das vielfältige Savannen- und Buschfeld-Ökosysteme umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        31.891936,
+                        -27.340633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ostrich nest",
+                  "text": "Természetes látványosság, amely a nagytestű röpképtelen madarak földi fészkelőhelyeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        31.910194,
+                        -27.369436
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Mpalane Section)",
+                  "text": "A védett szavannai vadrezervátum egy kijelölt szakasza, amely a helyi vadvilág megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        31.865978,
+                        -27.396581
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Dubula Section)",
+                  "text": "A kiterjedt vadrezervátum Dubula szektora, amely védett szavannai élőhelyeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        31.839191,
+                        -27.369431
+                  ]
+            },
+            {
+                  "name": "Phongola Nature Reserve",
+                  "text": "Védett természetvédelmi terület, amely változatos szavanna és bozótos ökoszisztémákat foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        31.891936,
+                        -27.340633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ostrich nest",
+                  "text": "O atracție naturală care observă locurile de cuibărit terestre ale păsărilor mari nezburătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.910194,
+                        -27.369436
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Mpalane Section)",
+                  "text": "O secțiune desemnată a unei rezervații de vânătoare protejate din savană, axată pe conservarea faunei sălbatice locale.",
+                  "category": "natural",
+                  "coords": [
+                        31.865978,
+                        -27.396581
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Dubula Section)",
+                  "text": "Sectorul Dubula al vastei rezervații de viață sălbatică ce oferă habitate protejate de savană.",
+                  "category": "natural",
+                  "coords": [
+                        31.839191,
+                        -27.369431
+                  ]
+            },
+            {
+                  "name": "Phongola Nature Reserve",
+                  "text": "O rezervație naturală protejată care cuprinde ecosisteme diverse de savană și tufișuri.",
+                  "category": "natural",
+                  "coords": [
+                        31.891936,
+                        -27.340633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ostrich nest",
+                  "text": "A natural attraction observing the terrestrial nesting grounds of large flightless birds.",
+                  "category": "landmark",
+                  "coords": [
+                        31.910194,
+                        -27.369436
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Mpalane Section)",
+                  "text": "A designated section of a protected savanna game reserve focused on local wildlife conservation.",
+                  "category": "natural",
+                  "coords": [
+                        31.865978,
+                        -27.396581
+                  ]
+            },
+            {
+                  "name": "Pongola Game Reserve (Dubula Section)",
+                  "text": "The Dubula sector of the sprawling wildlife reserve offering protected savanna habitats.",
+                  "category": "natural",
+                  "coords": [
+                        31.839191,
+                        -27.369431
+                  ]
+            },
+            {
+                  "name": "Phongola Nature Reserve",
+                  "text": "A protected natural reserve encompassing diverse savanna and bushveld ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        31.891936,
+                        -27.340633
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SZ-SH",
     coords: [31.89, -27.32],

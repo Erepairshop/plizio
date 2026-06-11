@@ -369,7 +369,52 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "mopti-fishing-culture-life-v2",
+    id: "mopti-fishing-culture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "Ein Gedenkmonument in Mopti zu Ehren der nationalen Märtyrer, nahe den belebten Fischerhäfen am Niger.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "A nemzeti vértanúk előtt tisztelgő emlékmű Moptiban, a nyüzsgő Niger folyami halászkikötők közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "Un monument memorial în Mopti care onorează martirii naționali, situat lângă aglomeratele porturi de pescuit de pe râul Niger.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "A memorial monument in Mopti honoring national martyrs, situated near the bustling Niger River fishing ports.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ML-MO",
     coords: [-4.200, 14.500],
@@ -417,7 +462,52 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "segou-fruit-market-life-v2",
+    id: "segou-fruit-market-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Bembanyouma",
+                  "text": "Das Kunstzentrum veranstaltet kulturelle Aufführungen und Gemeinschaftsworkshops, die sich auf regionale kreative Traditionen konzentrieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.250818,
+                        13.447989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Bembanyouma",
+                  "text": "A művészeti központ a regionális kreatív hagyományokra összpontosító kulturális előadásoknak és közösségi műhelyfoglalkozásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.250818,
+                        13.447989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Bembanyouma",
+                  "text": "Centrul de artă găzduiește spectacole culturale și ateliere comunitare axate pe tradițiile creative regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.250818,
+                        13.447989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Bembanyouma",
+                  "text": "The arts centre hosts cultural performances and community workshops focusing on regional creative traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.250818,
+                        13.447989
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ML-SE",
     coords: [-6.250, 13.450],
@@ -513,7 +603,52 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "kayes-orchards-life-v2",
+    id: "kayes-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "Die Salle Massa Makan Diabaté ist ein Kulturtheater mit einer geschlossenen Bühne für lokale Theateraufführungen und Gemeindeveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "A Salle Massa Makan Diabaté egy kulturális színház zárt színpaddal, amely helyi színházi előadásoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "Salle Massa Makan Diabaté este un teatru cultural cu o scenă interioară pentru spectacole locale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "The salle Massa Makan Diabaté is a cultural theatre featuring an indoor stage for local theatrical performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ML-KA",
     coords: [-11.450, 14.450],
@@ -561,7 +696,52 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "sikasso-garden-life-v2",
+    id: "sikasso-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le vieux ni",
+                  "text": "Dieser lokale Anziehungspunkt liegt eingebettet in der lebendigen Gartenlandschaft von Sikasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le vieux ni",
+                  "text": "Ez a helyi érdekesség Sikasso élettel teli kerti környezetében bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le vieux ni",
+                  "text": "Acest punct de atracție local este amplasat în mediul plin de viață al grădinilor din Sikasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le vieux ni",
+                  "text": "This local point of interest is nestled in the vibrant garden environment of Sikasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ML-SI",
     coords: [-5.650, 11.300],
@@ -801,7 +981,52 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "san-agricultural-hub-life-v2",
+    id: "san-agricultural-hub-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grande mosquée San",
+                  "text": "Diese imposante Große Moschee ist ein wichtiges architektonisches und religiöses Wahrzeichen im landwirtschaftlichen Zentrum von San.",
+                  "category": "religious",
+                  "coords": [
+                        -4.897041,
+                        13.30632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grande mosquée San",
+                  "text": "Ez az impozáns Nagymecset San mezőgazdasági központjának egyik legfontosabb építészeti és vallási nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        -4.897041,
+                        13.30632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grande mosquée San",
+                  "text": "Această impunătoare Mare Moschee este un reper arhitectural și religios cheie în centrul agricol San.",
+                  "category": "religious",
+                  "coords": [
+                        -4.897041,
+                        13.30632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Great Mosque San",
+                  "text": "This imposing Great Mosque is a key architectural and religious landmark in the agricultural hub of San.",
+                  "category": "religious",
+                  "coords": [
+                        -4.897041,
+                        13.30632
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ML-SE",
     coords: [-4.900, 13.300],
@@ -945,7 +1170,88 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "bamako-market-life-v2",
+    id: "bamako-market-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grotte Préhistorique du Point G",
+                  "text": "Diese Museumslandschaft in Bamako bewahrt antike prähistorische Felszeichnungen auf, die einen Einblick in die frühe Menschheitsgeschichte der Region bieten.",
+                  "category": "museum",
+                  "coords": [
+                        -7.99142,
+                        12.661647
+                  ]
+            },
+            {
+                  "name": "Malick Sidibé studio",
+                  "text": "Dieses Fotostudio in Bamako war der kreative Raum von Malick Sidibé, der für seine Aufnahmen der pulsierenden Jugendkultur Malis in den 1960er und 70er Jahren bekannt war.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.986916,
+                        12.648933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grotte Préhistorique du Point G",
+                  "text": "Ez a bamakói múzeum őskori sziklarajzokat őriz, amelyek bepillantást engednek a régió korai történelmébe.",
+                  "category": "museum",
+                  "coords": [
+                        -7.99142,
+                        12.661647
+                  ]
+            },
+            {
+                  "name": "Malick Sidibé studio",
+                  "text": "Ez a bamakói fotóstúdió volt az 1960-as és 70-es évek mali ifjúsági kultúrájának megörökítéséről híres Malick Sidibé kreatív tere.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.986916,
+                        12.648933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grotte Préhistorique du Point G",
+                  "text": "Acest muzeu din Bamako păstrează sculpturi preistorice antice în stâncă, care oferă o privire asupra istoriei umane timpurii a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -7.99142,
+                        12.661647
+                  ]
+            },
+            {
+                  "name": "Malick Sidibé studio",
+                  "text": "Acest studio de fotografie din Bamako a fost spațiul creativ al lui Malick Sidibé, renumit pentru surprinderea culturii vibrante a tinerilor din Mali în anii 1960 și 70.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.986916,
+                        12.648933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prehistoric Petroglyphs",
+                  "text": "This museum site in Bamako preserves ancient prehistoric rock carvings that offer a glimpse into the region's early human history.",
+                  "category": "museum",
+                  "coords": [
+                        -7.99142,
+                        12.661647
+                  ]
+            },
+            {
+                  "name": "Malick Sidibé studio",
+                  "text": "This photography studio in Bamako was the creative space of Malick Sidibé, renowned for capturing the vibrant youth culture of Mali in the 1960s and 70s.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.986916,
+                        12.648933
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ML-BKO",
     coords: [-7.980, 12.650],
@@ -993,7 +1299,52 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "segou-river-wildlife-life-v2",
+    id: "segou-river-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ton Masala",
+                  "text": "Diese archäologische Stätte in der Nähe des Flusses Ségou bietet Einblicke in die alten Siedlungen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -6.251013,
+                        13.345698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ton Masala",
+                  "text": "Ez a Ségou folyó közelében fekvő régészeti lelőhely bepillantást enged a régió ősi településeibe.",
+                  "category": "historical",
+                  "coords": [
+                        -6.251013,
+                        13.345698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ton Masala",
+                  "text": "Acest sit arheologic de lângă râul Ségou oferă o perspectivă asupra așezărilor antice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -6.251013,
+                        13.345698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ton Masala",
+                  "text": "This archaeological site near the Ségou river offers insights into the region's ancient settlements.",
+                  "category": "historical",
+                  "coords": [
+                        -6.251013,
+                        13.345698
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ML-SE",
     coords: [-6.200, 13.400],
@@ -1041,7 +1392,52 @@ export const poiExtraMaliLifeV2: POI[] = [
     },
   },
   {
-    id: "sikasso-mango-farm-life-v2",
+    id: "sikasso-mango-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grottes des Missirikoro",
+                  "text": "Umgeben von den Mangofarmen in Sikasso dient diese natürliche Höhlenformation als einzigartige geologische Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.761311,
+                        11.256166
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grottes des Missirikoro",
+                  "text": "A Sikasso mangóültetvényei által körülvett természetes barlang egyedülálló geológiai látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.761311,
+                        11.256166
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grottes des Missirikoro",
+                  "text": "Înconjurată de fermele de mango din Sikasso, această formațiune carstică naturală servește drept atracție geologică unică.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.761311,
+                        11.256166
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Missirikoro Grotte",
+                  "text": "Surrounded by the mango farms of Sikasso, this natural cave formation serves as a unique geological attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.761311,
+                        11.256166
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ML-SI",
     coords: [-5.700, 11.250],

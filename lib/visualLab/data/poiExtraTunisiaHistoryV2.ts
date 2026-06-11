@@ -3,7 +3,304 @@ import type { POI } from "./poi";
 
 export const poiExtraTunisiaHistoryV2: POI[] = [
   {
-    id: "carthage-ruins-history-v2",
+    id: "carthage-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Militärhafen",
+                  "text": "Der Port de Carthage umfasst die historischen Reste der einst mächtigen Seehäfen des antiken Karthagos.",
+                  "category": "landmark",
+                  "coords": [
+                        10.324804,
+                        36.84565
+                  ]
+            },
+            {
+                  "name": "Römischer Handelshafen",
+                  "text": "Der Port Marchand de Carthage ist das antike punische Handelshafenbecken mit seiner charakteristischen rechteckigen Form.",
+                  "category": "landmark",
+                  "coords": [
+                        10.32485,
+                        36.841451
+                  ]
+            },
+            {
+                  "name": "Colline de Byrsa",
+                  "text": "Die Colline de Byrsa ist ein historischer Hügel, der als Akropolis und Zentrum der antiken Stadt Karthago diente.",
+                  "category": "historical",
+                  "coords": [
+                        10.323542,
+                        36.852673
+                  ]
+            },
+            {
+                  "name": "Acropolium of Carthage",
+                  "text": "Das Acropolium von Karthago ist eine ehemalige Kirche auf dem Byrsa-Hügel, die heute als beeindruckendes Kunstzentrum genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        10.323326,
+                        36.853628
+                  ]
+            },
+            {
+                  "name": "Römisches und Frühchristliches Museum",
+                  "text": "Die Überreste der Basilika in Karthago beherbergen heute das Museum der frühchristlichen Zeit.",
+                  "category": "museum",
+                  "coords": [
+                        10.324526,
+                        36.84822
+                  ]
+            },
+            {
+                  "name": "Salammbô Oceanographic Museum “Dar El Hout”",
+                  "text": "Das ozeanographische Museum Dar El Hout in Salammbô zeigt die maritime Flora und Fauna des Mittelmeers.",
+                  "category": "museum",
+                  "coords": [
+                        10.326282,
+                        36.843552
+                  ]
+            },
+            {
+                  "name": "Tophet de Salammbô",
+                  "text": "Der Tophet von Salammbô ist eine antike punische Opferstätte und Grabstätte voller historischer Stelen in Karthago.",
+                  "category": "historical",
+                  "coords": [
+                        10.323067,
+                        36.841415
+                  ]
+            },
+            {
+                  "name": "Salambo Beach",
+                  "text": "Der Salambo Beach ist ein Sandstrand in der Nähe der antiken punischen Häfen von Karthago.",
+                  "category": "recreational",
+                  "coords": [
+                        10.324582,
+                        36.836974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Port de Carthage",
+                  "text": "A Port de Carthage az ókori Karthágó egykor hatalmas tengeri kikötőinek történelmi maradványait foglalja magában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.324804,
+                        36.84565
+                  ]
+            },
+            {
+                  "name": "Port Marchand de Carthage",
+                  "text": "A Port Marchand de Carthage az ókori pun kereskedelmi kikötő medencéje, amely jellegzetes téglalap alakjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.32485,
+                        36.841451
+                  ]
+            },
+            {
+                  "name": "Colline de Byrsa",
+                  "text": "A Colline de Byrsa egy történelmi domb, amely az ókori Karthágó városának akropoliszaként és központjaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        10.323542,
+                        36.852673
+                  ]
+            },
+            {
+                  "name": "Acropolium of Carthage",
+                  "text": "A karthágói Acropolium egykori templom a Byrsa-dombon, amely ma lenyűgöző művészeti központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        10.323326,
+                        36.853628
+                  ]
+            },
+            {
+                  "name": "Bib Knissia Basilica",
+                  "text": "A karthágói bazilika romjai ma egy ókeresztény korszakot bemutató múzeumnak adnak otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.324526,
+                        36.84822
+                  ]
+            },
+            {
+                  "name": "Salammbô Oceanographic Museum “Dar El Hout”",
+                  "text": "A Salammbô-i Dar El Hout óceánográfiai múzeum a Földközi-tenger tengeri növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.326282,
+                        36.843552
+                  ]
+            },
+            {
+                  "name": "Tophet de Salammbô",
+                  "text": "A Salammbô-i Tophet egy ókori pun áldozati és temetkezési hely Karthágóban, amely tele van történelmi sztélékkel.",
+                  "category": "historical",
+                  "coords": [
+                        10.323067,
+                        36.841415
+                  ]
+            },
+            {
+                  "name": "Salambo Beach",
+                  "text": "A Salambo Beach egy homokos strand Karthágó ókori pun kikötőinek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.324582,
+                        36.836974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Port de Carthage",
+                  "text": "Port de Carthage cuprinde rămășițele istorice ale porturilor maritime odinioară puternice din Cartagina antică.",
+                  "category": "landmark",
+                  "coords": [
+                        10.324804,
+                        36.84565
+                  ]
+            },
+            {
+                  "name": "Port Marchand de Carthage",
+                  "text": "Port Marchand de Carthage este bazinul portuar comercial punic antic, cunoscut pentru forma sa dreptunghiulară caracteristică.",
+                  "category": "landmark",
+                  "coords": [
+                        10.32485,
+                        36.841451
+                  ]
+            },
+            {
+                  "name": "Colline de Byrsa",
+                  "text": "Colline de Byrsa este un deal istoric care a servit drept acropolă și centru al orașului antic Cartagina.",
+                  "category": "historical",
+                  "coords": [
+                        10.323542,
+                        36.852673
+                  ]
+            },
+            {
+                  "name": "Acropolium of Carthage",
+                  "text": "Acropolium din Cartagina este o fostă biserică de pe dealul Byrsa, folosită astăzi ca un impresionant centru de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        10.323326,
+                        36.853628
+                  ]
+            },
+            {
+                  "name": "Bib Knissia Basilica",
+                  "text": "Ruinele bazilicii din Cartagina găzduiesc astăzi muzeul perioadei creștine timpurii.",
+                  "category": "museum",
+                  "coords": [
+                        10.324526,
+                        36.84822
+                  ]
+            },
+            {
+                  "name": "Salammbô Oceanographic Museum “Dar El Hout”",
+                  "text": "Muzeul oceanografic Dar El Hout din Salammbô expune flora și fauna maritimă a Mării Mediterane.",
+                  "category": "museum",
+                  "coords": [
+                        10.326282,
+                        36.843552
+                  ]
+            },
+            {
+                  "name": "Tophet de Salammbô",
+                  "text": "Tophet de Salammbô este un vechi loc de sacrificiu și înmormântare punic, plin de stele istorice în Cartagina.",
+                  "category": "historical",
+                  "coords": [
+                        10.323067,
+                        36.841415
+                  ]
+            },
+            {
+                  "name": "Salambo Beach",
+                  "text": "Salambo Beach este o plajă cu nisip în apropierea vechilor porturi punice din Cartagina.",
+                  "category": "recreational",
+                  "coords": [
+                        10.324582,
+                        36.836974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Port de Carthage",
+                  "text": "The Port de Carthage encompasses the historical remains of the once-mighty seaports of ancient Carthage.",
+                  "category": "landmark",
+                  "coords": [
+                        10.324804,
+                        36.84565
+                  ]
+            },
+            {
+                  "name": "Port Marchand de Carthage",
+                  "text": "The Port Marchand de Carthage is the ancient Punic commercial harbor basin, noted for its characteristic rectangular shape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.32485,
+                        36.841451
+                  ]
+            },
+            {
+                  "name": "Colline de Byrsa",
+                  "text": "The Colline de Byrsa is a historic hill that served as the acropolis and center of the ancient city of Carthage.",
+                  "category": "historical",
+                  "coords": [
+                        10.323542,
+                        36.852673
+                  ]
+            },
+            {
+                  "name": "Acropolium of Carthage",
+                  "text": "The Acropolium of Carthage is a former church on Byrsa Hill that now serves as an impressive arts centre.",
+                  "category": "cultural",
+                  "coords": [
+                        10.323326,
+                        36.853628
+                  ]
+            },
+            {
+                  "name": "Bib Knissia Basilica",
+                  "text": "The remains of the basilica in Carthage now house the Paleo-Christian Museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.324526,
+                        36.84822
+                  ]
+            },
+            {
+                  "name": "Salammbô Oceanographic Museum “Dar El Hout”",
+                  "text": "The Salammbô Oceanographic Museum \"Dar El Hout\" showcases the marine flora and fauna of the Mediterranean Sea.",
+                  "category": "museum",
+                  "coords": [
+                        10.326282,
+                        36.843552
+                  ]
+            },
+            {
+                  "name": "Tophet de Salammbô",
+                  "text": "The Tophet of Salammbô is an ancient Punic sacrificial and burial site filled with historic stelae in Carthage.",
+                  "category": "historical",
+                  "coords": [
+                        10.323067,
+                        36.841415
+                  ]
+            },
+            {
+                  "name": "Salambo Beach",
+                  "text": "Salambo Beach is a sandy coastal stretch near the ancient Punic harbors of Carthage.",
+                  "category": "recreational",
+                  "coords": [
+                        10.324582,
+                        36.836974
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-11",
     coords: [10.3233, 36.8528],
@@ -51,7 +348,268 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "el-djem-amphitheatre-history-v2",
+    id: "el-djem-amphitheatre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "Dieser lokale Museumskomplex stellt traditionelle regionale Artefakte und historische Funde aus der antiken Stadt Thysdrus aus.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Maison de Dauphins",
+                  "text": "Die ausgegrabenen Ruinen dieser wohlhabenden römischen Villa sind berühmt für ihre bemerkenswert gut erhaltenen Bodenmosaike mit maritimen Delfinmotiven.",
+                  "category": "historical",
+                  "coords": [
+                        10.704491,
+                        35.290724
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre d'El Jem (petit)",
+                  "text": "Die verwitterten Steine dieses kleineren, älteren römischen Amphitheaters zeugen von der frühen Gladiatorengeschichte der Stadt vor dem Bau des massiven Kolosseums.",
+                  "category": "landmark",
+                  "coords": [
+                        10.707949,
+                        35.29013
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "Dieses regionale Kunstzentrum, das nach dem berühmten arabischen Gelehrten benannt ist, veranstaltet Theateraufführungen und lokale kulturelle Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708057,
+                        35.301792
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "Die verstreuten Steinruinen dieser öffentlichen Thermen zeugen von den fortschrittlichen römischen Sanitär- und Heizsystemen im antiken Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.698751,
+                        35.291466
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre d'El Jem",
+                  "text": "Dieses kolossale UNESCO-Weltkulturerbe wurde um 238 erbaut und ist eines der größten und am besten erhaltenen römischen Amphitheater der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.706947,
+                        35.296409
+                  ]
+            },
+            {
+                  "name": "El Jem Museum",
+                  "text": "Dieses Museum zeigt eine spektakuläre Sammlung römischer Mosaike und verfügt über die maßstabsgetreue Rekonstruktion einer antiken Patrizier-Villa.",
+                  "category": "museum",
+                  "coords": [
+                        10.705435,
+                        35.289497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "Ez a helyi múzeumkomplexum hagyományos regionális tárgyakat és az ókori Thysdrus városából származó történelmi leleteket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Maison de Dauphins",
+                  "text": "Ennek a gazdag római villának a feltárt romjait a rendkívül jól megőrzött, tengeri delfineket ábrázoló padlómozaikjairól ismerik el.",
+                  "category": "historical",
+                  "coords": [
+                        10.704491,
+                        35.290724
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre d'El Jem (petit)",
+                  "text": "Ennek a kisebb, régebbi római amfiteátrumnak a viharvert kövei a város korai gladiátortörténetéről árulkodnak a hatalmas Colosseum megépítése előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.707949,
+                        35.29013
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "A híres arab tudósról elnevezett regionális művészeti központ színházi előadásoknak és helyi kulturális műhelyeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708057,
+                        35.301792
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "Ezeknek a nyilvános termálfürdőknek a szétszórt kőromjai bemutatják az ókori Thysdrus fejlett római vízvezeték- és fűtési rendszereit.",
+                  "category": "historical",
+                  "coords": [
+                        10.698751,
+                        35.291466
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre d'El Jem",
+                  "text": "Ezt a 238 körül épült hatalmas UNESCO világörökségi helyszínt a világ egyik legnagyobb és legjobb állapotban fennmaradt római amfiteátrumaként tartják számon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.706947,
+                        35.296409
+                  ]
+            },
+            {
+                  "name": "El Jem Museum",
+                  "text": "Ez a múzeum látványos római mozaikgyűjteményt mutat be, és magában foglalja egy ókori patríciusvilla teljes méretű rekonstrukcióját.",
+                  "category": "museum",
+                  "coords": [
+                        10.705435,
+                        35.289497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "Acest complex muzeal local expune artefacte regionale tradiționale și descoperiri istorice din orașul antic Thysdrus.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Maison de Dauphins",
+                  "text": "Ruinele excavate ale acestei vile romane înstărite sunt celebre pentru mozaicurile de pe pardoseală remarcabil conservate, care înfățișează delfini marini.",
+                  "category": "historical",
+                  "coords": [
+                        10.704491,
+                        35.290724
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre d'El Jem (petit)",
+                  "text": "Pietrele erodate ale acestui amfiteatru roman mai mic și mai vechi dezvăluie istoria timpurie a gladiatorilor din oraș dinaintea construirii colosseumului masiv.",
+                  "category": "landmark",
+                  "coords": [
+                        10.707949,
+                        35.29013
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "Numit după celebrul savant arab, acest centru de arte regional găzduiește spectacole de teatru și ateliere culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708057,
+                        35.301792
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "Ruinele de piatră risipite ale acestor băi termale publice demonstrează sistemele avansate de instalații sanitare și de încălzire romane din Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.698751,
+                        35.291466
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre d'El Jem",
+                  "text": "Construit în jurul anului 238, acest colosal sit din Patrimoniul UNESCO este unul dintre cele mai mari și mai bine conservate amfiteatre romane din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        10.706947,
+                        35.296409
+                  ]
+            },
+            {
+                  "name": "El Jem Museum",
+                  "text": "Acest muzeu prezintă o colecție spectaculoasă de mozaicuri romane și include o reconstrucție la scară reală a unei vile patriciene antice.",
+                  "category": "museum",
+                  "coords": [
+                        10.705435,
+                        35.289497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "This local museum complex exhibits traditional regional artifacts and historical finds from the ancient city of Thysdrus.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Maison de Dauphins",
+                  "text": "The excavated ruins of this wealthy Roman villa are celebrated for their remarkably preserved floor mosaics depicting maritime dolphins.",
+                  "category": "historical",
+                  "coords": [
+                        10.704491,
+                        35.290724
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of El Jem (small)",
+                  "text": "The weathered stones of this smaller, older Roman amphitheater reveal the early gladiatorial history of the city prior to the massive colosseum's construction.",
+                  "category": "landmark",
+                  "coords": [
+                        10.707949,
+                        35.29013
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "Named after the famous Arab scholar, this regional arts center hosts theater performances and local cultural workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708057,
+                        35.301792
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "The scattered stone ruins of these public thermal baths demonstrate the advanced ancient Roman plumbing and heating systems in Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.698751,
+                        35.291466
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of El Jem",
+                  "text": "Constructed around 238, this colossal UNESCO Heritage site is one of the largest and best-preserved Roman amphitheaters in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        10.706947,
+                        35.296409
+                  ]
+            },
+            {
+                  "name": "El Jem Museum",
+                  "text": "This museum showcases a spectacular collection of Roman mosaics and features a full-scale reconstruction of an ancient patrician villa.",
+                  "category": "museum",
+                  "coords": [
+                        10.705435,
+                        35.289497
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-53",
     coords: [10.7067, 35.2964],
@@ -99,7 +657,736 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "dougga-archaeological-history-v2",
+    id: "dougga-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Temple of Mercury",
+                  "text": "Die Ruinen dieses römischen Tempels in Dougga waren Merkur, dem Gott des Handels und der Reisenden, gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        9.218375,
+                        36.422932
+                  ]
+            },
+            {
+                  "name": "Temple (Dar El Acheb)",
+                  "text": "Die Ruinen von Dar El Acheb bilden einen ummauerten Heiligtumskomplex in der antiken Stadt Dougga.",
+                  "category": "historical",
+                  "coords": [
+                        9.217809,
+                        36.421821
+                  ]
+            },
+            {
+                  "name": "Theatre of Dougga",
+                  "text": "Dieses direkt in den Hang gehauene antike römische Theater bot einst Tausenden von Zuschauern Platz mit Blick auf das Tal.",
+                  "category": "historical",
+                  "coords": [
+                        9.220261,
+                        36.423708
+                  ]
+            },
+            {
+                  "name": "Baths",
+                  "text": "Die Aïn-Doura-Thermen sind ausgedehnte römische Badruinen mit Überresten von Caldarien und antiken Heizsystemen.",
+                  "category": "historical",
+                  "coords": [
+                        9.217182,
+                        36.420773
+                  ]
+            },
+            {
+                  "name": "Temple of Juno Caelestis",
+                  "text": "Dieser römische Tempel mit seinem markanten halbrunden Innenhof ehrt die Göttin Juno Caelestis.",
+                  "category": "historical",
+                  "coords": [
+                        9.215726,
+                        36.422802
+                  ]
+            },
+            {
+                  "name": "Arch of Alexander Severus",
+                  "text": "Dieser gut erhaltene Triumphbogen steht als imposantes Eingangstor, das dem römischen Kaiser Alexander Severus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.216862,
+                        36.423258
+                  ]
+            },
+            {
+                  "name": "Baths liciniens",
+                  "text": "Die Licinischen Thermen stellen einen großen römischen Thermalkomplex in Dougga dar, der mit großartigen Mosaikböden ausgestattet ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.219046,
+                        36.422016
+                  ]
+            },
+            {
+                  "name": "House of Trifolium",
+                  "text": "Diese antike römische Villa in Dougga ist berühmt für ihren eleganten, kleeblattförmigen Raumgrundriss.",
+                  "category": "historical",
+                  "coords": [
+                        9.219954,
+                        36.421486
+                  ]
+            },
+            {
+                  "name": "Temple of Saturn",
+                  "text": "Die Überreste dieses Tempels, der über einem früheren punischen Heiligtum erbaut wurde, ehren den römischen Gott Saturn.",
+                  "category": "historical",
+                  "coords": [
+                        9.220484,
+                        36.425553
+                  ]
+            },
+            {
+                  "name": "Aïn Hedja-Edja , Bordj Brahim",
+                  "text": "Die Ruinen dieser Burg befestigen einen strategischen Aussichtspunkt mit Blick auf die historische Landschaft der Region Dougga.",
+                  "category": "castle",
+                  "coords": [
+                        9.23183,
+                        36.38989
+                  ]
+            },
+            {
+                  "name": "Aïn Ouassel",
+                  "text": "Diese archäologische Stätte enthält die Überreste einer antiken Siedlung, die in den Hügeln in der Nähe von Dougga liegt.",
+                  "category": "historical",
+                  "coords": [
+                        9.122738,
+                        36.440557
+                  ]
+            },
+            {
+                  "name": "Ain el Ksar",
+                  "text": "Diese antiken Festungsruinen dienten einst als Verteidigungsanlage zum Schutz der regionalen Wasserquellen.",
+                  "category": "historical",
+                  "coords": [
+                        9.145707,
+                        36.417496
+                  ]
+            },
+            {
+                  "name": "Roman Graves",
+                  "text": "Diese antiken römischen Grabstätten weisen geschnitzte Steingräber und Epitaphien früherer Bürger auf.",
+                  "category": "historical",
+                  "coords": [
+                        9.215787,
+                        36.424585
+                  ]
+            },
+            {
+                  "name": "Dolmens",
+                  "text": "Diese massiven Steindolmen sind prähistorische Megalithgräber, die lange vor der Römerzeit errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        9.218424,
+                        36.426223
+                  ]
+            },
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "Die Ruinen auf dem Hügel Djebbel Kharroub überblicken das umliegende historische Gelände.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            },
+            {
+                  "name": "Aïn Tmalla-at-Tmalla",
+                  "text": "Diese historischen Ruinen sind Teil der archäologischen Landschaft von Dougga und zeugen von der antiken Siedlungsgeschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        9.238529,
+                        36.385924
+                  ]
+            },
+            {
+                  "name": "Agbia",
+                  "text": "Agbia ist eine antike archäologische Stätte nahe Dougga, die Fundamente und Strukturen aus der römischen und vorrömischen Vergangenheit bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        9.228393,
+                        36.39311
+                  ]
+            },
+            {
+                  "name": "Henchir ez-Zaouia",
+                  "text": "In der archäologischen Zone von Dougga gelegen, bietet diese Stätte mit ihren steinernen Überresten einen Einblick in das antike nordafrikanische Zivilleben.",
+                  "category": "historical",
+                  "coords": [
+                        9.211361,
+                        36.40783
+                  ]
+            },
+            {
+                  "name": "Aunobari",
+                  "text": "Dieses archäologische Ausgrabungsgebiet bei Dougga zeigt antike Fundamente, die mit der historischen römischen Provinz Africa verbunden sind.",
+                  "category": "historical",
+                  "coords": [
+                        9.191364,
+                        36.383229
+                  ]
+            },
+            {
+                  "name": "Aïn Mellit",
+                  "text": "Aïn Mellit ist eine archäologische Stätte bei Dougga, wo verwitterte Steinstrukturen den Ort einer antiken Siedlung markieren.",
+                  "category": "historical",
+                  "coords": [
+                        9.173191,
+                        36.497541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Temple of Mercury",
+                  "text": "Ennek a douggai római templomnak a romjait Merkúrnak, a kereskedelem és az utazás istenének szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        9.218375,
+                        36.422932
+                  ]
+            },
+            {
+                  "name": "Temple (Dar El Acheb)",
+                  "text": "A Dar El Acheb romjai egy fallal körülvett szentélykomplexumot alkotnak Dougga ókori városában.",
+                  "category": "historical",
+                  "coords": [
+                        9.217809,
+                        36.421821
+                  ]
+            },
+            {
+                  "name": "Theatre of Dougga",
+                  "text": "A közvetlenül a domboldalba vájt ókori római színház egykor több ezer nézőt fogadott be, kilátással a völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        9.220261,
+                        36.423708
+                  ]
+            },
+            {
+                  "name": "Baths",
+                  "text": "Az Aïn Doura fürdő kiterjedt római kori termálrom, amely a caldariumok és az ősi fűtési rendszerek maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        9.217182,
+                        36.420773
+                  ]
+            },
+            {
+                  "name": "Temple of Juno Caelestis",
+                  "text": "Ez a jellegzetes, félkör alakú udvarral épült római templom Juno Caelestis istennő előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        9.215726,
+                        36.422802
+                  ]
+            },
+            {
+                  "name": "Arch of Alexander Severus",
+                  "text": "Ez a jó állapotban fennmaradt diadalív impozáns kapuként áll, amelyet Alexander Severus római császárnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        9.216862,
+                        36.423258
+                  ]
+            },
+            {
+                  "name": "Baths liciniens",
+                  "text": "A Licinius-fürdő egy jelentős római termálkomplexum Douggában, amely nagyszerű mozaikpadlókkal büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        9.219046,
+                        36.422016
+                  ]
+            },
+            {
+                  "name": "House of Trifolium",
+                  "text": "Ez az ókori római villa Douggában híres elegáns, lóhere alakú szobabeosztásáról.",
+                  "category": "historical",
+                  "coords": [
+                        9.219954,
+                        36.421486
+                  ]
+            },
+            {
+                  "name": "Temple of Saturn",
+                  "text": "A korábbi pun szentély fölé épült templom maradványai Szaturnusz római istent tisztelik.",
+                  "category": "historical",
+                  "coords": [
+                        9.220484,
+                        36.425553
+                  ]
+            },
+            {
+                  "name": "Aïn Hedja-Edja , Bordj Brahim",
+                  "text": "Ennek a kastélynak a romjai egy stratégiai kilátópontot erősítenek, ahonnan kilátás nyílik a Dougga régió történelmi tájára.",
+                  "category": "castle",
+                  "coords": [
+                        9.23183,
+                        36.38989
+                  ]
+            },
+            {
+                  "name": "Aïn Ouassel",
+                  "text": "Ezen a régészeti lelőhelyen egy ősi település maradványai találhatók a Dougga közeli dombok között.",
+                  "category": "historical",
+                  "coords": [
+                        9.122738,
+                        36.440557
+                  ]
+            },
+            {
+                  "name": "Ain el Ksar",
+                  "text": "Ezek az ősi erődromok egykor védelmi bástyaként szolgáltak a regionális vízforrások védelmére.",
+                  "category": "historical",
+                  "coords": [
+                        9.145707,
+                        36.417496
+                  ]
+            },
+            {
+                  "name": "Roman Graves",
+                  "text": "Ezeken az ókori római temetkezési helyeken faragott kősírok és a korai polgárok sírfeliratai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        9.215787,
+                        36.424585
+                  ]
+            },
+            {
+                  "name": "Dolmens",
+                  "text": "Ezek a masszív kődolmenek a római kor előtt jóval épült történelem előtti megalitikus sírok.",
+                  "category": "historical",
+                  "coords": [
+                        9.218424,
+                        36.426223
+                  ]
+            },
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "A Djebbel Kharroub hegy tetején lévő romok a környező történelmi terepre néznek.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            },
+            {
+                  "name": "Aïn Tmalla-at-Tmalla",
+                  "text": "Ezek a történelmi romok a douggai régészeti táj részét képezik, és a régió ókori településtörténetéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        9.238529,
+                        36.385924
+                  ]
+            },
+            {
+                  "name": "Agbia",
+                  "text": "Agbia egy ókori régészeti lelőhely Dougga közelében, amely a régió római és római kor előtti múltjának alapjait és szerkezeteit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        9.228393,
+                        36.39311
+                  ]
+            },
+            {
+                  "name": "Henchir ez-Zaouia",
+                  "text": "A douggai régészeti területen található lelőhely kőmaradványai bepillantást engednek az ókori észak-afrikai polgári életbe.",
+                  "category": "historical",
+                  "coords": [
+                        9.211361,
+                        36.40783
+                  ]
+            },
+            {
+                  "name": "Aunobari",
+                  "text": "Ez a Dougga melletti régészeti ásatási terület az egykori római Africa provincia történelmi alapjait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        9.191364,
+                        36.383229
+                  ]
+            },
+            {
+                  "name": "Aïn Mellit",
+                  "text": "Aïn Mellit egy régészeti lelőhely Dougga közelében, ahol mállott kőszerkezetek jelölik egy ókori település helyét.",
+                  "category": "historical",
+                  "coords": [
+                        9.173191,
+                        36.497541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Temple of Mercury",
+                  "text": "Ruinele acestui templu roman din Dougga au fost dedicate lui Mercur, zeul comerțului și al călătoriilor.",
+                  "category": "historical",
+                  "coords": [
+                        9.218375,
+                        36.422932
+                  ]
+            },
+            {
+                  "name": "Temple (Dar El Acheb)",
+                  "text": "Ruinele Dar El Acheb formează un complex religios fortificat în interiorul orașului antic Dougga.",
+                  "category": "historical",
+                  "coords": [
+                        9.217809,
+                        36.421821
+                  ]
+            },
+            {
+                  "name": "Theatre of Dougga",
+                  "text": "Săpat direct în versantul dealului, acest teatru roman antic a găzduit cândva mii de spectatori, având vedere spre vale.",
+                  "category": "historical",
+                  "coords": [
+                        9.220261,
+                        36.423708
+                  ]
+            },
+            {
+                  "name": "Baths",
+                  "text": "Băile Aïn Doura sunt ruine termale romane extinse, ce prezintă rămășițe ale caldariumurilor și ale sistemelor antice de încălzire.",
+                  "category": "historical",
+                  "coords": [
+                        9.217182,
+                        36.420773
+                  ]
+            },
+            {
+                  "name": "Temple of Juno Caelestis",
+                  "text": "Construit cu o curte semicirculară distinctivă, acest templu roman o onorează pe zeița Juno Caelestis.",
+                  "category": "historical",
+                  "coords": [
+                        9.215726,
+                        36.422802
+                  ]
+            },
+            {
+                  "name": "Arch of Alexander Severus",
+                  "text": "Acest arc de triumf bine conservat se înalță ca o poartă impunătoare dedicată împăratului roman Alexandru Sever.",
+                  "category": "historical",
+                  "coords": [
+                        9.216862,
+                        36.423258
+                  ]
+            },
+            {
+                  "name": "Baths liciniens",
+                  "text": "Băile Liciniene reprezintă un important complex termal roman din Dougga, completat de pardoseli magnifice cu mozaic.",
+                  "category": "historical",
+                  "coords": [
+                        9.219046,
+                        36.422016
+                  ]
+            },
+            {
+                  "name": "House of Trifolium",
+                  "text": "Această vilă romană antică din Dougga este faimoasă pentru dispunerea elegantă, în formă de trifoi, a camerei sale.",
+                  "category": "historical",
+                  "coords": [
+                        9.219954,
+                        36.421486
+                  ]
+            },
+            {
+                  "name": "Temple of Saturn",
+                  "text": "Construite peste un fost sanctuar punic, rămășițele acestui templu îl onorează pe zeul roman Saturn.",
+                  "category": "historical",
+                  "coords": [
+                        9.220484,
+                        36.425553
+                  ]
+            },
+            {
+                  "name": "Aïn Hedja-Edja , Bordj Brahim",
+                  "text": "Ruinele acestui castel fortifică un punct de observație strategic cu vedere asupra peisajului istoric din regiunea Dougga.",
+                  "category": "castle",
+                  "coords": [
+                        9.23183,
+                        36.38989
+                  ]
+            },
+            {
+                  "name": "Aïn Ouassel",
+                  "text": "Acest sit arheologic conține vestigiile unei vechi așezări cuibărite în dealurile din apropiere de Dougga.",
+                  "category": "historical",
+                  "coords": [
+                        9.122738,
+                        36.440557
+                  ]
+            },
+            {
+                  "name": "Ain el Ksar",
+                  "text": "Aceste ruine ale unei cetăți antice au servit cândva ca bastion defensiv protejând sursele regionale de apă.",
+                  "category": "historical",
+                  "coords": [
+                        9.145707,
+                        36.417496
+                  ]
+            },
+            {
+                  "name": "Roman Graves",
+                  "text": "Aceste vechi locuri de înmormântare romane prezintă morminte din piatră sculptată și epitafe ale cetățenilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        9.215787,
+                        36.424585
+                  ]
+            },
+            {
+                  "name": "Dolmens",
+                  "text": "Aceste dolmene masive din piatră sunt morminte megalitice preistorice construite mult înainte de era romană.",
+                  "category": "historical",
+                  "coords": [
+                        9.218424,
+                        36.426223
+                  ]
+            },
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "Ruinele de pe vârful dealului Djebbel Kharroub domină terenul istoric înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            },
+            {
+                  "name": "Aïn Tmalla-at-Tmalla",
+                  "text": "Aceste ruine istorice fac parte din peisajul arheologic din Dougga și stau mărturie a istoriei așezărilor antice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        9.238529,
+                        36.385924
+                  ]
+            },
+            {
+                  "name": "Agbia",
+                  "text": "Agbia este un sit arheologic antic de lângă Dougga care păstrează fundații și structuri din trecutul roman și preroman.",
+                  "category": "historical",
+                  "coords": [
+                        9.228393,
+                        36.39311
+                  ]
+            },
+            {
+                  "name": "Henchir ez-Zaouia",
+                  "text": "Situat în zona arheologică Dougga, acest sit prezintă vestigii de piatră care oferă o privire în viața civică antică nord-africană.",
+                  "category": "historical",
+                  "coords": [
+                        9.211361,
+                        36.40783
+                  ]
+            },
+            {
+                  "name": "Aunobari",
+                  "text": "Această zonă de excavații arheologice de lângă Dougga dezvăluie fundații antice legate de provincia istorică romană Africa.",
+                  "category": "historical",
+                  "coords": [
+                        9.191364,
+                        36.383229
+                  ]
+            },
+            {
+                  "name": "Aïn Mellit",
+                  "text": "Aïn Mellit este un sit arheologic lângă Dougga, unde structuri de piatră erodate marchează locația unei așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        9.173191,
+                        36.497541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple of Mercury",
+                  "text": "The ruins of this Roman temple in Dougga were dedicated to Mercury, the god of commerce and travel.",
+                  "category": "historical",
+                  "coords": [
+                        9.218375,
+                        36.422932
+                  ]
+            },
+            {
+                  "name": "Temple (Dar El Acheb)",
+                  "text": "The Dar El Acheb ruins form a walled sanctuary compound within the ancient city of Dougga.",
+                  "category": "historical",
+                  "coords": [
+                        9.217809,
+                        36.421821
+                  ]
+            },
+            {
+                  "name": "Theatre of Dougga",
+                  "text": "Carved directly into the hillside, this ancient Roman theatre once accommodated thousands of spectators overlooking the valley.",
+                  "category": "historical",
+                  "coords": [
+                        9.220261,
+                        36.423708
+                  ]
+            },
+            {
+                  "name": "Baths",
+                  "text": "The Aïn Doura Baths are extensive Roman thermal ruins featuring remnants of caldariums and ancient heating systems.",
+                  "category": "historical",
+                  "coords": [
+                        9.217182,
+                        36.420773
+                  ]
+            },
+            {
+                  "name": "Temple of Juno Caelestis",
+                  "text": "Built with a distinctive semi-circular courtyard, this Roman temple honors the goddess Juno Caelestis.",
+                  "category": "historical",
+                  "coords": [
+                        9.215726,
+                        36.422802
+                  ]
+            },
+            {
+                  "name": "Arch of Alexander Severus",
+                  "text": "This well-preserved triumphal arch stands as an imposing gateway dedicated to the Roman emperor Alexander Severus.",
+                  "category": "historical",
+                  "coords": [
+                        9.216862,
+                        36.423258
+                  ]
+            },
+            {
+                  "name": "Baths liciniens",
+                  "text": "The Licinian Baths represent a major Roman thermal complex in Dougga, complete with grand mosaic floors.",
+                  "category": "historical",
+                  "coords": [
+                        9.219046,
+                        36.422016
+                  ]
+            },
+            {
+                  "name": "House of Trifolium",
+                  "text": "This ancient Roman villa in Dougga is famous for its elegant, clover-shaped room layout.",
+                  "category": "historical",
+                  "coords": [
+                        9.219954,
+                        36.421486
+                  ]
+            },
+            {
+                  "name": "Temple of Saturn",
+                  "text": "Built over a former Punic sanctuary, the remains of this temple honor the Roman god Saturn.",
+                  "category": "historical",
+                  "coords": [
+                        9.220484,
+                        36.425553
+                  ]
+            },
+            {
+                  "name": "Aïn Hedja-Edja , Bordj Brahim",
+                  "text": "The ruins of this castle fortify a strategic vantage point overlooking the Dougga region's historic landscape.",
+                  "category": "castle",
+                  "coords": [
+                        9.23183,
+                        36.38989
+                  ]
+            },
+            {
+                  "name": "Aïn Ouassel",
+                  "text": "This archaeological site contains the remnants of an ancient settlement nestled in the hills near Dougga.",
+                  "category": "historical",
+                  "coords": [
+                        9.122738,
+                        36.440557
+                  ]
+            },
+            {
+                  "name": "Ain el Ksar",
+                  "text": "These ancient fortress ruins once served as a defensive stronghold protecting the regional water sources.",
+                  "category": "historical",
+                  "coords": [
+                        9.145707,
+                        36.417496
+                  ]
+            },
+            {
+                  "name": "Roman Graves",
+                  "text": "These ancient Roman burial sites feature carved stone tombs and epitaphs of early citizens.",
+                  "category": "historical",
+                  "coords": [
+                        9.215787,
+                        36.424585
+                  ]
+            },
+            {
+                  "name": "Dolmens",
+                  "text": "These massive stone dolmens are prehistoric megalithic tombs constructed long before the Roman era.",
+                  "category": "historical",
+                  "coords": [
+                        9.218424,
+                        36.426223
+                  ]
+            },
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "The ruins atop the Djebbel Kharroub hill overlook the surrounding historical terrain.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            },
+            {
+                  "name": "Aïn Tmalla-at-Tmalla",
+                  "text": "These historical ruins are part of the broader Dougga archaeological landscape, bearing remnants of ancient settlements.",
+                  "category": "historical",
+                  "coords": [
+                        9.238529,
+                        36.385924
+                  ]
+            },
+            {
+                  "name": "Agbia",
+                  "text": "Agbia is an ancient archaeological site near Dougga that preserves foundations and structures from the region's Roman and pre-Roman past.",
+                  "category": "historical",
+                  "coords": [
+                        9.228393,
+                        36.39311
+                  ]
+            },
+            {
+                  "name": "Henchir ez-Zaouia",
+                  "text": "Situated in the Dougga archaeological area, this site features stone remains that offer a glimpse into ancient North African civic life.",
+                  "category": "historical",
+                  "coords": [
+                        9.211361,
+                        36.40783
+                  ]
+            },
+            {
+                  "name": "Aunobari",
+                  "text": "This archaeological excavation area near Dougga reveals ancient foundations tied to the historical Roman province of Africa.",
+                  "category": "historical",
+                  "coords": [
+                        9.191364,
+                        36.383229
+                  ]
+            },
+            {
+                  "name": "Aïn Mellit",
+                  "text": "Aïn Mellit is an archaeological site near Dougga, where weathered stone structures mark the location of an ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.173191,
+                        36.497541
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-31",
     coords: [9.2217, 36.4225],
@@ -147,7 +1434,160 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "great-mosque-kairouan-history-v2",
+    id: "great-mosque-kairouan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bab Jedid",
+                  "text": "Das Bab Jedid ist ein historisches Stadttor unweit der Großen Moschee von Kairouan.",
+                  "category": "landmark",
+                  "coords": [
+                        10.102926,
+                        35.675843
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Khedidi",
+                  "text": "Das Mausoleum of Sidi Khedidi ist ein verehrtes Grabmonument in der heiligen Stadt Kairouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.103801,
+                        35.678891
+                  ]
+            },
+            {
+                  "name": "Zawiya Sayyidi Abd al-Qadir",
+                  "text": "Die Zawiya Sayyidi Abd Al Qadir ist ein spirituelles Denkmal, das der sufistischen Tradition in Kairouan gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.101832,
+                        35.680835
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Sioumi",
+                  "text": "Das Mausoleum of Sidi Sioumi ist ein historisches Grabdenkmal, das Pilger in Kairouan anzieht.",
+                  "category": "historical",
+                  "coords": [
+                        10.105522,
+                        35.680834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bab Jedid",
+                  "text": "A Bab Jedid egy történelmi városkapu, amely nem messze található a kairouani Nagy Mecsettől.",
+                  "category": "landmark",
+                  "coords": [
+                        10.102926,
+                        35.675843
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Khedidi",
+                  "text": "A Mausoleum of Sidi Khedidi egy tisztelt síremlék Kairouan szent városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.103801,
+                        35.678891
+                  ]
+            },
+            {
+                  "name": "Zawiya Sayyidi Abd Al Qadir",
+                  "text": "A Zawiya Sayyidi Abd Al Qadir egy spirituális emlékmű, amelyet a szúfi hagyománynak szenteltek Kairouanban.",
+                  "category": "historical",
+                  "coords": [
+                        10.101832,
+                        35.680835
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Sioumi",
+                  "text": "A Mausoleum of Sidi Sioumi egy történelmi síremlék, amely zarándokokat vonz Kairouanba.",
+                  "category": "historical",
+                  "coords": [
+                        10.105522,
+                        35.680834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bab Jedid",
+                  "text": "Bab Jedid este o poartă istorică a orașului situată aproape de Marea Moschee din Kairouan.",
+                  "category": "landmark",
+                  "coords": [
+                        10.102926,
+                        35.675843
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Khedidi",
+                  "text": "Mausoleum of Sidi Khedidi este un monument funerar venerat din orașul sfânt Kairouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.103801,
+                        35.678891
+                  ]
+            },
+            {
+                  "name": "Zawiya Sayyidi Abd Al Qadir",
+                  "text": "Zawiya Sayyidi Abd Al Qadir este un monument spiritual dedicat tradiției sufiste din Kairouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.101832,
+                        35.680835
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Sioumi",
+                  "text": "Mausoleum of Sidi Sioumi este un monument funerar istoric care atrage pelerini în Kairouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.105522,
+                        35.680834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bab Jedid",
+                  "text": "Bab Jedid is a historic city gate located near the Great Mosque of Kairouan.",
+                  "category": "landmark",
+                  "coords": [
+                        10.102926,
+                        35.675843
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Khedidi",
+                  "text": "The Mausoleum of Sidi Khedidi is a revered tomb monument in the holy city of Kairouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.103801,
+                        35.678891
+                  ]
+            },
+            {
+                  "name": "Zawiya Sayyidi Abd Al Qadir",
+                  "text": "Zawiya Sayyidi Abd Al Qadir is a spiritual monument dedicated to the Sufi tradition in Kairouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.101832,
+                        35.680835
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Sioumi",
+                  "text": "The Mausoleum of Sidi Sioumi is a historical tomb monument that attracts pilgrims in Kairouan.",
+                  "category": "historical",
+                  "coords": [
+                        10.105522,
+                        35.680834
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-41",
     coords: [10.1039, 35.6814],
@@ -192,7 +1632,88 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "medina-of-tunis-history-v2",
+    id: "medina-of-tunis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dâr Khalsi",
+                  "text": "Dâr Khalsi ist ein Schloss in der historischen Medina von Tunis.",
+                  "category": "castle",
+                  "coords": [
+                        10.169221,
+                        36.798497
+                  ]
+            },
+            {
+                  "name": "Dar el Bey",
+                  "text": "Dar el Bey ist eine bedeutende Burg und ein ehemaliger Regierungspalast in der Medina von Tunis.",
+                  "category": "castle",
+                  "coords": [
+                        10.16921,
+                        36.797513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dâr Khalsi",
+                  "text": "A Dâr Khalsi egy kastély Tunisz történelmi medinájában.",
+                  "category": "castle",
+                  "coords": [
+                        10.169221,
+                        36.798497
+                  ]
+            },
+            {
+                  "name": "Dar el Bey",
+                  "text": "A Dar el Bey egy jelentős kastély és egykori kormánypalota Tunisz medinájában.",
+                  "category": "castle",
+                  "coords": [
+                        10.16921,
+                        36.797513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dâr Khalsi",
+                  "text": "Dâr Khalsi este un castel din istorica Medina din Tunis.",
+                  "category": "castle",
+                  "coords": [
+                        10.169221,
+                        36.798497
+                  ]
+            },
+            {
+                  "name": "Dar el Bey",
+                  "text": "Dar el Bey este un castel important și fost palat guvernamental din Medina din Tunis.",
+                  "category": "castle",
+                  "coords": [
+                        10.16921,
+                        36.797513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dâr Khalsi",
+                  "text": "Dâr Khalsi is a castle residence located in the historic Medina of Tunis.",
+                  "category": "castle",
+                  "coords": [
+                        10.169221,
+                        36.798497
+                  ]
+            },
+            {
+                  "name": "Dar el Bey",
+                  "text": "Dar el Bey is a significant castle and former government palace in the Medina of Tunis.",
+                  "category": "castle",
+                  "coords": [
+                        10.16921,
+                        36.797513
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-11",
     coords: [10.1692, 36.7972],
@@ -285,7 +1806,448 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "sbeitla-ruins-history-v2",
+    id: "sbeitla-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla ist ein bekannter archäologischer Park, der für seine ungewöhnliche Anordnung von drei nebeneinander liegenden römischen Kapitolstempeln berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Roman Ruins of Sbeitla",
+                  "text": "Diese klassischen Ruinen zeigen die Überreste der antiken Stadt Sufetula, darunter honigfarbene Steinsäulen und kunstvolle Kirchenmosaike.",
+                  "category": "historical",
+                  "coords": [
+                        9.119113,
+                        35.241479
+                  ]
+            },
+            {
+                  "name": "Fontaine",
+                  "text": "Die antiken Brunnenruinen befinden sich inmitten der archäologischen Stätte in Sufetula.",
+                  "category": "historical",
+                  "coords": [
+                        9.117294,
+                        35.242049
+                  ]
+            },
+            {
+                  "name": "Gebäude der Jahreszeiten",
+                  "text": "Die Ruinen dieser römischen Villa in Sbeitla geben Zeugnis von der antiken Wohnkultur der Region.",
+                  "category": "historical",
+                  "coords": [
+                        9.115957,
+                        35.242731
+                  ]
+            },
+            {
+                  "name": "Thermes",
+                  "text": "Diese antiken Thermenruinen gehörten zur städtischen Infrastruktur der römischen Stadt Sufetula.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Théâtre",
+                  "text": "Die Ruinen dieses römischen Theaters in Sbeitla boten einst Platz für zahlreiche Zuschauer.",
+                  "category": "historical",
+                  "coords": [
+                        9.122422,
+                        35.239593
+                  ]
+            },
+            {
+                  "name": "Petites thermes",
+                  "text": "Diese kleinen Thermenanlagen in Sbeitla boten intimere Bademöglichkeiten in der antiken Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        9.120501,
+                        35.237891
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "Das zerstörte Amphitheater in Sbeitla war in der Antike Schauplatz von Gladiatorenkämpfen und öffentlichen Spektakeln.",
+                  "category": "historical",
+                  "coords": [
+                        9.114581,
+                        35.243631
+                  ]
+            },
+            {
+                  "name": "Pont Aqueduc",
+                  "text": "Diese denkmalgeschützte Aquäduktbrücke versorgte die antike Stadt Sbeitla mit frischem Wasser.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "Die Großen Thermen waren die weitläufigste öffentliche Badeanlage der antiken Stadt Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.121493,
+                        35.239617
+                  ]
+            },
+            {
+                  "name": "Arc Tétrarchie",
+                  "text": "Dieser römische Triumphbogen in Sbeitla wurde zur Zeit der Tetrarchie als prunkvolles Monument errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Fortin",
+                  "text": "Die Überreste dieses kleinen byzantinischen Forts dienten einst der Verteidigung der Stadtgrenzen von Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.12238,
+                        35.236592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla egy ismert régészeti park, amely a három egymás mellett álló római capitoliumi templom szokatlan elrendezéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Roman Ruins of Sbeitla",
+                  "text": "Ezek a klasszikus romok az ókori Sufetula városának maradványait őrzik, beleértve a mézszínű kőoszlopokat és a díszes templommozaikokat.",
+                  "category": "historical",
+                  "coords": [
+                        9.119113,
+                        35.241479
+                  ]
+            },
+            {
+                  "name": "Fontaine",
+                  "text": "Az ókori kút romjai a sbeitlai régészeti komplexum területén találhatóak.",
+                  "category": "historical",
+                  "coords": [
+                        9.117294,
+                        35.242049
+                  ]
+            },
+            {
+                  "name": "Édifice des Saisons",
+                  "text": "A Sbeitla romjai közt található római villa maradványai az ókori lakókultúráról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        9.115957,
+                        35.242731
+                  ]
+            },
+            {
+                  "name": "Thermes",
+                  "text": "Ezek az ókori fürdőromok a római Sufetula városi infrastruktúrájának részét képezték.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Théâtre",
+                  "text": "A sbeitlai római színház romjai egykor számos néző befogadására voltak alkalmasak.",
+                  "category": "historical",
+                  "coords": [
+                        9.122422,
+                        35.239593
+                  ]
+            },
+            {
+                  "name": "Petites thermes",
+                  "text": "Sbeitla ezen kisebb fürdőkomplexuma intimebb fürdőzési lehetőségeket kínált az ókori városban.",
+                  "category": "historical",
+                  "coords": [
+                        9.120501,
+                        35.237891
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "A sbeitlai amfiteátrum romjai az ókorban gladiátorjátékok és nyilvános látványosságok színhelyéül szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        9.114581,
+                        35.243631
+                  ]
+            },
+            {
+                  "name": "Pont Aqueduc",
+                  "text": "Ez a műemlék vízvezeték-híd friss vízzel látta el az ókori Sbeitla városát.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "A Nagy Fürdő volt az ókori Sbeitla város legkiterjedtebb nyilvános fürdőkomplexuma.",
+                  "category": "historical",
+                  "coords": [
+                        9.121493,
+                        35.239617
+                  ]
+            },
+            {
+                  "name": "Arc Tétrarchie",
+                  "text": "Ezt a sbeitlai római diadalívet a tetrarchia idején emelték pompás emlékműként.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Fortin",
+                  "text": "Ennek a kis bizánci erődnek a maradványai egykor Sbeitla város határainak védelmét szolgálták.",
+                  "category": "historical",
+                  "coords": [
+                        9.12238,
+                        35.236592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla este un parc arheologic cunoscut, faimos pentru aranjamentul său neobișnuit a trei temple romane ale Capitolului situate alături.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Roman Ruins of Sbeitla",
+                  "text": "Aceste ruine clasice prezintă rămășițele vechiului oraș Sufetula, incluzând coloane de piatră de culoarea mierii și mozaicuri bisericești.",
+                  "category": "historical",
+                  "coords": [
+                        9.119113,
+                        35.241479
+                  ]
+            },
+            {
+                  "name": "Fontaine",
+                  "text": "Ruinele anticei fântâni se află în cadrul sitului arheologic din Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.117294,
+                        35.242049
+                  ]
+            },
+            {
+                  "name": "Édifice des Saisons",
+                  "text": "Ruinele acestei vile romane din Sbeitla oferă o perspectivă asupra vieții domestice antice.",
+                  "category": "historical",
+                  "coords": [
+                        9.115957,
+                        35.242731
+                  ]
+            },
+            {
+                  "name": "Thermes",
+                  "text": "Aceste ruine ale termelor antice făceau parte din infrastructura orașului roman Sufetula.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Théâtre",
+                  "text": "Ruinele acestui teatru roman din Sbeitla găzduiau odinioară numeroși spectatori.",
+                  "category": "historical",
+                  "coords": [
+                        9.122422,
+                        35.239593
+                  ]
+            },
+            {
+                  "name": "Petites thermes",
+                  "text": "Aceste mici băi din Sbeitla ofereau facilități de îmbăiere mai restrânse în orașul antic.",
+                  "category": "historical",
+                  "coords": [
+                        9.120501,
+                        35.237891
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "Amfiteatrul ruinat din Sbeitla a fost în antichitate scena luptelor de gladiatori și a spectacolelor publice.",
+                  "category": "historical",
+                  "coords": [
+                        9.114581,
+                        35.243631
+                  ]
+            },
+            {
+                  "name": "Pont Aqueduc",
+                  "text": "Acest pod apeduct, monument istoric, asigura cu apă proaspătă orașul antic Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "Marile Terme reprezentau cel mai extins complex de băi publice din orașul antic Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.121493,
+                        35.239617
+                  ]
+            },
+            {
+                  "name": "Arc Tétrarchie",
+                  "text": "Acest arc de triumf roman din Sbeitla a fost ridicat ca monument grandios în timpul tetrarhiei.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Fortin",
+                  "text": "Rămășițele acestui mic fort bizantin au servit odinioară la apărarea granițelor orașului Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.12238,
+                        35.236592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla is a renowned archaeological park, famed for its highly unusual arrangement of three separate, side-by-side Roman Capitol temples.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Roman Ruins of Sbeitla",
+                  "text": "These extensive classical ruins feature the remnants of the ancient city of Sufetula, including honey-colored stone columns and intricate church mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        9.119113,
+                        35.241479
+                  ]
+            },
+            {
+                  "name": "Fountain",
+                  "text": "The ancient fountain ruins are located within the Sbeitla archaeological complex.",
+                  "category": "historical",
+                  "coords": [
+                        9.117294,
+                        35.242049
+                  ]
+            },
+            {
+                  "name": "Villa des Saisons",
+                  "text": "The ruins of this Roman villa in Sbeitla offer a glimpse into ancient domestic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        9.115957,
+                        35.242731
+                  ]
+            },
+            {
+                  "name": "Baths",
+                  "text": "These ancient bath ruins were part of the municipal infrastructure of the Roman city of Sufetula.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Theatre",
+                  "text": "The ruins of this Roman theatre in Sbeitla once accommodated numerous spectators for public performances.",
+                  "category": "historical",
+                  "coords": [
+                        9.122422,
+                        35.239593
+                  ]
+            },
+            {
+                  "name": "Small baths",
+                  "text": "This smaller bath complex in Sbeitla provided more intimate bathing facilities in the ancient city.",
+                  "category": "historical",
+                  "coords": [
+                        9.120501,
+                        35.237891
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "The ruined amphitheatre in Sbeitla was a venue for gladiatorial games and public spectacles in antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        9.114581,
+                        35.243631
+                  ]
+            },
+            {
+                  "name": "Aqueduct bridge",
+                  "text": "This heritage-listed aqueduct bridge supplied the ancient city of Sbeitla with fresh water.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Great Baths",
+                  "text": "The Great Baths were the most extensive public bathing complex in the ancient city of Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.121493,
+                        35.239617
+                  ]
+            },
+            {
+                  "name": "Arch of the Tetrarchy",
+                  "text": "This Roman triumphal arch in Sbeitla was erected as a grand monument during the time of the Tetrarchy.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Fortlet",
+                  "text": "The remains of this small Byzantine fortlet once served to defend the city limits of Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.12238,
+                        35.236592
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-42",
     coords: [9.1172, 35.2425],
@@ -333,7 +2295,664 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "bulla-regia-history-v2",
+    id: "bulla-regia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Bulla Regia",
+                  "text": "Das Musée de Bulla Regia zeigt antike römische Artefakte, Mosaike und archäologische Funde, die in der nahegelegenen historischen Stätte ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        8.754471,
+                        36.55654
+                  ]
+            },
+            {
+                  "name": "Bulla Regia",
+                  "text": "Bulla Regia ist eine bedeutende römische Ausgrabungsstätte, die für ihre einzigartigen halbunterirdischen Häuser bekannt ist, die zum Schutz vor der nordafrikanischen Hitze erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        8.754804,
+                        36.559646
+                  ]
+            },
+            {
+                  "name": "Ruines de l'huilerie d'el Maghaouir",
+                  "text": "Diese archäologischen Ruinen markieren den Standort einer antiken Olivenpresse und spiegeln die historische Landwirtschaft der Region wider.",
+                  "category": "historical",
+                  "coords": [
+                        8.74638,
+                        36.614261
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub et Tebbib",
+                  "text": "Die Ruinen von Argoub et Tebbib bestehen aus verwitterten Steinfundamenten, die zur antiken römischen Siedlung Bulla Regia gehören.",
+                  "category": "historical",
+                  "coords": [
+                        8.747088,
+                        36.58581
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub el kabbara",
+                  "text": "Argoub el Kabbara zeigt verstreute Überreste aus Stein, die einst Teil des größeren antiken städtischen Komplexes von Bulla Regia waren.",
+                  "category": "historical",
+                  "coords": [
+                        8.743835,
+                        36.581798
+                  ]
+            },
+            {
+                  "name": "Ruines el Gannara",
+                  "text": "Die Ruinen von el Gannara zeigen freigelegtes antikes Mauerwerk und Fundamente und tragen zur reichen archäologischen Landschaft von Bulla Regia bei.",
+                  "category": "historical",
+                  "coords": [
+                        8.749047,
+                        36.579073
+                  ]
+            },
+            {
+                  "name": "ragoubet al hajjar",
+                  "text": "Ragoubet al Hajjar ist eine historische Ruinenstätte, die durch alte Trümmer längst verlassener römischer Bauwerke gekennzeichnet ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.733504,
+                        36.571217
+                  ]
+            },
+            {
+                  "name": "Ruines Damous el Ababda",
+                  "text": "Die Ruinen von Damous el Ababda weisen antikes gewölbtes und halbunterirdisches Mauerwerk auf, das charakteristisch für die Stätte von Bulla Regia ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.728109,
+                        36.575295
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub Lahrich",
+                  "text": "Argoub Lahrich ist ein archäologisches Ruinengebiet, in dem die verbliebenen Steinmauern auf das häusliche Leben der antiken römischen Stadt hindeuten.",
+                  "category": "historical",
+                  "coords": [
+                        8.720798,
+                        36.577336
+                  ]
+            },
+            {
+                  "name": "Arc de triomphe",
+                  "text": "Dieser verfallene römische Triumphbogen diente einst als monumentales Steintor zum antiken städtischen Zentrum von Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.753039,
+                        36.557631
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Die Ruinen des römischen Amphitheaters in Bulla Regia lassen noch die Sitzplätze aus Stein erkennen, auf denen sich einst die Zuschauer zu öffentlichen Spektakeln versammelten.",
+                  "category": "historical",
+                  "coords": [
+                        8.760049,
+                        36.561892
+                  ]
+            },
+            {
+                  "name": "Maison de la nouvelle chasse",
+                  "text": "Das Haus der neuen Jagd ist eine berühmte unterirdische römische Villa in Bulla Regia, die für ihre kunstvollen Bodenmosaike mit Jagdmotiven bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.753069,
+                        36.560458
+                  ]
+            },
+            {
+                  "name": "Maison no 2",
+                  "text": "Maison no 2 ist ein teilweise erhaltenes römisches Wohnhaus, dessen verbliebenes Mauerwerk die Wohnarchitektur der antiken Stadt umreißt.",
+                  "category": "historical",
+                  "coords": [
+                        8.753203,
+                        36.559424
+                  ]
+            },
+            {
+                  "name": "Maison no 15",
+                  "text": "Die verfallenen Mauern der Maison no 15 markieren einen weiteren ausgegrabenen Lebensraum innerhalb der weitläufigen antiken Stadtanlage.",
+                  "category": "historical",
+                  "coords": [
+                        8.753176,
+                        36.561489
+                  ]
+            },
+            {
+                  "name": "Thermes du nord-est",
+                  "text": "Die Nordost-Thermen sind die Ruinen einer römischen öffentlichen Badeanlage, die die Überreste antiker Fußbodenheizungen (Hypokausten) aufweisen.",
+                  "category": "historical",
+                  "coords": [
+                        8.754382,
+                        36.561828
+                  ]
+            },
+            {
+                  "name": "Basilique",
+                  "text": "Die Ruinen dieser antiken Steinbasilika zeugen von den religiösen und bürgerlichen Versammlungen der Spätantike in Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.756136,
+                        36.559662
+                  ]
+            },
+            {
+                  "name": "Temple d’Isis",
+                  "text": "Der Tempel der Isis ist eine antike Kultstätte innerhalb der römischen Ruinenstadt Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.756672,
+                        36.558639
+                  ]
+            },
+            {
+                  "name": "Église d’Alexander",
+                  "text": "Die Église d’Alexander ist die archäologische Stätte einer frühchristlichen Kirche in der antiken Stadt Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.752405,
+                        36.555599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Bulla Regia",
+                  "text": "A Musée de Bulla Regia ókori római leleteket, mozaikokat és a közeli történelmi lelőhelyen feltárt régészeti kincseket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        8.754471,
+                        36.55654
+                  ]
+            },
+            {
+                  "name": "Bulla Regia",
+                  "text": "Bulla Regia egy jelentős római kori régészeti lelőhely, amely az észak-afrikai hőség elől menedéket nyújtó, egyedülálló félig földalatti házairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        8.754804,
+                        36.559646
+                  ]
+            },
+            {
+                  "name": "Ruines de l'huilerie d'el Maghaouir",
+                  "text": "Ezek a régészeti romok egy ősi olívaolaj-préselő üzem helyét jelölik, tükrözve a régió történelmi mezőgazdaságát.",
+                  "category": "historical",
+                  "coords": [
+                        8.74638,
+                        36.614261
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub et Tebbib",
+                  "text": "Az Argoub et Tebbib romjai Bulla Regia ókori római településéhez tartozó, időjárás koptatta kőalapokból állnak.",
+                  "category": "historical",
+                  "coords": [
+                        8.747088,
+                        36.58581
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub el kabbara",
+                  "text": "Az Argoub el Kabbara szétszórt kőmaradványokat rejt, amelyek egykor a Bulla Regia-i ókori városi komplexum részét képezték.",
+                  "category": "historical",
+                  "coords": [
+                        8.743835,
+                        36.581798
+                  ]
+            },
+            {
+                  "name": "Ruines el Gannara",
+                  "text": "Az el Gannara romjai feltárt ókori falazatokat és alapokat mutatnak be, hozzájárulva Bulla Regia gazdag régészeti tájához.",
+                  "category": "historical",
+                  "coords": [
+                        8.749047,
+                        36.579073
+                  ]
+            },
+            {
+                  "name": "ragoubet al hajjar",
+                  "text": "A Ragoubet al Hajjar egy történelmi romterület, amelyet rég elhagyott római építmények ősi kőtörmelékei jellemeznek.",
+                  "category": "historical",
+                  "coords": [
+                        8.733504,
+                        36.571217
+                  ]
+            },
+            {
+                  "name": "Ruines Damous el Ababda",
+                  "text": "A Damous el Ababda romjai a Bulla Regia-i lelőhelyre jellemző ősi boltozatos és félig földalatti falazatokkal rendelkeznek.",
+                  "category": "historical",
+                  "coords": [
+                        8.728109,
+                        36.575295
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub Lahrich",
+                  "text": "Argoub Lahrich egy régészeti romterület, ahol a megmaradt kőfalak az ókori római város mindennapi életére utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        8.720798,
+                        36.577336
+                  ]
+            },
+            {
+                  "name": "Arc de triomphe",
+                  "text": "Ez a romos római diadalív egykor monumentális kőkapuként szolgált Bulla Regia ókori városközpontja felé.",
+                  "category": "historical",
+                  "coords": [
+                        8.753039,
+                        36.557631
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "A Bulla Regia-i római amfiteátrum romjai még mindig őrzik azokat a kőüléseket, ahol egykor a közönség összegyűlt a nyilvános látványosságokra.",
+                  "category": "historical",
+                  "coords": [
+                        8.760049,
+                        36.561892
+                  ]
+            },
+            {
+                  "name": "Maison de la nouvelle chasse",
+                  "text": "Az Új Vadászat Háza egy híres földalatti római villa Bulla Regiában, amelyet a vadászatot ábrázoló bonyolult padlómozaikjai tettek ismertté.",
+                  "category": "historical",
+                  "coords": [
+                        8.753069,
+                        36.560458
+                  ]
+            },
+            {
+                  "name": "Maison no 2",
+                  "text": "A 2-es ház egy részben megőrzött római lakóház, ahol a megmaradt kőfalak az ókori város mindennapi építészetét vázolják fel.",
+                  "category": "historical",
+                  "coords": [
+                        8.753203,
+                        36.559424
+                  ]
+            },
+            {
+                  "name": "Maison no 15",
+                  "text": "A 15-ös ház romos falai egy újabb feltárt életteret jelölnek a kiterjedt ókori városszerkezetben.",
+                  "category": "historical",
+                  "coords": [
+                        8.753176,
+                        36.561489
+                  ]
+            },
+            {
+                  "name": "Thermes du nord-est",
+                  "text": "Az északkeleti fürdők egy római közfürdőkomplexum romjai, amelyeken még láthatók az ősi hypocaustum fűtési rendszerek maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        8.754382,
+                        36.561828
+                  ]
+            },
+            {
+                  "name": "Basilique",
+                  "text": "Ennek az ókori kőbazilikának a romjai a késő ókori vallási és polgári összejövetelek bizonyítékai Bulla Regiában.",
+                  "category": "historical",
+                  "coords": [
+                        8.756136,
+                        36.559662
+                  ]
+            },
+            {
+                  "name": "Temple d’Isis",
+                  "text": "Az Ízisz-templom az ókori egyiptomi istennőnek szentelt római kori szentély romja Bulla Regiában.",
+                  "category": "historical",
+                  "coords": [
+                        8.756672,
+                        36.558639
+                  ]
+            },
+            {
+                  "name": "Église d’Alexander",
+                  "text": "A Sándor-templom (Église d’Alexander) egy ókeresztény bazilika romja Bulla Regia ősi településén.",
+                  "category": "historical",
+                  "coords": [
+                        8.752405,
+                        36.555599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Bulla Regia",
+                  "text": "Musée de Bulla Regia expune artefacte romane antice, mozaicuri și descoperiri arheologice excavate din situl istoric din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        8.754471,
+                        36.55654
+                  ]
+            },
+            {
+                  "name": "Bulla Regia",
+                  "text": "Bulla Regia este un important sit arheologic roman renumit pentru casele sale semi-subterane unice, construite pentru a scăpa de căldura intensă din Africa de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        8.754804,
+                        36.559646
+                  ]
+            },
+            {
+                  "name": "Ruines de l'huilerie d'el Maghaouir",
+                  "text": "Aceste ruine arheologice marchează locul unei vechi prese de ulei de măsline, reflectând industria agricolă istorică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        8.74638,
+                        36.614261
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub et Tebbib",
+                  "text": "Ruinele de la Argoub et Tebbib constau din fundații de piatră erodate aparținând vechii așezări romane Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.747088,
+                        36.58581
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub el kabbara",
+                  "text": "Argoub el Kabbara prezintă rămășițe de piatră împrăștiate care odinioară făceau parte din complexul urban antic Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.743835,
+                        36.581798
+                  ]
+            },
+            {
+                  "name": "Ruines el Gannara",
+                  "text": "Ruinele el Gannara prezintă zidărie și fundații antice expuse, contribuind la bogatul peisaj arheologic al orașului Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.749047,
+                        36.579073
+                  ]
+            },
+            {
+                  "name": "ragoubet al hajjar",
+                  "text": "Ragoubet al Hajjar este un sit istoric în ruină caracterizat de resturile de piatră ale structurilor romane demult abandonate.",
+                  "category": "historical",
+                  "coords": [
+                        8.733504,
+                        36.571217
+                  ]
+            },
+            {
+                  "name": "Ruines Damous el Ababda",
+                  "text": "Ruinele de la Damous el Ababda prezintă o veche zidărie boltită și semi-subterană caracteristică sitului Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.728109,
+                        36.575295
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub Lahrich",
+                  "text": "Argoub Lahrich este o zonă de ruine arheologice unde zidurile de piatră rămase sugerează viața domestică a vechiului oraș roman.",
+                  "category": "historical",
+                  "coords": [
+                        8.720798,
+                        36.577336
+                  ]
+            },
+            {
+                  "name": "Arc de triomphe",
+                  "text": "Acest arc de triumf roman în ruină a servit odată ca o poartă monumentală de piatră către vechiul centru urban Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.753039,
+                        36.557631
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Ruinele amfiteatrului roman din Bulla Regia dezvăluie încă locurile de piatră unde publicul se aduna odinioară pentru spectacole publice.",
+                  "category": "historical",
+                  "coords": [
+                        8.760049,
+                        36.561892
+                  ]
+            },
+            {
+                  "name": "Maison de la nouvelle chasse",
+                  "text": "Casa Noii Vânătoare este o faimoasă vilă romană subterană din Bulla Regia, celebrată pentru mozaicurile sale complexe cu tematică de vânătoare.",
+                  "category": "historical",
+                  "coords": [
+                        8.753069,
+                        36.560458
+                  ]
+            },
+            {
+                  "name": "Maison no 2",
+                  "text": "Casa nr. 2 este o locuință romană parțial conservată, unde zidăria rămasă conturează arhitectura domestică a orașului antic.",
+                  "category": "historical",
+                  "coords": [
+                        8.753203,
+                        36.559424
+                  ]
+            },
+            {
+                  "name": "Maison no 15",
+                  "text": "Zidurile în ruină ale Casei nr. 15 marchează un alt spațiu de locuit excavat în cadrul vastei rețele urbane antice.",
+                  "category": "historical",
+                  "coords": [
+                        8.753176,
+                        36.561489
+                  ]
+            },
+            {
+                  "name": "Thermes du nord-est",
+                  "text": "Băile de Nord-Est sunt ruinele unui complex roman de băi publice, prezentând rămășițele vechilor sisteme de încălzire hipocaust.",
+                  "category": "historical",
+                  "coords": [
+                        8.754382,
+                        36.561828
+                  ]
+            },
+            {
+                  "name": "Basilique",
+                  "text": "Ruinele acestei vechi bazilici de piatră servesc drept mărturie a adunărilor religioase și civice din antichitatea târzie în Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.756136,
+                        36.559662
+                  ]
+            },
+            {
+                  "name": "Temple d’Isis",
+                  "text": "Templul lui Isis este o fostă structură de cult antică situată în inima ruinelor romane de la Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.756672,
+                        36.558639
+                  ]
+            },
+            {
+                  "name": "Église d’Alexander",
+                  "text": "Biserica lui Alexandru este situl ruinat al unui lăcaș de cult paleocreștin din anticul Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.752405,
+                        36.555599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Bulla Regia",
+                  "text": "The Musée de Bulla Regia displays ancient Roman artifacts, mosaics, and archaeological finds excavated from the nearby historical site.",
+                  "category": "museum",
+                  "coords": [
+                        8.754471,
+                        36.55654
+                  ]
+            },
+            {
+                  "name": "Bulla Regia",
+                  "text": "Bulla Regia is a major Roman archaeological site renowned for its unique semi-subterranean houses built to escape the intense North African heat.",
+                  "category": "historical",
+                  "coords": [
+                        8.754804,
+                        36.559646
+                  ]
+            },
+            {
+                  "name": "Ruines de l'huilerie d'el Maghaouir",
+                  "text": "These archaeological ruins mark the site of an ancient olive oil press, reflecting the region's historical agricultural industry.",
+                  "category": "historical",
+                  "coords": [
+                        8.74638,
+                        36.614261
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub et Tebbib",
+                  "text": "The ruins of Argoub et Tebbib consist of weathered stone foundations belonging to the ancient Roman settlement of Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.747088,
+                        36.58581
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub el kabbara",
+                  "text": "Argoub el Kabbara features scattered stone remains that once formed part of the broader ancient urban complex of Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.743835,
+                        36.581798
+                  ]
+            },
+            {
+                  "name": "Ruines el Gannara",
+                  "text": "The el Gannara ruins present exposed ancient masonry and foundations, contributing to the rich archaeological landscape of Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.749047,
+                        36.579073
+                  ]
+            },
+            {
+                  "name": "ragoubet al hajjar",
+                  "text": "Ragoubet al Hajjar is a historic ruin site characterized by the ancient stone rubble from long-abandoned Roman structures.",
+                  "category": "historical",
+                  "coords": [
+                        8.733504,
+                        36.571217
+                  ]
+            },
+            {
+                  "name": "Ruines Damous el Ababda",
+                  "text": "The ruins of Damous el Ababda feature ancient vaulted and semi-subterranean masonry characteristic of the Bulla Regia site.",
+                  "category": "historical",
+                  "coords": [
+                        8.728109,
+                        36.575295
+                  ]
+            },
+            {
+                  "name": "Ruines Argoub Lahrich",
+                  "text": "Argoub Lahrich is an archaeological ruin area where the remaining stone walls hint at the domestic life of the ancient Roman city.",
+                  "category": "historical",
+                  "coords": [
+                        8.720798,
+                        36.577336
+                  ]
+            },
+            {
+                  "name": "Arc de triomphe",
+                  "text": "This ruined Roman triumphal arch once served as a monumental stone gateway into the ancient urban center of Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.753039,
+                        36.557631
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "The ruins of the Roman amphitheater at Bulla Regia still reveal the stone seating where audiences once gathered for public spectacles.",
+                  "category": "historical",
+                  "coords": [
+                        8.760049,
+                        36.561892
+                  ]
+            },
+            {
+                  "name": "Maison de la nouvelle chasse",
+                  "text": "The House of the New Hunt is a famous subterranean Roman villa in Bulla Regia, celebrated for its intricate hunting-themed floor mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        8.753069,
+                        36.560458
+                  ]
+            },
+            {
+                  "name": "Maison no 2",
+                  "text": "Maison no 2 is a partially preserved Roman dwelling, where the remaining stonework outlines the domestic architecture of the ancient city.",
+                  "category": "historical",
+                  "coords": [
+                        8.753203,
+                        36.559424
+                  ]
+            },
+            {
+                  "name": "Maison no 15",
+                  "text": "The ruined walls of Maison no 15 mark another excavated living space within the expansive ancient urban layout.",
+                  "category": "historical",
+                  "coords": [
+                        8.753176,
+                        36.561489
+                  ]
+            },
+            {
+                  "name": "Thermes du nord-est",
+                  "text": "The Northeast Baths are the ruins of a Roman public bathing complex, featuring the remains of ancient hypocaust heating systems.",
+                  "category": "historical",
+                  "coords": [
+                        8.754382,
+                        36.561828
+                  ]
+            },
+            {
+                  "name": "Basilique",
+                  "text": "The ruins of this ancient stone basilica serve as a testament to the religious and civic gatherings of late antiquity in Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.756136,
+                        36.559662
+                  ]
+            },
+            {
+                  "name": "Temple d’Isis",
+                  "text": "The Temple of Isis is a ruined ancient Roman sanctuary dedicated to the Egyptian goddess within Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.756672,
+                        36.558639
+                  ]
+            },
+            {
+                  "name": "Église d’Alexander",
+                  "text": "The Église d’Alexander is the ruined remains of an early Christian church located within the ancient site of Bulla Regia.",
+                  "category": "historical",
+                  "coords": [
+                        8.752405,
+                        36.555599
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-32",
     coords: [8.7561, 36.5564],
@@ -381,7 +3000,196 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "thuburbo-majus-history-v2",
+    id: "thuburbo-majus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bäder des Kapitols",
+                  "text": "Die Bäder des Kapitols sind die steinernen Überreste einer antiken römischen Thermenanlage in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.903257,
+                        36.402226
+                  ]
+            },
+            {
+                  "name": "Tempel von Balaat",
+                  "text": "Der Tempel von Balaat ist eine archäologische Stätte mit den Ruinen eines punisch-römischen Heiligtums in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.9047,
+                        36.400171
+                  ]
+            },
+            {
+                  "name": "Macellum",
+                  "text": "Das Macellum ist die Ruine des einst überdachten römischen Marktplatzes von Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.904168,
+                        36.401409
+                  ]
+            },
+            {
+                  "name": "Sommerbäder",
+                  "text": "Die Sommerbäder sind ein weitläufiger archäologischer Komplex antiker römischer Thermen in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.903693,
+                        36.40047
+                  ]
+            },
+            {
+                  "name": "Bäder der Sterne",
+                  "text": "Die Sternenbäder sind eine archäologische Stätte eines römischen Badehauses in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.905417,
+                        36.402592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bains du Capitole",
+                  "text": "A Capitolium fürdői egy ókori római termálfürdő kőmaradványai Thuburbo Majusban.",
+                  "category": "historical",
+                  "coords": [
+                        9.903257,
+                        36.402226
+                  ]
+            },
+            {
+                  "name": "Temple de Balaat",
+                  "text": "A Balaat-templom egy pun-római szentély romjait rejtő régészeti lelőhely Thuburbo Majusban.",
+                  "category": "historical",
+                  "coords": [
+                        9.9047,
+                        36.400171
+                  ]
+            },
+            {
+                  "name": "Macellum",
+                  "text": "A Macellum a Thuburbo Majus egykori fedett római piacának romja.",
+                  "category": "historical",
+                  "coords": [
+                        9.904168,
+                        36.401409
+                  ]
+            },
+            {
+                  "name": "Bains d'Été",
+                  "text": "A nyári fürdők egy kiterjedt ókori római termálfürdő régészeti komplexuma Thuburbo Majusban.",
+                  "category": "historical",
+                  "coords": [
+                        9.903693,
+                        36.40047
+                  ]
+            },
+            {
+                  "name": "Bains des Étoiles",
+                  "text": "A Csillagfürdők egy római fürdő régészeti lelőhelye Thuburbo Majusban.",
+                  "category": "historical",
+                  "coords": [
+                        9.905417,
+                        36.402592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bains du Capitole",
+                  "text": "Băile Capitoliului sunt ruinele de piatră ale unui complex termal roman antic din Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.903257,
+                        36.402226
+                  ]
+            },
+            {
+                  "name": "Temple de Balaat",
+                  "text": "Templul lui Balaat este un sit arheologic cu ruinele unui sanctuar punic-roman din Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.9047,
+                        36.400171
+                  ]
+            },
+            {
+                  "name": "Macellum",
+                  "text": "Macellum este ruina fostei piețe romane acoperite din Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.904168,
+                        36.401409
+                  ]
+            },
+            {
+                  "name": "Bains d'Été",
+                  "text": "Băile de vară sunt un complex arheologic extins de terme romane antice din Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.903693,
+                        36.40047
+                  ]
+            },
+            {
+                  "name": "Bains des Étoiles",
+                  "text": "Băile Stelelor reprezintă un sit arheologic al unei băi publice romane din Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.905417,
+                        36.402592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baths of the Capitol",
+                  "text": "The Baths of the Capitol are the stone remains of an ancient Roman thermal complex in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.903257,
+                        36.402226
+                  ]
+            },
+            {
+                  "name": "Temple of Balaat",
+                  "text": "The Temple of Balaat is an archaeological site featuring the ruins of a Punic-Roman sanctuary in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.9047,
+                        36.400171
+                  ]
+            },
+            {
+                  "name": "Macellum",
+                  "text": "The Macellum is the ruin of the formerly indoor Roman marketplace in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.904168,
+                        36.401409
+                  ]
+            },
+            {
+                  "name": "Summer Baths",
+                  "text": "The Summer Baths are an extensive archaeological complex of ancient Roman thermal baths in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.903693,
+                        36.40047
+                  ]
+            },
+            {
+                  "name": "Baths of the Stars",
+                  "text": "The Baths of the Stars are an archaeological site of a Roman public bathhouse in Thuburbo Majus.",
+                  "category": "historical",
+                  "coords": [
+                        9.905417,
+                        36.402592
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-22",
     coords: [9.9017, 36.4011],
@@ -429,7 +3237,376 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "maktaris-archaeological-history-v2",
+    id: "maktaris-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zama Minor",
+                  "text": "Zama Minor liegt in der archäologischen Region Maktaris und ist eine antike nordafrikanische Siedlung aus der karthagischen und römischen Epoche.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Amphithéatre Mactaris",
+                  "text": "Die Steinfundamente und elliptischen Sitzreihen dieses römischen Amphitheaters in Mactaris waren einst Schauplatz von Gladiatorenkämpfen.",
+                  "category": "historical",
+                  "coords": [
+                        9.206436,
+                        35.855514
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "Mactaris ist eine weitläufige antike Stätte, in der sich einheimische numidische Megalithgräber nahtlos mit späteren römischen Foren verbinden.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Schola des Juvenes",
+                  "text": "Dieses antike Gebäude einer Jugendorganisation in Mactaris besitzt noch markante Steinsäulen und war ein Treffpunkt für die Elite der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        9.20575,
+                        35.852331
+                  ]
+            },
+            {
+                  "name": "Basilique d'Hildeguns",
+                  "text": "Diese zerstörte antike Basilika in Mactaris ist bekannt für ihre erhaltenen Steinapsiden und ihre Verbindung zur frühen christlichen Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        9.208068,
+                        35.853009
+                  ]
+            },
+            {
+                  "name": "Temple d'Hathor Miskar",
+                  "text": "Dieser Tempel in Mactaris spiegelt den punischen Kultureinfluss wider und war ursprünglich einer lokalen synkretistischen Gottheit gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            },
+            {
+                  "name": "Forum Numide",
+                  "text": "Das numidische Forum in Mactaris ist älter als die römischen Ergänzungen und weist Reste der einheimischen Herrschaft der Stadt auf.",
+                  "category": "historical",
+                  "coords": [
+                        9.206738,
+                        35.853005
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "Dieses antike punische Monument ist ein seltenes Zeugnis des karthagischen Architektureinflusses im Herzen der Ruinen von Mactaris.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Thermes du Capitole",
+                  "text": "In der Nähe des Zentrums weisen diese zerstörten Thermalbäder in Mactaris noch teilweise stehende Wände ihrer antiken Gewölbehallen auf.",
+                  "category": "historical",
+                  "coords": [
+                        9.205765,
+                        35.853813
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "Diese weitläufigen Thermen gehören zu den imposantesten Bauwerken in Mactaris; riesige Steinblöcke umreißen die antiken Badebecken.",
+                  "category": "historical",
+                  "coords": [
+                        9.208534,
+                        35.851853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zama Minor",
+                  "text": "A Maktaris régészeti régióban található Zama Minor egy ókori észak-afrikai település, amely a karthágói és római korszakból maradt fenn.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Amphithéatre Mactaris",
+                  "text": "Ennek a maktarisi római amfiteátrumnak a kőalapjai és elliptikus üléssorai egykor gladiátorjátékoknak és nagy látványosságoknak adtak otthont.",
+                  "category": "historical",
+                  "coords": [
+                        9.206436,
+                        35.855514
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "Maktaris egy kiterjedt ókori lelőhely, ahol az őslakos numidiai megalitikus sírok zökkenőmentesen keverednek a későbbi római fórumokkal.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Schola des Juvenes",
+                  "text": "A maktarisi ókori ifjúsági szervezet épülete máig őrzi kőoszlopait, és a város elitjének központi találkozóhelye volt.",
+                  "category": "historical",
+                  "coords": [
+                        9.20575,
+                        35.852331
+                  ]
+            },
+            {
+                  "name": "Basilique d'Hildeguns",
+                  "text": "Ez a maktarisi romos ókori bazilika a fennmaradt kőapszisairól és a korai keresztény közösséghez fűződő kapcsolatairól nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        9.208068,
+                        35.853009
+                  ]
+            },
+            {
+                  "name": "Temple d'Hathor Miskar",
+                  "text": "Ez a maktarisi templom a pún kulturális hatást tükrözi, és eredetileg egy helyi szinkretikus istenségnek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            },
+            {
+                  "name": "Forum Numide",
+                  "text": "A maktarisi Numidiai Fórum megelőzi a római kiegészítéseket, és a város őslakos uralkodóinak maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        9.206738,
+                        35.853005
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "Ez az ókori pún emlékmű a karthágói építészeti hatás ritka fennmaradt bizonyítéka a maktarisi romok szívében.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Thermes du Capitole",
+                  "text": "A központ közelében elhelyezkedő maktarisi romos termálfürdők ókori boltozatos termeinek falai részben még ma is állnak.",
+                  "category": "historical",
+                  "coords": [
+                        9.205765,
+                        35.853813
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "Ezek a kiterjedt termák Maktaris legimpozánsabb építményei közé tartoznak; óriási kőtömbök rajzolják ki az egykori medencéket.",
+                  "category": "historical",
+                  "coords": [
+                        9.208534,
+                        35.851853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zama Minor",
+                  "text": "Situată în regiunea arheologică Maktaris, Zama Minor este o veche așezare nord-africană din epocile cartagineză și romană.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Amphithéatre Mactaris",
+                  "text": "Fundațiile de piatră și treptele eliptice de scaune ale acestui amfiteatru roman din Mactaris au găzduit cândva jocuri de gladiatori.",
+                  "category": "historical",
+                  "coords": [
+                        9.206436,
+                        35.855514
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "Mactaris este un sit antic extins unde mormintele megalitice autohtone numidiene se îmbină perfect cu forurile romane ulterioare.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Schola des Juvenes",
+                  "text": "Această veche clădire a unei organizații de tineret din Mactaris păstrează coloane de piatră și a fost un loc de adunare pentru elita orașului.",
+                  "category": "historical",
+                  "coords": [
+                        9.20575,
+                        35.852331
+                  ]
+            },
+            {
+                  "name": "Basilique d'Hildeguns",
+                  "text": "Această veche bazilică ruinată din Mactaris este notabilă pentru absidele sale de piatră păstrate și pentru legăturile cu prima comunitate creștină.",
+                  "category": "historical",
+                  "coords": [
+                        9.208068,
+                        35.853009
+                  ]
+            },
+            {
+                  "name": "Temple d'Hathor Miskar",
+                  "text": "Acest templu din Mactaris reflectă influența culturală punică și a fost dedicat inițial unei zeități sincretice locale.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            },
+            {
+                  "name": "Forum Numide",
+                  "text": "Forul Numidian din Mactaris precede adăugirile romane, prezentând rămășițele conducătorilor autohtoni ai orașului.",
+                  "category": "historical",
+                  "coords": [
+                        9.206738,
+                        35.853005
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "Acest vechi monument punic este o rară mărturie a influenței arhitecturale cartagineze în inima ruinelor din Mactaris.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Thermes du Capitole",
+                  "text": "Aflate lângă centru, aceste băi termale ruinate din Mactaris prezintă ziduri parțial în picioare ale vechilor lor săli boltite.",
+                  "category": "historical",
+                  "coords": [
+                        9.205765,
+                        35.853813
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "Aceste terme extinse sunt printre cele mai impunătoare structuri din Mactaris, cu blocuri uriașe de piatră conturând vechile bazine.",
+                  "category": "historical",
+                  "coords": [
+                        9.208534,
+                        35.851853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zama Minor",
+                  "text": "Set within the Maktaris archaeological region, Zama Minor is an ancient North African settlement that flourished during the Carthaginian and Roman eras.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of Mactaris",
+                  "text": "The stone foundations and seating tiers of this Roman amphitheatre in Mactaris once hosted gladiatorial games and large civic spectacles.",
+                  "category": "historical",
+                  "coords": [
+                        9.206436,
+                        35.855514
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "Mactaris is an extensive ancient site where indigenous Numidian megalithic tombs blend seamlessly with later Roman forums and bathhouses.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Schola des Juvenes",
+                  "text": "This ancient youth organization building in Mactaris retains prominent stone columns and was a central gathering place for the city's elite.",
+                  "category": "historical",
+                  "coords": [
+                        9.20575,
+                        35.852331
+                  ]
+            },
+            {
+                  "name": "Basilique of Hildeguns",
+                  "text": "This ruined ancient basilica in Mactaris is notable for its surviving stone apses and architectural ties to the region's early Christian community.",
+                  "category": "historical",
+                  "coords": [
+                        9.208068,
+                        35.853009
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor Miskar",
+                  "text": "This ruined temple in Mactaris highlights the Punic cultural influence, originally dedicated to a local syncretic deity before the Roman occupation.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            },
+            {
+                  "name": "Forum Numide",
+                  "text": "The Numidian Forum in Mactaris predates the Roman additions, featuring the architectural remains of the city's indigenous rulers.",
+                  "category": "historical",
+                  "coords": [
+                        9.206738,
+                        35.853005
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "This ancient Punic monument stands as a rare surviving testament to Carthaginian architectural influence in the heart of the Mactaris ruins.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Capitol Baths",
+                  "text": "Positioned near the center, these ruined thermal baths in Mactaris feature partially standing walls of their ancient vaulted halls.",
+                  "category": "historical",
+                  "coords": [
+                        9.205765,
+                        35.853813
+                  ]
+            },
+            {
+                  "name": "Large Baths",
+                  "text": "These extensive thermal bath ruins are among the most imposing structures in Mactaris, with giant stone blocks outlining the ancient pools.",
+                  "category": "historical",
+                  "coords": [
+                        9.208534,
+                        35.851853
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-34",
     coords: [9.2064, 35.8561],
@@ -477,7 +3654,160 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "oudna-archaeological-history-v2",
+    id: "oudna-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uthina / Oudhna",
+                  "text": "Uthina / Oudhna ist eine große römische Ruinenstadt mit den Überresten eines massiven Amphitheaters.",
+                  "category": "historical",
+                  "coords": [
+                        10.172873,
+                        36.606917
+                  ]
+            },
+            {
+                  "name": "roman aquaduct",
+                  "text": "Dieses römische Aquädukt ist ein historisches Wasserbauwerk, das in der Nähe der Ausgrabungen von Oudhna liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126897,
+                        36.627181
+                  ]
+            },
+            {
+                  "name": "Arcade romaine",
+                  "text": "Diese römischen Arkaden sind verbliebene Steinbögen des historischen Zaghouan-Aquädukts bei Oudhna.",
+                  "category": "historical",
+                  "coords": [
+                        10.133818,
+                        36.616602
+                  ]
+            },
+            {
+                  "name": "Uthina Amphitheatre",
+                  "text": "Das Uthina-Amphitheater ist eine teilweise in den Hügel gebaute antike römische Arena in Oudhna.",
+                  "category": "historical",
+                  "coords": [
+                        10.169238,
+                        36.608621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uthina / Oudhna",
+                  "text": "Uthina / Oudhna egy nagy kiterjedésű római romváros, ahol egy hatalmas amfiteátrum maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        10.172873,
+                        36.606917
+                  ]
+            },
+            {
+                  "name": "roman aquaduct",
+                  "text": "Ez a római vízvezeték egy történelmi vízügyi építmény Oudhna ásatásainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126897,
+                        36.627181
+                  ]
+            },
+            {
+                  "name": "Arcade romaine",
+                  "text": "Ezek a római árkádok a történelmi Zaghouan-vízvezeték fennmaradt kőívei Oudhna közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.133818,
+                        36.616602
+                  ]
+            },
+            {
+                  "name": "Uthina Amphitheatre",
+                  "text": "Az Uthina Amfiteátrum egy részben a domboldalba épített ókori római aréna Oudhnában.",
+                  "category": "historical",
+                  "coords": [
+                        10.169238,
+                        36.608621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uthina / Oudhna",
+                  "text": "Uthina / Oudhna este un oraș cu mari ruine romane, remarcabil prin rămășițele unui amfiteatru masiv.",
+                  "category": "historical",
+                  "coords": [
+                        10.172873,
+                        36.606917
+                  ]
+            },
+            {
+                  "name": "roman aquaduct",
+                  "text": "Acest apeduct roman este o structură istorică de apă situată lângă excavațiile de la Oudhna.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126897,
+                        36.627181
+                  ]
+            },
+            {
+                  "name": "Arcade romaine",
+                  "text": "Aceste arcade romane sunt arcuri de piatră rămase din istoricul apeduct Zaghouan de lângă Oudhna.",
+                  "category": "historical",
+                  "coords": [
+                        10.133818,
+                        36.616602
+                  ]
+            },
+            {
+                  "name": "Uthina Amphitheatre",
+                  "text": "Amfiteatrul Uthina este o arenă romană antică construită parțial pe un deal din Oudhna.",
+                  "category": "historical",
+                  "coords": [
+                        10.169238,
+                        36.608621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uthina / Oudhna",
+                  "text": "Uthina / Oudhna is a large Roman ruin city featuring the remains of a massive amphitheatre.",
+                  "category": "historical",
+                  "coords": [
+                        10.172873,
+                        36.606917
+                  ]
+            },
+            {
+                  "name": "roman aquaduct",
+                  "text": "This Roman aqueduct is a historical water-carrying structure situated near the Oudhna excavations.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126897,
+                        36.627181
+                  ]
+            },
+            {
+                  "name": "Arcade romaine",
+                  "text": "These Roman arcades are remaining stone arches of the historic Zaghouan Aqueduct near Oudhna.",
+                  "category": "historical",
+                  "coords": [
+                        10.133818,
+                        36.616602
+                  ]
+            },
+            {
+                  "name": "Uthina Amphitheatre",
+                  "text": "The Uthina Amphitheatre is an ancient Roman arena partially built into a hillside in Oudhna.",
+                  "category": "historical",
+                  "coords": [
+                        10.169238,
+                        36.608621
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-13",
     coords: [10.1706, 36.6083],
@@ -525,7 +3855,88 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kerkouane-punic-town-history-v2",
+    id: "kerkouane-punic-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gate",
+                  "text": "Ein antiker steinerner Eingang, der den historischen Verteidigungsgürtel der punischen Stadt Kerkouane markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.100626,
+                        36.944181
+                  ]
+            },
+            {
+                  "name": "Punic Town of Kerkuane and its Necropolis",
+                  "text": "Eine UNESCO-Welterbestätte, welche die außergewöhnlichen Ruinen einer antiken phönizisch-punischen Stadt und ihrer Nekropole zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.099151,
+                        36.94592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gate",
+                  "text": "Egy ősi kőbejárat, amely a pun Kerkouane városának történelmi védelmi vonalát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.100626,
+                        36.944181
+                  ]
+            },
+            {
+                  "name": "Punic Town of Kerkuane and its Necropolis",
+                  "text": "Egy UNESCO Világörökség része, amely egy ősi föníciai-pun város és nekropoliszának kivételes romjait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        11.099151,
+                        36.94592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gate",
+                  "text": "O poartă antică de piatră care marchează perimetrul defensiv istoric al orașului punic Kerkouane.",
+                  "category": "landmark",
+                  "coords": [
+                        11.100626,
+                        36.944181
+                  ]
+            },
+            {
+                  "name": "Punic Town of Kerkuane and its Necropolis",
+                  "text": "Un sit al Patrimoniului Mondial UNESCO care prezintă ruinele excepționale ale unui oraș antic feniciano-punic și ale necropolei sale.",
+                  "category": "landmark",
+                  "coords": [
+                        11.099151,
+                        36.94592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gate",
+                  "text": "An ancient stone entryway marking the historic defensive perimeter of the Punic town of Kerkouane.",
+                  "category": "landmark",
+                  "coords": [
+                        11.100626,
+                        36.944181
+                  ]
+            },
+            {
+                  "name": "Punic Town of Kerkuane and its Necropolis",
+                  "text": "A UNESCO World Heritage site showcasing the exceptional ruins of an ancient Phoenician-Punic city and its necropolis.",
+                  "category": "landmark",
+                  "coords": [
+                        11.099151,
+                        36.94592
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-21",
     coords: [11.0969, 36.9472],
@@ -573,7 +3984,700 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "chemtou-archaeological-history-v2",
+    id: "chemtou-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site Antique Sidi Ali ben Abdallah",
+                  "text": "Die archäologische Stätte Sidi Ali ben Abdallah bewahrt antike Siedlungsreste unweit von Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.62819,
+                        36.528966
+                  ]
+            },
+            {
+                  "name": "Chemtou: Pont romain",
+                  "text": "Die Überreste der römischen Brücke in Chemtou überspannten einst den Fluss Medjerda als wichtiges Infrastrukturprojekt.",
+                  "category": "historical",
+                  "coords": [
+                        8.571888,
+                        36.488212
+                  ]
+            },
+            {
+                  "name": "Chemtou: roche reliefs",
+                  "text": "Die Felsreliefs in Chemtou sind in den Stein gemeißelte archäologische Zeugnisse der numidischen und römischen Kultur.",
+                  "category": "historical",
+                  "coords": [
+                        8.579404,
+                        36.49201
+                  ]
+            },
+            {
+                  "name": "Aïn Ksir",
+                  "text": "Aïn Ksir ist ein historisches Monument und antike Stätte im weitreichenden archäologischen Areal von Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.591675,
+                        36.513495
+                  ]
+            },
+            {
+                  "name": "Chemtou: Théâtre",
+                  "text": "Das römische Theater von Chemtou liegt in Trümmern, war aber einst ein zentraler Unterhaltungsort der antiken Marmorstadt.",
+                  "category": "historical",
+                  "coords": [
+                        8.571809,
+                        36.491534
+                  ]
+            },
+            {
+                  "name": "Chemtou: Forum avec la basilique, voûte, fontaine et précédente tombeaux numides",
+                  "text": "Das antike Forum in Chemtou umfasst die Ruinen einer Basilika, eines Bogens, eines Brunnens sowie älterer numidischer Gräber.",
+                  "category": "historical",
+                  "coords": [
+                        8.573818,
+                        36.490764
+                  ]
+            },
+            {
+                  "name": "Chemtou: Grand bâtiment romain (Administration de carrière?)",
+                  "text": "Dieses große römische Gebäude in Chemtou diente vermutlich als Verwaltungszentrum für den lukrativen Marmorabbau.",
+                  "category": "historical",
+                  "coords": [
+                        8.577912,
+                        36.490944
+                  ]
+            },
+            {
+                  "name": "ed Damous",
+                  "text": "Die archäologische Stätte Ed Damous umfasst antike Ruinen und unterirdische Strukturen im Umland von Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.62461,
+                        36.523889
+                  ]
+            },
+            {
+                  "name": "Henchir Bordj Hellal. (Byzantine Fortress Remains)",
+                  "text": "Henchir Bordj Hellal sind die archäologischen Überreste einer massiven byzantinischen Festung bei Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.650925,
+                        36.478563
+                  ]
+            },
+            {
+                  "name": "Chemtou: bains municipaux",
+                  "text": "Die städtischen Thermen von Chemtou sind die Ruinen der antiken öffentlichen Badeanstalt für die Bewohner der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        8.57289,
+                        36.493454
+                  ]
+            },
+            {
+                  "name": "Archeological Museum of Chemtou",
+                  "text": "Das Archäologische Museum von Chemtou stellt bedeutende Funde der antiken numidischen und römischen Marmorstadt aus.",
+                  "category": "museum",
+                  "coords": [
+                        8.576818,
+                        36.489528
+                  ]
+            },
+            {
+                  "name": "Chemtou: bâtiments funéraires romains",
+                  "text": "Die römischen Grabgebäude in Chemtou umfassen die steinernen Ruinen antiker Mausoleen und Nekropolen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        8.579648,
+                        36.490082
+                  ]
+            },
+            {
+                  "name": "Chemtou: Roman carrières de marbre profonde",
+                  "text": "Der römische Marmor-Tiefbau in Chemtou ist eine archäologische Stätte, an der der berühmte „giallo antico“-Marmor gebrochen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        8.577478,
+                        36.492929
+                  ]
+            },
+            {
+                  "name": "Chemtou: église italienne du 19ème siècle",
+                  "text": "Die italienische Kirche aus dem 19. Jahrhundert in Chemtou ist heute eine Ruine aus der Zeit der modernen Marmorabbau-Wiederaufnahme.",
+                  "category": "historical",
+                  "coords": [
+                        8.576012,
+                        36.491409
+                  ]
+            },
+            {
+                  "name": "Chemtou: église byzantine",
+                  "text": "Die byzantinische Kirche von Chemtou ist eine sakrale Ruine aus der Spätantike, die auf dem Areal der Stadt erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        8.579575,
+                        36.494871
+                  ]
+            },
+            {
+                  "name": "Chemtou: Camp de travail forcé, de l'administration de la carrière, la garnison de garde",
+                  "text": "Die Ruinen des Zwangsarbeitslagers und der Garnison in Chemtou belegen die harte Realität der antiken römischen Marmorproduktion.",
+                  "category": "historical",
+                  "coords": [
+                        8.581563,
+                        36.495444
+                  ]
+            },
+            {
+                  "name": "Chemtou: Sanctuaire de la Dii Mauri",
+                  "text": "Das Heiligtum der Dii Mauri in Chemtou besteht aus den Ruinen eines Tempels, der den indigenen maurischen Göttern gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        8.580913,
+                        36.493203
+                  ]
+            },
+            {
+                  "name": "Chemtou: numide sanctuaire de la colline, le temple de Saturne, église byzantine",
+                  "text": "Dieses komplexe Ruinenfeld in Chemtou überlagert ein numidisches Heiligtum, einen römischen Saturntempel und eine spätere byzantinische Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        8.579999,
+                        36.49291
+                  ]
+            },
+            {
+                  "name": "Chemtou: aqueduc",
+                  "text": "Das Aquädukt von Chemtou liegt in Ruinen, versorgte jedoch einst die antike römische Stadt zuverlässig mit Frischwasser.",
+                  "category": "historical",
+                  "coords": [
+                        8.57328,
+                        36.495984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site Antique Sidi Ali ben Abdallah",
+                  "text": "A Sidi Ali ben Abdallah régészeti lelőhely ősi településnyomokat rejt Chemtou közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.62819,
+                        36.528966
+                  ]
+            },
+            {
+                  "name": "Chemtou: Pont romain",
+                  "text": "A chemtoui római híd romjai, melyek egykor a Medjerda folyót ívelték át, a korabeli mérnöki munka emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        8.571888,
+                        36.488212
+                  ]
+            },
+            {
+                  "name": "Chemtou: roche reliefs",
+                  "text": "A chemtoui szikladomborművek a kőbánya területén fennmaradt ősi, numidiai és római kori faragványok.",
+                  "category": "historical",
+                  "coords": [
+                        8.579404,
+                        36.49201
+                  ]
+            },
+            {
+                  "name": "Aïn Ksir",
+                  "text": "Az Aïn Ksir egy történelmi műemlék és ősi helyszín Chemtou kiterjedt régészeti övezetében.",
+                  "category": "historical",
+                  "coords": [
+                        8.591675,
+                        36.513495
+                  ]
+            },
+            {
+                  "name": "Chemtou: Théâtre",
+                  "text": "A chemtoui ókori színház romjai a híres márványkitermelő római város egykori kulturális életéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        8.571809,
+                        36.491534
+                  ]
+            },
+            {
+                  "name": "Chemtou: Forum avec la basilique, voûte, fontaine et précédente tombeaux numides",
+                  "text": "A chemtoui fórum romjai között bazilika, diadalív és kút maradványai, valamint korábbi numidiai sírok is megtalálhatók.",
+                  "category": "historical",
+                  "coords": [
+                        8.573818,
+                        36.490764
+                  ]
+            },
+            {
+                  "name": "Chemtou: Grand bâtiment romain (Administration de carrière?)",
+                  "text": "Ez a nagyméretű római kori épületrom Chemtouban valószínűleg a híres sárga márvány bányászatának igazgatási központja volt.",
+                  "category": "historical",
+                  "coords": [
+                        8.577912,
+                        36.490944
+                  ]
+            },
+            {
+                  "name": "ed Damous",
+                  "text": "Az Ed Damous régészeti helyszín ókori romokat és vélhetően föld alatti építményeket foglal magába Chemtou térségében.",
+                  "category": "historical",
+                  "coords": [
+                        8.62461,
+                        36.523889
+                  ]
+            },
+            {
+                  "name": "Henchir Bordj Hellal. (Byzantine Fortress Remains)",
+                  "text": "A Henchir Bordj Hellal egy vaskos falú, bizánci kori erődítmény feltárt régészeti maradványa Chemtou mellett.",
+                  "category": "historical",
+                  "coords": [
+                        8.650925,
+                        36.478563
+                  ]
+            },
+            {
+                  "name": "Chemtou: bains municipaux",
+                  "text": "A chemtoui városi fürdők ókori római romjai a település lakóinak egykori közfürdőjét mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        8.57289,
+                        36.493454
+                  ]
+            },
+            {
+                  "name": "Archeological Museum of Chemtou",
+                  "text": "A Chemtoui Régészeti Múzeum az ősi numidiai és római márványbányász város páratlan leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.576818,
+                        36.489528
+                  ]
+            },
+            {
+                  "name": "Chemtou: bâtiments funéraires romains",
+                  "text": "A chemtoui római temetkezési épületek a település tehetősebb ókori lakóinak mauzóleumait és sírhelyeit foglalják magukba.",
+                  "category": "historical",
+                  "coords": [
+                        8.579648,
+                        36.490082
+                  ]
+            },
+            {
+                  "name": "Chemtou: Roman carrières de marbre profonde",
+                  "text": "A chemtoui mélyszíni római kőfejtő az a régészeti terület, ahol a híres sárga márványt, a „giallo antico”-t termelték ki.",
+                  "category": "historical",
+                  "coords": [
+                        8.577478,
+                        36.492929
+                  ]
+            },
+            {
+                  "name": "Chemtou: église italienne du 19ème siècle",
+                  "text": "A chemtoui 19. századi olasz templom romja a márványbányászat újkori, európaiak általi újraindításának idejéből származik.",
+                  "category": "historical",
+                  "coords": [
+                        8.576012,
+                        36.491409
+                  ]
+            },
+            {
+                  "name": "Chemtou: église byzantine",
+                  "text": "A chemtoui bizánci templom a késő ókori keresztény építészet kőbe zárt romja a régészeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        8.579575,
+                        36.494871
+                  ]
+            },
+            {
+                  "name": "Chemtou: Camp de travail forcé, de l'administration de la carrière, la garnison de garde",
+                  "text": "A kényszermunkatábor, a bányavezetőség és az őrség garnizonjának római romjai a chemtoui márványkitermelés zord körülményeit mutatják.",
+                  "category": "historical",
+                  "coords": [
+                        8.581563,
+                        36.495444
+                  ]
+            },
+            {
+                  "name": "Chemtou: Sanctuaire de la Dii Mauri",
+                  "text": "A Dii Mauri szentély chemtoui romjai a helyi, őshonos maur istenek római kori tiszteletének kőemlékei.",
+                  "category": "historical",
+                  "coords": [
+                        8.580913,
+                        36.493203
+                  ]
+            },
+            {
+                  "name": "Chemtou: numide sanctuaire de la colline, le temple de Saturne, église byzantine",
+                  "text": "Ez a chemtoui hegyi szentély az évszázadok során egy numidiai kultuszhelyből római Szaturnusz-templommá, majd bizánci templommá alakult rom.",
+                  "category": "historical",
+                  "coords": [
+                        8.579999,
+                        36.49291
+                  ]
+            },
+            {
+                  "name": "Chemtou: aqueduc",
+                  "text": "A chemtoui vízvezeték romjai egykor a római település és fürdői számára biztosították a folyamatos ivóvízellátást.",
+                  "category": "historical",
+                  "coords": [
+                        8.57328,
+                        36.495984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site Antique Sidi Ali ben Abdallah",
+                  "text": "Situl arheologic Sidi Ali ben Abdallah conservă vestigiile unei vechi așezări din regiunea Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.62819,
+                        36.528966
+                  ]
+            },
+            {
+                  "name": "Chemtou: Pont romain",
+                  "text": "Ruinele podului roman din Chemtou amintesc de o importantă structură de inginerie antică ce traversa râul Medjerda.",
+                  "category": "historical",
+                  "coords": [
+                        8.571888,
+                        36.488212
+                  ]
+            },
+            {
+                  "name": "Chemtou: roche reliefs",
+                  "text": "Reliefurile rupestre din Chemtou sunt sculpturi arheologice antice gravate direct în pereții stâncoși ai zonei.",
+                  "category": "historical",
+                  "coords": [
+                        8.579404,
+                        36.49201
+                  ]
+            },
+            {
+                  "name": "Aïn Ksir",
+                  "text": "Aïn Ksir este un monument istoric antic situat în zona arheologică bogată a sitului Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.591675,
+                        36.513495
+                  ]
+            },
+            {
+                  "name": "Chemtou: Théâtre",
+                  "text": "Teatrul roman din Chemtou, aflat astăzi în ruină, era principalul spațiu antic pentru spectacole al prosperului oraș.",
+                  "category": "historical",
+                  "coords": [
+                        8.571809,
+                        36.491534
+                  ]
+            },
+            {
+                  "name": "Chemtou: Forum avec la basilique, voûte, fontaine et précédente tombeaux numides",
+                  "text": "Ruinele forumului din Chemtou includ o bazilică, un arc, o fântână și morminte numidiene mai vechi situate în fața acestora.",
+                  "category": "historical",
+                  "coords": [
+                        8.573818,
+                        36.490764
+                  ]
+            },
+            {
+                  "name": "Chemtou: Grand bâtiment romain (Administration de carrière?)",
+                  "text": "Ruinele acestei mari clădiri romane din Chemtou au aparținut, cel mai probabil, administrației faimoasei cariere de marmură galbenă.",
+                  "category": "historical",
+                  "coords": [
+                        8.577912,
+                        36.490944
+                  ]
+            },
+            {
+                  "name": "ed Damous",
+                  "text": "Situl arheologic ed Damous dezvăluie ruine antice și structuri parțial subterane în apropierea orașului antic Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.62461,
+                        36.523889
+                  ]
+            },
+            {
+                  "name": "Henchir Bordj Hellal. (Byzantine Fortress Remains)",
+                  "text": "Henchir Bordj Hellal adăpostește vestigiile arheologice ale unei solide fortărețe militare bizantine de lângă Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.650925,
+                        36.478563
+                  ]
+            },
+            {
+                  "name": "Chemtou: bains municipaux",
+                  "text": "Băile municipale din Chemtou sunt ruinele termelor publice romane folosite de locuitorii anticului oraș minier.",
+                  "category": "historical",
+                  "coords": [
+                        8.57289,
+                        36.493454
+                  ]
+            },
+            {
+                  "name": "Archeological Museum of Chemtou",
+                  "text": "Muzeul Arheologic din Chemtou expune artefacte remarcabile descoperite în acest vechi oraș numidian și roman faimos pentru marmură.",
+                  "category": "museum",
+                  "coords": [
+                        8.576818,
+                        36.489528
+                  ]
+            },
+            {
+                  "name": "Chemtou: bâtiments funéraires romains",
+                  "text": "Clădirile funerare romane din Chemtou constau în ruinele unor morminte monumentale și cavouri antice ale locuitorilor orașului.",
+                  "category": "historical",
+                  "coords": [
+                        8.579648,
+                        36.490082
+                  ]
+            },
+            {
+                  "name": "Chemtou: Roman carrières de marbre profonde",
+                  "text": "Cariera romană de marmură de adâncime din Chemtou este situl arheologic principal de unde se extrăgea prețioasa marmură galbenă antică.",
+                  "category": "historical",
+                  "coords": [
+                        8.577478,
+                        36.492929
+                  ]
+            },
+            {
+                  "name": "Chemtou: église italienne du 19ème siècle",
+                  "text": "Biserica italiană din secolul al XIX-lea de la Chemtou este o ruină datând din perioada în care extracția marmurei a fost reluată modern.",
+                  "category": "historical",
+                  "coords": [
+                        8.576012,
+                        36.491409
+                  ]
+            },
+            {
+                  "name": "Chemtou: église byzantine",
+                  "text": "Biserica bizantină din Chemtou este o ruină de cult din antichitatea târzie, edificată peste structuri mai vechi ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        8.579575,
+                        36.494871
+                  ]
+            },
+            {
+                  "name": "Chemtou: Camp de travail forcé, de l'administration de la carrière, la garnison de garde",
+                  "text": "Ruinele lagărului de muncă forțată, ale administrației și ale garnizoanei din Chemtou atestă condițiile dure din carierele romane de marmură.",
+                  "category": "historical",
+                  "coords": [
+                        8.581563,
+                        36.495444
+                  ]
+            },
+            {
+                  "name": "Chemtou: Sanctuaire de la Dii Mauri",
+                  "text": "Sanctuarul Dii Mauri din Chemtou cuprinde ruinele unui lăcaș de cult antic închinat zeităților autohtone maure.",
+                  "category": "historical",
+                  "coords": [
+                        8.580913,
+                        36.493203
+                  ]
+            },
+            {
+                  "name": "Chemtou: numide sanctuaire de la colline, le temple de Saturne, église byzantine",
+                  "text": "Ruinele sanctuarului de pe deal din Chemtou ilustrează evoluția religioasă de la un templu numidian la unul roman pentru Saturn și apoi la o biserică bizantină.",
+                  "category": "historical",
+                  "coords": [
+                        8.579999,
+                        36.49291
+                  ]
+            },
+            {
+                  "name": "Chemtou: aqueduc",
+                  "text": "Apeductul din Chemtou este o structură inginerească în ruină care odinioară aducea apa proaspătă în inima orașului antic roman.",
+                  "category": "historical",
+                  "coords": [
+                        8.57328,
+                        36.495984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site Antique Sidi Ali ben Abdallah",
+                  "text": "The Sidi Ali ben Abdallah archaeological site preserves the ancient traces of a historical settlement near Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.62819,
+                        36.528966
+                  ]
+            },
+            {
+                  "name": "Chemtou: Roman bridge",
+                  "text": "The Roman bridge ruins in Chemtou are the remnants of a significant ancient infrastructural crossing over the Medjerda River.",
+                  "category": "historical",
+                  "coords": [
+                        8.571888,
+                        36.488212
+                  ]
+            },
+            {
+                  "name": "Chemtou: Rock reliefs",
+                  "text": "The Chemtou rock reliefs are ancient archaeological carvings etched directly into the stone, reflecting the site's rich cultural history.",
+                  "category": "historical",
+                  "coords": [
+                        8.579404,
+                        36.49201
+                  ]
+            },
+            {
+                  "name": "Aïn Ksir",
+                  "text": "Aïn Ksir is an ancient historic monument situated within the broader archaeological landscape of Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.591675,
+                        36.513495
+                  ]
+            },
+            {
+                  "name": "Chemtou: Theatre",
+                  "text": "The ruined Roman theatre of Chemtou once served as the primary entertainment venue for the ancient marble-producing city.",
+                  "category": "historical",
+                  "coords": [
+                        8.571809,
+                        36.491534
+                  ]
+            },
+            {
+                  "name": "Chemtou: Forum with basilica, arch, fountain and preceding Numidian tombs",
+                  "text": "The ruined forum in Chemtou features the remains of a basilica, an arch, a fountain, and earlier Numidian tombs.",
+                  "category": "historical",
+                  "coords": [
+                        8.573818,
+                        36.490764
+                  ]
+            },
+            {
+                  "name": "Chemtou: Large roman building (quarry administration?)",
+                  "text": "This large ruined Roman building in Chemtou is believed to have been the administrative headquarters for the valuable marble quarry.",
+                  "category": "historical",
+                  "coords": [
+                        8.577912,
+                        36.490944
+                  ]
+            },
+            {
+                  "name": "ed Damous",
+                  "text": "The ed Damous archaeological site contains ancient remnants and subterranean structures located near Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.62461,
+                        36.523889
+                  ]
+            },
+            {
+                  "name": "Henchir Bordj Hellal. (Byzantine Fortress Remains)",
+                  "text": "Henchir Bordj Hellal features the archaeological remains of a substantial Byzantine-era military fortress near Chemtou.",
+                  "category": "historical",
+                  "coords": [
+                        8.650925,
+                        36.478563
+                  ]
+            },
+            {
+                  "name": "Chemtou: Municipal baths",
+                  "text": "The municipal baths of Chemtou are the ruins of the public Roman thermal complex that served the local townsfolk.",
+                  "category": "historical",
+                  "coords": [
+                        8.57289,
+                        36.493454
+                  ]
+            },
+            {
+                  "name": "Archeological Museum of Chemtou",
+                  "text": "The Archeological Museum of Chemtou exhibits significant artifacts and history from the ancient Numidian and Roman marble-mining city.",
+                  "category": "museum",
+                  "coords": [
+                        8.576818,
+                        36.489528
+                  ]
+            },
+            {
+                  "name": "Chemtou: Roman funeral buildings",
+                  "text": "The Roman funeral buildings at Chemtou consist of the ruined monumental tombs and mausoleums from the ancient city's necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        8.579648,
+                        36.490082
+                  ]
+            },
+            {
+                  "name": "Chemtou: Roman deep marble quarrying",
+                  "text": "The Roman deep marble quarrying site in Chemtou is the archaeological area where the highly prized 'giallo antico' marble was historically extracted.",
+                  "category": "historical",
+                  "coords": [
+                        8.577478,
+                        36.492929
+                  ]
+            },
+            {
+                  "name": "Chemtou: 19th century Italian church",
+                  "text": "The 19th-century Italian church in Chemtou is a ruined structure built during the modern revival of the local marble quarrying operations.",
+                  "category": "historical",
+                  "coords": [
+                        8.576012,
+                        36.491409
+                  ]
+            },
+            {
+                  "name": "Chemtou: Byzantine church",
+                  "text": "The Byzantine church at Chemtou is the ruined remains of a late antique Christian place of worship within the archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        8.579575,
+                        36.494871
+                  ]
+            },
+            {
+                  "name": "Chemtou: Forced labour camp, quarry administration, guard's garrison",
+                  "text": "The ruined forced labour camp, quarry administration, and guard's garrison at Chemtou highlight the harsh realities of ancient Roman marble extraction.",
+                  "category": "historical",
+                  "coords": [
+                        8.581563,
+                        36.495444
+                  ]
+            },
+            {
+                  "name": "Chemtou: Sanctuary of the Dii Mauri",
+                  "text": "The Sanctuary of the Dii Mauri in Chemtou comprises the ruins of a temple dedicated to the indigenous Moorish pantheon.",
+                  "category": "historical",
+                  "coords": [
+                        8.580913,
+                        36.493203
+                  ]
+            },
+            {
+                  "name": "Chemtou: Numidian hill sanctuary, temple of Saturn, Byzantine church",
+                  "text": "This multi-layered ruined site in Chemtou evolved from a Numidian hill sanctuary to a Roman temple of Saturn, and later to a Byzantine church.",
+                  "category": "historical",
+                  "coords": [
+                        8.579999,
+                        36.49291
+                  ]
+            },
+            {
+                  "name": "Chemtou: Aqueduct",
+                  "text": "The Chemtou aqueduct is a ruined Roman water channel that historically supplied fresh water to the city's inhabitants and baths.",
+                  "category": "historical",
+                  "coords": [
+                        8.57328,
+                        36.495984
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-32",
     coords: [8.5758, 36.4914],
@@ -621,7 +4725,808 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "matmata-troglodyte-history-v2",
+    id: "matmata-troglodyte-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musee dar Khadija",
+                  "text": "Dieses lokale Museum in Matmata zeigt die traditionelle Lebensweise und Artefakte der einzigartigen Höhlenwohnungen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        9.968545,
+                        33.542157
+                  ]
+            },
+            {
+                  "name": "Dar Taoufik Matmata",
+                  "text": "In einem traditionellen Erdhaus untergebracht, bietet dieses Museum Besuchern einen authentischen Einblick in das unterirdische Leben der Berber in Matmata.",
+                  "category": "museum",
+                  "coords": [
+                        9.942998,
+                        33.549859
+                  ]
+            },
+            {
+                  "name": "Madrassa Sidi Moussa Jomani",
+                  "text": "Untergebracht in einem historischen islamischen Schulgebäude, dient dieser Ort heute als Museum für das religiöse und kulturelle Erbe von Matmata.",
+                  "category": "museum",
+                  "coords": [
+                        9.972914,
+                        33.543996
+                  ]
+            },
+            {
+                  "name": "Musée Troglodyte de Ksour",
+                  "text": "Dieses Museum beleuchtet die Architektur der befestigten Kornspeicher und der ikonischen unterirdischen Strukturen, die in den weichen Felsen von Matmata gehauen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        9.976152,
+                        33.542024
+                  ]
+            },
+            {
+                  "name": "maisons souterraines",
+                  "text": "Diese historischen unterirdischen Häuser in Matmata bilden ein komplexes Netzwerk von Grubenwohnungen, die gegraben wurden, um der Wüstenhitze zu entkommen.",
+                  "category": "historical",
+                  "coords": [
+                        10.003964,
+                        33.615961
+                  ]
+            },
+            {
+                  "name": "Village Beni Seggane",
+                  "text": "Die Überreste dieses alten Dorfes veranschaulichen die historischen Siedlungsstrukturen der Berber in der Region Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.962476,
+                        33.58475
+                  ]
+            },
+            {
+                  "name": "Zegrarine village (maisons souterraines)",
+                  "text": "Die Erkundung dieses verlassenen Höhlendorfes offenbart traditionelle Gewölberäume, die sich um tiefe Krater in der Landschaft von Matmata gruppieren.",
+                  "category": "historical",
+                  "coords": [
+                        9.956584,
+                        33.591775
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Seggane",
+                  "text": "Diese ehemalige befestigte Kornspeicheranlage schützte einst die Ernten der lokalen Höhlenbewohner in der Nähe von Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.9514,
+                        33.584985
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Diese verwitterten Ruinen aus Stein und Erde sind die Überreste einer alten Berbersiedlung, die mit dem zerklüfteten Gelände von Matmata verschmilzt.",
+                  "category": "historical",
+                  "coords": [
+                        9.941294,
+                        33.618236
+                  ]
+            },
+            {
+                  "name": "Bou Sebah (maisons souterraines)",
+                  "text": "Die Stätte Bou Sebah verfügt über gut definierte unterirdische Innenhöfe, die einst das geschäftige Zentrum eines Höhlenbewohnerviertels in Matmata bildeten.",
+                  "category": "historical",
+                  "coords": [
+                        9.923884,
+                        33.616143
+                  ]
+            },
+            {
+                  "name": "Bou Dhafeur (maisons souterraines)",
+                  "text": "Die Stätte Bou Dhafeur umfasst eine Gruppe verlassener unterirdischer Behausungen, die historisch direkt in den Hang in der Nähe von Matmata gegraben wurden.",
+                  "category": "historical",
+                  "coords": [
+                        9.90974,
+                        33.572197
+                  ]
+            },
+            {
+                  "name": "Ksar Hania",
+                  "text": "Diese aus lokalem Stein und Lehm errichtete Kornspeicherruine diente einst der Lagerung der lebenswichtigen Nahrungsvorräte für die Bevölkerung von Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.91172,
+                        33.54261
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "Die archäologischen Überreste in Sidi Slimane deuten darauf hin, dass es sich wahrscheinlich um einen Ort von lokaler religiöser oder gemeinschaftlicher Bedeutung in der Nähe von Matmata handelte.",
+                  "category": "historical",
+                  "coords": [
+                        9.93684,
+                        33.56439
+                  ]
+            },
+            {
+                  "name": "Mzar Sidi Ali Ben Mansour",
+                  "text": "Die verfallenen Mauern dieses einem lokalen Heiligen gewidmeten Schreins bieten eine friedliche historische Stätte inmitten der Wüstenlandschaft von Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.958181,
+                        33.576692
+                  ]
+            },
+            {
+                  "name": "Kalaa Matmata",
+                  "text": "Die Ruinenfundamente dieser historischen Bergfestung bieten einen Panoramablick über die weitläufigen Höhlensiedlungen in der Tiefe.",
+                  "category": "historical",
+                  "coords": [
+                        9.981133,
+                        33.544602
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 03",
+                  "text": "Die Überreste dieses ehemaligen militärischen Blockhauses erinnern an die strategische Bedeutung des erhöhten Geländes um Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.986823,
+                        33.53824
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 02",
+                  "text": "Dieser erodierte Verteidigungsposten überwachte einst die Wüstentäler und Karawanenrouten, die in der Nähe der Höhlenstadt Matmata verliefen.",
+                  "category": "historical",
+                  "coords": [
+                        9.983705,
+                        33.537159
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 01",
+                  "text": "An einem strategischen Aussichtspunkt erbaut, überblicken die Ruinen dieses Wachturms das komplexe Netzwerk unterirdischer Häuser in Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.980575,
+                        33.537533
+                  ]
+            },
+            {
+                  "name": "Chaabet Smaala - maisons troglodytes",
+                  "text": "Diese archäologische Stätte im Wadi Chaabet Smaala bewahrt frühe Beispiele von Häusern, die direkt in die Talwände von Matmata gehauen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        9.990128,
+                        33.504419
+                  ]
+            },
+            {
+                  "name": "El Hafsa village (maisons souterraines)",
+                  "text": "Das verlassene unterirdische Dorf El Hafsa verfügt über eine Reihe miteinander verbundener Krater, die historisch als gemeinschaftliche Familienhöfe fungierten.",
+                  "category": "historical",
+                  "coords": [
+                        9.972391,
+                        33.515132
+                  ]
+            },
+            {
+                  "name": "El Zriba ruines",
+                  "text": "Die Stätte El Zriba zeichnet sich durch eingestürzte Mauern und verstreutes Mauerwerk aus, die eine heute verlassene historische Siedlung am Stadtrand von Matmata markieren.",
+                  "category": "historical",
+                  "coords": [
+                        10.02552,
+                        33.468005
+                  ]
+            },
+            {
+                  "name": "El Argoub (maisons souterraines)",
+                  "text": "Diese unterirdischen archäologischen Überreste im Gebiet El Argoub zeigen die traditionelle Methode, Grubenhäuser zu graben, um dem Sahara-Klima zu entkommen.",
+                  "category": "historical",
+                  "coords": [
+                        10.042376,
+                        33.542062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musee dar Khadija",
+                  "text": "Ez a helyi múzeum a régió egyedülálló barlanglakásainak hagyományos életmódját és használati tárgyait mutatja be Matmatában.",
+                  "category": "museum",
+                  "coords": [
+                        9.968545,
+                        33.542157
+                  ]
+            },
+            {
+                  "name": "Dar Taoufik Matmata",
+                  "text": "A hagyományos, földbe vájt házban kialakított múzeum hiteles bepillantást enged a berberek földalatti életébe Matmatában.",
+                  "category": "museum",
+                  "coords": [
+                        9.942998,
+                        33.549859
+                  ]
+            },
+            {
+                  "name": "Madrassa Sidi Moussa Jomani",
+                  "text": "A történelmi iszlám iskolaépületben működő múzeum Matmata vallási és kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        9.972914,
+                        33.543996
+                  ]
+            },
+            {
+                  "name": "Musée Troglodyte de Ksour",
+                  "text": "Ez a múzeum az erődített magtárak és a Matmata puha kőzetébe vájt ikonikus földalatti építmények építészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.976152,
+                        33.542024
+                  ]
+            },
+            {
+                  "name": "maisons souterraines",
+                  "text": "Ezek a történelmi, földalatti házak Matmatában egy bonyolult hálózatot alkotnak, amelyeket a sivatagi hőség elől menekülve ástak ki.",
+                  "category": "historical",
+                  "coords": [
+                        10.003964,
+                        33.615961
+                  ]
+            },
+            {
+                  "name": "Village Beni Seggane",
+                  "text": "Ennek az ősi falunak a maradványai a berber közösségek történelmi településszerkezetét emelik ki Matmata régióban.",
+                  "category": "historical",
+                  "coords": [
+                        9.962476,
+                        33.58475
+                  ]
+            },
+            {
+                  "name": "Zegrarine village (maisons souterraines)",
+                  "text": "Ennek az elhagyott barlangfalunak a felfedezése során hagyományos boltozatos szobák tárulnak elénk, amelyek Matmata mély kráterei köré csoportosulnak.",
+                  "category": "historical",
+                  "coords": [
+                        9.956584,
+                        33.591775
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Seggane",
+                  "text": "Ez az egykori erődített magtár egykor a Matmata közelében élő helyi barlanglakó lakosság termését védte.",
+                  "category": "historical",
+                  "coords": [
+                        9.9514,
+                        33.584985
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Ezek a mállott kő- és földromok egy ősi berber település maradványai, amelyek beleolvadnak Matmata zord terepébe.",
+                  "category": "historical",
+                  "coords": [
+                        9.941294,
+                        33.618236
+                  ]
+            },
+            {
+                  "name": "Bou Sebah (maisons souterraines)",
+                  "text": "A Bou Sebah lelőhely jól körülhatárolt földalatti udvarokkal rendelkezik, amelyek egykor egy barlanglakó negyed nyüzsgő központját alkották Matmatában.",
+                  "category": "historical",
+                  "coords": [
+                        9.923884,
+                        33.616143
+                  ]
+            },
+            {
+                  "name": "Bou Dhafeur (maisons souterraines)",
+                  "text": "A Bou Dhafeur lelőhelyen elhagyott földalatti lakások találhatók, amelyeket történelmileg közvetlenül a Matmata melletti domboldalba ástak.",
+                  "category": "historical",
+                  "coords": [
+                        9.90974,
+                        33.572197
+                  ]
+            },
+            {
+                  "name": "Ksar Hania",
+                  "text": "A helyi kőből és agyagból épült magtár romja egykor a Matmata lakosságának létfontosságú élelmiszerkészleteit tárolta.",
+                  "category": "historical",
+                  "coords": [
+                        9.91172,
+                        33.54261
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "A Sidi Slimane-i régészeti maradványok arra utalnak, hogy valószínűleg helyi vallási vagy közösségi jelentőségű helyszín volt Matmata közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.93684,
+                        33.56439
+                  ]
+            },
+            {
+                  "name": "Mzar Sidi Ali Ben Mansour",
+                  "text": "Egy helyi szentnek szentelt szentély omladozó falai békés történelmi helyszínt kínálnak a Matmata sivatagi táj közepén.",
+                  "category": "historical",
+                  "coords": [
+                        9.958181,
+                        33.576692
+                  ]
+            },
+            {
+                  "name": "Kalaa Matmata",
+                  "text": "Ennek a történelmi hegytetőn lévő erődítménynek a romos alapjai panorámás kilátást nyújtanak az alatta elterülő barlanglakó közösségekre.",
+                  "category": "historical",
+                  "coords": [
+                        9.981133,
+                        33.544602
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 03",
+                  "text": "Ennek az egykori katonai erődítménynek a maradványai a Matmatát körülvevő magaslati terep stratégiai fontosságára emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        9.986823,
+                        33.53824
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 02",
+                  "text": "Ez az erodált védelmi előőrs egykor a sivatagi völgyeket és a Matmata barlangvárosának közelében elhaladó karavánutakat figyelte.",
+                  "category": "historical",
+                  "coords": [
+                        9.983705,
+                        33.537159
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 01",
+                  "text": "A stratégiai kilátón épült őrtorony romjai a matmatai földalatti otthonok bonyolult hálózatára néznek.",
+                  "category": "historical",
+                  "coords": [
+                        9.980575,
+                        33.537533
+                  ]
+            },
+            {
+                  "name": "Chaabet Smaala - maisons troglodytes",
+                  "text": "A Chaabet Smaala vádiban található régészeti lelőhely megőrzi a közvetlenül a Matmata-völgy falaiba vájt otthonok korai példáit.",
+                  "category": "historical",
+                  "coords": [
+                        9.990128,
+                        33.504419
+                  ]
+            },
+            {
+                  "name": "El Hafsa village (maisons souterraines)",
+                  "text": "Az elhagyatott, földalatti El Hafsa faluban egymáshoz kapcsolódó kráterek sora található, amelyek történelmileg közös családi udvarként működtek.",
+                  "category": "historical",
+                  "coords": [
+                        9.972391,
+                        33.515132
+                  ]
+            },
+            {
+                  "name": "El Zriba ruines",
+                  "text": "Az El Zriba lelőhelyen beomlott falak és szétszórt falazatok találhatók, amelyek egy ma már elhagyott történelmi települést jelölnek Matmata külvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        10.02552,
+                        33.468005
+                  ]
+            },
+            {
+                  "name": "El Argoub (maisons souterraines)",
+                  "text": "Az El Argoub területen található földalatti régészeti maradványok a sivatagi éghajlat elől való menekülés hagyományos gödörásási módszerét mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        10.042376,
+                        33.542062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musee dar Khadija",
+                  "text": "Acest muzeu local din Matmata prezintă stilul de viață tradițional și artefactele locuințelor troglodite unice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        9.968545,
+                        33.542157
+                  ]
+            },
+            {
+                  "name": "Dar Taoufik Matmata",
+                  "text": "Amplasat într-o casă tradițională excavată, acest muzeu oferă vizitatorilor o privire autentică asupra vieții subterane berbere din Matmata.",
+                  "category": "museum",
+                  "coords": [
+                        9.942998,
+                        33.549859
+                  ]
+            },
+            {
+                  "name": "Madrassa Sidi Moussa Jomani",
+                  "text": "Găzduit într-o clădire istorică a unei școli islamice, acest sit servește acum ca muzeu dedicat moștenirii religioase și culturale din Matmata.",
+                  "category": "museum",
+                  "coords": [
+                        9.972914,
+                        33.543996
+                  ]
+            },
+            {
+                  "name": "Musée Troglodyte de Ksour",
+                  "text": "Acest muzeu evidențiază arhitectura grânarelor fortificate și a structurilor subterane emblematice sculptate în stânca moale din Matmata.",
+                  "category": "museum",
+                  "coords": [
+                        9.976152,
+                        33.542024
+                  ]
+            },
+            {
+                  "name": "maisons souterraines",
+                  "text": "Aceste case subterane istorice din Matmata formează o rețea complexă de locuințe săpate pentru a scăpa de căldura intensă a deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        10.003964,
+                        33.615961
+                  ]
+            },
+            {
+                  "name": "Village Beni Seggane",
+                  "text": "Rămășițele acestui sat antic evidențiază tiparele istorice de așezare ale comunităților berbere din regiunea Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.962476,
+                        33.58475
+                  ]
+            },
+            {
+                  "name": "Zegrarine village (maisons souterraines)",
+                  "text": "Explorarea acestui sat troglodit abandonat dezvăluie camere boltite tradiționale grupate în jurul craterelor adânci din peisajul Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.956584,
+                        33.591775
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Seggane",
+                  "text": "Acest fost sit de grânar fortificat a protejat odată recoltele populației troglodite locale care trăia lângă Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.9514,
+                        33.584985
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Aceste ruine erodate de piatră și pământ sunt rămășițele unei vechi așezări berbere care se îmbină cu terenul accidentat din Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.941294,
+                        33.618236
+                  ]
+            },
+            {
+                  "name": "Bou Sebah (maisons souterraines)",
+                  "text": "Situl Bou Sebah prezintă curți subterane bine definite care au format odată centrul plin de viață al unui cartier troglodit din Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.923884,
+                        33.616143
+                  ]
+            },
+            {
+                  "name": "Bou Dhafeur (maisons souterraines)",
+                  "text": "Situl Bou Dhafeur conține un grup de locuințe subterane abandonate săpate istoric direct în dealul din apropiere de Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.90974,
+                        33.572197
+                  ]
+            },
+            {
+                  "name": "Ksar Hania",
+                  "text": "Această structură de grânar în ruină, construită din piatră locală și lut, a stocat odată proviziile vitale de hrană pentru locuitorii din Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.91172,
+                        33.54261
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "Rămășițele arheologice de la Sidi Slimane indică faptul că a fost probabil un sit de importanță religioasă sau comunală locală lângă Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.93684,
+                        33.56439
+                  ]
+            },
+            {
+                  "name": "Mzar Sidi Ali Ben Mansour",
+                  "text": "Zidurile prăbușite ale acestui altar dedicat unui sfânt local oferă un sit istoric liniștit în mijlocul peisajului deșertic Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.958181,
+                        33.576692
+                  ]
+            },
+            {
+                  "name": "Kalaa Matmata",
+                  "text": "Fundațiile în ruină ale acestei fortărețe istorice de pe deal oferă vederi panoramice asupra comunităților troglodite extinse de dedesubt.",
+                  "category": "historical",
+                  "coords": [
+                        9.981133,
+                        33.544602
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 03",
+                  "text": "Rămășițele acestui fost bloc militar servesc drept memento al importanței strategice a terenului înalt din jurul Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.986823,
+                        33.53824
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 02",
+                  "text": "Acest avanpost defensiv erodat a monitorizat odată văile deșertului și rutele de caravane care treceau aproape de orașul troglodit Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.983705,
+                        33.537159
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 01",
+                  "text": "Construite într-un punct de observație strategic, ruinele acestui turn de veghe au vedere la rețeaua complexă de case subterane din Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.980575,
+                        33.537533
+                  ]
+            },
+            {
+                  "name": "Chaabet Smaala - maisons troglodytes",
+                  "text": "Găsit în wadi-ul Chaabet Smaala, acest sit arheologic păstrează exemple timpurii de case sculptate direct în pereții văii Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.990128,
+                        33.504419
+                  ]
+            },
+            {
+                  "name": "El Hafsa village (maisons souterraines)",
+                  "text": "Satul subteran abandonat El Hafsa prezintă o serie de cratere interconectate care au funcționat istoric drept curți familiale comunale.",
+                  "category": "historical",
+                  "coords": [
+                        9.972391,
+                        33.515132
+                  ]
+            },
+            {
+                  "name": "El Zriba ruines",
+                  "text": "Situl El Zriba prezintă ziduri prăbușite și zidărie împrăștiată, marcând o așezare istorică acum abandonată la periferia orașului Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        10.02552,
+                        33.468005
+                  ]
+            },
+            {
+                  "name": "El Argoub (maisons souterraines)",
+                  "text": "Situate în zona El Argoub, aceste rămășițe arheologice subterane prezintă metoda tradițională de săpare a caselor pentru a scăpa de climatul saharian.",
+                  "category": "historical",
+                  "coords": [
+                        10.042376,
+                        33.542062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musee dar Khadija",
+                  "text": "This local museum in Matmata showcases the traditional lifestyle and artifacts of the region's unique troglodyte dwellings.",
+                  "category": "museum",
+                  "coords": [
+                        9.968545,
+                        33.542157
+                  ]
+            },
+            {
+                  "name": "Dar Taoufik Matmata",
+                  "text": "Set within a traditional excavated home, this museum offers visitors an authentic look at Berber underground living in Matmata.",
+                  "category": "museum",
+                  "coords": [
+                        9.942998,
+                        33.549859
+                  ]
+            },
+            {
+                  "name": "Madrassa Sidi Moussa Jomani",
+                  "text": "Housed in a historic Islamic school building, this site now serves as a museum dedicated to Matmata's religious and cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        9.972914,
+                        33.543996
+                  ]
+            },
+            {
+                  "name": "Ksour Troglodyte Museum",
+                  "text": "This museum highlights the architecture of fortified granaries and the iconic subterranean structures carved into the soft rock of Matmata.",
+                  "category": "museum",
+                  "coords": [
+                        9.976152,
+                        33.542024
+                  ]
+            },
+            {
+                  "name": "maisons souterraines",
+                  "text": "These historic subterranean houses in Matmata form an intricate network of pit dwellings dug to escape the intense desert heat.",
+                  "category": "historical",
+                  "coords": [
+                        10.003964,
+                        33.615961
+                  ]
+            },
+            {
+                  "name": "Village Beni Seggane",
+                  "text": "The remnants of this ancient village highlight the historical settlement patterns of Berber communities in the Matmata region.",
+                  "category": "historical",
+                  "coords": [
+                        9.962476,
+                        33.58475
+                  ]
+            },
+            {
+                  "name": "Zegrarine village (maisons souterraines)",
+                  "text": "Exploring this abandoned troglodyte village reveals traditional vaulted rooms clustered around deep craters in the Matmata landscape.",
+                  "category": "historical",
+                  "coords": [
+                        9.956584,
+                        33.591775
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Seggane",
+                  "text": "This former fortified granary site once protected the harvests of the local troglodyte population living near Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.9514,
+                        33.584985
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "These weathered stone and earth ruins are the remains of an ancient Berber settlement blending into the rugged Matmata terrain.",
+                  "category": "historical",
+                  "coords": [
+                        9.941294,
+                        33.618236
+                  ]
+            },
+            {
+                  "name": "Bou Sebah (maisons souterraines)",
+                  "text": "The Bou Sebah site features well-defined subterranean courtyards that once formed the bustling center of a troglodyte neighborhood in Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.923884,
+                        33.616143
+                  ]
+            },
+            {
+                  "name": "Bou Dhafeur (maisons souterraines)",
+                  "text": "The Bou Dhafeur site contains a cluster of abandoned underground dwellings historically dug directly into the hillside near Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.90974,
+                        33.572197
+                  ]
+            },
+            {
+                  "name": "Ksar Hania",
+                  "text": "This ruined granary structure, built from local stone and clay, once stored the vital food supplies for the people of Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.91172,
+                        33.54261
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "The archaeological remains at Sidi Slimane indicate it was likely a site of local religious or communal significance near Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.93684,
+                        33.56439
+                  ]
+            },
+            {
+                  "name": "Mzar Sidi Ali Ben Mansour",
+                  "text": "The crumbling walls of this shrine dedicated to a local saint offer a peaceful historical site amid the Matmata desert landscape.",
+                  "category": "historical",
+                  "coords": [
+                        9.958181,
+                        33.576692
+                  ]
+            },
+            {
+                  "name": "Kalaa Matmata",
+                  "text": "The ruined foundations of this historic hilltop fortress provide panoramic views over the sprawling troglodyte communities below.",
+                  "category": "historical",
+                  "coords": [
+                        9.981133,
+                        33.544602
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 03",
+                  "text": "The remnants of this former military blockhouse stand as a reminder of the strategic importance of the elevated terrain surrounding Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.986823,
+                        33.53824
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 02",
+                  "text": "This eroded defensive outpost once monitored the desert valleys and caravan routes passing close to the troglodyte city of Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.983705,
+                        33.537159
+                  ]
+            },
+            {
+                  "name": "Bordj Matmata 01",
+                  "text": "Constructed at a strategic vantage point, the ruins of this watchtower overlook the intricate network of underground homes in Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.980575,
+                        33.537533
+                  ]
+            },
+            {
+                  "name": "Chaabet Smaala - maisons troglodytes",
+                  "text": "Found in the Chaabet Smaala wadi, this archaeological site preserves early examples of homes carved directly into the valley walls of Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        9.990128,
+                        33.504419
+                  ]
+            },
+            {
+                  "name": "El Hafsa village (maisons souterraines)",
+                  "text": "The abandoned underground village of El Hafsa features a series of interlinked craters that historically functioned as communal family courtyards.",
+                  "category": "historical",
+                  "coords": [
+                        9.972391,
+                        33.515132
+                  ]
+            },
+            {
+                  "name": "El Zriba ruines",
+                  "text": "The El Zriba site features collapsed walls and scattered masonry, marking a now-abandoned historical settlement on the outskirts of Matmata.",
+                  "category": "historical",
+                  "coords": [
+                        10.02552,
+                        33.468005
+                  ]
+            },
+            {
+                  "name": "El Argoub (maisons souterraines)",
+                  "text": "Located in the El Argoub area, these subterranean archaeological remnants showcase the traditional method of digging pit homes to escape the Saharan climate.",
+                  "category": "historical",
+                  "coords": [
+                        10.042376,
+                        33.542062
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-81",
     coords: [9.9664, 33.5422],
@@ -669,7 +5574,52 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ribat-of-monastir-history-v2",
+    id: "ribat-of-monastir-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Habib Bourguiba Memorial",
+                  "text": "Die Mausoleumsattraktion dient als Ruhestätte des ehemaligen Präsidenten und zeichnet sich durch ihre markante goldene Kuppel aus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.828357,
+                        35.777785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Habib Bourguiba mauzóleuma",
+                  "text": "A mauzóleum látványosságként és az egykori elnök nyughelyeként szolgál, melyet kiemelkedő aranykupolája jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        10.828357,
+                        35.777785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Habib Bourguiba Memorial",
+                  "text": "Atracția, sub forma unui mausoleu, servește ca loc de odihnă al fostului președinte, fiind caracterizată de o cupolă aurie proeminentă.",
+                  "category": "landmark",
+                  "coords": [
+                        10.828357,
+                        35.777785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Habib Bourguiba Memorial",
+                  "text": "The mausoleum attraction serves as the resting place of the former president, characterized by its prominent golden dome.",
+                  "category": "landmark",
+                  "coords": [
+                        10.828357,
+                        35.777785
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-52",
     coords: [10.8286, 35.7761],
@@ -717,7 +5667,232 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "al-zaytuna-mosque-history-v2",
+    id: "al-zaytuna-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "2e Dar Romdane Bey",
+                  "text": "2e Dar Romdane Bey ist eine traditionelle Burg im historischen Viertel Al-Zaytuna-Moschee.",
+                  "category": "castle",
+                  "coords": [
+                        10.169098,
+                        36.800097
+                  ]
+            },
+            {
+                  "name": "Zaouïa Sidi Ben Arous",
+                  "text": "Zaouïa Sidi Ben Arous ist ein historisches Denkmal und Mausoleum in der Nähe der Al-Zaytuna-Moschee.",
+                  "category": "historical",
+                  "coords": [
+                        10.17077,
+                        36.797645
+                  ]
+            },
+            {
+                  "name": "Dâr El-Mrâbet",
+                  "text": "Dâr El-Mrâbet ist eine traditionelle Burgresidenz in der Gegend der Al-Zaytuna-Moschee.",
+                  "category": "castle",
+                  "coords": [
+                        10.16946,
+                        36.798884
+                  ]
+            },
+            {
+                  "name": "Dâr Khaznâdâr",
+                  "text": "Dâr Khaznâdâr ist ein historisches Burggebäude im Gebiet der Al-Zaytuna-Moschee.",
+                  "category": "castle",
+                  "coords": [
+                        10.172249,
+                        36.79912
+                  ]
+            },
+            {
+                  "name": "Dâr El-'Asfouri",
+                  "text": "Dâr El-'Asfouri ist ein traditionelles Burggebäude im Gebiet Al-Zaytuna.",
+                  "category": "castle",
+                  "coords": [
+                        10.171898,
+                        36.798171
+                  ]
+            },
+            {
+                  "name": "Mausolée Ali Pacha",
+                  "text": "Das Mausolée Ali Pacha ist ein historisches Grabdenkmal im Viertel der Al-Zaytuna-Moschee.",
+                  "category": "historical",
+                  "coords": [
+                        10.172095,
+                        36.796853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "2e Dar Romdane Bey",
+                  "text": "A 2e Dar Romdane Bey egy hagyományos kastély az Al-Zajtuna mecset történelmi negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        10.169098,
+                        36.800097
+                  ]
+            },
+            {
+                  "name": "Zaouïa Sidi Ben Arous",
+                  "text": "A Zaouïa Sidi Ben Arous egy történelmi emlékmű és mauzóleum az Al-Zajtuna mecset közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.17077,
+                        36.797645
+                  ]
+            },
+            {
+                  "name": "Dâr El-Mrâbet",
+                  "text": "A Dâr El-Mrâbet egy hagyományos kastélyrezidencia az Al-Zajtuna mecset környékén.",
+                  "category": "castle",
+                  "coords": [
+                        10.16946,
+                        36.798884
+                  ]
+            },
+            {
+                  "name": "Dâr Khaznâdâr",
+                  "text": "A Dâr Khaznâdâr egy történelmi kastélyépület az Al-Zajtuna mecset területén.",
+                  "category": "castle",
+                  "coords": [
+                        10.172249,
+                        36.79912
+                  ]
+            },
+            {
+                  "name": "Dâr El-'Asfouri",
+                  "text": "A Dâr El-'Asfouri egy hagyományos kastélyépület az Al-Zajtuna területén.",
+                  "category": "castle",
+                  "coords": [
+                        10.171898,
+                        36.798171
+                  ]
+            },
+            {
+                  "name": "Mausolée Ali Pacha",
+                  "text": "A Mausolée Ali Pacha egy történelmi síremlék az Al-Zajtuna mecset negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        10.172095,
+                        36.796853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "2e Dar Romdane Bey",
+                  "text": "2e Dar Romdane Bey este un castel tradițional în cartierul istoric al Moscheii Al-Zaytuna.",
+                  "category": "castle",
+                  "coords": [
+                        10.169098,
+                        36.800097
+                  ]
+            },
+            {
+                  "name": "Zaouïa Sidi Ben Arous",
+                  "text": "Zaouïa Sidi Ben Arous este un monument istoric și mausoleu în apropiere de Moscheea Al-Zaytuna.",
+                  "category": "historical",
+                  "coords": [
+                        10.17077,
+                        36.797645
+                  ]
+            },
+            {
+                  "name": "Dâr El-Mrâbet",
+                  "text": "Dâr El-Mrâbet este o reședință de castel tradițională în zona Moscheii Al-Zaytuna.",
+                  "category": "castle",
+                  "coords": [
+                        10.16946,
+                        36.798884
+                  ]
+            },
+            {
+                  "name": "Dâr Khaznâdâr",
+                  "text": "Dâr Khaznâdâr este o clădire istorică cu alură de castel din zona Moscheii Al-Zaytuna.",
+                  "category": "castle",
+                  "coords": [
+                        10.172249,
+                        36.79912
+                  ]
+            },
+            {
+                  "name": "Dâr El-'Asfouri",
+                  "text": "Dâr El-'Asfouri este o clădire tradițională de tip castel în zona Al-Zaytuna.",
+                  "category": "castle",
+                  "coords": [
+                        10.171898,
+                        36.798171
+                  ]
+            },
+            {
+                  "name": "Mausolée Ali Pacha",
+                  "text": "Mausolée Ali Pacha este un monument funerar istoric în cartierul Moscheii Al-Zaytuna.",
+                  "category": "historical",
+                  "coords": [
+                        10.172095,
+                        36.796853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "2e Dar Romdane Bey",
+                  "text": "2e Dar Romdane Bey is a traditional castle located in the historic Al-Zaytuna Mosque district.",
+                  "category": "castle",
+                  "coords": [
+                        10.169098,
+                        36.800097
+                  ]
+            },
+            {
+                  "name": "Zaouïa Sidi Ben Arous",
+                  "text": "Zaouïa Sidi Ben Arous is a historic monument and mausoleum near the Al-Zaytuna Mosque.",
+                  "category": "historical",
+                  "coords": [
+                        10.17077,
+                        36.797645
+                  ]
+            },
+            {
+                  "name": "Dâr El-Mrâbet",
+                  "text": "Dâr El-Mrâbet is a traditional castle residence in the Al-Zaytuna Mosque area.",
+                  "category": "castle",
+                  "coords": [
+                        10.16946,
+                        36.798884
+                  ]
+            },
+            {
+                  "name": "Dâr Khaznâdâr",
+                  "text": "Dâr Khaznâdâr is a historic castle building situated in the Al-Zaytuna Mosque area.",
+                  "category": "castle",
+                  "coords": [
+                        10.172249,
+                        36.79912
+                  ]
+            },
+            {
+                  "name": "Dâr El-'Asfouri",
+                  "text": "Dâr El-'Asfouri is a traditional castle building in the Al-Zaytuna area.",
+                  "category": "castle",
+                  "coords": [
+                        10.171898,
+                        36.798171
+                  ]
+            },
+            {
+                  "name": "Mausolée Ali Pacha",
+                  "text": "Mausolée Ali Pacha is a historic tomb monument in the Al-Zaytuna Mosque neighborhood.",
+                  "category": "historical",
+                  "coords": [
+                        10.172095,
+                        36.796853
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-11",
     coords: [10.1708, 36.7978],
@@ -765,7 +5940,196 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "bardo-national-museum-history-v2",
+    id: "bardo-national-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espace Khazna D'ART",
+                  "text": "Espace Khazna D'ART ist ein Kunstzentrum im historischen Viertel Bardo-Nationalmuseum.",
+                  "category": "cultural",
+                  "coords": [
+                        10.12233,
+                        36.805449
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum von Bardo",
+                  "text": "Das Bardo-Nationalmuseum ist ein berühmtes Museum für römische Mosaiken im Bardo-Viertel.",
+                  "category": "museum",
+                  "coords": [
+                        10.13423,
+                        36.809354
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du Bardo",
+                  "text": "Das Maison de Culture du Bardo ist ein Kulturzentrum im historischen Bardo-Viertel.",
+                  "category": "cultural",
+                  "coords": [
+                        10.139126,
+                        36.806882
+                  ]
+            },
+            {
+                  "name": "Place du Bardo",
+                  "text": "Der Le Bardo Square ist ein zentraler Denkmalplatz im historischen Viertel des Bardo-Nationalmuseums.",
+                  "category": "historical",
+                  "coords": [
+                        10.136339,
+                        36.807599
+                  ]
+            },
+            {
+                  "name": "Khaznadar Youth Centre",
+                  "text": "Das Khaznadar Youth Centre ist eine Kultureinrichtung im Viertel Bardo-Nationalmuseum.",
+                  "category": "cultural",
+                  "coords": [
+                        10.126789,
+                        36.806139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace Khazna D'ART",
+                  "text": "Az Espace Khazna D'ART egy művészeti központ a Bardo Nemzeti Múzeum történelmi negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        10.12233,
+                        36.805449
+                  ]
+            },
+            {
+                  "name": "Bardo National Museum",
+                  "text": "A Bardo Nemzeti Múzeum a római mozaikjairól híres múzeum a Bardo negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        10.13423,
+                        36.809354
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du Bardo",
+                  "text": "A Maison de Culture du Bardo egy kulturális központ a történelmi Bardo negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.139126,
+                        36.806882
+                  ]
+            },
+            {
+                  "name": "Place du Bardo",
+                  "text": "A Le Bardo Square egy központi emléktér a Bardo Nemzeti Múzeum történelmi negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        10.136339,
+                        36.807599
+                  ]
+            },
+            {
+                  "name": "Khaznadar Youth Centre",
+                  "text": "A Khaznadar Youth Centre egy művészeti és ifjúsági központ a Bardo Nemzeti Múzeum negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        10.126789,
+                        36.806139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace Khazna D'ART",
+                  "text": "Espace Khazna D'ART este un centru de artă în cartierul istoric al Muzeului Național Bardo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.12233,
+                        36.805449
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Bardo",
+                  "text": "Muzeul Național Bardo este un muzeu renumit pentru mozaicurile sale romane din cartierul Bardo.",
+                  "category": "museum",
+                  "coords": [
+                        10.13423,
+                        36.809354
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du Bardo",
+                  "text": "Maison de Culture du Bardo este un centru cultural în cartierul istoric Bardo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.139126,
+                        36.806882
+                  ]
+            },
+            {
+                  "name": "Place du Bardo",
+                  "text": "Le Bardo Square este o piață monumentală centrală din zona istorică a Muzeului Național Bardo.",
+                  "category": "historical",
+                  "coords": [
+                        10.136339,
+                        36.807599
+                  ]
+            },
+            {
+                  "name": "Khaznadar Youth Centre",
+                  "text": "Khaznadar Youth Centre este un centru de artă și tineret în cartierul Muzeului Național Bardo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.126789,
+                        36.806139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace Khazna D'ART",
+                  "text": "Espace Khazna D'ART is an arts centre in the historic Bardo National Museum district.",
+                  "category": "cultural",
+                  "coords": [
+                        10.12233,
+                        36.805449
+                  ]
+            },
+            {
+                  "name": "Bardo National Museum",
+                  "text": "The Bardo National Museum is a renowned museum known for its Roman mosaics in the Bardo district.",
+                  "category": "museum",
+                  "coords": [
+                        10.13423,
+                        36.809354
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du Bardo",
+                  "text": "Maison de Culture du Bardo is a cultural arts centre in the historic Bardo district.",
+                  "category": "cultural",
+                  "coords": [
+                        10.139126,
+                        36.806882
+                  ]
+            },
+            {
+                  "name": "Le Bardo Square",
+                  "text": "Le Bardo Square is a central monument square in the historic Bardo National Museum area.",
+                  "category": "historical",
+                  "coords": [
+                        10.136339,
+                        36.807599
+                  ]
+            },
+            {
+                  "name": "Khaznadar Youth Centre",
+                  "text": "Khaznadar Youth Centre is an arts and youth facility in the Bardo National Museum neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        10.126789,
+                        36.806139
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-11",
     coords: [10.1342, 36.8094],
@@ -909,7 +6273,124 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "utica-archaeological-history-v2",
+    id: "utica-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée national d'Utique",
+                  "text": "Dieses archäologische Museum zeigt antike Artefakte, die aus den Ruinen von Utica geborgen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        10.056935,
+                        37.050666
+                  ]
+            },
+            {
+                  "name": "Utica",
+                  "text": "Diese antiken Ruinen bewahren die Überreste einer der ältesten phönizischen Siedlungen in Nordafrika.",
+                  "category": "historical",
+                  "coords": [
+                        10.062141,
+                        37.056536
+                  ]
+            },
+            {
+                  "name": "Circus of Utica",
+                  "text": "Die archäologischen Überreste dieses antiken römischen Zirkus zeigen, wo einst Wagenrennen stattfanden.",
+                  "category": "historical",
+                  "coords": [
+                        10.062515,
+                        37.051465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée national d'Utique",
+                  "text": "Ez a régészeti múzeum Utica romjaiból feltárt ókori leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.056935,
+                        37.050666
+                  ]
+            },
+            {
+                  "name": "Utica",
+                  "text": "Ezek az ókori romok Észak-Afrika egyik legrégebbi föníciai településének maradványait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        10.062141,
+                        37.056536
+                  ]
+            },
+            {
+                  "name": "Circus of Utica",
+                  "text": "Ennek az ókori római cirkusznak a régészeti maradványai felfedik a hajdani szekérversenyek helyszínét.",
+                  "category": "historical",
+                  "coords": [
+                        10.062515,
+                        37.051465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée national d'Utique",
+                  "text": "Acest muzeu arheologic expune artefacte antice recuperate din ruinele din Utica.",
+                  "category": "museum",
+                  "coords": [
+                        10.056935,
+                        37.050666
+                  ]
+            },
+            {
+                  "name": "Utica",
+                  "text": "Aceste ruine antice păstrează rămășițele uneia dintre cele mai vechi așezări feniciene din Africa de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        10.062141,
+                        37.056536
+                  ]
+            },
+            {
+                  "name": "Circus of Utica",
+                  "text": "Rămășițele arheologice ale acestui vechi circ roman dezvăluie locul unde aveau loc odinioară cursele de care.",
+                  "category": "historical",
+                  "coords": [
+                        10.062515,
+                        37.051465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée national d'Utique",
+                  "text": "This archaeological museum displays ancient artifacts recovered from the ruins of Utica.",
+                  "category": "museum",
+                  "coords": [
+                        10.056935,
+                        37.050666
+                  ]
+            },
+            {
+                  "name": "Utica",
+                  "text": "These ancient ruins preserve the remains of one of the oldest Phoenician settlements in North Africa.",
+                  "category": "historical",
+                  "coords": [
+                        10.062141,
+                        37.056536
+                  ]
+            },
+            {
+                  "name": "Circus of Utica",
+                  "text": "The archaeological remains of this ancient Roman circus reveal where chariot races once took place.",
+                  "category": "historical",
+                  "coords": [
+                        10.062515,
+                        37.051465
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-23",
     coords: [10.0578, 37.0544],
@@ -957,7 +6438,232 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "neapolis-nabeul-history-v2",
+    id: "neapolis-nabeul-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nabeul Museum",
+                  "text": "Das Nabeul Museum stellt bedeutende archäologische Funde aus, insbesondere punische und römische Mosaike aus Neapolis.",
+                  "category": "museum",
+                  "coords": [
+                        10.736244,
+                        36.450677
+                  ]
+            },
+            {
+                  "name": "Centre culturel pour l'enfance",
+                  "text": "Das Centre culturel pour l'enfance ist ein Kulturzentrum, das speziell kreative Workshops für Kinder anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736811,
+                        36.451957
+                  ]
+            },
+            {
+                  "name": "I love Nabeul",
+                  "text": "Das Schild I love Nabeul ist eine beliebte Fotokulisse für Touristen im Herzen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.735096,
+                        36.451345
+                  ]
+            },
+            {
+                  "name": "THEATRE DE PLEIN AIR",
+                  "text": "Das THEATRE DE PLEIN AIR ist eine Freilichtbühne, die in den warmen Monaten Konzerte und Theaterstücke veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.742974,
+                        36.445209
+                  ]
+            },
+            {
+                  "name": "Hôtel Kheops",
+                  "text": "Das Hôtel Kheops ist eine große Unterkunft mit charakteristischer Architektur in Nabeul.",
+                  "category": "landmark",
+                  "coords": [
+                        10.737276,
+                        36.444706
+                  ]
+            },
+            {
+                  "name": "Les Pyramides Hotel Club & Spa",
+                  "text": "Das Les Pyramides Hotel Club & Spa ist ein Resort, das Gästen entspannende Wellness-Behandlungen in Küstennähe anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.738181,
+                        36.442754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabeul Museum",
+                  "text": "A Nabeul Múzeum jelentős régészeti leleteket, köztük Neapolisból származó pun és római mozaikokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        10.736244,
+                        36.450677
+                  ]
+            },
+            {
+                  "name": "Centre culturel pour l'enfance",
+                  "text": "A Centre culturel pour l'enfance egy gyermekek számára fenntartott kulturális központ, amely kreatív foglalkozásokat tart.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736811,
+                        36.451957
+                  ]
+            },
+            {
+                  "name": "I love Nabeul",
+                  "text": "Az I love Nabeul felirat egy népszerű fotóhelyszín a turisták számára a város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.735096,
+                        36.451345
+                  ]
+            },
+            {
+                  "name": "THEATRE DE PLEIN AIR",
+                  "text": "A THEATRE DE PLEIN AIR egy szabadtéri színpad, ahol a meleg hónapokban koncerteket és színdarabokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        10.742974,
+                        36.445209
+                  ]
+            },
+            {
+                  "name": "Hôtel Kheops",
+                  "text": "A Hôtel Kheops egy jellegzetes építészeti stílusú, nagy befogadóképességű szálláshely Nabeulban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.737276,
+                        36.444706
+                  ]
+            },
+            {
+                  "name": "Les Pyramides Hotel Club & Spa",
+                  "text": "A Les Pyramides Hotel Club & Spa tengerparti wellness-kezeléseket kínál a pihenni vágyó vendégeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        10.738181,
+                        36.442754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabeul Museum",
+                  "text": "Muzeul Nabeul expune descoperiri arheologice remarcabile, în special mozaicuri punice și romane din Neapolis.",
+                  "category": "museum",
+                  "coords": [
+                        10.736244,
+                        36.450677
+                  ]
+            },
+            {
+                  "name": "Centre culturel pour l'enfance",
+                  "text": "Centre culturel pour l'enfance este un centru cultural ce oferă ateliere creative dedicate copiilor.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736811,
+                        36.451957
+                  ]
+            },
+            {
+                  "name": "I love Nabeul",
+                  "text": "Semnul I love Nabeul este o locație populară pentru fotografii în rândul turiștilor din centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        10.735096,
+                        36.451345
+                  ]
+            },
+            {
+                  "name": "THEATRE DE PLEIN AIR",
+                  "text": "THEATRE DE PLEIN AIR este un teatru în aer liber unde se organizează concerte și piese de teatru pe timp de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        10.742974,
+                        36.445209
+                  ]
+            },
+            {
+                  "name": "Hôtel Kheops",
+                  "text": "Hôtel Kheops este un spațiu de cazare de mari dimensiuni, remarcat prin arhitectura sa din Nabeul.",
+                  "category": "landmark",
+                  "coords": [
+                        10.737276,
+                        36.444706
+                  ]
+            },
+            {
+                  "name": "Les Pyramides Hotel Club & Spa",
+                  "text": "Les Pyramides Hotel Club & Spa este o stațiune care oferă tratamente de wellness oaspeților săi aproape de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        10.738181,
+                        36.442754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabeul Museum",
+                  "text": "The Nabeul Museum exhibits significant archaeological finds, especially Punic and Roman mosaics recovered from Neapolis.",
+                  "category": "museum",
+                  "coords": [
+                        10.736244,
+                        36.450677
+                  ]
+            },
+            {
+                  "name": "Centre culturel pour l'enfance",
+                  "text": "The Centre culturel pour l'enfance is an arts center providing creative workshops specifically for children.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736811,
+                        36.451957
+                  ]
+            },
+            {
+                  "name": "I love Nabeul",
+                  "text": "The I love Nabeul sign is a popular photographic landmark for tourists exploring the city.",
+                  "category": "landmark",
+                  "coords": [
+                        10.735096,
+                        36.451345
+                  ]
+            },
+            {
+                  "name": "THEATRE DE PLEIN AIR",
+                  "text": "The THEATRE DE PLEIN AIR is an open-air venue hosting concerts and theatrical performances during the warm months.",
+                  "category": "cultural",
+                  "coords": [
+                        10.742974,
+                        36.445209
+                  ]
+            },
+            {
+                  "name": "Hôtel Kheops",
+                  "text": "Hôtel Kheops is a large accommodation facility noted for its distinctive architecture in Nabeul.",
+                  "category": "landmark",
+                  "coords": [
+                        10.737276,
+                        36.444706
+                  ]
+            },
+            {
+                  "name": "Les Pyramides Hotel Club & Spa",
+                  "text": "Les Pyramides Hotel Club & Spa provides relaxing wellness treatments for guests staying near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        10.738181,
+                        36.442754
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-21",
     coords: [10.7333, 36.4500],
@@ -1005,7 +6711,1240 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "pupput-archaeological-history-v2",
+    id: "pupput-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pupput",
+                  "text": "Pupput ist eine antike römische Ausgrabungsstätte, die für ihre gut erhaltene Nekropole und Mosaikböden bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.561578,
+                        36.393326
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Dieses Amphitheater im antiken Stil dient als Freiluftveranstaltungsort für kulturelle Aufführungen und Spektakel.",
+                  "category": "cultural",
+                  "coords": [
+                        10.529309,
+                        36.358372
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "Das Palladium ist ein moderner Theatersaal, der eine Vielzahl von Live-Unterhaltungsshows beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.559054,
+                        36.398267
+                  ]
+            },
+            {
+                  "name": "New Medina",
+                  "text": "Die Neue Medina ist eine belebte, rekonstruierte traditionelle arabische Stadt mit engen Gassen, Geschäften und maurischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        10.533524,
+                        36.365855
+                  ]
+            },
+            {
+                  "name": "King Kong",
+                  "text": "Dieses markante Fahrgeschäft im Vergnügungspark wird von einer riesigen King-Kong-Figur überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53454,
+                        36.368071
+                  ]
+            },
+            {
+                  "name": "Les Elephants Carthage-Land",
+                  "text": "Dieses Fahrgeschäft mit Elefantenmotiv ist eine beliebte Familienattraktion im Themenpark Carthage Land.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53551,
+                        36.368461
+                  ]
+            },
+            {
+                  "name": "Hôtel Chich Khan",
+                  "text": "Das Hôtel Chich Khan ist ein von den Berbern inspiriertes Resort mit traditionellem Dekor und modernen Freizeiteinrichtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538118,
+                        36.372131
+                  ]
+            },
+            {
+                  "name": "Vincci Marillia",
+                  "text": "Das Vincci Marillia ist ein Küstenhotel, das seinen Gästen direkten Zugang zu den Sandstränden des Mittelmeers bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529769,
+                        36.35675
+                  ]
+            },
+            {
+                  "name": "Alhambra Thalasso Hammamet",
+                  "text": "Dieses gehobene Hotel verfügt über ein umfassendes Thalassotherapiezentrum und eine andalusisch inspirierte Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        10.525962,
+                        36.355874
+                  ]
+            },
+            {
+                  "name": "Hôtel Cypres",
+                  "text": "Das Hôtel Cypres bietet einen erholsamen Kurzurlaub inmitten üppiger mediterraner Vegetation und schattiger Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.526567,
+                        36.356784
+                  ]
+            },
+            {
+                  "name": "Hôtel Lella Baya",
+                  "text": "Dieses einzigartig gestaltete Hotel besticht durch seine markante traditionelle tunesische Architektur und seine großen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539953,
+                        36.370987
+                  ]
+            },
+            {
+                  "name": "Hôtel Houda Yasmine",
+                  "text": "Das Hôtel Houda Yasmine ist ein lebhaftes Resort im Herzen des geschäftigen Yachthafens von Yasmine Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542336,
+                        36.377623
+                  ]
+            },
+            {
+                  "name": "The Russelior Hotel & Spa",
+                  "text": "Das Russelior Hotel & Spa bietet einen luxuriösen Rückzugsort, umgeben von weitläufigen tropischen Gärten und erstklassigen Wellnesseinrichtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.543553,
+                        36.378994
+                  ]
+            },
+            {
+                  "name": "TUI Magic Life Africana",
+                  "text": "Dieses weitläufige Clubhotel bietet ein All-Inclusive-Urlaubserlebnis mit mehreren Pools und Zugang zum Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531001,
+                        36.358356
+                  ]
+            },
+            {
+                  "name": "Laico Hammamet Hotel",
+                  "text": "Das Laico Hammamet Hotel ist ein großer moderner Komplex mit Panoramablick über die Küste des Ferienortes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541186,
+                        36.373037
+                  ]
+            },
+            {
+                  "name": "Hôtel Imperial Park",
+                  "text": "Das Hôtel Imperial Park verfügt über eine weitläufige Außenpoollandschaft mit Wasserrutschen und Sonnenterrassen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.544705,
+                        36.380898
+                  ]
+            },
+            {
+                  "name": "Le Royal Hotel Hammamet",
+                  "text": "Das Le Royal Hotel Hammamet bietet eine elegante maurische Architektur und liegt direkt am Sandstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        10.547727,
+                        36.381002
+                  ]
+            },
+            {
+                  "name": "Hôtel Eldorador Salammbô en Menzels",
+                  "text": "Dieses Resort ist im Stil traditioneller lokaler „Menzel“-Wohnstätten gestaltet und bietet eine dörfliche Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553137,
+                        36.384391
+                  ]
+            },
+            {
+                  "name": "Hôtel Bravo Hammamet",
+                  "text": "Das Hôtel Bravo Hammamet ist ein lebhaftes Resort, das sich durch seine umfangreichen Freizeitaktivitäten und Unterhaltungsprogramme auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537168,
+                        36.370906
+                  ]
+            },
+            {
+                  "name": "Hôtel Green Golf",
+                  "text": "Das Hôtel Green Golf ist speziell auf Sportbegeisterte zugeschnitten und liegt günstig in der Nähe der bekannten Golfplätze der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539532,
+                        36.374172
+                  ]
+            },
+            {
+                  "name": "Hôtel El Olf Las Palmas",
+                  "text": "Dieses palmengesäumte Resort bietet seinen Gästen eine entspannte Atmosphäre und einfachen Zugang zu den örtlichen Sehenswürdigkeiten am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528993,
+                        36.360217
+                  ]
+            },
+            {
+                  "name": "Hotel Royal Tulip Taj Sultan",
+                  "text": "Das Hotel Royal Tulip Taj Sultan bietet majestätische nordafrikanische Architektur direkt am Mittelmeerstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532144,
+                        36.359695
+                  ]
+            },
+            {
+                  "name": "Hôtel Mechmoum",
+                  "text": "Das Hôtel Mechmoum bietet klassische tunesische Gastfreundschaft mit seinen weiß getünchten Wänden und seinem charmanten Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529991,
+                        36.360843
+                  ]
+            },
+            {
+                  "name": "Hasdrubal Thalassa And Spa",
+                  "text": "Dieses opulente Strand-Spa-Hotel ist auf Meerwasser-Wellnessbehandlungen spezialisiert und verfügt über weitläufige Thermalbäder.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528651,
+                        36.355212
+                  ]
+            },
+            {
+                  "name": "Hôtel Excel",
+                  "text": "Das Hôtel Excel ist eine moderne Unterkunft, die einen bequemen Ausgangspunkt für die Erkundung des umliegenden Touristenviertels bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529387,
+                        36.362849
+                  ]
+            },
+            {
+                  "name": "Hôtel Zodiac",
+                  "text": "Das Hôtel Zodiac ist ein beliebtes Feriendorf mit eigenem Mini-Wasserpark und familienfreundlichen Annehmlichkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531192,
+                        36.363509
+                  ]
+            },
+            {
+                  "name": "Hôtel Basen Bahia Beach",
+                  "text": "Das Hôtel Basen Bahia Beach bietet ein großes, geschwungenes Schwimmbecken und direkten Zugang zur Sandküste.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531067,
+                        36.361613
+                  ]
+            },
+            {
+                  "name": "Hôtel Sofitel Saphir Palace",
+                  "text": "Dieses luxuriöse Fünf-Sterne-Hotel besticht durch seine markante Fassade und sein raffiniertes Interieur direkt am Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53591,
+                        36.365713
+                  ]
+            },
+            {
+                  "name": "Hôtel El Mouradi El Menzah",
+                  "text": "Das Hôtel El Mouradi El Menzah ist ein großer Strandkomplex mit riesigen Swimmingpools und weitläufigen Gartenterrassen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537196,
+                        36.367786
+                  ]
+            },
+            {
+                  "name": "Hôtel Yasmine Beach",
+                  "text": "Das Hôtel Yasmine Beach liegt direkt an der Promenade und bietet einen weiten Blick auf die Wellen des Mittelmeers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538489,
+                        36.368971
+                  ]
+            },
+            {
+                  "name": "L'Atrium",
+                  "text": "Das L'Atrium ist ein modernes Hotel, das sich durch seinen großen, verglasten Innenhof auszeichnet, der das Innere mit natürlichem Licht durchflutet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.540619,
+                        36.371923
+                  ]
+            },
+            {
+                  "name": "Dar Zakaria",
+                  "text": "Dar Zakaria ist ein Hotel in der Nähe der archäologischen Stätten von Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532014,
+                        36.365179
+                  ]
+            },
+            {
+                  "name": "Hôtel Shell Beach",
+                  "text": "Das Hôtel Shell Beach ist eine Unterkunft in Strandnähe bei den historischen Ruinen von Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538897,
+                        36.373252
+                  ]
+            },
+            {
+                  "name": "Hôtel Mirage Beach Club",
+                  "text": "Das Hôtel Mirage Beach Club ist ein Resort am Strand in der historischen Gegend von Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.55011,
+                        36.383861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pupput",
+                  "text": "Pupput egy ókori római régészeti lelőhely, amely jól megőrzött nekropoliszáról és mozaikpadlóiról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        10.561578,
+                        36.393326
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ez az antik stílusú amfiteátrum kulturális előadások és látványosságok szabadtéri helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        10.529309,
+                        36.358372
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "A Palladium egy modern színházi helyszín, amely különféle élő szórakoztató műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.559054,
+                        36.398267
+                  ]
+            },
+            {
+                  "name": "New Medina",
+                  "text": "Az Új Medina egy nyüzsgő, újjáépített hagyományos arab város, szűk sikátorokkal, üzletekkel és mór építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        10.533524,
+                        36.365855
+                  ]
+            },
+            {
+                  "name": "King Kong",
+                  "text": "Ezen a kiemelkedő vidámparki játékon egy hatalmas King Kong figura tornyosul az attrakció fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53454,
+                        36.368071
+                  ]
+            },
+            {
+                  "name": "Les Elephants Carthage-Land",
+                  "text": "Ez az elefánt témájú utazás egy népszerű családi látványosság a Carthage Land vidámparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53551,
+                        36.368461
+                  ]
+            },
+            {
+                  "name": "Hôtel Chich Khan",
+                  "text": "A Hôtel Chich Khan egy berber ihletésű üdülőhely, amely hagyományos dekorációval és modern szabadidős létesítményekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538118,
+                        36.372131
+                  ]
+            },
+            {
+                  "name": "Vincci Marillia",
+                  "text": "A Vincci Marillia egy tengerparti szálloda, amely közvetlen hozzáférést biztosít vendégeinek a Földközi-tenger homokos strandjaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529769,
+                        36.35675
+                  ]
+            },
+            {
+                  "name": "Alhambra Thalasso Hammamet",
+                  "text": "Ez a luxusszálloda átfogó talasszoterápiás központtal és andalúz ihletésű építészettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.525962,
+                        36.355874
+                  ]
+            },
+            {
+                  "name": "Hôtel Cypres",
+                  "text": "A Hôtel Cypres pihentető kikapcsolódást nyújt buja mediterrán növényzettel és árnyékos kertekkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        10.526567,
+                        36.356784
+                  ]
+            },
+            {
+                  "name": "Hôtel Lella Baya",
+                  "text": "Ez az egyedi tervezésű szálloda feltűnő hagyományos tunéziai építészetével és hatalmas kupoláival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539953,
+                        36.370987
+                  ]
+            },
+            {
+                  "name": "Hôtel Houda Yasmine",
+                  "text": "A Hôtel Houda Yasmine egy nyüzsgő üdülőhely, amely Yasmine Hammamet pezsgő kikötőjének szívében található.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542336,
+                        36.377623
+                  ]
+            },
+            {
+                  "name": "The Russelior Hotel & Spa",
+                  "text": "A The Russelior Hotel & Spa luxus menedéket kínál, hatalmas trópusi kertekkel és prémium wellness létesítményekkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        10.543553,
+                        36.378994
+                  ]
+            },
+            {
+                  "name": "TUI Magic Life Africana",
+                  "text": "Ez a hatalmas klubszálloda all-inclusive nyaralási élményt nyújt több medencével és közvetlen tengerparti hozzáféréssel.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531001,
+                        36.358356
+                  ]
+            },
+            {
+                  "name": "Laico Hammamet Hotel",
+                  "text": "A Laico Hammamet Hotel egy nagy, modern komplexum, amely panorámás kilátást nyújt az üdülőváros partvonalára.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541186,
+                        36.373037
+                  ]
+            },
+            {
+                  "name": "Hôtel Imperial Park",
+                  "text": "A Hôtel Imperial Park egy hatalmas szabadtéri medenceterülettel büszkélkedhet, vízi csúszdákkal és napozóteraszokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.544705,
+                        36.380898
+                  ]
+            },
+            {
+                  "name": "Le Royal Hotel Hammamet",
+                  "text": "A Le Royal Hotel Hammamet elegáns mór építészettel rendelkezik, és közvetlenül a homokos parton fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.547727,
+                        36.381002
+                  ]
+            },
+            {
+                  "name": "Hôtel Eldorador Salammbô en Menzels",
+                  "text": "Ezt az üdülőhelyet a hagyományos helyi „Menzel” lakóházak stílusában tervezték, falusias hangulatot árasztva.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553137,
+                        36.384391
+                  ]
+            },
+            {
+                  "name": "Hôtel Bravo Hammamet",
+                  "text": "A Hôtel Bravo Hammamet egy nyüzsgő üdülőhely, amelyet kiterjedt szabadidős tevékenységei és szórakoztató programjai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537168,
+                        36.370906
+                  ]
+            },
+            {
+                  "name": "Hôtel Green Golf",
+                  "text": "A Hôtel Green Golf kifejezetten a sportrajongókra szabott, és kényelmesen a régió kiemelkedő golfpályái közelében helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539532,
+                        36.374172
+                  ]
+            },
+            {
+                  "name": "Hôtel El Olf Las Palmas",
+                  "text": "Ez a pálmafákkal szegélyezett üdülőhely pihentető légkört és könnyű hozzáférést biztosít a helyi tengerparti látványosságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528993,
+                        36.360217
+                  ]
+            },
+            {
+                  "name": "Hotel Royal Tulip Taj Sultan",
+                  "text": "A Hotel Royal Tulip Taj Sultan fenséges észak-afrikai építészettel rendelkezik, közvetlenül a Földközi-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532144,
+                        36.359695
+                  ]
+            },
+            {
+                  "name": "Hôtel Mechmoum",
+                  "text": "A Hôtel Mechmoum klasszikus tunéziai vendégszeretetet kínál fehérre meszelt falaival és hangulatos belső udvarával.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529991,
+                        36.360843
+                  ]
+            },
+            {
+                  "name": "Hasdrubal Thalassa And Spa",
+                  "text": "Ez a pazar tengerparti gyógyszálló tengervizes wellness kezelésekre specializálódott, és hatalmas termálmedencékkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528651,
+                        36.355212
+                  ]
+            },
+            {
+                  "name": "Hôtel Excel",
+                  "text": "A Hôtel Excel egy modern szálláshely, amely kényelmes kiindulópontot nyújt a környező turisztikai negyed felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529387,
+                        36.362849
+                  ]
+            },
+            {
+                  "name": "Hôtel Zodiac",
+                  "text": "A Hôtel Zodiac egy népszerű üdülőfalu, amely saját mini vízi parkkal és családbarát kényelmi szolgáltatásokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531192,
+                        36.363509
+                  ]
+            },
+            {
+                  "name": "Hôtel Basen Bahia Beach",
+                  "text": "A Hôtel Basen Bahia Beach nagy, ívelt úszómedencével és közvetlen hozzáféréssel rendelkezik a homokos parthoz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531067,
+                        36.361613
+                  ]
+            },
+            {
+                  "name": "Hôtel Sofitel Saphir Palace",
+                  "text": "Ez a luxus ötcsillagos szálloda lenyűgöző homlokzattal és kifinomult belső terekkel büszkélkedhet közvetlenül a stranddal szemben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53591,
+                        36.365713
+                  ]
+            },
+            {
+                  "name": "Hôtel El Mouradi El Menzah",
+                  "text": "A Hôtel El Mouradi El Menzah egy nagy tengerparti komplexum, amely hatalmas úszómedencékkel és kiterjedt kerti teraszokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537196,
+                        36.367786
+                  ]
+            },
+            {
+                  "name": "Hôtel Yasmine Beach",
+                  "text": "Közvetlenül a sétányon található Hôtel Yasmine Beach széles kilátást nyújt a Földközi-tenger hullámaira.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538489,
+                        36.368971
+                  ]
+            },
+            {
+                  "name": "L'Atrium",
+                  "text": "A L'Atrium egy modern szálloda, amelyet nagy, üveggel zárt belső udvara jellemez, amely természetes fénnyel árasztja el a belső teret.",
+                  "category": "landmark",
+                  "coords": [
+                        10.540619,
+                        36.371923
+                  ]
+            },
+            {
+                  "name": "Dar Zakaria",
+                  "text": "A Dar Zakaria egy szálloda, amely Pupput régészeti lelőhelyeinek közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532014,
+                        36.365179
+                  ]
+            },
+            {
+                  "name": "Hôtel Shell Beach",
+                  "text": "A Hôtel Shell Beach egy tengerpart közeli szálláshely Pupput történelmi romjai mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538897,
+                        36.373252
+                  ]
+            },
+            {
+                  "name": "Hôtel Mirage Beach Club",
+                  "text": "A Hôtel Mirage Beach Club egy tengerparti üdülőhely Pupput történelmi övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.55011,
+                        36.383861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pupput",
+                  "text": "Pupput este un sit arheologic antic roman, cunoscut pentru necropola sa bine conservată și podelele cu mozaic.",
+                  "category": "historical",
+                  "coords": [
+                        10.561578,
+                        36.393326
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Acest amfiteatru în stil antic servește ca spațiu în aer liber pentru spectacole culturale și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        10.529309,
+                        36.358372
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "Palladium este un loc de desfășurare modern care găzduiește o varietate de spectacole live.",
+                  "category": "cultural",
+                  "coords": [
+                        10.559054,
+                        36.398267
+                  ]
+            },
+            {
+                  "name": "New Medina",
+                  "text": "Noua Medina este un oraș arab tradițional reconstruit, plin de viață, cu alei înguste, magazine și arhitectură maură.",
+                  "category": "landmark",
+                  "coords": [
+                        10.533524,
+                        36.365855
+                  ]
+            },
+            {
+                  "name": "King Kong",
+                  "text": "Această atracție importantă din parcul de distracții are o figură masivă a lui King Kong care se înalță deasupra ei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53454,
+                        36.368071
+                  ]
+            },
+            {
+                  "name": "Les Elephants Carthage-Land",
+                  "text": "Această atracție cu tematică de elefanți este o destinație populară pentru familii, situată în parcul tematic Carthage Land.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53551,
+                        36.368461
+                  ]
+            },
+            {
+                  "name": "Hôtel Chich Khan",
+                  "text": "Hôtel Chich Khan este o stațiune de inspirație berberă, cu decor tradițional și facilități moderne de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538118,
+                        36.372131
+                  ]
+            },
+            {
+                  "name": "Vincci Marillia",
+                  "text": "Vincci Marillia este un hotel de coastă care oferă oaspeților acces direct la plajele cu nisip ale Mării Mediterane.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529769,
+                        36.35675
+                  ]
+            },
+            {
+                  "name": "Alhambra Thalasso Hammamet",
+                  "text": "Acest hotel de lux oferă un centru complet de talasoterapie și arhitectură de inspirație andaluză.",
+                  "category": "landmark",
+                  "coords": [
+                        10.525962,
+                        36.355874
+                  ]
+            },
+            {
+                  "name": "Hôtel Cypres",
+                  "text": "Hôtel Cypres oferă o evadare relaxantă, înconjurat de verdeață mediteraneană luxuriantă și grădini umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        10.526567,
+                        36.356784
+                  ]
+            },
+            {
+                  "name": "Hôtel Lella Baya",
+                  "text": "Acest hotel cu un design unic iese în evidență prin arhitectura sa tradițională tunisiană izbitoare și domurile mari.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539953,
+                        36.370987
+                  ]
+            },
+            {
+                  "name": "Hôtel Houda Yasmine",
+                  "text": "Hôtel Houda Yasmine este un complex plin de viață situat în inima zonei aglomerate a portului de agrement Yasmine Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542336,
+                        36.377623
+                  ]
+            },
+            {
+                  "name": "The Russelior Hotel & Spa",
+                  "text": "Russelior Hotel & Spa oferă un refugiu de lux înconjurat de grădini tropicale extinse și facilități de wellness premium.",
+                  "category": "landmark",
+                  "coords": [
+                        10.543553,
+                        36.378994
+                  ]
+            },
+            {
+                  "name": "TUI Magic Life Africana",
+                  "text": "Acest complex hotelier extins oferă o experiență de vacanță all-inclusive, cu mai multe piscine și acces la plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531001,
+                        36.358356
+                  ]
+            },
+            {
+                  "name": "Laico Hammamet Hotel",
+                  "text": "Laico Hammamet Hotel este un complex modern și mare, care oferă vedere panoramică asupra coastei orașului stațiune.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541186,
+                        36.373037
+                  ]
+            },
+            {
+                  "name": "Hôtel Imperial Park",
+                  "text": "Hôtel Imperial Park se mândrește cu o zonă întinsă de piscină în aer liber, dotată cu tobogane cu apă și terase la soare.",
+                  "category": "landmark",
+                  "coords": [
+                        10.544705,
+                        36.380898
+                  ]
+            },
+            {
+                  "name": "Le Royal Hotel Hammamet",
+                  "text": "Le Royal Hotel Hammamet prezintă o arhitectură maură elegantă și este situat chiar de-a lungul țărmurilor de nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        10.547727,
+                        36.381002
+                  ]
+            },
+            {
+                  "name": "Hôtel Eldorador Salammbô en Menzels",
+                  "text": "Acest complex este conceput în stilul locuințelor tradiționale locale „Menzel”, oferind o atmosferă asemănătoare unui sat.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553137,
+                        36.384391
+                  ]
+            },
+            {
+                  "name": "Hôtel Bravo Hammamet",
+                  "text": "Hôtel Bravo Hammamet este un complex plin de viață, caracterizat prin activitățile sale extinse de agrement și programele de divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537168,
+                        36.370906
+                  ]
+            },
+            {
+                  "name": "Hôtel Green Golf",
+                  "text": "Hôtel Green Golf este special conceput pentru pasionații de sport, fiind situat convenabil aproape de terenurile de golf importante din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539532,
+                        36.374172
+                  ]
+            },
+            {
+                  "name": "Hôtel El Olf Las Palmas",
+                  "text": "Acest complex străjuit de palmieri oferă oaspeților o atmosferă relaxată și acces ușor la atracțiile locale de pe litoral.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528993,
+                        36.360217
+                  ]
+            },
+            {
+                  "name": "Hotel Royal Tulip Taj Sultan",
+                  "text": "Hotel Royal Tulip Taj Sultan prezintă o arhitectură nord-africană maiestuoasă chiar pe plaja Mării Mediterane.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532144,
+                        36.359695
+                  ]
+            },
+            {
+                  "name": "Hôtel Mechmoum",
+                  "text": "Hôtel Mechmoum oferă ospitalitate tunisiană clasică, cu pereții săi văruiți în alb și o curte interioară fermecătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529991,
+                        36.360843
+                  ]
+            },
+            {
+                  "name": "Hasdrubal Thalassa And Spa",
+                  "text": "Acest hotel de spa opulent de pe malul mării este specializat în tratamente de wellness cu apă de mare și dispune de piscine termale extinse.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528651,
+                        36.355212
+                  ]
+            },
+            {
+                  "name": "Hôtel Excel",
+                  "text": "Hôtel Excel este o unitate de cazare modernă, care oferă o bază convenabilă pentru explorarea districtului turistic din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529387,
+                        36.362849
+                  ]
+            },
+            {
+                  "name": "Hôtel Zodiac",
+                  "text": "Hôtel Zodiac este un sat de vacanță popular, cu propriul său mini parc acvatic și facilități potrivite pentru familii.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531192,
+                        36.363509
+                  ]
+            },
+            {
+                  "name": "Hôtel Basen Bahia Beach",
+                  "text": "Hôtel Basen Bahia Beach oferă un bazin mare, curbat și acces imediat la țărmul de nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531067,
+                        36.361613
+                  ]
+            },
+            {
+                  "name": "Hôtel Sofitel Saphir Palace",
+                  "text": "Acest hotel luxos de cinci stele se mândrește cu o fațadă impresionantă și interioare rafinate chiar vizavi de plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53591,
+                        36.365713
+                  ]
+            },
+            {
+                  "name": "Hôtel El Mouradi El Menzah",
+                  "text": "Hôtel El Mouradi El Menzah este un mare complex pe malul mării, cu piscine vaste și terase extinse cu grădină.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537196,
+                        36.367786
+                  ]
+            },
+            {
+                  "name": "Hôtel Yasmine Beach",
+                  "text": "Situat chiar pe promenadă, Hôtel Yasmine Beach oferă vederi largi la valurile Mării Mediterane.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538489,
+                        36.368971
+                  ]
+            },
+            {
+                  "name": "L'Atrium",
+                  "text": "L'Atrium este un hotel modern, caracterizat prin marea sa curte interioară închisă cu sticlă, care inundă interiorul cu lumină naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        10.540619,
+                        36.371923
+                  ]
+            },
+            {
+                  "name": "Dar Zakaria",
+                  "text": "Dar Zakaria este un hotel situat în apropierea siturilor arheologice din Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532014,
+                        36.365179
+                  ]
+            },
+            {
+                  "name": "Hôtel Shell Beach",
+                  "text": "Hôtel Shell Beach este o unitate de cazare de pe coastă, aflată lângă ruinele istorice din Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538897,
+                        36.373252
+                  ]
+            },
+            {
+                  "name": "Hôtel Mirage Beach Club",
+                  "text": "Hôtel Mirage Beach Club este o stațiune pe plajă situată în zona istorică Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.55011,
+                        36.383861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pupput",
+                  "text": "Pupput is an ancient Roman archaeological site known for its well-preserved necropolis and mosaic floors.",
+                  "category": "historical",
+                  "coords": [
+                        10.561578,
+                        36.393326
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "This ancient-style amphitheatre serves as an open-air venue for cultural performances and spectacles.",
+                  "category": "cultural",
+                  "coords": [
+                        10.529309,
+                        36.358372
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "The Palladium is a modern theatrical venue hosting a variety of live entertainment shows.",
+                  "category": "cultural",
+                  "coords": [
+                        10.559054,
+                        36.398267
+                  ]
+            },
+            {
+                  "name": "New Medina",
+                  "text": "The New Medina is a bustling, reconstructed traditional Arab town with narrow alleys, shops, and Moorish architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        10.533524,
+                        36.365855
+                  ]
+            },
+            {
+                  "name": "King Kong",
+                  "text": "This prominent amusement park ride features a massive King Kong figure towering over the attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53454,
+                        36.368071
+                  ]
+            },
+            {
+                  "name": "Les Elephants Carthage-Land",
+                  "text": "This elephant-themed ride is a popular family attraction located within the Carthage Land theme park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53551,
+                        36.368461
+                  ]
+            },
+            {
+                  "name": "Hôtel Chich Khan",
+                  "text": "Hôtel Chich Khan is a Berber-inspired resort featuring traditional decor and modern leisure facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538118,
+                        36.372131
+                  ]
+            },
+            {
+                  "name": "Vincci Marillia",
+                  "text": "Vincci Marillia is a coastal hotel offering guests direct access to the sandy beaches of the Mediterranean.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529769,
+                        36.35675
+                  ]
+            },
+            {
+                  "name": "Alhambra Thalasso Hammamet",
+                  "text": "This upscale hotel features a comprehensive thalassotherapy center and Andalusian-inspired architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        10.525962,
+                        36.355874
+                  ]
+            },
+            {
+                  "name": "Hôtel Cypres",
+                  "text": "Hôtel Cypres provides a relaxing getaway surrounded by lush Mediterranean greenery and shaded gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        10.526567,
+                        36.356784
+                  ]
+            },
+            {
+                  "name": "Hôtel Lella Baya",
+                  "text": "This uniquely designed hotel stands out with its striking traditional Tunisian architecture and grand domes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539953,
+                        36.370987
+                  ]
+            },
+            {
+                  "name": "Hôtel Houda Yasmine",
+                  "text": "Hôtel Houda Yasmine is a vibrant resort situated in the heart of the bustling Yasmine Hammamet marina area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542336,
+                        36.377623
+                  ]
+            },
+            {
+                  "name": "The Russelior Hotel & Spa",
+                  "text": "The Russelior Hotel & Spa offers a luxurious retreat surrounded by expansive tropical gardens and premium wellness facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        10.543553,
+                        36.378994
+                  ]
+            },
+            {
+                  "name": "TUI Magic Life Africana",
+                  "text": "This expansive club hotel provides an all-inclusive holiday experience with multiple pools and beachfront access.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531001,
+                        36.358356
+                  ]
+            },
+            {
+                  "name": "Laico Hammamet Hotel",
+                  "text": "Laico Hammamet Hotel is a large modern complex offering panoramic views over the resort town's coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541186,
+                        36.373037
+                  ]
+            },
+            {
+                  "name": "Hôtel Imperial Park",
+                  "text": "Hôtel Imperial Park boasts a sprawling outdoor pool area complete with water slides and sun terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        10.544705,
+                        36.380898
+                  ]
+            },
+            {
+                  "name": "Le Royal Hotel Hammamet",
+                  "text": "Le Royal Hotel Hammamet features elegant Moorish architecture and lies right along the sandy shores.",
+                  "category": "landmark",
+                  "coords": [
+                        10.547727,
+                        36.381002
+                  ]
+            },
+            {
+                  "name": "Hôtel Eldorador Salammbô en Menzels",
+                  "text": "This resort is designed in the style of traditional local 'Menzel' dwellings, offering a village-like atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553137,
+                        36.384391
+                  ]
+            },
+            {
+                  "name": "Hôtel Bravo Hammamet",
+                  "text": "Hôtel Bravo Hammamet is a lively resort characterized by its extensive leisure activities and entertainment programs.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537168,
+                        36.370906
+                  ]
+            },
+            {
+                  "name": "Hôtel Green Golf",
+                  "text": "Hôtel Green Golf is specifically tailored for sports enthusiasts, conveniently situated near the region's prominent golf courses.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539532,
+                        36.374172
+                  ]
+            },
+            {
+                  "name": "Hôtel El Olf Las Palmas",
+                  "text": "This palm-fringed resort provides guests with a relaxed atmosphere and easy access to local seaside attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528993,
+                        36.360217
+                  ]
+            },
+            {
+                  "name": "Hotel Royal Tulip Taj Sultan",
+                  "text": "Hotel Royal Tulip Taj Sultan features majestic North African architecture directly on the Mediterranean beachfront.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532144,
+                        36.359695
+                  ]
+            },
+            {
+                  "name": "Hôtel Mechmoum",
+                  "text": "Hôtel Mechmoum offers classic Tunisian hospitality with its whitewashed walls and charming central courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529991,
+                        36.360843
+                  ]
+            },
+            {
+                  "name": "Hasdrubal Thalassa And Spa",
+                  "text": "This opulent beachfront spa hotel specializes in seawater wellness treatments and features extensive thermal pools.",
+                  "category": "landmark",
+                  "coords": [
+                        10.528651,
+                        36.355212
+                  ]
+            },
+            {
+                  "name": "Hôtel Excel",
+                  "text": "Hôtel Excel is a modern accommodation facility providing a convenient base for exploring the surrounding tourist district.",
+                  "category": "landmark",
+                  "coords": [
+                        10.529387,
+                        36.362849
+                  ]
+            },
+            {
+                  "name": "Hôtel Zodiac",
+                  "text": "Hôtel Zodiac is a popular holiday village featuring its own mini water park and family-friendly amenities.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531192,
+                        36.363509
+                  ]
+            },
+            {
+                  "name": "Hôtel Basen Bahia Beach",
+                  "text": "Hôtel Basen Bahia Beach offers a large, curved swimming basin and immediate access to the sandy shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        10.531067,
+                        36.361613
+                  ]
+            },
+            {
+                  "name": "Hôtel Sofitel Saphir Palace",
+                  "text": "This luxury five-star hotel boasts a striking facade and refined interiors right across from the beach.",
+                  "category": "landmark",
+                  "coords": [
+                        10.53591,
+                        36.365713
+                  ]
+            },
+            {
+                  "name": "Hôtel El Mouradi El Menzah",
+                  "text": "Hôtel El Mouradi El Menzah is a large beachfront complex featuring vast swimming pools and extensive garden terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        10.537196,
+                        36.367786
+                  ]
+            },
+            {
+                  "name": "Hôtel Yasmine Beach",
+                  "text": "Situated right on the promenade, Hôtel Yasmine Beach offers wide views of the Mediterranean waves.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538489,
+                        36.368971
+                  ]
+            },
+            {
+                  "name": "L'Atrium",
+                  "text": "L'Atrium is a modern hotel characterized by its large, glass-enclosed central courtyard that floods the interior with natural light.",
+                  "category": "landmark",
+                  "coords": [
+                        10.540619,
+                        36.371923
+                  ]
+            },
+            {
+                  "name": "Dar Zakaria",
+                  "text": "Dar Zakaria is a hotel offering accommodation near the archaeological grounds of Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.532014,
+                        36.365179
+                  ]
+            },
+            {
+                  "name": "Hôtel Shell Beach",
+                  "text": "Hôtel Shell Beach is a coastal accommodation situated near the ancient ruins of Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.538897,
+                        36.373252
+                  ]
+            },
+            {
+                  "name": "Hôtel Mirage Beach Club",
+                  "text": "Hôtel Mirage Beach Club is a beachfront resort located in the historic area of Pupput.",
+                  "category": "landmark",
+                  "coords": [
+                        10.55011,
+                        36.383861
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-21",
     coords: [10.5539, 36.3861],
@@ -1053,7 +7992,160 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "salacta-catacombs-history-v2",
+    id: "salacta-catacombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Salakta",
+                  "text": "Dieser malerische Sandstrand bietet eine ruhige Mittelmeerküste in der Nähe des historischen Dorfes Salakta.",
+                  "category": "recreational",
+                  "coords": [
+                        11.045102,
+                        35.400416
+                  ]
+            },
+            {
+                  "name": "Plage El Alia",
+                  "text": "Dieser mediterrane Strand mit seinem langen, weichen Sandstreifen ist ein beliebter Ort für Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        11.040544,
+                        35.327225
+                  ]
+            },
+            {
+                  "name": "Salakta's Roman baths",
+                  "text": "Die ausgegrabenen Fundamente und Mosaike dieser antiken Thermen zeugen von der römischen Präsenz in der Küstenstadt Sullecthum.",
+                  "category": "historical",
+                  "coords": [
+                        11.042378,
+                        35.38977
+                  ]
+            },
+            {
+                  "name": "Musée Salakta",
+                  "text": "Dieses archäologische Museum beherbergt eine beeindruckende Sammlung römischer Mosaike, insbesondere eine riesige Darstellung eines brüllenden Löwen.",
+                  "category": "museum",
+                  "coords": [
+                        11.048792,
+                        35.392382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Salakta",
+                  "text": "Ez a festői homokos strand csendes földközi-tengeri partvidéket kínál a történelmi Salakta falu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.045102,
+                        35.400416
+                  ]
+            },
+            {
+                  "name": "Plage El Alia",
+                  "text": "Ez a hosszú, puha homokos mediterrán strand népszerű hely a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        11.040544,
+                        35.327225
+                  ]
+            },
+            {
+                  "name": "Salakta's Roman baths",
+                  "text": "Ezeknek az ősi termálfürdőknek a feltárt alapjai és mozaikjai a római jelenlétet mutatják be a tengerparti Sullecthum városában.",
+                  "category": "historical",
+                  "coords": [
+                        11.042378,
+                        35.38977
+                  ]
+            },
+            {
+                  "name": "Musée Salakta",
+                  "text": "Ez a régészeti múzeum lenyűgöző római mozaikgyűjteményt őriz, melynek legkiemelkedőbb darabja egy ordító oroszlánt ábrázoló hatalmas mozaik.",
+                  "category": "museum",
+                  "coords": [
+                        11.048792,
+                        35.392382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Salakta",
+                  "text": "Această plajă nisipoasă pitorească oferă o coastă mediteraneană liniștită în apropierea satului istoric Salakta.",
+                  "category": "recreational",
+                  "coords": [
+                        11.045102,
+                        35.400416
+                  ]
+            },
+            {
+                  "name": "Plage El Alia",
+                  "text": "O fâșie lungă de nisip fin pe coastă, această plajă mediteraneană este un loc popular pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        11.040544,
+                        35.327225
+                  ]
+            },
+            {
+                  "name": "Salakta's Roman baths",
+                  "text": "Fundațiile și mozaicurile excavate ale acestor băi termale antice dezvăluie prezența romană în orașul de coastă Sullecthum.",
+                  "category": "historical",
+                  "coords": [
+                        11.042378,
+                        35.38977
+                  ]
+            },
+            {
+                  "name": "Musée Salakta",
+                  "text": "Acest muzeu arheologic adăpostește o colecție impresionantă de mozaicuri romane, în special o reprezentare masivă a unui leu care răcnește.",
+                  "category": "museum",
+                  "coords": [
+                        11.048792,
+                        35.392382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Salakta",
+                  "text": "This serene sandy beach provides a tranquil Mediterranean coastline near the historic village of Salakta.",
+                  "category": "recreational",
+                  "coords": [
+                        11.045102,
+                        35.400416
+                  ]
+            },
+            {
+                  "name": "Plage El Alia",
+                  "text": "A long stretch of soft coastal sand, this Mediterranean beach is a popular spot for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        11.040544,
+                        35.327225
+                  ]
+            },
+            {
+                  "name": "Salakta's Roman baths",
+                  "text": "The excavated foundations and mosaics of these ancient thermal baths reveal the Roman presence in the coastal city of Sullecthum.",
+                  "category": "historical",
+                  "coords": [
+                        11.042378,
+                        35.38977
+                  ]
+            },
+            {
+                  "name": "Musée Salakta",
+                  "text": "This archaeological museum houses an impressive collection of Roman mosaics, most notably a massive depiction of a roaring lion.",
+                  "category": "museum",
+                  "coords": [
+                        11.048792,
+                        35.392382
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-53",
     coords: [11.0500, 35.3833],
@@ -1101,7 +8193,88 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "haidra-ammaedara-history-v2",
+    id: "haidra-ammaedara-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Byzantine Fortress",
+                  "text": "Die byzantinische Festung in Ammaedara ist eine massive, ruinöse Wehranlage mit dicken Steinmauern aus der Spätantike.",
+                  "category": "historical",
+                  "coords": [
+                        8.453938,
+                        35.563659
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Das Römische Theater von Haidra ist eine halbkreisförmige archäologische Stätte, deren steinerne Ränge einst zahlreiche Zuschauer fassten.",
+                  "category": "historical",
+                  "coords": [
+                        8.457606,
+                        35.566517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Byzantine Fortress",
+                  "text": "Az ammaedarai bizánci erőd egy hatalmas, romos katonai építmény a késő ókorból származó vastag kőfalakkal.",
+                  "category": "historical",
+                  "coords": [
+                        8.453938,
+                        35.563659
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "A haidrai római színház egy félkör alakú régészeti lelőhely, amelynek kőből épült nézőtere egykor számos nézőt fogadott.",
+                  "category": "historical",
+                  "coords": [
+                        8.457606,
+                        35.566517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Byzantine Fortress",
+                  "text": "Fortăreața bizantină din Ammaedara este o structură militară ruinată, masivă, cu ziduri groase de piatră datând din antichitatea târzie.",
+                  "category": "historical",
+                  "coords": [
+                        8.453938,
+                        35.563659
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Teatrul Roman din Haidra este un sit arheologic semicircular, ale cărui trepte de piatră găzduiau odinioară mulți spectatori.",
+                  "category": "historical",
+                  "coords": [
+                        8.457606,
+                        35.566517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Byzantine Fortress",
+                  "text": "The Byzantine Fortress at Ammaedara is a massive ruined military stronghold enclosed by thick stone walls from late antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        8.453938,
+                        35.563659
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "The Roman Theater of Haidra is a semicircular archaeological site whose stone seating tiers once hosted crowds for ancient performances.",
+                  "category": "historical",
+                  "coords": [
+                        8.457606,
+                        35.566517
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-42",
     coords: [8.4556, 35.5658],
@@ -1149,7 +8322,52 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "medina-of-sfax-history-v2",
+    id: "medina-of-sfax-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Great Mosque",
+                  "text": "Die Große Moschee ist ein historisches islamisches Gotteshaus im Herzen der Medina von Sfax.",
+                  "category": "religious",
+                  "coords": [
+                        10.760863,
+                        34.735858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Great Mosque",
+                  "text": "A Nagymecset egy történelmi iszlám istentiszteleti hely Sfax medinájának szívében.",
+                  "category": "religious",
+                  "coords": [
+                        10.760863,
+                        34.735858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Great Mosque",
+                  "text": "Marea Moschee este un lăcaș de cult islamic istoric din inima medinei din Sfax.",
+                  "category": "religious",
+                  "coords": [
+                        10.760863,
+                        34.735858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Great Mosque",
+                  "text": "The Great Mosque is a historic Islamic place of worship in the heart of the medina of Sfax.",
+                  "category": "religious",
+                  "coords": [
+                        10.760863,
+                        34.735858
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-61",
     coords: [10.7600, 34.7358],
@@ -1197,7 +8415,268 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "musti-archaeological-history-v2",
+    id: "musti-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uchi Maius",
+                  "text": "Diese archäologische Stätte einer antiken römisch-berberischen Stadt enthält die Überreste bürgerlicher und privater Gebäude.",
+                  "category": "historical",
+                  "coords": [
+                        9.084335,
+                        36.411227
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Dieser steinerne antike Bogen steht als Denkmal der römischen Architekturpräsenz in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        9.146677,
+                        36.337281
+                  ]
+            },
+            {
+                  "name": "Marabout of Sidi Abdullah Khalifa",
+                  "text": "Dieser historische Marabout-Schrein dient als Denkmal für die verehrte islamische Persönlichkeit Sidi Abdullah Khalifa.",
+                  "category": "historical",
+                  "coords": [
+                        9.201722,
+                        36.284437
+                  ]
+            },
+            {
+                  "name": "Henchir Hnich",
+                  "text": "Diese archäologische Stätte weist verstreute antike Ruinen auf, die auf frühe Siedlungen in der Region zurückgehen.",
+                  "category": "historical",
+                  "coords": [
+                        9.101063,
+                        36.347857
+                  ]
+            },
+            {
+                  "name": "Henchir Douama Amphitheatre",
+                  "text": "Die Ruinen dieses römischen Amphitheaters beherbergten einst große Menschenmengen für öffentliche Spektakel und Gladiatorenkämpfe.",
+                  "category": "historical",
+                  "coords": [
+                        9.085095,
+                        36.412408
+                  ]
+            },
+            {
+                  "name": "Eglise chrétienne",
+                  "text": "Diese archäologischen Überreste gehören zu einer frühchristlichen Kirche mit klassischem Basilika-Grundriss.",
+                  "category": "historical",
+                  "coords": [
+                        9.142537,
+                        36.336114
+                  ]
+            },
+            {
+                  "name": "Musti",
+                  "text": "Die weitläufige archäologische Stätte von Musti bewahrt das rasterförmige Straßennetz und die öffentlichen Gebäude einer antiken römischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        9.143545,
+                        36.336805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uchi Maius",
+                  "text": "Ez az ősi római-berber város régészeti lelőhelye polgári és lakóépületek maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        9.084335,
+                        36.411227
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Ez az ősi kőív a környék római építészeti jelenlétének emlékműveként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        9.146677,
+                        36.337281
+                  ]
+            },
+            {
+                  "name": "Marabout of Sidi Abdullah Khalifa",
+                  "text": "Ez a történelmi marabut szentély a tisztelt iszlám alak, Sidi Abdullah Khalifa emlékműveként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        9.201722,
+                        36.284437
+                  ]
+            },
+            {
+                  "name": "Henchir Hnich",
+                  "text": "Ezen a régészeti lelőhelyen elszórtan találhatók ősi romok, amelyek a régió korai településeire nyúlnak vissza.",
+                  "category": "historical",
+                  "coords": [
+                        9.101063,
+                        36.347857
+                  ]
+            },
+            {
+                  "name": "Henchir Douama Amphitheatre",
+                  "text": "Ennek a római kori amfiteátrumnak a romjai egykor hatalmas tömegeket fogadtak nyilvános látványosságokra és gladiátorviadalokra.",
+                  "category": "historical",
+                  "coords": [
+                        9.085095,
+                        36.412408
+                  ]
+            },
+            {
+                  "name": "Eglise chrétienne",
+                  "text": "Ezek a régészeti maradványok egy korai keresztény templomhoz tartoznak, klasszikus bazilika elrendezéssel.",
+                  "category": "historical",
+                  "coords": [
+                        9.142537,
+                        36.336114
+                  ]
+            },
+            {
+                  "name": "Musti",
+                  "text": "Musti kiterjedt régészeti lelőhelye megőrizte egy ókori római város hálózatos utcáit és középületeit.",
+                  "category": "historical",
+                  "coords": [
+                        9.143545,
+                        36.336805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uchi Maius",
+                  "text": "Acest sit arheologic al unui oraș antic romano-berber conține rămășițele unor structuri civice și rezidențiale.",
+                  "category": "historical",
+                  "coords": [
+                        9.084335,
+                        36.411227
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Acest arc antic de piatră stă ca un monument al prezenței arhitecturale romane în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.146677,
+                        36.337281
+                  ]
+            },
+            {
+                  "name": "Marabout of Sidi Abdullah Khalifa",
+                  "text": "Acest altar istoric de tip marabout servește ca monument închinat veneratului lider islamic Sidi Abdullah Khalifa.",
+                  "category": "historical",
+                  "coords": [
+                        9.201722,
+                        36.284437
+                  ]
+            },
+            {
+                  "name": "Henchir Hnich",
+                  "text": "Acest sit arheologic prezintă ruine antice împrăștiate care datează de la așezările timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        9.101063,
+                        36.347857
+                  ]
+            },
+            {
+                  "name": "Henchir Douama Amphitheatre",
+                  "text": "Ruinele acestui amfiteatru roman au găzduit cândva mulțimi mari pentru spectacole publice și lupte de gladiatori.",
+                  "category": "historical",
+                  "coords": [
+                        9.085095,
+                        36.412408
+                  ]
+            },
+            {
+                  "name": "Eglise chrétienne",
+                  "text": "Aceste vestigii arheologice aparțin unei biserici creștine timpurii, având o configurație clasică de bazilică.",
+                  "category": "historical",
+                  "coords": [
+                        9.142537,
+                        36.336114
+                  ]
+            },
+            {
+                  "name": "Musti",
+                  "text": "Extinsul sit arheologic din Musti păstrează străzile în grilă și clădirile publice ale unui oraș roman antic.",
+                  "category": "historical",
+                  "coords": [
+                        9.143545,
+                        36.336805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uchi Maius",
+                  "text": "This ancient Roman-Berber city archaeological site contains the remnants of civic and residential structures.",
+                  "category": "historical",
+                  "coords": [
+                        9.084335,
+                        36.411227
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "This ancient stone arch stands as a monument to the Roman architectural presence in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.146677,
+                        36.337281
+                  ]
+            },
+            {
+                  "name": "Marabout of Sidi Abdullah Khalifa",
+                  "text": "This historical marabout shrine serves as a monument to the revered Islamic figure Sidi Abdullah Khalifa.",
+                  "category": "historical",
+                  "coords": [
+                        9.201722,
+                        36.284437
+                  ]
+            },
+            {
+                  "name": "Henchir Hnich",
+                  "text": "This archaeological site features scattered ancient ruins that trace back to early settlements in the region.",
+                  "category": "historical",
+                  "coords": [
+                        9.101063,
+                        36.347857
+                  ]
+            },
+            {
+                  "name": "Henchir Douama Amphitheatre",
+                  "text": "The ruins of this Roman amphitheatre once hosted large crowds for public spectacles and gladiatorial contests.",
+                  "category": "historical",
+                  "coords": [
+                        9.085095,
+                        36.412408
+                  ]
+            },
+            {
+                  "name": "Eglise chrétienne",
+                  "text": "These archaeological remains belong to an early Christian church, complete with a classic basilica layout.",
+                  "category": "historical",
+                  "coords": [
+                        9.142537,
+                        36.336114
+                  ]
+            },
+            {
+                  "name": "Musti",
+                  "text": "The extensive archaeological site of Musti preserves the grid streets and public buildings of an ancient Roman town.",
+                  "category": "historical",
+                  "coords": [
+                        9.143545,
+                        36.336805
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-34",
     coords: [9.1417, 36.3350],
@@ -1245,7 +8724,52 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "gigthis-archaeological-history-v2",
+    id: "gigthis-archaeological-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gigthis",
+                  "text": "Gigthis ist die archäologische Stätte einer antiken römischen und punischen Stadt in Südtunesien.",
+                  "category": "historical",
+                  "coords": [
+                        10.676692,
+                        33.532383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gigthis",
+                  "text": "Gigthis egy ókori római és pun város régészeti lelőhelye Dél-Tunéziában.",
+                  "category": "historical",
+                  "coords": [
+                        10.676692,
+                        33.532383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gigthis",
+                  "text": "Gigthis este situl arheologic al unui oraș antic roman și punic din sudul Tunisiei.",
+                  "category": "historical",
+                  "coords": [
+                        10.676692,
+                        33.532383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gigthis",
+                  "text": "Gigthis is the archaeological site of an ancient Roman and Punic city in southern Tunisia.",
+                  "category": "historical",
+                  "coords": [
+                        10.676692,
+                        33.532383
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-82",
     coords: [10.6694, 33.5358],
@@ -1293,7 +8817,196 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "medina-tozeur-history-v2",
+    id: "medina-tozeur-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lost car in the desert",
+                  "text": "Dieses verlassene Autowrack liegt halb vom Wüstensand begraben in der Nähe von Tozeur und dient als bizarres Fotomotiv in der kargen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        8.13024,
+                        33.864851
+                  ]
+            },
+            {
+                  "name": "Vieilles voitures",
+                  "text": "Diese verwitterten Oldtimer in Tozeur sind eine Sammlung nostalgischer Fahrzeuge, die in der trockenen Hitze der tunesischen Wüste langsam rosten.",
+                  "category": "landmark",
+                  "coords": [
+                        8.129638,
+                        33.871926
+                  ]
+            },
+            {
+                  "name": "Maison de Abou El Kacem Chebbi",
+                  "text": "Dieses Museum in Tozeur ist dem Leben des berühmten tunesischen Dichters Abou El Kacem Chebbi gewidmet und bewahrt seine Manuskripte in traditionellem Gemäuer auf.",
+                  "category": "museum",
+                  "coords": [
+                        8.128776,
+                        33.914196
+                  ]
+            },
+            {
+                  "name": "Eden Palm",
+                  "text": "Das Eden Palm in Tozeur ist ein interaktives Museum, das die jahrhundertealte Kultur der Dattelpalmenzucht in der tunesischen Oase anschaulich erklärt.",
+                  "category": "museum",
+                  "coords": [
+                        8.147201,
+                        33.917109
+                  ]
+            },
+            {
+                  "name": "Palmeraie",
+                  "text": "Die Palmeraie von Tozeur ist ein riesiger, kühler Palmenhain, der durch ein traditionelles Bewässerungssystem gespeist wird und Tausende von Dattelpalmen umfasst.",
+                  "category": "landmark",
+                  "coords": [
+                        8.137365,
+                        33.911616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lost car in the desert",
+                  "text": "Ez a Tozeur közelében a sivatagi homok által félig betemetett elhagyatott autóroncs bizarr fotótémaként szolgál a kietlen tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        8.13024,
+                        33.864851
+                  ]
+            },
+            {
+                  "name": "Vieilles voitures",
+                  "text": "Ezek a megviselt tozeuri veteránautók egy nosztalgikus járműgyűjteményt alkotnak, amelyek lassan rozsdásodnak a tunéziai sivatag száraz hőségében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.129638,
+                        33.871926
+                  ]
+            },
+            {
+                  "name": "Maison de Abou El Kacem Chebbi",
+                  "text": "Ez a tozeuri múzeum Abou El Kacem Chebbi, a híres tunéziai költő életének állít emléket, megőrizve kéziratait a hagyományos falak között.",
+                  "category": "museum",
+                  "coords": [
+                        8.128776,
+                        33.914196
+                  ]
+            },
+            {
+                  "name": "Eden Palm",
+                  "text": "A tozeuri Eden Palm egy interaktív múzeum, amely a datolyapálma-termesztés évszázados kultúráját mutatja be a tunéziai oázisban.",
+                  "category": "museum",
+                  "coords": [
+                        8.147201,
+                        33.917109
+                  ]
+            },
+            {
+                  "name": "Palmeraie",
+                  "text": "A tozeuri Palmeraie egy hatalmas, hűvös pálmaliget, amelyet hagyományos öntözőrendszer táplál, és több ezer datolyapálmának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        8.137365,
+                        33.911616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lost car in the desert",
+                  "text": "Această mașină abandonată, pe jumătate îngropată de nisipul deșertului lângă Tozeur, servește drept motiv fotografic bizar în peisajul arid.",
+                  "category": "landmark",
+                  "coords": [
+                        8.13024,
+                        33.864851
+                  ]
+            },
+            {
+                  "name": "Vieilles voitures",
+                  "text": "Aceste mașini de epocă din Tozeur formează o colecție nostalgică ce ruginește încet în căldura uscată a deșertului tunisian.",
+                  "category": "landmark",
+                  "coords": [
+                        8.129638,
+                        33.871926
+                  ]
+            },
+            {
+                  "name": "Maison de Abou El Kacem Chebbi",
+                  "text": "Acest muzeu din Tozeur este dedicat vieții renumitului poet tunisian Abou El Kacem Chebbi, păstrându-i manuscrisele între ziduri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        8.128776,
+                        33.914196
+                  ]
+            },
+            {
+                  "name": "Eden Palm",
+                  "text": "Eden Palm din Tozeur este un muzeu interactiv care explică cultura veche de secole a cultivării curmalilor în oaza tunisiană.",
+                  "category": "museum",
+                  "coords": [
+                        8.147201,
+                        33.917109
+                  ]
+            },
+            {
+                  "name": "Palmeraie",
+                  "text": "Palmeraie din Tozeur este un vast crâng răcoros de palmieri, irigat printr-un sistem tradițional și care cuprinde mii de curmali.",
+                  "category": "landmark",
+                  "coords": [
+                        8.137365,
+                        33.911616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lost car in the desert",
+                  "text": "This abandoned car wreck lies half-buried by desert sand near Tozeur, serving as a bizarre photo opportunity in the barren landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.13024,
+                        33.864851
+                  ]
+            },
+            {
+                  "name": "Vieilles voitures",
+                  "text": "These weathered vintage cars in Tozeur are a nostalgic collection slowly rusting in the dry heat of the Tunisian desert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.129638,
+                        33.871926
+                  ]
+            },
+            {
+                  "name": "Maison de Abou El Kacem Chebbi",
+                  "text": "This museum in Tozeur is dedicated to the life of the famous Tunisian poet Abou El Kacem Chebbi, preserving his manuscripts within traditional walls.",
+                  "category": "museum",
+                  "coords": [
+                        8.128776,
+                        33.914196
+                  ]
+            },
+            {
+                  "name": "Eden Palm",
+                  "text": "Eden Palm in Tozeur is an interactive museum explaining the centuries-old culture of date palm cultivation in the Tunisian oasis.",
+                  "category": "museum",
+                  "coords": [
+                        8.147201,
+                        33.917109
+                  ]
+            },
+            {
+                  "name": "Palmeraie",
+                  "text": "The Palmeraie of Tozeur is a vast, cool palm grove fed by a traditional irrigation system and comprising thousands of date palms.",
+                  "category": "landmark",
+                  "coords": [
+                        8.137365,
+                        33.911616
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-72",
     coords: [8.1333, 33.9167],
@@ -1341,7 +9054,520 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "skifa-el-kahla-history-v2",
+    id: "skifa-el-kahla-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quad Center",
+                  "text": "Das Quad Center organisiert geführte Geländefahrten durch die raue Landschaft um Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.031599,
+                        35.53375
+                  ]
+            },
+            {
+                  "name": "Plage Rejiche",
+                  "text": "Der Plage Rejiche ist ein weitläufiger Sandstrand südlich von Mahdia, der für sein klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        11.050151,
+                        35.46594
+                  ]
+            },
+            {
+                  "name": "Espadon",
+                  "text": "Espadon ist ein maritim geprägter Treffpunkt, oft verbunden mit den Fischereitraditionen in Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052673,
+                        35.511077
+                  ]
+            },
+            {
+                  "name": "Primasol El Mehdi",
+                  "text": "Das Hotel Primasol El Mehdi verfügt über direkte Strandlage und umfassende Freizeiteinrichtungen in Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044805,
+                        35.517588
+                  ]
+            },
+            {
+                  "name": "Mahdia Museum",
+                  "text": "Das Mahdia Museum stellt in seinen Räumen phönizische und byzantinische Artefakte der Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        11.068803,
+                        35.503758
+                  ]
+            },
+            {
+                  "name": "Hôtel El Fatimi",
+                  "text": "Das Hôtel El Fatimi bietet Touristen geräumige Zimmer und direkten Zugang zu den Stränden von Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.030726,
+                        35.542003
+                  ]
+            },
+            {
+                  "name": "Aquapark Carribean world mahdia",
+                  "text": "Der Aquapark Carribean world mahdia lockt Besucher mit rasanten Wasserrutschen im karibischen Design.",
+                  "category": "recreational",
+                  "coords": [
+                        11.028371,
+                        35.543352
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mahdia",
+                  "text": "Das El Mouradi Mahdia ist ein großes Strandresort, das von üppigen Gärten umgeben ist und direkt am Meer liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03378,
+                        35.533581
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "Dieser lebhafte Wasserpark bietet aufregende Rutschen und Außenpools in der Nähe des historischen Viertels Skifa el Kahla.",
+                  "category": "recreational",
+                  "coords": [
+                        11.033588,
+                        35.531191
+                  ]
+            },
+            {
+                  "name": "LTI Mahdia Beach",
+                  "text": "Dieses weitläufige Strandresort an der Mittelmeerküste bietet direkten Zugang zu den feinen Sandstränden.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03464,
+                        35.531982
+                  ]
+            },
+            {
+                  "name": "Thalasso Mehdia",
+                  "text": "Dieses Küstenhotel ist auf Thalassotherapie und entspannende Spa-Wellness-Behandlungen für seine Gäste spezialisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.036127,
+                        35.529506
+                  ]
+            },
+            {
+                  "name": "One Resort El Mansour",
+                  "text": "Die Gäste dieses Strandresorts an der Küste können umfangreiche Freizeiteinrichtungen direkt am Sandstrand des Mittelmeers genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036367,
+                        35.527809
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mehdia",
+                  "text": "Als Teil einer bekannten Hotelkette bietet dieses Strandresort angelegte Pools und einen privaten Strandzugang am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        11.037026,
+                        35.526197
+                  ]
+            },
+            {
+                  "name": "El Borj",
+                  "text": "Dieses Strandresort an der Küste besticht durch seine mediterrane Architektur und den direkten Zugang zum blauen Meerwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        11.038095,
+                        35.524699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quad Center",
+                  "text": "A Quad Center terepjárós túrákat szervez Mahdia környékének durva terepén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.031599,
+                        35.53375
+                  ]
+            },
+            {
+                  "name": "Plage Rejiche",
+                  "text": "A Plage Rejiche egy hosszú homokos partszakasz Mahdiától délre, amely kristálytiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        11.050151,
+                        35.46594
+                  ]
+            },
+            {
+                  "name": "Espadon",
+                  "text": "Az Espadon egy tengeri hangulatú helyszín, amely a mahdiai halászati hagyományokhoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052673,
+                        35.511077
+                  ]
+            },
+            {
+                  "name": "Primasol El Mehdi",
+                  "text": "A Primasol El Mehdi szálloda közvetlen tengerparti elhelyezkedéssel és sokoldalú szabadidős létesítményekkel rendelkezik Mahdiában.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044805,
+                        35.517588
+                  ]
+            },
+            {
+                  "name": "Mahdia Museum",
+                  "text": "A Mahdia Múzeum föníciai és bizánci leleteket mutat be a régió történelméből.",
+                  "category": "museum",
+                  "coords": [
+                        11.068803,
+                        35.503758
+                  ]
+            },
+            {
+                  "name": "Hôtel El Fatimi",
+                  "text": "A Hôtel El Fatimi tágas szobákat és közvetlen kijárást kínál Mahdia tengerpartjára.",
+                  "category": "landmark",
+                  "coords": [
+                        11.030726,
+                        35.542003
+                  ]
+            },
+            {
+                  "name": "Aquapark Carribean world mahdia",
+                  "text": "Az Aquapark Carribean world mahdia karibi stílusú, gyors vízi csúszdákkal vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        11.028371,
+                        35.543352
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mahdia",
+                  "text": "Az El Mouradi Mahdia egy hatalmas tengerparti üdülőhely, amelyet buja kertek vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03378,
+                        35.533581
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "Ez az élénk vízipark izgalmas csúszdákat és szabadtéri medencéket kínál a történelmi Skifa el Kahla negyed közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.033588,
+                        35.531191
+                  ]
+            },
+            {
+                  "name": "LTI Mahdia Beach",
+                  "text": "Ez a Földközi-tenger partján fekvő kiterjedt tengerparti üdülőhely közvetlen hozzáférést biztosít a homokos partokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03464,
+                        35.531982
+                  ]
+            },
+            {
+                  "name": "Thalasso Mehdia",
+                  "text": "Ez a tengerparti szálloda thalassoterápiára és wellness kezelésekre specializálódott vendégei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        11.036127,
+                        35.529506
+                  ]
+            },
+            {
+                  "name": "One Resort El Mansour",
+                  "text": "Ennek a tengerparti üdülőhelynek a vendégei kiterjedt szabadidős létesítményeket élvezhetnek közvetlenül a Földközi-tenger homokján.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036367,
+                        35.527809
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mehdia",
+                  "text": "A kiemelkedő szállodalánc részét képező tengerparti üdülőhely parkosított medencékkel és saját tengerparti bejárattal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        11.037026,
+                        35.526197
+                  ]
+            },
+            {
+                  "name": "El Borj",
+                  "text": "Ez a tengerparti üdülőhely mediterrán stílusú építészettel és a kék tengervízhez való közvetlen hozzáféréssel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        11.038095,
+                        35.524699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quad Center",
+                  "text": "Quad Center organizează excursii cu ATV-ul pe terenurile accidentate din împrejurimile Mahdiei.",
+                  "category": "landmark",
+                  "coords": [
+                        11.031599,
+                        35.53375
+                  ]
+            },
+            {
+                  "name": "Plage Rejiche",
+                  "text": "Plage Rejiche este o vastă plajă cu nisip la sud de Mahdia, renumită pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        11.050151,
+                        35.46594
+                  ]
+            },
+            {
+                  "name": "Espadon",
+                  "text": "Espadon este o atracție cu specific marin, reflectând tradițiile pescărești locale din Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052673,
+                        35.511077
+                  ]
+            },
+            {
+                  "name": "Primasol El Mehdi",
+                  "text": "Hotelul Primasol El Mehdi are o locație directă pe plajă și facilități extinse de agrement în Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044805,
+                        35.517588
+                  ]
+            },
+            {
+                  "name": "Mahdia Museum",
+                  "text": "Muzeul Mahdia expune în galeriile sale artefacte feniciene și bizantine descoperite în zonă.",
+                  "category": "museum",
+                  "coords": [
+                        11.068803,
+                        35.503758
+                  ]
+            },
+            {
+                  "name": "Hôtel El Fatimi",
+                  "text": "Hôtel El Fatimi pune la dispoziția turiștilor camere spațioase și acces direct la plajele din Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.030726,
+                        35.542003
+                  ]
+            },
+            {
+                  "name": "Aquapark Carribean world mahdia",
+                  "text": "Aquapark Carribean world mahdia atrage vizitatorii cu toboganele sale cu apă cu un design tematic caraibian.",
+                  "category": "recreational",
+                  "coords": [
+                        11.028371,
+                        35.543352
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mahdia",
+                  "text": "El Mouradi Mahdia este o mare stațiune pe plajă, înconjurată de grădini luxuriante și situată direct pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03378,
+                        35.533581
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "Acest parc acvatic vibrant oferă tobogane atractive și piscine în aer liber aproape de zona istorică Skifa el Kahla.",
+                  "category": "recreational",
+                  "coords": [
+                        11.033588,
+                        35.531191
+                  ]
+            },
+            {
+                  "name": "LTI Mahdia Beach",
+                  "text": "Situat pe coasta mediteraneană, acest complex balnear extins oferă acces direct la plajele cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03464,
+                        35.531982
+                  ]
+            },
+            {
+                  "name": "Thalasso Mehdia",
+                  "text": "Acest hotel de coastă este specializat în talasoterapie și tratamente spa de wellness pentru oaspeții săi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.036127,
+                        35.529506
+                  ]
+            },
+            {
+                  "name": "One Resort El Mansour",
+                  "text": "Oaspeții acestui complex de coastă se pot bucura de facilități de recreere extinse chiar pe nisipurile mediteraneene.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036367,
+                        35.527809
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mehdia",
+                  "text": "Făcând parte dintr-un lanț hotelier renumit, acest complex la malul mării oferă piscine amenajate și acces privat la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        11.037026,
+                        35.526197
+                  ]
+            },
+            {
+                  "name": "El Borj",
+                  "text": "Acest complex balnear de coastă are o arhitectură în stil mediteranean și acces direct la apa albastră a mării.",
+                  "category": "recreational",
+                  "coords": [
+                        11.038095,
+                        35.524699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quad Center",
+                  "text": "The Quad Center organizes guided off-road excursions through the rugged landscape surrounding Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.031599,
+                        35.53375
+                  ]
+            },
+            {
+                  "name": "Plage Rejiche",
+                  "text": "Plage Rejiche is a vast sandy beach south of Mahdia, celebrated for its clear coastal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        11.050151,
+                        35.46594
+                  ]
+            },
+            {
+                  "name": "Espadon",
+                  "text": "Espadon is a maritime attraction connected to the local fishing traditions of Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052673,
+                        35.511077
+                  ]
+            },
+            {
+                  "name": "Primasol El Mehdi",
+                  "text": "The Primasol El Mehdi hotel boasts a direct beachfront location and extensive recreational facilities in Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044805,
+                        35.517588
+                  ]
+            },
+            {
+                  "name": "Mahdia Museum",
+                  "text": "The Mahdia Museum exhibits Phoenician and Byzantine artifacts originating from the local area.",
+                  "category": "museum",
+                  "coords": [
+                        11.068803,
+                        35.503758
+                  ]
+            },
+            {
+                  "name": "Hôtel El Fatimi",
+                  "text": "Hôtel El Fatimi provides tourists with spacious rooms and direct access to the beaches of Mahdia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.030726,
+                        35.542003
+                  ]
+            },
+            {
+                  "name": "Aquapark Carribean world mahdia",
+                  "text": "Aquapark Carribean world mahdia attracts visitors with its thrilling water slides and Caribbean-themed design.",
+                  "category": "recreational",
+                  "coords": [
+                        11.028371,
+                        35.543352
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mahdia",
+                  "text": "El Mouradi Mahdia is a large beach resort surrounded by lush gardens right on the Mediterranean shore.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03378,
+                        35.533581
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "This vibrant water park offers thrilling slides and outdoor pools near the historic Skifa el Kahla area.",
+                  "category": "recreational",
+                  "coords": [
+                        11.033588,
+                        35.531191
+                  ]
+            },
+            {
+                  "name": "LTI Mahdia Beach",
+                  "text": "Located on the Mediterranean coast, this expansive beach resort provides direct access to sandy shorelines.",
+                  "category": "recreational",
+                  "coords": [
+                        11.03464,
+                        35.531982
+                  ]
+            },
+            {
+                  "name": "Thalasso Mehdia",
+                  "text": "This coastal hotel specializes in thalassotherapy and spa wellness treatments for its guests.",
+                  "category": "landmark",
+                  "coords": [
+                        11.036127,
+                        35.529506
+                  ]
+            },
+            {
+                  "name": "One Resort El Mansour",
+                  "text": "Guests at this coastal beach resort can enjoy extensive recreational facilities right on the Mediterranean sands.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036367,
+                        35.527809
+                  ]
+            },
+            {
+                  "name": "El Mouradi Mehdia",
+                  "text": "Part of a prominent hospitality chain, this seaside resort features landscaped pools and private beach access.",
+                  "category": "recreational",
+                  "coords": [
+                        11.037026,
+                        35.526197
+                  ]
+            },
+            {
+                  "name": "El Borj",
+                  "text": "This coastal beach resort features Mediterranean-style architecture and direct access to the blue sea waters.",
+                  "category": "recreational",
+                  "coords": [
+                        11.038095,
+                        35.524699
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-53",
     coords: [11.0667, 35.5039],
@@ -1389,7 +9615,988 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ksar-ouled-soltane-history-v2",
+    id: "ksar-ouled-soltane-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ksar Ouled Soltane",
+                  "text": "Ksar Ouled Soltane ist ein spektakulär erhaltener, mehrstöckiger befestigter Kornspeicher mit charakteristischen gewölbten Ghorfas, die von lokalen Berber-Gemeinschaften erbaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.514864,
+                        32.788402
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Diese namenlosen archäologischen Ruinen in der Nähe von Ksar Ouled Soltane bewahren die Grundsteine ehemaliger Wüstenbehausungen.",
+                  "category": "historical",
+                  "coords": [
+                        10.44649,
+                        32.836009
+                  ]
+            },
+            {
+                  "name": "Ksar Maaned",
+                  "text": "Ksar Maaned ist eine archäologische Stätte, die die verfallenen Strukturen einer einst wichtigen befestigten Lagerstätte in der Region umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        10.514773,
+                        32.827538
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Chehida ruines",
+                  "text": "Die archäologischen Überreste von Ksar Ouled Chehida offenbaren den Grundriss eines historischen Wüstenkornspeichers, der durch jahrhundertelange Saharawinde abgetragen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        10.472021,
+                        32.794558
+                  ]
+            },
+            {
+                  "name": "Ksar Missaoui",
+                  "text": "Ksar Missaoui weist die archäologischen Spuren einer alten Lehm- und Steinzitadelle auf, die einst die Ernte lokaler Stämme schützte.",
+                  "category": "historical",
+                  "coords": [
+                        10.512939,
+                        32.797789
+                  ]
+            },
+            {
+                  "name": "Tazeghdent",
+                  "text": "Tazeghdent ist eine archäologische Ausgrabungsstätte, die die schwachen Umrisse früher Siedlungsarchitektur im trockenen tunesischen Süden bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        10.527495,
+                        32.799393
+                  ]
+            },
+            {
+                  "name": "Kalaat Ouled Chehida",
+                  "text": "Die Ruinen von Ksar Ouled Chehida bestehen aus zerfallenden Erd- und Steingewölben, die einst zur Lagerung von wertvollem Getreide in dem rauen Klima dienten.",
+                  "category": "historical",
+                  "coords": [
+                        10.486887,
+                        32.774609
+                  ]
+            },
+            {
+                  "name": "Ksar Abdelsied",
+                  "text": "Ksar Abdelsied ist ein verfallener historischer Kornspeicher, dessen bröckelnde Lehmwände langsam wieder mit der Wüstenlandschaft verschmelzen.",
+                  "category": "historical",
+                  "coords": [
+                        10.481408,
+                        32.80751
+                  ]
+            },
+            {
+                  "name": "Ksar Mnar",
+                  "text": "Die Ruinen von Ksar Mnar stehen als stummes Zeugnis der regionalen Geschichte befestigter Höhenspeicher auf Hügeln.",
+                  "category": "historical",
+                  "coords": [
+                        10.473545,
+                        32.810371
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Ziri",
+                  "text": "Die Ruinen von Ksar Bou Ziri bestehen aus verfallenen Steinzellen, in denen einst lokale Nomaden ihre Lebensmittelvorräte vor Plünderern sicherten.",
+                  "category": "historical",
+                  "coords": [
+                        10.455049,
+                        32.809533
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa ruines 02",
+                  "text": "Die Djebel Grimissa Ruinen 02 sind eine archäologische Stätte mit den Überresten einer alten Bergfestung auf dem trockenen Gebirgskamm.",
+                  "category": "historical",
+                  "coords": [
+                        10.600576,
+                        32.757683
+                  ]
+            },
+            {
+                  "name": "Ksar Sodra",
+                  "text": "Ksar Sodra ist ein teilweise zerstörter Wüstenkornspeicher, dessen markante mehrstöckige Ghorfas teilweise den Elementen zum Opfer gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.454708,
+                        32.793461
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa - ksar ruines 01",
+                  "text": "Die erste Ksar-Ruine in Djebel Grimissa bietet von den Überresten ihrer befestigten Steinmauern aus einen weiten Blick über die umliegenden Ebenen.",
+                  "category": "historical",
+                  "coords": [
+                        10.598876,
+                        32.800204
+                  ]
+            },
+            {
+                  "name": "Ksar Daghra",
+                  "text": "Ksar Daghra ist eine verlassene befestigte Anlage, deren erodierende Lehmziegelarchitektur charakteristisch für alte Speicherstätten der Berber ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.467715,
+                        32.847763
+                  ]
+            },
+            {
+                  "name": "Ksar Aouadid",
+                  "text": "Die Ruinen von Ksar Aouadid weisen die eingestürzten Zellen eines historischen Getreidespeichers auf, der den umliegenden landwirtschaftlichen Gemeinden diente.",
+                  "category": "historical",
+                  "coords": [
+                        10.471082,
+                        32.854786
+                  ]
+            },
+            {
+                  "name": "Ksar Bir El Ammar",
+                  "text": "Ksar Bir El Ammar ist eine archäologische Stätte, die sich um die Überreste einer befestigten Anlage in der Nähe eines historischen Wüstenbrunnens konzentriert.",
+                  "category": "historical",
+                  "coords": [
+                        10.501247,
+                        32.828221
+                  ]
+            },
+            {
+                  "name": "Oued Beni Said ruines",
+                  "text": "Die archäologische Stätte Oued Beni Said enthält die verwitterten Überreste einer alten Siedlung entlang eines trockenen Flussbettes.",
+                  "category": "historical",
+                  "coords": [
+                        10.48692,
+                        32.825744
+                  ]
+            },
+            {
+                  "name": "Ksar El Maztouria",
+                  "text": "Die Ruinen von Ksar El Maztouria weisen die erodierende Lehmarchitektur eines befestigten Kornspeichers auf, der erbaut wurde, um der intensiven Wüstenhitze standzuhalten.",
+                  "category": "historical",
+                  "coords": [
+                        10.468287,
+                        32.841316
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha",
+                  "text": "Ksar Rodha liegt in Trümmern, seine eingestürzten Mauern sind eine eindringliche Erinnerung an die rauen Umweltbedingungen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        10.563465,
+                        32.820816
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Said",
+                  "text": "Die Ruinen von Ksar Ouled Said bestehen aus einer Reihe verfallener Stein- und Lehmgewölbe, die einst für die lokale Konservierung von Lebensmitteln von entscheidender Bedeutung waren.",
+                  "category": "historical",
+                  "coords": [
+                        10.559356,
+                        32.797666
+                  ]
+            },
+            {
+                  "name": "Ksar Kedima",
+                  "text": "Ksar Kedima ist ein zerstörter historischer Komplex, in dem die Überreste traditioneller Berber-Kornspeicherzellen noch sichtbar sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.5481,
+                        32.792514
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha ruines",
+                  "text": "Die archäologischen Überreste von Ksar Rodha umreißen die Grundsteine eines einst stark befestigten Stammeskornspeichers.",
+                  "category": "historical",
+                  "coords": [
+                        10.561991,
+                        32.821158
+                  ]
+            },
+            {
+                  "name": "Ksar Ezzahra ruines",
+                  "text": "Ksar Ezzahra ist eine archäologische Stätte, die die zerbröckelnden Lehm- und Steinreste einer traditionellen saharischen Speicherfestung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        10.567441,
+                        32.816864
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun ruines 02",
+                  "text": "Die archäologische Stätte Hassi b. Zitoun enthält die verstreuten Überreste historischer Bauwerke, die nahe einer lebenswichtigen Wüstenwasserquelle errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        10.583704,
+                        32.816533
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun",
+                  "text": "Hassi b. Zitoun ist ein unausgegrabenes archäologisches Gebiet, das die Grundspuren einer Gemeinschaft bewahrt, die rund um den lokalen Brunnen florierte.",
+                  "category": "historical",
+                  "coords": [
+                        10.585952,
+                        32.81713
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Yekhzer",
+                  "text": "Die Überreste des Ksar Beni Yekhzer zeugen von einem traditionellen befestigten Berber-Kornspeicher in der trockenen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        10.578807,
+                        32.851112
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Harida",
+                  "text": "Die steinernen Ruinen des Ksar Bou Harida bieten einen Einblick in das historische Netzwerk befestigter Wüstenkornspeicher der Region.",
+                  "category": "historical",
+                  "coords": [
+                        10.559444,
+                        32.868604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ksar Ouled Soltane",
+                  "text": "A Ksar Ouled Soltane egy látványosan megőrzött, többszintes erődített magtár, amely a helyi berber közösségek által épített, jellegzetes boltozatos ghorfákkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.514864,
+                        32.788402
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Ezek a Ksar Ouled Soltane közelében lévő névtelen régészeti romok a korábbi sivatagi lakóházak alapköveit őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        10.44649,
+                        32.836009
+                  ]
+            },
+            {
+                  "name": "Ksar Maaned",
+                  "text": "A Ksar Maaned egy régészeti lelőhely, amely magában foglalja a régió egykor fontos erődített raktárlétesítményének romos szerkezeteit.",
+                  "category": "historical",
+                  "coords": [
+                        10.514773,
+                        32.827538
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Chehida ruines",
+                  "text": "A Ksar Ouled Chehida régészeti maradványai egy történelmi sivatagi magtár elrendezését tárják fel, amelyet a szaharai szelek évszázadokon át koptattak.",
+                  "category": "historical",
+                  "coords": [
+                        10.472021,
+                        32.794558
+                  ]
+            },
+            {
+                  "name": "Ksar Missaoui",
+                  "text": "A Ksar Missaoui egy ősi sár- és kőfellegvár régészeti nyomait őrzi, amely a helyi törzsek termését védte.",
+                  "category": "historical",
+                  "coords": [
+                        10.512939,
+                        32.797789
+                  ]
+            },
+            {
+                  "name": "Tazeghdent",
+                  "text": "Tazeghdent egy régészeti ásatási terület, amely a korai településépítészet halvány körvonalait őrzi a száraz tunéziai délen.",
+                  "category": "historical",
+                  "coords": [
+                        10.527495,
+                        32.799393
+                  ]
+            },
+            {
+                  "name": "Kalaat Ouled Chehida",
+                  "text": "A Ksar Ouled Chehida romjai omladozó föld- és kőboltozatokból állnak, amelyeket egykor értékes gabona tárolására használtak a zord éghajlaton.",
+                  "category": "historical",
+                  "coords": [
+                        10.486887,
+                        32.774609
+                  ]
+            },
+            {
+                  "name": "Ksar Abdelsied",
+                  "text": "A Ksar Abdelsied egy romos történelmi magtár, amelynek pusztuló vályogfalai lassan beleolvadnak a sivatagi tájba.",
+                  "category": "historical",
+                  "coords": [
+                        10.481408,
+                        32.80751
+                  ]
+            },
+            {
+                  "name": "Ksar Mnar",
+                  "text": "A Ksar Mnar romjai a régió erődített dombtetői tárolószerkezeteinek történelmének néma tanújaként állnak.",
+                  "category": "historical",
+                  "coords": [
+                        10.473545,
+                        32.810371
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Ziri",
+                  "text": "A Ksar Bou Ziri romjai romos kőcellákból állnak, ahol a helyi nomádok egykor rablóktól védték élelmiszerkészleteiket.",
+                  "category": "historical",
+                  "coords": [
+                        10.455049,
+                        32.809533
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa ruines 02",
+                  "text": "A Djebel Grimissa romok 02 egy régészeti lelőhely, amely egy ősi hegyi erődítmény maradványait mutatja be a kietlen hegygerincen.",
+                  "category": "historical",
+                  "coords": [
+                        10.600576,
+                        32.757683
+                  ]
+            },
+            {
+                  "name": "Ksar Sodra",
+                  "text": "A Ksar Sodra egy részben romos sivatagi magtár, ahol a jellegzetes többszintes ghorfák részben megadták magukat az elemeknek.",
+                  "category": "historical",
+                  "coords": [
+                        10.454708,
+                        32.793461
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa - ksar ruines 01",
+                  "text": "A Djebel Grimissa első ksar romterülete a környező síkságokra nyújt széles kilátást erődített kőfalainak maradványairól.",
+                  "category": "historical",
+                  "coords": [
+                        10.598876,
+                        32.800204
+                  ]
+            },
+            {
+                  "name": "Ksar Daghra",
+                  "text": "A Ksar Daghra egy elhagyatott erődített építmény, amelynek erodálódó vályogtégla építészete az ősi berber raktárhelyekre jellemző.",
+                  "category": "historical",
+                  "coords": [
+                        10.467715,
+                        32.847763
+                  ]
+            },
+            {
+                  "name": "Ksar Aouadid",
+                  "text": "A Ksar Aouadid romjainál egy történelmi gabonaraktár beomlott cellái láthatók, amelyek a környező mezőgazdasági közösségeket szolgálták ki.",
+                  "category": "historical",
+                  "coords": [
+                        10.471082,
+                        32.854786
+                  ]
+            },
+            {
+                  "name": "Ksar Bir El Ammar",
+                  "text": "A Ksar Bir El Ammar egy régészeti lelőhely, amelynek középpontjában egy történelmi sivatagi kút közelében álló erődített építmény maradványai állnak.",
+                  "category": "historical",
+                  "coords": [
+                        10.501247,
+                        32.828221
+                  ]
+            },
+            {
+                  "name": "Oued Beni Said ruines",
+                  "text": "Az Oued Beni Said régészeti lelőhely egy kiszáradt folyómeder mentén fekvő ősi település viharvert maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        10.48692,
+                        32.825744
+                  ]
+            },
+            {
+                  "name": "Ksar El Maztouria",
+                  "text": "A Ksar El Maztouria romjainál egy erődített magtár erodálódó földépítészete látható, amelyet a heves sivatagi hőség elviselésére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        10.468287,
+                        32.841316
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha",
+                  "text": "A Ksar Rodha romokban hever, beomlott falai pedig zord emlékeztetőül szolgálnak a régió zord környezeti viszonyaira.",
+                  "category": "historical",
+                  "coords": [
+                        10.563465,
+                        32.820816
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Said",
+                  "text": "A Ksar Ouled Said romjai egy sor lepusztult kő- és agyagboltozatot foglalnak magukban, amelyek egykor elengedhetetlenek voltak a helyi élelmiszertartósításhoz.",
+                  "category": "historical",
+                  "coords": [
+                        10.559356,
+                        32.797666
+                  ]
+            },
+            {
+                  "name": "Ksar Kedima",
+                  "text": "A Ksar Kedima egy romos történelmi komplexum, ahol a hagyományos berber magtárcellák maradványai még mindig láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        10.5481,
+                        32.792514
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha ruines",
+                  "text": "A Ksar Rodha régészeti maradványai egy egykor erősen megerősített törzsi magtár alapköveit vázolják fel.",
+                  "category": "historical",
+                  "coords": [
+                        10.561991,
+                        32.821158
+                  ]
+            },
+            {
+                  "name": "Ksar Ezzahra ruines",
+                  "text": "A Ksar Ezzahra egy régészeti lelőhely, amely egy hagyományos szaharai raktárerőd omladozó sár- és kőmaradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        10.567441,
+                        32.816864
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun ruines 02",
+                  "text": "A Hassi b. Zitoun régészeti lelőhely egy létfontosságú sivatagi vízforrás közelében épült történelmi építmények szétszórt maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        10.583704,
+                        32.816533
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun",
+                  "text": "A Hassi b. Zitoun egy feltáratlan régészeti terület, amely egy olyan közösség alapító nyomait őrzi, amely a helyi kút körül virágzott.",
+                  "category": "historical",
+                  "coords": [
+                        10.585952,
+                        32.81713
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Yekhzer",
+                  "text": "A Ksar Beni Yekhzer romjai egy hagyományos berber erődített magtár maradványait őrzik a sivatagos tájon.",
+                  "category": "historical",
+                  "coords": [
+                        10.578807,
+                        32.851112
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Harida",
+                  "text": "Ksar Bou Harida kőromjai bepillantást engednek a régió sivatagi erődített magtárainak történelmi hálózatába.",
+                  "category": "historical",
+                  "coords": [
+                        10.559444,
+                        32.868604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ksar Ouled Soltane",
+                  "text": "Ksar Ouled Soltane este un hambar fortificat pe mai multe niveluri, spectaculos de bine conservat, având ghorfe boltite construite de comunitățile berbere locale.",
+                  "category": "landmark",
+                  "coords": [
+                        10.514864,
+                        32.788402
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Aceste ruine arheologice nenumite de lângă Ksar Ouled Soltane păstrează pietrele de temelie ale fostelor locuințe din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        10.44649,
+                        32.836009
+                  ]
+            },
+            {
+                  "name": "Ksar Maaned",
+                  "text": "Ksar Maaned este un sit arheologic care cuprinde structurile decăzute ale unei foste instalații de depozitare fortificate, esențiale în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        10.514773,
+                        32.827538
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Chehida ruines",
+                  "text": "Rămășițele arheologice ale Ksar Ouled Chehida dezvăluie aspectul unui hambar istoric din deșert, erodat de secole de vânturi sahariene.",
+                  "category": "historical",
+                  "coords": [
+                        10.472021,
+                        32.794558
+                  ]
+            },
+            {
+                  "name": "Ksar Missaoui",
+                  "text": "Ksar Missaoui prezintă urmele arheologice ale unei vechi citadele de noroi și piatră care proteja recolta triburilor locale.",
+                  "category": "historical",
+                  "coords": [
+                        10.512939,
+                        32.797789
+                  ]
+            },
+            {
+                  "name": "Tazeghdent",
+                  "text": "Tazeghdent este un sit arheologic de excavații care păstrează contururile estompate ale arhitecturii primelor așezări din sudul arid al Tunisiei.",
+                  "category": "historical",
+                  "coords": [
+                        10.527495,
+                        32.799393
+                  ]
+            },
+            {
+                  "name": "Kalaat Ouled Chehida",
+                  "text": "Ruinele Ksar Ouled Chehida constau în bolți de pământ și piatră care se prăbușesc, folosite odată pentru a depozita cereale prețioase în climatul aspru.",
+                  "category": "historical",
+                  "coords": [
+                        10.486887,
+                        32.774609
+                  ]
+            },
+            {
+                  "name": "Ksar Abdelsied",
+                  "text": "Ksar Abdelsied este un hambar istoric ruinat, ai cărui pereți decăzuți din chirpici se contopesc încet înapoi în peisajul deșertic.",
+                  "category": "historical",
+                  "coords": [
+                        10.481408,
+                        32.80751
+                  ]
+            },
+            {
+                  "name": "Ksar Mnar",
+                  "text": "Ruinele Ksar Mnar stau ca o mărturie tăcută a istoriei structurilor de depozitare fortificate pe vârfuri de deal din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        10.473545,
+                        32.810371
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Ziri",
+                  "text": "Ruinele Ksar Bou Ziri constau în chilii de piatră dărăpănate, unde nomazii locali își asigurau odată proviziile de hrană de la prădători.",
+                  "category": "historical",
+                  "coords": [
+                        10.455049,
+                        32.809533
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa ruines 02",
+                  "text": "Ruinele Djebel Grimissa 02 reprezintă un sit arheologic cu rămășițele unei vechi fortărețe montane pe creasta aridă.",
+                  "category": "historical",
+                  "coords": [
+                        10.600576,
+                        32.757683
+                  ]
+            },
+            {
+                  "name": "Ksar Sodra",
+                  "text": "Ksar Sodra este un hambar deșertic parțial ruinat, unde ghorfele distinctive cu mai multe niveluri au cedat parțial elementelor naturii.",
+                  "category": "historical",
+                  "coords": [
+                        10.454708,
+                        32.793461
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa - ksar ruines 01",
+                  "text": "Primul sit ruinat al ksarului Djebel Grimissa oferă vederi ample asupra câmpiilor din jur dinspre rămășițele zidurilor sale fortificate din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        10.598876,
+                        32.800204
+                  ]
+            },
+            {
+                  "name": "Ksar Daghra",
+                  "text": "Ksar Daghra este o structură fortificată abandonată, a cărei arhitectură de cărămidă de noroi erodată este caracteristică siturilor antice de depozitare berbere.",
+                  "category": "historical",
+                  "coords": [
+                        10.467715,
+                        32.847763
+                  ]
+            },
+            {
+                  "name": "Ksar Aouadid",
+                  "text": "Ruinele Ksar Aouadid prezintă celulele prăbușite ale unui depozit istoric de cereale care a deservit comunitățile agrare din jur.",
+                  "category": "historical",
+                  "coords": [
+                        10.471082,
+                        32.854786
+                  ]
+            },
+            {
+                  "name": "Ksar Bir El Ammar",
+                  "text": "Ksar Bir El Ammar este un sit arheologic centrat în jurul rămășițelor unei structuri fortificate de lângă un vechi puț de deșert.",
+                  "category": "historical",
+                  "coords": [
+                        10.501247,
+                        32.828221
+                  ]
+            },
+            {
+                  "name": "Oued Beni Said ruines",
+                  "text": "Situl arheologic Oued Beni Said conține rămășițele erodate ale unei vechi așezări situate de-a lungul albiei uscate a unui râu.",
+                  "category": "historical",
+                  "coords": [
+                        10.48692,
+                        32.825744
+                  ]
+            },
+            {
+                  "name": "Ksar El Maztouria",
+                  "text": "Ruinele Ksar El Maztouria prezintă arhitectura de pământ în erodare a unui hambar fortificat construit pentru a rezista căldurii intense a deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        10.468287,
+                        32.841316
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha",
+                  "text": "Ksar Rodha se află în ruine, zidurile sale prăbușite oferind o amintire dură a condițiilor de mediu aspre din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        10.563465,
+                        32.820816
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Said",
+                  "text": "Ruinele Ksar Ouled Said cuprind o serie de bolți degradate din piatră și lut, cândva vitale pentru conservarea alimentelor locale.",
+                  "category": "historical",
+                  "coords": [
+                        10.559356,
+                        32.797666
+                  ]
+            },
+            {
+                  "name": "Ksar Kedima",
+                  "text": "Ksar Kedima este un complex istoric ruinat, unde resturile celulelor de hambar tradiționale berbere sunt încă vizibile.",
+                  "category": "historical",
+                  "coords": [
+                        10.5481,
+                        32.792514
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha ruines",
+                  "text": "Rămășițele arheologice de la Ksar Rodha conturează pietrele de temelie ale unui hambar tribal odată puternic fortificat.",
+                  "category": "historical",
+                  "coords": [
+                        10.561991,
+                        32.821158
+                  ]
+            },
+            {
+                  "name": "Ksar Ezzahra ruines",
+                  "text": "Ksar Ezzahra este un sit arheologic care expune rămășițele fărâmițate de noroi și piatră ale unei fortărețe tradiționale de depozitare din Sahara.",
+                  "category": "historical",
+                  "coords": [
+                        10.567441,
+                        32.816864
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun ruines 02",
+                  "text": "Situl arheologic Hassi b. Zitoun conține rămășițele împrăștiate ale structurilor istorice construite lângă o sursă vitală de apă din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        10.583704,
+                        32.816533
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun",
+                  "text": "Hassi b. Zitoun este o zonă arheologică neexcavată care păstrează urmele fundamentale ale unei comunități care a prosperat în jurul fântânii locale.",
+                  "category": "historical",
+                  "coords": [
+                        10.585952,
+                        32.81713
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Yekhzer",
+                  "text": "Rămășițele Ksar Beni Yekhzer reprezintă un fost grânar tradițional fortificat berber din peisajul arid de lângă Ksar Ouled Soltane.",
+                  "category": "historical",
+                  "coords": [
+                        10.578807,
+                        32.851112
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Harida",
+                  "text": "Ruinele de piatră ale Ksar Bou Harida oferă o privire asupra rețelelor istorice de grânare fortificate din deșert ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        10.559444,
+                        32.868604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ksar Ouled Soltane",
+                  "text": "Ksar Ouled Soltane is a spectacularly preserved, multi-level fortified granary featuring distinctive vaulted ghorfas built by the local Berber communities.",
+                  "category": "landmark",
+                  "coords": [
+                        10.514864,
+                        32.788402
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "These unnamed archaeological ruins near Ksar Ouled Soltane preserve the foundational stones of former desert dwellings.",
+                  "category": "historical",
+                  "coords": [
+                        10.44649,
+                        32.836009
+                  ]
+            },
+            {
+                  "name": "Ksar Maaned",
+                  "text": "Ksar Maaned is an archaeological site encompassing the decayed structures of what was once a vital fortified storage facility in the region.",
+                  "category": "historical",
+                  "coords": [
+                        10.514773,
+                        32.827538
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Chehida ruines",
+                  "text": "The archaeological remains of Ksar Ouled Chehida reveal the layout of a historic desert granary worn down by centuries of Saharan winds.",
+                  "category": "historical",
+                  "coords": [
+                        10.472021,
+                        32.794558
+                  ]
+            },
+            {
+                  "name": "Ksar Missaoui",
+                  "text": "Ksar Missaoui features the archaeological traces of an ancient mud and stone citadel that safeguarded the harvest of local tribes.",
+                  "category": "historical",
+                  "coords": [
+                        10.512939,
+                        32.797789
+                  ]
+            },
+            {
+                  "name": "Tazeghdent",
+                  "text": "Tazeghdent is an archaeological excavation site preserving the faint outlines of early settlement architecture in the arid Tunisian south.",
+                  "category": "historical",
+                  "coords": [
+                        10.527495,
+                        32.799393
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Chehida",
+                  "text": "The ruins of Ksar Ouled Chehida consist of crumbling earthen and stone vaults once used to store precious grain in the harsh climate.",
+                  "category": "historical",
+                  "coords": [
+                        10.486887,
+                        32.774609
+                  ]
+            },
+            {
+                  "name": "Ksar Abdelsied",
+                  "text": "Ksar Abdelsied is a ruined historical granary whose decaying adobe walls slowly blend back into the desert landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.481408,
+                        32.80751
+                  ]
+            },
+            {
+                  "name": "Ksar Mnar",
+                  "text": "The ruins of Ksar Mnar stand as a silent testament to the region's history of fortified hilltop storage structures.",
+                  "category": "historical",
+                  "coords": [
+                        10.473545,
+                        32.810371
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Ziri",
+                  "text": "Ksar Bou Ziri's ruins consist of dilapidated stone cells where local nomads once secured their food supplies from raiders.",
+                  "category": "historical",
+                  "coords": [
+                        10.455049,
+                        32.809533
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa ruines 02",
+                  "text": "Djebel Grimissa ruines 02 is an archaeological site featuring the remains of an ancient mountain stronghold on the arid ridge.",
+                  "category": "historical",
+                  "coords": [
+                        10.600576,
+                        32.757683
+                  ]
+            },
+            {
+                  "name": "Ksar Sodra",
+                  "text": "Ksar Sodra is a partially ruined desert granary where the distinctive multi-level ghorfas have partially succumbed to the elements.",
+                  "category": "historical",
+                  "coords": [
+                        10.454708,
+                        32.793461
+                  ]
+            },
+            {
+                  "name": "Djebel Grimissa - ksar ruines 01",
+                  "text": "Djebel Grimissa's first ruined ksar site offers sweeping views of the surrounding plains from the remnants of its fortified stone walls.",
+                  "category": "historical",
+                  "coords": [
+                        10.598876,
+                        32.800204
+                  ]
+            },
+            {
+                  "name": "Ksar Daghra",
+                  "text": "Ksar Daghra is an abandoned fortified structure whose eroding mud-brick architecture is characteristic of ancient Berber storage sites.",
+                  "category": "historical",
+                  "coords": [
+                        10.467715,
+                        32.847763
+                  ]
+            },
+            {
+                  "name": "Ksar Aouadid",
+                  "text": "The ruins of Ksar Aouadid feature the collapsed cells of a historic grain storehouse that served the surrounding agrarian communities.",
+                  "category": "historical",
+                  "coords": [
+                        10.471082,
+                        32.854786
+                  ]
+            },
+            {
+                  "name": "Ksar Bir El Ammar",
+                  "text": "Ksar Bir El Ammar is an archaeological site centered around the remains of a fortified structure near a historic desert well.",
+                  "category": "historical",
+                  "coords": [
+                        10.501247,
+                        32.828221
+                  ]
+            },
+            {
+                  "name": "Oued Beni Said ruines",
+                  "text": "The Oued Beni Said archaeological site contains the weathered remains of an ancient settlement situated along a dry riverbed.",
+                  "category": "historical",
+                  "coords": [
+                        10.48692,
+                        32.825744
+                  ]
+            },
+            {
+                  "name": "Ksar El Maztouria",
+                  "text": "The ruins of Ksar El Maztouria feature the eroding earthen architecture of a fortified granary built to withstand the intense desert heat.",
+                  "category": "historical",
+                  "coords": [
+                        10.468287,
+                        32.841316
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha",
+                  "text": "Ksar Rodha lies in ruins, its collapsed walls offering a stark reminder of the harsh environmental conditions of the region.",
+                  "category": "historical",
+                  "coords": [
+                        10.563465,
+                        32.820816
+                  ]
+            },
+            {
+                  "name": "Ksar Ouled Said",
+                  "text": "The ruins of Ksar Ouled Said comprise a series of degraded stone and clay vaults once vital for local food preservation.",
+                  "category": "historical",
+                  "coords": [
+                        10.559356,
+                        32.797666
+                  ]
+            },
+            {
+                  "name": "Ksar Kedima",
+                  "text": "Ksar Kedima is a ruined historical complex where the remnants of traditional Berber granary cells are still visible.",
+                  "category": "historical",
+                  "coords": [
+                        10.5481,
+                        32.792514
+                  ]
+            },
+            {
+                  "name": "Ksar Rodha ruines",
+                  "text": "The archaeological remains at Ksar Rodha outline the foundational stones of a once heavily fortified tribal granary.",
+                  "category": "historical",
+                  "coords": [
+                        10.561991,
+                        32.821158
+                  ]
+            },
+            {
+                  "name": "Ksar Ezzahra ruines",
+                  "text": "Ksar Ezzahra is an archaeological site exhibiting the crumbling mud and stone remains of a traditional Saharan storage fortress.",
+                  "category": "historical",
+                  "coords": [
+                        10.567441,
+                        32.816864
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun ruines 02",
+                  "text": "The Hassi b. Zitoun archaeological site contains the scattered remnants of historical structures built near a vital desert water source.",
+                  "category": "historical",
+                  "coords": [
+                        10.583704,
+                        32.816533
+                  ]
+            },
+            {
+                  "name": "Hassi b. Zitoun",
+                  "text": "Hassi b. Zitoun is an unexcavated archaeological area preserving the foundational traces of a community that thrived around the local well.",
+                  "category": "historical",
+                  "coords": [
+                        10.585952,
+                        32.81713
+                  ]
+            },
+            {
+                  "name": "Ksar Beni Yekhzer",
+                  "text": "The remains of Ksar Beni Yekhzer represent a traditional Berber fortified granary set in the arid landscape near Ksar Ouled Soltane.",
+                  "category": "historical",
+                  "coords": [
+                        10.578807,
+                        32.851112
+                  ]
+            },
+            {
+                  "name": "Ksar Bou Harida",
+                  "text": "The stone ruins of Ksar Bou Harida offer a glimpse into the region's historical networks of fortified desert granaries.",
+                  "category": "historical",
+                  "coords": [
+                        10.559444,
+                        32.868604
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "TN-83",
     coords: [10.5147, 32.7883],

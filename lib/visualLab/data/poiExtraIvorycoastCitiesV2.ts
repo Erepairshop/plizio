@@ -1219,7 +1219,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "man-cities-v2",
+    id: "man-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cercle de Man",
+                  "text": "Der Cercle de Man ist ein historisches Denkmal im städtischen Umfeld von Man.",
+                  "category": "historical",
+                  "coords": [
+                        -7.552627,
+                        7.408128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cercle de Man",
+                  "text": "A Cercle de Man egy történelmi emlékmű Man városi környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.552627,
+                        7.408128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cercle de Man",
+                  "text": "Cercle de Man este un monument istoric situat în mediul urban din Man.",
+                  "category": "historical",
+                  "coords": [
+                        -7.552627,
+                        7.408128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cercle de Man",
+                  "text": "Cercle de Man is a historic monument located in the urban setting of Man.",
+                  "category": "historical",
+                  "coords": [
+                        -7.552627,
+                        7.408128
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-MT",
     coords: [-7.5538, 7.4125],
@@ -1621,7 +1666,124 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "grand-bassam-cities-v2",
+    id: "grand-bassam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Filet Bleu",
+                  "text": "Ein entspannendes Küsten-Strandresort, das Freizeitaktivitäten am Meer und Sandstrände bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.765095,
+                        5.19966
+                  ]
+            },
+            {
+                  "name": "Conteneur orange",
+                  "text": "Ein markant bemalter orangefarbener Schiffscontainer, der zu einem unkonventionellen modernen Denkmal umfunktioniert wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -3.752984,
+                        5.219347
+                  ]
+            },
+            {
+                  "name": "Monument des femmes battantes de Grand Bassam",
+                  "text": "Ein Gedenkmonument, das dem historischen Marsch und der Tapferkeit der Frauen von Grand Bassam gegen die Kolonialherrschaft gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735382,
+                        5.206774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Filet Bleu",
+                  "text": "Pihentető tengerparti üdülőhely, amely tengerparti szabadidős tevékenységeket és homokos partokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.765095,
+                        5.19966
+                  ]
+            },
+            {
+                  "name": "Conteneur orange",
+                  "text": "Egy jellegzetes narancssárgára festett hajózási konténer, amelyet nem szokványos modern emlékműként alakítottak át.",
+                  "category": "historical",
+                  "coords": [
+                        -3.752984,
+                        5.219347
+                  ]
+            },
+            {
+                  "name": "Monument des femmes battantes de Grand Bassam",
+                  "text": "Emlékmű, amelyet a történelmi menetnek és Grand Bassam asszonyai gyarmati uralom elleni bátorságának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735382,
+                        5.206774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Filet Bleu",
+                  "text": "O stațiune de plajă relaxantă pe coastă, care oferă activități de agrement pe litoral și țărmuri nisipoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.765095,
+                        5.19966
+                  ]
+            },
+            {
+                  "name": "Conteneur orange",
+                  "text": "Un container de transport vopsit distinctiv în portocaliu, reprofilat ca un monument modern neconvențional.",
+                  "category": "historical",
+                  "coords": [
+                        -3.752984,
+                        5.219347
+                  ]
+            },
+            {
+                  "name": "Monument des femmes battantes de Grand Bassam",
+                  "text": "Un monument memorial dedicat marșului istoric și curajului femeilor din Grand Bassam împotriva dominației coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735382,
+                        5.206774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Filet Bleu",
+                  "text": "A relaxing coastal beach resort providing seaside leisure activities and sandy shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.765095,
+                        5.19966
+                  ]
+            },
+            {
+                  "name": "Conteneur orange",
+                  "text": "A distinctively painted orange shipping container repurposed as an unconventional modern monument.",
+                  "category": "historical",
+                  "coords": [
+                        -3.752984,
+                        5.219347
+                  ]
+            },
+            {
+                  "name": "Monument des femmes battantes de Grand Bassam",
+                  "text": "A memorial monument dedicated to the historic march and bravery of the women of Grand Bassam against colonial rule.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735382,
+                        5.206774
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-CM",
     coords: [-3.7388, 5.2023],
@@ -3265,7 +3427,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "tabou-cities-v2",
+    id: "tabou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Tabou",
+                  "text": "Der Leuchtturm von Tabou ist ein Küstennavigationsturm, der den Seeverkehr entlang der felsigen westafrikanischen Küste geleitet hat.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.35764,
+                        4.409204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Tabou",
+                  "text": "A Tabou-világítótorony egy parti navigációs torony, amely a tengeri forgalmat irányította a sziklás nyugat-afrikai partvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.35764,
+                        4.409204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Tabou",
+                  "text": "Farul Tabou este un turn de navigație de coastă care a ghidat traficul maritim de-a lungul țărmului stâncos din Africa de Vest.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.35764,
+                        4.409204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tabou Lighthouse",
+                  "text": "The Tabou Lighthouse is a coastal navigation tower that has guided maritime traffic along the rocky West African shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.35764,
+                        4.409204
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-BS",
     coords: [-7.3628, 4.4228],

@@ -229,7 +229,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai királyi vár",
-                  "text": "Die Ruinen einer ehemaligen königlichen Burg in Óbuda.",
+                  "text": "Die Óbudai királyi vár (Königliche Burg von Óbuda) sind die Ruinen einer Burg aus dem frühen 13. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         19.041882,
@@ -283,7 +283,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "Ein Standort der Scientology-Kirche in Óbuda.",
+                  "text": "Das Zentrale Organ der Kirche der Scientology in Óbuda wurde am 23. Juli 2016 eröffnet.",
                   "category": "religious",
                   "coords": [
                         19.074823,
@@ -301,7 +301,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-kápolna",
-                  "text": "Eine historische Kirche des Prämonstratenserordens in Óbuda.",
+                  "text": "Eine von Lux Kálmán entworfene Prämonstratenserkirche in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.051577,
@@ -310,7 +310,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tours-i Szent Márton-templom",
-                  "text": "Eine Kirche in Óbuda, die dem Heiligen Martin von Tours gewidmet ist.",
+                  "text": "Eine 1985 von Szabó István erbaute Kirche in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.069408,
@@ -319,7 +319,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pozsonyi úti református templom",
-                  "text": "Eine reformierte Kirche an der Pozsonyi-Straße in Óbuda.",
+                  "text": "Die reformierte Kirche an der Pozsonyi út wurde 1940 erbaut.",
                   "category": "religious",
                   "coords": [
                         19.052964,
@@ -328,7 +328,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Frankel Leó úti zsinagóga",
-                  "text": "Eine Synagoge an der Frankel-Leó-Straße in Óbuda.",
+                  "text": "Eine 1888 von Fellner Sándor entworfene Synagoge in der Frankel Leó utca.",
                   "category": "religious",
                   "coords": [
                         19.037559,
@@ -337,7 +337,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sarlós Boldogasszony-templom",
-                  "text": "Eine römisch-katholische Pfarrkirche in Óbuda.",
+                  "text": "Die Sarlós Boldogasszony-templom (Mariä Heimsuchung) in Óbuda ist ein denkmalgeschütztes Gebäude (Grad 2).",
                   "category": "religious",
                   "coords": [
                         19.037093,
@@ -391,7 +391,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Lehel Csarnok",
-                  "text": "Eine große und lebhafte Markthalle in Óbuda.",
+                  "text": "Die Lehel Csarnok, eine Markthalle, wurde am 8. Februar 2002 eröffnet.",
                   "category": "landmark",
                   "coords": [
                         19.06137,
@@ -544,7 +544,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szépvölgyi úti körmeneti kápolna",
-                  "text": "Szépvölgyi úti körmeneti kápolna ist eine Kapelle in Óbuda.",
+                  "text": "Eine denkmalgeschützte Prozessionskapelle von 1854, entworfen von Knabe Ignác.",
                   "category": "religious",
                   "coords": [
                         19.033073,
@@ -888,7 +888,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai királyi vár",
-                  "text": "Egy egykori királyi vár romjai Óbudán.",
+                  "text": "Az Óbudai királyi vár a 13. század elején épült királyi vár romjai.",
                   "category": "historical",
                   "coords": [
                         19.041882,
@@ -942,7 +942,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "A Szcientológia Egyház egyik helyszíne Óbudán.",
+                  "text": "A Szcientológia Egyház Központi Szervezete Óbudán 2016. július 23-án nyílt meg.",
                   "category": "religious",
                   "coords": [
                         19.074823,
@@ -960,7 +960,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-kápolna",
-                  "text": "A premontrei rend történelmi temploma Óbudán.",
+                  "text": "Lux Kálmán által tervezett premontrei templom Óbudán.",
                   "category": "religious",
                   "coords": [
                         19.051577,
@@ -969,7 +969,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tours-i Szent Márton-templom",
-                  "text": "Egy templom Óbudán, amelyet Tours-i Szent Mártonnak szenteltek.",
+                  "text": "Szabó István által 1985-ben épített templom Óbudán.",
                   "category": "religious",
                   "coords": [
                         19.069408,
@@ -978,7 +978,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pozsonyi úti református templom",
-                  "text": "Egy református templom a Pozsonyi úton Óbudán.",
+                  "text": "A Pozsonyi úti református templom 1940-ben épült.",
                   "category": "religious",
                   "coords": [
                         19.052964,
@@ -987,7 +987,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Frankel Leó úti zsinagóga",
-                  "text": "Egy zsinagóga a Frankel Leó úton Óbudán.",
+                  "text": "Fellner Sándor által 1888-ban tervezett zsinagóga a Frankel Leó úton.",
                   "category": "religious",
                   "coords": [
                         19.037559,
@@ -996,7 +996,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sarlós Boldogasszony-templom",
-                  "text": "Egy római katolikus plébániatemplom Óbudán.",
+                  "text": "A Sarlós Boldogasszony-templom Óbudán műemlék (2. fokozat).",
                   "category": "religious",
                   "coords": [
                         19.037093,
@@ -1050,7 +1050,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Lehel Csarnok",
-                  "text": "Egy nagy és forgalmas vásárcsarnok Óbudán.",
+                  "text": "A Lehel Csarnok 2002. február 8-án nyílt meg.",
                   "category": "landmark",
                   "coords": [
                         19.06137,
@@ -1203,7 +1203,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szépvölgyi úti körmeneti kápolna",
-                  "text": "A Szépvölgyi úti körmeneti kápolna Óbudán található.",
+                  "text": "Knabe Ignác által 1854-ben tervezett, védett körmeneti kápolna.",
                   "category": "religious",
                   "coords": [
                         19.033073,
@@ -1547,7 +1547,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai királyi vár",
-                  "text": "Ruinele unui fost castel regal în Óbuda.",
+                  "text": "Castelul Regal din Óbuda este ruina unui castel regal de la începutul secolului al XIII-lea.",
                   "category": "historical",
                   "coords": [
                         19.041882,
@@ -1601,7 +1601,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "Un loc de cult al Bisericii Scientologice în Óbuda.",
+                  "text": "Organizația Centrală a Bisericii Scientologice din Óbuda s-a deschis pe 23 iulie 2016.",
                   "category": "religious",
                   "coords": [
                         19.074823,
@@ -1619,7 +1619,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-kápolna",
-                  "text": "O biserică istorică a ordinului premonstratensian în Óbuda.",
+                  "text": "O biserică premonstratensiană proiectată de Lux Kálmán în Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.051577,
@@ -1628,7 +1628,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tours-i Szent Márton-templom",
-                  "text": "O biserică în Óbuda dedicată Sfântului Martin de Tours.",
+                  "text": "O biserică construită în 1985 de Szabó István în Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.069408,
@@ -1637,7 +1637,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pozsonyi úti református templom",
-                  "text": "O biserică reformată pe strada Pozsonyi din Óbuda.",
+                  "text": "Biserica reformată de pe strada Pozsonyi út a fost construită în 1940.",
                   "category": "religious",
                   "coords": [
                         19.052964,
@@ -1646,7 +1646,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Frankel Leó úti zsinagóga",
-                  "text": "O sinagogă pe strada Frankel Leó din Óbuda.",
+                  "text": "O sinagogă din 1888 proiectată de Fellner Sándor pe strada Frankel Leó.",
                   "category": "religious",
                   "coords": [
                         19.037559,
@@ -1655,7 +1655,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sarlós Boldogasszony-templom",
-                  "text": "O biserică parohială romano-catolică în Óbuda.",
+                  "text": "Biserica Vizitarea Sfintei Fecioare Maria din Óbuda este o clădire protejată (gradul 2).",
                   "category": "religious",
                   "coords": [
                         19.037093,
@@ -1709,7 +1709,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Lehel Csarnok",
-                  "text": "O piață mare și plină de viață în Óbuda.",
+                  "text": "Lehel Csarnok, o hală de piață, s-a deschis pe 8 februarie 2002.",
                   "category": "landmark",
                   "coords": [
                         19.06137,
@@ -1862,7 +1862,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szépvölgyi úti körmeneti kápolna",
-                  "text": "Szépvölgyi úti körmeneti kápolna este o capelă situată în Óbuda.",
+                  "text": "O capelă de procesiune din 1854, protejată, proiectată de Knabe Ignác.",
                   "category": "religious",
                   "coords": [
                         19.033073,
@@ -2206,7 +2206,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai királyi vár",
-                  "text": "The ruins of a former royal castle in Óbuda.",
+                  "text": "Óbudai királyi vár is the ruin of a royal castle from the early 13th century.",
                   "category": "historical",
                   "coords": [
                         19.041882,
@@ -2260,7 +2260,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "A facility of the Church of Scientology in Óbuda.",
+                  "text": "The Church of Scientology Central Organization in Óbuda opened on 23 July 2016.",
                   "category": "religious",
                   "coords": [
                         19.074823,
@@ -2278,7 +2278,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Premonstratensian Church St.Michael",
-                  "text": "A historic church of the Premonstratensian order in Óbuda.",
+                  "text": "A Premonstratensian church designed by Lux Kálmán in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.051577,
@@ -2287,7 +2287,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tours-i Szent Márton-templom",
-                  "text": "A church in Óbuda dedicated to Saint Martin of Tours.",
+                  "text": "A church built in 1985, designed by Szabó István in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.069408,
@@ -2296,7 +2296,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pozsonyi úti református templom",
-                  "text": "A Reformed church on Pozsonyi Street in Óbuda.",
+                  "text": "The Reformed Church on Pozsonyi út was built in 1940.",
                   "category": "religious",
                   "coords": [
                         19.052964,
@@ -2305,7 +2305,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Frankel Leó úti zsinagóga",
-                  "text": "A synagogue on Frankel Leó Street in Óbuda.",
+                  "text": "An 1888 synagogue designed by Fellner Sándor on Frankel Leó Street.",
                   "category": "religious",
                   "coords": [
                         19.037559,
@@ -2314,7 +2314,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sarlós Boldogasszony-templom",
-                  "text": "A Roman Catholic parish church in Óbuda.",
+                  "text": "Sarlós Boldogasszony-templom (Church of the Visitation) in Óbuda is a heritage-listed building (Grade 2).",
                   "category": "religious",
                   "coords": [
                         19.037093,
@@ -2368,7 +2368,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Lehel Csarnok",
-                  "text": "A large and bustling marketplace in Óbuda.",
+                  "text": "Lehel Csarnok, a market hall, opened on 8 February 2002.",
                   "category": "landmark",
                   "coords": [
                         19.06137,
@@ -2521,7 +2521,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szépvölgyi úti körmeneti kápolna",
-                  "text": "Szépvölgyi úti körmeneti kápolna is a chapel situated in Óbuda.",
+                  "text": "A Grade II historic processional chapel from 1854 designed by Knabe Ignác.",
                   "category": "religious",
                   "coords": [
                         19.033073,

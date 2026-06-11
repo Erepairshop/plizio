@@ -47,7 +47,52 @@ export const republicofcongoHistoryV2: POI[] = [
     image: "/poi-images/republicofcongo-loango-harbor-history-v2.webp",
   },
   {
-    id: "republicofcongo-poto-poto-history-v2",
+    id: "republicofcongo-poto-poto-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amphithéâtre ENAM",
+                  "text": "Das Amphithéâtre ENAM ist ein akademischer Theatersaal, der für große Bildungsvorträge und kulturelle Präsentationen im Viertel Poto-Poto genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        15.261822,
+                        -4.266901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphithéâtre ENAM",
+                  "text": "Az Amphithéâtre ENAM egy akadémiai színházterem, amelyet nagyobb oktatási előadások és kulturális bemutatók céljára használnak a Poto-Poto negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.261822,
+                        -4.266901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amphithéâtre ENAM",
+                  "text": "Amfiteatrul ENAM este un teatru academic folosit pentru prelegeri educaționale majore și prezentări culturale în districtul Poto-Poto.",
+                  "category": "cultural",
+                  "coords": [
+                        15.261822,
+                        -4.266901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amphithéâtre ENAM",
+                  "text": "The Amphithéâtre ENAM is an academic theater venue used for major educational lectures and cultural presentations in the Poto-Poto district.",
+                  "category": "cultural",
+                  "coords": [
+                        15.261822,
+                        -4.266901
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Poto-Poto historisches Viertel", hu: "Poto-Poto történelmi negyed", ro: "Cartierul istoric Poto-Poto", en: "Poto-Poto historic quarter" },
     coords: [15.26, -4.26],

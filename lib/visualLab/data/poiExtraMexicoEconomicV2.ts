@@ -1042,7 +1042,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Parque La Mexicana",
-                  "text": "Der Parque La Mexicana ist ein großer Stadtpark in Santa Fe.",
+                  "text": "Parque La Mexicana in Santa Fe, 2017 eröffnet, mit See und Sportanlagen.",
                   "category": "park",
                   "coords": [
                         -99.271579,
@@ -1341,7 +1341,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Parque La Mexicana",
-                  "text": "A Parque La Mexicana egy nagy városi park Santa Fében.",
+                  "text": "Parque La Mexicana Santa Fe-ben, 2017-ben nyílt meg, tóval és sportlétesítményekkel.",
                   "category": "park",
                   "coords": [
                         -99.271579,
@@ -1640,7 +1640,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Parque La Mexicana",
-                  "text": "Parque La Mexicana este un mare parc urban în Santa Fe.",
+                  "text": "Parque La Mexicana în Santa Fe, deschis în 2017, cu lac și facilități sportive.",
                   "category": "park",
                   "coords": [
                         -99.271579,
@@ -1939,7 +1939,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Parque La Mexicana",
-                  "text": "Parque La Mexicana is a large urban park in Santa Fe.",
+                  "text": "Parque La Mexicana in Santa Fe district, opened in 2017, with an artificial lake and sports facilities.",
                   "category": "park",
                   "coords": [
                         -99.271579,

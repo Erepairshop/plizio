@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSudanLifeV2: POI[] = [
   {
-    id: "sudan-national-zoo-life-v2",
+    id: "sudan-national-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atanye",
+                  "text": "Eine lokale Kunstgalerie in der Nähe des ehemaligen sudanesischen Nationalzoos.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "Ein Museum zur Geschichte des Präsidentenpalastes in der Nähe des ehemaligen Nationalzoos.",
+                  "category": "museum",
+                  "coords": [
+                        32.528692,
+                        15.607966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atanye",
+                  "text": "Egy helyi művészeti galéria a korábbi Szudáni Nemzeti Állatkert területének közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "Az elnöki történelemmel foglalkozó múzeum a korábbi Szudáni Nemzeti Állatkert közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.528692,
+                        15.607966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atanye",
+                  "text": "O galerie de artă locală situată în apropierea fostei grădini zoologice naționale a Sudanului.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "Un muzeu care expune istoria prezidențială, situat lângă fosta grădină zoologică națională a Sudanului.",
+                  "category": "museum",
+                  "coords": [
+                        32.528692,
+                        15.607966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atanye",
+                  "text": "A local art gallery situated near the former Sudan National Zoo area.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "A museum exhibiting presidential history located near the former Sudan National Zoo.",
+                  "category": "museum",
+                  "coords": [
+                        32.528692,
+                        15.607966
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SD-NR",
     coords: [32.53, 15.61],
@@ -179,7 +260,88 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "khartoum-botanic-garden-life-v2",
+    id: "khartoum-botanic-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Military Museum",
+                  "text": "Ein Museum in der Nähe des Botanischen Gartens von Khartum, das die sudanesische Militärgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "Aboud Theme Park",
+                  "text": "Ein Vergnügungspark mit Familienfahrgeschäften in der Nähe des Botanischen Gartens von Khartum.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540618,
+                        15.626319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Military Museum",
+                  "text": "A szudáni hadtörténetet bemutató múzeum a Kartúmi Botanikus Kert közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "Aboud Theme Park",
+                  "text": "Családi vidámpark a Kartúmi Botanikus Kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540618,
+                        15.626319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Military Museum",
+                  "text": "Un muzeu care prezintă istoria militară sudaneză lângă Grădina Botanică din Khartoum.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "Aboud Theme Park",
+                  "text": "Un parc de distracții cu atracții pentru familii, situat lângă Grădina Botanică din Khartoum.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540618,
+                        15.626319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Military Museum",
+                  "text": "A museum showcasing Sudanese military history near the Khartoum Botanic Garden.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "Aboud Theme Park",
+                  "text": "An amusement park offering family rides near the Khartoum Botanic Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540618,
+                        15.626319
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SD-NR",
     coords: [32.54, 15.62],
@@ -311,7 +473,52 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "suakin-archipelago-life-v2",
+    id: "suakin-archipelago-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Hadab Museum",
+                  "text": "Das Abu-Hadab-Museum zeigt osmanische Architekturfragmente und maritime Relikte aus der historischen Geschichte des Suakin-Archipels.",
+                  "category": "museum",
+                  "coords": [
+                        37.287306,
+                        19.098885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Hadab Museum",
+                  "text": "Az Abu Hadab Múzeum oszmán építészeti töredékeket és tengerészeti relikviákat mutat be a Suakin-szigetcsoport történelmi múltjából.",
+                  "category": "museum",
+                  "coords": [
+                        37.287306,
+                        19.098885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Hadab Museum",
+                  "text": "Muzeul Abu Hadab expune fragmente de arhitectură otomană și relicve maritime din istoria Arhipelagului Suakin.",
+                  "category": "museum",
+                  "coords": [
+                        37.287306,
+                        19.098885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Hadab Museum",
+                  "text": "The Abu Hadab Museum showcases Ottoman architectural fragments and maritime relics from the historical past of the Suakin Archipelago.",
+                  "category": "museum",
+                  "coords": [
+                        37.287306,
+                        19.098885
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SD-RS",
     coords: [37.3, 19.1],
@@ -355,7 +562,88 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "khartoum-amusement-park-life-v2",
+    id: "khartoum-amusement-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "home",
+                  "text": "Ein lokaler Aussichtspunkt mit Blick auf die belebte städtische Umgebung und die Vergnügungsviertel von Khartum.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "Kantara Theme Park",
+                  "text": "Ein dynamischer Freizeitpark in Khartum, der verschiedene Fahrgeschäfte und Freizeiteinrichtungen für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.577111,
+                        15.621387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "home",
+                  "text": "Helyi kilátó, ahonnan kilátás nyílik Kartúm nyüzsgő városi környezetére és vidámparkjaira.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "Kantara Theme Park",
+                  "text": "Egy energikus vidámpark Kartúmban, amely különféle utazásokkal és rekreációs lehetőségekkel várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        32.577111,
+                        15.621387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "home",
+                  "text": "Un punct de belvedere local care oferă vederi asupra mediului urban plin de viață și a zonelor de agrement din Khartoum.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "Kantara Theme Park",
+                  "text": "Un parc de distracții energic din Khartoum, oferind diverse atracții și facilități de recreere pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        32.577111,
+                        15.621387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "home",
+                  "text": "A local vantage point offering views over the lively urban environment and amusement areas of Khartoum.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "Kantara Theme Park",
+                  "text": "An energetic amusement park in Khartoum featuring various rides and recreational facilities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        32.577111,
+                        15.621387
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SD-NR",
     coords: [32.55, 15.63],
@@ -399,7 +687,52 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "jebel-marra-agriculture-life-v2",
+    id: "jebel-marra-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deriba Caldera",
+                  "text": "Die hochgelegene Deriba-Caldera bildet einen markanten vulkanischen Gipfel in der Region jebel-marra-agriculture-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        24.235876,
+                        12.937818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deriba Caldera",
+                  "text": "A magasan fekvő Deriba-kaldera egy feltűnő vulkáni csúcsot alkot a jebel-marra-agriculture-life-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        24.235876,
+                        12.937818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deriba Caldera",
+                  "text": "Caldera vulcanică înaltă Deriba formează un vârf proeminent în regiunea jebel-marra-agriculture-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        24.235876,
+                        12.937818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deriba Caldera",
+                  "text": "The high-altitude Deriba Caldera forms a striking volcanic peak in the jebel-marra-agriculture-life-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        24.235876,
+                        12.937818
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SD-RS",
     coords: [24.26, 12.95],
@@ -531,7 +864,88 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "dinder-eco-lodge-life-v2",
+    id: "dinder-eco-lodge-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dinder National Park Boundary Gate- Al Sineit",
+                  "text": "Der Zugangspunkt zu einem riesigen Savannen-Nationalpark im Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        34.849236,
+                        12.761383
+                  ]
+            },
+            {
+                  "name": "Dinder National Park boundary gate",
+                  "text": "Ein offizieller Zugangspunkt in die geschützte Tiersavanne von Dinder.",
+                  "category": "landmark",
+                  "coords": [
+                        34.812243,
+                        12.798963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinder National Park Boundary Gate- Al Sineit",
+                  "text": "A szudáni szavanna hatalmas nemzeti parkjának belépési pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.849236,
+                        12.761383
+                  ]
+            },
+            {
+                  "name": "Dinder National Park boundary gate",
+                  "text": "A Dinder vadvédelmi szavannájának hivatalos belépési pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.812243,
+                        12.798963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinder National Park Boundary Gate- Al Sineit",
+                  "text": "Punctul de acces către un vast parc național de savană din Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        34.849236,
+                        12.761383
+                  ]
+            },
+            {
+                  "name": "Dinder National Park boundary gate",
+                  "text": "Un punct oficial de intrare în savana protejată plină de animale sălbatice din Dinder.",
+                  "category": "landmark",
+                  "coords": [
+                        34.812243,
+                        12.798963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinder National Park Boundary Gate- Al Sineit",
+                  "text": "The access gate leading into a vast savanna national park in Sudan.",
+                  "category": "landmark",
+                  "coords": [
+                        34.849236,
+                        12.761383
+                  ]
+            },
+            {
+                  "name": "Dinder National Park boundary gate",
+                  "text": "An official entry point into the protected wildlife savanna of Dinder National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        34.812243,
+                        12.798963
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "SD-SI",
     coords: [34.8, 12.8],
@@ -751,7 +1165,196 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "blue-nile-fishing-villiage-life-v2",
+    id: "blue-nile-fishing-villiage-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moh. Motassim House",
+                  "text": "Ein Aussichtspunkt in einem Wohngebiet in der Nähe des Fischerdorfes am Blauen Nil.",
+                  "category": "natural",
+                  "coords": [
+                        32.576712,
+                        15.506211
+                  ]
+            },
+            {
+                  "name": "jamal mazeh",
+                  "text": "Ein schlossähnliches Gebäude in der Nähe des Fischerdorfes am Blauen Nil.",
+                  "category": "castle",
+                  "coords": [
+                        32.58988,
+                        15.534839
+                  ]
+            },
+            {
+                  "name": "DK LAB",
+                  "text": "Ein markanter Aussichtspunkt in der Nähe des Fischerdorfes am Blauen Nil.",
+                  "category": "natural",
+                  "coords": [
+                        32.583045,
+                        15.536358
+                  ]
+            },
+            {
+                  "name": "Sadam",
+                  "text": "Ein lokaler Aussichtspunkt mit Blick auf das Leben im Fischerdorf am Blauen Nil.",
+                  "category": "natural",
+                  "coords": [
+                        32.592933,
+                        15.542109
+                  ]
+            },
+            {
+                  "name": "Khartoum International Community School Theatre",
+                  "text": "Ein Schultheater, in dem Gemeinschaftsaufführungen in der Nähe des Fischerdorfes am Blauen Nil stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58522,
+                        15.533599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moh. Motassim House",
+                  "text": "Egy lakóövezeti kilátópont a Kék-Nílus halászfalujának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        32.576712,
+                        15.506211
+                  ]
+            },
+            {
+                  "name": "jamal mazeh",
+                  "text": "Kastélyszerű építmény a Kék-Nílus halászfalujának közelében.",
+                  "category": "castle",
+                  "coords": [
+                        32.58988,
+                        15.534839
+                  ]
+            },
+            {
+                  "name": "DK LAB",
+                  "text": "Különleges kilátópont a Kék-Nílus halászfaluja közelében.",
+                  "category": "natural",
+                  "coords": [
+                        32.583045,
+                        15.536358
+                  ]
+            },
+            {
+                  "name": "Sadam",
+                  "text": "Egy helyi kilátópont, ahonnan a Kék-Nílus halászfalujának életére nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        32.592933,
+                        15.542109
+                  ]
+            },
+            {
+                  "name": "Khartoum International Community School Theatre",
+                  "text": "Egy iskolai színház, amely közösségi előadásoknak ad otthont a Kék-Nílus halászfalujának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58522,
+                        15.533599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moh. Motassim House",
+                  "text": "Un punct de observație rezidențial lângă zona satului de pescari de pe Nilul Albastru.",
+                  "category": "natural",
+                  "coords": [
+                        32.576712,
+                        15.506211
+                  ]
+            },
+            {
+                  "name": "jamal mazeh",
+                  "text": "O structură asemănătoare unui castel situată lângă satul de pescari de pe Nilul Albastru.",
+                  "category": "castle",
+                  "coords": [
+                        32.58988,
+                        15.534839
+                  ]
+            },
+            {
+                  "name": "DK LAB",
+                  "text": "Un punct de observație distinct situat lângă satul de pescari de pe Nilul Albastru.",
+                  "category": "natural",
+                  "coords": [
+                        32.583045,
+                        15.536358
+                  ]
+            },
+            {
+                  "name": "Sadam",
+                  "text": "Un punct de belvedere local cu vedere la viața din satul de pescari de pe Nilul Albastru.",
+                  "category": "natural",
+                  "coords": [
+                        32.592933,
+                        15.542109
+                  ]
+            },
+            {
+                  "name": "Khartoum International Community School Theatre",
+                  "text": "Un teatru școlar care găzduiește spectacole comunitare lângă satul de pescari de pe Nilul Albastru.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58522,
+                        15.533599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moh. Motassim House",
+                  "text": "A residential viewpoint near the Blue Nile fishing village area.",
+                  "category": "natural",
+                  "coords": [
+                        32.576712,
+                        15.506211
+                  ]
+            },
+            {
+                  "name": "jamal mazeh",
+                  "text": "A castle-like structure standing near the Blue Nile fishing village.",
+                  "category": "castle",
+                  "coords": [
+                        32.58988,
+                        15.534839
+                  ]
+            },
+            {
+                  "name": "DK LAB",
+                  "text": "A distinct vantage point located near the Blue Nile fishing village.",
+                  "category": "natural",
+                  "coords": [
+                        32.583045,
+                        15.536358
+                  ]
+            },
+            {
+                  "name": "Sadam",
+                  "text": "A local viewpoint overlooking the Blue Nile fishing village life.",
+                  "category": "natural",
+                  "coords": [
+                        32.592933,
+                        15.542109
+                  ]
+            },
+            {
+                  "name": "Khartoum International Community School Theatre",
+                  "text": "A school theatre hosting community performances near the Blue Nile fishing village.",
+                  "category": "cultural",
+                  "coords": [
+                        32.58522,
+                        15.533599
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SD-NR",
     coords: [32.6, 15.5],
@@ -795,7 +1398,52 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "merowe-dam-agricultural-life-v2",
+    id: "merowe-dam-agricultural-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Start of road to Deir Ghazali",
+                  "text": "Dieser Ausgangspunkt markiert die raue Wüstenroute, die Reisende zu den Ruinen des alten christlichen Klosters Deir Ghazali führt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.869625,
+                        18.509771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Start of road to Deir Ghazali",
+                  "text": "Ez a kiindulópont jelzi azt a zord sivatagi utat, amely a régi Deir Ghazali keresztény kolostor romjaihoz vezeti az utazókat.",
+                  "category": "landmark",
+                  "coords": [
+                        31.869625,
+                        18.509771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Start of road to Deir Ghazali",
+                  "text": "Acest punct de plecare marchează drumul accidentat prin deșert care duce călătorii către ruinele vechii mănăstiri creștine Deir Ghazali.",
+                  "category": "landmark",
+                  "coords": [
+                        31.869625,
+                        18.509771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Start of road to Deir Ghazali",
+                  "text": "This starting point marks the rugged desert route leading travelers to the ruins of the ancient Christian monastery of Deir Ghazali.",
+                  "category": "landmark",
+                  "coords": [
+                        31.869625,
+                        18.509771
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SD-NR",
     coords: [31.9, 18.5],
@@ -1059,7 +1707,52 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "gedaref-agricultural-life-v2",
+    id: "gedaref-agricultural-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "HASSAN EL BASHEER",
+                  "text": "HASSAN EL BASHEER ist ein malerischer Aussichtspunkt, der weite Panoramen über die umliegenden landwirtschaftlichen Ebenen von Gedaref bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.395905,
+                        14.001501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HASSAN EL BASHEER",
+                  "text": "A HASSAN EL BASHEER egy festői kilátó, amely kiterjedt panorámát nyújt Gedaref környező mezőgazdasági síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        35.395905,
+                        14.001501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HASSAN EL BASHEER",
+                  "text": "HASSAN EL BASHEER este un punct de belvedere pitoresc care oferă panorame extinse asupra câmpiilor agricole înconjurătoare din Gedaref.",
+                  "category": "natural",
+                  "coords": [
+                        35.395905,
+                        14.001501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HASSAN EL BASHEER",
+                  "text": "HASSAN EL BASHEER is a scenic viewpoint providing expansive panoramas over the surrounding agricultural plains of Gedaref.",
+                  "category": "natural",
+                  "coords": [
+                        35.395905,
+                        14.001501
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SD-GD",
     coords: [35.4, 14.0],
@@ -1103,7 +1796,124 @@ export const poiExtraSudanLifeV2: POI[] = [
     },
   },
   {
-    id: "nile-wildlife-nursery-life-v2",
+    id: "nile-wildlife-nursery-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blackcraft",
+                  "text": "Eine kreative Galerie in der Nähe der Wildtier-Aufzuchtstationen am Nil.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "Abu AlTayeb Park Tourism",
+                  "text": "Ein lokaler Theatersaal in der Nähe der Nile Wildlife Nursery.",
+                  "category": "cultural",
+                  "coords": [
+                        32.500047,
+                        15.642376
+                  ]
+            },
+            {
+                  "name": "Tuti Northern Fort",
+                  "text": "Eine Festungsanlage im nördlichen Teil der Region um die Insel Tuti.",
+                  "category": "fortress",
+                  "coords": [
+                        32.505074,
+                        15.637116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blackcraft",
+                  "text": "Kreatív galéria a Nílus menti vadvédelmi területek közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "Abu AlTayeb Park Tourism",
+                  "text": "Egy helyi színházterem a Nílus vadvédelmi területének közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        32.500047,
+                        15.642376
+                  ]
+            },
+            {
+                  "name": "Tuti Northern Fort",
+                  "text": "Egy erődítmény a Tuti-sziget térségének északi részén.",
+                  "category": "fortress",
+                  "coords": [
+                        32.505074,
+                        15.637116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blackcraft",
+                  "text": "O galerie creativă situată lângă zonele de creștere a animalelor sălbatice de-a lungul Nilului.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "Abu AlTayeb Park Tourism",
+                  "text": "O sală de teatru locală situată în apropierea zonei Nile Wildlife Nursery.",
+                  "category": "cultural",
+                  "coords": [
+                        32.500047,
+                        15.642376
+                  ]
+            },
+            {
+                  "name": "Tuti Northern Fort",
+                  "text": "O structură defensivă situată în partea de nord a zonei insulei Tuti.",
+                  "category": "fortress",
+                  "coords": [
+                        32.505074,
+                        15.637116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blackcraft",
+                  "text": "A creative gallery space located near the wildlife nursery areas along the Nile.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "Abu AlTayeb Park Tourism",
+                  "text": "A local theatre venue located near the Nile Wildlife Nursery.",
+                  "category": "cultural",
+                  "coords": [
+                        32.500047,
+                        15.642376
+                  ]
+            },
+            {
+                  "name": "Tuti Northern Fort",
+                  "text": "A defensive fort situated in the northern part of the Tuti Island area.",
+                  "category": "fortress",
+                  "coords": [
+                        32.505074,
+                        15.637116
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "SD-NR",
     coords: [32.52, 15.65],

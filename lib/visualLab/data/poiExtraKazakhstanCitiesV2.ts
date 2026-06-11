@@ -1339,7 +1339,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Kathedrale Unserer Lieben Frau von Fatima Mutter aller Nationen",
-                  "text": "Die Kathedrale Unserer Lieben Frau von Fatima ist eine markante neugotische katholische Kathedrale in Qaraghandy.",
+                  "text": "Die Kathedrale Unserer Lieben Frau von Fatima in Karaganda wurde 2004 erbaut und ist die größte katholische Kirche Zentralasiens.",
                   "category": "religious",
                   "coords": [
                         73.134843,
@@ -1521,7 +1521,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Rimsko-katolicheskii Prikhod Marii Fatimskoi Materi Vsekh Narodov",
-                  "text": "A Fatimai Szűzanya-katedrális egy kiemelkedő neogótikus katolikus székesegyház Qaraghandy városában.",
+                  "text": "A karagandai Fatimai Szűzanya-székesegyház 2004-ben épült, Közép-Ázsia legnagyobb katolikus temploma.",
                   "category": "religious",
                   "coords": [
                         73.134843,
@@ -1703,7 +1703,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Rimsko-katolicheskii Prikhod Marii Fatimskoi Materi Vsekh Narodov",
-                  "text": "Catedrala Maicii Domnului de la Fatima este o proeminentă catedrală catolică neogotică situată în Qaraghandy.",
+                  "text": "Catedrala Maicii Domnului de la Fatima din Karaganda a fost construită în 2004, fiind cea mai mare biserică catolică din Asia Centrală.",
                   "category": "religious",
                   "coords": [
                         73.134843,
@@ -1885,7 +1885,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of Our Lady of Fatima",
-                  "text": "The Cathedral of Our Lady of Fatima is a prominent neo-Gothic Catholic cathedral located in Qaraghandy.",
+                  "text": "The Cathedral of Our Lady of Fatima in Karaganda was built in 2004 and is the largest Catholic church in Central Asia.",
                   "category": "religious",
                   "coords": [
                         73.134843,
@@ -2112,7 +2112,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Nurdaulet Mosque",
-                  "text": "Moschee in Aqtöbe.",
+                  "text": "1998 eröffnete Moschee Nurdaulet in Aktobe, eines der größten Gotteshäuser der Stadt.",
                   "category": "religious",
                   "coords": [
                         57.155602,
@@ -2303,7 +2303,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Nurdaulet Mosque",
-                  "text": "Mecset Aqtöbében.",
+                  "text": "A Nurdaulet mecset Aktobében, 1998-ban nyitották meg, a város egyik legnagyobb imaháza.",
                   "category": "religious",
                   "coords": [
                         57.155602,
@@ -2494,7 +2494,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Nurdaulet Mosque",
-                  "text": "Moschee în Aqtöbe.",
+                  "text": "Moscheea Nurdaulet din Aktobe, deschisă în 1998, unul dintre cele mai mari lăcașuri de cult din oraș.",
                   "category": "religious",
                   "coords": [
                         57.155602,
@@ -2685,7 +2685,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             },
             {
                   "name": "Nurdaulet",
-                  "text": "Mosque in Aqtöbe.",
+                  "text": "Nurdaulet Mosque in Aktobe, opened in 1998, one of the largest places of worship in the city.",
                   "category": "religious",
                   "coords": [
                         57.155602,
@@ -5986,7 +5986,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Regionale Akademische Dramatheater Atyrau",
-                  "text": "Das Regionale Akademische Dramatheater Atyrau ist eine bedeutende kulturelle Einrichtung in Atyrau.",
+                  "text": "1938 gegründetes Atyrauer Regionales Akademisches Dramatheater, benannt nach dem Dichter Makhambet Utemisuly.",
                   "category": "cultural",
                   "coords": [
                         51.933042,
@@ -6096,7 +6096,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Makhambet Utemisuly Atyrau Regional Academic Drama Theater",
-                  "text": "A Mahambet Utemiszuli nevét viselő Atiraui Regionális Akadémiai Drámai Színház jelentős kulturális intézmény Atirauban.",
+                  "text": "Az 1938-ban alapított Atyraui Regionális Akadémiai Drámaszínház, Makhambet Utemisuly költőről elnevezve.",
                   "category": "cultural",
                   "coords": [
                         51.933042,
@@ -6206,7 +6206,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatrul Academic Regional de Dramă din Atyrau",
-                  "text": "Teatrul Academic Regional de Dramă din Atyrau este o instituție culturală majoră a orașului.",
+                  "text": "Teatrul Dramatic Academic Regional din Atyrau, fondat în 1938, numit după poetul Makhambet Utemisuly.",
                   "category": "cultural",
                   "coords": [
                         51.933042,
@@ -6316,7 +6316,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Atyrau Regional Academic Drama Theater named after Makhambet Utemisuly",
-                  "text": "The Atyrau Regional Academic Drama Theater is a major cultural institution in Atyrau named after Makhambet Utemisuly.",
+                  "text": "Atyrau Regional Academic Drama Theater, founded in 1938 and named after the poet Makhambet Utemisuly.",
                   "category": "cultural",
                   "coords": [
                         51.933042,

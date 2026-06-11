@@ -3,7 +3,412 @@ import type { POI } from "./poi";
 
 export const poiExtraNigeriaHistoryV2: POI[] = [
   {
-    id: "benin-city-walls-history-v2",
+    id: "benin-city-walls-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ezomo Palace",
+                  "text": "Der Ezomo-Palast ist eine historische Häuptlingsresidenz innerhalb der alten Stadtmauern, die einem der ranghöchsten traditionellen Adligen von Benin gehört.",
+                  "category": "castle",
+                  "coords": [
+                        5.611413,
+                        6.337101
+                  ]
+            },
+            {
+                  "name": "Edohen Palace",
+                  "text": "Der Edohen-Palast fungiert als angestammter Machtsitz des Edohen, eines hochrangigen Häuptlings und traditionellen Königsmachers im Königreich Benin.",
+                  "category": "castle",
+                  "coords": [
+                        5.608256,
+                        6.335264
+                  ]
+            },
+            {
+                  "name": "Ogiekae Palace",
+                  "text": "Der Ogiekae-Palast ist ein historisches königliches Bauwerk, das die traditionelle Architektur der Region Benin City widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        5.596599,
+                        6.3309
+                  ]
+            },
+            {
+                  "name": "Car park",
+                  "text": "Dieser lokale Parkplatz dient Besuchern, die die historischen Stätten rund um die Stadtmauern von Benin City erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.588503,
+                        6.286992
+                  ]
+            },
+            {
+                  "name": "PAPA JUNCTION",
+                  "text": "Papa Junction ist eine bekannte lokale Kreuzung, die als Orientierungspunkt in den belebten Straßen von Benin City dient.",
+                  "category": "landmark",
+                  "coords": [
+                        5.587888,
+                        6.288016
+                  ]
+            },
+            {
+                  "name": "My bound",
+                  "text": "My Bound ist eine lokale Sehenswürdigkeit in der historischen Umgebung von Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.586839,
+                        6.28757
+                  ]
+            },
+            {
+                  "name": "Moat",
+                  "text": "Diese archäologische Stätte ist ein erhaltener Abschnitt des riesigen Verteidigungsgrabensystems, das einst das historische Königreich Benin schützte.",
+                  "category": "historical",
+                  "coords": [
+                        5.590309,
+                        6.297507
+                  ]
+            },
+            {
+                  "name": "Edo Agricultural Development Programme",
+                  "text": "Das Reservat des Edo Agricultural Development Programme fungiert als geschützte Grünfläche für landwirtschaftliche Forschung und Anbau in Benin City.",
+                  "category": "natural",
+                  "coords": [
+                        5.58827,
+                        6.296003
+                  ]
+            },
+            {
+                  "name": "Cief Olor's Palace",
+                  "text": "Chief Olors Palast ist eine traditionelle Häuptlingsresidenz, die die landesübliche Architektur von Benin City zeigt.",
+                  "category": "castle",
+                  "coords": [
+                        5.583432,
+                        6.356796
+                  ]
+            },
+            {
+                  "name": "CHIEF OLOMUZA PALACE",
+                  "text": "Der Palast von Chief Olomuza dient als wichtiger traditioneller Sitz und historisches Anwesen in der Region Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.581169,
+                        6.362938
+                  ]
+            },
+            {
+                  "name": "Glass House",
+                  "text": "Das Glass House ist ein markantes modernes architektonisches Wahrzeichen, das sich im Straßenbild von Benin City abhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.60831,
+                        6.320994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ezomo Palace",
+                  "text": "Az Ezomo-palota egy történelmi főnöki rezidencia az ősi városfalakon belül, amely Benin egyik legmagasabb rangú hagyományos nemeséhez tartozik.",
+                  "category": "castle",
+                  "coords": [
+                        5.611413,
+                        6.337101
+                  ]
+            },
+            {
+                  "name": "Edohen Palace",
+                  "text": "Az Edohen-palota az Edohen, a Benini Királyság egyik magas rangú főnökének és hagyományos királycsinálójának ősi hatalmi központjaként működik.",
+                  "category": "castle",
+                  "coords": [
+                        5.608256,
+                        6.335264
+                  ]
+            },
+            {
+                  "name": "Ogiekae Palace",
+                  "text": "Az Ogiekae-palota egy történelmi királyi építmény, amely a Benin City környéki hagyományos építészetet tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        5.596599,
+                        6.3309
+                  ]
+            },
+            {
+                  "name": "Car park",
+                  "text": "Ez a helyi parkoló a Benin City városfalai körüli történelmi helyszíneket felfedező látogatókat szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        5.588503,
+                        6.286992
+                  ]
+            },
+            {
+                  "name": "PAPA JUNCTION",
+                  "text": "A Papa Junction egy jelentős helyi útkereszteződés, amely tájékozódási pontként szolgál Benin City forgalmas utcáin.",
+                  "category": "landmark",
+                  "coords": [
+                        5.587888,
+                        6.288016
+                  ]
+            },
+            {
+                  "name": "My bound",
+                  "text": "A My Bound egy helyi látványosság Benin City történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.586839,
+                        6.28757
+                  ]
+            },
+            {
+                  "name": "Moat",
+                  "text": "Ez a régészeti lelőhely annak a hatalmas védőárokrendszernek egy fennmaradt szakasza, amely egykor a történelmi Benini Királyságot védte.",
+                  "category": "historical",
+                  "coords": [
+                        5.590309,
+                        6.297507
+                  ]
+            },
+            {
+                  "name": "Edo Agricultural Development Programme",
+                  "text": "Az Edo Mezőgazdasági Fejlesztési Program rezervátuma védett zöldterületként funkcionál mezőgazdasági kutatások és termesztés céljából Benin Cityben.",
+                  "category": "natural",
+                  "coords": [
+                        5.58827,
+                        6.296003
+                  ]
+            },
+            {
+                  "name": "Cief Olor's Palace",
+                  "text": "Olor főnök palotája egy hagyományos törzsfői rezidencia, amely Benin City jellegzetes építészetét mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        5.583432,
+                        6.356796
+                  ]
+            },
+            {
+                  "name": "CHIEF OLOMUZA PALACE",
+                  "text": "Az Olomuza főnök palota fontos hagyományos székhelyként és történelmi épületegyüttesként szolgál Benin City területén.",
+                  "category": "castle",
+                  "coords": [
+                        5.581169,
+                        6.362938
+                  ]
+            },
+            {
+                  "name": "Glass House",
+                  "text": "A Glass House egy jellegzetes modern építészeti tájékozódási pont, amely kiemelkedik Benin City utcaképéből.",
+                  "category": "landmark",
+                  "coords": [
+                        5.60831,
+                        6.320994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ezomo Palace",
+                  "text": "Palatul Ezomo este o reședință istorică a unei căpetenii în interiorul zidurilor antice ale orașului, aparținând unuia dintre cei mai înalți nobili tradiționali din Benin.",
+                  "category": "castle",
+                  "coords": [
+                        5.611413,
+                        6.337101
+                  ]
+            },
+            {
+                  "name": "Edohen Palace",
+                  "text": "Palatul Edohen funcționează ca un sediu ancestral al puterii pentru Edohen, o căpetenie superioară și făcător de regi tradițional în Regatul Beninului.",
+                  "category": "castle",
+                  "coords": [
+                        5.608256,
+                        6.335264
+                  ]
+            },
+            {
+                  "name": "Ogiekae Palace",
+                  "text": "Palatul Ogiekae este o structură regală istorică ce reflectă arhitectura tradițională a zonei Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.596599,
+                        6.3309
+                  ]
+            },
+            {
+                  "name": "Car park",
+                  "text": "Această parcare locală deservește vizitatorii care explorează siturile istorice din jurul zidurilor orașului Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.588503,
+                        6.286992
+                  ]
+            },
+            {
+                  "name": "PAPA JUNCTION",
+                  "text": "Papa Junction este o intersecție locală notabilă, servind drept punct de reper pe străzile aglomerate din Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.587888,
+                        6.288016
+                  ]
+            },
+            {
+                  "name": "My bound",
+                  "text": "My Bound este un punct de atracție local situat printre împrejurimile istorice din Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.586839,
+                        6.28757
+                  ]
+            },
+            {
+                  "name": "Moat",
+                  "text": "Acest sit arheologic este o secțiune supraviețuitoare a vastului sistem de șanțuri defensive care a protejat odată regatul istoric Benin.",
+                  "category": "historical",
+                  "coords": [
+                        5.590309,
+                        6.297507
+                  ]
+            },
+            {
+                  "name": "Edo Agricultural Development Programme",
+                  "text": "Rezervația Programului de Dezvoltare Agricolă Edo funcționează ca un spațiu verde protejat pentru cercetare și cultivare agricolă în Benin City.",
+                  "category": "natural",
+                  "coords": [
+                        5.58827,
+                        6.296003
+                  ]
+            },
+            {
+                  "name": "Cief Olor's Palace",
+                  "text": "Palatul Căpeteniei Olor este o reședință tradițională a căpeteniilor, care prezintă arhitectura specifică orașului Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.583432,
+                        6.356796
+                  ]
+            },
+            {
+                  "name": "CHIEF OLOMUZA PALACE",
+                  "text": "Palatul Căpeteniei Olomuza servește ca un important sediu tradițional și complex istoric în zona Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.581169,
+                        6.362938
+                  ]
+            },
+            {
+                  "name": "Glass House",
+                  "text": "Glass House este un reper arhitectural modern distinctiv, care iese în evidență pe străzile din Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.60831,
+                        6.320994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ezomo Palace",
+                  "text": "The Ezomo Palace is a historic chiefly residence within the ancient city walls, belonging to one of the highest-ranking traditional nobles of Benin.",
+                  "category": "castle",
+                  "coords": [
+                        5.611413,
+                        6.337101
+                  ]
+            },
+            {
+                  "name": "Edohen Palace",
+                  "text": "The Edohen Palace functions as an ancestral seat of power for the Edohen, a senior chief and traditional kingmaker in the Kingdom of Benin.",
+                  "category": "castle",
+                  "coords": [
+                        5.608256,
+                        6.335264
+                  ]
+            },
+            {
+                  "name": "Ogiekae Palace",
+                  "text": "The Ogiekae Palace is a historic royal structure reflecting the traditional architecture of the Benin City area.",
+                  "category": "castle",
+                  "coords": [
+                        5.596599,
+                        6.3309
+                  ]
+            },
+            {
+                  "name": "Car park",
+                  "text": "This local parking area serves visitors exploring the historic sites around the Benin City walls.",
+                  "category": "landmark",
+                  "coords": [
+                        5.588503,
+                        6.286992
+                  ]
+            },
+            {
+                  "name": "PAPA JUNCTION",
+                  "text": "Papa Junction is a notable local crossroads serving as a landmark within the bustling streets of Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.587888,
+                        6.288016
+                  ]
+            },
+            {
+                  "name": "My bound",
+                  "text": "My Bound is a local point of interest situated among the historic environs of Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.586839,
+                        6.28757
+                  ]
+            },
+            {
+                  "name": "Moat",
+                  "text": "This archaeological site is a surviving section of the vast defensive moat system that once protected the historic Benin Kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        5.590309,
+                        6.297507
+                  ]
+            },
+            {
+                  "name": "Edo Agricultural Development Programme",
+                  "text": "The Edo Agricultural Development Programme reserve functions as a protected green space for agricultural research and cultivation in Benin City.",
+                  "category": "natural",
+                  "coords": [
+                        5.58827,
+                        6.296003
+                  ]
+            },
+            {
+                  "name": "Cief Olor's Palace",
+                  "text": "Chief Olor's Palace is a traditional chiefly residence that showcases the customary architecture of Benin City.",
+                  "category": "castle",
+                  "coords": [
+                        5.583432,
+                        6.356796
+                  ]
+            },
+            {
+                  "name": "CHIEF OLOMUZA PALACE",
+                  "text": "The Chief Olomuza Palace serves as an important traditional seat and historical compound within the Benin City area.",
+                  "category": "castle",
+                  "coords": [
+                        5.581169,
+                        6.362938
+                  ]
+            },
+            {
+                  "name": "Glass House",
+                  "text": "The Glass House is a distinctive modern architectural landmark standing out in the streetscape of Benin City.",
+                  "category": "landmark",
+                  "coords": [
+                        5.60831,
+                        6.320994
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-ED",
     coords: [5.6145, 6.3263],
@@ -99,7 +504,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "osun-osogbo-sacred-grove-history-v2",
+    id: "osun-osogbo-sacred-grove-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "African Heritage Art Gallery",
+                  "text": "In der Nähe des heiligen Hains Osun-Osogbo zeigt diese Galerie eine reiche Sammlung traditioneller afrikanischer Kunst.",
+                  "category": "landmark",
+                  "coords": [
+                        4.546388,
+                        7.773025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "African Heritage Art Gallery",
+                  "text": "A szent Osun-Osogbo liget közelében található galéria a hagyományos afrikai örökség művészetének gazdag gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        4.546388,
+                        7.773025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "African Heritage Art Gallery",
+                  "text": "Situată lângă crângul sacru Osun-Osogbo, această galerie expune o colecție bogată de artă tradițională a patrimoniului african.",
+                  "category": "landmark",
+                  "coords": [
+                        4.546388,
+                        7.773025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Heritage Art Gallery",
+                  "text": "Located near the sacred Osun-Osogbo grove, this gallery exhibits a rich collection of traditional African heritage art.",
+                  "category": "landmark",
+                  "coords": [
+                        4.546388,
+                        7.773025
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-OS",
     coords: [4.5518, 7.7554],
@@ -195,7 +645,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "sungbos-eredo-history-v2",
+    id: "sungbos-eredo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sungbo's Eredo",
+                  "text": "Dieses riesige System aus Verteidigungsmauern und tiefen Gräben wurde vor über einem Jahrtausend errichtet, um das alte Ijebu-Königreich zu umschließen.",
+                  "category": "historical",
+                  "coords": [
+                        3.874858,
+                        6.786878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sungbo's Eredo",
+                  "text": "Ezt a védőfalakból és mély árkokból álló hatalmas rendszert több mint ezer éve építették az ősi Ijebu királyság körülzárására.",
+                  "category": "historical",
+                  "coords": [
+                        3.874858,
+                        6.786878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sungbo's Eredo",
+                  "text": "Acest vast sistem de ziduri de apărare și șanțuri adânci a fost construit în urmă cu peste un mileniu pentru a înconjura vechiul regat Ijebu.",
+                  "category": "historical",
+                  "coords": [
+                        3.874858,
+                        6.786878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sungbo's Eredo",
+                  "text": "This vast system of defensive walls and deep ditches was built over a millennium ago to enclose the ancient Ijebu kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        3.874858,
+                        6.786878
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-OG",
     coords: [3.9619, 6.7869],
@@ -243,7 +738,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "olumo-rock-history-v2",
+    id: "olumo-rock-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olumo Rock Tourist Complex",
+                  "text": "Diese massive Felsformation in Abeokuta diente historisch als natürliche Festung und Zufluchtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        3.342016,
+                        7.166868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olumo Rock Tourist Complex",
+                  "text": "Ez a hatalmas sziklaképződmény Abeokutában történelmileg természetes erődítményként és menedékhelyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        3.342016,
+                        7.166868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olumo Rock Tourist Complex",
+                  "text": "Această formațiune stâncoasă masivă din Abeokuta a servit istoric ca o fortăreață naturală și loc de refugiu.",
+                  "category": "landmark",
+                  "coords": [
+                        3.342016,
+                        7.166868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olumo Rock Tourist Complex",
+                  "text": "This massive rock outcropping in Abeokuta historically served as a natural fortress and sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        3.342016,
+                        7.166868
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-OG",
     coords: [3.34, 7.1627],
@@ -291,7 +831,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "badagry-slave-port-history-v2",
+    id: "badagry-slave-port-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Former Slave Market",
+                  "text": "Dieser als historisches Museum erhaltene ehemalige Sklavenmarkt markiert eine düstere Stätte des transatlantischen Sklavenhandels in badagry-slave-port-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.881203,
+                        6.417258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Former Slave Market",
+                  "text": "A történelmi múzeumként megőrzött egykori rabszolgapiac a transzatlanti rabszolgakereskedelem komor helyszínét jelöli a badagry-slave-port-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.881203,
+                        6.417258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Former Slave Market",
+                  "text": "Conservată ca muzeu istoric, această fostă piață de sclavi marchează un sit sumbru al comerțului transatlantic cu sclavi în badagry-slave-port-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.881203,
+                        6.417258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Former Slave Market",
+                  "text": "Preserved as a historical museum, this former slave market marks a somber site of the transatlantic slave trade in badagry-slave-port-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        2.881203,
+                        6.417258
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-LA",
     coords: [2.8794, 6.4172],
@@ -627,7 +1212,88 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "gidan-rumfa-history-v2",
+    id: "gidan-rumfa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum Gidan Makama Kano",
+                  "text": "Das Nationalmuseum Gidan Makama ist in einem historischen Gebäude aus dem 15. Jahrhundert untergebracht und zeigt die Geschichte Kanos.",
+                  "category": "museum",
+                  "coords": [
+                        8.521026,
+                        11.988372
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "Diese Residenz des Emirs von Kano zeigt die traditionelle Palastarchitektur der Region.",
+                  "category": "castle",
+                  "coords": [
+                        8.520738,
+                        11.990079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum Gidan Makama Kano",
+                  "text": "A Gidan Makama Nemzeti Múzeum egy 15. századi történelmi épületben kapott helyet, és Kano történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.521026,
+                        11.988372
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "A kanoi emír ezen rezidenciája a régió hagyományos palotaépítészetét mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        8.520738,
+                        11.990079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum Gidan Makama Kano",
+                  "text": "Muzeul Național Gidan Makama este găzduit într-o clădire istorică din secolul al XV-lea și prezintă istoria orașului Kano.",
+                  "category": "museum",
+                  "coords": [
+                        8.521026,
+                        11.988372
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "Această reședință a emirului din Kano prezintă arhitectura tradițională de palat a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        8.520738,
+                        11.990079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum Gidan Makama Kano",
+                  "text": "The Gidan Makama National Museum is housed in a 15th-century historical building and exhibits the history of Kano.",
+                  "category": "museum",
+                  "coords": [
+                        8.521026,
+                        11.988372
+                  ]
+            },
+            {
+                  "name": "Kano Emir's Palace",
+                  "text": "This residence of the Emir of Kano showcases the traditional palace architecture of the region.",
+                  "category": "castle",
+                  "coords": [
+                        8.520738,
+                        11.990079
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-KN",
     coords: [8.5161, 11.9933],
@@ -723,7 +1389,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "igbo-ukwu-history-v2",
+    id: "igbo-ukwu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igbo-Ukwu Museum",
+                  "text": "Das am 29. Dezember 1989 eingeweihte Igbo-Ukwu Museum beherbergt antike Bronzeartefakte, die in den archäologischen Stätten der Umgebung entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        7.010046,
+                        6.023292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igbo-Ukwu Museum",
+                  "text": "Az 1989. december 29-én felavatott Igbo-Ukwu Múzeum a környék régészeti lelőhelyein felfedezett ősi bronz leleteket őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        7.010046,
+                        6.023292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igbo-Ukwu Museum",
+                  "text": "Inaugurat pe 29 decembrie 1989, Muzeul Igbo-Ukwu adăpostește artefacte antice din bronz descoperite în siturile arheologice din zonă.",
+                  "category": "museum",
+                  "coords": [
+                        7.010046,
+                        6.023292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igbo-Ukwu Museum",
+                  "text": "Inaugurated on December 29, 1989, the Igbo-Ukwu Museum houses ancient bronze artifacts discovered in the archaeological sites of the area.",
+                  "category": "museum",
+                  "coords": [
+                        7.010046,
+                        6.023292
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-AN",
     coords: [7.021, 5.9686],
@@ -771,7 +1482,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "oduduwa-shrine-history-v2",
+    id: "oduduwa-shrine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ife National Museum",
+                  "text": "Das 1954 eröffnete Ife National Museum stellt eine bemerkenswerte Sammlung antiker Bronze- und Terrakotta-Skulpturen aus der Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        4.559936,
+                        7.482624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ife National Museum",
+                  "text": "Az 1954-ben megnyílt Ife Nemzeti Múzeum a régióból származó ősi bronz- és terrakotta szobrok figyelemre méltó gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.559936,
+                        7.482624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ife National Museum",
+                  "text": "Deschis în 1954, Muzeul Național Ife expune o colecție remarcabilă de sculpturi antice din bronz și teracotă din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        4.559936,
+                        7.482624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ife National Museum",
+                  "text": "Opened in 1954, the Ife National Museum exhibits a remarkable collection of ancient bronze and terracotta sculptures from the region.",
+                  "category": "museum",
+                  "coords": [
+                        4.559936,
+                        7.482624
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-OS",
     coords: [4.545, 7.4842],
@@ -819,7 +1575,160 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kofar-mata-dyeing-pits-history-v2",
+    id: "kofar-mata-dyeing-pits-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kofar Mata",
+                  "text": "Das Tor Kofar Mata ist ein historisches Monument in der Nähe der berühmten Färbegruben von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.526376,
+                        12.000828
+                  ]
+            },
+            {
+                  "name": "Kofar Nassarawa",
+                  "text": "Das Monument Kofar Nassarawa markiert einen historischen Zugang durch die alten Stadtmauern von Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.530678,
+                        11.990889
+                  ]
+            },
+            {
+                  "name": "Sabuwar Kofa",
+                  "text": "Sabuwar Kofa ist ein historisches Tor, das als Teil der alten Stadtmauern von Kano erhalten blieb.",
+                  "category": "historical",
+                  "coords": [
+                        8.527711,
+                        11.984352
+                  ]
+            },
+            {
+                  "name": "British Council Kano",
+                  "text": "Das British Council Zentrum in Kano ist eine Einrichtung zur Förderung von Kunst und Kultur in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        8.525586,
+                        11.990183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kofar Mata",
+                  "text": "A Kofar Mata kapu egy történelmi emlékmű Kano híres festőgödrei közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.526376,
+                        12.000828
+                  ]
+            },
+            {
+                  "name": "Kofar Nassarawa",
+                  "text": "A Kofar Nassarawa emlékmű egy történelmi bejáratot jelöl Kano ősi városfalain keresztül.",
+                  "category": "historical",
+                  "coords": [
+                        8.530678,
+                        11.990889
+                  ]
+            },
+            {
+                  "name": "Sabuwar Kofa",
+                  "text": "A Sabuwar Kofa egy történelmi kapu, amely Kano ősi városfalainak részeként maradt fenn.",
+                  "category": "historical",
+                  "coords": [
+                        8.527711,
+                        11.984352
+                  ]
+            },
+            {
+                  "name": "British Council Kano",
+                  "text": "A kanoi British Council központ a művészet és a kultúra népszerűsítésének intézménye a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        8.525586,
+                        11.990183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kofar Mata",
+                  "text": "Poarta Kofar Mata este un monument istoric din apropierea faimoaselor gropi de vopsit din Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.526376,
+                        12.000828
+                  ]
+            },
+            {
+                  "name": "Kofar Nassarawa",
+                  "text": "Monumentul Kofar Nassarawa marchează o intrare istorică prin vechile ziduri ale orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.530678,
+                        11.990889
+                  ]
+            },
+            {
+                  "name": "Sabuwar Kofa",
+                  "text": "Sabuwar Kofa este o poartă istorică conservată ca parte a vechilor ziduri ale orașului Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.527711,
+                        11.984352
+                  ]
+            },
+            {
+                  "name": "British Council Kano",
+                  "text": "Centrul British Council din Kano este o instituție dedicată promovării artei și culturii în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        8.525586,
+                        11.990183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kofar Mata",
+                  "text": "The Kofar Mata gate is a historic monument located near the famous dyeing pits of Kano.",
+                  "category": "historical",
+                  "coords": [
+                        8.526376,
+                        12.000828
+                  ]
+            },
+            {
+                  "name": "Kofar Nassarawa",
+                  "text": "The Kofar Nassarawa monument marks a historic entrance through the ancient Kano City Walls.",
+                  "category": "historical",
+                  "coords": [
+                        8.530678,
+                        11.990889
+                  ]
+            },
+            {
+                  "name": "Sabuwar Kofa",
+                  "text": "Sabuwar Kofa is a historic gate preserved as part of the ancient Kano City Walls.",
+                  "category": "historical",
+                  "coords": [
+                        8.527711,
+                        11.984352
+                  ]
+            },
+            {
+                  "name": "British Council Kano",
+                  "text": "The British Council centre in Kano is a facility dedicated to promoting arts and culture in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        8.525586,
+                        11.990183
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-KN",
     coords: [8.5283, 11.9961],
@@ -963,7 +1872,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "mbari-cultural-centre-history-v2",
+    id: "mbari-cultural-centre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akachi Monument",
+                  "text": "Das 2015 erbaute Akachi-Monument ist eine hoch aufragende skulpturale Struktur, die die Stärke und Hand Gottes in der Region symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        7.041399,
+                        5.468581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akachi Monument",
+                  "text": "A 2015-ben épült Akachi-emlékmű egy tornyosuló szobrászati építmény, amely Isten erejét és kezét szimbolizálja a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        7.041399,
+                        5.468581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akachi Monument",
+                  "text": "Construit în 2015, Monumentul Akachi este o structură sculpturală impunătoare care simbolizează puterea și mâna lui Dumnezeu în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        7.041399,
+                        5.468581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akachi Monument",
+                  "text": "Built in 2015, the Akachi Monument is a towering sculptural structure symbolising the strength and hand of God in the region.",
+                  "category": "historical",
+                  "coords": [
+                        7.041399,
+                        5.468581
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-IM",
     coords: [7.0354, 5.4851],
@@ -1059,7 +2013,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "mary-slessor-house-history-v2",
+    id: "mary-slessor-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marina Resort",
+                  "text": "Das Marina Resort am Calabar River bietet malerische Ausblicke auf das Wasser, historische Ausstellungen und ein klassisches Kino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.317225,
+                        4.964998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marina Resort",
+                  "text": "A Calabar folyó mentén található Marina Resort festői vízparti kilátást, történelmi kiállításokat és egy klasszikus mozit kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        8.317225,
+                        4.964998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marina Resort",
+                  "text": "Situat de-a lungul râului Calabar, Marina Resort oferă vederi pitorești la malul apei, expoziții istorice și un cinematograf clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        8.317225,
+                        4.964998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marina Resort",
+                  "text": "Located along the Calabar River, the Marina Resort offers scenic waterfront views, historical exhibitions, and a classic cinema.",
+                  "category": "landmark",
+                  "coords": [
+                        8.317225,
+                        4.964998
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-CR",
     coords: [8.3242, 4.9606],
@@ -1107,7 +2106,88 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "lugard-hall-history-v2",
+    id: "lugard-hall-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaduna 2nd World War Memorial Stone",
+                  "text": "Dieser Gedenkstein erinnert an die in Kaduna stationierten Soldaten, die im Zweiten Weltkrieg dienten.",
+                  "category": "historical",
+                  "coords": [
+                        7.454399,
+                        10.534897
+                  ]
+            },
+            {
+                  "name": "Nigerian Air Force officers mess",
+                  "text": "Die Offiziersmesse der nigerianischen Luftwaffe in Kaduna ist ein traditioneller Treffpunkt für Militärangehörige.",
+                  "category": "historical",
+                  "coords": [
+                        7.452081,
+                        10.553094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaduna 2nd World War Memorial Stone",
+                  "text": "Ez az emlékkő a Kadunában állomásozó katonákra emlékezik, akik a második világháborúban szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        7.454399,
+                        10.534897
+                  ]
+            },
+            {
+                  "name": "Nigerian Air Force officers mess",
+                  "text": "A nigériai légierő kadunai tiszti étkezdéje a katonai személyzet hagyományos találkozóhelye.",
+                  "category": "historical",
+                  "coords": [
+                        7.452081,
+                        10.553094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaduna 2nd World War Memorial Stone",
+                  "text": "Această piatră memorială comemorează soldații staționați în Kaduna care au servit în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        7.454399,
+                        10.534897
+                  ]
+            },
+            {
+                  "name": "Nigerian Air Force officers mess",
+                  "text": "Popota ofițerilor Forțelor Aeriene Națiene din Kaduna este un loc de întâlnire tradițional pentru personalul militar.",
+                  "category": "historical",
+                  "coords": [
+                        7.452081,
+                        10.553094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaduna 2nd World War Memorial Stone",
+                  "text": "This memorial stone commemorates the soldiers stationed in Kaduna who served during the Second World War.",
+                  "category": "historical",
+                  "coords": [
+                        7.454399,
+                        10.534897
+                  ]
+            },
+            {
+                  "name": "Nigerian Air Force officers mess",
+                  "text": "The Nigerian Air Force officers mess in Kaduna is a traditional gathering place for military personnel.",
+                  "category": "historical",
+                  "coords": [
+                        7.452081,
+                        10.553094
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-KD",
     coords: [7.4431, 10.5337],
@@ -1155,7 +2235,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     }
   },
   {
-    id: "mount-patti-history-v2",
+    id: "mount-patti-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maigari's Palace",
+                  "text": "Maigaris Palast ist die traditionelle Residenz des örtlichen Emirs, gelegen in der Nähe des historischen Mount Patti in Lokoja.",
+                  "category": "castle",
+                  "coords": [
+                        6.744557,
+                        7.815307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maigari's Palace",
+                  "text": "A Maigari palota a helyi emír hagyományos rezidenciája, amely a lokojai történelmi Patti-hegy közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        6.744557,
+                        7.815307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maigari's Palace",
+                  "text": "Palatul Maigari este reședința tradițională a emirului local, situată lângă istoricul Munte Patti din Lokoja.",
+                  "category": "castle",
+                  "coords": [
+                        6.744557,
+                        7.815307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maigari's Palace",
+                  "text": "Maigari's Palace is the traditional residence of the local emir, situated near the historic Mount Patti in Lokoja.",
+                  "category": "castle",
+                  "coords": [
+                        6.744557,
+                        7.815307
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-KO",
     coords: [6.7267, 7.8208],
@@ -1203,7 +2328,88 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "gobirau-minaret-history-v2",
+    id: "gobirau-minaret-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kofar Guga",
+                  "text": "Ein denkmalgeschütztes historisches Stadttor in Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.587878,
+                        12.996165
+                  ]
+            },
+            {
+                  "name": "Kofar Soro",
+                  "text": "Das Kofar Soro ist ein altes monumentales Stadttor in Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.599282,
+                        12.994671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kofar Guga",
+                  "text": "Egy műemlékvédelem alatt álló történelmi városkapu Katsinában.",
+                  "category": "historical",
+                  "coords": [
+                        7.587878,
+                        12.996165
+                  ]
+            },
+            {
+                  "name": "Kofar Soro",
+                  "text": "A Kofar Soro egy régi, monumentális városkapu Katsinában.",
+                  "category": "historical",
+                  "coords": [
+                        7.599282,
+                        12.994671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kofar Guga",
+                  "text": "O poartă istorică a orașului protejată ca monument în Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.587878,
+                        12.996165
+                  ]
+            },
+            {
+                  "name": "Kofar Soro",
+                  "text": "Kofar Soro este o veche poartă monumentală a orașului Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.599282,
+                        12.994671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kofar Guga",
+                  "text": "A heritage-protected historical city gate in Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.587878,
+                        12.996165
+                  ]
+            },
+            {
+                  "name": "Kofar Soro",
+                  "text": "Kofar Soro is an ancient monumental city gate in Katsina.",
+                  "category": "historical",
+                  "coords": [
+                        7.599282,
+                        12.994671
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-KT",
     coords: [7.5939, 12.9861],
@@ -1251,7 +2457,88 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "slave-history-museum-history-v2",
+    id: "slave-history-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "CERCOPAN",
+                  "text": "CERCOPAN ist ein wichtiges Rehabilitationszentrum für Primaten in Calabar, das sich der Erhaltung und Rettung bedrohter Waldaffen widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.332608,
+                        4.977319
+                  ]
+            },
+            {
+                  "name": "Pandrillus",
+                  "text": "Pandrillus betreibt eine spezialisierte Naturschutzeinrichtung in Calabar, die sich stark auf den Schutz seltener Drills und Schimpansen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.343747,
+                        4.982518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CERCOPAN",
+                  "text": "A CERCOPAN egy létfontosságú főemlős-rehabilitációs központ Calabarban, amely a veszélyeztetett erdei majmok védelmének és megmentésének szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        8.332608,
+                        4.977319
+                  ]
+            },
+            {
+                  "name": "Pandrillus",
+                  "text": "A Pandrillus egy speciális természetvédelmi létesítményt üzemeltet Calabarban, amely erősen fókuszál a ritka drillmajmok és csimpánzok védelmére.",
+                  "category": "landmark",
+                  "coords": [
+                        8.343747,
+                        4.982518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CERCOPAN",
+                  "text": "CERCOPAN este un centru vital de reabilitare a primatelor din Calabar, dedicat conservării și salvării maimuțelor de pădure pe cale de dispariție.",
+                  "category": "landmark",
+                  "coords": [
+                        8.332608,
+                        4.977319
+                  ]
+            },
+            {
+                  "name": "Pandrillus",
+                  "text": "Pandrillus operează o facilitate de conservare specializată în Calabar, concentrându-se intens pe protecția drililor și cimpanzeilor rari.",
+                  "category": "landmark",
+                  "coords": [
+                        8.343747,
+                        4.982518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CERCOPAN",
+                  "text": "CERCOPAN is a vital primate rehabilitation centre in Calabar, dedicated to the conservation and rescue of endangered forest monkeys.",
+                  "category": "landmark",
+                  "coords": [
+                        8.332608,
+                        4.977319
+                  ]
+            },
+            {
+                  "name": "Pandrillus",
+                  "text": "Pandrillus operates a specialized conservation facility in Calabar focusing heavily on the protection of rare drills and chimpanzees.",
+                  "category": "landmark",
+                  "coords": [
+                        8.343747,
+                        4.982518
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-CR",
     coords: [8.3303, 4.9667],
@@ -1299,7 +2586,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     }
   },
   {
-    id: "chief-ekpo-bassey-house-history-v2",
+    id: "chief-ekpo-bassey-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slave History Museum",
+                  "text": "Das Slave History Museum in Calabar zeigt ergreifende Ausstellungen, die die lokalen Auswirkungen des transatlantischen Sklavenhandels detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        8.318406,
+                        4.966256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slave History Museum",
+                  "text": "A calabari Rabszolgatörténeti Múzeum megrendítő kiállításokat kínál, amelyek részletesen bemutatják a transzatlanti rabszolgakereskedelem helyi hatásait.",
+                  "category": "museum",
+                  "coords": [
+                        8.318406,
+                        4.966256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slave History Museum",
+                  "text": "Muzeul Istoriei Sclavilor din Calabar oferă expoziții emoționante care detaliază impactul local al comerțului transatlantic cu sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        8.318406,
+                        4.966256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slave History Museum",
+                  "text": "The Slave History Museum in Calabar provides poignant exhibits detailing the local impacts of the transatlantic slave trade.",
+                  "category": "museum",
+                  "coords": [
+                        8.318406,
+                        4.966256
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-CR",
     coords: [8.3245, 4.961],
@@ -1395,7 +2727,52 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     },
   },
   {
-    id: "alok-ikom-monoliths-history-v2",
+    id: "alok-ikom-monoliths-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Offia Mkpuma",
+                  "text": "Offia Mkpuma ist eine faszinierende Stätte, die für ihre Verbindung zu den rätselhaften Steinmonolithen von Alok Ikom im Bundesstaat Cross River bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.307234,
+                        6.167791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Offia Mkpuma",
+                  "text": "Az Offia Mkpuma egy lenyűgöző helyszín, amely a Cross River állambeli titokzatos Alok Ikom kőmonolitokhoz fűződő kapcsolatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.307234,
+                        6.167791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Offia Mkpuma",
+                  "text": "Offia Mkpuma este un sit fascinant cunoscut pentru legătura sa cu enigmaticii monoliți de piatră Alok Ikom din statul Cross River.",
+                  "category": "landmark",
+                  "coords": [
+                        8.307234,
+                        6.167791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Offia Mkpuma",
+                  "text": "Offia Mkpuma is a fascinating site known for its connection to the enigmatic Alok Ikom stone monoliths of Cross River State.",
+                  "category": "landmark",
+                  "coords": [
+                        8.307234,
+                        6.167791
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NG-CR",
     coords: [8.3614, 6.1364],

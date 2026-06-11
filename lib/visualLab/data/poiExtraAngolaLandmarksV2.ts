@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraAngolaLandmarksV2: POI[] = [
   {
-    id: "fortaleza-sao-miguel-landmarks-v2",
+    id: "fortaleza-sao-miguel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Museum für Militärgeschichte",
+                  "text": "Dieses Museum, das in einer massiven portugiesischen Festung aus dem 16. Jahrhundert untergebracht ist, zeigt historische Waffen und koloniale Militärfahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        13.223399,
+                        -8.809164
+                  ]
+            },
+            {
+                  "name": "Festung Der Heilige Miguel von Luanda",
+                  "text": "Die von Paulo Dias de Novais entworfene Festung São Miguel ist eine historische Sehenswürdigkeit in Luanda.",
+                  "category": "landmark",
+                  "coords": [
+                        13.223201,
+                        -8.807755
+                  ]
+            },
+            {
+                  "name": "Movart",
+                  "text": "Movart ist eine Kunstgalerie in Luanda, die zeitgenössische afrikanische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.225693,
+                        -8.807527
+                  ]
+            },
+            {
+                  "name": "Wissenschafts- und Technikmuseum",
+                  "text": "Das Wissenschafts- und Technikmuseum in Luanda bietet Ausstellungen zu technologischen und industriellen Entwicklungen.",
+                  "category": "museum",
+                  "coords": [
+                        13.224606,
+                        -8.809763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Nacional de História Militar",
+                  "text": "Egy hatalmas 16. századi portugál erődítményben kapott helyet ez a múzeum, amely történelmi fegyvereket és gyarmati katonai járműveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.223399,
+                        -8.809164
+                  ]
+            },
+            {
+                  "name": "Fortaleza de São Miguel de Luanda",
+                  "text": "A Paulo Dias de Novais által tervezett São Miguel-erőd egy történelmi látványosság Luandában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.223201,
+                        -8.807755
+                  ]
+            },
+            {
+                  "name": "Movart",
+                  "text": "A Movart egy művészeti galéria Luandában, amely kortárs afrikai alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.225693,
+                        -8.807527
+                  ]
+            },
+            {
+                  "name": "Museu de Ciência e Tecnologia",
+                  "text": "A luandai Tudományos és Technológiai Múzeum a technológiai és ipari fejlődést bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        13.224606,
+                        -8.809763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Nacional de História Militar",
+                  "text": "Găzduit într-o fortăreață masivă portugheză din secolul al XVI-lea, acest muzeu expune armament istoric și vehicule militare coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        13.223399,
+                        -8.809164
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Sfânt Miguel",
+                  "text": "Fortăreața São Miguel, proiectată de Paulo Dias de Novais, este o atracție istorică din Luanda.",
+                  "category": "landmark",
+                  "coords": [
+                        13.223201,
+                        -8.807755
+                  ]
+            },
+            {
+                  "name": "Movart",
+                  "text": "Movart este o galerie de artă din Luanda care prezintă lucrări africane contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        13.225693,
+                        -8.807527
+                  ]
+            },
+            {
+                  "name": "Museu de Ciência e Tecnologia",
+                  "text": "Muzeul de Știință și Tehnologie din Luanda găzduiește expoziții despre dezvoltarea tehnologică și industrială.",
+                  "category": "museum",
+                  "coords": [
+                        13.224606,
+                        -8.809763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Military History",
+                  "text": "Housed inside a massive 16th-century Portuguese fortress, this museum displays historic weaponry and colonial military vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        13.223399,
+                        -8.809164
+                  ]
+            },
+            {
+                  "name": "Luanda Saint Miguel Fortress",
+                  "text": "The Fortress of São Miguel, designed by Paulo Dias de Novais, is a historical attraction in Luanda.",
+                  "category": "landmark",
+                  "coords": [
+                        13.223201,
+                        -8.807755
+                  ]
+            },
+            {
+                  "name": "Movart",
+                  "text": "Movart is an art gallery in Luanda showcasing contemporary African works.",
+                  "category": "museum",
+                  "coords": [
+                        13.225693,
+                        -8.807527
+                  ]
+            },
+            {
+                  "name": "Science and Technology Museum",
+                  "text": "The Science and Technology Museum in Luanda features exhibits on technological and industrial developments.",
+                  "category": "museum",
+                  "coords": [
+                        13.224606,
+                        -8.809763
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-LU",
     coords: [13.2244, -8.8058],
@@ -38,7 +191,124 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Plus ancienne structure de Luanda, construite en 1576.", "Candidate au patrimoine mondial de l'UNESCO depuis 1996.", "Abrite le Musée national d'histoire militaire.", "Célèbre pour ses azulejos représentant des scènes historiques.", "Offre une vue à 360 degrés sur la baie de Luanda.", "Connue sous le nom de Fort Aardenburgh pendant l'occupation néerlandaise.", "Point central de la ligne de défense coloniale.", "Un incontournable pour tout visiteur à Luanda."],
     }, image: "/poi-images/fortaleza-sao-miguel-landmarks-v2.webp"},
   {
-    id: "cristo-rei-lubango-landmarks-v2",
+    id: "cristo-rei-lubango-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lubango Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet weite Ausblicke über die hügelige Landschaft rund um das Wahrzeichen Cristo Rei in Lubango.",
+                  "category": "natural",
+                  "coords": [
+                        13.510306,
+                        -14.940023
+                  ]
+            },
+            {
+                  "name": "Miradouro do Cristo-Rei / Christ the King Viewpoint",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Panoramablick direkt neben der berühmten Cristo-Rei-Statue in Lubango.",
+                  "category": "natural",
+                  "coords": [
+                        13.511545,
+                        -14.939937
+                  ]
+            },
+            {
+                  "name": "Congregação das Irmãs Franciscanas de Nossa Senhora das Vitórias (CIFNSV) - Comunidade de Santo António",
+                  "text": "Diese franziskanische Schwesterngemeinschaft dient als katholische Kultstätte in der Nähe der Cristo-Rei-Wahrzeichen in Lubango.",
+                  "category": "religious",
+                  "coords": [
+                        13.504716,
+                        -14.924853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lubango Viewpoint",
+                  "text": "Ez a festői kilátó hatalmas panorámát nyújt a Lubangóban található Cristo Rei nevezetességet körülvevő dombos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.510306,
+                        -14.940023
+                  ]
+            },
+            {
+                  "name": "Miradouro do Cristo-Rei / Christ the King Viewpoint",
+                  "text": "Ez a magasan fekvő kilátó lenyűgöző panorámát nyújt közvetlenül a lubangói ikonikus Cristo Rei szobor mellett.",
+                  "category": "natural",
+                  "coords": [
+                        13.511545,
+                        -14.939937
+                  ]
+            },
+            {
+                  "name": "Congregação das Irmãs Franciscanas de Nossa Senhora das Vitórias (CIFNSV) - Comunidade de Santo António",
+                  "text": "Ez a ferences nővérközösség katolikus istentiszteleti helyként szolgál a Cristo Rei nevezetességek közelében, Lubangóban.",
+                  "category": "religious",
+                  "coords": [
+                        13.504716,
+                        -14.924853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lubango Viewpoint",
+                  "text": "Acest punct de belvedere pitoresc oferă priveliști extinse asupra peisajului deluros din jurul reperului Cristo Rei din Lubango.",
+                  "category": "natural",
+                  "coords": [
+                        13.510306,
+                        -14.940023
+                  ]
+            },
+            {
+                  "name": "Miradouro do Cristo-Rei / Christ the King Viewpoint",
+                  "text": "Acest punct de belvedere ridicat oferă priveliști panoramice direct adiacente statuii iconice Cristo Rei din Lubango.",
+                  "category": "natural",
+                  "coords": [
+                        13.511545,
+                        -14.939937
+                  ]
+            },
+            {
+                  "name": "Congregação das Irmãs Franciscanas de Nossa Senhora das Vitórias (CIFNSV) - Comunidade de Santo António",
+                  "text": "Această comunitate a surorilor franciscane servește ca lăcaș de cult catolic lângă reperele Cristo Rei din Lubango.",
+                  "category": "religious",
+                  "coords": [
+                        13.504716,
+                        -14.924853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lubango Viewpoint",
+                  "text": "This scenic overlook offers expansive vistas over the hilly landscape surrounding the Cristo Rei landmark in Lubango.",
+                  "category": "natural",
+                  "coords": [
+                        13.510306,
+                        -14.940023
+                  ]
+            },
+            {
+                  "name": "Miradouro do Cristo-Rei / Christ the King Viewpoint",
+                  "text": "This elevated viewpoint provides sweeping panoramic sights directly adjacent to the iconic Cristo Rei statue in Lubango.",
+                  "category": "natural",
+                  "coords": [
+                        13.511545,
+                        -14.939937
+                  ]
+            },
+            {
+                  "name": "Congregação das Irmãs Franciscanas de Nossa Senhora das Vitórias (CIFNSV) - Comunidade de Santo António",
+                  "text": "This Franciscan sisters' community serves as a Catholic place of worship near the Cristo Rei landmarks in Lubango.",
+                  "category": "religious",
+                  "coords": [
+                        13.504716,
+                        -14.924853
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-HL",
     coords: [13.5097, -14.9358],
@@ -143,7 +413,52 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Attribué au célèbre architecte Gustave Eiffel.", "Bâtiment entièrement réalisé en fonte et en acier.", "Devait initialement être installé à Madagascar ou au Vietnam.", "Arrivé à Luanda suite à un naufrage à la fin du XIXe siècle.", "Exemple de l'âge d'or de la construction industrielle préfabriquée.", "Abrite aujourd'hui des expositions d'art itinérantes et des festivals culturels.", "Entièrement restauré avec le soutien de partenaires internationaux.", "L'un des monuments les plus visités du centre de Luanda."],
     }, image: "/poi-images/palacio-de-ferro-landmarks-v2.webp"},
   {
-    id: "estadio-11-de-novembro-landmarks-v2",
+    id: "estadio-11-de-novembro-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diocese de Viana",
+                  "text": "Dieses bedeutende katholische Diözesanzentrum koordiniert die religiösen Aktivitäten für die Gläubigen in der Gemeinde Viana.",
+                  "category": "religious",
+                  "coords": [
+                        13.262531,
+                        -8.93755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diocese de Viana",
+                  "text": "Ez a kiemelkedő katolikus egyházmegyei központ koordinálja a hívők vallási tevékenységeit Viana önkormányzatában.",
+                  "category": "religious",
+                  "coords": [
+                        13.262531,
+                        -8.93755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diocese de Viana",
+                  "text": "Acest centru eparhial catolic proeminent coordonează activitățile religioase pentru credincioșii din municipalitatea Viana.",
+                  "category": "religious",
+                  "coords": [
+                        13.262531,
+                        -8.93755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diocese de Viana",
+                  "text": "This prominent Catholic diocesan center coordinates religious activities for the faithful in the Viana municipality.",
+                  "category": "religious",
+                  "coords": [
+                        13.262531,
+                        -8.93755
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-LU",
     coords: [13.2681, -8.9692],
@@ -213,7 +528,52 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Construite en 1582, l'une des plus anciennes églises de la ville.", "Déclarée monument national en 1923.", "Connue pour son intérieur baroque et ses autels dorés.", "Point central du quartier historique de Luanda.", "Servait de sépulture à d'importantes personnalités de l'époque coloniale.", "Exemple architectural de la transition de la Renaissance au baroque.", "Possède une importante collection de documents historiques.", "A été restaurée plusieurs fois au cours des siècles."],
     }, image: "/poi-images/igreja-populo-landmarks-v2.webp"},
   {
-    id: "se-catedral-luanda-landmarks-v2",
+    id: "se-catedral-luanda-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Nossa Senhora do Carmo",
+                  "text": "Die Igreja Nossa Senhora do Carmo ist eine bedeutende katholische Kirche in Luanda, die Unserer Lieben Frau vom Berge Karmel geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.232933,
+                        -8.816141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Nossa Senhora do Carmo",
+                  "text": "Az Igreja Nossa Senhora do Carmo egy jelentős katolikus templom Luandában, amelyet a Kármelhegyi Boldogasszonynak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        13.232933,
+                        -8.816141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Nossa Senhora do Carmo",
+                  "text": "Igreja Nossa Senhora do Carmo este o importantă biserică catolică din Luanda, închinată Maicii Domnului de pe Muntele Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        13.232933,
+                        -8.816141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Nossa Senhora do Carmo",
+                  "text": "The Igreja Nossa Senhora do Carmo is a prominent Catholic church in Luanda, dedicated to Our Lady of Mount Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        13.232933,
+                        -8.816141
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-LU",
     coords: [13.2325, -8.8153],
@@ -248,7 +608,124 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Siège de l'archidiocèse catholique romain de Luanda.", "Construite sur les ruines d'une ancienne chapelle de 1628.", "Plus important exemple d'architecture religieuse du XIXe siècle.", "Abrite des reliques précieuses et des trésors d'art ecclésiastique.", "Les tours sont visibles de loin au-dessus de la baie de Luanda.", "Lieu central pour les funérailles nationales et les actes d'État.", "Dispose d'une excellente acoustique pour les représentations chorales.", "Entièrement rénovée à l'occasion de la visite papale de 2009."],
     }, image: "/poi-images/se-catedral-luanda-landmarks-v2.webp"},
   {
-    id: "se-catedral-lubango-landmarks-v2",
+    id: "se-catedral-lubango-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro de Artes Padú",
+                  "text": "Dieses Kunstzentrum bietet Raum für kreative Ausstellungen und kulturelle Aktivitäten in der Nähe der Sé Catedral in Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.516165,
+                        -14.907864
+                  ]
+            },
+            {
+                  "name": "Centro Cultural da Huíla",
+                  "text": "Dieses Kulturzentrum der Provinz beherbergt Veranstaltungen und künstlerische Präsentationen in der Nähe der Sé Catedral in Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49788,
+                        -14.915669
+                  ]
+            },
+            {
+                  "name": "Mini-Zoo",
+                  "text": "Dieser kleine zoologische Park beherbergt verschiedene lokale Tierarten in der Nähe der Sé Catedral in Lubango.",
+                  "category": "recreational",
+                  "coords": [
+                        13.501176,
+                        -14.914979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro de Artes Padú",
+                  "text": "Ez a művészeti központ teret biztosít kreatív kiállításoknak és kulturális tevékenységeknek a lubangói Sé Catedral közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        13.516165,
+                        -14.907864
+                  ]
+            },
+            {
+                  "name": "Centro Cultural da Huíla",
+                  "text": "Ez a tartományi kulturális központ eseményeknek és művészeti bemutatóknak ad otthont a lubangói Sé Catedral közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49788,
+                        -14.915669
+                  ]
+            },
+            {
+                  "name": "Mini-Zoo",
+                  "text": "Ez a kis léptékű állatkert különféle helyi állatfajoknak ad otthont a lubangói Sé Catedral közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.501176,
+                        -14.914979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro de Artes Padú",
+                  "text": "Acest centru de arte oferă un spațiu pentru expoziții creative și activități culturale lângă Sé Catedral din Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.516165,
+                        -14.907864
+                  ]
+            },
+            {
+                  "name": "Centro Cultural da Huíla",
+                  "text": "Acest centru cultural provincial găzduiește evenimente și vitrine artistice lângă Sé Catedral din Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49788,
+                        -14.915669
+                  ]
+            },
+            {
+                  "name": "Mini-Zoo",
+                  "text": "Acest parc zoologic de mici dimensiuni găzduiește diverse specii de animale locale lângă Sé Catedral din Lubango.",
+                  "category": "recreational",
+                  "coords": [
+                        13.501176,
+                        -14.914979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro de Artes Padú",
+                  "text": "This arts centre provides a space for creative exhibitions and cultural activities near the Sé Catedral in Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.516165,
+                        -14.907864
+                  ]
+            },
+            {
+                  "name": "Centro Cultural da Huíla",
+                  "text": "This provincial cultural centre hosts events and artistic showcases near the Sé Catedral in Lubango.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49788,
+                        -14.915669
+                  ]
+            },
+            {
+                  "name": "Mini-Zoo",
+                  "text": "This small-scale zoological park houses various local animal species near the Sé Catedral in Lubango.",
+                  "category": "recreational",
+                  "coords": [
+                        13.501176,
+                        -14.914979
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-HL",
     coords: [13.4931, -14.9167],
@@ -283,7 +760,52 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Siège de l'archidiocèse catholique romain de Lubango.", "Construite dans un style d'éclectisme moderniste.", "Domine la place principale (Praça) de la ville de Lubango.", "Possède un orgue important et des sculptures religieuses sur bois.", "Inscrite sur la liste des monuments nationaux en 2014.", "Lieu important pour la formation en musique sacrée dans la région.", "Symbole de la pérennité de la mission catholique dans le sud.", "Entièrement restaurée en 2010."],
     }, image: "/poi-images/se-catedral-lubango-landmarks-v2.webp"},
     {
-    id: "ponte-4-de-abril-landmarks-v2",
+    id: "ponte-4-de-abril-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Dos Caminhos de Ferro",
+                  "text": "Das Museu Dos Caminhos de Ferro in der Nähe der Ponte 4 de Abril zeigt alte Lokomotiven und die Geschichte der Eisenbahn.",
+                  "category": "museum",
+                  "coords": [
+                        13.540263,
+                        -12.430902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Dos Caminhos de Ferro",
+                  "text": "A Ponte 4 de Abril közelében lévő Museu Dos Caminhos de Ferro régi mozdonyokat és a vasút történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.540263,
+                        -12.430902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Dos Caminhos de Ferro",
+                  "text": "Museu Dos Caminhos de Ferro, de lângă Ponte 4 de Abril, expune locomotive vechi și istoria căilor ferate.",
+                  "category": "museum",
+                  "coords": [
+                        13.540263,
+                        -12.430902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Dos Caminhos de Ferro",
+                  "text": "The Museu Dos Caminhos de Ferro near Ponte 4 de Abril exhibits old locomotives and the history of the railways.",
+                  "category": "museum",
+                  "coords": [
+                        13.540263,
+                        -12.430902
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-BGU",
     coords: [13.5358, -12.4308],
@@ -318,7 +840,160 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Liaison routière stratégique sur la route nationale EN100.", "Pont à haubans moderne à l'esthétique impressionnante.", "Facteur essentiel de l'efficacité du corridor de Lobito.", "Nommé d'après le jour de la paix et de la réconciliation.", "A remplacé l'ancien pont de fer de l'époque coloniale.", "Offre un passage sûr pour le transport lourd de marchandises.", "Emblème de la province de Benguela et fierté de la région.", "Entièrement financé et construit dans le cadre de la reconstruction nationale."],
     }, image: "/poi-images/ponte-4-de-abril-landmarks-v2.webp"},
   {
-    id: "banco-nacional-angola-landmarks-v2",
+    id: "banco-nacional-angola-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Facuan Geologisches Museum",
+                  "text": "Dieses spezialisierte Museum stellt eine vielfältige Sammlung von regionalen Mineralien, Gesteinen und geologischen Proben aus.",
+                  "category": "museum",
+                  "coords": [
+                        13.237366,
+                        -8.808966
+                  ]
+            },
+            {
+                  "name": "Münzmuseum",
+                  "text": "Dieses Museum in einer modernen unterirdischen Anlage zeigt die reiche numismatische Geschichte der angolanischen Währung.",
+                  "category": "museum",
+                  "coords": [
+                        13.233405,
+                        -8.810899
+                  ]
+            },
+            {
+                  "name": "Die Kirche Unserer Lieben Frau von Nazareth",
+                  "text": "Diese Kolonialkirche aus dem 17. Jahrhundert besticht durch klassische portugiesische Architektur und wunderschöne traditionelle Azulejo-Fliesen.",
+                  "category": "religious",
+                  "coords": [
+                        13.239386,
+                        -8.80808
+                  ]
+            },
+            {
+                  "name": "Eisenpalast",
+                  "text": "Diese auffällige gelbe Metallstruktur, die angeblich von Gustave Eiffel entworfen wurde, dient heute als lebendiges Kulturzentrum.",
+                  "category": "museum",
+                  "coords": [
+                        13.235651,
+                        -8.812179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu de Geologia Facuan",
+                  "text": "Ez a specializált múzeum regionális ásványok, kőzetek és geológiai példányok változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.237366,
+                        -8.808966
+                  ]
+            },
+            {
+                  "name": "Museu da Moeda",
+                  "text": "Ez a modern, földalatti létesítményben található múzeum az angolai valuta gazdag numizmatikai történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.233405,
+                        -8.810899
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Nazaré",
+                  "text": "Ez a 17. századi gyarmati templom klasszikus portugál építészettel és gyönyörű, hagyományos azulejo csempékkel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        13.239386,
+                        -8.80808
+                  ]
+            },
+            {
+                  "name": "Palácio de Ferro",
+                  "text": "Ez a feltűnő sárga fémszerkezet, amelyet a hírek szerint Gustave Eiffel tervezett, ma nyüzsgő kulturális központként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        13.235651,
+                        -8.812179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu de Geologia Facuan",
+                  "text": "Acest muzeu specializat expune o colecție diversă de minerale regionale, roci și specimene geologice.",
+                  "category": "museum",
+                  "coords": [
+                        13.237366,
+                        -8.808966
+                  ]
+            },
+            {
+                  "name": "Museu da Moeda",
+                  "text": "Situat într-o facilitate subterană modernă, acest muzeu prezintă istoria numismatică bogată a monedei angoleze.",
+                  "category": "museum",
+                  "coords": [
+                        13.233405,
+                        -8.810899
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Nazaré",
+                  "text": "Această biserică colonială din secolul al XVII-lea are o arhitectură clasică portugheză și plăci de azulejo tradiționale frumoase.",
+                  "category": "religious",
+                  "coords": [
+                        13.239386,
+                        -8.80808
+                  ]
+            },
+            {
+                  "name": "Palácio de Ferro",
+                  "text": "Această structură metalică galbenă izbitoare, despre care se zvonește că ar fi fost proiectată de Gustave Eiffel, servește acum ca un centru cultural vibrant.",
+                  "category": "museum",
+                  "coords": [
+                        13.235651,
+                        -8.812179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Facuan Geology Museum",
+                  "text": "This specialized museum exhibits a diverse collection of regional minerals, rocks, and geological specimens.",
+                  "category": "museum",
+                  "coords": [
+                        13.237366,
+                        -8.808966
+                  ]
+            },
+            {
+                  "name": "Coin Museum",
+                  "text": "Situated in a modern subterranean facility, this museum showcases the rich numismatic history of Angolan currency.",
+                  "category": "museum",
+                  "coords": [
+                        13.233405,
+                        -8.810899
+                  ]
+            },
+            {
+                  "name": "Our Lady of Nazareth Church",
+                  "text": "This 17th-century colonial church features classic Portuguese architecture and beautiful traditional azulejo tiles.",
+                  "category": "religious",
+                  "coords": [
+                        13.239386,
+                        -8.80808
+                  ]
+            },
+            {
+                  "name": "Iron Palace",
+                  "text": "This striking yellow metal structure, famously rumored to have been designed by Gustave Eiffel, now serves as a vibrant cultural center.",
+                  "category": "museum",
+                  "coords": [
+                        13.235651,
+                        -8.812179
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-LU",
     coords: [13.2351, -8.8118],
@@ -353,7 +1028,52 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Siège de la banque centrale de la République d'Angola.", "L'un des bâtiments les plus photographiés sur la Marginal de Luanda.", "Le style architectural est celui de l'Estado Novo portugais.", "Dispose d'une imposante coupole centrale visible de loin.", "Intérieur orné de fresques représentant l'économie de l'Angola.", "Les installations de sécurité figurent parmi les plus modernes du continent.", "Symbole de la souveraineté de la monnaie angolaise, le Kwanza.", "Conçu comme le « Palais de l'Argent » à l'époque coloniale."],
     }, image: "/poi-images/banco-nacional-angola-landmarks-v2.webp"},
   {
-    id: "monumento-kifangondo-landmarks-v2",
+    id: "monumento-kifangondo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Enseada do Cacuaco",
+                  "text": "Die Enseada do Cacuaco ist eine malerische Küstenbucht, die geschützte Gewässer entlang der atlantischen Küstenlinie bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.370806,
+                        -8.709215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Enseada do Cacuaco",
+                  "text": "Az Enseada do Cacuaco egy festői tengerparti öböl, amely védett vizeket kínál az Atlanti-óceán partvonala mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.370806,
+                        -8.709215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Enseada do Cacuaco",
+                  "text": "Enseada do Cacuaco este un golf pitoresc de coastă care oferă ape adăpostite de-a lungul țărmului atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        13.370806,
+                        -8.709215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enseada do Cacuaco",
+                  "text": "Enseada do Cacuaco is a scenic coastal bay offering sheltered waters along the Atlantic shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        13.370806,
+                        -8.709215
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-BGO",
     coords: [13.435, -8.7611],
@@ -390,7 +1110,196 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
 
   },
   {
-    id: "igreja-sagrada-familia-luanda-landmarks-v2",
+    id: "igreja-sagrada-familia-luanda-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pau da Cobra",
+                  "text": "Dieses einzigartige Denkmal, lokal als ‚Schlangenstock‘ bekannt, dient als leicht erkennbarer Wegpunkt in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        13.246259,
+                        -8.820988
+                  ]
+            },
+            {
+                  "name": "Estatua de Dr. António Agostinho Neto",
+                  "text": "Diese imposante Statue ehrt Angolas ersten Präsidenten und Schlüsselfigur in der Unabhängigkeitsbewegung der Nation.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243931,
+                        -8.827143
+                  ]
+            },
+            {
+                  "name": "Liga Nacional Africana",
+                  "text": "Dieser historische Veranstaltungsort beherbergt Theateraufführungen und bürgerliche Zusammenkünfte, die mit dem intellektuellen Erbe Angolas verbunden sind.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244062,
+                        -8.821079
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrada Família",
+                  "text": "Diese prominente katholische Pfarrkirche zeichnet sich durch eine markante modernistische Architektur aus, die in der Stadtlandschaft hervorsticht.",
+                  "category": "religious",
+                  "coords": [
+                        13.238478,
+                        -8.824826
+                  ]
+            },
+            {
+                  "name": "Largo da Família",
+                  "text": "Dieser offene städtische Platz bietet einen gemeinschaftlichen Versammlungsort direkt neben der Kirche Sagrada Família.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247107,
+                        -8.8285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pau da Cobra",
+                  "text": "A helyiek által „Kígyóbotnak” nevezett, egyedi emlékmű könnyen felismerhető tájékozódási pontként szolgál a városban.",
+                  "category": "historical",
+                  "coords": [
+                        13.246259,
+                        -8.820988
+                  ]
+            },
+            {
+                  "name": "Estatua de Dr. António Agostinho Neto",
+                  "text": "Ez az impozáns szobor Angola első elnökét és a nemzet függetlenségi mozgalmának kulcsfiguráját ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243931,
+                        -8.827143
+                  ]
+            },
+            {
+                  "name": "Liga Nacional Africana",
+                  "text": "Ez a történelmi kulturális helyszín Angola szellemi örökségéhez kötődő színházi előadásoknak és polgári összejöveteleknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244062,
+                        -8.821079
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrada Família",
+                  "text": "Ez a kiemelkedő katolikus plébániatemplom jellegzetes modernista építészettel büszkélkedhet, amely kitűnik a városképből.",
+                  "category": "religious",
+                  "coords": [
+                        13.238478,
+                        -8.824826
+                  ]
+            },
+            {
+                  "name": "Largo da Família",
+                  "text": "Ez a nyitott városi tér közösségi találkozóhelyet biztosít közvetlenül a Sagrada Família templom mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247107,
+                        -8.8285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pau da Cobra",
+                  "text": "Cunoscut local sub numele de „Bastonul Șarpelui”, acest monument unic servește ca punct de oprire ușor de recunoscut în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        13.246259,
+                        -8.820988
+                  ]
+            },
+            {
+                  "name": "Estatua de Dr. António Agostinho Neto",
+                  "text": "Această statuie impunătoare îl onorează pe primul președinte al Angolei și o figură cheie în mișcarea de independență a națiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243931,
+                        -8.827143
+                  ]
+            },
+            {
+                  "name": "Liga Nacional Africana",
+                  "text": "Această locație culturală istorică găzduiește spectacole de teatru și adunări civice legate de moștenirea intelectuală a Angolei.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244062,
+                        -8.821079
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrada Família",
+                  "text": "Această biserică parohială catolică proeminentă prezintă o arhitectură modernistă distinctivă, care iese în evidență în peisajul urban.",
+                  "category": "religious",
+                  "coords": [
+                        13.238478,
+                        -8.824826
+                  ]
+            },
+            {
+                  "name": "Largo da Família",
+                  "text": "Această piață urbană deschisă oferă un spațiu de adunare comunal chiar lângă biserica Sagrada Família.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247107,
+                        -8.8285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pau da Cobra",
+                  "text": "Known locally as the 'Snake Stick', this unique monument serves as an easily recognizable waystation in the city.",
+                  "category": "historical",
+                  "coords": [
+                        13.246259,
+                        -8.820988
+                  ]
+            },
+            {
+                  "name": "Estatua de Dr. António Agostinho Neto",
+                  "text": "This imposing statue honors Angola's first president and key figure in the nation's independence movement.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243931,
+                        -8.827143
+                  ]
+            },
+            {
+                  "name": "Liga Nacional Africana",
+                  "text": "This historic cultural venue hosts theatrical performances and civic gatherings tied to Angola's intellectual heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244062,
+                        -8.821079
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrada Família",
+                  "text": "This prominent Catholic parish church features distinctive modernist architecture that stands out in the urban landscape.",
+                  "category": "religious",
+                  "coords": [
+                        13.238478,
+                        -8.824826
+                  ]
+            },
+            {
+                  "name": "Largo da Família",
+                  "text": "This open urban plaza provides a communal gathering space directly adjacent to the Sagrada Família church.",
+                  "category": "landmark",
+                  "coords": [
+                        13.247107,
+                        -8.8285
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-LU",
     coords: [13.2422, -8.8258],
@@ -462,7 +1371,52 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
 
   },
     {
-    id: "universidade-agostinho-neto-campus-landmarks-v2",
+    id: "universidade-agostinho-neto-campus-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulengo Center Glakeni",
+                  "text": "Das Ulengo Center Glakeni ist ein Unterhaltungs-Freizeitpark mit einer Vielzahl von Fahrgeschäften und Freizeitattraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        13.292672,
+                        -8.94811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulengo Center Glakeni",
+                  "text": "Az Ulengo Center Glakeni egy szórakoztató vidámpark, amely különféle túrákat és szabadidős látványosságokat kínál a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.292672,
+                        -8.94811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulengo Center Glakeni",
+                  "text": "Ulengo Center Glakeni este un parc tematic de divertisment care prezintă o varietate de plimbări și atracții recreative pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.292672,
+                        -8.94811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulengo Center Glakeni",
+                  "text": "Ulengo Center Glakeni is an entertainment theme park featuring a variety of rides and recreational attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        13.292672,
+                        -8.94811
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-LU",
     coords: [13.315, -8.93],
@@ -532,7 +1486,88 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Principal lieu de culte de la ville planifiée moderne de Sequele.", "Construite dans le cadre de l'expansion urbaine massive de Luanda.", "Exemple d'intégration d'espaces religieux dans les nouveaux quartiers résidentiels.", "Offre de la place pour des centaines de fidèles dans un cadre moderne.", "Site important pour le travail de jeunesse et les projets sociaux locaux.", "Symbole de la nouvelle ère de la construction de logements en Angola.", "Facilement accessible pour les habitants du district de Cacuaco.", "Un signe de foi vivante dans les banlieues en pleine croissance."],
     }, image: "/poi-images/igreja-do-sequele-landmarks-v2.webp"},
   {
-    id: "estadio-nacional-ombaka-landmarks-v2",
+    id: "estadio-nacional-ombaka-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Santo Antônio",
+                  "text": "Praia Santo Antônio ist ein einladender Sandstrand an der Küste, der für seine entspannende Atmosphäre am Ozean bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.324582,
+                        -12.610857
+                  ]
+            },
+            {
+                  "name": "Baía de Santo António",
+                  "text": "Die Baía de Santo António ist eine malerische Meeresbucht entlang der angolanischen Küste, die historisch auch als Baía das Vacas bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351625,
+                        -12.585233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Santo Antônio",
+                  "text": "A Praia Santo Antônio egy hívogató tengerparti homokos strand, amely az óceán melletti pihentető légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.324582,
+                        -12.610857
+                  ]
+            },
+            {
+                  "name": "Baía de Santo António",
+                  "text": "A Baía de Santo António egy festői tengeri öböl az angolai partok mentén, amelyet történelmileg Baía das Vacas néven is ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351625,
+                        -12.585233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Santo Antônio",
+                  "text": "Praia Santo Antônio este o plajă de coastă cu nisip primitoare, cunoscută pentru atmosfera sa relaxantă de la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        13.324582,
+                        -12.610857
+                  ]
+            },
+            {
+                  "name": "Baía de Santo António",
+                  "text": "Baía de Santo António este un golf marin pitoresc, cunoscut istoric și sub numele de Baía das Vacas, de-a lungul coastei angoleze.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351625,
+                        -12.585233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Santo Antônio",
+                  "text": "Praia Santo Antônio is an inviting coastal sandy beach known for its relaxing atmosphere by the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        13.324582,
+                        -12.610857
+                  ]
+            },
+            {
+                  "name": "Baía de Santo António",
+                  "text": "Baía de Santo António is a picturesque marine bay, historically also known as Baía das Vacas, along the Angolan coast.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351625,
+                        -12.585233
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-BGU",
     coords: [13.385, -12.605],
@@ -567,7 +1602,88 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Construit comme l'un des quatre stades principaux pour la Coupe d'Afrique 2010.", "Possède une capacité d'environ 35 000 places assises.", "Le nom « Ombaka » est la désignation traditionnelle de Benguela.", "Design architectural primé avec une structure ouverte.", "Dispose de terrains d'entraînement et de centres de presse modernes.", "Contribue à la promotion du football chez les jeunes dans la province.", "Lieu de matchs importants du championnat Girabola.", "Un symbole de la reconstruction de la province de Benguela."],
     }, image: "/poi-images/estadio-nacional-ombaka-landmarks-v2.webp"},
   {
-    id: "estadio-nacional-tundavala-landmarks-v2",
+    id: "estadio-nacional-tundavala-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barracões da Huíla",
+                  "text": "Diese historische Schuppenattraktion steht in der Nähe des Estádio Nacional da Tundavala und spiegelt die frühe lokale Architektur wider.",
+                  "category": "landmark",
+                  "coords": [
+                        13.533023,
+                        -14.917351
+                  ]
+            },
+            {
+                  "name": "Cemitério Histórico dos Barracões",
+                  "text": "Diese historische Friedhofsattraktion bewahrt die Ruhestätten früher Siedler in der Nähe des Estádio Nacional da Tundavala.",
+                  "category": "landmark",
+                  "coords": [
+                        13.532327,
+                        -14.918357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barracões da Huíla",
+                  "text": "Ez a történelmi fészer látványosság az Estádio Nacional da Tundavala közelében áll, tükrözve a korai helyi építészetet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.533023,
+                        -14.917351
+                  ]
+            },
+            {
+                  "name": "Cemitério Histórico dos Barracões",
+                  "text": "Ez a történelmi temető látványosság a korai telepesek nyughelyeit őrzi az Estádio Nacional da Tundavala közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.532327,
+                        -14.918357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barracões da Huíla",
+                  "text": "Această atracție cu șopron istoric se află lângă Estádio Nacional da Tundavala, reflectând arhitectura locală timpurie.",
+                  "category": "landmark",
+                  "coords": [
+                        13.533023,
+                        -14.917351
+                  ]
+            },
+            {
+                  "name": "Cemitério Histórico dos Barracões",
+                  "text": "Această atracție a cimitirului istoric păstrează locurile de odihnă ale primilor coloniști de lângă Estádio Nacional da Tundavala.",
+                  "category": "landmark",
+                  "coords": [
+                        13.532327,
+                        -14.918357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barracões da Huíla",
+                  "text": "This historic shed attraction stands near the Estádio Nacional da Tundavala, reflecting early local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        13.533023,
+                        -14.917351
+                  ]
+            },
+            {
+                  "name": "Cemitério Histórico dos Barracões",
+                  "text": "This historic cemetery attraction preserves the resting places of early settlers near the Estádio Nacional da Tundavala.",
+                  "category": "landmark",
+                  "coords": [
+                        13.532327,
+                        -14.918357
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-HL",
     coords: [13.5281, -14.9381],
@@ -639,7 +1755,124 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
 
   },
   {
-    id: "se-catedral-huambo-landmarks-v2",
+    id: "se-catedral-huambo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Lucunga",
+                  "text": "Ein Aussichtspunkt auf einem Berg in der Nähe von Huambo, der eine erhöhte Perspektive auf die architektonischen Wahrzeichen der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.678134,
+                        -12.828413
+                  ]
+            },
+            {
+                  "name": "Casa Savimbi",
+                  "text": "Die historischen Ruinen eines ehemaligen Wohnsitzes des UNITA-Führers Jonas Savimbi, die die Narben des angolanischen Bürgerkriegs tragen.",
+                  "category": "historical",
+                  "coords": [
+                        15.743632,
+                        -12.785726
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Dieses städtische Museum in Huambo zeigt lokale ethnografische Artefakte und die Kulturgeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        15.739037,
+                        -12.779714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Lucunga",
+                  "text": "Egy hegyvidéki kilátópont Huambo közelében, ahonnan a város építészeti nevezetességeit lehet magasról megfigyelni.",
+                  "category": "natural",
+                  "coords": [
+                        15.678134,
+                        -12.828413
+                  ]
+            },
+            {
+                  "name": "Casa Savimbi",
+                  "text": "A Jonas Savimbi UNITA-vezérhez kötődő egykori rezidencia történelmi romjai, amelyek az angolai polgárháború nyomait viselik magukon.",
+                  "category": "historical",
+                  "coords": [
+                        15.743632,
+                        -12.785726
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "A huambói városi múzeum helyi néprajzi tárgyakat és a régió kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.739037,
+                        -12.779714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Lucunga",
+                  "text": "Un punct de observație montan din apropiere de Huambo, care oferă o perspectivă înaltă asupra reperelor arhitecturale ale orașului.",
+                  "category": "natural",
+                  "coords": [
+                        15.678134,
+                        -12.828413
+                  ]
+            },
+            {
+                  "name": "Casa Savimbi",
+                  "text": "Ruinele istorice ale unei foste reședințe legate de liderul UNITA, Jonas Savimbi, care poartă cicatricile Războiului Civil Angolez.",
+                  "category": "historical",
+                  "coords": [
+                        15.743632,
+                        -12.785726
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Acest muzeu municipal din Huambo prezintă artefacte etnografice locale și istoria culturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        15.739037,
+                        -12.779714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Lucunga",
+                  "text": "A mountain vantage point near Huambo offering elevated perspectives of the city's architectural landmarks.",
+                  "category": "natural",
+                  "coords": [
+                        15.678134,
+                        -12.828413
+                  ]
+            },
+            {
+                  "name": "Savimbi House",
+                  "text": "The historic ruins of a former residence linked to UNITA leader Jonas Savimbi, bearing scars from the Angolan Civil War.",
+                  "category": "historical",
+                  "coords": [
+                        15.743632,
+                        -12.785726
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "This municipal museum in Huambo showcases local ethnographic artifacts and the region's cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        15.739037,
+                        -12.779714
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-HUA",
     coords: [15.7333, -12.775],
@@ -676,7 +1909,52 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
 
   },
   {
-    id: "assembleia-nacional-landmarks-v2",
+    id: "assembleia-nacional-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Anthropologie-Museum",
+                  "text": "Dieses Museum beherbergt eine umfangreiche Sammlung traditioneller Masken und Artefakte und erforscht tiefgreifend die vielfältigen indigenen Kulturen Angolas.",
+                  "category": "museum",
+                  "coords": [
+                        13.227802,
+                        -8.813582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Nacional de Antropologia",
+                  "text": "A hagyományos maszkok és műtárgyak kiterjedt gyűjteményének otthont adó múzeum mélyrehatóan tárja fel Angola sokszínű őslakos kultúráit.",
+                  "category": "museum",
+                  "coords": [
+                        13.227802,
+                        -8.813582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Nacional de Antropologia",
+                  "text": "Găzduind o colecție extinsă de măști și artefacte tradiționale, acest muzeu explorează profund culturile indigene diverse ale Angolei.",
+                  "category": "museum",
+                  "coords": [
+                        13.227802,
+                        -8.813582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Anthropology Museum",
+                  "text": "Housing an extensive collection of traditional masks and artifacts, this museum deeply explores the diverse indigenous cultures of Angola.",
+                  "category": "museum",
+                  "coords": [
+                        13.227802,
+                        -8.813582
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-LU",
     coords: [13.229, -8.816],
@@ -781,7 +2059,88 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       fr: ["Plus important monument religieux de la ville de Soyo.", "S'élève sur un site historiquement décisif pour la mission.", "Renouvelée plusieurs fois au cours des siècles.", "Symbole de l'héritage chrétien du Royaume du Kongo.", "Point central des fêtes religieuses dans la province du Zaïre.", "Déclarée patrimoine culturel national de l'Angola.", "Offre un aperçu de l'histoire précoce de la colonisation.", "Un lieu de paix au milieu de la ville de Soyo en pleine croissance industrielle."],
     }, image: "/poi-images/igreja-nossa-senhora-conceicao-soyo-landmarks-v2.webp"},
   {
-    id: "fortim-do-kikombo-landmarks-v2",
+    id: "fortim-do-kikombo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cubal River Gorge",
+                  "text": "Eine tiefe, natürlich geformte Flussschlucht mit steilen Felswänden entlang des Flusses Cubal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.840756,
+                        -11.322255
+                  ]
+            },
+            {
+                  "name": "Grutas de Sassa",
+                  "text": "Ein faszinierendes natürliches Höhlensystem, das für seine beeindruckenden Kalksteinformationen und unterirdischen Kammern bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.892095,
+                        -11.258608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cubal River Gorge",
+                  "text": "Mély, természetesen kialakult folyami kanyon, meredek sziklafalakkal a Cubal folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.840756,
+                        -11.322255
+                  ]
+            },
+            {
+                  "name": "Grutas de Sassa",
+                  "text": "Lenyűgöző természetes barlangrendszer, amely lenyűgöző mészkőalakzatairól és földalatti termeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.892095,
+                        -11.258608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cubal River Gorge",
+                  "text": "Un canion fluvial adânc, sculptat natural, cu pereți stâncoși abrupți de-a lungul râului Cubal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.840756,
+                        -11.322255
+                  ]
+            },
+            {
+                  "name": "Grutas de Sassa",
+                  "text": "Un sistem fascinant de peșteri naturale, cunoscut pentru formațiunile sale impresionante de calcar și camerele subterane.",
+                  "category": "landmark",
+                  "coords": [
+                        13.892095,
+                        -11.258608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cubal River Gorge",
+                  "text": "A deep, naturally carved river canyon featuring steep rocky walls along the Cubal River.",
+                  "category": "landmark",
+                  "coords": [
+                        13.840756,
+                        -11.322255
+                  ]
+            },
+            {
+                  "name": "Grutas de Sassa",
+                  "text": "A fascinating natural cave system known for its impressive limestone formations and subterranean chambers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.892095,
+                        -11.258608
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AO-CNO",
     coords: [13.9167, -11.3167],

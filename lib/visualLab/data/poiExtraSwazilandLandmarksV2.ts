@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSwazilandLandmarksV2: POI[] = [
   {
-    id: "somhlolo-national-stadium-landmarks-v2",
+    id: "somhlolo-national-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Garden",
+                  "text": "Der Aussichtspunkt Garden bietet einen malerischen, von Pflanzen umgebenen Blick in der Nähe des Somhlolo-Nationalstadions.",
+                  "category": "natural",
+                  "coords": [
+                        31.206347,
+                        -26.448179
+                  ]
+            },
+            {
+                  "name": "Swaziland National Museum",
+                  "text": "Das Swaziland National Museum beherbergt Ausstellungen zum kulturellen Erbe und den Traditionen des Swasi-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        31.207648,
+                        -26.446746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garden",
+                  "text": "A Garden kilátó egy buja, festői panorámát kínáló hely a Somhlolo Nemzeti Stadion közelében.",
+                  "category": "natural",
+                  "coords": [
+                        31.206347,
+                        -26.448179
+                  ]
+            },
+            {
+                  "name": "Swaziland National Museum",
+                  "text": "A Szváziföldi Nemzeti Múzeum a szvázi nép hagyományos kulturális örökségét bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        31.207648,
+                        -26.446746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Garden",
+                  "text": "Punctul de belvedere Garden oferă o perspectivă pitorească și înverzită în apropierea Stadionului Național Somhlolo.",
+                  "category": "natural",
+                  "coords": [
+                        31.206347,
+                        -26.448179
+                  ]
+            },
+            {
+                  "name": "Swaziland National Museum",
+                  "text": "Muzeul Național al Swazilandului găzduiește expoziții culturale care prezintă patrimoniul tradițional al poporului swazi.",
+                  "category": "museum",
+                  "coords": [
+                        31.207648,
+                        -26.446746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Garden",
+                  "text": "The Garden viewpoint offers a lush, elevated perspective over the vibrant surroundings of the Somhlolo National Stadium.",
+                  "category": "natural",
+                  "coords": [
+                        31.206347,
+                        -26.448179
+                  ]
+            },
+            {
+                  "name": "Swaziland National Museum",
+                  "text": "The Swaziland National Museum is a cultural institution displaying artifacts that preserve the history and traditions of the Swazi kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        31.207648,
+                        -26.446746
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SZ-HH",
     coords: [31.2064, -26.4465],
@@ -195,7 +276,52 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lozitha-royal-palace-landmarks-v2",
+    id: "lozitha-royal-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lozitha Palace",
+                  "text": "Dieser imposante königliche Palastkomplex dient als bedeutender administrativer und zeremonieller Ort in Lozitha.",
+                  "category": "castle",
+                  "coords": [
+                        31.265364,
+                        -26.471152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lozitha Palace",
+                  "text": "Ez az impozáns királyi palotakomplexum jelentős közigazgatási és ceremoniális helyszínként szolgál Lozithában.",
+                  "category": "castle",
+                  "coords": [
+                        31.265364,
+                        -26.471152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lozitha Palace",
+                  "text": "Acest impunător complex de palate regale servește drept un important sit administrativ și ceremonial în Lozitha.",
+                  "category": "castle",
+                  "coords": [
+                        31.265364,
+                        -26.471152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lozitha Palace",
+                  "text": "This imposing royal palace complex serves as a significant administrative and ceremonial site in Lozitha.",
+                  "category": "castle",
+                  "coords": [
+                        31.265364,
+                        -26.471152
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SZ-MA",
     coords: [31.272, -26.485],
@@ -291,7 +417,52 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "king-mswati-iii-international-airport-landmarks-v2",
+    id: "king-mswati-iii-international-airport-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panata Ranch",
+                  "text": "Die Panata Ranch ist ein ruhiges Naturschutzgebiet, das die lokalen swasiländischen Lebensräume schützt und Möglichkeiten zur Tierbeobachtung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.645422,
+                        -26.315318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panata Ranch",
+                  "text": "A Panata Ranch nyugodt természetvédelmi területként működik, megőrizve a helyi szváziföldi élőhelyeket, és vadon élő állatok megfigyelését kínálja.",
+                  "category": "natural",
+                  "coords": [
+                        31.645422,
+                        -26.315318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panata Ranch",
+                  "text": "Ferma Panata funcționează ca o rezervație naturală liniștită, păstrând habitatele locale swazi și oferind oportunități de observare a faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        31.645422,
+                        -26.315318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panata Ranch",
+                  "text": "Panata Ranch operates as a serene nature reserve, preserving local Swazi habitats and offering wildlife viewing opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        31.645422,
+                        -26.315318
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SZ-LU",
     coords: [31.7167, -26.35],
@@ -531,7 +702,88 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "all-saints-cathedral-mbabane-landmarks-v2",
+    id: "all-saints-cathedral-mbabane-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gobholo Cave",
+                  "text": "Gobholo Cave ist ein natürliches unterirdisches Höhlensystem nahe Mbabane, das einen besonderen Blick in die felsigen Tiefen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.16932,
+                        -26.357205
+                  ]
+            },
+            {
+                  "name": "Art Centre",
+                  "text": "Das Art Centre ist ein kreativer Treffpunkt nahe der All Saints Cathedral, der zeitgenössische Kunst und Kunsthandwerk präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        31.135628,
+                        -26.322876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gobholo Cave",
+                  "text": "A Gobholo-barlang egy természetes föld alatti barlangrendszer Mbabane közelében, amely egyedi betekintést enged a sziklás mélységekbe.",
+                  "category": "natural",
+                  "coords": [
+                        31.16932,
+                        -26.357205
+                  ]
+            },
+            {
+                  "name": "Art Centre",
+                  "text": "Az Art Centre egy kreatív központ az All Saints Katedrális közelében, amely kortárs művészeti és kézműves alkotásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        31.135628,
+                        -26.322876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gobholo Cave",
+                  "text": "Peștera Gobholo este un sistem de caverne naturale subterane de lângă Mbabane, care oferă o perspectivă unică asupra adâncurilor stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        31.16932,
+                        -26.357205
+                  ]
+            },
+            {
+                  "name": "Art Centre",
+                  "text": "Art Centre este un hub creativ de lângă Catedrala All Saints, care expune opere de artă contemporană și artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        31.135628,
+                        -26.322876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gobholo Cave",
+                  "text": "The Gobholo Cave viewpoint looks out from a rugged, natural subterranean cavern system embedded in the Mbabane hills.",
+                  "category": "natural",
+                  "coords": [
+                        31.16932,
+                        -26.357205
+                  ]
+            },
+            {
+                  "name": "Art Centre",
+                  "text": "The Art Centre is a local gallery space exhibiting colorful, contemporary Swazi arts and handmade crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        31.135628,
+                        -26.322876
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SZ-HH",
     coords: [31.132, -26.321],
@@ -1059,7 +1311,52 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "un-house-eswatini-landmarks-v2",
+    id: "un-house-eswatini-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Indingilizi Art & Craft Gallery",
+                  "text": "Die Indingilizi Art & Craft Gallery ist ein bemerkenswerter Ausstellungsraum, der sich der Präsentation authentischer swasischer Kunst und handgefertigter Kunsthandwerke widmet.",
+                  "category": "museum",
+                  "coords": [
+                        31.144265,
+                        -26.320617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Indingilizi Art & Craft Gallery",
+                  "text": "Az Indingilizi Művészeti és Kézműves Galéria egy nevezetes kiállítótér, amely az autentikus szváziföldi művészetek és kézzel készített kézműves termékek bemutatásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        31.144265,
+                        -26.320617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Indingilizi Art & Craft Gallery",
+                  "text": "Galeria de artă și artizanat Indingilizi este un spațiu de expoziție remarcabil dedicat prezentării artelor autentice din Eswatini și a meșteșugurilor realizate manual.",
+                  "category": "museum",
+                  "coords": [
+                        31.144265,
+                        -26.320617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Indingilizi Art & Craft Gallery",
+                  "text": "Indingilizi Art & Craft Gallery is a notable exhibition space dedicated to showcasing authentic Swazi arts and handmade crafts.",
+                  "category": "museum",
+                  "coords": [
+                        31.144265,
+                        -26.320617
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SZ-HH",
     coords: [31.137, -26.316],

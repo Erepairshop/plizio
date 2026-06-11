@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraZambiaCitiesV2: POI[] = [
   {
-    id: "lusaka-cities-v2",
+    id: "lusaka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bayport",
+                  "text": "Dieser städtische Aussichtspunkt bietet weite Ausblicke über die Skyline und die belebten Straßen des modernen Lusaka.",
+                  "category": "natural",
+                  "coords": [
+                        28.282657,
+                        -15.419066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bayport",
+                  "text": "Ez a városi kilátó széles rálátást biztosít a modern Lusaka látképére és nyüzsgő utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        28.282657,
+                        -15.419066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bayport",
+                  "text": "Acest punct de belvedere urban oferă vederi extinse asupra orizontului și străzilor aglomerate ale Lusakăi moderne.",
+                  "category": "natural",
+                  "coords": [
+                        28.282657,
+                        -15.419066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bayport",
+                  "text": "This urban viewpoint provides expansive views over the skyline and bustling city streets of modern Lusaka.",
+                  "category": "natural",
+                  "coords": [
+                        28.282657,
+                        -15.419066
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZM-09",
     coords: [28.2833, -15.4167],
@@ -83,7 +128,52 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       fr: ["Fondée en : 1904", "Région : Copperbelt", "Altitude : 1 300 mètres", "Principal secteur : Cuivre", "Site d'un aéroport international", "Troisième plus grande ville"],
     }, image: "/poi-images/ndola-cities-v2.webp"},
   {
-    id: "kitwe-cities-v2",
+    id: "kitwe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "16 Lufwanyama Rd",
+                  "text": "Diese Immobilie in der Lufwanyama Road 16 in der Copperbelt-Stadt Kitwe zeigt den ausgeprägten Architekturstil der Mitte des Jahrhunderts, der in Bergbaustädten üblich ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.193432,
+                        -12.799237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "16 Lufwanyama Rd",
+                  "text": "A rézövezetben fekvő Kitwe városában található, Lufwanyama Road 16. szám alatti ingatlan a bányavárosokban elterjedt, jellegzetes 20. század közepi építészeti stílust mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        28.193432,
+                        -12.799237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "16 Lufwanyama Rd",
+                  "text": "Situată în orașul Kitwe din centura de cupru, această proprietate de pe Lufwanyama Road nr. 16 prezintă stilul arhitectural distinct de la mijlocul secolului, comun în orașele miniere.",
+                  "category": "landmark",
+                  "coords": [
+                        28.193432,
+                        -12.799237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "16 Lufwanyama Rd",
+                  "text": "Located in the Copperbelt city of Kitwe, this property at 16 Lufwanyama Road showcases the distinct mid-century architectural style common in the region's mining towns.",
+                  "category": "landmark",
+                  "coords": [
+                        28.193432,
+                        -12.799237
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-08",
     coords: [28.2132, -12.8024],

@@ -51,7 +51,160 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       fr: ["Inauguré en 2007.", "Capacité d'environ 15 250 places assises.", "Lieu d'accueil de la Coupe d'Afrique 2012.", "Dispose d'une piste d'athlétisme moderne."],
     }, image: "/poi-images/malabo-national-stadium-landmarks-v2.webp"},
   {
-    id: "bata-stadium-landmarks-v2",
+    id: "bata-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia de Fran José Martín",
+                  "text": "Die Iglesia de Fran José Martín ist ein monumentales Kirchengebäude in der Nähe des Stadions von Bata.",
+                  "category": "historical",
+                  "coords": [
+                        9.821125,
+                        1.841239
+                  ]
+            },
+            {
+                  "name": "Terreno Chuchu",
+                  "text": "Terreno Chuchu ist eine festungsartige Anlage in der Nähe des Stadions von Bata.",
+                  "category": "castle",
+                  "coords": [
+                        9.815566,
+                        1.849295
+                  ]
+            },
+            {
+                  "name": "Église de Makoga",
+                  "text": "Die Église de Makoga ist ein schlossartiges Kirchengebäude in der Nähe des Stadions von Bata.",
+                  "category": "castle",
+                  "coords": [
+                        9.842181,
+                        1.855925
+                  ]
+            },
+            {
+                  "name": "Terre Emilita Mokoga",
+                  "text": "Terre Emilita Mokoga ist eine festungsartige Struktur in der Nähe des Stadions von Bata.",
+                  "category": "castle",
+                  "coords": [
+                        9.843479,
+                        1.849897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia de Fran José Martín",
+                  "text": "Az Iglesia de Fran José Martín egy monumentális templomépület a batai stadion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.821125,
+                        1.841239
+                  ]
+            },
+            {
+                  "name": "Terreno Chuchu",
+                  "text": "A Terreno Chuchu egy erődítmény jellegű építmény a batai stadion közelében.",
+                  "category": "castle",
+                  "coords": [
+                        9.815566,
+                        1.849295
+                  ]
+            },
+            {
+                  "name": "Église de Makoga",
+                  "text": "Az Église de Makoga egy kastélyszerű templomépület a batai stadion közelében.",
+                  "category": "castle",
+                  "coords": [
+                        9.842181,
+                        1.855925
+                  ]
+            },
+            {
+                  "name": "Terre Emilita Mokoga",
+                  "text": "A Terre Emilita Mokoga egy erődítményszerű építmény a batai stadion közelében.",
+                  "category": "castle",
+                  "coords": [
+                        9.843479,
+                        1.849897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia de Fran José Martín",
+                  "text": "Iglesia de Fran José Martín este o biserică monumentală situată lângă Stadionul din Bata.",
+                  "category": "historical",
+                  "coords": [
+                        9.821125,
+                        1.841239
+                  ]
+            },
+            {
+                  "name": "Terreno Chuchu",
+                  "text": "Terreno Chuchu este o structură asemănătoare unei fortărețe, situată lângă Stadionul din Bata.",
+                  "category": "castle",
+                  "coords": [
+                        9.815566,
+                        1.849295
+                  ]
+            },
+            {
+                  "name": "Église de Makoga",
+                  "text": "Église de Makoga este o biserică asemănătoare unui castel, situată lângă Stadionul din Bata.",
+                  "category": "castle",
+                  "coords": [
+                        9.842181,
+                        1.855925
+                  ]
+            },
+            {
+                  "name": "Terre Emilita Mokoga",
+                  "text": "Terre Emilita Mokoga este o structură fortificată situată în apropiere de Stadionul din Bata.",
+                  "category": "castle",
+                  "coords": [
+                        9.843479,
+                        1.849897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia de Fran José Martín",
+                  "text": "Iglesia de Fran José Martín is a monumental church structure located near the Bata Stadium.",
+                  "category": "historical",
+                  "coords": [
+                        9.821125,
+                        1.841239
+                  ]
+            },
+            {
+                  "name": "Terreno Chuchu",
+                  "text": "Terreno Chuchu is a fortress-like castle structure situated near the Bata Stadium.",
+                  "category": "castle",
+                  "coords": [
+                        9.815566,
+                        1.849295
+                  ]
+            },
+            {
+                  "name": "Église de Makoga",
+                  "text": "Église de Makoga is a castle-like church building located near the Bata Stadium.",
+                  "category": "castle",
+                  "coords": [
+                        9.842181,
+                        1.855925
+                  ]
+            },
+            {
+                  "name": "Terre Emilita Mokoga",
+                  "text": "Terre Emilita Mokoga is a fortified castle structure situated near the Bata Stadium.",
+                  "category": "castle",
+                  "coords": [
+                        9.843479,
+                        1.849897
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GQ-LI",
     coords: [9.791, 1.841],
@@ -320,7 +473,124 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "martyrs-7m-monument-landmarks-v2",
+    id: "martyrs-7m-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pueblo Bisio Fug Wundi Lia (Bingunli)",
+                  "text": "Pueblo Bisio (Bingunli) Fug-Wundi Lia ist ein kulturelles Denkmal in der Nähe des Martyrs 7m Monument.",
+                  "category": "historical",
+                  "coords": [
+                        9.787674,
+                        1.871432
+                  ]
+            },
+            {
+                  "name": "Catedral de Santiago Apóstol y Ntra. Sra. del Pilar",
+                  "text": "Die Catedral de Santiago Apóstol y Ntra. Sra. del Pilar ist eine historische katholische Kathedrale in der Nähe des Martyrs 7m Monument in Bata.",
+                  "category": "landmark",
+                  "coords": [
+                        9.769538,
+                        1.86687
+                  ]
+            },
+            {
+                  "name": "Torre de la Libertad",
+                  "text": "Der Torre de la Libertad ist ein markanter Aussichtsturm in der Nähe des Martyrs 7m Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        9.770582,
+                        1.870435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pueblo Bisio Fug Wundi Lia (Bingunli)",
+                  "text": "A Pueblo Bisio (Bingunli) Fug-Wundi Lia egy kulturális emlékmű a Martyrs 7m Monument közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.787674,
+                        1.871432
+                  ]
+            },
+            {
+                  "name": "Catedral de Santiago Apóstol y Ntra. Sra. del Pilar",
+                  "text": "A Catedral de Santiago Apóstol y Ntra. Sra. del Pilar egy történelmi katolikus katedrális a batai Martyrs 7m Monument közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.769538,
+                        1.86687
+                  ]
+            },
+            {
+                  "name": "Torre de la Libertad",
+                  "text": "A Torre de la Libertad egy feltűnő kilátótorony a Martyrs 7m Monument közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.770582,
+                        1.870435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pueblo Bisio Fug Wundi Lia (Bingunli)",
+                  "text": "Pueblo Bisio (Bingunli) Fug-Wundi Lia este un monument cultural situat lângă Martyrs 7m Monument.",
+                  "category": "historical",
+                  "coords": [
+                        9.787674,
+                        1.871432
+                  ]
+            },
+            {
+                  "name": "Catedral de Santiago Apóstol y Ntra. Sra. del Pilar",
+                  "text": "Catedral de Santiago Apóstol y Ntra. Sra. del Pilar este o catedrală catolică istorică situată lângă Martyrs 7m Monument din Bata.",
+                  "category": "landmark",
+                  "coords": [
+                        9.769538,
+                        1.86687
+                  ]
+            },
+            {
+                  "name": "Torre de la Libertad",
+                  "text": "Torre de la Libertad este un turn proeminent de atracție situat lângă Martyrs 7m Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        9.770582,
+                        1.870435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pueblo Bisio (Bingunli) Fug-Wundi Lia",
+                  "text": "Pueblo Bisio (Bingunli) Fug-Wundi Lia is a cultural monument located near the Martyrs 7m Monument.",
+                  "category": "historical",
+                  "coords": [
+                        9.787674,
+                        1.871432
+                  ]
+            },
+            {
+                  "name": "Catedral de Santiago Apóstol y Ntra. Sra. del Pilar",
+                  "text": "Catedral de Santiago Apóstol y Ntra. Sra. del Pilar is a historic Catholic cathedral attraction situated near the Martyrs 7m Monument in Bata.",
+                  "category": "landmark",
+                  "coords": [
+                        9.769538,
+                        1.86687
+                  ]
+            },
+            {
+                  "name": "Torre de la Libertad",
+                  "text": "Torre de la Libertad is a prominent tower attraction located near the Martyrs 7m Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        9.770582,
+                        1.870435
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GQ-LI",
     coords: [9.766, 1.868],
@@ -451,7 +721,52 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       fr: ["Exemple d'architecture de verre moderne.", "Situé dans le nouveau quartier des affaires de Malabo.", "Symbole de la richesse économique du pays.", "Comprend des espaces de bureaux ultra-modernes."],
     }, image: "/poi-images/gepetrol-headquarters-landmarks-v2.webp"},
   {
-    id: "ngolo-conference-center-landmarks-v2",
+    id: "ngolo-conference-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Entrada Nene Armengol - Ngoló - Bata - Guinea ecuatorial",
+                  "text": "Entrada Nene Armengol ist ein malerischer Aussichtspunkt am Eingang zu Ngoló in Bata.",
+                  "category": "natural",
+                  "coords": [
+                        9.787578,
+                        1.861026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Entrada Nene Armengol - Ngoló - Bata - Guinea ecuatorial",
+                  "text": "Az Entrada Nene Armengol egy festői kilátó a batai Ngoló bejáratánál.",
+                  "category": "natural",
+                  "coords": [
+                        9.787578,
+                        1.861026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Entrada Nene Armengol - Ngoló - Bata - Guinea ecuatorial",
+                  "text": "Entrada Nene Armengol este un punct de belvedere pitoresc la intrarea în Ngoló, Bata.",
+                  "category": "natural",
+                  "coords": [
+                        9.787578,
+                        1.861026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Entrada Nene Armengol - Ngoló - Bata - Guinea ecuatorial",
+                  "text": "Entrada Nene Armengol is a scenic viewpoint at the entrance to Ngoló in Bata.",
+                  "category": "natural",
+                  "coords": [
+                        9.787578,
+                        1.861026
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GQ-LI",
     coords: [9.782, 1.845],
@@ -874,7 +1189,52 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "bata-city-hall-new-landmarks-v2",
+    id: "bata-city-hall-new-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Vanessa",
+                  "text": "Casa Vanessa ist eine städtische Sehenswürdigkeit in der Nähe des Rathauses von Bata.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774553,
+                        1.858091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Vanessa",
+                  "text": "A Casa Vanessa egy városi látványosság a batai városháza közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774553,
+                        1.858091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Vanessa",
+                  "text": "Casa Vanessa este o atracție urbană situată în apropiere de Primăria din Bata.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774553,
+                        1.858091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Vanessa",
+                  "text": "Casa Vanessa is an urban attraction situated near the Bata City Hall.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774553,
+                        1.858091
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GQ-LI",
     coords: [9.767, 1.861],

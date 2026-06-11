@@ -232,7 +232,7 @@ export const serbiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das Nationaltheater von Subotica ist ein bedeutendes kulturelles Zentrum im Stadtzentrum.",
+                  "text": "Das Nationaltheater Subotica, 1854 von János Skultéti erbaut, im Industriegebiet von Subotica.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -297,7 +297,7 @@ export const serbiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Szabadkai Népszínház",
-                  "text": "A Szabadkai Népszínház a városközpont egyik legfontosabb kulturális intézménye.",
+                  "text": "A Szabadkai Nemzeti Színház, 1854-ben építette Skultéti János, Szabadka ipari övezetében.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -362,7 +362,7 @@ export const serbiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica este un centru cultural important din centrul orașului.",
+                  "text": "Teatrul Național din Subotica, construit în 1854 de János Skultéti, în zona industrială a orașului.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -427,7 +427,7 @@ export const serbiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Subotica National Theatre",
-                  "text": "The Subotica National Theatre is a significant cultural landmark in the city center.",
+                  "text": "Subotica National Theatre, built in 1854 by János Skultéti, located in the industrial zone.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -3166,7 +3166,7 @@ export const serbiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das Nationaltheater von Subotica ist eine bedeutende kulturelle Einrichtung der Stadt.",
+                  "text": "Das Nationaltheater Subotica, 1854 von János Skultéti erbaut, im Lebensmittelindustriegebiet von Subotica.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -3231,7 +3231,7 @@ export const serbiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Szabadkai Népszínház",
-                  "text": "A Szabadkai Népszínház a város egyik legfontosabb kulturális intézménye.",
+                  "text": "A Szabadkai Nemzeti Színház, 1854-ben építette Skultéti János, Szabadka élelmiszeripari negyedében.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -3296,7 +3296,7 @@ export const serbiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica este o instituție culturală majoră a orașului.",
+                  "text": "Teatrul Național din Subotica, construit în 1854 de János Skultéti, în zona industriei alimentare.",
                   "category": "cultural",
                   "coords": [
                         19.666087,
@@ -3361,7 +3361,7 @@ export const serbiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Subotica National Theatre",
-                  "text": "The Subotica National Theatre is a prominent cultural institution in the city.",
+                  "text": "Subotica National Theatre, built in 1854 by János Skultéti, in the food industry district.",
                   "category": "cultural",
                   "coords": [
                         19.666087,

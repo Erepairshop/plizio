@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraCameroonLandmarksV2: POI[] = [
   {
-    id: "yaounde-notre-dame-landmarks-v2",
+    id: "yaounde-notre-dame-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Commission Nationale Pour La Promotion Du Bilinguisme Et Du Multiculturalisme",
+                  "text": "Dieses institutionelle Zentrum konzentriert sich auf die Förderung der Zweisprachigkeit und des vielfältigen multikulturellen Erbes der Nation.",
+                  "category": "cultural",
+                  "coords": [
+                        11.521801,
+                        3.861036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Commission Nationale Pour La Promotion Du Bilinguisme Et Du Multiculturalisme",
+                  "text": "Ez az intézményi központ a kétnyelvűség és a nemzet sokszínű multikulturális örökségének népszerűsítésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        11.521801,
+                        3.861036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Commission Nationale Pour La Promotion Du Bilinguisme Et Du Multiculturalisme",
+                  "text": "Acest centru instituțional se concentrează pe promovarea bilingvismului și a moștenirii multiculturale diverse a națiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        11.521801,
+                        3.861036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Commission Nationale Pour La Promotion Du Bilinguisme Et Du Multiculturalisme",
+                  "text": "This institutional center focuses on the promotion of bilingualism and the diverse multicultural heritage of the nation.",
+                  "category": "cultural",
+                  "coords": [
+                        11.521801,
+                        3.861036
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.521, 3.863],
@@ -51,7 +96,124 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     }
   },
   {
-    id: "mvolye-basilica-landmarks-v2",
+    id: "mvolye-basilica-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eco Park",
+                  "text": "Ein ökologischer Tierpark, der Wildtiergehege mit schattigen Wanderwegen zur Naturerziehung verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.487625,
+                        3.786638
+                  ]
+            },
+            {
+                  "name": "FIIA",
+                  "text": "Ein zeitgenössischer Kunst-Inkubator, der sich der Förderung von Innovationen und lokalen Kreativbranchen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495573,
+                        3.841331
+                  ]
+            },
+            {
+                  "name": "Basilika Maria Königin der Apostel",
+                  "text": "Diese Basilica minor wurde am Ort der ersten katholischen Mission erbaut und besticht durch moderne Architektur und Holzschnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        11.507729,
+                        3.842313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eco Park",
+                  "text": "Ökológiai állatpark, amely a vadvilág kifutóit árnyékos sétányokkal ötvözi a természetismereti oktatás céljából.",
+                  "category": "recreational",
+                  "coords": [
+                        11.487625,
+                        3.786638
+                  ]
+            },
+            {
+                  "name": "FIIA",
+                  "text": "Kortárs művészeti inkubátor, amely az innováció előmozdítására és a helyi kreatív iparágak támogatására szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495573,
+                        3.841331
+                  ]
+            },
+            {
+                  "name": "Basillique Marie-Reine des Apôtres",
+                  "text": "Az első katolikus misszió helyszínén épült kisebb bazilika feltűnő modern építészettel és kiterjedt fafaragásokkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        11.507729,
+                        3.842313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eco Park",
+                  "text": "Un parc de animale ecologic care integrează incinte pentru animale sălbatice cu trasee de plimbare umbrite pentru educația naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        11.487625,
+                        3.786638
+                  ]
+            },
+            {
+                  "name": "FIIA",
+                  "text": "Un incubator de artă contemporană dedicat promovării inovației și sprijinirii industriilor creative locale.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495573,
+                        3.841331
+                  ]
+            },
+            {
+                  "name": "Basillique Marie-Reine des Apôtres",
+                  "text": "Construită pe locul primei misiuni catolice, această bazilică minoră se remarcă prin arhitectura sa modernă și sculpturile în lemn.",
+                  "category": "religious",
+                  "coords": [
+                        11.507729,
+                        3.842313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eco Park",
+                  "text": "An ecological animal park that integrates wildlife enclosures with shaded walking trails for nature education.",
+                  "category": "recreational",
+                  "coords": [
+                        11.487625,
+                        3.786638
+                  ]
+            },
+            {
+                  "name": "FIIA",
+                  "text": "A contemporary arts incubator dedicated to fostering innovation and supporting local creative industries.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495573,
+                        3.841331
+                  ]
+            },
+            {
+                  "name": "Basillique Marie-Reine des Apôtres",
+                  "text": "Built on the site of the first Catholic mission, this minor basilica features striking modern architecture and extensive wooden carvings.",
+                  "category": "religious",
+                  "coords": [
+                        11.507729,
+                        3.842313
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.503, 3.841],
@@ -99,7 +261,196 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     }
   },
   {
-    id: "olembe-stadium-landmarks-v2",
+    id: "olembe-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statue Flamme Jeux Universitaire",
+                  "text": "Dieses markante skulpturale Flammenmonument wurde errichtet, um an den Geist der nationalen Universitätsspiele zu erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        11.583564,
+                        3.962489
+                  ]
+            },
+            {
+                  "name": "Statue Jeux Universitaire",
+                  "text": "Diese öffentliche Gedenkstatue feiert stolz die sportlichen Erfolge im Zusammenhang mit den regionalen Universitätssportveranstaltungen.",
+                  "category": "historical",
+                  "coords": [
+                        11.585187,
+                        3.963411
+                  ]
+            },
+            {
+                  "name": "Kamerun coopérative",
+                  "text": "Dieses historische Denkmal ist eine dauerhafte Hommage an die frühen Genossenschaftsbewegungen im kamerunischen Agrarsektor.",
+                  "category": "historical",
+                  "coords": [
+                        11.551614,
+                        3.944138
+                  ]
+            },
+            {
+                  "name": "N'dah Gouoah Sih",
+                  "text": "Dieses kulturelle Kunstzentrum in der Nähe des Olembe-Stadions veranstaltet lokale kreative Aufführungen und bewahrt das traditionelle Erbe der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        11.511008,
+                        3.952905
+                  ]
+            },
+            {
+                  "name": "Village Madiba",
+                  "text": "Dieser lebendige Gemeinschaftsbereich bietet Besuchern des Olembe-Sportviertels einen kulturellen und erholsamen Raum.",
+                  "category": "landmark",
+                  "coords": [
+                        11.567725,
+                        3.946055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue Flamme Jeux Universitaire",
+                  "text": "Ezt a feltűnő lángszobor-emlékművet az országos egyetemi játékok szellemének megörökítésére állították.",
+                  "category": "historical",
+                  "coords": [
+                        11.583564,
+                        3.962489
+                  ]
+            },
+            {
+                  "name": "Statue Jeux Universitaire",
+                  "text": "Ez a nyilvános emlékszobor a regionális egyetemi sporteseményekhez kapcsolódó atlétikai eredményeket ünnepli büszkén.",
+                  "category": "historical",
+                  "coords": [
+                        11.585187,
+                        3.963411
+                  ]
+            },
+            {
+                  "name": "Kamerun coopérative",
+                  "text": "Ez a történelmi emlékmű a kameruni mezőgazdasági ágazat korai szövetkezeti mozgalmainak állít tartós emléket.",
+                  "category": "historical",
+                  "coords": [
+                        11.551614,
+                        3.944138
+                  ]
+            },
+            {
+                  "name": "N'dah Gouoah Sih",
+                  "text": "Ez az Olembe Stadion közelében található kulturális művészeti központ helyi kreatív előadásoknak ad otthont, és megőrzi a hagyományos közösségi örökséget.",
+                  "category": "cultural",
+                  "coords": [
+                        11.511008,
+                        3.952905
+                  ]
+            },
+            {
+                  "name": "Village Madiba",
+                  "text": "Ez a nyüzsgő közösségi terület kulturális és rekreációs teret biztosít az Olembe sportnegyedbe vonzott látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        11.567725,
+                        3.946055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue Flamme Jeux Universitaire",
+                  "text": "Acest monument sculptural izbitor în formă de flacără a fost ridicat pentru a comemora spiritul Jocurilor Universitare naționale.",
+                  "category": "historical",
+                  "coords": [
+                        11.583564,
+                        3.962489
+                  ]
+            },
+            {
+                  "name": "Statue Jeux Universitaire",
+                  "text": "Această statuie publică comemorativă celebrează cu mândrie realizările atletice asociate cu evenimentele sportive universitare regionale.",
+                  "category": "historical",
+                  "coords": [
+                        11.585187,
+                        3.963411
+                  ]
+            },
+            {
+                  "name": "Kamerun coopérative",
+                  "text": "Acest monument istoric reprezintă un omagiu de durată adus mișcărilor cooperatiste timpurii din sectorul agricol al Camerunului.",
+                  "category": "historical",
+                  "coords": [
+                        11.551614,
+                        3.944138
+                  ]
+            },
+            {
+                  "name": "N'dah Gouoah Sih",
+                  "text": "Acest centru de arte culturale de lângă Stadionul Olembe găzduiește spectacole creative locale și păstrează moștenirea tradițională a comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        11.511008,
+                        3.952905
+                  ]
+            },
+            {
+                  "name": "Village Madiba",
+                  "text": "Această zonă comunală vibrantă oferă un spațiu cultural și recreativ pentru vizitatorii atrași de cartierul sportiv Olembe.",
+                  "category": "landmark",
+                  "coords": [
+                        11.567725,
+                        3.946055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue Flamme Jeux Universitaire",
+                  "text": "This striking sculptural flame monument was erected to commemorate the spirit of the national University Games.",
+                  "category": "historical",
+                  "coords": [
+                        11.583564,
+                        3.962489
+                  ]
+            },
+            {
+                  "name": "Statue Jeux Universitaire",
+                  "text": "This commemorative public statue proudly celebrates the athletic achievements associated with the regional university sporting events.",
+                  "category": "historical",
+                  "coords": [
+                        11.585187,
+                        3.963411
+                  ]
+            },
+            {
+                  "name": "Kamerun Coop",
+                  "text": "This historical monument stands as a lasting tribute to the early cooperative movements in Cameroon's agricultural sector.",
+                  "category": "historical",
+                  "coords": [
+                        11.551614,
+                        3.944138
+                  ]
+            },
+            {
+                  "name": "N'dah Gouoah Sih",
+                  "text": "This cultural arts centre near Olembe Stadium hosts local creative performances and preserves traditional community heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        11.511008,
+                        3.952905
+                  ]
+            },
+            {
+                  "name": "Village Madiba",
+                  "text": "This vibrant communal area provides a cultural and recreational space for visitors drawn to the Olembe sports district.",
+                  "category": "landmark",
+                  "coords": [
+                        11.567725,
+                        3.946055
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.545, 3.967],
@@ -147,7 +498,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     }
   },
     {
-    id: "national-museum-landmarks-v2",
+    id: "national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blackitude Museum",
+                  "text": "Ein ethnografisches Museum, das sich der Erhaltung und Ausstellung der königlichen Kunst und des kulturellen Erbes Kameruns widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.518433,
+                        3.864327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blackitude Museum",
+                  "text": "Ez a néprajzi múzeum Kamerun királyi művészetének és kulturális örökségének megőrzésére és kiállítására szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        11.518433,
+                        3.864327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blackitude Museum",
+                  "text": "Un muzeu etnografic dedicat conservării și expunerii artei regale și a moștenirii culturale a Camerunului.",
+                  "category": "museum",
+                  "coords": [
+                        11.518433,
+                        3.864327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blackitude Museum",
+                  "text": "An ethnographic museum dedicated to preserving and exhibiting the royal art and cultural heritage of Cameroon.",
+                  "category": "museum",
+                  "coords": [
+                        11.518433,
+                        3.864327
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.518, 3.864],
@@ -243,7 +639,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     }
   },
   {
-    id: "nouvelle-liberte-landmarks-v2",
+    id: "nouvelle-liberte-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "la Nouvelle Liberté",
+                  "text": "Diese markante 12 Meter hohe öffentliche Skulptur besteht vollständig aus recyceltem Altmetall und steht prominent am Kreisverkehr von Deido.",
+                  "category": "historical",
+                  "coords": [
+                        9.706851,
+                        4.064199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "la Nouvelle Liberté",
+                  "text": "Ez a lenyűgöző, 12 méter magas köztéri szobor teljes egészében újrahasznosított fémhulladékból készült, és a Deido körforgalomban áll.",
+                  "category": "historical",
+                  "coords": [
+                        9.706851,
+                        4.064199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "la Nouvelle Liberté",
+                  "text": "Această sculptură publică impresionantă de 12 metri înălțime este asamblată în întregime din fier vechi reciclat și se află în sensul giratoriu Deido.",
+                  "category": "historical",
+                  "coords": [
+                        9.706851,
+                        4.064199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "la Nouvelle Liberté",
+                  "text": "This striking 12-metre tall public sculpture is assembled entirely from recycled scrap metal and sits prominently in the Deido roundabout.",
+                  "category": "historical",
+                  "coords": [
+                        9.706851,
+                        4.064199
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-LT",
     coords: [9.711, 4.062],
@@ -339,7 +780,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     }
   },
   {
-    id: "foumban-palace-landmarks-v2",
+    id: "foumban-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "Das Musée de Arts et Traditions Bamoun ist ein faszinierendes Museum, das die reiche Geschichte, königliche Artefakte und das feine Kunsthandwerk des Bamoun-Volkes bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        10.900763,
+                        5.723393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "A Musée de Arts et Traditions Bamoun egy lebilincselő múzeum, amely a bamoun nép gazdag történelmét, királyi műtárgyait és bonyolult kézműves alkotásait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        10.900763,
+                        5.723393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "Musée de Arts et Traditions Bamoun este un muzeu captivant care păstrează istoria bogată, artefactele regale și meșteșugurile complicate ale poporului Bamoun.",
+                  "category": "museum",
+                  "coords": [
+                        10.900763,
+                        5.723393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "The Musée de Arts et Traditions Bamoun is an engaging museum preserving the rich history, royal artifacts, and intricate crafts of the Bamoun people.",
+                  "category": "museum",
+                  "coords": [
+                        10.900763,
+                        5.723393
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-OU",
     coords: [10.898, 5.727],
@@ -387,7 +873,124 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     }
   },
   {
-    id: "yaounde-central-mosque-landmarks-v2",
+    id: "yaounde-central-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie ART Negro",
+                  "text": "Diese Kunstgalerie zeigt zeitgenössische und traditionelle afrikanische Kunstwerke im geschäftigen Herzen von Jaunde.",
+                  "category": "cultural",
+                  "coords": [
+                        11.5172,
+                        3.891434
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Camerounai",
+                  "text": "Dieses prominente Zentrum dient als wichtiger Knotenpunkt für nationale darstellende Künste, Ausstellungen und kulturelle Bildung in der Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.514834,
+                        3.880821
+                  ]
+            },
+            {
+                  "name": "Centre culturel Italien",
+                  "text": "Dieses Kulturinstitut fördert den interkulturellen Austausch durch Sprachkurse und Ausstellungen, die das italienische Erbe in Kamerun feiern.",
+                  "category": "cultural",
+                  "coords": [
+                        11.509934,
+                        3.886676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie ART Negro",
+                  "text": "Ez a művészeti galéria kortárs és hagyományos afrikai művészeti alkotásokat mutat be Yaoundé nyüzsgő szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        11.5172,
+                        3.891434
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Camerounai",
+                  "text": "Ez a kiemelkedő központ a nemzeti előadóművészet, a kiállítások és a kulturális oktatás fő központjaként szolgál a fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        11.514834,
+                        3.880821
+                  ]
+            },
+            {
+                  "name": "Centre culturel Italien",
+                  "text": "Ez a kulturális intézet nyelvi órákkal és az olasz örökséget ünneplő kiállításokkal segíti elő a kultúrák közötti cserét Kamerunban.",
+                  "category": "cultural",
+                  "coords": [
+                        11.509934,
+                        3.886676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie ART Negro",
+                  "text": "Această galerie de artă expune opere de artă africane contemporane și tradiționale în inima plină de viață a orașului Yaoundé.",
+                  "category": "cultural",
+                  "coords": [
+                        11.5172,
+                        3.891434
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Camerounai",
+                  "text": "Acest centru proeminent servește ca un centru major pentru artele spectacolului național, expoziții și educație culturală în capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        11.514834,
+                        3.880821
+                  ]
+            },
+            {
+                  "name": "Centre culturel Italien",
+                  "text": "Acest institut cultural promovează schimbul intercultural prin cursuri de limbă și expoziții care celebrează moștenirea italiană în Camerun.",
+                  "category": "cultural",
+                  "coords": [
+                        11.509934,
+                        3.886676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie ART Negro",
+                  "text": "This art gallery showcases contemporary and traditional African artworks in the bustling heart of Yaoundé.",
+                  "category": "cultural",
+                  "coords": [
+                        11.5172,
+                        3.891434
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Camerounai",
+                  "text": "This prominent center serves as a major hub for national performing arts, exhibitions, and cultural education in the capital city.",
+                  "category": "cultural",
+                  "coords": [
+                        11.514834,
+                        3.880821
+                  ]
+            },
+            {
+                  "name": "Centre culturel Italien",
+                  "text": "This cultural institute promotes cross-cultural exchange through language classes and exhibitions celebrating Italian heritage in Cameroon.",
+                  "category": "cultural",
+                  "coords": [
+                        11.509934,
+                        3.886676
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.517, 3.876],
@@ -435,7 +1038,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "garoua-cathedral-landmarks-v2",
+    id: "garoua-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Artisant;Centre Artisanal",
+                  "text": "Das Centre Artisanal in Garoua ist ein Kunsthandwerkszentrum, in dem traditionelles kamerunisches Handwerk präsentiert wird.",
+                  "category": "cultural",
+                  "coords": [
+                        13.394883,
+                        9.306304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Artisant;Centre Artisanal",
+                  "text": "A garouai Centre Artisanal egy kézműves központ, ahol bemutatják a hagyományos kameruni kézművességet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.394883,
+                        9.306304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Artisant;Centre Artisanal",
+                  "text": "Centre Artisanal din Garoua este un centru de artizanat care prezintă meșteșugurile tradiționale cameruneze.",
+                  "category": "cultural",
+                  "coords": [
+                        13.394883,
+                        9.306304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Artisant;Centre Artisanal",
+                  "text": "The Centre Artisanal in Garoua is an arts centre showcasing traditional Cameroonian craftsmanship.",
+                  "category": "cultural",
+                  "coords": [
+                        13.394883,
+                        9.306304
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-NO",
     coords: [13.393, 9.301],
@@ -483,7 +1131,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "roumde-adjia-stadium-landmarks-v2",
+    id: "roumde-adjia-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lawanat du Plateau",
+                  "text": "Dieser kulturelle Mittelpunkt unterstützt lokale Handwerker und beherbergt verschiedene kommunale Kunstaufführungen im Bezirk des Plateaus.",
+                  "category": "cultural",
+                  "coords": [
+                        13.380906,
+                        9.319808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lawanat du Plateau",
+                  "text": "Ez a kulturális központ támogatja a helyi kézműveseket, és különféle közösségi művészeti előadásoknak ad otthont a fennsíkvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        13.380906,
+                        9.319808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lawanat du Plateau",
+                  "text": "Acest punct focal cultural sprijină artizanii locali și găzduiește diverse spectacole de arte comunitare în cartierul platoului.",
+                  "category": "cultural",
+                  "coords": [
+                        13.380906,
+                        9.319808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lawanat du Plateau",
+                  "text": "This cultural focal point supports local artisans and hosts various community arts performances in the plateau district.",
+                  "category": "cultural",
+                  "coords": [
+                        13.380906,
+                        9.319808
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-NO",
     coords: [13.398, 9.317],
@@ -531,7 +1224,376 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "limbe-omnisport-stadium-landmarks-v2",
+    id: "limbe-omnisport-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Etinde",
+                  "text": "Dieser auch als Kleiner Kamerunberg bekannte Gipfel bildet ein markantes geografisches Merkmal der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.116605,
+                        4.073628
+                  ]
+            },
+            {
+                  "name": "Mile6 Beach",
+                  "text": "Dieser Küstenerholungsort bietet eine natürliche sandige Küstenlinie mit Blick auf das Gebiet nahe des Omnisportstadions.",
+                  "category": "recreational",
+                  "coords": [
+                        9.11444,
+                        4.010347
+                  ]
+            },
+            {
+                  "name": "Ngosso Family Residence",
+                  "text": "Dieser Aussichtspunkt für Wohnzwecke bietet eine erstklassige Sicht auf die Landmarken rund um das lokale Stadion.",
+                  "category": "natural",
+                  "coords": [
+                        9.16812,
+                        4.0076
+                  ]
+            },
+            {
+                  "name": "fischer port wovia",
+                  "text": "Die Ruinen dieses ehemaligen Fischerhafens spiegeln die historischen maritimen Aktivitäten nahe des heutigen Stadionviertels wider.",
+                  "category": "historical",
+                  "coords": [
+                        9.168908,
+                        4.009866
+                  ]
+            },
+            {
+                  "name": "Aunty Nicole's Residence",
+                  "text": "Dieses Wohngebäude bietet eine lokale Perspektive über die markanten Wahrzeichen im Viertel des Omnisportstadions.",
+                  "category": "natural",
+                  "coords": [
+                        9.168354,
+                        4.021185
+                  ]
+            },
+            {
+                  "name": "Gabriel Residence",
+                  "text": "Dieses markante Wohngebäude dient als Aussichtspunkt inmitten der städtischen Wahrzeichen nahe des Sportstadions.",
+                  "category": "natural",
+                  "coords": [
+                        9.168211,
+                        4.019474
+                  ]
+            },
+            {
+                  "name": "Bojoke Chief Palace",
+                  "text": "Dieser traditionelle Häuptlingspalast steht in der Nähe des Stadions als große architektonische Repräsentation der lokalen kulturellen Autorität.",
+                  "category": "castle",
+                  "coords": [
+                        9.182067,
+                        4.029218
+                  ]
+            },
+            {
+                  "name": "Sidrene's Land",
+                  "text": "Dieses Grundstück verfügt über eine erhöhte Lage, die einen klaren Blick auf die Umgebung des Stadions bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.185367,
+                        4.031883
+                  ]
+            },
+            {
+                  "name": "Makarous Residence",
+                  "text": "Dieser private Wohnsitz fungiert als Aussichtspunkt, der die Atmosphäre des benachbarten Stadionviertels einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        9.153683,
+                        4.016019
+                  ]
+            },
+            {
+                  "name": "Ngeme Beach",
+                  "text": "Dieser Sandstrandabschnitt bietet eine malerische Küstenumgebung in der Nähe des großen Sportstadions der Region.",
+                  "category": "recreational",
+                  "coords": [
+                        9.149382,
+                        4.013105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Etinde",
+                  "text": "A Kis Kamerun-hegyként is ismert csúcs a helyi táj kiemelkedő földrajzi jellemzője.",
+                  "category": "natural",
+                  "coords": [
+                        9.116605,
+                        4.073628
+                  ]
+            },
+            {
+                  "name": "Mile6 Beach",
+                  "text": "Ez a tengerparti rekreációs hely természetes homokos partvonalat kínál, kilátással az Omnisport stadion közeli területére.",
+                  "category": "recreational",
+                  "coords": [
+                        9.11444,
+                        4.010347
+                  ]
+            },
+            {
+                  "name": "Ngosso Family Residence",
+                  "text": "Ez a lakóhelyi kilátó elsőrangú rálátást nyújt a helyi stadion körüli nevezetességekre.",
+                  "category": "natural",
+                  "coords": [
+                        9.16812,
+                        4.0076
+                  ]
+            },
+            {
+                  "name": "fischer port wovia",
+                  "text": "Ennek az egykori halászkikötőnek a romjai a mai stadionnegyedhez közeli történelmi tengeri tevékenységet tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        9.168908,
+                        4.009866
+                  ]
+            },
+            {
+                  "name": "Aunty Nicole's Residence",
+                  "text": "Ez a lakóépület helyi perspektívát nyújt az Omnisport stadion negyedének kiemelkedő nevezetességeire.",
+                  "category": "natural",
+                  "coords": [
+                        9.168354,
+                        4.021185
+                  ]
+            },
+            {
+                  "name": "Gabriel Residence",
+                  "text": "Ez a különálló lakóépület kilátóként szolgál a sportstadionhoz közeli városi nevezetességek között.",
+                  "category": "natural",
+                  "coords": [
+                        9.168211,
+                        4.019474
+                  ]
+            },
+            {
+                  "name": "Bojoke Chief Palace",
+                  "text": "Ez a stadion közelében álló hagyományos főnöki palota a helyi kulturális tekintély nagyszerű építészeti ábrázolása.",
+                  "category": "castle",
+                  "coords": [
+                        9.182067,
+                        4.029218
+                  ]
+            },
+            {
+                  "name": "Sidrene's Land",
+                  "text": "Ez a földrészlet magaslati fekvésű, tiszta kilátást nyújtva a stadion környezetére.",
+                  "category": "natural",
+                  "coords": [
+                        9.185367,
+                        4.031883
+                  ]
+            },
+            {
+                  "name": "Makarous Residence",
+                  "text": "Ez a magánrezidencia kilátóként működik, megragadva a szomszédos stadionnegyed hangulatát.",
+                  "category": "natural",
+                  "coords": [
+                        9.153683,
+                        4.016019
+                  ]
+            },
+            {
+                  "name": "Ngeme Beach",
+                  "text": "Ez a homokos tengerparti szakasz festői tengerparti környezetet kínál a régió nagy sportstadionja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.149382,
+                        4.013105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Etinde",
+                  "text": "Cunoscut și sub numele de Micul Munte Camerun, acest vârf formează o caracteristică geografică proeminentă a peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        9.116605,
+                        4.073628
+                  ]
+            },
+            {
+                  "name": "Mile6 Beach",
+                  "text": "Acest loc de recreere pe coastă oferă un țărm natural de nisip cu vedere la zona din apropierea stadionului Omnisport.",
+                  "category": "recreational",
+                  "coords": [
+                        9.11444,
+                        4.010347
+                  ]
+            },
+            {
+                  "name": "Ngosso Family Residence",
+                  "text": "Acest punct de observație rezidențial oferă o vedere excelentă asupra reperelor din jurul stadionului local.",
+                  "category": "natural",
+                  "coords": [
+                        9.16812,
+                        4.0076
+                  ]
+            },
+            {
+                  "name": "fischer port wovia",
+                  "text": "Ruinele acestui fost port de pescuit reflectă activitățile maritime istorice din apropierea actualului cartier al stadionului.",
+                  "category": "historical",
+                  "coords": [
+                        9.168908,
+                        4.009866
+                  ]
+            },
+            {
+                  "name": "Aunty Nicole's Residence",
+                  "text": "Această clădire rezidențială oferă o perspectivă locală asupra reperelor proeminente din cartierul stadionului Omnisport.",
+                  "category": "natural",
+                  "coords": [
+                        9.168354,
+                        4.021185
+                  ]
+            },
+            {
+                  "name": "Gabriel Residence",
+                  "text": "Această clădire rezidențială distinctă servește ca un punct de observație printre reperele urbane din apropierea stadionului de sport.",
+                  "category": "natural",
+                  "coords": [
+                        9.168211,
+                        4.019474
+                  ]
+            },
+            {
+                  "name": "Bojoke Chief Palace",
+                  "text": "Acest palat tradițional al șefului, situat în apropierea stadionului, se prezintă ca o mare reprezentare arhitecturală a autorității culturale locale.",
+                  "category": "castle",
+                  "coords": [
+                        9.182067,
+                        4.029218
+                  ]
+            },
+            {
+                  "name": "Sidrene's Land",
+                  "text": "Această parcelă de teren are un cadru înalt, oferind vederi clare asupra împrejurimilor stadionului.",
+                  "category": "natural",
+                  "coords": [
+                        9.185367,
+                        4.031883
+                  ]
+            },
+            {
+                  "name": "Makarous Residence",
+                  "text": "Această reședință privată funcționează ca un punct de vedere care surprinde atmosfera cartierului stadionului vecin.",
+                  "category": "natural",
+                  "coords": [
+                        9.153683,
+                        4.016019
+                  ]
+            },
+            {
+                  "name": "Ngeme Beach",
+                  "text": "Această întindere de plajă cu nisip oferă un mediu de coastă pitoresc în apropierea stadionului sportiv important al regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        9.149382,
+                        4.013105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Etinde",
+                  "text": "Also known as Little Mount Cameroon, this peak forms a prominent geographical feature in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.116605,
+                        4.073628
+                  ]
+            },
+            {
+                  "name": "Mile6 Beach",
+                  "text": "This coastal recreation spot provides a natural sandy shoreline overlooking the area near the Omnisport stadium.",
+                  "category": "recreational",
+                  "coords": [
+                        9.11444,
+                        4.010347
+                  ]
+            },
+            {
+                  "name": "Ngosso Family Residence",
+                  "text": "This residential viewpoint offers a prime vantage point overlooking the landmarks around the local stadium.",
+                  "category": "natural",
+                  "coords": [
+                        9.16812,
+                        4.0076
+                  ]
+            },
+            {
+                  "name": "fischer port wovia",
+                  "text": "The ruins of this former fishing port reflect the historical maritime activities near today's stadium district.",
+                  "category": "historical",
+                  "coords": [
+                        9.168908,
+                        4.009866
+                  ]
+            },
+            {
+                  "name": "Aunty Nicole's Residence",
+                  "text": "This residential building provides a local perspective over the prominent landmarks in the Omnisport stadium neighbourhood.",
+                  "category": "natural",
+                  "coords": [
+                        9.168354,
+                        4.021185
+                  ]
+            },
+            {
+                  "name": "Gabriel Residence",
+                  "text": "This distinct residential property serves as a vantage point among the urban landmarks near the sports stadium.",
+                  "category": "natural",
+                  "coords": [
+                        9.168211,
+                        4.019474
+                  ]
+            },
+            {
+                  "name": "Bojoke Chief Palace",
+                  "text": "This traditional chief's palace near the stadium stands as a grand architectural representation of local cultural authority.",
+                  "category": "castle",
+                  "coords": [
+                        9.182067,
+                        4.029218
+                  ]
+            },
+            {
+                  "name": "Sidrene's Land",
+                  "text": "This land parcel features an elevated setting providing clear views of the stadium surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.185367,
+                        4.031883
+                  ]
+            },
+            {
+                  "name": "Makarous Residence",
+                  "text": "This private residence functions as a viewpoint capturing the atmosphere of the neighbouring stadium district.",
+                  "category": "natural",
+                  "coords": [
+                        9.153683,
+                        4.016019
+                  ]
+            },
+            {
+                  "name": "Ngeme Beach",
+                  "text": "This sandy beach stretch offers a scenic coastal environment near the region's major sports stadium.",
+                  "category": "recreational",
+                  "coords": [
+                        9.149382,
+                        4.013105
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-SW",
     coords: [9.167, 4.024],
@@ -627,7 +1689,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bafut-palace-landmarks-v2",
+    id: "bafut-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bafut Fon's palace",
+                  "text": "Der Bafut Fon's Palace ist ein traditioneller königlicher Palastkomplex aus Bambus und Holz im Nordwesten Kameruns.",
+                  "category": "landmark",
+                  "coords": [
+                        10.113718,
+                        6.088811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bafut Fon's palace",
+                  "text": "A Bafut Fon's Palace egy hagyományos, bambuszból és fából épült királyi palotakomplexum Kamerun északnyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.113718,
+                        6.088811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bafut Fon's palace",
+                  "text": "Bafut Fon's Palace este un complex tradițional de palat regal construit din bambus și lemn în nord-vestul Camerunului.",
+                  "category": "landmark",
+                  "coords": [
+                        10.113718,
+                        6.088811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bafut Fon's palace",
+                  "text": "The Bafut Fon's Palace is a traditional royal palace complex built of bamboo and wood in northwestern Cameroon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.113718,
+                        6.088811
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-NW",
     coords: [10.113, 6.09],
@@ -675,7 +1782,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bandjoun-chiefdom-landmarks-v2",
+    id: "bandjoun-chiefdom-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bandjoun Station",
+                  "text": "Die Bandjoun Station ist ein Zentrum für zeitgenössische Kunst und ein Museum im kamerunischen Chiefdom Bandjoun.",
+                  "category": "museum",
+                  "coords": [
+                        10.426901,
+                        5.422852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bandjoun Station",
+                  "text": "A Bandjoun Station egy kortárs művészeti központ és múzeum a kameruni Bandjoun fejedelemségben.",
+                  "category": "museum",
+                  "coords": [
+                        10.426901,
+                        5.422852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bandjoun Station",
+                  "text": "Bandjoun Station este un centru de artă contemporană și un muzeu în căpetenia Bandjoun din Camerun.",
+                  "category": "museum",
+                  "coords": [
+                        10.426901,
+                        5.422852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bandjoun Station",
+                  "text": "Bandjoun Station is a contemporary art center and museum located in the Cameroonian Bandjoun chiefdom.",
+                  "category": "museum",
+                  "coords": [
+                        10.426901,
+                        5.422852
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-OU",
     coords: [10.414, 5.385],
@@ -723,7 +1875,196 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kribi-lighthouse-landmarks-v2",
+    id: "kribi-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "Das Foyer culturel et social de la communaute Bameka de l'ocean ist ein kommunales Kunstzentrum in der Nähe des Leuchtturms von Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "Die Association socio culturelle bafung de l'ocean ist ein kulturelles Kunstzentrum in der Nähe des Leuchtturms von Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918265,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "Das Foyer socioculturel de la famille bansoa a kribi ist ein soziokulturelles Zentrum in der Nähe des Leuchtturms von Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "Die \"Boucanier\" Bibiana ist eine Attraktion in der Nähe des Leuchtturms von Kribi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912003,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Phare de Kribi",
+                  "text": "Dieser funktionierende Küstenleuchtturm dient als markantes maritimes Leuchtfeuer für Schiffe, die im Golf von Guinea navigieren.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903977,
+                        2.93955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "A Foyer culturel et social de la communaute Bameka de l'ocean egy közösségi művészeti központ a kribi világítótorony közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "Az Association socio culturelle bafung de l'ocean egy kulturális művészeti központ a kribi világítótorony közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918265,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "A Foyer socioculturel de la famille bansoa a kribi egy szociokulturális művészeti központ a kribi világítótorony közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "A \"Boucanier\" Bibiana egy parti látványosság a kribi világítótorony környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912003,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Phare de Kribi",
+                  "text": "Ez a működő parti világítótorony fontos tengeri jelzőfényként szolgál a Guineai-öbölben navigáló hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903977,
+                        2.93955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "Foyer culturel et social de la communaute Bameka de l'ocean este un centru comunitar de arte situat în apropiere de Farul din Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "Association socio culturelle bafung de l'ocean este un centru cultural de arte situat lângă Farul din Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918265,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "Foyer socioculturel de la famille bansoa a kribi este un centru socio-cultural situat în apropiere de Farul din Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "\"Boucanier\" Bibiana este o atracție situată în apropierea farului din Kribi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912003,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Phare de Kribi",
+                  "text": "Acest far de coastă operațional servește ca un reper maritim important pentru navele care navighează în Golful Guineei.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903977,
+                        2.93955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "Foyer culturel et social de la communaute Bameka de l'ocean is a community arts centre located near the Kribi Lighthouse.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "Association socio culturelle bafung de l'ocean is a cultural arts centre situated near the Kribi Lighthouse.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918265,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "Foyer socioculturel de la famille bansoa a kribi is a socio-cultural arts centre located near the Kribi Lighthouse.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "The \"Boucanier\" Bibiana is a coastal attraction near the Kribi lighthouse area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912003,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Phare de Kribi",
+                  "text": "This operational coastal lighthouse serves as a prominent maritime beacon for ships navigating the Gulf of Guinea.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903977,
+                        2.93955
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-SU",
     coords: [9.907, 2.936],
@@ -867,7 +2208,412 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ahmadou-ahidjo-stadium-landmarks-v2",
+    id: "ahmadou-ahidjo-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ELig Edzoa",
+                  "text": "Dieser Aussichtspunkt im belebten Viertel Elig Edzoa bietet einen weiten Blick über die hügelige Stadtlandschaft von Yaoundé.",
+                  "category": "natural",
+                  "coords": [
+                        11.53049,
+                        3.886846
+                  ]
+            },
+            {
+                  "name": "Complexe Islamique Du Repentir",
+                  "text": "Dieser islamische Komplex fungiert sowohl als religiöses Zentrum als auch als kulturelles Gemeindezentrum in der Nähe des Ahmadou-Ahidjo-Stadions.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54985,
+                        3.874458
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes De Ngousso La Citadelle",
+                  "text": "Diese große Veranstaltungshalle im Stadtteil Ngousso bietet einen festlichen Rahmen für regionale Feierlichkeiten und kulturelle Zeremonien.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54999,
+                        3.898312
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Chrétien",
+                  "text": "Dieses christliche Kulturzentrum fördert das Engagement der Gemeinde durch religiöse Kunst, Jugendprogramme und gemeinsame spirituelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.545526,
+                        3.896391
+                  ]
+            },
+            {
+                  "name": "CERCLE MBANSOA",
+                  "text": "Dieser Kulturkreis dient als spezieller Treffpunkt und bringt Gemeindemitglieder für traditionelle Kunst und Diskussionen zusammen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.52529,
+                        3.913767
+                  ]
+            },
+            {
+                  "name": "OTHNI - Laboratoire de Théâtre de Yaoundé",
+                  "text": "Dieses experimentelle Theaterlabor in Yaoundé dient als innovatives Zentrum für zeitgenössische darstellende Kunst und dramaturgische Forschung.",
+                  "category": "cultural",
+                  "coords": [
+                        11.552612,
+                        3.886943
+                  ]
+            },
+            {
+                  "name": "Foyer Général Baloum De Yaounde",
+                  "text": "Diese kulturelle Versammlungshalle dient als zentraler Treffpunkt für die in der Region Yaoundé lebende Baloum-Diaspora.",
+                  "category": "cultural",
+                  "coords": [
+                        11.546789,
+                        3.886515
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Dieses Museum in der Nähe des großen Stadions zeigt regionale ethnografische Exponate, die die lokale historische Entwicklung dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        11.523847,
+                        3.889832
+                  ]
+            },
+            {
+                  "name": "Geecca",
+                  "text": "Dieser Kunstraum der Gemeinde widmet sich der Unterstützung lokaler kreativer Ausdrucksformen und der Förderung der kulturellen Bildung im Viertel.",
+                  "category": "cultural",
+                  "coords": [
+                        11.534189,
+                        3.874705
+                  ]
+            },
+            {
+                  "name": "Foyer Communautaire Babouin Tout De Yaoundé",
+                  "text": "Dieses Gemeindezentrum bietet einen einladenden Ort für die kulturellen Treffen und traditionellen Feste des Babouin-Volkes in Yaoundé.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54296,
+                        3.884055
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel",
+                  "text": "Dieses vielseitige Kulturzentrum veranstaltet verschiedene künstlerische Basisaufführungen und gesellschaftliche Zusammenkünfte für die städtische Bevölkerung.",
+                  "category": "cultural",
+                  "coords": [
+                        11.544634,
+                        3.861845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ELig Edzoa",
+                  "text": "A nyüzsgő Elig Edzoa negyedben található kilátópontról elsöprő kilátás nyílik Yaoundé dombos városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        11.53049,
+                        3.886846
+                  ]
+            },
+            {
+                  "name": "Complexe Islamique Du Repentir",
+                  "text": "Ez az iszlám komplexum vallási központként és közösségi kulturális központként is funkcionál az Ahmadou Ahidjo Stadion közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54985,
+                        3.874458
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes De Ngousso La Citadelle",
+                  "text": "Ez a Ngousso negyedben található nagy rendezvényterem hivatalos környezetet biztosít regionális ünnepségek és kulturális ceremóniák számára.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54999,
+                        3.898312
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Chrétien",
+                  "text": "Ez a keresztény kulturális központ vallási művészeteken, ifjúsági programokon és közös spirituális eseményeken keresztül ösztönzi a közösségi szerepvállalást.",
+                  "category": "cultural",
+                  "coords": [
+                        11.545526,
+                        3.896391
+                  ]
+            },
+            {
+                  "name": "CERCLE MBANSOA",
+                  "text": "Kijelölt találkozóhelyként ez a kulturális kör hozza össze a közösség tagjait hagyományos művészeti eseményekre és beszélgetésekre.",
+                  "category": "cultural",
+                  "coords": [
+                        11.52529,
+                        3.913767
+                  ]
+            },
+            {
+                  "name": "OTHNI - Laboratoire de Théâtre de Yaoundé",
+                  "text": "Ez a yaoundéi kísérleti színházi laboratórium a kortárs előadóművészet és a drámai kutatás innovatív központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        11.552612,
+                        3.886943
+                  ]
+            },
+            {
+                  "name": "Foyer Général Baloum De Yaounde",
+                  "text": "Ez a kulturális gyülekezeti terem a Yaoundé térségében élő Baloum diaszpóra központi találkozóhelyeként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        11.546789,
+                        3.886515
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "A nagy stadion közelében található múzeum regionális néprajzi kiállításokat mutat be, amelyek a helyi történelmi fejlődést krónikázzák.",
+                  "category": "museum",
+                  "coords": [
+                        11.523847,
+                        3.889832
+                  ]
+            },
+            {
+                  "name": "Geecca",
+                  "text": "Ez a közösségi művészeti tér a helyi kreatív kifejezésformák támogatásának és a kulturális nevelés előmozdításának szenteli magát a környéken.",
+                  "category": "cultural",
+                  "coords": [
+                        11.534189,
+                        3.874705
+                  ]
+            },
+            {
+                  "name": "Foyer Communautaire Babouin Tout De Yaoundé",
+                  "text": "Ez a közösségi előcsarnok barátságos helyszínt biztosít a yaoundéi babouin nép kulturális találkozói és hagyományos ünnepségei számára.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54296,
+                        3.884055
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel",
+                  "text": "Ez a sokoldalú kulturális központ különféle alulról szerveződő művészeti előadásoknak és társadalmi összejöveteleknek ad otthont a városi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        11.544634,
+                        3.861845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ELig Edzoa",
+                  "text": "Situat în cartierul aglomerat Elig Edzoa, acest punct de observație oferă vederi ample asupra peisajului urban deluros al orașului Yaoundé.",
+                  "category": "natural",
+                  "coords": [
+                        11.53049,
+                        3.886846
+                  ]
+            },
+            {
+                  "name": "Complexe Islamique Du Repentir",
+                  "text": "Acest complex islamic funcționează atât ca un centru religios, cât și ca un centru cultural comunitar în vecinătatea Stadionului Ahmadou Ahidjo.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54985,
+                        3.874458
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes De Ngousso La Citadelle",
+                  "text": "Această mare sală de evenimente din cartierul Ngousso oferă un cadru formal pentru sărbători regionale și ceremonii culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54999,
+                        3.898312
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Chrétien",
+                  "text": "Acest centru cultural creștin încurajează implicarea comunității prin arte religioase, programe pentru tineret și evenimente spirituale de colaborare.",
+                  "category": "cultural",
+                  "coords": [
+                        11.545526,
+                        3.896391
+                  ]
+            },
+            {
+                  "name": "CERCLE MBANSOA",
+                  "text": "Servind ca loc de întâlnire dedicat, acest cerc cultural reunește membrii comunității pentru arte tradiționale și discuții.",
+                  "category": "cultural",
+                  "coords": [
+                        11.52529,
+                        3.913767
+                  ]
+            },
+            {
+                  "name": "OTHNI - Laboratoire de Théâtre de Yaoundé",
+                  "text": "Acest laborator de teatru experimental din Yaoundé servește ca un centru inovator pentru artele spectacolului contemporan și cercetarea dramatică.",
+                  "category": "cultural",
+                  "coords": [
+                        11.552612,
+                        3.886943
+                  ]
+            },
+            {
+                  "name": "Foyer Général Baloum De Yaounde",
+                  "text": "Această sală de adunări culturale acționează ca un punct central de adunare pentru diaspora Baloum care trăiește în zona Yaoundé.",
+                  "category": "cultural",
+                  "coords": [
+                        11.546789,
+                        3.886515
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Situat lângă stadionul principal, acest muzeu expune exponate etnografice regionale care descriu dezvoltarea istorică locală.",
+                  "category": "museum",
+                  "coords": [
+                        11.523847,
+                        3.889832
+                  ]
+            },
+            {
+                  "name": "Geecca",
+                  "text": "Acest spațiu de arte comunitare este dedicat susținerii expresiilor creative locale și încurajării educației culturale în cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        11.534189,
+                        3.874705
+                  ]
+            },
+            {
+                  "name": "Foyer Communautaire Babouin Tout De Yaoundé",
+                  "text": "Acest foaier comunitar oferă o locație primitoare pentru întâlnirile culturale și festivitățile tradiționale ale poporului Babouin din Yaoundé.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54296,
+                        3.884055
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel",
+                  "text": "Acest centru cultural versatil găzduiește diverse spectacole artistice de masă și adunări sociale pentru comunitatea urbană.",
+                  "category": "cultural",
+                  "coords": [
+                        11.544634,
+                        3.861845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ELig Edzoa",
+                  "text": "Situated in the bustling Elig Edzoa neighborhood, this vantage point offers sweeping views over Yaoundé's hilly urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.53049,
+                        3.886846
+                  ]
+            },
+            {
+                  "name": "Complexe Islamique Du Repentir",
+                  "text": "This Islamic complex functions as both a religious hub and a community cultural centre in the Ahmadou Ahidjo Stadium vicinity.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54985,
+                        3.874458
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes De Ngousso La Citadelle",
+                  "text": "This large event hall in the Ngousso district provides a formal setting for regional celebrations and cultural ceremonies.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54999,
+                        3.898312
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Chrétien",
+                  "text": "This Christian cultural centre fosters community engagement through religious arts, youth programs, and collaborative spiritual events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.545526,
+                        3.896391
+                  ]
+            },
+            {
+                  "name": "CERCLE MBANSOA",
+                  "text": "Serving as a dedicated meeting place, this cultural circle brings together community members for traditional arts and discussions.",
+                  "category": "cultural",
+                  "coords": [
+                        11.52529,
+                        3.913767
+                  ]
+            },
+            {
+                  "name": "OTHNI - Laboratoire de Théâtre de Yaoundé",
+                  "text": "This experimental theatre laboratory in Yaoundé serves as an innovative hub for contemporary performing arts and dramatic research.",
+                  "category": "cultural",
+                  "coords": [
+                        11.552612,
+                        3.886943
+                  ]
+            },
+            {
+                  "name": "Foyer Général Baloum De Yaounde",
+                  "text": "This cultural assembly hall acts as a central gathering point for the Baloum diaspora living in the Yaoundé area.",
+                  "category": "cultural",
+                  "coords": [
+                        11.546789,
+                        3.886515
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Located near the major stadium, this museum displays regional ethnographic exhibits that chronicle local historical development.",
+                  "category": "museum",
+                  "coords": [
+                        11.523847,
+                        3.889832
+                  ]
+            },
+            {
+                  "name": "Geecca",
+                  "text": "This community arts space is dedicated to supporting local creative expressions and fostering cultural education in the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        11.534189,
+                        3.874705
+                  ]
+            },
+            {
+                  "name": "Foyer Communautaire Babouin Tout De Yaoundé",
+                  "text": "This community foyer provides a welcoming venue for the cultural meetings and traditional festivities of the Babouin people in Yaoundé.",
+                  "category": "cultural",
+                  "coords": [
+                        11.54296,
+                        3.884055
+                  ]
+            },
+            {
+                  "name": "Foyer Culturel",
+                  "text": "This versatile cultural center hosts various grassroots artistic performances and social gatherings for the urban community.",
+                  "category": "cultural",
+                  "coords": [
+                        11.544634,
+                        3.861845
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.536, 3.882],
@@ -915,7 +2661,448 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palais-des-congres-landmarks-v2",
+    id: "palais-des-congres-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rustick-home Musée Tmc",
+                  "text": "Dieses rustikale Heimatmuseum bewahrt das traditionelle Leben und zeigt authentische historische Haushaltsgegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        11.483067,
+                        3.87839
+                  ]
+            },
+            {
+                  "name": "Amphi 100",
+                  "text": "Ein intimer Veranstaltungsort im Amphitheater-Stil, der für Vorlesungen und kleinere Bühnenaufführungen konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495713,
+                        3.86984
+                  ]
+            },
+            {
+                  "name": "Rocher",
+                  "text": "Ein markanter natürlicher Felsvorsprung, der als Aussichtspunkt über den umliegenden Wahrzeichenkomplex dient.",
+                  "category": "natural",
+                  "coords": [
+                        11.490175,
+                        3.91079
+                  ]
+            },
+            {
+                  "name": "Nda Mekok",
+                  "text": "Eine lokale Naturattraktion, die durch bedeutende Felsformationen mit kultureller Bedeutung geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.491627,
+                        3.931791
+                  ]
+            },
+            {
+                  "name": "Catholic Cross of Ngoya summit",
+                  "text": "Ein markantes katholisches Gipfelkreuz, das als Pilgerstätte und malerischer Aussichtspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        11.470647,
+                        3.926053
+                  ]
+            },
+            {
+                  "name": "Marie Statue",
+                  "text": "Ein friedliches religiöses Denkmal in Form einer Statue der Jungfrau Maria, das oft für stille Andachten aufgesucht wird.",
+                  "category": "historical",
+                  "coords": [
+                        11.466432,
+                        3.896733
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes",
+                  "text": "Ein geräumiger Gemeindesaal, der für lokale Feiern, Bankette und Kunstversammlungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        11.47029,
+                        3.871761
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Ein grüner zoologischer Park, in dem Besucher regionale Wildtierarten in umzäunten Gehegen beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        11.451761,
+                        3.873132
+                  ]
+            },
+            {
+                  "name": "Animaux empaillés",
+                  "text": "Eine unkonventionelle Museumsausstellung mit einer Sammlung von kunstvoll präparierten Tieren.",
+                  "category": "museum",
+                  "coords": [
+                        11.487801,
+                        3.864828
+                  ]
+            },
+            {
+                  "name": "Djamtâri",
+                  "text": "Ein kreatives Kulturzentrum, das sich auf lokale darstellende Kunst und gemeinschaftsorientierte Handwerksworkshops konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        11.462918,
+                        3.860391
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes Ndougsa Palace",
+                  "text": "Ein eleganter Veranstaltungssaal im Ndougsa-Palastkomplex, der für feierliche Zeremonien beliebt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        11.458779,
+                        3.873017
+                  ]
+            },
+            {
+                  "name": "Atelier 4",
+                  "text": "Ein praktisches Studio und Kunstzentrum, das einen gemeinschaftlichen Arbeitsbereich für aufstrebende bildende Künstler bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.508561,
+                        3.88564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rustick-home Musée Tmc",
+                  "text": "Ez a rusztikus múzeum a hagyományos életmódot őrzi, autentikus történelmi háztartási tárgyakat bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        11.483067,
+                        3.87839
+                  ]
+            },
+            {
+                  "name": "Amphi 100",
+                  "text": "Intim, amfiteátrum stílusú helyszín, amelyet előadásokhoz és kisebb színpadi műsorokhoz terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495713,
+                        3.86984
+                  ]
+            },
+            {
+                  "name": "Rocher",
+                  "text": "Jelentős természetes sziklakibúvás, amely kilátóként szolgál a környező nevezetességek komplexumára.",
+                  "category": "natural",
+                  "coords": [
+                        11.490175,
+                        3.91079
+                  ]
+            },
+            {
+                  "name": "Nda Mekok",
+                  "text": "Helyi természeti látványosság, amelyet kulturális jelentőséggel bíró kőzetképződmények jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        11.491627,
+                        3.931791
+                  ]
+            },
+            {
+                  "name": "Catholic Cross of Ngoya summit",
+                  "text": "A csúcson emelt kiemelkedő katolikus kereszt, amely zarándokhelyként és festői kilátóként is szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        11.470647,
+                        3.926053
+                  ]
+            },
+            {
+                  "name": "Marie Statue",
+                  "text": "Szűz Máriát ábrázoló békés vallási szobor, amelyet gyakran látogatnak csendes áhítat céljából.",
+                  "category": "historical",
+                  "coords": [
+                        11.466432,
+                        3.896733
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes",
+                  "text": "Tágas közösségi rendezvényterem, amelyet helyi ünnepségekre, bankettekre és művészeti találkozókra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        11.47029,
+                        3.871761
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Zöldellő állatkert, ahol a látogatók a régió vadvilágának fajait figyelhetik meg bekerített kifutókban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.451761,
+                        3.873132
+                  ]
+            },
+            {
+                  "name": "Animaux empaillés",
+                  "text": "Rendhagyó múzeumi kiállítás, amely szakszerűen kitömött állatok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.487801,
+                        3.864828
+                  ]
+            },
+            {
+                  "name": "Djamtâri",
+                  "text": "Kreatív kulturális központ, amely a helyi előadóművészetekre és a közösség által vezérelt kézműves műhelyekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        11.462918,
+                        3.860391
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes Ndougsa Palace",
+                  "text": "Elegáns rendezvényterem a Ndougsa Palota komplexumában, amelyet nagyszabású ünnepi ceremóniákra kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        11.458779,
+                        3.873017
+                  ]
+            },
+            {
+                  "name": "Atelier 4",
+                  "text": "Gyakorlati stúdió és művészeti központ, amely együttműködési munkaterületet biztosít a feltörekvő képzőművészek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        11.508561,
+                        3.88564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rustick-home Musée Tmc",
+                  "text": "Acest muzeu rustic păstrează viața tradițională, expunând artefacte de uz casnic istorice autentice.",
+                  "category": "museum",
+                  "coords": [
+                        11.483067,
+                        3.87839
+                  ]
+            },
+            {
+                  "name": "Amphi 100",
+                  "text": "O locație intimă în stil amfiteatru, concepută pentru prelegeri și spectacole de scenă mai mici.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495713,
+                        3.86984
+                  ]
+            },
+            {
+                  "name": "Rocher",
+                  "text": "Un afloriment stâncos natural proeminent, care servește drept punct de belvedere asupra complexului de repere din jur.",
+                  "category": "natural",
+                  "coords": [
+                        11.490175,
+                        3.91079
+                  ]
+            },
+            {
+                  "name": "Nda Mekok",
+                  "text": "O atracție naturală locală caracterizată prin formațiuni stâncoase semnificative cu importanță culturală.",
+                  "category": "landmark",
+                  "coords": [
+                        11.491627,
+                        3.931791
+                  ]
+            },
+            {
+                  "name": "Catholic Cross of Ngoya summit",
+                  "text": "O cruce catolică proeminentă ridicată pe vârf, servind drept loc de pelerinaj și punct de observare pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        11.470647,
+                        3.926053
+                  ]
+            },
+            {
+                  "name": "Marie Statue",
+                  "text": "Un monument religios liniștit cu o statuie a Fecioarei Maria, vizitat adesea pentru devotament tăcut.",
+                  "category": "historical",
+                  "coords": [
+                        11.466432,
+                        3.896733
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes",
+                  "text": "O sală de evenimente comunitară spațioasă, folosită pentru sărbători locale, banchete și adunări artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        11.47029,
+                        3.871761
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "Un parc zoologic verde unde vizitatorii pot observa speciile de faună sălbatică regională în incinte amenajate.",
+                  "category": "recreational",
+                  "coords": [
+                        11.451761,
+                        3.873132
+                  ]
+            },
+            {
+                  "name": "Animaux empaillés",
+                  "text": "O expoziție de muzeu neconvențională, prezentând o colecție de animale împăiate cu măiestrie.",
+                  "category": "museum",
+                  "coords": [
+                        11.487801,
+                        3.864828
+                  ]
+            },
+            {
+                  "name": "Djamtâri",
+                  "text": "Un centru cultural creativ care se axează pe artele spectacolului local și pe ateliere de meșteșuguri bazate pe comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        11.462918,
+                        3.860391
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes Ndougsa Palace",
+                  "text": "O sală de evenimente elegantă în complexul Palatului Ndougsa, preferată pentru ceremonii grandioase.",
+                  "category": "cultural",
+                  "coords": [
+                        11.458779,
+                        3.873017
+                  ]
+            },
+            {
+                  "name": "Atelier 4",
+                  "text": "Un studio practic și un centru de arte care oferă un spațiu de lucru colaborativ pentru artiștii vizuali emergenți.",
+                  "category": "cultural",
+                  "coords": [
+                        11.508561,
+                        3.88564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rustick-home Musée Tmc",
+                  "text": "This rustic home museum preserves traditional domestic life by showcasing authentic historical household artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        11.483067,
+                        3.87839
+                  ]
+            },
+            {
+                  "name": "Amphi 100",
+                  "text": "An intimate amphitheater-style venue designed for lectures and smaller stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.495713,
+                        3.86984
+                  ]
+            },
+            {
+                  "name": "Rocher",
+                  "text": "A prominent natural rocky outcrop serving as a vantage point over the surrounding landmark complex.",
+                  "category": "natural",
+                  "coords": [
+                        11.490175,
+                        3.91079
+                  ]
+            },
+            {
+                  "name": "Nda Mekok",
+                  "text": "A local natural attraction characterized by significant rock formations that hold cultural importance.",
+                  "category": "landmark",
+                  "coords": [
+                        11.491627,
+                        3.931791
+                  ]
+            },
+            {
+                  "name": "Catholic Cross of Ngoya summit",
+                  "text": "A prominent Catholic cross erected at the summit, serving as a pilgrimage site and a scenic overlook.",
+                  "category": "landmark",
+                  "coords": [
+                        11.470647,
+                        3.926053
+                  ]
+            },
+            {
+                  "name": "Marie Statue",
+                  "text": "A serene religious monument featuring a statue of the Virgin Mary, often visited for quiet devotion.",
+                  "category": "historical",
+                  "coords": [
+                        11.466432,
+                        3.896733
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes",
+                  "text": "A spacious community event hall used for local celebrations, banquets, and arts gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        11.47029,
+                        3.871761
+                  ]
+            },
+            {
+                  "name": "Parc",
+                  "text": "A green zoological park where visitors can observe regional wildlife species in fenced enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        11.451761,
+                        3.873132
+                  ]
+            },
+            {
+                  "name": "Stuffed Animals",
+                  "text": "An unconventional museum display featuring a collection of expertly preserved taxidermy animals.",
+                  "category": "museum",
+                  "coords": [
+                        11.487801,
+                        3.864828
+                  ]
+            },
+            {
+                  "name": "Djamtâri",
+                  "text": "A creative cultural center that focuses on local performing arts and community-driven craft workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        11.462918,
+                        3.860391
+                  ]
+            },
+            {
+                  "name": "Salle De Fêtes Ndougsa Palace",
+                  "text": "An elegant event hall within the Ndougsa Palace complex, favored for grand ceremonies and celebrations.",
+                  "category": "cultural",
+                  "coords": [
+                        11.458779,
+                        3.873017
+                  ]
+            },
+            {
+                  "name": "Atelier 4",
+                  "text": "A hands-on studio and arts center providing a collaborative workspace for emerging visual artists.",
+                  "category": "cultural",
+                  "coords": [
+                        11.508561,
+                        3.88564
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.498, 3.881],
@@ -963,7 +3150,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "blackitude-museum-landmarks-v2",
+    id: "blackitude-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Dominik",
+                  "text": "Das Maison Dominik ist eine lokale Attraktion in der Nähe des kulturreichen Blackitude-Museums in Jaunde.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514842,
+                        3.862663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Dominik",
+                  "text": "A Maison Dominik egy helyi látványosság a kulturálisan gazdag Blackitude Múzeum közelében, Yaoundéban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514842,
+                        3.862663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Dominik",
+                  "text": "Maison Dominik este o atracție locală situată în apropierea Muzeului Blackitude, bogat din punct de vedere cultural, din Yaoundé.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514842,
+                        3.862663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Dominik",
+                  "text": "Maison Dominik is a local attraction situated near the culturally rich Blackitude Museum in Yaoundé.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514842,
+                        3.862663
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.514, 3.861],
@@ -1059,7 +3291,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "douala-central-mosque-landmarks-v2",
+    id: "douala-central-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manège",
+                  "text": "Dieses kleine Karussell bietet Freizeitunterhaltung für Familien, die die Gegend um die Zentralmoschee besuchen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.703088,
+                        4.060049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manège",
+                  "text": "Ez a kis vidámparki játékelem szórakoztató kikapcsolódást kínál a Központi Mecset környékére látogató családoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        9.703088,
+                        4.060049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manège",
+                  "text": "Acest mic carusel oferă divertisment recreativ pentru familiile care vizitează zona din jurul Moscheii Centrale.",
+                  "category": "landmark",
+                  "coords": [
+                        9.703088,
+                        4.060049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manège",
+                  "text": "This small amusement ride offers recreational entertainment for families visiting the area around the Central Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        9.703088,
+                        4.060049
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-LT",
     coords: [9.702, 4.053],
@@ -1203,7 +3480,448 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "dschang-museum-landmarks-v2",
+    id: "dschang-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chefferie Foreke",
+                  "text": "Die Chefferie Foreke ist ein wichtiger traditioneller Königspalast in der Region Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        10.046702,
+                        5.440401
+                  ]
+            },
+            {
+                  "name": "Roi",
+                  "text": "Dieses Denkmal ehrt einen lokalen traditionellen König (Roi) im historischen Kontext des Häuptlingstums Dschang.",
+                  "category": "historical",
+                  "coords": [
+                        10.053709,
+                        5.442277
+                  ]
+            },
+            {
+                  "name": "chaefferie fotetsa",
+                  "text": "Die Chefferie Fotetsa ist ein traditioneller Bamileke-Palast, der das regionale Häuptlingserbe präsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        9.995705,
+                        5.431699
+                  ]
+            },
+            {
+                  "name": "chefferie de tsintset",
+                  "text": "Die Chefferie de Tsintset dient als historische Residenz eines lokalen traditionellen Häuptlings.",
+                  "category": "castle",
+                  "coords": [
+                        9.974852,
+                        5.423518
+                  ]
+            },
+            {
+                  "name": "Centre Climatique de Dschang",
+                  "text": "Das Centre Climatique de Dschang ist ein historischer Luftkurort aus der Kolonialzeit inmitten des Hochlandes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067497,
+                        5.441858
+                  ]
+            },
+            {
+                  "name": "chefferie Toutsang",
+                  "text": "Die Chefferie Toutsang ist ein traditionelles königliches Anwesen, das das Erbe der lokalen Herrscher bewahrt.",
+                  "category": "castle",
+                  "coords": [
+                        10.068512,
+                        5.430085
+                  ]
+            },
+            {
+                  "name": "Chefferie Fonakeukeu",
+                  "text": "Die Chefferie Fonakeukeu repräsentiert das kulturelle und administrative Herz ihres lokalen Häuptlingstums.",
+                  "category": "castle",
+                  "coords": [
+                        10.081394,
+                        5.413152
+                  ]
+            },
+            {
+                  "name": "chefferie titse",
+                  "text": "Die Chefferie Titse ist der Palast eines lokalen Häuptlings, der für seine traditionellen architektonischen Elemente bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        10.034048,
+                        5.41524
+                  ]
+            },
+            {
+                  "name": "chefferie apouh",
+                  "text": "Die Chefferie Apouh ist ein historisches königliches Anwesen, das die regionale traditionelle Führung widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        10.039001,
+                        5.41244
+                  ]
+            },
+            {
+                  "name": "Chefferie de Tsinset",
+                  "text": "Die Chefferie de Tsinset ist eine weitere bedeutende traditionelle königliche Residenz in der Gegend von Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        9.966623,
+                        5.421759
+                  ]
+            },
+            {
+                  "name": "Chefferie Fotchouli",
+                  "text": "Die Chefferie Fotchouli ist ein Zeugnis der lokalen traditionellen Häuptlingssysteme.",
+                  "category": "castle",
+                  "coords": [
+                        9.995531,
+                        5.443152
+                  ]
+            },
+            {
+                  "name": "chefferie de ngoua",
+                  "text": "Die Chefferie de Ngoua ist ein traditionelles königliches Anwesen, das die Verwaltungstraditionen der Bamileke aufrechterhält.",
+                  "category": "castle",
+                  "coords": [
+                        10.082008,
+                        5.436417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chefferie Foreke",
+                  "text": "A Chefferie Foreke egy fontos hagyományos királyi palota a Dschang régióban.",
+                  "category": "castle",
+                  "coords": [
+                        10.046702,
+                        5.440401
+                  ]
+            },
+            {
+                  "name": "Roi",
+                  "text": "Ez az emlékmű egy helyi hagyományos királyt (Roi) tisztel a történelmi dschangi törzsfői kontextusban.",
+                  "category": "historical",
+                  "coords": [
+                        10.053709,
+                        5.442277
+                  ]
+            },
+            {
+                  "name": "chaefferie fotetsa",
+                  "text": "A Chefferie Fotetsa egy hagyományos bamileke palota, amely bemutatja a regionális törzsfői örökséget.",
+                  "category": "castle",
+                  "coords": [
+                        9.995705,
+                        5.431699
+                  ]
+            },
+            {
+                  "name": "chefferie de tsintset",
+                  "text": "A Chefferie de Tsintset egy helyi hagyományos törzsfő történelmi rezidenciájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        9.974852,
+                        5.423518
+                  ]
+            },
+            {
+                  "name": "Centre Climatique de Dschang",
+                  "text": "A Centre Climatique de Dschang egy történelmi, gyarmati korszakból származó éghajlati üdülőhely a hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067497,
+                        5.441858
+                  ]
+            },
+            {
+                  "name": "chefferie Toutsang",
+                  "text": "A Chefferie Toutsang egy hagyományos királyi komplexum, amely megőrzi a helyi uralkodók örökségét.",
+                  "category": "castle",
+                  "coords": [
+                        10.068512,
+                        5.430085
+                  ]
+            },
+            {
+                  "name": "Chefferie Fonakeukeu",
+                  "text": "A Chefferie Fonakeukeu a helyi törzsfői rendszer kulturális és közigazgatási központját képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        10.081394,
+                        5.413152
+                  ]
+            },
+            {
+                  "name": "chefferie titse",
+                  "text": "A Chefferie Titse egy helyi törzsfő palotája, amely hagyományos építészeti elemeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        10.034048,
+                        5.41524
+                  ]
+            },
+            {
+                  "name": "chefferie apouh",
+                  "text": "A Chefferie Apouh egy történelmi királyi birtok, amely a regionális hagyományos vezetést tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        10.039001,
+                        5.41244
+                  ]
+            },
+            {
+                  "name": "Chefferie de Tsinset",
+                  "text": "A Chefferie de Tsinset egy másik jelentős hagyományos királyi rezidencia Dschang környékén.",
+                  "category": "castle",
+                  "coords": [
+                        9.966623,
+                        5.421759
+                  ]
+            },
+            {
+                  "name": "Chefferie Fotchouli",
+                  "text": "A Chefferie Fotchouli a helyi hagyományos törzsfői rendszerek bizonyítéka.",
+                  "category": "castle",
+                  "coords": [
+                        9.995531,
+                        5.443152
+                  ]
+            },
+            {
+                  "name": "chefferie de ngoua",
+                  "text": "A Chefferie de Ngoua egy hagyományos királyi komplexum, amely fenntartja a bamileke közigazgatási hagyományokat.",
+                  "category": "castle",
+                  "coords": [
+                        10.082008,
+                        5.436417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chefferie Foreke",
+                  "text": "Chefferie Foreke este un important palat regal tradițional situat în regiunea Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        10.046702,
+                        5.440401
+                  ]
+            },
+            {
+                  "name": "Roi",
+                  "text": "Acest monument onorează un rege tradițional local (Roi) în contextul istoric al căpeteniei Dschang.",
+                  "category": "historical",
+                  "coords": [
+                        10.053709,
+                        5.442277
+                  ]
+            },
+            {
+                  "name": "chaefferie fotetsa",
+                  "text": "Chefferie Fotetsa este un palat tradițional Bamileke care prezintă moștenirea căpeteniilor regionale.",
+                  "category": "castle",
+                  "coords": [
+                        9.995705,
+                        5.431699
+                  ]
+            },
+            {
+                  "name": "chefferie de tsintset",
+                  "text": "Chefferie de Tsintset servește ca reședință istorică a unei căpetenii locale tradiționale.",
+                  "category": "castle",
+                  "coords": [
+                        9.974852,
+                        5.423518
+                  ]
+            },
+            {
+                  "name": "Centre Climatique de Dschang",
+                  "text": "Centre Climatique de Dschang este o stațiune climatică istorică din epoca colonială, cuibărită în zonele muntoase.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067497,
+                        5.441858
+                  ]
+            },
+            {
+                  "name": "chefferie Toutsang",
+                  "text": "Chefferie Toutsang este un complex regal tradițional care păstrează moștenirea conducătorilor locali.",
+                  "category": "castle",
+                  "coords": [
+                        10.068512,
+                        5.430085
+                  ]
+            },
+            {
+                  "name": "Chefferie Fonakeukeu",
+                  "text": "Chefferie Fonakeukeu reprezintă inima culturală și administrativă a căpeteniei sale locale.",
+                  "category": "castle",
+                  "coords": [
+                        10.081394,
+                        5.413152
+                  ]
+            },
+            {
+                  "name": "chefferie titse",
+                  "text": "Chefferie Titse este palatul unei căpetenii locale, cunoscut pentru elementele sale arhitecturale tradiționale.",
+                  "category": "castle",
+                  "coords": [
+                        10.034048,
+                        5.41524
+                  ]
+            },
+            {
+                  "name": "chefferie apouh",
+                  "text": "Chefferie Apouh este o moșie regală istorică care reflectă conducerea tradițională regională.",
+                  "category": "castle",
+                  "coords": [
+                        10.039001,
+                        5.41244
+                  ]
+            },
+            {
+                  "name": "Chefferie de Tsinset",
+                  "text": "Chefferie de Tsinset este o altă reședință regală tradițională semnificativă în zona Dschang.",
+                  "category": "castle",
+                  "coords": [
+                        9.966623,
+                        5.421759
+                  ]
+            },
+            {
+                  "name": "Chefferie Fotchouli",
+                  "text": "Chefferie Fotchouli stă ca o mărturie a sistemelor locale de căpetenii tradiționale.",
+                  "category": "castle",
+                  "coords": [
+                        9.995531,
+                        5.443152
+                  ]
+            },
+            {
+                  "name": "chefferie de ngoua",
+                  "text": "Chefferie de Ngoua este un complex regal tradițional care menține tradițiile administrative Bamileke.",
+                  "category": "castle",
+                  "coords": [
+                        10.082008,
+                        5.436417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chefferie Foreke",
+                  "text": "Chefferie Foreke is an important traditional royal palace located in the Dschang region.",
+                  "category": "castle",
+                  "coords": [
+                        10.046702,
+                        5.440401
+                  ]
+            },
+            {
+                  "name": "Roi",
+                  "text": "This monument honors a local traditional king (Roi) within the historic Dschang chiefdom context.",
+                  "category": "historical",
+                  "coords": [
+                        10.053709,
+                        5.442277
+                  ]
+            },
+            {
+                  "name": "chaefferie fotetsa",
+                  "text": "Chefferie Fotetsa is a traditional Bamileke palace showcasing regional chiefdom heritage.",
+                  "category": "castle",
+                  "coords": [
+                        9.995705,
+                        5.431699
+                  ]
+            },
+            {
+                  "name": "chefferie de tsintset",
+                  "text": "Chefferie de Tsintset serves as the historic residence of a local customary chief.",
+                  "category": "castle",
+                  "coords": [
+                        9.974852,
+                        5.423518
+                  ]
+            },
+            {
+                  "name": "Centre Climatique de Dschang",
+                  "text": "The Centre Climatique de Dschang is a historic colonial-era climate resort nestled in the highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        10.067497,
+                        5.441858
+                  ]
+            },
+            {
+                  "name": "chefferie Toutsang",
+                  "text": "Chefferie Toutsang is a traditional royal compound preserving the legacy of local rulers.",
+                  "category": "castle",
+                  "coords": [
+                        10.068512,
+                        5.430085
+                  ]
+            },
+            {
+                  "name": "Chefferie Fonakeukeu",
+                  "text": "Chefferie Fonakeukeu represents the cultural and administrative heart of its local chiefdom.",
+                  "category": "castle",
+                  "coords": [
+                        10.081394,
+                        5.413152
+                  ]
+            },
+            {
+                  "name": "chefferie titse",
+                  "text": "Chefferie Titse is a local chief's palace known for its traditional architectural elements.",
+                  "category": "castle",
+                  "coords": [
+                        10.034048,
+                        5.41524
+                  ]
+            },
+            {
+                  "name": "chefferie apouh",
+                  "text": "Chefferie Apouh is a historic royal estate reflecting regional customary leadership.",
+                  "category": "castle",
+                  "coords": [
+                        10.039001,
+                        5.41244
+                  ]
+            },
+            {
+                  "name": "Chefferie de Tsinset",
+                  "text": "Chefferie de Tsinset is another significant traditional royal residence in the Dschang area.",
+                  "category": "castle",
+                  "coords": [
+                        9.966623,
+                        5.421759
+                  ]
+            },
+            {
+                  "name": "Chefferie Fotchouli",
+                  "text": "Chefferie Fotchouli stands as a testament to the local customary chiefdom systems.",
+                  "category": "castle",
+                  "coords": [
+                        9.995531,
+                        5.443152
+                  ]
+            },
+            {
+                  "name": "chefferie de ngoua",
+                  "text": "Chefferie de Ngoua is a customary royal compound maintaining Bamileke administrative traditions.",
+                  "category": "castle",
+                  "coords": [
+                        10.082008,
+                        5.436417
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-OU",
     coords: [10.052, 5.447],
@@ -1251,7 +3969,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palais-des-sports-wando-landmarks-v2",
+    id: "palais-des-sports-wando-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument de l'indépendace",
+                  "text": "Dieses historische Denkmal erinnert an die Unabhängigkeit und ist ein markantes Wahrzeichen der Hauptstadtregion.",
+                  "category": "historical",
+                  "coords": [
+                        11.517503,
+                        3.872822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument de l'indépendace",
+                  "text": "Ez a történelmi emlékmű a függetlenségnek állít emléket, és a fővárosi régió egyik kiemelkedő nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        11.517503,
+                        3.872822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument de l'indépendace",
+                  "text": "Acest monument istoric comemorează independența și este un punct de reper vizibil în regiunea capitalei.",
+                  "category": "historical",
+                  "coords": [
+                        11.517503,
+                        3.872822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument de l'indépendace",
+                  "text": "This historic monument commemorates independence and stands as a prominent landmark in the capital region.",
+                  "category": "historical",
+                  "coords": [
+                        11.517503,
+                        3.872822
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-CE",
     coords: [11.516, 3.873],
@@ -1299,7 +4062,52 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-reunification-douala-landmarks-v2",
+    id: "stade-reunification-douala-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscine de Ndogbong",
+                  "text": "Diese beliebte öffentliche Schwimmanlage bietet den Bewohnern des Viertels Ndogbong in Douala einen erfrischenden Erholungsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        9.745463,
+                        4.060036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscine de Ndogbong",
+                  "text": "Ez a népszerű nyilvános uszoda frissítő rekreációs teret kínál Douala Ndogbong negyedének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        9.745463,
+                        4.060036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscine de Ndogbong",
+                  "text": "Această facilitate publică populară de înot oferă un spațiu de recreere revigorant pentru locuitorii din cartierul Ndogbong din Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.745463,
+                        4.060036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscine de Ndogbong",
+                  "text": "This popular public swimming facility offers a refreshing recreational space for residents in the Ndogbong neighborhood of Douala.",
+                  "category": "landmark",
+                  "coords": [
+                        9.745463,
+                        4.060036
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CM-LT",
     coords: [9.734, 4.053],

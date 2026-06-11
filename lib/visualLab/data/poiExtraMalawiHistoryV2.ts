@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const malawiHistoryV2: POI[] = [
 
   {
-    id: "malawi-mandala-house-history-v2",
+    id: "malawi-mandala-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mandala House",
+                  "text": "Das Mandala House in Blantyre wurde 1882 erbaut und gilt als das älteste noch stehende Gebäude Malawis.",
+                  "category": "museum",
+                  "coords": [
+                        35.011506,
+                        -15.792717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mandala House",
+                  "text": "Az 1882-ben épült blantyre-i Mandala House a történelem szerint Malawi legrégebbi máig fennmaradt épülete.",
+                  "category": "museum",
+                  "coords": [
+                        35.011506,
+                        -15.792717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mandala House",
+                  "text": "Construită în 1882, Casa Mandala din Blantyre este considerată cea mai veche clădire din Malawi care încă stă în picioare.",
+                  "category": "museum",
+                  "coords": [
+                        35.011506,
+                        -15.792717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mandala House",
+                  "text": "Built in 1882, the Mandala House in Blantyre is considered the oldest standing building in Malawi.",
+                  "category": "museum",
+                  "coords": [
+                        35.011506,
+                        -15.792717
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Mandala-Haus", hu: "Mandala-ház", ro: "Casa Mandala", en: "Mandala House" },
@@ -93,7 +138,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-st-michael-angels-church-history-v2.webp",
   },
   {
-    id: "malawi-chongoni-rock-art-history-v2",
+    id: "malawi-chongoni-rock-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bunda Hill",
+                  "text": "Bunda Hill ist eine natürliche Erhebung nahe der Chongoni-Felskunststätte.",
+                  "category": "landmark",
+                  "coords": [
+                        34.215651,
+                        -14.278474
+                  ]
+            },
+            {
+                  "name": "Chentcherere Rock Shelter",
+                  "text": "Der Chentcherere Rock Shelter ist eine Attraktion, die für ihre alten Felszeichnungen in der Chongoni-Region bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.256506,
+                        -14.285461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bunda Hill",
+                  "text": "A Bunda Hill egy természetes magaslat a Chongoni sziklarajzok lelőhelye közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.215651,
+                        -14.278474
+                  ]
+            },
+            {
+                  "name": "Chentcherere Rock Shelter",
+                  "text": "A Chentcherere Rock Shelter egy látványosság, amely a Chongoni régió ősi sziklarajzairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        34.256506,
+                        -14.285461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bunda Hill",
+                  "text": "Bunda Hill este o atracție naturală care se înalță în apropierea zonei cu artă rupestră Chongoni.",
+                  "category": "landmark",
+                  "coords": [
+                        34.215651,
+                        -14.278474
+                  ]
+            },
+            {
+                  "name": "Chentcherere Rock Shelter",
+                  "text": "Adăpostul sub stâncă Chentcherere este o atracție renumită pentru picturile sale rupestre antice din regiunea Chongoni.",
+                  "category": "landmark",
+                  "coords": [
+                        34.256506,
+                        -14.285461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunda Hill",
+                  "text": "Bunda Hill is a natural attraction rising above the plains near the Chongoni rock art area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.215651,
+                        -14.278474
+                  ]
+            },
+            {
+                  "name": "Chentcherere Rock Shelter",
+                  "text": "The Chentcherere Rock Shelter is an attraction renowned for its ancient rock paintings within the Chongoni area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.256506,
+                        -14.285461
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "ruins",
     name: { de: "Felsbilder von Chongoni", hu: "Chongoni sziklarajzok", ro: "Arta rupestră din Chongoni", en: "Chongoni Rock Art Area" },
@@ -300,7 +426,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-livingstonia-mission-history-v2.webp",
   },
   {
-    id: "malawi-nkhotakota-slave-market-history-v2",
+    id: "malawi-nkhotakota-slave-market-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "Der Mkungu-Baum in Nkhotakota markiert eine historische Stätte, an der sich einst der Sklavenhändler Jumbe Salim Bin Abudala aufhielt, um seine Handelsgeschäfte zu koordinieren.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            },
+            {
+                  "name": "Livingstone Tree",
+                  "text": "Der Livingstone-Baum in Nkhotakota ist ein historischer Feigenbaum, unter dem sich Dr. David Livingstone mit lokalen Häuptlingen getroffen haben soll, um über die Beendigung des Sklavenhandels zu sprechen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "A nkhotakotai Mkungu-fa azt a történelmi helyet jelöli, ahol egykor Jumbe Salim Bin Abudala rabszolgakereskedő lakott, hogy összehangolja kereskedelmi műveleteit.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            },
+            {
+                  "name": "Livingstone Tree",
+                  "text": "A nkhotakotai Livingstone-fa egy történelmi fügefa, amely alatt Dr. David Livingstone állítólag találkozott a helyi törzsfőnökökkel, hogy a rabszolgakereskedelem megszüntetéséről tárgyaljanak.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "Arborele Mkungu din Nkhotakota marchează un sit istoric unde negustorul de sclavi Jumbe Salim Bin Abudala a locuit cândva pentru a-și coordona operațiunile comerciale.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            },
+            {
+                  "name": "Livingstone Tree",
+                  "text": "Arborele Livingstone din Nkhotakota este un smochin istoric unde se crede că Dr. David Livingstone s-a întâlnit cu șefii locali pentru a discuta despre încheierea comerțului cu sclavi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "The Mkungu Tree in Nkhotakota marks a historical site where slave trader Jumbe Salim Bin Abudala once resided to coordinate his trade operations.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            },
+            {
+                  "name": "Livingstone Tree",
+                  "text": "The Livingstone Tree in Nkhotakota is a historical fig tree where Dr. David Livingstone is believed to have met with local chiefs to discuss ending the slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Sklavenmarkt von Nkhotakota", hu: "Nkhotakota rabszolgapiac", ro: "Piața de sclavi din Nkhotakota", en: "Nkhotakota Slave Market" },
@@ -435,7 +642,124 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-karonga-museum-history-v2.webp",
   },
   {
-    id: "malawi-victoria-memorial-tower-history-v2",
+    id: "malawi-victoria-memorial-tower-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiusi",
+                  "text": "Dieser markante Berggipfel weist steile, felsige Hänge auf und belohnt unerschrockene Kletterer mit einem Panoramablick auf das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        35.316925,
+                        -14.461415
+                  ]
+            },
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "Dieses Museum stellt maritime Artefakte aus der Kolonialzeit aus, darunter Relikte historischer Dampfschiffe, die auf dem See patrouillierten.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480003
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "Dieser 1903 aus strengem rotem Backstein erbaute Uhrenturm steht als monumentale koloniale Hommage an Königin Victoria.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiusi",
+                  "text": "Ez a kiemelkedő hegycsúcs meredek, sziklás lejtőkkel rendelkezik, és a völgyre nyíló panorámával jutalmazza a rettenthetetlen hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        35.316925,
+                        -14.461415
+                  ]
+            },
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "Ez a múzeum a gyarmati korszakból származó tengerészeti leleteket mutat be, köztük a tavon járőröző történelmi gőzhajók ereklyéit.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480003
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "Az 1903-ban, zord vörös téglából épült óratorony Viktória királynő monumentális gyarmati emlékműveként áll.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiusi",
+                  "text": "Acest vârf muntos proeminent prezintă pante abrupte și stâncoase și recompensează alpiniștii intrepizi cu vederi panoramice ale văii.",
+                  "category": "natural",
+                  "coords": [
+                        35.316925,
+                        -14.461415
+                  ]
+            },
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "Acest muzeu expune artefacte maritime din epoca colonială, inclusiv relicve ale navelor cu aburi istorice care patrulau pe lac.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480003
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "Construit în 1903 din cărămidă roșie severă, acest turn cu ceas se înalță ca un tribut colonial monumental adus reginei Victoria.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiusi",
+                  "text": "This prominent mountain peak features steep, rocky inclines and rewards intrepid climbers with panoramic views of the valley.",
+                  "category": "natural",
+                  "coords": [
+                        35.316925,
+                        -14.461415
+                  ]
+            },
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "This museum exhibits maritime artifacts from the colonial era, including relics of historic steamboats that patrolled the lake.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480003
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "Constructed in 1903 from stark red brick, this clock tower stands as a monumental colonial tribute to Queen Victoria.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "tower",
     name: { de: "Victoria-Gedenkturm", hu: "Viktória-emléktorony", ro: "Turnul Memorial Victoria", en: "Victoria Memorial Tower" },
@@ -480,7 +804,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-victoria-memorial-tower-history-v2.webp",
   },
   {
-    id: "malawi-likoma-cathedral-history-v2",
+    id: "malawi-likoma-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Immigration",
+                  "text": "Das Einwanderungsbüro in der Nähe der Likoma-Kathedrale ist für die Passkontrolle und die Einreisebestimmungen für Besucher dieses Inselgebiets zuständig.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740348,
+                        -12.068016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Immigration",
+                  "text": "A Likoma katedrális közelében lévő bevándorlási hivatal útlevélellenőrzéssel és belépési szabályozással foglalkozik e szigeti terület látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740348,
+                        -12.068016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Immigration",
+                  "text": "Biroul de Imigrare din apropierea Catedralei Likoma gestionează controlul pașapoartelor și regulile de intrare pentru vizitatorii acestui teritoriu insular.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740348,
+                        -12.068016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Immigration",
+                  "text": "The Immigration office near Likoma Cathedral manages passport control and entry regulations for visitors to this island territory.",
+                  "category": "landmark",
+                  "coords": [
+                        34.740348,
+                        -12.068016
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "cathedral",
     name: { de: "Kathedrale von Likoma", hu: "Likoma katedrális", ro: "Catedrala din Likoma", en: "Likoma Cathedral" },
@@ -525,7 +894,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-likoma-cathedral-history-v2.webp",
   },
   {
-    id: "malawi-zomba-old-parliament-history-v2",
+    id: "malawi-zomba-old-parliament-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Memorial of \"African Rifles\"",
+                  "text": "Dieses Denkmal in Zomba erinnert an die Geschichte und den Einsatz der King's African Rifles.",
+                  "category": "historical",
+                  "coords": [
+                        35.312023,
+                        -15.393795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Memorial of \"African Rifles\"",
+                  "text": "Ez a zombai emlékmű a King's African Rifles történetének és szolgálatának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        35.312023,
+                        -15.393795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memorial of \"African Rifles\"",
+                  "text": "Acest monument din Zomba comemorează istoria și serviciul unității King's African Rifles.",
+                  "category": "historical",
+                  "coords": [
+                        35.312023,
+                        -15.393795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial of \"African Rifles\"",
+                  "text": "This monument in Zomba commemorates the history and service of the King's African Rifles.",
+                  "category": "historical",
+                  "coords": [
+                        35.312023,
+                        -15.393795
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Altes Parlamentsgebäude Zomba", hu: "Zomba régi parlament", ro: "Vechea clădire a Parlamentului Zomba", en: "Zomba Old Parliament House" },
@@ -615,7 +1029,160 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-blantyre-old-town-hall-history-v2.webp",
   },
   {
-    id: "malawi-chichiri-museum-history-v2",
+    id: "malawi-chichiri-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Malawi",
+                  "text": "Das auch als Chichiri Museum bekannte Museum of Malawi zeigt die reiche Kultur- und Naturgeschichte der Nation in Blantyre.",
+                  "category": "museum",
+                  "coords": [
+                        35.039484,
+                        -15.804082
+                  ]
+            },
+            {
+                  "name": "temporaly benchmark",
+                  "text": "Dieser temporäre Festpunkt dient als kleines Denkmal nahe dem historischen Gelände des Chichiri Museums.",
+                  "category": "historical",
+                  "coords": [
+                        35.036021,
+                        -15.804006
+                  ]
+            },
+            {
+                  "name": "Open Theatre (OT)",
+                  "text": "Das Open Theatre (OT) nahe dem Chichiri Museum dient als kultureller Freiluft-Veranstaltungsort für Aufführungen und Versammlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.02627,
+                        -15.80216
+                  ]
+            },
+            {
+                  "name": "Independence Arc",
+                  "text": "Der Independence Arc ist ein bedeutendes historisches Denkmal, das Malawis nationale Souveränität nahe dem Chichiri Museum feiert.",
+                  "category": "historical",
+                  "coords": [
+                        35.043555,
+                        -15.804411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Malawi",
+                  "text": "A Chichiri Múzeumként is ismert Malawi Múzeum a nemzet gazdag kulturális és természettörténetét mutatja be Blantyre-ben.",
+                  "category": "museum",
+                  "coords": [
+                        35.039484,
+                        -15.804082
+                  ]
+            },
+            {
+                  "name": "temporaly benchmark",
+                  "text": "Ez az ideiglenes mérési pont szerény műemlékként szolgál a Chichiri Múzeum történelmi területének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.036021,
+                        -15.804006
+                  ]
+            },
+            {
+                  "name": "Open Theatre (OT)",
+                  "text": "A Chichiri Múzeum közelében található Open Theatre (OT) szabadtéri kulturális helyszínként szolgál előadásokhoz és összejövetelekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        35.02627,
+                        -15.80216
+                  ]
+            },
+            {
+                  "name": "Independence Arc",
+                  "text": "Az Independence Arc egy jelentős történelmi műemlék, amely Malawi nemzeti szuverenitását ünnepli a Chichiri Múzeum közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.043555,
+                        -15.804411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Malawi",
+                  "text": "Cunoscut și sub numele de Muzeul Chichiri, Muzeul Malawi prezintă bogata istorie culturală și naturală a națiunii în Blantyre.",
+                  "category": "museum",
+                  "coords": [
+                        35.039484,
+                        -15.804082
+                  ]
+            },
+            {
+                  "name": "temporaly benchmark",
+                  "text": "Acest punct de referință temporar acționează ca un monument modest în apropierea terenurilor istorice ale Muzeului Chichiri.",
+                  "category": "historical",
+                  "coords": [
+                        35.036021,
+                        -15.804006
+                  ]
+            },
+            {
+                  "name": "Open Theatre (OT)",
+                  "text": "Teatrul în Aer Liber (OT) de lângă Muzeul Chichiri servește drept spațiu cultural pentru spectacole și adunări.",
+                  "category": "cultural",
+                  "coords": [
+                        35.02627,
+                        -15.80216
+                  ]
+            },
+            {
+                  "name": "Independence Arc",
+                  "text": "Arcul Independenței este un monument istoric semnificativ care celebrează suveranitatea națională a statului Malawi lângă Muzeul Chichiri.",
+                  "category": "historical",
+                  "coords": [
+                        35.043555,
+                        -15.804411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Malawi",
+                  "text": "Also known as the Chichiri Museum, the Museum of Malawi showcases the nation's rich cultural and natural history in Blantyre.",
+                  "category": "museum",
+                  "coords": [
+                        35.039484,
+                        -15.804082
+                  ]
+            },
+            {
+                  "name": "temporaly benchmark",
+                  "text": "This temporary benchmark acts as a modest monument near the historic grounds of the Chichiri Museum.",
+                  "category": "historical",
+                  "coords": [
+                        35.036021,
+                        -15.804006
+                  ]
+            },
+            {
+                  "name": "Open Theatre (OT)",
+                  "text": "The Open Theatre near the Chichiri Museum serves as an outdoor cultural venue for performances and gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        35.02627,
+                        -15.80216
+                  ]
+            },
+            {
+                  "name": "Independence Arc",
+                  "text": "The Independence Arc is a significant historical monument celebrating Malawi's national sovereignty near the Chichiri Museum.",
+                  "category": "historical",
+                  "coords": [
+                        35.043555,
+                        -15.804411
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "museum",
     name: { de: "Chichiri-Museum", hu: "Chichiri Múzeum", ro: "Muzeul Chichiri", en: "Chichiri Museum" },
@@ -660,7 +1227,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-chichiri-museum-history-v2.webp",
   },
   {
-    id: "malawi-lilongwe-war-memorial-history-v2",
+    id: "malawi-lilongwe-war-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chitenge shops",
+                  "text": "Die Chitenge-Geschäfte sind eine farbenfrohe lokale Attraktion, die traditionell bedruckte Stoffe nahe dem Lilongwe War Memorial anbieten.",
+                  "category": "landmark",
+                  "coords": [
+                        33.778338,
+                        -13.992202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chitenge shops",
+                  "text": "A Chitenge üzletek egy színes helyi látványosság, amely hagyományos nyomott anyagokat kínál a Lilongwe War Memorial közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.778338,
+                        -13.992202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chitenge shops",
+                  "text": "Magazinele Chitenge sunt o atracție locală plină de culoare care oferă țesături tradiționale imprimate lângă Memorialul de Război din Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.778338,
+                        -13.992202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chitenge shops",
+                  "text": "The Chitenge shops are a colorful local attraction offering traditional printed fabrics near the Lilongwe War Memorial.",
+                  "category": "landmark",
+                  "coords": [
+                        33.778338,
+                        -13.992202
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "monument",
     name: { de: "Kriegsdenkmal Lilongwe", hu: "Lilongwe háborús emlékmű", ro: "Monumentul Eroilor din Lilongwe", en: "Lilongwe War Memorial" },
@@ -795,7 +1407,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-malamulo-mission-history-v2.webp",
   },
   {
-    id: "malawi-nkhoma-mission-history-v2",
+    id: "malawi-nkhoma-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nkhoma Mountain summit",
+                  "text": "Der Gipfel des Nkhoma Mountain bietet einen weiten, hoch gelegenen Aussichtspunkt über die Landschaft Zentralmalawis.",
+                  "category": "natural",
+                  "coords": [
+                        34.090022,
+                        -14.024283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nkhoma Mountain summit",
+                  "text": "A Nkhoma-hegy csúcsa magasan fekvő, széles kilátást nyújt a közép-malawi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        34.090022,
+                        -14.024283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nkhoma Mountain summit",
+                  "text": "Vârful Muntelui Nkhoma oferă un punct de belvedere la mare altitudine, cu o panoramă vastă asupra peisajului din centrul statului Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.090022,
+                        -14.024283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nkhoma Mountain summit",
+                  "text": "The summit of Nkhoma Mountain provides a sweeping, high-altitude viewpoint over the central Malawian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        34.090022,
+                        -14.024283
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "village",
     name: { de: "Nkhoma-Mission", hu: "Nkhoma misszió", ro: "Misiunea Nkhoma", en: "Nkhoma Mission" },
@@ -885,7 +1542,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-ekwendeni-mission-history-v2.webp",
   },
   {
-    id: "malawi-bandawe-mission-history-v2",
+    id: "malawi-bandawe-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Bandawe Mission Cemetery",
+                  "text": "Der alte Bandawe-Missionsfriedhof beherbergt die verwitterten Gräber der ersten christlichen Missionare, die sich an den Ufern des Malawisees niederließen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.175195,
+                        -11.921541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Bandawe Mission Cemetery",
+                  "text": "Az Old Bandawe Mission Cemetery temetőben a Malawi-tó partján letelepedő korai keresztény misszionáriusok viharvert sírjai találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        34.175195,
+                        -11.921541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Bandawe Mission Cemetery",
+                  "text": "Vechiul Cimitir al Misiunii Bandawe conține mormintele erodate ale primilor misionari creștini care s-au stabilit de-a lungul țărmurilor Lacului Malawi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.175195,
+                        -11.921541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Bandawe Mission Cemetery",
+                  "text": "Old Bandawe Mission Cemetery contains the weathered graves of early Christian missionaries who settled along the shores of Lake Malawi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.175195,
+                        -11.921541
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Bandawe-Mission", hu: "Bandawe misszió", ro: "Misiunea Bandawe", en: "Bandawe Mission" },
@@ -930,7 +1632,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-bandawe-mission-history-v2.webp",
   },
   {
-    id: "malawi-livingstonia-cairn-history-v2",
+    id: "malawi-livingstonia-cairn-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golden Sands Hotel (ruin)",
+                  "text": "Die Ruinen des Golden Sands Hotels sind die Überreste eines einstigen Urlaubsresorts am See, das früher ein beliebtes Urlaubsziel war.",
+                  "category": "historical",
+                  "coords": [
+                        34.825276,
+                        -14.038991
+                  ]
+            },
+            {
+                  "name": "Otter Island",
+                  "text": "Otter Island ist ein malerisches Naturschutzgebiet im Malawisee.",
+                  "category": "natural",
+                  "coords": [
+                        34.821645,
+                        -14.040361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Golden Sands Hotel (ruin)",
+                  "text": "A Golden Sands Hotel romjai egy korábbi tóparti menedékhely maradványait jelzik, amely egykor népszerű nyaralóhely volt.",
+                  "category": "historical",
+                  "coords": [
+                        34.825276,
+                        -14.038991
+                  ]
+            },
+            {
+                  "name": "Otter Island",
+                  "text": "Az Otter Island egy festői természetvédelmi terület a Malawi-tóban.",
+                  "category": "natural",
+                  "coords": [
+                        34.821645,
+                        -14.040361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golden Sands Hotel (ruin)",
+                  "text": "Ruinele Hotelului Golden Sands marchează rămășițele unei foste stațiuni pe malul lacului, care a fost cândva o destinație populară de vacanță.",
+                  "category": "historical",
+                  "coords": [
+                        34.825276,
+                        -14.038991
+                  ]
+            },
+            {
+                  "name": "Otter Island",
+                  "text": "Insula Otter este o rezervație naturală pitorească situată pe Lacul Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.821645,
+                        -14.040361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Sands Hotel (ruin)",
+                  "text": "The ruins of the Golden Sands Hotel mark the remains of a former lakeside retreat that was once a popular holiday destination.",
+                  "category": "historical",
+                  "coords": [
+                        34.825276,
+                        -14.038991
+                  ]
+            },
+            {
+                  "name": "Otter Island",
+                  "text": "Otter Island is a scenic nature reserve situated in Lake Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.821645,
+                        -14.040361
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "monument",
     name: { de: "Livingstonia-Gedenkstein", hu: "Livingstonia-emlékoszlop", ro: "Monumentul Livingstonia", en: "Livingstonia Cairn" },
@@ -975,7 +1758,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-livingstonia-cairn-history-v2.webp",
   },
   {
-    id: "malawi-karonga-fossil-beds-history-v2",
+    id: "malawi-karonga-fossil-beds-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lupembe Scheme Stage",
+                  "text": "Die Lupembe Scheme Stage ist eine Freiluftbühne, die für Gemeindeversammlungen, lokale Theateraufführungen und kulturelle Veranstaltungen in der Nähe von Karonga genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        33.982765,
+                        -10.086346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lupembe Scheme Stage",
+                  "text": "A Lupembe Scheme Stage egy szabadtéri színpad, amelyet közösségi összejövetelekre, helyi színházi előadásokra és kulturális eseményekre használnak Karonga közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        33.982765,
+                        -10.086346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lupembe Scheme Stage",
+                  "text": "Scena Lupembe Scheme este o platformă în aer liber folosită pentru adunări comunitare, spectacole de teatru locale și evenimente culturale lângă Karonga.",
+                  "category": "cultural",
+                  "coords": [
+                        33.982765,
+                        -10.086346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lupembe Scheme Stage",
+                  "text": "Lupembe Scheme Stage is an outdoor platform used for community gatherings, local theater performances, and cultural events near Karonga.",
+                  "category": "cultural",
+                  "coords": [
+                        33.982765,
+                        -10.086346
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "ruins",
     name: { de: "Fossilienlagerstätten von Karonga", hu: "Karonga fosszília-lelőhelyek", ro: "Zăcămintele fosile din Karonga", en: "Karonga Fossil Beds" },
@@ -1020,7 +1848,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-karonga-fossil-beds-history-v2.webp",
   },
   {
-    id: "malawi-kasungu-iron-kilns-history-v2",
+    id: "malawi-kasungu-iron-kilns-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Black Rock",
+                  "text": "Eine markante, dunkle Felsformation, die als natürliches Wahrzeichen der Kasungu-Region hervorsticht.",
+                  "category": "landmark",
+                  "coords": [
+                        33.121128,
+                        -13.029779
+                  ]
+            },
+            {
+                  "name": "Kasungu-Nationalpark",
+                  "text": "Ein 1970 gegründetes weitläufiges Naturschutzgebiet, das für seine typische Miombo-Waldlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        33.135963,
+                        -12.93546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Black Rock",
+                  "text": "Egy jellegzetes, sötét sziklaképződmény, amely a Kasungu régió kiemelkedő természeti látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        33.121128,
+                        -13.029779
+                  ]
+            },
+            {
+                  "name": "Kasungu National Park",
+                  "text": "Az 1970-ben alapított kiterjedt természetvédelmi terület, amely jellegzetes miombo erdei tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        33.135963,
+                        -12.93546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Black Rock",
+                  "text": "O formațiune stâncoasă întunecată și distinctă, care se remarcă ca atracție naturală în regiunea Kasungu.",
+                  "category": "landmark",
+                  "coords": [
+                        33.121128,
+                        -13.029779
+                  ]
+            },
+            {
+                  "name": "Kasungu National Park",
+                  "text": "O rezervație naturală vastă, înființată în 1970, cunoscută pentru peisajul său caracteristic de pădure miombo.",
+                  "category": "natural",
+                  "coords": [
+                        33.135963,
+                        -12.93546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black Rock",
+                  "text": "A distinctive dark rock formation that stands out as a prominent natural attraction in the Kasungu region.",
+                  "category": "landmark",
+                  "coords": [
+                        33.121128,
+                        -13.029779
+                  ]
+            },
+            {
+                  "name": "Kasungu National Park",
+                  "text": "A expansive nature reserve established in 1970, renowned for its characteristic miombo woodland landscape.",
+                  "category": "natural",
+                  "coords": [
+                        33.135963,
+                        -12.93546
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "ruins",
     name: { de: "Eisenschmelzöfen von Kasungu", hu: "Kasungu vasolvasztó kemencék", ro: "Cuptoarele de fier din Kasungu", en: "Kasungu Iron Smelting Kilns" },
@@ -1110,7 +2019,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-fort-maguire-ruins-history-v2.webp",
   },
   {
-    id: "malawi-mchinji-fort-manning-history-v2",
+    id: "malawi-mchinji-fort-manning-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chinsala Hill",
+                  "text": "Der Chinsala Hill ist eine markante geografische Erhebung, die sich über die umliegenden Mchinji-Ebenen erhebt und einen Panoramablick auf die malawische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.79723,
+                        -13.814662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chinsala Hill",
+                  "text": "A Chinsala-hegy a környező Mchinji-síkság fölé magasodó kiemelkedő földrajzi pont, amely panorámás kilátást nyújt a malawi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        32.79723,
+                        -13.814662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chinsala Hill",
+                  "text": "Dealul Chinsala este o altitudine geografică proeminentă care se ridică deasupra câmpiilor înconjurătoare Mchinji, oferind vederi panoramice ale peisajului malawian.",
+                  "category": "natural",
+                  "coords": [
+                        32.79723,
+                        -13.814662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chinsala Hill",
+                  "text": "Chinsala Hill is a prominent geographic elevation rising above the surrounding Mchinji plains, offering panoramic views of the Malawian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.79723,
+                        -13.814662
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Fort Manning", hu: "Fort Manning", ro: "Fort Manning", en: "Fort Manning (Mchinji)" },
@@ -1245,7 +2199,196 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-blantyre-old-boma-history-v2.webp",
   },
   {
-    id: "malawi-zomba-boma-history-v2",
+    id: "malawi-zomba-boma-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sanjika Hill",
+                  "text": "Ein natürlicher Hochlandgipfel bei Zomba, der durch sein raues Terrain und malerische Pfade mit Blick auf das historische Boma-Viertel besticht.",
+                  "category": "natural",
+                  "coords": [
+                        35.351693,
+                        -15.426502
+                  ]
+            },
+            {
+                  "name": "Good Vision Camp",
+                  "text": "Ein lokales Camp und Gemeindezentrum in der malerischen und historischen Umgebung des Zomba-Hochlandes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.333844,
+                        -15.379327
+                  ]
+            },
+            {
+                  "name": "James Junction, road to Lambulira",
+                  "text": "Eine markante Kreuzung auf dem Weg nach Lambulira, umgeben von den Naturlandschaften der Zomba-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349679,
+                        -15.447561
+                  ]
+            },
+            {
+                  "name": "hgdh",
+                  "text": "Eine markante lokale Sehenswürdigkeit im historischen Gebiet von Zomba Boma.",
+                  "category": "landmark",
+                  "coords": [
+                        35.331435,
+                        -15.385306
+                  ]
+            },
+            {
+                  "name": "chirunga forest",
+                  "text": "Ein geschütztes Waldreservat in der Nähe von Zomba, das die einheimische Flora bewahrt und einen Zufluchtsort für die lokale Vogelwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.337364,
+                        -15.386685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sanjika Hill",
+                  "text": "Zomba melletti természetes magaslati csúcs, amelyet zord terepe és a történelmi Boma negyedre néző festői ösvényei jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        35.351693,
+                        -15.426502
+                  ]
+            },
+            {
+                  "name": "Good Vision Camp",
+                  "text": "Helyi tábor és közösségi központ a zombai magaslatok festői és történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.333844,
+                        -15.379327
+                  ]
+            },
+            {
+                  "name": "James Junction, road to Lambulira",
+                  "text": "A Lambulira felé vezető útvonalat jelző, a Zomba régió természeti tájaival körülvett jelentős kereszteződés.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349679,
+                        -15.447561
+                  ]
+            },
+            {
+                  "name": "hgdh",
+                  "text": "Egy jellegzetes helyi látványosság a történelmi Zomba Boma területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.331435,
+                        -15.385306
+                  ]
+            },
+            {
+                  "name": "chirunga forest",
+                  "text": "Zomba melletti védett erdőrezervátum, amely megőrzi az őshonos növényvilágot, és menedéket nyújt a helyi madárvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        35.337364,
+                        -15.386685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sanjika Hill",
+                  "text": "Un vârf natural înalt de lângă Zomba, caracterizat prin terenul său accidentat și traseele pitorești cu vedere la cartierul istoric Boma.",
+                  "category": "natural",
+                  "coords": [
+                        35.351693,
+                        -15.426502
+                  ]
+            },
+            {
+                  "name": "Good Vision Camp",
+                  "text": "O tabără locală și un centru comunitar situat în decorul pitoresc și istoric al ținuturilor înalte din Zomba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.333844,
+                        -15.379327
+                  ]
+            },
+            {
+                  "name": "James Junction, road to Lambulira",
+                  "text": "O intersecție notabilă care marchează drumul spre Lambulira, înconjurată de peisajele naturale ale regiunii Zomba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349679,
+                        -15.447561
+                  ]
+            },
+            {
+                  "name": "hgdh",
+                  "text": "O atracție locală distinctă situată în zona istorică Zomba Boma.",
+                  "category": "landmark",
+                  "coords": [
+                        35.331435,
+                        -15.385306
+                  ]
+            },
+            {
+                  "name": "chirunga forest",
+                  "text": "O rezervație forestieră protejată lângă Zomba, care conservă flora indigenă și oferă un sanctuar pentru păsările locale.",
+                  "category": "natural",
+                  "coords": [
+                        35.337364,
+                        -15.386685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sanjika Hill",
+                  "text": "A natural highland peak near Zomba characterized by its rugged terrain and scenic trails overlooking the historic Boma district.",
+                  "category": "natural",
+                  "coords": [
+                        35.351693,
+                        -15.426502
+                  ]
+            },
+            {
+                  "name": "Good Vision Camp",
+                  "text": "A local camp and community hub situated in the scenic and historic setting of the Zomba highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.333844,
+                        -15.379327
+                  ]
+            },
+            {
+                  "name": "James Junction, road to Lambulira",
+                  "text": "A notable junction marking the route towards Lambulira, surrounded by the natural landscapes of the Zomba region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349679,
+                        -15.447561
+                  ]
+            },
+            {
+                  "name": "hgdh",
+                  "text": "A distinctive local attraction situated within the historic Zomba Boma area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.331435,
+                        -15.385306
+                  ]
+            },
+            {
+                  "name": "chirunga forest",
+                  "text": "A protected woodland reserve near Zomba, preserving indigenous flora and providing a sanctuary for local birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        35.337364,
+                        -15.386685
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Zomba Boma", hu: "Zomba Boma", ro: "Boma din Zomba", en: "Zomba Boma" },
@@ -1335,7 +2478,124 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-rumphi-boma-history-v2.webp",
   },
   {
-    id: "malawi-nkhata-bay-old-port-history-v2",
+    id: "malawi-nkhata-bay-old-port-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "KIDU CINEMA",
+                  "text": "Das KIDU CINEMA ist ein bescheidenes lokales Kino, das dem Publikum in Nkhata Bay beliebte Filme zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.297056,
+                        -11.610614
+                  ]
+            },
+            {
+                  "name": "Chikale beach",
+                  "text": "Der Chikale Beach bietet einen Sandstrand am Malawisee, der zwischen felsigen Landzungen liegt und über ruhiges Badewasser verfügt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.304848,
+                        -11.618364
+                  ]
+            },
+            {
+                  "name": "Lusuewi Beach",
+                  "text": "Lusuewi Beach ist ein ruhiger Küstenabschnitt am Malawisee, an dem im Sand oft lokale Fischerboote festmachen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.310041,
+                        -11.640002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KIDU CINEMA",
+                  "text": "A KIDU CINEMA egy szerény helyi mozi, amely népszerű filmeket vetít a Nkhata Bay-i közönségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        34.297056,
+                        -11.610614
+                  ]
+            },
+            {
+                  "name": "Chikale beach",
+                  "text": "A Chikale strand homokos partszakaszt biztosít a Malawi-tó mentén, amely sziklás kiszögellések között fekszik, és nyugodt vize fürdőzésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        34.304848,
+                        -11.618364
+                  ]
+            },
+            {
+                  "name": "Lusuewi Beach",
+                  "text": "A Lusuewi Beach egy csendes tengerparti hely a Malawi-tónál, ahol gyakran horgonyoznak helyi halászhajók a homokon.",
+                  "category": "recreational",
+                  "coords": [
+                        34.310041,
+                        -11.640002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KIDU CINEMA",
+                  "text": "KIDU CINEMA este un modest cinematograf local care prezintă filme populare publicului din Nkhata Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        34.297056,
+                        -11.610614
+                  ]
+            },
+            {
+                  "name": "Chikale beach",
+                  "text": "Plaja Chikale oferă o fâșie de nisip de-a lungul Lacului Malawi, cuibărită între aflorimente stâncoase, cu ape calme pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        34.304848,
+                        -11.618364
+                  ]
+            },
+            {
+                  "name": "Lusuewi Beach",
+                  "text": "Plaja Lusuewi este un loc de coastă liniștit pe Lacul Malawi, unde bărcile locale de pescuit sunt adesea ancorate pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        34.310041,
+                        -11.640002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KIDU CINEMA",
+                  "text": "KIDU CINEMA is a modest local movie house showing popular films to audiences in Nkhata Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        34.297056,
+                        -11.610614
+                  ]
+            },
+            {
+                  "name": "Chikale beach",
+                  "text": "Chikale beach provides a sandy stretch along Lake Malawi, nestled between rocky outcrops with calm waters for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        34.304848,
+                        -11.618364
+                  ]
+            },
+            {
+                  "name": "Lusuewi Beach",
+                  "text": "Lusuewi Beach is a quiet coastal spot on Lake Malawi where local fishing boats are often moored on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        34.310041,
+                        -11.640002
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "port",
     name: { de: "Alter Hafen von Nkhata Bay", hu: "Nkhata Bay régi kikötő", ro: "Vechiul port din Nkhata Bay", en: "Nkhata Bay Old Port" },
@@ -1380,7 +2640,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-nkhata-bay-old-port-history-v2.webp",
   },
   {
-    id: "malawi-monkey-bay-naval-base-history-v2",
+    id: "malawi-monkey-bay-naval-base-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marketplace",
+                  "text": "Dieser belebte Freiluftmarkt in der Nähe des Hafens ist voller Stände, an denen frisch gefangener Fisch und regionale Produkte verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913756,
+                        -14.096006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marketplace",
+                  "text": "A kikötő közelében található nyüzsgő szabadtéri piacon frissen fogott halakat és regionális termékeket árusító standok találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913756,
+                        -14.096006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marketplace",
+                  "text": "Această piață aglomerată în aer liber, situată lângă port, este plină de tarabe care vând pește proaspăt prins și produse regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913756,
+                        -14.096006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marketplace",
+                  "text": "Located near the port, this bustling open-air market is filled with stalls selling freshly caught fish and regional produce.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913756,
+                        -14.096006
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "port",
     name: { de: "Marinestützpunkt Monkey Bay", hu: "Monkey Bay haditengerészeti bázis", ro: "Baza navală Monkey Bay", en: "Monkey Bay Naval Base" },
@@ -1560,7 +2865,268 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-mwanda-hill-caves-history-v2.webp",
   },
   {
-    id: "malawi-chencherere-rock-art-history-v2",
+    id: "malawi-chencherere-rock-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chigwenembe Hill",
+                  "text": "Ein hoch aufragender Gipfel in Malawi, der einen Panoramablick über die felsige Landschaft von Dedza bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.198656,
+                        -14.365795
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site No.2",
+                  "text": "Ein Aussichtspunkt in Malawi mit Blick auf die uralten, rot-weiß bemalten Felskunstwerke.",
+                  "category": "natural",
+                  "coords": [
+                        34.174046,
+                        -14.379074
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site no.1",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen guten Blick auf die landwirtschaftliche Felskunst der Chewa in Malawi bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.175169,
+                        -14.376757
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.7",
+                  "text": "Dieser Aussichtspunkt in Malawi blickt auf verwitterte Felsblöcke, die historische rot-weiße Ritualmalereien zeigen.",
+                  "category": "natural",
+                  "coords": [
+                        34.169763,
+                        -14.373493
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art area (unesco world heritage site)",
+                  "text": "Ein Aussichtsbereich im UNESCO-Weltkulturerbe in Malawi, inmitten bewaldeter Granithügel, die für uralte Felsmalereien bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        34.170701,
+                        -14.373082
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.8",
+                  "text": "Ein malerischer Aussichtspunkt in Malawi, von dem aus man die traditionellen Felszeichnungen früherer Bauerngemeinschaften beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        34.172933,
+                        -14.379212
+                  ]
+            },
+            {
+                  "name": "Mpunzi",
+                  "text": "Ein markanter Berggipfel in Malawi, der weite Ausblicke über das mit Felskunst übersäte Gelände bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.165638,
+                        -14.370418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chigwenembe Hill",
+                  "text": "Egy tornyosuló hegycsúcs Malawiban, amely panorámás kilátást nyújt a környező sziklás tájra.",
+                  "category": "natural",
+                  "coords": [
+                        34.198656,
+                        -14.365795
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site No.2",
+                  "text": "Egy kilátópont Malawiban, amely a környék ősi, vörös és fehér színű sziklafestményeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        34.174046,
+                        -14.379074
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site no.1",
+                  "text": "Egy megemelt kilátópont, amely jó rálátást biztosít a csewa földművesek ősi sziklafestményeire Malawiban.",
+                  "category": "natural",
+                  "coords": [
+                        34.175169,
+                        -14.376757
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.7",
+                  "text": "Ez a malawi kilátópont történelmi, vörös és fehér rituális festményeket ábrázoló, mállott sziklákra néz.",
+                  "category": "natural",
+                  "coords": [
+                        34.169763,
+                        -14.373493
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art area (unesco world heritage site)",
+                  "text": "Egy UNESCO világörökségi kilátó Malawiban, az ősi sziklafestményeiről ismert erdős gránitdombok között.",
+                  "category": "natural",
+                  "coords": [
+                        34.170701,
+                        -14.373082
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.8",
+                  "text": "Festői kilátó Malawiban, ahonnan az ősi földműves közösségek hagyományos sziklarajzai figyelhetők meg.",
+                  "category": "natural",
+                  "coords": [
+                        34.172933,
+                        -14.379212
+                  ]
+            },
+            {
+                  "name": "Mpunzi",
+                  "text": "Egy kiemelkedő hegycsúcs Malawiban, amely széles kilátást nyújt a sziklafestményekben gazdag vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        34.165638,
+                        -14.370418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chigwenembe Hill",
+                  "text": "Un pisc falnic din Malawi, care oferă vederi panoramice peste peisajul stâncos din Dedza.",
+                  "category": "natural",
+                  "coords": [
+                        34.198656,
+                        -14.365795
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site No.2",
+                  "text": "Un punct de belvedere în Malawi cu vedere la vechile panouri de artă rupestră pictate în roșu și alb.",
+                  "category": "natural",
+                  "coords": [
+                        34.174046,
+                        -14.379074
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site no.1",
+                  "text": "Un punct de observație ridicat care oferă o privire clară asupra artei rupestre a agricultorilor Chewa din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.175169,
+                        -14.376757
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.7",
+                  "text": "Acest punct de belvedere din Malawi privește spre bolovanii erodați care prezintă picturi ritualice istorice în roșu și alb.",
+                  "category": "natural",
+                  "coords": [
+                        34.169763,
+                        -14.373493
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art area (unesco world heritage site)",
+                  "text": "O zonă de observație a Patrimoniului Mondial UNESCO din Malawi, situată printre dealurile de granit împădurite cunoscute pentru picturile rupestre antice.",
+                  "category": "natural",
+                  "coords": [
+                        34.170701,
+                        -14.373082
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.8",
+                  "text": "Un punct de belvedere pitoresc în Malawi, poziționat pentru a observa desenele rupestre tradiționale create de comunitățile agricole antice.",
+                  "category": "natural",
+                  "coords": [
+                        34.172933,
+                        -14.379212
+                  ]
+            },
+            {
+                  "name": "Mpunzi",
+                  "text": "Un vârf proeminent din Malawi care oferă priveliști ample asupra terenului bogat în artă rupestră.",
+                  "category": "natural",
+                  "coords": [
+                        34.165638,
+                        -14.370418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chigwenembe Hill",
+                  "text": "A towering peak in Malawi offering panoramic views across the rocky Dedza landscape.",
+                  "category": "natural",
+                  "coords": [
+                        34.198656,
+                        -14.365795
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site No.2",
+                  "text": "A viewpoint in Malawi overlooking the ancient red and white painted rock art panels.",
+                  "category": "natural",
+                  "coords": [
+                        34.174046,
+                        -14.379074
+                  ]
+            },
+            {
+                  "name": "Mphunzi Rock Art Site no.1",
+                  "text": "An elevated vantage point providing a clear look at the Chewa agriculturalist rock art in Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.175169,
+                        -14.376757
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.7",
+                  "text": "This viewpoint in Malawi looks out over weathered boulders displaying historic red and white ritual paintings.",
+                  "category": "natural",
+                  "coords": [
+                        34.169763,
+                        -14.373493
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art area (unesco world heritage site)",
+                  "text": "A UNESCO World Heritage observation area in Malawi set amidst forested granite hills known for ancient rock paintings.",
+                  "category": "natural",
+                  "coords": [
+                        34.170701,
+                        -14.373082
+                  ]
+            },
+            {
+                  "name": "Mphunzi rock art site no.8",
+                  "text": "A scenic lookout in Malawi positioned to observe the traditional rock drawings created by ancient farming communities.",
+                  "category": "natural",
+                  "coords": [
+                        34.172933,
+                        -14.379212
+                  ]
+            },
+            {
+                  "name": "Mpunzi",
+                  "text": "A prominent peak in Malawi offering sweeping vistas over the surrounding rock-art-rich terrain.",
+                  "category": "natural",
+                  "coords": [
+                        34.165638,
+                        -14.370418
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "ruins",
     name: { de: "Chencherere Felskunst", hu: "Chencherere sziklarajzok", ro: "Arta rupestră Chencherere", en: "Chencherere Rock Art" },
@@ -1650,7 +3216,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-namzeze-rock-art-history-v2.webp",
   },
   {
-    id: "malawi-phalombe-boma-history-v2",
+    id: "malawi-phalombe-boma-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mchese Mountain",
+                  "text": "Der Mchese Mountain ist ein beeindruckender, steilwandiger Syenitgipfel, der prominent neben dem größeren Mulanje-Massiv in Malawi aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        35.706148,
+                        -15.818128
+                  ]
+            },
+            {
+                  "name": "Abzweigung Jungle Route",
+                  "text": "Die Crossroad Jungle Route ist ein wilder, überwucherter Wanderweg, der die dichte tropische Vegetation in der Nähe von Phalombe durchquert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61604,
+                        -15.864847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mchese Mountain",
+                  "text": "A Mchese-hegy egy lenyűgöző, meredek falú szienitcsúcs, amely a malawi Mulanje-hegység mellett magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        35.706148,
+                        -15.818128
+                  ]
+            },
+            {
+                  "name": "Crossroad Jungle Route",
+                  "text": "A Crossroad Jungle Route egy vad, benőtt túraútvonal, amely keresztezi a Phalombe melletti sűrű trópusi növényzetet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61604,
+                        -15.864847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mchese Mountain",
+                  "text": "Muntele Mchese este un vârf impresionant de sienit, cu laturi abrupte, care se evidențiază proeminent alături de masivul mai mare Mulanje din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        35.706148,
+                        -15.818128
+                  ]
+            },
+            {
+                  "name": "Crossroad Jungle Route",
+                  "text": "Traseul Crossroad Jungle Route este o potecă de drumeție sălbatică și plină de vegetație, care intersectează flora tropicală deasă din apropiere de Phalombe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61604,
+                        -15.864847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mchese Mountain",
+                  "text": "Mchese Mountain is an impressive, steep-sided syenite peak standing prominently alongside the larger Mulanje Massif in Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        35.706148,
+                        -15.818128
+                  ]
+            },
+            {
+                  "name": "Crossroad Jungle Route",
+                  "text": "The Crossroad Jungle Route is a wild, overgrown hiking path intersecting the dense tropical vegetation near Phalombe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61604,
+                        -15.864847
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Phalombe Boma", hu: "Phalombe Boma", ro: "Boma din Phalombe", en: "Phalombe Boma" },
@@ -1695,7 +3342,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-phalombe-boma-history-v2.webp",
   },
   {
-    id: "malawi-chikwawa-mission-history-v2",
+    id: "malawi-chikwawa-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kumuzu viewpoint",
+                  "text": "Hoch an der Steilstufenstraße gelegen, bietet dieser Aussichtspunkt atemberaubende, ununterbrochene Panoramen über das weite Lower Shire Valley in der Nähe von Chikwawa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.863447,
+                        -16.019441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kumuzu viewpoint",
+                  "text": "A hegyoldali út mentén magasan fekvő kilátó lélegzetelállító, zavartalan panorámát nyújt a hatalmas Alsó-Shire völgyre Chikwawa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.863447,
+                        -16.019441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kumuzu viewpoint",
+                  "text": "Situat la înălțime de-a lungul drumului de pe escarpament, acest punct de belvedere oferă panorame uluitoare și neîntrerupte asupra vastei văi Lower Shire de lângă Chikwawa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.863447,
+                        -16.019441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kumuzu viewpoint",
+                  "text": "Situated high along the escarpment road, this viewpoint offers breathtaking, uninterrupted panoramas over the vast Lower Shire Valley near Chikwawa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.863447,
+                        -16.019441
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "village",
     name: { de: "Chikwawa-Mission", hu: "Chikwawa misszió", ro: "Misiunea Chikwawa", en: "Chikwawa Mission" },
@@ -1785,7 +3477,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-nsanje-boma-history-v2.webp",
   },
   {
-    id: "malawi-bangula-bridge-history-v2",
+    id: "malawi-bangula-bridge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shrine",
+                  "text": "In der Nähe der historischen Bangula-Brücke weist dieser traditionelle Schrein eine wehrhafte, burgähnliche Architektur aus festen Mauern auf.",
+                  "category": "castle",
+                  "coords": [
+                        35.153509,
+                        -16.519575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shrine",
+                  "text": "A történelmi Bangula híd közelében található hagyományos szentély védelmi, kastélyszerű építészeti elemekkel és falakkal rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        35.153509,
+                        -16.519575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shrine",
+                  "text": "Situat lângă podul istoric Bangula, acest altar tradițional prezintă elemente arhitecturale defensive și ziduri asemănătoare unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        35.153509,
+                        -16.519575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shrine",
+                  "text": "Located near the historic Bangula bridge, this traditional shrine structure features defensive, walled architectural elements akin to a castle.",
+                  "category": "castle",
+                  "coords": [
+                        35.153509,
+                        -16.519575
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "bridge",
     name: { de: "Bangula-Eisenbahnbrücke", hu: "Bangula vasúti híd", ro: "Podul feroviar Bangula", en: "Bangula Rail Bridge" },
@@ -1875,7 +3612,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-kamuzu-academy-history-v2.webp",
   },
   {
-    id: "malawi-victoria-avenue-blantyre-history-v2",
+    id: "malawi-victoria-avenue-blantyre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old town offices",
+                  "text": "Die alten Stadtbüros stehen als historisches Denkmal, das das administrative Erbe von Blantyre in der Victoria Avenue widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        35.005032,
+                        -15.78925
+                  ]
+            },
+            {
+                  "name": "Malawi Stock Exchange",
+                  "text": "Das Gebäude der Malawi Stock Exchange an der Victoria Avenue fungiert auch als wirtschaftshistorisches Museum in Blantyre.",
+                  "category": "museum",
+                  "coords": [
+                        35.005306,
+                        -15.787868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old town offices",
+                  "text": "A régi városi hivatalok történelmi műemlékként állnak, amely Blantyre közigazgatási örökségét tükrözi a Victoria Avenue-n.",
+                  "category": "historical",
+                  "coords": [
+                        35.005032,
+                        -15.78925
+                  ]
+            },
+            {
+                  "name": "Malawi Stock Exchange",
+                  "text": "A Malawi Tőzsde épülete a Victoria Avenue-n gazdaságtörténeti múzeumként is funkcionál Blantyre-ben.",
+                  "category": "museum",
+                  "coords": [
+                        35.005306,
+                        -15.787868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old town offices",
+                  "text": "Vechile birouri ale orașului stau ca un monument istoric ce reflectă moștenirea administrativă a orașului Blantyre pe Victoria Avenue.",
+                  "category": "historical",
+                  "coords": [
+                        35.005032,
+                        -15.78925
+                  ]
+            },
+            {
+                  "name": "Malawi Stock Exchange",
+                  "text": "Clădirea Bursei de Valori din Malawi de pe Victoria Avenue funcționează, de asemenea, ca un muzeu de istorie economică în Blantyre.",
+                  "category": "museum",
+                  "coords": [
+                        35.005306,
+                        -15.787868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old town offices",
+                  "text": "The Old town offices stand as a historic monument reflecting the administrative heritage of Blantyre on Victoria Avenue.",
+                  "category": "historical",
+                  "coords": [
+                        35.005032,
+                        -15.78925
+                  ]
+            },
+            {
+                  "name": "Malawi Stock Exchange",
+                  "text": "The Malawi Stock Exchange building on Victoria Avenue also functions as an economic history attraction in Blantyre.",
+                  "category": "museum",
+                  "coords": [
+                        35.005306,
+                        -15.787868
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Victoria Avenue", hu: "Viktória sugárút", ro: "Bulevardul Victoria", en: "Victoria Avenue" },
@@ -1920,7 +3738,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-victoria-avenue-blantyre-history-v2.webp",
   },
   {
-    id: "malawi-kamuzu-memorial-statue-history-v2",
+    id: "malawi-kamuzu-memorial-statue-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "MADSOC Theatre",
+                  "text": "Das MADSOC Theatre ist ein intimer Veranstaltungsort für darstellende Künste in Lilongwe, an dem lokale Theaterproduktionen und Gemeinschaftsveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        33.774342,
+                        -13.986517
+                  ]
+            },
+            {
+                  "name": "Lilongwe Wildlife Center",
+                  "text": "Das Lilongwe Wildlife Centre ist ein Tierschutzgebiet in der Hauptstadt Malawis, das gerettete Wildtiere rehabilitiert und Bildungsarbeit zum Thema Naturschutz leistet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.783892,
+                        -13.972249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MADSOC Theatre",
+                  "text": "A MADSOC Theatre egy hangulatos előadó-művészeti helyszín Lilongwe városában, amely helyi színházi produkcióknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        33.774342,
+                        -13.986517
+                  ]
+            },
+            {
+                  "name": "Lilongwe Wildlife Center",
+                  "text": "A Lilongwe Wildlife Centre egy állatmenhely, amely megmentett vadon élő állatokat rehabilitál, és természetvédelmi oktatást folytat Malawi fővárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.783892,
+                        -13.972249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MADSOC Theatre",
+                  "text": "Teatrul MADSOC este o locație intimă de arte performative din Lilongwe, care găzduiește producții dramatice locale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        33.774342,
+                        -13.986517
+                  ]
+            },
+            {
+                  "name": "Lilongwe Wildlife Center",
+                  "text": "Centrul pentru viață sălbatică Lilongwe este un sanctuar de animale care reabilitează animale sălbatice salvate și promovează educația pentru conservare în capitala Malawiului.",
+                  "category": "recreational",
+                  "coords": [
+                        33.783892,
+                        -13.972249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MADSOC Theatre",
+                  "text": "MADSOC Theatre is an intimate performing arts venue in Lilongwe that hosts local dramatic productions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        33.774342,
+                        -13.986517
+                  ]
+            },
+            {
+                  "name": "Lilongwe Wildlife Center",
+                  "text": "Lilongwe Wildlife Centre is an animal sanctuary that rehabilitates rescued wildlife and promotes conservation education in Malawi's capital.",
+                  "category": "recreational",
+                  "coords": [
+                        33.783892,
+                        -13.972249
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "monument",
     name: { de: "Kamuzu-Gedenkstatue", hu: "Kamuzu emlékszobor", ro: "Statuia memorială Kamuzu", en: "Kamuzu Memorial Statue" },
@@ -1965,7 +3864,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-kamuzu-memorial-statue-history-v2.webp",
   },
   {
-    id: "malawi-mulunguzi-dam-history-v2",
+    id: "malawi-mulunguzi-dam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Potato path",
+                  "text": "Der Potato Path ist eine historische Wanderroute und Attraktion in der Nähe des Mulunguzi-Damms.",
+                  "category": "landmark",
+                  "coords": [
+                        35.31588,
+                        -15.374303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Potato path",
+                  "text": "A Potato Path egy történelmi sétaút és látványosság a Mulunguzi-gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.31588,
+                        -15.374303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Potato path",
+                  "text": "Cărarea Cartofului este un traseu istoric de mers pe jos și o atracție care șerpuiește lângă Barajul Mulunguzi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.31588,
+                        -15.374303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Potato path",
+                  "text": "The Potato path is a historic walking route and attraction winding near the Mulunguzi Dam.",
+                  "category": "landmark",
+                  "coords": [
+                        35.31588,
+                        -15.374303
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Mulunguzi-Staudamm", hu: "Mulunguzi-gát", ro: "Barajul Mulunguzi", en: "Mulunguzi Dam" },
@@ -2055,7 +3999,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-thyolo-house-history-v2.webp",
   },
   {
-    id: "malawi-cape-maclear-graves-history-v2",
+    id: "malawi-cape-maclear-graves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "West Thumbi island",
+                  "text": "West Thumbi Island bietet herrliche Aussichtspunkte über die Gewässer des Malawisees.",
+                  "category": "natural",
+                  "coords": [
+                        34.823774,
+                        -14.024116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "West Thumbi island",
+                  "text": "A West Thumbi Island festői kilátóhelyeket kínál a Malawi-tó vizére.",
+                  "category": "natural",
+                  "coords": [
+                        34.823774,
+                        -14.024116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "West Thumbi island",
+                  "text": "Insula West Thumbi oferă puncte de belvedere pitorești asupra apelor Lacului Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.823774,
+                        -14.024116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "West Thumbi island",
+                  "text": "West Thumbi Island offers scenic viewpoints over the waters of Lake Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.823774,
+                        -14.024116
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Missionarsgräber Cape Maclear", hu: "Cape Maclear misszionárius sírok", ro: "Mormintele misionarilor din Cape Maclear", en: "Cape Maclear Missionary Graves" },
@@ -2370,7 +4359,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-vaza-marsh-trade-history-v2.webp",
   },
   {
-    id: "malawi-mua-chamare-museum-history-v2",
+    id: "malawi-mua-chamare-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mua Mission",
+                  "text": "Die historische Mua Mission in Malawi fungiert als kulturelles Zentrum und Museum, das tief im religiösen und künstlerischen Erbe der Region verwurzelt ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.509778,
+                        -14.280636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mua Mission",
+                  "text": "A malawi történelmi Mua Misszió kulturális központként és múzeumként működik, amely mélyen gyökerezik a régió vallási és művészeti örökségében.",
+                  "category": "museum",
+                  "coords": [
+                        34.509778,
+                        -14.280636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mua Mission",
+                  "text": "Istorica Misiune Mua din Malawi funcționează ca un centru cultural și muzeu, adânc înrădăcinat în moștenirea religioasă și artistică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        34.509778,
+                        -14.280636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mua Mission",
+                  "text": "The historic Mua Mission in Malawi functions as a cultural hub and museum, deeply rooted in the region's religious and artistic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        34.509778,
+                        -14.280636
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "museum",
     name: { de: "Chamare-Museum", hu: "Chamare Múzeum", ro: "Muzeul Chamare", en: "Chamare Museum" },
@@ -2415,7 +4449,88 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-mua-chamare-museum-history-v2.webp",
   },
   {
-    id: "malawi-old-zomba-parliament-history-v2",
+    id: "malawi-old-zomba-parliament-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulumba",
+                  "text": "Ein markanter Berggipfel, der anspruchsvolle Wanderungen und weite Ausblicke über die historische Zomba-Region in Malawi bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.341181,
+                        -15.455969
+                  ]
+            },
+            {
+                  "name": "Ntonya Hill",
+                  "text": "Eine steile Erhebung in der Gegend von Zomba, die Kletterer mit Panoramablicken auf die umliegende malawische Landschaft belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        35.316374,
+                        -15.43166
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulumba",
+                  "text": "Kiemelkedő hegycsúcs, amely kihívást jelentő túrákat és kiterjedt kilátást kínál a malawi történelmi Zomba régióra.",
+                  "category": "natural",
+                  "coords": [
+                        35.341181,
+                        -15.455969
+                  ]
+            },
+            {
+                  "name": "Ntonya Hill",
+                  "text": "Meredek hegy Zomba környékén, amely a környékbeli malawi táj panorámájával jutalmazza a hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        35.316374,
+                        -15.43166
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulumba",
+                  "text": "Un vârf de munte proeminent care oferă drumeții provocatoare și vederi extinse asupra regiunii istorice Zomba din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        35.341181,
+                        -15.455969
+                  ]
+            },
+            {
+                  "name": "Ntonya Hill",
+                  "text": "O altitudine geologică abruptă din zona Zomba, care îi recompensează pe alpiniști cu vederi panoramice ale peisajului malawian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        35.316374,
+                        -15.43166
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulumba",
+                  "text": "A prominent mountain peak offering challenging hikes and expansive views over the historic Zomba region of Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        35.341181,
+                        -15.455969
+                  ]
+            },
+            {
+                  "name": "Ntonya Hill",
+                  "text": "A steep geological elevation in the Zomba area that rewards climbers with panoramic vistas of the surrounding Malawian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        35.316374,
+                        -15.43166
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Historisches Parlament Zomba", hu: "Történelmi parlament Zomba", ro: "Parlamentul istoric Zomba", en: "Historic Zomba Parliament" },
@@ -2460,7 +4575,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-old-zomba-parliament-history-v2.webp",
   },
   {
-    id: "malawi-blantyre-mandala-library-history-v2",
+    id: "malawi-blantyre-mandala-library-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Green Valley Gardens",
+                  "text": "Inmitten üppiger, angelegter Rasenflächen nahe dem Zentrum von Blantyre bietet dieses Open-Air-Theater eine grüne Kulisse für lokale kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        34.998925,
+                        -15.812931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Green Valley Gardens",
+                  "text": "A Blantyre központja közelében, buja, parkosított pázsiton kialakított szabadtéri színház zöld hátteret biztosít a helyi kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        34.998925,
+                        -15.812931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Green Valley Gardens",
+                  "text": "Amplasat în mijlocul unor pajiști luxuriante amenajate în apropierea centrului orașului Blantyre, acest teatru în aer liber oferă un fundal verde pentru spectacole culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        34.998925,
+                        -15.812931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Green Valley Gardens",
+                  "text": "Set amidst lush, landscaped lawns near Blantyre's center, this open-air theatre venue provides a vibrant green backdrop for local cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.998925,
+                        -15.812931
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "museum",
     name: { de: "Mandala-Bibliothek", hu: "Mandala könyvtár", ro: "Biblioteca Mandala", en: "Mandala Library" },
@@ -2685,7 +4845,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-loudon-mission-history-v2.webp",
   },
   {
-    id: "malawi-likoma-island-haven-history-v2",
+    id: "malawi-likoma-island-haven-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Immigration",
+                  "text": "Das Einwanderungsgebäude auf Likoma Island wickelt die Grenzkontrollverfahren für Reisende ab, die mit der Fähre über den Malawisee ankommen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.741297,
+                        -12.065471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Immigration",
+                  "text": "A Likoma-szigeten található bevándorlási épület a Malawi-tavon át komppal érkező utazók határellenőrzési eljárásait intézi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.741297,
+                        -12.065471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Immigration",
+                  "text": "Clădirea de Imigrare de pe Insula Likoma se ocupă de procedurile de control la frontieră pentru călătorii care sosesc cu feribotul traversând Lacul Malawi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.741297,
+                        -12.065471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Immigration",
+                  "text": "The Immigration building on Likoma Island handles the border control procedures for travelers arriving by ferry across Lake Malawi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.741297,
+                        -12.065471
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Sicherer Hafen Likoma", hu: "Likoma biztonságos kikötő", ro: "Portul sigur Likoma", en: "Likoma Safe Haven" },

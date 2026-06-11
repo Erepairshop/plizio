@@ -443,7 +443,52 @@ export const republicofcongoEconomicV2: POI[] = [
     image: "/poi-images/republicofcongo-impfondo-river-port-economic-v2.webp",
   },
   {
-    id: "republicofcongo-mossaka-fish-market-economic-v2",
+    id: "republicofcongo-mossaka-fish-market-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Obélisque Mossaka",
+                  "text": "Der Obélisque Mossaka ist ein Obelisk-Denkmal in Mossaka, einer Stadt, die für ihren bedeutenden Fischmarkt am Kongo-Fluss bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.78758,
+                        -1.234555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Obélisque Mossaka",
+                  "text": "Az Obélisque Mossaka egy obeliszk emlékmű Mossakában, a kongói folyó menti híres halpiacáról ismert városban.",
+                  "category": "historical",
+                  "coords": [
+                        16.78758,
+                        -1.234555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Obélisque Mossaka",
+                  "text": "Obélisque Mossaka este un obelisc monumental din Mossaka, un oraș cunoscut pentru piața sa importantă de pește de pe fluviul Congo.",
+                  "category": "historical",
+                  "coords": [
+                        16.78758,
+                        -1.234555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Obélisque Mossaka",
+                  "text": "Obélisque Mossaka is an obelisk monument standing in Mossaka, a town on the Congo River known for its prominent fish market.",
+                  "category": "historical",
+                  "coords": [
+                        16.78758,
+                        -1.234555
+                  ]
+            }
+      ]
+},
     type: "town",
     name: { de: "Fischmarkt von Mossaka", hu: "Mossaka halpiaca", ro: "Piața de pește din Mossaka", en: "Mossaka Fish Market" },
     coords: [16.7912, -1.2333],
@@ -707,7 +752,124 @@ export const republicofcongoEconomicV2: POI[] = [
     image: "/poi-images/republicofcongo-dolisie-transport-hub-economic-v2.webp",
   },
   {
-    id: "republicofcongo-kayes-industrial-zone-economic-v2",
+    id: "republicofcongo-kayes-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maman YaYa Sathine",
+                  "text": "Maman YaYa Sathine ist ein markantes schlossähnliches Anwesen mit imposanter lokaler Architektur in der Industrieregion Kayes.",
+                  "category": "castle",
+                  "coords": [
+                        11.916917,
+                        -4.851634
+                  ]
+            },
+            {
+                  "name": "Villa ESSEREKE",
+                  "text": "Die Villa ESSEREKE ist eine beeindruckende Wohnattraktion, die ein markantes lokales Anwesendesign und strukturierte Gärten aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.898052,
+                        -4.860429
+                  ]
+            },
+            {
+                  "name": "Point E",
+                  "text": "Point E ist ein identifizierbares lokales Wahrzeichen, das als Hauptattraktion innerhalb der sich entwickelnden Infrastruktur der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        11.899192,
+                        -4.844984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maman YaYa Sathine",
+                  "text": "A Maman YaYa Sathine egy jellegzetes, kastélyszerű birtok, amely lenyűgöző helyi építészettel büszkélkedhet a kayesi ipari régióban.",
+                  "category": "castle",
+                  "coords": [
+                        11.916917,
+                        -4.851634
+                  ]
+            },
+            {
+                  "name": "Villa ESSEREKE",
+                  "text": "A Villa ESSEREKE egy lenyűgöző lakóépület-látványosság, amely kiemelkedő helyi birtokdizájnt és strukturált kerteket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        11.898052,
+                        -4.860429
+                  ]
+            },
+            {
+                  "name": "Point E",
+                  "text": "A Point E egy jól felismerhető helyi nevezetesség, amely a régió fejlődő infrastruktúráján belül központi látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        11.899192,
+                        -4.844984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maman YaYa Sathine",
+                  "text": "Maman YaYa Sathine este o moșie distinctivă, asemănătoare unui castel, prezentând o arhitectură locală grandioasă în regiunea industrială Kayes.",
+                  "category": "castle",
+                  "coords": [
+                        11.916917,
+                        -4.851634
+                  ]
+            },
+            {
+                  "name": "Villa ESSEREKE",
+                  "text": "Villa ESSEREKE este o atracție rezidențială impresionantă care prezintă un design remarcabil de proprietate locală și grădini structurate.",
+                  "category": "landmark",
+                  "coords": [
+                        11.898052,
+                        -4.860429
+                  ]
+            },
+            {
+                  "name": "Point E",
+                  "text": "Point E este un reper local identificabil care servește drept atracție focală în cadrul infrastructurii în dezvoltare a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        11.899192,
+                        -4.844984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maman YaYa Sathine",
+                  "text": "Maman YaYa Sathine is a distinctive castle-like estate featuring grand local architecture in the Kayes industrial region.",
+                  "category": "castle",
+                  "coords": [
+                        11.916917,
+                        -4.851634
+                  ]
+            },
+            {
+                  "name": "Villa ESSEREKE",
+                  "text": "Villa ESSEREKE is an impressive residential attraction showcasing prominent local estate design and structured gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        11.898052,
+                        -4.860429
+                  ]
+            },
+            {
+                  "name": "Point E",
+                  "text": "Point E is an identifiable local landmark serving as a focal attraction within the region's developing infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        11.899192,
+                        -4.844984
+                  ]
+            }
+      ]
+},
     type: "industry",
     name: { de: "Industriegebiet Kayes", hu: "Kayes ipari övezet", ro: "Zona industrială Kayes", en: "Kayes Industrial Zone" },
     coords: [11.9033, -4.8212],
@@ -751,7 +913,52 @@ export const republicofcongoEconomicV2: POI[] = [
     image: "/poi-images/republicofcongo-kayes-industrial-zone-economic-v2.webp",
   },
   {
-    id: "republicofcongo-boko-agriculture-hub-economic-v2",
+    id: "republicofcongo-boko-agriculture-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sites archéologiques de Kindangakanzi 2",
+                  "text": "Die archäologische Stätte Kindangakanzi 2 bewahrt die Ausgrabungen früher lokaler Siedlungsstrukturen in der ländlichen Boko-Region.",
+                  "category": "historical",
+                  "coords": [
+                        14.608333,
+                        -4.444167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sites archéologiques de Kindangakanzi 2",
+                  "text": "A Kindangakanzi 2 régészeti lelőhely korai helyi települések maradványait őrzi a vidéki Boko régióban.",
+                  "category": "historical",
+                  "coords": [
+                        14.608333,
+                        -4.444167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sites archéologiques de Kindangakanzi 2",
+                  "text": "Situl arheologic Kindangakanzi 2 conservă urmele primelor așezări locale din regiunea rurală Boko.",
+                  "category": "historical",
+                  "coords": [
+                        14.608333,
+                        -4.444167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sites archéologiques de Kindangakanzi 2",
+                  "text": "The Kindangakanzi 2 archaeological site preserves excavations of early local settlement structures in the rural Boko region.",
+                  "category": "historical",
+                  "coords": [
+                        14.608333,
+                        -4.444167
+                  ]
+            }
+      ]
+},
     type: "town",
     name: { de: "Agrarzentrum Boko", hu: "Boko mezőgazdasági központ", ro: "Hub-ul agricol Boko", en: "Boko Agriculture Hub" },
     coords: [14.6541, -4.5022],
@@ -883,7 +1090,340 @@ export const republicofcongoEconomicV2: POI[] = [
     image: "/poi-images/republicofcongo-mvouti-mining-zone-economic-v2.webp",
   },
   {
-    id: "republicofcongo-loandjili-industry-park-economic-v2",
+    id: "republicofcongo-loandjili-industry-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez Prince Ng",
+                  "text": "Chez Prince Ng ist ein weitläufiges, schlossähnliches Privatanwesen, das mit imposanten Mauern im Gebiet Loandjili erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        11.874122,
+                        -4.760569
+                  ]
+            },
+            {
+                  "name": "Chez Dad",
+                  "text": "Chez Dad verfügt über eine monumentale Architekturfassade im Schlossstil, die im örtlichen Industrieparkviertel hervorsticht.",
+                  "category": "castle",
+                  "coords": [
+                        11.874336,
+                        -4.756774
+                  ]
+            },
+            {
+                  "name": "Chez Grand Melo",
+                  "text": "Chez Grand Melo ist ein befestigtes Wohngebiet, das als modernes Schloss mit dekorativen Türmchen und schweren Toren gestaltet ist.",
+                  "category": "castle",
+                  "coords": [
+                        11.858014,
+                        -4.746572
+                  ]
+            },
+            {
+                  "name": "Stevy POATY",
+                  "text": "Das Clim Perenco-Gebäude besticht durch ein festungsartiges Steinäußeres und beherbergt Verwaltungs- und Industriebetriebe in einem schlossähnlichen Design.",
+                  "category": "castle",
+                  "coords": [
+                        11.858855,
+                        -4.749981
+                  ]
+            },
+            {
+                  "name": "chez rachid",
+                  "text": "Chez Rachid ist ein prächtiges, mehrstöckiges Anwesen, das aufgrund seiner palastartigen Größe und verzierten Umfassungsmauern als Schloss bezeichnet wird.",
+                  "category": "castle",
+                  "coords": [
+                        11.861999,
+                        -4.733714
+                  ]
+            },
+            {
+                  "name": "Chantier O2s",
+                  "text": "Chantier O2s ist eine markante, schlossartige Struktur im Industriepark Loandjili.",
+                  "category": "castle",
+                  "coords": [
+                        11.865258,
+                        -4.71604
+                  ]
+            },
+            {
+                  "name": "chez boules",
+                  "text": "Dieses ungewöhnlich gestaltete Anwesen ist ein auffälliges architektonisches Wahrzeichen in der Wirtschafts- und Industriezone von Loandjili.",
+                  "category": "castle",
+                  "coords": [
+                        11.917126,
+                        -4.745792
+                  ]
+            },
+            {
+                  "name": "JIE",
+                  "text": "JIE ist ein lokaler Anziehungspunkt, der sich zwischen den Industrieanlagen des Bezirks Loandjili befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.886028,
+                        -4.773292
+                  ]
+            },
+            {
+                  "name": "chez Niarcos Mecano",
+                  "text": "Dieses große, festungsartige Mechaniker-Gelände bildet einen ungewöhnlichen architektonischen Anblick im Industriesektor von Loandjili.",
+                  "category": "castle",
+                  "coords": [
+                        11.911283,
+                        -4.77047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez Prince Ng",
+                  "text": "A Chez Prince Ng egy hatalmas, kastélyszerű magánbirtok, amely impozáns falakkal épült a Loandjili területen.",
+                  "category": "castle",
+                  "coords": [
+                        11.874122,
+                        -4.760569
+                  ]
+            },
+            {
+                  "name": "Chez Dad",
+                  "text": "A Chez Dad egy monumentális, kastély stílusú építészeti homlokzattal rendelkezik, amely kiemelkedik a helyi ipari park negyedből.",
+                  "category": "castle",
+                  "coords": [
+                        11.874336,
+                        -4.756774
+                  ]
+            },
+            {
+                  "name": "Chez Grand Melo",
+                  "text": "A Chez Grand Melo egy erődített lakókomplexum, amely modern kastélyként van kialakítva dekoratív tornyokkal és nehéz kapukkal.",
+                  "category": "castle",
+                  "coords": [
+                        11.858014,
+                        -4.746572
+                  ]
+            },
+            {
+                  "name": "Stevy POATY",
+                  "text": "A Clim Perenco épület erődítményszerű kő külsejével tűnik ki, kastélyszerű kialakításban adva helyet az adminisztratív és ipari műveleteknek.",
+                  "category": "castle",
+                  "coords": [
+                        11.858855,
+                        -4.749981
+                  ]
+            },
+            {
+                  "name": "chez rachid",
+                  "text": "A Chez Rachid egy nagyszerű, többszintes birtok, amelyet palotaszerű mérete és díszes kerítőfalai miatt kastélyként tartanak számon.",
+                  "category": "castle",
+                  "coords": [
+                        11.861999,
+                        -4.733714
+                  ]
+            },
+            {
+                  "name": "Chantier O2s",
+                  "text": "A Chantier O2s egy jellegzetes, kastélyszerű építmény a loandjili ipari parkon belül.",
+                  "category": "castle",
+                  "coords": [
+                        11.865258,
+                        -4.71604
+                  ]
+            },
+            {
+                  "name": "chez boules",
+                  "text": "Ez a szokatlan kialakítású birtok egy figyelemre méltó építészeti tájékozódási pont Loandjili gazdasági és ipari övezetében.",
+                  "category": "castle",
+                  "coords": [
+                        11.917126,
+                        -4.745792
+                  ]
+            },
+            {
+                  "name": "JIE",
+                  "text": "A JIE egy helyi látványosság, amely a loandjili negyed ipari létesítményei között bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.886028,
+                        -4.773292
+                  ]
+            },
+            {
+                  "name": "chez Niarcos Mecano",
+                  "text": "Ez a nagy, erődítményszerű szerelőtelep szokatlan építészeti látványt nyújt Loandjili ipari szektorában.",
+                  "category": "castle",
+                  "coords": [
+                        11.911283,
+                        -4.77047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez Prince Ng",
+                  "text": "Chez Prince Ng este o proprietate privată întinsă, asemănătoare unui castel, construită cu ziduri impunătoare în zona Loandjili.",
+                  "category": "castle",
+                  "coords": [
+                        11.874122,
+                        -4.760569
+                  ]
+            },
+            {
+                  "name": "Chez Dad",
+                  "text": "Chez Dad prezintă o fațadă arhitecturală monumentală, în stil de castel, care se remarcă în districtul parcului industrial local.",
+                  "category": "castle",
+                  "coords": [
+                        11.874336,
+                        -4.756774
+                  ]
+            },
+            {
+                  "name": "Chez Grand Melo",
+                  "text": "Chez Grand Melo este un complex rezidențial fortificat, conceput ca un castel modern cu turnulețe decorative și porți grele.",
+                  "category": "castle",
+                  "coords": [
+                        11.858014,
+                        -4.746572
+                  ]
+            },
+            {
+                  "name": "Stevy POATY",
+                  "text": "Clădirea Clim Perenco prezintă un exterior din piatră asemănător unei fortărețe, găzduind operațiuni administrative și industriale într-un design de castel.",
+                  "category": "castle",
+                  "coords": [
+                        11.858855,
+                        -4.749981
+                  ]
+            },
+            {
+                  "name": "chez rachid",
+                  "text": "Chez Rachid este o moșie grandioasă cu mai multe etaje, desemnată drept castel pentru dimensiunea sa de palat și zidurile perimetrale ornamentate.",
+                  "category": "castle",
+                  "coords": [
+                        11.861999,
+                        -4.733714
+                  ]
+            },
+            {
+                  "name": "Chantier O2s",
+                  "text": "Chantier O2s este o structură distinctivă asemănătoare unui castel, situată în parcul industrial Loandjili.",
+                  "category": "castle",
+                  "coords": [
+                        11.865258,
+                        -4.71604
+                  ]
+            },
+            {
+                  "name": "chez boules",
+                  "text": "Această proprietate cu un design neobișnuit este un punct de reper arhitectural izbitor în zona economică și industrială din Loandjili.",
+                  "category": "castle",
+                  "coords": [
+                        11.917126,
+                        -4.745792
+                  ]
+            },
+            {
+                  "name": "JIE",
+                  "text": "JIE este un punct de atracție local cuibărit printre facilitățile industriale din districtul Loandjili.",
+                  "category": "landmark",
+                  "coords": [
+                        11.886028,
+                        -4.773292
+                  ]
+            },
+            {
+                  "name": "chez Niarcos Mecano",
+                  "text": "Acest mare complex mecanic, asemănător unei fortărețe, formează o priveliște arhitecturală neobișnuită în sectorul industrial din Loandjili.",
+                  "category": "castle",
+                  "coords": [
+                        11.911283,
+                        -4.77047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez Prince Ng",
+                  "text": "Chez Prince Ng is an expansive, castle-like private estate constructed with imposing walls in the Loandjili area.",
+                  "category": "castle",
+                  "coords": [
+                        11.874122,
+                        -4.760569
+                  ]
+            },
+            {
+                  "name": "Chez Dad",
+                  "text": "Chez Dad features a monumental, castle-style architectural facade that stands out in the local industrial park district.",
+                  "category": "castle",
+                  "coords": [
+                        11.874336,
+                        -4.756774
+                  ]
+            },
+            {
+                  "name": "Chez Grand Melo",
+                  "text": "Chez Grand Melo is a fortified residential compound styled as a modern castle with decorative turrets and heavy gates.",
+                  "category": "castle",
+                  "coords": [
+                        11.858014,
+                        -4.746572
+                  ]
+            },
+            {
+                  "name": "Clim Perenco",
+                  "text": "The Clim Perenco building features a fortress-like stone exterior, housing administrative and industrial operations in a castle-like design.",
+                  "category": "castle",
+                  "coords": [
+                        11.858855,
+                        -4.749981
+                  ]
+            },
+            {
+                  "name": "chez rachid",
+                  "text": "Chez Rachid is a grand, multi-story estate designated as a castle for its palatial size and ornate perimeter walls.",
+                  "category": "castle",
+                  "coords": [
+                        11.861999,
+                        -4.733714
+                  ]
+            },
+            {
+                  "name": "Chantier O2s",
+                  "text": "Chantier O2s is a distinctive, castle-like structure situated within the Loandjili industrial park.",
+                  "category": "castle",
+                  "coords": [
+                        11.865258,
+                        -4.71604
+                  ]
+            },
+            {
+                  "name": "chez boules",
+                  "text": "Known as a local landmark, this uniquely styled compound stands out within the Loandjili industrial and economic zone.",
+                  "category": "castle",
+                  "coords": [
+                        11.917126,
+                        -4.745792
+                  ]
+            },
+            {
+                  "name": "JIE",
+                  "text": "JIE is a local point of interest nestled amidst the industrial facilities of the Loandjili district.",
+                  "category": "landmark",
+                  "coords": [
+                        11.886028,
+                        -4.773292
+                  ]
+            },
+            {
+                  "name": "chez Niarcos Mecano",
+                  "text": "This large, fortress-like mechanic compound forms an unusual architectural sight in the Loandjili industrial sector.",
+                  "category": "castle",
+                  "coords": [
+                        11.911283,
+                        -4.77047
+                  ]
+            }
+      ]
+},
     type: "industry",
     name: { de: "Loandjili Gewerbegebiet", hu: "Loandjili ipari park", ro: "Parcul industrial Loandjili", en: "Loandjili Industry Park" },
     coords: [11.8741, -4.7622],
@@ -927,7 +1467,88 @@ export const republicofcongoEconomicV2: POI[] = [
     image: "/poi-images/republicofcongo-loandjili-industry-park-economic-v2.webp",
   },
   {
-    id: "republicofcongo-tchiamba-nzassi-oil-economic-v2",
+    id: "republicofcongo-tchiamba-nzassi-oil-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pointe Tiamba",
+                  "text": "Pointe Tiamba ist ein Küstenaussichtspunkt, der erhöhte Ausblicke über die Gewässer des Atlantiks und die nahe gelegene Industrielandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.011308,
+                        -5.029544
+                  ]
+            },
+            {
+                  "name": "Four",
+                  "text": "Die Ruinen des „Four“ weisen die bröckelnden Ziegel- und Steinreste eines ehemaligen Industriegebäudes auf, das den Elementen überlassen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        12.075943,
+                        -4.913578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pointe Tiamba",
+                  "text": "A Pointe Tiamba egy tengerparti kilátó, ahonnan magaslati panoráma nyílik az Atlanti-óceán vizeire és a közeli ipari tájra.",
+                  "category": "natural",
+                  "coords": [
+                        12.011308,
+                        -5.029544
+                  ]
+            },
+            {
+                  "name": "Four",
+                  "text": "A \"Four\" romjai egy egykori ipari építmény omladozó tégla- és kőmaradványait rejtik, melyeket a természet vett birtokba.",
+                  "category": "historical",
+                  "coords": [
+                        12.075943,
+                        -4.913578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pointe Tiamba",
+                  "text": "Pointe Tiamba este un punct de belvedere de coastă care oferă panorame înalte asupra apelor atlantice și a peisajului industrial din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        12.011308,
+                        -5.029544
+                  ]
+            },
+            {
+                  "name": "Four",
+                  "text": "Ruinele „Four” prezintă rămășițele fărâmițate din cărămidă și piatră ale unei foste structuri industriale lăsate în voia elementelor.",
+                  "category": "historical",
+                  "coords": [
+                        12.075943,
+                        -4.913578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pointe Tiamba",
+                  "text": "Pointe Tiamba is a coastal viewpoint offering elevated vistas over the Atlantic waters and the nearby industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.011308,
+                        -5.029544
+                  ]
+            },
+            {
+                  "name": "Four",
+                  "text": "The \"Four\" ruins feature the crumbling brick and stone remnants of a former industrial structure left to the elements.",
+                  "category": "historical",
+                  "coords": [
+                        12.075943,
+                        -4.913578
+                  ]
+            }
+      ]
+},
     type: "mine",
     name: { de: "Ölfeld Tchiamba-Nzassi", hu: "Tchiamba-Nzassi olajmező", ro: "Câmpul petrolifer Tchiamba-Nzassi", en: "Tchiamba-Nzassi Oil Field" },
     coords: [12.0212, -4.9521],

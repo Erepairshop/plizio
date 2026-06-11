@@ -7,7 +7,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Die Église orthodoxe russe de la Dormition ist eine russisch-orthodoxe Kirche in Casablanca.",
+                  "text": "Russisch-orthodoxe Kirche Mariä Entschlafung in Casablanca, erbaut 1958, mit blauen Zwiebeltürmen.",
                   "category": "religious",
                   "coords": [
                         -7.622635,
@@ -423,7 +423,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Az Église orthodoxe russe de la Dormition egy orosz ortodox templom Casablanca városában.",
+                  "text": "Ortodox orosz elszenderedési templom Casablancában, 1958-ban épült, kék hagymakupolákkal.",
                   "category": "religious",
                   "coords": [
                         -7.622635,
@@ -839,7 +839,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Église orthodoxe russe de la Dormition este o biserică ortodoxă rusă înființată în Casablanca.",
+                  "text": "Biserica ortodoxă rusă a Adormirii din Casablanca, construită în 1958, cu turle albastre în formă de ceapă.",
                   "category": "religious",
                   "coords": [
                         -7.622635,
@@ -1255,7 +1255,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Église orthodoxe russe de la Dormition is a Russian Orthodox church established in Casablanca.",
+                  "text": "Russian Orthodox Church of the Dormition in Casablanca, built in 1958, with blue onion domes.",
                   "category": "religious",
                   "coords": [
                         -7.622635,
@@ -1736,7 +1736,160 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
     
      image: "/poi-images/ma-casablanca-cities-v2.webp"},
   {
-    id: "ma-rabat-cities-v2",
+    id: "ma-rabat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église orthodoxe russe",
+                  "text": "Diese russisch-orthodoxe Kirche in Rabat wurde am 13. November 1932 eröffnet.",
+                  "category": "religious",
+                  "coords": [
+                        -6.852043,
+                        34.011875
+                  ]
+            },
+            {
+                  "name": "Fort Rottembourg - Fort Hervé",
+                  "text": "Diese historische Festungsanlage in Rabat diente einst der Verteidigung der Küste.",
+                  "category": "castle",
+                  "coords": [
+                        -6.850999,
+                        34.024999
+                  ]
+            },
+            {
+                  "name": "Bab El Had",
+                  "text": "Dieses beeindruckende Stadttor ist ein markantes Zeugnis der historischen Stadtmauer von Rabat.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.840379,
+                        34.021943
+                  ]
+            },
+            {
+                  "name": "Maison russe",
+                  "text": "Dieses Kunstzentrum in Rabat widmet sich der Förderung und Präsentation der russischen Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.843413,
+                        34.011733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église orthodoxe russe",
+                  "text": "Ezt a rabati orosz ortodox templomot 1932. november 13-án nyitották meg a hívők előtt.",
+                  "category": "religious",
+                  "coords": [
+                        -6.852043,
+                        34.011875
+                  ]
+            },
+            {
+                  "name": "Fort Rottembourg - Fort Hervé",
+                  "text": "Ez a történelmi rabati erődítmény egykor a tengerpart védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        -6.850999,
+                        34.024999
+                  ]
+            },
+            {
+                  "name": "Bab El Had",
+                  "text": "Ez a lenyűgöző városkapu a történelmi rabati városfalak egyik meghatározó eleme.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.840379,
+                        34.021943
+                  ]
+            },
+            {
+                  "name": "Maison russe",
+                  "text": "Ez a rabati művészeti központ az orosz kultúra bemutatásának és népszerűsítésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.843413,
+                        34.011733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église orthodoxe russe",
+                  "text": "Această biserică ortodoxă rusă din Rabat a fost deschisă pe 13 noiembrie 1932.",
+                  "category": "religious",
+                  "coords": [
+                        -6.852043,
+                        34.011875
+                  ]
+            },
+            {
+                  "name": "Fort Rottembourg - Fort Hervé",
+                  "text": "Acest fort istoric din Rabat a servit cândva la apărarea coastei.",
+                  "category": "castle",
+                  "coords": [
+                        -6.850999,
+                        34.024999
+                  ]
+            },
+            {
+                  "name": "Bab El Had",
+                  "text": "Această poartă de oraș este un martor impresionant al vechilor ziduri ale Rabatului.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.840379,
+                        34.021943
+                  ]
+            },
+            {
+                  "name": "Maison russe",
+                  "text": "Acest centru de arte din Rabat este dedicat promovării și prezentării culturii ruse.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.843413,
+                        34.011733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "This Russian Orthodox church in Rabat was opened on November 13, 1932.",
+                  "category": "religious",
+                  "coords": [
+                        -6.852043,
+                        34.011875
+                  ]
+            },
+            {
+                  "name": "Fort Rottembourg - Fort Hervé",
+                  "text": "This historic fort in Rabat once served to defend the city's coastline.",
+                  "category": "castle",
+                  "coords": [
+                        -6.850999,
+                        34.024999
+                  ]
+            },
+            {
+                  "name": "Bab El Had",
+                  "text": "This impressive city gate is a prominent remnant of Rabat's historic defensive walls.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.840379,
+                        34.021943
+                  ]
+            },
+            {
+                  "name": "Maison russe",
+                  "text": "This arts centre in Rabat is dedicated to promoting and showcasing Russian culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.843413,
+                        34.011733
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "MA-04",
     coords: [-6.8416, 34.0209],
@@ -8339,7 +8492,448 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville oasis fertile au pied du Moyen Atlas.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-beni-mellal-cities-v2.webp"},
   {
-    id: "ma-el-jadida-cities-v2",
+    id: "ma-el-jadida-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bastion de l'Anges",
+                  "text": "Eine historische Bastion, die einen Panoramablick über die befestigte Stadt und das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.500396,
+                        33.255914
+                  ]
+            },
+            {
+                  "name": "Citerne Portugaise",
+                  "text": "Eine beeindruckende unterirdische Gewölbezisterne, die während der portugiesischen Ära erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.502482,
+                        33.256561
+                  ]
+            },
+            {
+                  "name": "Tayana",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die städtische Küstenlandschaft ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -8.507499,
+                        33.25433
+                  ]
+            },
+            {
+                  "name": "Jawad",
+                  "text": "Eine lokale Attraktion inmitten der geschäftigen städtischen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.512536,
+                        33.252648
+                  ]
+            },
+            {
+                  "name": "Phare Sidi Bouafi",
+                  "text": "Ein hoch aufragender Leuchtturm, der den Seeverkehr entlang der Atlantikküste leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.516851,
+                        33.2503
+                  ]
+            },
+            {
+                  "name": "Palais du Gouverneur",
+                  "text": "Ein stattliches Schlossgebäude, das früher als Residenz für den Regionalgouverneur diente.",
+                  "category": "castle",
+                  "coords": [
+                        -8.504805,
+                        33.247919
+                  ]
+            },
+            {
+                  "name": "Dar Edaw Lakdim",
+                  "text": "Ein altes, befestigtes Schloss, das traditionelle architektonische Elemente aufweist.",
+                  "category": "castle",
+                  "coords": [
+                        -8.506517,
+                        33.253988
+                  ]
+            },
+            {
+                  "name": "Plage Deauville",
+                  "text": "Ein breiter, sandiger Küstenstrand in der Stadt, benannt nach dem berühmten französischen Badeort.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.494071,
+                        33.248417
+                  ]
+            },
+            {
+                  "name": "Théatre Afifi",
+                  "text": "Ein markantes Theater für darstellende Künste, in dem eine Vielzahl lokaler kultureller Veranstaltungen stattfindet.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.501988,
+                        33.252168
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance",
+                  "text": "Ein Museum, das Artefakte und Dokumente über die lokale Geschichte der marokkanischen Widerstandsbewegung bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.501025,
+                        33.251583
+                  ]
+            },
+            {
+                  "name": "Plage Mcdonald's",
+                  "text": "Ein sandiger Stadtstrand, der praktischerweise in der Nähe eines bekannten Fast-Food-Restaurants liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.474938,
+                        33.245011
+                  ]
+            },
+            {
+                  "name": "Phare Vert",
+                  "text": "Ein markant grün gestrichener Leuchtturm, der ankommende Schiffe nahe der Hafeneinfahrt führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.495484,
+                        33.256683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bastion de l'Anges",
+                  "text": "Egy történelmi bástya, amely panorámás kilátást nyújt az erődített városra és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.500396,
+                        33.255914
+                  ]
+            },
+            {
+                  "name": "Citerne Portugaise",
+                  "text": "Egy lenyűgöző földalatti boltíves ciszterna, amely a portugál korszakban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.502482,
+                        33.256561
+                  ]
+            },
+            {
+                  "name": "Tayana",
+                  "text": "Egy kilátó, amely széleskörű kilátást nyújt a városi tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -8.507499,
+                        33.25433
+                  ]
+            },
+            {
+                  "name": "Jawad",
+                  "text": "Egy helyi látványosság a nyüzsgő városi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.512536,
+                        33.252648
+                  ]
+            },
+            {
+                  "name": "Phare Sidi Bouafi",
+                  "text": "Egy magasodó világítótorony, amely a tengeri forgalmat irányítja az Atlanti-óceán partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.516851,
+                        33.2503
+                  ]
+            },
+            {
+                  "name": "Palais du Gouverneur",
+                  "text": "Egy tekintélyes kastélyépület, amely korábban a regionális kormányzó rezidenciájaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        -8.504805,
+                        33.247919
+                  ]
+            },
+            {
+                  "name": "Dar Edaw Lakdim",
+                  "text": "Egy régi, erődített kastély, amely hagyományos építészeti elemeket mutat fel.",
+                  "category": "castle",
+                  "coords": [
+                        -8.506517,
+                        33.253988
+                  ]
+            },
+            {
+                  "name": "Plage Deauville",
+                  "text": "Egy széles, homokos városi tengerparti strand, amelyet a híres francia üdülőhelyről neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.494071,
+                        33.248417
+                  ]
+            },
+            {
+                  "name": "Théatre Afifi",
+                  "text": "Egy jelentős előadóművészeti színház, amely számos helyi kulturális eseménynek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.501988,
+                        33.252168
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance",
+                  "text": "Egy múzeum, amely a marokkói ellenállási mozgalom helyi történetének műtárgyait és dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -8.501025,
+                        33.251583
+                  ]
+            },
+            {
+                  "name": "Plage Mcdonald's",
+                  "text": "Egy homokos városi strand, amely kényelmesen közel található egy ismert gyorsétteremhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.474938,
+                        33.245011
+                  ]
+            },
+            {
+                  "name": "Phare Vert",
+                  "text": "Egy jellegzetesen zöldre festett világítótorony, amely a kikötő bejárata közelében lévő hajókat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.495484,
+                        33.256683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bastion de l'Anges",
+                  "text": "Un bastion istoric care oferă vederi panoramice asupra orașului fortificat și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        -8.500396,
+                        33.255914
+                  ]
+            },
+            {
+                  "name": "Citerne Portugaise",
+                  "text": "O impresionantă cisternă boltită subterană construită în timpul erei portugheze.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.502482,
+                        33.256561
+                  ]
+            },
+            {
+                  "name": "Tayana",
+                  "text": "Un punct de belvedere care oferă o vedere amplă asupra peisajului urban de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -8.507499,
+                        33.25433
+                  ]
+            },
+            {
+                  "name": "Jawad",
+                  "text": "O atracție locală situată în mijlocul mediului urban plin de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.512536,
+                        33.252648
+                  ]
+            },
+            {
+                  "name": "Phare Sidi Bouafi",
+                  "text": "Un far falnic care ghidează traficul maritim de-a lungul coastei atlantice.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.516851,
+                        33.2503
+                  ]
+            },
+            {
+                  "name": "Palais du Gouverneur",
+                  "text": "O clădire de castel impunătoare care a servit anterior ca reședință pentru guvernatorul regional.",
+                  "category": "castle",
+                  "coords": [
+                        -8.504805,
+                        33.247919
+                  ]
+            },
+            {
+                  "name": "Dar Edaw Lakdim",
+                  "text": "Un vechi castel fortificat care prezintă elemente arhitecturale tradiționale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.506517,
+                        33.253988
+                  ]
+            },
+            {
+                  "name": "Plage Deauville",
+                  "text": "O plajă urbană largă, cu nisip, numită după faimoasa stațiune franceză.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.494071,
+                        33.248417
+                  ]
+            },
+            {
+                  "name": "Théatre Afifi",
+                  "text": "Un teatru important de arte spectacolului care găzduiește o varietate de evenimente culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.501988,
+                        33.252168
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance",
+                  "text": "Un muzeu care păstrează artefacte și documente despre istoria locală a mișcării de rezistență marocane.",
+                  "category": "museum",
+                  "coords": [
+                        -8.501025,
+                        33.251583
+                  ]
+            },
+            {
+                  "name": "Plage Mcdonald's",
+                  "text": "O plajă urbană cu nisip situată convenabil în apropierea unui cunoscut restaurant fast-food.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.474938,
+                        33.245011
+                  ]
+            },
+            {
+                  "name": "Phare Vert",
+                  "text": "Un far vopsit distinctiv în verde, care ghidează navele care sosesc în apropierea intrării în port.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.495484,
+                        33.256683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bastion of Angels",
+                  "text": "A historic bastion offering panoramic views over the fortified city and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -8.500396,
+                        33.255914
+                  ]
+            },
+            {
+                  "name": "Cisterne Portuguese",
+                  "text": "A striking underground vaulted cistern built during the Portuguese era.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.502482,
+                        33.256561
+                  ]
+            },
+            {
+                  "name": "Tayana",
+                  "text": "A viewpoint providing a sweeping view over the urban coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -8.507499,
+                        33.25433
+                  ]
+            },
+            {
+                  "name": "Jawad",
+                  "text": "A local attraction situated amidst the bustling urban environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.512536,
+                        33.252648
+                  ]
+            },
+            {
+                  "name": "Phare Sidi Bouafi",
+                  "text": "A towering lighthouse guiding maritime traffic along the Atlantic coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.516851,
+                        33.2503
+                  ]
+            },
+            {
+                  "name": "Palais du Gouverneur",
+                  "text": "A stately castle building that formerly served as the residence for the regional governor.",
+                  "category": "castle",
+                  "coords": [
+                        -8.504805,
+                        33.247919
+                  ]
+            },
+            {
+                  "name": "Dar Edaw Lakdim",
+                  "text": "An old, fortified castle displaying traditional architectural elements.",
+                  "category": "castle",
+                  "coords": [
+                        -8.506517,
+                        33.253988
+                  ]
+            },
+            {
+                  "name": "Plage Deauville",
+                  "text": "A wide, sandy urban coastal beach named after the famous French resort.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.494071,
+                        33.248417
+                  ]
+            },
+            {
+                  "name": "Théatre Afifi",
+                  "text": "A prominent performing arts theatre hosting a variety of local cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.501988,
+                        33.252168
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance",
+                  "text": "A museum preserving artifacts and documents regarding the local history of the Moroccan resistance movement.",
+                  "category": "museum",
+                  "coords": [
+                        -8.501025,
+                        33.251583
+                  ]
+            },
+            {
+                  "name": "Plage Mcdonald's",
+                  "text": "A sandy urban beach located conveniently near a familiar fast-food restaurant.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.474938,
+                        33.245011
+                  ]
+            },
+            {
+                  "name": "Phare Vert",
+                  "text": "A distinctively green-painted lighthouse guiding incoming vessels near the harbor entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.495484,
+                        33.256683
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-06",
     coords: [-8.5007, 33.2316],
@@ -9242,7 +9836,160 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Connue comme le cœur du territoire de la tribu Zemmour, près de Rabat.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-khemisset-cities-v2.webp"},
   {
-    id: "ma-guelmim-cities-v2",
+    id: "ma-guelmim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Market Dromedare",
+                  "text": "Der Market Dromedare in Guelmim ist ein lebhafter traditioneller Kamelmarkt, der Händler aus der gesamten Sahara anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.074432,
+                        28.981981
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim Ville",
+                  "text": "Die Porte de Guelmim Ville ist ein verziertes Stadttor aus Lehm und Stein, das als Wahrzeichen der Oasenstadt dient.",
+                  "category": "historical",
+                  "coords": [
+                        -10.084624,
+                        28.999549
+                  ]
+            },
+            {
+                  "name": "Palais Des Congres",
+                  "text": "Der Palais Des Congres in Guelmim ist ein modernes Kultur- und Theaterzentrum, das für lokale Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.072651,
+                        29.003266
+                  ]
+            },
+            {
+                  "name": "Residence of the governor of Guelmim and Ednoun",
+                  "text": "Die historische Residenz des Gouverneurs von Guelmim und Ednoun beeindruckt durch ihre weitläufige nordafrikanische Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        -10.055391,
+                        28.997323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Market Dromedare",
+                  "text": "A guelmimi Market Dromedare egy nyüzsgő, hagyományos tevepiac, amely a Szahara egész területéről vonzza a kereskedőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.074432,
+                        28.981981
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim Ville",
+                  "text": "A Porte de Guelmim Ville egy díszes, vályogból és kőből épült városkapu, amely az oázisváros egyik fő nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        -10.084624,
+                        28.999549
+                  ]
+            },
+            {
+                  "name": "Palais Des Congres",
+                  "text": "A guelmimi Palais Des Congres egy modern kulturális és színházi központ, amely helyi rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.072651,
+                        29.003266
+                  ]
+            },
+            {
+                  "name": "Residence of the governor of Guelmim and Ednoun",
+                  "text": "Guelmim és Ednoun kormányzójának történelmi rezidenciája kiterjedt észak-afrikai építészetével nyűgöz le.",
+                  "category": "historical",
+                  "coords": [
+                        -10.055391,
+                        28.997323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Market Dromedare",
+                  "text": "Piața de dromaderi din Guelmim este o piață tradițională și plină de viață pentru cămile, care atrage comercianți din toată Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.074432,
+                        28.981981
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim Ville",
+                  "text": "Porte de Guelmim Ville este o poartă de oraș ornamentată, din chirpici și piatră, care servește drept reper al orașului-oază.",
+                  "category": "historical",
+                  "coords": [
+                        -10.084624,
+                        28.999549
+                  ]
+            },
+            {
+                  "name": "Palais Des Congres",
+                  "text": "Palais Des Congres din Guelmim este un centru cultural și teatral modern folosit pentru evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.072651,
+                        29.003266
+                  ]
+            },
+            {
+                  "name": "Residence of the governor of Guelmim and Ednoun",
+                  "text": "Reședința istorică a guvernatorului din Guelmim și Ednoun impresionează prin arhitectura sa vastă nord-africană.",
+                  "category": "historical",
+                  "coords": [
+                        -10.055391,
+                        28.997323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Market Dromedare",
+                  "text": "The Market Dromedare in Guelmim is a bustling traditional camel market attracting traders from across the Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.074432,
+                        28.981981
+                  ]
+            },
+            {
+                  "name": "Porte de Guelmim Ville",
+                  "text": "Porte de Guelmim Ville is an ornate earthen and stone city gate standing as a landmark of the oasis town.",
+                  "category": "historical",
+                  "coords": [
+                        -10.084624,
+                        28.999549
+                  ]
+            },
+            {
+                  "name": "Palais Des Congres",
+                  "text": "The Palais Des Congres in Guelmim is a modern theatre and cultural center hosting regional events.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.072651,
+                        29.003266
+                  ]
+            },
+            {
+                  "name": "Residence of the governor of Guelmim and Ednoun",
+                  "text": "The historic residence of the governor of Guelmim and Ednoun features sprawling North African administrative architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -10.055391,
+                        28.997323
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-10",
     coords: [-10.0667, 28.9833],
@@ -9308,7 +10055,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La porte du Sahara, réputée pour son marché aux chameaux.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-guelmim-cities-v2.webp"},
   {
-    id: "ma-berrechid-cities-v2",
+    id: "ma-berrechid-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zaouia El Qadiriyah Berrechid",
+                  "text": "Die Zaouia El Qadiriyah in Berrechid ist ein wichtiges sufitisches Klosterzentrum, das traditionelle islamische Architektur und einen Ort der spirituellen Einkehr bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -7.595894,
+                        33.274855
+                  ]
+            },
+            {
+                  "name": "Piscine municipale",
+                  "text": "Das städtische Schwimmbad (Piscine municipale) in Berrechid ist ein lokaler Wasserpark, in dem sich Familien in den heißen Sommermonaten abkühlen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.568436,
+                        33.271064
+                  ]
+            },
+            {
+                  "name": "Auberge De La Chaouia",
+                  "text": "Die Auberge De La Chaouia in Berrechid bietet als traditionelle Herberge eine einfache, authentische Unterkunft für Reisende in der Region Casablanca-Settat.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.579564,
+                        33.253187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zaouia El Qadiriyah Berrechid",
+                  "text": "A berrechidi Zaouia El Qadiriyah egy fontos szúfi kolostorközpont, amely hagyományos iszlám építészetet és a spirituális elmélyülés helyszínét kínálja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.595894,
+                        33.274855
+                  ]
+            },
+            {
+                  "name": "Piscine municipale",
+                  "text": "A berrechidi városi uszoda (Piscine municipale) egy helyi vízipark, ahol a családok hűsölhetnek a forró nyári hónapokban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.568436,
+                        33.271064
+                  ]
+            },
+            {
+                  "name": "Auberge De La Chaouia",
+                  "text": "A berrechidi Auberge De La Chaouia hagyományos fogadóként egyszerű, autentikus szállást kínál a Casablanca-Settat régióban utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.579564,
+                        33.253187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zaouia El Qadiriyah Berrechid",
+                  "text": "Zaouia El Qadiriyah din Berrechid este un important centru și mănăstire sufită, caracterizată prin arhitectura sa islamică tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -7.595894,
+                        33.274855
+                  ]
+            },
+            {
+                  "name": "Piscine municipale",
+                  "text": "Piscina municipală din Berrechid este un mic parc acvatic local unde familiile se pot răcori în timpul lunilor toride de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.568436,
+                        33.271064
+                  ]
+            },
+            {
+                  "name": "Auberge De La Chaouia",
+                  "text": "Auberge De La Chaouia din Berrechid este un han tradițional care oferă cazare simplă și autentică călătorilor din regiunea Casablanca-Settat.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.579564,
+                        33.253187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zaouia El Qadiriyah Berrechid",
+                  "text": "The Zaouia El Qadiriyah in Berrechid is an important Sufi monastic centre featuring traditional Islamic architecture and a place for spiritual retreat.",
+                  "category": "religious",
+                  "coords": [
+                        -7.595894,
+                        33.274855
+                  ]
+            },
+            {
+                  "name": "Piscine municipale",
+                  "text": "The Piscine municipale in Berrechid is a local water park providing a refreshing retreat for families during the hot summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.568436,
+                        33.271064
+                  ]
+            },
+            {
+                  "name": "Auberge De La Chaouia",
+                  "text": "The Auberge De La Chaouia in Berrechid is a traditional hostel providing simple, authentic accommodation for travelers in the Casablanca-Settat region.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.579564,
+                        33.253187
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-06",
     coords: [-7.5833, 33.2667],
@@ -10367,7 +11231,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La célèbre 'Ville bleue' sur les contreforts des montagnes du Rif.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-chefchaouen-cities-v2.webp"},
   {
-    id: "ma-laayoune-cities-v2",
+    id: "ma-laayoune-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ville Marocaine de La",
+                  "text": "Die Ville Marocaine de La in Laayoune präsentiert die typische marokkanische Stadtplanung mit ihren sandfarbenen Gebäuden.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.198152,
+                        27.156853
+                  ]
+            },
+            {
+                  "name": "Sanmao Ancienne Résidence",
+                  "text": "Die Sanmao Ancienne Résidence in Laayoune ist das frühere Wohnhaus der berühmten taiwanesischen Schriftstellerin Sanmao während ihrer Zeit in der Westsahara.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.213709,
+                        27.161257
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Franz von Assisi",
+                  "text": "Die katholische Kirche St. Franziskus von Assisi in Laayoune ist ein schlichter spiritueller Bau in der größtenteils muslimischen Wüstenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        -13.205768,
+                        27.163166
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ville Marocaine de La",
+                  "text": "A laayoune-i Ville Marocaine de La a jellegzetes marokkói várostervezést mutatja be homokszínű épületeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.198152,
+                        27.156853
+                  ]
+            },
+            {
+                  "name": "Sanmao Ancienne Résidence",
+                  "text": "A laayoune-i Sanmao Ancienne Résidence a híres tajvani írónő, Sanmao egykori lakóháza nyugat-szaharai tartózkodása idején.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.213709,
+                        27.161257
+                  ]
+            },
+            {
+                  "name": "Église catholique de Saint-François d'Assise",
+                  "text": "A laayoune-i Assisi Szent Ferenc katolikus templom egy egyszerű spirituális épület a nagyrészt muszlim sivatagi városban.",
+                  "category": "religious",
+                  "coords": [
+                        -13.205768,
+                        27.163166
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ville Marocaine de La",
+                  "text": "Ville Marocaine de La din Laayoune prezintă o planificare urbană tipic marocană, cu clădirile sale de culoarea nisipului.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.198152,
+                        27.156853
+                  ]
+            },
+            {
+                  "name": "Sanmao Ancienne Résidence",
+                  "text": "Sanmao Ancienne Résidence din Laayoune este fosta casă a celebrei scriitoare taiwaneze Sanmao în timpul șederii sale în Sahara Occidentală.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.213709,
+                        27.161257
+                  ]
+            },
+            {
+                  "name": "Église catholique de Saint-François d'Assise",
+                  "text": "Biserica Catolică Sfântul Francisc de Assisi din Laayoune este o clădire spirituală simplă situată în orașul deșertic majoritar musulman.",
+                  "category": "religious",
+                  "coords": [
+                        -13.205768,
+                        27.163166
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ville Marocaine de La",
+                  "text": "The Ville Marocaine de La in Laayoune showcases typical Moroccan urban planning with its sandy-colored desert architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.198152,
+                        27.156853
+                  ]
+            },
+            {
+                  "name": "Sanmao Ancienne Résidence",
+                  "text": "The Sanmao Ancienne Résidence in Laayoune is the former desert home of the renowned Taiwanese writer Sanmao.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.213709,
+                        27.161257
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Saint Francis of Assisi",
+                  "text": "The Catholic Church of Saint Francis of Assisi in Laayoune is a prominent Christian sanctuary set within the predominantly Muslim desert city.",
+                  "category": "religious",
+                  "coords": [
+                        -13.205768,
+                        27.163166
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-11",
     coords: [-13.2033, 27.1536],
@@ -11102,7 +12083,160 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville côtière charmante, autrefois connue sous le nom de Mogador.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-essaouira-cities-v2.webp"},
   {
-    id: "ma-tiznit-cities-v2",
+    id: "ma-tiznit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "bab targwa",
+                  "text": "Bab Targwa ist ein historisches Stadttor, das in die von Lehmmauern umgebene Medina von Tiznit führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725331,
+                        29.703951
+                  ]
+            },
+            {
+                  "name": "Qasba",
+                  "text": "Diese Kasbah in Tiznit ist eine traditionelle Festungsanlage, die durch ihre typische Lehmbauweise besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.726628,
+                        29.700008
+                  ]
+            },
+            {
+                  "name": "Place du Mechouar",
+                  "text": "Der Place du Mechouar ist der zentrale Platz von Tiznit, der von den alten Stadtmauern und historischen Gebäuden umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.731317,
+                        29.696997
+                  ]
+            },
+            {
+                  "name": "post / K // p .u",
+                  "text": "Dieser Aussichtspunkt in Tiznit bietet einen weiten Blick über die flachen Dächer der historischen Medina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.750936,
+                        29.694081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bab targwa",
+                  "text": "A Bab Targwa egy történelmi városkapu, amely Tiznit agyagfalakkal körülvett medinájába vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725331,
+                        29.703951
+                  ]
+            },
+            {
+                  "name": "Qasba",
+                  "text": "Ez a tizniti kasbah egy hagyományos erődítmény, amely jellegzetes vályogépítészetével vonzza a tekintetet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.726628,
+                        29.700008
+                  ]
+            },
+            {
+                  "name": "Place du Mechouar",
+                  "text": "A Place du Mechouar Tiznit központi tere, amelyet a régi városfalak és történelmi épületek vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.731317,
+                        29.696997
+                  ]
+            },
+            {
+                  "name": "post / K // p .u",
+                  "text": "Ez a tizniti kilátó széles panorámát nyújt a történelmi medina lapos tetőire.",
+                  "category": "natural",
+                  "coords": [
+                        -9.750936,
+                        29.694081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bab targwa",
+                  "text": "Bab Targwa este o poartă istorică ce permite accesul în medina înconjurată de ziduri de pământ din Tiznit.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725331,
+                        29.703951
+                  ]
+            },
+            {
+                  "name": "Qasba",
+                  "text": "Această kasbah din Tiznit este o fortăreață tradițională care se remarcă prin arhitectura sa specifică din chirpici.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.726628,
+                        29.700008
+                  ]
+            },
+            {
+                  "name": "Place du Mechouar",
+                  "text": "Place du Mechouar este piața centrală din Tiznit, înconjurată de vechile ziduri ale orașului și de clădiri istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.731317,
+                        29.696997
+                  ]
+            },
+            {
+                  "name": "post / K // p .u",
+                  "text": "Acest punct de belvedere din Tiznit oferă o vedere panoramică peste acoperișurile plate ale medinei istorice.",
+                  "category": "natural",
+                  "coords": [
+                        -9.750936,
+                        29.694081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bab targwa",
+                  "text": "Bab Targwa is a historic gateway leading into the earth-walled medina of Tiznit.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725331,
+                        29.703951
+                  ]
+            },
+            {
+                  "name": "kasbah",
+                  "text": "This kasbah in Tiznit is a traditional earthen fortress showcasing characteristic regional mud-brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.726628,
+                        29.700008
+                  ]
+            },
+            {
+                  "name": "Place du Mechouar",
+                  "text": "Place du Mechouar is the main central square of Tiznit, bounded by the old city walls and historic structures.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.731317,
+                        29.696997
+                  ]
+            },
+            {
+                  "name": "post / K // p .u",
+                  "text": "This viewpoint in Tiznit provides sweeping views across the flat roofs of the historic medina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.750936,
+                        29.694081
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-09",
     coords: [-9.7333, 29.7],
@@ -11639,7 +12773,196 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Autrefois le centre de l'extraction de charbon marocaine dans l'Oriental.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-jerada-cities-v2.webp"},
   {
-    id: "ma-tinghir-cities-v2",
+    id: "ma-tinghir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tighmert",
+                  "text": "Eine Attraktion im traditionellen Dorf Tighmert in der Region Tinghir.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.516957,
+                        31.503111
+                  ]
+            },
+            {
+                  "name": "Ait Dani",
+                  "text": "Eine historische, befestigte Burgstruktur, die in der Gegend von Tinghir zu finden ist.",
+                  "category": "castle",
+                  "coords": [
+                        -5.534328,
+                        31.5325
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Ein erhaltenes befestigtes Dorf aus Lehm, das die lokale Berberarchitektur präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.527921,
+                        31.519446
+                  ]
+            },
+            {
+                  "name": "Douar Ait Boujane",
+                  "text": "Die Ruinen der traditionellen Siedlung Ait Boujane in der Nähe von Tinghir.",
+                  "category": "historical",
+                  "coords": [
+                        -5.541392,
+                        31.534022
+                  ]
+            },
+            {
+                  "name": "centre culturel",
+                  "text": "Ein Kulturzentrum in Tinghir, das lokale Kunstausstellungen und Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.53981,
+                        31.508465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tighmert",
+                  "text": "Látványosság a Tinghir régióban található hagyományos Tighmert faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.516957,
+                        31.503111
+                  ]
+            },
+            {
+                  "name": "Ait Dani",
+                  "text": "Egy történelmi erődített kastélyépítmény Tinghir környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -5.534328,
+                        31.5325
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Egy fennmaradt, vályogból épült erődített falu, amely a helyi berber építészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.527921,
+                        31.519446
+                  ]
+            },
+            {
+                  "name": "Douar Ait Boujane",
+                  "text": "A hagyományos Ait Boujane település romjai Tinghir közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.541392,
+                        31.534022
+                  ]
+            },
+            {
+                  "name": "centre culturel",
+                  "text": "Kulturális központ Tinghirben, amely helyi művészeti kiállításoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.53981,
+                        31.508465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tighmert",
+                  "text": "O atracție în satul tradițional Tighmert, în regiunea Tinghir.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.516957,
+                        31.503111
+                  ]
+            },
+            {
+                  "name": "Ait Dani",
+                  "text": "O structură istorică de castel fortificat din zona Tinghir.",
+                  "category": "castle",
+                  "coords": [
+                        -5.534328,
+                        31.5325
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "Un sat fortificat din lut, bine conservat, care prezintă arhitectura berberă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.527921,
+                        31.519446
+                  ]
+            },
+            {
+                  "name": "Douar Ait Boujane",
+                  "text": "Ruinele așezării tradiționale Ait Boujane, în apropiere de Tinghir.",
+                  "category": "historical",
+                  "coords": [
+                        -5.541392,
+                        31.534022
+                  ]
+            },
+            {
+                  "name": "centre culturel",
+                  "text": "Un centru cultural în Tinghir care găzduiește expoziții de artă și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.53981,
+                        31.508465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tighmert",
+                  "text": "An attraction located in the traditional village of Tighmert within the Tinghir region.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.516957,
+                        31.503111
+                  ]
+            },
+            {
+                  "name": "Ait Dani",
+                  "text": "A historic fortified castle structure located in the Tinghir area.",
+                  "category": "castle",
+                  "coords": [
+                        -5.534328,
+                        31.5325
+                  ]
+            },
+            {
+                  "name": "Ksar",
+                  "text": "A preserved earthen fortified village showcasing local Berber architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.527921,
+                        31.519446
+                  ]
+            },
+            {
+                  "name": "Douar Ait Boujane",
+                  "text": "The ruins of the traditional Ait Boujane settlement near Tinghir.",
+                  "category": "historical",
+                  "coords": [
+                        -5.541392,
+                        31.534022
+                  ]
+            },
+            {
+                  "name": "centre culturel",
+                  "text": "A cultural centre in Tinghir hosting local art exhibitions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.53981,
+                        31.508465
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-08",
     coords: [-5.5328, 31.5147],
@@ -12491,7 +13814,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Un ancien enclave espagnol sur la côte atlantique, connu pour son architecture Art déco.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-sidi-ifni-cities-v2.webp"},
   {
-    id: "ma-martil-cities-v2",
+    id: "ma-martil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Pool",
+                  "text": "Diese städtische öffentliche Schwimmanlage in der Küstenstadt Martil bietet ein strukturiertes Erholungsgebiet abseits der Meereswellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.274433,
+                        35.624579
+                  ]
+            },
+            {
+                  "name": "Plage Martil",
+                  "text": "Dieser breite Sandstrand erstreckt sich entlang der Mittelmeerküste und verfügt über eine lebhafte Promenade, hinter der sich weiß getünchte Ferienwohnungen reihen.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.27172,
+                        35.622724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Pool",
+                  "text": "A tengerparti Martil városában található városi nyilvános uszoda strukturált rekreációs területet kínál távol a tenger hullámaitól.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.274433,
+                        35.624579
+                  ]
+            },
+            {
+                  "name": "Plage Martil",
+                  "text": "A Földközi-tenger partján húzódó széles homokos strand mentén egy nyüzsgő sétány fut, melyet fehérre meszelt nyaralóapartmanok szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.27172,
+                        35.622724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Pool",
+                  "text": "Această facilitate publică de înot din orașul de coastă Martil oferă o zonă de agrement structurată departe de valurile mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.274433,
+                        35.624579
+                  ]
+            },
+            {
+                  "name": "Plage Martil",
+                  "text": "Întinzându-se de-a lungul coastei mediteraneene, această plajă lată cu nisip are o faleză plină de viață mărginită de apartamente de vacanță văruite în alb.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.27172,
+                        35.622724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Pool",
+                  "text": "This municipal public swimming facility in the coastal town of Martil provides a structured recreational area away from the sea waves.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.274433,
+                        35.624579
+                  ]
+            },
+            {
+                  "name": "Plage Martil",
+                  "text": "Stretching along the Mediterranean coast, this wide sandy beach features a lively promenade backed by white-washed holiday apartments.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.27172,
+                        35.622724
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.2667, 35.6167],
@@ -13340,7 +14744,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Sa médina est protégée par d'impressionnantes murailles portugaises.", "La ville est un lieu de pèlerinage important pour les juifs marocains.", "De nombreux artistes se sont laissé inspirer par ses rues calmes.", "Située à quelques kilomètres seulement d'El Jadida."],
     }, image: "/poi-images/ma-azemmour-cities-v2.webp"},
   {
-    id: "ma-el-kelaa-des-sraghna-cities-v2",
+    id: "ma-el-kelaa-des-sraghna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "919",
+                  "text": "Eine einzigartig benannte lokale Attraktion in der landwirtschaftlich geprägten Binnenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.388454,
+                        32.064815
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Ein städtisches Kulturzentrum, das in einer schlossähnlichen architektonischen Struktur untergebracht ist.",
+                  "category": "castle",
+                  "coords": [
+                        -7.405983,
+                        32.047193
+                  ]
+            },
+            {
+                  "name": "Salle des Congrès",
+                  "text": "Ein großer Theatersaal, der für die Ausrichtung bedeutender Konferenzen und Aufführungen konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.40558,
+                        32.042376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "919",
+                  "text": "Egy egyedi nevű helyi látványosság a mezőgazdasági jellegű szárazföldi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.388454,
+                        32.064815
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Egy városi kulturális központ, amely egy kastélyszerű építészeti struktúrában kapott helyet.",
+                  "category": "castle",
+                  "coords": [
+                        -7.405983,
+                        32.047193
+                  ]
+            },
+            {
+                  "name": "Salle des Congrès",
+                  "text": "Egy nagy színházterem, amelyet jelentős konferenciák és előadások megrendezésére terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.40558,
+                        32.042376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "919",
+                  "text": "O atracție locală cu un nume unic, situată în regiunea agricolă interioară.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.388454,
+                        32.064815
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Un centru cultural municipal găzduit într-o structură arhitecturală asemănătoare unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.405983,
+                        32.047193
+                  ]
+            },
+            {
+                  "name": "Salle des Congrès",
+                  "text": "O sală mare de teatru concepută pentru găzduirea unor conferințe și spectacole majore.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.40558,
+                        32.042376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "919",
+                  "text": "A uniquely named local attraction situated in the inland agricultural region.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.388454,
+                        32.064815
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "A municipal cultural center housed within a castle-like architectural structure.",
+                  "category": "castle",
+                  "coords": [
+                        -7.405983,
+                        32.047193
+                  ]
+            },
+            {
+                  "name": "Salle des Congrès",
+                  "text": "A large theatre hall designed for hosting major conferences and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.40558,
+                        32.042376
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-07",
     coords: [-7.4, 32.05],
@@ -13604,7 +15125,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville côtière en pleine croissance au Sahara occidental avec un phare célèbre.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-boujdour-cities-v2.webp"},
   {
-    id: "ma-taliouine-cities-v2",
+    id: "ma-taliouine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caligraphie au safran",
+                  "text": "Diese Kunstgalerie in Taliouine zeigt einzigartige Kalligrafiewerke, die mit lokaler Safran-Tinte erstellt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915702,
+                        30.530235
+                  ]
+            },
+            {
+                  "name": "Kasbah de Douzarou",
+                  "text": "Diese historische Burgruine an einem Hang liegt in der safranproduzierenden Region von Taliouine.",
+                  "category": "castle",
+                  "coords": [
+                        -7.89683,
+                        30.530853
+                  ]
+            },
+            {
+                  "name": "Kasbah du Glaoui",
+                  "text": "Diese beeindruckende ehemalige Festung in Taliouine wurde einst von der mächtigen Familie Glaoui kontrolliert.",
+                  "category": "castle",
+                  "coords": [
+                        -7.905916,
+                        30.523436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caligraphie au safran",
+                  "text": "Ez a taliouinei művészeti galéria egyedi, helyi sáfránytintával készült kalligráfiai alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915702,
+                        30.530235
+                  ]
+            },
+            {
+                  "name": "Kasbah de Douzarou",
+                  "text": "Ez a domboldalon lévő történelmi kastélyrom Taliouine sáfránytermelő régiójában fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        -7.89683,
+                        30.530853
+                  ]
+            },
+            {
+                  "name": "Kasbah du Glaoui",
+                  "text": "Ezt a lenyűgöző egykori taliouinei erődöt egykor a hatalmas Glaoui család irányította.",
+                  "category": "castle",
+                  "coords": [
+                        -7.905916,
+                        30.523436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caligraphie au safran",
+                  "text": "Această galerie de artă din Taliouine expune lucrări unice de caligrafie realizate folosind cerneală de șofran local.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915702,
+                        30.530235
+                  ]
+            },
+            {
+                  "name": "Kasbah de Douzarou",
+                  "text": "Această ruină istorică a unui castel de pe deal se află în regiunea producătoare de șofran din Taliouine.",
+                  "category": "castle",
+                  "coords": [
+                        -7.89683,
+                        30.530853
+                  ]
+            },
+            {
+                  "name": "Kasbah du Glaoui",
+                  "text": "Această fostă fortăreață impresionantă din Taliouine a fost controlată cândva de puternica familie Glaoui.",
+                  "category": "castle",
+                  "coords": [
+                        -7.905916,
+                        30.523436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caligraphie au safran",
+                  "text": "This art gallery in Taliouine displays unique calligraphy works created using local saffron ink.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915702,
+                        30.530235
+                  ]
+            },
+            {
+                  "name": "Kasbah de Douzarou",
+                  "text": "This historic hillside castle ruin is located in the saffron-producing region of Taliouine.",
+                  "category": "castle",
+                  "coords": [
+                        -7.89683,
+                        30.530853
+                  ]
+            },
+            {
+                  "name": "Kasbah du Glaoui",
+                  "text": "This impressive former fortress in Taliouine was once controlled by the powerful Glaoui family.",
+                  "category": "castle",
+                  "coords": [
+                        -7.905916,
+                        30.523436
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-09",
     coords: [-7.9167, 30.5333],

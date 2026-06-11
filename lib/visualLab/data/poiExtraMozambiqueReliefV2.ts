@@ -147,7 +147,52 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     },
   },
   {
-    id: "zambesi-delta-relief-v2",
+    id: "zambesi-delta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coutada 14",
+                  "text": "Das Naturschutzgebiet Coutada 14 umfasst weitläufige afrikanische Wildnislandschaften und Sumpfgebiete im zambesi-delta-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        35.922526,
+                        -18.45855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coutada 14",
+                  "text": "A Coutada 14 természetvédelmi terület kiterjedt afrikai vadonokat foglal magába a zambesi-delta-relief-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        35.922526,
+                        -18.45855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coutada 14",
+                  "text": "Rezervația naturală Coutada 14 cuprinde peisaje sălbatice africane extinse în zambesi-delta-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        35.922526,
+                        -18.45855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coutada 14",
+                  "text": "The Coutada 14 nature reserve spans vast tracts of African wilderness within the zambesi-delta-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        35.922526,
+                        -18.45855
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MZ-ZA",
     coords: [36.00, -18.50],
@@ -363,7 +408,52 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-namuli-relief-v2",
+    id: "mount-namuli-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Namuli",
+                  "text": "Der Mount Namuli, der steil aus der Landschaft der Provinz Zambezia aufragt, ist ein Inselberg aus Granit, auf dem hochgradig endemische Bergpflanzenarten wachsen.",
+                  "category": "natural",
+                  "coords": [
+                        37.059787,
+                        -15.356829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Namuli",
+                  "text": "A Zambezia tartomány tájából meredeken kiemelkedő Mount Namuli egy gránit szigethegy, amely erősen endemikus hegyvidéki növényfajoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        37.059787,
+                        -15.356829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Namuli",
+                  "text": "Muntele Namuli, ridicându-se abrupt deasupra peisajului provinciei Zambezia, este un inselberg de granit ce găzduiește specii de plante montane foarte endemice.",
+                  "category": "natural",
+                  "coords": [
+                        37.059787,
+                        -15.356829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Namuli",
+                  "text": "Mount Namuli, rising steeply above the Zambezia province landscape, is a granite inselberg hosting highly endemic montane plant species.",
+                  "category": "natural",
+                  "coords": [
+                        37.059787,
+                        -15.356829
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MZ-ZA",
     coords: [37.05, -15.42],
@@ -507,7 +597,88 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     },
   },
   {
-    id: "pemba-bucht-relief-v2",
+    id: "pemba-bucht-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Turtle Beach",
+                  "text": "Der an den weiten Kurven der Pemba-Bucht gelegene Turtle Beach ist berühmt für seinen weichen weißen Sand und die wichtigen Nistplätze von Meeresschildkröten.",
+                  "category": "recreational",
+                  "coords": [
+                        40.516569,
+                        -12.912489
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Said Ali",
+                  "text": "Der Farol da Ponta Said Ali thront auf einer markanten Landzunge mit Blick auf die Pemba-Bucht und dient der regionalen Schifffahrt als wesentliche Navigationshilfe.",
+                  "category": "landmark",
+                  "coords": [
+                        40.51031,
+                        -12.929051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turtle Beach",
+                  "text": "A Pemba-öböl széles ívei mentén megbúvó Turtle Beach puha fehér homokjáról és létfontosságú tengeri teknős fészkelőhelyeiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        40.516569,
+                        -12.912489
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Said Ali",
+                  "text": "A Pemba-öbölre néző, kiemelkedő tengerparti ponton magasodó Farol da Ponta Said Ali alapvető navigációs segítségként szolgál a regionális hajózás számára.",
+                  "category": "landmark",
+                  "coords": [
+                        40.51031,
+                        -12.929051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turtle Beach",
+                  "text": "Situată de-a lungul curbelor ample ale Golfului Pemba, Plaja Țestoaselor este renumită pentru nisipurile sale albe și fine și pentru locurile vitale de cuibărit ale țestoaselor marine.",
+                  "category": "recreational",
+                  "coords": [
+                        40.516569,
+                        -12.912489
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Said Ali",
+                  "text": "Cocoțat pe un punct de coastă proeminent, cu vedere la Golful Pemba, Farol da Ponta Said Ali servește drept un ajutor esențial de navigație pentru transportul regional.",
+                  "category": "landmark",
+                  "coords": [
+                        40.51031,
+                        -12.929051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turtle Beach",
+                  "text": "Nestled along the sweeping curves of Pemba Bay, Turtle Beach is renowned for its soft white sands and vital marine turtle nesting sites.",
+                  "category": "recreational",
+                  "coords": [
+                        40.516569,
+                        -12.912489
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Said Ali",
+                  "text": "Perched on a prominent coastal point overlooking Pemba Bay, the Farol da Ponta Said Ali serves as an essential navigational aid for regional shipping.",
+                  "category": "landmark",
+                  "coords": [
+                        40.51031,
+                        -12.929051
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MZ-CD",
     coords: [40.50, -12.90],
@@ -867,7 +1038,52 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     },
   },
   {
-    id: "mossuril-kuesten-relief-v2",
+    id: "mossuril-kuesten-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rampa dos Escravos",
+                  "text": "Eine historische Rampe an der Küste, die die Geschichte des Sklavenhandels in der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        40.659129,
+                        -14.967001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rampa dos Escravos",
+                  "text": "Egy parti történelmi rámpa, amely a régió rabszolgakereskedelmi múltját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        40.659129,
+                        -14.967001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rampa dos Escravos",
+                  "text": "O rampă istorică de coastă care reflectă trecutul comerțului cu sclavi din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        40.659129,
+                        -14.967001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rampa dos Escravos",
+                  "text": "A coastal historical ramp site reflecting the region's slave trade past.",
+                  "category": "landmark",
+                  "coords": [
+                        40.659129,
+                        -14.967001
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MZ-NA",
     coords: [40.70, -14.90],

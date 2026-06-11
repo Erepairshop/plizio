@@ -39,7 +39,52 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ichkeul-bird-life-v2",
+    id: "ichkeul-bird-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aïn el Guetar",
+                  "text": "Eine natürliche Quelle, die eine lebenswichtige Wasserquelle innerhalb der lokalen ökologischen Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.659682,
+                        37.246945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aïn el Guetar",
+                  "text": "Természetes forrás, amely létfontosságú vízforrást kínál a helyi ökológiai tájon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        9.659682,
+                        37.246945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aïn el Guetar",
+                  "text": "Un izvor natural care oferă o sursă de apă vitală în peisajul ecologic local.",
+                  "category": "landmark",
+                  "coords": [
+                        9.659682,
+                        37.246945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aïn el Guetar",
+                  "text": "A natural spring offering a vital water source within the local ecological landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        9.659682,
+                        37.246945
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TN-BI",
     coords: [9.667, 37.167],
@@ -111,7 +156,160 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "palmeraie-tozeur-life-v2",
+    id: "palmeraie-tozeur-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Briquetterie",
+                  "text": "In der Briquetterie von Tozeur werden die typischen ockerfarbenen Lehmziegel in traditionellen Öfen gebrannt, die das geometrische Stadtbild prägen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.110594,
+                        33.904246
+                  ]
+            },
+            {
+                  "name": "Dar Cherait",
+                  "text": "Das Dar Cherait ist ein Kulturmuseum in der Oase der Palmeraie von Tozeur.",
+                  "category": "museum",
+                  "coords": [
+                        8.120615,
+                        33.913163
+                  ]
+            },
+            {
+                  "name": "Hannibal theme park",
+                  "text": "Der Themenpark Hannibal ist ein Freizeitpark in der Oasenlandschaft der Palmeraie von Tozeur.",
+                  "category": "recreational",
+                  "coords": [
+                        8.118588,
+                        33.920895
+                  ]
+            },
+            {
+                  "name": "Zoo El Tijani",
+                  "text": "Der Zoo El Tijani ist ein kleiner zoologischer Garten mit Wüsten- und Oasentieren in der Palmeraie von Tozeur.",
+                  "category": "recreational",
+                  "coords": [
+                        8.132762,
+                        33.927424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Briquetterie",
+                  "text": "A tozeuri téglaégetőben hagyományos kemencékben égetik azokat a jellegzetes okkersárga vályogtéglákat, amelyek meghatározzák a város geometrikus arculatát.",
+                  "category": "landmark",
+                  "coords": [
+                        8.110594,
+                        33.904246
+                  ]
+            },
+            {
+                  "name": "Dar Cherait",
+                  "text": "A Dar Cherait egy kulturális múzeum Tozeur pálmaligetének oázisában.",
+                  "category": "museum",
+                  "coords": [
+                        8.120615,
+                        33.913163
+                  ]
+            },
+            {
+                  "name": "Hannibal theme park",
+                  "text": "A Hannibal vidámpark egy szórakoztató park Tozeur pálmaligetének oázisában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.118588,
+                        33.920895
+                  ]
+            },
+            {
+                  "name": "Zoo El Tijani",
+                  "text": "A Zoo El Tijani egy kis állatkert, amely sivatagi és oázisállatokat mutat be Tozeur pálmaligetében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.132762,
+                        33.927424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Briquetterie",
+                  "text": "La fabrica de cărămizi din Tozeur, cărămizile de chirpici de culoarea ocrului sunt arse în cuptoare tradiționale, modelând arhitectura geometrică a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        8.110594,
+                        33.904246
+                  ]
+            },
+            {
+                  "name": "Dar Cherait",
+                  "text": "Dar Cherait este un muzeu cultural situat în oaza cu palmieri din Tozeur.",
+                  "category": "museum",
+                  "coords": [
+                        8.120615,
+                        33.913163
+                  ]
+            },
+            {
+                  "name": "Hannibal theme park",
+                  "text": "Parcul tematic Hannibal este un parc de distracții amplasat în mediul oazei cu palmieri din Tozeur.",
+                  "category": "recreational",
+                  "coords": [
+                        8.118588,
+                        33.920895
+                  ]
+            },
+            {
+                  "name": "Zoo El Tijani",
+                  "text": "Zoo El Tijani este o mică grădină zoologică care expune animale din deșert și oaze în palmierul din Tozeur.",
+                  "category": "recreational",
+                  "coords": [
+                        8.132762,
+                        33.927424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Briquetterie",
+                  "text": "At the Tozeur brickworks, typical ochre adobe bricks are fired in traditional kilns, shaping the geometric architecture of the town.",
+                  "category": "landmark",
+                  "coords": [
+                        8.110594,
+                        33.904246
+                  ]
+            },
+            {
+                  "name": "Dar Cherait",
+                  "text": "The Dar Cherait is a cultural museum located in the Tozeur palmeraie oasis.",
+                  "category": "museum",
+                  "coords": [
+                        8.120615,
+                        33.913163
+                  ]
+            },
+            {
+                  "name": "Hannibal theme park",
+                  "text": "The Hannibal theme park is an amusement park set within the oasis environment of Tozeur's palmeraie.",
+                  "category": "recreational",
+                  "coords": [
+                        8.118588,
+                        33.920895
+                  ]
+            },
+            {
+                  "name": "Zoo El Tijani",
+                  "text": "Zoo El Tijani is a small zoological garden displaying desert and oasis animals in the Tozeur palmeraie.",
+                  "category": "recreational",
+                  "coords": [
+                        8.132762,
+                        33.927424
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TN-TO",
     coords: [8.130, 33.920],
@@ -147,7 +345,88 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "kid-park-tunis-life-v2",
+    id: "kid-park-tunis-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le 4eme Art",
+                  "text": "Le 4eme Art ist ein großer Veranstaltungsort für Theater, der von der tunesischen Nationaltheaterkompanie betrieben wird.",
+                  "category": "cultural",
+                  "coords": [
+                        10.181234,
+                        36.801889
+                  ]
+            },
+            {
+                  "name": "Finance Museum",
+                  "text": "Das Finanzmuseum in Tunis stellt historische Währungen, Münzen und wirtschaftliche Artefakte der Nation aus.",
+                  "category": "museum",
+                  "coords": [
+                        10.178309,
+                        36.80112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le 4eme Art",
+                  "text": "A Le 4eme Art egy jelentős színházi helyszín, amelyet a Tunéziai Nemzeti Színház társulata üzemeltet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.181234,
+                        36.801889
+                  ]
+            },
+            {
+                  "name": "Finance Museum",
+                  "text": "A tuniszi Pénzügyi Múzeum az ország történelmi valutáit, érméit és gazdasági tárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        10.178309,
+                        36.80112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le 4eme Art",
+                  "text": "Le 4eme Art este un important spațiu de spectacole teatrale operat de compania Teatrului Național Tunisian.",
+                  "category": "cultural",
+                  "coords": [
+                        10.181234,
+                        36.801889
+                  ]
+            },
+            {
+                  "name": "Finance Museum",
+                  "text": "Muzeul Finanțelor din Tunis expune monede istorice și artefacte economice ale națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        10.178309,
+                        36.80112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le 4eme Art",
+                  "text": "Le 4eme Art is a major theatrical venue operated by the Tunisian National Theatre company.",
+                  "category": "cultural",
+                  "coords": [
+                        10.181234,
+                        36.801889
+                  ]
+            },
+            {
+                  "name": "Finance Museum",
+                  "text": "The Finance Museum in Tunis exhibits historic currency, coins, and economic artifacts of the nation.",
+                  "category": "museum",
+                  "coords": [
+                        10.178309,
+                        36.80112
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-TU",
     coords: [10.180, 36.800],
@@ -183,7 +462,160 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "douz-camel-habitat-life-v2",
+    id: "douz-camel-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de culture",
+                  "text": "Die Maison de culture ist ein wichtiges lokales Theater in der Wüstenstadt Douz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.45242
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "Das Musée du Sahara de Douz ist ein Museum, das sich der Bewahrung der Nomadentraditionen und des Kamel-Lebensraum-Erbes der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            },
+            {
+                  "name": "Sahara Douz",
+                  "text": "Sahara Douz ist ein bekanntes Hotel, das Wüstenunterkünfte in der von Kamelen besiedelten Oase Douz anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020447,
+                        33.435471
+                  ]
+            },
+            {
+                  "name": "Hotel Mehari",
+                  "text": "Das Hotel Mehari ist ein großes Oasenresort, das Reisenden Komfort bei der Erkundung der Dünen um Douz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.02097,
+                        33.433565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de culture",
+                  "text": "A Maison de culture egy jelentős közösségi színház, amely a sivatagi Douz városát szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.45242
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "A Musée du Sahara de Douz egy múzeum, amely a régió nomád hagyományainak és tevés élőhelyeinek örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            },
+            {
+                  "name": "Sahara Douz",
+                  "text": "A Sahara Douz egy jól ismert szálloda, amely sivatagi szállást kínál Douz tevés oázisában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020447,
+                        33.435471
+                  ]
+            },
+            {
+                  "name": "Hotel Mehari",
+                  "text": "A Hotel Mehari egy nagy oázis üdülőközpont, amely kényelmet nyújt a Douz körüli dűnéket felfedező utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        9.02097,
+                        33.433565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de culture",
+                  "text": "Maison de culture este un teatru comunitar important care deservește orașul deșertic Douz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.45242
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "Musée du Sahara de Douz este un muzeu dedicat conservării tradițiilor nomade și a patrimoniului habitatului cămilelor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            },
+            {
+                  "name": "Sahara Douz",
+                  "text": "Sahara Douz este un hotel bine-cunoscut care oferă cazare în deșert în oaza cu habitate pentru cămile din Douz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020447,
+                        33.435471
+                  ]
+            },
+            {
+                  "name": "Hotel Mehari",
+                  "text": "Hotel Mehari este o mare stațiune într-o oază care oferă confort călătorilor care explorează dunele din jurul orașului Douz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.02097,
+                        33.433565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de culture",
+                  "text": "The Maison de culture is a prominent community theatre serving the desert town of Douz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.45242
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "The Musée du Sahara de Douz is a museum dedicated to preserving the nomadic traditions and camel-habitat heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            },
+            {
+                  "name": "Sahara Douz",
+                  "text": "Sahara Douz is a well-known hotel providing desert lodging in the camel-habitat oasis of Douz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020447,
+                        33.435471
+                  ]
+            },
+            {
+                  "name": "Hotel Mehari",
+                  "text": "Hotel Mehari is a large oasis resort offering comfort for travelers exploring the dunes around Douz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.02097,
+                        33.433565
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TN-KE",
     coords: [9.020, 33.470],
@@ -219,7 +651,196 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "gammarth-zoo-life-v2",
+    id: "gammarth-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Lolla",
+                  "text": "Das Teatro Lolla ist ein moderner Veranstaltungsort in Gammarth, bekannt für sein dynamisches Programm an Theaterstücken.",
+                  "category": "cultural",
+                  "coords": [
+                        10.285439,
+                        36.924663
+                  ]
+            },
+            {
+                  "name": "Le Palace",
+                  "text": "Das Le Palace ist ein luxuriöses Hotel in Gammarth, das für seine großartige Architektur und den Blick auf das Mittelmeer bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.315389,
+                        36.915635
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Gammarth Village",
+                  "text": "Dieses lokale Kulturzentrum in Gammarth Village beherbergt Kunstausstellungen, Gemeinschaftsworkshops und regionale Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301281,
+                        36.905945
+                  ]
+            },
+            {
+                  "name": "Hannibal Park Soukra",
+                  "text": "Der Hannibal Park bietet verschiedene Fahrgeschäfte und Familienattraktionen in einer lebhaften, festlichen Atmosphäre in La Soukra.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272234,
+                        36.873903
+                  ]
+            },
+            {
+                  "name": "British International School of Tunis",
+                  "text": "Das gepflegte Gelände der British International School bietet eine grüne, strukturierte Umgebung für ihre internationale Schülerschaft.",
+                  "category": "park",
+                  "coords": [
+                        10.259292,
+                        36.869145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Lolla",
+                  "text": "A Teatro Lolla egy modern előadóhely Gammarthban, amely dinamikus színházi programjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.285439,
+                        36.924663
+                  ]
+            },
+            {
+                  "name": "Le Palace",
+                  "text": "A Le Palace egy luxusszálloda Gammarthban, amely nagyszerű építészetéről és a Földközi-tengerre nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.315389,
+                        36.915635
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Gammarth Village",
+                  "text": "A Gammarth Village-ben található helyi kulturális központ művészeti kiállításoknak, közösségi műhelyeknek és regionális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301281,
+                        36.905945
+                  ]
+            },
+            {
+                  "name": "Hannibal Park Soukra",
+                  "text": "A Hannibal Park különféle vidámparki túrákat és családi látnivalókat kínál nyüzsgő, ünnepi hangulatban La Soukrában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272234,
+                        36.873903
+                  ]
+            },
+            {
+                  "name": "British International School of Tunis",
+                  "text": "A British International School gondozott területe zöld, rendezett környezetet biztosít nemzetközi diákjai számára.",
+                  "category": "park",
+                  "coords": [
+                        10.259292,
+                        36.869145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Lolla",
+                  "text": "Teatro Lolla este o locație de spectacole modernă din Gammarth, cunoscută pentru programul său dinamic de piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        10.285439,
+                        36.924663
+                  ]
+            },
+            {
+                  "name": "Le Palace",
+                  "text": "Le Palace este un hotel de lux în Gammarth, cunoscut pentru arhitectura sa grandioasă și priveliștea spre Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        10.315389,
+                        36.915635
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Gammarth Village",
+                  "text": "Acest centru cultural local din satul Gammarth găzduiește expoziții de artă, ateliere comunitare și spectacole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301281,
+                        36.905945
+                  ]
+            },
+            {
+                  "name": "Hannibal Park Soukra",
+                  "text": "Parcul Hannibal oferă diverse atracții de agrement și atracții pentru familii într-o atmosferă animată și festivă în La Soukra.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272234,
+                        36.873903
+                  ]
+            },
+            {
+                  "name": "British International School of Tunis",
+                  "text": "Terenurile amenajate ale Școlii Internaționale Britanice oferă un mediu verde, structurat pentru studenții săi internaționali.",
+                  "category": "park",
+                  "coords": [
+                        10.259292,
+                        36.869145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Lolla",
+                  "text": "Teatro Lolla is a modern performance venue in Gammarth known for its dynamic program of plays.",
+                  "category": "cultural",
+                  "coords": [
+                        10.285439,
+                        36.924663
+                  ]
+            },
+            {
+                  "name": "Le Palace",
+                  "text": "Le Palace is a luxurious hotel in Gammarth known for its grand architecture and Mediterranean Sea views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.315389,
+                        36.915635
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Gammarth Village",
+                  "text": "This local cultural center in Gammarth Village hosts art exhibitions, community workshops, and regional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301281,
+                        36.905945
+                  ]
+            },
+            {
+                  "name": "Hannibal Park Soukra",
+                  "text": "Hannibal Park offers a variety of amusement rides and family attractions within a lively, festive atmosphere in La Soukra.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272234,
+                        36.873903
+                  ]
+            },
+            {
+                  "name": "British International School of Tunis",
+                  "text": "The landscaped grounds of the British International School provide a verdant, structured environment for its international student body.",
+                  "category": "park",
+                  "coords": [
+                        10.259292,
+                        36.869145
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-TU",
     coords: [10.300, 36.900],
@@ -255,7 +876,340 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sidi-bou-said-garden-life-v2",
+    id: "sidi-bou-said-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais Ahmed Bey",
+                  "text": "Die Ruinen des Palais Ahmed Bey zeugen von den einst prächtigen königlichen Residenzen des 19. Jahrhunderts in La Marsa.",
+                  "category": "historical",
+                  "coords": [
+                        10.33078,
+                        36.883263
+                  ]
+            },
+            {
+                  "name": "maison de fef",
+                  "text": "Dieses historische Herrenhaus zeichnet sich durch seine charakteristische lokale Wohnarchitektur in der üppigen Umgebung der Küstenstadt aus.",
+                  "category": "historical",
+                  "coords": [
+                        10.325923,
+                        36.888311
+                  ]
+            },
+            {
+                  "name": "Hôtel Amilcar",
+                  "text": "Das Hôtel Amilcar bietet eine küstennahe Unterkunft mit herrlichem Blick auf das Mittelmeer nahe den antiken Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.341357,
+                        36.864551
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville La Marsa",
+                  "text": "Das elegante Rathaus von La Marsa dient als Verwaltungszentrum und weist markante koloniale Architekturdetails auf.",
+                  "category": "historical",
+                  "coords": [
+                        10.329771,
+                        36.880771
+                  ]
+            },
+            {
+                  "name": "Palais Abdellya à la Marsa (le Printemps des Arts)",
+                  "text": "Der Abdelliya-Palast aus dem 16. Jahrhundert dient heute als dynamisches Kulturzentrum und beherbergt die Ausstellungen „Printemps des Arts“.",
+                  "category": "cultural",
+                  "coords": [
+                        10.325436,
+                        36.880321
+                  ]
+            },
+            {
+                  "name": "CODA Ecole de musique, peinture et danse",
+                  "text": "Diese multidisziplinäre Kunstakademie bietet erstklassigen Unterricht in Musik, Malerei und Tanz in einem kreativen Umfeld.",
+                  "category": "cultural",
+                  "coords": [
+                        10.324744,
+                        36.874565
+                  ]
+            },
+            {
+                  "name": "Plage Amilcar",
+                  "text": "Der Amilcar Beach ist ein entspannter Sandstrand am Golf von Tunis, der zum Schwimmen und für Küstenspaziergänge beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340788,
+                        36.861656
+                  ]
+            },
+            {
+                  "name": "Basilique Saint Cyprian",
+                  "text": "Die archäologischen Überreste dieser großen christlichen Basilika markieren die historische Grabstätte des Märtyrers Saint Cyprian.",
+                  "category": "historical",
+                  "coords": [
+                        10.337392,
+                        36.863919
+                  ]
+            },
+            {
+                  "name": "Lili Land",
+                  "text": "Lili Land ist ein familienorientierter Vergnügungspark mit farbenfrohen Fahrgeschäften und Outdoor-Unterhaltung für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        10.328603,
+                        36.878605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais Ahmed Bey",
+                  "text": "Az Ahmed Bey palota romjai a 19. századi La Marsa egykor pompás királyi rezidenciáiról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        10.33078,
+                        36.883263
+                  ]
+            },
+            {
+                  "name": "maison de fef",
+                  "text": "Ez a történelmi udvarház a tengerparti város buja környezetében lévő jellegzetes helyi lakóépítészetével tűnik ki.",
+                  "category": "historical",
+                  "coords": [
+                        10.325923,
+                        36.888311
+                  ]
+            },
+            {
+                  "name": "Hôtel Amilcar",
+                  "text": "A Hôtel Amilcar tengerparti szállást kínál lenyűgöző kilátással a Földközi-tengerre, az ókori romok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.341357,
+                        36.864551
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville La Marsa",
+                  "text": "La Marsa elegáns városházája adminisztratív központként működik, és jellegzetes gyarmati építészeti részletekkel rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        10.329771,
+                        36.880771
+                  ]
+            },
+            {
+                  "name": "Palais Abdellya à la Marsa (le Printemps des Arts)",
+                  "text": "A 16. századi Abdelliya palota ma dinamikus kulturális központként működik, és a „Printemps des Arts” kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.325436,
+                        36.880321
+                  ]
+            },
+            {
+                  "name": "CODA Ecole de musique, peinture et danse",
+                  "text": "Ez a multidiszciplináris művészeti akadémia első osztályú oktatást kínál zene, festészet és tánc terén egy kreatív környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.324744,
+                        36.874565
+                  ]
+            },
+            {
+                  "name": "Plage Amilcar",
+                  "text": "Az Amilcar strand egy pihentető homokos partszakasz a Tuniszi-öbölben, amely népszerű az úszni és sétálni vágyók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340788,
+                        36.861656
+                  ]
+            },
+            {
+                  "name": "Basilique Saint Cyprian",
+                  "text": "Ennek a nagy keresztény bazilikának a régészeti maradványai jelzik Szent Ciprián vértanú történelmi temetkezési helyét.",
+                  "category": "historical",
+                  "coords": [
+                        10.337392,
+                        36.863919
+                  ]
+            },
+            {
+                  "name": "Lili Land",
+                  "text": "A Lili Land egy családias vidámpark színes körhintákkal és szabadtéri szórakoztató programokkal gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.328603,
+                        36.878605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais Ahmed Bey",
+                  "text": "Ruinele Palatului Ahmed Bey stau mărturie fostelor reședințe regale magnifice din secolul al XIX-lea din La Marsa.",
+                  "category": "historical",
+                  "coords": [
+                        10.33078,
+                        36.883263
+                  ]
+            },
+            {
+                  "name": "maison de fef",
+                  "text": "Acest conac istoric se distinge prin arhitectura sa rezidențială locală caracteristică, situată în împrejurimile luxuriante ale orașului de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        10.325923,
+                        36.888311
+                  ]
+            },
+            {
+                  "name": "Hôtel Amilcar",
+                  "text": "Hôtel Amilcar oferă cazare pe coastă, cu vederi magnifice la Marea Mediterană, aproape de ruinele antice.",
+                  "category": "landmark",
+                  "coords": [
+                        10.341357,
+                        36.864551
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville La Marsa",
+                  "text": "Eleganta Primărie din La Marsa servește drept centru administrativ și prezintă detalii arhitecturale coloniale proeminente.",
+                  "category": "historical",
+                  "coords": [
+                        10.329771,
+                        36.880771
+                  ]
+            },
+            {
+                  "name": "Palais Abdellya à la Marsa (le Printemps des Arts)",
+                  "text": "Palatul Abdelliya din secolul al XVI-lea servește acum ca un centru cultural dinamic, găzduind expozițiile „Printemps des Arts”.",
+                  "category": "cultural",
+                  "coords": [
+                        10.325436,
+                        36.880321
+                  ]
+            },
+            {
+                  "name": "CODA Ecole de musique, peinture et danse",
+                  "text": "Această academie de artă multidisciplinară oferă instruire în muzică, pictură și dans într-un mediu creativ de colaborare.",
+                  "category": "cultural",
+                  "coords": [
+                        10.324744,
+                        36.874565
+                  ]
+            },
+            {
+                  "name": "Plage Amilcar",
+                  "text": "Plaja Amilcar este o porțiune de nisip relaxantă pe Golful Tunis, populară pentru înot și plimbări pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340788,
+                        36.861656
+                  ]
+            },
+            {
+                  "name": "Basilique Saint Cyprian",
+                  "text": "Rămășițele arheologice ale acestei mari bazilici creștine marchează locul istoric de înmormântare al martirului Sfântul Ciprian.",
+                  "category": "historical",
+                  "coords": [
+                        10.337392,
+                        36.863919
+                  ]
+            },
+            {
+                  "name": "Lili Land",
+                  "text": "Lili Land este un parc de distracții orientat spre familie, care oferă atracții colorate și divertisment în aer liber pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        10.328603,
+                        36.878605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais Ahmed Bey",
+                  "text": "The ruins of the Palais Ahmed Bey hint at the once-magnificent 19th-century royal residences in La Marsa.",
+                  "category": "historical",
+                  "coords": [
+                        10.33078,
+                        36.883263
+                  ]
+            },
+            {
+                  "name": "maison de fef",
+                  "text": "This historic manor features distinctive local residential architecture nestled in the lush surroundings of the coastal town.",
+                  "category": "historical",
+                  "coords": [
+                        10.325923,
+                        36.888311
+                  ]
+            },
+            {
+                  "name": "Hôtel Amilcar",
+                  "text": "Hôtel Amilcar offers coastal accommodation with magnificent views of the Mediterranean near the ancient ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        10.341357,
+                        36.864551
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville La Marsa",
+                  "text": "The elegant Town Hall of La Marsa serves as the administrative center and features prominent colonial-era architectural details.",
+                  "category": "historical",
+                  "coords": [
+                        10.329771,
+                        36.880771
+                  ]
+            },
+            {
+                  "name": "Palais Abdellya à la Marsa (le Printemps des Arts)",
+                  "text": "The 16th-century Abdelliya Palace now serves as a dynamic cultural center, famously hosting the \"Printemps des Arts\" exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        10.325436,
+                        36.880321
+                  ]
+            },
+            {
+                  "name": "CODA Ecole de musique, peinture et danse",
+                  "text": "This multidisciplinary arts academy offers instruction in music, painting, and dance within a collaborative creative environment.",
+                  "category": "cultural",
+                  "coords": [
+                        10.324744,
+                        36.874565
+                  ]
+            },
+            {
+                  "name": "Amilcar Beach",
+                  "text": "Amilcar Beach is a relaxed sandy stretch on the Gulf of Tunis, popular for swimming and coastal views.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340788,
+                        36.861656
+                  ]
+            },
+            {
+                  "name": "Basilique Saint Cyprian",
+                  "text": "The archaeological remains of this grand Christian basilica mark the historic burial site of the martyr Saint Cyprian.",
+                  "category": "historical",
+                  "coords": [
+                        10.337392,
+                        36.863919
+                  ]
+            },
+            {
+                  "name": "Lili Land",
+                  "text": "Lili Land is a family-oriented amusement park featuring colorful rides and outdoor entertainment for children.",
+                  "category": "recreational",
+                  "coords": [
+                        10.328603,
+                        36.878605
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-TU",
     coords: [10.340, 36.870],
@@ -327,7 +1281,160 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "testour-pomegranate-life-v2",
+    id: "testour-pomegranate-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Byzantine fortress",
+                  "text": "Die Steinruinen einer alten byzantinischen Militärfestung in der Nähe von Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.359632,
+                        36.523852
+                  ]
+            },
+            {
+                  "name": "Roman Theatre of Thignica",
+                  "text": "Die archäologischen Überreste eines antiken römischen Amphitheaters an der historischen Stätte von Thignica in der Nähe von Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.362372,
+                        36.522817
+                  ]
+            },
+            {
+                  "name": "Ruinen",
+                  "text": "Eine antike archäologische Stätte mit historischen Steinruinen in der Nähe von Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.36189,
+                        36.527775
+                  ]
+            },
+            {
+                  "name": "Thignica",
+                  "text": "Die umfangreichen archäologischen Überreste einer alten römisch-berberischen Siedlung in der Nähe von Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.361897,
+                        36.523894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Byzantine fortress",
+                  "text": "Egy ősi bizánci katonai erőd kőromjai Testour közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.359632,
+                        36.523852
+                  ]
+            },
+            {
+                  "name": "Roman Theatre of Thignica",
+                  "text": "Egy ókori római amfiteátrum régészeti maradványai a Testour melletti Thignica történelmi helyszínén.",
+                  "category": "historical",
+                  "coords": [
+                        9.362372,
+                        36.522817
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Ősi régészeti lelőhely történelmi kőromokkal Testour közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.36189,
+                        36.527775
+                  ]
+            },
+            {
+                  "name": "Thignica",
+                  "text": "Egy ősi római-berber település kiterjedt régészeti maradványai Testour közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.361897,
+                        36.523894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Byzantine fortress",
+                  "text": "Ruinele de piatră ale unei vechi cetăți militare bizantine situate lângă Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.359632,
+                        36.523852
+                  ]
+            },
+            {
+                  "name": "Roman Theatre of Thignica",
+                  "text": "Rămășițele arheologice ale unui amfiteatru roman antic din situl istoric Thignica, lângă Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.362372,
+                        36.522817
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Un sit arheologic antic cu ruine istorice din piatră situat lângă Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.36189,
+                        36.527775
+                  ]
+            },
+            {
+                  "name": "Thignica",
+                  "text": "Rămășițele arheologice extinse ale unei așezări antice romano-berbere situate lângă Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.361897,
+                        36.523894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Byzantine fortress",
+                  "text": "The stone ruins of an ancient Byzantine military fortress located near Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.359632,
+                        36.523852
+                  ]
+            },
+            {
+                  "name": "Roman Theatre of Thignica",
+                  "text": "The archaeological remains of an ancient Roman amphitheatre in the historical site of Thignica near Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.362372,
+                        36.522817
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "An ancient archaeological site featuring historical stone ruins located near Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.36189,
+                        36.527775
+                  ]
+            },
+            {
+                  "name": "Thignica",
+                  "text": "The extensive archaeological remains of an ancient Roman-Berber settlement situated near Testour.",
+                  "category": "historical",
+                  "coords": [
+                        9.361897,
+                        36.523894
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TN-BE",
     coords: [9.430, 36.550],
@@ -363,7 +1470,88 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "grombalia-vineyard-life-v2",
+    id: "grombalia-vineyard-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tubernuc",
+                  "text": "Die Ruinen von Tubernuc zeigen die Überreste einer antiken römisch-berberischen Siedlung, umgeben von der Weinbaulandschaft bei Grombalia.",
+                  "category": "historical",
+                  "coords": [
+                        10.456183,
+                        36.53291
+                  ]
+            },
+            {
+                  "name": "Parc D'Attraction Miami",
+                  "text": "Der Parc D'Attraction Miami ist ein belebter Vergnügungspark, der Fahrgeschäfte und Unterhaltungsattraktionen für Familien in der Region bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.498164,
+                        36.601185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tubernuc",
+                  "text": "Tubernuc romjai egy ősi római-berber település maradványait rejtik a grombaliai borvidék ölelésében.",
+                  "category": "historical",
+                  "coords": [
+                        10.456183,
+                        36.53291
+                  ]
+            },
+            {
+                  "name": "Parc D'Attraction Miami",
+                  "text": "A Parc D'Attraction Miami egy nyüzsgő vidámpark, amely családi körhintákat és szórakoztató programokat kínál a régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.498164,
+                        36.601185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tubernuc",
+                  "text": "Ruinele de la Tubernuc dezvăluie rămășițele unei antice așezări romano-berbere, înconjurate de podgoriile din regiunea Grombalia.",
+                  "category": "historical",
+                  "coords": [
+                        10.456183,
+                        36.53291
+                  ]
+            },
+            {
+                  "name": "Parc D'Attraction Miami",
+                  "text": "Parc D'Attraction Miami este un parc de distracții aglomerat, oferind atracții și carusele pentru familiile din regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        10.498164,
+                        36.601185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tubernuc",
+                  "text": "The ruins of Tubernuc reveal the remains of an ancient Roman-Berber settlement surrounded by the region's vineyard landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.456183,
+                        36.53291
+                  ]
+            },
+            {
+                  "name": "Parc D'Attraction Miami",
+                  "text": "Parc D'Attraction Miami is a bustling amusement park offering family rides and entertainment attractions in the region.",
+                  "category": "recreational",
+                  "coords": [
+                        10.498164,
+                        36.601185
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TN-NA",
     coords: [10.500, 36.590],
@@ -399,7 +1587,52 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "zaghouan-rose-life-v2",
+    id: "zaghouan-rose-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Zaghouan",
+                  "text": "Die Kirche von Zaghouan ist eine historische christliche Kultstätte in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        10.148156,
+                        36.399151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Zaghouan",
+                  "text": "A zaghouani templom egy történelmi keresztény istentiszteleti hely a városban.",
+                  "category": "religious",
+                  "coords": [
+                        10.148156,
+                        36.399151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Zaghouan",
+                  "text": "Biserica din Zaghouan este un lăcaș de cult creștin istoric aflat în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        10.148156,
+                        36.399151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Zaghouan",
+                  "text": "The Church of Zaghouan is a historic Christian place of worship located in the city.",
+                  "category": "religious",
+                  "coords": [
+                        10.148156,
+                        36.399151
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TN-ZA",
     coords: [10.150, 36.400],
@@ -471,7 +1704,448 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "nabeul-pottery-garden-life-v2",
+    id: "nabeul-pottery-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "FunWater Hammamet",
+                  "text": "Der FunWater Hammamet ist ein Wasserpark mit aufblasbaren Rutschen und Hindernissen auf dem offenen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        10.700302,
+                        36.431285
+                  ]
+            },
+            {
+                  "name": "Sidi Mahrsi",
+                  "text": "Sidi Mahrsi ist ein Küstenortschaftsbereich in Nabeul, der für seine Sandstrände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.699053,
+                        36.431447
+                  ]
+            },
+            {
+                  "name": "Les Oranges",
+                  "text": "Das Monument Les Oranges ist eine Skulptur, die die Bedeutung der Zitrusfrüchte für die Region Nabeul ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        10.731513,
+                        36.452765
+                  ]
+            },
+            {
+                  "name": "Plage Loued",
+                  "text": "Der Plage Loued ist ein Sandstrand in Nabeul, der sich ideal zum Sonnenbaden und Schwimmen eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.726127,
+                        36.44027
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "Sidi Slimane ist ein traditioneller Anziehungspunkt in Nabeul, oft verbunden mit lokalen kulturellen Stätten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.729642,
+                        36.440166
+                  ]
+            },
+            {
+                  "name": "Funny Land",
+                  "text": "Funny Land ist ein familienfreundlicher Freizeitpark in Nabeul, der Fahrgeschäfte für Kinder bereithält.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725764,
+                        36.442892
+                  ]
+            },
+            {
+                  "name": "Jet-Ski - Parachute",
+                  "text": "Jet-Ski - Parachute bietet Wassersportaktivitäten wie Jetskifahren und Parasailing an der Küste von Nabeul an.",
+                  "category": "recreational",
+                  "coords": [
+                        10.7245,
+                        36.440208
+                  ]
+            },
+            {
+                  "name": "Plage Jasmin",
+                  "text": "Der Plage Jasmin ist ein bei Touristen beliebter Sandstrand, der zum Entspannen am Mittelmeer einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.71718,
+                        36.43814
+                  ]
+            },
+            {
+                  "name": "Aqua Park Flipper",
+                  "text": "Der Aqua Park Flipper ist ein großer Wasserpark in Nabeul, der zahlreiche Becken und gewundene Wasserrutschen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.674122,
+                        36.421988
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Nabeul",
+                  "text": "Das Centre Culturel de Nabeul ist ein städtisches Kunstzentrum, das lokale Ausstellungen und Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.729567,
+                        36.442579
+                  ]
+            },
+            {
+                  "name": "Néapolis",
+                  "text": "Die Ruinen von Néapolis zeugen von einer antiken römischen Stadt, die einst ein wichtiges Handelszentrum war.",
+                  "category": "historical",
+                  "coords": [
+                        10.719361,
+                        36.440639
+                  ]
+            },
+            {
+                  "name": "Archeological site of Neapolis",
+                  "text": "Die archäologische Stätte von Neapolis beherbergt Überreste antiker Mosaike und Produktionsstätten für Garum.",
+                  "category": "historical",
+                  "coords": [
+                        10.718373,
+                        36.440335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FunWater Hammamet",
+                  "text": "A FunWater Hammamet egy tengeri vízipark, amely felfújható csúszdákat és akadálypályákat kínál a nyílt vízen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.700302,
+                        36.431285
+                  ]
+            },
+            {
+                  "name": "Sidi Mahrsi",
+                  "text": "Sidi Mahrsi Nabeul egyik part menti része, amely homokos strandjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.699053,
+                        36.431447
+                  ]
+            },
+            {
+                  "name": "Les Oranges",
+                  "text": "A Les Oranges emlékmű a citrusfélék Nabeul régiójában betöltött fontossága előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        10.731513,
+                        36.452765
+                  ]
+            },
+            {
+                  "name": "Plage Loued",
+                  "text": "A Plage Loued egy nabeuli homokos strand, amely kiválóan alkalmas napozásra és úszásra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.726127,
+                        36.44027
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "Sidi Slimane egy nabeuli látványosság, amely a helyi kulturális és hitélethez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.729642,
+                        36.440166
+                  ]
+            },
+            {
+                  "name": "Funny Land",
+                  "text": "A Funny Land egy családbarát vidámpark Nabeulban, amely színes gyermekjátékokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725764,
+                        36.442892
+                  ]
+            },
+            {
+                  "name": "Jet-Ski - Parachute",
+                  "text": "A Jet-Ski - Parachute különféle vízi sportokat, például jetskizést és ejtőernyőzést kínál a nabeuli parton.",
+                  "category": "recreational",
+                  "coords": [
+                        10.7245,
+                        36.440208
+                  ]
+            },
+            {
+                  "name": "Plage Jasmin",
+                  "text": "A Plage Jasmin egy népszerű homokos tengerpart, amely kellemes kikapcsolódást nyújt a Földközi-tenger mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        10.71718,
+                        36.43814
+                  ]
+            },
+            {
+                  "name": "Aqua Park Flipper",
+                  "text": "Az Aqua Park Flipper egy tágas nabeuli vízipark, amely különféle medencékkel és kanyargós csúszdákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        10.674122,
+                        36.421988
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Nabeul",
+                  "text": "A Centre Culturel de Nabeul egy városi művészeti központ, amely helyi kiállításoknak és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.729567,
+                        36.442579
+                  ]
+            },
+            {
+                  "name": "Néapolis",
+                  "text": "Néapolis romjai egy ókori római város maradványai, amely egykor jelentős kereskedelmi központ volt.",
+                  "category": "historical",
+                  "coords": [
+                        10.719361,
+                        36.440639
+                  ]
+            },
+            {
+                  "name": "Archeological site of Neapolis",
+                  "text": "Neapolis régészeti lelőhelye ókori mozaikok és egykori garumkészítő műhelyek maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        10.718373,
+                        36.440335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FunWater Hammamet",
+                  "text": "FunWater Hammamet este un parc acvatic cu tobogane gonflabile și obstacole situate direct pe mare.",
+                  "category": "recreational",
+                  "coords": [
+                        10.700302,
+                        36.431285
+                  ]
+            },
+            {
+                  "name": "Sidi Mahrsi",
+                  "text": "Sidi Mahrsi este o zonă de coastă din Nabeul, recunoscută pentru plajele sale de nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        10.699053,
+                        36.431447
+                  ]
+            },
+            {
+                  "name": "Les Oranges",
+                  "text": "Monumentul Les Oranges celebrează importanța citricelor pentru regiunea Nabeul.",
+                  "category": "historical",
+                  "coords": [
+                        10.731513,
+                        36.452765
+                  ]
+            },
+            {
+                  "name": "Plage Loued",
+                  "text": "Plage Loued este o plajă cu nisip din Nabeul, perfectă pentru înot și relaxare la soare.",
+                  "category": "landmark",
+                  "coords": [
+                        10.726127,
+                        36.44027
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "Sidi Slimane este o atracție din Nabeul, legată frecvent de moștenirea culturală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        10.729642,
+                        36.440166
+                  ]
+            },
+            {
+                  "name": "Funny Land",
+                  "text": "Funny Land este un parc de distracții pentru familii în Nabeul, oferind atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725764,
+                        36.442892
+                  ]
+            },
+            {
+                  "name": "Jet-Ski - Parachute",
+                  "text": "Jet-Ski - Parachute oferă activități nautice, inclusiv jet-ski și parasailing de-a lungul coastei din Nabeul.",
+                  "category": "recreational",
+                  "coords": [
+                        10.7245,
+                        36.440208
+                  ]
+            },
+            {
+                  "name": "Plage Jasmin",
+                  "text": "Plage Jasmin este o plajă de nisip foarte populară, ideală pentru relaxare pe țărmul Mării Mediterane.",
+                  "category": "landmark",
+                  "coords": [
+                        10.71718,
+                        36.43814
+                  ]
+            },
+            {
+                  "name": "Aqua Park Flipper",
+                  "text": "Aqua Park Flipper este un parc acvatic extins din Nabeul, cu numeroase piscine și tobogane cu apă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.674122,
+                        36.421988
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Nabeul",
+                  "text": "Centre Culturel de Nabeul este un centru de arte care găzduiește expoziții și spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.729567,
+                        36.442579
+                  ]
+            },
+            {
+                  "name": "Néapolis",
+                  "text": "Ruinele de la Néapolis atestă existența unui oraș antic roman, fost centru comercial important.",
+                  "category": "historical",
+                  "coords": [
+                        10.719361,
+                        36.440639
+                  ]
+            },
+            {
+                  "name": "Archeological site of Neapolis",
+                  "text": "Situl arheologic Neapolis conține vestigii ale unor mozaicuri antice și ateliere de producere a garumului.",
+                  "category": "historical",
+                  "coords": [
+                        10.718373,
+                        36.440335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FunWater Hammamet",
+                  "text": "FunWater Hammamet is a water park featuring inflatable slides and obstacle courses on the open sea.",
+                  "category": "recreational",
+                  "coords": [
+                        10.700302,
+                        36.431285
+                  ]
+            },
+            {
+                  "name": "Sidi Mahrsi",
+                  "text": "Sidi Mahrsi is a coastal area in Nabeul, recognized for its relaxing sandy beaches.",
+                  "category": "landmark",
+                  "coords": [
+                        10.699053,
+                        36.431447
+                  ]
+            },
+            {
+                  "name": "Les Oranges",
+                  "text": "The Les Oranges monument is a sculptural piece honoring the importance of citrus fruits in the Nabeul region.",
+                  "category": "historical",
+                  "coords": [
+                        10.731513,
+                        36.452765
+                  ]
+            },
+            {
+                  "name": "Plage Loued",
+                  "text": "Plage Loued is a sandy beach in Nabeul, providing a scenic setting for swimming and sunbathing.",
+                  "category": "landmark",
+                  "coords": [
+                        10.726127,
+                        36.44027
+                  ]
+            },
+            {
+                  "name": "Sidi Slimane",
+                  "text": "Sidi Slimane is a traditional point of interest in Nabeul, often associated with local cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        10.729642,
+                        36.440166
+                  ]
+            },
+            {
+                  "name": "Funny Land",
+                  "text": "Funny Land is a family-friendly theme park in Nabeul featuring various rides and games for kids.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725764,
+                        36.442892
+                  ]
+            },
+            {
+                  "name": "Jet-Ski - Parachute",
+                  "text": "Jet-Ski - Parachute offers aquatic thrills such as jet skiing and parasailing along the Nabeul coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        10.7245,
+                        36.440208
+                  ]
+            },
+            {
+                  "name": "Plage Jasmin",
+                  "text": "Plage Jasmin is a popular sandy beach offering a relaxing atmosphere along the Mediterranean coast.",
+                  "category": "landmark",
+                  "coords": [
+                        10.71718,
+                        36.43814
+                  ]
+            },
+            {
+                  "name": "Aqua Park Flipper",
+                  "text": "Aqua Park Flipper is a sprawling water park in Nabeul featuring numerous pools and winding water slides.",
+                  "category": "recreational",
+                  "coords": [
+                        10.674122,
+                        36.421988
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Nabeul",
+                  "text": "The Centre Culturel de Nabeul is a local arts center hosting exhibitions and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        10.729567,
+                        36.442579
+                  ]
+            },
+            {
+                  "name": "Néapolis",
+                  "text": "The ruins of Néapolis reflect the remains of an ancient Roman city that thrived as a trading hub.",
+                  "category": "historical",
+                  "coords": [
+                        10.719361,
+                        36.440639
+                  ]
+            },
+            {
+                  "name": "Archeological site of Neapolis",
+                  "text": "The archaeological site of Neapolis features remains of ancient mosaics and garum production workshops.",
+                  "category": "historical",
+                  "coords": [
+                        10.718373,
+                        36.440335
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-NA",
     coords: [10.730, 36.450],
@@ -543,7 +2217,52 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "medjerda-valley-agri-life-v2",
+    id: "medjerda-valley-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Oued Zarga",
+                  "text": "Die historischen Steinruinen einer ehemaligen christlichen Kirche im Medjerda-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        9.413386,
+                        36.676769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Oued Zarga",
+                  "text": "Egy egykori keresztény templom történelmi kőromjai a Medjerda-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        9.413386,
+                        36.676769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Oued Zarga",
+                  "text": "Ruinele istorice din piatră ale unei foste biserici creștine din Valea Medjerda.",
+                  "category": "historical",
+                  "coords": [
+                        9.413386,
+                        36.676769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Oued Zarga",
+                  "text": "The historic stone ruins of a former Christian church in the Medjerda Valley.",
+                  "category": "historical",
+                  "coords": [
+                        9.413386,
+                        36.676769
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TN-BE",
     coords: [9.500, 36.700],
@@ -579,7 +2298,520 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "djerba-ostrich-farm-life-v2",
+    id: "djerba-ostrich-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dahman Ben Ali mosquée",
+                  "text": "Eine weiß getünchte djerbische Moschee inmitten der ländlichen Agrarlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.823794,
+                        33.783895
+                  ]
+            },
+            {
+                  "name": "Huilerie souterraine Oued Zbib",
+                  "text": "Eine faszinierende unterirdische Olivenölpresse in der Gegend von Oued Zbib.",
+                  "category": "landmark",
+                  "coords": [
+                        10.831699,
+                        33.787741
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Eine unausgegrabene archäologische Stätte mit antiken Steinüberresten, die über die Landschaft verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.859474,
+                        33.781846
+                  ]
+            },
+            {
+                  "name": "Tour de Batés",
+                  "text": "Ein historischer Beobachtungs- oder Verteidigungsturm, der sich über die Landschaft Djerbas erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.914662,
+                        33.769794
+                  ]
+            },
+            {
+                  "name": "Iminej mosquée",
+                  "text": "Eine traditionelle ländliche Moschee mit charakteristischen strahlend weißen Wänden und einer runden Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        10.83912,
+                        33.749224
+                  ]
+            },
+            {
+                  "name": "Cheikh Said Taghzouisni mosquée",
+                  "text": "Die eindrucksvollen baulichen Überreste einer ehemaligen ländlichen Moschee, die Cheikh Said Taghzouisni gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        10.781542,
+                        33.775767
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Berdaoui mosquée",
+                  "text": "Eine markante halbsubterrane djerbische Moschee, die teilweise unterirdisch gebaut wurde, um die Temperatur zu regulieren.",
+                  "category": "landmark",
+                  "coords": [
+                        10.770657,
+                        33.787914
+                  ]
+            },
+            {
+                  "name": "El Maearis mosquée",
+                  "text": "Diese traditionelle lokale Moschee dient als friedlicher islamischer Kultort in der djerbischen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.789296,
+                        33.818882
+                  ]
+            },
+            {
+                  "name": "Jamaa El Raradia",
+                  "text": "Eine klassische djerbische Moschee, die die charakteristische einfache, weiß getünchte islamische Architektur der Region zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.81256,
+                        33.785864
+                  ]
+            },
+            {
+                  "name": "Jamaa El Ghoula",
+                  "text": "Diese nach der mythischen Riesin der lokalen Folklore benannte Moschee ist ein faszinierendes Stück von Djerbas religiösem Erbe.",
+                  "category": "landmark",
+                  "coords": [
+                        10.794966,
+                        33.776939
+                  ]
+            },
+            {
+                  "name": "Sidi Aïch mosquée",
+                  "text": "Eine typische djerbische Moschee, die mit ihrem charakteristischen bescheidenen Minarett einen ruhigen Raum für das Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.798203,
+                        33.789467
+                  ]
+            },
+            {
+                  "name": "Ouelhi Mosque",
+                  "text": "Diese weiß getünchte lokale Moschee bietet einen ruhigen spirituellen Rückzugsort, der die islamischen Traditionen der Insel widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.805747,
+                        33.789843
+                  ]
+            },
+            {
+                  "name": "Mosquée Mourou",
+                  "text": "Eine Inselmoschee, die sich durch ihre massiven Mauern und ihr traditionelles nordafrikanisches religiöses Design auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.785711,
+                        33.792781
+                  ]
+            },
+            {
+                  "name": "Ben Byan Mosque",
+                  "text": "Eine Nachbarschaftsmoschee, die in dem im ländlichen Djerba weit verbreiteten Kuppelstil erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        10.816653,
+                        33.811891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dahman Ben Ali mosquée",
+                  "text": "Fehérre meszelt dzserbai mecset a vidéki mezőgazdasági táj közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.823794,
+                        33.783895
+                  ]
+            },
+            {
+                  "name": "Huilerie souterraine Oued Zbib",
+                  "text": "Lenyűgöző földalatti olívaolaj-prés Oued Zbib területén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.831699,
+                        33.787741
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Feltáratlan régészeti lelőhely ősi kőmaradványokkal, amelyek szétszórva találhatók a tájon.",
+                  "category": "historical",
+                  "coords": [
+                        10.859474,
+                        33.781846
+                  ]
+            },
+            {
+                  "name": "Tour de Batés",
+                  "text": "Egy történelmi megfigyelő- vagy védőtorony, amely a dzserbai vidék fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.914662,
+                        33.769794
+                  ]
+            },
+            {
+                  "name": "Iminej mosquée",
+                  "text": "Hagyományos vidéki mecset jellegzetes hófehér falakkal és lekerekített kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        10.83912,
+                        33.749224
+                  ]
+            },
+            {
+                  "name": "Cheikh Said Taghzouisni mosquée",
+                  "text": "Egy korábbi, Cheikh Said Taghzouisninek szentelt vidéki mecset hangulatos építészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        10.781542,
+                        33.775767
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Berdaoui mosquée",
+                  "text": "Egy jellegzetes, félig földalatti dzserbai mecset, amelyet részben a föld alá építettek a hőmérséklet szabályozása érdekében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.770657,
+                        33.787914
+                  ]
+            },
+            {
+                  "name": "El Maearis mosquée",
+                  "text": "Ez a hagyományos helyi mecset békés iszlám istentiszteleti helyként szolgál a dzserbai vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        10.789296,
+                        33.818882
+                  ]
+            },
+            {
+                  "name": "Jamaa El Raradia",
+                  "text": "Klasszikus dzserbai mecset, amely a régió jellegzetes, egyszerű, fehérre meszelt iszlám építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        10.81256,
+                        33.785864
+                  ]
+            },
+            {
+                  "name": "Jamaa El Ghoula",
+                  "text": "A helyi folklór mitikus emberevő óriásnőjéről elnevezett mecset Dzserba vallási örökségének lenyűgöző része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.794966,
+                        33.776939
+                  ]
+            },
+            {
+                  "name": "Sidi Aïch mosquée",
+                  "text": "Jellegzetes dzserbai mecset, amely szerény, egyedi minaretjével csendes helyet kínál az imádkozásra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.798203,
+                        33.789467
+                  ]
+            },
+            {
+                  "name": "Ouelhi Mosque",
+                  "text": "Ez a fehérre meszelt helyi mecset békés spirituális menedéket nyújt, tükrözve a sziget iszlám hagyományait.",
+                  "category": "landmark",
+                  "coords": [
+                        10.805747,
+                        33.789843
+                  ]
+            },
+            {
+                  "name": "Mosquée Mourou",
+                  "text": "Szigeti mecset, amelyet masszív falai és hagyományos észak-afrikai vallási kialakítása jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        10.785711,
+                        33.792781
+                  ]
+            },
+            {
+                  "name": "Ben Byan Mosque",
+                  "text": "Egy vidéki Dzserba-szerte elterjedt, felismerhető kupolás stílusban épült szomszédsági mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        10.816653,
+                        33.811891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dahman Ben Ali mosquée",
+                  "text": "O moschee din Djerba văruită în alb, situată în mijlocul peisajului agricol rural.",
+                  "category": "landmark",
+                  "coords": [
+                        10.823794,
+                        33.783895
+                  ]
+            },
+            {
+                  "name": "Huilerie souterraine Oued Zbib",
+                  "text": "O presă de ulei de măsline subterană fascinantă, situată în zona Oued Zbib.",
+                  "category": "landmark",
+                  "coords": [
+                        10.831699,
+                        33.787741
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "Un sit arheologic neexcavat, cu vestigii de piatră antice împrăștiate pe peisaj.",
+                  "category": "historical",
+                  "coords": [
+                        10.859474,
+                        33.781846
+                  ]
+            },
+            {
+                  "name": "Tour de Batés",
+                  "text": "Un turn istoric de observație sau defensiv care se ridică deasupra peisajului rural din Djerba.",
+                  "category": "landmark",
+                  "coords": [
+                        10.914662,
+                        33.769794
+                  ]
+            },
+            {
+                  "name": "Iminej mosquée",
+                  "text": "O moschee rurală tradițională cu pereți albi imaculați și o cupolă rotunjită, caracteristice zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.83912,
+                        33.749224
+                  ]
+            },
+            {
+                  "name": "Cheikh Said Taghzouisni mosquée",
+                  "text": "Rămășițele structurale evocatoare ale unei foste moschei rurale dedicate lui Cheikh Said Taghzouisni.",
+                  "category": "historical",
+                  "coords": [
+                        10.781542,
+                        33.775767
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Berdaoui mosquée",
+                  "text": "O moschee distinctivă, semi-subterană din Djerba, construită parțial sub pământ pentru a regla temperatura.",
+                  "category": "landmark",
+                  "coords": [
+                        10.770657,
+                        33.787914
+                  ]
+            },
+            {
+                  "name": "El Maearis mosquée",
+                  "text": "Această moschee tradițională locală servește ca un loc pașnic de cult islamic în mediul rural din Djerba.",
+                  "category": "landmark",
+                  "coords": [
+                        10.789296,
+                        33.818882
+                  ]
+            },
+            {
+                  "name": "Jamaa El Raradia",
+                  "text": "O moschee clasică djerbiană care prezintă arhitectura islamică simplă, văruită în alb, caracteristică regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        10.81256,
+                        33.785864
+                  ]
+            },
+            {
+                  "name": "Jamaa El Ghoula",
+                  "text": "Numită după o căpcăună mitică din folclorul local, această moschee este o piesă fascinantă a moștenirii religioase a Djerbei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.794966,
+                        33.776939
+                  ]
+            },
+            {
+                  "name": "Sidi Aïch mosquée",
+                  "text": "O moschee tipică djerbiană care oferă un spațiu liniștit pentru rugăciune, cu minaretul său modest distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        10.798203,
+                        33.789467
+                  ]
+            },
+            {
+                  "name": "Ouelhi Mosque",
+                  "text": "Această moschee locală văruită în alb oferă un refugiu spiritual senin care reflectă tradițiile islamice ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.805747,
+                        33.789843
+                  ]
+            },
+            {
+                  "name": "Mosquée Mourou",
+                  "text": "O moschee insulară caracterizată prin zidurile sale solide și designul religios tradițional nord-african.",
+                  "category": "landmark",
+                  "coords": [
+                        10.785711,
+                        33.792781
+                  ]
+            },
+            {
+                  "name": "Ben Byan Mosque",
+                  "text": "O moschee de cartier construită în stilul cu cupolă recunoscut, răspândit în zonele rurale din Djerba.",
+                  "category": "landmark",
+                  "coords": [
+                        10.816653,
+                        33.811891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dahman Ben Ali mosquée",
+                  "text": "A whitewashed Djerbian mosque set amidst the rural agricultural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.823794,
+                        33.783895
+                  ]
+            },
+            {
+                  "name": "Huilerie souterraine Oued Zbib",
+                  "text": "An intriguing subterranean olive oil press located in the Oued Zbib area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.831699,
+                        33.787741
+                  ]
+            },
+            {
+                  "name": "ruines",
+                  "text": "An unexcavated archaeological site with ancient stone remains scattered across the landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.859474,
+                        33.781846
+                  ]
+            },
+            {
+                  "name": "Tour de Batés",
+                  "text": "A historical observation or defensive tower rising above the Djerbian countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        10.914662,
+                        33.769794
+                  ]
+            },
+            {
+                  "name": "Iminej mosquée",
+                  "text": "A traditional rural mosque featuring characteristic stark white walls and a rounded dome.",
+                  "category": "landmark",
+                  "coords": [
+                        10.83912,
+                        33.749224
+                  ]
+            },
+            {
+                  "name": "Cheikh Said Taghzouisni mosquée",
+                  "text": "The evocative structural remains of a former rural mosque dedicated to Cheikh Said Taghzouisni.",
+                  "category": "historical",
+                  "coords": [
+                        10.781542,
+                        33.775767
+                  ]
+            },
+            {
+                  "name": "Jamaa Louta Berdaoui mosquée",
+                  "text": "A distinctive semi-subterranean Djerbian mosque built partially underground to regulate temperature.",
+                  "category": "landmark",
+                  "coords": [
+                        10.770657,
+                        33.787914
+                  ]
+            },
+            {
+                  "name": "El Maearis mosquée",
+                  "text": "This traditional local mosque serves as a peaceful place of Islamic worship in the Djerbian countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        10.789296,
+                        33.818882
+                  ]
+            },
+            {
+                  "name": "Jamaa El Raradia",
+                  "text": "A classic Djerbian mosque showcasing the region's characteristic simple, whitewashed Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        10.81256,
+                        33.785864
+                  ]
+            },
+            {
+                  "name": "Jamaa El Ghoula",
+                  "text": "Named after the mythical ogress of local folklore, this mosque is a fascinating piece of Djerba's religious heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        10.794966,
+                        33.776939
+                  ]
+            },
+            {
+                  "name": "Sidi Aïch mosquée",
+                  "text": "A typical Djerbian mosque offering a quiet space for prayer with its distinctive modest minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        10.798203,
+                        33.789467
+                  ]
+            },
+            {
+                  "name": "Ouelhi Mosque",
+                  "text": "This whitewashed local mosque provides a serene spiritual retreat reflecting the island's Islamic traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        10.805747,
+                        33.789843
+                  ]
+            },
+            {
+                  "name": "Mosquée Mourou",
+                  "text": "An island mosque characterized by its sturdy walls and traditional North African religious design.",
+                  "category": "landmark",
+                  "coords": [
+                        10.785711,
+                        33.792781
+                  ]
+            },
+            {
+                  "name": "Ben Byan Mosque",
+                  "text": "A neighborhood mosque built in the recognizable domed style prevalent throughout rural Djerba.",
+                  "category": "landmark",
+                  "coords": [
+                        10.816653,
+                        33.811891
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TN-MD",
     coords: [10.850, 33.800],
@@ -651,7 +2883,160 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "kairouan-date-orchard-life-v2",
+    id: "kairouan-date-orchard-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bab ech Chouhada",
+                  "text": "Das Bab ech Chouhada ist ein beeindruckendes historisches Stadttor, das in die Medina von Kairouan führt.",
+                  "category": "fortress",
+                  "coords": [
+                        10.101206,
+                        35.674594
+                  ]
+            },
+            {
+                  "name": "Rakada Palace",
+                  "text": "Das Rakada Palace ist eine historische Festungsanlage in der einstigen Aghlabiden-Hauptstadt Raqqada bei Kairouan.",
+                  "category": "castle",
+                  "coords": [
+                        10.053056,
+                        35.593085
+                  ]
+            },
+            {
+                  "name": "Musée du Tapis",
+                  "text": "Das Carpet Museum in Kairouan widmet sich der berühmten traditionellen Teppichknüpfkunst der Region.",
+                  "category": "museum",
+                  "coords": [
+                        10.099175,
+                        35.672533
+                  ]
+            },
+            {
+                  "name": "Centre des Etudes Islamiques de Kairouan",
+                  "text": "Das Centre des Etudes Islamiques de Kairouan fördert die islamische Kunst und theologische Forschung in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.084286,
+                        35.650892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bab ech Chouhada",
+                  "text": "A Bab ech Chouhada egy lenyűgöző történelmi városkapu, amely Kairouan medinájába vezet.",
+                  "category": "fortress",
+                  "coords": [
+                        10.101206,
+                        35.674594
+                  ]
+            },
+            {
+                  "name": "Rakada Palace",
+                  "text": "A Rakada Palace egy történelmi erődítmény az egykori aglabida fővárosban, a Kairouan melletti Raqqadában.",
+                  "category": "castle",
+                  "coords": [
+                        10.053056,
+                        35.593085
+                  ]
+            },
+            {
+                  "name": "Musée du Tapis",
+                  "text": "A kairouani Carpet Museum a régió híres, hagyományos szőnyegszövő művészetének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        10.099175,
+                        35.672533
+                  ]
+            },
+            {
+                  "name": "Centre des Etudes Islamiques de Kairouan",
+                  "text": "A Centre des Etudes Islamiques de Kairouan az iszlám művészetet és teológiai kutatásokat támogatja a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.084286,
+                        35.650892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bab ech Chouhada",
+                  "text": "Bab ech Chouhada este o poartă istorică impresionantă a orașului care duce către medina din Kairouan.",
+                  "category": "fortress",
+                  "coords": [
+                        10.101206,
+                        35.674594
+                  ]
+            },
+            {
+                  "name": "Rakada Palace",
+                  "text": "Rakada Palace este o fortificație istorică din fosta capitală aghlabidă Raqqada, lângă Kairouan.",
+                  "category": "castle",
+                  "coords": [
+                        10.053056,
+                        35.593085
+                  ]
+            },
+            {
+                  "name": "Musée du Tapis",
+                  "text": "Carpet Museum din Kairouan este dedicat faimoasei arte tradiționale de țesut covoare din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        10.099175,
+                        35.672533
+                  ]
+            },
+            {
+                  "name": "Centre des Etudes Islamiques de Kairouan",
+                  "text": "Centre des Etudes Islamiques de Kairouan promovează artele islamice și cercetarea teologică în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        10.084286,
+                        35.650892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bab ech Chouhada",
+                  "text": "Bab ech Chouhada is an impressive historic city gate leading into the medina of Kairouan.",
+                  "category": "fortress",
+                  "coords": [
+                        10.101206,
+                        35.674594
+                  ]
+            },
+            {
+                  "name": "Rakada Palace",
+                  "text": "Rakada Palace is a historic fortification in the former Aghlabid capital of Raqqada near Kairouan.",
+                  "category": "castle",
+                  "coords": [
+                        10.053056,
+                        35.593085
+                  ]
+            },
+            {
+                  "name": "Carpet Museum",
+                  "text": "The Carpet Museum in Kairouan is dedicated to the region's renowned traditional carpet weaving art.",
+                  "category": "museum",
+                  "coords": [
+                        10.099175,
+                        35.672533
+                  ]
+            },
+            {
+                  "name": "Centre des Etudes Islamiques de Kairouan",
+                  "text": "The Centre des Etudes Islamiques de Kairouan promotes Islamic arts and theological research in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        10.084286,
+                        35.650892
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TN-KA",
     coords: [10.100, 35.670],
@@ -687,7 +3072,52 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "tabarka-marine-park-life-v2",
+    id: "tabarka-marine-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boat Monument",
+                  "text": "Ein statisches Bootsmodell, das die langjährigen See- und Fischereitraditionen der Region feiert.",
+                  "category": "historical",
+                  "coords": [
+                        8.797131,
+                        36.944492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boat Monument",
+                  "text": "Egy statikusan kiállított hajó, amely a régió régóta fennálló tengerészeti és halászati hagyományait ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        8.797131,
+                        36.944492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boat Monument",
+                  "text": "O expoziție statică a unei bărci care sărbătorește tradițiile maritime și de pescuit de lungă durată ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        8.797131,
+                        36.944492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boat Monument",
+                  "text": "A static boat display that celebrates the long-standing maritime and fishing traditions of the region.",
+                  "category": "historical",
+                  "coords": [
+                        8.797131,
+                        36.944492
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TN-JE",
     coords: [8.750, 36.950],
@@ -723,7 +3153,592 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "hammamet-fun-land-life-v2",
+    id: "hammamet-fun-land-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barberous",
+                  "text": "Barberous ist eine lebhafte Piraten-Unterhaltungsattraktion, die Familienspaß im Küstenferienort Hammamet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.614283,
+                        36.394117
+                  ]
+            },
+            {
+                  "name": "Private Beach - La Badira",
+                  "text": "Dieser exklusive Sandstrand ist den Gästen des luxuriösen Resorts La Badira vorbehalten und bietet einen ruhigen Blick auf das Mittelmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        10.649599,
+                        36.403518
+                  ]
+            },
+            {
+                  "name": "Dschabal al-Hammamat",
+                  "text": "Jabal Al Hammamat ist eine markante hügelige Erhebung, die einen weiten Panoramablick über den beliebten tunesischen Küstenferienort bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "Ein Gedenkmonument, das einem gefallenen Soldaten gewidmet ist und als lokales Mahnmal in Hammamet dient.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Golf von al-Hammamat",
+                  "text": "Ein breiter mediterraner Golf, der die Küstengeografie der Region Hammamet prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "Ein nautischer Küstenclub, der wasserbezogene Freizeitaktivitäten an den Ufern von Hammamet anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "Hôtel Sindbad",
+                  "text": "Ein Küstenhotel, das mediterrane Unterkünfte in der Nähe der lebhaften Strände von Hammamet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.598034,
+                        36.404443
+                  ]
+            },
+            {
+                  "name": "Centre Culturel International de Hammamet",
+                  "text": "Ein bedeutendes Kunstzentrum, das für die Ausrichtung des renommierten Internationalen Festivals von Hammamet bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594593,
+                        36.40428
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "Ein spezieller Veranstaltungs- und Festsaal im Stadtgebiet von Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628224,
+                        36.409116
+                  ]
+            },
+            {
+                  "name": "Church of Hammamet",
+                  "text": "Ein Gotteshaus, das der christlichen Gemeinde in der nordafrikanischen Küstenstadt Hammamet dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.617658,
+                        36.394817
+                  ]
+            },
+            {
+                  "name": "Hôtel Aziza Thalasso Golf",
+                  "text": "Ein Resort-Hotel, das spezialisierte Thalassotherapie-Behandlungen mit Golfanlagen in Hammamet kombiniert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642475,
+                        36.404205
+                  ]
+            },
+            {
+                  "name": "Hôtel Mediterranée Thalasso Golf",
+                  "text": "Ein Resort im mediterranen Stil, das seinen Gästen Zugang zu Thalassotherapie und nahegelegenen Golfplätzen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643849,
+                        36.405219
+                  ]
+            },
+            {
+                  "name": "Tui blue Palm Beach Hammamet",
+                  "text": "Ein Strandresort, das direkt an den palmengesäumten Küstensanden von Hammamet liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.645519,
+                        36.405599
+                  ]
+            },
+            {
+                  "name": "Hammamet Beach",
+                  "text": "Ein malerischer Sandstrand, der Küstenentspannung und Sonnenbaden am Golf von Hammamet bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.600553,
+                        36.402401
+                  ]
+            },
+            {
+                  "name": "Medina of Hammamet",
+                  "text": "Ein historischer, ummauerter Bezirk mit traditioneller nordafrikanischer Architektur und engen, verwinkelten Gassen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.613166,
+                        36.393981
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "Ein Freilufttheater, das speziell für kulturelle Aufführungen und Konzerte im Freien in Hammamet entworfen wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613499,
+                        36.392631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barberous",
+                  "text": "A Barberous egy élénk, kalóz témájú szórakoztató látványosság, amely családi szórakozást kínál Hammamet tengerparti üdülőövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.614283,
+                        36.394117
+                  ]
+            },
+            {
+                  "name": "Private Beach - La Badira",
+                  "text": "Ezt az exkluzív homokos partot a fényűző La Badira üdülőközpont vendégei számára tartják fenn, nyugodt kilátást nyújtva a Földközi-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        10.649599,
+                        36.403518
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hammamat",
+                  "text": "A Jabal Al Hammamat egy kiemelkedő dombos magaslat, amely széles panorámás kilátást nyújt a népszerű tunéziai tengerparti üdülővárosra.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "Egy mártír katonának szentelt emlékmű, amely helyi emlékhelyként szolgál Hammametben.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Gulf of Al Hammamat",
+                  "text": "Egy széles mediterrán öböl, amely meghatározza a hammameti régió tengerparti földrajzát.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "Egy tengerparti hajósklub, amely vízi szabadidős tevékenységeket kínál Hammamet partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "Hôtel Sindbad",
+                  "text": "Egy tengerparti szálloda, amely mediterrán szállást kínál Hammamet nyüzsgő strandjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.598034,
+                        36.404443
+                  ]
+            },
+            {
+                  "name": "Centre Culturel International de Hammamet",
+                  "text": "Egy kiemelkedő művészeti központ, amely a híres Hammameti Nemzetközi Fesztivál házigazdájaként ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594593,
+                        36.40428
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "Egy dedikált rendezvény- és ünnepi terem Hammamet városi területén.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628224,
+                        36.409116
+                  ]
+            },
+            {
+                  "name": "Church of Hammamet",
+                  "text": "Az észak-afrikai Hammamet tengerparti városában élő keresztény közösséget szolgáló istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        10.617658,
+                        36.394817
+                  ]
+            },
+            {
+                  "name": "Hôtel Aziza Thalasso Golf",
+                  "text": "Egy üdülőszálloda, amely a speciális thalassoterápiás kezeléseket golfolási lehetőségekkel ötvözi Hammametben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642475,
+                        36.404205
+                  ]
+            },
+            {
+                  "name": "Hôtel Mediterranée Thalasso Golf",
+                  "text": "Egy mediterrán stílusú üdülőhely, amely hozzáférést biztosít vendégeinek thalassoterápiához és a közeli golfpályákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643849,
+                        36.405219
+                  ]
+            },
+            {
+                  "name": "Tui blue Palm Beach Hammamet",
+                  "text": "Egy vízparti üdülőszálloda, amely közvetlenül Hammamet pálmafákkal szegélyezett tengerparti homokjánál található.",
+                  "category": "landmark",
+                  "coords": [
+                        10.645519,
+                        36.405599
+                  ]
+            },
+            {
+                  "name": "Hammamet Beach",
+                  "text": "Egy festői homokos partvidék, amely tengerparti kikapcsolódást és napozást kínál a Hammameti-öböl mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.600553,
+                        36.402401
+                  ]
+            },
+            {
+                  "name": "Medina of Hammamet",
+                  "text": "Egy történelmi falakkal körülvett negyed, amely hagyományos észak-afrikai építészetet és kanyargós szűk utcákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        10.613166,
+                        36.393981
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "Egy szabadtéri színház, amelyet kifejezetten szabadtéri kulturális előadásokra és koncertekre terveztek Hammametben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613499,
+                        36.392631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barberous",
+                  "text": "Barberous este o atracție de divertisment vibrantă, cu tematică de pirați, care oferă distracție în familie în zona stațiunii de coastă Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.614283,
+                        36.394117
+                  ]
+            },
+            {
+                  "name": "Private Beach - La Badira",
+                  "text": "Această coastă exclusivistă de nisip este rezervată oaspeților luxosului complex La Badira, oferind vederi senine la Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        10.649599,
+                        36.403518
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hammamat",
+                  "text": "Jabal Al Hammamat este o cotație deluroasă proeminentă care oferă vederi panoramice ample asupra popularei stațiuni de coastă tunisiene.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "Un monument comemorativ dedicat unui soldat martir, servind drept memorial local în Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Gulf of Al Hammamat",
+                  "text": "Un golf mediteranean larg care conturează geografia de coastă a regiunii Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "Un club nautic de coastă care oferă activități de agrement acvatic de-a lungul țărmurilor din Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "Hôtel Sindbad",
+                  "text": "Un hotel de coastă care oferă cazare mediteraneană lângă plajele vibrante din Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.598034,
+                        36.404443
+                  ]
+            },
+            {
+                  "name": "Centre Culturel International de Hammamet",
+                  "text": "Un centru de artă proeminent, renumit pentru găzduirea apreciatului Festival Internațional de la Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594593,
+                        36.40428
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "O sală dedicată evenimentelor și sărbătorilor, situată în zona urbană a orașului Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628224,
+                        36.409116
+                  ]
+            },
+            {
+                  "name": "Church of Hammamet",
+                  "text": "Un lăcaș de cult care servește comunitatea creștină din orașul de coastă nord-african Hammamet.",
+                  "category": "religious",
+                  "coords": [
+                        10.617658,
+                        36.394817
+                  ]
+            },
+            {
+                  "name": "Hôtel Aziza Thalasso Golf",
+                  "text": "Un hotel tip resort care combină tratamentele specializate de talasoterapie cu facilitățile de golf în Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642475,
+                        36.404205
+                  ]
+            },
+            {
+                  "name": "Hôtel Mediterranée Thalasso Golf",
+                  "text": "Un complex în stil mediteranean, care oferă oaspeților acces la talasoterapie și la terenurile de golf din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643849,
+                        36.405219
+                  ]
+            },
+            {
+                  "name": "Tui blue Palm Beach Hammamet",
+                  "text": "Un hotel de tip resort situat direct de-a lungul nisipurilor de coastă mărginite de palmieri din Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.645519,
+                        36.405599
+                  ]
+            },
+            {
+                  "name": "Hammamet Beach",
+                  "text": "Un țărm nisipos pitoresc, care oferă relaxare pe coastă și plajă de-a lungul Golfului Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.600553,
+                        36.402401
+                  ]
+            },
+            {
+                  "name": "Medina of Hammamet",
+                  "text": "Un cartier istoric cu ziduri, prezentând o arhitectură tradițională nord-africană și alei înguste și șerpuite.",
+                  "category": "landmark",
+                  "coords": [
+                        10.613166,
+                        36.393981
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "Un teatru în aer liber conceput special pentru spectacole culturale și concerte în aer liber în Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613499,
+                        36.392631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barberous",
+                  "text": "Barberous is a vibrant pirate-themed entertainment attraction offering family fun in the coastal resort area of Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.614283,
+                        36.394117
+                  ]
+            },
+            {
+                  "name": "Private Beach - La Badira",
+                  "text": "This exclusive sandy shore is reserved for guests of the luxurious La Badira resort, offering serene Mediterranean Sea views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.649599,
+                        36.403518
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hammamat",
+                  "text": "Jabal Al Hammamat is a prominent hilly elevation offering sweeping panoramic views over the popular Tunisian coastal resort town.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "A commemorative monument dedicated to a martyred soldier, standing as a local memorial in Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Gulf of Al Hammamat",
+                  "text": "A broad Mediterranean gulf shaping the coastal geography of the Hammamet region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "A coastal nautical club providing water-based leisure activities along the shores of Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "Hôtel Sindbad",
+                  "text": "A coastal hotel offering Mediterranean accommodation near the vibrant beaches of Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.598034,
+                        36.404443
+                  ]
+            },
+            {
+                  "name": "International Culture Center of Hammamet",
+                  "text": "A prominent arts center renowned for hosting the acclaimed International Festival of Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594593,
+                        36.40428
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "A dedicated event and celebration hall situated within the urban area of Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628224,
+                        36.409116
+                  ]
+            },
+            {
+                  "name": "Church of Hammamet",
+                  "text": "A place of worship serving the Christian community within the North African coastal town of Hammamet.",
+                  "category": "religious",
+                  "coords": [
+                        10.617658,
+                        36.394817
+                  ]
+            },
+            {
+                  "name": "Hôtel Aziza Thalasso Golf",
+                  "text": "A resort hotel combining specialized thalassotherapy treatments with golfing amenities in Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.642475,
+                        36.404205
+                  ]
+            },
+            {
+                  "name": "Hôtel Mediterranée Thalasso Golf",
+                  "text": "A Mediterranean-style resort offering guests access to both thalassotherapy and nearby golf courses.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643849,
+                        36.405219
+                  ]
+            },
+            {
+                  "name": "Tui blue Palm Beach Hammamet",
+                  "text": "A beachfront resort hotel situated directly along the palm-lined coastal sands of Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.645519,
+                        36.405599
+                  ]
+            },
+            {
+                  "name": "Hammamet Beach",
+                  "text": "A scenic sandy shoreline offering coastal relaxation and sunbathing along the Gulf of Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.600553,
+                        36.402401
+                  ]
+            },
+            {
+                  "name": "Medina of Hammamet",
+                  "text": "A historic walled district featuring traditional North African architecture and narrow, winding alleys.",
+                  "category": "landmark",
+                  "coords": [
+                        10.613166,
+                        36.393981
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "An open-air theater designed specifically for outdoor cultural performances and concerts in Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613499,
+                        36.392631
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-NA",
     coords: [10.600, 36.400],
@@ -831,7 +3846,232 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "monastir-aquarium-life-v2",
+    id: "monastir-aquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais Présidentiel de Bourguiba",
+                  "text": "Das Palais Présidentiel de Bourguiba ist ein Museum in Monastir, das in der ehemaligen Residenz des Präsidenten untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.784111,
+                        35.778482
+                  ]
+            },
+            {
+                  "name": "TUI Magic Skanes",
+                  "text": "Der TUI Magic Skanes ist ein weitläufiger Wasserpark im beliebten Skanes-Viertel von Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.747752,
+                        35.764596
+                  ]
+            },
+            {
+                  "name": "Spring Land",
+                  "text": "Das Spring Land ist ein unterhaltsamer Freizeitpark mit zahlreichen Attraktionen für Familien in Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.823037,
+                        35.773768
+                  ]
+            },
+            {
+                  "name": "Queen",
+                  "text": "Der Freizeitpark Queen in Monastir bietet aufregende Fahrgeschäfte für Besucher jeden Alters.",
+                  "category": "recreational",
+                  "coords": [
+                        10.830113,
+                        35.755428
+                  ]
+            },
+            {
+                  "name": "Familia",
+                  "text": "Das Familia ist ein familienfreundlicher Freizeitpark, der vergnügliche Stunden in Monastir garantiert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829352,
+                        35.754463
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "Das Moulin in Monastir ist ein malerischer Freizeitpark, der sich ideal für einen Nachmittagsausflug eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.828956,
+                        35.753429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais Présidentiel de Bourguiba",
+                  "text": "A Palais Présidentiel de Bourguiba egy múzeum Monastirban, amely az egykori elnöki rezidencián kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        10.784111,
+                        35.778482
+                  ]
+            },
+            {
+                  "name": "TUI Magic Skanes",
+                  "text": "A TUI Magic Skanes egy hatalmas vízi park Monastir népszerű Skanes negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.747752,
+                        35.764596
+                  ]
+            },
+            {
+                  "name": "Spring Land",
+                  "text": "A Spring Land egy szórakoztató vidámpark, amely számos attrakciót kínál a családok számára Monastirban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.823037,
+                        35.773768
+                  ]
+            },
+            {
+                  "name": "Queen",
+                  "text": "A monastiri Queen vidámpark izgalmas körhintákat kínál minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.830113,
+                        35.755428
+                  ]
+            },
+            {
+                  "name": "Familia",
+                  "text": "A Familia egy családbarát vidámpark, amely kellemes órákat garantál Monastirban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829352,
+                        35.754463
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "A monastiri Moulin egy festői vidámpark, amely ideális egy délutáni kiránduláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.828956,
+                        35.753429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais Présidentiel de Bourguiba",
+                  "text": "Palais Présidentiel de Bourguiba este un muzeu din Monastir amenajat în fosta reședință a președintelui.",
+                  "category": "museum",
+                  "coords": [
+                        10.784111,
+                        35.778482
+                  ]
+            },
+            {
+                  "name": "TUI Magic Skanes",
+                  "text": "TUI Magic Skanes este un parc acvatic vast situat în popularul cartier Skanes din Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.747752,
+                        35.764596
+                  ]
+            },
+            {
+                  "name": "Spring Land",
+                  "text": "Spring Land este un parc de distracții plin de viață, cu numeroase atracții pentru familii în Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.823037,
+                        35.773768
+                  ]
+            },
+            {
+                  "name": "Queen",
+                  "text": "Parcul de distracții Queen din Monastir oferă plimbări captivante pentru vizitatorii de toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        10.830113,
+                        35.755428
+                  ]
+            },
+            {
+                  "name": "Familia",
+                  "text": "Familia este un parc tematic pentru familii care garantează ore de distracție în Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829352,
+                        35.754463
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "Moulin din Monastir este un parc de distracții pitoresc, ideal pentru o excursie de după-amiază.",
+                  "category": "recreational",
+                  "coords": [
+                        10.828956,
+                        35.753429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais Présidentiel de Bourguiba",
+                  "text": "The Palais Présidentiel de Bourguiba is a museum in Monastir housed within the former presidential residence.",
+                  "category": "museum",
+                  "coords": [
+                        10.784111,
+                        35.778482
+                  ]
+            },
+            {
+                  "name": "TUI Magic Skanes",
+                  "text": "TUI Magic Skanes is an expansive water park located in the popular Skanes area of Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.747752,
+                        35.764596
+                  ]
+            },
+            {
+                  "name": "Spring Land",
+                  "text": "Spring Land is an entertaining theme park offering numerous attractions for families in Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.823037,
+                        35.773768
+                  ]
+            },
+            {
+                  "name": "Queen",
+                  "text": "The Queen theme park in Monastir provides thrilling rides for visitors of all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        10.830113,
+                        35.755428
+                  ]
+            },
+            {
+                  "name": "Familia",
+                  "text": "Familia is a family-friendly theme park guaranteeing hours of enjoyment in Monastir.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829352,
+                        35.754463
+                  ]
+            },
+            {
+                  "name": "Moulin",
+                  "text": "Moulin in Monastir is a picturesque theme park that is ideal for an afternoon outing.",
+                  "category": "recreational",
+                  "coords": [
+                        10.828956,
+                        35.753429
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-MO",
     coords: [10.820, 35.770],
@@ -867,7 +4107,88 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "gabes-oasis-life-v2",
+    id: "gabes-oasis-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont Carthagin",
+                  "text": "Das Monument Pont Carthagin ist ein steinernes Zeugnis der alten Infrastruktur in Gabès.",
+                  "category": "historical",
+                  "coords": [
+                        10.063611,
+                        33.863125
+                  ]
+            },
+            {
+                  "name": "Théatre de Gabès",
+                  "text": "Das Théatre de Gabès dient als kultureller Veranstaltungsort für darstellende Künste in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.099877,
+                        33.880622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont Carthagin",
+                  "text": "A Pont Carthagin emlékmű a gabèsi ókori infrastruktúra kőből épült tanúja.",
+                  "category": "historical",
+                  "coords": [
+                        10.063611,
+                        33.863125
+                  ]
+            },
+            {
+                  "name": "Théatre de Gabès",
+                  "text": "A Théatre de Gabès a város előadó-művészeti kulturális rendezvényhelyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        10.099877,
+                        33.880622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont Carthagin",
+                  "text": "Monumentul Pont Carthagin este o mărturie de piatră a vechii infrastructuri din Gabès.",
+                  "category": "historical",
+                  "coords": [
+                        10.063611,
+                        33.863125
+                  ]
+            },
+            {
+                  "name": "Théatre de Gabès",
+                  "text": "Théatre de Gabès servește ca spațiu cultural pentru artele spectacolului din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        10.099877,
+                        33.880622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont Carthagin",
+                  "text": "The Pont Carthagin monument is a stone testament to the ancient infrastructure in Gabès.",
+                  "category": "historical",
+                  "coords": [
+                        10.063611,
+                        33.863125
+                  ]
+            },
+            {
+                  "name": "Théatre de Gabès",
+                  "text": "The Théatre de Gabès serves as a cultural venue for performing arts in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        10.099877,
+                        33.880622
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TN-GA",
     coords: [10.100, 33.880],
@@ -903,7 +4224,88 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "el-djem-gardens-life-v2",
+    id: "el-djem-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archeological Park",
+                  "text": "Eine archäologische Freilichtstätte, die die antiken Ruinen von El Djem bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        10.700196,
+                        35.29686
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "Die ausgegrabenen archäologischen Überreste eines antiken römischen Zirkus und Hippodroms in El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.693718,
+                        35.302002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archeological Park",
+                  "text": "Szabadtéri régészeti lelőhely, amely El Djem ókori romjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        10.700196,
+                        35.29686
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "Egy ókori római cirkusz és hippodrom feltárt régészeti maradványai El Djemben.",
+                  "category": "historical",
+                  "coords": [
+                        10.693718,
+                        35.302002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archeological Park",
+                  "text": "Un sit arheologic în aer liber care conservă ruinele antice din El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.700196,
+                        35.29686
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "Rămășițele arheologice excavate ale unui vechi circ și hipodrom roman din El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.693718,
+                        35.302002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archeological Park",
+                  "text": "An open-air archaeological site preserving the ancient ruins of El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.700196,
+                        35.29686
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "The excavated archaeological remains of an ancient Roman circus and hippodrome in El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.693718,
+                        35.302002
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-MA",
     coords: [10.700, 35.300],
@@ -975,7 +4377,88 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     },
   },
   {
-    id: "medenine-ksar-kids-life-v2",
+    id: "medenine-ksar-kids-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Costumes et des Traditions",
+                  "text": "Das Musée des Costumes et des Traditions stellt traditionelle Gewänder und Alltagsgegenstände der südtunesischen Bevölkerung aus.",
+                  "category": "museum",
+                  "coords": [
+                        10.491208,
+                        33.34746
+                  ]
+            },
+            {
+                  "name": "Ksar Medenine - Skywalker Alley",
+                  "text": "Die Ksar Medenine - Skywalker Alley ist berühmt als Drehort für die Sklavenquartiere im Film Star Wars.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492268,
+                        33.347086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Costumes et des Traditions",
+                  "text": "A Musée des Costumes et des Traditions a dél-tunéziai lakosság hagyományos ruházatait és mindennapi tárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        10.491208,
+                        33.34746
+                  ]
+            },
+            {
+                  "name": "Ksar Medenine - Skywalker Alley",
+                  "text": "A Ksar Medenine - Skywalker Alley a Csillagok háborúja című film rabszolganegyedének forgatási helyszíneként híres.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492268,
+                        33.347086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Costumes et des Traditions",
+                  "text": "Musée des Costumes et des Traditions expune veșminte tradiționale și obiecte de zi cu zi ale populației din sudul Tunisiei.",
+                  "category": "museum",
+                  "coords": [
+                        10.491208,
+                        33.34746
+                  ]
+            },
+            {
+                  "name": "Ksar Medenine - Skywalker Alley",
+                  "text": "Ksar Medenine - Skywalker Alley este faimos ca loc de filmare pentru cartierele sclavilor din filmul Războiul Stelelor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492268,
+                        33.347086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Costumes et des Traditions",
+                  "text": "The Musée des Costumes et des Traditions exhibits traditional garments and everyday objects of the southern Tunisian population.",
+                  "category": "museum",
+                  "coords": [
+                        10.491208,
+                        33.34746
+                  ]
+            },
+            {
+                  "name": "Ksar Medenine - Skywalker Alley",
+                  "text": "The Ksar Medenine - Skywalker Alley is famous as a filming location for the slave quarters in the movie Star Wars.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492268,
+                        33.347086
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TN-MD",
     coords: [10.500, 33.350],

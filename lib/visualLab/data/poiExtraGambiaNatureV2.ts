@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraGambiaNatureV2: POI[] = [
   {
-    id: "gambia-river-nature-v2",
+    id: "gambia-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyanaberi Forest Park",
+                  "text": "Dieser bewaldete Naturpark nahe dem Gambia-Fluss bewahrt dichte einheimische Vegetation und schützt die regionale Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -15.473693,
+                        13.425821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyanaberi Forest Park",
+                  "text": "Ez a Gambia-folyóhoz közeli erdős natúrpark megőrzi a sűrű őshonos növényzetet és védi a regionális vadvilágot.",
+                  "category": "natural",
+                  "coords": [
+                        -15.473693,
+                        13.425821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyanaberi Forest Park",
+                  "text": "Acest parc natural împădurit din apropierea râului Gambia conservă vegetația indigenă densă și protejează fauna regională.",
+                  "category": "natural",
+                  "coords": [
+                        -15.473693,
+                        13.425821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyanaberi Forest Park",
+                  "text": "This wooded nature park near the Gambia River preserves dense indigenous vegetation and protects regional wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -15.473693,
+                        13.425821
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GM-L",
     coords: [-15.5, 13.5],
@@ -103,7 +148,52 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kiang-west-national-park-nature-v2",
+    id: "kiang-west-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mutaro Kunda Forest Park",
+                  "text": "Dieser Waldpark grenzt an den Kiang-West-Nationalpark und erweitert die geschützten Lebensräume für Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        -15.80613,
+                        13.360382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mutaro Kunda Forest Park",
+                  "text": "Ez az erdőpark a Kiang West Nemzeti Parkkal határos, kibővítve a vadon élő állatok védett élőhelyét.",
+                  "category": "natural",
+                  "coords": [
+                        -15.80613,
+                        13.360382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mutaro Kunda Forest Park",
+                  "text": "Acest parc forestier se învecinează cu Parcul Național Kiang West, extinzând habitatele protejate pentru viața sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        -15.80613,
+                        13.360382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mutaro Kunda Forest Park",
+                  "text": "This forest park adjoins the Kiang West National Park, expanding the protected habitats for local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -15.80613,
+                        13.360382
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GM-L",
     coords: [-15.8, 13.4],
@@ -247,7 +337,52 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "bijilo-forest-park-nature-v2",
+    id: "bijilo-forest-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "MyFarm",
+                  "text": "MyFarm fungiert als landwirtschaftliche Bildungsattraktion mit dem Schwerpunkt auf nachhaltiger Landwirtschaft in bijilo-forest-park-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MyFarm",
+                  "text": "A MyFarm egy oktatási célú mezőgazdasági látványosságként működik, amely a fenntartható gazdálkodásra összpontosít bijilo-forest-park-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MyFarm",
+                  "text": "MyFarm funcționează ca o atracție agricolă educațională axată pe agricultura durabilă în bijilo-forest-park-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MyFarm",
+                  "text": "MyFarm operates as an educational agricultural attraction focusing on sustainable farming in bijilo-forest-park-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GM-W",
     coords: [-16.7, 13.4],
@@ -295,7 +430,88 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "abuko-nature-reserve-nature-v2",
+    id: "abuko-nature-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kanilai Farms",
+                  "text": "Die Kanilai Farms sind eine große landwirtschaftliche Attraktion, die lokale landwirtschaftliche Praktiken und ländliche Landschaften zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.66509,
+                        13.357708
+                  ]
+            },
+            {
+                  "name": "Abuko Nature Reserve",
+                  "text": "Das Abuko Nature Reserve ist ein renommierter Wildpark, der Galeriewälder und verschiedene einheimische Tierarten schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.652186,
+                        13.389971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kanilai Farms",
+                  "text": "A Kanilai Farms egy nagy mezőgazdasági látványosság, amely bemutatja a helyi gazdálkodási gyakorlatokat és a vidéki tájakat.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.66509,
+                        13.357708
+                  ]
+            },
+            {
+                  "name": "Abuko Nature Reserve",
+                  "text": "Az Abuko Természeti Rezervátum egy híres vadaspark, amely galériaerdőket és különféle őshonos állatfajokat véd.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.652186,
+                        13.389971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kanilai Farms",
+                  "text": "Kanilai Farms este o mare atracție agricolă care prezintă practicile agricole locale și peisajele rurale.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.66509,
+                        13.357708
+                  ]
+            },
+            {
+                  "name": "Abuko Nature Reserve",
+                  "text": "Rezervația naturală Abuko este un renumit parc zoologic care protejează pădurile galerie și diverse specii de animale autohtone.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.652186,
+                        13.389971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanilai Farms",
+                  "text": "Kanilai Farms is a large agricultural attraction that showcases local farming practices and rural landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.66509,
+                        13.357708
+                  ]
+            },
+            {
+                  "name": "Abuko Nature Reserve",
+                  "text": "Abuko Nature Reserve is a renowned wildlife park protecting gallery forests and diverse native animal species.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.652186,
+                        13.389971
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GM-W",
     coords: [-16.65, 13.39],
@@ -391,7 +607,52 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kunta-kinteh-island-nature-v2",
+    id: "kunta-kinteh-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "Diese kleine, denkmalgeschützte Insel im Gambia-Fluss war einst ein bedeutender Stützpunkt im transatlantischen Sklavenhandel.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361384,
+                        13.317459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "Ez a Gambia folyón található apró, műemlékvédelem alatt álló sziget egykor a transzatlanti rabszolgakereskedelem fontos állomása volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361384,
+                        13.317459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "Această mică insulă de patrimoniu de pe râul Gambia a fost odată un avanpost major în comerțul transatlantic cu sclavi.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361384,
+                        13.317459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "This small, heritage-listed island in the Gambia River was once a major outpost in the transatlantic slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361384,
+                        13.317459
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GM-N",
     coords: [-16.36, 13.31],
@@ -679,7 +940,88 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kotu-beach-nature-v2",
+    id: "kotu-beach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Dieser sandige Küstenstrand zeichnet sich durch eine Uferlinie aus, die häufig an nahegelegene Touristenresorts grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.710373,
+                        13.460804
+                  ]
+            },
+            {
+                  "name": "Kololi Beach",
+                  "text": "Dieser lebhafte sandige Küstenstrand liegt neben beliebten Urlaubsgebieten und Einrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.718542,
+                        13.454278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Ezt a homokos tengerpartot a közeli turistaközpontokkal határos partvonal jellemzi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.710373,
+                        13.460804
+                  ]
+            },
+            {
+                  "name": "Kololi Beach",
+                  "text": "Ez a nyüzsgő tengerparti homokos strand népszerű üdülőövezetek és kényelmi szolgáltatások mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.718542,
+                        13.454278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Această plajă cu nisip pe coastă prezintă un țărm mărginit frecvent de stațiuni turistice din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.710373,
+                        13.460804
+                  ]
+            },
+            {
+                  "name": "Kololi Beach",
+                  "text": "Această plajă vibrantă cu nisip pe coastă este situată alături de zone de stațiune și facilități populare.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.718542,
+                        13.454278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "This coastal sandy beach features a shoreline frequently backed by nearby tourist resorts.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.710373,
+                        13.460804
+                  ]
+            },
+            {
+                  "name": "Kololi Beach",
+                  "text": "This vibrant coastal sandy beach is situated alongside popular resort areas and amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.718542,
+                        13.454278
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "GM-W",
     coords: [-16.71, 13.46],
@@ -727,7 +1069,88 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kololi-beach-nature-v2",
+    id: "kololi-beach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Dieser Küstenwaldpark am Strand von Kololi wurde im Jahr 1982 zum Schutz der lokalen Primatenpopulation gegründet.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728712,
+                        13.431418
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Dieser beliebte Sandstrand in Kololi ist ein bekannter Treffpunkt für Sonnenanbeter an der Atlantikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725017,
+                        13.444384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Ezt a Kololi strandja mentén fekvő tengerparti erdőparkot 1982-ben hozták létre a helyi főemlősök védelmére.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728712,
+                        13.431418
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Ez a Kololiban található népszerű homokos part az Atlanti-óceán partvidékének egyik legismertebb strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725017,
+                        13.444384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Acest parc forestier de coastă de-a lungul plajei Kololi a fost înființat în anul 1982 pentru a proteja primatele locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728712,
+                        13.431418
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Această plajă de nisip populară din Kololi este o destinație de top pentru relaxare pe coasta Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725017,
+                        13.444384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Established in 1982, this coastal forest park along Kololi beach serves as a vital sanctuary for local primate species.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728712,
+                        13.431418
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "This popular sandy beach in Kololi is a prime destination for sun-seekers along the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725017,
+                        13.444384
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "GM-W",
     coords: [-16.72, 13.44],
@@ -967,7 +1390,52 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "allahein-river-nature-v2",
+    id: "allahein-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banta Woro",
+                  "text": "Eine bemerkenswerte Naturattraktion rund um einen hoch aufragenden traditionellen Kapokbaum.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.72141,
+                        12.995563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banta Woro",
+                  "text": "Figyelemre méltó természeti látványosság, amelynek középpontjában egy tornyosuló hagyományos kapokfa áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.72141,
+                        12.995563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banta Woro",
+                  "text": "O atracție naturală remarcabilă centrată în jurul unui arbore kapok tradițional falnic.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.72141,
+                        12.995563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kapok Bantang Woro",
+                  "text": "A notable natural attraction centered around a towering traditional kapok tree.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.72141,
+                        12.995563
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GM-W",
     coords: [-16.74, 13.06],
@@ -1063,7 +1531,52 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "tanbi-wetland-nature-v2",
+    id: "tanbi-wetland-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Dieser Nationalpark schützt ein ausgedehntes Netz aus Mangrovensümpfen an der Mündung des Gambia-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        -16.62448,
+                        13.427595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Ez a nemzeti park egy kiterjedt mangrovemocsár-rendszert véd a Gambia folyó torkolatánál.",
+                  "category": "natural",
+                  "coords": [
+                        -16.62448,
+                        13.427595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Acest parc național protejează o rețea vastă de mlaștini cu mangrove la gura râului Gambia.",
+                  "category": "natural",
+                  "coords": [
+                        -16.62448,
+                        13.427595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "This national park protects an extensive network of mangrove wetlands at the mouth of the Gambia River.",
+                  "category": "natural",
+                  "coords": [
+                        -16.62448,
+                        13.427595
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GM-W",
     coords: [-16.62, 13.43],
@@ -1159,7 +1672,52 @@ export const poiExtraGambiaNatureV2: POI[] = [
     },
   },
   {
-    id: "elephant-island-nature-v2",
+    id: "elephant-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Berikolon Forest Park",
+                  "text": "Dieses Naturschutzgebiet schützt einen wichtigen Lebensraum im Wald für die lokale Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -15.339967,
+                        13.393876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Berikolon Forest Park",
+                  "text": "Ez a természetvédelmi terület létfontosságú erdei élőhelyet véd a helyi növény- és állatvilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        -15.339967,
+                        13.393876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Berikolon Forest Park",
+                  "text": "Această rezervație naturală protejează un habitat forestier vital pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -15.339967,
+                        13.393876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berikolon Forest Park",
+                  "text": "This nature reserve protects a vital woodland habitat for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -15.339967,
+                        13.393876
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GM-L",
     coords: [-15.35, 13.44],

@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSenegalLandmarksV2: POI[] = [
   {
-    id: "sn-dakar-cathedral-landmarks-v2",
+    id: "sn-dakar-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Villa n°40",
+                  "text": "Diese historische Villa ist ein architektonisches Denkmal aus der Kolonialzeit in Dakar.",
+                  "category": "historical",
+                  "coords": [
+                        -17.44054,
+                        14.663736
+                  ]
+            },
+            {
+                  "name": "Musée Théodore-Monod d'Art africain",
+                  "text": "Dieses 1931 gegründete Museum in Dakar beherbergt eine umfangreiche Sammlung traditioneller afrikanischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -17.438256,
+                        14.663588
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Souvenir africain",
+                  "text": "Diese von Charles-Albert Wulffleff entworfene und 1936 eröffnete Kathedrale beeindruckt mit ihrer markanten Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437624,
+                        14.665398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa n°40",
+                  "text": "Ez a történelmi villa a gyarmati időszak egyik építészeti emléke Dakarban.",
+                  "category": "historical",
+                  "coords": [
+                        -17.44054,
+                        14.663736
+                  ]
+            },
+            {
+                  "name": "Musée Théodore-Monod d'Art africain",
+                  "text": "Ez az 1931-ben alapított dakari múzeum a hagyományos afrikai művészet kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -17.438256,
+                        14.663588
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Souvenir africain",
+                  "text": "A Charles-Albert Wulffleff által tervezett és 1936-ban megnyitott katedrális lenyűgöző építészetével hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437624,
+                        14.665398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa n°40",
+                  "text": "Această vilă istorică este un monument arhitectural din perioada colonială în Dakar.",
+                  "category": "historical",
+                  "coords": [
+                        -17.44054,
+                        14.663736
+                  ]
+            },
+            {
+                  "name": "Musée Théodore-Monod d'Art africain",
+                  "text": "Înființat în 1931, acest muzeu din Dakar găzduiește o colecție vastă de artă tradițională africană.",
+                  "category": "museum",
+                  "coords": [
+                        -17.438256,
+                        14.663588
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Souvenir africain",
+                  "text": "Proiectată de Charles-Albert Wulffleff și deschisă în 1936, această catedrală impresionează prin arhitectura sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437624,
+                        14.665398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa n°40",
+                  "text": "This historic villa stands as an architectural monument from the colonial era in Dakar.",
+                  "category": "historical",
+                  "coords": [
+                        -17.44054,
+                        14.663736
+                  ]
+            },
+            {
+                  "name": "Musée Théodore-Monod d'Art africain",
+                  "text": "Established in 1931, this museum in Dakar houses an extensive collection of traditional African art.",
+                  "category": "museum",
+                  "coords": [
+                        -17.438256,
+                        14.663588
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Souvenir africain",
+                  "text": "Designed by Charles-Albert Wulffleff and opened in 1936, this cathedral features striking architectural details.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.437624,
+                        14.665398
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4363, 14.6641],
@@ -99,7 +216,52 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-leopold-sedar-senghor-stadium-landmarks-v2",
+    id: "sn-leopold-sedar-senghor-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie Leopold Sédar SENGHOR",
+                  "text": "Die Galerie Leopold Sédar SENGHOR ist eine Indoor-Kunstgalerie in der Nähe von sn-leopold-sedar-senghor-stadium-landmarks-v2, die vielfältige visuelle Ausstellungen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -17.457084,
+                        14.746373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie Leopold Sédar SENGHOR",
+                  "text": "A Galerie Leopold Sédar SENGHOR egy beltéri művészeti galéria az sn-leopold-sedar-senghor-stadium-landmarks-v2 közelében, amely változatos vizuális kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.457084,
+                        14.746373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie Leopold Sédar SENGHOR",
+                  "text": "Galerie Leopold Sédar SENGHOR este o galerie de artă interioară lângă sn-leopold-sedar-senghor-stadium-landmarks-v2, prezentând diverse expoziții vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        -17.457084,
+                        14.746373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie Leopold Sédar SENGHOR",
+                  "text": "Galerie Leopold Sédar SENGHOR is an indoor art gallery near sn-leopold-sedar-senghor-stadium-landmarks-v2, featuring diverse visual exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -17.457084,
+                        14.746373
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4491, 14.7458],
@@ -195,7 +357,124 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-museum-black-civilisations-landmarks-v2",
+    id: "sn-museum-black-civilisations-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galé madiagne",
+                  "text": "Diese lokale Sehenswürdigkeit in der Nähe des Museums der Schwarzen Zivilisationen bietet Besuchern einen Einblick in die lebendige Straßenkultur Dakars.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433511,
+                        14.673164
+                  ]
+            },
+            {
+                  "name": "Marché malien",
+                  "text": "Dieser geschäftige Markt ist auf malische Waren spezialisiert und bietet farbenfrohe Textilien sowie traditionelles westafrikanisches Kunsthandwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433758,
+                        14.675956
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations Noires",
+                  "text": "Dieses am 6. Dezember 2018 eröffnete bedeutende Museum feiert die Geschichte, Kunst und das kulturelle Erbe der schwarzen Zivilisationen weltweit.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435072,
+                        14.67745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galé madiagne",
+                  "text": "A Fekete Civilizációk Múzeuma közelében lévő helyi látványosság bepillantást enged Dakar nyüzsgő utcai kultúrájába.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433511,
+                        14.673164
+                  ]
+            },
+            {
+                  "name": "Marché malien",
+                  "text": "Ez a nyüzsgő piac a mali árukra specializálódott, színes textíliákat és hagyományos nyugat-afrikai kézműves termékeket kínálva.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433758,
+                        14.675956
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations Noires",
+                  "text": "A 2018. december 6-án megnyílt jelentős múzeum a fekete civilizációk történetét, művészetét és kulturális örökségét ünnepli világszerte.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435072,
+                        14.67745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galé madiagne",
+                  "text": "Această atracție locală din apropierea Muzeului Civilizațiilor Negre oferă vizitatorilor o privire asupra culturii stradale vibrante din Dakar.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433511,
+                        14.673164
+                  ]
+            },
+            {
+                  "name": "Marché malien",
+                  "text": "Această piață plină de viață este specializată în produse din Mali, prezentând textile colorate și artizanat tradițional vest-african.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433758,
+                        14.675956
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations Noires",
+                  "text": "Deschis pe 6 decembrie 2018, acest muzeu major celebrează istoria, arta și moștenirea culturală a civilizațiilor negre din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435072,
+                        14.67745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galé madiagne",
+                  "text": "This local attraction near the Museum of Black Civilisations offers visitors a glimpse into Dakar's vibrant street culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433511,
+                        14.673164
+                  ]
+            },
+            {
+                  "name": "Marché malien",
+                  "text": "This bustling market specializes in Malian goods, featuring colorful textiles and traditional West African crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.433758,
+                        14.675956
+                  ]
+            },
+            {
+                  "name": "Musée des Civilisations Noires",
+                  "text": "Opened on December 6, 2018, this major museum celebrates the history, art, and cultural heritage of Black civilizations worldwide.",
+                  "category": "museum",
+                  "coords": [
+                        -17.435072,
+                        14.67745
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4334, 14.6738],
@@ -243,7 +522,52 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-dakar-grand-theatre-landmarks-v2",
+    id: "sn-dakar-grand-theatre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agence Trames",
+                  "text": "Diese zeitgenössische Galerie in der Nähe des Grand Théâtre präsentiert moderne Kunstwerke und lokale Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -17.432033,
+                        14.671475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agence Trames",
+                  "text": "Ez a Grand Theatre közelében található kortárs galéria modern művészeti alkotásokat és helyi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.432033,
+                        14.671475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agence Trames",
+                  "text": "Această galerie contemporană de lângă Grand Theatre prezintă creații artistice moderne și expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        -17.432033,
+                        14.671475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agence Trames",
+                  "text": "This contemporary gallery near the Grand Theatre showcases modern artistic creations and local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -17.432033,
+                        14.671475
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4326, 14.6731],
@@ -291,7 +615,88 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-palais-de-la-republique-landmarks-v2",
+    id: "sn-palais-de-la-republique-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anse Bernard",
+                  "text": "Anse Bernard ist ein Küstenstrand in der Nähe von sn-palais-de-la-republique-landmarks-v2, der sandige Abschnitte entlang der Bucht bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.434008,
+                        14.659503
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse Bernard",
+                  "text": "Plage de l'Anse Bernard ist ein malerisches, sandiges Erholungsgebiet am Meer in der Umgebung von sn-palais-de-la-republique-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433725,
+                        14.656863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anse Bernard",
+                  "text": "Az Anse Bernard egy tengerparti strand az sn-palais-de-la-republique-landmarks-v2 közelében, amely homokos szakaszokat kínál az öböl mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.434008,
+                        14.659503
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse Bernard",
+                  "text": "A Plage de l'Anse Bernard egy festői, homokos óceánparti rekreációs terület az sn-palais-de-la-republique-landmarks-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433725,
+                        14.656863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anse Bernard",
+                  "text": "Anse Bernard este o plajă de coastă situată lângă sn-palais-de-la-republique-landmarks-v2, oferind întinderi de nisip de-a lungul golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.434008,
+                        14.659503
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse Bernard",
+                  "text": "Plage de l'Anse Bernard este o zonă de recreere pitorească, cu nisip pe malul oceanului, situată în vecinătatea sn-palais-de-la-republique-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433725,
+                        14.656863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anse Bernard",
+                  "text": "Anse Bernard is a coastal shoreline beach situated near sn-palais-de-la-republique-landmarks-v2, offering sandy stretches along the cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.434008,
+                        14.659503
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse Bernard",
+                  "text": "Plage de l'Anse Bernard is a scenic, sandy oceanfront recreation area located in the sn-palais-de-la-republique-landmarks-v2 vicinity.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433725,
+                        14.656863
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4322, 14.6622],
@@ -339,7 +744,52 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-bceao-tower-landmarks-v2",
+    id: "sn-bceao-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "OH Gallery",
+                  "text": "Die OH Gallery ist ein Ausstellungsraum für zeitgenössische Kunst in Innenräumen im Viertel sn-bceao-tower-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -17.43667,
+                        14.666048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "OH Gallery",
+                  "text": "Az OH Gallery egy beltéri kortárs művészeti kiállítótér az sn-bceao-tower-landmarks-v2 negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        -17.43667,
+                        14.666048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "OH Gallery",
+                  "text": "OH Gallery este un spațiu interior de expoziție de artă contemporană situat în cartierul sn-bceao-tower-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -17.43667,
+                        14.666048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "OH Gallery",
+                  "text": "OH Gallery is an indoor contemporary art exhibition space situated in the sn-bceao-tower-landmarks-v2 district.",
+                  "category": "museum",
+                  "coords": [
+                        -17.43667,
+                        14.666048
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.435, 14.6653],
@@ -387,7 +837,232 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-mosquee-divinite-landmarks-v2",
+    id: "sn-mosquee-divinite-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Bulle",
+                  "text": "Ein einzigartig gestaltetes Denkmal, das eine kugelförmige Blasenarchitektur präsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        -17.487458,
+                        14.727899
+                  ]
+            },
+            {
+                  "name": "Kenu laboratoire des Imaginaires",
+                  "text": "Ein experimentelles Kunstzentrum, das sich auf zeitgenössische kreative Projekte konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.481604,
+                        14.728425
+                  ]
+            },
+            {
+                  "name": "Ecsil",
+                  "text": "Eine lokale Touristenattraktion in der Küstenregion von Ouakam.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.478533,
+                        14.711309
+                  ]
+            },
+            {
+                  "name": "Chez Abdou",
+                  "text": "Ein lokaler Theater- und Veranstaltungsort in der Nähe der Küste von Ouakam.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.470484,
+                        14.726298
+                  ]
+            },
+            {
+                  "name": "Les Petites Pierres",
+                  "text": "Ein gemeinschaftliches Kunstzentrum, das kreative Veranstaltungen für die Gemeinde ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.483937,
+                        14.728596
+                  ]
+            },
+            {
+                  "name": "CUMINB - Cercle Mess des Officiers;Cunimb",
+                  "text": "Ein ehemaliges Offizierskasino, das heute als kulturelles Kunstzentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.484226,
+                        14.729536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Bulle",
+                  "text": "Egyedi tervezésű emlékmű, amely gömb alakú buboréképítészetet mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        -17.487458,
+                        14.727899
+                  ]
+            },
+            {
+                  "name": "Kenu laboratoire des Imaginaires",
+                  "text": "Kísérleti művészeti központ, amely a kortárs kreatív projektekre fókuszál.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.481604,
+                        14.728425
+                  ]
+            },
+            {
+                  "name": "Ecsil",
+                  "text": "Helyi turisztikai látványosság az ouakami tengerparti övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.478533,
+                        14.711309
+                  ]
+            },
+            {
+                  "name": "Chez Abdou",
+                  "text": "Helyi színházi és előadóterem az ouakami partvidék közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.470484,
+                        14.726298
+                  ]
+            },
+            {
+                  "name": "Les Petites Pierres",
+                  "text": "Együttműködésen alapuló művészeti központ, amely kreatív közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.483937,
+                        14.728596
+                  ]
+            },
+            {
+                  "name": "CUMINB - Cercle Mess des Officiers;Cunimb",
+                  "text": "Egykori tiszti étkezde, amely ma kulturális művészeti központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.484226,
+                        14.729536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Bulle",
+                  "text": "Un monument cu un design unic, prezentând o arhitectură sferică sub formă de bule.",
+                  "category": "historical",
+                  "coords": [
+                        -17.487458,
+                        14.727899
+                  ]
+            },
+            {
+                  "name": "Kenu laboratoire des Imaginaires",
+                  "text": "Un centru de arte experimental concentrat pe proiecte creative contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.481604,
+                        14.728425
+                  ]
+            },
+            {
+                  "name": "Ecsil",
+                  "text": "O atracție turistică locală amplasată în zona de coastă Ouakam.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.478533,
+                        14.711309
+                  ]
+            },
+            {
+                  "name": "Chez Abdou",
+                  "text": "O sală locală de teatru și spectacole care funcționează în apropierea coastei Ouakam.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.470484,
+                        14.726298
+                  ]
+            },
+            {
+                  "name": "Les Petites Pierres",
+                  "text": "Un centru de arte colaborativ care găzduiește evenimente comunitare creative.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.483937,
+                        14.728596
+                  ]
+            },
+            {
+                  "name": "CUMINB - Cercle Mess des Officiers;Cunimb",
+                  "text": "O fostă popotă a ofițerilor care funcționează acum ca un centru de arte culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.484226,
+                        14.729536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Bulle",
+                  "text": "A uniquely designed monument showcasing spherical bubble architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -17.487458,
+                        14.727899
+                  ]
+            },
+            {
+                  "name": "Kenu laboratoire des Imaginaires",
+                  "text": "An experimental arts center focused on contemporary creative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.481604,
+                        14.728425
+                  ]
+            },
+            {
+                  "name": "Ecsil",
+                  "text": "A local tourist attraction set in the Ouakam coastal area.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.478533,
+                        14.711309
+                  ]
+            },
+            {
+                  "name": "Chez Abdou",
+                  "text": "A local theatrical and performance venue operating near the Ouakam coastline.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.470484,
+                        14.726298
+                  ]
+            },
+            {
+                  "name": "Les Petites Pierres",
+                  "text": "A collaborative arts center hosting creative community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.483937,
+                        14.728596
+                  ]
+            },
+            {
+                  "name": "CUMINB - Cercle Mess des Officiers;Cunimb",
+                  "text": "A former officers' mess now functioning as a cultural arts center.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.484226,
+                        14.729536
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4883, 14.7264],
@@ -579,7 +1254,412 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-basilique-popenguine-landmarks-v2",
+    id: "sn-basilique-popenguine-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Accrobaobab adventure",
+                  "text": "Dieser einzigartige Abenteuerpark verfügt über Hindernisparcours in der Luft, die direkt in die Äste uralter Affenbrotbäume gebaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.027715,
+                        14.54335
+                  ]
+            },
+            {
+                  "name": "parasols de Boubacar",
+                  "text": "Dieser entspannte Strandresort-Bereich bietet schattige Erholung unter seinen ikonischen Sonnenschirmen an der Küste von Popenguine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.108056,
+                        14.548809
+                  ]
+            },
+            {
+                  "name": "Falaises de la réserve naturelle de Popenguine",
+                  "text": "Diese dramatischen Küstenklippen bilden ein wichtiges geografisches Merkmal des Naturschutzgebiets Popenguine.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.104647,
+                        14.541414
+                  ]
+            },
+            {
+                  "name": "Rochers sculptés",
+                  "text": "Diese faszinierenden skulpturalen Felsen entlang der Küste wurden durch jahrhundertelange Meereserosion auf natürliche Weise geformt.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.111031,
+                        14.550932
+                  ]
+            },
+            {
+                  "name": "Théatre Gérard Chenet",
+                  "text": "Dieser kulturelle Theatersaal beherbergt Theaterproduktionen und gemeinschaftliche Kunstveranstaltungen in Popenguine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.130838,
+                        14.591581
+                  ]
+            },
+            {
+                  "name": "Terranga Bike",
+                  "text": "Ein auf Radfahren ausgerichteter Themenpark in der Nähe von Popenguine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.106673,
+                        14.558769
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Engouement",
+                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste in der Gegend von Popenguine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.127995,
+                        14.599375
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame de la Délivrance de Popenguine",
+                  "text": "Eine katholische Basilica minor, die als wichtiger Wallfahrtsort im Senegal dient.",
+                  "category": "religious",
+                  "coords": [
+                        -17.111515,
+                        14.554683
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Popenguine",
+                  "text": "Ein Küstennaturschutzgebiet, das für seine geschützten felsigen Klippen und seine Vogelwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -17.090461,
+                        14.545838
+                  ]
+            },
+            {
+                  "name": "Espace Sobbo Badé",
+                  "text": "Ein lebendiges Kunstzentrum, das durch seine markante Mosaik- und Steinarchitektur besticht.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.151203,
+                        14.605692
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Popenguine",
+                  "text": "Ein klassifiziertes Waldgebiet zum Schutz der lokalen Küstenvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -17.078169,
+                        14.574231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Accrobaobab adventure",
+                  "text": "Ez az egyedülálló kalandpark ősi majomkenyérfák ágaira épített légi akadálypályákkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.027715,
+                        14.54335
+                  ]
+            },
+            {
+                  "name": "parasols de Boubacar",
+                  "text": "Ez a nyugodt tengerparti üdülőövezet árnyékos pihenést kínál ikonikus napernyői alatt a popenguine-i parton.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.108056,
+                        14.548809
+                  ]
+            },
+            {
+                  "name": "Falaises de la réserve naturelle de Popenguine",
+                  "text": "Ezek a drámai tengerparti sziklák a Popenguine természetvédelmi terület egyik legfontosabb földrajzi jellemzőjét alkotják.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.104647,
+                        14.541414
+                  ]
+            },
+            {
+                  "name": "Rochers sculptés",
+                  "text": "Ezeket a lenyűgöző szoborszerű sziklákat a part mentén az óceáni erózió évszázadai formálták természetes módon.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.111031,
+                        14.550932
+                  ]
+            },
+            {
+                  "name": "Théatre Gérard Chenet",
+                  "text": "Ez a kulturális színházi helyszín színházi produkcióknak és közösségi művészeti eseményeknek ad otthont Popenguine-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.130838,
+                        14.591581
+                  ]
+            },
+            {
+                  "name": "Terranga Bike",
+                  "text": "Kerékpározásra fókuszáló vidámpark Popenguine közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.106673,
+                        14.558769
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Engouement",
+                  "text": "Helyi előadóművészeti helyszín a Popenguine régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.127995,
+                        14.599375
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame de la Délivrance de Popenguine",
+                  "text": "Katolikus basilica minor, amely Szenegál egyik legfontosabb zarándokhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -17.111515,
+                        14.554683
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Popenguine",
+                  "text": "Védett sziklás szirtjeiről és madárvilágáról ismert tengerparti természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -17.090461,
+                        14.545838
+                  ]
+            },
+            {
+                  "name": "Espace Sobbo Badé",
+                  "text": "Élénk művészeti központ, amely jellegzetes mozaik- és kőépítészetével tűnik ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.151203,
+                        14.605692
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Popenguine",
+                  "text": "Minősített erdőterület, amely a helyi tengerparti növényzetet védi.",
+                  "category": "natural",
+                  "coords": [
+                        -17.078169,
+                        14.574231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Accrobaobab adventure",
+                  "text": "Acest parc de aventură unic are trasee de obstacole aeriene construite direct în ramurile baobabilor antici.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.027715,
+                        14.54335
+                  ]
+            },
+            {
+                  "name": "parasols de Boubacar",
+                  "text": "Această zonă de stațiune de plajă relaxată oferă odihnă la umbra sub umbrelele sale emblematice de pe coasta Popenguine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.108056,
+                        14.548809
+                  ]
+            },
+            {
+                  "name": "Falaises de la réserve naturelle de Popenguine",
+                  "text": "Aceste stânci de coastă dramatice reprezintă o caracteristică geografică cheie a rezervației naturale Popenguine.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.104647,
+                        14.541414
+                  ]
+            },
+            {
+                  "name": "Rochers sculptés",
+                  "text": "Aceste stânci sculptate fascinante de-a lungul coastei au fost modelate natural de secole de eroziune oceanică.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.111031,
+                        14.550932
+                  ]
+            },
+            {
+                  "name": "Théatre Gérard Chenet",
+                  "text": "Acest loc cultural de teatru găzduiește producții teatrale și evenimente artistice ale comunității în Popenguine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.130838,
+                        14.591581
+                  ]
+            },
+            {
+                  "name": "Terranga Bike",
+                  "text": "Un parc tematic axat pe ciclism, situat în apropiere de Popenguine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.106673,
+                        14.558769
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Engouement",
+                  "text": "O sală locală de arte ale spectacolului care funcționează în zona Popenguine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.127995,
+                        14.599375
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame de la Délivrance de Popenguine",
+                  "text": "O basilică minoră catolică ce servește drept un loc major de pelerinaj în Senegal.",
+                  "category": "religious",
+                  "coords": [
+                        -17.111515,
+                        14.554683
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Popenguine",
+                  "text": "O rezervație naturală de coastă cunoscută pentru stâncile sale protejate și avifaună.",
+                  "category": "natural",
+                  "coords": [
+                        -17.090461,
+                        14.545838
+                  ]
+            },
+            {
+                  "name": "Espace Sobbo Badé",
+                  "text": "Un centru de arte vibrant, construit cu o arhitectură distinctivă din mozaic și piatră.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.151203,
+                        14.605692
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Popenguine",
+                  "text": "O pădure clasificată care protejează vegetația de coastă locală.",
+                  "category": "natural",
+                  "coords": [
+                        -17.078169,
+                        14.574231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Accrobaobab adventure",
+                  "text": "This unique adventure park features aerial obstacle courses built directly into the branches of ancient baobab trees.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.027715,
+                        14.54335
+                  ]
+            },
+            {
+                  "name": "parasols de Boubacar",
+                  "text": "This relaxed beach resort area offers shaded relaxation under its iconic parasols by the Popenguine coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.108056,
+                        14.548809
+                  ]
+            },
+            {
+                  "name": "Falaises de la réserve naturelle de Popenguine",
+                  "text": "These dramatic coastal cliffs form a key geographical feature of the Popenguine nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.104647,
+                        14.541414
+                  ]
+            },
+            {
+                  "name": "Rochers sculptés",
+                  "text": "These fascinating sculpted rocks along the coastline have been naturally shaped by centuries of oceanic erosion.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.111031,
+                        14.550932
+                  ]
+            },
+            {
+                  "name": "Théatre Gérard Chenet",
+                  "text": "This cultural theatre venue hosts theatrical productions and community arts events in Popenguine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.130838,
+                        14.591581
+                  ]
+            },
+            {
+                  "name": "Terranga Bike",
+                  "text": "A cycling-focused theme park situated near Popenguine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.106673,
+                        14.558769
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Engouement",
+                  "text": "A local performing arts venue operating in the Popenguine area.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.127995,
+                        14.599375
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame de la Délivrance de Popenguine",
+                  "text": "A Catholic minor basilica serving as a major pilgrimage site in Senegal.",
+                  "category": "religious",
+                  "coords": [
+                        -17.111515,
+                        14.554683
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Popenguine",
+                  "text": "A coastal nature reserve known for its protected rocky cliffs and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        -17.090461,
+                        14.545838
+                  ]
+            },
+            {
+                  "name": "Espace Sobbo Badé",
+                  "text": "A vibrant arts center constructed with distinctive mosaic and stone architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.151203,
+                        14.605692
+                  ]
+            },
+            {
+                  "name": "Forêt classée de Popenguine",
+                  "text": "A classified forest area protecting the local coastal vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -17.078169,
+                        14.574231
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-TH",
     coords: [-17.113, 14.5558],
@@ -627,7 +1707,52 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-saint-louis-cathedral-landmarks-v2",
+    id: "sn-saint-louis-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de l'Aéropostale Jean Mermoz",
+                  "text": "Das Jean-Mermoz-Museum ist den Pionieren der Aéropostale gewidmet und schildert die Rolle von Saint-Louis in der frühen transatlantischen Luftfahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503927,
+                        16.025848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de l'Aéropostale Jean Mermoz",
+                  "text": "A Jean Mermoz Múzeum az Aéropostale úttörőinek állít emléket, részletezve Saint-Louis szerepét a korai transzatlanti repülésben.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503927,
+                        16.025848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de l'Aéropostale Jean Mermoz",
+                  "text": "Muzeul Jean Mermoz este dedicat pionierilor curselor Aéropostale, detaliind rolul orașului Saint-Louis în aviația transatlantică timpurie.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503927,
+                        16.025848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de l'Aéropostale Jean Mermoz",
+                  "text": "The Jean Mermoz Museum is dedicated to the pioneers of the Aéropostale, detailing Saint-Louis's role in early transatlantic aviation.",
+                  "category": "museum",
+                  "coords": [
+                        -16.503927,
+                        16.025848
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-SL",
     coords: [-16.5028, 16.0261],
@@ -675,7 +1800,88 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-place-nation-obelisque-landmarks-v2",
+    id: "sn-place-nation-obelisque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Technique Couturière",
+                  "text": "Dieses Zentrum für technische Künste konzentriert sich auf traditionelle und moderne Schneiderei und bewahrt das senegalesische Textilhandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.455157,
+                        14.692949
+                  ]
+            },
+            {
+                  "name": "Place de l'Obélisque",
+                  "text": "Dieser weitläufige öffentliche Platz rund um einen markanten Obelisken ist ein historischer Versammlungsort für nationale Feierlichkeiten in Dakar.",
+                  "category": "park",
+                  "coords": [
+                        -17.448279,
+                        14.694627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Technique Couturière",
+                  "text": "Ez a műszaki és művészeti központ a hagyományos és modern szabászatra összpontosít, megőrizve a szenegáli textilművészetet.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.455157,
+                        14.692949
+                  ]
+            },
+            {
+                  "name": "Place de l'Obélisque",
+                  "text": "A kiemelkedő obeliszk köré épült tágas központi tér a dakari nemzeti ünnepek történelmi gyülekezőhelye.",
+                  "category": "park",
+                  "coords": [
+                        -17.448279,
+                        14.694627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Technique Couturière",
+                  "text": "Acest centru de arte tehnice se concentrează pe croitoria tradițională și modernă, păstrând meșteșugurile textile senegaleze.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.455157,
+                        14.692949
+                  ]
+            },
+            {
+                  "name": "Place de l'Obélisque",
+                  "text": "Centrată în jurul unui obelisc proeminent, această piață publică vastă este un loc istoric de adunare pentru sărbătorile naționale din Dakar.",
+                  "category": "park",
+                  "coords": [
+                        -17.448279,
+                        14.694627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Technique Couturière",
+                  "text": "This technical arts center focuses on traditional and modern tailoring, preserving Senegalese textile crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.455157,
+                        14.692949
+                  ]
+            },
+            {
+                  "name": "Place de l'Obélisque",
+                  "text": "Centered around a prominent obelisk, this expansive public square is a historic gathering site for national celebrations in Dakar.",
+                  "category": "park",
+                  "coords": [
+                        -17.448279,
+                        14.694627
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4475, 14.6933],
@@ -771,7 +1977,124 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-aline-sitoe-diatta-stadium-landmarks-v2",
+    id: "sn-aline-sitoe-diatta-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "centre culturel regional",
+                  "text": "Dieses regionale Kunstzentrum befindet sich in der Nähe des Stadions Aline Sitoe Diatta und fördert die senegalesische Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.267354,
+                        12.565724
+                  ]
+            },
+            {
+                  "name": "Alliance Franco-sénégalaise",
+                  "text": "Diese kulturelle Einrichtung stärkt durch Ausstellungen und Veranstaltungen die französisch-senegalesischen Beziehungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.277566,
+                        12.568166
+                  ]
+            },
+            {
+                  "name": "Hôtel Néma Kadior",
+                  "text": "Dieses Hotel bietet Unterkünfte in der Nähe der sportlichen Wahrzeichen von Ziguinchor, wie dem Aline Sitoe Diatta Stadion.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.27473,
+                        12.566749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "centre culturel regional",
+                  "text": "Ez a regionális művészeti központ az Aline Sitoe Diatta stadion közelében található, és a szenegáli kultúrát népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.267354,
+                        12.565724
+                  ]
+            },
+            {
+                  "name": "Alliance Franco-sénégalaise",
+                  "text": "Ez a kulturális intézmény kiállításokon és rendezvényeken keresztül erősíti a francia-szenegáli kapcsolatokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.277566,
+                        12.568166
+                  ]
+            },
+            {
+                  "name": "Hôtel Néma Kadior",
+                  "text": "Ez a szálloda szállást kínál Ziguinchor sportlétesítményei, például az Aline Sitoe Diatta stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.27473,
+                        12.566749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "centre culturel regional",
+                  "text": "Acest centru regional de artă este situat lângă stadionul Aline Sitoe Diatta și promovează cultura senegaleză.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.267354,
+                        12.565724
+                  ]
+            },
+            {
+                  "name": "Alliance Franco-sénégalaise",
+                  "text": "Această instituție culturală consolidează relațiile franco-senegaleze prin expoziții și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.277566,
+                        12.568166
+                  ]
+            },
+            {
+                  "name": "Hôtel Néma Kadior",
+                  "text": "Acest hotel oferă cazare convenabilă în apropierea reperelor sportive din Ziguinchor, precum stadionul Aline Sitoe Diatta.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.27473,
+                        12.566749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "centre culturel regional",
+                  "text": "This regional arts centre is located near the Aline Sitoe Diatta stadium and promotes Senegalese cultural expression.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.267354,
+                        12.565724
+                  ]
+            },
+            {
+                  "name": "Alliance Franco-sénégalaise",
+                  "text": "This cultural institution fosters Franco-Senegalese relations through various artistic exhibitions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.277566,
+                        12.568166
+                  ]
+            },
+            {
+                  "name": "Hôtel Néma Kadior",
+                  "text": "This hotel provides convenient accommodation near the sporting landmarks of Ziguinchor, such as the Aline Sitoe Diatta stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.27473,
+                        12.566749
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-ZG",
     coords: [-16.2758, 12.5761],
@@ -819,7 +2142,232 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-grande-mosquee-tivaouane-landmarks-v2",
+    id: "sn-grande-mosquee-tivaouane-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "monument de tivaouane",
+                  "text": "Dieses lokale Denkmal erinnert an das kulturelle und religiöse Erbe von Tivaouane.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808824,
+                        14.959425
+                  ]
+            },
+            {
+                  "name": "Keur Serigne Mbaye Mansour Sy",
+                  "text": "Diese majestätische Residenz ist mit der einflussreichen Familie Sy in der historischen Stadt Tivaouane verbunden.",
+                  "category": "castle",
+                  "coords": [
+                        -16.814368,
+                        14.948582
+                  ]
+            },
+            {
+                  "name": "Gare de Tivaouane",
+                  "text": "Dieser historische Bahnhof erinnert an das Verkehrsnetz der Kolonialzeit in Tivaouane.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.816802,
+                        14.953464
+                  ]
+            },
+            {
+                  "name": "centre de perfectionnement des artisans ruraux",
+                  "text": "Dieses ländliche Kunstzentrum konzentriert sich auf die Verfeinerung der Fähigkeiten lokaler Handwerker und die Erhaltung traditioneller senegalesischer Handwerkstechniken.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.818191,
+                        14.953938
+                  ]
+            },
+            {
+                  "name": "Mausolé Serigne Babacar Sy",
+                  "text": "Dieses verehrte Mausoleum ehrt Serigne Babacar Sy, einen prominenten Führer der Tijaniyyah-Sufi-Bruderschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.813744,
+                        14.950827
+                  ]
+            },
+            {
+                  "name": "Village artisanal de Tivaouane",
+                  "text": "Dieses Handwerkerdorf präsentiert die Kunstfertigkeit lokaler Schöpfer und bietet traditionelle senegalesische Waren und Kunstwerke an.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.813537,
+                        14.953825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "monument de tivaouane",
+                  "text": "Ez a helyi emlékmű Tivaouane kulturális és vallási örökségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808824,
+                        14.959425
+                  ]
+            },
+            {
+                  "name": "Keur Serigne Mbaye Mansour Sy",
+                  "text": "Ez a fenséges rezidencia a befolyásos Sy családhoz kötődik Tivaouane történelmi városában.",
+                  "category": "castle",
+                  "coords": [
+                        -16.814368,
+                        14.948582
+                  ]
+            },
+            {
+                  "name": "Gare de Tivaouane",
+                  "text": "Ez a történelmi vasútállomás a gyarmati idők közlekedési hálózatának emlékét őrzi Tivaouane-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.816802,
+                        14.953464
+                  ]
+            },
+            {
+                  "name": "centre de perfectionnement des artisans ruraux",
+                  "text": "Ez a vidéki művészeti központ a helyi kézművesek készségeinek finomítására és a hagyományos szenegáli kézműves technikák megőrzésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.818191,
+                        14.953938
+                  ]
+            },
+            {
+                  "name": "Mausolé Serigne Babacar Sy",
+                  "text": "Ez a tiszteletreméltó mauzóleum Serigne Babacar Sy-nek, a Tijaniyyah szufi testvériség kiemelkedő vezetőjének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.813744,
+                        14.950827
+                  ]
+            },
+            {
+                  "name": "Village artisanal de Tivaouane",
+                  "text": "Ez a kézműves falu a helyi alkotók mesterségbeli tudását mutatja be, hagyományos szenegáli árukat és műalkotásokat kínálva.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.813537,
+                        14.953825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "monument de tivaouane",
+                  "text": "Acest monument local comemorează moștenirea culturală și religioasă din Tivaouane.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808824,
+                        14.959425
+                  ]
+            },
+            {
+                  "name": "Keur Serigne Mbaye Mansour Sy",
+                  "text": "Această reședință maiestuoasă este asociată cu influenta familie Sy din orașul istoric Tivaouane.",
+                  "category": "castle",
+                  "coords": [
+                        -16.814368,
+                        14.948582
+                  ]
+            },
+            {
+                  "name": "Gare de Tivaouane",
+                  "text": "Această gară istorică amintește de rețeaua de transport din epoca colonială din Tivaouane.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.816802,
+                        14.953464
+                  ]
+            },
+            {
+                  "name": "centre de perfectionnement des artisans ruraux",
+                  "text": "Acest centru de artă rurală se concentrează pe perfecționarea abilităților meșterilor locali și pe conservarea tehnicilor artizanale tradiționale senegaleze.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.818191,
+                        14.953938
+                  ]
+            },
+            {
+                  "name": "Mausolé Serigne Babacar Sy",
+                  "text": "Acest mausoleu venerat îl onorează pe Serigne Babacar Sy, un lider proeminent al frăției sufi Tijaniyyah.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.813744,
+                        14.950827
+                  ]
+            },
+            {
+                  "name": "Village artisanal de Tivaouane",
+                  "text": "Acest sat de artizani prezintă măiestria creatorilor locali, oferind produse și opere de artă tradiționale senegaleze.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.813537,
+                        14.953825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "monument de tivaouane",
+                  "text": "This local monument commemorates the cultural and religious heritage of Tivaouane.",
+                  "category": "historical",
+                  "coords": [
+                        -16.808824,
+                        14.959425
+                  ]
+            },
+            {
+                  "name": "Keur Serigne Mbaye Mansour Sy",
+                  "text": "This majestic residence is associated with the influential Sy family in the historic city of Tivaouane.",
+                  "category": "castle",
+                  "coords": [
+                        -16.814368,
+                        14.948582
+                  ]
+            },
+            {
+                  "name": "Gare de Tivaouane",
+                  "text": "This historic railway station stands as a reminder of the colonial-era transport network in Tivaouane.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.816802,
+                        14.953464
+                  ]
+            },
+            {
+                  "name": "centre de perfectionnement des artisans ruraux",
+                  "text": "This rural arts centre focuses on refining the skills of local craftsmen and preserving traditional Senegalese artisanal techniques.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.818191,
+                        14.953938
+                  ]
+            },
+            {
+                  "name": "Mausolé Serigne Babacar Sy",
+                  "text": "This revered mausoleum honors Serigne Babacar Sy, a prominent leader of the Tijaniyyah Sufi brotherhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.813744,
+                        14.950827
+                  ]
+            },
+            {
+                  "name": "Village artisanal de Tivaouane",
+                  "text": "This artisan village showcases the craftsmanship of local creators, offering traditional Senegalese goods and artworks.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.813537,
+                        14.953825
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-TH",
     coords: [-16.8153, 14.9536],
@@ -867,7 +2415,124 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-massalikoul-jinaan-mosque-landmarks-v2",
+    id: "sn-massalikoul-jinaan-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reptilarium de Hann",
+                  "text": "Das Reptilarium de Hann ist ein spezialisierter Reptilienzoo in der Nähe von sn-massalikoul-jinaan-mosque-landmarks-v2, der verschiedene Schlangen- und Echsenarten in Gehegen beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433303,
+                        14.725722
+                  ]
+            },
+            {
+                  "name": "FabLab DefkoAkNiep",
+                  "text": "Das 2014 in der Nähe von sn-massalikoul-jinaan-mosque-landmarks-v2 gegründete FabLab DefkoAkNiep ist ein kollaboratives Kunstzentrum und ein kreativer Indoor-Werkstattraum.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.458222,
+                        14.713506
+                  ]
+            },
+            {
+                  "name": "Zoo de Hann",
+                  "text": "Der Zoo de Hann ist ein geschlossener zoologischer Park im Gebiet sn-massalikoul-jinaan-mosque-landmarks-v2, der Lebensräume für verschiedene Wildtiere in einer städtischen Waldumgebung unterhält.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.43327,
+                        14.723898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reptilarium de Hann",
+                  "text": "A Reptilarium de Hann egy specializált hüllő állatkert az sn-massalikoul-jinaan-mosque-landmarks-v2 közelében, amely különféle kígyó- és gyíkfajoknak ad otthont zárt helyeken.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433303,
+                        14.725722
+                  ]
+            },
+            {
+                  "name": "FabLab DefkoAkNiep",
+                  "text": "A 2014-ben, az sn-massalikoul-jinaan-mosque-landmarks-v2 közelében alapított FabLab DefkoAkNiep egy együttműködésen alapuló művészeti központ és beltéri kreatív műhely.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.458222,
+                        14.713506
+                  ]
+            },
+            {
+                  "name": "Zoo de Hann",
+                  "text": "A Zoo de Hann egy zárt zoológiai park az sn-massalikoul-jinaan-mosque-landmarks-v2 területén, amely változatos vadon élő állatok számára tart fenn élőhelyeket egy városi erdei környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.43327,
+                        14.723898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reptilarium de Hann",
+                  "text": "Reptilarium de Hann este o grădină zoologică specializată în reptile, situată lângă sn-massalikoul-jinaan-mosque-landmarks-v2, adăpostind diverse specii de șerpi și șopârle în incinte.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433303,
+                        14.725722
+                  ]
+            },
+            {
+                  "name": "FabLab DefkoAkNiep",
+                  "text": "FabLab DefkoAkNiep, înființat în 2014 lângă sn-massalikoul-jinaan-mosque-landmarks-v2, este un centru de artă colaborativ și un spațiu de atelier creativ interior.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.458222,
+                        14.713506
+                  ]
+            },
+            {
+                  "name": "Zoo de Hann",
+                  "text": "Zoo de Hann este un parc zoologic închis în zona sn-massalikoul-jinaan-mosque-landmarks-v2, menținând habitate pentru diverse animale sălbatice într-un cadru de pădure urbană.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.43327,
+                        14.723898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reptilarium de Hann",
+                  "text": "The Reptilarium de Hann is a specialized reptile zoo facility located near sn-massalikoul-jinaan-mosque-landmarks-v2, housing various enclosed snake and lizard species.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.433303,
+                        14.725722
+                  ]
+            },
+            {
+                  "name": "FabLab DefkoAkNiep",
+                  "text": "FabLab DefkoAkNiep, established in 2014 near sn-massalikoul-jinaan-mosque-landmarks-v2, is a collaborative arts centre and indoor creative workshop space.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.458222,
+                        14.713506
+                  ]
+            },
+            {
+                  "name": "Zoo de Hann",
+                  "text": "The Zoo de Hann is an enclosed zoological park in the sn-massalikoul-jinaan-mosque-landmarks-v2 area, maintaining habitats for varied wildlife within an urban woodland setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.43327,
+                        14.723898
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.448, 14.7075],
@@ -915,7 +2580,52 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-marche-kermel-landmarks-v2",
+    id: "sn-marche-kermel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de l’Indépendance",
+                  "text": "Dieser zentrale Platz im Herzen von Dakar dient als grüner städtischer Mittelpunkt.",
+                  "category": "park",
+                  "coords": [
+                        -17.432057,
+                        14.669528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de l’Indépendance",
+                  "text": "Ez a Dakar szívében található központi tér zöldellő városi találkozóhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        -17.432057,
+                        14.669528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de l’Indépendance",
+                  "text": "Această piață centrală din inima Dakarului servește ca un punct de reper urban înconjurat de verdeață.",
+                  "category": "park",
+                  "coords": [
+                        -17.432057,
+                        14.669528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de l’Indépendance",
+                  "text": "This central square in the heart of Dakar serves as a green urban focal point.",
+                  "category": "park",
+                  "coords": [
+                        -17.432057,
+                        14.669528
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4328, 14.6678],
@@ -1155,7 +2865,52 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-camp-de-thiaroye-memorial-landmarks-v2",
+    id: "sn-camp-de-thiaroye-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez Lion Adore",
+                  "text": "Dieses historische Wahrzeichen, das mit Löwenmotiven gestaltet ist, steht in der Nähe des Gedenkgeländes von Thiaroye.",
+                  "category": "historical",
+                  "coords": [
+                        -17.358303,
+                        14.782679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez Lion Adore",
+                  "text": "Az oroszlánmotívumokkal díszített történelmi nevezetesség a thiaroye-i emlékhely közelében áll.",
+                  "category": "historical",
+                  "coords": [
+                        -17.358303,
+                        14.782679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez Lion Adore",
+                  "text": "Având motive cu lei în designul său, acest punct de reper istoric se află lângă complexul memorial Thiaroye.",
+                  "category": "historical",
+                  "coords": [
+                        -17.358303,
+                        14.782679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The lion haous",
+                  "text": "Featuring lion motifs in its design, this historical landmark stands near the Thiaroye memorial grounds.",
+                  "category": "historical",
+                  "coords": [
+                        -17.358303,
+                        14.782679
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.3736, 14.7578],
@@ -1203,7 +2958,376 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-ucad-university-gate-landmarks-v2",
+    id: "sn-ucad-university-gate-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Soumbédioune",
+                  "text": "Dieser belebte Sandstrand ist berühmt für seinen geschäftigen Fischmarkt, auf dem farbenfrohe Pirogen mit ihrem Tagesfang zurückkehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.460847,
+                        14.678713
+                  ]
+            },
+            {
+                  "name": "La pièce",
+                  "text": "Diese lokale Kunstgalerie bietet aufstrebenden Künstlern einen einladenden Ort, um ihre vielfältigen visuellen Werke auszustellen.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471539,
+                        14.688085
+                  ]
+            },
+            {
+                  "name": "Place du Souvenir africain",
+                  "text": "Dieser weitläufige Gedenkkomplex mit Blick auf den Atlantischen Ozean ehrt die großen historischen Figuren und Märtyrer des afrikanischen Kontinents.",
+                  "category": "historical",
+                  "coords": [
+                        -17.474455,
+                        14.692247
+                  ]
+            },
+            {
+                  "name": "Laser park",
+                  "text": "Dieses Indoor-Unterhaltungszentrum verfügt über eine neonbeleuchtete Laser-Tag-Arena, die bei Familien und Studenten beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.474849,
+                        14.693944
+                  ]
+            },
+            {
+                  "name": "La plage de Terrou-Bi",
+                  "text": "Dieser makellose Privatstrand, der an ein Luxusresort grenzt, bietet Sonnenliegen und einen weiten Blick auf die Atlantikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.467102,
+                        14.676828
+                  ]
+            },
+            {
+                  "name": "Magic Land",
+                  "text": "Dieser belebte Vergnügungspark an der Küstenstraße bietet Achterbahnen, Autoscooter und familienfreundliche Fahrgeschäfte.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.463478,
+                        14.675703
+                  ]
+            },
+            {
+                  "name": "Plage de Fann",
+                  "text": "Dieser sandige Küstenstreifen in der Nähe des Universitätsviertels ist ein beliebter Ort für Joggingausflüge am Meer und herrliche Sonnenuntergänge.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469124,
+                        14.683733
+                  ]
+            },
+            {
+                  "name": "Just 4 U",
+                  "text": "Dieser legendäre Open-Air-Veranstaltungsort ist ein Eckpfeiler des Nachtlebens von Dakar und bietet häufig Live-Auftritte von senegalesischen Spitzenmusikern.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.46023,
+                        14.69195
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "Dieses internationale Kulturzentrum fördert die spanische Sprache und veranstaltet in der Nähe der Universität verschiedene sprachliche und künstlerische Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.461962,
+                        14.693355
+                  ]
+            },
+            {
+                  "name": "Fondation Friedrich Ebert",
+                  "text": "Das Gebäude dieser Stiftung dient als Zentrum für politische Bildung und veranstaltet öffentliche Debatten, Workshops und soziale Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.471523,
+                        14.694759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Soumbédioune",
+                  "text": "Ez a nyüzsgő homokos strand híres forgalmas halpiacáról, ahová színes pirogok térnek vissza a napi fogással.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.460847,
+                        14.678713
+                  ]
+            },
+            {
+                  "name": "La pièce",
+                  "text": "Ez a helyi művészeti galéria barátságos helyszínt biztosít a feltörekvő művészek számára, hogy kiállítsák változatos vizuális alkotásaikat.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471539,
+                        14.688085
+                  ]
+            },
+            {
+                  "name": "Place du Souvenir africain",
+                  "text": "Az Atlanti-óceánra néző tágas emlékkomplexum az afrikai kontinens nagy történelmi alakjai és mártírjai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -17.474455,
+                        14.692247
+                  ]
+            },
+            {
+                  "name": "Laser park",
+                  "text": "Ez a beltéri szórakoztatóközpont egy neonfényes lézerharc-arénával rendelkezik, amely népszerű a családok és a diákok körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.474849,
+                        14.693944
+                  ]
+            },
+            {
+                  "name": "La plage de Terrou-Bi",
+                  "text": "A luxusüdülőhely mögötti érintetlen, privát strandon napozóágyak találhatók, széles kilátással az Atlanti-óceán partvidékére.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.467102,
+                        14.676828
+                  ]
+            },
+            {
+                  "name": "Magic Land",
+                  "text": "A tengerparti sétány mentén található, nyüzsgő vidámpark hullámvasutakat, dodzsemeket és családbarát játékokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.463478,
+                        14.675703
+                  ]
+            },
+            {
+                  "name": "Plage de Fann",
+                  "text": "Az egyetemi negyed közelében található homokos partszakasz népszerű a tengerparti kocogók és az óceáni naplementét élvezők körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469124,
+                        14.683733
+                  ]
+            },
+            {
+                  "name": "Just 4 U",
+                  "text": "Ez a legendás szabadtéri szórakozóhely Dakar éjszakai életének egyik sarokköve, ahol gyakran lépnek fel a legjobb szenegáli zenészek.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.46023,
+                        14.69195
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "Ez a nemzetközi kulturális központ a spanyol nyelvet népszerűsíti, és különféle nyelvi és művészeti eseményeknek ad otthont az egyetem közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.461962,
+                        14.693355
+                  ]
+            },
+            {
+                  "name": "Fondation Friedrich Ebert",
+                  "text": "Az alapítvány épülete a politikai oktatás központjaként működik, nyilvános vitáknak, workshopoknak és társadalmi kiállításoknak adva otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.471523,
+                        14.694759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Soumbédioune",
+                  "text": "Această plajă cu nisip plină de viață este renumită pentru piața sa aglomerată de pește, unde pirogile colorate se întorc cu captura zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.460847,
+                        14.678713
+                  ]
+            },
+            {
+                  "name": "La pièce",
+                  "text": "Această galerie de artă locală oferă un spațiu primitor pentru artiștii emergenți să-și expună diversele lucrări vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471539,
+                        14.688085
+                  ]
+            },
+            {
+                  "name": "Place du Souvenir africain",
+                  "text": "Având vedere la Oceanul Atlantic, acest complex memorial vast onorează marile figuri istorice și martirii continentului african.",
+                  "category": "historical",
+                  "coords": [
+                        -17.474455,
+                        14.692247
+                  ]
+            },
+            {
+                  "name": "Laser park",
+                  "text": "Acest centru de divertisment interior dispune de o arenă de laser tag iluminată cu neoane, populară printre familii și studenți.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.474849,
+                        14.693944
+                  ]
+            },
+            {
+                  "name": "La plage de Terrou-Bi",
+                  "text": "Având în spate o stațiune de lux, această plajă privată curată are șezlonguri și vederi panoramice ale coastei atlantice.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.467102,
+                        14.676828
+                  ]
+            },
+            {
+                  "name": "Magic Land",
+                  "text": "Situat de-a lungul cornișei de coastă, acest parc de distracții plin de viață oferă montagne rousse, mașinuțe tamponabile și atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.463478,
+                        14.675703
+                  ]
+            },
+            {
+                  "name": "Plage de Fann",
+                  "text": "Situată lângă cartierul universitar, această porțiune de coastă nisipoasă este populară pentru jogging pe malul mării și pentru a admira apusurile oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469124,
+                        14.683733
+                  ]
+            },
+            {
+                  "name": "Just 4 U",
+                  "text": "Acest spațiu legendar în aer liber este o piatră de temelie a vieții de noapte din Dakar, găzduind frecvent spectacole live ale muzicienilor senegalezi de top.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.46023,
+                        14.69195
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "Acest centru cultural internațional promovează limba spaniolă și găzduiește diverse evenimente lingvistice și artistice în apropierea universității.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.461962,
+                        14.693355
+                  ]
+            },
+            {
+                  "name": "Fondation Friedrich Ebert",
+                  "text": "Clădirea acestei fundații servește drept centru pentru educația politică, găzduind dezbateri publice, ateliere și expoziții sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.471523,
+                        14.694759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Soumbédioune",
+                  "text": "This lively sandy beach is famous for its bustling fish market, where colorful pirogues return with their daily catch.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.460847,
+                        14.678713
+                  ]
+            },
+            {
+                  "name": "La pièce",
+                  "text": "This local art gallery provides a welcoming venue for emerging artists to exhibit their diverse visual works.",
+                  "category": "museum",
+                  "coords": [
+                        -17.471539,
+                        14.688085
+                  ]
+            },
+            {
+                  "name": "Place du Souvenir africain",
+                  "text": "Overlooking the Atlantic Ocean, this expansive memorial complex honors the great historical figures and martyrs of the African continent.",
+                  "category": "historical",
+                  "coords": [
+                        -17.474455,
+                        14.692247
+                  ]
+            },
+            {
+                  "name": "Laser park",
+                  "text": "This indoor entertainment center features a neon-lit laser tag arena popular with families and students.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.474849,
+                        14.693944
+                  ]
+            },
+            {
+                  "name": "La plage de Terrou-Bi",
+                  "text": "Backed by a luxury resort, this pristine private beach features sun loungers and sweeping views of the Atlantic coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.467102,
+                        14.676828
+                  ]
+            },
+            {
+                  "name": "Magic Land",
+                  "text": "Situated along the coastal corniche, this bustling amusement park offers roller coasters, bumper cars, and family-friendly rides.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.463478,
+                        14.675703
+                  ]
+            },
+            {
+                  "name": "Plage de Fann",
+                  "text": "Located near the university district, this sandy coastal stretch is popular for seaside jogging and enjoying ocean sunsets.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469124,
+                        14.683733
+                  ]
+            },
+            {
+                  "name": "Just 4 U",
+                  "text": "This legendary open-air venue is a cornerstone of Dakar's nightlife, frequently hosting live performances by top Senegalese musicians.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.46023,
+                        14.69195
+                  ]
+            },
+            {
+                  "name": "Instituto Cervantes",
+                  "text": "This international cultural center promotes the Spanish language and hosts various linguistic and artistic events near the university.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.461962,
+                        14.693355
+                  ]
+            },
+            {
+                  "name": "Fondation Friedrich Ebert",
+                  "text": "This foundation's building serves as a hub for political education, hosting public debates, workshops, and social exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.471523,
+                        14.694759
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4625, 14.6869],
@@ -1299,7 +3423,196 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-maison-ousmane-sow-landmarks-v2",
+    id: "sn-maison-ousmane-sow-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Galerie de mon Père",
+                  "text": "La Galerie de mon Père ist eine Indoor-Galerie für bildende Kunst im Viertel sn-maison-ousmane-sow-landmarks-v2, die kreative Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -17.493173,
+                        14.755136
+                  ]
+            },
+            {
+                  "name": "Thialaw ndethiou samb",
+                  "text": "Thialaw ndethiou samb ist eine lokale öffentliche Attraktion im Gebiet sn-maison-ousmane-sow-landmarks-v2, die einen kulturellen Anziehungspunkt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.512955,
+                        14.746828
+                  ]
+            },
+            {
+                  "name": "Loman Art",
+                  "text": "Loman Art ist ein kreativer Galerieraum in der Umgebung von sn-maison-ousmane-sow-landmarks-v2, der sich auf Indoor-Kunstausstellungen konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -17.497628,
+                        14.733021
+                  ]
+            },
+            {
+                  "name": "Plage du Virage",
+                  "text": "Plage du Virage ist ein sandiger Küstenstrand im Viertel sn-maison-ousmane-sow-landmarks-v2, beliebt für die Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.495785,
+                        14.754837
+                  ]
+            },
+            {
+                  "name": "Plage de Ngor",
+                  "text": "Plage de Ngor ist ein malerischer Sandstrand in der Nähe von sn-maison-ousmane-sow-landmarks-v2, dessen Küste dem nahegelegenen Eiland zugewandt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.511758,
+                        14.750593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Galerie de mon Père",
+                  "text": "A La Galerie de mon Père egy beltéri vizuális művészeti galéria az sn-maison-ousmane-sow-landmarks-v2 negyedben, amely kreatív alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.493173,
+                        14.755136
+                  ]
+            },
+            {
+                  "name": "Thialaw ndethiou samb",
+                  "text": "A Thialaw ndethiou samb egy helyi nyilvános látványosság az sn-maison-ousmane-sow-landmarks-v2 területén, amely kulturális érdekességet kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.512955,
+                        14.746828
+                  ]
+            },
+            {
+                  "name": "Loman Art",
+                  "text": "A Loman Art egy kreatív galériatér az sn-maison-ousmane-sow-landmarks-v2 közelében, amelyet beltéri művészeti kiállításoknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -17.497628,
+                        14.733021
+                  ]
+            },
+            {
+                  "name": "Plage du Virage",
+                  "text": "A Plage du Virage egy homokos tengerpart az sn-maison-ousmane-sow-landmarks-v2 negyedben, amely népszerű az óceánparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.495785,
+                        14.754837
+                  ]
+            },
+            {
+                  "name": "Plage de Ngor",
+                  "text": "A Plage de Ngor egy festői homokos tengerpart az sn-maison-ousmane-sow-landmarks-v2 közelében, amely a közeli sziget felé néz.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.511758,
+                        14.750593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Galerie de mon Père",
+                  "text": "La Galerie de mon Père este o galerie interioară de arte vizuale situată în cartierul sn-maison-ousmane-sow-landmarks-v2, expunând lucrări creative.",
+                  "category": "museum",
+                  "coords": [
+                        -17.493173,
+                        14.755136
+                  ]
+            },
+            {
+                  "name": "Thialaw ndethiou samb",
+                  "text": "Thialaw ndethiou samb este o atracție publică locală situată în zona sn-maison-ousmane-sow-landmarks-v2, oferind un punct de interes cultural.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.512955,
+                        14.746828
+                  ]
+            },
+            {
+                  "name": "Loman Art",
+                  "text": "Loman Art este un spațiu creativ de galerie situat în vecinătatea sn-maison-ousmane-sow-landmarks-v2, dedicat expozițiilor de artă interioară.",
+                  "category": "museum",
+                  "coords": [
+                        -17.497628,
+                        14.733021
+                  ]
+            },
+            {
+                  "name": "Plage du Virage",
+                  "text": "Plage du Virage este o plajă cu nisip pe coastă în cartierul sn-maison-ousmane-sow-landmarks-v2, populară pentru recreere pe malul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.495785,
+                        14.754837
+                  ]
+            },
+            {
+                  "name": "Plage de Ngor",
+                  "text": "Plage de Ngor este o plajă pitorească de coastă cu nisip, lângă sn-maison-ousmane-sow-landmarks-v2, cu vedere spre insula din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.511758,
+                        14.750593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Galerie de mon Père",
+                  "text": "La Galerie de mon Père is an indoor visual arts gallery set in the sn-maison-ousmane-sow-landmarks-v2 district, showcasing creative works.",
+                  "category": "museum",
+                  "coords": [
+                        -17.493173,
+                        14.755136
+                  ]
+            },
+            {
+                  "name": "Thialaw ndethiou samb",
+                  "text": "Thialaw ndethiou samb is a local public attraction located in the sn-maison-ousmane-sow-landmarks-v2 area, offering a point of cultural interest.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.512955,
+                        14.746828
+                  ]
+            },
+            {
+                  "name": "Loman Art",
+                  "text": "Loman Art is a creative gallery space situated in the sn-maison-ousmane-sow-landmarks-v2 vicinity, dedicated to indoor art displays.",
+                  "category": "museum",
+                  "coords": [
+                        -17.497628,
+                        14.733021
+                  ]
+            },
+            {
+                  "name": "Plage du Virage",
+                  "text": "Plage du Virage is a sandy coastal beach in the sn-maison-ousmane-sow-landmarks-v2 district, popular for oceanside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.495785,
+                        14.754837
+                  ]
+            },
+            {
+                  "name": "Plage de Ngor",
+                  "text": "Plage de Ngor is a scenic sandy coastal beach near sn-maison-ousmane-sow-landmarks-v2, facing the waters towards the nearby island.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.511758,
+                        14.750593
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.4938, 14.7397],
@@ -1395,7 +3708,232 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sn-grande-mosquee-guediawaye-landmarks-v2",
+    id: "sn-grande-mosquee-guediawaye-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "Das Foyer Culturel Hamo 4 ist ein kulturelles Indoor-Museum im Gebiet sn-grande-mosquee-guediawaye-landmarks-v2, das Ausstellungsstücke des lokalen Erbes bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "Das Rond Point Mamelles ist ein Kreisverkehr-Denkmal im Freien in der Nähe von sn-grande-mosquee-guediawaye-landmarks-v2, das nach den nahegelegenen Vulkanhügeln benannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "Chez Nanda ist eine lokale Gemeinschaftsattraktion im Viertel sn-grande-mosquee-guediawaye-landmarks-v2, die als Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "Das atelier de munisier ist eine Holzwerkstatt, die als Galerie in der Nähe von sn-grande-mosquee-guediawaye-landmarks-v2 fungiert und handgefertigte Holzkunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "Die Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance ist ein weitläufiger städtischer Naturpark in der Nähe von sn-grande-mosquee-guediawaye-landmarks-v2, der wichtige Feuchtgebiets-Ökosysteme schützt.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "Das Théatre de Verdure Fodé Doussou Ba Baldé ist ein grünes Open-Air-Amphitheater und Kunstzentrum im Gebiet sn-grande-mosquee-guediawaye-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.39744,
+                        14.762724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "A Foyer Culturel Hamo 4 egy beltéri kulturális múzeum az sn-grande-mosquee-guediawaye-landmarks-v2 területén, amely a helyi örökség kiállításait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "A Rond Point Mamelles egy szabadtéri körforgalmi emlékmű az sn-grande-mosquee-guediawaye-landmarks-v2 közelében, amelyet a közeli vulkanikus dombokról neveztek el.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "A Chez Nanda egy helyi közösségi látványosság az sn-grande-mosquee-guediawaye-landmarks-v2 negyedben, amely gyülekezőhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "Az atelier de munisier egy fafeldolgozó műhely, amely galériaként működik az sn-grande-mosquee-guediawaye-landmarks-v2 közelében, és fából készült kézműves alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "A Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance egy kiterjedt városi natúrpark az sn-grande-mosquee-guediawaye-landmarks-v2 közelében, amely megőrzi a létfontosságú vizes élőhelyek ökoszisztémáit.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "A Théatre de Verdure Fodé Doussou Ba Baldé egy szabadtéri zöld amfiteátrum és művészeti központ az sn-grande-mosquee-guediawaye-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.39744,
+                        14.762724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "Foyer Culturel Hamo 4 este un muzeu cultural interior situat în zona sn-grande-mosquee-guediawaye-landmarks-v2, care păstrează exponate ale moștenirii locale.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "Rond Point Mamelles este un monument în aer liber într-un sens giratoriu lângă sn-grande-mosquee-guediawaye-landmarks-v2, numit după dealurile vulcanice din apropiere.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "Chez Nanda este o atracție comunitară locală situată în cartierul sn-grande-mosquee-guediawaye-landmarks-v2, servind ca punct de adunare.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "Atelier de munisier este un atelier de prelucrare a lemnului care funcționează ca o galerie lângă sn-grande-mosquee-guediawaye-landmarks-v2, expunând artă din lemn realizată manual.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance este un vast parc natural urban lângă sn-grande-mosquee-guediawaye-landmarks-v2, care conservă ecosistemele vitale ale zonelor umede.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "Théatre de Verdure Fodé Doussou Ba Baldé este un amfiteatru verde în aer liber și un centru de artă situat în zona sn-grande-mosquee-guediawaye-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.39744,
+                        14.762724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "Foyer Culturel Hamo 4 is an indoor cultural museum located in the sn-grande-mosquee-guediawaye-landmarks-v2 area, preserving local heritage exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "Rond Point Mamelles is an outdoor traffic roundabout monument near sn-grande-mosquee-guediawaye-landmarks-v2, named for the nearby volcanic hills.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "Chez Nanda is a local community attraction situated in the sn-grande-mosquee-guediawaye-landmarks-v2 district, serving as a gathering point.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "The atelier de munisier is a woodworking workshop functioning as a gallery near sn-grande-mosquee-guediawaye-landmarks-v2, displaying crafted wooden art.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "The Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance is a sprawling urban nature park near sn-grande-mosquee-guediawaye-landmarks-v2, preserving vital wetland ecosystems.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "Théatre de Verdure Fodé Doussou Ba Baldé is an open-air green amphitheatre and arts centre situated in the sn-grande-mosquee-guediawaye-landmarks-v2 area.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.39744,
+                        14.762724
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SN-DK",
     coords: [-17.3917, 14.7761],

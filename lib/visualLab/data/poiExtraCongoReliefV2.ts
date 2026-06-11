@@ -48,7 +48,124 @@ export const poiExtraCongoReliefV2: POI[] = [
       fr: ["Point culminant du pays", "Appartient au socle cristallin", "Riche en gisements de minerai de fer", "Entouré par une forêt tropicale dense"],
     }, image: "/poi-images/mont-nabemba-relief-v2.webp"},
   {
-    id: "gorges-de-diosso-relief-v2",
+    id: "gorges-de-diosso-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Diosso",
+                  "text": "Das in einer ehemaligen königlichen Residenz untergebrachte Musée de Diosso zeigt die lokale Geschichte und liegt in der Nähe der dramatischen Diosso-Schluchten.",
+                  "category": "museum",
+                  "coords": [
+                        11.858445,
+                        -4.617799
+                  ]
+            },
+            {
+                  "name": "Georges",
+                  "text": "Der Aussichtspunkt Georges bietet einen atemberaubenden Blick über die steilen, vom Regen erodierten Klippen der Diosso-Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        11.891323,
+                        -4.611142
+                  ]
+            },
+            {
+                  "name": "Monument des esclaves",
+                  "text": "Das Monument des esclaves ist eine Gedenkstätte für die Geschichte des Sklavenhandels in der Nähe der Diosso-Schluchten.",
+                  "category": "historical",
+                  "coords": [
+                        11.845265,
+                        -4.653046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Diosso",
+                  "text": "Az egykori királyi rezidencián helyet kapó Musée de Diosso a helyi történelmet mutatja be a drámai Diosso-szurdokok közelében.",
+                  "category": "museum",
+                  "coords": [
+                        11.858445,
+                        -4.617799
+                  ]
+            },
+            {
+                  "name": "Georges",
+                  "text": "A Georges kilátópont lenyűgöző rálátást nyújt a Diosso-szurdok meredek, eső által kimosott szikláira.",
+                  "category": "natural",
+                  "coords": [
+                        11.891323,
+                        -4.611142
+                  ]
+            },
+            {
+                  "name": "Monument des esclaves",
+                  "text": "A Monument des esclaves a rabszolgakereskedelem történetét megjelölő emlékmű a drámai Diosso-szurdok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.845265,
+                        -4.653046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Diosso",
+                  "text": "Muzeul Diosso, găzduit într-o fostă reședință regală, prezintă istoria locală și este situat lângă spectaculoasele chei Diosso.",
+                  "category": "museum",
+                  "coords": [
+                        11.858445,
+                        -4.617799
+                  ]
+            },
+            {
+                  "name": "Georges",
+                  "text": "Georges oferă un punct de belvedere uimitor peste stâncile abrupte, erodate de ploaie, ale cheilor Diosso.",
+                  "category": "natural",
+                  "coords": [
+                        11.891323,
+                        -4.611142
+                  ]
+            },
+            {
+                  "name": "Monument des esclaves",
+                  "text": "Monument des esclaves este un memorial care marchează istoria comerțului cu sclavi, situat în apropierea spectaculoaselor chei Diosso.",
+                  "category": "historical",
+                  "coords": [
+                        11.845265,
+                        -4.653046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Diosso",
+                  "text": "The Musée de Diosso, housed in a former royal residence, showcases local history and is located near the dramatic Diosso Gorges.",
+                  "category": "museum",
+                  "coords": [
+                        11.858445,
+                        -4.617799
+                  ]
+            },
+            {
+                  "name": "Georges",
+                  "text": "The Georges viewpoint offers a stunning vantage point over the steep, rain-eroded cliffs of the Diosso Gorges.",
+                  "category": "natural",
+                  "coords": [
+                        11.891323,
+                        -4.611142
+                  ]
+            },
+            {
+                  "name": "Monument des esclaves",
+                  "text": "The Monument des esclaves is a memorial marking the history of the slave trade, located near the dramatic Diosso Gorges.",
+                  "category": "historical",
+                  "coords": [
+                        11.845265,
+                        -4.653046
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CG-5",
     coords: [11.852, -4.631],
@@ -138,7 +255,52 @@ export const poiExtraCongoReliefV2: POI[] = [
       fr: ["Ancien massif géologique", "Source de plusieurs rivières", "Refuge de primates rares", "Versants densément boisés"],
     }, image: "/poi-images/massif-du-chaillu-relief-v2.webp"},
   {
-    id: "monts-de-cristal-relief-v2",
+    id: "monts-de-cristal-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorges de Sounda",
+                  "text": "Ein rauer Aussichtspunkt mit Blick auf die tiefen Flussschluchten in den bewaldeten Monts de Cristal.",
+                  "category": "natural",
+                  "coords": [
+                        12.144822,
+                        -4.081761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorges de Sounda",
+                  "text": "Zord kilátópont, ahonnan a fás Monts de Cristal mély folyami szurdokaira nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        12.144822,
+                        -4.081761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorges de Sounda",
+                  "text": "Un punct de belvedere accidentat cu vedere la defileele adânci ale râurilor din Munții de Cristal împăduriți.",
+                  "category": "natural",
+                  "coords": [
+                        12.144822,
+                        -4.081761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorges de Sounda",
+                  "text": "A rugged viewpoint overlooking the deep river gorges in the forested Crystal Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        12.144822,
+                        -4.081761
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CG-9",
     coords: [12.214, -4.112],

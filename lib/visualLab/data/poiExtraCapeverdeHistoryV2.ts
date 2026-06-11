@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraCapeverdeHistoryV2: POI[] = [
   {
-    id: "cv-cidade-velha-history-v2",
+    id: "cv-cidade-velha-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pelourinho da Cidade Velha",
+                  "text": "Ein reich verzierter Marmorpranger aus dem 16. Jahrhundert, der auf dem zentralen Platz der ehemaligen Kolonialhauptstadt steht.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605083,
+                        14.915042
+                  ]
+            },
+            {
+                  "name": "UNESCO Património Mundial",
+                  "text": "Ein anerkanntes historisches Viertel, das die Kopfsteinpflasterstraßen und die Architektur des ersten europäischen Kolonialaußenpostens in den Tropen bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605239,
+                        14.916066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelourinho da Cidade Velha",
+                  "text": "Díszes, 16. századi márvány pellengér, amely az egykori gyarmati főváros központi terén áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605083,
+                        14.915042
+                  ]
+            },
+            {
+                  "name": "UNESCO Património Mundial",
+                  "text": "Elismert történelmi negyed, amely megőrzi az első trópusi európai gyarmati előőrs macskaköves utcáit és építészetét.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605239,
+                        14.916066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pelourinho da Cidade Velha",
+                  "text": "Un stâlp al infamiei ornamentat din marmură, din secolul al XVI-lea, situat în piața centrală a fostei capitale coloniale.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605083,
+                        14.915042
+                  ]
+            },
+            {
+                  "name": "UNESCO Património Mundial",
+                  "text": "Un cartier istoric recunoscut care păstrează străzile pietruite și arhitectura primului avanpost colonial european din tropice.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605239,
+                        14.916066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pelourinho da Cidade Velha",
+                  "text": "An ornate 16th-century marble pillory standing in the central square of the former colonial capital.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605083,
+                        14.915042
+                  ]
+            },
+            {
+                  "name": "UNESCO Património Mundial",
+                  "text": "A recognized historic district preserving the cobblestone streets and architecture of the first European colonial outpost in the tropics.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.605239,
+                        14.916066
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-RS",
     coords: [-23.605, 14.915],
@@ -48,7 +129,52 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }
   },
   {
-    id: "cv-fortaleza-real-sao-filipe-history-v2",
+    id: "cv-fortaleza-real-sao-filipe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porto Mosquito",
+                  "text": "Ein kleiner, traditioneller Fischerhafen, der von steilen, felsigen Vulkanklippen umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684526,
+                        14.950899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porto Mosquito",
+                  "text": "Kicsi, hagyományos halászkikötő, amelyet meredek, sziklás vulkáni sziklák vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684526,
+                        14.950899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porto Mosquito",
+                  "text": "Un mic port de pescuit tradițional, înconjurat de stânci vulcanice abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684526,
+                        14.950899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porto Mosquito",
+                  "text": "A small, traditional fishing harbor surrounded by steep, rocky volcanic cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684526,
+                        14.950899
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-RS",
     coords: [-23.606, 14.919],
@@ -93,7 +219,52 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }
   },
   {
-    id: "cv-pelourinho-cidade-velha-history-v2",
+    id: "cv-pelourinho-cidade-velha-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sé Catedral",
+                  "text": "Die verwitterten Steinruinen dieser historischen Kathedrale markieren das älteste christliche Gebäude aus der Kolonialzeit in Cidade Velha.",
+                  "category": "historical",
+                  "coords": [
+                        -23.603838,
+                        14.913579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sé Catedral",
+                  "text": "Ennek a történelmi katedrálisnak a mállott kőromjai jelzik Cidade Velha legrégebbi, gyarmati korszakból származó keresztény épületét.",
+                  "category": "historical",
+                  "coords": [
+                        -23.603838,
+                        14.913579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sé Catedral",
+                  "text": "Ruinele de piatră erodate ale acestei catedrale istorice marchează cea mai veche clădire creștină din perioada colonială din Cidade Velha.",
+                  "category": "historical",
+                  "coords": [
+                        -23.603838,
+                        14.913579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sé Catedral",
+                  "text": "The weathered stone ruins of this historic cathedral mark the oldest colonial-era Christian building in Cidade Velha.",
+                  "category": "historical",
+                  "coords": [
+                        -23.603838,
+                        14.913579
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-RS",
     coords: [-23.604, 14.914],
@@ -138,7 +309,124 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }
   },
   {
-    id: "cv-ruinas-se-catedral-history-v2",
+    id: "cv-ruinas-se-catedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruínas da Igreja de Nossa Senhora da Conceição",
+                  "text": "Die ausgegrabenen Fundamente und Überreste einer frühkolonialen katholischen Kirche in der historischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -23.604254,
+                        14.917471
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Ein historisches, aus Stein erbautes Wasserreservoir, das ursprünglich zur Versorgung der alten Kolonialstadt in trockenen Monaten diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.602013,
+                        14.916167
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Rosário",
+                  "text": "Eine historische katholische Kirche aus dem 15. Jahrhundert, die eines der ältesten kolonialen religiösen Gebäude Westafrikas darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        -23.605252,
+                        14.916549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruínas da Igreja de Nossa Senhora da Conceição",
+                  "text": "A történelmi településen épült korai gyarmati korszakból származó katolikus templom feltárt alapjai és maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -23.604254,
+                        14.917471
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Történelmi kőépítésű víztározó, amelyet eredetileg a régi gyarmati város vízellátására terveztek a száraz hónapokban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.602013,
+                        14.916167
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Rosário",
+                  "text": "Történelmi 15. századi katolikus templom, amely Nyugat-Afrika egyik legrégebbi gyarmati vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        -23.605252,
+                        14.916549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruínas da Igreja de Nossa Senhora da Conceição",
+                  "text": "Fundațiile excavate și rămășițele unei biserici catolice din epoca colonială timpurie, construită în așezarea istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -23.604254,
+                        14.917471
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Un rezervor istoric de apă construit din piatră, conceput inițial pentru a aproviziona vechiul oraș colonial în lunile secetoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.602013,
+                        14.916167
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Rosário",
+                  "text": "O biserică catolică istorică din secolul al XV-lea, reprezentând una dintre cele mai vechi clădiri religioase coloniale din Africa de Vest.",
+                  "category": "religious",
+                  "coords": [
+                        -23.605252,
+                        14.916549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruínas da Igreja de Nossa Senhora da Conceição",
+                  "text": "The excavated foundations and remnants of an early colonial-era Catholic church built in the historic settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -23.604254,
+                        14.917471
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "A historic stone-built water reservoir originally designed to supply the old colonial town during arid months.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.602013,
+                        14.916167
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Rosário",
+                  "text": "A historic 15th-century Catholic church representing one of the oldest colonial religious buildings in West Africa.",
+                  "category": "religious",
+                  "coords": [
+                        -23.605252,
+                        14.916549
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-RS",
     coords: [-23.604, 14.916],
@@ -183,7 +471,88 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }
   },
   {
-    id: "cv-tarrafal-concentration-camp-history-v2",
+    id: "cv-tarrafal-concentration-camp-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ceramic Arts Museum",
+                  "text": "Ein kultureller Ausstellungsraum, der traditionelle kapverdische Töpferwaren und lokales Tonhandwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -23.710866,
+                        15.303811
+                  ]
+            },
+            {
+                  "name": "Silverbeach",
+                  "text": "Ein Küstenabschnitt, der sich durch seine dunklen Vulkansände und historische Umgebung auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.743524,
+                        15.232751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ceramic Arts Museum",
+                  "text": "Kulturális kiállítótér, amely a hagyományos Zöld-foki-szigeteki fazekasságot és a helyi agyagművességet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -23.710866,
+                        15.303811
+                  ]
+            },
+            {
+                  "name": "Silverbeach",
+                  "text": "Sötét vulkáni homokjáról és történelmi környezetéről ismert tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.743524,
+                        15.232751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ceramic Arts Museum",
+                  "text": "Un spațiu expozițional cultural care prezintă ceramica tradițională capverdiană și meșteșugurile locale din lut.",
+                  "category": "museum",
+                  "coords": [
+                        -23.710866,
+                        15.303811
+                  ]
+            },
+            {
+                  "name": "Silverbeach",
+                  "text": "O întindere de coastă distinctă pentru nisipurile sale vulcanice întunecate și împrejurimile istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.743524,
+                        15.232751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ceramic Arts Museum",
+                  "text": "A cultural exhibition space showcasing traditional Cape Verdean pottery and local clay crafts.",
+                  "category": "museum",
+                  "coords": [
+                        -23.710866,
+                        15.303811
+                  ]
+            },
+            {
+                  "name": "Silverbeach",
+                  "text": "A coastal stretch distinct for its dark volcanic sands and historical surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.743524,
+                        15.232751
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-TA",
     coords: [-23.708, 15.263],
@@ -228,7 +597,196 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }
   },
   {
-    id: "cv-farol-dona-maria-pia-history-v2",
+    id: "cv-farol-dona-maria-pia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cruz de Papa",
+                  "text": "Dieses religiöse Denkmal verfügt über ein markantes Kreuz, das an einen historischen Papstbesuch erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -23.518949,
+                        14.904283
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Português",
+                  "text": "Dieses Kunstzentrum fördert das portugiesische Kulturerbe durch Ausstellungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.513222,
+                        14.907166
+                  ]
+            },
+            {
+                  "name": "Homem de Pedra",
+                  "text": "Dieses Steindenkmal zeigt eine auffällige geschnitzte Figur, die auf einem öffentlichen Platz steht.",
+                  "category": "historical",
+                  "coords": [
+                        -23.514196,
+                        14.913824
+                  ]
+            },
+            {
+                  "name": "Quebra Canela",
+                  "text": "Dieser beliebte Stadtstrand ist bekannt für seinen Sandstrand und das ruhige Meerwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.517216,
+                        14.903987
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "Dieser historische Strand verfügt über eine sandige Küste, die oft für lokale Festivals genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511308,
+                        14.912668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cruz de Papa",
+                  "text": "Ez a vallási emlékmű egy kiemelkedő kereszttel emlékezik meg egy történelmi pápai látogatásról.",
+                  "category": "historical",
+                  "coords": [
+                        -23.518949,
+                        14.904283
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Português",
+                  "text": "Ez a művészeti központ kiállításokkal és előadásokkal népszerűsíti a portugál kulturális örökséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.513222,
+                        14.907166
+                  ]
+            },
+            {
+                  "name": "Homem de Pedra",
+                  "text": "Ez a kőemlékmű egy feltűnő, faragott alakot ábrázol, amely egy nyilvános téren áll.",
+                  "category": "historical",
+                  "coords": [
+                        -23.514196,
+                        14.913824
+                  ]
+            },
+            {
+                  "name": "Quebra Canela",
+                  "text": "Ez a népszerű városi strand homokos partjáról és nyugodt óceáni vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.517216,
+                        14.903987
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "Ennek a történelmi strandnak a homokos partvidékét gyakran használják helyi fesztiválok helyszíneként.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511308,
+                        14.912668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cruz de Papa",
+                  "text": "Acest monument religios prezintă o cruce proeminentă care comemorează o vizită papală istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -23.518949,
+                        14.904283
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Português",
+                  "text": "Acest centru de artă promovează moștenirea culturală portugheză prin expoziții și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.513222,
+                        14.907166
+                  ]
+            },
+            {
+                  "name": "Homem de Pedra",
+                  "text": "Acest monument de piatră prezintă o figură sculptată izbitoare, aflată într-un spațiu public.",
+                  "category": "historical",
+                  "coords": [
+                        -23.514196,
+                        14.913824
+                  ]
+            },
+            {
+                  "name": "Quebra Canela",
+                  "text": "Această plajă urbană populară este cunoscută pentru țărmul său de nisip și apele calme ale oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.517216,
+                        14.903987
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "Această plajă istorică prezintă o coastă de nisip folosită adesea pentru festivaluri locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511308,
+                        14.912668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cruz de Papa",
+                  "text": "This religious monument features a prominent cross commemorating a historic papal visit.",
+                  "category": "historical",
+                  "coords": [
+                        -23.518949,
+                        14.904283
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Português",
+                  "text": "This arts center promotes Portuguese cultural heritage through exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.513222,
+                        14.907166
+                  ]
+            },
+            {
+                  "name": "Homem de Pedra",
+                  "text": "This stone monument features a striking carved figure standing in a public space.",
+                  "category": "historical",
+                  "coords": [
+                        -23.514196,
+                        14.913824
+                  ]
+            },
+            {
+                  "name": "Quebra Canela",
+                  "text": "This popular urban beach is known for its sandy shore and calm ocean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.517216,
+                        14.903987
+                  ]
+            },
+            {
+                  "name": "Praia da Gambôa",
+                  "text": "This historical beach features a sandy coastline often used for local festivals.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.511308,
+                        14.912668
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-PR",
     coords: [-23.513, 14.910],
@@ -272,7 +830,52 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Mis en service en 1881.", "Marque l'entrée du port de Praia."],
     }, image: "/poi-images/cv-farol-dona-maria-pia-history-v2.webp"},
   {
-    id: "cv-palacio-presidencial-praia-history-v2",
+    id: "cv-palacio-presidencial-praia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Amilcar Cabral",
+                  "text": "Dieser Museumsraum ist dem Leben und Vermächtnis des Unabhängigkeitsführers Amílcar Cabral gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -23.508087,
+                        14.917214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sala-Museu Amílcar Cabral",
+                  "text": "Ez a múzeumi terem Amílcar Cabral függetlenségi vezető életének és örökségének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -23.508087,
+                        14.917214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sala-Museu Amílcar Cabral",
+                  "text": "Această cameră de muzeu este dedicată vieții și moștenirii liderului independenței Amílcar Cabral.",
+                  "category": "museum",
+                  "coords": [
+                        -23.508087,
+                        14.917214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sala-Museu Amílcar Cabral",
+                  "text": "This museum room is dedicated to the life and legacy of the independence leader Amílcar Cabral.",
+                  "category": "museum",
+                  "coords": [
+                        -23.508087,
+                        14.917214
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-PR",
     coords: [-23.508, 14.917],
@@ -316,7 +919,52 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Construit dans un style néoclassique.", "Situé dans le centre historique de la capitale."],
     }, image: "/poi-images/cv-palacio-presidencial-praia-history-v2.webp"},
   {
-    id: "cv-quartel-jaime-mota-history-v2",
+    id: "cv-quartel-jaime-mota-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Negra",
+                  "text": "Die Praia Negra in Praia ist ein städtischer Strandabschnitt, der für seinen markanten dunklen Vulkansand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.505658,
+                        14.917247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Negra",
+                  "text": "A praiai Praia Negra egy városi strandszakasz, amely feltűnő, sötét vulkáni homokjáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.505658,
+                        14.917247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Negra",
+                  "text": "Praia Negra din Praia este o plajă urbană cunoscută pentru nisipul său vulcanic de o nuanță întunecată.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.505658,
+                        14.917247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Negra",
+                  "text": "Praia Negra in Praia is an urban beach distinctively known for its dark, volcanic sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.505658,
+                        14.917247
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-PR",
     coords: [-23.507, 14.916],
@@ -360,7 +1008,124 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Nommé d'après un héros national du Cap-Vert.", "Construit à la fin du XIXe siècle."],
     }, image: "/poi-images/cv-quartel-jaime-mota-history-v2.webp"},
   {
-    id: "cv-mindelo-historic-center-history-v2",
+    id: "cv-mindelo-historic-center-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "CNAD - National Centre for Arts, Craft and Design",
+                  "text": "Dieses Museum in Mindelo zeigt traditionelles kapverdisches Kunsthandwerk und lebendige zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -24.987798,
+                        16.890619
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die im Herzen von Mindelo Werke lokaler und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Praça Nova (Praça Amilcar Cabral)",
+                  "text": "Der belebte zentrale Platz von Mindelo, umgeben von kolonialer Architektur, ist ein beliebter Treffpunkt für Einheimische.",
+                  "category": "park",
+                  "coords": [
+                        -24.98796,
+                        16.889652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CNAD - National Centre for Arts, Craft and Design",
+                  "text": "Ez a mindelói múzeum a hagyományos Zöld-foki-szigeteki kézművességet és a vibráló kortárs művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -24.987798,
+                        16.890619
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "Kortárs művészeti galéria Mindelo szívében, amely helyi és nemzetközi művészek alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Praça Nova (Praça Amilcar Cabral)",
+                  "text": "Mindelo nyüzsgő, gyarmati építészettel körülvett központi tere a helyiek kedvelt gyülekezőhelye.",
+                  "category": "park",
+                  "coords": [
+                        -24.98796,
+                        16.889652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CNAD - National Centre for Arts, Craft and Design",
+                  "text": "Acest muzeu din Mindelo expune meșteșuguri tradiționale capverdiene și o artă contemporană vibrantă.",
+                  "category": "museum",
+                  "coords": [
+                        -24.987798,
+                        16.890619
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "O galerie de artă contemporană dedicată expunerii lucrărilor artiștilor locali și internaționali în inima orașului Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Praça Nova (Praça Amilcar Cabral)",
+                  "text": "Piața centrală animată din Mindelo, înconjurată de arhitectură colonială, este un loc popular de întâlnire pentru localnici.",
+                  "category": "park",
+                  "coords": [
+                        -24.98796,
+                        16.889652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CNAD - National Centre for Arts, Craft and Design",
+                  "text": "This museum in Mindelo showcases traditional Cape Verdean crafts and vibrant contemporary arts.",
+                  "category": "museum",
+                  "coords": [
+                        -24.987798,
+                        16.890619
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "A contemporary art gallery dedicated to exhibiting works by local and international artists in the heart of Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Praça Nova (Praça Amilcar Cabral)",
+                  "text": "Mindelo's lively central square, surrounded by colonial architecture, serves as a popular gathering spot for locals.",
+                  "category": "park",
+                  "coords": [
+                        -24.98796,
+                        16.889652
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-SV",
     coords: [-24.988, 16.888],
@@ -404,7 +1169,52 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Connu pour le port Porto Grande.", "Un centre pour la musique et la culture."],
     }, image: "/poi-images/cv-mindelo-historic-center-history-v2.webp"},
   {
-    id: "cv-torre-de-belem-mindelo-history-v2",
+    id: "cv-torre-de-belem-mindelo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "Das Denkmal nahe dem Torre de Belém ehrt die portugiesischen Flugpioniere Gago Coutinho und Sacadura Cabral für ihre Atlantiküberquerung.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "A Torre de Belém közelében lévő emlékmű a portugál repülés úttörőit, Gago Coutinhót és Sacadura Cabralt ünnepli az Atlanti-óceán átrepüléséért.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "Monumentul din apropierea Torre de Belém îi onorează pe pionierii portughezi ai aviației Gago Coutinho și Sacadura Cabral pentru zborul lor transatlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "The monument near the Torre de Belém honors Portuguese aviation pioneers Gago Coutinho and Sacadura Cabral for their transatlantic flight.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-SV",
     coords: [-24.992, 16.891],
@@ -448,7 +1258,52 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Abrite aujourd'hui le musée de la mer.", "Construite entre 1918 et 1921."],
     }, image: "/poi-images/cv-torre-de-belem-mindelo-history-v2.webp"},
   {
-    id: "cv-fortim-del-rei-history-v2",
+    id: "cv-fortim-del-rei-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Laginha",
+                  "text": "Dieser beliebte Stadtstrand bietet einen breiten Sandstrand und einen weiten Blick auf das Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992697,
+                        16.894361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Laginha",
+                  "text": "Ez a népszerű városi strand széles homokos sávval és elsöprő óceáni kilátással várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992697,
+                        16.894361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Laginha",
+                  "text": "Această plajă urbană populară oferă o fâșie lată de nisip și vederi panoramice la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992697,
+                        16.894361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Laginha",
+                  "text": "This popular urban beach offers a wide sandy stretch and sweeping ocean views.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992697,
+                        16.894361
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-SV",
     coords: [-24.994, 16.893],
@@ -537,7 +1392,88 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }
   },
   {
-    id: "cv-forte-duque-de-braganca-history-v2",
+    id: "cv-forte-duque-de-braganca-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigia",
+                  "text": "Vigia ist ein malerischer Bergaussichtspunkt, der ein erhabenes Panorama nahe cv-forte-duque-de-braganca-history-v2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -22.911531,
+                        16.213093
+                  ]
+            },
+            {
+                  "name": "Farol Ponta do Sol",
+                  "text": "Farol Ponta do Sol ist ein maritimer Navigationsturm, der an der Küste in der Nähe von cv-forte-duque-de-braganca-history-v2 positioniert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.913913,
+                        16.224713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigia",
+                  "text": "A Vigia egy festői hegyi kilátó, amely magaslati panorámát kínál cv-forte-duque-de-braganca-history-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -22.911531,
+                        16.213093
+                  ]
+            },
+            {
+                  "name": "Farol Ponta do Sol",
+                  "text": "A Farol Ponta do Sol egy tengeri navigációs torony a parton, cv-forte-duque-de-braganca-history-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.913913,
+                        16.224713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigia",
+                  "text": "Vigia este un punct de belvedere montan pitoresc, oferind panorame la mare altitudine, lângă cv-forte-duque-de-braganca-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.911531,
+                        16.213093
+                  ]
+            },
+            {
+                  "name": "Farol Ponta do Sol",
+                  "text": "Farol Ponta do Sol este un turn de navigație maritimă poziționat pe coastă, lângă cv-forte-duque-de-braganca-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.913913,
+                        16.224713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigia",
+                  "text": "Vigia is a scenic mountain viewpoint offering elevated panoramas near cv-forte-duque-de-braganca-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.911531,
+                        16.213093
+                  ]
+            },
+            {
+                  "name": "Farol Ponta do Sol",
+                  "text": "Farol Ponta do Sol is a maritime navigational tower positioned along the coast near cv-forte-duque-de-braganca-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.913913,
+                        16.224713
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-BV",
     coords: [-22.918, 16.223],
@@ -581,7 +1517,88 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Érigée au début du XIXe siècle.", "Située sur une île au large."],
     }, image: "/poi-images/cv-forte-duque-de-braganca-history-v2.webp"},
   {
-    id: "cv-igreja-nossa-senhora-rosario-history-v2",
+    id: "cv-igreja-nossa-senhora-rosario-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "Dieser am 2. März 2023 eröffnete Aussichtspunkt in der Nähe der Kirche bietet weite Ausblicke auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Diese farbenfroh bemalten Treppenstufen sind eine künstlerische Attraktion in der Nähe der Nossa Senhora do Rosário.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "A templom közelében 2023. március 2-án megnyitott kilátópont széles kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Ezek a színesre festett lépcsők művészi látványosságot nyújtanak a Nossa Senhora do Rosário közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "Deschis pe 2 martie 2023, acest punct de belvedere de lângă biserică oferă vederi extinse asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Aceste trepte pictate viu colorat sunt o atracție artistică în apropiere de Nossa Senhora do Rosário.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "Opened on March 2, 2023, this viewpoint near the church provides expansive views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "These vibrantly painted stairs serve as an artistic attraction near Nossa Senhora do Rosário.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-RG",
     coords: [-25.066, 17.185],
@@ -669,7 +1686,88 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Un exemple de l'architecture coloniale de Fogo.", "Point central de la vie publique."],
     }, image: "/poi-images/cv-pacos-concelho-sao-filipe-history-v2.webp"},
   {
-    id: "cv-igreja-sao-joao-batista-history-v2",
+    id: "cv-igreja-sao-joao-batista-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die historische Umgebung der Igreja São João Batista.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "Ein Beobachtungspunkt, der einen Panoramablick auf die Landschaft der Insel nahe der historischen Kirche bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "Festői kilátópont, ahonnan kilátás nyílik az Igreja São João Batista történelmi környezetére.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "A történelmi templom közelében található kilátóhely, amely panorámás kilátást nyújt a sziget tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "Un punct de observație pitoresc care oferă vedere asupra împrejurimilor istorice ale Igreja São João Batista.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "Un punct de observație care oferă vederi panoramice ale peisajului insulei, în apropierea bisericii istorice.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "A scenic lookout point offering views over the historic surroundings of Igreja São João Batista.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "An observation point providing panoramic views of the island's landscape near the historic church.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-BR",
     coords: [-24.697, 14.869],
@@ -713,7 +1811,88 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Un monument de la plus petite île habitée.", "Centre des fêtes religieuses locales."],
     }, image: "/poi-images/cv-igreja-sao-joao-batista-history-v2.webp"},
   {
-    id: "cv-sobrados-sao-filipe-history-v2",
+    id: "cv-sobrados-sao-filipe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nossa Senhora de Encarnação",
+                  "text": "Die historischen Ruinen dieser Kirche bewahren die baulichen Überreste einer alten religiösen Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        -24.491801,
+                        14.880702
+                  ]
+            },
+            {
+                  "name": "Praia Senhora de Encarnação",
+                  "text": "Dieser sandige Küstenstrand bietet einen malerischen Erholungsort am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.48911,
+                        14.878703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nossa Senhora de Encarnação",
+                  "text": "Ennek a templomnak a történelmi romjai egy régi vallási helyszín szerkezeti maradványait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        -24.491801,
+                        14.880702
+                  ]
+            },
+            {
+                  "name": "Praia Senhora de Encarnação",
+                  "text": "Ez a homokos tengerpart festői kikapcsolódási helyet nyújt az óceán vizénél.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.48911,
+                        14.878703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nossa Senhora de Encarnação",
+                  "text": "Ruinele istorice ale acestei biserici păstrează rămășițele structurale ale unui vechi sit religios.",
+                  "category": "historical",
+                  "coords": [
+                        -24.491801,
+                        14.880702
+                  ]
+            },
+            {
+                  "name": "Praia Senhora de Encarnação",
+                  "text": "Această plajă cu nisip pe coastă oferă un loc pitoresc de recreere lângă apele oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.48911,
+                        14.878703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nossa Senhora de Encarnação",
+                  "text": "The historic ruins of this church preserve the structural remnants of an old religious site.",
+                  "category": "historical",
+                  "coords": [
+                        -24.491801,
+                        14.880702
+                  ]
+            },
+            {
+                  "name": "Praia Senhora de Encarnação",
+                  "text": "This sandy coastal beach provides a scenic recreational spot beside the ocean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.48911,
+                        14.878703
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-SF",
     coords: [-24.495, 14.895],
@@ -757,7 +1936,268 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Ils ont servi autrefois à la classe supérieure aristocratique.", "Ils possèdent souvent de magnifiques cours intérieures."],
     }, image: "/poi-images/cv-sobrados-sao-filipe-history-v2.webp"},
   {
-    id: "cv-vila-porto-ingles-history-v2",
+    id: "cv-vila-porto-ingles-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "Von diesem Aussichtspunkt an der Küste können Besucher über den weißen Sand und die Atlantikwellen blicken, die an den Strand von Ponta Preta rollen.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Forte de São José",
+                  "text": "Dieses steinerne Fort aus dem 18. Jahrhundert wurde zur Verteidigung gegen Piratenangriffe erbaut und verfügt über historische Kanonen, die auf das Meer gerichtet sind.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Dieser auf einem kleinen Vulkanhügel gelegene Aussichtspunkt bietet einen Panoramablick über die trockene Landschaft der Insel und die nahegelegenen Salinen.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210011,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Diese gut erhaltene historische Residenz präsentiert die traditionelle kapverdische Kolonialarchitektur mit ihrer charakteristischen hellen Fassade und den Fensterläden aus Holz.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137373
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Als Teil eines internationalen Kulturnetzwerks veranstaltet dieses Kunstzentrum lebhafte Ausstellungen und Konzerte, bei denen mediterrane und lusophone Künstler gefeiert werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "Dieses von der Küste der Insel aus operierende Tauchzentrum organisiert geführte Unterwasserausflüge zur Erkundung der lebhaften lokalen Korallenriffe.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Bekannt für seine dramatischen, windgepeitschten Dünen, ist dieser ausgedehnte goldene Sandstrand ein erstklassiger Ort zum Kitesurfen in der Atlantikbrise.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203353,
+                        15.126344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "Erről a tengerparti kilátópontról a látogatók megcsodálhatják a fehér homokot és a Ponta Preta partjára gördülő atlanti-óceáni hullámokat.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Forte de São José",
+                  "text": "A kalóztámadások elleni védekezésként épült 18. századi kőerőd történelmi ágyúi a tenger felé néznek.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "A kis vulkáni dombon található kilátóból panorámás kilátás nyílik a sziget száraz tájaira és a közeli sólepárlókra.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210011,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Ez a megőrzött történelmi rezidencia a hagyományos Zöld-foki-szigeteki gyarmati építészetet mutatja be jellegzetes, világos homlokzatával és fa zsalugátereivel.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137373
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "A nemzetközi kulturális hálózat részét képező művészeti központ nyüzsgő kiállításoknak és koncerteknek ad otthont, a mediterrán és a luzofón művészeket ünnepelve.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "A sziget partjainál működő búvárközpont vezetett víz alatti kirándulásokat szervez a helyi nyüzsgő korallzátonyok felfedezésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "A drámai, szélfútta dűnéiről híres, hatalmas, aranyhomokos partszakasz kiváló hely a kiteszörfözésre az atlanti-óceáni szellőben.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203353,
+                        15.126344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "De la acest punct de belvedere pe coastă, vizitatorii pot admira nisipurile albe și valurile Atlanticului care se rostogolesc pe plaja Ponta Preta.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Forte de São José",
+                  "text": "Construit pentru a se apăra împotriva atacurilor piraților, acest fort de piatră din secolul al XVIII-lea are tunuri istorice îndreptate spre mare.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Situat pe un mic deal vulcanic, acest punct de belvedere oferă priveliști panoramice asupra peisajelor aride ale insulei și a salinelor din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210011,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Această reședință istorică conservată prezintă arhitectura colonială tradițională capverdiană, cu fațada sa luminoasă caracteristică și obloanele din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137373
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Parte a unei rețele culturale internaționale, acest centru de arte găzduiește expoziții și concerte vibrante, celebrând artiștii mediteraneeni și lusofoni.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "Operând de pe țărmurile insulei, acest centru de scufundări organizează excursii subacvatice ghidate pentru a explora recifele de corali locale vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Renumită pentru dunele sale dramatice, bătute de vânt, această întindere vastă de nisip auriu este un loc de prim rang pentru kitesurfing în briza Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203353,
+                        15.126344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "From this coastal viewpoint, visitors can look out over the white sands and Atlantic swells rolling onto Ponta Preta beach.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Forte de São José",
+                  "text": "Built to defend against pirate attacks, this 18th-century stone fort features historic cannons pointing out towards the sea.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Situated on a small volcanic hill, this viewpoint provides panoramic vistas across the island's arid landscapes and nearby salt pans.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210011,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "This preserved historic residence showcases traditional Cape Verdean colonial architecture with its characteristic bright facade and wooden shutters.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137373
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Part of an international cultural network, this arts center hosts vibrant exhibitions and concerts celebrating Mediterranean and Lusophone artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            },
+            {
+                  "name": "Diving Center AAA Maio Plongée",
+                  "text": "Operating from the island's shores, this scuba diving center organizes guided underwater excursions to explore the vibrant local coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Renowned for its dramatic, windswept dunes, this expansive stretch of golden sand is a premier spot for kitesurfing in the Atlantic breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203353,
+                        15.126344
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-MA",
     coords: [-23.214, 15.132],
@@ -802,7 +2242,52 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }
   },
   {
-    id: "cv-igreja-nossa-senhora-conceicao-history-v2",
+    id: "cv-igreja-nossa-senhora-conceicao-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana ist ein malerischer Aussichtspunkt mit Blick auf die umliegende Sandwüstenlandschaft bei cv-igreja-nossa-senhora-conceicao-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deserto de Viana",
+                  "text": "A Deserto de Viana egy festői kilátó, ahonnan a környező homokos sivatagi tájra nyílik kilátás cv-igreja-nossa-senhora-conceicao-history-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana este un punct de belvedere pitoresc care oferă vederi panoramice ale peisajului deșertic de nisip, lângă cv-igreja-nossa-senhora-conceicao-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana is a scenic viewpoint offering sweeping views of the surrounding sandy desert landscape near cv-igreja-nossa-senhora-conceicao-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-BV",
     coords: [-22.866, 16.143],
@@ -846,7 +2331,196 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       fr: ["Construite au milieu du XIXe siècle à l'emplacement d'une chapelle plus ancienne.", "Un monument de l'histoire locale."],
     }, image: "/poi-images/cv-igreja-nossa-senhora-conceicao-history-v2.webp"},
   {
-    id: "cv-casa-da-memoria-history-v2",
+    id: "cv-casa-da-memoria-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Busto João Figueredo",
+                  "text": "Eine als Büste gestaltete Skulptur zum Gedenken an die historische Persönlichkeit João Figueredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.497773,
+                        14.897095
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Das städtische Museum, das Ausstellungen zur lokalen Geschichte und Kultur der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -24.49989,
+                        14.894151
+                  ]
+            },
+            {
+                  "name": "Alexandre Alberto da Rocha Serpa Pinto",
+                  "text": "Ein Denkmal, das Alexandre de Serpa Pinto gewidmet ist, einem portugiesischen Entdecker im südlichen Afrika.",
+                  "category": "historical",
+                  "coords": [
+                        -24.500407,
+                        14.895538
+                  ]
+            },
+            {
+                  "name": "Vila Baixa (Bila Baxo)",
+                  "text": "Das historische Unterstadtviertel, das für seine traditionelle koloniale Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.499923,
+                        14.896512
+                  ]
+            },
+            {
+                  "name": "fonte bila",
+                  "text": "Ein Küstengebiet, das für seine Sandstrände in der Nähe des historischen Viertels Bila Baxo bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.501603,
+                        14.893351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Busto João Figueredo",
+                  "text": "A történelmi személyiségnek, João Figueredónak emléket állító mellszobor.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.497773,
+                        14.897095
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "A régió helyi történelmét és kultúráját bemutató kiállításokat felsorakoztató városi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -24.49989,
+                        14.894151
+                  ]
+            },
+            {
+                  "name": "Alexandre Alberto da Rocha Serpa Pinto",
+                  "text": "Alexandre de Serpa Pinto portugál Dél-Afrika-kutatónak szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -24.500407,
+                        14.895538
+                  ]
+            },
+            {
+                  "name": "Vila Baixa (Bila Baxo)",
+                  "text": "A hagyományos gyarmati építészetéről ismert történelmi alsóvárosi negyed.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.499923,
+                        14.896512
+                  ]
+            },
+            {
+                  "name": "fonte bila",
+                  "text": "A történelmi Bila Baxo negyed közelében található, homokos partszakaszairól ismert tengerparti terület.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.501603,
+                        14.893351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Busto João Figueredo",
+                  "text": "Un bust sculptat care comemorează figura istorică João Figueredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.497773,
+                        14.897095
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Muzeul municipal care prezintă exponate despre istoria și cultura locală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -24.49989,
+                        14.894151
+                  ]
+            },
+            {
+                  "name": "Alexandre Alberto da Rocha Serpa Pinto",
+                  "text": "Un monument dedicat lui Alexandre de Serpa Pinto, un explorator portughez al Africii de Sud.",
+                  "category": "historical",
+                  "coords": [
+                        -24.500407,
+                        14.895538
+                  ]
+            },
+            {
+                  "name": "Vila Baixa (Bila Baxo)",
+                  "text": "Cartierul istoric din partea de jos a orașului, cunoscut pentru arhitectura sa colonială tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.499923,
+                        14.896512
+                  ]
+            },
+            {
+                  "name": "fonte bila",
+                  "text": "O zonă de coastă cunoscută pentru întinderile sale de nisip, situată în apropierea cartierului istoric Bila Baxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.501603,
+                        14.893351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Busto João Figueredo",
+                  "text": "A sculpted bust monument commemorating the historical figure João Figueredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.497773,
+                        14.897095
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "The municipal museum showcasing exhibits on the local history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -24.49989,
+                        14.894151
+                  ]
+            },
+            {
+                  "name": "Alexandre Alberto da Rocha Serpa Pinto",
+                  "text": "A monument dedicated to Alexandre de Serpa Pinto, a Portuguese explorer of southern Africa.",
+                  "category": "historical",
+                  "coords": [
+                        -24.500407,
+                        14.895538
+                  ]
+            },
+            {
+                  "name": "Vila Baixa (Bila Baxo)",
+                  "text": "The historic lower town district known for its traditional colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.499923,
+                        14.896512
+                  ]
+            },
+            {
+                  "name": "fonte bila",
+                  "text": "A coastal area known for its sandy stretches located near the historic Bila Baxo district.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.501603,
+                        14.893351
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CV-SF",
     coords: [-24.498, 14.897],

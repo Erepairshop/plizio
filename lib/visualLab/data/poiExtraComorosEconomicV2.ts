@@ -451,7 +451,88 @@ export const poiExtraComorosEconomicV2: POI[] = [
     },
   },
   {
-    id: "mutsamudu-thermal-plant-economic-v2",
+    id: "mutsamudu-thermal-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marahaba Sambi",
+                  "text": "Ein malerischer Aussichtspunkt mit erhöhtem Blick über Mutsamudu und die umliegende Küste.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Eine dominierende historische Attraktion mit dicken Verteidigungsmauern, die die Stadt Mutsamudu überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397224,
+                        -12.167088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marahaba Sambi",
+                  "text": "Festői kilátó, amely magaslati kilátást nyújt Mutsamudu városára és a környező tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Egy meghatározó történelmi látványosság vastag védőfalakkal, amely Mutsamudu városára néz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397224,
+                        -12.167088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marahaba Sambi",
+                  "text": "Un punct de belvedere pitoresc cu o vedere panoramică asupra Mutsamudu și a coastei din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "O atracție istorică dominantă, cu ziduri groase de apărare, care domină orașul Mutsamudu.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397224,
+                        -12.167088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marahaba Sambi",
+                  "text": "A scenic viewpoint providing elevated vistas over Mutsamudu and the surrounding coastline.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "A commanding historical attraction with thick defensive walls overlooking the town of Mutsamudu.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397224,
+                        -12.167088
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KM-A",
     coords: [44.400, -12.170],
@@ -515,7 +596,88 @@ export const poiExtraComorosEconomicV2: POI[] = [
     },
   },
   {
-    id: "mitsamiouli-port-economic-v2",
+    id: "mitsamiouli-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand Baobab",
+                  "text": "Der Grand Baobab ist ein riesiger, uralter Baum, der als massives natürliches Wahrzeichen und traditioneller Treffpunkt in der Nähe des Hafens von Mitsamiouli dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "Das „Loch des Propheten“ ist eine atemberaubende, von Affenbrotbäumen gesäumte, geschützte Bucht, in der kristallklares Wasser sanft an die felsige Küste plätschert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand Baobab",
+                  "text": "A Grand Baobab egy tornyosuló, ősi fa, amely hatalmas természeti tájékozódási pontként és hagyományos gyülekezőhelyként szolgál a mitsamiouli kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "A „Próféta lyuka” egy lenyűgöző, baobabfákkal szegélyezett, védett öböl, ahol a kristálytiszta víz lágyan mossa a sziklás partot.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand Baobab",
+                  "text": "Marele Baobab este un copac străvechi, falnic, care servește drept reper natural masiv și loc de adunare tradițional lângă portul Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "„Gaura profetului” este un golf uluitor și adăpostit, mărginit de baobabi, unde apele cristaline se sparg blând de țărmul stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Baobab",
+                  "text": "The Grand Baobab is a towering, ancient tree that serves as a massive natural landmark and traditional gathering spot near the Mitsamiouli port.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "The \"Prophet's Hole\" is a stunning, sheltered cove lined with baobab trees where crystal-clear waters gently lap against the rocky shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KM-G",
     coords: [43.320, -11.390],
@@ -707,7 +869,124 @@ export const poiExtraComorosEconomicV2: POI[] = [
     },
   },
   {
-    id: "foumbouni-port-economic-v2",
+    id: "foumbouni-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "CADC",
+                  "text": "Ein dynamisches Kunst- und Kulturzentrum, das als Knotenpunkt für kreative Workshops in der Gemeinde dient.",
+                  "category": "cultural",
+                  "coords": [
+                        43.419954,
+                        -11.879274
+                  ]
+            },
+            {
+                  "name": "Mosquée de Mbuzini",
+                  "text": "Eine historische Moschee aus Stein, die als wichtiges religiöses Denkmal der lokalen Gemeinde gilt.",
+                  "category": "historical",
+                  "coords": [
+                        43.511171,
+                        -11.887715
+                  ]
+            },
+            {
+                  "name": "Foyer AMID",
+                  "text": "Ein lokales Kunstzentrum, in dem kulturelles Erbe und zeitgenössische Aufführungen mit der Gemeinde geteilt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435204,
+                        -11.798496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CADC",
+                  "text": "Dinamikus művészeti és kulturális központ, amely a közösségi kreatív workshopok csomópontjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        43.419954,
+                        -11.879274
+                  ]
+            },
+            {
+                  "name": "Mosquée de Mbuzini",
+                  "text": "Történelmi kőmecset, amely a helyi közösség fontos vallási emlékműveként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        43.511171,
+                        -11.887715
+                  ]
+            },
+            {
+                  "name": "Foyer AMID",
+                  "text": "Helyi művészeti központ, ahol a kulturális örökséget és a kortárs előadásokat osztják meg a közösséggel.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435204,
+                        -11.798496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CADC",
+                  "text": "Un centru de arte și cultură dinamic, care servește drept hub pentru ateliere creative în comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        43.419954,
+                        -11.879274
+                  ]
+            },
+            {
+                  "name": "Mosquée de Mbuzini",
+                  "text": "O moschee istorică din piatră, recunoscută drept un important monument religios al comunității locale.",
+                  "category": "historical",
+                  "coords": [
+                        43.511171,
+                        -11.887715
+                  ]
+            },
+            {
+                  "name": "Foyer AMID",
+                  "text": "Un centru de arte local unde moștenirea culturală și spectacolele contemporane sunt împărtășite cu comunitatea.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435204,
+                        -11.798496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CADC",
+                  "text": "A dynamic cultural arts center acting as a hub for community creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        43.419954,
+                        -11.879274
+                  ]
+            },
+            {
+                  "name": "Mosquée de Mbuzini",
+                  "text": "A historic stone mosque standing as an important religious monument for the local community.",
+                  "category": "historical",
+                  "coords": [
+                        43.511171,
+                        -11.887715
+                  ]
+            },
+            {
+                  "name": "Foyer AMID",
+                  "text": "A local arts centre where cultural heritage and contemporary performances are shared with the community.",
+                  "category": "cultural",
+                  "coords": [
+                        43.435204,
+                        -11.798496
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KM-G",
     coords: [43.490, -11.865],
@@ -771,7 +1050,52 @@ export const poiExtraComorosEconomicV2: POI[] = [
     },
   },
   {
-    id: "bambao-distillery-economic-v2",
+    id: "bambao-distillery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bangwe Darsala",
+                  "text": "Dieses Kunstzentrum fördert lokale kulturelle Ausdrücke und kreative Werke der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265868,
+                        -11.735153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bangwe Darsala",
+                  "text": "Ez a művészeti központ a helyi kulturális kifejezésmódokat és a régió kreatív alkotásait népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265868,
+                        -11.735153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bangwe Darsala",
+                  "text": "Acest centru de artă promovează expresiile culturale locale și lucrările creative din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265868,
+                        -11.735153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bangwe Darsala",
+                  "text": "This arts centre promotes local cultural expressions and creative works of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265868,
+                        -11.735153
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KM-G",
     coords: [43.260, -11.750],

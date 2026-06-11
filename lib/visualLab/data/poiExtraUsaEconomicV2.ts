@@ -816,7 +816,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Point Fermin Lighthouse",
-                  "text": "Point Fermin Lighthouse ist ein historischer Leuchtturm in Long Beach, Kalifornien.",
+                  "text": "Erbaut 1874, dieser viktorianische Leuchtturm steht auf den Klippen von San Pedro, Kalifornien.",
                   "category": "landmark",
                   "coords": [
                         -118.293697,
@@ -1178,7 +1178,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Point Fermin Lighthouse",
-                  "text": "A Point Fermin Lighthouse egy történelmi világítótorony Long Beachben, Kaliforniában.",
+                  "text": "1874-ben épült, ez a viktoriánus világítótorony San Pedro szikláin áll, Kaliforniában.",
                   "category": "landmark",
                   "coords": [
                         -118.293697,
@@ -1540,7 +1540,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Point Fermin Lighthouse",
-                  "text": "Point Fermin Lighthouse este un far istoric în Long Beach, California.",
+                  "text": "Construit în 1874, acest far victorian se află pe stâncile din San Pedro, California.",
                   "category": "landmark",
                   "coords": [
                         -118.293697,
@@ -1902,7 +1902,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Point Fermin Lighthouse",
-                  "text": "Point Fermin Lighthouse is a historic lighthouse in Long Beach, California.",
+                  "text": "Built in 1874, this Victorian lighthouse stands on the bluffs of San Pedro, California.",
                   "category": "landmark",
                   "coords": [
                         -118.293697,
@@ -4926,7 +4926,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Georgetown Steam Plant",
-                  "text": "Das Georgetown Steam Plant in Seattle ist ein historisches Dampfkraftwerk und ein National Historic Landmark.",
+                  "text": "Die Georgetown Steam Plant in Seattle ist im National Register of Historic Places eingetragen.",
                   "category": "museum",
                   "coords": [
                         -122.31629,
@@ -4971,7 +4971,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "Die Saint James Cathedral in Seattle ist die Mutterkirche der Erzdiözese Seattle.",
+                  "text": "Die Saint James Cathedral in Seattle wurde 1907 erbaut.",
                   "category": "religious",
                   "coords": [
                         -122.32584,
@@ -5007,7 +5007,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Spokane Street Bridge",
-                  "text": "Die Spokane Street Bridge in Seattle ist eine Klappbrücke über den Duwamish Waterway.",
+                  "text": "Die Spokane Street Bridge in Seattle wurde 1991 erbaut.",
                   "category": "landmark",
                   "coords": [
                         -122.353789,
@@ -5261,7 +5261,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Georgetown Steam Plant",
-                  "text": "A seattle-i Georgetown Steam Plant egy történelmi gőzerőmű és nemzeti történelmi emlékhely.",
+                  "text": "A Georgetown Steam Plant Seattle-ben a Nemzeti Történelmi Helyek Jegyzékében szerepel.",
                   "category": "museum",
                   "coords": [
                         -122.31629,
@@ -5306,7 +5306,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "A seattle-i Saint James-székesegyház a Seattle-i Érsekség anyatemploma.",
+                  "text": "A Szent Jakab székesegyház Seattle-ben 1907-ben épült.",
                   "category": "religious",
                   "coords": [
                         -122.32584,
@@ -5342,7 +5342,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Spokane Street Bridge",
-                  "text": "A seattle-i Spokane Street Bridge egy felvonóhíd a Duwamish-víziút felett.",
+                  "text": "A Spokane Street Bridge Seattle-ben 1991-ben épült.",
                   "category": "landmark",
                   "coords": [
                         -122.353789,
@@ -5596,7 +5596,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Georgetown Steam Plant",
-                  "text": "Georgetown Steam Plant din Seattle este o centrală electrică cu abur istorică și un reper istoric național.",
+                  "text": "Uzina de abur Georgetown din Seattle este înregistrată în Registrul Național al Locurilor Istorice.",
                   "category": "museum",
                   "coords": [
                         -122.31629,
@@ -5641,7 +5641,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "Catedrala Sfântul Iacob din Seattle este biserica mamă a Arhiepiscopiei de Seattle.",
+                  "text": "Catedrala Sfântul Iacob din Seattle a fost construită în 1907.",
                   "category": "religious",
                   "coords": [
                         -122.32584,
@@ -5677,7 +5677,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Spokane Street Bridge",
-                  "text": "Podul Spokane Street din Seattle este un pod basculant peste calea navigabilă Duwamish.",
+                  "text": "Podul Spokane Street din Seattle a fost construit în 1991.",
                   "category": "landmark",
                   "coords": [
                         -122.353789,
@@ -5931,7 +5931,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Georgetown Steam Plant",
-                  "text": "The Georgetown Steam Plant in Seattle is a historic steam plant and a National Historic Landmark.",
+                  "text": "The Georgetown Steam Plant in Seattle is listed on the National Register of Historic Places.",
                   "category": "museum",
                   "coords": [
                         -122.31629,
@@ -5976,7 +5976,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "Saint James Cathedral in Seattle is the mother church of the Archdiocese of Seattle.",
+                  "text": "Saint James Cathedral in Seattle was built in 1907.",
                   "category": "religious",
                   "coords": [
                         -122.32584,
@@ -6012,7 +6012,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Spokane Street Bridge",
-                  "text": "The Spokane Street Bridge in Seattle is a bascule bridge over the Duwamish Waterway.",
+                  "text": "The Spokane Street Bridge in Seattle was built in 1991.",
                   "category": "landmark",
                   "coords": [
                         -122.353789,
@@ -6338,7 +6338,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Art Museum - Pacific Film Archive",
-                  "text": "Ein Kunstmuseum und Filmarchiv in port-of-oakland-economic-v2.",
+                  "text": "Museum in Berkeley, entworfen von Diller Scofidio + Renfro.",
                   "category": "museum",
                   "coords": [
                         -122.266404,
@@ -6419,7 +6419,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "Die First Church of Christ Scientist ist ein Gotteshaus der Christlichen Wissenschaft im Hafengebiet von Oakland.",
+                  "text": "Entworfen von Bernard Maybeck, diese historische Kirche befindet sich in Berkeley, Kalifornien.",
                   "category": "religious",
                   "coords": [
                         -122.255853,
@@ -6682,7 +6682,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Art Museum - Pacific Film Archive",
-                  "text": "Művészeti múzeum és filmarchívum a port-of-oakland-economic-v2 területén.",
+                  "text": "Berkeley-i múzeum, Diller Scofidio + Renfro tervezte.",
                   "category": "museum",
                   "coords": [
                         -122.266404,
@@ -6763,7 +6763,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "A First Church of Christ Scientist egy Keresztény Tudomány templom az Oakland kikötői övezetben.",
+                  "text": "Bernard Maybeck tervezte, ez a történelmi templom Berkeleyben, Kaliforniában található.",
                   "category": "religious",
                   "coords": [
                         -122.255853,
@@ -7026,7 +7026,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Art Museum - Pacific Film Archive",
-                  "text": "Un muzeu de artă și arhivă de filme în port-of-oakland-economic-v2.",
+                  "text": "Muzeu în Berkeley, proiectat de Diller Scofidio + Renfro.",
                   "category": "museum",
                   "coords": [
                         -122.266404,
@@ -7107,7 +7107,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "First Church of Christ Scientist este un lăcaș de cult al Științei Creștine în zona portuară Oakland.",
+                  "text": "Proiectată de Bernard Maybeck, această biserică istorică se află în Berkeley, California.",
                   "category": "religious",
                   "coords": [
                         -122.255853,
@@ -7370,7 +7370,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Art Museum - Pacific Film Archive",
-                  "text": "An art museum and film archive in port-of-oakland-economic-v2.",
+                  "text": "Museum in Berkeley designed by Diller Scofidio + Renfro.",
                   "category": "museum",
                   "coords": [
                         -122.266404,
@@ -7451,7 +7451,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "First Church of Christ Scientist is a Christian Science church in the Port of Oakland area.",
+                  "text": "Designed by Bernard Maybeck, this historic church is in Berkeley, California.",
                   "category": "religious",
                   "coords": [
                         -122.255853,
@@ -7696,7 +7696,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Portsmouth Lightship Museum",
-                  "text": "Das Portsmouth Lightship Museum ist ein Museum im Port-of-Virginia-Wirtschaftsgebiet, ein historisches Feuerschiff.",
+                  "text": "Erbaut 1916, dieses Feuerschiff ist ein Museum in Portsmouth, Virginia.",
                   "category": "museum",
                   "coords": [
                         -76.296173,
@@ -8031,7 +8031,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Portsmouth Lightship Museum",
-                  "text": "A Portsmouth Lightship Museum egy múzeum a Port of Virginia gazdasági övezetben, egy történelmi világítóhajó.",
+                  "text": "1916-ban épült, ez a világítóhajó múzeum Portsmouthban, Virginia államban.",
                   "category": "museum",
                   "coords": [
                         -76.296173,
@@ -8366,7 +8366,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Portsmouth Lightship Museum",
-                  "text": "Portsmouth Lightship Museum este un muzeu în zona economică Port of Virginia, o navă-far istorică.",
+                  "text": "Construit în 1916, această navă-far este un muzeu în Portsmouth, Virginia.",
                   "category": "museum",
                   "coords": [
                         -76.296173,
@@ -8701,7 +8701,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Portsmouth Lightship Museum",
-                  "text": "Portsmouth Lightship Museum is a museum in the Port of Virginia economic area, a historic lightship.",
+                  "text": "Built in 1916, this lightship is a museum in Portsmouth, Virginia.",
                   "category": "museum",
                   "coords": [
                         -76.296173,
@@ -10445,7 +10445,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Don Burnett Bicycle-Pedestrian Bridge",
-                  "text": "Eine Fußgänger- und Radfahrerbrücke in silicon-valley-tech-economic-v2.",
+                  "text": "2009 eröffnete Fußgänger- und Radfahrerbrücke in Valley Tech.",
                   "category": "landmark",
                   "coords": [
                         -122.050688,
@@ -10789,7 +10789,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Don Burnett Bicycle-Pedestrian Bridge",
-                  "text": "Gyalogos- és kerékpáros híd a silicon-valley-tech-economic-v2 területén.",
+                  "text": "2009-ben átadott gyalogos- és kerékpáros híd Valley Techban.",
                   "category": "landmark",
                   "coords": [
                         -122.050688,
@@ -11133,7 +11133,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Don Burnett Bicycle-Pedestrian Bridge",
-                  "text": "Un pod pentru pietoni și biciclete în silicon-valley-tech-economic-v2.",
+                  "text": "Pod pentru pietoni și biciclete deschis în 2009 în Valley Tech.",
                   "category": "landmark",
                   "coords": [
                         -122.050688,
@@ -11477,7 +11477,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Don Burnett Bicycle-Pedestrian Bridge",
-                  "text": "A pedestrian and bicycle bridge in silicon-valley-tech-economic-v2.",
+                  "text": "Bicycle-pedestrian bridge opened in 2009 in Valley Tech.",
                   "category": "landmark",
                   "coords": [
                         -122.050688,
@@ -11762,7 +11762,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Center for Brooklyn History",
-                  "text": "Das Center for Brooklyn History ist ein Museum in Brooklyn, das die Geschichte des Bezirks dokumentiert.",
+                  "text": "Entworfen von George B. Post, dieses historische Gebäude beherbergt das Center for Brooklyn History in Brooklyn, New York.",
                   "category": "museum",
                   "coords": [
                         -73.992412,
@@ -11789,7 +11789,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Marquis de Lafayette Monument",
-                  "text": "Das Marquis de Lafayette Monument ist ein Denkmal in Brooklyn zu Ehren des französischen Generals.",
+                  "text": "Gewidmet 1917 und von Henry Bacon entworfen, dieses Denkmal ehrt Lafayette im Prospect Park, Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.976584,
@@ -11798,7 +11798,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Prison Ship Martyrs Monument",
-                  "text": "Das Prison Ship Martyrs Monument ist ein Denkmal in Brooklyn für gefallene Kriegsgefangene.",
+                  "text": "1908 errichtetes Denkmal für Gefangene von Kriegsschiffen in Street Financial Industry.",
                   "category": "historical",
                   "coords": [
                         -73.975533,
@@ -11825,7 +11825,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Soldiers' and Sailors' Arch",
-                  "text": "Der Soldiers' and Sailors' Arch ist ein Triumphbogen in Brooklyn am Grand Army Plaza.",
+                  "text": "Gewidmet 1892 und von John H. Duncan entworfen, dieser Triumphbogen steht am Grand Army Plaza in Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.969903,
@@ -11888,7 +11888,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "Saint James Cathedral ist die Kathedralbasilika von Brooklyn.",
+                  "text": "Kathedrale in Street Financial Industry, entworfen von George H. Streeton.",
                   "category": "religious",
                   "coords": [
                         -73.98657,
@@ -11969,7 +11969,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Fort Jay",
-                  "text": "Fort Jay ist eine historische Festung in Brooklyn auf Governors Island.",
+                  "text": "1794 erbaute Küstenfestung auf Governors Island.",
                   "category": "landmark",
                   "coords": [
                         -74.015989,
@@ -12106,7 +12106,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Center for Brooklyn History",
-                  "text": "A Center for Brooklyn History egy múzeum Brooklynban, amely a kerület történetét dokumentálja.",
+                  "text": "George B. Post tervezte, ez a történelmi épület ad otthont a Brooklyn Történeti Központnak Brooklynban, New Yorkban.",
                   "category": "museum",
                   "coords": [
                         -73.992412,
@@ -12133,7 +12133,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Marquis de Lafayette Monument",
-                  "text": "A Marquis de Lafayette Monument egy emlékmű Brooklynban, a francia tábornok tiszteletére.",
+                  "text": "1917-ben avatták, Henry Bacon tervezte, ez az emlékmű Lafayette-et tiszteli a Prospect Parkban, Brooklynban.",
                   "category": "historical",
                   "coords": [
                         -73.976584,
@@ -12142,7 +12142,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Prison Ship Martyrs Monument",
-                  "text": "A Prison Ship Martyrs Monument egy emlékmű Brooklynban, a meghalt hadifoglyok emlékére.",
+                  "text": "1908-ban emelt emlékmű a hadifogoly tengerészeknek a Street Financial Industryban.",
                   "category": "historical",
                   "coords": [
                         -73.975533,
@@ -12169,7 +12169,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Soldiers' and Sailors' Arch",
-                  "text": "A Soldiers' and Sailors' Arch egy diadalív Brooklynban, a Grand Army Plazán.",
+                  "text": "1892-ben avatták, John H. Duncan tervezte, ez a diadalív a Grand Army Plazánál áll Brooklynban.",
                   "category": "historical",
                   "coords": [
                         -73.969903,
@@ -12232,7 +12232,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "Saint James Cathedral Brooklyn székesegyházi bazilikája.",
+                  "text": "Székesegyház a Street Financial Industryban, George H. Streeton tervezte.",
                   "category": "religious",
                   "coords": [
                         -73.98657,
@@ -12313,7 +12313,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Fort Jay",
-                  "text": "Fort Jay egy történelmi erőd Brooklynban, a Governors Islanden.",
+                  "text": "1794-ben épült tengerparti erőd a Governors Islanden.",
                   "category": "landmark",
                   "coords": [
                         -74.015989,
@@ -12450,7 +12450,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Center for Brooklyn History",
-                  "text": "Centrul pentru Istoria Brooklynului este un muzeu din Brooklyn care documentează istoria districtului.",
+                  "text": "Proiectat de George B. Post, această clădire istorică găzduiește Centrul pentru Istoria Brooklynului în Brooklyn, New York.",
                   "category": "museum",
                   "coords": [
                         -73.992412,
@@ -12477,7 +12477,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Marquis de Lafayette Monument",
-                  "text": "Monumentul Marchizului de Lafayette este un monument din Brooklyn în onoarea generalului francez.",
+                  "text": "Inaugurat în 1917 și proiectat de Henry Bacon, acest monument onorează pe Lafayette în Prospect Park, Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.976584,
@@ -12486,7 +12486,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Prison Ship Martyrs Monument",
-                  "text": "Monumentul Martirilor de pe Navele Închisoare este un monument din Brooklyn pentru prizonierii de război decedați.",
+                  "text": "Monument ridicat în 1908 pentru prizonierii navelor de război în Street Financial Industry.",
                   "category": "historical",
                   "coords": [
                         -73.975533,
@@ -12513,7 +12513,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Soldiers' and Sailors' Arch",
-                  "text": "Arcul Soldaților și Marinarilor este un arc de triumf din Brooklyn, la Grand Army Plaza.",
+                  "text": "Inaugurat în 1892 și proiectat de John H. Duncan, acest arc de triumf se află la Grand Army Plaza din Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.969903,
@@ -12576,7 +12576,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "Catedrala Sfântul Iacob este bazilica catedrală din Brooklyn.",
+                  "text": "Catedrală în Street Financial Industry, proiectată de George H. Streeton.",
                   "category": "religious",
                   "coords": [
                         -73.98657,
@@ -12657,7 +12657,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Fort Jay",
-                  "text": "Fort Jay este o fortăreață istorică din Brooklyn, pe Governors Island.",
+                  "text": "Fortăreață de coastă construită în 1794 pe Governors Island.",
                   "category": "landmark",
                   "coords": [
                         -74.015989,
@@ -12794,7 +12794,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Center for Brooklyn History",
-                  "text": "The Center for Brooklyn History is a museum in Brooklyn, documenting the borough's history.",
+                  "text": "Designed by George B. Post, this historic building houses the Center for Brooklyn History in Brooklyn, New York.",
                   "category": "museum",
                   "coords": [
                         -73.992412,
@@ -12821,7 +12821,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Marquis de Lafayette Monument",
-                  "text": "The Marquis de Lafayette Monument is a monument in Brooklyn honoring the French general.",
+                  "text": "Dedicated in 1917 and designed by Henry Bacon, this monument honors Lafayette in Prospect Park, Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.976584,
@@ -12830,7 +12830,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Prison Ship Martyrs Monument",
-                  "text": "The Prison Ship Martyrs Monument is a monument in Brooklyn honoring deceased prisoners of war.",
+                  "text": "Monument erected in 1908 to honor prisoners of war ships in Street Financial Industry.",
                   "category": "historical",
                   "coords": [
                         -73.975533,
@@ -12857,7 +12857,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Soldiers' and Sailors' Arch",
-                  "text": "The Soldiers' and Sailors' Arch is a triumphal arch in Brooklyn at Grand Army Plaza.",
+                  "text": "Dedicated in 1892 and designed by John H. Duncan, this triumphal arch stands at Grand Army Plaza in Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.969903,
@@ -12920,7 +12920,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint James Cathedral",
-                  "text": "Saint James Cathedral is the cathedral basilica of Brooklyn.",
+                  "text": "Cathedral in Street Financial Industry designed by George H. Streeton.",
                   "category": "religious",
                   "coords": [
                         -73.98657,
@@ -13001,7 +13001,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Fort Jay",
-                  "text": "Fort Jay is a historic fort in Brooklyn on Governors Island.",
+                  "text": "Coastal fort built in 1794 on Governors Island.",
                   "category": "landmark",
                   "coords": [
                         -74.015989,
@@ -13460,7 +13460,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Japanese American National Museum",
-                  "text": "Das Japanese American National Museum ist ein Museum, das die Geschichte der japanischstämmigen Amerikaner zeigt, in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Eröffnet 1996 und von Gyo Obata entworfen, das Japanese American National Museum in Los Angeles.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
@@ -13496,7 +13496,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Neutra Studio and Residences (VDL Research House)",
-                  "text": "Die Neutra Studio and Residences (VDL Research House) ist ein Wohnhaus und Studio des Architekten Richard Neutra in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Das Neutra VDL Research House, erbaut 1939 von Richard Neutra, ist ein Meisterwerk der modernen Architektur und heute Museum.",
                   "category": "museum",
                   "coords": [
                         -118.260396,
@@ -13604,7 +13604,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Walt Disney Concert Hall",
-                  "text": "Die Walt Disney Concert Hall ist ein Konzertsaal mit markanter Architektur in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Konzerthalle von Frank Gehry mit markanten Edelstahlkurven in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.249949,
@@ -13622,7 +13622,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Regent",
-                  "text": "The Regent ist ein historisches Theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "1914 eröffnetes Filmpalast-Theater in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.247817,
@@ -13631,7 +13631,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Der Koyasan Beikoku Betsuin of Los Angeles ist ein buddhistischer Tempel in hollywood-entertainment-industry-economic-v2.",
+                  "text": "1940 gegründeter Shingon-buddhistischer Tempel in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.240311,
@@ -13640,7 +13640,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "First Church of Christ, Scientist",
-                  "text": "Die First Church of Christ, Scientist ist eine Kirche in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Erbaut 1912 und von Elmer Grey entworfen, diese Kirche befindet sich in Los Angeles, Kalifornien.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
@@ -13658,7 +13658,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Sophia Greek Orthodox Cathedral",
-                  "text": "Die Saint Sophia Greek Orthodox Cathedral ist eine griechisch-orthodoxe Kathedrale in hollywood-entertainment-industry-economic-v2.",
+                  "text": "1951 geweihte griechisch-orthodoxe Kathedrale in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.299599,
@@ -13676,7 +13676,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "Die Saint James Episcopal Church ist eine episkopale Kirche in hollywood-entertainment-industry-economic-v2.",
+                  "text": "1926 erbaute episkopale Kirche in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.311968,
@@ -13685,7 +13685,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Angelus Temple",
-                  "text": "Der Angelus Temple ist eine Pfingstkirche in hollywood-entertainment-industry-economic-v2.",
+                  "text": "1926 eröffnete pfingstliche Megakirche in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.260886,
@@ -13804,7 +13804,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Japanese American National Museum",
-                  "text": "A Japanese American National Museum a japán-amerikaiak történelmét bemutató múzeum hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1996-ban nyílt meg, Gyo Obata tervezte, a Japán Amerikai Nemzeti Múzeum Los Angelesben.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
@@ -13840,7 +13840,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Neutra Studio and Residences (VDL Research House)",
-                  "text": "A Neutra Studio and Residences (VDL Research House) Richard Neutra építész lakóháza és stúdiója hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "A Neutra VDL Kutatóházat Richard Neutra építette 1939-ben, a modern építészet remekműve, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -118.260396,
@@ -13948,7 +13948,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Walt Disney Concert Hall",
-                  "text": "A Walt Disney Concert Hall egy jellegzetes építészetű koncertterem hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Frank Gehry által tervezett koncertterem jellegzetes rozsdamentes acél ívekkel az Entertainment Industryban.",
                   "category": "cultural",
                   "coords": [
                         -118.249949,
@@ -13966,7 +13966,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Regent",
-                  "text": "A The Regent egy történelmi színház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1914-ben megnyitott mozi palota az Entertainment Industryban.",
                   "category": "cultural",
                   "coords": [
                         -118.247817,
@@ -13975,7 +13975,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "A Koyasan Beikoku Betsuin of Los Angeles egy buddhista templom hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1940-ben alapított Singon buddhista templom az Entertainment Industryban.",
                   "category": "religious",
                   "coords": [
                         -118.240311,
@@ -13984,7 +13984,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "First Church of Christ, Scientist",
-                  "text": "A First Church of Christ, Scientist egy templom hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1912-ben épült, Elmer Grey tervezte, ez a templom Los Angelesben, Kaliforniában található.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
@@ -14002,7 +14002,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Sophia Greek Orthodox Cathedral",
-                  "text": "A Saint Sophia Greek Orthodox Cathedral egy görög ortodox székesegyház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1951-ben felszentelt görög ortodox székesegyház az Entertainment Industryban.",
                   "category": "religious",
                   "coords": [
                         -118.299599,
@@ -14020,7 +14020,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "A Saint James Episcopal Church egy episzkopális templom hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1926-ban épült episzkopális templom az Entertainment Industryban.",
                   "category": "religious",
                   "coords": [
                         -118.311968,
@@ -14029,7 +14029,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Angelus Temple",
-                  "text": "Az Angelus Temple egy pünkösdi templom hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1926-ban megnyitott pünkösdi nagy templom az Entertainment Industryban.",
                   "category": "religious",
                   "coords": [
                         -118.260886,
@@ -14148,7 +14148,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Japanese American National Museum",
-                  "text": "Muzeul Național Japonez American este un muzeu care prezintă istoria americani de origine japoneză, în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Deschis în 1996 și proiectat de Gyo Obata, Muzeul Național Japonez American din Los Angeles.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
@@ -14184,7 +14184,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Neutra Studio and Residences (VDL Research House)",
-                  "text": "Neutra Studio and Residences (VDL Research House) este casa și studioul arhitectului Richard Neutra în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Casa de cercetare Neutra VDL, construită în 1939 de Richard Neutra, o capodoperă a arhitecturii moderne, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -118.260396,
@@ -14292,7 +14292,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Walt Disney Concert Hall",
-                  "text": "Sala de Concerte Walt Disney este o sală de concerte cu o arhitectură distinctivă în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Sală de concerte proiectată de Frank Gehry cu curbe distinctive din oțel inoxidabil în Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.249949,
@@ -14310,7 +14310,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Regent",
-                  "text": "The Regent este un teatru istoric în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Teatru cinematografic deschis în 1914 în Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.247817,
@@ -14319,7 +14319,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Koyasan Beikoku Betsuin din Los Angeles este un templu budist în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Templu budist Shingon fondat în 1940 în Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.240311,
@@ -14328,7 +14328,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "First Church of Christ, Scientist",
-                  "text": "Biserica Primară a lui Hristos, Scientolog este o biserică în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Construită în 1912 și proiectată de Elmer Grey, această biserică se află în Los Angeles, California.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
@@ -14346,7 +14346,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Sophia Greek Orthodox Cathedral",
-                  "text": "Catedrala Ortodoxă Greacă Sfânta Sofia este o catedrală ortodoxă greacă în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Catedrală greco-ortodoxă sfințită în 1951 în Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.299599,
@@ -14364,7 +14364,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "Biserica Episcopală Sfântul Iacob este o biserică episcopală în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Biserică episcopală construită în 1926 în Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.311968,
@@ -14373,7 +14373,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Angelus Temple",
-                  "text": "Templul Angelus este o biserică penticostală în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Megabiserică penticostală deschisă în 1926 în Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.260886,
@@ -14492,7 +14492,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Japanese American National Museum",
-                  "text": "The Japanese American National Museum is a museum dedicated to the history of Japanese Americans in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Opened in 1996 and designed by Gyo Obata, the Japanese American National Museum in Los Angeles.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
@@ -14528,7 +14528,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Neutra Studio and Residences (VDL Research House)",
-                  "text": "Neutra Studio and Residences (VDL Research House) is the home and studio of architect Richard Neutra in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Neutra VDL Research House, built in 1939 by Richard Neutra, a modernist masterpiece, now a museum.",
                   "category": "museum",
                   "coords": [
                         -118.260396,
@@ -14636,7 +14636,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Walt Disney Concert Hall",
-                  "text": "The Walt Disney Concert Hall is a concert hall with distinctive architecture in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Concert hall designed by Frank Gehry with iconic stainless steel curves in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.249949,
@@ -14654,7 +14654,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Regent",
-                  "text": "The Regent is a historic theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Movie palace opened in 1914 in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.247817,
@@ -14663,7 +14663,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Koyasan Beikoku Betsuin of Los Angeles is a Buddhist temple in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Shingon Buddhist temple founded in 1940 in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.240311,
@@ -14672,7 +14672,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "First Church of Christ, Scientist",
-                  "text": "First Church of Christ, Scientist is a church in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Built in 1912 and designed by Elmer Grey, this church is in Los Angeles, California.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
@@ -14690,7 +14690,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Sophia Greek Orthodox Cathedral",
-                  "text": "Saint Sophia Greek Orthodox Cathedral is a Greek Orthodox cathedral in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Greek Orthodox cathedral consecrated in 1951 in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.299599,
@@ -14708,7 +14708,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "Saint James Episcopal Church is an Episcopal church in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Episcopal church built in 1926 in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.311968,
@@ -14717,7 +14717,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Angelus Temple",
-                  "text": "Angelus Temple is a Pentecostal church in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Pentecostal megachurch opened in 1926 in Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.260886,
@@ -14870,7 +14870,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Stephen A. Douglas Tomb",
-                  "text": "Das Stephen A. Douglas Tomb ist die Grabstätte des Senators in Chicagos Douglas Park.",
+                  "text": "Das Stephen A. Douglas Tomb, errichtet 1881, wurde von Leonard W. Volk entworfen.",
                   "category": "historical",
                   "coords": [
                         -87.608409,
@@ -14879,7 +14879,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Union Stock Yards Gate",
-                  "text": "Das Union Stock Yards Gate ist ein historisches Tor, das den Eingang zu den ehemaligen Viehhöfen markiert.",
+                  "text": "Das Union Stock Yard Gate, erbaut 1879 von Burnham & Root, ist ein historischer Eingang zum Viehmarkt.",
                   "category": "fortress",
                   "coords": [
                         -87.648498,
@@ -15059,7 +15059,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Kenwood United Church of Christ",
-                  "text": "Die Kenwood United Church of Christ ist ein historisches Kirchengebäude in Chicago.",
+                  "text": "Die Kenwood United Church of Christ, erbaut 1887, wurde von William W. Boyington und H.B. Wheelock entworfen.",
                   "category": "landmark",
                   "coords": [
                         -87.59976,
@@ -15077,7 +15077,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Thomas the Apostle Catholic Church",
-                  "text": "Die Saint Thomas the Apostle Catholic Church ist eine katholische Kirche im Hyde Park Viertel.",
+                  "text": "Die Saint Thomas the Apostle Catholic Church, erbaut 1922, wurde von Francis Barry Byrne entworfen.",
                   "category": "landmark",
                   "coords": [
                         -87.595472,
@@ -15086,7 +15086,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Ebenezer Missionary Baptist Church",
-                  "text": "Die Ebenezer Missionary Baptist Church ist ein Wahrzeichen des Bronzeville Viertels.",
+                  "text": "Die Ebenezer Missionary Baptist Church, erbaut 1899, wurde von Dankmar Adler entworfen.",
                   "category": "landmark",
                   "coords": [
                         -87.613573,
@@ -15095,7 +15095,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "South Side Community Art Center (SSCAC)",
-                  "text": "Das South Side Community Art Center ist das älteste afroamerikanische Kunstzentrum in den USA.",
+                  "text": "Entworfen von Hallberg, Bredendieck und Lerner, dieses historische Kunstzentrum befindet sich in Chicago, Illinois.",
                   "category": "landmark",
                   "coords": [
                         -87.622722,
@@ -15205,7 +15205,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Stephen A. Douglas Tomb",
-                  "text": "A Stephen A. Douglas sír a szenátor nyughelye a chicagói Douglas Parkban.",
+                  "text": "A Stephen A. Douglas-sír 1881-ben épült, Leonard W. Volk tervezte.",
                   "category": "historical",
                   "coords": [
                         -87.608409,
@@ -15214,7 +15214,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Union Stock Yards Gate",
-                  "text": "A Union Stock Yards Gate egy történelmi kapu, amely a régi vágóhidak bejáratát jelzi.",
+                  "text": "A Union Stock Yard Gate-et Burnham & Root építette 1879-ben, a marhavásár történelmi bejárata.",
                   "category": "fortress",
                   "coords": [
                         -87.648498,
@@ -15394,7 +15394,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Kenwood United Church of Christ",
-                  "text": "A Kenwood United Church of Christ egy történelmi templomépület Chicagóban.",
+                  "text": "A Kenwood United Church of Christ 1887-ben épült, William W. Boyington és H.B. Wheelock tervezte.",
                   "category": "landmark",
                   "coords": [
                         -87.59976,
@@ -15412,7 +15412,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Thomas the Apostle Catholic Church",
-                  "text": "A Saint Thomas the Apostle Catholic Church egy katolikus templom a Hyde Park negyedben.",
+                  "text": "A Szent Tamás apostol katolikus templom 1922-ben épült, Francis Barry Byrne tervezte.",
                   "category": "landmark",
                   "coords": [
                         -87.595472,
@@ -15421,7 +15421,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Ebenezer Missionary Baptist Church",
-                  "text": "Az Ebenezer Missionary Baptist Church a Bronzeville negyed nevezetessége.",
+                  "text": "Az Ebenezer Missionary Baptist Church 1899-ben épült, Dankmar Adler tervezte.",
                   "category": "landmark",
                   "coords": [
                         -87.613573,
@@ -15430,7 +15430,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "South Side Community Art Center (SSCAC)",
-                  "text": "A South Side Community Art Center a legrégebbi afroamerikai művészeti központ az USA-ban.",
+                  "text": "Hallberg, Bredendieck és Lerner tervezte, ez a történelmi művészeti központ Chicagóban, Illinois államban.",
                   "category": "landmark",
                   "coords": [
                         -87.622722,
@@ -15540,7 +15540,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Stephen A. Douglas Tomb",
-                  "text": "Mormântul lui Stephen A. Douglas este locul de odihnă al senatorului în Douglas Park din Chicago.",
+                  "text": "Mormântul lui Stephen A. Douglas, construit în 1881, proiectat de Leonard W. Volk.",
                   "category": "historical",
                   "coords": [
                         -87.608409,
@@ -15549,7 +15549,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Union Stock Yards Gate",
-                  "text": "Poarta Union Stock Yards este o poartă istorică ce marchează intrarea în fostele abatoare.",
+                  "text": "Poarta Union Stock Yard, construită în 1879 de Burnham & Root, o intrare istorică la piața de vite.",
                   "category": "fortress",
                   "coords": [
                         -87.648498,
@@ -15729,7 +15729,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Kenwood United Church of Christ",
-                  "text": "Biserica Kenwood United Church of Christ este o clădire istorică de biserică din Chicago.",
+                  "text": "Biserica Kenwood United Church of Christ, construită în 1887, proiectată de William W. Boyington și H.B. Wheelock.",
                   "category": "landmark",
                   "coords": [
                         -87.59976,
@@ -15747,7 +15747,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Thomas the Apostle Catholic Church",
-                  "text": "Biserica Catolică Sfântul Toma Apostolul este o biserică catolică în cartierul Hyde Park.",
+                  "text": "Biserica Catolică Sfântul Toma Apostolul, construită în 1922, proiectată de Francis Barry Byrne.",
                   "category": "landmark",
                   "coords": [
                         -87.595472,
@@ -15756,7 +15756,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Ebenezer Missionary Baptist Church",
-                  "text": "Biserica Ebenezer Missionary Baptist este un reper al cartierului Bronzeville.",
+                  "text": "Biserica Ebenezer Missionary Baptist, construită în 1899, proiectată de Dankmar Adler.",
                   "category": "landmark",
                   "coords": [
                         -87.613573,
@@ -15765,7 +15765,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "South Side Community Art Center (SSCAC)",
-                  "text": "Centrul de Artă Comunitară South Side este cel mai vechi centru de artă afro-american din SUA.",
+                  "text": "Proiectat de Hallberg, Bredendieck și Lerner, acest centru de artă istoric se află în Chicago, Illinois.",
                   "category": "landmark",
                   "coords": [
                         -87.622722,
@@ -15875,7 +15875,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Stephen A. Douglas Tomb",
-                  "text": "The Stephen A. Douglas Tomb is the senator's resting place in Chicago's Douglas Park.",
+                  "text": "Stephen A. Douglas Tomb, built in 1881, designed by Leonard W. Volk.",
                   "category": "historical",
                   "coords": [
                         -87.608409,
@@ -15884,7 +15884,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Union Stock Yards Gate",
-                  "text": "The Union Stock Yard Gate is a historic gate marking the entrance to the former stockyards.",
+                  "text": "Union Stock Yard Gate, built in 1879 by Burnham & Root, historic entrance to the livestock market.",
                   "category": "fortress",
                   "coords": [
                         -87.648498,
@@ -16064,7 +16064,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Kenwood United Church of Christ",
-                  "text": "The Kenwood United Church of Christ is a historic church building in Chicago.",
+                  "text": "Kenwood United Church of Christ, built in 1887, designed by William W. Boyington and H.B. Wheelock.",
                   "category": "landmark",
                   "coords": [
                         -87.59976,
@@ -16082,7 +16082,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Thomas the Apostle Catholic Church",
-                  "text": "Saint Thomas the Apostle Catholic Church is a Catholic church in the Hyde Park neighborhood.",
+                  "text": "Saint Thomas the Apostle Catholic Church, built in 1922, designed by Francis Barry Byrne.",
                   "category": "landmark",
                   "coords": [
                         -87.595472,
@@ -16091,7 +16091,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Ebenezer Missionary Baptist Church",
-                  "text": "Ebenezer Missionary Baptist Church is a landmark of the Bronzeville neighborhood.",
+                  "text": "Ebenezer Missionary Baptist Church, built in 1899, designed by Dankmar Adler.",
                   "category": "landmark",
                   "coords": [
                         -87.613573,
@@ -16100,7 +16100,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "South Side Community Art Center (SSCAC)",
-                  "text": "The South Side Community Art Center is the oldest African American art center in the United States.",
+                  "text": "Designed by Hallberg, Bredendieck, and Lerner, this historic art center is in Chicago, Illinois.",
                   "category": "landmark",
                   "coords": [
                         -87.622722,
@@ -18910,7 +18910,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Druid Hill Park",
-                  "text": "Der Druid Hill Park ist ein großer öffentlicher Park in Baltimore mit einem Zoo und einem Gewächshaus.",
+                  "text": "1860 angelegter öffentlicher Park in Of Baltimore, einer der ältesten der Stadt.",
                   "category": "park",
                   "coords": [
                         -76.644224,
@@ -18928,7 +18928,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Patterson Park",
-                  "text": "Der Patterson Park ist ein historischer öffentlicher Park im Osten von Baltimore.",
+                  "text": "1827 angelegter Park in Of Baltimore, bekannt für seine Pagode.",
                   "category": "park",
                   "coords": [
                         -76.57927,
@@ -18973,7 +18973,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Villa Anneslie",
-                  "text": "Villa Anneslie ist ein historisches Herrenhaus in Baltimore.",
+                  "text": "1855 erbautes historisches Villa in Of Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.605894,
@@ -18982,7 +18982,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Auburn House",
-                  "text": "Auburn House ist ein historisches Herrenhaus in Baltimore.",
+                  "text": "1849 erbautes historisches Haus in Of Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.613755,
@@ -19263,7 +19263,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Druid Hill Park",
-                  "text": "A Druid Hill Park egy nagy nyilvános park Baltimore-ban, állatkerttel és üvegházzal.",
+                  "text": "1860-ban létesített nyilvános park Baltimore-ban, a város egyik legrégebbi parkja.",
                   "category": "park",
                   "coords": [
                         -76.644224,
@@ -19281,7 +19281,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Patterson Park",
-                  "text": "A Patterson Park egy történelmi nyilvános park Baltimore keleti részén.",
+                  "text": "1827-ben létrehozott park Baltimore-ban, híres pagodájáról.",
                   "category": "park",
                   "coords": [
                         -76.57927,
@@ -19326,7 +19326,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Villa Anneslie",
-                  "text": "A Villa Anneslie egy történelmi kúria Baltimore-ban.",
+                  "text": "1855-ben épült történelmi villa Baltimore-ban.",
                   "category": "historical",
                   "coords": [
                         -76.605894,
@@ -19335,7 +19335,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Auburn House",
-                  "text": "Az Auburn House egy történelmi kúria Baltimore-ban.",
+                  "text": "1849-ben épült történelmi ház Baltimore-ban.",
                   "category": "historical",
                   "coords": [
                         -76.613755,
@@ -19616,7 +19616,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Druid Hill Park",
-                  "text": "Parcul Druid Hill este un parc public mare în Baltimore, cu o grădină zoologică și o seră.",
+                  "text": "Parcul public amenajat în 1860 în Of Baltimore, unul dintre cele mai vechi din oraș.",
                   "category": "park",
                   "coords": [
                         -76.644224,
@@ -19634,7 +19634,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Patterson Park",
-                  "text": "Parcul Patterson este un parc public istoric în estul Baltimore-ului.",
+                  "text": "Parcul creat în 1827 în Of Baltimore, cunoscut pentru pagoda sa.",
                   "category": "park",
                   "coords": [
                         -76.57927,
@@ -19679,7 +19679,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Villa Anneslie",
-                  "text": "Villa Anneslie este un conac istoric în Baltimore.",
+                  "text": "Vilă istorică construită în 1855 în Of Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.605894,
@@ -19688,7 +19688,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Auburn House",
-                  "text": "Auburn House este un conac istoric în Baltimore.",
+                  "text": "Casă istorică construită în 1849 în Of Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.613755,
@@ -19969,7 +19969,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Druid Hill Park",
-                  "text": "Druid Hill Park is a large public park in Baltimore with a zoo and a conservatory.",
+                  "text": "Public park established in 1860 in Of Baltimore, one of the oldest in the city.",
                   "category": "park",
                   "coords": [
                         -76.644224,
@@ -19987,7 +19987,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Patterson Park",
-                  "text": "Patterson Park is a historic public park in eastern Baltimore.",
+                  "text": "Park created in 1827 in Of Baltimore, known for its pagoda.",
                   "category": "park",
                   "coords": [
                         -76.57927,
@@ -20032,7 +20032,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Villa Anneslie",
-                  "text": "Villa Anneslie is a historic manor house in Baltimore.",
+                  "text": "Historic villa built in 1855 in Of Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.605894,
@@ -20041,7 +20041,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Auburn House",
-                  "text": "Auburn House is a historic manor house in Baltimore.",
+                  "text": "Historic house built in 1849 in Of Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.613755,
@@ -20520,7 +20520,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Hermann Park",
-                  "text": "Hermann Park ist ein großer öffentlicher Park in Houston.",
+                  "text": "1899 angelegter Park in Of Houston Deepwater, Heimat des Houston Zoos.",
                   "category": "park",
                   "coords": [
                         -95.388742,
@@ -20565,7 +20565,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Market Square Park",
-                  "text": "Market Square Park ist ein Park im historischen Market Square von Houston.",
+                  "text": "1964 angelegter Park im historischen Viertel von Of Houston Deepwater.",
                   "category": "park",
                   "coords": [
                         -95.362344,
@@ -20864,7 +20864,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Hermann Park",
-                  "text": "A Hermann Park egy nagy közpark Houstonban.",
+                  "text": "1899-ben létesített park Houstonban, a Houston Állatkert otthona.",
                   "category": "park",
                   "coords": [
                         -95.388742,
@@ -20909,7 +20909,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Market Square Park",
-                  "text": "A Market Square Park egy park Houston történelmi Market Square területén.",
+                  "text": "1964-ben létrehozott park Houston történelmi negyedében.",
                   "category": "park",
                   "coords": [
                         -95.362344,
@@ -21208,7 +21208,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Hermann Park",
-                  "text": "Hermann Park este un parc public mare din Houston.",
+                  "text": "Parcul amenajat în 1899 în Of Houston Deepwater, găzduiește Grădina Zoologică Houston.",
                   "category": "park",
                   "coords": [
                         -95.388742,
@@ -21253,7 +21253,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Market Square Park",
-                  "text": "Market Square Park este un parc în piața istorică Market Square din Houston.",
+                  "text": "Parcul creat în 1964 în cartierul istoric din Of Houston Deepwater.",
                   "category": "park",
                   "coords": [
                         -95.362344,
@@ -21552,7 +21552,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Hermann Park",
-                  "text": "Hermann Park is a large public park in Houston.",
+                  "text": "Park established in 1899 in Of Houston Deepwater, home to the Houston Zoo.",
                   "category": "park",
                   "coords": [
                         -95.388742,
@@ -21597,7 +21597,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Market Square Park",
-                  "text": "Market Square Park is a park in Houston's historic Market Square.",
+                  "text": "Park created in 1964 in the historic district of Of Houston Deepwater.",
                   "category": "park",
                   "coords": [
                         -95.362344,
@@ -21758,7 +21758,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Adams National Historical Park",
-                  "text": "Adams National Historical Park ist ein Museum in Boston, das die Geburtshäuser von John Adams und John Quincy Adams umfasst.",
+                  "text": "Historischer Park in Biotech, der die Geburtsstätten von Präsident John Adams und John Quincy Adams bewahrt.",
                   "category": "museum",
                   "coords": [
                         -71.011637,
@@ -22084,7 +22084,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Adams National Historical Park",
-                  "text": "Az Adams National Historical Park egy múzeum Bostonban, amely John Adams és John Quincy Adams szülőhelyeit foglalja magában.",
+                  "text": "Történelmi park a Biotechban, John Adams és John Quincy Adams elnökök szülőhelyeit őrzi.",
                   "category": "museum",
                   "coords": [
                         -71.011637,
@@ -22410,7 +22410,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Adams National Historical Park",
-                  "text": "Adams National Historical Park este un muzeu din Boston care include locurile de naștere ale lui John Adams și John Quincy Adams.",
+                  "text": "Parcul istoric din Biotech care păstrează locurile de naștere ale președinților John Adams și John Quincy Adams.",
                   "category": "museum",
                   "coords": [
                         -71.011637,
@@ -22736,7 +22736,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Adams National Historical Park",
-                  "text": "Adams National Historical Park is a museum in Boston that includes the birthplaces of John Adams and John Quincy Adams.",
+                  "text": "Historical park in Biotech preserving the birthplaces of Presidents John Adams and John Quincy Adams.",
                   "category": "museum",
                   "coords": [
                         -71.011637,

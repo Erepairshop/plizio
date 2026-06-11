@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraMaliLandmarksV2: POI[] = [
   {
-    id: "djingareyber-mosque-landmarks-v2",
+    id: "djingareyber-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Hamed Baba",
+                  "text": "Ein bedeutendes Kulturzentrum, benannt nach dem verehrten islamischen Gelehrten Ahmed Baba aus dem 16. Jahrhundert, in der Nähe der Djingareyber-Moschee.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.005997,
+                        16.768359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Hamed Baba",
+                  "text": "A tisztelt 16. századi iszlám tudósról, Ahmed Babáról elnevezett kiemelkedő kulturális központ a Djingareyber-mecset közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.005997,
+                        16.768359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Hamed Baba",
+                  "text": "Un proeminent centru cultural numit după veneratul erudit islamic din secolul al XVI-lea Ahmed Baba, lângă Moscheea Djingareyber.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.005997,
+                        16.768359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Hamed Baba",
+                  "text": "A prominent cultural center named after the revered 16th-century Islamic scholar Ahmed Baba, near the Djingareyber Mosque.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.005997,
+                        16.768359
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-6",
     coords: [-3.0039, 16.7728],
@@ -48,7 +93,196 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-museum-mali-landmarks-v2",
+    id: "national-museum-mali-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument de Maliba",
+                  "text": "Dieses Denkmal in der Nähe des Nationalmuseums feiert „Maliba“ (Großes Mali) und sein reiches kulturelles Erbe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009408,
+                        12.64525
+                  ]
+            },
+            {
+                  "name": "Éléphant",
+                  "text": "Dieses Elefanten-Skulpturdenkmal unterstreicht die Bedeutung der Tierwelt für Malis nationale Identität in der Nähe des Museumsgeländes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.020809,
+                        12.642216
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel de Koulouba",
+                  "text": "Dieser palastartige Schlosskomplex ist als „Hügel der Macht“ bekannt und dient als offizielle Residenz des Präsidenten von Mali auf dem Berg Koulouba.",
+                  "category": "castle",
+                  "coords": [
+                        -8.006566,
+                        12.660228
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Das Nationalmuseum von Mali zeigt umfangreiche Sammlungen alter Wandteppiche, ritueller Masken und archäologischer Artefakte aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -7.999624,
+                        12.658348
+                  ]
+            },
+            {
+                  "name": "Zoo Bamako",
+                  "text": "Dieser weitläufige zoologische Park in Bamako beherbergt eine vielfältige afrikanische Tierwelt, darunter Löwen, Schimpansen und eine große Voliere.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.000169,
+                        12.664784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument de Maliba",
+                  "text": "A Nemzeti Múzeum közelében található emlékmű a \"Maliba\" (Nagy Mali) és annak gazdag kulturális örökségét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009408,
+                        12.64525
+                  ]
+            },
+            {
+                  "name": "Éléphant",
+                  "text": "Ez az elefántszobrot ábrázoló emlékmű a múzeum területéhez közel a vadvilág jelentőségét hangsúlyozza Mali nemzeti identitásában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.020809,
+                        12.642216
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel de Koulouba",
+                  "text": "A „Hatalom dombjaként” ismert palotakomplexum a mali elnök hivatalos rezidenciájaként szolgál a Koulouba-hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        -8.006566,
+                        12.660228
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "A Mali Nemzeti Múzeum régi faliszőnyegek, rituális maszkok és régészeti leletek kiterjedt gyűjteményeit mutatja be a régióból.",
+                  "category": "museum",
+                  "coords": [
+                        -7.999624,
+                        12.658348
+                  ]
+            },
+            {
+                  "name": "Zoo Bamako",
+                  "text": "Ez a kiterjedt bamakói állatkert különféle afrikai vadon élő állatoknak, köztük oroszlánoknak, csimpánzoknak és egy nagy madárháznak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.000169,
+                        12.664784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument de Maliba",
+                  "text": "Situat în apropiere de Muzeul Național, acest monument celebrează „Maliba” (Maliul Mare) și bogata sa moștenire culturală.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009408,
+                        12.64525
+                  ]
+            },
+            {
+                  "name": "Éléphant",
+                  "text": "Această sculptură a unui elefant subliniază importanța faunei sălbatice în identitatea națională a statului Mali, în apropierea terenului muzeului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.020809,
+                        12.642216
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel de Koulouba",
+                  "text": "Cunoscut drept „Dealul Puterii”, acest complex sub formă de palat servește ca reședință oficială a președintelui statului Mali, pe Muntele Koulouba.",
+                  "category": "castle",
+                  "coords": [
+                        -8.006566,
+                        12.660228
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Muzeul Național din Mali expune colecții extinse de tapiserii antice, măști rituale și artefacte arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -7.999624,
+                        12.658348
+                  ]
+            },
+            {
+                  "name": "Zoo Bamako",
+                  "text": "Acest parc zoologic întins din Bamako găzduiește animale sălbatice africane diverse, inclusiv lei, cimpanzei și o volieră mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.000169,
+                        12.664784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument de Maliba",
+                  "text": "Located near the National Museum, this monument celebrates \"Maliba\" (Great Mali) and its rich cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009408,
+                        12.64525
+                  ]
+            },
+            {
+                  "name": "Éléphant",
+                  "text": "This elephant sculpture monument highlights the significance of wildlife in Mali's national identity near the museum grounds.",
+                  "category": "historical",
+                  "coords": [
+                        -8.020809,
+                        12.642216
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel de Koulouba",
+                  "text": "Known as the \"Hill of Power\", this palatial castle complex serves as the official residence of the President of Mali on Mount Koulouba.",
+                  "category": "castle",
+                  "coords": [
+                        -8.006566,
+                        12.660228
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "The National Museum of Mali displays extensive collections of ancient tapestries, ritual masks, and archaeological artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -7.999624,
+                        12.658348
+                  ]
+            },
+            {
+                  "name": "Zoo Bamako",
+                  "text": "This expansive zoological park in Bamako houses diverse African wildlife, including lions, chimpanzees, and a large aviary.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.000169,
+                        12.664784
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-8.0069, 12.6517],
@@ -138,7 +372,232 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pont-du-roi-fahd-landmarks-v2",
+    id: "pont-du-roi-fahd-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "kabral",
+                  "text": "Dieses Denkmal in der Nähe des Pont du Roi Fahd erinnert an Amílcar Cabral, eine Schlüsselfigur der antikolonialen Bewegungen Afrikas.",
+                  "category": "historical",
+                  "coords": [
+                        -8.049039,
+                        12.635278
+                  ]
+            },
+            {
+                  "name": "Rond point Ali Farka Touré",
+                  "text": "Dieses Kreisverkehrsdenkmal in Bamako ist Ali Farka Touré, dem legendären malischen Sänger und Multiinstrumentalisten, gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        -8.042141,
+                        12.638353
+                  ]
+            },
+            {
+                  "name": "Acte Sept (Association Culturelle)",
+                  "text": "Dieser dynamische Theaterort in Bamako fördert die afrikanische Schauspielkunst durch Workshops und lebendige Bühnenproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.031951,
+                        12.634549
+                  ]
+            },
+            {
+                  "name": "Sous bois",
+                  "text": "Diese städtische grüne Attraktion bietet einen schattigen, bewaldeten Rückzugsort inmitten des geschäftigen Stadtbildes nahe der Pont du Roi Fahd.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022369,
+                        12.634779
+                  ]
+            },
+            {
+                  "name": "Can 2002",
+                  "text": "Dieses Sportdenkmal erinnert an den Afrikanischen Nationen-Pokal 2002, ein großes Fußballturnier, das von Mali ausgerichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.035064,
+                        12.626566
+                  ]
+            },
+            {
+                  "name": "agence Canal + Baco-Djicoroni",
+                  "text": "Diese lokale Filiale einer Rundfunkagentur in Baco-Djicoroni dient als Knotenpunkt für regionale Satellitenfernsehdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.017378,
+                        12.596176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "kabral",
+                  "text": "A Pont du Roi Fahd közelében található emlékmű Amílcar Cabralnak, az afrikai antikolonialista mozgalmak kulcsfigurájának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -8.049039,
+                        12.635278
+                  ]
+            },
+            {
+                  "name": "Rond point Ali Farka Touré",
+                  "text": "Ez a bamakói körforgalomban lévő emlékmű Ali Farka Tourénak, a legendás mali énekesnek és multiinstrumentalistának van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        -8.042141,
+                        12.638353
+                  ]
+            },
+            {
+                  "name": "Acte Sept (Association Culturelle)",
+                  "text": "Ez a dinamikus bamakói színházi helyszín workshopokon és élénk színpadi produkciókon keresztül népszerűsíti az afrikai drámaművészetet.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.031951,
+                        12.634549
+                  ]
+            },
+            {
+                  "name": "Sous bois",
+                  "text": "Ez a városi zöld látványosság árnyékos, fás menedéket kínál a nyüzsgő városkép közepette, a Pont du Roi Fahd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022369,
+                        12.634779
+                  ]
+            },
+            {
+                  "name": "Can 2002",
+                  "text": "Ez a sportemlékmű a 2002-es Afrikai Nemzetek Kupájának, a Mali által rendezett jelentős labdarúgó-tornának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -8.035064,
+                        12.626566
+                  ]
+            },
+            {
+                  "name": "agence Canal + Baco-Djicoroni",
+                  "text": "Ez a Baco-Djicoroniban található helyi műsorszóró ügynökség a regionális műholdas televíziós szolgáltatások központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.017378,
+                        12.596176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "kabral",
+                  "text": "Acest memorial de lângă Pont du Roi Fahd îl comemorează pe Amílcar Cabral, o figură cheie în mișcările anticoloniale din Africa.",
+                  "category": "historical",
+                  "coords": [
+                        -8.049039,
+                        12.635278
+                  ]
+            },
+            {
+                  "name": "Rond point Ali Farka Touré",
+                  "text": "Acest monument cu sens giratoriu din Bamako este dedicat lui Ali Farka Touré, legendarul cântăreț și multi-instrumentist malian.",
+                  "category": "historical",
+                  "coords": [
+                        -8.042141,
+                        12.638353
+                  ]
+            },
+            {
+                  "name": "Acte Sept (Association Culturelle)",
+                  "text": "Acest loc de teatru dinamic din Bamako promovează artele dramatice africane prin ateliere și producții de scenă pline de viață.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.031951,
+                        12.634549
+                  ]
+            },
+            {
+                  "name": "Sous bois",
+                  "text": "Această atracție verde urbană oferă un refugiu umbrit, împădurit, în mijlocul peisajului orașului plin de viață, lângă Pont du Roi Fahd.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022369,
+                        12.634779
+                  ]
+            },
+            {
+                  "name": "Can 2002",
+                  "text": "Acest monument sportiv comemorează Cupa Africii pe Națiuni din 2002, un turneu major de fotbal găzduit de Mali.",
+                  "category": "historical",
+                  "coords": [
+                        -8.035064,
+                        12.626566
+                  ]
+            },
+            {
+                  "name": "agence Canal + Baco-Djicoroni",
+                  "text": "Această sucursală a agenției locale de difuzare din Baco-Djicoroni servește ca un hub pentru serviciile regionale de televiziune prin satelit.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.017378,
+                        12.596176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "kabral",
+                  "text": "This memorial near the Pont du Roi Fahd commemorates Amílcar Cabral, a key figure in Africa's anti-colonial movements.",
+                  "category": "historical",
+                  "coords": [
+                        -8.049039,
+                        12.635278
+                  ]
+            },
+            {
+                  "name": "Rond point Ali Farka Touré",
+                  "text": "This roundabout monument in Bamako is dedicated to Ali Farka Touré, the legendary Malian singer and multi-instrumentalist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.042141,
+                        12.638353
+                  ]
+            },
+            {
+                  "name": "Acte Sept (Association Culturelle)",
+                  "text": "This dynamic theatre venue in Bamako promotes African dramatic arts through workshops and lively stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.031951,
+                        12.634549
+                  ]
+            },
+            {
+                  "name": "Sous bois",
+                  "text": "This urban green attraction offers a shaded, wooded retreat amidst the bustling cityscape near the Pont du Roi Fahd.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022369,
+                        12.634779
+                  ]
+            },
+            {
+                  "name": "Can 2002",
+                  "text": "This sports monument commemorates the 2002 African Cup of Nations, a major football tournament hosted by Mali.",
+                  "category": "historical",
+                  "coords": [
+                        -8.035064,
+                        12.626566
+                  ]
+            },
+            {
+                  "name": "agence Canal + Baco-Djicoroni",
+                  "text": "This local broadcast agency branch in Baco-Djicoroni serves as a hub for regional satellite television services.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.017378,
+                        12.596176
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-8.01, 12.6247],
@@ -183,7 +642,160 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "stade-26-mars-landmarks-v2",
+    id: "stade-26-mars-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bonfi koite",
+                  "text": "Diese lokale Attraktion in der Nähe des Stade 26 Mars bietet einen Einblick in das alltägliche malische Gemeinschaftsleben in Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.946875,
+                        12.586189
+                  ]
+            },
+            {
+                  "name": "Tour de l'Afrique",
+                  "text": "Dieses markante Turmdenkmal in Bamako hat die Form eines gigantischen Affenbrotbaums und symbolisiert die afrikanische Einheit.",
+                  "category": "historical",
+                  "coords": [
+                        -7.943292,
+                        12.584582
+                  ]
+            },
+            {
+                  "name": "Mamoutou Sissoko",
+                  "text": "Dieses imposante, schlossartige Bauwerk in Bamako zeichnet sich durch ausgeprägte westafrikanische Architekturmotive in seinem grandiosen Design aus.",
+                  "category": "castle",
+                  "coords": [
+                        -7.908904,
+                        12.578339
+                  ]
+            },
+            {
+                  "name": "Monument entrée logements sociaux Niamana",
+                  "text": "Dieses Viertel-Denkmal markiert den Eingang zum sozialen Wohnviertel Niamana und begrüßt die Bewohner im Vorort Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.866313,
+                        12.591903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bonfi koite",
+                  "text": "A Stade 26 Mars közelében található helyi látványosság bepillantást enged Bamako mindennapi mali közösségi életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.946875,
+                        12.586189
+                  ]
+            },
+            {
+                  "name": "Tour de l'Afrique",
+                  "text": "Ez a gigantikus majomkenyérfát formázó kiemelkedő bamakói toronyemlékmű az afrikai egységet szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        -7.943292,
+                        12.584582
+                  ]
+            },
+            {
+                  "name": "Mamoutou Sissoko",
+                  "text": "Ez az impozáns, kastélyszerű bamakói építmény grandiózus kialakításában jellegzetes nyugat-afrikai építészeti motívumokat vonultat fel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.908904,
+                        12.578339
+                  ]
+            },
+            {
+                  "name": "Monument entrée logements sociaux Niamana",
+                  "text": "Ez a környékbeli emlékmű a niamanai szociális lakónegyed bejáratát jelzi, üdvözölve Bamako külvárosának lakóit.",
+                  "category": "historical",
+                  "coords": [
+                        -7.866313,
+                        12.591903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bonfi koite",
+                  "text": "Situată în apropiere de Stade 26 Mars, această atracție locală oferă o privire în viața comunității maliene de zi cu zi din Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.946875,
+                        12.586189
+                  ]
+            },
+            {
+                  "name": "Tour de l'Afrique",
+                  "text": "Sub forma unui arbore baobab gigantic, acest turn proeminent din Bamako simbolizează unitatea africană.",
+                  "category": "historical",
+                  "coords": [
+                        -7.943292,
+                        12.584582
+                  ]
+            },
+            {
+                  "name": "Mamoutou Sissoko",
+                  "text": "Această structură impunătoare asemănătoare unui castel din Bamako prezintă motive arhitecturale distincte din Africa de Vest în designul său grandios.",
+                  "category": "castle",
+                  "coords": [
+                        -7.908904,
+                        12.578339
+                  ]
+            },
+            {
+                  "name": "Monument entrée logements sociaux Niamana",
+                  "text": "Acest monument de cartier marchează intrarea în districtul de locuințe sociale Niamana, salutând locuitorii din suburbiile din Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.866313,
+                        12.591903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bonfi koite",
+                  "text": "Situated near the Stade 26 Mars, this local attraction offers a glimpse into everyday Malian community life in Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.946875,
+                        12.586189
+                  ]
+            },
+            {
+                  "name": "Tour de l'Afrique",
+                  "text": "Shaped like a gigantic baobab tree, this prominent tower monument in Bamako symbolizes African unity.",
+                  "category": "historical",
+                  "coords": [
+                        -7.943292,
+                        12.584582
+                  ]
+            },
+            {
+                  "name": "Mamoutou Sissoko",
+                  "text": "This imposing castle-like structure in Bamako features distinct West African architectural motifs in its grand design.",
+                  "category": "castle",
+                  "coords": [
+                        -7.908904,
+                        12.578339
+                  ]
+            },
+            {
+                  "name": "Monument entrée logements sociaux Niamana",
+                  "text": "This neighborhood monument marks the entrance to the Niamana social housing district, greeting residents in suburban Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.866313,
+                        12.591903
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-7.9258, 12.6074],
@@ -228,7 +840,160 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bamako-grand-mosque-landmarks-v2",
+    id: "bamako-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie Medina",
+                  "text": "Diese Galerie für zeitgenössische Kunst in Bamako zeigt Werke malischer und internationaler Künstler in einem lebendigen kulturellen Umfeld.",
+                  "category": "museum",
+                  "coords": [
+                        -7.995669,
+                        12.654639
+                  ]
+            },
+            {
+                  "name": "Monument de l'Enfant Palestinien",
+                  "text": "Dieses Denkmal in der Nähe der Großen Moschee von Bamako ist palästinensischen Kindern gewidmet und spiegelt die internationale Solidarität wider.",
+                  "category": "historical",
+                  "coords": [
+                        -7.994174,
+                        12.65054
+                  ]
+            },
+            {
+                  "name": "Große Moschee von Bamako",
+                  "text": "Dieses markante Gotteshaus verfügt über hoch aufragende Minarette und weitläufige Innenhöfe und dient als zentraler spiritueller Knotenpunkt in Bamako.",
+                  "category": "religious",
+                  "coords": [
+                        -7.993166,
+                        12.646888
+                  ]
+            },
+            {
+                  "name": "Monument d'Al Quds",
+                  "text": "Dieses symbolische Denkmal in Bamako erinnert an Jerusalem (Al Quds) und steht in der Nähe der Großen Moschee der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992825,
+                        12.650917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie Medina",
+                  "text": "Ez a kortárs bamakói művészeti galéria mali és nemzetközi művészek alkotásait mutatja be élénk kulturális környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        -7.995669,
+                        12.654639
+                  ]
+            },
+            {
+                  "name": "Monument de l'Enfant Palestinien",
+                  "text": "A bamakói nagymecset közelében található emlékművet a palesztin gyermekeknek szentelték, tükrözve a nemzetközi szolidaritást.",
+                  "category": "historical",
+                  "coords": [
+                        -7.994174,
+                        12.65054
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Bamako",
+                  "text": "Ez a lenyűgöző istentiszteleti hely tornyosuló minaretekkel és tágas udvarokkal rendelkezik, Bamako központi spirituális központjaként szolgálva.",
+                  "category": "religious",
+                  "coords": [
+                        -7.993166,
+                        12.646888
+                  ]
+            },
+            {
+                  "name": "Monument d'Al Quds",
+                  "text": "Ez a szimbolikus bamakói emlékmű, amely a város nagymecsetje közelében áll, Jeruzsálemnek (Al Quds) állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992825,
+                        12.650917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie Medina",
+                  "text": "Această galerie de artă contemporană din Bamako prezintă lucrări ale artiștilor malieni și internaționali într-un cadru cultural vibrant.",
+                  "category": "museum",
+                  "coords": [
+                        -7.995669,
+                        12.654639
+                  ]
+            },
+            {
+                  "name": "Monument de l'Enfant Palestinien",
+                  "text": "Situat lângă Marea Moschee din Bamako, acest monument este dedicat copiilor palestinieni, reflectând solidaritatea internațională.",
+                  "category": "historical",
+                  "coords": [
+                        -7.994174,
+                        12.65054
+                  ]
+            },
+            {
+                  "name": "Marea Moschee din Bamako",
+                  "text": "Acest lăcaș de cult impresionant are minarete înalte și curți spațioase, servind drept centru spiritual central în Bamako.",
+                  "category": "religious",
+                  "coords": [
+                        -7.993166,
+                        12.646888
+                  ]
+            },
+            {
+                  "name": "Monument d'Al Quds",
+                  "text": "Acest monument simbolic din Bamako comemorează Ierusalimul (Al Quds), situat în apropierea Marii Moschei a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992825,
+                        12.650917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie Medina",
+                  "text": "This contemporary art gallery in Bamako showcases works by Malian and international artists in a vibrant cultural setting.",
+                  "category": "museum",
+                  "coords": [
+                        -7.995669,
+                        12.654639
+                  ]
+            },
+            {
+                  "name": "Monument de l'Enfant Palestinien",
+                  "text": "Located near the Grand Mosque of Bamako, this monument is dedicated to Palestinian children, reflecting international solidarity.",
+                  "category": "historical",
+                  "coords": [
+                        -7.994174,
+                        12.65054
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Bamako",
+                  "text": "This striking place of worship features towering minarets and spacious courtyards, serving as a central spiritual hub in Bamako.",
+                  "category": "religious",
+                  "coords": [
+                        -7.993166,
+                        12.646888
+                  ]
+            },
+            {
+                  "name": "Monument d'Al Quds",
+                  "text": "This symbolic monument in Bamako commemorates Jerusalem (Al Quds), standing near the city's Grand Mosque.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992825,
+                        12.650917
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-7.9945, 12.6453],
@@ -363,7 +1128,52 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "niando-mosque-djenne-landmarks-v2",
+    id: "niando-mosque-djenne-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tonombo",
+                  "text": "Die archäologische Stätte bewahrt unterirdische Strukturen, die auf die reiche vorkoloniale Geschichte der Region hindeuten.",
+                  "category": "historical",
+                  "coords": [
+                        -4.547761,
+                        13.906725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tonombo",
+                  "text": "A régészeti lelőhely olyan felszín alatti jellegzetességeket őriz, amelyek a régió gazdag gyarmatosítás előtti történelmére utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        -4.547761,
+                        13.906725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tonombo",
+                  "text": "Situl arheologic păstrează elemente subterane care sugerează bogata istorie precolonială a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -4.547761,
+                        13.906725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tonombo",
+                  "text": "The archaeological site preserves subsurface features that hint at the region's rich pre-colonial history.",
+                  "category": "historical",
+                  "coords": [
+                        -4.547761,
+                        13.906725
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-5",
     coords: [-4.551, 13.9065],
@@ -588,7 +1398,88 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palais-du-roi-biton-coulibaly-landmarks-v2",
+    id: "palais-du-roi-biton-coulibaly-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond Point",
+                  "text": "Dieses Denkmal steht auf einem Kreisverkehr in der Umgebung des historischen Palastes von König Biton Coulibaly.",
+                  "category": "historical",
+                  "coords": [
+                        -6.225856,
+                        13.431724
+                  ]
+            },
+            {
+                  "name": "Tomb of Da Monzon",
+                  "text": "Dieses monumentale Grabmal ist die Ruhestätte von Da Monzon, einem berühmten Herrscher des Bamana-Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        -6.170949,
+                        13.496335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond Point",
+                  "text": "Ez az emlékmű egy körforgalomban áll, Biton Coulibaly király történelmi palotájának környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.225856,
+                        13.431724
+                  ]
+            },
+            {
+                  "name": "Tomb of Da Monzon",
+                  "text": "Ez a monumentális sír Da Monzon, a Bamana Birodalom híres uralkodójának nyughelye.",
+                  "category": "historical",
+                  "coords": [
+                        -6.170949,
+                        13.496335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond Point",
+                  "text": "Acest monument este așezat într-un sens giratoriu din zona înconjurătoare a palatului istoric al regelui Biton Coulibaly.",
+                  "category": "historical",
+                  "coords": [
+                        -6.225856,
+                        13.431724
+                  ]
+            },
+            {
+                  "name": "Tomb of Da Monzon",
+                  "text": "Acest mormânt monumental este locul de odihnă al lui Da Monzon, un faimos conducător al Imperiului Bamana.",
+                  "category": "historical",
+                  "coords": [
+                        -6.170949,
+                        13.496335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond Point",
+                  "text": "This monument sits on a roundabout in the area surrounding the historic palace of King Biton Coulibaly.",
+                  "category": "historical",
+                  "coords": [
+                        -6.225856,
+                        13.431724
+                  ]
+            },
+            {
+                  "name": "Tomb of Da Monzon",
+                  "text": "This monumental tomb is the resting place of Da Monzon, a famous ruler of the Bamana Empire.",
+                  "category": "historical",
+                  "coords": [
+                        -6.170949,
+                        13.496335
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-4",
     coords: [-6.23, 13.44],
@@ -723,7 +1614,88 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palace-of-tieba-traore-landmarks-v2",
+    id: "palace-of-tieba-traore-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Sénoufo de Sikasso",
+                  "text": "Dieses Kunstzentrum in Sikasso, das dem Senufo-Volk gewidmet ist, präsentiert traditionelles westafrikanisches Handwerk, Musik und kulturelle Praktiken.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.676147,
+                        11.325684
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "Diese Kultstätte dient als zentraler Anlaufpunkt für die katholische Gemeinde in der Region Sikasso.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672956,
+                        11.320043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Sénoufo de Sikasso",
+                  "text": "A senufo népnek szentelt sikassói művészeti központ hagyományos nyugat-afrikai kézművességet, zenét és kulturális gyakorlatokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.676147,
+                        11.325684
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "Ez az istentiszteleti hely a katolikus közösség központjaként szolgál Sikasso régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672956,
+                        11.320043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Sénoufo de Sikasso",
+                  "text": "Dedicat poporului Senufo, acest centru de arte din Sikasso prezintă meșteșuguri, muzică și practici culturale tradiționale din Africa de Vest.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.676147,
+                        11.325684
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "Acest lăcaș de cult servește drept punct central pentru congregația catolică din regiunea Sikasso.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672956,
+                        11.320043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Sénoufo de Sikasso",
+                  "text": "Dedicated to the Senufo people, this arts center in Sikasso showcases traditional West African crafts, music, and cultural practices.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.676147,
+                        11.325684
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "This place of worship serves as a focal point for the Catholic congregation in the region of Sikasso.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672956,
+                        11.320043
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-3",
     coords: [-5.67, 11.32],
@@ -947,7 +1919,88 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "martyrs-monument-bamako-landmarks-v2",
+    id: "martyrs-monument-bamako-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "Dieser hoch aufragende Obelisk in Bamako ehrt Malis Unabhängigkeit von Frankreich und ist ein markantes Wahrzeichen im Zentrum der Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004698,
+                        12.637064
+                  ]
+            },
+            {
+                  "name": "Kwamé Nkrumah",
+                  "text": "Dieses Denkmal in Bamako ist eine Hommage an Kwame Nkrumah, den ghanaischen Führer und prominenten Verfechter des Panafrikanismus.",
+                  "category": "historical",
+                  "coords": [
+                        -8.016645,
+                        12.636905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "Ez a magasba törő bamakói obeliszk Mali Franciaországtól való függetlensége előtt tiszteleg, a főváros központjának kiemelkedő mérföldköveként.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004698,
+                        12.637064
+                  ]
+            },
+            {
+                  "name": "Kwamé Nkrumah",
+                  "text": "Ez a bamakói emlékmű Kwame Nkrumah ghánai vezetőnek és a pánafrikalizmus kiemelkedő szószólójának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -8.016645,
+                        12.636905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "Acest obelisc falnic din Bamako onorează independența statului Mali față de Franța, acționând ca un reper proeminent în centrul capitalei.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004698,
+                        12.637064
+                  ]
+            },
+            {
+                  "name": "Kwamé Nkrumah",
+                  "text": "Acest monument din Bamako îi aduce un omagiu lui Kwame Nkrumah, liderul ghanez și un susținător proeminent al pan-africanismului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.016645,
+                        12.636905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument de l'Indépendance",
+                  "text": "This soaring obelisk in Bamako honors Mali's independence from France, acting as a prominent landmark in the capital's center.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004698,
+                        12.637064
+                  ]
+            },
+            {
+                  "name": "Kwamé Nkrumah",
+                  "text": "This monument in Bamako pays homage to Kwame Nkrumah, the Ghanaian leader and prominent advocate of Pan-Africanism.",
+                  "category": "historical",
+                  "coords": [
+                        -8.016645,
+                        12.636905
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-8.005, 12.635],
@@ -992,7 +2045,232 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tour-d-afrique-bamako-landmarks-v2",
+    id: "tour-d-afrique-bamako-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Carte du Mali",
+                  "text": "Dieses öffentliche Denkmal in Bamako zeigt eine stilisierte Karte von Mali, die die nationale Einheit repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        -7.951851,
+                        12.546813
+                  ]
+            },
+            {
+                  "name": "Chez seydou",
+                  "text": "Ein markantes, schlossähnliches Gebäude in der Nähe des Wahrzeichens Tour d'Afrique in Bamako.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020782,
+                        12.533103
+                  ]
+            },
+            {
+                  "name": "Show club",
+                  "text": "Ein Unterhaltungsort und eine Attraktion im lebendigen Bezirk von Bamako rund um die Tour d'Afrique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.016397,
+                        12.540773
+                  ]
+            },
+            {
+                  "name": "Chez Bassirou Kane",
+                  "text": "Diese lokale Attraktion befindet sich unter den markanten städtischen Wahrzeichen im Bereich der Tour d'Afrique in Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.007322,
+                        12.54358
+                  ]
+            },
+            {
+                  "name": "MiG-21",
+                  "text": "Dieser erhaltene Mikojan-Gurewitsch MiG-21 Kampfjet wird als öffentliches Wahrzeichen in Bamako ausgestellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.933822,
+                        12.534767
+                  ]
+            },
+            {
+                  "name": "Arche d'accueil à l'entrée de Bamako",
+                  "text": "Dieses Begrüßungsbogen-Denkmal empfängt Besucher bei der Einfahrt in die Hauptstadt Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973885,
+                        12.556793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Carte du Mali",
+                  "text": "Ez a bamakói köztéri emlékmű Mali stilizált térképét ábrázolja, a nemzeti egységet jelképezve.",
+                  "category": "historical",
+                  "coords": [
+                        -7.951851,
+                        12.546813
+                  ]
+            },
+            {
+                  "name": "Chez seydou",
+                  "text": "Egy kiemelkedő kastélyszerű építmény a bamakói Tour d'Afrique nevezetesség közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020782,
+                        12.533103
+                  ]
+            },
+            {
+                  "name": "Show club",
+                  "text": "Szórakozóhely és látványosság Bamako nyüzsgő negyedében, a Tour d'Afrique környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.016397,
+                        12.540773
+                  ]
+            },
+            {
+                  "name": "Chez Bassirou Kane",
+                  "text": "Ez a helyi látványosság a kiemelkedő városi nevezetességek között található a bamakói Tour d'Afrique környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.007322,
+                        12.54358
+                  ]
+            },
+            {
+                  "name": "MiG-21",
+                  "text": "Ez a megőrzött Mikojan-Gurjevics MiG-21 vadászrepülőgép köztéri nevezetességként van kiállítva Bamakóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.933822,
+                        12.534767
+                  ]
+            },
+            {
+                  "name": "Arche d'accueil à l'entrée de Bamako",
+                  "text": "Ez a fogadóív-emlékmű üdvözli a fővárosba, Bamakóba érkező látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973885,
+                        12.556793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Carte du Mali",
+                  "text": "Acest monument public din Bamako prezintă o hartă stilizată a statului Mali, reprezentând unitatea națională.",
+                  "category": "historical",
+                  "coords": [
+                        -7.951851,
+                        12.546813
+                  ]
+            },
+            {
+                  "name": "Chez seydou",
+                  "text": "O structură proeminentă asemănătoare unui castel, situată lângă reperul Tour d'Afrique din Bamako.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020782,
+                        12.533103
+                  ]
+            },
+            {
+                  "name": "Show club",
+                  "text": "Un loc de divertisment și atracție situat în cartierul vibrant Bamako din jurul Tour d'Afrique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.016397,
+                        12.540773
+                  ]
+            },
+            {
+                  "name": "Chez Bassirou Kane",
+                  "text": "Această atracție locală se găsește printre reperele proeminente ale orașului din zona Tour d'Afrique din Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.007322,
+                        12.54358
+                  ]
+            },
+            {
+                  "name": "MiG-21",
+                  "text": "Acest avion de vânătoare Mikoyan-Gurevich MiG-21 conservat este expus ca reper public în Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.933822,
+                        12.534767
+                  ]
+            },
+            {
+                  "name": "Arche d'accueil à l'entrée de Bamako",
+                  "text": "Acest monument sub formă de arc de primire întâmpină vizitatorii la intrarea în capitala Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973885,
+                        12.556793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Carte du Mali",
+                  "text": "This public monument in Bamako features a stylized map of Mali, representing national unity.",
+                  "category": "historical",
+                  "coords": [
+                        -7.951851,
+                        12.546813
+                  ]
+            },
+            {
+                  "name": "Chez seydou",
+                  "text": "A prominent castle-like structure located near the Tour d'Afrique landmark in Bamako.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020782,
+                        12.533103
+                  ]
+            },
+            {
+                  "name": "Show club",
+                  "text": "An entertainment venue and attraction situated in the vibrant Bamako district around the Tour d'Afrique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.016397,
+                        12.540773
+                  ]
+            },
+            {
+                  "name": "Chez Bassirou Kane",
+                  "text": "This local attraction is found among the prominent city landmarks in the Tour d'Afrique area of Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.007322,
+                        12.54358
+                  ]
+            },
+            {
+                  "name": "MiG-21",
+                  "text": "This preserved Mikoyan-Gurevich MiG-21 fighter jet is displayed as a public landmark in Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.933822,
+                        12.534767
+                  ]
+            },
+            {
+                  "name": "Arche d'accueil à l'entrée de Bamako",
+                  "text": "This welcoming arch monument greets visitors as they enter the capital city of Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973885,
+                        12.556793
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-7.95, 12.55],
@@ -1082,7 +2360,88 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "monument-des-heros-de-larmee-noire-landmarks-v2",
+    id: "monument-des-heros-de-larmee-noire-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mémorial Modibo Keita",
+                  "text": "Dieser markante architektonische Gedenkkomplex ist Modibo Keita, dem ersten Präsidenten des unabhängigen Mali, gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009176,
+                        12.630823
+                  ]
+            },
+            {
+                  "name": "Monument de la paix",
+                  "text": "Dieses Denkmal in Bamako stellt eine auffliegende weiße Taube dar und symbolisiert den anhaltenden Wunsch der Nation nach Frieden.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010701,
+                        12.631325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mémorial Modibo Keita",
+                  "text": "Ezt a lenyűgöző építészeti emlékművet Modibo Keitának, a független Mali első elnökének szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009176,
+                        12.630823
+                  ]
+            },
+            {
+                  "name": "Monument de la paix",
+                  "text": "A felszálló fehér galambot ábrázoló bamakói emlékmű a nemzet béke iránti tartós vágyát szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010701,
+                        12.631325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mémorial Modibo Keita",
+                  "text": "Acest complex arhitectural memorial impresionant este dedicat lui Modibo Keita, primul președinte al statului independent Mali.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009176,
+                        12.630823
+                  ]
+            },
+            {
+                  "name": "Monument de la paix",
+                  "text": "Reprezentând un porumbel alb în zbor, acest monument din Bamako simbolizează dorința durabilă de pace a națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010701,
+                        12.631325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mémorial Modibo Keita",
+                  "text": "This striking architectural memorial complex is dedicated to Modibo Keita, the first president of independent Mali.",
+                  "category": "historical",
+                  "coords": [
+                        -8.009176,
+                        12.630823
+                  ]
+            },
+            {
+                  "name": "Monument de la paix",
+                  "text": "Representing a white dove taking flight, this monument in Bamako symbolizes the nation's enduring desire for peace.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010701,
+                        12.631325
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-8.005, 12.63],
@@ -1127,7 +2486,52 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tour-bceao-sikasso-landmarks-v2",
+    id: "tour-bceao-sikasso-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "Dieses regionale Museum bewahrt und stellt das vielfältige kulturelle Erbe und historische Artefakte der Region Sikasso aus.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68522,
+                        11.314314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "Ez a regionális múzeum megőrzi és bemutatja a sikassói terület sokszínű kulturális örökségét és történelmi műtárgyait.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68522,
+                        11.314314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "Acest muzeu regional conservă și expune diversele moșteniri culturale și artefacte istorice din zona Sikasso.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68522,
+                        11.314314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "This regional museum preserves and exhibits the diverse cultural heritage and historical artifacts of the Sikasso area.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68522,
+                        11.314314
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-3",
     coords: [-5.672, 11.315],
@@ -1172,7 +2576,340 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pont-martyrs-bamako-landmarks-v2",
+    id: "pont-martyrs-bamako-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "IB House",
+                  "text": "Dieses imposante schlossähnliche Gebäude befindet sich in der zentralen Gegend nahe dem Pont des Martyrs in Bamako.",
+                  "category": "castle",
+                  "coords": [
+                        -8.039875,
+                        12.540045
+                  ]
+            },
+            {
+                  "name": "Aire loisir kalaban coro",
+                  "text": "Eine Freizeitattraktion im Gebiet Kalaban Coro, die eine Grünfläche zur Entspannung in der Nähe von Bamako bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.027698,
+                        12.579918
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "Die Ruinen einer alten Flugzeugstruktur bilden ein ungewöhnliches Wahrzeichen in der Nähe des Pont des Martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        -8.030619,
+                        12.557944
+                  ]
+            },
+            {
+                  "name": "Le Buffle",
+                  "text": "Dieses Denkmal, das einen Büffel darstellt, steht markant unter den städtischen Wahrzeichen von Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991708,
+                        12.581042
+                  ]
+            },
+            {
+                  "name": "Blonba Les cases rondes",
+                  "text": "Dieser kulturelle Veranstaltungsort ist bekannt für seine traditionelle Rundhausarchitektur und seine Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.01204,
+                        12.600253
+                  ]
+            },
+            {
+                  "name": "Maison Africaine de la Photographie",
+                  "text": "Dieses Fotomuseum in Bamako widmet sich der Präsentation der Werke prominenter afrikanischer bildender Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -7.97002,
+                        12.596361
+                  ]
+            },
+            {
+                  "name": "MOSQUEE DJIRE",
+                  "text": "Diese befestigte Struktur, bekannt als Mosquée Djiré, verbindet religiöse und defensive Architektur in Bamako.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.977402,
+                        12.613123
+                  ]
+            },
+            {
+                  "name": "MOSQUEE PRIVEE",
+                  "text": "Diese private Moschee in Bamako ist einzigartig gestaltet und weist Elemente auf, die an ein Schloss erinnern.",
+                  "category": "castle",
+                  "coords": [
+                        -7.988388,
+                        12.604986
+                  ]
+            },
+            {
+                  "name": "Nature reserve",
+                  "text": "Dieses Naturschutzgebiet bietet ein geschütztes ökologisches Refugium innerhalb der städtischen Ausdehnung von Bamako.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984967,
+                        12.590571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "IB House",
+                  "text": "Ez az impozáns kastélyszerű építmény Bamako központjában, a Mártírok hídja közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        -8.039875,
+                        12.540045
+                  ]
+            },
+            {
+                  "name": "Aire loisir kalaban coro",
+                  "text": "Szabadidős látványosság a Kalaban Coro térségben, amely zöldterületet kínál a pihenésre Bamako közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.027698,
+                        12.579918
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "Egy régi repülőgép szerkezetének romjai szokatlan nevezetességet alkotnak a Mártírok hídja közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.030619,
+                        12.557944
+                  ]
+            },
+            {
+                  "name": "Le Buffle",
+                  "text": "Ez a bivalyt ábrázoló emlékmű jól látható helyen áll Bamako városi nevezetességei között.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991708,
+                        12.581042
+                  ]
+            },
+            {
+                  "name": "Blonba Les cases rondes",
+                  "text": "Ez a kulturális helyszín hagyományos kerek házas építészetéről és színházi előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.01204,
+                        12.600253
+                  ]
+            },
+            {
+                  "name": "Maison Africaine de la Photographie",
+                  "text": "Ezt a bamakói fotómúzeumot kiemelkedő afrikai vizuális művészek alkotásainak bemutatására hozták létre.",
+                  "category": "museum",
+                  "coords": [
+                        -7.97002,
+                        12.596361
+                  ]
+            },
+            {
+                  "name": "MOSQUEE DJIRE",
+                  "text": "Ez az erődített építmény, a Djiré mecset, a vallási és a védelmi építészetet ötvözi Bamakóban.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.977402,
+                        12.613123
+                  ]
+            },
+            {
+                  "name": "MOSQUEE PRIVEE",
+                  "text": "Ez a bamakói magánmecset egyedi kialakítású, kastélyra emlékeztető elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.988388,
+                        12.604986
+                  ]
+            },
+            {
+                  "name": "Nature reserve",
+                  "text": "Ez a természetvédelmi terület védett ökológiai menedéket kínál Bamako városi kiterjedésén belül.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984967,
+                        12.590571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "IB House",
+                  "text": "Această structură impunătoare asemănătoare unui castel este situată în zona centrală, lângă Pont des Martyrs din Bamako.",
+                  "category": "castle",
+                  "coords": [
+                        -8.039875,
+                        12.540045
+                  ]
+            },
+            {
+                  "name": "Aire loisir kalaban coro",
+                  "text": "O atracție de agrement în zona Kalaban Coro, care oferă un spațiu verde pentru relaxare lângă Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.027698,
+                        12.579918
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "Ruinele unei vechi structuri de avion formează un reper neobișnuit lângă Pont des Martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        -8.030619,
+                        12.557944
+                  ]
+            },
+            {
+                  "name": "Le Buffle",
+                  "text": "Acest monument care înfățișează un bivol se remarcă printre reperele urbane din Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991708,
+                        12.581042
+                  ]
+            },
+            {
+                  "name": "Blonba Les cases rondes",
+                  "text": "Acest loc cultural este cunoscut pentru arhitectura sa tradițională cu case rotunde și pentru spectacolele de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.01204,
+                        12.600253
+                  ]
+            },
+            {
+                  "name": "Maison Africaine de la Photographie",
+                  "text": "Acest muzeu de fotografie din Bamako este dedicat prezentării operelor unor artiști vizuali africani proeminenți.",
+                  "category": "museum",
+                  "coords": [
+                        -7.97002,
+                        12.596361
+                  ]
+            },
+            {
+                  "name": "MOSQUEE DJIRE",
+                  "text": "Această structură fortificată, cunoscută sub numele de Mosquée Djiré, îmbină arhitectura religioasă și defensivă din Bamako.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.977402,
+                        12.613123
+                  ]
+            },
+            {
+                  "name": "MOSQUEE PRIVEE",
+                  "text": "Această moschee privată din Bamako are un design unic, cu elemente care amintesc de un castel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.988388,
+                        12.604986
+                  ]
+            },
+            {
+                  "name": "Nature reserve",
+                  "text": "Această rezervație naturală oferă un refugiu ecologic protejat în cadrul întinderii urbane a orașului Bamako.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984967,
+                        12.590571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "IB House",
+                  "text": "This imposing castle-like structure is situated in the central area near the Pont des Martyrs in Bamako.",
+                  "category": "castle",
+                  "coords": [
+                        -8.039875,
+                        12.540045
+                  ]
+            },
+            {
+                  "name": "Aire loisir kalaban coro",
+                  "text": "A leisure attraction in the Kalaban Coro area providing a green space for relaxation near Bamako.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.027698,
+                        12.579918
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "The ruins of an old airplane structure form an unusual landmark near the Pont des Martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        -8.030619,
+                        12.557944
+                  ]
+            },
+            {
+                  "name": "Le Buffle",
+                  "text": "This monument depicting a buffalo stands prominently among the urban landmarks of Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991708,
+                        12.581042
+                  ]
+            },
+            {
+                  "name": "Blonba Les cases rondes",
+                  "text": "This cultural venue is known for its traditional round house architecture and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.01204,
+                        12.600253
+                  ]
+            },
+            {
+                  "name": "Maison Africaine de la Photographie",
+                  "text": "This photography museum in Bamako is dedicated to showcasing the works of prominent African visual artists.",
+                  "category": "museum",
+                  "coords": [
+                        -7.97002,
+                        12.596361
+                  ]
+            },
+            {
+                  "name": "MOSQUEE DJIRE",
+                  "text": "This fortified structure, known as Mosquée Djiré, merges religious and defensive architecture in Bamako.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.977402,
+                        12.613123
+                  ]
+            },
+            {
+                  "name": "MOSQUEE PRIVEE",
+                  "text": "This private mosque in Bamako is uniquely designed with elements reminiscent of a castle.",
+                  "category": "castle",
+                  "coords": [
+                        -7.988388,
+                        12.604986
+                  ]
+            },
+            {
+                  "name": "Nature reserve",
+                  "text": "This nature reserve offers a protected ecological haven within the urban expanse of Bamako.",
+                  "category": "natural",
+                  "coords": [
+                        -7.984967,
+                        12.590571
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-7.99, 12.61],
@@ -1217,7 +2954,88 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
   },
   {
-    id: "monument-hippopotame-bamako-landmarks-v2",
+    id: "monument-hippopotame-bamako-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des Chasseurs (Condroni Sané)",
+                  "text": "Dieses Platzdenkmal ist eine Hommage an die traditionellen Dozo-Jäger Westafrikas in Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.97909,
+                        12.643224
+                  ]
+            },
+            {
+                  "name": "Compagnie Nama",
+                  "text": "Diese kulturelle Theatergruppe in Bamako ist auf darstellende Künste spezialisiert, insbesondere auf traditionelles malisches Puppenspiel und Geschichtenerzählen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.964806,
+                        12.620378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des Chasseurs (Condroni Sané)",
+                  "text": "Ez a köztéri emlékmű a nyugat-afrikai hagyományos dozo vadászok előtt tiszteleg Bamakóban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.97909,
+                        12.643224
+                  ]
+            },
+            {
+                  "name": "Compagnie Nama",
+                  "text": "Ez a bamakói színházi társulat az előadóművészetekre, különösen a hagyományos mali bábjátékra és történetmesélésre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.964806,
+                        12.620378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des Chasseurs (Condroni Sané)",
+                  "text": "Acest monument din piața publică aduce un omagiu vânătorilor tradiționali Dozo din Africa de Vest în Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.97909,
+                        12.643224
+                  ]
+            },
+            {
+                  "name": "Compagnie Nama",
+                  "text": "Această companie de teatru cultural din Bamako este specializată în artele spectacolului, în special în teatrul tradițional malian de păpuși și povestiri.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.964806,
+                        12.620378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des Chasseurs (Condroni Sané)",
+                  "text": "This public square monument pays tribute to the traditional Dozo hunters of West Africa in Bamako.",
+                  "category": "historical",
+                  "coords": [
+                        -7.97909,
+                        12.643224
+                  ]
+            },
+            {
+                  "name": "Compagnie Nama",
+                  "text": "This cultural theatre company in Bamako specialises in performing arts, particularly traditional Malian puppetry and storytelling.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.964806,
+                        12.620378
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ML-BKO",
     coords: [-7.98, 12.64],

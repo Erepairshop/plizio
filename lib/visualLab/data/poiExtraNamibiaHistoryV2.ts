@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraNamibiaHistoryV2: POI[] = [
   {
-    id: "kolmanskuppe-history-v2",
+    id: "kolmanskuppe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kolmannskuppe",
+                  "text": "Eine berühmte Geisterstadt in der Namib-Wüste, die nach dem Niedergang des lokalen Diamantenrausches verlassen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        15.231846,
+                        -26.701899
+                  ]
+            },
+            {
+                  "name": "Quartiermeisterhaus",
+                  "text": "Die Ruine des Quartiermeisterhauses, das heute teilweise mit eindringendem Wüstensand gefüllt ist.",
+                  "category": "historical",
+                  "coords": [
+                        15.230228,
+                        -26.703109
+                  ]
+            },
+            {
+                  "name": "Direktorenhaus",
+                  "text": "Die verfallenen Ruinen des großen Hauses des Minendirektors, die den Reichtum der Diamantenära widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        15.228323,
+                        -26.701614
+                  ]
+            },
+            {
+                  "name": "Warenhaus",
+                  "text": "Die skelettartigen Überreste eines großen Lagerhauses, das die isolierte Bergbaugemeinde versorgte.",
+                  "category": "historical",
+                  "coords": [
+                        15.231814,
+                        -26.703969
+                  ]
+            },
+            {
+                  "name": "Bäckerei",
+                  "text": "Ein verlassenes Bäckereigebäude in der Wüste, in dem einst frisches Brot für die Diamantenminenarbeiter gebacken wurde.",
+                  "category": "historical",
+                  "coords": [
+                        15.231537,
+                        -26.702932
+                  ]
+            },
+            {
+                  "name": "Doktorenhaus",
+                  "text": "Die Überreste des Arzthauses, das sich in der Nähe des beeindruckenden Krankenhauskomplexes der Geisterstadt befindet.",
+                  "category": "historical",
+                  "coords": [
+                        15.231289,
+                        -26.704897
+                  ]
+            },
+            {
+                  "name": "Schule",
+                  "text": "Ein leeres, sandgefülltes Schulhaus, das einst den Kindern der wohlhabenden Bergbaufamilien diente.",
+                  "category": "historical",
+                  "coords": [
+                        15.230681,
+                        -26.709091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kolmanskop",
+                  "text": "Híres szellemváros a Namib-sivatagban, amelyet a helyi gyémántláz hanyatlása után hagytak el.",
+                  "category": "landmark",
+                  "coords": [
+                        15.231846,
+                        -26.701899
+                  ]
+            },
+            {
+                  "name": "Quartiermeisterhaus",
+                  "text": "A szállásmester házának romjai, amelyeket mára részben betemetett a behatoló sivatagi homok.",
+                  "category": "historical",
+                  "coords": [
+                        15.230228,
+                        -26.703109
+                  ]
+            },
+            {
+                  "name": "Direktorenhaus",
+                  "text": "A bányagazgató nagy házának omladozó romjai, amelyek a gyémántkorszak gazdagságát tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        15.228323,
+                        -26.701614
+                  ]
+            },
+            {
+                  "name": "Warehouse",
+                  "text": "Egy nagy raktár vázlatos maradványai, amely az elszigetelt bányászközösséget látta el.",
+                  "category": "historical",
+                  "coords": [
+                        15.231814,
+                        -26.703969
+                  ]
+            },
+            {
+                  "name": "Bakery",
+                  "text": "Elhagyott sivatagi pékségépület, ahol egykor friss kenyeret sütöttek a gyémántbányászoknak.",
+                  "category": "historical",
+                  "coords": [
+                        15.231537,
+                        -26.702932
+                  ]
+            },
+            {
+                  "name": "Doktorenhaus",
+                  "text": "Az orvos rezidenciájának maradványai, amely a szellemváros lenyűgöző kórházkomplexuma közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        15.231289,
+                        -26.704897
+                  ]
+            },
+            {
+                  "name": "School",
+                  "text": "Üres, homokkal teli iskolaház, amely egykor a jómódú bányászcsaládok gyermekeit szolgálta.",
+                  "category": "historical",
+                  "coords": [
+                        15.230681,
+                        -26.709091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kolmanskop",
+                  "text": "Un faimos oraș fantomă din deșertul Namib, abandonat după declinul goanei locale după diamante.",
+                  "category": "landmark",
+                  "coords": [
+                        15.231846,
+                        -26.701899
+                  ]
+            },
+            {
+                  "name": "Quartiermeisterhaus",
+                  "text": "Ruinele casei intendentului, acum parțial umplute cu nisipul invadator al deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        15.230228,
+                        -26.703109
+                  ]
+            },
+            {
+                  "name": "Direktorenhaus",
+                  "text": "Ruinele în descompunere ale marii case a directorului minier, reflectând bogăția erei diamantelor.",
+                  "category": "historical",
+                  "coords": [
+                        15.228323,
+                        -26.701614
+                  ]
+            },
+            {
+                  "name": "Warehouse",
+                  "text": "Rămășițele scheletice ale unui depozit mare care aproviziona comunitatea minieră izolată.",
+                  "category": "historical",
+                  "coords": [
+                        15.231814,
+                        -26.703969
+                  ]
+            },
+            {
+                  "name": "Bakery",
+                  "text": "O clădire abandonată de brutărie din deșert unde odată se cocea pâine proaspătă pentru minerii de diamante.",
+                  "category": "historical",
+                  "coords": [
+                        15.231537,
+                        -26.702932
+                  ]
+            },
+            {
+                  "name": "Doktorenhaus",
+                  "text": "Rămășițele reședinței medicului, situată lângă impresionantul complex spitalicesc din orașul fantomă.",
+                  "category": "historical",
+                  "coords": [
+                        15.231289,
+                        -26.704897
+                  ]
+            },
+            {
+                  "name": "School",
+                  "text": "O școală goală, plină de nisip, care odată servea copiilor familiilor miniere bogate.",
+                  "category": "historical",
+                  "coords": [
+                        15.230681,
+                        -26.709091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kolmanskop",
+                  "text": "A famous ghost town in the Namib desert, abandoned after the decline of the local diamond rush.",
+                  "category": "landmark",
+                  "coords": [
+                        15.231846,
+                        -26.701899
+                  ]
+            },
+            {
+                  "name": "Quartiermeisterhaus",
+                  "text": "The ruined remains of the quartermaster's house, now partly filled with encroaching desert sand.",
+                  "category": "historical",
+                  "coords": [
+                        15.230228,
+                        -26.703109
+                  ]
+            },
+            {
+                  "name": "Direktorenhaus",
+                  "text": "The decaying ruins of the mining director's grand house, reflecting the wealth of the diamond era.",
+                  "category": "historical",
+                  "coords": [
+                        15.228323,
+                        -26.701614
+                  ]
+            },
+            {
+                  "name": "Warehouse",
+                  "text": "The skeletal remains of a large storage warehouse that supplied the isolated mining community.",
+                  "category": "historical",
+                  "coords": [
+                        15.231814,
+                        -26.703969
+                  ]
+            },
+            {
+                  "name": "Bakery",
+                  "text": "An abandoned desert bakery building where fresh bread was once baked for the diamond miners.",
+                  "category": "historical",
+                  "coords": [
+                        15.231537,
+                        -26.702932
+                  ]
+            },
+            {
+                  "name": "Doktorenhaus",
+                  "text": "The remains of the doctor's residence, situated near the impressive hospital complex in the ghost town.",
+                  "category": "historical",
+                  "coords": [
+                        15.231289,
+                        -26.704897
+                  ]
+            },
+            {
+                  "name": "School",
+                  "text": "An empty, sand-filled schoolhouse that once served the children of the affluent mining families.",
+                  "category": "historical",
+                  "coords": [
+                        15.230681,
+                        -26.709091
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KA",
     coords: [15.2222, -26.7022],
@@ -53,7 +314,376 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Fondée en 1908.", "Autrefois la ville la plus riche d'Afrique.", "Abandonnée depuis 1956."],
     }, image: "/poi-images/kolmanskuppe-history-v2.webp"},
   {
-    id: "twyfelfontein-history-v2",
+    id: "twyfelfontein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"Wondergat\" = hole in the ground",
+                  "text": "Das Wondergat ist eine tiefe natürliche Doline, die in die felsige Landschaft nahe Twyfelfontein abfällt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.37261,
+                        -20.514356
+                  ]
+            },
+            {
+                  "name": "Damara Living Museum",
+                  "text": "Dieses Freilichtmuseum zeigt die traditionelle Kultur, das Handwerk und die Buschfähigkeiten des indigenen Damara-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        14.397799,
+                        -20.529361
+                  ]
+            },
+            {
+                  "name": "Engravings",
+                  "text": "Diese alten Petroglyphen zeigen Tausende von Tierspuren und Figuren, die in den roten Sandstein geritzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        14.369661,
+                        -20.570831
+                  ]
+            },
+            {
+                  "name": "Wondergat",
+                  "text": "Diese Aussichtsplattform ermöglicht es Besuchern, in die dunklen Tiefen der natürlichen Doline zu blicken.",
+                  "category": "natural",
+                  "coords": [
+                        14.372536,
+                        -20.56431
+                  ]
+            },
+            {
+                  "name": "Zieben Platten National Heritage Site",
+                  "text": "Diese historische Stätte schützt einzigartige geologische Felsplatten, die sich dramatisch aus dem trockenen Wüstenboden erheben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.377292,
+                        -20.574392
+                  ]
+            },
+            {
+                  "name": "Orgelpfeifen",
+                  "text": "Die Orgelpfeifen sind eine markante geologische Formation aus kantigen Basaltsäulen, die durch uralte vulkanische Aktivität entstanden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        14.416181,
+                        -20.613062
+                  ]
+            },
+            {
+                  "name": "Verbrannter Berg",
+                  "text": "Dieser felsige Hügel ist berühmt für seine dunklen, erstarrten Lavaströme, die im Sonnenlicht intensiv versengt wirken.",
+                  "category": "landmark",
+                  "coords": [
+                        14.418076,
+                        -20.621222
+                  ]
+            },
+            {
+                  "name": "Twyfelfontein Rock Engraving",
+                  "text": "Diese UNESCO-Welterbestätte bewahrt eine außergewöhnliche Konzentration prähistorischer Felskunst der San-Jäger und -Sammler.",
+                  "category": "historical",
+                  "coords": [
+                        14.374506,
+                        -20.597496
+                  ]
+            },
+            {
+                  "name": "Uibasen Twyfelfontein Conservancy",
+                  "text": "Dieses geschützte Naturschutzgebiet beherbergt wüstenangepasste Elefanten und Spitzmaulnashörner in seinen felsigen Hügeln.",
+                  "category": "natural",
+                  "coords": [
+                        14.395906,
+                        -20.561238
+                  ]
+            },
+            {
+                  "name": "Old Farm House",
+                  "text": "Die verfallenen Steinruinen dieses alten Siedlerbauernhauses zeugen von den frühen landwirtschaftlichen Versuchen in der rauen Wüste.",
+                  "category": "historical",
+                  "coords": [
+                        14.372641,
+                        -20.59545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"Wondergat\" = hole in the ground",
+                  "text": "A Wondergat egy mély, természetes víznyelő a Twyfelfontein környéki sziklás terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.37261,
+                        -20.514356
+                  ]
+            },
+            {
+                  "name": "Damara Living Museum",
+                  "text": "Ez a szabadtéri múzeum a bennszülött damara nép hagyományos kultúráját, mesterségeit és túlélési technikáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.397799,
+                        -20.529361
+                  ]
+            },
+            {
+                  "name": "Engravings",
+                  "text": "Ezek az ősi sziklarajzok több ezer, vörös homokkőbe vésett állatnyomot és figurát ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        14.369661,
+                        -20.570831
+                  ]
+            },
+            {
+                  "name": "Wondergat",
+                  "text": "Ebből a kilátópontból a látogatók letekinthetnek a természetes víznyelő sötét mélységeibe.",
+                  "category": "natural",
+                  "coords": [
+                        14.372536,
+                        -20.56431
+                  ]
+            },
+            {
+                  "name": "Zieben Platten National Heritage Site",
+                  "text": "Ez az örökségvédelmi terület olyan egyedülálló geológiai sziklalelemezeket óv, amelyek drámaian emelkednek ki a kietlen sivatagi talajból.",
+                  "category": "landmark",
+                  "coords": [
+                        14.377292,
+                        -20.574392
+                  ]
+            },
+            {
+                  "name": "Organ Pipes",
+                  "text": "Az Orgonasípok egy lenyűgöző geológiai képződmény, amely ősi vulkáni tevékenység által formált szögletes bazaltoszlopokból áll.",
+                  "category": "landmark",
+                  "coords": [
+                        14.416181,
+                        -20.613062
+                  ]
+            },
+            {
+                  "name": "Burnt Mountain",
+                  "text": "Ez a sziklás domb sötét, megszilárdult lávafolyásairól híres, amelyek a napfényben erősen perzseltnek tűnnek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.418076,
+                        -20.621222
+                  ]
+            },
+            {
+                  "name": "Twyfelfontein Rock Engraving",
+                  "text": "Ez az UNESCO Világörökség része a történelem előtti San vadászó-gyűjtögető nép sziklarajzainak kivételes sűrűségét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        14.374506,
+                        -20.597496
+                  ]
+            },
+            {
+                  "name": "Uibasen Twyfelfontein Conservancy",
+                  "text": "Ez a védett természetvédelmi terület sivataghoz alkalmazkodott elefántoknak és fekete orrszarvúknak ad otthont a sziklás dombok között.",
+                  "category": "natural",
+                  "coords": [
+                        14.395906,
+                        -20.561238
+                  ]
+            },
+            {
+                  "name": "Old Farm House",
+                  "text": "Ennek a régi telepes parasztháznak az omladozó kőromjai a zord sivatagban folytatott korai mezőgazdasági kísérletekről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        14.372641,
+                        -20.59545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"Wondergat\" = hole in the ground",
+                  "text": "Wondergat este o dolină naturală adâncă, formată în peisajul stâncos din apropiere de Twyfelfontein.",
+                  "category": "landmark",
+                  "coords": [
+                        14.37261,
+                        -20.514356
+                  ]
+            },
+            {
+                  "name": "Damara Living Museum",
+                  "text": "Acest muzeu în aer liber prezintă cultura tradițională, meșteșugurile și tehnicile de supraviețuire ale poporului indigen Damara.",
+                  "category": "museum",
+                  "coords": [
+                        14.397799,
+                        -20.529361
+                  ]
+            },
+            {
+                  "name": "Engravings",
+                  "text": "Aceste petroglife antice prezintă mii de urme de animale și figuri sculptate în gresia roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        14.369661,
+                        -20.570831
+                  ]
+            },
+            {
+                  "name": "Wondergat",
+                  "text": "Această platformă de vizionare permite vizitatorilor să privească în adâncurile întunecate ale dolinei naturale.",
+                  "category": "natural",
+                  "coords": [
+                        14.372536,
+                        -20.56431
+                  ]
+            },
+            {
+                  "name": "Zieben Platten National Heritage Site",
+                  "text": "Acest sit de patrimoniu protejează plăci de rocă geologice unice, care se înalță spectaculos din solul arid al deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        14.377292,
+                        -20.574392
+                  ]
+            },
+            {
+                  "name": "Organ Pipes",
+                  "text": "Țevile de Orgă sunt o formațiune geologică impresionantă de coloane unghiulare de bazalt, formate în urma unei vechi activități vulcanice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.416181,
+                        -20.613062
+                  ]
+            },
+            {
+                  "name": "Burnt Mountain",
+                  "text": "Acest deal stâncos este renumit pentru fluxurile sale de lavă întunecată, solidificată, care par intens arse în lumina soarelui.",
+                  "category": "landmark",
+                  "coords": [
+                        14.418076,
+                        -20.621222
+                  ]
+            },
+            {
+                  "name": "Twyfelfontein Rock Engraving",
+                  "text": "Acest sit din Patrimoniul Mondial UNESCO păstrează o concentrație excepțională de artă rupestră preistorică a vânătorilor-culegători San.",
+                  "category": "historical",
+                  "coords": [
+                        14.374506,
+                        -20.597496
+                  ]
+            },
+            {
+                  "name": "Uibasen Twyfelfontein Conservancy",
+                  "text": "Această rezervație naturală protejată adăpostește elefanți adaptați la deșert și rinoceri negri printre dealurile sale stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.395906,
+                        -20.561238
+                  ]
+            },
+            {
+                  "name": "Old Farm House",
+                  "text": "Ruinele de piatră fărâmițate ale acestei vechi ferme de coloniști stau mărturie a încercărilor timpurii de agricultură în deșertul aspru.",
+                  "category": "historical",
+                  "coords": [
+                        14.372641,
+                        -20.59545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Wondergat\" = hole in the ground",
+                  "text": "The Wondergat is a deep natural sinkhole plunging into the rocky terrain near Twyfelfontein.",
+                  "category": "landmark",
+                  "coords": [
+                        14.37261,
+                        -20.514356
+                  ]
+            },
+            {
+                  "name": "Damara Living Museum",
+                  "text": "This open-air museum showcases the traditional culture, crafts, and bush skills of the indigenous Damara people.",
+                  "category": "museum",
+                  "coords": [
+                        14.397799,
+                        -20.529361
+                  ]
+            },
+            {
+                  "name": "Engravings",
+                  "text": "These ancient petroglyphs feature thousands of animal tracks and figures carved into the red sandstone.",
+                  "category": "landmark",
+                  "coords": [
+                        14.369661,
+                        -20.570831
+                  ]
+            },
+            {
+                  "name": "Wondergat",
+                  "text": "This viewing platform allows visitors to gaze down into the dark depths of the natural sinkhole.",
+                  "category": "natural",
+                  "coords": [
+                        14.372536,
+                        -20.56431
+                  ]
+            },
+            {
+                  "name": "Zieben Platten National Heritage Site",
+                  "text": "This heritage site protects unique geological rock slabs that rise dramatically from the arid desert floor.",
+                  "category": "landmark",
+                  "coords": [
+                        14.377292,
+                        -20.574392
+                  ]
+            },
+            {
+                  "name": "Organ Pipes",
+                  "text": "The Organ Pipes are a striking geological formation of angular basalt columns formed by ancient volcanic activity.",
+                  "category": "landmark",
+                  "coords": [
+                        14.416181,
+                        -20.613062
+                  ]
+            },
+            {
+                  "name": "Burnt Mountain",
+                  "text": "This rocky hill is famous for its dark, solidified lava flows that appear intensely scorched in the sunlight.",
+                  "category": "landmark",
+                  "coords": [
+                        14.418076,
+                        -20.621222
+                  ]
+            },
+            {
+                  "name": "Twyfelfontein Rock Engraving",
+                  "text": "This UNESCO World Heritage site preserves an exceptional concentration of prehistoric San hunter-gatherer rock art.",
+                  "category": "historical",
+                  "coords": [
+                        14.374506,
+                        -20.597496
+                  ]
+            },
+            {
+                  "name": "Uibasen Twyfelfontein Conservancy",
+                  "text": "This protected nature reserve shelters desert-adapted elephants and black rhinos among its rocky hills.",
+                  "category": "natural",
+                  "coords": [
+                        14.395906,
+                        -20.561238
+                  ]
+            },
+            {
+                  "name": "Old Farm House",
+                  "text": "The crumbling stone ruins of this old settler farm house stand as a testament to early agricultural attempts in the harsh desert.",
+                  "category": "historical",
+                  "coords": [
+                        14.372641,
+                        -20.59545
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KU",
     coords: [14.3736, -20.5956],
@@ -153,7 +783,52 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Consacrée en 1910.", "Construite en grès quartzeux local.", "Vitraux offerts par l'empereur Guillaume II."],
     }, image: "/poi-images/christuskirche-history-v2.webp"},
     {
-    id: "heldenacker-history-v2",
+    id: "heldenacker-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farm Windhoek",
+                  "text": "Dieser weitläufige Naturpark, der raue Abschnitte der Auasberge umfasst, bietet ein ausgedehntes Netzwerk von Trailrunning- und Mountainbike-Strecken direkt vor den Toren der Hauptstadt.",
+                  "category": "park",
+                  "coords": [
+                        17.106925,
+                        -22.623497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farm Windhoek",
+                  "text": "Az Auas-hegység zord vidékeit felölelő hatalmas natúrpark kiterjedt terepfutó- és hegyikerékpáros útvonal-hálózatot kínál közvetlenül a főváros küszöbén.",
+                  "category": "park",
+                  "coords": [
+                        17.106925,
+                        -22.623497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farm Windhoek",
+                  "text": "Cuprinzând porțiuni accidentate din Munții Auas, acest parc natural întins oferă o rețea extinsă de trasee de alergare și trasee de ciclism montan chiar la porțile capitalei.",
+                  "category": "park",
+                  "coords": [
+                        17.106925,
+                        -22.623497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farm Windhoek",
+                  "text": "Encompassing rugged tracts of the Auas Mountains, this expansive nature park provides an extensive network of trail running and mountain biking paths right on the capital's doorstep.",
+                  "category": "park",
+                  "coords": [
+                        17.106925,
+                        -22.623497
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KH",
     coords: [17.0786, -22.6586],
@@ -203,7 +878,52 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Ouvert en 2002.", "Dispose d'un obélisque de 34 mètres de haut.", "Construit par une entreprise nord-coréenne."],
     }, image: "/poi-images/heldenacker-history-v2.webp"},
   {
-    id: "haifischinsel-history-v2",
+    id: "haifischinsel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agate Beach",
+                  "text": "Dieser einsame, aber markante Küstenabschnitt in der Nähe von Lüderitz ist berühmt für die kleinen, halbedlen Achatsteine, die man oft im Sand verstreut findet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.17633,
+                        -26.598186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agate Beach",
+                  "text": "Ez az elhagyatott, mégis lenyűgöző tengerparti szakasz Lüderitz közelében a homokban gyakran szétszórtan található apró, féldrágakő achátkövekről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        15.17633,
+                        -26.598186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agate Beach",
+                  "text": "Această porțiune de coastă pustie, dar uimitoare din apropiere de Lüderitz este renumită pentru micile pietre semiprețioase de agat care se găsesc adesea împrăștiate printre nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        15.17633,
+                        -26.598186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agate Beach",
+                  "text": "This desolate yet striking coastal stretch near Lüderitz is famous for the small, semi-precious agate stones often found scattered among the sand.",
+                  "category": "landmark",
+                  "coords": [
+                        15.17633,
+                        -26.598186
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KA",
     coords: [15.1528, -26.6347],
@@ -253,7 +973,52 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Utilisée entre 1905 et 1907.", "Aujourd'hui lieu de mémoire et camping.", "Située dans la baie de Lüderitz."],
     }, image: "/poi-images/haifischinsel-history-v2.webp"},
   {
-    id: "felsenkirche-history-v2",
+    id: "felsenkirche-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namibia Maritime Museum",
+                  "text": "Ein maritimes Museum, das die Seefahrtsgeschichte und die Küstenökosysteme Namibias detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        15.151935,
+                        -26.647477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namibia Maritime Museum",
+                  "text": "Namíbia tengerészeti történetét és parti ökoszisztémáit bemutató dedikált tengerészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.151935,
+                        -26.647477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namibia Maritime Museum",
+                  "text": "Un muzeu maritim dedicat, care detaliază istoria navigației și ecosistemele de coastă ale Namibiei.",
+                  "category": "museum",
+                  "coords": [
+                        15.151935,
+                        -26.647477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namibia Maritime Museum",
+                  "text": "A dedicated maritime museum detailing the seafaring history and coastal ecosystems of Namibia.",
+                  "category": "museum",
+                  "coords": [
+                        15.151935,
+                        -26.647477
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KA",
     coords: [15.1492, -26.6492],
@@ -403,7 +1168,52 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Environ 2 000 ans d'âge.", "Découverte en 1918 par Reinhard Maack.", "Montre de nombreuses figures animales et humaines."],
     }, image: "/poi-images/weisse-dame-history-v2.webp"},
   {
-    id: "hoba-meteorit-history-v2",
+    id: "hoba-meteorit-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hoba Meteorit",
+                  "text": "Der 1920 entdeckte Hoba-Meteorit ist mit einem Gewicht von etwa 60 Tonnen gediegenem Eisen der größte bekannte intakte Meteorit der Erde.",
+                  "category": "landmark",
+                  "coords": [
+                        17.933685,
+                        -19.592557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoba Meteorite",
+                  "text": "Az 1920-ban felfedezett Hoba-meteorit a Földön ismert legnagyobb egyben lévő meteorit, amely körülbelül 60 tonna tiszta vasat nyom.",
+                  "category": "landmark",
+                  "coords": [
+                        17.933685,
+                        -19.592557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoba Meteorite",
+                  "text": "Descoperit în 1920, meteoritul Hoba este cel mai mare meteorit intact cunoscut pe Pământ, cântărind aproximativ 60 de tone de fier nativ.",
+                  "category": "landmark",
+                  "coords": [
+                        17.933685,
+                        -19.592557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoba Meteorite",
+                  "text": "Discovered in 1920, the Hoba Meteorite is the largest known intact meteorite on Earth, weighing approximately 60 tonnes of native iron.",
+                  "category": "landmark",
+                  "coords": [
+                        17.933685,
+                        -19.592557
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-OT",
     coords: [17.9333, -19.5925],
@@ -453,7 +1263,268 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Pèse plus de 60 tonnes.", "Découvert en 1920 par un fermier.", "Composé principalement de fer et de nickel."],
     }, image: "/poi-images/hoba-meteorit-history-v2.webp"},
     {
-    id: "fort-namutoni-history-v2",
+    id: "fort-namutoni-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Groot Okevi (natural waterhole)",
+                  "text": "Dieses natürliche Wasserloch ist eine lebenswichtige Trinkquelle für die Tierwelt der Savanne und bietet einen malerischen Aussichtspunkt zur Beobachtung durstiger Tiere in der Nähe von Fort Namutoni.",
+                  "category": "natural",
+                  "coords": [
+                        16.898456,
+                        -18.780655
+                  ]
+            },
+            {
+                  "name": "Klein Okevi (natural waterhole)",
+                  "text": "Kleiner als sein Nachbar, zieht diese natürliche Quelle und Aussichtspunkt in der Nähe von Fort Namutoni eine Vielzahl von Antilopen und Vögeln an sein erfrischendes Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        16.907878,
+                        -18.79151
+                  ]
+            },
+            {
+                  "name": "Chudob (natural waterhole)",
+                  "text": "Inmitten der trockenen Landschaft gelegen, dient dieses natürliche Wasserloch in der Nähe von Fort Namutoni als erstklassiger Aussichtspunkt, um Herden zu beobachten, die ihren Durst stillen.",
+                  "category": "natural",
+                  "coords": [
+                        16.924884,
+                        -18.85825
+                  ]
+            },
+            {
+                  "name": "Klein Namutoni",
+                  "text": "Dieser spezifische Aussichtspunkt in der Nähe des Hauptforts bietet einen weiten Blick über die umliegenden Bushveld-Ebenen und ist ein beliebter Ort für Sonnenuntergänge.",
+                  "category": "natural",
+                  "coords": [
+                        16.950425,
+                        -18.826961
+                  ]
+            },
+            {
+                  "name": "Koinachas",
+                  "text": "Dieser Aussichtspunkt überblickt die vielfältigen Lebensräume in der Nähe von Fort Namutoni und ermöglicht es Besuchern, Tierbewegungen in der weiten namibischen Savanne zu verfolgen.",
+                  "category": "natural",
+                  "coords": [
+                        16.929239,
+                        -18.818948
+                  ]
+            },
+            {
+                  "name": "Fort Namutoni",
+                  "text": "Diese markante, weiß getünchte deutsche Kolonialfestung wurde 1896 ursprünglich als Kontrollposten errichtet und dient heute als wichtiges Tor und Lodge im Etosha-Nationalpark.",
+                  "category": "castle",
+                  "coords": [
+                        16.939792,
+                        -18.808071
+                  ]
+            },
+            {
+                  "name": "Groß Namutoni",
+                  "text": "Dieser bedeutende Attraktionsbereich neben dem historischen Festungskomplex unterstreicht die Größe der ursprünglichen Kolonialsiedlung und ihrer umliegenden natürlichen Quellen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.939336,
+                        -18.806441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Groot Okevi (natural waterhole)",
+                  "text": "Ez a természetes itató létfontosságú vízforrás a szavanna élővilága számára, és festői kilátópontot kínál a szomjas állatok megfigyelésére a Namutoni erőd közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.898456,
+                        -18.780655
+                  ]
+            },
+            {
+                  "name": "Klein Okevi (natural waterhole)",
+                  "text": "A szomszédjánál kisebb, természetes forrás és kilátópont a Namutoni erőd közelében antilopok és madarak sokaságát vonzza frissítő vizéhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.907878,
+                        -18.79151
+                  ]
+            },
+            {
+                  "name": "Chudob (natural waterhole)",
+                  "text": "A száraz tájon elhelyezkedő természetes itató kiváló kilátópont a Namutoni erőd közelében, ahonnan megfigyelhetjük a szomjukat oltó csordákat.",
+                  "category": "natural",
+                  "coords": [
+                        16.924884,
+                        -18.85825
+                  ]
+            },
+            {
+                  "name": "Klein Namutoni",
+                  "text": "Ez a fő erőd közelében található kilátópont pazar panorámát nyújt a környező bozótos síkságokra, és népszerű helyszíne a naplemente megtekintésének.",
+                  "category": "natural",
+                  "coords": [
+                        16.950425,
+                        -18.826961
+                  ]
+            },
+            {
+                  "name": "Koinachas",
+                  "text": "A Namutoni erőd közelében található változatos élőhelyekre néző kilátópontról a látogatók nyomon követhetik az állatok mozgását a hatalmas namíbiai szavannán.",
+                  "category": "natural",
+                  "coords": [
+                        16.929239,
+                        -18.818948
+                  ]
+            },
+            {
+                  "name": "Fort Namutoni",
+                  "text": "Az eredetileg 1896-ban ellenőrzőpontként létesített, jellegzetes fehér falú német gyarmati erőd ma az Etosha Nemzeti Park egyik fő kapujaként és szálláshelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        16.939792,
+                        -18.808071
+                  ]
+            },
+            {
+                  "name": "Groß Namutoni",
+                  "text": "A történelmi erődkomplexum melletti jelentős látványosság az eredeti gyarmati település és a környező természetes források kiterjedését hangsúlyozza.",
+                  "category": "landmark",
+                  "coords": [
+                        16.939336,
+                        -18.806441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Groot Okevi (natural waterhole)",
+                  "text": "Acest ochi de apă natural oferă o sursă vitală de apă pentru fauna din savană și un punct de observare pitoresc pentru a vedea animalele însetate lângă Fortul Namutoni.",
+                  "category": "natural",
+                  "coords": [
+                        16.898456,
+                        -18.780655
+                  ]
+            },
+            {
+                  "name": "Klein Okevi (natural waterhole)",
+                  "text": "Mai mic decât vecinul său, acest izvor natural și punct de belvedere de lângă Fortul Namutoni atrage o varietate de antilope și păsări la apele sale răcoritoare.",
+                  "category": "natural",
+                  "coords": [
+                        16.907878,
+                        -18.79151
+                  ]
+            },
+            {
+                  "name": "Chudob (natural waterhole)",
+                  "text": "Situat în mijlocul peisajului arid, acest ochi de apă natural servește ca un punct de observare excelent lângă Fortul Namutoni pentru a vedea turmele adunându-se să-și potolească setea.",
+                  "category": "natural",
+                  "coords": [
+                        16.924884,
+                        -18.85825
+                  ]
+            },
+            {
+                  "name": "Klein Namutoni",
+                  "text": "Acest punct specific de observare din apropierea fortului principal oferă vederi ample peste câmpiile cu vegetație din jur și este un loc popular pentru vizionarea apusului.",
+                  "category": "natural",
+                  "coords": [
+                        16.950425,
+                        -18.826961
+                  ]
+            },
+            {
+                  "name": "Koinachas",
+                  "text": "Poziționat pentru a oferi o panoramă a diverselor habitate din apropierea Fortului Namutoni, acest punct de belvedere permite vizitatorilor să urmărească mișcările animalelor din vasta savană namibiană.",
+                  "category": "natural",
+                  "coords": [
+                        16.929239,
+                        -18.818948
+                  ]
+            },
+            {
+                  "name": "Fort Namutoni",
+                  "text": "Înființată inițial ca post de control în 1896, această fortăreață colonială germană distinctivă, cu ziduri albe, servește acum ca poartă de acces majoră și lojă în Parcul Național Etosha.",
+                  "category": "castle",
+                  "coords": [
+                        16.939792,
+                        -18.808071
+                  ]
+            },
+            {
+                  "name": "Groß Namutoni",
+                  "text": "Această zonă de atracție semnificativă adiacentă complexului fortăreței istorice evidențiază amploarea așezării coloniale originale și izvoarele naturale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        16.939336,
+                        -18.806441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Groot Okevi (natural waterhole)",
+                  "text": "This natural waterhole provides a vital drinking source for savanna wildlife and offers a scenic viewpoint for observing thirsty animals near Fort Namutoni.",
+                  "category": "natural",
+                  "coords": [
+                        16.898456,
+                        -18.780655
+                  ]
+            },
+            {
+                  "name": "Klein Okevi (natural waterhole)",
+                  "text": "Smaller than its neighbor, this natural spring and viewpoint near Fort Namutoni attracts a variety of antelopes and birds to its refreshing waters.",
+                  "category": "natural",
+                  "coords": [
+                        16.907878,
+                        -18.79151
+                  ]
+            },
+            {
+                  "name": "Chudob (natural waterhole)",
+                  "text": "Set amidst the arid landscape, this natural waterhole serves as a prime viewpoint near Fort Namutoni for spotting herds gathering to quench their thirst.",
+                  "category": "natural",
+                  "coords": [
+                        16.924884,
+                        -18.85825
+                  ]
+            },
+            {
+                  "name": "Klein Namutoni",
+                  "text": "This specific observation point near the main fort offers sweeping views across the surrounding bushveld plains and is a popular spot for sunset viewing.",
+                  "category": "natural",
+                  "coords": [
+                        16.950425,
+                        -18.826961
+                  ]
+            },
+            {
+                  "name": "Koinachas",
+                  "text": "Positioned to overlook the diverse habitats near Fort Namutoni, this viewpoint allows visitors to track animal movements across the vast Namibian savanna.",
+                  "category": "natural",
+                  "coords": [
+                        16.929239,
+                        -18.818948
+                  ]
+            },
+            {
+                  "name": "Fort Namutoni",
+                  "text": "Originally established as a control post in 1896, this distinctive white-walled German colonial fortress now serves as a major gateway and lodge in Etosha National Park.",
+                  "category": "castle",
+                  "coords": [
+                        16.939792,
+                        -18.808071
+                  ]
+            },
+            {
+                  "name": "Groß Namutoni",
+                  "text": "This significant attraction area adjacent to the historic fort complex highlights the scale of the original colonial settlement and its surrounding natural springs.",
+                  "category": "landmark",
+                  "coords": [
+                        16.939336,
+                        -18.806441
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-OT",
     coords: [16.9408, -18.8058],
@@ -503,7 +1574,52 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Initialement construit en 1896.", "Détruit en 1904 lors de la révolte Herero et reconstruit.", "Monument national depuis 1950."],
     }, image: "/poi-images/fort-namutoni-history-v2.webp"},
         {
-    id: "eduard-bohlen-history-v2",
+    id: "eduard-bohlen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eduard Bohlen",
+                  "text": "Diese markante Attraktion ist das rostende Skelett eines deutschen Frachtschiffs, das 1909 auf Grund lief und nun teilweise im Sand der Namib-Wüste begraben liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45747,
+                        -23.995961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eduard Bohlen",
+                  "text": "Ez a lenyűgöző látványosság egy 1909-ben zátonyra futott német teherhajó rozsdásodó csontváza, amely ma részben a Namíb-sivatag homokjába temetkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45747,
+                        -23.995961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eduard Bohlen",
+                  "text": "Această atracție izbitoare este scheletul ruginit al unei nave de marfă germane care a eșuat în 1909 și acum zace parțial îngropată în nisipurile deșertului Namib.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45747,
+                        -23.995961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eduard Bohlen",
+                  "text": "This striking attraction is the rusting skeleton of a German cargo ship that ran aground in 1909 and now lies partially buried in the Namib Desert sands.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45747,
+                        -23.995961
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KA",
     coords: [14.5386, -23.9958],
@@ -553,7 +1669,52 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Échoué en 1909 par brouillard épais.", "Se trouve aujourd'hui à près de 500 mètres du rivage.", "Sujet photographique prisé de la Côte des Squelettes."],
     }, image: "/poi-images/eduard-bohlen-history-v2.webp"},
   {
-    id: "bogenfels-diamantensiedlung-history-v2",
+    id: "bogenfels-diamantensiedlung-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bogenfels",
+                  "text": "Dieser massive Kalksteinbogen an der Atlantikküste ragt dramatisch über den tosenden Wellen auf.",
+                  "category": "landmark",
+                  "coords": [
+                        15.391946,
+                        -27.460542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bogenfels",
+                  "text": "Az atlanti parton drámaian kiemelkedő hatalmas mészkőív a becsapódó hullámok fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        15.391946,
+                        -27.460542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bogenfels",
+                  "text": "Situată dramatic pe coasta Atlanticului, această arcadă masivă de calcar se înalță deasupra valurilor puternice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.391946,
+                        -27.460542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bogenfels",
+                  "text": "Standing dramatically on the Atlantic coast, this massive limestone arch towers over the crashing waves.",
+                  "category": "landmark",
+                  "coords": [
+                        15.391946,
+                        -27.460542
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KA",
     coords: [15.3942, -27.4522],
@@ -653,7 +1814,340 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Les diamants jonchaient parfois le sol.", "Apparue vers 1910.", "Aujourd'hui reconquise par le désert."],
     }, image: "/poi-images/pomona-geisterstadt-history-v2.webp"},
   {
-    id: "diaz-spitze-history-v2",
+    id: "diaz-spitze-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocky Bay",
+                  "text": "Dieser Küstenaussichtspunkt überblickt eine zerklüftete Küste, an der das kalte, turbulente Wasser des Atlantiks gegen die Felsen kracht.",
+                  "category": "natural",
+                  "coords": [
+                        15.081275,
+                        -26.690328
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Diaz-Spitze",
+                  "text": "Mit einem markanten Leuchtturm mit rot-weißen Streifen warnt diese felsige Halbinsel Schiffe vor der tückischen namibischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        15.092926,
+                        -26.636484
+                  ]
+            },
+            {
+                  "name": "Little Arch „Kleiner Bogenfels“",
+                  "text": "Dieser Aussichtspunkt hebt einen natürlichen Meeresbogen hervor, der durch die jahrhundertelange Brandung akribisch aus dem Küstenfelsen gemeißelt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        15.087526,
+                        -26.72262
+                  ]
+            },
+            {
+                  "name": "Eberlanz Höhle",
+                  "text": "Diese Meereshöhlenattraktion ist in die zerklüfteten Klippen geätzt, die dem unaufhörlichen Schlagen des Atlantischen Ozeans ausgesetzt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        15.089306,
+                        -26.698504
+                  ]
+            },
+            {
+                  "name": "Fjord",
+                  "text": "Dieser Aussichtspunkt fängt eine markante Küstenspalte ein, in der kaltes Meerwasser tief in die ansonsten trockenen Wüstenklippen eindringt.",
+                  "category": "natural",
+                  "coords": [
+                        15.088914,
+                        -26.702152
+                  ]
+            },
+            {
+                  "name": "Halifax Point",
+                  "text": "Von diesem erhöhten Küstenort aus kann man deutlich die nahe gelegene Insel Halifax sehen, ein wichtiges Brutgebiet für Brillenpinguine.",
+                  "category": "natural",
+                  "coords": [
+                        15.082795,
+                        -26.65595
+                  ]
+            },
+            {
+                  "name": "Knochenbucht",
+                  "text": "Dieser als Knochenbucht bekannte, trostlose Aussichtspunkt überblickt eine Sandküste, die mit den Überresten längst verstorbenen Meereslebens übersät ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.081552,
+                        -26.666863
+                  ]
+            },
+            {
+                  "name": "Witmuur",
+                  "text": "Dieser Aussichtspunkt, der übersetzt „Weiße Mauer“ heißt, hebt eine hoch aufragende Felswand hervor, die vom Guano unzähliger Seevögel gebleicht ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.080741,
+                        -26.672229
+                  ]
+            },
+            {
+                  "name": "Essy Bay",
+                  "text": "Eine malerische Küstenbucht mit Blick auf die raue Küstenlinie in der Nähe der Diaz-Spitze.",
+                  "category": "landmark",
+                  "coords": [
+                        15.081529,
+                        -26.681403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocky Bay",
+                  "text": "Ez a tengerparti kilátó egy csipkézett partszakaszra néz, ahol az Atlanti-óceán hideg, viharos vizei a szikláknak csapódnak.",
+                  "category": "natural",
+                  "coords": [
+                        15.081275,
+                        -26.690328
+                  ]
+            },
+            {
+                  "name": "Diaz Point",
+                  "text": "A vörös és fehér csíkokra festett, ikonikus világítótoronnyal rendelkező sziklás félsziget az áruló namíbiai partvidékre figyelmezteti a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        15.092926,
+                        -26.636484
+                  ]
+            },
+            {
+                  "name": "Little Arch „Kleiner Bogenfels“",
+                  "text": "Ez a kilátó egy természetes tengeri boltívet mutat be, amelyet az óceán hullámainak évszázados csapódása vájt ki a part menti sziklából.",
+                  "category": "natural",
+                  "coords": [
+                        15.087526,
+                        -26.72262
+                  ]
+            },
+            {
+                  "name": "Eberlanz Höhle",
+                  "text": "Ezt a tengeri barlangi látványosságot a zord sziklákba vájták, amelyek szembesülnek az Atlanti-óceán állandó verésével.",
+                  "category": "landmark",
+                  "coords": [
+                        15.089306,
+                        -26.698504
+                  ]
+            },
+            {
+                  "name": "Fjord",
+                  "text": "Ez a kilátó egy lenyűgöző tengerparti hasadékot örökít meg, ahol a hideg tengervíz mélyen benyomul az egyébként száraz sivatagi sziklák közé.",
+                  "category": "natural",
+                  "coords": [
+                        15.088914,
+                        -26.702152
+                  ]
+            },
+            {
+                  "name": "Halifax Point",
+                  "text": "Ebből a magaslati parti pontból tisztán látható a közeli Halifax-sziget, amely az afrikai pingvinek fontos költőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        15.082795,
+                        -26.65595
+                  ]
+            },
+            {
+                  "name": "Knochenbucht",
+                  "text": "A Csont-öbölként ismert kietlen kilátó egy homokos partra néz, amelyet a rég halott tengeri élőlények maradványai borítanak.",
+                  "category": "natural",
+                  "coords": [
+                        15.081552,
+                        -26.666863
+                  ]
+            },
+            {
+                  "name": "Witmuur",
+                  "text": "A „Fehér fal” névre keresztelt kilátó egy magasba tornyosuló sziklafalat emel ki, amelyet számtalan tengeri madár guanója fehérített ki.",
+                  "category": "natural",
+                  "coords": [
+                        15.080741,
+                        -26.672229
+                  ]
+            },
+            {
+                  "name": "Essy Bay",
+                  "text": "Festői tengerparti öböl, ahonnan kilátás nyílik a Diaz-fok környékének sziklás partvidékére.",
+                  "category": "landmark",
+                  "coords": [
+                        15.081529,
+                        -26.681403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocky Bay",
+                  "text": "Acest punct de belvedere de coastă are vedere la un țărm crestat unde apele reci și tulburi ale Atlanticului se izbesc de stânci.",
+                  "category": "natural",
+                  "coords": [
+                        15.081275,
+                        -26.690328
+                  ]
+            },
+            {
+                  "name": "Diaz Point",
+                  "text": "Având un far emblematic vopsit în dungi roșii și albe, această peninsulă stâncoasă avertizează navele de coasta înșelătoare a Namibiei.",
+                  "category": "landmark",
+                  "coords": [
+                        15.092926,
+                        -26.636484
+                  ]
+            },
+            {
+                  "name": "Little Arch „Kleiner Bogenfels“",
+                  "text": "Acest punct de belvedere scoate în evidență o arcadă marină naturală, sculptată meticulos din stânca de coastă de valurile prăpăstioase ale oceanului de-a lungul secolelor.",
+                  "category": "natural",
+                  "coords": [
+                        15.087526,
+                        -26.72262
+                  ]
+            },
+            {
+                  "name": "Eberlanz Höhle",
+                  "text": "Această peșteră marină este scobită în stâncile accidentate care înfruntă loviturile persistente ale Oceanului Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        15.089306,
+                        -26.698504
+                  ]
+            },
+            {
+                  "name": "Fjord",
+                  "text": "Acest punct de belvedere surprinde o fisură de coastă impresionantă, unde apa rece a mării pătrunde adânc în stâncile altfel uscate ale deșertului.",
+                  "category": "natural",
+                  "coords": [
+                        15.088914,
+                        -26.702152
+                  ]
+            },
+            {
+                  "name": "Halifax Point",
+                  "text": "Din acest loc de coastă înalt, se poate vedea clar Insula Halifax din apropiere, un loc important de reproducere pentru pinguinii africani.",
+                  "category": "natural",
+                  "coords": [
+                        15.082795,
+                        -26.65595
+                  ]
+            },
+            {
+                  "name": "Knochenbucht",
+                  "text": "Cunoscut sub numele de Golful Oaselor, acest punct de belvedere dezolant are vedere la un țărm nisipos presărat cu rămășițe ale vieții marine demult moarte.",
+                  "category": "natural",
+                  "coords": [
+                        15.081552,
+                        -26.666863
+                  ]
+            },
+            {
+                  "name": "Witmuur",
+                  "text": "Tradus ca „Zidul Alb”, acest punct de belvedere evidențiază un perete de stâncă falnic, albit de guano-ul nenumăratelor păsări marine.",
+                  "category": "natural",
+                  "coords": [
+                        15.080741,
+                        -26.672229
+                  ]
+            },
+            {
+                  "name": "Essy Bay",
+                  "text": "Un golf de coastă pitoresc care oferă vedere la țărmul accidentat din apropierea zonei Diaz Point.",
+                  "category": "landmark",
+                  "coords": [
+                        15.081529,
+                        -26.681403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocky Bay",
+                  "text": "This coastal viewpoint overlooks a jagged shoreline where the cold, turbulent waters of the Atlantic crash against the rocks.",
+                  "category": "natural",
+                  "coords": [
+                        15.081275,
+                        -26.690328
+                  ]
+            },
+            {
+                  "name": "Diaz Point",
+                  "text": "Featuring an iconic lighthouse painted in red and white stripes, this rocky peninsula warns ships of the treacherous Namibian coast.",
+                  "category": "landmark",
+                  "coords": [
+                        15.092926,
+                        -26.636484
+                  ]
+            },
+            {
+                  "name": "Little Arch „Kleiner Bogenfels“",
+                  "text": "This viewpoint highlights a natural sea arch meticulously carved out of coastal rock by centuries of crashing ocean waves.",
+                  "category": "natural",
+                  "coords": [
+                        15.087526,
+                        -26.72262
+                  ]
+            },
+            {
+                  "name": "Eberlanz Höhle",
+                  "text": "This sea cave attraction is etched into the rugged cliffs that face the persistent pounding of the Atlantic Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        15.089306,
+                        -26.698504
+                  ]
+            },
+            {
+                  "name": "Fjord",
+                  "text": "This viewpoint captures a striking coastal fissure where the cold seawater pushes deeply into the otherwise dry desert cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        15.088914,
+                        -26.702152
+                  ]
+            },
+            {
+                  "name": "Halifax Point",
+                  "text": "From this elevated coastal spot, you can clearly see nearby Halifax Island, an important breeding ground for African penguins.",
+                  "category": "natural",
+                  "coords": [
+                        15.082795,
+                        -26.65595
+                  ]
+            },
+            {
+                  "name": "Knochenbucht",
+                  "text": "Known as Bone Bay, this desolate viewpoint overlooks a sandy shoreline scattered with the remnants of long-dead marine life.",
+                  "category": "natural",
+                  "coords": [
+                        15.081552,
+                        -26.666863
+                  ]
+            },
+            {
+                  "name": "Witmuur",
+                  "text": "Translating to \"White Wall,\" this viewpoint highlights a towering rock face bleached by the guano of countless seabirds.",
+                  "category": "natural",
+                  "coords": [
+                        15.080741,
+                        -26.672229
+                  ]
+            },
+            {
+                  "name": "Essy Bay",
+                  "text": "A scenic coastal bay offering views of the rugged shoreline near the Diaz Point area.",
+                  "category": "landmark",
+                  "coords": [
+                        15.081529,
+                        -26.681403
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KA",
     coords: [15.0931, -26.6347],
@@ -703,7 +2197,88 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Présente une réplique de la croix originale.", "Un phare traditionnel se trouve à proximité.", "Dias appela la baie Angra Pequena."],
     }, image: "/poi-images/diaz-spitze-history-v2.webp"},
   {
-    id: "nakambale-museum-history-v2",
+    id: "nakambale-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nakambale Museum",
+                  "text": "Dieses Heimatmuseum befindet sich in einem ehemaligen finnischen Missionarshaus und zeigt Artefakte der lokalen Ndonga-Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        16.022897,
+                        -17.984073
+                  ]
+            },
+            {
+                  "name": "Olukonda National Monument",
+                  "text": "Dieses nationale historische Denkmal markiert eine wichtige historische Stätte in der Nähe des Geländes des Nakambale-Museums.",
+                  "category": "historical",
+                  "coords": [
+                        16.024051,
+                        -17.983711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nakambale Museum",
+                  "text": "Az egykori finn misszionáriusházban található örökségvédelmi múzeum a helyi Ndonga kultúra tárgyi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.022897,
+                        -17.984073
+                  ]
+            },
+            {
+                  "name": "Olukonda National Monument",
+                  "text": "Ez a nemzeti történelmi emlékmű egy fontos történelmi helyszínt jelöl a Nakambale Múzeum területének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.024051,
+                        -17.983711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nakambale Museum",
+                  "text": "Situat într-o fostă casă misionară finlandeză, acest muzeu de patrimoniu expune artefacte ale culturii locale Ndonga.",
+                  "category": "museum",
+                  "coords": [
+                        16.022897,
+                        -17.984073
+                  ]
+            },
+            {
+                  "name": "Olukonda National Monument",
+                  "text": "Acest monument istoric național marchează un sit istoric important în apropierea terenului Muzeului Nakambale.",
+                  "category": "historical",
+                  "coords": [
+                        16.024051,
+                        -17.983711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nakambale Museum",
+                  "text": "Located in a former Finnish missionary house, this heritage museum displays artifacts of the local Ndonga culture.",
+                  "category": "museum",
+                  "coords": [
+                        16.022897,
+                        -17.984073
+                  ]
+            },
+            {
+                  "name": "Olukonda National Monument",
+                  "text": "This national historical monument marks an important historical site near the Nakambale Museum grounds.",
+                  "category": "historical",
+                  "coords": [
+                        16.024051,
+                        -17.983711
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-ON",
     coords: [15.9567, -17.925],
@@ -753,7 +2328,88 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Rautanen a traduit la Bible en ndonga.", "Construit en 1893.", "Abrite la première église de la région."],
     }, image: "/poi-images/nakambale-museum-history-v2.webp"},
   {
-    id: "ombalantu-baobab-history-v2",
+    id: "ombalantu-baobab-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ombalantu Baobab Tree",
+                  "text": "Diese gewaltige, historische Affenbrotbaum-Attraktion verfügt über einen hohlen Stamm, der einst als Kapelle diente.",
+                  "category": "landmark",
+                  "coords": [
+                        14.987959,
+                        -17.511937
+                  ]
+            },
+            {
+                  "name": "Outapi War Museum",
+                  "text": "Dieses Militärhistorische Museum bewahrt Artefakte und Geschichten aus den Konflikten der Region in der Nähe des Ombalantu Baobab.",
+                  "category": "museum",
+                  "coords": [
+                        14.97916,
+                        -17.504227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ombalantu Baobab Tree",
+                  "text": "Ez a hatalmas, történelmi majomkenyérfa látványosság egy üreges törzzsel rendelkezik, amely egykor kápolnaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        14.987959,
+                        -17.511937
+                  ]
+            },
+            {
+                  "name": "Outapi War Museum",
+                  "text": "Ez a hadtörténeti múzeum a régió konfliktusainak tárgyi emlékeit és történeteit őrzi az Ombalantu Baobab közelében.",
+                  "category": "museum",
+                  "coords": [
+                        14.97916,
+                        -17.504227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ombalantu Baobab Tree",
+                  "text": "Această atracție cu un baobab istoric masiv prezintă un trunchi gol care a servit cândva drept capelă.",
+                  "category": "landmark",
+                  "coords": [
+                        14.987959,
+                        -17.511937
+                  ]
+            },
+            {
+                  "name": "Outapi War Museum",
+                  "text": "Acest muzeu de istorie militară păstrează artefacte și povești din conflictele regiunii lângă Ombalantu Baobab.",
+                  "category": "museum",
+                  "coords": [
+                        14.97916,
+                        -17.504227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ombalantu Baobab Tree",
+                  "text": "This massive, historic baobab tree attraction features a hollow trunk that once served as a chapel.",
+                  "category": "landmark",
+                  "coords": [
+                        14.987959,
+                        -17.511937
+                  ]
+            },
+            {
+                  "name": "Outapi War Museum",
+                  "text": "This military history museum preserves artifacts and stories from the region's conflicts near the Ombalantu Baobab.",
+                  "category": "museum",
+                  "coords": [
+                        14.97916,
+                        -17.504227
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-OS",
     coords: [14.9819, -17.5147],
@@ -803,7 +2459,88 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Environ 800 ans.", "Peut accueillir jusqu'à 35 personnes à l'intérieur.", "Est un patrimoine culturel namibien reconnu."],
     }, image: "/poi-images/ombalantu-baobab-history-v2.webp"},
   {
-    id: "turnhalle-windhoek-history-v2",
+    id: "turnhalle-windhoek-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Theatre of Namibia",
+                  "text": "Dieses Gebäude fungiert als der wichtigste Veranstaltungsort für darstellende Künste in der Hauptstadt und beherbergt eine Vielzahl nationaler Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085747,
+                        -22.562622
+                  ]
+            },
+            {
+                  "name": "Kaiserl. Landesvermessung",
+                  "text": "Diese historische Attraktion aus der deutschen Kolonialzeit diente ursprünglich als kaiserliches Landesvermessungsamt in Windhoek.",
+                  "category": "landmark",
+                  "coords": [
+                        17.084597,
+                        -22.561727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Theatre of Namibia",
+                  "text": "A főváros első számú előadó-művészeti központjaként működő épület számos nemzeti színházi produkciónak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085747,
+                        -22.562622
+                  ]
+            },
+            {
+                  "name": "Kaiserl. Landesvermessung",
+                  "text": "Ez a történelmi látványosság a német gyarmati kort idézi, eredetileg császári földmérési hivatalként szolgált Windhoekban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.084597,
+                        -22.561727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Theatre of Namibia",
+                  "text": "Funcționând ca principal loc de desfășurare a artelor spectacolului din capitală, această clădire găzduiește o varietate de producții naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085747,
+                        -22.562622
+                  ]
+            },
+            {
+                  "name": "Kaiserl. Landesvermessung",
+                  "text": "Această atracție istorică reflectă era colonială germană, servind inițial drept birou imperial de topografie în Windhoek.",
+                  "category": "landmark",
+                  "coords": [
+                        17.084597,
+                        -22.561727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Theatre of Namibia",
+                  "text": "Functioning as the capital's premier performing arts venue, this facility hosts a wide variety of national theater productions.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085747,
+                        -22.562622
+                  ]
+            },
+            {
+                  "name": "Kaiserl. Landesvermessung",
+                  "text": "This historic attraction reflects the German colonial era, originally serving as the imperial land surveying office in Windhoek.",
+                  "category": "landmark",
+                  "coords": [
+                        17.084597,
+                        -22.561727
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KH",
     coords: [17.0833, -22.5622],
@@ -853,7 +2590,88 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Construit en 1909 comme gymnase.", "Lieu de la conférence constitutionnelle en 1975.", "Aujourd'hui siège des tribunaux de la SADC."],
     }, image: "/poi-images/turnhalle-windhoek-history-v2.webp"},
           {
-    id: "marine-denkmal-history-v2",
+    id: "marine-denkmal-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "Die Rogl Souvenirs & Gallery bietet regionales Kunsthandwerk nahe dem Marinedenkmal an.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "Our Lady of the Rosary ist eine katholische Kirche im Zentrum von Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.527239,
+                        -22.676575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "A Rogl Szuvenír- és Galéria helyi kézműves termékeket kínál a Tengerészeti Emlékmű közelében.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "A Rózsafüzér Királynője egy katolikus templom Swakopmund központjában.",
+                  "category": "religious",
+                  "coords": [
+                        14.527239,
+                        -22.676575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "Rogl Souvenirs & Gallery oferă meșteșuguri regionale în apropierea Monumentului Marinei.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "Our Lady of the Rosary este o biserică catolică din centrul orașului Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.527239,
+                        -22.676575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "Rogl Souvenirs & Gallery offers regional crafts and artworks near the historic Marine Memorial.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "Our Lady of the Rosary is a Catholic church located in the heart of Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.527239,
+                        -22.676575
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-ER",
     coords: [14.525, -22.6775],
@@ -953,7 +2771,88 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Découvertes vieilles de plus de 25 000 ans.", "Nommée d'après la mission lunaire.", "Découverte en 1969 par W.E. Wendt."],
     }, image: "/poi-images/apollo-11-hoehle-history-v2.webp"},
   {
-    id: "altes-amtsgericht-history-v2",
+    id: "altes-amtsgericht-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deutsche Lutherische Kirche",
+                  "text": "Die deutsche lutherische Kirche ist ein historisches neobarockes Gebäude, das seiner Gemeinde weiterhin als spirituelles Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        14.529285,
+                        -22.67698
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "Die als Kulturerbe geschützte Alte Station besticht durch ihre markante deutsche Kolonialarchitektur und steht als Denkmal für den frühen Ausbau der regionalen Eisenbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        14.528813,
+                        -22.674256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deutsche Lutherische Kirche",
+                  "text": "A német evangélikus templom egy történelmi neobarokk épület, amely továbbra is spirituális központként szolgál gyülekezete számára.",
+                  "category": "religious",
+                  "coords": [
+                        14.529285,
+                        -22.67698
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "A kulturális örökségként védett Old Station lenyűgöző német gyarmati építészettel büszkélkedhet, és a korai regionális vasútbővítés emlékműveként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        14.528813,
+                        -22.674256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deutsche Lutherische Kirche",
+                  "text": "Biserica Luterană Germană este o clădire istorică în stil neobaroc care continuă să servească drept centru spiritual pentru congregația sa.",
+                  "category": "religious",
+                  "coords": [
+                        14.529285,
+                        -22.67698
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "Protejată ca sit de patrimoniu, Gara Veche prezintă o arhitectură colonială germană impresionantă și stă ca un monument al expansiunii feroviare regionale timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        14.528813,
+                        -22.674256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "German Lutheran Church",
+                  "text": "The German Lutheran Church is a historic neo-Baroque building that continues to serve as a spiritual center for its congregation.",
+                  "category": "religious",
+                  "coords": [
+                        14.529285,
+                        -22.67698
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "Protected as a heritage site, the Old Station features striking German colonial architecture and stands as a monument to early regional railway expansion.",
+                  "category": "landmark",
+                  "coords": [
+                        14.528813,
+                        -22.674256
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-ER",
     coords: [14.5289, -22.6786],
@@ -1003,7 +2902,196 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       fr: ["Achevé en 1908.", "Conçu par l'architecte Otto Ertl.", "Abrite aujourd'hui des bureaux."],
     }, image: "/poi-images/altes-amtsgericht-history-v2.webp"},
   {
-    id: "rheinische-missionskirche-history-v2",
+    id: "rheinische-missionskirche-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karakul Monument",
+                  "text": "Dieses Steindenkmal erinnert an die historische Bedeutung der Karakulschafzucht in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        18.13434,
+                        -26.579486
+                  ]
+            },
+            {
+                  "name": "Steam locomotive",
+                  "text": "Diese historische Dampflokomotive ist ein gut erhaltenes Relikt der frühen Eisenbahngeschichte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        18.136525,
+                        -26.57465
+                  ]
+            },
+            {
+                  "name": "Köcherbaumwald",
+                  "text": "Dieser trockene Naturpark präsentiert die einzigartigen, verzweigten Silhouetten der einheimischen Köcherbäume.",
+                  "category": "landmark",
+                  "coords": [
+                        18.158418,
+                        -26.553315
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Public Swimming Pool",
+                  "text": "Dieser städtische Wasserpark bietet große Freibäder zur Abkühlung im Wüstenklima.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128786,
+                        -26.574769
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Municipal Museum",
+                  "text": "Dieses Museum ist in der historischen Rheinischen Missionskirche untergebracht und zeigt regionale Kulturartefakte.",
+                  "category": "museum",
+                  "coords": [
+                        18.132251,
+                        -26.579711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karakul Monument",
+                  "text": "Ez a kőemlékmű a karakül juh tenyésztésének történelmi jelentőségének állít emléket a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        18.13434,
+                        -26.579486
+                  ]
+            },
+            {
+                  "name": "Steam locomotive",
+                  "text": "Ez a régi gőzmozdony a régió korai vasúti történelmének megőrzött emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        18.136525,
+                        -26.57465
+                  ]
+            },
+            {
+                  "name": "Kokerboom Woud",
+                  "text": "Ez a száraz natúrpark a helyi tegezfák egyedi, elágazó sziluettjeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        18.158418,
+                        -26.553315
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Public Swimming Pool",
+                  "text": "Ez a városi vízi park nagy szabadtéri medencékkel várja a sivatagi klímában hűsölni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128786,
+                        -26.574769
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Municipal Museum",
+                  "text": "A történelmi Rajnai Missziós Templomban helyet kapó múzeum regionális kulturális leleteket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        18.132251,
+                        -26.579711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karakul Monument",
+                  "text": "Acest monument de piatră comemorează importanța istorică a industriei de creștere a oilor Karakul în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        18.13434,
+                        -26.579486
+                  ]
+            },
+            {
+                  "name": "Steam locomotive",
+                  "text": "Această locomotivă cu abur de epocă se păstrează ca o relicvă a istoriei feroviare timpurii a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.136525,
+                        -26.57465
+                  ]
+            },
+            {
+                  "name": "Kokerboom Woud",
+                  "text": "Acest parc natural arid prezintă siluetele ramificate unice ale arborilor tolba nativi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.158418,
+                        -26.553315
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Public Swimming Pool",
+                  "text": "Acest parc acvatic municipal dispune de piscine mari în aer liber pentru răcorire în climatul deșertic.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128786,
+                        -26.574769
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Municipal Museum",
+                  "text": "Găzduit în biserica istorică a Misiunii Rinului, acest muzeu expune artefacte culturale regionale.",
+                  "category": "museum",
+                  "coords": [
+                        18.132251,
+                        -26.579711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karakul Monument",
+                  "text": "This stone monument commemorates the historical importance of the Karakul sheep breeding industry in the region.",
+                  "category": "historical",
+                  "coords": [
+                        18.13434,
+                        -26.579486
+                  ]
+            },
+            {
+                  "name": "Steam locomotive",
+                  "text": "This vintage steam locomotive stands as a preserved relic of the region's early railway history.",
+                  "category": "landmark",
+                  "coords": [
+                        18.136525,
+                        -26.57465
+                  ]
+            },
+            {
+                  "name": "Quiver Tree Forest",
+                  "text": "This arid nature park showcases the unique branching silhouettes of native quiver trees.",
+                  "category": "landmark",
+                  "coords": [
+                        18.158418,
+                        -26.553315
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Public Swimming Pool",
+                  "text": "This municipal water park features large outdoor swimming pools for cooling off in the desert climate.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128786,
+                        -26.574769
+                  ]
+            },
+            {
+                  "name": "Keetmanshoop Municipal Museum",
+                  "text": "Housed in the historic Rhenish Mission Church, this museum displays regional cultural artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        18.132251,
+                        -26.579711
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "NA-KA",
     coords: [18.1344, -26.5772],

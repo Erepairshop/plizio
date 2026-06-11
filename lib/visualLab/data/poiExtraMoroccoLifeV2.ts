@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraMoroccoLifeV2: POI[] = [
   {
-    id: "souss-massa-national-park-life-v2",
+    id: "souss-massa-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sidi Toual",
+                  "text": "Dieser Atlantikstrand in der Nähe des Souss-Massa-Nationalparks bietet Sandküsten vor der Kulisse einer natürlichen Landschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.627624,
+                        30.260246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sidi Toual",
+                  "text": "Ez a Souss-Massa Nemzeti Park közelében fekvő atlanti-óceáni partvidék homokos strandokat kínál, amelyeket a természetes táj övez.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.627624,
+                        30.260246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sidi Toual",
+                  "text": "Această plajă de pe coasta atlantică din apropierea Parcului Național Souss-Massa oferă țărmuri de nisip susținute de un peisaj natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.627624,
+                        30.260246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sidi Toual",
+                  "text": "This Atlantic coastal beach near Souss-Massa National Park offers sandy shores backed by the natural landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.627624,
+                        30.260246
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MA-01",
     coords: [-9.6, 30.2],
@@ -73,7 +118,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Zone protégée avec des forêts de cèdres et une faune diversifiée.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/tazekka-national-park-life-v2.webp"},
   {
-    id: "talassemtane-national-park-life-v2",
+    id: "talassemtane-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abandoned Tower",
+                  "text": "Dieser verfallene steinerne Aussichtsturm bietet Wanderern einen erhöhten Aussichtspunkt über die weiten immergrünen Täler von Talassemtane.",
+                  "category": "natural",
+                  "coords": [
+                        -5.147972,
+                        35.138809
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abandoned Tower",
+                  "text": "Ez a romos kőből épült kilátótorony magasan fekvő kilátópontot kínál a túrázóknak Talassemtane hatalmas örökzöld völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -5.147972,
+                        35.138809
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abandoned Tower",
+                  "text": "Acest turn de veghe din piatră, aflat în ruină, oferă drumeților un punct de observație la înălțime asupra văilor vaste și veșnic verzi din Talassemtane.",
+                  "category": "natural",
+                  "coords": [
+                        -5.147972,
+                        35.138809
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abandoned Tower",
+                  "text": "This dilapidated stone lookout tower offers hikers an elevated vantage point over the sweeping evergreen valleys of Talassemtane.",
+                  "category": "natural",
+                  "coords": [
+                        -5.147972,
+                        35.138809
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MA-03",
     coords: [-5.2, 35.1],
@@ -178,7 +268,88 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Principale zone de culture d'agrumes au Maroc.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/gharbi-citrus-agriculture-life-v2.webp"},
   {
-    id: "moulouya-valley-agriculture-life-v2",
+    id: "moulouya-valley-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grotte des Pigeons",
+                  "text": "Eine bedeutende prähistorische Höhle im Moulouya-Tal, die für ihre antiken menschlichen Überreste und Artefakte aus der Altsteinzeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.403747,
+                        34.813828
+                  ]
+            },
+            {
+                  "name": "Kasbah Sidi Bouzid",
+                  "text": "Die verfallenen Ruinen einer traditionellen Lehmfestung mit Blick auf die Landschaften des Moulouya-Tals.",
+                  "category": "historical",
+                  "coords": [
+                        -2.503259,
+                        34.821298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grotte des Pigeons",
+                  "text": "Jelentős történelem előtti barlang a Moulouya-völgyben, amely híres az ősi paleolitikumból származó emberi maradványairól és leleteiről.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.403747,
+                        34.813828
+                  ]
+            },
+            {
+                  "name": "Kasbah Sidi Bouzid",
+                  "text": "Egy hagyományos vályogtégla erőd omladozó romjai, amelyek a Moulouya-völgy tájaira néznek.",
+                  "category": "historical",
+                  "coords": [
+                        -2.503259,
+                        34.821298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grotte des Pigeons",
+                  "text": "O peșteră preistorică semnificativă din Valea Moulouya, renumită pentru rămășițele umane și artefactele sale antice din Paleolitic.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.403747,
+                        34.813828
+                  ]
+            },
+            {
+                  "name": "Kasbah Sidi Bouzid",
+                  "text": "Ruinele prăbușite ale unei fortărețe tradiționale din cărămidă de noroi, cu vedere la peisajele din Valea Moulouya.",
+                  "category": "historical",
+                  "coords": [
+                        -2.503259,
+                        34.821298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grotte des Pigeons",
+                  "text": "A significant prehistoric cave in the Moulouya Valley renowned for its ancient Paleolithic human remains and artifacts.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.403747,
+                        34.813828
+                  ]
+            },
+            {
+                  "name": "Kasbah Sidi Bouzid",
+                  "text": "The crumbling ruins of a traditional mud-brick fortress overlooking the landscapes of the Moulouya Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -2.503259,
+                        34.821298
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-06",
     coords: [-2.5, 34.8],
@@ -213,7 +384,124 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Une vallée fertile largement utilisée pour l'arboriculture fruitière.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/moulouya-valley-agriculture-life-v2.webp"},
   {
-    id: "casablanca-zoo-kid-landmark-life-v2",
+    id: "casablanca-zoo-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Ein großes Kulturtheater, das eine Vielzahl von Bühnenstücken, Konzerten und Theateraufführungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "Eine standardmäßige öffentliche Posteinrichtung, die Post- und Paketdienste für die örtliche Nachbarschaft abwickelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608619,
+                        33.596375
+                  ]
+            },
+            {
+                  "name": "Anciens Abattoirs de Casablanca",
+                  "text": "Diese ehemaligen industriellen Schlachthöfe wurden in einen lebendigen Veranstaltungsort für Straßenkunst und kulturelle Events verwandelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.582071,
+                        33.594819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Egy nagyszabású kulturális színház, amely különféle színpadi daraboknak, koncerteknek és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "Egy szabványos nyilvános postai létesítmény, amely a helyi környék levél- és csomagszolgáltatásait kezeli.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608619,
+                        33.596375
+                  ]
+            },
+            {
+                  "name": "Anciens Abattoirs de Casablanca",
+                  "text": "Ezeket az egykori ipari vágóhidakat a street art és a kulturális események élénk helyszínévé alakították át.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.582071,
+                        33.594819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Un grandios teatru cultural care găzduiește o varietate de piese de teatru, concerte și spectacole teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "O facilitate poștală publică standard care se ocupă de servicii de corespondență și pachete pentru cartierul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608619,
+                        33.596375
+                  ]
+            },
+            {
+                  "name": "Anciens Abattoirs de Casablanca",
+                  "text": "Aceste foste abatoare industriale au fost transformate într-un spațiu vibrant pentru artă stradală și evenimente culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.582071,
+                        33.594819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "A grand cultural theatre hosting a variety of stage plays, concerts, and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Post Office",
+                  "text": "A standard public postal facility handling mail and package services for the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608619,
+                        33.596375
+                  ]
+            },
+            {
+                  "name": "Ancient Slaughterhouses of Casablanca",
+                  "text": "These former industrial abattoirs have been transformed into a vibrant venue for street art and cultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.582071,
+                        33.594819
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MA-07",
     coords: [-7.6, 33.6],
@@ -248,7 +536,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Lieu prisé des familles à Casablanca.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/casablanca-zoo-kid-landmark-life-v2.webp"},
   {
-    id: "rabat-zoo-kid-landmark-life-v2",
+    id: "rabat-zoo-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dar Es Salam Palace",
+                  "text": "Der Dar Es Salam Palast in der Nähe von Rabat ist ein majestätisches Schloss, das in klassischer marokkanischer Architektur gestaltet ist und weitläufige Gärten überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        -6.83737,
+                        33.935082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dar Es Salam Palace",
+                  "text": "A Rabat közelében található Dar Es Salam palota egy fenséges kastély, amely klasszikus marokkói építészeti stílusban épült, és kiterjedt kertekre néz.",
+                  "category": "castle",
+                  "coords": [
+                        -6.83737,
+                        33.935082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dar Es Salam Palace",
+                  "text": "Palatul Dar Es Salam din apropiere de Rabat este un castel maiestuos, proiectat în arhitectură clasică marocană, dominând grădinile vaste din jur.",
+                  "category": "castle",
+                  "coords": [
+                        -6.83737,
+                        33.935082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dar Es Salam Palace",
+                  "text": "The Dar Es Salam Palace near Rabat is a majestic castle designed with classic Moroccan architecture, overlooking expansive gardens.",
+                  "category": "castle",
+                  "coords": [
+                        -6.83737,
+                        33.935082
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MA-08",
     coords: [-6.8, 33.9],
@@ -318,7 +651,304 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Une immense palmeraie avec des activités pour enfants.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/marrakech-palmeraie-kid-landmark-life-v2.webp"},
   {
-    id: "ifrane-lion-kid-landmark-life-v2",
+    id: "ifrane-lion-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wild Monkeys",
+                  "text": "In diesem Wildtierreservat können Besucher die einheimischen Berberaffen der Region in einer dicht bewaldeten Umgebung sicher beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.135427,
+                        33.479351
+                  ]
+            },
+            {
+                  "name": "Cèdre de Gouraud",
+                  "text": "Diese monumentale alte Zeder, die in den Wäldern des Mittleren Atlas in die Höhe ragt, wurde nach dem französischen General Henri Gouraud benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.155379,
+                        33.426368
+                  ]
+            },
+            {
+                  "name": "Station de Pisciculture Ras El Ma",
+                  "text": "Diese von kühlen Bergquellen gespeiste Aquakulturstation widmet sich der Aufzucht von Fischen und der Erhaltung von Süßwasserlebensräumen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.148528,
+                        33.464258
+                  ]
+            },
+            {
+                  "name": "Monkey forest",
+                  "text": "Dieser dichte Wald aus hoch aufragenden Atlas-Zedern ist ein beliebter Ort, um wilde Berberaffen in ihrem natürlichen Lebensraum anzutreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075919,
+                        33.419674
+                  ]
+            },
+            {
+                  "name": "Statue de Lion",
+                  "text": "Dieser ikonische Steinlöwe, der von einem Gefangenen aus dem Zweiten Weltkrieg geschnitzt wurde, erinnert an die wilden Raubtiere, die einst in diesen Bergen umherstreiften.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "Dieser Outdoor-Vergnügungspark bietet bunte Rutschen, Karussells und Erholungsbereiche, die speziell für kleine Kinder konzipiert wurden.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "Dieses große, moderne Theater dient als primärer Veranstaltungsort für akademische Vorlesungen und große kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Parc National D'Ifrane",
+                  "text": "Dieses weitläufige Bergreservat ist bekannt dafür, ausgedehnte Zedernwälder zu beherbergen und dem gefährdeten Berberaffen ein Schutzgebiet zu bieten.",
+                  "category": "natural",
+                  "coords": [
+                        -5.133622,
+                        33.431206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wild Monkeys",
+                  "text": "Ebben a vadasparkban a látogatók biztonságosan figyelhetik meg a régió őshonos berber makákóit sűrűn erdős környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.135427,
+                        33.479351
+                  ]
+            },
+            {
+                  "name": "Cèdre de Gouraud",
+                  "text": "Ezt a Középső-Atlasz erdeiben tornyosuló monumentális ősi cédrusfát Henri Gouraud francia tábornokról nevezték el.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.155379,
+                        33.426368
+                  ]
+            },
+            {
+                  "name": "Station de Pisciculture Ras El Ma",
+                  "text": "A hűvös hegyi források által táplált akvakultúra-állomás a haltenyésztésnek és az édesvízi élőhelyek megőrzésének szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.148528,
+                        33.464258
+                  ]
+            },
+            {
+                  "name": "Monkey forest",
+                  "text": "Ez az Atlasz-cédrusokból álló sűrű erdő népszerű hely, ahol vadon élő berber makákókkal találkozhatunk természetes élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075919,
+                        33.419674
+                  ]
+            },
+            {
+                  "name": "Statue de Lion",
+                  "text": "Ezt az ikonikus kőoroszlán-szobrot egy második világháborús fogoly faragta, és azoknak a vad ragadozóknak állít emléket, amelyek egykor ezekben a hegyekben kóboroltak.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "Ez a szabadtéri vidámpark színes csúszdákkal, körhintákkal és kifejezetten kisgyermekek számára kialakított pihenőövezetekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "Ez a nagy, modern színház az akadémiai előadások és a nagyszabású kulturális előadások elsődleges helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Parc National D'Ifrane",
+                  "text": "Ez a kiterjedt hegyvidéki rezervátum arról híres, hogy hatalmas cédruserdőknek ad otthont, és menedéket nyújt a veszélyeztetett berber makákónak.",
+                  "category": "natural",
+                  "coords": [
+                        -5.133622,
+                        33.431206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wild Monkeys",
+                  "text": "În această rezervație de animale sălbatice, vizitatorii pot observa în siguranță macacii berberi nativi din regiune într-un mediu dens împădurit.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.135427,
+                        33.479351
+                  ]
+            },
+            {
+                  "name": "Cèdre de Gouraud",
+                  "text": "Acest cedru antic monumental, care se înalță în pădurile Atlasului Mijlociu, poartă numele generalului francez Henri Gouraud.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.155379,
+                        33.426368
+                  ]
+            },
+            {
+                  "name": "Station de Pisciculture Ras El Ma",
+                  "text": "Hrănită de izvoarele reci de munte, această stație de acvacultură este dedicată creșterii peștilor și conservării habitatelor de apă dulce.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.148528,
+                        33.464258
+                  ]
+            },
+            {
+                  "name": "Monkey forest",
+                  "text": "Această pădure densă de cedri impunători din Atlas este un loc popular pentru întâlnirea macacilor berberi sălbatici în habitatul lor natal.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075919,
+                        33.419674
+                  ]
+            },
+            {
+                  "name": "Statue de Lion",
+                  "text": "Sculptat de un prizonier din al Doilea Război Mondial, acest leu de piatră iconic comemorează prădătorii sălbatici care au cutreierat odată acești munți.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "Acest parc de distracții în aer liber oferă tobogane colorate, carusele și zone de recreere concepute special pentru copiii mici.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "Acest teatru mare și modern servește drept loc principal pentru prelegeri academice și spectacole culturale la scară largă.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Parc National D'Ifrane",
+                  "text": "Această vastă rezervație montană este renumită pentru adăpostirea pădurilor întinse de cedru și pentru oferirea unui sanctuar macacului berber pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        -5.133622,
+                        33.431206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wild Monkeys",
+                  "text": "This wildlife reserve allows visitors to safely observe the region's native Barbary macaques in a densely forested setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.135427,
+                        33.479351
+                  ]
+            },
+            {
+                  "name": "Cèdre de Gouraud",
+                  "text": "This monumental ancient cedar tree, towering in the Middle Atlas forests, was named after the French General Henri Gouraud.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.155379,
+                        33.426368
+                  ]
+            },
+            {
+                  "name": "Station de Pisciculture Ras El Ma",
+                  "text": "Fed by cool mountain springs, this aquaculture station is dedicated to breeding fish and conserving freshwater habitats.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.148528,
+                        33.464258
+                  ]
+            },
+            {
+                  "name": "Monkey forest",
+                  "text": "This dense woodland of towering Atlas cedars is a popular spot for encountering wild Barbary macaques in their native habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.075919,
+                        33.419674
+                  ]
+            },
+            {
+                  "name": "Lion Statue",
+                  "text": "Carved by a World War II prisoner, this iconic stone lion commemorates the wild predators that once roamed these mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "This outdoor amusement park features colorful slides, merry-go-rounds, and recreational areas designed specifically for young children.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "This large, modern theatre serves as the primary venue for academic lectures and large-scale cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Ifrane National Park",
+                  "text": "This expansive mountainous reserve is renowned for harboring extensive cedar forests and providing a sanctuary for the endangered Barbary macaque.",
+                  "category": "natural",
+                  "coords": [
+                        -5.133622,
+                        33.431206
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MA-10",
     coords: [-5.1, 33.5],
@@ -353,7 +983,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Une statue célèbre dans la ville d'Ifrane.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/ifrane-lion-kid-landmark-life-v2.webp"},
   {
-    id: "dakhla-bird-habitat-life-v2",
+    id: "dakhla-bird-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mohamdou Agah Sidi Brahim",
+                  "text": "Der Strand Mohamdou Agah Sidi Brahim nahe Dakhla ist ein ruhiger Küstenabschnitt, der oft von Seevögeln aufgesucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.8533,
+                        23.6411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mohamdou Agah Sidi Brahim",
+                  "text": "A Dakhla melletti Mohamdou Agah Sidi Brahim strand egy csendes partszakasz, amelyet gyakran látogatnak tengeri madarak.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.8533,
+                        23.6411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mohamdou Agah Sidi Brahim",
+                  "text": "Plaja Mohamdou Agah Sidi Brahim de lângă Dakhla este o porțiune de coastă liniștită, vizitată frecvent de păsări marine.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.8533,
+                        23.6411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mohamdou Agah Sidi Brahim",
+                  "text": "Mohamdou Agah Sidi Brahim beach near Dakhla is a tranquil coastal stretch favored by diverse seabird species.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.8533,
+                        23.6411
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MA-11",
     coords: [-15.9, 23.7],
@@ -388,7 +1063,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Un habitat important pour les oiseaux migrateurs au Sahara Occidental.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/dakhla-bird-habitat-life-v2.webp"},
   {
-    id: "khenifiss-national-park-life-v2",
+    id: "khenifiss-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flamingo spotting",
+                  "text": "Dieser Naturbeobachtungspunkt im Khenifiss-Nationalpark ist ideal, um wilde Flamingos in ihrem Lebensraum zu sehen.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.239953,
+                        28.028727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flamingo spotting",
+                  "text": "Ez a Khenifiss Nemzeti Parkban található természetmegfigyelő hely ideális a vadon élő flamingók megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.239953,
+                        28.028727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flamingo spotting",
+                  "text": "Acest punct de observare a naturii din Parcul Național Khenifiss este ideal pentru a vedea flamingo sălbatici.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.239953,
+                        28.028727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flamingo spotting",
+                  "text": "This nature observation spot in Khenifiss National Park is ideal for watching wild flamingos in their habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.239953,
+                        28.028727
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MA-12",
     coords: [-12.2, 28.0],
@@ -493,7 +1213,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Une région importante pour la culture céréalière.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/doukkala-wheat-agriculture-life-v2.webp"},
   {
-    id: "oued-noun-agriculture-life-v2",
+    id: "oued-noun-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Blanche",
+                  "text": "Dieser unberührte Sandstrand erstreckt sich entlang des Atlantiks in der Region Oued Noun und bildet einen abgelegenen und malerischen Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.578679,
+                        28.98469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Blanche",
+                  "text": "Az Oued Noun régióban, az Atlanti-óceán mentén húzódó érintetlen homokos strand egy távoli és festői partszakaszt alkot.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.578679,
+                        28.98469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Blanche",
+                  "text": "Întinzându-se de-a lungul Atlanticului în regiunea Oued Noun, această plajă curată de nisip formează o porțiune pitorească și îndepărtată de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.578679,
+                        28.98469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Blanche",
+                  "text": "Stretching along the Atlantic in the Oued Noun region, this pristine sandy beach forms a remote and scenic stretch of coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.578679,
+                        28.98469
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-15",
     coords: [-10.5, 29.0],
@@ -598,7 +1363,160 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Un petit mais charmant parc animalier à Meknès.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/meknes-zoo-kid-landmark-life-v2.webp"},
   {
-    id: "agadir-bird-valley-kid-landmark-life-v2",
+    id: "agadir-bird-valley-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Médina d'Agadir",
+                  "text": "Eine detaillierte Freilichtrekonstruktion der historischen Berberarchitektur, die 1960 durch ein Erdbeben zerstört wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -9.572454,
+                        30.378491
+                  ]
+            },
+            {
+                  "name": "Kasbat souss",
+                  "text": "Ein Handwerkerkomplex in Agadir, der traditionelle marokkanische Kunsthandwerke und regionale Architektur präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.572628,
+                        30.384612
+                  ]
+            },
+            {
+                  "name": "Palais Royal",
+                  "text": "Eine imposante, stark bewachte königliche Residenz in Agadir mit verzierten Toren und weitläufigen Privatgärten.",
+                  "category": "castle",
+                  "coords": [
+                        -9.593167,
+                        30.374548
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir",
+                  "text": "Ein breiter, sichelförmiger goldener Sandstrand, der sich entlang der Atlantikküste von Agadir erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.604026,
+                        30.39954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Médina d'Agadir",
+                  "text": "Az 1960-as földrengésben elpusztult történelmi berber építészet részletes, szabadtéri rekonstrukciója.",
+                  "category": "museum",
+                  "coords": [
+                        -9.572454,
+                        30.378491
+                  ]
+            },
+            {
+                  "name": "Kasbat souss",
+                  "text": "Kézműves komplexum Agadirban, amely hagyományos marokkói mesterségeket és regionális építészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.572628,
+                        30.384612
+                  ]
+            },
+            {
+                  "name": "Palais Royal",
+                  "text": "Impozáns, szigorúan őrzött királyi rezidencia Agadirban, díszes kapukkal és kiterjedt magánkertekkel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.593167,
+                        30.374548
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir",
+                  "text": "Széles, félhold alakú aranyhomokos part, amely Agadir atlanti partvonala mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.604026,
+                        30.39954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Médina d'Agadir",
+                  "text": "O reconstrucție detaliată în aer liber a arhitecturii istorice berbere, distrusă în cutremurul din 1960.",
+                  "category": "museum",
+                  "coords": [
+                        -9.572454,
+                        30.378491
+                  ]
+            },
+            {
+                  "name": "Kasbat souss",
+                  "text": "Un complex de artizani din Agadir, prezentând meșteșuguri tradiționale marocane și arhitectură regională.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.572628,
+                        30.384612
+                  ]
+            },
+            {
+                  "name": "Palais Royal",
+                  "text": "O reședință regală impunătoare și bine păzită din Agadir, cu porți ornamentate și grădini private întinse.",
+                  "category": "castle",
+                  "coords": [
+                        -9.593167,
+                        30.374548
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir",
+                  "text": "O întindere largă de nisip auriu în formă de semilună, de-a lungul coastei atlantice a Agadirului.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.604026,
+                        30.39954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Médina d'Agadir",
+                  "text": "A detailed, open-air reconstruction of the historic Berber architecture destroyed in the 1960 earthquake.",
+                  "category": "museum",
+                  "coords": [
+                        -9.572454,
+                        30.378491
+                  ]
+            },
+            {
+                  "name": "Kasbat souss",
+                  "text": "An artisan complex in Agadir showcasing traditional Moroccan crafts and regional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.572628,
+                        30.384612
+                  ]
+            },
+            {
+                  "name": "Palais Royal",
+                  "text": "An imposing, highly guarded royal residence in Agadir featuring ornate gates and expansive private gardens.",
+                  "category": "castle",
+                  "coords": [
+                        -9.593167,
+                        30.374548
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir",
+                  "text": "A broad, crescent-shaped expanse of golden sand stretching along the Atlantic coast of Agadir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.604026,
+                        30.39954
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MA-18",
     coords: [-9.6, 30.4],
@@ -738,7 +1656,160 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Le bassin agricole le plus important du Maroc.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/sebou-river-basin-agriculture-life-v2.webp"},
   {
-    id: "ouazzane-olive-agriculture-life-v2",
+    id: "ouazzane-olive-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lac",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über den See in der Nähe der landwirtschaftlichen Region Ouazzane.",
+                  "category": "natural",
+                  "coords": [
+                        -5.536626,
+                        34.785213
+                  ]
+            },
+            {
+                  "name": "Magana",
+                  "text": "Dieses steinerne Monument ist ein Wahrzeichen in der ländlichen Umgebung von Ouazzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani",
+                  "text": "Dieses lokale Monument widmet sich einer verehrten Persönlichkeit in der Region Ouazzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            },
+            {
+                  "name": "Motel Rif",
+                  "text": "Dieses Motel bietet Reisenden eine Unterkunft in der Rif-Region nahe Ouazzane.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.544522,
+                        34.772761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lac",
+                  "text": "Ez a kilátópont széles kilátást nyújt a tóra a mezőgazdasági Ouazzane régió közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -5.536626,
+                        34.785213
+                  ]
+            },
+            {
+                  "name": "Magana",
+                  "text": "Ez a kőből épült emlékmű Ouazzane vidéki környezetének egyik nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani",
+                  "text": "Ez a helyi emlékmű egy tisztelt személyiségnek állít emléket az Ouazzane régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            },
+            {
+                  "name": "Motel Rif",
+                  "text": "Ez a motel a Rif-régióban, Ouazzane közelében kínál szállást az utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.544522,
+                        34.772761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lac",
+                  "text": "Acest punct de belvedere oferă o priveliște largă asupra lacului din apropierea regiunii agricole Ouazzane.",
+                  "category": "natural",
+                  "coords": [
+                        -5.536626,
+                        34.785213
+                  ]
+            },
+            {
+                  "name": "Magana",
+                  "text": "Acest monument de piatră este un punct de reper în mediul rural din jurul orașului Ouazzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani",
+                  "text": "Acest monument local este dedicat unei personalități venerate din regiunea Ouazzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            },
+            {
+                  "name": "Motel Rif",
+                  "text": "Acest motel oferă cazare călătorilor în regiunea Rif, lângă Ouazzane.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.544522,
+                        34.772761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lac",
+                  "text": "This viewpoint offers a wide look over the lake near the agricultural region of Ouazzane.",
+                  "category": "natural",
+                  "coords": [
+                        -5.536626,
+                        34.785213
+                  ]
+            },
+            {
+                  "name": "Magana",
+                  "text": "This stone monument is a landmark in the rural surroundings of Ouazzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani",
+                  "text": "This local monument is dedicated to a revered figure in the Ouazzane region.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            },
+            {
+                  "name": "Motel Rif",
+                  "text": "This motel provides lodging for travelers in the Rif region near Ouazzane.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.544522,
+                        34.772761
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-22",
     coords: [-5.5, 34.8],
@@ -808,7 +1879,268 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Région montagneuse où les chèvres sont traditionnellement élevées.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/chefchaouen-goat-habitat-life-v2.webp"},
   {
-    id: "fes-region-agriculture-life-v2",
+    id: "fes-region-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Institut des Beaux arts Fès",
+                  "text": "Das Institut des Beaux arts Fès ist ein Zentrum zur Förderung traditioneller marokkanischer und moderner Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.015204,
+                        34.003326
+                  ]
+            },
+            {
+                  "name": "Rond Point Le ballon de foot",
+                  "text": "Der Kreisverkehr „Le ballon de foot“ in der Region Fès wird von einem großen Fußball-Denkmal geziert.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.973914,
+                        34.002733
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "Grillade Brahim ist ein lokaler Gastronomiebetrieb in der Region Fès, der für seine traditionellen marokkanischen Fleischgerichte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "Die Salle des fêtes Jamai ist ein großer Veranstaltungssaal in der Region Fès, in dem feierliche lokale Events stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "Sandwich Benmaseoud ist ein beliebter Anlaufpunkt für marokkanisches Street Food im Großraum Fès.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Art shows alami ist eine Kunstgalerie in der Region Fès, die zeitgenössische Gemälde und Skulpturen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "New Boussole Travel ist eine lokale Agentur, die als Ausgangspunkt für Ausflüge rund um Fès dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Institut des Beaux arts Fès",
+                  "text": "Az Institut des Beaux arts Fès a hagyományos marokkói és a modern művészetek oktatásának és bemutatásának központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.015204,
+                        34.003326
+                  ]
+            },
+            {
+                  "name": "Rond Point Le ballon de foot",
+                  "text": "A Fès régióban található „Le ballon de foot” körforgalmat egy nagyméretű futballabda-emlékmű díszíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.973914,
+                        34.002733
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "A Grillade Brahim egy helyi vendéglátóhely a Fès régióban, amely hagyományos marokkói húsételeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "A Salle des fêtes Jamai egy nagy rendezvényterem a Fès régióban, amely ünnepi eseményeknek és esküvőknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "A Sandwich Benmaseoud a marokkói utcai ételek kedvelt lelőhelye Fès környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Az Art shows alami egy művészeti galéria a Fès régióban, amely kortárs festményeket és szobrokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "A New Boussole Travel egy helyi utazási iroda, amely a Fès környéki kirándulások kiindulópontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Institut des Beaux arts Fès",
+                  "text": "Institut des Beaux arts Fès este un centru dedicat promovării artelor vizuale moderne și tradiționale marocane.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.015204,
+                        34.003326
+                  ]
+            },
+            {
+                  "name": "Rond Point Le ballon de foot",
+                  "text": "Sensul giratoriu „Le ballon de foot” din regiunea Fès se distinge printr-un monument masiv în formă de minge de fotbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.973914,
+                        34.002733
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "Grillade Brahim este un local de atracție culinară din regiunea Fès, cunoscut pentru preparatele tradiționale din carne la grătar.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "Salle des fêtes Jamai este o sală mare de evenimente din regiunea Fès, dedicată festivităților și adunărilor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "Sandwich Benmaseoud este un punct de atracție pentru mâncarea stradală marocană rapidă în zona Fès.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Art shows alami este o galerie de artă din regiunea Fès ce prezintă picturi și sculpturi contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "New Boussole Travel este o agenție de turism locală ce organizează excursii în regiunea istorică Fès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Institut des Beaux arts Fès",
+                  "text": "The Institut des Beaux arts Fès is an educational arts centre dedicated to Moroccan traditional and modern visual arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.015204,
+                        34.003326
+                  ]
+            },
+            {
+                  "name": "Rond Point Le ballon de foot",
+                  "text": "The Rond Point Le ballon de foot in the Fes region is a traffic roundabout marked by a large football monument.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.973914,
+                        34.002733
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "Grillade Brahim is a local culinary attraction in the Fes region offering traditional Moroccan grilled meats.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "Salle des fêtes Jamai is a spacious event hall in the Fes region used for local celebrations and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "Sandwich Benmaseoud is a local street food spot offering quick, traditional Moroccan bites in the Fes area.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Art shows alami is a gallery in the Fes region exhibiting contemporary Moroccan paintings and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "New Boussole Travel functions as a local hub for organizing tourism excursions throughout the historic Fes region.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-24",
     coords: [-5.0, 34.0],
@@ -843,7 +2175,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Une zone agricole centrale pour les fruits et légumes.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/fes-region-agriculture-life-v2.webp"},
   {
-    id: "midelt-apple-agriculture-life-v2",
+    id: "midelt-apple-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "Ein Kreisverkehrsdenkmal in Midelt, das dem lokalen Apfelanbau der Region Tribut zollt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.74084,
+                        32.67979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "Körforgalmi emlékmű Mideltben, amely a régió helyi almatermesztése előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.74084,
+                        32.67979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "Un monument într-un sens giratoriu din Midelt, care aduce un omagiu agriculturii locale de mere din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.74084,
+                        32.67979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "A roundabout monument in Midelt paying tribute to the region's local apple agriculture.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.74084,
+                        32.67979
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-25",
     coords: [-4.7, 32.6],
@@ -878,7 +2255,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Connue pour ses pommes de haute qualité.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/midelt-apple-agriculture-life-v2.webp"},
   {
-    id: "tiznit-agriculture-life-v2",
+    id: "tiznit-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "posst//K: p . u",
+                  "text": "Von diesem erhöhten Aussichtspunkt blickt man auf die von Landwirtschaft geprägten Ebenen rund um Tiznit.",
+                  "category": "natural",
+                  "coords": [
+                        -9.754693,
+                        29.679207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "posst//K: p . u",
+                  "text": "Ebből a megemelt kilátóból a Tiznit körüli, mezőgazdaság által uralt síkságokra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -9.754693,
+                        29.679207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "posst//K: p . u",
+                  "text": "De la acest punct de belvedere înalt se pot admira câmpiile agricole ce înconjoară regiunea Tiznit.",
+                  "category": "natural",
+                  "coords": [
+                        -9.754693,
+                        29.679207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "posst//K: p . u",
+                  "text": "This elevated viewpoint overlooks the vast agricultural plains surrounding the Tiznit region.",
+                  "category": "natural",
+                  "coords": [
+                        -9.754693,
+                        29.679207
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-26",
     coords: [-9.7, 29.7],
@@ -913,7 +2335,88 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Région agricole dans l'Anti-Atlas.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/tiznit-agriculture-life-v2.webp"},
   {
-    id: "agadir-fish-market-agriculture-life-v2",
+    id: "agadir-fish-market-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xtreme Park",
+                  "text": "Der Xtreme Park in Agadir ist ein actionorientierter Themenpark mit adrenalingeladenen Fahrgeschäften und anspruchsvollen Hindernisparcours.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.538841,
+                        30.410697
+                  ]
+            },
+            {
+                  "name": "CrocoParc",
+                  "text": "Der CrocoParc ist ein spezialisierter botanischer Garten und Zoo in Agadir, der Hunderte von Nilkrokodilen in sorgfältig nachgebildeten natürlichen Lebensräumen beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.484059,
+                        30.389385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xtreme Park",
+                  "text": "Az agadiri Xtreme Park egy akciódús vidámpark, amely adrenalinpumpáló játékokkal és kihívást jelentő akadálypályákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.538841,
+                        30.410697
+                  ]
+            },
+            {
+                  "name": "CrocoParc",
+                  "text": "A CrocoParc egy agadiri botanikus kert és állatkert, ahol több száz nílusi krokodil él gondosan kialakított, természetes élőhelyeken.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.484059,
+                        30.389385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xtreme Park",
+                  "text": "Xtreme Park din Agadir este un parc tematic orientat spre acțiune, având atracții pline de adrenalină și trasee cu obstacole provocatoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.538841,
+                        30.410697
+                  ]
+            },
+            {
+                  "name": "CrocoParc",
+                  "text": "CrocoParc este o grădină botanică și o grădină zoologică specializată din Agadir, adăpostind sute de crocodili de Nil în habitate naturale recreate meticulos.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.484059,
+                        30.389385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xtreme Park",
+                  "text": "Xtreme Park in Agadir is an action-oriented theme park featuring adrenaline-pumping rides and challenging obstacle courses.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.538841,
+                        30.410697
+                  ]
+            },
+            {
+                  "name": "CrocoParc",
+                  "text": "CrocoParc is a specialized botanical garden and zoo in Agadir, housing hundreds of Nile crocodiles in meticulously recreated natural habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.484059,
+                        30.389385
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-27",
     coords: [-9.5, 30.4],
@@ -948,7 +2451,52 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Le centre de l'industrie de la pêche marocaine.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/agadir-fish-market-agriculture-life-v2.webp"},
   {
-    id: "ouarzazate-date-agriculture-life-v2",
+    id: "ouarzazate-date-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abandoned Movie Set of Temple Mount Jerusalem",
+                  "text": "Diese weitläufige verlassene Filmkulisse in Ouarzazate wurde als aufwendige Nachbildung des Jerusalemer Tempelbergs für historische Filmproduktionen wie „Killing Jesus“ erbaut.",
+                  "category": "historical",
+                  "coords": [
+                        -6.997722,
+                        30.911782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abandoned Movie Set of Temple Mount Jerusalem",
+                  "text": "Ezt az Ouarzazate-ban található hatalmas, elhagyatott díszletet a jeruzsálemi Templom-hegy részletes másolataként építették olyan történelmi filmekhez, mint a \"Killing Jesus\".",
+                  "category": "historical",
+                  "coords": [
+                        -6.997722,
+                        30.911782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abandoned Movie Set of Temple Mount Jerusalem",
+                  "text": "Acest decor de film abandonat și vast din Ouarzazate a fost construit ca o replică elaborată a Muntelui Templului din Ierusalim pentru producții de filme istorice precum „Killing Jesus”.",
+                  "category": "historical",
+                  "coords": [
+                        -6.997722,
+                        30.911782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abandoned Movie Set of Temple Mount Jerusalem",
+                  "text": "This sprawling abandoned movie set in Ouarzazate was built as an elaborate replica of the Jerusalem Temple Mount for historical film productions like \"Killing Jesus.\"",
+                  "category": "historical",
+                  "coords": [
+                        -6.997722,
+                        30.911782
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MA-28",
     coords: [-6.9, 30.9],
@@ -983,7 +2531,88 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       fr: ["Un centre pour la culture des dattes.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/ouarzazate-date-agriculture-life-v2.webp"},
   {
-    id: "merzouga-kid-landmark-life-v2",
+    id: "merzouga-kid-landmark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Erg Chebbi, Grand Dune",
+                  "text": "Dieser Aussichtspunkt bietet weite Panoramen über den hoch aufragenden, windgepeitschten goldenen Sand des Dünenmeeres Erg Chebbi.",
+                  "category": "natural",
+                  "coords": [
+                        -4.008954,
+                        31.147339
+                  ]
+            },
+            {
+                  "name": "Erg Chebbi",
+                  "text": "Erg Chebbi ist ein spektakuläres Meer aus windgeformten Sanddünen, die in der Nähe von Merzouga Höhen von bis zu 150 Metern erreichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.975868,
+                        31.149448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erg Chebbi, Grand Dune",
+                  "text": "Ez a kilátó lenyűgöző panorámát nyújt az Erg Chebbi dűnetenger magasba tornyosuló, szélfútta aranyhomokjára.",
+                  "category": "natural",
+                  "coords": [
+                        -4.008954,
+                        31.147339
+                  ]
+            },
+            {
+                  "name": "Erg Chebbi",
+                  "text": "Az Erg Chebbi egy látványos, szélfútta homokdűnékből álló tenger, amely Merzouga közelében akár 150 méteres magasságot is elér.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.975868,
+                        31.149448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erg Chebbi, Grand Dune",
+                  "text": "Acest punct de belvedere oferă panorame vaste peste nisipurile aurii impunătoare, măturate de vânt, ale mării de dune Erg Chebbi.",
+                  "category": "natural",
+                  "coords": [
+                        -4.008954,
+                        31.147339
+                  ]
+            },
+            {
+                  "name": "Erg Chebbi",
+                  "text": "Erg Chebbi este o mare spectaculoasă de dune de nisip suflate de vânt, atingând înălțimi de până la 150 de metri lângă Merzouga.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.975868,
+                        31.149448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erg Chebbi, Grand Dune",
+                  "text": "This viewpoint provides sweeping panoramas over the towering, wind-swept golden sands of the Erg Chebbi dune sea.",
+                  "category": "natural",
+                  "coords": [
+                        -4.008954,
+                        31.147339
+                  ]
+            },
+            {
+                  "name": "Erg Chebbi",
+                  "text": "Erg Chebbi is a spectacular sea of wind-blown sand dunes reaching heights of up to 150 meters near Merzouga.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.975868,
+                        31.149448
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MA-29",
     coords: [-4.0, 31.1],

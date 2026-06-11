@@ -61,7 +61,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Ikon Gallery",
-                  "text": "Eine bedeutende Galerie für zeitgenössische Kunst in Birmingham.",
+                  "text": "Die 1877 von Martin & Chamberlain erbaute Ikon Gallery in Birmingham war ursprünglich eine viktorianische Schule.",
                   "category": "museum",
                   "coords": [
                         -1.912415,
@@ -124,7 +124,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Stratford House",
-                  "text": "Ein historisches Herrenhaus in der Stadt Birmingham.",
+                  "text": "Stratford House in Birmingham, ein denkmalgeschütztes Gebäude der Kategorie II.",
                   "category": "historical",
                   "coords": [
                         -1.881036,
@@ -169,7 +169,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Rep",
-                  "text": "Das Birmingham Rep ist ein bekanntes Theater in Birmingham.",
+                  "text": "Das 1971 von Graham Winteringham erbaute Birmingham Rep ist ein modernistisches Theater.",
                   "category": "cultural",
                   "coords": [
                         -1.909363,
@@ -178,7 +178,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Crescent Theatre",
-                  "text": "The Crescent Theatre ist ein Theater in Birmingham.",
+                  "text": "Das Crescent Theatre in Birmingham, 1998 von John Chatwin erbaut.",
                   "category": "cultural",
                   "coords": [
                         -1.915319,
@@ -205,7 +205,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of Saint Philip",
-                  "text": "Die Cathedral Church of Saint Philip ist eine bedeutende Kirche und Kathedrale in Birmingham.",
+                  "text": "Die 1715 von Thomas Archer erbaute Cathedral Church of Saint Philip in Birmingham ist eine barocke Kathedrale.",
                   "category": "religious",
                   "coords": [
                         -1.898903,
@@ -214,7 +214,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Paul's Church",
-                  "text": "Saint Paul's Church ist ein historisches Gotteshaus in Birmingham.",
+                  "text": "Die 1777–1779 von Roger Eykyns erbaute Saint Paul's Church in Birmingham ist eine georgianische Kirche.",
                   "category": "religious",
                   "coords": [
                         -1.905792,
@@ -259,7 +259,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St Alban the Martyr",
-                  "text": "Die Church of St Alban the Martyr ist eine anglikanische Kirche in Birmingham.",
+                  "text": "Die 1879 von John Loughborough Pearson erbaute Church of St Alban the Martyr in Birmingham ist eine neugotische Kirche.",
                   "category": "religious",
                   "coords": [
                         -1.888614,
@@ -268,7 +268,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St George Edgbaston",
-                  "text": "St George Edgbaston ist eine Kirche im Stadtteil Edgbaston in Birmingham.",
+                  "text": "St George Edgbaston ist eine denkmalgeschützte anglikanische Kirche im Edgbaston-Viertel von Birmingham (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.922513,
@@ -277,7 +277,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Metropolitan Cathedral and Basilica of St Chad",
-                  "text": "Die Metropolitan Cathedral and Basilica of St Chad ist eine bedeutende katholische Kathedrale in Birmingham.",
+                  "text": "Die 1839–1841 von Augustus Welby Pugin erbaute St. Chad’s Cathedral in Birmingham ist eine neugotische Kathedrale.",
                   "category": "religious",
                   "coords": [
                         -1.898778,
@@ -304,7 +304,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Basil's Centre",
-                  "text": "Das St Basil's Centre ist eine Einrichtung in der ehemaligen St Basil's Church in Deritend, Birmingham.",
+                  "text": "Das St. Basil's Centre in Birmingham, denkmalgeschützt, von Arthur Stansfield Dixon entworfen.",
                   "category": "religious",
                   "coords": [
                         -1.881272,
@@ -322,7 +322,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & St. Paul, Aston",
-                  "text": "Die Kirche St. Peter & St. Paul befindet sich in Aston, Birmingham.",
+                  "text": "SS Peter & Paul, Aston ist eine denkmalgeschützte Kirche im Aston-Viertel von Birmingham (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.879824,
@@ -349,7 +349,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Paul's",
-                  "text": "St Paul's ist eine Kirche im Viertel Lozells in Birmingham.",
+                  "text": "St Paul's in Lozells ist eine denkmalgeschützte Kirche im Lozells-Viertel von Birmingham (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.902178,
@@ -358,7 +358,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Darul Barkaat Mosque",
-                  "text": "Die Darul Barkaat Mosque ist ein muslimisches Gotteshaus in Birmingham.",
+                  "text": "Die Darul Barkaat Moschee in Birmingham ist eine denkmalgeschützte Moschee (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.865129,
@@ -367,7 +367,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "All Saints Small Heath",
-                  "text": "All Saints Small Heath ist eine Kirche in Birmingham.",
+                  "text": "All Saints' Church in Small Heath ist eine denkmalgeschützte Kirche im Small-Heath-Viertel von Birmingham (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.866532,
@@ -376,7 +376,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Green Lane Masjid",
-                  "text": "Die Green Lane Masjid ist eine bedeutende Moschee in Birmingham.",
+                  "text": "Die Green Lane Masjid in Birmingham ist eine denkmalgeschützte Moschee (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.864145,
@@ -394,7 +394,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Parish Church of St John & St Peter",
-                  "text": "Die Parish Church of St John & St Peter ist eine Kirche in Ladywood, Birmingham.",
+                  "text": "St John's Church in Ladywood ist eine denkmalgeschützte Kirche im Ladywood-Viertel von Birmingham (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.927479,
@@ -403,7 +403,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Dhammatalaka Pagoda",
-                  "text": "Die Dhammatalaka Pagoda ist ein buddhistisches Gotteshaus in Birmingham.",
+                  "text": "Die Dhammatalaka Pagode in Birmingham ist eine buddhistische Pagode, die im Witton Cemetery errichtet wurde.",
                   "category": "religious",
                   "coords": [
                         -1.932676,
@@ -421,7 +421,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Michael's Parish Handsworth",
-                  "text": "Die St Michael's Parish Church befindet sich im Stadtteil Handsworth von Birmingham.",
+                  "text": "Die St. Michael's Parish Church in Handsworth, Birmingham, 1855 erbaut, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         -1.923915,
@@ -439,7 +439,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Silas",
-                  "text": "St Silas ist eine Kirche in Lozells, einem Stadtteil von Birmingham.",
+                  "text": "St Silas' Church in Lozells ist eine denkmalgeschützte Kirche im Lozells-Viertel von Birmingham (Grade II).",
                   "category": "religious",
                   "coords": [
                         -1.912719,
@@ -448,7 +448,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anne's Catholic Church",
-                  "text": "Die Saint Anne's Catholic Church ist eine Kirche in Birmingham.",
+                  "text": "Die St Anne's Catholic Church in Birmingham ist eine denkmalgeschützte katholische Kirche.",
                   "category": "religious",
                   "coords": [
                         -1.884373,
@@ -457,7 +457,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Chamberlain Clock",
-                  "text": "Die Chamberlain Clock ist ein markantes Denkmal und eine Sehenswürdigkeit in Birmingham.",
+                  "text": "Die Chamberlain-Uhr in Birmingham, 1903 errichtet, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         -1.912578,
@@ -603,7 +603,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Ikon Gallery",
-                  "text": "Egy jelentős kortárs művészeti galéria Birminghamben.",
+                  "text": "A birminghami Ikon Galéria 1877-ben épült Martin & Chamberlain tervei alapján, eredetileg viktoriánus iskola volt.",
                   "category": "museum",
                   "coords": [
                         -1.912415,
@@ -666,7 +666,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Stratford House",
-                  "text": "Egy történelmi udvarház Birmingham városában.",
+                  "text": "Stratford House Birminghamban, II. kategóriás műemlék épület.",
                   "category": "historical",
                   "coords": [
                         -1.881036,
@@ -711,7 +711,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Rep",
-                  "text": "A Birmingham Rep egy színház Birmingham városában.",
+                  "text": "A birminghami Birmingham Rep 1971-ben épült Graham Winteringham tervei alapján, modernista színház.",
                   "category": "cultural",
                   "coords": [
                         -1.909363,
@@ -720,7 +720,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Crescent Theatre",
-                  "text": "A Crescent Theatre egy színház Birminghamben.",
+                  "text": "A Crescent Színház Birmingham-ben, 1998-ban építette John Chatwin.",
                   "category": "cultural",
                   "coords": [
                         -1.915319,
@@ -747,7 +747,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of Saint Philip",
-                  "text": "A Szent Fülöp-székesegyház egy jelentős templom Birminghamben.",
+                  "text": "A birminghami Szent Fülöp-székesegyház 1715-ben épült Thomas Archer tervei alapján, barokk stílusban.",
                   "category": "religious",
                   "coords": [
                         -1.898903,
@@ -756,7 +756,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Paul's Church",
-                  "text": "A Saint Paul's Church egy istentiszteleti hely Birminghamben.",
+                  "text": "A birminghami Szent Pál-templom 1777–1779 között épült Roger Eykyns tervei alapján, grúz stílusban.",
                   "category": "religious",
                   "coords": [
                         -1.905792,
@@ -801,7 +801,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St Alban the Martyr",
-                  "text": "A Church of St Alban the Martyr egy istentiszteleti hely Birminghamben.",
+                  "text": "A birminghami Szent Albán vértanú templom 1879-ben épült John Loughborough Pearson tervei alapján, neogótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -1.888614,
@@ -810,7 +810,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St George Edgbaston",
-                  "text": "A St George Edgbaston egy templom a birminghami Edgbastonban.",
+                  "text": "A St George Edgbaston egy Grade II-es listás anglikán templom a birminghami Edgbaston negyedben.",
                   "category": "religious",
                   "coords": [
                         -1.922513,
@@ -819,7 +819,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Metropolitan Cathedral and Basilica of St Chad",
-                  "text": "A St Chad Metropolitan Cathedral and Basilica egy katolikus székesegyház Birminghamben.",
+                  "text": "A birminghami Szent Chad-székesegyház 1839–1841 között épült Augustus Welby Pugin tervei alapján, neogótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -1.898778,
@@ -846,7 +846,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Basil's Centre",
-                  "text": "A St Basil's Centre a korábbi St Basil's templomban kapott helyet Birmingham Deritend negyedében.",
+                  "text": "A Szent Bazil Központ Birmingham-ben, műemlék épület, Arthur Stansfield Dixon tervezte.",
                   "category": "religious",
                   "coords": [
                         -1.881272,
@@ -864,7 +864,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & St. Paul, Aston",
-                  "text": "A Szent Péter és Pál-templom a birminghami Astonban található.",
+                  "text": "Az SS Peter & Paul, Aston egy Grade II-es listás templom a birminghami Aston negyedben.",
                   "category": "religious",
                   "coords": [
                         -1.879824,
@@ -891,7 +891,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Paul's",
-                  "text": "A St Paul's egy templom a birminghami Lozells városrészben.",
+                  "text": "A St Paul's templom Lozellsben egy Grade II-es listás templom a birminghami Lozells negyedben.",
                   "category": "religious",
                   "coords": [
                         -1.902178,
@@ -900,7 +900,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Darul Barkaat Mosque",
-                  "text": "A Darul Barkaat mecset egy iszlám istentiszteleti hely Birminghamben.",
+                  "text": "A darul Barkaat mecset Birminghamban egy Grade II-es listás mecset.",
                   "category": "religious",
                   "coords": [
                         -1.865129,
@@ -909,7 +909,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "All Saints Small Heath",
-                  "text": "Az All Saints Small Heath egy istentiszteleti hely Birminghamben.",
+                  "text": "Az All Saints' Church Small Heathben egy Grade II-es listás templom a birminghami Small Heath negyedben.",
                   "category": "religious",
                   "coords": [
                         -1.866532,
@@ -918,7 +918,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Green Lane Masjid",
-                  "text": "A Green Lane Masjid egy mecset és iszlám központ Birminghamben.",
+                  "text": "A Green Lane Masjid Birminghamban egy Grade II-es listás mecset.",
                   "category": "religious",
                   "coords": [
                         -1.864145,
@@ -936,7 +936,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Parish Church of St John & St Peter",
-                  "text": "A Szent János és Szent Péter plébániatemplom Ladywoodban, Birminghamben található.",
+                  "text": "A St John's Church Ladywoodban egy Grade II-es listás templom a birminghami Ladywood negyedben.",
                   "category": "religious",
                   "coords": [
                         -1.927479,
@@ -945,7 +945,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Dhammatalaka Pagoda",
-                  "text": "A Dhammatalaka Pagoda egy buddhista épület és istentiszteleti hely Birminghamben.",
+                  "text": "A Dhammatalaka Pagoda Birminghamban egy buddhista pagoda, amely a Witton temetőben épült.",
                   "category": "religious",
                   "coords": [
                         -1.932676,
@@ -963,7 +963,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Michael's Parish Handsworth",
-                  "text": "A St Michael's plébániatemplom Birmingham Handsworth nevű részén található.",
+                  "text": "A Szent Mihály-plébániatemplom Handsworth-ben, Birmingham, 1855-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         -1.923915,
@@ -981,7 +981,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Silas",
-                  "text": "A St Silas egy istentiszteleti hely a birminghami Lozells városrészben.",
+                  "text": "A St Silas' Church Lozellsben egy Grade II-es listás templom a birminghami Lozells negyedben.",
                   "category": "religious",
                   "coords": [
                         -1.912719,
@@ -990,7 +990,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anne's Catholic Church",
-                  "text": "A Szent Anna katolikus templom egy istentiszteleti hely Birminghamben.",
+                  "text": "A St Anne's Catholic Church Birminghamban egy listás katolikus templom.",
                   "category": "religious",
                   "coords": [
                         -1.884373,
@@ -999,7 +999,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Chamberlain Clock",
-                  "text": "A Chamberlain Clock egy ismert óratorony és látványosság Birminghamben.",
+                  "text": "A Chamberlain-óra Birmingham-ben, 1903-ban állították, műemlék.",
                   "category": "landmark",
                   "coords": [
                         -1.912578,
@@ -1145,7 +1145,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Ikon Gallery",
-                  "text": "O importantă galerie de artă contemporană situată în Birmingham.",
+                  "text": "Galeria Ikon din Birmingham, construită în 1877 de Martin & Chamberlain, a fost inițial o școală victoriană.",
                   "category": "museum",
                   "coords": [
                         -1.912415,
@@ -1208,7 +1208,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Stratford House",
-                  "text": "Un conac istoric situat în orașul Birmingham.",
+                  "text": "Stratford House din Birmingham, o clădire protejată de gradul II.",
                   "category": "historical",
                   "coords": [
                         -1.881036,
@@ -1253,7 +1253,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Rep",
-                  "text": "Birmingham Rep este un teatru situat în Birmingham.",
+                  "text": "Teatrul Birmingham Rep din Birmingham, construit în 1971 de Graham Winteringham, este un teatru modernist.",
                   "category": "cultural",
                   "coords": [
                         -1.909363,
@@ -1262,7 +1262,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Crescent Theatre",
-                  "text": "Crescent Theatre este un teatru din Birmingham.",
+                  "text": "Teatrul Crescent din Birmingham, construit în 1998 de John Chatwin.",
                   "category": "cultural",
                   "coords": [
                         -1.915319,
@@ -1289,7 +1289,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of Saint Philip",
-                  "text": "Catedrala Sfântul Filip este un important lăcaș de cult din Birmingham.",
+                  "text": "Catedrala Sfântul Filip din Birmingham, construită în 1715 de Thomas Archer, este o catedrală barocă.",
                   "category": "religious",
                   "coords": [
                         -1.898903,
@@ -1298,7 +1298,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Paul's Church",
-                  "text": "Biserica Saint Paul este un lăcaș de cult situat în Birmingham.",
+                  "text": "Biserica Sfântul Paul din Birmingham, construită între 1777 și 1779 de Roger Eykyns, este o biserică georgiană.",
                   "category": "religious",
                   "coords": [
                         -1.905792,
@@ -1343,7 +1343,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St Alban the Martyr",
-                  "text": "Church of St Alban the Martyr este un lăcaș de cult din Birmingham.",
+                  "text": "Biserica Sfântul Alban Martirul din Birmingham, construită în 1879 de John Loughborough Pearson, este o biserică neogotică.",
                   "category": "religious",
                   "coords": [
                         -1.888614,
@@ -1352,7 +1352,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St George Edgbaston",
-                  "text": "St George Edgbaston este o biserică situată în cartierul Edgbaston din Birmingham.",
+                  "text": "Biserica St George Edgbaston este o biserică anglicană de gradul II din cartierul Edgbaston, Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.922513,
@@ -1361,7 +1361,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Metropolitan Cathedral and Basilica of St Chad",
-                  "text": "Catedrala și Bazilica Metropolitană Sf. Chad este un important lăcaș de cult din Birmingham.",
+                  "text": "Catedrala Sfântul Chad din Birmingham, construită între 1839 și 1841 de Augustus Welby Pugin, este o catedrală neogotică.",
                   "category": "religious",
                   "coords": [
                         -1.898778,
@@ -1388,7 +1388,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Basil's Centre",
-                  "text": "St Basil's Centre este un fost lăcaș de cult situat în Deritend, Birmingham.",
+                  "text": "Centrul Sfântul Vasile din Birmingham, monument istoric, proiectat de Arthur Stansfield Dixon.",
                   "category": "religious",
                   "coords": [
                         -1.881272,
@@ -1406,7 +1406,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & St. Paul, Aston",
-                  "text": "Biserica Sfinții Petru și Pavel este un lăcaș de cult situat în Aston, Birmingham.",
+                  "text": "Biserica SS Peter & Paul, Aston este o biserică de gradul II din cartierul Aston, Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.879824,
@@ -1433,7 +1433,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Paul's",
-                  "text": "St Paul's este o biserică situată în cartierul Lozells din Birmingham.",
+                  "text": "Biserica St Paul din Lozells este o biserică de gradul II din cartierul Lozells, Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.902178,
@@ -1442,7 +1442,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Darul Barkaat Mosque",
-                  "text": "Moscheea Darul Barkaat este un lăcaș de cult islamic din Birmingham.",
+                  "text": "Moscheea Darul Barkaat din Birmingham este o moschee de gradul II.",
                   "category": "religious",
                   "coords": [
                         -1.865129,
@@ -1451,7 +1451,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "All Saints Small Heath",
-                  "text": "All Saints Small Heath este o biserică situată în Birmingham.",
+                  "text": "Biserica All Saints din Small Heath este o biserică de gradul II din cartierul Small Heath, Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.866532,
@@ -1460,7 +1460,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Green Lane Masjid",
-                  "text": "Green Lane Masjid este o moschee și un important lăcaș de cult islamic din Birmingham.",
+                  "text": "Moscheea Green Lane Masjid din Birmingham este o moschee de gradul II.",
                   "category": "religious",
                   "coords": [
                         -1.864145,
@@ -1478,7 +1478,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Parish Church of St John & St Peter",
-                  "text": "Biserica parohială Sf. Ioan și Sf. Petru se află în Ladywood, Birmingham.",
+                  "text": "Biserica St John din Ladywood este o biserică de gradul II din cartierul Ladywood, Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.927479,
@@ -1487,7 +1487,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Dhammatalaka Pagoda",
-                  "text": "Pagoda Dhammatalaka este un lăcaș de cult budist din Birmingham.",
+                  "text": "Pagoda Dhammatalaka din Birmingham este o pagodă budistă construită în cimitirul Witton.",
                   "category": "religious",
                   "coords": [
                         -1.932676,
@@ -1505,7 +1505,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Michael's Parish Handsworth",
-                  "text": "Biserica parohială St Michael este situată în cartierul Handsworth din Birmingham.",
+                  "text": "Biserica parohială Sfântul Mihail din Handsworth, Birmingham, construită în 1855, monument istoric.",
                   "category": "religious",
                   "coords": [
                         -1.923915,
@@ -1523,7 +1523,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Silas",
-                  "text": "St Silas este o biserică din cartierul Lozells, Birmingham.",
+                  "text": "Biserica St Silas din Lozells este o biserică de gradul II din cartierul Lozells, Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.912719,
@@ -1532,7 +1532,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anne's Catholic Church",
-                  "text": "Biserica Catolică Sfânta Ana este un lăcaș de cult din Birmingham.",
+                  "text": "Biserica Catolică St Anne din Birmingham este o biserică listată.",
                   "category": "religious",
                   "coords": [
                         -1.884373,
@@ -1541,7 +1541,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Chamberlain Clock",
-                  "text": "Chamberlain Clock este un turn cu ceas și o atracție turistică din Birmingham.",
+                  "text": "Ceasul Chamberlain din Birmingham, ridicat în 1903, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -1.912578,
@@ -1687,7 +1687,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Ikon Gallery",
-                  "text": "A notable contemporary art gallery situated in Birmingham.",
+                  "text": "The Ikon Gallery in Birmingham, built in 1877 by Martin & Chamberlain, was originally a Victorian school.",
                   "category": "museum",
                   "coords": [
                         -1.912415,
@@ -1750,7 +1750,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Stratford House",
-                  "text": "A historic manor house located in the city of Birmingham.",
+                  "text": "Stratford House in Birmingham, a grade II listed building.",
                   "category": "historical",
                   "coords": [
                         -1.881036,
@@ -1795,7 +1795,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Birmingham Rep",
-                  "text": "The Birmingham Rep is a well-known theatre located in Birmingham.",
+                  "text": "The Birmingham Rep in Birmingham, built in 1971 by Graham Winteringham, is a Modernist theatre.",
                   "category": "cultural",
                   "coords": [
                         -1.909363,
@@ -1804,7 +1804,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Crescent Theatre",
-                  "text": "The Crescent Theatre is a theatre in Birmingham.",
+                  "text": "The Crescent Theatre in Birmingham, built in 1998 by John Chatwin.",
                   "category": "cultural",
                   "coords": [
                         -1.915319,
@@ -1831,7 +1831,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of Saint Philip",
-                  "text": "The Cathedral Church of Saint Philip is a major place of worship and cathedral in Birmingham.",
+                  "text": "St Philip's Cathedral in Birmingham, built in 1715 by Thomas Archer, is a Baroque cathedral.",
                   "category": "religious",
                   "coords": [
                         -1.898903,
@@ -1840,7 +1840,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Paul's Church",
-                  "text": "Saint Paul's Church is a place of worship located in Birmingham.",
+                  "text": "St Paul's Church in Birmingham, built 1777–1779 by Roger Eykyns, is a Georgian church.",
                   "category": "religious",
                   "coords": [
                         -1.905792,
@@ -1885,7 +1885,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St Alban the Martyr",
-                  "text": "Church of St Alban the Martyr is a place of worship located in Birmingham.",
+                  "text": "The Church of St Alban the Martyr in Birmingham, built in 1879 by John Loughborough Pearson, is a Neo-Gothic church.",
                   "category": "religious",
                   "coords": [
                         -1.888614,
@@ -1894,7 +1894,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St George Edgbaston",
-                  "text": "St George Edgbaston is a place of worship located in Edgbaston, Birmingham.",
+                  "text": "St George Edgbaston is a Grade II listed Anglican church in the Edgbaston area of Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.922513,
@@ -1903,7 +1903,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Metropolitan Cathedral and Basilica of St Chad",
-                  "text": "The Metropolitan Cathedral and Basilica of St Chad is a notable Catholic cathedral in Birmingham.",
+                  "text": "St Chad's Cathedral in Birmingham, built 1839–1841 by Augustus Welby Pugin, is a Neo-Gothic cathedral.",
                   "category": "religious",
                   "coords": [
                         -1.898778,
@@ -1930,7 +1930,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Basil's Centre",
-                  "text": "St Basil's Centre is located in the former St Basil's Church in Deritend, Birmingham.",
+                  "text": "St Basil's Centre in Birmingham, a listed building designed by Arthur Stansfield Dixon.",
                   "category": "religious",
                   "coords": [
                         -1.881272,
@@ -1948,7 +1948,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & St. Paul, Aston",
-                  "text": "The Church of St. Peter & St. Paul is a place of worship in Aston, Birmingham.",
+                  "text": "SS Peter & Paul, Aston is a Grade II listed church in the Aston area of Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.879824,
@@ -1975,7 +1975,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Paul's",
-                  "text": "St Paul's is a place of worship located in Lozells, Birmingham.",
+                  "text": "St Paul's in Lozells is a Grade II listed church in the Lozells district of Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.902178,
@@ -1984,7 +1984,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Darul Barkaat Mosque",
-                  "text": "The Darul Barkaat Mosque is an Islamic place of worship in Birmingham.",
+                  "text": "Darul Barkaat Mosque in Birmingham is a Grade II listed mosque.",
                   "category": "religious",
                   "coords": [
                         -1.865129,
@@ -1993,7 +1993,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "All Saints Small Heath",
-                  "text": "All Saints Small Heath is a church located in Birmingham.",
+                  "text": "All Saints' Church, Small Heath is a Grade II listed church in the Small Heath area of Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.866532,
@@ -2002,7 +2002,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Green Lane Masjid",
-                  "text": "Green Lane Masjid is a prominent mosque and place of worship in Birmingham.",
+                  "text": "Green Lane Masjid in Birmingham is a Grade II listed mosque.",
                   "category": "religious",
                   "coords": [
                         -1.864145,
@@ -2020,7 +2020,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Parish Church of St John & St Peter",
-                  "text": "The Parish Church of St John & St Peter is a place of worship located in Ladywood, Birmingham.",
+                  "text": "St John's Church, Ladywood is a Grade II listed church in the Ladywood area of Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.927479,
@@ -2029,7 +2029,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "The Dhammatalaka Pagoda",
-                  "text": "The Dhammatalaka Pagoda is a Buddhist place of worship in Birmingham.",
+                  "text": "The Dhammatalaka Pagoda in Birmingham is a Buddhist pagoda built in the Witton Cemetery.",
                   "category": "religious",
                   "coords": [
                         -1.932676,
@@ -2047,7 +2047,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Michael's Parish Handsworth",
-                  "text": "St Michael's Parish Church is a place of worship in Handsworth, Birmingham.",
+                  "text": "St Michael's Parish Church in Handsworth, Birmingham, built in 1855, Grade II listed.",
                   "category": "religious",
                   "coords": [
                         -1.923915,
@@ -2065,7 +2065,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "St Silas",
-                  "text": "St Silas is a place of worship in Lozells, Birmingham.",
+                  "text": "St Silas' Church, Lozells is a Grade II listed church in the Lozells area of Birmingham.",
                   "category": "religious",
                   "coords": [
                         -1.912719,
@@ -2074,7 +2074,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Anne's Catholic Church",
-                  "text": "Saint Anne's Catholic Church is a place of worship in Birmingham.",
+                  "text": "St Anne's Catholic Church in Birmingham is a listed Catholic church.",
                   "category": "religious",
                   "coords": [
                         -1.884373,
@@ -2083,7 +2083,7 @@ export const ukCitiesV2: POI[] = [
             },
             {
                   "name": "Chamberlain Clock",
-                  "text": "The Chamberlain Clock is a notable landmark and attraction in Birmingham.",
+                  "text": "Chamberlain Clock in Birmingham, erected in 1903, Grade II listed.",
                   "category": "landmark",
                   "coords": [
                         -1.912578,
@@ -2429,7 +2429,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "St. Ann's Church",
-                  "text": "St. Ann's Church ist eine klassizistische Kirche aus dem frühen 18. Jahrhundert.",
+                  "text": "Die St. Ann's Church in Manchester, 1712 erbaut, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         -2.245829,
@@ -2456,7 +2456,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "Manchester Cathedral",
-                  "text": "Die Manchester Cathedral ist die gotische Mutterkirche der Diözese Manchester.",
+                  "text": "Die Manchester Cathedral ist eine mittelalterliche Kathedrale mit einem gotischen Langhaus und einem hölzernen Dach aus dem 15. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -2.244399,
@@ -2555,7 +2555,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "River Irwell Railway Bridge",
-                  "text": "Eine historische Eisenbahnbrücke über den Fluss Irwell in Manchester.",
+                  "text": "Die River Irwell Railway Bridge ist eine schmiedeeiserne Eisenbahnbrücke über den River Irwell in Manchester, gebaut von der Lancashire and Yorkshire Railway.",
                   "category": "landmark",
                   "coords": [
                         -2.259641,
@@ -3187,7 +3187,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "St. Ann's Church",
-                  "text": "A Szent Anna-templom egy korai 18. századi klasszicista templom.",
+                  "text": "A Szent Anna-templom Manchesterben, 1712-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         -2.245829,
@@ -3214,7 +3214,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "Manchester Cathedral",
-                  "text": "A manchesteri székesegyház a manchesteri egyházmegye gótikus anyatemploma.",
+                  "text": "A Manchester Cathedral egy középkori székesegyház gótikus hajóval és 15. századi fatetővel.",
                   "category": "religious",
                   "coords": [
                         -2.244399,
@@ -3313,7 +3313,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "River Irwell Railway Bridge",
-                  "text": "Történelmi vasúti híd az Irwell folyó felett Manchesterben.",
+                  "text": "A River Irwell Railway Bridge egy kovácsoltvas vasúti híd a River Irwell felett Manchesterben, amelyet a Lancashire and Yorkshire Railway épített.",
                   "category": "landmark",
                   "coords": [
                         -2.259641,
@@ -3945,7 +3945,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "St. Ann's Church",
-                  "text": "Biserica Sfânta Ana este o biserică clasicistă de la începutul secolului al XVIII-lea.",
+                  "text": "Biserica Sfânta Ana din Manchester, construită în 1712, monument istoric.",
                   "category": "religious",
                   "coords": [
                         -2.245829,
@@ -3972,7 +3972,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "Manchester Cathedral",
-                  "text": "Catedrala din Manchester este biserica mamă gotică a diecezei de Manchester.",
+                  "text": "Catedrala Manchester este o catedrală medievală cu navă gotică și un acoperiș de lemn din secolul al XV-lea.",
                   "category": "religious",
                   "coords": [
                         -2.244399,
@@ -4071,7 +4071,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "River Irwell Railway Bridge",
-                  "text": "Un pod feroviar istoric peste râul Irwell în Manchester.",
+                  "text": "Podul feroviar River Irwell este un pod de cale ferată din fier forjat peste râul Irwell din Manchester, construit de Lancashire and Yorkshire Railway.",
                   "category": "landmark",
                   "coords": [
                         -2.259641,
@@ -4703,7 +4703,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "St. Ann's Church",
-                  "text": "St Ann's Church is an early 18th-century Neoclassical church.",
+                  "text": "St. Ann's Church in Manchester, built in 1712, Grade II listed.",
                   "category": "religious",
                   "coords": [
                         -2.245829,
@@ -4730,7 +4730,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "Manchester Cathedral",
-                  "text": "Manchester Cathedral is the Gothic mother church of the Diocese of Manchester.",
+                  "text": "Manchester Cathedral is a medieval cathedral with a Gothic nave and a 15th-century wooden roof.",
                   "category": "religious",
                   "coords": [
                         -2.244399,
@@ -4829,7 +4829,7 @@ imageHint: "Birmingham Library architecture and city square",
             },
             {
                   "name": "River Irwell Railway Bridge",
-                  "text": "A historic railway bridge crossing the River Irwell in Manchester.",
+                  "text": "The River Irwell Railway Bridge is a wrought-iron railway bridge over the River Irwell in Manchester, built by the Lancashire and Yorkshire Railway.",
                   "category": "landmark",
                   "coords": [
                         -2.259641,
@@ -5607,7 +5607,7 @@ imageHint: "Manchester Town Hall and Albert Square",
             },
             {
                   "name": "St. Anne's",
-                  "text": "Eine Gebetsstätte in der Stadt Glasgow.",
+                  "text": "Die St Anne's Church in Glasgow ist eine denkmalgeschützte Kirche im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -4.215975,
@@ -6248,7 +6248,7 @@ imageHint: "Manchester Town Hall and Albert Square",
             },
             {
                   "name": "St. Anne's",
-                  "text": "Vallási kegyhely Glasgow városában.",
+                  "text": "A St Anne's Church Glasgowban egy listás templom neogótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -4.215975,
@@ -6889,7 +6889,7 @@ imageHint: "Manchester Town Hall and Albert Square",
             },
             {
                   "name": "St. Anne's",
-                  "text": "Un lăcaș de cult situat în orașul Glasgow.",
+                  "text": "Biserica St Anne din Glasgow este o biserică listată în stil neogotic.",
                   "category": "religious",
                   "coords": [
                         -4.215975,
@@ -7530,7 +7530,7 @@ imageHint: "Manchester Town Hall and Albert Square",
             },
             {
                   "name": "St. Anne's",
-                  "text": "A place of worship located in the city of Glasgow.",
+                  "text": "St Anne's Church in Glasgow is a listed church built in the Gothic Revival style.",
                   "category": "religious",
                   "coords": [
                         -4.215975,
@@ -8047,7 +8047,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Philharmonic Hall",
-                  "text": "Die Philharmonic Hall ist ein bedeutender Konzertsaal und Veranstaltungsort in Liverpool.",
+                  "text": "Die 1937 von Herbert James Rowse erbaute Philharmonic Hall in Liverpool ist ein Art-déco-Konzertsaal.",
                   "category": "cultural",
                   "coords": [
                         -2.969729,
@@ -8101,7 +8101,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Our Lady & Saint Nicholas",
-                  "text": "Our Lady & Saint Nicholas ist eine bemerkenswerte Kultstätte in Liverpool.",
+                  "text": "Die Kirche Our Lady & Saint Nicholas in Liverpool, denkmalgeschützt, von Edward C. Butler und Thomas Harrison entworfen.",
                   "category": "religious",
                   "coords": [
                         -2.994887,
@@ -8110,7 +8110,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "St. Bride's Church",
-                  "text": "Die St. Bride's Church ist eine historische Kultstätte in Liverpool.",
+                  "text": "Die St. Bride's Church in Liverpool, denkmalgeschützt, von Samuel Rowland entworfen.",
                   "category": "religious",
                   "coords": [
                         -2.969025,
@@ -8164,7 +8164,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Gustav Adolf Church",
-                  "text": "Die Gustav Adolf Church ist eine Kultstätte in Liverpool.",
+                  "text": "Die Gustav-Adolf-Kirche in Liverpool ist eine schwedische Seemannskirche, erbaut 1884.",
                   "category": "religious",
                   "coords": [
                         -2.984424,
@@ -8272,7 +8272,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Saint George's Hall",
-                  "text": "Die Saint George's Hall ist ein neoklassizistisches Wahrzeichen und eine Sehenswürdigkeit in Liverpool.",
+                  "text": "Die St. George's Hall in Liverpool, denkmalgeschützt, entworfen von Harvey Lonsdale Elmes und Charles Robert Cockerell.",
                   "category": "landmark",
                   "coords": [
                         -2.980226,
@@ -8281,7 +8281,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Royal Liver Building",
-                  "text": "Das Royal Liver Building ist eine berühmte denkmalgeschützte Sehenswürdigkeit in Liverpool.",
+                  "text": "Das 1911 von Walter Aubrey Thomas erbaute Royal Liver Building in Liverpool ist ein ikonisches Gebäude am Wasser mit den Liver Birds.",
                   "category": "landmark",
                   "coords": [
                         -2.995844,
@@ -8290,7 +8290,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Metropolitan Cathedral of Christ the King",
-                  "text": "Die Metropolitan Cathedral of Christ the King ist eine markante moderne katholische Sehenswürdigkeit in Liverpool.",
+                  "text": "Die 1967 von Frederick Gibberd (nach Entwürfen von Edwin Lutyens) erbaute Metropolitan Cathedral of Christ the King in Liverpool ist eine moderne Kathedrale.",
                   "category": "landmark",
                   "coords": [
                         -2.968588,
@@ -8317,7 +8317,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Liverpool Cathedral",
-                  "text": "Die Liverpool Cathedral ist eine Hauptattraktion und die größte Kathedrale in Großbritannien.",
+                  "text": "Die Liverpool Cathedral, denkmalgeschützt, entworfen von Giles Gilbert Scott.",
                   "category": "landmark",
                   "coords": [
                         -2.973262,
@@ -8634,7 +8634,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Philharmonic Hall",
-                  "text": "A Philharmonic Hall egy jelentős koncertterem és rendezvényhelyszín Liverpoolban.",
+                  "text": "A liverpooli Filharmónia 1937-ben épült Herbert James Rowse tervei alapján, art déco stílusú koncertterem.",
                   "category": "cultural",
                   "coords": [
                         -2.969729,
@@ -8688,7 +8688,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Our Lady & Saint Nicholas",
-                  "text": "Az Our Lady & Saint Nicholas egy jelentős istentiszteleti hely Liverpoolban.",
+                  "text": "A Mi Asszonyunk és Szent Miklós-templom Liverpoolban, műemlék, Edward C. Butler és Thomas Harrison tervezte.",
                   "category": "religious",
                   "coords": [
                         -2.994887,
@@ -8697,7 +8697,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "St. Bride's Church",
-                  "text": "A St. Bride's Church egy történelmi istentiszteleti hely Liverpoolban.",
+                  "text": "A Szent Brigitta-templom Liverpoolban, műemlék, Samuel Rowland tervezte.",
                   "category": "religious",
                   "coords": [
                         -2.969025,
@@ -8751,7 +8751,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Gustav Adolf Church",
-                  "text": "A Gustav Adolf Church egy istentiszteleti hely Liverpoolban.",
+                  "text": "A Gustav Adolf Church Liverpoolban egy svéd tengerésztemplom, 1884-ben épült.",
                   "category": "religious",
                   "coords": [
                         -2.984424,
@@ -8859,7 +8859,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Saint George's Hall",
-                  "text": "A Saint George's Hall egy neoklasszikus nevezetesség és látványosság Liverpoolban.",
+                  "text": "A Szent György-csarnok Liverpoolban, műemlék, Harvey Lonsdale Elmes és Charles Robert Cockerell tervezte.",
                   "category": "landmark",
                   "coords": [
                         -2.980226,
@@ -8868,7 +8868,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Royal Liver Building",
-                  "text": "A Royal Liver Building egy híres, I. kategóriás műemlék látványosság Liverpoolban.",
+                  "text": "A liverpooli Royal Liver Building 1911-ben épült Walter Aubrey Thomas tervei alapján, ikonikus vízparti épület a Liver Birds-szel.",
                   "category": "landmark",
                   "coords": [
                         -2.995844,
@@ -8877,7 +8877,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Metropolitan Cathedral of Christ the King",
-                  "text": "A Metropolitan Cathedral of Christ the King egy feltűnő modern katolikus látványosság Liverpoolban.",
+                  "text": "A liverpooli Krisztus Király Metropolita Katedrális 1967-ben épült Frederick Gibberd (Edwin Lutyens tervei alapján) által, modern katedrális.",
                   "category": "landmark",
                   "coords": [
                         -2.968588,
@@ -8904,7 +8904,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Liverpool Cathedral",
-                  "text": "A Liverpool Cathedral egy fő látványosság és Nagy-Britannia legnagyobb katedrálisa.",
+                  "text": "A Liverpooli Székesegyház, műemlék, Giles Gilbert Scott tervezte.",
                   "category": "landmark",
                   "coords": [
                         -2.973262,
@@ -9221,7 +9221,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Philharmonic Hall",
-                  "text": "Philharmonic Hall este o sală de concerte și un teatru important din Liverpool.",
+                  "text": "Sala Filarmonică din Liverpool, construită în 1937 de Herbert James Rowse, este o sală de concert Art Deco.",
                   "category": "cultural",
                   "coords": [
                         -2.969729,
@@ -9275,7 +9275,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Our Lady & Saint Nicholas",
-                  "text": "Our Lady & Saint Nicholas este un lăcaș de cult notabil situat în Liverpool.",
+                  "text": "Biserica Maica Domnului și Sfântul Nicolae din Liverpool, monument istoric, proiectată de Edward C. Butler și Thomas Harrison.",
                   "category": "religious",
                   "coords": [
                         -2.994887,
@@ -9284,7 +9284,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "St. Bride's Church",
-                  "text": "St. Bride's Church este un lăcaș de cult istoric din Liverpool.",
+                  "text": "Biserica Sfânta Brigid din Liverpool, monument istoric, proiectată de Samuel Rowland.",
                   "category": "religious",
                   "coords": [
                         -2.969025,
@@ -9338,7 +9338,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Gustav Adolf Church",
-                  "text": "Gustav Adolf Church este un lăcaș de cult aflat în Liverpool.",
+                  "text": "Biserica Gustav Adolf din Liverpool este o biserică suedeză a marinarilor, construită în 1884.",
                   "category": "religious",
                   "coords": [
                         -2.984424,
@@ -9446,7 +9446,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Saint George's Hall",
-                  "text": "Saint George's Hall este o clădire neoclasică emblematică și o atracție în Liverpool.",
+                  "text": "Sala Sfântul Gheorghe din Liverpool, monument istoric, proiectată de Harvey Lonsdale Elmes și Charles Robert Cockerell.",
                   "category": "landmark",
                   "coords": [
                         -2.980226,
@@ -9455,7 +9455,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Royal Liver Building",
-                  "text": "Royal Liver Building este o atracție faimoasă, clasată de gradul I, în Liverpool.",
+                  "text": "Clădirea Royal Liver din Liverpool, construită în 1911 de Walter Aubrey Thomas, este o clădire emblematică pe malul apei, cu Liver Birds.",
                   "category": "landmark",
                   "coords": [
                         -2.995844,
@@ -9464,7 +9464,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Metropolitan Cathedral of Christ the King",
-                  "text": "Metropolitan Cathedral of Christ the King este o atracție catolică modernă și impresionantă din Liverpool.",
+                  "text": "Catedrala Metropolitană a lui Hristos Regele din Liverpool, construită în 1967 de Frederick Gibberd (după planurile lui Edwin Lutyens), este o catedrală modernă.",
                   "category": "landmark",
                   "coords": [
                         -2.968588,
@@ -9491,7 +9491,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Liverpool Cathedral",
-                  "text": "Liverpool Cathedral este o atracție majoră și cea mai mare catedrală din Marea Britanie.",
+                  "text": "Catedrala din Liverpool, monument istoric, proiectată de Giles Gilbert Scott.",
                   "category": "landmark",
                   "coords": [
                         -2.973262,
@@ -9808,7 +9808,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Philharmonic Hall",
-                  "text": "The Philharmonic Hall is a major concert hall and performance venue in Liverpool.",
+                  "text": "The Philharmonic Hall in Liverpool, built in 1937 by Herbert James Rowse, is an Art Deco concert hall.",
                   "category": "cultural",
                   "coords": [
                         -2.969729,
@@ -9862,7 +9862,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Our Lady & Saint Nicholas",
-                  "text": "Our Lady & Saint Nicholas is a notable place of worship located in Liverpool.",
+                  "text": "Our Lady & Saint Nicholas Church in Liverpool, Grade II listed, designed by Edward C. Butler and Thomas Harrison.",
                   "category": "religious",
                   "coords": [
                         -2.994887,
@@ -9871,7 +9871,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "St. Bride's Church",
-                  "text": "St. Bride's Church is a historic place of worship in Liverpool.",
+                  "text": "St. Bride's Church in Liverpool, Grade II listed, designed by Samuel Rowland.",
                   "category": "religious",
                   "coords": [
                         -2.969025,
@@ -9925,7 +9925,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Gustav Adolf Church",
-                  "text": "The Gustav Adolf Church is a place of worship found in Liverpool.",
+                  "text": "Gustav Adolf Church in Liverpool is a Swedish seamen's church built in 1884.",
                   "category": "religious",
                   "coords": [
                         -2.984424,
@@ -10033,7 +10033,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Saint George's Hall",
-                  "text": "Saint George's Hall is a landmark neoclassical building and attraction in Liverpool.",
+                  "text": "St George's Hall in Liverpool, Grade II listed, designed by Harvey Lonsdale Elmes and Charles Robert Cockerell.",
                   "category": "landmark",
                   "coords": [
                         -2.980226,
@@ -10042,7 +10042,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Royal Liver Building",
-                  "text": "The Royal Liver Building is a famous grade I listed attraction in Liverpool.",
+                  "text": "The Royal Liver Building in Liverpool, built in 1911 by Walter Aubrey Thomas, is an iconic waterfront building with the Liver Birds.",
                   "category": "landmark",
                   "coords": [
                         -2.995844,
@@ -10051,7 +10051,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Metropolitan Cathedral of Christ the King",
-                  "text": "The Metropolitan Cathedral of Christ the King is a striking modern Catholic attraction in Liverpool.",
+                  "text": "The Metropolitan Cathedral of Christ the King in Liverpool, built in 1967 by Frederick Gibberd (based on designs by Edwin Lutyens), is a modern cathedral.",
                   "category": "landmark",
                   "coords": [
                         -2.968588,
@@ -10078,7 +10078,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
             },
             {
                   "name": "Liverpool Cathedral",
-                  "text": "Liverpool Cathedral is a major attraction and the largest cathedral in Britain.",
+                  "text": "Liverpool Cathedral, Grade II listed, designed by Giles Gilbert Scott.",
                   "category": "landmark",
                   "coords": [
                         -2.973262,
@@ -16697,7 +16697,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Mary-le-Port Church",
-                  "text": "Die Saint Mary-le-Port Church ist eine historische Ruinenstätte in Bristol.",
+                  "text": "Die St Mary le Port Church in Bristol ist eine mittelalterliche Kirchenruine, die im Zweiten Weltkrieg zerstört wurde (Grade II).",
                   "category": "historical",
                   "coords": [
                         -2.591627,
@@ -16769,7 +16769,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Christ Church Clifton",
-                  "text": "Christ Church Clifton ist eine anerkannte Kultstätte in Bristol.",
+                  "text": "Die Christ Church Clifton in Bristol, 1841 von Charles Dyer erbaut.",
                   "category": "religious",
                   "coords": [
                         -2.61995,
@@ -16796,7 +16796,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lord Mayor's Chapel",
-                  "text": "Die Lord Mayor's Chapel ist eine bekannte Kultstätte in Bristol.",
+                  "text": "Die Lord Mayor's Chapel (St Mark's) in Bristol ist eine gotische Kirche, erbaut 1230, heute genutzt vom Bürgermeister.",
                   "category": "religious",
                   "coords": [
                         -2.600198,
@@ -16859,7 +16859,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Holy Trinity Hotwells",
-                  "text": "Holy Trinity Hotwells ist eine bekannte Kultstätte in Bristol.",
+                  "text": "Die Holy Trinity Church in Hotwells, Bristol, 1830 von Charles Robert Cockerell erbaut.",
                   "category": "religious",
                   "coords": [
                         -2.617875,
@@ -16886,7 +16886,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Thekla",
-                  "text": "Die Thekla ist ein bekanntes Schiff in Bristol.",
+                  "text": "Die Thekla in Bristol ist ein Musikclub und Nachtlokal in einem umgebauten Frachtschiff aus dem Jahr 1984.",
                   "category": "landmark",
                   "coords": [
                         -2.594195,
@@ -16904,7 +16904,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "John Sebastian Lightship",
-                  "text": "Das John Sebastian Lightship ist ein bekanntes Schiff in Bristol.",
+                  "text": "Das John Sebastian Lightship ist ein 1885 gebautes Feuerschiff, das im Bathurst Basin in Bristol liegt.",
                   "category": "landmark",
                   "coords": [
                         -2.594957,
@@ -17659,7 +17659,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Mary-le-Port Church",
-                  "text": "A Saint Mary-le-Port Church egy történelmi romterület Bristolban.",
+                  "text": "A St Mary le Port Church Bristolban egy középkori templomrom, amelyet a második világháborúban romboltak le (Grade II).",
                   "category": "historical",
                   "coords": [
                         -2.591627,
@@ -17731,7 +17731,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Christ Church Clifton",
-                  "text": "A Christ Church Clifton egy kijelölt istentiszteleti hely Bristolban.",
+                  "text": "A Cliftoni Krisztus-templom Bristolban, 1841-ben építette Charles Dyer.",
                   "category": "religious",
                   "coords": [
                         -2.61995,
@@ -17758,7 +17758,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lord Mayor's Chapel",
-                  "text": "A Lord Mayor's Chapel egy jelentős istentiszteleti hely Bristol városában.",
+                  "text": "A Lord Mayor's Chapel (St Mark's) Bristolban egy gótikus templom, 1230-ban épült, ma a polgármester használja.",
                   "category": "religious",
                   "coords": [
                         -2.600198,
@@ -17821,7 +17821,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Holy Trinity Hotwells",
-                  "text": "A Holy Trinity Hotwells egy jelentős istentiszteleti hely Bristol városában.",
+                  "text": "A Szentháromság-templom Hotwells-ben, Bristol, 1830-ban építette Charles Robert Cockerell.",
                   "category": "religious",
                   "coords": [
                         -2.617875,
@@ -17848,7 +17848,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Thekla",
-                  "text": "A Thekla egy ismert hajó Bristol városában.",
+                  "text": "A Thekla Bristolban egy zenei klub és éjszakai szórakozóhely egy 1984-es átalakított teherhajóban.",
                   "category": "landmark",
                   "coords": [
                         -2.594195,
@@ -17866,7 +17866,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "John Sebastian Lightship",
-                  "text": "A John Sebastian Lightship egy ismert hajó Bristol városában.",
+                  "text": "A John Sebastian Lightship egy 1885-ben épült világítóhajó, amely a bristoli Bathurst Basinben horgonyoz.",
                   "category": "landmark",
                   "coords": [
                         -2.594957,
@@ -18621,7 +18621,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Mary-le-Port Church",
-                  "text": "Saint Mary-le-Port Church este un sit istoric cu ruine situat în Bristol.",
+                  "text": "Biserica St Mary le Port din Bristol este o ruină medievală distrusă în cel de-al Doilea Război Mondial (gradul II).",
                   "category": "historical",
                   "coords": [
                         -2.591627,
@@ -18693,7 +18693,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Christ Church Clifton",
-                  "text": "Christ Church Clifton este un lăcaș de cult desemnat situat în Bristol.",
+                  "text": "Biserica Christ Church Clifton din Bristol, construită în 1841 de Charles Dyer.",
                   "category": "religious",
                   "coords": [
                         -2.61995,
@@ -18720,7 +18720,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lord Mayor's Chapel",
-                  "text": "Lord Mayor's Chapel este un lăcaș de cult notabil situat în Bristol.",
+                  "text": "Capela Lord Mayor (St Mark's) din Bristol este o biserică gotică construită în 1230, acum folosită de primar.",
                   "category": "religious",
                   "coords": [
                         -2.600198,
@@ -18783,7 +18783,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Holy Trinity Hotwells",
-                  "text": "Holy Trinity Hotwells este un lăcaș de cult notabil situat în Bristol.",
+                  "text": "Biserica Sfânta Treime din Hotwells, Bristol, construită în 1830 de Charles Robert Cockerell.",
                   "category": "religious",
                   "coords": [
                         -2.617875,
@@ -18810,7 +18810,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Thekla",
-                  "text": "Thekla este o navă bine-cunoscută situată în Bristol.",
+                  "text": "Thekla din Bristol este un club de muzică și un loc de divertisment nocturn găzduit într-o navă de marfă transformată din 1984.",
                   "category": "landmark",
                   "coords": [
                         -2.594195,
@@ -18828,7 +18828,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "John Sebastian Lightship",
-                  "text": "John Sebastian Lightship este o navă bine-cunoscută situată în Bristol.",
+                  "text": "Nava far John Sebastian este o navă far construită în 1885, ancorată în Bathurst Basin, Bristol.",
                   "category": "landmark",
                   "coords": [
                         -2.594957,
@@ -19583,7 +19583,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Mary-le-Port Church",
-                  "text": "Saint Mary-le-Port Church is an historic site of ruins situated in Bristol.",
+                  "text": "St Mary le Port Church in Bristol is a ruined medieval church destroyed in World War II, Grade II listed.",
                   "category": "historical",
                   "coords": [
                         -2.591627,
@@ -19655,7 +19655,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Christ Church Clifton",
-                  "text": "Christ Church Clifton is a designated place of worship located in Bristol.",
+                  "text": "Christ Church Clifton in Bristol, built in 1841 by Charles Dyer.",
                   "category": "religious",
                   "coords": [
                         -2.61995,
@@ -19682,7 +19682,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lord Mayor's Chapel",
-                  "text": "The Lord Mayor's Chapel is a notable place of worship located in Bristol.",
+                  "text": "Lord Mayor's Chapel (St Mark's) in Bristol is a Gothic church built in 1230, now used by the Lord Mayor.",
                   "category": "religious",
                   "coords": [
                         -2.600198,
@@ -19745,7 +19745,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Holy Trinity Hotwells",
-                  "text": "Holy Trinity Hotwells is a notable place of worship located in Bristol.",
+                  "text": "Holy Trinity Church in Hotwells, Bristol, built in 1830 by Charles Robert Cockerell.",
                   "category": "religious",
                   "coords": [
                         -2.617875,
@@ -19772,7 +19772,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Thekla",
-                  "text": "Thekla is a well-known ship located in Bristol.",
+                  "text": "The Thekla in Bristol is a music venue and nightclub housed in a converted cargo ship from 1984.",
                   "category": "landmark",
                   "coords": [
                         -2.594195,
@@ -19790,7 +19790,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "John Sebastian Lightship",
-                  "text": "John Sebastian Lightship is a well-known ship located in Bristol.",
+                  "text": "The John Sebastian Lightship is a lightship built in 1885, moored in Bathurst Basin, Bristol.",
                   "category": "landmark",
                   "coords": [
                         -2.594957,
@@ -38193,7 +38193,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Manvers Street Baptist Church",
-                  "text": "Eine Baptistengemeinde im Zentrum von Bath.",
+                  "text": "Die Manvers Street Baptist Church in Bath ist eine denkmalgeschützte Baptistenkirche, erbaut 1872 (Grade II).",
                   "category": "religious",
                   "coords": [
                         -2.356688,
@@ -38202,7 +38202,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Walcot Methodist Chapel",
-                  "text": "Eine methodistische Kapelle im Stadtteil Walcot in Bath.",
+                  "text": "Die Walcot Methodist Chapel in Bath ist eine denkmalgeschützte methodistische Kapelle, erbaut 1815 (Grade II).",
                   "category": "religious",
                   "coords": [
                         -2.357743,
@@ -38211,7 +38211,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary's",
-                  "text": "Eine historische Kirche in Bath.",
+                  "text": "Die St Mary's Church in Bath ist eine denkmalgeschützte Kirche, erbaut 1881 (Grade II).",
                   "category": "religious",
                   "coords": [
                         -2.364959,
@@ -38229,7 +38229,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John's",
-                  "text": "Eine anglikanische Kirche in Bath.",
+                  "text": "Die Saint John's Church in Bath ist eine denkmalgeschützte Kirche, erbaut 1860 (Grade II).",
                   "category": "religious",
                   "coords": [
                         -2.355418,
@@ -38846,7 +38846,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Manvers Street Baptist Church",
-                  "text": "Egy baptista templom Bath központjában.",
+                  "text": "A Manvers Street Baptist Church Bathban egy Grade II-es listás baptista templom, 1872-ben épült.",
                   "category": "religious",
                   "coords": [
                         -2.356688,
@@ -38855,7 +38855,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Walcot Methodist Chapel",
-                  "text": "Egy metodista kápolna Bath Walcot negyedében.",
+                  "text": "A Walcot Methodist Chapel Bathban egy Grade II-es listás metodista kápolna, 1815-ben épült.",
                   "category": "religious",
                   "coords": [
                         -2.357743,
@@ -38864,7 +38864,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary's",
-                  "text": "Egy történelmi templom Bath városában.",
+                  "text": "A St Mary's Church Bathban egy Grade II-es listás templom, 1881-ben épült.",
                   "category": "religious",
                   "coords": [
                         -2.364959,
@@ -38882,7 +38882,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John's",
-                  "text": "Egy anglikán templom Bath városában.",
+                  "text": "A Saint John's Church Bathban egy Grade II-es listás templom, 1860-ban épült.",
                   "category": "religious",
                   "coords": [
                         -2.355418,
@@ -39499,7 +39499,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Manvers Street Baptist Church",
-                  "text": "O biserică baptistă situată în centrul orașului Bath.",
+                  "text": "Biserica Baptistă Manvers Street din Bath este o biserică baptistă de gradul II construită în 1872.",
                   "category": "religious",
                   "coords": [
                         -2.356688,
@@ -39508,7 +39508,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Walcot Methodist Chapel",
-                  "text": "O chapelă metodistă în zona Walcot din Bath.",
+                  "text": "Capela Metodistă Walcot din Bath este o capelă metodistă de gradul II construită în 1815.",
                   "category": "religious",
                   "coords": [
                         -2.357743,
@@ -39517,7 +39517,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary's",
-                  "text": "O biserică istorică în Bath.",
+                  "text": "Biserica St Mary din Bath este o biserică de gradul II construită în 1881.",
                   "category": "religious",
                   "coords": [
                         -2.364959,
@@ -39535,7 +39535,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John's",
-                  "text": "O biserică anglicană în Bath.",
+                  "text": "Biserica Saint John din Bath este o biserică de gradul II construită în 1860.",
                   "category": "religious",
                   "coords": [
                         -2.355418,
@@ -40152,7 +40152,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Manvers Street Baptist Church",
-                  "text": "A Baptist church located in the center of Bath.",
+                  "text": "Manvers Street Baptist Church in Bath is a Grade II listed Baptist church built in 1872.",
                   "category": "religious",
                   "coords": [
                         -2.356688,
@@ -40161,7 +40161,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Walcot Methodist Chapel",
-                  "text": "A Methodist chapel in the Walcot area of Bath.",
+                  "text": "Walcot Methodist Chapel in Bath is a Grade II listed Methodist chapel built in 1815.",
                   "category": "religious",
                   "coords": [
                         -2.357743,
@@ -40170,7 +40170,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary's",
-                  "text": "A historic church in Bath.",
+                  "text": "St Mary's Church in Bath is a Grade II listed church built in 1881.",
                   "category": "religious",
                   "coords": [
                         -2.364959,
@@ -40188,7 +40188,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John's",
-                  "text": "An Anglican church in Bath.",
+                  "text": "Saint John's Church in Bath is a Grade II listed church built in 1860.",
                   "category": "religious",
                   "coords": [
                         -2.355418,
@@ -40916,7 +40916,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "North Carr",
-                  "text": "Das Schiff North Carr ist ein ehemaliges Feuerschiff, das in Dundee liegt.",
+                  "text": "Das Nord-Carr-Feuerschiff ist ein 1932 gebautes außerdienstgestelltes Feuerschiff, das heute als Museumsschiff in Dundee liegt.",
                   "category": "landmark",
                   "coords": [
                         -2.961367,
@@ -41559,7 +41559,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "North Carr",
-                  "text": "A North Carr egy egykori világítóhajó, amely Dundee-ban horgonyoz.",
+                  "text": "A North Carr világítóhajó egy 1932-ben épült leszerelt világítóhajó, ma múzeumhajó Dundee-ban.",
                   "category": "landmark",
                   "coords": [
                         -2.961367,
@@ -42202,7 +42202,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "North Carr",
-                  "text": "North Carr este o fostă navă-far situată în Dundee.",
+                  "text": "Nava far North Carr este o navă far dezafectată construită în 1932, acum navă muzeu în Dundee.",
                   "category": "landmark",
                   "coords": [
                         -2.961367,
@@ -42845,7 +42845,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "North Carr",
-                  "text": "North Carr is a former lightship located in Dundee.",
+                  "text": "The North Carr Lightship is a decommissioned lightship built in 1932, now a museum ship in Dundee.",
                   "category": "landmark",
                   "coords": [
                         -2.961367,
@@ -45442,7 +45442,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "West Pier",
-                  "text": "Der West Pier ist eine bekannte, verfallene Seebrücke vor der Küste von Brighton.",
+                  "text": "Der 1866 von Eugenius Birch erbaute West Pier in Brighton ist ein viktorianischer Pier, der heute eine Ruine ist.",
                   "category": "historical",
                   "coords": [
                         -0.152003,
@@ -45505,7 +45505,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St John the Baptist's",
-                  "text": "St John the Baptist's ist ein bemerkenswertes Gotteshaus in Brighton.",
+                  "text": "Die St John the Baptist's Church in Brighton ist eine denkmalgeschützte anglikanische Kirche (Grade II).",
                   "category": "religious",
                   "coords": [
                         -0.125997,
@@ -46252,7 +46252,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "West Pier",
-                  "text": "A West Pier egy híres romos móló Brighton partjainál.",
+                  "text": "A brightoni West Pier 1866-ban épült Eugenius Birch tervei alapján, viktoriánus móló, ma rom.",
                   "category": "historical",
                   "coords": [
                         -0.152003,
@@ -46315,7 +46315,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St John the Baptist's",
-                  "text": "A St John the Baptist's egy jelentős istentiszteleti hely Brightonban.",
+                  "text": "A St John the Baptist's Church Brightonban egy Grade II-es listás anglikán templom.",
                   "category": "religious",
                   "coords": [
                         -0.125997,
@@ -47062,7 +47062,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "West Pier",
-                  "text": "West Pier este un renumit debarcader în ruină aflat pe coasta orașului Brighton.",
+                  "text": "West Pier din Brighton, construit în 1866 de Eugenius Birch, este un debarcader victorian, acum în ruină.",
                   "category": "historical",
                   "coords": [
                         -0.152003,
@@ -47125,7 +47125,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St John the Baptist's",
-                  "text": "St John the Baptist's este un lăcaș de cult notabil din Brighton.",
+                  "text": "Biserica St John the Baptist din Brighton este o biserică anglicană de gradul II.",
                   "category": "religious",
                   "coords": [
                         -0.125997,
@@ -47872,7 +47872,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "West Pier",
-                  "text": "West Pier is a famous ruined pier off the coast of Brighton.",
+                  "text": "The West Pier in Brighton, built in 1866 by Eugenius Birch, is a Victorian pier now in ruins.",
                   "category": "historical",
                   "coords": [
                         -0.152003,
@@ -47935,7 +47935,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St John the Baptist's",
-                  "text": "St John the Baptist's is a notable place of worship in Brighton.",
+                  "text": "St John the Baptist's Church in Brighton is a Grade II listed Anglican church.",
                   "category": "religious",
                   "coords": [
                         -0.125997,
@@ -62605,7 +62605,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John The Baptist",
-                  "text": "Eine historische mittelalterliche Kirche im Zentrum von Norwich.",
+                  "text": "Die Saint John the Baptist Church am Timberhill in Norwich ist eine denkmalgeschützte mittelalterliche Kirche (Grade II).",
                   "category": "religious",
                   "coords": [
                         1.296232,
@@ -62623,7 +62623,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Augustine's Church",
-                  "text": "Eine mittelalterliche Pfarrkirche in Norwich.",
+                  "text": "Die Saint Augustine's Church in Norwich ist eine normannische mittelalterliche Kirche, erbaut 1163.",
                   "category": "religious",
                   "coords": [
                         1.292517,
@@ -62632,7 +62632,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Stephen's",
-                  "text": "Eine große mittelalterliche Kirche im Herzen von Norwich.",
+                  "text": "Die Saint Stephen's Church in Norwich ist eine denkmalgeschützte Kirche (Grade II).",
                   "category": "religious",
                   "coords": [
                         1.292316,
@@ -63442,7 +63442,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John The Baptist",
-                  "text": "Egy történelmi középkori templom Norwich központjában.",
+                  "text": "A Saint John the Baptist Church a Timberhillen Norwichban egy Grade II-es listás középkori templom.",
                   "category": "religious",
                   "coords": [
                         1.296232,
@@ -63460,7 +63460,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Augustine's Church",
-                  "text": "Egy középkori plébániatemplom Norwichban.",
+                  "text": "A Saint Augustine's Church Norwichban egy normann középkori templom, 1163-ban épült.",
                   "category": "religious",
                   "coords": [
                         1.292517,
@@ -63469,7 +63469,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Stephen's",
-                  "text": "Egy nagy középkori templom Norwich szívében.",
+                  "text": "A Saint Stephen's Church Norwichban egy Grade II-es listás templom.",
                   "category": "religious",
                   "coords": [
                         1.292316,
@@ -64279,7 +64279,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John The Baptist",
-                  "text": "O biserică medievală istorică în centrul orașului Norwich.",
+                  "text": "Biserica Saint John the Baptist de pe Timberhill din Norwich este o biserică medievală de gradul II.",
                   "category": "religious",
                   "coords": [
                         1.296232,
@@ -64297,7 +64297,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Augustine's Church",
-                  "text": "O biserică parohială medievală în Norwich.",
+                  "text": "Biserica Saint Augustine din Norwich este o biserică medievală normandă construită în 1163.",
                   "category": "religious",
                   "coords": [
                         1.292517,
@@ -64306,7 +64306,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Stephen's",
-                  "text": "O biserică medievală mare în inima orașului Norwich.",
+                  "text": "Biserica Saint Stephen din Norwich este o biserică de gradul II.",
                   "category": "religious",
                   "coords": [
                         1.292316,
@@ -65116,7 +65116,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint John The Baptist",
-                  "text": "A historic medieval church in the center of Norwich.",
+                  "text": "Saint John the Baptist Church on Timberhill in Norwich is a Grade II listed medieval church.",
                   "category": "religious",
                   "coords": [
                         1.296232,
@@ -65134,7 +65134,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Augustine's Church",
-                  "text": "A medieval parish church in Norwich.",
+                  "text": "Saint Augustine's Church in Norwich is a Norman medieval church built in 1163.",
                   "category": "religious",
                   "coords": [
                         1.292517,
@@ -65143,7 +65143,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Stephen's",
-                  "text": "A large medieval church in the heart of Norwich.",
+                  "text": "Saint Stephen's Church in Norwich is a Grade II listed church.",
                   "category": "religious",
                   "coords": [
                         1.292316,
@@ -68435,7 +68435,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Hugh of Lincoln",
-                  "text": "Eine katholische Kirche in Lincoln, die dem heiligen Hugo gewidmet ist.",
+                  "text": "Die St Hugh of Lincoln Church in Lincoln wurde 1893 geweiht und ist dem Schutzpatron von Lincoln gewidmet.",
                   "category": "religious",
                   "coords": [
                         -0.535725,
@@ -68996,7 +68996,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Hugh of Lincoln",
-                  "text": "Katolikus templom Lincolnban, amelyet Szent Hugónak szenteltek.",
+                  "text": "A St Hugh of Lincoln Church Lincolnban 1893-ban szentelték fel, és Lincoln védőszentjének van szentelve.",
                   "category": "religious",
                   "coords": [
                         -0.535725,
@@ -69557,7 +69557,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Hugh of Lincoln",
-                  "text": "O biserică catolică din Lincoln dedicată Sfântului Hugo.",
+                  "text": "Biserica St Hugh of Lincoln din Lincoln a fost sfințită în 1893 și este dedicată patronului orașului Lincoln.",
                   "category": "religious",
                   "coords": [
                         -0.535725,
@@ -70118,7 +70118,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint Hugh of Lincoln",
-                  "text": "A Catholic church in Lincoln dedicated to Saint Hugh.",
+                  "text": "St Hugh of Lincoln Church in Lincoln was consecrated in 1893 and is dedicated to the patron saint of Lincoln.",
                   "category": "religious",
                   "coords": [
                         -0.535725,
@@ -75305,7 +75305,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Parish Church of St Martin of Tours",
-                  "text": "Die Parish Church of St Martin of Tours ist eine bekannte Kultstätte in Wolverhampton.",
+                  "text": "Die St Martin's Church in Parkfields, Wolverhampton ist eine denkmalgeschützte Kirche (Grade II).",
                   "category": "religious",
                   "coords": [
                         -2.116145,
@@ -75631,7 +75631,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Parish Church of St Martin of Tours",
-                  "text": "A Parish Church of St Martin of Tours egy jegyzett imahely Wolverhamptonban.",
+                  "text": "A St Martin's Church Parkfieldsben, Wolverhamptonban egy Grade II-es listás templom.",
                   "category": "religious",
                   "coords": [
                         -2.116145,
@@ -75957,7 +75957,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Parish Church of St Martin of Tours",
-                  "text": "Parish Church of St Martin of Tours este un lăcaș de cult notabil din Wolverhampton.",
+                  "text": "Biserica St Martin din Parkfields, Wolverhampton este o biserică de gradul II.",
                   "category": "religious",
                   "coords": [
                         -2.116145,
@@ -76283,7 +76283,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Parish Church of St Martin of Tours",
-                  "text": "The Parish Church of St Martin of Tours is a noted place of worship in Wolverhampton.",
+                  "text": "St Martin's Church in Parkfields, Wolverhampton is a Grade II listed church.",
                   "category": "religious",
                   "coords": [
                         -2.116145,
@@ -81724,7 +81724,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lancaster Castle",
-                  "text": "Lancaster Castle ist eine historische mittelalterliche Burg in Lancaster.",
+                  "text": "Das Lancaster Castle ist eine mittelalterliche Burg, die als Gefängnis und Gerichtsgebäude genutzt wird (Grade II).",
                   "category": "castle",
                   "coords": [
                         -2.805383,
@@ -82122,7 +82122,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lancaster Castle",
-                  "text": "A Lancaster Castle egy történelmi középkori vár Lancasterben.",
+                  "text": "A Lancaster Castle középkori vár, amely börtönként és bíróságként szolgál (Grade II).",
                   "category": "castle",
                   "coords": [
                         -2.805383,
@@ -82520,7 +82520,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lancaster Castle",
-                  "text": "Lancaster Castle este un castel medieval istoric situat în Lancaster.",
+                  "text": "Castelul Lancaster este un castel medieval folosit ca închisoare și tribunal (gradul II).",
                   "category": "castle",
                   "coords": [
                         -2.805383,
@@ -82918,7 +82918,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Lancaster Castle",
-                  "text": "Lancaster Castle is a historic medieval castle located in Lancaster.",
+                  "text": "Lancaster Castle is a medieval castle used as a prison and courthouse, Grade II listed.",
                   "category": "castle",
                   "coords": [
                         -2.805383,
@@ -102155,7 +102155,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Warrington Bridge",
-                  "text": "Eine wichtige Brücke über den Mersey in Warrington.",
+                  "text": "Die Warrington Bridge ist eine Straßenbrücke über den River Mersey, erbaut 1915.",
                   "category": "landmark",
                   "coords": [
                         -2.591335,
@@ -102661,7 +102661,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Warrington Bridge",
-                  "text": "Fontos híd a Mersey folyón Warringtonban.",
+                  "text": "A Warrington Bridge egy közúti híd a River Mersey felett, 1915-ben épült.",
                   "category": "landmark",
                   "coords": [
                         -2.591335,
@@ -103167,7 +103167,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Warrington Bridge",
-                  "text": "Un pod important peste râul Mersey în Warrington.",
+                  "text": "Podul Warrington este un pod rutier peste râul Mersey, construit în 1915.",
                   "category": "landmark",
                   "coords": [
                         -2.591335,
@@ -103673,7 +103673,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Warrington Bridge",
-                  "text": "A key bridge crossing the River Mersey in Warrington.",
+                  "text": "Warrington Bridge is a road bridge over the River Mersey built in 1915.",
                   "category": "landmark",
                   "coords": [
                         -2.591335,
@@ -107240,7 +107240,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St. Peter's Church",
-                  "text": "Eine im 18. Jahrhundert erbaute Kirche in Stockport.",
+                  "text": "Die St Peter's Church in Stockport ist eine denkmalgeschützte Kirche.",
                   "category": "religious",
                   "coords": [
                         -2.15992,
@@ -107503,7 +107503,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St. Peter's Church",
-                  "text": "Egy 18. században épült templom Stockportban.",
+                  "text": "A St Peter's Church Stockportban egy listás templom.",
                   "category": "religious",
                   "coords": [
                         -2.15992,
@@ -107766,7 +107766,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St. Peter's Church",
-                  "text": "O biserică construită în secolul al XVIII-lea în Stockport.",
+                  "text": "Biserica St Peter din Stockport este o biserică listată.",
                   "category": "religious",
                   "coords": [
                         -2.15992,
@@ -108029,7 +108029,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St. Peter's Church",
-                  "text": "An 18th-century church located in Stockport.",
+                  "text": "St Peter's Church in Stockport is a listed church.",
                   "category": "religious",
                   "coords": [
                         -2.15992,
@@ -110102,7 +110102,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint James the Great, Colchester",
-                  "text": "Saint James the Great ist eine etablierte Pfarrkirche der Church of England in Colchester.",
+                  "text": "Die Saint James the Great Church in Colchester ist eine denkmalgeschützte Kirche (Grade II).",
                   "category": "religious",
                   "coords": [
                         0.90731,
@@ -110572,7 +110572,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint James the Great, Colchester",
-                  "text": "A Saint James the Great egy jelentős anglikán plébániatemplom Colchesterben.",
+                  "text": "A Saint James the Great Church Colchesterben egy Grade II-es listás templom.",
                   "category": "religious",
                   "coords": [
                         0.90731,
@@ -111042,7 +111042,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint James the Great, Colchester",
-                  "text": "Saint James the Great este o cunoscută biserică parohială anglicană din Colchester.",
+                  "text": "Biserica Saint James the Great din Colchester este o biserică de gradul II.",
                   "category": "religious",
                   "coords": [
                         0.90731,
@@ -111512,7 +111512,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Saint James the Great, Colchester",
-                  "text": "Saint James the Great is an established Church of England parish church in Colchester.",
+                  "text": "Saint James the Great in Colchester is a Grade II listed church.",
                   "category": "religious",
                   "coords": [
                         0.90731,
@@ -114971,7 +114971,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Jesus College Rotherham Doorway",
-                  "text": "Ein historischer Torbogen aus dem 15. Jahrhundert in Rotherham.",
+                  "text": "Der Jesus College Rotherham Doorway ist ein historischer Torbogen aus dem Jahr 1879, der ursprünglich zum Jesus College gehörte.",
                   "category": "historical",
                   "coords": [
                         -1.353283,
@@ -115189,7 +115189,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Jesus College Rotherham Doorway",
-                  "text": "Egy 15. századból származó történelmi boltíves kapu Rotherhamben.",
+                  "text": "A Jesus College Rotherham Doorway egy történelmi ajtókeret 1879-ből, amely eredetileg a Jesus College része volt.",
                   "category": "historical",
                   "coords": [
                         -1.353283,
@@ -115407,7 +115407,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Jesus College Rotherham Doorway",
-                  "text": "O poartă arcuită istorică din secolul al XV-lea în Rotherham.",
+                  "text": "Intrarea Jesus College Rotherham este un portal istoric din 1879, parte a fostului Jesus College.",
                   "category": "historical",
                   "coords": [
                         -1.353283,
@@ -115625,7 +115625,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Jesus College Rotherham Doorway",
-                  "text": "A historical 15th-century arched doorway located in Rotherham.",
+                  "text": "The Jesus College Rotherham Doorway is a historic doorway from 1879, originally part of Jesus College.",
                   "category": "historical",
                   "coords": [
                         -1.353283,
@@ -115808,7 +115808,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Rochdale War Memorial",
-                  "text": "Das Rochdale War Memorial ist ein markantes Kenotaph zum Gedenken an gefallene Soldaten in Rochdale.",
+                  "text": "Das Rochdale War Memorial ist ein Kriegerdenkmal, entworfen von Edwin Lutyens, in Rochdale.",
                   "category": "historical",
                   "coords": [
                         -2.159731,
@@ -115844,7 +115844,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary in the Baum",
-                  "text": "St Mary in the Baum ist eine Kultstätte für die Gemeinde in Rochdale.",
+                  "text": "Die St Mary in the Baum Church in Rochdale ist eine denkmalgeschützte Kirche, erbaut 1911.",
                   "category": "religious",
                   "coords": [
                         -2.158569,
@@ -115999,7 +115999,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Rochdale War Memorial",
-                  "text": "A Rochdale War Memorial egy kiemelkedő emlékmű Rochdale városában, amely az elesett katonáknak állít emléket.",
+                  "text": "A Rochdale War Memorial egy háborús emlékmű, Edwin Lutyens tervezte, Rochdale-ben.",
                   "category": "historical",
                   "coords": [
                         -2.159731,
@@ -116035,7 +116035,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary in the Baum",
-                  "text": "A St Mary in the Baum egy templom, amely a rochdale-i közösséget szolgálja.",
+                  "text": "A St Mary in the Baum Church Rochdale-ben egy listás templom, 1911-ben épült.",
                   "category": "religious",
                   "coords": [
                         -2.158569,
@@ -116190,7 +116190,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Rochdale War Memorial",
-                  "text": "Rochdale War Memorial este un cenotaf proeminent care comemorează soldații căzuți în Rochdale.",
+                  "text": "Memorialul de Război Rochdale este un monument de război proiectat de Edwin Lutyens, în Rochdale.",
                   "category": "historical",
                   "coords": [
                         -2.159731,
@@ -116226,7 +116226,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary in the Baum",
-                  "text": "St Mary in the Baum este un lăcaș de cult care deservește comunitatea din Rochdale.",
+                  "text": "Biserica St Mary in the Baum din Rochdale este o biserică listată construită în 1911.",
                   "category": "religious",
                   "coords": [
                         -2.158569,
@@ -116381,7 +116381,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "Rochdale War Memorial",
-                  "text": "Rochdale War Memorial is a prominent cenotaph commemorating fallen soldiers in Rochdale.",
+                  "text": "Rochdale War Memorial is a war memorial designed by Edwin Lutyens, located in Rochdale.",
                   "category": "historical",
                   "coords": [
                         -2.159731,
@@ -116417,7 +116417,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             },
             {
                   "name": "St Mary in the Baum",
-                  "text": "St Mary in the Baum is a place of worship serving the Rochdale community.",
+                  "text": "St Mary in the Baum Church in Rochdale is a listed church built in 1911.",
                   "category": "religious",
                   "coords": [
                         -2.158569,

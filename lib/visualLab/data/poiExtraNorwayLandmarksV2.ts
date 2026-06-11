@@ -2527,7 +2527,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vinne kyrkje",
-                  "text": "Eine historische Kirche in Stiklestad.",
+                  "text": "Die 1826 erbaute denkmalgeschützte Vinne-Kirche bei der Stiklestad-Kirche.",
                   "category": "religious",
                   "coords": [
                         11.526195,
@@ -2592,7 +2592,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vinne kyrkje",
-                  "text": "Történelmi templom Stiklestadban.",
+                  "text": "A Stiklestad templom melletti Vinne templom, 1826-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         11.526195,
@@ -2657,7 +2657,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vinne kyrkje",
-                  "text": "O biserică istorică din Stiklestad.",
+                  "text": "Biserica Vinne lângă Biserica Stiklestad, construită în 1826, monument istoric.",
                   "category": "religious",
                   "coords": [
                         11.526195,
@@ -2722,7 +2722,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vinne kyrkje",
-                  "text": "A historic church located in Stiklestad.",
+                  "text": "Vinne Church near Stiklestad Church, built in 1826, a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         11.526195,

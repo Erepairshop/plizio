@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraGhanaHistoryV2: POI[] = [
   {
-    id: "cape-coast-castle-history-v2",
+    id: "cape-coast-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moree Beach Resort",
+                  "text": "Eine Küstenresortanlage mit Blick auf die Meereswellen in der Nähe von Cape Coast Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.194699,
+                        5.13785
+                  ]
+            },
+            {
+                  "name": "Nyansapo Resort",
+                  "text": "Ein Gastgewerbehotel, das Unterkünfte in der Nähe der historischen Stadtmauern von Cape Coast Castle bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.187998,
+                        5.141188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moree Beach Resort",
+                  "text": "Egy tengerparti üdülőlétesítmény, kilátással az óceán hullámaira a Cape Coast-i kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.194699,
+                        5.13785
+                  ]
+            },
+            {
+                  "name": "Nyansapo Resort",
+                  "text": "Egy szálloda, amely szállást biztosít a Cape Coast-i kastély történelmi bástyái közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.187998,
+                        5.141188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moree Beach Resort",
+                  "text": "O facilitate de stațiune pe coastă cu vedere la valurile oceanului lângă Castelul Cape Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.194699,
+                        5.13785
+                  ]
+            },
+            {
+                  "name": "Nyansapo Resort",
+                  "text": "Un hotel de ospitalitate care oferă cazare lângă meterezele istorice ale Castelului Cape Coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.187998,
+                        5.141188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moree Beach Resort",
+                  "text": "A coastal resort facility overlooking the ocean waves near Cape Coast Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.194699,
+                        5.13785
+                  ]
+            },
+            {
+                  "name": "Nyansapo Resort",
+                  "text": "A hospitality hotel providing lodging near the historic ramparts of Cape Coast Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.187998,
+                        5.141188
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-1.2361, 5.1036],
@@ -25,7 +106,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "elmina-castle-history-v2",
+    id: "elmina-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint George’s Castle",
+                  "text": "Diese massive Küstenfestung in Elmina, die als UNESCO-Weltkulturerbe anerkannt ist, wurde ursprünglich 1482 von den Portugiesen errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.348149,
+                        5.082668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint George’s Castle",
+                  "text": "Az UNESCO Világörökség részét képező masszív elminai partvidéki erődítményt eredetileg a portugálok építették 1482-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.348149,
+                        5.082668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint George’s Castle",
+                  "text": "Recunoscută ca sit al Patrimoniului Mondial UNESCO, această fortăreață de coastă masivă din Elmina a fost ridicată inițial de portughezi în 1482.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.348149,
+                        5.082668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint George’s Castle",
+                  "text": "Recognized as a UNESCO World Heritage site, this massive coastal fortress in Elmina was originally erected by the Portuguese in 1482.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.348149,
+                        5.082668
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-1.3486, 5.0825],
@@ -46,7 +172,124 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       en: ["Built by the Portuguese in 1482 under King John II.", "The oldest European stone structure in sub-Saharan Africa.", "Captured by the Dutch in 1637 and held for over two centuries.", "Designated as a UNESCO World Heritage site in 1979.", "Originally established to protect the Portuguese gold trade.", "Located at the mouth of the Benya River on the Gulf of Guinea."],
     }, image: "/poi-images/elmina-castle-history-v2.webp"},
   {
-    id: "osu-castle-history-v2",
+    id: "osu-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Villa Ponte Rosa",
+                  "text": "Die Villa Ponte Rosa ist ein auffälliges architektonisches Anwesen in der Nähe des historischen Osu Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.173081,
+                        5.555941
+                  ]
+            },
+            {
+                  "name": "La Tawala Beach Resort",
+                  "text": "Das La Tawala Beach Resort ist ein lebhafter Veranstaltungsort am Meer, der für seine lebendigen Reggae-Nächte und die sandige Küstenkulisse in der Nähe von Osu bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.165217,
+                        5.552717
+                  ]
+            },
+            {
+                  "name": "Rehab",
+                  "text": "Rehab ist ein Rückzugsort am Strand in der Nähe des Osu Castle, der eine entspannte, sandige Umgebung für die Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.162743,
+                        5.55385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa Ponte Rosa",
+                  "text": "A Villa Ponte Rosa egy szemet gyönyörködtető építészeti ingatlan, amely a történelmi Osu kastély szomszédságában található.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.173081,
+                        5.555941
+                  ]
+            },
+            {
+                  "name": "La Tawala Beach Resort",
+                  "text": "A La Tawala Beach Resort egy nyüzsgő óceánparti helyszín, amely élénk reggae-estjeiről és az Osuhoz közeli homokos partról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.165217,
+                        5.552717
+                  ]
+            },
+            {
+                  "name": "Rehab",
+                  "text": "A Rehab egy tengerparti menedékhely az Osu kastély közelében, amely laza homokos környezetet kínál a tengerparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.162743,
+                        5.55385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa Ponte Rosa",
+                  "text": "Villa Ponte Rosa este o proprietate arhitecturală atrăgătoare, situată în vecinătatea istoricului Castel Osu.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.173081,
+                        5.555941
+                  ]
+            },
+            {
+                  "name": "La Tawala Beach Resort",
+                  "text": "La Tawala Beach Resort este o locație vibrantă pe malul oceanului, renumită pentru serile sale animate de reggae și decorul de coastă nisipos de lângă Osu.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.165217,
+                        5.552717
+                  ]
+            },
+            {
+                  "name": "Rehab",
+                  "text": "Rehab este o destinație pe malul mării lângă Castelul Osu, care oferă un mediu nisipos relaxant pentru o evadare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.162743,
+                        5.55385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa Ponte Rosa",
+                  "text": "Villa Ponte Rosa is an eye-catching architectural property situated in the vicinity of the historic Osu Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.173081,
+                        5.555941
+                  ]
+            },
+            {
+                  "name": "La Tawala Beach Resort",
+                  "text": "La Tawala Beach Resort is a vibrant oceanfront venue known for its lively reggae nights and sandy coastal setting near Osu.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.165217,
+                        5.552717
+                  ]
+            },
+            {
+                  "name": "Rehab",
+                  "text": "Rehab is a beachfront retreat near Osu Castle that offers a laid-back sandy environment for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.162743,
+                        5.55385
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-AA",
     coords: [-0.1764, 5.5486],
@@ -68,7 +311,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "larabanga-mosque-history-v2",
+    id: "larabanga-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mystic Stone",
+                  "text": "Eine markante, heilige Steinattraktion in der Nähe der historischen Larabanga-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.865018,
+                        9.220609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mystic Stone",
+                  "text": "Egy kiemelkedő szent kő látványosság a történelmi larabangai mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.865018,
+                        9.220609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mystic Stone",
+                  "text": "O atracție proeminentă cu o piatră sacră, situată lângă istorica Moschee Larabanga.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.865018,
+                        9.220609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mystic Stone",
+                  "text": "A prominent sacred stone attraction situated near the historic Larabanga Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.865018,
+                        9.220609
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-SV",
     coords: [-1.8606, 9.2217],
@@ -112,7 +400,160 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "manhyia-palace-history-v2",
+    id: "manhyia-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manhyia Palace Museum",
+                  "text": "Untergebracht in der ehemaligen Residenz des Asantehene, zeigt dieses Museum lebensgroße Bildnisse und historische königliche Insignien des Aschanti-Königreichs.",
+                  "category": "museum",
+                  "coords": [
+                        -1.615939,
+                        6.704163
+                  ]
+            },
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "Diese Statue steht stolz auf dem Gelände des Manhyia-Palastes und erinnert an das beständige Erbe von Otumfuo Opoku Ware II.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            },
+            {
+                  "name": "Kwapra Chiefs Palace",
+                  "text": "Diese traditionelle Festung in der Nähe des Manhyia-Palastes fungiert als administrativer und zeremonieller Sitz des Häuptlings von Kwapra.",
+                  "category": "castle",
+                  "coords": [
+                        -1.63013,
+                        6.759343
+                  ]
+            },
+            {
+                  "name": "Pampaso Stool Palace",
+                  "text": "Der Pampaso Stool Palace ist ein hochheiliges traditionelles Gebäude, in dem wichtige Rituale rund um den mystischen Goldenen Stuhl durchgeführt werden.",
+                  "category": "castle",
+                  "coords": [
+                        -1.624349,
+                        6.789181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manhyia Palace Museum",
+                  "text": "Az asanti király egykori rezidenciáján kialakított múzeum az Asanti Királyság életnagyságú viaszfiguráit és történelmi királyi ékszereit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.615939,
+                        6.704163
+                  ]
+            },
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "A Manhyia palota területén büszkén álló szobor Otumfuo Opoku Ware II maradandó öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            },
+            {
+                  "name": "Kwapra Chiefs Palace",
+                  "text": "A Manhyia palota közelében található hagyományos erődítmény a kwaprai törzsfőnök közigazgatási és ceremoniális székhelyeként működik.",
+                  "category": "castle",
+                  "coords": [
+                        -1.63013,
+                        6.759343
+                  ]
+            },
+            {
+                  "name": "Pampaso Stool Palace",
+                  "text": "A Pampaso Stool palota egy rendkívül szent hagyományos épület, ahol a misztikus Arany Székkel kapcsolatos létfontosságú rituálékat hajtják végre.",
+                  "category": "castle",
+                  "coords": [
+                        -1.624349,
+                        6.789181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manhyia Palace Museum",
+                  "text": "Găzduit în fosta reședință a regelui Asantehene, acest muzeu expune efigii în mărime naturală și regalia regală istorică a Regatului Ashanti.",
+                  "category": "museum",
+                  "coords": [
+                        -1.615939,
+                        6.704163
+                  ]
+            },
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "Stând cu mândrie pe domeniul Palatului Manhyia, această statuie comemorează moștenirea de durată a lui Otumfuo Opoku Ware al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            },
+            {
+                  "name": "Kwapra Chiefs Palace",
+                  "text": "Situată lângă Palatul Manhyia, această fortăreață tradițională funcționează ca sediu administrativ și ceremonial pentru șeful din Kwapra.",
+                  "category": "castle",
+                  "coords": [
+                        -1.63013,
+                        6.759343
+                  ]
+            },
+            {
+                  "name": "Pampaso Stool Palace",
+                  "text": "Palatul Pampaso Stool este o clădire tradițională foarte sacră, unde au loc ritualuri vitale legate de legendarul Scaun de Aur.",
+                  "category": "castle",
+                  "coords": [
+                        -1.624349,
+                        6.789181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manhyia Palace Museum",
+                  "text": "Housed in the former residence of the Asantehene, this museum displays life-sized effigies and historical royal regalia of the Ashanti Kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        -1.615939,
+                        6.704163
+                  ]
+            },
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "Standing proudly within the Manhyia Palace grounds, this statue commemorates the enduring legacy of Otumfuo Opoku Ware II.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            },
+            {
+                  "name": "Kwapra Chiefs Palace",
+                  "text": "Located near the Manhyia Palace, this traditional stronghold functions as the administrative and ceremonial seat of the Kwapra chief.",
+                  "category": "castle",
+                  "coords": [
+                        -1.63013,
+                        6.759343
+                  ]
+            },
+            {
+                  "name": "Pampaso Stool Palace",
+                  "text": "The Pampaso Stool Palace is a highly sacred traditional building where vital rituals concerning the mystical Golden Stool are enacted.",
+                  "category": "castle",
+                  "coords": [
+                        -1.624349,
+                        6.789181
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-AH",
     coords: [-1.6163, 6.7061],
@@ -134,7 +575,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "assin-manso-slave-river-history-v2",
+    id: "assin-manso-slave-river-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Assin Manso Slave River Site",
+                  "text": "Dieses Museum am Assin Manso Slave River erinnert an die tragische Geschichte des transatlantischen Sklavenhandels.",
+                  "category": "museum",
+                  "coords": [
+                        -1.168753,
+                        5.524814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Assin Manso Slave River Site",
+                  "text": "Az Assin Manso rabszolgafolyó mentén található múzeum a transzatlanti rabszolgakereskedelem tragikus történelmének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -1.168753,
+                        5.524814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Assin Manso Slave River Site",
+                  "text": "Acest muzeu de pe Râul Sclavilor Assin Manso comemorează istoria tragică a comerțului transatlantic cu sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        -1.168753,
+                        5.524814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Assin Manso Slave River Site",
+                  "text": "This museum site along the Assin Manso Slave River serves as a memorial to the tragic history of the transatlantic slave trade.",
+                  "category": "museum",
+                  "coords": [
+                        -1.168753,
+                        5.524814
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-1.1557, 5.5165],
@@ -155,7 +641,124 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       en: ["Site where enslaved Africans took their 'last bath' in African waters.", "Functioned as a major transit market for the transatlantic slave trade.", "Reinterred the remains of two ancestors from the diaspora in 1998.", "Located about 40 kilometers inland from the Cape Coast port.", "The primary site for Emancipation Day celebrations on August 1st.", "The river is called 'Donko Nsuo', meaning 'Slave River' in Twi."],
     }, image: "/poi-images/assin-manso-slave-river-history-v2.webp"},
   {
-    id: "fort-prinzenstein-history-v2",
+    id: "fort-prinzenstein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keta beach",
+                  "text": "Ein Sandstrand an der Küste unweit der historischen Festung Prinzenstein.",
+                  "category": "recreational",
+                  "coords": [
+                        0.993305,
+                        5.918898
+                  ]
+            },
+            {
+                  "name": "Emancipation Beach",
+                  "text": "Ein Küstenresort am Strand in der Umgebung von Fort Prinzenstein.",
+                  "category": "recreational",
+                  "coords": [
+                        0.994656,
+                        5.926184
+                  ]
+            },
+            {
+                  "name": "Fort Prinzenstein",
+                  "text": "Fort Prinzenstein ist eine historische dänische Küstenfestung in Keta, die während des Sklavenhandels genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        0.993544,
+                        5.92189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keta beach",
+                  "text": "Egy homokos partvidék a történelmi Fort Prinzenstein erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.993305,
+                        5.918898
+                  ]
+            },
+            {
+                  "name": "Emancipation Beach",
+                  "text": "Egy tengerparti üdülőhely a Fort Prinzenstein erőd környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.994656,
+                        5.926184
+                  ]
+            },
+            {
+                  "name": "Fort Prinzenstein",
+                  "text": "A Fort Prinzenstein egy történelmi dán tengerparti erőd Ketában, amelyet a rabszolgakereskedelem idején használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        0.993544,
+                        5.92189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keta beach",
+                  "text": "O plajă de nisip pe coastă, nu departe de fortul istoric Prinzenstein.",
+                  "category": "recreational",
+                  "coords": [
+                        0.993305,
+                        5.918898
+                  ]
+            },
+            {
+                  "name": "Emancipation Beach",
+                  "text": "O stațiune balneară pe plajă, în împrejurimile fortului Prinzenstein.",
+                  "category": "recreational",
+                  "coords": [
+                        0.994656,
+                        5.926184
+                  ]
+            },
+            {
+                  "name": "Fort Prinzenstein",
+                  "text": "Fort Prinzenstein este o fortăreață de coastă daneză istorică din Keta, folosită în timpul comerțului cu sclavi.",
+                  "category": "landmark",
+                  "coords": [
+                        0.993544,
+                        5.92189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keta beach",
+                  "text": "A sandy coastal beach situated near the historic Fort Prinzenstein.",
+                  "category": "recreational",
+                  "coords": [
+                        0.993305,
+                        5.918898
+                  ]
+            },
+            {
+                  "name": "Emancipation Beach",
+                  "text": "A coastal beach resort located in the vicinity of Fort Prinzenstein.",
+                  "category": "recreational",
+                  "coords": [
+                        0.994656,
+                        5.926184
+                  ]
+            },
+            {
+                  "name": "Fort Prinzenstein",
+                  "text": "Fort Prinzenstein is a historic Danish coastal fort in Keta, used during the era of the slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        0.993544,
+                        5.92189
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-TV",
     coords: [0.9856, 5.9208],
@@ -199,7 +802,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-apollonia-history-v2",
+    id: "fort-apollonia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Apollonia",
+                  "text": "Dieses britische Fort aus der Kolonialzeit an der ghanaischen Küste wurde im späten 18. Jahrhundert erbaut, um den Seehandel zu erleichtern.",
+                  "category": "castle",
+                  "coords": [
+                        -2.590069,
+                        4.987126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Apollonia",
+                  "text": "Ezt a gyarmati korszakból származó brit erődöt a ghánai tengerparton a 18. század végén építették a tengeri kereskedelem megkönnyítése érdekében.",
+                  "category": "castle",
+                  "coords": [
+                        -2.590069,
+                        4.987126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Apollonia",
+                  "text": "Acest fort britanic din perioada colonială de pe coasta ghaneză a fost construit la sfârșitul secolului al XVIII-lea pentru a facilita comerțul maritim.",
+                  "category": "castle",
+                  "coords": [
+                        -2.590069,
+                        4.987126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Apollonia",
+                  "text": "This colonial-era British fort on the Ghanaian coast was built in the late 18th century to facilitate maritime trade.",
+                  "category": "castle",
+                  "coords": [
+                        -2.590069,
+                        4.987126
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-WP",
     coords: [-2.6083, 4.9817],
@@ -265,7 +913,88 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-william-anomabu-history-v2",
+    id: "fort-william-anomabu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Amsterdam",
+                  "text": "Das auf einem markanten Hügel erbaute Fort Amsterdam ist eine anerkannte Kulturerbestätte (Klasse 1), die eine traurige Schlüsselrolle im transatlantischen Sklavenhandel spielte.",
+                  "category": "castle",
+                  "coords": [
+                        -1.093146,
+                        5.192396
+                  ]
+            },
+            {
+                  "name": "Fort William",
+                  "text": "Das über die Küste blickende Fort William ist eine imposante Burg aus der Kolonialzeit, die einst die europäischen Handelsinteressen in der Region sicherte.",
+                  "category": "castle",
+                  "coords": [
+                        -1.119005,
+                        5.174235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Amsterdam",
+                  "text": "A kiemelkedő dombra épült Amszterdam-erőd egy 1-es kategóriájú örökségvédelmi helyszín, amely sötét történelmi szerepet játszott a transzatlanti rabszolgakereskedelemben.",
+                  "category": "castle",
+                  "coords": [
+                        -1.093146,
+                        5.192396
+                  ]
+            },
+            {
+                  "name": "Fort William",
+                  "text": "A partvidékre néző Fort William egy impozáns gyarmati korabeli kastély, amely egykor az európai kereskedelmi érdekeket biztosította a régióban.",
+                  "category": "castle",
+                  "coords": [
+                        -1.119005,
+                        5.174235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Amsterdam",
+                  "text": "Construit pe un deal proeminent, Fortul Amsterdam este un sit de patrimoniu recunoscut (clasa 1), cu un rol istoric sumbru în comerțul transatlantic cu sclavi.",
+                  "category": "castle",
+                  "coords": [
+                        -1.093146,
+                        5.192396
+                  ]
+            },
+            {
+                  "name": "Fort William",
+                  "text": "Având vedere spre coastă, Fortul William este un castel impunător din epoca colonială, care asigura odinioară interesele comerciale europene din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        -1.119005,
+                        5.174235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Amsterdam",
+                  "text": "Built on a prominent hill, Fort Amsterdam is a recognized class-1 heritage site that played a grim historical role in the transatlantic slave trade.",
+                  "category": "castle",
+                  "coords": [
+                        -1.093146,
+                        5.192396
+                  ]
+            },
+            {
+                  "name": "Fort William",
+                  "text": "Overlooking the coastline, Fort William is an imposing colonial-era castle that once secured European merchant interests in the region.",
+                  "category": "castle",
+                  "coords": [
+                        -1.119005,
+                        5.174235
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-1.1189, 5.1744],
@@ -287,7 +1016,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kwame-nkrumah-mausoleum-history-v2",
+    id: "kwame-nkrumah-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kwame Nkrumah Memorial Park",
+                  "text": "Dieser landschaftlich gestaltete Park ehrt Ghanas ersten Präsidenten mit gepflegten Gärten, Wasserspielen und Bronzestatuen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.202886,
+                        5.54454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwame Nkrumah Memorial Park",
+                  "text": "Ez a parkosított emlékpark ápolt kertekkel, vízjátékokkal és bronzszobrokkal tiszteleg Ghána első elnöke előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.202886,
+                        5.54454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwame Nkrumah Memorial Park",
+                  "text": "Acest parc memorial amenajat îl onorează pe primul președinte al Ghanei cu grădini îngrijite, fântâni și statui de bronz.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.202886,
+                        5.54454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwame Nkrumah Memorial Park",
+                  "text": "This landscaped park honors Ghana's first president with manicured gardens, water features, and bronze statues.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.202886,
+                        5.54454
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-AA",
     coords: [-0.2025, 5.5444],
@@ -309,7 +1083,88 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "w-e-b-du-bois-centre-history-v2",
+    id: "w-e-b-du-bois-centre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drums N Barrels Beach and sports Resort",
+                  "text": "Ein Zufluchtsort an der Küste, der Entspannung am Strand mit aktiven Sporteinrichtungen verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089015,
+                        5.58536
+                  ]
+            },
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "Eine von Dänen erbaute Verteidigungsanlage, die 1787 entlang der Küste errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drums N Barrels Beach and sports Resort",
+                  "text": "Tengerparti kikapcsolódást aktív sportolási lehetőségekkel ötvöző tengerparti üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089015,
+                        5.58536
+                  ]
+            },
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "A tengerpart mentén 1787-ben emelt dán építésű védelmi erődítmény.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drums N Barrels Beach and sports Resort",
+                  "text": "O destinație de coastă care combină relaxarea pe plajă cu facilități sportive active.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089015,
+                        5.58536
+                  ]
+            },
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "O fortificație defensivă construită de danezi și înființată în anul 1787 de-a lungul coastei.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drums N Barrels Beach and sports Resort",
+                  "text": "A coastal getaway combining beachside relaxation with active sporting facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089015,
+                        5.58536
+                  ]
+            },
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "A Danish-built defensive fortification established in 1787 along the coastline.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-AA",
     coords: [-0.1691, 5.5861],
@@ -331,7 +1186,88 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "independence-square-accra-history-v2",
+    id: "independence-square-accra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Independence Arch",
+                  "text": "Dieser hochaufragende Triumphbogen auf dem Unabhängigkeitsplatz feiert die Befreiung der Nation von der Kolonialherrschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192409,
+                        5.54648
+                  ]
+            },
+            {
+                  "name": "Black Star Square",
+                  "text": "Dieser riesige öffentliche Platz dient als zentraler Versammlungsort für nationale Zeremonien, Gedenkfeiern und Militärparaden.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192566,
+                        5.547439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Independence Arch",
+                  "text": "Ez a Függetlenség terén magasba tornyosuló diadalív a nemzet gyarmati uralom alóli felszabadulását ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192409,
+                        5.54648
+                  ]
+            },
+            {
+                  "name": "Black Star Square",
+                  "text": "Ez a hatalmas köztér nemzeti ünnepségek, megemlékezések és katonai felvonulások fő gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192566,
+                        5.547439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Independence Arch",
+                  "text": "Acest arc de triumf impunător din Piața Independenței celebrează eliberarea națiunii de sub stăpânirea colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192409,
+                        5.54648
+                  ]
+            },
+            {
+                  "name": "Black Star Square",
+                  "text": "Această vastă piață publică servește drept loc central de adunare pentru ceremoniile naționale, comemorările și paradele militare.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192566,
+                        5.547439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Independence Arch",
+                  "text": "This towering triumphal arch on Independence Square celebrates the nation's liberation from colonial rule.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192409,
+                        5.54648
+                  ]
+            },
+            {
+                  "name": "Black Star Square",
+                  "text": "This vast public square serves as a central gathering place for national ceremonies, commemorations, and military parades.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.192566,
+                        5.547439
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-AA",
     coords: [-0.1925, 5.5486],
@@ -352,7 +1288,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       en: ["The construction of the square was completed in 1961.", "The grandstands can accommodate up to 30,000 spectators.", "The Independence Arch features the motto 'Freedom and Justice'.", "It houses the Eternal Flame of African Liberation, lit by Nkrumah.", "The square is the primary venue for Independence Day parades on March 6th.", "The Black Star Monument is a major landmark of pan-African significance."],
     }, image: "/poi-images/independence-square-accra-history-v2.webp"},
   {
-    id: "yaa-asantewaa-museum-history-v2",
+    id: "yaa-asantewaa-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Besease Traditional Shrine",
+                  "text": "Dieser denkmalgeschützte traditionelle Asante-Schrein in Besease besticht durch markante Strohdächer und kunstvoll geformte Lehmwände für indigene spirituelle Praktiken.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449621,
+                        6.723717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Besease Traditional Shrine",
+                  "text": "Ez a műemlékvédelem alatt álló hagyományos asanti szentély Beseaséban feltűnő nádtetőkkel és bonyolultan formált agyagfalakkal rendelkezik, amelyeket ősi spirituális gyakorlatokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449621,
+                        6.723717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Besease Traditional Shrine",
+                  "text": "Acest altar tradițional Asante de patrimoniu din Besease se mândrește cu acoperișuri de stuf și pereți din lut modelați complex, folosiți pentru practici spirituale indigene.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449621,
+                        6.723717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Besease Traditional Shrine",
+                  "text": "This heritage-listed traditional Asante shrine in Besease features striking thatched roofs and intricately molded clay walls used for indigenous spiritual practices.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449621,
+                        6.723717
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-AH",
     coords: [-1.5033, 6.7161],
@@ -396,7 +1377,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "gwollu-defence-wall-history-v2",
+    id: "gwollu-defence-wall-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gwolu Slave Defense Wall",
+                  "text": "Dieses Freilichtmuseum zeigt die Überreste kreisförmiger Lehmmauern, die im 19. Jahrhundert errichtet wurden, um die Gemeinde Gwollu vor Sklavenjägern zu schützen.",
+                  "category": "museum",
+                  "coords": [
+                        -2.219208,
+                        10.980749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gwolu Slave Defense Wall",
+                  "text": "Ez a szabadtéri múzeum azon 19. századi kör alakú vályogfalak maradványait mutatja be, amelyek Gwollu közösségét védték a rabszolgavadászoktól.",
+                  "category": "museum",
+                  "coords": [
+                        -2.219208,
+                        10.980749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gwolu Slave Defense Wall",
+                  "text": "Acest muzeu în aer liber prezintă rămășițele zidurilor circulare de noroi construite în secolul al XIX-lea pentru a proteja comunitatea Gwollu de vânătorii de sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        -2.219208,
+                        10.980749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gwolu Slave Defense Wall",
+                  "text": "This open-air museum features the remnants of circular mud walls built in the 19th century to protect the community of Gwollu from slave raiders.",
+                  "category": "museum",
+                  "coords": [
+                        -2.219208,
+                        10.980749
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-UW",
     coords: [-2.2217, 10.9753],
@@ -418,7 +1444,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "nalerigu-defence-wall-history-v2",
+    id: "nalerigu-defence-wall-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naa Yili Chief Palace",
+                  "text": "Der traditionelle königliche Palast Naa Yili in der Nähe der historischen Verteidigungsmauer von Nalerigu.",
+                  "category": "castle",
+                  "coords": [
+                        -0.369384,
+                        10.527403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naa Yili Chief Palace",
+                  "text": "A hagyományos Naa Yili királyi palota, amely a történelmi Nalerigu védőfal közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        -0.369384,
+                        10.527403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naa Yili Chief Palace",
+                  "text": "Palatul regal tradițional Naa Yili situat lângă istoricul zid de apărare Nalerigu.",
+                  "category": "castle",
+                  "coords": [
+                        -0.369384,
+                        10.527403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naa Yili Chief Palace",
+                  "text": "The traditional Naa Yili royal palace located near the historic Nalerigu Defence Wall.",
+                  "category": "castle",
+                  "coords": [
+                        -0.369384,
+                        10.527403
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-NE",
     coords: [-0.3639, 10.5283],
@@ -462,7 +1533,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "bono-manso-history-v2",
+    id: "bono-manso-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Offuman Asona Royal Palace Dampaaso",
+                  "text": "Der traditionelle königliche Asona-Palast in Dampaaso in der Nähe der historischen Stätte von Bono Manso.",
+                  "category": "castle",
+                  "coords": [
+                        -1.969833,
+                        7.787083
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Offuman Asona Royal Palace Dampaaso",
+                  "text": "A hagyományos Asona királyi palota Dampaasóban, Bono Manso történelmi helyszíne közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -1.969833,
+                        7.787083
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Offuman Asona Royal Palace Dampaaso",
+                  "text": "Palatul regal tradițional Asona situat în Dampaaso, lângă situl istoric Bono Manso.",
+                  "category": "castle",
+                  "coords": [
+                        -1.969833,
+                        7.787083
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Offuman Asona Royal Palace Dampaaso",
+                  "text": "The traditional Asona royal palace located in Dampaaso near the historic site of Bono Manso.",
+                  "category": "castle",
+                  "coords": [
+                        -1.969833,
+                        7.787083
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-BE",
     coords: [-1.9, 7.8],
@@ -506,7 +1622,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kintampo-complex-history-v2",
+    id: "kintampo-complex-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kintampo Waterfalls",
+                  "text": "Eine mehrstufige Wasserfallattraktion, die malerisch am Pumpum-Fluss in der Kintampo-Gegend hinabstürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.697966,
+                        8.089576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kintampo Waterfalls",
+                  "text": "Egy többlépcsős vízesés-látványosság, amely gyönyörűen zuhog le a Pumpum folyó mentén a Kintampo térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.697966,
+                        8.089576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kintampo Waterfalls",
+                  "text": "O atracție cu cascade pe mai multe niveluri care se prăbușește frumos de-a lungul râului Pumpum în zona Kintampo.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.697966,
+                        8.089576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kintampo Waterfalls",
+                  "text": "A multi-tiered waterfall attraction that cascades beautifully along the Pumpum river in the Kintampo area.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.697966,
+                        8.089576
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-BE",
     coords: [-1.7289, 8.0531],
@@ -527,7 +1688,232 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       en: ["Dates from approximately 2500 to 1500 BC", "Oldest evidence of farming in sub-Saharan Africa", "Features unique terracotta figurines and clay art", "Earliest evidence for the cultivation of cowpeas", "Provided proof of domesticating sheep and goats", "Stone axes show advanced prehistoric craftsmanship"],
     }, image: "/poi-images/kintampo-complex-history-v2.webp"},
   {
-    id: "prempeh-ii-museum-history-v2",
+    id: "prempeh-ii-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanoso stool house",
+                  "text": "Das Tanoso Stool House ist ein verehrter Aufbewahrungsort, der erbaut wurde, um die geschwärzten Ahnenstühle zu beherbergen und die spirituelle Abstammung lokaler Häuptlinge zu bewahren.",
+                  "category": "castle",
+                  "coords": [
+                        -1.689799,
+                        6.698008
+                  ]
+            },
+            {
+                  "name": "Prempeh II Jubilee Museum",
+                  "text": "Dieses Museum befindet sich im National Cultural Centre und verfügt über eine reiche Sammlung von Aschanti-Artefakten, darunter persönliche Gegenstände von König Prempeh II.",
+                  "category": "museum",
+                  "coords": [
+                        -1.630081,
+                        6.701612
+                  ]
+            },
+            {
+                  "name": "Okomfo Anokye Sword Site",
+                  "text": "Diese Stätte schützt das legendäre Schwert, das der Aschanti-Hohepriester Okomfo Anokye vor über 300 Jahren fest in den Boden rammte und das angeblich unbeweglich ist.",
+                  "category": "museum",
+                  "coords": [
+                        -1.629018,
+                        6.696416
+                  ]
+            },
+            {
+                  "name": "Komfo Anokye Statue",
+                  "text": "Diese beeindruckende Statue ist eine Hommage an Komfo Anokye, den legendären Hohepriester und Mitbegründer des mächtigen Aschanti-Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        -1.631204,
+                        6.698532
+                  ]
+            },
+            {
+                  "name": "Owabi Wildlife Sanctuary",
+                  "text": "Das Owabi Wildlife Sanctuary, das sich um einen ruhigen Stausee erstreckt, ist ein üppiges Waldreservat, das für seine vielfältigen heimischen Vogelpopulationen und endemischen Affen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -1.689219,
+                        6.740118
+                  ]
+            },
+            {
+                  "name": "Kumasi Zoological Gardens",
+                  "text": "Die Kumasi Zoological Gardens bieten Besuchern einen direkten Einblick in die westafrikanische Tierwelt und fungieren als wichtiges Naturschutzzentrum mitten im Herzen der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.626034,
+                        6.701393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanoso stool house",
+                  "text": "A Tanoso Stool-ház egy tisztelt szentély, amely a feketére festett ősi székeknek ad otthont, és megőrzi a helyi törzsfőnökök spirituális leszármazási vonalát.",
+                  "category": "castle",
+                  "coords": [
+                        -1.689799,
+                        6.698008
+                  ]
+            },
+            {
+                  "name": "Prempeh II Jubilee Museum",
+                  "text": "A Nemzeti Kulturális Központban található múzeum gazdag gyűjteménnyel rendelkezik asanti műtárgyakból, köztük II. Prempeh király személyes tárgyaiból.",
+                  "category": "museum",
+                  "coords": [
+                        -1.630081,
+                        6.701612
+                  ]
+            },
+            {
+                  "name": "Okomfo Anokye Sword Site",
+                  "text": "Ez a hely védi azt a legendás kardot, amelyet Okomfo Anokye asanti főpap több mint 300 éve szúrt a földbe, és amelyet állítólag lehetetlen kihúzni.",
+                  "category": "museum",
+                  "coords": [
+                        -1.629018,
+                        6.696416
+                  ]
+            },
+            {
+                  "name": "Komfo Anokye Statue",
+                  "text": "Ez a grandiózus szobor Komfo Anokye, a legendás főpap és a hatalmas Asanti Birodalom társalapítója előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -1.631204,
+                        6.698532
+                  ]
+            },
+            {
+                  "name": "Owabi Wildlife Sanctuary",
+                  "text": "A nyugodt víztározó köré épült Owabi Vadrezervátum egy buja erdei rezervátum, amely sokszínű őshonos madárpopulációjáról és endemikus majmairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -1.689219,
+                        6.740118
+                  ]
+            },
+            {
+                  "name": "Kumasi Zoological Gardens",
+                  "text": "A Kumasi Állatkert testközelből mutatja be a nyugat-afrikai vadvilágot, és fontos természetvédelmi központként működik a város szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.626034,
+                        6.701393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanoso stool house",
+                  "text": "Casa Tanoso Stool este un depozit venerat, construit pentru a adăposti scaunele ancestrale înnegrite și a păstra filiația spirituală a șefilor locali.",
+                  "category": "castle",
+                  "coords": [
+                        -1.689799,
+                        6.698008
+                  ]
+            },
+            {
+                  "name": "Prempeh II Jubilee Museum",
+                  "text": "Situat în incinta Centrului Cultural Național, acest muzeu se mândrește cu o colecție bogată de artefacte Ashanti, inclusiv efectele personale ale regelui Prempeh al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -1.630081,
+                        6.701612
+                  ]
+            },
+            {
+                  "name": "Okomfo Anokye Sword Site",
+                  "text": "Acest sit protejează sabia legendară înfiptă ferm în pământ de marele preot Ashanti Okomfo Anokye cu peste 300 de ani în urmă, despre care se spune că este de neclintit.",
+                  "category": "museum",
+                  "coords": [
+                        -1.629018,
+                        6.696416
+                  ]
+            },
+            {
+                  "name": "Komfo Anokye Statue",
+                  "text": "Această statuie măreață aduce un omagiu lui Komfo Anokye, legendarul mare preot și co-fondator al puternicului Imperiu Ashanti.",
+                  "category": "historical",
+                  "coords": [
+                        -1.631204,
+                        6.698532
+                  ]
+            },
+            {
+                  "name": "Owabi Wildlife Sanctuary",
+                  "text": "Centrat în jurul unui lac de acumulare liniștit, Sanctuarul Faunei Sălbatice Owabi este o rezervație forestieră luxuriantă, remarcată pentru populațiile sale diverse de păsări autohtone și maimuțe endemice.",
+                  "category": "natural",
+                  "coords": [
+                        -1.689219,
+                        6.740118
+                  ]
+            },
+            {
+                  "name": "Kumasi Zoological Gardens",
+                  "text": "Grădina Zoologică Kumasi oferă vizitatorilor o privire de aproape asupra faunei din Africa de Vest, acționând ca un centru crucial de conservare chiar în inima orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.626034,
+                        6.701393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanoso stool house",
+                  "text": "The Tanoso Stool House is a revered repository built to house the blackened ancestral stools and preserve the spiritual lineage of local chiefs.",
+                  "category": "castle",
+                  "coords": [
+                        -1.689799,
+                        6.698008
+                  ]
+            },
+            {
+                  "name": "Prempeh II Jubilee Museum",
+                  "text": "Situated within the National Cultural Centre, this museum boasts a rich collection of Ashanti artifacts including the personal effects of King Prempeh II.",
+                  "category": "museum",
+                  "coords": [
+                        -1.630081,
+                        6.701612
+                  ]
+            },
+            {
+                  "name": "Okomfo Anokye Sword Site",
+                  "text": "This site protects the legendary sword planted firmly in the ground by the Ashanti high priest Okomfo Anokye over 300 years ago, which is said to be immovable.",
+                  "category": "museum",
+                  "coords": [
+                        -1.629018,
+                        6.696416
+                  ]
+            },
+            {
+                  "name": "Komfo Anokye Statue",
+                  "text": "This grand statue pays homage to Komfo Anokye, the legendary high priest and co-founder of the powerful Ashanti Empire.",
+                  "category": "historical",
+                  "coords": [
+                        -1.631204,
+                        6.698532
+                  ]
+            },
+            {
+                  "name": "Owabi Wildlife Sanctuary",
+                  "text": "Centered around a tranquil reservoir, the Owabi Wildlife Sanctuary is a lush forest reserve noted for its diverse native bird populations and endemic monkeys.",
+                  "category": "natural",
+                  "coords": [
+                        -1.689219,
+                        6.740118
+                  ]
+            },
+            {
+                  "name": "Kumasi Zoological Gardens",
+                  "text": "The Kumasi Zoological Gardens offer visitors a close look at West African wildlife, acting as a crucial conservation center right in the heart of the city.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.626034,
+                        6.701393
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-AH",
     coords: [-1.6225, 6.6994],
@@ -549,7 +1935,88 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-st-jago-history-v2",
+    id: "fort-st-jago-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elmina Java Museum",
+                  "text": "Ein historisches Museum, das das Erbe der Belandas Hitam-Rekruten detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        -1.3468,
+                        5.099499
+                  ]
+            },
+            {
+                  "name": "Tropical International Beach",
+                  "text": "Ein sandiger Küstenstrand in der Nähe des historischen Fort St. Jago.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.299676,
+                        5.099724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elmina Java Museum",
+                  "text": "Egy történelmi múzeum, amely a Belandas Hitam újoncok örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.3468,
+                        5.099499
+                  ]
+            },
+            {
+                  "name": "Tropical International Beach",
+                  "text": "Egy homokos tengerparti strandterület a történelmi St. Jago erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.299676,
+                        5.099724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elmina Java Museum",
+                  "text": "Un muzeu istoric care detaliază moștenirea recruților Belandas Hitam.",
+                  "category": "museum",
+                  "coords": [
+                        -1.3468,
+                        5.099499
+                  ]
+            },
+            {
+                  "name": "Tropical International Beach",
+                  "text": "O zonă de plajă de coastă cu nisip situată aproape de istoricul Fort St. Jago.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.299676,
+                        5.099724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elmina Java Museum",
+                  "text": "A historical museum detailing the legacy of the Belandas Hitam recruits.",
+                  "category": "museum",
+                  "coords": [
+                        -1.3468,
+                        5.099499
+                  ]
+            },
+            {
+                  "name": "Tropical International Beach",
+                  "text": "A sandy coastal beach area located close to the historic Fort St. Jago.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.299676,
+                        5.099724
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-1.3469, 5.0847],
@@ -570,7 +2037,88 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       en: ["Built in the 1660s by the Dutch", "Never used for the purpose of the slave trade", "Served purely as a military defense position", "Oldest purely military building on the Gold Coast", "Listed as a UNESCO World Heritage site in 1979", "Offers a strategic view of Elmina and the sea"],
     }, image: "/poi-images/fort-st-jago-history-v2.webp"},
   {
-    id: "fort-victoria-cape-coast-history-v2",
+    id: "fort-victoria-cape-coast-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "Ein Küstenfreizeitkomplex, der Speise- und Spa-Einrichtungen zur Entspannung kombiniert.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "Ein historisches Aussichtsfort aus der Kolonialzeit auf einem Hügel, um das umliegende Küstengebiet zu überblicken.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "Egy tengerparti szabadidőkomplexum, amely étkezési és wellness-létesítményeket ötvöz a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "Egy történelmi, gyarmati korszakból származó kilátóerőd a hegyen, amely a környező partvidéket pásztázza.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "Un complex de agrement de coastă care combină facilități de luat masa și spa pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "Un fort istoric de observație din epoca colonială poziționat pe un deal pentru a supraveghea zona de coastă înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "A coastal leisure complex combining dining and spa facilities for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "A historic colonial-era lookout fort positioned on a hill to survey the surrounding coastal area.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-1.2481, 5.1053],
@@ -614,7 +2162,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-good-hope-history-v2",
+    id: "fort-good-hope-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adaa Chief's Palace",
+                  "text": "Der Adaa Chief's Palace ist ein traditioneller königlicher Komplex, der als administratives und kulturelles Zentrum für die lokale Führung dient.",
+                  "category": "castle",
+                  "coords": [
+                        -0.840594,
+                        5.357967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adaa Chief's Palace",
+                  "text": "Az Adaa törzsfőnök palotája egy hagyományos királyi komplexum, amely a helyi vezetés adminisztratív és kulturális központjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -0.840594,
+                        5.357967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adaa Chief's Palace",
+                  "text": "Palatul Șefului Adaa este un complex regal tradițional care servește drept inimă administrativă și culturală pentru conducerea locală.",
+                  "category": "castle",
+                  "coords": [
+                        -0.840594,
+                        5.357967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adaa Chief's Palace",
+                  "text": "The Adaa Chief's Palace is a traditional royal complex that serves as the administrative and cultural heart for local leadership.",
+                  "category": "castle",
+                  "coords": [
+                        -0.840594,
+                        5.357967
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-0.885, 5.3853],
@@ -636,7 +2229,52 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-patience-history-v2",
+    id: "fort-patience-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Diese auf einer felsigen Halbinsel erbaute, denkmalgeschützte Steinfestung wurde im 17. Jahrhundert zur Verteidigung der Küste errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        -0.72812,
+                        5.286158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Ezt a sziklás félszigeten épült, örökségvédelem alatt álló kőerődöt a 17. században emelték a partvidék védelmére.",
+                  "category": "castle",
+                  "coords": [
+                        -0.72812,
+                        5.286158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Construit pe o peninsulă stâncoasă, acest fort de piatră inclus în patrimoniu a fost ridicat în secolul al XVII-lea pentru a apăra coasta.",
+                  "category": "castle",
+                  "coords": [
+                        -0.72812,
+                        5.286158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Built on a rocky peninsula, this heritage-listed stone fort was constructed in the 17th century to defend the coastline.",
+                  "category": "castle",
+                  "coords": [
+                        -0.72812,
+                        5.286158
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GH-CP",
     coords: [-0.7247, 5.2831],

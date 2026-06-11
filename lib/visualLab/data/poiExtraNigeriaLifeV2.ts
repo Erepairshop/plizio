@@ -39,7 +39,52 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "ng-gashaka-gumti-life-v2",
+    id: "ng-gashaka-gumti-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaa Sangare Hill",
+                  "text": "Der Kaa Sangare Hill ist ein markanter geografischer Gipfel in der artenreichen Gashaka-Gumti-Region.",
+                  "category": "natural",
+                  "coords": [
+                        11.45,
+                        7.383333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaa Sangare Hill",
+                  "text": "A Kaa Sangare Hill egy kiemelkedő földrajzi csúcs a gazdag élővilágú Gashaka-Gumti régióban.",
+                  "category": "natural",
+                  "coords": [
+                        11.45,
+                        7.383333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaa Sangare Hill",
+                  "text": "Kaa Sangare Hill este un vârf geografic proeminent din regiunea cu biodiversitate ridicată Gashaka-Gumti.",
+                  "category": "natural",
+                  "coords": [
+                        11.45,
+                        7.383333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaa Sangare Hill",
+                  "text": "Kaa Sangare Hill is a prominent geographic peak rising within the biodiverse Gashaka-Gumti region.",
+                  "category": "natural",
+                  "coords": [
+                        11.45,
+                        7.383333
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NG-TA",
     coords: [11.5, 7.3333],
@@ -111,7 +156,196 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "ng-jos-wildlife-life-v2",
+    id: "ng-jos-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aliyu Akwe indoor theatre",
+                  "text": "Das Aliyu Akwe Indoor Theatre bietet eine geschlossene Bühne für Theateraufführungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.884781,
+                        9.967914
+                  ]
+            },
+            {
+                  "name": "Abuja hostel Gallery",
+                  "text": "Die Abuja Hostel Gallery ist eine Kunstgalerie, die Werke lokaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.886668,
+                        9.969491
+                  ]
+            },
+            {
+                  "name": "Village Head palace Kyan Rikkos",
+                  "text": "Der Palast in Kyan Rikkos dient als Residenz und administratives Zentrum des lokalen Dorfoberhauptes.",
+                  "category": "castle",
+                  "coords": [
+                        8.908746,
+                        9.90095
+                  ]
+            },
+            {
+                  "name": "Jos Museum",
+                  "text": "Das Jos Museum beherbergt eine bedeutende Sammlung prähistorischer Terrakotta-Figuren der Nok-Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        8.886564,
+                        9.91372
+                  ]
+            },
+            {
+                  "name": "Jos zoological garden",
+                  "text": "Der zoologische Garten von Jos beherbergt verschiedene Tierarten der afrikanischen Tierwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.885353,
+                        9.914864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aliyu Akwe indoor theatre",
+                  "text": "Az Aliyu Akwe fedett színház zárt színpadot kínál színházi előadások és kulturális rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        8.884781,
+                        9.967914
+                  ]
+            },
+            {
+                  "name": "Abuja hostel Gallery",
+                  "text": "Az Abuja Hostel Galéria egy művészeti galéria, amely helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.886668,
+                        9.969491
+                  ]
+            },
+            {
+                  "name": "Village Head palace Kyan Rikkos",
+                  "text": "A Kyan Rikkos-i palota a helyi falufőnök rezidenciájaként és közigazgatási központjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        8.908746,
+                        9.90095
+                  ]
+            },
+            {
+                  "name": "Jos Museum",
+                  "text": "A Jos Múzeum a Nok-kultúra történelem előtti terrakotta figuráinak jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.886564,
+                        9.91372
+                  ]
+            },
+            {
+                  "name": "Jos zoological garden",
+                  "text": "A josi állatkert az afrikai vadvilág különböző állatfajainak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        8.885353,
+                        9.914864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aliyu Akwe indoor theatre",
+                  "text": "Teatrul de interior Aliyu Akwe oferă o scenă închisă pentru spectacole de teatru și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.884781,
+                        9.967914
+                  ]
+            },
+            {
+                  "name": "Abuja hostel Gallery",
+                  "text": "Abuja Hostel Gallery este o galerie de artă care expune lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        8.886668,
+                        9.969491
+                  ]
+            },
+            {
+                  "name": "Village Head palace Kyan Rikkos",
+                  "text": "Palatul din Kyan Rikkos servește drept reședință și centru administrativ al șefului satului local.",
+                  "category": "castle",
+                  "coords": [
+                        8.908746,
+                        9.90095
+                  ]
+            },
+            {
+                  "name": "Jos Museum",
+                  "text": "Muzeul Jos găzduiește o colecție importantă de figurine preistorice din teracotă ale culturii Nok.",
+                  "category": "museum",
+                  "coords": [
+                        8.886564,
+                        9.91372
+                  ]
+            },
+            {
+                  "name": "Jos zoological garden",
+                  "text": "Grădina zoologică din Jos adăpostește diverse specii de animale din fauna africană.",
+                  "category": "recreational",
+                  "coords": [
+                        8.885353,
+                        9.914864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aliyu Akwe indoor theatre",
+                  "text": "The Aliyu Akwe indoor theatre provides an enclosed stage for theatrical performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        8.884781,
+                        9.967914
+                  ]
+            },
+            {
+                  "name": "Abuja hostel Gallery",
+                  "text": "The Abuja hostel Gallery is an art gallery that exhibits works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        8.886668,
+                        9.969491
+                  ]
+            },
+            {
+                  "name": "Village Head palace Kyan Rikkos",
+                  "text": "The palace in Kyan Rikkos serves as the residence and administrative center of the local village head.",
+                  "category": "castle",
+                  "coords": [
+                        8.908746,
+                        9.90095
+                  ]
+            },
+            {
+                  "name": "Jos Museum",
+                  "text": "The Jos Museum houses a significant collection of prehistoric terracotta figures from the Nok culture.",
+                  "category": "museum",
+                  "coords": [
+                        8.886564,
+                        9.91372
+                  ]
+            },
+            {
+                  "name": "Jos zoological garden",
+                  "text": "The Jos zoological garden houses various animal species from the African wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        8.885353,
+                        9.914864
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NG-PL",
     coords: [8.8833, 9.9],
@@ -147,7 +381,88 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "ng-lekkiconservation-life-v2",
+    id: "ng-lekkiconservation-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lekki Conservation Center",
+                  "text": "Das Lekki Conservation Center ist ein weitläufiger Naturpark mit einem langen, erhöhten Baumkronenpfad durch das Feuchtgebietsschutzgebiet.",
+                  "category": "park",
+                  "coords": [
+                        3.535625,
+                        6.43607
+                  ]
+            },
+            {
+                  "name": "Nike Art Gallery",
+                  "text": "Die Nike Art Gallery ist ein massiver, mehrstöckiger Galeriekomplex, der mit Tausenden von traditionellen und zeitgenössischen nigerianischen Kunstwerken gefüllt ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.48189,
+                        6.431521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lekki Conservation Center",
+                  "text": "A Lekki Conservation Center egy kiterjedt natúrpark, amely egy hosszú, megemelt lombkorona-sétánnyal rendelkezik a vizes élőhelyek rezervátumán keresztül.",
+                  "category": "park",
+                  "coords": [
+                        3.535625,
+                        6.43607
+                  ]
+            },
+            {
+                  "name": "Nike Art Gallery",
+                  "text": "A Nike Art Gallery egy hatalmas, többszintes galériakomplexum, amely tele van több ezer hagyományos és kortárs nigériai műalkotással.",
+                  "category": "museum",
+                  "coords": [
+                        3.48189,
+                        6.431521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lekki Conservation Center",
+                  "text": "Lekki Conservation Center este un parc natural extins care are o lungă pasarelă înălțată prin coronament prin rezervația de zone umede.",
+                  "category": "park",
+                  "coords": [
+                        3.535625,
+                        6.43607
+                  ]
+            },
+            {
+                  "name": "Nike Art Gallery",
+                  "text": "Nike Art Gallery este un complex de galerii masiv, pe mai multe etaje, plin cu mii de opere de artă nigeriene tradiționale și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        3.48189,
+                        6.431521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lekki Conservation Center",
+                  "text": "Lekki Conservation Center is a sprawling nature park featuring an extensive elevated canopy walkway through the wetland reserve.",
+                  "category": "park",
+                  "coords": [
+                        3.535625,
+                        6.43607
+                  ]
+            },
+            {
+                  "name": "Nike Art Gallery",
+                  "text": "The Nike Art Gallery is a massive multi-story gallery complex bursting with thousands of traditional and contemporary Nigerian artworks.",
+                  "category": "museum",
+                  "coords": [
+                        3.48189,
+                        6.431521
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "NG-LA",
     coords: [3.5, 6.4333],
@@ -183,7 +498,52 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "ng-ibadan-cocoa-life-v2",
+    id: "ng-ibadan-cocoa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Awosonso Dynasty",
+                  "text": "Diese monumentale Hommage feiert das Erbe und den historischen Einfluss der Awosonso-Dynastie in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        3.886918,
+                        7.375709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Awosonso Dynasty",
+                  "text": "Ez a monumentális tiszteletadás az Awosonso dinasztia örökségét és történelmi befolyását ünnepli a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        3.886918,
+                        7.375709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Awosonso Dynasty",
+                  "text": "Acest tribut monumental celebrează moștenirea și influența istorică a dinastiei Awosonso în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        3.886918,
+                        7.375709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Awosonso Dynasty",
+                  "text": "This monumental tribute celebrates the legacy and historical influence of the Awosonso Dynasty in the region.",
+                  "category": "historical",
+                  "coords": [
+                        3.886918,
+                        7.375709
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NG-OY",
     coords: [3.9, 7.37],
@@ -435,7 +795,52 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "ng-kwara-farm-life-v2",
+    id: "ng-kwara-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emir of Ilorinâ€™s Palace, Surulere Road, Ilorin, Nigeria",
+                  "text": "Dieser königliche Palast an der Surulere Road dient als traditionelle Residenz des Emirs von Ilorin.",
+                  "category": "castle",
+                  "coords": [
+                        4.54987,
+                        8.495821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emir of Ilorinâ€™s Palace, Surulere Road, Ilorin, Nigeria",
+                  "text": "A Surulere úton található királyi palota az ilorini emír hagyományos rezidenciájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        4.54987,
+                        8.495821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emir of Ilorinâ€™s Palace, Surulere Road, Ilorin, Nigeria",
+                  "text": "Situat pe strada Surulere, acest palat regal servește drept reședință tradițională pentru Emirul din Ilorin.",
+                  "category": "castle",
+                  "coords": [
+                        4.54987,
+                        8.495821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emir of Ilorinâ€™s Palace, Surulere Road, Ilorin, Nigeria",
+                  "text": "Located on Surulere Road, this royal palace serves as the traditional residence for the Emir of Ilorin.",
+                  "category": "castle",
+                  "coords": [
+                        4.54987,
+                        8.495821
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NG-KW",
     coords: [4.55, 8.5],
@@ -507,7 +912,124 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "ng-enugu-park-life-v2",
+    id: "ng-enugu-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aguagwa",
+                  "text": "Aguagwa ist eine lokale Naturattraktion in der Nähe von Enugu mit malerischen Landschaften, die charakteristisch für die sanften Hügel der Region sind.",
+                  "category": "landmark",
+                  "coords": [
+                        7.480702,
+                        6.415742
+                  ]
+            },
+            {
+                  "name": "ZION HILL",
+                  "text": "Zion Hill ist ein markanter erhöhter Aussichtspunkt in Enugu, der oft für spirituelle Rückzüge und Panoramablicke auf die Stadt besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        7.477617,
+                        6.408958
+                  ]
+            },
+            {
+                  "name": "National Museum of Unity",
+                  "text": "Das National Museum of Unity in Enugu bewahrt die Geschichte Nigerias nach dem Bürgerkrieg und zeigt verschiedene ethnische Artefakte zur Förderung der nationalen Harmonie.",
+                  "category": "museum",
+                  "coords": [
+                        7.486616,
+                        6.453072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aguagwa",
+                  "text": "Aguagwa egy helyi természeti látványosság Enugu közelében, amely a régió dombvidékére jellemző festői tájakkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.480702,
+                        6.415742
+                  ]
+            },
+            {
+                  "name": "ZION HILL",
+                  "text": "A Zion Hill egy kiemelkedő magaslati kilátó Enuguban, amelyet gyakran látogatnak spirituális elvonulások és panorámás városképek céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        7.477617,
+                        6.408958
+                  ]
+            },
+            {
+                  "name": "National Museum of Unity",
+                  "text": "Az enugui Nemzeti Egységmúzeum Nigéria polgárháború utáni történelmét őrzi, és a nemzeti harmónia előmozdítására tervezett változatos etnikai tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.486616,
+                        6.453072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aguagwa",
+                  "text": "Aguagwa este o atracție naturală locală lângă Enugu, oferind peisaje pitorești caracteristice dealurilor din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        7.480702,
+                        6.415742
+                  ]
+            },
+            {
+                  "name": "ZION HILL",
+                  "text": "Zion Hill este un punct de belvedere proeminent în Enugu, vizitat adesea pentru retrageri spirituale și vederi panoramice asupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        7.477617,
+                        6.408958
+                  ]
+            },
+            {
+                  "name": "National Museum of Unity",
+                  "text": "Muzeul Național al Unității din Enugu păstrează istoria Nigeriei de după războiul civil și expune diverse artefacte etnice menite să promoveze armonia națională.",
+                  "category": "museum",
+                  "coords": [
+                        7.486616,
+                        6.453072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aguagwa",
+                  "text": "Aguagwa is a local natural attraction near Enugu, featuring scenic landscapes characteristic of the region's rolling hills.",
+                  "category": "landmark",
+                  "coords": [
+                        7.480702,
+                        6.415742
+                  ]
+            },
+            {
+                  "name": "ZION HILL",
+                  "text": "Zion Hill is a prominent elevated viewpoint in Enugu, often visited for spiritual retreats and panoramic city views.",
+                  "category": "landmark",
+                  "coords": [
+                        7.477617,
+                        6.408958
+                  ]
+            },
+            {
+                  "name": "National Museum of Unity",
+                  "text": "The National Museum of Unity in Enugu preserves Nigeria's post-civil war history and showcases diverse ethnic artifacts designed to promote national harmony.",
+                  "category": "museum",
+                  "coords": [
+                        7.486616,
+                        6.453072
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "NG-EN",
     coords: [7.5, 6.45],
@@ -723,7 +1245,52 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     },
   },
   {
-    id: "ng-bauchi-orchard-life-v2",
+    id: "ng-bauchi-orchard-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "HAF-AZ",
+                  "text": "HAF-AZ ist ein lokales Theater und ein Veranstaltungsort in den grünen Obstgärten von Bauchi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.817342,
+                        10.290547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HAF-AZ",
+                  "text": "A HAF-AZ egy helyi színház és szórakozóhely Bauchi zöldellő gyümölcsös övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.817342,
+                        10.290547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HAF-AZ",
+                  "text": "HAF-AZ este un teatru local și o locație de divertisment din zonele pline de verdeață cu livezi din Bauchi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.817342,
+                        10.290547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HAF-AZ",
+                  "text": "HAF-AZ is a local theatre and entertainment venue located in the verdant orchard districts of Bauchi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.817342,
+                        10.290547
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "NG-BA",
     coords: [9.85, 10.3],

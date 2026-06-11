@@ -589,7 +589,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vila Stiassny",
-                  "text": "Funktionalistische Villa und Museum in Brünn.",
+                  "text": "Die 1929 von Ernst Wiesner entworfene funktionalistische Vila Stiassny in Brünn ist heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         16.572908,
@@ -634,7 +634,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Tugendhat",
-                  "text": "Weltberühmte funktionalistische Villa in Brünn.",
+                  "text": "1929 von Ludwig Mies van der Rohe erbautes Meisterwerk der modernen Architektur in Brünn.",
                   "category": "museum",
                   "coords": [
                         16.616084,
@@ -643,7 +643,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Jurkovičova vila",
-                  "text": "Villa entworfen von Dušan Jurkovič in Brünn.",
+                  "text": "Die 1906 von Dušan Jurkovič entworfene Jurkovičova vila in Brünn ist ein Jugendstilhaus und heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         16.576115,
@@ -697,7 +697,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Mönitzer Tor",
-                  "text": "Historisches Stadttor in Brünn.",
+                  "text": "Das aus dem späten 13. Jahrhundert stammende Měnínská brána in Brünn ist ein geschütztes Denkmal.",
                   "category": "fortress",
                   "coords": [
                         16.612698,
@@ -742,7 +742,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vereinshaus",
-                  "text": "Kultur- und Konzerthaus in Brünn.",
+                  "text": "Das 1869 von Theofil Hansen entworfene Besední dům in Brünn ist ein Kulturgebäude.",
                   "category": "cultural",
                   "coords": [
                         16.604203,
@@ -751,7 +751,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "J. A. Komenského",
-                  "text": "Evangelische Kirche in Brünn.",
+                  "text": "1867 von Heinrich Ferstel im neugotischen Stil erbaute evangelische Kirche in Brünn.",
                   "category": "religious",
                   "coords": [
                         16.603268,
@@ -805,7 +805,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Synagoga Agudas achim",
-                  "text": "Synagoge in Brünn.",
+                  "text": "Die 1936 von Otto Eisler entworfene Synagoge Agudas achim in Brünn ist ein geschütztes Denkmal.",
                   "category": "religious",
                   "coords": [
                         16.617672,
@@ -913,7 +913,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Kirche des Heiligsten Herzens Jesu in Brünn.",
+                  "text": "1910 von Karel Hugo Kepka im Jugendstil erbaute katholische Kirche in Brünn.",
                   "category": "religious",
                   "coords": [
                         16.630723,
@@ -1293,7 +1293,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vila Stiassny",
-                  "text": "Funkcionalista villa és múzeum Brünnben.",
+                  "text": "Az Ernst Wiesner által tervezett, 1929-ben épült funkcionalista Vila Stiassny Brnóban ma múzeum.",
                   "category": "museum",
                   "coords": [
                         16.572908,
@@ -1338,7 +1338,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vila Tugendhat",
-                  "text": "Világhírű funkcionalista villa Brünnben.",
+                  "text": "1929-ben Ludwig Mies van der Rohe által épített modern építészeti remekmű Brnóban.",
                   "category": "museum",
                   "coords": [
                         16.616084,
@@ -1347,7 +1347,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Jurkovičova vila",
-                  "text": "Dušan Jurkovič által tervezett villa Brünnben.",
+                  "text": "A Dušan Jurkovič által tervezett, 1906-ban épült Jurkovičova vila Brnóban szecessziós ház, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         16.576115,
@@ -1401,7 +1401,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Měnínská brána",
-                  "text": "Történelmi városkapu Brünnben.",
+                  "text": "A 13. század végéről származó Měnínská brána Brnóban műemlék.",
                   "category": "fortress",
                   "coords": [
                         16.612698,
@@ -1446,7 +1446,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Besední dům",
-                  "text": "Kulturális és koncertközpont Brünnben.",
+                  "text": "Az 1869-ben Theofil Hansen által tervezett Besední dům Brnóban kulturális épület.",
                   "category": "cultural",
                   "coords": [
                         16.604203,
@@ -1455,7 +1455,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "J. A. Komenského",
-                  "text": "Evangélikus templom Brünnben.",
+                  "text": "1867-ben Heinrich Ferstel által épített neogótikus evangélikus templom Brnóban.",
                   "category": "religious",
                   "coords": [
                         16.603268,
@@ -1509,7 +1509,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Synagoga Agudas achim",
-                  "text": "Zsinagóga Brünnben.",
+                  "text": "Az Otto Eisler által tervezett, 1936-ban épült Agudas achim zsinagóga Brnóban műemlék.",
                   "category": "religious",
                   "coords": [
                         16.617672,
@@ -1617,7 +1617,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Jézus Legszentebb Szíve templom Brünnben.",
+                  "text": "1910-ben Karel Hugo Kepka által épített szecessziós katolikus templom Brnóban.",
                   "category": "religious",
                   "coords": [
                         16.630723,
@@ -1997,7 +1997,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vila Stiassny",
-                  "text": "Vilă funcționalistă și muzeu în Brno.",
+                  "text": "Vila Stiassny din Brno, proiectată de Ernst Wiesner în 1929 în stil funcționalist, este acum muzeu.",
                   "category": "museum",
                   "coords": [
                         16.572908,
@@ -2042,7 +2042,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vila Tugendhat",
-                  "text": "Vilă funcționalistă de renume mondial în Brno.",
+                  "text": "Capodoperă a arhitecturii moderne construită în 1929 de Ludwig Mies van der Rohe în Brno.",
                   "category": "museum",
                   "coords": [
                         16.616084,
@@ -2051,7 +2051,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Jurkovičova vila",
-                  "text": "Vilă proiectată de Dušan Jurkovič în Brno.",
+                  "text": "Vila Jurkovičova din Brno, proiectată de Dušan Jurkovič în 1906 în stil Art Nouveau, este acum muzeu.",
                   "category": "museum",
                   "coords": [
                         16.576115,
@@ -2105,7 +2105,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Měnínská brána",
-                  "text": "Poartă istorică a orașului în Brno.",
+                  "text": "Poarta Měnínská brána din Brno, datând de la sfârșitul secolului al XIII-lea, este monument istoric.",
                   "category": "fortress",
                   "coords": [
                         16.612698,
@@ -2150,7 +2150,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Besední dům",
-                  "text": "Centru cultural și de concerte în Brno.",
+                  "text": "Besední dům din Brno, proiectat de Theofil Hansen în 1869, este o clădire culturală.",
                   "category": "cultural",
                   "coords": [
                         16.604203,
@@ -2159,7 +2159,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "J. A. Komenského",
-                  "text": "Biserică evanghelică în Brno.",
+                  "text": "Biserică evanghelică în stil neogotic construită în 1867 de Heinrich Ferstel în Brno.",
                   "category": "religious",
                   "coords": [
                         16.603268,
@@ -2213,7 +2213,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Synagoga Agudas achim",
-                  "text": "Sinagogă în Brno.",
+                  "text": "Sinagoga Agudas achim din Brno, proiectată de Otto Eisler în 1936, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         16.617672,
@@ -2321,7 +2321,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Biserica Preasfintei Inimi a lui Isus din Brno.",
+                  "text": "Biserică catolică în stil Art Nouveau construită în 1910 de Karel Hugo Kepka în Brno.",
                   "category": "religious",
                   "coords": [
                         16.630723,
@@ -2701,7 +2701,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vila Stiassny",
-                  "text": "Functionalist villa and museum in Brno.",
+                  "text": "Designed by Ernst Wiesner, this functionalist villa in Brno was built in 1929 and is now a museum.",
                   "category": "museum",
                   "coords": [
                         16.572908,
@@ -2746,7 +2746,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Vila Tugendhat",
-                  "text": "World-famous functionalist villa in Brno.",
+                  "text": "Built 1929 by Ludwig Mies van der Rohe, a masterpiece of modern architecture in Brno.",
                   "category": "museum",
                   "coords": [
                         16.616084,
@@ -2755,7 +2755,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Jurkovičova vila",
-                  "text": "Villa designed by Dušan Jurkovič in Brno.",
+                  "text": "Designed by Dušan Jurkovič, this art nouveau villa in Brno was built in 1906 and is now a museum.",
                   "category": "museum",
                   "coords": [
                         16.576115,
@@ -2809,7 +2809,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Měnínská brána",
-                  "text": "Historic city gate in Brno.",
+                  "text": "This late 13th-century gate tower in Brno is a listed heritage site.",
                   "category": "fortress",
                   "coords": [
                         16.612698,
@@ -2854,7 +2854,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Besední dům",
-                  "text": "Cultural and concert house in Brno.",
+                  "text": "Designed by Theofil Hansen, this cultural building in Brno opened in 1869.",
                   "category": "cultural",
                   "coords": [
                         16.604203,
@@ -2863,7 +2863,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "J. A. Komenského",
-                  "text": "Evangelical church in Brno.",
+                  "text": "Protestant church built 1867 in Neo-Gothic style by Heinrich Ferstel in Brno.",
                   "category": "religious",
                   "coords": [
                         16.603268,
@@ -2917,7 +2917,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Synagoga Agudas achim",
-                  "text": "Synagogue in Brno.",
+                  "text": "Designed by Otto Eisler, this synagogue in Brno was completed in 1936.",
                   "category": "religious",
                   "coords": [
                         16.617672,
@@ -3025,7 +3025,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Church of the Most Sacred Heart of Jesus in Brno.",
+                  "text": "Catholic church built 1910 in Art Nouveau style by Karel Hugo Kepka in Brno.",
                   "category": "religious",
                   "coords": [
                         16.630723,
@@ -7381,7 +7381,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "F. X. Šaldy Theater",
-                  "text": "Theater F. X. Šalda in Liberec.",
+                  "text": "1883 von Ferdinand Fellner und Hermann Helmer im Neorenaissance-Stil erbautes Theater in Reichenberg.",
                   "category": "cultural",
                   "coords": [
                         15.058819,
@@ -7390,7 +7390,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "MUZA | Nordböhmisches Museum Reichenberg",
-                  "text": "Nordböhmisches Museum in Liberec.",
+                  "text": "Das Nordböhmische Museum in Liberec wurde 1873 gegründet und ist denkmalgeschützt.",
                   "category": "museum",
                   "coords": [
                         15.068605,
@@ -7633,7 +7633,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel sv. Máří Magdalény",
-                  "text": "Kirche der Hl. Maria Magdalena in Liberec.",
+                  "text": "Die Kirche St. Maria Magdalena in Liberec wurde vom Architekten Max Kühn entworfen und ist denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         15.047896,
@@ -7860,7 +7860,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Divadlo F. X. Šaldy",
-                  "text": "F. X. Šalda Színház Liberecben.",
+                  "text": "1883-ban épült neoreneszánsz színház Liberecben, Ferdinand Fellner és Hermann Helmer tervezte.",
                   "category": "cultural",
                   "coords": [
                         15.058819,
@@ -7869,7 +7869,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "MUZA | Severočeské muzeum v Liberci",
-                  "text": "Észak-csehországi Múzeum Liberecben.",
+                  "text": "Az észak-csehországi múzeumot 1873-ban alapították Liberecben, műemlék.",
                   "category": "museum",
                   "coords": [
                         15.068605,
@@ -8112,7 +8112,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel sv. Máří Magdalény",
-                  "text": "Szent Mária Magdolna-templom Liberecben.",
+                  "text": "A libereci Szent Mária Magdolna templomot Max Kühn építész tervezte, műemlék.",
                   "category": "religious",
                   "coords": [
                         15.047896,
@@ -8339,7 +8339,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Divadlo F. X. Šaldy",
-                  "text": "Teatrul F. X. Šalda din Liberec.",
+                  "text": "Teatru în stil neorenascentist construit în 1883 de Ferdinand Fellner și Hermann Helmer în Liberec.",
                   "category": "cultural",
                   "coords": [
                         15.058819,
@@ -8348,7 +8348,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "MUZA | Severočeské muzeum v Liberci",
-                  "text": "Muzeul Boemiei de Nord din Liberec.",
+                  "text": "Muzeul Boemiei de Nord din Liberec, fondat în 1873, este monument istoric.",
                   "category": "museum",
                   "coords": [
                         15.068605,
@@ -8591,7 +8591,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel sv. Máří Magdalény",
-                  "text": "Biserica Sfânta Maria Magdalena din Liberec.",
+                  "text": "Biserica Sf. Maria Magdalena din Liberec, proiectată de arhitectul Max Kühn, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         15.047896,
@@ -8818,7 +8818,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Divadlo F. X. Šaldy",
-                  "text": "F. X. Šalda Theatre in Liberec.",
+                  "text": "Built 1883 in Neo-Renaissance style by Ferdinand Fellner and Hermann Helmer in Liberec.",
                   "category": "cultural",
                   "coords": [
                         15.058819,
@@ -8827,7 +8827,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "MUZA | The North Bohemian Museum",
-                  "text": "North Bohemian Museum in Liberec.",
+                  "text": "The North Bohemian Museum in Liberec, founded in 1873, is a heritage-listed museum.",
                   "category": "museum",
                   "coords": [
                         15.068605,
@@ -9070,7 +9070,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel sv. Máří Magdalény",
-                  "text": "Church of St. Mary Magdalene in Liberec.",
+                  "text": "The Church of St Mary Magdalene in Liberec, designed by architect Max Kühn, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         15.047896,
@@ -21421,7 +21421,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. Vojtěch",
-                  "text": "Die St.-Adalbert-Kirche in Troppau.",
+                  "text": "Die St.-Adalbert-Kirche in Opava wurde 1681 erbaut und steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         17.906207,
@@ -21648,7 +21648,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. Vojtěch",
-                  "text": "Szent Adalbert-templom Troppauban.",
+                  "text": "Az opavai Szent Adalbert templomot 1681-ben építették, műemlék.",
                   "category": "religious",
                   "coords": [
                         17.906207,
@@ -21875,7 +21875,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. Vojtěch",
-                  "text": "Biserica Sfântul Adalbert din Troppau.",
+                  "text": "Biserica Sfântul Adalbert din Opava, construită în 1681, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         17.906207,
@@ -22102,7 +22102,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. Vojtěch",
-                  "text": "Church of Saint Adalbert in Troppau.",
+                  "text": "The Church of Saint Adalbert in Opava, built in 1681, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         17.906207,
@@ -24253,7 +24253,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Skt. Jakobs des Älteren",
-                  "text": "Die St.-Jakobs-Kirche in Iglau.",
+                  "text": "Die Jakobskirche in Jihlava, erbaut 1379, ist eine gotische Kirche und denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         15.593375,
@@ -24624,7 +24624,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Svatý Jakub Větší",
-                  "text": "Szent Jakab-templom Iglau-ban.",
+                  "text": "A jihlavai Szent Jakab templomot 1379-ben építették, gótikus stílusú, műemlék.",
                   "category": "religious",
                   "coords": [
                         15.593375,
@@ -24995,7 +24995,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Svatý Jakub Větší",
-                  "text": "Biserica Sfântul Iacob din Iglau.",
+                  "text": "Biserica Sfântul Iacob din Jihlava, construită în 1379, în stil gotic, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         15.593375,
@@ -25366,7 +25366,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Svatý Jakub Větší",
-                  "text": "Church of Saint James in Iglau.",
+                  "text": "The Church of Saint James the Greater in Jihlava, built in 1379, is a Gothic heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         15.593375,
@@ -27506,7 +27506,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel svatého Václava",
-                  "text": "kostel svatého Václava ist eine bedeutende Andachtsstätte in der Stadt Tetschen.",
+                  "text": "Die St.-Wenzels-Kirche in Děčín (Rozbělesy) wurde von Kilian Ignaz Dientzenhofer entworfen und ist denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         14.202177,
@@ -27515,7 +27515,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "St. Franziskus",
-                  "text": "Die Church of Saint Francis of Assisi ist eine bekannte Andachtsstätte in Tetschen.",
+                  "text": "Die Kirche St. Franziskus von Assisi in Děčín (Podmokly) wurde von Josef Perthen entworfen und ist denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         14.198261,
@@ -27769,7 +27769,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel svatého Václava",
-                  "text": "A kostel svatého Václava egy jelentős vallási hely Tetschen városában.",
+                  "text": "A déčíni (Rozbělesy) Szent Vencel templomot Kilian Ignaz Dientzenhofer tervezte, műemlék.",
                   "category": "religious",
                   "coords": [
                         14.202177,
@@ -27778,7 +27778,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. František z Assisi",
-                  "text": "A Church of Saint Francis of Assisi egy ismert vallási hely Tetschenben.",
+                  "text": "A déčíni (Podmokly) Assisi Szent Ferenc templomot Josef Perthen tervezte, műemlék.",
                   "category": "religious",
                   "coords": [
                         14.198261,
@@ -28032,7 +28032,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel svatého Václava",
-                  "text": "kostel svatého Václava este un important lăcaș de cult situat în orașul Tetschen.",
+                  "text": "Biserica Sf. Václav din Děčín (Rozbělesy), proiectată de Kilian Ignaz Dientzenhofer, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         14.202177,
@@ -28041,7 +28041,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. František z Assisi",
-                  "text": "Church of Saint Francis of Assisi este un lăcaș de cult recunoscut din Tetschen.",
+                  "text": "Biserica Sf. Francisc de Assisi din Děčín (Podmokly), proiectată de Josef Perthen, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         14.198261,
@@ -28295,7 +28295,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel svatého Václava",
-                  "text": "kostel svatého Václava is a notable place of worship in the city of Tetschen.",
+                  "text": "The Church of Saint Wenceslaus in Děčín (Rozbělesy), designed by Kilian Ignaz Dientzenhofer, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         14.202177,
@@ -28304,7 +28304,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saint Francis of Assisi",
-                  "text": "The Church of Saint Francis of Assisi is a well-known place of worship located in Tetschen.",
+                  "text": "The Church of Saint Francis of Assisi in Děčín (Podmokly), designed by Josef Perthen, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         14.198261,
@@ -41333,7 +41333,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kamenný most",
-                  "text": "Kamenný most ist eine bekannte Brücke in der Stadt Pisek.",
+                  "text": "Die Steinerne Brücke in Písek, erbaut um 1275, ist die älteste Steinbrücke Tschechiens und denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         14.145614,
@@ -41596,7 +41596,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kamenný most",
-                  "text": "A Kamenný most egy ismert híd Pisek városában.",
+                  "text": "A píseki kőhidat 1275 körül építették, Csehország legrégebbi kőhídja, műemlék.",
                   "category": "landmark",
                   "coords": [
                         14.145614,
@@ -41859,7 +41859,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kamenný most",
-                  "text": "Kamenný most este un pod bine-cunoscut situat în orașul Pisek.",
+                  "text": "Podul de Piatră din Písek, construit în jurul anului 1275, este cel mai vechi pod de piatră din Cehia, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         14.145614,
@@ -42122,7 +42122,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kamenný most",
-                  "text": "Kamenný most is a well-known bridge located in the city of Pisek.",
+                  "text": "The Písek Stone Bridge, built around 1275, is the oldest stone bridge in Czechia and is heritage-listed.",
                   "category": "landmark",
                   "coords": [
                         14.145614,
@@ -49210,7 +49210,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kostel zvěstování Panny Marie",
-                  "text": "Kostel zvěstování Panny Marie ist eine anerkannte Kultstätte in Leitmeritz.",
+                  "text": "Die Kirche Mariä Verkündigung in Litoměřice wurde von Octavio Broggio entworfen und steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         14.133716,
@@ -49219,7 +49219,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "svaté Ludmily",
-                  "text": "Svaté Ludmily ist eine bemerkenswerte Kultstätte in Leitmeritz.",
+                  "text": "Die St.-Ludmilla-Kirche in Litoměřice wurde 1657 geweiht und ist denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         14.136333,
@@ -49228,7 +49228,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kapelle St. Johannes der Täufer",
-                  "text": "Die Chapel of St John the Baptist ist eine anerkannte Kultstätte in Leitmeritz.",
+                  "text": "Die Johanneskapelle in Litoměřice wurde von Giulio Broggio entworfen und ist denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         14.131183,
@@ -49237,7 +49237,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "St. Wenzel",
-                  "text": "Kostel sv. Václava ist eine markante Kultstätte in Leitmeritz.",
+                  "text": "Barocke Kirche aus dem 18. Jahrhundert in Leitmeritz, erbaut von Octavio Broggio.",
                   "category": "religious",
                   "coords": [
                         14.127162,
@@ -49246,7 +49246,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "St. Adalbert",
-                  "text": "Die Church of Saint Adalbert ist eine anerkannte Kultstätte in Leitmeritz.",
+                  "text": "Die St.-Adalbert-Kirche in Litoměřice wurde von Octavio Broggio entworfen und steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         14.127292,
@@ -49255,7 +49255,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel Vzkříšení Páně",
-                  "text": "Kostel Vzkříšení Páně ist eine bemerkenswerte Kultstätte in Leitmeritz.",
+                  "text": "1810 von Heinrich Hatzinger im Empire-Stil erbaute Kirche in Leitmeritz.",
                   "category": "religious",
                   "coords": [
                         14.150896,
@@ -49464,7 +49464,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kostel zvěstování Panny Marie",
-                  "text": "A Kostel zvěstování Panny Marie egy elismert istentiszteleti hely Leitmeritz városában.",
+                  "text": "A litoměřicei Angyali Üdvözlet templomot Octavio Broggio tervezte, műemlék.",
                   "category": "religious",
                   "coords": [
                         14.133716,
@@ -49473,7 +49473,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "svaté Ludmily",
-                  "text": "A svaté Ludmily egy nevezetes istentiszteleti hely Leitmeritz városában.",
+                  "text": "A litoměřicei Szent Ludmilla templomot 1657-ben szentelték fel, műemlék.",
                   "category": "religious",
                   "coords": [
                         14.136333,
@@ -49482,7 +49482,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kaple sv. Jana Křtitele",
-                  "text": "A Chapel of St John the Baptist egy elismert istentiszteleti hely Leitmeritz városában.",
+                  "text": "A litoměřicei Keresztelő Szent János kápolnát Giulio Broggio tervezte, műemlék.",
                   "category": "religious",
                   "coords": [
                         14.131183,
@@ -49491,7 +49491,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kostel sv. Václava",
-                  "text": "A Kostel sv. Václava egy kiemelkedő istentiszteleti hely Leitmeritz városában.",
+                  "text": "18. századi barokk templom Litoměřicében, Octavio Broggio építette.",
                   "category": "religious",
                   "coords": [
                         14.127162,
@@ -49500,7 +49500,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. Vojtěch",
-                  "text": "A Church of Saint Adalbert egy elismert istentiszteleti hely Leitmeritz városában.",
+                  "text": "A litoměřicei Szent Adalbert templomot Octavio Broggio tervezte, műemlék.",
                   "category": "religious",
                   "coords": [
                         14.127292,
@@ -49509,7 +49509,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel Vzkříšení Páně",
-                  "text": "A kostel Vzkříšení Páně egy nevezetes istentiszteleti hely Leitmeritz városában.",
+                  "text": "1810-ben Heinrich Hatzinger által épített empire stílusú templom Litoměřicében.",
                   "category": "religious",
                   "coords": [
                         14.150896,
@@ -49718,7 +49718,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kostel zvěstování Panny Marie",
-                  "text": "Kostel zvěstování Panny Marie este un lăcaș de cult recunoscut situat în Leitmeritz.",
+                  "text": "Biserica Buna Vestire din Litoměřice, proiectată de Octavio Broggio, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         14.133716,
@@ -49727,7 +49727,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "svaté Ludmily",
-                  "text": "Svaté Ludmily este un lăcaș de cult notabil situat în Leitmeritz.",
+                  "text": "Biserica Sf. Ludmila din Litoměřice, sfințită în 1657, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         14.136333,
@@ -49736,7 +49736,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kaple sv. Jana Křtitele",
-                  "text": "Chapel of St John the Baptist este un lăcaș de cult recunoscut situat în Leitmeritz.",
+                  "text": "Capela Sf. Ioan Botezătorul din Litoměřice, proiectată de Giulio Broggio, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         14.131183,
@@ -49745,7 +49745,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kostel sv. Václava",
-                  "text": "Kostel sv. Václava este un lăcaș de cult proeminent situat în Leitmeritz.",
+                  "text": "Biserică barocă din secolul al XVIII-lea în Litoměřice, construită de Octavio Broggio.",
                   "category": "religious",
                   "coords": [
                         14.127162,
@@ -49754,7 +49754,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "sv. Vojtěch",
-                  "text": "Church of Saint Adalbert este un lăcaș de cult recunoscut situat în Leitmeritz.",
+                  "text": "Biserica Sf. Adalbert din Litoměřice, proiectată de Octavio Broggio, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         14.127292,
@@ -49763,7 +49763,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel Vzkříšení Páně",
-                  "text": "Kostel Vzkříšení Páně este un lăcaș de cult notabil situat în Leitmeritz.",
+                  "text": "Biserică în stil Empire construită în 1810 de Heinrich Hatzinger în Litoměřice.",
                   "category": "religious",
                   "coords": [
                         14.150896,
@@ -49972,7 +49972,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kostel zvěstování Panny Marie",
-                  "text": "Kostel zvěstování Panny Marie is a recognized place of worship situated in Leitmeritz.",
+                  "text": "The Church of the Annunciation in Litoměřice, designed by Octavio Broggio, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         14.133716,
@@ -49981,7 +49981,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "svaté Ludmily",
-                  "text": "Svaté Ludmily is a notable place of worship located in Leitmeritz.",
+                  "text": "The Church of Saint Ludmila in Litoměřice, consecrated in 1657, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         14.136333,
@@ -49990,7 +49990,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Chapel of St John the Baptist",
-                  "text": "Chapel of St John the Baptist is a recognized place of worship situated in Leitmeritz.",
+                  "text": "The Chapel of Saint John the Baptist in Litoměřice, designed by Giulio Broggio, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         14.131183,
@@ -49999,7 +49999,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Kostel sv. Václava",
-                  "text": "Kostel sv. Václava is a prominent place of worship located in Leitmeritz.",
+                  "text": "Baroque church from the 18th century in Litoměřice, built by Octavio Broggio.",
                   "category": "religious",
                   "coords": [
                         14.127162,
@@ -50008,7 +50008,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saint Adalbert",
-                  "text": "Church of Saint Adalbert is a recognized place of worship situated in Leitmeritz.",
+                  "text": "The Church of Saint Adalbert in Litoměřice, designed by Octavio Broggio, is heritage-listed.",
                   "category": "religious",
                   "coords": [
                         14.127292,
@@ -50017,7 +50017,7 @@ export const czechrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "kostel Vzkříšení Páně",
-                  "text": "Kostel Vzkříšení Páně is a notable place of worship located in Leitmeritz.",
+                  "text": "Built 1810 in Empire style by Heinrich Hatzinger in Litoměřice.",
                   "category": "religious",
                   "coords": [
                         14.150896,

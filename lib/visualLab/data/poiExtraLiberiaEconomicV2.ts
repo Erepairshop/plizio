@@ -48,7 +48,52 @@ export const liberiaEconomicV2: POI[] = [
     image: "/poi-images/liberia-freeport-monrovia-economic-v2.webp",
   },
   {
-    id: "liberia-buchanan-port-economic-v2",
+    id: "liberia-buchanan-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Der Sunset Beach bietet einen weiten Blick auf den Atlantischen Ozean, direkt außerhalb des wirtschaftlichen Zentrums von Buchanan Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.03368,
+                        5.844047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "A Sunset Beach széles kilátást nyújt az Atlanti-óceánra, közvetlenül Buchanan kikötőjének gazdasági központja mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.03368,
+                        5.844047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Plaja Sunset oferă o vedere panoramică la Oceanul Atlantic, chiar în afara centrului economic al portului Buchanan.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.03368,
+                        5.844047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach offers a sweeping coastal view of the Atlantic Ocean just outside the economic hub of Buchanan Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.03368,
+                        5.844047
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "port",
     name: { de: "Hafen von Buchanan", hu: "Buchanani kikötő", ro: "Portul Buchanan", en: "Port of Buchanan" },
@@ -93,7 +138,88 @@ export const liberiaEconomicV2: POI[] = [
     image: "/poi-images/liberia-buchanan-port-economic-v2.webp",
   },
   {
-    id: "liberia-yekepa-mine-economic-v2",
+    id: "liberia-yekepa-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gbaam",
+                  "text": "Gbaam ist ein hoch aufragender Berggipfel mit Blick auf die wirtschaftlichen Bergbaubetriebe in der Region Yekepa.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52,
+                        7.563333
+                  ]
+            },
+            {
+                  "name": "Picnic area",
+                  "text": "Dieser Aussichtspunkt bietet einen ausgewiesenen Picknickplatz, von dem aus Besucher die umliegenden Landschaften der Yekepa-Mine beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        -8.518623,
+                        7.556055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gbaam",
+                  "text": "A Gbaam egy tornyosuló hegycsúcs, amely a Yekepa régió gazdasági bányászati műveleteire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52,
+                        7.563333
+                  ]
+            },
+            {
+                  "name": "Picnic area",
+                  "text": "Ez a kilátóhely egy kijelölt piknikezőhelyet kínál, ahonnan a látogatók megfigyelhetik a környező Yekepa bánya tájait.",
+                  "category": "natural",
+                  "coords": [
+                        -8.518623,
+                        7.556055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gbaam",
+                  "text": "Gbaam este un vârf impunător cu vedere spre operațiunile miniere economice din regiunea Yekepa.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52,
+                        7.563333
+                  ]
+            },
+            {
+                  "name": "Picnic area",
+                  "text": "Acest punct de belvedere oferă o zonă de picnic amenajată, de unde vizitatorii pot observa peisajele miniere din Yekepa.",
+                  "category": "natural",
+                  "coords": [
+                        -8.518623,
+                        7.556055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gbaam",
+                  "text": "Gbaam is a towering peak overlooking the economic mining operations in the Yekepa region.",
+                  "category": "natural",
+                  "coords": [
+                        -8.52,
+                        7.563333
+                  ]
+            },
+            {
+                  "name": "Picnic area",
+                  "text": "This viewpoint offers a designated picnic area where visitors can observe the surrounding Yekepa mine landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -8.518623,
+                        7.556055
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "mine",
     name: { de: "Yekepa Eisenmine", hu: "Yekepai vasércbánya", ro: "Mina de fier Yekepa", en: "Yekepa Iron Mine" },
@@ -363,7 +489,52 @@ export const liberiaEconomicV2: POI[] = [
     image: "/poi-images/liberia-cavalla-river-hydro-v2.webp",
   },
   {
-    id: "liberia-monrovia-industrial-park-v2",
+    id: "liberia-monrovia-industrial-park-v2", "sights": {
+      "de": [
+            {
+                  "name": "SKD",
+                  "text": "SKD ist ein Apartmentgebäude im Bezirk liberia-monrovia-industrial-park-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SKD",
+                  "text": "Az SKD egy apartmanház a liberia-monrovia-industrial-park-v2 negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SKD",
+                  "text": "SKD este o clădire de apartamente din districtul liberia-monrovia-industrial-park-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SKD",
+                  "text": "SKD is an apartment building located in the liberia-monrovia-industrial-park-v2 district.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "industry",
     name: { de: "Monrovia Industriepark", hu: "Monroviai ipari park", ro: "Parcul Industrial Monrovia", en: "Monrovia Industrial Park" },
@@ -1020,7 +1191,52 @@ export const liberiaEconomicV2: POI[] = [
     image: "/poi-images/liberia-webo-trade-hub-v2.webp",
   },
   {
-    id: "liberia-harper-port-v2",
+    id: "liberia-harper-port-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "Der Harper Video Club ist ein informeller lokaler Unterhaltungsort, an dem sich die Bewohner treffen, um Filme und Medienübertragungen anzusehen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "A Harper Video Club egy informális helyi szórakozóhely, ahol a lakosok összegyűlnek filmeket és médiaközvetítéseket nézni.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "Harper Video Club este un loc informal de divertisment local, unde rezidenții se adunau pentru a viziona filme și transmisiuni media.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "The Harper Video Club is an informal local entertainment venue where residents gather to watch films and media broadcasts.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "port",
     name: { de: "Hafen von Harper", hu: "Harper kikötője", ro: "Portul Harper", en: "Port of Harper" },

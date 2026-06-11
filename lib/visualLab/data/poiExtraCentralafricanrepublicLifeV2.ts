@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
   {
-    id: "dzanga-bai-life-v2",
+    id: "dzanga-bai-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dzanga Bai Mirador",
+                  "text": "Der Dzanga Bai Mirador ist eine erhöhte Aussichtsplattform, die Besuchern weite Panoramen über die Waldlichtung Dzanga Bai bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.364143,
+                        2.954314
+                  ]
+            },
+            {
+                  "name": "Parc national de Dzanga-Sangha",
+                  "text": "Der Dzanga-Sangha National Park ist ein bedeutendes Naturschutzgebiet, das für sein dichtes Regenwaldökosystem und seine bemerkenswerte Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.424344,
+                        2.937335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dzanga Bai Mirador",
+                  "text": "A Dzanga Bai Mirador egy magasított kilátó, amely széles panorámát nyújt a látogatóknak a Dzanga Bai erdei tisztásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.364143,
+                        2.954314
+                  ]
+            },
+            {
+                  "name": "Parc national de Dzanga-Sangha",
+                  "text": "A Dzanga-Sangha National Park egy kiemelkedő természetvédelmi terület, amelyet sűrű esőerdei ökoszisztémája és figyelemre méltó biológiai sokfélesége miatt ünnepelnek.",
+                  "category": "natural",
+                  "coords": [
+                        16.424344,
+                        2.937335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dzanga Bai Mirador",
+                  "text": "Dzanga Bai Mirador este o platformă de observare înaltă care oferă vizitatorilor o panoramă vastă asupra luminișului forestier Dzanga Bai.",
+                  "category": "natural",
+                  "coords": [
+                        16.364143,
+                        2.954314
+                  ]
+            },
+            {
+                  "name": "Parc national de Dzanga-Sangha",
+                  "text": "Dzanga-Sangha National Park este o rezervație naturală proeminentă, celebrată pentru ecosistemul său dens de pădure tropicală și biodiversitatea remarcabilă.",
+                  "category": "natural",
+                  "coords": [
+                        16.424344,
+                        2.937335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dzanga Bai Mirador",
+                  "text": "Dzanga Bai Mirador is an elevated viewing platform that provides visitors with sweeping panoramas over the Dzanga Bai forest clearing.",
+                  "category": "natural",
+                  "coords": [
+                        16.364143,
+                        2.954314
+                  ]
+            },
+            {
+                  "name": "Dzanga-Sangha National Park",
+                  "text": "Dzanga-Sangha National Park is a prominent nature reserve celebrated for its dense rainforest ecosystem and remarkable biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        16.424344,
+                        2.937335
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CF-SE",
     coords: [16.35, 2.9],
@@ -273,7 +354,52 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       fr: ["Spécialisé dans les variétés Robusta de haute qualité.", "La culture se fait souvent dans des jardins forestiers ombragés.", "Source de revenus importante pour les petits agriculteurs.", "La région est réputée pour sa culture du café."],
     }, image: "/poi-images/mbaiki-coffee-life-v2.webp"},
   {
-    id: "bangui-zoo-life-v2",
+    id: "bangui-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barthélémy Boganda",
+                  "text": "Dieses Denkmal ehrt Barthélémy Boganda, den Gründervater der Zentralafrikanischen Republik, und steht stolz nahe dem lebendigen Zentrum von Bangui.",
+                  "category": "historical",
+                  "coords": [
+                        18.572872,
+                        4.364283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barthélémy Boganda",
+                  "text": "Ez az emlékmű Barthélémy Boganda, a Közép-afrikai Köztársaság alapító atyja előtt tiszteleg, és büszkén áll Bangui nyüzsgő központja közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.572872,
+                        4.364283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barthélémy Boganda",
+                  "text": "Acest monument aduce un omagiu lui Barthélémy Boganda, părintele fondator al Republicii Centrafricane, stând cu mândrie lângă inima vibrantă a orașului Bangui.",
+                  "category": "historical",
+                  "coords": [
+                        18.572872,
+                        4.364283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barthélémy Boganda",
+                  "text": "This monument pays tribute to Barthélémy Boganda, the founding father of the Central African Republic, standing proudly near the vibrant heart of Bangui.",
+                  "category": "historical",
+                  "coords": [
+                        18.572872,
+                        4.364283
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CF-BGO",
     coords: [18.57, 4.37],

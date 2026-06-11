@@ -574,7 +574,7 @@ export const switzerlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Burg Oltigen",
-                  "text": "Ehemalige Burganlage im Kanton Bern in der Schweiz.",
+                  "text": "Burg Oltigen in Niederried bei Murten, eine Burg aus der Zeit um 1000 n. Chr.",
                   "category": "castle",
                   "coords": [
                         7.261947,
@@ -621,7 +621,7 @@ export const switzerlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Burg Oltigen",
-                  "text": "Egykori várhelyszín Svájcban, Bern kantonban.",
+                  "text": "Oltigen vára Niederried bei Murtenben, egy 1000 körül épült vár.",
                   "category": "castle",
                   "coords": [
                         7.261947,
@@ -668,7 +668,7 @@ export const switzerlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Burg Oltigen",
-                  "text": "Situl unei foste cetăți în cantonul Berna din Elveția.",
+                  "text": "Castelul Oltigen din Niederried lângă Murten, un castel datând din jurul anului 1000.",
                   "category": "castle",
                   "coords": [
                         7.261947,
@@ -715,7 +715,7 @@ export const switzerlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Burg Oltigen",
-                  "text": "Former castle site in the canton of Bern, Switzerland.",
+                  "text": "Burg Oltigen in Niederried bei Murten, a castle dating from around 1000 AD.",
                   "category": "castle",
                   "coords": [
                         7.261947,

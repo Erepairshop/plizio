@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraMaliHistoryV2: POI[] = [
   {
-    id: "mali-great-mosque-djenne-history-v2",
+    id: "mali-great-mosque-djenne-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaniana",
+                  "text": "Die archäologische Stätte enthält grundlegende Ausgrabungen, die antike Siedlungsmuster offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        -4.570283,
+                        13.912853
+                  ]
+            },
+            {
+                  "name": "Musée de Djenné",
+                  "text": "Das Museum präsentiert historische Artefakte, die mit der kontinuierlichen menschlichen Besiedlung der umliegenden Überschwemmungsgebiete in Verbindung stehen.",
+                  "category": "museum",
+                  "coords": [
+                        -4.55562,
+                        13.906375
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Djenné",
+                  "text": "Die 1907 begonnene und denkmalgeschützte Kultstätte ist als eines der größten Lehmziegelgebäude der Welt bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.555399,
+                        13.905103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaniana",
+                  "text": "A régészeti lelőhely olyan ősi ásatásokat tartalmaz, amelyek feltárják a korai településszerkezeteket.",
+                  "category": "historical",
+                  "coords": [
+                        -4.570283,
+                        13.912853
+                  ]
+            },
+            {
+                  "name": "Musée de Djenné",
+                  "text": "A múzeum a környező árterületek folyamatos emberi megtelepedésével kapcsolatos történelmi leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.55562,
+                        13.906375
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Djenné",
+                  "text": "Az 1907-ben indított, műemlékvédelem alatt álló istentiszteleti hely a világ egyik legnagyobb vályogtégla építményeként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.555399,
+                        13.905103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaniana",
+                  "text": "Situl arheologic conține excavații fundamentale care dezvăluie tiparele vechilor așezări.",
+                  "category": "historical",
+                  "coords": [
+                        -4.570283,
+                        13.912853
+                  ]
+            },
+            {
+                  "name": "Musée de Djenné",
+                  "text": "Muzeul prezintă artefacte istorice legate de locuirea umană continuă a câmpiilor inundabile din împrejurimi.",
+                  "category": "museum",
+                  "coords": [
+                        -4.55562,
+                        13.906375
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Djenné",
+                  "text": "Lăcașul de cult de patrimoniu, cu lucrări începute în 1907, este renumit ca fiind una dintre cele mai mari structuri din cărămidă de lut din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.555399,
+                        13.905103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaniana",
+                  "text": "The archaeological site contains foundational excavations that reveal ancient settlement patterns.",
+                  "category": "historical",
+                  "coords": [
+                        -4.570283,
+                        13.912853
+                  ]
+            },
+            {
+                  "name": "Musée de Djenné",
+                  "text": "The museum presents historical artifacts related to the continuous human habitation of the surrounding floodplains.",
+                  "category": "museum",
+                  "coords": [
+                        -4.55562,
+                        13.906375
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Djenné",
+                  "text": "The heritage-listed place of worship, initiated in 1907, is renowned as one of the largest mud-brick structures in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.555399,
+                        13.905103
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-5",
     coords: [-4.555, 13.906],
@@ -48,7 +165,124 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-sankore-mosque-history-v2",
+    id: "mali-sankore-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Dieses Denkmal befindet sich im historischen Viertel nahe der Sankoré-Moschee.",
+                  "category": "historical",
+                  "coords": [
+                        -3.00647,
+                        16.777142
+                  ]
+            },
+            {
+                  "name": "Flamme de la Paix",
+                  "text": "Dieses Friedensdenkmal ist ein markantes Wahrzeichen in der Region um die Sankoré-Moschee.",
+                  "category": "historical",
+                  "coords": [
+                        -3.013673,
+                        16.780465
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sankoré",
+                  "text": "Diese historische Kultstätte, auch bekannt als Sankoré-Madrasa, ist eines der alten Lernzentren von Timbuktu.",
+                  "category": "religious",
+                  "coords": [
+                        -3.005636,
+                        16.776002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Ez az emlékmű a Sankoré-mecset közelében, a történelmi negyedben található.",
+                  "category": "historical",
+                  "coords": [
+                        -3.00647,
+                        16.777142
+                  ]
+            },
+            {
+                  "name": "Flamme de la Paix",
+                  "text": "Ez a békeemlékmű egy kiemelkedő nevezetesség a Sankoré-mecset környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.013673,
+                        16.780465
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sankoré",
+                  "text": "Ez a történelmi istentiszteleti hely, más néven a Sankoré Madrasza, Timbuktu egyik ősi oktatási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -3.005636,
+                        16.776002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Acest monument se află în zona istorică din apropierea moscheii Sankoré.",
+                  "category": "historical",
+                  "coords": [
+                        -3.00647,
+                        16.777142
+                  ]
+            },
+            {
+                  "name": "Flamme de la Paix",
+                  "text": "Acest monument al păcii este un punct de reper proeminent în regiunea din jurul moscheii Sankoré.",
+                  "category": "historical",
+                  "coords": [
+                        -3.013673,
+                        16.780465
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sankoré",
+                  "text": "Acest lăcaș de cult istoric, cunoscut și sub numele de Madrasa Sankore, este unul dintre vechile centre de învățământ din Timbuktu.",
+                  "category": "religious",
+                  "coords": [
+                        -3.005636,
+                        16.776002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "This monument is located in the historic area near the Sankoré mosque.",
+                  "category": "historical",
+                  "coords": [
+                        -3.00647,
+                        16.777142
+                  ]
+            },
+            {
+                  "name": "Flamme de la Paix",
+                  "text": "This peace monument stands as a prominent landmark in the region around the Sankoré mosque.",
+                  "category": "historical",
+                  "coords": [
+                        -3.013673,
+                        16.780465
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sankoré",
+                  "text": "This historic place of worship, also known as the Sankore Madrasah, is one of the ancient learning centers of Timbuktu.",
+                  "category": "religious",
+                  "coords": [
+                        -3.005636,
+                        16.776002
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-6",
     coords: [-3.006, 16.777],
@@ -93,7 +327,88 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-djinguereber-mosque-history-v2",
+    id: "mali-djinguereber-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mission Culturelle de Tombouctou",
+                  "text": "Die Mission Culturelle de Tombouctou widmet sich der Erforschung und Erhaltung der antiken islamischen Manuskripte und des architektonischen Erbes der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.010725,
+                        16.771957
+                  ]
+            },
+            {
+                  "name": "Mission Culturelle",
+                  "text": "Diese Mission Culturelle fördert die traditionellen malischen Künste und hilft beim Schutz der historischen Lehmziegelarchitektur der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.007376,
+                        16.774698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mission Culturelle de Tombouctou",
+                  "text": "A Mission Culturelle de Tombouctou a város ősi iszlám kéziratainak és építészeti örökségének kutatásának és megőrzésének szentelte magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.010725,
+                        16.771957
+                  ]
+            },
+            {
+                  "name": "Mission Culturelle",
+                  "text": "Ez a Mission Culturelle a hagyományos mali művészeteket népszerűsíti, és segít a régió történelmi vályogépítészetének megőrzésében.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.007376,
+                        16.774698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mission Culturelle de Tombouctou",
+                  "text": "Mission Culturelle de Tombouctou este dedicată studierii și conservării manuscriselor islamice antice și a patrimoniului arhitectural al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.010725,
+                        16.771957
+                  ]
+            },
+            {
+                  "name": "Mission Culturelle",
+                  "text": "Această Misiune Culturală promovează artele tradiționale din Mali și ajută la protejarea arhitecturii istorice din cărămizi de noroi a regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.007376,
+                        16.774698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mission Culturelle de Tombouctou",
+                  "text": "The Mission Culturelle de Tombouctou is an institution dedicated to the preservation and study of the city's ancient Islamic manuscripts.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.010725,
+                        16.771957
+                  ]
+            },
+            {
+                  "name": "Mission Culturelle",
+                  "text": "This Mission Culturelle promotes traditional Malian arts and assists in safeguarding the historical mud-brick architecture of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.007376,
+                        16.774698
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-6",
     coords: [-3.008, 16.774],
@@ -138,7 +453,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-sidi-yahya-history-v2",
+    id: "mali-sidi-yahya-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Famille El Oumrany",
+                  "text": "Ein mit der lokalen Familie El Oumrany verbundener Aussichtspunkt, der Blicke über das historische Sidi-Yahya-Viertel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.005607,
+                        16.775889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Famille El Oumrany",
+                  "text": "A helyi El Oumrany családhoz köthető kilátópont, ahonnan kilátás nyílik a történelmi Sidi Yahya negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        -3.005607,
+                        16.775889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Famille El Oumrany",
+                  "text": "Un punct de belvedere asociat cu familia locală El Oumrany, care oferă priveliști asupra zonei istorice Sidi Yahya.",
+                  "category": "natural",
+                  "coords": [
+                        -3.005607,
+                        16.775889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Famille El Oumrany",
+                  "text": "A viewpoint associated with the local El Oumrany family, offering sights over the historic Sidi Yahya area.",
+                  "category": "natural",
+                  "coords": [
+                        -3.005607,
+                        16.775889
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-6",
     coords: [-3.006, 16.775],
@@ -183,7 +543,124 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-tomb-of-askia-history-v2",
+    id: "mali-tomb-of-askia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "Ein modernes Museum in Gao, das das reiche kulturelle Erbe und Artefakte der Sahelzone ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "Ein Veranstaltungsort für darstellende Künste, der zum pulsierenden kulturellen Leben nahe den historischen Stätten von Gao beiträgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tombeau des Askia",
+                  "text": "Ein UNESCO-Weltkulturerbe mit einem beeindruckenden 17 Meter hohen pyramidenförmigen Lehmziegelgrab in Gao.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044508,
+                        16.289507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "Egy modern gao-i múzeum, amely a Száhel-övezet gazdag kulturális örökségét és műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "Előadó-művészeti helyszín, amely hozzájárul a pezsgő kulturális élethez Gao történelmi helyszínei közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tombeau des Askia",
+                  "text": "Egy UNESCO Világörökségi helyszín, amely egy lenyűgöző, 17 méteres piramis alakú vályogtégla sírt foglal magában Gaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044508,
+                        16.289507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "Un muzeu modern din Gao care expune bogata moștenire culturală și artefactele din regiunea Sahelului.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "O locație pentru artele spectacolului care contribuie la viața culturală vibrantă de lângă siturile istorice din Gao.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tombeau des Askia",
+                  "text": "Un sit din Patrimoniul Mondial UNESCO, care prezintă un mormânt piramidal impresionant din cărămidă de noroi în Gao.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044508,
+                        16.289507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "A modern museum in Gao displaying the rich cultural heritage and artifacts of the Sahel region.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "A performing arts venue contributing to the vibrant cultural life near the historic sites of Gao.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tomb of Askia Unesco world heritage site",
+                  "text": "A UNESCO World Heritage site featuring a striking 17-meter pyramidal mud-brick tomb in Gao.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044508,
+                        16.289507
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-7",
     coords: [-0.046, 16.289],
@@ -228,7 +705,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-kouroukan-fouga-history-v2",
+    id: "mali-kouroukan-fouga-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "Diese Touristenattraktion würdigt den historischen Ort Kouroukan Fouga, an dem die Verfassung des Mali-Reiches festgelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "Ez a turisztikai helyszín Kouroukan Fouga történelmi helyszíne előtt tiszteleg, ahol a Mali Birodalom alkotmányát megalkották.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "Acest sit turistic onorează locația istorică a orașului Kouroukan Fouga, unde a fost stabilită constituția Imperiului Mali.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "This tourist site honors the historic location of Kouroukan Fouga, where the constitution of the Mali Empire was established.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-2",
     coords: [-8.411, 11.942],
@@ -318,7 +840,88 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-fort-medine-history-v2",
+    id: "mali-fort-medine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort de Médine",
+                  "text": "Das Fort de Médine ist eine bedeutende koloniale Festung, die für ihren steinernen Verteidigungswall bekannt ist und 1857 einer großen Belagerung standhielt.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.368257,
+                        14.376867
+                  ]
+            },
+            {
+                  "name": "Félou Falls",
+                  "text": "Die Félou-Wasserfälle sind eine mächtige Reihe von felsigen Stromschnellen, die nahe dem historischen Fort de Médine eine malerische Kaskade bilden.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.341278,
+                        14.355378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort de Médine",
+                  "text": "A Fort de Médine egy jelentős gyarmati erődítmény kőből épült védművekkel, amely egy nagy 1857-es ostrom elleni kitartásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.368257,
+                        14.376867
+                  ]
+            },
+            {
+                  "name": "Félou Falls",
+                  "text": "A Félou-vízesés egy erőteljes sziklás zuhatag, amely festői vízesést hoz létre a történelmi Fort de Médine közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.341278,
+                        14.355378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort de Médine",
+                  "text": "Fort de Médine este o importantă fortăreață colonială, cu ziduri de apărare din piatră, care a rezistat unui asediu major în 1857.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.368257,
+                        14.376867
+                  ]
+            },
+            {
+                  "name": "Félou Falls",
+                  "text": "Cascadele Félou reprezintă un set puternic de repezișuri stâncoase, formând o cascadă pitorească lângă istoricul Fort de Médine.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.341278,
+                        14.355378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort de Médine",
+                  "text": "Fort de Médine is a significant colonial fortress with stone defensive walls, renowned for withstanding a major siege in 1857.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.368257,
+                        14.376867
+                  ]
+            },
+            {
+                  "name": "Félou Falls",
+                  "text": "Félou Falls is a powerful set of rocky river rapids creating a scenic natural cascade near the historic Fort de Médine.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.341278,
+                        14.355378
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-1",
     coords: [-11.365, 14.375],
@@ -363,7 +966,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-tata-sikasso-history-v2",
+    id: "mali-tata-sikasso-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "Das historische Burggelände erinnert an die Ära der regionalen Herrscher in diesem Teil Malis.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "A történelmi kastély területe a regionális uralkodók korszakát idézi Mali ezen részén.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "Terenurile istorice ale castelului evocă epoca conducătorilor regionali din această parte a statului Mali.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "The historic castle grounds evoke the era of regional rulers in this part of Mali.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-3",
     coords: [-5.666, 11.317],
@@ -408,7 +1056,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-hamdallahi-ruins-history-v2",
+    id: "mali-hamdallahi-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église",
+                  "text": "Ein erhöhter Aussichtspunkt von einem historischen Kirchengebäude mit Blick auf die antiken Ruinen von Hamdallahi.",
+                  "category": "natural",
+                  "coords": [
+                        -4.063274,
+                        14.277706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église",
+                  "text": "Egy történelmi templomépületből nyíló magaslati kilátópont, amely Hamdallahi ősi romjaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        -4.063274,
+                        14.277706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église",
+                  "text": "Un punct de belvedere înalt dintr-o structură istorică de biserică, cu vedere spre ruinele antice din Hamdallahi.",
+                  "category": "natural",
+                  "coords": [
+                        -4.063274,
+                        14.277706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church",
+                  "text": "An elevated viewpoint from a historic church structure overlooking the ancient ruins of Hamdallahi.",
+                  "category": "natural",
+                  "coords": [
+                        -4.063274,
+                        14.277706
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-5",
     coords: [-4.113, 14.238],
@@ -453,7 +1146,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-kamablon-kangaba-history-v2",
+    id: "mali-kamablon-kangaba-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fara Dje",
+                  "text": "Fara Dje ist eine lokale Attraktion im historisch bedeutsamen Kangaba, das für seine tiefen Wurzeln in der Manding-Kultur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fara Dje",
+                  "text": "A Fara Dje egy helyi látványosság a történelmileg gazdag Kangaba területén, amely a manding kultúrában gyökerezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fara Dje",
+                  "text": "Fara Dje este o atracție locală din zona bogată istoric Kangaba, cunoscută pentru rădăcinile sale adânci în cultura mandingă.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fara Dje",
+                  "text": "Fara Dje is a local attraction set in the historically rich Kangaba area, known for its deep roots in Manding culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-2",
     coords: [-8.410, 11.938],
@@ -498,7 +1236,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-tondidarou-megaliths-history-v2",
+    id: "mali-tondidarou-megaliths-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "Ein Museum, das dem Leben und Erbe des legendären malischen Musikers Ali Farka Touré gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -3.96965,
+                        15.943463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "A legendás mali zenész, Ali Farka Touré életének és örökségének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -3.96965,
+                        15.943463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "Un muzeu dedicat vieții și moștenirii legendarului muzician malian Ali Farka Touré.",
+                  "category": "museum",
+                  "coords": [
+                        -3.96965,
+                        15.943463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "A museum dedicated to the life and legacy of the legendary Malian musician Ali Farka Touré.",
+                  "category": "museum",
+                  "coords": [
+                        -3.96965,
+                        15.943463
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-6",
     coords: [-3.933, 15.916],
@@ -588,7 +1371,88 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-djenne-djenno-history-v2",
+    id: "mali-djenne-djenno-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djenne-Djeno",
+                  "text": "Diese ausgedehnte archäologische Stätte enthält die terrassierten Überreste einer städtischen Siedlung, die Jahrtausende alt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540336,
+                        13.890151
+                  ]
+            },
+            {
+                  "name": "Hambarkétolo",
+                  "text": "Ausgrabungen an dieser archäologischen Stätte bringen vielschichtige Beweise für alten westafrikanischen Handel und Besiedlung zutage.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540466,
+                        13.895717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djenné-Djenno",
+                  "text": "Ez a kiterjedt régészeti lelőhely egy több ezer éves múltra visszatekintő városi település teraszos maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540336,
+                        13.890151
+                  ]
+            },
+            {
+                  "name": "Hambarkétolo",
+                  "text": "Az ezen a régészeti lelőhelyen végzett ásatások az ősi nyugat-afrikai kereskedelem és lakhatás rétegzett bizonyítékait tárják fel.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540466,
+                        13.895717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djenné-Djenno",
+                  "text": "Acest vast sit arheologic conține rămășițele terasate ale unei așezări urbane care datează de mii de ani.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540336,
+                        13.890151
+                  ]
+            },
+            {
+                  "name": "Hambarkétolo",
+                  "text": "Excavațiile din acest sit arheologic scot la iveală dovezi stratificate ale vechiului comerț și locuirii din Africa de Vest.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540466,
+                        13.895717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djenné-Djenno",
+                  "text": "This extensive archaeological site contains the terraced remnants of an urban settlement dating back thousands of years.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540336,
+                        13.890151
+                  ]
+            },
+            {
+                  "name": "Hambarkétolo",
+                  "text": "Excavations at this archaeological site uncover layered evidence of ancient West African trade and habitation.",
+                  "category": "historical",
+                  "coords": [
+                        -4.540466,
+                        13.895717
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-5",
     coords: [-4.542, 13.886],
@@ -723,7 +1587,124 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-segou-koro-history-v2",
+    id: "mali-segou-koro-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balanzan Ségou",
+                  "text": "Dieses Denkmal ist nach den ikonischen Balanzan-Bäumen benannt, die die historische Landschaft von Ségou prägen.",
+                  "category": "historical",
+                  "coords": [
+                        -6.322979,
+                        13.414558
+                  ]
+            },
+            {
+                  "name": "centre culturel KORE",
+                  "text": "Das Kulturzentrum KORE in Ségou fördert lokale Künste und das kulturelle Erbe innerhalb der historischen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.313097,
+                        13.4212
+                  ]
+            },
+            {
+                  "name": "Palais de Biton Coulibaly",
+                  "text": "Die Überreste dieses Palastes dienen als historisches Zeugnis für Biton Coulibaly, den Gründer des Bamana-Reiches in Ségou.",
+                  "category": "castle",
+                  "coords": [
+                        -6.353168,
+                        13.396982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balanzan Ségou",
+                  "text": "Ez az emlékmű az ikonikus balanzan fákról kapta a nevét, amelyek Ségou történelmi tájára jellemzőek.",
+                  "category": "historical",
+                  "coords": [
+                        -6.322979,
+                        13.414558
+                  ]
+            },
+            {
+                  "name": "centre culturel KORE",
+                  "text": "A ségou-i KORE kulturális központ a helyi művészeteket és az örökséget népszerűsíti a történelmi városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.313097,
+                        13.4212
+                  ]
+            },
+            {
+                  "name": "Palais de Biton Coulibaly",
+                  "text": "A palota romjai történelmi tanúsítványként szolgálnak Biton Coulibaly, a Bamana Birodalom ségou-i alapítója számára.",
+                  "category": "castle",
+                  "coords": [
+                        -6.353168,
+                        13.396982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balanzan Ségou",
+                  "text": "Acest monument este numit după copacii emblematici balanzan, care caracterizează peisajul istoric din Ségou.",
+                  "category": "historical",
+                  "coords": [
+                        -6.322979,
+                        13.414558
+                  ]
+            },
+            {
+                  "name": "centre culturel KORE",
+                  "text": "Centrul cultural KORE din Ségou promovează artele și patrimoniul local în cadrul orașului istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.313097,
+                        13.4212
+                  ]
+            },
+            {
+                  "name": "Palais de Biton Coulibaly",
+                  "text": "Rămășițele acestui palat servesc drept mărturie istorică pentru Biton Coulibaly, fondatorul Imperiului Bamana din Ségou.",
+                  "category": "castle",
+                  "coords": [
+                        -6.353168,
+                        13.396982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balanzan Ségou",
+                  "text": "This monument is named after the iconic balanzan trees that characterize the historic landscape of Ségou.",
+                  "category": "historical",
+                  "coords": [
+                        -6.322979,
+                        13.414558
+                  ]
+            },
+            {
+                  "name": "centre culturel KORE",
+                  "text": "The KORE cultural centre in Ségou promotes local arts and heritage within the historic city.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.313097,
+                        13.4212
+                  ]
+            },
+            {
+                  "name": "Palais de Biton Coulibaly",
+                  "text": "The remains of this palace serve as a historical testament to Biton Coulibaly, founder of the Bamana Empire in Ségou.",
+                  "category": "castle",
+                  "coords": [
+                        -6.353168,
+                        13.396982
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-4",
     coords: [-6.326, 13.393],
@@ -768,7 +1749,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-gao-saney-history-v2",
+    id: "mali-gao-saney-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gao Saney",
+                  "text": "Diese bedeutende archäologische Stätte in der Nähe von Gao zeugt von der reichen Geschichte Malis.",
+                  "category": "historical",
+                  "coords": [
+                        0.057262,
+                        16.30381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gao Saney",
+                  "text": "Ez a Gao közelében található jelentős régészeti lelőhely Mali gazdag történelméről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        0.057262,
+                        16.30381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gao Saney",
+                  "text": "Acest important sit arheologic de lângă Gao stă mărturie despre istoria bogată a statului Mali.",
+                  "category": "historical",
+                  "coords": [
+                        0.057262,
+                        16.30381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gao Saney",
+                  "text": "This significant archaeological site near Gao bears witness to the rich history of Mali.",
+                  "category": "historical",
+                  "coords": [
+                        0.057262,
+                        16.30381
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-7",
     coords: [-0.005, 16.273],
@@ -813,7 +1839,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-markala-dam-history-v2",
+    id: "mali-markala-dam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djegueba",
+                  "text": "Dieses lokale Denkmal steht in dem Gebiet, das durch den historischen Bau des Markala-Staudamms geprägt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djegueba",
+                  "text": "Ez a helyi emlékmű a Markala-gát történelmi építése által formált területen áll.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djegueba",
+                  "text": "Acest monument local se află în zona modelată de construcția istorică a barajului Markala.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djegueba",
+                  "text": "This local monument stands in the area shaped by the historic construction of the Markala Dam.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-4",
     coords: [-6.071, 13.682],
@@ -948,7 +2019,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-modibo-keita-memorial-history-v2",
+    id: "mali-modibo-keita-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "26.March Monument",
+                  "text": "Dieses historische Denkmal markiert die Ereignisse vom 26. März, die Malis moderne politische Landschaft und Demokratie geprägt haben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.995114,
+                        12.635781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "26.March Monument",
+                  "text": "Ez a történelmi emlékmű a március 26-i eseményeket örökíti meg, amelyek formálták Mali modern politikai tájképét és demokráciáját.",
+                  "category": "historical",
+                  "coords": [
+                        -7.995114,
+                        12.635781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "26.March Monument",
+                  "text": "Acest monument istoric marchează evenimentele din 26 martie care au modelat peisajul politic modern și democrația din Mali.",
+                  "category": "historical",
+                  "coords": [
+                        -7.995114,
+                        12.635781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "26.March Monument",
+                  "text": "This historical monument marks the March 26 events that shaped Mali's modern political landscape and democracy.",
+                  "category": "historical",
+                  "coords": [
+                        -7.995114,
+                        12.635781
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-BKO",
     coords: [-7.994, 12.637],
@@ -993,7 +2109,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-independence-monument-history-v2",
+    id: "mali-independence-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale du Sacré-Coeur-de-Jesus",
+                  "text": "Diese im Jahr 1936 fertiggestellte katholische Kathedrale ist ein wichtiges historisches Wahrzeichen in der Nähe des Unabhängigkeitsdenkmals von Bamako.",
+                  "category": "religious",
+                  "coords": [
+                        -7.999325,
+                        12.643692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale du Sacré-Coeur-de-Jesus",
+                  "text": "Az 1936-ban elkészült katolikus katedrális jelentős történelmi nevezetesség Bamako függetlenségi emlékműve közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.999325,
+                        12.643692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale du Sacré-Coeur-de-Jesus",
+                  "text": "Finalizată în 1936, această catedrală catolică este un reper istoric major în apropierea Monumentului Independenței din Bamako.",
+                  "category": "religious",
+                  "coords": [
+                        -7.999325,
+                        12.643692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale du Sacré-Coeur-de-Jesus",
+                  "text": "Completed in 1936, this Catholic cathedral stands as a major historic landmark near Bamako's Independence Monument.",
+                  "category": "religious",
+                  "coords": [
+                        -7.999325,
+                        12.643692
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-BKO",
     coords: [-8.001, 12.641],
@@ -1083,7 +2244,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-bougouni-colonial-buildings-history-v2",
+    id: "mali-bougouni-colonial-buildings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "Das Centre Culturel Siraba TOGOLA dient der Region Bougouni als Treffpunkt für Theateraufführungen und die Präsentation lokaler Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.484556,
+                        11.421701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "A Centre Culturel Siraba TOGOLA a bougouni régió központjaként szolgál színházi előadásokhoz és a helyi művészet bemutatásához.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.484556,
+                        11.421701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "Centrul Cultural Siraba TOGOLA servește regiunea Bougouni ca loc de întâlnire pentru spectacole de teatru și prezentarea artei locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.484556,
+                        11.421701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "The Centre Culturel Siraba TOGOLA serves the Bougouni area as a gathering place for theatrical performances and local art showcases.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.484556,
+                        11.421701
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-3",
     coords: [-7.476, 11.418],
@@ -1128,7 +2334,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-segou-old-walls-history-v2",
+    id: "mali-segou-old-walls-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "Das Museum zeigt eine beeindruckende Sammlung traditioneller Masken und Marionnetten, die bei lokalen Zeremonien verwendet werden.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277548,
+                        13.437131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "A múzeum egy lenyűgöző gyűjteményt állít ki a helyi szertartásokon használt hagyományos maszkokból és bábokból.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277548,
+                        13.437131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "Muzeul expune o colecție impresionantă de măști și marionete tradiționale folosite în ceremoniile locale.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277548,
+                        13.437131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "The museum exhibits an impressive collection of traditional masks and puppets used in local ceremonies.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277548,
+                        13.437131
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-4",
     coords: [-6.273, 13.441],
@@ -1173,7 +2424,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-bamako-artisan-house-history-v2",
+    id: "mali-bamako-artisan-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Thiaroye",
+                  "text": "Dieses Steindenkmal erinnert an die Tragödie des Thiaroye-Massakers an westafrikanischen Tirailleuren.",
+                  "category": "historical",
+                  "coords": [
+                        -7.998816,
+                        12.645403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Thiaroye",
+                  "text": "Ez a kőemlékmű a nyugat-afrikai lövészek thiaroye-i mészárlásának tragédiájának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -7.998816,
+                        12.645403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Thiaroye",
+                  "text": "Acest monument de piatră comemorează tragedia masacrului de la Thiaroye al trăgătorilor vest-africani.",
+                  "category": "historical",
+                  "coords": [
+                        -7.998816,
+                        12.645403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Thiaroye",
+                  "text": "This stone monument commemorates the tragedy of the Thiaroye massacre of West African tirailleurs.",
+                  "category": "historical",
+                  "coords": [
+                        -7.998816,
+                        12.645403
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-BKO",
     coords: [-7.995, 12.645],
@@ -1263,7 +2559,52 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-old-port-mopti-history-v2",
+    id: "mali-old-port-mopti-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "Diese denkmalgeschützte Kultstätte weist die charakteristische regionale Moscheenarchitektur auf.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196714,
+                        14.493759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "Ez a műemlékvédelem alatt álló istentiszteleti hely jellegzetes regionális mecsetépítészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196714,
+                        14.493759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "Acest lăcaș de cult, clasat ca monument de patrimoniu, prezintă o arhitectură regională caracteristică moscheilor.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196714,
+                        14.493759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "This heritage-listed place of worship features characteristic regional mosque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196714,
+                        14.493759
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-5",
     coords: [-4.195, 14.493],
@@ -1308,7 +2649,160 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
   },
   {
-    id: "mali-kayes-railway-station-history-v2",
+    id: "mali-kayes-railway-station-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "Die Ancienne Salle Massa Makan Diabaté De Kayes ist ein altes Theatergebäude, das einst als Bühne für lokale Vorstellungen diente.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "Das Stade Bassi Coulibaly ist ein weitläufiges Stadion und Freizeitgelände im Freien, das Platz für große Versammlungen in der Nähe des Bahnhofs Kayes bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "Das Monument du Buffle ist eine markante öffentliche Steinskulptur eines Büffels, die das regionale Erbe in Kayes würdigt.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Das Monument des Martyrs ist ein feierlicher Gedenkstein, der auf einem Platz errichtet wurde, um die Gefallenen im Bahnhofsviertel von Kayes zu ehren.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "Az Ancienne Salle Massa Makan Diabaté De Kayes egy régi színházépület, amely egykor helyi előadások színpadaként szolgált.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "A Stade Bassi Coulibaly egy tágas stadion és szabadtéri rekreációs terület, amely helyet biztosít nagyobb összejöveteleknek a kayesi vasútállomás közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "A Monument du Buffle egy kiemelkedő köztéri kő bivalyszobor, amely Kayes regionális öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "A Monument des Martyrs egy ünnepélyes kőemlékmű, amelyet egy téren emeltek a kayesi vasúti negyedben elesettek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "Ancienne Salle Massa Makan Diabaté De Kayes este o veche clădire de teatru care a oferit cândva o scenă pentru spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "Stade Bassi Coulibaly este un stadion și spațiu de recreere în aer liber întins, oferind loc pentru adunări mari lângă gara din Kayes.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "Monument du Buffle este o sculptură publică proeminentă din piatră a unui bivol, aducând un omagiu moștenirii regionale din Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Monument des Martyrs este un memorial solemn de piatră ridicat într-o piață pentru a onora eroii căzuți în districtul feroviar din Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "The Ancienne Salle Massa Makan Diabaté De Kayes is an old theatre building that once provided a stage for local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "Stade Bassi Coulibaly is an expansive stadium and outdoor recreational ground providing space for large gatherings near the Kayes railway station.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "Monument du Buffle is a prominent public stone sculpture of a buffalo paying tribute to regional heritage in Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Monument des Martyrs is a solemn stone memorial erected in a square to honor fallen individuals in the Kayes railway district.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ML-1",
     coords: [-11.438, 14.445],

@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraKenyaLifeV2: POI[] = [
   {
-    id: "masai-mara-habitat-life-v2",
+    id: "masai-mara-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Massai Mara Gate",
+                  "text": "Dieser aus rustikalem Holz und Stein errichtete Eingang dient als primärer Kontrollpunkt für Fahrzeuge, die in die wildreichen Ebenen des Nationalreservats aufbrechen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190212,
+                        -1.411162
+                  ]
+            },
+            {
+                  "name": "Masai Mara",
+                  "text": "Dieses weltberühmte Savannen-Naturschutzgebiet in Kenia ist bekannt für die spektakuläre jährliche Große Tierwanderung von Gnus und Zebras.",
+                  "category": "natural",
+                  "coords": [
+                        35.106317,
+                        -1.475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Massai Mara Gate",
+                  "text": "A masszív fából és kőből épült bejárat elsődleges ellenőrzőpontként szolgál a nemzeti rezervátum vadvilágban gazdag síkságaira induló járművek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190212,
+                        -1.411162
+                  ]
+            },
+            {
+                  "name": "Masai Mara National Reserve",
+                  "text": "Ez a világhírű kenyai szavannai természetvédelmi terület a gnúk és zebrák látványos éves nagy vonulásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.106317,
+                        -1.475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Massai Mara Gate",
+                  "text": "Construită din lemn masiv și piatră, această intrare servește drept principal punct de control pentru vehiculele care se îmbarcă în câmpiile bogate în faună sălbatică ale rezervației naționale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190212,
+                        -1.411162
+                  ]
+            },
+            {
+                  "name": "Masai Mara National Reserve",
+                  "text": "Această faimoasă rezervație naturală de savană din Kenya este renumită pentru spectaculoasa Mare Migrație anuală a gnu-urilor și zebrelor.",
+                  "category": "natural",
+                  "coords": [
+                        35.106317,
+                        -1.475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Massai Mara Gate",
+                  "text": "Constructed with rugged timber and stone, this official entryway serves as the primary checkpoint for safari vehicles embarking into the wildlife-rich plains of the national reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190212,
+                        -1.411162
+                  ]
+            },
+            {
+                  "name": "Masai Mara National Reserve",
+                  "text": "This world-famous savanna nature reserve in Kenya is renowned for its spectacular annual Great Migration of wildebeest and zebra.",
+                  "category": "natural",
+                  "coords": [
+                        35.106317,
+                        -1.475
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-40",
     coords: [35.1328, -1.3926],
@@ -40,7 +121,160 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/masai-mara-habitat-life-v2.webp"},
   {
-    id: "amboseli-habitat-life-v2",
+    id: "amboseli-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Noomotio Observation Point",
+                  "text": "Ein pyramidenförmiger Vulkanhügel, der einen 360-Grad-Panoramablick auf die elefantenreichen Sümpfe von Amboseli und den fernen Kilimandscharo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        37.238258,
+                        -2.672135
+                  ]
+            },
+            {
+                  "name": "Swamp",
+                  "text": "Gespeist durch unterirdische Quellen des Kilimandscharo, ziehen diese Sumpfgebiete in der Trockenzeit große Herden von Elefanten und Flusspferden an, die Wasser suchen.",
+                  "category": "natural",
+                  "coords": [
+                        37.294674,
+                        -2.675289
+                  ]
+            },
+            {
+                  "name": "Tesaire Community Wildlife Conservancy",
+                  "text": "Ein von der Gemeinde geleitetes Naturschutzgebiet an der Grenze zu Amboseli, das wichtige Wildtier-Migrationskorridore auf dem Land der Massai schützt.",
+                  "category": "natural",
+                  "coords": [
+                        37.217604,
+                        -2.725658
+                  ]
+            },
+            {
+                  "name": "Amboseli National Park",
+                  "text": "Weltberühmt für seine riesigen, frei umherziehenden Elefantenherden, die vor der dramatischen Kulisse des Mount Kilimandscharo grasen.",
+                  "category": "natural",
+                  "coords": [
+                        37.242171,
+                        -2.63757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Noomotio Observation Point",
+                  "text": "Ez a piramis alakú vulkanikus domb 360 fokos panorámát nyújt az Amboseli elefántoktól hemzsegő mocsaraira és a távoli Kilimandzsáróra.",
+                  "category": "natural",
+                  "coords": [
+                        37.238258,
+                        -2.672135
+                  ]
+            },
+            {
+                  "name": "Swamp",
+                  "text": "A Kilimandzsáró földalatti forrásaiból táplálkozó mocsárvidék nagy elefánt- és vízilófalkákat vonz, amelyek a száraz évszakban itt keresnek vizet.",
+                  "category": "natural",
+                  "coords": [
+                        37.294674,
+                        -2.675289
+                  ]
+            },
+            {
+                  "name": "Tesaire Community Wildlife Conservancy",
+                  "text": "Az Amboselivel határos, közösség által irányított természetvédelmi terület fontos vadon élő állatok vándorlási folyosóit védi a maszájok tulajdonában lévő földeken.",
+                  "category": "natural",
+                  "coords": [
+                        37.217604,
+                        -2.725658
+                  ]
+            },
+            {
+                  "name": "Amboseli National Park",
+                  "text": "Világszerte híres hatalmas, szabadon kószáló elefántcsordáiról, amelyek a Kilimandzsáró drámai háttere előtt legelnek.",
+                  "category": "natural",
+                  "coords": [
+                        37.242171,
+                        -2.63757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Noomotio Observation Point",
+                  "text": "Un deal vulcanic în formă de piramidă care oferă o panoramă de 360 de grade asupra mlaștinilor pline de elefanți din Amboseli și a Muntelui Kilimanjaro în depărtare.",
+                  "category": "natural",
+                  "coords": [
+                        37.238258,
+                        -2.672135
+                  ]
+            },
+            {
+                  "name": "Swamp",
+                  "text": "Alimentate de izvoare subterane din Kilimanjaro, aceste mlaștini atrag turme mari de elefanți și hipopotami în căutarea apei în timpul sezonului uscat.",
+                  "category": "natural",
+                  "coords": [
+                        37.294674,
+                        -2.675289
+                  ]
+            },
+            {
+                  "name": "Tesaire Community Wildlife Conservancy",
+                  "text": "O arie de conservare administrată de comunitate la granița cu Amboseli, care protejează coridoarele cruciale de migrație a faunei sălbatice pe terenurile deținute de Maasai.",
+                  "category": "natural",
+                  "coords": [
+                        37.217604,
+                        -2.725658
+                  ]
+            },
+            {
+                  "name": "Amboseli National Park",
+                  "text": "Renumit la nivel mondial pentru turmele masive de elefanți liberi care pasc pe fundalul dramatic al Muntelui Kilimanjaro.",
+                  "category": "natural",
+                  "coords": [
+                        37.242171,
+                        -2.63757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Noomotio Observation Point",
+                  "text": "A pyramid-shaped volcanic hill offering 360-degree panoramic views of Amboseli's elephant-filled swamps and the distant Mount Kilimanjaro.",
+                  "category": "natural",
+                  "coords": [
+                        37.238258,
+                        -2.672135
+                  ]
+            },
+            {
+                  "name": "Swamp",
+                  "text": "Fed by underground springs from Kilimanjaro, these marshlands attract large herds of elephants and hippos seeking water during the dry season.",
+                  "category": "natural",
+                  "coords": [
+                        37.294674,
+                        -2.675289
+                  ]
+            },
+            {
+                  "name": "Tesaire Community Wildlife Conservancy",
+                  "text": "A community-led conservation area bordering Amboseli that protects crucial migratory wildlife corridors on Maasai-owned land.",
+                  "category": "natural",
+                  "coords": [
+                        37.217604,
+                        -2.725658
+                  ]
+            },
+            {
+                  "name": "Amboseli National Park",
+                  "text": "World-renowned for its massive free-ranging elephant herds that graze against the dramatic backdrop of Mount Kilimanjaro.",
+                  "category": "natural",
+                  "coords": [
+                        37.242171,
+                        -2.63757
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-30",
     coords: [37.2520, -2.6517],
@@ -77,7 +311,52 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/amboseli-habitat-life-v2.webp"},
   {
-    id: "tsavo-east-habitat-life-v2",
+    id: "tsavo-east-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsavo-Ost-Nationalpark",
+                  "text": "Der Tsavo-East-Nationalpark in Kenia ist berühmt für seine weiten, trockenen Ebenen und die charakteristischen „roten Elefanten“, die sich mit der einheimischen Erde einstäuben.",
+                  "category": "natural",
+                  "coords": [
+                        38.766807,
+                        -2.77402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsavo East National Park",
+                  "text": "A kenyai Tsavo Keleti Nemzeti Park híres hatalmas, száraz síkságairól és a jellegzetes „vörös elefántokról”, amelyek a helyi vörös porral borítják be magukat.",
+                  "category": "natural",
+                  "coords": [
+                        38.766807,
+                        -2.77402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsavo East National Park",
+                  "text": "Parcul Național Tsavo East din Kenya este faimos pentru câmpiile sale vaste și aride, dar și pentru „elefanții roșii” care se prăfuiesc cu pământul local.",
+                  "category": "natural",
+                  "coords": [
+                        38.766807,
+                        -2.77402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsavo East National Park",
+                  "text": "Kenya's Tsavo East National Park is famous for its vast, arid plains and the characteristic \"red elephants\" that dust themselves with the local soil.",
+                  "category": "natural",
+                  "coords": [
+                        38.766807,
+                        -2.77402
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-07",
     coords: [38.7478, -2.8596],
@@ -114,7 +393,232 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/tsavo-east-habitat-life-v2.webp"},
   {
-    id: "lake-nakuru-habitat-life-v2",
+    id: "lake-nakuru-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baboon Cliff View Point",
+                  "text": "Ein hoch gelegener Klippenaussichtspunkt im Lake-Nakuru-Nationalpark, der für seine vielen dort lebenden Paviane bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.056061,
+                        -0.357708
+                  ]
+            },
+            {
+                  "name": "Lion HIíll Viewpoint",
+                  "text": "Eine bewaldete Hügel-Aussichtsplattform im Lake-Nakuru-Nationalpark, die eine weite Sicht über die alkalische Wasserfläche bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.129732,
+                        -0.337518
+                  ]
+            },
+            {
+                  "name": "Nderit Gate Lake Nakuru National Park",
+                  "text": "Ein südlicher Kontrollpunkt und Eingang zum Lake-Nakuru-Nationalpark, umgeben von trockener Savannenvegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        36.137635,
+                        -0.421727
+                  ]
+            },
+            {
+                  "name": "Causeway Viewpoint",
+                  "text": "Ein Beobachtungspunkt auf einem künstlichen Damm am Rande des Nakurusees, ideal zur Sichtung unzähliger Wasservögel.",
+                  "category": "natural",
+                  "coords": [
+                        36.116344,
+                        -0.410862
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "Ein Uferaussichtspunkt am Nakurusee, speziell zur Beobachtung der riesigen Ansammlungen rosafarbener Zwergflamingos.",
+                  "category": "natural",
+                  "coords": [
+                        36.08782,
+                        -0.400327
+                  ]
+            },
+            {
+                  "name": "Lake Nakuru National Park",
+                  "text": "Ein Naturschutzgebiet im Rift Valley um einen alkalischen See, das weltweit für seine riesigen Populationen von Flamingos berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.096152,
+                        -0.390903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baboon Cliff View Point",
+                  "text": "Egy magasan fekvő sziklás kilátópont a Nakuru-tó Nemzeti Parkban, amely a rengeteg ott élő páviánról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        36.056061,
+                        -0.357708
+                  ]
+            },
+            {
+                  "name": "Lion HIíll Viewpoint",
+                  "text": "Egy erdős domboldalon lévő kilátóterasz a Nakuru-tó Nemzeti Parkban, amely széles kilátást nyújt a lúgos vízfelületre.",
+                  "category": "natural",
+                  "coords": [
+                        36.129732,
+                        -0.337518
+                  ]
+            },
+            {
+                  "name": "Nderit Gate Lake Nakuru National Park",
+                  "text": "A Nakuru-tó Nemzeti Park déli ellenőrzőpontja és bejárata, amelyet száraz szavannai növényzet vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        36.137635,
+                        -0.421727
+                  ]
+            },
+            {
+                  "name": "Causeway Viewpoint",
+                  "text": "Egy megfigyelőpont egy mesterséges gáton a Nakuru-tó szélén, amely ideális a számtalan vízimadár megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        36.116344,
+                        -0.410862
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "Egy parti kilátópont a Nakuru-tónál, kifejezetten a rózsaszín kis flamingók hatalmas gyülekezeteinek megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        36.08782,
+                        -0.400327
+                  ]
+            },
+            {
+                  "name": "Lake Nakuru National Park",
+                  "text": "Egy lúgos tó körüli természetvédelmi terület a Hasadékvölgyben, amely világszerte híres hatalmas flamingópopulációjáról.",
+                  "category": "natural",
+                  "coords": [
+                        36.096152,
+                        -0.390903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baboon Cliff View Point",
+                  "text": "Un punct de belvedere înalt pe o stâncă în Parcul Național Lacul Nakuru, cunoscut pentru numeroșii babuini care trăiesc acolo.",
+                  "category": "natural",
+                  "coords": [
+                        36.056061,
+                        -0.357708
+                  ]
+            },
+            {
+                  "name": "Lion HIíll Viewpoint",
+                  "text": "O platformă de observare împădurită pe un deal din Parcul Național Lacul Nakuru, oferind o vedere largă asupra apei alcaline.",
+                  "category": "natural",
+                  "coords": [
+                        36.129732,
+                        -0.337518
+                  ]
+            },
+            {
+                  "name": "Nderit Gate Lake Nakuru National Park",
+                  "text": "Un punct de control și o intrare sudică în Parcul Național Lacul Nakuru, înconjurat de vegetație de savană uscată.",
+                  "category": "landmark",
+                  "coords": [
+                        36.137635,
+                        -0.421727
+                  ]
+            },
+            {
+                  "name": "Causeway Viewpoint",
+                  "text": "Un punct de observare pe un baraj artificial la marginea Lacului Nakuru, ideal pentru observarea a nenumărate păsări de apă.",
+                  "category": "natural",
+                  "coords": [
+                        36.116344,
+                        -0.410862
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "Un punct de belvedere pe țărmul Lacului Nakuru, special pentru observarea adunărilor masive de păsări flamingo pitice roz.",
+                  "category": "natural",
+                  "coords": [
+                        36.08782,
+                        -0.400327
+                  ]
+            },
+            {
+                  "name": "Lake Nakuru National Park",
+                  "text": "O rezervație naturală în Valea Riftului, centrată pe un lac alcalin, renumită la nivel mondial pentru populațiile sale masive de flamingo.",
+                  "category": "natural",
+                  "coords": [
+                        36.096152,
+                        -0.390903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baboon Cliff View Point",
+                  "text": "An elevated cliff viewpoint in Lake Nakuru National Park known for the many baboons living there.",
+                  "category": "natural",
+                  "coords": [
+                        36.056061,
+                        -0.357708
+                  ]
+            },
+            {
+                  "name": "Lion HIíll Viewpoint",
+                  "text": "A wooded hill viewing platform in Lake Nakuru National Park offering a wide view over the alkaline water.",
+                  "category": "natural",
+                  "coords": [
+                        36.129732,
+                        -0.337518
+                  ]
+            },
+            {
+                  "name": "Nderit Gate Lake Nakuru National Park",
+                  "text": "A southern checkpoint and entrance to Lake Nakuru National Park surrounded by dry savanna vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        36.137635,
+                        -0.421727
+                  ]
+            },
+            {
+                  "name": "Causeway Viewpoint",
+                  "text": "An observation point on a man-made causeway at the edge of Lake Nakuru, ideal for spotting countless water birds.",
+                  "category": "natural",
+                  "coords": [
+                        36.116344,
+                        -0.410862
+                  ]
+            },
+            {
+                  "name": "Flamingo Viewpoint",
+                  "text": "A shoreline viewpoint at Lake Nakuru specifically for watching the massive congregations of pink lesser flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        36.08782,
+                        -0.400327
+                  ]
+            },
+            {
+                  "name": "Lake Nakuru National Park",
+                  "text": "A nature reserve in the Rift Valley centered on an alkaline lake, world-famous for its massive populations of flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        36.096152,
+                        -0.390903
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-26",
     coords: [36.0833, -0.3667],
@@ -151,7 +655,52 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/lake-nakuru-habitat-life-v2.webp"},
   {
-    id: "hells-gate-habitat-life-v2",
+    id: "hells-gate-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaparatania View Point",
+                  "text": "Dieser malerische Aussichtspunkt im Hell's-Gate-Nationalpark bietet weite Blicke auf die dramatische Schlucht und die Vulkanlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        36.359905,
+                        -0.895704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaparatania View Point",
+                  "text": "Ez a festői kilátóhely a Hell's Gate Nemzeti Parkban lenyűgöző kilátást nyújt a drámai szurdokra és a vulkáni tájra.",
+                  "category": "natural",
+                  "coords": [
+                        36.359905,
+                        -0.895704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaparatania View Point",
+                  "text": "Acest punct de belvedere pitoresc din Parcul Național Hell's Gate oferă vederi ample asupra defileului dramatic și a peisajului vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        36.359905,
+                        -0.895704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaparatania View Point",
+                  "text": "This scenic overlook in Hell's Gate National Park offers sweeping views of the dramatic gorge and volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        36.359905,
+                        -0.895704
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-26",
     coords: [36.3155, -0.9022],
@@ -188,7 +737,88 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/hells-gate-habitat-life-v2.webp"},
   {
-    id: "mount-kenya-habitat-life-v2",
+    id: "mount-kenya-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Western Terminal",
+                  "text": "Ein hochgelegener Aussichtspunkt an den Hängen des Mount Kenya.",
+                  "category": "natural",
+                  "coords": [
+                        37.305905,
+                        -0.142616
+                  ]
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "Ein felsiger Berggipfel, der Teil der zerklüfteten Landschaft des Mount Kenya ist.",
+                  "category": "natural",
+                  "coords": [
+                        37.298737,
+                        -0.149603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Western Terminal",
+                  "text": "Magaslati kilátópont a Kenya-hegy lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        37.305905,
+                        -0.142616
+                  ]
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "Sziklás hegycsúcs, amely a Kenya-hegy zord tájának része.",
+                  "category": "natural",
+                  "coords": [
+                        37.298737,
+                        -0.149603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Western Terminal",
+                  "text": "Un punct de belvedere la mare altitudine, situat pe pantele Muntelui Kenya.",
+                  "category": "natural",
+                  "coords": [
+                        37.305905,
+                        -0.142616
+                  ]
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "Un vârf montan stâncos care face parte din peisajul accidentat al Muntelui Kenya.",
+                  "category": "natural",
+                  "coords": [
+                        37.298737,
+                        -0.149603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Western Terminal",
+                  "text": "A high-altitude viewpoint situated on the slopes of Mount Kenya.",
+                  "category": "natural",
+                  "coords": [
+                        37.305905,
+                        -0.142616
+                  ]
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "A rocky mountain peak forming part of the rugged Mount Kenya landscape.",
+                  "category": "natural",
+                  "coords": [
+                        37.298737,
+                        -0.149603
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-10",
     coords: [37.3000, -0.1500],
@@ -225,7 +855,88 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/mount-kenya-habitat-life-v2.webp"},
   {
-    id: "tsavo-west-habitat-life-v2",
+    id: "tsavo-west-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "rhino sanctuary Tsavo west.",
+                  "text": "Ein sicheres, eingezäuntes Schutzgebiet, das dem Schutz der gefährdeten Spitzmaulnashörner gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.240739,
+                        -2.965892
+                  ]
+            },
+            {
+                  "name": "Roaring Rocks Viewpoint",
+                  "text": "Ein erhöhter Panoramablick, der für den heulenden Wind bekannt ist, der durch seine zerklüfteten Felsformationen weht.",
+                  "category": "natural",
+                  "coords": [
+                        38.116408,
+                        -2.93375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "rhino sanctuary Tsavo west.",
+                  "text": "Biztonságos, bekerített menedékhely a veszélyeztetett fekete orrszarvú populáció védelmére.",
+                  "category": "landmark",
+                  "coords": [
+                        38.240739,
+                        -2.965892
+                  ]
+            },
+            {
+                  "name": "Roaring Rocks Viewpoint",
+                  "text": "Magasan fekvő panorámás kilátó, amely a zord sziklaképződményein keresztül süvítő szélről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        38.116408,
+                        -2.93375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "rhino sanctuary Tsavo west.",
+                  "text": "Un sanctuar securizat și împrejmuit dedicat protejării populației de rinoceri negri pe cale de dispariție.",
+                  "category": "landmark",
+                  "coords": [
+                        38.240739,
+                        -2.965892
+                  ]
+            },
+            {
+                  "name": "Roaring Rocks Viewpoint",
+                  "text": "Un punct de belvedere panoramic elevat, cunoscut pentru vântul care urlă prin formațiunile sale stâncoase abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        38.116408,
+                        -2.93375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "rhino sanctuary Tsavo west.",
+                  "text": "A secure fenced sanctuary dedicated to protecting the endangered black rhinoceros population.",
+                  "category": "landmark",
+                  "coords": [
+                        38.240739,
+                        -2.965892
+                  ]
+            },
+            {
+                  "name": "Roaring Rocks Viewpoint",
+                  "text": "An elevated panoramic lookout known for the wind howling through its craggy rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        38.116408,
+                        -2.93375
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-07",
     coords: [38.1670, -3.0035],
@@ -336,7 +1047,124 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/arabuko-sokoke-habitat-life-v2.webp"},
   {
-    id: "shimba-hills-habitat-life-v2",
+    id: "shimba-hills-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pengo Hill",
+                  "text": "Dieser erhöhte Aussichtspunkt auf dem Hügel überblickt ein reiches Küstenwald-Ökosystem.",
+                  "category": "natural",
+                  "coords": [
+                        39.383902,
+                        -4.249322
+                  ]
+            },
+            {
+                  "name": "Shimba Hills National Reserve",
+                  "text": "Dieses regionale Museum präsentiert Ausstellungen über die vielfältige Ökologie des angrenzenden Waldreservats.",
+                  "category": "museum",
+                  "coords": [
+                        39.387844,
+                        -4.257102
+                  ]
+            },
+            {
+                  "name": "Nationalpark Shimba Hills",
+                  "text": "Dieses weitläufige Küstennaturschutzgebiet zeichnet sich durch seine üppigen Regenwald- und Savannenlebensräume aus.",
+                  "category": "natural",
+                  "coords": [
+                        39.396356,
+                        -4.255699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pengo Hill",
+                  "text": "Ez a dombtetőn található kilátó egy gazdag partvidéki erdei ökoszisztémára néz.",
+                  "category": "natural",
+                  "coords": [
+                        39.383902,
+                        -4.249322
+                  ]
+            },
+            {
+                  "name": "Shimba Hills National Reserve",
+                  "text": "Ez a regionális múzeum a szomszédos erdős rezervátum változatos ökológiáját bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        39.387844,
+                        -4.257102
+                  ]
+            },
+            {
+                  "name": "Shimba Hills National Park",
+                  "text": "Ezt a kiterjedt tengerparti természetvédelmi területet buja esőerdők és szavannás élőhelyek jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        39.396356,
+                        -4.255699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pengo Hill",
+                  "text": "Acest punct de belvedere elevat de pe deal domină un bogat ecosistem forestier de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        39.383902,
+                        -4.249322
+                  ]
+            },
+            {
+                  "name": "Shimba Hills National Reserve",
+                  "text": "Acest muzeu regional prezintă expoziții despre ecologia diversă a rezervației forestiere adiacente.",
+                  "category": "museum",
+                  "coords": [
+                        39.387844,
+                        -4.257102
+                  ]
+            },
+            {
+                  "name": "Shimba Hills National Park",
+                  "text": "Această vastă rezervație naturală de coastă se caracterizează prin habitatele sale luxuriante de pădure tropicală și savană.",
+                  "category": "natural",
+                  "coords": [
+                        39.396356,
+                        -4.255699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pengo Hill",
+                  "text": "This elevated viewpoint at the top of the hill overlooks a rich coastal forest ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        39.383902,
+                        -4.249322
+                  ]
+            },
+            {
+                  "name": "Shimba Hills National Reserve",
+                  "text": "This regional museum facility presents exhibits about the diverse ecology of the adjacent forested reserve.",
+                  "category": "museum",
+                  "coords": [
+                        39.387844,
+                        -4.257102
+                  ]
+            },
+            {
+                  "name": "Shimba Hills National Park",
+                  "text": "This expansive coastal nature reserve is characterized by its lush rainforest and savanna habitats.",
+                  "category": "natural",
+                  "coords": [
+                        39.396356,
+                        -4.255699
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-02",
     coords: [39.4183, -4.2475],
@@ -373,7 +1201,52 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/shimba-hills-habitat-life-v2.webp"},
   {
-    id: "mount-elgon-habitat-life-v2",
+    id: "mount-elgon-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sudek",
+                  "text": "Sudek ist ein markanter vulkanischer Gipfel im vielfältigen Hochgebirgslebensraum des Mount Elgon-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        34.5789,
+                        1.107134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sudek",
+                  "text": "A Sudek egy kiemelkedő vulkáni csúcs a Mount Elgon masszívum változatos, nagy tengerszint feletti magasságú élőhelyén.",
+                  "category": "natural",
+                  "coords": [
+                        34.5789,
+                        1.107134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sudek",
+                  "text": "Sudek este un vârf vulcanic proeminent situat în habitatul divers de mare altitudine al masivului Muntele Elgon.",
+                  "category": "natural",
+                  "coords": [
+                        34.5789,
+                        1.107134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sudek",
+                  "text": "Sudek is a prominent volcanic peak situated within the diverse high-altitude habitat of the Mount Elgon massif.",
+                  "category": "natural",
+                  "coords": [
+                        34.5789,
+                        1.107134
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "KE-39",
     coords: [34.5500, 1.1000],
@@ -559,7 +1432,52 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
   },
   {
-    id: "rift-valley-vegetable-agri-v2",
+    id: "rift-valley-vegetable-agri-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makalia Falls",
+                  "text": "Ein Wasserfall am südlichen Rand des Lake-Nakuru-Nationalparks, der in eine felsige Flussschlucht hinabstürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080489,
+                        -0.492059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makalia Falls",
+                  "text": "Egy vízesés a Nakuru-tó Nemzeti Park déli peremén, amely egy sziklás folyó szurdokába zúdul.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080489,
+                        -0.492059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makalia Falls",
+                  "text": "O cascadă la marginea sudică a Parcului Național Lacul Nakuru, care se prăvălește într-un defileu stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080489,
+                        -0.492059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makalia Falls",
+                  "text": "A waterfall at the southern edge of Lake Nakuru National Park plunging into a rocky river gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080489,
+                        -0.492059
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KE-26",
     coords: [36.0000, -0.5000],
@@ -596,7 +1514,160 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/rift-valley-vegetable-agri-v2.webp"},
   {
-    id: "nairobi-giraffe-centre-kid-v2",
+    id: "nairobi-giraffe-centre-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ivory Burning Monument",
+                  "text": "Dieses historische Denkmal markiert die genaue Stelle, an der große Mengen gewilderten Elfenbeins öffentlich verbrannt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        36.797088,
+                        -1.345567
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Dieser Freiluft-Wasserpark verfügt über weitläufige Pools und eine Vielzahl an farbenfrohen Wasserrutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        36.803736,
+                        -1.329522
+                  ]
+            },
+            {
+                  "name": "GP Karting",
+                  "text": "Diese Motorsportattraktion verfügt über eine asphaltierte Freiluftstrecke für spannende Go-Kart-Rennen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.804309,
+                        -1.330546
+                  ]
+            },
+            {
+                  "name": "Animal Orphanage",
+                  "text": "Diese spezialisierte Zooanlage kümmert sich um gerettete und verwaiste einheimische Wildtiere in einer geschützten Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        36.781542,
+                        -1.337744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ivory Burning Monument",
+                  "text": "Ez a történelmi emlékmű pontosan azt a helyszínt jelöli, ahol hatalmas mennyiségű orvvadászattal szerzett elefántcsontot égettek el nyilvánosan.",
+                  "category": "historical",
+                  "coords": [
+                        36.797088,
+                        -1.345567
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Ez a szabadtéri vízi park tágas medencékkel és különféle színes vízi csúszdákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        36.803736,
+                        -1.329522
+                  ]
+            },
+            {
+                  "name": "GP Karting",
+                  "text": "Ez a motorsport látványosság egy szabadtéri aszfaltpályával rendelkezik, amelyet versenyszerű gokartozásnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.804309,
+                        -1.330546
+                  ]
+            },
+            {
+                  "name": "Animal Orphanage",
+                  "text": "Ez a speciális állatkerti létesítmény megmentett és elárvult őshonos vadon élő állatokról gondoskodik védett környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        36.781542,
+                        -1.337744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ivory Burning Monument",
+                  "text": "Acest monument istoric marchează locul exact în care au fost incinerate public cantități uriașe de fildeș provenit din braconaj.",
+                  "category": "historical",
+                  "coords": [
+                        36.797088,
+                        -1.345567
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Acest parc acvatic în aer liber dispune de piscine spațioase și o varietate de tobogane acvatice colorate.",
+                  "category": "recreational",
+                  "coords": [
+                        36.803736,
+                        -1.329522
+                  ]
+            },
+            {
+                  "name": "GP Karting",
+                  "text": "Această atracție cu sporturi cu motor dispune de un circuit asfaltat în aer liber dedicat curselor competitive de karting.",
+                  "category": "landmark",
+                  "coords": [
+                        36.804309,
+                        -1.330546
+                  ]
+            },
+            {
+                  "name": "Animal Orphanage",
+                  "text": "Această grădină zoologică specializată îngrijește animale sălbatice autohtone salvate și orfane într-un mediu protejat.",
+                  "category": "recreational",
+                  "coords": [
+                        36.781542,
+                        -1.337744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ivory Burning Monument",
+                  "text": "This historic monument marks the exact site where vast quantities of poached ivory were publicly incinerated.",
+                  "category": "historical",
+                  "coords": [
+                        36.797088,
+                        -1.345567
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "This outdoor water park features spacious pools and a variety of colorful aquatic slides.",
+                  "category": "recreational",
+                  "coords": [
+                        36.803736,
+                        -1.329522
+                  ]
+            },
+            {
+                  "name": "GP Karting",
+                  "text": "This motorsport attraction features an outdoor asphalt circuit dedicated to competitive go-kart racing.",
+                  "category": "landmark",
+                  "coords": [
+                        36.804309,
+                        -1.330546
+                  ]
+            },
+            {
+                  "name": "Animal Orphanage",
+                  "text": "This specialized zoo facility cares for rescued and orphaned native wild animals in a protected environment.",
+                  "category": "recreational",
+                  "coords": [
+                        36.781542,
+                        -1.337744
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-47",
     coords: [36.7865, -1.3323],
@@ -634,7 +1705,268 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
   },
   {
-    id: "nairobi-animal-orphanage-kid-v2",
+    id: "nairobi-animal-orphanage-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Impala observation point",
+                  "text": "Dieser ausgewiesene Aussichtspunkt bietet Besuchern im Nationalpark klare Ausblicke auf grasende Impalas.",
+                  "category": "natural",
+                  "coords": [
+                        36.794157,
+                        -1.357926
+                  ]
+            },
+            {
+                  "name": "Kabooma Cultural Dancers",
+                  "text": "Diese lebendige kulturelle Attraktion bietet traditionelle kenianische Tanzaufführungen und rhythmische Musik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.76221,
+                        -1.358469
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Wildlife Trust",
+                  "text": "Dieser renommierte Naturschutzpark widmet sich der Rettung und Rehabilitation von verwaisten Elefanten und Nashörnern.",
+                  "category": "park",
+                  "coords": [
+                        36.773049,
+                        -1.377782
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Elephant Orphanage",
+                  "text": "Dieses Schutzgebiet im Nairobi-Nationalpark pflegt verwaiste Elefantenbabys, bevor sie wieder in die Wildnis ausgewildert werden.",
+                  "category": "recreational",
+                  "coords": [
+                        36.774073,
+                        -1.376829
+                  ]
+            },
+            {
+                  "name": "AIC Diguna Ropes Challenge",
+                  "text": "Dieser abenteuerliche Hochseilgarten im Freien bietet herausfordernde körperliche Aktivitäten und Teambuilding-Übungen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.782419,
+                        -1.390726
+                  ]
+            },
+            {
+                  "name": "Silole Conservancy",
+                  "text": "Dieses private Naturschutzgebiet grenzt an den Nairobi-Nationalpark und schützt natürliche Lebensräume und lokale Wildtierkorridore.",
+                  "category": "natural",
+                  "coords": [
+                        36.814752,
+                        -1.387816
+                  ]
+            },
+            {
+                  "name": "anselm Kitengela Hot Glass",
+                  "text": "Dieses über eine Hängebrücke erreichbare Atelier zeigt kunstvolle mundgeblasene Glaskunst.",
+                  "category": "museum",
+                  "coords": [
+                        36.817826,
+                        -1.392258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Impala observation point",
+                  "text": "Ez a kijelölt kilátóhely tiszta rálátást biztosít a látogatóknak a nemzeti parkban legelésző impalákra.",
+                  "category": "natural",
+                  "coords": [
+                        36.794157,
+                        -1.357926
+                  ]
+            },
+            {
+                  "name": "Kabooma Cultural Dancers",
+                  "text": "Ez a nyüzsgő kulturális látványosság hagyományos kenyai táncelőadásokat és ritmikus zenét kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        36.76221,
+                        -1.358469
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Wildlife Trust",
+                  "text": "Ezt a híres vadvédelmi parkot az elárvult elefántok és orrszarvúk megmentésének és rehabilitációjának szentelték.",
+                  "category": "park",
+                  "coords": [
+                        36.773049,
+                        -1.377782
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Elephant Orphanage",
+                  "text": "A Nairobi Nemzeti Parkban található menedékhely elárvult elefántbébiket ápol, mielőtt visszavezetné őket a vadonba.",
+                  "category": "recreational",
+                  "coords": [
+                        36.774073,
+                        -1.376829
+                  ]
+            },
+            {
+                  "name": "AIC Diguna Ropes Challenge",
+                  "text": "Ez a kalandos szabadtéri kötélpálya kihívást jelentő fizikai tevékenységeket és csapatépítő gyakorlatokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        36.782419,
+                        -1.390726
+                  ]
+            },
+            {
+                  "name": "Silole Conservancy",
+                  "text": "Ez a magán vadvédelmi terület a Nairobi Nemzeti Parkkal határos, és a természetes élőhelyeket, valamint a helyi vadvilági folyosókat védi.",
+                  "category": "natural",
+                  "coords": [
+                        36.814752,
+                        -1.387816
+                  ]
+            },
+            {
+                  "name": "anselm Kitengela Hot Glass",
+                  "text": "Ez a függőhídon keresztül megközelíthető stúdiógaléria bonyolult kézzel fújt üvegművészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        36.817826,
+                        -1.392258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Impala observation point",
+                  "text": "Acest punct de observație desemnat oferă vizitatorilor vederi clare asupra impalelor care pasc în parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        36.794157,
+                        -1.357926
+                  ]
+            },
+            {
+                  "name": "Kabooma Cultural Dancers",
+                  "text": "Această atracție culturală vibrantă prezintă spectacole de dans tradițional kenyan și muzică ritmică.",
+                  "category": "landmark",
+                  "coords": [
+                        36.76221,
+                        -1.358469
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Wildlife Trust",
+                  "text": "Acest renumit parc de conservare a faunei sălbatice este dedicat salvării și reabilitării elefanților și rinocerilor orfani.",
+                  "category": "park",
+                  "coords": [
+                        36.773049,
+                        -1.377782
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Elephant Orphanage",
+                  "text": "Situat în Parcul Național Nairobi, acest sanctuar îngrijește puii de elefanți orfani înainte de a-i reintroduce în sălbăticie.",
+                  "category": "recreational",
+                  "coords": [
+                        36.774073,
+                        -1.376829
+                  ]
+            },
+            {
+                  "name": "AIC Diguna Ropes Challenge",
+                  "text": "Acest curs aventuros de frânghii în aer liber oferă activități fizice provocatoare și exerciții de team-building.",
+                  "category": "landmark",
+                  "coords": [
+                        36.782419,
+                        -1.390726
+                  ]
+            },
+            {
+                  "name": "Silole Conservancy",
+                  "text": "Această rezervație privată de animale sălbatice se învecinează cu Parcul Național Nairobi, protejând habitatele naturale și coridoarele faunei sălbatice locale.",
+                  "category": "natural",
+                  "coords": [
+                        36.814752,
+                        -1.387816
+                  ]
+            },
+            {
+                  "name": "anselm Kitengela Hot Glass",
+                  "text": "Accesibilă printr-un pod suspendat palpitant, această galerie-studio prezintă artă din sticlă suflată manual.",
+                  "category": "museum",
+                  "coords": [
+                        36.817826,
+                        -1.392258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Impala observation point",
+                  "text": "This designated viewing spot provides visitors with clear sights of grazing impalas in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        36.794157,
+                        -1.357926
+                  ]
+            },
+            {
+                  "name": "Kabooma Cultural Dancers",
+                  "text": "This vibrant cultural attraction features traditional Kenyan dance performances and rhythmic music.",
+                  "category": "landmark",
+                  "coords": [
+                        36.76221,
+                        -1.358469
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Wildlife Trust",
+                  "text": "This renowned wildlife conservation park is dedicated to the rescue and rehabilitation of orphaned elephants and rhinos.",
+                  "category": "park",
+                  "coords": [
+                        36.773049,
+                        -1.377782
+                  ]
+            },
+            {
+                  "name": "David Sheldrick Elephant Orphanage",
+                  "text": "Located within Nairobi National Park, this sanctuary nurses orphaned infant elephants before reintroducing them to the wild.",
+                  "category": "recreational",
+                  "coords": [
+                        36.774073,
+                        -1.376829
+                  ]
+            },
+            {
+                  "name": "AIC Diguna Ropes Challenge",
+                  "text": "This adventurous outdoor ropes course offers challenging physical activities and team-building exercises.",
+                  "category": "landmark",
+                  "coords": [
+                        36.782419,
+                        -1.390726
+                  ]
+            },
+            {
+                  "name": "Silole Conservancy",
+                  "text": "This private wildlife conservancy borders Nairobi National Park, protecting natural habitats and local wildlife corridors.",
+                  "category": "natural",
+                  "coords": [
+                        36.814752,
+                        -1.387816
+                  ]
+            },
+            {
+                  "name": "anselm Kitengela Hot Glass",
+                  "text": "Accessible via a thrilling suspension bridge, this studio gallery showcases intricate hand-blown glass art.",
+                  "category": "museum",
+                  "coords": [
+                        36.817826,
+                        -1.392258
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-47",
     coords: [36.7800, -1.3800],
@@ -671,7 +2003,268 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/nairobi-animal-orphanage-kid-v2.webp"},
   {
-    id: "mombasa-marine-park-kid-v2",
+    id: "mombasa-marine-park-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Go Kart racing mombasa",
+                  "text": "Go Kart Racing Mombasa bietet eine asphaltierte Freiluftstrecke für rasante Motorsport-Erlebnisse im Kart.",
+                  "category": "landmark",
+                  "coords": [
+                        39.739198,
+                        -3.984035
+                  ]
+            },
+            {
+                  "name": "Serena Beach Resort & Spa",
+                  "text": "Das Serena Beach Resort & Spa ist eine Strandunterkunft, deren Architektur einer traditionellen Swahili-Stadt nachempfunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        39.750797,
+                        -3.972829
+                  ]
+            },
+            {
+                  "name": "Pride Inn Paradise Beach Resort, Convention Center & Spa",
+                  "text": "Dieses weitläufige Strandresort verfügt über ein großes Kongresszentrum und weitläufige Spa-Einrichtungen an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        39.748778,
+                        -3.974699
+                  ]
+            },
+            {
+                  "name": "Bamburi beach",
+                  "text": "Bamburi Beach ist ein beliebter weißer Sandstrand am Indischen Ozean, der durch sein von Korallenriffen geschütztes Wasser besticht.",
+                  "category": "recreational",
+                  "coords": [
+                        39.738303,
+                        -3.989899
+                  ]
+            },
+            {
+                  "name": "Sarova Whitesands Beach Resort & Spa",
+                  "text": "Das Sarova Whitesands Beach Resort & Spa ist ein weitläufiges Küstenresort, das inmitten tropischer Palmen an einem weißen Sandstrand liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        39.7332,
+                        -3.994226
+                  ]
+            },
+            {
+                  "name": "Jomo Kenyatta Public beach",
+                  "text": "Der Jomo Kenyatta Public Beach, lokal als Pirates Beach bekannt, ist ein belebter Sandstrand, der zum Schwimmen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        39.728109,
+                        -4.005165
+                  ]
+            },
+            {
+                  "name": "Neptune Beach Resort",
+                  "text": "Das Neptune Beach Resort bietet Strandunterkünfte direkt am silbrigen Sand mit Blick auf den Indischen Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        39.739727,
+                        -3.986122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Go Kart racing mombasa",
+                  "text": "A Go Kart Racing Mombasa egy szabadtéri aszfaltozott gokartpálya, amely gyorsasági motoros élményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.739198,
+                        -3.984035
+                  ]
+            },
+            {
+                  "name": "Serena Beach Resort & Spa",
+                  "text": "A Serena Beach Resort & Spa egy tengerparti szálláshely, amelynek kialakítása egy hagyományos szuahéli várost idéz.",
+                  "category": "recreational",
+                  "coords": [
+                        39.750797,
+                        -3.972829
+                  ]
+            },
+            {
+                  "name": "Pride Inn Paradise Beach Resort, Convention Center & Spa",
+                  "text": "Ez a kiterjedt tengerparti üdülőhely átfogó kongresszusi központtal és partmenti wellness-részleggel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        39.748778,
+                        -3.974699
+                  ]
+            },
+            {
+                  "name": "Bamburi beach",
+                  "text": "A Bamburi Beach egy népszerű fehér homokos partszakasz az Indiai-óceán mentén, amelyet korallzátony véd a hullámoktól.",
+                  "category": "recreational",
+                  "coords": [
+                        39.738303,
+                        -3.989899
+                  ]
+            },
+            {
+                  "name": "Sarova Whitesands Beach Resort & Spa",
+                  "text": "A Sarova Whitesands Beach Resort & Spa egy hatalmas tengerparti üdülőhely trópusi pálmák között, egy fehér homokos szakaszon.",
+                  "category": "recreational",
+                  "coords": [
+                        39.7332,
+                        -3.994226
+                  ]
+            },
+            {
+                  "name": "Jomo Kenyatta Public beach",
+                  "text": "A Jomo Kenyatta Public Beach, amelyet a helyiek Pirates Beachként is ismernek, egy nyüzsgő tengerparti szakasz, amely népszerű a helyiek körében.",
+                  "category": "recreational",
+                  "coords": [
+                        39.728109,
+                        -4.005165
+                  ]
+            },
+            {
+                  "name": "Neptune Beach Resort",
+                  "text": "A Neptune Beach Resort tengerparti szállást kínál közvetlenül az ezüstös homokon, kilátással az Indiai-óceánra.",
+                  "category": "recreational",
+                  "coords": [
+                        39.739727,
+                        -3.986122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Go Kart racing mombasa",
+                  "text": "Go Kart Racing Mombasa oferă un circuit de asfalt în aer liber pentru curse de karting de mare viteză.",
+                  "category": "landmark",
+                  "coords": [
+                        39.739198,
+                        -3.984035
+                  ]
+            },
+            {
+                  "name": "Serena Beach Resort & Spa",
+                  "text": "Serena Beach Resort & Spa este o unitate de cazare pe plajă, cu o arhitectură concepută să semene cu un oraș tradițional swahili.",
+                  "category": "recreational",
+                  "coords": [
+                        39.750797,
+                        -3.972829
+                  ]
+            },
+            {
+                  "name": "Pride Inn Paradise Beach Resort, Convention Center & Spa",
+                  "text": "Acest complex de plajă expansiv dispune de un centru de convenții spațios și facilități spa pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        39.748778,
+                        -3.974699
+                  ]
+            },
+            {
+                  "name": "Bamburi beach",
+                  "text": "Bamburi Beach este o întindere populară de nisip alb la Oceanul Indian, caracterizată de ape calme protejate de un recif de corali.",
+                  "category": "recreational",
+                  "coords": [
+                        39.738303,
+                        -3.989899
+                  ]
+            },
+            {
+                  "name": "Sarova Whitesands Beach Resort & Spa",
+                  "text": "Sarova Whitesands Beach Resort & Spa este un refugiu de coastă extins, situat printre palmieri tropicali pe o lungă fâșie de nisip alb.",
+                  "category": "recreational",
+                  "coords": [
+                        39.7332,
+                        -3.994226
+                  ]
+            },
+            {
+                  "name": "Jomo Kenyatta Public beach",
+                  "text": "Plaja publică Jomo Kenyatta, cunoscută local ca Pirates Beach, este o fâșie de coastă animată, populară printre localnici pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        39.728109,
+                        -4.005165
+                  ]
+            },
+            {
+                  "name": "Neptune Beach Resort",
+                  "text": "Neptune Beach Resort oferă cazare pe plajă direct pe nisipurile argintii, cu vedere la Oceanul Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        39.739727,
+                        -3.986122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Go Kart racing mombasa",
+                  "text": "Go Kart Racing Mombasa offers an outdoor asphalt circuit for high-speed motorized karting.",
+                  "category": "landmark",
+                  "coords": [
+                        39.739198,
+                        -3.984035
+                  ]
+            },
+            {
+                  "name": "Serena Beach Resort & Spa",
+                  "text": "Serena Beach Resort & Spa is a beachfront accommodation designed to resemble a traditional Swahili town.",
+                  "category": "recreational",
+                  "coords": [
+                        39.750797,
+                        -3.972829
+                  ]
+            },
+            {
+                  "name": "Pride Inn Paradise Beach Resort, Convention Center & Spa",
+                  "text": "This expansive beachfront resort features a comprehensive convention center and coastal spa facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        39.748778,
+                        -3.974699
+                  ]
+            },
+            {
+                  "name": "Bamburi beach",
+                  "text": "Bamburi Beach is a popular stretch of white sand along the Indian Ocean, characterized by calm waters protected by a coral reef.",
+                  "category": "recreational",
+                  "coords": [
+                        39.738303,
+                        -3.989899
+                  ]
+            },
+            {
+                  "name": "Sarova Whitesands Beach Resort & Spa",
+                  "text": "Sarova Whitesands Beach Resort & Spa is a sprawling coastal retreat set among tropical palms on a long stretch of white sand.",
+                  "category": "recreational",
+                  "coords": [
+                        39.7332,
+                        -3.994226
+                  ]
+            },
+            {
+                  "name": "Jomo Kenyatta Public beach",
+                  "text": "Jomo Kenyatta Public Beach, widely known locally as Pirates Beach, is a bustling coastal sandy stretch popular with locals for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        39.728109,
+                        -4.005165
+                  ]
+            },
+            {
+                  "name": "Neptune Beach Resort",
+                  "text": "Neptune Beach Resort offers beachfront accommodation directly on the silvery sands overlooking the Indian Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        39.739727,
+                        -3.986122
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-01",
     coords: [39.7300, -3.9800],
@@ -708,7 +2301,484 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/mombasa-marine-park-kid-v2.webp"},
   {
-    id: "diani-beach-kid-v2",
+    id: "diani-beach-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diani Beach Art Gallery",
+                  "text": "Die Diani Beach Art Gallery präsentiert in einem hellen Ausstellungsraum zeitgenössische afrikanische Gemälde und Skulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        39.580877,
+                        -4.298991
+                  ]
+            },
+            {
+                  "name": "Zebra africa safaris",
+                  "text": "Diese küstennahe Basis organisiert Safari-Ausflüge, die den tropischen Sandstrand mit den Savannenreservaten Kenias verbinden.",
+                  "category": "recreational",
+                  "coords": [
+                        39.574676,
+                        -4.313049
+                  ]
+            },
+            {
+                  "name": "Ali barbours cave",
+                  "text": "Etwas abseits des Strandes liegt Ali Barbour's Cave, das in einer natürlich geformten Korallenkalkhöhle mit offenem Dach liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        39.575458,
+                        -4.311793
+                  ]
+            },
+            {
+                  "name": "Abandoned hotel",
+                  "text": "Diese verlassene Touristenunterkunft zeichnet sich durch verfallene Betonstrukturen aus, die von der Küstenvegetation zurückerobert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        39.574404,
+                        -4.320788
+                  ]
+            },
+            {
+                  "name": "tours",
+                  "text": "Dieses lokale Ausflugszentrum organisiert motorisierte Bootstouren und Safaris, die im Küstenresortgebiet starten.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594551,
+                        -4.270757
+                  ]
+            },
+            {
+                  "name": "Starfish Island",
+                  "text": "Starfish Island ist eine bei Ebbe freiliegende Sandbank, an der Besucher bunte Seesterne im flachen Wasser beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        39.612168,
+                        -4.219145
+                  ]
+            },
+            {
+                  "name": "Jungle Snake Park",
+                  "text": "Der Jungle Snake Park ist ein tropisches Reptilienschutzgebiet, in dem verschiedene einheimische Schlangen und Krokodile leben.",
+                  "category": "recreational",
+                  "coords": [
+                        39.546174,
+                        -4.286204
+                  ]
+            },
+            {
+                  "name": "National Museum of Kenya- Coastal Forest Conservation Unit",
+                  "text": "Diese ökologische Einrichtung widmet sich der Erhaltung der bedrohten Küstenwälder und einheimischen Pflanzenarten Kenias.",
+                  "category": "museum",
+                  "coords": [
+                        39.555731,
+                        -4.303916
+                  ]
+            },
+            {
+                  "name": "colobus trail",
+                  "text": "Der Colobus Trail ist ein geführter Waldweg durch die Küstenvegetation zur Beobachtung wilder Angola-Stummelaffen.",
+                  "category": "natural",
+                  "coords": [
+                        39.571318,
+                        -4.323442
+                  ]
+            },
+            {
+                  "name": "The Sands at Nomad Boutique Resort",
+                  "text": "The Sands at Nomad ist ein Boutique-Resort mit luxuriösen strohgedeckten Villen direkt am feinen Sand von Diani Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        39.571581,
+                        -4.327994
+                  ]
+            },
+            {
+                  "name": "Tiwi beach",
+                  "text": "Tiwi Beach ist ein abgelegener Küstenstreifen, der für seine felsigen Gezeitentümpel bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        39.59597,
+                        -4.273978
+                  ]
+            },
+            {
+                  "name": "Animation Theatre",
+                  "text": "Dieses zum Resort gehörende Animationstheater veranstaltet allabendlich Live-Auftritte für urlaubende Familien.",
+                  "category": "cultural",
+                  "coords": [
+                        39.586827,
+                        -4.294038
+                  ]
+            },
+            {
+                  "name": "Diani Beach",
+                  "text": "Diani Beach ist ein weltbekannter, 17 Kilometer langer Abschnitt mit weißem Sand, der zum Kitesurfen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        39.577826,
+                        -4.316549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diani Beach Art Gallery",
+                  "text": "A Diani Beach Art Gallery kortárs afrikai festményeket és szobrokat mutat be különböző regionális művészektől.",
+                  "category": "museum",
+                  "coords": [
+                        39.580877,
+                        -4.298991
+                  ]
+            },
+            {
+                  "name": "Zebra africa safaris",
+                  "text": "A homokos partvonal közelében működő bázis szafari kirándulásokat szervez, összekötve a trópusi strandot Kenya szavannáival.",
+                  "category": "recreational",
+                  "coords": [
+                        39.574676,
+                        -4.313049
+                  ]
+            },
+            {
+                  "name": "Ali barbours cave",
+                  "text": "A strandtól távolabb fekvő Ali Barbour's Cave egy természetes úton kialakult, nyitott tetejű korall mészkőbarlangban kapott helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.575458,
+                        -4.311793
+                  ]
+            },
+            {
+                  "name": "Abandoned hotel",
+                  "text": "Ezt az elhagyatott turistaparkot lassan visszahódítja a tengerparti növényzet a pusztuló betonépítményeken keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        39.574404,
+                        -4.320788
+                  ]
+            },
+            {
+                  "name": "tours",
+                  "text": "Ez a helyi kirándulóközpont motorcsónakos túrákat és szafarikat szervez, amelyek a tengerparti üdülőövezetből indulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594551,
+                        -4.270757
+                  ]
+            },
+            {
+                  "name": "Starfish Island",
+                  "text": "A Starfish Island egy árapály által kialakított homokpad, ahol apálykor tengeri csillagok figyelhetők meg a sekély vízben.",
+                  "category": "landmark",
+                  "coords": [
+                        39.612168,
+                        -4.219145
+                  ]
+            },
+            {
+                  "name": "Jungle Snake Park",
+                  "text": "A Jungle Snake Park egy trópusi hüllőmenedékhely, amely zárt terráriumokban ad otthont különféle őshonos kígyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        39.546174,
+                        -4.286204
+                  ]
+            },
+            {
+                  "name": "National Museum of Kenya- Coastal Forest Conservation Unit",
+                  "text": "Ez az ökológiai intézmény Kenya veszélyeztetett tengerparti erdeinek és őshonos növényfajainak megőrzésén dolgozik.",
+                  "category": "museum",
+                  "coords": [
+                        39.555731,
+                        -4.303916
+                  ]
+            },
+            {
+                  "name": "colobus trail",
+                  "text": "A Colobus Trail egy vezetett erdei sétaút a tengerparti növényzetben az angolai kolobuszmajmok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        39.571318,
+                        -4.323442
+                  ]
+            },
+            {
+                  "name": "The Sands at Nomad Boutique Resort",
+                  "text": "A The Sands at Nomad egy butiküdülőhely, amely nádfedeles villákat kínál közvetlenül a Diani Beach homokján.",
+                  "category": "recreational",
+                  "coords": [
+                        39.571581,
+                        -4.327994
+                  ]
+            },
+            {
+                  "name": "Tiwi beach",
+                  "text": "A Tiwi Beach egy eldugott tengerparti szakasz, amely hírhedt sziklás árapály-medencéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        39.59597,
+                        -4.273978
+                  ]
+            },
+            {
+                  "name": "Animation Theatre",
+                  "text": "Ez az üdülőhelyi animációs színház élő esti előadásoknak ad otthont a nyaraló családok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        39.586827,
+                        -4.294038
+                  ]
+            },
+            {
+                  "name": "Diani Beach",
+                  "text": "A Diani Beach egy világszerte ismert, 17 kilométer hosszú ragyogó fehér homokos partszakasz, amely népszerű a kiteszörfösök körében.",
+                  "category": "recreational",
+                  "coords": [
+                        39.577826,
+                        -4.316549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diani Beach Art Gallery",
+                  "text": "Galeria de Artă Diani Beach expune picturi și sculpturi africane contemporane într-un spațiu expozițional luminos.",
+                  "category": "museum",
+                  "coords": [
+                        39.580877,
+                        -4.298991
+                  ]
+            },
+            {
+                  "name": "Zebra africa safaris",
+                  "text": "Operând în apropierea coastei nisipoase, această bază organizează excursii de safari ce leagă plaja tropicală de rezervațiile Kenyei.",
+                  "category": "recreational",
+                  "coords": [
+                        39.574676,
+                        -4.313049
+                  ]
+            },
+            {
+                  "name": "Ali barbours cave",
+                  "text": "Peștera lui Ali Barbour este renumită pentru amplasarea sa într-o peșteră naturală din calcar coralier cu acoperiș deschis.",
+                  "category": "recreational",
+                  "coords": [
+                        39.575458,
+                        -4.311793
+                  ]
+            },
+            {
+                  "name": "Abandoned hotel",
+                  "text": "Acest complex turistic abandonat prezintă structuri de beton degradate, recucerite treptat de vegetația de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        39.574404,
+                        -4.320788
+                  ]
+            },
+            {
+                  "name": "tours",
+                  "text": "Acest centru local de excursii organizează plimbări cu barca cu motor și safari-uri care pornesc din zona stațiunii de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594551,
+                        -4.270757
+                  ]
+            },
+            {
+                  "name": "Starfish Island",
+                  "text": "Starfish Island este un banc de nisip apărut la reflux, unde vizitatorii pot observa stele de mare în apa puțin adâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        39.612168,
+                        -4.219145
+                  ]
+            },
+            {
+                  "name": "Jungle Snake Park",
+                  "text": "Jungle Snake Park este un sanctuar tropical pentru reptile, găzduind diverși șerpi indigeni și crocodili în terarii.",
+                  "category": "recreational",
+                  "coords": [
+                        39.546174,
+                        -4.286204
+                  ]
+            },
+            {
+                  "name": "National Museum of Kenya- Coastal Forest Conservation Unit",
+                  "text": "Această instituție ecologică lucrează pentru a conserva pădurile de coastă pe cale de dispariție ale Kenyei.",
+                  "category": "museum",
+                  "coords": [
+                        39.555731,
+                        -4.303916
+                  ]
+            },
+            {
+                  "name": "colobus trail",
+                  "text": "Colobus Trail este un traseu ghidat prin vegetația de coastă, dedicat observării maimuțelor sălbatice colobus angoleze.",
+                  "category": "natural",
+                  "coords": [
+                        39.571318,
+                        -4.323442
+                  ]
+            },
+            {
+                  "name": "The Sands at Nomad Boutique Resort",
+                  "text": "The Sands at Nomad este un complex tip boutique ce oferă vile cu acoperiș din stuf, situate direct pe nisipurile plajei Diani.",
+                  "category": "recreational",
+                  "coords": [
+                        39.571581,
+                        -4.327994
+                  ]
+            },
+            {
+                  "name": "Tiwi beach",
+                  "text": "Tiwi Beach este o porțiune de coastă retrasă, faimoasă pentru bazinele sale stâncoase formate la reflux.",
+                  "category": "recreational",
+                  "coords": [
+                        39.59597,
+                        -4.273978
+                  ]
+            },
+            {
+                  "name": "Animation Theatre",
+                  "text": "Acest teatru de animație dintr-un complex turistic găzduiește spectacole live de seară pentru familiile aflate în vacanță.",
+                  "category": "cultural",
+                  "coords": [
+                        39.586827,
+                        -4.294038
+                  ]
+            },
+            {
+                  "name": "Diani Beach",
+                  "text": "Plaja Diani este o fâșie renumită la nivel global, de 17 kilometri lungime de nisip alb strălucitor, populară pentru kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        39.577826,
+                        -4.316549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diani Beach Art Gallery",
+                  "text": "Diani Beach Art Gallery showcases contemporary African paintings and sculptures from diverse regional artists within a bright exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        39.580877,
+                        -4.298991
+                  ]
+            },
+            {
+                  "name": "Zebra africa safaris",
+                  "text": "Operating near the sandy coastline, this coastal base organizes safari excursions linking the tropical beach with Kenya's savanna reserves.",
+                  "category": "recreational",
+                  "coords": [
+                        39.574676,
+                        -4.313049
+                  ]
+            },
+            {
+                  "name": "Ali barbours cave",
+                  "text": "Set back from the beach, Ali Barbour's Cave is renowned for being situated inside a naturally formed coral limestone cave with an open roof.",
+                  "category": "recreational",
+                  "coords": [
+                        39.575458,
+                        -4.311793
+                  ]
+            },
+            {
+                  "name": "Abandoned hotel",
+                  "text": "This derelict tourist accommodation features decaying concrete structures slowly being reclaimed by the coastal vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        39.574404,
+                        -4.320788
+                  ]
+            },
+            {
+                  "name": "tours",
+                  "text": "This local excursion hub arranges motorized boat trips and wildlife safaris departing from the coastal resort area.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594551,
+                        -4.270757
+                  ]
+            },
+            {
+                  "name": "Starfish Island",
+                  "text": "Starfish Island is a tidal sandbank in the ocean where visitors can observe numerous colorful starfish resting in the shallow water at low tide.",
+                  "category": "landmark",
+                  "coords": [
+                        39.612168,
+                        -4.219145
+                  ]
+            },
+            {
+                  "name": "Jungle Snake Park",
+                  "text": "Jungle Snake Park is a tropical reptile sanctuary housing various indigenous snakes and crocodiles in enclosed terrariums.",
+                  "category": "recreational",
+                  "coords": [
+                        39.546174,
+                        -4.286204
+                  ]
+            },
+            {
+                  "name": "National Museum of Kenya- Coastal Forest Conservation Unit",
+                  "text": "This ecological institution works to preserve Kenya's endangered coastal forests and indigenous plant species.",
+                  "category": "museum",
+                  "coords": [
+                        39.555731,
+                        -4.303916
+                  ]
+            },
+            {
+                  "name": "colobus trail",
+                  "text": "The Colobus Trail is a guided forest walkway through coastal vegetation dedicated to the protection and observation of wild Angolan colobus monkeys.",
+                  "category": "natural",
+                  "coords": [
+                        39.571318,
+                        -4.323442
+                  ]
+            },
+            {
+                  "name": "The Sands at Nomad Boutique Resort",
+                  "text": "The Sands at Nomad is a boutique resort offering luxury thatched-roof villas directly situated on the pristine white sands of Diani Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        39.571581,
+                        -4.327994
+                  ]
+            },
+            {
+                  "name": "Tiwi beach",
+                  "text": "Tiwi Beach is a secluded coastal stretch famous for its rocky tidal pools that reveal small marine life during low tide.",
+                  "category": "recreational",
+                  "coords": [
+                        39.59597,
+                        -4.273978
+                  ]
+            },
+            {
+                  "name": "Animation Theatre",
+                  "text": "This resort-based animation theatre hosts live evening performances and acrobatics shows for vacationing families.",
+                  "category": "cultural",
+                  "coords": [
+                        39.586827,
+                        -4.294038
+                  ]
+            },
+            {
+                  "name": "Diani Beach",
+                  "text": "Diani Beach is a globally renowned 17-kilometer stretch of brilliant white sand fringed by palm trees and popular for kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        39.577826,
+                        -4.316549
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-02",
     coords: [39.5800, -4.3000],
@@ -745,7 +2815,196 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/diani-beach-kid-v2.webp"},
   {
-    id: "karura-forest-kid-v2",
+    id: "karura-forest-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les Arbres Brules",
+                  "text": "Les Arbres Brules ist eine faszinierende Naturattraktion mit den verkohlten Überresten alter Bäume im Karura-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816339,
+                        -1.231351
+                  ]
+            },
+            {
+                  "name": "Mau-Mau Caves",
+                  "text": "Die Mau-Mau-Höhlen sind historische Verstecke im Karura-Wald, die einst von kenianischen Freiheitskämpfern während des kolonialen Widerstands genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        36.829088,
+                        -1.236419
+                  ]
+            },
+            {
+                  "name": "Bench",
+                  "text": "Dieser einfache Aussichtspunkt mit Holzbank bietet einen ruhigen Rastplatz, um das üppige, grüne Blätterdach des Karura-Waldes zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        36.818006,
+                        -1.241762
+                  ]
+            },
+            {
+                  "name": "Evergreen park",
+                  "text": "Der Evergreen Park ist ein malerisches Erholungsgebiet mit friedlichen Gewässern, die von der dichten Vegetation des Karura-Waldes umgeben sind.",
+                  "category": "recreational",
+                  "coords": [
+                        36.828119,
+                        -1.205116
+                  ]
+            },
+            {
+                  "name": "Muralpaintings",
+                  "text": "Diese lebhaften Wandmalereien im Freien zeigen lokale Umweltkunst entlang der schattigen Wanderwege des Karura-Waldes.",
+                  "category": "museum",
+                  "coords": [
+                        36.812914,
+                        -1.213359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les Arbres Brules",
+                  "text": "A Les Arbres Brules egy lenyűgöző természeti látványosság, amely öreg fák elszenesedett maradványait mutatja be a Karura-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816339,
+                        -1.231351
+                  ]
+            },
+            {
+                  "name": "Mau-Mau Caves",
+                  "text": "A Mau-Mau barlangok történelmi búvóhelyek a Karura-erdőben, amelyeket egykor a kenyai szabadságharcosok használtak a gyarmati ellenállás során.",
+                  "category": "historical",
+                  "coords": [
+                        36.829088,
+                        -1.236419
+                  ]
+            },
+            {
+                  "name": "Bench",
+                  "text": "Ez az egyszerű fapados kilátópont nyugodt pihenőhelyet biztosít a Karura-erdő buja, zöld lombkoronájának megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        36.818006,
+                        -1.241762
+                  ]
+            },
+            {
+                  "name": "Evergreen park",
+                  "text": "Az Evergreen Park egy festői rekreációs terület, ahol békés vízfelületek találhatók a Karura-erdő sűrű növényzetével körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        36.828119,
+                        -1.205116
+                  ]
+            },
+            {
+                  "name": "Muralpaintings",
+                  "text": "Ezek a vibráló, szabadtéri falfestmények a helyi környezetvédelmi művészetet mutatják be a Karura-erdő árnyékos ösvényei mentén.",
+                  "category": "museum",
+                  "coords": [
+                        36.812914,
+                        -1.213359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les Arbres Brules",
+                  "text": "Les Arbres Brules servește ca o atracție naturală intrigantă, prezentând rămășițele carbonizate ale copacilor bătrâni din Pădurea Karura.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816339,
+                        -1.231351
+                  ]
+            },
+            {
+                  "name": "Mau-Mau Caves",
+                  "text": "Peșterile Mau-Mau sunt ascunzători istorice din Pădurea Karura, folosite cândva de luptătorii kenyeni pentru libertate în timpul rezistenței coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        36.829088,
+                        -1.236419
+                  ]
+            },
+            {
+                  "name": "Bench",
+                  "text": "Acest punct de belvedere cu o simplă bancă de lemn oferă un loc de odihnă liniștit pentru a observa frunzișul verde și luxuriant al Pădurii Karura.",
+                  "category": "natural",
+                  "coords": [
+                        36.818006,
+                        -1.241762
+                  ]
+            },
+            {
+                  "name": "Evergreen park",
+                  "text": "Parcul Evergreen este o zonă de agrement pitorească, cu întinderi de apă liniștite, înconjurate de vegetația deasă a Pădurii Karura.",
+                  "category": "recreational",
+                  "coords": [
+                        36.828119,
+                        -1.205116
+                  ]
+            },
+            {
+                  "name": "Muralpaintings",
+                  "text": "Aceste picturi murale vibrante în aer liber expun arta ecologică locală de-a lungul traseelor pietonale umbrite din Pădurea Karura.",
+                  "category": "museum",
+                  "coords": [
+                        36.812914,
+                        -1.213359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les Arbres Brules",
+                  "text": "Les Arbres Brules serves as an intriguing natural attraction featuring the charred remains of old trees within Karura Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        36.816339,
+                        -1.231351
+                  ]
+            },
+            {
+                  "name": "Mau-Mau Caves",
+                  "text": "The Mau-Mau Caves are historic hideouts hidden in Karura Forest, once used by Kenyan freedom fighters during the colonial resistance.",
+                  "category": "historical",
+                  "coords": [
+                        36.829088,
+                        -1.236419
+                  ]
+            },
+            {
+                  "name": "Bench",
+                  "text": "This simple wooden bench viewpoint provides a serene resting spot to observe the lush, green canopy of Karura Forest.",
+                  "category": "natural",
+                  "coords": [
+                        36.818006,
+                        -1.241762
+                  ]
+            },
+            {
+                  "name": "Evergreen park",
+                  "text": "Evergreen Park is a scenic recreational area featuring peaceful water bodies surrounded by the dense vegetation of Karura Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        36.828119,
+                        -1.205116
+                  ]
+            },
+            {
+                  "name": "Muralpaintings",
+                  "text": "These vibrant outdoor mural paintings showcase local environmental art along the shaded walking trails of Karura Forest.",
+                  "category": "museum",
+                  "coords": [
+                        36.812914,
+                        -1.213359
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-47",
     coords: [36.8200, -1.2300],
@@ -782,7 +3041,268 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/karura-forest-kid-v2.webp"},
   {
-    id: "nairobi-safari-walk-kid-v2",
+    id: "nairobi-safari-walk-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ngong viewpoint",
+                  "text": "Der Ngong-Aussichtspunkt bietet einen weiten Panoramablick auf die sanft geschwungenen Bergrücken der berühmten Ngong-Hügel in der Ferne.",
+                  "category": "natural",
+                  "coords": [
+                        36.748936,
+                        -1.377132
+                  ]
+            },
+            {
+                  "name": "Giraffe Center Nature Trail (Sanctuary)",
+                  "text": "Dieser ruhige Naturpfad schlängelt sich durch ein trockenes Hochland-Waldschutzgebiet, das der Erhaltung der vom Aussterben bedrohten Rothschild-Giraffe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.746547,
+                        -1.375469
+                  ]
+            },
+            {
+                  "name": "ECD Auditorium",
+                  "text": "Das ECD-Auditorium ist ein spezieller Veranstaltungsort in Innenräumen, der für lokale pädagogische Präsentationen und Gemeindetheaterproduktionen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728495,
+                        -1.406013
+                  ]
+            },
+            {
+                  "name": "AUA Auditorium",
+                  "text": "Ein Aufführungstheater und Auditorium in der Nähe des Nairobi Safari Walk.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728215,
+                        -1.403069
+                  ]
+            },
+            {
+                  "name": "Ole Kasio Ranch",
+                  "text": "Eine geschützte Wildtierfarm und ein Naturschutzgebiet in der Nähe des Nairobi Safari Walk.",
+                  "category": "natural",
+                  "coords": [
+                        36.743792,
+                        -1.464314
+                  ]
+            },
+            {
+                  "name": "Rimpa Estate Wildlife Conservancy",
+                  "text": "Ein Wildtierschutzgebiet, das offene Savannenerlebnisse in der Nähe von Nairobi bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.732924,
+                        -1.443144
+                  ]
+            },
+            {
+                  "name": "Giraffe Centre",
+                  "text": "Ein Schutzzentrum, in dem Besucher gefährdete Rothschild-Giraffen von einer erhöhten Aussichtsplattform aus füttern können.",
+                  "category": "recreational",
+                  "coords": [
+                        36.744526,
+                        -1.376542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ngong viewpoint",
+                  "text": "A Ngong kilátóból lenyűgöző panoráma nyílik a távolban húzódó híres Ngong-dombok hullámzó gerinceire.",
+                  "category": "natural",
+                  "coords": [
+                        36.748936,
+                        -1.377132
+                  ]
+            },
+            {
+                  "name": "Giraffe Center Nature Trail (Sanctuary)",
+                  "text": "Ez a nyugodt tanösvény egy száraz felvidéki erdei rezervátumon kanyarog keresztül, amelyet a veszélyeztetett Rothschild-zsiráf védelmének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.746547,
+                        -1.375469
+                  ]
+            },
+            {
+                  "name": "ECD Auditorium",
+                  "text": "Az ECD Auditorium egy dedikált beltéri előadóterem, amelyet helyi oktatási előadásokhoz és közösségi színházi produkciókhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728495,
+                        -1.406013
+                  ]
+            },
+            {
+                  "name": "AUA Auditorium",
+                  "text": "A Nairobi Safari Walk közelében található színház és előadóterem.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728215,
+                        -1.403069
+                  ]
+            },
+            {
+                  "name": "Ole Kasio Ranch",
+                  "text": "Egy védett vadvédelmi farm és természetvédelmi terület a Nairobi Safari Walk közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.743792,
+                        -1.464314
+                  ]
+            },
+            {
+                  "name": "Rimpa Estate Wildlife Conservancy",
+                  "text": "Egy vadvédelmi terület, amely nyílt szavannai élményeket kínál Nairobi közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.732924,
+                        -1.443144
+                  ]
+            },
+            {
+                  "name": "Giraffe Centre",
+                  "text": "Egy természetvédelmi központ, ahol a látogatók egy megemelt kilátóról etethetik a veszélyeztetett Rothschild-zsiráfokat.",
+                  "category": "recreational",
+                  "coords": [
+                        36.744526,
+                        -1.376542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ngong viewpoint",
+                  "text": "Punctul de belvedere Ngong oferă o priveliște panoramică vastă asupra crestelor ondulate ale faimoaselor dealuri Ngong din depărtare.",
+                  "category": "natural",
+                  "coords": [
+                        36.748936,
+                        -1.377132
+                  ]
+            },
+            {
+                  "name": "Giraffe Center Nature Trail (Sanctuary)",
+                  "text": "Acest traseu natural liniștit șerpuiește printr-un sanctuar de pădure uscată de munte, dedicat conservării girafei Rothschild, specie pe cale de dispariție.",
+                  "category": "landmark",
+                  "coords": [
+                        36.746547,
+                        -1.375469
+                  ]
+            },
+            {
+                  "name": "ECD Auditorium",
+                  "text": "ECD Auditorium este o sală de spectacole interioară dedicată, utilizată pentru prezentări educaționale locale și producții de teatru comunitar.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728495,
+                        -1.406013
+                  ]
+            },
+            {
+                  "name": "AUA Auditorium",
+                  "text": "Un teatru și auditorium situat în apropiere de Nairobi Safari Walk.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728215,
+                        -1.403069
+                  ]
+            },
+            {
+                  "name": "Ole Kasio Ranch",
+                  "text": "O fermă protejată de faună sălbatică și o rezervație naturală lângă Nairobi Safari Walk.",
+                  "category": "natural",
+                  "coords": [
+                        36.743792,
+                        -1.464314
+                  ]
+            },
+            {
+                  "name": "Rimpa Estate Wildlife Conservancy",
+                  "text": "O rezervație de faună sălbatică care oferă experiențe în savană deschisă lângă Nairobi.",
+                  "category": "natural",
+                  "coords": [
+                        36.732924,
+                        -1.443144
+                  ]
+            },
+            {
+                  "name": "Giraffe Centre",
+                  "text": "Un centru de conservare unde vizitatorii pot hrăni girafele Rothschild pe cale de dispariție de pe o platformă de observare înălțată.",
+                  "category": "recreational",
+                  "coords": [
+                        36.744526,
+                        -1.376542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ngong viewpoint",
+                  "text": "The Ngong viewpoint provides a sweeping panoramic lookout over the undulating ridges of the famous Ngong Hills in the distance.",
+                  "category": "natural",
+                  "coords": [
+                        36.748936,
+                        -1.377132
+                  ]
+            },
+            {
+                  "name": "Giraffe Center Nature Trail (Sanctuary)",
+                  "text": "This tranquil nature trail winds through a dry upland forest sanctuary dedicated to the conservation of the endangered Rothschild's giraffe.",
+                  "category": "landmark",
+                  "coords": [
+                        36.746547,
+                        -1.375469
+                  ]
+            },
+            {
+                  "name": "ECD Auditorium",
+                  "text": "The ECD Auditorium is a dedicated indoor performance venue utilized for local educational presentations and community theater productions.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728495,
+                        -1.406013
+                  ]
+            },
+            {
+                  "name": "AUA Auditorium",
+                  "text": "A performance theatre and auditorium located near the Nairobi Safari Walk.",
+                  "category": "cultural",
+                  "coords": [
+                        36.728215,
+                        -1.403069
+                  ]
+            },
+            {
+                  "name": "Ole Kasio Ranch",
+                  "text": "A protected wildlife ranch and nature reserve near the Nairobi Safari Walk.",
+                  "category": "natural",
+                  "coords": [
+                        36.743792,
+                        -1.464314
+                  ]
+            },
+            {
+                  "name": "Rimpa Estate Wildlife Conservancy",
+                  "text": "A wildlife conservancy offering open savanna experiences near Nairobi.",
+                  "category": "natural",
+                  "coords": [
+                        36.732924,
+                        -1.443144
+                  ]
+            },
+            {
+                  "name": "Giraffe Centre",
+                  "text": "A conservation centre where visitors can feed endangered Rothschild's giraffes from a raised observation platform.",
+                  "category": "recreational",
+                  "coords": [
+                        36.744526,
+                        -1.376542
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-47",
     coords: [36.7700, -1.3900],
@@ -819,7 +3339,124 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/nairobi-safari-walk-kid-v2.webp"},
   {
-    id: "butterfly-centre-kid-v2",
+    id: "butterfly-centre-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pangani Caves",
+                  "text": "Ein natürliches unterirdisches Höhlensystem mit faszinierenden Felsformationen in der Nähe des Butterfly Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        39.672875,
+                        -3.854696
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Ribe",
+                  "text": "Ein spirituell bedeutsames Waldgebiet, das als heilige Kulturstätte des Mijikenda-Volkes dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.632778,
+                        -3.896955
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Kambe",
+                  "text": "Dieser traditionelle heilige Wald der Kambe-Gemeinschaft beherbergt historisch bedeutsame alte Siedlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.652221,
+                        -3.868021
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pangani Caves",
+                  "text": "Természetes föld alatti barlangrendszer lenyűgöző sziklaalakzatokkal a Pillangóközpont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.672875,
+                        -3.854696
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Ribe",
+                  "text": "Spirituális jelentőségű erdős terület, amely a mijikenda nép szent kulturális helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.632778,
+                        -3.896955
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Kambe",
+                  "text": "A Kambe közösség hagyományos szent erdeje történelmileg jelentős ősi településeket rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.652221,
+                        -3.868021
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pangani Caves",
+                  "text": "Un sistem natural de peșteri subterane cu formațiuni stâncoase fascinante situate lângă Centrul Fluturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        39.672875,
+                        -3.854696
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Ribe",
+                  "text": "O zonă împădurită cu semnificație spirituală care servește drept sit cultural sacru pentru poporul Mijikenda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.632778,
+                        -3.896955
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Kambe",
+                  "text": "Această pădure sacră tradițională a comunității Kambe conține așezări antice cu semnificație istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        39.652221,
+                        -3.868021
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pangani Caves",
+                  "text": "A natural underground cave system with intriguing rock formations located near the Butterfly Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        39.672875,
+                        -3.854696
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Ribe",
+                  "text": "A spiritually significant forested area serving as a sacred cultural site for the Mijikenda people.",
+                  "category": "landmark",
+                  "coords": [
+                        39.632778,
+                        -3.896955
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Kambe",
+                  "text": "This traditional sacred forest of the Kambe community contains historically significant ancient settlements.",
+                  "category": "landmark",
+                  "coords": [
+                        39.652221,
+                        -3.868021
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-03",
     coords: [39.6000, -3.9000],
@@ -856,7 +3493,232 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/butterfly-centre-kid-v2.webp"},
   {
-    id: "bomas-of-kenya-kid-v2",
+    id: "bomas-of-kenya-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wildlife Clubs of Kenya",
+                  "text": "Das Zentrum der Wildlife Clubs of Kenya veranstaltet ökologische Bildungsprogramme und Naturausstellungen, um den Tierschutz bei Jugendlichen zu fördern.",
+                  "category": "landmark",
+                  "coords": [
+                        36.772596,
+                        -1.338532
+                  ]
+            },
+            {
+                  "name": "Bomas of Kenya",
+                  "text": "Bomas of Kenya ist ein Kulturzentrum mit authentischen Nachbauten traditioneller Stammesdörfer und täglichen Aufführungen einheimischer Tänze.",
+                  "category": "landmark",
+                  "coords": [
+                        36.768667,
+                        -1.337589
+                  ]
+            },
+            {
+                  "name": "Circle Art Agency",
+                  "text": "Die Circle Art Agency fungiert als führende Galerie für zeitgenössische Kunst, die sich der Ausstellung und Versteigerung hochmoderner ostafrikanischer bildender Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        36.759774,
+                        -1.296312
+                  ]
+            },
+            {
+                  "name": "Conservation Heroes Monument",
+                  "text": "Das Conservation Heroes Monument ist ein feierliches Steindenkmal zu Ehren der Parkranger, die beim Schutz der kenianischen Tierwelt vor Wilderern ihr Leben ließen.",
+                  "category": "historical",
+                  "coords": [
+                        36.779593,
+                        -1.336146
+                  ]
+            },
+            {
+                  "name": "Mamba Village",
+                  "text": "Mamba Village ist ein spezialisierter Zoo und Ferienort, der sich in erster Linie auf die Unterbringung und Ausstellung einer großen Population von Nilkrokodilen konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        36.750628,
+                        -1.333561
+                  ]
+            },
+            {
+                  "name": "Nairobi Safari Walk",
+                  "text": "Der Nairobi Safari Walk verfügt über einen erhöhten Holzsteg, der es Besuchern ermöglicht, seltene afrikanische Wildtiere in nachgebildeten natürlichen Lebensräumen zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        36.77765,
+                        -1.336795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wildlife Clubs of Kenya",
+                  "text": "A Wildlife Clubs of Kenya központ oktatási ökológiai programoknak és természetrajzi kiállításoknak ad otthont, amelyek célja a vadvédelmi ismeretek népszerűsítése a fiatalok körében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.772596,
+                        -1.338532
+                  ]
+            },
+            {
+                  "name": "Bomas of Kenya",
+                  "text": "A Bomas of Kenya egy kulturális központ, amely hagyományos törzsi falvak hiteles másolatait és őslakos táncok napi bemutatóit kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.768667,
+                        -1.337589
+                  ]
+            },
+            {
+                  "name": "Circle Art Agency",
+                  "text": "A Circle Art Agency vezető kortárs galériaként működik, amely a legújabb kelet-afrikai képzőművészeti alkotások kiállításának és árverésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        36.759774,
+                        -1.296312
+                  ]
+            },
+            {
+                  "name": "Conservation Heroes Monument",
+                  "text": "A Conservation Heroes Monument egy ünnepélyes kőemlékmű, amely a kenyai vadvilágot az orvvadászoktól védve életüket vesztett parkőrök előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        36.779593,
+                        -1.336146
+                  ]
+            },
+            {
+                  "name": "Mamba Village",
+                  "text": "A Mamba Village egy specializált állatkert és üdülőhely, amely elsősorban a nílusi krokodilok nagy populációjának bemutatására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        36.750628,
+                        -1.333561
+                  ]
+            },
+            {
+                  "name": "Nairobi Safari Walk",
+                  "text": "A Nairobi Safari Walk egy megemelt fa pallósorral rendelkezik, amely lehetővé teszi a látogatók számára, hogy szimulált természetes élőhelyeken figyeljék meg a ritka afrikai vadvilágot.",
+                  "category": "recreational",
+                  "coords": [
+                        36.77765,
+                        -1.336795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wildlife Clubs of Kenya",
+                  "text": "Centrul Wildlife Clubs of Kenya găzduiește programe ecologice educaționale și expoziții despre natură, menite să promoveze conservarea faunei sălbatice în rândul tinerilor.",
+                  "category": "landmark",
+                  "coords": [
+                        36.772596,
+                        -1.338532
+                  ]
+            },
+            {
+                  "name": "Bomas of Kenya",
+                  "text": "Bomas of Kenya este un centru cultural care prezintă replici autentice ale satelor tribale tradiționale și spectacole zilnice de dansuri indigene.",
+                  "category": "landmark",
+                  "coords": [
+                        36.768667,
+                        -1.337589
+                  ]
+            },
+            {
+                  "name": "Circle Art Agency",
+                  "text": "Circle Art Agency funcționează ca o galerie contemporană de prim rang, dedicată expunerii și licitării artelor vizuale est-africane de avangardă.",
+                  "category": "museum",
+                  "coords": [
+                        36.759774,
+                        -1.296312
+                  ]
+            },
+            {
+                  "name": "Conservation Heroes Monument",
+                  "text": "Monumentul Eroilor Conservării este un memorial solemn din piatră în onoarea rangerilor de parc care și-au pierdut viața protejând fauna sălbatică a Kenyei de braconieri.",
+                  "category": "historical",
+                  "coords": [
+                        36.779593,
+                        -1.336146
+                  ]
+            },
+            {
+                  "name": "Mamba Village",
+                  "text": "Mamba Village este o grădină zoologică și o stațiune specializată, axată în principal pe adăpostirea și expunerea unei mari populații de crocodili de Nil.",
+                  "category": "recreational",
+                  "coords": [
+                        36.750628,
+                        -1.333561
+                  ]
+            },
+            {
+                  "name": "Nairobi Safari Walk",
+                  "text": "Nairobi Safari Walk are o pasarelă din lemn înălțată, permițând vizitatorilor să observe fauna sălbatică africană rară în habitate naturale simulate.",
+                  "category": "recreational",
+                  "coords": [
+                        36.77765,
+                        -1.336795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wildlife Clubs of Kenya",
+                  "text": "The Wildlife Clubs of Kenya center hosts educational ecology programs and nature exhibits aimed at promoting wildlife conservation among youth.",
+                  "category": "landmark",
+                  "coords": [
+                        36.772596,
+                        -1.338532
+                  ]
+            },
+            {
+                  "name": "Bomas of Kenya",
+                  "text": "Bomas of Kenya is a cultural center featuring authentic replicas of traditional tribal villages and daily performances of indigenous dances.",
+                  "category": "landmark",
+                  "coords": [
+                        36.768667,
+                        -1.337589
+                  ]
+            },
+            {
+                  "name": "Circle Art Agency",
+                  "text": "Circle Art Agency operates as a premier contemporary gallery dedicated to exhibiting and auctioning cutting-edge East African visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        36.759774,
+                        -1.296312
+                  ]
+            },
+            {
+                  "name": "Conservation Heroes Monument",
+                  "text": "The Conservation Heroes Monument is a solemn stone memorial honoring park rangers who lost their lives protecting Kenya's wildlife from poachers.",
+                  "category": "historical",
+                  "coords": [
+                        36.779593,
+                        -1.336146
+                  ]
+            },
+            {
+                  "name": "Mamba Village",
+                  "text": "Mamba Village is a specialized zoo and resort focused primarily on housing and displaying a large population of Nile crocodiles.",
+                  "category": "recreational",
+                  "coords": [
+                        36.750628,
+                        -1.333561
+                  ]
+            },
+            {
+                  "name": "Nairobi Safari Walk",
+                  "text": "The Nairobi Safari Walk features an elevated wooden boardwalk allowing visitors to observe rare African wildlife in simulated natural habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        36.77765,
+                        -1.336795
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-47",
     coords: [36.7750, -1.3300],
@@ -893,7 +3755,52 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/bomas-of-kenya-kid-v2.webp"},
   {
-    id: "fort-jesus-kid-v2",
+    id: "fort-jesus-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ras Serani Rear Lighthouse",
+                  "text": "Dieser Küstenleuchtturm hat in der Vergangenheit den Seeverkehr nahe der Küste geleitet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67816,
+                        -4.069991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ras Serani Rear Lighthouse",
+                  "text": "Ez a tengerparti világítótorony történelmileg a partközeli tengeri forgalmat irányította.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67816,
+                        -4.069991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ras Serani Rear Lighthouse",
+                  "text": "Acest far de coastă a ghidat istoric traficul maritim în apropierea țărmului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67816,
+                        -4.069991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ras Serani Rear Lighthouse",
+                  "text": "This coastal lighthouse structure has historically guided maritime traffic near the shores.",
+                  "category": "landmark",
+                  "coords": [
+                        39.67816,
+                        -4.069991
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-01",
     coords: [39.6739, -4.0619],
@@ -930,7 +3837,88 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
      image: "/poi-images/fort-jesus-kid-v2.webp"},
   {
-    id: "heller-garden-kid-v2",
+    id: "heller-garden-kid-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fundii Centre for the Arts",
+                  "text": "Diese Kunstgalerie in Nairobi zeigt zeitgenössische afrikanische bildende Kunst und kreative Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        36.814864,
+                        -1.25175
+                  ]
+            },
+            {
+                  "name": "Freeing in Africa",
+                  "text": "Diese interaktive Attraktion in Nairobi bietet fesselnde Escape-Room-Erlebnisse mit afrikanisch inspirierten Rätseln.",
+                  "category": "landmark",
+                  "coords": [
+                        36.805574,
+                        -1.25861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fundii Centre for the Arts",
+                  "text": "Ez a nairobi művészeti galéria kortárs afrikai vizuális művészeteket és kreatív kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        36.814864,
+                        -1.25175
+                  ]
+            },
+            {
+                  "name": "Freeing in Africa",
+                  "text": "Ez az interaktív nairobi látványosság magával ragadó szabadulószobás élményeket kínál afrikai témájú rejtvényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        36.805574,
+                        -1.25861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fundii Centre for the Arts",
+                  "text": "Această galerie de artă din Nairobi expune arte vizuale africane contemporane și expoziții creative.",
+                  "category": "museum",
+                  "coords": [
+                        36.814864,
+                        -1.25175
+                  ]
+            },
+            {
+                  "name": "Freeing in Africa",
+                  "text": "Această atracție interactivă din Nairobi oferă experiențe captivante de escape room cu puzzle-uri cu tematică africană.",
+                  "category": "landmark",
+                  "coords": [
+                        36.805574,
+                        -1.25861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fundii Centre for the Arts",
+                  "text": "This Nairobi art gallery showcases contemporary African visual arts and creative exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        36.814864,
+                        -1.25175
+                  ]
+            },
+            {
+                  "name": "Freeing in Africa",
+                  "text": "This interactive Nairobi attraction offers immersive escape room experiences with African-themed puzzles.",
+                  "category": "landmark",
+                  "coords": [
+                        36.805574,
+                        -1.25861
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "KE-47",
     coords: [36.8000, -1.2500],

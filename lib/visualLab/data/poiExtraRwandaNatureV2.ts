@@ -40,7 +40,88 @@ export const poiExtraRwandaNatureV2: POI[] = [
     
      image: "/poi-images/lake-kivu-nature-v2.webp"},
   {
-    id: "nyungwe-forest-nature-v2",
+    id: "nyungwe-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Start of the Nyabishwati trail",
+                  "text": "Der Startpunkt einer Trekkingtour durch den dichten Regenwald von Nyungwe, die Wanderer durch die afrikanische Vegetation führt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.242092,
+                        -2.474653
+                  ]
+            },
+            {
+                  "name": "Start of the Bigugu trail",
+                  "text": "Der Ausgangspunkt im Nyungwe-Wald, der Abenteurer auf einem steilen Anstieg auf den Berg Bigugu führt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.239833,
+                        -2.473558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Start of the Nyabishwati trail",
+                  "text": "Egy nyungwei sűrű esőerdei túra kiindulópontja, amely az afrikai növényzeten keresztül vezeti a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        29.242092,
+                        -2.474653
+                  ]
+            },
+            {
+                  "name": "Start of the Bigugu trail",
+                  "text": "A Nyungwe-erdő túraútvonalának kezdete, amely a kalandvágyókat a Bigugu-hegy meredek emelkedőjén vezeti fel.",
+                  "category": "landmark",
+                  "coords": [
+                        29.239833,
+                        -2.473558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Start of the Nyabishwati trail",
+                  "text": "Punctul de plecare al unei drumeții prin pădurea tropicală deasă din Nyungwe, ghidând turiștii prin vegetația africană.",
+                  "category": "landmark",
+                  "coords": [
+                        29.242092,
+                        -2.474653
+                  ]
+            },
+            {
+                  "name": "Start of the Bigugu trail",
+                  "text": "Punctul de pornire a traseului din Pădurea Nyungwe care îi conduce pe aventurieri într-o ascensiune abruptă pe Muntele Bigugu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.239833,
+                        -2.473558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Start of the Nyabishwati trail",
+                  "text": "The starting point of a dense rainforest trek in Nyungwe, guiding hikers through thick African vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        29.242092,
+                        -2.474653
+                  ]
+            },
+            {
+                  "name": "Start of the Bigugu trail",
+                  "text": "The trailhead in Nyungwe Forest leading adventurers on a steep ascent up Mount Bigugu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.239833,
+                        -2.473558
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "RW-05",
     coords: [29.25, -2.48],
@@ -147,7 +228,88 @@ export const poiExtraRwandaNatureV2: POI[] = [
     
      image: "/poi-images/akagera-river-nature-v2.webp"},
   {
-    id: "lake-burera-nature-v2",
+    id: "lake-burera-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musangabo viewpoint",
+                  "text": "Ein hoher Aussichtspunkt, der einen weiten Panoramablick über das ruhige Wasser des Burera-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.773712,
+                        -1.389989
+                  ]
+            },
+            {
+                  "name": "Kagogo Sector Office",
+                  "text": "Ein lokales Verwaltungszentrum nahe dem malerischen Ufer des Burera-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        29.778858,
+                        -1.384649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musangabo viewpoint",
+                  "text": "Magaslati kilátópont, ahonnan panorámás kilátás nyílik a Burera-tó nyugodt vizére.",
+                  "category": "natural",
+                  "coords": [
+                        29.773712,
+                        -1.389989
+                  ]
+            },
+            {
+                  "name": "Kagogo Sector Office",
+                  "text": "A Burera-tó festői partjának közelében található helyi közigazgatási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        29.778858,
+                        -1.384649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musangabo viewpoint",
+                  "text": "Un punct de belvedere înalt care oferă o panoramă largă asupra apelor liniștite ale lacului Burera.",
+                  "category": "natural",
+                  "coords": [
+                        29.773712,
+                        -1.389989
+                  ]
+            },
+            {
+                  "name": "Kagogo Sector Office",
+                  "text": "Un centru administrativ local situat în apropierea țărmului pitoresc al lacului Burera.",
+                  "category": "landmark",
+                  "coords": [
+                        29.778858,
+                        -1.384649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musangabo viewpoint",
+                  "text": "A high vantage point offering sweeping, panoramic views across the tranquil waters of Lake Burera.",
+                  "category": "natural",
+                  "coords": [
+                        29.773712,
+                        -1.389989
+                  ]
+            },
+            {
+                  "name": "Kagogo Sector Office",
+                  "text": "A local administrative center situated near the scenic shoreline of Lake Burera.",
+                  "category": "landmark",
+                  "coords": [
+                        29.778858,
+                        -1.384649
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RW-01",
     coords: [29.75, -1.41],
@@ -221,7 +383,88 @@ export const poiExtraRwandaNatureV2: POI[] = [
     
      image: "/poi-images/lake-ruhondo-nature-v2.webp"},
   {
-    id: "mount-bisoke-nature-v2",
+    id: "mount-bisoke-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dian Fossey Grave",
+                  "text": "Die letzte Ruhestätte der renommierten Primatologin Dian Fossey, hoch oben an den bewaldeten Hängen des Vulkans Bisoke.",
+                  "category": "landmark",
+                  "coords": [
+                        29.484615,
+                        -1.473267
+                  ]
+            },
+            {
+                  "name": "Tracker Hut",
+                  "text": "Die abgelegenen Ruinen einer Hütte, die früher von den engagierten Gorilla-Fährtensuchern am Mount Bisoke genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        29.485564,
+                        -1.473753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dian Fossey Grave",
+                  "text": "A neves primatológus, Dian Fossey végső nyughelye, magasan a Bisoke-hegy erdős lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.484615,
+                        -1.473267
+                  ]
+            },
+            {
+                  "name": "Tracker Hut",
+                  "text": "Egy kunyhó távoli romjai, amelyet korábban a Bisoke-hegyet bejáró elhivatott gorillanyomkeresők használtak.",
+                  "category": "historical",
+                  "coords": [
+                        29.485564,
+                        -1.473753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dian Fossey Grave",
+                  "text": "Locul de odihnă final al renumitului primatolog Dian Fossey, situat sus pe versanții împăduriți ai Muntelui Bisoke.",
+                  "category": "landmark",
+                  "coords": [
+                        29.484615,
+                        -1.473267
+                  ]
+            },
+            {
+                  "name": "Tracker Hut",
+                  "text": "Ruinele îndepărtate ale unei colibe utilizate anterior de urmăritorii dedicați de gorile care traversau Muntele Bisoke.",
+                  "category": "historical",
+                  "coords": [
+                        29.485564,
+                        -1.473753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dian Fossey Grave",
+                  "text": "The final resting place of the renowned primatologist Dian Fossey, situated high on the forested slopes of Mount Bisoke.",
+                  "category": "landmark",
+                  "coords": [
+                        29.484615,
+                        -1.473267
+                  ]
+            },
+            {
+                  "name": "Tracker Hut",
+                  "text": "The remote ruins of a hut formerly utilized by the dedicated gorilla trackers traversing Mount Bisoke.",
+                  "category": "historical",
+                  "coords": [
+                        29.485564,
+                        -1.473753
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RW-01",
     coords: [29.48, -1.46],
@@ -755,7 +998,88 @@ export const poiExtraRwandaNatureV2: POI[] = [
       fr: ["Point culminant du Rwanda avec 4 507 m.", "Les températures peuvent descendre sous zéro.", "Abrite une grande antenne de télécommunications.", "Offre une vue sur les volcans Nyiragongo et Nyamuragira.", "La zone sommitale est une zone climatique afro-alpine.", "L'air est rare, rendant l'acclimatation cruciale.", "La neige et le grésil sont possibles en saison sèche."],
     }, image: "/poi-images/mount-kalisimbi-summit-nature-v2.webp"},
   {
-    id: "lake-kivu-north-nature-v2",
+    id: "lake-kivu-north-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hot springs",
+                  "text": "Die heißen Quellen bieten eine natürlich beheizte geothermische Attraktion in der Nähe des Nordufers des Kiwusees.",
+                  "category": "landmark",
+                  "coords": [
+                        29.27453,
+                        -1.739541
+                  ]
+            },
+            {
+                  "name": "Start of the Congo Nile Trail",
+                  "text": "Der Beginn des Kongo-Nil-Trails ist eine malerische Attraktion, die den Start der bekannten Fernwanderroute entlang des Kiwusees markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.277064,
+                        -1.73947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hot springs",
+                  "text": "A meleg források természetesen fűtött geotermikus látványosságot kínálnak a Kivu-tó északi partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.27453,
+                        -1.739541
+                  ]
+            },
+            {
+                  "name": "Start of the Congo Nile Trail",
+                  "text": "A Kongó-Nílus ösvény kezdete egy festői látványosság, amely a Kivu-tó mentén futó híres hosszú távú túraútvonal indulását jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.277064,
+                        -1.73947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hot springs",
+                  "text": "Izvoarele termale oferă o atracție geotermală încălzită natural în apropierea țărmurilor nordice ale Lacului Kivu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.27453,
+                        -1.739541
+                  ]
+            },
+            {
+                  "name": "Start of the Congo Nile Trail",
+                  "text": "Începutul Traseului Congo-Nil este o atracție pitorească ce marchează startul renumitei rute de drumeție pe distanțe lungi de-a lungul Lacului Kivu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.277064,
+                        -1.73947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hot springs",
+                  "text": "The Hot springs provide a naturally heated geothermal attraction near the northern shores of Lake Kivu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.27453,
+                        -1.739541
+                  ]
+            },
+            {
+                  "name": "Start of the Congo Nile Trail",
+                  "text": "Start of the Congo Nile Trail is a scenic attraction marking the beginning of the renowned long-distance trekking route along Lake Kivu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.277064,
+                        -1.73947
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RW-01",
     coords: [29.28, -1.75],
@@ -825,7 +1149,88 @@ export const poiExtraRwandaNatureV2: POI[] = [
       fr: ["Plus grande zone humide protégée d'Afrique centrale.", "Abrite le rare bec-en-sabot du Nil.", "Comprend une chaîne de lacs reliés par des marécages.", "Habitat de la plus grande population d'hippopotames du Rwanda.", "Zone de frai majeure pour de nombreuses espèces de poissons.", "Reconnu comme site Ramsar d'importance internationale.", "La jacinthe d'eau représente une menace invasive."],
     }, image: "/poi-images/akagera-wetlands-nature-v2.webp"},
   {
-    id: "mount-hiyaga-nature-v2",
+    id: "mount-hiyaga-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ibuye rya bagenge",
+                  "text": "Eine markante natürliche Felsformation in der malerischen Hochlandlandschaft rund um den Mount Hiyaga.",
+                  "category": "landmark",
+                  "coords": [
+                        29.788455,
+                        -1.645844
+                  ]
+            },
+            {
+                  "name": "Mount Kabuye",
+                  "text": "Ein markanter ruandischer Berggipfel, der anspruchsvolle Wanderungen und üppige Hochlandlandschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.812391,
+                        -1.607819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ibuye rya bagenge",
+                  "text": "Különleges természetes sziklaalakzat a Hiyaga-hegy körüli festői felvidéki terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        29.788455,
+                        -1.645844
+                  ]
+            },
+            {
+                  "name": "Mount Kabuye",
+                  "text": "Kiemelkedő ruandai hegycsúcs, amely kihívást jelentő túrákat és buja, magaslati tájakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        29.812391,
+                        -1.607819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ibuye rya bagenge",
+                  "text": "O formațiune stâncoasă naturală distinctivă situată în peisajul muntos pitoresc din jurul Muntelui Hiyaga.",
+                  "category": "landmark",
+                  "coords": [
+                        29.788455,
+                        -1.645844
+                  ]
+            },
+            {
+                  "name": "Mount Kabuye",
+                  "text": "Un vârf montan proeminent din Rwanda, oferind drumeții provocatoare și peisaje luxuriante la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        29.812391,
+                        -1.607819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ibuye rya bagenge",
+                  "text": "A distinctive natural rock formation situated in the scenic highland terrain around Mount Hiyaga.",
+                  "category": "landmark",
+                  "coords": [
+                        29.788455,
+                        -1.645844
+                  ]
+            },
+            {
+                  "name": "Mount Kabuye",
+                  "text": "A prominent Rwandan mountain peak offering challenging hikes and lush, high-altitude landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        29.812391,
+                        -1.607819
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RW-01",
     coords: [29.80, -1.65],
@@ -1002,7 +1407,52 @@ export const poiExtraRwandaNatureV2: POI[] = [
       fr: ["Principal affluent de la rivière Nyabarongo.", "Marque la frontière entre le Rwanda et le Burundi au sud.", "Abrite de vastes marais de papyrus d'une grande valeur écologique.", "Zone importante pour la conservation des oiseaux (IBA).", "Important pour la pêche et l'approvisionnement local en eau.", "Caractérisé par des cycles d'inondation saisonniers."],
     }, image: "/poi-images/akanyaru-river-nature-v2.webp"},
   {
-    id: "karongi-shores-nature-v2",
+    id: "karongi-shores-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kings Island",
+                  "text": "Eingebettet in die ruhigen Gewässer des Kivu-Sees bietet dieser Inselaussichtspunkt atemberaubende, freie Panoramen auf die umliegenden terrassierten ruandischen Hänge in Karongi.",
+                  "category": "natural",
+                  "coords": [
+                        29.332504,
+                        -2.047298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kings Island",
+                  "text": "A Kivu-tó nyugodt vizében fészkelő szigeti kilátó lélegzetelállító, akadálytalan panorámát nyújt a környező, teraszos ruandai domboldalakra Karongiban.",
+                  "category": "natural",
+                  "coords": [
+                        29.332504,
+                        -2.047298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kings Island",
+                  "text": "Amplasat în apele liniștite ale lacului Kivu, acest punct de belvedere insular oferă panorame uluitoare și libere asupra dealurilor ruandeze terasate din jur în Karongi.",
+                  "category": "natural",
+                  "coords": [
+                        29.332504,
+                        -2.047298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kings Island",
+                  "text": "Nestled in the tranquil waters of Lake Kivu, this island viewpoint offers breathtaking, unobstructed panoramas of the surrounding terraced Rwandan hillsides in Karongi.",
+                  "category": "natural",
+                  "coords": [
+                        29.332504,
+                        -2.047298
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RW-01",
     coords: [29.33, -2.05],

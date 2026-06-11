@@ -507,7 +507,52 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "lubumbashi-kinderpark-v2",
+    id: "lubumbashi-kinderpark-v2", "sights": {
+      "de": [
+            {
+                  "name": "The GARDEN",
+                  "text": "The GARDEN ist ein familienorientierter Themenpark in Lubumbashi, der verschiedene Erholungsattraktionen im Freien und Fahrgeschäfte bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423366,
+                        -11.576538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The GARDEN",
+                  "text": "A The GARDEN egy család-orientált vidámpark Lubumbashiban, amely különféle szabadtéri rekreációs látványosságokat és játszótéri játékokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423366,
+                        -11.576538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The GARDEN",
+                  "text": "The GARDEN este un parc tematic orientat spre familii din Lubumbashi, oferind diverse atracții recreative în aer liber și locuri de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423366,
+                        -11.576538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The GARDEN",
+                  "text": "The GARDEN is a family-oriented theme park in Lubumbashi offering various outdoor recreational attractions and playground rides.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423366,
+                        -11.576538
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CD-HK",
     coords: [27.4, -11.6],
@@ -615,7 +660,52 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "goma-kinderpark-v2",
+    id: "goma-kinderpark-v2", "sights": {
+      "de": [
+            {
+                  "name": "Évent 1977",
+                  "text": "Évent 1977 ist eine historische Attraktion, die an ein spezifisches vulkanisches Rissereignis in der Nähe des Kinderparks in Goma erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.226267,
+                        -1.619918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Évent 1977",
+                  "text": "Az Évent 1977 egy történelmi látványosság, amely egy specifikus vulkáni hasadék eseményre emlékeztet Goma Kinderparkjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.226267,
+                        -1.619918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Évent 1977",
+                  "text": "Évent 1977 este o atracție istorică ce comemorează un eveniment specific al unei fisuri vulcanice în apropierea Parcului Copiilor din Goma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.226267,
+                        -1.619918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Évent 1977",
+                  "text": "Évent 1977 is a historical attraction commemorating a specific volcanic fissure event near Goma's Kinderpark.",
+                  "category": "landmark",
+                  "coords": [
+                        29.226267,
+                        -1.619918
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CD-NK",
     coords: [29.2, -1.6],
@@ -687,7 +777,88 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "kisangani-kinderpark-v2",
+    id: "kisangani-kinderpark-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Fritz (locomotive à vapeur CFL)",
+                  "text": "Die historische CFL-Dampflokomotive „Le Fritz“ ist eine besondere Attraktion im kisangani-kinderpark-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.190065,
+                        0.49956
+                  ]
+            },
+            {
+                  "name": "ConKim Lodge",
+                  "text": "Die ConKim Lodge ist eine einladende Unterkunft und Attraktion in kisangani-kinderpark-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.250522,
+                        0.491824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Fritz (locomotive à vapeur CFL)",
+                  "text": "A történelmi „Le Fritz” CFL gőzmozdony különleges látványosság a kisangani-kinderpark-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.190065,
+                        0.49956
+                  ]
+            },
+            {
+                  "name": "ConKim Lodge",
+                  "text": "A ConKim Lodge egy hívogató szállás és látványosság a kisangani-kinderpark-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.250522,
+                        0.491824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Fritz (locomotive à vapeur CFL)",
+                  "text": "Locomotiva cu abur istorică CFL „Le Fritz” este o atracție deosebită în kisangani-kinderpark-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.190065,
+                        0.49956
+                  ]
+            },
+            {
+                  "name": "ConKim Lodge",
+                  "text": "ConKim Lodge este un loc de cazare primitor și o atracție în kisangani-kinderpark-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.250522,
+                        0.491824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Fritz (locomotive à vapeur CFL)",
+                  "text": "The historic CFL steam locomotive \"Le Fritz\" is a special attraction in kisangani-kinderpark-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.190065,
+                        0.49956
+                  ]
+            },
+            {
+                  "name": "ConKim Lodge",
+                  "text": "The ConKim Lodge is an inviting accommodation and attraction in kisangani-kinderpark-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        25.250522,
+                        0.491824
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CD-TU",
     coords: [25.2, 0.5],
@@ -759,7 +930,52 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     },
   },
   {
-    id: "bukavu-kinderpark-v2",
+    id: "bukavu-kinderpark-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statue de Mwami Alexandre Kabare, dit Zéro-Zéro",
+                  "text": "Eine markante Gedenkstatue für den lokalen traditionellen Führer Mwami Alexandre Kabare im Herzen von Bukavu.",
+                  "category": "landmark",
+                  "coords": [
+                        28.786384,
+                        -2.498085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue de Mwami Alexandre Kabare, dit Zéro-Zéro",
+                  "text": "A helyi hagyományos vezető, Mwami Alexandre Kabare kiemelkedő emlékszobra Bukavu szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.786384,
+                        -2.498085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue de Mwami Alexandre Kabare, dit Zéro-Zéro",
+                  "text": "O statuie memorială proeminentă care îl comemorează pe liderul tradițional local Mwami Alexandre Kabare, în inima orașului Bukavu.",
+                  "category": "landmark",
+                  "coords": [
+                        28.786384,
+                        -2.498085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue de Mwami Alexandre Kabare, dit Zéro-Zéro",
+                  "text": "A prominent memorial statue commemorating the local traditional leader Mwami Alexandre Kabare in the heart of Bukavu.",
+                  "category": "landmark",
+                  "coords": [
+                        28.786384,
+                        -2.498085
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CD-SK",
     coords: [28.8, -2.5],

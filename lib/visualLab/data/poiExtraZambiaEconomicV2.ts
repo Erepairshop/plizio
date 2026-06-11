@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraZambiaEconomicV2: POI[] = [
   {
-    id: "zm-mopani-copper-mines-economic-v2",
+    id: "zm-mopani-copper-mines-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lwando Family Farm",
+                  "text": "Im Schatten der Mopani-Kupferbergbauregion gelegen, demonstriert diese lokale Familienfarm traditionelle landwirtschaftliche Praktiken inmitten einer Industrielandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        28.309616,
+                        -12.492121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lwando Family Farm",
+                  "text": "A Mopani rézbányászati régió árnyékában található helyi családi gazdaság a hagyományos mezőgazdasági gyakorlatokat mutatja be egy ipari táj közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.309616,
+                        -12.492121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lwando Family Farm",
+                  "text": "Situată în umbra regiunii miniere de cupru Mopani, această fermă familială locală demonstrează practici agricole tradiționale în mijlocul unui peisaj industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        28.309616,
+                        -12.492121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lwando Family Farm",
+                  "text": "Located in the shadow of the Mopani copper mining region, this local family farm demonstrates traditional agricultural practices amidst an industrial landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        28.309616,
+                        -12.492121
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZM-08",
     coords: [28.2435, -12.5488],
@@ -345,7 +390,52 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zm-chibuluma-copper-mine-economic-v2",
+    id: "zm-chibuluma-copper-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "Der Kalalushi Coreshed dient als geologisches Museum und beherbergt eine umfangreiche Bibliothek zylindrischer Gesteinskernproben, die in der nahegelegenen Chibuluma-Kupfermine entnommen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "A geológiai múzeumként működő Kalalushi Coreshed hengeres kőzetmagminták kiterjedt gyűjteményének ad otthont, amelyeket a közeli Chibuluma rézbányából bányásztak ki.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "Servind ca muzeu geologic, Kalalushi Coreshed găzduiește o bibliotecă extinsă de eșantioane de carote cilindrice de rocă extrase din mina de cupru Chibuluma din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "Serving as a geological museum, the Kalalushi Coreshed houses an extensive library of cylindrical rock core samples extracted from the nearby Chibuluma copper mine.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZM-08",
     coords: [28.0694, -12.8364],
@@ -567,7 +657,124 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zm-chilanga-cement-economic-v2",
+    id: "zm-chilanga-cement-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tiffany's Canyon",
+                  "text": "Ein gefluteter ehemaliger Steinbruch, der heute als idyllischer Erholungssee für Wassersportler dient.",
+                  "category": "landmark",
+                  "coords": [
+                        28.239384,
+                        -15.644506
+                  ]
+            },
+            {
+                  "name": "Lilayi Elephant Sanctuary",
+                  "text": "Diese Einrichtung widmet sich der Rettung und Rehabilitation verwaister afrikanischer Elefantenkälber.",
+                  "category": "recreational",
+                  "coords": [
+                        28.311191,
+                        -15.529542
+                  ]
+            },
+            {
+                  "name": "Munda Wanga Environmental Park",
+                  "text": "Ein Umweltpark mit einem botanischen Garten und Gehegen für gerettete einheimische Wildtiere.",
+                  "category": "recreational",
+                  "coords": [
+                        28.272245,
+                        -15.558712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tiffany's Canyon",
+                  "text": "Egy elárasztott egykori kőbánya, amely ma idilli rekreációs tóként szolgál a vízi sportok szerelmeseinek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.239384,
+                        -15.644506
+                  ]
+            },
+            {
+                  "name": "Lilayi Elephant Sanctuary",
+                  "text": "Ez a létesítmény az elárvult afrikai elefántborjak megmentésének, gondozásának és rehabilitációjának szenteli magát.",
+                  "category": "recreational",
+                  "coords": [
+                        28.311191,
+                        -15.529542
+                  ]
+            },
+            {
+                  "name": "Munda Wanga Environmental Park",
+                  "text": "Környezetvédelmi park botanikus kerttel és tágas kifutókkal a megmentett őshonos vadon élő állatok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        28.272245,
+                        -15.558712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tiffany's Canyon",
+                  "text": "O fostă carieră de piatră inundată, care servește acum drept un lac de agrement idilic pentru pasionații de sporturi nautice.",
+                  "category": "landmark",
+                  "coords": [
+                        28.239384,
+                        -15.644506
+                  ]
+            },
+            {
+                  "name": "Lilayi Elephant Sanctuary",
+                  "text": "Acest centru este dedicat salvării, îngrijirii și reabilitării puilor de elefanți africani orfani.",
+                  "category": "recreational",
+                  "coords": [
+                        28.311191,
+                        -15.529542
+                  ]
+            },
+            {
+                  "name": "Munda Wanga Environmental Park",
+                  "text": "Un parc de mediu care cuprinde o grădină botanică și țarcuri spațioase pentru fauna sălbatică autohtonă salvată.",
+                  "category": "recreational",
+                  "coords": [
+                        28.272245,
+                        -15.558712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tiffany's Canyon",
+                  "text": "A flooded former quarry that now serves as an idyllic recreational lake for water sports enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        28.239384,
+                        -15.644506
+                  ]
+            },
+            {
+                  "name": "Lilayi Elephant Sanctuary",
+                  "text": "This facility is dedicated to the rescue, care, and rehabilitation of orphaned African elephant calves.",
+                  "category": "recreational",
+                  "coords": [
+                        28.311191,
+                        -15.529542
+                  ]
+            },
+            {
+                  "name": "Munda Wanga Environmental Park",
+                  "text": "An environmental park featuring a botanical garden and spacious enclosures for rescued indigenous wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        28.272245,
+                        -15.558712
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZM-09",
     coords: [28.2619, -15.5681],
@@ -807,7 +1014,88 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zm-kariba-north-bank-power-station-economic-v2",
+    id: "zm-kariba-north-bank-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Dieses sandige Strandresort liegt am Ufer des Stausees in der Nähe des Kariba-Damms.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            },
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Dieser Aussichtspunkt befindet sich in einer Safari-Lodge mit weitem Blick über den Karibasee.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Ez a homokos tóparti üdülőhely a Kariba-gát közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            },
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Ez a kilátó egy szafari lodge-ban található, ahonnan csodálatos kilátás nyílik a Kariba-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Această stațiune de plajă cu nisip este situată pe malul lacului, lângă barajul Kariba.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            },
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Acest punct de belvedere se află la o cabană de safari, oferind o panoramă largă asupra lacului Kariba.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "This sandy lakeside beach resort is situated on the shores near the Kariba dam.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            },
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "This viewpoint is located at a safari lodge offering sweeping vistas over Lake Kariba.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZM-07",
     coords: [28.7611, -16.5236],
@@ -927,7 +1215,232 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zm-victoria-falls-power-station-economic-v2",
+    id: "zm-victoria-falls-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victoria Falls distances  plaque.",
+                  "text": "Eine markante geografische Markierungstafel nahe der Wasserfälle, die die genauen Entfernungen zu verschiedenen internationalen Großstädten rund um den Globus angibt.",
+                  "category": "historical",
+                  "coords": [
+                        25.838315,
+                        -17.928067
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "Eine Freilichtmuseumsausstellung mit einer sorgfältig restaurierten historischen Dampflokomotive, die die historische Eisenbahnära der Region widerspiegelt.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "Ein immersives Kulturzentrum, in dem Besucher an traditionellen sambischen Tänzen, Handwerkskunst und authentischen lokalen Zeremonien teilnehmen können.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "Diese aufregende Doppelattraktion, betrieben von Wild Horizons, lässt Abenteuerlustige hoch über der atemberaubenden Sambesi-Schlucht schwingen und rutschen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "Ein ungeschützter, felsiger Vorsprung, der sich gefährlich nahe am Rand der Victoriafälle befindet und dramatische Ausblicke auf das herabstürzende Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "Ein konzentriertes Zentrum für adrenalingeladene Outdoor-Aktivitäten und Abenteuersportarten im rauen Gelände nahe der Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834473,
+                        -17.931905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victoria Falls distances  plaque.",
+                  "text": "Egy jellegzetes földrajzi jelzőtábla a vízesés közelében, amely részletezi a világ különböző jelentős nemzetközi városaitól való pontos távolságokat.",
+                  "category": "historical",
+                  "coords": [
+                        25.838315,
+                        -17.928067
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "Szabadtéri múzeumi kiállítás, amely egy aprólékosan felújított régi gőzmozdonyt mutat be, amely a régió történelmi vasúti korszakát tükrözi.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "Egy magával ragadó kulturális központ, ahol a látogatók részt vehetnek hagyományos zambiai táncokban, kézműveskedésben és autentikus helyi szertartásokon.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "A Wild Horizons által üzemeltetett izgalmas kettős látványosság lehetővé teszi, hogy az izgalomra vágyók magasan a lélegzetelállító Zambézi-szurdok felett hintázzanak és csússzanak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "Egy kerítés nélküli, sziklás kiszögellés, amely veszélyesen közel helyezkedik el a Viktória-vízesés széléhez, drámai kilátást nyújtva a lezúduló vízre.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "Az adrenalinfűtött szabadtéri tevékenységek és kalandsportok koncentrált központja a vízesés közelében fekvő zord terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834473,
+                        -17.931905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victoria Falls distances  plaque.",
+                  "text": "O placă marcatoare geografică distinctă lângă cascadă, care detaliază distanțele exacte către diverse mari orașe internaționale de pe glob.",
+                  "category": "historical",
+                  "coords": [
+                        25.838315,
+                        -17.928067
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "O expoziție de muzeu în aer liber care prezintă o locomotivă cu abur de epocă restaurată meticulos, care reflectă era feroviară istorică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "Un centru cultural captivant unde vizitatorii pot participa la dansuri tradiționale zambiene, meșteșuguri și ceremonii locale autentice.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "Operată de Wild Horizons, această atracție dublă captivantă permite amatorilor de senzații tari să se legene și să zboare pe tiroliană la mare înălțime deasupra uluitorului defileu Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "Un afloriment stâncos, fără gard, poziționat precar lângă marginea Cascadei Victoria, oferind priveliști dramatice ale apei care coboară.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "Un centru concentrat de activități în aer liber și sporturi de aventură pline de adrenalină, situat pe terenul accidentat din apropierea cascadei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834473,
+                        -17.931905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victoria Falls distances  plaque.",
+                  "text": "A distinctive geographic marker plaque near the falls detailing the exact distances to various major international cities across the globe.",
+                  "category": "historical",
+                  "coords": [
+                        25.838315,
+                        -17.928067
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "An open-air museum exhibit featuring a meticulously restored vintage steam locomotive that reflects the region's historic railway era.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "An immersive cultural center where visitors can participate in traditional Zambian dances, crafts, and authentic local ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "Operated by Wild Horizons, this exhilarating dual attraction lets thrill-seekers swing and zip high above the breathtaking Zambezi Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "An unfenced, rocky outcrop positioned precariously near the edge of Victoria Falls, offering dramatic views of the descending water.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "A concentrated hub of adrenaline-fueled outdoor activities and adventure sports situated in the rugged terrain near the falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834473,
+                        -17.931905
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZM-07",
     coords: [25.8569, -17.9272],
@@ -1047,7 +1560,52 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zm-mpulungu-harbour-economic-v2",
+    id: "zm-mpulungu-harbour-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "Die Niamkolo-Kirche ist ein geschütztes Kulturerbe in der Nähe des Hafens von Mpulungu und gilt als eine der ältesten erhaltenen Steinkirchen in Sambia.",
+                  "category": "landmark",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "A Niamkolo-templom egy védett örökségi látványosság Mpulungu kikötője közelében, amely Zambia egyik legrégebbi fennmaradt kőtemploma.",
+                  "category": "landmark",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "Biserica Niamkolo este o atracție de patrimoniu protejată din apropierea portului Mpulungu, recunoscută drept una dintre cele mai vechi biserici din piatră din Zambia.",
+                  "category": "landmark",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "Niamkolo Church is a protected heritage attraction near Mpulungu Harbour, noted as one of the oldest surviving stone churches in Zambia.",
+                  "category": "landmark",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZM-05",
     coords: [31.1158, -8.7628],
@@ -1287,7 +1845,52 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zm-black-mountain-slag-dump-economic-v2",
+    id: "zm-black-mountain-slag-dump-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MPF",
+                  "text": "Ein lokales Theater für darstellende Künste in einem Industriegebiet, das durch die Nähe zur imposanten Black-Mountain-Schlackenhalde geprägt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        28.24064,
+                        -12.807208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MPF",
+                  "text": "Helyi színház egy ipari területen, amelyet az impozáns Fekete-hegy salaklerakó közelsége jellemez.",
+                  "category": "cultural",
+                  "coords": [
+                        28.24064,
+                        -12.807208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MPF",
+                  "text": "Un teatru local de artele spectacolului, amplasat într-o zonă industrială caracterizată prin apropierea de impunătoarea haldă de zgură a Muntelui Negru.",
+                  "category": "cultural",
+                  "coords": [
+                        28.24064,
+                        -12.807208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MPF",
+                  "text": "A local performing arts theatre nestled in an industrial area characterized by its proximity to the imposing Black Mountain slag dump.",
+                  "category": "cultural",
+                  "coords": [
+                        28.24064,
+                        -12.807208
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ZM-08",
     coords: [28.2167, -12.8167],
@@ -1707,7 +2310,484 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zm-chirundu-dry-port-economic-v2",
+    id: "zm-chirundu-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Niloticus Pools",
+                  "text": "Diese natürlichen Pools in der Nähe von Chirundu sind nach dem Nilkrokodil benannt und stellen ein Feuchtgebiet dar, das eng mit dem Sambesi-Flusssystem verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.868035,
+                        -16.085703
+                  ]
+            },
+            {
+                  "name": "Rifa Water Pump",
+                  "text": "Eine Wassergewinnungsanlage im industriellen Stil in der Nähe von Chirundu, die als funktionales Infrastrukturteil die lokale Landwirtschaft unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.865446,
+                        -16.076701
+                  ]
+            },
+            {
+                  "name": "Hollow Baobab",
+                  "text": "Dieser massive, uralte Affenbrotbaum in der Nähe von Chirundu verfügt über einen großen natürlichen Hohlraum in seinem Stamm und bietet einen faszinierenden Einblick in die Botanik der Savanne.",
+                  "category": "landmark",
+                  "coords": [
+                        28.861032,
+                        -16.063327
+                  ]
+            },
+            {
+                  "name": "Rifa Hot Spring",
+                  "text": "Eine sprudelnde natürliche Geothermalquelle, die in der Nähe von Chirundu aus der Erde entspringt und in der trockenen Landschaft einen ganz eigenen Mikro-Lebensraum schafft.",
+                  "category": "landmark",
+                  "coords": [
+                        28.860388,
+                        -16.064825
+                  ]
+            },
+            {
+                  "name": "Shumba Hill Viewpoint",
+                  "text": "Dieser Aussichtspunkt auf einem markanten Hügel in der Nähe von Chirundu gewährt Besuchern einen weiten Panoramablick über das riesige Terrain des Sambesi-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        28.867282,
+                        -16.066007
+                  ]
+            },
+            {
+                  "name": "PWMA Rangers House Rifa",
+                  "text": "Dieser Außenposten in der Nähe von Chirundu dient als Verwaltungs- und Patrouillenbasis und beherbergt das Personal für die Park- und Wildtierverwaltung, das die lokalen Ökosysteme schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.870275,
+                        -16.069868
+                  ]
+            },
+            {
+                  "name": "Vulture Watch",
+                  "text": "Eine spezielle Naturattraktion im Gebiet von Chirundu, die einen Aussichtspunkt zur Beobachtung der lokalen Geierpopulationen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.869485,
+                        -16.071504
+                  ]
+            },
+            {
+                  "name": "Carmine Bee Eater Colony",
+                  "text": "Ein malerischer Aussichtspunkt, der nahe Chirundu einen klaren Blick auf die Nistplätze der farbenprächtigen Karminspinte bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.873711,
+                        -16.075617
+                  ]
+            },
+            {
+                  "name": "Sunset Point",
+                  "text": "Eine ruhige Attraktion am Flussufer nahe Chirundu, die für ihre weite Aussicht auf den Sambesi bei Sonnenuntergang bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.867257,
+                        -16.080825
+                  ]
+            },
+            {
+                  "name": "Chirundu Pumphouse",
+                  "text": "Ein historisches Industriedenkmal, das die frühe Pumpeninfrastruktur nahe der Sambesi-Grenzstadt Chirundu bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        28.886644,
+                        -16.000431
+                  ]
+            },
+            {
+                  "name": "Chirundu Crocodile Farm",
+                  "text": "Ein Tierbeobachtungsgebiet in Chirundu, das sich auf die Zucht und Erhaltung großer aquatischer Reptilien konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        28.904184,
+                        -16.005319
+                  ]
+            },
+            {
+                  "name": "Tiger Safaris Office",
+                  "text": "Die operative Basis für die Organisation von Sportfischerei- und Wildtierexkursionen entlang des unteren Sambesi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.856235,
+                        -16.036831
+                  ]
+            },
+            {
+                  "name": "Rifa Educational Camp Reserve",
+                  "text": "Ein geschütztes Naturschutzgebiet im Sambesital, das der Umwelterziehung und dem Wildnistraining von Jugendlichen gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.878325,
+                        -16.07989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Niloticus Pools",
+                  "text": "Ezek a Chirundu melletti természetes medencék a nílusi krokodilról kapták a nevüket, és a Zambézi folyórendszerhez szorosan kapcsolódó vizes élőhelyet mutatnak be.",
+                  "category": "landmark",
+                  "coords": [
+                        28.868035,
+                        -16.085703
+                  ]
+            },
+            {
+                  "name": "Rifa Water Pump",
+                  "text": "Egy ipari stílusú vízkitermelő berendezés Chirundu közelében, amely a helyi mezőgazdaságot támogató, működő infrastrukturális elemként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.865446,
+                        -16.076701
+                  ]
+            },
+            {
+                  "name": "Hollow Baobab",
+                  "text": "Ez a Chirundu melletti hatalmas, ősi baobab fa törzsén egy nagy természetes üreg található, amely lenyűgöző bepillantást nyújt a szavanna növényvilágába.",
+                  "category": "landmark",
+                  "coords": [
+                        28.861032,
+                        -16.063327
+                  ]
+            },
+            {
+                  "name": "Rifa Hot Spring",
+                  "text": "Egy bugyogó, természetes geotermikus forrás, amely Chirundu közelében tör fel a földből, és különleges mikroélőhelyet hoz létre a száraz tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        28.860388,
+                        -16.064825
+                  ]
+            },
+            {
+                  "name": "Shumba Hill Viewpoint",
+                  "text": "A Chirundu melletti kiemelkedő domb tetején található kilátó panorámás kilátást nyújt a hatalmas Zambézi-völgy terepére.",
+                  "category": "natural",
+                  "coords": [
+                        28.867282,
+                        -16.066007
+                  ]
+            },
+            {
+                  "name": "PWMA Rangers House Rifa",
+                  "text": "A Chirundu melletti közigazgatási és járőrbázisként szolgáló előőrs a helyi ökoszisztémákat védő parkok és vadvédelmi hatóságok személyzetének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        28.870275,
+                        -16.069868
+                  ]
+            },
+            {
+                  "name": "Vulture Watch",
+                  "text": "Különleges természeti látványosság a Chirundu régióban, amely kilátópontot nyújt a helyi keselyűpopulációk megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        28.869485,
+                        -16.071504
+                  ]
+            },
+            {
+                  "name": "Carmine Bee Eater Colony",
+                  "text": "Festői kilátópont, ahonnan jól láthatók a színes kármingyurgyalagok fészkelőhelyei Chirundu közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.873711,
+                        -16.075617
+                  ]
+            },
+            {
+                  "name": "Sunset Point",
+                  "text": "Békés folyóparti látványosság Chirundu közelében, amely arról ismert, hogy naplementekor széles kilátás nyílik a Zambézi folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        28.867257,
+                        -16.080825
+                  ]
+            },
+            {
+                  "name": "Chirundu Pumphouse",
+                  "text": "Történelmi ipari műemlék, amely a Zambézi határváros, Chirundu korai szivattyúzási infrastruktúráját őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        28.886644,
+                        -16.000431
+                  ]
+            },
+            {
+                  "name": "Chirundu Crocodile Farm",
+                  "text": "Vadon élő állatok megfigyelésére szolgáló terület Chirunduban, amely a nagyméretű vízi hüllők tenyésztésére és megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        28.904184,
+                        -16.005319
+                  ]
+            },
+            {
+                  "name": "Tiger Safaris Office",
+                  "text": "A sport-horgászatot és a vadon élő állatokat bemutató kirándulásokat szervező operatív bázis az alsó Zambézi folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.856235,
+                        -16.036831
+                  ]
+            },
+            {
+                  "name": "Rifa Educational Camp Reserve",
+                  "text": "A Zambézi-völgyben található, környezeti nevelésnek és ifjúsági vadonbeli képzésnek szentelt védett természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        28.878325,
+                        -16.07989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Niloticus Pools",
+                  "text": "Aceste bazine naturale de lângă Chirundu sunt numite după crocodilul de Nil, prezentând un habitat umed strâns legat de sistemul râului Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.868035,
+                        -16.085703
+                  ]
+            },
+            {
+                  "name": "Rifa Water Pump",
+                  "text": "Un dispozitiv de extracție a apei în stil industrial lângă Chirundu, servind ca o piesă funcțională a infrastructurii care susține agricultura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.865446,
+                        -16.076701
+                  ]
+            },
+            {
+                  "name": "Hollow Baobab",
+                  "text": "Acest baobab masiv și antic din apropiere de Chirundu prezintă o mare cavitate naturală în trunchiul său, oferind o privire fascinantă asupra botanicii de savană.",
+                  "category": "landmark",
+                  "coords": [
+                        28.861032,
+                        -16.063327
+                  ]
+            },
+            {
+                  "name": "Rifa Hot Spring",
+                  "text": "Un izvor geotermal natural care izvorăște din pământ lângă Chirundu, creând un micro-habitat distinct în peisajul uscat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.860388,
+                        -16.064825
+                  ]
+            },
+            {
+                  "name": "Shumba Hill Viewpoint",
+                  "text": "Poziționat pe un deal notabil lângă Chirundu, acest punct de belvedere oferă vizitatorilor linii de vizibilitate panoramice peste vastul teren al văii Zambezi.",
+                  "category": "natural",
+                  "coords": [
+                        28.867282,
+                        -16.066007
+                  ]
+            },
+            {
+                  "name": "PWMA Rangers House Rifa",
+                  "text": "Servind ca o bază administrativă și de patrulare lângă Chirundu, acest avanpost găzduiește personalul de gestionare a parcurilor și a faunei sălbatice care protejează ecosistemele locale.",
+                  "category": "landmark",
+                  "coords": [
+                        28.870275,
+                        -16.069868
+                  ]
+            },
+            {
+                  "name": "Vulture Watch",
+                  "text": "O atracție naturală dedicată în zona Chirundu, care oferă un punct de observație pentru monitorizarea populațiilor locale de vulturi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.869485,
+                        -16.071504
+                  ]
+            },
+            {
+                  "name": "Carmine Bee Eater Colony",
+                  "text": "Un punct de belvedere pitoresc care oferă o priveliște clară asupra locurilor de cuibărit ale coloratelor prigorii carmin în apropiere de Chirundu.",
+                  "category": "natural",
+                  "coords": [
+                        28.873711,
+                        -16.075617
+                  ]
+            },
+            {
+                  "name": "Sunset Point",
+                  "text": "O atracție liniștită pe malul râului lângă Chirundu, cunoscută pentru priveliștile sale ample asupra râului Zambezi la apusul soarelui.",
+                  "category": "landmark",
+                  "coords": [
+                        28.867257,
+                        -16.080825
+                  ]
+            },
+            {
+                  "name": "Chirundu Pumphouse",
+                  "text": "Un monument industrial istoric care păstrează infrastructura timpurie de pompare în apropiere de orașul de frontieră Chirundu, pe râul Zambezi.",
+                  "category": "historical",
+                  "coords": [
+                        28.886644,
+                        -16.000431
+                  ]
+            },
+            {
+                  "name": "Chirundu Crocodile Farm",
+                  "text": "O zonă de observare a faunei sălbatice din Chirundu axată pe reproducerea și conservarea marilor reptile acvatice.",
+                  "category": "natural",
+                  "coords": [
+                        28.904184,
+                        -16.005319
+                  ]
+            },
+            {
+                  "name": "Tiger Safaris Office",
+                  "text": "Baza operațională pentru organizarea pescuitului sportiv și a excursiilor cu animale sălbatice de-a lungul cursului inferior al râului Zambezi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.856235,
+                        -16.036831
+                  ]
+            },
+            {
+                  "name": "Rifa Educational Camp Reserve",
+                  "text": "O rezervație naturală protejată din Valea Zambezi, dedicată educației ecologice și instruirii tinerilor în sălbăticie.",
+                  "category": "natural",
+                  "coords": [
+                        28.878325,
+                        -16.07989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niloticus Pools",
+                  "text": "These natural pools near Chirundu are named after the Nile crocodile, presenting a wetland habitat closely tied to the Zambezi river system.",
+                  "category": "landmark",
+                  "coords": [
+                        28.868035,
+                        -16.085703
+                  ]
+            },
+            {
+                  "name": "Rifa Water Pump",
+                  "text": "An industrial-style water extraction fixture near Chirundu, serving as a functional piece of infrastructure supporting local agriculture.",
+                  "category": "landmark",
+                  "coords": [
+                        28.865446,
+                        -16.076701
+                  ]
+            },
+            {
+                  "name": "Hollow Baobab",
+                  "text": "This massive, ancient baobab tree near Chirundu features a large natural cavity in its trunk, offering a fascinating glimpse of savanna botany.",
+                  "category": "landmark",
+                  "coords": [
+                        28.861032,
+                        -16.063327
+                  ]
+            },
+            {
+                  "name": "Rifa Hot Spring",
+                  "text": "A bubbling natural geothermal spring issuing from the earth near Chirundu, creating a distinct micro-habitat in the dry landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        28.860388,
+                        -16.064825
+                  ]
+            },
+            {
+                  "name": "Shumba Hill Viewpoint",
+                  "text": "Positioned atop a notable hill near Chirundu, this viewpoint grants visitors panoramic lines of sight across the vast Zambezi valley terrain.",
+                  "category": "natural",
+                  "coords": [
+                        28.867282,
+                        -16.066007
+                  ]
+            },
+            {
+                  "name": "PWMA Rangers House Rifa",
+                  "text": "Serving as an administrative and patrol base near Chirundu, this outpost houses the parks and wildlife management staff protecting the local ecosystems.",
+                  "category": "landmark",
+                  "coords": [
+                        28.870275,
+                        -16.069868
+                  ]
+            },
+            {
+                  "name": "Vulture Watch",
+                  "text": "A dedicated nature attraction in the Chirundu area providing a vantage point for observing local vulture populations.",
+                  "category": "landmark",
+                  "coords": [
+                        28.869485,
+                        -16.071504
+                  ]
+            },
+            {
+                  "name": "Carmine Bee Eater Colony",
+                  "text": "A picturesque viewpoint offering clear sights of the nesting sites of colorful carmine bee-eaters near Chirundu.",
+                  "category": "natural",
+                  "coords": [
+                        28.873711,
+                        -16.075617
+                  ]
+            },
+            {
+                  "name": "Sunset Point",
+                  "text": "A serene riverside attraction near Chirundu known for its expansive views of the Zambezi River as the sun goes down.",
+                  "category": "landmark",
+                  "coords": [
+                        28.867257,
+                        -16.080825
+                  ]
+            },
+            {
+                  "name": "Chirundu Pumphouse",
+                  "text": "A historic industrial monument preserving the early pumping infrastructure near the Zambezi border town of Chirundu.",
+                  "category": "historical",
+                  "coords": [
+                        28.886644,
+                        -16.000431
+                  ]
+            },
+            {
+                  "name": "Chirundu Crocodile Farm",
+                  "text": "A wildlife viewing area in Chirundu focused on the breeding and conservation of large aquatic reptiles.",
+                  "category": "natural",
+                  "coords": [
+                        28.904184,
+                        -16.005319
+                  ]
+            },
+            {
+                  "name": "Tiger Safaris Office",
+                  "text": "The operational base for arranging sport fishing and wildlife excursions along the lower Zambezi River.",
+                  "category": "landmark",
+                  "coords": [
+                        28.856235,
+                        -16.036831
+                  ]
+            },
+            {
+                  "name": "Rifa Educational Camp Reserve",
+                  "text": "A protected nature reserve dedicated to environmental education and youth wilderness training in the Zambezi Valley.",
+                  "category": "natural",
+                  "coords": [
+                        28.878325,
+                        -16.07989
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ZM-09",
     coords: [28.85, -16.0333],

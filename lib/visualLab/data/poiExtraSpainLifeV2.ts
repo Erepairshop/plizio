@@ -600,7 +600,592 @@ imageHint: "Picos de Europa limestone mountain peaks",
     },
     image: "/poi-images/spain-picos-de-europa-life-v2.webp",
 },  {
-    id: "spain-teide-life-v2",
+    id: "spain-teide-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riscos de la Fortaleza",
+                  "text": "Ein markanter Berggipfel, der einen bedeutenden Teil der steilen alten Caldera-Wand in der Teide-Landschaft bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.596536,
+                        28.314743
+                  ]
+            },
+            {
+                  "name": "Comunidad las Nieves",
+                  "text": "Die stimmungsvollen Ruinen einer ehemaligen ländlichen Siedlung inmitten des rauen vulkanischen Hochgebirgsterrains.",
+                  "category": "historical",
+                  "coords": [
+                        -16.63098,
+                        28.329034
+                  ]
+            },
+            {
+                  "name": "Risco de las Palomas",
+                  "text": "Ein schroffer Aussichtspunkt, der weitreichende Panoramen über die tiefen vulkanischen Schluchten der Teide-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.631455,
+                        28.346813
+                  ]
+            },
+            {
+                  "name": "Fresh lava field",
+                  "text": "Eine ausgedehnte geologische Attraktion, die die zerklüfteten, relativ jungen basaltischen Lavaströme der Teide-Ausbrüche zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.651119,
+                        28.315335
+                  ]
+            },
+            {
+                  "name": "Echicere",
+                  "text": "Ein markanter Vulkangipfel, der zur dramatischen, trockenen Hochgebirgsskyline der Teide-Region beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.640956,
+                        28.298841
+                  ]
+            },
+            {
+                  "name": "Mirador de Pico Viejo",
+                  "text": "Ein malerischer Aussichtspunkt, der direkte, atemberaubende Einblicke in den massiven, 800 Meter breiten Vulkankrater des Pico Viejo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.644988,
+                        28.269853
+                  ]
+            },
+            {
+                  "name": "Tajinaste Rojo",
+                  "text": "Eine botanische Attraktion mit dem auffälligen roten Tajinaste, einer endemischen Pflanze, die auf dem vulkanischen Boden bis zu drei Meter hoch wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.698304,
+                        28.232375
+                  ]
+            },
+            {
+                  "name": "Mirador de las Narices del Teide",
+                  "text": "Dieser Aussichtspunkt bietet einen freien Blick auf die „Nasenlöcher des Teide“, die seitlichen Zwillingskrater, die beim Ausbruch 1798 entstanden.",
+                  "category": "natural",
+                  "coords": [
+                        -16.698284,
+                        28.238503
+                  ]
+            },
+            {
+                  "name": "Cuevas Negras",
+                  "text": "Eine archäologische Stätte mit einem Komplex dunkler Vulkanhöhlen, die historisch vom indigenen Volk der Guanchen genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -16.698167,
+                        28.25947
+                  ]
+            },
+            {
+                  "name": "Montaña Reventada",
+                  "text": "Ein einzigartig geformter Vulkangipfel, der für seine \"geplatzte\" Kraterstruktur bekannt ist und kontrastierende Schichten alten Magmas freilegt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.699968,
+                        28.265697
+                  ]
+            },
+            {
+                  "name": "Beginn Samara Rund-Wanderung",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf den dunklen Vulkanschlackenkegel der Montaña Samara inmitten robuster kanarischer Kiefernwälder bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.726023,
+                        28.266619
+                  ]
+            },
+            {
+                  "name": "Montaña de Chasogo",
+                  "text": "Ein markanter rötlicher Vulkanschlackenkegel, der sich lebhaft von der Hochgebirgslandschaft abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711507,
+                        28.243476
+                  ]
+            },
+            {
+                  "name": "Alto de Tafosaya",
+                  "text": "Ein erhöhter Aussichtspunkt mit weitem Blick über die umliegenden schroffen, kiefernbewachsenen Vulkanhänge.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711409,
+                        28.213097
+                  ]
+            },
+            {
+                  "name": "Mirador de La Fortaleza",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die massiven steilen Klippen von La Fortaleza, ein hoch aufragendes geologisches Überbleibsel des alten Cañadas-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        -16.63918,
+                        28.274222
+                  ]
+            },
+            {
+                  "name": "Torre de Incendios San Juan de la Rambla",
+                  "text": "Ein ehemaliger Feuerwachturm, der als Aussichtspunkt umfunktioniert wurde und einen weiten Blick über die dichten Kiefernwälder in Richtung Küste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.611132,
+                        28.328416
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Teide",
+                  "text": "Ein renommiertes Naturschutzgebiet, das den höchsten Gipfel Spaniens und seine umgebenden surrealen vulkanischen Calderen umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -16.645871,
+                        28.268225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riscos de la Fortaleza",
+                  "text": "Kiemelkedő hegycsúcs, amely a meredek ősi kalderafal jelentős részét képezi a Teide táján.",
+                  "category": "natural",
+                  "coords": [
+                        -16.596536,
+                        28.314743
+                  ]
+            },
+            {
+                  "name": "Comunidad las Nieves",
+                  "text": "Egy egykori vidéki település hangulatos romjai a zord, magaslati vulkáni terep közepén.",
+                  "category": "historical",
+                  "coords": [
+                        -16.63098,
+                        28.329034
+                  ]
+            },
+            {
+                  "name": "Risco de las Palomas",
+                  "text": "Zord kilátó, amely lenyűgöző panorámát nyújt a Teide régió mély vulkáni szurdokaira.",
+                  "category": "natural",
+                  "coords": [
+                        -16.631455,
+                        28.346813
+                  ]
+            },
+            {
+                  "name": "Fresh lava field",
+                  "text": "Kiterjedt geológiai látványosság, amely a Teide kitöréseiből származó csipkézett, viszonylag friss bazaltos lávafolyamokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.651119,
+                        28.315335
+                  ]
+            },
+            {
+                  "name": "Echicere",
+                  "text": "Különleges vulkáni csúcs, amely hozzájárul a Teide régió drámai, száraz magaslati látképéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -16.640956,
+                        28.298841
+                  ]
+            },
+            {
+                  "name": "Mirador de Pico Viejo",
+                  "text": "Festői kilátó, amely közvetlen, lélegzetelállító kilátást nyújt a Pico Viejo hatalmas, 800 méter széles vulkáni kráterére.",
+                  "category": "natural",
+                  "coords": [
+                        -16.644988,
+                        28.269853
+                  ]
+            },
+            {
+                  "name": "Tajinaste Rojo",
+                  "text": "Botanikai látványosság, amelynek főszereplője a feltűnő piros Tajinaste, egy endemikus növény, amely akár három méter magasra is megnő a vulkáni talajon.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.698304,
+                        28.232375
+                  ]
+            },
+            {
+                  "name": "Mirador de las Narices del Teide",
+                  "text": "Ebből a kilátóból jól láthatók a „Teide orrlyukai”, az 1798-as kitörés során kialakult oldalsó ikerkráterek.",
+                  "category": "natural",
+                  "coords": [
+                        -16.698284,
+                        28.238503
+                  ]
+            },
+            {
+                  "name": "Cuevas Negras",
+                  "text": "Régészeti lelőhely, amely sötét vulkáni barlangok komplexumát foglalja magában, amelyeket a történelem során az őslakos guancsok használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -16.698167,
+                        28.25947
+                  ]
+            },
+            {
+                  "name": "Montaña Reventada",
+                  "text": "Egyedülálló formájú vulkáni csúcs, amely „kifakadt” kráterszerkezetéről ismert, feltárva az ősi magma kontrasztos rétegeit.",
+                  "category": "natural",
+                  "coords": [
+                        -16.699968,
+                        28.265697
+                  ]
+            },
+            {
+                  "name": "Mirador de Samara",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Montaña Samara sötét vulkáni salakkúpjára, amelyet robusztus kanári-szigeteki fenyvesek vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -16.726023,
+                        28.266619
+                  ]
+            },
+            {
+                  "name": "Montaña de Chasogo",
+                  "text": "Jelentős vöröses vulkáni salakkúp, amely élénken elüt a magaslati tájtól.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711507,
+                        28.243476
+                  ]
+            },
+            {
+                  "name": "Alto de Tafosaya",
+                  "text": "Magasan fekvő kilátó, amely széles látóhatárt biztosít a környező zord, fenyővel borított vulkáni lejtőkön.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711409,
+                        28.213097
+                  ]
+            },
+            {
+                  "name": "Mirador de La Fortaleza",
+                  "text": "Festői kilátó, amely a La Fortaleza hatalmas, meredek szikláira néz, amely az ősi Cañadas-képződmény tornyosuló geológiai maradványa.",
+                  "category": "natural",
+                  "coords": [
+                        -16.63918,
+                        28.274222
+                  ]
+            },
+            {
+                  "name": "Torre de Incendios San Juan de la Rambla",
+                  "text": "Kilátóvá alakított egykori tűzfigyelő torony, amely lenyűgöző kilátást nyújt a sűrű fenyveseken keresztül a part felé.",
+                  "category": "natural",
+                  "coords": [
+                        -16.611132,
+                        28.328416
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Teide",
+                  "text": "Híres védett természetvédelmi terület, amely magában foglalja Spanyolország legmagasabb csúcsát és az azt körülvevő szürreális vulkáni kalderákat.",
+                  "category": "natural",
+                  "coords": [
+                        -16.645871,
+                        28.268225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riscos de la Fortaleza",
+                  "text": "Un vârf montan proeminent care formează o parte semnificativă a peretelui abrupt al calderei antice din peisajul Teide.",
+                  "category": "natural",
+                  "coords": [
+                        -16.596536,
+                        28.314743
+                  ]
+            },
+            {
+                  "name": "Comunidad las Nieves",
+                  "text": "Ruinele pline de atmosferă ale unei foste așezări rurale, cuibărite în mijlocul terenului vulcanic aspru de mare altitudine.",
+                  "category": "historical",
+                  "coords": [
+                        -16.63098,
+                        28.329034
+                  ]
+            },
+            {
+                  "name": "Risco de las Palomas",
+                  "text": "Un punct de belvedere accidentat care oferă panorame vaste peste râpele vulcanice adânci din regiunea Teide.",
+                  "category": "natural",
+                  "coords": [
+                        -16.631455,
+                        28.346813
+                  ]
+            },
+            {
+                  "name": "Fresh lava field",
+                  "text": "O atracție geologică întinsă, care prezintă fluxurile de lavă bazaltică zimțată, relativ recentă, de la erupțiile Teide.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.651119,
+                        28.315335
+                  ]
+            },
+            {
+                  "name": "Echicere",
+                  "text": "Un vârf vulcanic distinct care contribuie la orizontul dramatic și arid de mare altitudine al regiunii Teide.",
+                  "category": "natural",
+                  "coords": [
+                        -16.640956,
+                        28.298841
+                  ]
+            },
+            {
+                  "name": "Mirador de Pico Viejo",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi directe, uluitoare, în craterul vulcanic masiv de 800 de metri lățime al Pico Viejo.",
+                  "category": "natural",
+                  "coords": [
+                        -16.644988,
+                        28.269853
+                  ]
+            },
+            {
+                  "name": "Tajinaste Rojo",
+                  "text": "O atracție botanică care evidențiază izbitorul Tajinaste roșu, o plantă endemică care crește până la trei metri înălțime în solul vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.698304,
+                        28.232375
+                  ]
+            },
+            {
+                  "name": "Mirador de las Narices del Teide",
+                  "text": "Acest punct de belvedere oferă o vedere clară asupra „Nărilor lui Teide”, craterele gemene laterale formate în timpul erupției din 1798.",
+                  "category": "natural",
+                  "coords": [
+                        -16.698284,
+                        28.238503
+                  ]
+            },
+            {
+                  "name": "Cuevas Negras",
+                  "text": "Un sit arheologic cu un complex de peșteri vulcanice întunecate, utilizate istoric de poporul indigen guanș.",
+                  "category": "historical",
+                  "coords": [
+                        -16.698167,
+                        28.25947
+                  ]
+            },
+            {
+                  "name": "Montaña Reventada",
+                  "text": "Un vârf vulcanic cu o formă unică, cunoscut pentru structura sa de crater „spart”, dezvăluind straturi contrastante de magmă antică.",
+                  "category": "natural",
+                  "coords": [
+                        -16.699968,
+                        28.265697
+                  ]
+            },
+            {
+                  "name": "Mirador de Samara",
+                  "text": "Un punct de vizionare care oferă priveliști panoramice ale conului vulcanic întunecat Montaña Samara, înconjurat de păduri robuste de pini canarieni.",
+                  "category": "natural",
+                  "coords": [
+                        -16.726023,
+                        28.266619
+                  ]
+            },
+            {
+                  "name": "Montaña de Chasogo",
+                  "text": "Un con vulcanic roșiatic notabil, care iese în evidență în mod viu pe fundalul peisajului de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711507,
+                        28.243476
+                  ]
+            },
+            {
+                  "name": "Alto de Tafosaya",
+                  "text": "Un punct de belvedere înalt care oferă un câmp vizual larg peste versanții vulcanici accidentați, acoperiți de pini.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711409,
+                        28.213097
+                  ]
+            },
+            {
+                  "name": "Mirador de La Fortaleza",
+                  "text": "Un punct de belvedere pitoresc orientat spre stâncile abrupte și masive ale La Fortaleza, o rămășiță geologică impunătoare a vechiului edificiu Cañadas.",
+                  "category": "natural",
+                  "coords": [
+                        -16.63918,
+                        28.274222
+                  ]
+            },
+            {
+                  "name": "Torre de Incendios San Juan de la Rambla",
+                  "text": "Un fost turn de observare a incendiilor transformat în punct de belvedere, oferind priveliști vaste peste pădurile dense de pini spre coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -16.611132,
+                        28.328416
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Teide",
+                  "text": "O rezervație naturală protejată renumită, care cuprinde cel mai înalt vârf din Spania și calderele vulcanice suprarealiste din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -16.645871,
+                        28.268225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riscos de la Fortaleza",
+                  "text": "A prominent mountain peak forming a significant part of the sheer ancient caldera wall in the Teide landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.596536,
+                        28.314743
+                  ]
+            },
+            {
+                  "name": "Comunidad las Nieves",
+                  "text": "The atmospheric ruins of a former rural settlement nestled amidst the harsh, high-altitude volcanic terrain.",
+                  "category": "historical",
+                  "coords": [
+                        -16.63098,
+                        28.329034
+                  ]
+            },
+            {
+                  "name": "Risco de las Palomas",
+                  "text": "A rugged viewpoint offering sweeping panoramas over the deep volcanic ravines of the Teide region.",
+                  "category": "natural",
+                  "coords": [
+                        -16.631455,
+                        28.346813
+                  ]
+            },
+            {
+                  "name": "Fresh lava field",
+                  "text": "An expansive geological attraction showcasing the jagged, relatively recent basaltic lava flows from Teide's eruptions.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.651119,
+                        28.315335
+                  ]
+            },
+            {
+                  "name": "Echicere",
+                  "text": "A distinct volcanic peak that contributes to the dramatic, arid high-altitude skyline of the Teide region.",
+                  "category": "natural",
+                  "coords": [
+                        -16.640956,
+                        28.298841
+                  ]
+            },
+            {
+                  "name": "Mirador de Pico Viejo",
+                  "text": "A scenic overlook providing direct, breathtaking views into Pico Viejo's massive 800-meter-wide volcanic crater.",
+                  "category": "natural",
+                  "coords": [
+                        -16.644988,
+                        28.269853
+                  ]
+            },
+            {
+                  "name": "Tajinaste Rojo",
+                  "text": "A botanical attraction highlighting the striking red Tajinaste, an endemic plant that grows up to three meters tall in the volcanic soil.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.698304,
+                        28.232375
+                  ]
+            },
+            {
+                  "name": "Mirador de las Narices del Teide",
+                  "text": "This viewpoint offers a clear look at the \"Nostrils of Teide,\" the lateral twin craters formed during the 1798 eruption.",
+                  "category": "natural",
+                  "coords": [
+                        -16.698284,
+                        28.238503
+                  ]
+            },
+            {
+                  "name": "Cuevas Negras",
+                  "text": "An archaeological site featuring a complex of dark volcanic caves historically utilized by the indigenous Guanche people.",
+                  "category": "historical",
+                  "coords": [
+                        -16.698167,
+                        28.25947
+                  ]
+            },
+            {
+                  "name": "Montaña Reventada",
+                  "text": "A uniquely shaped volcanic peak known for its \"burst\" crater structure, revealing contrasting layers of ancient magma.",
+                  "category": "natural",
+                  "coords": [
+                        -16.699968,
+                        28.265697
+                  ]
+            },
+            {
+                  "name": "Mirador de Samara",
+                  "text": "A viewing point offering panoramic sights of the dark volcanic cinder cone of Montaña Samara surrounded by robust Canarian pine forests.",
+                  "category": "natural",
+                  "coords": [
+                        -16.726023,
+                        28.266619
+                  ]
+            },
+            {
+                  "name": "Montaña de Chasogo",
+                  "text": "A notable reddish volcanic cinder cone that stands out vividly against the high-altitude landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711507,
+                        28.243476
+                  ]
+            },
+            {
+                  "name": "Alto de Tafosaya",
+                  "text": "An elevated viewpoint providing expansive sightlines over the surrounding rugged, pine-covered volcanic slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -16.711409,
+                        28.213097
+                  ]
+            },
+            {
+                  "name": "Mirador de La Fortaleza",
+                  "text": "A scenic lookout facing the massive sheer cliffs of La Fortaleza, a towering geological remnant of the ancient Cañadas edifice.",
+                  "category": "natural",
+                  "coords": [
+                        -16.63918,
+                        28.274222
+                  ]
+            },
+            {
+                  "name": "Torre de Incendios San Juan de la Rambla",
+                  "text": "A former fire lookout tower repurposed as a viewpoint, offering sweeping sights over the dense pine forests towards the coast.",
+                  "category": "natural",
+                  "coords": [
+                        -16.611132,
+                        28.328416
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Teide",
+                  "text": "A renowned protected nature reserve encompassing Spain's highest peak and its surrounding surreal volcanic calderas.",
+                  "category": "natural",
+                  "coords": [
+                        -16.645871,
+                        28.268225
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Teide", hu: "Teide Nemzeti Park", ro: "Parcul Național Teide", en: "Teide National Park"},
@@ -1279,7 +1864,1240 @@ imageHint: "Tablas de Daimiel National Park wetlands boardwalk",
     },
     image: "/poi-images/spain-tablas-de-daimiel-life-v2.webp",
 },  {
-    id: "spain-timanfaya-life-v2",
+    id: "spain-timanfaya-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ayuntamiento de Yaiza",
+                  "text": "Dieses örtliche Rathaus dient der Verwaltung der Gemeinde Yaiza.",
+                  "category": "historical",
+                  "coords": [
+                        -13.764468,
+                        28.952462
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Marcial de Rubicón",
+                  "text": "Dieses historische Denkmal in der Gegend von Femés stammt aus den 1730er Jahren.",
+                  "category": "historical",
+                  "coords": [
+                        -13.779831,
+                        28.91306
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "Diese beeindruckende Naturattraktion ist berühmt für ihr leuchtend grünes Becken in einem Vulkankrater.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.827781,
+                        28.976734
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Los Volcanes",
+                  "text": "Dieses weitläufige Naturschutzgebiet wurde 1987 gegründet und präsentiert dramatische Vulkanlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        -13.749998,
+                        29.006185
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Islote de Halcones",
+                  "text": "Dieses 1974 gegründete, geschützte Naturdenkmal zeichnet sich durch markante vulkanische Inselformationen aus.",
+                  "category": "natural",
+                  "coords": [
+                        -13.817742,
+                        29.004385
+                  ]
+            },
+            {
+                  "name": "Nationalpark Timanfaya",
+                  "text": "Dieser renommierte Nationalpark ist berühmt für seine weiten, jenseitigen Landschaften, die durch historische Vulkanausbrüche geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        -13.780426,
+                        29.014316
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Las Montañas del Fuego",
+                  "text": "Dieses Naturdenkmal schützt die beeindruckenden „Feuerberge“, die sich durch karges, vulkanisches Gelände auszeichnen.",
+                  "category": "natural",
+                  "coords": [
+                        -13.752652,
+                        29.001795
+                  ]
+            },
+            {
+                  "name": "Playa del Paso",
+                  "text": "Dieser Küstenstrand bietet einen malerischen Sandstreifen, der von einer zerklüfteten vulkanischen Küste umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830346,
+                        28.997172
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes e Interpretación de Mancha Blanca",
+                  "text": "Dieses Besucherzentrum und Museum bietet lehrreiche Ausstellungen über die vulkanische Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -13.703565,
+                        29.033577
+                  ]
+            },
+            {
+                  "name": "Caldera de los Cuervos",
+                  "text": "Diese Naturattraktion bietet eine markante vulkanische Caldera, die Besucher erkunden können.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.691671,
+                        28.991975
+                  ]
+            },
+            {
+                  "name": "Caletón Estrecho",
+                  "text": "Diese schmale Küstenbucht bietet geschützte Gewässer entlang der zerklüfteten Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.784462,
+                        29.057234
+                  ]
+            },
+            {
+                  "name": "Montaña de la Cinta",
+                  "text": "Dieser markante Berggipfel erhebt sich über das umliegende vulkanische Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        -13.778164,
+                        28.946228
+                  ]
+            },
+            {
+                  "name": "Montaña Rajada",
+                  "text": "Dieser markante Berggipfel fällt durch seine zerklüfteten, vulkanischen Hänge auf.",
+                  "category": "natural",
+                  "coords": [
+                        -13.773697,
+                        28.994941
+                  ]
+            },
+            {
+                  "name": "Vieja Gabriela",
+                  "text": "Dieser vulkanische Berggipfel ist Teil der dramatischen natürlichen Skyline der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -13.803123,
+                        28.965285
+                  ]
+            },
+            {
+                  "name": "Caldera Blanca",
+                  "text": "Dieser beeindruckende Berggipfel zeichnet sich durch seinen großen, auffallend weißen Vulkankrater aus.",
+                  "category": "natural",
+                  "coords": [
+                        -13.731751,
+                        29.034409
+                  ]
+            },
+            {
+                  "name": "Playa de Janubio",
+                  "text": "Dieser Küstenstrand ist bekannt für seinen charakteristischen schwarzen Vulkansand, der sich entlang der Küste erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830037,
+                        28.934573
+                  ]
+            },
+            {
+                  "name": "Caleta del Mariscadero",
+                  "text": "Dieser abgelegene Küstenstrand bietet eine felsige und sandige Küste zum Ozean hin.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.759691,
+                        29.069202
+                  ]
+            },
+            {
+                  "name": "Playa de la Madera",
+                  "text": "Dieser sandige Küstenstrand weist eine zerklüftete Küstenlinie auf, die durch vulkanische Aktivitäten geformt wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.774749,
+                        29.062154
+                  ]
+            },
+            {
+                  "name": "Playa de las Malvas",
+                  "text": "Dieser Küstenstrand mit dunklem Sand bietet einen reizvollen Kontrast zum Wasser des Ozeans.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.766746,
+                        29.063759
+                  ]
+            },
+            {
+                  "name": "Museo Aloé +",
+                  "text": "Dieses Museum bietet Ausstellungen, die dem Anbau und der Verwendung der Aloe Vera Pflanze gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        -13.773785,
+                        28.954199
+                  ]
+            },
+            {
+                  "name": "Quesera Guardilama",
+                  "text": "Diese archäologische Stätte weist antike, gerillte Steinstrukturen auf, die in das Vulkangestein gehauen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -13.707219,
+                        28.965344
+                  ]
+            },
+            {
+                  "name": "Molina de Yaiza",
+                  "text": "Diese baulichen Ruinen sind die Überreste einer traditionellen Windmühle, die in der Gegend genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -13.75739,
+                        28.941311
+                  ]
+            },
+            {
+                  "name": "Cueva Canal del Pico Partido",
+                  "text": "Diese archäologische Stätte konzentriert sich auf ein natürliches Höhlensystem, das sich im Vulkangestein gebildet hat.",
+                  "category": "historical",
+                  "coords": [
+                        -13.718317,
+                        29.011523
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 3",
+                  "text": "Diese archäologische Stätte umfasst eine tiefe vulkanische Schlucht, die vor Ort als Teufelsschlucht bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -13.71185,
+                        29.021807
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 5",
+                  "text": "Dieser Abschnitt der archäologischen Stätte erforscht die kavernenartigen Tiefen, die sich in der Vulkanlandschaft gebildet haben.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710941,
+                        29.021953
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Benito Pérez Armas",
+                  "text": "Dieses lokale Kunstzentrum dient als kultureller Knotenpunkt für Ausstellungen und Gemeinschaftsveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.766182,
+                        28.952315
+                  ]
+            },
+            {
+                  "name": "Casona de Femés",
+                  "text": "Dieses Kunstzentrum befindet sich in einem traditionellen Gebäude in Femés und beherbergt verschiedene kulturelle Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.773545,
+                        28.918751
+                  ]
+            },
+            {
+                  "name": "El Valle de la Tranquilidad",
+                  "text": "Diese Naturattraktion bietet ein ruhiges, aschebedecktes Tal inmitten der umliegenden Vulkangipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.751083,
+                        28.994083
+                  ]
+            },
+            {
+                  "name": "Playa Montaña Bermeja",
+                  "text": "Diese Küstenattraktion besticht durch einen dunklen Sandstrand, hinter dem sich ein rötlicher Vulkanberg erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829343,
+                        28.960465
+                  ]
+            },
+            {
+                  "name": "Grüner Teich",
+                  "text": "Diese Naturattraktion ist eine optisch beeindruckende grüne Lagune, die sich in einem Vulkankrater am Meer gebildet hat.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829698,
+                        28.961905
+                  ]
+            },
+            {
+                  "name": "Cat Hill",
+                  "text": "Diese lokale Naturattraktion besticht durch einen markant geformten Hügel innerhalb der Vulkanlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.765126,
+                        28.953925
+                  ]
+            },
+            {
+                  "name": "Montaña Tremesana",
+                  "text": "Diese vulkanische Attraktion bietet geführte Wanderwege rund um ihren markanten, aschebedeckten Berggipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.781049,
+                        28.985824
+                  ]
+            },
+            {
+                  "name": "Cave and lava canyon",
+                  "text": "Eine dramatische Vulkanfelsformation in Timanfaya, die durch historische Lavaströme geformt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.795841,
+                        28.987583
+                  ]
+            },
+            {
+                  "name": "Collapsed lava tunnel",
+                  "text": "Ein freigelegter, rauer unterirdischer Gang in Timanfaya, der durch fließendes Magma entstanden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.797419,
+                        28.98616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ayuntamiento de Yaiza",
+                  "text": "Ez a helyi közigazgatási városháza Yaiza önkormányzatát szolgálja ki.",
+                  "category": "historical",
+                  "coords": [
+                        -13.764468,
+                        28.952462
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Marcial de Rubicón",
+                  "text": "Ez az 1730-as évekből származó történelmi műemlék Femés térségében található.",
+                  "category": "historical",
+                  "coords": [
+                        -13.779831,
+                        28.91306
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "Ez a lenyűgöző természeti látványosság egy vulkáni kráterben kialakult élénkzöld vizű medencéjéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.827781,
+                        28.976734
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Los Volcanes",
+                  "text": "Ez az 1987-ben alapított kiterjedt természetvédelmi terület drámai vulkáni tájakat mutat be.",
+                  "category": "natural",
+                  "coords": [
+                        -13.749998,
+                        29.006185
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Islote de Halcones",
+                  "text": "Az 1974-ben létrehozott védett természeti emlékmű különleges vulkáni szigetképződményekkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -13.817742,
+                        29.004385
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Timanfaya",
+                  "text": "Ez a híres nemzeti park a történelmi vulkánkitörések által formált hatalmas, földöntúli tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -13.780426,
+                        29.014316
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Las Montañas del Fuego",
+                  "text": "Ez a természeti emlékmű a lenyűgöző „Tűzhegyeket” védi, amelyeket zord, vulkanikus terep jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -13.752652,
+                        29.001795
+                  ]
+            },
+            {
+                  "name": "Playa del Paso",
+                  "text": "Ez a tengerparti strand festői homokos partszakaszt kínál, amelyet zord vulkáni partvonal vesz körül.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830346,
+                        28.997172
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes e Interpretación de Mancha Blanca",
+                  "text": "Ez a látogatóközpont és múzeum oktató jellegű kiállításokat kínál a régió vulkáni történelméről.",
+                  "category": "museum",
+                  "coords": [
+                        -13.703565,
+                        29.033577
+                  ]
+            },
+            {
+                  "name": "Caldera de los Cuervos",
+                  "text": "Ez a természeti látványosság egy kiemelkedő vulkáni kalderával rendelkezik, amelyet a látogatók felfedezhetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.691671,
+                        28.991975
+                  ]
+            },
+            {
+                  "name": "Caletón Estrecho",
+                  "text": "Ez a keskeny tengerparti öböl védett vizeket kínál a zord partvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.784462,
+                        29.057234
+                  ]
+            },
+            {
+                  "name": "Montaña de la Cinta",
+                  "text": "Ez a kiemelkedő hegycsúcs a környező vulkáni terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -13.778164,
+                        28.946228
+                  ]
+            },
+            {
+                  "name": "Montaña Rajada",
+                  "text": "Ez a jellegzetes hegycsúcs zord, vulkanikus lejtőivel tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -13.773697,
+                        28.994941
+                  ]
+            },
+            {
+                  "name": "Vieja Gabriela",
+                  "text": "Ez a vulkanikus hegycsúcs a régió drámai, természetes sziluettjének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -13.803123,
+                        28.965285
+                  ]
+            },
+            {
+                  "name": "Caldera Blanca",
+                  "text": "Ezt a lenyűgöző hegycsúcsot a nagy, feltűnően fehér vulkáni kráter jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        -13.731751,
+                        29.034409
+                  ]
+            },
+            {
+                  "name": "Playa de Janubio",
+                  "text": "Ez a tengerparti strand a partvonal mentén húzódó jellegzetes fekete vulkáni homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830037,
+                        28.934573
+                  ]
+            },
+            {
+                  "name": "Caleta del Mariscadero",
+                  "text": "Ez félreeső tengerparti strand sziklás és homokos partvonalat kínál az óceán felé.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.759691,
+                        29.069202
+                  ]
+            },
+            {
+                  "name": "Playa de la Madera",
+                  "text": "Ez a homokos tengerparti strand vulkáni tevékenység által formált, zord partvonallal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.774749,
+                        29.062154
+                  ]
+            },
+            {
+                  "name": "Playa de las Malvas",
+                  "text": "Ez a sötét homokos tengerparti strand lenyűgöző kontrasztot alkot az óceán vizével.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.766746,
+                        29.063759
+                  ]
+            },
+            {
+                  "name": "Museo Aloé +",
+                  "text": "Ez a múzeum az aloe vera növény termesztésének és felhasználásának szentelt kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -13.773785,
+                        28.954199
+                  ]
+            },
+            {
+                  "name": "Quesera Guardilama",
+                  "text": "Ezen a régészeti lelőhelyen a vulkáni kőzetbe vájt ősi, barázdált kőszerkezetek találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -13.707219,
+                        28.965344
+                  ]
+            },
+            {
+                  "name": "Molina de Yaiza",
+                  "text": "Ezek a szerkezeti romok egy, a helyi térségben használt hagyományos szélmalom maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -13.75739,
+                        28.941311
+                  ]
+            },
+            {
+                  "name": "Cueva Canal del Pico Partido",
+                  "text": "Ez a régészeti lelőhely egy, a vulkáni kőzetben kialakult természetes barlangrendszer köré épül.",
+                  "category": "historical",
+                  "coords": [
+                        -13.718317,
+                        29.011523
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 3",
+                  "text": "Ez a régészeti lelőhely egy mély vulkáni szakadékot foglal magában, amelyet a helyiek Ördögszakadékként ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        -13.71185,
+                        29.021807
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 5",
+                  "text": "A régészeti lelőhely ezen szakasza a vulkáni tájon kialakult barlangszerű mélységeket tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710941,
+                        29.021953
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Benito Pérez Armas",
+                  "text": "Ez a helyi művészeti központ kiállítások és közösségi események kulturális központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.766182,
+                        28.952315
+                  ]
+            },
+            {
+                  "name": "Casona de Femés",
+                  "text": "A Femésben, egy hagyományos épületben található művészeti központ különféle kulturális tevékenységeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.773545,
+                        28.918751
+                  ]
+            },
+            {
+                  "name": "El Valle de la Tranquilidad",
+                  "text": "Ez a természeti látványosság egy nyugodt, hamuval borított völgyet kínál a környező vulkáni csúcsok között.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.751083,
+                        28.994083
+                  ]
+            },
+            {
+                  "name": "Playa Montaña Bermeja",
+                  "text": "Ez a tengerparti látványosság egy lenyűgöző sötét homokos stranddal büszkélkedhet, amely mögött egy vöröses vulkanikus hegy magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829343,
+                        28.960465
+                  ]
+            },
+            {
+                  "name": "Laguna Verde II",
+                  "text": "Ez a természeti látványosság egy vizuálisan lenyűgöző zöld lagúna, amely egy tengerparti vulkáni kráterben alakult ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829698,
+                        28.961905
+                  ]
+            },
+            {
+                  "name": "Cat Hill",
+                  "text": "Ez a helyi természeti látványosság egy jellegzetes formájú dombot foglal magában a vulkáni tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.765126,
+                        28.953925
+                  ]
+            },
+            {
+                  "name": "Montaña Tremesana",
+                  "text": "Ez a vulkanikus látványosság vezetett gyalogtúrákat kínál a kiemelkedő, hamuval borított hegycsúcsa körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.781049,
+                        28.985824
+                  ]
+            },
+            {
+                  "name": "Cave and lava canyon",
+                  "text": "Drámai vulkáni sziklaalakzat Timanfayában, amelyet történelmi lávafolyamok formáltak.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.795841,
+                        28.987583
+                  ]
+            },
+            {
+                  "name": "Collapsed lava tunnel",
+                  "text": "Egy szabadon lévő, zord földalatti átjáró Timanfayában, amelyet az áramló magma hozott létre.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.797419,
+                        28.98616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ayuntamiento de Yaiza",
+                  "text": "Această primărie administrativă locală deservește municipalitatea Yaiza.",
+                  "category": "historical",
+                  "coords": [
+                        -13.764468,
+                        28.952462
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Marcial de Rubicón",
+                  "text": "Datând din anii 1730, acest monument istoric se află în zona Femés.",
+                  "category": "historical",
+                  "coords": [
+                        -13.779831,
+                        28.91306
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "Această atracție naturală impresionantă este faimoasă pentru bazinul său de un verde aprins, format într-un crater vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.827781,
+                        28.976734
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Los Volcanes",
+                  "text": "Înființată în 1987, această rezervație naturală vastă prezintă peisaje vulcanice dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        -13.749998,
+                        29.006185
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Islote de Halcones",
+                  "text": "Înființat în 1974, acest monument natural protejat prezintă formațiuni distincte de insulițe vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        -13.817742,
+                        29.004385
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Timanfaya",
+                  "text": "Acest renumit parc național este celebru pentru peisajele sale vaste, de pe altă lume, modelate de erupții vulcanice istorice.",
+                  "category": "natural",
+                  "coords": [
+                        -13.780426,
+                        29.014316
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Las Montañas del Fuego",
+                  "text": "Acest monument natural protejează impresionanții „Munți de Foc”, caracterizându-se printr-un teren vulcanic arid.",
+                  "category": "natural",
+                  "coords": [
+                        -13.752652,
+                        29.001795
+                  ]
+            },
+            {
+                  "name": "Playa del Paso",
+                  "text": "Această plajă de coastă oferă o fâșie pitorească de nisip, înconjurată de o coastă vulcanică accidentată.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830346,
+                        28.997172
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes e Interpretación de Mancha Blanca",
+                  "text": "Acest centru de vizitatori și muzeu oferă expoziții educative despre istoria vulcanică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -13.703565,
+                        29.033577
+                  ]
+            },
+            {
+                  "name": "Caldera de los Cuervos",
+                  "text": "Această atracție naturală se mândrește cu o calderă vulcanică proeminentă pe care vizitatorii o pot explora.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.691671,
+                        28.991975
+                  ]
+            },
+            {
+                  "name": "Caletón Estrecho",
+                  "text": "Acest golf îngust de coastă oferă ape adăpostite de-a lungul țărmului accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.784462,
+                        29.057234
+                  ]
+            },
+            {
+                  "name": "Montaña de la Cinta",
+                  "text": "Acest vârf de munte proeminent se înalță deasupra terenului vulcanic înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -13.778164,
+                        28.946228
+                  ]
+            },
+            {
+                  "name": "Montaña Rajada",
+                  "text": "Acest vârf de munte distinct iese în evidență prin versanții săi vulcanici accidentați.",
+                  "category": "natural",
+                  "coords": [
+                        -13.773697,
+                        28.994941
+                  ]
+            },
+            {
+                  "name": "Vieja Gabriela",
+                  "text": "Acest vârf de munte vulcanic face parte din orizontul natural dramatic al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -13.803123,
+                        28.965285
+                  ]
+            },
+            {
+                  "name": "Caldera Blanca",
+                  "text": "Acest vârf de munte impresionant se caracterizează prin craterul său vulcanic mare și izbitor de alb.",
+                  "category": "natural",
+                  "coords": [
+                        -13.731751,
+                        29.034409
+                  ]
+            },
+            {
+                  "name": "Playa de Janubio",
+                  "text": "Această plajă de coastă este cunoscută pentru nisipul său vulcanic negru distinctiv, care se întinde de-a lungul țărmului.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830037,
+                        28.934573
+                  ]
+            },
+            {
+                  "name": "Caleta del Mariscadero",
+                  "text": "Această plajă de coastă retrasă oferă un țărm stâncos și nisipos la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.759691,
+                        29.069202
+                  ]
+            },
+            {
+                  "name": "Playa de la Madera",
+                  "text": "Această plajă de coastă cu nisip prezintă un țărm accidentat, modelat de activitatea vulcanică.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.774749,
+                        29.062154
+                  ]
+            },
+            {
+                  "name": "Playa de las Malvas",
+                  "text": "Această plajă de coastă cu nisip închis la culoare oferă un contrast izbitor cu apele oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.766746,
+                        29.063759
+                  ]
+            },
+            {
+                  "name": "Museo Aloé +",
+                  "text": "Acest muzeu prezintă expoziții dedicate cultivării și utilizărilor plantei de aloe vera.",
+                  "category": "museum",
+                  "coords": [
+                        -13.773785,
+                        28.954199
+                  ]
+            },
+            {
+                  "name": "Quesera Guardilama",
+                  "text": "Acest sit arheologic prezintă structuri antice din piatră cu caneluri, sculptate în roca vulcanică.",
+                  "category": "historical",
+                  "coords": [
+                        -13.707219,
+                        28.965344
+                  ]
+            },
+            {
+                  "name": "Molina de Yaiza",
+                  "text": "Aceste ruine structurale sunt rămășițele unei mori de vânt tradiționale folosite în zona locală.",
+                  "category": "historical",
+                  "coords": [
+                        -13.75739,
+                        28.941311
+                  ]
+            },
+            {
+                  "name": "Cueva Canal del Pico Partido",
+                  "text": "Acest sit arheologic este centrat în jurul unui sistem natural de peșteri format în roca vulcanică.",
+                  "category": "historical",
+                  "coords": [
+                        -13.718317,
+                        29.011523
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 3",
+                  "text": "Acest sit arheologic cuprinde o prăpastie vulcanică adâncă, cunoscută local sub numele de Prăpastia Diavolului.",
+                  "category": "historical",
+                  "coords": [
+                        -13.71185,
+                        29.021807
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 5",
+                  "text": "Această secțiune a sitului arheologic explorează adâncimile cavernoase formate în peisajul vulcanic.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710941,
+                        29.021953
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Benito Pérez Armas",
+                  "text": "Acest centru de arte local servește ca un hub cultural pentru expoziții și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.766182,
+                        28.952315
+                  ]
+            },
+            {
+                  "name": "Casona de Femés",
+                  "text": "Situat într-o clădire tradițională din Femés, acest centru de arte găzduiește diverse activități culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.773545,
+                        28.918751
+                  ]
+            },
+            {
+                  "name": "El Valle de la Tranquilidad",
+                  "text": "Această atracție naturală oferă o vale liniștită, acoperită de cenușă, situată printre vârfurile vulcanice din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.751083,
+                        28.994083
+                  ]
+            },
+            {
+                  "name": "Playa Montaña Bermeja",
+                  "text": "Această atracție de coastă prezintă o plajă impresionantă cu nisip închis la culoare, susținută de un munte vulcanic roșiatic.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829343,
+                        28.960465
+                  ]
+            },
+            {
+                  "name": "Laguna Verde II",
+                  "text": "Această atracție naturală este o lagună verde, izbitoare vizual, formată într-un crater vulcanic de la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829698,
+                        28.961905
+                  ]
+            },
+            {
+                  "name": "Cat Hill",
+                  "text": "Această atracție naturală locală prezintă un deal cu o formă distinctivă în cadrul peisajului vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.765126,
+                        28.953925
+                  ]
+            },
+            {
+                  "name": "Montaña Tremesana",
+                  "text": "Această atracție vulcanică oferă trasee de plimbare ghidate în jurul vârfului său de munte proeminent, acoperit de cenușă.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.781049,
+                        28.985824
+                  ]
+            },
+            {
+                  "name": "Cave and lava canyon",
+                  "text": "O formațiune dramatică de rocă vulcanică din Timanfaya, sculptată de fluxurile istorice de lavă.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.795841,
+                        28.987583
+                  ]
+            },
+            {
+                  "name": "Collapsed lava tunnel",
+                  "text": "Un pasaj subteran accidentat și expus din Timanfaya, format prin curgerea magmei.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.797419,
+                        28.98616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ayuntamiento de Yaiza",
+                  "text": "This local administrative town hall serves the municipality of Yaiza.",
+                  "category": "historical",
+                  "coords": [
+                        -13.764468,
+                        28.952462
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Marcial de Rubicón",
+                  "text": "Dating back to the 1730s, this historic monument stands in the Femés area.",
+                  "category": "historical",
+                  "coords": [
+                        -13.779831,
+                        28.91306
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "This striking natural attraction is famous for its bright green pool formed in a volcanic crater.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.827781,
+                        28.976734
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Los Volcanes",
+                  "text": "Established in 1987, this expansive nature reserve showcases dramatic volcanic landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -13.749998,
+                        29.006185
+                  ]
+            },
+            {
+                  "name": "Monumento Natural del Islote de Halcones",
+                  "text": "Established in 1974, this protected natural monument features distinct volcanic islet formations.",
+                  "category": "natural",
+                  "coords": [
+                        -13.817742,
+                        29.004385
+                  ]
+            },
+            {
+                  "name": "Timanfaya National Park",
+                  "text": "This renowned national park is celebrated for its vast, otherworldly landscapes shaped by historical volcanic eruptions.",
+                  "category": "natural",
+                  "coords": [
+                        -13.780426,
+                        29.014316
+                  ]
+            },
+            {
+                  "name": "Monumento Natural de Las Montañas del Fuego",
+                  "text": "This natural monument protects the striking 'Mountains of Fire', featuring stark, volcanic terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -13.752652,
+                        29.001795
+                  ]
+            },
+            {
+                  "name": "Playa del Paso",
+                  "text": "This coastal beach offers a scenic stretch of sand surrounded by rugged volcanic coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830346,
+                        28.997172
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes e Interpretación de Mancha Blanca",
+                  "text": "This visitor centre and museum provides educational exhibits on the region's volcanic history.",
+                  "category": "museum",
+                  "coords": [
+                        -13.703565,
+                        29.033577
+                  ]
+            },
+            {
+                  "name": "Caldera de los Cuervos",
+                  "text": "This natural attraction features a prominent volcanic caldera that visitors can explore.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.691671,
+                        28.991975
+                  ]
+            },
+            {
+                  "name": "Caletón Estrecho",
+                  "text": "This narrow coastal bay offers sheltered waters along the rugged shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.784462,
+                        29.057234
+                  ]
+            },
+            {
+                  "name": "Montaña de la Cinta",
+                  "text": "This prominent mountain peak rises above the surrounding volcanic terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -13.778164,
+                        28.946228
+                  ]
+            },
+            {
+                  "name": "Montaña Rajada",
+                  "text": "This distinct mountain peak stands out with its rugged, volcanic slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -13.773697,
+                        28.994941
+                  ]
+            },
+            {
+                  "name": "Vieja Gabriela",
+                  "text": "This volcanic mountain peak forms part of the region's dramatic natural skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -13.803123,
+                        28.965285
+                  ]
+            },
+            {
+                  "name": "Caldera Blanca",
+                  "text": "This impressive mountain peak is characterised by its large, strikingly white volcanic crater.",
+                  "category": "natural",
+                  "coords": [
+                        -13.731751,
+                        29.034409
+                  ]
+            },
+            {
+                  "name": "Playa de Janubio",
+                  "text": "This coastal beach is known for its distinctive black volcanic sand stretching along the shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.830037,
+                        28.934573
+                  ]
+            },
+            {
+                  "name": "Caleta del Mariscadero",
+                  "text": "This secluded coastal beach offers a rocky and sandy shoreline against the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.759691,
+                        29.069202
+                  ]
+            },
+            {
+                  "name": "Playa de la Madera",
+                  "text": "This sandy coastal beach features a rugged shoreline shaped by volcanic activity.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.774749,
+                        29.062154
+                  ]
+            },
+            {
+                  "name": "Playa de las Malvas",
+                  "text": "This dark sand coastal beach offers a striking contrast against the ocean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.766746,
+                        29.063759
+                  ]
+            },
+            {
+                  "name": "Museo Aloé +",
+                  "text": "This museum features exhibits dedicated to the cultivation and uses of the aloe vera plant.",
+                  "category": "museum",
+                  "coords": [
+                        -13.773785,
+                        28.954199
+                  ]
+            },
+            {
+                  "name": "Quesera Guardilama",
+                  "text": "This archaeological site features ancient, grooved stone structures carved into the volcanic rock.",
+                  "category": "historical",
+                  "coords": [
+                        -13.707219,
+                        28.965344
+                  ]
+            },
+            {
+                  "name": "Molina de Yaiza",
+                  "text": "These structural ruins are the remains of a traditional windmill used in the local area.",
+                  "category": "historical",
+                  "coords": [
+                        -13.75739,
+                        28.941311
+                  ]
+            },
+            {
+                  "name": "Cueva Canal del Pico Partido",
+                  "text": "This archaeological site is centred around a natural cave system formed within the volcanic rock.",
+                  "category": "historical",
+                  "coords": [
+                        -13.718317,
+                        29.011523
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 3",
+                  "text": "This archaeological site encompasses a deep volcanic chasm known locally as the Devil's Chasm.",
+                  "category": "historical",
+                  "coords": [
+                        -13.71185,
+                        29.021807
+                  ]
+            },
+            {
+                  "name": "Sima de Tinguatón / Sima del Diablo 5",
+                  "text": "This section of the archaeological site explores the cavernous depths formed in the volcanic landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -13.710941,
+                        29.021953
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Benito Pérez Armas",
+                  "text": "This local arts centre serves as a cultural hub for exhibitions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.766182,
+                        28.952315
+                  ]
+            },
+            {
+                  "name": "Casona de Femés",
+                  "text": "Set in a traditional building in Femés, this arts centre hosts various cultural activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.773545,
+                        28.918751
+                  ]
+            },
+            {
+                  "name": "El Valle de la Tranquilidad",
+                  "text": "This natural attraction offers a serene, ash-covered valley set amidst the surrounding volcanic peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.751083,
+                        28.994083
+                  ]
+            },
+            {
+                  "name": "Playa Montaña Bermeja",
+                  "text": "This coastal attraction features a striking dark sand beach backed by a reddish volcanic mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829343,
+                        28.960465
+                  ]
+            },
+            {
+                  "name": "Green pond",
+                  "text": "This natural attraction is a visually striking green lagoon formed within a volcanic crater by the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.829698,
+                        28.961905
+                  ]
+            },
+            {
+                  "name": "Cat Hill",
+                  "text": "This local natural attraction features a distinctively shaped hill within the volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.765126,
+                        28.953925
+                  ]
+            },
+            {
+                  "name": "Montaña Tremesana",
+                  "text": "This volcanic attraction offers guided walking routes around its prominent, ash-covered mountain peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.781049,
+                        28.985824
+                  ]
+            },
+            {
+                  "name": "Cave and lava canyon",
+                  "text": "A dramatic volcanic rock formation in Timanfaya sculpted by historical lava flows.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.795841,
+                        28.987583
+                  ]
+            },
+            {
+                  "name": "Collapsed lava tunnel",
+                  "text": "An exposed, rugged subterranean passage in Timanfaya formed by flowing magma.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.797419,
+                        28.98616
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Timanfaya", hu: "Timanfaya Nemzeti Park", ro: "Parcul Național Timanfaya", en: "Timanfaya National Park"},
@@ -1325,7 +3143,1204 @@ imageHint: "Timanfaya National Park volcanic landscape Lanzarote",
     },
     image: "/poi-images/spain-timanfaya-life-v2.webp",
 },  {
-    id: "spain-garajonay-life-v2",
+    id: "spain-garajonay-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro de Interpretación de Las Loceras",
+                  "text": "Besucher können hier die traditionsreiche lokale Herstellung von handgefertigter Keramik erkunden, die ohne Töpferscheibe geformt wird.",
+                  "category": "museum",
+                  "coords": [
+                        -17.28387,
+                        28.118709
+                  ]
+            },
+            {
+                  "name": "Castillo del Mar",
+                  "text": "Die steinernen Ruinen dieser ehemaligen Küstenfestung spielten einst eine entscheidende Rolle bei der Verteidigung des Hafens.",
+                  "category": "historical",
+                  "coords": [
+                        -17.252784,
+                        28.205536
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Dieser üppige botanische Garten, der dem Zeitalter der Entdeckungen gewidmet ist, beherbergt eine vielfältige Sammlung exotischer und endemischer Pflanzenarten.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.262614,
+                        28.188008
+                  ]
+            },
+            {
+                  "name": "Fortaleza",
+                  "text": "Dieser markante Tafelberg wurde von den Ureinwohnern der Insel historisch als heilige natürliche Festung verehrt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.277567,
+                        28.09899
+                  ]
+            },
+            {
+                  "name": "Roque de Agando",
+                  "text": "Ein dramatischer Vulkanschlot, der steil aus dem Lorbeerwald aufragt und als markantes natürliches Wahrzeichen dient.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213728,
+                        28.105292
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Majona",
+                  "text": "Dieses im Oktober 1999 eingerichtete, weitläufige Reservat schützt tiefe Schluchten und zerklüftete Küstenklippen.",
+                  "category": "natural",
+                  "coords": [
+                        -17.160446,
+                        28.143852
+                  ]
+            },
+            {
+                  "name": "Nationalpark Garajonay",
+                  "text": "Dieser als Weltkulturerbe ausgezeichnete, neblige Nationalpark bewahrt einen uralten, dichten Lorbeerwald.",
+                  "category": "natural",
+                  "coords": [
+                        -17.247536,
+                        28.130081
+                  ]
+            },
+            {
+                  "name": "Pescante de Hermigua",
+                  "text": "Diese hoch aufragenden Betonpfeiler im Meer sind die Überreste eines historischen Krans, mit dem landwirtschaftliche Güter auf Schiffe verladen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.172898,
+                        28.178846
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de Candelaria",
+                  "text": "Diese malerische Einsiedelei aus dem 17. Jahrhundert bietet einen ruhigen Ort der Anbetung inmitten der ländlichen Landschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -17.282214,
+                        28.109797
+                  ]
+            },
+            {
+                  "name": "Calvario",
+                  "text": "Ein markanter Berggipfel, der oft über steile Wanderwege erreichbar ist, die das zerklüftete Inselgebiet durchqueren.",
+                  "category": "natural",
+                  "coords": [
+                        -17.241792,
+                        28.052991
+                  ]
+            },
+            {
+                  "name": "Enchereda",
+                  "text": "Dieser schroffe Gipfel sticht im bergigen Landesinneren hervor und bietet weite Blicke auf die umliegenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        -17.179578,
+                        28.143954
+                  ]
+            },
+            {
+                  "name": "Jaragán",
+                  "text": "Eine Wanderung auf diese markante Erhebung belohnt Besucher mit Panoramablicken auf die nahegelegenen tiefen Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        -17.138817,
+                        28.126243
+                  ]
+            },
+            {
+                  "name": "Playa de la Caleta de Hermigua",
+                  "text": "Dieser Strand aus dunklem Sand und Kieseln liegt eingebettet in einer abgelegenen Küstenbucht, umgeben von steilen Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.166506,
+                        28.173269
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación de queso y pastoreo",
+                  "text": "Ausstellungsstücke in diesem ländlichen Zentrum veranschaulichen die traditionellen Techniken der lokalen Käseherstellung und der traditionellen Schafzucht.",
+                  "category": "museum",
+                  "coords": [
+                        -17.23875,
+                        28.070406
+                  ]
+            },
+            {
+                  "name": "Museo Etnográfico",
+                  "text": "Das Museum widmet sich dem volkstümlichen Erbe der Insel und zeigt historische Gewänder, Werkzeuge und landwirtschaftliche Geräte.",
+                  "category": "museum",
+                  "coords": [
+                        -17.198421,
+                        28.160168
+                  ]
+            },
+            {
+                  "name": "Casa de la Memoria",
+                  "text": "Dieser spezielle Ort archiviert Fotografien, Dokumente und mündliche Überlieferungen, um das kollektive Gedächtnis der Einheimischen zu bewahren.",
+                  "category": "museum",
+                  "coords": [
+                        -17.214033,
+                        28.178663
+                  ]
+            },
+            {
+                  "name": "Casa del pintor Jose Aguiar",
+                  "text": "In der ehemaligen Residenz des Künstlers untergebracht, zeigt die Galerie eine bedeutende Sammlung der farbenfrohen Wandbilder und Gemälde von Jose Aguiar.",
+                  "category": "museum",
+                  "coords": [
+                        -17.193299,
+                        28.188881
+                  ]
+            },
+            {
+                  "name": "PEG Los Telares, El Parque Etnográfico de La Gomera",
+                  "text": "Dieser weitläufige Park verfügt über eine authentische alte Gofio-Mühle und funktionierende traditionelle Webstühle.",
+                  "category": "museum",
+                  "coords": [
+                        -17.199807,
+                        28.153123
+                  ]
+            },
+            {
+                  "name": "El Azadoe",
+                  "text": "Diese verwitterten Steinfundamente sind alles, was von einer lange verlassenen ländlichen Behausung am Hang übrig geblieben ist.",
+                  "category": "historical",
+                  "coords": [
+                        -17.227657,
+                        28.082535
+                  ]
+            },
+            {
+                  "name": "Terrazza",
+                  "text": "Verfallene Stützmauern markieren die Stelle ehemaliger landwirtschaftlicher Terrassen, die einst den Anbau auf dem steilen Gelände ermöglichten.",
+                  "category": "historical",
+                  "coords": [
+                        -17.23158,
+                        28.084918
+                  ]
+            },
+            {
+                  "name": "Casa",
+                  "text": "Ein dachloses Steingebäude mit einstürzenden Wänden erinnert still an die historische Wohnarchitektur der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        -17.231914,
+                        28.083538
+                  ]
+            },
+            {
+                  "name": "Degollada del Tanque",
+                  "text": "In der Nähe eines Gebirgspasses gelegen, weisen diese historischen Überreste auf einen ehemaligen Gebirgsaußenposten oder eine ländliche Siedlung hin.",
+                  "category": "historical",
+                  "coords": [
+                        -17.205265,
+                        28.110665
+                  ]
+            },
+            {
+                  "name": "Casas de Taguluche",
+                  "text": "Diese verstreuten architektonischen Überreste spiegeln ein kleines, traditionelles Bauerndorf wider, das nach und nach von der Vegetation des Tals zurückerobert wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -17.153775,
+                        28.160554
+                  ]
+            },
+            {
+                  "name": "Pescante de Agulo",
+                  "text": "Die ins Meer ragenden Säulenruinen waren Teil eines industriellen Davits, der für den Export lokaler Bananen errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -17.193573,
+                        28.195183
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Überreste alter Trockenmauern liegen verstreut in der Landschaft und markieren den Grundriss vergessener historischer Bauwerke.",
+                  "category": "historical",
+                  "coords": [
+                        -17.212351,
+                        28.139337
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Fortaleza",
+                  "text": "Diese bedeutende Bergstätte weist alte Altäre und heilige zeremonielle Steinkreise auf, die von den prähispanischen Bewohnern der Insel erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -17.276224,
+                        28.099438
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Las Hayas",
+                  "text": "Das Centro Cultural Las Hayas ist ein Kunstzentrum, das kulturelle Veranstaltungen in der Region Garajonay bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.292719,
+                        28.129437
+                  ]
+            },
+            {
+                  "name": "Drago Centenario",
+                  "text": "Der Drago Centenario ist ein jahrhundertealter Drachenbaum und eine markante natürliche Attraktion auf La Gomera.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.246303,
+                        28.074608
+                  ]
+            },
+            {
+                  "name": "Phallusfelsen",
+                  "text": "Die Roca Falo ist eine auffällige, phallusförmige Felsformation, die Besucher in der Gegend von Garajonay anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.187005,
+                        28.105034
+                  ]
+            },
+            {
+                  "name": "Mirador de Alajeró",
+                  "text": "Der Mirador de Alajeró ist ein Aussichtspunkt, der weite Blicke über die südliche Landschaft von La Gomera bis zum Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.239681,
+                        28.064498
+                  ]
+            },
+            {
+                  "name": "Los Barranquillos",
+                  "text": "Der Mirador Los Barranquillos bietet eine hervorragende Aussicht auf die zerklüfteten Schluchten von La Gomera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.306285,
+                        28.154874
+                  ]
+            },
+            {
+                  "name": "Mirador de Alojera",
+                  "text": "Vom Mirador de Alojera aus hat man einen fantastischen Blick auf das von Palmen gesäumte Tal von Alojera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.308609,
+                        28.151124
+                  ]
+            },
+            {
+                  "name": "Mirador de la Pilarica",
+                  "text": "Der Mirador de la Pilarica ist ein malerischer Aussichtspunkt auf La Gomera, der einen weiten Panoramablick über die raue Insellandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.262609,
+                        28.178229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro de Interpretación de Las Loceras",
+                  "text": "A látogatók felfedezhetik a fazekaskorong nélkül készült, kézműves kerámiák nagy múltra visszatekintő helyi hagyományát.",
+                  "category": "museum",
+                  "coords": [
+                        -17.28387,
+                        28.118709
+                  ]
+            },
+            {
+                  "name": "Castillo del Mar",
+                  "text": "Ennek az egykori parti erődnek a kőromjai egykor döntő szerepet játszottak a kikötő védelmében.",
+                  "category": "historical",
+                  "coords": [
+                        -17.252784,
+                        28.205536
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "A felfedezések korának szentelt buja botanikus kert egzotikus és endemikus növényfajok változatos gyűjteményével büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.262614,
+                        28.188008
+                  ]
+            },
+            {
+                  "name": "Fortaleza",
+                  "text": "Ezt a feltűnő táblahegy-csúcsot a sziget őslakosai történelmileg szent természetes erődnek tekintették.",
+                  "category": "natural",
+                  "coords": [
+                        -17.277567,
+                        28.09899
+                  ]
+            },
+            {
+                  "name": "Roque de Agando",
+                  "text": "Egy drámai vulkáni dugó, amely meredeken emelkedik ki a babérerdőből, és kiemelkedő természeti tájékozódási pontként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213728,
+                        28.105292
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Majona",
+                  "text": "Az 1999 októberében létrehozott kiterjedt rezervátum mély szakadékokat és zord tengerparti sziklákat véd.",
+                  "category": "natural",
+                  "coords": [
+                        -17.160446,
+                        28.143852
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Garajonay",
+                  "text": "A világörökség részévé nyilvánított ködös nemzeti park egy ősi, sűrű babérerdőt őriz.",
+                  "category": "natural",
+                  "coords": [
+                        -17.247536,
+                        28.130081
+                  ]
+            },
+            {
+                  "name": "Pescante de Hermigua",
+                  "text": "A tengerben álló hatalmas betonpillérek egy történelmi daru maradványai, amellyel mezőgazdasági termékeket raktak hajókra.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.172898,
+                        28.178846
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de Candelaria",
+                  "text": "Ez a festői 17. századi remeteség csendes istentiszteleti helyet kínál a vidéki táj közepén.",
+                  "category": "religious",
+                  "coords": [
+                        -17.282214,
+                        28.109797
+                  ]
+            },
+            {
+                  "name": "Calvario",
+                  "text": "Egy jellegzetes hegycsúcs, amely gyakran a zord szigeti terepet átszelő meredek túraútvonalakon érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        -17.241792,
+                        28.052991
+                  ]
+            },
+            {
+                  "name": "Enchereda",
+                  "text": "Ez a zord csúcs kiemelkedik a hegyvidéki belső térből, és pazar kilátást nyújt a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -17.179578,
+                        28.143954
+                  ]
+            },
+            {
+                  "name": "Jaragán",
+                  "text": "Ennek a kiemelkedő magaslatnak a megmászása a közeli mély szakadékokra nyíló panorámával jutalmazza a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        -17.138817,
+                        28.126243
+                  ]
+            },
+            {
+                  "name": "Playa de la Caleta de Hermigua",
+                  "text": "Ez a sötét homokos és kavicsos strand egy eldugott tengerparti öbölben fekszik, amelyet meredek sziklák határolnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.166506,
+                        28.173269
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación de queso y pastoreo",
+                  "text": "Ennek a vidéki központnak a kiállításai a helyi sajtgyártás hagyományos technikáit és a hagyományos juhászatot mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.23875,
+                        28.070406
+                  ]
+            },
+            {
+                  "name": "Museo Etnográfico",
+                  "text": "A sziget népi örökségének szentelt múzeum történelmi ruhadarabokat, szerszámokat és mezőgazdasági eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.198421,
+                        28.160168
+                  ]
+            },
+            {
+                  "name": "Casa de la Memoria",
+                  "text": "Ez a dedikált tér fényképeket, dokumentumokat és szóbeli történeteket archivál, hogy megőrizze a helyi lakosok kollektív emlékezetét.",
+                  "category": "museum",
+                  "coords": [
+                        -17.214033,
+                        28.178663
+                  ]
+            },
+            {
+                  "name": "Casa del pintor Jose Aguiar",
+                  "text": "A művész egykori rezidenciájában helyet kapó galéria Jose Aguiar élénk színű falfestményeinek és festményeinek jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -17.193299,
+                        28.188881
+                  ]
+            },
+            {
+                  "name": "PEG Los Telares, El Parque Etnográfico de La Gomera",
+                  "text": "Ez a kiterjedt park egy autentikus régi gofio malommal és működő hagyományos szövőszékekkel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        -17.199807,
+                        28.153123
+                  ]
+            },
+            {
+                  "name": "El Azadoe",
+                  "text": "Ezek a mállott kőalapok mindaz, ami egy rég elhagyott vidéki hegyoldali lakóházból megmaradt.",
+                  "category": "historical",
+                  "coords": [
+                        -17.227657,
+                        28.082535
+                  ]
+            },
+            {
+                  "name": "Terrazza",
+                  "text": "Omladozó támfalak jelzik az egykori mezőgazdasági teraszok helyét, amelyek egykor növényeket tartottak a meredek terepen.",
+                  "category": "historical",
+                  "coords": [
+                        -17.23158,
+                        28.084918
+                  ]
+            },
+            {
+                  "name": "Casa",
+                  "text": "Egy tető nélküli kőszerkezet omladozó falakkal csendes emlékeztetőként szolgál a környék történelmi lakóépítészetére.",
+                  "category": "historical",
+                  "coords": [
+                        -17.231914,
+                        28.083538
+                  ]
+            },
+            {
+                  "name": "Degollada del Tanque",
+                  "text": "A hágó közelében található történelmi maradványok egy egykori hegyi előőrsre vagy vidéki településre utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        -17.205265,
+                        28.110665
+                  ]
+            },
+            {
+                  "name": "Casas de Taguluche",
+                  "text": "Ezek a szétszórt építészeti maradványok egy kis, hagyományos falucskát tükröznek, amelyet a völgy növényzete fokozatosan visszahódított.",
+                  "category": "historical",
+                  "coords": [
+                        -17.153775,
+                        28.160554
+                  ]
+            },
+            {
+                  "name": "Pescante de Agulo",
+                  "text": "A tengerbe nyúló romos oszlopok egy ipari csónakdaru részét képezték, amelyet a helyi banán exportálására építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -17.193573,
+                        28.195183
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Régi száraz kőfalak maradványai hevernek szétszórva a tájon, jelezve az elfeledett történelmi építmények lábnyomát.",
+                  "category": "historical",
+                  "coords": [
+                        -17.212351,
+                        28.139337
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Fortaleza",
+                  "text": "Ezen a jelentős hegyvidéki helyszínen a sziget spanyol hódítás előtti lakói által épített ősi oltárok és szent szertartási körök találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -17.276224,
+                        28.099438
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Las Hayas",
+                  "text": "A Centro Cultural Las Hayas egy művészeti központ, amely kulturális eseményeknek ad otthont Garajonay környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.292719,
+                        28.129437
+                  ]
+            },
+            {
+                  "name": "Drago Centenario",
+                  "text": "A Drago Centenario egy évszázados sárkányfa, amely kiemelkedő természeti látványosság La Gomerán.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.246303,
+                        28.074608
+                  ]
+            },
+            {
+                  "name": "Roca Falo",
+                  "text": "A Roca Falo egy feltűnő, fallosz alakú sziklaképződmény, amely vonzza a látogatókat a Garajonay régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.187005,
+                        28.105034
+                  ]
+            },
+            {
+                  "name": "Mirador de Alajeró",
+                  "text": "A Mirador de Alajeró egy kilátó, amely széles panorámát nyújt La Gomera déli tájaira és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -17.239681,
+                        28.064498
+                  ]
+            },
+            {
+                  "name": "Los Barranquillos",
+                  "text": "A Los Barranquillos kilátó kiváló kilátást nyújt La Gomera zord szurdokaira.",
+                  "category": "natural",
+                  "coords": [
+                        -17.306285,
+                        28.154874
+                  ]
+            },
+            {
+                  "name": "Mirador de Alojera",
+                  "text": "A Mirador de Alojera lenyűgöző kilátást nyújt a pálmákkal övezett Alojera völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -17.308609,
+                        28.151124
+                  ]
+            },
+            {
+                  "name": "Mirador de la Pilarica",
+                  "text": "A Mirador de la Pilarica egy festői kilátó La Gomerán, amely széles panorámát nyújt a sziget zord tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -17.262609,
+                        28.178229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro de Interpretación de Las Loceras",
+                  "text": "Vizitatorii pot explora tradiția locală îndelungată a ceramicii lucrate manual, realizată fără utilizarea roții olarului.",
+                  "category": "museum",
+                  "coords": [
+                        -17.28387,
+                        28.118709
+                  ]
+            },
+            {
+                  "name": "Castillo del Mar",
+                  "text": "Ruinele de piatră ale acestei foste fortărețe de coastă au jucat cândva un rol crucial în apărarea portului.",
+                  "category": "historical",
+                  "coords": [
+                        -17.252784,
+                        28.205536
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Dedicată erei descoperirilor, această grădină botanică luxuriantă prezintă o colecție diversă de specii de plante exotice și endemice.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.262614,
+                        28.188008
+                  ]
+            },
+            {
+                  "name": "Fortaleza",
+                  "text": "Acest vârf izbitor de munte în formă de masă a fost considerat istoric o fortăreață naturală sacră de către indigenii insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.277567,
+                        28.09899
+                  ]
+            },
+            {
+                  "name": "Roque de Agando",
+                  "text": "Un dop vulcanic dramatic care se înalță abrupt din pădurea de lauri, servind ca un punct de reper natural proeminent.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213728,
+                        28.105292
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Majona",
+                  "text": "Înființată în octombrie 1999, această rezervație întinsă protejează râpe adânci și stânci de coastă accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        -17.160446,
+                        28.143852
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Garajonay",
+                  "text": "Desemnat ca sit al Patrimoniului Mondial, acest parc național cețos conservă o pădure antică și densă de laurisilva.",
+                  "category": "natural",
+                  "coords": [
+                        -17.247536,
+                        28.130081
+                  ]
+            },
+            {
+                  "name": "Pescante de Hermigua",
+                  "text": "Acești stâlpi falnici de beton din mare sunt rămășițele unei macarale istorice folosite pentru a încărca mărfuri agricole pe nave.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.172898,
+                        28.178846
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de Candelaria",
+                  "text": "Acest schit pitoresc din secolul al XVII-lea oferă un loc liniștit de închinare în mijlocul peisajului rural.",
+                  "category": "religious",
+                  "coords": [
+                        -17.282214,
+                        28.109797
+                  ]
+            },
+            {
+                  "name": "Calvario",
+                  "text": "Un vârf de munte distinct, adesea accesibil prin trasee abrupte de drumeție care traversează terenul accidentat al insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.241792,
+                        28.052991
+                  ]
+            },
+            {
+                  "name": "Enchereda",
+                  "text": "Acest vârf accidentat iese în evidență în interiorul muntos, oferind vederi panoramice ale văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -17.179578,
+                        28.143954
+                  ]
+            },
+            {
+                  "name": "Jaragán",
+                  "text": "Drumeția pe această altitudine proeminentă recompensează vizitatorii cu priveliști panoramice ale râpelor adânci din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -17.138817,
+                        28.126243
+                  ]
+            },
+            {
+                  "name": "Playa de la Caleta de Hermigua",
+                  "text": "Această plajă cu nisip întunecat și pietricele este amplasată într-un golf izolat pe coastă, susținut de stânci abrupte.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.166506,
+                        28.173269
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación de queso y pastoreo",
+                  "text": "Expozițiile din acest centru rural detaliază tehnicile tradiționale de producție locală a brânzei și păstoritul tradițional al oilor.",
+                  "category": "museum",
+                  "coords": [
+                        -17.23875,
+                        28.070406
+                  ]
+            },
+            {
+                  "name": "Museo Etnográfico",
+                  "text": "Dedicat patrimoniului popular al insulei, muzeul expune articole de îmbrăcăminte istorice, unelte și instrumente agricole.",
+                  "category": "museum",
+                  "coords": [
+                        -17.198421,
+                        28.160168
+                  ]
+            },
+            {
+                  "name": "Casa de la Memoria",
+                  "text": "Acest spațiu dedicat arhivează fotografii, documente și istorii orale pentru a păstra memoria colectivă a locuitorilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -17.214033,
+                        28.178663
+                  ]
+            },
+            {
+                  "name": "Casa del pintor Jose Aguiar",
+                  "text": "Găzduită în fosta reședință a artistului, galeria expune o colecție semnificativă de picturi murale și tablouri viu colorate ale lui Jose Aguiar.",
+                  "category": "museum",
+                  "coords": [
+                        -17.193299,
+                        28.188881
+                  ]
+            },
+            {
+                  "name": "PEG Los Telares, El Parque Etnográfico de La Gomera",
+                  "text": "Acest parc extins prezintă o moară veche și autentică de gofio și războaie tradiționale de țesut funcționale.",
+                  "category": "museum",
+                  "coords": [
+                        -17.199807,
+                        28.153123
+                  ]
+            },
+            {
+                  "name": "El Azadoe",
+                  "text": "Aceste fundații de piatră măcinate de vreme sunt tot ce a mai rămas dintr-o locuință rurală abandonată de mult pe deal.",
+                  "category": "historical",
+                  "coords": [
+                        -17.227657,
+                        28.082535
+                  ]
+            },
+            {
+                  "name": "Terrazza",
+                  "text": "Zidurile de sprijin care se prăbușesc marchează locul fostelor terase agricole care au susținut cândva culturile pe terenul abrupt.",
+                  "category": "historical",
+                  "coords": [
+                        -17.23158,
+                        28.084918
+                  ]
+            },
+            {
+                  "name": "Casa",
+                  "text": "O structură de piatră fără acoperiș, cu pereți care se prăbușesc, stă ca o amintire tăcută a arhitecturii domestice istorice a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -17.231914,
+                        28.083538
+                  ]
+            },
+            {
+                  "name": "Degollada del Tanque",
+                  "text": "Poziționate în apropierea unei trecători montane, aceste rămășițe istorice indică un fost avanpost montan sau o așezare rurală.",
+                  "category": "historical",
+                  "coords": [
+                        -17.205265,
+                        28.110665
+                  ]
+            },
+            {
+                  "name": "Casas de Taguluche",
+                  "text": "Aceste rămășițe arhitecturale împrăștiate reflectă un mic cătun tradițional care a fost recuperat treptat de vegetația văii.",
+                  "category": "historical",
+                  "coords": [
+                        -17.153775,
+                        28.160554
+                  ]
+            },
+            {
+                  "name": "Pescante de Agulo",
+                  "text": "Ieșind în ocean, stâlpii în ruină făceau parte dintr-un grui industrial construit pentru a exporta banane locale.",
+                  "category": "historical",
+                  "coords": [
+                        -17.193573,
+                        28.195183
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Rămășițele unor vechi ziduri de piatră uscată stau împrăștiate în peisaj, marcând amprenta structurilor istorice uitate.",
+                  "category": "historical",
+                  "coords": [
+                        -17.212351,
+                        28.139337
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Fortaleza",
+                  "text": "Acest sit montan semnificativ prezintă altare antice și cercuri ceremoniale sacre construite de locuitorii pre-hispanici ai insulei.",
+                  "category": "historical",
+                  "coords": [
+                        -17.276224,
+                        28.099438
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Las Hayas",
+                  "text": "Centro Cultural Las Hayas este un centru de artă care găzduiește evenimente culturale în regiunea Garajonay.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.292719,
+                        28.129437
+                  ]
+            },
+            {
+                  "name": "Drago Centenario",
+                  "text": "Drago Centenario este un arbore dragon vechi de secole și o atracție naturală proeminentă pe La Gomera.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.246303,
+                        28.074608
+                  ]
+            },
+            {
+                  "name": "Roca Falo",
+                  "text": "Roca Falo este o formațiune stâncoasă frapantă de formă falică, care atrage vizitatorii în zona Garajonay.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.187005,
+                        28.105034
+                  ]
+            },
+            {
+                  "name": "Mirador de Alajeró",
+                  "text": "Mirador de Alajeró este un punct de belvedere care oferă vederi ample asupra peisajului sudic din La Gomera până la mare.",
+                  "category": "natural",
+                  "coords": [
+                        -17.239681,
+                        28.064498
+                  ]
+            },
+            {
+                  "name": "Los Barranquillos",
+                  "text": "Punctul de belvedere Los Barranquillos oferă o vedere excelentă asupra râpelor abrupte din La Gomera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.306285,
+                        28.154874
+                  ]
+            },
+            {
+                  "name": "Mirador de Alojera",
+                  "text": "De la Mirador de Alojera puteți admira o vedere fantastică asupra văii mărginite de palmieri a localității Alojera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.308609,
+                        28.151124
+                  ]
+            },
+            {
+                  "name": "Mirador de la Pilarica",
+                  "text": "Mirador de la Pilarica este un punct de belvedere pitoresc pe La Gomera, care oferă o panoramă largă asupra peisajului insular accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        -17.262609,
+                        28.178229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro de Interpretación de Las Loceras",
+                  "text": "Visitors can explore the long-standing local tradition of hand-crafted pottery made without the use of a potter's wheel.",
+                  "category": "museum",
+                  "coords": [
+                        -17.28387,
+                        28.118709
+                  ]
+            },
+            {
+                  "name": "Castillo del Mar",
+                  "text": "The stone ruins of this former coastal fortress once played a crucial role in defending the harbor.",
+                  "category": "historical",
+                  "coords": [
+                        -17.252784,
+                        28.205536
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Dedicated to the era of discovery, this lush botanical garden features a diverse collection of exotic and endemic plant species.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.262614,
+                        28.188008
+                  ]
+            },
+            {
+                  "name": "Fortaleza",
+                  "text": "This striking table mountain peak was historically considered a sacred natural fortress by the island's indigenous people.",
+                  "category": "natural",
+                  "coords": [
+                        -17.277567,
+                        28.09899
+                  ]
+            },
+            {
+                  "name": "Roque de Agando",
+                  "text": "A dramatic volcanic plug rising steeply from the laurel forest, serving as a prominent natural landmark.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213728,
+                        28.105292
+                  ]
+            },
+            {
+                  "name": "Majona Nature Park",
+                  "text": "Established in October 1999, this expansive reserve protects deep ravines and rugged coastal cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -17.160446,
+                        28.143852
+                  ]
+            },
+            {
+                  "name": "Garajonay National Park",
+                  "text": "Designated as a World Heritage site, this misty national park preserves an ancient, dense laurisilva forest.",
+                  "category": "natural",
+                  "coords": [
+                        -17.247536,
+                        28.130081
+                  ]
+            },
+            {
+                  "name": "Pescante de Hermigua",
+                  "text": "These towering concrete pillars in the sea are the remnants of a historic crane used to load agricultural goods onto ships.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.172898,
+                        28.178846
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de Candelaria",
+                  "text": "This quaint 17th-century hermitage offers a quiet place of worship amidst the rural landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -17.282214,
+                        28.109797
+                  ]
+            },
+            {
+                  "name": "Calvario",
+                  "text": "A distinct mountain summit often reached via steep hiking trails that traverse the rugged island terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -17.241792,
+                        28.052991
+                  ]
+            },
+            {
+                  "name": "Enchereda",
+                  "text": "This rugged peak stands out in the mountainous interior, offering sweeping views of the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -17.179578,
+                        28.143954
+                  ]
+            },
+            {
+                  "name": "Jaragán",
+                  "text": "Hiking up this prominent elevation rewards visitors with panoramic vistas of the deep nearby ravines.",
+                  "category": "natural",
+                  "coords": [
+                        -17.138817,
+                        28.126243
+                  ]
+            },
+            {
+                  "name": "Playa de la Caleta de Hermigua",
+                  "text": "This dark sand and pebble beach is nestled in a secluded coastal cove backed by steep cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.166506,
+                        28.173269
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación de queso y pastoreo",
+                  "text": "Exhibits at this rural center detail the traditional techniques of local cheese production and traditional sheep herding.",
+                  "category": "museum",
+                  "coords": [
+                        -17.23875,
+                        28.070406
+                  ]
+            },
+            {
+                  "name": "Museo Etnográfico",
+                  "text": "Dedicated to the island's folk heritage, the museum showcases historical garments, tools, and agricultural implements.",
+                  "category": "museum",
+                  "coords": [
+                        -17.198421,
+                        28.160168
+                  ]
+            },
+            {
+                  "name": "Casa de la Memoria",
+                  "text": "This dedicated space archives photographs, documents, and oral histories to preserve the collective memory of the local inhabitants.",
+                  "category": "museum",
+                  "coords": [
+                        -17.214033,
+                        28.178663
+                  ]
+            },
+            {
+                  "name": "Casa del pintor Jose Aguiar",
+                  "text": "Housed in the artist's former residence, the gallery displays a significant collection of Jose Aguiar's vividly colored murals and paintings.",
+                  "category": "museum",
+                  "coords": [
+                        -17.193299,
+                        28.188881
+                  ]
+            },
+            {
+                  "name": "PEG Los Telares, El Parque Etnográfico de La Gomera",
+                  "text": "This expansive park features an authentic old gofio mill and functioning traditional weaving looms.",
+                  "category": "museum",
+                  "coords": [
+                        -17.199807,
+                        28.153123
+                  ]
+            },
+            {
+                  "name": "El Azadoe",
+                  "text": "These weathered stone foundations are all that remain of a long-abandoned rural dwelling on the hillside.",
+                  "category": "historical",
+                  "coords": [
+                        -17.227657,
+                        28.082535
+                  ]
+            },
+            {
+                  "name": "Terrazza",
+                  "text": "Crumbling retaining walls mark the site of former agricultural terraces that once supported crops on the steep terrain.",
+                  "category": "historical",
+                  "coords": [
+                        -17.23158,
+                        28.084918
+                  ]
+            },
+            {
+                  "name": "Casa",
+                  "text": "A roofless stone structure with collapsing walls stands as a quiet reminder of the area's historical domestic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -17.231914,
+                        28.083538
+                  ]
+            },
+            {
+                  "name": "Degollada del Tanque",
+                  "text": "Positioned near a mountain pass, these historical remains indicate a former mountain outpost or rural settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -17.205265,
+                        28.110665
+                  ]
+            },
+            {
+                  "name": "Casas de Taguluche",
+                  "text": "These scattered architectural remnants reflect a small, traditional hamlet that was gradually reclaimed by the valley's vegetation.",
+                  "category": "historical",
+                  "coords": [
+                        -17.153775,
+                        28.160554
+                  ]
+            },
+            {
+                  "name": "Pescante de Agulo",
+                  "text": "Jutting out into the ocean, the ruined pillars were part of an industrial davit built to export local bananas.",
+                  "category": "historical",
+                  "coords": [
+                        -17.193573,
+                        28.195183
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Remnants of old dry-stone walls lie scattered across the landscape, marking the footprint of forgotten historical structures.",
+                  "category": "historical",
+                  "coords": [
+                        -17.212351,
+                        28.139337
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Fortaleza",
+                  "text": "This significant mountainous site features ancient altars and sacred ceremonial circles built by the island's pre-Hispanic inhabitants.",
+                  "category": "historical",
+                  "coords": [
+                        -17.276224,
+                        28.099438
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Las Hayas",
+                  "text": "The Centro Cultural Las Hayas is an arts centre hosting cultural events in the Garajonay region.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.292719,
+                        28.129437
+                  ]
+            },
+            {
+                  "name": "Drago Centenario",
+                  "text": "The Drago Centenario is a centuries-old dragon tree serving as a prominent natural attraction on La Gomera.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.246303,
+                        28.074608
+                  ]
+            },
+            {
+                  "name": "Roca Falo",
+                  "text": "The Roca Falo is a striking phallic-shaped rock formation that attracts visitors in the Garajonay area.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.187005,
+                        28.105034
+                  ]
+            },
+            {
+                  "name": "Mirador de Alajeró",
+                  "text": "The Mirador de Alajeró is a viewpoint offering sweeping vistas over the southern landscape of La Gomera towards the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -17.239681,
+                        28.064498
+                  ]
+            },
+            {
+                  "name": "Los Barranquillos",
+                  "text": "The Los Barranquillos viewpoint provides an excellent vista over the rugged ravines of La Gomera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.306285,
+                        28.154874
+                  ]
+            },
+            {
+                  "name": "Mirador de Alojera",
+                  "text": "The Mirador de Alojera provides a fantastic view of the palm-fringed valley of Alojera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.308609,
+                        28.151124
+                  ]
+            },
+            {
+                  "name": "Mirador de la Pilarica",
+                  "text": "The Mirador de la Pilarica is a scenic lookout on La Gomera that offers a wide panoramic view over the rugged island landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -17.262609,
+                        28.178229
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Garajonay", hu: "Garajonay Nemzeti Park", ro: "Parcul Național Garajonay", en: "Garajonay National Park"},
@@ -1371,7 +4386,1240 @@ imageHint: "Garajonay National Park misty laurel forest",
     },
     image: "/poi-images/spain-garajonay-life-v2.webp",
 },  {
-    id: "spain-caldera-de-taburiente-life-v2",
+    id: "spain-caldera-de-taburiente-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia Nuestra Senora de la Candelaria",
+                  "text": "Dieses historische Kirchendenkmal stammt aus dem Jahr 1571 und weist traditionelle kanarische Sakralarchitektur auf.",
+                  "category": "historical",
+                  "coords": [
+                        -17.955143,
+                        28.711139
+                  ]
+            },
+            {
+                  "name": "Parque Cultural La Zarza y La Zarcita",
+                  "text": "Dieser Kulturpark ist dafür bekannt, bedeutende prähispanische Petroglyphen zu bewahren, die in einem üppigen Wald verborgen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.907575,
+                        28.80389
+                  ]
+            },
+            {
+                  "name": "Roque de los Muchachos",
+                  "text": "Dieser hohe Vulkanriese thront über der Insel und ist weltweit berühmt für sein großes internationales Observatorium auf dem Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -17.884885,
+                        28.754229
+                  ]
+            },
+            {
+                  "name": "Roque Palmero",
+                  "text": "Dieser schroffe Vulkangipfel liegt an den dramatischen, erhöhten Kämmen, die das gewaltige Rückgrat der Insel bilden.",
+                  "category": "natural",
+                  "coords": [
+                        -17.898317,
+                        28.737618
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Integral del Pinar de Garafía",
+                  "text": "Dieses geschützte Naturschutzgebiet bewahrt ein riesiges, unberührtes Ökosystem, das von widerstandsfähigen Kanarischen Kiefern dominiert wird.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875475,
+                        28.780298
+                  ]
+            },
+            {
+                  "name": "Zona de Especial Conservación Barlovento, Garafía, El Paso y Tijarafe",
+                  "text": "Dieses im Oktober 1999 gegründete, weitläufige Naturschutzgebiet erstreckt sich über mehrere Gemeinden, um die einzigartige vulkanische Artenvielfalt zu schützen.",
+                  "category": "natural",
+                  "coords": [
+                        -17.892543,
+                        28.760505
+                  ]
+            },
+            {
+                  "name": "Nationalpark Caldera de Taburiente",
+                  "text": "Dieser riesige Nationalpark umgibt einen enormen, schroffen Vulkankrater, der durch tiefe, mit Kiefern bewachsene Schluchten gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867015,
+                        28.721212
+                  ]
+            },
+            {
+                  "name": "La Zarza",
+                  "text": "Versteckt in dichter Vegetation ist diese archäologische Stätte berühmt für ihre komplizierten spiralförmigen und kreisförmigen prähispanischen Felsritzungen.",
+                  "category": "historical",
+                  "coords": [
+                        -17.906919,
+                        28.802426
+                  ]
+            },
+            {
+                  "name": "La Zarcita II",
+                  "text": "Diese alte archäologische Stätte bewahrt rätselhafte indigene Petroglyphen, die in einer ruhigen Waldumgebung in Basaltfelsen geritzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -17.908479,
+                        28.802016
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoral de la Tablada del Flaire",
+                  "text": "Dieser historische archäologische Komplex enthält die Steinruinen von Hirtenunterständen, die von Generationen traditioneller Inselhirten genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -17.889458,
+                        28.759772
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Dieses Kunstzentrum fungiert als lokaler Treffpunkt und veranstaltet kulturelle Events, Workshops und Ausstellungen für die umliegende Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.956766,
+                        28.713478
+                  ]
+            },
+            {
+                  "name": "Centro de Jovenes \"7 de septiembre\"",
+                  "text": "Dieses auf Jugendliche ausgerichtete Kunstzentrum bietet einen dynamischen Treffpunkt für kreativen Ausdruck und Gemeindeprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.954458,
+                        28.709709
+                  ]
+            },
+            {
+                  "name": "Cueva del Flaire",
+                  "text": "Eingebettet in die dramatische Felslandschaft, offenbart diese natürliche Höhlenattraktion die poröse vulkanische Geologie der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.888505,
+                        28.760883
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoril del Morro de La Crespa",
+                  "text": "Diese Attraktion liegt auf einem Hochlandfelsen und zeigt die traditionellen Trockenmauerreste einer alten Hirtensiedlung.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.890174,
+                        28.752801
+                  ]
+            },
+            {
+                  "name": "Permakultur",
+                  "text": "Diese einzigartige landwirtschaftliche Attraktion demonstriert nachhaltige Permakulturtechniken, die perfekt an den vulkanischen Boden der Insel angepasst sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.970564,
+                        28.740946
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "Diese archäologische Freiluftattraktion zeigt faszinierende prähispanische Symbole, die direkt in die verwitterten Vulkangesteine geritzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.883753,
+                        28.727229
+                  ]
+            },
+            {
+                  "name": "La Erita",
+                  "text": "Diese hoch gelegene Attraktion bietet eine bedeutende Sammlung indigener Petroglyphen, die in die felsigen Vulkanhänge geritzt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.837674,
+                        28.72235
+                  ]
+            },
+            {
+                  "name": "Mirador Somada Alta",
+                  "text": "Dieser an einem Wanderweg gelegene Aussichtspunkt bietet einen weiten Panoramablick über die steilen, dicht bewaldeten Schluchten der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        -17.77807,
+                        28.758964
+                  ]
+            },
+            {
+                  "name": "Espigón Atravesado",
+                  "text": "Dieser aufregende Aussichtspunkt ragt an einem schmalen Felskamm hervor und lässt Besucher direkt in das dichte Blätterdach des Lorbeerwaldes eintauchen.",
+                  "category": "natural",
+                  "coords": [
+                        -17.808042,
+                        28.783365
+                  ]
+            },
+            {
+                  "name": "Mirador de los Espejos",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen ungehinderten Blick auf die Küste mit ihren steilen Klippen, die dramatisch in den Atlantik abfallen.",
+                  "category": "natural",
+                  "coords": [
+                        -17.824406,
+                        28.773286
+                  ]
+            },
+            {
+                  "name": "Cumbre San Andrés y Sauces",
+                  "text": "Von diesem Bergaussichtspunkt aus können Beobachter über die intensiv grünen landwirtschaftlichen Terrassen der Gemeinde San Andrés y Sauces blicken.",
+                  "category": "natural",
+                  "coords": [
+                        -17.83415,
+                        28.751291
+                  ]
+            },
+            {
+                  "name": "Mirador Hoyo Verde",
+                  "text": "Dieser an eine steile Klippe geklammerte Aussichtspunkt ermöglicht es Besuchern, tief in das üppige, grüne Herz der vulkanischen Caldera zu blicken.",
+                  "category": "natural",
+                  "coords": [
+                        -17.880077,
+                        28.740426
+                  ]
+            },
+            {
+                  "name": "Mirador Espigón del Roque",
+                  "text": "In der Nähe der höchsten Gipfel der Insel gelegen, bietet dieser Aussichtspunkt schwindelerregende Blicke in die schroffen Täler tief unten.",
+                  "category": "natural",
+                  "coords": [
+                        -17.881657,
+                        28.751603
+                  ]
+            },
+            {
+                  "name": "Mirador de Caldera Taburiente",
+                  "text": "Dieser dramatische Balkon bietet einen atemberaubenden Weitwinkelblick über die riesige, mit Kiefern übersäte Weite des Vulkankraters Taburiente.",
+                  "category": "natural",
+                  "coords": [
+                        -17.874668,
+                        28.761886
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Andenes",
+                  "text": "Direkt am Rand des Nationalparks gelegen, eröffnet dieser Aussichtspunkt eine erhabene Perspektive über steile Wände, die Hunderte von Metern abfallen.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867426,
+                        28.761124
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Los Poleos",
+                  "text": "Diese Aussichtsplattform ist perfekt gelegen, um eine tiefe vulkanische Schlucht zu betrachten, die vollständig mit heimischen Kanarischen Kiefern bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -17.859314,
+                        28.799355
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Garome",
+                  "text": "Von diesem malerischen Ort aus können Besucher die steilen, dramatischen Abgründe der von steilen Wänden gesäumten Garome-Schlucht verfolgen.",
+                  "category": "natural",
+                  "coords": [
+                        -17.967696,
+                        28.747131
+                  ]
+            },
+            {
+                  "name": "MIRADOR ASTRONÓMICO DE LA MURALLA",
+                  "text": "Dieser speziell für die Sternenbeobachtung konzipierte Aussichtspunkt profitiert von dem bekanntermaßen dunklen, unverschmutzten Nachthimmel der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        -17.962896,
+                        28.728172
+                  ]
+            },
+            {
+                  "name": "Mirador del Calvario",
+                  "text": "Dieser ruhige, von einem traditionellen Steinkreuz markierte Aussichtspunkt blickt auf die terrassierten landwirtschaftlichen Hänge der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -17.950157,
+                        28.708491
+                  ]
+            },
+            {
+                  "name": "Mirador del Lomo de Tagasaste",
+                  "text": "Auf einem erhöhten Kamm gelegen, ist dieser Aussichtspunkt von den einheimischen Tagasaste-Sträuchern umgeben, die auf dem steilen vulkanischen Terrain gedeihen.",
+                  "category": "natural",
+                  "coords": [
+                        -17.889498,
+                        28.721179
+                  ]
+            },
+            {
+                  "name": "Somada del Palo",
+                  "text": "Dieser malerische Bergaussichtspunkt bietet Besuchern einen weiten, ununterbrochenen Blick über die grünen Osthänge der Insel bis hin zum Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876362,
+                        28.718376
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada de La Fondada",
+                  "text": "Eine Wanderung zu diesem bewaldeten Aussichtspunkt belohnt Sie mit einem klaren Blick auf einen wunderschönen Wasserfall, der tief in der Caldera herabstürzt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.877951,
+                        28.735431
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Las Nieves",
+                  "text": "Dieses weitläufige Gebiet, das 1999 zum Naturpark erklärt wurde, schützt einen der bedeutendsten erhaltenen alten Lorbeerwälder der Kanarischen Inseln.",
+                  "category": "natural",
+                  "coords": [
+                        -17.811058,
+                        28.745423
+                  ]
+            },
+            {
+                  "name": "Conservación activa de Flora de Cumbres",
+                  "text": "Diese hoch gelegene Schutzzone ist streng der Erhaltung der empfindlichen, endemischen Pflanzenarten gewidmet, die auf den höchsten Vulkangipfeln überleben.",
+                  "category": "natural",
+                  "coords": [
+                        -17.903358,
+                        28.767644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia Nuestra Senora de la Candelaria",
+                  "text": "Ez az 1571-ből származó történelmi templomműemlék hagyományos kanári-szigeteki vallási építészettel büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        -17.955143,
+                        28.711139
+                  ]
+            },
+            {
+                  "name": "Parque Cultural La Zarza y La Zarcita",
+                  "text": "Ez a kulturális park a buja erdőben megbúvó, jelentős spanyol hódítás előtti sziklarajzok megőrzéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.907575,
+                        28.80389
+                  ]
+            },
+            {
+                  "name": "Roque de los Muchachos",
+                  "text": "A sziget fölé magasodó vulkáni csúcs világszerte ismert arról, hogy a tetején egy jelentős nemzetközi csillagvizsgáló működik.",
+                  "category": "natural",
+                  "coords": [
+                        -17.884885,
+                        28.754229
+                  ]
+            },
+            {
+                  "name": "Roque Palmero",
+                  "text": "Ez a zord vulkáni csúcs azokon a drámai magaslatokon fekszik, amelyek a sziget tornyosuló gerincét alkotják.",
+                  "category": "natural",
+                  "coords": [
+                        -17.898317,
+                        28.737618
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Integral del Pinar de Garafía",
+                  "text": "Ez a védett természetvédelmi terület egy hatalmas, érintetlen ökoszisztémát őriz, amelyet a szívós kanári fenyők uralnak.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875475,
+                        28.780298
+                  ]
+            },
+            {
+                  "name": "Zona de Especial Conservación Barlovento, Garafía, El Paso y Tijarafe",
+                  "text": "Az 1999 októberében létrehozott, kiterjedt természetvédelmi terület több településen ível át az egyedülálló vulkáni biodiverzitás védelme érdekében.",
+                  "category": "natural",
+                  "coords": [
+                        -17.892543,
+                        28.760505
+                  ]
+            },
+            {
+                  "name": "Parque nacional de la Caldera de Taburiente",
+                  "text": "Ez a hatalmas nemzeti park egy óriási, zord vulkáni krátert vesz körül, amelyet mély, fenyvesekkel borított szakadékok jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867015,
+                        28.721212
+                  ]
+            },
+            {
+                  "name": "La Zarza",
+                  "text": "A sűrű növényzetben megbúvó régészeti lelőhely bonyolult spirális és kör alakú, spanyol hódítás előtti sziklarajzairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        -17.906919,
+                        28.802426
+                  ]
+            },
+            {
+                  "name": "La Zarcita II",
+                  "text": "Ez az ősi régészeti lelőhely rejtélyes őslakos sziklarajzokat őriz, amelyeket bazaltsziklákba véstek egy csendes erdei környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        -17.908479,
+                        28.802016
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoral de la Tablada del Flaire",
+                  "text": "Ez a történelmi régészeti komplexum olyan pásztormenedékek kőromjait tartalmazza, amelyeket a hagyományos szigeti pásztorok generációi használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -17.889458,
+                        28.759772
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A helyi központként működő művészeti intézmény kulturális eseményeknek, workshopoknak és kiállításoknak ad otthont a környező település számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.956766,
+                        28.713478
+                  ]
+            },
+            {
+                  "name": "Centro de Jovenes \"7 de septiembre\"",
+                  "text": "Ez az ifjúságközpontú művészeti intézmény dinamikus gyülekezőhelyet biztosít a kreatív önkifejezés és a közösségi programok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.954458,
+                        28.709709
+                  ]
+            },
+            {
+                  "name": "Cueva del Flaire",
+                  "text": "A drámai sziklás tájban megbúvó természetes barlanglátványosság a sziget porózus vulkáni geológiáját tárja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.888505,
+                        28.760883
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoril del Morro de La Crespa",
+                  "text": "A felvidéki sziklákon található látványosság egy ősi pásztortelepülés hagyományos szárazkő-maradványait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.890174,
+                        28.752801
+                  ]
+            },
+            {
+                  "name": "Permacultura",
+                  "text": "Ez az egyedülálló mezőgazdasági látványosság a sziget vulkáni talajához tökéletesen alkalmazkodó, fenntartható permakultúrás technikákat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.970564,
+                        28.740946
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "Ez a szabadtéri régészeti látványosság közvetlenül az időjárás viszontagságainak kitett vulkáni kőzetekbe vájt, lenyűgöző spanyol hódítás előtti szimbólumokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.883753,
+                        28.727229
+                  ]
+            },
+            {
+                  "name": "La Erita",
+                  "text": "Ez a magasan fekvő látványosság a sziklás vulkáni lejtőkbe vésett őslakos sziklarajzok jelentős gyűjteményével büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.837674,
+                        28.72235
+                  ]
+            },
+            {
+                  "name": "Mirador Somada Alta",
+                  "text": "A túraútvonal mentén található kilátó pazar panorámát kínál a sziget meredek, buja erdőkkel borított szurdokaira.",
+                  "category": "natural",
+                  "coords": [
+                        -17.77807,
+                        28.758964
+                  ]
+            },
+            {
+                  "name": "Espigón Atravesado",
+                  "text": "Egy keskeny sziklagerincen kiugró, izgalmas kilátó, amely a látogatókat egyenesen a babérerdő sűrű lombkoronájába repíti.",
+                  "category": "natural",
+                  "coords": [
+                        -17.808042,
+                        28.783365
+                  ]
+            },
+            {
+                  "name": "Mirador de los Espejos",
+                  "text": "Ez a festői kilátó zavartalan kilátást nyújt a tengerpartra, ahol a meredek sziklák drámaian zuhannak az Atlanti-óceánba.",
+                  "category": "natural",
+                  "coords": [
+                        -17.824406,
+                        28.773286
+                  ]
+            },
+            {
+                  "name": "Cumbre San Andrés y Sauces",
+                  "text": "Ebből a hegyi kilátóból a látogatók San Andrés y Sauces település intenzív zöld mezőgazdasági teraszaira tekinthetnek le.",
+                  "category": "natural",
+                  "coords": [
+                        -17.83415,
+                        28.751291
+                  ]
+            },
+            {
+                  "name": "Mirador Hoyo Verde",
+                  "text": "A meredek sziklafalba kapaszkodó kilátó lehetővé teszi, hogy a látogatók mélyen a vulkáni kaldera buja, zöld szívébe tekintsenek.",
+                  "category": "natural",
+                  "coords": [
+                        -17.880077,
+                        28.740426
+                  ]
+            },
+            {
+                  "name": "Mirador Espigón del Roque",
+                  "text": "A sziget legmagasabb csúcsai közelében található kilátó szédítő kilátást nyújt a lent elterülő zord völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -17.881657,
+                        28.751603
+                  ]
+            },
+            {
+                  "name": "Mirador de Caldera Taburiente",
+                  "text": "Ez a drámai erkély lélegzetelállító, széles látószögű kilátást nyújt a Taburiente vulkáni kráter hatalmas, fenyvesekkel tarkított kiterjedésére.",
+                  "category": "natural",
+                  "coords": [
+                        -17.874668,
+                        28.761886
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Andenes",
+                  "text": "Közvetlenül a nemzeti park peremén fekvő kilátóból fenséges kilátás nyílik a több száz métert zuhanó meredek sziklafalakra.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867426,
+                        28.761124
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Los Poleos",
+                  "text": "Ez a kilátó tökéletes helyen van ahhoz, hogy egy mély vulkáni szurdokot csodáljunk meg, amelyet teljesen beborítanak az őshonos kanári fenyők.",
+                  "category": "natural",
+                  "coords": [
+                        -17.859314,
+                        28.799355
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Garome",
+                  "text": "Ebből a festői pontból kinézve a látogatók nyomon követhetik a meredek falú Garome-szurdok hatalmas, drámai mélységeit.",
+                  "category": "natural",
+                  "coords": [
+                        -17.967696,
+                        28.747131
+                  ]
+            },
+            {
+                  "name": "MIRADOR ASTRONÓMICO DE LA MURALLA",
+                  "text": "A kifejezetten csillagnézésre tervezett kilátó kihasználja a sziget híresen sötét, fényszennyezéstől mentes éjszakai égboltját.",
+                  "category": "natural",
+                  "coords": [
+                        -17.962896,
+                        28.728172
+                  ]
+            },
+            {
+                  "name": "Mirador del Calvario",
+                  "text": "A hagyományos kőkereszttel jelölt, nyugodt kilátó a helyi táj teraszos mezőgazdasági lejtőire tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -17.950157,
+                        28.708491
+                  ]
+            },
+            {
+                  "name": "Mirador del Lomo de Tagasaste",
+                  "text": "A kiemelkedő gerincen fekvő kilátót őshonos tagasaste cserjék veszik körül, amelyek a meredek vulkáni terepen virágoznak.",
+                  "category": "natural",
+                  "coords": [
+                        -17.889498,
+                        28.721179
+                  ]
+            },
+            {
+                  "name": "Somada del Palo",
+                  "text": "Ez a festői hegyi kilátó tágas, zavartalan kilátást nyújt a sziget zöldellő keleti lejtőin keresztül a tenger felé.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876362,
+                        28.718376
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada de La Fondada",
+                  "text": "A fásított kilátóhoz vezető túra jutalma, hogy tiszta rálátást nyerünk egy gyönyörű vízesésre, amely mélyen a kalderába zuhan.",
+                  "category": "natural",
+                  "coords": [
+                        -17.877951,
+                        28.735431
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Las Nieves",
+                  "text": "Az 1999-ben natúrparkká nyilvánított kiterjedt terület a Kanári-szigetek egyik legjelentősebb megmaradt ősi babérerdőjét védi.",
+                  "category": "natural",
+                  "coords": [
+                        -17.811058,
+                        28.745423
+                  ]
+            },
+            {
+                  "name": "Conservación activa de Flora de Cumbres",
+                  "text": "Ezt a magashegyi természetvédelmi övezetet szigorúan a legmagasabb vulkáni csúcsokon túlélő törékeny, endemikus növényfajok megőrzésének szentelték.",
+                  "category": "natural",
+                  "coords": [
+                        -17.903358,
+                        28.767644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia Nuestra Senora de la Candelaria",
+                  "text": "Acest monument istoric bisericesc datează din 1571 și prezintă o arhitectură religioasă tradițională canariană.",
+                  "category": "historical",
+                  "coords": [
+                        -17.955143,
+                        28.711139
+                  ]
+            },
+            {
+                  "name": "Parque Cultural La Zarza y La Zarcita",
+                  "text": "Acest parc cultural este renumit pentru conservarea unor importante petroglife prehispanice ascunse într-o pădure luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.907575,
+                        28.80389
+                  ]
+            },
+            {
+                  "name": "Roque de los Muchachos",
+                  "text": "Dominând insula, acest înalt vârf vulcanic este faimos la nivel mondial pentru că găzduiește un important observator astronomic internațional.",
+                  "category": "natural",
+                  "coords": [
+                        -17.884885,
+                        28.754229
+                  ]
+            },
+            {
+                  "name": "Roque Palmero",
+                  "text": "Acest vârf vulcanic accidentat este situat de-a lungul crestelor dramatice care formează coloana vertebrală a insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.898317,
+                        28.737618
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Integral del Pinar de Garafía",
+                  "text": "Această rezervație naturală protejată conservă un ecosistem vast și virgin, dominat de pini canarieni rezistenți.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875475,
+                        28.780298
+                  ]
+            },
+            {
+                  "name": "Zona de Especial Conservación Barlovento, Garafía, El Paso y Tijarafe",
+                  "text": "Înființată în octombrie 1999, această vastă arie de conservare se întinde pe mai multe municipii pentru a proteja biodiversitatea vulcanică unică.",
+                  "category": "natural",
+                  "coords": [
+                        -17.892543,
+                        28.760505
+                  ]
+            },
+            {
+                  "name": "Parque nacional de la Caldera de Taburiente",
+                  "text": "Acest parc național masiv înconjoară un crater vulcanic enorm și accidentat, caracterizat de râpe adânci acoperite de pini.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867015,
+                        28.721212
+                  ]
+            },
+            {
+                  "name": "La Zarza",
+                  "text": "Ascuns în vegetația densă, acest sit arheologic este renumit pentru sculpturile sale rupestre prehispanice complexe, în formă de spirală și cerc.",
+                  "category": "historical",
+                  "coords": [
+                        -17.906919,
+                        28.802426
+                  ]
+            },
+            {
+                  "name": "La Zarcita II",
+                  "text": "Acest vechi sit arheologic păstrează petroglife indigene enigmatice gravate pe roci de bazalt într-un cadru forestier liniștit.",
+                  "category": "historical",
+                  "coords": [
+                        -17.908479,
+                        28.802016
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoral de la Tablada del Flaire",
+                  "text": "Acest complex arheologic istoric conține ruinele de piatră ale adăposturilor pastorale folosite de generații de păstori tradiționali ai insulei.",
+                  "category": "historical",
+                  "coords": [
+                        -17.889458,
+                        28.759772
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Funcționând ca un centru local, această instituție de artă găzduiește evenimente culturale, ateliere și expoziții pentru municipalitatea înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.956766,
+                        28.713478
+                  ]
+            },
+            {
+                  "name": "Centro de Jovenes \"7 de septiembre\"",
+                  "text": "Acest centru de artă axat pe tineret oferă un spațiu de adunare dinamic pentru exprimare creativă și programe comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.954458,
+                        28.709709
+                  ]
+            },
+            {
+                  "name": "Cueva del Flaire",
+                  "text": "Cuibărită în peisajul stâncos dramatic, această atracție naturală a peșterii dezvăluie geologia vulcanică poroasă a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.888505,
+                        28.760883
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoril del Morro de La Crespa",
+                  "text": "Situată pe un afloriment înalt, această atracție prezintă rămășițele tradiționale din piatră seacă ale unei vechi așezări pastorale.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.890174,
+                        28.752801
+                  ]
+            },
+            {
+                  "name": "Permacultura",
+                  "text": "Această atracție agricolă unică demonstrează tehnici durabile de permacultură adaptate perfect la solul vulcanic al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.970564,
+                        28.740946
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "Această atracție arheologică în aer liber prezintă simboluri prehispanice fascinante sculptate direct în rocile vulcanice erodate.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.883753,
+                        28.727229
+                  ]
+            },
+            {
+                  "name": "La Erita",
+                  "text": "Această atracție situată la mare altitudine prezintă o colecție semnificativă de petroglife indigene gravate pe pantele vulcanice stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.837674,
+                        28.72235
+                  ]
+            },
+            {
+                  "name": "Mirador Somada Alta",
+                  "text": "Situat de-a lungul unui traseu de drumeții, acest punct de belvedere oferă vederi panoramice ample asupra râpelor abrupte și bogat împădurite ale insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.77807,
+                        28.758964
+                  ]
+            },
+            {
+                  "name": "Espigón Atravesado",
+                  "text": "Ieșind în afară de-a lungul unei creste stâncoase înguste, acest punct de belvedere captivant cufundă vizitatorii direct în coronamentul dens al pădurii de dafini.",
+                  "category": "natural",
+                  "coords": [
+                        -17.808042,
+                        28.783365
+                  ]
+            },
+            {
+                  "name": "Mirador de los Espejos",
+                  "text": "Acest punct de observație pitoresc oferă o vedere neobstrucționată asupra coastei și a stâncilor abrupte care coboară dramatic în Oceanul Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -17.824406,
+                        28.773286
+                  ]
+            },
+            {
+                  "name": "Cumbre San Andrés y Sauces",
+                  "text": "De la acest punct de belvedere montan, observatorii pot privi peste terasele agricole intens verzi ale municipiului San Andrés y Sauces.",
+                  "category": "natural",
+                  "coords": [
+                        -17.83415,
+                        28.751291
+                  ]
+            },
+            {
+                  "name": "Mirador Hoyo Verde",
+                  "text": "Agățat de o stâncă abruptă, acest punct de belvedere permite vizitatorilor să privească adânc în inima verde și luxuriantă a calderei vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        -17.880077,
+                        28.740426
+                  ]
+            },
+            {
+                  "name": "Mirador Espigón del Roque",
+                  "text": "Situat în apropierea celor mai înalte vârfuri ale insulei, acest punct de observație oferă priveliști amețitoare asupra văilor accidentate de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.881657,
+                        28.751603
+                  ]
+            },
+            {
+                  "name": "Mirador de Caldera Taburiente",
+                  "text": "Acest balcon dramatic oferă o priveliște uluitoare, cu unghi larg, peste imensitatea presărată cu pini a craterului vulcanic Taburiente.",
+                  "category": "natural",
+                  "coords": [
+                        -17.874668,
+                        28.761886
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Andenes",
+                  "text": "Așezat direct pe marginea parcului național, acest punct de belvedere oferă o perspectivă înălțătoare asupra pereților abrupți care coboară sute de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867426,
+                        28.761124
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Los Poleos",
+                  "text": "Această punte de observație este perfect situată pentru a admira o râpă vulcanică adâncă, acoperită complet de pini canarieni nativi.",
+                  "category": "natural",
+                  "coords": [
+                        -17.859314,
+                        28.799355
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Garome",
+                  "text": "Privind din acest loc pitoresc, vizitatorii pot urmări pantele abrupte și dramatice ale râpei cu pereți abrupți Garome.",
+                  "category": "natural",
+                  "coords": [
+                        -17.967696,
+                        28.747131
+                  ]
+            },
+            {
+                  "name": "MIRADOR ASTRONÓMICO DE LA MURALLA",
+                  "text": "Conceput special pentru observarea stelelor, acest punct de belvedere profită de faimosul cer nocturn întunecat și nepoluat al insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.962896,
+                        28.728172
+                  ]
+            },
+            {
+                  "name": "Mirador del Calvario",
+                  "text": "Marcat de o cruce tradițională din piatră, acest punct de belvedere liniștit privește peste pantele agricole terasate ale peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        -17.950157,
+                        28.708491
+                  ]
+            },
+            {
+                  "name": "Mirador del Lomo de Tagasaste",
+                  "text": "Situat pe o creastă înaltă, acest punct de belvedere este înconjurat de arbuști nativi de tagasaste care prosperă pe terenul vulcanic abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.889498,
+                        28.721179
+                  ]
+            },
+            {
+                  "name": "Somada del Palo",
+                  "text": "Acest punct de belvedere montan pitoresc oferă vizitatorilor o vedere amplă și neîntreruptă peste pantele estice înverzite ale insulei către mare.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876362,
+                        28.718376
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada de La Fondada",
+                  "text": "Drumeția către acest punct de belvedere împădurit vă răsplătește cu o vedere clară asupra unei frumoase cascade care se prăbușește adânc în calderă.",
+                  "category": "natural",
+                  "coords": [
+                        -17.877951,
+                        28.735431
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Las Nieves",
+                  "text": "Declarată parc natural în 1999, această zonă întinsă protejează una dintre cele mai importante păduri antice de dafini rămase în Insulele Canare.",
+                  "category": "natural",
+                  "coords": [
+                        -17.811058,
+                        28.745423
+                  ]
+            },
+            {
+                  "name": "Conservación activa de Flora de Cumbres",
+                  "text": "Această zonă de conservare la mare altitudine este strict dedicată păstrării speciilor de plante endemice fragile care supraviețuiesc pe cele mai înalte vârfuri vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        -17.903358,
+                        28.767644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia Nuestra Senora de la Candelaria",
+                  "text": "This historic church monument dates back to 1571 and features traditional Canarian religious architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -17.955143,
+                        28.711139
+                  ]
+            },
+            {
+                  "name": "Parque Cultural La Zarza y La Zarcita",
+                  "text": "This cultural park attraction is renowned for preserving significant pre-Hispanic petroglyphs hidden within a lush forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.907575,
+                        28.80389
+                  ]
+            },
+            {
+                  "name": "Roque de los Muchachos",
+                  "text": "Towering over the island, this high volcanic peak is globally famous for hosting a major international astronomical observatory at its summit.",
+                  "category": "natural",
+                  "coords": [
+                        -17.884885,
+                        28.754229
+                  ]
+            },
+            {
+                  "name": "Roque Palmero",
+                  "text": "This rugged volcanic peak sits along the dramatic elevated ridges that form the island's towering backbone.",
+                  "category": "natural",
+                  "coords": [
+                        -17.898317,
+                        28.737618
+                  ]
+            },
+            {
+                  "name": "Pinar de Garafía Integrated Nature Reserve",
+                  "text": "This protected nature reserve preserves a vast, pristine ecosystem dominated by resilient Canary Island pine trees.",
+                  "category": "natural",
+                  "coords": [
+                        -17.875475,
+                        28.780298
+                  ]
+            },
+            {
+                  "name": "Barlovento, Garafía, El Paso y Tijarafe Special Conservation Area",
+                  "text": "Established in October 1999, this expansive conservation area spans multiple municipalities to protect unique volcanic biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -17.892543,
+                        28.760505
+                  ]
+            },
+            {
+                  "name": "Caldera de Taburiente National Park",
+                  "text": "This massive national park surrounds an enormous, rugged volcanic crater characterized by deep pine-covered ravines.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867015,
+                        28.721212
+                  ]
+            },
+            {
+                  "name": "La Zarza",
+                  "text": "Hidden within dense vegetation, this archaeological site is renowned for its intricate spiral and circular pre-Hispanic rock carvings.",
+                  "category": "historical",
+                  "coords": [
+                        -17.906919,
+                        28.802426
+                  ]
+            },
+            {
+                  "name": "La Zarcita II",
+                  "text": "This ancient archaeological site preserves enigmatic indigenous petroglyphs etched onto basalt rocks in a quiet forest setting.",
+                  "category": "historical",
+                  "coords": [
+                        -17.908479,
+                        28.802016
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoral de la Tablada del Flaire",
+                  "text": "This historic archaeological complex contains the stone ruins of pastoral shelters used by generations of traditional island herders.",
+                  "category": "historical",
+                  "coords": [
+                        -17.889458,
+                        28.759772
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Acting as a local hub, this arts center hosts cultural events, workshops, and exhibitions for the surrounding municipality.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.956766,
+                        28.713478
+                  ]
+            },
+            {
+                  "name": "Centro de Jovenes \"7 de septiembre\"",
+                  "text": "This youth-focused arts center provides a dynamic gathering space for creative expression and community programs.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.954458,
+                        28.709709
+                  ]
+            },
+            {
+                  "name": "Cueva del Flaire",
+                  "text": "Nestled in the dramatic rocky landscape, this natural cave attraction reveals the island's porous volcanic geology.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.888505,
+                        28.760883
+                  ]
+            },
+            {
+                  "name": "Conjunto pastoril del Morro de La Crespa",
+                  "text": "Situated on a highland outcrop, this attraction features the traditional dry-stone remnants of an ancient pastoral settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.890174,
+                        28.752801
+                  ]
+            },
+            {
+                  "name": "Permaculture",
+                  "text": "This unique agricultural attraction demonstrates sustainable permaculture techniques adapted perfectly to the island's volcanic soil.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.970564,
+                        28.740946
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "This open-air archaeological attraction showcases fascinating pre-Hispanic symbols carved directly into weathered volcanic rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.883753,
+                        28.727229
+                  ]
+            },
+            {
+                  "name": "La Erita",
+                  "text": "This high-altitude attraction features a significant collection of indigenous petroglyphs etched onto the rocky volcanic slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.837674,
+                        28.72235
+                  ]
+            },
+            {
+                  "name": "Mirador Somada Alta",
+                  "text": "Set along a hiking trail, this viewpoint offers sweeping panoramic vistas across the island's steep, lushly forested ravines.",
+                  "category": "natural",
+                  "coords": [
+                        -17.77807,
+                        28.758964
+                  ]
+            },
+            {
+                  "name": "Espigón Atravesado",
+                  "text": "Jutting out along a narrow rocky ridge, this thrilling viewpoint immerses visitors directly in the dense canopy of the laurel forest.",
+                  "category": "natural",
+                  "coords": [
+                        -17.808042,
+                        28.783365
+                  ]
+            },
+            {
+                  "name": "Mirador de los Espejos",
+                  "text": "This scenic vantage point provides unobstructed coastal views of the steep cliffs dropping dramatically into the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -17.824406,
+                        28.773286
+                  ]
+            },
+            {
+                  "name": "Cumbre San Andrés y Sauces",
+                  "text": "From this mountain viewpoint, observers can gaze out over the intensely green agricultural terraces of the San Andrés y Sauces municipality.",
+                  "category": "natural",
+                  "coords": [
+                        -17.83415,
+                        28.751291
+                  ]
+            },
+            {
+                  "name": "Mirador Hoyo Verde",
+                  "text": "Clinging to a steep cliffside, this viewpoint allows visitors to look deep into the lush, green heart of the volcanic caldera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.880077,
+                        28.740426
+                  ]
+            },
+            {
+                  "name": "Mirador Espigón del Roque",
+                  "text": "Located near the island's towering highest peaks, this observation point offers vertigo-inducing views down into the rugged valleys below.",
+                  "category": "natural",
+                  "coords": [
+                        -17.881657,
+                        28.751603
+                  ]
+            },
+            {
+                  "name": "Mirador de Caldera Taburiente",
+                  "text": "This dramatic balcony provides a breathtaking, wide-angle view across the massive, pine-studded expanse of the Taburiente volcanic crater.",
+                  "category": "natural",
+                  "coords": [
+                        -17.874668,
+                        28.761886
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Andenes",
+                  "text": "Perched directly on the rim of the national park, this viewpoint gives a soaring perspective over steep walls dropping hundreds of meters.",
+                  "category": "natural",
+                  "coords": [
+                        -17.867426,
+                        28.761124
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Los Poleos",
+                  "text": "This observation deck is perfectly situated to view a deep volcanic ravine completely blanketed in native Canary Island pine trees.",
+                  "category": "natural",
+                  "coords": [
+                        -17.859314,
+                        28.799355
+                  ]
+            },
+            {
+                  "name": "Mirador Barranco de Garome",
+                  "text": "Looking out from this scenic spot, visitors can trace the sheer, dramatic drops of the steep-sided Garome ravine.",
+                  "category": "natural",
+                  "coords": [
+                        -17.967696,
+                        28.747131
+                  ]
+            },
+            {
+                  "name": "MIRADOR ASTRONÓMICO DE LA MURALLA",
+                  "text": "Specifically designed for stargazing, this viewpoint takes advantage of the island's famously dark, unpolluted night skies.",
+                  "category": "natural",
+                  "coords": [
+                        -17.962896,
+                        28.728172
+                  ]
+            },
+            {
+                  "name": "Mirador del Calvario",
+                  "text": "Marked by a traditional stone cross, this tranquil viewpoint looks over the terraced agricultural slopes of the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -17.950157,
+                        28.708491
+                  ]
+            },
+            {
+                  "name": "Mirador del Lomo de Tagasaste",
+                  "text": "Set upon an elevated ridge, this viewpoint is surrounded by the indigenous tagasaste shrubs that thrive on the steep volcanic terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -17.889498,
+                        28.721179
+                  ]
+            },
+            {
+                  "name": "Somada del Palo",
+                  "text": "This scenic mountain lookout provides visitors with an expansive, unbroken view across the island's verdant eastern slopes toward the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -17.876362,
+                        28.718376
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada de La Fondada",
+                  "text": "Hiking to this forested viewpoint rewards you with a clear sightline of a beautiful cascading waterfall plunging deep within the caldera.",
+                  "category": "natural",
+                  "coords": [
+                        -17.877951,
+                        28.735431
+                  ]
+            },
+            {
+                  "name": "Las Nieves Nature Park",
+                  "text": "Declared a nature park in 1999, this sprawling area protects one of the most significant ancient laurel forests remaining in the Canary Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -17.811058,
+                        28.745423
+                  ]
+            },
+            {
+                  "name": "Conservación activa de Flora de Cumbres",
+                  "text": "This high-altitude conservation zone is strictly dedicated to preserving the fragile, endemic plant species that survive on the highest volcanic peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -17.903358,
+                        28.767644
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Caldera de Taburiente", hu: "Caldera de Taburiente Nemzeti Park", ro: "Parcul Național Caldera de Taburiente", en: "Caldera de Taburiente National Park"},
@@ -4223,7 +8471,1132 @@ imageHint: "Royal Botanical Garden Madrid entrance",
     },
     image: "/poi-images/spain-rjb-madrid-life-v2.webp",
 },  {
-    id: "spain-loro-parque-life-v2",
+    id: "spain-loro-parque-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Das Museo Arqueológico in Puerto de la Cruz bewahrt antike Artefakte und archäologische Funde aus der Region auf.",
+                  "category": "museum",
+                  "coords": [
+                        -16.552402,
+                        28.416873
+                  ]
+            },
+            {
+                  "name": "Cueva de Bencomo",
+                  "text": "Die Cueva de Bencomo ist eine historische Höhle und archäologische Stätte auf der Insel Teneriffa.",
+                  "category": "historical",
+                  "coords": [
+                        -16.50617,
+                        28.407284
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Úrsula",
+                  "text": "Die Iglesia de Santa Úrsula ist ein historisches Pfarrkirchen-Monument in der Gemeinde Santa Úrsula.",
+                  "category": "historical",
+                  "coords": [
+                        -16.491772,
+                        28.425813
+                  ]
+            },
+            {
+                  "name": "Casa de los Balcones",
+                  "text": "Die Casa de los Balcones ist ein historisches Herrenhaus auf Teneriffa, das für seine aufwendig geschnitzten Holzbalkone bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -16.525782,
+                        28.388336
+                  ]
+            },
+            {
+                  "name": "Hacienda de los Príncipes",
+                  "text": "Die Hacienda de los Príncipes ist ein altes Landgut und ein monumentaler Komplex, der die Landwirtschaftsgeschichte Teneriffas widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -16.589181,
+                        28.383897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Concepción",
+                  "text": "Die Iglesia de Nuestra Señora de la Concepción ist ein religiöses Monument aus dem 16. Jahrhundert in Los Realejos.",
+                  "category": "historical",
+                  "coords": [
+                        -16.588168,
+                        28.385684
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago Apostol",
+                  "text": "Die Iglesia de Santiago Apostol ist eine historische monumentale Pfarrkirche in Los Realejos, die auf das frühe 16. Jahrhundert zurückgeht.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585255,
+                        28.380841
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento-Palacio Municipal",
+                  "text": "Das Ayuntamiento-Palacio Municipal dient als großes bürgerliches Rathausgebäude für La Orotava.",
+                  "category": "historical",
+                  "coords": [
+                        -16.524715,
+                        28.389112
+                  ]
+            },
+            {
+                  "name": "All Saints Anglican Church",
+                  "text": "Die All Saints Anglican Church ist ein unverwechselbares britisches religiöses Monument in Puerto de la Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548343,
+                        28.409295
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Die Iglesia San Juan Bautista ist eine lokale Pfarrei und Kultstätte in der Stadt La Orotava.",
+                  "category": "religious",
+                  "coords": [
+                        -16.523207,
+                        28.386909
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "Die Ermita de San Telmo ist eine denkmalgeschützte (Stufe 3) Küstenkapelle in Puerto de la Cruz, die dem Schutzpatron der Seeleute gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -16.545526,
+                        28.41756
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Peña de Francia",
+                  "text": "Die Iglesia de Nuestra Señora de la Peña de Francia ist eine markante katholische Pfarrkirche im Zentrum von Puerto de la Cruz.",
+                  "category": "religious",
+                  "coords": [
+                        -16.54827,
+                        28.416936
+                  ]
+            },
+            {
+                  "name": "Templo Parroquial Nuestra Señora de la Peñita",
+                  "text": "Der Templo Parroquial Nuestra Señora de la Peñita ist eine aktive Kultstätte, die der lokalen Gemeinde in Puerto de la Cruz dient.",
+                  "category": "religious",
+                  "coords": [
+                        -16.553582,
+                        28.416652
+                  ]
+            },
+            {
+                  "name": "Elevador de agua de Gordejuela de Casa Hamilton",
+                  "text": "Der Elevador de agua de Gordejuela ist eine verfallene dampfbetriebene Wasserpumpstation an der Küste, die ursprünglich von der Casa Hamilton erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.58588,
+                        28.398899
+                  ]
+            },
+            {
+                  "name": "Faro del Puerto de la Cruz",
+                  "text": "Der Faro del Puerto de la Cruz ist ein moderner Küstenleuchtturm, der den Schiffsverkehr nahe der Hafenstadt leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.554002,
+                        28.418613
+                  ]
+            },
+            {
+                  "name": "Castillo de San Felipe",
+                  "text": "Das Castillo de San Felipe ist eine 1641 erbaute Küstenfestung, die heute als Kulturerbe der Stufe 3 in Puerto de la Cruz ausgewiesen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.558512,
+                        28.41439
+                  ]
+            },
+            {
+                  "name": "Jardín Sitio Litre",
+                  "text": "Der Orchideengarten Sitio Litre ist eine historische botanische Attraktion aus dem Jahr 1774 mit einer riesigen Orchideensammlung.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.54463,
+                        28.413704
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Dieser Botanische Garten, bekannt als Jardín de Aclimatación de la Orotava, kultiviert eine vielfältige Sammlung tropischer und subtropischer Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        -16.5353,
+                        28.410841
+                  ]
+            },
+            {
+                  "name": "Paisaje Protegido de la Resbala",
+                  "text": "Paisaje Protegido de la Resbala ist ein gesetzlich geschütztes Naturschutzgebiet, das die endemische Flora und das zerklüftete Gelände der Insel erhält.",
+                  "category": "natural",
+                  "coords": [
+                        -16.488065,
+                        28.384849
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Integral de Pinoleris",
+                  "text": "Die Reserva Natural Integral de Pinoleris ist ein strenges Naturschutzgebiet, das empfindliche Ökosysteme in steilen Schluchten und einheimische Vegetation schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.489618,
+                        28.386349
+                  ]
+            },
+            {
+                  "name": "Casona y Jardines de San Fernando",
+                  "text": "Casona y Jardines de San Fernando umgibt ein historisches Herrenhaus mit üppigen, angelegten Ziergärten.",
+                  "category": "park",
+                  "coords": [
+                        -16.54452,
+                        28.408704
+                  ]
+            },
+            {
+                  "name": "Casa de La Portuguesa",
+                  "text": "Die Casa de La Portuguesa ist ein bemerkenswertes historisches Anwesen, das durch gepflegte botanische Gartenanlagen ergänzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -16.49938,
+                        28.421197
+                  ]
+            },
+            {
+                  "name": "Jardines del marquesado de la Quinta Roja",
+                  "text": "Die Jardines del marquesado de la Quinta Roja sind ein eleganter, terrassenförmig angelegter öffentlicher Park, der um ein markantes Freimaurer-Mausoleum herum gestaltet wurde.",
+                  "category": "park",
+                  "coords": [
+                        -16.52296,
+                        28.389442
+                  ]
+            },
+            {
+                  "name": "Loro Parque",
+                  "text": "Der Loro Parque ist ein bedeutender zoologischer Park auf Teneriffa, der ursprünglich für seine umfangreiche Papageiensammlung und moderne Wildtierausstellungen bekannt war.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.564533,
+                        28.408483
+                  ]
+            },
+            {
+                  "name": "Lago Martiánez",
+                  "text": "Lago Martianez ist ein großer Wasserpark im Freien mit einem Komplex aus Meerwasserpools, der vom Künstler César Manrique entworfen wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.543494,
+                        28.419696
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Die Iglesia Nuestra Señora del Carmen ist eine monumentale Pfarrkirche, die den katholischen Gläubigen in der Gemeinde dient.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585991,
+                        28.387947
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de La Victoria de Acentejo",
+                  "text": "Das Ayuntamiento de La Victoria de Acentejo ist das zentrale Verwaltungs-Rathausgebäude der örtlichen Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        -16.469625,
+                        28.434293
+                  ]
+            },
+            {
+                  "name": "Batería de Santa Bárbara",
+                  "text": "Die Batería de Santa Bárbara ist eine defensive Küstenartilleriebatterie, die 1741 als Festung errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -16.549617,
+                        28.418359
+                  ]
+            },
+            {
+                  "name": "Casa del Capitán",
+                  "text": "Dieses historische Hausdenkmal stammt aus dem 17. Jahrhundert und spiegelt die traditionelle Architektur der damaligen Zeit wider.",
+                  "category": "historical",
+                  "coords": [
+                        -16.484041,
+                        28.428663
+                  ]
+            },
+            {
+                  "name": "Ladera de Martiánez",
+                  "text": "Diese archäologische Stätte am Hang bewahrt antike Überreste vor der Küstenlandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -16.53995,
+                        28.415892
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento",
+                  "text": "Dieses städtische Gebäude dient als Verwaltungszentrum und Rathaus der örtlichen Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548402,
+                        28.417955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "A Puerto de la Cruz-i Museo Arqueológico ősi tárgyakat és régészeti leleteket őriz a régióból.",
+                  "category": "museum",
+                  "coords": [
+                        -16.552402,
+                        28.416873
+                  ]
+            },
+            {
+                  "name": "Cueva de Bencomo",
+                  "text": "A Cueva de Bencomo egy történelmi barlang és régészeti lelőhely Tenerife szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -16.50617,
+                        28.407284
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Úrsula",
+                  "text": "Az Iglesia de Santa Úrsula egy történelmi plébániatemplom-műemlék Santa Úrsula községben.",
+                  "category": "historical",
+                  "coords": [
+                        -16.491772,
+                        28.425813
+                  ]
+            },
+            {
+                  "name": "Casa de los Balcones",
+                  "text": "A Casa de los Balcones egy történelmi udvarház Tenerifén, amely bonyolult faragású faerkélyeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -16.525782,
+                        28.388336
+                  ]
+            },
+            {
+                  "name": "Hacienda de los Príncipes",
+                  "text": "A Hacienda de los Príncipes egy régi vidéki birtok és műemlékegyüttes, amely Tenerife mezőgazdasági történelmét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -16.589181,
+                        28.383897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Concepción",
+                  "text": "Az Iglesia de Nuestra Señora de la Concepción egy 16. századi vallási műemlék Los Realejosban.",
+                  "category": "historical",
+                  "coords": [
+                        -16.588168,
+                        28.385684
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago Apostol",
+                  "text": "Az Iglesia de Santiago Apostol egy történelmi monumentális plébániatemplom Los Realejosban, amely a 16. század elejére nyúlik vissza.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585255,
+                        28.380841
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento-Palacio Municipal",
+                  "text": "Az Ayuntamiento-Palacio Municipal La Orotava nagyszerű polgári városháza épületeként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -16.524715,
+                        28.389112
+                  ]
+            },
+            {
+                  "name": "All Saints Anglican Church",
+                  "text": "Az All Saints anglikán templom egy jellegzetes brit vallási műemlék Puerto de la Cruzban.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548343,
+                        28.409295
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Az Iglesia San Juan Bautista egy helyi plébánia és istentiszteleti hely La Orotava városában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.523207,
+                        28.386909
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "Az Ermita de San Telmo egy 3-as szintű műemlékvédelem alatt álló tengerparti kápolna Puerto de la Cruzban, melyet a tengerészek védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -16.545526,
+                        28.41756
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Peña de Francia",
+                  "text": "Az Iglesia de Nuestra Señora de la Peña de Francia egy kiemelkedő katolikus plébániatemplom Puerto de la Cruz központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.54827,
+                        28.416936
+                  ]
+            },
+            {
+                  "name": "Templo Parroquial Nuestra Señora de la Peñita",
+                  "text": "A Templo Parroquial Nuestra Señora de la Peñita egy aktív istentiszteleti hely, amely a helyi közösséget szolgálja Puerto de la Cruzban.",
+                  "category": "religious",
+                  "coords": [
+                        -16.553582,
+                        28.416652
+                  ]
+            },
+            {
+                  "name": "Elevador de agua de Gordejuela de Casa Hamilton",
+                  "text": "Az Elevador de agua de Gordejuela egy romos, gőzzel hajtott tengerparti vízszivattyú-állomás, amelyet eredetileg a Casa Hamilton épített.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.58588,
+                        28.398899
+                  ]
+            },
+            {
+                  "name": "Faro del Puerto de la Cruz",
+                  "text": "A Faro del Puerto de la Cruz egy modern tengerparti világítótorony, amely a kikötőváros közelében irányítja a tengeri forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.554002,
+                        28.418613
+                  ]
+            },
+            {
+                  "name": "Castillo de San Felipe",
+                  "text": "A Castillo de San Felipe egy 1641-ben épült partvédelmi erődítmény, amely ma 3-as szintű örökségi helyszín Puerto de la Cruzban.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.558512,
+                        28.41439
+                  ]
+            },
+            {
+                  "name": "Jardín Sitio Litre",
+                  "text": "A Sitio Litre orchideakertje egy 1774-ben alapított történelmi botanikai látványosság, amely hatalmas orchideagyűjteménnyel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.54463,
+                        28.413704
+                  ]
+            },
+            {
+                  "name": "Jardín de Aclimatación de La Orotava",
+                  "text": "Ez a Jardín de Aclimatación de la Orotava néven ismert botanikus kert trópusi és szubtrópusi növényfajok változatos gyűjteményét gondozza.",
+                  "category": "park",
+                  "coords": [
+                        -16.5353,
+                        28.410841
+                  ]
+            },
+            {
+                  "name": "Paisaje Protegido de la Resbala",
+                  "text": "A Paisaje Protegido de la Resbala egy törvény által védett természetvédelmi terület, amely megőrzi a sziget endemikus flóráját és zord terepét.",
+                  "category": "natural",
+                  "coords": [
+                        -16.488065,
+                        28.384849
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Integral de Pinoleris",
+                  "text": "A Reserva Natural Integral de Pinoleris egy szigorúan védett természetvédelmi terület, amely az érzékeny meredek szurdok-ökoszisztémákat és az őshonos növényzetet védi.",
+                  "category": "natural",
+                  "coords": [
+                        -16.489618,
+                        28.386349
+                  ]
+            },
+            {
+                  "name": "Casona y Jardines de San Fernando",
+                  "text": "A Casona y Jardines de San Fernando egy történelmi kúriát vesz körül buja, parkosított díszkertekkel.",
+                  "category": "park",
+                  "coords": [
+                        -16.54452,
+                        28.408704
+                  ]
+            },
+            {
+                  "name": "Casa de La Portuguesa",
+                  "text": "A Casa de La Portuguesa egy figyelemre méltó történelmi birtokkal és jól karbantartott botanikus kerttel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -16.49938,
+                        28.421197
+                  ]
+            },
+            {
+                  "name": "Jardines del marquesado de la Quinta Roja",
+                  "text": "A Jardines del marquesado de la Quinta Roja egy elegáns, teraszos nyilvános park, amelyet egy kiemelkedő szabadkőműves mauzóleum köré terveztek.",
+                  "category": "park",
+                  "coords": [
+                        -16.52296,
+                        28.389442
+                  ]
+            },
+            {
+                  "name": "Loro Parque",
+                  "text": "A Loro Parque egy jelentős állatkert Tenerifén, amely eredetileg kiterjedt papagájgyűjteményéről és modern vadvilági kiállításairól volt ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.564533,
+                        28.408483
+                  ]
+            },
+            {
+                  "name": "Lago Martiánez",
+                  "text": "A Lago Martianez egy nagy szabadtéri vízipark, amely a César Manrique művész által tervezett tengervizes medencék komplexumát tartalmazza.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.543494,
+                        28.419696
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Az Iglesia Nuestra Señora del Carmen egy monumentális plébániatemplom, amely a katolikus híveket szolgálja a közösségben.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585991,
+                        28.387947
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de La Victoria de Acentejo",
+                  "text": "Az Ayuntamiento de La Victoria de Acentejo a helyi önkormányzatot irányító központi közigazgatási városháza épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -16.469625,
+                        28.434293
+                  ]
+            },
+            {
+                  "name": "Batería de Santa Bárbara",
+                  "text": "A Batería de Santa Bárbara egy védelmi tengerparti tüzérségi üteg, amelyet 1741-ben építettek erődítményként.",
+                  "category": "castle",
+                  "coords": [
+                        -16.549617,
+                        28.418359
+                  ]
+            },
+            {
+                  "name": "Casa del Capitán",
+                  "text": "Ez a 17. századból származó történelmi ház-emlékmű a korszak hagyományos építészetét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -16.484041,
+                        28.428663
+                  ]
+            },
+            {
+                  "name": "Ladera de Martiánez",
+                  "text": "Ez a hegyoldali régészeti lelőhely ősi maradványokat őriz a tengerparti táj hátterében.",
+                  "category": "historical",
+                  "coords": [
+                        -16.53995,
+                        28.415892
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento",
+                  "text": "Ez a polgári épület szolgál a helyi önkormányzat közigazgatási központjaként és városházaként.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548402,
+                        28.417955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Museo Arqueológico din Puerto de la Cruz păstrează artefacte antice și descoperiri arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -16.552402,
+                        28.416873
+                  ]
+            },
+            {
+                  "name": "Cueva de Bencomo",
+                  "text": "Cueva de Bencomo este o peșteră istorică și un sit arheologic de pe insula Tenerife.",
+                  "category": "historical",
+                  "coords": [
+                        -16.50617,
+                        28.407284
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Úrsula",
+                  "text": "Iglesia de Santa Úrsula este un monument istoric parohial situat în municipalitatea Santa Úrsula.",
+                  "category": "historical",
+                  "coords": [
+                        -16.491772,
+                        28.425813
+                  ]
+            },
+            {
+                  "name": "Casa de los Balcones",
+                  "text": "Casa de los Balcones este un conac istoric renumit pentru balcoanele sale din lemn sculptat complex din Tenerife.",
+                  "category": "historical",
+                  "coords": [
+                        -16.525782,
+                        28.388336
+                  ]
+            },
+            {
+                  "name": "Hacienda de los Príncipes",
+                  "text": "Hacienda de los Príncipes este o veche proprietate rurală și un complex monumental care reflectă istoria agricolă a insulei Tenerife.",
+                  "category": "historical",
+                  "coords": [
+                        -16.589181,
+                        28.383897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Concepción",
+                  "text": "Iglesia de Nuestra Señora de la Concepción este un monument religios din secolul al XVI-lea situat în Los Realejos.",
+                  "category": "historical",
+                  "coords": [
+                        -16.588168,
+                        28.385684
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago Apostol",
+                  "text": "Iglesia de Santiago Apostol este o biserică parohială monumentală istorică din Los Realejos, datând de la începutul secolului al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585255,
+                        28.380841
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento-Palacio Municipal",
+                  "text": "Ayuntamiento-Palacio Municipal servește drept clădirea civică grandioasă a primăriei din La Orotava.",
+                  "category": "historical",
+                  "coords": [
+                        -16.524715,
+                        28.389112
+                  ]
+            },
+            {
+                  "name": "All Saints Anglican Church",
+                  "text": "Biserica anglicană All Saints este un monument religios britanic distinctiv situat în Puerto de la Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548343,
+                        28.409295
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Iglesia San Juan Bautista este o parohie locală și lăcaș de cult situat în orașul La Orotava.",
+                  "category": "religious",
+                  "coords": [
+                        -16.523207,
+                        28.386909
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "Ermita de San Telmo este o capelă de coastă de patrimoniu nivel 3 din Puerto de la Cruz, dedicată sfântului patron al marinarilor.",
+                  "category": "religious",
+                  "coords": [
+                        -16.545526,
+                        28.41756
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Peña de Francia",
+                  "text": "Iglesia de Nuestra Señora de la Peña de Francia este o biserică parohială catolică proeminentă din centrul orașului Puerto de la Cruz.",
+                  "category": "religious",
+                  "coords": [
+                        -16.54827,
+                        28.416936
+                  ]
+            },
+            {
+                  "name": "Templo Parroquial Nuestra Señora de la Peñita",
+                  "text": "Templo Parroquial Nuestra Señora de la Peñita este un lăcaș de cult activ care deservește comunitatea locală din Puerto de la Cruz.",
+                  "category": "religious",
+                  "coords": [
+                        -16.553582,
+                        28.416652
+                  ]
+            },
+            {
+                  "name": "Elevador de agua de Gordejuela de Casa Hamilton",
+                  "text": "Elevador de agua de Gordejuela este o stație de pompare a apei pe bază de abur, situată pe coastă și construită inițial de Casa Hamilton, acum în ruine.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.58588,
+                        28.398899
+                  ]
+            },
+            {
+                  "name": "Faro del Puerto de la Cruz",
+                  "text": "Faro del Puerto de la Cruz este un far modern de coastă care ghidează traficul maritim în apropierea orașului portuar.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.554002,
+                        28.418613
+                  ]
+            },
+            {
+                  "name": "Castillo de San Felipe",
+                  "text": "Castillo de San Felipe este o fortificație defensivă de coastă construită în 1641, desemnată acum ca sit de patrimoniu de nivel 3 în Puerto de la Cruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.558512,
+                        28.41439
+                  ]
+            },
+            {
+                  "name": "Jardín Sitio Litre",
+                  "text": "Grădina de orhidee Sitio Litre este o atracție botanică istorică înființată în 1774, având o vastă colecție de orhidee.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.54463,
+                        28.413704
+                  ]
+            },
+            {
+                  "name": "Jardín de Aclimatación de La Orotava",
+                  "text": "Această grădină botanică, cunoscută sub numele de Jardín de Aclimatación de la Orotava, cultivă o colecție diversă de specii de plante tropicale și subtropicale.",
+                  "category": "park",
+                  "coords": [
+                        -16.5353,
+                        28.410841
+                  ]
+            },
+            {
+                  "name": "Paisaje Protegido de la Resbala",
+                  "text": "Paisaje Protegido de la Resbala este o rezervație naturală protejată legal, care menține flora endemică și terenul accidentat al insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -16.488065,
+                        28.384849
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Integral de Pinoleris",
+                  "text": "Reserva Natural Integral de Pinoleris este o rezervație naturală strictă care protejează ecosistemele sensibile ale râpelor abrupte și vegetația nativă.",
+                  "category": "natural",
+                  "coords": [
+                        -16.489618,
+                        28.386349
+                  ]
+            },
+            {
+                  "name": "Casona y Jardines de San Fernando",
+                  "text": "Casona y Jardines de San Fernando înconjoară un conac istoric cu grădini ornamentale amenajate luxuriant.",
+                  "category": "park",
+                  "coords": [
+                        -16.54452,
+                        28.408704
+                  ]
+            },
+            {
+                  "name": "Casa de La Portuguesa",
+                  "text": "Casa de La Portuguesa prezintă un domeniu istoric notabil, completat de spații de grădină botanică bine întreținute.",
+                  "category": "park",
+                  "coords": [
+                        -16.49938,
+                        28.421197
+                  ]
+            },
+            {
+                  "name": "Jardines del marquesado de la Quinta Roja",
+                  "text": "Jardines del marquesado de la Quinta Roja este un parc public elegant, terasat, proiectat în jurul unui proeminent mausoleu masonic.",
+                  "category": "park",
+                  "coords": [
+                        -16.52296,
+                        28.389442
+                  ]
+            },
+            {
+                  "name": "Loro Parque",
+                  "text": "Loro Parque este un important parc zoologic din Tenerife, renumit inițial pentru colecția sa extinsă de papagali și expozițiile moderne de animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.564533,
+                        28.408483
+                  ]
+            },
+            {
+                  "name": "Lago Martiánez",
+                  "text": "Lago Martianez este un mare parc acvatic în aer liber care oferă un complex de piscine cu apă de mare, proiectat de artistul César Manrique.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.543494,
+                        28.419696
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Iglesia Nuestra Señora del Carmen este o biserică parohială monumentală care deservește credincioșii catolici din comunitate.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585991,
+                        28.387947
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de La Victoria de Acentejo",
+                  "text": "Ayuntamiento de La Victoria de Acentejo este clădirea administrativă centrală a primăriei care guvernează municipalitatea locală.",
+                  "category": "historical",
+                  "coords": [
+                        -16.469625,
+                        28.434293
+                  ]
+            },
+            {
+                  "name": "Batería de Santa Bárbara",
+                  "text": "Batería de Santa Bárbara este o baterie de artilerie de coastă defensivă construită ca fortificație în 1741.",
+                  "category": "castle",
+                  "coords": [
+                        -16.549617,
+                        28.418359
+                  ]
+            },
+            {
+                  "name": "Casa del Capitán",
+                  "text": "Datând din secolul al XVII-lea, această casă istorică reflectă arhitectura tradițională a epocii.",
+                  "category": "historical",
+                  "coords": [
+                        -16.484041,
+                        28.428663
+                  ]
+            },
+            {
+                  "name": "Ladera de Martiánez",
+                  "text": "Acest sit arheologic de pe coastă păstrează vestigii străvechi integrate în peisajul litoral.",
+                  "category": "historical",
+                  "coords": [
+                        -16.53995,
+                        28.415892
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento",
+                  "text": "Această clădire civică servește drept centru administrativ și primărie pentru municipalitatea locală.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548402,
+                        28.417955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "The Museo Arqueológico in Puerto de la Cruz preserves ancient artifacts and archaeological findings from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -16.552402,
+                        28.416873
+                  ]
+            },
+            {
+                  "name": "Cueva de Bencomo",
+                  "text": "Cueva de Bencomo is a historic cave and archaeological site on the island of Tenerife.",
+                  "category": "historical",
+                  "coords": [
+                        -16.50617,
+                        28.407284
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Úrsula",
+                  "text": "Iglesia de Santa Úrsula is a historic parish church monument located in the municipality of Santa Úrsula.",
+                  "category": "historical",
+                  "coords": [
+                        -16.491772,
+                        28.425813
+                  ]
+            },
+            {
+                  "name": "Casa de los Balcones",
+                  "text": "Casa de los Balcones is a historic manor known for its intricately carved wooden balconies in Tenerife.",
+                  "category": "historical",
+                  "coords": [
+                        -16.525782,
+                        28.388336
+                  ]
+            },
+            {
+                  "name": "Hacienda de los Príncipes",
+                  "text": "Hacienda de los Príncipes is an old rural estate and monumental complex reflecting Tenerife's agricultural history.",
+                  "category": "historical",
+                  "coords": [
+                        -16.589181,
+                        28.383897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Concepción",
+                  "text": "Iglesia de Nuestra Señora de la Concepción is a 16th-century religious monument situated in Los Realejos.",
+                  "category": "historical",
+                  "coords": [
+                        -16.588168,
+                        28.385684
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago Apostol",
+                  "text": "Iglesia de Santiago Apostol is a historic monumental parish church in Los Realejos dating back to the early 16th century.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585255,
+                        28.380841
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento-Palacio Municipal",
+                  "text": "The Ayuntamiento-Palacio Municipal serves as the grand civic town hall building for La Orotava.",
+                  "category": "historical",
+                  "coords": [
+                        -16.524715,
+                        28.389112
+                  ]
+            },
+            {
+                  "name": "All Saints Anglican Church",
+                  "text": "All Saints Anglican Church is a distinctive British religious monument located in Puerto de la Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548343,
+                        28.409295
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Iglesia San Juan Bautista is a local parish and place of worship situated in the town of La Orotava.",
+                  "category": "religious",
+                  "coords": [
+                        -16.523207,
+                        28.386909
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "Ermita de San Telmo is a level 3 heritage-listed coastal chapel in Puerto de la Cruz dedicated to the patron saint of sailors.",
+                  "category": "religious",
+                  "coords": [
+                        -16.545526,
+                        28.41756
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Peña de Francia",
+                  "text": "Iglesia de Nuestra Señora de la Peña de Francia is a prominent Catholic parish church in the center of Puerto de la Cruz.",
+                  "category": "religious",
+                  "coords": [
+                        -16.54827,
+                        28.416936
+                  ]
+            },
+            {
+                  "name": "Templo Parroquial Nuestra Señora de la Peñita",
+                  "text": "Templo Parroquial Nuestra Señora de la Peñita is an active place of worship serving the local community in Puerto de la Cruz.",
+                  "category": "religious",
+                  "coords": [
+                        -16.553582,
+                        28.416652
+                  ]
+            },
+            {
+                  "name": "Elevador de agua de Gordejuela de Casa Hamilton",
+                  "text": "The Elevador de agua de Gordejuela is a ruined coastal steam-powered water pumping station originally built by Casa Hamilton.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.58588,
+                        28.398899
+                  ]
+            },
+            {
+                  "name": "Faro del Puerto de la Cruz",
+                  "text": "Faro del Puerto de la Cruz is a modern coastal lighthouse guiding maritime traffic near the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.554002,
+                        28.418613
+                  ]
+            },
+            {
+                  "name": "Castillo de San Felipe",
+                  "text": "Castillo de San Felipe is a defensive coastal fortification built in 1641, now designated as a level 3 heritage site in Puerto de la Cruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.558512,
+                        28.41439
+                  ]
+            },
+            {
+                  "name": "Orchid garden",
+                  "text": "The Orchid garden at Sitio Litre is a historic botanical attraction established in 1774, featuring a vast collection of orchids.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.54463,
+                        28.413704
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "This Botanical Garden, known as Jardín de Aclimatación de la Orotava, cultivates a diverse collection of tropical and subtropical plant species.",
+                  "category": "park",
+                  "coords": [
+                        -16.5353,
+                        28.410841
+                  ]
+            },
+            {
+                  "name": "Paisaje Protegido de la Resbala",
+                  "text": "Paisaje Protegido de la Resbala is a legally protected natural reserve maintaining the endemic flora and rugged terrain of the island.",
+                  "category": "natural",
+                  "coords": [
+                        -16.488065,
+                        28.384849
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Integral de Pinoleris",
+                  "text": "Reserva Natural Integral de Pinoleris is a strict nature reserve protecting sensitive steep ravine ecosystems and native vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -16.489618,
+                        28.386349
+                  ]
+            },
+            {
+                  "name": "Casona y Jardines de San Fernando",
+                  "text": "Casona y Jardines de San Fernando surrounds a historic mansion with lush, landscaped ornamental gardens.",
+                  "category": "park",
+                  "coords": [
+                        -16.54452,
+                        28.408704
+                  ]
+            },
+            {
+                  "name": "Casa de La Portuguesa",
+                  "text": "Casa de La Portuguesa features a notable historic estate complemented by well-maintained botanical garden spaces.",
+                  "category": "park",
+                  "coords": [
+                        -16.49938,
+                        28.421197
+                  ]
+            },
+            {
+                  "name": "Jardines del marquesado de la Quinta Roja",
+                  "text": "Jardines del marquesado de la Quinta Roja is an elegant, terraced public park designed around a prominent Masonic mausoleum.",
+                  "category": "park",
+                  "coords": [
+                        -16.52296,
+                        28.389442
+                  ]
+            },
+            {
+                  "name": "Loro Parque",
+                  "text": "Loro Parque is a major zoological park in Tenerife originally renowned for its extensive parrot collection and modern wildlife exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.564533,
+                        28.408483
+                  ]
+            },
+            {
+                  "name": "Lago Martianez",
+                  "text": "Lago Martianez is a large outdoor water park featuring a complex of seawater pools designed by artist César Manrique.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.543494,
+                        28.419696
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Iglesia Nuestra Señora del Carmen is a monumental parish church structure serving Catholic worshipers in the community.",
+                  "category": "historical",
+                  "coords": [
+                        -16.585991,
+                        28.387947
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de La Victoria de Acentejo",
+                  "text": "The Ayuntamiento de La Victoria de Acentejo is the central administrative town hall building governing the local municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -16.469625,
+                        28.434293
+                  ]
+            },
+            {
+                  "name": "Batería de Santa Bárbara",
+                  "text": "Batería de Santa Bárbara is a defensive coastal artillery battery constructed as a fortification in 1741.",
+                  "category": "castle",
+                  "coords": [
+                        -16.549617,
+                        28.418359
+                  ]
+            },
+            {
+                  "name": "Casa del Capitán",
+                  "text": "Dating back to the 17th century, this historic house monument reflects the traditional architecture of the era.",
+                  "category": "historical",
+                  "coords": [
+                        -16.484041,
+                        28.428663
+                  ]
+            },
+            {
+                  "name": "Ladera de Martiánez",
+                  "text": "This hillside archaeological site preserves ancient remains set against the coastal landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -16.53995,
+                        28.415892
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento",
+                  "text": "This civic building serves as the administrative center and town hall for the local municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -16.548402,
+                        28.417955
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "wildlife",
     name: { de: "Loro Parque", hu: "Loro Parque", ro: "Loro Parque", en: "Loro Parque"},

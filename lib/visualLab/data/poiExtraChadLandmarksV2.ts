@@ -52,7 +52,124 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Située au cœur de la ville.", "Plus important lieu de prière du pays.", "Architecture impressionnante.", "Centre de la vie islamique."],
     }, image: "/poi-images/grand-mosque-ndjamena-landmarks-v2.webp"},
   {
-    id: "cathedrale-nd-ndjamena-landmarks-v2",
+    id: "cathedrale-nd-ndjamena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la Nation",
+                  "text": "Die Place de la Nation in N'Djamena ist ein großer öffentlicher Platz, der für große nationale Feierlichkeiten und Militärparaden genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        15.039012,
+                        12.112059
+                  ]
+            },
+            {
+                  "name": "drale Notre-Dame de la Paix (",
+                  "text": "Die katholische Kathedrale von N'Djamena verfügt über ein markantes zeltartiges Dach und wurde wiederaufgebaut, nachdem sie während des Bürgerkriegs schwer beschädigt worden war.",
+                  "category": "religious",
+                  "coords": [
+                        15.037301,
+                        12.111463
+                  ]
+            },
+            {
+                  "name": "ADIL",
+                  "text": "Dieses Kultur- und Kunstzentrum in der Nähe der Kathedrale fördert den lokalen künstlerischen Ausdruck und bietet Gemeinschaftsworkshops in der Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.039092,
+                        12.109973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la Nation",
+                  "text": "A N'Djamena-i Place de la Nation egy hatalmas közösségi tér, amelyet jelentős nemzeti ünnepek és katonai felvonulások során használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.039012,
+                        12.112059
+                  ]
+            },
+            {
+                  "name": "drale Notre-Dame de la Paix (",
+                  "text": "N'Djamena katolikus katedrálisa jellegzetes sátorszerű tetővel rendelkezik, és a polgárháború során elszenvedett súlyos károk után újjáépítették.",
+                  "category": "religious",
+                  "coords": [
+                        15.037301,
+                        12.111463
+                  ]
+            },
+            {
+                  "name": "ADIL",
+                  "text": "Ez a katedrális közelében található kulturális művészeti központ a helyi művészi kifejezést és a közösségi műhelyeket támogatja a fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        15.039092,
+                        12.109973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la Nation",
+                  "text": "Place de la Nation din N'Djamena este o piață publică mare, folosită pentru sărbători naționale majore și parade militare.",
+                  "category": "landmark",
+                  "coords": [
+                        15.039012,
+                        12.112059
+                  ]
+            },
+            {
+                  "name": "drale Notre-Dame de la Paix (",
+                  "text": "Catedrala catolică din N'Djamena are un acoperiș distinctiv în formă de cort și a fost reconstruită după ce a suferit daune grave în timpul războiului civil.",
+                  "category": "religious",
+                  "coords": [
+                        15.037301,
+                        12.111463
+                  ]
+            },
+            {
+                  "name": "ADIL",
+                  "text": "Acest centru de arte culturale din apropierea catedralei promovează expresia artistică locală și atelierele comunitare în capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        15.039092,
+                        12.109973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la Nation",
+                  "text": "N'Djamena's Place de la Nation is a grand public square used for major national celebrations and military parades.",
+                  "category": "landmark",
+                  "coords": [
+                        15.039012,
+                        12.112059
+                  ]
+            },
+            {
+                  "name": "drale Notre-Dame de la Paix (",
+                  "text": "N'Djamena's Catholic cathedral features a distinctive tent-like roof and was rebuilt after suffering severe damage during the civil war.",
+                  "category": "religious",
+                  "coords": [
+                        15.037301,
+                        12.111463
+                  ]
+            },
+            {
+                  "name": "ADIL",
+                  "text": "This cultural arts centre near the cathedral fosters local artistic expression and community workshops in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        15.039092,
+                        12.109973
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0392, 12.1114],
@@ -150,7 +267,160 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Grand arc de triomphe.", "Lieu de rassemblement central.", "Illuminé la nuit.", "Symbole de l'indépendance."],
     }, image: "/poi-images/monument-union-ndjamena-landmarks-v2.webp"},
   {
-    id: "palais-15-janvier-ndjamena-landmarks-v2",
+    id: "palais-15-janvier-ndjamena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point 100fil",
+                  "text": "Dieses Kreisverkehr-Denkmal in N'Djamena erinnert inmitten des städtischen Verkehrs an lokale historische Ereignisse.",
+                  "category": "historical",
+                  "coords": [
+                        15.068637,
+                        12.113626
+                  ]
+            },
+            {
+                  "name": "Rond-point Bihr tourné",
+                  "text": "Dieses markante Kreisverkehr-Bauwerk in N'Djamena dient als zentraler Orientierungspunkt für Autofahrer.",
+                  "category": "historical",
+                  "coords": [
+                        15.064724,
+                        12.115626
+                  ]
+            },
+            {
+                  "name": "Centre Don bosco",
+                  "text": "Dieses Kunstzentrum in N'Djamena bietet kreative Räume und pädagogische Workshops für die lokale Jugend.",
+                  "category": "cultural",
+                  "coords": [
+                        15.09318,
+                        12.091964
+                  ]
+            },
+            {
+                  "name": "Maison de quartier chagoua",
+                  "text": "Dieses Gemeindezentrum im Viertel Chagoua von N'Djamena beherbergt kulturelle Aktivitäten und Nachbarschaftstreffen.",
+                  "category": "cultural",
+                  "coords": [
+                        15.098598,
+                        12.094054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point 100fil",
+                  "text": "Ez a N'Djamena-i körforgalmi emlékmű a városi forgalom közepette állít emléket a helyi történelmi eseményeknek.",
+                  "category": "historical",
+                  "coords": [
+                        15.068637,
+                        12.113626
+                  ]
+            },
+            {
+                  "name": "Rond-point Bihr tourné",
+                  "text": "Ez a feltűnő N'Djamena-i körforgalmi építmény központi tájékozódási pontként szolgál az autósok számára.",
+                  "category": "historical",
+                  "coords": [
+                        15.064724,
+                        12.115626
+                  ]
+            },
+            {
+                  "name": "Centre Don bosco",
+                  "text": "Ez a N'Djamena-i művészeti központ kreatív teret és oktatási műhelyeket kínál a helyi fiatalok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.09318,
+                        12.091964
+                  ]
+            },
+            {
+                  "name": "Maison de quartier chagoua",
+                  "text": "Ez a N'Djamena Chagoua negyedében található közösségi ház kulturális tevékenységeknek és szomszédsági találkozóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.098598,
+                        12.094054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point 100fil",
+                  "text": "Acest monument din sensul giratoriu din N'Djamena comemorează evenimente istorice locale în mijlocul traficului urban.",
+                  "category": "historical",
+                  "coords": [
+                        15.068637,
+                        12.113626
+                  ]
+            },
+            {
+                  "name": "Rond-point Bihr tourné",
+                  "text": "Această structură proeminentă cu sens giratoriu din N'Djamena servește drept punct de reper central pentru șoferi.",
+                  "category": "historical",
+                  "coords": [
+                        15.064724,
+                        12.115626
+                  ]
+            },
+            {
+                  "name": "Centre Don bosco",
+                  "text": "Acest centru de arte din N'Djamena oferă un spațiu creativ și ateliere educaționale pentru tineretul local.",
+                  "category": "cultural",
+                  "coords": [
+                        15.09318,
+                        12.091964
+                  ]
+            },
+            {
+                  "name": "Maison de quartier chagoua",
+                  "text": "Situat în cartierul Chagoua din N'Djamena, acest centru comunitar găzduiește activități culturale și întâlniri de cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        15.098598,
+                        12.094054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point 100fil",
+                  "text": "This roundabout monument in N'Djamena commemorates local historical events amidst the bustling city traffic.",
+                  "category": "historical",
+                  "coords": [
+                        15.068637,
+                        12.113626
+                  ]
+            },
+            {
+                  "name": "Rond-point Bihr tourné",
+                  "text": "A prominent roundabout structure in N'Djamena, it serves as a central navigational landmark for urban drivers.",
+                  "category": "historical",
+                  "coords": [
+                        15.064724,
+                        12.115626
+                  ]
+            },
+            {
+                  "name": "Centre Don bosco",
+                  "text": "This N'Djamena arts centre provides a creative space and educational workshops for the local youth.",
+                  "category": "cultural",
+                  "coords": [
+                        15.09318,
+                        12.091964
+                  ]
+            },
+            {
+                  "name": "Maison de quartier chagoua",
+                  "text": "Located in the Chagoua district of N'Djamena, this community centre hosts cultural activities and neighborhood gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        15.098598,
+                        12.094054
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0601, 12.1245],
@@ -199,7 +469,88 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Lieu de sommets politiques.", "Centre de conférences moderne.", "Architecture distinctive.", "Grande salle d'événements."],
     }, image: "/poi-images/palais-15-janvier-ndjamena-landmarks-v2.webp"},
   {
-    id: "stade-national-idriss-ouya-landmarks-v2",
+    id: "stade-national-idriss-ouya-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Cavalier",
+                  "text": "Le Cavalier ist ein beeindruckendes Reiterdenkmal in der Nähe des Stade National Idriss Mahamat Ouya, das das tschadische Erbe feiert.",
+                  "category": "historical",
+                  "coords": [
+                        15.032653,
+                        12.116242
+                  ]
+            },
+            {
+                  "name": "Rond-Point du Globe",
+                  "text": "Dieser Kreisverkehr verfügt über ein großes Globus-Denkmal, das die globale Konnektivität in der Nähe des Nationalstadions von N'Djamena symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        15.030161,
+                        12.119874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Cavalier",
+                  "text": "A Le Cavalier egy lenyűgöző lovas emlékmű a Stade National Idriss Mahamat Ouya közelében, amely a csádi örökséget ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        15.032653,
+                        12.116242
+                  ]
+            },
+            {
+                  "name": "Rond-Point du Globe",
+                  "text": "Ez a körforgalom egy nagy földgömb emlékművel rendelkezik, amely a globális összekapcsoltságot szimbolizálja N'Djamena nemzeti stadionja közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.030161,
+                        12.119874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Cavalier",
+                  "text": "Le Cavalier este un monument ecvestru impresionant din apropierea Stade National Idriss Mahamat Ouya, care celebrează moștenirea ciadiană.",
+                  "category": "historical",
+                  "coords": [
+                        15.032653,
+                        12.116242
+                  ]
+            },
+            {
+                  "name": "Rond-Point du Globe",
+                  "text": "Acest sens giratoriu prezintă un monument mare sub formă de glob, simbolizând conectivitatea globală lângă stadionul național din N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.030161,
+                        12.119874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Cavalier",
+                  "text": "The Cavalier is a striking equestrian monument celebrating Chadian heritage near the Stade National Idriss Mahamat Ouya.",
+                  "category": "historical",
+                  "coords": [
+                        15.032653,
+                        12.116242
+                  ]
+            },
+            {
+                  "name": "Globe Roundabout",
+                  "text": "This roundabout features a large globe monument, symbolizing global connectivity near N'Djamena's national stadium.",
+                  "category": "historical",
+                  "coords": [
+                        15.030161,
+                        12.119874
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0355, 12.1122],
@@ -346,7 +697,52 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Route commerciale stratégique.", "Symbole de coopération transfrontalière.", "Point de passage frontalier important.", "Facilite le transport des personnes."],
     }, image: "/poi-images/pont-amitie-bongor-landmarks-v2.webp"},
   {
-    id: "beac-building-ndjamena-landmarks-v2",
+    id: "beac-building-ndjamena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond point Bololo",
+                  "text": "Der Bololo-Kreisverkehr in der Nähe des BEAC-Gebäudes fungiert als wichtiger architektonischer Knotenpunkt im Finanzviertel von N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.043926,
+                        12.114651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond point Bololo",
+                  "text": "A BEAC épület közelében elhelyezkedő Bololo körforgalom kulcsfontosságú építészeti csomópontként működik N'Djamena pénzügyi negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        15.043926,
+                        12.114651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond point Bololo",
+                  "text": "Poziționat lângă clădirea BEAC, sensul giratoriu Bololo acționează ca un nod arhitectural cheie în districtul financiar din N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.043926,
+                        12.114651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond point Bololo",
+                  "text": "Positioned near the BEAC building, the Bololo roundabout acts as a key architectural node in N'Djamena's financial district.",
+                  "category": "historical",
+                  "coords": [
+                        15.043926,
+                        12.114651
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0435, 12.1152],
@@ -395,7 +791,52 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["L'un des bâtiments les plus hauts de la ville.", "Centre financier du pays.", "Architecture moderne.", "Zone hautement sécurisée."],
     }, image: "/poi-images/beac-building-ndjamena-landmarks-v2.webp"},
   {
-    id: "grand-marche-ndjamena-landmarks-v2",
+    id: "grand-marche-ndjamena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond point STT",
+                  "text": "Dieses Kreisverkehr-Denkmal befindet sich in der Nähe des Grand Marché und ist von der pulsierenden Energie des größten Marktes von N'Djamena umgeben.",
+                  "category": "historical",
+                  "coords": [
+                        15.044731,
+                        12.109699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond point STT",
+                  "text": "A Grand Marché közelében található körforgalmi emlékművet a N'Djamena legnagyobb piacának vibráló energiája veszi körül.",
+                  "category": "historical",
+                  "coords": [
+                        15.044731,
+                        12.109699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond point STT",
+                  "text": "Situat lângă Grand Marché, acest monument cu sens giratoriu este înconjurat de energia vibrantă a celei mai mari piețe din N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.044731,
+                        12.109699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond point STT",
+                  "text": "Located near the Grand Marché, this roundabout monument is surrounded by the vibrant energy of N'Djamena's largest market.",
+                  "category": "historical",
+                  "coords": [
+                        15.044731,
+                        12.109699
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0455, 12.1112],
@@ -493,7 +934,88 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Architecture traditionnelle.", "Centre de l'Empire du Ouaddaï.", "Historiquement important.", "Siège de l'autorité locale."],
     }, image: "/poi-images/palais-sultan-abeche-landmarks-v2.webp"},
   {
-    id: "mosquee-abeche-landmarks-v2",
+    id: "mosquee-abeche-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "Dieses Denkmal am französisch-arabischen Kreisverkehr ist ein markanter Orientierungspunkt in mosquee-abeche-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "Das Befreiungsdenkmal erinnert an wichtige historische Ereignisse in mosquee-abeche-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "Ez a francia-arab körforgalomnál lévő emlékmű egy feltűnő tájékozódási pont mosquee-abeche-landmarks-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "A Felszabadulási emlékmű fontos történelmi eseményeknek állít emléket mosquee-abeche-landmarks-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "Acest monument din sensul giratoriu franco-arab este un punct de reper proeminent în mosquee-abeche-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "Monumentul Eliberării comemorează evenimente istorice importante din mosquee-abeche-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "This monument at the Franco-Arab roundabout is a striking landmark in mosquee-abeche-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "The Monument of Liberation commemorates important historical events in mosquee-abeche-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-OD",
     coords: [20.8315, 13.8315],
@@ -542,7 +1064,124 @@ export const poiExtraChadLandmarksV2: POI[] = [
     }
   },
   {
-    id: "palais-gouverneur-faya-landmarks-v2",
+    id: "palais-gouverneur-faya-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "Das städtische Stadion Hussein Habre ist ein lokaler Veranstaltungsort in palais-gouverneur-faya-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point",
+                  "text": "Dieses Kreisverkehr-Denkmal markiert einen Verkehrsknotenpunkt in palais-gouverneur-faya-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "Das Denkmal am Rond point Chifini ist ein markantes Bauwerk in palais-gouverneur-faya-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "A Hussein Habre városi stadion egy helyi rendezvényközpont palais-gouverneur-faya-landmarks-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point",
+                  "text": "Ez a körforgalmi emlékmű egy közlekedési csomópontot jelöl palais-gouverneur-faya-landmarks-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "A Rond point Chifini emlékmű egy feltűnő építmény palais-gouverneur-faya-landmarks-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "Stadionul municipal Hussein Habre este un spațiu de evenimente local din palais-gouverneur-faya-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point",
+                  "text": "Acest monument în sens giratoriu marchează o intersecție în palais-gouverneur-faya-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "Monumentul din Rond point Chifini este o structură marcantă din palais-gouverneur-faya-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "The municipal stadium Hussein Habre is a local event space in palais-gouverneur-faya-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point",
+                  "text": "This roundabout monument marks a traffic intersection in palais-gouverneur-faya-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "The Rond point Chifini monument is a prominent structure in palais-gouverneur-faya-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-BO",
     coords: [19.1215, 17.9255],
@@ -638,7 +1277,52 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Siège du diocèse de Moundou.", "Grande nef.", "Centre de la communauté chrétienne.", "Située dans le sud du pays."],
     }, image: "/poi-images/cathedrale-moundou-landmarks-v2.webp"},
   {
-    id: "cathedrale-sarh-landmarks-v2",
+    id: "cathedrale-sarh-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruine of the house of François Tombalbaye",
+                  "text": "Diese historischen Ruinen bildeten einst die Residenz von François Tombalbaye, dem ersten Präsidenten des Tschad, und bieten einen Einblick in die postkoloniale Geschichte der Nation.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine of the house of François Tombalbaye",
+                  "text": "Ezek a történelmi romok egykor François Tombalbaye, Csád első elnökének rezidenciáját alkották, bepillantást engedve a nemzet posztkoloniális történetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine of the house of François Tombalbaye",
+                  "text": "Aceste ruine istorice au format odinioară reședința lui François Tombalbaye, primul președinte al Ciadului, oferind o privire asupra istoriei post-coloniale a națiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine of the house of François Tombalbaye",
+                  "text": "These historical ruins once formed the residence of François Tombalbaye, the first President of Chad, offering a glimpse into the nation's post-colonial history.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-MC",
     coords: [18.3912, 9.1435],
@@ -782,7 +1466,52 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Noyau historique de la ville.", "Nœud de communication central.", "Entourée de bâtiments administratifs.", "Lieu de symboles nationaux."],
     }, image: "/poi-images/place-independance-ndjamena-landmarks-v2.webp"},
   {
-    id: "hotel-ledger-plaza-landmarks-v2",
+    id: "hotel-ledger-plaza-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "e National",
+                  "text": "Diese nationale Museumseinrichtung in N'Djamena verfügt über kuratierte Galerien, die der Erhaltung der vielfältigen historischen Artefakte und des kulturellen Erbes des Tschad gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        15.077435,
+                        12.12542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "e National",
+                  "text": "Ez a N'Djamena-i nemzeti múzeum kurátori galériákkal rendelkezik, amelyeket Csád változatos történelmi műtárgyainak és kulturális örökségének megőrzésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        15.077435,
+                        12.12542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "e National",
+                  "text": "Această facilitate muzeală națională din N'Djamena dispune de galerii îngrijite dedicate conservării diverselor artefacte istorice și patrimoniului cultural al Ciadului.",
+                  "category": "museum",
+                  "coords": [
+                        15.077435,
+                        12.12542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "e National",
+                  "text": "This national museum facility in N'Djamena features curated galleries dedicated to preserving the diverse historical artifacts and cultural heritage of Chad.",
+                  "category": "museum",
+                  "coords": [
+                        15.077435,
+                        12.12542
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0655, 12.1352],
@@ -878,7 +1607,52 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Fondée en 1971.", "Centre de la science.", "Grand bâtiment principal.", "Lieu d'enseignement majeur."],
     }, image: "/poi-images/universite-ndjamena-landmarks-v2.webp"},
   {
-    id: "onama-building-ndjamena-landmarks-v2",
+    id: "onama-building-ndjamena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond point",
+                  "text": "Ein strukturelles Kreisverkehr-Wahrzeichen in der Nähe des ONAMA-Gebäudes, das den Verkehr durch die Hauptstadt leitet.",
+                  "category": "historical",
+                  "coords": [
+                        15.050247,
+                        12.122207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond point",
+                  "text": "Az ONAMA épület közelében elhelyezkedő strukturális körforgalmi tájékozódási pont, amely a fővároson áthaladó forgalmat irányítja.",
+                  "category": "historical",
+                  "coords": [
+                        15.050247,
+                        12.122207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond point",
+                  "text": "Un punct de reper structural cu sens giratoriu situat lângă clădirea ONAMA, ghidând traficul prin capitală.",
+                  "category": "historical",
+                  "coords": [
+                        15.050247,
+                        12.122207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond point",
+                  "text": "A structural roundabout landmark positioned near the ONAMA building, guiding traffic through the capital.",
+                  "category": "historical",
+                  "coords": [
+                        15.050247,
+                        12.122207
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0525, 12.1185],
@@ -974,7 +1748,52 @@ export const poiExtraChadLandmarksV2: POI[] = [
       fr: ["Lieu de législation.", "Architecture moderne.", "Symbole de la démocratie.", "Édifice représentatif."],
     }, image: "/poi-images/assemblee-nationale-ndjamena-landmarks-v2.webp"},
   {
-    id: "palais-rose-ndjamena-landmarks-v2",
+    id: "palais-rose-ndjamena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "cole primaire Arabe Achabia",
+                  "text": "Die historischen Klassenzimmer dieser arabischen Grundschule, die als Bildungsdenkmal erhalten sind, zeugen von der frühen Schulbildung in N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.062195,
+                        12.128199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cole primaire Arabe Achabia",
+                  "text": "Az oktatási műemlékként megőrzött arab általános iskola történelmi tantermei a korai N'Djamena-i oktatás mementójaként állnak.",
+                  "category": "historical",
+                  "coords": [
+                        15.062195,
+                        12.128199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cole primaire Arabe Achabia",
+                  "text": "Păstrate ca monument educațional, sălile de clasă istorice ale acestei școli primare arabe stau ca o mărturie a educației timpurii din N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.062195,
+                        12.128199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cole primaire Arabe Achabia",
+                  "text": "Preserved as an educational monument, the historic classrooms of this Arabic primary school stand as a testament to early instruction in N'Djamena.",
+                  "category": "historical",
+                  "coords": [
+                        15.062195,
+                        12.128199
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TD-ND",
     coords: [15.0622, 12.1312],

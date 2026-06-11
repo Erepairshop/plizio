@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraLesothoNatureV2: POI[] = [
   {
-    id: "ls-thabana-ntlenyana-nature-v2",
+    id: "ls-thabana-ntlenyana-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thabana Ntlenyana",
+                  "text": "Als höchster Gipfel Lesothos und des südlichen Afrikas dominiert dieser hoch aufragende Berg die umgebende Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        29.269172,
+                        -29.468173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thabana Ntlenyana",
+                  "text": "Lesotho és Dél-Afrika legmagasabb csúcsaként ez a magasba tornyosuló hegy uralja a környező természeti tájat.",
+                  "category": "natural",
+                  "coords": [
+                        29.269172,
+                        -29.468173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thabana Ntlenyana",
+                  "text": "Recunoscut ca cel mai înalt vârf din Lesotho și din Africa de Sud, acest munte impunător domină peisajul natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        29.269172,
+                        -29.468173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thabana Ntlenyana",
+                  "text": "Recognised as the highest peak in Lesotho and Southern Africa, this towering mountain dominates the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.269172,
+                        -29.468173
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LS-J",
     coords: [29.27, -29.47],
@@ -51,7 +96,88 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-maloti-mountains-nature-v2",
+    id: "ls-maloti-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Water Intake Tower",
+                  "text": "Ein massiver Wasserentnahmeturm aus Beton, der den Wasserfluss im weitläufigen Katse-Stausee reguliert.",
+                  "category": "tower",
+                  "coords": [
+                        28.482881,
+                        -29.172504
+                  ]
+            },
+            {
+                  "name": "View point - bridge",
+                  "text": "Ein malerischer Aussichtspunkt, der klare Sichtlinien über die lokale Brücke und das tiefe Wasser des Stausees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.479438,
+                        -29.176186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Water Intake Tower",
+                  "text": "Masszív beton vízkivételi torony, amely a víz áramlását szabályozza a hatalmas Katse-gát víztározójában.",
+                  "category": "tower",
+                  "coords": [
+                        28.482881,
+                        -29.172504
+                  ]
+            },
+            {
+                  "name": "View point - bridge",
+                  "text": "Festői megfigyelőpont, amely tiszta rálátást biztosít a helyi hídra és a víztározó mély vizére.",
+                  "category": "natural",
+                  "coords": [
+                        28.479438,
+                        -29.176186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Water Intake Tower",
+                  "text": "Un turn masiv de admisie din beton care reglează debitul apei în expansivul rezervor Katse Dam.",
+                  "category": "tower",
+                  "coords": [
+                        28.482881,
+                        -29.172504
+                  ]
+            },
+            {
+                  "name": "View point - bridge",
+                  "text": "Un punct de observație pitoresc, care oferă linii de vizibilitate clare peste podul local și apele adânci ale lacului de acumulare.",
+                  "category": "natural",
+                  "coords": [
+                        28.479438,
+                        -29.176186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Water Intake Tower",
+                  "text": "A massive concrete intake tower regulating water flow within the expansive Katse Dam reservoir.",
+                  "category": "tower",
+                  "coords": [
+                        28.482881,
+                        -29.172504
+                  ]
+            },
+            {
+                  "name": "View point - bridge",
+                  "text": "A scenic observation point offering clear sightlines over the local bridge and deep reservoir waters.",
+                  "category": "natural",
+                  "coords": [
+                        28.479438,
+                        -29.176186
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LS-B",
     coords: [28.5, -29.2],
@@ -147,7 +273,88 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-katse-dam-nature-v2",
+    id: "ls-katse-dam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "View point",
+                  "text": "Ein erhöhter Aussichtspunkt mit Panoramablick über die massive Betonbogenstaumauer des Katse Dam.",
+                  "category": "natural",
+                  "coords": [
+                        28.50656,
+                        -29.343817
+                  ]
+            },
+            {
+                  "name": "Katse Botanical Garden",
+                  "text": "Ein hochgelegener botanischer Garten, der zur Erhaltung einheimischer Alpenflora angelegt wurde, die vor dem gefluteten Katse-Stausee gerettet wurde.",
+                  "category": "park",
+                  "coords": [
+                        28.483486,
+                        -29.335995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View point",
+                  "text": "Magaslati megfigyelőhely, amely panorámás kilátást nyújt a Katse-gát hatalmas betonívére.",
+                  "category": "natural",
+                  "coords": [
+                        28.50656,
+                        -29.343817
+                  ]
+            },
+            {
+                  "name": "Katse Botanical Garden",
+                  "text": "Magasan fekvő botanikus kert, amelyet a Katse-víztározó elárasztása elől megmentett őshonos alpesi növényvilág megőrzésére hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        28.483486,
+                        -29.335995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View point",
+                  "text": "O zonă de observație ridicată care oferă vederi panoramice peste masivul arc de beton al barajului Katse.",
+                  "category": "natural",
+                  "coords": [
+                        28.50656,
+                        -29.343817
+                  ]
+            },
+            {
+                  "name": "Katse Botanical Garden",
+                  "text": "O grădină botanică de mare altitudine creată pentru a păstra flora alpină indigenă salvată din rezervorul inundat Katse.",
+                  "category": "park",
+                  "coords": [
+                        28.483486,
+                        -29.335995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View point",
+                  "text": "An elevated observation area offering panoramic vistas over the massive concrete arch of the Katse Dam.",
+                  "category": "natural",
+                  "coords": [
+                        28.50656,
+                        -29.343817
+                  ]
+            },
+            {
+                  "name": "Katse Botanical Garden",
+                  "text": "A high-altitude botanical garden created to preserve indigenous alpine flora rescued from the flooded Katse reservoir.",
+                  "category": "park",
+                  "coords": [
+                        28.483486,
+                        -29.335995
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "LS-K",
     coords: [28.5, -29.3],
@@ -195,7 +402,196 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-maletsunyane-falls-nature-v2",
+    id: "ls-maletsunyane-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maletsunyane Falls",
+                  "text": "Dieser Aussichtspunkt bietet den besten Blick auf den beeindruckenden 192 Meter hohen Maletsunyane-Wasserfall in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.046566,
+                        -29.876671
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View Point",
+                  "text": "Von diesem ausgewiesenen Punkt aus kann man beobachten, wie der Maletsunyane-Fluss fast 200 Meter tief in die Schlucht stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        28.046783,
+                        -29.873476
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View",
+                  "text": "Dieser Aussichtspunkt am Rande der Klippe bietet einen dramatischen Blick auf das herabstürzende Wasser der Maletsunyane-Fälle.",
+                  "category": "natural",
+                  "coords": [
+                        28.04926,
+                        -29.874753
+                  ]
+            },
+            {
+                  "name": "Boala-Thapo Viewpoint",
+                  "text": "Der Boala-Thapo Aussichtspunkt bietet eine einzigartige Perspektive auf die steilen Klippen rund um das Maletsunyane-Flusssystem.",
+                  "category": "natural",
+                  "coords": [
+                        28.076575,
+                        -29.879474
+                  ]
+            },
+            {
+                  "name": "'Maletsunyane Falls Resort",
+                  "text": "Diese Resort-Aussichtsterrasse ermöglicht es den Gästen, die spektakulären Wasserfälle von Lesotho in unmittelbarer Nähe zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        28.050059,
+                        -29.877779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maletsunyane Falls",
+                  "text": "Ebből a kilátóból nyílik a legjobb rálátás a lenyűgöző, 192 méter magas Maletsunyane-vízesésre Lesothóban.",
+                  "category": "natural",
+                  "coords": [
+                        28.046566,
+                        -29.876671
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View Point",
+                  "text": "Ebből a kijelölt pontból megfigyelhető, ahogy a Maletsunyane-folyó közel 200 méter mélyen zuhan a szurdokba.",
+                  "category": "natural",
+                  "coords": [
+                        28.046783,
+                        -29.873476
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View",
+                  "text": "Ez a szikla szélén található kilátó drámai kilátást nyújt a Maletsunyane-vízesés lezúduló vizére.",
+                  "category": "natural",
+                  "coords": [
+                        28.04926,
+                        -29.874753
+                  ]
+            },
+            {
+                  "name": "Boala-Thapo Viewpoint",
+                  "text": "A Boala-Thapo kilátó egyedülálló perspektívát nyújt a Maletsunyane vízrendszerét övező meredek sziklafalakra.",
+                  "category": "natural",
+                  "coords": [
+                        28.076575,
+                        -29.879474
+                  ]
+            },
+            {
+                  "name": "'Maletsunyane Falls Resort",
+                  "text": "Ez a turistaházhoz tartozó kilátóterasz lehetővé teszi a vendégek számára, hogy közvetlen közelről csodálják meg Lesotho látványos vízesését.",
+                  "category": "natural",
+                  "coords": [
+                        28.050059,
+                        -29.877779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maletsunyane Falls",
+                  "text": "Acest punct de belvedere oferă cea mai bună perspectivă asupra cascadei impresionante Maletsunyane de 192 de metri înălțime.",
+                  "category": "natural",
+                  "coords": [
+                        28.046566,
+                        -29.876671
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View Point",
+                  "text": "Din acest punct special amenajat, vizitatorii pot urmări cum râul Maletsunyane se prăbușește aproape 200 de metri în defileu.",
+                  "category": "natural",
+                  "coords": [
+                        28.046783,
+                        -29.873476
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View",
+                  "text": "Acest punct de observație de pe marginea stâncii oferă o priveliște dramatică asupra apei căzătoare a cascadei Maletsunyane.",
+                  "category": "natural",
+                  "coords": [
+                        28.04926,
+                        -29.874753
+                  ]
+            },
+            {
+                  "name": "Boala-Thapo Viewpoint",
+                  "text": "Punctul de belvedere Boala-Thapo oferă o perspectivă unică asupra stâncilor abrupte din jurul sistemului fluvial Maletsunyane.",
+                  "category": "natural",
+                  "coords": [
+                        28.076575,
+                        -29.879474
+                  ]
+            },
+            {
+                  "name": "'Maletsunyane Falls Resort",
+                  "text": "Această terasă a complexului turistic permite oaspeților să admire de aproape cascada spectaculoasă din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.050059,
+                        -29.877779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maletsunyane Falls",
+                  "text": "This vantage point provides the best uninterrupted view of Lesotho's spectacular 192-metre-high Maletsunyane Falls.",
+                  "category": "natural",
+                  "coords": [
+                        28.046566,
+                        -29.876671
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View Point",
+                  "text": "From this designated spot, visitors can watch the Maletsunyane River plunge nearly 200 metres into the deep basalt gorge below.",
+                  "category": "natural",
+                  "coords": [
+                        28.046783,
+                        -29.873476
+                  ]
+            },
+            {
+                  "name": "Maletsunyane Falls View",
+                  "text": "Situated on the edge of the cliff, this viewing area offers a dramatic look at the plunging waters of the Maletsunyane Falls.",
+                  "category": "natural",
+                  "coords": [
+                        28.04926,
+                        -29.874753
+                  ]
+            },
+            {
+                  "name": "Boala-Thapo Viewpoint",
+                  "text": "The Boala-Thapo viewpoint provides a unique perspective of the steep rocky cliffs surrounding the Maletsunyane river system.",
+                  "category": "natural",
+                  "coords": [
+                        28.076575,
+                        -29.879474
+                  ]
+            },
+            {
+                  "name": "'Maletsunyane Falls Resort",
+                  "text": "This resort viewing deck allows guests to directly experience the scenic and thunderous atmosphere of Lesotho's famous falls.",
+                  "category": "natural",
+                  "coords": [
+                        28.050059,
+                        -29.877779
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LS-F",
     coords: [28.05, -29.87],
@@ -291,7 +687,52 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-sehlabathebe-nature-v2",
+    id: "ls-sehlabathebe-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sehlabathebe-Nationalpark",
+                  "text": "Der Sehlabathebe-Nationalpark ist ein anerkanntes Weltkulturerbe, das für seine markanten hochalpinen Gebirgslandschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.111973,
+                        -29.901945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sehlabathebe National Park",
+                  "text": "A Sehlabathebe Nemzeti Park egy elismert világörökségi helyszín, amely lenyűgöző magaslati hegyvidéki tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.111973,
+                        -29.901945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sehlabathebe National Park",
+                  "text": "Parcul Național Sehlabathebe este un sit al Patrimoniului Mondial recunoscut la nivel global, renumit pentru peisajele sale montane izbitoare de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        29.111973,
+                        -29.901945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sehlabathebe National Park",
+                  "text": "Sehlabathebe National Park is a globally recognized World Heritage site renowned for its striking high-altitude mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        29.111973,
+                        -29.901945
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LS-H",
     coords: [29.1, -29.9],
@@ -339,7 +780,124 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-thaba-bosiu-nature-v2",
+    id: "ls-thaba-bosiu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qiloane",
+                  "text": "Ein kegelförmiger Berggipfel in Lesotho, dessen markante Form den traditionellen Basotho-Hut inspirierte.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "Ein Freilufttheater am Fuße des Thaba Bosiu, das für traditionelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "Ein historisches Sandsteinplateau, das einst als Hauptstadt und Festung von König Moshoeshoe I. diente.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qiloane",
+                  "text": "Lesothói kúp alakú hegycsúcs, amelynek jellegzetes formája a hagyományos basotho kalapot ihlette.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "A Thaba Bosiu lábánál található szabadtéri színház, amely hagyományos előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "Történelmi homokkő fennsík, amely egykor I. Moshoeshoe király fővárosaként és erődjéül szolgált.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qiloane",
+                  "text": "Un vârf de munte conic din Lesotho a cărui formă distinctă a inspirat pălăria tradițională Basotho.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "Un amfiteatru în aer liber la baza muntelui Thaba Bosiu, dedicat spectacolelor tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "Un platou istoric de gresie care a servit odinioară drept capitală și fortăreață a regelui Moshoeshoe I.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qiloane",
+                  "text": "A conical mountain peak in Lesotho whose distinct shape inspired the traditional Basotho hat.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "An open-air amphitheater venue at the base of Thaba Bosiu dedicated to traditional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "A historic sandstone plateau that served as the capital and stronghold of King Moshoeshoe I.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LS-A",
     coords: [27.67, -29.35],
@@ -387,7 +945,124 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-tsehlanyane-nature-v2",
+    id: "ls-tsehlanyane-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Three Cascades",
+                  "text": "Dieser malerische Aussichtspunkt blickt auf eine Reihe von drei Wasserfällen innerhalb des gebirgigen Naturschutzgebietes.",
+                  "category": "natural",
+                  "coords": [
+                        28.462679,
+                        -28.914634
+                  ]
+            },
+            {
+                  "name": "National Park Gate",
+                  "text": "Dieses Eingangstor markiert den Ausgangspunkt für die Erkundung der geschützten Wildnis des Tšehlanyane-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        28.42711,
+                        -28.927502
+                  ]
+            },
+            {
+                  "name": "Tšehlanyane National Park",
+                  "text": "Dieser zerklüftete Nationalpark schützt hochgelegene alpine Tundra und einen der wenigen einheimischen Wälder Lesothos.",
+                  "category": "natural",
+                  "coords": [
+                        28.456522,
+                        -28.919888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Three Cascades",
+                  "text": "Ez a festői kilátó három egymásba vízesésre tekint le a hegyvidéki természetvédelmi területen belül.",
+                  "category": "natural",
+                  "coords": [
+                        28.462679,
+                        -28.914634
+                  ]
+            },
+            {
+                  "name": "National Park Gate",
+                  "text": "Ez a bejárati kapu jelzi a Tšehlanyane Nemzeti Park védett vadonjának felfedezésének kezdőpontját.",
+                  "category": "landmark",
+                  "coords": [
+                        28.42711,
+                        -28.927502
+                  ]
+            },
+            {
+                  "name": "Tšehlanyane National Park",
+                  "text": "Ez a zord nemzeti park magasan fekvő alpesi tundrát és Lesotho kevés őshonos erdejének egyikét védi.",
+                  "category": "natural",
+                  "coords": [
+                        28.456522,
+                        -28.919888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Three Cascades",
+                  "text": "Acest punct de belvedere pitoresc are vedere la o serie de trei cascade în cadrul rezervației naturale montane.",
+                  "category": "natural",
+                  "coords": [
+                        28.462679,
+                        -28.914634
+                  ]
+            },
+            {
+                  "name": "National Park Gate",
+                  "text": "Această poartă de intrare marchează punctul de plecare pentru explorarea sălbăticiei protejate din Parcul Național Tšehlanyane.",
+                  "category": "landmark",
+                  "coords": [
+                        28.42711,
+                        -28.927502
+                  ]
+            },
+            {
+                  "name": "Tšehlanyane National Park",
+                  "text": "Acest parc național accidentat protejează tundra alpină de mare altitudine și una dintre puținele păduri indigene din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.456522,
+                        -28.919888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Three Cascades",
+                  "text": "This scenic viewpoint overlooks a series of three cascading waterfalls within the mountainous nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        28.462679,
+                        -28.914634
+                  ]
+            },
+            {
+                  "name": "National Park Gate",
+                  "text": "This entrance gate marks the starting point for exploring the protected wilderness of Tšehlanyane National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        28.42711,
+                        -28.927502
+                  ]
+            },
+            {
+                  "name": "Tšehlanyane National Park",
+                  "text": "This rugged national park protects high-altitude alpine tundra and one of Lesotho's few indigenous forests.",
+                  "category": "natural",
+                  "coords": [
+                        28.456522,
+                        -28.919888
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "LS-B",
     coords: [28.45, -28.9],
@@ -435,7 +1110,52 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-caledon-river-nature-v2",
+    id: "ls-caledon-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bosduifkop",
+                  "text": "Der Bosduifkop erhebt sich als markanter Berggipfel entlang des landschaftlich reizvollen Caledon-Flusstals.",
+                  "category": "natural",
+                  "coords": [
+                        27.277701,
+                        -29.479748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bosduifkop",
+                  "text": "A Bosduifkop egy kiemelkedő hegycsúcs, amely a festői Caledon-folyó völgye mentén emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        27.277701,
+                        -29.479748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bosduifkop",
+                  "text": "Bosduifkop se înalță ca un vârf montan proeminent de-a lungul văii pitorești a râului Caledon.",
+                  "category": "natural",
+                  "coords": [
+                        27.277701,
+                        -29.479748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bosduifkop",
+                  "text": "Bosduifkop rises as a prominent mountain peak along the scenic Caledon River valley.",
+                  "category": "natural",
+                  "coords": [
+                        27.277701,
+                        -29.479748
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LS-D",
     coords: [27.3, -29.5],
@@ -915,7 +1635,88 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-hlotse-river-nature-v2",
+    id: "ls-hlotse-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qoqolosing",
+                  "text": "Ein markanter Berggipfel in Lesotho, der sich durch seine steilen Hänge und den weiten Blick auf das umliegende Hochland auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        28.144294,
+                        -28.875559
+                  ]
+            },
+            {
+                  "name": "Khanyane L.E.C. SA",
+                  "text": "Diese regionale Kultstätte gehört der Lesotho Evangelical Church in Southern Africa an und dient der lokalen spirituellen Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        28.106672,
+                        -28.884752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qoqolosing",
+                  "text": "Egy kiemelkedő hegycsúcs Lesothóban, amelyet meredek lejtők és a környező felföldre nyíló lenyűgöző kilátás jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        28.144294,
+                        -28.875559
+                  ]
+            },
+            {
+                  "name": "Khanyane L.E.C. SA",
+                  "text": "Ez a regionális istentiszteleti hely a Dél-Afrikai Lesothói Evangélikus Egyházhoz tartozik, és a helyi spirituális közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        28.106672,
+                        -28.884752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qoqolosing",
+                  "text": "Un vârf montan proeminent din Lesotho, caracterizat prin pantele sale abrupte și priveliștile ample asupra zonelor înalte înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        28.144294,
+                        -28.875559
+                  ]
+            },
+            {
+                  "name": "Khanyane L.E.C. SA",
+                  "text": "Acest lăcaș de cult regional aparține Bisericii Evanghelice din Lesotho din Africa de Sud și deservește comunitatea spirituală locală.",
+                  "category": "religious",
+                  "coords": [
+                        28.106672,
+                        -28.884752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qoqolosing",
+                  "text": "A prominent mountain peak in Lesotho characterized by its steep slopes and sweeping views of the surrounding highlands.",
+                  "category": "natural",
+                  "coords": [
+                        28.144294,
+                        -28.875559
+                  ]
+            },
+            {
+                  "name": "Khanyane L.E.C. SA",
+                  "text": "This regional place of worship belongs to the Lesotho Evangelical Church in Southern Africa and serves the local spiritual community.",
+                  "category": "religious",
+                  "coords": [
+                        28.106672,
+                        -28.884752
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LS-C",
     coords: [28.1, -28.9],
@@ -1059,7 +1860,52 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
   },
   {
-    id: "ls-mont-aux-sources-nature-v2",
+    id: "ls-mont-aux-sources-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont-aux-Sources",
+                  "text": "Ein bedeutender Basaltgipfel, der als Quelle für mehrere große Flusssysteme dient.",
+                  "category": "natural",
+                  "coords": [
+                        28.8731,
+                        -28.7722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont-aux-Sources",
+                  "text": "Jelentős bazalt hegycsúcs, amely számos nagy folyórendszer forrásaként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        28.8731,
+                        -28.7722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont-aux-Sources",
+                  "text": "Un vârf semnificativ de munte de bazalt, care servește drept sursă pentru mai multe sisteme fluviale majore.",
+                  "category": "natural",
+                  "coords": [
+                        28.8731,
+                        -28.7722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont-aux-Sources",
+                  "text": "A significant basalt mountain peak serving as the source for several major river systems.",
+                  "category": "natural",
+                  "coords": [
+                        28.8731,
+                        -28.7722
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LS-B",
     coords: [28.88, -28.76],

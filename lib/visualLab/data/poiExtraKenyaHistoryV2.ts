@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraKenyaHistoryV2: POI[] = [
   {
-    id: "gedi-ruins-history-v2",
+    id: "gedi-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arabuko Waterhole",
+                  "text": "Eingebettet in den Arabuko-Sokoke-Wald bei Gede zieht dieses Wasserloch Elefanten und bunte Küstenvögel an.",
+                  "category": "landmark",
+                  "coords": [
+                        39.975621,
+                        -3.262898
+                  ]
+            },
+            {
+                  "name": "Mida Creek Boardwalk",
+                  "text": "Dieser hölzerne Steg ermöglicht es Besuchern, über den dichten Mangrovensümpfen in der Nähe der Gede-Ruinen zu spazieren.",
+                  "category": "landmark",
+                  "coords": [
+                        39.965362,
+                        -3.325731
+                  ]
+            },
+            {
+                  "name": "Safari Blue",
+                  "text": "Dieses tropische Strandresort in der Nähe von Gede organisiert Dhau-Ausflüge und Schnorcheltouren im Meeresschutzgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.963265,
+                        -3.391444
+                  ]
+            },
+            {
+                  "name": "Garoda Beach",
+                  "text": "Dieser von Palmen gesäumte, unberührte Sandstrand in der Nähe von Gede ist für sein klares Wasser im Indischen Ozean bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        39.979305,
+                        -3.386432
+                  ]
+            },
+            {
+                  "name": "Short Beach",
+                  "text": "Versteckt in einer kleinen Bucht an der Küste, bietet dieser abgeschiedene Sandstrand in der Nähe von Gede einen ruhigen Badeort.",
+                  "category": "recreational",
+                  "coords": [
+                        39.971167,
+                        -3.38833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arabuko Waterhole",
+                  "text": "A Gede melletti Arabuko Sokoke erdőben megbúvó itató elefántokat és színes partvidéki madarakat vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.975621,
+                        -3.262898
+                  ]
+            },
+            {
+                  "name": "Mida Creek Boardwalk",
+                  "text": "Ez a felfüggesztett fapalló lehetővé teszi a látogatók számára, hogy a Gede romjai melletti sűrű mangrovemocsarak felett sétáljanak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.965362,
+                        -3.325731
+                  ]
+            },
+            {
+                  "name": "Safari Blue",
+                  "text": "Ez a Gede közelében található trópusi tengerparti üdülőhely dhow-kirándulásokat és sznorkelezést szervez a tengeri rezervátumban.",
+                  "category": "recreational",
+                  "coords": [
+                        39.963265,
+                        -3.391444
+                  ]
+            },
+            {
+                  "name": "Garoda Beach",
+                  "text": "A pálmafákkal szegélyezett, érintetlen homokos strand Gede közelében az Indiai-óceán tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        39.979305,
+                        -3.386432
+                  ]
+            },
+            {
+                  "name": "Short Beach",
+                  "text": "Egy kis tengerparti öbölben megbújva ez az eldugott homokos szakasz Gede közelében csendes fürdőhelyet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        39.971167,
+                        -3.38833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arabuko Waterhole",
+                  "text": "Amplasată în pădurea Arabuko Sokoke de lângă Gede, această fântână atrage elefanți și păsări de coastă colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        39.975621,
+                        -3.262898
+                  ]
+            },
+            {
+                  "name": "Mida Creek Boardwalk",
+                  "text": "Această pasarelă suspendată din lemn permite vizitatorilor să meargă deasupra mlaștinilor dense de mangrove de lângă ruinele Gede.",
+                  "category": "landmark",
+                  "coords": [
+                        39.965362,
+                        -3.325731
+                  ]
+            },
+            {
+                  "name": "Safari Blue",
+                  "text": "Această stațiune de plajă tropicală de lângă Gede organizează excursii cu dhow și scufundări în rezervația marină.",
+                  "category": "recreational",
+                  "coords": [
+                        39.963265,
+                        -3.391444
+                  ]
+            },
+            {
+                  "name": "Garoda Beach",
+                  "text": "Mărginită de palmieri, această plajă de nisip imaculată de lângă Gede este cunoscută pentru apele clare ale Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        39.979305,
+                        -3.386432
+                  ]
+            },
+            {
+                  "name": "Short Beach",
+                  "text": "Ascunsă într-un mic golf de coastă, această întindere de nisip izolată de lângă Gede oferă un loc liniștit pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        39.971167,
+                        -3.38833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arabuko Waterhole",
+                  "text": "Nestled in the Arabuko Sokoke Forest near Gede, this waterhole attracts elephants and colorful coastal birds.",
+                  "category": "landmark",
+                  "coords": [
+                        39.975621,
+                        -3.262898
+                  ]
+            },
+            {
+                  "name": "Mida Creek Boardwalk",
+                  "text": "This suspended wooden boardwalk allows visitors to walk above the dense mangrove swamps near the Gede Ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        39.965362,
+                        -3.325731
+                  ]
+            },
+            {
+                  "name": "Safari Blue",
+                  "text": "This tropical beach resort near Gede organizes dhow excursions and snorkeling trips in the marine reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        39.963265,
+                        -3.391444
+                  ]
+            },
+            {
+                  "name": "Garoda Beach",
+                  "text": "Fringed by palm trees, this pristine sandy beach near Gede is known for its clear Indian Ocean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        39.979305,
+                        -3.386432
+                  ]
+            },
+            {
+                  "name": "Short Beach",
+                  "text": "Tucked away into a small coastal cove, this secluded sandy stretch near Gede provides a quiet swimming spot.",
+                  "category": "recreational",
+                  "coords": [
+                        39.971167,
+                        -3.38833
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-14",
     coords: [39.986, -3.308],
@@ -52,7 +241,52 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/gedi-ruins-history-v2.webp"},
   {
-    id: "thimlich-ohinga-history-v2",
+    id: "thimlich-ohinga-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thimlich Ohinga",
+                  "text": "Diese archäologische Stätte ist berühmt für ihre komplexen, trockengemauerten Siedlungsstrukturen aus dem 16. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        34.325969,
+                        -0.891358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thimlich Ohinga",
+                  "text": "Ez a régészeti lelőhely a 16. századból származó, bonyolult szárazfalazású településszerkezeteiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        34.325969,
+                        -0.891358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thimlich Ohinga",
+                  "text": "Acest sit arheologic este faimos pentru structurile sale complexe de așezări din piatră uscată din secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        34.325969,
+                        -0.891358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thimlich Ohinga",
+                  "text": "This archaeological site is famous for its complex dry-stone settlement structures dating back to the 16th century.",
+                  "category": "historical",
+                  "coords": [
+                        34.325969,
+                        -0.891358
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-44",
     coords: [34.321, -0.867],
@@ -150,7 +384,160 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/koobi-fora-history-v2.webp"},
   {
-    id: "lamu-old-town-history-v2",
+    id: "lamu-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maharia gallery",
+                  "text": "In den historischen Gassen von Lamu gelegen, zeigt diese Galerie traditionelles Suaheli-Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "German Post Office",
+                  "text": "In einem Kolonialgebäude aus dem 19. Jahrhundert untergebracht, zeigt dieses Museum in Lamu die Geschichte des frühen Postwesens.",
+                  "category": "museum",
+                  "coords": [
+                        40.902595,
+                        -2.269811
+                  ]
+            },
+            {
+                  "name": "Lamu Museum",
+                  "text": "Dieses Museum, das in einem prächtigen zweistöckigen Küstengebäude untergebracht ist, zeigt das maritime und kulturelle Erbe des Suaheli-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "Diese im 19. Jahrhundert gegründete einflussreiche Moschee dient als wichtiges Zentrum für islamische Gelehrsamkeit in Lamu.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maharia gallery",
+                  "text": "A Lamu történelmi sikátoraiban található galéria a hagyományos szuahéli kézműves termékeket mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "German Post Office",
+                  "text": "Egy 19. századi gyarmati épületben kapott helyet ez a lamui múzeum, amely a korai postai szolgáltatások történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        40.902595,
+                        -2.269811
+                  ]
+            },
+            {
+                  "name": "Lamu Museum",
+                  "text": "A tengerparton egy impozáns, kétszintes épületben található múzeum a szuahéli nép tengeri és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "A 19. században alapított befolyásos mecset az iszlám tudományosság egyik fő központjaként működik Lamuban.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maharia gallery",
+                  "text": "Situată pe alee istorice din Lamu, această galerie prezintă arte și meșteșuguri tradiționale swahili.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "German Post Office",
+                  "text": "Găzduit într-o clădire colonială din secolul al XIX-lea, acest muzeu din Lamu detaliază istoria primelor servicii poștale.",
+                  "category": "museum",
+                  "coords": [
+                        40.902595,
+                        -2.269811
+                  ]
+            },
+            {
+                  "name": "Lamu Museum",
+                  "text": "Găzduit într-o clădire de coastă grandioasă cu două etaje, acest muzeu expune moștenirea maritimă și culturală a poporului swahili.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "Fondată în secolul al XIX-lea, această moschee influentă servește ca un centru major pentru știința islamică din Lamu.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maharia gallery",
+                  "text": "Located in the historic alleyways of Lamu, this gallery showcases traditional Swahili arts and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "German Post Office",
+                  "text": "Housed in a 19th-century colonial building, this Lamu museum details the history of early postal services.",
+                  "category": "museum",
+                  "coords": [
+                        40.902595,
+                        -2.269811
+                  ]
+            },
+            {
+                  "name": "Lamu Museum",
+                  "text": "Set in a grand two-story coastal building, this museum exhibits the maritime and cultural heritage of the Swahili people.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "Founded in the 19th century, this influential mosque serves as a major centre for Islamic scholarship in Lamu.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-05",
     coords: [40.902, -2.268],
@@ -199,7 +586,268 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/lamu-old-town-history-v2.webp"},
   {
-    id: "vasco-da-gama-pillar-history-v2",
+    id: "vasco-da-gama-pillar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nice empty beach",
+                  "text": "Ein ruhiger, unerschlossener Sandstrand, der einen friedlichen Rückzugsort in der Nähe der Vasco da Gama-Säule bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        40.130084,
+                        -3.265223
+                  ]
+            },
+            {
+                  "name": "KWS office",
+                  "text": "Ein Verwaltungsposten des Kenya Wildlife Service, der die lokalen Naturschutzbemühungen koordiniert.",
+                  "category": "landmark",
+                  "coords": [
+                        40.131097,
+                        -3.254747
+                  ]
+            },
+            {
+                  "name": "Malindi Marine National Park",
+                  "text": "Ein geschütztes Küstenreservat mit lebhaften Korallenriffen und einer vielfältigen tropischen Meeresflora und -fauna.",
+                  "category": "natural",
+                  "coords": [
+                        40.13372,
+                        -3.259596
+                  ]
+            },
+            {
+                  "name": "House of Columns",
+                  "text": "Dieses historische Gebäude mit markanten Säulen ist heute Teil der Ausstellungen des örtlichen Museums.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Eine steinerne Kapelle aus der Kolonialzeit, die von frühen portugiesischen Entdeckern an der ostafrikanischen Küste erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "Eine archäologische Stätte mit einem historischen Steinmarker, der von portugiesischen Entdeckern hinterlassen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "Ein regionales Museum, das das kulturelle Erbe der Swahili und archäologische Unterwasserfunde der Küste ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        40.121589,
+                        -3.215992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nice empty beach",
+                  "text": "Csendes, beépítetlen homokos part, amely békés menedéket kínál a Vasco da Gama oszlop közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        40.130084,
+                        -3.265223
+                  ]
+            },
+            {
+                  "name": "KWS office",
+                  "text": "A Kenyai Vadvédelmi Szolgálat adminisztratív kirendeltsége, amely a helyi természetvédelmi erőfeszítéseket irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        40.131097,
+                        -3.254747
+                  ]
+            },
+            {
+                  "name": "Malindi Marine National Park",
+                  "text": "Védett part menti rezervátum, amely élénk korallzátonyokkal és változatos trópusi tengeri élővilággal büszkélkedhet.",
+                  "category": "natural",
+                  "coords": [
+                        40.13372,
+                        -3.259596
+                  ]
+            },
+            {
+                  "name": "House of Columns",
+                  "text": "Ez a jellegzetes oszlopokkal rendelkező történelmi épület ma a helyi múzeum kiállításainak részeként működik.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Gyarmati korabeli kőkápolna, amelyet a kelet-afrikai partokra látogató korai portugál felfedezők építettek.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "Régészeti lelőhely, amely a portugál felfedezők által hátrahagyott történelmi kőjelölőt mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "Regionális múzeum, amely a szuahéli kulturális örökséget és a part menti víz alatti régészeti felfedezéseket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        40.121589,
+                        -3.215992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nice empty beach",
+                  "text": "Un țărm nisipos liniștit și neamenajat, care oferă o retragere pașnică lângă Stâlpul Vasco da Gama.",
+                  "category": "landmark",
+                  "coords": [
+                        40.130084,
+                        -3.265223
+                  ]
+            },
+            {
+                  "name": "KWS office",
+                  "text": "Un avanpost administrativ pentru Kenya Wildlife Service, care gestionează eforturile locale de conservare.",
+                  "category": "landmark",
+                  "coords": [
+                        40.131097,
+                        -3.254747
+                  ]
+            },
+            {
+                  "name": "Malindi Marine National Park",
+                  "text": "O rezervație de coastă protejată, care prezintă recife de corali vibrante și o viață marină tropicală diversă.",
+                  "category": "natural",
+                  "coords": [
+                        40.13372,
+                        -3.259596
+                  ]
+            },
+            {
+                  "name": "House of Columns",
+                  "text": "Acest clădire istorică cu stâlpi distinctivi funcționează acum ca parte a exponatelor muzeului local.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "O capelă de piatră din epoca colonială, construită de primii exploratori portughezi care au vizitat coasta Africii de Est.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "Un sit arheologic cu un marcaj istoric din piatră lăsat de exploratorii portughezi.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "Un muzeu regional care expune moștenirea culturală Swahili și descoperiri arheologice subacvatice de pe coastă.",
+                  "category": "museum",
+                  "coords": [
+                        40.121589,
+                        -3.215992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nice empty beach",
+                  "text": "A quiet, undeveloped sandy shore offering a peaceful retreat near the Vasco da Gama Pillar.",
+                  "category": "landmark",
+                  "coords": [
+                        40.130084,
+                        -3.265223
+                  ]
+            },
+            {
+                  "name": "KWS office",
+                  "text": "An administrative outpost for the Kenya Wildlife Service, managing local conservation efforts.",
+                  "category": "landmark",
+                  "coords": [
+                        40.131097,
+                        -3.254747
+                  ]
+            },
+            {
+                  "name": "Malindi Marine National Park",
+                  "text": "A protected coastal reserve featuring vibrant coral reefs and diverse tropical marine life.",
+                  "category": "natural",
+                  "coords": [
+                        40.13372,
+                        -3.259596
+                  ]
+            },
+            {
+                  "name": "House of Columns",
+                  "text": "This historical building with distinct pillars now functions as part of the local museum exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "A colonial-era stone chapel built by early Portuguese explorers visiting the East African coast.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "An archaeological site featuring a historic stone marker left by Portuguese explorers.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "A regional museum exhibiting Swahili cultural heritage and coastal underwater archaeological discoveries.",
+                  "category": "museum",
+                  "coords": [
+                        40.121589,
+                        -3.215992
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-03",
     coords: [40.125, -3.224],
@@ -248,7 +896,160 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/vasco-da-gama-pillar-history-v2.webp"},
   {
-    id: "jumba-la-mtwana-history-v2",
+    id: "jumba-la-mtwana-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jumba Ruins",
+                  "text": "Die Jumba-Ruinen sind die aus Korallenstein errichteten archäologischen Überreste einer Swahili-Siedlung aus dem 14. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        39.771528,
+                        -3.944129
+                  ]
+            },
+            {
+                  "name": "Shanzu beach",
+                  "text": "Shanzu Beach ist ein malerischer, weißer Sandstrand, der für seine ausgeprägten Gezeitenunterschiede und Palmen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        39.752941,
+                        -3.971849
+                  ]
+            },
+            {
+                  "name": "Mombasa Continental Resort",
+                  "text": "Das Mombasa Continental Resort ist ein Hotelkomplex mit tropischen Gärten und Swimmingpools direkt hinter einem Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        39.751985,
+                        -3.971316
+                  ]
+            },
+            {
+                  "name": "Mtwapa Beach",
+                  "text": "Mtwapa Beach ist ein Strandabschnitt, der an üppige Mangrovenwälder grenzt, wo der Mtwapa Creek in den Ozean mündet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.757648,
+                        -3.954939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jumba Ruins",
+                  "text": "A Jumba-romok egy 14. századi szuahéli település korallkőből épült régészeti maradványai, amelyek közvetlenül a tengerparton találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        39.771528,
+                        -3.944129
+                  ]
+            },
+            {
+                  "name": "Shanzu beach",
+                  "text": "A Shanzu Beach egy festői, fehér homokos tengerparti szakasz, amely a markáns árapály-ingadozásokról és a pálmafákról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        39.752941,
+                        -3.971849
+                  ]
+            },
+            {
+                  "name": "Mombasa Continental Resort",
+                  "text": "A Mombasa Continental Resort egy óceánparti szállodakomplexum egy homokos strand mögött, trópusi kertekkel és úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        39.751985,
+                        -3.971316
+                  ]
+            },
+            {
+                  "name": "Mtwapa Beach",
+                  "text": "Az Mtwapa Beach egy tengerparti szakasz, amelyet mangroveerdők szegélyeznek, ahol az Mtwapa-patak az óceánba torkollik.",
+                  "category": "recreational",
+                  "coords": [
+                        39.757648,
+                        -3.954939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jumba Ruins",
+                  "text": "Ruinele Jumba sunt vestigiile arheologice din piatră de coral ale unei așezări swahili din secolul al XIV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        39.771528,
+                        -3.944129
+                  ]
+            },
+            {
+                  "name": "Shanzu beach",
+                  "text": "Plaja Shanzu este o fâșie pitorească de nisip alb, cunoscută pentru variațiile pronunțate ale mareelor și palmierii din jur.",
+                  "category": "recreational",
+                  "coords": [
+                        39.752941,
+                        -3.971849
+                  ]
+            },
+            {
+                  "name": "Mombasa Continental Resort",
+                  "text": "Mombasa Continental Resort este un complex hotelier la ocean, situat în spatele unei plaje cu nisip, dotat cu grădini tropicale.",
+                  "category": "recreational",
+                  "coords": [
+                        39.751985,
+                        -3.971316
+                  ]
+            },
+            {
+                  "name": "Mtwapa Beach",
+                  "text": "Plaja Mtwapa este o zonă de coastă nisipoasă mărginită de păduri de mangrove, unde pârâul Mtwapa întâlnește oceanul.",
+                  "category": "recreational",
+                  "coords": [
+                        39.757648,
+                        -3.954939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jumba Ruins",
+                  "text": "The Jumba Ruins are the coral stone archaeological remains of a 14th-century Swahili settlement situated directly on the coastline.",
+                  "category": "historical",
+                  "coords": [
+                        39.771528,
+                        -3.944129
+                  ]
+            },
+            {
+                  "name": "Shanzu beach",
+                  "text": "Shanzu Beach is a scenic stretch of white coastal sand known for its pronounced tidal variations and surrounding palm trees.",
+                  "category": "recreational",
+                  "coords": [
+                        39.752941,
+                        -3.971849
+                  ]
+            },
+            {
+                  "name": "Mombasa Continental Resort",
+                  "text": "Mombasa Continental Resort is an oceanfront hotel complex set back from a sandy beach, featuring tropical gardens and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        39.751985,
+                        -3.971316
+                  ]
+            },
+            {
+                  "name": "Mtwapa Beach",
+                  "text": "Mtwapa Beach is a sandy coastal shore bordered by lush mangrove forests where Mtwapa Creek meets the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        39.757648,
+                        -3.954939
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-03",
     coords: [39.761, -3.953],
@@ -346,7 +1147,52 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/siyu-fort-history-v2.webp"},
   {
-    id: "takwa-ruins-history-v2",
+    id: "takwa-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Takwa ruins",
+                  "text": "Diese historischen Ruinen sind die Überreste einer alten Swahili-Küstensiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        40.958311,
+                        -2.297652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Takwa ruins",
+                  "text": "Ezek a történelmi romok egy ősi szuahéli tengerparti település maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        40.958311,
+                        -2.297652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Takwa ruins",
+                  "text": "Aceste ruine istorice sunt rămășițele unei vechi așezări de coastă Swahili.",
+                  "category": "historical",
+                  "coords": [
+                        40.958311,
+                        -2.297652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Takwa ruins",
+                  "text": "These historical ruins are the remnants of an ancient Swahili coastal settlement.",
+                  "category": "historical",
+                  "coords": [
+                        40.958311,
+                        -2.297652
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-05",
     coords: [40.963, -2.302],
@@ -395,7 +1241,232 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/takwa-ruins-history-v2.webp"},
   {
-    id: "kapenguria-museum-history-v2",
+    id: "kapenguria-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Murkwijit Welcoming and Departure Advertisement Board",
+                  "text": "Diese markante Werbetafel in Kapenguria begrüßt und verabschiedet formell Reisende, die durch das Gebiet Murkwijit fahren.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        1.18412
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "Das Museum ist in den Zellen untergebracht, in denen die „Kapenguria Six“ inhaftiert waren, und bewahrt wichtige Artefakte des kenianischen Unabhängigkeitskampfes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            },
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "Benannt nach dem nahegelegenen Berggipfel, bietet diese Einrichtung in Kapenguria müden Reisenden gemütliche Cottages und lokale Küche.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Roponywo forest",
+                  "text": "Dieses ruhige Stück einheimischen Waldes in der Nähe von Kapenguria bietet einen wichtigen Lebensraum für Vögel und schattige Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135404,
+                        1.281252
+                  ]
+            },
+            {
+                  "name": "Kapkoris Forest",
+                  "text": "Das dichte Kronendach des Kapkoris-Waldes dient als grüne Lunge für die Region Kapenguria und bietet einen ruhigen Rückzugsort in die Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127924,
+                        1.286954
+                  ]
+            },
+            {
+                  "name": "Kishaunet Show Ground",
+                  "text": "Diese große Freiluftarena in Kapenguria ist regelmäßig Schauplatz lebhafter Landwirtschaftsausstellungen und lokaler Gemeindeveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.070836,
+                        1.285501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murkwijit Welcoming and Departure Advertisement Board",
+                  "text": "Ez a feltűnő kapenguriai tábla hivatalosan is üdvözli és búcsúztatja a Murkwijit területén áthaladó utazókat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        1.18412
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "A „kapenguriai hatok” fogvatartási celláiban berendezett múzeum Kenya függetlenségi harcának fontos emlékeit őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            },
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "A közeli hegycsúcsról elnevezett kapenguriai létesítmény hangulatos nyaralókkal és helyi ételekkel várja a fáradt utazókat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Roponywo forest",
+                  "text": "Ez a csendes őshonos erdőfolt Kapenguria közelében fontos élőhelyet biztosít a madaraknak, és árnyékos sétányokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135404,
+                        1.281252
+                  ]
+            },
+            {
+                  "name": "Kapkoris Forest",
+                  "text": "A Kapkoris-erdő sűrű lombkoronája Kapenguria régiójának zöld tüdejeként szolgál, és békés menedéket nyújt a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127924,
+                        1.286954
+                  ]
+            },
+            {
+                  "name": "Kishaunet Show Ground",
+                  "text": "Ez a nagy kapenguriai szabadtéri aréna rendszeresen ad otthont nyüzsgő mezőgazdasági kiállításoknak és helyi közösségi rendezvényeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.070836,
+                        1.285501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Murkwijit Welcoming and Departure Advertisement Board",
+                  "text": "Acest panou publicitar proeminent din Kapenguria salută și își ia rămas bun de la călătorii care trec prin zona Murkwijit.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        1.18412
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "Găzduit în celulele în care au fost reținuți „Cei șase de la Kapenguria”, acest muzeu păstrează artefacte cruciale ale luptei Kenyei pentru independență.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            },
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "Numită după vârful muntos din apropiere, această locație din Kapenguria oferă călătorilor obosiți căsuțe confortabile și mese locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Roponywo forest",
+                  "text": "Această bucată liniștită de pădure indigenă de lângă Kapenguria oferă un habitat important pentru păsări și cărări umbrite pentru plimbare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135404,
+                        1.281252
+                  ]
+            },
+            {
+                  "name": "Kapkoris Forest",
+                  "text": "Coronamentul dens al pădurii Kapkoris acționează ca un plămân verde pentru regiunea Kapenguria, oferind o evadare senină în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127924,
+                        1.286954
+                  ]
+            },
+            {
+                  "name": "Kishaunet Show Ground",
+                  "text": "Această mare arenă în aer liber din Kapenguria găzduiește cu regularitate spectacole agricole vibrante și evenimente comunitare locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.070836,
+                        1.285501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murkwijit Welcoming and Departure Advertisement Board",
+                  "text": "This prominent signage board in Kapenguria formally greets and bids farewell to travelers passing through the Murkwijit area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        1.18412
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "Housed in the original cells where the \"Kapenguria Six\" were detained, this museum preserves crucial artifacts of Kenya's struggle for independence.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            },
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "Named after the nearby mountain peak, this Kapenguria establishment offers weary travelers cozy cottages and local dining.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Roponywo forest",
+                  "text": "This tranquil patch of indigenous forest near Kapenguria provides an important bird habitat and shaded walking paths.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135404,
+                        1.281252
+                  ]
+            },
+            {
+                  "name": "Kapkoris Forest",
+                  "text": "The dense canopy of Kapkoris Forest acts as a green lung for the Kapenguria region, offering a serene escape into nature.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127924,
+                        1.286954
+                  ]
+            },
+            {
+                  "name": "Kishaunet Show Ground",
+                  "text": "This large open-air arena in Kapenguria regularly hosts vibrant agricultural shows and local community events.",
+                  "category": "landmark",
+                  "coords": [
+                        35.070836,
+                        1.285501
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-24",
     coords: [35.109, 1.238],
@@ -444,7 +1515,340 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/kapenguria-museum-history-v2.webp"},
   {
-    id: "karen-blixen-museum-history-v2",
+    id: "karen-blixen-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karen Hub, Water Recycling",
+                  "text": "Diese moderne Wasserfreizeiteinrichtung im Karen Hub verfügt über eine nachhaltige Recyclingtechnologie.",
+                  "category": "recreational",
+                  "coords": [
+                        36.703623,
+                        -1.320341
+                  ]
+            },
+            {
+                  "name": "Ngong Road Forest Gate - Lower Dam Recreation Area",
+                  "text": "Dieses ruhige Erholungsgebiet befindet sich am unteren Staudamm am Eingang zum üppigen Ngong Road Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        36.724053,
+                        -1.307872
+                  ]
+            },
+            {
+                  "name": "Sam Mburu Resort",
+                  "text": "Dieses lokale Resort bietet Freizeiteinrichtungen inmitten der ruhigen Umgebung des Vororts Karen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.736678,
+                        -1.331333
+                  ]
+            },
+            {
+                  "name": "Institute of Primate Research",
+                  "text": "Diese Forschungseinrichtung befasst sich mit biomedizinischen und primatologischen Studien an nichtmenschlichen Primaten.",
+                  "category": "landmark",
+                  "coords": [
+                        36.706133,
+                        -1.358053
+                  ]
+            },
+            {
+                  "name": "Oloolua Nature Trail",
+                  "text": "Dieser friedliche Waldweg schlängelt sich durch die Oloolua-Wälder, vorbei an einem malerischen Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        36.712118,
+                        -1.359881
+                  ]
+            },
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "Dieser Erholungspark umfasst die bewaldeten Hänge der Ngong-Berge und bietet malerische Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            },
+            {
+                  "name": "Karen Blixen Museum",
+                  "text": "Dieses Museum in einem Kolonialbauernhaus am Fuße der Ngong-Berge bewahrt das ehemalige Wohnhaus der Autorin von „Jenseits von Afrika“.",
+                  "category": "museum",
+                  "coords": [
+                        36.712513,
+                        -1.351971
+                  ]
+            },
+            {
+                  "name": "Karen Village",
+                  "text": "Dieses kreative Zentrum im Viertel Karen beherbergt Künstlerateliers, Werkstätten und lebendige kulturelle Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.6807,
+                        -1.330974
+                  ]
+            },
+            {
+                  "name": "Wastah Villa",
+                  "text": "Diese Villa dient als lokales Kunst- und Kulturzentrum und bietet Raum für kreative Begegnungen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.679979,
+                        -1.387429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karen Hub, Water Recycling",
+                  "text": "Ez a modern vízi rekreációs létesítmény a Karen Hub területén fenntartható újrahasznosítási technológiát alkalmaz.",
+                  "category": "recreational",
+                  "coords": [
+                        36.703623,
+                        -1.320341
+                  ]
+            },
+            {
+                  "name": "Ngong Road Forest Gate - Lower Dam Recreation Area",
+                  "text": "Ez a békés rekreációs terület az alsó gátnál, a buja Ngong Road Forest bejáratánál található.",
+                  "category": "landmark",
+                  "coords": [
+                        36.724053,
+                        -1.307872
+                  ]
+            },
+            {
+                  "name": "Sam Mburu Resort",
+                  "text": "Ez a helyi üdülőközpont rekreációs létesítményeket kínál a Karen külváros nyugodt környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.736678,
+                        -1.331333
+                  ]
+            },
+            {
+                  "name": "Institute of Primate Research",
+                  "text": "Ez a kutatólétesítmény az emberszabású majmokon végzett orvosbiológiai és primatológiai vizsgálatokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        36.706133,
+                        -1.358053
+                  ]
+            },
+            {
+                  "name": "Oloolua Nature Trail",
+                  "text": "Ez a békés erdei ösvény az Oloolua erdőn kanyarog keresztül, elhaladva egy festői vízesés mellett.",
+                  "category": "natural",
+                  "coords": [
+                        36.712118,
+                        -1.359881
+                  ]
+            },
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "Ez a rekreációs park a Ngong-hegység erdős lejtőit foglalja magában, és festői túraútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            },
+            {
+                  "name": "Karen Blixen Museum",
+                  "text": "A Ngong-hegység lábánál fekvő gyarmati farmházban berendezett múzeum a „Távol Afrikától” szerzőjének egykori otthonát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        36.712513,
+                        -1.351971
+                  ]
+            },
+            {
+                  "name": "Karen Village",
+                  "text": "Ez a Karen negyedben található kreatív központ művészeti stúdióknak, workshopoknak és élénk kulturális kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        36.6807,
+                        -1.330974
+                  ]
+            },
+            {
+                  "name": "Wastah Villa",
+                  "text": "Ez a villa helyi művészeti és kulturális központként működik, teret adva a kreatív összejöveteleknek.",
+                  "category": "cultural",
+                  "coords": [
+                        36.679979,
+                        -1.387429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karen Hub, Water Recycling",
+                  "text": "Această facilitate modernă de recreere acvatică de la Karen Hub încorporează o tehnologie durabilă de reciclare.",
+                  "category": "recreational",
+                  "coords": [
+                        36.703623,
+                        -1.320341
+                  ]
+            },
+            {
+                  "name": "Ngong Road Forest Gate - Lower Dam Recreation Area",
+                  "text": "Această zonă senină de recreere este situată lângă barajul inferior de la intrarea în luxurianta Pădure Ngong Road.",
+                  "category": "landmark",
+                  "coords": [
+                        36.724053,
+                        -1.307872
+                  ]
+            },
+            {
+                  "name": "Sam Mburu Resort",
+                  "text": "Această stațiune locală oferă facilități de recreere în mijlocul împrejurimilor liniștite ale suburbiei Karen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.736678,
+                        -1.331333
+                  ]
+            },
+            {
+                  "name": "Institute of Primate Research",
+                  "text": "Această unitate de cercetare se concentrează pe studii biomedicale și primatologice folosind primate non-umane.",
+                  "category": "landmark",
+                  "coords": [
+                        36.706133,
+                        -1.358053
+                  ]
+            },
+            {
+                  "name": "Oloolua Nature Trail",
+                  "text": "Acest traseu liniștit prin pădure șerpuiește prin pădurea Oloolua, trecând pe lângă o cascadă pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        36.712118,
+                        -1.359881
+                  ]
+            },
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "Acest parc de recreere cuprinde pantele împădurite ale Dealurilor Ngong, oferind trasee pitorești de drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            },
+            {
+                  "name": "Karen Blixen Museum",
+                  "text": "Amplasat într-o fermă din epoca colonială la poalele Dealurilor Ngong, acest muzeu păstrează fosta casă a autoarei cărții „Din Africa”.",
+                  "category": "museum",
+                  "coords": [
+                        36.712513,
+                        -1.351971
+                  ]
+            },
+            {
+                  "name": "Karen Village",
+                  "text": "Acest centru creativ din cartierul Karen găzduiește ateliere de artiști și expoziții culturale vibrante.",
+                  "category": "cultural",
+                  "coords": [
+                        36.6807,
+                        -1.330974
+                  ]
+            },
+            {
+                  "name": "Wastah Villa",
+                  "text": "Această vilă servește ca centru local de artă și cultură, oferind un spațiu pentru adunări creative.",
+                  "category": "cultural",
+                  "coords": [
+                        36.679979,
+                        -1.387429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karen Hub, Water Recycling",
+                  "text": "This modern water recreation facility at the Karen Hub incorporates sustainable recycling technology.",
+                  "category": "recreational",
+                  "coords": [
+                        36.703623,
+                        -1.320341
+                  ]
+            },
+            {
+                  "name": "Ngong Road Forest Gate - Lower Dam Recreation Area",
+                  "text": "This serene recreation area is situated by the lower dam at the entrance to the lush Ngong Road Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        36.724053,
+                        -1.307872
+                  ]
+            },
+            {
+                  "name": "Sam Mburu Resort",
+                  "text": "This local resort property offers recreational facilities amidst the tranquil surroundings of the Karen suburb.",
+                  "category": "landmark",
+                  "coords": [
+                        36.736678,
+                        -1.331333
+                  ]
+            },
+            {
+                  "name": "Institute of Primate Research",
+                  "text": "This research facility focuses on biomedical and primatological studies using non-human primates.",
+                  "category": "landmark",
+                  "coords": [
+                        36.706133,
+                        -1.358053
+                  ]
+            },
+            {
+                  "name": "Oloolua Nature Trail",
+                  "text": "This peaceful forest trail winds through the Oloolua woods, passing a scenic waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        36.712118,
+                        -1.359881
+                  ]
+            },
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "This recreational park encompasses the forested slopes of the Ngong Hills, offering scenic hiking paths.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            },
+            {
+                  "name": "Karen Blixen Museum",
+                  "text": "Set in a colonial-era farmhouse at the foot of the Ngong Hills, this museum preserves the former home of the 'Out of Africa' author.",
+                  "category": "museum",
+                  "coords": [
+                        36.712513,
+                        -1.351971
+                  ]
+            },
+            {
+                  "name": "Karen Village",
+                  "text": "This creative hub in the Karen neighborhood hosts artist studios, workshops, and vibrant cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        36.6807,
+                        -1.330974
+                  ]
+            },
+            {
+                  "name": "Wastah Villa",
+                  "text": "This villa serves as a local arts and cultural center, providing a space for creative gatherings and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        36.679979,
+                        -1.387429
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-30",
     coords: [36.714, -1.353],
@@ -493,7 +1897,88 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/karen-blixen-museum-history-v2.webp"},
   {
-    id: "mnarani-ruins-history-v2",
+    id: "mnarani-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "B68",
+                  "text": "Ein lokales Museum in der Nähe der historischen Mnarani-Ruinen, das Artefakte der Küstenregion bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        39.88452,
+                        -3.600928
+                  ]
+            },
+            {
+                  "name": "VIDAZINI BEACH",
+                  "text": "Ein sandiger Küstenstrand mit Meerblick in der Nähe der Mnarani-Ruinen.",
+                  "category": "recreational",
+                  "coords": [
+                        39.877369,
+                        -3.618949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "B68",
+                  "text": "A történelmi Mnarani romok közelében található helyi múzeum, amely a partvidék leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        39.88452,
+                        -3.600928
+                  ]
+            },
+            {
+                  "name": "VIDAZINI BEACH",
+                  "text": "Homokos tengerpart, amely óceáni kilátást nyújt a Mnarani romok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        39.877369,
+                        -3.618949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "B68",
+                  "text": "Un muzeu local aflat lângă ruinele istorice Mnarani, care păstrează artefacte din regiunea de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        39.88452,
+                        -3.600928
+                  ]
+            },
+            {
+                  "name": "VIDAZINI BEACH",
+                  "text": "O plajă de coastă nisipoasă care oferă vedere la ocean lângă ruinele Mnarani.",
+                  "category": "recreational",
+                  "coords": [
+                        39.877369,
+                        -3.618949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "B68",
+                  "text": "A local museum near the historical Mnarani Ruins preserving artifacts from the coastal region.",
+                  "category": "museum",
+                  "coords": [
+                        39.88452,
+                        -3.600928
+                  ]
+            },
+            {
+                  "name": "VIDAZINI BEACH",
+                  "text": "A sandy coastal beach offering ocean views near the Mnarani Ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        39.877369,
+                        -3.618949
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-03",
     coords: [39.854, -3.633],
@@ -542,7 +2027,52 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/mnarani-ruins-history-v2.webp"},
   {
-    id: "pate-island-ruins-history-v2",
+    id: "pate-island-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pate",
+                  "text": "Diese archäologische Stätte auf der Insel Pate birgt die steinernen Überreste einer alten Swahili-Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        40.998843,
+                        -2.141332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pate",
+                  "text": "Ez a Pate-szigeten található régészeti lelőhely egy ősi szuahéli település kőből épült maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        40.998843,
+                        -2.141332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pate",
+                  "text": "Acest sit arheologic de pe insula Pate conține ruinele de piatră ale unei vechi așezări swahili.",
+                  "category": "historical",
+                  "coords": [
+                        40.998843,
+                        -2.141332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pate",
+                  "text": "This archaeological site on Pate Island contains the stone ruins of an ancient Swahili coastal settlement.",
+                  "category": "historical",
+                  "coords": [
+                        40.998843,
+                        -2.141332
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-05",
     coords: [41.054, -2.115],
@@ -591,7 +2121,88 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/pate-island-ruins-history-v2.webp"},
   {
-    id: "shanga-ruins-history-v2",
+    id: "shanga-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shanga Ruins",
+                  "text": "Die Shanga-Ruinen sind die archäologischen Überreste einer frühen Swahili-Siedlung auf Pate Island.",
+                  "category": "historical",
+                  "coords": [
+                        41.067289,
+                        -2.132925
+                  ]
+            },
+            {
+                  "name": "Pate Community Conservancy",
+                  "text": "Die Pate Community Conservancy ist ein Naturschutzgebiet, das die lokalen Küstenlebensräume rund um Pate Island schützt.",
+                  "category": "natural",
+                  "coords": [
+                        41.097442,
+                        -2.114919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shanga Ruins",
+                  "text": "A Shanga romok egy korai szuahéli település régészeti maradványai a Pate-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        41.067289,
+                        -2.132925
+                  ]
+            },
+            {
+                  "name": "Pate Community Conservancy",
+                  "text": "A Pate Community Conservancy egy természetvédelmi terület, amely a Pate-sziget körüli part menti élőhelyeket védi.",
+                  "category": "natural",
+                  "coords": [
+                        41.097442,
+                        -2.114919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shanga Ruins",
+                  "text": "Ruinele Shanga sunt rămășițele arheologice ale unei așezări timpurii Swahili de pe Insula Pate.",
+                  "category": "historical",
+                  "coords": [
+                        41.067289,
+                        -2.132925
+                  ]
+            },
+            {
+                  "name": "Pate Community Conservancy",
+                  "text": "Rezervația Comunitară Pate este o rezervație naturală care protejează habitatele de coastă locale din jurul Insulei Pate.",
+                  "category": "natural",
+                  "coords": [
+                        41.097442,
+                        -2.114919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shanga Ruins",
+                  "text": "The Shanga Ruins are the archaeological remains of an early Swahili settlement on Pate Island.",
+                  "category": "historical",
+                  "coords": [
+                        41.067289,
+                        -2.132925
+                  ]
+            },
+            {
+                  "name": "Pate Community Conservancy",
+                  "text": "Pate Community Conservancy is a nature reserve protecting the local coastal habitats around Pate Island.",
+                  "category": "natural",
+                  "coords": [
+                        41.097442,
+                        -2.114919
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-05",
     coords: [41.085, -2.146],
@@ -640,7 +2251,592 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/shanga-ruins-history-v2.webp"},
   {
-    id: "uhuru-gardens-history-v2",
+    id: "uhuru-gardens-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Creative Garage",
+                  "text": "Eine unabhängige Kunstgalerie für zeitgenössische Werke in der Nähe der historischen Uhuru Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        36.782541,
+                        -1.297153
+                  ]
+            },
+            {
+                  "name": "kibera group",
+                  "text": "Ein von der Basis getragenes Kunstzentrum im lebhaften Viertel Kibera in der Nähe der Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799209,
+                        -1.315351
+                  ]
+            },
+            {
+                  "name": "New Vision Photo Studio",
+                  "text": "Ein kreativer Raum, der Fotografie und lokale Theaterkunst in der Nähe der Uhuru Gardens verbindet.",
+                  "category": "cultural",
+                  "coords": [
+                        36.797071,
+                        -1.311429
+                  ]
+            },
+            {
+                  "name": "Dolpnine sports club",
+                  "text": "Eine Freizeiteinrichtung und ein Veranstaltungsort für die aktive Gemeinde rund um die Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.798061,
+                        -1.313067
+                  ]
+            },
+            {
+                  "name": "Mugumo Gardens",
+                  "text": "Eine kulturell bedeutsame Grünfläche nahe der Uhuru Gardens, bekannt für ihre historisch heiligen Feigenbäume.",
+                  "category": "landmark",
+                  "coords": [
+                        36.787356,
+                        -1.30171
+                  ]
+            },
+            {
+                  "name": "Kibra Art Institute",
+                  "text": "Eine Bildungseinrichtung für Kunst, die sich der Förderung lokaler Talente im Bezirk Kibera widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        36.773022,
+                        -1.310664
+                  ]
+            },
+            {
+                  "name": "Raila Youth Centre",
+                  "text": "Ein kommunales Veranstaltungs- und Jugendzentrum zur Förderung lokaler Kreativität in der Nähe der Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.77817,
+                        -1.317965
+                  ]
+            },
+            {
+                  "name": "Sansiro Stadium",
+                  "text": "Eine vielseitige Arena für Veranstaltungen und Theateraufführungen in der Nachbarschaft der Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.781047,
+                        -1.3091
+                  ]
+            },
+            {
+                  "name": "Sunny line photo studio",
+                  "text": "Ein kreatives Studio für visuelle Künste und ein Aufführungsraum in der Nähe der Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.794319,
+                        -1.311369
+                  ]
+            },
+            {
+                  "name": "Photo Point",
+                  "text": "Ein kultureller Veranstaltungsort für lokale Fotografie und Theater-Events in der Nähe der Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.79436,
+                        -1.312612
+                  ]
+            },
+            {
+                  "name": "Uhuru Gardens",
+                  "text": "Eine bedeutende Gedenkstätte, die Kenias Unabhängigkeit und nationales Erbe feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.790697,
+                        -1.327557
+                  ]
+            },
+            {
+                  "name": "The Village Exhibition",
+                  "text": "Ein interaktives Kunstzentrum, das traditionelles Kunsthandwerk und lokale kreative Projekte in der Nähe der Uhuru Gardens präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799208,
+                        -1.311638
+                  ]
+            },
+            {
+                  "name": "Victorius Youth Group",
+                  "text": "Ein lebendiges kreatives Zentrum, das junge Künstler und Darsteller in der Gegend der Uhuru Gardens fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.776545,
+                        -1.314557
+                  ]
+            },
+            {
+                  "name": "Art Enterprise",
+                  "text": "Ein kollaborativer kreativer Arbeitsraum, der lokale künstlerische Talente und Unternehmungen nahe der Uhuru Gardens fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.777427,
+                        -1.313189
+                  ]
+            },
+            {
+                  "name": "Nyota Studio",
+                  "text": "Ein engagiertes Kreativstudio, das den lokalen künstlerischen Ausdruck und kulturelle Projekte in der Nähe der Uhuru Gardens unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        36.788208,
+                        -1.311607
+                  ]
+            },
+            {
+                  "name": "ayany kibera youth self help group",
+                  "text": "Eine von der Basis ausgehende Kunstinitiative, die die Jugend von Kibera durch kreative Zusammenarbeit stärkt.",
+                  "category": "cultural",
+                  "coords": [
+                        36.775699,
+                        -1.310352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Creative Garage",
+                  "text": "Független kortárs művészeti galéria a történelmi Uhuru Gardens közelében.",
+                  "category": "museum",
+                  "coords": [
+                        36.782541,
+                        -1.297153
+                  ]
+            },
+            {
+                  "name": "kibera group",
+                  "text": "Alulról szerveződő közösségi művészeti központ a nyüzsgő Kibera negyedben, az Uhuru Gardens közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799209,
+                        -1.315351
+                  ]
+            },
+            {
+                  "name": "New Vision Photo Studio",
+                  "text": "A fotózást és a helyi színházművészetet ötvöző kreatív tér az Uhuru Gardens szomszédságában.",
+                  "category": "cultural",
+                  "coords": [
+                        36.797071,
+                        -1.311429
+                  ]
+            },
+            {
+                  "name": "Dolpnine sports club",
+                  "text": "Az Uhuru Gardens környéki aktív közösséget kiszolgáló rekreációs létesítmény és előadótér.",
+                  "category": "cultural",
+                  "coords": [
+                        36.798061,
+                        -1.313067
+                  ]
+            },
+            {
+                  "name": "Mugumo Gardens",
+                  "text": "Kulturális jelentőségű zöldterület az Uhuru Gardens közelében, amely történelmileg szent fügefáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.787356,
+                        -1.30171
+                  ]
+            },
+            {
+                  "name": "Kibra Art Institute",
+                  "text": "Oktatási művészeti intézmény, amely a Kibera negyed helyi művészeti tehetségeinek gondozására épült.",
+                  "category": "cultural",
+                  "coords": [
+                        36.773022,
+                        -1.310664
+                  ]
+            },
+            {
+                  "name": "Raila Youth Centre",
+                  "text": "Helyi kreativitást ösztönző közösségi előadó- és ifjúsági központ az Uhuru Gardens közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.77817,
+                        -1.317965
+                  ]
+            },
+            {
+                  "name": "Sansiro Stadium",
+                  "text": "Sokoldalú rendezvény- és színházi aréna az Uhuru Gardens közelében lévő környéken.",
+                  "category": "cultural",
+                  "coords": [
+                        36.781047,
+                        -1.3091
+                  ]
+            },
+            {
+                  "name": "Sunny line photo studio",
+                  "text": "Kreatív vizuális művészeti stúdió és előadótér az Uhuru Gardens közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.794319,
+                        -1.311369
+                  ]
+            },
+            {
+                  "name": "Photo Point",
+                  "text": "Közösségi fotózásnak és színházi eseményeknek szentelt kulturális helyszín az Uhuru Gardens közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.79436,
+                        -1.312612
+                  ]
+            },
+            {
+                  "name": "Uhuru Gardens",
+                  "text": "Kiemelkedő emlékmű, amely Kenya függetlenségét és nemzeti örökségét ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        36.790697,
+                        -1.327557
+                  ]
+            },
+            {
+                  "name": "The Village Exhibition",
+                  "text": "Hagyományos közösségi kézműves termékeket és helyi kreatív projekteket bemutató interaktív művészeti központ az Uhuru Gardens közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799208,
+                        -1.311638
+                  ]
+            },
+            {
+                  "name": "Victorius Youth Group",
+                  "text": "Fiatal művészeket és előadókat támogató nyüzsgő kreatív központ az Uhuru Gardens környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        36.776545,
+                        -1.314557
+                  ]
+            },
+            {
+                  "name": "Art Enterprise",
+                  "text": "Helyi művészeti tehetségeket és vállalkozásokat támogató együttműködési kreatív munkaterület az Uhuru Gardens közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.777427,
+                        -1.313189
+                  ]
+            },
+            {
+                  "name": "Nyota Studio",
+                  "text": "A helyi művészeti kifejezést és kulturális projekteket támogató dedikált kreatív stúdió az Uhuru Gardens közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        36.788208,
+                        -1.311607
+                  ]
+            },
+            {
+                  "name": "ayany kibera youth self help group",
+                  "text": "Alulról szerveződő közösségi művészeti kezdeményezés, amely a kreatív együttműködés révén erősíti a kiberai fiatalokat.",
+                  "category": "cultural",
+                  "coords": [
+                        36.775699,
+                        -1.310352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Creative Garage",
+                  "text": "O galerie de artă independentă care expune lucrări contemporane lângă grădinile istorice Uhuru.",
+                  "category": "museum",
+                  "coords": [
+                        36.782541,
+                        -1.297153
+                  ]
+            },
+            {
+                  "name": "kibera group",
+                  "text": "Un centru de artă comunitar situat în cartierul vibrant Kibera de lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799209,
+                        -1.315351
+                  ]
+            },
+            {
+                  "name": "New Vision Photo Studio",
+                  "text": "Un spațiu creativ care îmbină fotografia și artele teatrale locale în vecinătatea Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.797071,
+                        -1.311429
+                  ]
+            },
+            {
+                  "name": "Dolpnine sports club",
+                  "text": "O facilitate recreativă și spațiu de performanță care deservește comunitatea activă din jurul Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.798061,
+                        -1.313067
+                  ]
+            },
+            {
+                  "name": "Mugumo Gardens",
+                  "text": "Un spațiu verde cu semnificație culturală aproape de Uhuru Gardens, cunoscut pentru smochinii săi sacri din punct de vedere istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        36.787356,
+                        -1.30171
+                  ]
+            },
+            {
+                  "name": "Kibra Art Institute",
+                  "text": "O instituție de artă educațională dedicată susținerii talentelor artistice locale din districtul Kibera.",
+                  "category": "cultural",
+                  "coords": [
+                        36.773022,
+                        -1.310664
+                  ]
+            },
+            {
+                  "name": "Raila Youth Centre",
+                  "text": "Un centru comunitar de spectacole și tineret care încurajează creativitatea locală lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.77817,
+                        -1.317965
+                  ]
+            },
+            {
+                  "name": "Sansiro Stadium",
+                  "text": "O arenă multifuncțională de evenimente și spectacole teatrale situată în cartierul de lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.781047,
+                        -1.3091
+                  ]
+            },
+            {
+                  "name": "Sunny line photo studio",
+                  "text": "Un studio creativ de arte vizuale și spațiu de performanță care funcționează lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.794319,
+                        -1.311369
+                  ]
+            },
+            {
+                  "name": "Photo Point",
+                  "text": "Un loc cultural dedicat fotografiei comunitare și evenimentelor teatrale atractive de lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.79436,
+                        -1.312612
+                  ]
+            },
+            {
+                  "name": "Uhuru Gardens",
+                  "text": "O atracție memorială proeminentă care celebrează independența și moștenirea națională a Kenyei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.790697,
+                        -1.327557
+                  ]
+            },
+            {
+                  "name": "The Village Exhibition",
+                  "text": "Un centru de artă interactiv care expune meșteșuguri comunitare tradiționale și proiecte creative locale lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799208,
+                        -1.311638
+                  ]
+            },
+            {
+                  "name": "Victorius Youth Group",
+                  "text": "Un hub creativ vibrant dedicat susținerii tinerilor artiști și interpreți din zona Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.776545,
+                        -1.314557
+                  ]
+            },
+            {
+                  "name": "Art Enterprise",
+                  "text": "Un spațiu de lucru creativ și colaborativ care încurajează talentul și antreprenoriatul artistic local lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.777427,
+                        -1.313189
+                  ]
+            },
+            {
+                  "name": "Nyota Studio",
+                  "text": "Un studio creativ dedicat, care susține exprimarea artistică locală și proiectele culturale lângă Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.788208,
+                        -1.311607
+                  ]
+            },
+            {
+                  "name": "ayany kibera youth self help group",
+                  "text": "O inițiativă de artă comunitară care abilitează tinerii din Kibera prin colaborare creativă.",
+                  "category": "cultural",
+                  "coords": [
+                        36.775699,
+                        -1.310352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Creative Garage",
+                  "text": "An independent art gallery showcasing contemporary works near the historic Uhuru Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        36.782541,
+                        -1.297153
+                  ]
+            },
+            {
+                  "name": "kibera group",
+                  "text": "A grassroots community arts center rooted in the vibrant Kibera neighborhood near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799209,
+                        -1.315351
+                  ]
+            },
+            {
+                  "name": "New Vision Photo Studio",
+                  "text": "A creative space blending photography and local theatrical arts in the vicinity of Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.797071,
+                        -1.311429
+                  ]
+            },
+            {
+                  "name": "Dolpnine sports club",
+                  "text": "A recreational facility and performance space serving the active community around Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.798061,
+                        -1.313067
+                  ]
+            },
+            {
+                  "name": "Mugumo Gardens",
+                  "text": "A culturally significant green space close to Uhuru Gardens, known for its historically sacred fig trees.",
+                  "category": "landmark",
+                  "coords": [
+                        36.787356,
+                        -1.30171
+                  ]
+            },
+            {
+                  "name": "Kibra Art Institute",
+                  "text": "An educational arts facility dedicated to empowering local artistic talent within the Kibera district.",
+                  "category": "cultural",
+                  "coords": [
+                        36.773022,
+                        -1.310664
+                  ]
+            },
+            {
+                  "name": "Raila Youth Centre",
+                  "text": "A community performance and youth center fostering local creativity near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.77817,
+                        -1.317965
+                  ]
+            },
+            {
+                  "name": "Sansiro Stadium",
+                  "text": "A multifaceted event and theatrical performance arena located in the neighborhood near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.781047,
+                        -1.3091
+                  ]
+            },
+            {
+                  "name": "Sunny line photo studio",
+                  "text": "A creative visual arts studio and performance space operating near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.794319,
+                        -1.311369
+                  ]
+            },
+            {
+                  "name": "Photo Point",
+                  "text": "A cultural venue dedicated to community photography and engaging theatrical events near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.79436,
+                        -1.312612
+                  ]
+            },
+            {
+                  "name": "Uhuru Gardens",
+                  "text": "A prominent memorial attraction celebrating Kenya's independence and national heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        36.790697,
+                        -1.327557
+                  ]
+            },
+            {
+                  "name": "The Village Exhibition",
+                  "text": "An interactive arts center showcasing traditional community crafts and local creative projects near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.799208,
+                        -1.311638
+                  ]
+            },
+            {
+                  "name": "Victorius Youth Group",
+                  "text": "A vibrant creative hub dedicated to empowering young artists and performers in the Uhuru Gardens area.",
+                  "category": "cultural",
+                  "coords": [
+                        36.776545,
+                        -1.314557
+                  ]
+            },
+            {
+                  "name": "Art Enterprise",
+                  "text": "A collaborative creative workspace fostering local artistic talent and enterprise near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.777427,
+                        -1.313189
+                  ]
+            },
+            {
+                  "name": "Nyota Studio",
+                  "text": "A dedicated creative studio supporting local artistic expression and cultural projects near Uhuru Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        36.788208,
+                        -1.311607
+                  ]
+            },
+            {
+                  "name": "ayany kibera youth self help group",
+                  "text": "A grassroots community arts initiative empowering the youth of Kibera through creative collaboration.",
+                  "category": "cultural",
+                  "coords": [
+                        36.775699,
+                        -1.310352
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-30",
     coords: [36.786, -1.325],
@@ -689,7 +2885,88 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/uhuru-gardens-history-v2.webp"},
   {
-    id: "olorgesailie-history-v2",
+    id: "olorgesailie-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olorgesailie Prehistoric Site",
+                  "text": "Dieses archäologische Museum bewahrt eine Fülle von Acheuléen-Faustkeilen und frühen Hominidenfossilien im Rift Valley.",
+                  "category": "museum",
+                  "coords": [
+                        36.444472,
+                        -1.577817
+                  ]
+            },
+            {
+                  "name": "Olorgesailie Bridge",
+                  "text": "Dieser Aussichtspunkt auf einer Brücke blickt auf die raue Landschaft des Rift Valley nahe der prähistorischen Ausgrabungsstätte Olorgesailie.",
+                  "category": "natural",
+                  "coords": [
+                        36.447139,
+                        -1.577188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olorgesailie Prehistoric Site",
+                  "text": "Ez a régészeti múzeum a hasadékvölgyből származó acheuli szakócák és korai hominida kövületek gazdag gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        36.444472,
+                        -1.577817
+                  ]
+            },
+            {
+                  "name": "Olorgesailie Bridge",
+                  "text": "Ez a hídi kilátóhely a hasadékvölgy zord tájára néz a híres olorgesailie-i őskori ásatás közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.447139,
+                        -1.577188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olorgesailie Prehistoric Site",
+                  "text": "Acest muzeu arheologic păstrează o bogăție de topoare de mână acheuleene și fosile timpurii de hominizi din Valea Riftului.",
+                  "category": "museum",
+                  "coords": [
+                        36.444472,
+                        -1.577817
+                  ]
+            },
+            {
+                  "name": "Olorgesailie Bridge",
+                  "text": "Acest punct de belvedere de pe pod are vedere spre peisajul accidentat al Văii Riftului, lângă faimosul sit de excavații preistorice Olorgesailie.",
+                  "category": "natural",
+                  "coords": [
+                        36.447139,
+                        -1.577188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olorgesailie Prehistoric Site",
+                  "text": "This important archaeological museum preserves a wealth of Acheulean hand axes and early hominid fossils in the Rift Valley.",
+                  "category": "museum",
+                  "coords": [
+                        36.444472,
+                        -1.577817
+                  ]
+            },
+            {
+                  "name": "Olorgesailie Bridge",
+                  "text": "This bridge viewpoint overlooks the rugged Rift Valley landscape near the famous Olorgesailie prehistoric excavation site.",
+                  "category": "natural",
+                  "coords": [
+                        36.447139,
+                        -1.577188
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-34",
     coords: [36.445, -1.578],
@@ -738,7 +3015,232 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/olorgesailie-history-v2.webp"},
   {
-    id: "kariandusi-history-v2",
+    id: "kariandusi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Elementaita Hot Spring",
+                  "text": "Geothermische heiße Quellen am stark alkalischen Elementaitasee, wo natürliches Thermalwasser aus dem Gestein an die Oberfläche tritt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.25652,
+                        -0.473277
+                  ]
+            },
+            {
+                  "name": "Upper Lake view stp",
+                  "text": "Ein hoch gelegener Aussichtspunkt im historischen Kariandusi, der einen ausgedehnten Panoramablick über das Becken des Elementaitasees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.267084,
+                        -0.461973
+                  ]
+            },
+            {
+                  "name": "Birds view stp",
+                  "text": "Ein Beobachtungsposten am Ufer des Elementaitasees, an dem sich Rosaflamingos und Zwergflamingos gut beobachten lassen.",
+                  "category": "natural",
+                  "coords": [
+                        36.261549,
+                        -0.461048
+                  ]
+            },
+            {
+                  "name": "View on lake",
+                  "text": "Ein Aussichtspunkt in der Nähe der prähistorischen Stätte Kariandusi, der direkt auf die salzige Oberfläche des Elementaitasees blickt.",
+                  "category": "natural",
+                  "coords": [
+                        36.26802,
+                        -0.39788
+                  ]
+            },
+            {
+                  "name": "Kariandusi Museum",
+                  "text": "Ein archäologisches Museum, das bedeutende prähistorische Acheuléen-Faustkeile aus dem Rift Valley zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        36.283885,
+                        -0.451404
+                  ]
+            },
+            {
+                  "name": "Soysambu Conservancy",
+                  "text": "Ein großes privates Naturschutzgebiet rund um den Elementaitasee, das den Erhalt der gefährdeten Rothschild-Giraffen unterstützt.",
+                  "category": "natural",
+                  "coords": [
+                        36.190155,
+                        -0.453416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Elementaita Hot Spring",
+                  "text": "Geotermikus hőforrások az erősen lúgos Elementaita-tónál, ahol a természetes termálvíz a sziklákból tör a felszínre.",
+                  "category": "landmark",
+                  "coords": [
+                        36.25652,
+                        -0.473277
+                  ]
+            },
+            {
+                  "name": "Upper Lake view stp",
+                  "text": "Egy magasan fekvő kilátópont a történelmi Kariandusiban, amely kiterjedt panorámát nyújt az Elementaita-tó medencéjére.",
+                  "category": "natural",
+                  "coords": [
+                        36.267084,
+                        -0.461973
+                  ]
+            },
+            {
+                  "name": "Birds view stp",
+                  "text": "Egy megfigyelőállomás az Elementaita-tó partján, ahol a rózsás flamingók és a kis flamingók jól megfigyelhetők.",
+                  "category": "natural",
+                  "coords": [
+                        36.261549,
+                        -0.461048
+                  ]
+            },
+            {
+                  "name": "View on lake",
+                  "text": "Egy kilátópont a Kariandusi őskori lelőhely közelében, amely közvetlenül az Elementaita-tó sós felszínére néz.",
+                  "category": "natural",
+                  "coords": [
+                        36.26802,
+                        -0.39788
+                  ]
+            },
+            {
+                  "name": "Kariandusi Museum",
+                  "text": "Egy régészeti múzeum, amely jelentős őskori acheuli szakócákat mutat be a Hasadékvölgyből.",
+                  "category": "museum",
+                  "coords": [
+                        36.283885,
+                        -0.451404
+                  ]
+            },
+            {
+                  "name": "Soysambu Conservancy",
+                  "text": "Egy nagy magán természetvédelmi terület az Elementaita-tó körül, amely a veszélyeztetett Rothschild-zsiráfok megőrzését támogatja.",
+                  "category": "natural",
+                  "coords": [
+                        36.190155,
+                        -0.453416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Elementaita Hot Spring",
+                  "text": "Izvoare termale geotermale la Lacul Elementaita puternic alcalin, unde apele termale naturale ies la suprafață din stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        36.25652,
+                        -0.473277
+                  ]
+            },
+            {
+                  "name": "Upper Lake view stp",
+                  "text": "Un punct de belvedere înalt în Kariandusi istoric, oferind o panoramă extinsă asupra bazinului Lacului Elementaita.",
+                  "category": "natural",
+                  "coords": [
+                        36.267084,
+                        -0.461973
+                  ]
+            },
+            {
+                  "name": "Birds view stp",
+                  "text": "Un post de observare pe malul Lacului Elementaita, de unde se pot vedea clar păsările flamingo roz și flamingo pitice.",
+                  "category": "natural",
+                  "coords": [
+                        36.261549,
+                        -0.461048
+                  ]
+            },
+            {
+                  "name": "View on lake",
+                  "text": "Un punct de belvedere lângă situl preistoric Kariandusi, privind direct spre suprafața sărată a Lacului Elementaita.",
+                  "category": "natural",
+                  "coords": [
+                        36.26802,
+                        -0.39788
+                  ]
+            },
+            {
+                  "name": "Kariandusi Museum",
+                  "text": "Un muzeu arheologic ce expune importante topoare de mână preistorice Acheuleene descoperite în Valea Riftului.",
+                  "category": "museum",
+                  "coords": [
+                        36.283885,
+                        -0.451404
+                  ]
+            },
+            {
+                  "name": "Soysambu Conservancy",
+                  "text": "O mare rezervație naturală privată în jurul Lacului Elementaita, care susține conservarea girafelor Rothschild pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        36.190155,
+                        -0.453416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Elementaita Hot Spring",
+                  "text": "Geothermal hot springs by the highly alkaline Lake Elementaita, where natural thermal waters surface from the rock.",
+                  "category": "landmark",
+                  "coords": [
+                        36.25652,
+                        -0.473277
+                  ]
+            },
+            {
+                  "name": "Upper Lake view stp",
+                  "text": "An elevated vantage point in historic Kariandusi providing an extensive panoramic view over the Lake Elementaita basin.",
+                  "category": "natural",
+                  "coords": [
+                        36.267084,
+                        -0.461973
+                  ]
+            },
+            {
+                  "name": "Birds view stp",
+                  "text": "An observation post on the shores of Lake Elementaita where greater and lesser flamingos can be clearly seen.",
+                  "category": "natural",
+                  "coords": [
+                        36.261549,
+                        -0.461048
+                  ]
+            },
+            {
+                  "name": "View on lake",
+                  "text": "A viewpoint near the prehistoric site of Kariandusi looking directly onto the salty surface of Lake Elementaita.",
+                  "category": "natural",
+                  "coords": [
+                        36.26802,
+                        -0.39788
+                  ]
+            },
+            {
+                  "name": "Kariandusi Museum",
+                  "text": "An archaeological museum displaying significant prehistoric Acheulean hand axes discovered in the Rift Valley.",
+                  "category": "museum",
+                  "coords": [
+                        36.283885,
+                        -0.451404
+                  ]
+            },
+            {
+                  "name": "Soysambu Conservancy",
+                  "text": "A large private nature conservancy around Lake Elementaita supporting the preservation of endangered Rothschild's giraffes.",
+                  "category": "natural",
+                  "coords": [
+                        36.190155,
+                        -0.453416
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-32",
     coords: [36.273, -0.454],
@@ -788,7 +3290,124 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
   },
   {
-    id: "hyrax-hill-history-v2",
+    id: "hyrax-hill-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aic murunyu",
+                  "text": "Eine festungsartige Steinstruktur in der Nähe der archäologischen Stätte Hyrax Hill, deren Architektur an ein klassisches Schloss erinnert.",
+                  "category": "castle",
+                  "coords": [
+                        36.152436,
+                        -0.243563
+                  ]
+            },
+            {
+                  "name": "Hyrax Hill",
+                  "text": "Hyrax Hill ist eine bedeutende archäologische Stätte in der Nähe von Nakuru, die für ihre prähistorischen Funde bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.105585,
+                        -0.279374
+                  ]
+            },
+            {
+                  "name": "Site I Late Iron age settlement",
+                  "text": "Die Siedlung Site I aus der späten Eisenzeit bietet physische Beweise für eine frühe menschliche Besiedlung im Gebiet von Hyrax Hill.",
+                  "category": "historical",
+                  "coords": [
+                        36.104753,
+                        -0.283235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aic murunyu",
+                  "text": "Egy erődítményszerű kőépítmény a Hyrax Hill régészeti lelőhely közelében, amelynek építészete egy klasszikus kastélyra emlékeztet.",
+                  "category": "castle",
+                  "coords": [
+                        36.152436,
+                        -0.243563
+                  ]
+            },
+            {
+                  "name": "Hyrax Hill",
+                  "text": "A Hyrax Hill egy fontos régészeti lelőhely Nakuru közelében, amely őskori leleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        36.105585,
+                        -0.279374
+                  ]
+            },
+            {
+                  "name": "Site I Late Iron age settlement",
+                  "text": "A késő vaskori I. lelőhely a korai emberi megtelepedés fizikai bizonyítékait kínálja a Hyrax Hill területén.",
+                  "category": "historical",
+                  "coords": [
+                        36.104753,
+                        -0.283235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aic murunyu",
+                  "text": "O structură de piatră asemănătoare unei fortărețe lângă situl arheologic Hyrax Hill, cu o arhitectură ce amintește de un castel clasic.",
+                  "category": "castle",
+                  "coords": [
+                        36.152436,
+                        -0.243563
+                  ]
+            },
+            {
+                  "name": "Hyrax Hill",
+                  "text": "Hyrax Hill este un important sit arheologic de lângă Nakuru, cunoscut pentru descoperirile sale preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        36.105585,
+                        -0.279374
+                  ]
+            },
+            {
+                  "name": "Site I Late Iron age settlement",
+                  "text": "Așezarea Site I din epoca târzie a fierului oferă dovezi fizice ale locuirii umane timpurii în zona Hyrax Hill.",
+                  "category": "historical",
+                  "coords": [
+                        36.104753,
+                        -0.283235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aic murunyu",
+                  "text": "A fortress-like stone structure near the archaeological site of Hyrax Hill with architecture reminiscent of a classic castle.",
+                  "category": "castle",
+                  "coords": [
+                        36.152436,
+                        -0.243563
+                  ]
+            },
+            {
+                  "name": "Hyrax Hill",
+                  "text": "Hyrax Hill is an important archaeological site known for its prehistoric findings near Nakuru.",
+                  "category": "historical",
+                  "coords": [
+                        36.105585,
+                        -0.279374
+                  ]
+            },
+            {
+                  "name": "Site I Late Iron age settlement",
+                  "text": "The Site I Late Iron Age settlement offers physical evidence of early human habitation in the Hyrax Hill area.",
+                  "category": "historical",
+                  "coords": [
+                        36.104753,
+                        -0.283235
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-32",
     coords: [36.096, -0.278],
@@ -837,7 +3456,52 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/hyrax-hill-history-v2.webp"},
   {
-    id: "kenyatta-house-maralal-history-v2",
+    id: "kenyatta-house-maralal-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirisa Forest Reserve",
+                  "text": "Das Kirisa-Waldreservat schützt ein dichtes Waldökosystem in der Nähe der Stadt Maralal.",
+                  "category": "natural",
+                  "coords": [
+                        36.78802,
+                        1.115779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kirisa Forest Reserve",
+                  "text": "A Kirisa Erdőrezervátum egy sűrű erdei ökoszisztémát véd Maralal városa közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.78802,
+                        1.115779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kirisa Forest Reserve",
+                  "text": "Rezervația Forestieră Kirisa protejează un ecosistem forestier dens în apropierea orașului Maralal.",
+                  "category": "natural",
+                  "coords": [
+                        36.78802,
+                        1.115779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kirisa Forest Reserve",
+                  "text": "The Kirisa Forest Reserve protects a dense woodland ecosystem near the town of Maralal.",
+                  "category": "natural",
+                  "coords": [
+                        36.78802,
+                        1.115779
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-37",
     coords: [36.788, 1.096],
@@ -886,7 +3550,88 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/kenyatta-house-maralal-history-v2.webp"},
   {
-    id: "rabai-museum-history-v2",
+    id: "rabai-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sacred Mijikenda Kaya Rabai Forests",
+                  "text": "Ein üppiger, heiliger Wald, der die historischen befestigten Dörfer der Rabai-Gemeinschaft schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.596296,
+                        -3.933335
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mudzimuvya",
+                  "text": "Ein traditionelles heiliges Waldgebiet, das das tiefe spirituelle Erbe des Mijikenda-Volkes bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.583979,
+                        -3.939324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sacred Mijikenda Kaya Rabai Forests",
+                  "text": "Buja, szent erdő, amely a Rabai közösség történelmi erődített falvait védi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.596296,
+                        -3.933335
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mudzimuvya",
+                  "text": "Hagyományos szent erdei terület, amely a mijikenda nép mély spirituális örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.583979,
+                        -3.939324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sacred Mijikenda Kaya Rabai Forests",
+                  "text": "O pădure luxuriantă, sacră, care protejează satele istorice fortificate ale comunității Rabai.",
+                  "category": "landmark",
+                  "coords": [
+                        39.596296,
+                        -3.933335
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mudzimuvya",
+                  "text": "Un sit împădurit sacru tradițional care păstrează moștenirea spirituală profundă a poporului Mijikenda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.583979,
+                        -3.939324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sacred Mijikenda Kaya Rabai Forests",
+                  "text": "A lush, sacred forest that protects the historic fortified villages of the Rabai community.",
+                  "category": "landmark",
+                  "coords": [
+                        39.596296,
+                        -3.933335
+                  ]
+            },
+            {
+                  "name": "Sacred Kaya Mijikenda Forests - Mudzimuvya",
+                  "text": "A traditional sacred woodland site preserving the deep spiritual heritage of the Mijikenda people.",
+                  "category": "landmark",
+                  "coords": [
+                        39.583979,
+                        -3.939324
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-03",
     coords: [39.566, -3.931],
@@ -935,7 +3680,52 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/rabai-museum-history-v2.webp"},
   {
-    id: "krapf-memorial-history-v2",
+    id: "krapf-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akamba handcraft market",
+                  "text": "Der Akamba Handcraft Market ist eine belebte Handwerkerkooperative, auf der Besucher den Schnitzern bei der Arbeit zusehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624911,
+                        -4.027927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akamba handcraft market",
+                  "text": "Az Akamba Kézműves Piac egy nyüzsgő szövetkezet, ahol a látogatók megnézhetik, ahogy a helyi faragók faszobrokat készítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624911,
+                        -4.027927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akamba handcraft market",
+                  "text": "Piața de Artizanat Akamba este o cooperativă unde vizitatorii pot urmări sculptori locali creând sculpturi din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624911,
+                        -4.027927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akamba handcraft market",
+                  "text": "The Akamba Handcraft Market is a bustling artisans' cooperative where visitors can watch local carvers create intricate wooden sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624911,
+                        -4.027927
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-01",
     coords: [39.633, -4.015],
@@ -1180,7 +3970,88 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/lokitaung-gorge-history-v2.webp"},
   {
-    id: "wajir-fort-history-v2",
+    id: "wajir-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shuman place",
+                  "text": "Shuman Place ist eine Kulturstätte in der Nähe des historischen Wajir Forts, die die widerstandsfähige Wüstenarchitektur der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "Der Amira-Garten bietet eine seltene, schattige grüne Oase inmitten des trockenen historischen Viertels rund um das Wajir Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shuman place",
+                  "text": "A Shuman hely a történelmi Wajir-erőd közelében fekvő kulturális helyszín, amely a régió ellenálló sivatagi építészetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "Az Amira-kert egy ritka, árnyékos zöld oázist kínál a Wajir-erőd körüli száraz történelmi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shuman place",
+                  "text": "Locul Shuman este un sit cultural situat în apropierea istoricului Fort Wajir, reflectând arhitectura deșertică rezistentă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "Grădina Amira oferă o rară oază verde umbrită în mijlocul cartierului istoric arid din jurul Fortului Wajir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shuman place",
+                  "text": "Shuman place is a cultural site situated near the historic Wajir Fort, reflecting the resilient desert architecture of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "Amira garden offers a rare, shaded green oasis amid the arid historical district around Wajir Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-08",
     coords: [40.058, 1.748],
@@ -1278,7 +4149,52 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/nandi-hills-history-v2.webp"},
   {
-    id: "makupa-causeway-history-v2",
+    id: "makupa-causeway-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Diese am 4. August 2022 eröffnete Brücke über den Makupa-Damm verbindet die Insel Mombasa mit dem Festland.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651676,
+                        -4.033555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Ez a 2022. augusztus 4-én átadott híd a Makupa-töltésen keresztül köti össze Mombasa szigetét a szárazfölddel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651676,
+                        -4.033555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Deschis pe 4 august 2022, acest pod traversează digul Makupa, conectând insula Mombasa de continent.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651676,
+                        -4.033555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Opened on August 4, 2022, this bridge crosses the Makupa Causeway to connect Mombasa Island with the mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651676,
+                        -4.033555
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-01",
     coords: [39.641, -4.038],
@@ -1327,7 +4243,52 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
      image: "/poi-images/makupa-causeway-history-v2.webp"},
   {
-    id: "pwani-mosque-history-v2",
+    id: "pwani-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shelly beach",
+                  "text": "Shelly Beach ist ein Küstenstreifen, der für seine mit unzähligen Muscheln übersäten Sandstrände bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        39.674535,
+                        -4.094323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shelly beach",
+                  "text": "A Shelly Beach egy homokos tengerparti szakasz, amely a partján található rengeteg kagylóról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        39.674535,
+                        -4.094323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shelly beach",
+                  "text": "Shelly Beach este o porțiune de coastă nisipoasă, cunoscută pentru numeroasele scoici aduse de valuri la țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        39.674535,
+                        -4.094323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shelly beach",
+                  "text": "Shelly Beach is a coastal stretch known for its sandy shores scattered with seashells.",
+                  "category": "recreational",
+                  "coords": [
+                        39.674535,
+                        -4.094323
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-01",
     coords: [39.673, -4.062],
@@ -1377,7 +4338,124 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     
   },
   {
-    id: "fort-smith-history-v2",
+    id: "fort-smith-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Smith",
+                  "text": "Dieses historische Fortgebäude aus der Kolonialzeit spiegelt die frühe britische Siedlungsgeschichte in der Region wider.",
+                  "category": "castle",
+                  "coords": [
+                        36.709661,
+                        -1.246413
+                  ]
+            },
+            {
+                  "name": "hope house",
+                  "text": "Dieses historische Steingebäude in der Nähe von Fort Smith erinnert an die frühe Kolonialarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        36.738193,
+                        -1.268155
+                  ]
+            },
+            {
+                  "name": "School Hall",
+                  "text": "Dieser Bildungssaal beherbergt lokale Schulaufführungen und Gemeindetreffen in Fort Smith.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665387,
+                        -1.261139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Smith",
+                  "text": "Ez a gyarmati korszakból származó történelmi erődítmény a régió korai brit betelepülésének történetét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        36.709661,
+                        -1.246413
+                  ]
+            },
+            {
+                  "name": "hope house",
+                  "text": "Ez a Fort Smith közelében található történelmi kőépület a korai gyarmati építészet emléke.",
+                  "category": "castle",
+                  "coords": [
+                        36.738193,
+                        -1.268155
+                  ]
+            },
+            {
+                  "name": "School Hall",
+                  "text": "Ez az oktatási színházterem helyi iskolai előadásoknak és közösségi összejöveteleknek ad otthont Fort Smith-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665387,
+                        -1.261139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Smith",
+                  "text": "Această structură istorică de fort din epoca colonială reflectă istoria timpurie a așezărilor britanice din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        36.709661,
+                        -1.246413
+                  ]
+            },
+            {
+                  "name": "hope house",
+                  "text": "Această clădire istorică din piatră de lângă Fort Smith stă ca o amintire a arhitecturii coloniale timpurii.",
+                  "category": "castle",
+                  "coords": [
+                        36.738193,
+                        -1.268155
+                  ]
+            },
+            {
+                  "name": "School Hall",
+                  "text": "Această sală de teatru educațională găzduiește spectacole școlare locale și adunări comunitare în Fort Smith.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665387,
+                        -1.261139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Smith",
+                  "text": "This historic colonial-era fort structure reflects early British settlement history in the region.",
+                  "category": "castle",
+                  "coords": [
+                        36.709661,
+                        -1.246413
+                  ]
+            },
+            {
+                  "name": "hope house",
+                  "text": "This historic stone building near Fort Smith stands as a reminder of early colonial architecture.",
+                  "category": "castle",
+                  "coords": [
+                        36.738193,
+                        -1.268155
+                  ]
+            },
+            {
+                  "name": "School Hall",
+                  "text": "This educational theater hall hosts local school performances and community gatherings in Fort Smith.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665387,
+                        -1.261139
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KE-22",
     coords: [36.711, -1.238],

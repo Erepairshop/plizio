@@ -6174,7 +6174,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Ernest Hemmingway Home and Museum",
-                  "text": "The Ernest Hemingway Home and Museum ist ein Museum in Key West, das die Residenz des Schriftstellers Ernest Hemingway war.",
+                  "text": "Hemingways ehemaliges Wohnhaus in Key West, Florida, heute Museum.",
                   "category": "museum",
                   "coords": [
                         -81.800609,
@@ -6228,7 +6228,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truman Little White House",
-                  "text": "Truman Little White House ist ein Museum in Key West.",
+                  "text": "Winterresidenz von Präsident Truman in Key West, Florida, erbaut 1890.",
                   "category": "museum",
                   "coords": [
                         -81.806898,
@@ -6464,7 +6464,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Ernest Hemmingway Home and Museum",
-                  "text": "Az Ernest Hemingway Home and Museum egy múzeum Key Westben, amely Ernest Hemingway író rezidenciája volt.",
+                  "text": "Hemingway egykori otthona a floridai Key Westben, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -81.800609,
@@ -6518,7 +6518,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truman Little White House",
-                  "text": "A Truman Little White House egy múzeum Key Westben.",
+                  "text": "Truman elnök téli rezidenciája a floridai Key Westben, 1890-ben épült.",
                   "category": "museum",
                   "coords": [
                         -81.806898,
@@ -6754,7 +6754,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Ernest Hemmingway Home and Museum",
-                  "text": "The Ernest Hemingway Home and Museum este un muzeu din Key West care a fost reședința scriitorului Ernest Hemingway.",
+                  "text": "Fosta casă a lui Hemingway în Key West, Florida, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -81.800609,
@@ -6808,7 +6808,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truman Little White House",
-                  "text": "Truman Little White House este un muzeu din Key West.",
+                  "text": "Reședința de iarnă a președintelui Truman în Key West, Florida, construită în 1890.",
                   "category": "museum",
                   "coords": [
                         -81.806898,
@@ -7044,7 +7044,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Ernest Hemmingway Home and Museum",
-                  "text": "The Ernest Hemingway Home and Museum is a museum in Key West that was the residence of writer Ernest Hemingway.",
+                  "text": "Hemingway's former home in Key West, Florida, now a museum.",
                   "category": "museum",
                   "coords": [
                         -81.800609,
@@ -7098,7 +7098,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truman Little White House",
-                  "text": "Truman Little White House is a museum in Key West.",
+                  "text": "President Truman's winter retreat in Key West, Florida, built in 1890.",
                   "category": "museum",
                   "coords": [
                         -81.806898,
@@ -7375,7 +7375,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mt. Beacon Fire Observation Tower",
-                  "text": "Der Mt. Beacon Fire Observation Tower in der Hudson-River-Region bietet einen Panoramablick.",
+                  "text": "1931 erbauter Feuerwachtturm auf dem Mount Beacon mit Panoramablick über das Hudson Valley.",
                   "category": "tower",
                   "coords": [
                         -73.944557,
@@ -7728,7 +7728,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mt. Beacon Fire Observation Tower",
-                  "text": "A Mt. Beacon Fire Observation Tower a Hudson-folyó vidékén panorámakilátást nyújt.",
+                  "text": "1931-ben épült tűzfigyelő torony a Beacon-hegyen, kilátással a Hudson-völgyre.",
                   "category": "tower",
                   "coords": [
                         -73.944557,
@@ -8081,7 +8081,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mt. Beacon Fire Observation Tower",
-                  "text": "Turnul de observare a incendiilor Mt. Beacon din regiunea râului Hudson oferă vederi panoramice.",
+                  "text": "Turn de observare a incendiilor construit în 1931 pe Muntele Beacon, cu vedere panoramică asupra Văii Hudson.",
                   "category": "tower",
                   "coords": [
                         -73.944557,
@@ -8434,7 +8434,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mt. Beacon Fire Observation Tower",
-                  "text": "In the Hudson River region, it offers panoramic views.",
+                  "text": "Fire observation tower built 1931 on Mount Beacon with panoramic views of the Hudson Valley.",
                   "category": "tower",
                   "coords": [
                         -73.944557,
@@ -11607,7 +11607,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "West Chop Light",
-                  "text": "West Chop Light ist ein Leuchtturm am West Chop in Martha’s Vineyard.",
+                  "text": "Leuchtturm auf Martha's Vineyard, erbaut 1891.",
                   "category": "landmark",
                   "coords": [
                         -70.599764,
@@ -11933,7 +11933,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "West Chop Light",
-                  "text": "A West Chop Light egy világítótorony a West Chopon, Martha's Vineyardon.",
+                  "text": "Világítótorony Martha's Vineyard szigetén, 1891-ben épült.",
                   "category": "landmark",
                   "coords": [
                         -70.599764,
@@ -12259,7 +12259,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "West Chop Light",
-                  "text": "West Chop Light este un far pe West Chop în Martha's Vineyard.",
+                  "text": "Far pe insula Martha's Vineyard, construit în 1891.",
                   "category": "landmark",
                   "coords": [
                         -70.599764,
@@ -12585,7 +12585,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "West Chop Light",
-                  "text": "West Chop Light is a lighthouse on West Chop in Martha's Vineyard.",
+                  "text": "Lighthouse on Martha's Vineyard, built in 1891.",
                   "category": "landmark",
                   "coords": [
                         -70.599764,

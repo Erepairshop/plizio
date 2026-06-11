@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraEgyptReliefV2: POI[] = [
   {
-    id: "gabal-el-asfar-relief-v2",
+    id: "gabal-el-asfar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancient Heliopolis",
+                  "text": "Einst das spirituelle Zentrum des Sonnengottes Ra, birgt diese riesige archäologische Stätte die begrabenen Ruinen einer der ältesten Großstädte des alten Ägyptens.",
+                  "category": "historical",
+                  "coords": [
+                        31.307928,
+                        30.129248
+                  ]
+            },
+            {
+                  "name": "Alameer",
+                  "text": "Dieses lokal bekannte Ziel zeichnet sich durch eine energiegeladene Marktatmosphäre aus, in der sich die Bewohner zu Gemeinschaftsveranstaltungen und traditionellem Handel versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316663,
+                        30.163345
+                  ]
+            },
+            {
+                  "name": "The two letters",
+                  "text": "Gekennzeichnet durch ein markantes großformatiges skulpturales Schild, hat sich diese skurrile lokale Attraktion zu einem beliebten Hintergrund für Nachbarschaftsfotografie entwickelt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.399801,
+                        30.149545
+                  ]
+            },
+            {
+                  "name": "Airport Opera Hall",
+                  "text": "Die Airport Opera Hall ist eine markante Kultureinrichtung in Gabal el-Asfar.",
+                  "category": "cultural",
+                  "coords": [
+                        31.391762,
+                        30.118119
+                  ]
+            },
+            {
+                  "name": "Reftrak Egypt Refrigeration Company",
+                  "text": "Die Reftrak Egypt Refrigeration Company in Gabal el-Asfar ist eine große Industrieanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3968,
+                        30.138915
+                  ]
+            },
+            {
+                  "name": "Ramses II Obelisk",
+                  "text": "Der Obelisk von Ramses II. ragt als antikes, in den Himmel weisendes Granitmonument über Gabal el-Asfar.",
+                  "category": "historical",
+                  "coords": [
+                        31.400658,
+                        30.124632
+                  ]
+            },
+            {
+                  "name": "The Tree of Virgin Mary",
+                  "text": "Der Baum der Jungfrau Maria in Gabal el-Asfar ist ein verehrtes Heiligtum und ein Symbol altchristlicher Legenden.",
+                  "category": "historical",
+                  "coords": [
+                        31.30886,
+                        30.120546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancient Heliopolis",
+                  "text": "Az egykor Ré napisten spirituális központjaként működő hatalmas régészeti lelőhely az ókori Egyiptom egyik legrégebbi nagyvárosának betemetett romjait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        31.307928,
+                        30.129248
+                  ]
+            },
+            {
+                  "name": "Alameer",
+                  "text": "Ez a helyi szinten híres célpont energikus piaci atmoszférával büszkélkedhet, ahol a lakosok közösségi eseményekre és hagyományos kereskedelemre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316663,
+                        30.163345
+                  ]
+            },
+            {
+                  "name": "The two letters",
+                  "text": "Egy jellegzetes nagyméretű szoborszerű táblával büszkélkedő mókás helyi látványosság a környékbeli fotózások népszerű hátterévé vált.",
+                  "category": "landmark",
+                  "coords": [
+                        31.399801,
+                        30.149545
+                  ]
+            },
+            {
+                  "name": "Airport Opera Hall",
+                  "text": "Az Airport Opera Hall egy kulturális színházi létesítmény Gabal el-Asfar környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        31.391762,
+                        30.118119
+                  ]
+            },
+            {
+                  "name": "Reftrak Egypt Refrigeration Company",
+                  "text": "A Reftrak Egypt Refrigeration Company egy jelentős ipari létesítmény Gabal el-Asfar területén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3968,
+                        30.138915
+                  ]
+            },
+            {
+                  "name": "Ramses II Obelisk",
+                  "text": "A II. Ramszesz obeliszk egy lenyűgöző ókori gránit emlékmű Gabal el-Asfar közelében.",
+                  "category": "historical",
+                  "coords": [
+                        31.400658,
+                        30.124632
+                  ]
+            },
+            {
+                  "name": "The Tree of Virgin Mary",
+                  "text": "Szűz Mária fája Gabal el-Asfarban egy ősi vallási legenda tiszteletben tartott szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        31.30886,
+                        30.120546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancient Heliopolis",
+                  "text": "Odată centrul spiritual al zeului soare Ra, acest vast sit arheologic conține ruinele îngropate ale unuia dintre cele mai vechi orașe majore ale Egiptului Antic.",
+                  "category": "historical",
+                  "coords": [
+                        31.307928,
+                        30.129248
+                  ]
+            },
+            {
+                  "name": "Alameer",
+                  "text": "Această destinație renumită la nivel local are o atmosferă energetică de piață, unde rezidenții se adună pentru evenimente comunitare și comerț tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316663,
+                        30.163345
+                  ]
+            },
+            {
+                  "name": "The two letters",
+                  "text": "Caracterizată printr-un semn sculptural la scară largă distinctiv, această atracție locală excentrică a devenit un fundal popular pentru fotografia de cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        31.399801,
+                        30.149545
+                  ]
+            },
+            {
+                  "name": "Airport Opera Hall",
+                  "text": "Airport Opera Hall este o sală de teatru pentru spectacole culturale în zona Gabal el-Asfar.",
+                  "category": "cultural",
+                  "coords": [
+                        31.391762,
+                        30.118119
+                  ]
+            },
+            {
+                  "name": "Reftrak Egypt Refrigeration Company",
+                  "text": "Compania Reftrak Egypt Refrigeration din Gabal el-Asfar este un punct de atracție industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3968,
+                        30.138915
+                  ]
+            },
+            {
+                  "name": "Ramses II Obelisk",
+                  "text": "Obeliscul lui Ramses al II-lea este un monument antic din granit situat în apropiere de Gabal el-Asfar.",
+                  "category": "historical",
+                  "coords": [
+                        31.400658,
+                        30.124632
+                  ]
+            },
+            {
+                  "name": "The Tree of Virgin Mary",
+                  "text": "Copacul Fecioarei Maria din Gabal el-Asfar este un loc sfânt venerat, legat de tradițiile creștine străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        31.30886,
+                        30.120546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancient Heliopolis",
+                  "text": "Once the spiritual center of the sun god Ra, this vast archaeological site contains the buried ruins of one of Ancient Egypt's oldest major cities.",
+                  "category": "historical",
+                  "coords": [
+                        31.307928,
+                        30.129248
+                  ]
+            },
+            {
+                  "name": "Alameer",
+                  "text": "This locally renowned destination features an energetic marketplace atmosphere where residents gather for community events and traditional commerce.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316663,
+                        30.163345
+                  ]
+            },
+            {
+                  "name": "The two letters",
+                  "text": "Characterized by a distinctive large-scale sculptural sign, this quirky local attraction has become a popular background for neighborhood photography.",
+                  "category": "landmark",
+                  "coords": [
+                        31.399801,
+                        30.149545
+                  ]
+            },
+            {
+                  "name": "Airport Opera Hall",
+                  "text": "The Airport Opera Hall serves as a modern theatrical performance venue in the Gabal el-Asfar area.",
+                  "category": "cultural",
+                  "coords": [
+                        31.391762,
+                        30.118119
+                  ]
+            },
+            {
+                  "name": "Reftrak Egypt Refrigeration Company",
+                  "text": "The Reftrak Egypt Refrigeration Company stands as a notable industrial and commercial facility in Gabal el-Asfar.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3968,
+                        30.138915
+                  ]
+            },
+            {
+                  "name": "Ramses II Obelisk",
+                  "text": "The Ramses II Obelisk is an imposing ancient granite monument reaching skyward near Gabal el-Asfar.",
+                  "category": "historical",
+                  "coords": [
+                        31.400658,
+                        30.124632
+                  ]
+            },
+            {
+                  "name": "The Tree of Virgin Mary",
+                  "text": "The Tree of Virgin Mary in Gabal el-Asfar is a revered living monument linked to early Christian holy family legends.",
+                  "category": "historical",
+                  "coords": [
+                        31.30886,
+                        30.120546
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EG-C",
     coords: [31.3333, 30.1333],
@@ -726,7 +987,52 @@ export const poiExtraEgyptReliefV2: POI[] = [
       fr: ["Situé dans les hauts plateaux centraux de la péninsule du Sinaï", "Se compose principalement de roches magmatiques anciennes", "Dispose de bassins rocheux naturels pour la collecte de l'eau de pluie", "Abrite diverses herbes médicinales rares du désert", "Zone de passage traditionnelle pour les tribus bédouines", "Offre des vues dégagées jusqu'au plateau du Tih au nord"],
     }, image: "/poi-images/gabal-el-himeiyan-relief-v2.webp"},
   {
-    id: "gabal-el-shayib-relief-v2",
+    id: "gabal-el-shayib-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barud",
+                  "text": "Eine archäologische Stätte mit antiken Ruinen, eingebettet in das raue, bergige Gelände von Gabal El Shayib.",
+                  "category": "historical",
+                  "coords": [
+                        33.58535,
+                        26.76706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barud",
+                  "text": "Ősi romokat rejtő régészeti lelőhely Gabal El Shayib zord, hegyvidéki terepén.",
+                  "category": "historical",
+                  "coords": [
+                        33.58535,
+                        26.76706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barud",
+                  "text": "Un sit arheologic cu ruine antice ascuns în terenul accidentat și muntos din Gabal El Shayib.",
+                  "category": "historical",
+                  "coords": [
+                        33.58535,
+                        26.76706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barud",
+                  "text": "An archaeological site with ancient ruins nestled within the rugged, mountainous terrain of Gabal El Shayib.",
+                  "category": "historical",
+                  "coords": [
+                        33.58535,
+                        26.76706
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EG-RS",
     coords: [33.5833, 26.8333],

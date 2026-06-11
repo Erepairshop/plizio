@@ -51,7 +51,52 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       fr: ["Plus de 3 000 ans", "Représente des girafes et des autruches", "L'un des plus grands ensembles d'Afrique", "Témoignage d'un passé plus fertile"],
     }, image: "/poi-images/abourma-petroglyphs-history-v2.webp"},
   {
-    id: "ras-bir-lighthouse-history-v2",
+    id: "ras-bir-lighthouse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Ras Bir",
+                  "text": "Dieser Leuchtturm an der Küste weist Seefahrern mit seinem Signalfeuer den sicheren Weg durch die nahen Gewässer.",
+                  "category": "landmark",
+                  "coords": [
+                        43.361903,
+                        11.980465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Ras Bir",
+                  "text": "Ez a part menti világítótorony jelzőfényével mutatja a biztonságos utat a tengerészeknek a közeli vizeken.",
+                  "category": "landmark",
+                  "coords": [
+                        43.361903,
+                        11.980465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Ras Bir",
+                  "text": "Acest far de coastă ghidează marinarii cu lumina sa de semnalizare printr-un drum sigur în apele din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        43.361903,
+                        11.980465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lighthouse",
+                  "text": "This coastal lighthouse guides seafarers with its beacon through a safe path in the nearby waters.",
+                  "category": "landmark",
+                  "coords": [
+                        43.361903,
+                        11.980465
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-OB",
     coords: [43.362, 11.981],
@@ -99,7 +144,268 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       fr: ["Première tour érigée en 1889", "Crucial pour la route du canal de Suez", "Point stratégique sur le Bab el-Mandeb", "Aujourd'hui remplacé par une tour moderne"],
     }, image: "/poi-images/ras-bir-lighthouse-history-v2.webp"},
   {
-    id: "sagallou-fort-history-v2",
+    id: "sagallou-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anḏêḏalou",
+                  "text": "Anḏêḏalou ist eine küstennahe Erhebung mit Blick auf das historische Gebiet des Sagallou-Forts aus dem 19. Jahrhundert.",
+                  "category": "natural",
+                  "coords": [
+                        42.676389,
+                        11.714722
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "Garrôni ‘Ale ist ein felsiger Hügel, der strategische Aussichtspunkte nahe der historischen russischen Siedlung Sagallou bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "Hankatta",
+                  "text": "Hankatta ist ein karger Gipfel, der sich über die trockenen Küstenebenen rund um das ehemalige Sagallou-Fort erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Gâli Kôma",
+                  "text": "Gâli Kôma ist ein markanter Berggipfel, der landeinwärts der historischen Küstenruinen von Sagallou liegt.",
+                  "category": "natural",
+                  "coords": [
+                        42.684722,
+                        11.659444
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma ist ein rötlicher vulkanischer Gipfel, der die historischen Landschaften der Sagallou-Region überragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            },
+            {
+                  "name": "Doyn Dâba",
+                  "text": "Doyn Dâba ist eine schroffe Kuppe, die die trockene Topographie rund um das historische Sagallou-Gebiet prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.643889,
+                        11.676111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Ouḏ Kôma ist eine steile Hügelkuppe mit herrlichem Blick über den Golf von Tadjoura bei Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.64,
+                        11.666111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anḏêḏalou",
+                  "text": "Az Anḏêḏalou egy tengerparti magaslat, amely a 19. századi sagalloui erőd történelmi területére néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.676389,
+                        11.714722
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "A Garrôni ‘Ale egy sziklás domb, amely stratégiai kilátópontokat kínál a történelmi orosz település, Sagallou közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "Hankatta",
+                  "text": "A Hankatta egy kopár hegycsúcs, amely az egykori sagalloui erőd körüli száraz tengerparti síkságok fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Gâli Kôma",
+                  "text": "A Gâli Kôma egy jellegzetes hegycsúcs, amely a történelmi tengerparti Sagallou romjaitól a szárazföld belsejében található.",
+                  "category": "natural",
+                  "coords": [
+                        42.684722,
+                        11.659444
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "Az ‘Asa Kôma egy vöröses vulkáni hegycsúcs, amely a Sagallou régió történelmi tájai fölé tornyosul.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            },
+            {
+                  "name": "Doyn Dâba",
+                  "text": "A Doyn Dâba egy zord hegygerinc, amely a történelmi Sagallou területét körülvevő száraz domborzatot határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        42.643889,
+                        11.676111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Az Ouḏ Kôma egy meredek dombtető, ahonnan fenséges kilátás nyílik a Tadjoura-öbölre Sagallou közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.64,
+                        11.666111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anḏêḏalou",
+                  "text": "Anḏêḏalou este o înălțime de coastă care domină zona istorică a fortului Sagallou din secolul al XIX-lea.",
+                  "category": "natural",
+                  "coords": [
+                        42.676389,
+                        11.714722
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "Garrôni ‘Ale este un deal stâncos care oferă puncte de observație strategice lângă așezarea istorică rusă Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "Hankatta",
+                  "text": "Hankatta este un vârf arid care se înalță deasupra câmpiilor de coastă uscate din jurul fostului fort Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Gâli Kôma",
+                  "text": "Gâli Kôma este un vârf montan distinct situat în interiorul continentului, departe de ruinele de coastă istorice ale Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.684722,
+                        11.659444
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma este un vârf vulcanic roșiatic care se înalță peste peisajele istorice din regiunea Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            },
+            {
+                  "name": "Doyn Dâba",
+                  "text": "Doyn Dâba este o creastă accidentată care definește topografia aridă ce înconjoară zona istorică Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.643889,
+                        11.676111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Ouḏ Kôma este o culme abruptă care oferă vederi impunătoare asupra Golfului Tadjoura, lângă Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.64,
+                        11.666111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anḏêḏalou",
+                  "text": "Anḏêḏalou is a coastal elevation overlooking the historic area of the 19th-century Sagallou fort.",
+                  "category": "natural",
+                  "coords": [
+                        42.676389,
+                        11.714722
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "Garrôni ‘Ale is a rocky hill providing strategic vantage points near the historical Russian settlement of Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "Hankatta",
+                  "text": "Hankatta is a barren peak rising above the arid coastal plains around the former Sagallou fort.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Gâli Kôma",
+                  "text": "Gâli Kôma is a distinct mountain summit located inland from the historic coastal ruins of Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.684722,
+                        11.659444
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma is a reddish volcanic peak towering over the historic landscapes of the Sagallou region.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            },
+            {
+                  "name": "Doyn Dâba",
+                  "text": "Doyn Dâba is a rugged crest defining the arid topography surrounding the historic Sagallou area.",
+                  "category": "natural",
+                  "coords": [
+                        42.643889,
+                        11.676111
+                  ]
+            },
+            {
+                  "name": "Ouḏ Kôma",
+                  "text": "Ouḏ Kôma is a steep hilltop offering commanding views over the Gulf of Tadjoura near Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.64,
+                        11.666111
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-TA",
     coords: [42.73, 11.67],
@@ -294,7 +600,88 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     }
   },
   {
-    id: "asa-koma-history-v2",
+    id: "asa-koma-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baddi Kôma",
+                  "text": "Baddi Kôma ist ein markanter Hügel, der sich in der Nähe der historischen archäologischen Stätten der Asa-Koma-Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        41.881057,
+                        11.090854
+                  ]
+            },
+            {
+                  "name": "Fumarole",
+                  "text": "Diese aktive vulkanische Fumarole stößt dampfende Gase aus den geothermischen Tiefen nahe Asa Koma aus.",
+                  "category": "landmark",
+                  "coords": [
+                        41.870152,
+                        11.113664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baddi Kôma",
+                  "text": "A Baddi Kôma egy jellegzetes domb, amely az Asa Koma terület történelmi régészeti lelőhelyei közelében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        41.881057,
+                        11.090854
+                  ]
+            },
+            {
+                  "name": "Fumarole",
+                  "text": "Ez az aktív vulkáni fumarola gőzölgő gázokat bocsát ki az Asa Koma közeli geotermikus mélységekből.",
+                  "category": "landmark",
+                  "coords": [
+                        41.870152,
+                        11.113664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baddi Kôma",
+                  "text": "Baddi Kôma este un deal distinct care se înalță lângă siturile arheologice istorice din zona Asa Koma.",
+                  "category": "natural",
+                  "coords": [
+                        41.881057,
+                        11.090854
+                  ]
+            },
+            {
+                  "name": "Fumarole",
+                  "text": "Această fumarolă vulcanică activă emană gaze aburinde din adâncurile geotermale de lângă Asa Koma.",
+                  "category": "landmark",
+                  "coords": [
+                        41.870152,
+                        11.113664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baddi Kôma",
+                  "text": "Baddi Kôma is a distinguished hill rising near the historic archaeological sites of the Asa Koma area.",
+                  "category": "natural",
+                  "coords": [
+                        41.881057,
+                        11.090854
+                  ]
+            },
+            {
+                  "name": "Fumarole",
+                  "text": "This active volcanic fumarole vents steaming gases from the geothermal depths near Asa Koma.",
+                  "category": "landmark",
+                  "coords": [
+                        41.870152,
+                        11.113664
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-DI",
     coords: [41.8, 11.1],
@@ -342,7 +729,88 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       fr: ["Importantes découvertes de céramiques", "Restes d'animaux sauvages disparus", "Preuves de techniques de pêche précoces", "Fait partie de la culture lacustre préhistorique"],
     }, image: "/poi-images/asa-koma-history-v2.webp"},
   {
-    id: "wakrita-settlement-history-v2",
+    id: "wakrita-settlement-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dîmoli Kôma",
+                  "text": "Dimoli Koma ist ein steiler Hügel, der die antiken archäologischen Überreste der Siedlung Wakrita überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        42.098611,
+                        11.544167
+                  ]
+            },
+            {
+                  "name": "Dirablou",
+                  "text": "Der schroffe Gipfel des Dirablou bietet einen natürlichen Aussichtspunkt nahe den historischen Ruinen von Wakrita.",
+                  "category": "natural",
+                  "coords": [
+                        42.160278,
+                        11.531667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dîmoli Kôma",
+                  "text": "A Dimoli Koma egy meredek domb, amely a Wakrita település ősi régészeti maradványaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.098611,
+                        11.544167
+                  ]
+            },
+            {
+                  "name": "Dirablou",
+                  "text": "A Dirablou zord csúcsa természetes kilátópontot nyújt Wakrita történelmi romjai közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.160278,
+                        11.531667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dîmoli Kôma",
+                  "text": "Dimoli Koma este un deal abrupt cu vedere la vechile vestigii arheologice ale așezării Wakrita.",
+                  "category": "natural",
+                  "coords": [
+                        42.098611,
+                        11.544167
+                  ]
+            },
+            {
+                  "name": "Dirablou",
+                  "text": "Vârful accidentat al Dirablou oferă un punct de belvedere natural lângă ruinele istorice din Wakrita.",
+                  "category": "natural",
+                  "coords": [
+                        42.160278,
+                        11.531667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dimoli Koma",
+                  "text": "Dimoli Koma is a steep hill that overlooks the ancient archaeological remnants of the Wakrita settlement.",
+                  "category": "natural",
+                  "coords": [
+                        42.098611,
+                        11.544167
+                  ]
+            },
+            {
+                  "name": "Dirablou",
+                  "text": "The rugged peak of Dirablou provides a natural vantage point near the historic ruins of Wakrita.",
+                  "category": "natural",
+                  "coords": [
+                        42.160278,
+                        11.531667
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-DI",
     coords: [42.1, 11.5],
@@ -391,7 +859,124 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     }
   },
   {
-    id: "goda-megaliths-history-v2",
+    id: "goda-megaliths-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gâgou",
+                  "text": "Gâgou ist ein hoch aufragender Gipfel in einer Gegend, die historisch für die alten Goda-Megalithen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.700019,
+                        11.81667
+                  ]
+            },
+            {
+                  "name": "Waḏaḏ",
+                  "text": "Waḏaḏ ist ein zerklüfteter Berggipfel in der Nähe der archäologischen Megalithstätten der Goda-Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.693333,
+                        11.807778
+                  ]
+            },
+            {
+                  "name": "Gafno",
+                  "text": "Gafno ist ein markanter Gipfel vor der historisch reichen Landschaft der Goda-Megalithen.",
+                  "category": "natural",
+                  "coords": [
+                        42.696111,
+                        11.819722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gâgou",
+                  "text": "A Gâgou egy tornyosuló hegycsúcs, amely az ősi Goda-megalitokról történelmileg ismert területen található.",
+                  "category": "natural",
+                  "coords": [
+                        42.700019,
+                        11.81667
+                  ]
+            },
+            {
+                  "name": "Waḏaḏ",
+                  "text": "A Waḏaḏ egy zord hegycsúcs a Goda régió régészeti megalitikus lelőhelyei közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.693333,
+                        11.807778
+                  ]
+            },
+            {
+                  "name": "Gafno",
+                  "text": "A Gafno egy lenyűgöző csúcs, amely a Goda megalitjait körülvevő, történelemben gazdag tájból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        42.696111,
+                        11.819722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gâgou",
+                  "text": "Gâgou este un vârf falnic situat într-o zonă cunoscută istoric pentru megaliții antici din Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.700019,
+                        11.81667
+                  ]
+            },
+            {
+                  "name": "Waḏaḏ",
+                  "text": "Waḏaḏ este un vârf montan stâncos situat în apropierea siturilor arheologice megalitice din regiunea Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.693333,
+                        11.807778
+                  ]
+            },
+            {
+                  "name": "Gafno",
+                  "text": "Gafno este un vârf impresionant, profilat pe peisajul bogat istoric care înconjoară megaliții din Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.696111,
+                        11.819722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gâgou",
+                  "text": "Gâgou is a towering peak located in an area historically known for the ancient Goda megaliths.",
+                  "category": "natural",
+                  "coords": [
+                        42.700019,
+                        11.81667
+                  ]
+            },
+            {
+                  "name": "Waḏaḏ",
+                  "text": "Waḏaḏ is a rugged mountain summit situated near the archaeological megalith sites of the Goda region.",
+                  "category": "natural",
+                  "coords": [
+                        42.693333,
+                        11.807778
+                  ]
+            },
+            {
+                  "name": "Gafno",
+                  "text": "Gafno is a striking peak set against the historically rich landscape surrounding the Goda megaliths.",
+                  "category": "natural",
+                  "coords": [
+                        42.696111,
+                        11.819722
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-TA",
     coords: [42.7, 11.8],
@@ -439,7 +1024,52 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       fr: ["Alignements de pierres mégalithiques", "Lieux de sépulture préislamiques", "Dispersés dans toute la montagne", "Énigmes archéologiques"],
     }, image: "/poi-images/goda-megaliths-history-v2.webp"},
   {
-    id: "dikhil-fortress-history-v2",
+    id: "dikhil-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Assa-Ahmed",
+                  "text": "Assa-Ahmed ist ein dominanter Gipfel, der die historische Festungsregion Dikhil überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        42.333333,
+                        11.166667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Assa-Ahmed",
+                  "text": "Az Assa-Ahmed egy uralkodó hegycsúcs, amely a történelmi Dikhil erődvidékre néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.333333,
+                        11.166667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Assa-Ahmed",
+                  "text": "Assa-Ahmed este un vârf impunător care domină regiunea istorică a fortăreței Dikhil.",
+                  "category": "natural",
+                  "coords": [
+                        42.333333,
+                        11.166667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Assa-Ahmed",
+                  "text": "Assa-Ahmed is a commanding peak overlooking the historic Dikhil fortress region.",
+                  "category": "natural",
+                  "coords": [
+                        42.333333,
+                        11.166667
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-DI",
     coords: [42.37, 11.11],
@@ -488,7 +1118,340 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     }
   },
   {
-    id: "ali-sabieh-viaduct-history-v2",
+    id: "ali-sabieh-viaduct-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oudougo Djîfta",
+                  "text": "Dieser felsige Gipfel in der Nähe des historischen Gebiets ali-sabieh-viaduct-history-v2 bietet einen imposanten Aussichtspunkt über die historische Eisenbahnstrecke, die sich durch die Hügel schlängelt.",
+                  "category": "natural",
+                  "coords": [
+                        42.623889,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "‘Armâlé",
+                  "text": "Die rauen Hänge dieses Gipfels, der das Gelände um das ali-sabieh-viaduct-history-v2 überblickt, erheben sich deutlich über die Landschaft, die von frühen Ingenieursarbeiten geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.685,
+                        11.139167
+                  ]
+            },
+            {
+                  "name": "Damêr Kaḏḏa‘",
+                  "text": "Dieser imposante Gipfel in der Zone ali-sabieh-viaduct-history-v2 steht als Naturdenkmal in der Nähe des Ortes, an dem einst historische Infrastruktur die tiefen Täler überbrückte.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.143889
+                  ]
+            },
+            {
+                  "name": "Ḏagahha Ḏadanayya",
+                  "text": "Dieser Gipfel, der durch steile Felsformationen gekennzeichnet ist, ragt in der Nähe des ali-sabieh-viaduct-history-v2 in die Höhe und wacht über die trockenen Täler, die frühe Eisenbahnbauer herausforderten.",
+                  "category": "natural",
+                  "coords": [
+                        42.720833,
+                        11.124722
+                  ]
+            },
+            {
+                  "name": "Ârréï",
+                  "text": "Als Teil der gebirgigen Kulisse des Gebiets ali-sabieh-viaduct-history-v2 wurde dieser Gipfel durch jahrhundertelange Verwitterung im trockenen Klima geformt.",
+                  "category": "natural",
+                  "coords": [
+                        42.724722,
+                        11.091389
+                  ]
+            },
+            {
+                  "name": "Sôfe",
+                  "text": "Dieser natürliche Gipfel in der historisch reichen Region ali-sabieh-viaduct-history-v2 bietet Panoramablicke auf die umliegende raue Topografie und die Pfade der Kolonialzeit.",
+                  "category": "natural",
+                  "coords": [
+                        42.7075,
+                        11.061389
+                  ]
+            },
+            {
+                  "name": "Ouaraga Goldahanléï",
+                  "text": "Diese felsige Erhebung in der Nähe des ali-sabieh-viaduct-history-v2 ist eine deutliche Erinnerung an das schwierige Gelände, das die alte Eisenbahn passierte.",
+                  "category": "natural",
+                  "coords": [
+                        42.688889,
+                        11.063611
+                  ]
+            },
+            {
+                  "name": "Êlka Galîle",
+                  "text": "Der Berggipfel Êlka Galîle erhebt sich in der zerklüfteten afrikanischen Landschaft nahe Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.1
+                  ]
+            },
+            {
+                  "name": "Labakourousle",
+                  "text": "Der Gipfel Labakourousle prägt das gebirgige Relief in der Region um Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.666667,
+                        11.083333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oudougo Djîfta",
+                  "text": "A történelmi ali-sabieh-viaduct-history-v2 terület közelében található sziklás csúcs lenyűgöző kilátópontot nyújt a dombok között kanyargó történelmi vasútvonalra.",
+                  "category": "natural",
+                  "coords": [
+                        42.623889,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "‘Armâlé",
+                  "text": "Az ali-sabieh-viaduct-history-v2 körüli terepre néző csúcs zord lejtői élesen kiemelkednek a korai mérnöki munkák által formált tájból.",
+                  "category": "natural",
+                  "coords": [
+                        42.685,
+                        11.139167
+                  ]
+            },
+            {
+                  "name": "Damêr Kaḏḏa‘",
+                  "text": "Ez az impozáns csúcs az ali-sabieh-viaduct-history-v2 zónában természeti emlékműként áll annak a helynek a közelében, ahol egykor történelmi infrastruktúra ívelte át a mély völgyeket.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.143889
+                  ]
+            },
+            {
+                  "name": "Ḏagahha Ḏadanayya",
+                  "text": "A meredek sziklaképződményekkel jellemezhető csúcs az ali-sabieh-viaduct-history-v2 közelében magasodik, és azokat a száraz völgyeket figyeli, amelyek kihívást jelentettek a korai vasútépítők számára.",
+                  "category": "natural",
+                  "coords": [
+                        42.720833,
+                        11.124722
+                  ]
+            },
+            {
+                  "name": "Ârréï",
+                  "text": "Az ali-sabieh-viaduct-history-v2 terület hegyvidéki hátterének részeként ezt a csúcsot az évszázadokon át tartó mállás formálta a száraz éghajlaton.",
+                  "category": "natural",
+                  "coords": [
+                        42.724722,
+                        11.091389
+                  ]
+            },
+            {
+                  "name": "Sôfe",
+                  "text": "A történelmileg gazdag ali-sabieh-viaduct-history-v2 régióban található természetes csúcs panorámás kilátást nyújt a környező zord topográfiára és a gyarmati idők útvonalaira.",
+                  "category": "natural",
+                  "coords": [
+                        42.7075,
+                        11.061389
+                  ]
+            },
+            {
+                  "name": "Ouaraga Goldahanléï",
+                  "text": "Az ali-sabieh-viaduct-history-v2 helyszín közelében kiemelkedő sziklás magaslat éles emlékeztető a nehéz terepre, amelyen a régi vasút navigált.",
+                  "category": "natural",
+                  "coords": [
+                        42.688889,
+                        11.063611
+                  ]
+            },
+            {
+                  "name": "Êlka Galîle",
+                  "text": "Az Êlka Galîle egy hegycsúcs, amely Ali Sabieh közelében magasodik a száraz afrikai táj fölé.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.1
+                  ]
+            },
+            {
+                  "name": "Labakourousle",
+                  "text": "A Labakourousle hegycsúcs meghatározó eleme az Ali Sabieh körüli domborzatnak.",
+                  "category": "natural",
+                  "coords": [
+                        42.666667,
+                        11.083333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oudougo Djîfta",
+                  "text": "Situat în apropierea zonei istorice ali-sabieh-viaduct-history-v2, acest vârf stâncos oferă un punct de belvedere impunător asupra traseului istoric al căii ferate care șerpuiește prin dealuri.",
+                  "category": "natural",
+                  "coords": [
+                        42.623889,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "‘Armâlé",
+                  "text": "Dominând terenul din jurul ali-sabieh-viaduct-history-v2, pantele accidentate ale acestui summit se înalță distinct deasupra peisajului modelat de lucrări inginerești timpurii.",
+                  "category": "natural",
+                  "coords": [
+                        42.685,
+                        11.139167
+                  ]
+            },
+            {
+                  "name": "Damêr Kaḏḏa‘",
+                  "text": "Acest vârf impunător din zona ali-sabieh-viaduct-history-v2 stă ca un monument natural în apropierea locului unde infrastructura istorică a acoperit odată văile adânci.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.143889
+                  ]
+            },
+            {
+                  "name": "Ḏagahha Ḏadanayya",
+                  "text": "Caracterizat de formațiuni stâncoase abrupte, acest vârf se înalță lângă ali-sabieh-viaduct-history-v2, veghind asupra văilor aride care au provocat primii constructori de căi ferate.",
+                  "category": "natural",
+                  "coords": [
+                        42.720833,
+                        11.124722
+                  ]
+            },
+            {
+                  "name": "Ârréï",
+                  "text": "Formând o parte a fundalului muntos pentru zona ali-sabieh-viaduct-history-v2, acest vârf este modelat de secole de eroziune în climatul uscat.",
+                  "category": "natural",
+                  "coords": [
+                        42.724722,
+                        11.091389
+                  ]
+            },
+            {
+                  "name": "Sôfe",
+                  "text": "Situat în regiunea bogată istoric ali-sabieh-viaduct-history-v2, acest vârf natural oferă priveliști panoramice ale topografiei accidentate din jur și ale căilor din epoca colonială.",
+                  "category": "natural",
+                  "coords": [
+                        42.7075,
+                        11.061389
+                  ]
+            },
+            {
+                  "name": "Ouaraga Goldahanléï",
+                  "text": "Situată proeminent lângă situl ali-sabieh-viaduct-history-v2, această elevație stâncoasă este o amintire puternică a terenului dificil pe care vechea cale ferată l-a navigat.",
+                  "category": "natural",
+                  "coords": [
+                        42.688889,
+                        11.063611
+                  ]
+            },
+            {
+                  "name": "Êlka Galîle",
+                  "text": "Vârful Êlka Galîle se înalță deasupra peisajului arid din apropiere de Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.1
+                  ]
+            },
+            {
+                  "name": "Labakourousle",
+                  "text": "Vârful Labakourousle domină relieful montan din regiunea Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.666667,
+                        11.083333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oudougo Djîfta",
+                  "text": "Situated near the historical ali-sabieh-viaduct-history-v2 area, this rocky peak provides a commanding viewpoint over the historic railway route winding through the hills.",
+                  "category": "natural",
+                  "coords": [
+                        42.623889,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "‘Armâlé",
+                  "text": "Overlooking the terrain around ali-sabieh-viaduct-history-v2, this summit's rugged slopes rise distinctly above the landscape shaped by early engineering works.",
+                  "category": "natural",
+                  "coords": [
+                        42.685,
+                        11.139167
+                  ]
+            },
+            {
+                  "name": "Damêr Kaḏḏa‘",
+                  "text": "This imposing peak in the ali-sabieh-viaduct-history-v2 zone stands as a natural monument near where historical infrastructure once bridged the deep valleys.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.143889
+                  ]
+            },
+            {
+                  "name": "Ḏagahha Ḏadanayya",
+                  "text": "Characterized by steep rock formations, this peak towers near the ali-sabieh-viaduct-history-v2, watching over the arid valleys that challenged early railway builders.",
+                  "category": "natural",
+                  "coords": [
+                        42.720833,
+                        11.124722
+                  ]
+            },
+            {
+                  "name": "Ârréï",
+                  "text": "Forming part of the mountainous backdrop for the ali-sabieh-viaduct-history-v2 area, this peak is shaped by centuries of weathering in the dry climate.",
+                  "category": "natural",
+                  "coords": [
+                        42.724722,
+                        11.091389
+                  ]
+            },
+            {
+                  "name": "Sôfe",
+                  "text": "Located in the historically rich ali-sabieh-viaduct-history-v2 region, this natural peak offers panoramic vistas of the surrounding rugged topography and colonial-era pathways.",
+                  "category": "natural",
+                  "coords": [
+                        42.7075,
+                        11.061389
+                  ]
+            },
+            {
+                  "name": "Ouaraga Goldahanléï",
+                  "text": "Standing prominently near the ali-sabieh-viaduct-history-v2 site, this rocky elevation is a stark reminder of the difficult terrain that the old railway navigated.",
+                  "category": "natural",
+                  "coords": [
+                        42.688889,
+                        11.063611
+                  ]
+            },
+            {
+                  "name": "Êlka Galîle",
+                  "text": "The peak of Êlka Galîle rises above the arid African landscape near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.1
+                  ]
+            },
+            {
+                  "name": "Labakourousle",
+                  "text": "The Labakourousle peak stands out in the rugged mountainous terrain near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.666667,
+                        11.083333
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-AS",
     coords: [42.71, 11.15],
@@ -536,7 +1499,88 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       fr: ["Partie du chemin de fer impérial", "Achevé au début du XXe siècle", "Lien important vers l'Éthiopie", "Marque le paysage de la région"],
     }, image: "/poi-images/ali-sabieh-viaduct-history-v2.webp"},
   {
-    id: "balho-rock-art-history-v2",
+    id: "balho-rock-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doumali",
+                  "text": "Doumali ist ein schroffer Berggipfel in der Nähe der antiken Balho-Stätten, die für ihre prähistorischen Felszeichnungen bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.137828,
+                        12.038341
+                  ]
+            },
+            {
+                  "name": "Oud 'Ale",
+                  "text": "Der steinige Gipfel des Oud 'Ale wacht über die historischen Täler von Balho, wo bedeutende Felsgravuren entdeckt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        42.216798,
+                        12.083552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doumali",
+                  "text": "A Doumali egy zord hegycsúcs a történelem előtti sziklarajzaikról híres ősi Balho lelőhelyek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.137828,
+                        12.038341
+                  ]
+            },
+            {
+                  "name": "Oud 'Ale",
+                  "text": "Az Oud 'Ale köves csúcsa Balho történelmi völgyei felett őrködik, ahol jelentős sziklafaragványokat fedeztek fel.",
+                  "category": "natural",
+                  "coords": [
+                        42.216798,
+                        12.083552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doumali",
+                  "text": "Doumali este un vârf montan accidentat situat lângă vechile situri Balho, renumite pentru arta lor rupestră preistorică.",
+                  "category": "natural",
+                  "coords": [
+                        42.137828,
+                        12.038341
+                  ]
+            },
+            {
+                  "name": "Oud 'Ale",
+                  "text": "Vârful pietros al Oud 'Ale veghează asupra văilor istorice din Balho, unde au fost descoperite gravuri rupestre semnificative.",
+                  "category": "natural",
+                  "coords": [
+                        42.216798,
+                        12.083552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doumali",
+                  "text": "Doumali is a rugged mountain peak located near the ancient Balho sites renowned for their prehistoric rock art.",
+                  "category": "natural",
+                  "coords": [
+                        42.137828,
+                        12.038341
+                  ]
+            },
+            {
+                  "name": "Oud 'Ale",
+                  "text": "The stony summit of Oud 'Ale watches over the historical valleys of Balho, where significant rock engravings have been discovered.",
+                  "category": "natural",
+                  "coords": [
+                        42.216798,
+                        12.083552
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-TA",
     coords: [42.19, 12.05],
@@ -682,7 +1726,844 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     }
   },
   {
-    id: "guedi-cave-history-v2",
+    id: "guedi-cave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koron",
+                  "text": "Koron ist ein schroffer Berggipfel in der Nähe der historischen Stätte der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.782778,
+                        11.4825
+                  ]
+            },
+            {
+                  "name": "‘Aga Saïd",
+                  "text": "Der Gipfel des ‘Aga Saïd prägt das felsige Hochland, das die historische Guedi-Höhle umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.516389
+                  ]
+            },
+            {
+                  "name": "Daré",
+                  "text": "Daré ist ein erhöhter Gipfel, der die Landschaft nahe dem historischen Gebiet der Guedi-Höhle dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "Sangârti Yar",
+                  "text": "Die felsige Erhebung Sangârti Yar bietet einen Panoramablick über das historische Gebiet der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.789722,
+                        11.545833
+                  ]
+            },
+            {
+                  "name": "Agân",
+                  "text": "Der Gipfel des Agân erhebt sich nahe der Guedi-Höhle und ist Teil der historischen, bergigen Kulisse der Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.537778
+                  ]
+            },
+            {
+                  "name": "Dadben",
+                  "text": "Der Gipfel des Dadben trägt zum dramatischen, schroffen Relief rund um die historische Guedi-Höhle bei.",
+                  "category": "natural",
+                  "coords": [
+                        42.764167,
+                        11.526111
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "Ḏaḏîn ist ein markanter topografischer Hochpunkt im historischen Gelände der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.788889,
+                        11.525278
+                  ]
+            },
+            {
+                  "name": "‘Adâd Ḏâḏer",
+                  "text": "Der felsige Gipfel des ‘Adâd Ḏâḏer sticht in der historischen, trockenen Landschaft rund um die Guedi-Höhle hervor.",
+                  "category": "natural",
+                  "coords": [
+                        42.781111,
+                        11.496944
+                  ]
+            },
+            {
+                  "name": "Gâbané",
+                  "text": "Gâbané ist eine natürliche Bergerhebung in der Nähe der historisch bedeutsamen Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.763333,
+                        11.504167
+                  ]
+            },
+            {
+                  "name": "Marian Madou",
+                  "text": "Der Gipfel des Marian Madou bildet ein markantes geografisches Merkmal im historischen Gebiet der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.818611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Gounle",
+                  "text": "Gounle ist ein felsiger Berggipfel, der die Skyline über der historischen Stätte der Guedi-Höhle prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.483333
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "Der Gipfel des Gaourir erhebt sich dramatisch aus der schroffen Landschaft nahe der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Midgân",
+                  "text": "Midgân ist ein markanter Gipfel in der historisch reichen Bergregion der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.473889
+                  ]
+            },
+            {
+                  "name": "Ali Odé",
+                  "text": "Der Gipfel des Ali Odé bietet eine dominierende topografische Position in der Nähe der historischen Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.7575,
+                        11.463889
+                  ]
+            },
+            {
+                  "name": "Guêddi Dagué",
+                  "text": "Der Gipfel des Guêddi Dagué überblickt auf natürliche Weise die historische, schroffe Umgebung der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.737778,
+                        11.467222
+                  ]
+            },
+            {
+                  "name": "Yi'ib",
+                  "text": "Yi'ib ist eine Erhebung, die zur trockenen, felsigen Umgebung der historischen Guedi-Höhle beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        42.74,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Dabagêllada",
+                  "text": "Der Berggipfel des Dabagêllada bildet einen strukturellen Teil der historischen Landschaft nahe der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.750833,
+                        11.497222
+                  ]
+            },
+            {
+                  "name": "‘Addey",
+                  "text": "Der schroffe Gipfel des ‘Addey schmiegt sich an das historisch bedeutsame Gelände der Guedi-Höhle.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.55
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "Nostra ist eine lokale Sehenswürdigkeit inmitten der schroffen, historischen Landschaft rund um die Guedi-Höhle.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "Diese markante Sehenswürdigkeit namens \"star\" ist ein interessanter Punkt nahe den historischen Überresten der Guedi-Höhle.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825223,
+                        11.488035
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "Dieses historische Militärdenkmal markiert die Präsenz der 13. Halbbrigade der französischen Fremdenlegion nahe der Guedi-Höhle.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823346,
+                        11.494637
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "LEGIO ist eine Gedenkstätte, die an den historischen Einsatz der Fremdenlegion in der Region der Guedi-Höhle erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "UNITE MIDNIMO ist ein kulturelles Denkmal, das Einheit symbolisiert und sich innerhalb der historischen Grenzen des Gebietes der Guedi-Höhle befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826976,
+                        11.480719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koron",
+                  "text": "A Koron egy zord hegycsúcs, amely a történelmi Guedi-barlang közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        42.782778,
+                        11.4825
+                  ]
+            },
+            {
+                  "name": "‘Aga Saïd",
+                  "text": "Az ‘Aga Saïd csúcs a történelmi Guedi-barlangot körülvevő magasan fekvő, sziklás terepet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.516389
+                  ]
+            },
+            {
+                  "name": "Daré",
+                  "text": "A Daré egy kiemelkedő hegycsúcs, amely uralja a tájat a történelmi Guedi-barlang közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "Sangârti Yar",
+                  "text": "A Sangârti Yar sziklás magaslata panorámás kilátást nyújt a történelmi Guedi-barlang körzetére.",
+                  "category": "natural",
+                  "coords": [
+                        42.789722,
+                        11.545833
+                  ]
+            },
+            {
+                  "name": "Agân",
+                  "text": "A Guedi-barlang közelében emelkedő Agân csúcs a régió történelmi, hegyvidéki hátterének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.537778
+                  ]
+            },
+            {
+                  "name": "Dadben",
+                  "text": "A Dadben csúcsa hozzájárul a Guedi-barlang örökségi helyszíne körüli drámai, zord domborzathoz.",
+                  "category": "natural",
+                  "coords": [
+                        42.764167,
+                        11.526111
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "A Ḏaḏîn egy kiemelkedő topográfiai magaslat a Guedi-barlang történelmi terepén.",
+                  "category": "natural",
+                  "coords": [
+                        42.788889,
+                        11.525278
+                  ]
+            },
+            {
+                  "name": "‘Adâd Ḏâḏer",
+                  "text": "Az ‘Adâd Ḏâḏer sziklás csúcsa kiemelkedik a Guedi-barlangot körülvevő történelmi, száraz tájból.",
+                  "category": "natural",
+                  "coords": [
+                        42.781111,
+                        11.496944
+                  ]
+            },
+            {
+                  "name": "Gâbané",
+                  "text": "A Gâbané egy természetes hegyvonulat a történelmileg jelentős Guedi-barlang közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.763333,
+                        11.504167
+                  ]
+            },
+            {
+                  "name": "Marian Madou",
+                  "text": "A Marian Madou csúcs egy figyelemre méltó földrajzi képződmény a Guedi-barlang történelmi területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.818611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Gounle",
+                  "text": "A Gounle egy sziklás hegycsúcs, amely a történelmi Guedi-barlang feletti sziluettet formálja.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.483333
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "A Gaourir csúcsa drámaian emelkedik ki a zord tájból a Guedi-barlang közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Midgân",
+                  "text": "A Midgân egy kiemelkedő csúcs, amely a Guedi-barlang történelmileg gazdag hegyvidéki régiójában található.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.473889
+                  ]
+            },
+            {
+                  "name": "Ali Odé",
+                  "text": "Az Ali Odé csúcs uralkodó topográfiai helyzetet kínál a történelmi Guedi-barlang közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.7575,
+                        11.463889
+                  ]
+            },
+            {
+                  "name": "Guêddi Dagué",
+                  "text": "A Guêddi Dagué csúcs természetes módon néz le a Guedi-barlang történelmi, zord környezetére.",
+                  "category": "natural",
+                  "coords": [
+                        42.737778,
+                        11.467222
+                  ]
+            },
+            {
+                  "name": "Yi'ib",
+                  "text": "A Yi'ib egy magaslati forma, amely hozzájárul a történelmi Guedi-barlang száraz, sziklás környezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        42.74,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Dabagêllada",
+                  "text": "A Dabagêllada hegycsúcs a Guedi-barlang közeli történelmi táj strukturális részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.750833,
+                        11.497222
+                  ]
+            },
+            {
+                  "name": "‘Addey",
+                  "text": "Az ‘Addey zord csúcsa a Guedi-barlang történelmileg jelentős terepén fészkel.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.55
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "A Nostra egy helyi látványosság a Guedi-barlangot körülvevő zord, történelmi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "Ez a \"star\" néven jelzett egyedi látványosság egy érdekes pont a Guedi-barlang történelmi maradványai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825223,
+                        11.488035
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "Ez a történelmi katonai emlékmű a francia Idegenlégió 13. fél-dandárjának jelenlétét jelzi a Guedi-barlang közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823346,
+                        11.494637
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "A LEGIO egy emlékhely, amely az Idegenlégió történelmi állomásozásához kapcsolódik a Guedi-barlang régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "A UNITE MIDNIMO egy egységet szimbolizáló kulturális emlékmű, amely a Guedi-barlang történelmi határain belül található.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826976,
+                        11.480719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koron",
+                  "text": "Koron este un vârf muntos accidentat situat în apropierea sitului istoric al peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.782778,
+                        11.4825
+                  ]
+            },
+            {
+                  "name": "‘Aga Saïd",
+                  "text": "Vârful ‘Aga Saïd caracterizează terenul stâncos și înalt care înconjoară peștera istorică Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.516389
+                  ]
+            },
+            {
+                  "name": "Daré",
+                  "text": "Daré este un vârf înalt care domină peisajul din apropierea zonei istorice a peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "Sangârti Yar",
+                  "text": "Elevația stâncoasă Sangârti Yar oferă vederi panoramice asupra cartierului istoric al peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.789722,
+                        11.545833
+                  ]
+            },
+            {
+                  "name": "Agân",
+                  "text": "Ridicându-se lângă peștera Guedi, vârful Agân face parte din fundalul montan și istoric al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.537778
+                  ]
+            },
+            {
+                  "name": "Dadben",
+                  "text": "Vârful Dadben contribuie la relieful accidentat și dramatic întâlnit în jurul sitului de patrimoniu al peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.764167,
+                        11.526111
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "Ḏaḏîn este un punct topografic înalt proeminent, situat în terenul istoric al peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.788889,
+                        11.525278
+                  ]
+            },
+            {
+                  "name": "‘Adâd Ḏâḏer",
+                  "text": "Vârful stâncos ‘Adâd Ḏâḏer iese în evidență în peisajul istoric și arid care înconjoară peștera Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.781111,
+                        11.496944
+                  ]
+            },
+            {
+                  "name": "Gâbané",
+                  "text": "Gâbané este o altitudine montană naturală situată în apropierea peșterii Guedi, semnificativă din punct de vedere istoric.",
+                  "category": "natural",
+                  "coords": [
+                        42.763333,
+                        11.504167
+                  ]
+            },
+            {
+                  "name": "Marian Madou",
+                  "text": "Vârful Marian Madou formează o caracteristică geografică notabilă în zona istorică a peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.818611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Gounle",
+                  "text": "Gounle este un vârf muntos stâncos care modelează orizontul deasupra sitului istoric al peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.483333
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "Vârful Gaourir se ridică spectaculos din peisajul accidentat din apropierea peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Midgân",
+                  "text": "Midgân este un vârf proeminent situat în regiunea muntoasă bogată istoric a peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.473889
+                  ]
+            },
+            {
+                  "name": "Ali Odé",
+                  "text": "Vârful Ali Odé oferă o poziție topografică dominantă în apropierea peșterii istorice Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.7575,
+                        11.463889
+                  ]
+            },
+            {
+                  "name": "Guêddi Dagué",
+                  "text": "Vârful Guêddi Dagué domină în mod natural împrejurimile istorice și accidentate ale peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.737778,
+                        11.467222
+                  ]
+            },
+            {
+                  "name": "Yi'ib",
+                  "text": "Yi'ib este o formă de relief înaltă care contribuie la mediul arid și stâncos al sitului istoric al peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.74,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Dabagêllada",
+                  "text": "Vârful muntos Dabagêllada formează o parte structurală a peisajului istoric de lângă peștera Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.750833,
+                        11.497222
+                  ]
+            },
+            {
+                  "name": "‘Addey",
+                  "text": "Vârful accidentat ‘Addey este amplasat în terenul semnificativ din punct de vedere istoric al peșterii Guedi.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.55
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "Nostra este o atracție locală amplasată printre peisajele accidentate și istorice care înconjoară peștera Guedi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "Această atracție distinctă marcată \"star\" este un punct de interes lângă rămășițele istorice ale peșterii Guedi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825223,
+                        11.488035
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "Acest monument militar istoric marchează prezența celei de-a 13-a Demi-Brigăzi a Legiunii Străine Franceze lângă peștera Guedi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823346,
+                        11.494637
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "LEGIO este o atracție comemorativă legată de desfășurarea istorică a Legiunii Străine în regiunea peșterii Guedi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "UNITE MIDNIMO este un monument cultural care simbolizează unitatea, situat în limitele istorice ale zonei peșterii Guedi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826976,
+                        11.480719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koron",
+                  "text": "Koron is a rugged mountain peak located in the vicinity of the historic Guedi cave site.",
+                  "category": "natural",
+                  "coords": [
+                        42.782778,
+                        11.4825
+                  ]
+            },
+            {
+                  "name": "‘Aga Saïd",
+                  "text": "The ‘Aga Saïd peak characterizes the elevated, rocky terrain surrounding the historic Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.516389
+                  ]
+            },
+            {
+                  "name": "Daré",
+                  "text": "Daré is an elevated summit that dominates the landscape near the Guedi cave historical area.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "Sangârti Yar",
+                  "text": "The rocky elevation of Sangârti Yar offers panoramic views over the historic Guedi cave district.",
+                  "category": "natural",
+                  "coords": [
+                        42.789722,
+                        11.545833
+                  ]
+            },
+            {
+                  "name": "Agân",
+                  "text": "Rising near the Guedi cave, the Agân peak forms part of the region's historic, mountainous backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.537778
+                  ]
+            },
+            {
+                  "name": "Dadben",
+                  "text": "The summit of Dadben adds to the dramatic, rugged relief found around the Guedi cave heritage site.",
+                  "category": "natural",
+                  "coords": [
+                        42.764167,
+                        11.526111
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "Ḏaḏîn is a prominent topographical high point situated within the historic terrain of the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.788889,
+                        11.525278
+                  ]
+            },
+            {
+                  "name": "‘Adâd Ḏâḏer",
+                  "text": "The rocky peak of ‘Adâd Ḏâḏer stands out in the historic, arid landscape surrounding the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.781111,
+                        11.496944
+                  ]
+            },
+            {
+                  "name": "Gâbané",
+                  "text": "Gâbané is a natural mountain elevation located near the historically significant Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.763333,
+                        11.504167
+                  ]
+            },
+            {
+                  "name": "Marian Madou",
+                  "text": "The Marian Madou summit forms a notable geographical feature in the historic area of the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.818611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Gounle",
+                  "text": "Gounle is a rocky mountain peak shaping the skyline above the historic Guedi cave site.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.483333
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "The peak of Gaourir rises dramatically from the rugged landscape near the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Midgân",
+                  "text": "Midgân is a prominent summit situated in the historically rich mountainous region of the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.789167,
+                        11.473889
+                  ]
+            },
+            {
+                  "name": "Ali Odé",
+                  "text": "The summit of Ali Odé offers a commanding topographical position near the historic Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.7575,
+                        11.463889
+                  ]
+            },
+            {
+                  "name": "Guêddi Dagué",
+                  "text": "The peak of Guêddi Dagué naturally overlooks the historic, rugged surroundings of the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.737778,
+                        11.467222
+                  ]
+            },
+            {
+                  "name": "Yi'ib",
+                  "text": "Yi'ib is an elevated landform contributing to the arid, rocky environment of the Guedi cave historical site.",
+                  "category": "natural",
+                  "coords": [
+                        42.74,
+                        11.485278
+                  ]
+            },
+            {
+                  "name": "Dabagêllada",
+                  "text": "The mountain peak of Dabagêllada forms a structural part of the historic landscape near the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.750833,
+                        11.497222
+                  ]
+            },
+            {
+                  "name": "‘Addey",
+                  "text": "The rugged summit of ‘Addey is nestled in the historically significant terrain of the Guedi cave.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.55
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "Nostra is a local attraction set among the rugged, historic landscape surrounding the Guedi cave.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "This distinctive attraction marked \"star\" is a point of interest near the historic remnants of the Guedi cave.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825223,
+                        11.488035
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "This historic military monument marks the presence of the 13th Demi-Brigade of the French Foreign Legion near the Guedi cave.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823346,
+                        11.494637
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "LEGIO is a commemorative attraction related to the Foreign Legion's historic deployment in the Guedi cave region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "UNITE MIDNIMO is a cultural monument symbolizing unity, located within the historic bounds of the Guedi cave area.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826976,
+                        11.480719
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-AR",
     coords: [42.8, 11.5],
@@ -731,7 +2612,160 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     }
   },
   {
-    id: "ambado-pottery-site-history-v2",
+    id: "ambado-pottery-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sârré",
+                  "text": "Sârré ist ein rauer Gipfel in der Nähe der historischen archäologischen Töpferstätte von Ambado.",
+                  "category": "natural",
+                  "coords": [
+                        42.986389,
+                        11.540278
+                  ]
+            },
+            {
+                  "name": "Qaninlé",
+                  "text": "Der markante Gipfel des Qaninlé überblickt das Gelände rund um die antike Töpferstätte Ambado.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.546389
+                  ]
+            },
+            {
+                  "name": "Guêllo Djôgsé",
+                  "text": "Guêllo Djôgsé ist ein natürlicher Berggipfel, der in der Nähe der historischen Ausgrabungen von Ambado aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.015833,
+                        11.505833
+                  ]
+            },
+            {
+                  "name": "Sanḏêré",
+                  "text": "Sanḏêré bietet einen felsigen Erhebungspunkt in der Nähe des historischen Küstengebiets der Töpferstätte Ambado.",
+                  "category": "natural",
+                  "coords": [
+                        42.956111,
+                        11.536389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sârré",
+                  "text": "A Sârré egy zord hegycsúcs, amely a történelmi Ambado kerámia régészeti lelőhely közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        42.986389,
+                        11.540278
+                  ]
+            },
+            {
+                  "name": "Qaninlé",
+                  "text": "A Qaninlé kiemelkedő csúcsa az ősi Ambado kerámia lelőhelyet körülvevő terepre néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.546389
+                  ]
+            },
+            {
+                  "name": "Guêllo Djôgsé",
+                  "text": "A Guêllo Djôgsé egy természetes hegycsúcs, amely a történelmi Ambado-ásatások közelében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.015833,
+                        11.505833
+                  ]
+            },
+            {
+                  "name": "Sanḏêré",
+                  "text": "A Sanḏêré egy sziklás magaslati pontot kínál az Ambado kerámia lelőhely parti történelmi területének közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.956111,
+                        11.536389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sârré",
+                  "text": "Sârré este un vârf accidentat situat în apropierea sitului arheologic istoric de ceramică din Ambado.",
+                  "category": "natural",
+                  "coords": [
+                        42.986389,
+                        11.540278
+                  ]
+            },
+            {
+                  "name": "Qaninlé",
+                  "text": "Vârful proeminent al Qaninlé are vedere la terenul din jurul sitului antic de ceramică Ambado.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.546389
+                  ]
+            },
+            {
+                  "name": "Guêllo Djôgsé",
+                  "text": "Guêllo Djôgsé este un vârf muntos natural care se înalță în vecinătatea excavațiilor istorice de la Ambado.",
+                  "category": "natural",
+                  "coords": [
+                        43.015833,
+                        11.505833
+                  ]
+            },
+            {
+                  "name": "Sanḏêré",
+                  "text": "Sanḏêré oferă un punct de altitudine stâncos în apropierea zonei istorice de coastă a sitului de ceramică Ambado.",
+                  "category": "natural",
+                  "coords": [
+                        42.956111,
+                        11.536389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sârré",
+                  "text": "Sârré is a rugged peak situated close to the historical Ambado pottery archaeological site.",
+                  "category": "natural",
+                  "coords": [
+                        42.986389,
+                        11.540278
+                  ]
+            },
+            {
+                  "name": "Qaninlé",
+                  "text": "The prominent peak of Qaninlé overlooks the terrain surrounding the ancient Ambado pottery site.",
+                  "category": "natural",
+                  "coords": [
+                        42.993056,
+                        11.546389
+                  ]
+            },
+            {
+                  "name": "Guêllo Djôgsé",
+                  "text": "Guêllo Djôgsé is a natural mountain summit rising in the vicinity of the Ambado historical excavations.",
+                  "category": "natural",
+                  "coords": [
+                        43.015833,
+                        11.505833
+                  ]
+            },
+            {
+                  "name": "Sanḏêré",
+                  "text": "Sanḏêré offers a rocky elevation point near the coastal historical area of the Ambado pottery site.",
+                  "category": "natural",
+                  "coords": [
+                        42.956111,
+                        11.536389
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-AR",
     coords: [43.02, 11.59],
@@ -875,7 +2909,232 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       fr: ["Lieux de recueillement spirituel", "Situés au cœur de la forêt de montagne", "Fusion de la nature et de l'histoire", "Fait partie des traditions locales"],
     }, image: "/poi-images/day-hermitage-history-v2.webp"},
   {
-    id: "dorra-ancient-wells-history-v2",
+    id: "dorra-ancient-wells-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aguilou",
+                  "text": "Dieser steinige Gipfel, der sich in der Nähe der alten Brunnen von Dorra erhebt, dient als natürliches Wahrzeichen in der Wüstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        12.15
+                  ]
+            },
+            {
+                  "name": "Dalâẖa Kôma",
+                  "text": "Dieser imposante Gipfel bietet einen Blick über das historische, trockene Becken von Dorra und seine traditionellen Wasserlöcher.",
+                  "category": "natural",
+                  "coords": [
+                        42.405006,
+                        12.179624
+                  ]
+            },
+            {
+                  "name": "Arrâmi Kôma",
+                  "text": "Eine markante Erhebung in der Wüste, die den flachen Horizont rund um die historische Brunnensiedlung Dorra durchbricht.",
+                  "category": "natural",
+                  "coords": [
+                        42.412939,
+                        12.175153
+                  ]
+            },
+            {
+                  "name": "Ḏerra‘",
+                  "text": "Dieser schroffe Gipfel wirft Schatten auf das Gebiet von Dorra und steht als stiller Wächter über den alten Karawanenrouten der Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.417404,
+                        12.155673
+                  ]
+            },
+            {
+                  "name": "Adan ‘Ale",
+                  "text": "Dieser spitze Gipfel thront über den von spärlichem Buschland geprägten pastoralen Ebenen nahe Dorra.",
+                  "category": "natural",
+                  "coords": [
+                        42.41775,
+                        12.132851
+                  ]
+            },
+            {
+                  "name": "Badi Kôma",
+                  "text": "Ein isolierter, felsiger Aufschluss in der Nähe von Dorra, der schon lange Nomaden auf der Suche nach den alten Brunnen der Gegend führt.",
+                  "category": "natural",
+                  "coords": [
+                        42.441008,
+                        12.137067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aguilou",
+                  "text": "A dorrai ősi kutak közelében emelkedő köves csúcs természetes tájékozódási pontként szolgál a sivatagi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        12.15
+                  ]
+            },
+            {
+                  "name": "Dalâẖa Kôma",
+                  "text": "Ez az impozáns csúcs kilátást nyújt Dorra történelmi, száraz medencéjére és hagyományos itatóhelyeire.",
+                  "category": "natural",
+                  "coords": [
+                        42.405006,
+                        12.179624
+                  ]
+            },
+            {
+                  "name": "Arrâmi Kôma",
+                  "text": "Jelentős sivatagi kiemelkedés, amely megtöri a történelmi dorrai kúttelepülés körüli lapos horizontot.",
+                  "category": "natural",
+                  "coords": [
+                        42.412939,
+                        12.175153
+                  ]
+            },
+            {
+                  "name": "Ḏerra‘",
+                  "text": "A Dorra területét árnyékoló zord csúcs csendes őrszemként magasodik a régió ősi karavánútjai felett.",
+                  "category": "natural",
+                  "coords": [
+                        42.417404,
+                        12.155673
+                  ]
+            },
+            {
+                  "name": "Adan ‘Ale",
+                  "text": "Ez az éles hegycsúcs a Dorra melletti, gyér cserjésekkel borított pásztorsíkságok fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.41775,
+                        12.132851
+                  ]
+            },
+            {
+                  "name": "Badi Kôma",
+                  "text": "Dorra melletti elszigetelt, sziklás kiemelkedés, amely régóta iránymutatóul szolgál a terület ősi kútjait kereső nomádok számára.",
+                  "category": "natural",
+                  "coords": [
+                        42.441008,
+                        12.137067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aguilou",
+                  "text": "Ridicându-se lângă fântânile antice din Dorra, acest vârf pietros servește ca un reper natural în peisajul deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        12.15
+                  ]
+            },
+            {
+                  "name": "Dalâẖa Kôma",
+                  "text": "Acest vârf impunător oferă o priveliște asupra bazinului istoric arid al Dorrei și al ochiurilor sale tradiționale de apă.",
+                  "category": "natural",
+                  "coords": [
+                        42.405006,
+                        12.179624
+                  ]
+            },
+            {
+                  "name": "Arrâmi Kôma",
+                  "text": "O elevație proeminentă în deșert care întrerupe orizontul plat din jurul așezării istorice a fântânilor din Dorra.",
+                  "category": "natural",
+                  "coords": [
+                        42.412939,
+                        12.175153
+                  ]
+            },
+            {
+                  "name": "Ḏerra‘",
+                  "text": "Umbrind zona Dorra, acest vârf accidentat stă ca o santinelă tăcută deasupra vechilor rute de caravane ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        42.417404,
+                        12.155673
+                  ]
+            },
+            {
+                  "name": "Adan ‘Ale",
+                  "text": "Acest vârf ascuțit se înalță deasupra câmpiilor pastorale de lângă Dorra, caracterizate prin tufișuri rare.",
+                  "category": "natural",
+                  "coords": [
+                        42.41775,
+                        12.132851
+                  ]
+            },
+            {
+                  "name": "Badi Kôma",
+                  "text": "Un afloriment stâncos izolat lângă Dorra, care de mult timp ghidează nomazii în căutarea fântânilor antice ale zonei.",
+                  "category": "natural",
+                  "coords": [
+                        42.441008,
+                        12.137067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aguilou",
+                  "text": "Rising near the ancient wells of Dorra, this stony peak serves as a natural landmark in the desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        42.55,
+                        12.15
+                  ]
+            },
+            {
+                  "name": "Dalâẖa Kôma",
+                  "text": "This imposing peak commands views over the historic arid basin of Dorra and its traditional watering holes.",
+                  "category": "natural",
+                  "coords": [
+                        42.405006,
+                        12.179624
+                  ]
+            },
+            {
+                  "name": "Arrâmi Kôma",
+                  "text": "A prominent desert elevation that breaks the flat horizon around the historic Dorra wells settlement.",
+                  "category": "natural",
+                  "coords": [
+                        42.412939,
+                        12.175153
+                  ]
+            },
+            {
+                  "name": "Ḏerra‘",
+                  "text": "Shadowing the Dorra area, this rugged top stands as a silent sentinel over the region's ancient caravan routes.",
+                  "category": "natural",
+                  "coords": [
+                        42.417404,
+                        12.155673
+                  ]
+            },
+            {
+                  "name": "Adan ‘Ale",
+                  "text": "This sharp summit towers above the pastoral plains near Dorra, characterized by sparse scrubland.",
+                  "category": "natural",
+                  "coords": [
+                        42.41775,
+                        12.132851
+                  ]
+            },
+            {
+                  "name": "Badi Kôma",
+                  "text": "An isolated, rocky outcropping near Dorra that has long guided nomads seeking the area's ancient wells.",
+                  "category": "natural",
+                  "coords": [
+                        42.441008,
+                        12.137067
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DJ-TA",
     coords: [42.48, 12.15],

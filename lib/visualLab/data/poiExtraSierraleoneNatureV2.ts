@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSierraleoneNatureV2: POI[] = [
   {
-    id: "mount-bintumani-nature-v2",
+    id: "mount-bintumani-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loma Mansa",
+                  "text": "Loma Mansa, auch bekannt als Mount Bintumani, ist der höchste Gipfel in Sierra Leone und bietet steile Pfade durch dichte Regenwälder.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11569,
+                        9.227102
+                  ]
+            },
+            {
+                  "name": "Waria",
+                  "text": "Waria ist ein schroffer Berggipfel, der Teil der abgelegenen und bergigen Landschaft rund um den Mount Bintumani ist.",
+                  "category": "natural",
+                  "coords": [
+                        -11.151096,
+                        9.300672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loma Mansa",
+                  "text": "A Loma Mansa, más néven Mount Bintumani, Sierra Leone legmagasabb hegycsúcsa, amely meredek ösvényeket kínál sűrű esőerdőkön keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11569,
+                        9.227102
+                  ]
+            },
+            {
+                  "name": "Waria",
+                  "text": "A Waria egy zord hegycsúcs, amely a Mount Bintumani körüli távoli és hegyvidéki táj részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -11.151096,
+                        9.300672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loma Mansa",
+                  "text": "Loma Mansa, cunoscut și sub numele de Muntele Bintumani, este cel mai înalt vârf din Sierra Leone, oferind trasee abrupte prin păduri tropicale dense.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11569,
+                        9.227102
+                  ]
+            },
+            {
+                  "name": "Waria",
+                  "text": "Waria este un vârf de munte accidentat care face parte din peisajul îndepărtat și muntos din jurul Muntelui Bintumani.",
+                  "category": "natural",
+                  "coords": [
+                        -11.151096,
+                        9.300672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loma Mansa",
+                  "text": "Loma Mansa, also known as Mount Bintumani, is the highest peak in Sierra Leone, offering steep trails through dense rainforests.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11569,
+                        9.227102
+                  ]
+            },
+            {
+                  "name": "Waria",
+                  "text": "Waria is a rugged mountain peak forming part of the remote and mountainous landscape around Mount Bintumani.",
+                  "category": "natural",
+                  "coords": [
+                        -11.151096,
+                        9.300672
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SL-N",
     coords: [-11.1086, 9.2319],
@@ -451,7 +532,88 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
     },
   },
   {
-    id: "tiwai-island-nature-v2",
+    id: "tiwai-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tiwai Island",
+                  "text": "Tiwai Island ist ein renommiertes Wildschutzgebiet im Moa River, das für seine dichte Primatenpopulation bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.344582,
+                        7.563799
+                  ]
+            },
+            {
+                  "name": "Big Tree",
+                  "text": "The Big Tree ist ein riesiges, altes botanisches Naturdenkmal, das die üppige Flora von Tiwai Island überragt.",
+                  "category": "historical",
+                  "coords": [
+                        -11.351045,
+                        7.554849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tiwai Island",
+                  "text": "A Tiwai-sziget egy híres vadvédelmi terület a Moa folyóban, amely sűrű főemlőspopulációjáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.344582,
+                        7.563799
+                  ]
+            },
+            {
+                  "name": "Big Tree",
+                  "text": "A Big Tree egy hatalmas, ősi botanikai emlékmű, amely a Tiwai-sziget buja növényvilága fölé tornyosul.",
+                  "category": "historical",
+                  "coords": [
+                        -11.351045,
+                        7.554849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tiwai Island",
+                  "text": "Insula Tiwai este un sanctuar de animale sălbatice renumit situat pe râul Moa, faimos pentru populația sa densă de primate.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.344582,
+                        7.563799
+                  ]
+            },
+            {
+                  "name": "Big Tree",
+                  "text": "The Big Tree este un monument botanic antic masiv, care domină flora luxuriantă a Insulei Tiwai.",
+                  "category": "historical",
+                  "coords": [
+                        -11.351045,
+                        7.554849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tiwai Island",
+                  "text": "Tiwai Island is a renowned wildlife sanctuary situated in the Moa River, famous for its dense primate population.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.344582,
+                        7.563799
+                  ]
+            },
+            {
+                  "name": "Big Tree",
+                  "text": "The Big Tree is a massive, ancient botanical monument towering over the lush flora of Tiwai Island.",
+                  "category": "historical",
+                  "coords": [
+                        -11.351045,
+                        7.554849
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "SL-S",
     coords: [-11.3500, 7.5500],
@@ -579,7 +741,52 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
     },
   },
   {
-    id: "banana-islands-nature-v2",
+    id: "banana-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "Dieses Museum in der Nähe der Banana-Inseln ist in einem historischen Gebäude untergebracht, das mit dem tragischen transatlantischen Sklavenhandel verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "A Banán-szigetek közelében található múzeum egy történelmi épületben kapott helyet, amely a tragikus transzatlanti rabszolgakereskedelemhez kötődik.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "Cu vedere la ocean, lângă Insulele Banana, acest muzeu este găzduit într-o clădire istorică legată de tragicul comerț transatlantic cu sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "Overlooking the ocean near the Banana Islands, this museum is housed in a historic building connected to the tragic transatlantic slave trade.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "SL-W",
     coords: [-13.2000, 8.1000],
@@ -707,7 +914,52 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-sonfon-nature-v2",
+    id: "lake-sonfon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Sonfon National Park",
+                  "text": "Der Lake Sonfon Nationalpark schützt ein großes Binnengewässer in der Region lake-sonfon-nature-v2 und dient als wichtiger Lebensraum für verschiedene lokale Vogelarten.",
+                  "category": "park",
+                  "coords": [
+                        -11.51497,
+                        9.257637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Sonfon National Park",
+                  "text": "A lake-sonfon-nature-v2 régió jelentős belvízi tavát védő Lake Sonfon Nemzeti Park fontos élőhelye a különféle helyi madárfajoknak.",
+                  "category": "park",
+                  "coords": [
+                        -11.51497,
+                        9.257637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Sonfon National Park",
+                  "text": "Protejând un corp major de apă interioară, Parcul Național Lacul Sonfon din regiunea lake-sonfon-nature-v2 servește drept habitat crucial pentru diverse specii locale de păsări.",
+                  "category": "park",
+                  "coords": [
+                        -11.51497,
+                        9.257637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Sonfon National Park",
+                  "text": "Protecting a major inland body of water, Lake Sonfon National Park in the lake-sonfon-nature-v2 region serves as a crucial habitat for diverse local bird species.",
+                  "category": "park",
+                  "coords": [
+                        -11.51497,
+                        9.257637
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SL-N",
     coords: [-11.5000, 9.2500],
@@ -899,7 +1151,52 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
     },
   },
   {
-    id: "outamba-kilimi-nature-v2",
+    id: "outamba-kilimi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tinkadara",
+                  "text": "Tinkadara ist ein markanter Berggipfel, der sich hoch über der natürlichen und unberührten Wildnis der Outamba-Kilimi-Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -12.180961,
+                        9.852196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tinkadara",
+                  "text": "A Tinkadara egy kiemelkedő hegycsúcs, amely magasan az Outamba-Kilimi régió természetes és érintetlen vadonja fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -12.180961,
+                        9.852196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinkadara",
+                  "text": "Tinkadara este un vârf montan proeminent care se înalță mult deasupra sălbăticiei naturale neatinse din regiunea Outamba-Kilimi.",
+                  "category": "natural",
+                  "coords": [
+                        -12.180961,
+                        9.852196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinkadara",
+                  "text": "Tinkadara is a prominent mountain peak rising high above the natural and untouched wilderness of the Outamba-Kilimi region.",
+                  "category": "natural",
+                  "coords": [
+                        -12.180961,
+                        9.852196
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SL-NW",
     coords: [-12.2000, 9.8000],
@@ -963,7 +1260,52 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
     },
   },
   {
-    id: "western-area-forest-nature-v2",
+    id: "western-area-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tokeh beach",
+                  "text": "Angrenzend an die western-area-forest-nature-v2 bietet die ausgedehnte goldene Küste von Tokeh beach eine klassische tropische Kulisse am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.196503,
+                        8.313245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tokeh beach",
+                  "text": "A western-area-forest-nature-v2 mentén húzódó Tokeh beach hatalmas aranyszínű partvidéke klasszikus trópusi környezetet biztosít egy homokos óceánparttal.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.196503,
+                        8.313245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tokeh beach",
+                  "text": "Mărginită de western-area-forest-nature-v2, țărmul auriu vast de la plaja Tokeh oferă un cadru tropical clasic, cu un front oceanic nisipos.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.196503,
+                        8.313245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tokeh beach",
+                  "text": "Bordering the western-area-forest-nature-v2, the expansive golden shoreline of Tokeh beach provides a classic tropical setting with a sandy oceanfront.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.196503,
+                        8.313245
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SL-W",
     coords: [-13.2000, 8.3000],
@@ -1539,7 +1881,52 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-aureol-nature-v2",
+    id: "mount-aureol-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gun emplacement",
+                  "text": "Diese zur Küsten- oder Höhenverteidigung errichteten Stein- und Betonruinen in mount-aureol-nature-v2 sind Überreste einer ehemaligen militärischen Geschützstellung.",
+                  "category": "historical",
+                  "coords": [
+                        -13.223028,
+                        8.48202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gun emplacement",
+                  "text": "Ezek a mount-aureol-nature-v2 területén található, parti vagy magaslati védelemre épített kő- és betonromok egy egykori katonai lövegállás maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -13.223028,
+                        8.48202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gun emplacement",
+                  "text": "Construite pentru apărarea de coastă sau la înălțime, aceste ruine de piatră și beton din mount-aureol-nature-v2 sunt rămășițele unui fost amplasament militar pentru tunuri.",
+                  "category": "historical",
+                  "coords": [
+                        -13.223028,
+                        8.48202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gun emplacement",
+                  "text": "Built for coastal or elevated defense, these stone and concrete ruins in mount-aureol-nature-v2 are remnants of a former military gun emplacement.",
+                  "category": "historical",
+                  "coords": [
+                        -13.223028,
+                        8.48202
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SL-W",
     coords: [-13.2200, 8.4800],

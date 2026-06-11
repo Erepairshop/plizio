@@ -1324,7 +1324,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Memaryyalny muzei-maisternya Zaira Azgura",
-                  "text": "Azgur-Gedenkmuseum in der Minsker Oberstadt.",
+                  "text": "Gedenkmuseum-Werkstatt von Zair Azgur in der Minsker Oberstadt, 1984 eröffnet.",
                   "category": "museum",
                   "coords": [
                         27.578511,
@@ -1333,7 +1333,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Dom-muzei I-ga zʼezda RSDRP",
-                  "text": "Museum des Ersten Parteikongresses in der Minsker Oberstadt.",
+                  "text": "Hausmuseum des Ersten Kongresses der SDAPR in der Minsker Oberstadt, Haus aus dem späten 19. Jahrhundert, Museum 1948–1953 eingerichtet.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -1342,7 +1342,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Dzyarzhauny litaraturny muzei Yanki Kupaly",
-                  "text": "Janka-Kupala-Museum in der Minsker Oberstadt.",
+                  "text": "Janka-Kupala-Museum in der Minsker Oberstadt, literarisches Museum, 1944–1945 eröffnet.",
                   "category": "museum",
                   "coords": [
                         27.565246,
@@ -1351,7 +1351,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny mastatski muzei",
-                  "text": "Nationales Kunstmuseum in der Minsker Oberstadt.",
+                  "text": "Nationales Kunstmuseum in der Minsker Oberstadt, 1957 eröffnet.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -1369,7 +1369,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Muzei gistoryi belaruskaga kino",
-                  "text": "Filmmuseum in der Minsker Oberstadt.",
+                  "text": "Kinomuseum in der Minsker Oberstadt, in einem Gebäude aus dem frühen 20. Jahrhundert untergebracht.",
                   "category": "museum",
                   "coords": [
                         27.548632,
@@ -1414,7 +1414,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Rathaus",
-                  "text": "Historisches Rathaus in der Minsker Oberstadt.",
+                  "text": "Rathaus in der Minsker Oberstadt, 2003 nach dem Original wiederaufgebaut.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -1468,7 +1468,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Nationales Akademisches Großes Opern- und Balletttheater der Republik Weißrussland",
-                  "text": "Nationales Opern- und Balletttheater in der Minsker Oberstadt.",
+                  "text": "Nationales Opern- und Balletttheater in der Minsker Oberstadt, 1935–1937 erbaut.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -1513,7 +1513,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Alexander-Newski-Kirche",
-                  "text": "Alexander-Newski-Kirche in der Minsker Oberstadt.",
+                  "text": "Alexander-Newski-Kirche in der Minsker Oberstadt, 1898 erbaut.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -1522,7 +1522,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
-                  "text": "Dreifaltigkeitskirche in der Minsker Oberstadt.",
+                  "text": "1864 im neugotischen Stil auf dem Goldenen Hügel in der Oberstadt von Minsk erbaute Kirche (St. Rochus).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -1603,7 +1603,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Nationales Akademisches Janka-Kupala-Theater",
-                  "text": "Das Yanka Kupala National Academic Theatre ist ein bedeutendes Theater in Minsk.",
+                  "text": "Janka-Kupala-Theater in der Minsker Oberstadt, 1890 erbaut.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -1630,7 +1630,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kirche des heiligen Simon und der heiligen Helena",
-                  "text": "Die Kirche der Heiligen Simon und Helena ist eine bekannte neugotische Kirche in Minsk.",
+                  "text": "1910 aus rotem Backstein im neoromanischen Stil erbaute Kirche, bekannt als Rote Kirche in Minsk.",
                   "category": "landmark",
                   "coords": [
                         27.547603,
@@ -1749,7 +1749,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Memaryyalny muzei-maisternya Zaira Azgura",
-                  "text": "Azgur emlékmúzeum, Minszki Felsőváros.",
+                  "text": "Zair Azgur Emlékmúzeum-műterme a Minszki Felsővárosban, 1984-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         27.578511,
@@ -1758,7 +1758,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Dom-muzei I-ga zʼezda RSDRP",
-                  "text": "Az első pártkongresszus háza, Minszki Felsőváros.",
+                  "text": "Az Orosz Szociáldemokrata Munkáspárt Első Kongresszusa Háza Múzeuma a Minszki Felsővárosban, a ház a 19. század végéről, múzeum 1948–1953 között.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -1767,7 +1767,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Dzyarzhauny litaraturny muzei Yanki Kupaly",
-                  "text": "Janka Kupala Múzeum, Minszki Felsőváros.",
+                  "text": "Janka Kupala Múzeum a Minszki Felsővárosban, irodalmi múzeum, 1944–1945-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         27.565246,
@@ -1776,7 +1776,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny mastatski muzei",
-                  "text": "Nemzeti Művészeti Múzeum, Minszki Felsőváros.",
+                  "text": "Nemzeti Művészeti Múzeum a Minszki Felsővárosban, 1957-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -1794,7 +1794,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Muzei gistoryi belaruskaga kino",
-                  "text": "Filmmúzeum, Minszki Felsőváros.",
+                  "text": "Filmmúzeum a Minszki Felsővárosban, a 20. század eleji épületben.",
                   "category": "museum",
                   "coords": [
                         27.548632,
@@ -1839,7 +1839,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Ratusha",
-                  "text": "Városháza, Minszki Felsőváros.",
+                  "text": "Városháza a Minszki Felsővárosban, 2003-ban újjáépítve.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -1893,7 +1893,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus",
-                  "text": "Nemzeti Opera- és Balettszínház, Minszki Felsőváros.",
+                  "text": "Nemzeti Opera- és Balettszínház a Minszki Felsővárosban, 1935–1937-ben épült.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -1938,7 +1938,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Tsarkva Alyaksandra Neuskaga",
-                  "text": "Szent Sándor Nyevszkij-templom, Minszki Felsőváros.",
+                  "text": "Alexandr Nyevszkij-templom a Minszki Felsővárosban, 1898-ban épült.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -1947,7 +1947,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
-                  "text": "Szentháromság-templom, Minszki Felsőváros.",
+                  "text": "1864-ben épült neogótikus templom Minszk Felsővárosában, az Aranyhegyen (Szent Rókus-templom).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -2028,7 +2028,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny teatr imya Yanki Kupaly",
-                  "text": "A Janka Kupala Nemzeti Akadémiai Színház Minszk egyik jelentős kulturális intézménye.",
+                  "text": "Janka Kupala Színház a Minszki Felsővárosban, 1890-ben épült.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -2055,7 +2055,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoga Symona i Svyatoi Aleny",
-                  "text": "A Szent Simon és Szent Ilona-templom Minszk híres neogótikus temploma.",
+                  "text": "1910-ben vörös téglából épült neoromán stílusú templom, ismert mint Vörös Templom Minszkben.",
                   "category": "landmark",
                   "coords": [
                         27.547603,
@@ -2174,7 +2174,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Memaryyalny muzei-maisternya Zaira Azgura",
-                  "text": "Muzeul memorial Zair Azgur din Oberstadt, Minsk.",
+                  "text": "Muzeul Memorial-Atelier al lui Zair Azgur în Orașul de Sus al Minskului, deschis în 1984.",
                   "category": "museum",
                   "coords": [
                         27.578511,
@@ -2183,7 +2183,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Dom-muzei I-ga zʼezda RSDRP",
-                  "text": "Muzeul casei primului congres al PCUS din Oberstadt, Minsk.",
+                  "text": "Casa-Muzeu a Primului Congres al Partidului Muncitoresc Social Democrat Rus din Orașul de Sus al Minskului, casa din sfârșitul secolului al XIX-lea, muzeu amenajat între 1948 și 1953.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -2192,7 +2192,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Dzyarzhauny litaraturny muzei Yanki Kupaly",
-                  "text": "Muzeul Yanka Kupala din Oberstadt, Minsk.",
+                  "text": "Muzeul Janka Kupala din Orașul de Sus al Minskului, muzeu literar deschis între 1944 și 1945.",
                   "category": "museum",
                   "coords": [
                         27.565246,
@@ -2201,7 +2201,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny mastatski muzei",
-                  "text": "Muzeul Național de Artă din Oberstadt, Minsk.",
+                  "text": "Muzeul Național de Artă din Orașul de Sus al Minskului, deschis în 1957.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -2219,7 +2219,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Muzei gistoryi belaruskaga kino",
-                  "text": "Muzeul de istorie a cinematografiei din Oberstadt, Minsk.",
+                  "text": "Muzeul Cinematografiei din Orașul de Sus al Minskului, găzduit într-o clădire de la începutul secolului al XX-lea.",
                   "category": "museum",
                   "coords": [
                         27.548632,
@@ -2264,7 +2264,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Ratusha",
-                  "text": "Primăria orașului din Oberstadt, Minsk.",
+                  "text": "Primăria din Orașul de Sus al Minskului, reconstruită în 2003.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -2318,7 +2318,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus",
-                  "text": "Teatrul Național de Operă și Balet din Oberstadt, Minsk.",
+                  "text": "Teatrul Național de Operă și Balet din Orașul de Sus al Minskului, construit între 1935 și 1937.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -2363,7 +2363,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Tsarkva Alyaksandra Neuskaga",
-                  "text": "Biserica Alexandru Nevski din Oberstadt, Minsk.",
+                  "text": "Biserica Sfântul Alexandru Nevski din Orașul de Sus al Minskului, construită în 1898.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -2372,7 +2372,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
-                  "text": "Biserica Sfânta Treime din Oberstadt, Minsk.",
+                  "text": "Biserică în stil neogotic construită în 1864 pe Dealul de Aur din Orașul Superior Minsk (Biserica Sf. Roche).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -2453,7 +2453,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Natsyyanalny akademichny teatr imya Yanki Kupaly",
-                  "text": "Teatrul Național Academic Ianka Kupala este un teatru important din Minsk.",
+                  "text": "Teatrul Janka Kupala din Orașul de Sus al Minskului, construit în 1890.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -2480,7 +2480,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsel Svyatoga Symona i Svyatoi Aleny",
-                  "text": "Biserica Sfinții Simon și Elena este o celebră biserică neogotică din Minsk.",
+                  "text": "Biserică din cărămidă roșie în stil neoromanic construită în 1910, cunoscută ca Biserica Roșie din Minsk.",
                   "category": "landmark",
                   "coords": [
                         27.547603,
@@ -2599,7 +2599,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Memaryyalny muzei-maisternya Zaira Azgura",
-                  "text": "Zair Azgur Memorial Museum in Minsker Oberstadt.",
+                  "text": "Memorial Museum-Workshop of Zair Azgur in Minsk Upper Town, opened in 1984.",
                   "category": "museum",
                   "coords": [
                         27.578511,
@@ -2608,7 +2608,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "House Museum of First Congress of the Russian Social Democratic Labour Party",
-                  "text": "Museum of the First Congress of the RSDRP in Minsker Oberstadt.",
+                  "text": "House Museum of the First Congress of the RSDLP in Minsk Upper Town, house from late 19th century, museum established 1948–1953.",
                   "category": "museum",
                   "coords": [
                         27.571554,
@@ -2617,7 +2617,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Yanka Kupala Museum",
-                  "text": "Yanka Kupala Museum in Minsker Oberstadt.",
+                  "text": "Yanka Kupala Museum in Minsk Upper Town, literary museum opened 1944–1945.",
                   "category": "museum",
                   "coords": [
                         27.565246,
@@ -2626,7 +2626,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "National Art Museum",
-                  "text": "National Art Museum in Minsker Oberstadt.",
+                  "text": "National Art Museum of Belarus in Minsk Upper Town, opened in 1957.",
                   "category": "museum",
                   "coords": [
                         27.560645,
@@ -2644,7 +2644,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Cinema Museum",
-                  "text": "Cinema Museum in Minsker Oberstadt.",
+                  "text": "Cinema Museum in Minsk Upper Town, housed in an early 20th-century building.",
                   "category": "museum",
                   "coords": [
                         27.548632,
@@ -2689,7 +2689,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "City Hall",
-                  "text": "City Hall in Minsker Oberstadt.",
+                  "text": "City Hall in Minsk Upper Town, rebuilt in 2003.",
                   "category": "historical",
                   "coords": [
                         27.556112,
@@ -2743,7 +2743,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "National Academic Grand Opera and Ballet Theatre of the Republic of Belarus",
-                  "text": "National Opera and Ballet Theater in Minsker Oberstadt.",
+                  "text": "National Academic Grand Opera and Ballet Theatre in Minsk Upper Town, built 1935–1937.",
                   "category": "cultural",
                   "coords": [
                         27.561761,
@@ -2788,7 +2788,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Alexander Nevsky Church",
-                  "text": "Alexander Nevsky Church in Minsker Oberstadt.",
+                  "text": "Alexander Nevsky Church in Minsk Upper Town, built in 1898.",
                   "category": "religious",
                   "coords": [
                         27.587477,
@@ -2797,7 +2797,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Church of Holy Trinity (Church of St. Roch)",
-                  "text": "Holy Trinity Church in Minsker Oberstadt.",
+                  "text": "Built 1864 in Neo-Gothic style on Minsk's Upper Town Golden Hill (Church of St. Roch).",
                   "category": "religious",
                   "coords": [
                         27.580186,
@@ -2878,7 +2878,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Yanka Kupala National Academic Theatre",
-                  "text": "The Yanka Kupala National Academic Theatre is a major theatre in Minsk.",
+                  "text": "Yanka Kupala National Academic Theatre in Minsk Upper Town, built in 1890.",
                   "category": "landmark",
                   "coords": [
                         27.562762,
@@ -2905,7 +2905,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Church of Saints Simon and Helena",
-                  "text": "The Church of Saints Simon and Helena is a famous neo-Gothic church in Minsk.",
+                  "text": "Built 1910 in red brick in Neo-Romanesque style, known as the Red Church in Minsk.",
                   "category": "landmark",
                   "coords": [
                         27.547603,

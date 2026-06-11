@@ -57,7 +57,52 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
       fr: ["Le cinéma a été ouvert en 1937 sous la direction de l'architecte Bruno Sclafani.", "La façade est entièrement revêtue du plus beau marbre de Carrare.", "Il est situé sur Sematat Avenue, une artère principale d'Asmara.", "Le cinéma a été entièrement rénové en 2004, tout en conservant le design d'origine.", "La salle peut accueillir plusieurs centaines de spectateurs sur deux niveaux.", "Asmara est souvent surnommée « La Piccola Roma » en raison de tels bâtiments."],
     }, image: "/poi-images/er-kino-roma-landmarks-v2.webp"},
   {
-    id: "er-synagogue-asmara-landmarks-v2",
+    id: "er-synagogue-asmara-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ባህላዊ ማእከል፣ Cultural Centre",
+                  "text": "Ein lebendiges Theater und Kulturzentrum, das lokalen traditionellen Aufführungen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        38.946152,
+                        15.329514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ባህላዊ ማእከል፣ Cultural Centre",
+                  "text": "Helyi hagyományos előadásoknak szentelt nyüzsgő színház és kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        38.946152,
+                        15.329514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ባህላዊ ማእከል፣ Cultural Centre",
+                  "text": "Un teatru vibrant și un centru cultural dedicat spectacolelor tradiționale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        38.946152,
+                        15.329514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ባህላዊ ማእከል፣ Cultural Centre",
+                  "text": "A vibrant theater and cultural center dedicated to local traditional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        38.946152,
+                        15.329514
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-MA",
     coords: [38.9392, 15.3333],
@@ -111,7 +156,88 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
       fr: ["La cathédrale a été officiellement consacrée en 1969.", "Elle est le siège de l'archiéparchie d'Asmara de l'Église catholique érythréenne.", "Le nom 'Kidane Mehret' signifie 'Pacte de Miséricorde' en guèze.", "La mosaïque de l'abside représente le Couronnement de la Vierge Marie.", "Le dôme a un diamètre d'environ 15 mètres.", "L'église est située dans la partie nord-est du centre-ville."],
     }, image: "/poi-images/er-kidane-mehret-cathedral-landmarks-v2.webp"},
   {
-    id: "er-mai-jah-jah-fountain-landmarks-v2",
+    id: "er-mai-jah-jah-fountain-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hewenet",
+                  "text": "Hewenet ist eine einladende Attraktion in der Nähe des berühmten Mai-Jah-Jah-Brunnens, die sich in die ikonische Art-Deco-Stadtlandschaft von Asmara einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.92725,
+                        15.337952
+                  ]
+            },
+            {
+                  "name": "Nation Museum of Eritrea",
+                  "text": "Das Nationalmuseum von Eritrea bewahrt die reiche Geschichte des Landes und beherbergt Artefakte aus antiken aksumitischen Siedlungen, frühe menschliche Fossilien und Exponate des Unabhängigkeitskampfes.",
+                  "category": "museum",
+                  "coords": [
+                        38.927201,
+                        15.33349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hewenet",
+                  "text": "A Hewenet egy hívogató látványosság a híres Mai Jah Jah szökőkút közelében, amely beleolvad Asmara ikonikus Art Deco városképébe.",
+                  "category": "landmark",
+                  "coords": [
+                        38.92725,
+                        15.337952
+                  ]
+            },
+            {
+                  "name": "Nation Museum of Eritrea",
+                  "text": "Az Eritreai Nemzeti Múzeum az ország gazdag történelmét őrzi, ősi akszúmi települések leleteinek, korai emberi kövületeknek és a függetlenségi harc emlékeinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        38.927201,
+                        15.33349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hewenet",
+                  "text": "Hewenet este o atracție primitoare situată lângă faimoasa fântână Mai Jah Jah, integrându-se în peisajul urban iconic Art Deco al Asmarei.",
+                  "category": "landmark",
+                  "coords": [
+                        38.92725,
+                        15.337952
+                  ]
+            },
+            {
+                  "name": "Nation Museum of Eritrea",
+                  "text": "Muzeul Național al Eritreei păstrează istoria bogată a țării, găzduind artefacte din așezările antice axumite, fosile umane timpurii și obiecte din lupta pentru independență.",
+                  "category": "museum",
+                  "coords": [
+                        38.927201,
+                        15.33349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hewenet",
+                  "text": "Hewenet is an inviting attraction located near the famous Mai Jah Jah fountain, blending into Asmara's iconic Art Deco urban landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        38.92725,
+                        15.337952
+                  ]
+            },
+            {
+                  "name": "Nation Museum of Eritrea",
+                  "text": "The National Museum of Eritrea preserves the country's rich history, housing artifacts from ancient Aksumite settlements, early human fossils, and the independence struggle.",
+                  "category": "museum",
+                  "coords": [
+                        38.927201,
+                        15.33349
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-MA",
     coords: [38.9288, 15.3355],
@@ -446,7 +572,52 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "er-kino-capitol-landmarks-v2",
+    id: "er-kino-capitol-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abel's home",
+                  "text": "Abels Haus ragt im Kino-Capitol-Viertel von Asmara als ein Beispiel der unverwechselbaren lokalen Wohnarchitektur heraus.",
+                  "category": "landmark",
+                  "coords": [
+                        38.936743,
+                        15.336546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abel's home",
+                  "text": "Az Abel háza Asmara Kino Capitol negyedében a jellegzetes helyi lakóépítészet egyik példájaként emelkedik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        38.936743,
+                        15.336546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abel's home",
+                  "text": "Casa lui Abel se remarcă în cartierul Kino Capitol din Asmara ca un exemplu al arhitecturii rezidențiale locale distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        38.936743,
+                        15.336546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abel's home",
+                  "text": "Abel's home stands out in the Kino Capitol district of Asmara as an example of the distinct local residential architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        38.936743,
+                        15.336546
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-MA",
     coords: [38.9360, 15.3350],
@@ -502,7 +673,52 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "er-agordat-railway-station-landmarks-v2",
+    id: "er-agordat-railway-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "Ein Kriegerdenkmal, das in der Nähe des historischen Bahnhofs von Agordat steht.",
+                  "category": "historical",
+                  "coords": [
+                        37.889271,
+                        15.546371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "Egy háborús emlékmű, amely a történelmi agordati vasútállomás közelében áll.",
+                  "category": "historical",
+                  "coords": [
+                        37.889271,
+                        15.546371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "Un monument memorial de război aflat în apropierea gării istorice din Agordat.",
+                  "category": "historical",
+                  "coords": [
+                        37.889271,
+                        15.546371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "A war memorial monument standing near the historic Agordat railway station.",
+                  "category": "historical",
+                  "coords": [
+                        37.889271,
+                        15.546371
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-GB",
     coords: [37.8860, 15.5480],
@@ -670,7 +886,52 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "er-massawa-housing-complex-landmarks-v2",
+    id: "er-massawa-housing-complex-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site of Villa Melotti",
+                  "text": "Das historische Gelände der Villa Melotti mit architektonischen Spuren vergangener Epochen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site of Villa Melotti",
+                  "text": "A Villa Melotti történelmi helyszíne, amely letűnt korok építészeti nyomait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site of Villa Melotti",
+                  "text": "Situl istoric al Vilei Melotti, păstrând urme arhitecturale ale epocilor trecute.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site of Villa Melotti",
+                  "text": "The historical site of Villa Melotti, preserving architectural traces of past eras.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-SK",
     coords: [39.4650, 15.6050],
@@ -698,7 +959,88 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "er-nakfa-monument-landmarks-v2",
+    id: "er-nakfa-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boat to Green Island",
+                  "text": "Eine Bootsverbindung oder Anlegestelle, die Ausflüge zur Grünen Insel anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace",
+                  "text": "Die Überreste und das Gelände des ehemaligen kaiserlichen Palastes.",
+                  "category": "landmark",
+                  "coords": [
+                        39.46875,
+                        15.610404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boat to Green Island",
+                  "text": "A Zöld-szigetre (Green Island) induló hajókirándulások indulási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace",
+                  "text": "A korábbi császári palota romjai és területe.",
+                  "category": "landmark",
+                  "coords": [
+                        39.46875,
+                        15.610404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boat to Green Island",
+                  "text": "Un punct de plecare pentru excursiile cu barca către Insula Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace",
+                  "text": "Ruinele și domeniul fostului palat imperial.",
+                  "category": "landmark",
+                  "coords": [
+                        39.46875,
+                        15.610404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boat to Green Island",
+                  "text": "A departure point for boat trips heading to the nearby Green Island.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace",
+                  "text": "The remains and grounds of the former Imperial Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        39.46875,
+                        15.610404
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-SK",
     coords: [39.4700, 15.6100],
@@ -754,7 +1096,88 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "er-degghi-selam-landmarks-v2",
+    id: "er-degghi-selam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kidane Meheret Church",
+                  "text": "Ein prominentes religiöses Gotteshaus, das der lokalen orthodoxen christlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        38.936823,
+                        15.340949
+                  ]
+            },
+            {
+                  "name": "Sankt-Josephs-Kathedrale",
+                  "text": "Eine bemerkenswerte katholische Kathedrale mit markanter Architektur im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        38.937909,
+                        15.336736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kidane Meheret Church",
+                  "text": "Kiemelkedő vallási istentiszteleti hely, amely a helyi ortodox keresztény közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        38.936823,
+                        15.340949
+                  ]
+            },
+            {
+                  "name": "ካቴድራለ",
+                  "text": "Nevezetes katolikus katedrális feltűnő építészettel a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        38.937909,
+                        15.336736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kidane Meheret Church",
+                  "text": "Un lăcaș de cult religios proeminent care deservește comunitatea creștin-ortodoxă locală.",
+                  "category": "religious",
+                  "coords": [
+                        38.936823,
+                        15.340949
+                  ]
+            },
+            {
+                  "name": "ካቴድራለ",
+                  "text": "O catedrală catolică remarcabilă, cu o arhitectură izbitoare în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        38.937909,
+                        15.336736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kidane Meheret Church",
+                  "text": "A prominent religious place of worship serving the local Orthodox Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        38.936823,
+                        15.340949
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Cathedral",
+                  "text": "A notable Catholic cathedral featuring striking architecture in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        38.937909,
+                        15.336736
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-MA",
     coords: [38.9370, 15.3390],
@@ -782,7 +1205,52 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "er-ministry-of-education-landmarks-v2",
+    id: "er-ministry-of-education-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa degli Italiani (Gallery)",
+                  "text": "Eine Kunstgalerie und ein kultureller Veranstaltungsort, der italienisches Erbe und Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        38.935244,
+                        15.337467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa degli Italiani (Gallery)",
+                  "text": "Olasz örökséget és kiállításokat bemutató művészeti galéria és kulturális helyszín.",
+                  "category": "museum",
+                  "coords": [
+                        38.935244,
+                        15.337467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa degli Italiani (Gallery)",
+                  "text": "O galerie de artă și un loc cultural care prezintă moștenirea italiană și diverse expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        38.935244,
+                        15.337467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa degli Italiani (Gallery)",
+                  "text": "An art gallery and cultural venue showcasing Italian heritage and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        38.935244,
+                        15.337467
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ER-MA",
     coords: [38.9345, 15.3375],

@@ -41,7 +41,52 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "port-of-benghazi-economic-v2",
+    id: "port-of-benghazi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "23rd July Lake",
+                  "text": "Eine markante Salzwasserlagune, die in das städtische Gefüge von Bengasi integriert ist und eng mit dem Haupthafen der Stadt verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "23rd July Lake",
+                  "text": "Bengázi városszövetébe integrálódott jelentős sós vizű lagúna, amely szorosan kapcsolódik a város fő tengeri kikötőjéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "23rd July Lake",
+                  "text": "O lagună proeminentă cu apă sărată integrată în țesutul urban din Benghazi, care se conectează strâns la principalul port maritim al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "23rd July Lake",
+                  "text": "A prominent saltwater lagoon integrated into the urban fabric of Benghazi, connecting closely to the city's main seaport.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LY-BA",
     coords: [20.06, 32.11],
@@ -91,7 +136,52 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "misrata-port-economic-v2",
+    id: "misrata-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Misurata Beach",
+                  "text": "Misurata Beach ist ein sandiger Küstenabschnitt am Mittelmeer, der Entspannung am Meer in der Nähe des geschäftigen Hafens bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166638,
+                        32.390524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Misurata Beach",
+                  "text": "A Misurata strand egy homokos partszakasz a Földközi-tenger mentén, amely tengerparti pihenést kínál a nyüzsgő kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166638,
+                        32.390524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Misurata Beach",
+                  "text": "Plaja Misurata este o fâșie de coastă nisipoasă de-a lungul Mării Mediterane, oferind relaxare la malul mării în apropierea portului plin de viață.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166638,
+                        32.390524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Misurata Beach",
+                  "text": "Misurata Beach is a sandy coastal stretch along the Mediterranean Sea, offering seaside relaxation near the bustling port.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166638,
+                        32.390524
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LY-MI",
     coords: [15.22, 32.37],
@@ -141,7 +231,52 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "al-khums-port-economic-v2",
+    id: "al-khums-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Khoms Beach",
+                  "text": "Der Al Khoms Beach ist ein sandiger mediterraner Küstenabschnitt in Al Khoms.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257856,
+                        32.661232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Khoms Beach",
+                  "text": "Az Al Khoms Beach egy homokos mediterrán partvidék Al Khoms területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257856,
+                        32.661232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Khoms Beach",
+                  "text": "Al Khoms Beach este un loc pitoresc cu nisip pe coasta mediteraneană, situat în Al Khoms.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257856,
+                        32.661232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Khoms Beach",
+                  "text": "Al Khoms Beach is a sandy Mediterranean coastal spot situated in Al Khoms.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257856,
+                        32.661232
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LY-MB",
     coords: [14.26, 32.65],
@@ -191,7 +326,160 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "tobruk-port-economic-v2",
+    id: "tobruk-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach Ras bayad",
+                  "text": "Dieser Sandstrand in Tobruk bietet einen Ort zur Erholung am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026711,
+                        32.042214
+                  ]
+            },
+            {
+                  "name": "Alledo beach",
+                  "text": "Alledo Beach in Tobruk ist ein lokaler Sandstrand am Mittelmeer, der für seine Küstenlandschaft bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003256,
+                        32.079572
+                  ]
+            },
+            {
+                  "name": "San Gorge Beach",
+                  "text": "Dieser mediterrane Strand in Tobruk bietet Sandstrände und Küstenblicke in der Nähe des Hafens der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999106,
+                        32.074259
+                  ]
+            },
+            {
+                  "name": "Ras bayad Beach",
+                  "text": "Dieser Sandstrand nahe Tobruk bietet einen feinen Küstenstreifen am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026616,
+                        32.043243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach Ras bayad",
+                  "text": "Ez a homokos tengerpart Tobrukban kikapcsolódási lehetőséget kínál a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026711,
+                        32.042214
+                  ]
+            },
+            {
+                  "name": "Alledo beach",
+                  "text": "A tobruki Alledo Beach egy helyi mediterrán homokos partszakasz, amely a tengerparti tájairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003256,
+                        32.079572
+                  ]
+            },
+            {
+                  "name": "San Gorge Beach",
+                  "text": "Ez a mediterrán strand Tobrukban homokos partokat és tengerparti kilátást kínál a város kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999106,
+                        32.074259
+                  ]
+            },
+            {
+                  "name": "Ras bayad Beach",
+                  "text": "Ez a Tobruk melletti tengerparti homokos strand a Földközi-tenger mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026616,
+                        32.043243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach Ras bayad",
+                  "text": "Această plajă de coastă cu nisip din Tobruk oferă un loc de recreere de-a lungul Mării Mediterane.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026711,
+                        32.042214
+                  ]
+            },
+            {
+                  "name": "Alledo beach",
+                  "text": "Plaja Alledo din Tobruk este o întindere locală de nisip mediteranean, cunoscută pentru peisajul său de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003256,
+                        32.079572
+                  ]
+            },
+            {
+                  "name": "San Gorge Beach",
+                  "text": "Această plajă mediteraneană din Tobruk oferă țărmuri cu nisip și vederi de coastă lângă portul orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999106,
+                        32.074259
+                  ]
+            },
+            {
+                  "name": "Ras bayad Beach",
+                  "text": "Această plajă de coastă de lângă Tobruk oferă o întindere de nisip la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026616,
+                        32.043243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach Ras bayad",
+                  "text": "This sandy coastal beach in Tobruk provides a place for recreation along the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026711,
+                        32.042214
+                  ]
+            },
+            {
+                  "name": "Alledo beach",
+                  "text": "Alledo Beach in Tobruk is a local Mediterranean stretch of sand known for its coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003256,
+                        32.079572
+                  ]
+            },
+            {
+                  "name": "San Gorge Beach",
+                  "text": "This Mediterranean beach in Tobruk offers sandy shores and coastal views near the city's port.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999106,
+                        32.074259
+                  ]
+            },
+            {
+                  "name": "Ras bayad Beach",
+                  "text": "This coastal beach near Tobruk offers a sandy stretch along the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        24.026616,
+                        32.043243
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LY-BU",
     coords: [23.98, 32.07],
@@ -241,7 +529,52 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "derna-port-economic-v2",
+    id: "derna-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Derna lighthouse",
+                  "text": "Der Leuchtturm von Derna ist ein Leuchtfeuer, das den Schiffsverkehr entlang der Mittelmeerküste nahe dem örtlichen Hafen leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.684596,
+                        32.74803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derna lighthouse",
+                  "text": "A dernai világítótorony egy navigációs jelzőfény, amely a tengeri forgalmat irányítja a Földközi-tenger partján, a helyi kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.684596,
+                        32.74803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Derna lighthouse",
+                  "text": "Farul Derna este un far de navigație care ghidează traficul maritim de-a lungul coastei mediteraneene în apropierea portului local.",
+                  "category": "landmark",
+                  "coords": [
+                        22.684596,
+                        32.74803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derna lighthouse",
+                  "text": "The Derna lighthouse is a navigational beacon guiding maritime traffic along the Mediterranean coast near the local port.",
+                  "category": "landmark",
+                  "coords": [
+                        22.684596,
+                        32.74803
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LY-DR",
     coords: [22.64, 32.76],
@@ -591,7 +924,196 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "sharara-oil-field-economic-v2",
+    id: "sharara-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyramiden von Al Hatiyah / Germa",
+                  "text": "Diese antiken steinernen Pyramidenstrukturen sind die Überreste königlicher Garamantengräber, die sich aus der Wüstenlandschaft erheben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.948902,
+                        26.559293
+                  ]
+            },
+            {
+                  "name": "kasool of obari",
+                  "text": "Kasool of Obari bietet Besuchern einen Einblick in die traditionellen Siedlungen, welche die riesigen Dünenfelder der Sahara umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "jhoko",
+                  "text": "Jhoko ist ein lokales kulturelles Wahrzeichen inmitten der trockenen Weiten der Wüstenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            },
+            {
+                  "name": "mahkama",
+                  "text": "Mahkama repräsentiert ein altes, traditionelles Verwaltungsgebäude oder Gericht in der Wüstenoase.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "tobou country",
+                  "text": "Tobou Country hebt die raue Wüstenheimat und die traditionelle Kultur der indigenen Tubu-Völker hervor.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "germa gegema gerama pyramids",
+                  "text": "Ezek az ősi, kőből épült piramisszerkezetek a királyi garamant sírok maradványai, amelyek kiemelkednek a sivatagi tájból.",
+                  "category": "landmark",
+                  "coords": [
+                        12.948902,
+                        26.559293
+                  ]
+            },
+            {
+                  "name": "kasool of obari",
+                  "text": "A Kasool of Obari bepillantást enged a hatalmas szaharai dűnemezőket körülvevő hagyományos települések életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "jhoko",
+                  "text": "A Jhoko egy helyi kulturális nevezetesség a sivatagi régió száraz pusztasága közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            },
+            {
+                  "name": "mahkama",
+                  "text": "A Mahkama egy régi, hagyományos adminisztratív épületet vagy bíróságot képvisel a sivatagi oázisban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "tobou country",
+                  "text": "A Tobou country az őslakos tubu nép zord sivatagi hazáját és hagyományos kultúráját helyezi előtérbe.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "germa gegema gerama pyramids",
+                  "text": "Aceste structuri piramidale antice din piatră sunt rămășițele mormintelor regale garamantice care se ridică din peisajul deșertic.",
+                  "category": "landmark",
+                  "coords": [
+                        12.948902,
+                        26.559293
+                  ]
+            },
+            {
+                  "name": "kasool of obari",
+                  "text": "Kasool din Obari oferă vizitatorilor o privire în așezările tradiționale care înconjoară vastele câmpuri de dune din Sahara.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "jhoko",
+                  "text": "Jhoko este un punct de reper cultural local situat în întinderea aridă a regiunii deșertice.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            },
+            {
+                  "name": "mahkama",
+                  "text": "Mahkama reprezintă o veche structură administrativă tradițională sau curte de justiție situată în oaza din deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "tobou country",
+                  "text": "Țara Tobou scoate în evidență patria aspră din deșert și cultura tradițională a popoarelor indigene Tubu.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "germa gegema gerama pyramids",
+                  "text": "These ancient stone pyramidal structures are the remnants of Garamantian royal tombs rising from the desert landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        12.948902,
+                        26.559293
+                  ]
+            },
+            {
+                  "name": "kasool of obari",
+                  "text": "Kasool of Obari offers visitors a glimpse into the traditional settlements surrounding the vast Saharan dune fields.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "jhoko",
+                  "text": "Jhoko is a local cultural landmark set within the arid expanse of the desert region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            },
+            {
+                  "name": "mahkama",
+                  "text": "Mahkama represents an old traditional administrative structure or court located in the desert oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "tobou country",
+                  "text": "Tobou country highlights the rugged desert homelands and traditional culture of the indigenous Toubou people.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LY-MQ",
     coords: [12.87, 26.58],
@@ -1041,7 +1563,52 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "nafoora-oil-field-economic-v2",
+    id: "nafoora-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Airport Road",
+                  "text": "Ein Aussichtspunkt am Straßenrand, der die weitläufige industrielle Infrastruktur des Nafoora-Ölfelds überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        21.579089,
+                        29.229381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Airport Road",
+                  "text": "Útszéli kilátópont, ahonnan jól látható a Nafoora olajmező kiterjedt ipari infrastruktúrája.",
+                  "category": "natural",
+                  "coords": [
+                        21.579089,
+                        29.229381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Airport Road",
+                  "text": "Un punct de belvedere de la marginea drumului cu vedere la vasta infrastructură industrială a câmpului petrolier Nafoora.",
+                  "category": "natural",
+                  "coords": [
+                        21.579089,
+                        29.229381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Airport Road",
+                  "text": "A roadside viewpoint overlooking the extensive industrial infrastructure of the Nafoora oil field.",
+                  "category": "natural",
+                  "coords": [
+                        21.579089,
+                        29.229381
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LY-WA",
     coords: [21.6, 29.2],
@@ -1291,7 +1858,52 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "lisco-misrata-steel-economic-v2",
+    id: "lisco-misrata-steel-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The heavy way circle",
+                  "text": "Dieses kreisförmige Monument markiert einen wichtigen Verkehrsknotenpunkt in der für ihre Stahlwirtschaft bekannten Stadt Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.195869,
+                        32.354702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The heavy way circle",
+                  "text": "Ez a körforgalmi emlékmű egy fontos közlekedési csomópontot jelöl az acéliparáról ismert Miszrátában.",
+                  "category": "historical",
+                  "coords": [
+                        15.195869,
+                        32.354702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The heavy way circle",
+                  "text": "Acest monument rutier circular marchează o intersecție importantă în orașul industrial și siderurgic Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.195869,
+                        32.354702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The heavy way circle",
+                  "text": "This circular monument marks a significant traffic junction in the steel-producing industrial city of Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.195869,
+                        32.354702
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LY-MI",
     coords: [15.2, 32.33],
@@ -1341,7 +1953,88 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     
   },
   {
-    id: "zliten-cement-plant-economic-v2",
+    id: "zliten-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument to the Valley of Ka’am",
+                  "text": "Ein Monument in Zliten, das dem nahegelegenen Ka'am-Tal gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.443794,
+                        32.501979
+                  ]
+            },
+            {
+                  "name": "Villa Dar Buc Ammera",
+                  "text": "Eine archäologische Stätte, die die Überreste der historischen Villa Dar Buc Ammera in Zliten umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        14.558264,
+                        32.49832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument to the Valley of Ka’am",
+                  "text": "Egy emlékmű Zlitenben, amelyet a közeli Ka'am-völgynek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        14.443794,
+                        32.501979
+                  ]
+            },
+            {
+                  "name": "Villa Dar Buc Ammera",
+                  "text": "Egy régészeti lelőhely, amely a történelmi Villa Dar Buc Ammera romjait őrzi Zlitenben.",
+                  "category": "historical",
+                  "coords": [
+                        14.558264,
+                        32.49832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument to the Valley of Ka’am",
+                  "text": "Un monument din Zliten dedicat văii din apropiere, Valea Ka'am.",
+                  "category": "historical",
+                  "coords": [
+                        14.443794,
+                        32.501979
+                  ]
+            },
+            {
+                  "name": "Villa Dar Buc Ammera",
+                  "text": "Un sit arheologic care cuprinde rămășițele vilei istorice Dar Buc Ammera din Zliten.",
+                  "category": "historical",
+                  "coords": [
+                        14.558264,
+                        32.49832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to the Valley of Ka’am",
+                  "text": "A monument in Zliten dedicated to the nearby Ka'am Valley.",
+                  "category": "historical",
+                  "coords": [
+                        14.443794,
+                        32.501979
+                  ]
+            },
+            {
+                  "name": "Villa Dar Buc Ammera",
+                  "text": "An archaeological site featuring the remains of the historic Villa Dar Buc Ammera in Zliten.",
+                  "category": "historical",
+                  "coords": [
+                        14.558264,
+                        32.49832
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LY-MB",
     coords: [14.54, 32.48],

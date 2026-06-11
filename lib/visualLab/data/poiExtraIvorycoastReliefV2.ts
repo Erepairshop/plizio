@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraIvorycoastReliefV2: POI[] = [
   {
-    id: "mont-nimba-relief-v2",
+    id: "mont-nimba-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont Naturel de Cavally",
+                  "text": "Der Pont Naturel de Cavally ist eine markante, vom Wasser geformte natürliche Felsbrücke in der Nähe des Mont-Nimba-Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.441365,
+                        7.696975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont Naturel de Cavally",
+                  "text": "A Pont Naturel de Cavally egy feltűnő természetes sziklahíd, amelyet a víz vájt ki a Mont Nimba domborzata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.441365,
+                        7.696975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont Naturel de Cavally",
+                  "text": "Pont Naturel de Cavally este un pod natural de stâncă impresionant sculptat de apă în apropiere de relieful Mont Nimba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.441365,
+                        7.696975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont Naturel de Cavally",
+                  "text": "Pont Naturel de Cavally is a striking natural rock bridge carved by water near the Mont Nimba relief.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.441365,
+                        7.696975
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CI-11",
     coords: [-8.4556, 7.625],
@@ -73,7 +118,52 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       fr: ["Altitude moyenne entre 200 et 300 mètres.", "Cœur de la culture Baoulé depuis le XVIIIe siècle.", "Géologiquement marqué par des formations granitiques précambriennes.", "Principale zone de culture de l'igname en Côte d'Ivoire.", "Forme la ligne de partage des eaux entre le Bandama et le Comoé.", "Le climat est fortement influencé par l'harmattan poussiéreux."],
     }, image: "/poi-images/plateau-baoule-relief-v2.webp"},
   {
-    id: "lagune-ebrie-relief-v2",
+    id: "lagune-ebrie-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont Philippe-Grégoire-Yacé",
+                  "text": "Diese massive Betonbrücke überspannt das weite Wasser der Ébrié-Lagune und bildet eine wichtige Verkehrsader.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.23813,
+                        5.274915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont Philippe-Grégoire-Yacé",
+                  "text": "Ez a masszív betonhíd az Ébrié-lagúna széles vizét íveli át, és fontos közlekedési ütőeret alkot.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.23813,
+                        5.274915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont Philippe-Grégoire-Yacé",
+                  "text": "Acest pod masiv de beton traversează apele largi ale Lagunei Ébrié, formând o arteră de transport esențială.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.23813,
+                        5.274915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont Philippe-Grégoire-Yacé",
+                  "text": "This massive concrete bridge spans the wide waters of the Ébrié Lagoon, providing a crucial transportation artery.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.23813,
+                        5.274915
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CI-09",
     coords: [-4.2, 5.25],
@@ -468,7 +558,88 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     },
   },
   {
-    id: "becken-von-bouake-relief-v2",
+    id: "becken-von-bouake-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre de poterie de Tanou Sakassou",
+                  "text": "Diese kulturelle Attraktion zeigt die traditionellen Techniken der Tonherstellung der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.931447,
+                        7.678857
+                  ]
+            },
+            {
+                  "name": "Ancien zoo de Bouaké",
+                  "text": "Diese Ruinen bestehen aus den verlassenen Gehegen und Wegen des ehemaligen Zoologischen Gartens.",
+                  "category": "historical",
+                  "coords": [
+                        -4.995305,
+                        7.692942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre de poterie de Tanou Sakassou",
+                  "text": "Ez a kulturális látványosság a régió hagyományos agyagedény-készítési technikáit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.931447,
+                        7.678857
+                  ]
+            },
+            {
+                  "name": "Ancien zoo de Bouaké",
+                  "text": "Ezek a romok az egykori állatkert elhagyott kifutóiból és ösvényeiből állnak.",
+                  "category": "historical",
+                  "coords": [
+                        -4.995305,
+                        7.692942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre de poterie de Tanou Sakassou",
+                  "text": "Această atracție culturală prezintă tehnicile tradiționale de confecționare a ceramicii din lut ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.931447,
+                        7.678857
+                  ]
+            },
+            {
+                  "name": "Ancien zoo de Bouaké",
+                  "text": "Aceste ruine constau din țarcurile și aleile abandonate ale fostului parc zoologic.",
+                  "category": "historical",
+                  "coords": [
+                        -4.995305,
+                        7.692942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanou Sakassou pottery center",
+                  "text": "This cultural attraction showcases the traditional clay pottery making techniques of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.931447,
+                        7.678857
+                  ]
+            },
+            {
+                  "name": "Ancien zoo de Bouaké",
+                  "text": "These ruins consist of the abandoned enclosures and paths of the former zoological park.",
+                  "category": "historical",
+                  "coords": [
+                        -4.995305,
+                        7.692942
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CI-06",
     coords: [-5.0, 7.7],
@@ -612,7 +783,88 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     },
   },
   {
-    id: "plateau-bongouanou-relief-v2",
+    id: "plateau-bongouanou-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espace HKB",
+                  "text": "Espace HKB ist ein Freizeitpark, der Outdoor-Aktivitäten auf dem Bongouanou-Plateau bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.204504,
+                        6.652187
+                  ]
+            },
+            {
+                  "name": "Grotte de Saint André",
+                  "text": "Die Grotte de Saint André ist eine monumentale Grotte und religiöse Stätte in der Region Bongouanou.",
+                  "category": "historical",
+                  "coords": [
+                        -4.20329,
+                        6.652157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace HKB",
+                  "text": "Az Espace HKB egy szabadidős vidámpark, amely szabadtéri tevékenységeket kínál a Bongouanou-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.204504,
+                        6.652187
+                  ]
+            },
+            {
+                  "name": "Grotte de Saint André",
+                  "text": "A Szent András-barlang egy monumentális barlang és vallási helyszín a Bongouanou régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -4.20329,
+                        6.652157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace HKB",
+                  "text": "Espace HKB este un parc tematic de recreere care oferă activități de agrement în aer liber pe platoul Bongouanou.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.204504,
+                        6.652187
+                  ]
+            },
+            {
+                  "name": "Grotte de Saint André",
+                  "text": "Grota Sfântului Andrei este o grotă monumentală și un loc religios situat în regiunea Bongouanou.",
+                  "category": "historical",
+                  "coords": [
+                        -4.20329,
+                        6.652157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace HKB",
+                  "text": "Espace HKB is a recreational theme park offering outdoor leisure activities on the Bongouanou plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.204504,
+                        6.652187
+                  ]
+            },
+            {
+                  "name": "Grotte de Saint André",
+                  "text": "Grotte de Saint André is a monumental grotto and religious site nestled in the Bongouanou region.",
+                  "category": "historical",
+                  "coords": [
+                        -4.20329,
+                        6.652157
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CI-06",
     coords: [-4.2, 6.6],
@@ -756,7 +1008,232 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     },
   },
   {
-    id: "lagune-abidjan-relief-v2",
+    id: "lagune-abidjan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Orcaland",
+                  "text": "Orcaland ist ein beliebter Vergnügungs- und Themenpark an den Ufern der Lagune von Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Eureka Galerie",
+                  "text": "Die Eureka Galerie ist eine Kunstgalerie in der Nähe der malerischen Lagune von Abidjan, in der zeitgenössische visuelle Kunstwerke ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -3.98229,
+                        5.290707
+                  ]
+            },
+            {
+                  "name": "Walls",
+                  "text": "Eine Kunstgalerie, die eine kuratierte Auswahl lokaler visueller Künste und Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97422,
+                        5.28406
+                  ]
+            },
+            {
+                  "name": "Mastifani",
+                  "text": "Ein Galerieraum, der der Ausstellung zeitgenössischer kultureller und kreativer Werke gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97743,
+                        5.285996
+                  ]
+            },
+            {
+                  "name": "racine",
+                  "text": "Eine kulturelle Galerie, die künstlerische Wurzeln und zeitgenössische visuelle Kunst beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        -3.972395,
+                        5.289374
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "Ein lebhafter Kunstmarkt, auf dem lokale Handwerker ihre handgefertigten kreativen Werke ausstellen und verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Orcaland",
+                  "text": "Az Orcaland egy népszerű vidámpark és élménypark az abidjani lagúna partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Eureka Galerie",
+                  "text": "Az Eureka Galerie egy művészeti galéria, amely kortárs vizuális művészeti alkotásokat állít ki a festői abidjani lagúna közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -3.98229,
+                        5.290707
+                  ]
+            },
+            {
+                  "name": "Walls",
+                  "text": "Egy művészeti galéria, amely a helyi vizuális művészetek válogatott kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97422,
+                        5.28406
+                  ]
+            },
+            {
+                  "name": "Mastifani",
+                  "text": "Kortárs kulturális és kreatív alkotások bemutatásának szentelt galériatér.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97743,
+                        5.285996
+                  ]
+            },
+            {
+                  "name": "racine",
+                  "text": "A művészeti gyökereket és a kortárs vizuális művészeteket kiemelő kulturális galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -3.972395,
+                        5.289374
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "Nyüzsgő művészeti piac, ahol a helyi kézművesek bemutatják és árusítják kézzel készített alkotásaikat.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Orcaland",
+                  "text": "Orcaland este un parc tematic și de amuzament popular situat pe malul lagunei Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Eureka Galerie",
+                  "text": "Eureka Galerie este o galerie de artă care expune opere de artă vizuală contemporană lângă pitoreasca lagună Abidjan.",
+                  "category": "museum",
+                  "coords": [
+                        -3.98229,
+                        5.290707
+                  ]
+            },
+            {
+                  "name": "Walls",
+                  "text": "O galerie de artă care prezintă o selecție curată de arte vizuale și expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97422,
+                        5.28406
+                  ]
+            },
+            {
+                  "name": "Mastifani",
+                  "text": "Un spațiu de galerie dedicat expunerii lucrărilor culturale și creative contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97743,
+                        5.285996
+                  ]
+            },
+            {
+                  "name": "racine",
+                  "text": "O galerie culturală care evidențiază rădăcinile artistice și artele vizuale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -3.972395,
+                        5.289374
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "O piață de artă plină de viață unde artizanii locali expun și vând obiecte de artizanat creativ.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orcaland",
+                  "text": "Orcaland is a popular amusement and theme park set along the shores of the Abidjan lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Eureka Galerie",
+                  "text": "Eureka Galerie is an art gallery exhibiting contemporary visual artworks near the scenic Abidjan lagoon.",
+                  "category": "museum",
+                  "coords": [
+                        -3.98229,
+                        5.290707
+                  ]
+            },
+            {
+                  "name": "Walls",
+                  "text": "An art gallery showcasing a curated selection of local visual arts and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97422,
+                        5.28406
+                  ]
+            },
+            {
+                  "name": "Mastifani",
+                  "text": "A gallery space dedicated to displaying contemporary cultural and creative works.",
+                  "category": "museum",
+                  "coords": [
+                        -3.97743,
+                        5.285996
+                  ]
+            },
+            {
+                  "name": "racine",
+                  "text": "A cultural gallery highlighting artistic roots and contemporary visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        -3.972395,
+                        5.289374
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "A bustling art market where local artisans display and sell their handmade creative crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CI-09",
     coords: [-4.0, 5.3],

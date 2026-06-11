@@ -151,7 +151,88 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "banjul-breweries-economic-v2",
+    id: "banjul-breweries-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Dieses Kulturtheater bietet einen speziellen Ort für darstellende Live-Künste und lokale Theaterstücke.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Diese islamische Kultstätte bietet der lokalen muslimischen Gemeinschaft einen geräumigen Gebetssaal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ez a kulturális színház dedikált helyszínt biztosít az élő előadó-művészeteknek és a helyi színdaraboknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Ez az iszlám istentiszteleti hely tágas imatermet biztosít a helyi muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Acest teatru cultural oferă un spațiu dedicat pentru artele spectacolului live și piese locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Acest lăcaș de cult islamic oferă o sală de rugăciune spațioasă pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "This cultural theatre provides a dedicated venue for live performing arts and local plays.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "This Islamic place of worship provides a spacious prayer hall for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457678
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GM-B",
     coords: [-16.67, 13.46],
@@ -295,7 +376,52 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "gunjur-fish-meal-factory-economic-v2",
+    id: "gunjur-fish-meal-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lamin's Museum",
+                  "text": "Lamins Museum ist eine lokale Einrichtung, die sich der Erhaltung und Ausstellung der regionalen Geschichte von gunjur-fish-meal-factory-economic-v2 widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -16.753383,
+                        13.166109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lamin's Museum",
+                  "text": "A Lamin's Museum egy helyi intézmény, amely gunjur-fish-meal-factory-economic-v2 regionális történelmének megőrzésére és bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -16.753383,
+                        13.166109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lamin's Museum",
+                  "text": "Muzeul Lamin este o instituție locală dedicată conservării și expunerii istoriei regionale din gunjur-fish-meal-factory-economic-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -16.753383,
+                        13.166109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lamin's Museum",
+                  "text": "Lamin's Museum is a local institution dedicated to preserving and exhibiting the regional history of gunjur-fish-meal-factory-economic-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -16.753383,
+                        13.166109
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GM-W",
     coords: [-16.76, 13.18],
@@ -439,7 +565,52 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kuntaur-groundnut-depot-economic-v2",
+    id: "kuntaur-groundnut-depot-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Embarquement Chimpanzees & Hippos ist eine Attraktion am Flussufer, die Wildtier-Ausflüge in der Nähe von Kuntaur anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Az Embarquement Chimpanzees & Hippos egy folyóparti látványosság, amely vadvilági indulásokat kínál Kuntaur közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Embarquement Chimpanzees & Hippos este o atracție pe malul râului care oferă plecări pentru observarea faunei sălbatice lângă Kuntaur.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Embarquement Chimpanzees & Hippos is a riverside attraction offering wildlife departures near Kuntaur.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GM-M",
     coords: [-14.89, 13.67],
@@ -631,7 +802,52 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sanyang-fish-landing-economic-v2",
+    id: "sanyang-fish-landing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Osprey Beach Bar",
+                  "text": "Diese Strandbar an der Küste bietet Meerblick und einen Ort zum Entspannen am Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.79198,
+                        13.267585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osprey Beach Bar",
+                  "text": "Ez a tengerparti bár óceánra néző kilátást és homokos pihenőhelyet kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.79198,
+                        13.267585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Osprey Beach Bar",
+                  "text": "Acest bar pe plajă oferă vedere la ocean și un loc de relaxare pe nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.79198,
+                        13.267585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osprey Beach Bar",
+                  "text": "This coastal beach bar offers ocean views and a place to relax by the sand.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.79198,
+                        13.267585
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GM-W",
     coords: [-16.79, 13.26],
@@ -823,7 +1039,52 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bansang-river-wharf-economic-v2",
+    id: "bansang-river-wharf-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bankuba Forest Park",
+                  "text": "Der Bankuba Forest Park ist ein ausgewiesenes Naturschutzgebiet mit dichter Vegetation, das das Flussökosystem in der Nähe von Bansang stützt.",
+                  "category": "natural",
+                  "coords": [
+                        -14.563054,
+                        13.410605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bankuba Forest Park",
+                  "text": "A Bankuba Erdei Park egy kijelölt természetvédelmi terület, sűrű növényzettel, amely a Bansang közelében található folyóparti ökoszisztémát támogatja.",
+                  "category": "natural",
+                  "coords": [
+                        -14.563054,
+                        13.410605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bankuba Forest Park",
+                  "text": "Parcul Forestier Bankuba este o rezervație naturală desemnată cu vegetație densă, care sprijină ecosistemul fluvial din apropierea orașului Bansang.",
+                  "category": "natural",
+                  "coords": [
+                        -14.563054,
+                        13.410605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bankuba Forest Park",
+                  "text": "Bankuba Forest Park is a designated natural reserve featuring dense vegetation that supports the riverine ecosystem near Bansang.",
+                  "category": "natural",
+                  "coords": [
+                        -14.563054,
+                        13.410605
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GM-M",
     coords: [-14.65, 13.44],
@@ -871,7 +1132,52 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kerewan-fish-landing-economic-v2",
+    id: "kerewan-fish-landing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "Dieses Waldgebiet schützt die natürliche Flora im Hinterland der Anlegestellen von Kerewan.",
+                  "category": "natural",
+                  "coords": [
+                        -16.072831,
+                        13.472685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "Ez az erdőpark a kerewani halfeldolgozók hátországának természetes növényvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        -16.072831,
+                        13.472685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "Acest parc forestier protejează flora naturală din interiorul zonei punctelor de debarcare a peștelui din Kerewan.",
+                  "category": "natural",
+                  "coords": [
+                        -16.072831,
+                        13.472685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "This forest reserve protects the natural flora in the hinterland of the Kerewan fish landing sites.",
+                  "category": "natural",
+                  "coords": [
+                        -16.072831,
+                        13.472685
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GM-N",
     coords: [-16.09, 13.49],

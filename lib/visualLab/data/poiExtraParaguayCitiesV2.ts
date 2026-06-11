@@ -2802,7 +2802,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ruinas Jesuíticas de San Ignacio Guazú",
-                  "text": "Archäologische Stätte der Jesuiten in San Ignacio Guazú.",
+                  "text": "Die Jesuitenruinen von San Ignacio Guazú, gegründet 1609.",
                   "category": "historical",
                   "coords": [
                         -57.024018,
@@ -2840,7 +2840,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ruinas Jesuíticas de San Ignacio Guazú",
-                  "text": "Jezsuita régészeti lelőhely San Ignacio Guazúban.",
+                  "text": "A San Ignacio Guazú-i jezsuita romok, 1609-ben alapítva.",
                   "category": "historical",
                   "coords": [
                         -57.024018,
@@ -2878,7 +2878,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ruinas Jesuíticas de San Ignacio Guazú",
-                  "text": "Sit arheologic iezuit în San Ignacio Guazú.",
+                  "text": "Ruinele iezuite din San Ignacio Guazú, fondate în 1609.",
                   "category": "historical",
                   "coords": [
                         -57.024018,
@@ -2916,7 +2916,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ruinas Jesuíticas de San Ignacio Guazú",
-                  "text": "Jesuit archaeological site in San Ignacio Guazú.",
+                  "text": "Jesuit ruins of San Ignacio Guazú, founded in 1609.",
                   "category": "historical",
                   "coords": [
                         -57.024018,

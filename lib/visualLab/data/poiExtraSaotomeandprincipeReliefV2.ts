@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
   {
-    id: "pico-cabumbe-relief-v2",
+    id: "pico-cabumbe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Maria Fernandes",
+                  "text": "Pico Maria Fernandes ist ein markanter Vulkanriese, der sich steil in der zerklüfteten Landschaft von São Tomé erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        6.643953,
+                        0.169832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Maria Fernandes",
+                  "text": "A Pico Maria Fernandes egy kiemelkedő vulkáni csúcs, amely élesen magasodik São Tomé zord táján.",
+                  "category": "natural",
+                  "coords": [
+                        6.643953,
+                        0.169832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Maria Fernandes",
+                  "text": "Pico Maria Fernandes este un vârf vulcanic proeminent care se ridică brusc în peisajul accidentat din São Tomé.",
+                  "category": "natural",
+                  "coords": [
+                        6.643953,
+                        0.169832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Maria Fernandes",
+                  "text": "Pico Maria Fernandes is a prominent volcanic peak rising sharply in the rugged landscape of São Tomé.",
+                  "category": "natural",
+                  "coords": [
+                        6.643953,
+                        0.169832
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ST-03",
     coords: [6.64, 0.19],
@@ -375,7 +420,52 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
     }
   },
   {
-    id: "pico-vinte-e-cinco-relief-v2",
+    id: "pico-vinte-e-cinco-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia São Miguel",
+                  "text": "Die Praia São Miguel ist ein tropischer Sandstrand an der Küste in der Nähe der Relieflandschaft des Pico Vinte e Cinco.",
+                  "category": "recreational",
+                  "coords": [
+                        6.488182,
+                        0.137953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia São Miguel",
+                  "text": "A Praia São Miguel egy trópusi homokos part a Pico Vinte e Cinco hegyvidéki tájának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.488182,
+                        0.137953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia São Miguel",
+                  "text": "Praia São Miguel este o plajă tropicală cu nisip pe coasta din apropierea reliefului Pico Vinte e Cinco.",
+                  "category": "recreational",
+                  "coords": [
+                        6.488182,
+                        0.137953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia São Miguel",
+                  "text": "Praia São Miguel is a tropical sandy coastal beach near the relief landscape of Pico Vinte e Cinco.",
+                  "category": "recreational",
+                  "coords": [
+                        6.488182,
+                        0.137953
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ST-03",
     coords: [6.55, 0.12],
@@ -567,7 +657,52 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
     },
   },
   {
-    id: "morro-vilela-relief-v2",
+    id: "morro-vilela-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Túnel",
+                  "text": "Túnel ist ein Durchgang, der sich durch das raue tropische Gelände rund um Morro Vilela schneidet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Túnel",
+                  "text": "A Túnel egy átjáró, amely a Morro Vilela körüli zord trópusi terepet vágja át.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Túnel",
+                  "text": "Túnel este un pasaj care traversează terenul tropical accidentat din jurul Morro Vilela.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Túnel",
+                  "text": "Túnel is a passageway cutting through the rugged tropical terrain around Morro Vilela.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ST-04",
     coords: [6.51, 0.35],

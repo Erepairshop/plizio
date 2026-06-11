@@ -223,7 +223,52 @@ export const republicofcongoCitiesV2: POI[] = [
     image: "/poi-images/republicofcongo-kibangou-cities-v2.webp",
   },
   {
-    id: "republicofcongo-dingo-cities-v2",
+    id: "republicofcongo-dingo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez Faichi",
+                  "text": "Chez Faichi ist eine schlossartige Struktur, die als lokales Wahrzeichen in der Gegend von Dingo in der Republik Kongo steht.",
+                  "category": "castle",
+                  "coords": [
+                        11.946458,
+                        -4.685092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez Faichi",
+                  "text": "A Chez Faichi egy kastélyszerű építmény, amely helyi nevezetességként áll a Kongói Köztársaság Dingo térségében.",
+                  "category": "castle",
+                  "coords": [
+                        11.946458,
+                        -4.685092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez Faichi",
+                  "text": "Chez Faichi este o structură asemănătoare unui castel, care servește drept punct de reper local în zona Dingo din Republica Congo.",
+                  "category": "castle",
+                  "coords": [
+                        11.946458,
+                        -4.685092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez Faichi",
+                  "text": "Chez Faichi is a castle-like structure standing as a local landmark in the Dingo area of the Republic of Congo.",
+                  "category": "castle",
+                  "coords": [
+                        11.946458,
+                        -4.685092
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Dingo", hu: "Dingo", ro: "Dingo", en: "Dingo" },
     coords: [11.95, -4.68],
@@ -1367,7 +1412,52 @@ export const republicofcongoCitiesV2: POI[] = [
     image: "/poi-images/republicofcongo-mfilou-est-cities-v2.webp",
   },
   {
-    id: "republicofcongo-talangai-nord-cities-v2",
+    id: "republicofcongo-talangai-nord-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ravin près de la Station de Télévision",
+                  "text": "Die Ravin près de la Station de Télévision ist eine geografische Sehenswürdigkeit mit natürlichen Schluchtformationen nahe dem Sendeplatz von Talangaï.",
+                  "category": "landmark",
+                  "coords": [
+                        15.259518,
+                        -4.199793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ravin près de la Station de Télévision",
+                  "text": "A Ravin près de la Station de Télévision egy földrajzi látványosság, amely természetes szakadékformációkat mutat be a talangaï-i műsorszóró állomás közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.259518,
+                        -4.199793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ravin près de la Station de Télévision",
+                  "text": "Ravin près de la Station de Télévision este o atracție geografică care prezintă formațiuni naturale de râpă în apropierea stației de emisie Talangaï.",
+                  "category": "landmark",
+                  "coords": [
+                        15.259518,
+                        -4.199793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ravin près de la Station de Télévision",
+                  "text": "Ravin près de la Station de Télévision is a geographical attraction showcasing natural ravine formations near the Talangaï broadcast site.",
+                  "category": "landmark",
+                  "coords": [
+                        15.259518,
+                        -4.199793
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Talangaï-Nord", hu: "Talangaï-Nord", ro: "Talangaï-Nord", en: "Talangaï-Nord" },
     coords: [15.26, -4.21],
@@ -1543,7 +1633,88 @@ export const republicofcongoCitiesV2: POI[] = [
     image: "/poi-images/republicofcongo-kindamba-nord-cities-v2.webp",
   },
   {
-    id: "republicofcongo-madibou-est-cities-v2",
+    id: "republicofcongo-madibou-est-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cultural Activities Center",
+                  "text": "Das Cultural Activities Center ist ein dynamischer Theaterraum im Bezirk Madibou, der verschiedene lokale Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.243851,
+                        -4.335911
+                  ]
+            },
+            {
+                  "name": "Jardins présidentiels",
+                  "text": "Die Jardins présidentiels sind ein Aussichtspunkt mit landschaftlich reizvollen Blicken nahe den Präsidentenanlagen.",
+                  "category": "natural",
+                  "coords": [
+                        15.245385,
+                        -4.327111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cultural Activities Center",
+                  "text": "A Cultural Activities Center egy dinamikus színházi tér Madibou negyedében, amely különféle helyi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.243851,
+                        -4.335911
+                  ]
+            },
+            {
+                  "name": "Jardins présidentiels",
+                  "text": "A Jardins présidentiels egy festői kilátóhely, amely gyönyörűen parkosított kilátást nyújt az elnöki területek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.245385,
+                        -4.327111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cultural Activities Center",
+                  "text": "Cultural Activities Center este un spațiu teatral dinamic în districtul Madibou, care găzduiește diverse spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.243851,
+                        -4.335911
+                  ]
+            },
+            {
+                  "name": "Jardins présidentiels",
+                  "text": "Jardins présidentiels este un punct de belvedere pitoresc care oferă priveliști amenajate în apropierea zonelor prezidențiale.",
+                  "category": "natural",
+                  "coords": [
+                        15.245385,
+                        -4.327111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cultural Activities Center",
+                  "text": "The Cultural Activities Center is a dynamic theatre space in the Madibou district hosting various local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        15.243851,
+                        -4.335911
+                  ]
+            },
+            {
+                  "name": "Jardins présidentiels",
+                  "text": "Jardins présidentiels is a scenic viewpoint offering landscaped vistas near the presidential areas.",
+                  "category": "natural",
+                  "coords": [
+                        15.245385,
+                        -4.327111
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Madibou-Est", hu: "Madibou-Est", ro: "Madibou-Est", en: "Madibou-Est" },
     coords: [15.23, -4.33],

@@ -1681,7 +1681,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Königliches Theater Zetski Dom",
-                  "text": "Das Königliche Theater Zetski Dom ist das älteste Theatergebäude in Montenegro.",
+                  "text": "Königliches Theater Zetski Dom in Cetinje, erbaut 1888, heute Nationaltheater.",
                   "category": "cultural",
                   "coords": [
                         18.926905,
@@ -1737,7 +1737,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "A Zetski Dom Királyi Színház Montenegró legrégebbi színházépülete.",
+                  "text": "Zetski Dom Királyi Színház Cetinjében, 1888-ban épült, ma nemzeti színház.",
                   "category": "cultural",
                   "coords": [
                         18.926905,
@@ -1793,7 +1793,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Teatrul Regal Zetski Dom este cea mai veche clădire de teatru din Muntenegru.",
+                  "text": "Teatrul Regal Zetski Dom din Cetinje, construit în 1888, acum teatru național.",
                   "category": "cultural",
                   "coords": [
                         18.926905,
@@ -1849,7 +1849,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Royal Theatre Zetski Dom",
-                  "text": "The Royal Theatre Zetski Dom is the oldest theatre building in Montenegro.",
+                  "text": "Royal Theatre Zetski Dom in Cetinje, built in 1888, now a national theatre.",
                   "category": "cultural",
                   "coords": [
                         18.926905,
@@ -2131,7 +2131,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Königliches Theater Zetski Dom",
-                  "text": "Historisches Theater in Cetinje, das älteste in Montenegro.",
+                  "text": "Königliches Theater Zetski Dom in Cetinje nahe dem Biljarda-Museum, erbaut 1888.",
                   "category": "cultural",
                   "coords": [
                         18.926905,
@@ -2187,7 +2187,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Történelmi színház Cetinjében, Montenegró legrégebbi színháza.",
+                  "text": "Zetski Dom Királyi Színház Cetinjében a Biljarda Múzeum közelében, 1888-ban épült.",
                   "category": "cultural",
                   "coords": [
                         18.926905,
@@ -2243,7 +2243,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Teatru istoric din Cetinje, cel mai vechi din Muntenegru.",
+                  "text": "Teatrul Regal Zetski Dom în Cetinje, lângă Muzeul Biljarda, construit în 1888.",
                   "category": "cultural",
                   "coords": [
                         18.926905,
@@ -2299,7 +2299,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Royal Theatre Zetski Dom",
-                  "text": "Historic theatre in Cetinje, the oldest in Montenegro.",
+                  "text": "Royal Theatre Zetski Dom in Cetinje, near Biljarda Museum, built in 1888.",
                   "category": "cultural",
                   "coords": [
                         18.926905,

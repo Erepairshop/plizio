@@ -39,7 +39,52 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "lac-rose-nature-v2",
+    id: "lac-rose-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lac Retba",
+                  "text": "Dieser für seinen hohen Salzgehalt und die leuchtend rosa Wasserfärbung bekannte See ist eine einzigartige Naturattraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.227561,
+                        14.840777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lac Retba",
+                  "text": "Ez a magas sótartalmáról és élénk rózsaszín vizéről ismert tó egyedülálló természeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.227561,
+                        14.840777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lac Retba",
+                  "text": "Acest lac, renumit pentru salinitatea sa ridicată și apa de culoare roz aprins, este o atracție naturală unică.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.227561,
+                        14.840777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lac Retba",
+                  "text": "Famous for its high salt content and vibrant pink waters, this lake is a unique natural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.227561,
+                        14.840777
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SN-DK",
     coords: [-17.2345, 14.8361],
@@ -327,7 +372,376 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "pointe-des-almadies-nature-v2",
+    id: "pointe-des-almadies-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keur Tawfekh",
+                  "text": "Eine Kunstgalerie in der Nähe der felsigen Almadies-Halbinsel.",
+                  "category": "museum",
+                  "coords": [
+                        -17.515661,
+                        14.756017
+                  ]
+            },
+            {
+                  "name": "Syseck",
+                  "text": "Eine lokale Galerie, die Kunstwerke nahe der Almadies-Küste ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -17.520143,
+                        14.746411
+                  ]
+            },
+            {
+                  "name": "Stand up paddle school",
+                  "text": "Eine Küstenattraktion, die Stand-Up-Paddling-Kurse auf dem Atlantik anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.520653,
+                        14.740794
+                  ]
+            },
+            {
+                  "name": "Art box",
+                  "text": "Ein zeitgenössischer Galerieraum auf der Almadies-Halbinsel.",
+                  "category": "museum",
+                  "coords": [
+                        -17.524846,
+                        14.741559
+                  ]
+            },
+            {
+                  "name": "Pointe des Almadies",
+                  "text": "Ein felsiges Vorgebirge, das als westlichster Punkt des afrikanischen Kontinents gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.529781,
+                        14.741062
+                  ]
+            },
+            {
+                  "name": "Maison de France gall",
+                  "text": "Die verfallene ehemalige Residenz der berühmten französischen Sängerin France Gall.",
+                  "category": "historical",
+                  "coords": [
+                        -17.512598,
+                        14.756681
+                  ]
+            },
+            {
+                  "name": "Plage de l'ancien club med",
+                  "text": "Ein Sandstrand, der sich entlang des Geländes des ehemaligen Club Med-Resorts erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.529149,
+                        14.742052
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe des Almadies",
+                  "text": "Ein sandiger Küstenstreifen an der äußersten Spitze der Cap-Vert-Halbinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.528695,
+                        14.74484
+                  ]
+            },
+            {
+                  "name": "2ème plage",
+                  "text": "Ein zweiter Sandstrandabschnitt entlang der Küste von Almadies.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.513582,
+                        14.754909
+                  ]
+            },
+            {
+                  "name": "Ngor",
+                  "text": "Eine kleine Insel vor der Cap-Vert-Halbinsel, die für ihre Surfspots berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.513839,
+                        14.756034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keur Tawfekh",
+                  "text": "Művészeti galéria a sziklás Almadies-félsziget közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -17.515661,
+                        14.756017
+                  ]
+            },
+            {
+                  "name": "Syseck",
+                  "text": "Helyi galéria, amely az Almadies-part közelében állítja ki a műveket.",
+                  "category": "museum",
+                  "coords": [
+                        -17.520143,
+                        14.746411
+                  ]
+            },
+            {
+                  "name": "Stand up paddle school",
+                  "text": "Tengerparti látványosság, amely állószörf-oktatást kínál az Atlanti-óceán vizén.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.520653,
+                        14.740794
+                  ]
+            },
+            {
+                  "name": "Art box",
+                  "text": "Kortárs galériatér az Almadies-félszigeten.",
+                  "category": "museum",
+                  "coords": [
+                        -17.524846,
+                        14.741559
+                  ]
+            },
+            {
+                  "name": "Pointe des Almadies",
+                  "text": "Sziklás hegyfok, amelyet az afrikai kontinens legnyugatibb pontjaként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.529781,
+                        14.741062
+                  ]
+            },
+            {
+                  "name": "Maison de France gall",
+                  "text": "A híres francia énekesnő, France Gall romos egykori rezidenciája.",
+                  "category": "historical",
+                  "coords": [
+                        -17.512598,
+                        14.756681
+                  ]
+            },
+            {
+                  "name": "Plage de l'ancien club med",
+                  "text": "Homokos strand, amely az egykori Club Med üdülőközpont területén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.529149,
+                        14.742052
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe des Almadies",
+                  "text": "Tengerparti homoksáv a Cap-Vert-félsziget legcsúcsán.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.528695,
+                        14.74484
+                  ]
+            },
+            {
+                  "name": "2ème plage",
+                  "text": "Másodlagos homokos strandszakasz az Almadies partvonala mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.513582,
+                        14.754909
+                  ]
+            },
+            {
+                  "name": "Ngor",
+                  "text": "A Cap-Vert-félsziget melletti apró sziget, amely szörfös hullámairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.513839,
+                        14.756034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keur Tawfekh",
+                  "text": "O galerie de artă situată în apropierea peninsulei stâncoase Almadies.",
+                  "category": "museum",
+                  "coords": [
+                        -17.515661,
+                        14.756017
+                  ]
+            },
+            {
+                  "name": "Syseck",
+                  "text": "O galerie locală care expune lucrări în apropierea coastei Almadies.",
+                  "category": "museum",
+                  "coords": [
+                        -17.520143,
+                        14.746411
+                  ]
+            },
+            {
+                  "name": "Stand up paddle school",
+                  "text": "O atracție de coastă care oferă lecții de stand-up paddleboarding pe apele Atlanticului.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.520653,
+                        14.740794
+                  ]
+            },
+            {
+                  "name": "Art box",
+                  "text": "Un spațiu de galerie contemporană situat pe peninsula Almadies.",
+                  "category": "museum",
+                  "coords": [
+                        -17.524846,
+                        14.741559
+                  ]
+            },
+            {
+                  "name": "Pointe des Almadies",
+                  "text": "Un promontoriu stâncos recunoscut ca fiind cel mai vestic punct al continentului african.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.529781,
+                        14.741062
+                  ]
+            },
+            {
+                  "name": "Maison de France gall",
+                  "text": "Fosta reședință aflată în ruine a celebrei cântărețe franceze France Gall.",
+                  "category": "historical",
+                  "coords": [
+                        -17.512598,
+                        14.756681
+                  ]
+            },
+            {
+                  "name": "Plage de l'ancien club med",
+                  "text": "O plajă de nisip care se întinde pe locul fostului complex turistic Club Med.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.529149,
+                        14.742052
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe des Almadies",
+                  "text": "O fâșie de nisip de coastă situată chiar în vârful peninsulei Cap-Vert.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.528695,
+                        14.74484
+                  ]
+            },
+            {
+                  "name": "2ème plage",
+                  "text": "O plajă secundară de nisip situată de-a lungul coastei Almadies.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.513582,
+                        14.754909
+                  ]
+            },
+            {
+                  "name": "Ngor",
+                  "text": "O mică insulă în largul peninsulei Cap-Vert, renumită pentru valurile sale de surf.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.513839,
+                        14.756034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keur Tawfekh",
+                  "text": "An art gallery located near the rocky Almadies peninsula.",
+                  "category": "museum",
+                  "coords": [
+                        -17.515661,
+                        14.756017
+                  ]
+            },
+            {
+                  "name": "Syseck",
+                  "text": "A local gallery exhibiting works near the Almadies coast.",
+                  "category": "museum",
+                  "coords": [
+                        -17.520143,
+                        14.746411
+                  ]
+            },
+            {
+                  "name": "Stand up paddle school",
+                  "text": "A coastal attraction offering stand-up paddleboarding lessons on the Atlantic waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.520653,
+                        14.740794
+                  ]
+            },
+            {
+                  "name": "Art box",
+                  "text": "A contemporary gallery space situated on the Almadies peninsula.",
+                  "category": "museum",
+                  "coords": [
+                        -17.524846,
+                        14.741559
+                  ]
+            },
+            {
+                  "name": "Pointe des Almadies",
+                  "text": "A rocky promontory recognized as the westernmost point of the African continent.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.529781,
+                        14.741062
+                  ]
+            },
+            {
+                  "name": "Maison de France gall",
+                  "text": "The ruined former residence of the famous French singer France Gall.",
+                  "category": "historical",
+                  "coords": [
+                        -17.512598,
+                        14.756681
+                  ]
+            },
+            {
+                  "name": "Plage de l'ancien club med",
+                  "text": "A sandy beach stretching along the site of the former Club Med resort.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.529149,
+                        14.742052
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe des Almadies",
+                  "text": "A coastal strip of sand situated at the very tip of the Cap-Vert peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.528695,
+                        14.74484
+                  ]
+            },
+            {
+                  "name": "2ème plage",
+                  "text": "A secondary sandy beach area located along the Almadies coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.513582,
+                        14.754909
+                  ]
+            },
+            {
+                  "name": "Ngor",
+                  "text": "A small island off the Cap-Vert peninsula renowned for its surf breaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.513839,
+                        14.756034
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "SN-DK",
     coords: [-17.5333, 14.75],
@@ -399,7 +813,124 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "iles-de-la-madeleine-nature-v2",
+    id: "iles-de-la-madeleine-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage des Tortues",
+                  "text": "Diese unberührte Sandbucht in einem geschützten Insel-Naturschutzgebiet ist nach den Meeresschildkröten benannt, die gelegentlich an ihre Ufer kommen.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469005,
+                        14.654488
+                  ]
+            },
+            {
+                  "name": "Île des Madeleines",
+                  "text": "Dieses unbewohnte vulkanische Archipel vor der Küste von Dakar ist ein wichtiges Schutzgebiet für nistende Seevögel und seltene Zwergbaobabs.",
+                  "category": "natural",
+                  "coords": [
+                        -17.471571,
+                        14.654392
+                  ]
+            },
+            {
+                  "name": "Île de la Madeleine",
+                  "text": "Dieser geschützte Inselpark ist bekannt für seine steilen Basaltklippen und bietet raue Wanderwege sowie zahlreiche Möglichkeiten zur Beobachtung von Seevögeln.",
+                  "category": "natural",
+                  "coords": [
+                        -17.472977,
+                        14.654672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage des Tortues",
+                  "text": "A védett szigeti természetvédelmi területen megbúvó érintetlen homokos öblöt a partjaira alkalmanként ellátogató tengeri teknősökről nevezték el.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469005,
+                        14.654488
+                  ]
+            },
+            {
+                  "name": "Île des Madeleines",
+                  "text": "Ez a Dakar partjainál fekvő lakatlan vulkanikus szigetcsoport a fészkelő tengeri madarak és a ritka törpe baobabfák létfontosságú menedékhelye.",
+                  "category": "natural",
+                  "coords": [
+                        -17.471571,
+                        14.654392
+                  ]
+            },
+            {
+                  "name": "Île de la Madeleine",
+                  "text": "A meredek bazaltszikláiról ismert védett szigeti park zord túraútvonalakat és bőséges tengerimadár-megfigyelési lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -17.472977,
+                        14.654672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage des Tortues",
+                  "text": "Situat într-o rezervație naturală insulară protejată, acest golf nisipos imaculat este numit după țestoasele marine care îi vizitează ocazional țărmurile.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469005,
+                        14.654488
+                  ]
+            },
+            {
+                  "name": "Île des Madeleines",
+                  "text": "Acest arhipelag vulcanic nelocuit de pe coasta Dakarului este un sanctuar vital pentru păsările marine care cuibăresc și pentru baobabii pitici rari.",
+                  "category": "natural",
+                  "coords": [
+                        -17.471571,
+                        14.654392
+                  ]
+            },
+            {
+                  "name": "Île de la Madeleine",
+                  "text": "Cunoscut pentru stâncile sale abrupte de bazalt, acest parc insular protejat oferă trasee de drumeție accidentate și observarea abundentă a păsărilor marine.",
+                  "category": "natural",
+                  "coords": [
+                        -17.472977,
+                        14.654672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage des Tortues",
+                  "text": "Nestled in a protected island nature reserve, this pristine sandy cove is named for the marine turtles that occasionally visit its shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.469005,
+                        14.654488
+                  ]
+            },
+            {
+                  "name": "Île des Madeleines",
+                  "text": "This uninhabited volcanic archipelago off the coast of Dakar is a vital sanctuary for nesting seabirds and rare dwarf baobabs.",
+                  "category": "natural",
+                  "coords": [
+                        -17.471571,
+                        14.654392
+                  ]
+            },
+            {
+                  "name": "Île de la Madeleine",
+                  "text": "Known for its steep basalt cliffs, this protected island park offers rugged hiking trails and abundant marine bird watching.",
+                  "category": "natural",
+                  "coords": [
+                        -17.472977,
+                        14.654672
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "SN-DK",
     coords: [-17.4833, 14.6667],
@@ -507,7 +1038,160 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "parc-langue-de-barbarie-nature-v2",
+    id: "parc-langue-de-barbarie-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Gandiole",
+                  "text": "Der Phare de Gandiole ist ein hoch aufragendes Küstenleuchtfeuer, das Seeleuten schon lange bei der Navigation durch die wechselnden Sande nahe der Langue de Barbarie hilft.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.508293,
+                        15.895347
+                  ]
+            },
+            {
+                  "name": "Tour d'observation Zebrabar",
+                  "text": "Der Zebrabar-Aussichtsturm ermöglicht Besuchern den Blick über die ruhige Mündungsumgebung des Nationalparks Langue de Barbarie.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.512112,
+                        15.864939
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc de la Langue de Barbarie",
+                  "text": "Dieses Verwaltungsbüro dient als Zugang zur sandigen Halbinsel und den Vogelhabitaten des Naturschutzgebiets Langue de Barbarie.",
+                  "category": "natural",
+                  "coords": [
+                        -16.510033,
+                        15.866195
+                  ]
+            },
+            {
+                  "name": "Parc National de la Langue de Barbarie",
+                  "text": "Dieser Nationalpark schützt eine schmale, sandige Halbinsel, die für ihre reiche Vogelwelt, darunter Pelikane und Flamingos, berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -16.528834,
+                        15.831521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Gandiole",
+                  "text": "A Phare de Gandiole egy tornyosuló parti jelzőtűz, amely már régóta iránymutatást ad a Langue de Barbarie közeli mozgó homokpadoknál navigáló tengerészeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.508293,
+                        15.895347
+                  ]
+            },
+            {
+                  "name": "Tour d'observation Zebrabar",
+                  "text": "A Zebrabar kilátótoronyból a látogatók a Langue de Barbarie Nemzeti Park nyugodt torkolatvidékére tekinthetnek le.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.512112,
+                        15.864939
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc de la Langue de Barbarie",
+                  "text": "Ez az adminisztratív iroda kapuként szolgál a Langue de Barbarie természetvédelmi terület homokos félszigetéhez és madárélőhelyeihez.",
+                  "category": "natural",
+                  "coords": [
+                        -16.510033,
+                        15.866195
+                  ]
+            },
+            {
+                  "name": "Parc National de la Langue de Barbarie",
+                  "text": "Ez a nemzeti park egy vékony, homokos félszigetet véd, amely gazdag madárvilágáról, köztük pelikánokról és flamingókról híres.",
+                  "category": "natural",
+                  "coords": [
+                        -16.528834,
+                        15.831521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Gandiole",
+                  "text": "Phare de Gandiole este un far de coastă falnic care a ghidat mult timp marinarii navigând prin nisipurile mișcătoare din apropierea Langue de Barbarie.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.508293,
+                        15.895347
+                  ]
+            },
+            {
+                  "name": "Tour d'observation Zebrabar",
+                  "text": "Turnul de observație Zebrabar permite vizitatorilor să privească spre mediul liniștit al estuarului din Parcul Național Langue de Barbarie.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.512112,
+                        15.864939
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc de la Langue de Barbarie",
+                  "text": "Acest birou administrativ servește drept poartă către peninsula de nisip și habitatele păsărilor din rezervația naturală Langue de Barbarie.",
+                  "category": "natural",
+                  "coords": [
+                        -16.510033,
+                        15.866195
+                  ]
+            },
+            {
+                  "name": "Parc National de la Langue de Barbarie",
+                  "text": "Acest parc național protejează o peninsulă subțire, de nisip, renumită pentru avifauna sa bogată, inclusiv pelicani și flamingo.",
+                  "category": "natural",
+                  "coords": [
+                        -16.528834,
+                        15.831521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare de Gandiole",
+                  "text": "The Phare de Gandiole is a towering coastal beacon that has long guided sailors navigating the shifting sands near the Langue de Barbarie.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.508293,
+                        15.895347
+                  ]
+            },
+            {
+                  "name": "Tour d'observation Zebrabar",
+                  "text": "The Zebrabar observation tower allows visitors to gaze out over the serene estuarine environment of the Langue de Barbarie National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.512112,
+                        15.864939
+                  ]
+            },
+            {
+                  "name": "Bureau du Parc de la Langue de Barbarie",
+                  "text": "This administrative office serves as the gateway to the sandy peninsula and bird habitats of the Langue de Barbarie nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -16.510033,
+                        15.866195
+                  ]
+            },
+            {
+                  "name": "Langue de Barbarie National Park",
+                  "text": "This national park protects a thin, sandy peninsula famous for its rich birdlife, including pelicans and flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.528834,
+                        15.831521
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "SN-SL",
     coords: [-16.5, 15.8333],
@@ -543,7 +1227,52 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "massif-du-fouta-djallon-nature-v2",
+    id: "massif-du-fouta-djallon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point de vue fleuve Gambie",
+                  "text": "Der Point de vue fleuve Gambie bietet einen hohen Aussichtspunkt, um die weiten Kurven des Gambia-Flusses im Massif du Fouta Djallon zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -12.250316,
+                        12.450403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point de vue fleuve Gambie",
+                  "text": "A Point de vue fleuve Gambie magas kilátópontot nyújt a Massif du Fouta Djallon hegységen áttörő Gambia-folyó széles kanyarulataira.",
+                  "category": "natural",
+                  "coords": [
+                        -12.250316,
+                        12.450403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point de vue fleuve Gambie",
+                  "text": "Point de vue fleuve Gambie oferă un punct de observație înalt pentru a privi curbele largi ale râului Gambia în Massif du Fouta Djallon.",
+                  "category": "natural",
+                  "coords": [
+                        -12.250316,
+                        12.450403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point de vue fleuve Gambie",
+                  "text": "Point de vue fleuve Gambie provides a high vantage point to observe the sweeping curves of the Gambia River in the Massif du Fouta Djallon.",
+                  "category": "natural",
+                  "coords": [
+                        -12.250316,
+                        12.450403
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SN-TC",
     coords: [-12.2, 12.5],
@@ -579,7 +1308,52 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "delta-du-sine-saloum-nature-v2",
+    id: "delta-du-sine-saloum-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tour d'observation de l'Avifaune de l'ile au oiseaux",
+                  "text": "Dieser erhöhte Aussichtsturm bietet weite Ausblicke, die speziell für die Beobachtung der reichen Vogelwelt der Vogelinsel konzipiert sind.",
+                  "category": "natural",
+                  "coords": [
+                        -16.65035,
+                        13.651983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tour d'observation de l'Avifaune de l'ile au oiseaux",
+                  "text": "Ez a magaslati megfigyelőtorony kiterjedt kilátást nyújt, amelyet kifejezetten a Madár-sziget gazdag madárvilágának megfigyelésére terveztek.",
+                  "category": "natural",
+                  "coords": [
+                        -16.65035,
+                        13.651983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tour d'observation de l'Avifaune de l'ile au oiseaux",
+                  "text": "Acest turn de observație înalt oferă priveliști extinse, concepute special pentru observarea bogatei avifaune de pe Insula Păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        -16.65035,
+                        13.651983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tour d'observation de l'Avifaune de l'ile au oiseaux",
+                  "text": "This elevated observation tower offers expansive views specifically designed for watching the rich avifauna of Bird Island.",
+                  "category": "natural",
+                  "coords": [
+                        -16.65035,
+                        13.651983
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SN-FK",
     coords: [-16.7, 13.7],
@@ -651,7 +1425,52 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "lac-kassack-nature-v2",
+    id: "lac-kassack-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National du Diawling",
+                  "text": "Der Diawling-Nationalpark liegt im Delta des Senegal-Flusses und ist bekannt für seine Feuchtgebietsökosysteme und Zugvögel.",
+                  "category": "park",
+                  "coords": [
+                        -16.325381,
+                        16.5031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National du Diawling",
+                  "text": "A Szenegál-folyó deltájában található Diawling Nemzeti Park vizes élőhelyeiről és vándormadarairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        -16.325381,
+                        16.5031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National du Diawling",
+                  "text": "Situat în Delta fluviului Senegal, Parcul Național Diawling este cunoscut pentru ecosistemele sale umede și păsările migratoare.",
+                  "category": "park",
+                  "coords": [
+                        -16.325381,
+                        16.5031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National du Diawling",
+                  "text": "Situated in the Senegal River Delta, the Diawling National Park is known for its wetland ecosystems and migratory birds.",
+                  "category": "park",
+                  "coords": [
+                        -16.325381,
+                        16.5031
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SN-SL",
     coords: [-16.35, 16.45],
@@ -723,7 +1542,52 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "vallee-du-fleuve-senegal-nature-v2",
+    id: "vallee-du-fleuve-senegal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve Sylvo-Pastorale des Six Forages",
+                  "text": "Dieses silvopastorale Naturschutzgebiet umfasst ausgedehnte Weideflächen und Waldressourcen.",
+                  "category": "natural",
+                  "coords": [
+                        -15.057545,
+                        15.992723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve Sylvo-Pastorale des Six Forages",
+                  "text": "Ez az erdő-pásztori természetvédelmi terület kiterjedt legelőket és erdőforrásokat foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        -15.057545,
+                        15.992723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve Sylvo-Pastorale des Six Forages",
+                  "text": "Această rezervație naturală silvo-pastorală cuprinde pășuni întinse și resurse forestiere.",
+                  "category": "natural",
+                  "coords": [
+                        -15.057545,
+                        15.992723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve Sylvo-Pastorale des Six Forages",
+                  "text": "This sylvo-pastoral nature reserve encompasses expansive grazing lands and forest resources.",
+                  "category": "natural",
+                  "coords": [
+                        -15.057545,
+                        15.992723
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SN-SL",
     coords: [-15.0, 16.0],
@@ -795,7 +1659,52 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "fleuve-gambie-nature-v2",
+    id: "fleuve-gambie-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc national du Niokolo-Koba",
+                  "text": "Der riesige Nationalpark Niokolo-Koba wurde 1981 in seiner jetzigen Form etabliert und umfasst reiche Savannen, die vom gewundenen Gambia-Fluss bewässert werden.",
+                  "category": "natural",
+                  "coords": [
+                        -13.031675,
+                        13.006532
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc national du Niokolo-Koba",
+                  "text": "Az 1981-ben jelenlegi formájában alapított, hatalmas Niokolo-Koba Nemzeti Park gazdag szavannákat foglal magába, amelyeket a kanyargós Gambia-folyó táplál.",
+                  "category": "natural",
+                  "coords": [
+                        -13.031675,
+                        13.006532
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc national du Niokolo-Koba",
+                  "text": "Înființat în forma sa actuală în 1981, vastul Parc Național Niokolo-Koba cuprinde savane bogate hrănite de râul șerpuitor Gambia.",
+                  "category": "natural",
+                  "coords": [
+                        -13.031675,
+                        13.006532
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niokolo-Koba National Park",
+                  "text": "Established in its current capacity in 1981, the vast Niokolo-Koba National Park encompasses rich savannas nurtured by the winding Gambia River.",
+                  "category": "natural",
+                  "coords": [
+                        -13.031675,
+                        13.006532
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SN-TC",
     coords: [-13.0, 13.0],
@@ -867,7 +1776,52 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "lac-de-panal-nature-v2",
+    id: "lac-de-panal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petit mirador",
+                  "text": "Dieser kleine Aussichtsturm bietet einen erhöhten Aussichtspunkt über die umliegenden Naturlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        -16.201263,
+                        16.379273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petit mirador",
+                  "text": "Ez a kis kilátótorony magaslati rálátást biztosít a környező természeti tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        -16.201263,
+                        16.379273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petit mirador",
+                  "text": "Acest mic turn de observație oferă un punct de belvedere înalt asupra peisajelor naturale înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -16.201263,
+                        16.379273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petit mirador",
+                  "text": "This small observation tower provides an elevated vantage point over the surrounding natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -16.201263,
+                        16.379273
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SN-SL",
     coords: [-16.2, 16.3],
@@ -975,7 +1929,196 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "delta-du-senegal-nature-v2",
+    id: "delta-du-senegal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Entrée de la Réserve Spéciale de Faune de Gueumbeul",
+                  "text": "Dieses Tor markiert den Eingang zum Guembeul Special Fauna Reserve, einem wichtigen Schutzgebiet für gefährdete Arten im Senegal-Delta.",
+                  "category": "historical",
+                  "coords": [
+                        -16.470471,
+                        15.928819
+                  ]
+            },
+            {
+                  "name": "Mirador enclos A",
+                  "text": "Diese Beobachtungshütte blickt auf das Gehege A und bietet Besuchern einen ruhigen Ort, um die lokale Tierwelt zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.467417,
+                        15.926154
+                  ]
+            },
+            {
+                  "name": "Mirador enclos acclimatation",
+                  "text": "Diese erhöhte Hütte ermöglicht es Forschern und Besuchern, Tiere im Eingewöhnungsgehege des Reservats zu überwachen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.466407,
+                        15.926359
+                  ]
+            },
+            {
+                  "name": "Mirador enclos élevage d'autrichons",
+                  "text": "Von dieser Aussichtsplattform aus können Gäste junge Strauße beobachten, die in einem speziellen Schutzgehege aufgezogen werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.468496,
+                        15.928283
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale de faune de Guembeul",
+                  "text": "Das 1983 gegründete Guembeul Special Fauna Reserve widmet sich dem Schutz gefährdeter Arten wie der Säbelantilope.",
+                  "category": "natural",
+                  "coords": [
+                        -16.463027,
+                        15.917032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Entrée de la Réserve Spéciale de Faune de Gueumbeul",
+                  "text": "Ez a kapu jelzi a Guembeul Speciális Állatrezervátum bejáratát, amely a szenegáli delta veszélyeztetett fajainak kulcsfontosságú menedéke.",
+                  "category": "historical",
+                  "coords": [
+                        -16.470471,
+                        15.928819
+                  ]
+            },
+            {
+                  "name": "Mirador enclos A",
+                  "text": "Ebből a megfigyelő kabinból az A elkerített területre nyílik kilátás, csendes helyet biztosítva a látogatóknak a helyi vadvilág megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.467417,
+                        15.926154
+                  ]
+            },
+            {
+                  "name": "Mirador enclos acclimatation",
+                  "text": "Ez a megemelt kabin lehetővé teszi a kutatók és a látogatók számára, hogy nyomon kövessék az állatokat a rezervátum akklimatizációs kifutójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.466407,
+                        15.926359
+                  ]
+            },
+            {
+                  "name": "Mirador enclos élevage d'autrichons",
+                  "text": "Ebből a kilátóból a vendégek megfigyelhetik a fiatal struccokat, amint egy speciális védőkifutóban nevelkednek.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.468496,
+                        15.928283
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale de faune de Guembeul",
+                  "text": "Az 1983-ban alapított Guembeul Speciális Állatrezervátum a veszélyeztetett fajok, például a kardszarvú antilopok védelmével foglalkozik.",
+                  "category": "natural",
+                  "coords": [
+                        -16.463027,
+                        15.917032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Entrée de la Réserve Spéciale de Faune de Gueumbeul",
+                  "text": "Această poartă marchează intrarea în Rezervația Specială de Faună Guembeul, un sanctuar cheie pentru speciile pe cale de dispariție din delta Senegalului.",
+                  "category": "historical",
+                  "coords": [
+                        -16.470471,
+                        15.928819
+                  ]
+            },
+            {
+                  "name": "Mirador enclos A",
+                  "text": "Această cabină de observație are vedere la Țarcul A, oferind vizitatorilor un loc liniștit pentru a privi viața sălbatică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.467417,
+                        15.926154
+                  ]
+            },
+            {
+                  "name": "Mirador enclos acclimatation",
+                  "text": "Această cabină înaltă permite cercetătorilor și vizitatorilor să monitorizeze animalele în țarcul de aclimatizare al rezervației.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.466407,
+                        15.926359
+                  ]
+            },
+            {
+                  "name": "Mirador enclos élevage d'autrichons",
+                  "text": "De pe această punte de observație, oaspeții pot urmări struții tineri crescuți într-un țarc de protecție specializat.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.468496,
+                        15.928283
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale de faune de Guembeul",
+                  "text": "Înființată în 1983, Rezervația Specială de Faună Guembeul este dedicată conservării speciilor pe cale de dispariție, precum orixul cu coarne iatagan.",
+                  "category": "natural",
+                  "coords": [
+                        -16.463027,
+                        15.917032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Entrée de la Réserve Spéciale de Faune de Gueumbeul",
+                  "text": "This gateway marks the entrance to the Guembeul Special Fauna Reserve, a key sanctuary for endangered species in the Senegal delta.",
+                  "category": "historical",
+                  "coords": [
+                        -16.470471,
+                        15.928819
+                  ]
+            },
+            {
+                  "name": "Mirador enclos A",
+                  "text": "This observation cabin overlooks Enclosure A, providing visitors with a quiet spot to watch local wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.467417,
+                        15.926154
+                  ]
+            },
+            {
+                  "name": "Mirador enclos acclimatation",
+                  "text": "This elevated cabin allows researchers and visitors to monitor animals in the reserve's acclimatization enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.466407,
+                        15.926359
+                  ]
+            },
+            {
+                  "name": "Mirador enclos élevage d'autrichons",
+                  "text": "From this observation deck, guests can watch young ostriches being raised within a specialized protective enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.468496,
+                        15.928283
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale de faune de Guembeul",
+                  "text": "Established in 1983, the Guembeul Special Fauna Reserve is dedicated to the conservation of endangered species like the scimitar oryx.",
+                  "category": "natural",
+                  "coords": [
+                        -16.463027,
+                        15.917032
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SN-SL",
     coords: [-16.4, 15.9],
@@ -1011,7 +2154,88 @@ export const poiExtraSenegalNatureV2: POI[] = [
     },
   },
   {
-    id: "foret-de-dakar-nature-v2",
+    id: "foret-de-dakar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Hann",
+                  "text": "Dieser Sandstrand in der Bucht von Hann bietet eine malerische Küstenlinie in Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.41847,
+                        14.72528
+                  ]
+            },
+            {
+                  "name": "Plage de la Voile d'Or",
+                  "text": "Dieser Küstenabschnitt mit goldenem Sand ist ein beliebter Ort für Strandspaziergänge in Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.420905,
+                        14.700329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Hann",
+                  "text": "Ez a Hann-öbölben található homokos strand festői partszakaszt kínál Dakarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.41847,
+                        14.72528
+                  ]
+            },
+            {
+                  "name": "Plage de la Voile d'Or",
+                  "text": "Ez az aranyszínű homokos partszakasz népszerű hely a tengerparti sétákhoz Dakarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.420905,
+                        14.700329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Hann",
+                  "text": "Această plajă de nisip din Golful Hann oferă o zonă de coastă pitorească în Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.41847,
+                        14.72528
+                  ]
+            },
+            {
+                  "name": "Plage de la Voile d'Or",
+                  "text": "Această porțiune de coastă cu nisip auriu este un loc popular pentru plimbări pe plajă în Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.420905,
+                        14.700329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hann beach",
+                  "text": "This sandy beach situated on the Bay of Hann provides a scenic coastline in Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.41847,
+                        14.72528
+                  ]
+            },
+            {
+                  "name": "Plage de la Voile d'Or",
+                  "text": "This stretch of coastline featuring golden sands is a favored spot for beachgoing in Dakar.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.420905,
+                        14.700329
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SN-DK",
     coords: [-17.4, 14.7],

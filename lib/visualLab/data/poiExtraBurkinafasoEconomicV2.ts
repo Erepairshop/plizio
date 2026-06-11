@@ -195,7 +195,160 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "bobointer-dry-port-economic-v2",
+    id: "bobointer-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée du Houet",
+                  "text": "Dieses in Bobo-Dioulasso gelegene Museum zeigt ethnografische Artefakte aus der Provinz Houet.",
+                  "category": "museum",
+                  "coords": [
+                        -4.297263,
+                        11.169044
+                  ]
+            },
+            {
+                  "name": "Rond point du cinquantenaire",
+                  "text": "Dieses markante Kreisverkehr-Denkmal wurde zur Erinnerung an den fünfzigsten Jahrestag der nationalen Unabhängigkeit errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        -4.284981,
+                        11.15583
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "Dieses Kunstzentrum in Bobo-Dioulasso veranstaltet eine Vielzahl von frankophonen kulturellen Aufführungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.295077,
+                        11.169671
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Amitié",
+                  "text": "Ein großes Theater in Bobo-Dioulasso, das für die Aufführung bedeutender lokaler Theaterproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.292648,
+                        11.169932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée du Houet",
+                  "text": "Ez a Bobo-Dioulassóban található múzeum a Houet tartomány néprajzi leleteit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -4.297263,
+                        11.169044
+                  ]
+            },
+            {
+                  "name": "Rond point du cinquantenaire",
+                  "text": "Ezt a kiemelkedő körforgalmi emlékművet a nemzeti függetlenség ötvenedik évfordulójának emlékére építették.",
+                  "category": "historical",
+                  "coords": [
+                        -4.284981,
+                        11.15583
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "Ez a Bobo-Dioulassóban található művészeti központ számos frankofón kulturális előadásnak és kiállításnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.295077,
+                        11.169671
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Amitié",
+                  "text": "Egy nagyszabású színház Bobo-Dioulassóban, amely jelentős helyi színházi produkciók színreviteléről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.292648,
+                        11.169932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée du Houet",
+                  "text": "Găzduit în Bobo-Dioulasso, acest muzeu expune artefacte etnografice din provincia Houet.",
+                  "category": "museum",
+                  "coords": [
+                        -4.297263,
+                        11.169044
+                  ]
+            },
+            {
+                  "name": "Rond point du cinquantenaire",
+                  "text": "Acest monument proeminent dintr-un sens giratoriu a fost construit pentru a comemora a cincizecea aniversare a independenței naționale.",
+                  "category": "historical",
+                  "coords": [
+                        -4.284981,
+                        11.15583
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "Acest centru de arte din Bobo-Dioulasso găzduiește o varietate de spectacole și expoziții culturale francofone.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.295077,
+                        11.169671
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Amitié",
+                  "text": "O clădire grandioasă de teatru din Bobo-Dioulasso, cunoscută pentru punerea în scenă a unor producții teatrale locale semnificative.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.292648,
+                        11.169932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée du Houet",
+                  "text": "Housed in Bobo-Dioulasso, this museum exhibits ethnographic artifacts from the Houet province.",
+                  "category": "museum",
+                  "coords": [
+                        -4.297263,
+                        11.169044
+                  ]
+            },
+            {
+                  "name": "Rond point du cinquantenaire",
+                  "text": "This prominent roundabout monument was built to commemorate the fiftieth anniversary of national independence.",
+                  "category": "historical",
+                  "coords": [
+                        -4.284981,
+                        11.15583
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "This arts center in Bobo-Dioulasso hosts a variety of Francophone cultural performances and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.295077,
+                        11.169671
+                  ]
+            },
+            {
+                  "name": "Théatre de l'Amitié",
+                  "text": "A grand theatre venue in Bobo-Dioulasso known for staging significant local theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.292648,
+                        11.169932
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BF-HOU",
     coords: [-4.2965, 11.1643],
@@ -243,7 +396,88 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "ouagarinter-dry-port-economic-v2",
+    id: "ouagarinter-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Domicile Adeline Sedogo",
+                  "text": "Dieses markante Privathaus ist eine lokale Sehenswürdigkeit mit architektonischen Details, die sich in die Nachbarschaft einfügen.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.502584,
+                        12.35926
+                  ]
+            },
+            {
+                  "name": "Mosquee du Centre de Recherche et de Formation Islamique",
+                  "text": "Diese aktive Kultstätte dient als spirituelles Herzstück eines islamischen Forschungs- und Ausbildungszentrums.",
+                  "category": "religious",
+                  "coords": [
+                        -1.497894,
+                        12.359461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Domicile Adeline Sedogo",
+                  "text": "Ez a figyelemre méltó magánrezidencia a környékbe illeszkedő építészeti részleteivel helyi érdekességként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.502584,
+                        12.35926
+                  ]
+            },
+            {
+                  "name": "Mosquee du Centre de Recherche et de Formation Islamique",
+                  "text": "Ez az aktív istentiszteleti hely egy iszlám kutató- és képzőközpont spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -1.497894,
+                        12.359461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domicile Adeline Sedogo",
+                  "text": "Această reședință privată notabilă reprezintă un punct de atracție local, având detalii arhitecturale integrate în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.502584,
+                        12.35926
+                  ]
+            },
+            {
+                  "name": "Mosquee du Centre de Recherche et de Formation Islamique",
+                  "text": "Acest lăcaș de cult activ servește drept inima spirituală a unui centru de cercetare și formare islamică.",
+                  "category": "religious",
+                  "coords": [
+                        -1.497894,
+                        12.359461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Domicile Adeline Sedogo",
+                  "text": "This notable private residence stands as a local point of interest with architectural details integrated into the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.502584,
+                        12.35926
+                  ]
+            },
+            {
+                  "name": "Mosquee du Centre de Recherche et de Formation Islamique",
+                  "text": "This active place of worship serves as the spiritual heart of an Islamic research and training center.",
+                  "category": "religious",
+                  "coords": [
+                        -1.497894,
+                        12.359461
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BF-KAD",
     coords: [-1.5036, 12.3615],
@@ -483,7 +717,484 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "zagtouli-solar-plant-economic-v2",
+    id: "zagtouli-solar-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nabitenga",
+                  "text": "Ein lokaler Beobachtungspunkt, der sich in der Nähe des Solarkraftwerks Zagtouli befindet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.608608,
+                        12.245742
+                  ]
+            },
+            {
+                  "name": "C18",
+                  "text": "Eine ausgewiesene Aussichtsposition, die einen Aussichtspunkt in der Nähe der Solaranlagen von Zagtouli bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.614416,
+                        12.24297
+                  ]
+            },
+            {
+                  "name": "C17",
+                  "text": "Ein spezifischer Beobachtungsmarker, der einen Blick über die Solarenergiefelder von Zagtouli bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.610774,
+                        12.240993
+                  ]
+            },
+            {
+                  "name": "C16",
+                  "text": "Ein Aussichtspunkt, der sich in der Nähe des weitläufigen Solarkraftwerks Zagtouli befindet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.602685,
+                        12.237808
+                  ]
+            },
+            {
+                  "name": "C19",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Infrastruktur für erneuerbare Energien in Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.637964,
+                        12.263963
+                  ]
+            },
+            {
+                  "name": "C21",
+                  "text": "Ein ausgewiesener Aussichtspunkt, der einen klaren Blick auf die Solaranlagen von Zagtouli bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.67712,
+                        12.301295
+                  ]
+            },
+            {
+                  "name": "C20",
+                  "text": "Eine erhöhte oder markierte Beobachtungsposition in der Nähe des Solarkraftwerks Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.659219,
+                        12.282606
+                  ]
+            },
+            {
+                  "name": "C22",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick auf die Solaranlagen in Zagtouli bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.684902,
+                        12.340631
+                  ]
+            },
+            {
+                  "name": "C23",
+                  "text": "Ein speziell nummerierter Aussichtspunkt zur Beobachtung der Solarfarm-Landschaft von Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.687267,
+                        12.352011
+                  ]
+            },
+            {
+                  "name": "Famille Pascale",
+                  "text": "Ein befestigter Familienkomplex oder ein großes schlossähnliches Anwesen im Gebiet von Zagtouli.",
+                  "category": "castle",
+                  "coords": [
+                        -1.601405,
+                        12.308209
+                  ]
+            },
+            {
+                  "name": "Famille",
+                  "text": "Ein markantes, befestigtes Wohnanwesen in der Nähe des Solarkraftwerks Zagtouli.",
+                  "category": "castle",
+                  "coords": [
+                        -1.592126,
+                        12.320433
+                  ]
+            },
+            {
+                  "name": "Centre de formation Marie Poussepin des soeurs de Boassa",
+                  "text": "Ein Schulungs- und Kulturzentrum, das von den Schwestern von Boassa in der Nähe von Zagtouli geleitet wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.619577,
+                        12.295654
+                  ]
+            },
+            {
+                  "name": "Centre de formation Neb-la-Bombou de Boassa",
+                  "text": "Eine Bildungs- und Kultureinrichtung, die der Gemeinde Boassa in der Nähe von Zagtouli dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.616301,
+                        12.311856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabitenga",
+                  "text": "Egy helyi megfigyelőpont a Zagtouli naperőmű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -1.608608,
+                        12.245742
+                  ]
+            },
+            {
+                  "name": "C18",
+                  "text": "Kijelölt kilátó, amely rálátást biztosít a Zagtouli napelem-telepekre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.614416,
+                        12.24297
+                  ]
+            },
+            {
+                  "name": "C17",
+                  "text": "Egy specifikus megfigyelési pont, amely kilátást nyújt a Zagtouli napenergia-mezőkre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.610774,
+                        12.240993
+                  ]
+            },
+            {
+                  "name": "C16",
+                  "text": "Egy megfigyelőpont a kiterjedt Zagtouli naperőmű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -1.602685,
+                        12.237808
+                  ]
+            },
+            {
+                  "name": "C19",
+                  "text": "Egy kilátóhely, amely a Zagtouli megújuló energia infrastruktúrájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.637964,
+                        12.263963
+                  ]
+            },
+            {
+                  "name": "C21",
+                  "text": "Kijelölt kilátó, amely tiszta rálátást biztosít a Zagtouli naperőművekre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.67712,
+                        12.301295
+                  ]
+            },
+            {
+                  "name": "C20",
+                  "text": "Egy magasított vagy kijelölt megfigyelőpont a Zagtouli naperőmű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -1.659219,
+                        12.282606
+                  ]
+            },
+            {
+                  "name": "C22",
+                  "text": "Egy kilátópont, amely széles rálátást nyújt a Zagtouli napenergia-létesítményekre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.684902,
+                        12.340631
+                  ]
+            },
+            {
+                  "name": "C23",
+                  "text": "Egy speciálisan számozott kilátópont a Zagtouli napelempark tájának megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -1.687267,
+                        12.352011
+                  ]
+            },
+            {
+                  "name": "Famille Pascale",
+                  "text": "Egy erődített családi birtok vagy nagyméretű, kastélyszerű épület Zagtouli területén.",
+                  "category": "castle",
+                  "coords": [
+                        -1.601405,
+                        12.308209
+                  ]
+            },
+            {
+                  "name": "Famille",
+                  "text": "Egy kiemelkedő, erődített lakóövezet a Zagtouli naperőmű közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -1.592126,
+                        12.320433
+                  ]
+            },
+            {
+                  "name": "Centre de formation Marie Poussepin des soeurs de Boassa",
+                  "text": "A Boassa nővérek által fenntartott oktatási és kulturális központ Zagtouli közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.619577,
+                        12.295654
+                  ]
+            },
+            {
+                  "name": "Centre de formation Neb-la-Bombou de Boassa",
+                  "text": "Egy oktatási és kulturális létesítmény, amely a Zagtouli melletti Boassa közösséget szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.616301,
+                        12.311856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabitenga",
+                  "text": "Un loc de observație local situat în vecinătatea centralei solare Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.608608,
+                        12.245742
+                  ]
+            },
+            {
+                  "name": "C18",
+                  "text": "O poziție de vizualizare desemnată care oferă un punct de observație lângă instalațiile solare din Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.614416,
+                        12.24297
+                  ]
+            },
+            {
+                  "name": "C17",
+                  "text": "Un marker de observație specific care oferă priveliști asupra câmpurilor de energie solară din Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.610774,
+                        12.240993
+                  ]
+            },
+            {
+                  "name": "C16",
+                  "text": "Un punct de observație situat lângă vasta centrală solară Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.602685,
+                        12.237808
+                  ]
+            },
+            {
+                  "name": "C19",
+                  "text": "Un loc de vizualizare cu vedere la infrastructura de energie regenerabilă din Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.637964,
+                        12.263963
+                  ]
+            },
+            {
+                  "name": "C21",
+                  "text": "Un punct de belvedere desemnat care oferă o privire clară asupra instalațiilor de energie solară din Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.67712,
+                        12.301295
+                  ]
+            },
+            {
+                  "name": "C20",
+                  "text": "O poziție de observație ridicată sau marcată lângă centrala solară Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.659219,
+                        12.282606
+                  ]
+            },
+            {
+                  "name": "C22",
+                  "text": "Un punct de observație care oferă o vedere amplă a instalațiilor solare din Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.684902,
+                        12.340631
+                  ]
+            },
+            {
+                  "name": "C23",
+                  "text": "Un punct de belvedere special numerotat pentru observarea peisajului fermei solare din Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.687267,
+                        12.352011
+                  ]
+            },
+            {
+                  "name": "Famille Pascale",
+                  "text": "Un complex familial fortificat sau o clădire mare asemănătoare unui castel în zona Zagtouli.",
+                  "category": "castle",
+                  "coords": [
+                        -1.601405,
+                        12.308209
+                  ]
+            },
+            {
+                  "name": "Famille",
+                  "text": "O proprietate rezidențială fortificată și proeminentă situată lângă centrala solară Zagtouli.",
+                  "category": "castle",
+                  "coords": [
+                        -1.592126,
+                        12.320433
+                  ]
+            },
+            {
+                  "name": "Centre de formation Marie Poussepin des soeurs de Boassa",
+                  "text": "Un centru cultural și de formare condus de surorile din Boassa, lângă Zagtouli.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.619577,
+                        12.295654
+                  ]
+            },
+            {
+                  "name": "Centre de formation Neb-la-Bombou de Boassa",
+                  "text": "O facilitate culturală și educațională care deservește comunitatea Boassa din apropiere de Zagtouli.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.616301,
+                        12.311856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabitenga",
+                  "text": "A local observation spot situated in the vicinity of the Zagtouli solar plant.",
+                  "category": "natural",
+                  "coords": [
+                        -1.608608,
+                        12.245742
+                  ]
+            },
+            {
+                  "name": "C18",
+                  "text": "A designated viewing position providing a vantage point near the Zagtouli solar installations.",
+                  "category": "natural",
+                  "coords": [
+                        -1.614416,
+                        12.24297
+                  ]
+            },
+            {
+                  "name": "C17",
+                  "text": "A specific observation marker offering views over the Zagtouli solar energy fields.",
+                  "category": "natural",
+                  "coords": [
+                        -1.610774,
+                        12.240993
+                  ]
+            },
+            {
+                  "name": "C16",
+                  "text": "An observational vantage point located near the expansive Zagtouli solar plant.",
+                  "category": "natural",
+                  "coords": [
+                        -1.602685,
+                        12.237808
+                  ]
+            },
+            {
+                  "name": "C19",
+                  "text": "A viewing spot overlooking the renewable energy infrastructure in Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.637964,
+                        12.263963
+                  ]
+            },
+            {
+                  "name": "C21",
+                  "text": "A designated viewpoint offering a clear look at the Zagtouli solar power arrays.",
+                  "category": "natural",
+                  "coords": [
+                        -1.67712,
+                        12.301295
+                  ]
+            },
+            {
+                  "name": "C20",
+                  "text": "An elevated or marked observation position near the Zagtouli solar plant.",
+                  "category": "natural",
+                  "coords": [
+                        -1.659219,
+                        12.282606
+                  ]
+            },
+            {
+                  "name": "C22",
+                  "text": "A vantage point providing sweeping views of the solar installations in Zagtouli.",
+                  "category": "natural",
+                  "coords": [
+                        -1.684902,
+                        12.340631
+                  ]
+            },
+            {
+                  "name": "C23",
+                  "text": "A specifically numbered viewpoint for observing the Zagtouli solar farm landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -1.687267,
+                        12.352011
+                  ]
+            },
+            {
+                  "name": "Famille Pascale",
+                  "text": "A fortified family compound or large castle-like building situated in the Zagtouli area.",
+                  "category": "castle",
+                  "coords": [
+                        -1.601405,
+                        12.308209
+                  ]
+            },
+            {
+                  "name": "Famille",
+                  "text": "A prominent, fortified residential estate located near the Zagtouli solar plant.",
+                  "category": "castle",
+                  "coords": [
+                        -1.592126,
+                        12.320433
+                  ]
+            },
+            {
+                  "name": "Centre de formation Marie Poussepin des soeurs de Boassa",
+                  "text": "A training and cultural center run by the Sisters of Boassa near Zagtouli.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.619577,
+                        12.295654
+                  ]
+            },
+            {
+                  "name": "Centre de formation Neb-la-Bombou de Boassa",
+                  "text": "An educational and cultural facility serving the community of Boassa near Zagtouli.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.616301,
+                        12.311856
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-KAD",
     coords: [-1.6375, 12.3164],
@@ -528,7 +1239,52 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "sonabhy-bingo-depot-economic-v2",
+    id: "sonabhy-bingo-depot-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez Adja Salimata SORE",
+                  "text": "Ein bekannter lokaler Treffpunkt, der sich in der Nähe des Bingo-Depots befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.732849,
+                        12.341354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez Adja Salimata SORE",
+                  "text": "Egy jól ismert helyi találkozóhely a bingói depó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.732849,
+                        12.341354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez Adja Salimata SORE",
+                  "text": "Un loc de adunare local bine cunoscut situat în apropierea depozitului Bingo.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.732849,
+                        12.341354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez Adja Salimata SORE",
+                  "text": "A well-known local gathering place located near the Bingo depot.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.732849,
+                        12.341354
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-BLG",
     coords: [-1.7611, 12.2858],
@@ -708,7 +1464,52 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "mana-gold-mine-economic-v2",
+    id: "mana-gold-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camping Mana",
+                  "text": "Eine befestigte Campingstruktur, die sich in der Nähe des wirtschaftlichen Zentrums der Mana-Goldmine befindet.",
+                  "category": "castle",
+                  "coords": [
+                        -3.426546,
+                        11.909965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camping Mana",
+                  "text": "Egy erődített kempingépítmény, amely a Mana aranybánya gazdasági központja közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        -3.426546,
+                        11.909965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camping Mana",
+                  "text": "O structură de camping fortificată situată în apropierea centrului economic al minei de aur Mana.",
+                  "category": "castle",
+                  "coords": [
+                        -3.426546,
+                        11.909965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camping Mana",
+                  "text": "A fortified campsite structure situated near the economic hub of the Mana gold mine.",
+                  "category": "castle",
+                  "coords": [
+                        -3.426546,
+                        11.909965
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-BAL",
     coords: [-3.3769, 11.9681],
@@ -888,7 +1689,52 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "yaramoko-gold-mine-economic-v2",
+    id: "yaramoko-gold-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "cour des jeunes",
+                  "text": "Dieses lokale Kunst- und Kulturzentrum bietet einen kreativen Raum für Jugendaktivitäten und Aufführungen in der Nähe der Goldmine Yaramoko.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.295434,
+                        11.745791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cour des jeunes",
+                  "text": "Ez a helyi művészeti és kulturális központ kreatív teret biztosít ifjúsági tevékenységek és előadások számára a yaramokói aranybánya közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.295434,
+                        11.745791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cour des jeunes",
+                  "text": "Acest centru de artă și cultură local oferă un spațiu creativ pentru activități și spectacole de tineret în apropierea minei de aur Yaramoko.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.295434,
+                        11.745791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cour des jeunes",
+                  "text": "This local arts and cultural center provides a creative space for youth activities and performances near the Yaramoko gold mine.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.295434,
+                        11.745791
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-BAL",
     coords: [-3.275, 11.7583],
@@ -978,7 +1824,52 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "cimfaso-cement-plant-economic-v2",
+    id: "cimfaso-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "SIAO",
+                  "text": "SIAO ist eine Hauptattraktion in Ouagadougou, bekannt für die Ausrichtung der internationalen Messe für Kunsthandwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.490366,
+                        12.350465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SIAO",
+                  "text": "A SIAO Ouagadougou egyik fő látványossága, amely a nemzetközi kézműves vásár megrendezéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.490366,
+                        12.350465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SIAO",
+                  "text": "SIAO este o atracție majoră în Ouagadougou, cunoscută pentru găzduirea târgului internațional de arte și meserii.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.490366,
+                        12.350465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SIAO",
+                  "text": "SIAO is a major attraction in Ouagadougou known for hosting the international arts and crafts fair.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.490366,
+                        12.350465
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-KAD",
     coords: [-1.48, 12.35],
@@ -1023,7 +1914,124 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "sofitex-koudougou-economic-v2",
+    id: "sofitex-koudougou-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Rayimi à Issouka",
+                  "text": "Ein lokales Museum, das traditionelle Artefakte im Viertel Issouka von Koudougou ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.376681,
+                        12.237162
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle du Secteur 10",
+                  "text": "Ein Veranstaltungsort für darstellende Künste, der der Gemeinde im Sektor 10 von Koudougou dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.385675,
+                        12.258703
+                  ]
+            },
+            {
+                  "name": "Theâtre Populaire",
+                  "text": "Ein beliebter Open-Air- oder öffentlicher Theaterraum für lokale Aufführungen in Koudougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.367495,
+                        12.248148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Rayimi à Issouka",
+                  "text": "Egy helyi múzeum, amely hagyományos tárgyakat mutat be Koudougou Issouka negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -2.376681,
+                        12.237162
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle du Secteur 10",
+                  "text": "Egy előadóművészeti helyszín, amely Koudougou 10-es szektorának közösségét szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.385675,
+                        12.258703
+                  ]
+            },
+            {
+                  "name": "Theâtre Populaire",
+                  "text": "Egy népszerű szabadtéri vagy nyilvános színházi tér helyi előadásokhoz Koudougouban.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.367495,
+                        12.248148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Rayimi à Issouka",
+                  "text": "Un muzeu local care expune artefacte tradiționale în cartierul Issouka din Koudougou.",
+                  "category": "museum",
+                  "coords": [
+                        -2.376681,
+                        12.237162
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle du Secteur 10",
+                  "text": "O locație pentru artele spectacolului care deservește comunitatea din Sectorul 10 din Koudougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.385675,
+                        12.258703
+                  ]
+            },
+            {
+                  "name": "Theâtre Populaire",
+                  "text": "Un spațiu teatral public sau în aer liber popular pentru spectacole locale în Koudougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.367495,
+                        12.248148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Rayimi à Issouka",
+                  "text": "A local museum showcasing traditional artifacts in the Issouka neighborhood of Koudougou.",
+                  "category": "museum",
+                  "coords": [
+                        -2.376681,
+                        12.237162
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle du Secteur 10",
+                  "text": "A performing arts venue serving the community of Secteur 10 in Koudougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.385675,
+                        12.258703
+                  ]
+            },
+            {
+                  "name": "Theâtre Populaire",
+                  "text": "A popular open-air or public theater space for local performances in Koudougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.367495,
+                        12.248148
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-BLK",
     coords: [-2.3667, 12.25],
@@ -1203,7 +2211,160 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "cimasso-bobo-dioulasso-economic-v2",
+    id: "cimasso-bobo-dioulasso-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin",
+                  "text": "Diese traditionelle Windmühle ist ein bemerkenswertes wirtschaftliches Wahrzeichen im Cimasso-Viertel von Bobo-Dioulasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.34227,
+                        11.171401
+                  ]
+            },
+            {
+                  "name": "Senoufo",
+                  "text": "Ein Museum im Cimasso-Viertel, das den reichen Traditionen des Senufo-Volkes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -4.34721,
+                        11.185296
+                  ]
+            },
+            {
+                  "name": "Centre Siraba",
+                  "text": "Dieses Kunstzentrum dient als dynamischer Knotenpunkt für lokale Kulturschaffende im Cimasso-Viertel.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.332387,
+                        11.180058
+                  ]
+            },
+            {
+                  "name": "Katouma",
+                  "text": "Eine kulturelle Einrichtung in Cimasso, die sich auf die Förderung regionaler künstlerischer Ausdrucksformen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.350965,
+                        11.167703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin",
+                  "text": "Ez a hagyományos szélmalom egy figyelemre méltó gazdasági nevezetesség Bobo-Dioulasso Cimasso negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.34227,
+                        11.171401
+                  ]
+            },
+            {
+                  "name": "Senoufo",
+                  "text": "A Cimasso területén található múzeum a szenufó nép gazdag hagyományainak bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -4.34721,
+                        11.185296
+                  ]
+            },
+            {
+                  "name": "Centre Siraba",
+                  "text": "Ez a művészeti központ a helyi alkotók dinamikus központjaként szolgál a Cimasso negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.332387,
+                        11.180058
+                  ]
+            },
+            {
+                  "name": "Katouma",
+                  "text": "Egy kulturális létesítmény Cimassóban, amely a regionális művészi kifejezés népszerűsítésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.350965,
+                        11.167703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin",
+                  "text": "Această moară de vânt tradițională este un punct de reper economic notabil în zona Cimasso din Bobo-Dioulasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.34227,
+                        11.171401
+                  ]
+            },
+            {
+                  "name": "Senoufo",
+                  "text": "Un muzeu din zona Cimasso dedicat prezentării bogatelor tradiții ale poporului Senufo.",
+                  "category": "museum",
+                  "coords": [
+                        -4.34721,
+                        11.185296
+                  ]
+            },
+            {
+                  "name": "Centre Siraba",
+                  "text": "Acest centru de arte servește drept un hub dinamic pentru creatorii locali din districtul Cimasso.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.332387,
+                        11.180058
+                  ]
+            },
+            {
+                  "name": "Katouma",
+                  "text": "O facilitate culturală în Cimasso axată pe promovarea expresiei artistice regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.350965,
+                        11.167703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin",
+                  "text": "This traditional windmill is a notable economic landmark in the Cimasso area of Bobo-Dioulasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.34227,
+                        11.171401
+                  ]
+            },
+            {
+                  "name": "Senoufo",
+                  "text": "A museum in the Cimasso area dedicated to showcasing the rich traditions of the Senufo people.",
+                  "category": "museum",
+                  "coords": [
+                        -4.34721,
+                        11.185296
+                  ]
+            },
+            {
+                  "name": "Centre Siraba",
+                  "text": "This arts center serves as a dynamic hub for local creators in the Cimasso district.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.332387,
+                        11.180058
+                  ]
+            },
+            {
+                  "name": "Katouma",
+                  "text": "A cultural facility in Cimasso focused on promoting regional artistic expression.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.350965,
+                        11.167703
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-HOU",
     coords: [-4.3167, 11.1667],
@@ -1248,7 +2409,52 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "zina-solar-power-station-economic-v2",
+    id: "zina-solar-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ECED BARA",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Landschaft in der Nähe des Solarkraftwerks Zina bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.239767,
+                        12.088576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ECED BARA",
+                  "text": "Egy kilátópont, amely kilátást nyújt a Zina naperőmű körüli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -3.239767,
+                        12.088576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ECED BARA",
+                  "text": "Un punct de observație care oferă priveliști asupra peisajului din jurul centralei solare Zina.",
+                  "category": "natural",
+                  "coords": [
+                        -3.239767,
+                        12.088576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ECED BARA",
+                  "text": "An observation point offering views over the surrounding landscape near the Zina solar power station.",
+                  "category": "natural",
+                  "coords": [
+                        -3.239767,
+                        12.088576
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-BAL",
     coords: [-3.2, 12.0833],
@@ -1338,7 +2544,52 @@ export const poiExtraBurkinafasoEconomicV2: POI[] = [
     }
   },
   {
-    id: "kou-valley-rice-mills-economic-v2",
+    id: "kou-valley-rice-mills-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "BAMA POULET RIZ SOUMBALA",
+                  "text": "Ein beliebter lokaler kulinarischer Treffpunkt, der in der Nähe der Reismühlen im Kou-Tal traditionelles Hähnchen, Reis und Soumbala serviert.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.376915,
+                        11.37093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BAMA POULET RIZ SOUMBALA",
+                  "text": "Népszerű helyi kulináris pont a Kou-völgy rizsmalmai közelében, ahol hagyományos csirkét, rizst és soumbalát szolgálnak fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.376915,
+                        11.37093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BAMA POULET RIZ SOUMBALA",
+                  "text": "Un loc culinar local popular, situat lângă morile de orez din Valea Kou, care servește pui tradițional, orez și soumbala.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.376915,
+                        11.37093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BAMA POULET RIZ SOUMBALA",
+                  "text": "A popular local culinary spot serving traditional chicken, rice, and soumbala near the Kou Valley rice mills.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.376915,
+                        11.37093
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BF-HOU",
     coords: [-4.4, 11.3833],

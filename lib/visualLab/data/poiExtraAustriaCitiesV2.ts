@@ -27610,7 +27610,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariä-Heimsuchung-Kapelle",
-                  "text": "Historische Kapelle auf einem Hügel in Nüziders bei Bludenz.",
+                  "text": "Wallfahrtskapelle in Bludenz, Österreich, erbaut 1672.",
                   "category": "landmark",
                   "coords": [
                         9.813173,
@@ -27873,7 +27873,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariä-Heimsuchung-Kapelle",
-                  "text": "Történelmi kápolna egy dombon Nüzidersben, Bludenz mellett.",
+                  "text": "Búcsújáró kápolna Bludenzben, Ausztriában, 1672-ben épült.",
                   "category": "landmark",
                   "coords": [
                         9.813173,
@@ -28136,7 +28136,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariä-Heimsuchung-Kapelle",
-                  "text": "Capelă istorică situată pe un deal în Nüziders lângă Bludenz.",
+                  "text": "Capelă de pelerinaj în Bludenz, Austria, construită în 1672.",
                   "category": "landmark",
                   "coords": [
                         9.813173,
@@ -28399,7 +28399,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariä-Heimsuchung-Kapelle",
-                  "text": "Historical chapel on a hill in Nüziders near Bludenz.",
+                  "text": "Pilgrimage chapel in Bludenz, Austria, built in 1672.",
                   "category": "landmark",
                   "coords": [
                         9.813173,
@@ -39815,7 +39815,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilika am Weizberg",
-                  "text": "Die Basilika am Weizberg ist eine bedeutende barocke Wallfahrtskirche.",
+                  "text": "Barocke Basilika in Weiz, Österreich, entworfen von Josef Hueber.",
                   "category": "religious",
                   "coords": [
                         15.635223,
@@ -39925,7 +39925,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilika am Weizberg",
-                  "text": "A weizbergi bazilika egy jelentős barokk zarándoktemplom.",
+                  "text": "Barokk bazilika Weizben, Ausztriában, Josef Hueber tervezte.",
                   "category": "religious",
                   "coords": [
                         15.635223,
@@ -40035,7 +40035,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilika am Weizberg",
-                  "text": "Bazilica de pe Weizberg este o importantă biserică de pelerinaj în stil baroc.",
+                  "text": "Basilica barocă în Weiz, Austria, proiectată de Josef Hueber.",
                   "category": "religious",
                   "coords": [
                         15.635223,
@@ -40145,7 +40145,7 @@ export const austriaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilika am Weizberg",
-                  "text": "The Basilica on the Weizberg is a significant Baroque pilgrimage church.",
+                  "text": "Baroque basilica in Weiz, Austria, designed by Josef Hueber.",
                   "category": "religious",
                   "coords": [
                         15.635223,

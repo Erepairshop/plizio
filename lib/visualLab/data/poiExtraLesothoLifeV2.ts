@@ -93,7 +93,52 @@ export const lesothoLifeV2: POI[] = [
     image: "/poi-images/lesotho-liphofung-nature-reserve-life-v2.webp",
   },
   {
-    id: "lesotho-katse-botanical-garden-life-v2",
+    id: "lesotho-katse-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Homolo Pas Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über das zerklüftete Gelände der Katse-Region.",
+                  "category": "natural",
+                  "coords": [
+                        28.487657,
+                        -28.937947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Homolo Pas Viewpoint",
+                  "text": "Ez a panorámás kilátó széles rálátást nyújt a Katse térségének zord terepére.",
+                  "category": "natural",
+                  "coords": [
+                        28.487657,
+                        -28.937947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Homolo Pas Viewpoint",
+                  "text": "Acest punct de belvedere panoramic oferă priveliști ample asupra terenului accidentat din zona Katse.",
+                  "category": "natural",
+                  "coords": [
+                        28.487657,
+                        -28.937947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Homolo Pas Viewpoint",
+                  "text": "This panoramic viewpoint offers sweeping vistas over the rugged terrain of the Katse area.",
+                  "category": "natural",
+                  "coords": [
+                        28.487657,
+                        -28.937947
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Botanischer Garten Katse", hu: "Katse Botanikus Kert", ro: "Grădina Botanică Katse", en: "Katse Botanical Garden" },
@@ -228,7 +273,196 @@ export const lesothoLifeV2: POI[] = [
     image: "/poi-images/lesotho-quthing-dinosaur-tracks-life-v2.webp",
   },
   {
-    id: "lesotho-muela-nature-area-life-v2",
+    id: "lesotho-muela-nature-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snow Hills",
+                  "text": "Dieser hoch aufragende Berggipfel im Freistaat ist dafür bekannt, dass hier in den kälteren Wintermonaten gelegentlich leichter Schnee fällt.",
+                  "category": "natural",
+                  "coords": [
+                        28.589702,
+                        -28.567945
+                  ]
+            },
+            {
+                  "name": "Langkrans",
+                  "text": "Dieser markante felsige Gipfel zeichnet sich durch seine langen, steilen Sandsteinklippen aus, die die umliegende Topographie dominieren.",
+                  "category": "natural",
+                  "coords": [
+                        28.567693,
+                        -28.573056
+                  ]
+            },
+            {
+                  "name": "Swartkop",
+                  "text": "Dieser dunkel gefärbte Berggipfel hebt sich in der Landschaft des Freistaates durch seine kontrastierenden Basaltformationen ab.",
+                  "category": "natural",
+                  "coords": [
+                        28.558429,
+                        -28.532974
+                  ]
+            },
+            {
+                  "name": "Eureka Nature Reserve",
+                  "text": "Dieses geschützte Hochland-Naturschutzgebiet beherbergt eine Vielzahl einheimischer Antilopenarten an seinen grasbewachsenen Berghängen.",
+                  "category": "natural",
+                  "coords": [
+                        28.531772,
+                        -28.492287
+                  ]
+            },
+            {
+                  "name": "De Ark Game Reserve",
+                  "text": "Dieses privat geführte Wildreservat bietet geführte Safaris an, um einheimisches Wild zu beobachten, das durch die weiten Ebenen des Hochlandes streift.",
+                  "category": "natural",
+                  "coords": [
+                        28.479658,
+                        -28.567903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snow Hills",
+                  "text": "Ez a Szabadállamban található magasba törő hegycsúcs arról ismert, hogy a hidegebb téli hónapokban időnként enyhe hóesést kap.",
+                  "category": "natural",
+                  "coords": [
+                        28.589702,
+                        -28.567945
+                  ]
+            },
+            {
+                  "name": "Langkrans",
+                  "text": "Ezt a kiemelkedő sziklás csúcsot a környező topográfiát uraló hosszú, meredek homokkő sziklák jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        28.567693,
+                        -28.573056
+                  ]
+            },
+            {
+                  "name": "Swartkop",
+                  "text": "Ez a sötét árnyalatú hegycsúcs a kontrasztos bazaltképződményeinek köszönhetően kiemelkedik a szabadállami tájból.",
+                  "category": "natural",
+                  "coords": [
+                        28.558429,
+                        -28.532974
+                  ]
+            },
+            {
+                  "name": "Eureka Nature Reserve",
+                  "text": "Ez a védett felvidéki természetvédelmi terület különféle őshonos antilopfajoknak nyújt menedéket a füves hegyoldalain.",
+                  "category": "natural",
+                  "coords": [
+                        28.531772,
+                        -28.492287
+                  ]
+            },
+            {
+                  "name": "De Ark Game Reserve",
+                  "text": "Ez a magánkézben lévő vadvédelmi terület vezetett szafarikat kínál a hatalmas felvidéki síkságokon barangoló őshonos vadak megtekintésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.479658,
+                        -28.567903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snow Hills",
+                  "text": "Acest vârf muntos impunător din Free State este cunoscut pentru faptul că, ocazional, este acoperit de o ninsoare ușoară în lunile mai reci de iarnă.",
+                  "category": "natural",
+                  "coords": [
+                        28.589702,
+                        -28.567945
+                  ]
+            },
+            {
+                  "name": "Langkrans",
+                  "text": "Acest vârf stâncos proeminent se caracterizează prin stâncile sale lungi și abrupte din gresie, care domină topografia înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        28.567693,
+                        -28.573056
+                  ]
+            },
+            {
+                  "name": "Swartkop",
+                  "text": "Acest vârf muntos de culoare închisă iese în evidență în peisajul din Free State datorită formațiunilor sale bazaltice contrastante.",
+                  "category": "natural",
+                  "coords": [
+                        28.558429,
+                        -28.532974
+                  ]
+            },
+            {
+                  "name": "Eureka Nature Reserve",
+                  "text": "Această rezervație naturală protejată din regiunea muntoasă adăpostește o varietate de specii de antilope indigene pe versanții săi montani înierbați.",
+                  "category": "natural",
+                  "coords": [
+                        28.531772,
+                        -28.492287
+                  ]
+            },
+            {
+                  "name": "De Ark Game Reserve",
+                  "text": "Această rezervație de animale sălbatice administrată privat oferă safariuri ghidate pentru a vedea vânatul indigen cutreierând vastele câmpii muntoase.",
+                  "category": "natural",
+                  "coords": [
+                        28.479658,
+                        -28.567903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snow Hills",
+                  "text": "This towering mountain peak in the Free State is known for occasionally catching light snowfall during the colder winter months.",
+                  "category": "natural",
+                  "coords": [
+                        28.589702,
+                        -28.567945
+                  ]
+            },
+            {
+                  "name": "Langkrans",
+                  "text": "This prominent rocky peak is characterized by its long, steep sandstone cliffs that dominate the surrounding topography.",
+                  "category": "natural",
+                  "coords": [
+                        28.567693,
+                        -28.573056
+                  ]
+            },
+            {
+                  "name": "Swartkop",
+                  "text": "This dark-hued mountain peak stands out in the Free State landscape due to its contrasting basalt formations.",
+                  "category": "natural",
+                  "coords": [
+                        28.558429,
+                        -28.532974
+                  ]
+            },
+            {
+                  "name": "Eureka Nature Reserve",
+                  "text": "This protected highland nature reserve shelters a variety of indigenous antelope species among its grassy mountain slopes.",
+                  "category": "natural",
+                  "coords": [
+                        28.531772,
+                        -28.492287
+                  ]
+            },
+            {
+                  "name": "De Ark Game Reserve",
+                  "text": "This privately managed wildlife reserve offers guided safaris to view indigenous game roaming across the vast highland plains.",
+                  "category": "natural",
+                  "coords": [
+                        28.479658,
+                        -28.567903
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "wildlife",
     name: { de: "Muela-Naturgebiet", hu: "Muela természetvédelmi terület", ro: "Zona Naturală Muela", en: "Muela Nature Area" },
@@ -318,7 +552,88 @@ export const lesothoLifeV2: POI[] = [
     image: "/poi-images/lesotho-sani-pass-alpine-life-v2.webp",
   },
   {
-    id: "lesotho-maloti-drakensberg-park-life-v2",
+    id: "lesotho-maloti-drakensberg-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "uKhahlamba / Drachenbergpark",
+                  "text": "Der uKhahlamba / Drakensberg Park ist ein spektakuläres Weltnaturerbe, bekannt für seine hoch aufragenden Basaltpfeiler und reiche Felskunst.",
+                  "category": "natural",
+                  "coords": [
+                        29.39382,
+                        -29.37548
+                  ]
+            },
+            {
+                  "name": "Maloti-Drakensberg-Park",
+                  "text": "Der Maloti-Drakensberg-Park ist ein grenzüberschreitendes Weltnaturerbe, das dramatische Hochgebirgsgipfel und tiefe Täler umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        29.385165,
+                        -29.391688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "uKhahlamba / Drakensberg Park",
+                  "text": "Az uKhahlamba / Drakensberg Park egy látványos világörökségi hegyvidéki rezervátum, amely magasba nyúló bazalttömbjeiről és gazdag sziklaművészetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.39382,
+                        -29.37548
+                  ]
+            },
+            {
+                  "name": "Maloti-Drakensberg Park",
+                  "text": "A Maloti-Drakensberg Park egy kijelölt világörökségi, határokon átnyúló természetvédelmi terület, amely drámai magaslati csúcsokat és mély völgyeket foglal magába.",
+                  "category": "natural",
+                  "coords": [
+                        29.385165,
+                        -29.391688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "uKhahlamba / Drakensberg Park",
+                  "text": "Parcul uKhahlamba / Drakensberg este o rezervație montană spectaculoasă din Patrimoniul Mondial, cunoscută pentru contraforturile sale de bazalt și arta rupestră bogată.",
+                  "category": "natural",
+                  "coords": [
+                        29.39382,
+                        -29.37548
+                  ]
+            },
+            {
+                  "name": "Maloti-Drakensberg Park",
+                  "text": "Parcul Maloti-Drakensberg este o arie de conservare transfrontalieră din Patrimoniul Mondial, care cuprinde vârfuri dramatice de mare altitudine și văi adânci.",
+                  "category": "natural",
+                  "coords": [
+                        29.385165,
+                        -29.391688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "uKhahlamba / Drakensberg Park",
+                  "text": "uKhahlamba / Drakensberg Park is a spectacular World Heritage mountain reserve known for its soaring basalt buttresses and rich rock art.",
+                  "category": "natural",
+                  "coords": [
+                        29.39382,
+                        -29.37548
+                  ]
+            },
+            {
+                  "name": "Maloti-Drakensberg Park",
+                  "text": "Maloti-Drakensberg Park is a designated World Heritage transboundary conservation area encompassing dramatic high-altitude peaks and deep valleys.",
+                  "category": "natural",
+                  "coords": [
+                        29.385165,
+                        -29.391688
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "park",
     name: { de: "Maloti-Drakensberg Park", hu: "Maloti-Drakensberg Park", ro: "Parcul Maloti-Drakensberg", en: "Maloti-Drakensberg Park" },
@@ -723,7 +1038,52 @@ export const lesothoLifeV2: POI[] = [
     image: "/poi-images/lesotho-likhoele-mountain-reserve-life-v2.webp",
   },
   {
-    id: "lesotho-maboloka-hotspot-life-v2",
+    id: "lesotho-maboloka-hotspot-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "bridge site",
+                  "text": "Dieser Aussichtspunkt am Flussufer bietet einen guten Blick auf die örtliche Flussüberquerung und ihre Brückenkonstruktion.",
+                  "category": "natural",
+                  "coords": [
+                        27.852801,
+                        -29.163845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bridge site",
+                  "text": "Ez a folyóparti kilátó tiszta rálátást biztosít a helyi folyami átkelőre és annak hídszerkezetére.",
+                  "category": "natural",
+                  "coords": [
+                        27.852801,
+                        -29.163845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bridge site",
+                  "text": "Acest punct de belvedere de pe malul râului oferă o perspectivă clară asupra trecerii locale a râului și a structurii sale inginerești.",
+                  "category": "natural",
+                  "coords": [
+                        27.852801,
+                        -29.163845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bridge site",
+                  "text": "This riverside viewpoint offers a clear vantage point over the local river crossing and its engineering structure.",
+                  "category": "natural",
+                  "coords": [
+                        27.852801,
+                        -29.163845
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "wildlife",
     name: { de: "Maboloka-Biodiversitäts-Hotspot", hu: "Maboloka biodiverzitási gócpont", ro: "Punctul Fierbinte Maboloka", en: "Maboloka Biodiversity Hotspot" },
@@ -1083,7 +1443,124 @@ export const lesothoLifeV2: POI[] = [
     image: "/poi-images/lesotho-blue-mountain-biodiversity-life-v2.webp",
   },
   {
-    id: "lesotho-khubelu-headwaters-life-v2",
+    id: "lesotho-khubelu-headwaters-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Outer Mnweni Needle",
+                  "text": "Ein markanter, zerklüfteter Basaltgipfel, der sich in den schroffen, hoch gelegenen Bergen befindet.",
+                  "category": "natural",
+                  "coords": [
+                        29.037737,
+                        -28.871137
+                  ]
+            },
+            {
+                  "name": "Inner Mnweni Needle",
+                  "text": "Eine scharfe Bergspitze, die einen dramatischen strukturellen Teil des hoch gelegenen Steilhangs bildet.",
+                  "category": "natural",
+                  "coords": [
+                        29.034676,
+                        -28.878567
+                  ]
+            },
+            {
+                  "name": "Ifidi Buttress",
+                  "text": "Ein massiver Felsvorsprung, der markant aus der steilen Bergkette herausragt.",
+                  "category": "natural",
+                  "coords": [
+                        28.9455,
+                        -28.805306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Outer Mnweni Needle",
+                  "text": "Szembetűnő, csipkézett bazaltcsúcs, amely a zord, magaslati hegyvidéken található.",
+                  "category": "natural",
+                  "coords": [
+                        29.037737,
+                        -28.871137
+                  ]
+            },
+            {
+                  "name": "Inner Mnweni Needle",
+                  "text": "Éles hegycsúcs, amely a magaslati meredély drámai szerkezeti részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        29.034676,
+                        -28.878567
+                  ]
+            },
+            {
+                  "name": "Ifidi Buttress",
+                  "text": "Masszív sziklatámfal csúcs, amely feltűnően kiugrik a meredek hegyláncból.",
+                  "category": "natural",
+                  "coords": [
+                        28.9455,
+                        -28.805306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Outer Mnweni Needle",
+                  "text": "Un vârf de bazalt zimțat, izbitor, situat în munții accidentați de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        29.037737,
+                        -28.871137
+                  ]
+            },
+            {
+                  "name": "Inner Mnweni Needle",
+                  "text": "Un vârf muntos ascuțit care formează o parte structurală dramatică a abruptului de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        29.034676,
+                        -28.878567
+                  ]
+            },
+            {
+                  "name": "Ifidi Buttress",
+                  "text": "Un vârf masiv de contrafort stâncos, ieșind proeminent din lanțul muntos abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        28.9455,
+                        -28.805306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Outer Mnweni Needle",
+                  "text": "A striking, jagged basalt peak located within the rugged high-altitude highlands.",
+                  "category": "natural",
+                  "coords": [
+                        29.037737,
+                        -28.871137
+                  ]
+            },
+            {
+                  "name": "Inner Mnweni Needle",
+                  "text": "A sharp mountainous pinnacle forming a dramatic structural part of the high-altitude escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        29.034676,
+                        -28.878567
+                  ]
+            },
+            {
+                  "name": "Ifidi Buttress",
+                  "text": "A massive rock buttress peak jutting out prominently from the steep mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        28.9455,
+                        -28.805306
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "wildlife",
     name: { de: "Khubelu-Quellgebiet", hu: "Khubelu-folyó forrásvidéke", ro: "Izvoarele Râului Khubelu", en: "Khubelu Headwaters" },
@@ -1128,7 +1605,52 @@ export const lesothoLifeV2: POI[] = [
     image: "/poi-images/lesotho-khubelu-headwaters-life-v2.webp",
   },
   {
-    id: "lesotho-linakeng-wildlife-area-life-v2",
+    id: "lesotho-linakeng-wildlife-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ruins",
+                  "text": "Diese historischen Ruinen bestehen aus verwitterten Steinfundamenten, die langsam von der Natur zurückerobert werden.",
+                  "category": "historical",
+                  "coords": [
+                        28.912142,
+                        -29.35633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ruins",
+                  "text": "Ezek a történelmi romok viharvert kőalapzatokból állnak, amelyeket lassan visszahódít a természetes környezet.",
+                  "category": "historical",
+                  "coords": [
+                        28.912142,
+                        -29.35633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ruins",
+                  "text": "Aceste ruine istorice constau în fundații de piatră erodate, care sunt încet recuperate de mediul natural.",
+                  "category": "historical",
+                  "coords": [
+                        28.912142,
+                        -29.35633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ruins",
+                  "text": "These historic ruins consist of weathered stone foundations slowly being reclaimed by the natural environment.",
+                  "category": "historical",
+                  "coords": [
+                        28.912142,
+                        -29.35633
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "wildlife",
     name: { de: "Linakeng-Wildnisgebiet", hu: "Linakeng vadvilági terület", ro: "Zona Sălbatică Linakeng", en: "Linakeng Wildlife Area" },
@@ -1308,7 +1830,52 @@ export const lesothoLifeV2: POI[] = [
     image: "/poi-images/lesotho-maloti-highlands-hotspot-life-v2.webp",
   },
   {
-    id: "lesotho-senqunyane-river-valley-life-v2",
+    id: "lesotho-senqunyane-river-valley-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fika-Le-Lesehla",
+                  "text": "Diese lokale Attraktion liegt malerisch im tief eingeschnittenen Tal des Senqunyane-Flusses in Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.155054,
+                        -29.387459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fika-Le-Lesehla",
+                  "text": "Ez a helyi látványosság festői környezetben, a Senqunyane-folyó mélyen bevágott völgyében fekszik Lesothóban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.155054,
+                        -29.387459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fika-Le-Lesehla",
+                  "text": "Această atracție pitorească este situată în valea adâncă a râului Senqunyane din Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.155054,
+                        -29.387459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fika-Le-Lesehla",
+                  "text": "This local attraction is scenically located within the deep, rugged valley of the Senqunyane River in Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.155054,
+                        -29.387459
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "valley",
     name: { de: "Senqunyane-Flusstal", hu: "Senqunyane-folyó völgye", ro: "Valea Râului Senqunyane", en: "Senqunyane River Valley" },

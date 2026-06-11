@@ -93,7 +93,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-liqhobong-mine-economic-v2.webp",
   },
   {
-    id: "lesotho-mothae-mine-economic-v2",
+    id: "lesotho-mothae-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solane Hot Springs",
+                  "text": "Die Solane Hot Springs sind eine geothermische Attraktion mit natürlich beheizten Pools in der Nähe der Mothae-Mine in Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.907438,
+                        -28.961039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solane Hot Springs",
+                  "text": "A Solane Hot Springs egy geotermikus látványosság természetesen fűtött medencékkel a lesothói Mothae bánya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.907438,
+                        -28.961039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solane Hot Springs",
+                  "text": "Solane Hot Springs este o atracție geotermală cu bazine naturale încălzite în apropierea minei Mothae din Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.907438,
+                        -28.961039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solane Hot Springs",
+                  "text": "Solane Hot Springs is a geothermal attraction featuring natural heated pools near the Mothae Mine area in Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        28.907438,
+                        -28.961039
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "mine",
     name: { de: "Mothae-Mine", hu: "Mothae bánya", ro: "Mină Mothae", en: "Mothae Mine" },
@@ -183,7 +228,124 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-kolo-mine-economic-v2.webp",
   },
   {
-    id: "lesotho-muela-hydropower-economic-v2",
+    id: "lesotho-muela-hydropower-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Horeb",
+                  "text": "Dieser aufragende Berggipfel bietet anspruchsvolle Wanderwege und einen Panoramablick über das Clarens-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        28.455849,
+                        -28.507162
+                  ]
+            },
+            {
+                  "name": "Koeberg",
+                  "text": "Dieser schroffe Berggipfel im Freistaat zeichnet sich durch felsige Aufschlüsse und einen weiten Blick auf das Hochlandgelände aus.",
+                  "category": "natural",
+                  "coords": [
+                        28.5133,
+                        -28.4767
+                  ]
+            },
+            {
+                  "name": "Lesotho Highlands Water Project",
+                  "text": "Diese gewaltige technische Attraktion zeigt die Infrastruktur, die für den Wassertransfer von Lesotho nach Südafrika entwickelt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        28.397535,
+                        -28.439488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Horeb",
+                  "text": "Ez a tornyosuló hegycsúcs kihívást jelentő túraútvonalakat és panorámás kilátást nyújt a clarensi völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        28.455849,
+                        -28.507162
+                  ]
+            },
+            {
+                  "name": "Koeberg",
+                  "text": "Ez a zord szabadállami hegycsúcs sziklás kiszögellésekkel és a felvidéki terepre nyíló széles kilátással rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        28.5133,
+                        -28.4767
+                  ]
+            },
+            {
+                  "name": "Lesotho Highlands Water Project",
+                  "text": "Ez a hatalmas mérnöki látványosság a Lesothóból Dél-Afrikába történő vízszállításra tervezett infrastruktúrát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        28.397535,
+                        -28.439488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Horeb",
+                  "text": "Acest vârf muntos impunător oferă trasee de drumeție provocatoare și vedere panoramică asupra văii Clarens.",
+                  "category": "natural",
+                  "coords": [
+                        28.455849,
+                        -28.507162
+                  ]
+            },
+            {
+                  "name": "Koeberg",
+                  "text": "Acest vârf muntos accidentat din Free State prezintă aflorimente stâncoase și priveliști ample asupra terenului muntos.",
+                  "category": "natural",
+                  "coords": [
+                        28.5133,
+                        -28.4767
+                  ]
+            },
+            {
+                  "name": "Lesotho Highlands Water Project",
+                  "text": "Această atracție inginerească masivă prezintă infrastructura concepută pentru a transfera apă din Lesotho în Africa de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        28.397535,
+                        -28.439488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Horeb",
+                  "text": "This towering mountain peak provides challenging hiking trails and panoramic views over the Clarens valley.",
+                  "category": "natural",
+                  "coords": [
+                        28.455849,
+                        -28.507162
+                  ]
+            },
+            {
+                  "name": "Koeberg",
+                  "text": "This rugged Free State mountain peak features rocky outcrops and sweeping views of the highland terrain.",
+                  "category": "natural",
+                  "coords": [
+                        28.5133,
+                        -28.4767
+                  ]
+            },
+            {
+                  "name": "Lesotho Highlands Water Project",
+                  "text": "This massive engineering attraction showcases the infrastructure designed to transfer water from Lesotho to South Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        28.397535,
+                        -28.439488
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "factory",
     name: { de: "Wasserkraftwerk Muela", hu: "Muela vízerőmű", ro: "Hidrocentrala Muela", en: "Muela Hydropower" },
@@ -318,7 +480,88 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-thetsane-area-economic-v2.webp",
   },
   {
-    id: "lesotho-sani-pass-border-economic-v2",
+    id: "lesotho-sani-pass-border-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sicocosebhaca",
+                  "text": "Dieser schroffe Berggipfel erhebt sich dramatisch in der Nähe des Grenzgebiets am Sani-Pass und bietet Wanderern anspruchsvolles Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        29.389203,
+                        -29.597735
+                  ]
+            },
+            {
+                  "name": "Mizno’s view",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen Panoramablick über die Berglandschaften und kurvenreichen Straßen der Sani-Pass-Region.",
+                  "category": "natural",
+                  "coords": [
+                        29.306299,
+                        -29.596539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sicocosebhaca",
+                  "text": "Ez a zord hegycsúcs drámaian emelkedik ki a Sani-hágó határvidéke közelében, kihívást jelentő terepet kínálva a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        29.389203,
+                        -29.597735
+                  ]
+            },
+            {
+                  "name": "Mizno’s view",
+                  "text": "Ez a festői kilátópont panorámás kilátást nyújt a Sani-hágó régiójának hegyvidéki tájaira és kanyargós útjaira.",
+                  "category": "natural",
+                  "coords": [
+                        29.306299,
+                        -29.596539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sicocosebhaca",
+                  "text": "Acest vârf de munte accidentat se înalță dramatic în apropierea zonei de graniță a Pasului Sani, oferind un teren provocator pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        29.389203,
+                        -29.597735
+                  ]
+            },
+            {
+                  "name": "Mizno’s view",
+                  "text": "Acest punct de observație pitoresc oferă vederi panoramice asupra peisajelor muntoase și a drumurilor șerpuite din regiunea Pasului Sani.",
+                  "category": "natural",
+                  "coords": [
+                        29.306299,
+                        -29.596539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sicocosebhaca",
+                  "text": "This rugged mountain peak rises dramatically near the Sani Pass border area, offering challenging terrain for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        29.389203,
+                        -29.597735
+                  ]
+            },
+            {
+                  "name": "Mizno’s view",
+                  "text": "This scenic observation point provides panoramic vistas over the mountainous landscapes and winding roads of the Sani Pass region.",
+                  "category": "natural",
+                  "coords": [
+                        29.306299,
+                        -29.596539
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Sani-Pass-Grenzstation", hu: "Sani-hágó határátkelő", ro: "Punct de frontieră Sani Pass", en: "Sani Pass Border" },
@@ -363,7 +606,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-sani-pass-border-economic-v2.webp",
   },
   {
-    id: "lesotho-caledonspoort-gate-economic-v2",
+    id: "lesotho-caledonspoort-gate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hoenderkop",
+                  "text": "Dieser felsige Berggipfel bietet Wanderern in der Nähe der Grenze zu Lesotho ein raues Terrain.",
+                  "category": "natural",
+                  "coords": [
+                        28.2025,
+                        -28.66
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoenderkop",
+                  "text": "Ez a sziklás hegycsúcs zord terepet kínál a túrázóknak Lesotho határának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.2025,
+                        -28.66
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoenderkop",
+                  "text": "Acest vârf montan stâncos oferă un teren accidentat pentru drumeții din apropierea graniței cu Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.2025,
+                        -28.66
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoenderkop",
+                  "text": "This rocky mountain peak offers rugged terrain for hikers near the Lesotho border.",
+                  "category": "natural",
+                  "coords": [
+                        28.2025,
+                        -28.66
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Caledonspoort-Grenzübergang", hu: "Caledonspoort határkapu", ro: "Poarta Caledonspoort", en: "Caledonspoort Gate" },
@@ -543,7 +831,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-sepapus-gate-economic-v2.webp",
   },
   {
-    id: "lesotho-ha-nyenye-estate-economic-v2",
+    id: "lesotho-ha-nyenye-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ficksburg Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet im Freistaat schützt die lokale Gebirgsflora und -fauna nahe der Grenze.",
+                  "category": "natural",
+                  "coords": [
+                        27.822849,
+                        -28.889336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ficksburg Nature Reserve",
+                  "text": "Ez a Free State tartományban található természetvédelmi terület a határközeli, hegyvidéki növény- és állatvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.822849,
+                        -28.889336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ficksburg Nature Reserve",
+                  "text": "Această rezervație naturală din Statul Liber protejează flora și fauna montană locală din apropierea graniței.",
+                  "category": "natural",
+                  "coords": [
+                        27.822849,
+                        -28.889336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ficksburg Nature Reserve",
+                  "text": "This nature reserve in the Free State protects the local mountainous flora and fauna near the border.",
+                  "category": "natural",
+                  "coords": [
+                        27.822849,
+                        -28.889336
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "industry",
     name: { de: "Ha-Nyenye-Industriegebiet", hu: "Ha-Nyenye ipartelep", ro: "Zona industrială Ha Nyenye", en: "Ha Nyenye Estate" },
@@ -588,7 +921,88 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-ha-nyenye-estate-economic-v2.webp",
   },
   {
-    id: "lesotho-polihali-reservoir-economic-v2",
+    id: "lesotho-polihali-reservoir-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Senqu viewpoint",
+                  "text": "Der Aussichtspunkt Senqu bietet einen Panoramablick über die zerklüftete Landschaft des Polihali-Stausees in Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.83164,
+                        -29.302329
+                  ]
+            },
+            {
+                  "name": "Tloha-re-Buhe",
+                  "text": "Tloha-re-Buhe ist ein malerischer Aussichtspunkt mit weitem Blick auf die Bergwelt rund um den Polihali-Stausee.",
+                  "category": "natural",
+                  "coords": [
+                        28.851922,
+                        -29.250792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Senqu viewpoint",
+                  "text": "A Senqu kilátó panorámás kilátást nyújt a lesothói Polihali-víztározó zord vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        28.83164,
+                        -29.302329
+                  ]
+            },
+            {
+                  "name": "Tloha-re-Buhe",
+                  "text": "A Tloha-re-Buhe egy festői kilátó, amely lenyűgöző kilátást nyújt a Polihali-víztározót körülvevő hegyvidéki terepre.",
+                  "category": "natural",
+                  "coords": [
+                        28.851922,
+                        -29.250792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Senqu viewpoint",
+                  "text": "Punctul de belvedere Senqu oferă priveliști panoramice asupra peisajului accidentat din zona lacului de acumulare Polihali din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.83164,
+                        -29.302329
+                  ]
+            },
+            {
+                  "name": "Tloha-re-Buhe",
+                  "text": "Tloha-re-Buhe este un punct de belvedere pitoresc, care oferă o panoramă vastă a terenului muntos ce înconjoară lacul de acumulare Polihali.",
+                  "category": "natural",
+                  "coords": [
+                        28.851922,
+                        -29.250792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Senqu viewpoint",
+                  "text": "The Senqu viewpoint offers panoramic vistas over the rugged landscape of the Lesotho Polihali Reservoir area.",
+                  "category": "natural",
+                  "coords": [
+                        28.83164,
+                        -29.302329
+                  ]
+            },
+            {
+                  "name": "Tloha-re-Buhe",
+                  "text": "Tloha-re-Buhe is a scenic viewpoint providing sweeping views of the mountainous terrain surrounding the Polihali Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        28.851922,
+                        -29.250792
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "lake",
     name: { de: "Polihali-Stausee", hu: "Polihali víztározó", ro: "Rezervorul Polihali", en: "Polihali Reservoir" },
@@ -633,7 +1047,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-polihali-reservoir-economic-v2.webp",
   },
   {
-    id: "lesotho-loti-brick-economic-v2",
+    id: "lesotho-loti-brick-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Likotsi LECSA",
+                  "text": "Diese religiöse Stätte in Likotsi ist eine Gemeinde der Lesotho Evangelical Church in Southern Africa.",
+                  "category": "religious",
+                  "coords": [
+                        27.463212,
+                        -29.390993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Likotsi LECSA",
+                  "text": "Ez a likotsi vallási hely a Dél-afrikai Lesothói Evangélikus Egyház egyik plébániája.",
+                  "category": "religious",
+                  "coords": [
+                        27.463212,
+                        -29.390993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Likotsi LECSA",
+                  "text": "Acest sit religios din Likotsi este o parohie a Bisericii Evanghelice Lesotho din Africa de Sud.",
+                  "category": "religious",
+                  "coords": [
+                        27.463212,
+                        -29.390993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Likotsi LECSA",
+                  "text": "This religious site in Likotsi is a parish of the Lesotho Evangelical Church in Southern Africa.",
+                  "category": "religious",
+                  "coords": [
+                        27.463212,
+                        -29.390993
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "factory",
     name: { de: "Loti-Ziegelwerk", hu: "Loti téglagyár", ro: "Fabrica de cărămizi Loti", en: "Loti Brick" },
@@ -678,7 +1137,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-loti-brick-economic-v2.webp",
   },
   {
-    id: "lesotho-ngoajane-bridge-economic-v2",
+    id: "lesotho-ngoajane-bridge-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snymanshoekberg",
+                  "text": "Dieser markante Berggipfel dominiert die umliegende Landschaft der Grenzregion zwischen dem Freistaat und Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.317594,
+                        -28.522318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snymanshoekberg",
+                  "text": "Ez a kiemelkedő hegycsúcs uralja a Szabadállam és Lesotho határvidékének környező táját.",
+                  "category": "natural",
+                  "coords": [
+                        28.317594,
+                        -28.522318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snymanshoekberg",
+                  "text": "Acest vârf muntos proeminent domină peisajul înconjurător de la granița dintre Free State și Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.317594,
+                        -28.522318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snymanshoekberg",
+                  "text": "This prominent mountain peak dominates the surrounding Free State and Lesotho borderlands landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.317594,
+                        -28.522318
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "bridge",
     name: { de: "Ngoajane-Brücke", hu: "Ngoajane-híd", ro: "Podul Ngoajane", en: "Ngoajane Bridge" },
@@ -858,7 +1362,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-national-abattoir-economic-v2.webp",
   },
   {
-    id: "lesotho-ha-rambanta-solar-economic-v2",
+    id: "lesotho-ha-rambanta-solar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boleka Peak",
+                  "text": "Dieser markante Berggipfel erhebt sich in der gebirgigen Landschaft von Lesotho nahe Ha Rambanta.",
+                  "category": "natural",
+                  "coords": [
+                        27.369826,
+                        -29.688896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boleka Peak",
+                  "text": "Ez a jellegzetes hegycsúcs Lesotho hegyvidéki táján, Ha Rambanta közelében magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        27.369826,
+                        -29.688896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boleka Peak",
+                  "text": "Acest vârf montan proeminent se înalță în peisajul muntos din Lesotho, în apropiere de Ha Rambanta.",
+                  "category": "natural",
+                  "coords": [
+                        27.369826,
+                        -29.688896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boleka Peak",
+                  "text": "This prominent mountain peak rises within the high-altitude landscape of Lesotho near Ha Rambanta.",
+                  "category": "natural",
+                  "coords": [
+                        27.369826,
+                        -29.688896
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "factory",
     name: { de: "Ha-Rambanta Solarwerk", hu: "Ha-Rambanta naperőmű", ro: "Centrala solară Ha Rambanta", en: "Ha Rambanta Solar" },
@@ -903,7 +1452,160 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-ha-rambanta-solar-economic-v2.webp",
   },
   {
-    id: "lesotho-monontsa-pass-economic-v2",
+    id: "lesotho-monontsa-pass-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Generaalskop",
+                  "text": "Generaalskop ist ein imposanter Berggipfel, der sich steil im Gelände in der Nähe des Monontsa-Passes in Lesotho erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        28.629411,
+                        -28.551473
+                  ]
+            },
+            {
+                  "name": "Thabaputswa",
+                  "text": "Thabaputswa ist ein prominenter, hochgelegener Berggipfel, der die zerklüftete Landschaft in der Nähe des Monontsa-Passes dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        28.7083,
+                        -28.6067
+                  ]
+            },
+            {
+                  "name": "Protea Corner",
+                  "text": "Protea Corner ist ein malerischer Aussichtspunkt, der auf die alpine Flora und die dramatischen Abhänge im Bereich des Monontsa-Passes blickt.",
+                  "category": "natural",
+                  "coords": [
+                        28.666818,
+                        -28.532656
+                  ]
+            },
+            {
+                  "name": "Ribbokkop",
+                  "text": "Ribbokkop ist ein aufragender Berggipfel, der die dramatische Skyline rund um den Monontsa-Pass in Lesotho prägt.",
+                  "category": "natural",
+                  "coords": [
+                        28.603201,
+                        -28.565564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Generaalskop",
+                  "text": "A Generaalskop egy impozáns hegycsúcs, amely meredeken emelkedik ki a lesothói Monontsa-hágó melletti terepen.",
+                  "category": "natural",
+                  "coords": [
+                        28.629411,
+                        -28.551473
+                  ]
+            },
+            {
+                  "name": "Thabaputswa",
+                  "text": "A Thabaputswa egy kiemelkedő, magasan fekvő hegycsúcs, amely uralja a Monontsa-hágó közelében lévő zord tájat.",
+                  "category": "natural",
+                  "coords": [
+                        28.7083,
+                        -28.6067
+                  ]
+            },
+            {
+                  "name": "Protea Corner",
+                  "text": "A Protea Corner egy festői kilátó, amely a Monontsa-hágó alpesi növényzetére és drámai lejtőire néz.",
+                  "category": "natural",
+                  "coords": [
+                        28.666818,
+                        -28.532656
+                  ]
+            },
+            {
+                  "name": "Ribbokkop",
+                  "text": "A Ribbokkop egy magasba tornyosuló hegycsúcs, amely a lesothói Monontsa-hágó körüli drámai sziluettet formálja.",
+                  "category": "natural",
+                  "coords": [
+                        28.603201,
+                        -28.565564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Generaalskop",
+                  "text": "Generaalskop este un vârf montan impunător, care se înalță abrupt în relieful din apropierea Pasului Monontsa din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.629411,
+                        -28.551473
+                  ]
+            },
+            {
+                  "name": "Thabaputswa",
+                  "text": "Thabaputswa este un vârf muntos proeminent la mare altitudine, care domină peisajul accidentat din apropierea Pasului Monontsa.",
+                  "category": "natural",
+                  "coords": [
+                        28.7083,
+                        -28.6067
+                  ]
+            },
+            {
+                  "name": "Protea Corner",
+                  "text": "Protea Corner este un punct de belvedere pitoresc, care oferă o panoramă asupra florei alpine și a pantelor dramatice din zona Pasului Monontsa.",
+                  "category": "natural",
+                  "coords": [
+                        28.666818,
+                        -28.532656
+                  ]
+            },
+            {
+                  "name": "Ribbokkop",
+                  "text": "Ribbokkop este un vârf muntos înalt, care conturează orizontul dramatic din jurul Pasului Monontsa din Lesotho.",
+                  "category": "natural",
+                  "coords": [
+                        28.603201,
+                        -28.565564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Generaalskop",
+                  "text": "Generaalskop is an imposing mountain peak rising sharply in the terrain near Lesotho's Monontsa Pass.",
+                  "category": "natural",
+                  "coords": [
+                        28.629411,
+                        -28.551473
+                  ]
+            },
+            {
+                  "name": "Thabaputswa",
+                  "text": "Thabaputswa is a prominent high-altitude peak dominating the rugged landscape near the Monontsa Pass.",
+                  "category": "natural",
+                  "coords": [
+                        28.7083,
+                        -28.6067
+                  ]
+            },
+            {
+                  "name": "Protea Corner",
+                  "text": "Protea Corner is a picturesque viewpoint overlooking the alpine flora and dramatic drops of the Monontsa Pass area.",
+                  "category": "natural",
+                  "coords": [
+                        28.666818,
+                        -28.532656
+                  ]
+            },
+            {
+                  "name": "Ribbokkop",
+                  "text": "Ribbokkop is a towering mountain peak shaping the dramatic skyline around the Lesotho Monontsa Pass.",
+                  "category": "natural",
+                  "coords": [
+                        28.603201,
+                        -28.565564
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Monontsa-Pass", hu: "Monontsa-hágó", ro: "Pasul Monontsa", en: "Monontsa Pass" },
@@ -948,7 +1650,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-monontsa-pass-economic-v2.webp",
   },
   {
-    id: "lesotho-ongeluksnek-pass-economic-v2",
+    id: "lesotho-ongeluksnek-pass-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malekgalonyane Nature Reserve",
+                  "text": "Das am 6. Juli 1990 gegründete Naturschutzgebiet Malekgalonyane schützt die lokale Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        28.290854,
+                        -30.307278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malekgalonyane Nature Reserve",
+                  "text": "Az 1990. július 6-án alapított Malekgalonyane Természetvédelmi Terület a helyi növény- és állatvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        28.290854,
+                        -30.307278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malekgalonyane Nature Reserve",
+                  "text": "Înființată pe 6 iulie 1990, Rezervația Naturală Malekgalonyane protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        28.290854,
+                        -30.307278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malekgalonyane Nature Reserve",
+                  "text": "Established on July 6, 1990, the Malekgalonyane Nature Reserve protects the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        28.290854,
+                        -30.307278
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Ongeluksnek-Pass", hu: "Ongeluksnek-hágó", ro: "Pasul Ongeluksnek", en: "Ongeluksnek Pass" },
@@ -993,7 +1740,196 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-ongeluksnek-pass-economic-v2.webp",
   },
   {
-    id: "lesotho-bushmans-nek-economic-v2",
+    id: "lesotho-bushmans-nek-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "Dieser nach seinem historischen Kontext benannte, erhöhte Aussichtspunkt bietet weite Ausblicke über das Tal am Bushman's Nek.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "Diese natürlich erodierten Steinformationen bilden markante geologische Strukturen im zerklüfteten Gelände von Bushman's Nek.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Rock pools",
+                  "text": "Diese klaren, natürlichen Wasserbecken schmiegen sich an die Felsvorsprünge in der Gegend von Bushman's Nek und bieten eine erfrischende Naturattraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "Dieser traditionelle Weideplatz spiegelt den lokalen landwirtschaftlichen Lebensstil und die Viehzuchtpraktiken im Hochland von Lesotho wider.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Pig & Pony",
+                  "text": "Dieser kleine, familienfreundliche Tierpark in der Nähe von Bushman's Nek ermöglicht es Besuchern, verschiedene lokale Nutztiere zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        29.230729,
+                        -29.852639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "A történelmi kontextusáról elnevezett, magasan fekvő kilátópontról széles kilátás nyílik a Bushman's Nek völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "Ezek a természetesen erodálódott kőalakzatok feltűnő geológiai struktúrákat alkotnak a Bushman's Nek zord terepén.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Rock pools",
+                  "text": "Ezek a tiszta, természetes medencék a Bushman's Nek környékének sziklás kiemelkedései között bújnak meg, frissítő természeti látványosságot kínálva.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "Ez a hagyományos pásztorszállás a lesothói fennsík helyi mezőgazdasági életmódját és állattenyésztési gyakorlatát tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Pig & Pony",
+                  "text": "Ez a Bushman's Nek közelében található kis, családbarát állatpark lehetővé teszi a látogatók számára a helyi haszonállatok megfigyelését.",
+                  "category": "recreational",
+                  "coords": [
+                        29.230729,
+                        -29.852639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "Numit pentru contextul său istoric, acest punct de observație ridicat oferă vederi ample peste valea Bushman's Nek.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "Aceste formațiuni de piatră erodate natural creează structuri geologice izbitoare în terenul accidentat din Bushman's Nek.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Rock pools",
+                  "text": "Aceste bazine naturale cu apă limpede sunt cuibărite printre aflorimentele stâncoase din zona Bushman's Nek, oferind o atracție naturală răcoritoare.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "Acest sit pastoral tradițional reflectă stilul de viață agricol local și practicile de creștere a animalelor din zonele muntoase din Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Pig & Pony",
+                  "text": "Acest mic parc de animale, potrivit pentru familii, situat lângă Bushman's Nek, permite vizitatorilor să observe diverse animale de fermă locale.",
+                  "category": "recreational",
+                  "coords": [
+                        29.230729,
+                        -29.852639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "Named for its historical context, this elevated vantage point provides sweeping views across the Bushman's Nek valley.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "These naturally eroded stone formations create striking geological structures in the rugged terrain of Bushman's Nek.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Rock pools",
+                  "text": "These clear, natural water basins are nestled among the rocky outcrops of the Bushman's Nek area, offering a refreshing natural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "This traditional pastoral site reflects the local agricultural lifestyle and livestock rearing practices in the highlands of Lesotho.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Pig & Pony",
+                  "text": "This small, family-friendly animal park near Bushman's Nek allows visitors to observe and interact with a variety of local farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        29.230729,
+                        -29.852639
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "landmark",
     name: { de: "Bushman's Nek", hu: "Bushman's Nek", ro: "Bushman's Nek", en: "Bushman's Nek" },
@@ -1218,7 +2154,52 @@ export const lesothoEconomicV2: POI[] = [
     image: "/poi-images/lesotho-lemphane-mine-economic-v2.webp",
   },
   {
-    id: "lesotho-ha-tsilo-farm-economic-v2",
+    id: "lesotho-ha-tsilo-farm-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wynberg",
+                  "text": "Dieser landschaftsprägende Berg in Lesotho liegt in der ländlichen Umgebung nahe der Ha Tsilo Farm.",
+                  "category": "natural",
+                  "coords": [
+                        27.369572,
+                        -29.422451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wynberg",
+                  "text": "Ez a Lesotho tájképét meghatározó hegy a Ha Tsilo Farm környékének vidéki környezetében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        27.369572,
+                        -29.422451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wynberg",
+                  "text": "Acest munte pitoresc din Lesotho este situat în peisajul rural din vecinătatea fermei Ha Tsilo.",
+                  "category": "natural",
+                  "coords": [
+                        27.369572,
+                        -29.422451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wynberg",
+                  "text": "This scenic mountain peak in Lesotho is located in the rural surroundings near the Ha Tsilo Farm.",
+                  "category": "natural",
+                  "coords": [
+                        27.369572,
+                        -29.422451
+                  ]
+            }
+      ]
+},
     parent: "LS",
     type: "industry",
     name: { de: "Ha-Tsilo-Agrarzentrum", hu: "Ha-Tsilo mezőgazdasági központ", ro: "Centrul agricol Ha Tsilo", en: "Ha Tsilo Farm" },

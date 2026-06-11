@@ -4264,7 +4264,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Tromsø domkirke",
-                  "text": "Die Tromsøer Domkirche ist die einzige aus Holz gebaute Kathedrale Norwegens.",
+                  "text": "Die 1861 von Christian Heinrich Grosch erbaute Tromsø domkirke in Gamle Tromsø ist Norwegens einzige Holzkathedrale.",
                   "category": "landmark",
                   "coords": [
                         18.956775,
@@ -4482,7 +4482,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Tromsø domkirke",
-                  "text": "A Tromsøi székesegyház Norvégia egyetlen fából készült katedrálisa.",
+                  "text": "A Gamle Tromsø-i Tromsø-székesegyház 1861-ben épült Christian Heinrich Grosch tervei alapján, Norvégia egyetlen fakatedrálisa.",
                   "category": "landmark",
                   "coords": [
                         18.956775,
@@ -4700,7 +4700,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Tromsø domkirke",
-                  "text": "Catedrala din Tromsø este singura catedrală din Norvegia construită din lemn.",
+                  "text": "Catedrala Tromsø din Gamle Tromsø, construită în 1861 de Christian Heinrich Grosch, este singura catedrală de lemn din Norvegia.",
                   "category": "landmark",
                   "coords": [
                         18.956775,
@@ -4918,7 +4918,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Tromsø domkirke",
-                  "text": "Tromsø Cathedral is the only wooden cathedral in Norway.",
+                  "text": "Tromsø Cathedral in Gamle Tromsø, built in 1861 by Christian Heinrich Grosch, is Norway's only wooden cathedral.",
                   "category": "landmark",
                   "coords": [
                         18.956775,
@@ -6604,7 +6604,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Grim kirke",
-                  "text": "Eine lutherische Kirche im Stadtteil Grim in Kristiansand.",
+                  "text": "Die 1969 von Alv Erikstad erbaute Grim kirke in Kristiansand Altstadt ist eine moderne Betonkirche.",
                   "category": "religious",
                   "coords": [
                         7.97241,
@@ -6613,7 +6613,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Oddernes kirke",
-                  "text": "Eine historische mittelalterliche Steinkirche in Kristiansand.",
+                  "text": "Die Oddernes kirke in Kristiansand, erbaut um 1100, ist eine der ältesten Steinkirchen Norwegens.",
                   "category": "religious",
                   "coords": [
                         8.013573,
@@ -6622,7 +6622,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Lund kirke",
-                  "text": "Eine Kirche im Stadtteil Lund in Kristiansand.",
+                  "text": "Die 1987 erbaute Lund-Kirche in der Altstadt von Kristiansand, Architekten J. Landsverk und Nordbø.",
                   "category": "religious",
                   "coords": [
                         8.012024,
@@ -6903,7 +6903,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Grim kirke",
-                  "text": "Evangélikus templom Kristiansand Grim negyedében.",
+                  "text": "A Kristiansand óvárosi Grim-templom 1969-ben épült Alv Erikstad tervei alapján, modern betontemplom.",
                   "category": "religious",
                   "coords": [
                         7.97241,
@@ -6912,7 +6912,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Oddernes kirke",
-                  "text": "Történelmi középkori kőtemplom Kristiansandban.",
+                  "text": "A Kristiansand-i Oddernes templom 1100 körül épült, Norvégia egyik legrégebbi kőtemploma.",
                   "category": "religious",
                   "coords": [
                         8.013573,
@@ -6921,7 +6921,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Lund kirke",
-                  "text": "Templom Kristiansand Lund negyedében.",
+                  "text": "A kristiansandi óvárosi Lund templom, 1987-ben épült, J. Landsverk és Nordbø tervezte.",
                   "category": "religious",
                   "coords": [
                         8.012024,
@@ -7202,7 +7202,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Grim kirke",
-                  "text": "O biserică luterană din cartierul Grim, Kristiansand.",
+                  "text": "Biserica Grim din centrul vechi al Kristiansandului, construită în 1969 de Alv Erikstad, este o biserică modernă din beton.",
                   "category": "religious",
                   "coords": [
                         7.97241,
@@ -7211,7 +7211,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Oddernes kirke",
-                  "text": "O biserică medievală de piatră istorică în Kristiansand.",
+                  "text": "Biserica Oddernes kirke din Kristiansand, construită în jurul anului 1100, este una dintre cele mai vechi biserici de piatră din Norvegia.",
                   "category": "religious",
                   "coords": [
                         8.013573,
@@ -7220,7 +7220,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Lund kirke",
-                  "text": "O biserică în cartierul Lund din Kristiansand.",
+                  "text": "Biserica Lund din Cartierul Vechi al Kristiansandului, construită în 1987, proiectată de J. Landsverk și Nordbø.",
                   "category": "religious",
                   "coords": [
                         8.012024,
@@ -7501,7 +7501,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Grim kirke",
-                  "text": "A Lutheran church located in the Grim district of Kristiansand.",
+                  "text": "Grim Church in Kristiansand Old Town, built in 1969 by Alv Erikstad, is a modern concrete church.",
                   "category": "religious",
                   "coords": [
                         7.97241,
@@ -7510,7 +7510,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Oddernes kirke",
-                  "text": "A historic medieval stone church in Kristiansand.",
+                  "text": "Oddernes Church in Kristiansand, built around 1100, is one of Norway's oldest stone churches.",
                   "category": "religious",
                   "coords": [
                         8.013573,
@@ -7519,7 +7519,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Lund kirke",
-                  "text": "A church located in the Lund district of Kristiansand.",
+                  "text": "Lund Church in Kristiansand Old Town, built in 1987, designed by J. Landsverk and Nordbø.",
                   "category": "religious",
                   "coords": [
                         8.012024,

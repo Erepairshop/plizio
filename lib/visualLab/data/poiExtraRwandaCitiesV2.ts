@@ -32,7 +32,88 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       en: ["Established in 1907 by German explorer Richard Kandt as a residency.", "The city's altitude averages 1,567 meters (5,141 feet) above sea level.", "Kigali was named the capital upon Rwanda's independence on July 1, 1962.", "The Kigali Genocide Memorial was inaugurated in 2004 on the 10th anniversary.", "The city covers an administrative area of approximately 730 square kilometers.", "Kigali is divided into three administrative districts: Gasabo, Kicukiro, and Nyarugenge.", "The Kigali Convention Centre is the most expensive building in the city, opened in 2016.", "Rwanda's ban on non-biodegradable plastics in 2008 started in the capital."],
     }, image: "/poi-images/rwanda-kigali-cities-v2.webp"},
   {
-    id: "rwanda-musanze-cities-v2",
+    id: "rwanda-musanze-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nr. 12 - Diane Fossey Room",
+                  "text": "Ein spezieller Ausstellungsraum in Musanze, der der Bewahrung des Vermächtnisses und der Primatologieforschung von Dian Fossey gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.632875,
+                        -1.499822
+                  ]
+            },
+            {
+                  "name": "Karisoke Exhibition",
+                  "text": "Eine spezialisierte Museumsausstellung in Musanze, die die Geschichte und die Erkenntnisse des Karisoke Research Center über Berggorillas dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        29.636577,
+                        -1.504541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nr. 12 - Diane Fossey Room",
+                  "text": "Különleges látványosság Musanzéban, amelyet Dian Fossey kutató hagyatékának és primatológiai munkásságának megőrzésére hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        29.632875,
+                        -1.499822
+                  ]
+            },
+            {
+                  "name": "Karisoke Exhibition",
+                  "text": "Specializált múzeumi kiállítás Musanzéban, amely bemutatja a Karisoke Kutatóközpont hegyi gorillákkal kapcsolatos történetét és megállapításait.",
+                  "category": "museum",
+                  "coords": [
+                        29.636577,
+                        -1.504541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nr. 12 - Diane Fossey Room",
+                  "text": "O cameră de atracție specifică din Musanze dedicată păstrării moștenirii și activității de primatologie a cercetătoarei Dian Fossey.",
+                  "category": "landmark",
+                  "coords": [
+                        29.632875,
+                        -1.499822
+                  ]
+            },
+            {
+                  "name": "Karisoke Exhibition",
+                  "text": "O expoziție muzeală de specialitate în Musanze, care detaliază istoria și descoperirile Centrului de Cercetare Karisoke cu privire la gorilele de munte.",
+                  "category": "museum",
+                  "coords": [
+                        29.636577,
+                        -1.504541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nr. 12 - Diane Fossey Room",
+                  "text": "A specific attraction room in Musanze dedicated to preserving the legacy and primatology work of researcher Dian Fossey.",
+                  "category": "landmark",
+                  "coords": [
+                        29.632875,
+                        -1.499822
+                  ]
+            },
+            {
+                  "name": "Karisoke Exhibition",
+                  "text": "A specialized museum exhibit in Musanze detailing the history and findings of the Karisoke Research Center regarding mountain gorillas.",
+                  "category": "museum",
+                  "coords": [
+                        29.636577,
+                        -1.504541
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-03",
     coords: [29.6349, -1.4998],
@@ -481,7 +562,52 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   },
   {
-    id: "rwanda-muhanga-cities-v2",
+    id: "rwanda-muhanga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "Diese markante katholische Basilika in Muhanga dient als bedeutendes regionales religiöses Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        29.751876,
+                        -2.100255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "Ez a kiemelkedő muhangai katolikus bazilika jelentős regionális vallási központként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        29.751876,
+                        -2.100255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "Această importantă basilică catolică din Muhanga servește drept un centru religios regional major.",
+                  "category": "religious",
+                  "coords": [
+                        29.751876,
+                        -2.100255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "This prominent Catholic basilica in Muhanga serves as a major regional religious center.",
+                  "category": "religious",
+                  "coords": [
+                        29.751876,
+                        -2.100255
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-02",
     coords: [29.7565, -2.0805],
@@ -589,7 +715,88 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   },
   {
-    id: "rwanda-karongi-cities-v2",
+    id: "rwanda-karongi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunrise Spot",
+                  "text": "Ein Aussichtspunkt bei Karongi, der besonders am Morgen weite Blicke über die ruandische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.348596,
+                        -2.050727
+                  ]
+            },
+            {
+                  "name": "Museum of Environment",
+                  "text": "Ein lehrreiches Museum in Karongi, das sich der natürlichen Umwelt und dem ökologischen Naturschutz in Ruanda widmet.",
+                  "category": "museum",
+                  "coords": [
+                        29.347769,
+                        -2.060502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunrise Spot",
+                  "text": "Karongi közelében található kilátópont, amely lenyűgöző panorámát nyújt a kora reggeli napfelkeltében.",
+                  "category": "natural",
+                  "coords": [
+                        29.348596,
+                        -2.050727
+                  ]
+            },
+            {
+                  "name": "Museum of Environment",
+                  "text": "Karongiban található oktatási múzeum, amely Ruanda természeti környezetére és az ökológiai megőrzési erőfeszítésekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        29.347769,
+                        -2.060502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunrise Spot",
+                  "text": "Un punct de belvedere pitoresc lângă Karongi, oferind priveliști ample dimineața peste peisajul ruandez.",
+                  "category": "natural",
+                  "coords": [
+                        29.348596,
+                        -2.050727
+                  ]
+            },
+            {
+                  "name": "Museum of Environment",
+                  "text": "Un muzeu educațional din Karongi axat pe mediul natural al Ruandei și pe eforturile de conservare ecologică.",
+                  "category": "museum",
+                  "coords": [
+                        29.347769,
+                        -2.060502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunrise Spot",
+                  "text": "A scenic vantage point near Karongi specifically offering sweeping morning views over the surrounding Rwandan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.348596,
+                        -2.050727
+                  ]
+            },
+            {
+                  "name": "Museum of Environment",
+                  "text": "An educational museum in Karongi focused on Rwanda's natural environment and ecological conservation efforts.",
+                  "category": "museum",
+                  "coords": [
+                        29.347769,
+                        -2.060502
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-04",
     coords: [29.3499, -2.0601],
@@ -967,7 +1174,52 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   },
   {
-    id: "rwanda-kayonza-cities-v2",
+    id: "rwanda-kayonza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cow",
+                  "text": "Ein Monument in Kayonza, das der Kuh gewidmet ist, einem wichtigen kulturellen und wirtschaftlichen Symbol in Ruanda.",
+                  "category": "historical",
+                  "coords": [
+                        30.507301,
+                        -1.902111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cow",
+                  "text": "A tehenet ábrázoló emlékmű Kayonzában, amely Ruanda fontos kulturális és gazdasági szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        30.507301,
+                        -1.902111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cow",
+                  "text": "Un monument în Kayonza dedicat vacii, reprezentând un important simbol cultural și economic în Ruanda.",
+                  "category": "historical",
+                  "coords": [
+                        30.507301,
+                        -1.902111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cow",
+                  "text": "A monument in Kayonza dedicated to the cow, representing an important cultural and economic symbol in Rwanda.",
+                  "category": "historical",
+                  "coords": [
+                        30.507301,
+                        -1.902111
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-05",
     coords: [30.5140, -1.9056],
@@ -1876,7 +2128,52 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "rwanda-kora-cities-v2",
+    id: "rwanda-kora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ross Carr Museum And Gardens",
+                  "text": "Umgeben von akribisch gepflegten Blumengärten bewahrt dieses historische Museum in Kora das humanitäre Erbe und den ehemaligen Wohnsitz der amerikanischen Auswanderin Rosamond Carr.",
+                  "category": "museum",
+                  "coords": [
+                        29.386411,
+                        -1.594345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ross Carr Museum And Gardens",
+                  "text": "A gondosan ápolt virágoskertekkel körülvett korai történelmi múzeum Rosamond Carr amerikai emigráns humanitárius örökségét és egykori otthonát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        29.386411,
+                        -1.594345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ross Carr Museum And Gardens",
+                  "text": "Înconjurat de grădini de flori meticulos întreținute, acest muzeu istoric din Kora păstrează moștenirea umanitară și fosta casă a expatriatei americane Rosamond Carr.",
+                  "category": "museum",
+                  "coords": [
+                        29.386411,
+                        -1.594345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ross Carr Museum And Gardens",
+                  "text": "Surrounded by meticulously vibrant flower gardens in Kora, this historical museum preserves the humanitarian legacy and former colonial-style homestead of American expatriate Rosamond Carr.",
+                  "category": "museum",
+                  "coords": [
+                        29.386411,
+                        -1.594345
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-04",
     coords: [29.3908, -1.6053],
@@ -2758,7 +3055,52 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "rwanda-rukara-cities-v2",
+    id: "rwanda-rukara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rukara cementary",
+                  "text": "Dieses Denkmal ist ein historischer Friedhof in der ruandischen Stadt Rukara.",
+                  "category": "historical",
+                  "coords": [
+                        30.507009,
+                        -1.796242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rukara cementary",
+                  "text": "Ez az emlékmű egy történelmi temető a ruandai Rukara városában.",
+                  "category": "historical",
+                  "coords": [
+                        30.507009,
+                        -1.796242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rukara cementary",
+                  "text": "Acest monument este un cimitir istoric situat în orașul rwandez Rukara.",
+                  "category": "historical",
+                  "coords": [
+                        30.507009,
+                        -1.796242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rukara cementary",
+                  "text": "This monument is a historic cemetery located in the Rwandan town of Rukara.",
+                  "category": "historical",
+                  "coords": [
+                        30.507009,
+                        -1.796242
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-05",
     coords: [30.4908, -1.7878],

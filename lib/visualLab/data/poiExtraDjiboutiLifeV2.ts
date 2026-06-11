@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraDjiboutiLifeV2: POI[] = [
   {
-    id: "wildtierreservat-decan-life-v2",
+    id: "wildtierreservat-decan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guissi",
+                  "text": "Guissi ist ein bemerkenswerter Gipfel im geschützten natürlichen Umfeld des Wildtierreservats Decan.",
+                  "category": "natural",
+                  "coords": [
+                        43.116944,
+                        11.476389
+                  ]
+            },
+            {
+                  "name": "Goumarré",
+                  "text": "Der Gipfel des Goumarré bietet eine raue, natürliche Kulisse für die Tierlebensräume des Decan-Wildschutzgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.460278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guissi",
+                  "text": "A Guissi egy figyelemre méltó hegycsúcs, amely a Decan vadvédelmi rezervátum védett természeti környezetében áll.",
+                  "category": "natural",
+                  "coords": [
+                        43.116944,
+                        11.476389
+                  ]
+            },
+            {
+                  "name": "Goumarré",
+                  "text": "A Goumarré csúcsa zord, természetes hátteret biztosít a Decan vadvédelmi menedékhely állati élőhelyeinek.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.460278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guissi",
+                  "text": "Guissi este un vârf notabil situat în mediul natural protejat al rezervației faunei sălbatice Decan.",
+                  "category": "natural",
+                  "coords": [
+                        43.116944,
+                        11.476389
+                  ]
+            },
+            {
+                  "name": "Goumarré",
+                  "text": "Vârful Goumarré oferă un fundal natural și accidentat habitatelor de animale din refugiul faunei sălbatice Decan.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.460278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guissi",
+                  "text": "Guissi is a notable peak standing within the protected natural environment of the Decan wildlife reserve.",
+                  "category": "natural",
+                  "coords": [
+                        43.116944,
+                        11.476389
+                  ]
+            },
+            {
+                  "name": "Goumarré",
+                  "text": "The summit of Goumarré provides a rugged, natural backdrop to the animal habitats of the Decan wildlife refuge.",
+                  "category": "natural",
+                  "coords": [
+                        43.066667,
+                        11.460278
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-DJ",
     coords: [43.120, 11.530],
@@ -51,7 +132,52 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Protection des guépards", "Proche de Djibouti-Ville"],
     }, image: "/poi-images/wildtierreservat-decan-life-v2.webp"},
   {
-    id: "oase-von-ambouli-life-v2",
+    id: "oase-von-ambouli-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Air Djibouti",
+                  "text": "Dieses Air Djibouti gewidmete Denkmal befindet sich in der Nähe der üppigen, grünen Umgebung der Ambouli-Oase.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Air Djibouti",
+                  "text": "Ez az Air Djiboutinak szentelt emlékmű az Ambouli oázis buja, zöld környezetének közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Air Djibouti",
+                  "text": "Acest monument dedicat Air Djibouti este situat în apropierea mediului verde și luxuriant al oazei Ambouli.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Air Djibouti",
+                  "text": "This monument dedicated to Air Djibouti is located near the lush, green environment of the Ambouli oasis.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DJ-DJ",
     coords: [43.140, 11.560],
@@ -99,7 +225,304 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Jardins fertiles", "Production fruitière locale"],
     }, image: "/poi-images/oase-von-ambouli-life-v2.webp"},
   {
-    id: "gaerten-von-bankouale-life-v2",
+    id: "gaerten-von-bankouale-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fôha",
+                  "text": "Dieser Gipfel thront über den Gärten von Bankoualé und leitet das saisonale Regenwasser hinab zu den üppigen Wasserfällen im Tal.",
+                  "category": "natural",
+                  "coords": [
+                        42.625833,
+                        11.84
+                  ]
+            },
+            {
+                  "name": "Aïrorri Kôma",
+                  "text": "Dieser majestätische Gipfel bildet eine dramatische, felsige Kulisse für die grünen Palmgärten von Bankoualé.",
+                  "category": "natural",
+                  "coords": [
+                        42.599444,
+                        11.802778
+                  ]
+            },
+            {
+                  "name": "Boûrali",
+                  "text": "Das Wassereinzugsgebiet dieses steilen Gipfels in der Nähe von Bankoualé ist von entscheidender Bedeutung für die Erhaltung des reichen Terrassenanbaus der Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.788611
+                  ]
+            },
+            {
+                  "name": "‘Abayta",
+                  "text": "Dieser hohe Berg mit Blick auf die farbenfrohen Gärten von Bankoualé verfügt über schroffe Hänge, die mit spärlichen alpinen Sträuchern übersät sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.603889,
+                        11.770833
+                  ]
+            },
+            {
+                  "name": "Masgilde",
+                  "text": "Als markantes Merkmal oberhalb von Bankoualé bilden die alten vulkanischen Felsen dieses Gipfels einen scharfen Kontrast zu den grünen Talböden.",
+                  "category": "natural",
+                  "coords": [
+                        42.624722,
+                        11.769167
+                  ]
+            },
+            {
+                  "name": "Meleh",
+                  "text": "Dieser hoch aufragende natürliche Gipfel schützt das Bankoualé-Tal vor rauen Winden und lässt seine einzigartigen Gärten gedeihen.",
+                  "category": "natural",
+                  "coords": [
+                        42.643056,
+                        11.792778
+                  ]
+            },
+            {
+                  "name": "‘Asdorri Kôma",
+                  "text": "Dieser felsige Gipfel im Hochland von Bankoualé überblickt die traditionellen Afar-Siedlungen und die bewirtschafteten grünen Parzellen.",
+                  "category": "natural",
+                  "coords": [
+                        42.613333,
+                        11.791111
+                  ]
+            },
+            {
+                  "name": "Ganga Bagou",
+                  "text": "Ganga Bagou ist ein schroffer Berggipfel, der sich über den Gärten von Bankoualé erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.620833,
+                        11.751944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fôha",
+                  "text": "A Bankouale kertjei fölé magasodó csúcs a szezonális esővizet a buja völgyi vízesésekhez vezeti.",
+                  "category": "natural",
+                  "coords": [
+                        42.625833,
+                        11.84
+                  ]
+            },
+            {
+                  "name": "Aïrorri Kôma",
+                  "text": "Ez a tekintélyes csúcs drámai sziklás hátteret biztosít Bankouale zöldellő pálmakertjeinek.",
+                  "category": "natural",
+                  "coords": [
+                        42.599444,
+                        11.802778
+                  ]
+            },
+            {
+                  "name": "Boûrali",
+                  "text": "A Bankouale közelében magasodó meredek csúcs vízgyűjtő területe létfontosságú a környék gazdag teraszos művelésének fenntartásához.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.788611
+                  ]
+            },
+            {
+                  "name": "‘Abayta",
+                  "text": "A Bankouale élénk kertjeire néző magas hegy zord lejtőit ritkás havasi cserjék tarkítják.",
+                  "category": "natural",
+                  "coords": [
+                        42.603889,
+                        11.770833
+                  ]
+            },
+            {
+                  "name": "Masgilde",
+                  "text": "A Bankouale feletti kiemelkedő hegycsúcs ősi vulkáni kőzetei éles kontrasztot alkotnak a zöld völgyfenékkel.",
+                  "category": "natural",
+                  "coords": [
+                        42.624722,
+                        11.769167
+                  ]
+            },
+            {
+                  "name": "Meleh",
+                  "text": "Ez a tornyosuló természetes csúcs megvédi a Bankouale-völgyet a zord szelektől, lehetővé téve egyedi kertjeinek virágzását.",
+                  "category": "natural",
+                  "coords": [
+                        42.643056,
+                        11.792778
+                  ]
+            },
+            {
+                  "name": "‘Asdorri Kôma",
+                  "text": "A Bankouale-felföldön található sziklás csúcs a hagyományos afar településekre és a megművelt zöld parcellákra néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.613333,
+                        11.791111
+                  ]
+            },
+            {
+                  "name": "Ganga Bagou",
+                  "text": "A Ganga Bagou egy zord hegycsúcs, amely Bankoualé kertjei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.620833,
+                        11.751944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fôha",
+                  "text": "Înălțându-se deasupra grădinilor din Bankouale, acest vârf canalizează apa de ploaie sezonieră către cascadele luxuriante din vale.",
+                  "category": "natural",
+                  "coords": [
+                        42.625833,
+                        11.84
+                  ]
+            },
+            {
+                  "name": "Aïrorri Kôma",
+                  "text": "Acest vârf impunător oferă un fundal stâncos dramatic pentru grădinile de palmieri înverzite din Bankouale.",
+                  "category": "natural",
+                  "coords": [
+                        42.599444,
+                        11.802778
+                  ]
+            },
+            {
+                  "name": "Boûrali",
+                  "text": "Ridicându-se lângă Bankouale, bazinul hidrografic al acestui vârf abrupt este vital pentru susținerea cultivării terasate bogate a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.788611
+                  ]
+            },
+            {
+                  "name": "‘Abayta",
+                  "text": "Dominând grădinile vibrante din Bankouale, acest munte înalt prezintă versanți accidentați presărați cu arbuști alpini rari.",
+                  "category": "natural",
+                  "coords": [
+                        42.603889,
+                        11.770833
+                  ]
+            },
+            {
+                  "name": "Masgilde",
+                  "text": "O trăsătură proeminentă deasupra zonei Bankouale, rocile vulcanice antice ale acestui vârf contrastează puternic cu podelele verzi ale văii.",
+                  "category": "natural",
+                  "coords": [
+                        42.624722,
+                        11.769167
+                  ]
+            },
+            {
+                  "name": "Meleh",
+                  "text": "Acest vârf natural impunător protejează valea Bankouale de vânturile aspre, permițând grădinilor sale unice să prospere.",
+                  "category": "natural",
+                  "coords": [
+                        42.643056,
+                        11.792778
+                  ]
+            },
+            {
+                  "name": "‘Asdorri Kôma",
+                  "text": "Situat în zonele înalte Bankouale, acest vârf stâncos domină așezările tradiționale Afar și parcelele verzi cultivate.",
+                  "category": "natural",
+                  "coords": [
+                        42.613333,
+                        11.791111
+                  ]
+            },
+            {
+                  "name": "Ganga Bagou",
+                  "text": "Ganga Bagou este un vârf montan accidentat care se înalță deasupra grădinilor din Bankoualé.",
+                  "category": "natural",
+                  "coords": [
+                        42.620833,
+                        11.751944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foha",
+                  "text": "Towering over the gardens of Bankouale, this summit channels seasonal rainwater down to the lush valley waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        42.625833,
+                        11.84
+                  ]
+            },
+            {
+                  "name": "Aïrorri Kôma",
+                  "text": "This commanding peak provides a dramatic rocky backdrop to the verdant palm gardens of Bankouale.",
+                  "category": "natural",
+                  "coords": [
+                        42.599444,
+                        11.802778
+                  ]
+            },
+            {
+                  "name": "Boûrali",
+                  "text": "Looming near Bankouale, this steep peak's watershed is vital for sustaining the area's rich, terraced cultivation.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.788611
+                  ]
+            },
+            {
+                  "name": "`Abayta",
+                  "text": "Overlooking the vibrant gardens of Bankouale, this lofty mountain features rugged slopes dotted with sparse alpine shrubs.",
+                  "category": "natural",
+                  "coords": [
+                        42.603889,
+                        11.770833
+                  ]
+            },
+            {
+                  "name": "Masgilde",
+                  "text": "A prominent feature above Bankouale, this peak's ancient volcanic rocks contrast sharply with the green valley floors.",
+                  "category": "natural",
+                  "coords": [
+                        42.624722,
+                        11.769167
+                  ]
+            },
+            {
+                  "name": "Meleh",
+                  "text": "This towering natural summit shields the Bankouale valley from harsh winds, allowing its unique gardens to thrive.",
+                  "category": "natural",
+                  "coords": [
+                        42.643056,
+                        11.792778
+                  ]
+            },
+            {
+                  "name": "‘Asdorri Kôma",
+                  "text": "Situated in the Bankouale highlands, this rocky peak overlooks the traditional Afar settlements and cultivated green plots.",
+                  "category": "natural",
+                  "coords": [
+                        42.613333,
+                        11.791111
+                  ]
+            },
+            {
+                  "name": "Ganga Bagou",
+                  "text": "Ganga Bagou is a rugged mountain summit rising above the gardens of Bankoualé.",
+                  "category": "natural",
+                  "coords": [
+                        42.620833,
+                        11.751944
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DJ-TA",
     coords: [42.650, 11.820],
@@ -147,7 +570,196 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Oasis de montagne", "Horticulture", "Altitude fraîche"],
     }, image: "/poi-images/gaerten-von-bankouale-life-v2.webp"},
   {
-    id: "assamo-gazellenschutzgebiet-life-v2",
+    id: "assamo-gazellenschutzgebiet-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dasayno",
+                  "text": "Der Gipfel Dasayno bietet in der kargen Region Assamo einen weiten Blick über das Gazellenschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.066667
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "Der felsige Berg Lammoûdley ragt in die trockene Luft des Assamo-Schutzgebietes.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "Der Berggipfel Golẖol fügt sich in die naturbelassene Hügellandschaft von Assamo ein.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Ḏassaïno",
+                  "text": "Die Bergspitze Ḏassaïno formt das Relief im Naturschutzgebiet bei Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.812222,
+                        11.034444
+                  ]
+            },
+            {
+                  "name": "Fort Assamo",
+                  "text": "Die Ruinen des Fort Assamo zeugen von der militärischen Geschichte im unwirtlichen Hinterland.",
+                  "category": "fortress",
+                  "coords": [
+                        42.839252,
+                        10.985427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dasayno",
+                  "text": "A Dasayno hegycsúcs széles kilátást nyújt a kopár Assamo régió gazella-rezervátumára.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.066667
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "A Lammoûdley sziklás hegye az assamói rezervátum száraz levegőjébe emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "A Golẖol hegycsúcs szervesen illeszkedik Assamo érintetlen dombvidékéhez.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Ḏassaïno",
+                  "text": "A Ḏassaïno hegycsúcs formálja az assamói természetvédelmi terület domborzatát.",
+                  "category": "natural",
+                  "coords": [
+                        42.812222,
+                        11.034444
+                  ]
+            },
+            {
+                  "name": "Fort Assamo",
+                  "text": "A Fort Assamo romjai a kietlen hátország katonai történetéről tanúskodnak.",
+                  "category": "fortress",
+                  "coords": [
+                        42.839252,
+                        10.985427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dasayno",
+                  "text": "Vârful Dasayno oferă o panoramă vastă asupra rezervației de gazele din regiunea aridă Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.066667
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "Muntele stâncos Lammoûdley se înalță în aerul uscat al rezervației din Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "Vârful Golẖol face parte din peisajul deluros natural al zonei Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Ḏassaïno",
+                  "text": "Vârful montan Ḏassaïno modelează relieful rezervației naturale din apropiere de Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.812222,
+                        11.034444
+                  ]
+            },
+            {
+                  "name": "Fort Assamo",
+                  "text": "Ruinele Fortului Assamo mărturisesc istoria militară din acest ținut neprimitor.",
+                  "category": "fortress",
+                  "coords": [
+                        42.839252,
+                        10.985427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dasayno",
+                  "text": "The Dasayno peak offers broad views over the gazelle sanctuary in the arid Assamo region.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.066667
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "The rocky mountain of Lammoûdley rises into the dry air of the Assamo sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "The Golẖol peak blends into the natural hilly landscape of the Assamo area.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Ḏassaïno",
+                  "text": "The Ḏassaïno peak shapes the terrain within the nature reserve near Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.812222,
+                        11.034444
+                  ]
+            },
+            {
+                  "name": "Fort Assamo",
+                  "text": "The ruins of Fort Assamo bear witness to the military history in this inhospitable hinterland.",
+                  "category": "fortress",
+                  "coords": [
+                        42.839252,
+                        10.985427
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-AS",
     coords: [42.830, 11.010],
@@ -195,7 +807,556 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Espèce rare de gazelle", "Paysage de savane"],
     }, image: "/poi-images/assamo-gazellenschutzgebiet-life-v2.webp"},
   {
-    id: "djalelo-naturschutzgebiet-life-v2",
+    id: "djalelo-naturschutzgebiet-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gôdirré",
+                  "text": "Der Gôdirré ist ein naturbelassener Gipfel innerhalb des geschützten Geländes des Djalelo-Naturschutzgebietes.",
+                  "category": "natural",
+                  "coords": [
+                        42.835833,
+                        11.415
+                  ]
+            },
+            {
+                  "name": "‘Ali ‘Oumar",
+                  "text": "Der Berg ‘Ali ‘Oumar erhebt sich als felsige Zuflucht für Wildtiere im Djalelo-Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Rôblé Hâd",
+                  "text": "Rôblé Hâd ist ein wüstenartiger Berggipfel, der die weite Landschaft des Djalelo-Reservats prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.767222,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ayyah Gaoura‘",
+                  "text": "Der Gipfel Ayyah Gaoura‘ bietet einen unverstellten Blick über die geschützten Ökosysteme von Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.770833,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Il Chabêl",
+                  "text": "Il Chabêl ist ein markanter Felshügel, der in der weiten Savanne des Djalelo-Naturschutzgebietes steht.",
+                  "category": "natural",
+                  "coords": [
+                        42.748333,
+                        11.415556
+                  ]
+            },
+            {
+                  "name": "Malḏoûb",
+                  "text": "Der steile Gipfel Malḏoûb gehört zu den rauen Erhebungen des geschützten Djalelo-Gebietes.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.4
+                  ]
+            },
+            {
+                  "name": "Sanka Mourouh Doudoub",
+                  "text": "Sanka Mourouh Doudoub ist eine Bergformation, die Teil des wichtigen Rückzugsgebiets für Flora und Fauna in Djalelo ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.741944,
+                        11.378056
+                  ]
+            },
+            {
+                  "name": "Guêd Koulanlé",
+                  "text": "Der Gipfel Guêd Koulanlé überragt das trockene Buschland im Inneren des Djalelo-Naturschutzgebietes.",
+                  "category": "natural",
+                  "coords": [
+                        42.7675,
+                        11.375
+                  ]
+            },
+            {
+                  "name": "Baïra‘",
+                  "text": "Die natürliche felsige Kuppe des Baïra‘ ist ein auffälliges landschaftliches Merkmal des Djalelo-Reservats.",
+                  "category": "natural",
+                  "coords": [
+                        42.81,
+                        11.387222
+                  ]
+            },
+            {
+                  "name": "‘Adabiyyo",
+                  "text": "Der ‘Adabiyyo ist ein isolierter Gipfel, der inmitten der weitläufigen Steppen des Djalelo-Naturschutzgebiets liegt.",
+                  "category": "natural",
+                  "coords": [
+                        42.813889,
+                        11.314444
+                  ]
+            },
+            {
+                  "name": "Galêmi Gêdaley",
+                  "text": "Der Gipfel Galêmi Gêdaley prägt das zerklüftete Profil der geschützten Landschaft von Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.316667
+                  ]
+            },
+            {
+                  "name": "Dabadêre",
+                  "text": "Dabadêre ist ein natürlicher Berggipfel, der Lebensraum für die an Trockenheit angepassten Arten des Djalelo-Reservats bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.333333
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘Alol",
+                  "text": "Der felsige Gipfel Goumbour ‘Alol ist eine Landmarke in den Grenzen des streng geschützten Djalelo-Gebietes.",
+                  "category": "natural",
+                  "coords": [
+                        42.858889,
+                        11.361944
+                  ]
+            },
+            {
+                  "name": "Sogsog",
+                  "text": "Sogsog ist ein natürlicher Gipfel, der sich innerhalb der geschützten Landschaften des Djalelo-Naturschutzgebietes erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.888333,
+                        11.3775
+                  ]
+            },
+            {
+                  "name": "‘Êrolé",
+                  "text": "Der Gipfel des ‘Êrolé ist eine markante topografische Erhebung im Djalelo-Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        42.868056,
+                        11.350556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gôdirré",
+                  "text": "A Gôdirré egy érintetlen hegycsúcs a Djalelo Természetvédelmi Terület védett határain belül.",
+                  "category": "natural",
+                  "coords": [
+                        42.835833,
+                        11.415
+                  ]
+            },
+            {
+                  "name": "‘Ali ‘Oumar",
+                  "text": "Az ‘Ali ‘Oumar hegy vadon élő állatok sziklás menedékeként emelkedik ki a Djalelo Természetvédelmi Területen.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Rôblé Hâd",
+                  "text": "A Rôblé Hâd egy sivatagos hegycsúcs, amely a Djalelo-rezervátum kiterjedt táját jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        42.767222,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ayyah Gaoura‘",
+                  "text": "Az Ayyah Gaoura‘ csúcs zavartalan kilátást nyújt Djalelo védett ökoszisztémáira.",
+                  "category": "natural",
+                  "coords": [
+                        42.770833,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Il Chabêl",
+                  "text": "Az Il Chabêl egy sziklás domb, amely a Djalelo Természetvédelmi Terület kiterjedt szavannáján áll.",
+                  "category": "natural",
+                  "coords": [
+                        42.748333,
+                        11.415556
+                  ]
+            },
+            {
+                  "name": "Malḏoûb",
+                  "text": "A meredek Malḏoûb csúcs a védett Djalelo-terület zord magaslatai közé tartozik.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.4
+                  ]
+            },
+            {
+                  "name": "Sanka Mourouh Doudoub",
+                  "text": "A Sanka Mourouh Doudoub egy hegyképződmény, amely a Djalelo növény- és állatvilágának fontos menedékhelye.",
+                  "category": "natural",
+                  "coords": [
+                        42.741944,
+                        11.378056
+                  ]
+            },
+            {
+                  "name": "Guêd Koulanlé",
+                  "text": "A Guêd Koulanlé csúcs a Djalelo Természetvédelmi Terület száraz bozótosai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.7675,
+                        11.375
+                  ]
+            },
+            {
+                  "name": "Baïra‘",
+                  "text": "A Baïra‘ természetes sziklás csúcsa a Djalelo-rezervátum feltűnő táji jellemzője.",
+                  "category": "natural",
+                  "coords": [
+                        42.81,
+                        11.387222
+                  ]
+            },
+            {
+                  "name": "‘Adabiyyo",
+                  "text": "Az ‘Adabiyyo egy elszigetelt hegycsúcs, amely a Djalelo Természetvédelmi Terület hatalmas sztyeppéi között található.",
+                  "category": "natural",
+                  "coords": [
+                        42.813889,
+                        11.314444
+                  ]
+            },
+            {
+                  "name": "Galêmi Gêdaley",
+                  "text": "A Galêmi Gêdaley csúcs Djalelo védett tájának csipkézett arculatát formálja.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.316667
+                  ]
+            },
+            {
+                  "name": "Dabadêre",
+                  "text": "A Dabadêre egy természetes hegycsúcs, amely élőhelyet biztosít a Djalelo-rezervátum szárazságtűrő fajainak.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.333333
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘Alol",
+                  "text": "A Goumbour ‘Alol sziklás csúcsa egy tájékozódási pont a szigorúan védett Djalelo terület határain belül.",
+                  "category": "natural",
+                  "coords": [
+                        42.858889,
+                        11.361944
+                  ]
+            },
+            {
+                  "name": "Sogsog",
+                  "text": "A Sogsog egy természetes hegycsúcs, amely a Djalelo Természetvédelmi Terület védett tájain emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.888333,
+                        11.3775
+                  ]
+            },
+            {
+                  "name": "‘Êrolé",
+                  "text": "Az ‘Êrolé csúcs a Djalelo Természetvédelmi Terület egyik kiemelkedő topográfiai jellemzője.",
+                  "category": "natural",
+                  "coords": [
+                        42.868056,
+                        11.350556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gôdirré",
+                  "text": "Gôdirré este un vârf natural situat în incinta protejată a rezervației naturale Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.835833,
+                        11.415
+                  ]
+            },
+            {
+                  "name": "‘Ali ‘Oumar",
+                  "text": "Muntele ‘Ali ‘Oumar se înalță ca un refugiu stâncos pentru fauna sălbatică în rezervația naturală Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Rôblé Hâd",
+                  "text": "Rôblé Hâd este un vârf muntos deșertic care conturează peisajul vast al rezervației Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.767222,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ayyah Gaoura‘",
+                  "text": "Vârful Ayyah Gaoura‘ oferă o priveliște neobstrucționată asupra ecosistemelor protejate din Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.770833,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Il Chabêl",
+                  "text": "Il Chabêl este un deal stâncos izolat, situat în savana vastă a rezervației naturale Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.748333,
+                        11.415556
+                  ]
+            },
+            {
+                  "name": "Malḏoûb",
+                  "text": "Vârful abrupt Malḏoûb face parte din reliefurile accidentate ale zonei protejate Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.4
+                  ]
+            },
+            {
+                  "name": "Sanka Mourouh Doudoub",
+                  "text": "Sanka Mourouh Doudoub este o formațiune muntoasă care face parte din importantul refugiu pentru flora și fauna din Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.741944,
+                        11.378056
+                  ]
+            },
+            {
+                  "name": "Guêd Koulanlé",
+                  "text": "Vârful Guêd Koulanlé se înalță deasupra tufișurilor aride din interiorul rezervației naturale Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.7675,
+                        11.375
+                  ]
+            },
+            {
+                  "name": "Baïra‘",
+                  "text": "Vârful stâncos natural Baïra‘ este o trăsătură peisagistică proeminentă a rezervației Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.81,
+                        11.387222
+                  ]
+            },
+            {
+                  "name": "‘Adabiyyo",
+                  "text": "‘Adabiyyo este un vârf izolat situat în mijlocul stepelor extinse ale rezervației naturale Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.813889,
+                        11.314444
+                  ]
+            },
+            {
+                  "name": "Galêmi Gêdaley",
+                  "text": "Vârful Galêmi Gêdaley conturează profilul accidentat al peisajului protejat din Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.316667
+                  ]
+            },
+            {
+                  "name": "Dabadêre",
+                  "text": "Dabadêre este un vârf natural ce oferă un habitat speciilor adaptate la secetă din rezervația Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.333333
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘Alol",
+                  "text": "Vârful stâncos Goumbour ‘Alol este un punct de reper în limitele ariei strict protejate Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.858889,
+                        11.361944
+                  ]
+            },
+            {
+                  "name": "Sogsog",
+                  "text": "Sogsog este un vârf natural care se înalță în peisajele protejate ale Rezervației Naturale Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.888333,
+                        11.3775
+                  ]
+            },
+            {
+                  "name": "‘Êrolé",
+                  "text": "Vârful ‘Êrolé se remarcă ca o caracteristică topografică proeminentă în Rezervația Naturală Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.868056,
+                        11.350556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gôdirré",
+                  "text": "Gôdirré is an unspoiled mountain peak located within the protected boundaries of the Djalelo Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.835833,
+                        11.415
+                  ]
+            },
+            {
+                  "name": "‘Ali ‘Oumar",
+                  "text": "The ‘Ali ‘Oumar peak rises as a rocky refuge for wildlife within the Djalelo Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.8,
+                        11.416667
+                  ]
+            },
+            {
+                  "name": "Rôblé Hâd",
+                  "text": "Rôblé Hâd is a desert-like mountain peak characterizing the vast landscape of the Djalelo Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.767222,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ayyah Gaoura‘",
+                  "text": "The Ayyah Gaoura‘ peak provides clear views over the protected ecosystems of Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.770833,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Il Chabêl",
+                  "text": "Il Chabêl is a prominent rocky hill standing amidst the vast savanna of the Djalelo Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.748333,
+                        11.415556
+                  ]
+            },
+            {
+                  "name": "Malḏoûb",
+                  "text": "The steep Malḏoûb peak is one of the rugged natural elevations within the protected Djalelo area.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.4
+                  ]
+            },
+            {
+                  "name": "Sanka Mourouh Doudoub",
+                  "text": "Sanka Mourouh Doudoub is a mountain formation forming part of the vital flora and fauna refuge in Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.741944,
+                        11.378056
+                  ]
+            },
+            {
+                  "name": "Guêd Koulanlé",
+                  "text": "The Guêd Koulanlé peak towers above the arid scrubland located within the Djalelo Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.7675,
+                        11.375
+                  ]
+            },
+            {
+                  "name": "Baïra‘",
+                  "text": "The natural rocky crest of Baïra‘ is a conspicuous landscape feature of the Djalelo Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.81,
+                        11.387222
+                  ]
+            },
+            {
+                  "name": "‘Adabiyyo",
+                  "text": "‘Adabiyyo is an isolated peak situated amidst the extensive steppes of the Djalelo Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.813889,
+                        11.314444
+                  ]
+            },
+            {
+                  "name": "Galêmi Gêdaley",
+                  "text": "The Galêmi Gêdaley peak shapes the rugged profile of the protected landscape in Djalelo.",
+                  "category": "natural",
+                  "coords": [
+                        42.816667,
+                        11.316667
+                  ]
+            },
+            {
+                  "name": "Dabadêre",
+                  "text": "Dabadêre is a natural mountain peak that provides a habitat for the drought-adapted species of the Djalelo Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.833333,
+                        11.333333
+                  ]
+            },
+            {
+                  "name": "Goumbour ‘Alol",
+                  "text": "The rocky peak of Goumbour ‘Alol serves as a landmark within the boundaries of the strictly protected Djalelo area.",
+                  "category": "natural",
+                  "coords": [
+                        42.858889,
+                        11.361944
+                  ]
+            },
+            {
+                  "name": "Sogsog",
+                  "text": "Sogsog is a natural peak rising within the protected landscapes of the Djalelo Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.888333,
+                        11.3775
+                  ]
+            },
+            {
+                  "name": "‘Êrolé",
+                  "text": "The ‘Êrolé summit stands as a prominent topographical feature in the Djalelo Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.868056,
+                        11.350556
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-AR",
     coords: [42.800, 11.380],
@@ -243,7 +1404,88 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Observation des oiseaux", "Biodiversité aride"],
     }, image: "/poi-images/djalelo-naturschutzgebiet-life-v2.webp"},
   {
-    id: "vogelschutzgebiet-khor-angar-life-v2",
+    id: "vogelschutzgebiet-khor-angar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bourẖousmâni",
+                  "text": "Ein Gipfel im Vogelschutzgebiet Khor Angar, der potenziell Ruheplätze für die lokale Vogelwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.331362,
+                        12.342051
+                  ]
+            },
+            {
+                  "name": "Boûri San",
+                  "text": "Dieser Berggipfel bildet einen Teil des geschützten Lebensraums im Vogelschutzgebiet Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bourẖousmâni",
+                  "text": "A Khor Angar-i madárvédelmi területen található csúcs, amely potenciális pihenőhelyet nyújt a helyi madárvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        43.331362,
+                        12.342051
+                  ]
+            },
+            {
+                  "name": "Boûri San",
+                  "text": "Ez a hegycsúcs a Khor Angar-i madárvédelmi terület védett élőhelyének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bourẖousmâni",
+                  "text": "Un vârf situat în sanctuarul de păsări Khor Angar, oferind potențiale locuri de odihnă pentru avifauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        43.331362,
+                        12.342051
+                  ]
+            },
+            {
+                  "name": "Boûri San",
+                  "text": "Acest vârf montan face parte din habitatul protejat din cadrul sanctuarului de păsări Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bourẖousmâni",
+                  "text": "A summit situated within the Khor Angar bird sanctuary, offering potential roosting sites for local avian life.",
+                  "category": "natural",
+                  "coords": [
+                        43.331362,
+                        12.342051
+                  ]
+            },
+            {
+                  "name": "Boûri San",
+                  "text": "This mountain peak forms part of the protected habitat within the Khor Angar bird sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-OB",
     coords: [43.330, 12.370],
@@ -291,7 +1533,124 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Protection des oiseaux", "Habitat de mangroves", "Mer Rouge"],
     }, image: "/poi-images/vogelschutzgebiet-khor-angar-life-v2.webp"},
   {
-    id: "walhai-schutzgebiet-ghoubbet-life-v2",
+    id: "walhai-schutzgebiet-ghoubbet-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "‘Ounḏa Gâli Mâ‘aba",
+                  "text": "Dieser Gipfel ist ein natürlicher Hochpunkt innerhalb der geschützten Küstenumgebung des Walhai-Ghoubbet-Reservats.",
+                  "category": "natural",
+                  "coords": [
+                        42.548333,
+                        11.619167
+                  ]
+            },
+            {
+                  "name": "Kadda Gâli Mâ‘aba",
+                  "text": "Kadda Gali Ma`aba ist ein markanter Gipfel, der sich über den geschützten natürlichen Lebensräumen des Walhai-Ghoubbet-Schutzgebietes erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.555556,
+                        11.630556
+                  ]
+            },
+            {
+                  "name": "Moudoû‘oud",
+                  "text": "Dieser natürliche Gipfel erhebt sich über das walhai-schutzgebiet-ghoubbet-life-v2 und bietet weite Ausblicke auf die raue Landschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        42.577778,
+                        11.621944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "‘Ounḏa Gâli Mâ‘aba",
+                  "text": "Ez a csúcs egy természetes magaslat a Walhai Ghoubbet rezervátum védett tengerparti környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        42.548333,
+                        11.619167
+                  ]
+            },
+            {
+                  "name": "Kadda Gâli Mâ‘aba",
+                  "text": "A Kadda Gali Ma`aba egy lenyűgöző csúcs, amely a Walhai Ghoubbet menedékhely védett természetes élőhelyei fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.555556,
+                        11.630556
+                  ]
+            },
+            {
+                  "name": "Moudoû‘oud",
+                  "text": "Ez a természetes hegycsúcs a walhai-schutzgebiet-ghoubbet-life-v2 terület fölé magasodva széles kilátást nyújt a régió zord tájára.",
+                  "category": "natural",
+                  "coords": [
+                        42.577778,
+                        11.621944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "‘Ounḏa Gâli Mâ‘aba",
+                  "text": "Acest vârf este un punct înalt natural situat în mediul de coastă protejat al rezervației Walhai Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.548333,
+                        11.619167
+                  ]
+            },
+            {
+                  "name": "Kadda Gâli Mâ‘aba",
+                  "text": "Kadda Gali Ma`aba este un vârf impresionant care se ridică deasupra habitatelor naturale protejate ale sanctuarului Walhai Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.555556,
+                        11.630556
+                  ]
+            },
+            {
+                  "name": "Moudoû‘oud",
+                  "text": "Ridicându-se deasupra zonei walhai-schutzgebiet-ghoubbet-life-v2, acest vârf natural oferă priveliști largi asupra peisajului accidentat al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        42.577778,
+                        11.621944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "‘Ounḏa Gâli Mâ‘aba",
+                  "text": "This peak is a natural high point situated within the protected coastal environment of the Walhai Ghoubbet reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.548333,
+                        11.619167
+                  ]
+            },
+            {
+                  "name": "Kadda Gali Ma`aba",
+                  "text": "Kadda Gali Ma`aba is a striking summit rising over the protected natural habitats of the Walhai Ghoubbet sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        42.555556,
+                        11.630556
+                  ]
+            },
+            {
+                  "name": "Moudou`oud",
+                  "text": "Rising above the surrounding terrain of the walhai-schutzgebiet-ghoubbet-life-v2 area, this natural peak offers expansive views of the region's rugged landscape.",
+                  "category": "natural",
+                  "coords": [
+                        42.577778,
+                        11.621944
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-TA",
     coords: [42.550, 11.550],
@@ -339,7 +1698,52 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Plus grand poisson du monde", "Biologie marine"],
     }, image: "/poi-images/walhai-schutzgebiet-ghoubbet-life-v2.webp"},
   {
-    id: "dattelpalmenhain-von-dikhil-life-v2",
+    id: "dattelpalmenhain-von-dikhil-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Si‘îd Gâban",
+                  "text": "Ein Berggipfel, der sich in der Nähe der Palmenhaine von Dikhil erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.365,
+                        11.029722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Si‘îd Gâban",
+                  "text": "Egy hegycsúcs, amely Dikhil pálmaligetei közelében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.365,
+                        11.029722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Si‘îd Gâban",
+                  "text": "Un vârf de munte care se înalță lângă plantațiile de palmieri din Dikhil.",
+                  "category": "natural",
+                  "coords": [
+                        42.365,
+                        11.029722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Si‘îd Gâban",
+                  "text": "A mountain peak rising near the palm groves of Dikhil.",
+                  "category": "natural",
+                  "coords": [
+                        42.365,
+                        11.029722
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DJ-DI",
     coords: [42.360, 11.100],
@@ -387,7 +1791,196 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Production de dattes", "Irrigation traditionnelle"],
     }, image: "/poi-images/dattelpalmenhain-von-dikhil-life-v2.webp"},
   {
-    id: "obstgaerten-von-randa-life-v2",
+    id: "obstgaerten-von-randa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gibdo",
+                  "text": "Die Hänge dieses Gipfels über Randa bieten ein Mikroklima, das die berühmten Bergobstgärten der Region schützt.",
+                  "category": "natural",
+                  "coords": [
+                        42.651111,
+                        11.898611
+                  ]
+            },
+            {
+                  "name": "Kassalto",
+                  "text": "Dieser malerische Gipfel thront über den üppigen Obstgärten von Randa und bildet einen reizvollen Kontrast zu den grünen Tälern darunter.",
+                  "category": "natural",
+                  "coords": [
+                        42.647222,
+                        11.880556
+                  ]
+            },
+            {
+                  "name": "Bourali Dâba",
+                  "text": "Eine markante bergige Kulisse für die Obstgärten von Randa, bekannt dafür, den Morgennebel einzufangen.",
+                  "category": "natural",
+                  "coords": [
+                        42.647778,
+                        11.878889
+                  ]
+            },
+            {
+                  "name": "Ḏertim",
+                  "text": "Dieser felsige Gipfel überblickt die fruchtbaren Terrassen von Randa und bewacht das landwirtschaftliche Herz des Hochlandes.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "Dieser Gipfel, der die grüne Oase von Randa beschattet, unterstützt mit seiner höheren Lage ein kühleres, feuchteres lokales Klima.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gibdo",
+                  "text": "A Randa fölé magasodó csúcs lejtői olyan mikroklímát biztosítanak, amely megvédi a régió híres hegyi gyümölcsöseit.",
+                  "category": "natural",
+                  "coords": [
+                        42.651111,
+                        11.898611
+                  ]
+            },
+            {
+                  "name": "Kassalto",
+                  "text": "Ez a festői csúcs Randa buja gyümölcsösei fölé magasodik, lenyűgöző kontrasztot nyújtva a lenti zöld völgyekkel.",
+                  "category": "natural",
+                  "coords": [
+                        42.647222,
+                        11.880556
+                  ]
+            },
+            {
+                  "name": "Bourali Dâba",
+                  "text": "Jelentős hegyvidéki háttér a randai gyümölcsösök számára, amely arról ismert, hogy megfogja a reggeli ködöt.",
+                  "category": "natural",
+                  "coords": [
+                        42.647778,
+                        11.878889
+                  ]
+            },
+            {
+                  "name": "Ḏertim",
+                  "text": "A Randa termékeny teraszaira néző sziklás csúcs a hegyvidék mezőgazdasági szívét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "A Randa zöld oázisát beárnyékoló csúcs magasabb fekvése hűvösebb, párásabb helyi klímát támogat.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gibdo",
+                  "text": "Ridicându-se deasupra Randei, versanții acestui vârf oferă un microclimat care adăpostește faimoasele livezi montane ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        42.651111,
+                        11.898611
+                  ]
+            },
+            {
+                  "name": "Kassalto",
+                  "text": "Acest vârf pitoresc se înalță deasupra livezilor luxuriante din Randa, oferind un contrast izbitor cu văile verzi de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        42.647222,
+                        11.880556
+                  ]
+            },
+            {
+                  "name": "Bourali Dâba",
+                  "text": "Un fundal montan proeminent pentru livezile din Randa, cunoscut pentru captarea ceții matinale.",
+                  "category": "natural",
+                  "coords": [
+                        42.647778,
+                        11.878889
+                  ]
+            },
+            {
+                  "name": "Ḏertim",
+                  "text": "Dominând terasele fertile din Randa, acest vârf stâncos păzește inima agricolă a zonelor înalte.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "Umbrind oaza verde din Randa, elevația mai înaltă a acestui vârf susține un climat local mai răcoros și mai umed.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gibdo",
+                  "text": "Rising above Randa, this peak's slopes provide a microclimate that shelters the region's famous mountain orchards.",
+                  "category": "natural",
+                  "coords": [
+                        42.651111,
+                        11.898611
+                  ]
+            },
+            {
+                  "name": "Kassalto",
+                  "text": "This scenic peak towers over the lush orchards of Randa, offering a striking contrast to the green valleys below.",
+                  "category": "natural",
+                  "coords": [
+                        42.647222,
+                        11.880556
+                  ]
+            },
+            {
+                  "name": "Bourali Dâba",
+                  "text": "A prominent mountainous backdrop to the Randa orchards, known for catching the morning mist.",
+                  "category": "natural",
+                  "coords": [
+                        42.647778,
+                        11.878889
+                  ]
+            },
+            {
+                  "name": "Ḏertim",
+                  "text": "Overlooking the fertile terraces of Randa, this rocky summit guards the agricultural heart of the highlands.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "Shadowing the green oasis of Randa, this peak's higher elevation supports a cooler, more humid local climate.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DJ-TA",
     coords: [42.660, 11.850],
@@ -435,7 +2028,196 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Climat de montagne", "Arboriculture fruitière", "Agriculture locale"],
     }, image: "/poi-images/obstgaerten-von-randa-life-v2.webp"},
   {
-    id: "lebensraum-des-dschibuti-frankolins-life-v2",
+    id: "lebensraum-des-dschibuti-frankolins-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kontoyli",
+                  "text": "Kontoyli ist ein bewaldeter Gipfel, der einen wichtigen Hochlandlebensraum für den stark gefährdeten Dschibuti-Frankolin bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.69,
+                        11.75
+                  ]
+            },
+            {
+                  "name": "Basalle",
+                  "text": "Basalle ist ein aufragender Gipfel, umgeben von dichten Wacholderwäldern, die für die lokale Dschibuti-Frankolin-Population unerlässlich sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.7025,
+                        11.763889
+                  ]
+            },
+            {
+                  "name": "Agalgaysi Dâba",
+                  "text": "Agalgaysi Dâba ist ein Felsrücken, durchsetzt mit der einzigartigen Hochlandflora, die den Dschibuti-Frankolin beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        42.7125,
+                        11.755556
+                  ]
+            },
+            {
+                  "name": "Garra‘ta",
+                  "text": "Garra`ta ist eine erhöhte Geländeformation innerhalb der geschützten Wacholderwaldlebensräume des Dschibuti-Frankolins.",
+                  "category": "natural",
+                  "coords": [
+                        42.716667,
+                        11.733333
+                  ]
+            },
+            {
+                  "name": "Ḏâlou",
+                  "text": "Ḏâlou ist ein markanter Berggipfel, der für die Erhaltung des fragilen Ökosystems des endemischen Dschibuti-Frankolins von entscheidender Bedeutung ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.703611,
+                        11.771944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kontoyli",
+                  "text": "A Kontoyli egy erdős hegycsúcs, amely létfontosságú felvidéki élőhelyet biztosít a súlyosan veszélyeztetett dzsibuti frankolin számára.",
+                  "category": "natural",
+                  "coords": [
+                        42.69,
+                        11.75
+                  ]
+            },
+            {
+                  "name": "Basalle",
+                  "text": "A Basalle egy tornyosuló hegycsúcs, amelyet sűrű borókaerdők vesznek körül, amelyek elengedhetetlenek a helyi dzsibuti frankolin populáció számára.",
+                  "category": "natural",
+                  "coords": [
+                        42.7025,
+                        11.763889
+                  ]
+            },
+            {
+                  "name": "Agalgaysi Dâba",
+                  "text": "Az Agalgaysi Dâba egy sziklás gerinc, amelyet az az egyedülálló felvidéki növényzet tarkít, amely a dzsibuti frankolin élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        42.7125,
+                        11.755556
+                  ]
+            },
+            {
+                  "name": "Garra‘ta",
+                  "text": "A Garra`ta egy magaslati terepforma a dzsibuti frankolin védett borókaerdei élőhelyein belül.",
+                  "category": "natural",
+                  "coords": [
+                        42.716667,
+                        11.733333
+                  ]
+            },
+            {
+                  "name": "Ḏâlou",
+                  "text": "A Ḏâlou egy kiemelkedő hegycsúcs, amely kritikus fontosságú az endemikus dzsibuti frankolin törékeny ökoszisztémájának megőrzésében.",
+                  "category": "natural",
+                  "coords": [
+                        42.703611,
+                        11.771944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kontoyli",
+                  "text": "Kontoyli este un vârf împădurit care oferă un habitat montan crucial pentru francolinul din Djibouti, o specie critic amenințată.",
+                  "category": "natural",
+                  "coords": [
+                        42.69,
+                        11.75
+                  ]
+            },
+            {
+                  "name": "Basalle",
+                  "text": "Basalle este un vârf falnic înconjurat de păduri dense de ienupăr, esențiale pentru populația locală de francolini din Djibouti.",
+                  "category": "natural",
+                  "coords": [
+                        42.7025,
+                        11.763889
+                  ]
+            },
+            {
+                  "name": "Agalgaysi Dâba",
+                  "text": "Agalgaysi Dâba este o creastă stâncoasă presărată cu flora montană unică ce susține francolinul din Djibouti.",
+                  "category": "natural",
+                  "coords": [
+                        42.7125,
+                        11.755556
+                  ]
+            },
+            {
+                  "name": "Garra‘ta",
+                  "text": "Garra`ta este o formă de relief înaltă situată în habitatele protejate de păduri de ienupăr ale francolinului din Djibouti.",
+                  "category": "natural",
+                  "coords": [
+                        42.716667,
+                        11.733333
+                  ]
+            },
+            {
+                  "name": "Ḏâlou",
+                  "text": "Ḏâlou este un vârf montan proeminent, esențial pentru conservarea ecosistemului fragil al francolinului endemic din Djibouti.",
+                  "category": "natural",
+                  "coords": [
+                        42.703611,
+                        11.771944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kontoyli",
+                  "text": "Kontoyli is a forested peak providing crucial highland habitat for the critically endangered Djibouti spurfowl.",
+                  "category": "natural",
+                  "coords": [
+                        42.69,
+                        11.75
+                  ]
+            },
+            {
+                  "name": "Basalle",
+                  "text": "Basalle is a towering summit surrounded by dense juniper woods essential for the local Djibouti spurfowl population.",
+                  "category": "natural",
+                  "coords": [
+                        42.7025,
+                        11.763889
+                  ]
+            },
+            {
+                  "name": "Agalgaysi Dâba",
+                  "text": "Agalgaysi Dâba is a rocky ridge interspersed with the unique highland flora that supports the Djibouti spurfowl.",
+                  "category": "natural",
+                  "coords": [
+                        42.7125,
+                        11.755556
+                  ]
+            },
+            {
+                  "name": "Garra`ta",
+                  "text": "Garra`ta is an elevated terrain feature within the protected juniper forest habitats of the Djibouti spurfowl.",
+                  "category": "natural",
+                  "coords": [
+                        42.716667,
+                        11.733333
+                  ]
+            },
+            {
+                  "name": "Ḏâlou",
+                  "text": "Ḏâlou is a prominent mountain peak critical to preserving the fragile ecosystem of the endemic Djibouti spurfowl.",
+                  "category": "natural",
+                  "coords": [
+                        42.703611,
+                        11.771944
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-TA",
     coords: [42.720, 11.780],
@@ -532,7 +2314,124 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Palmeraie", "Région frontalière", "Zone côtière"],
     }, image: "/poi-images/palmenhaine-von-loyada-life-v2.webp"},
   {
-    id: "hochland-farmen-von-arta-life-v2",
+    id: "hochland-farmen-von-arta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siyyâro",
+                  "text": "Der Gipfel Siyyâro überblickt die grünen Hochlandfarmen in der Region Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.916111,
+                        11.506667
+                  ]
+            },
+            {
+                  "name": "Lângobâlé ‘Addê",
+                  "text": "Der Berg Lângobâlé ‘Addê erhebt sich über dem fruchtbaren Ackerland des Arta-Hochlands.",
+                  "category": "natural",
+                  "coords": [
+                        42.910278,
+                        11.509444
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "‘Ali Faḏên ist eine natürliche felsige Erhebung inmitten der landwirtschaftlich genutzten Hochflächen von Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siyyâro",
+                  "text": "A Siyyâro csúcs az Arta régió zöldellő felvidéki farmjaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.916111,
+                        11.506667
+                  ]
+            },
+            {
+                  "name": "Lângobâlé ‘Addê",
+                  "text": "A Lângobâlé ‘Addê hegy az artai fennsík termékeny mezőgazdasági területei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.910278,
+                        11.509444
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "Az ‘Ali Faḏên egy természetes sziklás magaslat az Arta környéki mezőgazdasági fennsíkok között.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siyyâro",
+                  "text": "Vârful Siyyâro domină fermele verzi de la mare altitudine din regiunea Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.916111,
+                        11.506667
+                  ]
+            },
+            {
+                  "name": "Lângobâlé ‘Addê",
+                  "text": "Muntele Lângobâlé ‘Addê se înalță deasupra terenurilor agricole fertile din podișul Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.910278,
+                        11.509444
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "‘Ali Faḏên este o cotație stâncoasă naturală situată în mijlocul platourilor agricole din Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siyyâro",
+                  "text": "The Siyyâro peak overlooks the green highland farms in the Arta region.",
+                  "category": "natural",
+                  "coords": [
+                        42.916111,
+                        11.506667
+                  ]
+            },
+            {
+                  "name": "Lângobâlé ‘Addê",
+                  "text": "The Lângobâlé ‘Addê peak rises above the fertile agricultural lands of the Arta highlands.",
+                  "category": "natural",
+                  "coords": [
+                        42.910278,
+                        11.509444
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "‘Ali Faḏên is a natural rocky elevation amidst the agricultural highland farms of Arta.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DJ-AR",
     coords: [42.850, 11.510],
@@ -628,7 +2527,88 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Écosystème côtier", "Nurserie pour poissons"],
     }, image: "/poi-images/mangroven-von-obock-life-v2.webp"},
   {
-    id: "weidegruende-der-hanle-ebene-life-v2",
+    id: "weidegruende-der-hanle-ebene-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kouri",
+                  "text": "Kouri ist eine steinige Erhebung, die ihren Schatten auf die traditionellen Weidegründe der Hanle-Ebene wirft.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.35
+                  ]
+            },
+            {
+                  "name": "Ḏogorre Kôma",
+                  "text": "Ḏogorre Kôma steht als isolierter felsiger Gipfel über den ausgedehnten Weideflächen von Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.128611,
+                        11.449444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kouri",
+                  "text": "A Kouri egy köves magaslat, amely árnyékot vet a Hanle-síkság hagyományos legelőire.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.35
+                  ]
+            },
+            {
+                  "name": "Ḏogorre Kôma",
+                  "text": "A Ḏogorre Kôma elszigetelt sziklás csúcsként magasodik a kiterjedt Hanle legelők felett.",
+                  "category": "natural",
+                  "coords": [
+                        42.128611,
+                        11.449444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kouri",
+                  "text": "Kouri este o elevație pietroasă care își aruncă umbra asupra pășunilor tradiționale ale câmpiei Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.35
+                  ]
+            },
+            {
+                  "name": "Ḏogorre Kôma",
+                  "text": "Ḏogorre Kôma se înalță ca un vârf stâncos izolat deasupra întinselor terenuri de pășunat Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.128611,
+                        11.449444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kouri",
+                  "text": "Kouri is a stony elevation casting its shadow over the traditional grazing pastures of the Hanle plain.",
+                  "category": "natural",
+                  "coords": [
+                        42.133333,
+                        11.35
+                  ]
+            },
+            {
+                  "name": "Ḏogorre Kôma",
+                  "text": "Ḏogorre Kôma stands as an isolated rocky summit above the extensive Hanle grazing lands.",
+                  "category": "natural",
+                  "coords": [
+                        42.128611,
+                        11.449444
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DJ-DI",
     coords: [42.150, 11.400],
@@ -820,7 +2800,268 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Parc urbain", "Offre de loisirs", "Lieu de rencontre familial"],
     }, image: "/poi-images/freizeitpark-lunite-life-v2.webp"},
   {
-    id: "bienenwirtschaft-im-goda-gebirge-life-v2",
+    id: "bienenwirtschaft-im-goda-gebirge-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison du Gouverneur",
+                  "text": "The Governor's house ist eine historische koloniale Residenz, eingebettet in die üppige Umgebung des Goda-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        42.651802,
+                        11.770859
+                  ]
+            },
+            {
+                  "name": "Diyâra",
+                  "text": "Diyâra ist ein aufragender Berggipfel, der von der reichen Flora des Goda-Gebirges umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.671667,
+                        11.757778
+                  ]
+            },
+            {
+                  "name": "Nararte",
+                  "text": "Nararte ist ein bewaldeter Gipfel, der einen natürlichen Lebensraum für die lokale Bienenzucht im Goda-Gebirge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.758889
+                  ]
+            },
+            {
+                  "name": "‘Êli Dâba",
+                  "text": "‘Êli Dâba ist ein felsiger Bergkamm, der sich im vielfältigen Ökosystem des Goda-Gebirges befindet.",
+                  "category": "natural",
+                  "coords": [
+                        42.638333,
+                        11.753056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aleïta",
+                  "text": "Eguer ‘Aleïta erhebt sich als markante Erhebung inmitten der grünen Landschaften des Goda-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.759444
+                  ]
+            },
+            {
+                  "name": "Assa Guera",
+                  "text": "Assa Guera ist ein schroffer Gipfel, der weite Ausblicke auf die Bienenzuchtgebiete des Goda-Gebirges bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.8
+                  ]
+            },
+            {
+                  "name": "Morne Noir",
+                  "text": "Morne Noir ist ein auffallend dunkel gefärbter Berggipfel, der sich über die grünen Hänge des Goda-Gebirges erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.816667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison du Gouverneur",
+                  "text": "A Governor's house egy történelmi gyarmati rezidencia, amely a Goda-hegység buja környezetében fészkelt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.651802,
+                        11.770859
+                  ]
+            },
+            {
+                  "name": "Diyâra",
+                  "text": "A Diyâra egy tornyosuló hegycsúcs, amelyet a Goda-hegység gazdag növényzete vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        42.671667,
+                        11.757778
+                  ]
+            },
+            {
+                  "name": "Nararte",
+                  "text": "A Nararte egy erdős hegycsúcs, amely természetes élőhelyet biztosít a helyi méhészet számára a Goda-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.758889
+                  ]
+            },
+            {
+                  "name": "‘Êli Dâba",
+                  "text": "Az ‘Êli Dâba egy sziklás hegygerinc, amely a Goda-hegység változatos ökoszisztémájában található.",
+                  "category": "natural",
+                  "coords": [
+                        42.638333,
+                        11.753056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aleïta",
+                  "text": "Az Eguer ‘Aleïta kiemelkedő magaslatként áll a Goda-hegység zöldellő tájai között.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.759444
+                  ]
+            },
+            {
+                  "name": "Assa Guera",
+                  "text": "Az Assa Guera egy zord hegycsúcs, ahonnan elsöprő kilátás nyílik a Goda-hegység méhészeti régióira.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.8
+                  ]
+            },
+            {
+                  "name": "Morne Noir",
+                  "text": "A Morne Noir egy jellegzetesen sötét árnyalatú hegycsúcs, amely a Goda-hegység zöldellő lejtői fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.816667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison du Gouverneur",
+                  "text": "Governor's house este o reședință colonială istorică, cuibărită în mediul luxuriant al Munților Goda.",
+                  "category": "landmark",
+                  "coords": [
+                        42.651802,
+                        11.770859
+                  ]
+            },
+            {
+                  "name": "Diyâra",
+                  "text": "Diyâra este un vârf montan impunător înconjurat de flora bogată a Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.671667,
+                        11.757778
+                  ]
+            },
+            {
+                  "name": "Nararte",
+                  "text": "Nararte este un vârf împădurit care oferă un habitat natural pentru apicultura locală din Munții Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.758889
+                  ]
+            },
+            {
+                  "name": "‘Êli Dâba",
+                  "text": "‘Êli Dâba este o creastă montană stâncoasă situată în cadrul ecosistemului divers al Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.638333,
+                        11.753056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aleïta",
+                  "text": "Eguer ‘Aleïta se înalță ca o altitudine proeminentă în mijlocul peisajelor înverzite ale Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.759444
+                  ]
+            },
+            {
+                  "name": "Assa Guera",
+                  "text": "Assa Guera este un vârf accidentat care oferă vederi ample asupra regiunilor apicole din Munții Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.8
+                  ]
+            },
+            {
+                  "name": "Morne Noir",
+                  "text": "Morne Noir este un vârf de munte cu o nuanță distinctiv de închisă, care se înalță deasupra versanților verzi ai Munților Goda.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.816667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Governor's house",
+                  "text": "The Governor's house is a historic colonial residence nestled in the lush environment of the Goda Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        42.651802,
+                        11.770859
+                  ]
+            },
+            {
+                  "name": "Diyâra",
+                  "text": "Diyâra is a towering mountain summit surrounded by the rich flora of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.671667,
+                        11.757778
+                  ]
+            },
+            {
+                  "name": "Nararte",
+                  "text": "Nararte is a forested peak providing a natural habitat for local beekeeping in the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.758889
+                  ]
+            },
+            {
+                  "name": "‘Êli Dâba",
+                  "text": "‘Êli Dâba is a rocky mountain crest situated within the diverse ecosystem of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.638333,
+                        11.753056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aleïta",
+                  "text": "Eguer ‘Aleïta stands as a prominent elevation amidst the verdant landscapes of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.631944,
+                        11.759444
+                  ]
+            },
+            {
+                  "name": "Assa Guera",
+                  "text": "Assa Guera is a rugged summit offering sweeping views of the beekeeping regions of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.8
+                  ]
+            },
+            {
+                  "name": "Morne Noir",
+                  "text": "Morne Noir is a distinctively dark-hued mountain peak rising above the green slopes of the Goda Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.816667
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DJ-TA",
     coords: [42.680, 11.800],
@@ -868,7 +3109,88 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Apiculture", "Production de miel", "Montagnes de Goda"],
     }, image: "/poi-images/bienenwirtschaft-im-goda-gebirge-life-v2.webp"},
   {
-    id: "wildtiere-der-allols-senke-life-v2",
+    id: "wildtiere-der-allols-senke-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ardakôba",
+                  "text": "Der Gipfel des Ardakôba überblickt die Allols-Senke und bietet einen Aussichtspunkt über ein Gebiet, das von der lokalen Wüstenfauna frequentiert wird.",
+                  "category": "natural",
+                  "coords": [
+                        42.331111,
+                        11.969167
+                  ]
+            },
+            {
+                  "name": "Goroyyayto",
+                  "text": "Goroyyayto ist ein zerklüfteter Gipfel oberhalb der Allols-Senke, der verschiedenen trockenheitsangepassten Wildtierarten Schutz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.41376,
+                        12.084407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ardakôba",
+                  "text": "Az Ardakôba csúcsa az Allols-mélyföldre néz, kilátópontot nyújtva a helyi sivatagi vadvilág által látogatott területre.",
+                  "category": "natural",
+                  "coords": [
+                        42.331111,
+                        11.969167
+                  ]
+            },
+            {
+                  "name": "Goroyyayto",
+                  "text": "A Goroyyayto egy sziklás csúcs az Allols-mélyföld felett, amely különféle szárazságtűrő vadon élő állatoknak nyújt menedéket.",
+                  "category": "natural",
+                  "coords": [
+                        42.41376,
+                        12.084407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ardakôba",
+                  "text": "Vârful Ardakôba are vedere la depresiunea Allols, oferind un punct de observație asupra unei zone frecventate de fauna locală deșertică.",
+                  "category": "natural",
+                  "coords": [
+                        42.331111,
+                        11.969167
+                  ]
+            },
+            {
+                  "name": "Goroyyayto",
+                  "text": "Goroyyayto este un vârf stâncos situat deasupra depresiunii Allols, adăpostind diverse specii de animale sălbatice adaptate la ariditate.",
+                  "category": "natural",
+                  "coords": [
+                        42.41376,
+                        12.084407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ardakôba",
+                  "text": "The peak of Ardakôba overlooks the Allols depression, providing a vantage point over an area frequented by local desert wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        42.331111,
+                        11.969167
+                  ]
+            },
+            {
+                  "name": "Goroyyayto",
+                  "text": "Goroyyayto is a craggy summit standing above the Allols depression, sheltering diverse species of arid-adapted wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        42.41376,
+                        12.084407
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-TA",
     coords: [42.350, 12.050],
@@ -916,7 +3238,52 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Faune du désert", "Espèces uniques", "Dépression d'Allols"],
     }, image: "/poi-images/wildtiere-der-allols-senke-life-v2.webp"},
   {
-    id: "seevogelkolonie-von-doumera-life-v2",
+    id: "seevogelkolonie-von-doumera-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gabla",
+                  "text": "Ein Küstengipfel in der Nähe von Doumera, der einen felsigen Aussichtspunkt über die florierenden lokalen Seevogelkolonien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gabla",
+                  "text": "Egy tengerparti csúcs Doumera közelében, amely sziklás kilátópontot nyújt a virágzó helyi tengerimadár-kolóniákra.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gabla",
+                  "text": "Un vârf de coastă lângă Doumera, oferind un punct de observație stâncos asupra coloniilor locale înfloritoare de păsări marine.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gabla",
+                  "text": "A coastal peak near Doumera, offering a rocky vantage point over the thriving local seabird colonies.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DJ-OB",
     coords: [43.140, 12.710],

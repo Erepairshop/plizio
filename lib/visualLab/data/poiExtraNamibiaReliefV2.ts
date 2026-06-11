@@ -76,7 +76,124 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     
      image: "/poi-images/kalahari-desert-relief-v2.webp"},
   {
-    id: "brandberg-mountain-relief-v2",
+    id: "brandberg-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mason Shelter",
+                  "text": "Im Mason Shelter am Brandberg-Massiv finden sich antike San-Felsmalereien unter einem Felsüberhang.",
+                  "category": "historical",
+                  "coords": [
+                        14.594371,
+                        -21.083119
+                  ]
+            },
+            {
+                  "name": "Zisab-Spitze",
+                  "text": "Die Zisab-Spitze ist einer der markanten, kargen Gipfel im felsigen Brandberg-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        14.649722,
+                        -21.157635
+                  ]
+            },
+            {
+                  "name": "Königstein",
+                  "text": "Der Königstein ist der höchste Gipfel Namibias und erhebt sich majestätisch im Granitmassiv des Brandbergs.",
+                  "category": "natural",
+                  "coords": [
+                        14.577577,
+                        -21.148535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mason Shelter",
+                  "text": "A Brandberg-hegységben található Mason Shelter nevű sziklamenedék alatt ősi szan sziklafestmények láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        14.594371,
+                        -21.083119
+                  ]
+            },
+            {
+                  "name": "Zisab-Spitze",
+                  "text": "A Zisab-Spitze egyike a sziklás Brandberg-hegység jellegzetes, kopár csúcsainak.",
+                  "category": "natural",
+                  "coords": [
+                        14.649722,
+                        -21.157635
+                  ]
+            },
+            {
+                  "name": "Königstein",
+                  "text": "A Königstein Namíbia legmagasabb csúcsa, amely a Brandberg hatalmas gránittömbjében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        14.577577,
+                        -21.148535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mason Shelter",
+                  "text": "În Adăpostul Mason din masivul Brandberg se găsesc picturi rupestre San antice sub o surplombă stâncoasă.",
+                  "category": "historical",
+                  "coords": [
+                        14.594371,
+                        -21.083119
+                  ]
+            },
+            {
+                  "name": "Zisab-Spitze",
+                  "text": "Zisab-Spitze este unul dintre vârfurile aride și proeminente din masivul stâncos Brandberg.",
+                  "category": "natural",
+                  "coords": [
+                        14.649722,
+                        -21.157635
+                  ]
+            },
+            {
+                  "name": "Königstein",
+                  "text": "Königstein este cel mai înalt vârf din Namibia, înălțându-se impunător în masivul de granit Brandberg.",
+                  "category": "natural",
+                  "coords": [
+                        14.577577,
+                        -21.148535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mason Shelter",
+                  "text": "The Mason Shelter in the Brandberg Massif features ancient San rock paintings beneath a rocky overhang.",
+                  "category": "historical",
+                  "coords": [
+                        14.594371,
+                        -21.083119
+                  ]
+            },
+            {
+                  "name": "Zisab-Spitze",
+                  "text": "The Zisab-Spitze is one of the prominent, barren peaks in the rocky Brandberg mountain massif.",
+                  "category": "natural",
+                  "coords": [
+                        14.649722,
+                        -21.157635
+                  ]
+            },
+            {
+                  "name": "Königstein",
+                  "text": "Königstein is the highest peak in Namibia, rising majestically within the granite massif of the Brandberg.",
+                  "category": "natural",
+                  "coords": [
+                        14.577577,
+                        -21.148535
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-ER",
     coords: [14.56, -21.13],
@@ -158,7 +275,124 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     
      image: "/poi-images/spitzkoppe-relief-v2.webp"},
   {
-    id: "erongo-mountains-relief-v2",
+    id: "erongo-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "Dieser hoch gelegene Aussichtspunkt trägt den passenden Namen „Schöne Aussicht“ und enthüllt weitreichende Ausblicke über die Granitgipfel des Erongogebirges.",
+                  "category": "natural",
+                  "coords": [
+                        15.636149,
+                        -21.662373
+                  ]
+            },
+            {
+                  "name": "Singing Rock",
+                  "text": "Diese faszinierende Granitfelsformation im Erongogebirge erzeugt metallische Töne, wenn man sanft mit einem Stein darauf schlägt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698235,
+                        -21.638858
+                  ]
+            },
+            {
+                  "name": "Erongo Mountain Nature Sanctuary",
+                  "text": "Dieses zwischen massiven Granitfelsen eingebettete Schutzgebiet im Erongogebirge bewahrt zahlreiche uralte Felsmalereien der San.",
+                  "category": "natural",
+                  "coords": [
+                        15.693701,
+                        -21.614738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "A beszédes „Szép kilátás” nevet viselő magassági kilátópontról széles körkép nyílik az Erongo-hegység gránitcsúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        15.636149,
+                        -21.662373
+                  ]
+            },
+            {
+                  "name": "Singing Rock",
+                  "text": "Az Erongo-hegység ezen lenyűgöző gránitszikla-képződménye fémes hangokat ad ki, ha egy kővel finoman megütik.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698235,
+                        -21.638858
+                  ]
+            },
+            {
+                  "name": "Erongo Mountain Nature Sanctuary",
+                  "text": "Az Erongo-hegység hatalmas gránitsziklái között megbúvó menedékhely számos ősi szan sziklafestményt őriz.",
+                  "category": "natural",
+                  "coords": [
+                        15.693701,
+                        -21.614738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "Purtând numele potrivit de „Priveliște frumoasă”, acest punct de belvedere la mare altitudine dezvăluie perspective ample asupra vârfurilor de granit ale Munților Erongo.",
+                  "category": "natural",
+                  "coords": [
+                        15.636149,
+                        -21.662373
+                  ]
+            },
+            {
+                  "name": "Singing Rock",
+                  "text": "Această fascinantă formațiune stâncoasă de granit din Munții Erongo produce tonuri metalice atunci când este lovită ușor cu o piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698235,
+                        -21.638858
+                  ]
+            },
+            {
+                  "name": "Erongo Mountain Nature Sanctuary",
+                  "text": "Cuibărit printre bolovani masivi de granit în Munții Erongo, acest sanctuar păstrează numeroase picturi rupestre antice ale populației San.",
+                  "category": "natural",
+                  "coords": [
+                        15.693701,
+                        -21.614738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "Aptly named for its stunning panoramas, this high-altitude viewpoint reveals sweeping vistas across the massive granite peaks of the Erongo Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        15.636149,
+                        -21.662373
+                  ]
+            },
+            {
+                  "name": "Singing Rock",
+                  "text": "Found in the Erongo Mountains, this fascinating granite boulder formation produces metallic, ringing tones when gently struck with a stone.",
+                  "category": "landmark",
+                  "coords": [
+                        15.698235,
+                        -21.638858
+                  ]
+            },
+            {
+                  "name": "Erongo Mountain Nature Sanctuary",
+                  "text": "Nestled among massive granite boulders in the Erongo Mountains, this nature sanctuary protects numerous ancient San rock paintings scattered across the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.693701,
+                        -21.614738
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-ER",
     coords: [15.66, -21.66],
@@ -199,7 +433,52 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     
      image: "/poi-images/erongo-mountains-relief-v2.webp"},
   {
-    id: "auas-mountains-relief-v2",
+    id: "auas-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schildkröte",
+                  "text": "Als Teil der zerklüfteten Auasberge südöstlich von Windhoek bietet dieser bemerkenswerte Gipfel ein anspruchsvolles Wanderterrain, das von seinen Quarz- und Schiefergesteinsformationen geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.118433,
+                        -22.748629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schildkröte",
+                  "text": "A Windhoektól délkeletre fekvő, zord Auas-hegység részét képező kiemelkedő csúcs kihívást jelentő, kvarc- és palamészkő-képződményekkel jellemezhető túraterepet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.118433,
+                        -22.748629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schildkröte",
+                  "text": "Parte a lanțului muntos accidentat Auas la sud-est de Windhoek, acest vârf notabil oferă un teren de drumeție provocator caracterizat prin formațiunile sale de rocă de cuarț și șist.",
+                  "category": "natural",
+                  "coords": [
+                        17.118433,
+                        -22.748629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schildkröte",
+                  "text": "Part of the rugged Auas Mountains range southeast of Windhoek, this notable peak offers challenging hiking terrain characterized by its quartz and schist rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        17.118433,
+                        -22.748629
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-KH",
     coords: [17.16, -22.75],
@@ -322,7 +601,124 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     
      image: "/poi-images/waterberg-plateau-relief-v2.webp"},
   {
-    id: "fish-river-canyon-relief-v2",
+    id: "fish-river-canyon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Dieser Aussichtspunkt direkt am Canyonrand bietet bei Einbruch der Dunkelheit beeindruckende Farbenspiele auf den Felsen.",
+                  "category": "natural",
+                  "coords": [
+                        17.609035,
+                        -27.603749
+                  ]
+            },
+            {
+                  "name": "Fish River Canyon View Point",
+                  "text": "Dieser Hauptaussichtspunkt blickt hinab in das riesige, gewundene Flussbett des weltweiten Naturwunders.",
+                  "category": "natural",
+                  "coords": [
+                        17.610992,
+                        -27.596162
+                  ]
+            },
+            {
+                  "name": "Hiker's Viewpoint",
+                  "text": "Als beliebter Rastplatz für Wanderer bietet dieser Felsvorsprung dramatische Ausblicke in die tiefen Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        17.6061,
+                        -27.577788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "A kanyon peremén elhelyezkedő kilátó szürkületkor lenyűgöző színeket kínál, amelyek visszaverődnek a sziklákról.",
+                  "category": "natural",
+                  "coords": [
+                        17.609035,
+                        -27.603749
+                  ]
+            },
+            {
+                  "name": "Fish River Canyon View Point",
+                  "text": "Ebből a fő megfigyelőhelyből a globális természeti csoda hatalmas, kanyargó medrébe lehet letekinteni.",
+                  "category": "natural",
+                  "coords": [
+                        17.610992,
+                        -27.596162
+                  ]
+            },
+            {
+                  "name": "Hiker's Viewpoint",
+                  "text": "A túrázók körében népszerű pihenőhelyről drámai kilátás nyílik a mély szakadékokra.",
+                  "category": "natural",
+                  "coords": [
+                        17.6061,
+                        -27.577788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Poziționat perfect pe marginea canionului, acest punct de belvedere oferă culori izbitoare reflectate de stânci la amurg.",
+                  "category": "natural",
+                  "coords": [
+                        17.609035,
+                        -27.603749
+                  ]
+            },
+            {
+                  "name": "Fish River Canyon View Point",
+                  "text": "Această zonă principală de observație privește în jos spre albia vastă și șerpuitoare a minunii naturale globale.",
+                  "category": "natural",
+                  "coords": [
+                        17.610992,
+                        -27.596162
+                  ]
+            },
+            {
+                  "name": "Hiker's Viewpoint",
+                  "text": "Un loc de odihnă popular pentru drumeți, această margine oferă vederi dramatice către râpele adânci.",
+                  "category": "natural",
+                  "coords": [
+                        17.6061,
+                        -27.577788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Positioned perfectly along the canyon rim, this lookout offers striking colors reflecting off the rocks at dusk.",
+                  "category": "natural",
+                  "coords": [
+                        17.609035,
+                        -27.603749
+                  ]
+            },
+            {
+                  "name": "Fish River Canyon View Point",
+                  "text": "This primary observation area looks down into the vast, meandering riverbed of the global natural wonder.",
+                  "category": "natural",
+                  "coords": [
+                        17.610992,
+                        -27.596162
+                  ]
+            },
+            {
+                  "name": "Hiker's Viewpoint",
+                  "text": "A popular resting spot for trail walkers, this ledge offers dramatic views into the deep ravines.",
+                  "category": "natural",
+                  "coords": [
+                        17.6061,
+                        -27.577788
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "NA-KA",
     coords: [17.6, -27.6],
@@ -650,7 +1046,52 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     
      image: "/poi-images/otavi-mountains-relief-v2.webp"},
   {
-    id: "zebra-mountains-relief-v2",
+    id: "zebra-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ombombo Conservancy",
+                  "text": "Die Ombombo Conservancy in zebra-mountains-relief-v2 sichert ein raues, bergiges Terrain für die freilebende Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        14.005051,
+                        -17.853527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ombombo Conservancy",
+                  "text": "Az Ombombo Conservancy a zebra-mountains-relief-v2-ben egy zord, hegyvidéki terepet véd a vadon élő állatok számára.",
+                  "category": "natural",
+                  "coords": [
+                        14.005051,
+                        -17.853527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ombombo Conservancy",
+                  "text": "Rezervația Ombombo Conservancy protejează un teren muntos accidentat pentru viața sălbatică din zebra-mountains-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        14.005051,
+                        -17.853527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ombombo Conservancy",
+                  "text": "The Ombombo Conservancy safeguards a rugged, mountainous wilderness corridor for free-roaming wildlife in zebra-mountains-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        14.005051,
+                        -17.853527
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-KU",
     coords: [14.0, -17.8],
@@ -855,7 +1296,52 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     
      image: "/poi-images/epupa-falls-relief-v2.webp"},
   {
-    id: "khoe-khoe-mountains-relief-v2",
+    id: "khoe-khoe-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Otuzemba Conservancy",
+                  "text": "Dieses von der Gemeinde geführte Naturschutzgebiet konzentriert sich auf den Schutz der einheimischen Flora und der rauen Bergökosysteme der Region.",
+                  "category": "natural",
+                  "coords": [
+                        14.126131,
+                        -18.484662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otuzemba Conservancy",
+                  "text": "Ez a közösség által fenntartott vadvédelmi terület a régió őshonos növényvilágának és zord hegyi ökoszisztémáinak védelmére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        14.126131,
+                        -18.484662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otuzemba Conservancy",
+                  "text": "Această zonă de conservare a vieții sălbatice, administrată de comunitate, se concentrează pe protejarea florei indigene și a ecosistemelor montane accidentate din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        14.126131,
+                        -18.484662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otuzemba Conservancy",
+                  "text": "This community-run wildlife conservation area is focused on protecting indigenous flora and the rugged mountain ecosystems of the region.",
+                  "category": "natural",
+                  "coords": [
+                        14.126131,
+                        -18.484662
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NA-KU",
     coords: [14.2, -18.5],
@@ -937,7 +1423,52 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     
      image: "/poi-images/ongongo-relief-v2.webp"},
   {
-    id: "palmwag-concession-relief-v2",
+    id: "palmwag-concession-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Awaxas",
+                  "text": "Awaxas ist ein malerischer Aussichtspunkt, der inmitten der eisenreichen roten Steine des weiten Palmwag-Reliefs thront.",
+                  "category": "natural",
+                  "coords": [
+                        13.850858,
+                        -19.761178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Awaxas",
+                  "text": "Az Awaxas egy festői kilátó, amely a Palmwag-relief vörös, vasban gazdag kövei között magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        13.850858,
+                        -19.761178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Awaxas",
+                  "text": "Awaxas este un punct de observație pitoresc cocoțat printre pietrele roșii bogate în fier ale reliefului vast din Palmwag.",
+                  "category": "natural",
+                  "coords": [
+                        13.850858,
+                        -19.761178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Awaxas",
+                  "text": "Awaxas is a scenic lookout perched among the iron-rich red stones of the sweeping Palmwag relief.",
+                  "category": "natural",
+                  "coords": [
+                        13.850858,
+                        -19.761178
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "NA-KU",
     coords: [13.9, -19.8],

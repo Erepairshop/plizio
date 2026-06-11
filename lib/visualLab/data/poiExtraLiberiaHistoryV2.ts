@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const liberiaHistoryV2: POI[] = [
 
   {
-    id: "liberia-providence-island-history-v2",
+    id: "liberia-providence-island-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hotel Africa ruins",
+                  "text": "Die Ruinen des Hotel Africa sind eine verlassene architektonische Attraktion in liberia-providence-island-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.803571,
+                        6.389849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hotel Africa ruins",
+                  "text": "A Hotel Africa romjai egy elhagyatott építészeti látványosságot alkotnak liberia-providence-island-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.803571,
+                        6.389849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hotel Africa ruins",
+                  "text": "Ruinele Hotel Africa reprezintă o atracție arhitecturală abandonată din liberia-providence-island-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.803571,
+                        6.389849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hotel Africa ruins",
+                  "text": "The Hotel Africa ruins are an abandoned architectural attraction in liberia-providence-island-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.803571,
+                        6.389849
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "landmark",
     name: { de: "Providence Island", hu: "Providence-sziget", ro: "Insula Providence", en: "Providence Island" },
@@ -48,7 +93,52 @@ export const liberiaHistoryV2: POI[] = [
     image: "/poi-images/liberia-providence-island-history-v2.webp",
   },
   {
-    id: "liberia-centennial-pavilion-history-v2",
+    id: "liberia-centennial-pavilion-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "Dieses Museum in einem historischen Regierungsgebäude nahe dem Centennial Pavilion bewahrt das reiche kulturelle und künstlerische Erbe Liberias.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "A Centennial Pavilion közelében, egy egykori kormányzati épületben található múzeum Libéria gazdag kulturális és művészeti örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "Găzduit într-o fostă clădire guvernamentală istorică, acest muzeu de lângă Pavilionul Centenarului păstrează bogata moștenire culturală și artistică a Liberiei.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "Housed in a historic former government building, this museum near the Centennial Pavilion preserves Liberia's rich cultural and artistic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "monument",
     name: { de: "Centennial Pavilion", hu: "Centennial Pavilion", ro: "Centennial Pavilion", en: "Centennial Pavilion" },
@@ -93,7 +183,52 @@ export const liberiaHistoryV2: POI[] = [
     image: "/poi-images/liberia-centennial-pavilion-history-v2.webp",
   },
   {
-    id: "liberia-matilda-newport-statue-history-v2",
+    id: "liberia-matilda-newport-statue-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "Diese markante Brücke überquert den Mesurado-Fluss und verbindet Bushrod Island mit dem historischen Stadtzentrum von Monrovia.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "A Mesurado-folyót átívelő lenyűgöző híd Bushrod-szigetet köti össze Monrovia történelmi városközpontjával.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "Traversând râul Mesurado, acest pod proeminent leagă Insula Bushrod de centrul istoric al orașului Monrovia.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "Crossing the Mesurado River, this prominent bridge connects Bushrod Island to Monrovia's historic city centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320025
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "monument",
     name: { de: "Matilda Newport Statue", hu: "Matilda Newport-szobor", ro: "Statuia Matilda Newport", en: "Matilda Newport Statue" },

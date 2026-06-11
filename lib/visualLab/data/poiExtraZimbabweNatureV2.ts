@@ -53,7 +53,52 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     }
   },
   {
-    id: "in-yangani-nature-v2",
+    id: "in-yangani-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Nyangani",
+                  "text": "Dieser markante Gipfel ist der höchste Berg Simbabwes und bietet anspruchsvolle Wanderungen durch seine nebelverhangenen Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        32.841914,
+                        -18.301368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Nyangani",
+                  "text": "Ez a kiemelkedő csúcs Zimbabwe legmagasabb hegye, amely kihívást jelentő túrákat kínál a ködbe burkolózó lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        32.841914,
+                        -18.301368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Nyangani",
+                  "text": "Acest vârf proeminent este cel mai înalt munte din Zimbabwe, oferind drumeții provocatoare pe pantele sale învăluite în ceață.",
+                  "category": "natural",
+                  "coords": [
+                        32.841914,
+                        -18.301368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Nyangani",
+                  "text": "This prominent peak is the highest mountain in Zimbabwe, offering challenging hikes through its mist-shrouded slopes.",
+                  "category": "natural",
+                  "coords": [
+                        32.841914,
+                        -18.301368
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZW-MA",
     coords: [32.84, -18.29],
@@ -324,7 +369,52 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     },
   },
     {
-    id: "shashe-river-nature-v2",
+    id: "shashe-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maramani Wildlife Management Area",
+                  "text": "Dieses Naturschutzgebiet am Flussufer bietet Lebensraum für vielfältige Wildtiere und ermöglicht naturnahe Beobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        29.348732,
+                        -22.054099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maramani Wildlife Management Area",
+                  "text": "Ez a folyóparti természetvédelmi terület változatos vadvilágnak ad otthont, és lehetőséget nyújt a természetközeli megfigyelésekre.",
+                  "category": "natural",
+                  "coords": [
+                        29.348732,
+                        -22.054099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maramani Wildlife Management Area",
+                  "text": "Această zonă de conservare de pe malul râului oferă habitat pentru o varietate de specii sălbatice și permite observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        29.348732,
+                        -22.054099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maramani Wildlife Management Area",
+                  "text": "This riverside wildlife management area provides habitat for diverse wildlife and enables nature-based observation.",
+                  "category": "natural",
+                  "coords": [
+                        29.348732,
+                        -22.054099
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZW-MN",
     coords: [29.3, -22.1],
@@ -368,7 +458,124 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     },
   },
   {
-    id: "nyangani-forest-nature-v2",
+    id: "nyangani-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chawomera Fort",
+                  "text": "Diese Steinruinen im Nyangani-Wald sind Überreste alter Verteidigungsanlagen, die von den lokalen Einwohnern errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        32.752383,
+                        -18.265206
+                  ]
+            },
+            {
+                  "name": "Nyangwe Fort",
+                  "text": "Diese alte Steinfestung im Nyangani-Wald bietet einen weiten Blick über das umliegende Bergland.",
+                  "category": "landmark",
+                  "coords": [
+                        32.759148,
+                        -18.294228
+                  ]
+            },
+            {
+                  "name": "Nyanga National Park",
+                  "text": "Dieser malerische Nationalpark in den Eastern Highlands schützt sanfte Hügel, kaskadierende Wasserfälle und dichte Kiefernwälder.",
+                  "category": "natural",
+                  "coords": [
+                        32.789659,
+                        -18.301492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chawomera Fort",
+                  "text": "A Nyangani-erdőben megbúvó kőromok a helyi lakosok által épített ősi védelmi rendszerek maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        32.752383,
+                        -18.265206
+                  ]
+            },
+            {
+                  "name": "Nyangwe Fort",
+                  "text": "Ez az ősi kőerőd a Nyangani-erdőben lenyűgöző kilátást nyújt a környező hegyvidéki terepre.",
+                  "category": "landmark",
+                  "coords": [
+                        32.759148,
+                        -18.294228
+                  ]
+            },
+            {
+                  "name": "Nyanga National Park",
+                  "text": "Ez a festői nemzeti park a Keleti-felföldön lankás dombokat, zuhatagos vízeséseket és sűrű fenyőerdőket véd.",
+                  "category": "natural",
+                  "coords": [
+                        32.789659,
+                        -18.301492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chawomera Fort",
+                  "text": "Aceste ruine de piatră ascunse în pădurea Nyangani sunt rămășițele unor vechi structuri de apărare construite de locuitorii locali.",
+                  "category": "historical",
+                  "coords": [
+                        32.752383,
+                        -18.265206
+                  ]
+            },
+            {
+                  "name": "Nyangwe Fort",
+                  "text": "Această veche fortăreață de piatră din pădurea Nyangani oferă o vedere panoramică asupra terenului muntos înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        32.759148,
+                        -18.294228
+                  ]
+            },
+            {
+                  "name": "Nyanga National Park",
+                  "text": "Acest parc național pitoresc din Eastern Highlands protejează dealuri ondulate, cascade și păduri dense de pini.",
+                  "category": "natural",
+                  "coords": [
+                        32.789659,
+                        -18.301492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chawomera Fort",
+                  "text": "These stone ruins nestled in the Nyangani forest are remnants of ancient defensive structures built by local inhabitants.",
+                  "category": "historical",
+                  "coords": [
+                        32.752383,
+                        -18.265206
+                  ]
+            },
+            {
+                  "name": "Nyangwe Fort",
+                  "text": "This ancient stone fortress in the Nyangani forest provides sweeping views of the surrounding mountainous terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        32.759148,
+                        -18.294228
+                  ]
+            },
+            {
+                  "name": "Nyanga National Park",
+                  "text": "This scenic national park in the Eastern Highlands protects rolling hills, cascading waterfalls, and dense pine forests.",
+                  "category": "natural",
+                  "coords": [
+                        32.789659,
+                        -18.301492
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ZW-MA",
     coords: [32.8, -18.3],
@@ -651,7 +858,52 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       en: ["Near border with Mozambique", "Important for region", "Flows east"]
     }, image: "/poi-images/buzi-river-nature-v2.webp"},
   {
-    id: "nuanetsi-river-nature-v2",
+    id: "nuanetsi-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wright’s Tower",
+                  "text": "Eine Steinturmstruktur mit Blick auf die raue Landschaft des Nuanetsi-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        31.451354,
+                        -22.018365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wright’s Tower",
+                  "text": "Egy kőtoronyépítmény, amely a zord Nuanetsi folyó tájára néz.",
+                  "category": "landmark",
+                  "coords": [
+                        31.451354,
+                        -22.018365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wright’s Tower",
+                  "text": "O structură de turn din piatră cu vedere la peisajul accidentat al râului Nuanetsi.",
+                  "category": "landmark",
+                  "coords": [
+                        31.451354,
+                        -22.018365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wright’s Tower",
+                  "text": "A stone tower structure overlooking the rugged Nuanetsi River landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        31.451354,
+                        -22.018365
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ZW-MV",
     coords: [31.5, -22.0],
@@ -959,7 +1211,196 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     },
   },
   {
-    id: "bulawayo-hills-nature-v2",
+    id: "bulawayo-hills-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canella Gardens",
+                  "text": "Eine malerische, gepflegte Gartenanlage, die einen friedlichen Rückzugsort inmitten üppiger Flora bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.618152,
+                        -20.172225
+                  ]
+            },
+            {
+                  "name": "Nesbitt Castle",
+                  "text": "Dieses markante Schlossgebäude im neugotischen Stil liegt eingebettet in den malerischen Hügeln.",
+                  "category": "castle",
+                  "coords": [
+                        28.622609,
+                        -20.186889
+                  ]
+            },
+            {
+                  "name": "Bajoy blues",
+                  "text": "Ein malerischer Aussichtspunkt auf einem Hügel, der einen Panoramablick auf die natürliche Umgebung ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        28.567536,
+                        -20.207893
+                  ]
+            },
+            {
+                  "name": "Tshabalala Wildlife Sanctuary",
+                  "text": "In diesem ruhigen Naturschutzgebiet leben vielfältige einheimische Wildtiere der afrikanischen Savanne.",
+                  "category": "natural",
+                  "coords": [
+                        28.558039,
+                        -20.242871
+                  ]
+            },
+            {
+                  "name": "Water World Bulawayo",
+                  "text": "Ein lebhafter Wasserpark mit erfrischenden Pools und Rutschen für Familienausflüge.",
+                  "category": "recreational",
+                  "coords": [
+                        28.572792,
+                        -20.195161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canella Gardens",
+                  "text": "Egy festői, gondozott kert, amely békés menedéket kínál a buja növényzet között.",
+                  "category": "landmark",
+                  "coords": [
+                        28.618152,
+                        -20.172225
+                  ]
+            },
+            {
+                  "name": "Nesbitt Castle",
+                  "text": "Ez a feltűnő neogótikus stílusú kastélyépület a festői dombok között bújik meg.",
+                  "category": "castle",
+                  "coords": [
+                        28.622609,
+                        -20.186889
+                  ]
+            },
+            {
+                  "name": "Bajoy blues",
+                  "text": "Festői hegytetőn lévő kilátóhely, amely panorámás kilátást nyújt a természetes környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        28.567536,
+                        -20.207893
+                  ]
+            },
+            {
+                  "name": "Tshabalala Wildlife Sanctuary",
+                  "text": "Ebben a csendes természetvédelmi területen az afrikai szavanna sokféle őshonos vadon élő állata él.",
+                  "category": "natural",
+                  "coords": [
+                        28.558039,
+                        -20.242871
+                  ]
+            },
+            {
+                  "name": "Water World Bulawayo",
+                  "text": "Élénk vízi park frissítő medencékkel és csúszdákkal a családi kirándulásokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        28.572792,
+                        -20.195161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canella Gardens",
+                  "text": "O grădină pitorească și îngrijită, care oferă un refugiu liniștit în mijlocul florei luxuriante.",
+                  "category": "landmark",
+                  "coords": [
+                        28.618152,
+                        -20.172225
+                  ]
+            },
+            {
+                  "name": "Nesbitt Castle",
+                  "text": "Această clădire izbitoare de castel în stil neogotic este amplasată în dealurile pitorești.",
+                  "category": "castle",
+                  "coords": [
+                        28.622609,
+                        -20.186889
+                  ]
+            },
+            {
+                  "name": "Bajoy blues",
+                  "text": "Un punct de belvedere pitoresc pe vârful unui deal, care oferă vederi panoramice asupra peisajului natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        28.567536,
+                        -20.207893
+                  ]
+            },
+            {
+                  "name": "Tshabalala Wildlife Sanctuary",
+                  "text": "Această rezervație naturală liniștită găzduiește diverse specii de animale sălbatice native din savana africană.",
+                  "category": "natural",
+                  "coords": [
+                        28.558039,
+                        -20.242871
+                  ]
+            },
+            {
+                  "name": "Water World Bulawayo",
+                  "text": "Un parc acvatic plin de viață, cu piscine răcoritoare și tobogane pentru ieșirile în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        28.572792,
+                        -20.195161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canella Gardens",
+                  "text": "A scenic, manicured garden attraction providing a peaceful retreat amid lush flora.",
+                  "category": "landmark",
+                  "coords": [
+                        28.618152,
+                        -20.172225
+                  ]
+            },
+            {
+                  "name": "Nesbitt Castle",
+                  "text": "This striking Gothic-revival style castle building is nestled among the picturesque hills.",
+                  "category": "castle",
+                  "coords": [
+                        28.622609,
+                        -20.186889
+                  ]
+            },
+            {
+                  "name": "Bajoy blues",
+                  "text": "A scenic hilltop viewpoint offering panoramic vistas of the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.567536,
+                        -20.207893
+                  ]
+            },
+            {
+                  "name": "Tshabalala Wildlife Sanctuary",
+                  "text": "This tranquil nature reserve is home to diverse native wildlife species of the African savanna.",
+                  "category": "natural",
+                  "coords": [
+                        28.558039,
+                        -20.242871
+                  ]
+            },
+            {
+                  "name": "Water World Bulawayo",
+                  "text": "A lively water park featuring refreshing pools and slides for family outings.",
+                  "category": "recreational",
+                  "coords": [
+                        28.572792,
+                        -20.195161
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ZW-MN",
     coords: [28.6, -20.2],

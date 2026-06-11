@@ -120,7 +120,88 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       en: ["Bamenda's population has grown from 5,000 in 1950 to over 500,000 today.", "The city is located on a plateau at the end of the Western High Plateau range.", "It is the headquarters of the Northwest Region's Catholic and Presbyterian missions.", "The city's major commercial hub is the Main Market, one of the largest in Cameroon.", "Bamenda was originally a junction of trade routes between the forest and the savanna.", "The traditional garment 'Toghu' originated in this specific highland region.", "It is home to the University of Bamenda, a major higher education institution.", "The landscape is dotted with eucalyptus trees, introduced during the colonial era."],
     }, image: "/poi-images/cameroon-bamenda-cities-v2.webp"},
   {
-    id: "cameroon-maroua-cities-v2",
+    id: "cameroon-maroua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du Pont",
+                  "text": "Dieses Brückendenkmal, das in der Nähe einer zentralen Wasserstraße in Maroua steht, ehrt den lokalen Tiefbau und die historische Stadtentwicklung.",
+                  "category": "historical",
+                  "coords": [
+                        14.281,
+                        10.576645
+                  ]
+            },
+            {
+                  "name": "Car",
+                  "text": "Diese lokale Fahrzeugausstellung in Maroua präsentiert ein altes oder bedeutendes Automobil als faszinierenden Anziehungspunkt am Straßenrand.",
+                  "category": "landmark",
+                  "coords": [
+                        14.279023,
+                        10.572329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du Pont",
+                  "text": "A Maroua egyik központi vízi útja közelében álló híd-emlékmű a helyi mélyépítészet és a történelmi városfejlesztés előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        14.281,
+                        10.576645
+                  ]
+            },
+            {
+                  "name": "Car",
+                  "text": "Ez a helyi maroua-i járműkiállítás egy régi vagy jelentős autót mutat be, mint érdekes út menti látványosságot.",
+                  "category": "landmark",
+                  "coords": [
+                        14.279023,
+                        10.572329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du Pont",
+                  "text": "Aflat lângă o cale navigabilă centrală din Maroua, acest monument al podului onorează ingineria civilă locală și dezvoltarea urbană istorică.",
+                  "category": "historical",
+                  "coords": [
+                        14.281,
+                        10.576645
+                  ]
+            },
+            {
+                  "name": "Car",
+                  "text": "Această expoziție auto localizată din Maroua prezintă un automobil vechi sau semnificativ ca un punct de interes rutier intrigant.",
+                  "category": "landmark",
+                  "coords": [
+                        14.279023,
+                        10.572329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du Pont",
+                  "text": "Standing near a central waterway in Maroua, this bridge monument honors local civil engineering and historical urban development.",
+                  "category": "historical",
+                  "coords": [
+                        14.281,
+                        10.576645
+                  ]
+            },
+            {
+                  "name": "Car",
+                  "text": "This localized vehicular display in Maroua presents an old or significant automobile as an intriguing roadside point of interest.",
+                  "category": "landmark",
+                  "coords": [
+                        14.279023,
+                        10.572329
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CM-EN",
     coords: [14.3167, 10.5833],
@@ -149,7 +230,160 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       en: ["Maroua is known as the 'city of neem trees' due to its extensive urban forestation.", "The city is a strategic base for security operations in the Lake Chad basin.", "Maroua serves as a central market for ginger from the nearby mountainous areas.", "The University of Maroua is the only university in the Far North Region.", "Salak Airport, located south of Maroua, serves as the main air gateway.", "The city is a melting pot of over 20 different ethnic groups.", "Maroua's leather tanneries use centuries-old traditional methods.", "The city is located in the Diamare plain, which is highly fertile for millet and sorghum."],
     }, image: "/poi-images/cameroon-maroua-cities-v2.webp"},
   {
-    id: "cameroon-bafoussam-cities-v2",
+    id: "cameroon-bafoussam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "Dieses Denkmal zum 50. Jahrestag ist ein markantes Wahrzeichen in der Stadt Bafoussam.",
+                  "category": "historical",
+                  "coords": [
+                        10.420189,
+                        5.471983
+                  ]
+            },
+            {
+                  "name": "Monument Wanko",
+                  "text": "Das Wanko-Denkmal ist eine lokale Gedenkstätte im Stadtgebiet von Bafoussam.",
+                  "category": "historical",
+                  "coords": [
+                        10.422505,
+                        5.469194
+                  ]
+            },
+            {
+                  "name": "Office Régional du Tourisme de l'Ouest",
+                  "text": "Dieses regionale Tourismusbüro in Bafoussam fungiert als kultureller Knotenpunkt für die Westregion Kameruns.",
+                  "category": "cultural",
+                  "coords": [
+                        10.41837,
+                        5.470579
+                  ]
+            },
+            {
+                  "name": "Chefferie Supérieure de Bafoussam",
+                  "text": "Die Chefferie Supérieure ist ein traditionelles Bamileke-Häuptlingstum und eine wichtige Kulturerbestätte in Bafoussam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.424867,
+                        5.467922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "Ez az 50. évfordulóra emelt emlékmű Bafoussam városának egyik jelentős nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        10.420189,
+                        5.471983
+                  ]
+            },
+            {
+                  "name": "Monument Wanko",
+                  "text": "A Wanko-emlékmű egy helyi emlékhely Bafoussam városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.422505,
+                        5.469194
+                  ]
+            },
+            {
+                  "name": "Office Régional du Tourisme de l'Ouest",
+                  "text": "A Bafoussamban található regionális turisztikai iroda a nyugati régió kulturális központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        10.41837,
+                        5.470579
+                  ]
+            },
+            {
+                  "name": "Chefferie Supérieure de Bafoussam",
+                  "text": "A Chefferie Supérieure egy hagyományos bamileke törzsfőnökség és fontos kulturális örökségvédelmi helyszín Bafoussamban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.424867,
+                        5.467922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "Acest monument comemorativ al celei de-a 50-a aniversări este un punct de reper notabil în Bafoussam.",
+                  "category": "historical",
+                  "coords": [
+                        10.420189,
+                        5.471983
+                  ]
+            },
+            {
+                  "name": "Monument Wanko",
+                  "text": "Monumentul Wanko este o structură comemorativă locală situată în orașul Bafoussam.",
+                  "category": "historical",
+                  "coords": [
+                        10.422505,
+                        5.469194
+                  ]
+            },
+            {
+                  "name": "Office Régional du Tourisme de l'Ouest",
+                  "text": "Acest birou regional de turism din Bafoussam funcționează ca un centru cultural pentru Regiunea de Vest.",
+                  "category": "cultural",
+                  "coords": [
+                        10.41837,
+                        5.470579
+                  ]
+            },
+            {
+                  "name": "Chefferie Supérieure de Bafoussam",
+                  "text": "Chefferie Supérieure este o căpetenie tradițională Bamileke și un important sit de patrimoniu cultural din Bafoussam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.424867,
+                        5.467922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du Cinquantenaire",
+                  "text": "This commemorative 50th-anniversary monument is a notable landmark standing in Bafoussam.",
+                  "category": "historical",
+                  "coords": [
+                        10.420189,
+                        5.471983
+                  ]
+            },
+            {
+                  "name": "Monument Wanko",
+                  "text": "Monument Wanko is a local memorial structure situated in the city of Bafoussam.",
+                  "category": "historical",
+                  "coords": [
+                        10.422505,
+                        5.469194
+                  ]
+            },
+            {
+                  "name": "Office Régional du Tourisme de l'Ouest",
+                  "text": "Serving the West Region, this regional tourism office and cultural hub is located in Bafoussam.",
+                  "category": "cultural",
+                  "coords": [
+                        10.41837,
+                        5.470579
+                  ]
+            },
+            {
+                  "name": "Chefferie Supérieure de Bafoussam",
+                  "text": "The Chefferie Supérieure is a traditional Bamileke chiefdom and important cultural heritage site in Bafoussam.",
+                  "category": "landmark",
+                  "coords": [
+                        10.424867,
+                        5.467922
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CM-OU",
     coords: [10.4167, 5.4667],
@@ -989,7 +1223,88 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-dschang-cities-v2.webp"},
   {
-    id: "cameroon-nkongsamba-cities-v2",
+    id: "cameroon-nkongsamba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrefour Jean 23",
+                  "text": "Am Carrefour Jean 23 befindet sich ein Denkmal für Papst Johannes XXIII. an einer markanten Kreuzung in Nkongsamba.",
+                  "category": "historical",
+                  "coords": [
+                        9.943843,
+                        4.948592
+                  ]
+            },
+            {
+                  "name": "Carrefour Oumarou",
+                  "text": "Der Carrefour Oumarou ist ein lokales Denkmal an einer belebten Kreuzung in Nkongsamba.",
+                  "category": "historical",
+                  "coords": [
+                        9.933473,
+                        4.943279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrefour Jean 23",
+                  "text": "A Carrefour Jean 23 egy XXIII. János pápának szentelt emlékművet rejt egy forgalmas nkongsambai kereszteződésben.",
+                  "category": "historical",
+                  "coords": [
+                        9.943843,
+                        4.948592
+                  ]
+            },
+            {
+                  "name": "Carrefour Oumarou",
+                  "text": "A Carrefour Oumarou egy helyi emlékmű Nkongsamba egyik forgalmas útkereszteződésében.",
+                  "category": "historical",
+                  "coords": [
+                        9.933473,
+                        4.943279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrefour Jean 23",
+                  "text": "Carrefour Jean 23 găzduiește un monument dedicat Papei Ioan al XXIII-lea, situat la o intersecție importantă din Nkongsamba.",
+                  "category": "historical",
+                  "coords": [
+                        9.943843,
+                        4.948592
+                  ]
+            },
+            {
+                  "name": "Carrefour Oumarou",
+                  "text": "Carrefour Oumarou este un monument local situat la o intersecție aglomerată din Nkongsamba.",
+                  "category": "historical",
+                  "coords": [
+                        9.933473,
+                        4.943279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrefour Jean 23",
+                  "text": "Carrefour Jean 23 features a monument dedicated to Pope John XXIII, located at a prominent intersection in Nkongsamba.",
+                  "category": "historical",
+                  "coords": [
+                        9.943843,
+                        4.948592
+                  ]
+            },
+            {
+                  "name": "Carrefour Oumarou",
+                  "text": "The Carrefour Oumarou is a local monument situated at a lively crossroads in Nkongsamba.",
+                  "category": "historical",
+                  "coords": [
+                        9.933473,
+                        4.943279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-LT",
     coords: [9.9333, 4.95],
@@ -1311,7 +1626,196 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       fr: [],}
   },
   {
-    id: "cameroon-bafia-cities-v2",
+    id: "cameroon-bafia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du Lion",
+                  "text": "Das Löwendenkmal ist eine ikonische Statue in Bafia, die Stärke symbolisiert und als zentraler Treffpunkt für Einheimische in der Stadt dient.",
+                  "category": "historical",
+                  "coords": [
+                        11.23265,
+                        4.755657
+                  ]
+            },
+            {
+                  "name": "carrefour enregistré",
+                  "text": "Der Carrefour enregistré fungiert als belebter städtischer Aussichtspunkt in Bafia und bietet Besuchern einen lebendigen Ausschnitt des täglichen Straßenlebens und des lokalen Handels.",
+                  "category": "natural",
+                  "coords": [
+                        11.244217,
+                        4.751753
+                  ]
+            },
+            {
+                  "name": "Sous-Préfecture",
+                  "text": "Die Sous-Préfecture in Bafia ist ein wichtiges Verwaltungsgebäude, dessen formale Architektur die staatliche Organisation der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.229311,
+                        4.76052
+                  ]
+            },
+            {
+                  "name": "Ancien Palais de Justice",
+                  "text": "Der Ancien Palais de Justice in Bafia ist ein historisches Gerichtsgebäude, das als Zeugnis des frühen Justizsystems der Stadt steht.",
+                  "category": "landmark",
+                  "coords": [
+                        11.230859,
+                        4.755072
+                  ]
+            },
+            {
+                  "name": "Ancien Villa Français",
+                  "text": "Die Ancien Villa Français in Bafia ist ein Überbleibsel der Kolonialzeit und zeigt traditionelle französische Architekturelemente, die an das tropische Klima angepasst wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        11.22957,
+                        4.75252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du Lion",
+                  "text": "Az Oroszlán-emlékmű egy ikonikus szobor Bafiában, amely az erőt szimbolizálja, és a helyiek központi találkozóhelyeként szolgál a városban.",
+                  "category": "historical",
+                  "coords": [
+                        11.23265,
+                        4.755657
+                  ]
+            },
+            {
+                  "name": "carrefour enregistré",
+                  "text": "A Carrefour enregistré egy nyüzsgő városi kilátópontként működik Bafiában, amely élénk bepillantást nyújt a látogatóknak a mindennapi utcai életbe és a helyi kereskedelembe.",
+                  "category": "natural",
+                  "coords": [
+                        11.244217,
+                        4.751753
+                  ]
+            },
+            {
+                  "name": "Sous-Préfecture",
+                  "text": "A bafiai Sous-Préfecture egy kulcsfontosságú közigazgatási épület, amelynek formális építészete a régió kormányzati szervezetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.229311,
+                        4.76052
+                  ]
+            },
+            {
+                  "name": "Ancien Palais de Justice",
+                  "text": "A bafiai Ancien Palais de Justice egy történelmi bírósági épület, amely a város korai igazságszolgáltatási rendszerének bizonyítékaként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        11.230859,
+                        4.755072
+                  ]
+            },
+            {
+                  "name": "Ancien Villa Français",
+                  "text": "A bafiai Ancien Villa Français a gyarmati korszak maradványa, amely a trópusi éghajlathoz igazodó hagyományos francia építészeti elemeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        11.22957,
+                        4.75252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du Lion",
+                  "text": "Monumentul Leului este o statuie emblematică în Bafia, care simbolizează puterea și servește drept punct central de întâlnire pentru localnicii din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        11.23265,
+                        4.755657
+                  ]
+            },
+            {
+                  "name": "carrefour enregistré",
+                  "text": "Carrefour enregistré funcționează ca un punct de belvedere urban plin de viață în Bafia, oferind vizitatorilor o felie vie din viața de stradă de zi cu zi și din comerțul local.",
+                  "category": "natural",
+                  "coords": [
+                        11.244217,
+                        4.751753
+                  ]
+            },
+            {
+                  "name": "Sous-Préfecture",
+                  "text": "Sous-Préfecture din Bafia este o clădire administrativă cheie a cărei arhitectură formală reflectă organizarea guvernamentală a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        11.229311,
+                        4.76052
+                  ]
+            },
+            {
+                  "name": "Ancien Palais de Justice",
+                  "text": "Ancien Palais de Justice din Bafia este o clădire istorică a tribunalului care stă ca o mărturie a sistemului judiciar timpuriu al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        11.230859,
+                        4.755072
+                  ]
+            },
+            {
+                  "name": "Ancien Villa Français",
+                  "text": "Ancien Villa Français din Bafia este o rămășiță a epocii coloniale, prezentând elemente arhitecturale tradiționale franceze adaptate la climatul tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        11.22957,
+                        4.75252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du Lion",
+                  "text": "The Monument du Lion is an iconic statue in Bafia, symbolizing strength and serving as a central meeting point for locals in the city.",
+                  "category": "historical",
+                  "coords": [
+                        11.23265,
+                        4.755657
+                  ]
+            },
+            {
+                  "name": "carrefour enregistré",
+                  "text": "Carrefour enregistré functions as a bustling urban viewpoint in Bafia, offering visitors a vivid slice of daily street life and local commerce.",
+                  "category": "natural",
+                  "coords": [
+                        11.244217,
+                        4.751753
+                  ]
+            },
+            {
+                  "name": "Sous-Préfecture",
+                  "text": "The Sous-Préfecture in Bafia is a key administrative building whose formal architecture reflects the region's governmental organization.",
+                  "category": "landmark",
+                  "coords": [
+                        11.229311,
+                        4.76052
+                  ]
+            },
+            {
+                  "name": "Ancien Palais de Justice",
+                  "text": "Bafia's Ancien Palais de Justice is a historical courthouse building that stands as a testament to the city's early judicial system.",
+                  "category": "landmark",
+                  "coords": [
+                        11.230859,
+                        4.755072
+                  ]
+            },
+            {
+                  "name": "Ancien Villa Français",
+                  "text": "The Ancien Villa Français in Bafia is a remnant of the colonial era, showcasing traditional French architectural elements adapted to the tropical climate.",
+                  "category": "landmark",
+                  "coords": [
+                        11.22957,
+                        4.75252
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-CE",
     coords: [11.2333, 4.75],
@@ -1625,7 +2129,124 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-tibati-cities-v2.webp"},
   {
-    id: "cameroon-bafang-cities-v2",
+    id: "cameroon-bafang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrefour Babone",
+                  "text": "Carrefour Babone ist eine belebte Kreuzung, die lokale Aussichtspunkte innerhalb der Stadt Bafang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.176349,
+                        5.126527
+                  ]
+            },
+            {
+                  "name": "MORGUE Banka",
+                  "text": "Diese lokale Einrichtung im Bezirk Banka von Bafang ist als regionaler Orientierungspunkt verzeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.19317,
+                        5.1648
+                  ]
+            },
+            {
+                  "name": "Chefferie Bafang",
+                  "text": "Die Chefferie Bafang ist ein traditionelles Kulturzentrum und Häuptlingstum innerhalb der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.157087,
+                        5.153828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrefour Babone",
+                  "text": "A Carrefour Babone egy forgalmas útkereszteződés, amely helyi kilátást nyújt Bafang városára.",
+                  "category": "natural",
+                  "coords": [
+                        10.176349,
+                        5.126527
+                  ]
+            },
+            {
+                  "name": "MORGUE Banka",
+                  "text": "A Bafang Banka negyedében található helyi létesítmény regionális tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        10.19317,
+                        5.1648
+                  ]
+            },
+            {
+                  "name": "Chefferie Bafang",
+                  "text": "A Chefferie Bafang egy hagyományos kulturális központ és törzsfőnökség a városon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        10.157087,
+                        5.153828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrefour Babone",
+                  "text": "Carrefour Babone este o intersecție aglomerată care oferă puncte de belvedere locale în orașul Bafang.",
+                  "category": "natural",
+                  "coords": [
+                        10.176349,
+                        5.126527
+                  ]
+            },
+            {
+                  "name": "MORGUE Banka",
+                  "text": "Situată în districtul Banka din Bafang, această unitate locală este menționată ca un punct de reper regional.",
+                  "category": "landmark",
+                  "coords": [
+                        10.19317,
+                        5.1648
+                  ]
+            },
+            {
+                  "name": "Chefferie Bafang",
+                  "text": "Chefferie Bafang este un complex cultural și o căpetenie tradițională situată în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        10.157087,
+                        5.153828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrefour Babone",
+                  "text": "Carrefour Babone is a busy crossroads offering local viewpoints within the city of Bafang.",
+                  "category": "natural",
+                  "coords": [
+                        10.176349,
+                        5.126527
+                  ]
+            },
+            {
+                  "name": "MORGUE Banka",
+                  "text": "Situated in the Banka district of Bafang, this local facility is noted as a regional point of interest.",
+                  "category": "landmark",
+                  "coords": [
+                        10.19317,
+                        5.1648
+                  ]
+            },
+            {
+                  "name": "Chefferie Bafang",
+                  "text": "The Chefferie Bafang is a traditional cultural compound and chieftaincy located in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        10.157087,
+                        5.153828
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-OU",
     coords: [10.1833, 5.15],

@@ -1507,7 +1507,52 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "tera-cities-v2",
+    id: "tera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais Royal",
+                  "text": "Dieser historische königliche Palast ist eine bedeutende Burgstruktur in der Stadt Téra.",
+                  "category": "castle",
+                  "coords": [
+                        0.753399,
+                        14.008489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais Royal",
+                  "text": "Ez a történelmi királyi palota egy jelentős kastélyépület Téra városában.",
+                  "category": "castle",
+                  "coords": [
+                        0.753399,
+                        14.008489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais Royal",
+                  "text": "Acest palat regal istoric este o structură de castel importantă în orașul Téra.",
+                  "category": "castle",
+                  "coords": [
+                        0.753399,
+                        14.008489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais Royal",
+                  "text": "This historic royal palace is a prominent castle structure in the city of Téra.",
+                  "category": "castle",
+                  "coords": [
+                        0.753399,
+                        14.008489
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-6",
     coords: [0.7531, 14.0078],

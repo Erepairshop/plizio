@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraZimbabweLandmarksV2: POI[] = [
   {
-    id: "national-sports-stadium-landmarks-v2",
+    id: "national-sports-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of African liberation",
+                  "text": "Dieser Museumskomplex in der Nähe des Nationalstadions dokumentiert die historischen Unabhängigkeitskämpfe des Kontinents.",
+                  "category": "museum",
+                  "coords": [
+                        30.982357,
+                        -17.824064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of African liberation",
+                  "text": "A Nemzeti Sportstadion közelében található múzeumkomplexum a kontinens függetlenségért folytatott történelmi küzdelmeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        30.982357,
+                        -17.824064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of African liberation",
+                  "text": "Situat lângă Stadionul Sportiv Național, acest complex muzeal documentează luptele istorice pentru independență ale continentului.",
+                  "category": "museum",
+                  "coords": [
+                        30.982357,
+                        -17.824064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of African liberation",
+                  "text": "Located near the National Sports Stadium, this museum complex documents the continent's historical struggles for independence.",
+                  "category": "museum",
+                  "coords": [
+                        30.982357,
+                        -17.824064
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [30.9822, -17.8203],
@@ -63,7 +108,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "rufaro-stadium-landmarks-v2",
+    id: "rufaro-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Star FM",
+                  "text": "Das Gebäude von Star FM in rufaro-stadium-landmarks-v2 beherbergt ein modernes Zentrum für Live-Unterhaltung und Vorführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.022286,
+                        -17.867895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Star FM",
+                  "text": "A rufaro-stadium-landmarks-v2-ben található Star FM épülete egy modern központnak ad otthont az élő előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        31.022286,
+                        -17.867895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Star FM",
+                  "text": "Clădirea Star FM din rufaro-stadium-landmarks-v2 găzduiește un centru modern de divertisment și spectacole live.",
+                  "category": "cultural",
+                  "coords": [
+                        31.022286,
+                        -17.867895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Star FM",
+                  "text": "The Star FM facility in rufaro-stadium-landmarks-v2 operates as a contemporary theater space for live broadcasts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        31.022286,
+                        -17.867895
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0333, -17.8639],
@@ -123,7 +213,88 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "barbourfields-stadium-landmarks-v2",
+    id: "barbourfields-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "114",
+                  "text": "Ein gekennzeichneter, nummerierter Ort von Interesse in der Nähe des markanten Sportstadions.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500487,
+                        -20.100555
+                  ]
+            },
+            {
+                  "name": "Esporeni Outdoor Market",
+                  "text": "Ein lebhafter Freiluftmarkt mit Außenständen, an denen in der Nähe des örtlichen Stadions Waren verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        28.506234,
+                        -20.100138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "114",
+                  "text": "Kijelölt, számmal ellátott érdekes pont a kiemelkedő sportstadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500487,
+                        -20.100555
+                  ]
+            },
+            {
+                  "name": "Esporeni Outdoor Market",
+                  "text": "Nyüzsgő szabadtéri piac utcai standokkal, ahol a helyi stadion közelében árulnak termékeket.",
+                  "category": "landmark",
+                  "coords": [
+                        28.506234,
+                        -20.100138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "114",
+                  "text": "Un punct de interes numerotat situat în apropierea stadionului sportiv proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500487,
+                        -20.100555
+                  ]
+            },
+            {
+                  "name": "Esporeni Outdoor Market",
+                  "text": "O piață în aer liber plină de viață, cu tarabe exterioare care vând bunuri în apropierea stadionului local.",
+                  "category": "landmark",
+                  "coords": [
+                        28.506234,
+                        -20.100138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "114",
+                  "text": "A designated numbered point of interest located near the prominent sports stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500487,
+                        -20.100555
+                  ]
+            },
+            {
+                  "name": "Esporeni Outdoor Market",
+                  "text": "A lively open-air marketplace with outdoor stalls selling goods near the local stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        28.506234,
+                        -20.100138
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-BU",
     coords: [28.5622, -20.1264],
@@ -183,7 +354,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "reserve-bank-tower-landmarks-v2",
+    id: "reserve-bank-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gas",
+                  "text": "Dieser lokale Versorgungspunkt befindet sich im städtischen Zentrum unweit des markanten Reserve Bank Tower.",
+                  "category": "landmark",
+                  "coords": [
+                        31.046255,
+                        -17.827987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gas",
+                  "text": "Ez a helyi közműpont a városközpontban található, nem messze a kiemelkedő Reserve Bank Toronytól.",
+                  "category": "landmark",
+                  "coords": [
+                        31.046255,
+                        -17.827987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gas",
+                  "text": "Acest punct local de utilități se găsește în centrul urban, nu departe de proeminentul Turn al Băncii de Rezerve.",
+                  "category": "landmark",
+                  "coords": [
+                        31.046255,
+                        -17.827987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gas",
+                  "text": "This local utility point is found in the urban center not far from the prominent Reserve Bank Tower.",
+                  "category": "landmark",
+                  "coords": [
+                        31.046255,
+                        -17.827987
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0494, -17.8286],
@@ -300,7 +516,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kariba-dam-landmarks-v2",
+    id: "kariba-dam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dam wall viewpoint & curios",
+                  "text": "Dieser Aussichtspunkt blickt auf die kolossale Betonstruktur der Kariba-Staumauer und bietet lokale Handwerksstände.",
+                  "category": "natural",
+                  "coords": [
+                        28.766651,
+                        -16.523163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dam wall viewpoint & curios",
+                  "text": "Erről a kilátópontról a Kariba-gát hatalmas betonfalára nyílik kilátás, és helyi kézműves standok is találhatók itt.",
+                  "category": "natural",
+                  "coords": [
+                        28.766651,
+                        -16.523163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dam wall viewpoint & curios",
+                  "text": "Acest punct de observație oferă o vedere asupra structurii colosale de beton a barajului Kariba și dispune de tarabe cu suveniruri.",
+                  "category": "natural",
+                  "coords": [
+                        28.766651,
+                        -16.523163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dam wall viewpoint & curios",
+                  "text": "This vantage point overlooks the colossal concrete structure of the Kariba Dam wall and features local craft stalls.",
+                  "category": "natural",
+                  "coords": [
+                        28.766651,
+                        -16.523163
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-MW",
     coords: [28.7619, -16.5222],
@@ -357,7 +618,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "joina-city-landmarks-v2",
+    id: "joina-city-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "AIRFORCE",
+                  "text": "Diese spezielle Einrichtung oder dieses Büro befindet sich in der belebten Geschäftsumgebung des Joina-City-Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043193,
+                        -17.833161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AIRFORCE",
+                  "text": "Ez a különleges létesítmény vagy iroda a Joina City komplexum nyüzsgő kereskedelmi körzetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043193,
+                        -17.833161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AIRFORCE",
+                  "text": "Această instalație sau birou specific este situat în vecinătatea comercială plină de viață a complexului Joina City.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043193,
+                        -17.833161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AIRFORCE",
+                  "text": "This specific installation or office is located in the bustling commercial vicinity of the Joina City complex.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043193,
+                        -17.833161
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0475, -17.8317],
@@ -417,7 +723,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "birchenough-bridge-landmarks-v2",
+    id: "birchenough-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Birchenough Bridge",
+                  "text": "Die Birchenough Bridge ist eine markante, stählerne Bogenbrücke, die in einem weiten Bogen den Save-Fluss in Simbabwe überspannt.",
+                  "category": "natural",
+                  "coords": [
+                        32.344043,
+                        -19.962063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Birchenough Bridge",
+                  "text": "A Birchenough Bridge egy feltűnő acél ívhíd, amely széles ívben ível át a zimbabwei Save folyón.",
+                  "category": "natural",
+                  "coords": [
+                        32.344043,
+                        -19.962063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Birchenough Bridge",
+                  "text": "Birchenough Bridge este un pod arcuit izbitor din oțel, care se întinde printr-un arc larg peste râul Save din Zimbabwe.",
+                  "category": "natural",
+                  "coords": [
+                        32.344043,
+                        -19.962063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Birchenough Bridge",
+                  "text": "The Birchenough Bridge is a striking steel arch bridge that dramatically spans the Save River in Zimbabwe.",
+                  "category": "natural",
+                  "coords": [
+                        32.344043,
+                        -19.962063
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-MA",
     coords: [32.3333, -19.9667],
@@ -474,7 +825,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "harare-hicc-landmarks-v2",
+    id: "harare-hicc-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "3D Fitment Centre",
+                  "text": "Diese Autowerkstatt liegt verkehrsgünstig in der Nähe des hoch aufragenden Harare International Conference Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        31.008658,
+                        -17.817908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "3D Fitment Centre",
+                  "text": "Ez az autószerviz kényelmesen helyezkedik el a Harare Nemzetközi Konferenciaközpont tornyosuló épülete közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.008658,
+                        -17.817908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "3D Fitment Centre",
+                  "text": "Acest garaj de servicii auto este situat convenabil lângă structura impunătoare a Centrului Internațional de Conferințe din Harare.",
+                  "category": "landmark",
+                  "coords": [
+                        31.008658,
+                        -17.817908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "3D Fitment Centre",
+                  "text": "This automotive service garage is conveniently located near the towering structure of the Harare International Conference Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        31.008658,
+                        -17.817908
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0319, -17.8283],
@@ -654,7 +1050,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bulawayo-city-hall-landmarks-v2",
+    id: "bulawayo-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint Mary's Cathedral Basilica",
+                  "text": "Diese bedeutende Kathedrale und Basilika zeichnet sich durch ihre neugotische Architektur und farbigen Glasfenster aus.",
+                  "category": "religious",
+                  "coords": [
+                        28.577935,
+                        -20.155048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Mary's Cathedral Basilica",
+                  "text": "Ez a jelentős székesegyház és bazilika neogótikus építészetével és színes üvegablakaival tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        28.577935,
+                        -20.155048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Mary's Cathedral Basilica",
+                  "text": "Această catedrală și bazilică importantă se remarcă prin arhitectura sa neogotică și vitraliile colorate.",
+                  "category": "religious",
+                  "coords": [
+                        28.577935,
+                        -20.155048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Mary's Cathedral Basilica",
+                  "text": "This prominent cathedral basilica stands out with its neo-Gothic architecture and stained glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        28.577935,
+                        -20.155048
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-BU",
     coords: [28.5808, -20.1556],
@@ -714,7 +1155,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "new-parliament-building-landmarks-v2",
+    id: "new-parliament-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prawell Bricks",
+                  "text": "Dieser Ziegelherstellungsbetrieb befindet sich in der Nähe der modernen architektonischen Entwicklung des neuen Parlamentsgebäudes.",
+                  "category": "landmark",
+                  "coords": [
+                        30.9502,
+                        -17.698669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prawell Bricks",
+                  "text": "Ez a téglagyártó üzem az új parlamenti épület modern építészeti fejlesztése közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        30.9502,
+                        -17.698669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prawell Bricks",
+                  "text": "Această fabrică de cărămizi este situată în apropierea dezvoltării arhitecturale moderne a noii clădiri a Parlamentului.",
+                  "category": "landmark",
+                  "coords": [
+                        30.9502,
+                        -17.698669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prawell Bricks",
+                  "text": "This brickmaking operation is situated near the modern architectural development of the New Parliament Building.",
+                  "category": "landmark",
+                  "coords": [
+                        30.9502,
+                        -17.698669
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-MW",
     coords: [30.9500, -17.7000],
@@ -774,7 +1260,736 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sam-levys-village-landmarks-v2",
+    id: "sam-levys-village-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bako House",
+                  "text": "Eine Attraktion in der Nähe des Komplexes Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.114585,
+                        -17.682572
+                  ]
+            },
+            {
+                  "name": "Shawane Home",
+                  "text": "Eine lokale Attraktion im Wohnstil in der Nähe von Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.115143,
+                        -17.685526
+                  ]
+            },
+            {
+                  "name": "Gabela Busstop",
+                  "text": "Eine bemerkenswerte verkehrsbezogene Attraktion in der Nähe von Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.108769,
+                        -17.676818
+                  ]
+            },
+            {
+                  "name": "Mt Pleasant Meering house",
+                  "text": "Ein lokales Versammlungshaus, das der Gemeinde in der Nähe von Sam Levy's Village dient.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049152,
+                        -17.770633
+                  ]
+            },
+            {
+                  "name": "Old Stables Market",
+                  "text": "Eine lebhafte Marktattraktion in umgebauten Ställen in der Nähe von Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088653,
+                        -17.779431
+                  ]
+            },
+            {
+                  "name": "Point 2",
+                  "text": "Ein ausgewiesener Beobachtungspunkt mit Blick auf die Umgebung von Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.067339,
+                        -17.77477
+                  ]
+            },
+            {
+                  "name": "Tongai Home Tern Ave",
+                  "text": "Eine spezifische lokale Attraktion in der Tern Ave nahe Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.066937,
+                        -17.764998
+                  ]
+            },
+            {
+                  "name": "Point 1",
+                  "text": "Ein malerischer Aussichtspunkt, der Perspektiven auf die Landschaft rund um Sam Levy's Village bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.072997,
+                        -17.774216
+                  ]
+            },
+            {
+                  "name": "View point 1",
+                  "text": "Ein Aussichtspunkt mit klarem Blick auf die Umgebung von Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.075184,
+                        -17.770404
+                  ]
+            },
+            {
+                  "name": "Hatcliffe Ward Chapel",
+                  "text": "Eine lokale religiöse Kapelle, die als Wahrzeichen der Gemeinde nahe Sam Levy's Village dient.",
+                  "category": "landmark",
+                  "coords": [
+                        31.117664,
+                        -17.688096
+                  ]
+            },
+            {
+                  "name": "Church Stand Prospecrive 2",
+                  "text": "Eine religiöse Stätte und Attraktion in der Umgebung von Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.111309,
+                        -17.694296
+                  ]
+            },
+            {
+                  "name": "Cabins",
+                  "text": "Eine Sammlung von Hüttenstrukturen, die als lokaler Anziehungspunkt nahe Sam Levy's Village dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10983,
+                        -17.687619
+                  ]
+            },
+            {
+                  "name": "CHURCH LAND Marydown Estate Hogert Hill",
+                  "text": "Eine religiöse Landattraktion innerhalb des Marydown Estate am Hogert Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        31.119654,
+                        -17.690728
+                  ]
+            },
+            {
+                  "name": "Matsatswa Home",
+                  "text": "Ein bemerkenswerter lokaler Wohnsitz und eine Attraktion in der Nähe von Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.104905,
+                        -17.680795
+                  ]
+            },
+            {
+                  "name": "Sister Tembo",
+                  "text": "Ein lokaler Anziehungspunkt, der mit Sister Tembo in Verbindung steht, nahe Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.09948,
+                        -17.678575
+                  ]
+            },
+            {
+                  "name": "Begin Dust Road",
+                  "text": "Diese Wegmarkierung in der Nähe des Sam Levy's Village kennzeichnet den Beginn einer unbefestigten, staubigen Piste für lokale Erkundungen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.091319,
+                        -17.681697
+                  ]
+            },
+            {
+                  "name": "Cropserve New",
+                  "text": "Diese landwirtschaftliche und kommerzielle Einrichtung in der Nähe des Sam Levy's Village dient als markanter lokaler Orientierungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050273,
+                        -17.736394
+                  ]
+            },
+            {
+                  "name": "Kingfisher",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe des Sam Levy's Village mit Blick auf die lokale Landschaft, der wahrscheinlich von der heimischen Vogelwelt frequentiert wird.",
+                  "category": "natural",
+                  "coords": [
+                        31.023019,
+                        -17.762757
+                  ]
+            },
+            {
+                  "name": "Allure Int. School",
+                  "text": "Diese internationale Bildungseinrichtung zeichnet sich als architektonisches und gemeinschaftliches Wahrzeichen in der Nähe des Sam Levy's Village aus.",
+                  "category": "landmark",
+                  "coords": [
+                        31.041576,
+                        -17.771022
+                  ]
+            },
+            {
+                  "name": "Point B",
+                  "text": "Eine ausgewiesene Wegmarkierung in der Umgebung des Sam Levy's Village zur lokalen Orientierung.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049028,
+                        -17.771577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bako House",
+                  "text": "Látványosság a Sam Levy's Village komplexum szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.114585,
+                        -17.682572
+                  ]
+            },
+            {
+                  "name": "Shawane Home",
+                  "text": "Helyi, lakóház stílusú látványosság a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.115143,
+                        -17.685526
+                  ]
+            },
+            {
+                  "name": "Gabela Busstop",
+                  "text": "Figyelemre méltó közlekedéssel kapcsolatos látványosság a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.108769,
+                        -17.676818
+                  ]
+            },
+            {
+                  "name": "Mt Pleasant Meering house",
+                  "text": "Helyi gyülekezeti ház, amely a Sam Levy's Village körüli közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049152,
+                        -17.770633
+                  ]
+            },
+            {
+                  "name": "Old Stables Market",
+                  "text": "Nyüzsgő piac, amely egykori istállókban kapott helyet a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088653,
+                        -17.779431
+                  ]
+            },
+            {
+                  "name": "Point 2",
+                  "text": "Kijelölt megfigyelőpont, amely kilátást nyújt a Sam Levy's Village körüli területre.",
+                  "category": "natural",
+                  "coords": [
+                        31.067339,
+                        -17.77477
+                  ]
+            },
+            {
+                  "name": "Tongai Home Tern Ave",
+                  "text": "Egyedi helyi látványosság a Tern Ave-n a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.066937,
+                        -17.764998
+                  ]
+            },
+            {
+                  "name": "Point 1",
+                  "text": "Festői kilátópont, amely perspektívákat kínál a Sam Levy's Village körüli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        31.072997,
+                        -17.774216
+                  ]
+            },
+            {
+                  "name": "View point 1",
+                  "text": "Kilátó, amely tiszta kilátást nyújt a Sam Levy's Village környékére.",
+                  "category": "natural",
+                  "coords": [
+                        31.075184,
+                        -17.770404
+                  ]
+            },
+            {
+                  "name": "Hatcliffe Ward Chapel",
+                  "text": "Helyi vallási kápolna, amely a közösség nevezetességeként szolgál a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.117664,
+                        -17.688096
+                  ]
+            },
+            {
+                  "name": "Church Stand Prospecrive 2",
+                  "text": "Vallási helyszín és látványosság a Sam Levy's Village szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.111309,
+                        -17.694296
+                  ]
+            },
+            {
+                  "name": "Cabins",
+                  "text": "Kabinépítmények gyűjteménye, amely helyi érdekes pontként szolgál a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10983,
+                        -17.687619
+                  ]
+            },
+            {
+                  "name": "CHURCH LAND Marydown Estate Hogert Hill",
+                  "text": "Vallási látványosság a Hogert Hill-i Marydown Estate területén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.119654,
+                        -17.690728
+                  ]
+            },
+            {
+                  "name": "Matsatswa Home",
+                  "text": "Figyelemre méltó helyi rezidencia és látványosság a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.104905,
+                        -17.680795
+                  ]
+            },
+            {
+                  "name": "Sister Tembo",
+                  "text": "Sister Tembohoz kapcsolódó helyi érdekes pont a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.09948,
+                        -17.678575
+                  ]
+            },
+            {
+                  "name": "Begin Dust Road",
+                  "text": "Ez a Sam Levy's Village melletti jelzés egy poros, burkolatlan földút kezdetét mutatja, amelyet a helyiek használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        31.091319,
+                        -17.681697
+                  ]
+            },
+            {
+                  "name": "Cropserve New",
+                  "text": "Ez a Sam Levy's Village melletti mezőgazdasági és kereskedelmi létesítmény figyelemre méltó helyi tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050273,
+                        -17.736394
+                  ]
+            },
+            {
+                  "name": "Kingfisher",
+                  "text": "Festői kilátópont a Sam Levy's Village közelében, amely a helyi tájra tekint, és valószínűleg gazdag madárvilággal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        31.023019,
+                        -17.762757
+                  ]
+            },
+            {
+                  "name": "Allure Int. School",
+                  "text": "Ez a nemzetközi oktatási intézmény építészeti és közösségi tájékozódási pontként tűnik ki a Sam Levy's Village közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.041576,
+                        -17.771022
+                  ]
+            },
+            {
+                  "name": "Point B",
+                  "text": "Kijelölt tájékozódási pont a Sam Levy's Village közelében, amely a helyi útvonalak követését segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049028,
+                        -17.771577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bako House",
+                  "text": "O atracție situată în vecinătatea complexului Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.114585,
+                        -17.682572
+                  ]
+            },
+            {
+                  "name": "Shawane Home",
+                  "text": "O atracție locală în stil rezidențial situată lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.115143,
+                        -17.685526
+                  ]
+            },
+            {
+                  "name": "Gabela Busstop",
+                  "text": "O atracție notabilă legată de transport, situată aproape de Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.108769,
+                        -17.676818
+                  ]
+            },
+            {
+                  "name": "Mt Pleasant Meering house",
+                  "text": "O casă de adunări locală care servește comunitatea de lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049152,
+                        -17.770633
+                  ]
+            },
+            {
+                  "name": "Old Stables Market",
+                  "text": "O atracție de piață vibrantă amenajată în foste grajduri de lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088653,
+                        -17.779431
+                  ]
+            },
+            {
+                  "name": "Point 2",
+                  "text": "Un loc de observație desemnat care oferă vederi asupra zonei din jurul Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.067339,
+                        -17.77477
+                  ]
+            },
+            {
+                  "name": "Tongai Home Tern Ave",
+                  "text": "O atracție locală specifică situată pe Tern Ave, lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.066937,
+                        -17.764998
+                  ]
+            },
+            {
+                  "name": "Point 1",
+                  "text": "Un punct de observație pitoresc care oferă perspective asupra peisajului din jurul Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.072997,
+                        -17.774216
+                  ]
+            },
+            {
+                  "name": "View point 1",
+                  "text": "Un punct de belvedere care oferă vederi clare asupra împrejurimilor Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.075184,
+                        -17.770404
+                  ]
+            },
+            {
+                  "name": "Hatcliffe Ward Chapel",
+                  "text": "O capelă religioasă locală care servește ca punct de reper al comunității lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.117664,
+                        -17.688096
+                  ]
+            },
+            {
+                  "name": "Church Stand Prospecrive 2",
+                  "text": "Un loc religios și atracție situat în vecinătatea Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.111309,
+                        -17.694296
+                  ]
+            },
+            {
+                  "name": "Cabins",
+                  "text": "O colecție de structuri tip cabană care servesc ca punct de interes local lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10983,
+                        -17.687619
+                  ]
+            },
+            {
+                  "name": "CHURCH LAND Marydown Estate Hogert Hill",
+                  "text": "O atracție de teren religios situată în interiorul Marydown Estate de pe Hogert Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        31.119654,
+                        -17.690728
+                  ]
+            },
+            {
+                  "name": "Matsatswa Home",
+                  "text": "O reședință locală notabilă și o atracție situată lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.104905,
+                        -17.680795
+                  ]
+            },
+            {
+                  "name": "Sister Tembo",
+                  "text": "Un punct de interes local asociat cu Sister Tembo, situat lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.09948,
+                        -17.678575
+                  ]
+            },
+            {
+                  "name": "Begin Dust Road",
+                  "text": "Acest reper de lângă Sam Levy's Village indică începutul unui drum prăfuit, neasfaltat, folosit pentru explorări locale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.091319,
+                        -17.681697
+                  ]
+            },
+            {
+                  "name": "Cropserve New",
+                  "text": "Acest stabiliment agricol și comercial de lângă Sam Levy's Village servește ca un punct de reper local notabil.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050273,
+                        -17.736394
+                  ]
+            },
+            {
+                  "name": "Kingfisher",
+                  "text": "Un punct de belvedere pitoresc lângă Sam Levy's Village, care oferă o panoramă asupra peisajului local, frecventat probabil de păsările din zonă.",
+                  "category": "natural",
+                  "coords": [
+                        31.023019,
+                        -17.762757
+                  ]
+            },
+            {
+                  "name": "Allure Int. School",
+                  "text": "Această instituție educațională internațională se remarcă ca un punct de reper arhitectural și comunitar lângă Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.041576,
+                        -17.771022
+                  ]
+            },
+            {
+                  "name": "Point B",
+                  "text": "Un reper de navigație desemnat, situat în vecinătatea Sam Levy's Village pentru orientare locală.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049028,
+                        -17.771577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bako House",
+                  "text": "An attraction located within the vicinity of the Sam Levy's Village complex.",
+                  "category": "landmark",
+                  "coords": [
+                        31.114585,
+                        -17.682572
+                  ]
+            },
+            {
+                  "name": "Shawane Home",
+                  "text": "A local residential-style attraction situated near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.115143,
+                        -17.685526
+                  ]
+            },
+            {
+                  "name": "Gabela Busstop",
+                  "text": "A notable transport-related attraction located close to Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.108769,
+                        -17.676818
+                  ]
+            },
+            {
+                  "name": "Mt Pleasant Meering house",
+                  "text": "A local meeting house serving the community near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049152,
+                        -17.770633
+                  ]
+            },
+            {
+                  "name": "Old Stables Market",
+                  "text": "A vibrant market attraction set in converted stables near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088653,
+                        -17.779431
+                  ]
+            },
+            {
+                  "name": "Point 2",
+                  "text": "A designated observation spot providing views over the area surrounding Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.067339,
+                        -17.77477
+                  ]
+            },
+            {
+                  "name": "Tongai Home Tern Ave",
+                  "text": "A specific local attraction situated on Tern Ave near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.066937,
+                        -17.764998
+                  ]
+            },
+            {
+                  "name": "Point 1",
+                  "text": "A scenic vantage point offering perspectives on the landscape around Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.072997,
+                        -17.774216
+                  ]
+            },
+            {
+                  "name": "View point 1",
+                  "text": "An overlook providing clear views over the surroundings of Sam Levy's Village.",
+                  "category": "natural",
+                  "coords": [
+                        31.075184,
+                        -17.770404
+                  ]
+            },
+            {
+                  "name": "Hatcliffe Ward Chapel",
+                  "text": "A local religious chapel serving as a community landmark near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.117664,
+                        -17.688096
+                  ]
+            },
+            {
+                  "name": "Church Stand Prospecrive 2",
+                  "text": "A religious site and attraction located in the vicinity of Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.111309,
+                        -17.694296
+                  ]
+            },
+            {
+                  "name": "Cabins",
+                  "text": "A collection of cabin structures serving as a local point of interest near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.10983,
+                        -17.687619
+                  ]
+            },
+            {
+                  "name": "CHURCH LAND Marydown Estate Hogert Hill",
+                  "text": "A religious land attraction situated within the Marydown Estate on Hogert Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        31.119654,
+                        -17.690728
+                  ]
+            },
+            {
+                  "name": "Matsatswa Home",
+                  "text": "A notable local residence and attraction situated near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.104905,
+                        -17.680795
+                  ]
+            },
+            {
+                  "name": "Sister Tembo",
+                  "text": "A local point of interest associated with Sister Tembo, located near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.09948,
+                        -17.678575
+                  ]
+            },
+            {
+                  "name": "Begin Dust Road",
+                  "text": "This local trail marker near Sam Levy's Village indicates the start of an unpaved, dusty track used for local exploration.",
+                  "category": "landmark",
+                  "coords": [
+                        31.091319,
+                        -17.681697
+                  ]
+            },
+            {
+                  "name": "Cropserve New",
+                  "text": "This agricultural and commercial establishment near Sam Levy's Village serves as a notable local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050273,
+                        -17.736394
+                  ]
+            },
+            {
+                  "name": "Kingfisher",
+                  "text": "A scenic viewing spot near Sam Levy's Village offering vistas over the local landscape, likely frequented by local birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        31.023019,
+                        -17.762757
+                  ]
+            },
+            {
+                  "name": "Allure Int. School",
+                  "text": "This international educational institution stands out as an architectural and community landmark near Sam Levy's Village.",
+                  "category": "landmark",
+                  "coords": [
+                        31.041576,
+                        -17.771022
+                  ]
+            },
+            {
+                  "name": "Point B",
+                  "text": "A designated navigational waymark situated in the vicinity of Sam Levy's Village for local orientation.",
+                  "category": "landmark",
+                  "coords": [
+                        31.049028,
+                        -17.771577
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0833, -17.7500],
@@ -834,7 +2049,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "karigamombe-centre-landmarks-v2",
+    id: "karigamombe-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Toys Town",
+                  "text": "Dieses Einzelhandelsgeschäft bietet eine Vielzahl von Kinderspielzeugen direkt neben dem hoch aufragenden Karigamombe Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043258,
+                        -17.835294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Toys Town",
+                  "text": "Ez a kiskereskedelmi üzlet különféle gyermekjátékokat kínál közvetlenül a tornyosuló Karigamombe Központ mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043258,
+                        -17.835294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Toys Town",
+                  "text": "Acest magazin de vânzare cu amănuntul oferă o varietate de jucării pentru copii chiar lângă impunătorul Centru Karigamombe.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043258,
+                        -17.835294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toys Town",
+                  "text": "This retail shop offers a variety of children's playthings right next to the towering Karigamombe Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        31.043258,
+                        -17.835294
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0478, -17.8322],
@@ -894,7 +2154,88 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "livingstone-statue-landmarks-v2",
+    id: "livingstone-statue-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "Der Aussichtspunkt bietet einen Blick auf den hufeisenförmigen Abschnitt der Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "Von hier aus kann man den tiefsten Abschnitt der Fälle sehen, wo sich im Sprühnebel oft Regenbögen bilden.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "A kilátó bemutatja a bazaltszurdok jellegzetesen ívelt, patkó alakú szakaszát.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "Ebből a pontból a látogatók a vízesés legmélyebb részét láthatják, ahol a párában gyakran élénk szivárványok alakulnak ki.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "Punctul de belvedere expune secțiunea curbată în formă de potcoavă a defileului de bazalt.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "Din acest loc se poate vedea cea mai adâncă parte a cascadei, unde frecvent se formează curcubee vibrante în ceață.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "The viewpoint showcases the distinctively curved, horseshoe-shaped section of the basalt gorge.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "From this spot, visitors can see the deepest part of the falls where vibrant rainbows frequently form in the mist.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-MN",
     coords: [25.8569, -17.9250],
@@ -954,7 +2295,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nrz-headquarters-landmarks-v2",
+    id: "nrz-headquarters-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bulawayo Railway Museum",
+                  "text": "Dieses Museum dokumentiert die Eisenbahngeschichte in der Nähe des Hauptquartiers der National Railways of Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        28.5742,
+                        -20.163512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bulawayo Railway Museum",
+                  "text": "Ez a múzeum a Zimbabwei Nemzeti Vasutak központjának közelében mutatja be a vasút történetét.",
+                  "category": "museum",
+                  "coords": [
+                        28.5742,
+                        -20.163512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bulawayo Railway Museum",
+                  "text": "Acest muzeu prezintă istoria feroviară în apropierea sediului central al Căilor Ferate Naționale din Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        28.5742,
+                        -20.163512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bulawayo Railway Museum",
+                  "text": "This museum showcases railway history near the headquarters of the National Railways of Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        28.5742,
+                        -20.163512
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-BU",
     coords: [28.5778, -20.1600],
@@ -1014,7 +2400,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bulawayo-centre-landmarks-v2",
+    id: "bulawayo-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Art Gallery Bulawayo",
+                  "text": "Diese führende Galerie ist in einem kolonialen Gebäude untergebracht und zeigt zeitgenössische Kunst aus Simbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        28.582877,
+                        -20.153004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Art Gallery Bulawayo",
+                  "text": "Ez a vezető galéria egy gyarmati épületben kapott helyet, és kortárs zimbabwei művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        28.582877,
+                        -20.153004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Art Gallery Bulawayo",
+                  "text": "Această galerie de top este găzduită într-o clădire colonială și prezintă artă contemporană din Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        28.582877,
+                        -20.153004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Art Gallery Bulawayo",
+                  "text": "This premier gallery is housed in a colonial building and showcases contemporary Zimbabwean art.",
+                  "category": "museum",
+                  "coords": [
+                        28.582877,
+                        -20.153004
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-BU",
     coords: [28.5820, -20.1530],
@@ -1254,7 +2685,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mukwati-building-landmarks-v2",
+    id: "mukwati-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "HRE Mission Home",
+                  "text": "Dieses religiöse Missionshaus befindet sich in einem städtischen Gebäude unweit der hoch aufragenden Regierungsbüros des Mukwati-Gebäudes.",
+                  "category": "landmark",
+                  "coords": [
+                        31.097775,
+                        -17.811691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HRE Mission Home",
+                  "text": "Ez a vallási missziós ház egy városi épületből működik, nem messze a Mukwati épület magasodó kormányzati irodáitól.",
+                  "category": "landmark",
+                  "coords": [
+                        31.097775,
+                        -17.811691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HRE Mission Home",
+                  "text": "Această casă de misiune religioasă funcționează dintr-o clădire urbană nu departe de birourile guvernamentale impunătoare ale Clădirii Mukwati.",
+                  "category": "landmark",
+                  "coords": [
+                        31.097775,
+                        -17.811691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HRE Mission Home",
+                  "text": "This religious mission house operates out of an urban building not far from the towering government offices of the Mukwati Building.",
+                  "category": "landmark",
+                  "coords": [
+                        31.097775,
+                        -17.811691
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0556, -17.8239],
@@ -1434,7 +2910,124 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "centenary-park-amphitheatre-landmarks-v2",
+    id: "centenary-park-amphitheatre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Borrow Street Swimming Pool",
+                  "text": "Dieses öffentliche Schwimmbad befindet sich im Bereich des Centenary Park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590289,
+                        -20.157546
+                  ]
+            },
+            {
+                  "name": "The Natural History Museum of Zimbabwe",
+                  "text": "Dieses nationale Naturkundemuseum grenzt an das Amphitheater im Centenary Park.",
+                  "category": "museum",
+                  "coords": [
+                        28.596399,
+                        -20.155797
+                  ]
+            },
+            {
+                  "name": "Bulawayo Theatre",
+                  "text": "Dieses Theater ergänzt die kulturellen Einrichtungen rund um den Centenary Park.",
+                  "category": "cultural",
+                  "coords": [
+                        28.592315,
+                        -20.154945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borrow Street Swimming Pool",
+                  "text": "Ez a nyilvános uszoda a Centenary Park területén található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590289,
+                        -20.157546
+                  ]
+            },
+            {
+                  "name": "The Natural History Museum of Zimbabwe",
+                  "text": "Ez a nemzeti természettudományi múzeum a Centenary Park amfiteátruma mellett helyezkedik el.",
+                  "category": "museum",
+                  "coords": [
+                        28.596399,
+                        -20.155797
+                  ]
+            },
+            {
+                  "name": "Bulawayo Theatre",
+                  "text": "Ez a színház a Centenary Park körüli kulturális létesítményeket gazdagítja.",
+                  "category": "cultural",
+                  "coords": [
+                        28.592315,
+                        -20.154945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Borrow Street Swimming Pool",
+                  "text": "Această piscină publică este situată în zona Centenary Park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590289,
+                        -20.157546
+                  ]
+            },
+            {
+                  "name": "The Natural History Museum of Zimbabwe",
+                  "text": "Acest muzeu național de istorie naturală se învecinează cu amfiteatrul din Centenary Park.",
+                  "category": "museum",
+                  "coords": [
+                        28.596399,
+                        -20.155797
+                  ]
+            },
+            {
+                  "name": "Bulawayo Theatre",
+                  "text": "Acest teatru completează facilitățile culturale din jurul parcului Centenary.",
+                  "category": "cultural",
+                  "coords": [
+                        28.592315,
+                        -20.154945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Borrow Street Swimming Pool",
+                  "text": "This public swimming pool is located in the Centenary Park area.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590289,
+                        -20.157546
+                  ]
+            },
+            {
+                  "name": "The Natural History Museum of Zimbabwe",
+                  "text": "This national natural history museum is adjacent to the amphitheatre in Centenary Park.",
+                  "category": "museum",
+                  "coords": [
+                        28.596399,
+                        -20.155797
+                  ]
+            },
+            {
+                  "name": "Bulawayo Theatre",
+                  "text": "This theatre complements the cultural facilities around Centenary Park.",
+                  "category": "cultural",
+                  "coords": [
+                        28.592315,
+                        -20.154945
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-BU",
     coords: [28.5900, -20.1500],
@@ -1494,7 +3087,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "harare-city-library-landmarks-v2",
+    id: "harare-city-library-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Gallery of Zimbabwe",
+                  "text": "Die National Gallery of Zimbabwe ist ein erstklassiges Kunstmuseum, das eine umfangreiche Sammlung zeitgenössischer und traditioneller afrikanischer Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        31.048874,
+                        -17.82491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Gallery of Zimbabwe",
+                  "text": "A Zimbabwei Nemzeti Galéria egy kiemelkedő művészeti múzeum, amely a kortárs és hagyományos afrikai művészet hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.048874,
+                        -17.82491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Gallery of Zimbabwe",
+                  "text": "Galeria Națională din Zimbabwe este un muzeu de artă de prim rang care prezintă o vastă colecție de artă africană contemporană și tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        31.048874,
+                        -17.82491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Gallery of Zimbabwe",
+                  "text": "The National Gallery of Zimbabwe is a premier art museum showcasing a vast collection of contemporary and traditional African art.",
+                  "category": "museum",
+                  "coords": [
+                        31.048874,
+                        -17.82491
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-HA",
     coords: [31.0489, -17.8250],
@@ -1554,7 +3192,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "anglican-cathedral-mutare-landmarks-v2",
+    id: "anglican-cathedral-mutare-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Mutare Museum",
+                  "text": "Das Mutare Museum beherbergt eine außergewöhnliche Sammlung alter Fahrzeuge sowie Exponate zur regionalen Geschichte der Manicaland-Provinz.",
+                  "category": "museum",
+                  "coords": [
+                        32.667178,
+                        -18.971038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Mutare Museum",
+                  "text": "A Mutare Múzeum a régi járművek kivételes gyűjteményének, valamint Manicaland tartomány történelmi emlékeinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        32.667178,
+                        -18.971038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Mutare Museum",
+                  "text": "Muzeul din Mutare găzduiește o colecție remarcabilă de vehicule de epocă, alături de artefacte din istoria provinciei Manicaland.",
+                  "category": "museum",
+                  "coords": [
+                        32.667178,
+                        -18.971038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Mutare Museum",
+                  "text": "The Mutare Museum houses an exceptional collection of vintage vehicles as well as artifacts covering the regional history of Manicaland province.",
+                  "category": "museum",
+                  "coords": [
+                        32.667178,
+                        -18.971038
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-MA",
     coords: [32.6700, -18.9700],
@@ -1614,7 +3297,52 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "beitbridge-border-post-landmarks-v2",
+    id: "beitbridge-border-post-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marelani Nature Reserve",
+                  "text": "Ein Wildtierschutzgebiet im trockenen Buschland nahe der Grenzregion von Beitbridge.",
+                  "category": "natural",
+                  "coords": [
+                        29.903722,
+                        -22.245279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marelani Nature Reserve",
+                  "text": "Vadvédelmi terület a száraz bozótosban a beitbridge-i határvidék közelében.",
+                  "category": "natural",
+                  "coords": [
+                        29.903722,
+                        -22.245279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marelani Nature Reserve",
+                  "text": "O zonă de conservare a faunei sălbatice situată în savana uscată din apropierea regiunii de frontieră Beitbridge.",
+                  "category": "natural",
+                  "coords": [
+                        29.903722,
+                        -22.245279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marelani Nature Reserve",
+                  "text": "A wildlife conservation area located in the dry bushveld near the Beitbridge border region.",
+                  "category": "natural",
+                  "coords": [
+                        29.903722,
+                        -22.245279
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-MS",
     coords: [29.9833, -22.2167],
@@ -1734,7 +3462,124 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gweru-theatre-landmarks-v2",
+    id: "gweru-theatre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stock Exchange Building",
+                  "text": "In diesem historischen ehemaligen Börsengebäude ist heute ein Museum zur Finanzgeschichte der Stadt untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        29.814846,
+                        -19.453357
+                  ]
+            },
+            {
+                  "name": "Aviation Muesum",
+                  "text": "Das Museum präsentiert historische Flugzeuge und eine Vielzahl an luftfahrtgeschichtlichen Erinnerungsstücken.",
+                  "category": "museum",
+                  "coords": [
+                        29.81352,
+                        -19.464292
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Military Museum",
+                  "text": "Das Museum bietet umfangreiche Ausstellungen zur Militärgeschichte und zu den regionalen Konflikten.",
+                  "category": "museum",
+                  "coords": [
+                        29.815054,
+                        -19.460258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stock Exchange Building",
+                  "text": "Ez a történelmi egykori tőzsdeépület ma a város pénzügyi történelmét bemutató múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        29.814846,
+                        -19.453357
+                  ]
+            },
+            {
+                  "name": "Aviation Muesum",
+                  "text": "A múzeum történelmi repülőgépeket és számos repüléstörténeti emléktárgyat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        29.81352,
+                        -19.464292
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Military Museum",
+                  "text": "A múzeum kiterjedt kiállításokat kínál a hadtörténetről és a regionális konfliktusokról.",
+                  "category": "museum",
+                  "coords": [
+                        29.815054,
+                        -19.460258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stock Exchange Building",
+                  "text": "Această clădire istorică a fostei burse de valori găzduiește acum un muzeu dedicat istoriei financiare a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        29.814846,
+                        -19.453357
+                  ]
+            },
+            {
+                  "name": "Aviation Muesum",
+                  "text": "Muzeul prezintă avioane istorice și o varietate de amintiri din istoria aviației.",
+                  "category": "museum",
+                  "coords": [
+                        29.81352,
+                        -19.464292
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Military Museum",
+                  "text": "Muzeul oferă expoziții ample despre istoria militară și conflictele regionale.",
+                  "category": "museum",
+                  "coords": [
+                        29.815054,
+                        -19.460258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stock Exchange Building",
+                  "text": "This historic former stock exchange building now houses a museum dedicated to the city's financial history.",
+                  "category": "museum",
+                  "coords": [
+                        29.814846,
+                        -19.453357
+                  ]
+            },
+            {
+                  "name": "Aviation Muesum",
+                  "text": "The museum showcases historic aircraft and a variety of aviation history memorabilia.",
+                  "category": "museum",
+                  "coords": [
+                        29.81352,
+                        -19.464292
+                  ]
+            },
+            {
+                  "name": "Zimbabwe Military Museum",
+                  "text": "The museum offers extensive exhibits on military history and regional conflicts.",
+                  "category": "museum",
+                  "coords": [
+                        29.815054,
+                        -19.460258
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZW-MI",
     coords: [29.8150, -19.4520],

@@ -52,7 +52,52 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
   {
-    id: "horizon-djibouti-terminals-economic-v2",
+    id: "horizon-djibouti-terminals-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Legga Obsi",
+                  "text": "Legga Obsi ist ein natürlicher Berggipfel in der Küstenregion in der Nähe der Horizon Djibouti Terminals.",
+                  "category": "natural",
+                  "coords": [
+                        43.071111,
+                        11.569167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Legga Obsi",
+                  "text": "A Legga Obsi egy természetes hegycsúcs, amely a Horizon Djibouti Terminals közelében fekvő partvidéken található.",
+                  "category": "natural",
+                  "coords": [
+                        43.071111,
+                        11.569167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Legga Obsi",
+                  "text": "Legga Obsi este un vârf muntos natural situat în regiunea de coastă, lângă terminalele Horizon Djibouti.",
+                  "category": "natural",
+                  "coords": [
+                        43.071111,
+                        11.569167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Legga Obsi",
+                  "text": "Legga Obsi is a natural mountain peak located in the coastal region near the Horizon Djibouti Terminals.",
+                  "category": "natural",
+                  "coords": [
+                        43.071111,
+                        11.569167
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DJ-DJ",
     coords: [43.078, 11.590],
@@ -100,7 +145,124 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       fr: ["Grandes capacités de stockage", "Réserve pétrolière stratégique"],
     }, image: "/poi-images/horizon-djibouti-terminals-economic-v2.webp"},
   {
-    id: "ghoubbet-mineral-port-economic-v2",
+    id: "ghoubbet-mineral-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aïrellâyé",
+                  "text": "Der markante Gipfel des Aïrellâyé überblickt die wirtschaftliche Infrastruktur des Ghoubbet-Mineralhafens.",
+                  "category": "natural",
+                  "coords": [
+                        42.712778,
+                        11.5075
+                  ]
+            },
+            {
+                  "name": "‘Agagléï",
+                  "text": "Der Gipfel des ‘Agagléï ist Teil des schroffen Geländes, das den industriellen Ghoubbet-Mineralhafen umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "‘Ayngow",
+                  "text": "‘Ayngow ist eine felsige Erhebung, die einen Aussichtspunkt über das geschäftige Treiben des Ghoubbet-Mineralhafens bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.663611,
+                        11.466944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aïrellâyé",
+                  "text": "Az Aïrellâyé kiemelkedő csúcsa a ghoubbeti ásványkikötő gazdasági infrastruktúrájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.712778,
+                        11.5075
+                  ]
+            },
+            {
+                  "name": "‘Agagléï",
+                  "text": "Az ‘Agagléï csúcsa az ipari ghoubbeti ásványkikötőt körülvevő zord terep részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "‘Ayngow",
+                  "text": "Az ‘Ayngow egy sziklás magaslat, amely kilátást nyújt a ghoubbeti ásványkikötő nyüzsgő tevékenységére.",
+                  "category": "natural",
+                  "coords": [
+                        42.663611,
+                        11.466944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aïrellâyé",
+                  "text": "Vârful proeminent Aïrellâyé domină infrastructura economică a portului de minerale Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.712778,
+                        11.5075
+                  ]
+            },
+            {
+                  "name": "‘Agagléï",
+                  "text": "Vârful ‘Agagléï face parte din terenul accidentat care înconjoară portul industrial de minerale Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "‘Ayngow",
+                  "text": "‘Ayngow este o altitudine stâncoasă care oferă un punct de observație asupra activităților pline de viață ale portului de minerale Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.663611,
+                        11.466944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aïrellâyé",
+                  "text": "The prominent peak of Aïrellâyé overlooks the economic infrastructure of the Ghoubbet mineral port.",
+                  "category": "natural",
+                  "coords": [
+                        42.712778,
+                        11.5075
+                  ]
+            },
+            {
+                  "name": "‘Agagléï",
+                  "text": "The summit of ‘Agagléï forms part of the rugged terrain surrounding the industrial Ghoubbet mineral port.",
+                  "category": "natural",
+                  "coords": [
+                        42.683333,
+                        11.516667
+                  ]
+            },
+            {
+                  "name": "‘Ayngow",
+                  "text": "‘Ayngow is a rocky elevation offering a vantage point over the bustling activities of the Ghoubbet mineral port.",
+                  "category": "natural",
+                  "coords": [
+                        42.663611,
+                        11.466944
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DJ-AR",
     coords: [42.660, 11.530],
@@ -148,7 +310,196 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       fr: ["Exportation de sel industriel", "Proche du lac Assal"],
     }, image: "/poi-images/ghoubbet-mineral-port-economic-v2.webp"},
   {
-    id: "damerjog-livestock-port-economic-v2",
+    id: "damerjog-livestock-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bôlé",
+                  "text": "Bôlé ist ein ausgeprägter geologischer Gipfel in der Nähe der wirtschaftlichen Aktivitäten des Damerjog-Viehhafens.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Bo‘layyâl",
+                  "text": "Der Gipfel des Bo‘layyâl erhebt sich inmitten der sich entwickelnden Infrastruktur rund um den Damerjog-Viehhafen.",
+                  "category": "natural",
+                  "coords": [
+                        43.130833,
+                        11.423056
+                  ]
+            },
+            {
+                  "name": "Guêddi Barbârou",
+                  "text": "Guêddi Barbârou ist ein markanter steiniger Gipfel mit Blick auf das Gebiet des Damerjog-Viehhafens.",
+                  "category": "natural",
+                  "coords": [
+                        43.128889,
+                        11.4425
+                  ]
+            },
+            {
+                  "name": "Ouaï Ouaï",
+                  "text": "Ouaï Ouaï ist ein lokaler Berggipfel, der die industrielle Region des Damerjog-Viehhafens einrahmt.",
+                  "category": "natural",
+                  "coords": [
+                        43.162778,
+                        11.430833
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Atar",
+                  "text": "Goumbourta ‘Atar ist ein rauer, natürlicher Gipfel, der sich in der Nähe der Viehhafenanlagen von Damerjog erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.203611,
+                        11.454722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bôlé",
+                  "text": "A Bôlé egy különálló geológiai hegycsúcs, amely a Damerjog állatkikötő gazdasági tevékenységeinek közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Bo‘layyâl",
+                  "text": "A Bo‘layyâl csúcsa a Damerjog állatkikötőt körülvevő fejlődő infrastruktúra közepette emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.130833,
+                        11.423056
+                  ]
+            },
+            {
+                  "name": "Guêddi Barbârou",
+                  "text": "A Guêddi Barbârou egy kiemelkedő köves csúcs, amely a Damerjog állatkikötő területére néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.128889,
+                        11.4425
+                  ]
+            },
+            {
+                  "name": "Ouaï Ouaï",
+                  "text": "Az Ouaï Ouaï egy helyi hegycsúcs, amely a Damerjog állatkikötő ipari régióját keretezi.",
+                  "category": "natural",
+                  "coords": [
+                        43.162778,
+                        11.430833
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Atar",
+                  "text": "A Goumbourta ‘Atar egy zord természetes hegycsúcs, amely a Damerjog állatkikötő létesítményei közelében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.203611,
+                        11.454722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bôlé",
+                  "text": "Bôlé este un vârf geologic distinct situat în apropierea activității economice a portului de animale Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Bo‘layyâl",
+                  "text": "Vârful Bo‘layyâl se înalță în mijlocul infrastructurii în curs de dezvoltare din jurul portului de animale Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.130833,
+                        11.423056
+                  ]
+            },
+            {
+                  "name": "Guêddi Barbârou",
+                  "text": "Guêddi Barbârou este un vârf pietros proeminent care domină zona portului de animale Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.128889,
+                        11.4425
+                  ]
+            },
+            {
+                  "name": "Ouaï Ouaï",
+                  "text": "Ouaï Ouaï se ridică ca un vârf muntos local care încadrează regiunea industrială a portului de animale Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.162778,
+                        11.430833
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Atar",
+                  "text": "Goumbourta ‘Atar este un vârf natural accidentat care se ridică în apropierea facilităților portului de animale Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.203611,
+                        11.454722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bôlé",
+                  "text": "Bôlé is a distinct geological peak located near the economic activity of the Damerjog livestock port.",
+                  "category": "natural",
+                  "coords": [
+                        43.15,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Bo‘layyâl",
+                  "text": "The peak of Bo‘layyâl rises amidst the developing infrastructure surrounding the Damerjog livestock port.",
+                  "category": "natural",
+                  "coords": [
+                        43.130833,
+                        11.423056
+                  ]
+            },
+            {
+                  "name": "Guêddi Barbârou",
+                  "text": "Guêddi Barbârou is a prominent stony summit overlooking the Damerjog livestock port area.",
+                  "category": "natural",
+                  "coords": [
+                        43.128889,
+                        11.4425
+                  ]
+            },
+            {
+                  "name": "Ouaï Ouaï",
+                  "text": "Ouaï Ouaï stands as a local mountain peak framing the industrial Damerjog livestock port region.",
+                  "category": "natural",
+                  "coords": [
+                        43.162778,
+                        11.430833
+                  ]
+            },
+            {
+                  "name": "Goumbourta ‘Atar",
+                  "text": "Goumbourta ‘Atar is a rugged natural peak rising near the livestock port facilities of Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.203611,
+                        11.454722
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DJ-AR",
     coords: [43.190, 11.450],
@@ -196,7 +547,268 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       fr: ["Installations de quarantaine", "Exportation vers les États du Golfe"],
     }, image: "/poi-images/damerjog-livestock-port-economic-v2.webp"},
   {
-    id: "tadjourah-potash-port-economic-v2",
+    id: "tadjourah-potash-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mamradga",
+                  "text": "Mamradga ist ein steiler Berggipfel, der einen Blick über die Region Tadjourah bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.957222,
+                        11.841944
+                  ]
+            },
+            {
+                  "name": "‘Oungaïtigguil",
+                  "text": "Der Gipfel des `Oungaitigguil ist eine felsige Erhebung, die über Tadjourah aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.9425,
+                        11.825
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "Plage des Sables Blancs ist eine malerische Küstenattraktion, die für ihre unberührten Sandstrände in Tadjourah bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.969193,
+                        11.798449
+                  ]
+            },
+            {
+                  "name": "Sîḏa",
+                  "text": "Sîḏa ist ein imposanter Berggipfel in der Nähe der Küstenstadt Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.946111,
+                        11.777222
+                  ]
+            },
+            {
+                  "name": "Ras Ali",
+                  "text": "Ras Ali ist ein ruhiger Sandstrand, der sich entlang der Küste von Tadjourah erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        42.933809,
+                        11.776896
+                  ]
+            },
+            {
+                  "name": "Les Sables Blancs",
+                  "text": "Les Sables Blancs ist eine wunderschöne weiße Sandküstenattraktion mit Blick auf das Meer in Tadjourah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.924494,
+                        11.779361
+                  ]
+            },
+            {
+                  "name": "Maison de Jean-François DENIAU",
+                  "text": "Das Haus von Jean-François DENIAU ist eine historische Hausattraktion, die die lokalen Architekturstile in Tadjourah widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.934856,
+                        11.775241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mamradga",
+                  "text": "A Mamradga egy meredek hegycsúcs, amely kilátást nyújt Tadjourah régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        42.957222,
+                        11.841944
+                  ]
+            },
+            {
+                  "name": "‘Oungaïtigguil",
+                  "text": "Az `Oungaitigguil csúcsa egy sziklás kiemelkedés, amely Tadjourah fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.9425,
+                        11.825
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "A Plage des Sables Blancs egy festői tengerparti látványosság, amely Tadjourah érintetlen homokos partjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.969193,
+                        11.798449
+                  ]
+            },
+            {
+                  "name": "Sîḏa",
+                  "text": "A Sîḏa egy impozáns hegycsúcs a tengerparti Tadjourah városának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.946111,
+                        11.777222
+                  ]
+            },
+            {
+                  "name": "Rayssali",
+                  "text": "A Ras Ali egy nyugodt, homokos tengerparti strand, amely a Tadjourah partvonala mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        42.933809,
+                        11.776896
+                  ]
+            },
+            {
+                  "name": "Les Sables Blancs",
+                  "text": "A Les Sables Blancs egy gyönyörű fehér homokos tengerparti látványosság Tadjourahban, kilátással a tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        42.924494,
+                        11.779361
+                  ]
+            },
+            {
+                  "name": "Maison de Jean-François DENIAU",
+                  "text": "A Jean-François DENIAU háza egy történelmi jelentőségű épület, amely a helyi építészeti stílusokat tükrözi Tadjourahban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.934856,
+                        11.775241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mamradga",
+                  "text": "Mamradga este un vârf montan abrupt care oferă priveliști asupra regiunii Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.957222,
+                        11.841944
+                  ]
+            },
+            {
+                  "name": "‘Oungaïtigguil",
+                  "text": "Vârful `Oungaitigguil este o proeminență stâncoasă care se înalță deasupra orașului Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.9425,
+                        11.825
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "Plage des Sables Blancs este o atracție de coastă pitorească, cunoscută pentru țărmurile sale de nisip imaculate din Tadjourah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.969193,
+                        11.798449
+                  ]
+            },
+            {
+                  "name": "Sîḏa",
+                  "text": "Sîḏa este un vârf montan impunător situat lângă orașul de coastă Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.946111,
+                        11.777222
+                  ]
+            },
+            {
+                  "name": "Rayssali",
+                  "text": "Ras Ali este o plajă de coastă cu nisip, liniștită, care se întinde de-a lungul litoralului din Tadjourah.",
+                  "category": "recreational",
+                  "coords": [
+                        42.933809,
+                        11.776896
+                  ]
+            },
+            {
+                  "name": "Les Sables Blancs",
+                  "text": "Les Sables Blancs este o atracție de coastă superbă, cu nisip alb, care are vedere la mare în Tadjourah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.924494,
+                        11.779361
+                  ]
+            },
+            {
+                  "name": "Maison de Jean-François DENIAU",
+                  "text": "Casa lui Jean-François DENIAU este o casă istorică care reflectă stilurile arhitecturale locale din Tadjourah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.934856,
+                        11.775241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mamradga",
+                  "text": "Mamradga is a steep mountain peak offering views over the Tadjourah region.",
+                  "category": "natural",
+                  "coords": [
+                        42.957222,
+                        11.841944
+                  ]
+            },
+            {
+                  "name": "`Oungaitigguil",
+                  "text": "The peak of `Oungaitigguil is a rocky prominence towering above Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.9425,
+                        11.825
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "Plage des Sables Blancs is a picturesque coastal attraction known for its pristine sandy shores in Tadjourah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.969193,
+                        11.798449
+                  ]
+            },
+            {
+                  "name": "Sîḏa",
+                  "text": "Sîḏa is an imposing mountain summit situated near the coastal town of Tadjourah.",
+                  "category": "natural",
+                  "coords": [
+                        42.946111,
+                        11.777222
+                  ]
+            },
+            {
+                  "name": "Ras Ali",
+                  "text": "Ras Ali is a tranquil sandy coastal beach stretching along the Tadjourah coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        42.933809,
+                        11.776896
+                  ]
+            },
+            {
+                  "name": "Les Sables Blancs",
+                  "text": "Les Sables Blancs is a beautiful white-sand coastal attraction overlooking the sea in Tadjourah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.924494,
+                        11.779361
+                  ]
+            },
+            {
+                  "name": "House of Jean-François DENIAU",
+                  "text": "The House of Jean-François DENIAU is a historic house attraction reflecting local architectural styles in Tadjourah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.934856,
+                        11.775241
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DJ-TA",
     coords: [42.920, 11.780],
@@ -244,7 +856,232 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       fr: ["Manutention moderne de vrac", "Partie du corridor nord"],
     }, image: "/poi-images/tadjourah-potash-port-economic-v2.webp"},
   {
-    id: "assal-salt-industry-economic-v2",
+    id: "assal-salt-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Garrayto Kôma",
+                  "text": "Garrayto Kôma ist ein trockener Gipfel, der die Salzabbaulandschaft des Assalsees überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        42.466111,
+                        11.703889
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma ist eine markante vulkanische Erhebung nahe der Salzfläche des Assalsees.",
+                  "category": "natural",
+                  "coords": [
+                        42.490556,
+                        11.711389
+                  ]
+            },
+            {
+                  "name": "Sablôla le Dabba",
+                  "text": "Sablôla le Dabba ist eine schroffe Hügelkuppe mit Panoramablick über die Assalsee-Senke.",
+                  "category": "natural",
+                  "coords": [
+                        42.5,
+                        11.7
+                  ]
+            },
+            {
+                  "name": "Dâmboholi",
+                  "text": "Dâmboholi erhebt sich als markanter felsiger Gipfel in der kargen Landschaft um den Assalsee.",
+                  "category": "natural",
+                  "coords": [
+                        42.5075,
+                        11.682222
+                  ]
+            },
+            {
+                  "name": "Ni‘in Bouyyi",
+                  "text": "Ni`in Bouyyi ist ein isolierter Gipfel, der die vulkanische Landschaft nahe den Salzpfannen des Assalsees prägt.",
+                  "category": "natural",
+                  "coords": [
+                        42.463056,
+                        11.673889
+                  ]
+            },
+            {
+                  "name": "‘Adkôrar",
+                  "text": "‘Adkôrar ist eine markante Erhebung, die steil aus der trockenen Salzabbauregion des Assalsees aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        42.449722,
+                        11.677222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garrayto Kôma",
+                  "text": "A Garrayto Kôma egy kietlen hegycsúcs, amely az Assal-tó sókitermelő vidékére néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.466111,
+                        11.703889
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "Az ‘Asa Kôma egy kiemelkedő vulkáni magaslat, amely az Assal-tó sós síksága közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        42.490556,
+                        11.711389
+                  ]
+            },
+            {
+                  "name": "Sablôla le Dabba",
+                  "text": "A Sablôla le Dabba egy egyenetlen dombtető, ahonnan panorámás kilátás nyílik az Assal-tó medencéjére.",
+                  "category": "natural",
+                  "coords": [
+                        42.5,
+                        11.7
+                  ]
+            },
+            {
+                  "name": "Dâmboholi",
+                  "text": "A Dâmboholi egy jellegzetes sziklás hegycsúcs az Assal-tavat körülvevő kopár vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        42.5075,
+                        11.682222
+                  ]
+            },
+            {
+                  "name": "Ni‘in Bouyyi",
+                  "text": "A Ni`in Bouyyi egy elszigetelt hegycsúcs, amely az Assal-tó sósíkságai melletti vulkáni tájat pettyezi.",
+                  "category": "natural",
+                  "coords": [
+                        42.463056,
+                        11.673889
+                  ]
+            },
+            {
+                  "name": "‘Adkôrar",
+                  "text": "Az ‘Adkôrar egy kiemelkedő magaslat, amely meredeken emelkedik ki az Assal-tó száraz sóipari régiójából.",
+                  "category": "natural",
+                  "coords": [
+                        42.449722,
+                        11.677222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Garrayto Kôma",
+                  "text": "Garrayto Kôma este un vârf arid care domină peisajul de extracție a sării de la Lacul Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.466111,
+                        11.703889
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma este o înălțime vulcanică proeminentă situată lângă întinderea salină a Lacului Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.490556,
+                        11.711389
+                  ]
+            },
+            {
+                  "name": "Sablôla le Dabba",
+                  "text": "Sablôla le Dabba este o culme accidentată care oferă vederi panoramice asupra depresiunii Lacului Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.5,
+                        11.7
+                  ]
+            },
+            {
+                  "name": "Dâmboholi",
+                  "text": "Dâmboholi se înalță ca un vârf stâncos distinct în terenul arid din jurul Lacului Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.5075,
+                        11.682222
+                  ]
+            },
+            {
+                  "name": "Ni‘in Bouyyi",
+                  "text": "Ni`in Bouyyi este un vârf izolat care punctează peisajul vulcanic de lângă salinele Lacului Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.463056,
+                        11.673889
+                  ]
+            },
+            {
+                  "name": "‘Adkôrar",
+                  "text": "‘Adkôrar este o înălțime proeminentă care se ridică brusc din regiunea aridă a industriei sării de la Lacul Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.449722,
+                        11.677222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Garrayto Kôma",
+                  "text": "Garrayto Kôma is an arid peak overlooking the salt extraction landscape of Lake Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.466111,
+                        11.703889
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma is a prominent volcanic elevation situated near the saline expanse of Lake Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.490556,
+                        11.711389
+                  ]
+            },
+            {
+                  "name": "Sablôla le Dabba",
+                  "text": "Sablôla le Dabba is a rugged hilltop offering panoramic views over the Lake Assal depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.5,
+                        11.7
+                  ]
+            },
+            {
+                  "name": "Dâmboholi",
+                  "text": "Dâmboholi stands as a distinct rocky summit within the stark terrain surrounding Lake Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.5075,
+                        11.682222
+                  ]
+            },
+            {
+                  "name": "Ni`in Bouyyi",
+                  "text": "Ni`in Bouyyi is an isolated peak dotting the volcanic landscape near the Lake Assal salt flats.",
+                  "category": "natural",
+                  "coords": [
+                        42.463056,
+                        11.673889
+                  ]
+            },
+            {
+                  "name": "‘Adkôrar",
+                  "text": "‘Adkôrar is a prominent elevation rising sharply from the arid salt-industry region of Lake Assal.",
+                  "category": "natural",
+                  "coords": [
+                        42.449722,
+                        11.677222
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-TA",
     coords: [42.430, 11.660],
@@ -293,7 +1130,412 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
   {
-    id: "ali-sabieh-cement-industry-economic-v2",
+    id: "ali-sabieh-cement-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dankarrône",
+                  "text": "Der Berg Dankarrône überragt die industriell geprägte Region um Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.183333
+                  ]
+            },
+            {
+                  "name": "Lafta Lissinka",
+                  "text": "Der Berggipfel Lafta Lissinka ist eine prominente Erhebung in der kargen Landschaft von Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.743276,
+                        11.145524
+                  ]
+            },
+            {
+                  "name": "Idaddila‘",
+                  "text": "Der Gipfel Idaddila‘ erhebt sich markant in der gebirgigen Region nahe Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.122778
+                  ]
+            },
+            {
+                  "name": "‘Alanley",
+                  "text": "Der Berg ‘Alanley formt die natürliche topografische Kulisse in der Nähe von Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.784063,
+                        11.116856
+                  ]
+            },
+            {
+                  "name": "Degta Go‘ondada",
+                  "text": "Der Gipfel Degta Go‘ondada blickt auf die weiten Ebenen um Ali Sabieh herab.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "Ouer",
+                  "text": "Die felsige Spitze des Ouer ist ein markantes Naturmerkmal der Region Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.783333,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "‘Alôlla",
+                  "text": "Der Berggipfel ‘Alôlla ragt in die heiße Wüstenluft nahe Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.765833,
+                        11.198056
+                  ]
+            },
+            {
+                  "name": "Fêdaha ‘Ad",
+                  "text": "Der steile Gipfel Fêdaha ‘Ad dominiert die trockene Landschaft um Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.190833
+                  ]
+            },
+            {
+                  "name": "Warâbaley",
+                  "text": "Der Berggipfel Warâbaley ist ein markantes topografisches Element in der Nähe von Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.766389,
+                        11.096944
+                  ]
+            },
+            {
+                  "name": "Degta Ouannânné",
+                  "text": "Der Gipfel Degta Ouannânné formt das zerklüftete Relief im Umland von Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.770278,
+                        11.084167
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "Die markante Spitze des Ḏaḏîn erhebt sich in der kargen Gebirgslandschaft nahe Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.769167,
+                        11.099167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dankarrône",
+                  "text": "A Dankarrône hegycsúcs Ali Sabieh ipari jellegű térsége fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.183333
+                  ]
+            },
+            {
+                  "name": "Lafta Lissinka",
+                  "text": "A Lafta Lissinka hegycsúcs egy kiemelkedő magaslat Ali Sabieh kopár vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        42.743276,
+                        11.145524
+                  ]
+            },
+            {
+                  "name": "Idaddila‘",
+                  "text": "Az Idaddila‘ hegycsúcs meredeken emelkedik ki az Ali Sabieh körüli hegyvidéki területből.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.122778
+                  ]
+            },
+            {
+                  "name": "‘Alanley",
+                  "text": "Az ‘Alanley hegy természetes topográfiai hátteret biztosít Ali Sabieh közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.784063,
+                        11.116856
+                  ]
+            },
+            {
+                  "name": "Degta Go‘ondada",
+                  "text": "A Degta Go‘ondada hegycsúcs az Ali Sabieh körüli kiterjedt síkságokra néz le.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "Ouer",
+                  "text": "Az Ouer sziklás csúcsa egy feltűnő természeti képződmény Ali Sabieh térségében.",
+                  "category": "natural",
+                  "coords": [
+                        42.783333,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "‘Alôlla",
+                  "text": "Az ‘Alôlla hegycsúcs a forró sivatagi levegőbe emelkedik Ali Sabieh közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.765833,
+                        11.198056
+                  ]
+            },
+            {
+                  "name": "Fêdaha ‘Ad",
+                  "text": "A Fêdaha ‘Ad meredek csúcsa uralja az Ali Sabieh körüli száraz tájat.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.190833
+                  ]
+            },
+            {
+                  "name": "Warâbaley",
+                  "text": "A Warâbaley hegycsúcs egy feltűnő domborzati elem Ali Sabieh közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.766389,
+                        11.096944
+                  ]
+            },
+            {
+                  "name": "Degta Ouannânné",
+                  "text": "A Degta Ouannânné hegycsúcs az Ali Sabieh körüli szabdalt domborzat része.",
+                  "category": "natural",
+                  "coords": [
+                        42.770278,
+                        11.084167
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "A Ḏaḏîn jellegzetes csúcsa az Ali Sabieh melletti kopár hegyvidéken található.",
+                  "category": "natural",
+                  "coords": [
+                        42.769167,
+                        11.099167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dankarrône",
+                  "text": "Vârful Dankarrône se înalță deasupra regiunii cu influențe industriale din Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.183333
+                  ]
+            },
+            {
+                  "name": "Lafta Lissinka",
+                  "text": "Vârful montan Lafta Lissinka este o proeminență vizibilă în peisajul arid din Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.743276,
+                        11.145524
+                  ]
+            },
+            {
+                  "name": "Idaddila‘",
+                  "text": "Vârful Idaddila‘ se ridică vizibil în regiunea montană din apropiere de Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.122778
+                  ]
+            },
+            {
+                  "name": "‘Alanley",
+                  "text": "Vârful ‘Alanley formează un fundal topografic natural în vecinătatea orașului Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.784063,
+                        11.116856
+                  ]
+            },
+            {
+                  "name": "Degta Go‘ondada",
+                  "text": "Vârful Degta Go‘ondada domină de la înălțime câmpiile din jurul localității Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "Ouer",
+                  "text": "Vârful stâncos Ouer este o trăsătură naturală proeminentă în peisajul din Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.783333,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "‘Alôlla",
+                  "text": "Vârful ‘Alôlla se înalță în aerul fierbinte al deșertului din apropiere de Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.765833,
+                        11.198056
+                  ]
+            },
+            {
+                  "name": "Fêdaha ‘Ad",
+                  "text": "Vârful abrupt Fêdaha ‘Ad domină peisajul uscat din vecinătatea localității Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.190833
+                  ]
+            },
+            {
+                  "name": "Warâbaley",
+                  "text": "Vârful montan Warâbaley reprezintă un element topografic distinct lângă Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.766389,
+                        11.096944
+                  ]
+            },
+            {
+                  "name": "Degta Ouannânné",
+                  "text": "Vârful Degta Ouannânné modelează relieful accidentat din împrejurimile orașului Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.770278,
+                        11.084167
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "Vârful stâncos Ḏaḏîn se înalță vizibil în peisajul montan sterp de lângă Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.769167,
+                        11.099167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dankarrône",
+                  "text": "The Dankarrône peak rises above the industrial-influenced landscape surrounding Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.733333,
+                        11.183333
+                  ]
+            },
+            {
+                  "name": "Lafta Lissinka",
+                  "text": "The Lafta Lissinka peak is a prominent elevation in the rugged landscape near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.743276,
+                        11.145524
+                  ]
+            },
+            {
+                  "name": "Idaddila‘",
+                  "text": "The Idaddila‘ peak stands out distinctly within the mountainous region near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.122778
+                  ]
+            },
+            {
+                  "name": "‘Alanley",
+                  "text": "The ‘Alanley peak forms part of the natural topographic backdrop near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.784063,
+                        11.116856
+                  ]
+            },
+            {
+                  "name": "Degta Go‘ondada",
+                  "text": "The Degta Go‘ondada peak overlooks the expansive plains surrounding Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.820833,
+                        11.145278
+                  ]
+            },
+            {
+                  "name": "Ouer",
+                  "text": "The rocky summit of Ouer is a distinct natural feature in the region of Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.783333,
+                        11.166667
+                  ]
+            },
+            {
+                  "name": "‘Alôlla",
+                  "text": "The ‘Alôlla peak rises into the hot desert air near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.765833,
+                        11.198056
+                  ]
+            },
+            {
+                  "name": "Fêdaha ‘Ad",
+                  "text": "The steep peak of Fêdaha ‘Ad dominates the arid landscape surrounding Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.753056,
+                        11.190833
+                  ]
+            },
+            {
+                  "name": "Warâbaley",
+                  "text": "The Warâbaley peak is a striking topographical feature situated near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.766389,
+                        11.096944
+                  ]
+            },
+            {
+                  "name": "Degta Ouannânné",
+                  "text": "The Degta Ouannânné peak shapes the rugged local terrain in the vicinity of Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.770278,
+                        11.084167
+                  ]
+            },
+            {
+                  "name": "Ḏaḏîn",
+                  "text": "The prominent peak of Ḏaḏîn rises within the barren mountainous landscape near Ali Sabieh.",
+                  "category": "natural",
+                  "coords": [
+                        42.769167,
+                        11.099167
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-AS",
     coords: [42.750, 11.160],
@@ -341,7 +1583,340 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       fr: ["Gisements locaux de calcaire", "Grande capacité de production"],
     }, image: "/poi-images/ali-sabieh-cement-industry-economic-v2.webp"},
   {
-    id: "grand-bara-solar-industry-economic-v2",
+    id: "grand-bara-solar-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aïréllâyé",
+                  "text": "Der Berggipfel Aïréllâyé blickt auf die weiten, sonnenverwöhnten Ebenen der Region Grand Bara hinab.",
+                  "category": "natural",
+                  "coords": [
+                        42.884167,
+                        11.266389
+                  ]
+            },
+            {
+                  "name": "Oundouga",
+                  "text": "Der felsige Gipfel Oundouga prägt das Relief der trockenen Grand Bara-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        42.874167,
+                        11.242778
+                  ]
+            },
+            {
+                  "name": "Doudoub Dîn",
+                  "text": "Der markante Gipfel Doudoub Dîn erhebt sich nahe der großen Senke von Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.8475,
+                        11.248611
+                  ]
+            },
+            {
+                  "name": "Horror Yar",
+                  "text": "Der Berg Horror Yar thront über den weiten Wüstenflächen von Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.846111,
+                        11.230833
+                  ]
+            },
+            {
+                  "name": "Ouadjâlé",
+                  "text": "Der Gipfel Ouadjâlé ist eine natürliche Landmarke in der weiten Ebene von Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.887778,
+                        11.160556
+                  ]
+            },
+            {
+                  "name": "Lougag ‘Ali",
+                  "text": "Der Berggipfel Lougag ‘Ali formt die schroffe Skyline am Rand der Senke von Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.853333,
+                        11.175556
+                  ]
+            },
+            {
+                  "name": "Horror Ouéïn",
+                  "text": "Der Gipfel Horror Ouéïn überblickt die unwirtliche, offene Landschaft von Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.838889,
+                        11.179444
+                  ]
+            },
+            {
+                  "name": "H̱orre",
+                  "text": "Die Bergnase H̱orre ragt imposant in der trockenen Region Grand Bara empor.",
+                  "category": "natural",
+                  "coords": [
+                        42.832222,
+                        11.18
+                  ]
+            },
+            {
+                  "name": "‘Antôbolladjog",
+                  "text": "Der Gipfel ‘Antôbolladjog ist eine sichtbare Erhebung in der Wüstenregion um Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.923333,
+                        11.164167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aïréllâyé",
+                  "text": "Az Aïréllâyé hegycsúcs a Grand Bara régió napsütötte, tágas síkságaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.884167,
+                        11.266389
+                  ]
+            },
+            {
+                  "name": "Oundouga",
+                  "text": "Az Oundouga sziklás csúcsa meghatározza a száraz Grand Bara vidék domborzatát.",
+                  "category": "natural",
+                  "coords": [
+                        42.874167,
+                        11.242778
+                  ]
+            },
+            {
+                  "name": "Doudoub Dîn",
+                  "text": "A Doudoub Dîn jellegzetes csúcsa a Grand Bara nagy medencéje közelében magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.8475,
+                        11.248611
+                  ]
+            },
+            {
+                  "name": "Horror Yar",
+                  "text": "A Horror Yar hegy a Grand Bara kiterjedt sivatagi területei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        42.846111,
+                        11.230833
+                  ]
+            },
+            {
+                  "name": "Ouadjâlé",
+                  "text": "Az Ouadjâlé hegycsúcs természetes tájékozódási pont a Grand Bara hatalmas síkságán.",
+                  "category": "natural",
+                  "coords": [
+                        42.887778,
+                        11.160556
+                  ]
+            },
+            {
+                  "name": "Lougag ‘Ali",
+                  "text": "A Lougag ‘Ali hegycsúcs adja a Grand Bara medence szélén húzódó sziklás sziluettet.",
+                  "category": "natural",
+                  "coords": [
+                        42.853333,
+                        11.175556
+                  ]
+            },
+            {
+                  "name": "Horror Ouéïn",
+                  "text": "A Horror Ouéïn hegycsúcs a Grand Bara kietlen, nyílt tájára tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        42.838889,
+                        11.179444
+                  ]
+            },
+            {
+                  "name": "H̱orre",
+                  "text": "A H̱orre hegyorm impozánsan magasodik a száraz Grand Bara régióban.",
+                  "category": "natural",
+                  "coords": [
+                        42.832222,
+                        11.18
+                  ]
+            },
+            {
+                  "name": "‘Antôbolladjog",
+                  "text": "Az ‘Antôbolladjog csúcs egy jól látható kiemelkedés a Grand Bara körüli sivatagi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        42.923333,
+                        11.164167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aïréllâyé",
+                  "text": "Vârful Aïréllâyé privește peste câmpiile întinse și însorite din regiunea Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.884167,
+                        11.266389
+                  ]
+            },
+            {
+                  "name": "Oundouga",
+                  "text": "Vârful stâncos Oundouga conturează relieful peisajului arid din Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.874167,
+                        11.242778
+                  ]
+            },
+            {
+                  "name": "Doudoub Dîn",
+                  "text": "Vârful proeminent Doudoub Dîn se înalță în apropierea marii depresiuni din Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.8475,
+                        11.248611
+                  ]
+            },
+            {
+                  "name": "Horror Yar",
+                  "text": "Muntele Horror Yar se înalță deasupra întinderilor deșertice vaste din Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.846111,
+                        11.230833
+                  ]
+            },
+            {
+                  "name": "Ouadjâlé",
+                  "text": "Vârful Ouadjâlé servește drept reper natural în câmpiile vaste din Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.887778,
+                        11.160556
+                  ]
+            },
+            {
+                  "name": "Lougag ‘Ali",
+                  "text": "Vârful Lougag ‘Ali formează orizontul accidentat de la marginea depresiunii Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.853333,
+                        11.175556
+                  ]
+            },
+            {
+                  "name": "Horror Ouéïn",
+                  "text": "Vârful Horror Ouéïn oferă o panoramă asupra peisajului deschis și neprimitor din Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.838889,
+                        11.179444
+                  ]
+            },
+            {
+                  "name": "H̱orre",
+                  "text": "Muntele H̱orre se înalță impunător în peisajul secetos al regiunii Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.832222,
+                        11.18
+                  ]
+            },
+            {
+                  "name": "‘Antôbolladjog",
+                  "text": "Vârful ‘Antôbolladjog este o înălțime proeminentă în regiunea deșertică din jurul Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.923333,
+                        11.164167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aïréllâyé",
+                  "text": "The Aïréllâyé peak overlooks the expansive, sun-drenched plains of the Grand Bara region.",
+                  "category": "natural",
+                  "coords": [
+                        42.884167,
+                        11.266389
+                  ]
+            },
+            {
+                  "name": "Oundouga",
+                  "text": "The rocky peak of Oundouga shapes the topography of the dry Grand Bara landscape.",
+                  "category": "natural",
+                  "coords": [
+                        42.874167,
+                        11.242778
+                  ]
+            },
+            {
+                  "name": "Doudoub Dîn",
+                  "text": "The prominent Doudoub Dîn peak rises near the large depression of the Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.8475,
+                        11.248611
+                  ]
+            },
+            {
+                  "name": "Horror Yar",
+                  "text": "The Horror Yar mountain rises above the sweeping desert expanses of the Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.846111,
+                        11.230833
+                  ]
+            },
+            {
+                  "name": "Ouadjâlé",
+                  "text": "The Ouadjâlé peak is a natural landmark within the expansive plains of the Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.887778,
+                        11.160556
+                  ]
+            },
+            {
+                  "name": "Lougag ‘Ali",
+                  "text": "The Lougag ‘Ali peak forms the rugged skyline on the edge of the Grand Bara depression.",
+                  "category": "natural",
+                  "coords": [
+                        42.853333,
+                        11.175556
+                  ]
+            },
+            {
+                  "name": "Horror Ouéïn",
+                  "text": "The Horror Ouéïn peak looks out over the open, inhospitable terrain of the Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.838889,
+                        11.179444
+                  ]
+            },
+            {
+                  "name": "H̱orre",
+                  "text": "The H̱orre mountain rises imposingly within the dry landscapes of the Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.832222,
+                        11.18
+                  ]
+            },
+            {
+                  "name": "‘Antôbolladjog",
+                  "text": "The ‘Antôbolladjog peak is a noticeable elevation in the desert region surrounding the Grand Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.923333,
+                        11.164167
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-AR",
     coords: [42.900, 11.200],
@@ -390,7 +1965,232 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
   {
-    id: "goubet-wind-farm-industry-economic-v2",
+    id: "goubet-wind-farm-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ayrole Dâba",
+                  "text": "Dieser exponierte Berggipfel überblickt die Region goubet-wind-farm-industry-economic-v2, ein Gebiet, in dem beständige, starke Küstenwinde über das hohe Gelände fegen.",
+                  "category": "natural",
+                  "coords": [
+                        42.533333,
+                        11.618333
+                  ]
+            },
+            {
+                  "name": "Hamad Iba",
+                  "text": "Dieser Gipfel liegt in der windigen Landschaft der Zone goubet-wind-farm-industry-economic-v2 und bildet ein felsiges Wahrzeichen inmitten der Infrastruktur für erneuerbare Energien.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.548333
+                  ]
+            },
+            {
+                  "name": "Gala‘le Kôma",
+                  "text": "Dieser Gipfel erhebt sich über das umliegende Gelände im Gebiet goubet-wind-farm-industry-economic-v2, wobei seine Hänge regelmäßig starken Böen aus dem nahen Golf ausgesetzt sind.",
+                  "category": "natural",
+                  "coords": [
+                        42.52,
+                        11.558611
+                  ]
+            },
+            {
+                  "name": "Lâḏînis",
+                  "text": "Dieser natürliche Gipfel in der Region goubet-wind-farm-industry-economic-v2 bietet eine ideale Höhe, um die unerbittlichen vorherrschenden Winde der Gegend einzufangen.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aléïta",
+                  "text": "Diese felsige Erhebung in der Zone goubet-wind-farm-industry-economic-v2 wird kontinuierlich von den starken Windströmungen geformt, die die Region wirtschaftlich wertvoll machen.",
+                  "category": "natural",
+                  "coords": [
+                        42.488611,
+                        11.506389
+                  ]
+            },
+            {
+                  "name": "Dankalelo Beach",
+                  "text": "Dieser von Sand gesäumte Strand an der Küste des Gebiets goubet-wind-farm-industry-economic-v2 bietet einen Ort, an dem die starke Meeresbrise auf die Wellen trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        42.523821,
+                        11.526629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ayrole Dâba",
+                  "text": "Ez a kitett hegycsúcs a goubet-wind-farm-industry-economic-v2 régióra néz, egy olyan területre, ahol folyamatos, erős parti szelek söpörnek végig a magas terepen.",
+                  "category": "natural",
+                  "coords": [
+                        42.533333,
+                        11.618333
+                  ]
+            },
+            {
+                  "name": "Hamad Iba",
+                  "text": "A goubet-wind-farm-industry-economic-v2 zóna szeles tájában található hegycsúcs sziklás tájékozódási pontként szolgál a megújuló energiát hasznosító infrastruktúra közepette.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.548333
+                  ]
+            },
+            {
+                  "name": "Gala‘le Kôma",
+                  "text": "A goubet-wind-farm-industry-economic-v2 területén a környező terep fölé magasodó hegycsúcs lejtői rendszeresen szembesülnek a közeli öböl felől érkező erős széllökésekkel.",
+                  "category": "natural",
+                  "coords": [
+                        42.52,
+                        11.558611
+                  ]
+            },
+            {
+                  "name": "Lâḏînis",
+                  "text": "A goubet-wind-farm-industry-economic-v2 régióban található természetes csúcs ideális magasságot biztosít a terület könyörtelen uralkodó szeleinek befogására.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aléïta",
+                  "text": "Ezt a sziklás kiemelkedést a goubet-wind-farm-industry-economic-v2 zónában folyamatosan azok az erős széláramlatok formálják, amelyek a régiót gazdaságilag értékessé teszik.",
+                  "category": "natural",
+                  "coords": [
+                        42.488611,
+                        11.506389
+                  ]
+            },
+            {
+                  "name": "Dankalelo Beach",
+                  "text": "A goubet-wind-farm-industry-economic-v2 terület partja mentén húzódó homokos partszakasz olyan helyet kínál, ahol az erős tengeri szél találkozik a hullámokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        42.523821,
+                        11.526629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ayrole Dâba",
+                  "text": "Acest vârf muntos expus domină regiunea goubet-wind-farm-industry-economic-v2, o zonă în care vânturile puternice și constante de coastă străbat terenul înalt.",
+                  "category": "natural",
+                  "coords": [
+                        42.533333,
+                        11.618333
+                  ]
+            },
+            {
+                  "name": "Hamad Iba",
+                  "text": "Situat în peisajul bătut de vânturi al zonei goubet-wind-farm-industry-economic-v2, acest vârf se înalță ca un reper stâncos în mijlocul infrastructurii de energie regenerabilă.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.548333
+                  ]
+            },
+            {
+                  "name": "Gala‘le Kôma",
+                  "text": "Ridicându-se deasupra terenului înconjurător în zona goubet-wind-farm-industry-economic-v2, pantele acestui vârf se confruntă regulat cu rafale puternice venind dinspre golful din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        42.52,
+                        11.558611
+                  ]
+            },
+            {
+                  "name": "Lâḏînis",
+                  "text": "Situat în regiunea goubet-wind-farm-industry-economic-v2, acest summit natural oferă o altitudine ideală pentru a capta vânturile dominante necruțătoare ale zonei.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aléïta",
+                  "text": "Această proeminență stâncoasă din zona goubet-wind-farm-industry-economic-v2 este sculptată continuu de curenții de vânt puternici care fac regiunea valoroasă din punct de vedere economic.",
+                  "category": "natural",
+                  "coords": [
+                        42.488611,
+                        11.506389
+                  ]
+            },
+            {
+                  "name": "Dankalelo Beach",
+                  "text": "Mărginit de nisip de-a lungul coastei zonei goubet-wind-farm-industry-economic-v2, acest țărm oferă un loc unde briza puternică a mării se întâlnește cu valurile.",
+                  "category": "recreational",
+                  "coords": [
+                        42.523821,
+                        11.526629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ayrole Dâba",
+                  "text": "This exposed mountain peak overlooks the goubet-wind-farm-industry-economic-v2 region, an area where consistent, strong coastal winds sweep across the high terrain.",
+                  "category": "natural",
+                  "coords": [
+                        42.533333,
+                        11.618333
+                  ]
+            },
+            {
+                  "name": "Hamad Iba",
+                  "text": "Situated within the windy landscape of the goubet-wind-farm-industry-economic-v2 zone, this peak stands as a rocky landmark amidst the renewable energy infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.548333
+                  ]
+            },
+            {
+                  "name": "Gala‘le Kôma",
+                  "text": "Reaching above the surrounding terrain in the goubet-wind-farm-industry-economic-v2 area, the slopes of this peak regularly face strong gusts coming off the nearby gulf.",
+                  "category": "natural",
+                  "coords": [
+                        42.52,
+                        11.558611
+                  ]
+            },
+            {
+                  "name": "Lâḏînis",
+                  "text": "Located in the goubet-wind-farm-industry-economic-v2 region, this natural summit provides an ideal elevation for catching the relentless prevailing winds of the area.",
+                  "category": "natural",
+                  "coords": [
+                        42.503611,
+                        11.498056
+                  ]
+            },
+            {
+                  "name": "Eguer ‘Aléïta",
+                  "text": "This rocky prominence in the goubet-wind-farm-industry-economic-v2 zone is continually sculpted by the powerful wind currents that make the region economically valuable.",
+                  "category": "natural",
+                  "coords": [
+                        42.488611,
+                        11.506389
+                  ]
+            },
+            {
+                  "name": "Dankalelo Beach",
+                  "text": "Lined with sand along the coast of the goubet-wind-farm-industry-economic-v2 area, this shore offers a place where the strong sea breezes meet the waves.",
+                  "category": "recreational",
+                  "coords": [
+                        42.523821,
+                        11.526629
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-TA",
     coords: [42.530, 11.550],
@@ -584,7 +2384,88 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
   {
-    id: "djibouti-data-center-economic-v2",
+    id: "djibouti-data-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Train ticket office",
+                  "text": "Dieser ehemalige Fahrkartenschalter ist eine historische Eisenbahnattraktion in der Nähe des modernen Rechenzentrums von Dschibuti.",
+                  "category": "landmark",
+                  "coords": [
+                        43.1414,
+                        11.58972
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Institut Fran",
+                  "text": "Das Centre Culturel Institut Français ist ein französisches Kulturzentrum, das zur Förderung der Künste im Wirtschaftsviertel von Dschibuti beiträgt.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142393,
+                        11.591469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Train ticket office",
+                  "text": "Ez a korábbi vasúti jegypénztár egy történelmi vasúti látványosság, amely a modern Dzsibuti adatközpont közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        43.1414,
+                        11.58972
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Institut Fran",
+                  "text": "A Centre Culturel Institut Français egy francia kulturális központ, amely a művészeteket népszerűsíti Dzsibuti gazdasági negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142393,
+                        11.591469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Train ticket office",
+                  "text": "Acest fost birou de bilete de tren este o atracție feroviară istorică situată în apropierea centrului modern de date din Djibouti.",
+                  "category": "landmark",
+                  "coords": [
+                        43.1414,
+                        11.58972
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Institut Fran",
+                  "text": "Centre Culturel Institut Français este un centru cultural francez ce promovează artele în cartierul economic din Djibouti.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142393,
+                        11.591469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Train ticket office",
+                  "text": "This former train ticket office is a historical railway attraction situated near the modern Djibouti data center.",
+                  "category": "landmark",
+                  "coords": [
+                        43.1414,
+                        11.58972
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Institut Fran",
+                  "text": "The Centre Culturel Institut Français is a French arts centre promoting cultural exchange in Djibouti's economic district.",
+                  "category": "cultural",
+                  "coords": [
+                        43.142393,
+                        11.591469
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-DJ",
     coords: [43.140, 11.590],
@@ -681,7 +2562,124 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
   {
-    id: "damerjog-liquid-bulk-port-economic-v2",
+    id: "damerjog-liquid-bulk-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qôr Ouéïn",
+                  "text": "Qôr Ouéïn ist ein trockener, felsiger Gipfel in der Nähe der Infrastruktur des Damerjog-Flüssigguthafens.",
+                  "category": "natural",
+                  "coords": [
+                        43.183889,
+                        11.358611
+                  ]
+            },
+            {
+                  "name": "Goubad",
+                  "text": "Der Gipfel des Goubad bietet einen natürlichen Aussichtspunkt über das industrielle Damerjog-Flüssigguthafengebiet.",
+                  "category": "natural",
+                  "coords": [
+                        43.191111,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ḏagahdamêr",
+                  "text": "Ḏagahdamêr ist ein markanter Gipfel, der in der Nähe der wirtschaftlichen Entwicklungszone Damerjog steil aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.226389,
+                        11.429722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qôr Ouéïn",
+                  "text": "A Qôr Ouéïn egy száraz, sziklás hegycsúcs, amely a Damerjog folyékony ömlesztettáru-kikötő infrastruktúrája közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        43.183889,
+                        11.358611
+                  ]
+            },
+            {
+                  "name": "Goubad",
+                  "text": "A Goubad csúcsa természetes kilátópontot nyújt a Damerjog ipari folyékony ömlesztettáru-kikötőjére.",
+                  "category": "natural",
+                  "coords": [
+                        43.191111,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ḏagahdamêr",
+                  "text": "A Ḏagahdamêr egy kiemelkedő hegycsúcs, amely a Damerjog gazdasági fejlesztési övezet közelében emelkedik meredeken.",
+                  "category": "natural",
+                  "coords": [
+                        43.226389,
+                        11.429722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qôr Ouéïn",
+                  "text": "Qôr Ouéïn este un vârf stâncos și uscat situat în apropierea infrastructurii portului de mărfuri lichide Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.183889,
+                        11.358611
+                  ]
+            },
+            {
+                  "name": "Goubad",
+                  "text": "Vârful Goubad oferă un punct de observație natural asupra zonei industriale a portului de mărfuri lichide Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.191111,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ḏagahdamêr",
+                  "text": "Ḏagahdamêr este un vârf proeminent care se înalță abrupt în vecinătatea zonei de dezvoltare economică Damerjog.",
+                  "category": "natural",
+                  "coords": [
+                        43.226389,
+                        11.429722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qôr Ouéïn",
+                  "text": "Qôr Ouéïn is a dry, rocky peak located near the infrastructure of the Damerjog liquid bulk port.",
+                  "category": "natural",
+                  "coords": [
+                        43.183889,
+                        11.358611
+                  ]
+            },
+            {
+                  "name": "Goubad",
+                  "text": "The summit of Goubad provides a natural vantage point over the industrial Damerjog liquid bulk port area.",
+                  "category": "natural",
+                  "coords": [
+                        43.191111,
+                        11.411667
+                  ]
+            },
+            {
+                  "name": "Ḏagahdamêr",
+                  "text": "Ḏagahdamêr is a prominent peak rising sharply in the vicinity of the Damerjog economic development zone.",
+                  "category": "natural",
+                  "coords": [
+                        43.226389,
+                        11.429722
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DJ-AR",
     coords: [43.200, 11.440],
@@ -729,7 +2727,232 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       fr: ["Terminal de vrac liquide", "Port spécialisé", "Position stratégique"],
     }, image: "/poi-images/damerjog-liquid-bulk-port-economic-v2.webp"},
   {
-    id: "ghoubbet-perlite-mine-economic-v2",
+    id: "ghoubbet-perlite-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belvedere Sul Canyon",
+                  "text": "Ein dramatischer Aussichtspunkt mit weitem Blick hinab in den tiefen, felsigen Canyon nahe dem Perlitabbaugebiet Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566874,
+                        11.445932
+                  ]
+            },
+            {
+                  "name": "Hâwasse‘erto",
+                  "text": "Ein zerklüfteter Gipfel, der sich über die industriellen und vulkanischen Landschaften in der Nähe der Perlitminen von Ghoubbet erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.428333
+                  ]
+            },
+            {
+                  "name": "Lake Ghoubet Viewpoint",
+                  "text": "Ein erhöhter, malerischer Aussichtspunkt, der einen atemberaubenden Panoramablick auf das tiefblaue Wasser des Ghoubbet-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566917,
+                        11.473592
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Masgid",
+                  "text": "Ein markanter Berggipfel, der das trockene, mineralienreiche Gelände rund um die Region Ghoubbet dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        42.539722,
+                        11.445278
+                  ]
+            },
+            {
+                  "name": "Gôfa",
+                  "text": "Ein steiler, felsiger Gipfel mit Blick auf die vulkanischen Täler und Perlitvorkommen von Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566389,
+                        11.484167
+                  ]
+            },
+            {
+                  "name": "Kourani Boûr",
+                  "text": "Ein steiniger Gipfel, der sich scharf von der vulkanischen Küstenkulisse der Region Ghoubbet abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        42.619167,
+                        11.438056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belvedere Sul Canyon",
+                  "text": "Egy drámai kilátópont, amely lenyűgöző kilátást nyújt a Ghoubbet perlitbánya közelében lévő mély, sziklás kanyonba.",
+                  "category": "natural",
+                  "coords": [
+                        42.566874,
+                        11.445932
+                  ]
+            },
+            {
+                  "name": "Hâwasse‘erto",
+                  "text": "Egy zord hegycsúcs, amely a Ghoubbet perlitbányák közelében lévő ipari és vulkáni tájak fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.428333
+                  ]
+            },
+            {
+                  "name": "Lake Ghoubet Viewpoint",
+                  "text": "Egy magaslati festői kilátó, amely lélegzetelállító panorámát nyújt a Ghoubbet-tó mélykék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        42.566917,
+                        11.473592
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Masgid",
+                  "text": "Egy jellegzetes hegycsúcs, amely uralja a Ghoubbet régió körüli száraz, ásványi anyagokban gazdag terepet.",
+                  "category": "natural",
+                  "coords": [
+                        42.539722,
+                        11.445278
+                  ]
+            },
+            {
+                  "name": "Gôfa",
+                  "text": "Egy meredek sziklás hegycsúcs, amely a vulkáni völgyekre és Ghoubbet perlitlerakataira néz.",
+                  "category": "natural",
+                  "coords": [
+                        42.566389,
+                        11.484167
+                  ]
+            },
+            {
+                  "name": "Kourani Boûr",
+                  "text": "Egy köves hegycsúcs, amely élesen kiemelkedik a Ghoubbet terület partvidéki vulkáni hátteréből.",
+                  "category": "natural",
+                  "coords": [
+                        42.619167,
+                        11.438056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belvedere Sul Canyon",
+                  "text": "Un punct de observație dramatic care oferă vederi ample în jos spre canionul adânc și stâncos de lângă zona minieră de perlit Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566874,
+                        11.445932
+                  ]
+            },
+            {
+                  "name": "Hâwasse‘erto",
+                  "text": "Un vârf accidentat care se înalță deasupra peisajelor industriale și vulcanice din apropierea minelor de perlit Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.428333
+                  ]
+            },
+            {
+                  "name": "Lake Ghoubet Viewpoint",
+                  "text": "Un punct de belvedere panoramic la înălțime, oferind vederi uluitoare asupra apelor de un albastru intens ale Lacului Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566917,
+                        11.473592
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Masgid",
+                  "text": "Un vârf de munte distinct, care domină terenul arid și bogat în minerale din jurul regiunii Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.539722,
+                        11.445278
+                  ]
+            },
+            {
+                  "name": "Gôfa",
+                  "text": "Un vârf stâncos și abrupt care domină văile vulcanice și zăcămintele de perlit din Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566389,
+                        11.484167
+                  ]
+            },
+            {
+                  "name": "Kourani Boûr",
+                  "text": "Un vârf pietros care se înalță brusc pe fundalul vulcanic de coastă al zonei Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.619167,
+                        11.438056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belvedere Sul Canyon",
+                  "text": "A dramatic vantage point offering sweeping views down into the deep, rocky canyon near the Ghoubbet perlite mining area.",
+                  "category": "natural",
+                  "coords": [
+                        42.566874,
+                        11.445932
+                  ]
+            },
+            {
+                  "name": "Hâwasse‘erto",
+                  "text": "A rugged peak rising above the industrial and volcanic landscapes near the Ghoubbet perlite mines.",
+                  "category": "natural",
+                  "coords": [
+                        42.603056,
+                        11.428333
+                  ]
+            },
+            {
+                  "name": "Lake Ghoubet Viewpoint",
+                  "text": "An elevated scenic overlook providing breathtaking panoramic views of the deep blue waters of Lake Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566917,
+                        11.473592
+                  ]
+            },
+            {
+                  "name": "‘Ounḏa Masgid",
+                  "text": "A distinct mountain summit dominating the arid, mineral-rich terrain around the Ghoubbet region.",
+                  "category": "natural",
+                  "coords": [
+                        42.539722,
+                        11.445278
+                  ]
+            },
+            {
+                  "name": "Gôfa",
+                  "text": "A steep rocky peak overlooking the volcanic valleys and perlite deposits of Ghoubbet.",
+                  "category": "natural",
+                  "coords": [
+                        42.566389,
+                        11.484167
+                  ]
+            },
+            {
+                  "name": "Kourani Boûr",
+                  "text": "A stony summit rising sharply against the coastal volcanic backdrop of the Ghoubbet area.",
+                  "category": "natural",
+                  "coords": [
+                        42.619167,
+                        11.438056
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-AR",
     coords: [42.600, 11.500],
@@ -777,7 +3000,124 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       fr: ["Gisement de perlite", "Roche volcanique", "Mines"],
     }, image: "/poi-images/ghoubbet-perlite-mine-economic-v2.webp"},
   {
-    id: "fiale-geothermal-industry-economic-v2",
+    id: "fiale-geothermal-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hot Spring",
+                  "text": "Diese natürliche geothermische heiße Quelle im Gebiet fiale-geothermal-industry-economic-v2 bietet natürlich erhitztes Mineralwasser inmitten der rauen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        42.41398,
+                        11.603785
+                  ]
+            },
+            {
+                  "name": "Gale le Kôma",
+                  "text": "Dieser Gipfel bildet ein markantes topografisches Merkmal im Gebiet fiale-geothermal-industry-economic-v2 und sticht inmitten der natürlich aktiven Vulkanlandschaft hervor.",
+                  "category": "natural",
+                  "coords": [
+                        42.41,
+                        11.601944
+                  ]
+            },
+            {
+                  "name": "H̱âẖayta Kôma",
+                  "text": "Dieser felsige Berggipfel prägt die Skyline der Region fiale-geothermal-industry-economic-v2 und zeichnet sich durch seine trockenen, rauen Hänge aus.",
+                  "category": "natural",
+                  "coords": [
+                        42.468611,
+                        11.603611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hot Spring",
+                  "text": "Ez a természetes geotermikus meleg forrás a fiale-geothermal-industry-economic-v2 területén természetes módon melegített ásványvizet kínál a nyers környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        42.41398,
+                        11.603785
+                  ]
+            },
+            {
+                  "name": "Gale le Kôma",
+                  "text": "A fiale-geothermal-industry-economic-v2 területén kiemelkedő topográfiai jellemzőt alkotó hegycsúcs feltűnő a természetesen aktív vulkáni tájon.",
+                  "category": "natural",
+                  "coords": [
+                        42.41,
+                        11.601944
+                  ]
+            },
+            {
+                  "name": "H̱âẖayta Kôma",
+                  "text": "Ez a sziklás hegycsúcs formálja a fiale-geothermal-industry-economic-v2 régió látképét, amelyet száraz és zord lejtői jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        42.468611,
+                        11.603611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hot Spring",
+                  "text": "Acest izvor termal geotermal natural din zona fiale-geothermal-industry-economic-v2 oferă ape minerale încălzite natural, înconjurate de terenul brut.",
+                  "category": "landmark",
+                  "coords": [
+                        42.41398,
+                        11.603785
+                  ]
+            },
+            {
+                  "name": "Gale le Kôma",
+                  "text": "Formând o caracteristică topografică proeminentă în zona fiale-geothermal-industry-economic-v2, acest vârf iese în evidență în mijlocul peisajului vulcanic activ natural.",
+                  "category": "natural",
+                  "coords": [
+                        42.41,
+                        11.601944
+                  ]
+            },
+            {
+                  "name": "H̱âẖayta Kôma",
+                  "text": "Acest vârf muntos stâncos conturează orizontul regiunii fiale-geothermal-industry-economic-v2, fiind marcat de pantele sale uscate și accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        42.468611,
+                        11.603611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hot Spring",
+                  "text": "This natural geothermal hot spring in the fiale-geothermal-industry-economic-v2 area provides naturally heated mineral waters surrounded by the earth's raw terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        42.41398,
+                        11.603785
+                  ]
+            },
+            {
+                  "name": "Gale le Kôma",
+                  "text": "Forming a prominent topographical feature in the fiale-geothermal-industry-economic-v2 area, this peak stands out amidst the naturally active volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        42.41,
+                        11.601944
+                  ]
+            },
+            {
+                  "name": "H̱âẖayta Kôma",
+                  "text": "This rocky mountain peak shapes the skyline of the fiale-geothermal-industry-economic-v2 region, marked by its dry and rugged slopes.",
+                  "category": "natural",
+                  "coords": [
+                        42.468611,
+                        11.603611
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-TA",
     coords: [42.450, 11.600],
@@ -874,7 +3214,52 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
   {
-    id: "djibouti-steel-mill-economic-v2",
+    id: "djibouti-steel-mill-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Osbo",
+                  "text": "Der Gipfel Osbo erhebt sich als markante geologische Erhebung in der Nähe der Stahlwerke von Dschibuti.",
+                  "category": "natural",
+                  "coords": [
+                        43.108889,
+                        11.570556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osbo",
+                  "text": "Az Osbo csúcs egy kiemelkedő geológiai képződmény, amely a dzsibuti acélművek közelében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.108889,
+                        11.570556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Osbo",
+                  "text": "Vârful Osbo se înalță ca o formă de relief proeminentă în apropierea oțelăriei din Djibouti.",
+                  "category": "natural",
+                  "coords": [
+                        43.108889,
+                        11.570556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osbo",
+                  "text": "The Osbo peak rises as a prominent natural elevation near the Djibouti steel mill area.",
+                  "category": "natural",
+                  "coords": [
+                        43.108889,
+                        11.570556
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DJ-DJ",
     coords: [43.120, 11.560],

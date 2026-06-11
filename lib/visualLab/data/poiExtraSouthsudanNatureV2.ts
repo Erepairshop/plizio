@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthsudanNatureV2: POI[] = [
   {
-    id: "mount-kinyeti-nature-v2",
+    id: "mount-kinyeti-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kinyeti",
+                  "text": "Der Mount Kinyeti ist der höchste Gipfel im Südsudan und erhebt sich in den abgelegenen, bewaldeten Imatong-Bergen auf über 3.100 Meter.",
+                  "category": "natural",
+                  "coords": [
+                        32.910278,
+                        3.946111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Kinyeti",
+                  "text": "A Kinyeti-hegy Dél-Szudán legmagasabb csúcsa, amely a távoli, erdős Imatong-hegységben több mint 3100 méteres magasságba emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        32.910278,
+                        3.946111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Kinyeti",
+                  "text": "Muntele Kinyeti este cel mai înalt vârf din Sudanul de Sud, ridicându-se la peste 3.100 de metri în îndepărtații și împăduriții Munți Imatong.",
+                  "category": "natural",
+                  "coords": [
+                        32.910278,
+                        3.946111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Kinyeti",
+                  "text": "Mount Kinyeti is the highest peak in South Sudan, rising to over 3,100 meters within the remote, forested Imatong Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        32.910278,
+                        3.946111
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SS-EE",
     coords: [32.912, 3.947],
@@ -91,7 +136,268 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     },
   },
   {
-    id: "white-nile-southsudan-nature-v2",
+    id: "white-nile-southsudan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liberty Clock, Maderiya Roundabout",
+                  "text": "Ein markantes Uhrturmdenkmal in der Mitte des Kreisverkehrs von Maderiya in der Nähe des Weißen Nils.",
+                  "category": "historical",
+                  "coords": [
+                        31.609639,
+                        4.852986
+                  ]
+            },
+            {
+                  "name": "St. Joseph church",
+                  "text": "Ein Apartmentkomplex, der sich das Gelände mit der historischen katholischen Kirche St. Joseph in der Nähe des Weißen Nils teilt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609671,
+                        4.847954
+                  ]
+            },
+            {
+                  "name": "Mobil Roundabout",
+                  "text": "Der Mobil-Kreisverkehr ist ein markantes Verkehrsdenkmal in der Region am Weißen Nil.",
+                  "category": "historical",
+                  "coords": [
+                        31.607217,
+                        4.846265
+                  ]
+            },
+            {
+                  "name": "Ministerium für Bergbau",
+                  "text": "Das Bergbauministerium ist ein markantes Verwaltungsgebäude, das die Gewinnung von Bodenschätzen in der Region überwacht.",
+                  "category": "landmark",
+                  "coords": [
+                        31.600385,
+                        4.841486
+                  ]
+            },
+            {
+                  "name": "NCA,Norwegian church aid",
+                  "text": "Dieser Apartmentkomplex beherbergt die Büros und Mitarbeiter der Norwegian Church Aid in der Nähe des Weißen Nils.",
+                  "category": "landmark",
+                  "coords": [
+                        31.598297,
+                        4.848985
+                  ]
+            },
+            {
+                  "name": "T Intersection",
+                  "text": "Diese T-Kreuzung dient als bemerkenswerter lokaler Navigationspunkt entlang des regionalen Straßennetzes.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596749,
+                        4.849009
+                  ]
+            },
+            {
+                  "name": "Power transforms",
+                  "text": "Die Transformatorenanlage bildet einen kritischen Bestandteil der lokalen Stromnetzinfrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59721,
+                        4.845238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liberty Clock, Maderiya Roundabout",
+                  "text": "Egy kiemelkedő óratorony emlékmű, amely a Fehér-Nílushoz közeli Maderiya körforgalom közepén áll.",
+                  "category": "historical",
+                  "coords": [
+                        31.609639,
+                        4.852986
+                  ]
+            },
+            {
+                  "name": "St. Joseph church",
+                  "text": "Egy apartmankomplexum, amely a történelmi Szent József katolikus templom területén található a Fehér-Nílus közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609671,
+                        4.847954
+                  ]
+            },
+            {
+                  "name": "Mobil Roundabout",
+                  "text": "A Mobil körforgalom egy jellegzetes közlekedési emlékmű a Fehér-Nílus régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        31.607217,
+                        4.846265
+                  ]
+            },
+            {
+                  "name": "Ministry of Mining",
+                  "text": "A Bányászati Minisztérium egy kiemelkedő adminisztratív épület, amely a térség ásványkincs-kitermelését felügyeli.",
+                  "category": "landmark",
+                  "coords": [
+                        31.600385,
+                        4.841486
+                  ]
+            },
+            {
+                  "name": "NCA,Norwegian church aid",
+                  "text": "Ez az apartmankomplexum a Norvég Egyházi Segélyszervezet irodáinak és munkatársainak ad otthont a Fehér-Nílus közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.598297,
+                        4.848985
+                  ]
+            },
+            {
+                  "name": "T Intersection",
+                  "text": "Ez a T-elágazás figyelemre méltó helyi tájékozódási pontként szolgál a regionális úthálózaton.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596749,
+                        4.849009
+                  ]
+            },
+            {
+                  "name": "Power transforms",
+                  "text": "A transzformátor-állomás a helyi elektromos hálózat infrastruktúrájának kritikus részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59721,
+                        4.845238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liberty Clock, Maderiya Roundabout",
+                  "text": "Un monument cu turn cu ceas care se înalță vizibil în centrul sensului giratoriu Maderiya de lângă Nilul Alb.",
+                  "category": "historical",
+                  "coords": [
+                        31.609639,
+                        4.852986
+                  ]
+            },
+            {
+                  "name": "St. Joseph church",
+                  "text": "Un complex de apartamente care împarte terenul cu biserica istorică catolică Sf. Iosif lângă Nilul Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609671,
+                        4.847954
+                  ]
+            },
+            {
+                  "name": "Mobil Roundabout",
+                  "text": "Sensul giratoriu Mobil servește drept monument rutier distinctiv în regiunea Nilului Alb.",
+                  "category": "historical",
+                  "coords": [
+                        31.607217,
+                        4.846265
+                  ]
+            },
+            {
+                  "name": "Ministry of Mining",
+                  "text": "Ministerul Mineritului este o clădire administrativă proeminentă care supraveghează extracția resurselor minerale din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.600385,
+                        4.841486
+                  ]
+            },
+            {
+                  "name": "NCA,Norwegian church aid",
+                  "text": "Acest complex de apartamente găzduiește birourile și personalul organizației Norwegian Church Aid, care operează în apropierea Nilului Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        31.598297,
+                        4.848985
+                  ]
+            },
+            {
+                  "name": "T Intersection",
+                  "text": "Această intersecție în T acționează ca un punct de reper local notabil pentru navigație de-a lungul rețelei rutiere regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596749,
+                        4.849009
+                  ]
+            },
+            {
+                  "name": "Power transforms",
+                  "text": "Instalația de transformatoare de putere formează o piesă critică a infrastructurii rețelei electrice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59721,
+                        4.845238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liberty Clock, Maderiya Roundabout",
+                  "text": "A clock tower monument standing prominently in the center of the Maderiya Roundabout near the White Nile.",
+                  "category": "historical",
+                  "coords": [
+                        31.609639,
+                        4.852986
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "An apartment complex sharing grounds with the historic St. Joseph's Catholic Church near the White Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        31.609671,
+                        4.847954
+                  ]
+            },
+            {
+                  "name": "Mobil Roundabout",
+                  "text": "The Mobil Roundabout serves as a distinctive traffic monument within the White Nile region.",
+                  "category": "historical",
+                  "coords": [
+                        31.607217,
+                        4.846265
+                  ]
+            },
+            {
+                  "name": "Ministry of Mining",
+                  "text": "The Ministry of Mining is a prominent administrative building overseeing the extraction of mineral resources in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.600385,
+                        4.841486
+                  ]
+            },
+            {
+                  "name": "NCA,Norwegian church aid",
+                  "text": "This apartment complex houses the offices and staff of the Norwegian Church Aid organisation operating near the White Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        31.598297,
+                        4.848985
+                  ]
+            },
+            {
+                  "name": "T Intersection",
+                  "text": "This T Intersection acts as a notable local navigational landmark along the regional road network.",
+                  "category": "landmark",
+                  "coords": [
+                        31.596749,
+                        4.849009
+                  ]
+            },
+            {
+                  "name": "Power transforms",
+                  "text": "The power transforms installation forms a critical piece of the local electrical grid infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        31.59721,
+                        4.845238
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SS-EC",
     coords: [31.6, 4.85],

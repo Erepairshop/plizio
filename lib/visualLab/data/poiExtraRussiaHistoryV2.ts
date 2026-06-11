@@ -2212,7 +2212,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       "de": [
             {
                   "name": "Spaso-Evfimiev muzhskoi monastyr'",
-                  "text": "Das Erlöser-Euthymios-Kloster ist ein bedeutendes Susdaler Kloster, das 1352 gegründet wurde.",
+                  "text": "UNESCO-Weltkulturerbe: Spasso-Jewfimijew-Kloster in Susdal.",
                   "category": "religious",
                   "coords": [
                         40.439983,
@@ -2250,7 +2250,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       "hu": [
             {
                   "name": "Spaso-Evfimiev muzhskoi monastyr'",
-                  "text": "A Megváltó-Euthümiosz-kolostor egy jelentős szuzdali kolostor, amelyet 1352-ben alapítottak.",
+                  "text": "UNESCO világörökségi helyszín: Szpaszo-Jevfimijev kolostor Szuzdalban.",
                   "category": "religious",
                   "coords": [
                         40.439983,
@@ -2288,7 +2288,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       "ro": [
             {
                   "name": "Spaso-Evfimiev muzhskoi monastyr'",
-                  "text": "Mănăstirea Sfântul Eufimie este o mănăstire majoră din Suzdal, fondată în 1352.",
+                  "text": "Patrimoniu UNESCO: Mănăstirea Spaso-Evfimiev din Suzdal.",
                   "category": "religious",
                   "coords": [
                         40.439983,
@@ -2326,7 +2326,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       "en": [
             {
                   "name": "Spaso-Evfimiyev Monastery",
-                  "text": "Spaso-Evfimiyev Monastery is a major Suzdal monastery founded in 1352.",
+                  "text": "UNESCO World Heritage: Spaso-Evfimiyev Monastery in Suzdal.",
                   "category": "religious",
                   "coords": [
                         40.439983,
@@ -3027,7 +3027,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Burg Wyborg",
-                  "text": "Eine schwedische mittelalterliche Festung, das Wahrzeichen der Stadt Wyborg.",
+                  "text": "1293 erbaute Burg Wyborg in Wyborg.",
                   "category": "castle",
                   "coords": [
                         28.728847,
@@ -3110,7 +3110,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Vyborgskii zamok",
-                  "text": "Svéd középkori erődítmény, Viborg városának jelképe.",
+                  "text": "1293-ban épült Viipurin linna Viipuriban (ma Viborg).",
                   "category": "castle",
                   "coords": [
                         28.728847,
@@ -3193,7 +3193,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Vyborgskii zamok",
-                  "text": "O fortăreață medievală suedeză, simbolul orașului Vîborg.",
+                  "text": "Castelul Vyborg construit în 1293 în Vyborg.",
                   "category": "castle",
                   "coords": [
                         28.728847,
@@ -3276,7 +3276,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Vyborg Castle",
-                  "text": "A Swedish medieval fortress that is the symbol of the city of Vyborg.",
+                  "text": "Vyborg Castle built in 1293 in Vyborg.",
                   "category": "castle",
                   "coords": [
                         28.728847,

@@ -137,7 +137,196 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["La cathédrale fut officiellement inaugurée en 1930.", "Elle est le siège de l'archevêque catholique de Conakry.", "L'édifice se distingue par sa façade jaune caractéristique.", "Sainte-Marie est située à quelques mètres de la présidence.", "C'est l'un des bâtiments coloniaux les mieux conservés de la ville.", "Son architecture mêle néogothique européen et adaptations locales."],
     }, image: "/poi-images/conakry-cathedral-landmarks-v2.webp"},
   {
-    id: "monument-22-november-landmarks-v2",
+    id: "monument-22-november-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samory Touré",
+                  "text": "Dieses Denkmal ehrt Samory Touré, den verehrten Gründer des Wassoulou-Reiches und Symbol des antikolonialen Widerstands.",
+                  "category": "historical",
+                  "coords": [
+                        -13.686469,
+                        9.524255
+                  ]
+            },
+            {
+                  "name": "Livre",
+                  "text": "Das Livre-Denkmal ist eine skulpturale Darstellung eines Buches, die das Lernen und die Literatur auf dem öffentlichen Platz der Stadt feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -13.687678,
+                        9.525413
+                  ]
+            },
+            {
+                  "name": "Statue de Conakry",
+                  "text": "Die Statue de Conakry ist ein prominentes bürgerliches Denkmal, das als visuelles Symbol für das Erbe der guineischen Hauptstadt errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -13.688618,
+                        9.526138
+                  ]
+            },
+            {
+                  "name": "Plage de la Camayenne",
+                  "text": "Die Plage de la Camayenne ist ein beliebter städtischer Sandstrand, an dem sich die Einheimischen an der Atlantikküste entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.690194,
+                        9.534484
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Franco-Guinéen",
+                  "text": "Das 1999 eröffnete Centre Culturel Franco-Guinéen ist ein dynamisches Kunstzentrum, das dem interkulturellen Austausch zwischen Frankreich und Guinea gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.689342,
+                        9.524735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samory Touré",
+                  "text": "Ez az emlékmű Samory Touré, a Wassoulou Birodalom tisztelt alapítója és az antikoloniális ellenállás szimbóluma előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -13.686469,
+                        9.524255
+                  ]
+            },
+            {
+                  "name": "Livre",
+                  "text": "A Livre emlékmű egy könyvet ábrázoló szobor, amely a tanulást és az irodalmat ünnepli a város köztéren.",
+                  "category": "historical",
+                  "coords": [
+                        -13.687678,
+                        9.525413
+                  ]
+            },
+            {
+                  "name": "Statue de Conakry",
+                  "text": "A Statue de Conakry egy kiemelkedő polgári emlékmű, amelyet a guineai főváros örökségének vizuális szimbólumaként emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        -13.688618,
+                        9.526138
+                  ]
+            },
+            {
+                  "name": "Plage de la Camayenne",
+                  "text": "A Plage de la Camayenne egy népszerű városi homokos part, ahol a helyiek az Atlanti-óceán partján pihennek.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.690194,
+                        9.534484
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Franco-Guinéen",
+                  "text": "Az 1999-ben megnyílt Centre Culturel Franco-Guinéen egy dinamikus művészeti központ, amelyet a Franciaország és Guinea közötti kulturális cserének szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.689342,
+                        9.524735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samory Touré",
+                  "text": "Acest monument îl onorează pe Samory Touré, veneratul fondator al Imperiului Wassoulou și simbol al rezistenței anticoloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -13.686469,
+                        9.524255
+                  ]
+            },
+            {
+                  "name": "Livre",
+                  "text": "Monumentul Livre este o reprezentare sculpturală a unei cărți, care celebrează învățarea și literatura în piața publică a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -13.687678,
+                        9.525413
+                  ]
+            },
+            {
+                  "name": "Statue de Conakry",
+                  "text": "Statue de Conakry este un monument civic proeminent ridicat ca simbol vizual al patrimoniului capitalei guineeane.",
+                  "category": "historical",
+                  "coords": [
+                        -13.688618,
+                        9.526138
+                  ]
+            },
+            {
+                  "name": "Plage de la Camayenne",
+                  "text": "Plage de la Camayenne este un țărm de nisip urban popular, unde localnicii se adună pentru a se relaxa la Oceanul Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.690194,
+                        9.534484
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Franco-Guinéen",
+                  "text": "Deschis în 1999, Centre Culturel Franco-Guinéen este un centru de arte dinamic dedicat schimbului intercultural dintre Franța și Guineea.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.689342,
+                        9.524735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samory Touré",
+                  "text": "This monument honors Samory Touré, the revered founder of the Wassoulou Empire and symbol of anti-colonial resistance.",
+                  "category": "historical",
+                  "coords": [
+                        -13.686469,
+                        9.524255
+                  ]
+            },
+            {
+                  "name": "Livre",
+                  "text": "The Livre monument is a sculptural representation of a book, celebrating learning and literature in the city's public square.",
+                  "category": "historical",
+                  "coords": [
+                        -13.687678,
+                        9.525413
+                  ]
+            },
+            {
+                  "name": "Statue de Conakry",
+                  "text": "The Statue de Conakry is a prominent civic monument erected as a visual symbol of the Guinean capital's heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -13.688618,
+                        9.526138
+                  ]
+            },
+            {
+                  "name": "Plage de la Camayenne",
+                  "text": "Plage de la Camayenne is a popular urban sandy shore where locals gather to relax by the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.690194,
+                        9.534484
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Franco-Guinéen",
+                  "text": "Opened in 1999, the Centre Culturel Franco-Guinéen is a dynamic arts hub dedicated to intercultural exchange between France and Guinea.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.689342,
+                        9.524735
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.682, 9.53],
@@ -326,7 +515,88 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["Le stade porte le nom de la date du référendum d'indépendance.", "Il dispose d'une capacité officielle de 25 000 places assises.", "Le Stade du 28 Septembre a accueilli les plus grands succès footballistiques du Syli National.", "Il est situé dans le quartier de Dixinn, l'un des plus anciens de Conakry.", "Le stade sert également aux compétitions d'athlétisme et aux rassemblements politiques.", "L'université Gamal Abdel Nasser se trouve à proximité."],
     }, image: "/poi-images/stade-28-septembre-landmarks-v2.webp"},
   {
-    id: "nongo-stadium-landmarks-v2",
+    id: "nongo-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sory Kandja Kouyate",
+                  "text": "Das Denkmal für Sory Kandja Kouyate ehrt den berühmten guineischen Sänger mit einer öffentlichen Gedenkstätte in der Nähe des Nongo-Stadions.",
+                  "category": "historical",
+                  "coords": [
+                        -13.602556,
+                        9.602149
+                  ]
+            },
+            {
+                  "name": "Resto NightClub MoryKantéyah",
+                  "text": "Der Resto NightClub MoryKantéyah ist ein lebhafter Unterhaltungsort, der nahe dem Nongo-Stadion lokales Nachtleben und Gastronomie verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.624297,
+                        9.617159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sory Kandja Kouyate",
+                  "text": "A Sory Kandja Kouyate emlékmű a híres guineai énekes előtt tiszteleg egy nyilvános szoborral a Nongo stadion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -13.602556,
+                        9.602149
+                  ]
+            },
+            {
+                  "name": "Resto NightClub MoryKantéyah",
+                  "text": "A Resto NightClub MoryKantéyah egy pezsgő szórakozóhely, amely a helyi éjszakai életet ötvözi az étkezéssel a Nongo stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.624297,
+                        9.617159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sory Kandja Kouyate",
+                  "text": "Monumentul Sory Kandja Kouyate îl onorează pe celebrul cântăreț guineean cu o structură memorială publică lângă stadionul Nongo.",
+                  "category": "historical",
+                  "coords": [
+                        -13.602556,
+                        9.602149
+                  ]
+            },
+            {
+                  "name": "Resto NightClub MoryKantéyah",
+                  "text": "Resto NightClub MoryKantéyah este un loc de divertisment vibrant care îmbină viața de noapte locală cu mesele în apropierea stadionului Nongo.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.624297,
+                        9.617159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sory Kandja Kouyate",
+                  "text": "The Sory Kandja Kouyate monument honors the celebrated Guinean singer with a public memorial structure near the Nongo stadium.",
+                  "category": "historical",
+                  "coords": [
+                        -13.602556,
+                        9.602149
+                  ]
+            },
+            {
+                  "name": "Resto NightClub MoryKantéyah",
+                  "text": "Resto NightClub MoryKantéyah is a vibrant entertainment venue blending local nightlife with dining near the Nongo stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.624297,
+                        9.617159
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.614, 9.617],
@@ -528,7 +798,88 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["Le musée abrite le célèbre masque \"Nimba\", un symbole national de la Guinée.", "Il est situé sur le site de l'ancien fort colonial de Sandervalia.", "La collection comprend plus de 10 000 objets ethnographiques enregistrés.", "Le jardin abrite des statues de fonctionnaires coloniaux français comme le gouverneur Noël Ballay.", "Le musée a été officiellement inauguré comme musée national en 1960.", "C'est un centre important pour l'étude de l'art de la sculpture sur bois en Afrique de l'Ouest."],
     }, image: "/poi-images/national-museum-guinea-landmarks-v2.webp"},
   {
-    id: "boulbinet-lighthouse-landmarks-v2",
+    id: "boulbinet-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Soro",
+                  "text": "Die Plage Soro ist eine malerische Küstenattraktion, die Besucher mit ihrem natürlichen Ufer nahe dem historischen Boulbinet-Leuchtturm anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.76732,
+                        9.50375
+                  ]
+            },
+            {
+                  "name": "Palais Roi Mohamed V",
+                  "text": "Der Palais Roi Mohamed V ist ein imposanter architektonischer Komplex in Conakry, der für Regierungs- und internationale Veranstaltungen erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -13.715615,
+                        9.505337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Soro",
+                  "text": "A Plage Soro egy festői tengerparti látványosság, amely természetes partvonalával vonzza a látogatókat a történelmi Boulbinet világítótorony közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.76732,
+                        9.50375
+                  ]
+            },
+            {
+                  "name": "Palais Roi Mohamed V",
+                  "text": "A Palais Roi Mohamed V egy impozáns építészeti komplexum Conakryban, amelyet kormányzati és nemzetközi események megrendezésére építettek.",
+                  "category": "castle",
+                  "coords": [
+                        -13.715615,
+                        9.505337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Soro",
+                  "text": "Plage Soro este o atracție de coastă pitorească care atrage vizitatorii cu țărmul său natural lângă farul istoric Boulbinet.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.76732,
+                        9.50375
+                  ]
+            },
+            {
+                  "name": "Palais Roi Mohamed V",
+                  "text": "Palais Roi Mohamed V este un complex arhitectural impunător din Conakry, construit pentru a găzdui evenimente guvernamentale și internaționale.",
+                  "category": "castle",
+                  "coords": [
+                        -13.715615,
+                        9.505337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Soro",
+                  "text": "Plage Soro is a picturesque coastal attraction drawing visitors with its natural shoreline near the historic Boulbinet lighthouse.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.76732,
+                        9.50375
+                  ]
+            },
+            {
+                  "name": "Palais Roi Mohamed V",
+                  "text": "The Palais Roi Mohamed V is an imposing architectural complex in Conakry built to host major governmental and international events.",
+                  "category": "castle",
+                  "coords": [
+                        -13.715615,
+                        9.505337
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.715, 9.505],
@@ -1131,7 +1482,124 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["La cathédrale a été achevée dans les années 1950.", "Elle est le siège de l'évêché catholique romain de Kankan.", "Kankan est la seule ville de Haute-Guinée à posséder une cathédrale d'une telle importance.", "L'édifice est principalement composé de briques rouges caractéristiques.", "L'église gère des écoles adjacentes ouvertes aux élèves de toutes confessions.", "Elle sert de symbole important pour le dialogue interreligieux en Guinée."],
     }, image: "/poi-images/kankan-cathedral-landmarks-v2.webp"},
   {
-    id: "madina-market-landmarks-v2",
+    id: "madina-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Silly",
+                  "text": "Das Silly-Denkmal ist eine strukturelle Hommage an das guineische Nationalsymbol „Syli“ (Elefant) unweit des geschäftigen Madina-Marktes.",
+                  "category": "historical",
+                  "coords": [
+                        -13.665845,
+                        9.558511
+                  ]
+            },
+            {
+                  "name": "Madina market enter",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über den chaotischen, lebhaften Eingang von Westafrikas riesigem Handelszentrum am Madina-Markt.",
+                  "category": "natural",
+                  "coords": [
+                        -13.670564,
+                        9.546533
+                  ]
+            },
+            {
+                  "name": "Permanence Dixinn",
+                  "text": "Die Permanence Dixinn ist ein kommunales Kunstzentrum, das kulturelle Zusammenkünfte und kreative Veranstaltungen in der lebhaften Gemeinde ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.673024,
+                        9.552101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silly",
+                  "text": "A Silly emlékmű egy strukturális tisztelgés Guinea nemzeti szimbóluma, a „Syli” (elefánt) előtt a nyüzsgő Madina piac közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -13.665845,
+                        9.558511
+                  ]
+            },
+            {
+                  "name": "Madina market enter",
+                  "text": "A Madina piac bejáratánál lévő kilátópontról átfogó perspektíva nyílik Nyugat-Afrika hatalmas kereskedelmi központjának vibráló bejáratára.",
+                  "category": "natural",
+                  "coords": [
+                        -13.670564,
+                        9.546533
+                  ]
+            },
+            {
+                  "name": "Permanence Dixinn",
+                  "text": "A Permanence Dixinn egy közösségi művészeti központ, amely kulturális összejöveteleknek és kreatív eseményeknek ad otthont a nyüzsgő negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.673024,
+                        9.552101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silly",
+                  "text": "Monumentul Silly este un omagiu structural care reflectă simbolul național al Guineei, „Syli” (elefant), situat aproape de piața plină de viață Madina.",
+                  "category": "historical",
+                  "coords": [
+                        -13.665845,
+                        9.558511
+                  ]
+            },
+            {
+                  "name": "Madina market enter",
+                  "text": "Punctul de belvedere de la intrarea în piața Madina oferă o perspectivă amplă asupra intrării haotice și vibrante a acestui masiv centru comercial din Africa de Vest.",
+                  "category": "natural",
+                  "coords": [
+                        -13.670564,
+                        9.546533
+                  ]
+            },
+            {
+                  "name": "Permanence Dixinn",
+                  "text": "Permanence Dixinn este un centru de arte comunitare care găzduiește adunări culturale și evenimente creative în aglomerata municipalitate Dixinn.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.673024,
+                        9.552101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silly",
+                  "text": "The Silly monument is a structural tribute reflecting Guinea's national \"Syli\" (elephant) symbol, situated close to the bustling Madina market.",
+                  "category": "historical",
+                  "coords": [
+                        -13.665845,
+                        9.558511
+                  ]
+            },
+            {
+                  "name": "Madina market enter",
+                  "text": "The Madina market enter viewpoint provides a sweeping perspective over the chaotic, vibrant entrance of West Africa's massive commercial hub.",
+                  "category": "natural",
+                  "coords": [
+                        -13.670564,
+                        9.546533
+                  ]
+            },
+            {
+                  "name": "Permanence Dixinn",
+                  "text": "Permanence Dixinn is a community arts centre hosting cultural gatherings and creative events in the bustling Dixinn municipality.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.673024,
+                        9.552101
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.665, 9.545],
@@ -1265,7 +1733,88 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["Le pont est un goulet d'étranglement pour le trafic terrestre entre l'ouest et l'est de la Guinée.", "Il enjambe le Niger à l'un de ses endroits les plus chargés d'histoire.", "Le pont a été construit avec la participation d'entreprises de construction européennes.", "Pendant la saison des pluies, le niveau du fleuve atteint presque le tablier du pont.", "C'est la seule liaison fixe sur le Niger dans la préfecture de Kouroussa.", "Le pont est crucial pour le trafic de transit en provenance du Mali et du Burkina Faso."],
     }, image: "/poi-images/kouroussa-niger-bridge-landmarks-v2.webp"},
   {
-    id: "conakry-cultural-center-landmarks-v2",
+    id: "conakry-cultural-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atelier de couture Mme Keita",
+                  "text": "Das Atelier de couture Mme Keita ist eine traditionelle Schneiderwerkstatt, in der Besucher die guineische Textilhandwerkskunst hautnah erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.701038,
+                        9.516723
+                  ]
+            },
+            {
+                  "name": "Monument du 22 novembre 1970",
+                  "text": "Das Monument du 22 novembre 1970 erinnert an die erfolgreiche guineische Verteidigung gegen die portugiesisch geführte Invasion „Operation Green Sea“.",
+                  "category": "historical",
+                  "coords": [
+                        -13.69052,
+                        9.521498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atelier de couture Mme Keita",
+                  "text": "Az Atelier de couture Mme Keita egy hagyományos szabóműhely, ahol a látogatók testközelből figyelhetik meg a helyi guineai textilkézművességet.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.701038,
+                        9.516723
+                  ]
+            },
+            {
+                  "name": "Monument du 22 novembre 1970",
+                  "text": "A Monument du 22 novembre 1970 a portugál vezetésű Zöld Tenger hadművelet elleni sikeres guineai védekezésnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -13.69052,
+                        9.521498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atelier de couture Mme Keita",
+                  "text": "Atelier de couture Mme Keita este un atelier de croitorie tradițional unde vizitatorii pot observa la fața locului meșteșugul textil local din Guineea.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.701038,
+                        9.516723
+                  ]
+            },
+            {
+                  "name": "Monument du 22 novembre 1970",
+                  "text": "Monument du 22 novembre 1970 comemorează apărarea cu succes a Guineei împotriva invaziei conduse de portughezi, Operațiunea Marea Verde.",
+                  "category": "historical",
+                  "coords": [
+                        -13.69052,
+                        9.521498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atelier de couture Mme Keita",
+                  "text": "Atelier de couture Mme Keita is a traditional tailoring workshop where visitors can observe local Guinean textile craftsmanship firsthand.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.701038,
+                        9.516723
+                  ]
+            },
+            {
+                  "name": "Monument du 22 novembre 1970",
+                  "text": "The Monument du 22 novembre 1970 commemorates the successful Guinean defense against the Portuguese-led Operation Green Sea invasion.",
+                  "category": "historical",
+                  "coords": [
+                        -13.69052,
+                        9.521498
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.7, 9.52],
@@ -1332,7 +1881,124 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["Le CCFG est le plus important centre de documentation de la capitale.", "Il abrite un cinéma moderne diffusant des films internationaux.", "Le centre est géré conjointement par les autorités guinéennes et françaises.", "C'est l'un des lieux principaux du festival annuel de jazz de Conakry.", "La médiathèque offre l'accès à des milliers de livres et médias numériques.", "Le CCFG est situé à proximité immédiate du Musée national."],
     }, image: "/poi-images/conakry-cultural-center-landmarks-v2.webp"},
   {
-    id: "conakry-city-hall-landmarks-v2",
+    id: "conakry-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des martyrs de Kaloum",
+                  "text": "Die Place des martyrs de Kaloum ist ein feierliches bürgerliches Denkmal, das all jenen gewidmet ist, die ihr Leben für die Unabhängigkeit Guineas opferten.",
+                  "category": "historical",
+                  "coords": [
+                        -13.714797,
+                        9.509186
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "Die 1928 erbaute Cathédrale Sainte-Marie ist ein beeindruckendes katholisches Gotteshaus, das sich markant im Herzen von Conakry erhebt.",
+                  "category": "religious",
+                  "coords": [
+                        -13.715438,
+                        9.510166
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "Das Palais Présidentiel ist ein streng bewachter, monumentaler Komplex in der Stadt, der als offizieller Sitz der guineischen Regierung dient.",
+                  "category": "castle",
+                  "coords": [
+                        -13.7175,
+                        9.51056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des martyrs de Kaloum",
+                  "text": "A Place des martyrs de Kaloum egy ünnepélyes polgári emlékmű, amelyet azoknak szenteltek, akik életüket áldozták Guinea függetlenségéért.",
+                  "category": "historical",
+                  "coords": [
+                        -13.714797,
+                        9.509186
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "Az 1928-ban épült Cathédrale Sainte-Marie egy lenyűgöző katolikus istentiszteleti hely, amely kiemelkedik Conakry szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -13.715438,
+                        9.510166
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "A Palais Présidentiel egy szigorúan őrzött, monumentális épületegyüttes, amely a guineai kormány hivatalos székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -13.7175,
+                        9.51056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des martyrs de Kaloum",
+                  "text": "Place des martyrs de Kaloum este un monument civic solemn dedicat celor care și-au sacrificat viața pentru independența Guineei.",
+                  "category": "historical",
+                  "coords": [
+                        -13.714797,
+                        9.509186
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "Construită în 1928, Cathédrale Sainte-Marie este un lăcaș de cult catolic impresionant, care se înalță vizibil în inima orașului Conakry.",
+                  "category": "religious",
+                  "coords": [
+                        -13.715438,
+                        9.510166
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "Palais Présidentiel este un complex monumental, strict păzit, care funcționează ca sediu oficial al guvernului guineean.",
+                  "category": "castle",
+                  "coords": [
+                        -13.7175,
+                        9.51056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des martyrs de Kaloum",
+                  "text": "The Place des martyrs de Kaloum is a solemn civic monument dedicated to those who sacrificed their lives for Guinea's independence.",
+                  "category": "historical",
+                  "coords": [
+                        -13.714797,
+                        9.509186
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Marie",
+                  "text": "Dating back to 1928, the Cathédrale Sainte-Marie is a striking Catholic place of worship standing prominently in the heart of Conakry.",
+                  "category": "religious",
+                  "coords": [
+                        -13.715438,
+                        9.510166
+                  ]
+            },
+            {
+                  "name": "Palais Présidentiel",
+                  "text": "The Palais Présidentiel is a heavily guarded, monumental complex functioning as the official seat of the Guinean government.",
+                  "category": "castle",
+                  "coords": [
+                        -13.7175,
+                        9.51056
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.714, 9.51],
@@ -1399,7 +2065,52 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["La mairie se situe à Kaloum, le centre du pouvoir du pays.", "C'est l'un des bâtiments communaux les plus représentatifs de Guinée.", "La mairie de Kaloum gère le centre historique de Conakry.", "Le bâtiment abrite l'état civil pour les actes citoyens majeurs.", "L'architecture mêle classicisme français et modernité tropicale.", "Le parvis est un lieu prisé pour les rassemblements publics."],
     }, image: "/poi-images/conakry-city-hall-landmarks-v2.webp"},
   {
-    id: "donka-mosque-landmarks-v2",
+    id: "donka-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Joyce Galerie",
+                  "text": "Die Joyce Galerie ist ein überdachter Ausstellungsraum nahe der Donka-Moschee, der eine kuratierte Auswahl zeitgenössischer lokaler Kunstwerke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -13.676492,
+                        9.547252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Joyce Galerie",
+                  "text": "A Joyce Galerie egy beltéri kiállítótér a Donka mecset közelében, amely kortárs helyi művészeti alkotások gondosan válogatott gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -13.676492,
+                        9.547252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Joyce Galerie",
+                  "text": "Joyce Galerie este un spațiu expozițional interior care prezintă o selecție curată de opere de artă locale contemporane, lângă Moscheea Donka.",
+                  "category": "museum",
+                  "coords": [
+                        -13.676492,
+                        9.547252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Joyce Galerie",
+                  "text": "Joyce Galerie is an indoor exhibition space showcasing a curated selection of contemporary local artworks near the Donka Mosque.",
+                  "category": "museum",
+                  "coords": [
+                        -13.676492,
+                        9.547252
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.675, 9.538],
@@ -1466,7 +2177,88 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["La mosquée est située juste à côté du centre hospitalier universitaire de Donka.", "Elle sert de lieu central pour les prières pour les malades dans la capitale.", "Le bâtiment se trouve sur la route côtière stratégique de la Corniche Nord.", "L'architecture suit le style moderne des mosquées d'Afrique de l'Ouest.", "La mosquée est connue pour son soutien aux projets caritatifs locaux.", "Pendant le Ramadan, c'est un lieu important pour la distribution de repas."],
     }, image: "/poi-images/donka-mosque-landmarks-v2.webp"},
   {
-    id: "conakry-airport-landmarks-v2",
+    id: "conakry-airport-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Léo Club",
+                  "text": "Das Léo-Club-Denkmal ist ein öffentliches Wahrzeichen nahe dem Flughafen Conakry, das die gemeinnützige Arbeit der lokalen Jugendorganisation würdigt.",
+                  "category": "historical",
+                  "coords": [
+                        -13.618423,
+                        9.577444
+                  ]
+            },
+            {
+                  "name": "plage de Bérarèze",
+                  "text": "Die Plage de Bérarèze ist ein lokaler Sandstrand, der an der Küste nahe dem Flughafen Conakry weiten Meerblick bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.605217,
+                        9.572886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Léo Club",
+                  "text": "A Léo Club emlékmű egy nyilvános jelzőoszlop a conakry-i repülőtér közelében, amely a helyi ifjúsági szervezet közösségi szolgálatát ismeri el.",
+                  "category": "historical",
+                  "coords": [
+                        -13.618423,
+                        9.577444
+                  ]
+            },
+            {
+                  "name": "plage de Bérarèze",
+                  "text": "A Plage de Bérarèze egy helyi homokos strand, amely tengeri kilátást kínál a tengerparton a conakry-i repülőtér közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.605217,
+                        9.572886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Léo Club",
+                  "text": "Monumentul Léo Club este un reper public de lângă aeroportul din Conakry, care recunoaște serviciul comunitar al organizației locale de tineret.",
+                  "category": "historical",
+                  "coords": [
+                        -13.618423,
+                        9.577444
+                  ]
+            },
+            {
+                  "name": "plage de Bérarèze",
+                  "text": "Plage de Bérarèze este o plajă locală cu nisip, care oferă vedere la ocean de-a lungul coastei, lângă aeroportul din Conakry.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.605217,
+                        9.572886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Léo Club",
+                  "text": "The Léo Club monument stands as a public marker recognizing the community service of the local youth organization near Conakry airport.",
+                  "category": "historical",
+                  "coords": [
+                        -13.618423,
+                        9.577444
+                  ]
+            },
+            {
+                  "name": "plage de Bérarèze",
+                  "text": "Plage de Bérarèze is a local sandy beach offering ocean views along the coast near the Conakry airport.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.605217,
+                        9.572886
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-C",
     coords: [-13.612, 9.578],
@@ -1533,7 +2325,88 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       fr: ["L'aéroport s'appelait officiellement Aéroport de Conakry-Gbessia jusqu'en 2021.", "C'est la base de la compagnie nationale Guinea Airlines.", "La piste d'atterrage a une longueur de 3 300 mètres.", "L'aéroport fut initialement construit en 1945 à des fins militaires.", "Un nouveau terminal plus grand est actuellement en projet ou en construction.", "Il relie la Guinée à des métropoles comme Paris, Casablanca et Istanbul."],
     }, image: "/poi-images/conakry-airport-landmarks-v2.webp"},
   {
-    id: "soumba-bridge-landmarks-v2",
+    id: "soumba-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscine Naturelle",
+                  "text": "Piscine Naturelle ist eine malerische natürliche Felsenpool-Attraktion mit erfrischendem Wasser in der Nähe der Soumba-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.476856,
+                        9.78506
+                  ]
+            },
+            {
+                  "name": "Tête du Mont du Chien qui fume",
+                  "text": "Tête du Mont du Chien qui fume ist eine einzigartig geformte Bergattraktion mit zerklüfteten Felsen in der Nähe der Soumba-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.470754,
+                        9.793502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscine Naturelle",
+                  "text": "A Piscine Naturelle egy festői természetes sziklamedence, amely frissítő vizet kínál a Soumba-híd környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.476856,
+                        9.78506
+                  ]
+            },
+            {
+                  "name": "Tête du Mont du Chien qui fume",
+                  "text": "A Tête du Mont du Chien qui fume egy egyedi formájú, sziklás hegyi természeti látványosság a Soumba-híd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.470754,
+                        9.793502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscine Naturelle",
+                  "text": "Piscine Naturelle este o piscină naturală stâncoasă pitorească ce oferă ape răcoroase în apropierea podului Soumba.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.476856,
+                        9.78506
+                  ]
+            },
+            {
+                  "name": "Tête du Mont du Chien qui fume",
+                  "text": "Tête du Mont du Chien qui fume este o atracție montană stâncoasă cu o formă unică, situată lângă podul Soumba.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.470754,
+                        9.793502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscine Naturelle",
+                  "text": "Piscine Naturelle is a scenic natural rock pool attraction offering refreshing waters near the Soumba bridge area.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.476856,
+                        9.78506
+                  ]
+            },
+            {
+                  "name": "Tête du Mont du Chien qui fume",
+                  "text": "Tête du Mont du Chien qui fume is a uniquely shaped natural mountain attraction with rugged rocks near the Soumba bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.470754,
+                        9.793502
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GN-D",
     coords: [-13.48, 9.79],

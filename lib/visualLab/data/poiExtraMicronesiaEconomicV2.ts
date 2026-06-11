@@ -304,7 +304,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "German Bell Tower",
-                  "text": "Der deutsche Glockenturm in Kolonia ist ein historisches Überbleibsel.",
+                  "text": "German Tower in Kolonia, steinerner Glockenturm aus deutscher Kolonialzeit, Kulturdenkmal.",
                   "category": "landmark",
                   "coords": [
                         158.211438,
@@ -432,7 +432,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "German Bell Tower",
-                  "text": "A coloniai német harangtorony egy történelmi emlék.",
+                  "text": "German Tower Koloniában, kő harangtorony a német gyarmati korból, műemlék.",
                   "category": "landmark",
                   "coords": [
                         158.211438,
@@ -560,7 +560,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "German Bell Tower",
-                  "text": "Turnul clopotniță german din Kolonia este o vestigie istorică.",
+                  "text": "German Tower în Kolonia, turn clopotniță de piatră din perioada colonială germană, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         158.211438,
@@ -688,7 +688,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "German Tower",
-                  "text": "The German belltower in Kolonia is a historical remnant.",
+                  "text": "German Tower in Kolonia, a stone bell tower from the German colonial period, heritage site.",
                   "category": "landmark",
                   "coords": [
                         158.211438,

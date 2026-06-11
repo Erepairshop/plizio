@@ -73,7 +73,52 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
       fr: ["Le plus grand lac salé d'Algérie.", "Halte importante pour les oiseaux migrateurs.", "Bassin endoréique (pas d'exutoire).", "La salinité varie fortement.", "Niveau d'eau saisonnier."],
     }, image: "/poi-images/chott-melrhir-nature-v2.webp"},
   {
-    id: "tassili-n-ajjer-nature-v2",
+    id: "tassili-n-ajjer-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Essendilene Canyon",
+                  "text": "Diese malerische Schlucht im Tassili n'Ajjer-Nationalpark ist für ihre grüne Vegetation und steilen Sandsteinwände bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.001778,
+                        24.95147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Essendilene Canyon",
+                  "text": "Ez a Tassili n'Ajjer Nemzeti Parkban található festői kanyon zöld növényzetéről és meredek homokkő falairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.001778,
+                        24.95147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Essendilene Canyon",
+                  "text": "Acest canion pitoresc din Parcul Național Tassili n'Ajjer este cunoscut pentru vegetația sa verde și pereții abrupți de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        9.001778,
+                        24.95147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Essendilene Canyon",
+                  "text": "This picturesque canyon in the Tassili n'Ajjer National Park is known for its green vegetation and steep sandstone walls.",
+                  "category": "landmark",
+                  "coords": [
+                        9.001778,
+                        24.95147
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DZ-33",
     coords: [9.0, 25.0],

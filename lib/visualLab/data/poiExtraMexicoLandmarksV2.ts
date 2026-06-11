@@ -574,7 +574,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Fuente de la Diana Cazadora",
-                  "text": "Ein Brunnen der Diana der Jägerin in Mexiko-Stadt.",
+                  "text": "Ein 1942 von Vicente Mendiola Quezada entworfener Brunnen, der Diana der Jägerin gewidmet.",
                   "category": "landmark",
                   "coords": [
                         -99.171634,
@@ -675,7 +675,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Fuente de la Diana Cazadora",
-                  "text": "Diana a Vadász szökőkút Mexikóvárosban.",
+                  "text": "Vicente Mendiola Quezada által 1942-ben tervezett szökőkút, mely Diana vadásznőnek állít emléket.",
                   "category": "landmark",
                   "coords": [
                         -99.171634,
@@ -776,7 +776,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Fuente de la Diana Cazadora",
-                  "text": "Fântâna Dianei Vânătoarea în Mexico City.",
+                  "text": "O fântână din 1942 proiectată de Vicente Mendiola Quezada, dedicată Dianei Vânătoarea.",
                   "category": "landmark",
                   "coords": [
                         -99.171634,
@@ -877,7 +877,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Diana the Huntress Fountain",
-                  "text": "The Diana the Huntress Fountain in Mexico City.",
+                  "text": "A fountain dedicated to Diana the Huntress, erected in 1942, designed by Vicente Mendiola Quezada.",
                   "category": "landmark",
                   "coords": [
                         -99.171634,
@@ -8260,7 +8260,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Instituto Cultural Cabañas",
-                  "text": "Dieses Museum in Guadalajara ist ein UNESCO-Weltkulturerbe.",
+                  "text": "Instituto Cultural Cabañas in Guadalajara, UNESCO-Welterbe mit Wandmalereien von Orozco.",
                   "category": "museum",
                   "coords": [
                         -103.337519,
@@ -8397,7 +8397,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Instituto Cultural Cabañas",
-                  "text": "Ez a múzeum Guadalajarában az UNESCO Világörökség része.",
+                  "text": "Instituto Cultural Cabañas Guadalajarában, UNESCO világörökség, Orozco festményeivel.",
                   "category": "museum",
                   "coords": [
                         -103.337519,
@@ -8534,7 +8534,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Instituto Cultural Cabañas",
-                  "text": "Acest muzeu din Guadalajara este un sit al Patrimoniului Mondial UNESCO.",
+                  "text": "Instituto Cultural Cabañas din Guadalajara, patrimoniu UNESCO cu picturi murale de Orozco.",
                   "category": "museum",
                   "coords": [
                         -103.337519,
@@ -8671,7 +8671,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Instituto Cultural Cabañas",
-                  "text": "This museum in Guadalajara is a UNESCO World Heritage site.",
+                  "text": "Instituto Cultural Cabañas in Guadalajara, UNESCO World Heritage site with Orozco murals.",
                   "category": "museum",
                   "coords": [
                         -103.337519,
@@ -15919,7 +15919,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mirador 360°",
-                  "text": "Ein 360-Grad-Aussichtspunkt in Mexiko-Stadt.",
+                  "text": "Ein 360°-Aussichtspunkt am Revolutionsdenkmal, erbaut 1938 von Carlos Obregón Santacilia.",
                   "category": "natural",
                   "coords": [
                         -99.154554,
@@ -15973,7 +15973,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Alameda Central",
-                  "text": "Der älteste öffentliche Park in Mexiko-Stadt.",
+                  "text": "Alameda Central in Mexiko-Stadt, ältester öffentlicher Park Amerikas, angelegt 1592.",
                   "category": "park",
                   "coords": [
                         -99.143996,
@@ -15991,7 +15991,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mercado de Artesanías de La Ciudadela",
-                  "text": "Ein Kunsthandwerksmarkt in Mexiko-Stadt.",
+                  "text": "Mercado de Artesanías de La Ciudadela in Mexiko-Stadt, Kunsthandwerksmarkt seit 1965.",
                   "category": "landmark",
                   "coords": [
                         -99.149164,
@@ -16047,7 +16047,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mirador 360°",
-                  "text": "Egy 360 fokos kilátó Mexikóvárosban.",
+                  "text": "Egy 360°-os kilátó a Forradalom Emlékművénél, amelyet Carlos Obregón Santacilia tervezett 1938-ban.",
                   "category": "natural",
                   "coords": [
                         -99.154554,
@@ -16101,7 +16101,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Alameda Central",
-                  "text": "Mexikóváros legrégebbi közparkja.",
+                  "text": "Alameda Central Mexikóvárosban, Amerika legrégebbi közparkja, 1592-ben létesült.",
                   "category": "park",
                   "coords": [
                         -99.143996,
@@ -16119,7 +16119,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mercado de Artesanías de La Ciudadela",
-                  "text": "Egy kézműves piac Mexikóvárosban.",
+                  "text": "Mercado de Artesanías de La Ciudadela Mexikóvárosban, 1965 óta kézműves piac.",
                   "category": "landmark",
                   "coords": [
                         -99.149164,
@@ -16175,7 +16175,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mirador 360°",
-                  "text": "Un punct de observație la 360 de grade în Mexico City.",
+                  "text": "Un punct de belvedere la 360° la Monumentul Revoluției, construit în 1938 de Carlos Obregón Santacilia.",
                   "category": "natural",
                   "coords": [
                         -99.154554,
@@ -16229,7 +16229,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Alameda Central",
-                  "text": "Cel mai vechi parc public din Mexico City.",
+                  "text": "Alameda Central din Ciudad de México, cel mai vechi parc public din America, înființat în 1592.",
                   "category": "park",
                   "coords": [
                         -99.143996,
@@ -16247,7 +16247,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mercado de Artesanías de La Ciudadela",
-                  "text": "O piață de artizanat din Mexico City.",
+                  "text": "Mercado de Artesanías de La Ciudadela în Ciudad de México, piață de artizanat din 1965.",
                   "category": "landmark",
                   "coords": [
                         -99.149164,
@@ -16303,7 +16303,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mirador 360°",
-                  "text": "A 360-degree viewpoint in Mexico City.",
+                  "text": "A 360° viewpoint at the Monument to the Revolution, built in 1938, designed by Carlos Obregón Santacilia.",
                   "category": "natural",
                   "coords": [
                         -99.154554,
@@ -16357,7 +16357,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Alameda Central",
-                  "text": "The oldest public park in Mexico City.",
+                  "text": "Alameda Central in Mexico City, the oldest public park in the Americas, laid out in 1592.",
                   "category": "park",
                   "coords": [
                         -99.143996,
@@ -16375,7 +16375,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Mercado de Artesanías de La Ciudadela",
-                  "text": "A craft market in Mexico City.",
+                  "text": "Mercado de Artesanías de La Ciudadela in Mexico City, a craft market since 1965.",
                   "category": "landmark",
                   "coords": [
                         -99.149164,
@@ -21346,7 +21346,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Casa de las Tortugas",
-                  "text": "Die Casa de las Tortugas-Ruinen in Uxmal.",
+                  "text": "Casa de las Tortugas in Uxmal, Maya-Gebäude mit Schildkrötenreliefs, UNESCO-Welterbe.",
                   "category": "historical",
                   "coords": [
                         -89.771163,
@@ -21402,7 +21402,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Casa de las Tortugas",
-                  "text": "A Casa de las Tortugas romjai Uxmalban.",
+                  "text": "Casa de las Tortugas Uxmalban, maja épület teknős domborművekkel, UNESCO világörökség.",
                   "category": "historical",
                   "coords": [
                         -89.771163,
@@ -21458,7 +21458,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Casa de las Tortugas",
-                  "text": "Ruinele Casa de las Tortugas din Uxmal.",
+                  "text": "Casa de las Tortugas din Uxmal, clădire mayașă cu reliefuri de broaște țestoase, patrimoniu UNESCO.",
                   "category": "historical",
                   "coords": [
                         -89.771163,
@@ -21514,7 +21514,7 @@ export const mexicoLandmarksV2: POI[] = [
             },
             {
                   "name": "Casa de las Tortugas",
-                  "text": "The Casa de las Tortugas ruins in Uxmal.",
+                  "text": "Casa de las Tortugas at Uxmal, an ancient Maya building with turtle carvings, UNESCO World Heritage.",
                   "category": "historical",
                   "coords": [
                         -89.771163,

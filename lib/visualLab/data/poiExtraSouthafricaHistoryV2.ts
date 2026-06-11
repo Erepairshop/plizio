@@ -3,7 +3,448 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthafricaHistoryV2: POI[] = [
     {
-    id: "cradle-of-humankind-history-v2",
+    id: "cradle-of-humankind-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vulture Hide",
+                  "text": "Dieser spezielle Beobachtungsstand überblickt einen ausgewiesenen Futterplatz und bietet Wildtierliebhabern die Möglichkeit, Kapgeier aus nächster Nähe zu fotografieren.",
+                  "category": "natural",
+                  "coords": [
+                        27.77773,
+                        -25.963023
+                  ]
+            },
+            {
+                  "name": "Hartebeesthoek Radio Astronomy Observatory",
+                  "text": "Eingebettet in einen natürlichen Talkessel zur Abschirmung von Störsignalen, betreibt dieses Observatorium eine massive 26-Meter-Radioteleskopschüssel zur Erforschung des Kosmos.",
+                  "category": "landmark",
+                  "coords": [
+                        27.687321,
+                        -25.891087
+                  ]
+            },
+            {
+                  "name": "Bothongo WonderCave",
+                  "text": "Diese riesige Kalksteinhöhle ist über eine Aufzugsfahrt erreichbar und bietet spektakuläre uralte Stalaktiten- und Stalagmitenformationen, die bis zu 15 Meter hoch in die Höhe ragen.",
+                  "category": "natural",
+                  "coords": [
+                        27.771523,
+                        -25.970567
+                  ]
+            },
+            {
+                  "name": "Rhino and Lion Nature Reserve",
+                  "text": "Dieser private Wildpark im Highveld ermöglicht es Besuchern, durch Gehege zu fahren, um bedrohte Wildhunde, Breitmaulnashörner und Raubtiere zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        27.791715,
+                        -25.970686
+                  ]
+            },
+            {
+                  "name": "Motsetse Nature Reserve",
+                  "text": "In der hügeligen Landschaft der Wiege der Menschheit gelegen, unterstützt dieses Schutzgebiet die Erhaltung der einheimischen Flora des Highvelds und kleiner Weidetiere.",
+                  "category": "natural",
+                  "coords": [
+                        27.832778,
+                        -25.906944
+                  ]
+            },
+            {
+                  "name": "Animal creche",
+                  "text": "Diese spezialisierte Aufzuchtstation innerhalb des größeren Reservats kümmert sich um verwaiste, verlassene oder sich erholende junge Wildtiere, bevor sie in größere Gehege entlassen werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        27.777846,
+                        -25.947028
+                  ]
+            },
+            {
+                  "name": "Plovers Lake Nature Reserve",
+                  "text": "Neben seinen malerischen Gewässern umgibt dieses ruhige Reservat eine wichtige Ausgrabungsstätte für Fossilien aus dem Pleistozän, die alte tierische Überreste freilegt.",
+                  "category": "natural",
+                  "coords": [
+                        27.7767,
+                        -25.97566
+                  ]
+            },
+            {
+                  "name": "The Cradle Nature Reserve",
+                  "text": "Dieses ökologisch wichtige Reservat umfasst unberührtes Grasland im Highveld und bewahrt die Oberflächenumwelt direkt über den berühmten paläoanthropologischen Kalksteinhöhlen.",
+                  "category": "natural",
+                  "coords": [
+                        27.845928,
+                        -25.915078
+                  ]
+            },
+            {
+                  "name": "Thaba Nkwe - Berge van die Tier Game Farm",
+                  "text": "Diese privat geführte Wildfarm liegt in felsigem Gelände und bietet Besuchern die Möglichkeit, einheimische südafrikanische Weidetiere zu beobachten, die durch ihren Buschveld-Lebensraum streifen.",
+                  "category": "natural",
+                  "coords": [
+                        27.658525,
+                        -25.934466
+                  ]
+            },
+            {
+                  "name": "Hartebeeshoek Space Operations",
+                  "text": "Obwohl es sich technisch gesehen um ein geschütztes Landgebiet handelt, ist dieser Ort durch die hoch aufragenden Satellitenverfolgungsantennen der South African National Space Agency geprägt.",
+                  "category": "natural",
+                  "coords": [
+                        27.685681,
+                        -25.901441
+                  ]
+            },
+            {
+                  "name": "Sterkfontein, Swartkrans, Kromdraai, and Environs",
+                  "text": "Dieses als UNESCO-Weltkulturerbe ausgewiesene riesige Netzwerk von Dolomit-Kalksteinhöhlen brachte die berühmten alten Hominiden-Fossilien „Mrs. Ples“ und „Little Foot“ hervor.",
+                  "category": "historical",
+                  "coords": [
+                        27.785826,
+                        -25.936869
+                  ]
+            },
+            {
+                  "name": "John Nash Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet zeichnet sich durch zerklüftete Felsvorsprünge aus, die typisch für die Region der Wiege der Menschheit sind, und schützt unberührte Veld-Ökosysteme sowie die Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        27.783163,
+                        -25.903223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vulture Hide",
+                  "text": "Ez a speciális megfigyelő leshely egy kijelölt etetőterületre néz, testközeli fotózási lehetőséget biztosítva a vadon élő állatok szerelmeseinek a táplálkozó fokföldi keselyűkről.",
+                  "category": "natural",
+                  "coords": [
+                        27.77773,
+                        -25.963023
+                  ]
+            },
+            {
+                  "name": "Hartebeesthoek Radio Astronomy Observatory",
+                  "text": "A zavaró jelektől védő, természetes völgykatlanban elhelyezkedő obszervatórium egy hatalmas, 26 méteres rádióteleszkóp-antennát üzemeltet a kozmosz kutatására.",
+                  "category": "landmark",
+                  "coords": [
+                        27.687321,
+                        -25.891087
+                  ]
+            },
+            {
+                  "name": "Bothongo WonderCave",
+                  "text": "A lifttel megközelíthető hatalmas mészkőbarlangban látványos, akár 15 méter magasságot is elérő ősi cseppkő- és sztalagmitképződmények találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        27.771523,
+                        -25.970567
+                  ]
+            },
+            {
+                  "name": "Rhino and Lion Nature Reserve",
+                  "text": "A Highveld régióban található magántulajdonban lévő vadasparkban a látogatók a kifutókon keresztülhajtva figyelhetik meg a veszélyeztetett vadkutyákat, szélesszájú orrszarvúkat és ragadozókat.",
+                  "category": "natural",
+                  "coords": [
+                        27.791715,
+                        -25.970686
+                  ]
+            },
+            {
+                  "name": "Motsetse Nature Reserve",
+                  "text": "Az Emberiség Bölcsőjének dombos vidékén található védett szentély a helyi highveldi növényvilág és a kisebb legelésző vadak megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        27.832778,
+                        -25.906944
+                  ]
+            },
+            {
+                  "name": "Animal creche",
+                  "text": "A nagyobb rezervátumon belül található speciális óvoda az elárvult, elhagyott vagy lábadozó fiatal vadon élő állatokról gondoskodik, mielőtt azok csatlakozhatnának a nagyobb kifutók állományához.",
+                  "category": "recreational",
+                  "coords": [
+                        27.777846,
+                        -25.947028
+                  ]
+            },
+            {
+                  "name": "Plovers Lake Nature Reserve",
+                  "text": "Festői vízfelületein túl ez a békés rezervátum egy fontos pleisztocénkori fosszília-ásatást ölel körül, amely ősi állati maradványokat tár a felszínre.",
+                  "category": "natural",
+                  "coords": [
+                        27.7767,
+                        -25.97566
+                  ]
+            },
+            {
+                  "name": "The Cradle Nature Reserve",
+                  "text": "Az érintetlen highveldi füves pusztákat felölelő, ökológiai szempontból is létfontosságú rezervátum a híres paleoantropológiai mészkőbarlangok feletti felszíni környezetet őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        27.845928,
+                        -25.915078
+                  ]
+            },
+            {
+                  "name": "Thaba Nkwe - Berge van die Tier Game Farm",
+                  "text": "A sziklás terepen megbúvó, magánkézben lévő vadaspark lehetőséget kínál a látogatóknak arra, hogy megfigyeljék a bushveld élőhelyükön barangoló őshonos dél-afrikai patásokat.",
+                  "category": "natural",
+                  "coords": [
+                        27.658525,
+                        -25.934466
+                  ]
+            },
+            {
+                  "name": "Hartebeeshoek Space Operations",
+                  "text": "Bár technikailag védett földterületről van szó, ezt a helyszínt a Dél-afrikai Nemzeti Űrügynökség tornyosuló műholdkövető antennái határozzák meg.",
+                  "category": "natural",
+                  "coords": [
+                        27.685681,
+                        -25.901441
+                  ]
+            },
+            {
+                  "name": "Sterkfontein, Swartkrans, Kromdraai, and Environs",
+                  "text": "Az UNESCO Világörökség részévé nyilvánított, hatalmas dolomitos mészkőbarlang-hálózatból kerültek elő a híresen ősi „Mrs. Ples” és „Little Foot” hominida fosszíliák.",
+                  "category": "historical",
+                  "coords": [
+                        27.785826,
+                        -25.936869
+                  ]
+            },
+            {
+                  "name": "John Nash Nature Reserve",
+                  "text": "Az Emberiség Bölcsője régióra jellemző, zord sziklás kibúvásokkal tarkított természeti rezervátum érintetlen veld ökoszisztémákat és madárvilágot véd.",
+                  "category": "natural",
+                  "coords": [
+                        27.783163,
+                        -25.903223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vulture Hide",
+                  "text": "Această ascunzătoare specializată de observare are vedere la o zonă de hrănire desemnată, oferind pasionaților de faună sălbatică oportunități fotografice de aproape cu vulturii pleșuvi din Cap.",
+                  "category": "natural",
+                  "coords": [
+                        27.77773,
+                        -25.963023
+                  ]
+            },
+            {
+                  "name": "Hartebeesthoek Radio Astronomy Observatory",
+                  "text": "Situat într-o depresiune naturală de dealuri pentru a fi protejat de interferențe, acest observator operează o antenă parabolică masivă de radiotelescop de 26 de metri pentru a cerceta cosmosul.",
+                  "category": "landmark",
+                  "coords": [
+                        27.687321,
+                        -25.891087
+                  ]
+            },
+            {
+                  "name": "Bothongo WonderCave",
+                  "text": "Accesibilă printr-o coborâre cu liftul, această cavernă masivă de calcar prezintă formațiuni spectaculoase și antice de stalactite și stalagmite care ating până la 15 metri înălțime.",
+                  "category": "natural",
+                  "coords": [
+                        27.771523,
+                        -25.970567
+                  ]
+            },
+            {
+                  "name": "Rhino and Lion Nature Reserve",
+                  "text": "Acest parc de animale sălbatice cu proprietate privată din Highveld permite vizitatorilor să conducă prin incinte pentru a vedea câini sălbatici pe cale de dispariție, rinoceri albi și prădători.",
+                  "category": "natural",
+                  "coords": [
+                        27.791715,
+                        -25.970686
+                  ]
+            },
+            {
+                  "name": "Motsetse Nature Reserve",
+                  "text": "Situat în peisajul deluros din Leagănul Omenirii, acest sanctuar protejat susține conservarea florei indigene din Highveld și a micilor animale de pășunat.",
+                  "category": "natural",
+                  "coords": [
+                        27.832778,
+                        -25.906944
+                  ]
+            },
+            {
+                  "name": "Animal creche",
+                  "text": "Situată în cadrul rezervației mai mari, această creșă specializată îngrijește puii de animale sălbatice orfani, abandonați sau în recuperare înainte ca aceștia să se poată alătura incintelor mai mari.",
+                  "category": "recreational",
+                  "coords": [
+                        27.777846,
+                        -25.947028
+                  ]
+            },
+            {
+                  "name": "Plovers Lake Nature Reserve",
+                  "text": "Dincolo de elementele sale acvatice pitorești, această rezervație liniștită înconjoară un important sit de excavare a fosilelor din Pleistocen, care dezvăluie rămășițe antice de animale.",
+                  "category": "natural",
+                  "coords": [
+                        27.7767,
+                        -25.97566
+                  ]
+            },
+            {
+                  "name": "The Cradle Nature Reserve",
+                  "text": "Cuprinzând pajiști virgine din Highveld, această rezervație vitală ecologic conservă mediul de suprafață aflat direct deasupra renumitelor peșteri de calcar paleoantropologice.",
+                  "category": "natural",
+                  "coords": [
+                        27.845928,
+                        -25.915078
+                  ]
+            },
+            {
+                  "name": "Thaba Nkwe - Berge van die Tier Game Farm",
+                  "text": "Amplasată pe un teren stâncos, această fermă de vânătoare administrată privat oferă vizitatorilor șansa de a observa animale de câmpie sud-africane indigene care cutreieră habitatul său de bushveld.",
+                  "category": "natural",
+                  "coords": [
+                        27.658525,
+                        -25.934466
+                  ]
+            },
+            {
+                  "name": "Hartebeeshoek Space Operations",
+                  "text": "Deși din punct de vedere tehnic este o zonă de pământ protejată, acest sit este definit de antenele înalte de urmărire a sateliților ale Agenției Naționale Spațiale a Africii de Sud.",
+                  "category": "natural",
+                  "coords": [
+                        27.685681,
+                        -25.901441
+                  ]
+            },
+            {
+                  "name": "Sterkfontein, Swartkrans, Kromdraai, and Environs",
+                  "text": "Desemnată ca sit al Patrimoniului Mondial UNESCO, această rețea vastă de peșteri de calcar dolomitic a scos la iveală celebrele și vechile fosile de hominizi „Mrs. Ples” și „Little Foot”.",
+                  "category": "historical",
+                  "coords": [
+                        27.785826,
+                        -25.936869
+                  ]
+            },
+            {
+                  "name": "John Nash Nature Reserve",
+                  "text": "Prezentând aflorimente stâncoase accidentate tipice regiunii Leagănului Omenirii, această rezervație naturală protejează ecosistemele de veld nealterate și avifauna.",
+                  "category": "natural",
+                  "coords": [
+                        27.783163,
+                        -25.903223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vulture Hide",
+                  "text": "This specialized viewing hide overlooks a designated feeding area, providing wildlife enthusiasts with up-close photographic opportunities of scavenging Cape Vultures.",
+                  "category": "natural",
+                  "coords": [
+                        27.77773,
+                        -25.963023
+                  ]
+            },
+            {
+                  "name": "Hartebeesthoek Radio Astronomy Observatory",
+                  "text": "Set within a natural bowl of hills to shield it from interference, this observatory operates a massive 26-meter radio telescope dish to probe the cosmos.",
+                  "category": "landmark",
+                  "coords": [
+                        27.687321,
+                        -25.891087
+                  ]
+            },
+            {
+                  "name": "Bothongo WonderCave",
+                  "text": "Accessible via an elevator plunge, this massive limestone cavern features spectacular ancient stalactite and stalagmite formations reaching up to 15 meters in height.",
+                  "category": "natural",
+                  "coords": [
+                        27.771523,
+                        -25.970567
+                  ]
+            },
+            {
+                  "name": "Rhino and Lion Nature Reserve",
+                  "text": "This privately-owned wildlife park in the Highveld allows visitors to drive through enclosures to see endangered wild dogs, white rhinos, and predators.",
+                  "category": "natural",
+                  "coords": [
+                        27.791715,
+                        -25.970686
+                  ]
+            },
+            {
+                  "name": "Motsetse Nature Reserve",
+                  "text": "Located within the Cradle of Humankind's hilly landscape, this protected sanctuary supports the conservation of indigenous highveld flora and small grazing game.",
+                  "category": "natural",
+                  "coords": [
+                        27.832778,
+                        -25.906944
+                  ]
+            },
+            {
+                  "name": "Animal creche",
+                  "text": "Situated within the larger reserve, this specialized nursery cares for orphaned, abandoned, or recovering young wildlife before they can join larger enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        27.777846,
+                        -25.947028
+                  ]
+            },
+            {
+                  "name": "Plovers Lake Nature Reserve",
+                  "text": "Beyond its scenic water features, this tranquil reserve surrounds an important Pleistocene fossil excavation site revealing ancient animal remains.",
+                  "category": "natural",
+                  "coords": [
+                        27.7767,
+                        -25.97566
+                  ]
+            },
+            {
+                  "name": "The Cradle Nature Reserve",
+                  "text": "Encompassing pristine highveld grasslands, this ecologically vital reserve preserves the surface environment directly above renowned paleoanthropological limestone caves.",
+                  "category": "natural",
+                  "coords": [
+                        27.845928,
+                        -25.915078
+                  ]
+            },
+            {
+                  "name": "Thaba Nkwe - Berge van die Tier Game Farm",
+                  "text": "Nestled in rocky terrain, this privately managed game farm offers visitors the chance to observe indigenous South African plains game roaming its bushveld habitat.",
+                  "category": "natural",
+                  "coords": [
+                        27.658525,
+                        -25.934466
+                  ]
+            },
+            {
+                  "name": "Hartebeeshoek Space Operations",
+                  "text": "While technically a protected land area, this site is defined by the towering satellite tracking antennas of the South African National Space Agency.",
+                  "category": "natural",
+                  "coords": [
+                        27.685681,
+                        -25.901441
+                  ]
+            },
+            {
+                  "name": "Sterkfontein, Swartkrans, Kromdraai, and Environs",
+                  "text": "Designated as a UNESCO World Heritage site, this vast network of dolomite limestone caves yielded the famously ancient \"Mrs. Ples\" and \"Little Foot\" hominin fossils.",
+                  "category": "historical",
+                  "coords": [
+                        27.785826,
+                        -25.936869
+                  ]
+            },
+            {
+                  "name": "John Nash Nature Reserve",
+                  "text": "Featuring rugged rocky outcrops typical of the Cradle of Humankind region, this natural reserve protects unspoiled veld ecosystems and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        27.783163,
+                        -25.903223
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [27.7533, -25.9315],
@@ -63,7 +504,448 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "castle-of-good-hope-history-v2",
+    id: "castle-of-good-hope-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castle Military Museum",
+                  "text": "Ein militärhistorisches Museum, das historische Schwerter, Uniformen und Artefakte in den Mauern des Castle of Good Hope beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        18.427965,
+                        -33.925354
+                  ]
+            },
+            {
+                  "name": "Side Street Studios",
+                  "text": "Ein Kunstzentrum in Woodstock, das in umgenutzten Industriegebäuden untergebracht ist, um Atelierräume für lokale Kreative bereitzustellen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.445234,
+                        -33.926543
+                  ]
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "Eine Galerie, die vielfältige visuelle Kunstwerke in der Nähe des historischen Stadtzentrums präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.447868,
+                        -33.928975
+                  ]
+            },
+            {
+                  "name": "Star Dust Theatrical Diner",
+                  "text": "Ein Restaurant in Woodstock, in dem das Servicepersonal aus professionell ausgebildeten Sängern und Darstellern besteht.",
+                  "category": "cultural",
+                  "coords": [
+                        18.434558,
+                        -33.927665
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "Eine historische anglikanische Kirche, die der örtlichen Pfarrgemeinde im Vorort Woodstock dient.",
+                  "category": "religious",
+                  "coords": [
+                        18.446483,
+                        -33.92678
+                  ]
+            },
+            {
+                  "name": "Zip Zap Circus School",
+                  "text": "Eine soziale Zirkus- und Schauspielschule, die in einer markanten großen Kuppelstruktur untergebracht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        18.431037,
+                        -33.918792
+                  ]
+            },
+            {
+                  "name": "Cape Town Civic Centre Podium Block",
+                  "text": "Ein großes städtisches Verwaltungsgebäude im brutalistischen Architekturstil, das 1978 fertiggestellt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        18.428687,
+                        -33.92114
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Cathedral of St George",
+                  "text": "Die griechisch-orthodoxe St.-Georgs-Kathedrale ist eine religiöse Kultstätte, die 1904 erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        18.449878,
+                        -33.932318
+                  ]
+            },
+            {
+                  "name": "Artscape Theatre Centre",
+                  "text": "Das Artscape Theatre Centre ist ein 1971 eröffneter Veranstaltungsort für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        18.430433,
+                        -33.919739
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "St Mark's ist eine christliche Kultstätte in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        18.431191,
+                        -33.931011
+                  ]
+            },
+            {
+                  "name": "Moravian Hill Chapel",
+                  "text": "Die Moravian Hill Chapel ist ein historisches Gotteshaus aus dem Jahr 1886.",
+                  "category": "religious",
+                  "coords": [
+                        18.432378,
+                        -33.93211
+                  ]
+            },
+            {
+                  "name": "Central Redoubt",
+                  "text": "Die Central Redoubt ist eine denkmalgeschützte Festung der Stufe 2, die 1781 errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        18.441731,
+                        -33.929688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castle Military Museum",
+                  "text": "Hadtörténeti múzeum, amely történelmi kardoknak, egyenruháknak és műtárgyaknak ad otthont a Jóreménység kastélya falain belül.",
+                  "category": "museum",
+                  "coords": [
+                        18.427965,
+                        -33.925354
+                  ]
+            },
+            {
+                  "name": "Side Street Studios",
+                  "text": "Egy művészeti központ Woodstockban, amely átalakított ipari épületekben biztosít stúdiótereket a helyi alkotóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        18.445234,
+                        -33.926543
+                  ]
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "A történelmi városközpont közelében változatos vizuális művészeti alkotásokat bemutató galériatér.",
+                  "category": "museum",
+                  "coords": [
+                        18.447868,
+                        -33.928975
+                  ]
+            },
+            {
+                  "name": "Star Dust Theatrical Diner",
+                  "text": "Egy étterem Woodstockban, ahol a felszolgálók profi énekesek és előadóművészek is egyben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.434558,
+                        -33.927665
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "Egy történelmi anglikán templom, amely a helyi plébániaközösséget szolgálja Woodstock külvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.446483,
+                        -33.92678
+                  ]
+            },
+            {
+                  "name": "Zip Zap Circus School",
+                  "text": "Egy társadalmi cirkusz- és előadóművészeti iskola, amely egy jellegzetes nagy kupolaszerkezetben működik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.431037,
+                        -33.918792
+                  ]
+            },
+            {
+                  "name": "Cape Town Civic Centre Podium Block",
+                  "text": "Egy hatalmas, brutalista építészeti stílusú önkormányzati közigazgatási épület, amely 1978-ban készült el.",
+                  "category": "historical",
+                  "coords": [
+                        18.428687,
+                        -33.92114
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Cathedral of St George",
+                  "text": "A Szent György görög ortodox katedrális egy 1904-ben alapított vallási istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        18.449878,
+                        -33.932318
+                  ]
+            },
+            {
+                  "name": "Artscape Theatre Centre",
+                  "text": "Az Artscape Theatre Centre egy 1971-ben megnyílt színházi és előadó-művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        18.430433,
+                        -33.919739
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "A St Mark's egy keresztény istentiszteleti hely a városban.",
+                  "category": "religious",
+                  "coords": [
+                        18.431191,
+                        -33.931011
+                  ]
+            },
+            {
+                  "name": "Moravian Hill Chapel",
+                  "text": "A Moravian Hill kápolna egy történelmi istentiszteleti hely, amely 1886-ból származik.",
+                  "category": "religious",
+                  "coords": [
+                        18.432378,
+                        -33.93211
+                  ]
+            },
+            {
+                  "name": "Central Redoubt",
+                  "text": "A Central Redoubt egy 2-es szintű örökségvédelmi erődítmény, amely 1781-ben épült.",
+                  "category": "fortress",
+                  "coords": [
+                        18.441731,
+                        -33.929688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castle Military Museum",
+                  "text": "Un muzeu de istorie militară care adăpostește săbii istorice, uniforme și artefacte în interiorul zidurilor Castelului Bunei Speranțe.",
+                  "category": "museum",
+                  "coords": [
+                        18.427965,
+                        -33.925354
+                  ]
+            },
+            {
+                  "name": "Side Street Studios",
+                  "text": "Un centru de arte în Woodstock care ocupă clădiri industriale recondiționate pentru a oferi spații de studio creativilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        18.445234,
+                        -33.926543
+                  ]
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "Un spațiu de galerie care prezintă diverse lucrări de artă vizuală în apropierea centrului istoric al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        18.447868,
+                        -33.928975
+                  ]
+            },
+            {
+                  "name": "Star Dust Theatrical Diner",
+                  "text": "Un restaurant în Woodstock unde chelnerii sunt, de asemenea, cântăreți și artiști cu pregătire profesională.",
+                  "category": "cultural",
+                  "coords": [
+                        18.434558,
+                        -33.927665
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "O biserică anglicană istorică ce deservește comunitatea parohială locală din suburbia Woodstock.",
+                  "category": "religious",
+                  "coords": [
+                        18.446483,
+                        -33.92678
+                  ]
+            },
+            {
+                  "name": "Zip Zap Circus School",
+                  "text": "O școală socială de circ și arte spectacolului care funcționează dintr-o structură distinctivă cu cupolă mare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.431037,
+                        -33.918792
+                  ]
+            },
+            {
+                  "name": "Cape Town Civic Centre Podium Block",
+                  "text": "O mare clădire administrativă municipală cu un stil arhitectural brutalist, finalizată în 1978.",
+                  "category": "historical",
+                  "coords": [
+                        18.428687,
+                        -33.92114
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Cathedral of St George",
+                  "text": "Catedrala Ortodoxă Greacă Sf. Gheorghe este un lăcaș de cult istoric, inaugurat în 1904.",
+                  "category": "religious",
+                  "coords": [
+                        18.449878,
+                        -33.932318
+                  ]
+            },
+            {
+                  "name": "Artscape Theatre Centre",
+                  "text": "Artscape Theatre Centre este un centru de arte spectacolului inaugurat în anul 1971.",
+                  "category": "cultural",
+                  "coords": [
+                        18.430433,
+                        -33.919739
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "St Mark's este un lăcaș de cult creștin situat în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        18.431191,
+                        -33.931011
+                  ]
+            },
+            {
+                  "name": "Moravian Hill Chapel",
+                  "text": "Capela Moravian Hill este un lăcaș de cult istoric ce datează din 1886.",
+                  "category": "religious",
+                  "coords": [
+                        18.432378,
+                        -33.93211
+                  ]
+            },
+            {
+                  "name": "Central Redoubt",
+                  "text": "Central Redoubt este un fort istoric cu statut de patrimoniu de nivel 2, fondat în 1781.",
+                  "category": "fortress",
+                  "coords": [
+                        18.441731,
+                        -33.929688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle Military Museum",
+                  "text": "A military history museum housing historic swords, uniforms, and artifacts within the walls of the Castle of Good Hope.",
+                  "category": "museum",
+                  "coords": [
+                        18.427965,
+                        -33.925354
+                  ]
+            },
+            {
+                  "name": "Side Street Studios",
+                  "text": "An arts centre in Woodstock occupying repurposed industrial buildings to provide studio spaces for local creatives.",
+                  "category": "cultural",
+                  "coords": [
+                        18.445234,
+                        -33.926543
+                  ]
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "A gallery space presenting diverse visual artworks near the historic city centre.",
+                  "category": "museum",
+                  "coords": [
+                        18.447868,
+                        -33.928975
+                  ]
+            },
+            {
+                  "name": "Star Dust Theatrical Diner",
+                  "text": "A dining venue in Woodstock where the waitstaff are also professionally trained singers and performers.",
+                  "category": "cultural",
+                  "coords": [
+                        18.434558,
+                        -33.927665
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "A historic Anglican church serving the local parish community in the suburb of Woodstock.",
+                  "category": "religious",
+                  "coords": [
+                        18.446483,
+                        -33.92678
+                  ]
+            },
+            {
+                  "name": "Zip Zap Circus School",
+                  "text": "A social circus and performing arts school operating out of a distinctive large dome structure.",
+                  "category": "recreational",
+                  "coords": [
+                        18.431037,
+                        -33.918792
+                  ]
+            },
+            {
+                  "name": "Cape Town Civic Centre Podium Block",
+                  "text": "A large municipal administrative building featuring a brutalist architectural style, completed in 1978.",
+                  "category": "historical",
+                  "coords": [
+                        18.428687,
+                        -33.92114
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Cathedral of St George",
+                  "text": "The Greek Orthodox Cathedral of St George is a religious place of worship dating back to 1904.",
+                  "category": "religious",
+                  "coords": [
+                        18.449878,
+                        -33.932318
+                  ]
+            },
+            {
+                  "name": "Artscape Theatre Centre",
+                  "text": "The Artscape Theatre Centre is a performing arts venue that opened in 1971.",
+                  "category": "cultural",
+                  "coords": [
+                        18.430433,
+                        -33.919739
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "St Mark's is a Christian place of worship located in the city.",
+                  "category": "religious",
+                  "coords": [
+                        18.431191,
+                        -33.931011
+                  ]
+            },
+            {
+                  "name": "Moravian Hill Chapel",
+                  "text": "The Moravian Hill Chapel is a historical place of worship dating back to 1886.",
+                  "category": "religious",
+                  "coords": [
+                        18.432378,
+                        -33.93211
+                  ]
+            },
+            {
+                  "name": "Central Redoubt",
+                  "text": "Central Redoubt is a level-2 heritage protected fort that dates back to 1781.",
+                  "category": "fortress",
+                  "coords": [
+                        18.441731,
+                        -33.929688
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-WC",
     coords: [18.4276, -33.9261],
@@ -123,7 +1005,376 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "mapungubwe-history-v2",
+    id: "mapungubwe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Confluence View Point",
+                  "text": "Ein Aussichtspunkt mit Blick auf das spektakuläre Zusammentreffen der Flüsse Limpopo und Shashe.",
+                  "category": "natural",
+                  "coords": [
+                        29.353709,
+                        -22.200548
+                  ]
+            },
+            {
+                  "name": "Tree-top Walk",
+                  "text": "Ein erhöhter Steg, der Ausblicke durch das üppige Blätterdach des Waldes in Mapungubwe bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.354717,
+                        -22.201004
+                  ]
+            },
+            {
+                  "name": "K2 Cultural Site",
+                  "text": "Eine antike Siedlungsstätte, die frühe Handelsnetzwerke in der Region Mapungubwe zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        29.380612,
+                        -22.21823
+                  ]
+            },
+            {
+                  "name": "Pinnacle Lookout Deck",
+                  "text": "Eine Aussichtsplattform, die einen Panoramablick über die zerklüftete Landschaft von Mapungubwe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.371264,
+                        -22.204802
+                  ]
+            },
+            {
+                  "name": "Sunset Deck",
+                  "text": "Eine ausgewiesene Holzterrasse, um den Sonnenuntergang über dem historischen Gelände von Mapungubwe zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        29.369978,
+                        -22.200517
+                  ]
+            },
+            {
+                  "name": "Sunrise Deck",
+                  "text": "Eine Aussichtsplattform, die perfekt ausgerichtet ist, um die frühe Morgensonne über der Savanne von Mapungubwe einzufangen.",
+                  "category": "natural",
+                  "coords": [
+                        29.371307,
+                        -22.200713
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ein malerischer Aussichtspunkt, der die weite, ungezähmte Savanne der Gegend von Mapungubwe einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        29.427322,
+                        -22.190968
+                  ]
+            },
+            {
+                  "name": "The Mapungubwe Interpretation Centre",
+                  "text": "Ein markantes Museum, das das berühmte goldene Nashorn und andere archäologische Funde von Mapungubwe beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        29.404979,
+                        -22.241612
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "Ein natürlicher Trinkplatz, an dem sich die einheimische Tierwelt der Savanne in der Nähe von Mapungubwe versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.357721,
+                        -22.219988
+                  ]
+            },
+            {
+                  "name": "Day Visitor Site",
+                  "text": "Ein Erholungsgebiet mit Einrichtungen für Tagesausflügler, die die historische Landschaft von Mapungubwe erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        29.371826,
+                        -22.203355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Confluence View Point",
+                  "text": "Kilátópont, ahonnan a Limpopo és a Shashe folyók látványos találkozására nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        29.353709,
+                        -22.200548
+                  ]
+            },
+            {
+                  "name": "Tree-top Walk",
+                  "text": "Egy megemelt sétány, amely a buja lombkoronán keresztül nyújt kilátást Mapungubwéban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.354717,
+                        -22.201004
+                  ]
+            },
+            {
+                  "name": "K2 Cultural Site",
+                  "text": "Ősi település, amely a mapungubwei régió korai kereskedelmi hálózatait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        29.380612,
+                        -22.21823
+                  ]
+            },
+            {
+                  "name": "Pinnacle Lookout Deck",
+                  "text": "Egy kilátóterasz, amely panorámás kilátást nyújt a zord mapungubwei tájra.",
+                  "category": "natural",
+                  "coords": [
+                        29.371264,
+                        -22.204802
+                  ]
+            },
+            {
+                  "name": "Sunset Deck",
+                  "text": "Kijelölt faterasz a naplemente megtekintésére a történelmi mapungubwei terep felett.",
+                  "category": "natural",
+                  "coords": [
+                        29.369978,
+                        -22.200517
+                  ]
+            },
+            {
+                  "name": "Sunrise Deck",
+                  "text": "Tökéletes tájolású kilátóplatform a kora reggeli napfény megfigyelésére a mapungubwei szavanna felett.",
+                  "category": "natural",
+                  "coords": [
+                        29.371307,
+                        -22.200713
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Festői kilátó, amely megörökíti a mapungubwei terület hatalmas, vad szavannáját.",
+                  "category": "natural",
+                  "coords": [
+                        29.427322,
+                        -22.190968
+                  ]
+            },
+            {
+                  "name": "The Mapungubwe Interpretation Centre",
+                  "text": "Jellegzetes múzeum, amely a híres arany orrszarvúnak és más mapungubwei régészeti leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        29.404979,
+                        -22.241612
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "Természetes itatóhely, ahol a helyi szavanna vadvilága gyülekezik Mapungubwe közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.357721,
+                        -22.219988
+                  ]
+            },
+            {
+                  "name": "Day Visitor Site",
+                  "text": "Rekreációs terület, amely létesítményeket biztosít a történelmi mapungubwei tájat felfedező egynapos kirándulóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        29.371826,
+                        -22.203355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Confluence View Point",
+                  "text": "Un punct de belvedere cu vedere la întâlnirea spectaculoasă a râurilor Limpopo și Shashe.",
+                  "category": "natural",
+                  "coords": [
+                        29.353709,
+                        -22.200548
+                  ]
+            },
+            {
+                  "name": "Tree-top Walk",
+                  "text": "O pasarelă suspendată care oferă priveliști prin bolta pădurii luxuriante din Mapungubwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.354717,
+                        -22.201004
+                  ]
+            },
+            {
+                  "name": "K2 Cultural Site",
+                  "text": "O așezare antică care arată rețelele comerciale timpurii din regiunea Mapungubwe.",
+                  "category": "historical",
+                  "coords": [
+                        29.380612,
+                        -22.21823
+                  ]
+            },
+            {
+                  "name": "Pinnacle Lookout Deck",
+                  "text": "O platformă de observare care oferă priveliști panoramice peste peisajul accidentat din Mapungubwe.",
+                  "category": "natural",
+                  "coords": [
+                        29.371264,
+                        -22.204802
+                  ]
+            },
+            {
+                  "name": "Sunset Deck",
+                  "text": "O terasă de lemn desemnată pentru a privi apusul soarelui peste terenul istoric din Mapungubwe.",
+                  "category": "natural",
+                  "coords": [
+                        29.369978,
+                        -22.200517
+                  ]
+            },
+            {
+                  "name": "Sunrise Deck",
+                  "text": "O platformă de observare perfect orientată pentru a prinde soarele dimineții devreme peste savana din Mapungubwe.",
+                  "category": "natural",
+                  "coords": [
+                        29.371307,
+                        -22.200713
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Un punct de belvedere pitoresc care captează vasta savană neîmblânzită din zona Mapungubwe.",
+                  "category": "natural",
+                  "coords": [
+                        29.427322,
+                        -22.190968
+                  ]
+            },
+            {
+                  "name": "The Mapungubwe Interpretation Centre",
+                  "text": "Un muzeu distinctiv care găzduiește celebrul rinocer de aur și alte descoperiri arheologice din Mapungubwe.",
+                  "category": "museum",
+                  "coords": [
+                        29.404979,
+                        -22.241612
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "Un loc de adăpare natural unde se adună viața sălbatică a savanei locale lângă Mapungubwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.357721,
+                        -22.219988
+                  ]
+            },
+            {
+                  "name": "Day Visitor Site",
+                  "text": "O zonă de recreere care oferă facilități pentru excursioniștii de o zi care explorează peisajul istoric din Mapungubwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.371826,
+                        -22.203355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Confluence View Point",
+                  "text": "A viewpoint overlooking the spectacular meeting of the Limpopo and Shashe rivers.",
+                  "category": "natural",
+                  "coords": [
+                        29.353709,
+                        -22.200548
+                  ]
+            },
+            {
+                  "name": "Tree-top Walk",
+                  "text": "An elevated walkway offering views through the lush forest canopy at Mapungubwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.354717,
+                        -22.201004
+                  ]
+            },
+            {
+                  "name": "K2 Cultural Site",
+                  "text": "An ancient settlement site showing early trade networks in the Mapungubwe region.",
+                  "category": "historical",
+                  "coords": [
+                        29.380612,
+                        -22.21823
+                  ]
+            },
+            {
+                  "name": "Pinnacle Lookout Deck",
+                  "text": "A viewing deck offering panoramic vistas over the rugged Mapungubwe landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.371264,
+                        -22.204802
+                  ]
+            },
+            {
+                  "name": "Sunset Deck",
+                  "text": "A designated wooden deck for watching the sun set over the historic Mapungubwe terrain.",
+                  "category": "natural",
+                  "coords": [
+                        29.369978,
+                        -22.200517
+                  ]
+            },
+            {
+                  "name": "Sunrise Deck",
+                  "text": "A viewing platform perfectly oriented to catch the early morning sun over the Mapungubwe savanna.",
+                  "category": "natural",
+                  "coords": [
+                        29.371307,
+                        -22.200713
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "A scenic overlook capturing the vast, untamed savanna of the Mapungubwe area.",
+                  "category": "natural",
+                  "coords": [
+                        29.427322,
+                        -22.190968
+                  ]
+            },
+            {
+                  "name": "The Mapungubwe Interpretation Centre",
+                  "text": "A distinctive museum housing the famous golden rhino and other Mapungubwe archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        29.404979,
+                        -22.241612
+                  ]
+            },
+            {
+                  "name": "Waterhole",
+                  "text": "A natural drinking spot where local savanna wildlife gathers near Mapungubwe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.357721,
+                        -22.219988
+                  ]
+            },
+            {
+                  "name": "Day Visitor Site",
+                  "text": "A recreational area providing facilities for day-trippers exploring the historical Mapungubwe landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        29.371826,
+                        -22.203355
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-LP",
     coords: [29.3878, -22.2036],
@@ -183,7 +1434,340 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "voortrekker-monument-history-v2",
+    id: "voortrekker-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "South African Defence Force (SADF) Monument",
+                  "text": "Dieses Denkmal auf dem Gelände des Voortrekker-Monuments ehrt die gefallenen Mitglieder der südafrikanischen Verteidigungsstreitkräfte.",
+                  "category": "historical",
+                  "coords": [
+                        28.210088,
+                        -25.779495
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Museum",
+                  "text": "Dieses Museum dokumentiert die Geschichte und die Alltagsgegenstände der burischen Pioniere während des Großen Trecks.",
+                  "category": "museum",
+                  "coords": [
+                        28.1758,
+                        -25.776456
+                  ]
+            },
+            {
+                  "name": "Kruger",
+                  "text": "Diese Galerie in der Nähe des Voortrekker-Monuments stellt Kunstwerke und Porträts im Zusammenhang mit Paul Kruger aus.",
+                  "category": "museum",
+                  "coords": [
+                        28.176061,
+                        -25.774843
+                  ]
+            },
+            {
+                  "name": "Groenkloof Nature Reserve",
+                  "text": "Dieses am 25. Februar 1895 gegründete Naturschutzgebiet ist das älteste seiner Art auf dem afrikanischen Kontinent.",
+                  "category": "natural",
+                  "coords": [
+                        28.206131,
+                        -25.795461
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Nature Reserve",
+                  "text": "Dieses 1992 gegründete Naturreservat umgibt das historische Denkmal mit afrikanischer Savannenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.181537,
+                        -25.776705
+                  ]
+            },
+            {
+                  "name": "Klapperkop Nature Reserve",
+                  "text": "Dieses am 29. Oktober 2014 offiziell eingerichtete Reservat schützt die Hügellandschaft und die lokale Flora.",
+                  "category": "natural",
+                  "coords": [
+                        28.215554,
+                        -25.782803
+                  ]
+            },
+            {
+                  "name": "Transvaal Voortrekker Museum",
+                  "text": "Das Museum präsentiert historische Ausstellungsstücke über die Voortrekker in der ehemaligen Provinz Transvaal.",
+                  "category": "museum",
+                  "coords": [
+                        28.178183,
+                        -25.775873
+                  ]
+            },
+            {
+                  "name": "Fort Schanskop",
+                  "text": "Dieses 1897 errichtete Fort beherbergt heute ein Museum, das sich der Militärgeschichte der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        28.184589,
+                        -25.777152
+                  ]
+            },
+            {
+                  "name": "Voortrekker Amphitheatre",
+                  "text": "Dieses Open-Air-Theater auf dem Gelände des Voortrekker-Monuments wird für kulturelle Aufführungen und Gedenkfeiern genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        28.178339,
+                        -25.774654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "South African Defence Force (SADF) Monument",
+                  "text": "A Voortrekker-emlékmű területén található építmény a dél-afrikai védelmi erők elesett tagjai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        28.210088,
+                        -25.779495
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Museum",
+                  "text": "A múzeum a búr telepesek történetét és mindennapi tárgyait mutatja be a nagy vándorlás idejéből.",
+                  "category": "museum",
+                  "coords": [
+                        28.1758,
+                        -25.776456
+                  ]
+            },
+            {
+                  "name": "Kruger",
+                  "text": "A Voortrekker-emlékmű közelében található galéria Paul Krugerhez köthető műalkotásokat és portrékat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        28.176061,
+                        -25.774843
+                  ]
+            },
+            {
+                  "name": "Groenkloof Nature Reserve",
+                  "text": "Ezt a természetvédelmi területet 1895. február 25-én alapították, így a maga nemében a legrégebbi az afrikai kontinensen.",
+                  "category": "natural",
+                  "coords": [
+                        28.206131,
+                        -25.795461
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Nature Reserve",
+                  "text": "Ezt az 1992-ben alapított, afrikai szavannával borított természetvédelmi területet a történelmi emlékmű körül alakították ki.",
+                  "category": "natural",
+                  "coords": [
+                        28.181537,
+                        -25.776705
+                  ]
+            },
+            {
+                  "name": "Klapperkop Nature Reserve",
+                  "text": "A 2014. október 29-én hivatalosan is megalapított rezervátum a dombvidéki tájat és a helyi növényvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        28.215554,
+                        -25.782803
+                  ]
+            },
+            {
+                  "name": "Transvaal Voortrekker Museum",
+                  "text": "A múzeum a Voortrekker telepesek történelmi emlékeit mutatja be a korábbi Transvaal tartományból.",
+                  "category": "museum",
+                  "coords": [
+                        28.178183,
+                        -25.775873
+                  ]
+            },
+            {
+                  "name": "Fort Schanskop",
+                  "text": "Az 1897-ben épült egykori erődítmény ma a régió hadtörténetének szentelt múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        28.184589,
+                        -25.777152
+                  ]
+            },
+            {
+                  "name": "Voortrekker Amphitheatre",
+                  "text": "A Voortrekker-emlékműnél található szabadtéri színházat kulturális előadások és megemlékezések helyszíneként használják.",
+                  "category": "cultural",
+                  "coords": [
+                        28.178339,
+                        -25.774654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "South African Defence Force (SADF) Monument",
+                  "text": "Acest monument situat pe terenul Monumentului Voortrekker onorează membrii căzuți ai Forțelor de Apărare Sud-Africane.",
+                  "category": "historical",
+                  "coords": [
+                        28.210088,
+                        -25.779495
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Museum",
+                  "text": "Acest muzeu documentează istoria și obiectele de zi cu zi ale pionierilor buri din timpul Marelui Trek.",
+                  "category": "museum",
+                  "coords": [
+                        28.1758,
+                        -25.776456
+                  ]
+            },
+            {
+                  "name": "Kruger",
+                  "text": "Această galerie din apropierea Monumentului Voortrekker expune opere de artă și portrete asociate cu Paul Kruger.",
+                  "category": "museum",
+                  "coords": [
+                        28.176061,
+                        -25.774843
+                  ]
+            },
+            {
+                  "name": "Groenkloof Nature Reserve",
+                  "text": "Înființată la 25 februarie 1895, această rezervație naturală este cea mai veche de acest fel de pe continentul african.",
+                  "category": "natural",
+                  "coords": [
+                        28.206131,
+                        -25.795461
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Nature Reserve",
+                  "text": "Înființată în 1992, această rezervație naturală înconjoară monumentul istoric cu peisaje de savană africană.",
+                  "category": "natural",
+                  "coords": [
+                        28.181537,
+                        -25.776705
+                  ]
+            },
+            {
+                  "name": "Klapperkop Nature Reserve",
+                  "text": "Înființată oficial pe 29 octombrie 2014, această rezervație protejează peisajul de dealuri și flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        28.215554,
+                        -25.782803
+                  ]
+            },
+            {
+                  "name": "Transvaal Voortrekker Museum",
+                  "text": "Muzeul prezintă exponate istorice despre coloniștii Voortrekker din fosta provincie Transvaal.",
+                  "category": "museum",
+                  "coords": [
+                        28.178183,
+                        -25.775873
+                  ]
+            },
+            {
+                  "name": "Fort Schanskop",
+                  "text": "Construit în 1897, acest fort găzduiește acum un muzeu dedicat istoriei militare a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        28.184589,
+                        -25.777152
+                  ]
+            },
+            {
+                  "name": "Voortrekker Amphitheatre",
+                  "text": "Acest teatru în aer liber, situat la Monumentul Voortrekker, este folosit pentru spectacole culturale și evenimente comemorative.",
+                  "category": "cultural",
+                  "coords": [
+                        28.178339,
+                        -25.774654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "South African Defence Force (SADF) Monument",
+                  "text": "This monument located on the Voortrekker Monument grounds honors the fallen members of the South African Defence Force.",
+                  "category": "historical",
+                  "coords": [
+                        28.210088,
+                        -25.779495
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Museum",
+                  "text": "This museum documents the history and everyday artifacts of the Boer pioneers during the Great Trek.",
+                  "category": "museum",
+                  "coords": [
+                        28.1758,
+                        -25.776456
+                  ]
+            },
+            {
+                  "name": "Kruger",
+                  "text": "This gallery near the Voortrekker Monument exhibits artworks and portraits associated with Paul Kruger.",
+                  "category": "museum",
+                  "coords": [
+                        28.176061,
+                        -25.774843
+                  ]
+            },
+            {
+                  "name": "Groenkloof Nature Reserve",
+                  "text": "Established on February 25, 1895, this nature reserve is the oldest of its kind on the African continent.",
+                  "category": "natural",
+                  "coords": [
+                        28.206131,
+                        -25.795461
+                  ]
+            },
+            {
+                  "name": "Voortrekker Monument Nature Reserve",
+                  "text": "Established in 1992, this nature reserve surrounds the historical monument with African savanna landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        28.181537,
+                        -25.776705
+                  ]
+            },
+            {
+                  "name": "Klapperkop Nature Reserve",
+                  "text": "Officially established on October 29, 2014, this reserve protects the hilly landscape and local flora.",
+                  "category": "natural",
+                  "coords": [
+                        28.215554,
+                        -25.782803
+                  ]
+            },
+            {
+                  "name": "Transvaal Voortrekker Museum",
+                  "text": "The museum presents historical exhibits concerning the Voortrekkers in the former Transvaal province.",
+                  "category": "museum",
+                  "coords": [
+                        28.178183,
+                        -25.775873
+                  ]
+            },
+            {
+                  "name": "Fort Schanskop",
+                  "text": "Constructed in 1897, this fort now houses a museum dedicated to the military history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        28.184589,
+                        -25.777152
+                  ]
+            },
+            {
+                  "name": "Voortrekker Amphitheatre",
+                  "text": "This open-air theatre on the Voortrekker Monument grounds is used for cultural performances and commemorative events.",
+                  "category": "cultural",
+                  "coords": [
+                        28.178339,
+                        -25.774654
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [28.1758, -25.7766],
@@ -243,7 +1827,196 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "blood-river-heritage-site-history-v2",
+    id: "blood-river-heritage-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vegkop",
+                  "text": "Ein historischer Berggipfel, der die Landschaft überragt, die Zeuge früher regionaler Konflikte war.",
+                  "category": "natural",
+                  "coords": [
+                        30.52,
+                        -28.1167
+                  ]
+            },
+            {
+                  "name": "Die gelofte",
+                  "text": "Ein Gedenksteinmonument, das 1939 in Form eines traditionellen Voortrekker-Wagens errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        30.53396,
+                        -28.103808
+                  ]
+            },
+            {
+                  "name": "Ncome Zulu Museum",
+                  "text": "Ein kultureller Museumskomplex, der sich auf die Ausstellung von Artefakten und der Geschichte aus der Zulu-Perspektive konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        30.546514,
+                        -28.105385
+                  ]
+            },
+            {
+                  "name": "Bloedrivier Erfenisterrein",
+                  "text": "Eine historische Schlachtfeldattraktion zur Erinnerung an ein äußerst bedeutsames Gefecht im 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        30.537743,
+                        -28.103707
+                  ]
+            },
+            {
+                  "name": "Bloedrivier laager",
+                  "text": "Ein am 16. Dezember 1971 gegründetes Freilichtmuseum, das eine lebensgroße Nachbildung einer bronzenen Wagenburg zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        30.54065,
+                        -28.105526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vegkop",
+                  "text": "Történelmi hegycsúcs, amely a korai regionális konfliktusoknak tanúbizonyságot tevő táj fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        30.52,
+                        -28.1167
+                  ]
+            },
+            {
+                  "name": "Die gelofte",
+                  "text": "Egy 1939-ben felállított kőemlékmű, amely egy hagyományos Voortrekker szekér alakját formázza.",
+                  "category": "historical",
+                  "coords": [
+                        30.53396,
+                        -28.103808
+                  ]
+            },
+            {
+                  "name": "Ncome Zulu Museum",
+                  "text": "Kulturális múzeumkomplexum, amely a műtárgyak és a történelem zulu szemszögből történő bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        30.546514,
+                        -28.105385
+                  ]
+            },
+            {
+                  "name": "Bloedrivier Erfenisterrein",
+                  "text": "Történelmi csatatér látványosság, amely egy rendkívül jelentős 19. századi összecsapásnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        30.537743,
+                        -28.103707
+                  ]
+            },
+            {
+                  "name": "Bloedrivier laager",
+                  "text": "Egy 1971. december 16-án alapított szabadtéri múzeum, amely egy bronz szekértábor életnagyságú másolatát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.54065,
+                        -28.105526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vegkop",
+                  "text": "Un vârf de munte istoric care domină peisajul martor al primelor conflicte regionale.",
+                  "category": "natural",
+                  "coords": [
+                        30.52,
+                        -28.1167
+                  ]
+            },
+            {
+                  "name": "Die gelofte",
+                  "text": "Un monument comemorativ din piatră ridicat în 1939 sub forma unui vagon tradițional Voortrekker.",
+                  "category": "historical",
+                  "coords": [
+                        30.53396,
+                        -28.103808
+                  ]
+            },
+            {
+                  "name": "Ncome Zulu Museum",
+                  "text": "Un complex muzeal cultural axat pe expunerea artefactelor și a istoriei din perspectiva Zulu.",
+                  "category": "museum",
+                  "coords": [
+                        30.546514,
+                        -28.105385
+                  ]
+            },
+            {
+                  "name": "Bloedrivier Erfenisterrein",
+                  "text": "O atracție istorică a câmpului de luptă, care comemorează o confruntare extrem de semnificativă din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        30.537743,
+                        -28.103707
+                  ]
+            },
+            {
+                  "name": "Bloedrivier laager",
+                  "text": "Un muzeu în aer liber înființat la 16 decembrie 1971, care prezintă o replică în mărime naturală a unei tabere de vagoane din bronz.",
+                  "category": "museum",
+                  "coords": [
+                        30.54065,
+                        -28.105526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vegkop",
+                  "text": "A historical mountain peak towering over the landscape that witnessed early regional conflicts.",
+                  "category": "natural",
+                  "coords": [
+                        30.52,
+                        -28.1167
+                  ]
+            },
+            {
+                  "name": "The Granite Jawbone Wagon",
+                  "text": "A commemorative stone monument erected in 1939 in the shape of a traditional Voortrekker wagon.",
+                  "category": "historical",
+                  "coords": [
+                        30.53396,
+                        -28.103808
+                  ]
+            },
+            {
+                  "name": "Ncome Zulu Museum",
+                  "text": "A cultural museum complex focused on displaying artifacts and history from the Zulu perspective.",
+                  "category": "museum",
+                  "coords": [
+                        30.546514,
+                        -28.105385
+                  ]
+            },
+            {
+                  "name": "Blood River Heritage Site",
+                  "text": "A historic battlefield attraction memorialising a highly significant 19th-century clash.",
+                  "category": "landmark",
+                  "coords": [
+                        30.537743,
+                        -28.103707
+                  ]
+            },
+            {
+                  "name": "Bloedrivier laager",
+                  "text": "An open-air museum established on 1971-12-16 that features a life-size replica of a bronze wagon laager.",
+                  "category": "museum",
+                  "coords": [
+                        30.54065,
+                        -28.105526
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NL",
     coords: [30.5367, -28.1066],
@@ -303,7 +2076,196 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "isandlwana-battlefield-history-v2",
+    id: "isandlwana-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isandlwana",
+                  "text": "Dieser isolierte Gipfel, der durch seine markante sphinxartige Form gekennzeichnet ist, überblickt den Ort eines tiefgreifenden historischen Konflikts von 1879.",
+                  "category": "natural",
+                  "coords": [
+                        30.651659,
+                        -28.351681
+                  ]
+            },
+            {
+                  "name": "Battle of Isandlwana 1879",
+                  "text": "Dieses Steindenkmal erinnert an die historische Schlacht von 1879, in der die Zulu-Streitkräfte einen dramatischen Sieg über britische Kolonialtruppen errangen.",
+                  "category": "historical",
+                  "coords": [
+                        30.652949,
+                        -28.354171
+                  ]
+            },
+            {
+                  "name": "KING MAZIBUKO",
+                  "text": "Diese historische Burgstätte, die mit dem lokalen Erbe verbunden ist, steht als markantes kulturelles Wahrzeichen in der Region des Isandlwana-Schlachtfelds.",
+                  "category": "castle",
+                  "coords": [
+                        30.663697,
+                        -28.339818
+                  ]
+            },
+            {
+                  "name": "Isandlwana Heritage Reserve",
+                  "text": "Dieses malerische Naturschutzgebiet, das das berühmte historische Schlachtfeld umgibt, schützt das raue Gelände und die endemische Graslandökologie.",
+                  "category": "natural",
+                  "coords": [
+                        30.636803,
+                        -28.368029
+                  ]
+            },
+            {
+                  "name": "Fugitives' Drift",
+                  "text": "Dieses Naturschutzgebiet markiert einen dramatischen Flussübergang und bewahrt die tragische Route der sich zurückziehenden Soldaten nach der Schlacht von Isandlwana.",
+                  "category": "natural",
+                  "coords": [
+                        30.604389,
+                        -28.399237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isandlwana",
+                  "text": "A jellegzetes szfinxszerű alakjával jellemezhető elszigetelt csúcs egy jelentős 1879-es történelmi konfliktus helyszínére néz.",
+                  "category": "natural",
+                  "coords": [
+                        30.651659,
+                        -28.351681
+                  ]
+            },
+            {
+                  "name": "Battle of Isandlwana 1879",
+                  "text": "Ez a kőemlékmű az 1879-es történelmi csatának állít emléket, amelyben a zulu erők drámai győzelmet arattak a brit gyarmati csapatok felett.",
+                  "category": "historical",
+                  "coords": [
+                        30.652949,
+                        -28.354171
+                  ]
+            },
+            {
+                  "name": "KING MAZIBUKO",
+                  "text": "A helyi örökséghez kötődő történelmi várhelyszín kiemelkedő kulturális mérföldkő az isandlwanai csatatér régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        30.663697,
+                        -28.339818
+                  ]
+            },
+            {
+                  "name": "Isandlwana Heritage Reserve",
+                  "text": "A híres történelmi csatateret körülvevő festői természetvédelmi terület a zord terepet és az endemikus füves pusztai ökológiát védi.",
+                  "category": "natural",
+                  "coords": [
+                        30.636803,
+                        -28.368029
+                  ]
+            },
+            {
+                  "name": "Fugitives' Drift",
+                  "text": "Ez a természetvédelmi terület egy drámai folyami átkelőhelyet jelöl, megőrizve az isandlwanai csata után visszavonuló katonák tragikus útvonalát.",
+                  "category": "natural",
+                  "coords": [
+                        30.604389,
+                        -28.399237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isandlwana",
+                  "text": "Caracterizat prin forma sa distinctivă asemănătoare unui sfinx, acest vârf izolat are vedere spre locul unui conflict istoric profund din 1879.",
+                  "category": "natural",
+                  "coords": [
+                        30.651659,
+                        -28.351681
+                  ]
+            },
+            {
+                  "name": "Battle of Isandlwana 1879",
+                  "text": "Acest monument de piatră comemorează bătălia istorică din 1879, în care forțele zulu au obținut o victorie dramatică asupra trupelor coloniale britanice.",
+                  "category": "historical",
+                  "coords": [
+                        30.652949,
+                        -28.354171
+                  ]
+            },
+            {
+                  "name": "KING MAZIBUKO",
+                  "text": "Asociat cu patrimoniul local, acest sit de castel istoric se remarcă ca un punct de reper cultural proeminent în regiunea câmpului de luptă Isandlwana.",
+                  "category": "castle",
+                  "coords": [
+                        30.663697,
+                        -28.339818
+                  ]
+            },
+            {
+                  "name": "Isandlwana Heritage Reserve",
+                  "text": "Înconjurând faimosul câmp de luptă istoric, această rezervație naturală pitorească protejează terenul accidentat și ecologia endemică a pajiștilor.",
+                  "category": "natural",
+                  "coords": [
+                        30.636803,
+                        -28.368029
+                  ]
+            },
+            {
+                  "name": "Fugitives' Drift",
+                  "text": "Marcând un punct dramatic de trecere a râului, această rezervație naturală păstrează traseul tragic parcurs de soldații în retragere după bătălia de la Isandlwana.",
+                  "category": "natural",
+                  "coords": [
+                        30.604389,
+                        -28.399237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isandlwana",
+                  "text": "Characterized by its distinctive sphinx-like shape, this isolated peak overlooks the site of a profound 1879 historical conflict.",
+                  "category": "natural",
+                  "coords": [
+                        30.651659,
+                        -28.351681
+                  ]
+            },
+            {
+                  "name": "Battle of Isandlwana 1879",
+                  "text": "This stone monument commemorates the historic 1879 battle where Zulu forces achieved a dramatic victory over British colonial troops.",
+                  "category": "historical",
+                  "coords": [
+                        30.652949,
+                        -28.354171
+                  ]
+            },
+            {
+                  "name": "KING MAZIBUKO",
+                  "text": "Associated with local heritage, this historic castle site stands as a prominent cultural landmark within the Isandlwana battlefield region.",
+                  "category": "castle",
+                  "coords": [
+                        30.663697,
+                        -28.339818
+                  ]
+            },
+            {
+                  "name": "Isandlwana Heritage Reserve",
+                  "text": "Surrounding the famous historic battlefield, this scenic nature reserve protects the rugged terrain and endemic grassland ecology.",
+                  "category": "natural",
+                  "coords": [
+                        30.636803,
+                        -28.368029
+                  ]
+            },
+            {
+                  "name": "Fugitives' Drift",
+                  "text": "Marking a dramatic river crossing point, this nature reserve preserves the tragic route taken by retreating soldiers after the battle of Isandlwana.",
+                  "category": "natural",
+                  "coords": [
+                        30.604389,
+                        -28.399237
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NL",
     coords: [30.6525, -28.3556],
@@ -423,7 +2385,232 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "nelson-mandela-capture-site-history-v2",
+    id: "nelson-mandela-capture-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mandela Capture site 1962",
+                  "text": "Diese historische Stätte markiert den genauen Ort, an dem Nelson Mandela 1962 von der Polizei verhaftet wurde, was den Lauf der südafrikanischen Geschichte veränderte.",
+                  "category": "landmark",
+                  "coords": [
+                        30.1696,
+                        -29.468861
+                  ]
+            },
+            {
+                  "name": "Umgeni Valley Nature Reserve",
+                  "text": "Dieses Wildreservat umfasst die steilen Schluchten des Umgeni-Flusses und schützt einheimisches Buschland sowie eine vielfältige regionale Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        30.225,
+                        -29.423333
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Capture Site – Visitor Center and Museum",
+                  "text": "Diese moderne kulturelle Einrichtung bietet umfassende Ausstellungen über das Leben, den Kampf und die letztendliche Verhaftung von Nelson Mandela im Jahr 1962.",
+                  "category": "museum",
+                  "coords": [
+                        30.171877,
+                        -29.465302
+                  ]
+            },
+            {
+                  "name": "Horse Shoe Bend",
+                  "text": "Dieser dramatische Mäander im lokalen Flusssystem schafft eine spektakuläre, hufeisenförmige Naturattraktion, die von üppiger Vegetation umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        30.175464,
+                        -29.470671
+                  ]
+            },
+            {
+                  "name": "Midmar Nature Reserve",
+                  "text": "Rund um einen großen Staudamm gelegen, bietet dieser weitläufige Naturpark umfangreiche Möglichkeiten zum Bootfahren, Angeln und zur Tierbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        30.18057,
+                        -29.518991
+                  ]
+            },
+            {
+                  "name": "Kwawula Nature Reserve",
+                  "text": "Dieses am 30. Dezember 2021 offiziell gegründete Naturschutzgebiet bewahrt die lokale Artenvielfalt und die natürlichen Lebensräume in der Nähe der Mandela-Verhaftungsstätte.",
+                  "category": "natural",
+                  "coords": [
+                        30.262495,
+                        -29.467192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mandela Capture site 1962",
+                  "text": "Ez a történelmi helyszín jelzi azt a pontos pontot, ahol Nelson Mandelát 1962-ben letartóztatta a rendőrség, megváltoztatva ezzel a dél-afrikai történelem menetét.",
+                  "category": "landmark",
+                  "coords": [
+                        30.1696,
+                        -29.468861
+                  ]
+            },
+            {
+                  "name": "Umgeni Valley Nature Reserve",
+                  "text": "Az Umgeni-folyó meredek szurdokait magába foglaló vadvédelmi terület az őshonos bozótost és a változatos regionális faunát védi.",
+                  "category": "natural",
+                  "coords": [
+                        30.225,
+                        -29.423333
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Capture Site – Visitor Center and Museum",
+                  "text": "Ez a modern kulturális intézmény átfogó kiállításokat kínál, amelyek részletezik Nelson Mandela életét, küzdelmét és 1962-es letartóztatását.",
+                  "category": "museum",
+                  "coords": [
+                        30.171877,
+                        -29.465302
+                  ]
+            },
+            {
+                  "name": "Horse Shoe Bend",
+                  "text": "A helyi folyórendszer ez a drámai kanyarulata egy látványos, patkó alakú természeti látványosságot hoz létre, amelyet buja növényzet vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        30.175464,
+                        -29.470671
+                  ]
+            },
+            {
+                  "name": "Midmar Nature Reserve",
+                  "text": "Egy nagy gát köré épült kiterjedt natúrpark, amely kiváló lehetőségeket kínál csónakázásra, horgászatra és a legelésző vadvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        30.18057,
+                        -29.518991
+                  ]
+            },
+            {
+                  "name": "Kwawula Nature Reserve",
+                  "text": "Ez a hivatalosan 2021. december 30-án alapított, újonnan védett terület megóvja a helyi biodiverzitást és a természetes élőhelyeket a Mandela-emlékhely közelében.",
+                  "category": "natural",
+                  "coords": [
+                        30.262495,
+                        -29.467192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mandela Capture site 1962",
+                  "text": "Acest sit istoric marchează locația exactă în care Nelson Mandela a fost arestat de poliție în 1962, alterând cursul istoriei Africii de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        30.1696,
+                        -29.468861
+                  ]
+            },
+            {
+                  "name": "Umgeni Valley Nature Reserve",
+                  "text": "Cuprinzând defileele abrupte ale râului Umgeni, această rezervație a faunei sălbatice protejează tufișurile indigene și o faună regională diversă.",
+                  "category": "natural",
+                  "coords": [
+                        30.225,
+                        -29.423333
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Capture Site – Visitor Center and Museum",
+                  "text": "Această instituție culturală modernă prezintă expoziții cuprinzătoare care detaliază viața, lupta și eventuala arestare a lui Nelson Mandela în 1962.",
+                  "category": "museum",
+                  "coords": [
+                        30.171877,
+                        -29.465302
+                  ]
+            },
+            {
+                  "name": "Horse Shoe Bend",
+                  "text": "Acest meandru dramatic din sistemul fluvial local creează o atracție naturală spectaculoasă, în formă de potcoavă, înconjurată de o vegetație luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        30.175464,
+                        -29.470671
+                  ]
+            },
+            {
+                  "name": "Midmar Nature Reserve",
+                  "text": "Centrat în jurul unui baraj mare, acest parc natural vast oferă oportunități extinse pentru plimbări cu barca, pescuit și observarea faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        30.18057,
+                        -29.518991
+                  ]
+            },
+            {
+                  "name": "Kwawula Nature Reserve",
+                  "text": "Înființat oficial pe 30 decembrie 2021, acest mediu nou protejat salvează biodiversitatea locală și habitatele naturale din apropierea sitului de capturare a lui Mandela.",
+                  "category": "natural",
+                  "coords": [
+                        30.262495,
+                        -29.467192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mandela Capture site 1962",
+                  "text": "This historic site marks the exact location where Nelson Mandela was famously arrested by the police in 1962, altering the course of South African history.",
+                  "category": "landmark",
+                  "coords": [
+                        30.1696,
+                        -29.468861
+                  ]
+            },
+            {
+                  "name": "Umgeni Valley Nature Reserve",
+                  "text": "Encompassing the steep gorges of the Umgeni River, this wildlife reserve protects indigenous bushland and diverse regional fauna.",
+                  "category": "natural",
+                  "coords": [
+                        30.225,
+                        -29.423333
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Capture Site – Visitor Center and Museum",
+                  "text": "This modern cultural institution features comprehensive exhibitions detailing the life, struggle, and eventual 1962 arrest of Nelson Mandela.",
+                  "category": "museum",
+                  "coords": [
+                        30.171877,
+                        -29.465302
+                  ]
+            },
+            {
+                  "name": "Horse Shoe Bend",
+                  "text": "This dramatic meander in the local river system creates a spectacular, horseshoe-shaped natural attraction surrounded by lush vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        30.175464,
+                        -29.470671
+                  ]
+            },
+            {
+                  "name": "Midmar Nature Reserve",
+                  "text": "Centered around a large dam, this expansive natural park offers extensive opportunities for boating, fishing, and spotting grazing wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        30.18057,
+                        -29.518991
+                  ]
+            },
+            {
+                  "name": "Kwawula Nature Reserve",
+                  "text": "Officially established on December 30, 2021, this newly protected environment safeguards the local biodiversity and natural habitats near the Mandela Capture site.",
+                  "category": "natural",
+                  "coords": [
+                        30.262495,
+                        -29.467192
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NL",
     coords: [30.1706, -29.4752],
@@ -483,7 +2670,520 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "district-six-museum-history-v2",
+    id: "district-six-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Artists Admin",
+                  "text": "Artists Admin ist eine Kunstgalerie, die zeitgenössische Werke im District Six ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        18.422059,
+                        -33.929456
+                  ]
+            },
+            {
+                  "name": "Artillerymen's Memorial",
+                  "text": "Das Artillerymen's Memorial ist ein Denkmal zu Ehren der Artilleriesoldaten.",
+                  "category": "historical",
+                  "coords": [
+                        18.416245,
+                        -33.928302
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (District Six)",
+                  "text": "Der Table Mountain Yellow Frame ist eine beliebte Fotoattraktion, die den Tafelberg umrahmt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425004,
+                        -33.928387
+                  ]
+            },
+            {
+                  "name": "Star Theatre",
+                  "text": "Das Star Theatre ist ein lokaler Veranstaltungsort für Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.424876,
+                        -33.927136
+                  ]
+            },
+            {
+                  "name": "Arena Theatre",
+                  "text": "Das Arena Theatre ist ein Veranstaltungsort für darstellende Künste in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.413399,
+                        -33.929406
+                  ]
+            },
+            {
+                  "name": "Rust en Vreugd",
+                  "text": "Rust en Vreugd ist ein Museum, das in einem historischen Stadthaus aus dem 18. Jahrhundert untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.420316,
+                        -33.930243
+                  ]
+            },
+            {
+                  "name": "Südafrikanische Nationalgalerie",
+                  "text": "Die South African National Gallery ist ein bedeutendes Kunstmuseum, das afrikanische und internationale Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.417412,
+                        -33.929169
+                  ]
+            },
+            {
+                  "name": "Cape Town Holocaust Centre",
+                  "text": "Das Cape Town Holocaust Centre ist ein Gedenkmuseum, das sich der Holocaust-Geschichte und den Menschenrechten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.4166,
+                        -33.930255
+                  ]
+            },
+            {
+                  "name": "Ruined Oppelskop Fire Watch",
+                  "text": "Die Ruine der Oppelskop Fire Watch besteht aus den Überresten eines ehemaligen Bergwachturms.",
+                  "category": "historical",
+                  "coords": [
+                        18.42982,
+                        -33.949127
+                  ]
+            },
+            {
+                  "name": "District Six Museum",
+                  "text": "Das District Six Museum bewahrt die Erinnerung an die Gemeinde, die während der Apartheid zwangsumgesiedelt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        18.423745,
+                        -33.927811
+                  ]
+            },
+            {
+                  "name": "St Mary's Cathedral",
+                  "text": "Die St Mary's Cathedral ist ein katholisches Gotteshaus der lokalen Diözese.",
+                  "category": "religious",
+                  "coords": [
+                        18.419447,
+                        -33.928317
+                  ]
+            },
+            {
+                  "name": "Bushmen Art Gallery",
+                  "text": "Die Bushmen Art Gallery ist ein Kunstzentrum, das sich den Werken der indigenen San-Bevölkerung widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414676,
+                        -33.928203
+                  ]
+            },
+            {
+                  "name": "Little Theatre",
+                  "text": "Das Little Theatre ist ein intimer Veranstaltungsort für Theater- und Schauspielkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414543,
+                        -33.929834
+                  ]
+            },
+            {
+                  "name": "De Waal Park",
+                  "text": "Der De Waal Park ist ein öffentlicher Park der Denkmalschutzstufe 2, der für seinen viktorianischen Musikpavillon bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412245,
+                        -33.937476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Artists Admin",
+                  "text": "Az Artists Admin egy művészeti galéria, amely a District Six negyedben található.",
+                  "category": "museum",
+                  "coords": [
+                        18.422059,
+                        -33.929456
+                  ]
+            },
+            {
+                  "name": "Artillerymen's Memorial",
+                  "text": "Az Artillerymen's Memorial egy emlékmű, amely a tüzérségi katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        18.416245,
+                        -33.928302
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (District Six)",
+                  "text": "A Table Mountain Yellow Frame egy népszerű fotókeret, amely a lapos tetejű hegyet foglalja keretbe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425004,
+                        -33.928387
+                  ]
+            },
+            {
+                  "name": "Star Theatre",
+                  "text": "A Star Theatre egy helyi színházterem, amely különféle színpadi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.424876,
+                        -33.927136
+                  ]
+            },
+            {
+                  "name": "Arena Theatre",
+                  "text": "Az Arena Theatre egy előadó-művészeti tér a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.413399,
+                        -33.929406
+                  ]
+            },
+            {
+                  "name": "Rust en Vreugd",
+                  "text": "A Rust en Vreugd egy díszes történelmi polgárházban működő múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.420316,
+                        -33.930243
+                  ]
+            },
+            {
+                  "name": "South African National Gallery",
+                  "text": "A South African National Gallery egy jelentős művészeti múzeum, amely afrikai alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.417412,
+                        -33.929169
+                  ]
+            },
+            {
+                  "name": "Cape Town Holocaust Centre",
+                  "text": "A Cape Town Holocaust Centre egy a holokauszt történelmével és emberi jogokkal foglalkozó emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.4166,
+                        -33.930255
+                  ]
+            },
+            {
+                  "name": "Ruined Oppelskop Fire Watch",
+                  "text": "A romos Oppelskop Fire Watch egy egykori hegyi tűzfigyelő torony maradványaiból áll.",
+                  "category": "historical",
+                  "coords": [
+                        18.42982,
+                        -33.949127
+                  ]
+            },
+            {
+                  "name": "District Six Museum",
+                  "text": "A District Six Múzeum az apartheid idején erőszakkal kilakoltatott közösség emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        18.423745,
+                        -33.927811
+                  ]
+            },
+            {
+                  "name": "St Mary's Cathedral",
+                  "text": "A St Mary's katedrális a helyi egyházmegye katolikus istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        18.419447,
+                        -33.928317
+                  ]
+            },
+            {
+                  "name": "Bushmen Art Gallery",
+                  "text": "A Bushmen Art Gallery az őslakos szan nép művészetének szentelt kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414676,
+                        -33.928203
+                  ]
+            },
+            {
+                  "name": "Little Theatre",
+                  "text": "A Little Theatre egy meghitt színházterem, amely színpadi és drámai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414543,
+                        -33.929834
+                  ]
+            },
+            {
+                  "name": "De Waal Park",
+                  "text": "A De Waal Park egy 2-es szintű örökségvédelmi besorolású közpark, amely viktoriánus zenepavilonjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412245,
+                        -33.937476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Artists Admin",
+                  "text": "Artists Admin este o galerie de artă ce expune lucrări în zona District Six.",
+                  "category": "museum",
+                  "coords": [
+                        18.422059,
+                        -33.929456
+                  ]
+            },
+            {
+                  "name": "Artillerymen's Memorial",
+                  "text": "Artillerymen's Memorial este un monument dedicat onorării soldaților din artilerie.",
+                  "category": "historical",
+                  "coords": [
+                        18.416245,
+                        -33.928302
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (District Six)",
+                  "text": "Table Mountain Yellow Frame este o atracție populară pentru fotografii, încadrând muntele cu vârf plat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425004,
+                        -33.928387
+                  ]
+            },
+            {
+                  "name": "Star Theatre",
+                  "text": "Star Theatre este un teatru local destinat artelor spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        18.424876,
+                        -33.927136
+                  ]
+            },
+            {
+                  "name": "Arena Theatre",
+                  "text": "Arena Theatre este un spațiu dedicat artelor spectacolului din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        18.413399,
+                        -33.929406
+                  ]
+            },
+            {
+                  "name": "Rust en Vreugd",
+                  "text": "Rust en Vreugd este un muzeu găzduit într-o clădire istorică ornamentată.",
+                  "category": "museum",
+                  "coords": [
+                        18.420316,
+                        -33.930243
+                  ]
+            },
+            {
+                  "name": "South African National Gallery",
+                  "text": "South African National Gallery este un muzeu de artă proeminent ce expune lucrări africane.",
+                  "category": "museum",
+                  "coords": [
+                        18.417412,
+                        -33.929169
+                  ]
+            },
+            {
+                  "name": "Cape Town Holocaust Centre",
+                  "text": "Cape Town Holocaust Centre este un muzeu memorial axat pe istoria Holocaustului și drepturile omului.",
+                  "category": "museum",
+                  "coords": [
+                        18.4166,
+                        -33.930255
+                  ]
+            },
+            {
+                  "name": "Ruined Oppelskop Fire Watch",
+                  "text": "Ruina Oppelskop Fire Watch reprezintă rămășițele unui fost turn de observație montan.",
+                  "category": "historical",
+                  "coords": [
+                        18.42982,
+                        -33.949127
+                  ]
+            },
+            {
+                  "name": "District Six Museum",
+                  "text": "Muzeul District Six păstrează amintirea comunității evacuate forțat în perioada apartheidului.",
+                  "category": "museum",
+                  "coords": [
+                        18.423745,
+                        -33.927811
+                  ]
+            },
+            {
+                  "name": "St Mary's Cathedral",
+                  "text": "Catedrala Sf. Maria este un lăcaș de cult catolic care deservește dieceza locală.",
+                  "category": "religious",
+                  "coords": [
+                        18.419447,
+                        -33.928317
+                  ]
+            },
+            {
+                  "name": "Bushmen Art Gallery",
+                  "text": "Bushmen Art Gallery este un centru de artă dedicat lucrărilor poporului indigen San.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414676,
+                        -33.928203
+                  ]
+            },
+            {
+                  "name": "Little Theatre",
+                  "text": "Little Theatre este un spațiu intim pentru spectacole de teatru și arte dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414543,
+                        -33.929834
+                  ]
+            },
+            {
+                  "name": "De Waal Park",
+                  "text": "De Waal Park este un parc public cu statut de patrimoniu de nivel 2, renumit pentru pavilionul său muzical victorian.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412245,
+                        -33.937476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Artists Admin",
+                  "text": "Artists Admin is an art gallery space located in the District Six area.",
+                  "category": "museum",
+                  "coords": [
+                        18.422059,
+                        -33.929456
+                  ]
+            },
+            {
+                  "name": "Artillerymen's Memorial",
+                  "text": "The Artillerymen's Memorial is a monument honoring the service of military artillerymen.",
+                  "category": "historical",
+                  "coords": [
+                        18.416245,
+                        -33.928302
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (District Six)",
+                  "text": "The Table Mountain Yellow Frame is a popular photo spot framing the iconic flat-topped mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425004,
+                        -33.928387
+                  ]
+            },
+            {
+                  "name": "Star Theatre",
+                  "text": "The Star Theatre serves as an indoor venue for dramatic stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.424876,
+                        -33.927136
+                  ]
+            },
+            {
+                  "name": "Arena Theatre",
+                  "text": "The Arena Theatre is a local venue hosting various stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.413399,
+                        -33.929406
+                  ]
+            },
+            {
+                  "name": "Rust en Vreugd",
+                  "text": "Rust en Vreugd is a museum housed in an ornate historic townhouse.",
+                  "category": "museum",
+                  "coords": [
+                        18.420316,
+                        -33.930243
+                  ]
+            },
+            {
+                  "name": "South African National Gallery",
+                  "text": "The South African National Gallery is a prominent art museum showcasing regional African works.",
+                  "category": "museum",
+                  "coords": [
+                        18.417412,
+                        -33.929169
+                  ]
+            },
+            {
+                  "name": "Cape Town Holocaust Centre",
+                  "text": "The Cape Town Holocaust Centre is a memorial museum focused on Holocaust history and human rights.",
+                  "category": "museum",
+                  "coords": [
+                        18.4166,
+                        -33.930255
+                  ]
+            },
+            {
+                  "name": "Ruined Oppelskop Fire Watch",
+                  "text": "The Ruined Oppelskop Fire Watch features the remains of a former mountainside lookout structure.",
+                  "category": "historical",
+                  "coords": [
+                        18.42982,
+                        -33.949127
+                  ]
+            },
+            {
+                  "name": "District Six Museum",
+                  "text": "The District Six Museum preserves the memory of the community forcibly removed during the apartheid era.",
+                  "category": "museum",
+                  "coords": [
+                        18.423745,
+                        -33.927811
+                  ]
+            },
+            {
+                  "name": "St Mary's Cathedral",
+                  "text": "St Mary's Cathedral is an established Catholic place of worship serving the local diocese.",
+                  "category": "religious",
+                  "coords": [
+                        18.419447,
+                        -33.928317
+                  ]
+            },
+            {
+                  "name": "Bushmen Art Gallery",
+                  "text": "The Bushmen Art Gallery is a cultural center dedicated to the indigenous San people's artwork.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414676,
+                        -33.928203
+                  ]
+            },
+            {
+                  "name": "Little Theatre",
+                  "text": "The Little Theatre is an intimate venue for stage performances and dramatic arts.",
+                  "category": "cultural",
+                  "coords": [
+                        18.414543,
+                        -33.929834
+                  ]
+            },
+            {
+                  "name": "De Waal Park",
+                  "text": "De Waal Park is a level-2 heritage public park known for its Victorian bandstand and trees.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412245,
+                        -33.937476
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-WC",
     coords: [18.4239, -33.9281],
@@ -543,7 +3243,268 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "apartheid-museum-history-v2",
+    id: "apartheid-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vierfontein Dame",
+                  "text": "Diese historischen Ruinen bieten einen Einblick in die früheren baulichen Entwicklungen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        28.009652,
+                        -26.283707
+                  ]
+            },
+            {
+                  "name": "Rietvlei Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet schützt wichtige Feuchtgebiet-Ökosysteme und unterstützt eine Vielzahl lokaler Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        28.036132,
+                        -26.295165
+                  ]
+            },
+            {
+                  "name": "Thaba Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet liegt in sanften Hügeln und ist bekannt für seine Ökotourismus-Pfade und einheimischen Bäume.",
+                  "category": "natural",
+                  "coords": [
+                        28.034912,
+                        -26.305097
+                  ]
+            },
+            {
+                  "name": "Klipriviersberg Nature Reserve",
+                  "text": "Dieses im Jahr 1947 gegründete Naturschutzgebiet schützt die zerklüfteten Hügel des Klipriviersberg-Kamms.",
+                  "category": "natural",
+                  "coords": [
+                        28.015492,
+                        -26.291301
+                  ]
+            },
+            {
+                  "name": "Tswana Reconstruction",
+                  "text": "Diese Attraktion umfasst sorgfältig rekonstruierte Behausungen, die die traditionelle Architektur und Kultur der Tswana zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.018111,
+                        -26.30444
+                  ]
+            },
+            {
+                  "name": "Mondeor",
+                  "text": "Diese Kultstätte dient den spirituellen Bedürfnissen der lokalen Gemeinschaft im südlichen Vorort Mondeor.",
+                  "category": "religious",
+                  "coords": [
+                        27.995113,
+                        -26.274263
+                  ]
+            },
+            {
+                  "name": "Apartheid Museum",
+                  "text": "Dieses Museum dokumentiert eindrucksvoll die südafrikanische Geschichte der staatlich geförderten Rassentrennung im 20. Jahrhundert und den Kampf um Freiheit.",
+                  "category": "museum",
+                  "coords": [
+                        28.008433,
+                        -26.237718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vierfontein Dame",
+                  "text": "Ezek a történelmi romok bepillantást engednek a régió korábbi szerkezeti fejlődésébe.",
+                  "category": "historical",
+                  "coords": [
+                        28.009652,
+                        -26.283707
+                  ]
+            },
+            {
+                  "name": "Rietvlei Nature Reserve",
+                  "text": "Ez a természetvédelmi terület létfontosságú vizes élőhelyeket véd, és számos helyi vadon élő állatot támogat.",
+                  "category": "natural",
+                  "coords": [
+                        28.036132,
+                        -26.295165
+                  ]
+            },
+            {
+                  "name": "Thaba Nature Reserve",
+                  "text": "Ez a dimbes-dombos tájon fekvő természetvédelmi terület ökoturisztikai ösvényeiről és őshonos fáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        28.034912,
+                        -26.305097
+                  ]
+            },
+            {
+                  "name": "Klipriviersberg Nature Reserve",
+                  "text": "Az 1947-ben alapított természetvédelmi terület a Klipriviersberg-hegyhát zord dombjait védi.",
+                  "category": "natural",
+                  "coords": [
+                        28.015492,
+                        -26.291301
+                  ]
+            },
+            {
+                  "name": "Tswana Reconstruction",
+                  "text": "Ez a látványosság gondosan rekonstruált lakóházakat mutat be, amelyek a hagyományos tswana építészetet és kultúrát szemléltetik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.018111,
+                        -26.30444
+                  ]
+            },
+            {
+                  "name": "Mondeor",
+                  "text": "Ez az istentiszteleti hely a helyi közösség spirituális igényeit szolgálja Mondeor déli külvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        27.995113,
+                        -26.274263
+                  ]
+            },
+            {
+                  "name": "Apartheid Museum",
+                  "text": "Ez a múzeum erőteljesen dokumentálja Dél-Afrika 20. századi, államilag támogatott faji szegregációjának történetét és a szabadságért folytatott küzdelmet.",
+                  "category": "museum",
+                  "coords": [
+                        28.008433,
+                        -26.237718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vierfontein Dame",
+                  "text": "Aceste ruine istorice oferă o privire asupra primelor dezvoltări structurale ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        28.009652,
+                        -26.283707
+                  ]
+            },
+            {
+                  "name": "Rietvlei Nature Reserve",
+                  "text": "Această rezervație naturală protejează ecosistemele vitale ale zonelor umede și susține o varietate de animale sălbatice locale.",
+                  "category": "natural",
+                  "coords": [
+                        28.036132,
+                        -26.295165
+                  ]
+            },
+            {
+                  "name": "Thaba Nature Reserve",
+                  "text": "Această rezervație naturală este amplasată pe dealuri ondulate și este cunoscută pentru traseele sale de eco-turism și copacii indigeni.",
+                  "category": "natural",
+                  "coords": [
+                        28.034912,
+                        -26.305097
+                  ]
+            },
+            {
+                  "name": "Klipriviersberg Nature Reserve",
+                  "text": "Înființată în 1947, această rezervație naturală protejează dealurile accidentate ale crestei Klipriviersberg.",
+                  "category": "natural",
+                  "coords": [
+                        28.015492,
+                        -26.291301
+                  ]
+            },
+            {
+                  "name": "Tswana Reconstruction",
+                  "text": "Această atracție prezintă locuințe reconstruite cu grijă care expun arhitectura și cultura tradițională Tswana.",
+                  "category": "landmark",
+                  "coords": [
+                        28.018111,
+                        -26.30444
+                  ]
+            },
+            {
+                  "name": "Mondeor",
+                  "text": "Acest lăcaș de cult deservește nevoile spirituale ale comunității locale din suburbia sudică Mondeor.",
+                  "category": "religious",
+                  "coords": [
+                        27.995113,
+                        -26.274263
+                  ]
+            },
+            {
+                  "name": "Apartheid Museum",
+                  "text": "Acest muzeu documentează cu putere istoria sud-africană din secolul XX a segregării rasiale sancționate de stat și lupta pentru libertate.",
+                  "category": "museum",
+                  "coords": [
+                        28.008433,
+                        -26.237718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vierfontein Dame",
+                  "text": "These historic ruins provide a glimpse into the earlier structural developments of the region.",
+                  "category": "historical",
+                  "coords": [
+                        28.009652,
+                        -26.283707
+                  ]
+            },
+            {
+                  "name": "Rietvlei Nature Reserve",
+                  "text": "This nature reserve protects vital wetland ecosystems and supports a variety of local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        28.036132,
+                        -26.295165
+                  ]
+            },
+            {
+                  "name": "Thaba Nature Reserve",
+                  "text": "This nature reserve is nestled in rolling hills and is known for its eco-tourism trails and indigenous trees.",
+                  "category": "natural",
+                  "coords": [
+                        28.034912,
+                        -26.305097
+                  ]
+            },
+            {
+                  "name": "Klipriviersberg Nature Reserve",
+                  "text": "Established in 1947, this nature reserve protects the rugged hills of the Klipriviersberg ridge.",
+                  "category": "natural",
+                  "coords": [
+                        28.015492,
+                        -26.291301
+                  ]
+            },
+            {
+                  "name": "Tswana Reconstruction",
+                  "text": "This attraction features carefully reconstructed dwellings that showcase traditional Tswana architecture and culture.",
+                  "category": "landmark",
+                  "coords": [
+                        28.018111,
+                        -26.30444
+                  ]
+            },
+            {
+                  "name": "Mondeor",
+                  "text": "This place of worship serves the spiritual needs of the local community in the southern suburb of Mondeor.",
+                  "category": "religious",
+                  "coords": [
+                        27.995113,
+                        -26.274263
+                  ]
+            },
+            {
+                  "name": "Apartheid Museum",
+                  "text": "This museum powerfully documents South Africa's 20th-century history of state-sanctioned racial segregation and the struggle for freedom.",
+                  "category": "museum",
+                  "coords": [
+                        28.008433,
+                        -26.237718
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [28.0016, -26.2378],
@@ -603,7 +3564,1384 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "groot-constantia-history-v2",
+    id: "groot-constantia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Groot Constantia Manor House",
+                  "text": "Dieses großartige Museum wurde vom Architekten Louis Michel Thibault entworfen und zeigt die reiche Geschichte von Südafrikas ältestem Weingut.",
+                  "category": "museum",
+                  "coords": [
+                        18.418753,
+                        -34.031172
+                  ]
+            },
+            {
+                  "name": "Muizenberg Hebrew Congregation",
+                  "text": "Die Muizenberg Hebrew Congregation, auch bekannt als Muizenberg Shul, ist ein jüdisches Gotteshaus für die örtliche Küstengemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        18.467184,
+                        -34.106667
+                  ]
+            },
+            {
+                  "name": "Chapman's Peak",
+                  "text": "Der Chapman's Peak ist ein markanter Küstenberg auf der Westseite der Kaphalbinsel, berühmt für die malerische Küstenstraße, die in seine steilen Flanken gehauen wurde.",
+                  "category": "natural",
+                  "coords": [
+                        18.359613,
+                        -34.088432
+                  ]
+            },
+            {
+                  "name": "Zandvlei Estuary Nature Reserve",
+                  "text": "Das Naturreservat Zandvlei-Mündung schützt ein wichtiges Feuchtgebietsökosystem, das zahlreichen Vogelarten in der Nähe der Küste der False Bay als Zufluchtsort dient.",
+                  "category": "natural",
+                  "coords": [
+                        18.467785,
+                        -34.087138
+                  ]
+            },
+            {
+                  "name": "World of Birds",
+                  "text": "World of Birds ist ein großes Naturschutzgebiet und ein Affenpark in Hout Bay, der Hunderte von Arten in begehbaren Volieren beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.362166,
+                        -34.016993
+                  ]
+            },
+            {
+                  "name": "Norval Foundation",
+                  "text": "Die Norval Foundation ist eine Kunstgalerie, die sich der Erforschung, Ausstellung und Erhaltung der bildenden Kunst des 20. und 21. Jahrhunderts aus Südafrika und darüber hinaus widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.428906,
+                        -34.076476
+                  ]
+            },
+            {
+                  "name": "Klein-Tuinkop",
+                  "text": "Klein-Tuinkop ist ein Berggipfel im zerklüfteten Gelände der Kaphalbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        18.428982,
+                        -34.110457
+                  ]
+            },
+            {
+                  "name": "Bokkop",
+                  "text": "Der Bokkop ist ein hoch gelegener Gipfel, der einen weiten Blick über die umliegenden Täler und Küstenlandschaften der Halbinsel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.413532,
+                        -34.096109
+                  ]
+            },
+            {
+                  "name": "Lower Steenberg",
+                  "text": "Lower Steenberg ist ein markanter Hügelgipfel unterhalb des Hauptmassivs des Steenbergs auf der Kaphalbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        18.447066,
+                        -34.093801
+                  ]
+            },
+            {
+                  "name": "Higher Steenberg",
+                  "text": "Der High Steenberg ist ein erhabener Gipfel, der Teil der schroffen Bergkette ist, die die Topografie der südlichen Kaphalbinsel prägt.",
+                  "category": "natural",
+                  "coords": [
+                        18.436188,
+                        -34.093258
+                  ]
+            },
+            {
+                  "name": "Muizenberg Peak",
+                  "text": "Der Muizenberg Peak ist ein hoch aufragender Berggipfel, der dramatisch über die beliebten Surfstrände und die Küstenstadt darunter blickt.",
+                  "category": "natural",
+                  "coords": [
+                        18.459113,
+                        -34.10034
+                  ]
+            },
+            {
+                  "name": "Muizenberg Cave",
+                  "text": "Die Muizenberg-Höhle ist eine raue Öffnung am Berghang oberhalb der Küstenstadt, die oft von Wanderern auf den örtlichen Wegen besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        18.449862,
+                        -34.107816
+                  ]
+            },
+            {
+                  "name": "Vlakkenberg",
+                  "text": "Der Vlakkenberg ist ein markanter Gipfel auf der Kaphalbinsel, der weitreichende Wanderwege und einen Panoramablick auf die umliegenden Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.398531,
+                        -34.027505
+                  ]
+            },
+            {
+                  "name": "Kleiner Löwenkopf",
+                  "text": "Little Lion's Head ist ein kleinerer, aber markanter Gipfel in der Nähe von Hout Bay, bekannt für seinen steilen, felsigen Aufstieg und die weiten Küstenpanoramen.",
+                  "category": "natural",
+                  "coords": [
+                        18.343467,
+                        -34.016787
+                  ]
+            },
+            {
+                  "name": "Noordhoek Peak",
+                  "text": "Der Noordhoek Peak ist ein erhabener Berggipfel, der über der langen, sandigen Weite des Noordhoek-Strandes thront.",
+                  "category": "natural",
+                  "coords": [
+                        18.380165,
+                        -34.072728
+                  ]
+            },
+            {
+                  "name": "Lower Chapman's Peak",
+                  "text": "Der Lower Chapman's Peak ist ein Nebengipfel entlang der malerischen Küstenroute und bietet dramatische Ausblicke auf den Atlantischen Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        18.362629,
+                        -34.084245
+                  ]
+            },
+            {
+                  "name": "Spitskop",
+                  "text": "Spitskop ist ein scharfer, spitzer Berggipfel, der sich aus der hügeligen Topografie der Kaphalbinsel abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        18.396733,
+                        -34.095249
+                  ]
+            },
+            {
+                  "name": "Dassenberg",
+                  "text": "Der Dassenberg ist ein zerklüfteter Gipfel in der Gegend, der anspruchsvolle Wanderrouten und weite Ausblicke auf die vielfältige Küstenflora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.387862,
+                        -34.108773
+                  ]
+            },
+            {
+                  "name": "Sandy Bay Beach",
+                  "text": "Sandy Bay Beach ist ein abgelegener Küstenstreifen, der für seinen unberührten weißen Sand und seinen Status als beliebter FKK-Strand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        18.33132,
+                        -34.023431
+                  ]
+            },
+            {
+                  "name": "Old Lookout",
+                  "text": "The Old Lookout ist eine Ansammlung von Steinruinen am Hang, die einst als strategischer Beobachtungspunkt über die Bucht dienten.",
+                  "category": "historical",
+                  "coords": [
+                        18.393036,
+                        -34.082252
+                  ]
+            },
+            {
+                  "name": "Masque Theatre",
+                  "text": "Das Masque Theatre ist ein lebendiger Veranstaltungsort für darstellende Künste der Gemeinde, an dem Amateur- und professionelle Theaterproduktionen aufgeführt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        18.468487,
+                        -34.10272
+                  ]
+            },
+            {
+                  "name": "Aquarium Boulders",
+                  "text": "Die Aquarium Boulders sind eine Ansammlung großer Felsen, die beliebte und anspruchsvolle Routen für Outdoor-Boulderer bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414161,
+                        -34.087442
+                  ]
+            },
+            {
+                  "name": "Circuit Boulder",
+                  "text": "Der Circuit Boulder ist eine spezielle Felsformation, die von Kletterern wegen ihrer durchgehenden Traversenrouten bevorzugt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        18.431636,
+                        -34.093997
+                  ]
+            },
+            {
+                  "name": "Shady Nook Bouldering",
+                  "text": "Shady Nook Bouldering bietet einen schattigen Felsvorsprung, der sich ideal für Kletterübungen in der Hitze des Tages eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.426627,
+                        -34.096443
+                  ]
+            },
+            {
+                  "name": "Maze Boulders",
+                  "text": "Die Maze Boulders bestehen aus einer labyrinthartigen Ansammlung von Felsen, die eine Vielzahl komplizierter Kletterprobleme bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.438972,
+                        -34.095501
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Bird Rock ist ein markanter Küstenvorsprung, der oft von Seevögeln frequentiert wird, was ihn für Kletterer und Vogelbeobachter gleichermaßen zu einem Anziehungspunkt macht.",
+                  "category": "landmark",
+                  "coords": [
+                        18.472455,
+                        -34.086813
+                  ]
+            },
+            {
+                  "name": "Otter Point",
+                  "text": "Otter Point ist ein malerisches Felskap, das in die Küstengewässer hineinragt und für seine raue Schönheit und gelegentliche Sichtungen von Meerestieren bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471119,
+                        -34.085286
+                  ]
+            },
+            {
+                  "name": "Die Oog",
+                  "text": "Die Oog ist ein kleines, von Quellen gespeistes Naturschutzgebiet, das der stark gefährdeten Westlichen Leopardenkröte als wichtiger Brutplatz dient.",
+                  "category": "landmark",
+                  "coords": [
+                        18.447443,
+                        -34.048018
+                  ]
+            },
+            {
+                  "name": "Constantia Baths",
+                  "text": "Die Constantia-Bäder sind historische Waschhäuser aus der Kolonialzeit, die einen Einblick in die häusliche Vergangenheit der Region bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.415453,
+                        -34.028613
+                  ]
+            },
+            {
+                  "name": "Buitenverwachting Wine Tasting",
+                  "text": "Die Weinprobe auf Buitenverwachting bietet Besuchern die Möglichkeit, preisgekrönte Jahrgänge zu probieren, die auf diesem historischen Weingut in Constantia produziert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416934,
+                        -34.041355
+                  ]
+            },
+            {
+                  "name": "Constantia Glen Tasting Room",
+                  "text": "Der Constantia Glen Tasting Room bietet eine malerische Kulisse für die Verkostung erstklassiger Boutique-Weine mit Blick auf die sanften Weinberge.",
+                  "category": "landmark",
+                  "coords": [
+                        18.408899,
+                        -34.015417
+                  ]
+            },
+            {
+                  "name": "Silvermine Boulder",
+                  "text": "Der Silvermine Boulder ist eine markante Felsformation im Naturschutzgebiet, die häufig von Kletterern für Boulder-Herausforderungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425843,
+                        -34.091378
+                  ]
+            },
+            {
+                  "name": "The Park Island Labyrinth",
+                  "text": "Das Park Island Labyrinth ist ein meditativer Rundweg, der am Ufer der Zandvlei-Mündung auf dem Boden angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471952,
+                        -34.089503
+                  ]
+            },
+            {
+                  "name": "Tokai View",
+                  "text": "Tokai View ist ein erhöhter Aussichtspunkt, der einen Panoramablick über die weitläufigen Kiefernplantagen von Tokai und die Cape Flats bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.407829,
+                        -34.075545
+                  ]
+            },
+            {
+                  "name": "Bird hide",
+                  "text": "Dieses rustikale hölzerne Vogelbeobachtungshaus bietet einen versteckten Unterstand, um die vielfältige Vogelwelt der umliegenden Feuchtgebiete zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        18.468926,
+                        -34.081459
+                  ]
+            },
+            {
+                  "name": "Sand river bird hide",
+                  "text": "Das Sand River Vogelbeobachtungshaus ist strategisch am Flussufer positioniert, um Watvögel und einheimische Wasservögel diskret beobachten zu können.",
+                  "category": "natural",
+                  "coords": [
+                        18.468452,
+                        -34.083981
+                  ]
+            },
+            {
+                  "name": "Scurpis Bird hide",
+                  "text": "Das Scurpis Bird Hide ist eine Beobachtungshütte inmitten der Vegetation, die sich perfekt zum Beobachten schwer fassbarer Sumpfvogelarten eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.466821,
+                        -34.083336
+                  ]
+            },
+            {
+                  "name": "Salt Marsh hide",
+                  "text": "Das Salt Marsh Hide ist eine geschützte Aussichtsstruktur mit Blick auf die salzhaltigen Mündungsebenen, wo zahlreiche Küstenvögel nach Nahrung suchen.",
+                  "category": "natural",
+                  "coords": [
+                        18.467457,
+                        -34.08141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Groot Constantia Manor House",
+                  "text": "A Louis Michel Thibault építész által tervezett nagyszerű múzeum Dél-Afrika legrégebbi borászatának gazdag történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.418753,
+                        -34.031172
+                  ]
+            },
+            {
+                  "name": "Muizenberg Hebrew Congregation",
+                  "text": "A Muizenberg Héber Gyülekezet, más néven a Muizenberg Shul, a helyi tengerparti közösséget szolgáló zsidó istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        18.467184,
+                        -34.106667
+                  ]
+            },
+            {
+                  "name": "Chapman's Peak",
+                  "text": "A Chapman's Peak egy kiemelkedő tengerparti hegy a Fokföldi-félsziget nyugati oldalán, amely a meredek oldalába vájt festői autópályáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        18.359613,
+                        -34.088432
+                  ]
+            },
+            {
+                  "name": "Zandvlei Estuary Nature Reserve",
+                  "text": "A Zandvlei Torkolat Természetvédelmi Terület egy létfontosságú vizes élőhelyet véd, amely számos madárfaj számára nyújt menedéket a False Bay partvidéke közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.467785,
+                        -34.087138
+                  ]
+            },
+            {
+                  "name": "World of Birds",
+                  "text": "A World of Birds egy nagy vadaspark és majompark Hout Bayben, amely több száz fajnak ad otthont bejárható madárröpdékben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.362166,
+                        -34.016993
+                  ]
+            },
+            {
+                  "name": "Norval Foundation",
+                  "text": "A Norval Foundation egy művészeti galéria, amely a 20. és 21. századi dél-afrikai és azon túli vizuális művészetek kutatásának, kiállításának és megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        18.428906,
+                        -34.076476
+                  ]
+            },
+            {
+                  "name": "Klein-Tuinkop",
+                  "text": "A Klein-Tuinkop egy hegycsúcs, amely a Fokföldi-félsziget zord terepén helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        18.428982,
+                        -34.110457
+                  ]
+            },
+            {
+                  "name": "Bokkop",
+                  "text": "A Bokkop egy magaslat, ahonnan pazar kilátás nyílik a környező völgyekre és a félsziget tengerparti tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        18.413532,
+                        -34.096109
+                  ]
+            },
+            {
+                  "name": "Lower Steenberg",
+                  "text": "A Lower Steenberg egy kiemelkedő hegyoldal a fő Steenberg-masszívum alatt a Fokföldi-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        18.447066,
+                        -34.093801
+                  ]
+            },
+            {
+                  "name": "Higher Steenberg",
+                  "text": "A High Steenberg egy magasztos hegycsúcs, amely a déli Fokföldi-félsziget domborzatát meghatározó zord hegység részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        18.436188,
+                        -34.093258
+                  ]
+            },
+            {
+                  "name": "Muizenberg Peak",
+                  "text": "A Muizenberg Peak egy tornyosuló hegycsúcs, amely drámai kilátást nyújt a lent elterülő népszerű szörfös strandokra és a tengerparti városra.",
+                  "category": "natural",
+                  "coords": [
+                        18.459113,
+                        -34.10034
+                  ]
+            },
+            {
+                  "name": "Muizenberg Cave",
+                  "text": "A Muizenberg-barlang egy zord nyílás a tengerparti város feletti hegyoldalban, amelyet gyakran látogatnak a helyi ösvényeket felfedező túrázók.",
+                  "category": "natural",
+                  "coords": [
+                        18.449862,
+                        -34.107816
+                  ]
+            },
+            {
+                  "name": "Vlakkenberg",
+                  "text": "A Vlakkenberg a Fokföldi-félsziget egyik kiemelkedő csúcsa, amely kiterjedt túraútvonalakat és panorámás kilátást kínál a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        18.398531,
+                        -34.027505
+                  ]
+            },
+            {
+                  "name": "Little Lion's Head",
+                  "text": "A Little Lion's Head egy kisebb, de jellegzetes csúcs Hout Bay közelében, amely meredek, sziklás emelkedőjéről és a tengerparti panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.343467,
+                        -34.016787
+                  ]
+            },
+            {
+                  "name": "Noordhoek Peak",
+                  "text": "A Noordhoek Peak egy magasztos hegycsúcs, amely a Noordhoek Beach hosszú, homokos síksága fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        18.380165,
+                        -34.072728
+                  ]
+            },
+            {
+                  "name": "Lower Chapman's Peak",
+                  "text": "A Lower Chapman's Peak egy mellékcsúcs a festői tengerparti útvonal mentén, amely drámai kilátást nyújt az Atlanti-óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        18.362629,
+                        -34.084245
+                  ]
+            },
+            {
+                  "name": "Spitskop",
+                  "text": "A Spitskop egy éles, hegyes hegycsúcs, amely kiemelkedik a Fokföldi-félsziget hullámzó domborzatából.",
+                  "category": "natural",
+                  "coords": [
+                        18.396733,
+                        -34.095249
+                  ]
+            },
+            {
+                  "name": "Dassenberg",
+                  "text": "A Dassenberg egy zord csúcs a környéken, amely kihívást jelentő túraútvonalakat és pazar kilátást nyújt a változatos tengerparti növényzetre.",
+                  "category": "natural",
+                  "coords": [
+                        18.387862,
+                        -34.108773
+                  ]
+            },
+            {
+                  "name": "Sandy Bay Beach",
+                  "text": "A Sandy Bay Beach egy eldugott tengerparti szakasz, amely érintetlen fehér homokjáról és népszerű nudista strand státuszáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        18.33132,
+                        -34.023431
+                  ]
+            },
+            {
+                  "name": "Old Lookout",
+                  "text": "Az Old Lookout egy kőromokból álló együttes a hegyoldalban, amely egykor stratégiai megfigyelőpontként szolgált az öböl felett.",
+                  "category": "historical",
+                  "coords": [
+                        18.393036,
+                        -34.082252
+                  ]
+            },
+            {
+                  "name": "Masque Theatre",
+                  "text": "A Masque Színház egy élénk közösségi előadó-művészeti helyszín, ahol amatőr és profi színházi produkciókat állítanak színpadra.",
+                  "category": "cultural",
+                  "coords": [
+                        18.468487,
+                        -34.10272
+                  ]
+            },
+            {
+                  "name": "Aquarium Boulders",
+                  "text": "Az Aquarium Boulders egy nagy sziklákból álló csoport, amely népszerű és kihívást jelentő útvonalakat kínál a szabadtéri boulderezés szerelmeseinek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414161,
+                        -34.087442
+                  ]
+            },
+            {
+                  "name": "Circuit Boulder",
+                  "text": "A Circuit Boulder egy speciális sziklaalakzat, amelyet a hegymászók a folyamatos traverz útvonalai miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.431636,
+                        -34.093997
+                  ]
+            },
+            {
+                  "name": "Shady Nook Bouldering",
+                  "text": "A Shady Nook Bouldering egy árnyékos sziklás kiemelkedéssel rendelkezik, amely ideális a hegymászás gyakorlására a nap melegében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.426627,
+                        -34.096443
+                  ]
+            },
+            {
+                  "name": "Maze Boulders",
+                  "text": "A Maze Boulders egy labirintusszerűen szétszórt sziklatömegből áll, amely számos bonyolult mászási problémát kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.438972,
+                        -34.095501
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "A Bird Rock egy jellegzetes tengerparti kiemelkedés, amelyet gyakran látogatnak tengeri madarak, így a hegymászók és a madármegfigyelők számára egyaránt érdekesség.",
+                  "category": "landmark",
+                  "coords": [
+                        18.472455,
+                        -34.086813
+                  ]
+            },
+            {
+                  "name": "Otter Point",
+                  "text": "Az Otter Point egy festői sziklás hegyfok, amely a tengerparti vizekbe nyúlik, s zord szépségéről, valamint alkalmi tengeri vadvilág megfigyeléseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471119,
+                        -34.085286
+                  ]
+            },
+            {
+                  "name": "Die Oog",
+                  "text": "A Die Oog egy kis, forrás által táplált természetvédelmi terület, amely a veszélyeztetett nyugati leopárdvarangy létfontosságú költőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.447443,
+                        -34.048018
+                  ]
+            },
+            {
+                  "name": "Constantia Baths",
+                  "text": "A Constantia Baths a gyarmati korból származó történelmi mosóházak, amelyek bepillantást engednek a régió mindennapi múltjába.",
+                  "category": "landmark",
+                  "coords": [
+                        18.415453,
+                        -34.028613
+                  ]
+            },
+            {
+                  "name": "Buitenverwachting Wine Tasting",
+                  "text": "A Buitenverwachting borbíráló létesítmény lehetővé teszi a látogatók számára, hogy megkóstolják a történelmi Constantia borbirtokon termelt díjnyertes évjáratokat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416934,
+                        -34.041355
+                  ]
+            },
+            {
+                  "name": "Constantia Glen Tasting Room",
+                  "text": "A Constantia Glen kóstolóterem festői környezetet biztosít a prémium butikborok kóstolásához, kilátással a hullámzó szőlőültetvényekre.",
+                  "category": "landmark",
+                  "coords": [
+                        18.408899,
+                        -34.015417
+                  ]
+            },
+            {
+                  "name": "Silvermine Boulder",
+                  "text": "A Silvermine Boulder egy kiemelkedő sziklaalakzat a természetvédelmi területen, amelyet a hegymászók gyakran használnak boulderezési kihívásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425843,
+                        -34.091378
+                  ]
+            },
+            {
+                  "name": "The Park Island Labyrinth",
+                  "text": "A Park Island Labirintus egy meditatív körkörös ösvény, amelyet a Zandvlei torkolat vizei mentén alakítottak ki a földön.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471952,
+                        -34.089503
+                  ]
+            },
+            {
+                  "name": "Tokai View",
+                  "text": "A Tokai View egy magaslati megfigyelőpont, amely panorámás kilátást nyújt az elterülő Tokai fenyőültetvényekre és a Cape Flatsre.",
+                  "category": "natural",
+                  "coords": [
+                        18.407829,
+                        -34.075545
+                  ]
+            },
+            {
+                  "name": "Bird hide",
+                  "text": "Ez a rusztikus, fából készült madárles rejtett menedéket nyújt a környező vizes élőhelyeken élő változatos madárvilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.468926,
+                        -34.081459
+                  ]
+            },
+            {
+                  "name": "Sand river bird hide",
+                  "text": "A Sand River madárles stratégiailag a folyóparton helyezkedik el, hogy lehetővé tegye a gázlómadarak és a helyi vízimadarak diszkrét megfigyelését.",
+                  "category": "natural",
+                  "coords": [
+                        18.468452,
+                        -34.083981
+                  ]
+            },
+            {
+                  "name": "Scurpis Bird hide",
+                  "text": "A Scurpis madárles a növényzetben megbúvó megfigyelőmenedék, amely tökéletes a nehezen észrevehető mocsári madárfajok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.466821,
+                        -34.083336
+                  ]
+            },
+            {
+                  "name": "Salt Marsh hide",
+                  "text": "A Salt Marsh les egy védett kilátóépítmény, amely a sós vizű torkolati síkságokra néz, ahol számos tengerparti madár táplálkozik.",
+                  "category": "natural",
+                  "coords": [
+                        18.467457,
+                        -34.08141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Groot Constantia Manor House",
+                  "text": "Proiectat de arhitectul Louis Michel Thibault, acest mare muzeu prezintă istoria bogată a celei mai vechi moșii viticole din Africa de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        18.418753,
+                        -34.031172
+                  ]
+            },
+            {
+                  "name": "Muizenberg Hebrew Congregation",
+                  "text": "Congregația ebraică Muizenberg, cunoscută și sub numele de Muizenberg Shul, este un lăcaș de cult iudaic care deservește comunitatea locală de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        18.467184,
+                        -34.106667
+                  ]
+            },
+            {
+                  "name": "Chapman's Peak",
+                  "text": "Chapman's Peak este un munte de coastă proeminent pe partea vestică a Peninsulei Cape, faimos pentru drumul pitoresc sculptat în flancurile sale abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        18.359613,
+                        -34.088432
+                  ]
+            },
+            {
+                  "name": "Zandvlei Estuary Nature Reserve",
+                  "text": "Rezervația naturală a estuarului Zandvlei protejează un ecosistem umed vital, oferind un sanctuar pentru numeroase specii de păsări în apropiere de coasta False Bay.",
+                  "category": "natural",
+                  "coords": [
+                        18.467785,
+                        -34.087138
+                  ]
+            },
+            {
+                  "name": "World of Birds",
+                  "text": "World of Birds este un mare sanctuar de animale sălbatice și parc de maimuțe din Hout Bay, adăpostind sute de specii în aviare prin care vă puteți plimba.",
+                  "category": "recreational",
+                  "coords": [
+                        18.362166,
+                        -34.016993
+                  ]
+            },
+            {
+                  "name": "Norval Foundation",
+                  "text": "Fundația Norval este o galerie de artă dedicată cercetării, expoziției și conservării artei vizuale din secolele XX și XXI din Africa de Sud și nu numai.",
+                  "category": "museum",
+                  "coords": [
+                        18.428906,
+                        -34.076476
+                  ]
+            },
+            {
+                  "name": "Klein-Tuinkop",
+                  "text": "Klein-Tuinkop este un vârf de munte situat în terenul accidentat al Peninsulei Cape.",
+                  "category": "natural",
+                  "coords": [
+                        18.428982,
+                        -34.110457
+                  ]
+            },
+            {
+                  "name": "Bokkop",
+                  "text": "Bokkop este un vârf înalt care oferă vederi panoramice asupra văilor înconjurătoare și a peisajelor de coastă ale peninsulei.",
+                  "category": "natural",
+                  "coords": [
+                        18.413532,
+                        -34.096109
+                  ]
+            },
+            {
+                  "name": "Lower Steenberg",
+                  "text": "Lower Steenberg este un vârf de deal proeminent situat sub masivul principal Steenberg din Peninsula Cape.",
+                  "category": "natural",
+                  "coords": [
+                        18.447066,
+                        -34.093801
+                  ]
+            },
+            {
+                  "name": "Higher Steenberg",
+                  "text": "High Steenberg este un vârf înalt care face parte din lanțul muntos accidentat care definește topografia din sudul Peninsulei Cape.",
+                  "category": "natural",
+                  "coords": [
+                        18.436188,
+                        -34.093258
+                  ]
+            },
+            {
+                  "name": "Muizenberg Peak",
+                  "text": "Vârful Muizenberg este o culme montană impunătoare care domină spectaculos plajele populare de surfing și orașul de coastă de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        18.459113,
+                        -34.10034
+                  ]
+            },
+            {
+                  "name": "Muizenberg Cave",
+                  "text": "Peștera Muizenberg este o deschidere stâncoasă pe versantul muntelui, deasupra orașului de coastă, adesea vizitată de drumeții care explorează traseele locale.",
+                  "category": "natural",
+                  "coords": [
+                        18.449862,
+                        -34.107816
+                  ]
+            },
+            {
+                  "name": "Vlakkenberg",
+                  "text": "Vlakkenberg este un vârf proeminent de pe Peninsula Cape, oferind trasee extinse de drumeții și vederi panoramice ale văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        18.398531,
+                        -34.027505
+                  ]
+            },
+            {
+                  "name": "Little Lion's Head",
+                  "text": "Little Lion's Head este un vârf mai mic, dar distinctiv, lângă Hout Bay, cunoscut pentru ascensiunea sa abruptă, stâncoasă și panoramele largi de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        18.343467,
+                        -34.016787
+                  ]
+            },
+            {
+                  "name": "Noordhoek Peak",
+                  "text": "Vârful Noordhoek este o culme montană înaltă care se înalță deasupra întinderii lungi și nisipoase a plajei Noordhoek.",
+                  "category": "natural",
+                  "coords": [
+                        18.380165,
+                        -34.072728
+                  ]
+            },
+            {
+                  "name": "Lower Chapman's Peak",
+                  "text": "Lower Chapman's Peak este un vârf secundar de-a lungul traseului pitoresc de coastă, oferind vederi dramatice asupra Oceanului Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        18.362629,
+                        -34.084245
+                  ]
+            },
+            {
+                  "name": "Spitskop",
+                  "text": "Spitskop este un vârf de munte ascuțit care iese în evidență în topografia ondulată a Peninsulei Cape.",
+                  "category": "natural",
+                  "coords": [
+                        18.396733,
+                        -34.095249
+                  ]
+            },
+            {
+                  "name": "Dassenberg",
+                  "text": "Dassenberg este un vârf stâncos din zonă, oferind trasee de drumeții provocatoare și vederi panoramice ale florei de coastă diverse.",
+                  "category": "natural",
+                  "coords": [
+                        18.387862,
+                        -34.108773
+                  ]
+            },
+            {
+                  "name": "Sandy Bay Beach",
+                  "text": "Sandy Bay Beach este o porțiune de coastă retrasă, cunoscută pentru nisipurile sale albe imaculate și pentru statutul său de plajă populară pentru nudiști.",
+                  "category": "recreational",
+                  "coords": [
+                        18.33132,
+                        -34.023431
+                  ]
+            },
+            {
+                  "name": "Old Lookout",
+                  "text": "Old Lookout este un ansamblu de ruine de piatră pe coasta dealului care a servit odată ca punct de observație strategic deasupra golfului.",
+                  "category": "historical",
+                  "coords": [
+                        18.393036,
+                        -34.082252
+                  ]
+            },
+            {
+                  "name": "Masque Theatre",
+                  "text": "Teatrul Masque este un centru comunitar vibrant de artele spectacolului, care pune în scenă producții teatrale de amatori și profesioniști.",
+                  "category": "cultural",
+                  "coords": [
+                        18.468487,
+                        -34.10272
+                  ]
+            },
+            {
+                  "name": "Aquarium Boulders",
+                  "text": "Aquarium Boulders este un grup de stânci mari care oferă trasee populare și provocatoare pentru entuziaștii de bouldering în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414161,
+                        -34.087442
+                  ]
+            },
+            {
+                  "name": "Circuit Boulder",
+                  "text": "Circuit Boulder este o formațiune stâncoasă specifică preferată de alpiniști pentru traseele sale de traversare continuă.",
+                  "category": "landmark",
+                  "coords": [
+                        18.431636,
+                        -34.093997
+                  ]
+            },
+            {
+                  "name": "Shady Nook Bouldering",
+                  "text": "Shady Nook Bouldering are un afloriment stâncos umbrit, ideal pentru practicarea alpinismului în timpul căldurii zilei.",
+                  "category": "landmark",
+                  "coords": [
+                        18.426627,
+                        -34.096443
+                  ]
+            },
+            {
+                  "name": "Maze Boulders",
+                  "text": "Maze Boulders constă dintr-o împrăștiere labirintică de stânci care oferă o varietate de probleme complexe de escaladă.",
+                  "category": "landmark",
+                  "coords": [
+                        18.438972,
+                        -34.095501
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Bird Rock este un afloriment de coastă distinctiv, frecventat adesea de păsări marine, devenind un punct de atracție atât pentru alpiniști, cât și pentru observatorii de păsări.",
+                  "category": "landmark",
+                  "coords": [
+                        18.472455,
+                        -34.086813
+                  ]
+            },
+            {
+                  "name": "Otter Point",
+                  "text": "Otter Point este un promontoriu stâncos pitoresc care iese în apele de coastă, cunoscut pentru frumusețea sa stâncoasă și observațiile ocazionale ale faunei marine.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471119,
+                        -34.085286
+                  ]
+            },
+            {
+                  "name": "Die Oog",
+                  "text": "Die Oog este o mică zonă de conservare alimentată de izvoare, care servește drept teren vital de reproducere pentru specia pe cale de dispariție a broaștei râioase leopard vestice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.447443,
+                        -34.048018
+                  ]
+            },
+            {
+                  "name": "Constantia Baths",
+                  "text": "Băile Constantia sunt spălătorii istorice din epoca colonială, oferind o privire în trecutul domestic al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.415453,
+                        -34.028613
+                  ]
+            },
+            {
+                  "name": "Buitenverwachting Wine Tasting",
+                  "text": "Facilitatea de degustare a vinului Buitenverwachting permite vizitatorilor să deguste recolte premiate produse pe această moșie istorică de vinuri Constantia.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416934,
+                        -34.041355
+                  ]
+            },
+            {
+                  "name": "Constantia Glen Tasting Room",
+                  "text": "Sala de degustare Constantia Glen oferă un cadru pitoresc pentru degustarea vinurilor de tip boutique premium, cu vedere la podgoriile ondulate.",
+                  "category": "landmark",
+                  "coords": [
+                        18.408899,
+                        -34.015417
+                  ]
+            },
+            {
+                  "name": "Silvermine Boulder",
+                  "text": "Silvermine Boulder este o formațiune stâncoasă proeminentă din rezervația naturală, utilizată frecvent de alpiniști pentru provocările de bouldering.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425843,
+                        -34.091378
+                  ]
+            },
+            {
+                  "name": "The Park Island Labyrinth",
+                  "text": "Labirintul Park Island este o cale circulară meditativă amenajată pe pământ de-a lungul apelor estuarului Zandvlei.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471952,
+                        -34.089503
+                  ]
+            },
+            {
+                  "name": "Tokai View",
+                  "text": "Tokai View este un punct de observare înalt care oferă vederi panoramice peste plantațiile de pini Tokai și Cape Flats.",
+                  "category": "natural",
+                  "coords": [
+                        18.407829,
+                        -34.075545
+                  ]
+            },
+            {
+                  "name": "Bird hide",
+                  "text": "Acest adăpost rustic de păsări din lemn oferă un refugiu ascuns pentru observarea vieții aviare diverse care populează zonele umede din jur.",
+                  "category": "natural",
+                  "coords": [
+                        18.468926,
+                        -34.081459
+                  ]
+            },
+            {
+                  "name": "Sand river bird hide",
+                  "text": "Ascunzătoarea de păsări Sand River este poziționată strategic pe malul râului pentru a permite observarea discretă a păsărilor vadului și a păsărilor de apă locale.",
+                  "category": "natural",
+                  "coords": [
+                        18.468452,
+                        -34.083981
+                  ]
+            },
+            {
+                  "name": "Scurpis Bird hide",
+                  "text": "Adăpostul de păsări Scurpis este o ascunzătoare de observație cuibărită în vegetație, perfectă pentru a observa speciile de păsări de mlaștină evazive.",
+                  "category": "natural",
+                  "coords": [
+                        18.466821,
+                        -34.083336
+                  ]
+            },
+            {
+                  "name": "Salt Marsh hide",
+                  "text": "Ascunzătoarea Salt Marsh este o structură de vizionare adăpostită care are vedere la câmpiile saline ale estuarului, unde numeroase păsări de coastă se hrănesc.",
+                  "category": "natural",
+                  "coords": [
+                        18.467457,
+                        -34.08141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Groot Constantia Manor House",
+                  "text": "Designed by architect Louis Michel Thibault, this grand museum showcases the rich history of South Africa's oldest wine estate.",
+                  "category": "museum",
+                  "coords": [
+                        18.418753,
+                        -34.031172
+                  ]
+            },
+            {
+                  "name": "Muizenberg Hebrew Congregation",
+                  "text": "The Muizenberg Hebrew Congregation, also known as the Muizenberg Shul, is a Jewish place of worship serving the local coastal community.",
+                  "category": "religious",
+                  "coords": [
+                        18.467184,
+                        -34.106667
+                  ]
+            },
+            {
+                  "name": "Chapman's Peak",
+                  "text": "Chapman's Peak is a prominent coastal mountain on the western side of the Cape Peninsula, famous for the scenic marine drive carved into its steep flanks.",
+                  "category": "natural",
+                  "coords": [
+                        18.359613,
+                        -34.088432
+                  ]
+            },
+            {
+                  "name": "Zandvlei Estuary Nature Reserve",
+                  "text": "The Zandvlei Estuary Nature Reserve protects a vital wetland ecosystem providing a sanctuary for numerous bird species near the False Bay coastline.",
+                  "category": "natural",
+                  "coords": [
+                        18.467785,
+                        -34.087138
+                  ]
+            },
+            {
+                  "name": "World of Birds",
+                  "text": "World of Birds is a large wildlife sanctuary and monkey park in Hout Bay, housing hundreds of species in walk-through aviaries.",
+                  "category": "recreational",
+                  "coords": [
+                        18.362166,
+                        -34.016993
+                  ]
+            },
+            {
+                  "name": "Norval Foundation",
+                  "text": "The Norval Foundation is an art gallery dedicated to the research, exhibition, and preservation of 20th- and 21st-century visual art from South Africa and beyond.",
+                  "category": "museum",
+                  "coords": [
+                        18.428906,
+                        -34.076476
+                  ]
+            },
+            {
+                  "name": "Klein-Tuinkop",
+                  "text": "Klein-Tuinkop is a mountain peak situated in the rugged terrain of the Cape Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        18.428982,
+                        -34.110457
+                  ]
+            },
+            {
+                  "name": "Bokkop",
+                  "text": "Bokkop is an elevated peak offering sweeping views over the surrounding valleys and coastal landscapes of the peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        18.413532,
+                        -34.096109
+                  ]
+            },
+            {
+                  "name": "Lower Steenberg",
+                  "text": "Lower Steenberg is a prominent hillside peak positioned below the main Steenberg massif in the Cape Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        18.447066,
+                        -34.093801
+                  ]
+            },
+            {
+                  "name": "High Steenberg",
+                  "text": "High Steenberg is a lofty summit forming part of the rugged mountain range that defines the southern Cape Peninsula's topography.",
+                  "category": "natural",
+                  "coords": [
+                        18.436188,
+                        -34.093258
+                  ]
+            },
+            {
+                  "name": "Muizenberg Peak",
+                  "text": "Muizenberg Peak is a towering mountain summit that dramatically overlooks the popular surfing beaches and coastal town below.",
+                  "category": "natural",
+                  "coords": [
+                        18.459113,
+                        -34.10034
+                  ]
+            },
+            {
+                  "name": "Muizenberg Cave",
+                  "text": "Muizenberg Cave is a rugged opening in the mountainside above the coastal town, often visited by hikers exploring the local trails.",
+                  "category": "natural",
+                  "coords": [
+                        18.449862,
+                        -34.107816
+                  ]
+            },
+            {
+                  "name": "Vlakkenberg",
+                  "text": "Vlakkenberg is a prominent peak on the Cape Peninsula offering extensive hiking trails and panoramic views of the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        18.398531,
+                        -34.027505
+                  ]
+            },
+            {
+                  "name": "Little Lion's Head",
+                  "text": "Little Lion's Head is a smaller but distinctive peak near Hout Bay, known for its steep, rocky ascent and sweeping coastal panoramas.",
+                  "category": "natural",
+                  "coords": [
+                        18.343467,
+                        -34.016787
+                  ]
+            },
+            {
+                  "name": "Noordhoek Peak",
+                  "text": "Noordhoek Peak is a lofty mountain summit that towers above the long, sandy expanse of Noordhoek Beach.",
+                  "category": "natural",
+                  "coords": [
+                        18.380165,
+                        -34.072728
+                  ]
+            },
+            {
+                  "name": "Lower Chapman's Peak",
+                  "text": "Lower Chapman's Peak is a subsidiary summit along the scenic coastal route, providing dramatic views over the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        18.362629,
+                        -34.084245
+                  ]
+            },
+            {
+                  "name": "Spitskop",
+                  "text": "Spitskop is a sharp, pointed mountain peak that stands out amidst the undulating topography of the Cape Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        18.396733,
+                        -34.095249
+                  ]
+            },
+            {
+                  "name": "Dassenberg",
+                  "text": "Dassenberg is a rugged peak in the area, offering challenging hiking routes and sweeping vistas of the diverse coastal flora.",
+                  "category": "natural",
+                  "coords": [
+                        18.387862,
+                        -34.108773
+                  ]
+            },
+            {
+                  "name": "Sandy Bay Beach",
+                  "text": "Sandy Bay Beach is a secluded coastal stretch known for its pristine white sands and its status as a popular nudist beach.",
+                  "category": "recreational",
+                  "coords": [
+                        18.33132,
+                        -34.023431
+                  ]
+            },
+            {
+                  "name": "Old Lookout",
+                  "text": "The Old Lookout is a set of stone ruins on the hillside that once served as a strategic observation point over the bay.",
+                  "category": "historical",
+                  "coords": [
+                        18.393036,
+                        -34.082252
+                  ]
+            },
+            {
+                  "name": "Masque Theatre",
+                  "text": "The Masque Theatre is a vibrant community performing arts venue staging amateur and professional theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        18.468487,
+                        -34.10272
+                  ]
+            },
+            {
+                  "name": "Aquarium Boulders",
+                  "text": "Aquarium Boulders is a cluster of large rocks providing popular and challenging routes for outdoor bouldering enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414161,
+                        -34.087442
+                  ]
+            },
+            {
+                  "name": "Circuit Boulder",
+                  "text": "Circuit Boulder is a specific rock formation favored by climbers for its continuous traversing routes.",
+                  "category": "landmark",
+                  "coords": [
+                        18.431636,
+                        -34.093997
+                  ]
+            },
+            {
+                  "name": "Shady Nook Bouldering",
+                  "text": "Shady Nook Bouldering features a shaded rocky outcrop ideal for climbing practice during the heat of the day.",
+                  "category": "landmark",
+                  "coords": [
+                        18.426627,
+                        -34.096443
+                  ]
+            },
+            {
+                  "name": "Maze Boulders",
+                  "text": "The Maze Boulders consist of a labyrinthine scattering of rocks offering a variety of intricate climbing problems.",
+                  "category": "landmark",
+                  "coords": [
+                        18.438972,
+                        -34.095501
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Bird Rock is a distinctive coastal outcrop often frequented by seabirds, making it a point of interest for climbers and birdwatchers alike.",
+                  "category": "landmark",
+                  "coords": [
+                        18.472455,
+                        -34.086813
+                  ]
+            },
+            {
+                  "name": "Otter Point",
+                  "text": "Otter Point is a scenic rocky promontory jutting into the coastal waters, known for its rugged beauty and occasional marine wildlife sightings.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471119,
+                        -34.085286
+                  ]
+            },
+            {
+                  "name": "Die Oog",
+                  "text": "Die Oog is a small, spring-fed conservation area that serves as a vital breeding ground for the endangered Western Leopard Toad.",
+                  "category": "landmark",
+                  "coords": [
+                        18.447443,
+                        -34.048018
+                  ]
+            },
+            {
+                  "name": "Constantia Baths",
+                  "text": "The Constantia Baths are historic washhouses from the colonial era, offering a glimpse into the region's domestic past.",
+                  "category": "landmark",
+                  "coords": [
+                        18.415453,
+                        -34.028613
+                  ]
+            },
+            {
+                  "name": "Buitenverwachting Wine Tasting",
+                  "text": "The Buitenverwachting Wine Tasting facility allows visitors to sample award-winning vintages produced on this historic Constantia wine estate.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416934,
+                        -34.041355
+                  ]
+            },
+            {
+                  "name": "Constantia Glen Tasting Room",
+                  "text": "The Constantia Glen Tasting Room provides a picturesque setting for tasting premium boutique wines overlooking the rolling vineyards.",
+                  "category": "landmark",
+                  "coords": [
+                        18.408899,
+                        -34.015417
+                  ]
+            },
+            {
+                  "name": "Silvermine Boulder",
+                  "text": "The Silvermine Boulder is a prominent rock formation in the nature reserve, frequently utilized by climbers for bouldering challenges.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425843,
+                        -34.091378
+                  ]
+            },
+            {
+                  "name": "The Park Island Labyrinth",
+                  "text": "The Park Island Labyrinth is a meditative circular path laid out on the ground alongside the waters of the Zandvlei estuary.",
+                  "category": "landmark",
+                  "coords": [
+                        18.471952,
+                        -34.089503
+                  ]
+            },
+            {
+                  "name": "Tokai View",
+                  "text": "Tokai View is an elevated observation point offering panoramic sights across the sprawling Tokai pine plantations and the Cape Flats.",
+                  "category": "natural",
+                  "coords": [
+                        18.407829,
+                        -34.075545
+                  ]
+            },
+            {
+                  "name": "Bird hide",
+                  "text": "This rustic wooden bird hide provides a concealed shelter for observing the diverse avian life inhabiting the surrounding wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        18.468926,
+                        -34.081459
+                  ]
+            },
+            {
+                  "name": "Sand river bird hide",
+                  "text": "The Sand River bird hide is strategically positioned on the riverbank to allow discreet observation of wading birds and local waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        18.468452,
+                        -34.083981
+                  ]
+            },
+            {
+                  "name": "Scurpis Bird hide",
+                  "text": "The Scurpis Bird hide is an observation shelter nestled in the vegetation, perfect for spotting elusive marshland bird species.",
+                  "category": "natural",
+                  "coords": [
+                        18.466821,
+                        -34.083336
+                  ]
+            },
+            {
+                  "name": "Salt Marsh hide",
+                  "text": "The Salt Marsh hide is a sheltered viewing structure overlooking the saline estuarine flats where numerous coastal birds forage.",
+                  "category": "natural",
+                  "coords": [
+                        18.467457,
+                        -34.08141
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-WC",
     coords: [18.4239, -34.0305],
@@ -663,7 +5001,232 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "thulamela-ruins-history-v2",
+    id: "thulamela-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lala Palm Viewpoint",
+                  "text": "Ein natürlicher Aussichtspunkt mit Blick auf die Landschaft um die historischen Thulamela-Ruinen.",
+                  "category": "natural",
+                  "coords": [
+                        31.175811,
+                        -22.359611
+                  ]
+            },
+            {
+                  "name": "Thulamela Archaelogical Site",
+                  "text": "Eine archäologische Stätte, die die Steinruinen einer Siedlung aus der späten Eisenzeit bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        31.1947,
+                        -22.432267
+                  ]
+            },
+            {
+                  "name": "Baobab Hill",
+                  "text": "Ein markanter monumentaler Hügel, der sich durch seine ikonischen Affenbrotbäume in der Nähe von Thulamela auszeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        31.203591,
+                        -22.493511
+                  ]
+            },
+            {
+                  "name": "Nyala Pan Viewpoint",
+                  "text": "Ein malerischer Aussichtsbereich, der Blicke auf die natürliche Pfanne und die Tierwelt in der Nähe von Thulamela bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.270883,
+                        -22.414262
+                  ]
+            },
+            {
+                  "name": "Palm Vlei Viewpoint",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die malerischen Landschaften nahe der Thulamela-Ruinen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.212906,
+                        -22.381157
+                  ]
+            },
+            {
+                  "name": "Makuleke Contract Park",
+                  "text": "Ein vertraglich geschütztes Naturreservat im bekannten Pafuri-Dreieck, das für seine reiche Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.153895,
+                        -22.391235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lala Palm Viewpoint",
+                  "text": "Természetes festői kilátópont, ahonnan kilátás nyílik a történelmi Thulamela romjait körülvevő tájra.",
+                  "category": "natural",
+                  "coords": [
+                        31.175811,
+                        -22.359611
+                  ]
+            },
+            {
+                  "name": "Thulamela Archaelogical Site",
+                  "text": "Régészeti lelőhely, amely egy késő vaskori település kőromjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        31.1947,
+                        -22.432267
+                  ]
+            },
+            {
+                  "name": "Baobab Hill",
+                  "text": "Kiemelkedő monumentális domb, amelyet az ikonikus majomkenyérfái tesznek jellegzetessé Thulamela közelében.",
+                  "category": "historical",
+                  "coords": [
+                        31.203591,
+                        -22.493511
+                  ]
+            },
+            {
+                  "name": "Nyala Pan Viewpoint",
+                  "text": "Festői kilátóhely, amely rálátást biztosít a természetes medencére és a vadvilágra Thulamela közelében.",
+                  "category": "natural",
+                  "coords": [
+                        31.270883,
+                        -22.414262
+                  ]
+            },
+            {
+                  "name": "Palm Vlei Viewpoint",
+                  "text": "A Thulamela romok közelében fekvő, festői tájakra nyíló panorámás kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        31.212906,
+                        -22.381157
+                  ]
+            },
+            {
+                  "name": "Makuleke Contract Park",
+                  "text": "A híres Pafuri-háromszögben található, gazdag biodiverzitásáról ismert természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        31.153895,
+                        -22.391235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lala Palm Viewpoint",
+                  "text": "Un punct de belvedere natural și pitoresc care oferă priveliști asupra peisajului ce înconjoară ruinele istorice Thulamela.",
+                  "category": "natural",
+                  "coords": [
+                        31.175811,
+                        -22.359611
+                  ]
+            },
+            {
+                  "name": "Thulamela Archaelogical Site",
+                  "text": "Un sit arheologic care conservă ruinele de piatră ale unei așezări din epoca târzie a fierului.",
+                  "category": "historical",
+                  "coords": [
+                        31.1947,
+                        -22.432267
+                  ]
+            },
+            {
+                  "name": "Baobab Hill",
+                  "text": "Un deal monumental proeminent, distins prin arborii săi iconici de baobab din apropiere de Thulamela.",
+                  "category": "historical",
+                  "coords": [
+                        31.203591,
+                        -22.493511
+                  ]
+            },
+            {
+                  "name": "Nyala Pan Viewpoint",
+                  "text": "O zonă de belvedere pitorească care oferă priveliști asupra depresiunii naturale și a faunei sălbatice din apropiere de Thulamela.",
+                  "category": "natural",
+                  "coords": [
+                        31.270883,
+                        -22.414262
+                  ]
+            },
+            {
+                  "name": "Palm Vlei Viewpoint",
+                  "text": "Un punct de belvedere care oferă o panoramă largă asupra peisajelor pitorești din apropierea ruinelor Thulamela.",
+                  "category": "natural",
+                  "coords": [
+                        31.212906,
+                        -22.381157
+                  ]
+            },
+            {
+                  "name": "Makuleke Contract Park",
+                  "text": "O rezervație naturală protejată situată în faimosul triunghi Pafuri, cunoscută pentru biodiversitatea sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        31.153895,
+                        -22.391235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lala Palm Viewpoint",
+                  "text": "A natural scenic viewpoint overlooking the landscape surrounding the Thulamela historical ruins.",
+                  "category": "natural",
+                  "coords": [
+                        31.175811,
+                        -22.359611
+                  ]
+            },
+            {
+                  "name": "Thulamela Archaelogical Site",
+                  "text": "An archaeological site preserving the stone ruins of a late Iron Age settlement.",
+                  "category": "historical",
+                  "coords": [
+                        31.1947,
+                        -22.432267
+                  ]
+            },
+            {
+                  "name": "Baobab Hill",
+                  "text": "A prominent monumental hill distinguished by its iconic baobab trees near Thulamela.",
+                  "category": "historical",
+                  "coords": [
+                        31.203591,
+                        -22.493511
+                  ]
+            },
+            {
+                  "name": "Nyala Pan Viewpoint",
+                  "text": "A scenic viewing area offering sights of the natural pan and wildlife near Thulamela.",
+                  "category": "natural",
+                  "coords": [
+                        31.270883,
+                        -22.414262
+                  ]
+            },
+            {
+                  "name": "Palm Vlei Viewpoint",
+                  "text": "A viewpoint offering sweeping panoramas over the scenic landscapes near the Thulamela Ruins.",
+                  "category": "natural",
+                  "coords": [
+                        31.212906,
+                        -22.381157
+                  ]
+            },
+            {
+                  "name": "Makuleke Contract Park",
+                  "text": "A protected nature reserve situated in the renowned Pafuri triangle, known for its rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        31.153895,
+                        -22.391235
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-LP",
     coords: [31.1833, -22.4333],
@@ -723,7 +5286,196 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "blombos-cave-history-v2",
+    id: "blombos-cave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kleinjongensfontein Nature Reserve",
+                  "text": "Ein Naturschutzgebiet nahe der Blombos-Höhle, das die Küstenökosysteme und die lokale Biodiversität schützt.",
+                  "category": "natural",
+                  "coords": [
+                        21.278889,
+                        -34.416944
+                  ]
+            },
+            {
+                  "name": "Blombos Cave",
+                  "text": "Eine anerkannte archäologische Stätte, die für ihre Artefakte aus der mittleren Steinzeit bekannt ist, darunter frühe Knochenwerkzeuge und Ockergravuren.",
+                  "category": "historical",
+                  "coords": [
+                        21.218384,
+                        -34.413578
+                  ]
+            },
+            {
+                  "name": "Blomboschfontein Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet in der Gegend der Blombos-Höhle schützt einen Abschnitt mit Fynbos an der Küste und Lebensräume lokaler Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        21.223056,
+                        -34.408889
+                  ]
+            },
+            {
+                  "name": "Mosselbankfontein Nature Reserve",
+                  "text": "Ein geschütztes Naturgebiet in der Region der Blombos-Höhle, das die einheimische Küstenvegetation erhält.",
+                  "category": "natural",
+                  "coords": [
+                        21.14435,
+                        -34.371864
+                  ]
+            },
+            {
+                  "name": "Bloboschfontein Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet in der Blombos-Gegend trägt zur Erhaltung des charakteristischen südafrikanischen Küstengestrüpps bei.",
+                  "category": "natural",
+                  "coords": [
+                        21.22096,
+                        -34.406955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kleinjongensfontein Nature Reserve",
+                  "text": "A Blombos-barlang közelében található természetvédelmi terület, amely a tengerparti ökoszisztémákat és a helyi biodiverzitást védi.",
+                  "category": "natural",
+                  "coords": [
+                        21.278889,
+                        -34.416944
+                  ]
+            },
+            {
+                  "name": "Blombos Cave",
+                  "text": "Elismert régészeti örökség, amely a középső kőkorszakból származó leleteiről, köztük korai csonteszközökről és okkerkarcolatokról híres.",
+                  "category": "historical",
+                  "coords": [
+                        21.218384,
+                        -34.413578
+                  ]
+            },
+            {
+                  "name": "Blomboschfontein Nature Reserve",
+                  "text": "Ez a Blombos-barlang területén található természetvédelmi terület a part menti fynbos növényzetet és a helyi vadvilág élőhelyeit védi.",
+                  "category": "natural",
+                  "coords": [
+                        21.223056,
+                        -34.408889
+                  ]
+            },
+            {
+                  "name": "Mosselbankfontein Nature Reserve",
+                  "text": "A Blombos-barlang régiójában található védett természeti terület, amely fenntartja az őshonos partmenti növényzetet.",
+                  "category": "natural",
+                  "coords": [
+                        21.14435,
+                        -34.371864
+                  ]
+            },
+            {
+                  "name": "Bloboschfontein Nature Reserve",
+                  "text": "Ez a Blombos területén lévő természetvédelmi terület hozzájárul a jellegzetes dél-afrikai partmenti cserjések megőrzéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.22096,
+                        -34.406955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kleinjongensfontein Nature Reserve",
+                  "text": "O rezervație naturală din zona peșterii Blombos, care protejează ecosistemele de coastă și biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        21.278889,
+                        -34.416944
+                  ]
+            },
+            {
+                  "name": "Blombos Cave",
+                  "text": "Un sit arheologic de patrimoniu recunoscut, renumit pentru artefactele din Epoca de Piatră Mijlocie, inclusiv instrumente timpurii din os și gravuri în ocru.",
+                  "category": "historical",
+                  "coords": [
+                        21.218384,
+                        -34.413578
+                  ]
+            },
+            {
+                  "name": "Blomboschfontein Nature Reserve",
+                  "text": "Această rezervație naturală din zona peșterii Blombos protejează o porțiune de vegetație de coastă fynbos și habitatele faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        21.223056,
+                        -34.408889
+                  ]
+            },
+            {
+                  "name": "Mosselbankfontein Nature Reserve",
+                  "text": "O zonă naturală protejată situată în regiunea Peșterii Blombos, menținând vegetația indigenă de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        21.14435,
+                        -34.371864
+                  ]
+            },
+            {
+                  "name": "Bloboschfontein Nature Reserve",
+                  "text": "Această rezervație naturală din zona Blombos contribuie la conservarea tufișurilor de coastă distincte din Africa de Sud.",
+                  "category": "natural",
+                  "coords": [
+                        21.22096,
+                        -34.406955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kleinjongensfontein Nature Reserve",
+                  "text": "A nature reserve near the Blombos Cave area, protecting the coastal ecosystems and local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        21.278889,
+                        -34.416944
+                  ]
+            },
+            {
+                  "name": "Blombos Cave",
+                  "text": "A recognized heritage archaeological site renowned for Middle Stone Age artifacts, including early bone tools and ochre engravings.",
+                  "category": "historical",
+                  "coords": [
+                        21.218384,
+                        -34.413578
+                  ]
+            },
+            {
+                  "name": "Blomboschfontein Nature Reserve",
+                  "text": "This nature reserve in the Blombos Cave area protects a stretch of coastal fynbos and local wildlife habitats.",
+                  "category": "natural",
+                  "coords": [
+                        21.223056,
+                        -34.408889
+                  ]
+            },
+            {
+                  "name": "Mosselbankfontein Nature Reserve",
+                  "text": "A protected natural area situated in the Blombos Cave region, maintaining indigenous coastal vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        21.14435,
+                        -34.371864
+                  ]
+            },
+            {
+                  "name": "Bloboschfontein Nature Reserve",
+                  "text": "This natural reserve in the Blombos area contributes to the preservation of the distinct South African coastal scrub.",
+                  "category": "natural",
+                  "coords": [
+                        21.22096,
+                        -34.406955
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-WC",
     coords: [21.2189, -34.415],
@@ -783,7 +5535,520 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kimberley-mine-history-v2",
+    id: "kimberley-mine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carter's Ridge Monument",
+                  "text": "Dieses Steindenkmal auf einem felsigen Bergrücken erinnert an die Soldaten, die während der Belagerung von Kimberley gekämpft haben.",
+                  "category": "historical",
+                  "coords": [
+                        24.703073,
+                        -28.749092
+                  ]
+            },
+            {
+                  "name": "Miners Memorial",
+                  "text": "Eine ergreifende städtische Attraktion, die den Tausenden von Pionier-Schürfern gewidmet ist, die die lokalen Diamantenfelder ausgehoben haben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.767735,
+                        -28.744231
+                  ]
+            },
+            {
+                  "name": "Dunluce House Museum",
+                  "text": "Dieses spätviktorianische Hausmuseum bewahrt authentische Möbel aus dem späten 19. Jahrhundert und die elegante Architektur der Zeit des Diamantenrausches.",
+                  "category": "museum",
+                  "coords": [
+                        24.779723,
+                        -28.747295
+                  ]
+            },
+            {
+                  "name": "Kimberley Mine",
+                  "text": "Ein dramatischer Aussichtspunkt am Rande der tiefsten handgegrabenen Ausgrabung der Welt, der die massiven Ausmaße des historischen Diamantenabbaus offenbart.",
+                  "category": "natural",
+                  "coords": [
+                        24.756025,
+                        -28.739055
+                  ]
+            },
+            {
+                  "name": "Sol Plaatje Museum and Library",
+                  "text": "Dieses in seinem ehemaligen Wohnsitz untergebrachte Museum mit Bibliothek würdigt das intellektuelle Erbe des südafrikanischen Schriftstellers und Aktivisten Sol Plaatje.",
+                  "category": "museum",
+                  "coords": [
+                        24.763384,
+                        -28.746086
+                  ]
+            },
+            {
+                  "name": "Alexandersfontein Game Farm",
+                  "text": "Ein ländliches Naturschutzgebiet, in dem Besucher einheimische Wildarten beobachten können, die über die weiten, halbtrockenen Ebenen grasen.",
+                  "category": "natural",
+                  "coords": [
+                        24.755285,
+                        -28.819797
+                  ]
+            },
+            {
+                  "name": "Duggan-Cronin Gallery",
+                  "text": "Diese historische Galerie zeigt Tausende von historischen Fotografien, die die traditionellen Kulturen und die Kleidung der indigenen Völker im südlichen Afrika dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        24.781692,
+                        -28.747831
+                  ]
+            },
+            {
+                  "name": "Northern Cape Theatre",
+                  "text": "Diese bekannte Spielstätte für darstellende Künste verfügt über eine große moderne Bühne, die für große Theaterproduktionen und Gemeindekonzerte konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        24.769363,
+                        -28.744867
+                  ]
+            },
+            {
+                  "name": "William Humphrey's Art Gallery",
+                  "text": "Die Galerie beherbergt eine umfangreiche ständige Sammlung, die von klassischen europäischen Meisterwerken bis hin zu zeitgenössischen südafrikanischen Kunstwerken reicht.",
+                  "category": "museum",
+                  "coords": [
+                        24.769184,
+                        -28.743808
+                  ]
+            },
+            {
+                  "name": "Big Hole",
+                  "text": "Ursprünglich ein flacher Hügel, wurde dieser riesige Tagebau während des Diamantenrausches vollständig von Hand mit Spitzhacken und Schaufeln ausgehoben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.758606,
+                        -28.739189
+                  ]
+            },
+            {
+                  "name": "Alexander McGregor Memorial Museum",
+                  "text": "Dieses historische Backsteingebäude fungiert als Heimatmuseum mit detaillierten Exponaten zur regionalen Naturgeschichte und lokalen Geologie.",
+                  "category": "museum",
+                  "coords": [
+                        24.765108,
+                        -28.739811
+                  ]
+            },
+            {
+                  "name": "Honoured Dead Memorial",
+                  "text": "Dieses Denkmal in Kimberley ehrt die Gefallenen der Belagerung während des Zweiten Burenkrieges.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769394,
+                        -28.751332
+                  ]
+            },
+            {
+                  "name": "Halfway House Pub",
+                  "text": "Dieser historische Pub in Kimberley war bekannt dafür, dass Cecil Rhodes hier sein Bier auf dem Pferd sitzend trank.",
+                  "category": "landmark",
+                  "coords": [
+                        24.778318,
+                        -28.749213
+                  ]
+            },
+            {
+                  "name": "McGregor Museum",
+                  "text": "Das multidisziplinäre Museum in Kimberley ist in einem historischen ehemaligen Sanatoriumsgebäude untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        24.77962,
+                        -28.74965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carter's Ridge Monument",
+                  "text": "Ez a sziklás gerincen álló kőemlékmű Kimberley ostroma alatt harcoló katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        24.703073,
+                        -28.749092
+                  ]
+            },
+            {
+                  "name": "Miners Memorial",
+                  "text": "Megható városi látványosság, amelyet annak a több ezer úttörő bányásznak szenteltek, akik a helyi gyémántmezőket feltárták.",
+                  "category": "landmark",
+                  "coords": [
+                        24.767735,
+                        -28.744231
+                  ]
+            },
+            {
+                  "name": "Dunluce House Museum",
+                  "text": "Ez a késő viktoriánus házmúzeum a 19. század végi autentikus berendezést és a gyémántláz korszakának elegáns építészetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        24.779723,
+                        -28.747295
+                  ]
+            },
+            {
+                  "name": "Kimberley Mine",
+                  "text": "Drámai kilátópont a világ legmélyebb kézzel ásott bányagödrének szélén, amely feltárja a történelmi gyémántbányászat hatalmas méreteit.",
+                  "category": "natural",
+                  "coords": [
+                        24.756025,
+                        -28.739055
+                  ]
+            },
+            {
+                  "name": "Sol Plaatje Museum and Library",
+                  "text": "Az egykori lakóhelyén található múzeum és könyvtár Sol Plaatje dél-afrikai író és aktivista szellemi öröksége előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        24.763384,
+                        -28.746086
+                  ]
+            },
+            {
+                  "name": "Alexandersfontein Game Farm",
+                  "text": "Vidéki természetvédelmi terület, ahol a látogatók a kiterjedt félsivatagos síkságokon legelésző őshonos vadfajokat figyelhetik meg.",
+                  "category": "natural",
+                  "coords": [
+                        24.755285,
+                        -28.819797
+                  ]
+            },
+            {
+                  "name": "Duggan-Cronin Gallery",
+                  "text": "Ez az örökségvédelmi galéria több ezer történelmi fényképet mutat be, amelyek Dél-Afrika őslakos népeinek hagyományos kultúráját és öltözetét dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        24.781692,
+                        -28.747831
+                  ]
+            },
+            {
+                  "name": "Northern Cape Theatre",
+                  "text": "Ez a kiemelkedő előadó-művészeti helyszín egy nagy modern színpaddal rendelkezik, amelyet nagy színházi produkciókhoz és közösségi koncertekhez terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        24.769363,
+                        -28.744867
+                  ]
+            },
+            {
+                  "name": "William Humphrey's Art Gallery",
+                  "text": "A galéria egy kiterjedt állandó gyűjteménynek ad otthont, amely a klasszikus európai remekművektől a kortárs dél-afrikai műalkotásokig terjed.",
+                  "category": "museum",
+                  "coords": [
+                        24.769184,
+                        -28.743808
+                  ]
+            },
+            {
+                  "name": "Big Hole",
+                  "text": "Ezt a hatalmas, eredetileg lapos dombon fekvő külszíni bányát a gyémántláz idején teljes egészében kézzel, csákányokkal és lapátokkal ásták ki.",
+                  "category": "landmark",
+                  "coords": [
+                        24.758606,
+                        -28.739189
+                  ]
+            },
+            {
+                  "name": "Alexander McGregor Memorial Museum",
+                  "text": "Ez a történelmi téglaépület örökségvédelmi múzeumként működik, és a regionális természettörténetet, valamint a helyi geológiát bemutató részletes kiállításokkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        24.765108,
+                        -28.739811
+                  ]
+            },
+            {
+                  "name": "Honoured Dead Memorial",
+                  "text": "Ez a Kimberley városában található emlékmű a második búr háború alatti ostrom áldozatainak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769394,
+                        -28.751332
+                  ]
+            },
+            {
+                  "name": "Halfway House Pub",
+                  "text": "Ez a történelmi kocsma Kimberley-ben arról híres, hogy Cecil Rhodes egykor a lován ülve itta itt a sörét.",
+                  "category": "landmark",
+                  "coords": [
+                        24.778318,
+                        -28.749213
+                  ]
+            },
+            {
+                  "name": "McGregor Museum",
+                  "text": "Ez a multidiszciplináris Kimberley-i múzeum egy történelmi, egykori szanatórium épületében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        24.77962,
+                        -28.74965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carter's Ridge Monument",
+                  "text": "Acest monument de piatră de pe o creastă stâncoasă comemorează soldații care au luptat în timpul asediului de la Kimberley.",
+                  "category": "historical",
+                  "coords": [
+                        24.703073,
+                        -28.749092
+                  ]
+            },
+            {
+                  "name": "Miners Memorial",
+                  "text": "O atracție urbană emoționantă dedicată miilor de săpători pionieri care au excavat câmpurile locale de diamante.",
+                  "category": "landmark",
+                  "coords": [
+                        24.767735,
+                        -28.744231
+                  ]
+            },
+            {
+                  "name": "Dunluce House Museum",
+                  "text": "Acest muzeu amenajat într-o casă victoriană târzie păstrează mobilierul autentic de la sfârșitul secolului al XIX-lea și arhitectura elegantă din epoca goanei după diamante.",
+                  "category": "museum",
+                  "coords": [
+                        24.779723,
+                        -28.747295
+                  ]
+            },
+            {
+                  "name": "Kimberley Mine",
+                  "text": "Un punct de belvedere spectaculos la marginea celei mai adânci excavații săpate manual din lume, dezvăluind scara masivă a mineritului istoric de diamante.",
+                  "category": "natural",
+                  "coords": [
+                        24.756025,
+                        -28.739055
+                  ]
+            },
+            {
+                  "name": "Sol Plaatje Museum and Library",
+                  "text": "Situat în fosta sa reședință, acest muzeu și bibliotecă onorează moștenirea intelectuală a scriitorului și activistului sud-african Sol Plaatje.",
+                  "category": "museum",
+                  "coords": [
+                        24.763384,
+                        -28.746086
+                  ]
+            },
+            {
+                  "name": "Alexandersfontein Game Farm",
+                  "text": "O rezervație naturală rurală unde vizitatorii pot observa specii de vânat autohton păscând pe câmpiile vaste și semi-aride.",
+                  "category": "natural",
+                  "coords": [
+                        24.755285,
+                        -28.819797
+                  ]
+            },
+            {
+                  "name": "Duggan-Cronin Gallery",
+                  "text": "Această galerie de patrimoniu expune mii de fotografii istorice care documentează culturile și porturile tradiționale ale popoarelor indigene din Africa de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        24.781692,
+                        -28.747831
+                  ]
+            },
+            {
+                  "name": "Northern Cape Theatre",
+                  "text": "Această locație proeminentă de artele spectacolului dispune de o scenă modernă mare, concepută pentru producții teatrale grandioase și concerte comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        24.769363,
+                        -28.744867
+                  ]
+            },
+            {
+                  "name": "William Humphrey's Art Gallery",
+                  "text": "Galeria găzduiește o amplă colecție permanentă, de la capodopere clasice europene până la opere de artă sud-africane contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        24.769184,
+                        -28.743808
+                  ]
+            },
+            {
+                  "name": "Big Hole",
+                  "text": "Inițial un deal plat, această mină colosală cu cer deschis a fost excavată în întregime manual, cu târnăcoape și lopeți, în timpul goanei după diamante.",
+                  "category": "landmark",
+                  "coords": [
+                        24.758606,
+                        -28.739189
+                  ]
+            },
+            {
+                  "name": "Alexander McGregor Memorial Museum",
+                  "text": "Această clădire istorică din cărămidă funcționează ca un muzeu de patrimoniu, prezentând exponate detaliate despre istoria naturală regională și geologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.765108,
+                        -28.739811
+                  ]
+            },
+            {
+                  "name": "Honoured Dead Memorial",
+                  "text": "Acest monument din Kimberley onorează soldații căzuți în timpul asediului din al Doilea Război Bur.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769394,
+                        -28.751332
+                  ]
+            },
+            {
+                  "name": "Halfway House Pub",
+                  "text": "Acest pub istoric din Kimberley este faimos pentru faptul că Cecil Rhodes obișnuia să bea aici stând călare.",
+                  "category": "landmark",
+                  "coords": [
+                        24.778318,
+                        -28.749213
+                  ]
+            },
+            {
+                  "name": "McGregor Museum",
+                  "text": "Acest muzeu multidisciplinar din Kimberley este găzduit într-o clădire istorică care a servit ca sanatoriu.",
+                  "category": "museum",
+                  "coords": [
+                        24.77962,
+                        -28.74965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carter's Ridge Monument",
+                  "text": "This stone monument on a rocky ridge commemorates the soldiers who fought during the Siege of Kimberley.",
+                  "category": "historical",
+                  "coords": [
+                        24.703073,
+                        -28.749092
+                  ]
+            },
+            {
+                  "name": "Miners Memorial",
+                  "text": "A poignant urban attraction dedicated to the thousands of pioneering diggers who excavated the local diamond fields.",
+                  "category": "landmark",
+                  "coords": [
+                        24.767735,
+                        -28.744231
+                  ]
+            },
+            {
+                  "name": "Dunluce House Museum",
+                  "text": "This late Victorian house museum preserves authentic late 19th-century furnishings and the elegant architecture of the diamond rush era.",
+                  "category": "museum",
+                  "coords": [
+                        24.779723,
+                        -28.747295
+                  ]
+            },
+            {
+                  "name": "Kimberley Mine",
+                  "text": "A dramatic viewpoint at the edge of the world's deepest hand-dug excavation, revealing the massive scale of historical diamond mining.",
+                  "category": "natural",
+                  "coords": [
+                        24.756025,
+                        -28.739055
+                  ]
+            },
+            {
+                  "name": "Sol Plaatje Museum and Library",
+                  "text": "Located in his former residence, this museum and library honors the intellectual legacy of South African writer and activist Sol Plaatje.",
+                  "category": "museum",
+                  "coords": [
+                        24.763384,
+                        -28.746086
+                  ]
+            },
+            {
+                  "name": "Alexandersfontein Game Farm",
+                  "text": "A rural nature reserve where visitors can observe native game species grazing across the expansive semi-arid plains.",
+                  "category": "natural",
+                  "coords": [
+                        24.755285,
+                        -28.819797
+                  ]
+            },
+            {
+                  "name": "Duggan-Cronin Gallery",
+                  "text": "This heritage gallery displays thousands of historic photographs documenting the traditional cultures and dress of Southern Africa's indigenous peoples.",
+                  "category": "museum",
+                  "coords": [
+                        24.781692,
+                        -28.747831
+                  ]
+            },
+            {
+                  "name": "Northern Cape Theatre",
+                  "text": "This prominent performing arts venue features a large modern stage designed for grand theatrical productions and community concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        24.769363,
+                        -28.744867
+                  ]
+            },
+            {
+                  "name": "William Humphrey's Art Gallery",
+                  "text": "The gallery houses an extensive permanent collection ranging from classic European masterpieces to contemporary South African artworks.",
+                  "category": "museum",
+                  "coords": [
+                        24.769184,
+                        -28.743808
+                  ]
+            },
+            {
+                  "name": "Big Hole",
+                  "text": "Initially a flat hill, this colossal open-pit mine was entirely excavated by hand with picks and shovels during the diamond rush.",
+                  "category": "landmark",
+                  "coords": [
+                        24.758606,
+                        -28.739189
+                  ]
+            },
+            {
+                  "name": "Alexander McGregor Memorial Museum",
+                  "text": "This historic brick building functions as a heritage museum featuring detailed exhibits on regional natural history and local geology.",
+                  "category": "museum",
+                  "coords": [
+                        24.765108,
+                        -28.739811
+                  ]
+            },
+            {
+                  "name": "Honoured Dead Memorial",
+                  "text": "Located in Kimberley, this memorial commemorates those who died during the town's siege in the Second Boer War.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769394,
+                        -28.751332
+                  ]
+            },
+            {
+                  "name": "Halfway House Pub",
+                  "text": "This historic Kimberley pub is famous as the place where Cecil Rhodes would famously drink a pint while still on his horse.",
+                  "category": "landmark",
+                  "coords": [
+                        24.778318,
+                        -28.749213
+                  ]
+            },
+            {
+                  "name": "McGregor Museum",
+                  "text": "Housed in a historic former sanatorium, this multidisciplinary museum in Kimberley focuses on natural and cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        24.77962,
+                        -28.74965
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NC",
     coords: [24.7558, -28.7392],
@@ -843,7 +6108,520 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "sterkfontein-caves-history-v2",
+    id: "sterkfontein-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paardekraal Monument",
+                  "text": "Dieses 1891 errichtete, markante Steindenkmal erinnert an den Ort, an dem Tausende von Buren einen historischen Schwur zur Wiedererlangung ihrer Unabhängigkeit leisteten.",
+                  "category": "historical",
+                  "coords": [
+                        27.778748,
+                        -26.093547
+                  ]
+            },
+            {
+                  "name": "Jaco",
+                  "text": "In der Region der Wiege der Menschheit gelegen, bietet diese lokale Attraktion Besuchern einen besonderen Zwischenstopp inmitten der umliegenden prähistorischen Landschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763303,
+                        -26.088058
+                  ]
+            },
+            {
+                  "name": "Copers Cave",
+                  "text": "Diese bedeutende fossilienführende Höhle ist international berühmt für ihre entscheidenden Hominidenfunde, insbesondere die Fossilien von Paranthropus robustus.",
+                  "category": "natural",
+                  "coords": [
+                        27.74562,
+                        -26.01329
+                  ]
+            },
+            {
+                  "name": "Makiti - Wedding and Function Venue",
+                  "text": "Bekannt für seine angelegten Gärten und eleganten Bankettsäle, dient dieses malerische Anwesen als erstklassiger Ort für große Hochzeiten und private Feiern.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737955,
+                        -26.009665
+                  ]
+            },
+            {
+                  "name": "Sterkfontein",
+                  "text": "Dieses als wichtiges Kulturerbe ausgewiesene und international renommierte Kalksteinhöhlensystem brachte den berühmten Schädel des Australopithecus africanus hervor, der als „Mrs. Ples“ bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.734561,
+                        -26.015657
+                  ]
+            },
+            {
+                  "name": "Kromdraai Conservancy",
+                  "text": "Dieses unberührte Naturschutzgebiet schützt die dolomitischen Landschaften und die vielfältige Flora rund um einige der reichsten paläoanthropologischen Fossilienfundstätten der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        27.728333,
+                        -25.978889
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind",
+                  "text": "Diese Landschaft fungiert als weitläufiges Reservat rund um das offizielle Besucherzentrum und schützt ein riesiges Netzwerk von unterirdischen Kalksteinhöhlen voller Hominidenfossilien.",
+                  "category": "natural",
+                  "coords": [
+                        27.663007,
+                        -25.97131
+                  ]
+            },
+            {
+                  "name": "Isaac Stegman Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet, das die Oberflächenumgebung direkt über den berühmten Fossilienhöhlen abdeckt, schützt die einheimische Highveld-Vegetation und die lokale Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        27.738378,
+                        -26.017374
+                  ]
+            },
+            {
+                  "name": "Krugersdorp Game Reserve",
+                  "text": "Dieses dichte Bushveld-Reservat ermöglicht es Besuchern, durch abwechslungsreiche Landschaften zu fahren, um die heimische Tierwelt zu beobachten, einschließlich eines speziell umzäunten Raubtiergeheges für Löwen.",
+                  "category": "natural",
+                  "coords": [
+                        27.71199,
+                        -26.086326
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind Museum. The Tumulus building",
+                  "text": "Dieses ikonische Museum, das architektonisch einem riesigen, grasbewachsenen alten Grabhügel nachempfunden ist, beherbergt eine interaktive Ausstellung über die Ursprünge und die Evolution der Menschheit.",
+                  "category": "museum",
+                  "coords": [
+                        27.6625,
+                        -25.967217
+                  ]
+            },
+            {
+                  "name": "Sterkfontein Caves",
+                  "text": "Unter dem Ausstellungszentrum befindet sich ein tiefes Kalksteinhöhlensystem, das nicht nur für seine Tropfsteinformationen bekannt ist, sondern auch als Entdeckungsort des fast vollständigen Hominiden-Skeletts „Little Foot“.",
+                  "category": "museum",
+                  "coords": [
+                        27.732761,
+                        -26.017923
+                  ]
+            },
+            {
+                  "name": "Letamo Game Farm",
+                  "text": "Dieses friedliche Wildtiergebiet zeichnet sich durch sein Netzwerk aus ruhigen Dämmen und Feuchtgebieten aus, die einen natürlichen Lebensraum für ansässige Flusspferde und eine reiche Vogelwelt bieten.",
+                  "category": "natural",
+                  "coords": [
+                        27.782685,
+                        -26.022025
+                  ]
+            },
+            {
+                  "name": "Kromdraai",
+                  "text": "Diese spezifische paläontologische Ausgrabungsstätte erlangte 1938 internationale Bekanntheit, als Robert Broom hier das allererste Typusexemplar von Paranthropus robustus entdeckte.",
+                  "category": "historical",
+                  "coords": [
+                        27.74992,
+                        -26.011384
+                  ]
+            },
+            {
+                  "name": "African Fauna & Bird Park",
+                  "text": "Dieses geschlossene ökologische Schutzgebiet bietet Besuchern hautnahe Begegnungen mit einer lebendigen Vielfalt einheimischer südafrikanischer Vogelarten und kleineren endemischen Säugetieren.",
+                  "category": "natural",
+                  "coords": [
+                        27.78259,
+                        -26.057462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paardekraal Monument",
+                  "text": "Az 1891-ben emelt, kiemelkedő kőemlékmű annak a helynek állít emléket, ahol búrok ezrei gyűltek össze egy történelmi esküre, hogy visszaszerezzék függetlenségüket.",
+                  "category": "historical",
+                  "coords": [
+                        27.778748,
+                        -26.093547
+                  ]
+            },
+            {
+                  "name": "Jaco",
+                  "text": "Az Emberiség Bölcsője régióban található helyi látványosság különleges pihenőhelyet kínál a látogatóknak az őskori táj ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763303,
+                        -26.088058
+                  ]
+            },
+            {
+                  "name": "Copers Cave",
+                  "text": "Ez a jelentős fosszíliákat rejtő barlang nemzetközileg ismert a kulcsfontosságú hominida maradványokról, leginkább a Paranthropus robustus leleteiről.",
+                  "category": "natural",
+                  "coords": [
+                        27.74562,
+                        -26.01329
+                  ]
+            },
+            {
+                  "name": "Makiti - Wedding and Function Venue",
+                  "text": "A parkosított kertjeiről és elegáns banketttermeiről ismert festői birtok nagy esküvők és zártkörű rendezvények elsőrangú helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737955,
+                        -26.009665
+                  ]
+            },
+            {
+                  "name": "Sterkfontein",
+                  "text": "A kiemelkedő örökségi helyszínnek nyilvánított, nemzetközileg elismert mészkőbarlang-rendszerben találták meg a „Mrs. Ples” néven ismert híres Australopithecus africanus koponyát.",
+                  "category": "landmark",
+                  "coords": [
+                        27.734561,
+                        -26.015657
+                  ]
+            },
+            {
+                  "name": "Kromdraai Conservancy",
+                  "text": "Ez az érintetlen természetvédelmi terület a világ leggazdagabb paleoantropológiai fosszília-lelőhelyeit körülvevő dolomitos tájat és változatos növényvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.728333,
+                        -25.978889
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind",
+                  "text": "A hivatalos látogatóközpontot körülvevő kiterjedt rezervátumként ez a táj a hominida fosszíliákkal teli, kiterjedt földalatti mészkőbarlang-hálózatot védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.663007,
+                        -25.97131
+                  ]
+            },
+            {
+                  "name": "Isaac Stegman Nature Reserve",
+                  "text": "A híres fosszíliabarlangok közvetlen felszíni környezetét lefedő természetvédelmi terület az őshonos Highveld növényzetet és a helyi vadvilágot óvja.",
+                  "category": "natural",
+                  "coords": [
+                        27.738378,
+                        -26.017374
+                  ]
+            },
+            {
+                  "name": "Krugersdorp Game Reserve",
+                  "text": "Ez a sűrű bozótos rezervátum lehetővé teszi a látogatók számára, hogy változatos terepeken átautózva figyeljék meg a helyi vadvilágot, beleértve egy külön elkerített ragadozórészleget az oroszlánok számára.",
+                  "category": "natural",
+                  "coords": [
+                        27.71199,
+                        -26.086326
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind Museum. The Tumulus building",
+                  "text": "Az építészetileg egy hatalmas, fűvel borított ősi sírhalomra emlékeztető ikonikus múzeum egy interaktív kiállításnak ad otthont, amely az emberiség eredetét és evolúcióját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.6625,
+                        -25.967217
+                  ]
+            },
+            {
+                  "name": "Sterkfontein Caves",
+                  "text": "A kiállítási központ alatt egy mély mészkőbarlang-rendszer fekszik, amely nemcsak cseppkőképződményeiről híres, hanem a majdnem teljes „Little Foot” hominida csontváz megtalálási helyeként is.",
+                  "category": "museum",
+                  "coords": [
+                        27.732761,
+                        -26.017923
+                  ]
+            },
+            {
+                  "name": "Letamo Game Farm",
+                  "text": "Ezt a békés vadasparkot nyugodt gátak és vizesélőhelyek hálózata teszi különlegessé, amelyek természetes élőhelyet biztosítanak a betelepült vízilovaknak és a gazdag madárvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        27.782685,
+                        -26.022025
+                  ]
+            },
+            {
+                  "name": "Kromdraai",
+                  "text": "Ez a különleges paleontológiai ásatási gödör 1938-ban tett szert nemzetközi hírnévre, amikor Robert Broom itt fedezte fel a Paranthropus robustus legelső típuspéldányát.",
+                  "category": "historical",
+                  "coords": [
+                        27.74992,
+                        -26.011384
+                  ]
+            },
+            {
+                  "name": "African Fauna & Bird Park",
+                  "text": "Ez a zárt ökológiai szentély lehetővé teszi a látogatók számára, hogy testközelből találkozzanak a dél-afrikai őshonos madárfajok és kisebb endemikus emlősök színes sokaságával.",
+                  "category": "natural",
+                  "coords": [
+                        27.78259,
+                        -26.057462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paardekraal Monument",
+                  "text": "Ridicat în 1891, acest monument proeminent din piatră comemorează locul în care mii de buri s-au adunat pentru a depune un jurământ istoric de recâștigare a independenței.",
+                  "category": "historical",
+                  "coords": [
+                        27.778748,
+                        -26.093547
+                  ]
+            },
+            {
+                  "name": "Jaco",
+                  "text": "Situată în regiunea Leagănul Omenirii, această atracție locală oferă vizitatorilor un popas distinct în mijlocul peisajelor preistorice înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763303,
+                        -26.088058
+                  ]
+            },
+            {
+                  "name": "Copers Cave",
+                  "text": "Această peșteră proeminentă cu fosile este faimoasă pe plan internațional pentru descoperirea unor rămășițe cruciale de hominizi, în special fosile de Paranthropus robustus.",
+                  "category": "natural",
+                  "coords": [
+                        27.74562,
+                        -26.01329
+                  ]
+            },
+            {
+                  "name": "Makiti - Wedding and Function Venue",
+                  "text": "Cunoscută pentru grădinile sale amenajate și sălile de banchet elegante, această proprietate pitorească servește ca un spațiu de prim rang pentru nunți mari și evenimente private.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737955,
+                        -26.009665
+                  ]
+            },
+            {
+                  "name": "Sterkfontein",
+                  "text": "Desemnat drept un sit de patrimoniu major, acest sistem de peșteri de calcar de renume internațional a produs faimosul craniu de Australopithecus africanus cunoscut sub numele de „Mrs. Ples”.",
+                  "category": "landmark",
+                  "coords": [
+                        27.734561,
+                        -26.015657
+                  ]
+            },
+            {
+                  "name": "Kromdraai Conservancy",
+                  "text": "Această rezervație naturală curată protejează peisajele dolomitice și flora diversă din jurul unora dintre cele mai bogate situri de fosile paleoantropologice din lume.",
+                  "category": "natural",
+                  "coords": [
+                        27.728333,
+                        -25.978889
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind",
+                  "text": "Funcționând ca o rezervație întinsă în jurul centrului oficial pentru vizitatori, acest peisaj protejează o rețea vastă de peșteri subterane din calcar, pline de fosile de hominizi.",
+                  "category": "natural",
+                  "coords": [
+                        27.663007,
+                        -25.97131
+                  ]
+            },
+            {
+                  "name": "Isaac Stegman Nature Reserve",
+                  "text": "Acoperind mediul de la suprafață situat direct deasupra faimoaselor peșteri cu fosile, această rezervație naturală protejează vegetația indigenă de Highveld și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        27.738378,
+                        -26.017374
+                  ]
+            },
+            {
+                  "name": "Krugersdorp Game Reserve",
+                  "text": "Această rezervație deasă de tufișuri permite vizitatorilor să conducă pe terenuri variate pentru a observa fauna nativă, inclusiv o zonă cu prădători special închisă pentru lei.",
+                  "category": "natural",
+                  "coords": [
+                        27.71199,
+                        -26.086326
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind Museum. The Tumulus building",
+                  "text": "Proiectat arhitectural pentru a semăna cu un tumul antic uriaș, acoperit de iarbă, acest muzeu iconic găzduiește o expoziție interactivă care detaliază originile și evoluția omenirii.",
+                  "category": "museum",
+                  "coords": [
+                        27.6625,
+                        -25.967217
+                  ]
+            },
+            {
+                  "name": "Sterkfontein Caves",
+                  "text": "Sub centrul expozițional se află un sistem adânc de peșteri de calcar, faimos nu doar pentru formațiunile sale de stalactite, ci și ca loc de descoperire a scheletului de hominid aproape complet numit „Little Foot”.",
+                  "category": "museum",
+                  "coords": [
+                        27.732761,
+                        -26.017923
+                  ]
+            },
+            {
+                  "name": "Letamo Game Farm",
+                  "text": "Acest domeniu pașnic cu viață sălbatică se distinge prin rețeaua sa de baraje senine și zone umede, care oferă un habitat natural pentru hipopotamii rezidenți și păsările abundente.",
+                  "category": "natural",
+                  "coords": [
+                        27.782685,
+                        -26.022025
+                  ]
+            },
+            {
+                  "name": "Kromdraai",
+                  "text": "Această groapă specifică de excavare paleontologică a câștigat aprecieri internaționale în 1938, când Robert Broom a descoperit aici chiar primul exemplar tip de Paranthropus robustus.",
+                  "category": "historical",
+                  "coords": [
+                        27.74992,
+                        -26.011384
+                  ]
+            },
+            {
+                  "name": "African Fauna & Bird Park",
+                  "text": "Acest sanctuar ecologic închis oferă vizitatorilor întâlniri de aproape cu o varietate vibrantă de specii de păsări indigene sud-africane și mamifere endemice mai mici.",
+                  "category": "natural",
+                  "coords": [
+                        27.78259,
+                        -26.057462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paardekraal Monument",
+                  "text": "Erected in 1891, this prominent stone monument commemorates the site where thousands of Boers gathered to take a historic vow to regain their independence.",
+                  "category": "historical",
+                  "coords": [
+                        27.778748,
+                        -26.093547
+                  ]
+            },
+            {
+                  "name": "Jaco",
+                  "text": "Set within the Cradle of Humankind region, this local attraction offers visitors a distinct stopover amid the surrounding prehistoric landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763303,
+                        -26.088058
+                  ]
+            },
+            {
+                  "name": "Cooper's Cave",
+                  "text": "This prominent fossil-bearing cave is internationally famous for yielding crucial hominid remains, most notably fossils of Paranthropus robustus.",
+                  "category": "natural",
+                  "coords": [
+                        27.74562,
+                        -26.01329
+                  ]
+            },
+            {
+                  "name": "Makiti - Wedding and Function Venue",
+                  "text": "Known for its landscaped gardens and elegant banquet halls, this scenic estate serves as a premier venue for large weddings and private functions.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737955,
+                        -26.009665
+                  ]
+            },
+            {
+                  "name": "Sterkfontein",
+                  "text": "Designated as a major heritage site, this internationally renowned limestone cave system produced the famous Australopithecus africanus skull known as \"Mrs. Ples\".",
+                  "category": "landmark",
+                  "coords": [
+                        27.734561,
+                        -26.015657
+                  ]
+            },
+            {
+                  "name": "Kromdraai Conservancy",
+                  "text": "This pristine nature reserve protects the dolomitic landscapes and diverse flora surrounding some of the world's richest paleoanthropological fossil sites.",
+                  "category": "natural",
+                  "coords": [
+                        27.728333,
+                        -25.978889
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind",
+                  "text": "Functioning as the expansive reserve surrounding the official visitor centre, this landscape protects a vast network of subterranean limestone caves filled with hominid fossils.",
+                  "category": "natural",
+                  "coords": [
+                        27.663007,
+                        -25.97131
+                  ]
+            },
+            {
+                  "name": "Isaac Stegman Nature Reserve",
+                  "text": "Covering the surface environment directly above the famous fossil caves, this nature reserve protects the indigenous Highveld vegetation and local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        27.738378,
+                        -26.017374
+                  ]
+            },
+            {
+                  "name": "Krugersdorp Game Reserve",
+                  "text": "This dense bushveld reserve allows visitors to drive through varied terrains spotting native wildlife, including a specially enclosed predator area for lions.",
+                  "category": "natural",
+                  "coords": [
+                        27.71199,
+                        -26.086326
+                  ]
+            },
+            {
+                  "name": "Maropeng Cradle of Humankind Museum. The Tumulus building",
+                  "text": "Architecturally designed to resemble a giant, grass-covered ancient burial mound, this iconic museum houses an interactive exhibition detailing the origins and evolution of humankind.",
+                  "category": "museum",
+                  "coords": [
+                        27.6625,
+                        -25.967217
+                  ]
+            },
+            {
+                  "name": "Sterkfontein Caves",
+                  "text": "Beneath the exhibition center lies a deep limestone cave system, famous not only for its stalactite formations but as the discovery site of the near-complete \"Little Foot\" hominid skeleton.",
+                  "category": "museum",
+                  "coords": [
+                        27.732761,
+                        -26.017923
+                  ]
+            },
+            {
+                  "name": "Letamo Game Farm",
+                  "text": "This peaceful wildlife estate is distinguished by its network of serene dams and wetlands, which provide a natural habitat for resident hippopotamuses and abundant birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        27.782685,
+                        -26.022025
+                  ]
+            },
+            {
+                  "name": "Kromdraai",
+                  "text": "This specific paleontological excavation pit earned international acclaim in 1938 when Robert Broom discovered the very first type specimen of Paranthropus robustus here.",
+                  "category": "historical",
+                  "coords": [
+                        27.74992,
+                        -26.011384
+                  ]
+            },
+            {
+                  "name": "African Fauna & Bird Park",
+                  "text": "This enclosed ecological sanctuary offers visitors close encounters with a vibrant array of indigenous South African bird species and smaller endemic mammals.",
+                  "category": "natural",
+                  "coords": [
+                        27.78259,
+                        -26.057462
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [27.7344, -26.015],
@@ -903,7 +6681,52 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kaditshwene-ruins-history-v2",
+    id: "kaditshwene-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chillers",
+                  "text": "Chillers ist eine lokale Attraktion im Gebiet kaditshwene-ruins-history-v2, die einen Ort zum Entspannen und Verweilen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.0924,
+                        -25.5496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chillers",
+                  "text": "A Chillers egy helyi látványosság a kaditshwene-ruins-history-v2 területen, amely ideális hely a pihenésre és a kikapcsolódásra.",
+                  "category": "landmark",
+                  "coords": [
+                        26.0924,
+                        -25.5496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chillers",
+                  "text": "Chillers este o atracție locală din zona kaditshwene-ruins-history-v2, oferind un loc de relaxare și socializare.",
+                  "category": "landmark",
+                  "coords": [
+                        26.0924,
+                        -25.5496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chillers",
+                  "text": "Chillers is a local attraction in the kaditshwene-ruins-history-v2 area offering a spot to relax and socialize.",
+                  "category": "landmark",
+                  "coords": [
+                        26.0924,
+                        -25.5496
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NW",
     coords: [26.0833, -25.5667],
@@ -963,7 +6786,160 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "pilgrims-rest-history-v2",
+    id: "pilgrims-rest-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Remhoogtekop",
+                  "text": "Ein historischer Gipfel mit Blick auf das alte Goldgräbergebiet von Pilgrim's Rest.",
+                  "category": "natural",
+                  "coords": [
+                        30.8017,
+                        -24.8825
+                  ]
+            },
+            {
+                  "name": "Jubilee",
+                  "text": "Eine markante Hügelkuppe, die sich über der historischen Bergbaulandschaft von Pilgrim's Rest erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        30.7817,
+                        -24.9158
+                  ]
+            },
+            {
+                  "name": "Pinnacle",
+                  "text": "Dieser dramatische Felsenaussichtspunkt bei Pilgrim's Rest bietet eine hohe Quarzitsäule, die sich aus der tiefen Schlucht erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        30.853798,
+                        -24.912043
+                  ]
+            },
+            {
+                  "name": "Mount Sheba Nature Reserve",
+                  "text": "Dieses im September 1967 gegründete Naturschutzgebiet bei Pilgrim's Rest bewahrt einheimischen afromontanen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        30.710026,
+                        -24.951418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Remhoogtekop",
+                  "text": "Történelmi hegycsúcs, amely a zarándokok pihenőhelyének régi aranybányász területére néz.",
+                  "category": "natural",
+                  "coords": [
+                        30.8017,
+                        -24.8825
+                  ]
+            },
+            {
+                  "name": "Jubilee",
+                  "text": "Egy kiemelkedő dombtető, amely a zarándokok pihenőhelyének történelmi bányásztája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        30.7817,
+                        -24.9158
+                  ]
+            },
+            {
+                  "name": "Pinnacle",
+                  "text": "Ez a drámai sziklás kilátó Pilgrim's Rest közelében egy mély szurdokból kiemelkedő magas kvarcit oszlopot mutat be.",
+                  "category": "natural",
+                  "coords": [
+                        30.853798,
+                        -24.912043
+                  ]
+            },
+            {
+                  "name": "Mount Sheba Nature Reserve",
+                  "text": "Az 1967 szeptemberében alapított, Pilgrim's Rest melletti természetvédelmi terület őshonos afromontán erdőt őriz.",
+                  "category": "natural",
+                  "coords": [
+                        30.710026,
+                        -24.951418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Remhoogtekop",
+                  "text": "Un vârf istoric cu vedere la vechea zonă de exploatare a aurului din Pilgrim's Rest.",
+                  "category": "natural",
+                  "coords": [
+                        30.8017,
+                        -24.8825
+                  ]
+            },
+            {
+                  "name": "Jubilee",
+                  "text": "Un deal proeminent care se înalță deasupra peisajului minier istoric din Pilgrim's Rest.",
+                  "category": "natural",
+                  "coords": [
+                        30.7817,
+                        -24.9158
+                  ]
+            },
+            {
+                  "name": "Pinnacle",
+                  "text": "Acest punct de belvedere stâncos dramatic de lângă Pilgrim's Rest prezintă un pilon înalt de cuarțit care se ridică din defileul adânc.",
+                  "category": "natural",
+                  "coords": [
+                        30.853798,
+                        -24.912043
+                  ]
+            },
+            {
+                  "name": "Mount Sheba Nature Reserve",
+                  "text": "Înființată în septembrie 1967, această rezervație naturală de lângă Pilgrim's Rest păstrează păduri afromontane indigene.",
+                  "category": "natural",
+                  "coords": [
+                        30.710026,
+                        -24.951418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Remhoogtekop",
+                  "text": "A historic peak overlooking the old gold-mining area of Pilgrim's Rest.",
+                  "category": "natural",
+                  "coords": [
+                        30.8017,
+                        -24.8825
+                  ]
+            },
+            {
+                  "name": "Jubilee",
+                  "text": "A prominent hilltop standing above the historic mining landscape of Pilgrim's Rest.",
+                  "category": "natural",
+                  "coords": [
+                        30.7817,
+                        -24.9158
+                  ]
+            },
+            {
+                  "name": "Pinnacle",
+                  "text": "This dramatic rock viewpoint near Pilgrim's Rest features a tall quartzite pillar rising from the deep gorge.",
+                  "category": "natural",
+                  "coords": [
+                        30.853798,
+                        -24.912043
+                  ]
+            },
+            {
+                  "name": "Mount Sheba Nature Reserve",
+                  "text": "Established in September 1967, this nature reserve near Pilgrim's Rest preserves indigenous afromontane forest.",
+                  "category": "natural",
+                  "coords": [
+                        30.710026,
+                        -24.951418
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-MP",
     coords: [30.7558, -24.9081],
@@ -1023,7 +6999,556 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "pinnacle-point-caves-history-v2",
+    id: "pinnacle-point-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pinnacle Point 13B",
+                  "text": "Eine anerkannte archäologische Stätte mit Blick auf den Indischen Ozean, berühmt für einige der frühesten Beweise der menschlichen Nutzung mariner Ressourcen.",
+                  "category": "historical",
+                  "coords": [
+                        22.089524,
+                        -34.207755
+                  ]
+            },
+            {
+                  "name": "Diaz Water Park",
+                  "text": "Ein lebhafter Wasserpark in der Gegend von Pinnacle Point, der verschiedene Schwimmbecken und Wasserrutschen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        22.109228,
+                        -34.159365
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "Dieses Schifffahrtsmuseum ist Teil des Bartolomeu-Dias-Museumskomplexes und zeigt eine lebensgroße Nachbildung der Karavelle von Dias.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "Eine historische Wasserstelle nahe Pinnacle Point, an der frühe portugiesische Entdecker ihre Süßwasservorräte auffüllten.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "Ein alter Wassertrog, der die historische Infrastruktur für Reisende und Vieh nahe Pinnacle Point widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "Ein Steinmonument, das die historischen Landgänge früher europäischer Seefahrer in der Region markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "Eine Attraktion, die Käfigtauchen und Begegnungen mit Weißen Haien entlang der nahegelegenen Küste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.180519
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Eine Attraktion mit historischen Gräbern, die Einblicke in die frühen Siedler und Seefahrer der Gegend um Pinnacle Point bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "Ein Aussichtspunkt an der Küste in der Nähe von Pinnacle Point, der weite Panoramen über die felsige Küste und das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Saint Blaize Cave",
+                  "text": "Eine markante Küstenhöhle, in der archäologische Beweise für eine Besiedlung in der mittleren Steinzeit gefunden wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        22.157021,
+                        -34.186114
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "Ein lehrreiches Aquarium nahe Pinnacle Point, das sich auf den Schutz und die Erforschung lokaler Haiarten konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "Ein Friedhof, der die Grabstätten von Einwohnern und Seeleuten der Küstenstadt aus dem frühen 19. Jahrhundert bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            },
+            {
+                  "name": "1st Beach",
+                  "text": "Ein beliebter Sandstrand nahe Pinnacle Point, der von Einheimischen gerne zum Schwimmen und zur Erholung an der Küste genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        22.024953,
+                        -34.20809
+                  ]
+            },
+            {
+                  "name": "Dana Bay",
+                  "text": "Ein Strandbereich entlang der Küste nahe Pinnacle Point, der für seine reiche Fynbos-Vegetation und vielfältige Tierwelt bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        22.056953,
+                        -34.204964
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "Dieses ehemals als Santos Beach bekannte Küstenziel bietet einen Sandstrand zum Baden und für Aktivitäten am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        22.137514,
+                        -34.177179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pinnacle Point 13B",
+                  "text": "Az Indiai-óceánra néző, elismert régészeti örökség, amely a tengeri erőforrások emberi hasznosításának egyik legkorábbi bizonyítékáról híres.",
+                  "category": "historical",
+                  "coords": [
+                        22.089524,
+                        -34.207755
+                  ]
+            },
+            {
+                  "name": "Diaz Water Park",
+                  "text": "Egy nyüzsgő vízi park a Pinnacle Point területén, amely különféle úszómedencéket és rekreációs csúszdákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.109228,
+                        -34.159365
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "A Bartolomeu Dias Múzeumkomplexum részét képező tengerészeti múzeumban Dias karavellájának életnagyságú másolata is megtekinthető.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "Történelmi vízlelőhely Pinnacle Point közelében, ahol a korai portugál felfedezők frissvíz-készleteiket töltötték fel.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "Egy régi itatóvályú, amely az utazóknak és az állatoknak szóló történelmi infrastruktúrát tükrözi Pinnacle Point közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "Egy kőemlékmű, amely a korai európai tengerészek történelmi partraszállásait jelöli a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "Káposztás cápamerülést és tengeri találkozásokat kínáló látványosság a közeli partvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.180519
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Történelmi sírokat bemutató látványosság, amely betekintést nyújt a Pinnacle Point környékének korai telepeseinek és tengerészeinek életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "Egy tengerparti kilátópont a Pinnacle Point közelében, amely széles panorámát kínál a sziklás partvonalra és az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Saint Blaize Cave",
+                  "text": "Kiemelkedő tengerparti barlang, ahol a középső kőkorszakból származó betelepülés régészeti bizonyítékait találták meg.",
+                  "category": "landmark",
+                  "coords": [
+                        22.157021,
+                        -34.186114
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "Egy oktatási célú akvárium a Pinnacle Point közelében, amely a helyi cápafajok védelmére és tanulmányozására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "Egy temető, amely a parti város 19. század eleji lakóinak és tengerészeinek temetkezési helyeit őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            },
+            {
+                  "name": "1st Beach",
+                  "text": "Egy népszerű homokos part a Pinnacle Point közelében, amelyet a helyiek úszásra és tengerparti kikapcsolódásra kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        22.024953,
+                        -34.20809
+                  ]
+            },
+            {
+                  "name": "Dana Bay",
+                  "text": "Egy partmenti természetvédelmi strandterület a Pinnacle Point közelében, amely gazdag fynbos növényzetéről és változatos vadvilágáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        22.056953,
+                        -34.204964
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "A korábban Santos Beach néven ismert tengerparti úti cél homokos partot kínál fürdőzéshez és tengerparti tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        22.137514,
+                        -34.177179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pinnacle Point 13B",
+                  "text": "Un sit arheologic de patrimoniu recunoscut, cu vedere la Oceanul Indian, faimos pentru unele dintre cele mai vechi dovezi ale recoltării resurselor marine de către om.",
+                  "category": "historical",
+                  "coords": [
+                        22.089524,
+                        -34.207755
+                  ]
+            },
+            {
+                  "name": "Diaz Water Park",
+                  "text": "Un parc acvatic plin de viață în zona Pinnacle Point, oferind diverse piscine și tobogane de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        22.109228,
+                        -34.159365
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "Parte a complexului muzeal Bartolomeu Dias, acest muzeu maritim prezintă o replică în mărime naturală a caravelei lui Dias.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "Un sit istoric de alimentare cu apă lângă Pinnacle Point, unde primii exploratori portughezi și-au refăcut proviziile de apă dulce.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "O atracție cu un vechi jgheab de apă care reflectă infrastructura istorică pentru călători și animale lângă Pinnacle Point.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "Un monument de piatră care marchează debarcările istorice ale primilor navigatori europeni în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "O atracție care oferă scufundări în cușcă și întâlniri cu mari rechini albi de-a lungul coastei din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.180519
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "O atracție cu morminte istorice care oferă o perspectivă asupra primilor coloniști și navigatori din zona Pinnacle Point.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "Un punct de belvedere de coastă lângă Pinnacle Point care oferă panorame vaste asupra țărmului stâncos și a oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Saint Blaize Cave",
+                  "text": "O peșteră de coastă proeminentă unde s-au găsit dovezi arheologice de locuire din Epoca de Piatră Mijlocie.",
+                  "category": "landmark",
+                  "coords": [
+                        22.157021,
+                        -34.186114
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "Un acvariu educațional lângă Pinnacle Point, axat pe conservarea și studiul speciilor locale de rechini.",
+                  "category": "recreational",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "Un cimitir care conservă locurile de înmormântare ale rezidenților și marinarilor de la începutul secolului al XIX-lea din orașul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            },
+            {
+                  "name": "1st Beach",
+                  "text": "O plajă populară cu nisip lângă Pinnacle Point, preferată de localnici pentru înot și recreere pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        22.024953,
+                        -34.20809
+                  ]
+            },
+            {
+                  "name": "Dana Bay",
+                  "text": "O zonă de plajă protejată care se întinde de-a lungul coastei lângă Pinnacle Point, cunoscută pentru vegetația bogată de fynbos și fauna diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        22.056953,
+                        -34.204964
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "Cunoscută anterior ca plaja Santos, această destinație de coastă oferă un țărm cu nisip pentru baie și activități pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        22.137514,
+                        -34.177179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pinnacle Point 13B",
+                  "text": "A recognized heritage archaeological site overlooking the Indian Ocean, famous for some of the earliest evidence of human harvesting of marine resources.",
+                  "category": "historical",
+                  "coords": [
+                        22.089524,
+                        -34.207755
+                  ]
+            },
+            {
+                  "name": "Diaz Water Park",
+                  "text": "A lively water park in the Pinnacle Point area offering various swimming pools and recreational slides.",
+                  "category": "recreational",
+                  "coords": [
+                        22.109228,
+                        -34.159365
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "Part of the Bartolomeu Dias Museum Complex, this maritime museum features a life-size replica of Dias's caravel ship.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "A historic watering site near Pinnacle Point where early Portuguese explorers replenished their fresh water supplies.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "An old water trough attraction reflecting the historical infrastructure for travelers and livestock near Pinnacle Point.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "A stone monument attraction marking the historical landfalls of early European navigators in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "An attraction offering cage diving and marine encounters with great white sharks along the nearby coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.180519
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "An attraction featuring historic graves that offer insight into the early settlers and seafarers of the Pinnacle Point area.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "A coastal viewpoint near Pinnacle Point offering sweeping panoramas over the rocky shoreline and ocean.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Saint Blaize Cave",
+                  "text": "A prominent coastal cave attraction where archaeological evidence of Middle Stone Age inhabitation has been found.",
+                  "category": "landmark",
+                  "coords": [
+                        22.157021,
+                        -34.186114
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "An educational aquarium near Pinnacle Point focusing on the conservation and study of local shark species.",
+                  "category": "recreational",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "A cemetery attraction preserving the burial sites of early 19th-century residents and sailors of the coastal town.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            },
+            {
+                  "name": "1st Beach",
+                  "text": "A popular sandy beach near Pinnacle Point, favored by locals for swimming and coastal recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        22.024953,
+                        -34.20809
+                  ]
+            },
+            {
+                  "name": "Dana Bay",
+                  "text": "A conservancy beach area stretching along the coast near Pinnacle Point, known for its rich fynbos vegetation and diverse wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        22.056953,
+                        -34.204964
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "Formerly known as Santos Beach, this coastal destination provides a sandy shoreline for bathing and seaside activities.",
+                  "category": "recreational",
+                  "coords": [
+                        22.137514,
+                        -34.177179
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-WC",
     coords: [22.0911, -34.2081],
@@ -1083,7 +7608,448 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "makapansgat-history-v2",
+    id: "makapansgat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ysterberg",
+                  "text": "Dieser markante Gipfel in der Makapansgat-Region, auch als Eisenberg bekannt, enthält historische Eisenerzvorkommen.",
+                  "category": "natural",
+                  "coords": [
+                        29.187754,
+                        -24.092968
+                  ]
+            },
+            {
+                  "name": "Button's Kop",
+                  "text": "Button's Kop ist ein felsiger Gipfel in der Makapansgat-Region, der weite Ausblicke über das archäologisch reiche Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.2342,
+                        -24.1208
+                  ]
+            },
+            {
+                  "name": "Rainbow Cave",
+                  "text": "Diese archäologische Höhle in der Makapansgat-Stätte enthält lebhafte Ascheschichten, die auf alte Hominiden-Feuerstellen hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        29.200484,
+                        -24.141587
+                  ]
+            },
+            {
+                  "name": "Cave of Hearths",
+                  "text": "Diese bedeutende archäologische Stätte in Makapansgat zeigt deutliche Schichten alter Asche, die eine frühe Beherrschung des Feuers durch Homininen belegen.",
+                  "category": "historical",
+                  "coords": [
+                        29.199584,
+                        -24.140492
+                  ]
+            },
+            {
+                  "name": "Makapansgrot",
+                  "text": "Diese historische und archäologische Höhle ist als Schauplatz einer tödlichen Belagerung im Jahr 1854 während der Voortrekker-Konflikte berühmt.",
+                  "category": "historical",
+                  "coords": [
+                        29.198558,
+                        -24.141263
+                  ]
+            },
+            {
+                  "name": "Makapansgat Limeworks",
+                  "text": "Dieser frühe Kalksteinbruch hat zahlreiche wichtige Australopithecus-Fossilien hervorgebracht, die in seinen Brekzienblöcken verborgen waren.",
+                  "category": "historical",
+                  "coords": [
+                        29.190477,
+                        -24.139916
+                  ]
+            },
+            {
+                  "name": "Buffalo Cave",
+                  "text": "Diese archäologische Stätte, die Teil des Makapansgat-Komplexes ist, ist bekannt für ihre dichten Ablagerungen versteinerter Tierreste.",
+                  "category": "historical",
+                  "coords": [
+                        29.176971,
+                        -24.142996
+                  ]
+            },
+            {
+                  "name": "Cold Air Cave",
+                  "text": "Die Cold Air Cave ist eine archäologische Höhlenstätte, die für ihre kühlen Luftströme bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.169758,
+                        -24.145989
+                  ]
+            },
+            {
+                  "name": "Glenesk Nature Reserve",
+                  "text": "Das Glenesk Nature Reserve ist ein geschütztes Wildtiergebiet in der Region Makapansgat.",
+                  "category": "natural",
+                  "coords": [
+                        29.11302,
+                        -24.147222
+                  ]
+            },
+            {
+                  "name": "White Cross Monument",
+                  "text": "Das Witkruis-Monument (White Cross Monument) ist eine markante weiße Gedenkstätte nahe Makapansgat.",
+                  "category": "historical",
+                  "coords": [
+                        29.204054,
+                        -24.081435
+                  ]
+            },
+            {
+                  "name": "Makapans Valley National Heritage Site",
+                  "text": "Die Makapans Valley National Heritage Site ist ein geschütztes Welterbe, das bedeutende paläontologische Fossilienfunde birgt.",
+                  "category": "natural",
+                  "coords": [
+                        29.179867,
+                        -24.151015
+                  ]
+            },
+            {
+                  "name": "Mogoto Nature Reserve",
+                  "text": "Das Mogoto Nature Reserve ist eine geschützte ökologische Zone in der Nähe von Makapansgat.",
+                  "category": "natural",
+                  "coords": [
+                        29.22009,
+                        -24.218797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ysterberg",
+                  "text": "Az Iron Mountain (Vashegy) néven is ismert kiemelkedő csúcs a Makapansgat régióban történelmi vasérclelőhelyeket rejt.",
+                  "category": "natural",
+                  "coords": [
+                        29.187754,
+                        -24.092968
+                  ]
+            },
+            {
+                  "name": "Button's Kop",
+                  "text": "A Button's Kop egy sziklás csúcs a Makapansgat régióban, ahonnan kiterjedt kilátás nyílik a régészetileg gazdag völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        29.2342,
+                        -24.1208
+                  ]
+            },
+            {
+                  "name": "Rainbow Cave",
+                  "text": "A Makapansgat lelőhelyen található régészeti barlang élénk hamurétegeket tartalmaz, amelyek ősi emberfélék tűzhelyeire utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        29.200484,
+                        -24.141587
+                  ]
+            },
+            {
+                  "name": "Cave of Hearths",
+                  "text": "Ez a jelentős makapansgati régészeti lelőhely ősi hamu különálló rétegeit tárja fel, amelyek a tűz feletti korai emberféle uralmat mutatják.",
+                  "category": "historical",
+                  "coords": [
+                        29.199584,
+                        -24.140492
+                  ]
+            },
+            {
+                  "name": "Makapansgrot",
+                  "text": "Ez a történelmi és régészeti barlang a Voortrekker-konfliktusok idején, 1854-ben lezajlott halálos ostrom helyszíneként híres.",
+                  "category": "historical",
+                  "coords": [
+                        29.198558,
+                        -24.141263
+                  ]
+            },
+            {
+                  "name": "Makapansgat Limeworks",
+                  "text": "Ez a korai mészkőbányászati lelőhely számos létfontosságú Australopithecus-kövületet hozott felszínre a breccsablokkokban rejtve.",
+                  "category": "historical",
+                  "coords": [
+                        29.190477,
+                        -24.139916
+                  ]
+            },
+            {
+                  "name": "Buffalo Cave",
+                  "text": "A Makapansgat komplexum részét képező régészeti lelőhely sűrű megkövesedett állati maradványairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        29.176971,
+                        -24.142996
+                  ]
+            },
+            {
+                  "name": "Cold Air Cave",
+                  "text": "A Cold Air Cave egy régészeti barlanglelőhely, amely hűvös légáramlatairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        29.169758,
+                        -24.145989
+                  ]
+            },
+            {
+                  "name": "Glenesk Nature Reserve",
+                  "text": "A Glenesk Nature Reserve egy védett vadvédelmi terület Makapansgat régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        29.11302,
+                        -24.147222
+                  ]
+            },
+            {
+                  "name": "White Cross Monument",
+                  "text": "A Fehér Kereszt-emlékmű (Witkruis Monument) egy kiemelkedő emlékmű Makapansgat közelében.",
+                  "category": "historical",
+                  "coords": [
+                        29.204054,
+                        -24.081435
+                  ]
+            },
+            {
+                  "name": "Makapans Valley National Heritage Site",
+                  "text": "A Makapans Valley Nemzeti Örökségvédelmi Terület egy jelentős őslénytani leleteket rejtő védett völgy.",
+                  "category": "natural",
+                  "coords": [
+                        29.179867,
+                        -24.151015
+                  ]
+            },
+            {
+                  "name": "Mogoto Nature Reserve",
+                  "text": "A Mogoto Nature Reserve egy védett ökológiai övezet Makapansgat térségében.",
+                  "category": "natural",
+                  "coords": [
+                        29.22009,
+                        -24.218797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ysterberg",
+                  "text": "Cunoscut și sub numele de Muntele de Fier, acest vârf proeminent din regiunea Makapansgat conține zăcăminte istorice de minereu de fier.",
+                  "category": "natural",
+                  "coords": [
+                        29.187754,
+                        -24.092968
+                  ]
+            },
+            {
+                  "name": "Button's Kop",
+                  "text": "Button's Kop este un vârf stâncos în regiunea Makapansgat, oferind vederi întinse asupra văii bogate arheologic.",
+                  "category": "natural",
+                  "coords": [
+                        29.2342,
+                        -24.1208
+                  ]
+            },
+            {
+                  "name": "Rainbow Cave",
+                  "text": "Situată în situl Makapansgat, această peșteră arheologică conține straturi vii de cenușă care indică vetre antice de hominizi.",
+                  "category": "historical",
+                  "coords": [
+                        29.200484,
+                        -24.141587
+                  ]
+            },
+            {
+                  "name": "Cave of Hearths",
+                  "text": "Acest important sit arheologic din Makapansgat dezvăluie straturi distincte de cenușă antică, arătând controlul timpuriu al focului de către hominizi.",
+                  "category": "historical",
+                  "coords": [
+                        29.199584,
+                        -24.140492
+                  ]
+            },
+            {
+                  "name": "Makapansgrot",
+                  "text": "Această cavernă istorică și arheologică este renumită ca locul unui asediu mortal din 1854 în timpul conflictelor Voortrekker.",
+                  "category": "historical",
+                  "coords": [
+                        29.198558,
+                        -24.141263
+                  ]
+            },
+            {
+                  "name": "Makapansgat Limeworks",
+                  "text": "Acest sit timpuriu de extracție a calcarului a scos la iveală numeroase fosile vitale de Australopithecus ascunse în blocurile sale de brecie.",
+                  "category": "historical",
+                  "coords": [
+                        29.190477,
+                        -24.139916
+                  ]
+            },
+            {
+                  "name": "Buffalo Cave",
+                  "text": "Parte a complexului Makapansgat, acest sit arheologic este renumit pentru depozitele sale dense de resturi animale fosilizate.",
+                  "category": "historical",
+                  "coords": [
+                        29.176971,
+                        -24.142996
+                  ]
+            },
+            {
+                  "name": "Cold Air Cave",
+                  "text": "Cold Air Cave este un sit arheologic aflat într-o peșteră cunoscută pentru curenții săi de aer rece.",
+                  "category": "historical",
+                  "coords": [
+                        29.169758,
+                        -24.145989
+                  ]
+            },
+            {
+                  "name": "Glenesk Nature Reserve",
+                  "text": "Rezervația Naturală Glenesk este o arie protejată pentru fauna sălbatică din regiunea Makapansgat.",
+                  "category": "natural",
+                  "coords": [
+                        29.11302,
+                        -24.147222
+                  ]
+            },
+            {
+                  "name": "White Cross Monument",
+                  "text": "Monumentul Crucii Albe (Witkruis) este o structură comemorativă proeminentă de lângă Makapansgat.",
+                  "category": "historical",
+                  "coords": [
+                        29.204054,
+                        -24.081435
+                  ]
+            },
+            {
+                  "name": "Makapans Valley National Heritage Site",
+                  "text": "Situl de Patrimoniu Național Valea Makapans este o zonă protejată care adăpostește importante fosile paleontologice.",
+                  "category": "natural",
+                  "coords": [
+                        29.179867,
+                        -24.151015
+                  ]
+            },
+            {
+                  "name": "Mogoto Nature Reserve",
+                  "text": "Rezervația Naturală Mogoto este o zonă ecologică protejată din apropiere de Makapansgat.",
+                  "category": "natural",
+                  "coords": [
+                        29.22009,
+                        -24.218797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ysterberg",
+                  "text": "Also known as Iron Mountain, this prominent peak in the Makapansgat region contains historical iron ore deposits.",
+                  "category": "natural",
+                  "coords": [
+                        29.187754,
+                        -24.092968
+                  ]
+            },
+            {
+                  "name": "Button's Kop",
+                  "text": "Button's Kop is a rocky summit in the Makapansgat region, offering expansive views over the archaeologically rich valley.",
+                  "category": "natural",
+                  "coords": [
+                        29.2342,
+                        -24.1208
+                  ]
+            },
+            {
+                  "name": "Rainbow Cave",
+                  "text": "Situated in the Makapansgat site, this archaeological cave contains vivid ash layers indicating ancient hominid hearths.",
+                  "category": "historical",
+                  "coords": [
+                        29.200484,
+                        -24.141587
+                  ]
+            },
+            {
+                  "name": "Cave of Hearths",
+                  "text": "This significant archaeological site in Makapansgat reveals distinct layers of ancient ash, showing early hominin control of fire.",
+                  "category": "historical",
+                  "coords": [
+                        29.199584,
+                        -24.140492
+                  ]
+            },
+            {
+                  "name": "Makapansgrot",
+                  "text": "This historic and archaeological cavern is famous as the site of a deadly 1854 siege during the Voortrekker conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        29.198558,
+                        -24.141263
+                  ]
+            },
+            {
+                  "name": "Makapansgat Limeworks",
+                  "text": "This early limestone quarrying site has yielded numerous vital Australopithecus fossils hidden within its breccia blocks.",
+                  "category": "historical",
+                  "coords": [
+                        29.190477,
+                        -24.139916
+                  ]
+            },
+            {
+                  "name": "Buffalo Cave",
+                  "text": "Part of the Makapansgat complex, this archaeological site is renowned for its dense deposits of fossilized animal remains.",
+                  "category": "historical",
+                  "coords": [
+                        29.176971,
+                        -24.142996
+                  ]
+            },
+            {
+                  "name": "Cold Air Cave",
+                  "text": "The Cold Air Cave is an archaeological cave site known for the chilly air currents that give it its name.",
+                  "category": "historical",
+                  "coords": [
+                        29.169758,
+                        -24.145989
+                  ]
+            },
+            {
+                  "name": "Glenesk Nature Reserve",
+                  "text": "The Glenesk Nature Reserve is a protected natural area preserving the local wildlife and habitats.",
+                  "category": "natural",
+                  "coords": [
+                        29.11302,
+                        -24.147222
+                  ]
+            },
+            {
+                  "name": "White Cross Monument",
+                  "text": "The White Cross Monument is a striking, cross-shaped memorial structure located near Makapansgat.",
+                  "category": "historical",
+                  "coords": [
+                        29.204054,
+                        -24.081435
+                  ]
+            },
+            {
+                  "name": "Makapans Valley National Heritage Site",
+                  "text": "The Makapans Valley National Heritage Site is a globally recognized heritage area known for its significant paleontological fossil deposits.",
+                  "category": "natural",
+                  "coords": [
+                        29.179867,
+                        -24.151015
+                  ]
+            },
+            {
+                  "name": "Mogoto Nature Reserve",
+                  "text": "The Mogoto Nature Reserve is a protected ecological zone offering refuge for the region's flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        29.22009,
+                        -24.218797
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-LP",
     coords: [29.1764, -24.1417],
@@ -1143,7 +8109,232 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "hector-pieterson-memorial-history-v2",
+    id: "hector-pieterson-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "SPCA Roodepoort",
+                  "text": "Die SPCA Roodepoort konzentriert sich auf den Tierschutz und bietet streunenden und verlassenen Tieren in der Umgebung Zuflucht.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929928,
+                        -26.185287
+                  ]
+            },
+            {
+                  "name": "The Rand Society of Model Engineers",
+                  "text": "Die Rand Society of Model Engineers pflegt eine faszinierende Sammlung voll funktionsfähiger Miniatur-Dampfzüge.",
+                  "category": "historical",
+                  "coords": [
+                        27.905797,
+                        -26.160711
+                  ]
+            },
+            {
+                  "name": "Roodepoort Museum",
+                  "text": "Das Roodepoort Museum behandelt die Pioniergeschichte der Region und die Entdeckung von Gold am Witwatersrand.",
+                  "category": "museum",
+                  "coords": [
+                        27.900475,
+                        -26.15444
+                  ]
+            },
+            {
+                  "name": "Mandela House",
+                  "text": "Das Mandela House ist der erhaltene ehemalige Wohnsitz von Nelson Mandela und zeigt persönliche Erinnerungsstücke aus seiner Zeit in Soweto.",
+                  "category": "museum",
+                  "coords": [
+                        27.908804,
+                        -26.238506
+                  ]
+            },
+            {
+                  "name": "Hector Pieterson Museum",
+                  "text": "Das Hector Pieterson Museum erinnert an den Soweto-Aufstand von 1976 und an die Schüler, die gegen die Bildungspolitik der Apartheid kämpften.",
+                  "category": "museum",
+                  "coords": [
+                        27.908706,
+                        -26.234898
+                  ]
+            },
+            {
+                  "name": "Orlando Towers",
+                  "text": "Die bunt bemalten Orlando Towers sind ikonische, stillgelegte Kühltürme in Soweto, die für urbanes Bungee-Jumping berühmt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        27.926737,
+                        -26.254296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SPCA Roodepoort",
+                  "text": "A SPCA Roodepoort az állatvédelemre és a mentésre összpontosít, menedéket nyújtva a környék elhagyott állatainak.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929928,
+                        -26.185287
+                  ]
+            },
+            {
+                  "name": "The Rand Society of Model Engineers",
+                  "text": "A Rand Society of Model Engineers egy lenyűgöző, teljesen működőképes miniatűr gőzmozdonyokból álló gyűjteményt tart fenn.",
+                  "category": "historical",
+                  "coords": [
+                        27.905797,
+                        -26.160711
+                  ]
+            },
+            {
+                  "name": "Roodepoort Museum",
+                  "text": "A Roodepoort Múzeum a régió úttörő történelmét és a witwatersrandi arany felfedezését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.900475,
+                        -26.15444
+                  ]
+            },
+            {
+                  "name": "Mandela House",
+                  "text": "A Mandela-ház Nelson Mandela egykori, eredeti állapotában megőrzött lakhelye, amely a sowetói éveiből származó személyes emléktárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.908804,
+                        -26.238506
+                  ]
+            },
+            {
+                  "name": "Hector Pieterson Museum",
+                  "text": "A Hector Pieterson Múzeum az 1976-os sowetói felkelésnek és azoknak a diákoknak állít emléket, akik az apartheid oktatáspolitikája ellen harcoltak.",
+                  "category": "museum",
+                  "coords": [
+                        27.908706,
+                        -26.234898
+                  ]
+            },
+            {
+                  "name": "Orlando Towers",
+                  "text": "Az élénk színűre festett Orlando Towers Soweto ikonikus, leszerelt hűtőtornyai, amelyek a városi bungee jumpingról híresek.",
+                  "category": "landmark",
+                  "coords": [
+                        27.926737,
+                        -26.254296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SPCA Roodepoort",
+                  "text": "SPCA Roodepoort se concentrează pe bunăstarea și salvarea animalelor, oferind adăpost animalelor abandonate din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929928,
+                        -26.185287
+                  ]
+            },
+            {
+                  "name": "The Rand Society of Model Engineers",
+                  "text": "Rand Society of Model Engineers întreține o colecție fascinantă de trenuri cu aburi în miniatură, complet funcționale.",
+                  "category": "historical",
+                  "coords": [
+                        27.905797,
+                        -26.160711
+                  ]
+            },
+            {
+                  "name": "Roodepoort Museum",
+                  "text": "Muzeul Roodepoort acoperă istoria pionierilor din regiune și descoperirea aurului în Witwatersrand.",
+                  "category": "museum",
+                  "coords": [
+                        27.900475,
+                        -26.15444
+                  ]
+            },
+            {
+                  "name": "Mandela House",
+                  "text": "Casa Mandela este fosta reședință păstrată a lui Nelson Mandela, expunând obiecte personale din perioada petrecută de acesta în Soweto.",
+                  "category": "museum",
+                  "coords": [
+                        27.908804,
+                        -26.238506
+                  ]
+            },
+            {
+                  "name": "Hector Pieterson Museum",
+                  "text": "Muzeul Hector Pieterson comemorează Revolta din Soweto din 1976 și studenții care au luptat împotriva politicilor educaționale ale apartheidului.",
+                  "category": "museum",
+                  "coords": [
+                        27.908706,
+                        -26.234898
+                  ]
+            },
+            {
+                  "name": "Orlando Towers",
+                  "text": "Turnurile Orlando pictate viu sunt turnuri de răcire dezafectate emblematice din Soweto, faimoase pentru bungee jumping urban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.926737,
+                        -26.254296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SPCA Roodepoort",
+                  "text": "The SPCA Roodepoort focuses on animal welfare and rescue, providing shelter for abandoned animals in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929928,
+                        -26.185287
+                  ]
+            },
+            {
+                  "name": "The Rand Society of Model Engineers",
+                  "text": "The Rand Society of Model Engineers maintains a fascinating collection of miniature, fully functioning steam trains.",
+                  "category": "historical",
+                  "coords": [
+                        27.905797,
+                        -26.160711
+                  ]
+            },
+            {
+                  "name": "Roodepoort Museum",
+                  "text": "The Roodepoort Museum covers the pioneer history of the region and the discovery of gold on the Witwatersrand.",
+                  "category": "museum",
+                  "coords": [
+                        27.900475,
+                        -26.15444
+                  ]
+            },
+            {
+                  "name": "Mandela House",
+                  "text": "Mandela House is the preserved former residence of Nelson Mandela, showcasing personal memorabilia from his time in Soweto.",
+                  "category": "museum",
+                  "coords": [
+                        27.908804,
+                        -26.238506
+                  ]
+            },
+            {
+                  "name": "Hector Pieterson Museum",
+                  "text": "The Hector Pieterson Museum commemorates the 1976 Soweto Uprising and the students who fought against apartheid education policies.",
+                  "category": "museum",
+                  "coords": [
+                        27.908706,
+                        -26.234898
+                  ]
+            },
+            {
+                  "name": "Orlando Towers",
+                  "text": "The brightly painted Orlando Towers are iconic decommissioned cooling towers in Soweto, famous for urban bungee jumping.",
+                  "category": "landmark",
+                  "coords": [
+                        27.926737,
+                        -26.254296
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [27.9081, -26.2356],
@@ -1263,7 +8454,88 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "majuba-hill-history-v2",
+    id: "majuba-hill-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Majuba",
+                  "text": "Ein markanter Berggipfel, der als Schauplatz einer entscheidenden Schlacht im 19. Jahrhundert berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.8517,
+                        -27.4775
+                  ]
+            },
+            {
+                  "name": "Mkhotane Protected Environment",
+                  "text": "Eine gesetzlich geschützte natürliche Umgebung, die die vielfältige bergige Flora und Fauna der Region bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        29.825946,
+                        -27.431993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Majuba",
+                  "text": "Kiemelkedő hegycsúcs, amely egy meghatározó 19. századi csata helyszíneként híres.",
+                  "category": "natural",
+                  "coords": [
+                        29.8517,
+                        -27.4775
+                  ]
+            },
+            {
+                  "name": "Mkhotane Protected Environment",
+                  "text": "Törvényesen védett természeti környezet, amely a terület változatos hegyvidéki növény- és állatvilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        29.825946,
+                        -27.431993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Majuba",
+                  "text": "Un vârf de munte proeminent, faimos ca fiind locul unei bătălii decisive din secolul al XIX-lea.",
+                  "category": "natural",
+                  "coords": [
+                        29.8517,
+                        -27.4775
+                  ]
+            },
+            {
+                  "name": "Mkhotane Protected Environment",
+                  "text": "Un mediu natural protejat legal, care salvează flora și fauna diversă și muntoasă a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        29.825946,
+                        -27.431993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Majuba",
+                  "text": "A prominent mountain peak famous as the site of a decisive 19th-century battle.",
+                  "category": "natural",
+                  "coords": [
+                        29.8517,
+                        -27.4775
+                  ]
+            },
+            {
+                  "name": "Mkhotane Protected Environment",
+                  "text": "A legally preserved natural environment safeguarding the area's diverse mountainous flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        29.825946,
+                        -27.431993
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NL",
     coords: [29.7717, -27.4617],
@@ -1323,7 +8595,232 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "spion-kop-battlefield-history-v2",
+    id: "spion-kop-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spioenkop",
+                  "text": "Ein steiler Berggipfel, der als Mittelpunkt für ein großes Gefecht im Anglo-Buren-Krieg diente.",
+                  "category": "natural",
+                  "coords": [
+                        29.5183,
+                        -28.6492
+                  ]
+            },
+            {
+                  "name": "Twin Peaks",
+                  "text": "Ein markanter Berggipfel mit zwei Kuppen, der die historischen Ebenen des Schlachtfeldes überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        29.538056,
+                        -28.6475
+                  ]
+            },
+            {
+                  "name": "Three Tree Hill",
+                  "text": "Ein markanter hügeliger Gipfel, der einen weiten Blick über das umliegende historische Naturgebiet Spioenkop bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.483786,
+                        -28.659261
+                  ]
+            },
+            {
+                  "name": "CHILDES HILL",
+                  "text": "Ein schroffer Berggipfel, der einen integralen Bestandteil der historischen Topographie der Region bildet.",
+                  "category": "natural",
+                  "coords": [
+                        29.459236,
+                        -28.633152
+                  ]
+            },
+            {
+                  "name": "Ntenjwa",
+                  "text": "Ein erhöhter felsiger Gipfel, der die historisch bedeutsamen Täler der Region überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        29.43219,
+                        -28.688744
+                  ]
+            },
+            {
+                  "name": "Spioenkop Nature Reserve",
+                  "text": "Ein geschütztes Naturreservat am Wasser, das sich um die großen Wasserflächen eines regionalen Stausees gruppiert.",
+                  "category": "natural",
+                  "coords": [
+                        29.48277,
+                        -28.682082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spioenkop",
+                  "text": "Meredek hegycsúcs, amely egy jelentős angol-búr háborús összecsapás középpontjaként szolgált.",
+                  "category": "natural",
+                  "coords": [
+                        29.5183,
+                        -28.6492
+                  ]
+            },
+            {
+                  "name": "Twin Peaks",
+                  "text": "Különleges, kettős csúcsú hegy, amely a történelmi csatatér síkságaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        29.538056,
+                        -28.6475
+                  ]
+            },
+            {
+                  "name": "Three Tree Hill",
+                  "text": "Kiemelkedő dombos csúcs, amely lenyűgöző kilátást nyújt a környező történelmi Spioenkop természeti területre.",
+                  "category": "natural",
+                  "coords": [
+                        29.483786,
+                        -28.659261
+                  ]
+            },
+            {
+                  "name": "CHILDES HILL",
+                  "text": "Zord hegycsúcs, amely a történelmi regionális domborzat szerves részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        29.459236,
+                        -28.633152
+                  ]
+            },
+            {
+                  "name": "Ntenjwa",
+                  "text": "Magas sziklás csúcs, amely a régió történelmileg jelentős völgyeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        29.43219,
+                        -28.688744
+                  ]
+            },
+            {
+                  "name": "Spioenkop Nature Reserve",
+                  "text": "Védett vízparti természetvédelmi terület, amely egy regionális víztározó hatalmas kiterjedései körül helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        29.48277,
+                        -28.682082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spioenkop",
+                  "text": "Un vârf de munte abrupt care a servit drept punct central pentru un angajament major din Războiul Anglo-Bur.",
+                  "category": "natural",
+                  "coords": [
+                        29.5183,
+                        -28.6492
+                  ]
+            },
+            {
+                  "name": "Twin Peaks",
+                  "text": "Un vârf de munte distinctiv cu două creste, cu vedere la câmpiile istorice ale câmpului de luptă.",
+                  "category": "natural",
+                  "coords": [
+                        29.538056,
+                        -28.6475
+                  ]
+            },
+            {
+                  "name": "Three Tree Hill",
+                  "text": "Un vârf deluros proeminent care oferă vederi ample asupra zonei naturale istorice din jur Spioenkop.",
+                  "category": "natural",
+                  "coords": [
+                        29.483786,
+                        -28.659261
+                  ]
+            },
+            {
+                  "name": "CHILDES HILL",
+                  "text": "Un vârf de munte stâncos care formează o parte integrantă a topografiei istorice regionale.",
+                  "category": "natural",
+                  "coords": [
+                        29.459236,
+                        -28.633152
+                  ]
+            },
+            {
+                  "name": "Ntenjwa",
+                  "text": "Un vârf stâncos înalt, cu vedere la văile semnificative istoric ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        29.43219,
+                        -28.688744
+                  ]
+            },
+            {
+                  "name": "Spioenkop Nature Reserve",
+                  "text": "O rezervație naturală protejată pe malul apei, grupată în jurul marilor întinderi ale unui lac de acumulare regional.",
+                  "category": "natural",
+                  "coords": [
+                        29.48277,
+                        -28.682082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spioenkop",
+                  "text": "A steep mountainous peak that served as the focal point for a major Anglo-Boer War engagement.",
+                  "category": "natural",
+                  "coords": [
+                        29.5183,
+                        -28.6492
+                  ]
+            },
+            {
+                  "name": "Twin Peaks",
+                  "text": "A distinctive dual-summited mountain peak overlooking the historic battlefield plains.",
+                  "category": "natural",
+                  "coords": [
+                        29.538056,
+                        -28.6475
+                  ]
+            },
+            {
+                  "name": "Three Tree Hill",
+                  "text": "A prominent hilly peak offering sweeping views over the surrounding historical Spioenkop nature area.",
+                  "category": "natural",
+                  "coords": [
+                        29.483786,
+                        -28.659261
+                  ]
+            },
+            {
+                  "name": "CHILDES HILL",
+                  "text": "A rugged mountain peak forming an integral part of the historical regional topography.",
+                  "category": "natural",
+                  "coords": [
+                        29.459236,
+                        -28.633152
+                  ]
+            },
+            {
+                  "name": "Ntenjwa",
+                  "text": "An elevated rocky peak overlooking the historically significant valleys of the region.",
+                  "category": "natural",
+                  "coords": [
+                        29.43219,
+                        -28.688744
+                  ]
+            },
+            {
+                  "name": "Spioenkop Dam Nature Reserve",
+                  "text": "A protected waterside nature reserve clustered around the large expanses of a regional reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        29.48277,
+                        -28.682082
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NL",
     coords: [29.5167, -28.65],
@@ -1383,7 +8880,304 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "constitution-hill-history-v2",
+    id: "constitution-hill-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fringe Theatre",
+                  "text": "In diesem intimen Bühnenraum werden regelmäßig unkonventionelle und experimentelle Theaterstücke aufgeführt.",
+                  "category": "cultural",
+                  "coords": [
+                        28.038692,
+                        -26.190291
+                  ]
+            },
+            {
+                  "name": "The Miner's Monument",
+                  "text": "Die bronzene Skulpturengruppe würdigt die harte Arbeit der Bergleute in den Goldminen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        28.040434,
+                        -26.193055
+                  ]
+            },
+            {
+                  "name": "Old Fort Prison",
+                  "text": "Das historische Gefängnismuseum aus dem Jahr 1893 zeigt die strengen Haftbedingungen vergangener Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        28.043121,
+                        -26.18971
+                  ]
+            },
+            {
+                  "name": "Women's Jail",
+                  "text": "Die Ausstellung in diesem 1910 eröffneten Gefängnisgebäude dokumentiert die politischen Inhaftierungen von Frauen.",
+                  "category": "museum",
+                  "coords": [
+                        28.041732,
+                        -26.189958
+                  ]
+            },
+            {
+                  "name": "Number Four Prison",
+                  "text": "Die düsteren Zellenblöcke dieses Museums veranschaulichen eindringlich die Rassentrennung im historischen Strafvollzug.",
+                  "category": "museum",
+                  "coords": [
+                        28.042529,
+                        -26.188429
+                  ]
+            },
+            {
+                  "name": "Johannesburg Art Gallery",
+                  "text": "In dem historischen Sandsteinbau befindet sich eine der größten Sammlungen zeitgenössischer und klassischer afrikanischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        28.047047,
+                        -26.196951
+                  ]
+            },
+            {
+                  "name": "Johannesburg South Africa Temple",
+                  "text": "Der mormonische Tempel besticht durch seine markante Ziegelfassade und die gepflegten Gärten.",
+                  "category": "religious",
+                  "coords": [
+                        28.039231,
+                        -26.178093
+                  ]
+            },
+            {
+                  "name": "Hillbrow Theatre",
+                  "text": "Das Gemeindetheater bietet eine Bühne für lokale Nachwuchstalente und soziale Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.047102,
+                        -26.191783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fringe Theatre",
+                  "text": "Ebben az intim színházi térben rendszeresen mutatnak be független és kísérleti darabokat.",
+                  "category": "cultural",
+                  "coords": [
+                        28.038692,
+                        -26.190291
+                  ]
+            },
+            {
+                  "name": "The Miner's Monument",
+                  "text": "A bronz szoborcsoport a régió aranybányáiban dolgozó bányászok kemény munkája előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        28.040434,
+                        -26.193055
+                  ]
+            },
+            {
+                  "name": "Old Fort Prison",
+                  "text": "Az 1893-ban épült egykori erőd és börtön ma múzeumként mutatja be a múlt szigorú fogvatartási körülményeit.",
+                  "category": "museum",
+                  "coords": [
+                        28.043121,
+                        -26.18971
+                  ]
+            },
+            {
+                  "name": "Women's Jail",
+                  "text": "Az 1910-ben átadott egykori börtönépület kiállításai a nők politikai fogvatartását dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        28.041732,
+                        -26.189958
+                  ]
+            },
+            {
+                  "name": "Number Four Prison",
+                  "text": "A múzeumként működő, komor cellablokkok megrázóan szemléltetik a faji szegregációt a történelmi büntetés-végrehajtásban.",
+                  "category": "museum",
+                  "coords": [
+                        28.042529,
+                        -26.188429
+                  ]
+            },
+            {
+                  "name": "Johannesburg Art Gallery",
+                  "text": "A történelmi homokkő épület Afrika egyik legnagyobb kortárs és klasszikus képzőművészeti gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        28.047047,
+                        -26.196951
+                  ]
+            },
+            {
+                  "name": "Johannesburg South Africa Temple",
+                  "text": "A mormon templom lenyűgöző látványt nyújt jellegzetes tégla homlokzatával és gondozott kertjeivel.",
+                  "category": "religious",
+                  "coords": [
+                        28.039231,
+                        -26.178093
+                  ]
+            },
+            {
+                  "name": "Hillbrow Theatre",
+                  "text": "Ez a közösségi színház a helyi fiatal tehetségeknek és társadalomtudatos előadásoknak biztosít színpadot.",
+                  "category": "cultural",
+                  "coords": [
+                        28.047102,
+                        -26.191783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fringe Theatre",
+                  "text": "În acest spațiu teatral intim se joacă cu regularitate piese neconvenționale și experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.038692,
+                        -26.190291
+                  ]
+            },
+            {
+                  "name": "The Miner's Monument",
+                  "text": "Acest grup statuar din bronz omagiază munca grea a minerilor din minele de aur ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        28.040434,
+                        -26.193055
+                  ]
+            },
+            {
+                  "name": "Old Fort Prison",
+                  "text": "Acest fost penitenciar și fort istoric din 1893, acum muzeu, expune condițiile aspre de detenție din trecut.",
+                  "category": "museum",
+                  "coords": [
+                        28.043121,
+                        -26.18971
+                  ]
+            },
+            {
+                  "name": "Women's Jail",
+                  "text": "Deschise în 1910, celulele acestei foste închisori sunt acum un muzeu care documentează detenția politică a femeilor.",
+                  "category": "museum",
+                  "coords": [
+                        28.041732,
+                        -26.189958
+                  ]
+            },
+            {
+                  "name": "Number Four Prison",
+                  "text": "Blocurile de celule sumbre ale acestui muzeu ilustrează în mod izbitor segregarea rasială din sistemul penal istoric.",
+                  "category": "museum",
+                  "coords": [
+                        28.042529,
+                        -26.188429
+                  ]
+            },
+            {
+                  "name": "Johannesburg Art Gallery",
+                  "text": "Această clădire istorică din gresie găzduiește una dintre cele mai mari colecții de artă africană clasică și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        28.047047,
+                        -26.196951
+                  ]
+            },
+            {
+                  "name": "Johannesburg South Africa Temple",
+                  "text": "Templul mormon impresionează prin fațada sa distinctivă din cărămidă și grădinile impecabil îngrijite.",
+                  "category": "religious",
+                  "coords": [
+                        28.039231,
+                        -26.178093
+                  ]
+            },
+            {
+                  "name": "Hillbrow Theatre",
+                  "text": "Acest teatru comunitar oferă o scenă pentru tinerele talente locale și reprezentații cu impact social.",
+                  "category": "cultural",
+                  "coords": [
+                        28.047102,
+                        -26.191783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fringe Theatre",
+                  "text": "This intimate stage venue regularly hosts unconventional, independent, and experimental theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        28.038692,
+                        -26.190291
+                  ]
+            },
+            {
+                  "name": "The Miner's Monument",
+                  "text": "This bronze sculptural group commemorates the grueling labor of miners in the region's gold mines.",
+                  "category": "historical",
+                  "coords": [
+                        28.040434,
+                        -26.193055
+                  ]
+            },
+            {
+                  "name": "Old Fort Prison",
+                  "text": "Originating in 1893, this historic fort and former prison now operates as a museum detailing harsh past incarcerations.",
+                  "category": "museum",
+                  "coords": [
+                        28.043121,
+                        -26.18971
+                  ]
+            },
+            {
+                  "name": "Women's Jail",
+                  "text": "Opened in 1910, this former jail complex is now a museum that intensely documents the political incarceration of women.",
+                  "category": "museum",
+                  "coords": [
+                        28.041732,
+                        -26.189958
+                  ]
+            },
+            {
+                  "name": "Number Four Prison",
+                  "text": "The grim cell blocks of this museum starkly illustrate the racial segregation enforced within the historic penal system.",
+                  "category": "museum",
+                  "coords": [
+                        28.042529,
+                        -26.188429
+                  ]
+            },
+            {
+                  "name": "Johannesburg Art Gallery",
+                  "text": "Housed in a historic sandstone building, it contains one of the continent's largest collections of contemporary and classical art.",
+                  "category": "museum",
+                  "coords": [
+                        28.047047,
+                        -26.196951
+                  ]
+            },
+            {
+                  "name": "Johannesburg South Africa Temple",
+                  "text": "This Mormon temple is notable for its striking brick facade and immaculately manicured surrounding gardens.",
+                  "category": "religious",
+                  "coords": [
+                        28.039231,
+                        -26.178093
+                  ]
+            },
+            {
+                  "name": "Hillbrow Theatre",
+                  "text": "This community-focused theatre provides a dynamic stage for local youth talent and socially conscious performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.047102,
+                        -26.191783
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [28.0433, -26.1894],
@@ -1443,7 +9237,52 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "klasies-river-caves-history-v2",
+    id: "klasies-river-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kareedouw Natural Heritage Site",
+                  "text": "Die Kareedouw Natural Heritage Site ist ein ausgewiesenes Naturschutzgebiet, das die einzigartige einheimische Flora und Landschaft der Region schützt.",
+                  "category": "natural",
+                  "coords": [
+                        24.395358,
+                        -34.011199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kareedouw Natural Heritage Site",
+                  "text": "A Kareedouw Természeti Örökségvédelmi Terület egy dedikált természetvédelmi terület, amely a régió egyedi őshonos növényvilágát és tájait őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        24.395358,
+                        -34.011199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kareedouw Natural Heritage Site",
+                  "text": "Situl de Patrimoniu Natural Kareedouw este o zonă de conservare dedicată, care păstrează flora și peisajele indigene unice ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        24.395358,
+                        -34.011199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kareedouw Natural Heritage Site",
+                  "text": "Kareedouw Natural Heritage Site is a dedicated conservation area preserving the region's unique indigenous flora and landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        24.395358,
+                        -34.011199
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-EC",
     coords: [24.3833, -34.1],
@@ -1503,7 +9342,52 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "wonderwerk-cave-history-v2",
+    id: "wonderwerk-cave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wonderwerk Cave",
+                  "text": "Diese alte archäologische Höhle erstreckt sich tief in einen Dolomithang und enthält Beweise für die frühe menschliche Nutzung von Feuer.",
+                  "category": "landmark",
+                  "coords": [
+                        23.553978,
+                        -27.846472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wonderwerk Cave",
+                  "text": "A dolomit hegyoldal mélyére nyúló ősi régészeti barlang a korai emberi tűzhasználat bizonyítékait rejti.",
+                  "category": "landmark",
+                  "coords": [
+                        23.553978,
+                        -27.846472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wonderwerk Cave",
+                  "text": "Întinzându-se adânc într-un versant de dolomită, această peșteră arheologică antică conține dovezi ale utilizării timpurii a focului de către om.",
+                  "category": "landmark",
+                  "coords": [
+                        23.553978,
+                        -27.846472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wonderwerk Cave",
+                  "text": "Stretching deep into a dolomite hillside, this ancient archaeological cave contains evidence of early human fire usage.",
+                  "category": "landmark",
+                  "coords": [
+                        23.553978,
+                        -27.846472
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-NC",
     coords: [23.5417, -27.8444],
@@ -1563,7 +9447,268 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "matjes-river-rock-shelter-history-v2",
+    id: "matjes-river-rock-shelter-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jukani Wildlife Sanctuary",
+                  "text": "Dieses spezialisierte Schutzgebiet bietet geretteten Spitzenprädatoren, insbesondere Großkatzen wie Löwen und Tigern, ein dauerhaftes, weitläufiges Zuhause.",
+                  "category": "recreational",
+                  "coords": [
+                        23.436229,
+                        -33.978194
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "Dieser Aussichtspunkt an der Küste blickt auf einen massiven natürlichen Steinbogen, der durch jahrhundertelange Brandungswellen aus dem Felsenufer geschnitzt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        23.471156,
+                        -34.002361
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Nature Reserve)",
+                  "text": "Dieser terrestrische Teil des Reservats zeichnet sich durch tiefe, dramatische Flussschluchten und ein dichtes Blätterdach aus uraltem Küstenwald aus.",
+                  "category": "natural",
+                  "coords": [
+                        23.480556,
+                        -34.001389
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Marine Reserve)",
+                  "text": "Dieser geschützte Abschnitt des Indischen Ozeans bewahrt felsige Riffe und lebendige aquatische Ökosysteme vor kommerzieller Ausbeutung.",
+                  "category": "natural",
+                  "coords": [
+                        23.495833,
+                        -34.004167
+                  ]
+            },
+            {
+                  "name": "De Vasselot Nature Reserve",
+                  "text": "Eingebettet entlang der Küste, schützt dieses Naturschutzgebiet die malerische Groot-Flussmündung und die umliegenden einheimischen Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        23.498611,
+                        -33.983333
+                  ]
+            },
+            {
+                  "name": "Sappers' Hill",
+                  "text": "Dieser markante Gipfel erhebt sich innerhalb der rauen Küstengebirge und bietet eine anspruchsvolle Wanderung sowie ein herrliches Panorama.",
+                  "category": "natural",
+                  "coords": [
+                        23.482369,
+                        -33.991323
+                  ]
+            },
+            {
+                  "name": "Keurboomstrand",
+                  "text": "Dieser malerische Küstenabschnitt zeichnet sich durch seinen goldenen Sand, dichte nahegelegene Wälder und die dramatische Dünung des Indischen Ozeans aus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.41522,
+                        -34.020454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jukani Wildlife Sanctuary",
+                  "text": "Ez a specializált menedékhely végleges, tágas otthont nyújt a megmentett csúcsragadozóknak, különösen az olyan nagymacskáknak, mint az oroszlánok és a tigrisek.",
+                  "category": "recreational",
+                  "coords": [
+                        23.436229,
+                        -33.978194
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "Ez a tengerparti kilátó egy hatalmas, természetes kőívre néz, amelyet évszázadokig tartó hullámzás vájt ki a sziklás partvonalból.",
+                  "category": "natural",
+                  "coords": [
+                        23.471156,
+                        -34.002361
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Nature Reserve)",
+                  "text": "A rezervátum ezen szárazföldi részét mély, drámai folyószurdokok és ősi tengerparti erdők sűrű lombkoronája jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        23.480556,
+                        -34.001389
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Marine Reserve)",
+                  "text": "Az Indiai-óceán ezen védett szakasza megóvja a sziklás zátonyokat és a nyüzsgő vízi ökoszisztémákat a kereskedelmi célú kizsákmányolástól.",
+                  "category": "natural",
+                  "coords": [
+                        23.495833,
+                        -34.004167
+                  ]
+            },
+            {
+                  "name": "De Vasselot Nature Reserve",
+                  "text": "A partvonal mentén elterülő természetvédelmi terület a festői Groot-folyó torkolatát és a környező őshonos erdőket védi.",
+                  "category": "natural",
+                  "coords": [
+                        23.498611,
+                        -33.983333
+                  ]
+            },
+            {
+                  "name": "Sappers' Hill",
+                  "text": "A zord tengerparti hegyláncok között magasodó jellegzetes csúcs kihívást jelentő túrát és panorámás magasságot kínál.",
+                  "category": "natural",
+                  "coords": [
+                        23.482369,
+                        -33.991323
+                  ]
+            },
+            {
+                  "name": "Keurboomstrand",
+                  "text": "Ezt a festői partszakaszt aranyhomokja, a közeli sűrű erdők és az Indiai-óceán drámai hullámzása határozza meg.",
+                  "category": "recreational",
+                  "coords": [
+                        23.41522,
+                        -34.020454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jukani Wildlife Sanctuary",
+                  "text": "Acest sanctuar specializat oferă o casă permanentă și spațioasă pentru prădătorii de top salvați, în special pentru felinele mari precum leii și tigrii.",
+                  "category": "recreational",
+                  "coords": [
+                        23.436229,
+                        -33.978194
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "Acest punct de belvedere de coastă domină o arcadă masivă de piatră naturală, sculptată din țărmul stâncos de secole de valuri zdrobitoare.",
+                  "category": "natural",
+                  "coords": [
+                        23.471156,
+                        -34.002361
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Nature Reserve)",
+                  "text": "Acest sector terestru al rezervației se distinge prin defileuri adânci și dramatice ale râurilor, alături de un coronament dens al unei păduri de coastă străvechi.",
+                  "category": "natural",
+                  "coords": [
+                        23.480556,
+                        -34.001389
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Marine Reserve)",
+                  "text": "Această porțiune protejată a Oceanului Indian apără recifele stâncoase și ecosistemele acvatice vibrante de exploatarea comercială.",
+                  "category": "natural",
+                  "coords": [
+                        23.495833,
+                        -34.004167
+                  ]
+            },
+            {
+                  "name": "De Vasselot Nature Reserve",
+                  "text": "Cuibărită de-a lungul coastei, această rezervație naturală protejează estuarul pitoresc al râului Groot și pădurile indigene înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        23.498611,
+                        -33.983333
+                  ]
+            },
+            {
+                  "name": "Sappers' Hill",
+                  "text": "Înălțându-se în cadrul lanțurilor muntoase de coastă accidentate, acest vârf distinctiv oferă o drumeție provocatoare și o perspectivă panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        23.482369,
+                        -33.991323
+                  ]
+            },
+            {
+                  "name": "Keurboomstrand",
+                  "text": "Această porțiune de coastă pitorească este definită de nisipurile sale aurii, pădurile dese din apropiere și valurile dramatice ale Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        23.41522,
+                        -34.020454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jukani Wildlife Sanctuary",
+                  "text": "This specialized sanctuary provides a permanent, spacious home for rescued apex predators, particularly big cats like lions and tigers.",
+                  "category": "recreational",
+                  "coords": [
+                        23.436229,
+                        -33.978194
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "This coastal viewpoint overlooks a massive natural stone arch carved out of the rocky shoreline by centuries of crashing waves.",
+                  "category": "natural",
+                  "coords": [
+                        23.471156,
+                        -34.002361
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Nature Reserve)",
+                  "text": "This terrestrial sector of the reserve features deep, dramatic river gorges and a dense canopy of ancient coastal forest.",
+                  "category": "natural",
+                  "coords": [
+                        23.480556,
+                        -34.001389
+                  ]
+            },
+            {
+                  "name": "Tsitsikamma National Park (Marine Reserve)",
+                  "text": "This protected stretch of the Indian Ocean safeguards rocky reefs and vibrant aquatic ecosystems from commercial exploitation.",
+                  "category": "natural",
+                  "coords": [
+                        23.495833,
+                        -34.004167
+                  ]
+            },
+            {
+                  "name": "De Vasselot Nature Reserve",
+                  "text": "Nestled along the coastline, this nature reserve protects the scenic Groot River estuary and its surrounding indigenous woodlands.",
+                  "category": "natural",
+                  "coords": [
+                        23.498611,
+                        -33.983333
+                  ]
+            },
+            {
+                  "name": "Sappers' Hill",
+                  "text": "Rising within the rugged coastal mountain ranges, this distinctive peak offers a challenging hike and panoramic elevation.",
+                  "category": "natural",
+                  "coords": [
+                        23.482369,
+                        -33.991323
+                  ]
+            },
+            {
+                  "name": "Keurboomstrand",
+                  "text": "This picturesque coastal stretch is defined by its golden sands, dense nearby forests, and the dramatic swell of the Indian Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        23.41522,
+                        -34.020454
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-WC",
     coords: [23.4667, -34.0083],
@@ -1623,7 +9768,808 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "union-buildings-history-v2",
+    id: "union-buildings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Intiem Love Bridge",
+                  "text": "Diese romantische Fußgängerbrücke, die sich über einen ruhigen Bach spannt, ist mit unzähligen gravierten Vorhängeschlössern geschmückt, die von Paaren hinterlassen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        28.220645,
+                        -25.763163
+                  ]
+            },
+            {
+                  "name": "Bird Hide",
+                  "text": "Dieser getarnte Holzunterstand bietet Naturliebhabern einen verborgenen Aussichtspunkt, um lokale Wasservögel und Watvogelarten in den Feuchtgebieten zu fotografieren.",
+                  "category": "natural",
+                  "coords": [
+                        28.227622,
+                        -25.770359
+                  ]
+            },
+            {
+                  "name": "Pretoria Visual Arts Soceity",
+                  "text": "Dieses skulpturale Denkmal feiert die lebendige kreative Gemeinschaft der Region und hebt die Beiträge lokaler bildender Künstler und Bildhauer hervor.",
+                  "category": "historical",
+                  "coords": [
+                        28.222395,
+                        -25.768102
+                  ]
+            },
+            {
+                  "name": "old arts",
+                  "text": "Dieses historische Universitätsgebäude mit seinen stattlichen Holzböden und klassischer Architektur dient heute als Museum für umfangreiche Sammlungen bildender Kunst und Keramik.",
+                  "category": "museum",
+                  "coords": [
+                        28.230274,
+                        -25.754116
+                  ]
+            },
+            {
+                  "name": "J.C. Smuts Memorial",
+                  "text": "Prominent in den terrassenförmig angelegten Gärten gelegen, ist diese eindrucksvolle Bronzestatue eine Hommage an den einflussreichen südafrikanischen Staatsmann und Militärführer Jan Smuts.",
+                  "category": "historical",
+                  "coords": [
+                        28.209623,
+                        -25.740114
+                  ]
+            },
+            {
+                  "name": "Delville Wood Memorial",
+                  "text": "Dieser feierliche Kenotaph aus Stein ist eine bewegende Hommage an die immensen Opfer der südafrikanischen Truppen während der zermürbenden Schlacht im Wald von Delville im Ersten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        28.211682,
+                        -25.741355
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Amphitheatre",
+                  "text": "Dieses geschwungene Freiluft-Amphitheater auf dem großen Anwesen der Union Buildings ist berühmt dafür, historische nationale Ereignisse wie die Amtseinführungen von Präsidenten auszurichten.",
+                  "category": "cultural",
+                  "coords": [
+                        28.21408,
+                        -25.741611
+                  ]
+            },
+            {
+                  "name": "Blockhouse",
+                  "text": "Diese militärischen Blockhausruinen zeichnen sich durch dicke, defensive Mauerwerke aus und repräsentieren ein taktisches Befestigungssystem aus dem Anglo-Buren-Krieg.",
+                  "category": "historical",
+                  "coords": [
+                        28.213318,
+                        -25.738916
+                  ]
+            },
+            {
+                  "name": "Dutch people who died for the South African Republic (ZAR)",
+                  "text": "Dieses feierliche Denkmal ehrt ausdrücklich die niederländischen Freiwilligen, die im Kampf für die Südafrikanische Republik während intensiver regionaler Konflikte ihr Leben opferten.",
+                  "category": "historical",
+                  "coords": [
+                        28.218231,
+                        -25.760692
+                  ]
+            },
+            {
+                  "name": "NG Bronberg",
+                  "text": "Dieses reformierte Kirchengebäude, das für seine markante modernistische Architektur der Jahrhundertmitte bekannt ist, verfügt über ein hohes, steiles Dach, das das lokale Straßenbild dominiert.",
+                  "category": "religious",
+                  "coords": [
+                        28.209679,
+                        -25.754213
+                  ]
+            },
+            {
+                  "name": "Lion Bridge",
+                  "text": "Diese stattliche Steinbrücke überquert den örtlichen Fluss und wird an beiden Enden von kunstvoll gegossenen Bronzelöwen-Skulpturen bewacht, die über querende Fußgänger wachen.",
+                  "category": "historical",
+                  "coords": [
+                        28.201533,
+                        -25.745527
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "Entlang eines hoch gelegenen Bergrückens gelegen, bietet diese malerische Aussichtsplattform Besuchern weite Panoramablicke über das weitläufige Stadtzentrum und seine grünen Vororte.",
+                  "category": "natural",
+                  "coords": [
+                        28.192052,
+                        -25.693517
+                  ]
+            },
+            {
+                  "name": "The Javett Art Centre",
+                  "text": "Diese markante, als wörtliche Brücke über die Lynnwood Road erbaute, zeitgenössische Galerie zeigt großartige afrikanische Kunstsammlungen, darunter das berühmte Mapungubwe-Gold.",
+                  "category": "museum",
+                  "coords": [
+                        28.228688,
+                        -25.756735
+                  ]
+            },
+            {
+                  "name": "AFM Sunnyside",
+                  "text": "Dieses aktive Pfingstkirchengebäude fungiert als zentraler Ort der Anbetung, der durch seinen großen Gemeindesaal und lebendige Gemeinschaftsprogramme gekennzeichnet ist.",
+                  "category": "religious",
+                  "coords": [
+                        28.204711,
+                        -25.753458
+                  ]
+            },
+            {
+                  "name": "Delagoa",
+                  "text": "Das Delagoa-Kunstzentrum in Pretoria präsentiert lokale und regionale kreative Werke.",
+                  "category": "cultural",
+                  "coords": [
+                        28.22284,
+                        -25.744886
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Diese Kirche Jesu Christi der Heiligen der Letzten Tage ist Teil der mormonischen Präsenz in Südafrika.",
+                  "category": "religious",
+                  "coords": [
+                        28.207306,
+                        -25.755594
+                  ]
+            },
+            {
+                  "name": "Zambezi Akwarium & Voëlpark",
+                  "text": "Dieser städtische Zoo vereint eine Vielzahl von Wasserlebewesen und einheimischen sowie exotischen Vogelarten.",
+                  "category": "recreational",
+                  "coords": [
+                        28.194111,
+                        -25.676379
+                  ]
+            },
+            {
+                  "name": "Jan Cilliers",
+                  "text": "Der Jan Cilliers Park zeichnet sich durch seine einheimische südafrikanische Flora und seine kaskadenartigen Wasserspiele aus.",
+                  "category": "park",
+                  "coords": [
+                        28.224163,
+                        -25.778485
+                  ]
+            },
+            {
+                  "name": "Chamberlain's Bird Sanctuary",
+                  "text": "Dieses städtische Vogelschutzgebiet bietet einen Rückzugsort für zahlreiche einheimische Vogelarten inmitten der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        28.217062,
+                        -25.730231
+                  ]
+            },
+            {
+                  "name": "Venning Park",
+                  "text": "Der Venning Park in Pretoria ist berühmt für seinen geometrisch angelegten Rosengarten.",
+                  "category": "park",
+                  "coords": [
+                        28.221155,
+                        -25.746411
+                  ]
+            },
+            {
+                  "name": "Pretoria Art Museum",
+                  "text": "Dieses Kunstmuseum beherbergt eine bedeutende Sammlung südafrikanischer Kunstwerke aus dem 20. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        28.213631,
+                        -25.748082
+                  ]
+            },
+            {
+                  "name": "Fort Wonderboompoort",
+                  "text": "Die Ruinen dieser historischen Befestigungsanlage aus der Zeit des Zweiten Burenkrieges überblicken die nördliche Route nach Pretoria.",
+                  "category": "historical",
+                  "coords": [
+                        28.194251,
+                        -25.692282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Intiem Love Bridge",
+                  "text": "Egy csendes patakon átívelő romantikus gyalogoshíd híres arról, hogy számtalan, a párok által otthagyott gravírozott lakat díszíti a tartós szerelmük szimbólumaként.",
+                  "category": "landmark",
+                  "coords": [
+                        28.220645,
+                        -25.763163
+                  ]
+            },
+            {
+                  "name": "Bird Hide",
+                  "text": "Ez az álcázott fa menedékhely egy rejtett kilátópontot biztosít a vadvilág rajongóinak a vizes élőhelyeken lévő helyi vízimadarak és gázlómadárfajok fotózásához.",
+                  "category": "natural",
+                  "coords": [
+                        28.227622,
+                        -25.770359
+                  ]
+            },
+            {
+                  "name": "Pretoria Visual Arts Soceity",
+                  "text": "Ez a szobrászati műemlék a régió pezsgő kreatív közösségét ünnepli, kiemelve a helyi képzőművészek és szobrászok folyamatos hozzájárulását.",
+                  "category": "historical",
+                  "coords": [
+                        28.222395,
+                        -25.768102
+                  ]
+            },
+            {
+                  "name": "old arts",
+                  "text": "Impozáns fapadlóival és klasszikus építészetével ez a történelmi egyetemi épület ma már külön múzeumként szolgál, amely kiterjedt képzőművészeti és kerámiagyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        28.230274,
+                        -25.754116
+                  ]
+            },
+            {
+                  "name": "J.C. Smuts Memorial",
+                  "text": "A teraszos kertekben feltűnően elhelyezett félelmetes bronzszobor Jan Smuts, a befolyásos dél-afrikai államférfi és katonai vezető előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        28.209623,
+                        -25.740114
+                  ]
+            },
+            {
+                  "name": "Delville Wood Memorial",
+                  "text": "Ez az ünnepélyes kő kenotáfium a dél-afrikai csapatok által az első világháború kimerítő delville-i erdei csatájában hozott hatalmas áldozatok megható emlékműveként áll.",
+                  "category": "historical",
+                  "coords": [
+                        28.211682,
+                        -25.741355
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Amphitheatre",
+                  "text": "A hatalmas Union Buildings birtokon fekvő, ívelt szabadtéri amfiteátrum híres arról, hogy történelmi országos eseményeknek ad otthont, beleértve az elnöki beiktatásokat is.",
+                  "category": "cultural",
+                  "coords": [
+                        28.21408,
+                        -25.741611
+                  ]
+            },
+            {
+                  "name": "Blockhouse",
+                  "text": "Ezek a vastag, védelmi falazattal jellemezhető katonai blokkház-romok egy, az angol-búr háború alatt épült taktikai erődrendszert képviselnek.",
+                  "category": "historical",
+                  "coords": [
+                        28.213318,
+                        -25.738916
+                  ]
+            },
+            {
+                  "name": "Dutch people who died for the South African Republic (ZAR)",
+                  "text": "Ez az ünnepélyes örökségi emlékmű kifejezetten a holland önkéntesek előtt tiszteleg, akik életüket áldozták a Dél-afrikai Köztársaságért folytatott intenzív regionális konfliktusokban.",
+                  "category": "historical",
+                  "coords": [
+                        28.218231,
+                        -25.760692
+                  ]
+            },
+            {
+                  "name": "NG Bronberg",
+                  "text": "Ez az egyedi, századközepi modernista építészetéről nevezetes református templomépület meredeken emelkedő tetővel rendelkezik, amely uralja a helyi utcaképet.",
+                  "category": "religious",
+                  "coords": [
+                        28.209679,
+                        -25.754213
+                  ]
+            },
+            {
+                  "name": "Lion Bridge",
+                  "text": "A helyi folyón átívelő, impozáns kőhidat mindkét végén aprólékosan megmunkált, bronz oroszlánszobrok őrzik, amelyek az átkelő gyalogosokra vigyáznak.",
+                  "category": "historical",
+                  "coords": [
+                        28.201533,
+                        -25.745527
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "A magas gerincen elhelyezkedő festői kilátó széles, panorámás kilátást nyújt a látogatóknak a kiterjedt városközpontra és a lombos külvárosokra.",
+                  "category": "natural",
+                  "coords": [
+                        28.192052,
+                        -25.693517
+                  ]
+            },
+            {
+                  "name": "The Javett Art Centre",
+                  "text": "A Lynnwood Road feletti szó szerinti hídként lenyűgözően megépült kortárs galéria csodálatos afrikai művészeti gyűjteményeket mutat be, köztük a híres Mapungubwe aranyat.",
+                  "category": "museum",
+                  "coords": [
+                        28.228688,
+                        -25.756735
+                  ]
+            },
+            {
+                  "name": "AFM Sunnyside",
+                  "text": "Ez az aktív pünkösdi templomépület központi istentiszteleti helyként működik, amelyet nagy gyülekezeti terme és pezsgő közösségi programjai határoznak meg.",
+                  "category": "religious",
+                  "coords": [
+                        28.204711,
+                        -25.753458
+                  ]
+            },
+            {
+                  "name": "Delagoa",
+                  "text": "A pretoriai Delagoa művészeti központ helyi és regionális alkotásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.22284,
+                        -25.744886
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ez az Utolsó Napi Szentek Jézus Krisztus Egyháza a dél-afrikai mormon közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        28.207306,
+                        -25.755594
+                  ]
+            },
+            {
+                  "name": "Zambezi Akwarium & Voëlpark",
+                  "text": "Ez a városi állatkert vízi élőlények és egzotikus, illetve őshonos madarak sokaságát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        28.194111,
+                        -25.676379
+                  ]
+            },
+            {
+                  "name": "Jan Cilliers",
+                  "text": "A Jan Cilliers parkot az őshonos dél-afrikai növényvilág és a lépcsőzetes vízjátékok jellemzik.",
+                  "category": "park",
+                  "coords": [
+                        28.224163,
+                        -25.778485
+                  ]
+            },
+            {
+                  "name": "Chamberlain's Bird Sanctuary",
+                  "text": "Ez a madárrezervátum számos őshonos madárfaj számára nyújt menedéket a városközpont közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.217062,
+                        -25.730231
+                  ]
+            },
+            {
+                  "name": "Venning Park",
+                  "text": "A pretoriai Venning Park geometriai elrendezésű rózsakertjéről híres.",
+                  "category": "park",
+                  "coords": [
+                        28.221155,
+                        -25.746411
+                  ]
+            },
+            {
+                  "name": "Pretoria Art Museum",
+                  "text": "Ez a művészeti múzeum a huszadik századi dél-afrikai alkotások jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        28.213631,
+                        -25.748082
+                  ]
+            },
+            {
+                  "name": "Fort Wonderboompoort",
+                  "text": "Ennek a második búr háborús történelmi erődítménynek a romjai a Pretoriába vezető északi útvonalra néznek.",
+                  "category": "historical",
+                  "coords": [
+                        28.194251,
+                        -25.692282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Intiem Love Bridge",
+                  "text": "Trecând peste un pârâu liniștit, această pod pietonal romantic este faimos împodobit cu nenumărate lacăte gravate lăsate de cupluri pentru a-și simboliza afecțiunea de durată.",
+                  "category": "landmark",
+                  "coords": [
+                        28.220645,
+                        -25.763163
+                  ]
+            },
+            {
+                  "name": "Bird Hide",
+                  "text": "Acest adăpost camuflat din lemn oferă pasionaților de faună sălbatică un punct de observație ascuns pentru fotografierea păsărilor de apă locale peste zonele umede.",
+                  "category": "natural",
+                  "coords": [
+                        28.227622,
+                        -25.770359
+                  ]
+            },
+            {
+                  "name": "Pretoria Visual Arts Soceity",
+                  "text": "Acest monument sculptural celebrează comunitatea creativă vibrantă a regiunii, subliniind contribuțiile continue ale artiștilor vizuali și sculptorilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        28.222395,
+                        -25.768102
+                  ]
+            },
+            {
+                  "name": "old arts",
+                  "text": "Având podele din lemn impunătoare și o arhitectură clasică, această clădire istorică universitară servește acum ca un muzeu dedicat care găzduiește colecții extinse de artă plastică și ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        28.230274,
+                        -25.754116
+                  ]
+            },
+            {
+                  "name": "J.C. Smuts Memorial",
+                  "text": "Situată vizibil pe grădinile terasate, această formidabilă statuie din bronz aduce un omagiu influentului om de stat și lider militar sud-african Jan Smuts.",
+                  "category": "historical",
+                  "coords": [
+                        28.209623,
+                        -25.740114
+                  ]
+            },
+            {
+                  "name": "Delville Wood Memorial",
+                  "text": "Acest cenotaf solemn din piatră stă ca un tribut emoționant pentru sacrificiile imense făcute de trupele sud-africane în timpul crâncenei bătălii din Primul Război Mondial de la Delville Wood.",
+                  "category": "historical",
+                  "coords": [
+                        28.211682,
+                        -25.741355
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Amphitheatre",
+                  "text": "Situat pe marea moșie Union Buildings, acest amfiteatru curbat în aer liber este faimos pentru găzduirea evenimentelor naționale istorice, inclusiv inaugurările prezidențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.21408,
+                        -25.741611
+                  ]
+            },
+            {
+                  "name": "Blockhouse",
+                  "text": "Caracterizate prin ziduri groase de zidărie defensivă, aceste ruine militare de tip blockhouse reprezintă un sistem tactic de fortificație construit în timpul Războiului Anglo-Bur.",
+                  "category": "historical",
+                  "coords": [
+                        28.213318,
+                        -25.738916
+                  ]
+            },
+            {
+                  "name": "Dutch people who died for the South African Republic (ZAR)",
+                  "text": "Acest monument solemn de patrimoniu îi onorează explicit pe voluntarii olandezi care și-au sacrificat viața luptând pentru Republica Sud-Africană în timpul conflictelor regionale intense.",
+                  "category": "historical",
+                  "coords": [
+                        28.218231,
+                        -25.760692
+                  ]
+            },
+            {
+                  "name": "NG Bronberg",
+                  "text": "Remarcabilă pentru arhitectura sa modernistă austeră de la mijlocul secolului, această clădire a bisericii reformate are un acoperiș abrupt și înalt, care domină peisajul stradal local.",
+                  "category": "religious",
+                  "coords": [
+                        28.209679,
+                        -25.754213
+                  ]
+            },
+            {
+                  "name": "Lion Bridge",
+                  "text": "Traversând râul local, acest pod impunător din piatră este păzit la ambele capete de sculpturi în bronz de lei, turnate complicat, care veghează asupra pietonilor care îl trec.",
+                  "category": "historical",
+                  "coords": [
+                        28.201533,
+                        -25.745527
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "Poziționată de-a lungul unei creste înalte, această platformă pitorească de vizionare oferă vizitatorilor o panoramă vastă asupra centrului orașului extins și a suburbiilor sale înverzite.",
+                  "category": "natural",
+                  "coords": [
+                        28.192052,
+                        -25.693517
+                  ]
+            },
+            {
+                  "name": "The Javett Art Centre",
+                  "text": "Construită în mod izbitor ca un pod propriu-zis peste Lynnwood Road, această galerie contemporană expune colecții magnifice de artă africană, inclusiv faimosul aur de la Mapungubwe.",
+                  "category": "museum",
+                  "coords": [
+                        28.228688,
+                        -25.756735
+                  ]
+            },
+            {
+                  "name": "AFM Sunnyside",
+                  "text": "Această clădire activă a bisericii penticostale funcționează ca un loc central de cult, definit prin marea sa sală de congregație și programele vibrante de sensibilizare a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        28.204711,
+                        -25.753458
+                  ]
+            },
+            {
+                  "name": "Delagoa",
+                  "text": "Centrul de arte Delagoa din Pretoria găzduiește expoziții de lucrări creative locale și regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.22284,
+                        -25.744886
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Această Biserică a lui Isus Hristos a Sfinților din Zilele din Urmă face parte din prezența mormonă în Africa de Sud.",
+                  "category": "religious",
+                  "coords": [
+                        28.207306,
+                        -25.755594
+                  ]
+            },
+            {
+                  "name": "Zambezi Akwarium & Voëlpark",
+                  "text": "Această grădină zoologică urbană combină o varietate de viețuitoare acvatice cu specii de păsări indigene și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        28.194111,
+                        -25.676379
+                  ]
+            },
+            {
+                  "name": "Jan Cilliers",
+                  "text": "Parcul Jan Cilliers se distinge prin flora indigenă sud-africană și prin jocurile sale de apă în cascadă.",
+                  "category": "park",
+                  "coords": [
+                        28.224163,
+                        -25.778485
+                  ]
+            },
+            {
+                  "name": "Chamberlain's Bird Sanctuary",
+                  "text": "Acest sanctuar de păsări oferă un refugiu pentru numeroase specii de păsări indigene în apropierea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        28.217062,
+                        -25.730231
+                  ]
+            },
+            {
+                  "name": "Venning Park",
+                  "text": "Parcul Venning din Pretoria este renumit pentru grădina sa de trandafiri amenajată geometric.",
+                  "category": "park",
+                  "coords": [
+                        28.221155,
+                        -25.746411
+                  ]
+            },
+            {
+                  "name": "Pretoria Art Museum",
+                  "text": "Acest muzeu de artă găzduiește o colecție majoră de lucrări sud-africane din secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        28.213631,
+                        -25.748082
+                  ]
+            },
+            {
+                  "name": "Fort Wonderboompoort",
+                  "text": "Ruinele acestei fortificații istorice din al Doilea Război al Burilor domină ruta nordică spre Pretoria.",
+                  "category": "historical",
+                  "coords": [
+                        28.194251,
+                        -25.692282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Intiem Love Bridge",
+                  "text": "Spanning a quiet stream, this romantic pedestrian bridge is famously adorned with countless engraved padlocks left by couples to symbolize their lasting affection.",
+                  "category": "landmark",
+                  "coords": [
+                        28.220645,
+                        -25.763163
+                  ]
+            },
+            {
+                  "name": "Bird Hide",
+                  "text": "This camouflaged timber shelter provides wildlife enthusiasts with a concealed vantage point for photographing local waterfowl and wading species across the wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        28.227622,
+                        -25.770359
+                  ]
+            },
+            {
+                  "name": "Pretoria Visual Arts Soceity",
+                  "text": "This sculptural monument celebrates the region's vibrant creative community, highlighting the ongoing contributions of local visual artists and sculptors.",
+                  "category": "historical",
+                  "coords": [
+                        28.222395,
+                        -25.768102
+                  ]
+            },
+            {
+                  "name": "old arts",
+                  "text": "Featuring stately wooden floors and classical architecture, this historic university building now serves as a dedicated museum housing extensive fine art and ceramics collections.",
+                  "category": "museum",
+                  "coords": [
+                        28.230274,
+                        -25.754116
+                  ]
+            },
+            {
+                  "name": "J.C. Smuts Memorial",
+                  "text": "Prominently situated on the terraced gardens, this formidable bronze statue pays tribute to the influential South African statesman and military leader Jan Smuts.",
+                  "category": "historical",
+                  "coords": [
+                        28.209623,
+                        -25.740114
+                  ]
+            },
+            {
+                  "name": "Delville Wood Memorial",
+                  "text": "This solemn stone cenotaph stands as a poignant tribute to the immense sacrifices made by South African troops during the grueling First World War Battle of Delville Wood.",
+                  "category": "historical",
+                  "coords": [
+                        28.211682,
+                        -25.741355
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Amphitheatre",
+                  "text": "Set within the grand Union Buildings estate, this curved outdoor amphitheatre is famous for hosting historic national events, including presidential inaugurations.",
+                  "category": "cultural",
+                  "coords": [
+                        28.21408,
+                        -25.741611
+                  ]
+            },
+            {
+                  "name": "Blockhouse",
+                  "text": "Characterized by thick, defensive masonry walls, these military blockhouse ruins represent a tactical fortification system built during the Anglo-Boer War.",
+                  "category": "historical",
+                  "coords": [
+                        28.213318,
+                        -25.738916
+                  ]
+            },
+            {
+                  "name": "Dutch people who died for the South African Republic (ZAR)",
+                  "text": "This solemn heritage monument explicitly honors the Dutch volunteers who sacrificed their lives fighting for the South African Republic during intense regional conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        28.218231,
+                        -25.760692
+                  ]
+            },
+            {
+                  "name": "NG Bronberg",
+                  "text": "Notable for its stark, mid-century modernist architecture, this reformed church building features a soaring, steeply pitched roof that dominates the local streetscape.",
+                  "category": "religious",
+                  "coords": [
+                        28.209679,
+                        -25.754213
+                  ]
+            },
+            {
+                  "name": "Lion Bridge",
+                  "text": "Spanning the local river, this stately stone bridge is guarded at both ends by intricately cast bronze lion sculptures that watch over crossing pedestrians.",
+                  "category": "historical",
+                  "coords": [
+                        28.201533,
+                        -25.745527
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "Positioned along a high elevated ridge, this scenic viewing platform grants visitors sweeping panoramic vistas over the sprawling city center and its leafy suburbs.",
+                  "category": "natural",
+                  "coords": [
+                        28.192052,
+                        -25.693517
+                  ]
+            },
+            {
+                  "name": "The Javett Art Centre",
+                  "text": "Strikingly constructed as a literal bridge over Lynnwood Road, this contemporary gallery showcases magnificent African art collections, including the famous Mapungubwe gold.",
+                  "category": "museum",
+                  "coords": [
+                        28.228688,
+                        -25.756735
+                  ]
+            },
+            {
+                  "name": "Apostolic Faith Mission",
+                  "text": "This active Pentecostal church building functions as a central place of worship, defined by its large congregational hall and vibrant community outreach programs.",
+                  "category": "religious",
+                  "coords": [
+                        28.204711,
+                        -25.753458
+                  ]
+            },
+            {
+                  "name": "Delagoa",
+                  "text": "The Delagoa arts centre in Pretoria showcases local and regional creative works.",
+                  "category": "cultural",
+                  "coords": [
+                        28.22284,
+                        -25.744886
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "This Church of Jesus Christ of Latter-day Saints serves the Mormon community in South Africa.",
+                  "category": "religious",
+                  "coords": [
+                        28.207306,
+                        -25.755594
+                  ]
+            },
+            {
+                  "name": "Zambezi Akwarium & Voëlpark",
+                  "text": "This urban zoo combines a variety of aquatic life with both indigenous and exotic bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        28.194111,
+                        -25.676379
+                  ]
+            },
+            {
+                  "name": "Jan Cilliers",
+                  "text": "Jan Cilliers Park is distinguished by its indigenous South African flora and cascading water features.",
+                  "category": "park",
+                  "coords": [
+                        28.224163,
+                        -25.778485
+                  ]
+            },
+            {
+                  "name": "Chamberlain's Bird Sanctuary",
+                  "text": "This bird sanctuary offers a retreat for numerous indigenous bird species close to the city center.",
+                  "category": "natural",
+                  "coords": [
+                        28.217062,
+                        -25.730231
+                  ]
+            },
+            {
+                  "name": "Venning Park",
+                  "text": "Venning Park in Pretoria is famous for its geometrically laid-out rose garden.",
+                  "category": "park",
+                  "coords": [
+                        28.221155,
+                        -25.746411
+                  ]
+            },
+            {
+                  "name": "Pretoria Art Museum",
+                  "text": "This art museum houses a major collection of twentieth-century South African artworks.",
+                  "category": "museum",
+                  "coords": [
+                        28.213631,
+                        -25.748082
+                  ]
+            },
+            {
+                  "name": "Fort Wonderboompoort",
+                  "text": "The ruins of this historical Second Boer War fortification overlook the northern route into Pretoria.",
+                  "category": "historical",
+                  "coords": [
+                        28.194251,
+                        -25.692282
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [28.2114, -25.7403],
@@ -1683,7 +10629,88 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     },
   },
   {
-    id: "church-square-pretoria-history-v2",
+    id: "church-square-pretoria-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Black necked swan",
+                  "text": "Das Gehege der Schwarzhalsschwäne in der Nähe des Church Square bietet die Möglichkeit, dieses elegante südamerikanische Wasservögel mit seinen markanten ebenholzfarbenen Hälsen zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187505,
+                        -25.737506
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "Das Schweinshirsch-Gehege in der Nähe des Church Square ermöglicht es Besuchern, diese kleinen, gedrungenen asiatischen Hirsche zu beobachten, die für ihren schweineartigen Laufstil bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187838,
+                        -25.736042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Black necked swan",
+                  "text": "A Church Square közelében található feketenyakú hattyú kiállítás lehetőséget kínál ezeknek a jellegzetes, ébenfekete nyakú, elegáns dél-amerikai vízimadaraknak a megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187505,
+                        -25.737506
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "A Church Square melletti disznószarvas-élőhely lehetővé teszi a látogatók számára, hogy megfigyeljék ezeket a kis, zömök ázsiai szarvasokat, amelyek disznószerű futási stílusukról ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187838,
+                        -25.736042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Black necked swan",
+                  "text": "Expoziția de lebede cu gât negru din apropiere de Church Square oferă șansa de a observa aceste elegante păsări de apă sud-americane, cu gâtul lor distinctiv de abanos.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187505,
+                        -25.737506
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "Habitatul cerbului porcin de lângă Church Square permite vizitatorilor să observe acești cerbi asiatici mici și îndesați, cunoscuți pentru stilul lor de alergare asemănător porcului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187838,
+                        -25.736042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black necked swan",
+                  "text": "The black-necked swan exhibit near Church Square offers a chance to observe these elegant South American waterfowl with their distinctive ebony necks.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187505,
+                        -25.737506
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "The hog deer habitat near Church Square allows visitors to observe these small, stocky Asian deer known for their pig-like running style.",
+                  "category": "landmark",
+                  "coords": [
+                        28.187838,
+                        -25.736042
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ZA-GT",
     coords: [28.1878, -25.7461],

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraChadLifeV2: POI[] = [
   {
-    id: "zakouma-elephants-life-v2",
+    id: "zakouma-elephants-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Zakouma",
+                  "text": "Das Naturschutzgebiet Zakouma-Nationalpark in der Region zakouma-elephants-life-v2 schützt eine artenreiche Savannenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.819479,
+                        10.88961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Zakouma",
+                  "text": "A zakouma-elephants-life-v2 régióban található Zakouma Nemzeti Park természetvédelmi területe egy fajokban gazdag szavannát véd.",
+                  "category": "natural",
+                  "coords": [
+                        19.819479,
+                        10.88961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Zakouma",
+                  "text": "Rezervația naturală a Parcului Național Zakouma din regiunea zakouma-elephants-life-v2 protejează un peisaj de savană bogat în specii.",
+                  "category": "natural",
+                  "coords": [
+                        19.819479,
+                        10.88961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zakouma National Park",
+                  "text": "The Zakouma National Park nature reserve in the zakouma-elephants-life-v2 region protects a species-rich savanna landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.819479,
+                        10.88961
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "TD-SA",
     coords: [19.82, 10.85],
@@ -444,7 +489,52 @@ export const poiExtraChadLifeV2: POI[] = [
       fr: ["L'or blanc du Tchad", "Secteur économique le plus important du sud"],
     }, image: "/poi-images/moyen-chari-cotton-life-v2.webp"},
   {
-    id: "ounianga-date-palms-life-v2",
+    id: "ounianga-date-palms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lakes View",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf die miteinander verbundenen Saharaseen bietet, die von üppigen Dattelpalmen umgeben sind.",
+                  "category": "natural",
+                  "coords": [
+                        20.912347,
+                        18.89841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lakes View",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik az összefüggő szaharai sivatagi tavakra és az azokat körülölelő datolyapálmákra.",
+                  "category": "natural",
+                  "coords": [
+                        20.912347,
+                        18.89841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lakes View",
+                  "text": "Un punct de observație care oferă o vedere panoramică a lacurilor deșertice sahariene interconectate, înconjurate de curmali prosperi.",
+                  "category": "natural",
+                  "coords": [
+                        20.912347,
+                        18.89841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lakes View",
+                  "text": "A vantage point offering a panoramic view of the interconnected Saharan desert lakes surrounded by thriving date palms.",
+                  "category": "natural",
+                  "coords": [
+                        20.912347,
+                        18.89841
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TD-EO",
     coords: [20.95, 18.95],
@@ -493,7 +583,88 @@ export const poiExtraChadLifeV2: POI[] = [
       fr: ["Survie dans des conditions extrêmes", "Économie traditionnelle d'oasis"],
     }, image: "/poi-images/ounianga-date-palms-life-v2.webp"},
   {
-    id: "ndjamena-livestock-life-v2",
+    id: "ndjamena-livestock-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point Barrière",
+                  "text": "Dieses Kreisverkehr-Denkmal in N'Djamena fungiert als wichtiger Verkehrsknotenpunkt und verfügt über architektonische Elemente, die den Verkehrsfluss lenken.",
+                  "category": "historical",
+                  "coords": [
+                        15.037387,
+                        12.170801
+                  ]
+            },
+            {
+                  "name": "Rond-point patte d'oie",
+                  "text": "Benannt nach seiner verzweigten Straßenführung, die an einen Gänsefuß erinnert, dient diese große Kreuzung als belebtes städtisches Wahrzeichen in N'Djamena.",
+                  "category": "landmark",
+                  "coords": [
+                        15.040015,
+                        12.165004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point Barrière",
+                  "text": "Ez a fontos közlekedési csomópontként működő N'Djamena-i körforgalom-emlékmű olyan építészeti elemekkel rendelkezik, amelyek a városi forgalmat szabályozzák.",
+                  "category": "historical",
+                  "coords": [
+                        15.037387,
+                        12.170801
+                  ]
+            },
+            {
+                  "name": "Rond-point patte d'oie",
+                  "text": "A lúdtalpra emlékeztető, elágazó úthálózatáról elnevezett nagy kereszteződés nyüzsgő városi tájékozódási pontként szolgál N'Djamenában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.040015,
+                        12.165004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point Barrière",
+                  "text": "Funcționând ca un sens giratoriu major, acest monument din N'Djamena prezintă elemente arhitecturale centrale care organizează fluxul vehiculelor urbane.",
+                  "category": "historical",
+                  "coords": [
+                        15.037387,
+                        12.170801
+                  ]
+            },
+            {
+                  "name": "Rond-point patte d'oie",
+                  "text": "Numită astfel pentru structura sa de drumuri ramificate ce amintește de o labă de gâscă, această intersecție majoră servește ca un reper urban plin de viață în N'Djamena.",
+                  "category": "landmark",
+                  "coords": [
+                        15.040015,
+                        12.165004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point Barrière",
+                  "text": "Acting as a major traffic circle, this roundabout monument in N'Djamena features architectural centerpieces that organize the flow of urban vehicles.",
+                  "category": "historical",
+                  "coords": [
+                        15.037387,
+                        12.170801
+                  ]
+            },
+            {
+                  "name": "Rond-point patte d'oie",
+                  "text": "Named for its branching road layout resembling a goose's foot, this major intersection serves as a bustling urban landmark in N'Djamena.",
+                  "category": "landmark",
+                  "coords": [
+                        15.040015,
+                        12.165004
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TD-ND",
     coords: [15.05, 12.15],
@@ -542,7 +713,52 @@ export const poiExtraChadLifeV2: POI[] = [
     }
   },
   {
-    id: "mayo-kebbi-peanuts-life-v2",
+    id: "mayo-kebbi-peanuts-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "Dieses Kulturzentrum widmet sich der Erhaltung und Präsentation des einzigartigen Erbes und der traditionellen Künste der im Logone-Flusstal lebenden Gemeinden.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "Ez a kulturális központ a Logone folyó völgyében élő közösségek egyedülálló örökségének és hagyományos művészetének megőrzésére és bemutatására szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "Acest centru cultural este dedicat păstrării și prezentării moștenirii unice și a artelor tradiționale ale comunităților care trăiesc în valea râului Logone.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "This cultural center is dedicated to preserving and showcasing the unique heritage and traditional arts of the communities living in the Logone River valley.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TD-ME",
     coords: [15.15, 10.35],
@@ -686,7 +902,88 @@ export const poiExtraChadLifeV2: POI[] = [
       fr: ["Approvisionnement en poisson frais pour la capitale", "Techniques de pêche millénaires"],
     }, image: "/poi-images/chari-fishing-life-v2.webp"},
   {
-    id: "ndjamena-kids-park-life-v2",
+    id: "ndjamena-kids-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marché de farcha",
+                  "text": "Der Farcha-Markt ist ein lebendiges Handelszentrum in N'Djamena, wo Verkäufer frische Produkte, Fleisch und Waren des täglichen Bedarfs anbieten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.979026,
+                        12.126409
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "Dieses klassische Karussell bietet vergnügliche Fahrten für Kinder, die den beliebten Kinderpark von N'Djamena besuchen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.990892,
+                        12.127741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marché de farcha",
+                  "text": "A Farcha piac egy nyüzsgő kereskedelmi központ N'Djamenában, ahol az árusok friss termékeket, húsokat és napi cikkeket kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        14.979026,
+                        12.126409
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "Ez a klasszikus körhinta vidám perceket kínál a N'Djamena népszerű gyermekparkjába látogató gyerekeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.990892,
+                        12.127741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marché de farcha",
+                  "text": "Piața Farcha este un centru comercial plin de viață din N'Djamena, unde vânzătorii oferă produse proaspete, carne și bunuri de zi cu zi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.979026,
+                        12.126409
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "Acest carusel clasic oferă plimbări vesele copiilor care vizitează parcul popular pentru copii din N'Djamena.",
+                  "category": "landmark",
+                  "coords": [
+                        14.990892,
+                        12.127741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marché de farcha",
+                  "text": "The Farcha Market is a lively commercial hub in N'Djamena where vendors sell fresh produce, meats, and daily goods.",
+                  "category": "landmark",
+                  "coords": [
+                        14.979026,
+                        12.126409
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "This classic carousel offers joyful rides for children visiting N'Djamena's popular kids' park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.990892,
+                        12.127741
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TD-ND",
     coords: [15.02, 12.12],
@@ -831,7 +1128,52 @@ export const poiExtraChadLifeV2: POI[] = [
       fr: ["Éducation culturelle pour les plus jeunes", "Promotion des talents locaux"],
     }, image: "/poi-images/sarh-crafts-kids-life-v2.webp"},
   {
-    id: "bol-floating-gardens-life-v2",
+    id: "bol-floating-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de la culture de Bol",
+                  "text": "Dieses kommunale Kunstzentrum bietet einen Veranstaltungsort für lokale Kulturveranstaltungen in der Nähe der schwimmenden Gärten der Tschadsee-Region.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712773,
+                        13.464428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de la culture de Bol",
+                  "text": "Ez a közösségi művészeti központ helyi kulturális eseményeknek ad otthont a Csád-tó régiójának úszó kertjei közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712773,
+                        13.464428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de la culture de Bol",
+                  "text": "Acest centru de arte comunitare oferă un spațiu pentru evenimente culturale locale în apropierea grădinilor plutitoare din regiunea Lacului Ciad.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712773,
+                        13.464428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de la culture de Bol",
+                  "text": "This community arts center provides a venue for local cultural events near the floating gardens of the Lake Chad region.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712773,
+                        13.464428
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "TD-LC",
     coords: [14.65, 13.45],

@@ -1382,7 +1382,52 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     }
   },
   {
-    id: "koubia-cities-v2",
+    id: "koubia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place des martyrs de Koubia",
+                  "text": "Die Place des martyrs de Koubia ist ein offener öffentlicher Gedenkplatz, der den gefallenen Helden im Zentrum der Stadt Koubia gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -11.889462,
+                        11.586119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place des martyrs de Koubia",
+                  "text": "A Place des martyrs de Koubia egy nyitott nyilvános emléktér Koubia városközpontjában, amelyet az elesett hősök tiszteletére hoztak létre.",
+                  "category": "historical",
+                  "coords": [
+                        -11.889462,
+                        11.586119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place des martyrs de Koubia",
+                  "text": "Place des martyrs de Koubia este o piață memorială publică deschisă, dedicată eroilor căzuți în centrul orașului Koubia.",
+                  "category": "historical",
+                  "coords": [
+                        -11.889462,
+                        11.586119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place des martyrs de Koubia",
+                  "text": "Place des martyrs de Koubia is an open public memorial square dedicated to fallen heroes in the town center of Koubia.",
+                  "category": "historical",
+                  "coords": [
+                        -11.889462,
+                        11.586119
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GN-L",
     coords: [-11.8833, 11.5833],

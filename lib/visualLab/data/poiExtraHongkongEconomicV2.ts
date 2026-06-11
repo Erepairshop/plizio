@@ -3040,7 +3040,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "Das Hong Kong Heritage Discovery Centre ist ein Museum für lokale Geschichte in Causeway Bay.",
+                  "text": "Das Hong Kong Heritage Discovery Centre, ein Museum in einer ehemaligen Kaserne, öffnete im Oktober 2005.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -3094,7 +3094,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Justice Place ist ein historisches Regierungsgebäude in Causeway Bay.",
+                  "text": "Justice Place, die ehemaligen Zentralregierungsgebäude aus der Kolonialzeit, sind denkmalgeschützt (Grad 3).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -3112,7 +3112,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "Das Hong Kong Cultural Centre ist ein bedeutendes Kunstzentrum in Causeway Bay.",
+                  "text": "Das Hong Kong Cultural Centre, ein Veranstaltungsort für darstellende Künste, wurde 1989 eröffnet.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -3166,7 +3166,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tin Hau Tempel in Causeway Bay",
-                  "text": "Der Tin Hau Tempel in Causeway Bay ist eine traditionelle religiöse Stätte.",
+                  "text": "Der Causeway Bay Tin Hau Tempel ist ein denkmalgeschützter Tempel (Grad 2).",
                   "category": "religious",
                   "coords": [
                         114.192716,
@@ -3391,7 +3391,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Expo Promenade",
-                  "text": "Die Expo Promenade ist eine Parkanlage in Causeway Bay.",
+                  "text": "Die Expo Promenade, auch bekannt als Golden Bauhinia Square, wurde 1997 eröffnet und zeigt eine riesige goldene Bauhinia-Statue.",
                   "category": "park",
                   "coords": [
                         114.17286,
@@ -3400,7 +3400,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Government House in Causeway Bay",
-                  "text": "Das Government House in Causeway Bay ist die offizielle Residenz.",
+                  "text": "Das Government House, 1855 erbaut, ist ein denkmalgeschütztes Gebäude (Grad 2) und ehemaliger Wohnsitz der britischen Gouverneure.",
                   "category": "landmark",
                   "coords": [
                         114.157332,
@@ -3537,7 +3537,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Örökségkutató Központ",
-                  "text": "A Hongkongi Örökségkutató Központ egy helytörténeti múzeum Causeway Bay-ben.",
+                  "text": "A Hongkongi Örökségvédelmi Központ múzeum egy volt laktanyában, 2005 októberében nyílt meg.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -3591,7 +3591,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "A Justice Place egy történelmi kormányzati épület Causeway Bay-ben.",
+                  "text": "A Justice Place, a gyarmati korszak egykori kormányzati épületei, műemlékek (3. fokozat).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -3609,7 +3609,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Kulturális Központ",
-                  "text": "A Hongkongi Kulturális Központ egy jelentős művészeti központ Causeway Bay-ben.",
+                  "text": "A Hongkongi Kulturális Központ 1989-ben nyílt meg, előadóművészeti központként.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -3663,7 +3663,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Causeway Bay-i Tin Hau-templom",
-                  "text": "A Causeway Bay-i Tin Hau-templom egy hagyományos istentiszteleti hely.",
+                  "text": "A Causeway Bay Tin Hau templom műemlék (2. fokozat).",
                   "category": "religious",
                   "coords": [
                         114.192716,
@@ -3888,7 +3888,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Expo Promenade",
-                  "text": "Az Expo Promenade egy park Causeway Bay-ben.",
+                  "text": "Az Expo Promenád, más néven Arany Bauhinia tér, 1997-ben nyílt meg, és egy hatalmas arany bauhinia szobrot mutat be.",
                   "category": "park",
                   "coords": [
                         114.17286,
@@ -3897,7 +3897,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Government House Causeway Bay-ben",
-                  "text": "A Government House Causeway Bay-ben a hivatalos rezidencia.",
+                  "text": "A Kormányzói Palota 1855-ben épült, műemlék (2. fokozat) és a brit kormányzók egykori rezidenciája.",
                   "category": "landmark",
                   "coords": [
                         114.157332,
@@ -4034,7 +4034,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centrul de Descoperire a Patrimoniului din Hong Kong",
-                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong este un muzeu de istorie locală în Causeway Bay.",
+                  "text": "Centrul de Descoperire a Patrimoniului Hong Kong, un muzeu într-o fostă cazarmă, s-a deschis în octombrie 2005.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -4088,7 +4088,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Justice Place este o clădire guvernamentală istorică în Causeway Bay.",
+                  "text": "Justice Place, fostele clădiri guvernamentale centrale din perioada colonială, sunt protejate (gradul 3).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -4106,7 +4106,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centrul Cultural din Hong Kong",
-                  "text": "Centrul Cultural din Hong Kong este un centru artistic important în Causeway Bay.",
+                  "text": "Centrul Cultural Hong Kong, un loc pentru artele spectacolului, a fost deschis în 1989.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -4160,7 +4160,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Templul Tin Hau din Causeway Bay",
-                  "text": "Templul Tin Hau din Causeway Bay este un lăcaș de cult tradițional.",
+                  "text": "Templul Tin Hau din Causeway Bay este un lăcaș de cult protejat (gradul 2).",
                   "category": "religious",
                   "coords": [
                         114.192716,
@@ -4385,7 +4385,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Expo Promenade",
-                  "text": "Expo Promenade este un parc în Causeway Bay.",
+                  "text": "Promenada Expo, cunoscută și ca Piața Bauhinia de Aur, a fost deschisă în 1997 și prezintă o statuie uriașă de bauhinia aurie.",
                   "category": "park",
                   "coords": [
                         114.17286,
@@ -4394,7 +4394,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Government House din Causeway Bay",
-                  "text": "Government House din Causeway Bay este reședința oficială.",
+                  "text": "Casa Guvernului, construită în 1855, este o clădire protejată (gradul 2) și fosta reședință a guvernatorilor britanici.",
                   "category": "landmark",
                   "coords": [
                         114.157332,
@@ -4531,7 +4531,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Heritage Discovery Centre",
-                  "text": "The Hong Kong Heritage Discovery Centre is a local history museum in Causeway Bay.",
+                  "text": "The Hong Kong Heritage Discovery Centre, a museum in a former barracks, opened in October 2005.",
                   "category": "museum",
                   "coords": [
                         114.169843,
@@ -4585,7 +4585,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Justice Place",
-                  "text": "Justice Place is a historic government building in Causeway Bay.",
+                  "text": "Justice Place, the former Central Government Offices from the colonial era, is a heritage site (Grade 3).",
                   "category": "historical",
                   "coords": [
                         114.158637,
@@ -4603,7 +4603,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Cultural Centre",
-                  "text": "The Hong Kong Cultural Centre is a major arts centre in Causeway Bay.",
+                  "text": "The Hong Kong Cultural Centre, a performing arts venue, opened in 1989.",
                   "category": "cultural",
                   "coords": [
                         114.170213,
@@ -4657,7 +4657,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Causeway Bay Tin Hau Temple",
-                  "text": "The Tin Hau Temple in Causeway Bay is a traditional place of worship.",
+                  "text": "Causeway Bay Tin Hau Temple is a heritage-listed temple (Grade 2).",
                   "category": "religious",
                   "coords": [
                         114.192716,
@@ -4882,7 +4882,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Expo Promenade",
-                  "text": "Expo Promenade is a park in Causeway Bay.",
+                  "text": "Expo Promenade, also known as Golden Bauhinia Square, opened in 1997 and features a giant golden bauhinia statue.",
                   "category": "park",
                   "coords": [
                         114.17286,
@@ -4891,7 +4891,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Government House",
-                  "text": "Government House in Causeway Bay is the official residence.",
+                  "text": "Government House, built in 1855, is a heritage-listed building (Grade 2) and former residence of British governors.",
                   "category": "landmark",
                   "coords": [
                         114.157332,

@@ -11095,7 +11095,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Neues Schloss Bümpliz",
-                  "text": "Ein barockes Landschloss im Berner Stadtteil Bümpliz.",
+                  "text": "Neues Schloss Bümpliz in Köniz, ein denkmalgeschütztes Schloss.",
                   "category": "castle",
                   "coords": [
                         7.391987,
@@ -11709,7 +11709,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Neues Schloss Bümpliz",
-                  "text": "Barokk vidéki kastély Bern Bümpliz negyedében.",
+                  "text": "Bümplizi új kastély Könizben, műemlék kastély.",
                   "category": "castle",
                   "coords": [
                         7.391987,
@@ -12323,7 +12323,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Neues Schloss Bümpliz",
-                  "text": "Un castel baroc situat în cartierul Bümpliz din Berna.",
+                  "text": "Castelul Nou Bümpliz din Köniz, un castel protejat.",
                   "category": "castle",
                   "coords": [
                         7.391987,
@@ -12937,7 +12937,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Neues Schloss Bümpliz",
-                  "text": "A baroque country castle located in the Bümpliz district of Bern.",
+                  "text": "New Castle Bümpliz in Köniz, a heritage-listed castle.",
                   "category": "castle",
                   "coords": [
                         7.391987,
@@ -22138,7 +22138,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Vitra Design Museum, Frank Gehry (1989)",
-                  "text": "Ein weltweit führendes Museum für Design und Architektur in einem Gebäude von Frank Gehry.",
+                  "text": "Vitra Design Museum in Riehen, entworfen von Frank Gehry und eröffnet 1989.",
                   "category": "museum",
                   "coords": [
                         7.618888,
@@ -22734,7 +22734,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Vitra Design Museum, Frank Gehry (1989)",
-                  "text": "A világ egyik vezető design- és építészeti múzeuma, egy Frank Gehry által tervezett épületben.",
+                  "text": "Vitra Design Múzeum Riehenben, Frank Gehry tervezte, 1989-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         7.618888,
@@ -23330,7 +23330,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Vitra Design Museum, Frank Gehry (1989)",
-                  "text": "Un muzeu de design și arhitectură de talie mondială, într-o clădire proiectată de Frank Gehry.",
+                  "text": "Muzeul de Design Vitra din Riehen, proiectat de Frank Gehry și deschis în 1989.",
                   "category": "museum",
                   "coords": [
                         7.618888,
@@ -23926,7 +23926,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Vitra Design Museum, Frank Gehry (1989)",
-                  "text": "A world-leading museum for design and architecture in a building by Frank Gehry.",
+                  "text": "Vitra Design Museum in Riehen, designed by Frank Gehry and opened in 1989.",
                   "category": "museum",
                   "coords": [
                         7.618888,
@@ -29077,7 +29077,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Hégenheim",
-                  "text": "Ein historisches Schloss in Hégenheim nahe der Grenze bei Allschwil.",
+                  "text": "Château de Hégenheim in Allschwil, ein denkmalgeschütztes Schloss.",
                   "category": "castle",
                   "coords": [
                         7.528694,
@@ -29248,7 +29248,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & Paul",
-                  "text": "Eine dem Heiligen Peter und Paul geweihte christliche Kirche.",
+                  "text": "St. Peter und Paul Kirche in Allschwil, erbaut 1967 von Architekt Fritz Metzger.",
                   "category": "religious",
                   "coords": [
                         7.539962,
@@ -29430,7 +29430,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Hégenheim",
-                  "text": "Történelmi kastély Hégenheimben, Allschwil határának közelében.",
+                  "text": "Hégenheim-i kastély Allschwilben, műemlék kastély.",
                   "category": "castle",
                   "coords": [
                         7.528694,
@@ -29601,7 +29601,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & Paul",
-                  "text": "Szent Péternek és Pálnak szentelt keresztény templom.",
+                  "text": "Szent Péter és Pál templom Allschwilben, 1967-ben épült Fritz Metzger építész tervei alapján.",
                   "category": "religious",
                   "coords": [
                         7.539962,
@@ -29783,7 +29783,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Hégenheim",
-                  "text": "Un castel istoric situat în Hégenheim, în apropierea graniței cu Allschwil.",
+                  "text": "Castelul Hégenheim din Allschwil, un castel protejat.",
                   "category": "castle",
                   "coords": [
                         7.528694,
@@ -29954,7 +29954,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & Paul",
-                  "text": "O biserică creștină dedicată Sfinților Petru și Pavel.",
+                  "text": "Biserica Sf. Petru și Pavel din Allschwil, construită în 1967 de arhitectul Fritz Metzger.",
                   "category": "religious",
                   "coords": [
                         7.539962,
@@ -30136,7 +30136,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Château de Hégenheim",
-                  "text": "A historic castle located in Hégenheim near the border with Allschwil.",
+                  "text": "Château de Hégenheim in Allschwil, a heritage-listed castle.",
                   "category": "castle",
                   "coords": [
                         7.528694,
@@ -30307,7 +30307,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Peter & Paul",
-                  "text": "A Christian church dedicated to Saints Peter and Paul.",
+                  "text": "St. Peter and Paul Church in Allschwil, built in 1967 by architect Fritz Metzger.",
                   "category": "religious",
                   "coords": [
                         7.539962,
@@ -30643,7 +30643,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de Champel",
-                  "text": "Ein dekorativer neugotischer Turm im Stadtteil Champel.",
+                  "text": "Tour de Champel in Carouge, ein 1877 erbauter Turm.",
                   "category": "tower",
                   "coords": [
                         6.152119,
@@ -31284,7 +31284,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de Champel",
-                  "text": "Dekoratív neogótikus torony a Champel negyedben.",
+                  "text": "Tour de Champel Carouge-ban, egy 1877-ben épült torony.",
                   "category": "tower",
                   "coords": [
                         6.152119,
@@ -31925,7 +31925,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de Champel",
-                  "text": "Un turn decorativ neogotic în cartierul Champel.",
+                  "text": "Turnul Champel din Carouge, un turn construit în 1877.",
                   "category": "tower",
                   "coords": [
                         6.152119,
@@ -32566,7 +32566,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de Champel",
-                  "text": "A decorative neo-Gothic tower in the Champel district.",
+                  "text": "Tour de Champel in Carouge, a tower built in 1877.",
                   "category": "tower",
                   "coords": [
                         6.152119,
@@ -41749,7 +41749,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Josef",
-                  "text": "Eine katholische Kirche in der Region Dietikon.",
+                  "text": "St. Josef Kirche in Schlieren, erbaut 1968.",
                   "category": "religious",
                   "coords": [
                         8.415547,
@@ -42291,7 +42291,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Josef",
-                  "text": "Katolikus templom Dietikon régiójában.",
+                  "text": "Szent József templom Schlierenben, 1968-ban épült.",
                   "category": "religious",
                   "coords": [
                         8.415547,
@@ -42833,7 +42833,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Josef",
-                  "text": "O biserică catolică în regiunea Dietikon.",
+                  "text": "Biserica Sf. Iosif din Schlieren, construită în 1968.",
                   "category": "religious",
                   "coords": [
                         8.415547,
@@ -43375,7 +43375,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Josef",
-                  "text": "A Catholic church in the Dietikon region.",
+                  "text": "St. Josef Church in Schlieren, built in 1968.",
                   "category": "religious",
                   "coords": [
                         8.415547,
@@ -49174,7 +49174,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Aussichtsturm Hardwald",
-                  "text": "Ein Aussichtspunkt im Hardwald-Waldgebiet bei Wallisellen.",
+                  "text": "Hardwald Aussichtsturm in Wallisellen, entworfen von Luna Productions.",
                   "category": "natural",
                   "coords": [
                         8.600223,
@@ -49716,7 +49716,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Aussichtsturm Hardwald",
-                  "text": "Kilátópont a Wallisellen melletti Hardwald erdőben.",
+                  "text": "Hardwald kilátó Wallisellenben, a Luna Productions tervezte.",
                   "category": "natural",
                   "coords": [
                         8.600223,
@@ -50258,7 +50258,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Aussichtsturm Hardwald",
-                  "text": "Un punct de belvedere în zona forestieră Hardwald de lângă Wallisellen.",
+                  "text": "Punctul de belvedere Hardwald din Wallisellen, un turn proiectat de Luna Productions.",
                   "category": "natural",
                   "coords": [
                         8.600223,
@@ -50800,7 +50800,7 @@ export const switzerlandCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint Hardwald",
-                  "text": "A viewpoint located in the Hardwald forest area near Wallisellen.",
+                  "text": "Hardwald Viewpoint in Wallisellen, a tower designed by Luna Productions.",
                   "category": "natural",
                   "coords": [
                         8.600223,

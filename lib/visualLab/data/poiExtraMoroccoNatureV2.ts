@@ -29,7 +29,124 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       en: ["The Atlas Mountains span across Morocco, Algeria, and Tunisia.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/atlas-mountains-nature-v2.webp"},
   {
-    id: "toubkal-nature-v2",
+    id: "toubkal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aksoual",
+                  "text": "Dieser markante Berggipfel im Hohen Atlas erhebt sich auf eine Höhe von 3910 Metern im Toubkal-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        -7.85838,
+                        31.118591
+                  ]
+            },
+            {
+                  "name": "Jbel Toubkal",
+                  "text": "Der höchste Gipfel des Atlasgebirges und Nordafrikas erreicht eine beeindruckende Höhe von 4167 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914944,
+                        31.059832
+                  ]
+            },
+            {
+                  "name": "Parc National de Toubkal",
+                  "text": "Dieses ausgedehnte Naturschutzgebiet im Hohen Atlas schützt raue alpine Landschaften und den hoch aufragenden Toubkal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.882835,
+                        31.089139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aksoual",
+                  "text": "Ez a feltűnő hegycsúcs a Magas-Atlaszban, a Toubkal-hegységben 3910 méteres magasságba emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        -7.85838,
+                        31.118591
+                  ]
+            },
+            {
+                  "name": "Jbel Toubkal",
+                  "text": "Az Atlasz-hegység és Észak-Afrika legmagasabb csúcsa lenyűgöző, 4167 méteres magasságot ér el.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914944,
+                        31.059832
+                  ]
+            },
+            {
+                  "name": "Parc National de Toubkal",
+                  "text": "Ez a Magas-Atlasz hegység kiterjedt természetvédelmi területe zord alpesi tájakat és a magasba tornyosuló Toubkalt védi.",
+                  "category": "natural",
+                  "coords": [
+                        -7.882835,
+                        31.089139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aksoual",
+                  "text": "Acest vârf montan proeminent din Atlasul Înalt se înalță la o altitudine de 3910 metri în masivul Toubkal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.85838,
+                        31.118591
+                  ]
+            },
+            {
+                  "name": "Jbel Toubkal",
+                  "text": "Cel mai înalt vârf din Munții Atlas și din Africa de Nord atinge o altitudine impresionantă de 4.167 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914944,
+                        31.059832
+                  ]
+            },
+            {
+                  "name": "Parc National de Toubkal",
+                  "text": "Această rezervație naturală extinsă din Atlasul Înalt protejează peisajele alpine accidentate și muntele Toubkal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.882835,
+                        31.089139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aksoual",
+                  "text": "This prominent mountain peak in the High Atlas rises to an elevation of 3,910 meters in the Toubkal massif.",
+                  "category": "natural",
+                  "coords": [
+                        -7.85838,
+                        31.118591
+                  ]
+            },
+            {
+                  "name": "Toubkal",
+                  "text": "The highest peak in the Atlas Mountains and North Africa reaches an impressive elevation of 4,167 meters.",
+                  "category": "natural",
+                  "coords": [
+                        -7.914944,
+                        31.059832
+                  ]
+            },
+            {
+                  "name": "Toubkal National Park",
+                  "text": "This expansive nature reserve in the High Atlas protects rugged alpine landscapes and the towering Mount Toubkal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.882835,
+                        31.089139
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MA-01",
     coords: [-7.91, 31.06],
@@ -99,7 +216,232 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["La Moulouya est un fleuve important qui se jette dans la mer Méditerranée.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/moulouya-river-nature-v2.webp"},
   {
-    id: "merzouga-dunes-nature-v2",
+    id: "merzouga-dunes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morocco National 4x4 Auto Museum",
+                  "text": "Dieses einzigartige Museum in der Nähe der Wüste zeigt eine große Sammlung von 4x4-Geländewagen, die für die raue Sahara-Landschaft genutzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -4.012116,
+                        31.072015
+                  ]
+            },
+            {
+                  "name": "Sand Dunes",
+                  "text": "Ein zugänglicher Wüstenaussichtspunkt, der einen ungestörten Blick auf die sich ständig verschiebenden Sanddünen von Merzouga bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.010859,
+                        31.066472
+                  ]
+            },
+            {
+                  "name": "Grand Dune View Point",
+                  "text": "Dieser erhöhte Punkt bietet eine atemberaubende Perspektive auf die höchsten Dünen der Landschaft von Erg Chebbi.",
+                  "category": "natural",
+                  "coords": [
+                        -3.991318,
+                        31.079083
+                  ]
+            },
+            {
+                  "name": "Ghost Town View Point",
+                  "text": "Von diesem erhöhten Aussichtspunkt können Besucher auf die sonnengebleichten Überreste einer verlassenen Wüstensiedlung blicken.",
+                  "category": "natural",
+                  "coords": [
+                        -3.950695,
+                        31.037775
+                  ]
+            },
+            {
+                  "name": "Local Music Dance Performance",
+                  "text": "An diesem Ort in der Wüste finden lebhafte Aufführungen traditioneller Sahara- und Gnawa-Musik in Begleitung lokaler Tänze statt.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.005251,
+                        31.031303
+                  ]
+            },
+            {
+                  "name": "Chez Les Artistes",
+                  "text": "Eine intime Galerie in der Wüste, die Werke lokaler Künstler zeigt, die von den Saharalandschaften inspiriert wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -4.005681,
+                        31.034002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morocco National 4x4 Auto Museum",
+                  "text": "A sivatag közelében található egyedülálló múzeum olyan 4x4-es terepjárók nagy gyűjteményét mutatja be, amelyeket a zord szaharai terepen használtak.",
+                  "category": "museum",
+                  "coords": [
+                        -4.012116,
+                        31.072015
+                  ]
+            },
+            {
+                  "name": "Sand Dunes",
+                  "text": "Könnyen megközelíthető sivatagi kilátó, amely zavartalan kilátást nyújt a folyamatosan vándorló merzougai homokdűnékre.",
+                  "category": "natural",
+                  "coords": [
+                        -4.010859,
+                        31.066472
+                  ]
+            },
+            {
+                  "name": "Grand Dune View Point",
+                  "text": "Ez a magaslat lélegzetelállító kilátást nyújt az Erg Chebbi tájának legmagasabb dűnéire.",
+                  "category": "natural",
+                  "coords": [
+                        -3.991318,
+                        31.079083
+                  ]
+            },
+            {
+                  "name": "Ghost Town View Point",
+                  "text": "A látogatók egy elhagyatott sivatagi település naptól kifakult maradványaira tekinthetnek le ebből a megemelt kilátóból.",
+                  "category": "natural",
+                  "coords": [
+                        -3.950695,
+                        31.037775
+                  ]
+            },
+            {
+                  "name": "Local Music Dance Performance",
+                  "text": "Ez a sivatagi helyszín hagyományos szaharai és gnawa zenék, valamint helyi táncok élénk előadásainak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.005251,
+                        31.031303
+                  ]
+            },
+            {
+                  "name": "Chez Les Artistes",
+                  "text": "Egy meghitt galéria a sivatagban, amely a szaharai tájak által ihletett helyi művészek munkáit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -4.005681,
+                        31.034002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morocco National 4x4 Auto Museum",
+                  "text": "Situat în apropierea deșertului, acest muzeu unic expune o colecție mare de vehicule de teren 4x4 folosite pentru a naviga terenul aspru saharian.",
+                  "category": "museum",
+                  "coords": [
+                        -4.012116,
+                        31.072015
+                  ]
+            },
+            {
+                  "name": "Sand Dunes",
+                  "text": "Un punct de belvedere accesibil din deșert, oferind priveliști neîntrerupte asupra dunelor de nisip din Merzouga, aflate în continuă mișcare.",
+                  "category": "natural",
+                  "coords": [
+                        -4.010859,
+                        31.066472
+                  ]
+            },
+            {
+                  "name": "Grand Dune View Point",
+                  "text": "Acest loc elevat oferă o perspectivă uluitoare asupra celor mai înalte dune din peisajul Erg Chebbi.",
+                  "category": "natural",
+                  "coords": [
+                        -3.991318,
+                        31.079083
+                  ]
+            },
+            {
+                  "name": "Ghost Town View Point",
+                  "text": "Vizitatorii pot privi spre rămășițele decolorate de soare ale unei așezări abandonate în deșert din acest punct de observație înalt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.950695,
+                        31.037775
+                  ]
+            },
+            {
+                  "name": "Local Music Dance Performance",
+                  "text": "Această locație din deșert găzduiește spectacole pline de viață de muzică tradițională sahariană și gnawa, însoțite de dansuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.005251,
+                        31.031303
+                  ]
+            },
+            {
+                  "name": "Chez Les Artistes",
+                  "text": "O galerie intimă din deșert care expune lucrări realizate de artiști locali inspirați de peisajele sahariene.",
+                  "category": "museum",
+                  "coords": [
+                        -4.005681,
+                        31.034002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morocco National 4x4 Auto Museum",
+                  "text": "Located near the desert, this unique museum showcases a large collection of off-road 4x4 vehicles used to navigate the harsh Saharan terrain.",
+                  "category": "museum",
+                  "coords": [
+                        -4.012116,
+                        31.072015
+                  ]
+            },
+            {
+                  "name": "Sand Dunes",
+                  "text": "An accessible desert viewpoint offering uninterrupted sights of the continuously shifting Merzouga sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        -4.010859,
+                        31.066472
+                  ]
+            },
+            {
+                  "name": "Grand Dune View Point",
+                  "text": "This elevated spot provides a breathtaking perspective on the tallest dunes of the Erg Chebbi landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -3.991318,
+                        31.079083
+                  ]
+            },
+            {
+                  "name": "Ghost Town View Point",
+                  "text": "Visitors can look out over the sun-bleached remnants of an abandoned desert settlement from this elevated vantage point.",
+                  "category": "natural",
+                  "coords": [
+                        -3.950695,
+                        31.037775
+                  ]
+            },
+            {
+                  "name": "Local Music Dance Performance",
+                  "text": "This desert venue hosts lively performances of traditional Saharan and Gnawa music accompanied by local dances.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.005251,
+                        31.031303
+                  ]
+            },
+            {
+                  "name": "Chez Les Artistes",
+                  "text": "An intimate gallery in the desert exhibiting works crafted by local artists inspired by the Saharan landscapes.",
+                  "category": "museum",
+                  "coords": [
+                        -4.005681,
+                        31.034002
+                  ]
+            }
+      ]
+},
     type: "forest", // Using desert is not allowed, using forest as surrogate for natural habitat/landscape area
     parent: "MA-03",
     coords: [-3.99, 31.09],
@@ -274,7 +616,88 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Une région côtière sur l'Atlantique.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/agadir-bay-nature-v2.webp"},
   {
-    id: "rif-mountains-nature-v2",
+    id: "rif-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jbel afchtal",
+                  "text": "Jbel Afchtal ist ein markanter Berggipfel im Rifgebirge, der anspruchsvolle Pfade über seine steilen, felsigen Hänge bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.983476,
+                        35.033081
+                  ]
+            },
+            {
+                  "name": "Jbel Tizirane",
+                  "text": "Der Tizirane-Gipfel bietet einen weiten Panoramablick über die dichten Zedern- und Tannenwälder des umliegenden Rifgebirges.",
+                  "category": "natural",
+                  "coords": [
+                        -4.920565,
+                        35.014286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jbel afchtal",
+                  "text": "A Jbel Afchtal a Rif-hegység egyik kiemelkedő hegycsúcsa, amely kihívást jelentő ösvényeket kínál meredek, sziklás lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.983476,
+                        35.033081
+                  ]
+            },
+            {
+                  "name": "Jbel Tizirane",
+                  "text": "A Tizirane csúcsról elsöprő panoráma nyílik a környező Rif-hegység sűrű cédrus- és fenyőerdeire.",
+                  "category": "natural",
+                  "coords": [
+                        -4.920565,
+                        35.014286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jbel afchtal",
+                  "text": "Jbel Afchtal este un vârf muntos proeminent din lanțul Rif, oferind trasee dificile pe versanții săi abrupți și stâncoși.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.983476,
+                        35.033081
+                  ]
+            },
+            {
+                  "name": "Jbel Tizirane",
+                  "text": "Vârful Tizirane oferă o vedere panoramică vastă asupra pădurilor dese de cedru și brad din Munții Rif înconjurători.",
+                  "category": "natural",
+                  "coords": [
+                        -4.920565,
+                        35.014286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jbel afchtal",
+                  "text": "Jbel Afchtal is a prominent mountain peak in the Rif range, offering challenging trails across its steep, rocky slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.983476,
+                        35.033081
+                  ]
+            },
+            {
+                  "name": "Tizirane summit",
+                  "text": "The Tizirane summit provides sweeping panoramic views over the dense cedar and fir forests of the surrounding Rif Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -4.920565,
+                        35.014286
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MA-08",
     coords: [-5.0, 35.0],
@@ -309,7 +732,268 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Une chaîne de montagnes dans le nord du Maroc.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Est documenté dans des études locales et régionales."],
     }, image: "/poi-images/rif-mountains-nature-v2.webp"},
   {
-    id: "sebha-boughaba-lake-nature-v2",
+    id: "sebha-boughaba-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Sidi Boughaba",
+                  "text": "Der Plage Sidi Boughaba ist ein weitläufiger Sandstrand am Atlantischen Ozean in der Nähe des Naturschutzgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.695446,
+                        34.215302
+                  ]
+            },
+            {
+                  "name": "Mahdya Beach",
+                  "text": "Der Mahdya Beach bietet einen breiten Sandstreifen, der bei Surfern und Strandbesuchern an der Küste sehr beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.679956,
+                        34.25459
+                  ]
+            },
+            {
+                  "name": "Réserve Naturelle de Sidi Boughaba",
+                  "text": "Das Naturreservat Sidi Boughaba umfasst einen Süßwassersee, der zahlreichen Zugvögeln als wichtiger Lebensraum dient.",
+                  "category": "natural",
+                  "coords": [
+                        -6.678424,
+                        34.235177
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Dieses Freilichttheater in der Nähe des Sees bietet eine Freiluftbühne für lokale Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611238,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Kasbah Mahdiyya",
+                  "text": "Die Kasbah Mahdiyya ist eine Festungsruine an der Mündung des Sebou, die eine lange militärische Geschichte aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        -6.657792,
+                        34.264559
+                  ]
+            },
+            {
+                  "name": "Aqua Pirate",
+                  "text": "Aqua Pirate ist ein familienfreundlicher Wasserpark mit zahlreichen Rutschen und Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.67584,
+                        34.257657
+                  ]
+            },
+            {
+                  "name": "Parc de Jeux",
+                  "text": "Der Parc de Jeux ist ein Vergnügungspark mit Fahrgeschäften und Spielbereichen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.677649,
+                        34.25663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Sidi Boughaba",
+                  "text": "A Plage Sidi Boughaba egy kiterjedt homokos tengerpart az Atlanti-óceán mentén, a természetvédelmi terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.695446,
+                        34.215302
+                  ]
+            },
+            {
+                  "name": "Mahdya Beach",
+                  "text": "A Mahdya Beach széles homokos partjával a szörfösök és a strandolók kedvelt célpontja a partvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.679956,
+                        34.25459
+                  ]
+            },
+            {
+                  "name": "Réserve Naturelle de Sidi Boughaba",
+                  "text": "A Sidi Boughaba Természetvédelmi Terület egy édesvizű tavat foglal magában, amely számos vándormadár fontos élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        -6.678424,
+                        34.235177
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "A tó közelében található szabadtéri színház helyi kulturális események és előadások helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611238,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Kasbah Mahdiyya",
+                  "text": "A Kasbah Mahdiyya egy történelmi erődítmény romja a Sebou folyó torkolatánál.",
+                  "category": "historical",
+                  "coords": [
+                        -6.657792,
+                        34.264559
+                  ]
+            },
+            {
+                  "name": "Aqua Pirate",
+                  "text": "Az Aqua Pirate egy családbarát vízi vidámpark, amely számos csúszdával és medencével várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.67584,
+                        34.257657
+                  ]
+            },
+            {
+                  "name": "Parc de Jeux",
+                  "text": "A Parc de Jeux egy vidámpark különféle körhintákkal és játszóterekkel gyerekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.677649,
+                        34.25663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Sidi Boughaba",
+                  "text": "Plage Sidi Boughaba este o plajă întinsă de nisip la Oceanul Atlantic, lângă rezervația naturală omonimă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.695446,
+                        34.215302
+                  ]
+            },
+            {
+                  "name": "Mahdya Beach",
+                  "text": "Plaja Mahdya oferă o fâșie lată de nisip, fiind o destinație populară pentru surferi pe această coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.679956,
+                        34.25459
+                  ]
+            },
+            {
+                  "name": "Réserve Naturelle de Sidi Boughaba",
+                  "text": "Rezervația Naturală Sidi Boughaba include un lac cu apă dulce ce servește ca habitat crucial pentru numeroase păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -6.678424,
+                        34.235177
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Acest teatru în aer liber de lângă lac oferă o scenă deschisă pentru spectacole și evenimente culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611238,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Kasbah Mahdiyya",
+                  "text": "Kasbah Mahdiyya este o fortăreață ruinată situată la gura râului Sebou, cu un bogat trecut militar.",
+                  "category": "historical",
+                  "coords": [
+                        -6.657792,
+                        34.264559
+                  ]
+            },
+            {
+                  "name": "Aqua Pirate",
+                  "text": "Aqua Pirate este un parc acvatic destinat familiilor, dotat cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.67584,
+                        34.257657
+                  ]
+            },
+            {
+                  "name": "Parc de Jeux",
+                  "text": "Parc de Jeux este un parc de distracții ce oferă diverse atracții și zone de joacă pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.677649,
+                        34.25663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Sidi Boughaba",
+                  "text": "Plage Sidi Boughaba is an expansive sandy beach facing the Atlantic Ocean near the nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.695446,
+                        34.215302
+                  ]
+            },
+            {
+                  "name": "Mahdya Beach",
+                  "text": "Mahdya Beach offers a wide stretch of sand that is highly popular with surfers and beachgoers on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.679956,
+                        34.25459
+                  ]
+            },
+            {
+                  "name": "Réserve Naturelle de Sidi Boughaba",
+                  "text": "The Sidi Boughaba Nature Reserve encompasses a freshwater lake that provides a vital habitat for migrating birds.",
+                  "category": "natural",
+                  "coords": [
+                        -6.678424,
+                        34.235177
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "This open-air theatre near the lake provides an outdoor stage for local cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611238,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Kasbah Mahdiyya",
+                  "text": "Kasbah Mahdiyya consists of the ruined stone fortifications of a historic citadel at the mouth of the Sebou River.",
+                  "category": "historical",
+                  "coords": [
+                        -6.657792,
+                        34.264559
+                  ]
+            },
+            {
+                  "name": "Aqua Pirate",
+                  "text": "Aqua Pirate is a family-friendly water park featuring a variety of recreational slides and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.67584,
+                        34.257657
+                  ]
+            },
+            {
+                  "name": "Parc de Jeux",
+                  "text": "Parc de Jeux is an amusement park offering mechanical rides and play areas designed for children.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.677649,
+                        34.25663
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MA-09",
     coords: [-6.6, 34.2],
@@ -379,7 +1063,124 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Rivière coulant près de Marrakech.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-tensift-nature-v2.webp"},
   {
-    id: "lalla-takerkoust-lake-nature-v2",
+    id: "lalla-takerkoust-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buggy Trip Marrakech",
+                  "text": "Diese Attraktion ermöglicht es Abenteurern, mit Offroad-Buggys durch das trockene, hügelige Gelände rund um den See Lalla Takerkoust zu fahren.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082057,
+                        31.443671
+                  ]
+            },
+            {
+                  "name": "Dunes & Desert",
+                  "text": "Diese Outdoor-Attraktion in der Nähe des Lalla-Takerkoust-Sees organisiert Wüstenausflüge und Quad-Touren in der felsigen Agafay-Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.143586,
+                        31.437368
+                  ]
+            },
+            {
+                  "name": "Camping Afnan Agafay",
+                  "text": "Dieser Campingplatz bietet Besuchern die Möglichkeit, inmitten der steinigen Wüstenumgebung von Agafay unter den Sternen in traditionellen Zelten zu schlafen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.147217,
+                        31.394235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buggy Trip Marrakech",
+                  "text": "Ez a látványosság lehetővé teszi a kalandvágyók számára, hogy terepbuggykkal hajtsanak át a Lalla Takerkoust-tavat körülvevő száraz, dombos terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082057,
+                        31.443671
+                  ]
+            },
+            {
+                  "name": "Dunes & Desert",
+                  "text": "A Lalla Takerkoust-tó közelében működő szabadtéri látványosság sivatagi kirándulásokat és quados élményeket szervez a sziklás Agafay-tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.143586,
+                        31.437368
+                  ]
+            },
+            {
+                  "name": "Camping Afnan Agafay",
+                  "text": "Ez a kemping lehetőséget kínál a látogatóknak, hogy a csillagok alatt, hagyományos sátrakban aludjanak Agafay köves sivatagi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.147217,
+                        31.394235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buggy Trip Marrakech",
+                  "text": "Această atracție permite iubitorilor de aventură să conducă buggy-uri de teren prin peisajul arid și deluros care înconjoară Lacul Lalla Takerkoust.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082057,
+                        31.443671
+                  ]
+            },
+            {
+                  "name": "Dunes & Desert",
+                  "text": "Operând în apropierea lacului Lalla Takerkoust, această atracție în aer liber organizează excursii în deșert și experiențe cu quad-urile în peisajul stâncos Agafay.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.143586,
+                        31.437368
+                  ]
+            },
+            {
+                  "name": "Camping Afnan Agafay",
+                  "text": "Acest loc de campare oferă vizitatorilor șansa de a dormi sub stele în corturi tradiționale, în mijlocul peisajului stâncos al deșertului Agafay.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.147217,
+                        31.394235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buggy Trip Marrakech",
+                  "text": "This attraction allows adventure-seekers to drive off-road buggies through the arid, rolling terrain surrounding Lake Lalla Takerkoust.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082057,
+                        31.443671
+                  ]
+            },
+            {
+                  "name": "Dunes & Desert",
+                  "text": "Operating near Lake Lalla Takerkoust, this outdoor attraction organizes desert excursions and quad biking experiences in the rocky Agafay landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.143586,
+                        31.437368
+                  ]
+            },
+            {
+                  "name": "Camping Afnan Agafay",
+                  "text": "This camping site offers visitors the chance to sleep under the stars in traditional tents amidst the stony desert environment of Agafay.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.147217,
+                        31.394235
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MA-11",
     coords: [-8.1, 31.4],
@@ -449,7 +1250,52 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["L'un des fleuves les plus riches en eau du Maroc.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-sebou-nature-v2.webp"},
   {
-    id: "bin-el-ouidane-lake-nature-v2",
+    id: "bin-el-ouidane-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mgoun Tours",
+                  "text": "Ein Tourenanbieter, der Ausflüge in die malerische Umgebung des Bin el Ouidane-Sees organisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.399103,
+                        32.131292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mgoun Tours",
+                  "text": "Utazási iroda, amely kirándulásokat szervez a festői Bin el Ouidane tó környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.399103,
+                        32.131292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mgoun Tours",
+                  "text": "O agenție de turism care organizează excursii în zona pitorească a lacului Bin el Ouidane.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.399103,
+                        32.131292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mgoun Tours",
+                  "text": "A tour agency organizing excursions around the scenic Bin el Ouidane lake region.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.399103,
+                        32.131292
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MA-13",
     coords: [-6.4, 32.1],
@@ -659,7 +1505,52 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Un oued dans la région la plus méridionale.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-oued-ed-dahab-nature-v2.webp"},
   {
-    id: "oued-souss-nature-v2",
+    id: "oued-souss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tajine",
+                  "text": "Eine großflächige skulpturale Hommage an das ikonische konische Tonkochgefäß, das für die marokkanische Küche von zentraler Bedeutung ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.52538,
+                        30.238677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tajine",
+                  "text": "Nagyszabású szobrászati tiszteletadás az ikonikus kúpos agyag főzőedénynek, amely a marokkói konyha központi eleme.",
+                  "category": "historical",
+                  "coords": [
+                        -9.52538,
+                        30.238677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tajine",
+                  "text": "Un omagiu sculptural la scară largă adus vasului emblematic de gătit din lut conic, esențial în bucătăria marocană.",
+                  "category": "historical",
+                  "coords": [
+                        -9.52538,
+                        30.238677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tajine",
+                  "text": "A large-scale sculptural tribute honoring the iconic conical clay cooking vessel central to Moroccan cuisine.",
+                  "category": "historical",
+                  "coords": [
+                        -9.52538,
+                        30.238677
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MA-19",
     coords: [-9.5, 30.3],
@@ -694,7 +1585,160 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Rivière dans la plaine du Souss.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-souss-nature-v2.webp"},
   {
-    id: "oued-massa-nature-v2",
+    id: "oued-massa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fischer Höhlen",
+                  "text": "Ein verwitterter felsiger Überhang, der auf natürliche Weise vom Ozean geformt wurde und einen eingerahmten Blick auf die brechenden Wellen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.661212,
+                        30.106663
+                  ]
+            },
+            {
+                  "name": "L‘Eco Musee Souss-Massa National Park",
+                  "text": "Ein Bildungszentrum im Souss-Massa-Nationalpark, das das empfindliche Ökosystem der Küstensteppe und seine gefährdete Tierwelt detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655061,
+                        30.057521
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Oued Massa",
+                  "text": "Eine ruhige Vogelbeobachtungsplattform mit Blick auf die Flussmündung des Oued Massa, ideal zur Beobachtung von Zugvögeln.",
+                  "category": "natural",
+                  "coords": [
+                        -9.664375,
+                        30.069341
+                  ]
+            },
+            {
+                  "name": "Nationalpark Souss Massa",
+                  "text": "Ein geschütztes Küstenreservat in Souss-Massa, das durch Sanddünen und Ästuare gekennzeichnet ist und für die Beherbergung des bedrohten Waldrapps berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -9.667242,
+                        30.068133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fisherman's Cave",
+                  "text": "Az óceán által természetes módon kivájt, mállott sziklás túlnyúlás, amely keretes kilátást nyújt a megtörő hullámokra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.661212,
+                        30.106663
+                  ]
+            },
+            {
+                  "name": "L‘Eco Musee Souss-Massa National Park",
+                  "text": "Oktatási központ a Souss-Massa Nemzeti Parkban, amely bemutatja a törékeny part menti sztyeppei ökoszisztémát és a veszélyeztetett élővilágot.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655061,
+                        30.057521
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Oued Massa",
+                  "text": "Csendes madármegfigyelő platform az Oued Massa folyó torkolatánál, amely ideális a vonuló gázlómadarak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -9.664375,
+                        30.069341
+                  ]
+            },
+            {
+                  "name": "Parc National de Souss-Massa",
+                  "text": "Védett tengerparti rezervátum Souss-Massa területén, amelyet homokdűnék és torkolati élőhelyek jellemeznek, és a veszélyeztetett tarvarjú otthonaként híres.",
+                  "category": "natural",
+                  "coords": [
+                        -9.667242,
+                        30.068133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fisherman's Cave",
+                  "text": "O stâncă suspendată, sculptată natural de ocean, oferind o priveliște înrămată a valurilor care se sparg.",
+                  "category": "natural",
+                  "coords": [
+                        -9.661212,
+                        30.106663
+                  ]
+            },
+            {
+                  "name": "L‘Eco Musee Souss-Massa National Park",
+                  "text": "Un centru educațional în Parcul Național Souss-Massa, care detaliază ecosistemul fragil de stepă de coastă și fauna sa pe cale de dispariție.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655061,
+                        30.057521
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Oued Massa",
+                  "text": "O platformă liniștită pentru observarea păsărilor, cu vedere la estuarul râului Oued Massa, ideală pentru observarea păsărilor migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.664375,
+                        30.069341
+                  ]
+            },
+            {
+                  "name": "Parc National de Souss-Massa",
+                  "text": "O rezervație de coastă protejată din Souss-Massa, caracterizată prin dune de nisip și habitate estuarine, renumită pentru adăpostirea ibisului pleșuv nordic, aflat pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        -9.667242,
+                        30.068133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fisherman's Cave",
+                  "text": "A weathered rocky overhang naturally carved by the ocean, offering a framed vista of the crashing waves.",
+                  "category": "natural",
+                  "coords": [
+                        -9.661212,
+                        30.106663
+                  ]
+            },
+            {
+                  "name": "L‘Eco Musee Souss-Massa National Park",
+                  "text": "An educational center in the Souss-Massa National Park detailing the fragile coastal steppe ecosystem and its endangered wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        -9.655061,
+                        30.057521
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Oued Massa",
+                  "text": "A tranquil birdwatching platform overlooking the Oued Massa river estuary, ideal for spotting migratory wading birds.",
+                  "category": "natural",
+                  "coords": [
+                        -9.664375,
+                        30.069341
+                  ]
+            },
+            {
+                  "name": "Souss Massa National Park",
+                  "text": "A protected coastal reserve in Souss-Massa characterized by sandy dunes and estuarine habitats, famous for harboring the endangered northern bald ibis.",
+                  "category": "natural",
+                  "coords": [
+                        -9.667242,
+                        30.068133
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MA-20",
     coords: [-9.6, 30.1],
@@ -729,7 +1773,160 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Fleuve dans le sud du Maroc.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-massa-nature-v2.webp"},
   {
-    id: "cap-ghir-nature-v2",
+    id: "cap-ghir-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare du Cap Ghir",
+                  "text": "Ein aktiver maritimer Leuchtturm, der das felsige Vorgebirge am Zusammentreffen von Atlantik und Atlasgebirge markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.882374,
+                        30.631974
+                  ]
+            },
+            {
+                  "name": "Vid na okean s obryva",
+                  "text": "Ein steiler, dramatischer Abgrund, der weite Ausblicke auf die tosenden Wellen des Atlantiks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.731476,
+                        30.567982
+                  ]
+            },
+            {
+                  "name": "Plage 25",
+                  "text": "Ein unberührter Sandstrand entlang der schroffen Küstenlinie von Cap Ghir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.745272,
+                        30.569489
+                  ]
+            },
+            {
+                  "name": "Plage Tanane",
+                  "text": "Ein abgelegener Atlantikstrand, der sich an das felsige Terrain der Region schmiegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.779925,
+                        30.60372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare du Cap Ghir",
+                  "text": "Aktív tengerészeti világítótorony, amely az Atlanti-óceán és az Atlasz-hegység találkozásánál lévő sziklás hegyfokot jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.882374,
+                        30.631974
+                  ]
+            },
+            {
+                  "name": "Vid na okean s obryva",
+                  "text": "Meredek, drámai szakadék, amely tágas kilátást nyújt az Atlanti-óceán hatalmas hullámaira.",
+                  "category": "natural",
+                  "coords": [
+                        -9.731476,
+                        30.567982
+                  ]
+            },
+            {
+                  "name": "Plage 25",
+                  "text": "Érintetlen homokos partszakasz a zord Cap Ghir partvonal mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.745272,
+                        30.569489
+                  ]
+            },
+            {
+                  "name": "Plage Tanane",
+                  "text": "Félreeső atlanti strand, amely a régió sziklás terepéhez simul.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.779925,
+                        30.60372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare du Cap Ghir",
+                  "text": "Un far maritim activ care marchează promontoriul stâncos unde Oceanul Atlantic întâlnește Munții Atlas.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.882374,
+                        30.631974
+                  ]
+            },
+            {
+                  "name": "Vid na okean s obryva",
+                  "text": "O prăpastie abruptă și dramatică, oferind vederi largi asupra valurilor furioase ale Atlanticului.",
+                  "category": "natural",
+                  "coords": [
+                        -9.731476,
+                        30.567982
+                  ]
+            },
+            {
+                  "name": "Plage 25",
+                  "text": "O fâșie de coastă cu nisip virgin de-a lungul țărmului stâncos al Capului Ghir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.745272,
+                        30.569489
+                  ]
+            },
+            {
+                  "name": "Plage Tanane",
+                  "text": "O plajă izolată la Atlantic, cuibărită pe terenul stâncos al regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.779925,
+                        30.60372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare du Cap Ghir",
+                  "text": "An active maritime lighthouse marking the rocky promontory where the Atlantic meets the Atlas Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.882374,
+                        30.631974
+                  ]
+            },
+            {
+                  "name": "Vid na okean s obryva",
+                  "text": "A steep, dramatic precipice offering sweeping vistas of the crashing Atlantic waves.",
+                  "category": "natural",
+                  "coords": [
+                        -9.731476,
+                        30.567982
+                  ]
+            },
+            {
+                  "name": "Plage 25",
+                  "text": "A pristine sandy coastal strip along the rugged Cap Ghir shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.745272,
+                        30.569489
+                  ]
+            },
+            {
+                  "name": "Plage Tanane",
+                  "text": "A secluded Atlantic beach nestled against the rocky terrain of the region.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.779925,
+                        30.60372
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "MA-21",
     coords: [-9.8, 30.6],
@@ -764,7 +1961,88 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Un cap sur l'Atlantique.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/cap-ghir-nature-v2.webp"},
   {
-    id: "laguna-nador-nature-v2",
+    id: "laguna-nador-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mar Chica",
+                  "text": "Mar Chica ist eine große Küstenlagune in der Nähe von Nador, die durch einen schmalen Sanddünenstreifen vom Mittelmeer getrennt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.850662,
+                        35.161068
+                  ]
+            },
+            {
+                  "name": "Camping Municipal de Kariat-Arkame",
+                  "text": "Der Camping Municipal de Kariat-Arkame bietet Küstenzeltplätze in bequemer Nähe zu den ruhigen Ufern der Nador-Lagune.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.726096,
+                        35.117058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mar Chica",
+                  "text": "A Mar Chica egy nagy tengerparti lagúna Nador közelében, amelyet egy keskeny homokdűnesáv választ el a Földközi-tengertől.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.850662,
+                        35.161068
+                  ]
+            },
+            {
+                  "name": "Camping Municipal de Kariat-Arkame",
+                  "text": "A Camping Municipal de Kariat-Arkame tengerparti sátorhelyeket kínál kényelmes távolságra a nadori lagúna csendes partjaitól.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.726096,
+                        35.117058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mar Chica",
+                  "text": "Mar Chica este o lagună de coastă mare lângă Nador, separată de Marea Mediterană printr-o fâșie îngustă de dune de nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.850662,
+                        35.161068
+                  ]
+            },
+            {
+                  "name": "Camping Municipal de Kariat-Arkame",
+                  "text": "Camping Municipal de Kariat-Arkame oferă locuri de campare pe coastă, situate convenabil aproape de țărmurile liniștite ale Lagunei Nador.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.726096,
+                        35.117058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mar Chica",
+                  "text": "Mar Chica is a large coastal lagoon near Nador, separated from the Mediterranean Sea by a narrow strip of sand dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.850662,
+                        35.161068
+                  ]
+            },
+            {
+                  "name": "Camping Municipal de Kariat-Arkame",
+                  "text": "The Camping Municipal de Kariat-Arkame provides coastal tent pitches located conveniently close to the tranquil shores of the Nador Lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.726096,
+                        35.117058
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MA-22",
     coords: [-2.8, 35.1],
@@ -799,7 +2077,88 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Une grande lagune d'eau salée.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/laguna-nador-nature-v2.webp"},
   {
-    id: "oued-tazeka-nature-v2",
+    id: "oued-tazeka-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panoramic View of Jebel Bouiblane",
+                  "text": "Ein erhöhter Aussichtspunkt, der weite Ausblicke auf den schneebedeckten Gebirgskamm des Jebel Bouiblane bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165921,
+                        34.054055
+                  ]
+            },
+            {
+                  "name": "Nationalpark Tazekka",
+                  "text": "Ein am 11. Juli 1950 gegründetes Naturschutzgebiet, das die vielfältigen Zedernwälder und die Tierwelt rund um den Berg Tazekka schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.231924,
+                        34.035407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panoramic View of Jebel Bouiblane",
+                  "text": "Egy megemelt kilátópont, ahonnan tágas, lenyűgöző kilátás nyílik a hófödte Jebel Bouiblane hegygerincre.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165921,
+                        34.054055
+                  ]
+            },
+            {
+                  "name": "Parc national de Tazekka",
+                  "text": "Az 1950. július 11-én alapított természetvédelmi terület a Tazekka-hegy körüli változatos cédruserdőket és vadvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        -4.231924,
+                        34.035407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panoramic View of Jebel Bouiblane",
+                  "text": "Un punct de belvedere înalt care oferă priveliști ample și extinse asupra crestei montane înzăpezite Jebel Bouiblane.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165921,
+                        34.054055
+                  ]
+            },
+            {
+                  "name": "Parc national de Tazekka",
+                  "text": "O rezervație naturală înființată pe 11 iulie 1950, care protejează pădurile diverse de cedru și viața sălbatică din jurul Muntelui Tazekka.",
+                  "category": "natural",
+                  "coords": [
+                        -4.231924,
+                        34.035407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panoramic View of Jebel Bouiblane",
+                  "text": "An elevated viewpoint providing expansive, sweeping vistas of the snow-capped Jebel Bouiblane mountain ridge.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165921,
+                        34.054055
+                  ]
+            },
+            {
+                  "name": "Tazekka National Park",
+                  "text": "A nature reserve established on July 11, 1950, protecting diverse cedar forests and wildlife around Mount Tazekka.",
+                  "category": "natural",
+                  "coords": [
+                        -4.231924,
+                        34.035407
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MA-23",
     coords: [-4.2, 34.0],
@@ -869,7 +2228,124 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["L'embouchure de la rivière Moulouya.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-oued-melouya-nature-v2.webp"},
   {
-    id: "oued-oued-nfiss-nature-v2",
+    id: "oued-oued-nfiss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasbah Talat n'Yacoub",
+                  "text": "Diese aus den 1890er Jahren stammende Festung zeigt die traditionelle Lehmziegelarchitektur des Tals.",
+                  "category": "castle",
+                  "coords": [
+                        -8.189311,
+                        30.993235
+                  ]
+            },
+            {
+                  "name": "Tin Mal Moschee",
+                  "text": "Diese historische Kultstätte diente als spirituelles Zentrum und Moschee im Atlasgebirge.",
+                  "category": "religious",
+                  "coords": [
+                        -8.228328,
+                        30.984688
+                  ]
+            },
+            {
+                  "name": "Agadir n’Gouf",
+                  "text": "Diese historische Festung wurde im Jahr 1905 als befestigter Kornspeicher und Verteidigungsanlage errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        -8.199564,
+                        30.987659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasbah Talat n'Yacoub",
+                  "text": "Ez az 1890-es évekből származó erőd a völgy hagyományos vályogtégla építészetét mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        -8.189311,
+                        30.993235
+                  ]
+            },
+            {
+                  "name": "e Tinmel",
+                  "text": "Ez a történelmi istentiszteleti hely szellemi központként és mecsetként szolgált az Atlasz-hegységben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.228328,
+                        30.984688
+                  ]
+            },
+            {
+                  "name": "Agadir n’Gouf",
+                  "text": "Ezt a történelmi erődítményt 1905-ben építették erődített magtárként és védelmi építményként.",
+                  "category": "castle",
+                  "coords": [
+                        -8.199564,
+                        30.987659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasbah Talat n'Yacoub",
+                  "text": "Acest castel care datează din anii 1890 prezintă arhitectura tradițională din cărămidă de noroi a văii.",
+                  "category": "castle",
+                  "coords": [
+                        -8.189311,
+                        30.993235
+                  ]
+            },
+            {
+                  "name": "e Tinmel",
+                  "text": "Acest lăcaș de cult istoric a servit drept centru spiritual și moschee în Munții Atlas.",
+                  "category": "religious",
+                  "coords": [
+                        -8.228328,
+                        30.984688
+                  ]
+            },
+            {
+                  "name": "Agadir n’Gouf",
+                  "text": "Acest castel istoric a fost construit în 1905 ca grânar fortificat și structură de apărare.",
+                  "category": "castle",
+                  "coords": [
+                        -8.199564,
+                        30.987659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasbah Talat n'Yacoub",
+                  "text": "Dating back to the 1890s, this castle showcases the traditional mud-brick architecture of the valley.",
+                  "category": "castle",
+                  "coords": [
+                        -8.189311,
+                        30.993235
+                  ]
+            },
+            {
+                  "name": "e Tinmel",
+                  "text": "This historic place of worship served as a spiritual center and mosque in the Atlas Mountains.",
+                  "category": "religious",
+                  "coords": [
+                        -8.228328,
+                        30.984688
+                  ]
+            },
+            {
+                  "name": "Agadir n’Gouf",
+                  "text": "This historical castle was constructed in 1905 as a fortified granary and defensive structure.",
+                  "category": "castle",
+                  "coords": [
+                        -8.199564,
+                        30.987659
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MA-25",
     coords: [-8.2, 31.0],
@@ -904,7 +2380,52 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Une rivière qui prend sa source dans l'Atlas.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-oued-nfiss-nature-v2.webp"},
   {
-    id: "oued-oued-ouerkha-nature-v2",
+    id: "oued-oued-ouerkha-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anergou",
+                  "text": "Anergou ist eine alte Befestigungsanlage aus Erde, die auf der rauen Landschaft der Region Oued Ouerkha thront.",
+                  "category": "castle",
+                  "coords": [
+                        -5.128059,
+                        34.503023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anergou",
+                  "text": "Anergou egy ősi földalapú erődítmény, amely az Oued Ouerkha régió zord tájának tetején magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        -5.128059,
+                        34.503023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anergou",
+                  "text": "Anergou este o veche fortificație de pământ așezată pe peisajul accidentat al regiunii Oued Ouerkha.",
+                  "category": "castle",
+                  "coords": [
+                        -5.128059,
+                        34.503023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anergou",
+                  "text": "Anergou is an ancient earthen fortification perched atop the rugged landscape of the Oued Ouerkha region.",
+                  "category": "castle",
+                  "coords": [
+                        -5.128059,
+                        34.503023
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MA-26",
     coords: [-5.2, 34.5],
@@ -939,7 +2460,52 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Un affluent du Sebou.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-oued-ouerkha-nature-v2.webp"},
   {
-    id: "oued-oued-bou-regreg-nature-v2",
+    id: "oued-oued-bou-regreg-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Résidence du roi du Maroc",
+                  "text": "Die Résidence du roi du Maroc ist ein herrschaftlicher Palastkomplex in einer grünen Parklandschaft am Fluss Bou Regreg.",
+                  "category": "castle",
+                  "coords": [
+                        -6.739437,
+                        34.031111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Résidence du roi du Maroc",
+                  "text": "A marokkói király rezidenciája egy fenséges palotakomplexum a Bou Regreg folyó zöldellő parkjában.",
+                  "category": "castle",
+                  "coords": [
+                        -6.739437,
+                        34.031111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Résidence du roi du Maroc",
+                  "text": "Reședința regelui Marocului este un complex palat grandios situat într-un parc înverzite de pe râul Bou Regreg.",
+                  "category": "castle",
+                  "coords": [
+                        -6.739437,
+                        34.031111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Résidence du roi du Maroc",
+                  "text": "The Residence of the King of Morocco is a stately palace complex set within green parkland along the Bou Regreg river.",
+                  "category": "castle",
+                  "coords": [
+                        -6.739437,
+                        34.031111
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MA-27",
     coords: [-6.8, 34.0],
@@ -974,7 +2540,52 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["Fleuve entre Rabat et Salé.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-oued-bou-regreg-nature-v2.webp"},
   {
-    id: "oued-oued-tansift-estuary-nature-v2",
+    id: "oued-oued-tansift-estuary-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Argan tree Goats",
+                  "text": "Eine berühmte Naturattraktion, bei der lokale Ziegen auf die Äste der Arganbäume klettern, um nach Nüssen zu suchen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.362371,
+                        31.547413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Argan tree Goats",
+                  "text": "Egy híres természeti látványosság, ahol a helyi kecskék felmásznak az argánfák ágaira diót keresni.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.362371,
+                        31.547413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Argan tree Goats",
+                  "text": "O faimoasă atracție naturală unde caprele locale se cațără pe ramurile arborilor de argan pentru a căuta nuci.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.362371,
+                        31.547413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Argan tree Goats",
+                  "text": "A famous natural attraction where local goats climb the branches of Argan trees to forage for nuts.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.362371,
+                        31.547413
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MA-28",
     coords: [-9.3, 31.6],
@@ -1009,7 +2620,304 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       fr: ["L'embouchure du Tensift.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/oued-oued-tansift-estuary-nature-v2.webp"},
   {
-    id: "cap-spartel-nature-v2",
+    id: "cap-spartel-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cactus Garden",
+                  "text": "In der Nähe des malerischen Vorgebirges Cap Spartel gelegen, ist dieser botanische Garten mit einer Vielzahl von Wüstenkakteen bepflanzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.89512,
+                        35.735188
+                  ]
+            },
+            {
+                  "name": "Grottes d'Hercule",
+                  "text": "Eine Seehöhle am Kap Spartel, berühmt für ihre meerseitige Öffnung in Form der afrikanischen Landkarte.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.939154,
+                        35.759797
+                  ]
+            },
+            {
+                  "name": "Kap Spartel",
+                  "text": "Ein Aussichtspunkt auf einer Landzunge, der den Eingang zur Straße von Gibraltar markiert.",
+                  "category": "natural",
+                  "coords": [
+                        -5.924216,
+                        35.79016
+                  ]
+            },
+            {
+                  "name": "Signpost of Atlantic & Mediterranean",
+                  "text": "Ein Wegweiser an der Küste, der genau den Punkt markiert, an dem der Atlantische Ozean auf das Mittelmeer trifft.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.92723,
+                        35.787673
+                  ]
+            },
+            {
+                  "name": "Ba Kacem",
+                  "text": "Ein Sandstrand an der rauen Atlantikküste nahe dem Kap Spartel.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.930373,
+                        35.776902
+                  ]
+            },
+            {
+                  "name": "Slokia",
+                  "text": "Ein Aussichtspunkt an der Küste mit weitem Blick auf die brechenden Wellen des Atlantiks.",
+                  "category": "natural",
+                  "coords": [
+                        -5.908506,
+                        35.794658
+                  ]
+            },
+            {
+                  "name": "Plage Achkar",
+                  "text": "Ein malerischer Sandstrand in der Nähe der berühmten Herkulesgrotte.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.935283,
+                        35.767958
+                  ]
+            },
+            {
+                  "name": "Borj Spartel",
+                  "text": "Ein maritimer Leuchtturm, der die Schifffahrt entlang der zerklüfteten Küste unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.916588,
+                        35.787389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cactus Garden",
+                  "text": "A festői Cap Spartel hegyfok közelében található botanikus kert, amely különféle sivatagi kaktuszokkal van beültetve.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.89512,
+                        35.735188
+                  ]
+            },
+            {
+                  "name": "Grottes d'Hercule",
+                  "text": "Tengeri barlang a Spartel-foknál, amelynek a tengerre néző nyílása Afrika térképére hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.939154,
+                        35.759797
+                  ]
+            },
+            {
+                  "name": "Cap Spartel",
+                  "text": "A Gibraltári-szoros bejáratát jelző kilátópont a hegyfokon.",
+                  "category": "natural",
+                  "coords": [
+                        -5.924216,
+                        35.79016
+                  ]
+            },
+            {
+                  "name": "Signpost of Atlantic & Mediterranean",
+                  "text": "Egy tengerparti jelzőtábla, amely pontosan azt a pontot jelöli, ahol az Atlanti-óceán találkozik a Földközi-tengerrel.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.92723,
+                        35.787673
+                  ]
+            },
+            {
+                  "name": "Ba Kacem",
+                  "text": "Homokos tengerpart a zord atlanti partvidéken, a Spartel-fok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.930373,
+                        35.776902
+                  ]
+            },
+            {
+                  "name": "Slokia",
+                  "text": "Tengerparti kilátó, ahonnan elsöprő kilátás nyílik az Atlanti-óceán hullámaira.",
+                  "category": "natural",
+                  "coords": [
+                        -5.908506,
+                        35.794658
+                  ]
+            },
+            {
+                  "name": "Plage Achkar",
+                  "text": "Festői homokos strand a híres Herkules-barlangok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.935283,
+                        35.767958
+                  ]
+            },
+            {
+                  "name": "Borj Spartel",
+                  "text": "Tengeri világítótorony, amely a zord partvonal mentén segíti a hajózást.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.916588,
+                        35.787389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cactus Garden",
+                  "text": "Situată lângă pitorescul promontoriu Cap Spartel, această grădină botanică este plantată cu o gamă diversă de cactuși de deșert.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.89512,
+                        35.735188
+                  ]
+            },
+            {
+                  "name": "Grottes d'Hercule",
+                  "text": "O peșteră marină la Capul Spartel, faimoasă pentru deschiderea sa spre mare în forma hărții Africii.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.939154,
+                        35.759797
+                  ]
+            },
+            {
+                  "name": "Cap Spartel",
+                  "text": "Un punct de belvedere pe promontoriu care marchează intrarea în Strâmtoarea Gibraltar.",
+                  "category": "natural",
+                  "coords": [
+                        -5.924216,
+                        35.79016
+                  ]
+            },
+            {
+                  "name": "Signpost of Atlantic & Mediterranean",
+                  "text": "Un indicator de coastă care marchează punctul în care Oceanul Atlantic se întâlnește cu Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.92723,
+                        35.787673
+                  ]
+            },
+            {
+                  "name": "Ba Kacem",
+                  "text": "O plajă cu nisip de pe coasta atlantică stâncoasă de lângă Capul Spartel.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.930373,
+                        35.776902
+                  ]
+            },
+            {
+                  "name": "Slokia",
+                  "text": "Un punct de belvedere pe coastă, care oferă o panoramă vastă a valurilor Atlanticului.",
+                  "category": "natural",
+                  "coords": [
+                        -5.908506,
+                        35.794658
+                  ]
+            },
+            {
+                  "name": "Plage Achkar",
+                  "text": "O plajă de nisip pitorească situată în apropiere de faimoasele Peșteri ale lui Hercule.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.935283,
+                        35.767958
+                  ]
+            },
+            {
+                  "name": "Borj Spartel",
+                  "text": "Un far maritim care sprijină navigația de-a lungul coastei stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.916588,
+                        35.787389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cactus Garden",
+                  "text": "Situated near the scenic Cap Spartel promontory, this botanical garden is planted with a diverse array of desert cacti.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.89512,
+                        35.735188
+                  ]
+            },
+            {
+                  "name": "Hercules Caves",
+                  "text": "A sea cave at Cape Spartel, famous for its seaward opening shaped like the map of Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.939154,
+                        35.759797
+                  ]
+            },
+            {
+                  "name": "Cap Spartel",
+                  "text": "A promontory viewpoint marking the entrance to the Strait of Gibraltar.",
+                  "category": "natural",
+                  "coords": [
+                        -5.924216,
+                        35.79016
+                  ]
+            },
+            {
+                  "name": "Signpost of Atlantic & Mediterranean",
+                  "text": "A coastal signpost marking the exact point where the Atlantic Ocean meets the Mediterranean Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.92723,
+                        35.787673
+                  ]
+            },
+            {
+                  "name": "Ba Kacem",
+                  "text": "A sandy coastal beach situated along the rugged Atlantic shore near Cape Spartel.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.930373,
+                        35.776902
+                  ]
+            },
+            {
+                  "name": "Slokia",
+                  "text": "A coastal viewpoint offering sweeping vistas over the crashing waves of the Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -5.908506,
+                        35.794658
+                  ]
+            },
+            {
+                  "name": "Plage Achkar",
+                  "text": "A scenic sandy beach located near the famous Caves of Hercules.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.935283,
+                        35.767958
+                  ]
+            },
+            {
+                  "name": "Borj Spartel",
+                  "text": "A maritime lighthouse structure aiding navigation along the rugged coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.916588,
+                        35.787389
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "MA-29",
     coords: [-5.9, 35.8],

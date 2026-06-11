@@ -99,7 +99,52 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kachikally-pool-landmarks-v2",
+    id: "kachikally-pool-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Der Kachikally Crocodile Pool ist eine heilige Stätte, an der Besucher gezähmte Krokodile aus der Nähe beobachten und manchmal berühren können.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "A Kachikally Krokodilmedence egy szent hely, ahol a látogatók közelről megfigyelhetik és néha meg is érinthetik a szelídített krokodilokat.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Piscina cu crocodili Kachikally este un loc sacru unde vizitatorii pot observa îndeaproape și uneori chiar atinge crocodilii blânzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "The Kachikally Crocodile Pool is a sacred site where visitors can closely observe and sometimes touch tamed crocodiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-W",
     coords: [-16.6711, 13.4764],
@@ -195,7 +240,88 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "st-josephs-cathedral-landmarks-v2",
+    id: "st-josephs-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Diese 1933 eingeweihte historische Kultstätte zeigt beständige Kirchenarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        -16.575144,
+                        13.454704
+                  ]
+            },
+            {
+                  "name": "Gambia National Museum",
+                  "text": "Dieses Nationalmuseum betreut umfangreiche Sammlungen, die das kulturelle und historische Erbe des Landes dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -16.575785,
+                        13.455978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Az 1933-ban felavatott történelmi istentiszteleti hely a maradandó egyházi építészetet mutatja be.",
+                  "category": "religious",
+                  "coords": [
+                        -16.575144,
+                        13.454704
+                  ]
+            },
+            {
+                  "name": "Gambia National Museum",
+                  "text": "Ez a nemzeti múzeum kiterjedt gyűjteményeket gondoz, amelyek az ország kulturális és történelmi örökségét dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        -16.575785,
+                        13.455978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Inaugurat în 1933, acest lăcaș de cult istoric prezintă o arhitectură ecleziastică de durată.",
+                  "category": "religious",
+                  "coords": [
+                        -16.575144,
+                        13.454704
+                  ]
+            },
+            {
+                  "name": "Gambia National Museum",
+                  "text": "Acest muzeu național curatoriază colecții extinse care documentează patrimoniul cultural și istoric al țării.",
+                  "category": "museum",
+                  "coords": [
+                        -16.575785,
+                        13.455978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Inaugurated in 1933, this historic place of worship showcases enduring ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -16.575144,
+                        13.454704
+                  ]
+            },
+            {
+                  "name": "Gambia National Museum",
+                  "text": "This national museum curates extensive collections documenting the cultural and historical heritage of the country.",
+                  "category": "museum",
+                  "coords": [
+                        -16.575785,
+                        13.455978
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-B",
     coords: [-16.5758, 13.4550],
@@ -243,7 +369,52 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "albert-market-landmarks-v2",
+    id: "albert-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Albert Market",
+                  "text": "Diese geschäftige Attraktion ist ein pulsierendes Zentrum von Verkaufsständen und traditionellen lokalen Händlern.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.571654,
+                        13.454109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albert Market",
+                  "text": "Ez a nyüzsgő látványosság a kereskedelmi standok és a hagyományos helyi árusok élénk központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.571654,
+                        13.454109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albert Market",
+                  "text": "Această atracție plină de viață este un centru vibrant de tarabe comerciale și vânzători locali tradiționali.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.571654,
+                        13.454109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albert Market",
+                  "text": "This bustling attraction is a vibrant hub of commercial stalls and traditional local vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.571654,
+                        13.454109
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-B",
     coords: [-16.5728, 13.4533],
@@ -291,7 +462,52 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "state-house-gambia-landmarks-v2",
+    id: "state-house-gambia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral of Our Lady of the Assumption",
+                  "text": "Diese bedeutende katholische Kultstätte dient als zentrale Kathedrale der Diözese.",
+                  "category": "religious",
+                  "coords": [
+                        -16.574426,
+                        13.451061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral of Our Lady of the Assumption",
+                  "text": "Ez a kiemelkedő katolikus istentiszteleti hely az egyházmegye központi katedrálisaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -16.574426,
+                        13.451061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral of Our Lady of the Assumption",
+                  "text": "Acest important lăcaș de cult catolic servește drept catedrală centrală pentru eparhie.",
+                  "category": "religious",
+                  "coords": [
+                        -16.574426,
+                        13.451061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral of Our Lady of the Assumption",
+                  "text": "This prominent Catholic place of worship serves as a central cathedral for the diocese.",
+                  "category": "religious",
+                  "coords": [
+                        -16.574426,
+                        13.451061
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-B",
     coords: [-16.5739, 13.4517],
@@ -339,7 +555,124 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-museum-gambia-landmarks-v2",
+    id: "national-museum-gambia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arch 22 Museum",
+                  "text": "Das Arch 22 Museum befindet sich im Inneren des monumentalen Bogens und zeigt Ausstellungen zur gambischen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -16.582496,
+                        13.460224
+                  ]
+            },
+            {
+                  "name": "Banjul Mosque",
+                  "text": "Die Banjul Mosque ist ein bedeutendes islamisches Gotteshaus, das sich durch seine markanten Minarette in der Gegend von national-museum-gambia-landmarks-v2 auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -16.580298,
+                        13.458587
+                  ]
+            },
+            {
+                  "name": "Moschee König Fahd",
+                  "text": "Die King Fahad Mosque ist ein imposantes islamisches Gotteshaus, das der muslimischen Gemeinde in national-museum-gambia-landmarks-v2 dient.",
+                  "category": "religious",
+                  "coords": [
+                        -16.582759,
+                        13.457083
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arch 22 Museum",
+                  "text": "Az Arch 22 Múzeum a monumentális boltív belsejében található, és Gambia történelmét és kultúráját bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -16.582496,
+                        13.460224
+                  ]
+            },
+            {
+                  "name": "Banjul Mosque",
+                  "text": "A Banjul-mecset egy jelentős iszlám istentiszteleti hely, amelyet jellegzetes minaretjei jellemeznek a national-museum-gambia-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -16.580298,
+                        13.458587
+                  ]
+            },
+            {
+                  "name": "King Fahad Mosque",
+                  "text": "A King Fahad Mosque egy impozáns iszlám istentiszteleti hely, amely a muszlim közösséget szolgálja national-museum-gambia-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -16.582759,
+                        13.457083
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arch 22 Museum",
+                  "text": "Muzeul Arch 22 este situat în interiorul arcului monumental, prezentând expoziții despre istoria și cultura Gambiei.",
+                  "category": "museum",
+                  "coords": [
+                        -16.582496,
+                        13.460224
+                  ]
+            },
+            {
+                  "name": "Banjul Mosque",
+                  "text": "Moscheea Banjul este un lăcaș de cult islamic important, caracterizat prin minaretele sale distincte din zona national-museum-gambia-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -16.580298,
+                        13.458587
+                  ]
+            },
+            {
+                  "name": "King Fahad Mosque",
+                  "text": "Moscheea King Fahad este un impunător lăcaș de cult islamic care deservește comunitatea musulmană din national-museum-gambia-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -16.582759,
+                        13.457083
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arch 22 Museum",
+                  "text": "The Arch 22 Museum is situated inside the monumental arch, showcasing exhibitions on Gambian history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -16.582496,
+                        13.460224
+                  ]
+            },
+            {
+                  "name": "Banjul Mosque",
+                  "text": "Banjul Mosque is a significant Islamic place of worship characterized by its distinct minarets in the national-museum-gambia-landmarks-v2 area.",
+                  "category": "religious",
+                  "coords": [
+                        -16.580298,
+                        13.458587
+                  ]
+            },
+            {
+                  "name": "King Fahad Mosque",
+                  "text": "King Fahad Mosque is an imposing Islamic house of worship serving the Muslim community in national-museum-gambia-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -16.582759,
+                        13.457083
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-B",
     coords: [-16.5811, 13.4594],
@@ -483,7 +816,52 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tanji-village-museum-landmarks-v2",
+    id: "tanji-village-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "Diese lebhafte Anlage in Tanji zeigt das traditionelle Räuchern und Handeln von frisch gefangenem Fisch.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798206,
+                        13.35674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "Ez a nyüzsgő tanji-i piac és füstölő a frissen fogott halak hagyományos feldolgozását és árusítását mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798206,
+                        13.35674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "Această piață animată din Tanji prezintă procesul tradițional de afumare și vânzare a peștelui proaspăt prins.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798206,
+                        13.35674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "This bustling market and smokery in Tanji showcases the traditional processing and trading of fresh-caught fish.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798206,
+                        13.35674
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-W",
     coords: [-16.7861, 13.3542],
@@ -531,7 +909,124 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kerbatch-stone-circles-landmarks-v2",
+    id: "kerbatch-stone-circles-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone circles",
+                  "text": "Die Steinkreise sind ein altes megalithisches Denkmal in Kerbatch.",
+                  "category": "historical",
+                  "coords": [
+                        -14.995809,
+                        13.721257
+                  ]
+            },
+            {
+                  "name": "Epic view of Gambia river, heard a Hippo, didn’t see it…",
+                  "text": "Dieser Aussichtspunkt bietet malerische Panoramen mit Blick auf den Gambia-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        -14.969468,
+                        13.720664
+                  ]
+            },
+            {
+                  "name": "Kahi Badi Forest Park",
+                  "text": "Der Kahi Badi Forest Park ist ein Naturschutzgebiet in der Nähe der Steinkreise von Kerbatch.",
+                  "category": "natural",
+                  "coords": [
+                        -15.040418,
+                        13.734536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone circles",
+                  "text": "A Kőkörök egy ősi megalitikus emlékmű, amely Kerbatchban található.",
+                  "category": "historical",
+                  "coords": [
+                        -14.995809,
+                        13.721257
+                  ]
+            },
+            {
+                  "name": "Epic view of Gambia river, heard a Hippo, didn’t see it…",
+                  "text": "Ez a kilátó festői panorámát kínál a Gambia-folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        -14.969468,
+                        13.720664
+                  ]
+            },
+            {
+                  "name": "Kahi Badi Forest Park",
+                  "text": "A Kahi Badi Erdőpark egy természetvédelmi terület a kerbatchi kőkörök közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -15.040418,
+                        13.734536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone circles",
+                  "text": "Cercurile de piatră reprezintă un vechi monument megalitic situat la Kerbatch.",
+                  "category": "historical",
+                  "coords": [
+                        -14.995809,
+                        13.721257
+                  ]
+            },
+            {
+                  "name": "Epic view of Gambia river, heard a Hippo, didn’t see it…",
+                  "text": "Acest punct de belvedere oferă panorame pitorești cu vedere la fluviul Gambia.",
+                  "category": "natural",
+                  "coords": [
+                        -14.969468,
+                        13.720664
+                  ]
+            },
+            {
+                  "name": "Kahi Badi Forest Park",
+                  "text": "Kahi Badi Forest Park este o rezervație naturală lângă cercurile de piatră de la Kerbatch.",
+                  "category": "natural",
+                  "coords": [
+                        -15.040418,
+                        13.734536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone circles",
+                  "text": "The Stone circles are an ancient megalithic monument located at Kerbatch.",
+                  "category": "historical",
+                  "coords": [
+                        -14.995809,
+                        13.721257
+                  ]
+            },
+            {
+                  "name": "Epic view of Gambia river, heard a Hippo, didn’t see it…",
+                  "text": "This viewpoint offers scenic panoramas overlooking the Gambia river.",
+                  "category": "natural",
+                  "coords": [
+                        -14.969468,
+                        13.720664
+                  ]
+            },
+            {
+                  "name": "Kahi Badi Forest Park",
+                  "text": "Kahi Badi Forest Park is a natural reserve near the Kerbatch stone circles.",
+                  "category": "natural",
+                  "coords": [
+                        -15.040418,
+                        13.734536
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-M",
     coords: [-15.0333, 13.7500],
@@ -579,7 +1074,52 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mungo-park-memorial-landmarks-v2",
+    id: "mungo-park-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slave House",
+                  "text": "Dieses historische Museum dient als Gedenkstätte, die die düstere Geschichte des Sklavenhandels bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -14.763979,
+                        13.543768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slave House",
+                  "text": "Ez a történelmi múzeum a rabszolgakereskedelem komor történetét megőrző emlékhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -14.763979,
+                        13.543768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slave House",
+                  "text": "Acest muzeu istoric servește drept memorial care păstrează istoria sumbră a comerțului cu sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        -14.763979,
+                        13.543768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slave House",
+                  "text": "This historical museum serves as a memorial preserving the grim history of the slave trade.",
+                  "category": "museum",
+                  "coords": [
+                        -14.763979,
+                        13.543768
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-M",
     coords: [-14.7667, 13.5167],
@@ -723,7 +1263,88 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sir-dawda-conference-center-landmarks-v2",
+    id: "sir-dawda-conference-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brusubi Phase1 market",
+                  "text": "Der Brusubi Phase1 market ist ein geschäftiger lokaler Handelsplatz, an dem sich Einheimische treffen, um frische Produkte und Waren zu kaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.729426,
+                        13.400552
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "Ein Küsten-Strandresort, das einen sandigen Rückzugsort am Ozean bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733866,
+                        13.423405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brusubi Phase1 market",
+                  "text": "A Brusubi Phase1 piac egy nyüzsgő közösségi kereskedelmi központ, ahol a helyiek friss termékeket és árukat vásárolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.729426,
+                        13.400552
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "Tengerparti üdülőhely, amely homokos menedéket kínál az óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733866,
+                        13.423405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brusubi Phase1 market",
+                  "text": "Piața Brusubi Phase1 este un centru comercial comunitar plin de viață, unde localnicii se adună pentru a cumpăra produse proaspete și bunuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.729426,
+                        13.400552
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "O stațiune pe plajă de pe coastă, oferind un refugiu cu nisip la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733866,
+                        13.423405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brusubi Phase1 market",
+                  "text": "Brusubi Phase1 market is a bustling community trading hub where locals gather to buy fresh produce and goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.729426,
+                        13.400552
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "A coastal beach resort providing a sandy retreat by the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733866,
+                        13.423405
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-W",
     coords: [-16.7214, 13.4183],
@@ -963,7 +1584,52 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sanneh-mentering-landmarks-v2",
+    id: "sanneh-mentering-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sannehmentereng",
+                  "text": "Eine landschaftlich reizvolle lokale Attraktion, bekannt für ihre kulturelle Bedeutung in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sannehmentereng",
+                  "text": "Festői helyi látványosság, amely a környéken betöltött kulturális jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sannehmentereng",
+                  "text": "O atracție locală pitorească cunoscută pentru semnificația sa culturală în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sannehmentereng",
+                  "text": "A scenic local attraction known for its cultural significance in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387578
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GM-W",
     coords: [-16.7611, 13.3889],

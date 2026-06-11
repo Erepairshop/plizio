@@ -39,7 +39,124 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "fada-n-gourma-relief-v2",
+    id: "fada-n-gourma-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marché à bétail",
+                  "text": "Der Marché à bétail ist ein belebter, staubiger Viehmarkt unter freiem Himmel, der für die lokale Agrarwirtschaft von entscheidender Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        0.388346,
+                        12.063233
+                  ]
+            },
+            {
+                  "name": "baobab",
+                  "text": "Dieser dicke, uralte Affenbrotbaum ist ein ikonisches Naturdenkmal in der trockenen Landschaft um Fada N'Gourma.",
+                  "category": "landmark",
+                  "coords": [
+                        0.406343,
+                        12.035679
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique Bantia",
+                  "text": "Der Jardin Botanique Bantia zeigt eine Reihe regionaler bewirtschafteter Pflanzenarten und bietet eine schattige, grüne Oase.",
+                  "category": "landmark",
+                  "coords": [
+                        0.385002,
+                        12.001175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marché à bétail",
+                  "text": "A Marché à bétail egy nyüzsgő, poros szabadtéri állatpiac, amely elengedhetetlen a helyi mezőgazdasági gazdaság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        0.388346,
+                        12.063233
+                  ]
+            },
+            {
+                  "name": "baobab",
+                  "text": "Ez a vastag törzsű, ősi majomkenyérfa ikonikus természeti tájékozódási pontként áll a Fada N'Gourma körüli száraz tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        0.406343,
+                        12.035679
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique Bantia",
+                  "text": "A Jardin Botanique Bantia számos regionális, gondozott növényfajt mutat be, és árnyékos, zöld oázist biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        0.385002,
+                        12.001175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marché à bétail",
+                  "text": "Marché à bétail este o piață de animale în aer liber, plină de viață și prăfuită, esențială pentru economia agricolă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        0.388346,
+                        12.063233
+                  ]
+            },
+            {
+                  "name": "baobab",
+                  "text": "Acest baobab masiv cu trunchi gros este un punct de reper natural iconic în peisajul uscat din jurul Fada N'Gourma.",
+                  "category": "landmark",
+                  "coords": [
+                        0.406343,
+                        12.035679
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique Bantia",
+                  "text": "Jardin Botanique Bantia prezintă o gamă de specii de plante regionale cultivate și oferă o oază verde și umbrită.",
+                  "category": "landmark",
+                  "coords": [
+                        0.385002,
+                        12.001175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marché à bétail",
+                  "text": "The Marché à bétail is a bustling, dusty open-air livestock market essential to the local agricultural economy.",
+                  "category": "landmark",
+                  "coords": [
+                        0.388346,
+                        12.063233
+                  ]
+            },
+            {
+                  "name": "baobab",
+                  "text": "This thick-trunked, ancient baobab tree stands as an iconic natural landmark in the dry landscape around Fada N'Gourma.",
+                  "category": "landmark",
+                  "coords": [
+                        0.406343,
+                        12.035679
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique Bantia",
+                  "text": "The Jardin Botanique Bantia showcases an array of regional cultivated plant species and provides a shaded, green oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        0.385002,
+                        12.001175
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-GN",
     coords: [0.35, 12.06],
@@ -75,7 +192,88 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "hounde-relief-v2",
+    id: "hounde-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hounde gold mining project",
+                  "text": "Dieser Aussichtspunkt blickt auf die weitläufigen Ausgrabungen des Goldbergbauprojekts Houndé.",
+                  "category": "natural",
+                  "coords": [
+                        -3.537218,
+                        11.427242
+                  ]
+            },
+            {
+                  "name": "MSA Area Hounde Gold Mining Project",
+                  "text": "Ein Beobachtungspunkt, der einen weiten Blick über das aktive MSA-Gebiet der Houndé-Goldmine bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.535245,
+                        11.426983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hounde gold mining project",
+                  "text": "Ez a kilátó a Houndé aranybányászati projekt kiterjedt ásatásaira tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        -3.537218,
+                        11.427242
+                  ]
+            },
+            {
+                  "name": "MSA Area Hounde Gold Mining Project",
+                  "text": "Egy megfigyelőpont, amely széles kilátást nyújt a Houndé aranybánya aktív MSA területére.",
+                  "category": "natural",
+                  "coords": [
+                        -3.535245,
+                        11.426983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hounde gold mining project",
+                  "text": "Acest punct de belvedere oferă o privire asupra excavațiilor extinse ale proiectului de exploatare a aurului Houndé.",
+                  "category": "natural",
+                  "coords": [
+                        -3.537218,
+                        11.427242
+                  ]
+            },
+            {
+                  "name": "MSA Area Hounde Gold Mining Project",
+                  "text": "Un loc de observație care oferă o vedere largă asupra zonei active MSA a minei de aur Houndé.",
+                  "category": "natural",
+                  "coords": [
+                        -3.535245,
+                        11.426983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hounde gold mining project",
+                  "text": "This viewpoint looks over the extensive excavations of the Houndé gold mining project.",
+                  "category": "natural",
+                  "coords": [
+                        -3.537218,
+                        11.427242
+                  ]
+            },
+            {
+                  "name": "MSA Area Hounde Gold Mining Project",
+                  "text": "An observation spot offering a broad view across the active MSA area of the Houndé gold mine.",
+                  "category": "natural",
+                  "coords": [
+                        -3.535245,
+                        11.426983
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-TU",
     coords: [-3.52, 11.5],
@@ -111,7 +309,52 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "ouahigouya-relief-v2",
+    id: "ouahigouya-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond Point Naba Tigré",
+                  "text": "Ein markantes Kreisverkehrsdenkmal, das eine wichtige Kreuzung in der reliefartigen Landschaft von Ouahigouya markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -2.425695,
+                        13.577329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond Point Naba Tigré",
+                  "text": "Egy kiemelkedő körforgalmi emlékmű, amely egy fontos kereszteződést jelöl Ouahigouya domborzati táján.",
+                  "category": "historical",
+                  "coords": [
+                        -2.425695,
+                        13.577329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond Point Naba Tigré",
+                  "text": "Un monument proeminent într-un sens giratoriu, care marchează o intersecție cheie în peisajul cu relief din Ouahigouya.",
+                  "category": "historical",
+                  "coords": [
+                        -2.425695,
+                        13.577329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond Point Naba Tigré",
+                  "text": "A prominent roundabout monument marking a key intersection in the relief landscape of Ouahigouya.",
+                  "category": "historical",
+                  "coords": [
+                        -2.425695,
+                        13.577329
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-YO",
     coords: [-2.42, 13.58],
@@ -255,7 +498,52 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "diapaga-relief-v2",
+    id: "diapaga-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eco Musée de Diapaga",
+                  "text": "Das Eco Musée de Diapaga widmet sich dem ökologischen Erbe und den in die Landschaft integrierten traditionellen Lebenspraktiken.",
+                  "category": "museum",
+                  "coords": [
+                        1.786552,
+                        12.075539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eco Musée de Diapaga",
+                  "text": "Az Eco Musée de Diapaga a tájba integrált ökológiai örökségnek és a hagyományos életmódnak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        1.786552,
+                        12.075539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eco Musée de Diapaga",
+                  "text": "Eco Musée de Diapaga este dedicat moștenirii ecologice și practicilor tradiționale de viață integrate în peisaj.",
+                  "category": "museum",
+                  "coords": [
+                        1.786552,
+                        12.075539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eco Musée de Diapaga",
+                  "text": "The Eco Musée de Diapaga is dedicated to the ecological heritage and traditional living practices integrated into the surrounding landscape.",
+                  "category": "museum",
+                  "coords": [
+                        1.786552,
+                        12.075539
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-TP",
     coords: [1.79, 12.06],
@@ -291,7 +579,52 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "leo-relief-v2",
+    id: "leo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Notre Dame de Lourdes",
+                  "text": "Eine katholische Wegkapelle, die Unserer Lieben Frau von Lourdes gewidmet ist und sich in der Region Léo befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.100676,
+                        11.095484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Notre Dame de Lourdes",
+                  "text": "A Lourdes-i Szűzanyának szentelt katolikus útszéli kápolna Léo térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.100676,
+                        11.095484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Notre Dame de Lourdes",
+                  "text": "O capelă catolică de pe marginea drumului, închinată Maicii Domnului de la Lourdes, situată în zona Léo.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.100676,
+                        11.095484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Notre Dame de Lourdes",
+                  "text": "A Catholic wayside chapel dedicated to Our Lady of Lourdes situated in the Léo area.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.100676,
+                        11.095484
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-SS",
     coords: [-2.1, 11.1],
@@ -543,7 +876,52 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "boulsa-relief-v2",
+    id: "boulsa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "chez sedogo",
+                  "text": "Eine lokale Versammlungsattraktion vor der malerischen Kulisse von Boulsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.607703,
+                        12.779177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chez sedogo",
+                  "text": "Egy helyi gyülekezőhely Boulsa festői domborzatának hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.607703,
+                        12.779177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chez sedogo",
+                  "text": "O atracție locală de adunare situată pe fundalul reliefului pitoresc din Boulsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.607703,
+                        12.779177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chez sedogo",
+                  "text": "A local gathering attraction set against the scenic relief of Boulsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.607703,
+                        12.779177
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-NR",
     coords: [-0.55, 12.75],
@@ -651,7 +1029,88 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "koudougou-relief-v2",
+    id: "koudougou-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Résidence AMADOU",
+                  "text": "Ein markantes, burgähnliches Wohngebäude im reliefartigen Gelände von Koudougou.",
+                  "category": "castle",
+                  "coords": [
+                        -2.345222,
+                        12.23851
+                  ]
+            },
+            {
+                  "name": "Place de la Nation",
+                  "text": "Ein bedeutender öffentlicher Platz und ein Denkmal, das als zentraler Versammlungsort in Koudougou dient.",
+                  "category": "historical",
+                  "coords": [
+                        -2.341403,
+                        12.251715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Résidence AMADOU",
+                  "text": "Egy kiemelkedő, kastélyszerű lakóépület Koudougou domborzati területén.",
+                  "category": "castle",
+                  "coords": [
+                        -2.345222,
+                        12.23851
+                  ]
+            },
+            {
+                  "name": "Place de la Nation",
+                  "text": "Egy jelentős központ tér és emlékmű, amely központi gyülekezőhelyként szolgál Koudougouban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.341403,
+                        12.251715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Résidence AMADOU",
+                  "text": "O clădire rezidențială proeminentă, asemănătoare unui castel, în terenul accidentat din Koudougou.",
+                  "category": "castle",
+                  "coords": [
+                        -2.345222,
+                        12.23851
+                  ]
+            },
+            {
+                  "name": "Place de la Nation",
+                  "text": "O piață publică semnificativă și un monument care servește drept loc central de adunare în Koudougou.",
+                  "category": "historical",
+                  "coords": [
+                        -2.341403,
+                        12.251715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "résidence AMADOU",
+                  "text": "A prominent, castle-like residential building in the relief terrain of Koudougou.",
+                  "category": "castle",
+                  "coords": [
+                        -2.345222,
+                        12.23851
+                  ]
+            },
+            {
+                  "name": "Place de la Nation",
+                  "text": "A significant public square and monument serving as a central gathering place in Koudougou.",
+                  "category": "historical",
+                  "coords": [
+                        -2.341403,
+                        12.251715
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-BL",
     coords: [-2.36, 12.25],
@@ -687,7 +1146,196 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "ouagadougou-plateau-v2",
+    id: "ouagadougou-plateau-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place Naaba Koom",
+                  "text": "Dieser öffentliche Platz in der Nähe des Bahnhofs ist mit einer hoch aufragenden Bronzestatue einer Frau geschmückt, die Reisende mit Wasser willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.526277,
+                        12.372975
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée",
+                  "text": "Diese große Zentralmoschee besticht durch ihre markante moderne islamische Architektur und dient als wichtiger Versammlungsort für die muslimische Gemeinde der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.521389,
+                        12.366216
+                  ]
+            },
+            {
+                  "name": "Musée de la Musique de Ouagadougou",
+                  "text": "In einem markanten Lehmgebäude mit sahelischen Architekturelementen untergebracht, stellt dieses Museum traditionelle burkinische Musikinstrumente aus.",
+                  "category": "museum",
+                  "coords": [
+                        -1.516812,
+                        12.373491
+                  ]
+            },
+            {
+                  "name": "Grand Marché",
+                  "text": "Dieser nach einem Brand nach Entwürfen von DLM Architectes neu errichtete, weitläufige Zentralmarkt ist ein geschäftiger Knotenpunkt für Textilien, Kunsthandwerk und frische Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.523502,
+                        12.368294
+                  ]
+            },
+            {
+                  "name": "Rond-Point des Nations Unis",
+                  "text": "Dieser große städtische Kreisverkehr wird von einem markanten globusähnlichen Denkmal geprägt, das die internationale Einheit symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.519625,
+                        12.371403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Naaba Koom",
+                  "text": "A vasútállomás melletti közteret egy nőt ábrázoló magas bronzszobor díszíti, aki vízzel köszönti az utazókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.526277,
+                        12.372975
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée",
+                  "text": "Ez a nagy központi mecset lenyűgöző modern iszlám építészettel büszkélkedhet, és a város muszlim közösségének fő gyülekezési helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -1.521389,
+                        12.366216
+                  ]
+            },
+            {
+                  "name": "Musée de la Musique de Ouagadougou",
+                  "text": "A száhel építészeti elemekkel díszített, jellegzetes vályogtégla épületben helyet kapó múzeum hagyományos burkinai hangszereket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -1.516812,
+                        12.373491
+                  ]
+            },
+            {
+                  "name": "Grand Marché",
+                  "text": "A DLM Architectes tervei alapján egy tűzvész után újjáépült, kiterjedt központi piac a textilek, a kézműves termékek és a friss élelmiszerek nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.523502,
+                        12.368294
+                  ]
+            },
+            {
+                  "name": "Rond-Point des Nations Unis",
+                  "text": "Ezt a jelentős városi körforgalmat egy kiemelkedő, földgömbszerű emlékmű díszíti, amely a nemzetközi egységet szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.519625,
+                        12.371403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Naaba Koom",
+                  "text": "Această piață publică de lângă gară este împodobită cu o statuie impunătoare din bronz a unei femei care întâmpină călătorii cu apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.526277,
+                        12.372975
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée",
+                  "text": "Această mare moschee centrală prezintă o arhitectură islamică modernă izbitoare și servește ca principal loc de adunare pentru comunitatea musulmană a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -1.521389,
+                        12.366216
+                  ]
+            },
+            {
+                  "name": "Musée de la Musique de Ouagadougou",
+                  "text": "Găzduit într-o clădire distinctă din cărămidă de noroi cu elemente arhitecturale saheliene, acest muzeu expune instrumente muzicale tradiționale burkinabeze.",
+                  "category": "museum",
+                  "coords": [
+                        -1.516812,
+                        12.373491
+                  ]
+            },
+            {
+                  "name": "Grand Marché",
+                  "text": "Reconstruit după un incendiu după proiectele DLM Architectes, acest bazar central întins este un centru aglomerat pentru textile, artizanat și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.523502,
+                        12.368294
+                  ]
+            },
+            {
+                  "name": "Rond-Point des Nations Unis",
+                  "text": "Acest sens giratoriu principal al orașului prezintă un monument proeminent sub formă de glob, care simbolizează unitatea internațională.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.519625,
+                        12.371403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Naaba Koom",
+                  "text": "This public square near the railway station is adorned with a towering bronze statue of a woman welcoming travelers with water.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.526277,
+                        12.372975
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée",
+                  "text": "This grand central mosque features striking modern Islamic architecture and serves as a major gathering place for the city's Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        -1.521389,
+                        12.366216
+                  ]
+            },
+            {
+                  "name": "Musée de la Musique de Ouagadougou",
+                  "text": "Housed in a distinct mud-brick building with Sahelian architectural elements, this museum exhibits traditional Burkinabé musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -1.516812,
+                        12.373491
+                  ]
+            },
+            {
+                  "name": "Grand Marché",
+                  "text": "Rebuilt after a fire with designs by DLM Architectes, this sprawling central market is a bustling hub for textiles, crafts, and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.523502,
+                        12.368294
+                  ]
+            },
+            {
+                  "name": "Rond-Point des Nations Unis",
+                  "text": "This major city roundabout features a prominent globe-like monument symbolizing international unity.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.519625,
+                        12.371403
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-KA",
     coords: [-1.52, 12.37],
@@ -723,7 +1371,52 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     },
   },
   {
-    id: "bobodioulasso-relief-v2",
+    id: "bobodioulasso-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espace Dafra",
+                  "text": "Die Sportanlage bietet aktive Erholungsräume für sportliche Veranstaltungen in der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.266082,
+                        11.180583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace Dafra",
+                  "text": "A sportlétesítmény aktív rekreációs tereket biztosít a környék sporteseményeihez.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.266082,
+                        11.180583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace Dafra",
+                  "text": "Baza sportivă oferă spații de recreere activă pentru evenimentele atletice din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.266082,
+                        11.180583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace Dafra",
+                  "text": "The sports facility provides active recreation spaces for athletic events in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.266082,
+                        11.180583
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BF-HU",
     coords: [-4.28, 11.18],

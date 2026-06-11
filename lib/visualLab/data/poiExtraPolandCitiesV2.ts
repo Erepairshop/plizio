@@ -2541,7 +2541,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Johann-Paul-II-Domsmuseum",
-                  "text": "Das Johannes-Paul-II.-Kathedralenmuseum befindet sich am Wawel in Krakau.",
+                  "text": "Das 1978 gegründete Johannes-Paul-II.-Kathedralmuseum auf dem Wawel in Krakau.",
                   "category": "museum",
                   "coords": [
                         19.934496,
@@ -2721,7 +2721,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion IVa \"Luneta Warszawska\"",
-                  "text": "Die Luneta Warszawska ist ein historisches Fort in Krakau.",
+                  "text": "Die denkmalgeschützte Bastion IVa 'Luneta Warszawska' in Krakau.",
                   "category": "fortress",
                   "coords": [
                         19.946905,
@@ -2793,7 +2793,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Filharmonia Krakowska imienia Karola Szymanowskiego",
-                  "text": "Renommierte Philharmonie in Krakau.",
+                  "text": "Die denkmalgeschützte Krakauer Philharmonie, benannt nach Karol Szymanowski.",
                   "category": "cultural",
                   "coords": [
                         19.932579,
@@ -2865,7 +2865,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Marienbasilika",
-                  "text": "Bedeutende gotische Basilika in Krakau mit berühmtem Altar.",
+                  "text": "Die Marienbasilika (St. Mary's Basilica) in Krakau, erbaut ab 1223, beherbergt den berühmten Veit-Stoss-Altar.",
                   "category": "religious",
                   "coords": [
                         19.93945,
@@ -2874,7 +2874,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Floriana",
-                  "text": "Historische Kirche in Krakau.",
+                  "text": "Die denkmalgeschützte St.-Florians-Kirche in Krakau.",
                   "category": "religious",
                   "coords": [
                         19.943276,
@@ -2901,7 +2901,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Andrzeja",
-                  "text": "Historische romanische Kirche in Krakau.",
+                  "text": "Die Kirche St. Andreas in Krakau, erbaut 1098, ist eine der ältesten romanischen Kirchen der Stadt.",
                   "category": "religious",
                   "coords": [
                         19.938429,
@@ -3245,7 +3245,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "II. János Pál Székesegyházi Múzeum",
-                  "text": "A II. János Pál Kathedrális Múzeum a krakkói Wawel-dombon található.",
+                  "text": "A krakkói Wawel-dombon található II. János Pál Székesegyházi Múzeum, 1978-ban alapították.",
                   "category": "museum",
                   "coords": [
                         19.934496,
@@ -3425,7 +3425,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion IVa \"Luneta Warszawska\"",
-                  "text": "A Luneta Warszawska egy történelmi erőd Krakkóban.",
+                  "text": "A műemlék Bastion IVa 'Luneta Warszawska' Krakkóban.",
                   "category": "fortress",
                   "coords": [
                         19.946905,
@@ -3497,7 +3497,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Filharmonia Krakowska imienia Karola Szymanowskiego",
-                  "text": "Neves filharmónia Krakkóban.",
+                  "text": "A Karol Szymanowskiról elnevezett krakkói filharmónia, műemlék.",
                   "category": "cultural",
                   "coords": [
                         19.932579,
@@ -3569,7 +3569,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Mária Mennybevétele templom",
-                  "text": "Jelentős gótikus bazilika Krakkóban, híres oltárral.",
+                  "text": "A krakkói Mária-bazilika (St. Mary's Basilica) építése 1223-ban kezdődött, itt található a híres Veit Stoss-oltár.",
                   "category": "religious",
                   "coords": [
                         19.93945,
@@ -3578,7 +3578,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Szent Flórián templom",
-                  "text": "Történelmi templom Krakkóban.",
+                  "text": "A krakkói Szent Flórián-templom, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.943276,
@@ -3605,7 +3605,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Szent András templom",
-                  "text": "Történelmi román stílusú templom Krakkóban.",
+                  "text": "A krakkói Szent András-templom (Church of Saint Andrew) 1098-ban épült, a város egyik legrégebbi román stílusú temploma.",
                   "category": "religious",
                   "coords": [
                         19.938429,
@@ -3949,7 +3949,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Katedralne im. Jana Pawła II",
-                  "text": "Muzeul Catedralei Ioan Paul al II-lea este situat pe dealul Wawel din Cracovia.",
+                  "text": "Muzeul Catedralei Ioan Paul al II-lea de pe dealul Wawel din Cracovia, fondat în 1978.",
                   "category": "museum",
                   "coords": [
                         19.934496,
@@ -4129,7 +4129,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion IVa \"Luneta Warszawska\"",
-                  "text": "Luneta Warszawska este un fort istoric din Cracovia.",
+                  "text": "Bastionul IVa 'Luneta Warszawska' din Cracovia, monument istoric.",
                   "category": "fortress",
                   "coords": [
                         19.946905,
@@ -4201,7 +4201,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Filharmonia Krakowska imienia Karola Szymanowskiego",
-                  "text": "Filarmonică renumită în Cracovia.",
+                  "text": "Filarmonica din Cracovia numită după Karol Szymanowski, monument istoric.",
                   "category": "cultural",
                   "coords": [
                         19.932579,
@@ -4273,7 +4273,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Basilica gotică importantă în Cracovia, cu un altar celebru.",
+                  "text": "Basilica Sf. Maria din Cracovia, construită începând din 1223, adăpostește faimosul altar al lui Veit Stoss.",
                   "category": "religious",
                   "coords": [
                         19.93945,
@@ -4282,7 +4282,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Floriana",
-                  "text": "Biserică istorică în Cracovia.",
+                  "text": "Biserica Sfântul Florian din Cracovia, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.943276,
@@ -4309,7 +4309,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Andrzeja",
-                  "text": "Biserică istorică în stil romanic în Cracovia.",
+                  "text": "Biserica Sf. Andrei din Cracovia, construită în 1098, este una dintre cele mai vechi biserici romanice din oraș.",
                   "category": "religious",
                   "coords": [
                         19.938429,
@@ -4653,7 +4653,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "John Paul II Cathedral Museum",
-                  "text": "The John Paul II Cathedral Museum is located at Wawel in Krakow.",
+                  "text": "John Paul II Cathedral Museum on Wawel Hill in Krakow, established in 1978.",
                   "category": "museum",
                   "coords": [
                         19.934496,
@@ -4833,7 +4833,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion IVa \"Luneta Warszawska\"",
-                  "text": "The Luneta Warszawska is a historic fort in Krakow.",
+                  "text": "Bastion IVa 'Luneta Warszawska' in Krakow, a listed fortress.",
                   "category": "fortress",
                   "coords": [
                         19.946905,
@@ -4905,7 +4905,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kraków Philharmonic",
-                  "text": "Renowned philharmonic in Kraków.",
+                  "text": "Kraków Philharmonic named after Karol Szymanowski, a listed building.",
                   "category": "cultural",
                   "coords": [
                         19.932579,
@@ -4977,7 +4977,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Basilica",
-                  "text": "Major Gothic basilica in Kraków with a famous altar.",
+                  "text": "St. Mary's Basilica in Krakow, founded in 1223, houses the renowned Veit Stoss altarpiece.",
                   "category": "religious",
                   "coords": [
                         19.93945,
@@ -4986,7 +4986,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Floriana",
-                  "text": "Historic church in Kraków.",
+                  "text": "St. Florian's Church in Krakow, a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         19.943276,
@@ -5013,7 +5013,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saint Andrew",
-                  "text": "Historic Romanesque church in Kraków.",
+                  "text": "The Church of Saint Andrew in Krakow, built in 1098, is one of the city's oldest Romanesque churches.",
                   "category": "religious",
                   "coords": [
                         19.938429,
@@ -7509,7 +7509,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Otwarte Muzeum Odry",
-                  "text": "Das Otwarte Muzeum Odry ist ein Freilichtmuseum in Breslau, das sich mit dem Erbe der Oder befasst.",
+                  "text": "Das 1998 eröffnete Freilichtmuseum der Oder in Breslau.",
                   "category": "museum",
                   "coords": [
                         17.062623,
@@ -7536,7 +7536,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zesłańcom Sybiru",
-                  "text": "Zesłańcom Sybiru ist ein Denkmal in Breslau zu Ehren der nach Sibirien Verbannten.",
+                  "text": "Das 2000 errichtete Denkmal für die nach Sibirien Verbannten in Breslau.",
                   "category": "historical",
                   "coords": [
                         17.029925,
@@ -7626,7 +7626,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Stanisława Kostki",
-                  "text": "Die Kościół Świętego Stanisława Kostki ist eine historische Kirche in der Stadt Breslau.",
+                  "text": "Die St.-Stanislaus-Kostka-Kirche in Breslau, Architekt Stefan Müller.",
                   "category": "religious",
                   "coords": [
                         17.043595,
@@ -7644,7 +7644,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Augustyna",
-                  "text": "Die Kościół Świętego Augustyna ist eine bekannte Kirche in Breslau.",
+                  "text": "Die denkmalgeschützte St.-Augustinus-Kirche in Breslau.",
                   "category": "religious",
                   "coords": [
                         17.017759,
@@ -7662,7 +7662,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig-Geist-Kirche",
-                  "text": "Die Church of the Holy Spirit ist ein anerkanntes Gotteshaus in Breslau.",
+                  "text": "Die Kirche des Heiligen Geistes in Breslau wurde zwischen 1973 und 1985 erbaut.",
                   "category": "religious",
                   "coords": [
                         17.049892,
@@ -7707,7 +7707,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maurycego",
-                  "text": "Die Kościół pw. Świętego Maurycego ist eine historische Pfarrkirche in Breslau.",
+                  "text": "Die St.-Mauritius-Kirche in Breslau ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         17.046898,
@@ -8132,7 +8132,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Otwarte Muzeum Odry",
-                  "text": "Az Otwarte Muzeum Odry egy szabadtéri múzeum Breslauban, amely az Odera folyó örökségét mutatja be.",
+                  "text": "Az 1998-ban megnyílt Odera Szabadtéri Múzeum Wrocławban.",
                   "category": "museum",
                   "coords": [
                         17.062623,
@@ -8159,7 +8159,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zesłańcom Sybiru",
-                  "text": "A Zesłańcom Sybiru egy emlékmű Breslauban, amely a szibériai száműzöttek előtt tiszteleg.",
+                  "text": "A Szibériába száműzöttek emlékműve Wrocławban, 2000-ben állították.",
                   "category": "historical",
                   "coords": [
                         17.029925,
@@ -8249,7 +8249,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Stanisława Kostki",
-                  "text": "A Kościół Świętego Stanisława Kostki egy történelmi templom Breslau városában.",
+                  "text": "A wrocławi Szent Stanisław Kostka-templom, Stefan Müller tervezte.",
                   "category": "religious",
                   "coords": [
                         17.043595,
@@ -8267,7 +8267,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Augustyna",
-                  "text": "A Kościół Świętego Augustyna egy nevezetes templom Breslau városában.",
+                  "text": "A wrocławi Szent Ágoston-templom, műemlék.",
                   "category": "religious",
                   "coords": [
                         17.017759,
@@ -8285,7 +8285,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "A Church of the Holy Spirit egy elismert istentiszteleti hely Breslauban.",
+                  "text": "A Szentlélek templomát Wrocławban 1973 és 1985 között építették.",
                   "category": "religious",
                   "coords": [
                         17.049892,
@@ -8330,7 +8330,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maurycego",
-                  "text": "A Kościół pw. Świętego Maurycego egy történelmi plébániatemplom Breslau városában.",
+                  "text": "A Szent Mór-templom Wrocławban műemlékvédelem alatt áll.",
                   "category": "religious",
                   "coords": [
                         17.046898,
@@ -8755,7 +8755,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Otwarte Muzeum Odry",
-                  "text": "Otwarte Muzeum Odry este un muzeu în aer liber din Breslau, axat pe patrimoniul râului Oder.",
+                  "text": "Muzeul în Aer Liber al Odrei din Wrocław, deschis în 1998.",
                   "category": "museum",
                   "coords": [
                         17.062623,
@@ -8782,7 +8782,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zesłańcom Sybiru",
-                  "text": "Zesłańcom Sybiru este un monument din Breslau care onorează exilații în Siberia.",
+                  "text": "Monumentul Exilaților în Siberia din Wrocław, ridicat în 2000.",
                   "category": "historical",
                   "coords": [
                         17.029925,
@@ -8872,7 +8872,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Stanisława Kostki",
-                  "text": "Kościół Świętego Stanisława Kostki este o biserică istorică situată în orașul Breslau.",
+                  "text": "Biserica Sfântul Stanislaus Kostka din Wrocław, proiectată de arhitectul Stefan Müller.",
                   "category": "religious",
                   "coords": [
                         17.043595,
@@ -8890,7 +8890,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Augustyna",
-                  "text": "Kościół Świętego Augustyna este o biserică notabilă situată în Breslau.",
+                  "text": "Biserica Sfântul Augustin din Wrocław, monument istoric.",
                   "category": "religious",
                   "coords": [
                         17.017759,
@@ -8908,7 +8908,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "Church of the Holy Spirit este un lăcaș de cult recunoscut din Breslau.",
+                  "text": "Biserica Sfântului Duh din Wrocław a fost construită între 1973 și 1985.",
                   "category": "religious",
                   "coords": [
                         17.049892,
@@ -8953,7 +8953,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maurycego",
-                  "text": "Kościół pw. Świętego Maurycego este o biserică parohială istorică situată în Breslau.",
+                  "text": "Biserica Sfântul Mauriciu din Wrocław este un monument istoric.",
                   "category": "religious",
                   "coords": [
                         17.046898,
@@ -9378,7 +9378,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Otwarte Muzeum Odry",
-                  "text": "Otwarte Muzeum Odry is an open-air museum in Breslau focused on the heritage of the Oder River.",
+                  "text": "Open-Air Museum of the Oder River in Wroclaw, opened in 1998.",
                   "category": "museum",
                   "coords": [
                         17.062623,
@@ -9405,7 +9405,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zesłańcom Sybiru",
-                  "text": "Zesłańcom Sybiru is a monument in Breslau honoring the exiles to Siberia.",
+                  "text": "Monument to the Exiles to Siberia in Wroclaw, erected in 2000.",
                   "category": "historical",
                   "coords": [
                         17.029925,
@@ -9495,7 +9495,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Stanisława Kostki",
-                  "text": "Kościół Świętego Stanisława Kostki is a historic church situated in the city of Breslau.",
+                  "text": "St. Stanislaus Kostka Church in Wroclaw, designed by architect Stefan Müller.",
                   "category": "religious",
                   "coords": [
                         17.043595,
@@ -9513,7 +9513,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętego Augustyna",
-                  "text": "Kościół Świętego Augustyna is a notable church located in Breslau.",
+                  "text": "St. Augustine's Church in Wroclaw, a listed heritage site.",
                   "category": "religious",
                   "coords": [
                         17.017759,
@@ -9531,7 +9531,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Spirit",
-                  "text": "The Church of the Holy Spirit is a recognized place of worship in Breslau.",
+                  "text": "The Church of the Holy Spirit in Wrocław was built between 1973 and 1985.",
                   "category": "religious",
                   "coords": [
                         17.049892,
@@ -9576,7 +9576,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maurycego",
-                  "text": "Kościół pw. Świętego Maurycego is a historic parish church located in Breslau.",
+                  "text": "St. Maurice's Church in Wrocław is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         17.046898,
@@ -11190,7 +11190,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Hof der St.-Georg-Schützenbruderschaft",
-                  "text": "Dwór Bractwa św. Jerzego ist ein Herrenhaus in Danzig.",
+                  "text": "Der Hof der St.-Georgs-Bruderschaft in Danzig ist ein denkmalgeschütztes Gebäude.",
                   "category": "historical",
                   "coords": [
                         18.648023,
@@ -11199,7 +11199,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Königstalhof",
-                  "text": "Royal Valley Manor ist ein Herrenhaus in Danzig.",
+                  "text": "Das Herrenhaus Royal Valley Manor (Dwór Królewskiej Doliny) in Danzig, erbaut vom 18. bis 19. Jahrhundert, ist ein Kulturdenkmal.",
                   "category": "historical",
                   "coords": [
                         18.610723,
@@ -11226,7 +11226,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Hohes Tor",
-                  "text": "Brama Wyżynna ist ein historisches Stadttor in Danzig.",
+                  "text": "Die Brama Wyżynna (Hochtor) in Danzig ist ein denkmalgeschütztes Stadttor.",
                   "category": "fortress",
                   "coords": [
                         18.646525,
@@ -11235,7 +11235,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Frauentor",
-                  "text": "Brama Mariacka ist ein Stadttor in Danzig.",
+                  "text": "Die Brama Mariacka (Marientor) in Danzig ist ein denkmalgeschütztes Stadttor.",
                   "category": "fortress",
                   "coords": [
                         18.656747,
@@ -11244,7 +11244,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kuhtor",
-                  "text": "Brama Krowia ist ein Stadttor in Danzig.",
+                  "text": "Die Brama Krowia (Kuhpforte) in Danzig ist ein denkmalgeschütztes Stadttor.",
                   "category": "fortress",
                   "coords": [
                         18.654979,
@@ -11253,7 +11253,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Niedertor",
-                  "text": "Brama Nizinna ist ein Stadttor in Danzig.",
+                  "text": "Die Brama Nizinna (Niederungstor) in Danzig ist ein denkmalgeschütztes Stadttor.",
                   "category": "fortress",
                   "coords": [
                         18.647475,
@@ -11262,7 +11262,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Langgarter Tor",
-                  "text": "Brama Żuławska ist ein Stadttor in Danzig.",
+                  "text": "Die Brama Żuławska (Żuławy-Tor) in Danzig ist ein denkmalgeschütztes Stadttor.",
                   "category": "fortress",
                   "coords": [
                         18.668955,
@@ -11280,7 +11280,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Marienkirche",
-                  "text": "Die Marienkirche ist eine bedeutende gotische Backsteinkirche in Danzig.",
+                  "text": "Die Marienkirche (St. Mary’s Church) in Danzig, erbaut ab 1343, ist eine der größten Backsteinkirchen der Welt.",
                   "category": "religious",
                   "coords": [
                         18.653013,
@@ -11289,7 +11289,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Bożego Ciała",
-                  "text": "Kościół Bożego Ciała ist eine Kirche in Danzig.",
+                  "text": "Die Kirche Bożego Ciała (Fronleichnamskirche) in Danzig ist ein denkmalgeschütztes Gotteshaus.",
                   "category": "religious",
                   "coords": [
                         18.642934,
@@ -11298,7 +11298,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "Kościół pw. Chrystusa Króla ist ein Gotteshaus in Danzig.",
+                  "text": "Die Kirche Christi König in Danzig wurde 1931–1932 erbaut.",
                   "category": "religious",
                   "coords": [
                         18.637527,
@@ -11307,7 +11307,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny ist ein Gotteshaus in Danzig.",
+                  "text": "Die Kirche der Unbefleckten Empfängnis (Kościół Niepokalanego Poczęcia NMP) in Danzig, erbaut Mitte des 19. Jahrhunderts, ist ein Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         18.659325,
@@ -11352,7 +11352,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Pod Zrębem",
-                  "text": "Baszta Pod Zrębem ist eine Befestigung in Danzig.",
+                  "text": "Die Baszta Pod Zrębem (Turm am Abhang) in Danzig ist ein denkmalgeschützter Turm.",
                   "category": "landmark",
                   "coords": [
                         18.648291,
@@ -11361,7 +11361,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Schwanenbastei",
-                  "text": "Baszta Łabędź ist eine Befestigung in Danzig.",
+                  "text": "Die Baszta Łabędź (Schwanenturm) in Danzig ist ein denkmalgeschützter Turm.",
                   "category": "landmark",
                   "coords": [
                         18.658064,
@@ -11379,7 +11379,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Weißer Turm",
-                  "text": "Baszta Biała ist eine Befestigung in Danzig.",
+                  "text": "Die Baszta Biała (Weißer Turm) in Danzig ist ein denkmalgeschützter Turm.",
                   "category": "landmark",
                   "coords": [
                         18.646548,
@@ -11388,7 +11388,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Latarniana",
-                  "text": "Baszta Latarniana ist ein Turm in Danzig.",
+                  "text": "Die Baszta Latarniana (Laterneuturm) in Danzig stammt aus der Mitte des 14. Jahrhunderts.",
                   "category": "tower",
                   "coords": [
                         18.649729,
@@ -11397,7 +11397,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta na Podmurzu",
-                  "text": "Baszta na Podmurzu ist ein Turm in Danzig.",
+                  "text": "Die Baszta na Podmurzu (Turm am Fuß) in Danzig stammt aus der Mitte des 14. Jahrhunderts.",
                   "category": "tower",
                   "coords": [
                         18.650832,
@@ -11406,7 +11406,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Narożna",
-                  "text": "Baszta Narożna ist eine Befestigung in Danzig.",
+                  "text": "Die Baszta Narożna (Eckturm) in Danzig ist ein denkmalgeschützter Turm.",
                   "category": "landmark",
                   "coords": [
                         18.647353,
@@ -11606,7 +11606,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dwór Bractwa św. Jerzego",
-                  "text": "A Dwór Bractwa św. Jerzego egy kúria Danzig városában.",
+                  "text": "A Szent György Testvériség udvarháza Gdańskban műemlék.",
                   "category": "historical",
                   "coords": [
                         18.648023,
@@ -11615,7 +11615,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dwór Królewskiej Doliny",
-                  "text": "A Royal Valley Manor egy kúria Danzig városában.",
+                  "text": "A gdański Royal Valley Manor (Dwór Królewskiej Doliny) a 18–19. században épült, műemlék.",
                   "category": "historical",
                   "coords": [
                         18.610723,
@@ -11642,7 +11642,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Wyżynna",
-                  "text": "A Brama Wyżynna egy történelmi városkapu Danzigban.",
+                  "text": "A Brama Wyżynna (Felső kapu) Gdańskban műemlék városkapu.",
                   "category": "fortress",
                   "coords": [
                         18.646525,
@@ -11651,7 +11651,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Mariacka",
-                  "text": "A Brama Mariacka egy városkapu Danzig városában.",
+                  "text": "A Brama Mariacka (Mária-kapu) Gdańskban műemlék városkapu.",
                   "category": "fortress",
                   "coords": [
                         18.656747,
@@ -11660,7 +11660,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Krowia",
-                  "text": "A Brama Krowia egy városkapu Danzig városában.",
+                  "text": "A Brama Krowia (Tehén-kapu) Gdańskban műemlék városkapu.",
                   "category": "fortress",
                   "coords": [
                         18.654979,
@@ -11669,7 +11669,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Nizinna",
-                  "text": "A Brama Nizinna egy városkapu Danzig városában.",
+                  "text": "A Brama Nizinna (Alföldi kapu) Gdańskban műemlék városkapu.",
                   "category": "fortress",
                   "coords": [
                         18.647475,
@@ -11678,7 +11678,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Żuławska",
-                  "text": "A Brama Żuławska egy városkapu Danzig városában.",
+                  "text": "A Brama Żuławska (Żuławy-kapu) Gdańskban műemlék városkapu.",
                   "category": "fortress",
                   "coords": [
                         18.668955,
@@ -11696,7 +11696,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Konkatedralna Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "A Mária-templom egy kiemelkedő tégla gótikus templom Danzigban.",
+                  "text": "A gdański Mária-templom (St. Mary’s Church) építése 1343-ban kezdődött, a világ egyik legnagyobb téglatemploma.",
                   "category": "religious",
                   "coords": [
                         18.653013,
@@ -11705,7 +11705,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Bożego Ciała",
-                  "text": "A Kościół Bożego Ciała egy templom Danzig városában.",
+                  "text": "A Bożego Ciała (Úrnapi templom) Gdańskban műemlék templom.",
                   "category": "religious",
                   "coords": [
                         18.642934,
@@ -11714,7 +11714,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "A Kościół pw. Chrystusa Króla egy istentiszteleti hely Danzig városában.",
+                  "text": "A Krisztus Király-templomot Gdańskban 1931–1932-ben építették.",
                   "category": "religious",
                   "coords": [
                         18.637527,
@@ -11723,7 +11723,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "A Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny egy istentiszteleti hely Danzig városában.",
+                  "text": "A gdański Szeplőtelen Fogantatás-templom (Kościół Niepokalanego Poczęcia NMP) a 19. század közepén épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.659325,
@@ -11768,7 +11768,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Pod Zrębem",
-                  "text": "A Baszta Pod Zrębem egy erődítmény Danzig városában.",
+                  "text": "A Baszta Pod Zrębem (Meredek-torony) Gdańskban műemlék torony.",
                   "category": "landmark",
                   "coords": [
                         18.648291,
@@ -11777,7 +11777,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Łabędź",
-                  "text": "A Baszta Łabędź egy erődítmény Danzig városában.",
+                  "text": "A Baszta Łabędź (Hattyú-torony) Gdańskban műemlék torony.",
                   "category": "landmark",
                   "coords": [
                         18.658064,
@@ -11795,7 +11795,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Biała",
-                  "text": "A Baszta Biała egy erődítmény Danzig városában.",
+                  "text": "A Baszta Biała (Fehér torony) Gdańskban műemlék torony.",
                   "category": "landmark",
                   "coords": [
                         18.646548,
@@ -11804,7 +11804,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Latarniana",
-                  "text": "A Baszta Latarniana egy torony Danzig városában.",
+                  "text": "A Baszta Latarniana (Lámpás-torony) Gdańskban a 14. század közepén épült.",
                   "category": "tower",
                   "coords": [
                         18.649729,
@@ -11813,7 +11813,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta na Podmurzu",
-                  "text": "A Baszta na Podmurzu egy torony Danzig városában.",
+                  "text": "A Baszta na Podmurzu (Lábazati torony) Gdańskban a 14. század közepén épült.",
                   "category": "tower",
                   "coords": [
                         18.650832,
@@ -11822,7 +11822,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Narożna",
-                  "text": "A Baszta Narożna egy erődítmény Danzig városában.",
+                  "text": "A Baszta Narożna (Saroktorony) Gdańskban műemlék torony.",
                   "category": "landmark",
                   "coords": [
                         18.647353,
@@ -12022,7 +12022,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dwór Bractwa św. Jerzego",
-                  "text": "Dwór Bractwa św. Jerzego este un conac situat în Danzig.",
+                  "text": "Conacul Frăției Sfântul Gheorghe din Gdańsk este monument istoric.",
                   "category": "historical",
                   "coords": [
                         18.648023,
@@ -12031,7 +12031,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dwór Królewskiej Doliny",
-                  "text": "Royal Valley Manor este un conac situat în Danzig.",
+                  "text": "Conacul Royal Valley Manor (Dwór Królewskiej Doliny) din Gdańsk, construit între secolele XVIII și XIX, este monument istoric.",
                   "category": "historical",
                   "coords": [
                         18.610723,
@@ -12058,7 +12058,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Wyżynna",
-                  "text": "Brama Wyżynna este o poartă istorică a orașului situată în Danzig.",
+                  "text": "Poarta Brama Wyżynna din Gdańsk este o poartă orașului monument istoric.",
                   "category": "fortress",
                   "coords": [
                         18.646525,
@@ -12067,7 +12067,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Mariacka",
-                  "text": "Brama Mariacka este o poartă a orașului situată în Danzig.",
+                  "text": "Poarta Brama Mariacka din Gdańsk este o poartă monument istoric.",
                   "category": "fortress",
                   "coords": [
                         18.656747,
@@ -12076,7 +12076,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Krowia",
-                  "text": "Brama Krowia este o poartă a orașului situată în Danzig.",
+                  "text": "Poarta Brama Krowia din Gdańsk este o poartă monument istoric.",
                   "category": "fortress",
                   "coords": [
                         18.654979,
@@ -12085,7 +12085,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Nizinna",
-                  "text": "Brama Nizinna este o poartă a orașului situată în Danzig.",
+                  "text": "Poarta Brama Nizinna din Gdańsk este o poartă monument istoric.",
                   "category": "fortress",
                   "coords": [
                         18.647475,
@@ -12094,7 +12094,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Żuławska",
-                  "text": "Brama Żuławska este o poartă a orașului situată în Danzig.",
+                  "text": "Poarta Brama Żuławska din Gdańsk este o poartă monument istoric.",
                   "category": "fortress",
                   "coords": [
                         18.668955,
@@ -12112,7 +12112,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Konkatedralna Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Biserica Sfânta Maria este o biserică gotică proeminentă din cărămidă situată în Danzig.",
+                  "text": "Biserica Sf. Maria din Gdańsk, construită începând din 1343, este una dintre cele mai mari biserici de cărămidă din lume.",
                   "category": "religious",
                   "coords": [
                         18.653013,
@@ -12121,7 +12121,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Bożego Ciała",
-                  "text": "Kościół Bożego Ciała este o biserică situată în Danzig.",
+                  "text": "Biserica Bożego Ciała (Corpul lui Hristos) din Gdańsk este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.642934,
@@ -12130,7 +12130,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "Kościół pw. Chrystusa Króla este un lăcaș de cult situat în Danzig.",
+                  "text": "Biserica Cristos Regele din Gdańsk a fost construită între 1931 și 1932.",
                   "category": "religious",
                   "coords": [
                         18.637527,
@@ -12139,7 +12139,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny este un lăcaș de cult situat în Danzig.",
+                  "text": "Biserica Neprihănitei Zămisliri (Kościół Niepokalanego Poczęcia NMP) din Gdańsk, construită la mijlocul secolului al XIX-lea, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.659325,
@@ -12184,7 +12184,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Pod Zrębem",
-                  "text": "Baszta Pod Zrębem este o fortificație situată în Danzig.",
+                  "text": "Turnul Baszta Pod Zrębem din Gdańsk este un turn monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.648291,
@@ -12193,7 +12193,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Łabędź",
-                  "text": "Baszta Łabędź este o fortificație situată în Danzig.",
+                  "text": "Turnul Baszta Łabędź din Gdańsk este un turn monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.658064,
@@ -12211,7 +12211,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Biała",
-                  "text": "Baszta Biała este o fortificație situată în Danzig.",
+                  "text": "Turnul Baszta Biała din Gdańsk este un turn monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.646548,
@@ -12220,7 +12220,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Latarniana",
-                  "text": "Baszta Latarniana este un turn situat în Danzig.",
+                  "text": "Turnul Baszta Latarniana din Gdańsk datează de la mijlocul secolului al XIV-lea.",
                   "category": "tower",
                   "coords": [
                         18.649729,
@@ -12229,7 +12229,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta na Podmurzu",
-                  "text": "Baszta na Podmurzu este un turn situat în Danzig.",
+                  "text": "Turnul Baszta na Podmurzu din Gdańsk datează de la mijlocul secolului al XIV-lea.",
                   "category": "tower",
                   "coords": [
                         18.650832,
@@ -12238,7 +12238,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Narożna",
-                  "text": "Baszta Narożna este o fortificație situată în Danzig.",
+                  "text": "Turnul Baszta Narożna din Gdańsk este un turn monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.647353,
@@ -12438,7 +12438,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dwór Bractwa św. Jerzego",
-                  "text": "Dwór Bractwa św. Jerzego is a manor located in Danzig.",
+                  "text": "The manor of St. George's Brotherhood in Gdańsk is a heritage-listed building.",
                   "category": "historical",
                   "coords": [
                         18.648023,
@@ -12447,7 +12447,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Royal Valley Manor",
-                  "text": "Royal Valley Manor is a manor located in Danzig.",
+                  "text": "The Royal Valley Manor (Dwór Królewskiej Doliny) in Gdańsk, built between the 18th and 19th centuries, is a heritage monument.",
                   "category": "historical",
                   "coords": [
                         18.610723,
@@ -12474,7 +12474,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Wyżynna",
-                  "text": "Brama Wyżynna is a historic city gate located in Danzig.",
+                  "text": "The Brama Wyżynna (Upland Gate) in Gdańsk is a heritage-listed city gate.",
                   "category": "fortress",
                   "coords": [
                         18.646525,
@@ -12483,7 +12483,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Mariacka",
-                  "text": "Brama Mariacka is a city gate located in Danzig.",
+                  "text": "The Brama Mariacka (St. Mary's Gate) in Gdańsk is a heritage-listed gate.",
                   "category": "fortress",
                   "coords": [
                         18.656747,
@@ -12492,7 +12492,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Krowia",
-                  "text": "Brama Krowia is a city gate located in Danzig.",
+                  "text": "The Brama Krowia (Cow Gate) in Gdańsk is a heritage-listed gate.",
                   "category": "fortress",
                   "coords": [
                         18.654979,
@@ -12501,7 +12501,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Nizinna",
-                  "text": "Brama Nizinna is a city gate located in Danzig.",
+                  "text": "The Brama Nizinna (Lowland Gate) in Gdańsk is a heritage-listed gate.",
                   "category": "fortress",
                   "coords": [
                         18.647475,
@@ -12510,7 +12510,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Brama Żuławska",
-                  "text": "Brama Żuławska is a city gate located in Danzig.",
+                  "text": "The Brama Żuławska (Żuławy Gate) in Gdańsk is a heritage-listed gate.",
                   "category": "fortress",
                   "coords": [
                         18.668955,
@@ -12528,7 +12528,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "St Mary’s Church",
-                  "text": "St Mary’s Church is a prominent brick Gothic church located in Danzig.",
+                  "text": "St. Mary's Church in Gdańsk, construction began in 1343, is one of the largest brick churches in the world.",
                   "category": "religious",
                   "coords": [
                         18.653013,
@@ -12537,7 +12537,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Bożego Ciała",
-                  "text": "Kościół Bożego Ciała is a church located in Danzig.",
+                  "text": "The Corpus Christi Church (Bożego Ciała) in Gdańsk is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         18.642934,
@@ -12546,7 +12546,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "Kościół pw. Chrystusa Króla is a place of worship located in Danzig.",
+                  "text": "The Church of Christ the King in Gdańsk was built in 1931–1932.",
                   "category": "religious",
                   "coords": [
                         18.637527,
@@ -12555,7 +12555,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny is a place of worship located in Danzig.",
+                  "text": "The Church of the Immaculate Conception in Gdańsk, built in the mid-19th century, is a heritage monument.",
                   "category": "religious",
                   "coords": [
                         18.659325,
@@ -12600,7 +12600,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Pod Zrębem",
-                  "text": "Baszta Pod Zrębem is a fortification located in Danzig.",
+                  "text": "The Baszta Pod Zrębem tower in Gdańsk is a heritage-listed landmark.",
                   "category": "landmark",
                   "coords": [
                         18.648291,
@@ -12609,7 +12609,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Łabędź",
-                  "text": "Baszta Łabędź is a fortification located in Danzig.",
+                  "text": "The Baszta Łabędź (Swan Tower) in Gdańsk is a heritage-listed tower.",
                   "category": "landmark",
                   "coords": [
                         18.658064,
@@ -12627,7 +12627,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Biała",
-                  "text": "Baszta Biała is a fortification located in Danzig.",
+                  "text": "The Baszta Biała (White Tower) in Gdańsk is a heritage-listed tower.",
                   "category": "landmark",
                   "coords": [
                         18.646548,
@@ -12636,7 +12636,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Latarniana",
-                  "text": "Baszta Latarniana is a tower located in Danzig.",
+                  "text": "The Baszta Latarniana (Lantern Tower) in Gdańsk dates from the mid-14th century.",
                   "category": "tower",
                   "coords": [
                         18.649729,
@@ -12645,7 +12645,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta na Podmurzu",
-                  "text": "Baszta na Podmurzu is a tower located in Danzig.",
+                  "text": "The Baszta na Podmurzu tower in Gdańsk dates from the mid-14th century.",
                   "category": "tower",
                   "coords": [
                         18.650832,
@@ -12654,7 +12654,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Narożna",
-                  "text": "Baszta Narożna is a fortification located in Danzig.",
+                  "text": "The Baszta Narożna (Corner Tower) in Gdańsk is a heritage-listed tower.",
                   "category": "landmark",
                   "coords": [
                         18.647353,
@@ -12990,7 +12990,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Prawosławna Parafia św. Mikołaja",
-                  "text": "Die St.-Nikolaus-Kirche ist eine orthodoxe Pfarrei in Stettin.",
+                  "text": "Die orthodoxe St.-Nikolaus-Kirche in Stettin wurde 2011 erbaut.",
                   "category": "religious",
                   "coords": [
                         14.559676,
@@ -13062,7 +13062,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Plac Tobrucki",
-                  "text": "Der Tobruk-Platz ist eine städtische Grünfläche in Stettin.",
+                  "text": "Der Tobrucki-Platz (Plac Tobrucki) in Stettin ist ein denkmalgeschützter Park.",
                   "category": "park",
                   "coords": [
                         14.553976,
@@ -13487,7 +13487,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Prawosławna Parafia św. Mikołaja",
-                  "text": "A Szent Miklós-templom egy ortodox egyházközség Stettinben.",
+                  "text": "A Szent Miklós ortodox templomot Szczecinben 2011-ben építették.",
                   "category": "religious",
                   "coords": [
                         14.559676,
@@ -13559,7 +13559,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Plac Tobrucki",
-                  "text": "A Tobruki tér egy városi zöldterület Stettinben.",
+                  "text": "A Tobrucki tér (Plac Tobrucki) Szczecinben műemlék park.",
                   "category": "park",
                   "coords": [
                         14.553976,
@@ -13984,7 +13984,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Prawosławna Parafia św. Mikołaja",
-                  "text": "Biserica Sfântul Nicolae este o parohie ortodoxă din Stettin.",
+                  "text": "Biserica ortodoxă Sfântul Nicolae din Szczecin a fost construită în 2011.",
                   "category": "religious",
                   "coords": [
                         14.559676,
@@ -14056,7 +14056,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Plac Tobrucki",
-                  "text": "Piața Tobruk este o zonă verde urbană în Stettin.",
+                  "text": "Piața Tobrucki (Plac Tobrucki) din Szczecin este un parc monument istoric.",
                   "category": "park",
                   "coords": [
                         14.553976,
@@ -14481,7 +14481,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Prawosławna Parafia św. Mikołaja",
-                  "text": "The Church of St. Nicholas is an Orthodox parish in Stettin.",
+                  "text": "The Orthodox Church of St. Nicholas in Szczecin was built in 2011.",
                   "category": "religious",
                   "coords": [
                         14.559676,
@@ -14553,7 +14553,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Plac Tobrucki",
-                  "text": "Tobruk Square is an urban green space in Stettin.",
+                  "text": "Plac Tobrucki (Tobrucki Square) in Szczecin is a heritage-listed park.",
                   "category": "park",
                   "coords": [
                         14.553976,
@@ -15519,7 +15519,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dreifaltigkeitskirche",
-                  "text": "Die Dreifaltigkeitskirche ist eine bedeutende historische Kirche in Lublin.",
+                  "text": "Die Heilig-Dreifaltigkeitskirche in Lublin ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         22.555018,
@@ -16025,7 +16025,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętej Trójcy",
-                  "text": "A Szentháromság-templom egy jelentős történelmi templom Lublinban.",
+                  "text": "A Szentháromság-templom Lublinban műemlék.",
                   "category": "religious",
                   "coords": [
                         22.555018,
@@ -16531,7 +16531,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Świętej Trójcy",
-                  "text": "Biserica Sfânta Treime este o biserică istorică notabilă situată în Lublin.",
+                  "text": "Biserica Sfânta Treime din Lublin este monument istoric.",
                   "category": "religious",
                   "coords": [
                         22.555018,
@@ -17037,7 +17037,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Church",
-                  "text": "The Holy Trinity Church is a notable historical church located in Lublin.",
+                  "text": "Holy Trinity Church in Lublin is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         22.555018,
@@ -17499,7 +17499,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Nowika",
-                  "text": "Pałac Nowika ist eine historische schlossartige Residenz in Bialystok.",
+                  "text": "Der Pałac Nowika in Białystok, erbaut um 1895, ist ein historistischer Palast und Kulturdenkmal.",
                   "category": "castle",
                   "coords": [
                         23.150288,
@@ -18077,7 +18077,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Nowika",
-                  "text": "A Pałac Nowika egy történelmi kastényszerű rezidencia Bialystokban.",
+                  "text": "A białystoki Pałac Nowika 1895 körül épült, historizáló palota és műemlék.",
                   "category": "castle",
                   "coords": [
                         23.150288,
@@ -18655,7 +18655,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Nowika",
-                  "text": "Pałac Nowika este o reședință istorică asemănătoare unui castel din Bialystok.",
+                  "text": "Palatul Pałac Nowika din Białystok, construit în jurul anului 1895, este un palat istoricist și monument istoric.",
                   "category": "castle",
                   "coords": [
                         23.150288,
@@ -19233,7 +19233,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Nowika",
-                  "text": "Pałac Nowika is a historic castle-like residence located in Bialystok.",
+                  "text": "The Pałac Nowika in Białystok, built around 1895, is a historicist palace and heritage monument.",
                   "category": "castle",
                   "coords": [
                         23.150288,
@@ -20064,7 +20064,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Centrum Nauki Experyment",
-                  "text": "Das Experyment Science Centre ist ein interaktives Museum mit pädagogischen Ausstellungen in Gdingen.",
+                  "text": "Das Wissenschaftszentrum Experyment in Gdingen wurde 2006 eröffnet.",
                   "category": "museum",
                   "coords": [
                         18.538421,
@@ -20552,7 +20552,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Centrum Nauki Experyment",
-                  "text": "Az Experyment Science Centre egy interaktív múzeum, amely oktatási kiállításokat kínál Gdingenben.",
+                  "text": "A Gdyniai Experyment Tudományos Központot 2006-ban nyitották meg.",
                   "category": "museum",
                   "coords": [
                         18.538421,
@@ -21040,7 +21040,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Centrum Nauki Experyment",
-                  "text": "Centrul de Știință Experyment este un muzeu interactiv care oferă exponate educaționale în Gdingen.",
+                  "text": "Centrul Științific Experyment din Gdynia a fost deschis în 2006.",
                   "category": "museum",
                   "coords": [
                         18.538421,
@@ -21528,7 +21528,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Experyment Science Centre",
-                  "text": "The Experyment Science Centre is an interactive museum offering educational exhibits in Gdingen.",
+                  "text": "The Experyment Science Centre in Gdynia opened in 2006.",
                   "category": "museum",
                   "coords": [
                         18.538421,
@@ -22656,7 +22656,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Świętego Kazimierza Królewicza",
-                  "text": "Basilika in Radom.",
+                  "text": "Die Basilika St. Kasimir in Radom wurde 1986–1996 erbaut.",
                   "category": "religious",
                   "coords": [
                         21.124574,
@@ -22737,7 +22737,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra Opieki Najświętszej Maryi Panny",
-                  "text": "Katedrale in Radom.",
+                  "text": "Die Kathedrale Maria Schutz (Katedra Opieki NMP) in Radom, erbaut 1899–1929, ist ein neugotisches Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         21.156333,
@@ -23108,7 +23108,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Świętego Kazimierza Królewicza",
-                  "text": "Bazilika Radomban.",
+                  "text": "A Szent Kázmér-bazilika Radomban 1986–1996 között épült.",
                   "category": "religious",
                   "coords": [
                         21.124574,
@@ -23189,7 +23189,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra Opieki Najświętszej Maryi Panny",
-                  "text": "Katedrális Radomban.",
+                  "text": "A radomi Szűz Mária oltalma-székesegyház (Katedra Opieki NMP) 1899–1929 között épült, neogótikus műemlék.",
                   "category": "religious",
                   "coords": [
                         21.156333,
@@ -23560,7 +23560,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Świętego Kazimierza Królewicza",
-                  "text": "Basilica în Radom.",
+                  "text": "Basilica Sfântul Cazimir din Radom a fost construită între 1986 și 1996.",
                   "category": "religious",
                   "coords": [
                         21.124574,
@@ -23641,7 +23641,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra Opieki Najświętszej Maryi Panny",
-                  "text": "Catedrală în Radom.",
+                  "text": "Catedrala Ocrotirii Maicii Domnului (Katedra Opieki NMP) din Radom, construită între 1899 și 1929, este un monument neogotic.",
                   "category": "religious",
                   "coords": [
                         21.156333,
@@ -24012,7 +24012,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Świętego Kazimierza Królewicza",
-                  "text": "Basilica in Radom.",
+                  "text": "The Basilica of St. Casimir in Radom was built between 1986 and 1996.",
                   "category": "religious",
                   "coords": [
                         21.124574,
@@ -24093,7 +24093,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra Opieki Najświętszej Maryi Panny",
-                  "text": "Cathedral in Radom.",
+                  "text": "The Cathedral of the Protection of the Virgin Mary in Radom, built 1899–1929, is a Neo-Gothic heritage monument.",
                   "category": "religious",
                   "coords": [
                         21.156333,
@@ -26863,7 +26863,7 @@ export const polandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bergwerksmuseum Guido",
-                  "text": "Einzigartiges Bergbaumuseum in Zabrze (Hindenburg).",
+                  "text": "Das Bergwerk Guido und Kohlebergbaumuseum in Zabrze ist ein denkmalgeschütztes Museum.",
                   "category": "museum",
                   "coords": [
                         18.791325,
@@ -26890,7 +26890,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Hauptschlüssel-Erbstollen",
-                  "text": "Historischer Bergbau-Stollen in Zabrze.",
+                  "text": "Die Hauptschlüssel-Erbstollen (Główna Kluczowa Sztolnia Dziedziczna) in Zabrze ist ein denkmalgeschützter Stollen.",
                   "category": "museum",
                   "coords": [
                         18.783369,
@@ -26899,7 +26899,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sztolnia Królowa Luiza",
-                  "text": "Attraktion in Zabrze mit Bergbautradition.",
+                  "text": "Die Königin-Luise-Stollen (Sztolnia Królowa Luiza) in Zabrze ist ein denkmalgeschütztes Bergwerk.",
                   "category": "family",
                   "coords": [
                         18.806742,
@@ -27079,7 +27079,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Historische Kirche in Zabrze.",
+                  "text": "Die St.-Johannes-der-Täufer-Kirche in Zabrze ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         18.819533,
@@ -27088,7 +27088,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Annakirche",
-                  "text": "Historische Kirche in Hindenburg (Zabrze).",
+                  "text": "Die St. Annenkirche (Kościół św. Anny) in Zabrze, erbaut 1897, ist ein neogotisches Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         18.789254,
@@ -27097,7 +27097,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Serca Najświętszej Maryi Panny",
-                  "text": "Religiöser Ort in Hindenburg (Zabrze).",
+                  "text": "Die Kirche Unbeflecktes Herz Mariä in Zabrze wurde 1982–1988 erbaut.",
                   "category": "religious",
                   "coords": [
                         18.767995,
@@ -27115,7 +27115,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stalowy dom",
-                  "text": "Historisches Wohnhaus in Hindenburg (Zabrze).",
+                  "text": "Das Stalowy dom (Stahlhaus) in Zabrze ist ein denkmalgeschütztes Gebäude.",
                   "category": "landmark",
                   "coords": [
                         18.794016,
@@ -27198,7 +27198,7 @@ export const polandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zabytkowa Kopalnia Węgla Kamiennego Guido",
-                  "text": "Egyedülálló bányászati múzeum Zabrzében.",
+                  "text": "A Guido-bánya és Szénbányászati Múzeum Zabrzében műemlék.",
                   "category": "museum",
                   "coords": [
                         18.791325,
@@ -27225,7 +27225,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Główna Kluczowa Sztolnia Dziedziczna",
-                  "text": "Történelmi bányászati táró Zabrzében.",
+                  "text": "A Główna Kluczowa Sztolnia Dziedziczna (Főkulcs Örökös Tárna) Zabrzében műemlék tárna.",
                   "category": "museum",
                   "coords": [
                         18.783369,
@@ -27234,7 +27234,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sztolnia Królowa Luiza",
-                  "text": "Bányászati hagyományokkal rendelkező látnivaló Zabrzében.",
+                  "text": "A Sztolnia Królowa Luiza (Louiza királynő tárnája) Zabrzében műemlék bánya.",
                   "category": "family",
                   "coords": [
                         18.806742,
@@ -27414,7 +27414,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Történelmi templom Zabrzében.",
+                  "text": "A Keresztelő Szent János-templom Zabrzében műemlék.",
                   "category": "religious",
                   "coords": [
                         18.819533,
@@ -27423,7 +27423,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Anny",
-                  "text": "Történelmi templom Hindenburgban (Zabrze).",
+                  "text": "A zabrzei Szent Anna-templom (Kościół św. Anny) 1897-ben épült, neogótikus műemlék.",
                   "category": "religious",
                   "coords": [
                         18.789254,
@@ -27432,7 +27432,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Serca Najświętszej Maryi Panny",
-                  "text": "Vallási hely Hindenburgban (Zabrze).",
+                  "text": "A Szűz Mária Szeplőtelen Szíve-templomot Zabrzében 1982–1988 között építették.",
                   "category": "religious",
                   "coords": [
                         18.767995,
@@ -27450,7 +27450,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stalowy dom",
-                  "text": "Történelmi lakóépület Hindenburgban (Zabrze).",
+                  "text": "A Stalowy dom (Acélház) Zabrzében műemlék épület.",
                   "category": "landmark",
                   "coords": [
                         18.794016,
@@ -27533,7 +27533,7 @@ export const polandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zabytkowa Kopalnia Węgla Kamiennego Guido",
-                  "text": "Muzeu minier unic în Zabrze.",
+                  "text": "Mina Guido și Muzeul Mineritului Cărbunelui din Zabrze este monument istoric.",
                   "category": "museum",
                   "coords": [
                         18.791325,
@@ -27560,7 +27560,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Główna Kluczowa Sztolnia Dziedziczna",
-                  "text": "Galerie minieră istorică în Zabrze.",
+                  "text": "Główna Kluczowa Sztolnia Dziedziczna (Galeria Ereditară Cheie Principală) din Zabrze este un șut monument istoric.",
                   "category": "museum",
                   "coords": [
                         18.783369,
@@ -27569,7 +27569,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sztolnia Królowa Luiza",
-                  "text": "Atracție în Zabrze cu tradiție minieră.",
+                  "text": "Sztolnia Królowa Luiza (Galeria Regina Luiza) din Zabrze este o mină monument istoric.",
                   "category": "family",
                   "coords": [
                         18.806742,
@@ -27749,7 +27749,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Biserică istorică în Zabrze.",
+                  "text": "Biserica Sfântul Ioan Botezătorul din Zabrze este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.819533,
@@ -27758,7 +27758,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Anny",
-                  "text": "Biserică istorică în Hindenburg (Zabrze).",
+                  "text": "Biserica Sf. Ana (Kościół św. Anny) din Zabrze, construită în 1897, este un monument neogotic.",
                   "category": "religious",
                   "coords": [
                         18.789254,
@@ -27767,7 +27767,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Serca Najświętszej Maryi Panny",
-                  "text": "Lăcaș de cult în Hindenburg (Zabrze).",
+                  "text": "Biserica Inimii Neprihănite a Sfintei Fecioare Maria din Zabrze a fost construită între 1982 și 1988.",
                   "category": "religious",
                   "coords": [
                         18.767995,
@@ -27785,7 +27785,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stalowy dom",
-                  "text": "Casă istorică în Hindenburg (Zabrze).",
+                  "text": "Stalowy dom (Casa de oțel) din Zabrze este o clădire monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.794016,
@@ -27868,7 +27868,7 @@ export const polandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Guido Mine and Coal Mining Museum",
-                  "text": "Unique mining museum in Zabrze.",
+                  "text": "The Guido Mine and Coal Mining Museum in Zabrze is a heritage-listed museum.",
                   "category": "museum",
                   "coords": [
                         18.791325,
@@ -27895,7 +27895,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Main Key Hereditary Adit",
-                  "text": "Historic mining adit in Zabrze.",
+                  "text": "The Main Key Hereditary Adit (Główna Kluczowa Sztolnia Dziedziczna) in Zabrze is a heritage-listed adit.",
                   "category": "museum",
                   "coords": [
                         18.783369,
@@ -27904,7 +27904,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sztolnia Królowa Luiza",
-                  "text": "Attraction in Zabrze with mining tradition.",
+                  "text": "The Queen Louisa Adit (Sztolnia Królowa Luiza) in Zabrze is a heritage-listed mine.",
                   "category": "family",
                   "coords": [
                         18.806742,
@@ -28084,7 +28084,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Historic church in Zabrze.",
+                  "text": "The Church of St. John the Baptist in Zabrze is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         18.819533,
@@ -28093,7 +28093,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Anne's Church",
-                  "text": "Historic church in Hindenburg (Zabrze).",
+                  "text": "St. Anne's Church in Zabrze, built in 1897, is a Neo-Gothic heritage monument.",
                   "category": "religious",
                   "coords": [
                         18.789254,
@@ -28102,7 +28102,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Niepokalanego Serca Najświętszej Maryi Panny",
-                  "text": "Place of worship in Hindenburg (Zabrze).",
+                  "text": "The Church of the Immaculate Heart of Mary in Zabrze was built between 1982 and 1988.",
                   "category": "religious",
                   "coords": [
                         18.767995,
@@ -28120,7 +28120,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stalowy dom",
-                  "text": "Historic residential building in Hindenburg (Zabrze).",
+                  "text": "The Stalowy dom (Steel House) in Zabrze is a heritage-listed landmark.",
                   "category": "landmark",
                   "coords": [
                         18.794016,
@@ -28566,7 +28566,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Die Kościół pw. Najświętszego Serca Pana Jezusa ist eine bekannte Kirche in Allenstein.",
+                  "text": "Die Kirche des Heiligsten Herzens Jesu (Kościół Najświętszego Serca Pana Jezusa) in Olsztyn, erbaut 1901–1902, ist ein Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         20.487403,
@@ -28575,7 +28575,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "Die Kościół pw. Świętego Józefa ist eine bedeutende Kirche in Allenstein.",
+                  "text": "Die St. Josephskirche (Kościół św. Józefa) in Olsztyn, erbaut 1912–1913, ist ein Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         20.489836,
@@ -28584,7 +28584,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Archaniołów Michała, Rafała i Gabriela",
-                  "text": "Dieses Gebäude in Allenstein ist eine bekannte Garnisonkirche.",
+                  "text": "Die 1913 erbaute Garnisonkirche der Heiligen Erzengel in Olsztyn ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         20.470786,
@@ -28593,7 +28593,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "Die Kościół pw. Chrystusa Króla ist eine anerkannte Kirche in Allenstein.",
+                  "text": "Die Christkönigskirche in Olsztyn wurde 1926–1927 errichtet und steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         20.485094,
@@ -28973,7 +28973,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "A Kościół pw. Najświętszego Serca Pana Jezusa egy ismert templom Allensteinben.",
+                  "text": "Az olsztyni Jézus Szíve-templom (Kościół Najświętszego Serca Pana Jezusa) 1901–1902-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         20.487403,
@@ -28982,7 +28982,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "A Kościół pw. Świętego Józefa egy jelentős templom Allensteinben.",
+                  "text": "Az olsztyni Szent József-templom (Kościół św. Józefa) 1912–1913-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         20.489836,
@@ -28991,7 +28991,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Archaniołów Michała, Rafała i Gabriela",
-                  "text": "Ez az épület Allensteinben egy ismert helyőrségi templom.",
+                  "text": "Az 1913-ban épült Szent Mihály, Rafael és Gábor arkangyalok tiszteletére szentelt helyőrségi templom Olsztynban műemléki védettséget élvez.",
                   "category": "religious",
                   "coords": [
                         20.470786,
@@ -29000,7 +29000,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "A Kościół pw. Chrystusa Króla egy elismert templom Allensteinben.",
+                  "text": "Az Olsztyn-i Krisztus Király templom 1926–1927-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         20.485094,
@@ -29380,7 +29380,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa este o biserică notabilă situată în Allenstein.",
+                  "text": "Biserica Preasfintei Inimi a lui Isus (Kościół Najświętszego Serca Pana Jezusa) din Olsztyn, construită între 1901 și 1902, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         20.487403,
@@ -29389,7 +29389,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "Kościół pw. Świętego Józefa este o biserică semnificativă situată în Allenstein.",
+                  "text": "Biserica Sf. Iosif (Kościół św. Józefa) din Olsztyn, construită între 1912 și 1913, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         20.489836,
@@ -29398,7 +29398,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Archaniołów Michała, Rafała i Gabriela",
-                  "text": "Această clădire din Allenstein este o biserică de garnizoană notabilă.",
+                  "text": "Biserica garnizoană a Sfinților Arhangheli Mihail, Rafael și Gabriel din Olsztyn, construită în 1913, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         20.470786,
@@ -29407,7 +29407,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "Kościół pw. Chrystusa Króla este o biserică recunoscută situată în Allenstein.",
+                  "text": "Biserica „Hristos Regele” din Olsztyn, construită între 1926 și 1927, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         20.485094,
@@ -29787,7 +29787,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa is a notable church located in Allenstein.",
+                  "text": "The Church of the Sacred Heart of Jesus in Olsztyn, built 1901–1902, is a heritage monument.",
                   "category": "religious",
                   "coords": [
                         20.487403,
@@ -29796,7 +29796,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "Kościół pw. Świętego Józefa is a significant church situated in Allenstein.",
+                  "text": "St. Joseph's Church in Olsztyn, built 1912–1913, is a heritage monument.",
                   "category": "religious",
                   "coords": [
                         20.489836,
@@ -29805,7 +29805,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętych Archaniołów Michała, Rafała i Gabriela",
-                  "text": "This building in Allenstein is a notable garrison church.",
+                  "text": "Built in 1913, the garrison church of the Holy Archangels in Olsztyn is a protected heritage site.",
                   "category": "religious",
                   "coords": [
                         20.470786,
@@ -29814,7 +29814,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Chrystusa Króla",
-                  "text": "Kościół pw. Chrystusa Króla is a recognized church located in Allenstein.",
+                  "text": "The Church of Christ the King in Olsztyn, built 1926–1927, is a listed heritage building.",
                   "category": "religious",
                   "coords": [
                         20.485094,
@@ -29936,7 +29936,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Teatr Polski",
-                  "text": "Das Teatr Polski ist ein bemerkenswertes Theater in Bielitz-Biala.",
+                  "text": "Das Polnische Theater (Teatr Polski) in Bielsko-Biała ist ein denkmalgeschütztes Kulturgebäude.",
                   "category": "cultural",
                   "coords": [
                         19.045469,
@@ -29945,7 +29945,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dom Tkacza",
-                  "text": "Dom Tkacza ist ein bedeutendes Museum in Bielitz-Biala.",
+                  "text": "Das Weberhausmuseum (Dom Tkacza) in Bielsko-Biała ist ein denkmalgeschütztes Museum.",
                   "category": "museum",
                   "coords": [
                         19.035416,
@@ -29963,7 +29963,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Książąt Sułkowskich",
-                  "text": "Zamek Książąt Sułkowskich ist ein historisch bedeutsames Schloss in Bielitz-Biala.",
+                  "text": "Das Schloss der Fürsten Sułkowski (Zamek Książąt Sułkowskich) in Bielsko-Biała ist ein denkmalgeschütztes Schloss.",
                   "category": "castle",
                   "coords": [
                         19.044558,
@@ -30134,7 +30134,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra pw. Świętego Mikołaja w Bielsku-Białej",
-                  "text": "Die Katedra pw. Świętego Mikołaja w Bielsku-Białej ist eine bedeutende Kirche in Bielitz-Biala.",
+                  "text": "Die St.-Nikolaus-Kathedrale in Bielsko-Biała ist ein denkmalgeschütztes Kirchengebäude.",
                   "category": "religious",
                   "coords": [
                         19.042996,
@@ -30143,7 +30143,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miejski w Bielsku-Białej",
-                  "text": "Das Urząd Miejski w Bielsku-Białej ist ein bemerkenswertes Rathaus in Bielitz-Biala.",
+                  "text": "Das Rathaus (Urząd Miejski) in Bielsko-Biała ist ein denkmalgeschütztes historisches Gebäude.",
                   "category": "historical",
                   "coords": [
                         19.050617,
@@ -30152,7 +30152,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Biskupa i Męczennika w Bielsku-Białej",
-                  "text": "Die Kościół pw. Świętego Stanisława Biskupa i Męczennika ist eine anerkannte Kirche in Bielitz-Biala.",
+                  "text": "Die St.-Stanislaus-Kirche in Bielsko-Biała ist ein denkmalgeschütztes Gotteshaus.",
                   "category": "religious",
                   "coords": [
                         19.013804,
@@ -30161,7 +30161,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "Die Kościół pw. Opatrzności Bożej ist eine bedeutende Kirche in Bielitz-Biala.",
+                  "text": "Die Kirche der Göttlichen Vorsehung (Opatrzności Bożej) in Bielsko-Biała ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         19.056376,
@@ -30170,7 +30170,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Erlöserkirche",
-                  "text": "Die Church of the Savior ist eine bemerkenswerte Kirche in Bielitz-Biala.",
+                  "text": "Die 1782 erbaute evangelische Erlöserkirche in Bielsko‑Biała ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         19.040956,
@@ -30179,7 +30179,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Przenajświętszej Trójcy",
-                  "text": "Die Kościół pw. Przenajświętszej Trójcy ist eine bekannte Kirche in Bielitz-Biala.",
+                  "text": "Die Allerheiligste-Dreifaltigkeitskirche (Przenajświętszej Trójcy) in Bielsko-Biała ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         19.039893,
@@ -30334,7 +30334,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Teatr Polski",
-                  "text": "A Teatr Polski egy figyelemre méltó színház Bielitz-Bialában.",
+                  "text": "A Teatr Polski (Lengyel Színház) Bielsko-Białában műemlék kulturális épület.",
                   "category": "cultural",
                   "coords": [
                         19.045469,
@@ -30343,7 +30343,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dom Tkacza",
-                  "text": "A Dom Tkacza egy jelentős múzeum Bielitz-Bialában.",
+                  "text": "A Dom Tkacza (Takács-ház) múzeum Bielsko-Białában műemlék.",
                   "category": "museum",
                   "coords": [
                         19.035416,
@@ -30361,7 +30361,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Książąt Sułkowskich",
-                  "text": "A Zamek Książąt Sułkowskich egy történelmileg jelentős kastély Bielitz-Bialában.",
+                  "text": "A Sułkowski hercegek kastélya (Zamek Książąt Sułkowskich) Bielsko-Białában műemlék kastély.",
                   "category": "castle",
                   "coords": [
                         19.044558,
@@ -30532,7 +30532,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra pw. Świętego Mikołaja w Bielsku-Białej",
-                  "text": "A Katedra pw. Świętego Mikołaja w Bielsku-Białej egy jelentős templom Bielitz-Bialában.",
+                  "text": "A Szent Miklós-székesegyház Bielsko-Białában műemlék templom.",
                   "category": "religious",
                   "coords": [
                         19.042996,
@@ -30541,7 +30541,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miejski w Bielsku-Białej",
-                  "text": "Az Urząd Miejski w Bielsku-Białej egy figyelemre méltó városháza Bielitz-Bialában.",
+                  "text": "A Bielsko-Białai Városháza (Urząd Miejski) műemlék épület.",
                   "category": "historical",
                   "coords": [
                         19.050617,
@@ -30550,7 +30550,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Biskupa i Męczennika w Bielsku-Białej",
-                  "text": "A Kościół pw. Świętego Stanisława Biskupa i Męczennika egy elismert templom Bielitz-Bialában.",
+                  "text": "A Szent Stanislaus-templom Bielsko-Białában műemlék.",
                   "category": "religious",
                   "coords": [
                         19.013804,
@@ -30559,7 +30559,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "A Kościół pw. Opatrzności Bożej egy jelentős templom Bielitz-Bialában.",
+                  "text": "Az Isteni Gondviselés temploma (Opatrzności Bożej) Bielsko-Białában műemlék.",
                   "category": "religious",
                   "coords": [
                         19.056376,
@@ -30568,7 +30568,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Zbawiciela",
-                  "text": "A Church of the Savior egy figyelemre méltó templom Bielitz-Bialában.",
+                  "text": "A Bielsko‑Biała-i Megváltó templom 1782-ben épült evangélikus templom, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.040956,
@@ -30577,7 +30577,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Przenajświętszej Trójcy",
-                  "text": "A Kościół pw. Przenajświętszej Trójcy egy ismert templom Bielitz-Bialában.",
+                  "text": "A Legszentebb Háromság temploma (Przenajświętszej Trójcy) Bielsko-Białában műemlék.",
                   "category": "religious",
                   "coords": [
                         19.039893,
@@ -30732,7 +30732,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Teatr Polski",
-                  "text": "Teatr Polski este un teatru notabil în Bielitz-Biala.",
+                  "text": "Teatrul Polonez (Teatr Polski) din Bielsko-Biała este o clădire culturală monument istoric.",
                   "category": "cultural",
                   "coords": [
                         19.045469,
@@ -30741,7 +30741,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dom Tkacza",
-                  "text": "Dom Tkacza este un muzeu important din Bielitz-Biala.",
+                  "text": "Muzeul Dom Tkacza (Casa Țesătorului) din Bielsko-Biała este un muzeu monument istoric.",
                   "category": "museum",
                   "coords": [
                         19.035416,
@@ -30759,7 +30759,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Książąt Sułkowskich",
-                  "text": "Zamek Książąt Sułkowskich este un castel istoric semnificativ în Bielitz-Biala.",
+                  "text": "Castelul Prinților Sułkowski (Zamek Książąt Sułkowskich) din Bielsko-Biała este un castel monument istoric.",
                   "category": "castle",
                   "coords": [
                         19.044558,
@@ -30930,7 +30930,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra pw. Świętego Mikołaja w Bielsku-Białej",
-                  "text": "Katedra pw. Świętego Mikołaja w Bielsku-Białej este o biserică importantă din Bielitz-Biala.",
+                  "text": "Catedrala Sfântul Nicolae din Bielsko-Biała este o catedrală monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.042996,
@@ -30939,7 +30939,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miejski w Bielsku-Białej",
-                  "text": "Urząd Miejski w Bielsku-Białej este o primărie notabilă situată în Bielitz-Biala.",
+                  "text": "Primăria (Urząd Miejski) din Bielsko-Biała este o clădire istorică monument.",
                   "category": "historical",
                   "coords": [
                         19.050617,
@@ -30948,7 +30948,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Biskupa i Męczennika w Bielsku-Białej",
-                  "text": "Kościół pw. Świętego Stanisława Biskupa i Męczennika este o biserică recunoscută din Bielitz-Biala.",
+                  "text": "Biserica Sfântul Stanislau din Bielsko-Biała este monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.013804,
@@ -30957,7 +30957,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "Kościół pw. Opatrzności Bożej este o biserică importantă situată în Bielitz-Biala.",
+                  "text": "Biserica Providenței Divine (Opatrzności Bożej) din Bielsko-Biała este monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.056376,
@@ -30966,7 +30966,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Zbawiciela",
-                  "text": "Church of the Savior este o biserică notabilă din Bielitz-Biala.",
+                  "text": "Biserica Mântuitorului din Bielsko‑Biała, construită în 1782, este un monument istoric evanghelic.",
                   "category": "religious",
                   "coords": [
                         19.040956,
@@ -30975,7 +30975,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Przenajświętszej Trójcy",
-                  "text": "Kościół pw. Przenajświętszej Trójcy este o biserică recunoscută din Bielitz-Biala.",
+                  "text": "Biserica Preasfintei Treimi (Przenajświętszej Trójcy) din Bielsko-Biała este monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.039893,
@@ -31130,7 +31130,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Teatr Polski",
-                  "text": "Teatr Polski is a notable theatre situated in Bielitz-Biala.",
+                  "text": "The Polish Theatre (Teatr Polski) in Bielsko-Biała is a heritage-listed cultural venue.",
                   "category": "cultural",
                   "coords": [
                         19.045469,
@@ -31139,7 +31139,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dom Tkacza",
-                  "text": "Dom Tkacza is a significant museum located in Bielitz-Biala.",
+                  "text": "The Weaver's House Museum (Dom Tkacza) in Bielsko-Biała is a heritage-listed museum.",
                   "category": "museum",
                   "coords": [
                         19.035416,
@@ -31157,7 +31157,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Książąt Sułkowskich",
-                  "text": "Zamek Książąt Sułkowskich is a historically significant castle in Bielitz-Biala.",
+                  "text": "The Castle of the Sulkowski Princes (Zamek Książąt Sułkowskich) in Bielsko-Biała is a heritage-listed castle.",
                   "category": "castle",
                   "coords": [
                         19.044558,
@@ -31328,7 +31328,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra pw. Świętego Mikołaja w Bielsku-Białej",
-                  "text": "Katedra pw. Świętego Mikołaja w Bielsku-Białej is a significant church located in Bielitz-Biala.",
+                  "text": "The Cathedral of St. Nicholas in Bielsko-Biała is a heritage-listed cathedral.",
                   "category": "religious",
                   "coords": [
                         19.042996,
@@ -31337,7 +31337,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miejski w Bielsku-Białej",
-                  "text": "Urząd Miejski w Bielsku-Białej is a notable townhall in Bielitz-Biala.",
+                  "text": "The Town Hall (Urząd Miejski) in Bielsko-Biała is a heritage-listed historical building.",
                   "category": "historical",
                   "coords": [
                         19.050617,
@@ -31346,7 +31346,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Biskupa i Męczennika w Bielsku-Białej",
-                  "text": "Kościół pw. Świętego Stanisława Biskupa i Męczennika is a recognized church in Bielitz-Biala.",
+                  "text": "The Church of St. Stanislaus in Bielsko-Biała is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         19.013804,
@@ -31355,7 +31355,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Opatrzności Bożej",
-                  "text": "Kościół pw. Opatrzności Bożej is a significant church located in Bielitz-Biala.",
+                  "text": "The Church of Divine Providence in Bielsko-Biała is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         19.056376,
@@ -31364,7 +31364,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Savior",
-                  "text": "The Church of the Savior is a notable church located in Bielitz-Biala.",
+                  "text": "Built in 1782, the Lutheran Church of the Savior in Bielsko‑Biała is a heritage-listed building.",
                   "category": "religious",
                   "coords": [
                         19.040956,
@@ -31373,7 +31373,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Przenajświętszej Trójcy",
-                  "text": "Kościół pw. Przenajświętszej Trójcy is a well-known church in Bielitz-Biala.",
+                  "text": "The Church of the Most Holy Trinity in Bielsko-Biała is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         19.039893,
@@ -33587,7 +33587,7 @@ export const polandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sąd Rejonowy w Rybniku",
-                  "text": "Sąd Rejonowy w Rybniku ist in einem bemerkenswerten historischen Schloss in Rybnik untergebracht.",
+                  "text": "Das ehemalige Schloss in Rybnik (heute Gericht) ist ein denkmalgeschütztes Gebäude.",
                   "category": "castle",
                   "coords": [
                         18.540429,
@@ -33641,7 +33641,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Akademicki pod wezwaniem Wniebowzięcia NMP",
-                  "text": "Die Kościół Akademicki pod wezwaniem Wniebowzięcia NMP ist eine bedeutende Sehenswürdigkeit in Rybnik.",
+                  "text": "Die 1470 erbaute akademische Kirche Mariä Himmelfahrt in Rybnik ist ein gotisches Baudenkmal.",
                   "category": "landmark",
                   "coords": [
                         18.545018,
@@ -33650,7 +33650,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pod wezwaniem Matki Boskiej Bolesnej",
-                  "text": "Die Kościół pod wezwaniem Matki Boskiej Bolesnej ist eine bemerkenswerte Sehenswürdigkeit in Rybnik.",
+                  "text": "Die 1801 erbaute Schmerzhafte-Muttergottes-Kirche in Rybnik steht unter Denkmalschutz.",
                   "category": "landmark",
                   "coords": [
                         18.54209,
@@ -33659,7 +33659,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Katarzyny i Matki Bożej Różańcowej",
-                  "text": "Die Kościół św. Katarzyny i Matki Bożej Różańcowej ist eine anerkannte Sehenswürdigkeit in Rybnik.",
+                  "text": "Die Kirche St. Katharina und Muttergottes vom Rosenkranz in Rybnik ist ein denkmalgeschütztes Gebäude.",
                   "category": "landmark",
                   "coords": [
                         18.553802,
@@ -33841,7 +33841,7 @@ export const polandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sąd Rejonowy w Rybniku",
-                  "text": "A Sąd Rejonowy w Rybniku egy figyelemre méltó történelmi kastélyban található Rybnikben.",
+                  "text": "A rybniki vár (ma bíróság) műemlék.",
                   "category": "castle",
                   "coords": [
                         18.540429,
@@ -33895,7 +33895,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Akademicki pod wezwaniem Wniebowzięcia NMP",
-                  "text": "A Kościół Akademicki pod wezwaniem Wniebowzięcia NMP egy jelentős látványosság Rybnikben.",
+                  "text": "A Rybnik-i akadémiai templom (Nagyboldogasszony) 1470-ben épült, gótikus stílusú műemlék.",
                   "category": "landmark",
                   "coords": [
                         18.545018,
@@ -33904,7 +33904,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pod wezwaniem Matki Boskiej Bolesnej",
-                  "text": "A Kościół pod wezwaniem Matki Boskiej Bolesnej egy figyelemre méltó látványosság Rybnikben.",
+                  "text": "A Rybnik-i Fájdalmas Szűzanya templom 1801-ben épült, műemlék.",
                   "category": "landmark",
                   "coords": [
                         18.54209,
@@ -33913,7 +33913,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Katarzyny i Matki Bożej Różańcowej",
-                  "text": "A Kościół św. Katarzyny i Matki Bożej Różańcowej egy elismert látványosság Rybnikben.",
+                  "text": "A Szent Katalin- és Rózsafüzér királynője-templom Rybnikben műemlék.",
                   "category": "landmark",
                   "coords": [
                         18.553802,
@@ -34095,7 +34095,7 @@ export const polandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sąd Rejonowy w Rybniku",
-                  "text": "Sąd Rejonowy w Rybniku este un castel istoric notabil situat în Rybnik.",
+                  "text": "Fostul castel din Rybnik (acum tribunal) este monument istoric.",
                   "category": "castle",
                   "coords": [
                         18.540429,
@@ -34149,7 +34149,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Akademicki pod wezwaniem Wniebowzięcia NMP",
-                  "text": "Kościół Akademicki pod wezwaniem Wniebowzięcia NMP este o atracție importantă din Rybnik.",
+                  "text": "Biserica academică „Adormirea Maicii Domnului” din Rybnik, construită în 1470, este monument istoric gotic.",
                   "category": "landmark",
                   "coords": [
                         18.545018,
@@ -34158,7 +34158,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pod wezwaniem Matki Boskiej Bolesnej",
-                  "text": "Kościół pod wezwaniem Matki Boskiej Bolesnej este o atracție notabilă în Rybnik.",
+                  "text": "Biserica „Maica Domnului Durerilor” din Rybnik, construită în 1801, este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.54209,
@@ -34167,7 +34167,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Katarzyny i Matki Bożej Różańcowej",
-                  "text": "Kościół św. Katarzyny i Matki Bożej Różańcowej este o atracție recunoscută din Rybnik.",
+                  "text": "Biserica Sfânta Ecaterina și Maica Domnului de la Rozariu din Rybnik este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.553802,
@@ -34349,7 +34349,7 @@ export const polandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sąd Rejonowy w Rybniku",
-                  "text": "Sąd Rejonowy w Rybniku is a historically significant castle located in Rybnik.",
+                  "text": "The former castle in Rybnik (now a district court) is a heritage-listed building.",
                   "category": "castle",
                   "coords": [
                         18.540429,
@@ -34403,7 +34403,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Akademicki pod wezwaniem Wniebowzięcia NMP",
-                  "text": "Kościół Akademicki pod wezwaniem Wniebowzięcia NMP is a significant attraction in Rybnik.",
+                  "text": "The academic Church of the Assumption in Rybnik, built in 1470, is a Gothic heritage site.",
                   "category": "landmark",
                   "coords": [
                         18.545018,
@@ -34412,7 +34412,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pod wezwaniem Matki Boskiej Bolesnej",
-                  "text": "Kościół pod wezwaniem Matki Boskiej Bolesnej is a notable attraction situated in Rybnik.",
+                  "text": "The Church of Our Lady of Sorrows in Rybnik, built in 1801, is a listed heritage building.",
                   "category": "landmark",
                   "coords": [
                         18.54209,
@@ -34421,7 +34421,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Katarzyny i Matki Bożej Różańcowej",
-                  "text": "Kościół św. Katarzyny i Matki Bożej Różańcowej is a recognized attraction located in Rybnik.",
+                  "text": "The Church of St. Catherine and Our Lady of the Rosary in Rybnik is a heritage-listed church.",
                   "category": "landmark",
                   "coords": [
                         18.553802,
@@ -34885,7 +34885,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
-                  "text": "Katholische Kirche in Ruda Slaska.",
+                  "text": "Die Kirche St. Laurentius und St. Antonius in Ruda Śląska ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         18.864475,
@@ -34894,7 +34894,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
-                  "text": "Evangelische Kirche in Ruda Slaska.",
+                  "text": "Die evangelisch-augsburgische Erlöserkirche in Ruda Śląska ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         18.86309,
@@ -34912,7 +34912,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół par. pw. św. Marii Magdaleny",
-                  "text": "Katholische Kirche in Ruda Slaska.",
+                  "text": "Die Pfarrkirche St. Maria Magdalena in Ruda Śląska ist ein denkmalgeschütztes Gebäude.",
                   "category": "religious",
                   "coords": [
                         18.834813,
@@ -35247,7 +35247,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
-                  "text": "Katolikus templom Ruda Slaskában.",
+                  "text": "A Szent Lőrinc- és Szent Antal-templom Ruda Śląskában műemlék.",
                   "category": "religious",
                   "coords": [
                         18.864475,
@@ -35256,7 +35256,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
-                  "text": "Evangélikus templom Ruda Slaskában.",
+                  "text": "Az evangélikus Megváltó templom Ruda Śląskában műemlék.",
                   "category": "religious",
                   "coords": [
                         18.86309,
@@ -35274,7 +35274,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół par. pw. św. Marii Magdaleny",
-                  "text": "Katolikus templom Ruda Slaskában.",
+                  "text": "A Szent Mária Magdolna-plébániatemplom Ruda Śląskában műemlék.",
                   "category": "religious",
                   "coords": [
                         18.834813,
@@ -35609,7 +35609,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
-                  "text": "Biserică catolică în Ruda Slaska.",
+                  "text": "Biserica Sfinții Laurențiu și Antonie din Ruda Śląska este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.864475,
@@ -35618,7 +35618,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
-                  "text": "Biserică evanghelică în Ruda Slaska.",
+                  "text": "Biserica Evanghelică Augsburgiană a Răscumpărătorului din Ruda Śląska este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.86309,
@@ -35636,7 +35636,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół par. pw. św. Marii Magdaleny",
-                  "text": "Biserică catolică în Ruda Slaska.",
+                  "text": "Biserica parohială Sfânta Maria Magdalena din Ruda Śląska este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.834813,
@@ -35971,7 +35971,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
-                  "text": "Catholic church in Ruda Slaska.",
+                  "text": "The Church of St. Lawrence and St. Anthony in Ruda Śląska is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         18.864475,
@@ -35980,7 +35980,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
-                  "text": "Protestant church in Ruda Slaska.",
+                  "text": "The Evangelical-Augsburg Church of the Redeemer in Ruda Śląska is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         18.86309,
@@ -35998,7 +35998,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół par. pw. św. Marii Magdaleny",
-                  "text": "Catholic church in Ruda Slaska.",
+                  "text": "The parish church of St. Mary Magdalene in Ruda Śląska is a heritage-listed church.",
                   "category": "religious",
                   "coords": [
                         18.834813,
@@ -38842,7 +38842,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Mariä-Himmelfahrt-Dom",
-                  "text": "Kathedrale in Gorzów Wielkopolski.",
+                  "text": "Gotischer Backsteindom in Gorzów Wielkopolski, eingetragenes Kulturdenkmal.",
                   "category": "landmark",
                   "coords": [
                         15.239433,
@@ -39040,7 +39040,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Chrystusa Króla",
-                  "text": "Christkönigskirche in Landsberg an der Warthe.",
+                  "text": "Neoromanische Kirche aus dem frühen 20. Jahrhundert in Gorzów Wielkopolski, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         15.246684,
@@ -39267,7 +39267,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra Wniebowzięcia NMP",
-                  "text": "Székesegyház Gorzów Wielkopolskiben.",
+                  "text": "Gótikus téglakatedrális Gorzów Wielkopolskiban, műemléki védelem alatt.",
                   "category": "landmark",
                   "coords": [
                         15.239433,
@@ -39465,7 +39465,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Chrystusa Króla",
-                  "text": "Krisztus Király templom Landsberg an der Warthe-ban.",
+                  "text": "Neoromán templom a 20. század elejéről Gorzów Wielkopolskiban, műemlék.",
                   "category": "religious",
                   "coords": [
                         15.246684,
@@ -39692,7 +39692,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra Wniebowzięcia NMP",
-                  "text": "Catedrală în Gorzów Wielkopolski.",
+                  "text": "Catedrală gotică de cărămidă în Gorzów Wielkopolski, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         15.239433,
@@ -39890,7 +39890,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Chrystusa Króla",
-                  "text": "Biserica Hristos Rege în Landsberg an der Warthe.",
+                  "text": "Biserică neoromanică de la începutul secolului XX, monument istoric.",
                   "category": "religious",
                   "coords": [
                         15.246684,
@@ -40117,7 +40117,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
-                  "text": "Cathedral in Gorzów Wielkopolski.",
+                  "text": "Gothic brick cathedral in Gorzów Wielkopolski, listed as a heritage site.",
                   "category": "landmark",
                   "coords": [
                         15.239433,
@@ -40315,7 +40315,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Chrystusa Króla",
-                  "text": "Christ the King Church in Landsberg an der Warthe.",
+                  "text": "Neo-Romanesque church from the early 20th century, heritage listed.",
                   "category": "religious",
                   "coords": [
                         15.246684,
@@ -40671,7 +40671,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jerzego",
-                  "text": "Die St.-Georgs-Kirche ist ein historisches Gotteshaus in Elbing.",
+                  "text": "Die St.-Georgs-Kirche in Elbląg ist eine gotische Backsteinkirche aus dem 14./15. Jahrhundert, Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         19.416518,
@@ -40970,7 +40970,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jerzego",
-                  "text": "A Szent György-templom egy történelmi templom Elbing városában.",
+                  "text": "Az Elbląg-i Szent György templom a 14–15. században épült gótikus téglatemplom, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.416518,
@@ -41269,7 +41269,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jerzego",
-                  "text": "Biserica Sfântul Gheorghe este un lăcaș de cult istoric în Elbing.",
+                  "text": "Biserica „Sfântul Gheorghe” din Elbląg, biserică gotică de cărămidă din secolele XIV–XV, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.416518,
@@ -41568,7 +41568,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jerzego",
-                  "text": "St. George's Church is a historic church located in Elbing.",
+                  "text": "St. George's Church in Elbląg is a Gothic brick church dating from the 14th–15th century, a protected monument.",
                   "category": "religious",
                   "coords": [
                         19.416518,
@@ -42988,7 +42988,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Antoniego z Padwy",
-                  "text": "Kirche des heiligen Antonius in Dabrowa Gornicza.",
+                  "text": "Die 1675–1678 erbaute St.-Antonius-Kirche in Dąbrowa Górnicza ist ein Barockbau, Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         19.232896,
@@ -43006,7 +43006,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Najświętszej Maryi Panny Anielskiej",
-                  "text": "Basilika der Muttergottes in Dabrowa Gornicza.",
+                  "text": "Die 1877–1975 von Józef Stefan Pomian-Pomianowski erbaute Basilika der Allerheiligsten Jungfrau Maria in Dąbrowa Górnicza ist eine neugotische Basilika.",
                   "category": "religious",
                   "coords": [
                         19.192401,
@@ -43125,7 +43125,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Antoniego z Padwy",
-                  "text": "Szent Antal templom Dąbrowa Górniczában.",
+                  "text": "A Dąbrowa Górnicza-i Szent Páduai Antal templom 1675–1678 között épült barokk stílusú műemlék.",
                   "category": "religious",
                   "coords": [
                         19.232896,
@@ -43143,7 +43143,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Najświętszej Maryi Panny Anielskiej",
-                  "text": "Mária-bazilika Dąbrowa Górniczában.",
+                  "text": "A Dąbrowa Górniczai Szűz Mária-bazilika 1877–1975 között épült Józef Stefan Pomian-Pomianowski tervei alapján, neogótikus bazilika.",
                   "category": "religious",
                   "coords": [
                         19.192401,
@@ -43262,7 +43262,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Antoniego z Padwy",
-                  "text": "Biserica Sfântul Anton în Dabrowa Gornicza.",
+                  "text": "Biserica „Sfântul Anton de Padova” din Dąbrowa Górnicza, construită între 1675 și 1678 în stil baroc, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.232896,
@@ -43280,7 +43280,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Najświętszej Maryi Panny Anielskiej",
-                  "text": "Bazilica Maicii Domnului în Dabrowa Gornicza.",
+                  "text": "Basilica Sfintei Fecioare Maria din Dąbrowa Górnicza, construită între 1877 și 1975 de Józef Stefan Pomian-Pomianowski, este o bazilică neogotică.",
                   "category": "religious",
                   "coords": [
                         19.192401,
@@ -43399,7 +43399,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Antoniego z Padwy",
-                  "text": "Church of St. Anthony in Dabrowa Gornicza.",
+                  "text": "Built 1675–1678, the Baroque Church of St. Anthony of Padua in Dąbrowa Górnicza is a heritage building.",
                   "category": "religious",
                   "coords": [
                         19.232896,
@@ -43417,7 +43417,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Najświętszej Maryi Panny Anielskiej",
-                  "text": "Basilica of Our Lady in Dabrowa Gornicza.",
+                  "text": "The Basilica of the Blessed Virgin Mary in Dąbrowa Górnicza, built 1877–1975 by Józef Stefan Pomian-Pomianowski, is a Neo-Gothic basilica.",
                   "category": "religious",
                   "coords": [
                         19.192401,
@@ -43521,7 +43521,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Filharmonia Sudecka",
-                  "text": "Die Sudetenphilharmonie ist eine bedeutende Kultureinrichtung in Waldenburg.",
+                  "text": "Moderne Philharmonie in Wałbrzych, denkmalgeschütztes Konzertgebäude.",
                   "category": "cultural",
                   "coords": [
                         16.280817,
@@ -43829,7 +43829,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Filharmonia Sudecka",
-                  "text": "A Szudétavidéki Filharmónia egy jelentős kulturális intézmény Waldenburg városában.",
+                  "text": "Modern hangversenyterem Wałbrzychban, műemléki védettségű.",
                   "category": "cultural",
                   "coords": [
                         16.280817,
@@ -44137,7 +44137,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Filharmonia Sudecka",
-                  "text": "Filarmonica Sudetă este o instituție culturală importantă din Waldenburg.",
+                  "text": "Filarmonică modernă în Wałbrzych, clădire de concert monument istoric.",
                   "category": "cultural",
                   "coords": [
                         16.280817,
@@ -44445,7 +44445,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Filharmonia Sudecka",
-                  "text": "The Sudeten Philharmonic is a significant cultural institution in Waldenburg.",
+                  "text": "Modernist philharmonic hall in Wałbrzych, a heritage-listed concert venue.",
                   "category": "cultural",
                   "coords": [
                         16.280817,
@@ -45910,7 +45910,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Tarnowskie Centrum Dialogu",
-                  "text": "Historische Villa in Tarnau.",
+                  "text": "Villa aus dem 19. Jahrhundert an der Gumniska-Straße, heute Kulturzentrum, denkmalgeschützt.",
                   "category": "castle",
                   "coords": [
                         21.001402,
@@ -45919,7 +45919,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Sanguszków",
-                  "text": "Sanguszko-Palast in Tarnau.",
+                  "text": "Barock-klassizistisches Palais der Familie Sanguszko im Stadtteil Gumniska, Kulturdenkmal.",
                   "category": "castle",
                   "coords": [
                         21.006988,
@@ -46000,7 +46000,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Strzelecki",
-                  "text": "Strzelecki-Park in Tarnau.",
+                  "text": "1867 angelegter Stadtpark mit Teich und Kościuszko-Denkmal, denkmalgeschützt.",
                   "category": "park",
                   "coords": [
                         20.985371,
@@ -46009,7 +46009,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 202 - Tarnów",
-                  "text": "Kriegsfriedhof Nr. 202 in Tarnau.",
+                  "text": "Soldatenfriedhof des Ersten Weltkriegs von 1914, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         20.996893,
@@ -46189,7 +46189,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół akademicki Świętego Józefa",
-                  "text": "Akademische St.-Joseph-Kirche in Tarnau.",
+                  "text": "Moderne Universitätskirche St. Joseph, erbaut 1948.",
                   "category": "religious",
                   "coords": [
                         20.991993,
@@ -46216,7 +46216,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Błogosławionej Karoliny Kózkówny w Tarnowie",
-                  "text": "Kirche der seligen Karolina Kózkówna in Tarnau.",
+                  "text": "Moderne Kirche der seligen Karolina Kózka, geweiht 2018.",
                   "category": "religious",
                   "coords": [
                         21.018226,
@@ -46308,7 +46308,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Tarnowskie Centrum Dialogu",
-                  "text": "Történelmi villa Tarnówban.",
+                  "text": "19. századi villa a Gumniska utcában, ma kulturális központ, műemlék.",
                   "category": "castle",
                   "coords": [
                         21.001402,
@@ -46317,7 +46317,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Sanguszków",
-                  "text": "Sanguszko-palota Tarnówban.",
+                  "text": "Barokk-klasszicista palota a Sanguszko családtól a Gumniska negyedben, műemlék.",
                   "category": "castle",
                   "coords": [
                         21.006988,
@@ -46398,7 +46398,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Strzelecki",
-                  "text": "Strzelecki park Tarnówban.",
+                  "text": "1867-ben alapított városi park tóval és Kościuszko-szoborral, műemlék.",
                   "category": "park",
                   "coords": [
                         20.985371,
@@ -46407,7 +46407,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 202 - Tarnów",
-                  "text": "202-es számú katonai temető Tarnówban.",
+                  "text": "I. világháborús katonai temető 1914-ből, műemlék.",
                   "category": "landmark",
                   "coords": [
                         20.996893,
@@ -46587,7 +46587,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół akademicki Świętego Józefa",
-                  "text": "Akadémiai Szent József-templom Tarnauban.",
+                  "text": "Modern egyetemi Szent József-templom, 1948-ban épült.",
                   "category": "religious",
                   "coords": [
                         20.991993,
@@ -46614,7 +46614,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Błogosławionej Karoliny Kózkówny w Tarnowie",
-                  "text": "Boldog Karolina Kózkówna-templom Tarnauban.",
+                  "text": "Modern templom a Boldog Karolina Kózka tiszteletére, 2018-ban szentelték fel.",
                   "category": "religious",
                   "coords": [
                         21.018226,
@@ -46706,7 +46706,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Tarnowskie Centrum Dialogu",
-                  "text": "Vilă istorică în Tarnau.",
+                  "text": "Vilă din secolul XIX pe strada Gumniska, acum centru cultural, monument istoric.",
                   "category": "castle",
                   "coords": [
                         21.001402,
@@ -46715,7 +46715,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Sanguszków",
-                  "text": "Palatul Sanguszko în Tarnau.",
+                  "text": "Palat baroc-clasicist al familiei Sanguszko în cartierul Gumniska, monument istoric.",
                   "category": "castle",
                   "coords": [
                         21.006988,
@@ -46796,7 +46796,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Strzelecki",
-                  "text": "Parcul Strzelecki în Tarnau.",
+                  "text": "Parcul orășenesc înființat în 1867, cu iaz și monumentul lui Kościuszko, monument istoric.",
                   "category": "park",
                   "coords": [
                         20.985371,
@@ -46805,7 +46805,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 202 - Tarnów",
-                  "text": "Cimitir militar nr. 202 în Tarnau.",
+                  "text": "Cimitir militar din Primul Război Mondial, datând din 1914, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         20.996893,
@@ -46985,7 +46985,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół akademicki Świętego Józefa",
-                  "text": "Biserica academică Sfântul Iosif din Tarnau.",
+                  "text": "Biserică academică modernă Sfântul Iosif, construită în 1948.",
                   "category": "religious",
                   "coords": [
                         20.991993,
@@ -47012,7 +47012,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Błogosławionej Karoliny Kózkówny w Tarnowie",
-                  "text": "Biserica fericitei Karolina Kózkówna din Tarnau.",
+                  "text": "Biserică modernă dedicată Fericitei Carolina Kózka, sfințită în 2018.",
                   "category": "religious",
                   "coords": [
                         21.018226,
@@ -47104,7 +47104,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Tarnowskie Centrum Dialogu",
-                  "text": "Historic villa in Tarnau.",
+                  "text": "19th-century villa at Gumniska Street, now a cultural dialogue centre, heritage listed.",
                   "category": "castle",
                   "coords": [
                         21.001402,
@@ -47113,7 +47113,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Sanguszków",
-                  "text": "Sanguszko Palace in Tarnau.",
+                  "text": "Baroque-classicist palace of the Sanguszko family in the Gumniska district, heritage listed.",
                   "category": "castle",
                   "coords": [
                         21.006988,
@@ -47194,7 +47194,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Strzelecki",
-                  "text": "Strzelecki park in Tarnau.",
+                  "text": "City park established in 1867, featuring a pond and a monument to Tadeusz Kościuszko, heritage listed.",
                   "category": "park",
                   "coords": [
                         20.985371,
@@ -47203,7 +47203,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 202 - Tarnów",
-                  "text": "Military cemetery No. 202 in Tarnau.",
+                  "text": "World War I military cemetery from 1914, heritage listed.",
                   "category": "landmark",
                   "coords": [
                         20.996893,
@@ -47383,7 +47383,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół akademicki Świętego Józefa",
-                  "text": "Saint Joseph academic church in Tarnau.",
+                  "text": "Modernist academic church of St. Joseph, built in 1948.",
                   "category": "religious",
                   "coords": [
                         20.991993,
@@ -47410,7 +47410,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Błogosławionej Karoliny Kózkówny w Tarnowie",
-                  "text": "Church of Blessed Karolina Kózkówna in Tarnau.",
+                  "text": "Modern church dedicated to Blessed Karolina Kózka, consecrated in 2018.",
                   "category": "religious",
                   "coords": [
                         21.018226,
@@ -47820,7 +47820,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Jadwigi",
-                  "text": "Kościół świętej Jadwigi ist ein bedeutendes Kirchengebäude in Königshütte.",
+                  "text": "Neugotische Hedwigskirche, erbaut 1872–1874, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         18.947488,
@@ -47829,7 +47829,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miasta Chorzów",
-                  "text": "Urząd Miasta Chorzów ist ein bedeutendes Rathaus in Königshütte.",
+                  "text": "Historistisches Rathaus, erbaut 1874–1876, denkmalgeschützt.",
                   "category": "historical",
                   "coords": [
                         18.952998,
@@ -47847,7 +47847,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół ewangelicki imienia Elżbiety",
-                  "text": "Kościół ewangelicki imienia Elżbiety ist ein bedeutendes Kirchengebäude in Königshütte.",
+                  "text": "Die 1844 erbaute evangelische Elisabethkirche in Chorzów steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         18.953129,
@@ -47856,7 +47856,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny ist ein bedeutendes Kirchengebäude in Königshütte.",
+                  "text": "Neugotische Mariä-Himmelfahrt-Kirche, erbaut 1896–1898, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         18.938428,
@@ -47883,7 +47883,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa ist ein bedeutendes Kirchengebäude in Königshütte.",
+                  "text": "Neugotische Herz-Jesu-Kirche, erbaut 1893–1895, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         18.952223,
@@ -47901,7 +47901,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Marii Magdaleny",
-                  "text": "Kościół świętej Marii Magdaleny ist ein bedeutendes Kirchengebäude in Königshütte.",
+                  "text": "Klassizistische Magdalenenkirche, erbaut 1842–1844, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         18.974082,
@@ -47910,7 +47910,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Wawrzyńca",
-                  "text": "Kościół św. Wawrzyńca ist ein bedeutendes Kirchengebäude in Königshütte.",
+                  "text": "Neugotische Laurentiuskirche, erbaut 1899–1901, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         18.965399,
@@ -47928,7 +47928,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "Kościół pw. Ducha Świętego ist ein bedeutender Kultort in Königshütte.",
+                  "text": "Moderne Heilig-Geist-Kirche, erbaut 1931–1933, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         18.942085,
@@ -48281,7 +48281,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Jadwigi",
-                  "text": "A Kościół świętej Jadwigi egy jelentős templom Königshütte városában.",
+                  "text": "Neogótikus Szent Hedvig-templom, 1872–1874 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.947488,
@@ -48290,7 +48290,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miasta Chorzów",
-                  "text": "Az Urząd Miasta Chorzów egy jelentős városháza Königshütte városában.",
+                  "text": "Historizáló városháza, 1874–1876 között épült, műemlék.",
                   "category": "historical",
                   "coords": [
                         18.952998,
@@ -48308,7 +48308,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół ewangelicki imienia Elżbiety",
-                  "text": "A Kościół ewangelicki imienia Elżbiety egy jelentős templom Königshütte városában.",
+                  "text": "A Chorzów-i Erzsébet evangélikus templom 1844-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.953129,
@@ -48317,7 +48317,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "A Kościół pw. Wniebowzięcia Najświętszej Maryi Panny egy jelentős templom Königshütte városában.",
+                  "text": "Neogótikus Nagyboldogasszony-templom, 1896–1898 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.938428,
@@ -48344,7 +48344,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "A Kościół pw. Najświętszego Serca Pana Jezusa egy jelentős templom Königshütte városában.",
+                  "text": "Neogótikus Jézus Szíve-templom, 1893–1895 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.952223,
@@ -48362,7 +48362,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Marii Magdaleny",
-                  "text": "A Kościół świętej Marii Magdaleny egy jelentős templom Königshütte városában.",
+                  "text": "Klasszicista Magdolna-templom, 1842–1844 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.974082,
@@ -48371,7 +48371,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Wawrzyńca",
-                  "text": "A Kościół św. Wawrzyńca egy jelentős templom Königshütte városában.",
+                  "text": "Neogótikus Szent Lőrinc-templom, 1899–1901 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.965399,
@@ -48389,7 +48389,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "A Kościół pw. Ducha Świętego egy jelentős istentiszteleti hely Königshütte városában.",
+                  "text": "Modern Szentlélek-templom, 1931–1933 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.942085,
@@ -48742,7 +48742,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Jadwigi",
-                  "text": "Kościół świętej Jadwigi este o biserică notabilă situată în Königshütte.",
+                  "text": "Biserică neogotică Sfânta Hedviga, construită între 1872 și 1874, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.947488,
@@ -48751,7 +48751,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miasta Chorzów",
-                  "text": "Urząd Miasta Chorzów este o primărie notabilă situată în Königshütte.",
+                  "text": "Primărie istoricistă construită între 1874 și 1876, monument istoric.",
                   "category": "historical",
                   "coords": [
                         18.952998,
@@ -48769,7 +48769,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół ewangelicki imienia Elżbiety",
-                  "text": "Kościół ewangelicki imienia Elżbiety este o biserică notabilă situată în Königshütte.",
+                  "text": "Biserica evanghelică „Sfânta Elisabeta” din Chorzów, construită în 1844, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.953129,
@@ -48778,7 +48778,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny este o biserică notabilă situată în Königshütte.",
+                  "text": "Biserică neogotică a Adormirii Maicii Domnului, construită între 1896 și 1898, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.938428,
@@ -48805,7 +48805,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa este o biserică notabilă situată în Königshütte.",
+                  "text": "Biserică neogotică a Inimii Sacre, construită între 1893 și 1895, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.952223,
@@ -48823,7 +48823,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Marii Magdaleny",
-                  "text": "Kościół świętej Marii Magdaleny este o biserică notabilă situată în Königshütte.",
+                  "text": "Biserică clasicistă Sfânta Maria Magdalena, construită între 1842 și 1844, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.974082,
@@ -48832,7 +48832,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Wawrzyńca",
-                  "text": "Kościół św. Wawrzyńca este o biserică notabilă situată în Königshütte.",
+                  "text": "Biserică neogotică Sfântul Laurențiu, construită între 1899 și 1901, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.965399,
@@ -48850,7 +48850,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "Kościół pw. Ducha Świętego este un lăcaș de cult notabil situat în Königshütte.",
+                  "text": "Biserică modernistă a Sfântului Duh, construită între 1931 și 1933, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.942085,
@@ -49203,7 +49203,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Jadwigi",
-                  "text": "Kościół świętej Jadwigi is a notable church located in Königshütte.",
+                  "text": "Neo-Gothic church of St. Hedwig of Silesia, built 1872–1874, heritage listed.",
                   "category": "religious",
                   "coords": [
                         18.947488,
@@ -49212,7 +49212,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Miasta Chorzów",
-                  "text": "Urząd Miasta Chorzów is a notable town hall located in Königshütte.",
+                  "text": "Historicist city hall built 1874–1876, heritage listed.",
                   "category": "historical",
                   "coords": [
                         18.952998,
@@ -49230,7 +49230,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół ewangelicki imienia Elżbiety",
-                  "text": "Kościół ewangelicki imienia Elżbiety is a notable church located in Königshütte.",
+                  "text": "Built in 1844, the Lutheran Elizabeth Church in Chorzów is a listed heritage building.",
                   "category": "religious",
                   "coords": [
                         18.953129,
@@ -49239,7 +49239,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny is a notable church located in Königshütte.",
+                  "text": "Neo-Gothic Assumption church built 1896–1898, heritage listed.",
                   "category": "religious",
                   "coords": [
                         18.938428,
@@ -49266,7 +49266,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa is a notable church located in Königshütte.",
+                  "text": "Neo-Gothic Sacred Heart church built 1893–1895, heritage listed.",
                   "category": "religious",
                   "coords": [
                         18.952223,
@@ -49284,7 +49284,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół świętej Marii Magdaleny",
-                  "text": "Kościół świętej Marii Magdaleny is a notable church located in Königshütte.",
+                  "text": "Classicist church of St. Mary Magdalene built 1842–1844, heritage listed.",
                   "category": "religious",
                   "coords": [
                         18.974082,
@@ -49293,7 +49293,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Wawrzyńca",
-                  "text": "Kościół św. Wawrzyńca is a notable church located in Königshütte.",
+                  "text": "Neo-Gothic church of St. Lawrence built 1899–1901, heritage listed.",
                   "category": "religious",
                   "coords": [
                         18.965399,
@@ -49311,7 +49311,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ducha Świętego",
-                  "text": "Kościół pw. Ducha Świętego is a notable place of worship located in Königshütte.",
+                  "text": "Modernist Holy Spirit church built 1931–1933, heritage listed.",
                   "category": "religious",
                   "coords": [
                         18.942085,
@@ -51059,7 +51059,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "Die Kirche Kościół pw. Świętego Jana ist ein historischer Sakralbau in der Stadt Graudenz.",
+                  "text": "Neugotische Johanneskirche, erbaut 1916–1918.",
                   "category": "religious",
                   "coords": [
                         18.748732,
@@ -51068,7 +51068,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Młyn „Górny”",
-                  "text": "Der Młyn „Górny“ ist eine historische Wassermühle in der Stadt Graudenz.",
+                  "text": "Obermühle aus dem 19. Jahrhundert, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         18.754104,
@@ -51403,7 +51403,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "A Kościół pw. Świętego Jana egy történelmi vallási épület Graudenz városában.",
+                  "text": "Neogótikus Szent János-templom, 1916–1918 között épült.",
                   "category": "religious",
                   "coords": [
                         18.748732,
@@ -51412,7 +51412,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Młyn „Górny”",
-                  "text": "A Młyn „Górny” egy történelmi vízimalom Graudenz városában.",
+                  "text": "19. századi Felső Malom, műemlék.",
                   "category": "landmark",
                   "coords": [
                         18.754104,
@@ -51747,7 +51747,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "Biserica Kościół pw. Świętego Jana este un edificiu sacru istoric din orașul Graudenz.",
+                  "text": "Biserică neogotică Sfântul Ioan, construită între 1916 și 1918.",
                   "category": "religious",
                   "coords": [
                         18.748732,
@@ -51756,7 +51756,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Młyn „Górny”",
-                  "text": "Młyn „Górny” este o moară de apă istorică din orașul Graudenz.",
+                  "text": "Moara de Sus din secolul XIX, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         18.754104,
@@ -52091,7 +52091,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "The church Kościół pw. Świętego Jana is a historical religious building in the city of Graudenz.",
+                  "text": "Neo-Gothic church of St. John built 1916–1918.",
                   "category": "religious",
                   "coords": [
                         18.748732,
@@ -52100,7 +52100,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Młyn „Górny”",
-                  "text": "Młyn „Górny” is a historical watermill located in the city of Graudenz.",
+                  "text": "19th-century Upper Mill building, heritage listed.",
                   "category": "landmark",
                   "coords": [
                         18.754104,
@@ -53403,7 +53403,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny ist ein bedeutender Kultort in Stolp.",
+                  "text": "Moderne Josephskirche, erbaut 1992–2001.",
                   "category": "religious",
                   "coords": [
                         16.988639,
@@ -53412,7 +53412,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maksymiliana Kolbego",
-                  "text": "Kościół pw. Świętego Maksymiliana Kolbego ist ein bedeutender Kultort in Stolp.",
+                  "text": "Maximilian-Kolbe-Kirche, erbaut 1985.",
                   "category": "religious",
                   "coords": [
                         16.997204,
@@ -53421,7 +53421,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Jezusowego",
-                  "text": "Kościół pw. Najświętszego Serca Jezusowego ist ein bedeutender Kultort in Stolp.",
+                  "text": "Neugotische Herz-Jesu-Kirche, erbaut 1865.",
                   "category": "religious",
                   "coords": [
                         17.040425,
@@ -53439,7 +53439,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Ottona",
-                  "text": "Kościół pw. Świętego Ottona ist ein bedeutender Kultort in Stolp.",
+                  "text": "Die 1873 erbaute St.-Otton-Kirche in Słupsk ist ein geschütztes Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         17.037692,
@@ -53684,7 +53684,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny",
-                  "text": "A Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny egy jelentős istentiszteleti hely Stolp városában.",
+                  "text": "Modern Szent József-templom, 1992–2001 között épült.",
                   "category": "religious",
                   "coords": [
                         16.988639,
@@ -53693,7 +53693,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maksymiliana Kolbego",
-                  "text": "A Kościół pw. Świętego Maksymiliana Kolbego egy jelentős istentiszteleti hely Stolp városában.",
+                  "text": "Szent Maximilian Kolbe-templom, 1985-ben épült.",
                   "category": "religious",
                   "coords": [
                         16.997204,
@@ -53702,7 +53702,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Jezusowego",
-                  "text": "A Kościół pw. Najświętszego Serca Jezusowego egy jelentős istentiszteleti hely Stolp városában.",
+                  "text": "Neogótikus Jézus Szíve-templom, 1865-ben épült.",
                   "category": "religious",
                   "coords": [
                         17.040425,
@@ -53720,7 +53720,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Ottona",
-                  "text": "A Kościół pw. Świętego Ottona egy jelentős istentiszteleti hely Stolp városában.",
+                  "text": "A Słupsk-i Szent Ottó templom 1873-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         17.037692,
@@ -53965,7 +53965,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny este un lăcaș de cult notabil situat în Stolp.",
+                  "text": "Biserică modernă Sfântul Iosif, construită între 1992 și 2001.",
                   "category": "religious",
                   "coords": [
                         16.988639,
@@ -53974,7 +53974,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maksymiliana Kolbego",
-                  "text": "Kościół pw. Świętego Maksymiliana Kolbego este un lăcaș de cult notabil situat în Stolp.",
+                  "text": "Biserica Sfântul Maximilian Kolbe, construită în 1985.",
                   "category": "religious",
                   "coords": [
                         16.997204,
@@ -53983,7 +53983,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Jezusowego",
-                  "text": "Kościół pw. Najświętszego Serca Jezusowego este un lăcaș de cult notabil situat în Stolp.",
+                  "text": "Biserică neogotică a Inimii Sacre, construită în 1865.",
                   "category": "religious",
                   "coords": [
                         17.040425,
@@ -54001,7 +54001,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Ottona",
-                  "text": "Kościół pw. Świętego Ottona este un lăcaș de cult notabil situat în Stolp.",
+                  "text": "Biserica „Sfântul Otto” din Słupsk, construită în 1873, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         17.037692,
@@ -54246,7 +54246,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny",
-                  "text": "Kościół pw. Świętego Józefa Oblubieńca Najświętszej Maryi Panny is a notable place of worship located in Stolp.",
+                  "text": "Modern sanctuary of St. Joseph built between 1992 and 2001.",
                   "category": "religious",
                   "coords": [
                         16.988639,
@@ -54255,7 +54255,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Maksymiliana Kolbego",
-                  "text": "Kościół pw. Świętego Maksymiliana Kolbego is a notable place of worship located in Stolp.",
+                  "text": "Church of St. Maximilian Kolbe built in 1985.",
                   "category": "religious",
                   "coords": [
                         16.997204,
@@ -54264,7 +54264,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Jezusowego",
-                  "text": "Kościół pw. Najświętszego Serca Jezusowego is a notable place of worship located in Stolp.",
+                  "text": "Neo-Gothic Sacred Heart church built in 1865.",
                   "category": "religious",
                   "coords": [
                         17.040425,
@@ -54282,7 +54282,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Ottona",
-                  "text": "Kościół pw. Świętego Ottona is a notable place of worship located in Stolp.",
+                  "text": "Built in 1873, the Church of St. Otto in Słupsk is a protected heritage monument.",
                   "category": "religious",
                   "coords": [
                         17.037692,
@@ -54829,7 +54829,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Kowalska",
-                  "text": "Kowalska-Turm in Neu Sandez.",
+                  "text": "Gotischer Turm des Königsschlosses in Nowy Sącz, Kulturdenkmal.",
                   "category": "castle",
                   "coords": [
                         20.68961,
@@ -54964,7 +54964,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
-                  "text": "Eine historische Basilika in Neu Sandez.",
+                  "text": "Gotische Stiftsbasilika St. Margareta aus dem 14.–15. Jahrhundert, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         20.693355,
@@ -54991,7 +54991,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
-                  "text": "Ein historisches Gebäude in Neu Sandez.",
+                  "text": "Neugotische Evangelische Verklärungskirche, erbaut 1905–1907, Kulturdenkmal.",
                   "category": "landmark",
                   "coords": [
                         20.688843,
@@ -55137,7 +55137,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Kowalska",
-                  "text": "Kowalska-torony Neu Sandezben.",
+                  "text": "Gótikus torony a Nowy Sącz-i Királyi Várban, műemlék.",
                   "category": "castle",
                   "coords": [
                         20.68961,
@@ -55272,7 +55272,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
-                  "text": "Történelmi bazilika Neu Sandezben.",
+                  "text": "Gótikus Szent Margit-társaskáptalani bazilika a 14–15. századból, műemlék.",
                   "category": "religious",
                   "coords": [
                         20.693355,
@@ -55299,7 +55299,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
-                  "text": "Történelmi épület Neu Sandezben.",
+                  "text": "Neogótikus evangélikus Színeváltozás-templom, 1905–1907 között épült, műemlék.",
                   "category": "landmark",
                   "coords": [
                         20.688843,
@@ -55445,7 +55445,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Kowalska",
-                  "text": "Turnul Kowalska din Neu Sandez.",
+                  "text": "Turn gotic al Castelului Regal din Nowy Sącz, monument istoric.",
                   "category": "castle",
                   "coords": [
                         20.68961,
@@ -55580,7 +55580,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
-                  "text": "O bazilică istorică în Neu Sandez.",
+                  "text": "Basilică collegială gotică Sfânta Margareta din secolele XIV–XV, monument istoric.",
                   "category": "religious",
                   "coords": [
                         20.693355,
@@ -55607,7 +55607,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
-                  "text": "O clădire istorică în Neu Sandez.",
+                  "text": "Biserică evanghelică neogotică a Schimbării la Față, construită între 1905 și 1907, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         20.688843,
@@ -55753,7 +55753,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Kowalska",
-                  "text": "Kowalska Tower in Neu Sandez.",
+                  "text": "Gothic tower of the Royal Castle in Nowy Sącz, heritage listed.",
                   "category": "castle",
                   "coords": [
                         20.68961,
@@ -55888,7 +55888,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
-                  "text": "A historic basilica in Neu Sandez.",
+                  "text": "Gothic collegiate basilica of St. Margaret from the 14th–15th century, heritage listed.",
                   "category": "religious",
                   "coords": [
                         20.693355,
@@ -55915,7 +55915,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
-                  "text": "A historic building in Neu Sandez.",
+                  "text": "Neo-Gothic Evangelical Church of the Transfiguration built 1905–1907, heritage listed.",
                   "category": "landmark",
                   "coords": [
                         20.688843,
@@ -56489,7 +56489,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Św. Jana Chrzciciela",
-                  "text": "Die Kirche Kościół pw. Św. Jana Chrzciciela ist ein bedeutendes religiöses Gebäude in der Gegend von Myslowitz.",
+                  "text": "Neugotische Johanneskirche, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         19.157343,
@@ -56507,7 +56507,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża w Mysłowicach",
-                  "text": "Die Kirche Kościół pw. Świętego Krzyża ist ein historisches Gotteshaus in Myslowitz.",
+                  "text": "Neugotische Heilig-Kreuz-Kirche, erbaut 1874–1875, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         19.13318,
@@ -56743,7 +56743,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Św. Jana Chrzciciela",
-                  "text": "A Kościół pw. Św. Jana Chrzciciela egy jelentős vallási épület Myslowitz környékén.",
+                  "text": "Neogótikus Keresztelő Szent János-templom, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.157343,
@@ -56761,7 +56761,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża w Mysłowicach",
-                  "text": "A Kościół pw. Świętego Krzyża egy történelmi istentiszteleti hely Myslowitz városában.",
+                  "text": "Neogótikus Szent Kereszt-templom, 1874–1875 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.13318,
@@ -56997,7 +56997,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Św. Jana Chrzciciela",
-                  "text": "Biserica Kościół pw. Św. Jana Chrzciciela este un important edificiu religios din zona Myslowitz.",
+                  "text": "Biserică neogotică Sfântul Ioan Botezătorul, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.157343,
@@ -57015,7 +57015,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża w Mysłowicach",
-                  "text": "Biserica Kościół pw. Świętego Krzyża este un lăcaș de cult istoric din Myslowitz.",
+                  "text": "Biserică neogotică a Sfintei Cruci, construită între 1874 și 1875, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.13318,
@@ -57251,7 +57251,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Św. Jana Chrzciciela",
-                  "text": "The church Kościół pw. Św. Jana Chrzciciela is a significant religious building in the Myslowitz area.",
+                  "text": "Neo-Gothic church of St. John the Baptist, heritage listed.",
                   "category": "religious",
                   "coords": [
                         19.157343,
@@ -57269,7 +57269,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża w Mysłowicach",
-                  "text": "The church Kościół pw. Świętego Krzyża is a historical place of worship in Myslowitz.",
+                  "text": "Neo-Gothic Holy Cross church built 1874–1875, heritage listed.",
                   "category": "religious",
                   "coords": [
                         19.13318,
@@ -57427,7 +57427,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego",
-                  "text": "Ein historischer Herrensitz in Konin.",
+                  "text": "Herrenhaus aus dem 19. Jahrhundert der Schriftstellerin Zofia Urbanowska, heute Standesamt, denkmalgeschützt.",
                   "category": "historical",
                   "coords": [
                         18.251937,
@@ -57546,7 +57546,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego",
-                  "text": "Történelmi udvarház Koninban.",
+                  "text": "19. századi kúria Zofia Urbanowska írónő otthona, ma anyakönyvi hivatal, műemlék.",
                   "category": "historical",
                   "coords": [
                         18.251937,
@@ -57665,7 +57665,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego",
-                  "text": "Un conac istoric în Konin.",
+                  "text": "Conac din secolul XIX al scriitoarei Zofia Urbanowska, acum oficiu de stare civilă, monument istoric.",
                   "category": "historical",
                   "coords": [
                         18.251937,
@@ -57784,7 +57784,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Urząd Stanu Cywilnego",
-                  "text": "A historic manor in Konin.",
+                  "text": "19th-century manor of writer Zofia Urbanowska, now a civil registry office, heritage listed.",
                   "category": "historical",
                   "coords": [
                         18.251937,
@@ -59638,7 +59638,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
-                  "text": "Eine historische Kirche in Inowrocław (Hohensalza).",
+                  "text": "Neugotische Marien-Namens-Kirche, erbaut 1908–1910, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         18.263688,
@@ -59656,7 +59656,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "Eine historische Kirche in Inowrocław (Hohensalza).",
+                  "text": "Die 1952 erbaute St.-Josephs-Kirche in Inowrocław ist ein Nachkriegsbau, Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         18.244151,
@@ -59838,7 +59838,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
-                  "text": "Történelmi templom Inowrocławban (Hohensalza).",
+                  "text": "Neogótikus Mária Neve-templom, 1908–1910 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.263688,
@@ -59856,7 +59856,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "Történelmi templom Inowrocławban (Hohensalza).",
+                  "text": "Az Inowrocław-i Szent József templom 1952-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         18.244151,
@@ -60038,7 +60038,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
-                  "text": "O biserică istorică în Inowrocław (Hohensalza).",
+                  "text": "Biserică neogotică a Numelui Sfintei Fecioare Maria, construită între 1908 și 1910, monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.263688,
@@ -60056,7 +60056,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "O biserică istorică în Inowrocław (Hohensalza).",
+                  "text": "Biserica „Sfântul Iosif” din Inowrocław, construită în 1952, este monument istoric.",
                   "category": "religious",
                   "coords": [
                         18.244151,
@@ -60238,7 +60238,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
-                  "text": "A historic church in Inowrocław (Hohensalza).",
+                  "text": "Neo-Gothic church of the Name of Mary, built 1908–1910, heritage listed.",
                   "category": "religious",
                   "coords": [
                         18.263688,
@@ -60256,7 +60256,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa",
-                  "text": "A historic church in Inowrocław (Hohensalza).",
+                  "text": "Built in 1952, the Church of St. Joseph in Inowrocław is a listed postwar heritage building.",
                   "category": "religious",
                   "coords": [
                         18.244151,
@@ -62119,7 +62119,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Aleksandra",
-                  "text": "Die St.-Alexander-Konkathedrale ist eine bedeutende Kirche in Suwałki.",
+                  "text": "Klassizistische Alexanderkirche, erbaut 1820–1825, Konkathedrale, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         22.926887,
@@ -62128,7 +62128,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kirche des Heiligsten Herzens Jesu in Suwałki.",
+                  "text": "Die 1838–1840 erbaute Herz-Jesu-Kirche in Suwałki ist ein klassizistisches Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         22.927216,
@@ -62283,7 +62283,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Aleksandra",
-                  "text": "A Szent Sándor-társszékesegyház fontos templom Suwałkiben.",
+                  "text": "Klasszicista Sándor-templom, 1820–1825 között épült, társszékesegyház, műemlék.",
                   "category": "religious",
                   "coords": [
                         22.926887,
@@ -62292,7 +62292,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Jézus Legszentebb Szíve templom Suwałkiben.",
+                  "text": "A Suwałki-i Jézus Szíve templom 1838–1840 között épült klasszicista stílusú műemlék.",
                   "category": "religious",
                   "coords": [
                         22.927216,
@@ -62447,7 +62447,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Aleksandra",
-                  "text": "Cocatedrala Sf. Alexandru este o biserică importantă din Suwałki.",
+                  "text": "Biserică clasicistă Sfântul Alexandru, construită între 1820 și 1825, concatedrală, monument istoric.",
                   "category": "religious",
                   "coords": [
                         22.926887,
@@ -62456,7 +62456,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Biserica Preasfintei Inimi a lui Isus din Suwałki.",
+                  "text": "Biserica „Inima lui Isus” din Suwałki, construită între 1838 și 1840 în stil clasicist, monument istoric.",
                   "category": "religious",
                   "coords": [
                         22.927216,
@@ -62611,7 +62611,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Aleksandra",
-                  "text": "The St. Alexander Co-cathedral is an important church in Suwałki.",
+                  "text": "Classicist co-cathedral of St. Alexander built 1820–1825, heritage listed.",
                   "category": "religious",
                   "coords": [
                         22.926887,
@@ -62620,7 +62620,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Church of the Most Sacred Heart of Jesus in Suwałki.",
+                  "text": "Built 1838–1840, the Sacred Heart of Jesus Church in Suwałki is a Neoclassical heritage building.",
                   "category": "religious",
                   "coords": [
                         22.927216,
@@ -62877,7 +62877,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Jeńców",
-                  "text": "Baszta Jeńców ist ein historischer Turm in Stargard in Pommern.",
+                  "text": "Mittelalterlicher Wehrturm aus dem 14. Jahrhundert, Teil der Stadtmauer von Stargard, Kulturdenkmal.",
                   "category": "tower",
                   "coords": [
                         15.047914,
@@ -62895,7 +62895,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Heilig-Geist-Kirche",
-                  "text": "Kościół pw. Świętego Ducha ist eine bekannte Kirche in Stargard in Pommern.",
+                  "text": "Gotische Heilig-Geist-Kirche aus dem 15. Jahrhundert, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         15.039987,
@@ -62904,7 +62904,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cerkiew Świętych Apostołów Piotra i Pawła",
-                  "text": "Cerkiew Świętych Apostołów Piotra i Pawła ist eine bemerkenswerte Kultstätte in Stargard in Pommern.",
+                  "text": "Die 1880 erbaute orthodoxe Peter-und-Paul-Kirche in Stargard steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         15.038715,
@@ -62940,7 +62940,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "Kościół pw. Świętego Jana ist eine historische Kirche in Stargard in Pommern.",
+                  "text": "Die spätgotische Johanniskirche in Stargard aus dem späten 13. Jahrhundert ist ein Backsteinbau, Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         15.041196,
@@ -63140,7 +63140,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Jeńców",
-                  "text": "A Baszta Jeńców egy történelmi torony Stargard in Pommern városában.",
+                  "text": "14. századi középkori védőtorony, Stargard városfalának része, műemlék.",
                   "category": "tower",
                   "coords": [
                         15.047914,
@@ -63158,7 +63158,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Ducha",
-                  "text": "A Kościół pw. Świętego Ducha egy jelentős templom Stargard in Pommern városában.",
+                  "text": "Gótikus Szentlélek-templom a 15. századból, műemlék.",
                   "category": "religious",
                   "coords": [
                         15.039987,
@@ -63167,7 +63167,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cerkiew Świętych Apostołów Piotra i Pawła",
-                  "text": "A Cerkiew Świętych Apostołów Piotra i Pawła egy nevezetes istentiszteleti hely Stargard in Pommern városában.",
+                  "text": "A Stargard-i Szent Péter és Pál ortodox templom 1880-ban épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         15.038715,
@@ -63203,7 +63203,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "A Kościół pw. Świętego Jana egy történelmi templom Stargard in Pommern városában.",
+                  "text": "A Stargard-i Szent János templom a 13. század végén épült késő gótikus téglatemplom, műemlék.",
                   "category": "religious",
                   "coords": [
                         15.041196,
@@ -63403,7 +63403,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Jeńców",
-                  "text": "Baszta Jeńców este un turn istoric situat în Stargard in Pommern.",
+                  "text": "Turn medieval de apărare din secolul XIV, parte a zidurilor orașului Stargard, monument istoric.",
                   "category": "tower",
                   "coords": [
                         15.047914,
@@ -63421,7 +63421,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Ducha",
-                  "text": "Kościół pw. Świętego Ducha este o biserică proeminentă situată în Stargard in Pommern.",
+                  "text": "Biserică gotică a Sfântului Duh din secolul XV, monument istoric.",
                   "category": "religious",
                   "coords": [
                         15.039987,
@@ -63430,7 +63430,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cerkiew Świętych Apostołów Piotra i Pawła",
-                  "text": "Cerkiew Świętych Apostołów Piotra i Pawła este un lăcaș de cult notabil din Stargard in Pommern.",
+                  "text": "Biserica ortodoxă „Sfinții Apostoli Petru și Pavel” din Stargard, construită în 1880, monument istoric.",
                   "category": "religious",
                   "coords": [
                         15.038715,
@@ -63466,7 +63466,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "Kościół pw. Świętego Jana este o biserică istorică situată în Stargard in Pommern.",
+                  "text": "Biserica „Sfântul Ioan” din Stargard, biserică gotică târzie de cărămidă de la sfârșitul secolului al XIII-lea, monument istoric.",
                   "category": "religious",
                   "coords": [
                         15.041196,
@@ -63666,7 +63666,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta Jeńców",
-                  "text": "Baszta Jeńców is a historic tower situated in Stargard in Pommern.",
+                  "text": "Medieval defensive tower from the 14th century, part of Stargard's city walls, heritage listed.",
                   "category": "tower",
                   "coords": [
                         15.047914,
@@ -63684,7 +63684,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Ducha",
-                  "text": "Kościół pw. Świętego Ducha is a prominent church located in Stargard in Pommern.",
+                  "text": "Gothic church of the Holy Spirit from the 15th century, heritage listed.",
                   "category": "religious",
                   "coords": [
                         15.039987,
@@ -63693,7 +63693,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Cerkiew Świętych Apostołów Piotra i Pawła",
-                  "text": "Cerkiew Świętych Apostołów Piotra i Pawła is a notable place of worship in Stargard in Pommern.",
+                  "text": "Built in 1880, the Orthodox Church of Saints Peter and Paul in Stargard is a heritage monument.",
                   "category": "religious",
                   "coords": [
                         15.038715,
@@ -63729,7 +63729,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana",
-                  "text": "Kościół pw. Świętego Jana is a historic church situated in Stargard in Pommern.",
+                  "text": "St. John's Church in Stargard is a late Gothic brick church from the late 13th century, a protected monument.",
                   "category": "religious",
                   "coords": [
                         15.041196,
@@ -64593,7 +64593,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Robotnika",
-                  "text": "Kościół pw. Świętego Józefa Robotnika ist eine bekannte katholische Kirche in Laurahütte.",
+                  "text": "Die 1939 geweihte St.-Joseph-der-Arbeiter-Kirche in Siemianowice Śląskie ist ein Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         19.013655,
@@ -64620,7 +64620,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "Kościół Ewangelicko-Augsburski ist eine evangelische Kirche in Laurahütte.",
+                  "text": "Neugotische Evangelische Kirche, erbaut 1895, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         19.028214,
@@ -64955,7 +64955,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Robotnika",
-                  "text": "A Kościół pw. Świętego Józefa Robotnika egy ismert katolikus templom Laurahütte városában.",
+                  "text": "A Siemianowice Śląskie-i Szent József, a Munkás templomot 1939-ben szentelték fel, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.013655,
@@ -64982,7 +64982,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "A Kościół Ewangelicko-Augsburski egy protestáns templom Laurahütte városában.",
+                  "text": "Neogótikus evangélikus templom, 1895-ben épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.028214,
@@ -65317,7 +65317,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Robotnika",
-                  "text": "Kościół pw. Świętego Józefa Robotnika este o cunoscută biserică catolică din Laurahütte.",
+                  "text": "Biserica „Sfântul Iosif Muncitorul” din Siemianowice Śląskie, sfințită în 1939, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.013655,
@@ -65344,7 +65344,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "Kościół Ewangelicko-Augsburski este o biserică protestantă situată în Laurahütte.",
+                  "text": "Biserică evanghelică neogotică construită în 1895, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.028214,
@@ -65679,7 +65679,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Józefa Robotnika",
-                  "text": "Kościół pw. Świętego Józefa Robotnika is a known Catholic church in Laurahütte.",
+                  "text": "Consecrated in 1939, the Church of St. Joseph the Worker in Siemianowice Śląskie is a heritage building.",
                   "category": "religious",
                   "coords": [
                         19.013655,
@@ -65706,7 +65706,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół Ewangelicko-Augsburski",
-                  "text": "Kościół Ewangelicko-Augsburski is a Protestant church located in Laurahütte.",
+                  "text": "Neo-Gothic Evangelical church built in 1895, heritage listed.",
                   "category": "religious",
                   "coords": [
                         19.028214,
@@ -66053,7 +66053,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kolegiata Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Die Stiftskirche Mariä Himmelfahrt ist ein wichtiges historisches und religiöses Denkmal in Glogau.",
+                  "text": "Gotische Stiftskirche Mariä Himmelfahrt aus dem 15.–16. Jahrhundert, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         16.093784,
@@ -66334,7 +66334,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kolegiata Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "A Boldogságos Szűz Mária Mennybemenetele társaskáptalani templom egy fontos történelmi és vallási műemlék Glogau városában.",
+                  "text": "Gótikus Nagyboldogasszony-társaskáptalani templom a 15–16. századból, műemlék.",
                   "category": "religious",
                   "coords": [
                         16.093784,
@@ -66615,7 +66615,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kolegiata Wniebowzięcia Najświętszej Maryi Panny",
-                  "text": "Biserica Colegială Adormirea Maicii Domnului este un monument istoric și religios important din Glogau.",
+                  "text": "Biserică collegială gotică a Adormirii Maicii Domnului din secolele XV–XVI, monument istoric.",
                   "category": "religious",
                   "coords": [
                         16.093784,
@@ -66896,7 +66896,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Assumption of Blessed Virgin Mary collegiate church",
-                  "text": "The Assumption of the Blessed Virgin Mary Collegiate Church is an important historical and religious monument in Glogau.",
+                  "text": "Gothic collegiate church of the Assumption from the 15th–16th century, heritage listed.",
                   "category": "religious",
                   "coords": [
                         16.093784,
@@ -67162,7 +67162,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Piotra i Pawła",
-                  "text": "Kirche der Heiligen Petrus und Paulus in Pabianice.",
+                  "text": "Neugotische Peter-und-Paul-Kirche, erbaut 1904–1906, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         19.355397,
@@ -67389,7 +67389,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Piotra i Pawła",
-                  "text": "Szent Péter és Pál temploma Pabianicében.",
+                  "text": "Neogótikus Szent Péter és Pál-templom, 1904–1906 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         19.355397,
@@ -67616,7 +67616,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Piotra i Pawła",
-                  "text": "Biserica Sfinților Petru și Pavel din Pabianice.",
+                  "text": "Biserică neogotică Sfinții Petru și Pavel, construită între 1904 și 1906, monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.355397,
@@ -67843,7 +67843,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Piotra i Pawła",
-                  "text": "Church of Saints Peter and Paul in Pabianice.",
+                  "text": "Neo-Gothic church of Sts. Peter and Paul built 1904–1906, heritage listed.",
                   "category": "religious",
                   "coords": [
                         19.355397,
@@ -68001,7 +68001,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Zamoyskich",
-                  "text": "Zamoyski Palace ist eine historische Adelsresidenz und ein Schloss in Zamosch.",
+                  "text": "Renaissancepalast der Familie Zamoyski aus dem 16. Jahrhundert, Kulturdenkmal.",
                   "category": "castle",
                   "coords": [
                         23.248787,
@@ -68010,7 +68010,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stara Brama Lubelska",
-                  "text": "The Old Lublin Gate ist ein historisches befestigtes Stadttor in Zamosch.",
+                  "text": "Renaissance-Tor aus den 1580er Jahren, Teil der Festung Zamość, Kulturdenkmal.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -68019,7 +68019,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotunda - Muzeum Martyrologii Zamojszczyzny ist ein ergreifendes Gedenkmuseum in Zamosch.",
+                  "text": "Rotunde aus dem 19. Jahrhundert, Ort von NS-Hinrichtungen, heute Gedenkstätte, Kulturdenkmal.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -68028,7 +68028,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
-                  "text": "Orkiestra Symfoniczna im. Karola Namysłowskiego ist ein aktives Symphonie- und Kunstzentrum in Zamosch.",
+                  "text": "Sinfonieorchester, gegründet 1881, benannt nach dem Komponisten Karol Namysłowski.",
                   "category": "cultural",
                   "coords": [
                         23.25554,
@@ -68037,7 +68037,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Mikołaja",
-                  "text": "Die St.-Nikolaus-Kirche ist eine historische Kirche in der Stadt Zamosch.",
+                  "text": "Renaissance-Nikolauskirche, erbaut 1618–1630, Kulturdenkmal.",
                   "category": "religious",
                   "coords": [
                         23.253909,
@@ -68082,7 +68082,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dawny kościół i klasztor Klarysek",
-                  "text": "Das Kloster und die Kirche der Klarissen sind ein historischer religiöser Komplex in Zamosch.",
+                  "text": "Barockes ehemaliges Klarissenkloster und -kirche, denkmalgeschützt im historischen Zentrum von Zamość.",
                   "category": "landmark",
                   "coords": [
                         23.252393,
@@ -68354,7 +68354,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Zamoyskich",
-                  "text": "A Zamoyski Palace egy történelmi nemesi rezidencia és kastély Zamosch városában.",
+                  "text": "Reneszánsz palota a Zamoyski családtól a 16. századból, műemlék.",
                   "category": "castle",
                   "coords": [
                         23.248787,
@@ -68363,7 +68363,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stara Brama Lubelska",
-                  "text": "A The Old Lublin Gate egy történelmi erődített városkapu Zamosch városában.",
+                  "text": "Reneszánsz kapu az 1580-as évekből, a zamosci erőd része, műemlék.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -68372,7 +68372,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "A Rotunda - Muzeum Martyrologii Zamojszczyzny egy megrendítő emlékmúzeum Zamosch városában.",
+                  "text": "19. századi rotunda, náci kivégzések helyszíne, ma vértanúsági múzeum, műemlék.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -68381,7 +68381,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
-                  "text": "Az Orkiestra Symfoniczna im. Karola Namysłowskiego egy aktív szimfonikus és művészeti központ Zamosch városában.",
+                  "text": "Szimfonikus zenekar, alapítva 1881-ben, névadója Karol Namysłowski zeneszerző.",
                   "category": "cultural",
                   "coords": [
                         23.25554,
@@ -68390,7 +68390,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Mikołaja",
-                  "text": "A Szent Miklós-templom egy történelmi templom Zamosch városában.",
+                  "text": "Reneszánsz Szent Miklós-templom, 1618–1630 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         23.253909,
@@ -68435,7 +68435,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dawny kościół i klasztor Klarysek",
-                  "text": "A klarissza nővérek kolostora és temploma egy történelmi vallási épületegyüttes Zamoschban.",
+                  "text": "Barokk klarissza kolostor és templom, műemlék Zamość történelmi központjában.",
                   "category": "landmark",
                   "coords": [
                         23.252393,
@@ -68707,7 +68707,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Zamoyskich",
-                  "text": "Zamoyski Palace este o reședință nobiliară istorică și un castel situat în Zamosch.",
+                  "text": "Palat renascentist al familiei Zamoyski din secolul XVI, monument istoric.",
                   "category": "castle",
                   "coords": [
                         23.248787,
@@ -68716,7 +68716,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stara Brama Lubelska",
-                  "text": "The Old Lublin Gate este o structură istorică de poartă fortificată a orașului din Zamosch.",
+                  "text": "Poartă renascentistă din anii 1580, parte a fortăreței Zamość, monument istoric.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -68725,7 +68725,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotunda - Muzeum Martyrologii Zamojszczyzny este un muzeu memorial emoționant din Zamosch.",
+                  "text": "Rotondă din secolul XIX, loc al execuțiilor naziste, acum muzeu al martiriului, monument istoric.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -68734,7 +68734,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
-                  "text": "Orkiestra Symfoniczna im. Karola Namysłowskiego este o simfonie activă și un centru de arte în Zamosch.",
+                  "text": "Orchestră simfonică fondată în 1881, numită după compozitorul Karol Namysłowski.",
                   "category": "cultural",
                   "coords": [
                         23.25554,
@@ -68743,7 +68743,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Mikołaja",
-                  "text": "Biserica Sfântul Nicolae este o biserică istorică din orașul Zamosch.",
+                  "text": "Biserică renascentistă Sfântul Nicolae, construită între 1618 și 1630, monument istoric.",
                   "category": "religious",
                   "coords": [
                         23.253909,
@@ -68788,7 +68788,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dawny kościół i klasztor Klarysek",
-                  "text": "Mănăstirea și biserica surorilor Sfânta Clara formează un complex religios istoric în Zamosch.",
+                  "text": "Fosta mănăstire și biserică barocă a Ordinului Sfintei Clara, monument protejat în centrul istoric al orașului Zamość.",
                   "category": "landmark",
                   "coords": [
                         23.252393,
@@ -69060,7 +69060,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamoyski Palace",
-                  "text": "Zamoyski Palace is a historic noble residence and castle located in Zamosch.",
+                  "text": "Renaissance palace of the Zamoyski family from the 16th century, heritage listed.",
                   "category": "castle",
                   "coords": [
                         23.248787,
@@ -69069,7 +69069,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "The Old Lublin Gate",
-                  "text": "The Old Lublin Gate is a historic fortified city gate structure in Zamosch.",
+                  "text": "Renaissance gate from the 1580s, part of the Zamość fortress, heritage listed.",
                   "category": "castle",
                   "coords": [
                         23.250234,
@@ -69078,7 +69078,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotunda - Muzeum Martyrologii Zamojszczyzny is a poignant memorial museum in Zamosch.",
+                  "text": "19th-century rotunda, site of Nazi executions, now a martyrdom museum, heritage listed.",
                   "category": "museum",
                   "coords": [
                         23.247223,
@@ -69087,7 +69087,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
-                  "text": "Orkiestra Symfoniczna im. Karola Namysłowskiego is an active symphony and arts centre in Zamosch.",
+                  "text": "Symphony orchestra founded in 1881, named after composer Karol Namysłowski.",
                   "category": "cultural",
                   "coords": [
                         23.25554,
@@ -69096,7 +69096,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Saint Nicolas",
-                  "text": "The Church of Saint Nicolas is a historic church located in the city of Zamosch.",
+                  "text": "Renaissance church of St. Nicholas built 1618–1630, heritage listed.",
                   "category": "religious",
                   "coords": [
                         23.253909,
@@ -69141,7 +69141,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Clare Sisters’ convent and church",
-                  "text": "The Saint Clare Sisters’ convent and church is a historic religious complex in Zamosch.",
+                  "text": "Baroque former convent and church of the Order of Saint Clare, a listed heritage site in Zamość's historic centre.",
                   "category": "landmark",
                   "coords": [
                         23.252393,
@@ -69506,7 +69506,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary cmentarz",
-                  "text": "Der Stary cmentarz ist ein historischer Friedhof und eine Sehenswürdigkeit in Lomscha.",
+                  "text": "Der 1801 angelegte alte Friedhof in Łomża ist ein historischer Friedhof, Baudenkmal.",
                   "category": "landmark",
                   "coords": [
                         22.07488,
@@ -69596,7 +69596,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica pomocnicza",
-                  "text": "Die Kaplica pomocnicza ist eine kleine Hilfskapelle in Lomscha.",
+                  "text": "Hilfskapelle aus der Wende vom 19. zum 20. Jahrhundert, denkmalgeschützt in Łomża.",
                   "category": "religious",
                   "coords": [
                         22.073411,
@@ -69695,7 +69695,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica cmentarna",
-                  "text": "Die Kaplica cmentarna ist eine Friedhofskapelle in Lomscha.",
+                  "text": "Friedhofskapelle von 1838, denkmalgeschützt in Łomża.",
                   "category": "religious",
                   "coords": [
                         22.075981,
@@ -69796,7 +69796,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary cmentarz",
-                  "text": "A Stary cmentarz egy történelmi temető és látványosság Łomża városában.",
+                  "text": "A Łomża-i régi temetőt 1801-ben alapították, műemlék.",
                   "category": "landmark",
                   "coords": [
                         22.07488,
@@ -69886,7 +69886,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica pomocnicza",
-                  "text": "A Kaplica pomocnicza egy kisegítő kápolna Łomża városában.",
+                  "text": "Segédkápolna a 19–20. század fordulójáról, műemlék Łomżában.",
                   "category": "religious",
                   "coords": [
                         22.073411,
@@ -69985,7 +69985,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica cmentarna",
-                  "text": "A Kaplica cmentarna egy temetőkápolna Łomża városában.",
+                  "text": "Temetőkápolna 1838-ból, műemlék Łomżában.",
                   "category": "religious",
                   "coords": [
                         22.075981,
@@ -70086,7 +70086,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary cmentarz",
-                  "text": "Stary cmentarz este un cimitir istoric și o atracție în Lomscha.",
+                  "text": "Cimitirul vechi din Łomża, înființat în 1801, este monument istoric.",
                   "category": "landmark",
                   "coords": [
                         22.07488,
@@ -70176,7 +70176,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica pomocnicza",
-                  "text": "Kaplica pomocnicza este o capelă auxiliară în Lomscha.",
+                  "text": "Capelă auxiliară de la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, monument protejat în Łomża.",
                   "category": "religious",
                   "coords": [
                         22.073411,
@@ -70275,7 +70275,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica cmentarna",
-                  "text": "Kaplica cmentarna este o capelă de cimitir în Lomscha.",
+                  "text": "Capelă cimitir construită în 1838, monument protejat în Łomża.",
                   "category": "religious",
                   "coords": [
                         22.075981,
@@ -70376,7 +70376,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary cmentarz",
-                  "text": "Stary cmentarz is a historic cemetery and notable attraction in Lomscha.",
+                  "text": "The old cemetery in Łomża, established in 1801, is a heritage-listed historic cemetery.",
                   "category": "landmark",
                   "coords": [
                         22.07488,
@@ -70466,7 +70466,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica pomocnicza",
-                  "text": "The Kaplica pomocnicza is an auxiliary chapel serving worshippers in Lomscha.",
+                  "text": "Auxiliary chapel from the turn of the 19th and 20th centuries, a listed heritage site in Łomża.",
                   "category": "religious",
                   "coords": [
                         22.073411,
@@ -70565,7 +70565,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica cmentarna",
-                  "text": "The Kaplica cmentarna is a cemetery chapel located in Lomscha.",
+                  "text": "Cemetery chapel built in 1838, a listed heritage site in Łomża.",
                   "category": "religious",
                   "coords": [
                         22.075981,
@@ -70651,7 +70651,7 @@ export const polandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pałac biskupów unickich",
-                  "text": "Historischer Palast der unierten Bischöfe in Chełm.",
+                  "text": "Palast der unierten Bischöfe, erbaut 1730 in Chełm.",
                   "category": "castle",
                   "coords": [
                         23.480068,
@@ -70905,7 +70905,7 @@ export const polandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pałac biskupów unickich",
-                  "text": "Az unió püspökeinek történelmi palotája Chełmben.",
+                  "text": "Egyesült püspöki palota, 1730-ban épült Chełmben.",
                   "category": "castle",
                   "coords": [
                         23.480068,
@@ -71159,7 +71159,7 @@ export const polandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pałac biskupów unickich",
-                  "text": "Palatul istoric al episcopilor uniați din Chełm.",
+                  "text": "Palatul episcopilor uniți, construit în 1730 la Chełm.",
                   "category": "castle",
                   "coords": [
                         23.480068,
@@ -71413,7 +71413,7 @@ export const polandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pałac biskupów unickich",
-                  "text": "Historic palace of the Uniate bishops in Chełm.",
+                  "text": "Uniate bishops' palace built in 1730 in Chełm.",
                   "category": "castle",
                   "coords": [
                         23.480068,
@@ -73676,7 +73676,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Jadernówka",
-                  "text": "Jadernówka ist ein Museum in Mielec, das sich der Geschichte der Fotografie widmet.",
+                  "text": "Das 1904 erbaute Fotografiemuseum „Jadernówka” in Mielec ist ein Baudenkmal.",
                   "category": "museum",
                   "coords": [
                         21.428878,
@@ -73685,7 +73685,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dworek Suchorzewskich",
-                  "text": "Der Dworek Suchorzewskich ist ein historisches Herrenhaus in Mielec.",
+                  "text": "Suchorzewski-Herrenhaus von etwa 1830 in Mielec.",
                   "category": "historical",
                   "coords": [
                         21.421307,
@@ -73793,7 +73793,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Marka nad Wisłoką",
-                  "text": "Die Markuskirche an der Wisłoka ist eine historische Hilfskirche in Mielec.",
+                  "text": "Die 1792–1795 erbaute St.-Markus-Kirche am Fluss Wisłoka in Mielec ist ein Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         21.42444,
@@ -73840,7 +73840,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Jadernówka",
-                  "text": "A Jadernówka egy fotótörténeti múzeum Mielec városában.",
+                  "text": "A Mielec-i Jadernówka Fotómúzeum 1904-ben épült, műemlék.",
                   "category": "museum",
                   "coords": [
                         21.428878,
@@ -73849,7 +73849,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dworek Suchorzewskich",
-                  "text": "A Dworek Suchorzewskich egy történelmi udvarház Mielec városában.",
+                  "text": "Suchorzewski-kúria, 1830 körül épült Mielecben.",
                   "category": "historical",
                   "coords": [
                         21.421307,
@@ -73957,7 +73957,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Marka nad Wisłoką",
-                  "text": "A Wisłoka parti Szent Márk-templom egy történelmi kisegítő templom Mielec városában.",
+                  "text": "A Wisłoka folyó mellett fekvő Mielec-i Szent Márk templom 1792–1795 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         21.42444,
@@ -74004,7 +74004,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Jadernówka",
-                  "text": "Jadernówka este un muzeu de istorie a fotografiei din Mielec.",
+                  "text": "Muzeul de fotografie „Jadernówka” din Mielec, construit în 1904, monument istoric.",
                   "category": "museum",
                   "coords": [
                         21.428878,
@@ -74013,7 +74013,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dworek Suchorzewskich",
-                  "text": "Dworek Suchorzewskich este un conac istoric din Mielec.",
+                  "text": "Conacul Suchorzewski, construit în jurul anului 1830 la Mielec.",
                   "category": "historical",
                   "coords": [
                         21.421307,
@@ -74121,7 +74121,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Marka nad Wisłoką",
-                  "text": "Biserica Sfântul Marcu de pe Wisłoka este o biserică auxiliară istorică din Mielec.",
+                  "text": "Biserica „Sfântul Marcu” de pe râul Wisłoka din Mielec, construită între 1792 și 1795, monument istoric.",
                   "category": "religious",
                   "coords": [
                         21.42444,
@@ -74168,7 +74168,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Jadernówka",
-                  "text": "Jadernówka is a history of photography museum located in Mielec.",
+                  "text": "Built in 1904, the Jadernówka Museum of Photography in Mielec is a heritage building.",
                   "category": "museum",
                   "coords": [
                         21.428878,
@@ -74177,7 +74177,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dworek Suchorzewskich",
-                  "text": "Dworek Suchorzewskich is a historic manor house situated in Mielec.",
+                  "text": "Suchorzewski manor house from around 1830 in Mielec.",
                   "category": "historical",
                   "coords": [
                         21.421307,
@@ -74285,7 +74285,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Marka nad Wisłoką",
-                  "text": "The St. Mark Church on the Wisłoka is a historic auxiliary church in Mielec.",
+                  "text": "Built 1792–1795, the Church of St. Mark on the Wisłoka River in Mielec is a heritage building.",
                   "category": "religious",
                   "coords": [
                         21.42444,
@@ -74398,7 +74398,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Heiligkreuzkirche",
-                  "text": "Eine historisch bedeutsame Kirche in Tczew.",
+                  "text": "Historische Pfarrkirche zur Erhöhung des Heiligen Kreuzes, denkmalgeschützt in Tczew.",
                   "category": "landmark",
                   "coords": [
                         18.799823,
@@ -74526,7 +74526,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Podwyższenia Świętego Krzyża",
-                  "text": "Történelmileg jelentős templom Tczewben.",
+                  "text": "A Szent Kereszt felmagasztalásának történelmi plébániatemploma, műemlék Tczewben.",
                   "category": "landmark",
                   "coords": [
                         18.799823,
@@ -74654,7 +74654,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Podwyższenia Świętego Krzyża",
-                  "text": "O biserică importantă din punct de vista istoric în Tczew.",
+                  "text": "Biserica istorică parohială a Înălțării Sfintei Cruci, monument protejat în Tczew.",
                   "category": "landmark",
                   "coords": [
                         18.799823,
@@ -74782,7 +74782,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Podwyższenia Świętego Krzyża",
-                  "text": "A historically significant church in Tczew.",
+                  "text": "Historic parish church of the Exaltation of the Holy Cross, a listed landmark in Tczew.",
                   "category": "landmark",
                   "coords": [
                         18.799823,
@@ -75365,7 +75365,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kathedrale von Schweidnitz St. Stanislaus und St. Wenzel",
-                  "text": "Die Kathedrale St. Stanislaus und Wenzel ist ein beeindruckendes gotisches Wahrzeichen in Schweidnitz.",
+                  "text": "Gotische Kathedrale der Heiligen Stanislaus und Wenzel, denkmalgeschützt in Świdnica.",
                   "category": "religious",
                   "coords": [
                         16.491983,
@@ -75673,7 +75673,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra św. Stanisława i św. Wacława",
-                  "text": "A Szent Szaniszló és Szent Vencel székesegyház egy lenyűgöző gótikus nevezetesség Schweidnitz városában.",
+                  "text": "Szent Stanislaus és Vencel gótikus székesegyháza, műemlék Śwdnicában.",
                   "category": "religious",
                   "coords": [
                         16.491983,
@@ -75981,7 +75981,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Katedra św. Stanisława i św. Wacława",
-                  "text": "Catedrala Sfinților Stanislav și Venceslau este un reper gotic impresionant în Schweidnitz.",
+                  "text": "Catedrala gotică a Sfinților Stanislaus și Venceslau, monument protejat în Świdnica.",
                   "category": "religious",
                   "coords": [
                         16.491983,
@@ -76289,7 +76289,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of SS Stanislaus and Wenceslas",
-                  "text": "The Cathedral of St. Stanislaus and St. Wenceslas is a stunning Gothic landmark in Schweidnitz.",
+                  "text": "Gothic cathedral of SS Stanislaus and Wenceslas, a listed heritage church in Świdnica.",
                   "category": "religious",
                   "coords": [
                         16.491983,
@@ -76672,7 +76672,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum w Sosnowcu",
-                  "text": "Ein Museum in Sosnowiec nahe Będzin.",
+                  "text": "Museum (Muzeum w Sosnowcu), 1985 gegründet in Będzin.",
                   "category": "museum",
                   "coords": [
                         19.143313,
@@ -76681,7 +76681,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Wilhelma",
-                  "text": "Ein historischer Palast in der Nähe von Będzin.",
+                  "text": "Das 1900 erbaute Wilhelmspalais in Będzin ist ein historistischer Palast, Baudenkmal.",
                   "category": "castle",
                   "coords": [
                         19.143234,
@@ -76690,7 +76690,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Królewski Będzin",
-                  "text": "Eine bedeutende mittelalterliche Burg in Będzin.",
+                  "text": "Die königliche Burg Będzin aus dem 13. Jahrhundert ist eine gotische Burgruine, Baudenkmal.",
                   "category": "castle",
                   "coords": [
                         19.129155,
@@ -76852,7 +76852,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica Świętego Tomasza",
-                  "text": "Die Kapelle des heiligen Thomas ist ein Kirchengebäude in Będzin.",
+                  "text": "Kapelle des Heiligen Thomas, denkmalgeschützt in Będzin.",
                   "category": "religious",
                   "coords": [
                         19.135648,
@@ -76870,7 +76870,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Trójcy",
-                  "text": "Die Dreifaltigkeitskirche ist ein bekanntes Kirchengebäude in Będzin.",
+                  "text": "Kirche zur Heiligsten Dreifaltigkeit, denkmalgeschützt in Będzin.",
                   "category": "religious",
                   "coords": [
                         19.131045,
@@ -76962,7 +76962,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum w Sosnowcu",
-                  "text": "Múzeum Sosnowiecben, Będzin közelében.",
+                  "text": "Múzeum (Muzeum w Sosnowcu), 1985-ben alapították Będzinben.",
                   "category": "museum",
                   "coords": [
                         19.143313,
@@ -76971,7 +76971,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Wilhelma",
-                  "text": "Történelmi palota Będzin közelében.",
+                  "text": "A Będzin-i Wilhelm-palota 1900-ban épült historizáló stílusú műemlék.",
                   "category": "castle",
                   "coords": [
                         19.143234,
@@ -76980,7 +76980,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Królewski Będzin",
-                  "text": "Jelentős középkori vár Będzinben.",
+                  "text": "A Będzin-i Királyi Vár a 13. században épült gótikus várrom, műemlék.",
                   "category": "castle",
                   "coords": [
                         19.129155,
@@ -77142,7 +77142,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica Świętego Tomasza",
-                  "text": "A Szent Tamás-kápolna egy templomépület Będzinben.",
+                  "text": "Szent Tamás-kápolna, műemlék Będzinben.",
                   "category": "religious",
                   "coords": [
                         19.135648,
@@ -77160,7 +77160,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Trójcy",
-                  "text": "A Szentháromság-templom egy nevezetes templomépület Będzinben.",
+                  "text": "Szentháromság-templom, műemlék Będzinben.",
                   "category": "religious",
                   "coords": [
                         19.131045,
@@ -77252,7 +77252,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum w Sosnowcu",
-                  "text": "Un muzeu în Sosnowiec lângă Będzin.",
+                  "text": "Muzeul (Muzeum w Sosnowcu), fondat în 1985 la Będzin.",
                   "category": "museum",
                   "coords": [
                         19.143313,
@@ -77261,7 +77261,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Wilhelma",
-                  "text": "Un palat istoric în apropiere de Będzin.",
+                  "text": "Palatul Wilhelm din Będzin, construit în 1900 în stil istoricist, monument istoric.",
                   "category": "castle",
                   "coords": [
                         19.143234,
@@ -77270,7 +77270,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Królewski Będzin",
-                  "text": "Un castel medieval important din Będzin.",
+                  "text": "Castelul Regal Będzin, construit în secolul al XIII-lea, ruină gotică, monument istoric.",
                   "category": "castle",
                   "coords": [
                         19.129155,
@@ -77432,7 +77432,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica Świętego Tomasza",
-                  "text": "Capela Sfântului Toma este o biserică în Będzin.",
+                  "text": "Capela Sfântul Toma, monument protejat în Będzin.",
                   "category": "religious",
                   "coords": [
                         19.135648,
@@ -77450,7 +77450,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Trójcy",
-                  "text": "Biserica Sfânta Treime este o biserică notabilă în Będzin.",
+                  "text": "Biserica Sfintei Treimi, monument protejat în Będzin.",
                   "category": "religious",
                   "coords": [
                         19.131045,
@@ -77542,7 +77542,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum w Sosnowcu",
-                  "text": "A museum in Sosnowiec near Będzin.",
+                  "text": "Museum (Muzeum w Sosnowcu) established in 1985 in Będzin.",
                   "category": "museum",
                   "coords": [
                         19.143313,
@@ -77551,7 +77551,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Pałac Wilhelma",
-                  "text": "A historic palace near Będzin.",
+                  "text": "Built in 1900, the Wilhelm Palace in Będzin is a historicist palace, a listed heritage building.",
                   "category": "castle",
                   "coords": [
                         19.143234,
@@ -77560,7 +77560,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Zamek Królewski Będzin",
-                  "text": "A significant medieval castle in Będzin.",
+                  "text": "The Royal Castle in Będzin, built in the 13th century, is a Gothic castle ruin and heritage monument.",
                   "category": "castle",
                   "coords": [
                         19.129155,
@@ -77722,7 +77722,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kaplica Świętego Tomasza",
-                  "text": "The Chapel of St. Thomas is a church in Będzin.",
+                  "text": "Chapel of St. Thomas, a listed monument in Będzin.",
                   "category": "religious",
                   "coords": [
                         19.135648,
@@ -77740,7 +77740,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Trójcy",
-                  "text": "The Holy Trinity Church is a notable church in Będzin.",
+                  "text": "Church of the Holy Trinity, a listed church in Będzin.",
                   "category": "religious",
                   "coords": [
                         19.131045,
@@ -79071,7 +79071,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kolumna Matki Boskiej",
-                  "text": "Die Mariensäule ist eine bekannte Attraktion in Ratibor.",
+                  "text": "Mariensäule (Kolumna Matki Boskiej), denkmalgeschützt in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.219796,
@@ -79116,7 +79116,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Józefa",
-                  "text": "Die St.-Josef-Kirche ist eine Sehenswürdigkeit in Ratibor.",
+                  "text": "Pfarrkirche des Heiligen Josef, denkmalgeschützt in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.174662,
@@ -79134,7 +79134,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sąd Rejonowy",
-                  "text": "Das Gerichtsgebäude ist ein bemerkenswertes Bauwerk in Ratibor.",
+                  "text": "Amtsgericht (Sąd Rejonowy), denkmalgeschützt in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.21887,
@@ -79152,7 +79152,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta więzienna",
-                  "text": "Der Gefängnisturm ist ein historisches Bauwerk in Ratibor.",
+                  "text": "Gefängnisturm (Baszta więzienna), denkmalgeschützt in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.220069,
@@ -79287,7 +79287,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Jakuba",
-                  "text": "Die Jakobskirche ist eine historische Kirche in Ratibor.",
+                  "text": "Kirche des Heiligen Jakobus, denkmalgeschützt in Racibórz.",
                   "category": "religious",
                   "coords": [
                         18.22072,
@@ -79388,7 +79388,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kolumna Matki Boskiej",
-                  "text": "A Mária-oszlop egy nevezetes látnivaló Ratiborban.",
+                  "text": "Mária-oszlop (Kolumna Matki Boskiej), műemlék Racibórzban.",
                   "category": "landmark",
                   "coords": [
                         18.219796,
@@ -79433,7 +79433,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Józefa",
-                  "text": "A Szent József-templom egy látnivaló Ratiborban.",
+                  "text": "Szent József-plébániatemplom, műemlék Racibórzban.",
                   "category": "landmark",
                   "coords": [
                         18.174662,
@@ -79451,7 +79451,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sąd Rejonowy",
-                  "text": "A bírósági épület egy figyelemre méltó építmény Ratiborban.",
+                  "text": "Járásbíróság (Sąd Rejonowy), műemlék Racibórzban.",
                   "category": "landmark",
                   "coords": [
                         18.21887,
@@ -79469,7 +79469,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta więzienna",
-                  "text": "A börtöntorony egy történelmi építmény Ratiborban.",
+                  "text": "Börtön torony (Baszta więzienna), műemlék Racibórzban.",
                   "category": "landmark",
                   "coords": [
                         18.220069,
@@ -79604,7 +79604,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Jakuba",
-                  "text": "A Szent Jakab-templom egy történelmi templom Ratiborban.",
+                  "text": "Szent Jakab-templom, műemlék Racibórzban.",
                   "category": "religious",
                   "coords": [
                         18.22072,
@@ -79705,7 +79705,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kolumna Matki Boskiej",
-                  "text": "Coloana Sfânta Maria este o atracție notabilă în Ratibor.",
+                  "text": "Columna Maicii Domnului (Kolumna Matki Boskiej), monument protejat în Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.219796,
@@ -79750,7 +79750,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Józefa",
-                  "text": "Biserica Sfântul Iosif este un obiectiv turistic în Ratibor.",
+                  "text": "Biserica parohială Sfântul Iosif, monument protejat în Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.174662,
@@ -79768,7 +79768,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sąd Rejonowy",
-                  "text": "Clădirea tribunalului este o construcție notabilă în Ratibor.",
+                  "text": "Tribunalul districtual (Sąd Rejonowy), monument protejat în Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.21887,
@@ -79786,7 +79786,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta więzienna",
-                  "text": "Turnul închisorii este o construcție istorică în Ratibor.",
+                  "text": "Turnul închisorii (Baszta więzienna), monument protejat în Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.220069,
@@ -79921,7 +79921,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Jakuba",
-                  "text": "Biserica Sfântul Iacob este o biserică istorică în Ratibor.",
+                  "text": "Biserica Sfântul Iacob, monument protejat în Racibórz.",
                   "category": "religious",
                   "coords": [
                         18.22072,
@@ -80022,7 +80022,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kolumna Matki Boskiej",
-                  "text": "The Column of St. Mary is a notable attraction in Ratibor.",
+                  "text": "Marian column (Kolumna Matki Boskiej), a listed landmark in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.219796,
@@ -80067,7 +80067,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół parafialny pw. św. Józefa",
-                  "text": "St. Joseph's Church is an attraction in Ratibor.",
+                  "text": "Parish church of St. Joseph, a listed landmark in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.174662,
@@ -80085,7 +80085,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Sąd Rejonowy",
-                  "text": "The courthouse building is a notable structure in Ratibor.",
+                  "text": "District court building (Sąd Rejonowy), a listed landmark in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.21887,
@@ -80103,7 +80103,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Baszta więzienna",
-                  "text": "The prison tower is a historic structure in Ratibor.",
+                  "text": "Prison tower (Baszta więzienna), a listed monument in Racibórz.",
                   "category": "landmark",
                   "coords": [
                         18.220069,
@@ -80238,7 +80238,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół św. Jakuba",
-                  "text": "St. James Church is a historic church in Ratibor.",
+                  "text": "Church of St. James, a listed church in Racibórz.",
                   "category": "religious",
                   "coords": [
                         18.22072,
@@ -81435,7 +81435,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Kunszt",
-                  "text": "Park in Tarnowitz.",
+                  "text": "Kunszt-Park, angelegt in den 1820er Jahren in Tarnowskie Góry.",
                   "category": "park",
                   "coords": [
                         18.860242,
@@ -81444,7 +81444,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dzwonnica Gwarków",
-                  "text": "Historischer Glockenturm in Tarnowitz.",
+                  "text": "Bergmannsglockenturm (Dzwonnica Gwarków), denkmalgeschützt in Tarnowskie Góry.",
                   "category": "landmark",
                   "coords": [
                         18.852723,
@@ -81516,7 +81516,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary kościół świętego Marcina",
-                  "text": "Alte St. Martinskirche in Tarnowitz.",
+                  "text": "Alte Kirche des Heiligen Martin, denkmalgeschützt in Tarnowskie Góry.",
                   "category": "religious",
                   "coords": [
                         18.820653,
@@ -81644,7 +81644,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Kunszt",
-                  "text": "Park Tarnowitzban.",
+                  "text": "Kunszt Park, az 1820-as években létesítve Tarnowskie Góryban.",
                   "category": "park",
                   "coords": [
                         18.860242,
@@ -81653,7 +81653,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dzwonnica Gwarków",
-                  "text": "Történelmi harangtorony Tarnowitzban.",
+                  "text": "Bányász harangtorony (Dzwonnica Gwarków), műemlék Tarnowskie Góryban.",
                   "category": "landmark",
                   "coords": [
                         18.852723,
@@ -81725,7 +81725,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary kościół świętego Marcina",
-                  "text": "Régi Szent Márton-templom Tarnowitzban.",
+                  "text": "Szent Márton ótemplom, műemlék Tarnowskie Góryban.",
                   "category": "religious",
                   "coords": [
                         18.820653,
@@ -81853,7 +81853,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Kunszt",
-                  "text": "Parc în Tarnowitz.",
+                  "text": "Parcul Kunszt, înființat în anii 1820 la Tarnowskie Góry.",
                   "category": "park",
                   "coords": [
                         18.860242,
@@ -81862,7 +81862,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dzwonnica Gwarków",
-                  "text": "Turn-clopotniță istoric în Tarnowitz.",
+                  "text": "Clopotnița minerilor (Dzwonnica Gwarków), monument protejat în Tarnowskie Góry.",
                   "category": "landmark",
                   "coords": [
                         18.852723,
@@ -81934,7 +81934,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary kościół świętego Marcina",
-                  "text": "Vechea biserică Sfântul Martin în Tarnowitz.",
+                  "text": "Biserica veche Sfântul Martin, monument protejat în Tarnowskie Góry.",
                   "category": "religious",
                   "coords": [
                         18.820653,
@@ -82062,7 +82062,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Park Kunszt",
-                  "text": "Park in Tarnowitz.",
+                  "text": "Kunszt Park, established in the 1820s in Tarnowskie Góry.",
                   "category": "park",
                   "coords": [
                         18.860242,
@@ -82071,7 +82071,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Dzwonnica Gwarków",
-                  "text": "Historic bell tower in Tarnowitz.",
+                  "text": "Miners' belfry (Dzwonnica Gwarków), a listed landmark in Tarnowskie Góry.",
                   "category": "landmark",
                   "coords": [
                         18.852723,
@@ -82143,7 +82143,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Stary kościół świętego Marcina",
-                  "text": "Old church of Saint Martin in Tarnowitz.",
+                  "text": "Old church of St. Martin, a listed religious building in Tarnowskie Góry.",
                   "category": "religious",
                   "coords": [
                         18.820653,
@@ -84782,7 +84782,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża",
-                  "text": "Kościół pw. Świętego Krzyża ist eine alte gotische Kirche in Saybusch.",
+                  "text": "Kirche zum Heiligen Kreuz, denkmalgeschützt in Żywiec.",
                   "category": "religious",
                   "coords": [
                         19.198358,
@@ -84982,7 +84982,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża",
-                  "text": "A Kościół pw. Świętego Krzyża egy régi gótikus templom Saybuschban.",
+                  "text": "Szent Kereszt-templom, műemlék Żywiecben.",
                   "category": "religious",
                   "coords": [
                         19.198358,
@@ -85182,7 +85182,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża",
-                  "text": "Kościół pw. Świętego Krzyża este o veche biserică gotică situată în Saybusch.",
+                  "text": "Biserica Sfintei Cruci, monument protejat în Żywiec.",
                   "category": "religious",
                   "coords": [
                         19.198358,
@@ -85382,7 +85382,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Krzyża",
-                  "text": "Kościół pw. Świętego Krzyża is an ancient Gothic church located in Saybusch.",
+                  "text": "Church of the Holy Cross, a listed church in Żywiec.",
                   "category": "religious",
                   "coords": [
                         19.198358,
@@ -86770,7 +86770,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Konzentrationslager Auschwitz (Auschwitz I)",
-                  "text": "Diese Stätte ist das berüchtigte ehemalige deutsche nationalsozialistische Konzentrations- und Vernichtungslager Auschwitz I.",
+                  "text": "Ehemaliges deutsches Konzentrationslager Auschwitz (Auschwitz I), UNESCO-Weltkulturerbe in Oświęcim.",
                   "category": "landmark",
                   "coords": [
                         19.203964,
@@ -86961,7 +86961,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Auschwitzi Koncentrációs Tábor (Auschwitz I.)",
-                  "text": "Ez a helyszín a hírhedt egykori német náci koncentrációs és megsemmisítő tábor, az Auschwitz I.",
+                  "text": "Az egykori német koncentrációs tábor Auschwitz (Auschwitz I), UNESCO világörökségi helyszín Oświęcimben.",
                   "category": "landmark",
                   "coords": [
                         19.203964,
@@ -87152,7 +87152,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Niemiecki nazistowski obóz koncentracyjny Auschwitz I",
-                  "text": "Acest sit este faimosul fost lagăr de concentrare și exterminare nazist german Auschwitz I.",
+                  "text": "Fostul lagăr de concentrare nazist german Auschwitz (Auschwitz I), sit UNESCO în Oświęcim.",
                   "category": "landmark",
                   "coords": [
                         19.203964,
@@ -87343,7 +87343,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "German Nazi Concentration Camp Auschwitz (Auschwitz I)",
-                  "text": "This site is the notorious former German Nazi concentration and extermination camp Auschwitz I.",
+                  "text": "Former German Nazi concentration camp Auschwitz (Auschwitz I), a UNESCO World Heritage site in Oświęcim.",
                   "category": "landmark",
                   "coords": [
                         19.203964,
@@ -87528,7 +87528,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Najświętszego Serca Pana Jezusa",
-                  "text": "Imposante Basilika des Heiligsten Herzens Jesu in Augustów.",
+                  "text": "Die 1906–1911 erbaute Basilika zum Heiligsten Herzen Jesu in Augustów ist ein neugotischer Bau, Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         22.981473,
@@ -87537,7 +87537,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Częstochowskiej",
-                  "text": "Kirche der Muttergottes von Częstochowa in Augustów.",
+                  "text": "Die 1896–1909 erbaute Kirche der Muttergottes von Tschenstochau in Augustów steht unter Denkmalschutz.",
                   "category": "religious",
                   "coords": [
                         23.004986,
@@ -87546,7 +87546,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Rodziny",
-                  "text": "Kirche der Heiligen Familie in Augustów.",
+                  "text": "Kirche der Heiligen Familie, erbaut zwischen 2006 und 2012 in Augustów.",
                   "category": "religious",
                   "coords": [
                         22.98231,
@@ -87564,7 +87564,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Kirche des Heiligen Johannes des Täufers in Augustów.",
+                  "text": "Kirche des Heiligen Johannes des Täufers, erbaut zwischen 1993 und 2000 in Augustów.",
                   "category": "religious",
                   "coords": [
                         22.963368,
@@ -87665,7 +87665,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Najświętszego Serca Pana Jezusa",
-                  "text": "Impozáns Jézus Szentséges Szíve-bazilika Augustówban.",
+                  "text": "Az Augustów-i Jézus Szíve Bazilika 1906–1911 között épült neogótikus stílusú műemlék.",
                   "category": "religious",
                   "coords": [
                         22.981473,
@@ -87674,7 +87674,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Częstochowskiej",
-                  "text": "Czestochowai Szűz Mária-templom Augustówban.",
+                  "text": "Az Augustów-i Gyakorlati Segítség Anyja templom (Częstochowai Szűzanya) 1896–1909 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         23.004986,
@@ -87683,7 +87683,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Rodziny",
-                  "text": "Szent Család-templom Augustówban.",
+                  "text": "Szent Család-templom, 2006 és 2012 között épült Augustówban.",
                   "category": "religious",
                   "coords": [
                         22.98231,
@@ -87701,7 +87701,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Keresztelő Szent János-templom Augustówban.",
+                  "text": "Keresztelő Szent János-templom, 1993 és 2000 között épült Augustówban.",
                   "category": "religious",
                   "coords": [
                         22.963368,
@@ -87802,7 +87802,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Bazylika Najświętszego Serca Pana Jezusa",
-                  "text": "Impunătoarea Bazilică a Preasfintei Inimi a lui Isus din Augustów.",
+                  "text": "Bazilica Preasfintei Inimi a lui Isus din Augustów, construită între 1906 și 1911 în stil neogotic, monument istoric.",
                   "category": "religious",
                   "coords": [
                         22.981473,
@@ -87811,7 +87811,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Częstochowskiej",
-                  "text": "Biserica Maicii Domnului din Częstochowa în Augustów.",
+                  "text": "Biserica „Maica Domnului de la Częstochowa” din Augustów, construită între 1896 și 1909, monument istoric.",
                   "category": "religious",
                   "coords": [
                         23.004986,
@@ -87820,7 +87820,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Rodziny",
-                  "text": "Biserica Sfânta Familie în Augustów.",
+                  "text": "Biserica Sfintei Familii, construită între 2006 și 2012 la Augustów.",
                   "category": "religious",
                   "coords": [
                         22.98231,
@@ -87838,7 +87838,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Biserica Sfântul Ioan Botezătorul în Augustów.",
+                  "text": "Biserica Sfântul Ioan Botezătorul, construită între 1993 și 2000 la Augustów.",
                   "category": "religious",
                   "coords": [
                         22.963368,
@@ -87939,7 +87939,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica of the Sacred Heart of Jesus",
-                  "text": "Imposing Basilica of the Sacred Heart of Jesus in Augustów.",
+                  "text": "Built 1906–1911, the Basilica of the Sacred Heart of Jesus in Augustów is a Neo-Gothic heritage church.",
                   "category": "religious",
                   "coords": [
                         22.981473,
@@ -87948,7 +87948,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Częstochowskiej",
-                  "text": "Church of Our Lady of Częstochowa in Augustów.",
+                  "text": "Built 1896–1909, the Church of Our Lady of Częstochowa in Augustów is a listed heritage building.",
                   "category": "religious",
                   "coords": [
                         23.004986,
@@ -87957,7 +87957,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętej Rodziny",
-                  "text": "Church of the Holy Family in Augustów.",
+                  "text": "Church of the Holy Family, built between 2006 and 2012 in Augustów.",
                   "category": "religious",
                   "coords": [
                         22.98231,
@@ -87975,7 +87975,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jana Chrzciciela",
-                  "text": "Church of St. John the Baptist in Augustów.",
+                  "text": "Church of St. John the Baptist, built between 1993 and 2000 in Augustów.",
                   "category": "religious",
                   "coords": [
                         22.963368,
@@ -89415,7 +89415,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackie",
-                  "text": "Umfassendes Regionalmuseum in Krosno.",
+                  "text": "Karpatenvorland-Museum (Muzeum Podkarpackie), gegründet 1954 in Krosno.",
                   "category": "museum",
                   "coords": [
                         21.763557,
@@ -89424,7 +89424,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Privatmuseum zur Militärgeschichte in Krosno.",
+                  "text": "Museum der Karpatenvorland-Schlachtfelder, gegründet 2003 in Krosno.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -89696,7 +89696,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackie",
-                  "text": "Átfogó regionális múzeum Krosnóban.",
+                  "text": "Kárpátalja Múzeum (Muzeum Podkarpackie), 1954-ben alapították Krosnóban.",
                   "category": "museum",
                   "coords": [
                         21.763557,
@@ -89705,7 +89705,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Privát múzeum a hadtörténetről Krosnóban.",
+                  "text": "Kárpátaljai csataterek múzeuma, 2003-ban alapították Krosnóban.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -89977,7 +89977,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackie",
-                  "text": "Muzeu regional cuprinzător în Krosno.",
+                  "text": "Muzeul Subcarpatic (Muzeum Podkarpackie), fondat în 1954 la Krosno.",
                   "category": "museum",
                   "coords": [
                         21.763557,
@@ -89986,7 +89986,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Muzeu privat de istorie militară în Krosno.",
+                  "text": "Muzeul Câmpurilor de Bătălie Subcarpatice, fondat în 2003 la Krosno.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -90258,7 +90258,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackie",
-                  "text": "Comprehensive regional museum in Krosno.",
+                  "text": "Subcarpathian Museum (Muzeum Podkarpackie), founded in 1954 in Krosno.",
                   "category": "museum",
                   "coords": [
                         21.763557,
@@ -90267,7 +90267,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeum Podkarpackich Pól Bitewnych",
-                  "text": "Private museum of military history in Krosno.",
+                  "text": "Museum of Subcarpathian Battlefields, established in 2003 in Krosno.",
                   "category": "museum",
                   "coords": [
                         21.753337,
@@ -92506,7 +92506,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Fatimskiej",
-                  "text": "Dieser Schrein ist eine bemerkenswerte religiöse Stätte in Zakopane.",
+                  "text": "Fatima-Heiligtum, denkmalgeschützt in Zakopane.",
                   "category": "religious",
                   "coords": [
                         19.922965,
@@ -92940,7 +92940,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Fatimskiej",
-                  "text": "Ez a szentély egy nevezetes vallási helyszín, amelyet Zakopanéban alapítottak.",
+                  "text": "Fatimai Szűzanya-kegyhely, műemlék Zakopanéban.",
                   "category": "religious",
                   "coords": [
                         19.922965,
@@ -93374,7 +93374,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Matki Bożej Fatimskiej",
-                  "text": "Acest altar este un sit religios notabil înființat în Zakopane.",
+                  "text": "Sanctuarul Maicii Domnului de la Fatima, monument protejat în Zakopane.",
                   "category": "religious",
                   "coords": [
                         19.922965,
@@ -93808,7 +93808,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Shrine of Our Lady of Fatima",
-                  "text": "This shrine is a notable religious site established in Zakopane.",
+                  "text": "Shrine of Our Lady of Fatima, a listed sanctuary in Zakopane.",
                   "category": "religious",
                   "coords": [
                         19.922965,
@@ -97008,7 +97008,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "Bedeutende Kirche in Chojnice.",
+                  "text": "Basilika der Enthauptung des Heiligen Johannes des Täufers, denkmalgeschützt in Chojnice.",
                   "category": "religious",
                   "coords": [
                         17.56342,
@@ -97109,7 +97109,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "Jelentős templom Chojnicében.",
+                  "text": "Keresztelő Szent János lefejezésének bazilikája, műemlék Chojnicében.",
                   "category": "religious",
                   "coords": [
                         17.56342,
@@ -97210,7 +97210,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "Biserică importantă în Chojnice.",
+                  "text": "Basilica Decapitării Sfântului Ioan Botezătorul, monument protejat în Chojnice.",
                   "category": "religious",
                   "coords": [
                         17.56342,
@@ -97311,7 +97311,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "Significant church in Chojnice.",
+                  "text": "Basilica of the Beheading of St. John the Baptist, a listed church in Chojnice.",
                   "category": "religious",
                   "coords": [
                         17.56342,
@@ -98169,7 +98169,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Kostki",
-                  "text": "Eine lokale Kirchengemeinde in Szczytno.",
+                  "text": "Die 1929–1931 erbaute Stanislaus-Kostka-Kirche in Szczytno ist ein Baudenkmal.",
                   "category": "religious",
                   "coords": [
                         20.982474,
@@ -98252,7 +98252,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Kostki",
-                  "text": "Helyi templom Szczytnóban.",
+                  "text": "A Szczytno-i Szent Stanisław Kostka templom 1929–1931 között épült, műemlék.",
                   "category": "religious",
                   "coords": [
                         20.982474,
@@ -98335,7 +98335,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Kostki",
-                  "text": "Biserică locală în Szczytno.",
+                  "text": "Biserica „Sfântul Stanislaw Kostka” din Szczytno, construită între 1929 și 1931, monument istoric.",
                   "category": "religious",
                   "coords": [
                         20.982474,
@@ -98418,7 +98418,7 @@ export const polandCitiesV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Stanisława Kostki",
-                  "text": "Local church in Szczytno.",
+                  "text": "Built 1929–1931, the Church of St. Stanislaus Kostka in Szczytno is a heritage building.",
                   "category": "religious",
                   "coords": [
                         20.982474,

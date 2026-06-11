@@ -3,7 +3,916 @@ import type { POI } from "./poi";
 
 export const poiExtraAlgeriaCitiesV2: POI[] = [
   {
-    id: "algiers-cities-v2",
+    id: "algiers-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le grand huit",
+                  "text": "Eine aufregende Achterbahn-Attraktion in einem Vergnügungspark in Algier.",
+                  "category": "landmark",
+                  "coords": [
+                        3.023001,
+                        36.733317
+                  ]
+            },
+            {
+                  "name": "Tigres",
+                  "text": "Ein Zoogehege in Algier, das einen Lebensraum für gefangene Tiger bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017649,
+                        36.737951
+                  ]
+            },
+            {
+                  "name": "Hippopotame",
+                  "text": "Eine Tierparkattraktion in Algier, die Flusspferde in einem Wasserlebensraum zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017982,
+                        36.739148
+                  ]
+            },
+            {
+                  "name": "Aigles",
+                  "text": "Eine Voliere in Algier, die verschiedene Adlerarten beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019068,
+                        36.738427
+                  ]
+            },
+            {
+                  "name": "Lions",
+                  "text": "Ein Raubkatzengehege, das Löwen in einem Zoo in Algier präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019722,
+                        36.739495
+                  ]
+            },
+            {
+                  "name": "Vista point",
+                  "text": "Ein erhöhter Aussichtspunkt mit Panoramablick über das Stadtbild von Algier.",
+                  "category": "landmark",
+                  "coords": [
+                        3.060286,
+                        36.749251
+                  ]
+            },
+            {
+                  "name": "Chateau",
+                  "text": "Eine historische, befestigte Burgruine mit Blick auf Teile von Algier.",
+                  "category": "castle",
+                  "coords": [
+                        3.044019,
+                        36.747675
+                  ]
+            },
+            {
+                  "name": "salle d'",
+                  "text": "Eine interaktive, rätselbasierte Indoor-Escape-Room-Attraktion in Algier.",
+                  "category": "landmark",
+                  "coords": [
+                        3.028583,
+                        36.75622
+                  ]
+            },
+            {
+                  "name": "Les singes",
+                  "text": "Ein Primatengehege für Affen in einem Wildpark in Algier.",
+                  "category": "landmark",
+                  "coords": [
+                        3.009066,
+                        36.742828
+                  ]
+            },
+            {
+                  "name": "Cerf de Barbarie",
+                  "text": "Ein Zoohabitat, das sich auf den Schutz des einheimischen Berberhirsches konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        3.00807,
+                        36.742628
+                  ]
+            },
+            {
+                  "name": "Hôtel Moncada",
+                  "text": "Ein Aussichtspunkt in der Nähe des Hôtel Moncada, der weite Ausblicke auf die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        3.01447,
+                        36.740876
+                  ]
+            },
+            {
+                  "name": "Mini-Karting",
+                  "text": "Diese Mini-Kart-Attraktion in Algier bietet eine gepflasterte Strecke für kleine motorisierte Go-Karts.",
+                  "category": "landmark",
+                  "coords": [
+                        3.022553,
+                        36.735602
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "Dieser historische ehemalige osmanische Palast in Algier dient heute als Staatsgebäude mit traditioneller maurischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        3.046066,
+                        36.758924
+                  ]
+            },
+            {
+                  "name": "Palais Mustapha Pacha",
+                  "text": "Dieser historische Palastkomplex in Algier verfügt über kunstvolle Fliesenarbeiten und Innenhöfe, die typisch für die Elite-Residenzen der osmanischen Ära sind.",
+                  "category": "castle",
+                  "coords": [
+                        3.048295,
+                        36.757091
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Zoo",
+                  "text": "Dieser große zoologische Park in Algier verfügt über zahlreiche Tiergehege, die in einem größeren bewaldeten städtischen Erholungsgebiet liegen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.00691,
+                        36.743319
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Amusement Park",
+                  "text": "Dieser weitläufige nationale Vergnügungspark in Algier kombiniert mechanische Fahrgeschäfte mit angrenzenden Waldwegen und dem Zugang zum Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        3.0248,
+                        36.733953
+                  ]
+            },
+            {
+                  "name": "Ambassade de France",
+                  "text": "Die weitläufigen, streng bewachten Parkanlagen rund um die französische diplomatische Vertretung in Algier verfügen über üppige, ausgewachsene mediterrane Gärten.",
+                  "category": "park",
+                  "coords": [
+                        3.034867,
+                        36.750449
+                  ]
+            },
+            {
+                  "name": "Musée de la Protection Civile",
+                  "text": "Dieses spezialisierte Museum in Algier zeigt historische Feuerwehrautos, Rettungsausrüstung und Uniformen der nationalen Zivilschutzkräfte.",
+                  "category": "museum",
+                  "coords": [
+                        3.031374,
+                        36.747952
+                  ]
+            },
+            {
+                  "name": "Museum für Antike und Islamische Kunst",
+                  "text": "Diese Institution in Algier beherbergt umfangreiche Sammlungen römischer Mosaike und jahrhundertealter islamischer Manuskripte.",
+                  "category": "museum",
+                  "coords": [
+                        3.046026,
+                        36.761582
+                  ]
+            },
+            {
+                  "name": "Ambassade du Royaume des Pays-Bas",
+                  "text": "Die sicheren, landschaftlich gestalteten Anlagen der niederländischen Botschaft in Algier zeichnen sich durch gepflegte diplomatische Gärten und einheimische Schattenbäume aus.",
+                  "category": "park",
+                  "coords": [
+                        3.030514,
+                        36.76204
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Azzedine Medjoubi",
+                  "text": "Dieses nach einem prominenten algerischen Schauspieler benannte Kulturzentrum bietet Räume für lokale Theateraufführungen und künstlerische Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        3.056712,
+                        36.753694
+                  ]
+            },
+            {
+                  "name": "Centre culturel Lakhdar Rebah",
+                  "text": "Diese Kunsteinrichtung in Algier unterstützt die lokale Gemeinschaft mit Ausstellungsräumen und Mehrzweckhallen für die kulturelle Bildung.",
+                  "category": "cultural",
+                  "coords": [
+                        3.062697,
+                        36.751208
+                  ]
+            },
+            {
+                  "name": "The African village",
+                  "text": "Diese thematische Zoozone befindet sich in einem Tierpark in Algier und zeigt Arten, die in der afrikanischen Savanne und im Dschungel heimisch sind.",
+                  "category": "recreational",
+                  "coords": [
+                        3.005739,
+                        36.750039
+                  ]
+            },
+            {
+                  "name": "Bardo Nationalmuseum",
+                  "text": "In einer wunderschön restaurierten maurischen Villa untergebracht, zeigt dieses Museum alte saharische Felskunst und traditionelle algerische ethnografische Artefakte.",
+                  "category": "castle",
+                  "coords": [
+                        3.046327,
+                        36.760342
+                  ]
+            },
+            {
+                  "name": "Ambassade du Br",
+                  "text": "Das Gelände dieser südamerikanischen diplomatischen Vertretung in Algier verfügt über sichere Gärten, die sich in die lokale nordafrikanische Flora einfügen.",
+                  "category": "park",
+                  "coords": [
+                        3.032418,
+                        36.761035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le grand huit",
+                  "text": "Egy izgalmas hullámvasút-attrakció egy algíri vidámparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        3.023001,
+                        36.733317
+                  ]
+            },
+            {
+                  "name": "Tigres",
+                  "text": "Egy algíri állatkerti kifutó, amely fogságban tartott tigriseknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017649,
+                        36.737951
+                  ]
+            },
+            {
+                  "name": "Hippopotame",
+                  "text": "Egy állatparki attrakció Algírban, amely vízilovakat mutat be vízi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017982,
+                        36.739148
+                  ]
+            },
+            {
+                  "name": "Aigles",
+                  "text": "Egy madárház Algírban, amely különböző sasfajoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019068,
+                        36.738427
+                  ]
+            },
+            {
+                  "name": "Lions",
+                  "text": "Egy nagymacska-kifutó, amely oroszlánokat mutat be egy algíri állatkertben.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019722,
+                        36.739495
+                  ]
+            },
+            {
+                  "name": "Vista point",
+                  "text": "Egy magaslati kilátópont, amely panorámás rálátást nyújt Algír városképére.",
+                  "category": "landmark",
+                  "coords": [
+                        3.060286,
+                        36.749251
+                  ]
+            },
+            {
+                  "name": "Chateau",
+                  "text": "Egy történelmi erődített kastélyépület, amely Algír egyes részeire néz.",
+                  "category": "castle",
+                  "coords": [
+                        3.044019,
+                        36.747675
+                  ]
+            },
+            {
+                  "name": "salle d'",
+                  "text": "Egy interaktív, rejtvényeken alapuló beltéri szabadulószoba Algírban.",
+                  "category": "landmark",
+                  "coords": [
+                        3.028583,
+                        36.75622
+                  ]
+            },
+            {
+                  "name": "Les singes",
+                  "text": "Egy majmok számára fenntartott főemlőskifutó egy algíri vadasparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        3.009066,
+                        36.742828
+                  ]
+            },
+            {
+                  "name": "Cerf de Barbarie",
+                  "text": "Egy állatkerti élőhely, amely a helyi berberszarvas védelmére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        3.00807,
+                        36.742628
+                  ]
+            },
+            {
+                  "name": "Hôtel Moncada",
+                  "text": "A Hôtel Moncada közelében található kilátó, ahonnan széles panoráma nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        3.01447,
+                        36.740876
+                  ]
+            },
+            {
+                  "name": "Mini-Karting",
+                  "text": "Ez az algíri minigokart attrakció burkolt pályát kínál kis motoros gokartok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        3.022553,
+                        36.735602
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "Ez a történelmi egykori oszmán palota Algírban ma állami épületként szolgál, hagyományos mór építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        3.046066,
+                        36.758924
+                  ]
+            },
+            {
+                  "name": "Palais Mustapha Pacha",
+                  "text": "Ez az algíri történelmi palotakomplexum az oszmán kori elit rezidenciáira jellemző díszes csempézettel és udvarokkal rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        3.048295,
+                        36.757091
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Zoo",
+                  "text": "Ez a nagy algíri állatkert számos állatbekerítéssel rendelkezik, amelyek egy kiterjedtebb erdős városi rekreációs területen helyezkednek el.",
+                  "category": "recreational",
+                  "coords": [
+                        3.00691,
+                        36.743319
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Amusement Park",
+                  "text": "Ez a kiterjedt algíri nemzeti vidámpark a mechanikus túrákat szomszédos erdei ösvényekkel és állatkerti belépéssel ötvözi.",
+                  "category": "recreational",
+                  "coords": [
+                        3.0248,
+                        36.733953
+                  ]
+            },
+            {
+                  "name": "Ambassade de France",
+                  "text": "Az algíri francia diplomáciai missziót körülvevő kiterjedt, szigorúan őrzött parkosított területeken buja, érett mediterrán kertek találhatók.",
+                  "category": "park",
+                  "coords": [
+                        3.034867,
+                        36.750449
+                  ]
+            },
+            {
+                  "name": "Musée de la Protection Civile",
+                  "text": "Ez a speciális algíri múzeum történelmi tűzoltóautókat, mentőfelszereléseket és a nemzeti polgári védelmi erők egyenruháit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.031374,
+                        36.747952
+                  ]
+            },
+            {
+                  "name": "National Museum of Antiquities and Islamic Art",
+                  "text": "Ez az algíri intézmény római kori mozaikok és évszázados iszlám kéziratok kiterjedt gyűjteményeinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        3.046026,
+                        36.761582
+                  ]
+            },
+            {
+                  "name": "Ambassade du Royaume des Pays-Bas",
+                  "text": "Az algíri holland nagykövetség biztonságos, parkosított területét jól karbantartott diplomáciai kertek és őshonos árnyékot adó fák jellemzik.",
+                  "category": "park",
+                  "coords": [
+                        3.030514,
+                        36.76204
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Azzedine Medjoubi",
+                  "text": "Ez a kiemelkedő algériai színészről elnevezett kulturális központ helyszínt biztosít a helyi színházi előadások és művészeti műhelyek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        3.056712,
+                        36.753694
+                  ]
+            },
+            {
+                  "name": "Centre culturel Lakhdar Rebah",
+                  "text": "Ez az algíri művészeti létesítmény kiállítótermekkel és kulturális oktatásra szolgáló többcélú termekkel támogatja a helyi közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        3.062697,
+                        36.751208
+                  ]
+            },
+            {
+                  "name": "The African village",
+                  "text": "Ez az algíri állatparkban található tematikus állatkerti zóna az afrikai szavannán és dzsungelben őshonos fajokat mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        3.005739,
+                        36.750039
+                  ]
+            },
+            {
+                  "name": "Musée National du Bardo",
+                  "text": "A gyönyörűen felújított mór villában helyet kapó múzeum ősi szaharai sziklarajzokat és hagyományos algériai néprajzi tárgyakat mutat be.",
+                  "category": "castle",
+                  "coords": [
+                        3.046327,
+                        36.760342
+                  ]
+            },
+            {
+                  "name": "Ambassade du Br",
+                  "text": "A dél-amerikai diplomáciai misszió algíri területén biztonságos kertek találhatók, amelyek keverednek a helyi észak-afrikai növényvilággal.",
+                  "category": "park",
+                  "coords": [
+                        3.032418,
+                        36.761035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le grand huit",
+                  "text": "O atracție cu montagne russe incitantă, situată într-un parc de distracții din Alger.",
+                  "category": "landmark",
+                  "coords": [
+                        3.023001,
+                        36.733317
+                  ]
+            },
+            {
+                  "name": "Tigres",
+                  "text": "Un țarc de grădină zoologică din Alger care oferă un habitat pentru tigri.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017649,
+                        36.737951
+                  ]
+            },
+            {
+                  "name": "Hippopotame",
+                  "text": "O atracție din parcul zoologic din Alger, prezentând hipopotami într-un habitat acvatic.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017982,
+                        36.739148
+                  ]
+            },
+            {
+                  "name": "Aigles",
+                  "text": "O volieră în Alger care adăpostește diverse specii de vulturi.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019068,
+                        36.738427
+                  ]
+            },
+            {
+                  "name": "Lions",
+                  "text": "Un habitat pentru feline mari care prezintă lei într-o grădină zoologică din Alger.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019722,
+                        36.739495
+                  ]
+            },
+            {
+                  "name": "Vista point",
+                  "text": "Un loc pitoresc ridicat, oferind vederi panoramice asupra peisajului urban din Alger.",
+                  "category": "landmark",
+                  "coords": [
+                        3.060286,
+                        36.749251
+                  ]
+            },
+            {
+                  "name": "Chateau",
+                  "text": "O structură de castel fortificat istoric care domină părți din Alger.",
+                  "category": "castle",
+                  "coords": [
+                        3.044019,
+                        36.747675
+                  ]
+            },
+            {
+                  "name": "salle d'",
+                  "text": "O atracție interactivă de tip escape room de interior, bazată pe puzzle-uri, în Alger.",
+                  "category": "landmark",
+                  "coords": [
+                        3.028583,
+                        36.75622
+                  ]
+            },
+            {
+                  "name": "Les singes",
+                  "text": "Un țarc de primate dedicat maimuțelor într-un parc natural din Alger.",
+                  "category": "landmark",
+                  "coords": [
+                        3.009066,
+                        36.742828
+                  ]
+            },
+            {
+                  "name": "Cerf de Barbarie",
+                  "text": "Un habitat de grădină zoologică axat pe conservarea cerbului berber nativ.",
+                  "category": "landmark",
+                  "coords": [
+                        3.00807,
+                        36.742628
+                  ]
+            },
+            {
+                  "name": "Hôtel Moncada",
+                  "text": "Un punct de belvedere situat lângă Hôtel Moncada, oferind priveliști ample ale orașului.",
+                  "category": "natural",
+                  "coords": [
+                        3.01447,
+                        36.740876
+                  ]
+            },
+            {
+                  "name": "Mini-Karting",
+                  "text": "Această atracție de mini-karting din Alger oferă o pistă pavată pentru karturi motorizate mici.",
+                  "category": "landmark",
+                  "coords": [
+                        3.022553,
+                        36.735602
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "Acest palat istoric otoman din Alger servește acum drept clădire de stat cu arhitectură tradițională maură.",
+                  "category": "castle",
+                  "coords": [
+                        3.046066,
+                        36.758924
+                  ]
+            },
+            {
+                  "name": "Palais Mustapha Pacha",
+                  "text": "Acest complex istoric de palate din Alger prezintă faianță ornată și curți tipice reședințelor de elită din epoca otomană.",
+                  "category": "castle",
+                  "coords": [
+                        3.048295,
+                        36.757091
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Zoo",
+                  "text": "Acest mare parc zoologic din Alger are numeroase incinte pentru animale situate într-o zonă de recreere urbană împădurită mai largă.",
+                  "category": "recreational",
+                  "coords": [
+                        3.00691,
+                        36.743319
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Amusement Park",
+                  "text": "Acest parc național de distracții extins din Alger combină atracțiile mecanice cu traseele împădurite adiacente și accesul la grădina zoologică.",
+                  "category": "recreational",
+                  "coords": [
+                        3.0248,
+                        36.733953
+                  ]
+            },
+            {
+                  "name": "Ambassade de France",
+                  "text": "Parcul extins și puternic păzit din jurul misiunii diplomatice franceze din Alger prezintă grădini mediteraneene luxuriante și mature.",
+                  "category": "park",
+                  "coords": [
+                        3.034867,
+                        36.750449
+                  ]
+            },
+            {
+                  "name": "Musée de la Protection Civile",
+                  "text": "Acest muzeu specializat din Alger expune mașini de pompieri istorice, echipamente de salvare și uniforme ale forțelor naționale de apărare civilă.",
+                  "category": "museum",
+                  "coords": [
+                        3.031374,
+                        36.747952
+                  ]
+            },
+            {
+                  "name": "National Museum of Antiquities and Islamic Art",
+                  "text": "Această instituție din Alger găzduiește colecții vaste de mozaicuri din epoca romană și manuscrise islamice vechi de secole.",
+                  "category": "museum",
+                  "coords": [
+                        3.046026,
+                        36.761582
+                  ]
+            },
+            {
+                  "name": "Ambassade du Royaume des Pays-Bas",
+                  "text": "Terenurile sigure și amenajate ale ambasadei olandeze din Alger se caracterizează prin grădini diplomatice bine întreținute și arbori umbroși autohtoni.",
+                  "category": "park",
+                  "coords": [
+                        3.030514,
+                        36.76204
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Azzedine Medjoubi",
+                  "text": "Numit după un actor algerian proeminent, acest centru cultural oferă spații pentru spectacole de teatru locale și ateliere artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        3.056712,
+                        36.753694
+                  ]
+            },
+            {
+                  "name": "Centre culturel Lakhdar Rebah",
+                  "text": "Această facilitate de artă din Alger sprijină comunitatea locală cu săli de expoziție și săli multifuncționale pentru educație culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        3.062697,
+                        36.751208
+                  ]
+            },
+            {
+                  "name": "The African village",
+                  "text": "Situată în cadrul unui parc de animale din Alger, această zonă zoologică tematică expune specii native din mediile de savană și junglă africană.",
+                  "category": "recreational",
+                  "coords": [
+                        3.005739,
+                        36.750039
+                  ]
+            },
+            {
+                  "name": "Musée National du Bardo",
+                  "text": "Găzduit într-o vilă maură frumos restaurată, acest muzeu expune artă rupestră antică sahariană și artefacte etnografice tradiționale algeriene.",
+                  "category": "castle",
+                  "coords": [
+                        3.046327,
+                        36.760342
+                  ]
+            },
+            {
+                  "name": "Ambassade du Br",
+                  "text": "Terenurile acestei misiuni diplomatice sud-americane din Alger prezintă grădini sigure, îmbinate cu flora locală nord-africană.",
+                  "category": "park",
+                  "coords": [
+                        3.032418,
+                        36.761035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le grand huit",
+                  "text": "An exciting roller coaster attraction situated in an Algiers amusement park.",
+                  "category": "landmark",
+                  "coords": [
+                        3.023001,
+                        36.733317
+                  ]
+            },
+            {
+                  "name": "Tigres",
+                  "text": "A zoo enclosure in Algiers providing a habitat for captive tigers.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017649,
+                        36.737951
+                  ]
+            },
+            {
+                  "name": "Hippopotame",
+                  "text": "An animal park attraction in Algiers showcasing hippopotamuses in a water habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        3.017982,
+                        36.739148
+                  ]
+            },
+            {
+                  "name": "Aigles",
+                  "text": "An aviary exhibit housing various eagle species in Algiers.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019068,
+                        36.738427
+                  ]
+            },
+            {
+                  "name": "Lions",
+                  "text": "A big cat habitat showcasing lions in an Algiers zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        3.019722,
+                        36.739495
+                  ]
+            },
+            {
+                  "name": "Vista point",
+                  "text": "An elevated scenic spot offering panoramic views over the cityscape of Algiers.",
+                  "category": "landmark",
+                  "coords": [
+                        3.060286,
+                        36.749251
+                  ]
+            },
+            {
+                  "name": "Chateau",
+                  "text": "A historic fortified castle structure overlooking parts of Algiers.",
+                  "category": "castle",
+                  "coords": [
+                        3.044019,
+                        36.747675
+                  ]
+            },
+            {
+                  "name": "escape room",
+                  "text": "An interactive, puzzle-based indoor escape room attraction in Algiers.",
+                  "category": "landmark",
+                  "coords": [
+                        3.028583,
+                        36.75622
+                  ]
+            },
+            {
+                  "name": "Les singes",
+                  "text": "A primate enclosure dedicated to monkeys in an Algiers wildlife park.",
+                  "category": "landmark",
+                  "coords": [
+                        3.009066,
+                        36.742828
+                  ]
+            },
+            {
+                  "name": "Cerf de Barbarie",
+                  "text": "A zoo habitat focused on the conservation of the native Barbary stag.",
+                  "category": "landmark",
+                  "coords": [
+                        3.00807,
+                        36.742628
+                  ]
+            },
+            {
+                  "name": "Hôtel Moncada",
+                  "text": "A scenic viewpoint positioned near the Hôtel Moncada, offering sweeping city vistas.",
+                  "category": "natural",
+                  "coords": [
+                        3.01447,
+                        36.740876
+                  ]
+            },
+            {
+                  "name": "Mini-Karting",
+                  "text": "This mini-karting attraction in Algiers offers a paved track for small motorized go-karts.",
+                  "category": "landmark",
+                  "coords": [
+                        3.022553,
+                        36.735602
+                  ]
+            },
+            {
+                  "name": "Palais du Peuple",
+                  "text": "This historic former Ottoman palace in Algiers now serves as a state building with traditional Moorish architecture.",
+                  "category": "castle",
+                  "coords": [
+                        3.046066,
+                        36.758924
+                  ]
+            },
+            {
+                  "name": "Mustapha Pasha Palace",
+                  "text": "This historic palace complex in Algiers features ornate tilework and courtyards typical of Ottoman-era elite residences.",
+                  "category": "castle",
+                  "coords": [
+                        3.048295,
+                        36.757091
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Zoo",
+                  "text": "This large zoological park in Algiers features numerous animal enclosures set within a wider forested urban recreation area.",
+                  "category": "recreational",
+                  "coords": [
+                        3.00691,
+                        36.743319
+                  ]
+            },
+            {
+                  "name": "Ben Aknoun Amusement Park",
+                  "text": "This sprawling national amusement park in Algiers combines mechanical rides with adjacent woodland trails and zoo access.",
+                  "category": "recreational",
+                  "coords": [
+                        3.0248,
+                        36.733953
+                  ]
+            },
+            {
+                  "name": "Embassy of France",
+                  "text": "The extensive, heavily guarded parklands surrounding the French diplomatic mission in Algiers feature lush, mature Mediterranean gardens.",
+                  "category": "park",
+                  "coords": [
+                        3.034867,
+                        36.750449
+                  ]
+            },
+            {
+                  "name": "Musée de la Protection Civile",
+                  "text": "This specialized museum in Algiers displays historic fire engines, rescue equipment, and uniforms of the national civil defense forces.",
+                  "category": "museum",
+                  "coords": [
+                        3.031374,
+                        36.747952
+                  ]
+            },
+            {
+                  "name": "National Museum of Antiquities and Islamic Art",
+                  "text": "This institution in Algiers houses extensive collections of Roman-era mosaics and centuries-old Islamic manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        3.046026,
+                        36.761582
+                  ]
+            },
+            {
+                  "name": "Embassy of the Kingdom of the Netherlands",
+                  "text": "The secure, landscaped grounds of the Dutch embassy in Algiers are characterized by well-maintained diplomatic gardens and native shade trees.",
+                  "category": "park",
+                  "coords": [
+                        3.030514,
+                        36.76204
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Azzedine Medjoubi",
+                  "text": "Named after a prominent Algerian actor, this cultural center provides spaces for local theatrical performances and artistic workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        3.056712,
+                        36.753694
+                  ]
+            },
+            {
+                  "name": "Centre culturel Lakhdar Rebah",
+                  "text": "This arts facility in Algiers supports the local community with exhibition rooms and multi-purpose halls for cultural education.",
+                  "category": "cultural",
+                  "coords": [
+                        3.062697,
+                        36.751208
+                  ]
+            },
+            {
+                  "name": "The African village",
+                  "text": "Located within an Algiers animal park, this thematic zoo zone exhibits species native to the African savanna and jungle environments.",
+                  "category": "recreational",
+                  "coords": [
+                        3.005739,
+                        36.750039
+                  ]
+            },
+            {
+                  "name": "Bardo National Museum of Prehistory and Ethnography",
+                  "text": "Housed in a beautifully restored Moorish villa, this museum displays ancient Saharan rock art and traditional Algerian ethnographic artifacts.",
+                  "category": "castle",
+                  "coords": [
+                        3.046327,
+                        36.760342
+                  ]
+            },
+            {
+                  "name": "Embassy of Brazil",
+                  "text": "The grounds of this South American diplomatic mission in Algiers feature secure gardens blended with local North African flora.",
+                  "category": "park",
+                  "coords": [
+                        3.032418,
+                        36.761035
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "DZ-16",
     coords: [3.0588, 36.7538],
@@ -45,7 +954,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "Das Palais du Bey ist ein bedeutender historischer Palast und ein Schloss in Oran.",
+                  "text": "1792 für den Bey von Oran erbautes Schloss, heute Museum, von Edmond Combarel entworfen.",
                   "category": "castle",
                   "coords": [
                         -0.649341,
@@ -227,7 +1136,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "A Palais du Bey egy jelentős történelmi palota és kastély Oránban.",
+                  "text": "1792-ben épült palota Oran bejének, ma múzeum, Edmond Combarel tervezte.",
                   "category": "castle",
                   "coords": [
                         -0.649341,
@@ -409,7 +1318,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "Palais du Bey este un palat și castel istoric notabil situat în Oran.",
+                  "text": "Palat construit în 1792 pentru Bey-ul Oranului, acum muzeu, proiectat de Edmond Combarel.",
                   "category": "castle",
                   "coords": [
                         -0.649341,
@@ -591,7 +1500,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "The Palais du Bey is a notable historic palace and castle located in Oran.",
+                  "text": "Built 1792 for the Bey of Oran, now a museum, designed by Edmond Combarel.",
                   "category": "castle",
                   "coords": [
                         -0.649341,
@@ -2664,7 +3573,268 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Batna est située à plus de 1 000 mètres d'altitude.", "La ville fut fondée comme camp militaire français sous le nom de \"Nouvelle Lambèse\".", "La région des Aurès est le foyer du peuple berbère Chaoui.", "Timgad, classée à l'UNESCO, n'est qu'à 35 km.", "Le 1er novembre 1954, début de la Révolution, y est fêté avec éclat.", "La ville est un carrefour de transport majeur dans l'est de l'Algérie.", "Elle compte environ 300 000 habitants.", "Les hivers peuvent y être froids et neigeux."],
     }, image: "/poi-images/batna-cities-v2.webp"},
   {
-    id: "djelfa-cities-v2",
+    id: "djelfa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mathaf almojahid",
+                  "text": "Dieses Museum in Djelfa widmet sich der Geschichte und den Opfern der algerischen Mudschaheddin.",
+                  "category": "museum",
+                  "coords": [
+                        3.24908,
+                        34.666966
+                  ]
+            },
+            {
+                  "name": "Break place",
+                  "text": "Dieser beliebte Rastplatz in Djelfa bietet Reisenden eine willkommene Pause in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        3.244801,
+                        34.687761
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Dieses Jugendhaus in Djelfa dient als lebendiges Zentrum für Kunst, Kultur und Gemeinschaftsaktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        3.249107,
+                        34.662595
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Dieses islamische Kulturzentrum fördert die religiöse und kulturelle Bildung in der Stadt Djelfa.",
+                  "category": "cultural",
+                  "coords": [
+                        3.269288,
+                        34.658629
+                  ]
+            },
+            {
+                  "name": "Musée anthropologique et d'art traditionnel",
+                  "text": "Dieses Museum in Djelfa präsentiert faszinierende Sammlungen zur lokalen Anthropologie und traditionellen Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        3.254499,
+                        34.675314
+                  ]
+            },
+            {
+                  "name": "La Poudriere",
+                  "text": "Dieses historische Schießpulvermagazin ist ein Zeugnis der militärischen Vergangenheit von Djelfa.",
+                  "category": "historical",
+                  "coords": [
+                        3.249718,
+                        34.672302
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Das Hauptkulturhaus von Djelfa ist ein zentraler Veranstaltungsort für künstlerische Darbietungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        3.256811,
+                        34.664601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mathaf almojahid",
+                  "text": "Ez a Djelfában található múzeum az algériai mudzsahedek történelmének és áldozatvállalásának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        3.24908,
+                        34.666966
+                  ]
+            },
+            {
+                  "name": "Break place",
+                  "text": "Ez a Djelfában található népszerű pihenőhely kellemes szünetet biztosít az utazóknak a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        3.244801,
+                        34.687761
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Ez a djelfai ifjúsági ház a művészet, a kultúra és a közösségi tevékenységek élénk központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        3.249107,
+                        34.662595
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Ez az iszlám kulturális központ a vallási és kulturális oktatást támogatja Djelfa városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.269288,
+                        34.658629
+                  ]
+            },
+            {
+                  "name": "Musée anthropologique et d'art traditionnel",
+                  "text": "Ez a djelfai múzeum lenyűgöző gyűjteményeket mutat be a helyi antropológiáról és a hagyományos művészetről.",
+                  "category": "museum",
+                  "coords": [
+                        3.254499,
+                        34.675314
+                  ]
+            },
+            {
+                  "name": "La Poudriere",
+                  "text": "Ez a történelmi lőporraktár Djelfa katonai múltjáról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        3.249718,
+                        34.672302
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Djelfa fő kulturális háza központi helyszíne a művészeti előadásoknak és kiállításoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        3.256811,
+                        34.664601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mathaf almojahid",
+                  "text": "Acest muzeu din Djelfa este dedicat istoriei și sacrificiilor mujahedinilor algerieni.",
+                  "category": "museum",
+                  "coords": [
+                        3.24908,
+                        34.666966
+                  ]
+            },
+            {
+                  "name": "Break place",
+                  "text": "Acest loc de popas popular din Djelfa oferă călătorilor o pauză binevenită în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        3.244801,
+                        34.687761
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Această casă de tineret din Djelfa servește ca un centru vibrant pentru artă, cultură și activități comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        3.249107,
+                        34.662595
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Acest centru cultural islamic promovează educația religioasă și culturală în orașul Djelfa.",
+                  "category": "cultural",
+                  "coords": [
+                        3.269288,
+                        34.658629
+                  ]
+            },
+            {
+                  "name": "Musée anthropologique et d'art traditionnel",
+                  "text": "Acest muzeu din Djelfa prezintă colecții fascinante de antropologie locală și artă tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        3.254499,
+                        34.675314
+                  ]
+            },
+            {
+                  "name": "La Poudriere",
+                  "text": "Această magazie istorică de praf de pușcă este o mărturie a trecutului militar al orașului Djelfa.",
+                  "category": "historical",
+                  "coords": [
+                        3.249718,
+                        34.672302
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Principala casă de cultură din Djelfa este un loc central pentru spectacole artistice și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        3.256811,
+                        34.664601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mathaf almojahid",
+                  "text": "This museum in Djelfa is dedicated to the history and sacrifices of the Algerian Mujahideen.",
+                  "category": "museum",
+                  "coords": [
+                        3.24908,
+                        34.666966
+                  ]
+            },
+            {
+                  "name": "Break place",
+                  "text": "This popular break place in Djelfa offers travelers a welcome rest stop in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        3.244801,
+                        34.687761
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "This youth house in Djelfa serves as a vibrant centre for arts, culture, and community activities.",
+                  "category": "cultural",
+                  "coords": [
+                        3.249107,
+                        34.662595
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "This Islamic cultural centre promotes religious and cultural education in the city of Djelfa.",
+                  "category": "cultural",
+                  "coords": [
+                        3.269288,
+                        34.658629
+                  ]
+            },
+            {
+                  "name": "Musée anthropologique et d'art traditionnel",
+                  "text": "This museum in Djelfa showcases fascinating collections of local anthropology and traditional art.",
+                  "category": "museum",
+                  "coords": [
+                        3.254499,
+                        34.675314
+                  ]
+            },
+            {
+                  "name": "La Poudriere",
+                  "text": "This historic gunpowder magazine is a testament to the military past of Djelfa.",
+                  "category": "historical",
+                  "coords": [
+                        3.249718,
+                        34.672302
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "The main house of culture in Djelfa is a central venue for artistic performances and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        3.256811,
+                        34.664601
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-17",
     coords: [3.25, 34.6667],
@@ -3695,7 +4865,124 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Biskra est le centre de la production de dattes en Algérie.", "La datte Deglet Nour est la principale variété d'exportation.", "La ville est située sur l'Oued Biskra, une rivière saisonnière.", "La source thermale Hammam Essalihine est connue depuis l'époque romaine.", "Henri Matisse y a peint en 1906 sa célèbre œuvre 'Nu bleu'.", "La population de la ville dépasse les 200 000 habitants.", "En hiver, le climat est doux, ce qui attire les touristes.", "Biskra était un important avant-poste romain nommé Vescera."],
     }, image: "/poi-images/biskra-cities-v2.webp"},
   {
-    id: "tebessa-cities-v2",
+    id: "tebessa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "CARACALLA'S GATE Tebessa",
+                  "text": "Dieses monumentale römische Bauwerk in Tébessa ist als prachtvoller Triumphbogen für Kaiser Caracalla bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        8.123064,
+                        35.404668
+                  ]
+            },
+            {
+                  "name": "L'étoile filante Tebessa",
+                  "text": "Diese befestigte historische Anlage in Tébessa ist ein markantes steinernes Monument in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        8.121725,
+                        35.403379
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "Dieser Vergnügungspark in Tébessa bietet zahlreiche Fahrgeschäfte und Erholungsflächen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        8.104408,
+                        35.411294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CARACALLA'S GATE Tebessa",
+                  "text": "Ez a monumentális tébessai római építmény Caracalla császár pompás diadalíveként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        8.123064,
+                        35.404668
+                  ]
+            },
+            {
+                  "name": "L'étoile filante Tebessa",
+                  "text": "Ez a megerősített tébessai történelmi komplexum a régió egyik feltűnő kőemléke.",
+                  "category": "castle",
+                  "coords": [
+                        8.121725,
+                        35.403379
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "Ez a tébessai vidámpark számos túrával és rekreációs területtel várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        8.104408,
+                        35.411294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CARACALLA'S GATE Tebessa",
+                  "text": "Această structură romană monumentală din Tébessa este cunoscută ca un splendid arc de triumf pentru împăratul Caracalla.",
+                  "category": "castle",
+                  "coords": [
+                        8.123064,
+                        35.404668
+                  ]
+            },
+            {
+                  "name": "L'étoile filante Tebessa",
+                  "text": "Acest complex istoric fortificat din Tébessa este un monument de piatră proeminent în regiune.",
+                  "category": "castle",
+                  "coords": [
+                        8.121725,
+                        35.403379
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "Acest parc tematic din Tébessa oferă numeroase atracții și zone de recreere pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        8.104408,
+                        35.411294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CARACALLA'S GATE Tebessa",
+                  "text": "This monumental Roman structure in Tébessa is renowned as a magnificent triumphal arch dedicated to Emperor Caracalla.",
+                  "category": "castle",
+                  "coords": [
+                        8.123064,
+                        35.404668
+                  ]
+            },
+            {
+                  "name": "L'étoile filante Tebessa",
+                  "text": "This fortified historical complex in Tébessa stands as a prominent stone monument in the region.",
+                  "category": "castle",
+                  "coords": [
+                        8.121725,
+                        35.403379
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "This theme park in Tébessa offers numerous rides and recreational areas for families.",
+                  "category": "recreational",
+                  "coords": [
+                        8.104408,
+                        35.411294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-12",
     coords: [8.1228, 35.4042],
@@ -4942,7 +6229,268 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Tahert était un carrefour important sur les routes commerciales vers l'Afrique de l'Ouest.", "L'empire rustamide était réputé pour sa tolérance religieuse.", "La ville moderne de Tiaret a été fondée en 1843 en tant que poste militaire français.", "La région est le berceau du cheval barbe.", "Le haras national « Juments de Tiaret » a été fondé en 1877.", "La population de la ville est d'environ 200 000 habitants.", "À proximité se trouvent les « Djeddars », tombeaux berbères monumentaux de l'Antiquité tardive.", "La ville est située à une altitude d'environ 980 mètres."],
     }, image: "/poi-images/tiaret-cities-v2.webp"},
   {
-    id: "bejaia-cities-v2",
+    id: "bejaia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théatre régional de Béjaïa",
+                  "text": "Ein regionales Theatergebäude, das sich der Inszenierung von Theaterstücken und kulturellen Aufführungen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.083311,
+                        36.752326
+                  ]
+            },
+            {
+                  "name": "Musée du Parc National de Gouraya",
+                  "text": "Ein naturhistorisches Museum, das die vielfältige Flora und Fauna des umliegenden Küstenschutzgebiets ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        5.051805,
+                        36.74914
+                  ]
+            },
+            {
+                  "name": "Place du 1er Novembre 1954",
+                  "text": "Ein zentraler städtischer Platz, der an ein wichtiges Datum in der nationalen Geschichte des Landes erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        5.085423,
+                        36.752534
+                  ]
+            },
+            {
+                  "name": "Porte dorée",
+                  "text": "Ein historisches monumentales Tor, das einst als großartiger Eingang in die Küstenstadt diente.",
+                  "category": "landmark",
+                  "coords": [
+                        5.087448,
+                        36.753342
+                  ]
+            },
+            {
+                  "name": "Fort Sidi Abdelkader",
+                  "text": "Eine Küstenfestung, die errichtet wurde, um den strategischen Hafen vor maritimen Bedrohungen zu schützen.",
+                  "category": "fortress",
+                  "coords": [
+                        5.090564,
+                        36.753344
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Taous Amrouche",
+                  "text": "Ein Kultur- und Kunstzentrum, in dem Ausstellungen, Aufführungen und Gemeindeworkshops stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.054408,
+                        36.750586
+                  ]
+            },
+            {
+                  "name": "Casbah de Béjaïa",
+                  "text": "Eine befestigte historische Zitadelle und eine Kulturerbestätte der Stufe 2, die 1154 gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083885,
+                        36.7513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théatre régional de Béjaïa",
+                  "text": "Színdarabok és kulturális előadások színrevitelének szentelt regionális színházépület.",
+                  "category": "cultural",
+                  "coords": [
+                        5.083311,
+                        36.752326
+                  ]
+            },
+            {
+                  "name": "Musée du Parc National de Gouraya",
+                  "text": "Természettudományi múzeum, amely a környező tengerparti rezervátum változatos növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.051805,
+                        36.74914
+                  ]
+            },
+            {
+                  "name": "Place du 1er Novembre 1954",
+                  "text": "A központi városi tér, amely az ország nemzeti történelmének egyik legfontosabb dátumának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        5.085423,
+                        36.752534
+                  ]
+            },
+            {
+                  "name": "Porte dorée",
+                  "text": "Történelmi monumentális kapu, amely egykor a tengerparti város nagyszerű bejárataként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        5.087448,
+                        36.753342
+                  ]
+            },
+            {
+                  "name": "Fort Sidi Abdelkader",
+                  "text": "Egy tengerparti erődítmény, amelyet a stratégiai kikötő tengeri fenyegetésektől való védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        5.090564,
+                        36.753344
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Taous Amrouche",
+                  "text": "Kulturális művészeti központ, amely kiállításoknak, előadásoknak és közösségi műhelyeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.054408,
+                        36.750586
+                  ]
+            },
+            {
+                  "name": "Casbah de Béjaïa",
+                  "text": "Egy megerősített történelmi fellegvár és 2. szintű örökségi helyszín, amelyet 1154-ben alapítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083885,
+                        36.7513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théatre régional de Béjaïa",
+                  "text": "O clădire de teatru regional, dedicată punerii în scenă a pieselor de teatru și a spectacolelor culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.083311,
+                        36.752326
+                  ]
+            },
+            {
+                  "name": "Musée du Parc National de Gouraya",
+                  "text": "Un muzeu de istorie naturală care expune flora și fauna diversă a rezervației de coastă înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        5.051805,
+                        36.74914
+                  ]
+            },
+            {
+                  "name": "Place du 1er Novembre 1954",
+                  "text": "O piață urbană centrală care comemorează o dată cheie în istoria națională a țării.",
+                  "category": "landmark",
+                  "coords": [
+                        5.085423,
+                        36.752534
+                  ]
+            },
+            {
+                  "name": "Porte dorée",
+                  "text": "O poartă monumentală istorică, care a servit cândva ca intrare grandioasă în orașul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        5.087448,
+                        36.753342
+                  ]
+            },
+            {
+                  "name": "Fort Sidi Abdelkader",
+                  "text": "O fortificație de coastă construită pentru a apăra portul strategic de amenințările maritime.",
+                  "category": "fortress",
+                  "coords": [
+                        5.090564,
+                        36.753344
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Taous Amrouche",
+                  "text": "Un centru de arte culturale care găzduiește expoziții, spectacole și ateliere comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        5.054408,
+                        36.750586
+                  ]
+            },
+            {
+                  "name": "Casbah de Béjaïa",
+                  "text": "O citadelă istorică fortificată și un sit de patrimoniu de nivel 2, înființat în 1154.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083885,
+                        36.7513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théatre régional de Béjaïa",
+                  "text": "A regional theater building dedicated to staging plays and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.083311,
+                        36.752326
+                  ]
+            },
+            {
+                  "name": "Musée du Parc National de Gouraya",
+                  "text": "A natural history museum exhibiting the diverse flora and fauna of the surrounding coastal reserve.",
+                  "category": "museum",
+                  "coords": [
+                        5.051805,
+                        36.74914
+                  ]
+            },
+            {
+                  "name": "Place du 1er Novembre 1954",
+                  "text": "A central urban square commemorating a key date in the country's national history.",
+                  "category": "landmark",
+                  "coords": [
+                        5.085423,
+                        36.752534
+                  ]
+            },
+            {
+                  "name": "Porte dorée",
+                  "text": "A historic monumental gate that once served as a grand entrance to the coastal city.",
+                  "category": "landmark",
+                  "coords": [
+                        5.087448,
+                        36.753342
+                  ]
+            },
+            {
+                  "name": "Fort Sidi Abdelkader",
+                  "text": "A coastal fortification built to defend the strategic harbor from maritime threats.",
+                  "category": "fortress",
+                  "coords": [
+                        5.090564,
+                        36.753344
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Taous Amrouche",
+                  "text": "A cultural arts center hosting exhibitions, performances, and community workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        5.054408,
+                        36.750586
+                  ]
+            },
+            {
+                  "name": "Casbah of Bejaia",
+                  "text": "A fortified historical citadel and Level 2 heritage site established in 1154.",
+                  "category": "landmark",
+                  "coords": [
+                        5.083885,
+                        36.7513
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-06",
     coords: [5.0847, 36.7511],
@@ -4977,7 +6525,52 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["C'est ici que Fibonacci découvrit les chiffres arabes au XIIe siècle.", "Le mot \"bougie\" vient du nom de la ville, qui exportait de la cire.", "Le port de Béjaïa est le premier port pétrolier d'Algérie.", "Le parc national de Gouraya est une réserve de biosphère de l'UNESCO.", "La Casbah de Béjaïa témoigne de son passé espagnol et ottoman.", "Elle est la plus grande ville de Kabylie.", "Béjaïa compte environ 180 000 habitants.", "Le cap Carbon possède l'un des phares les plus hauts de Méditerranée."],
     }, image: "/poi-images/bejaia-cities-v2.webp"},
   {
-    id: "tlemcen-cities-v2",
+    id: "tlemcen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bab El Kermadine",
+                  "text": "Dieses historische, monumentale Tor in Tlemcen zeigt die traditionelle nordafrikanische Verteidigungsarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.316492,
+                        34.886418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bab El Kermadine",
+                  "text": "Ez a történelmi, monumentális kapu Tlemcenben a hagyományos észak-afrikai védelmi építészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.316492,
+                        34.886418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bab El Kermadine",
+                  "text": "Această poartă monumentală istorică din Tlemcen prezintă arhitectura defensivă tradițională nord-africană.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.316492,
+                        34.886418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bab El Kermadine",
+                  "text": "This historic monumental gate in Tlemcen showcases traditional North African defensive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.316492,
+                        34.886418
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-13",
     coords: [-1.3167, 34.8833],
@@ -6332,7 +7925,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["La ville était la demeure du célèbre saint soufi Sidi Lakhdar Ben Khlouf.", "Mostaganem fut une base du corsaire Kheireddine Barberousse au XVIe siècle.", "L'université Abdelhamid Ibn Badis est l'une des plus grandes du pays.", "La population s'élève à plus de 145 000 habitants.", "Les plages des Sablettes sont une destination estivale prisée.", "La ville est réputée pour ses festivals annuels de culture et de musique.", "Mostaganem est reliée à la métropole voisine d'Oran par une autoroute.", "La ville possède un vieux quartier bien conservé nommé Tijditt."],
     }, image: "/poi-images/mostaganem-cities-v2.webp"},
   {
-    id: "bordj-bou-arreridj-cities-v2",
+    id: "bordj-bou-arreridj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salle des Fêtes",
+                  "text": "Der Salle des Fêtes in Bordj Bou Arreridj ist ein festliches Theater und ein zentraler Veranstaltungssaal für gesellschaftliche Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.762708,
+                        36.072431
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction",
+                  "text": "Der Freizeitpark in Bordj Bou Arreridj bietet als Themenpark eine Vielzahl an Fahrgeschäften und Outdoor-Attraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        4.777517,
+                        36.064588
+                  ]
+            },
+            {
+                  "name": "Bordj El Mokrani",
+                  "text": "Das Monument Bordj El Mokrani in Bordj Bou Arreridj ist eine massive steinerne Festung, die an den historischen Widerstand in der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        4.761205,
+                        36.072605
+                  ]
+            },
+            {
+                  "name": "Musée El Moujahid",
+                  "text": "Das Al-Mujahid-Museum in Bordj Bou Arreridj dokumentiert durch zahlreiche Kriegsexponate den heldenhaften algerischen Befreiungskampf.",
+                  "category": "museum",
+                  "coords": [
+                        4.76292,
+                        36.073548
+                  ]
+            },
+            {
+                  "name": "Maison de culture Mohamed Boudiaf",
+                  "text": "Das Kulturhaus Mohamed Boudiaf in Bordj Bou Arreridj fungiert als kulturelles Kunstzentrum, in dem regionale Ausstellungen und Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        4.749545,
+                        36.073772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salle des Fêtes",
+                  "text": "A Bordj Bou Arreridj-ben található Salle des Fêtes egy ünnepi színház és társadalmi előadások központi rendezvényterme.",
+                  "category": "cultural",
+                  "coords": [
+                        4.762708,
+                        36.072431
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction",
+                  "text": "A Bordj Bou Arreridj-i vidámpark tematikus parkként különféle játékelemeket és szabadtéri attrakciókat kínál a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        4.777517,
+                        36.064588
+                  ]
+            },
+            {
+                  "name": "Bordj El Mokrani",
+                  "text": "A Bordj Bou Arreridj-i Bordj El Mokrani emlékmű egy masszív kőerőd, amely a régió történelmi ellenállásának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        4.761205,
+                        36.072605
+                  ]
+            },
+            {
+                  "name": "Musée El Moujahid",
+                  "text": "A Bordj Bou Arreridj-i Al-Mudzsahed Múzeum számos háborús kiállítási tárggyal dokumentálja a hősies algériai felszabadító küzdelmet.",
+                  "category": "museum",
+                  "coords": [
+                        4.76292,
+                        36.073548
+                  ]
+            },
+            {
+                  "name": "Maison de culture Mohamed Boudiaf",
+                  "text": "A Bordj Bou Arreridj-i Mohamed Boudiaf Kultúrház művészeti központként működik, ahol regionális kiállításokat és rendezvényeket tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        4.749545,
+                        36.073772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salle des Fêtes",
+                  "text": "Salle des Fêtes din Bordj Bou Arreridj este un teatru festiv și o sală centrală pentru spectacole și evenimente sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        4.762708,
+                        36.072431
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction",
+                  "text": "Parcul de distracții din Bordj Bou Arreridj oferă, ca parc tematic, o varietate de atracții și curse în aer liber pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        4.777517,
+                        36.064588
+                  ]
+            },
+            {
+                  "name": "Bordj El Mokrani",
+                  "text": "Monumentul Bordj El Mokrani din Bordj Bou Arreridj este o fortăreață masivă de piatră care comemorează rezistența istorică din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        4.761205,
+                        36.072605
+                  ]
+            },
+            {
+                  "name": "Musée El Moujahid",
+                  "text": "Muzeul Al-Mujahid din Bordj Bou Arreridj documentează lupta eroică de eliberare a Algeriei prin numeroase exponate de război.",
+                  "category": "museum",
+                  "coords": [
+                        4.76292,
+                        36.073548
+                  ]
+            },
+            {
+                  "name": "Maison de culture Mohamed Boudiaf",
+                  "text": "Casa de cultură Mohamed Boudiaf din Bordj Bou Arreridj servește drept centru de artă, găzduind expoziții și evenimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        4.749545,
+                        36.073772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salle des Fêtes",
+                  "text": "The Salle des Fêtes in Bordj Bou Arreridj is a festive theatre and a central events hall for social performances.",
+                  "category": "cultural",
+                  "coords": [
+                        4.762708,
+                        36.072431
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction",
+                  "text": "The amusement park in Bordj Bou Arreridj acts as a theme park offering a variety of rides and outdoor attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        4.777517,
+                        36.064588
+                  ]
+            },
+            {
+                  "name": "Bordj El Mokrani",
+                  "text": "The Bordj El Mokrani monument in Bordj Bou Arreridj is a massive stone fortress commemorating the region's historic resistance.",
+                  "category": "historical",
+                  "coords": [
+                        4.761205,
+                        36.072605
+                  ]
+            },
+            {
+                  "name": "Al-Mujahid Museum",
+                  "text": "The Al-Mujahid Museum in Bordj Bou Arreridj documents the heroic Algerian struggle for independence through numerous wartime exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        4.76292,
+                        36.073548
+                  ]
+            },
+            {
+                  "name": "Maison de culture Mohamed Boudiaf",
+                  "text": "The Mohamed Boudiaf House of Culture in Bordj Bou Arreridj functions as a cultural arts centre hosting regional exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.749545,
+                        36.073772
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-34",
     coords: [4.7611, 36.0686],
@@ -7004,7 +8786,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Médéa était la capitale du beylick ottoman du Titteri.", "Les Français ont conquis la ville en 1840 après d'intenses combats.", "La ville est située à plus de 900 mètres d'altitude.", "Médéa est connue pour sa fête annuelle de la cerise.", "Le col de la Chiffa voisin est un site naturel célèbre.", "Le nom de la ville dérive du latin 'Lambdia'.", "On cultive le vin dans la région depuis l'Antiquité.", "Médéa est un centre religieux important avec plusieurs zaouïas."],
     }, image: "/poi-images/medea-cities-v2.webp"},
   {
-    id: "el-eulma-cities-v2",
+    id: "el-eulma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doubai",
+                  "text": "Doubai in El Eulma ist ein lebhafter Markt- und Handelskomplex, der für seine vielfältigen Einkaufsmöglichkeiten und Importwaren bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.678174,
+                        36.155072
+                  ]
+            },
+            {
+                  "name": "Chairluxe",
+                  "text": "Chairluxe in El Eulma ist eine lokale Attraktion und ein bekannter Treffpunkt, der fest in das städtische Leben eingebunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.672519,
+                        36.155292
+                  ]
+            },
+            {
+                  "name": "Theatre",
+                  "text": "Das Theater in El Eulma ist ein wichtiger städtischer Veranstaltungsort für kulturelle Bühnenaufführungen und lokale Theaterstücke.",
+                  "category": "cultural",
+                  "coords": [
+                        5.692599,
+                        36.149107
+                  ]
+            },
+            {
+                  "name": "Musée municipal",
+                  "text": "Das städtische Museum in El Eulma stellt historische Exponate zur lokalen Geschichte und Kultur der Region Sétif aus.",
+                  "category": "museum",
+                  "coords": [
+                        5.688013,
+                        36.153202
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Das Kulturzentrum in El Eulma dient als vielseitige Begegnungsstätte für künstlerische Aktivitäten und lokale Gemeinschaftsveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.679486,
+                        36.153168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doubai",
+                  "text": "Az El Eulma-i Doubai egy nyüzsgő kereskedelmi komplexum, amely a változatos bevásárlási lehetőségeiről és importcikkeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        5.678174,
+                        36.155072
+                  ]
+            },
+            {
+                  "name": "Chairluxe",
+                  "text": "Az El Eulma-i Chairluxe egy helyi látványosság és kedvelt találkozóhely a nyüzsgő városi életben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.672519,
+                        36.155292
+                  ]
+            },
+            {
+                  "name": "Theatre",
+                  "text": "Az El Eulma-i színház fontos városi helyszíne a kulturális előadásoknak és a helyi színpadi daraboknak.",
+                  "category": "cultural",
+                  "coords": [
+                        5.692599,
+                        36.149107
+                  ]
+            },
+            {
+                  "name": "Musée municipal",
+                  "text": "Az El Eulma-i Városi Múzeum a Sétif régió helytörténeti és kulturális emlékeit mutatja be a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        5.688013,
+                        36.153202
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Az El Eulma-i kulturális központ sokoldalú találkozóhely a művészeti tevékenységek és a helyi közösségi rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        5.679486,
+                        36.153168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doubai",
+                  "text": "Doubai din El Eulma este un complex comercial plin de viață, renumit pentru opțiunile sale diverse de cumpărături și mărfurile de import.",
+                  "category": "landmark",
+                  "coords": [
+                        5.678174,
+                        36.155072
+                  ]
+            },
+            {
+                  "name": "Chairluxe",
+                  "text": "Chairluxe din El Eulma este o atracție locală și un punct de întâlnire popular integrat în viața urbană a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        5.672519,
+                        36.155292
+                  ]
+            },
+            {
+                  "name": "Theatre",
+                  "text": "Teatrul din El Eulma este un loc urban important pentru spectacole culturale și piese de teatru locale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.692599,
+                        36.149107
+                  ]
+            },
+            {
+                  "name": "Musée municipal",
+                  "text": "Muzeul municipal din El Eulma prezintă exponate legate de istoria și cultura locală a regiunii Sétif.",
+                  "category": "museum",
+                  "coords": [
+                        5.688013,
+                        36.153202
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "Centrul cultural din El Eulma servește drept spațiu versatil de întâlnire pentru activități artistice și evenimente ale comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.679486,
+                        36.153168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doubai",
+                  "text": "Doubai in El Eulma is a bustling commercial complex known for its diverse shopping options and imported goods.",
+                  "category": "landmark",
+                  "coords": [
+                        5.678174,
+                        36.155072
+                  ]
+            },
+            {
+                  "name": "Chairluxe",
+                  "text": "Chairluxe in El Eulma is a local attraction and popular meeting point integrated into the urban life of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        5.672519,
+                        36.155292
+                  ]
+            },
+            {
+                  "name": "Theatre",
+                  "text": "The Theatre in El Eulma is an important urban venue for cultural stage performances and local plays.",
+                  "category": "cultural",
+                  "coords": [
+                        5.692599,
+                        36.149107
+                  ]
+            },
+            {
+                  "name": "Musée municipal",
+                  "text": "The municipal museum in El Eulma presents historical exhibits relating to the local history and culture of the Sétif region.",
+                  "category": "museum",
+                  "coords": [
+                        5.688013,
+                        36.153202
+                  ]
+            },
+            {
+                  "name": "Centre culturel",
+                  "text": "The cultural centre in El Eulma serves as a versatile gathering place for artistic activities and local community events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.679486,
+                        36.153168
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-19",
     coords: [5.6833, 36.15],
@@ -7379,7 +9350,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée en 1048 par des musulmans ibadites.", "Patrimoine mondial de l'UNESCO depuis 1982.", "La vallée du M'zab comprend cinq cités fortifiées (ksour).", "L'architecture a inspiré Le Corbusier.", "Le bruit et le tabac sont traditionnellement interdits sur le marché.", "L'oasis compte plus de 60 000 palmiers-dattiers.", "Les maisons sont construites pour un refroidissement naturel.", "Les Mozabites parlent leur propre langue berbère."],
     }, image: "/poi-images/ghardaia-cities-v2.webp"},
   {
-    id: "saida-cities-v2",
+    id: "saida-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baalilou Game Zone",
+                  "text": "Diese Freizeitattraktion bietet Spiel und Unterhaltung im urbanen Umfeld von Saida.",
+                  "category": "landmark",
+                  "coords": [
+                        0.154032,
+                        34.834817
+                  ]
+            },
+            {
+                  "name": "Djeladjel Hamid",
+                  "text": "Diese historische Burgstruktur zeugt von der reichen architektonischen Vergangenheit der Stadt Saida.",
+                  "category": "castle",
+                  "coords": [
+                        0.152343,
+                        34.835383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baalilou Game Zone",
+                  "text": "Ez a szabadidős létesítmény játékot és szórakozást kínál Saida városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.154032,
+                        34.834817
+                  ]
+            },
+            {
+                  "name": "Djeladjel Hamid",
+                  "text": "Ez a történelmi kastélyépület Saida város gazdag építészeti múltjáról tanúskodik.",
+                  "category": "castle",
+                  "coords": [
+                        0.152343,
+                        34.835383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baalilou Game Zone",
+                  "text": "Această zonă de agrement oferă jocuri și divertisment în mediul urban din Saida.",
+                  "category": "landmark",
+                  "coords": [
+                        0.154032,
+                        34.834817
+                  ]
+            },
+            {
+                  "name": "Djeladjel Hamid",
+                  "text": "Această structură de castel istoric mărturisește trecutul arhitectural bogat al orașului Saida.",
+                  "category": "castle",
+                  "coords": [
+                        0.152343,
+                        34.835383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baalilou Game Zone",
+                  "text": "This recreational game zone offers play and entertainment in the urban setting of Saida.",
+                  "category": "landmark",
+                  "coords": [
+                        0.154032,
+                        34.834817
+                  ]
+            },
+            {
+                  "name": "Djeladjel Hamid",
+                  "text": "This historic castle structure bears witness to the rich architectural past of the city of Saida.",
+                  "category": "castle",
+                  "coords": [
+                        0.152343,
+                        34.835383
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-20",
     coords: [0.1517, 34.8303],
@@ -8814,7 +10866,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée par les Français en 1852.", "Siège d'usines de montage automobile (ex. Volkswagen).", "L'oued Mina alimente l'irrigation.", "Important producteur de coton du pays.", "Abrite le sanctuaire soufi de Sidi M'hamed Benaouda.", "Située à environ 90 mètres d'altitude.", "Célèbre pour ses fêtes équestres traditionnelles (Waada).", "Nœud de communication entre Oran et Alger."],
     }, image: "/poi-images/relizane-cities-v2.webp"},
   {
-    id: "guelma-cities-v2",
+    id: "guelma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "cancassaur",
+                  "text": "Dieses lokale Steindenkmal ist ein markanter Orientierungspunkt im Stadtgebiet von Guelma.",
+                  "category": "historical",
+                  "coords": [
+                        7.426508,
+                        36.465971
+                  ]
+            },
+            {
+                  "name": "Car m",
+                  "text": "Diese städtische Attraktion bereichert das kulturelle Angebot der algerischen Stadt Guelma.",
+                  "category": "landmark",
+                  "coords": [
+                        7.429728,
+                        36.463577
+                  ]
+            },
+            {
+                  "name": "Centre de loisir scientifique",
+                  "text": "Dieses Zentrum in Guelma fördert die wissenschaftliche Bildung durch interaktive Ausstellungen und Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        7.423484,
+                        36.461028
+                  ]
+            },
+            {
+                  "name": "cite khalla",
+                  "text": "Dieses städtische Monument befindet sich im Viertel Cité Khalla und prägt das lokale Straßenbild von Guelma.",
+                  "category": "historical",
+                  "coords": [
+                        7.443136,
+                        36.455186
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Dieses Kulturzentrum in Guelma dient als zentraler Veranstaltungsort für lokale Kunstausstellungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.423893,
+                        36.458789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cancassaur",
+                  "text": "Ez a helyi kőemlékmű egy feltűnő tájékozódási pont Guelma városi területén.",
+                  "category": "historical",
+                  "coords": [
+                        7.426508,
+                        36.465971
+                  ]
+            },
+            {
+                  "name": "Car m",
+                  "text": "Ez a városi látványosság gazdagítja az algériai Guelma város kulturális kínálatát.",
+                  "category": "landmark",
+                  "coords": [
+                        7.429728,
+                        36.463577
+                  ]
+            },
+            {
+                  "name": "Centre de loisir scientifique",
+                  "text": "Ez a guelmai központ interaktív kiállításokon és tevékenységeken keresztül népszerűsíti a tudományos oktatást.",
+                  "category": "landmark",
+                  "coords": [
+                        7.423484,
+                        36.461028
+                  ]
+            },
+            {
+                  "name": "cite khalla",
+                  "text": "Ez a városi emlékmű a Cité Khalla negyedben található, és Guelma helyi utcaképét formálja.",
+                  "category": "historical",
+                  "coords": [
+                        7.443136,
+                        36.455186
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Ez a guelmai kulturális központ központi helyszínként szolgál a helyi művészeti kiállítások és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.423893,
+                        36.458789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cancassaur",
+                  "text": "Acest monument local din piatră este un punct de reper izbitor în zona urbană Guelma.",
+                  "category": "historical",
+                  "coords": [
+                        7.426508,
+                        36.465971
+                  ]
+            },
+            {
+                  "name": "Car m",
+                  "text": "Această atracție urbană îmbogățește oferta culturală a orașului algerian Guelma.",
+                  "category": "landmark",
+                  "coords": [
+                        7.429728,
+                        36.463577
+                  ]
+            },
+            {
+                  "name": "Centre de loisir scientifique",
+                  "text": "Acest centru din Guelma promovează educația științifică prin expoziții și activități interactive.",
+                  "category": "landmark",
+                  "coords": [
+                        7.423484,
+                        36.461028
+                  ]
+            },
+            {
+                  "name": "cite khalla",
+                  "text": "Acest monument urban este situat în cartierul Cité Khalla și modelează peisajul stradal local din Guelma.",
+                  "category": "historical",
+                  "coords": [
+                        7.443136,
+                        36.455186
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Acest centru cultural din Guelma servește drept loc central pentru expoziții de artă și spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.423893,
+                        36.458789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cancassaur",
+                  "text": "This local stone monument stands as a striking landmark in the urban area of Guelma.",
+                  "category": "historical",
+                  "coords": [
+                        7.426508,
+                        36.465971
+                  ]
+            },
+            {
+                  "name": "Car m",
+                  "text": "This urban attraction enriches the cultural offerings of the Algerian city of Guelma.",
+                  "category": "landmark",
+                  "coords": [
+                        7.429728,
+                        36.463577
+                  ]
+            },
+            {
+                  "name": "Centre de loisir scientifique",
+                  "text": "This center in Guelma promotes scientific education through interactive exhibitions and activities.",
+                  "category": "landmark",
+                  "coords": [
+                        7.423484,
+                        36.461028
+                  ]
+            },
+            {
+                  "name": "cite khalla",
+                  "text": "This urban monument is located in the Cité Khalla district and shapes the local streetscape of Guelma.",
+                  "category": "historical",
+                  "coords": [
+                        7.443136,
+                        36.455186
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "This cultural center in Guelma serves as a central venue for local art exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.423893,
+                        36.458789
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-24",
     coords: [7.4286, 36.4622],
@@ -9072,7 +11313,124 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Deux bassins romains circulaires de Hammam Essalihine sont encore utilisés.", "Khenchela est située à environ 1 200 mètres d'altitude.", "La région était la base de la reine berbère Dihya (la Kahina).", "Célèbre pour son miel et ses noix de haute qualité.", "L'Aurès abrite le mont Chelia, point culminant du nord de l'Algérie.", "Centre important des forêts de cèdres algériennes.", "Le nom de la ville provient de la Mascula numide."],
     }, image: "/poi-images/khenchela-cities-v2.webp"},
   {
-    id: "bousaada-cities-v2",
+    id: "bousaada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Auberge Mofdi Zakaria",
+                  "text": "Die Auberge Mofdi Zakaria ist ein lebendiges Kunstzentrum in Bou Saâda, das der Bewahrung der regionalen algerischen Kultur gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        4.184757,
+                        35.208994
+                  ]
+            },
+            {
+                  "name": "Fort Cavaignac",
+                  "text": "Das Fort Cavaignac ist eine Festung aus der französischen Kolonialzeit, die strategisch auf einem Hügel über der Oasenstadt Bou Saâda thront.",
+                  "category": "castle",
+                  "coords": [
+                        4.178944,
+                        35.213978
+                  ]
+            },
+            {
+                  "name": "Musée de Moudjahid",
+                  "text": "Das Musée de Moudjahid in Bou Saâda widmet sich mit historischen Ausstellungen dem algerischen Unabhängigkeitskrieg.",
+                  "category": "museum",
+                  "coords": [
+                        4.177064,
+                        35.218277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auberge Mofdi Zakaria",
+                  "text": "Az Auberge Mofdi Zakaria egy helyi művészeti központ Bou Saâdában, amely a regionális algériai kulturális örökséget mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        4.184757,
+                        35.208994
+                  ]
+            },
+            {
+                  "name": "Fort Cavaignac",
+                  "text": "A Fort Cavaignac egy dombtetőn emelt francia gyarmati erődítmény, amely a sivatagi Bou Saâda oázisvárosára néz.",
+                  "category": "castle",
+                  "coords": [
+                        4.178944,
+                        35.213978
+                  ]
+            },
+            {
+                  "name": "Musée de Moudjahid",
+                  "text": "A Bou Saâda-i Musée de Moudjahid az algériai függetlenségi háború emlékeit és történelmi relikviáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.177064,
+                        35.218277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auberge Mofdi Zakaria",
+                  "text": "Auberge Mofdi Zakaria este un centru de arte din Bou Saâda dedicat păstrării patrimoniului cultural algerian regional.",
+                  "category": "cultural",
+                  "coords": [
+                        4.184757,
+                        35.208994
+                  ]
+            },
+            {
+                  "name": "Fort Cavaignac",
+                  "text": "Fort Cavaignac este o fortăreață de pe un deal din perioada colonială franceză, situată deasupra orașului-oază Bou Saâda.",
+                  "category": "castle",
+                  "coords": [
+                        4.178944,
+                        35.213978
+                  ]
+            },
+            {
+                  "name": "Musée de Moudjahid",
+                  "text": "Muzeul Moudjahid din Bou Saâda este dedicat istoriei și memoriei Războiului de Independență algerian.",
+                  "category": "museum",
+                  "coords": [
+                        4.177064,
+                        35.218277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auberge Mofdi Zakaria",
+                  "text": "Auberge Mofdi Zakaria is an arts centre in Bou Saâda dedicated to the preservation of regional Algerian cultural heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        4.184757,
+                        35.208994
+                  ]
+            },
+            {
+                  "name": "Fort Cavaignac",
+                  "text": "Fort Cavaignac is a hilltop fortress from the French colonial era strategically positioned above the oasis city of Bou Saâda.",
+                  "category": "castle",
+                  "coords": [
+                        4.178944,
+                        35.213978
+                  ]
+            },
+            {
+                  "name": "Musée de Moudjahid",
+                  "text": "The Musée de Moudjahid in Bou Saâda features historical exhibits dedicated to the Algerian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        4.177064,
+                        35.218277
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-28",
     coords: [4.1833, 35.2167],
@@ -10074,7 +12432,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée en 1871 par les Français.", "Connue pour son huile d'olive de haute qualité.", "Le barrage de Tilesdit est l'un des plus grands d'Algérie.", "Tikjda est célèbre pour ses forêts de cèdres et ses macaques de Barbarie.", "Gare importante sur la ligne de chemin de fer Alger-Constantine.", "Réputée pour sa poterie kabyle traditionnelle.", "La ville est située à environ 520 mètres d'altitude.", "Porte d'entrée du parc national du Djurdjura."],
     }, image: "/poi-images/bouira-cities-v2.webp"},
   {
-    id: "tissemsilt-cities-v2",
+    id: "tissemsilt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Das Théâtre de verdure in Tissemsilt ist ein grünes Freilicht-Amphitheater, das für regionale Kulturveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        1.81508,
+                        35.593718
+                  ]
+            },
+            {
+                  "name": "Maison de culture",
+                  "text": "Dieses lokale Kulturhaus in Tissemsilt unterstützt kommunale Kunstprogramme und regionale Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.808612,
+                        35.604222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "A Tissemsiltben található Théâtre de verdure egy zöld, szabadtéri amfiteátrum, amelyet regionális kulturális rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        1.81508,
+                        35.593718
+                  ]
+            },
+            {
+                  "name": "Maison de culture",
+                  "text": "Ez a helyi Kultúrház Tissemsiltben közösségi művészeti programokat és regionális kiállításokat támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        1.808612,
+                        35.604222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Théâtre de verdure din Tissemsilt este un amfiteatru verde, în aer liber, folosit pentru evenimente culturale regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.81508,
+                        35.593718
+                  ]
+            },
+            {
+                  "name": "Maison de culture",
+                  "text": "Această Casă a Culturii locală din Tissemsilt sprijină programele de artă comunitară și expozițiile regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.808612,
+                        35.604222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "The Théâtre de verdure in Tissemsilt is a green, open-air amphitheater used for regional cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.81508,
+                        35.593718
+                  ]
+            },
+            {
+                  "name": "Maison de culture",
+                  "text": "This local House of Culture in Tissemsilt supports community arts programs and regional exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        1.808612,
+                        35.604222
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-38",
     coords: [1.8106, 35.6072],
@@ -10897,7 +13336,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée au Ier siècle apr. J.-C. par les Romains sous le nom d'Oppidum Novum.", "Premier producteur de pommes de terre en Algérie.", "Le barrage de Ghrib alimente les champs environnants en eau.", "La vallée du Cheliff est particulièrement large à cet endroit.", "Étape importante sur la ligne de chemin de fer Alger-Oran.", "La sylviculture est pratiquée dans les montagnes voisines.", "La région abrite des sources thermales comme Hammam Righa.", "Située entre le Dahra et l'Ouarsenis."],
     }, image: "/poi-images/ain-defla-cities-v2.webp"},
   {
-    id: "tipaza-cities-v2",
+    id: "tipaza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Arabe d’Archéologie",
+                  "text": "Ein Museum, das antike Artefakte und historische Überreste der arabischen Kultur ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        2.458553,
+                        36.59175
+                  ]
+            },
+            {
+                  "name": "Corne d'or",
+                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste, der kulturelle Shows in der Nähe der Küste bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        2.471336,
+                        36.59469
+                  ]
+            },
+            {
+                  "name": "Plage CET",
+                  "text": "Ein langer Sandstrand, der Zugang zum warmen Mittelmeer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.478632,
+                        36.592405
+                  ]
+            },
+            {
+                  "name": "Tipazia Parc",
+                  "text": "Ein familienfreundlicher Freizeitpark, der eine Vielzahl von Fahrgeschäften und Freizeitaktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.464718,
+                        36.583691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Arabe d’Archéologie",
+                  "text": "Az arab kultúra ókori leleteit és történelmi emlékeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        2.458553,
+                        36.59175
+                  ]
+            },
+            {
+                  "name": "Corne d'or",
+                  "text": "A tengerpart közelében található helyi előadó-művészeti helyszín, amely kulturális műsorokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        2.471336,
+                        36.59469
+                  ]
+            },
+            {
+                  "name": "Plage CET",
+                  "text": "Egy homokos partszakasz, amely hozzáférést biztosít a meleg Földközi-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        2.478632,
+                        36.592405
+                  ]
+            },
+            {
+                  "name": "Tipazia Parc",
+                  "text": "Egy családbarát vidámpark, amely különféle túrákat és szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        2.464718,
+                        36.583691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Arabe d’Archéologie",
+                  "text": "Un muzeu care expune artefacte antice și rămășițe istorice ale culturii arabe.",
+                  "category": "museum",
+                  "coords": [
+                        2.458553,
+                        36.59175
+                  ]
+            },
+            {
+                  "name": "Corne d'or",
+                  "text": "Un loc local de artele spectacolului care oferă spectacole culturale în apropierea coastei.",
+                  "category": "cultural",
+                  "coords": [
+                        2.471336,
+                        36.59469
+                  ]
+            },
+            {
+                  "name": "Plage CET",
+                  "text": "O porțiune de coastă cu nisip care oferă acces la Marea Mediterană caldă.",
+                  "category": "recreational",
+                  "coords": [
+                        2.478632,
+                        36.592405
+                  ]
+            },
+            {
+                  "name": "Tipazia Parc",
+                  "text": "Un parc tematic pentru familii, care oferă o varietate de atracții și activități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        2.464718,
+                        36.583691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Arabe d’Archéologie",
+                  "text": "A museum showcasing ancient artifacts and historical remnants of Arab culture in Tipaza.",
+                  "category": "museum",
+                  "coords": [
+                        2.458553,
+                        36.59175
+                  ]
+            },
+            {
+                  "name": "Corne d'or",
+                  "text": "A local performing arts venue offering cultural shows near the Tipaza coast.",
+                  "category": "cultural",
+                  "coords": [
+                        2.471336,
+                        36.59469
+                  ]
+            },
+            {
+                  "name": "Plage CET",
+                  "text": "A stretch of sandy coastline providing access to the warm Mediterranean sea.",
+                  "category": "recreational",
+                  "coords": [
+                        2.478632,
+                        36.592405
+                  ]
+            },
+            {
+                  "name": "Tipazia Park",
+                  "text": "A family-friendly theme park offering a variety of rides and recreational activities for children and adults.",
+                  "category": "recreational",
+                  "coords": [
+                        2.464718,
+                        36.583691
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-42",
     coords: [2.46, 36.5897],
@@ -12339,7 +14931,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Située à plus de 2 000 km de la capitale Alger.", "Située en bordure du Tanezrouft, le 'pays de la soif'.", "Les températures estivales dépassent souvent 50 °C à l'ombre.", "Point de contrôle important pour le commerce légal avec le Mali.", "Les habitants sont principalement Touaregs et Berabish.", "Son propre aéroport est la seule liaison stable vers le nord.", "L'eau potable est pompée à plus de 800 mètres de profondeur.", "Directement sur la frontière avec le Mali."],
     }, image: "/poi-images/bordj-badji-mokhtar-cities-v2.webp"},
   {
-    id: "in-salah-cities-v2",
+    id: "in-salah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "manzel",
+                  "text": "Manzel ist ein regionales Museum, das die traditionelle Architektur der Sahara-Oasen und lokale kulturelle Artefakte von In Salah bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        2.472718,
+                        27.193275
+                  ]
+            },
+            {
+                  "name": "Ancient Theatre",
+                  "text": "Dieses Ancient Theatre ist ein historischer Veranstaltungsort für darstellende Künste, der im traditionellen Wüstenstil für lokale Zusammenkünfte erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        2.47301,
+                        27.197558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "manzel",
+                  "text": "A Manzel egy regionális múzeum, amely megőrzi In Salah hagyományos szaharai oázisépítészetét és helyi kulturális tárgyait.",
+                  "category": "museum",
+                  "coords": [
+                        2.472718,
+                        27.193275
+                  ]
+            },
+            {
+                  "name": "Ancient Theatre",
+                  "text": "Ez az ókori színház egy történelmi előadóművészeti helyszín, amely hagyományos sivatagi stílusban épült helyi összejövetelekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        2.47301,
+                        27.197558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "manzel",
+                  "text": "Manzel este un muzeu regional care păstrează arhitectura tradițională a oazelor sahariene și artefactele culturale locale din In Salah.",
+                  "category": "museum",
+                  "coords": [
+                        2.472718,
+                        27.193275
+                  ]
+            },
+            {
+                  "name": "Ancient Theatre",
+                  "text": "Acest Teatru Antic este o locație istorică pentru artele spectacolului, construită într-un stil tradițional de deșert pentru adunări locale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.47301,
+                        27.197558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "manzel",
+                  "text": "Manzel is a regional museum preserving the traditional Saharan oasis architecture and local cultural artifacts of In Salah.",
+                  "category": "museum",
+                  "coords": [
+                        2.472718,
+                        27.193275
+                  ]
+            },
+            {
+                  "name": "Ancient Theatre",
+                  "text": "This Ancient Theatre is a historical performing arts venue constructed in a traditional desert style for local gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        2.47301,
+                        27.197558
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-53",
     coords: [2.4733, 27.1944],
@@ -13045,7 +15718,124 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Le réseau de foggaras de Timimoun s'étend sur des centaines de kilomètres.", "Le matériau de construction caractéristique est la « tabia » — de l'argile rouge mélangée à de la paille.", "Le « Ksar de Draa » tout proche est une mystérieuse forteresse circulaire dans les dunes.", "Le S'boue comprend un pèlerinage d'une semaine et des manifestations culturelles.", "Célèbre pour ses couvertures en laine colorées tissées à la main.", "L'hôtel Oasis Rouge illustre le style colonial « néo-soudanais ».", "Les environs comptent de nombreuses Sebkha (lacs salés asséchés).", "Connue comme la « ville oasis rouge »."],
     }, image: "/poi-images/timimoun-cities-v2.webp"},
   {
-    id: "beni-abbes-cities-v2",
+    id: "beni-abbes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El ksiba",
+                  "text": "El ksiba umfasst die verwitterten Ruinen eines ehemaligen Wüstenaußenpostens in Beni Abbes.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167488,
+                        30.120416
+                  ]
+            },
+            {
+                  "name": "Hermitage Charles de Foucauld",
+                  "text": "Diese friedliche Einsiedelei wurde von dem französischen katholischen Priester Charles de Foucauld im Saharasand gegründet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16611,
+                        30.124706
+                  ]
+            },
+            {
+                  "name": "ksar Beni Abbes",
+                  "text": "Die stimmungsvollen Ruinen des Ksar Beni Abbes zeigen die Überreste eines traditionellen befestigten Saharadorfes.",
+                  "category": "historical",
+                  "coords": [
+                        -2.173046,
+                        30.123261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El ksiba",
+                  "text": "El ksiba egy egykori sivatagi előőrs viharvert romjait rejti Beni Abbesben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167488,
+                        30.120416
+                  ]
+            },
+            {
+                  "name": "Hermitage Charles de Foucauld",
+                  "text": "Ezt a békés remetelakot Charles de Foucauld francia katolikus pap alapította a szaharai homokban.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16611,
+                        30.124706
+                  ]
+            },
+            {
+                  "name": "ksar Beni Abbes",
+                  "text": "A Ksar Beni Abbes hangulatos romjai egy hagyományos szaharai erődített falu maradványait mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        -2.173046,
+                        30.123261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El ksiba",
+                  "text": "El ksiba prezintă ruinele erodate de vreme ale unui fost avanpost în deșert, situat în Beni Abbes.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167488,
+                        30.120416
+                  ]
+            },
+            {
+                  "name": "Hermitage Charles de Foucauld",
+                  "text": "Acest schit pașnic a fost înființat de preotul catolic francez Charles de Foucauld în nisipurile Saharei.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16611,
+                        30.124706
+                  ]
+            },
+            {
+                  "name": "ksar Beni Abbes",
+                  "text": "Ruinele pline de atmosferă ale Ksar Beni Abbes arată rămășițele unui sat tradițional saharian fortificat.",
+                  "category": "historical",
+                  "coords": [
+                        -2.173046,
+                        30.123261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El ksiba",
+                  "text": "El ksiba features the weathered ruins of a former desert outpost in Beni Abbes.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167488,
+                        30.120416
+                  ]
+            },
+            {
+                  "name": "Hermitage Charles de Foucauld",
+                  "text": "This peaceful hermitage was established by the French Catholic priest Charles de Foucauld in the Saharan sands.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16611,
+                        30.124706
+                  ]
+            },
+            {
+                  "name": "ksar Beni Abbes",
+                  "text": "The atmospheric ruins of Ksar Beni Abbes show the remains of a traditional Saharan fortified village.",
+                  "category": "historical",
+                  "coords": [
+                        -2.173046,
+                        30.123261
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-52",
     coords: [-2.1667, 30.1333],
@@ -13196,7 +15986,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Les moutons Ouled Djellal représentent plus de 60 % du cheptel national.", "Élevée au rang de chef-lieu de wilaya en 2019.", "De vastes puits artésiens alimentent l'agriculture.", "Réputée pour ses couteaux Boussaadi et ses articles en cuir.", "La wilaya abrite l'un des plus grands complexes de transformation de viande d'Algérie.", "Climat très sec, avec des précipitations annuelles inférieures à 150 mm.", "Grand marché à bestiaux, l'un des plus importants du pays.", "Située à l'ouest de Biskra."],
     }, image: "/poi-images/ouled-djellal-cities-v2.webp"},
   {
-    id: "khemis-miliana-cities-v2",
+    id: "khemis-miliana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Dieses Jugendzentrum in Khemis Miliana bietet Räume für künstlerische und kulturelle Aktivitäten für die lokale Gemeinschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        2.235424,
+                        36.264228
+                  ]
+            },
+            {
+                  "name": "Centre culturel municipal",
+                  "text": "Das städtische Kulturzentrum von Khemis Miliana dient als zentraler Knotenpunkt für lokale Kunst und öffentliche Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.218343,
+                        36.258554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Ez a Khemis Miliana-i ifjúsági központ művészeti és kulturális tevékenységekhez biztosít tereket a helyi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.235424,
+                        36.264228
+                  ]
+            },
+            {
+                  "name": "Centre culturel municipal",
+                  "text": "A Khemis Miliana-i Városi Kulturális Központ a helyi művészetek és nyilvános kiállítások központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        2.218343,
+                        36.258554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Acest centru de tineret din Khemis Miliana oferă spații pentru activități artistice și culturale pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        2.235424,
+                        36.264228
+                  ]
+            },
+            {
+                  "name": "Centre culturel municipal",
+                  "text": "Centrul cultural municipal din Khemis Miliana servește drept centru principal pentru artele locale și expozițiile publice.",
+                  "category": "cultural",
+                  "coords": [
+                        2.218343,
+                        36.258554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de jeunes",
+                  "text": "This youth center in Khemis Miliana provides spaces for artistic and cultural activities for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        2.235424,
+                        36.264228
+                  ]
+            },
+            {
+                  "name": "Centre culturel municipal",
+                  "text": "The Centre culturel municipal of Khemis Miliana serves as the central hub for local arts and public exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        2.218343,
+                        36.258554
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-44",
     coords: [2.2289, 36.2611],

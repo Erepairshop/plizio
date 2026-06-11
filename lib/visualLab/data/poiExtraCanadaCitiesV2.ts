@@ -6587,7 +6587,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre in the Square",
-                  "text": "Centre in the Square ist ein bedeutendes Zentrum für darstellende Künste in Kitchener.",
+                  "text": "Das im September 1980 von Carl Rieder entworfene Centre in the Square ist ein Wahrzeichen in Kitchener.",
                   "category": "cultural",
                   "coords": [
                         -80.483866,
@@ -7021,7 +7021,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre in the Square",
-                  "text": "A Centre in the Square egy kiemelkedő előadó-művészeti központ Kitchenerben.",
+                  "text": "Az 1980 szeptemberében megnyílt, Carl Rieder által tervezett Centre in the Square Kitchener nevezetessége.",
                   "category": "cultural",
                   "coords": [
                         -80.483866,
@@ -7455,7 +7455,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre in the Square",
-                  "text": "Centre in the Square este un proeminent centru de arte ale spectacolului în Kitchener.",
+                  "text": "Centrul Centre in the Square din Kitchener, deschis în septembrie 1980 și proiectat de Carl Rieder, este un reper.",
                   "category": "cultural",
                   "coords": [
                         -80.483866,
@@ -7889,7 +7889,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre in the Square",
-                  "text": "Centre in the Square is a prominent performing arts centre in Kitchener.",
+                  "text": "Opened in September 1980 and designed by Carl Rieder, this performing arts centre is a landmark in Kitchener.",
                   "category": "cultural",
                   "coords": [
                         -80.483866,

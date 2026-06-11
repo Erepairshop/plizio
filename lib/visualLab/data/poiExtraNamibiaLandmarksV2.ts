@@ -51,7 +51,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "tintenpalast-landmarks-v2",
+    id: "tintenpalast-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parlamentsgarten",
+                  "text": "Der Parliament Garden in tintenpalast-landmarks-v2 liegt direkt neben dem historischen Regierungsgebäude Tintenpalast.",
+                  "category": "landmark",
+                  "coords": [
+                        17.088187,
+                        -22.566625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parliament Garden",
+                  "text": "A tintenpalast-landmarks-v2-ben található Parliament Garden a történelmi Tintenpalast épülete mellett terül el.",
+                  "category": "landmark",
+                  "coords": [
+                        17.088187,
+                        -22.566625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parliament Garden",
+                  "text": "Parliament Garden din tintenpalast-landmarks-v2 este situat chiar lângă clădirea istorică Tintenpalast.",
+                  "category": "landmark",
+                  "coords": [
+                        17.088187,
+                        -22.566625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parliament Garden",
+                  "text": "The Parliament Garden in tintenpalast-landmarks-v2 is situated right next to the historic Tintenpalast government building.",
+                  "category": "landmark",
+                  "coords": [
+                        17.088187,
+                        -22.566625
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0888, -22.5667],
@@ -99,7 +144,88 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "independence-memorial-museum-landmarks-v2",
+    id: "independence-memorial-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum of Namibia (Services)",
+                  "text": "Das Nationalmuseum von Namibia widmet sich der Bewahrung historischer und kultureller Artefakte des Landes im Herzen von Windhoek.",
+                  "category": "museum",
+                  "coords": [
+                        17.087205,
+                        -22.569159
+                  ]
+            },
+            {
+                  "name": "Dr. António Agostinho Neto Square",
+                  "text": "Der Dr.-António-Agostinho-Neto-Platz ist ein öffentlicher Gedenkpark, der dem ersten Präsidenten von Angola gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        17.085696,
+                        -22.576052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum of Namibia (Services)",
+                  "text": "A Namíbiai Nemzeti Múzeum az ország történelmi és kulturális emlékeinek megőrzésére összpontosít Windhoek szívében.",
+                  "category": "museum",
+                  "coords": [
+                        17.087205,
+                        -22.569159
+                  ]
+            },
+            {
+                  "name": "Dr. António Agostinho Neto Square",
+                  "text": "A Dr. António Agostinho Neto tér egy nyilvános emlékpark, amelyet Angola első elnökének szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        17.085696,
+                        -22.576052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum of Namibia (Services)",
+                  "text": "Muzeul Național al Namibiei se concentrează pe conservarea artefactelor istorice și culturale ale țării, în inima orașului Windhoek.",
+                  "category": "museum",
+                  "coords": [
+                        17.087205,
+                        -22.569159
+                  ]
+            },
+            {
+                  "name": "Dr. António Agostinho Neto Square",
+                  "text": "Piața Dr. António Agostinho Neto este un parc memorial public dedicat primului președinte al Angolei.",
+                  "category": "park",
+                  "coords": [
+                        17.085696,
+                        -22.576052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Namibia (Services)",
+                  "text": "The National Museum of Namibia focuses on preserving the country's historical and cultural artifacts in the heart of Windhoek.",
+                  "category": "museum",
+                  "coords": [
+                        17.087205,
+                        -22.569159
+                  ]
+            },
+            {
+                  "name": "Dr. António Agostinho Neto Square",
+                  "text": "Dr. António Agostinho Neto Square is a public memorial park dedicated to the first president of Angola.",
+                  "category": "park",
+                  "coords": [
+                        17.085696,
+                        -22.576052
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0874, -22.5694],
@@ -147,7 +273,160 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "heroes-acre-windhoek-landmarks-v2",
+    id: "heroes-acre-windhoek-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kempinskiberg",
+                  "text": "Dieser felsige Gipfel in den Hügeln etwas außerhalb von Windhoek stellt eine markante topografische Besonderheit in der Nähe des monumentalen Heroes' Acre-Komplexes dar.",
+                  "category": "natural",
+                  "coords": [
+                        17.133512,
+                        -22.669201
+                  ]
+            },
+            {
+                  "name": "Heroes Acre View Point",
+                  "text": "Dieser Aussichtspunkt hoch oben auf der großen Treppe des Denkmals bietet ein weites Panorama über die moderne Skyline von Windhoek, die sich von den umliegenden Tälern abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        17.078388,
+                        -22.664806
+                  ]
+            },
+            {
+                  "name": "Grossherzog-Friedrich-Berg",
+                  "text": "Dieser bedeutende Gipfel in der Nähe der Hauptstadt dient als Orientierungspunkt und trägt zur rauen, hügeligen Topografie bei, die das Windhoeker Talbecken prägt.",
+                  "category": "natural",
+                  "coords": [
+                        17.060727,
+                        -22.709673
+                  ]
+            },
+            {
+                  "name": "Heldenacker",
+                  "text": "Dieser hoch aufragende, von Nordkoreanern erbaute Obelisk und Bronzestatuenkomplex dient als offizielles nationales Kriegerdenkmal Namibias und ehrt diejenigen, die für die Unabhängigkeit gekämpft haben.",
+                  "category": "historical",
+                  "coords": [
+                        17.077987,
+                        -22.662729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kempinskiberg",
+                  "text": "A Windhoek melletti dombok között emelkedő sziklás csúcs egy kiemelkedő topográfiai jellemző a monumentális Heroes' Acre komplexum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.133512,
+                        -22.669201
+                  ]
+            },
+            {
+                  "name": "Heroes Acre View Point",
+                  "text": "Az emlékmű nagy lépcsőjének magasán található kilátópont pazar panorámát nyújt Windhoek modern látképére és a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        17.078388,
+                        -22.664806
+                  ]
+            },
+            {
+                  "name": "Grossherzog-Friedrich-Berg",
+                  "text": "A főváros közelében található jelentős csúcs tájékozódási pontként szolgál, és hozzájárul a Windhoek-völgymedencét meghatározó zord, dombos domborzathoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.060727,
+                        -22.709673
+                  ]
+            },
+            {
+                  "name": "Heroes Acre",
+                  "text": "Ez a tornyosuló, észak-koreaiak által épített obeliszk és bronzszobor-komplexum Namíbia hivatalos nemzeti háborús emlékműveként szolgál, tisztelegve a függetlenségért harcolók előtt.",
+                  "category": "historical",
+                  "coords": [
+                        17.077987,
+                        -22.662729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kempinskiberg",
+                  "text": "Ridicându-se în dealurile de la marginea orașului Windhoek, acest vârf stâncos oferă o caracteristică topografică proeminentă lângă complexul monumental Heroes' Acre.",
+                  "category": "natural",
+                  "coords": [
+                        17.133512,
+                        -22.669201
+                  ]
+            },
+            {
+                  "name": "Heroes Acre View Point",
+                  "text": "Poziționat sus pe scara monumentală a monumentului, acest punct de belvedere domină o panoramă amplă peste orizontul modern al orașului Windhoek pe fundalul văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        17.078388,
+                        -22.664806
+                  ]
+            },
+            {
+                  "name": "Grossherzog-Friedrich-Berg",
+                  "text": "Acest vârf semnificativ de lângă capitală servește drept punct de reper pentru navigație și contribuie la topografia accidentată, deluroasă, care definește bazinul văii Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        17.060727,
+                        -22.709673
+                  ]
+            },
+            {
+                  "name": "Heroes Acre",
+                  "text": "Acest obelisc falnic și complex de statui de bronz construit de nord-coreeni servește drept memorial național oficial de război al Namibiei, onorând pe cei care au luptat pentru independență.",
+                  "category": "historical",
+                  "coords": [
+                        17.077987,
+                        -22.662729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kempinskiberg",
+                  "text": "Rising in the hills just outside Windhoek, this rocky peak provides a prominent topographical feature near the monumental Heroes' Acre complex.",
+                  "category": "natural",
+                  "coords": [
+                        17.133512,
+                        -22.669201
+                  ]
+            },
+            {
+                  "name": "Heroes Acre View Point",
+                  "text": "Positioned high up on the monument's grand staircase, this viewpoint commands a sweeping panorama over the modern skyline of Windhoek set against the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        17.078388,
+                        -22.664806
+                  ]
+            },
+            {
+                  "name": "Grossherzog-Friedrich-Berg",
+                  "text": "This significant peak near the capital serves as a navigational landmark and contributes to the rugged, hilly topography that defines the Windhoek valley basin.",
+                  "category": "natural",
+                  "coords": [
+                        17.060727,
+                        -22.709673
+                  ]
+            },
+            {
+                  "name": "Heroes Acre",
+                  "text": "This towering, North Korean-built obelisk and bronze statue complex serves as Namibia's official national war memorial, honoring those who fought for independence.",
+                  "category": "historical",
+                  "coords": [
+                        17.077987,
+                        -22.662729
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0792, -22.6667],
@@ -195,7 +474,232 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "woermannhaus-landmarks-v2",
+    id: "woermannhaus-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "Das National Marine Aquarium of Namibia zeigt die marine Artenvielfalt des kühlen Benguelastroms.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Eiermannhaus Art Gallery",
+                  "text": "Die Eiermannhaus Art Gallery präsentiert lokale Kunst in einem Gebäude der deutschen Kolonialarchitektur.",
+                  "category": "museum",
+                  "coords": [
+                        14.524317,
+                        -22.679497
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "Der Living Desert Snake Park beheimatet Reptilien und Schlangen, die an die harten Bedingungen der Wüste angepasst sind.",
+                  "category": "recreational",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Die historische Jetty aus Holz und Eisen ragt weit in die Wellen des Atlantischen Ozeans hinein.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach ist ein beliebter Küstenabschnitt am kühlen Atlantik in Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683282
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "Die Alte Kaserne ist eine erhaltene Festungsanlage aus der deutschen Kolonialzeit in Namibia.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "A Namíbiai Nemzeti Tengeri Akvárium a hűvös Benguela-áramlat tengeri élővilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Eiermannhaus Art Gallery",
+                  "text": "Az Eiermannhaus Art Gallery helyi művészeti alkotásokat mutat be egy német gyarmati épületben.",
+                  "category": "museum",
+                  "coords": [
+                        14.524317,
+                        -22.679497
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "A Living Desert Kígyópark olyan hüllőknek és kígyóknak ad otthont, amelyek alkalmazkodtak a sivatag zord körülményeihez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "A történelmi fából és vasból készült móló hosszan nyúlik be az Atlanti-óceán hullámai közé.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "A South Beach egy népszerű partszakasz a hűvös Atlanti-óceán mentén Swakopmundban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683282
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "Az Öreg Német Erőd (Alte Kaserne) egy fennmaradt katonai építmény a német gyarmati időszakból.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "Acvariul Marin Național din Namibia prezintă biodiversitatea marină a curentului rece Benguela.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Eiermannhaus Art Gallery",
+                  "text": "Eiermannhaus Art Gallery prezintă artă locală într-o clădire cu arhitectură colonială germană.",
+                  "category": "museum",
+                  "coords": [
+                        14.524317,
+                        -22.679497
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "Parcul Living Desert Snake găzduiește reptile și șerpi adaptați la condițiile dure ale deșertului.",
+                  "category": "recreational",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Faleza istorică Jetty, din lemn și fier, se extinde mult în valurile Oceanului Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach este o secțiune de coastă populară de-a lungul oceanului rece din Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683282
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "Vechea Fortăreață Germană (Alte Kaserne) este o structură militară conservată din perioada colonială.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "The National Marine Aquarium of Namibia showcases the marine life thriving in the cold Benguela Current.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Eiermannhaus Art Gallery",
+                  "text": "The Eiermannhaus Art Gallery showcases local art within a building featuring German colonial architecture.",
+                  "category": "museum",
+                  "coords": [
+                        14.524317,
+                        -22.679497
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "The Living Desert Snake Park houses reptiles and snakes adapted to the harsh environment of the desert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "The historic wooden and iron Jetty extends far into the churning waves of the Atlantic Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach is a popular coastal stretch along the cool waters of the Atlantic in Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683282
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "The Old German Fortress (Alte Kaserne) is a preserved military structure from the colonial era in Namibia.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-ER",
     coords: [14.5244, -22.6781],
@@ -243,7 +747,196 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "swakopmund-lighthouse-landmarks-v2",
+    id: "swakopmund-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "War Memorial",
+                  "text": "Das War Memorial in Swakopmund gedenkt der Opfer historischer Konflikte in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "Die Kristall Galerie ist berühmt für die Ausstellung des größten bekannten Quarzkristalls der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "Die Mole bietet als Wellenbrecher einen schönen Aussichtspunkt über den Atlantik und den Badestrand.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Der Nordstrand ist ein breiter Küstenabschnitt im Norden von Swakopmund, der vom Atlantik umspült wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527422,
+                        -22.6549
+                  ]
+            },
+            {
+                  "name": "State House",
+                  "text": "Das State House in Swakopmund dient als prachtvolle Sommerresidenz des namibischen Präsidenten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524294,
+                        -22.67629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "War Memorial",
+                  "text": "A swakopmundi háborús emlékmű a régió történelmi konfliktusaiban elesetteknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "A Kristall Galerie arról híres, hogy itt állítják ki a világ legnagyobb ismert kvarckristályát.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "A Mole egy hullámtörő gát, amely gyönyörű kilátást nyújt az Atlanti-óceánra és a strandra.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "A Nordstrand egy széles partszakasz Swakopmund északi részén, amelyet az Atlanti-óceán mos.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527422,
+                        -22.6549
+                  ]
+            },
+            {
+                  "name": "State House",
+                  "text": "A swakopmundi State House a namíbiai elnök lenyűgöző nyári rezidenciájaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524294,
+                        -22.67629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "War Memorial",
+                  "text": "Monumentul Eroilor din Swakopmund comemorează victimele conflictelor istorice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "Kristall Galerie este renumită pentru expunerea celui mai mare cristal de cuarț cunoscut din lume.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "Digul Mole oferă un punct de belvedere excelent asupra Oceanului Atlantic și a plajei cu nisip.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand este o plajă largă situată în nordul orașului Swakopmund, spălată de apele atlantice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527422,
+                        -22.6549
+                  ]
+            },
+            {
+                  "name": "State House",
+                  "text": "State House din Swakopmund servește ca reședință de vară impunătoare a președintelui namibian.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524294,
+                        -22.67629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "War Memorial",
+                  "text": "The War Memorial in Swakopmund commemorates those who fell during historical conflicts in the region.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "The Kristall Galerie is famous for displaying what is known as the world's largest quartz crystal cluster.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "The Mole is a protective sea wall offering a great viewpoint over the Atlantic Ocean and the sheltered beach.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand is a broad coastal stretch in northern Swakopmund, washed by the waters of the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527422,
+                        -22.6549
+                  ]
+            },
+            {
+                  "name": "State House",
+                  "text": "The State House in Swakopmund serves as the grand summer residence for the President of Namibia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524294,
+                        -22.67629
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-ER",
     coords: [14.5239, -22.6764],
@@ -339,7 +1032,88 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "felsenkirche-luderitz-landmarks-v2",
+    id: "felsenkirche-luderitz-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haus Eberlanz",
+                  "text": "Das Haus Eberlanz ist ein historisches Gebäude, das die charakteristische deutsche Kolonialarchitektur in der Küstenstadt Lüderitz zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.152928,
+                        -26.648386
+                  ]
+            },
+            {
+                  "name": "Felsenkirche",
+                  "text": "Diese am 19. November 1911 eingeweihte markante evangelisch-lutherische Kirche wurde direkt auf den massiven Granitfelsen mit Blick auf die Bucht erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        15.152171,
+                        -26.649787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haus Eberlanz",
+                  "text": "A Haus Eberlanz egy történelmi épület, amely a jellegzetes német gyarmati építészetet mutatja be a tengerparti Lüderitz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.152928,
+                        -26.648386
+                  ]
+            },
+            {
+                  "name": "Felsenkirche",
+                  "text": "Az 1911. november 19-én felszentelt, kiemelkedő evangélikus templom közvetlenül az öbölre néző szilárd gránitsziklákra épült.",
+                  "category": "religious",
+                  "coords": [
+                        15.152171,
+                        -26.649787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haus Eberlanz",
+                  "text": "Haus Eberlanz este o clădire istorică care prezintă arhitectura colonială germană distinctivă în orașul de coastă Lüderitz.",
+                  "category": "landmark",
+                  "coords": [
+                        15.152928,
+                        -26.648386
+                  ]
+            },
+            {
+                  "name": "Felsenkirche",
+                  "text": "Sfințită la 19 noiembrie 1911, această proeminentă biserică evanghelică luterană a fost construită direct pe stâncile masive de granit cu vedere la golf.",
+                  "category": "religious",
+                  "coords": [
+                        15.152171,
+                        -26.649787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haus Eberlanz",
+                  "text": "Haus Eberlanz is a historic building that showcases distinctive German colonial architecture in the coastal town of Lüderitz.",
+                  "category": "landmark",
+                  "coords": [
+                        15.152928,
+                        -26.648386
+                  ]
+            },
+            {
+                  "name": "Felsenkirche",
+                  "text": "Consecrated on November 19, 1911, this prominent Evangelical Lutheran church was built directly on the solid granite rocks overlooking the bay.",
+                  "category": "religious",
+                  "coords": [
+                        15.152171,
+                        -26.649787
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KA",
     coords: [15.1522, -26.6508],
@@ -387,7 +1161,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "goerke-haus-luderitz-landmarks-v2",
+    id: "goerke-haus-luderitz-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Ein Küstenaussichtspunkt, der einen klaren Blick auf ein gestrandetes Schiffswrack bietet, das in der atlantischen Brandung verfällt.",
+                  "category": "natural",
+                  "coords": [
+                        15.150583,
+                        -26.664901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Tengerparti kilátópont, amely tiszta kilátást nyújt az atlanti hullámverésben pusztuló megfeneklett hajóroncsra.",
+                  "category": "natural",
+                  "coords": [
+                        15.150583,
+                        -26.664901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Un punct de belvedere de coastă care oferă o vedere clară asupra unei epave eșuate care se deteriorează în valurile Atlanticului.",
+                  "category": "natural",
+                  "coords": [
+                        15.150583,
+                        -26.664901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shipwreck",
+                  "text": "A coastal viewpoint offering a clear sight of a stranded shipwreck deteriorating in the Atlantic surf.",
+                  "category": "natural",
+                  "coords": [
+                        15.150583,
+                        -26.664901
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KA",
     coords: [15.1517, -26.6517],
@@ -483,7 +1302,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "turnhalle-windhoek-landmarks-v2",
+    id: "turnhalle-windhoek-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Owela Museum",
+                  "text": "Dieses Museum befindet sich in unmittelbarer Nähe der historischen Turnhalle in Windhoek.",
+                  "category": "museum",
+                  "coords": [
+                        17.086228,
+                        -22.563811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Owela Museum",
+                  "text": "Ez a múzeum a windhoeki történelmi Turnhalle közvetlen közelében található.",
+                  "category": "museum",
+                  "coords": [
+                        17.086228,
+                        -22.563811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Owela Museum",
+                  "text": "Acest muzeu este situat în imediata vecinătate a clădirii istorice Turnhalle din Windhoek.",
+                  "category": "museum",
+                  "coords": [
+                        17.086228,
+                        -22.563811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Owela Museum",
+                  "text": "This museum is located in close proximity to the historic Turnhalle in Windhoek.",
+                  "category": "museum",
+                  "coords": [
+                        17.086228,
+                        -22.563811
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0872, -22.5658],
@@ -531,7 +1395,88 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "alte-feste-windhoek-landmarks-v2",
+    id: "alte-feste-windhoek-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Windhoek City Museum",
+                  "text": "Dieses dem lokalen Erbe gewidmete Museum dokumentiert detailliert die städtische Entwicklung und die vielfältige Kulturgeschichte der namibischen Hauptstadt.",
+                  "category": "museum",
+                  "coords": [
+                        17.088785,
+                        -22.572081
+                  ]
+            },
+            {
+                  "name": "Reiterdenkmal",
+                  "text": "Diese am 27. Januar 1912 eingeweihte, umstrittene Bronzestatue zeigt einen berittenen deutschen Soldaten zu Ehren der kolonialen Schutztruppe.",
+                  "category": "historical",
+                  "coords": [
+                        17.088287,
+                        -22.56933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Windhoek City Museum",
+                  "text": "A helyi örökségnek szentelt múzeum részletesen dokumentálja Namíbia fővárosának városfejlődését és sokszínű kulturális történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        17.088785,
+                        -22.572081
+                  ]
+            },
+            {
+                  "name": "Equestrian Monument",
+                  "text": "Az 1912. január 27-én felavatott vitatott bronzszobor egy lovon ülő német katonát ábrázol, és a gyarmati Schutztruppe emlékét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        17.088287,
+                        -22.56933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Windhoek City Museum",
+                  "text": "Dedicat patrimoniului local, acest muzeu documentează în detaliu creșterea municipală și istoria culturală diversă a capitalei Namibiei.",
+                  "category": "museum",
+                  "coords": [
+                        17.088785,
+                        -22.572081
+                  ]
+            },
+            {
+                  "name": "Equestrian Monument",
+                  "text": "Inaugurată la 27 ianuarie 1912, această statuie controversată din bronz înfățișează un soldat german călare, în onoarea trupelor coloniale Schutztruppe.",
+                  "category": "historical",
+                  "coords": [
+                        17.088287,
+                        -22.56933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Windhoek City Museum",
+                  "text": "Dedicated to local heritage, this museum details the municipal growth and diverse cultural history of Namibia's capital city.",
+                  "category": "museum",
+                  "coords": [
+                        17.088785,
+                        -22.572081
+                  ]
+            },
+            {
+                  "name": "Equestrian Monument",
+                  "text": "Inaugurated on January 27, 1912, this controversial bronze equestrian statue was erected to honor the German colonial Schutztruppe.",
+                  "category": "historical",
+                  "coords": [
+                        17.088287,
+                        -22.56933
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0881, -22.5694],
@@ -579,7 +1524,88 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "schwerinsburg-landmarks-v2",
+    id: "schwerinsburg-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lovers' Hill",
+                  "text": "Ein beliebter, romantischer Aussichtspunkt auf einem Hügel, an dem sich Besucher versammeln, um atemberaubende Sonnenuntergänge über dem Stadtbild zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        17.091903,
+                        -22.572969
+                  ]
+            },
+            {
+                  "name": "National Botanical Research Institute (NBRI)",
+                  "text": "Diese spezialisierte Forschungseinrichtung beherbergt das Nationale Herbarium von Namibia und bewahrt eine riesige Sammlung der einzigartigen einheimischen Flora.",
+                  "category": "museum",
+                  "coords": [
+                        17.094113,
+                        -22.570395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lovers' Hill",
+                  "text": "Népszerű, romantikus dombtetőn lévő kilátópont, ahol a látogatók összegyűlnek, hogy megcsodálják a városképre boruló lenyűgöző naplementét.",
+                  "category": "natural",
+                  "coords": [
+                        17.091903,
+                        -22.572969
+                  ]
+            },
+            {
+                  "name": "National Botanical Research Institute (NBRI)",
+                  "text": "Ez a speciális kutatóintézet ad otthont a Namíbiai Nemzeti Herbáriumnak, amely az egyedülálló őshonos növényvilág hatalmas gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        17.094113,
+                        -22.570395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lovers' Hill",
+                  "text": "Un punct de belvedere romantic pe un deal, unde vizitatorii se adună pentru a admira priveliștile uimitoare ale apusului asupra peisajului urban.",
+                  "category": "natural",
+                  "coords": [
+                        17.091903,
+                        -22.572969
+                  ]
+            },
+            {
+                  "name": "National Botanical Research Institute (NBRI)",
+                  "text": "Această unitate de cercetare specializată găzduiește Herbarul Național din Namibia, păstrând o vastă colecție a florei indigene unice.",
+                  "category": "museum",
+                  "coords": [
+                        17.094113,
+                        -22.570395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lovers' Hill",
+                  "text": "A popular, romantic hilltop vantage point where visitors gather to watch stunning sunset views over the sprawling cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.091903,
+                        -22.572969
+                  ]
+            },
+            {
+                  "name": "National Botanical Research Institute (NBRI)",
+                  "text": "This specialized research facility houses the National Herbarium of Namibia, preserving a vast collection of the country's unique indigenous flora.",
+                  "category": "museum",
+                  "coords": [
+                        17.094113,
+                        -22.570395
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0944, -22.5714],
@@ -627,7 +1653,124 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "heinitzburg-landmarks-v2",
+    id: "heinitzburg-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schwerinsburg",
+                  "text": "Diese Privatresidenz, die als die größte der drei markanten Burgen Windhoeks gilt, verfügt über imposante Steintürme, die ursprünglich um eine Taverne aus den 1890er Jahren herum gebaut wurden.",
+                  "category": "castle",
+                  "coords": [
+                        17.092484,
+                        -22.573245
+                  ]
+            },
+            {
+                  "name": "Garden Terrace Heinitzburg",
+                  "text": "Diese gepflegte Gartenterrasse auf dem Gelände des historischen Schlosshotels bietet Gästen einen eleganten Aussichtspunkt für Sonnenuntergänge mit Blick auf das Stadtbild von Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        17.092026,
+                        -22.574323
+                  ]
+            },
+            {
+                  "name": "Sanderburg",
+                  "text": "Die Sanderburg ist eines der drei historischen Schlösser in Windhoek, das durch seine markante Kolonialarchitektur besticht.",
+                  "category": "castle",
+                  "coords": [
+                        17.093167,
+                        -22.574924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schwerinsburg",
+                  "text": "A Windhoek három jellegzetes kastélya közül a legnagyobbnak tartott magánrezidencia impozáns kőtornyokkal büszkélkedhet, amelyek eredetileg egy 1890-es évekbeli fogadó köré épültek.",
+                  "category": "castle",
+                  "coords": [
+                        17.092484,
+                        -22.573245
+                  ]
+            },
+            {
+                  "name": "Garden Terrace Heinitzburg",
+                  "text": "A történelmi kastélyszálló területén található gondozott kerti terasz elegáns kilátópontot nyújt a vendégeknek, ahonnan megcsodálhatják a naplementét a windhoeki városkép felett.",
+                  "category": "natural",
+                  "coords": [
+                        17.092026,
+                        -22.574323
+                  ]
+            },
+            {
+                  "name": "Sanderburg",
+                  "text": "A Sanderburg Windhoek három történelmi kastélyának egyike, amely egyedi gyarmati kori építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        17.093167,
+                        -22.574924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schwerinsburg",
+                  "text": "Recunoscută drept cel mai mare dintre cele trei castele distincte ale orașului Windhoek, această reședință privată prezintă turnuri impunătoare de piatră construite inițial în jurul unei taverne din anii 1890.",
+                  "category": "castle",
+                  "coords": [
+                        17.092484,
+                        -22.573245
+                  ]
+            },
+            {
+                  "name": "Garden Terrace Heinitzburg",
+                  "text": "Situată în incinta hotelului castelului istoric, această terasă cu grădină îngrijită oferă oaspeților un punct de observație elegant la apus cu vedere la peisajul urban al orașului Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        17.092026,
+                        -22.574323
+                  ]
+            },
+            {
+                  "name": "Sanderburg",
+                  "text": "Sanderburg este unul dintre cele trei castele istorice situate în Windhoek, remarcându-se prin arhitectura sa impresionantă din perioada colonială.",
+                  "category": "castle",
+                  "coords": [
+                        17.093167,
+                        -22.574924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schwerinsburg",
+                  "text": "Recognized as the largest of Windhoek's three distinct castles, this private residence features imposing stone towers originally built around a tavern from the 1890s.",
+                  "category": "castle",
+                  "coords": [
+                        17.092484,
+                        -22.573245
+                  ]
+            },
+            {
+                  "name": "Garden Terrace Heinitzburg",
+                  "text": "Located within the grounds of the historic castle hotel, this manicured garden terrace provides guests with an elegant sunset viewpoint overlooking the Windhoek cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.092026,
+                        -22.574323
+                  ]
+            },
+            {
+                  "name": "Sanderburg",
+                  "text": "Sanderburg is one of three historic castles situated in Windhoek, featuring striking colonial-era architecture.",
+                  "category": "castle",
+                  "coords": [
+                        17.093167,
+                        -22.574924
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.095, -22.5728],
@@ -675,7 +1818,88 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sanderburg-landmarks-v2",
+    id: "sanderburg-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuduberg",
+                  "text": "Dieser felsige Gipfel, der sich markant über die gehobenen Vororte von Windhoek erhebt, ist ein vertrautes Naturdenkmal, das die östliche topografische Grenze der Stadt definiert.",
+                  "category": "natural",
+                  "coords": [
+                        17.146159,
+                        -22.617949
+                  ]
+            },
+            {
+                  "name": "Wasserberg",
+                  "text": "Dieser erhöhte Aussichtspunkt in der Nähe der bemerkenswerten Burgen Windhoeks bietet hervorragende Perspektiven über das Talbecken und die Architektur der Kolonialzeit, die die nahegelegenen Hänge prägt.",
+                  "category": "natural",
+                  "coords": [
+                        17.107025,
+                        -22.582045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuduberg",
+                  "text": "A Windhoek exkluzív külvárosai fölé magasodó sziklás csúcs egy jól ismert természeti tájékozódási pont, amely meghatározza a város keleti domborzati határát.",
+                  "category": "natural",
+                  "coords": [
+                        17.146159,
+                        -22.617949
+                  ]
+            },
+            {
+                  "name": "Wasserberg",
+                  "text": "A Windhoek nevezetes kastélyai közelében található magasan fekvő kilátópont kiváló perspektívát nyújt a völgymedencére és a közeli domboldalakat tarkító gyarmati korabeli építészetre.",
+                  "category": "natural",
+                  "coords": [
+                        17.107025,
+                        -22.582045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuduberg",
+                  "text": "Ridicându-se proeminent deasupra suburbiilor de lux din Windhoek, acest vârf stâncos este un reper natural familiar care definește granița topografică estică a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        17.146159,
+                        -22.617949
+                  ]
+            },
+            {
+                  "name": "Wasserberg",
+                  "text": "Situat lângă castelele notabile din Windhoek, acest punct de belvedere înalt oferă perspective excelente asupra bazinului văii și a arhitecturii din epoca colonială presărată pe dealurile din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        17.107025,
+                        -22.582045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuduberg",
+                  "text": "Rising prominently above the upscale suburbs of Windhoek, this rocky peak is a familiar natural landmark defining the city's eastern topographical boundary.",
+                  "category": "natural",
+                  "coords": [
+                        17.146159,
+                        -22.617949
+                  ]
+            },
+            {
+                  "name": "Wasserberg",
+                  "text": "Situated near Windhoek's notable castles, this elevated viewpoint offers excellent perspectives over the valley basin and the colonial-era architecture dotting the nearby hillsides.",
+                  "category": "natural",
+                  "coords": [
+                        17.107025,
+                        -22.582045
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0961, -22.5736],
@@ -723,7 +1947,88 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "martin-luther-steam-tractor-landmarks-v2",
+    id: "martin-luther-steam-tractor-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "COSDEF",
+                  "text": "Das COSDEF Arts & Crafts Centre fördert die künstlerische und handwerkliche Ausbildung der lokalen Gemeinschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        14.560541,
+                        -22.667983
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "Der Martin Luther Steam Tractor ist eine im Wüstensand gestrandete Dampflokomobile aus der Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        14.552845,
+                        -22.67192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "COSDEF",
+                  "text": "A COSDEF Művészeti és Kézműves Központ a helyi közösség művészeti és kézműves képzését támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        14.560541,
+                        -22.667983
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "A Martin Luther Gőztraktor egy gyarmati időszakból származó gőzgép, amely a sivatag homokjában ragadt.",
+                  "category": "museum",
+                  "coords": [
+                        14.552845,
+                        -22.67192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "COSDEF",
+                  "text": "Centrul de Arte și Meserii COSDEF sprijină formarea artistică și artizanală a comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.560541,
+                        -22.667983
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "Tractorul cu Aburi Martin Luther este un motor cu aburi din perioada colonială abandonat în nisipul deșertului.",
+                  "category": "museum",
+                  "coords": [
+                        14.552845,
+                        -22.67192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "COSDEF",
+                  "text": "The COSDEF Arts & Crafts Centre promotes artistic and vocational training for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        14.560541,
+                        -22.667983
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "The Martin Luther Steam Tractor is a colonial-era steam-driven machine famously abandoned in the desert sands.",
+                  "category": "museum",
+                  "coords": [
+                        14.552845,
+                        -22.67192
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-ER",
     coords: [14.5694, -22.6736],
@@ -819,7 +2124,124 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "fort-namutoni-landmarks-v2",
+    id: "fort-namutoni-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Twee Palms",
+                  "text": "Twee Palms ist ein landschaftlich reizvoller Aussichtspunkt, der weite Ausblicke auf die Etosha-Pfanne bietet und an den beiden Palmen, die spärlich Schatten spenden, leicht zu erkennen ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.029937,
+                        -18.765558
+                  ]
+            },
+            {
+                  "name": "Aroe (man-made water point)",
+                  "text": "Diese künstliche Wasserstelle in der Nähe von Fort Namutoni ist ein hervorragender Aussichtspunkt, um die heimische Tierwelt beim Trinken zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        16.99637,
+                        -18.721417
+                  ]
+            },
+            {
+                  "name": "Reptilienpark Ontouka",
+                  "text": "Dieser spezialisierte Zoo in der Nähe von Fort Namutoni beherbergt eine vielfältige Sammlung regionaler Reptilien, darunter einheimische Schlangen und Echsen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05155,
+                        -18.812335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Twee Palms",
+                  "text": "A Twee Palms egy festői kilátó, amely széles kilátást nyújt az Etosha-serpenyőre, és könnyen felismerhető a gyér árnyékot adó pálmafapárról.",
+                  "category": "natural",
+                  "coords": [
+                        17.029937,
+                        -18.765558
+                  ]
+            },
+            {
+                  "name": "Aroe (man-made water point)",
+                  "text": "Ez a mesterséges itatóhely Namutoni erődje közelében kiváló kilátópontot kínál a szomjukat oltó vadon élő állatok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        16.99637,
+                        -18.721417
+                  ]
+            },
+            {
+                  "name": "Reptilienpark Ontouka",
+                  "text": "Ez a Fort Namutoni közelében található speciális állatkert a regionális hüllők sokszínű gyűjteményének ad otthont, közelebb hozva a helyi kígyókat és gyíkokat a látogatókhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05155,
+                        -18.812335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Twee Palms",
+                  "text": "Twee Palms este un punct de belvedere pitoresc, care oferă priveliști ample asupra depresiunii Etosha, fiind ușor de identificat după cele două palmieri care oferă o umbră rară.",
+                  "category": "natural",
+                  "coords": [
+                        17.029937,
+                        -18.765558
+                  ]
+            },
+            {
+                  "name": "Aroe (man-made water point)",
+                  "text": "Acest punct de apă artificial de lângă Fortul Namutoni servește ca un excelent punct de observare a faunei locale care se adună să bea.",
+                  "category": "natural",
+                  "coords": [
+                        16.99637,
+                        -18.721417
+                  ]
+            },
+            {
+                  "name": "Reptilienpark Ontouka",
+                  "text": "Această grădină zoologică specializată de lângă Fortul Namutoni găzduiește o colecție diversă de reptile regionale, oferind vizitatorilor o privire mai atentă asupra șerpilor și șopârlelor locale.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05155,
+                        -18.812335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Twee Palms",
+                  "text": "Twee Palms is a scenic viewpoint offering sweeping sights over the Etosha Pan, easily identified by the pair of palm trees providing sparse shade.",
+                  "category": "natural",
+                  "coords": [
+                        17.029937,
+                        -18.765558
+                  ]
+            },
+            {
+                  "name": "Aroe (man-made water point)",
+                  "text": "This man-made water point near Fort Namutoni serves as an excellent viewpoint for observing local wildlife gathering to drink.",
+                  "category": "natural",
+                  "coords": [
+                        16.99637,
+                        -18.721417
+                  ]
+            },
+            {
+                  "name": "Reptilienpark Ontouka",
+                  "text": "This specialized zoo near Fort Namutoni houses a diverse collection of regional reptiles, offering visitors a closer look at local snakes and lizards.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05155,
+                        -18.812335
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-OT",
     coords: [16.9833, -18.8],
@@ -867,7 +2289,196 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "okaukuejo-waterhole-tower-landmarks-v2",
+    id: "okaukuejo-waterhole-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Okaukuejo Waterhole",
+                  "text": "Dieses stark frequentierte Etosha-Wasserloch wird nachts beleuchtet und bietet spektakuläre Ausblicke auf trinkende Elefanten und Nashörner.",
+                  "category": "landmark",
+                  "coords": [
+                        15.916236,
+                        -19.180742
+                  ]
+            },
+            {
+                  "name": "Newbrownii Wateringhole",
+                  "text": "Dieses staubige Wasserloch in Etosha ist ein beliebter Sammelpunkt für große Herden von Steppenwild und gelegentlich Löwen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.948137,
+                        -19.171645
+                  ]
+            },
+            {
+                  "name": "Gaseb Waterhole",
+                  "text": "Besucher können an diesem Aussichtspunkt beobachten, wie durstige Wildtiere aus dem trockenen Buschland auftauchen, um am Gaseb-Wasserloch zu trinken.",
+                  "category": "natural",
+                  "coords": [
+                        15.983546,
+                        -19.203984
+                  ]
+            },
+            {
+                  "name": "Nebrowni Waterhole (man-made)",
+                  "text": "Dieses von einem künstlichen Bohrloch gespeiste Wasserloch erhält die vielfältige Tierwelt in den trockenen Etosha-Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        15.9955,
+                        -19.162897
+                  ]
+            },
+            {
+                  "name": "Pan's Edge",
+                  "text": "Dieser malerische Aussichtspunkt blickt direkt auf die schimmernde, salzverkrustete Weite der massiven Etosha-Pfanne.",
+                  "category": "natural",
+                  "coords": [
+                        15.973265,
+                        -19.125356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Okaukuejo Waterhole",
+                  "text": "Ez a forgalmas Etosha-itató éjszaka ki van világítva, lenyűgöző látványt nyújtva az ivó elefántokról és orrszarvúkról.",
+                  "category": "landmark",
+                  "coords": [
+                        15.916236,
+                        -19.180742
+                  ]
+            },
+            {
+                  "name": "Newbrownii Wateringhole",
+                  "text": "Ez a poros etoshai itató nagy sztyeppei vadcsordák és alkalmanként oroszlánok népszerű gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        15.948137,
+                        -19.171645
+                  ]
+            },
+            {
+                  "name": "Gaseb Waterhole",
+                  "text": "Ezen a kilátóponton a látogatók megfigyelhetik, ahogy a szomjas vadon élő állatok előbukkannak a száraz bozótosból, hogy a Gaseb-itatónál igyanak.",
+                  "category": "natural",
+                  "coords": [
+                        15.983546,
+                        -19.203984
+                  ]
+            },
+            {
+                  "name": "Nebrowni Waterhole (man-made)",
+                  "text": "Ez a mesterséges fúrt kútból táplált itató sokféle vadvilágot tart fenn a száraz Etosha-síkságon.",
+                  "category": "natural",
+                  "coords": [
+                        15.9955,
+                        -19.162897
+                  ]
+            },
+            {
+                  "name": "Pan's Edge",
+                  "text": "Ebből a festői kilátópontból egyenesen a hatalmas Etosha-serpenyő csillogó, sós kéreggel borított kiterjedésére nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        15.973265,
+                        -19.125356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Okaukuejo Waterhole",
+                  "text": "Această adăpătoare frecventată din Etosha este iluminată noaptea, oferind vederi spectaculoase cu elefanți și rinoceri la adăpat.",
+                  "category": "landmark",
+                  "coords": [
+                        15.916236,
+                        -19.180742
+                  ]
+            },
+            {
+                  "name": "Newbrownii Wateringhole",
+                  "text": "Această adăpătoare prăfuită din Etosha este un punct de adunare popular pentru turme mari de animale de câmpie și, ocazional, lei.",
+                  "category": "landmark",
+                  "coords": [
+                        15.948137,
+                        -19.171645
+                  ]
+            },
+            {
+                  "name": "Gaseb Waterhole",
+                  "text": "Vizitatorii de la acest punct de belvedere pot urmări viața sălbatică însetată ieșind din tufișurile aride pentru a bea la adăpătoarea Gaseb.",
+                  "category": "natural",
+                  "coords": [
+                        15.983546,
+                        -19.203984
+                  ]
+            },
+            {
+                  "name": "Nebrowni Waterhole (man-made)",
+                  "text": "Alimentată de un foraj artificial, această adăpătoare artificială susține o faună diversă pe câmpiile uscate din Etosha.",
+                  "category": "natural",
+                  "coords": [
+                        15.9955,
+                        -19.162897
+                  ]
+            },
+            {
+                  "name": "Pan's Edge",
+                  "text": "Acest punct de belvedere pitoresc privește direct peste întinderea strălucitoare, acoperită de sare, a masivei depresiuni Etosha Pan.",
+                  "category": "natural",
+                  "coords": [
+                        15.973265,
+                        -19.125356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Okaukuejo Waterhole",
+                  "text": "This heavily frequented Etosha waterhole is floodlit at night, offering spectacular views of drinking elephants and rhinos.",
+                  "category": "landmark",
+                  "coords": [
+                        15.916236,
+                        -19.180742
+                  ]
+            },
+            {
+                  "name": "Newbrownii Wateringhole",
+                  "text": "This dusty watering hole in Etosha is a popular gathering point for large herds of plains game and occasional lions.",
+                  "category": "landmark",
+                  "coords": [
+                        15.948137,
+                        -19.171645
+                  ]
+            },
+            {
+                  "name": "Gaseb Waterhole",
+                  "text": "Visitors at this viewpoint can watch thirsty wildlife emerge from the arid scrubland to drink at the Gaseb waterhole.",
+                  "category": "natural",
+                  "coords": [
+                        15.983546,
+                        -19.203984
+                  ]
+            },
+            {
+                  "name": "Nebrowni Waterhole (man-made)",
+                  "text": "Fed by an artificial borehole, this man-made waterhole sustains diverse wildlife across the dry Etosha plains.",
+                  "category": "natural",
+                  "coords": [
+                        15.9955,
+                        -19.162897
+                  ]
+            },
+            {
+                  "name": "Pan's Edge",
+                  "text": "This scenic viewpoint looks directly over the shimmering, salt-crusted expanse of the massive Etosha Pan.",
+                  "category": "natural",
+                  "coords": [
+                        15.973265,
+                        -19.125356
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KU",
     coords: [15.9167, -19.1833],
@@ -1011,7 +2622,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "grootfontein-old-fort-landmarks-v2",
+    id: "grootfontein-old-fort-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Altes Fort Museum",
+                  "text": "Das Altes Fort Museum ist in einer Schutztruppenfestung aus dem Jahr 1896 untergebracht und zeigt historische Exponate, die vom frühen Kolonialleben bis hin zu lokalen Bergbauartefakten reichen.",
+                  "category": "museum",
+                  "coords": [
+                        18.10828,
+                        -19.558598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Altes Fort Museum",
+                  "text": "Az 1896-os Schutztruppe erődön belül található Altes Fort Múzeum történelmi kiállításokat mutat be a korai gyarmati élettől kezdve a helyi bányászati leletekig.",
+                  "category": "museum",
+                  "coords": [
+                        18.10828,
+                        -19.558598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Altes Fort Museum",
+                  "text": "Găzduit în interiorul unei fortărețe Schutztruppe din 1896, Muzeul Altes Fort prezintă exponate istorice, variind de la viața colonială timpurie până la artefacte miniere locale.",
+                  "category": "museum",
+                  "coords": [
+                        18.10828,
+                        -19.558598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altes Fort Museum",
+                  "text": "Housed inside an 1896 Schutztruppe fortress, the Altes Fort Museum features historical exhibits ranging from early colonial life to local mining artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        18.10828,
+                        -19.558598
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-OD",
     coords: [18.1, -19.5667],
@@ -1059,7 +2715,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sam-nujoma-stadium-landmarks-v2",
+    id: "sam-nujoma-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daan Viljoen Game Park",
+                  "text": "Der Daan-Viljoen-Wildpark ist ein Schutzgebiet in den sanften Hügeln des Khomas-Hochlandes nahe Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        16.962862,
+                        -22.532537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daan Viljoen Game Park",
+                  "text": "A Daan Viljoen Vadaspark egy vadvédelmi terület Windhoek közelében, a Khomas Hochland lankás dombjai között.",
+                  "category": "natural",
+                  "coords": [
+                        16.962862,
+                        -22.532537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daan Viljoen Game Park",
+                  "text": "Parcul de vânătoare Daan Viljoen este un sanctuar al faunei sălbatice situat pe dealurile domoale din Khomas Hochland, lângă Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        16.962862,
+                        -22.532537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daan Viljoen Game Park",
+                  "text": "Daan Viljoen Game Park is a wildlife sanctuary set in the rolling hills of the Khomas Hochland near Windhoek.",
+                  "category": "natural",
+                  "coords": [
+                        16.962862,
+                        -22.532537
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0458, -22.5222],
@@ -1107,7 +2808,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "owambo-campaign-memorial-landmarks-v2",
+    id: "owambo-campaign-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoo Park Amphi-Theatre",
+                  "text": "Ein Freilufttheater inmitten des üppigen Grüns des Zoo Parks, das häufig für öffentliche Konzerte und Gemeindetreffen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085594,
+                        -22.567067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoo Park Amphi-Theatre",
+                  "text": "A Zoo Park buja zöldjében megbúvó szabadtéri előadóhely, amely gyakran ad otthont nyilvános koncerteknek és helyi közösségi összejöveteleknek.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085594,
+                        -22.567067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoo Park Amphi-Theatre",
+                  "text": "O arenă de spectacole în aer liber amplasată în verdeața luxuriantă a parcului Zoo Park, găzduind adesea concerte publice și adunări comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085594,
+                        -22.567067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoo Park Amphi-Theatre",
+                  "text": "An open-air performance venue nestled within the lush greenery of Zoo Park, often hosting public concerts and local community gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        17.085594,
+                        -22.567067
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0864, -22.5661],
@@ -1155,7 +2901,160 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "kapps-hotel-luderitz-landmarks-v2",
+    id: "kapps-hotel-luderitz-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lüderitz Waterfront",
+                  "text": "Eine neu gestaltete Küstenpromenade mit Geschäften und Blick auf den Hafen in Lüderitz.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155876,
+                        -26.644382
+                  ]
+            },
+            {
+                  "name": "Lüderitz Museum",
+                  "text": "Ein lokales Museum, das die Natur- und Kolonialgeschichte der Diamantenminenstadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.15241,
+                        -26.64675
+                  ]
+            },
+            {
+                  "name": "Haus Hartmann",
+                  "text": "Eine historische Residenz aus der Kolonialzeit, die die deutsche Architektur des frühen 20. Jahrhunderts in der Küstenstadt zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153759,
+                        -26.647032
+                  ]
+            },
+            {
+                  "name": "Turnhalle",
+                  "text": "Eine historische ehemalige Turnhalle, die zur Erholung der frühen deutschen Siedlergemeinde erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        15.156278,
+                        -26.647474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lüderitz Waterfront",
+                  "text": "Újjáépített tengerparti sétány üzletekkel és kilátással a kikötőre Lüderitzben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155876,
+                        -26.644382
+                  ]
+            },
+            {
+                  "name": "Lüderitz Museum",
+                  "text": "Helyi múzeum, amely a gyémántbányász városka természeti és gyarmati történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.15241,
+                        -26.64675
+                  ]
+            },
+            {
+                  "name": "Haus Hartmann",
+                  "text": "Történelmi gyarmati kori rezidencia, amely a 20. század eleji német építészetet mutatja be a tengerparti városban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153759,
+                        -26.647032
+                  ]
+            },
+            {
+                  "name": "Turnhalle",
+                  "text": "Történelmi egykori tornacsarnok, amely a korai német telepes közösség kikapcsolódására épült.",
+                  "category": "landmark",
+                  "coords": [
+                        15.156278,
+                        -26.647474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lüderitz Waterfront",
+                  "text": "O promenadă de coastă reamenajată, cu magazine și vedere la portul din Lüderitz.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155876,
+                        -26.644382
+                  ]
+            },
+            {
+                  "name": "Lüderitz Museum",
+                  "text": "Un muzeu local care prezintă istoria naturală și colonială a orașului minier de diamante.",
+                  "category": "museum",
+                  "coords": [
+                        15.15241,
+                        -26.64675
+                  ]
+            },
+            {
+                  "name": "Haus Hartmann",
+                  "text": "O reședință istorică din epoca colonială care prezintă arhitectura germană de la începutul secolului al XX-lea în orașul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153759,
+                        -26.647032
+                  ]
+            },
+            {
+                  "name": "Turnhalle",
+                  "text": "O fostă sală istorică de gimnastică construită pentru recreerea primei comunități de coloniști germani.",
+                  "category": "landmark",
+                  "coords": [
+                        15.156278,
+                        -26.647474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lüderitz Waterfront",
+                  "text": "A redeveloped coastal promenade featuring shops and views of the harbor in Lüderitz.",
+                  "category": "landmark",
+                  "coords": [
+                        15.155876,
+                        -26.644382
+                  ]
+            },
+            {
+                  "name": "Lüderitz Museum",
+                  "text": "A local museum showcasing the natural and colonial history of the diamond-mining town.",
+                  "category": "museum",
+                  "coords": [
+                        15.15241,
+                        -26.64675
+                  ]
+            },
+            {
+                  "name": "Haus Hartmann",
+                  "text": "A historic colonial-era residence showcasing early 20th-century German architecture in the coastal town.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153759,
+                        -26.647032
+                  ]
+            },
+            {
+                  "name": "Turnhalle",
+                  "text": "A historic former gymnastics hall built for the recreation of the early German settler community.",
+                  "category": "landmark",
+                  "coords": [
+                        15.156278,
+                        -26.647474
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KA",
     coords: [15.155, -26.645],
@@ -1203,7 +3102,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "walvis-bay-pelican-point-lighthouse-landmarks-v2",
+    id: "walvis-bay-pelican-point-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pelican Point Lighthouse",
+                  "text": "Der Pelican Point Lighthouse ist ein markanter Leuchtturm am Ende der Halbinsel bei Walvis Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435241,
+                        -22.89197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelican Point Lighthouse",
+                  "text": "A Pelican Point Lighthouse egy feltűnő világítótorony a Walvis Bay melletti félsziget csúcsán.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435241,
+                        -22.89197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pelican Point Lighthouse",
+                  "text": "Pelican Point Lighthouse este un far proeminent situat la capătul peninsulei de lângă Walvis Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435241,
+                        -22.89197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pelican Point Lighthouse",
+                  "text": "The Pelican Point Lighthouse is a striking beacon located at the tip of the peninsula near Walvis Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435241,
+                        -22.89197
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-ER",
     coords: [14.4361, -22.8944],
@@ -1299,7 +3243,196 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "rhenish-mission-church-walvis-bay-landmarks-v2",
+    id: "rhenish-mission-church-walvis-bay-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "Eine historische deutsche Rhenische Missionskirche aus Fachwerk, die 1880 in der Küstenstadt Walvis Bay erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        14.493067,
+                        -22.964287
+                  ]
+            },
+            {
+                  "name": "Moth Center",
+                  "text": "Ein engagiertes lokales Museum in Walvis Bay, das Artefakte ausstellt, die sich auf die militärische und zivile Geschichte der Region beziehen.",
+                  "category": "museum",
+                  "coords": [
+                        14.506403,
+                        -22.954734
+                  ]
+            },
+            {
+                  "name": "Walvis Bay Museum",
+                  "text": "Ein bürgerliches Museum in der örtlichen Bibliothek, das das maritime Erbe und archäologische Funde der Namib-Küste detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        14.50703,
+                        -22.95778
+                  ]
+            },
+            {
+                  "name": "Nathaniel Maxuilili Monument",
+                  "text": "Ein markantes Denkmal, das zu Ehren des Erbes des prominenten namibischen politischen Aktivisten Nathaniel Maxuilili errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        14.583529,
+                        -22.979356
+                  ]
+            },
+            {
+                  "name": "Dune 7",
+                  "text": "Ein unglaublich hoher, gemessener Sandgipfel in der Nähe von Walvis Bay, der als eine der höchsten Dünen der Namib-Wüste gilt.",
+                  "category": "natural",
+                  "coords": [
+                        14.59465,
+                        -22.969655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "Történelmi német favázas rajnai missziós templom, amely 1880-ban épült Walvis Bay tengerparti városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.493067,
+                        -22.964287
+                  ]
+            },
+            {
+                  "name": "Moth Center",
+                  "text": "Walvis Bayben található helyi múzeum, amely a régió katonai és polgári történetéhez kapcsolódó tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.506403,
+                        -22.954734
+                  ]
+            },
+            {
+                  "name": "Walvis Bay Museum",
+                  "text": "A helyi könyvtáron belül található polgári múzeum, amely részletezi a Namib-part tengerészeti örökségét és régészeti leleteit.",
+                  "category": "museum",
+                  "coords": [
+                        14.50703,
+                        -22.95778
+                  ]
+            },
+            {
+                  "name": "Nathaniel Maxuilili Monument",
+                  "text": "Kiemelkedő emlékmű, amelyet a neves namíbiai politikai aktivista, Nathaniel Maxuilili örökségének tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        14.583529,
+                        -22.979356
+                  ]
+            },
+            {
+                  "name": "Dune 7",
+                  "text": "Hihetetlenül magas, megmért homokcsúcs Walvis Bay közelében, amely a Namib-sivatag egyik legmagasabb dűnéje.",
+                  "category": "natural",
+                  "coords": [
+                        14.59465,
+                        -22.969655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "O biserică istorică germană a misiunii renane, cu structură din lemn, construită în 1880 în orașul de coastă Walvis Bay.",
+                  "category": "religious",
+                  "coords": [
+                        14.493067,
+                        -22.964287
+                  ]
+            },
+            {
+                  "name": "Moth Center",
+                  "text": "Un muzeu local dedicat găzduit în Walvis Bay care expune artefacte legate de istoria militară și civilă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        14.506403,
+                        -22.954734
+                  ]
+            },
+            {
+                  "name": "Walvis Bay Museum",
+                  "text": "Un muzeu civic situat în cadrul bibliotecii locale, detaliind patrimoniul maritim și descoperirile arheologice de pe coasta Namibului.",
+                  "category": "museum",
+                  "coords": [
+                        14.50703,
+                        -22.95778
+                  ]
+            },
+            {
+                  "name": "Nathaniel Maxuilili Monument",
+                  "text": "Un memorial proeminent ridicat pentru a onora moștenirea proeminentului activist politic namibian Nathaniel Maxuilili.",
+                  "category": "historical",
+                  "coords": [
+                        14.583529,
+                        -22.979356
+                  ]
+            },
+            {
+                  "name": "Dune 7",
+                  "text": "Un vârf de nisip incredibil de înalt și măsurat lângă Walvis Bay, care reprezintă una dintre cele mai înalte dune din deșertul Namib.",
+                  "category": "natural",
+                  "coords": [
+                        14.59465,
+                        -22.969655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rheinische Missionskirche",
+                  "text": "A historic German timber-framed Rhenish mission church built in 1880 in the coastal town of Walvis Bay.",
+                  "category": "religious",
+                  "coords": [
+                        14.493067,
+                        -22.964287
+                  ]
+            },
+            {
+                  "name": "Moth Center",
+                  "text": "A dedicated local museum housed in Walvis Bay that exhibits artifacts related to the region's military and civil history.",
+                  "category": "museum",
+                  "coords": [
+                        14.506403,
+                        -22.954734
+                  ]
+            },
+            {
+                  "name": "Walvis Bay Museum",
+                  "text": "A civic museum situated within the local library, detailing the maritime heritage and archaeological finds of the Namib coast.",
+                  "category": "museum",
+                  "coords": [
+                        14.50703,
+                        -22.95778
+                  ]
+            },
+            {
+                  "name": "Nathaniel Maxuilili Monument",
+                  "text": "A prominent memorial erected to honor the legacy of the prominent Namibian political activist Nathaniel Maxuilili.",
+                  "category": "historical",
+                  "coords": [
+                        14.583529,
+                        -22.979356
+                  ]
+            },
+            {
+                  "name": "Dune 7",
+                  "text": "An incredibly high, measured sand peak near Walvis Bay that stands as one of the tallest dunes in the Namib desert.",
+                  "category": "natural",
+                  "coords": [
+                        14.59465,
+                        -22.969655
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-ER",
     coords: [14.5083, -22.9583],
@@ -1395,7 +3528,52 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   },
   {
-    id: "trans-namib-transport-museum-landmarks-v2",
+    id: "trans-namib-transport-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "St.-Marien-Kathedrale",
+                  "text": "Die St. Mary's Cathedral in Windhoek ist eine markante römisch-katholische Kirche, die sich durch ihre imposanten Zwillingstürme und die Architektur der Neoromanik auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        17.082123,
+                        -22.564629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "A windhoeki St. Mary's katedrális egy kiemelkedő római katolikus templom, amelyet impozáns ikertornyai és neoromán építészete tesz jellegzetessé.",
+                  "category": "religious",
+                  "coords": [
+                        17.082123,
+                        -22.564629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "Catedrala Sf. Maria din Windhoek este o biserică romano-catolică proeminentă, care se distinge prin turnurile sale gemene impunătoare și arhitectura neoromanică.",
+                  "category": "religious",
+                  "coords": [
+                        17.082123,
+                        -22.564629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "St. Mary's Cathedral in Windhoek is a prominent Roman Catholic church distinguished by its imposing twin towers and Romanesque Revival architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.082123,
+                        -22.564629
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NA-KH",
     coords: [17.0825, -22.5647],

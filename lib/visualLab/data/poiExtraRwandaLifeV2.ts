@@ -400,7 +400,88 @@ export const poiExtraRwandaLifeV2: POI[] = [
     }
   },
   {
-    id: "kigali-community-garden-life-v2",
+    id: "kigali-community-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Niyo Arts Centre",
+                  "text": "Ein lebendiges kommunales Kunstzentrum, das lokale künstlerische Talente fördert und Ausstellungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        30.077137,
+                        -1.932899
+                  ]
+            },
+            {
+                  "name": "VOEM Theater",
+                  "text": "Ein lokales Kulturtheater, das sich der Ausrichtung von Gemeindevorstellungen und Veranstaltungen der darstellenden Künste widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        30.089336,
+                        -1.916598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Niyo Arts Centre",
+                  "text": "Egy pezsgő közösségi művészeti központ, amely a helyi művészeti tehetségeket támogatja és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        30.077137,
+                        -1.932899
+                  ]
+            },
+            {
+                  "name": "VOEM Theater",
+                  "text": "Helyi kulturális színház, amely közösségi előadásoknak és előadó-művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        30.089336,
+                        -1.916598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Niyo Arts Centre",
+                  "text": "Un centru de arte comunitar vibrant, care promovează talentele artistice locale și găzduiește expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        30.077137,
+                        -1.932899
+                  ]
+            },
+            {
+                  "name": "VOEM Theater",
+                  "text": "O sală de teatru culturală locală dedicată găzduirii de spectacole comunitare și evenimente de artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        30.089336,
+                        -1.916598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niyo Arts Centre",
+                  "text": "A vibrant community arts centre promoting local artistic talent and hosting exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        30.077137,
+                        -1.932899
+                  ]
+            },
+            {
+                  "name": "VOEM Theater",
+                  "text": "A local cultural theatre venue dedicated to hosting community performances and performing arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        30.089336,
+                        -1.916598
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "RW-04",
     coords: [30.08, -1.93],
@@ -472,7 +553,52 @@ export const poiExtraRwandaLifeV2: POI[] = [
     },
   },
   {
-    id: "musanze-potato-farm-life-v2",
+    id: "musanze-potato-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mugogo",
+                  "text": "Ein markanter Gipfel, der sich aus der Landschaft erhebt und von den fruchtbaren Kartoffelanbaugebieten von Musanze umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.565701,
+                        -1.586209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mugogo",
+                  "text": "A tájból kiemelkedő csúcs, amelyet Musanze termékeny burgonyatermesztő területei vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        29.565701,
+                        -1.586209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mugogo",
+                  "text": "Un vârf proeminent care se înalță din peisaj, înconjurat de terenurile fertile de cultivare a cartofilor din Musanze.",
+                  "category": "natural",
+                  "coords": [
+                        29.565701,
+                        -1.586209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mugogo",
+                  "text": "A prominent peak rising from the landscape, surrounded by the fertile potato-farming terrains of Musanze.",
+                  "category": "natural",
+                  "coords": [
+                        29.565701,
+                        -1.586209
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "RW-01",
     coords: [29.60, -1.55],
@@ -508,7 +634,52 @@ export const poiExtraRwandaLifeV2: POI[] = [
     }
   },
   {
-    id: "kigali-kid-center-life-v2",
+    id: "kigali-kid-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kandt House Museum of Natural History",
+                  "text": "Ein Naturkundemuseum, das in der historischen ehemaligen Residenz des deutschen Entdeckers Richard Kandt untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.053527,
+                        -1.94668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kandt House Museum of Natural History",
+                  "text": "Természettudományi múzeum, amely a német felfedező, Richard Kandt történelmi egykori rezidenciájában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        30.053527,
+                        -1.94668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kandt House Museum of Natural History",
+                  "text": "Un muzeu de istorie naturală găzduit în fosta reședință istorică a exploratorului german Richard Kandt.",
+                  "category": "museum",
+                  "coords": [
+                        30.053527,
+                        -1.94668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kandt House Museum of Natural History",
+                  "text": "A natural history museum housed in the historic former residence of the German explorer Richard Kandt.",
+                  "category": "museum",
+                  "coords": [
+                        30.053527,
+                        -1.94668
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "RW-04",
     coords: [30.05, -1.95],
@@ -688,7 +859,52 @@ export const poiExtraRwandaLifeV2: POI[] = [
     }
   },
   {
-    id: "akagera-zebra-savanna-life-v2",
+    id: "akagera-zebra-savanna-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akagera National Park Visitor Centre",
+                  "text": "Dieses Besucherzentrum ist das Tor zum Akagera-Nationalpark, der für seine Zebras und die weite Savanne bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        30.703572,
+                        -1.878484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akagera National Park Visitor Centre",
+                  "text": "Ez a látogatóközpont az Akagera Nemzeti Park kapuja, amely zebráiról és hatalmas szavannáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        30.703572,
+                        -1.878484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akagera National Park Visitor Centre",
+                  "text": "Acest centru de vizitatori servește drept poartă de acces către Parcul Național Akagera, faimos pentru zebrele sale și savana întinsă.",
+                  "category": "landmark",
+                  "coords": [
+                        30.703572,
+                        -1.878484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akagera National Park Visitor Centre",
+                  "text": "This visitor centre serves as the gateway to Akagera National Park, famous for its zebras and expansive savanna.",
+                  "category": "landmark",
+                  "coords": [
+                        30.703572,
+                        -1.878484
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "RW-03",
     coords: [30.72, -1.88],

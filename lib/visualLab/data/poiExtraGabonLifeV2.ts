@@ -581,7 +581,52 @@ export const poiExtraGabonLifeV2: POI[] = [
     },
   },
   {
-    id: "woleu-ntem-cocoa-life-v2",
+    id: "woleu-ntem-cocoa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hôpital Hansénien d'Ebeigne",
+                  "text": "Das Hôpital Hansénien d'Ebeigne ist eine historische medizinische Einrichtung im landwirtschaftlichen Gebiet von Woleu-Ntem.",
+                  "category": "landmark",
+                  "coords": [
+                        11.577507,
+                        1.46369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hôpital Hansénien d'Ebeigne",
+                  "text": "A Hôpital Hansénien d'Ebeigne egy történelmi egészségügyi intézmény Woleu-Ntem mezőgazdasági területén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.577507,
+                        1.46369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hôpital Hansénien d'Ebeigne",
+                  "text": "Hôpital Hansénien d'Ebeigne este o unitate medicală istorică din zona agricolă Woleu-Ntem.",
+                  "category": "landmark",
+                  "coords": [
+                        11.577507,
+                        1.46369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hôpital Hansénien d'Ebeigne",
+                  "text": "The Hôpital Hansénien d'Ebeigne is a historic medical facility situated in the agricultural area of Woleu-Ntem.",
+                  "category": "landmark",
+                  "coords": [
+                        11.577507,
+                        1.46369
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GA-9",
     coords: [11.6, 1.5],
@@ -917,7 +962,52 @@ export const poiExtraGabonLifeV2: POI[] = [
     },
   },
   {
-    id: "akanda-mangrove-life-v2",
+    id: "akanda-mangrove-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare Private Beach",
+                  "text": "Phare Private Beach ist ein exklusiver, von Palmen gesäumter Sandstrand, der sich in der Nähe der Küstenmangroven der Akanda-Region befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.406228,
+                        0.459136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare Private Beach",
+                  "text": "A Phare Private Beach egy exkluzív, pálmafákkal szegélyezett homokos part az Akanda régió part menti mangrovéi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.406228,
+                        0.459136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare Private Beach",
+                  "text": "Phare Private Beach este o plajă privată exclusivistă cu nisip, străjuită de palmieri, cuibărită în apropierea mangrovelor de coastă din regiunea Akanda.",
+                  "category": "recreational",
+                  "coords": [
+                        9.406228,
+                        0.459136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare Private Beach",
+                  "text": "Phare Private Beach is an exclusive, palm-fringed sandy shore nestled near the coastal mangroves of the Akanda region.",
+                  "category": "recreational",
+                  "coords": [
+                        9.406228,
+                        0.459136
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GA-1",
     coords: [9.4, 0.4],

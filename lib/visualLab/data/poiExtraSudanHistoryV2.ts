@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSudanHistoryV2: POI[] = [
   {
-    id: "sd-no-meroe-pyramids-history-v2",
+    id: "sd-no-meroe-pyramids-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meroe",
+                  "text": "Das Weltkulturerbe Meroe war einst das mächtige Zentrum des Kuschitenreiches, bekannt für seine steilen Pyramiden und Eisenschmelzöfen.",
+                  "category": "historical",
+                  "coords": [
+                        33.748064,
+                        16.938086
+                  ]
+            },
+            {
+                  "name": "Meroe, Temple of Augustus",
+                  "text": "In den archäologischen Ruinen dieses römisch beeinflussten Tempels in Meroe wurde einst der berühmte Bronzekopf des Augustus entdeckt.",
+                  "category": "historical",
+                  "coords": [
+                        33.710429,
+                        16.938026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meroe",
+                  "text": "Meroé világörökségi helyszíne egykor a Kusita Birodalom hatalmas központja volt, híres meredek piramisairól és vasolvasztó kemencéiről.",
+                  "category": "historical",
+                  "coords": [
+                        33.748064,
+                        16.938086
+                  ]
+            },
+            {
+                  "name": "Meroe, Temple of Augustus",
+                  "text": "Ennek a meroéi, római hatást mutató templomnak a régészeti romjaiban fedezték fel egykor Augustus híres bronzfejét.",
+                  "category": "historical",
+                  "coords": [
+                        33.710429,
+                        16.938026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meroe",
+                  "text": "Situl Meroe, aflat în Patrimoniul Mondial, a fost cândva centrul puternic al Imperiului Cușit, cunoscut pentru piramidele sale abrupte și cuptoarele de topit fier.",
+                  "category": "historical",
+                  "coords": [
+                        33.748064,
+                        16.938086
+                  ]
+            },
+            {
+                  "name": "Meroe, Temple of Augustus",
+                  "text": "În ruinele arheologice ale acestui templu cu influențe romane din Meroe a fost descoperit faimosul cap de bronz al lui Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        33.710429,
+                        16.938026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meroe",
+                  "text": "The World Heritage site of Meroe was once the powerful center of the Kushite Empire, known for its steep pyramids and iron smelting furnaces.",
+                  "category": "historical",
+                  "coords": [
+                        33.748064,
+                        16.938086
+                  ]
+            },
+            {
+                  "name": "Meroe, Temple of Augustus",
+                  "text": "The famous bronze head of Augustus was famously discovered within the archaeological ruins of this Roman-influenced temple in Meroe.",
+                  "category": "historical",
+                  "coords": [
+                        33.710429,
+                        16.938026
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-RS",
     coords: [33.7489, 16.9375],
@@ -51,7 +132,124 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-rs-naqa-history-v2",
+    id: "sd-rs-naqa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naqa",
+                  "text": "Der Amun-Tempel ist eine bedeutende archäologische Stätte in Naqa und verfügt über ein antikes Steinheiligtum, das mit geschnitzten Widderstatuen geschmückt ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.276334,
+                        16.268789
+                  ]
+            },
+            {
+                  "name": "Nagaa",
+                  "text": "Nagaa ist eine renommierte historische Attraktion, die gut erhaltene antike meroitische Tempel in der Wüste präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.274644,
+                        16.269509
+                  ]
+            },
+            {
+                  "name": "Temple of Apedemak",
+                  "text": "Der Apedemak-Tempel ist eine gut erhaltene antike Ruine in Naqa, die für ihre kunstvollen Außenreliefs des Löwengottes bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.272707,
+                        16.268844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Temple of Amun",
+                  "text": "Az Ámon-templom egy jelentős régészeti lelőhely Naqában, amelynek ősi kőszentélyét faragott kos szobrok díszítik.",
+                  "category": "historical",
+                  "coords": [
+                        33.276334,
+                        16.268789
+                  ]
+            },
+            {
+                  "name": "Nagaa",
+                  "text": "Nagaa egy híres örökségi látványosság, amely jól megőrzött ősi meroitikus templomokat mutat be a sivatagban.",
+                  "category": "landmark",
+                  "coords": [
+                        33.274644,
+                        16.269509
+                  ]
+            },
+            {
+                  "name": "Temple of Apedemak",
+                  "text": "Az Apedemak-templom egy jól megőrzött ókori rom Naqában, amely az oroszlánistent ábrázoló bonyolult külső domborműveiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        33.272707,
+                        16.268844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Temple of Amun",
+                  "text": "Templul lui Amon este un important sit arheologic din Naqa, cu un sanctuar antic de piatră împodobit cu statui sculptate de berbeci.",
+                  "category": "historical",
+                  "coords": [
+                        33.276334,
+                        16.268789
+                  ]
+            },
+            {
+                  "name": "Nagaa",
+                  "text": "Nagaa este o atracție de patrimoniu renumită, care prezintă temple antice meroitice bine conservate în deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.274644,
+                        16.269509
+                  ]
+            },
+            {
+                  "name": "Temple of Apedemak",
+                  "text": "Templul lui Apedemak este o ruină antică bine conservată din Naqa, cunoscută pentru reliefurile exterioare complicate reprezentând zeul leu.",
+                  "category": "historical",
+                  "coords": [
+                        33.272707,
+                        16.268844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple of Amun",
+                  "text": "The Temple of Amun is a significant archaeological site in Naqa featuring an ancient stone sanctuary adorned with carved ram statues.",
+                  "category": "historical",
+                  "coords": [
+                        33.276334,
+                        16.268789
+                  ]
+            },
+            {
+                  "name": "Nagaa",
+                  "text": "Nagaa is a renowned heritage attraction showcasing well-preserved ancient Meroitic temples in the desert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.274644,
+                        16.269509
+                  ]
+            },
+            {
+                  "name": "Temple of Apedemak",
+                  "text": "The Temple of Apedemak is a well-preserved ancient ruin in Naqa known for its intricate exterior relief carvings of the lion god.",
+                  "category": "historical",
+                  "coords": [
+                        33.272707,
+                        16.268844
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-RS",
     coords: [33.2708, 16.2694],
@@ -147,7 +345,196 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-old-dongola-history-v2",
+    id: "sd-no-old-dongola-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Dongola Citadel",
+                  "text": "Diese archäologische Stätte in sd-no-old-dongola-history-v2 umfasst die Überreste der alten Zitadelle von Alt-Dongola.",
+                  "category": "historical",
+                  "coords": [
+                        30.743195,
+                        18.223364
+                  ]
+            },
+            {
+                  "name": "Kubbas and islamic cemetery",
+                  "text": "Dieser museale Komplex in sd-no-old-dongola-history-v2 präsentiert traditionelle Kubbas und einen historischen islamischen Friedhof.",
+                  "category": "museum",
+                  "coords": [
+                        30.754678,
+                        18.222697
+                  ]
+            },
+            {
+                  "name": "Throne Hall",
+                  "text": "Die archäologischen Überreste der Thronhalle befinden sich in der historischen Stätte von sd-no-old-dongola-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        30.745607,
+                        18.224657
+                  ]
+            },
+            {
+                  "name": "Old Dongola",
+                  "text": "Alt-Dongola ist eine denkmalgeschützte Attraktion in der Region sd-no-old-dongola-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        30.743478,
+                        18.226542
+                  ]
+            },
+            {
+                  "name": "Eglise de Banganarti",
+                  "text": "Diese archäologische Stätte in sd-no-old-dongola-history-v2 birgt die Überreste der Kirche von Banganarti.",
+                  "category": "historical",
+                  "coords": [
+                        30.784909,
+                        18.166689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Dongola Citadel",
+                  "text": "Ez a sd-no-old-dongola-history-v2-ben található régészeti lelőhely a régi Dongola fellegvárának maradványait foglalja magába.",
+                  "category": "historical",
+                  "coords": [
+                        30.743195,
+                        18.223364
+                  ]
+            },
+            {
+                  "name": "Kubbas and islamic cemetery",
+                  "text": "Ez a sd-no-old-dongola-history-v2-ben található múzeumi komplexum hagyományos kubbákat és egy történelmi iszlám temetőt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        30.754678,
+                        18.222697
+                  ]
+            },
+            {
+                  "name": "Throne Hall",
+                  "text": "A Trónterem régészeti maradványai sd-no-old-dongola-history-v2 történelmi területén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        30.745607,
+                        18.224657
+                  ]
+            },
+            {
+                  "name": "Old Dongola",
+                  "text": "Régi Dongola egy műemlékvédelem alatt álló látványosság sd-no-old-dongola-history-v2 régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.743478,
+                        18.226542
+                  ]
+            },
+            {
+                  "name": "Eglise de Banganarti",
+                  "text": "Ez a sd-no-old-dongola-history-v2-ben található régészeti lelőhely a banganartii templom maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        30.784909,
+                        18.166689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Dongola Citadel",
+                  "text": "Acest sit arheologic din sd-no-old-dongola-history-v2 cuprinde rămășițele vechii citadele din Old Dongola.",
+                  "category": "historical",
+                  "coords": [
+                        30.743195,
+                        18.223364
+                  ]
+            },
+            {
+                  "name": "Kubbas and islamic cemetery",
+                  "text": "Acest complex muzeal din sd-no-old-dongola-history-v2 prezintă kubbas tradiționale și un cimitir islamic istoric.",
+                  "category": "museum",
+                  "coords": [
+                        30.754678,
+                        18.222697
+                  ]
+            },
+            {
+                  "name": "Throne Hall",
+                  "text": "Vestigiile arheologice ale Sălii Tronului sunt situate în situl istoric din sd-no-old-dongola-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        30.745607,
+                        18.224657
+                  ]
+            },
+            {
+                  "name": "Old Dongola",
+                  "text": "Old Dongola este o atracție de patrimoniu din regiunea sd-no-old-dongola-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        30.743478,
+                        18.226542
+                  ]
+            },
+            {
+                  "name": "Eglise de Banganarti",
+                  "text": "Acest sit arheologic din sd-no-old-dongola-history-v2 ascunde rămășițele bisericii din Banganarti.",
+                  "category": "historical",
+                  "coords": [
+                        30.784909,
+                        18.166689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Dongola Citadel",
+                  "text": "This archaeological site in sd-no-old-dongola-history-v2 encompasses the remains of the historic Old Dongola Citadel.",
+                  "category": "historical",
+                  "coords": [
+                        30.743195,
+                        18.223364
+                  ]
+            },
+            {
+                  "name": "Kubbas and islamic cemetery",
+                  "text": "This museum complex in sd-no-old-dongola-history-v2 showcases traditional kubbas and a historic Islamic cemetery.",
+                  "category": "museum",
+                  "coords": [
+                        30.754678,
+                        18.222697
+                  ]
+            },
+            {
+                  "name": "Throne Hall",
+                  "text": "The archaeological ruins of the Throne Hall are located in the historic site of sd-no-old-dongola-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        30.745607,
+                        18.224657
+                  ]
+            },
+            {
+                  "name": "Old Dongola",
+                  "text": "Old Dongola is a heritage-listed attraction in the sd-no-old-dongola-history-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        30.743478,
+                        18.226542
+                  ]
+            },
+            {
+                  "name": "Eglise de Banganarti",
+                  "text": "This archaeological site in sd-no-old-dongola-history-v2 preserves the remains of the church at Banganarti.",
+                  "category": "historical",
+                  "coords": [
+                        30.784909,
+                        18.166689
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.7431, 18.2217],
@@ -195,7 +582,88 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-soleb-temple-history-v2",
+    id: "sd-no-soleb-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jebel Dosha",
+                  "text": "Jebel Dosha ist ein markanter Sandsteinfelsen am Nil, der mit antiken, in den Fels gehauenen Kapellen aufwartet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.311882,
+                        20.481434
+                  ]
+            },
+            {
+                  "name": "gravure de Djebel Docha",
+                  "text": "Diese antiken Felsgravuren sind mit historischen ägyptischen Motiven direkt in die Sandsteinklippen des Jebel Dosha geritzt.",
+                  "category": "historical",
+                  "coords": [
+                        30.31464,
+                        20.480385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jebel Dosha",
+                  "text": "A Jebel Dosha egy kiemelkedő homokkő szikla a Nílus partján, amelyen ősi sziklakápolnák találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        30.311882,
+                        20.481434
+                  ]
+            },
+            {
+                  "name": "gravure de Djebel Docha",
+                  "text": "Ezeket az ősi, történelmi egyiptomi motívumokat ábrázoló sziklavéseteket közvetlenül a Jebel Dosha homokkő szikláiba faragták.",
+                  "category": "historical",
+                  "coords": [
+                        30.31464,
+                        20.480385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jebel Dosha",
+                  "text": "Jebel Dosha este o formațiune stâncoasă proeminentă din gresie, cu capele antice săpate în stâncă, cu vedere la Nil.",
+                  "category": "landmark",
+                  "coords": [
+                        30.311882,
+                        20.481434
+                  ]
+            },
+            {
+                  "name": "gravure de Djebel Docha",
+                  "text": "Aceste gravuri antice cu motive istorice egiptene sunt sculptate direct în stâncile de gresie ale Jebel Dosha.",
+                  "category": "historical",
+                  "coords": [
+                        30.31464,
+                        20.480385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jebel Dosha",
+                  "text": "Jebel Dosha is a prominent sandstone outcrop featuring ancient rock-cut chapels overlooking the Nile.",
+                  "category": "landmark",
+                  "coords": [
+                        30.311882,
+                        20.481434
+                  ]
+            },
+            {
+                  "name": "gravure de Djebel Docha",
+                  "text": "These ancient rock engravings, featuring historical Egyptian motifs, are carved directly into the sandstone cliffs of Jebel Dosha.",
+                  "category": "historical",
+                  "coords": [
+                        30.31464,
+                        20.480385
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.3347, 20.4378],
@@ -243,7 +711,88 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-kerma-history-v2",
+    id: "sd-no-kerma-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Restaurant",
+                  "text": "Dieses lokale Restaurant bietet Speisen an und gewährt gleichzeitig Ausblicke auf die historischen archäologischen Stätten von Kerma.",
+                  "category": "natural",
+                  "coords": [
+                        30.405421,
+                        19.641753
+                  ]
+            },
+            {
+                  "name": "Western Deffufa",
+                  "text": "Die westliche Deffufa ist eine massive, antike Tempelanlage aus massiven Lehmziegeln, die das Stadtbild von Kerma prägte.",
+                  "category": "historical",
+                  "coords": [
+                        30.409704,
+                        19.600725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Restaurant",
+                  "text": "Ez a helyi étterem ételeket kínál, miközben kilátást nyújt Kerma történelmi régészeti lelőhelyeire.",
+                  "category": "natural",
+                  "coords": [
+                        30.405421,
+                        19.641753
+                  ]
+            },
+            {
+                  "name": "Western Deffufa",
+                  "text": "A nyugati deffufa egy hatalmas, ősi vályogtéglából épült templomszerkezet, amely a történelmi Kerma városát uralta.",
+                  "category": "historical",
+                  "coords": [
+                        30.409704,
+                        19.600725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Restaurant",
+                  "text": "Acest restaurant local oferă mese, permițând în același timp vederi asupra siturilor arheologice istorice din Kerma.",
+                  "category": "natural",
+                  "coords": [
+                        30.405421,
+                        19.641753
+                  ]
+            },
+            {
+                  "name": "Western Deffufa",
+                  "text": "Deffufa de Vest este o structură masivă, veche a unui templu din cărămidă de noroi, care domina orașul Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.409704,
+                        19.600725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Restaurant",
+                  "text": "This local dining spot serves meals while offering views over the surrounding historical archaeological sites of Kerma.",
+                  "category": "natural",
+                  "coords": [
+                        30.405421,
+                        19.641753
+                  ]
+            },
+            {
+                  "name": "Western Deffufa",
+                  "text": "The Western Deffufa is a massive, ancient mud-brick temple structure that dominated the city of Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.409704,
+                        19.600725
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.4072, 19.6017],
@@ -291,7 +840,52 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-sesibi-history-v2",
+    id: "sd-no-sesibi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camel Bones",
+                  "text": "Verstreute Kamelknochen sind eine eindrucksvolle visuelle Erinnerung an die traditionellen Karawanenrouten durch den Wüstensand bei Sesibi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.295369,
+                        20.17112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camel Bones",
+                  "text": "A szétszórt teve csontok megdöbbentő vizuális emléket állítanak a sivatagi homokon átvezető hagyományos karavánutaknak Sesibinél.",
+                  "category": "landmark",
+                  "coords": [
+                        30.295369,
+                        20.17112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camel Bones",
+                  "text": "Oasele împrăștiate de cămilă oferă un memento vizual impresionant al rutelor tradiționale de rulote peste nisipurile deșertului la Sesibi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.295369,
+                        20.17112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camel Bones",
+                  "text": "Scattered camel bones provide a striking visual reminder of traditional caravan routes across the desert sands near Sesibi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.295369,
+                        20.17112
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.3167, 20.1167],
@@ -339,7 +933,124 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-sai-island-ruins-history-v2",
+    id: "sd-no-sai-island-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sai New Kingdom city",
+                  "text": "Die Ruinen einer antiken Stadt aus dem Neuen Reich befinden sich auf der Insel Sai.",
+                  "category": "landmark",
+                  "coords": [
+                        30.331947,
+                        20.736576
+                  ]
+            },
+            {
+                  "name": "Medieval Church ruins",
+                  "text": "Die steinernen Überreste einer mittelalterlichen Kirche stehen inmitten der historischen Ruinen der Insel Sai.",
+                  "category": "landmark",
+                  "coords": [
+                        30.325731,
+                        20.746111
+                  ]
+            },
+            {
+                  "name": "Kerma period cemetery",
+                  "text": "Diese antike Grabstätte auf der Insel Sai stammt aus der Kerma-Zeit.",
+                  "category": "landmark",
+                  "coords": [
+                        30.329275,
+                        20.702723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sai New Kingdom city",
+                  "text": "Egy ókori, Újbirodalom korabeli város romjai találhatók a Sai-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        30.331947,
+                        20.736576
+                  ]
+            },
+            {
+                  "name": "Medieval Church ruins",
+                  "text": "Egy középkori templom kőmaradványai állnak a Sai-sziget történelmi romjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        30.325731,
+                        20.746111
+                  ]
+            },
+            {
+                  "name": "Kerma period cemetery",
+                  "text": "Ez a Sai-szigeten található ősi temetkezési hely a Kerma-korszakból származik.",
+                  "category": "landmark",
+                  "coords": [
+                        30.329275,
+                        20.702723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sai New Kingdom city",
+                  "text": "Ruinele unui vechi oraș din Noul Regat sunt situate pe insula Sai.",
+                  "category": "landmark",
+                  "coords": [
+                        30.331947,
+                        20.736576
+                  ]
+            },
+            {
+                  "name": "Medieval Church ruins",
+                  "text": "Rămășițele de piatră ale unei biserici medievale se află printre ruinele istorice ale insulei Sai.",
+                  "category": "landmark",
+                  "coords": [
+                        30.325731,
+                        20.746111
+                  ]
+            },
+            {
+                  "name": "Kerma period cemetery",
+                  "text": "Acest vechi cimitir de pe insula Sai datează din perioada Kerma.",
+                  "category": "landmark",
+                  "coords": [
+                        30.329275,
+                        20.702723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sai New Kingdom city",
+                  "text": "The ruins of an ancient New Kingdom city are located on Sai Island.",
+                  "category": "landmark",
+                  "coords": [
+                        30.331947,
+                        20.736576
+                  ]
+            },
+            {
+                  "name": "Medieval Church ruins",
+                  "text": "The stone remains of a medieval church stand among the historical ruins of Sai Island.",
+                  "category": "landmark",
+                  "coords": [
+                        30.325731,
+                        20.746111
+                  ]
+            },
+            {
+                  "name": "Kerma period cemetery",
+                  "text": "This ancient burial ground on Sai Island dates back to the Kerma period.",
+                  "category": "landmark",
+                  "coords": [
+                        30.329275,
+                        20.702723
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.3333, 20.7333],
@@ -387,7 +1098,52 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-el-kurru-history-v2",
+    id: "sd-no-el-kurru-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Kurru",
+                  "text": "Die antike Ausgrabungsstätte von El Kurru liegt in der Gegend von sd-no-el-kurru-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.77523,
+                        18.411132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Kurru",
+                  "text": "El Kurru ókori régészeti lelőhelye sd-no-el-kurru-history-v2 környékén fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        31.77523,
+                        18.411132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Kurru",
+                  "text": "Vechiul sit arheologic El Kurru se află în zona sd-no-el-kurru-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.77523,
+                        18.411132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Kurru",
+                  "text": "The ancient archaeological site of El Kurru is located in the area of sd-no-el-kurru-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        31.77523,
+                        18.411132
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [31.7744, 18.4103],
@@ -435,7 +1191,160 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-nuri-pyramids-history-v2",
+    id: "sd-no-nuri-pyramids-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nuri Pyramids",
+                  "text": "Diese UNESCO-Welterbestätte bewahrt eine beeindruckende königliche Nekropole mit den Überresten zahlreicher nubischer Grabpyramiden.",
+                  "category": "historical",
+                  "coords": [
+                        31.916462,
+                        18.564368
+                  ]
+            },
+            {
+                  "name": "Ashishi khoar",
+                  "text": "Ashishi Khoar bietet ein sandiges Gebiet zur Erkundung der trockenen Wadi-Landschaften in der Nähe der historischen Nuri-Pyramiden.",
+                  "category": "landmark",
+                  "coords": [
+                        31.952985,
+                        18.576548
+                  ]
+            },
+            {
+                  "name": "Kasanjar islands",
+                  "text": "Die felsigen Kasanjar-Inseln ragen aus den Gewässern des Nils empor und bieten Lebensraum für diverse Vogelarten.",
+                  "category": "landmark",
+                  "coords": [
+                        31.980032,
+                        18.58526
+                  ]
+            },
+            {
+                  "name": "stepped pyramid of Taharqa",
+                  "text": "Die monumentale Stufenpyramide von Taharqa ist das größte antike Grabwerk in der ausgedehnten Nekropole von Nuri.",
+                  "category": "historical",
+                  "coords": [
+                        31.914964,
+                        18.564875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuri Pyramids",
+                  "text": "Ez az UNESCO világörökségi helyszín egy lenyűgöző királyi nekropoliszt őriz, benne számos núbiai temetkezési piramis maradványával.",
+                  "category": "historical",
+                  "coords": [
+                        31.916462,
+                        18.564368
+                  ]
+            },
+            {
+                  "name": "Ashishi khoar",
+                  "text": "Az Ashishi Khoar homokos területet kínál a történelmi Nuri piramisok közelében lévő száraz vádi tájak felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        31.952985,
+                        18.576548
+                  ]
+            },
+            {
+                  "name": "Kasanjar islands",
+                  "text": "A Nílus vizéből kiemelkedő sziklás Kasanjar-szigetek változatos madárfajoknak adnak otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        31.980032,
+                        18.58526
+                  ]
+            },
+            {
+                  "name": "stepped pyramid of Taharqa",
+                  "text": "A monumentális lépcsős Taharka piramis a kiterjedt nuri nekropolisz legnagyobb ősi síremléke.",
+                  "category": "historical",
+                  "coords": [
+                        31.914964,
+                        18.564875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuri Pyramids",
+                  "text": "Acest sit de patrimoniu UNESCO păstrează o necropolă regală impresionantă, cu rămășițele a numeroase piramide funerare nubiene.",
+                  "category": "historical",
+                  "coords": [
+                        31.916462,
+                        18.564368
+                  ]
+            },
+            {
+                  "name": "Ashishi khoar",
+                  "text": "Ashishi Khoar oferă o zonă nisipoasă pentru explorarea peisajelor aride din ued, în apropiere de piramidele istorice Nuri.",
+                  "category": "landmark",
+                  "coords": [
+                        31.952985,
+                        18.576548
+                  ]
+            },
+            {
+                  "name": "Kasanjar islands",
+                  "text": "Insulele stâncoase Kasanjar ies din apele Nilului, oferind un habitat pentru diverse specii de păsări.",
+                  "category": "landmark",
+                  "coords": [
+                        31.980032,
+                        18.58526
+                  ]
+            },
+            {
+                  "name": "stepped pyramid of Taharqa",
+                  "text": "Piramida monumentală în trepte a lui Taharqa este cel mai mare mormânt antic din vasta necropolă Nuri.",
+                  "category": "historical",
+                  "coords": [
+                        31.914964,
+                        18.564875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuri Pyramids",
+                  "text": "This UNESCO heritage site preserves an impressive royal necropolis featuring the remains of numerous Nubian burial pyramids.",
+                  "category": "historical",
+                  "coords": [
+                        31.916462,
+                        18.564368
+                  ]
+            },
+            {
+                  "name": "Ashishi khoar",
+                  "text": "Ashishi Khoar provides a sandy area for exploring the dry wadi landscapes near the historic Nuri pyramids.",
+                  "category": "landmark",
+                  "coords": [
+                        31.952985,
+                        18.576548
+                  ]
+            },
+            {
+                  "name": "Kasanjar islands",
+                  "text": "The rocky Kasanjar islands emerge from the waters of the Nile, providing a habitat for diverse local bird species.",
+                  "category": "landmark",
+                  "coords": [
+                        31.980032,
+                        18.58526
+                  ]
+            },
+            {
+                  "name": "stepped pyramid of Taharqa",
+                  "text": "The monumental stepped pyramid of Taharqa is the largest ancient tomb structure within the extensive Nuri necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        31.914964,
+                        18.564875
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [31.9136, 18.5564],
@@ -531,7 +1440,88 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-tombos-history-v2",
+    id: "sd-no-tombos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tombos",
+                  "text": "Die archäologische Stätte von Tombos verfügt über einen antiken Granitsteinbruch und historisch bedeutsame ägyptische Felsinschriften.",
+                  "category": "historical",
+                  "coords": [
+                        30.393826,
+                        19.711147
+                  ]
+            },
+            {
+                  "name": "Rapids",
+                  "text": "Diese natürlichen Stromschnellen erzeugen entlang des Nils in der Nähe von Tombos turbulentes, wildes Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        30.389258,
+                        19.710561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tombos",
+                  "text": "Tombos régészeti lelőhelyén egy ősi gránitbánya és történelmileg jelentős egyiptomi sziklafeliratok találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        30.393826,
+                        19.711147
+                  ]
+            },
+            {
+                  "name": "Rapids",
+                  "text": "Ezek a természetes zúgók sebes, örvénylő vizet hoznak létre a Nílus folyásán Tombos közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        30.389258,
+                        19.710561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tombos",
+                  "text": "Situl arheologic Tombos prezintă o veche carieră de granit și inscripții egiptene în stâncă cu importanță istorică.",
+                  "category": "historical",
+                  "coords": [
+                        30.393826,
+                        19.711147
+                  ]
+            },
+            {
+                  "name": "Rapids",
+                  "text": "Aceste prăpăstii naturale creează ape învolburate și repezi de-a lungul Nilului, lângă Tombos.",
+                  "category": "landmark",
+                  "coords": [
+                        30.389258,
+                        19.710561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tombos",
+                  "text": "The archaeological site of Tombos features an ancient granite quarry and historically significant Egyptian rock inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        30.393826,
+                        19.711147
+                  ]
+            },
+            {
+                  "name": "Rapids",
+                  "text": "These natural rapids create turbulent white water along the rocky course of the Nile near Tombos.",
+                  "category": "landmark",
+                  "coords": [
+                        30.389258,
+                        19.710561
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.4628, 19.6972],
@@ -579,7 +1569,124 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-western-deffufa-history-v2",
+    id: "sd-no-western-deffufa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kerma",
+                  "text": "Die antike Stadt Kerma zeigt die umfangreichen archäologischen Überreste eines der frühesten urbanen Zentren in Afrika.",
+                  "category": "landmark",
+                  "coords": [
+                        30.424127,
+                        19.607378
+                  ]
+            },
+            {
+                  "name": "Doukki Gel",
+                  "text": "Die archäologische Stätte Doukki Gel enthält die runden Grundrisse antiker zeremonieller Architektur in der Nähe von Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.412448,
+                        19.60878
+                  ]
+            },
+            {
+                  "name": "Eastern Deffufa",
+                  "text": "Die östliche Deffufa diente als imposante antike Grabkapelle, umgeben von Tausenden von Gräbern auf dem riesigen Friedhof von Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.447087,
+                        19.610956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kerma",
+                  "text": "Az ősi Kerma városa Afrika egyik legkorábbi városi központjának kiterjedt régészeti maradványait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        30.424127,
+                        19.607378
+                  ]
+            },
+            {
+                  "name": "Doukki Gel",
+                  "text": "A Doukki Gel régészeti lelőhely az ősi ceremoniális építészet kerek alaprajzait tartalmazza Kerma közelében.",
+                  "category": "historical",
+                  "coords": [
+                        30.412448,
+                        19.60878
+                  ]
+            },
+            {
+                  "name": "Eastern Deffufa",
+                  "text": "A keleti deffufa lenyűgöző ókori temetkezési kápolnaként szolgált, amelyet több ezer sír vett körül a hatalmas kermai temetőben.",
+                  "category": "historical",
+                  "coords": [
+                        30.447087,
+                        19.610956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kerma",
+                  "text": "Orașul antic Kerma prezintă vestigiile arheologice extinse ale unuia dintre primele centre urbane din Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        30.424127,
+                        19.607378
+                  ]
+            },
+            {
+                  "name": "Doukki Gel",
+                  "text": "Situl arheologic de la Doukki Gel conține fundațiile rotunde ale vechii arhitecturi ceremoniale situate în apropiere de Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.412448,
+                        19.60878
+                  ]
+            },
+            {
+                  "name": "Eastern Deffufa",
+                  "text": "Deffufa de Est a servit drept o impunătoare capelă funerară antică, înconjurată de mii de morminte în vasta necropolă din Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.447087,
+                        19.610956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kerma",
+                  "text": "The ancient city of Kerma showcases the extensive archaeological remains of one of the earliest urban centers in Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        30.424127,
+                        19.607378
+                  ]
+            },
+            {
+                  "name": "Doukki Gel",
+                  "text": "The archaeological site of Doukki Gel contains the circular ground plans of ancient ceremonial architecture located near Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.412448,
+                        19.60878
+                  ]
+            },
+            {
+                  "name": "Eastern Deffufa",
+                  "text": "The Eastern Deffufa served as an imposing ancient funerary chapel surrounded by thousands of graves within the vast cemetery of Kerma.",
+                  "category": "historical",
+                  "coords": [
+                        30.447087,
+                        19.610956
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.4131, 19.6011],
@@ -723,7 +1830,88 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-ghazali-monastery-history-v2",
+    id: "sd-no-ghazali-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Umm Ruweim",
+                  "text": "Diese antike archäologische Stätte weist gut erhaltene Steinmauern auf, die zu einem historischen Festungskomplex gehören.",
+                  "category": "historical",
+                  "coords": [
+                        31.988551,
+                        18.411815
+                  ]
+            },
+            {
+                  "name": "Monastery of Ghazali",
+                  "text": "Diese Ausgrabungsstätte in sd-no-ghazali-monastery-history-v2 umfasst die Ruinen des antiken Klosters Ghazali.",
+                  "category": "historical",
+                  "coords": [
+                        31.931453,
+                        18.441926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Umm Ruweim",
+                  "text": "Ez az ősi régészeti lelőhely egy történelmi erődítménykomplexumhoz tartozó, jól megőrzött kőfalakkal büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        31.988551,
+                        18.411815
+                  ]
+            },
+            {
+                  "name": "Monastery of Ghazali",
+                  "text": "Ez a sd-no-ghazali-monastery-history-v2 városában található régészeti lelőhely az ókori Ghazali kolostor romjait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        31.931453,
+                        18.441926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Umm Ruweim",
+                  "text": "Acest sit arheologic antic prezintă ziduri de piatră bine conservate, care aparțin unui complex istoric de fortărețe.",
+                  "category": "historical",
+                  "coords": [
+                        31.988551,
+                        18.411815
+                  ]
+            },
+            {
+                  "name": "Monastery of Ghazali",
+                  "text": "Acest sit arheologic din sd-no-ghazali-monastery-history-v2 păstrează ruinele vechii mănăstiri Ghazali.",
+                  "category": "historical",
+                  "coords": [
+                        31.931453,
+                        18.441926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Umm Ruweim",
+                  "text": "This ancient archaeological site features well-preserved stone walls belonging to a historical fortress complex.",
+                  "category": "historical",
+                  "coords": [
+                        31.988551,
+                        18.411815
+                  ]
+            },
+            {
+                  "name": "Monastery of Ghazali",
+                  "text": "This archaeological site in sd-no-ghazali-monastery-history-v2 preserves the ruins of the ancient Ghazali monastery.",
+                  "category": "historical",
+                  "coords": [
+                        31.931453,
+                        18.441926
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [31.9333, 18.4333],
@@ -771,7 +1959,88 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-sedeinga-history-v2",
+    id: "sd-no-sedeinga-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "sedeinga",
+                  "text": "Die archäologische Stätte von Sedeinga enthält zahlreiche antike Gräber und historische Artefakte der nubischen Kultur.",
+                  "category": "historical",
+                  "coords": [
+                        30.272869,
+                        20.5425
+                  ]
+            },
+            {
+                  "name": "temple de Tiyi",
+                  "text": "Die verbliebenen Säulen dieses antiken Tempels in Sedeinga waren einst der Königin Teje gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.293821,
+                        20.553022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "sedeinga",
+                  "text": "Sedeinga régészeti lelőhelye számos ősi sírt és a núbiai kultúrához kapcsolódó történelmi műtárgyat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        30.272869,
+                        20.5425
+                  ]
+            },
+            {
+                  "name": "temple de Tiyi",
+                  "text": "Ennek a Sedeingában található ősi templomnak a megmaradt oszlopait egykor Tije királynénak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        30.293821,
+                        20.553022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "sedeinga",
+                  "text": "Situl arheologic de la Sedeinga conține numeroase morminte antice și artefacte istorice ale culturii nubiene.",
+                  "category": "historical",
+                  "coords": [
+                        30.272869,
+                        20.5425
+                  ]
+            },
+            {
+                  "name": "temple de Tiyi",
+                  "text": "Coloanele rămase ale acestui templu antic din Sedeinga i-au fost dedicate cândva reginei Tiye.",
+                  "category": "landmark",
+                  "coords": [
+                        30.293821,
+                        20.553022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "sedeinga",
+                  "text": "The archaeological site of Sedeinga contains numerous ancient tombs and historical artifacts of Nubian culture.",
+                  "category": "historical",
+                  "coords": [
+                        30.272869,
+                        20.5425
+                  ]
+            },
+            {
+                  "name": "temple de Tiyi",
+                  "text": "The remaining pillars of this ancient temple in Sedeinga were once dedicated to Queen Tiye.",
+                  "category": "landmark",
+                  "coords": [
+                        30.293821,
+                        20.553022
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.3167, 20.55],
@@ -915,7 +2184,52 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-uronarti-history-v2",
+    id: "sd-no-uronarti-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uronarti",
+                  "text": "Die auf einer Insel gelegene archäologische Stätte birgt die Überreste einer alten Festungsanlage entlang des Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        30.990355,
+                        21.526046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uronarti",
+                  "text": "A szigeti régészeti lelőhely egy ősi erődítmény szerkezetének maradványait rejti a folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        30.990355,
+                        21.526046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uronarti",
+                  "text": "Situl arheologic insular găzduiește rămășițele unei structuri antice de fortăreață de-a lungul râului.",
+                  "category": "historical",
+                  "coords": [
+                        30.990355,
+                        21.526046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uronarti",
+                  "text": "The island-based archaeological site holds the remnants of an ancient fortress structure along the river.",
+                  "category": "historical",
+                  "coords": [
+                        30.990355,
+                        21.526046
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.985, 21.5219],
@@ -1107,7 +2421,52 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-shalfak-history-v2",
+    id: "sd-no-shalfak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shalfak",
+                  "text": "Shalfak in sd-no-shalfak-history-v2 ist eine gut erhaltene nubische Festung aus dem alten Ägypten.",
+                  "category": "historical",
+                  "coords": [
+                        31.040151,
+                        21.541638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shalfak",
+                  "text": "A sd-no-shalfak-history-v2-ben található Shalfak egy jól megőrzött núbiai erődítmény az ókori Egyiptom korából.",
+                  "category": "historical",
+                  "coords": [
+                        31.040151,
+                        21.541638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shalfak",
+                  "text": "Shalfak din sd-no-shalfak-history-v2 este o fortăreață nubiană bine conservată din Egiptul Antic.",
+                  "category": "historical",
+                  "coords": [
+                        31.040151,
+                        21.541638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shalfak",
+                  "text": "Shalfak in sd-no-shalfak-history-v2 is the archeological site of an ancient Egyptian river fortress in Nubia.",
+                  "category": "historical",
+                  "coords": [
+                        31.040151,
+                        21.541638
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [31.0369, 21.5458],
@@ -1155,7 +2514,88 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-no-amara-west-history-v2",
+    id: "sd-no-amara-west-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old christian buildings. Free entrance",
+                  "text": "Besucher können die zerfallenden Überreste frühchristlicher architektonischer Strukturen aus Lehmziegeln, die über diese historische Stätte verstreut sind, frei erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        30.49448,
+                        20.820296
+                  ]
+            },
+            {
+                  "name": "Beautiful view on the Nile and palm trees",
+                  "text": "Dieser ruhige Aussichtspunkt blickt auf die sanften Strömungen des Nils, umrahmt von üppigen Hainen sich wiegender Dattelpalmen an den Ufern.",
+                  "category": "natural",
+                  "coords": [
+                        30.490422,
+                        20.820831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old christian buildings. Free entrance",
+                  "text": "A látogatók szabadon felfedezhetik a kora keresztény építészeti struktúrák omladozó vályogmaradványait, amelyek ezen a történelmi helyszínen elszórtan találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        30.49448,
+                        20.820296
+                  ]
+            },
+            {
+                  "name": "Beautiful view on the Nile and palm trees",
+                  "text": "Ez a nyugodt kilátó a Nílus lágy áramlataira néz, melyeket a partok mentén ringatózó datolyapálmák buja ligetei kereteznek.",
+                  "category": "natural",
+                  "coords": [
+                        30.490422,
+                        20.820831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old christian buildings. Free entrance",
+                  "text": "Vizitatorii pot explora liber rămășițele prăbușite din cărămidă de lut ale structurilor arhitecturale paleocreștine împrăștiate în acest sit istoric.",
+                  "category": "historical",
+                  "coords": [
+                        30.49448,
+                        20.820296
+                  ]
+            },
+            {
+                  "name": "Beautiful view on the Nile and palm trees",
+                  "text": "Acest punct de belvedere liniștit privește spre curenții blânzi ai Nilului, încadrați de plantații luxuriante de curmali care se leagănă de-a lungul malurilor.",
+                  "category": "natural",
+                  "coords": [
+                        30.490422,
+                        20.820831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old christian buildings. Free entrance",
+                  "text": "Visitors can freely explore the crumbling mud-brick remnants of early Christian architectural structures scattered across this historic site.",
+                  "category": "historical",
+                  "coords": [
+                        30.49448,
+                        20.820296
+                  ]
+            },
+            {
+                  "name": "Beautiful view on the Nile and palm trees",
+                  "text": "This tranquil vantage point looks out over the gentle currents of the Nile, framed by lush groves of swaying date palms along the banks.",
+                  "category": "natural",
+                  "coords": [
+                        30.490422,
+                        20.820831
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-NO",
     coords: [30.4117, 20.8358],
@@ -1251,7 +2691,52 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sd-rs-dangeil-history-v2",
+    id: "sd-rs-dangeil-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Younis Village",
+                  "text": "Dieser ländliche Aussichtspunkt bietet einen weiten Blick über die historischen Landschaften nahe der archäologischen Stätte Dangeil.",
+                  "category": "natural",
+                  "coords": [
+                        33.947294,
+                        18.086356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Younis Village",
+                  "text": "Ez a vidéki kilátó széles kilátást nyújt a történelmi tájakra a Dangeil régészeti lelőhely közelében.",
+                  "category": "natural",
+                  "coords": [
+                        33.947294,
+                        18.086356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Younis Village",
+                  "text": "Acest punct de belvedere rural oferă o vedere amplă asupra peisajelor istorice din apropierea sitului arheologic Dangeil.",
+                  "category": "natural",
+                  "coords": [
+                        33.947294,
+                        18.086356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Younis Village",
+                  "text": "This rural viewpoint offers a sweeping vista over the historic landscapes near the Dangeil archaeological site.",
+                  "category": "natural",
+                  "coords": [
+                        33.947294,
+                        18.086356
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-RS",
     coords: [33.9556, 18.1194],
@@ -1299,7 +2784,268 @@ export const poiExtraSudanHistoryV2: POI[] = [
     },
   },
     {
-    id: "sd-kh-khalifa-house-history-v2",
+    id: "sd-kh-khalifa-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solara Palace for weddings",
+                  "text": "Ein Theatersaal und Palast, der in der Nähe des Khalifa-Hauses für große Hochzeiten genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        32.46197,
+                        15.61369
+                  ]
+            },
+            {
+                  "name": "Zidan Ibrahim Theater",
+                  "text": "Dieser lokale Veranstaltungsort bietet verschiedene kulturelle Shows und Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        32.47907,
+                        15.637319
+                  ]
+            },
+            {
+                  "name": "Abdul Qaum Gate",
+                  "text": "Dieser historische Steinbogen diente als wichtiger Eingang durch die alten Verteidigungsanlagen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490982,
+                        15.633808
+                  ]
+            },
+            {
+                  "name": "Earthen wall fortification",
+                  "text": "Diese erodierten Erdwälle wurden errichtet, um die Siedlung vor historischen Angriffen zu schützen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.493884,
+                        15.6338
+                  ]
+            },
+            {
+                  "name": "Nile Theatre",
+                  "text": "Dieses Freilufttheater in der Nähe des Wassers bietet einen malerischen Rahmen für Live-Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        32.494887,
+                        15.635699
+                  ]
+            },
+            {
+                  "name": "The Khalifa House Museum",
+                  "text": "Dieses Museum ist in der ehemaligen Residenz von Khalifa Abdallahi untergebracht und stellt Artefakte des Mahdi-Staates aus.",
+                  "category": "museum",
+                  "coords": [
+                        32.488306,
+                        15.638757
+                  ]
+            },
+            {
+                  "name": "Sudanese National Theater",
+                  "text": "Als wichtigstes Zentrum für darstellende Kunst bringt dieses Theater bedeutende nationale Schauspiel- und Musikproduktionen auf die Bühne.",
+                  "category": "cultural",
+                  "coords": [
+                        32.496052,
+                        15.637214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solara Palace for weddings",
+                  "text": "Egy színházi helyszín és palota a Khalifa Ház közelében, amelyet elsősorban nagy esküvőkre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        32.46197,
+                        15.61369
+                  ]
+            },
+            {
+                  "name": "Zidan Ibrahim Theater",
+                  "text": "Ez a helyi előadóterem különféle kulturális műsoroknak és színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        32.47907,
+                        15.637319
+                  ]
+            },
+            {
+                  "name": "Abdul Qaum Gate",
+                  "text": "Ez a történelmi kőboltív fontos bejáratként szolgált a város ősi védelmi rendszerén keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490982,
+                        15.633808
+                  ]
+            },
+            {
+                  "name": "Earthen wall fortification",
+                  "text": "Ezeket az erodált földsáncokat a település történelmi támadások elleni védelmére építették.",
+                  "category": "landmark",
+                  "coords": [
+                        32.493884,
+                        15.6338
+                  ]
+            },
+            {
+                  "name": "Nile Theatre",
+                  "text": "A víz közelében található szabadtéri színház festői helyszínt biztosít az élő előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        32.494887,
+                        15.635699
+                  ]
+            },
+            {
+                  "name": "The Khalifa House Museum",
+                  "text": "A Khalifa Abdallahi egykori rezidenciájában helyet kapó múzeum a mahdista állam műtárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        32.488306,
+                        15.638757
+                  ]
+            },
+            {
+                  "name": "Sudanese National Theater",
+                  "text": "Fő előadóművészeti központként ez a színház jelentős nemzeti drámai és zenei produkciókat visz színre.",
+                  "category": "cultural",
+                  "coords": [
+                        32.496052,
+                        15.637214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solara Palace for weddings",
+                  "text": "Un loc teatral și un palat folosit în principal pentru nunți fastuoase lângă Casa Khalifa.",
+                  "category": "cultural",
+                  "coords": [
+                        32.46197,
+                        15.61369
+                  ]
+            },
+            {
+                  "name": "Zidan Ibrahim Theater",
+                  "text": "Acest loc de spectacole găzduiește diverse evenimente culturale și producții teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.47907,
+                        15.637319
+                  ]
+            },
+            {
+                  "name": "Abdul Qaum Gate",
+                  "text": "Această arcadă istorică din piatră a servit ca o intrare importantă prin apărarea antică a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490982,
+                        15.633808
+                  ]
+            },
+            {
+                  "name": "Earthen wall fortification",
+                  "text": "Aceste metereze de pământ erodate au fost construite pentru a apăra așezarea de atacurile istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        32.493884,
+                        15.6338
+                  ]
+            },
+            {
+                  "name": "Nile Theatre",
+                  "text": "Situat în apropierea apei, acest teatru în aer liber oferă un cadru pitoresc pentru spectacole live.",
+                  "category": "cultural",
+                  "coords": [
+                        32.494887,
+                        15.635699
+                  ]
+            },
+            {
+                  "name": "The Khalifa House Museum",
+                  "text": "Găzduit în fosta reședință a lui Khalifa Abdallahi, acest muzeu expune artefacte ale statului mahdist.",
+                  "category": "museum",
+                  "coords": [
+                        32.488306,
+                        15.638757
+                  ]
+            },
+            {
+                  "name": "Sudanese National Theater",
+                  "text": "Ca principal centru de arte spectacolului, acest teatru pune în scenă producții dramatice și muzicale naționale majore.",
+                  "category": "cultural",
+                  "coords": [
+                        32.496052,
+                        15.637214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solara Palace for weddings",
+                  "text": "A theatrical venue and palace primarily used for grand weddings near the Khalifa House.",
+                  "category": "cultural",
+                  "coords": [
+                        32.46197,
+                        15.61369
+                  ]
+            },
+            {
+                  "name": "Zidan Ibrahim Theater",
+                  "text": "This local performance venue hosts various cultural shows and theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        32.47907,
+                        15.637319
+                  ]
+            },
+            {
+                  "name": "Abdul Qaum Gate",
+                  "text": "This historic stone archway served as an important entrance through the city's ancient defenses.",
+                  "category": "landmark",
+                  "coords": [
+                        32.490982,
+                        15.633808
+                  ]
+            },
+            {
+                  "name": "Earthen wall fortification",
+                  "text": "These eroded earthen ramparts were constructed to defend the settlement from historical attacks.",
+                  "category": "landmark",
+                  "coords": [
+                        32.493884,
+                        15.6338
+                  ]
+            },
+            {
+                  "name": "Nile Theatre",
+                  "text": "Situated near the water, this open-air theatre provides a scenic venue for live performances.",
+                  "category": "cultural",
+                  "coords": [
+                        32.494887,
+                        15.635699
+                  ]
+            },
+            {
+                  "name": "The Khalifa House Museum",
+                  "text": "Housed in the former residence of Khalifa Abdallahi, this museum exhibits Mahdist state artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        32.488306,
+                        15.638757
+                  ]
+            },
+            {
+                  "name": "Sudanese National Theater",
+                  "text": "As the principal performing arts center, this theatre stages major national dramatic and musical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        32.496052,
+                        15.637214
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SD-KH",
     coords: [32.4765, 15.6385],

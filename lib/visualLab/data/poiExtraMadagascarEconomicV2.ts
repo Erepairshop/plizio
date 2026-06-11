@@ -132,7 +132,196 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "qmm-mine-economic-v2",
+    id: "qmm-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pic Saint Louis",
+                  "text": "Der Pic Saint Louis ist ein hoch aufragender Aussichtsberg, der über eine steile Wanderung erreichbar ist und Kletterer mit einem 360-Grad-Blick auf die Halbinseln von Fort Dauphin belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        46.965218,
+                        -25.008073
+                  ]
+            },
+            {
+                  "name": "Andranara Park",
+                  "text": "Der Andranara Park ist ein geschütztes Naturschutzgebiet mit dichten Küstenwäldern und endemischen Lemurenpopulationen.",
+                  "category": "natural",
+                  "coords": [
+                        46.933442,
+                        -25.022292
+                  ]
+            },
+            {
+                  "name": "Tranovato",
+                  "text": "Die Tranovato-Ruinen sind die Überreste einer historischen Steinbefestigung, die ursprünglich von frühen portugiesischen Entdeckern in Madagaskar erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        46.892359,
+                        -25.036362
+                  ]
+            },
+            {
+                  "name": "Réserve de Nahampoana",
+                  "text": "Das Nahampoana-Reservat ist ein üppiges botanisches Schutzgebiet, das für seine Bambuswälder und habituierten Katta-Lemuren bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        46.97898,
+                        -24.974927
+                  ]
+            },
+            {
+                  "name": "Domaine de la Cascade",
+                  "text": "Die Domaine de la Cascade ist ein malerisches Naturschutzgebiet, in dessen Zentrum ein Wasserfall steht, der in ein kühles Schwimmbecken stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        46.93007,
+                        -24.986582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pic Saint Louis",
+                  "text": "A Pic Saint Louis egy magasodó hegyi kilátó, amely meredek túrával közelíthető meg, és 360 fokos kilátással jutalmazza a mászókat Fort Dauphin félszigeteire.",
+                  "category": "natural",
+                  "coords": [
+                        46.965218,
+                        -25.008073
+                  ]
+            },
+            {
+                  "name": "Andranara Park",
+                  "text": "Az Andranara Park egy védett természetvédelmi terület, amely sűrű part menti erdei élőhelyekkel és endemikus makipopulációkkal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        46.933442,
+                        -25.022292
+                  ]
+            },
+            {
+                  "name": "Tranovato",
+                  "text": "A Tranovato romjai egy történelmi kőerőd maradványai, amelyet korai portugál felfedezők építettek Madagaszkáron.",
+                  "category": "historical",
+                  "coords": [
+                        46.892359,
+                        -25.036362
+                  ]
+            },
+            {
+                  "name": "Réserve de Nahampoana",
+                  "text": "A Nahampoana Rezervátum egy buja, jól karbantartott botanikai menedékhely, amely bambuszerdeiről és gyűrűsfarkú maki csoportjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        46.97898,
+                        -24.974927
+                  ]
+            },
+            {
+                  "name": "Domaine de la Cascade",
+                  "text": "A Domaine de la Cascade egy festői természetvédelmi terület, amelynek középpontjában egy hűs fürdőmedencébe zuhanó vízesés áll.",
+                  "category": "natural",
+                  "coords": [
+                        46.93007,
+                        -24.986582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pic Saint Louis",
+                  "text": "Pic Saint Louis este un punct de belvedere montan impunător, accesibil printr-o drumeție abruptă, care recompensează alpiniștii cu vedere la 360 de grade asupra peninsulelor din Fort Dauphin.",
+                  "category": "natural",
+                  "coords": [
+                        46.965218,
+                        -25.008073
+                  ]
+            },
+            {
+                  "name": "Andranara Park",
+                  "text": "Parcul Andranara este o rezervație naturală protejată, caracterizată prin habitate dense de pădure de coastă și populații de lemuri endemici.",
+                  "category": "natural",
+                  "coords": [
+                        46.933442,
+                        -25.022292
+                  ]
+            },
+            {
+                  "name": "Tranovato",
+                  "text": "Ruinele Tranovato sunt rămășițele unei fortificații istorice din piatră, construite inițial de primii exploratori portughezi în Madagascar.",
+                  "category": "historical",
+                  "coords": [
+                        46.892359,
+                        -25.036362
+                  ]
+            },
+            {
+                  "name": "Réserve de Nahampoana",
+                  "text": "Rezervația Nahampoana este un sanctuar botanic luxuriant, bine întreținut, cunoscut pentru pădurile sale de bambus și grupurile obișnuite de lemuri cu coadă inelată.",
+                  "category": "natural",
+                  "coords": [
+                        46.97898,
+                        -24.974927
+                  ]
+            },
+            {
+                  "name": "Domaine de la Cascade",
+                  "text": "Domaine de la Cascade este o rezervație naturală pitorească centrată în jurul unei cascade care se varsă într-un bazin răcoros.",
+                  "category": "natural",
+                  "coords": [
+                        46.93007,
+                        -24.986582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pic Saint Louis",
+                  "text": "Pic Saint Louis is a towering mountain viewpoint accessible by a steep hike, rewarding climbers with 360-degree views of Fort Dauphin's peninsulas.",
+                  "category": "natural",
+                  "coords": [
+                        46.965218,
+                        -25.008073
+                  ]
+            },
+            {
+                  "name": "Andranara Park",
+                  "text": "Andranara Park is a protected nature reserve featuring dense coastal forest habitats and endemic lemur populations.",
+                  "category": "natural",
+                  "coords": [
+                        46.933442,
+                        -25.022292
+                  ]
+            },
+            {
+                  "name": "Tranovato",
+                  "text": "The Tranovato ruins are the remnants of a historic stone fortification originally built by early Portuguese explorers in Madagascar.",
+                  "category": "historical",
+                  "coords": [
+                        46.892359,
+                        -25.036362
+                  ]
+            },
+            {
+                  "name": "Nahampoana Reserve",
+                  "text": "Nahampoana Reserve is a lush, well-maintained botanical sanctuary known for its bamboo forests and habituated groups of ring-tailed lemurs.",
+                  "category": "natural",
+                  "coords": [
+                        46.97898,
+                        -24.974927
+                  ]
+            },
+            {
+                  "name": "Domaine de la Cascade",
+                  "text": "The Domaine de la Cascade is a scenic nature reserve centered around a picturesque waterfall plunging into a cool swimming basin.",
+                  "category": "natural",
+                  "coords": [
+                        46.93007,
+                        -24.986582
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-U",
     coords: [46.9667, -24.9833],
@@ -175,7 +364,160 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "mahajanga-port-economic-v2",
+    id: "mahajanga-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porte Indo-Arabe",
+                  "text": "Ein dekoratives Tor, das die historischen indischen und arabischen architektonischen Einflüsse in Mahajanga widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308453,
+                        -15.72505
+                  ]
+            },
+            {
+                  "name": "Phare ENEM",
+                  "text": "Ein von der nationalen Seefahrtsschule (ENEM) errichtetes Hafenfeuer zur Unterstützung der Schiffsnavigation rund um Mahajanga.",
+                  "category": "landmark",
+                  "coords": [
+                        46.304513,
+                        -15.728069
+                  ]
+            },
+            {
+                  "name": "Bucht von Bombetoka",
+                  "text": "Eine große Bucht, in der der Betsiboka-Fluss in die Straße von Mosambik mündet, bekannt für ihre weitläufigen Mangrovenwälder.",
+                  "category": "landmark",
+                  "coords": [
+                        46.287094,
+                        -15.746143
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Mahajanga",
+                  "text": "Ein lebendiges Kulturzentrum, das die französische Sprache fördert und Ausstellungen sowie Konzerte in der Stadt veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        46.305094,
+                        -15.723126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porte Indo-Arabe",
+                  "text": "Díszes kapu, amely Mahajanga történelmi indiai és arab építészeti hatásait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308453,
+                        -15.72505
+                  ]
+            },
+            {
+                  "name": "Phare ENEM",
+                  "text": "A nemzeti tengerészeti iskola (ENEM) által létesített kikötői jelzőfény, amely a Mahajanga körüli hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        46.304513,
+                        -15.728069
+                  ]
+            },
+            {
+                  "name": "Helodranon'i Bombetoka",
+                  "text": "Nagy öböl, ahol a Betsiboka folyó a Mozambiki-csatornába ömlik, amely kiterjedt mangroveerdőiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        46.287094,
+                        -15.746143
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Mahajanga",
+                  "text": "Nyüzsgő kulturális központ, amely a francia nyelvet népszerűsíti, és kiállításoknak, valamint koncerteknek ad otthont a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        46.305094,
+                        -15.723126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porte Indo-Arabe",
+                  "text": "O poartă ornamentală care reflectă influențele arhitecturale istorice indiene și arabe din Mahajanga.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308453,
+                        -15.72505
+                  ]
+            },
+            {
+                  "name": "Phare ENEM",
+                  "text": "Un far portuar înființat de școala maritimă națională (ENEM) pentru a ajuta navigația navelor în jurul Mahajangăi.",
+                  "category": "landmark",
+                  "coords": [
+                        46.304513,
+                        -15.728069
+                  ]
+            },
+            {
+                  "name": "Helodranon'i Bombetoka",
+                  "text": "Un golf mare în care râul Betsiboka se varsă în Canalul Mozambic, cunoscut pentru pădurile sale întinse de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        46.287094,
+                        -15.746143
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Mahajanga",
+                  "text": "Un centru cultural vibrant care promovează limba franceză și găzduiește expoziții și concerte în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        46.305094,
+                        -15.723126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porte Indo-Arabe",
+                  "text": "An ornamental gateway reflecting the historic Indian and Arab architectural influences in Mahajanga.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308453,
+                        -15.72505
+                  ]
+            },
+            {
+                  "name": "Phare ENEM",
+                  "text": "A harbor beacon established by the national maritime school (ENEM) to aid ship navigation around Mahajanga.",
+                  "category": "landmark",
+                  "coords": [
+                        46.304513,
+                        -15.728069
+                  ]
+            },
+            {
+                  "name": "Bombetoka Bay",
+                  "text": "A large bay where the Betsiboka River flows into the Mozambique Channel, known for its sprawling mangrove forests.",
+                  "category": "landmark",
+                  "coords": [
+                        46.287094,
+                        -15.746143
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Mahajanga",
+                  "text": "A vibrant cultural center promoting the French language and hosting exhibitions and concerts in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        46.305094,
+                        -15.723126
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MG-M",
     coords: [46.3023, -15.7231],
@@ -261,7 +603,124 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "antsiranana-port-economic-v2",
+    id: "antsiranana-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point de vue",
+                  "text": "Ein malerischer Aussichtspunkt in Antsiranana, der weite Blicke auf den geschäftigen Hafen und die weite Fläche der Bucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        49.298174,
+                        -12.267494
+                  ]
+            },
+            {
+                  "name": "Fort Anosiravo",
+                  "text": "Die zerfallenden Ruinen einer historischen Militärfestung, die strategisch über dem Hafen von Antsiranana positioniert ist.",
+                  "category": "historical",
+                  "coords": [
+                        49.336259,
+                        -12.326342
+                  ]
+            },
+            {
+                  "name": "Scène de l'Alliance",
+                  "text": "Ein aktives Kunstzentrum und Veranstaltungsort in Antsiranana, in dem verschiedene lokale Theater- und Musikaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        49.292677,
+                        -12.271638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point de vue",
+                  "text": "Festői kilátópont Antsirananában, ahonnan pazar kilátás nyílik a nyüzsgő kikötőre és az öböl széles tágasságára.",
+                  "category": "natural",
+                  "coords": [
+                        49.298174,
+                        -12.267494
+                  ]
+            },
+            {
+                  "name": "Fort Anosiravo",
+                  "text": "Egy történelmi katonai erőd omladozó romjai, amely stratégiailag az antirananai kikötő fölött helyezkedik el.",
+                  "category": "historical",
+                  "coords": [
+                        49.336259,
+                        -12.326342
+                  ]
+            },
+            {
+                  "name": "Scène de l'Alliance",
+                  "text": "Aktív művészeti központ és kulturális helyszín Antsirananában, amely különféle helyi színházi és zenei előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        49.292677,
+                        -12.271638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point de vue",
+                  "text": "Un punct de belvedere pitoresc în Antsiranana, care oferă o panoramă vastă asupra portului plin de viață și a întinderii largi a golfului.",
+                  "category": "natural",
+                  "coords": [
+                        49.298174,
+                        -12.267494
+                  ]
+            },
+            {
+                  "name": "Fort Anosiravo",
+                  "text": "Ruinele în descompunere ale unui fort militar istoric, poziționat strategic deasupra portului din Antsiranana.",
+                  "category": "historical",
+                  "coords": [
+                        49.336259,
+                        -12.326342
+                  ]
+            },
+            {
+                  "name": "Scène de l'Alliance",
+                  "text": "Un centru de arte și o locație culturală activă în Antsiranana, care găzduiește o varietate de spectacole teatrale și muzicale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.292677,
+                        -12.271638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point de vue",
+                  "text": "A scenic viewpoint in Antsiranana providing sweeping vistas of the bustling port and the wide expanse of the bay.",
+                  "category": "natural",
+                  "coords": [
+                        49.298174,
+                        -12.267494
+                  ]
+            },
+            {
+                  "name": "Fort Anosiravo",
+                  "text": "The decaying ruins of a historical military fort strategically positioned above Antsiranana's harbor.",
+                  "category": "historical",
+                  "coords": [
+                        49.336259,
+                        -12.326342
+                  ]
+            },
+            {
+                  "name": "Scène de l'Alliance",
+                  "text": "An active arts center and cultural venue in Antsiranana that hosts a variety of local theatrical and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        49.292677,
+                        -12.271638
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MG-D",
     coords: [49.2944, -12.2711],
@@ -433,7 +892,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "cotona-textile-economic-v2",
+    id: "cotona-textile-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "Die Cathédrale Notre-Dame-de-la-Salette in cotona-textile-economic-v2 besticht durch ihre markante Architektur mit einem hochaufragenden Kirchturm.",
+                  "category": "religious",
+                  "coords": [
+                        47.034988,
+                        -19.870613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "A cotona-textile-economic-v2-ben található Cathédrale Notre-Dame-de-la-Salette lenyűgöző építészetével és magasra nyúló tornyával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        47.034988,
+                        -19.870613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "Cathédrale Notre-Dame-de-la-Salette din cotona-textile-economic-v2 se remarcă prin arhitectura sa impozantă și turnul falnic.",
+                  "category": "religious",
+                  "coords": [
+                        47.034988,
+                        -19.870613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "The Cathédrale Notre-Dame-de-la-Salette in cotona-textile-economic-v2 is an imposing cathedral featuring a notably tall belfry.",
+                  "category": "religious",
+                  "coords": [
+                        47.034988,
+                        -19.870613
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-T",
     coords: [47.0333, -19.8667],
@@ -562,7 +1066,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "galana-refinery-economic-v2",
+    id: "galana-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ivoloina",
+                  "text": "Ein botanischer und zoologischer Park bei Toamasina, der sich der Erhaltung und Rehabilitation der endemischen Lemurenarten Madagaskars widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        49.358568,
+                        -18.058165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ivoloina",
+                  "text": "Botanikus és zoológiai park Toamasina közelében, amely a Madagaszkáron őshonos maki fajok megőrzésének és rehabilitációjának szentelte magát.",
+                  "category": "recreational",
+                  "coords": [
+                        49.358568,
+                        -18.058165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ivoloina",
+                  "text": "Un parc botanic și zoologic din apropiere de Toamasina dedicat conservării și reabilitării speciilor de lemurieni endemice din Madagascar.",
+                  "category": "recreational",
+                  "coords": [
+                        49.358568,
+                        -18.058165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ivoloina",
+                  "text": "A botanical and zoological park near Toamasina dedicated to the conservation and rehabilitation of Madagascar's endemic lemur species.",
+                  "category": "recreational",
+                  "coords": [
+                        49.358568,
+                        -18.058165
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-A",
     coords: [49.4000, -18.1333],
@@ -648,7 +1197,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "dzamandzar-rum-economic-v2",
+    id: "dzamandzar-rum-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ylangylang",
+                  "text": "Diese duftende Attraktion in der Nähe von Dzamandzar zeigt den Anbau und die Verarbeitung von Ylang-Ylang-Blüten, einer wichtigen Zutat der lokalen Parfümherstellung.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303431,
+                        -13.287234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ylangylang",
+                  "text": "Ez a Dzamandzar közelében található illatos látványosság az ilang-ilang virágok termesztését és feldolgozását mutatja be, amely a helyi parfümgyártás elengedhetetlen alapanyaga.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303431,
+                        -13.287234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ylangylang",
+                  "text": "Această atracție parfumată din apropiere de Dzamandzar prezintă cultivarea și prelucrarea florilor de ylang-ylang, un ingredient vital în producția locală de parfumuri.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303431,
+                        -13.287234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ylangylang",
+                  "text": "This fragrant attraction near Dzamandzar showcases the cultivation and processing of ylang-ylang flowers, a vital ingredient in local perfume production.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303431,
+                        -13.287234
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-D",
     coords: [48.2833, -13.3167],
@@ -734,7 +1328,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "toliara-sands-economic-v2",
+    id: "toliara-sands-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arboretum d'Antsokay",
+                  "text": "Das Arboretum d'Antsokay ist ein botanischer Garten, der eine dichte Sammlung endemischer Sukkulenten aus dem Südwesten Madagaskars zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756507,
+                        -23.415042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arboretum d'Antsokay",
+                  "text": "Az Arboretum d'Antsokay egy botanikus kert, amely Délnyugat-Madagaszkár endemikus pozsgás növényeinek sűrű gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756507,
+                        -23.415042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arboretum d'Antsokay",
+                  "text": "Arboretum d'Antsokay este o grădină botanică ce expune o colecție densă de plante suculente endemice din sud-vestul Madagascarului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756507,
+                        -23.415042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arboretum d'Antsokay",
+                  "text": "The Arboretum d'Antsokay is a botanical garden that showcases a dense collection of endemic succulent plants from southwestern Madagascar.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756507,
+                        -23.415042
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-U",
     coords: [43.6800, -23.3600],
@@ -777,7 +1416,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "savonnerie-tropicale-economic-v2",
+    id: "savonnerie-tropicale-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Is'Art Galerie",
+                  "text": "In einer stimmungsvollen ehemaligen Fabrik untergebracht, präsentiert diese zeitgenössische Galerie kühne urbane Kunst und lebendige recycelte Skulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        47.540771,
+                        -18.917128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Is'Art Galerie",
+                  "text": "Egy hangulatos egykori gyárépületben helyet kapó kortárs galéria merész városi művészetet és élénk újrahasznosított szobrokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        47.540771,
+                        -18.917128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Is'Art Galerie",
+                  "text": "Găzduită într-o fostă fabrică atmosferică, această galerie contemporană prezintă artă urbană îndrăzneață și sculpturi vibrante reciclate.",
+                  "category": "museum",
+                  "coords": [
+                        47.540771,
+                        -18.917128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Is'Art Galerie",
+                  "text": "Housed in an atmospheric former factory, this contemporary gallery showcases bold urban art and vibrant recycled sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        47.540771,
+                        -18.917128
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-T",
     coords: [47.5333, -18.9167],
@@ -820,7 +1504,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "jb-confectionery-economic-v2",
+    id: "jb-confectionery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skate Park",
+                  "text": "Mit seinen Betonbecken und Rampen ist dieser städtische Freizeitpark ein beliebter lokaler Treffpunkt für Skateboarder und BMX-Fahrer.",
+                  "category": "recreational",
+                  "coords": [
+                        47.523828,
+                        -18.897931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skate Park",
+                  "text": "A betonmedencékkel és rámpákkal felszerelt városi szabadidőpark a gördeszkások és a BMX-esek népszerű helyi találkozóhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        47.523828,
+                        -18.897931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skate Park",
+                  "text": "Având cuve de beton și rampe, acest parc de recreere urban este un loc de adunare local popular pentru pasionații de skateboard și BMX.",
+                  "category": "recreational",
+                  "coords": [
+                        47.523828,
+                        -18.897931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skate Park",
+                  "text": "Featuring concrete bowls and ramps, this urban recreational park is a popular local gathering spot for skateboarders and BMX riders.",
+                  "category": "recreational",
+                  "coords": [
+                        47.523828,
+                        -18.897931
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-T",
     coords: [47.5200, -18.9000],
@@ -1035,7 +1764,88 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "pecheries-nosy-be-economic-v2",
+    id: "pecheries-nosy-be-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Passot",
+                  "text": "Ein Vulkangipfel auf Nosy Be, der von Kraterseen umgeben und für seinen 360-Grad-Panoramablick berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        48.229047,
+                        -13.321653
+                  ]
+            },
+            {
+                  "name": "Cascade",
+                  "text": "Ein Aussichtspunkt mit Blick auf einen natürlichen Wasserfall, der durch die üppige tropische Vegetation stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        48.222209,
+                        -13.377921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Passot",
+                  "text": "Egy vulkáni csúcs Nosy Be szigetén, amelyet krátertavak vesznek körül, és 360 fokos panorámás kilátásáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        48.229047,
+                        -13.321653
+                  ]
+            },
+            {
+                  "name": "Cascade",
+                  "text": "Kilátó, amely a buja trópusi növényzeten keresztül zúduló természetes vízesésre néz.",
+                  "category": "natural",
+                  "coords": [
+                        48.222209,
+                        -13.377921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Passot",
+                  "text": "Un vârf vulcanic din Nosy Be, înconjurat de lacuri vulcanice, renumit pentru vederile sale panoramice de 360 de grade.",
+                  "category": "natural",
+                  "coords": [
+                        48.229047,
+                        -13.321653
+                  ]
+            },
+            {
+                  "name": "Cascade",
+                  "text": "Un punct de belvedere cu vedere la o cascadă naturală care cade prin vegetația tropicală luxuriantă.",
+                  "category": "natural",
+                  "coords": [
+                        48.222209,
+                        -13.377921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Passot",
+                  "text": "A volcanic peak in Nosy Be surrounded by crater lakes, famous for its 360-degree panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        48.229047,
+                        -13.321653
+                  ]
+            },
+            {
+                  "name": "Cascade",
+                  "text": "A scenic viewpoint overlooking a natural waterfall cascading through the lush tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        48.222209,
+                        -13.377921
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-D",
     coords: [48.2500, -13.3167],
@@ -1078,7 +1888,160 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "somacou-textile-economic-v2",
+    id: "somacou-textile-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc d'attraction Sam Run",
+                  "text": "Dieser belebte Familienfreizeitpark bietet farbenfrohe mechanische Fahrgeschäfte und Freizeitaktivitäten im Freien für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        47.490529,
+                        -18.941422
+                  ]
+            },
+            {
+                  "name": "Espace Kolomahaolo",
+                  "text": "Dieser vielseitige Veranstaltungs- und Erholungsraum im Viertel Somacou beherbergt lokale Feste und Gemeindeversammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.474897,
+                        -18.930362
+                  ]
+            },
+            {
+                  "name": "N'akama",
+                  "text": "Diese Galerie präsentiert lebendige zeitgenössische Kunstwerke und dient als kreatives Zentrum für lokale Maler und Bildhauer im Bezirk.",
+                  "category": "museum",
+                  "coords": [
+                        47.505927,
+                        -18.933562
+                  ]
+            },
+            {
+                  "name": "Royal Park Residence, FALIARIVO, AMPITATAFIKA",
+                  "text": "In Ampitatafika gelegen, besticht dieser stattliche Herrensitz durch gepflegte Anlagen und elegante architektonische Details, die an eine königliche Vergangenheit erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        47.461596,
+                        -18.944927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc d'attraction Sam Run",
+                  "text": "Ez a nyüzsgő családi vidámpark színes mechanikus játékokat és szabadtéri szabadidős tevékenységeket kínál gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        47.490529,
+                        -18.941422
+                  ]
+            },
+            {
+                  "name": "Espace Kolomahaolo",
+                  "text": "A Somacou negyedben megbúvó sokoldalú rendezvény- és pihenőövezet helyi ünnepségeknek és közösségi összejöveteleknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        47.474897,
+                        -18.930362
+                  ]
+            },
+            {
+                  "name": "N'akama",
+                  "text": "Az élénk kortárs műalkotásokat bemutató galéria a kerület helyi festőinek és szobrászainak kreatív központjaként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        47.505927,
+                        -18.933562
+                  ]
+            },
+            {
+                  "name": "Royal Park Residence, FALIARIVO, AMPITATAFIKA",
+                  "text": "Az Ampitatafika területén található impozáns udvarház gondozott parkkal és elegáns építészeti részletekkel büszkélkedhet, amelyek a királyi múltat idézik.",
+                  "category": "historical",
+                  "coords": [
+                        47.461596,
+                        -18.944927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc d'attraction Sam Run",
+                  "text": "Acest parc de distracții animat pentru familii oferă atracții mecanice colorate și activități recreative în aer liber pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        47.490529,
+                        -18.941422
+                  ]
+            },
+            {
+                  "name": "Espace Kolomahaolo",
+                  "text": "Amplasat în cartierul Somacou, acest spațiu versatil pentru evenimente și zone de recreere găzduiește festivități locale și adunări comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        47.474897,
+                        -18.930362
+                  ]
+            },
+            {
+                  "name": "N'akama",
+                  "text": "Expunând lucrări de artă contemporană vii, această galerie servește drept un centru creativ pentru pictorii și sculptorii locali din district.",
+                  "category": "museum",
+                  "coords": [
+                        47.505927,
+                        -18.933562
+                  ]
+            },
+            {
+                  "name": "Royal Park Residence, FALIARIVO, AMPITATAFIKA",
+                  "text": "Situată în Ampitatafika, această reședință impunătoare are terenuri îngrijite și detalii arhitecturale elegante care evocă un trecut regal.",
+                  "category": "historical",
+                  "coords": [
+                        47.461596,
+                        -18.944927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc d'attraction Sam Run",
+                  "text": "This bustling family amusement park features colorful mechanical rides and outdoor recreational activities for children.",
+                  "category": "recreational",
+                  "coords": [
+                        47.490529,
+                        -18.941422
+                  ]
+            },
+            {
+                  "name": "Espace Kolomahaolo",
+                  "text": "Nestled in the Somacou district, this versatile event space and recreational area hosts local festivities and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        47.474897,
+                        -18.930362
+                  ]
+            },
+            {
+                  "name": "N'akama",
+                  "text": "Showcasing vivid contemporary artworks, this gallery serves as a creative hub for local painters and sculptors in the district.",
+                  "category": "museum",
+                  "coords": [
+                        47.505927,
+                        -18.933562
+                  ]
+            },
+            {
+                  "name": "Royal Park Residence, FALIARIVO, AMPITATAFIKA",
+                  "text": "Situated in Ampitatafika, this stately manor residence features manicured grounds and elegant architectural details that evoke a regal past.",
+                  "category": "historical",
+                  "coords": [
+                        47.461596,
+                        -18.944927
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-T",
     coords: [47.5100, -18.9200],
@@ -1164,7 +2127,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "maintirano-port-economic-v2",
+    id: "maintirano-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare",
+                  "text": "Ein Küstennavigationsturm in Maintirano, der den Seeverkehr an den westlichen Ufern Madagaskars leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021408,
+                        -18.06238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare",
+                  "text": "Maintirano part menti navigációs tornya, amely a Madagaszkár nyugati partjainál haladó tengeri forgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021408,
+                        -18.06238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare",
+                  "text": "Un turn de navigație de coastă în Maintirano care ghidează traficul maritim de-a lungul țărmurilor vestice ale Madagascarului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021408,
+                        -18.06238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare",
+                  "text": "A coastal navigation tower in Maintirano guiding maritime traffic along the western shores of Madagascar.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021408,
+                        -18.06238
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MG-M",
     coords: [44.0167, -18.0667],
@@ -1250,7 +2258,52 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
     
   },
   {
-    id: "soavoanio-coconut-economic-v2",
+    id: "soavoanio-coconut-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "HOUSE",
+                  "text": "Dieses Schlossgebäude befindet sich in der Nähe des ausgedehnten Kokosnussanbaugebiets von Soavoanio.",
+                  "category": "castle",
+                  "coords": [
+                        50.164903,
+                        -14.264931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HOUSE",
+                  "text": "Ez a kastélyépület a soavoaniói kókuszültetvények gazdasági övezetének közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        50.164903,
+                        -14.264931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HOUSE",
+                  "text": "Această clădire asemănătoare unui castel este situată în apropierea zonei economice de cultivare a nucilor de cocos din Soavoanio.",
+                  "category": "castle",
+                  "coords": [
+                        50.164903,
+                        -14.264931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HOUSE",
+                  "text": "This castle-like building is situated near the Soavoanio coconut agricultural zone.",
+                  "category": "castle",
+                  "coords": [
+                        50.164903,
+                        -14.264931
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MG-D",
     coords: [50.1667, -14.2833],

@@ -4273,7 +4273,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Tsrkva Preobrazhenja Gospodnjeg",
-                  "text": "Eine serbisch-orthodoxe Kirche in der Stadt Beočin.",
+                  "text": "Geschütztes serbisch-orthodoxes Gotteshaus: Verklärungskirche in Beočin.",
                   "category": "religious",
                   "coords": [
                         19.725101,
@@ -4302,7 +4302,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Tsrkva Preobrazhenja Gospodnjeg",
-                  "text": "Szerb ortodox templom Belcsény (Beočin) városában.",
+                  "text": "Védett szerb ortodox templom: Színeváltozás templom Beočinban.",
                   "category": "religious",
                   "coords": [
                         19.725101,
@@ -4331,7 +4331,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Tsrkva Preobrazhenja Gospodnjeg",
-                  "text": "O biserică ortodoxă sârbă situată în orașul Beočin.",
+                  "text": "Biserică ortodoxă sârbă protejată: Schimbarea la Față din Beočin.",
                   "category": "religious",
                   "coords": [
                         19.725101,
@@ -4360,7 +4360,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Transfiguration Church",
-                  "text": "A Serbian Orthodox church located in the town of Beočin.",
+                  "text": "Heritage-protected Serbian Orthodox Church of the Transfiguration in Beočin.",
                   "category": "religious",
                   "coords": [
                         19.725101,
@@ -4723,7 +4723,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Tsrkva Svetog arkhangela",
-                  "text": "Eine orthodoxe Kirche in Grabovo, die den Heiligen Erzengeln gewidmet ist.",
+                  "text": "Geschützte serbisch-orthodoxe Kirche der Heiligen Erzengel in Divša.",
                   "category": "religious",
                   "coords": [
                         19.613696,
@@ -4752,7 +4752,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Tsrkva Svetog arkhangela",
-                  "text": "A Szent Arkangyaloknak szentelt ortodox templom Grabovóban.",
+                  "text": "Védett szerb ortodox templom: Szent Arkangyalok templom Divšában.",
                   "category": "religious",
                   "coords": [
                         19.613696,
@@ -4781,7 +4781,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Tsrkva Svetog arkhangela",
-                  "text": "O biserică ortodoxă din Grabovo, dedicată Sfinților Arhangheli.",
+                  "text": "Biserică ortodoxă sârbă protejată: Sfinții Arhangheli din Divša.",
                   "category": "religious",
                   "coords": [
                         19.613696,
@@ -4810,7 +4810,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Archangels",
-                  "text": "An Orthodox church in Grabovo, dedicated to the Holy Archangels.",
+                  "text": "Heritage-protected Serbian Orthodox Church of the Holy Archangels in Divša.",
                   "category": "religious",
                   "coords": [
                         19.613696,

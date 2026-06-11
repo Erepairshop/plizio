@@ -435,7 +435,52 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "ishango-archaeological-site",
+    id: "ishango-archaeological-site", "sights": {
+      "de": [
+            {
+                  "name": "Os d'Ishango",
+                  "text": "Eine archäologische Stätte, die international als Fundort des antiken mathematischen Ishango-Knochens bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.601855,
+                        -0.139597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Os d'Ishango",
+                  "text": "Régészeti lelőhely, amely nemzetközileg ismert az ősi matematikai Ishango-csont felfedezésének helyeként.",
+                  "category": "historical",
+                  "coords": [
+                        29.601855,
+                        -0.139597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Os d'Ishango",
+                  "text": "Un sit arheologic recunoscut la nivel internațional ca fiind locul unde a fost descoperit anticul os matematic Ishango.",
+                  "category": "historical",
+                  "coords": [
+                        29.601855,
+                        -0.139597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ishango Man",
+                  "text": "An archaeological site internationally renowned as the discovery place of the ancient mathematical Ishango bone.",
+                  "category": "historical",
+                  "coords": [
+                        29.601855,
+                        -0.139597
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-NK",
     coords: [29.6167, -0.1333],
@@ -675,7 +720,124 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "lovanium-university-site",
+    id: "lovanium-university-site", "sights": {
+      "de": [
+            {
+                  "name": "CAMPUS S/S",
+                  "text": "Dieser erhöhte Aussichtspunkt auf dem Campus S/S bietet einen weiten Blick über die akademischen Einrichtungen des Mont Amba.",
+                  "category": "natural",
+                  "coords": [
+                        15.303029,
+                        -4.409761
+                  ]
+            },
+            {
+                  "name": "Mont Amba",
+                  "text": "Auf der weitläufigen Anhöhe des Mont Amba befindet sich der historische Hauptcampus der Universität Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.311402,
+                        -4.431369
+                  ]
+            },
+            {
+                  "name": "Amphitéâtre Léon de Saint Moulin",
+                  "text": "Das große Amphitheater Léon de Saint Moulin dient als zentraler Vorlesungssaal für hunderte Studierende auf dem Universitätsgelände.",
+                  "category": "cultural",
+                  "coords": [
+                        15.310132,
+                        -4.419035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CAMPUS S/S",
+                  "text": "Ez a magaslati kilátó a Campus S/S területén széles panorámát nyújt a Mont Amba egyetemi létesítményeire.",
+                  "category": "natural",
+                  "coords": [
+                        15.303029,
+                        -4.409761
+                  ]
+            },
+            {
+                  "name": "Mont Amba",
+                  "text": "A Mont Amba kiterjedt magaslatán terül el a Kinshasai Egyetem történelmi fő kampusza.",
+                  "category": "natural",
+                  "coords": [
+                        15.311402,
+                        -4.431369
+                  ]
+            },
+            {
+                  "name": "Amphitéâtre Léon de Saint Moulin",
+                  "text": "A hatalmas Léon de Saint Moulin amfiteátrum központi előadóteremként szolgál hallgatók százai számára az egyetem területén.",
+                  "category": "cultural",
+                  "coords": [
+                        15.310132,
+                        -4.419035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CAMPUS S/S",
+                  "text": "Acest punct de belvedere înalt din Campus S/S oferă o panoramă largă asupra facilităților academice din Mont Amba.",
+                  "category": "natural",
+                  "coords": [
+                        15.303029,
+                        -4.409761
+                  ]
+            },
+            {
+                  "name": "Mont Amba",
+                  "text": "Pe colina extinsă Mont Amba se află campusul principal istoric al Universității din Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.311402,
+                        -4.431369
+                  ]
+            },
+            {
+                  "name": "Amphitéâtre Léon de Saint Moulin",
+                  "text": "Marele Amfiteatru Léon de Saint Moulin servește drept sală principală de cursuri pentru sute de studenți în incinta universității.",
+                  "category": "cultural",
+                  "coords": [
+                        15.310132,
+                        -4.419035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CAMPUS S/S",
+                  "text": "This elevated viewpoint on Campus S/S provides a sweeping vista over the academic facilities of Mont Amba.",
+                  "category": "natural",
+                  "coords": [
+                        15.303029,
+                        -4.409761
+                  ]
+            },
+            {
+                  "name": "Mont Amba",
+                  "text": "The expansive high ground of Mont Amba is home to the historical main campus of the University of Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.311402,
+                        -4.431369
+                  ]
+            },
+            {
+                  "name": "Amphitéâtre Léon de Saint Moulin",
+                  "text": "The large Léon de Saint Moulin amphitheater serves as a central lecture hall accommodating hundreds of students on the university campus.",
+                  "category": "cultural",
+                  "coords": [
+                        15.310132,
+                        -4.419035
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-KN",
     coords: [15.31, -4.42],
@@ -915,7 +1077,52 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "kamina-military-base",
+    id: "kamina-military-base", "sights": {
+      "de": [
+            {
+                  "name": "Centre Bwimwa",
+                  "text": "Das Centre Bwimwa ist ein Zentrum für Kunst und Gemeinschaft, das den lokalen kreativen Ausdruck und kulturelle Zusammenkünfte in der Nähe der Militärbasis Kamina fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        25.006642,
+                        -8.728074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Bwimwa",
+                  "text": "A Centre Bwimwa egy művészeti és közösségi központ, amely a helyi kreatív önkifejezést és kulturális összejöveteleket támogatja a kaminai katonai bázis közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        25.006642,
+                        -8.728074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Bwimwa",
+                  "text": "Centre Bwimwa este un centru artistic și comunitar care încurajează expresia creativă locală și adunările culturale în apropiere de baza militară Kamina.",
+                  "category": "cultural",
+                  "coords": [
+                        25.006642,
+                        -8.728074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Bwimwa",
+                  "text": "Centre Bwimwa is an arts and community hub that fosters local creative expression and cultural gatherings near the Kamina military base.",
+                  "category": "cultural",
+                  "coords": [
+                        25.006642,
+                        -8.728074
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-HL",
     coords: [25.0, -8.7333],
@@ -1059,7 +1266,52 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
     },
   },
   {
-    id: "mount-mangengenge",
+    id: "mount-mangengenge", "sights": {
+      "de": [
+            {
+                  "name": "Sd l’okapi",
+                  "text": "Sd l’okapi ist eine lokale Touristenattraktion in der Nähe des Mont Mangengenge.",
+                  "category": "landmark",
+                  "coords": [
+                        15.493089,
+                        -4.353343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sd l’okapi",
+                  "text": "Az Sd l’okapi egy helyi turisztikai látványosság a Mangengenge-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.493089,
+                        -4.353343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sd l’okapi",
+                  "text": "Sd l’okapi este o atracție turistică locală poziționată lângă Muntele Mangengenge.",
+                  "category": "landmark",
+                  "coords": [
+                        15.493089,
+                        -4.353343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sd l’okapi",
+                  "text": "Sd l’okapi is a local tourist attraction positioned near Mount Mangengenge.",
+                  "category": "landmark",
+                  "coords": [
+                        15.493089,
+                        -4.353343
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CD-KN",
     coords: [15.4833, -4.3833],

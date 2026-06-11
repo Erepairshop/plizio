@@ -3571,7 +3571,7 @@ export const austriaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
-                  "text": "Das ehemalige Benediktinerkloster Klein-Mariazell ist eine bedeutende sakrale Anlage.",
+                  "text": "Ehemaliges Benediktinerkloster und Basilika in Niederösterreich, gegründet 1136.",
                   "category": "religious",
                   "coords": [
                         15.974171,
@@ -3636,7 +3636,7 @@ export const austriaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
-                  "text": "A volt Klein-Mariazell-i bencés kolostor jelentős egyházi épületegyüttes.",
+                  "text": "Egykori bencés kolostor és bazilika Alsó-Ausztriában, alapítva 1136-ban.",
                   "category": "religious",
                   "coords": [
                         15.974171,
@@ -3701,7 +3701,7 @@ export const austriaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
-                  "text": "Fosta mănăstire benedictină Klein-Mariazell este un complex religios important.",
+                  "text": "Fosta mănăstire benedictină și basilică în Austria Inferioară, fondată în 1136.",
                   "category": "religious",
                   "coords": [
                         15.974171,
@@ -3766,7 +3766,7 @@ export const austriaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
-                  "text": "The former Benedictine monastery of Klein-Mariazell is a significant religious site.",
+                  "text": "Former Benedictine monastery and basilica in Lower Austria, founded in 1136.",
                   "category": "religious",
                   "coords": [
                         15.974171,

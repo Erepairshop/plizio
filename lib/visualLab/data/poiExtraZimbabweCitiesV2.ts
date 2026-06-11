@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraZimbabweCitiesV2: POI[] = [
   {
-    id: "harare-cities-v2",
+    id: "harare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral of the Sacred Heart",
+                  "text": "Die Cathedral of the Sacred Heart in Harare ist ein stattliches katholisches Bauwerk im Herzen der Metropole.",
+                  "category": "religious",
+                  "coords": [
+                        31.053213,
+                        -17.820991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral of the Sacred Heart",
+                  "text": "A hararei Cathedral of the Sacred Heart egy tekintélyes katolikus épület a nagyváros szívében.",
+                  "category": "religious",
+                  "coords": [
+                        31.053213,
+                        -17.820991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral of the Sacred Heart",
+                  "text": "Cathedral of the Sacred Heart din Harare este un edificiu catolic maiestuos situat în inima metropolei.",
+                  "category": "religious",
+                  "coords": [
+                        31.053213,
+                        -17.820991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral of the Sacred Heart",
+                  "text": "The Cathedral of the Sacred Heart is a stately Catholic worship structure situated amidst the modern metropolis of Harare.",
+                  "category": "religious",
+                  "coords": [
+                        31.053213,
+                        -17.820991
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZW-HA",
     coords: [31.053, -17.8216],
@@ -142,7 +187,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     }
   },
   {
-    id: "mutare-cities-v2",
+    id: "mutare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Courtauld Theatre",
+                  "text": "Eingebettet in die Eastern Highlands ist das Courtauld Theatre ein zentraler Veranstaltungsort für Gemeindekunst, der Theateraufführungen und kulturelle Ereignisse für die Stadt Mutare ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        32.665922,
+                        -18.974331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Courtauld Theatre",
+                  "text": "A Keleti-felföldön megbúvó Courtauld Színház egy központi közösségi művészeti helyszín, amely drámai előadásoknak és kulturális eseményeknek ad otthont Mutare városában.",
+                  "category": "cultural",
+                  "coords": [
+                        32.665922,
+                        -18.974331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Courtauld Theatre",
+                  "text": "Situat în Eastern Highlands, Teatrul Courtauld este un spațiu de arte comunitare central, care găzduiește spectacole dramatice și evenimente culturale pentru orașul Mutare.",
+                  "category": "cultural",
+                  "coords": [
+                        32.665922,
+                        -18.974331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Courtauld Theatre",
+                  "text": "Nestled in the Eastern Highlands, the Courtauld Theatre is a central community arts venue hosting dramatic performances and cultural events for the city of Mutare.",
+                  "category": "cultural",
+                  "coords": [
+                        32.665922,
+                        -18.974331
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZW-MA",
     coords: [32.6695, -18.9743],
@@ -383,7 +473,160 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     }
   },
   {
-    id: "chinhoyi-cities-v2",
+    id: "chinhoyi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sekuru Canisio (Baba Priscilla)",
+                  "text": "Eine lokale kulturelle Sehenswürdigkeit im landwirtschaftlichen Zentrum von Chinhoyi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.204959,
+                        -17.375008
+                  ]
+            },
+            {
+                  "name": "Mpata section",
+                  "text": "Ein lokaler Beherbergungsbereich, der Hostelunterkünfte in Chinhoyi bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.201655,
+                        -17.373975
+                  ]
+            },
+            {
+                  "name": "Mashonaland West Provincial Heroes Acre",
+                  "text": "Ein regionales Gedenkmonument zu Ehren von Provinzialhelden in Chinhoyi.",
+                  "category": "historical",
+                  "coords": [
+                        30.231858,
+                        -17.353003
+                  ]
+            },
+            {
+                  "name": "Chikonohono Community Hall",
+                  "text": "Ein lokales Gemeindezentrum und Theaterraum, der der Stadt Chinhoyi dient.",
+                  "category": "cultural",
+                  "coords": [
+                        30.193328,
+                        -17.391032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sekuru Canisio (Baba Priscilla)",
+                  "text": "Helyi kulturális látványosság Chinhoyi mezőgazdasági központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.204959,
+                        -17.375008
+                  ]
+            },
+            {
+                  "name": "Mpata section",
+                  "text": "Helyi szálláshely, amely hostelszobákat kínál Chinhoyiban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.201655,
+                        -17.373975
+                  ]
+            },
+            {
+                  "name": "Mashonaland West Provincial Heroes Acre",
+                  "text": "A tartományi hősök előtt tisztelgő regionális emlékmű Chinhoyiban.",
+                  "category": "historical",
+                  "coords": [
+                        30.231858,
+                        -17.353003
+                  ]
+            },
+            {
+                  "name": "Chikonohono Community Hall",
+                  "text": "Chinhoyi városát szolgáló helyi közösségi ház és színháztér.",
+                  "category": "cultural",
+                  "coords": [
+                        30.193328,
+                        -17.391032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sekuru Canisio (Baba Priscilla)",
+                  "text": "O atracție culturală locală situată în centrul agricol Chinhoyi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.204959,
+                        -17.375008
+                  ]
+            },
+            {
+                  "name": "Mpata section",
+                  "text": "O unitate locală de cazare care oferă servicii de hostel în Chinhoyi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.201655,
+                        -17.373975
+                  ]
+            },
+            {
+                  "name": "Mashonaland West Provincial Heroes Acre",
+                  "text": "Un monument comemorativ regional în onoarea eroilor provinciali din Chinhoyi.",
+                  "category": "historical",
+                  "coords": [
+                        30.231858,
+                        -17.353003
+                  ]
+            },
+            {
+                  "name": "Chikonohono Community Hall",
+                  "text": "O sală comunitară și un spațiu de teatru care deservește orașul Chinhoyi.",
+                  "category": "cultural",
+                  "coords": [
+                        30.193328,
+                        -17.391032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sekuru Canisio (Baba Priscilla)",
+                  "text": "A local cultural attraction situated in the agricultural hub of Chinhoyi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.204959,
+                        -17.375008
+                  ]
+            },
+            {
+                  "name": "Mpata section",
+                  "text": "A local lodging section providing hostel accommodation in Chinhoyi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.201655,
+                        -17.373975
+                  ]
+            },
+            {
+                  "name": "Mashonaland West Provincial Heroes Acre",
+                  "text": "A regional memorial monument honoring provincial heroes in Chinhoyi.",
+                  "category": "historical",
+                  "coords": [
+                        30.231858,
+                        -17.353003
+                  ]
+            },
+            {
+                  "name": "Chikonohono Community Hall",
+                  "text": "A local community hall and theatre space serving the town of Chinhoyi.",
+                  "category": "cultural",
+                  "coords": [
+                        30.193328,
+                        -17.391032
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZW-MW",
     coords: [30.1472, -17.3667],
@@ -447,7 +690,88 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     }
   },
   {
-    id: "marondera-cities-v2",
+    id: "marondera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Diese alten Felskunststätten in Marondera bewahren die aufwendigen Malereien früher Jäger- und Sammlergesellschaften.",
+                  "category": "historical",
+                  "coords": [
+                        31.619443,
+                        -18.176705
+                  ]
+            },
+            {
+                  "name": "Gosho Park",
+                  "text": "Dieses Naturschutzgebiet in Marondera schützt eine weite Miombo-Waldlandschaft und ihre einheimische Hochland-Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        31.622395,
+                        -18.181357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Ezek az ősi sziklaművészeti lelőhelyek Marondera területén a korai vadászó-gyűjtögető társadalmak bonyolult festményeit őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        31.619443,
+                        -18.176705
+                  ]
+            },
+            {
+                  "name": "Gosho Park",
+                  "text": "Ez a maronderai természetvédelmi terület a miombo erdőségeket és a magaslati régió őshonos vadvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        31.622395,
+                        -18.181357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "Aceste situri antice de artă rupestră din Marondera păstrează picturile detaliate create de primele societăți de vânători-culegători.",
+                  "category": "historical",
+                  "coords": [
+                        31.619443,
+                        -18.176705
+                  ]
+            },
+            {
+                  "name": "Gosho Park",
+                  "text": "Această rezervație naturală din Marondera protejează o întindere de pădure miombo și fauna sa nativă de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        31.622395,
+                        -18.181357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bushman Paintings",
+                  "text": "These ancient rock art sites in Marondera preserve the intricate paintings created by early hunter-gatherer societies.",
+                  "category": "historical",
+                  "coords": [
+                        31.619443,
+                        -18.176705
+                  ]
+            },
+            {
+                  "name": "Gosho Park",
+                  "text": "This nature reserve in Marondera protects an expanse of miombo woodland and its native high-altitude wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        31.622395,
+                        -18.181357
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZW-ME",
     coords: [31.5519, -18.1853],
@@ -701,7 +1025,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "bindura-cities-v2",
+    id: "bindura-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Show ground",
+                  "text": "Dieser weitläufige Veranstaltungsort in Bindura ist das Zentrum für landwirtschaftliche Ausstellungen und lokale Gemeindetreffen im Mazowe-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        31.327329,
+                        -17.304531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Show ground",
+                  "text": "Ez a kiterjedt bindurai rendezvénytér a Mazowe-völgy mezőgazdasági kiállításainak és helyi közösségi összejöveteleinek központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        31.327329,
+                        -17.304531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Show ground",
+                  "text": "Acest spațiu extins de evenimente din Bindura este locația centrală pentru expozițiile agricole și adunările comunității locale din valea Mazowe.",
+                  "category": "landmark",
+                  "coords": [
+                        31.327329,
+                        -17.304531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Show ground",
+                  "text": "This expansive event space in Bindura is the central venue for agricultural exhibitions and local community gatherings in the Mazowe Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        31.327329,
+                        -17.304531
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "ZW-MC",
     coords: [31.3306, -17.3019],
@@ -2126,7 +2495,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "epworth-cities-v2",
+    id: "epworth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Epworth Balancing Rocks",
+                  "text": "Die Chiremba Balancing Rocks in Epworth sind eindrucksvolle Granitfelsen, die scheinbar prekär aufeinander balancieren.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127021,
+                        -17.88525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Epworth Balancing Rocks",
+                  "text": "Az epworthi Chiremba Balancing Rocks lenyűgöző gránitsziklák, amelyek látszólag bizonytalanul egyensúlyoznak egymáson.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127021,
+                        -17.88525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Epworth Balancing Rocks",
+                  "text": "Chiremba Balancing Rocks din Epworth sunt impresionante formațiuni de granit care par să se echilibreze precar una peste alta.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127021,
+                        -17.88525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiremba Balancing Rocks",
+                  "text": "The Chiremba Balancing Rocks in Epworth consist of massive natural granite boulders resting precariously on top of one another.",
+                  "category": "landmark",
+                  "coords": [
+                        31.127021,
+                        -17.88525
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-HA",
     coords: [31.1475, -17.89],

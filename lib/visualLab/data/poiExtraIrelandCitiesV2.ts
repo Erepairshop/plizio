@@ -601,7 +601,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gunpowder Mills",
-                  "text": "Ruinen einer historischen Schießpulverfabrik in Ballincollig.",
+                  "text": "Die Ballincollig Royal Gunpowder Mills sind eine denkmalgeschützte historische Schießpulverfabrik.",
                   "category": "historical",
                   "coords": [
                         -8.592219,
@@ -666,7 +666,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gunpowder Mills",
-                  "text": "Egy történelmi lőporgyár romjai Ballincolligban.",
+                  "text": "A Ballincollig-i Királyi Lőporgyárak egy műemlék történelmi lőporgyár.",
                   "category": "historical",
                   "coords": [
                         -8.592219,
@@ -731,7 +731,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gunpowder Mills",
-                  "text": "Ruinele unei fabrici istorice de praf de pușcă în Ballincollig.",
+                  "text": "Morile Regale de Pulbere de Pușcă din Ballincollig sunt o fabrică istorică de pulbere protejată.",
                   "category": "historical",
                   "coords": [
                         -8.592219,
@@ -796,7 +796,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gunpowder Mills",
-                  "text": "Ruins of a historic gunpowder factory in Ballincollig.",
+                  "text": "The Ballincollig Royal Gunpowder Mills are a heritage-listed historic gunpowder factory.",
                   "category": "historical",
                   "coords": [
                         -8.592219,
@@ -2617,7 +2617,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dominic's Abbey",
-                  "text": "St. Dominic's Abbey ist eine Klosterruine in der historischen Stadt Cashel.",
+                  "text": "Die Dominic's Abbey (St. Dominic's Abbey) ist eine denkmalgeschützte Dominikanerabteiruine (Grad 2) in Cashel.",
                   "category": "religious",
                   "coords": [
                         -7.887713,
@@ -2727,7 +2727,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dominic's Abbey",
-                  "text": "A St. Dominic's Abbey egy kolostorrom Cashel történelmi városában.",
+                  "text": "A Dominic's Abbey (Szent Domonkos-apátság) egy műemlék domonkos apátsági rom (2. fokozat) Cashelben.",
                   "category": "religious",
                   "coords": [
                         -7.887713,
@@ -2837,7 +2837,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dominic's Abbey",
-                  "text": "St. Dominic's Abbey este o ruină de mănăstire în orașul istoric Cashel.",
+                  "text": "Dominic's Abbey (Mănăstirea Sf. Dominic) este o ruină de mănăstire dominicană protejată (gradul 2) în Cashel.",
                   "category": "religious",
                   "coords": [
                         -7.887713,
@@ -2947,7 +2947,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dominic's Abbey",
-                  "text": "St. Dominic's Abbey is a monastery ruin in the historic town of Cashel.",
+                  "text": "Dominic's Abbey (St. Dominic's Abbey) is a heritage-listed Dominican abbey ruin (Grade 2) in Cashel.",
                   "category": "religious",
                   "coords": [
                         -7.887713,
@@ -7351,7 +7351,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kindlestown Castle",
-                  "text": "Ruine einer Burg aus dem 13. Jahrhundert auf einem Hügel mit Blick auf die Irische See, geschütztes Denkmal.",
+                  "text": "Die Kindlestown Castle ist eine denkmalgeschützte mittelalterliche Burgruine in Greystones.",
                   "category": "castle",
                   "coords": [
                         -6.089034,
@@ -7504,7 +7504,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "St. Mary's Church ist ein historisches Kirchengebäude in Greystones.",
+                  "text": "Die St. Mary's Church (Downsmill) ist eine denkmalgeschützte Kirchenruine (Grad 2) in Greystones.",
                   "category": "religious",
                   "coords": [
                         -6.110643,
@@ -7515,7 +7515,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kindlestown Castle",
-                  "text": "13. századi várrom egy dombon, az Ír-tengerre néző, védett műemlék.",
+                  "text": "A Kindlestown-kastély egy műemlék középkori várrom Greystonesban.",
                   "category": "castle",
                   "coords": [
                         -6.089034,
@@ -7668,7 +7668,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "A St. Mary's Church egy történelmi templomépület Greystonesban.",
+                  "text": "A St. Mary's Church (Downsmill) egy műemlék templomrom (2. fokozat) Greystonesban.",
                   "category": "religious",
                   "coords": [
                         -6.110643,
@@ -7679,7 +7679,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kindlestown Castle",
-                  "text": "Ruinele unui castel din secolul al XIII-lea pe un deal cu vedere la Marea Irlandeză, monument protejat.",
+                  "text": "Castelul Kindlestown este o ruină de castel medieval protejată în Greystones.",
                   "category": "castle",
                   "coords": [
                         -6.089034,
@@ -7832,7 +7832,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "St. Mary's Church este o clădire istorică a bisericii în Greystones.",
+                  "text": "Biserica Sf. Maria (Downsmill) este o ruină de biserică protejată (gradul 2) în Greystones.",
                   "category": "religious",
                   "coords": [
                         -6.110643,
@@ -7843,7 +7843,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kindlestown Castle",
-                  "text": "Ruined 13th-century castle on a hill overlooking the Irish Sea, a protected monument.",
+                  "text": "Kindlestown Castle is a heritage-listed medieval castle ruin in Greystones.",
                   "category": "castle",
                   "coords": [
                         -6.089034,
@@ -7996,7 +7996,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "St. Mary's Church is a historic church building in Greystones.",
+                  "text": "St. Mary's Church (Downsmill) is a heritage-listed church ruin (Grade 2) in Greystones.",
                   "category": "religious",
                   "coords": [
                         -6.110643,
@@ -10303,7 +10303,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Listowel Castle",
-                  "text": "Eine gut erhaltene Burg aus dem 15. Jahrhundert im Herzen von Listowel.",
+                  "text": "Die Listowel Castle ist eine denkmalgeschützte Burg (Grad 2) aus dem 15. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         -9.486974,
@@ -10332,7 +10332,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Listowel Castle",
-                  "text": "Listowel szívében található, jól megőrzött 15. századi vár.",
+                  "text": "A Listowel-kastély egy műemlék (2. fokozat) 15. századi vár.",
                   "category": "castle",
                   "coords": [
                         -9.486974,
@@ -10361,7 +10361,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Listowel Castle",
-                  "text": "Un castel bine conservat din secolul al XV-lea în inima orașului Listowel.",
+                  "text": "Castelul Listowel este un castel protejat (gradul 2) din secolul al XV-lea.",
                   "category": "castle",
                   "coords": [
                         -9.486974,
@@ -10390,7 +10390,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Listowel Castle",
-                  "text": "A well-preserved 15th-century castle in the heart of Listowel.",
+                  "text": "Listowel Castle is a heritage-listed 15th-century castle (Grade 2).",
                   "category": "castle",
                   "coords": [
                         -9.486974,
@@ -11914,7 +11914,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Archbold's Castle",
-                  "text": "Eine mittelalterliche Turmburg in Monkstown.",
+                  "text": "Eine denkmalgeschützte Burg aus dem 14. Jahrhundert in Monkstown.",
                   "category": "castle",
                   "coords": [
                         -6.106433,
@@ -11923,7 +11923,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monkstown Castle",
-                  "text": "Eine historische Burgruine in Monkstown.",
+                  "text": "Die Monkstown Castle ist eine denkmalgeschützte Burgruine.",
                   "category": "castle",
                   "coords": [
                         -6.150511,
@@ -12139,7 +12139,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Grange Church (ruins)",
-                  "text": "Die Überreste einer alten mittelalterlichen Kirche.",
+                  "text": "Die Grange Church (Kill of the Grange) ist eine denkmalgeschützte mittelalterliche Kirchenruine (Grad 2).",
                   "category": "religious",
                   "coords": [
                         -6.16099,
@@ -12195,7 +12195,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Archbold's Castle",
-                  "text": "Középkori toronyvár Monkstownban.",
+                  "text": "Egy 14. századi védett vár Monkstownban.",
                   "category": "castle",
                   "coords": [
                         -6.106433,
@@ -12204,7 +12204,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monkstown Castle",
-                  "text": "Történelmi várrom Monkstownban.",
+                  "text": "A Monkstown-kastély egy műemlék várrom.",
                   "category": "castle",
                   "coords": [
                         -6.150511,
@@ -12420,7 +12420,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Grange Church (ruins)",
-                  "text": "Egy régi középkori templom maradványai.",
+                  "text": "A Grange Church (Kill of the Grange) egy műemlék középkori templomrom (2. fokozat).",
                   "category": "religious",
                   "coords": [
                         -6.16099,
@@ -12476,7 +12476,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Archbold's Castle",
-                  "text": "Un castel medieval tip turn în Monkstown.",
+                  "text": "Un castel din secolul al XIV-lea, protejat, în Monkstown.",
                   "category": "castle",
                   "coords": [
                         -6.106433,
@@ -12485,7 +12485,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monkstown Castle",
-                  "text": "O ruină istorică de castel în Monkstown.",
+                  "text": "Castelul Monkstown este o ruină de castel protejată.",
                   "category": "castle",
                   "coords": [
                         -6.150511,
@@ -12701,7 +12701,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Grange Church (ruins)",
-                  "text": "Rămășițele unei vechi biserici medievale.",
+                  "text": "Biserica Grange (Kill of the Grange) este o ruină de biserică medievală protejată (gradul 2).",
                   "category": "religious",
                   "coords": [
                         -6.16099,
@@ -12757,7 +12757,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Archbold's Castle",
-                  "text": "A medieval tower house located in Monkstown.",
+                  "text": "A 14th-century castle, a protected historic monument in Monkstown.",
                   "category": "castle",
                   "coords": [
                         -6.106433,
@@ -12766,7 +12766,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monkstown Castle",
-                  "text": "A historic castle ruin located in Monkstown.",
+                  "text": "Monkstown Castle is a heritage-listed castle ruin.",
                   "category": "castle",
                   "coords": [
                         -6.150511,
@@ -12982,7 +12982,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Grange Church (ruins)",
-                  "text": "The remains of an ancient medieval church.",
+                  "text": "Grange Church (Kill of the Grange) is a heritage-listed medieval church ruin (Grade 2).",
                   "category": "religious",
                   "coords": [
                         -6.16099,
@@ -15658,7 +15658,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ballylahan Castle",
-                  "text": "Eine historische Burgruine in der Nähe von Swinford.",
+                  "text": "Die Ballylahan Castle ist eine denkmalgeschützte Burgruine aus dem 13. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         -9.104966,
@@ -15687,7 +15687,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ballylahan Castle",
-                  "text": "Történelmi várrom Swinford közelében.",
+                  "text": "A Ballylahan-kastély egy műemlék 13. századi várrom.",
                   "category": "castle",
                   "coords": [
                         -9.104966,
@@ -15716,7 +15716,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ballylahan Castle",
-                  "text": "O ruină istorică de castel situată lângă Swinford.",
+                  "text": "Castelul Ballylahan este o ruină de castel protejată din secolul al XIII-lea.",
                   "category": "castle",
                   "coords": [
                         -9.104966,
@@ -15745,7 +15745,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ballylahan Castle",
-                  "text": "A historic ruined castle located near Swinford.",
+                  "text": "Ballylahan Castle is a heritage-listed 13th-century castle ruin.",
                   "category": "castle",
                   "coords": [
                         -9.104966,
@@ -17692,7 +17692,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Michael and All Angels' Church",
-                  "text": "Eine christliche Kirche in Abbeyleix.",
+                  "text": "Die St. Michael and All Angels' Church wurde 1865 nach einem Entwurf von Thomas Wyatt erbaut.",
                   "category": "religious",
                   "coords": [
                         -7.354695,
@@ -17739,7 +17739,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Michael and All Angels' Church",
-                  "text": "Keresztény templom Abbeyleixben.",
+                  "text": "A Szent Mihály és Minden Angyalok temploma 1865-ben épült, Thomas Wyatt tervei alapján.",
                   "category": "religious",
                   "coords": [
                         -7.354695,
@@ -17786,7 +17786,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Michael and All Angels' Church",
-                  "text": "O biserică creștină situată în Abbeyleix.",
+                  "text": "Biserica Sf. Mihail și Toți Îngerii a fost construită în 1865, proiectată de Thomas Wyatt.",
                   "category": "religious",
                   "coords": [
                         -7.354695,
@@ -17833,7 +17833,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Michael and All Angels' Church",
-                  "text": "A Christian church located in Abbeyleix.",
+                  "text": "St. Michael and All Angels' Church was built in 1865, designed by Thomas Wyatt.",
                   "category": "religious",
                   "coords": [
                         -7.354695,
@@ -21265,7 +21265,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Roscrea Castle",
-                  "text": "Eine steinerne Burg aus dem 13. Jahrhundert in Roscrea.",
+                  "text": "Die Roscrea Castle ist eine denkmalgeschützte Burg (Grad 2) mit einem Torturm aus dem 13. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         -7.798048,
@@ -21274,7 +21274,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Abbey",
-                  "text": "Ein franziskanisches Kloster aus dem 15. Jahrhundert in Roscrea.",
+                  "text": "Die Roscrea Abbey (Roscrea Friary) ist eine denkmalgeschützte Franziskanerklosterruine aus dem 15. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -7.799669,
@@ -21348,7 +21348,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Roscrea Castle",
-                  "text": "13. századi kővár Roscrea városában.",
+                  "text": "A Roscrea-kastély egy műemlék (2. fokozat) vár egy 13. századi kaputoronnyal.",
                   "category": "castle",
                   "coords": [
                         -7.798048,
@@ -21357,7 +21357,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Abbey",
-                  "text": "15. századi ferences kolostor Roscrea városában.",
+                  "text": "A Roscrea-apátság egy műemlék ferences kolostorrom a 15. századból.",
                   "category": "religious",
                   "coords": [
                         -7.799669,
@@ -21431,7 +21431,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Roscrea Castle",
-                  "text": "Un castel de piatră din secolul al XIII-lea în Roscrea.",
+                  "text": "Castelul Roscrea este un castel protejat (gradul 2) cu un turn de poartă din secolul al XIII-lea.",
                   "category": "castle",
                   "coords": [
                         -7.798048,
@@ -21440,7 +21440,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Abbey",
-                  "text": "O mănăstire franciscană din secolul al XV-lea în Roscrea.",
+                  "text": "Mănăstirea Roscrea (Roscrea Friary) este o ruină de mănăstire franciscană protejată din secolul al XV-lea.",
                   "category": "religious",
                   "coords": [
                         -7.799669,
@@ -21514,7 +21514,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Roscrea Castle",
-                  "text": "A 13th-century stone castle in Roscrea.",
+                  "text": "Roscrea Castle is a heritage-listed castle (Grade 2) with a 13th-century gate tower.",
                   "category": "castle",
                   "coords": [
                         -7.798048,
@@ -21523,7 +21523,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Abbey",
-                  "text": "A 15th-century Franciscan friary in Roscrea.",
+                  "text": "Roscrea Abbey (Roscrea Friary) is a heritage-listed Franciscan friary ruin from the 15th century.",
                   "category": "religious",
                   "coords": [
                         -7.799669,

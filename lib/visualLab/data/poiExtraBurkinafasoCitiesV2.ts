@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraBurkinafasoCitiesV2: POI[] = [
   {
-    id: "ouagadougou-cities-v2",
+    id: "ouagadougou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la Bataille du rail",
+                  "text": "Dieses am 2. Oktober 1985 eingeweihte historische Denkmal erinnert an den kollektiven freiwilligen Einsatz beim Bau der nationalen Eisenbahn.",
+                  "category": "historical",
+                  "coords": [
+                        -1.534069,
+                        12.364864
+                  ]
+            },
+            {
+                  "name": "Palais Ouidi Naaba",
+                  "text": "Dieser von Erdmauern umgebene königliche Komplex ist die traditionelle Residenz des Ouidi Naaba, des hochrangigen Kavalleriechefs in der Mossi-Kultur.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.541387,
+                        12.378904
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs de Tampouy",
+                  "text": "Diese imposante Betonstele im Bezirk Tampouy ehrt die lokalen Märtyrer, die während der nationalen Aufstände ihr Leben opferten.",
+                  "category": "historical",
+                  "coords": [
+                        -1.558068,
+                        12.395258
+                  ]
+            },
+            {
+                  "name": "FESPACO",
+                  "text": "Diese herausragende Kulturstätte dient als Hauptsitz von FESPACO, dem größten und berühmtesten alle zwei Jahre stattfindenden Filmfestival Afrikas.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53576,
+                        12.364516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la Bataille du rail",
+                  "text": "Az 1985. október 2-án felavatott történelmi emlékmű a nemzeti vasút építésében végzett kollektív önkéntes munkának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -1.534069,
+                        12.364864
+                  ]
+            },
+            {
+                  "name": "Palais Ouidi Naaba",
+                  "text": "Ez a földfalakkal körülvett királyi komplexum az Ouidi Naaba, a mosszi kultúra magas rangú lovassági parancsnokának hagyományos rezidenciája.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.541387,
+                        12.378904
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs de Tampouy",
+                  "text": "A Tampouy negyedben álló impozáns beton sztélé a nemzeti felkelések során életüket feláldozó helyi mártíroknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -1.558068,
+                        12.395258
+                  ]
+            },
+            {
+                  "name": "FESPACO",
+                  "text": "Ez a kiemelkedő kulturális helyszín szolgál a FESPACO, Afrika legnagyobb és leghíresebb kétévente megrendezett filmfesztiváljának központjaként.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53576,
+                        12.364516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la Bataille du rail",
+                  "text": "Inaugurat la 2 octombrie 1985, acest monument istoric comemorează efortul voluntar colectiv de construire a căii ferate naționale.",
+                  "category": "historical",
+                  "coords": [
+                        -1.534069,
+                        12.364864
+                  ]
+            },
+            {
+                  "name": "Palais Ouidi Naaba",
+                  "text": "Acest complex regal cu ziduri de pământ este reședința tradițională a lui Ouidi Naaba, șeful de rang înalt al cavaleriei în cultura Mossi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.541387,
+                        12.378904
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs de Tampouy",
+                  "text": "Situată în cartierul Tampouy, această impunătoare stelă din beton onorează martirii locali care și-au sacrificat viața în timpul revoltelor naționale.",
+                  "category": "historical",
+                  "coords": [
+                        -1.558068,
+                        12.395258
+                  ]
+            },
+            {
+                  "name": "FESPACO",
+                  "text": "Acest sit cultural proeminent servește drept sediu pentru FESPACO, cel mai mare și mai celebrat festival bienal de film din Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53576,
+                        12.364516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la Bataille du rail",
+                  "text": "Inaugurated on October 2, 1985, this historical monument commemorates the collective volunteer effort to build the national railway.",
+                  "category": "historical",
+                  "coords": [
+                        -1.534069,
+                        12.364864
+                  ]
+            },
+            {
+                  "name": "Palais Ouidi Naaba",
+                  "text": "This earthen-walled royal complex is the traditional residence of the Ouidi Naaba, the high-ranking chief of the cavalry in Mossi culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.541387,
+                        12.378904
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs de Tampouy",
+                  "text": "Set within the Tampouy district, this imposing concrete stele honors local martyrs who sacrificed their lives during national uprisings.",
+                  "category": "historical",
+                  "coords": [
+                        -1.558068,
+                        12.395258
+                  ]
+            },
+            {
+                  "name": "Panafrican Film and Television Festival of Ouagadougou",
+                  "text": "This prominent cultural site serves as the headquarters for FESPACO, Africa's largest and most celebrated biennial film festival.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.53576,
+                        12.364516
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "BF-03",
     coords: [-1.5339, 12.3686],
@@ -32,7 +185,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       en: ["Ouagadougou’s population density in the urban core is over 1,500 people per sq km.", "The city's name originates from the Mossi words 'Wogodogo' and 'Wogodogo'.", "The Monument of Filmmakers (Place des Cinéastes) honors African cinematic history.", "Burkina Faso’s National Assembly building is located in the heart of Ouagadougou.", "The city experiences a peak temperature of up to 45°C during the month of April.", "There are over 500,000 registered mopeds and scooters in the city.", "The University of Ouagadougou (Joseph Ki-Zerbo University) was founded in 1974.", "The city hosted the African Cup of Nations final in 1998 at the Stade du 4 Août."],
     }, image: "/poi-images/ouagadougou-cities-v2.webp"},
   {
-    id: "bobo-dioulasso-cities-v2",
+    id: "bobo-dioulasso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "GAFREH",
+                  "text": "Das Kunstzentrum präsentiert lokales Kunsthandwerk und kulturelle Ausdrucksformen der Gemeinde Bobo-Dioulasso.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.298182,
+                        11.173432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GAFREH",
+                  "text": "A művészeti központ a Bobo-Dioulasso közösség helyi kézműves termékeit és kulturális kifejezésmódjait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.298182,
+                        11.173432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GAFREH",
+                  "text": "Centrul de artă expune meșteșuguri locale și expresii culturale ale comunității din Bobo-Dioulasso.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.298182,
+                        11.173432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GAFREH",
+                  "text": "The arts centre showcases local crafts and cultural expressions from the Bobo-Dioulasso community.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.298182,
+                        11.173432
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-09",
     coords: [-4.2975, 11.1771],
@@ -67,7 +265,124 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: ["Fondation au XIXe siècle sous le nom de 'Sya'", "Centre de l'industrie cotonnière (SOFITEX)", "Monument architectural : Grande Mosquée de 1893", "Gare importante sur la ligne vers Abidjan", "Centre-ville avec ancienne gare ferroviaire", "Connue pour le marché 'Piscine de Doufié'"],
     }, image: "/poi-images/bobo-dioulasso-cities-v2.webp"},
   {
-    id: "koudougou-cities-v2",
+    id: "koudougou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cité des Arts",
+                  "text": "Die Cité des Arts ist ein dynamischer Kulturkomplex in Koudougou, der lokale burkinische Künstler und Darsteller fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.354241,
+                        12.26014
+                  ]
+            },
+            {
+                  "name": "APNZAB,siège koudougou",
+                  "text": "Dieses Kunstzentrum in Koudougou fungiert als kultureller Hauptsitz und unterstützt Gemeinschaftsprojekte sowie kreative Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.355392,
+                        12.258592
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Augustin de Koudougou",
+                  "text": "Diese prominente katholische Kathedrale dient als wichtiges spirituelles Zentrum in der geschäftigen Stadtlandschaft von Koudougou.",
+                  "category": "religious",
+                  "coords": [
+                        -2.363237,
+                        12.254977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cité des Arts",
+                  "text": "A Cité des Arts egy dinamikus kulturális komplexum Koudougou-ban, amely a helyi burkinai művészeket és előadókat támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.354241,
+                        12.26014
+                  ]
+            },
+            {
+                  "name": "APNZAB,siège koudougou",
+                  "text": "Ez a koudougoui művészeti központ helyi kulturális központként működik, közösségi projekteket és kreatív workshopokat támogatva.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.355392,
+                        12.258592
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Augustin de Koudougou",
+                  "text": "Ez a kiemelkedő katolikus katedrális kulcsfontosságú spirituális központként szolgál Koudougou nyüzsgő városképében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.363237,
+                        12.254977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cité des Arts",
+                  "text": "Cité des Arts este un complex cultural vibrant din Koudougou, dedicat sprijinirii artiștilor și interpreților locali burkinezi.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.354241,
+                        12.26014
+                  ]
+            },
+            {
+                  "name": "APNZAB,siège koudougou",
+                  "text": "Servind drept sediu cultural local, acest centru de arte din Koudougou facilitează proiecte comunitare și ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.355392,
+                        12.258592
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Augustin de Koudougou",
+                  "text": "Această catedrală catolică proeminentă servește ca un centru spiritual cheie în peisajul urban plin de viață din Koudougou.",
+                  "category": "religious",
+                  "coords": [
+                        -2.363237,
+                        12.254977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cité des Arts",
+                  "text": "The Cité des Arts is a vibrant cultural complex in Koudougou dedicated to supporting local Burkinabé artists and performers.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.354241,
+                        12.26014
+                  ]
+            },
+            {
+                  "name": "APNZAB,siège koudougou",
+                  "text": "Serving as a local cultural headquarters, this arts centre in Koudougou facilitates community projects and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.355392,
+                        12.258592
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Augustin de Koudougou",
+                  "text": "This prominent Catholic cathedral serves as a key spiritual centre in the bustling urban landscape of Koudougou.",
+                  "category": "religious",
+                  "coords": [
+                        -2.363237,
+                        12.254977
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-06",
     coords: [-2.3628, 12.2526],
@@ -137,7 +452,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: ["Capitale historique du royaume du Yatenga", "Centre de l'amélioration des sols agricoles", "Chef-lieu de la région du Nord", "Héritage culturel du palais du Naaba", "Carrefour du commerce de bétail dans le nord"],
     }, image: "/poi-images/ouahigouya-cities-v2.webp"},
   {
-    id: "banfora-cities-v2",
+    id: "banfora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "old christian cementary",
+                  "text": "Die Ruinen dieses historischen christlichen Friedhofs liegen verstreut im Gebiet von Banfora.",
+                  "category": "historical",
+                  "coords": [
+                        -4.759766,
+                        10.636227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "old christian cementary",
+                  "text": "Ennek a történelmi keresztény temetőnek a romjai a Banfora régióban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -4.759766,
+                        10.636227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "old christian cementary",
+                  "text": "Ruinele acestui cimitir creștin istoric se găsesc presărate în zona Banfora.",
+                  "category": "historical",
+                  "coords": [
+                        -4.759766,
+                        10.636227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "old christian cementary",
+                  "text": "The ruins of this historical Christian cemetery lie scattered in the Banfora area.",
+                  "category": "historical",
+                  "coords": [
+                        -4.759766,
+                        10.636227
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-02",
     coords: [-4.755, 10.6333],
@@ -207,7 +567,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: ["Chef-lieu de la région de la Boucle du Mouhoun", "Fondée près de la rivière Mouhoun", "Centre du festival FESTIMA", "Site important pour la transformation du coton", "Plataforme pour le commerce des céréales", "Héritage culturel des tribus régionales"],
     }, image: "/poi-images/dedougou-cities-v2.webp"},
   {
-    id: "kaya-cities-v2",
+    id: "kaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point",
+                  "text": "Ein zentrales Kreisverkehrsdenkmal, das den lokalen Verkehr in der Stadt Kaya regelt.",
+                  "category": "historical",
+                  "coords": [
+                        -1.091142,
+                        13.09081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point",
+                  "text": "Egy központi körforgalom-emlékmű, amely a helyi forgalmat irányítja Kaya városában.",
+                  "category": "historical",
+                  "coords": [
+                        -1.091142,
+                        13.09081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point",
+                  "text": "Un monument central de sens giratoriu care dirijează traficul local în orașul Kaya.",
+                  "category": "historical",
+                  "coords": [
+                        -1.091142,
+                        13.09081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point",
+                  "text": "A central roundabout monument directing local traffic in the city of Kaya.",
+                  "category": "historical",
+                  "coords": [
+                        -1.091142,
+                        13.09081
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-05",
     coords: [-1.0844, 13.0916],
@@ -322,7 +727,88 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: ["Capitale de la région du Sahel", "Centre culturel des Touaregs et des Peuls", "Réputée pour son artisanat traditionnel", "Région de vastes paysages sahéliens", "Place commerciale importante pour le bétail", "Mosquée d'importance historique"],
     }, image: "/poi-images/dori-cities-v2.webp"},
   {
-    id: "tenkodogo-cities-v2",
+    id: "tenkodogo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tenko mix VIP",
+                  "text": "Ein lebhafter VIP-Veranstaltungsort, der Besucher in der Stadt Tenkodogo anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.365506,
+                        11.777957
+                  ]
+            },
+            {
+                  "name": "ruÏne",
+                  "text": "Die baulichen Überreste und Ruinen eines alten Gebäudes in Tenkodogo.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36573,
+                        11.780229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tenko mix VIP",
+                  "text": "Egy nyüzsgő VIP-rendezvényhelyszín, amely vonzza a látogatókat Tenkodogo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.365506,
+                        11.777957
+                  ]
+            },
+            {
+                  "name": "ruÏne",
+                  "text": "Egy régi épület szerkezeti maradványai és romjai Tenkodogóban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36573,
+                        11.780229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tenko mix VIP",
+                  "text": "Un loc de întâlnire VIP vibrant, care atrage vizitatori în orașul Tenkodogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.365506,
+                        11.777957
+                  ]
+            },
+            {
+                  "name": "ruÏne",
+                  "text": "Rămășițele structurale și ruinele unei clădiri vechi găsite în Tenkodogo.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36573,
+                        11.780229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tenko mix VIP",
+                  "text": "A vibrant VIP mix venue attracting visitors in the city of Tenkodogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.365506,
+                        11.777957
+                  ]
+            },
+            {
+                  "name": "ruÏne",
+                  "text": "The structural remains and ruins of an old building found in Tenkodogo.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36573,
+                        11.780229
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-04",
     coords: [-0.3666, 11.7799],
@@ -604,7 +1090,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     },
   },
   {
-    id: "hounde-cities-v2",
+    id: "hounde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caro tecque",
+                  "text": "Ein lokales Museum in Houndé, das regionale Artefakte und kulturelles Erbe bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -3.517727,
+                        11.498305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caro tecque",
+                  "text": "Egy helyi múzeum Houndéban, amely megőrzi a regionális leleteket és a kulturális örökséget.",
+                  "category": "museum",
+                  "coords": [
+                        -3.517727,
+                        11.498305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caro tecque",
+                  "text": "Un muzeu local din Houndé care conservă artefacte regionale și patrimoniul cultural.",
+                  "category": "museum",
+                  "coords": [
+                        -3.517727,
+                        11.498305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caro tecque",
+                  "text": "A local museum in Houndé preserving regional artifacts and cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -3.517727,
+                        11.498305
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-09",
     coords: [-3.5186, 11.4981],
@@ -815,7 +1346,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/po-cities-v2.webp"},
   {
-    id: "gourcy-cities-v2",
+    id: "gourcy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolée",
+                  "text": "Dieses monumentale Mausoleum in Gourcy dient als feierliche Ruhestätte und markantes lokales Wahrzeichen.",
+                  "category": "historical",
+                  "coords": [
+                        -2.358267,
+                        13.196314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolée",
+                  "text": "Ez a gourcy-i monumentális mauzóleum ünnepélyes nyughelyként és jellegzetes helyi történelmi nevezetességként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -2.358267,
+                        13.196314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolée",
+                  "text": "Acest mausoleu monumental din Gourcy servește drept loc de odihnă solemn și un reper istoric local distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        -2.358267,
+                        13.196314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausolée",
+                  "text": "This monumental mausoleum in Gourcy serves as a solemn resting place and a distinctive local historical landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -2.358267,
+                        13.196314
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-10",
     coords: [-2.3556, 13.2104],
@@ -885,7 +1461,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bousse-cities-v2.webp"},
   {
-    id: "sindou-cities-v2",
+    id: "sindou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pics de Sindou",
+                  "text": "Dieses Naturschutzgebiet schützt eine dramatische Landschaft aus schroffen, stark erodierten Sandsteingipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        -5.153875,
+                        10.653853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pics de Sindou",
+                  "text": "Ez a természetvédelmi terület a zord, erősen erodálódott homokkő csúcsok drámai táját védi.",
+                  "category": "natural",
+                  "coords": [
+                        -5.153875,
+                        10.653853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pics de Sindou",
+                  "text": "Această rezervație naturală protejează un peisaj spectaculos de vârfuri de gresie abrupte, puternic erodate.",
+                  "category": "natural",
+                  "coords": [
+                        -5.153875,
+                        10.653853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pics de Sindou",
+                  "text": "This nature reserve protects a dramatic landscape of craggy, heavily eroded sandstone peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -5.153875,
+                        10.653853
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-02",
     coords: [-5.1667, 10.65],
@@ -1035,7 +1656,88 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/nouna-cities-v2.webp"},
   {
-    id: "toma-cities-v2",
+    id: "toma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Alfred Ki-Zerbo",
+                  "text": "Ein lehrreiches Museum in Toma, das sich der Bewahrung der lokalen Geschichte und des Erbes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.89734,
+                        12.765583
+                  ]
+            },
+            {
+                  "name": "Hommage au Pr Joseph Ki-Zerbo",
+                  "text": "Ein Gedenkmonument zu Ehren des renommierten Historikers Professor Joseph Ki-Zerbo in der Stadt Toma.",
+                  "category": "historical",
+                  "coords": [
+                        -2.898516,
+                        12.763582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Alfred Ki-Zerbo",
+                  "text": "Egy oktatási célú múzeum Tomában, amelyet a helyi történelem és örökség megőrzésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -2.89734,
+                        12.765583
+                  ]
+            },
+            {
+                  "name": "Hommage au Pr Joseph Ki-Zerbo",
+                  "text": "A neves történész, Joseph Ki-Zerbo professzor tiszteletére emelt emlékmű Toma városában.",
+                  "category": "historical",
+                  "coords": [
+                        -2.898516,
+                        12.763582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Alfred Ki-Zerbo",
+                  "text": "Un muzeu educațional din Toma dedicat conservării istoriei și moștenirii locale.",
+                  "category": "museum",
+                  "coords": [
+                        -2.89734,
+                        12.765583
+                  ]
+            },
+            {
+                  "name": "Hommage au Pr Joseph Ki-Zerbo",
+                  "text": "Un monument comemorativ în onoarea renumitului istoric, profesorul Joseph Ki-Zerbo, în orașul Toma.",
+                  "category": "historical",
+                  "coords": [
+                        -2.898516,
+                        12.763582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Alfred Ki-Zerbo",
+                  "text": "An educational museum in Toma dedicated to preserving local history and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -2.89734,
+                        12.765583
+                  ]
+            },
+            {
+                  "name": "Hommage au Pr Joseph Ki-Zerbo",
+                  "text": "A commemorative monument honoring the renowned historian Professor Joseph Ki-Zerbo in the city of Toma.",
+                  "category": "historical",
+                  "coords": [
+                        -2.898516,
+                        12.763582
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-01",
     coords: [-2.8992, 12.7611],
@@ -1421,7 +2123,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/boromo-cities-v2.webp"},
   {
-    id: "dano-cities-v2",
+    id: "dano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de la Femme",
+                  "text": "Das Musée de la Femme ist eine Ausstellungseinrichtung, die sich der historischen Rolle und dem Handwerk der Frauen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -3.063192,
+                        11.145864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la Femme",
+                  "text": "A Musée de la Femme egy kiállítóhely, amely a nők történelmi szerepének és kézművességének bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -3.063192,
+                        11.145864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la Femme",
+                  "text": "Musée de la Femme este o instituție expozițională dedicată rolului istoric și meșteșugurilor femeilor în societate.",
+                  "category": "museum",
+                  "coords": [
+                        -3.063192,
+                        11.145864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de la Femme",
+                  "text": "Musée de la Femme is a dedicated museum showcasing the history, traditional crafts, and societal contributions of women.",
+                  "category": "museum",
+                  "coords": [
+                        -3.063192,
+                        11.145864
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-13",
     coords: [-3.0578, 11.1444],
@@ -1959,7 +2706,52 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/boni-cities-v2.webp"},
   {
-    id: "boulsa-cities-v2",
+    id: "boulsa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point. De Boulsa",
+                  "text": "Ein lokales Kreisverkehrsdenkmal im Herzen von Boulsa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.572451,
+                        12.65904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point. De Boulsa",
+                  "text": "Egy helyi körforgalom-emlékmű Boulsa szívében.",
+                  "category": "historical",
+                  "coords": [
+                        -0.572451,
+                        12.65904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point. De Boulsa",
+                  "text": "Un monument local de sens giratoriu situat în inima orașului Boulsa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.572451,
+                        12.65904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point. De Boulsa",
+                  "text": "A local roundabout monument situated in the heart of Boulsa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.572451,
+                        12.65904
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BF-05",
     coords: [-0.5767, 12.6583],

@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const malawiCitiesV2: POI[] = [
 
   {
-    id: "malawi-lilongwe-cities-v2",
+    id: "malawi-lilongwe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "War Memorial Tower",
+                  "text": "Der War Memorial Tower in Lilongwe ist ein markantes Bauwerk zu Ehren der malawischen Soldaten, die in den Weltkriegen gedient haben und gefallen sind.",
+                  "category": "museum",
+                  "coords": [
+                        33.784721,
+                        -13.946049
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "Das Parlamentsgebäude in Lilongwe ist ein imposanter Verwaltungskomplex, in dem das malawische Parlament seine Sitzungen abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        33.787915,
+                        -13.953565
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "Das Naturreservat Lilongwe schützt ein städtisches Waldökosystem und bietet Wanderwege durch einheimische Baumbestände sowie Lebensräume für lokale Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        33.782354,
+                        -13.963335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "War Memorial Tower",
+                  "text": "A lilongwe-i háborús emlékmű egy kiemelkedő építmény, amely a világháborúkban szolgált és elesett malawi katonák előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        33.784721,
+                        -13.946049
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "A lilongwe-i Parlament épülete egy impozáns közigazgatási komplexum, ahol a malawi törvényhozó testület tartja üléseit.",
+                  "category": "landmark",
+                  "coords": [
+                        33.787915,
+                        -13.953565
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "A Lilongwe Természetvédelmi Terület egy városi erdei ökoszisztémát véd, és őshonos fák közötti ösvényeket, valamint a helyi madárfajok számára élőhelyet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        33.782354,
+                        -13.963335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "War Memorial Tower",
+                  "text": "Turnul Memorialului de Război din Lilongwe este o structură proeminentă care onorează soldații malawieni care au servit și au căzut în războaiele mondiale.",
+                  "category": "museum",
+                  "coords": [
+                        33.784721,
+                        -13.946049
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "Clădirea Parlamentului din Lilongwe este un complex administrativ impunător unde corpul legislativ al Malawiului își desfășoară sesiunile.",
+                  "category": "landmark",
+                  "coords": [
+                        33.787915,
+                        -13.953565
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "Rezervația Naturală Lilongwe protejează un ecosistem forestier urban în oraș, oferind trasee printre copaci indigeni și habitate pentru speciile locale de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        33.782354,
+                        -13.963335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "War Memorial Tower",
+                  "text": "The War Memorial Tower in Lilongwe is a prominent structure honoring Malawian soldiers who served and fell in the World Wars.",
+                  "category": "museum",
+                  "coords": [
+                        33.784721,
+                        -13.946049
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "The Parliament building in Lilongwe is an imposing administrative complex where the legislative body of Malawi conducts its sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        33.787915,
+                        -13.953565
+                  ]
+            },
+            {
+                  "name": "Lilongwe Nature Reserve",
+                  "text": "Lilongwe Nature Reserve protects an urban woodland ecosystem in the city, providing trails through indigenous trees and habitats for local bird species.",
+                  "category": "natural",
+                  "coords": [
+                        33.782354,
+                        -13.963335
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "capital",
     name: { de: "Lilongwe", hu: "Lilongwe", ro: "Lilongwe", en: "Lilongwe" },
@@ -48,7 +165,52 @@ export const malawiCitiesV2: POI[] = [
     image: "/poi-images/malawi-lilongwe-cities-v2.webp",
   },
   {
-    id: "malawi-blantyre-cities-v2",
+    id: "malawi-blantyre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crafters market",
+                  "text": "Der Crafters Market in Blantyre bietet eine farbenfrohe Auswahl an handgefertigten malawischen Kunsthandwerks- und Souvenirartikeln.",
+                  "category": "landmark",
+                  "coords": [
+                        35.005632,
+                        -15.785849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crafters market",
+                  "text": "A blantyre-i kézműves piacon a helyi alkotók színes malawi faragványait és emléktárgyait kínálják.",
+                  "category": "landmark",
+                  "coords": [
+                        35.005632,
+                        -15.785849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crafters market",
+                  "text": "Piața de artizanat din Blantyre oferă o gamă largă de suveniruri și obiecte artizanale malawiene sculptate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        35.005632,
+                        -15.785849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crafters market",
+                  "text": "The Crafters Market in Blantyre offers a colourful selection of handmade Malawian crafts and souvenirs.",
+                  "category": "landmark",
+                  "coords": [
+                        35.005632,
+                        -15.785849
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "city",
     name: { de: "Blantyre", hu: "Blantyre", ro: "Blantyre", en: "Blantyre" },
@@ -228,7 +390,52 @@ export const malawiCitiesV2: POI[] = [
     image: "/poi-images/malawi-zomba-cities-v2.webp",
   },
   {
-    id: "malawi-kasungu-cities-v2",
+    id: "malawi-kasungu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasungu Mountain",
+                  "text": "Ein markanter Berggipfel, der raue Wanderwege und einen Panoramablick über die umgebende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.458732,
+                        -13.047659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasungu Mountain",
+                  "text": "Kiemelkedő hegycsúcs, amely zord túraútvonalakat és panorámás kilátást kínál a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        33.458732,
+                        -13.047659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasungu Mountain",
+                  "text": "Un vârf montan proeminent, oferind trasee accidentate de drumeții și vederi panoramice asupra peisajului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        33.458732,
+                        -13.047659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasungu Mountain",
+                  "text": "A prominent mountain peak offering rugged hiking trails and panoramic views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        33.458732,
+                        -13.047659
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "town",
     name: { de: "Kasungu", hu: "Kasungu", ro: "Kasungu", en: "Kasungu" },
@@ -399,7 +606,52 @@ export const malawiCitiesV2: POI[] = [
     image: "/poi-images/malawi-mangochi-cities-v2.webp",
   },
   {
-    id: "malawi-karonga-cities-v2",
+    id: "malawi-karonga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cultural and Museum Centre Karonga",
+                  "text": "Das Cultural and Museum Centre Karonga ist berühmt für das versteinerte Skelett des Malawisaurus und die Ausstellung früher Hominidenfunde aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        33.922288,
+                        -9.941969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cultural and Museum Centre Karonga",
+                  "text": "A Karonga Kulturális és Múzeumi Központ híres a Malawisaurus megkövesedett csontvázának kiállításáról és a régió korai emberi leleteinek bemutatásáról.",
+                  "category": "museum",
+                  "coords": [
+                        33.922288,
+                        -9.941969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cultural and Museum Centre Karonga",
+                  "text": "Centrul Cultural și Muzeul Karonga este renumit pentru găzduirea scheletului fosilizat al dinozaurului Malawisaurus și pentru expunerea descoperirilor timpurii de hominizi din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        33.922288,
+                        -9.941969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cultural and Museum Centre Karonga",
+                  "text": "The Cultural and Museum Centre Karonga is famous for housing the fossilized skeleton of the Malawisaurus and exhibiting early hominid discoveries from the region.",
+                  "category": "museum",
+                  "coords": [
+                        33.922288,
+                        -9.941969
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "town",
     name: { de: "Karonga", hu: "Karonga", ro: "Karonga", en: "Karonga" },

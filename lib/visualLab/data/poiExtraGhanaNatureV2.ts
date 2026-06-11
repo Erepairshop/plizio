@@ -119,7 +119,196 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "wli-waterfalls-nature-v2",
+    id: "wli-waterfalls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Afadja",
+                  "text": "Der Mount Afadja ist einer der höchsten Gipfel Ghanas in der Nähe der Wli-Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        0.561946,
+                        7.02225
+                  ]
+            },
+            {
+                  "name": "Mt. Afadjato Hiking Trail",
+                  "text": "Ein landschaftlich reizvoller Wanderweg, der auf den Gipfel des Mount Afadjato führt.",
+                  "category": "landmark",
+                  "coords": [
+                        0.55688,
+                        7.030702
+                  ]
+            },
+            {
+                  "name": "Wli Falls - Lower Falls",
+                  "text": "Der leicht zugängliche untere Teil der beeindruckenden Wli-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        0.608494,
+                        7.105801
+                  ]
+            },
+            {
+                  "name": "Wli Wasserfall - Oberer Wasserfall",
+                  "text": "Die hoch aufragenden oberen Kaskaden der dramatischen Wli-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        0.609724,
+                        7.105798
+                  ]
+            },
+            {
+                  "name": "Agumatsa Wildlife Sanctuary",
+                  "text": "Das Agumatsa-Wildschutzgebiet ist ein Naturschutzgebiet, das die Wli-Wasserfälle umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        0.595929,
+                        7.116061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Afadja",
+                  "text": "A Mount Afadja Ghána egyik legmagasabb hegycsúcsa a Wli-vízesés közelében.",
+                  "category": "natural",
+                  "coords": [
+                        0.561946,
+                        7.02225
+                  ]
+            },
+            {
+                  "name": "Mt. Afadjato Hiking Trail",
+                  "text": "Egy festői túraútvonal, amely a Mount Afadjato csúcsára vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        0.55688,
+                        7.030702
+                  ]
+            },
+            {
+                  "name": "Wli Falls - Lower Falls",
+                  "text": "A lenyűgöző Wli-vízesés könnyen megközelíthető alsó szakasza.",
+                  "category": "landmark",
+                  "coords": [
+                        0.608494,
+                        7.105801
+                  ]
+            },
+            {
+                  "name": "Wli Falls - Upper Falls",
+                  "text": "A drámai Wli-vízesés magasan fekvő felső zuhataga.",
+                  "category": "landmark",
+                  "coords": [
+                        0.609724,
+                        7.105798
+                  ]
+            },
+            {
+                  "name": "Agumatsa Wildlife Sanctuary",
+                  "text": "Az Agumatsa Vadrezervátum egy természetvédelmi terület, amely a Wli-vízesést veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        0.595929,
+                        7.116061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Afadja",
+                  "text": "Muntele Afadja este unul dintre cele mai înalte vârfuri din Ghana, situat lângă Cascadele Wli.",
+                  "category": "natural",
+                  "coords": [
+                        0.561946,
+                        7.02225
+                  ]
+            },
+            {
+                  "name": "Mt. Afadjato Hiking Trail",
+                  "text": "Un traseu pitoresc de drumeție care duce spre vârful Muntelui Afadjato.",
+                  "category": "landmark",
+                  "coords": [
+                        0.55688,
+                        7.030702
+                  ]
+            },
+            {
+                  "name": "Wli Falls - Lower Falls",
+                  "text": "Secțiunea inferioară ușor accesibilă a impresionantelor Cascade Wli.",
+                  "category": "landmark",
+                  "coords": [
+                        0.608494,
+                        7.105801
+                  ]
+            },
+            {
+                  "name": "Wli Falls - Upper Falls",
+                  "text": "Cascadele superioare înalte ale dramaticei Cascade Wli.",
+                  "category": "landmark",
+                  "coords": [
+                        0.609724,
+                        7.105798
+                  ]
+            },
+            {
+                  "name": "Agumatsa Wildlife Sanctuary",
+                  "text": "Sanctuarul de animale sălbatice Agumatsa este o rezervație naturală care înconjoară Cascadele Wli.",
+                  "category": "natural",
+                  "coords": [
+                        0.595929,
+                        7.116061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Afadja",
+                  "text": "Mount Afadja is one of the highest mountain peaks in Ghana, located near the Wli Waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        0.561946,
+                        7.02225
+                  ]
+            },
+            {
+                  "name": "Mt. Afadjato Hiking Trail",
+                  "text": "A scenic hiking trail leading up to the summit of Mount Afadjato.",
+                  "category": "landmark",
+                  "coords": [
+                        0.55688,
+                        7.030702
+                  ]
+            },
+            {
+                  "name": "Wli Falls - Lower Falls",
+                  "text": "The easily accessible lower section of the impressive Wli Waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        0.608494,
+                        7.105801
+                  ]
+            },
+            {
+                  "name": "Wli Falls - Upper Falls",
+                  "text": "The towering upper cascades of the dramatic Wli Waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        0.609724,
+                        7.105798
+                  ]
+            },
+            {
+                  "name": "Agumatsa Wildlife Sanctuary",
+                  "text": "The Agumatsa Wildlife Sanctuary is a nature reserve encompassing the Wli Waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        0.595929,
+                        7.116061
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GH-TV",
     coords: [0.5833, 7.1000],
@@ -263,7 +452,52 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "ankasa-forest-nature-v2",
+    id: "ankasa-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ankasa Game Reserve and Nini-Suhien National Park",
+                  "text": "Zusammen bilden das Ankasa Game Reserve und der Nini-Suhien-Nationalpark das größte und unberührteste feuchte immergrüne Waldgebiet in ganz Ghana.",
+                  "category": "natural",
+                  "coords": [
+                        -2.591821,
+                        5.277798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ankasa Game Reserve and Nini-Suhien National Park",
+                  "text": "Az Ankasa Vadrezervátum és a Nini-Suhien Nemzeti Park együttesen Ghána legnagyobb és legérintetlenebb nedves örökzöld erdejét alkotják.",
+                  "category": "natural",
+                  "coords": [
+                        -2.591821,
+                        5.277798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ankasa Game Reserve and Nini-Suhien National Park",
+                  "text": "Împreună, Rezervația Ankasa și Parcul Național Nini-Suhien formează cea mai mare și mai virgină porțiune de pădure veșnic verde și umedă din Ghana.",
+                  "category": "natural",
+                  "coords": [
+                        -2.591821,
+                        5.277798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ankasa Game Reserve and Nini-Suhien National Park",
+                  "text": "Together, the Ankasa Game Reserve and Nini-Suhien National Park form the largest and most pristine tract of wet evergreen forest in Ghana.",
+                  "category": "natural",
+                  "coords": [
+                        -2.591821,
+                        5.277798
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GH-WE",
     coords: [-2.6667, 5.2500],
@@ -335,7 +569,52 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "bia-forest-nature-v2",
+    id: "bia-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bia National Park and Resource Reserve",
+                  "text": "Der Bia National Park and Resource Reserve schützt ein unberührtes Waldgebiet, das seltenen Primaten und Waldelfanten Lebensraum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.081296,
+                        6.487029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bia National Park and Resource Reserve",
+                  "text": "A Bia National Park and Resource Reserve egy érintetlen erdőterületet véd, amely ritka főemlősöknek és erdei elefántoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -3.081296,
+                        6.487029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bia National Park and Resource Reserve",
+                  "text": "Bia National Park and Resource Reserve protejează o pădure deasă care oferă habitat pentru primate rare și elefanți de pădure.",
+                  "category": "natural",
+                  "coords": [
+                        -3.081296,
+                        6.487029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bia National Park and Resource Reserve",
+                  "text": "Bia National Park and Resource Reserve protects a pristine forest tract known for harboring rare primates and forest elephants.",
+                  "category": "natural",
+                  "coords": [
+                        -3.081296,
+                        6.487029
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GH-WN",
     coords: [-3.0667, 6.5500],
@@ -407,7 +686,52 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "atiwa-mountain-nature-v2",
+    id: "atiwa-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Christ",
+                  "text": "Ein funktioneller Brunnen befindet sich auf dem Gelände der örtlichen Church of Christ und versorgt die Kirchengemeinde mit lebenswichtigem Grundwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.426432,
+                        6.16821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Christ",
+                  "text": "Egy működő kút található a helyi Krisztus Egyháza területén, amely létfontosságú talajvízzel látja el a gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.426432,
+                        6.16821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Christ",
+                  "text": "O fântână funcțională este situată pe terenul Bisericii locale a lui Hristos, oferind enoriașilor apă subterană vitală.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.426432,
+                        6.16821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Christ",
+                  "text": "A functional water well is situated at the grounds of the local Church of Christ, providing vital groundwater to the congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.426432,
+                        6.16821
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-ER",
     coords: [-0.4833, 6.2167],
@@ -443,7 +767,52 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "akwapim-mountain-nature-v2",
+    id: "akwapim-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Krobo",
+                  "text": "Ein markanter Berg im Akwapim-Togo-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050202,
+                        6.080764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Krobo",
+                  "text": "Egy kiemelkedő hegy az Akwapim-Togo-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050202,
+                        6.080764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Krobo",
+                  "text": "Un munte proeminent din lanțul muntos Akwapim-Togo.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050202,
+                        6.080764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Krobo",
+                  "text": "A prominent mountain in the Akwapim-Togo range.",
+                  "category": "landmark",
+                  "coords": [
+                        0.050202,
+                        6.080764
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GH-ER",
     coords: [0.0500, 6.0000],
@@ -479,7 +848,88 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "fosu-lake-nature-v2",
+    id: "fosu-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "Eine traditionelle schlossartige Residenz, die als offizieller Sitz eines lokalen Häuptlings in der Nähe des Fosu-Sees dient.",
+                  "category": "castle",
+                  "coords": [
+                        -1.24574,
+                        5.140254
+                  ]
+            },
+            {
+                  "name": "College Of Agriculture And Natural Sciences",
+                  "text": "Ein akademischer Theatersaal auf dem Universitätsgelände in der Nähe des Fosu-Sees.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.293507,
+                        5.116177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "Egy hagyományos kastélyszerű rezidencia, amely egy helyi törzsfőnök hivatalos székhelyeként szolgál a Fosu-tó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -1.24574,
+                        5.140254
+                  ]
+            },
+            {
+                  "name": "College Of Agriculture And Natural Sciences",
+                  "text": "Egy akadémiai színházi helyszín az egyetemi campus területén a Fosu-tó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.293507,
+                        5.116177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "O reședință tradițională asemănătoare unui castel care servește drept sediu oficial al unei căpetenii locale lângă Lacul Fosu.",
+                  "category": "castle",
+                  "coords": [
+                        -1.24574,
+                        5.140254
+                  ]
+            },
+            {
+                  "name": "College Of Agriculture And Natural Sciences",
+                  "text": "O locație de teatru academic situată în incinta campusului universitar de lângă Lacul Fosu.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.293507,
+                        5.116177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chief's Palace",
+                  "text": "A traditional castle-like residence serving as the official seat of a local chief near Fosu Lake.",
+                  "category": "castle",
+                  "coords": [
+                        -1.24574,
+                        5.140254
+                  ]
+            },
+            {
+                  "name": "College Of Agriculture And Natural Sciences",
+                  "text": "An academic theatre venue situated within the university campus grounds near Fosu Lake.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.293507,
+                        5.116177
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GH-CP",
     coords: [-1.2500, 5.1167],
@@ -515,7 +965,88 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "keta-lake-nature-v2",
+    id: "keta-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agblor Lodge",
+                  "text": "Eine Lodge am Seeufer der Keta-Lagune, die naturnahe Unterkünfte bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        0.994465,
+                        5.897483
+                  ]
+            },
+            {
+                  "name": "Sports Museum",
+                  "text": "Ein lokales Sportmuseum in der Region um den Keta-See.",
+                  "category": "landmark",
+                  "coords": [
+                        0.988495,
+                        5.89586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agblor Lodge",
+                  "text": "Egy tóparti szállás a Keta-lagúna közelében, amely természetközeli pihenést kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        0.994465,
+                        5.897483
+                  ]
+            },
+            {
+                  "name": "Sports Museum",
+                  "text": "Egy helyi sportmúzeum a Keta-tó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.988495,
+                        5.89586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agblor Lodge",
+                  "text": "O cabană pe malul lacului Keta, oferind cazare în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        0.994465,
+                        5.897483
+                  ]
+            },
+            {
+                  "name": "Sports Museum",
+                  "text": "Un muzeu sportiv local situat în regiunea lacului Keta.",
+                  "category": "landmark",
+                  "coords": [
+                        0.988495,
+                        5.89586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agblor Lodge",
+                  "text": "A lakeside lodge offering nature-oriented accommodation near the Keta Lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        0.994465,
+                        5.897483
+                  ]
+            },
+            {
+                  "name": "Sports Museum",
+                  "text": "A local sports museum located in the Keta Lake region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.988495,
+                        5.89586
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GH-VR",
     coords: [0.9833, 5.9167],
@@ -623,7 +1154,52 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "pra-river-nature-v2",
+    id: "pra-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Komenda",
+                  "text": "Diese historische Festung mit Blick auf die ghanaische Küste in der Nähe des Pra-Flusses stammt aus der Zeit des europäischen Kolonialhandels.",
+                  "category": "castle",
+                  "coords": [
+                        -1.489503,
+                        5.049937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Komenda",
+                  "text": "A ghánai partvidékre és a Pra folyóra néző történelmi erődítmény az európai gyarmati kereskedelem korszakából származik.",
+                  "category": "castle",
+                  "coords": [
+                        -1.489503,
+                        5.049937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Komenda",
+                  "text": "Cu vedere la coasta ghaneză lângă râul Pra, această fortificație istorică datează din era comerțului colonial european.",
+                  "category": "castle",
+                  "coords": [
+                        -1.489503,
+                        5.049937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Komenda",
+                  "text": "Overlooking the Ghanaian coast near the Pra River, this historical fortification dates back to the era of European colonial trade.",
+                  "category": "castle",
+                  "coords": [
+                        -1.489503,
+                        5.049937
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GH-ER",
     coords: [-1.5000, 5.0000],
@@ -659,7 +1235,196 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "offin-river-nature-v2",
+    id: "offin-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "KNUST Emblem Monument",
+                  "text": "Dieses Denkmal zeigt stolz das Emblem der Kwame Nkrumah University of Science and Technology und markiert das Bildungserbe nahe der Offin-Flussregion.",
+                  "category": "historical",
+                  "coords": [
+                        -1.570541,
+                        6.684978
+                  ]
+            },
+            {
+                  "name": "Ayigya Palace",
+                  "text": "Der Ayigya-Palast ist eine traditionelle königliche Residenz, die das lokale Häuptlingstum und das kulturelle Leben nahe dem Offin-Fluss verankert.",
+                  "category": "castle",
+                  "coords": [
+                        -1.570989,
+                        6.689023
+                  ]
+            },
+            {
+                  "name": "Otumfuo Osei Tutu II Monument",
+                  "text": "Dieses markante Denkmal feiert Otumfuo Osei Tutu II, den 16. Asantehene, und würdigt seine moderne Herrschaft und Führung in der Aschanti-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -1.598853,
+                        6.709357
+                  ]
+            },
+            {
+                  "name": "Opoku Ware II Museum",
+                  "text": "Dieses Museum bewahrt die königlichen Insignien und historischen Artefakte aus der langen und friedlichen Herrschaft des Asantehene Opoku Ware II.",
+                  "category": "museum",
+                  "coords": [
+                        -1.575258,
+                        6.681845
+                  ]
+            },
+            {
+                  "name": "Asokore Mampong Chief Palace",
+                  "text": "Dieser Palast dient als traditioneller Machtsitz für den Häuptling von Asokore Mampong und zeigt die klassische königliche Architektur der Aschanti.",
+                  "category": "castle",
+                  "coords": [
+                        -1.566087,
+                        6.704919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KNUST Emblem Monument",
+                  "text": "Ez az emlékmű a Kwame Nkrumah Tudományos és Technológiai Egyetem címerét ábrázolja, jelezve az oktatási örökséget az Offin-folyó térségében.",
+                  "category": "historical",
+                  "coords": [
+                        -1.570541,
+                        6.684978
+                  ]
+            },
+            {
+                  "name": "Ayigya Palace",
+                  "text": "Az Ayigya palota egy hagyományos királyi rezidencia, amely a helyi törzsfőnökség és kulturális élet központja az Offin-folyó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -1.570989,
+                        6.689023
+                  ]
+            },
+            {
+                  "name": "Otumfuo Osei Tutu II Monument",
+                  "text": "Ez a kiemelkedő emlékmű Otumfuo Osei Tutu II, a 16. asanti király modern uralkodása és a régióban betöltött vezető szerepe előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -1.598853,
+                        6.709357
+                  ]
+            },
+            {
+                  "name": "Opoku Ware II Museum",
+                  "text": "Ez a múzeum Opoku Ware II asanti király hosszú és békés uralkodásának királyi jelvényeit és történelmi műtárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -1.575258,
+                        6.681845
+                  ]
+            },
+            {
+                  "name": "Asokore Mampong Chief Palace",
+                  "text": "Ez a hatalom hagyományos központjaként szolgáló palota az Asokore Mampong törzsfőnök székhelye, amely a klasszikus asanti királyi építészetet mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        -1.566087,
+                        6.704919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KNUST Emblem Monument",
+                  "text": "Acest monument prezintă cu mândrie emblema Universității de Știință și Tehnologie Kwame Nkrumah, marcând moștenirea educațională din apropierea râului Offin.",
+                  "category": "historical",
+                  "coords": [
+                        -1.570541,
+                        6.684978
+                  ]
+            },
+            {
+                  "name": "Ayigya Palace",
+                  "text": "Palatul Ayigya este o reședință regală tradițională care servește drept centru al căpeteniilor locale și al vieții culturale din apropierea râului Offin.",
+                  "category": "castle",
+                  "coords": [
+                        -1.570989,
+                        6.689023
+                  ]
+            },
+            {
+                  "name": "Otumfuo Osei Tutu II Monument",
+                  "text": "Acest monument proeminent îl celebrează pe Otumfuo Osei Tutu al II-lea, al 16-lea rege Asantehene, evidențiind domnia sa modernă și conducerea din regiunea Ashanti.",
+                  "category": "historical",
+                  "coords": [
+                        -1.598853,
+                        6.709357
+                  ]
+            },
+            {
+                  "name": "Opoku Ware II Museum",
+                  "text": "Acest muzeu păstrează însemnele regale și artefactele istorice din timpul domniei lungi și pașnice a regelui Asantehene Opoku Ware al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -1.575258,
+                        6.681845
+                  ]
+            },
+            {
+                  "name": "Asokore Mampong Chief Palace",
+                  "text": "Servind ca sediu tradițional al puterii, acest palat îl găzduiește pe șeful din Asokore Mampong și prezintă arhitectura regală clasică Ashanti.",
+                  "category": "castle",
+                  "coords": [
+                        -1.566087,
+                        6.704919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KNUST Emblem Monument",
+                  "text": "This monument proudly displays the emblem of the Kwame Nkrumah University of Science and Technology, marking the educational heritage near the Offin River region.",
+                  "category": "historical",
+                  "coords": [
+                        -1.570541,
+                        6.684978
+                  ]
+            },
+            {
+                  "name": "Ayigya Palace",
+                  "text": "The Ayigya Palace is a traditional royal residence that anchors the local chieftancy and cultural life near the Offin River.",
+                  "category": "castle",
+                  "coords": [
+                        -1.570989,
+                        6.689023
+                  ]
+            },
+            {
+                  "name": "Otumfuo Osei Tutu II Monument",
+                  "text": "This prominent monument celebrates Otumfuo Osei Tutu II, the 16th Asantehene, highlighting his modern reign and leadership in the Ashanti region.",
+                  "category": "historical",
+                  "coords": [
+                        -1.598853,
+                        6.709357
+                  ]
+            },
+            {
+                  "name": "Opoku Ware II Museum",
+                  "text": "This museum preserves the royal regalia and historical artifacts from the long and peaceful reign of Asantehene Opoku Ware II.",
+                  "category": "museum",
+                  "coords": [
+                        -1.575258,
+                        6.681845
+                  ]
+            },
+            {
+                  "name": "Asokore Mampong Chief Palace",
+                  "text": "Serving as a traditional seat of power, this palace houses the chief of Asokore Mampong and showcases classic Ashanti royal architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -1.566087,
+                        6.704919
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GH-AS",
     coords: [-1.6000, 6.7000],
@@ -875,7 +1640,52 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "ada-foah-sea-nature-v2",
+    id: "ada-foah-sea-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "road into the ocean",
+                  "text": "Dieser markante Aussichtspunkt besteht aus einer gepflasterten Straße, die bei Ada Foah scheinbar in den Wellen des Ozeans verschwindet.",
+                  "category": "natural",
+                  "coords": [
+                        0.627153,
+                        5.77576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "road into the ocean",
+                  "text": "Ez a különleges kilátópont egy olyan utat foglal magában, amely Ada Foah közelében látszólag egyenesen az óceán hullámaiba vezet.",
+                  "category": "natural",
+                  "coords": [
+                        0.627153,
+                        5.77576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "road into the ocean",
+                  "text": "Acest punct de belvedere uimitor prezintă un drum pavat care pare să dispară direct în valurile oceanului lângă Ada Foah.",
+                  "category": "natural",
+                  "coords": [
+                        0.627153,
+                        5.77576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "road into the ocean",
+                  "text": "This striking viewpoint features a paved road that seemingly disappears into the waves near Ada Foah.",
+                  "category": "natural",
+                  "coords": [
+                        0.627153,
+                        5.77576
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "GH-AA",
     coords: [0.6333, 5.7833],
@@ -983,7 +1793,52 @@ export const poiExtraGhanaNatureV2: POI[] = [
     },
   },
   {
-    id: "kakum-canopy-forest-nature-v2",
+    id: "kakum-canopy-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monkey forest",
+                  "text": "Ein dichter tropischer Waldlebensraum, der für seine aktiven ansässigen Primatenpopulationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.375319,
+                        5.316281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monkey forest",
+                  "text": "Egy sűrű trópusi erdei élőhely, amely aktív főemlős-populációiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.375319,
+                        5.316281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monkey forest",
+                  "text": "Un habitat dens de pădure tropicală cunoscut pentru populațiile sale active de primate rezidente.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.375319,
+                        5.316281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monkey forest",
+                  "text": "A dense tropical forest habitat known for its active resident primate populations.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.375319,
+                        5.316281
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GH-CP",
     coords: [-1.3900, 5.3400],

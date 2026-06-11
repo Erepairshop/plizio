@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraEthiopiaNatureV2: POI[] = [
   {
-    id: "blue-nile-falls-nature-v2",
+    id: "blue-nile-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ጥስ እሳት ፏፏቴ",
+                  "text": "Ein spektakulärer Wasserfall, lokal als Tis Abay bekannt, der in eine tiefe Schlucht stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        37.587978,
+                        11.491046
+                  ]
+            },
+            {
+                  "name": "Falls View",
+                  "text": "Ein Panoramapunkt, der einen atemberaubenden Blick auf die tosenden Wassermassen der Blue Nile Falls bietet.",
+                  "category": "natural",
+                  "coords": [
+                        37.588028,
+                        11.492523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ጥስ እሳት ፏፏቴ",
+                  "text": "A helyiek által Tis Abay néven ismert látványos vízesés, amely egy mély szurdokba zúdul.",
+                  "category": "natural",
+                  "coords": [
+                        37.587978,
+                        11.491046
+                  ]
+            },
+            {
+                  "name": "Falls View",
+                  "text": "Panorámás kilátópont, ahonnan lélegzetelállító kilátás nyílik a Kék-Nílus vízesés zuhatagaira.",
+                  "category": "natural",
+                  "coords": [
+                        37.588028,
+                        11.492523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ጥስ እሳት ፏፏቴ",
+                  "text": "O cascadă spectaculoasă, cunoscută local sub numele de Tis Abay, care se varsă într-un defileu adânc.",
+                  "category": "natural",
+                  "coords": [
+                        37.587978,
+                        11.491046
+                  ]
+            },
+            {
+                  "name": "Falls View",
+                  "text": "Un punct de belvedere panoramic care oferă o privire uluitoare asupra apelor învolburate ale Cascadei Nilului Albastru.",
+                  "category": "natural",
+                  "coords": [
+                        37.588028,
+                        11.492523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blue Nile Falls",
+                  "text": "A spectacular waterfall, known locally as Tis Abay, that drops dramatically into a deep gorge.",
+                  "category": "natural",
+                  "coords": [
+                        37.587978,
+                        11.491046
+                  ]
+            },
+            {
+                  "name": "Falls View",
+                  "text": "A panoramic viewpoint offering a breathtaking look at the crashing waters of the Blue Nile Falls.",
+                  "category": "natural",
+                  "coords": [
+                        37.588028,
+                        11.492523
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ET-AM",
     coords: [37.5898, 11.4883],
@@ -77,7 +158,52 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       fr: ["Surface : env. 3 000 km².", "Abrite de nombreux monastères."],
     }, image: "/poi-images/lake-tana-nature-v2.webp"},
   {
-    id: "simien-mountains-nature-v2",
+    id: "simien-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simien Mountains National Park",
+                  "text": "Dieses UNESCO-Weltnaturerbe schützt dramatische, zerklüftete Berggipfel und seltene Tierarten wie den Dschelada-Pavian.",
+                  "category": "natural",
+                  "coords": [
+                        38.201429,
+                        13.247139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simien Mountains National Park",
+                  "text": "Ez az UNESCO Világörökség részét képező természetvédelmi terület drámai csipkézett csúcsokat és ritka fajokat, például a dzseládapáviánt védi.",
+                  "category": "natural",
+                  "coords": [
+                        38.201429,
+                        13.247139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simien Mountains National Park",
+                  "text": "Această rezervație naturală inclusă în Patrimoniul Mondial UNESCO protejează vârfuri stâncoase dramatice și specii rare, cum ar fi babuinul gelada.",
+                  "category": "natural",
+                  "coords": [
+                        38.201429,
+                        13.247139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simien Mountains National Park",
+                  "text": "This UNESCO World Heritage nature reserve protects dramatic jagged peaks and rare species like the gelada baboon.",
+                  "category": "natural",
+                  "coords": [
+                        38.201429,
+                        13.247139
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ET-AM",
     coords: [38.2500, 13.2500],
@@ -114,7 +240,52 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     
      image: "/poi-images/simien-mountains-nature-v2.webp"},
   {
-    id: "awash-river-nature-v2",
+    id: "awash-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Awash National Park",
+                  "text": "Der Awash National Park ist ein Savannen-Nationalpark, der für seine vielfältige Tierwelt und die Schlucht des Awash-Flusses bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        39.995408,
+                        9.025546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Awash National Park",
+                  "text": "Az Awash Nemzeti Park egy szavannai nemzeti park, amely gazdag állatvilágáról és az Awash-folyó szurdokáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        39.995408,
+                        9.025546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Awash National Park",
+                  "text": "Parcul Național Awash este un parc național de savană cunoscut pentru fauna sa diversă și defileul râului Awash.",
+                  "category": "natural",
+                  "coords": [
+                        39.995408,
+                        9.025546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Awash National Park",
+                  "text": "Awash National Park is a savanna national park known for its diverse wildlife and the gorge of the Awash River.",
+                  "category": "natural",
+                  "coords": [
+                        39.995408,
+                        9.025546
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ET-AF",
     coords: [40.0000, 9.0000],
@@ -328,7 +499,52 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       fr: ["Le lac est le seul de la vallée du Rift à être exempt de bilharziose.", "Son eau est riche en soufre et possède une couleur brune.", "La surface du lac est d'environ 230 kilomètres carrés.", "Il est situé à une altitude de 1 585 mètres au-dessus du niveau de la mer.", "La forêt de Munessa sur la rive est abrite des espèces de singes rares.", "La profondeur maximale du lac atteint environ 46 mètres."],
     }, image: "/poi-images/lake-langano-nature-v2.webp"},
   {
-    id: "bale-mountains-nature-v2",
+    id: "bale-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bale Mountains",
+                  "text": "Das hochgelegene Plateau der Bale-Berge zeichnet sich durch seine einzigartigen afro-alpinen Moorlandschaften aus und ist ein wichtiger Lebensraum für den bedrohten Äthiopischen Wolf.",
+                  "category": "landmark",
+                  "coords": [
+                        39.720531,
+                        6.814573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bale Mountains",
+                  "text": "A Bale-hegység magaslati fennsíkját egyedülálló afro-alpesi lápvidékek jellemzik, és döntő élőhelyet jelent a veszélyeztetett etióp farkas számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.720531,
+                        6.814573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bale Mountains",
+                  "text": "Platoul de mare altitudine al Munților Bale se caracterizează prin mlaștinile sale afro-alpine unice și este un habitat crucial pentru lupul etiopian pe cale de dispariție.",
+                  "category": "landmark",
+                  "coords": [
+                        39.720531,
+                        6.814573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bale Mountains",
+                  "text": "The high-altitude Bale Mountains plateau is characterized by its unique Afro-alpine moorlands and is a crucial habitat for the endangered Ethiopian wolf.",
+                  "category": "landmark",
+                  "coords": [
+                        39.720531,
+                        6.814573
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ET-OR",
     coords: [39.7500, 6.7500],
@@ -615,7 +831,52 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-hayq-nature-v2",
+    id: "lake-hayq-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hayk Istafanos Monastery",
+                  "text": "Ein altes äthiopisch-orthodoxes Kloster auf einer Halbinsel im Hayq-See.",
+                  "category": "religious",
+                  "coords": [
+                        39.697491,
+                        11.338818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hayk Istafanos Monastery",
+                  "text": "Egy ősi etióp ortodox kolostor, amely a Hayq-tó egyik félszigetén található.",
+                  "category": "religious",
+                  "coords": [
+                        39.697491,
+                        11.338818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hayk Istafanos Monastery",
+                  "text": "O veche mănăstire ortodoxă etiopiană situată pe o peninsulă din lacul Hayq.",
+                  "category": "religious",
+                  "coords": [
+                        39.697491,
+                        11.338818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hayk Istafanos Monastery",
+                  "text": "An ancient Ethiopian Orthodox monastery located on a peninsula in Lake Hayq.",
+                  "category": "religious",
+                  "coords": [
+                        39.697491,
+                        11.338818
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ET-AM",
     coords: [39.7500, 11.3333],

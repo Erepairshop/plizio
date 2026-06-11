@@ -195,7 +195,52 @@ export const poiExtraBurundiNatureV2: POI[] = [
     }
   },
   {
-    id: "heha-mountain-nature-v2",
+    id: "heha-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "umusozi Heha",
+                  "text": "Mit einer Höhe von 2.670 Metern ist der Mount Heha der höchste Gipfel Burundis und bietet einen weiten Panoramablick über den Ostafrikanischen Grabenbruch.",
+                  "category": "natural",
+                  "coords": [
+                        29.499492,
+                        -3.603464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "umusozi Heha",
+                  "text": "A 2670 méter magasra emelkedő Mount Heha Burundi legmagasabb csúcsa, amely széles panorámát nyújt a Kelet-afrikai árokra.",
+                  "category": "natural",
+                  "coords": [
+                        29.499492,
+                        -3.603464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "umusozi Heha",
+                  "text": "Având o înălțime de 2.670 de metri, Muntele Heha este cel mai înalt vârf din Burundi, oferind priveliști panoramice ample asupra Marelui Rift Est-African.",
+                  "category": "natural",
+                  "coords": [
+                        29.499492,
+                        -3.603464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Heha",
+                  "text": "Rising to 2,670 metres, Mount Heha is the highest peak in Burundi, offering sweeping panoramic views across the East African Rift.",
+                  "category": "natural",
+                  "coords": [
+                        29.499492,
+                        -3.603464
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BI-BL",
     coords: [29.5, -3.6],
@@ -291,7 +336,52 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
   },
   {
-    id: "cohoha-lake-nature-v2",
+    id: "cohoha-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kamabuye village",
+                  "text": "Das Dorf Kamabuye ist eine traditionelle Siedlung in der Nähe der Ufer des Cohoha-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        30.135173,
+                        -2.373934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kamabuye village",
+                  "text": "Kamabuye falu egy hagyományos település a Cohoha-tó partja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        30.135173,
+                        -2.373934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kamabuye village",
+                  "text": "Satul Kamabuye este o așezare tradițională situată pe malurile Lacului Cohoha.",
+                  "category": "landmark",
+                  "coords": [
+                        30.135173,
+                        -2.373934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kamabuye village",
+                  "text": "Kamabuye village is a traditional settlement located near the shores of Lake Cohoha.",
+                  "category": "landmark",
+                  "coords": [
+                        30.135173,
+                        -2.373934
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BI-KI",
     coords: [30.1, -2.4],
@@ -1155,7 +1245,52 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
   },
   {
-    id: "mpanda-river-nature-v2",
+    id: "mpanda-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de la Rusizi Secteur Palmeraie",
+                  "text": "Dieses Naturschutzgebiet am Fluss Rusizi ist bekannt für seine Palmenhaine und wertvollen Feuchtgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        29.261838,
+                        -3.232938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de la Rusizi Secteur Palmeraie",
+                  "text": "Ez a Rusizi folyó mentén fekvő természetvédelmi terület pálmaligeteiről és értékes vizesélőhelyeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.261838,
+                        -3.232938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de la Rusizi Secteur Palmeraie",
+                  "text": "Această rezervație naturală de-a lungul râului Rusizi este cunoscută pentru crângurile sale de palmieri și zonele umede.",
+                  "category": "natural",
+                  "coords": [
+                        29.261838,
+                        -3.232938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc National de la Rusizi Secteur Palmeraie",
+                  "text": "This nature reserve along the Rusizi River is renowned for its palm groves and vital wetland ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        29.261838,
+                        -3.232938
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BI-BB",
     coords: [29.3, -3.2],

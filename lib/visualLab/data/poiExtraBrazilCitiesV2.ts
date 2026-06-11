@@ -2206,7 +2206,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "Museu de Santo André Doutor Octaviano Armando Gaiarsa ist ein bedeutendes Geschichtsmuseum in Santo André.",
+                  "text": "Dieses 1990 eröffnete Museum in Santo André steht unter Denkmalschutz.",
                   "category": "museum",
                   "coords": [
                         -46.523965,
@@ -2397,7 +2397,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "A Museu de Santo André Doutor Octaviano Armando Gaiarsa egy nevezetes történelmi múzeum Santo André városában.",
+                  "text": "Az 1990-ben megnyílt múzeum Santo Andréban műemlék.",
                   "category": "museum",
                   "coords": [
                         -46.523965,
@@ -2588,7 +2588,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "Museu de Santo André Doutor Octaviano Armando Gaiarsa este un muzeu de istorie notabil în Santo André.",
+                  "text": "Acest muzeu din Santo André, inaugurat în 1990, este monument istoric.",
                   "category": "museum",
                   "coords": [
                         -46.523965,
@@ -2779,7 +2779,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "Museu de Santo André Doutor Octaviano Armando Gaiarsa is a notable history museum located in Santo André.",
+                  "text": "This museum in Santo André was inaugurated in 1990 and is a listed heritage site.",
                   "category": "museum",
                   "coords": [
                         -46.523965,

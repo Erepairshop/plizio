@@ -2212,7 +2212,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Laserian's Church",
-                  "text": "Eine historische Kirche in der Gegend von Mount Leinster.",
+                  "text": "Die Saint Laserian's Church (Killoughternane Church) ist eine denkmalgeschützte mittelalterliche Kirchenruine (Grad 2).",
                   "category": "religious",
                   "coords": [
                         -6.839644,
@@ -2286,7 +2286,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Laserian's Church",
-                  "text": "Történelmi templom a Mount Leinster környékén.",
+                  "text": "A Saint Laserian's Church (Killoughternane Church) egy műemlék középkori templomrom (2. fokozat).",
                   "category": "religious",
                   "coords": [
                         -6.839644,
@@ -2360,7 +2360,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Laserian's Church",
-                  "text": "O biserică istorică în zona Mount Leinster.",
+                  "text": "Biserica Sf. Laserian (Killoughternane Church) este o ruină de biserică medievală protejată (gradul 2).",
                   "category": "religious",
                   "coords": [
                         -6.839644,
@@ -2434,7 +2434,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Laserian's Church",
-                  "text": "A historic church located in the Mount Leinster area.",
+                  "text": "Saint Laserian's Church (Killoughternane Church) is a heritage-listed medieval church ruin (Grade 2).",
                   "category": "religious",
                   "coords": [
                         -6.839644,

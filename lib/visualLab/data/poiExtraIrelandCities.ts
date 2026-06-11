@@ -778,7 +778,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Raheen-a-Cluig",
-                  "text": "Raheen-a-Cluig ist eine bemerkenswerte historische Kirche in Bray.",
+                  "text": "Raheen-a-Cluig ist eine denkmalgeschützte mittelalterliche Kirchenruine in Bray.",
                   "category": "religious",
                   "coords": [
                         -6.090531,
@@ -787,7 +787,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Kilcroney Church",
-                  "text": "Die Kilcroney Church ist ein bemerkenswertes Kirchengebäude in Bray.",
+                  "text": "Die Kilcroney Church ist eine denkmalgeschützte mittelalterliche Kirchenruine.",
                   "category": "religious",
                   "coords": [
                         -6.138802,
@@ -987,7 +987,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Raheen-a-Cluig",
-                  "text": "A Raheen-a-Cluig egy jelentős történelmi templom Bray városában.",
+                  "text": "A Raheen-a-Cluig egy műemlék középkori templomrom Brayben.",
                   "category": "religious",
                   "coords": [
                         -6.090531,
@@ -996,7 +996,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Kilcroney Church",
-                  "text": "A Kilcroney Church egy jelentős történelmi templomépület Bray-ben.",
+                  "text": "A Kilcroney Church egy műemlék középkori templomrom.",
                   "category": "religious",
                   "coords": [
                         -6.138802,
@@ -1196,7 +1196,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Raheen-a-Cluig",
-                  "text": "Raheen-a-Cluig este o biserică istorică notabilă situată în Bray.",
+                  "text": "Raheen-a-Cluig este o ruină de biserică medievală protejată în Bray.",
                   "category": "religious",
                   "coords": [
                         -6.090531,
@@ -1205,7 +1205,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Kilcroney Church",
-                  "text": "Biserica Kilcroney este o structură de biserică notabilă în Bray.",
+                  "text": "Biserica Kilcroney este o ruină de biserică medievală protejată.",
                   "category": "religious",
                   "coords": [
                         -6.138802,
@@ -1405,7 +1405,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Raheen-a-Cluig",
-                  "text": "Raheen-a-Cluig is a notable historical church located in Bray.",
+                  "text": "Raheen-a-Cluig is a heritage-listed medieval church ruin in Bray.",
                   "category": "religious",
                   "coords": [
                         -6.090531,
@@ -1414,7 +1414,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Kilcroney Church",
-                  "text": "Kilcroney Church is a notable historical church structure situated in Bray.",
+                  "text": "Kilcroney Church is a heritage-listed medieval church ruin.",
                   "category": "religious",
                   "coords": [
                         -6.138802,

@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const malawiNatureV2: POI[] = [
 
   {
-    id: "malawi-sapitwa-peak-nature-v2",
+    id: "malawi-sapitwa-peak-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Likhubula Pools",
+                  "text": "Die Likhubula Pools sind tiefe, kristallklare Felsenbecken, die durch Bergbäche gebildet werden, die die Hänge nahe dem Sapitwa Peak hinabstürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502317,
+                        -15.94041
+                  ]
+            },
+            {
+                  "name": "Wodospad",
+                  "text": "Dieser malerische Bergwasserfall stürzt im Schatten des Sapitwa Peak kraftvoll über die schroffen Klippen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537485,
+                        -15.926631
+                  ]
+            },
+            {
+                  "name": "Chapaluka Falls",
+                  "text": "Die Chapaluka Falls sind eine atemberaubende natürliche Kaskade, wo frisches Bergwasser anmutig über die zerklüfteten Felswände von Mulanje stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531648,
+                        -15.934472
+                  ]
+            },
+            {
+                  "name": "Chilemba",
+                  "text": "Chilemba ist ein schroffer, verwitterter Gipfel, der dramatische Grate und anspruchsvolle Pfade für Wanderer bietet, die das Mulanje-Massiv erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        35.52976,
+                        -15.96203
+                  ]
+            },
+            {
+                  "name": "Nakodzwe Peak",
+                  "text": "Der Nakodzwe Peak bildet einen steil abfallenden, felsigen Gipfel, der Kletterer mit weiten Ausblicken über die weiten malawischen Ebenen belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        35.60568,
+                        -15.94666
+                  ]
+            },
+            {
+                  "name": "Chambe",
+                  "text": "Der Chambe Peak ist berühmt für seine massive, fast senkrechte Felswand, was ihn zu einem erstklassigen Ziel für Big-Wall-Klettern in Afrika macht.",
+                  "category": "natural",
+                  "coords": [
+                        35.525837,
+                        -15.896957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Likhubula Pools",
+                  "text": "A Likhubula Pools mély, kristálytiszta sziklamedencék, amelyeket a Sapitwa-csúcs közelében a lejtőkön lezúduló hegyi patakok hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502317,
+                        -15.94041
+                  ]
+            },
+            {
+                  "name": "Wodospad",
+                  "text": "Ez a festői hegyi vízesés erőteljesen zúdul le a zord sziklákon a Sapitwa-csúcs árnyékában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537485,
+                        -15.926631
+                  ]
+            },
+            {
+                  "name": "Chapaluka Falls",
+                  "text": "A Chapaluka-vízesés egy lenyűgöző természetes zuhatag, ahol a friss hegyi víz kecsesen bukik át a zord Mulanje sziklafalakon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531648,
+                        -15.934472
+                  ]
+            },
+            {
+                  "name": "Chilemba",
+                  "text": "A Chilemba egy zord, időjárás által megviselt csúcs, amely drámai gerinceket és kihívást jelentő ösvényeket kínál a Mulanje-hegységet felfedező túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        35.52976,
+                        -15.96203
+                  ]
+            },
+            {
+                  "name": "Nakodzwe Peak",
+                  "text": "A Nakodzwe-csúcs egy meredeken lejtő, sziklás magaslatot alkot, amely a hatalmas malawi síkságokra nyíló pazar kilátással jutalmazza a hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        35.60568,
+                        -15.94666
+                  ]
+            },
+            {
+                  "name": "Chambe",
+                  "text": "A Chambe-csúcs hatalmas, szinte függőleges, meredek sziklafaláról híres, amely Afrikában a nagyfalmászás első számú célpontjává teszi.",
+                  "category": "natural",
+                  "coords": [
+                        35.525837,
+                        -15.896957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Likhubula Pools",
+                  "text": "Piscinele Likhubula sunt bazine stâncoase adânci și cristaline, formate de pâraiele de munte care se revarsă în cascade pe pantele din apropierea vârfului Sapitwa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502317,
+                        -15.94041
+                  ]
+            },
+            {
+                  "name": "Wodospad",
+                  "text": "Această cascadă montană pitorească se prăbușește cu forță peste stâncile abrupte din umbra vârfului Sapitwa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537485,
+                        -15.926631
+                  ]
+            },
+            {
+                  "name": "Chapaluka Falls",
+                  "text": "Cascada Chapaluka este o uimitoare cădere naturală de apă, unde apa proaspătă de munte se rostogolește grațios peste fețele stâncoase accidentate din Mulanje.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531648,
+                        -15.934472
+                  ]
+            },
+            {
+                  "name": "Chilemba",
+                  "text": "Chilemba este un vârf colțuros și bătut de vreme, oferind creste dramatice și trasee provocatoare pentru drumeții care explorează masivul Mulanje.",
+                  "category": "natural",
+                  "coords": [
+                        35.52976,
+                        -15.96203
+                  ]
+            },
+            {
+                  "name": "Nakodzwe Peak",
+                  "text": "Vârful Nakodzwe formează un summit stâncos, puternic înclinat, care îi răsplătește pe alpiniști cu vederi ample asupra vastelor câmpii din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        35.60568,
+                        -15.94666
+                  ]
+            },
+            {
+                  "name": "Chambe",
+                  "text": "Vârful Chambe este faimos pentru peretele său stâncos masiv, aproape vertical, devenind o destinație de top pentru escalada pe pereți mari în Africa.",
+                  "category": "natural",
+                  "coords": [
+                        35.525837,
+                        -15.896957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Likhubula Pools",
+                  "text": "The Likhubula Pools are deep, crystal-clear rock pools formed by mountain streams cascading down the slopes near Sapitwa Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502317,
+                        -15.94041
+                  ]
+            },
+            {
+                  "name": "Wodospad",
+                  "text": "This picturesque mountain waterfall plunges forcefully over the craggy cliffs in the shadow of Sapitwa Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537485,
+                        -15.926631
+                  ]
+            },
+            {
+                  "name": "Chapaluka Falls",
+                  "text": "Chapaluka Falls is a stunning natural cascade where fresh mountain water tumbles gracefully over the rugged Mulanje rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531648,
+                        -15.934472
+                  ]
+            },
+            {
+                  "name": "Chilemba",
+                  "text": "Chilemba is a craggy, weather-beaten peak offering dramatic ridges and challenging trails for hikers exploring the Mulanje Massif.",
+                  "category": "natural",
+                  "coords": [
+                        35.52976,
+                        -15.96203
+                  ]
+            },
+            {
+                  "name": "Nakodzwe Peak",
+                  "text": "Nakodzwe Peak forms a steeply inclined, rocky summit that rewards climbers with sweeping views over the vast Malawian plains.",
+                  "category": "natural",
+                  "coords": [
+                        35.60568,
+                        -15.94666
+                  ]
+            },
+            {
+                  "name": "Chambe",
+                  "text": "Chambe Peak is famous for its massive, almost vertical sheer rock face, making it a premier destination for big-wall rock climbing in Africa.",
+                  "category": "natural",
+                  "coords": [
+                        35.525837,
+                        -15.896957
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "peak",
     name: { de: "Sapitwa", hu: "Sapitwa-csúcs", ro: "Vârful Sapitwa", en: "Sapitwa Peak" },
@@ -48,7 +273,160 @@ export const malawiNatureV2: POI[] = [
     image: "/poi-images/malawi-sapitwa-peak-nature-v2.webp",
   },
   {
-    id: "malawi-zomba-plateau-nature-v2",
+    id: "malawi-zomba-plateau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Songani Lookout",
+                  "text": "Ein hoch gelegener Beobachtungspunkt auf dem Zomba-Plateau, der dramatische Ausblicke auf das darunter liegende Songani-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.344567,
+                        -15.342048
+                  ]
+            },
+            {
+                  "name": "Queen's View",
+                  "text": "Ein berühmter Aussichtspunkt auf dem Zomba-Plateau, bekannt für seine königlichen Verbindungen und weiten Blicke über das Shire-Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        35.329462,
+                        -15.349904
+                  ]
+            },
+            {
+                  "name": "Emporer's View",
+                  "text": "Ein spektakulär hoch gelegener Aussichtspunkt auf dem Zomba-Plateau, der Panoramablicke bis hin zum Mount Mulanje bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.332019,
+                        -15.34963
+                  ]
+            },
+            {
+                  "name": "Chifundi",
+                  "text": "Ein markanter Berggipfel, der sich über die bewaldeten Hänge des Zomba-Plateaus in Malawi erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        35.350013,
+                        -15.333732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Songani Lookout",
+                  "text": "Magaslati kilátó a Zomba-fennsíkon, amely drámai kilátást nyújt az alatta elterülő Songani-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.344567,
+                        -15.342048
+                  ]
+            },
+            {
+                  "name": "Queen's View",
+                  "text": "Híres kilátó a Zomba-fennsíkon, amelyet királyi kapcsolatairól és a Shire-fennsíkra nyíló pazar kilátásáról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        35.329462,
+                        -15.349904
+                  ]
+            },
+            {
+                  "name": "Emporer's View",
+                  "text": "Látványosan magas kilátó a Zomba-fennsíkon, ahonnan a Mulanje-hegyig elnyúló panoráma tárul elénk.",
+                  "category": "natural",
+                  "coords": [
+                        35.332019,
+                        -15.34963
+                  ]
+            },
+            {
+                  "name": "Chifundi",
+                  "text": "Jelentős hegycsúcs, amely a malawi Zomba-fennsík erdős lejtői fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        35.350013,
+                        -15.333732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Songani Lookout",
+                  "text": "Un punct de observație la mare altitudine pe Platoul Zomba, care oferă vederi dramatice asupra văii Songani de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        35.344567,
+                        -15.342048
+                  ]
+            },
+            {
+                  "name": "Queen's View",
+                  "text": "Un punct de belvedere renumit de pe Platoul Zomba, numit după conexiunile sale regale și priveliștile ample asupra Munților Shire.",
+                  "category": "natural",
+                  "coords": [
+                        35.329462,
+                        -15.349904
+                  ]
+            },
+            {
+                  "name": "Emporer's View",
+                  "text": "Un punct de observație spectaculos de înalt pe Platoul Zomba, care oferă vederi panoramice întinzându-se spre Muntele Mulanje.",
+                  "category": "natural",
+                  "coords": [
+                        35.332019,
+                        -15.34963
+                  ]
+            },
+            {
+                  "name": "Chifundi",
+                  "text": "Un vârf de munte notabil care se ridică deasupra versanților împăduriți ai Platoului Zomba din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        35.350013,
+                        -15.333732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Songani Lookout",
+                  "text": "A high-altitude observation point on the Zomba Plateau offering dramatic views over the Songani valley below.",
+                  "category": "natural",
+                  "coords": [
+                        35.344567,
+                        -15.342048
+                  ]
+            },
+            {
+                  "name": "Queen's View",
+                  "text": "A renowned scenic overlook on the Zomba Plateau, named for its royal connections and sweeping vistas of the Shire Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        35.329462,
+                        -15.349904
+                  ]
+            },
+            {
+                  "name": "Emporer's View",
+                  "text": "A spectacularly high observation point on the Zomba Plateau that provides panoramic views stretching towards Mount Mulanje.",
+                  "category": "natural",
+                  "coords": [
+                        35.332019,
+                        -15.34963
+                  ]
+            },
+            {
+                  "name": "Chifundi",
+                  "text": "A notable mountain peak rising above the forested slopes of the Zomba Plateau in Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        35.350013,
+                        -15.333732
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "peak",
     name: { de: "Zomba-Plateau", hu: "Zomba-fennsík", ro: "Podișul Zomba", en: "Zomba Plateau" },
@@ -183,7 +561,52 @@ export const malawiNatureV2: POI[] = [
     image: "/poi-images/malawi-lake-chilwa-nature-v2.webp",
   },
   {
-    id: "malawi-manchewe-falls-nature-v2",
+    id: "malawi-manchewe-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "Die Höhle hinter dem Kazichi-Wasserfall bietet einen feuchten, verborgenen Aussichtspunkt, von dem aus Besucher den Wasservorhang beobachten können, der die Klippe hinabstürzt.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "A Kazichi-vízesés mögötti barlang egy nedves, rejtett kilátópontot kínál, ahonnan a látogatók megfigyelhetik a sziklán lezúduló vízfüggönyt.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "Peștera din spatele cascadei Kazichi oferă un punct de belvedere umed și ascuns de unde vizitatorii pot privi perdeaua de apă coborând pe stâncă.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "The Cave behind the Kazichi water fall offers a damp, hidden viewpoint where visitors can watch the water curtain cascade down the cliff.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Manchewe-Wasserfälle", hu: "Manchewe-vízesés", ro: "Cascada Manchewe", en: "Manchewe Falls" },
@@ -408,7 +831,52 @@ export const malawiNatureV2: POI[] = [
     image: "/poi-images/malawi-bua-river-nature-v2.webp",
   },
   {
-    id: "malawi-mumbo-island-nature-v2",
+    id: "malawi-mumbo-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mumbo Island",
+                  "text": "Mumbo Island ist ein unberührtes Insel-Naturschutzgebiet im malawi-mumbo-island-nature-v2, das für seine dichten Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        34.755202,
+                        -13.989689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mumbo Island",
+                  "text": "A Mumbo Island egy érintetlen szigeti természetvédelmi terület malawi-mumbo-island-nature-v2-ben, amely sűrű erdeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        34.755202,
+                        -13.989689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mumbo Island",
+                  "text": "Mumbo Island este o rezervație naturală insulară neatinsă din malawi-mumbo-island-nature-v2, remarcată pentru pădurile sale dese.",
+                  "category": "natural",
+                  "coords": [
+                        34.755202,
+                        -13.989689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mumbo Island",
+                  "text": "Mumbo Island serves as an unspoiled island nature reserve boasting dense woodlands in malawi-mumbo-island-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        34.755202,
+                        -13.989689
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "island",
     name: { de: "Mumbo", hu: "Mumbo-sziget", ro: "Insula Mumbo", en: "Mumbo Island" },
@@ -453,7 +921,52 @@ export const malawiNatureV2: POI[] = [
     image: "/poi-images/malawi-mumbo-island-nature-v2.webp",
   },
   {
-    id: "malawi-dedza-mountain-nature-v2",
+    id: "malawi-dedza-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bembeke market",
+                  "text": "Der Bembeke-Markt ist eine belebte lokale Attraktion in der Nähe des Dedza-Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39869,
+                        -14.411078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bembeke market",
+                  "text": "A Bembeke piac egy nyüzsgő helyi látványosság a Dedza-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39869,
+                        -14.411078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bembeke market",
+                  "text": "Piața Bembeke este o atracție locală plină de viață în apropierea Muntelui Dedza.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39869,
+                        -14.411078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bembeke market",
+                  "text": "Bembeke market is a bustling local attraction near Dedza Mountain known for its vibrant community trade.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39869,
+                        -14.411078
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "peak",
     name: { de: "Dedza-Berg", hu: "Dedza-hegy", ro: "Muntele Dedza", en: "Dedza Mountain" },
@@ -498,7 +1011,52 @@ export const malawiNatureV2: POI[] = [
     image: "/poi-images/malawi-dedza-mountain-nature-v2.webp",
   },
   {
-    id: "malawi-kapichira-falls-nature-v2",
+    id: "malawi-kapichira-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kapichira Falls View Point",
+                  "text": "Der Kapichira Falls View Point in malawi-kapichira-falls-nature-v2 bietet einen spektakulären Blick auf die herabstürzenden Wassermassen der Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        34.750221,
+                        -15.899754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kapichira Falls View Point",
+                  "text": "A malawi-kapichira-falls-nature-v2-ben található Kapichira Falls View Point látványos kilátást nyújt a lezúduló víztömegekre.",
+                  "category": "natural",
+                  "coords": [
+                        34.750221,
+                        -15.899754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kapichira Falls View Point",
+                  "text": "Kapichira Falls View Point din malawi-kapichira-falls-nature-v2 oferă o perspectivă spectaculoasă asupra căderilor tumultuoase de apă.",
+                  "category": "natural",
+                  "coords": [
+                        34.750221,
+                        -15.899754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kapichira Falls View Point",
+                  "text": "The Kapichira Falls View Point in malawi-kapichira-falls-nature-v2 offers sweeping perspectives over the cascading river rapids.",
+                  "category": "natural",
+                  "coords": [
+                        34.750221,
+                        -15.899754
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Kapichira-Wasserfälle", hu: "Kapichira-vízesés", ro: "Cascada Kapichira", en: "Kapichira Falls" },
@@ -678,7 +1236,196 @@ export const malawiNatureV2: POI[] = [
     image: "/poi-images/malawi-south-rukuru-river-nature-v2.webp",
   },
   {
-    id: "malawi-ntchisi-mountain-forest-nature-v2",
+    id: "malawi-ntchisi-mountain-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset rock E. 1455 m.",
+                  "text": "Dieser felsige Aussichtspunkt in den Ntchisi-Bergen auf 1455 Metern Höhe bietet einen atemberaubenden Panoramablick auf die untergehende Sonne über der malawischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        34.002336,
+                        -13.380766
+                  ]
+            },
+            {
+                  "name": "Flat rock viewpoint E. 1365 m.",
+                  "text": "Dieser breite, abgeflachte Felsvorsprung im Ntchisi-Wald auf 1365 Metern Höhe bietet Wanderern einen ungehinderten Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        34.016598,
+                        -13.375401
+                  ]
+            },
+            {
+                  "name": "Viewpoint E. 1563 m.",
+                  "text": "Diese hochgelegene Lichtung auf 1563 Metern Höhe bietet einen weiten Panoramablick über die üppigen einheimischen Regenwälder von Ntchisi.",
+                  "category": "natural",
+                  "coords": [
+                        34.00416,
+                        -13.3763
+                  ]
+            },
+            {
+                  "name": "Western viewpoint E. 1640 m.",
+                  "text": "Dieser nach Westen ausgerichtete Bergrücken in Malawi erreicht eine Höhe von 1640 Metern und bietet eine hervorragende Aussicht auf die weitläufigen Ebenen des Grabenbruchs.",
+                  "category": "natural",
+                  "coords": [
+                        34.001763,
+                        -13.370367
+                  ]
+            },
+            {
+                  "name": "Open space viewpoint E. 1678 m.",
+                  "text": "Dieser weite, baumfreie Aussichtspunkt in stolzen 1678 Metern Höhe gewährt einen herrlichen Blick über das bergige Gelände des Ntchisi-Waldreservats.",
+                  "category": "natural",
+                  "coords": [
+                        34.016919,
+                        -13.361507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset rock E. 1455 m.",
+                  "text": "A Ntchisi-hegységben 1455 méteres magasságban található sziklás kilátó lenyűgöző panorámát nyújt a malawi táj felett lemenő napra.",
+                  "category": "natural",
+                  "coords": [
+                        34.002336,
+                        -13.380766
+                  ]
+            },
+            {
+                  "name": "Flat rock viewpoint E. 1365 m.",
+                  "text": "Az 1365 méteres magasságban található széles, lapos sziklakiszögellés a Ntchisi-erdőben akadálytalan kilátópontot biztosít a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        34.016598,
+                        -13.375401
+                  ]
+            },
+            {
+                  "name": "Viewpoint E. 1563 m.",
+                  "text": "Az 1563 méteres magasságot elérő, magaslati tisztásról pazar kilátás nyílik Ntchisi buja, őshonos esőerdőire.",
+                  "category": "natural",
+                  "coords": [
+                        34.00416,
+                        -13.3763
+                  ]
+            },
+            {
+                  "name": "Western viewpoint E. 1640 m.",
+                  "text": "Az 1640 méteres magasságba emelkedő, nyugati fekvésű hegygerincről Malawiban pompás kilátás nyílik a lent elterülő hatalmas hasadékvölgy síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        34.001763,
+                        -13.370367
+                  ]
+            },
+            {
+                  "name": "Open space viewpoint E. 1678 m.",
+                  "text": "A tekintélyes, 1678 méteres magasságban lévő kiterjedt, fáktól mentes megfigyelőpont csodálatos kilátást nyújt a Ntchisi Erdőrezervátum hegyvidéki terepére.",
+                  "category": "natural",
+                  "coords": [
+                        34.016919,
+                        -13.361507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset rock E. 1455 m.",
+                  "text": "Situat la o altitudine de 1455 metri în munții Ntchisi, acest punct de belvedere stâncos oferă vederi panoramice uimitoare ale soarelui apunând peste peisajul din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.002336,
+                        -13.380766
+                  ]
+            },
+            {
+                  "name": "Flat rock viewpoint E. 1365 m.",
+                  "text": "Situat la o altitudine de 1365 metri, acest afloriment stâncos plat din pădurea Ntchisi oferă un punct de observație neobstrucționat pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        34.016598,
+                        -13.375401
+                  ]
+            },
+            {
+                  "name": "Viewpoint E. 1563 m.",
+                  "text": "Atingând o altitudine de 1563 metri, acest punct de observație înalt oferă vederi panoramice vaste asupra pădurilor tropicale luxuriante din Ntchisi.",
+                  "category": "natural",
+                  "coords": [
+                        34.00416,
+                        -13.3763
+                  ]
+            },
+            {
+                  "name": "Western viewpoint E. 1640 m.",
+                  "text": "Ridicându-se la 1640 de metri altitudine, această creastă montană orientată spre vest oferă vederi excelente asupra văii de rift din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.001763,
+                        -13.370367
+                  ]
+            },
+            {
+                  "name": "Open space viewpoint E. 1678 m.",
+                  "text": "Aflat la o altitudine impresionantă de 1678 metri, acest punct larg de observație, fără copaci, oferă vederi magnifice peste relieful muntos al rezervației Ntchisi.",
+                  "category": "natural",
+                  "coords": [
+                        34.016919,
+                        -13.361507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset rock E. 1455 m.",
+                  "text": "Perched at an elevation of 1455 meters in the Ntchisi mountains, this rocky viewpoint offers stunning panoramic views of the sinking sun over the Malawian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        34.002336,
+                        -13.380766
+                  ]
+            },
+            {
+                  "name": "Flat rock viewpoint E. 1365 m.",
+                  "text": "Located at an elevation of 1365 meters, this broad, flattened rocky outcrop in the Ntchisi forest provides an unobstructed vantage point for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        34.016598,
+                        -13.375401
+                  ]
+            },
+            {
+                  "name": "Viewpoint E. 1563 m.",
+                  "text": "Reaching an altitude of 1563 meters, this elevated clearing allows sweeping scenic views over the lush indigenous rainforests of Ntchisi.",
+                  "category": "natural",
+                  "coords": [
+                        34.00416,
+                        -13.3763
+                  ]
+            },
+            {
+                  "name": "Western viewpoint E. 1640 m.",
+                  "text": "Rising to 1640 meters in elevation, this western-facing mountain crest in Malawi offers prime vistas across the sprawling rift valley plains below.",
+                  "category": "natural",
+                  "coords": [
+                        34.001763,
+                        -13.370367
+                  ]
+            },
+            {
+                  "name": "Open space viewpoint E. 1678 m.",
+                  "text": "Standing at a lofty 1678 meters, this expansive, tree-cleared observation point grants magnificent views across the mountainous terrain of the Ntchisi Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        34.016919,
+                        -13.361507
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "forest",
     name: { de: "Ntchisi-Bergwald", hu: "Ntchisi-hegyi erdő", ro: "Pădurea Montană Ntchisi", en: "Ntchisi Mountain Forest" },
@@ -813,7 +1560,88 @@ export const malawiNatureV2: POI[] = [
     image: "/poi-images/malawi-kande-island-nature-v2.webp",
   },
   {
-    id: "malawi-mpatamanga-gorge-nature-v2",
+    id: "malawi-mpatamanga-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "temporally benchmark",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet eine vorübergehende Beobachtungsstation mit Blick auf die zerklüfteten Felsformationen der Mpatamanga-Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        34.739443,
+                        -15.782434
+                  ]
+            },
+            {
+                  "name": "Mpatamanga Gorge",
+                  "text": "Die Mpatamanga-Schlucht ist eine dramatische Naturattraktion, in der sich der Shire-Fluss gewaltsam seinen Weg durch einen schmalen Kanal aus massivem Fels bahnt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.727907,
+                        -15.722263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "temporally benchmark",
+                  "text": "Ez a magaslati kilátó egy ideiglenes megfigyelőállomást kínál, ahonnan kilátás nyílik a Mpatamanga-szurdok zord sziklaalakzataira.",
+                  "category": "natural",
+                  "coords": [
+                        34.739443,
+                        -15.782434
+                  ]
+            },
+            {
+                  "name": "Mpatamanga Gorge",
+                  "text": "A Mpatamanga-szurdok egy drámai természeti látványosság, ahol a Shire folyó hevesen vág át egy szilárd sziklából álló, keskeny csatornán.",
+                  "category": "landmark",
+                  "coords": [
+                        34.727907,
+                        -15.722263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "temporally benchmark",
+                  "text": "Acest punct de belvedere ridicat oferă o stație de observație temporară cu vedere la formațiunile stâncoase abrupte ale defileului Mpatamanga.",
+                  "category": "natural",
+                  "coords": [
+                        34.739443,
+                        -15.782434
+                  ]
+            },
+            {
+                  "name": "Mpatamanga Gorge",
+                  "text": "Defileul Mpatamanga este o atracție naturală spectaculoasă, unde râul Shire își croiește cu forță drum printr-un canal îngust de stâncă solidă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.727907,
+                        -15.722263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "temporally benchmark",
+                  "text": "This elevated viewpoint offers a temporary observation post overlooking the rugged rock formations of the Mpatamanga Gorge.",
+                  "category": "natural",
+                  "coords": [
+                        34.739443,
+                        -15.782434
+                  ]
+            },
+            {
+                  "name": "Mpatamanga Gorge",
+                  "text": "The Mpatamanga Gorge is a dramatic natural attraction where the Shire River violently forces its way through a narrow channel of solid rock.",
+                  "category": "landmark",
+                  "coords": [
+                        34.727907,
+                        -15.722263
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "valley",
     name: { de: "Mpatamanga-Schlucht", hu: "Mpatamanga-szoros", ro: "Defileul Mpatamanga", en: "Mpatamanga Gorge" },

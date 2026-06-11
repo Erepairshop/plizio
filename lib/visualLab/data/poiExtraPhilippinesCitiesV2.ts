@@ -1708,7 +1708,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort San Pedro",
-                  "text": "Fort San Pedro ist eine historische Festung in Cebu City.",
+                  "text": "Die 1565 erbaute Festung San Pedro in Cebu City.",
                   "category": "fortress",
                   "coords": [
                         123.905789,
@@ -1890,7 +1890,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort San Pedro",
-                  "text": "A Fort San Pedro egy történelmi erőd Cebu Cityben.",
+                  "text": "A Cebu Cityben található San Pedro erőd, 1565-ben épült.",
                   "category": "fortress",
                   "coords": [
                         123.905789,
@@ -2072,7 +2072,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort San Pedro",
-                  "text": "Fort San Pedro este o fortăreață istorică din Cebu City.",
+                  "text": "Fortăreața San Pedro din Cebu City, construită în 1565.",
                   "category": "fortress",
                   "coords": [
                         123.905789,
@@ -2254,7 +2254,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort San Pedro",
-                  "text": "Fort San Pedro is a historical fortress in Cebu City.",
+                  "text": "Fort San Pedro in Cebu City, built in 1565.",
                   "category": "fortress",
                   "coords": [
                         123.905789,
@@ -2983,7 +2983,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Meralco Theater",
-                  "text": "Das Meralco Theater ist eine bekannte Bühne für Aufführungen in Pasig.",
+                  "text": "Das 1969 eröffnete Meralco Theater in Pasig.",
                   "category": "cultural",
                   "coords": [
                         121.0641,
@@ -3228,7 +3228,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Meralco Theater",
-                  "text": "A Meralco Theater egy ismert előadóhelyszín Pasigban.",
+                  "text": "A pasigi Meralco Színház, 1969-ben nyílt meg.",
                   "category": "cultural",
                   "coords": [
                         121.0641,
@@ -3473,7 +3473,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Meralco Theater",
-                  "text": "Meralco Theater este o scenă cunoscută pentru spectacole în Pasig.",
+                  "text": "Teatrul Meralco din Pasig, inaugurat în 1969.",
                   "category": "cultural",
                   "coords": [
                         121.0641,
@@ -3718,7 +3718,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Meralco Theater",
-                  "text": "The Meralco Theater is a well-known performing arts venue in Pasig.",
+                  "text": "Meralco Theater in Pasig, opened in 1969.",
                   "category": "cultural",
                   "coords": [
                         121.0641,
@@ -8437,7 +8437,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "Die Estrella-Pantaleon-Brücke ist ein wichtiger Brückenbau in Makati.",
+                  "text": "Die 2021 eröffnete Estrella-Pantaleon-Brücke über den Pasig, verbindet Makati und Mandaluyong.",
                   "category": "landmark",
                   "coords": [
                         121.03766,
@@ -8754,7 +8754,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "Az Estrella-Pantaleon híd egy fontos híd Makatiban.",
+                  "text": "Az Estrella-Pantaleon híd a Pasig folyón, összeköti Makatit és Mandaluyongot, 2021-ben nyílt meg.",
                   "category": "landmark",
                   "coords": [
                         121.03766,
@@ -9071,7 +9071,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "Podul Estrella-Pantaleon este o structură importantă din Makati.",
+                  "text": "Podul Estrella-Pantaleon peste râul Pasig, care leagă Makati de Mandaluyong, deschis în 2021.",
                   "category": "landmark",
                   "coords": [
                         121.03766,
@@ -9388,7 +9388,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "The Estrella-Pantaleon Bridge is an important bridge in Makati.",
+                  "text": "Estrella-Pantaleon Bridge over the Pasig River, connecting Makati and Mandaluyong, opened in 2021.",
                   "category": "landmark",
                   "coords": [
                         121.03766,
@@ -11861,7 +11861,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Quirino – Lopez Bridge",
-                  "text": "Die Quirino – Lopez Bridge ist eine Brücke in Iloilo City.",
+                  "text": "Die 2000 eröffnete Quirino-Lopez-Brücke über den Iloilo-Fluss in Iloilo City.",
                   "category": "landmark",
                   "coords": [
                         122.570348,
@@ -12079,7 +12079,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Quirino – Lopez Bridge",
-                  "text": "A Quirino – Lopez Bridge egy híd Iloilo City városában.",
+                  "text": "A Quirino-Lopez híd az Iloilo folyón Iloilo Cityben, 2000-ben nyílt meg.",
                   "category": "landmark",
                   "coords": [
                         122.570348,
@@ -12297,7 +12297,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Quirino – Lopez Bridge",
-                  "text": "Podul Quirino – Lopez este o punte de infrastructură situată în Iloilo City.",
+                  "text": "Podul Quirino-Lopez peste râul Iloilo din Iloilo City, deschis în 2000.",
                   "category": "landmark",
                   "coords": [
                         122.570348,
@@ -12515,7 +12515,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Quirino – Lopez Bridge",
-                  "text": "Quirino – Lopez Bridge is an infrastructure span located in Iloilo City.",
+                  "text": "Quirino-Lopez Bridge over the Iloilo River in Iloilo City, opened in 2000.",
                   "category": "landmark",
                   "coords": [
                         122.570348,
@@ -15113,7 +15113,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "Die Estrella-Pantaleon-Brücke ist eine wichtige Brücke in Mandaluyong, die den Pasig River überquert.",
+                  "text": "Die 2021 eröffnete Estrella-Pantaleon-Brücke über den Pasig, verbindet Mandaluyong und Makati.",
                   "category": "landmark",
                   "coords": [
                         121.03766,
@@ -15439,7 +15439,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "Az Estrella-Pantaleon híd egy jelentős híd Mandaluyongban, amely a Pasig folyót keresztezi.",
+                  "text": "Az Estrella-Pantaleon híd a Pasig folyón, összeköti Mandaluyongot és Makatit, 2021-ben nyílt meg.",
                   "category": "landmark",
                   "coords": [
                         121.03766,
@@ -15765,7 +15765,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "Podul Estrella-Pantaleon este un pod major din Mandaluyong care traversează râul Pasig.",
+                  "text": "Podul Estrella-Pantaleon peste râul Pasig, care leagă Mandaluyong de Makati, deschis în 2021.",
                   "category": "landmark",
                   "coords": [
                         121.03766,
@@ -16091,7 +16091,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             },
             {
                   "name": "Estrella-Pantaleon Bridge",
-                  "text": "Estrella-Pantaleon Bridge is a major bridge in Mandaluyong that crosses the Pasig River.",
+                  "text": "Estrella-Pantaleon Bridge over the Pasig River, connecting Mandaluyong and Makati, opened in 2021.",
                   "category": "landmark",
                   "coords": [
                         121.03766,

@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraUgandaHistoryV2: POI[] = [
   {
-    id: "kasubi-tombs-history-v2",
+    id: "kasubi-tombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasubi Tombs",
+                  "text": "Die Kasubi-Gräber sind eine UNESCO-Weltkulturerbestätte, die die traditionellen strohgedeckten Grabstätten von vier Buganda-Königen umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        32.552979,
+                        0.329312
+                  ]
+            },
+            {
+                  "name": "Lubya Hill",
+                  "text": "Der Lubya Hill ist ein bemerkenswerter geografischer Gipfel in der Region Kampala, der einen erhöhten Blick auf die umliegende Stadtlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.545487,
+                        0.329874
+                  ]
+            },
+            {
+                  "name": "Kiweewa's Tombs",
+                  "text": "Die Kiweewa-Gräber markieren die historische Ruhestätte von König Kiweewa und bewahren die königliche Grabarchitektur des Buganda-Königreichs.",
+                  "category": "historical",
+                  "coords": [
+                        32.533146,
+                        0.332268
+                  ]
+            },
+            {
+                  "name": "Königliche Gräber der Buganda zu Kasubi",
+                  "text": "Die Kasubi Royal Tombs dienen als denkmalgeschützter Museumskomplex, der das spirituelle und architektonische Erbe des Buganda-Königtums bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        32.555412,
+                        0.328241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasubi Tombs",
+                  "text": "A Kasubi síremlékek az UNESCO Világörökség részét képezik, ahol négy bugandai király hagyományos, nádfedeles temetkezési helye található.",
+                  "category": "historical",
+                  "coords": [
+                        32.552979,
+                        0.329312
+                  ]
+            },
+            {
+                  "name": "Lubya Hill",
+                  "text": "A Lubya-domb egy figyelemre méltó földrajzi magaslat a kampalai régióban, amelyről nagyszerű kilátás nyílik a környező városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        32.545487,
+                        0.329874
+                  ]
+            },
+            {
+                  "name": "Kiweewa's Tombs",
+                  "text": "A Kiweewa síremlékek Kiweewa király történelmi nyughelyét jelölik, megőrizve a Buganda királyság királyi temetkezési építészetét.",
+                  "category": "historical",
+                  "coords": [
+                        32.533146,
+                        0.332268
+                  ]
+            },
+            {
+                  "name": "Kasubi Royal Tombs",
+                  "text": "A Kasubi királyi sírok egy műemléki védettségű múzeumkomplexumként szolgálnak, amely megőrzi a bugandai királyság szellemi és építészeti örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        32.555412,
+                        0.328241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasubi Tombs",
+                  "text": "Mormintele Kasubi sunt un sit al Patrimoniului Mondial UNESCO care conține cimitirele tradiționale cu acoperiș de paie ale a patru regi Buganda.",
+                  "category": "historical",
+                  "coords": [
+                        32.552979,
+                        0.329312
+                  ]
+            },
+            {
+                  "name": "Lubya Hill",
+                  "text": "Lubya Hill este un vârf geografic notabil din zona Kampala, oferind vederi la înălțime asupra peisajului urban înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        32.545487,
+                        0.329874
+                  ]
+            },
+            {
+                  "name": "Kiweewa's Tombs",
+                  "text": "Mormintele lui Kiweewa marchează locul istoric de odihnă al regelui Kiweewa, păstrând arhitectura funerară regală a regatului Buganda.",
+                  "category": "historical",
+                  "coords": [
+                        32.533146,
+                        0.332268
+                  ]
+            },
+            {
+                  "name": "Kasubi Royal Tombs",
+                  "text": "Mormintele Regale Kasubi servesc drept un complex muzeal de patrimoniu care protejează moștenirea spirituală și arhitecturală a regalității Buganda.",
+                  "category": "museum",
+                  "coords": [
+                        32.555412,
+                        0.328241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasubi Tombs",
+                  "text": "The Kasubi Tombs are a UNESCO World Heritage site containing the traditional thatched burial grounds of four Buganda Kings.",
+                  "category": "historical",
+                  "coords": [
+                        32.552979,
+                        0.329312
+                  ]
+            },
+            {
+                  "name": "Lubya Hill",
+                  "text": "Lubya Hill is a notable geographic peak in the Kampala area, offering elevated views of the surrounding urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.545487,
+                        0.329874
+                  ]
+            },
+            {
+                  "name": "Kiweewa's Tombs",
+                  "text": "Kiweewa's Tombs mark the historical resting place of King Kiweewa, preserving the royal funerary architecture of the Buganda kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        32.533146,
+                        0.332268
+                  ]
+            },
+            {
+                  "name": "Kasubi Royal Tombs",
+                  "text": "The Kasubi Royal Tombs serve as a heritage-listed museum complex that safeguards the spiritual and architectural legacy of Buganda royalty.",
+                  "category": "museum",
+                  "coords": [
+                        32.555412,
+                        0.328241
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.5539, 0.3294],
@@ -99,7 +252,268 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "namugongo-martyrs-shrine-history-v2",
+    id: "namugongo-martyrs-shrine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uganda Matyr's Well",
+                  "text": "Diese heilige Wasserquelle wird von Pilgern verehrt, die die Stätte besuchen, um die historischen ugandischen Märtyrer zu ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        32.666429,
+                        0.397275
+                  ]
+            },
+            {
+                  "name": "BRIMS Heritage Resource Center",
+                  "text": "Dieses als pädagogisches Museum fungierende Ressourcenzentrum archiviert kulturelle Texte und historische Artefakte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        32.66532,
+                        0.398316
+                  ]
+            },
+            {
+                  "name": "kiwatule rec park history museum",
+                  "text": "Dieses lokale Museum liegt in einem Erholungspark und zeigt historische Ausstellungen neben Freizeiteinrichtungen im Freien.",
+                  "category": "museum",
+                  "coords": [
+                        32.631517,
+                        0.374463
+                  ]
+            },
+            {
+                  "name": "Namugongo Matyr's Museum",
+                  "text": "Dieses spezialisierte Museum verfügt über eindrucksvolle Skulpturen und Dioramen, die die Hinrichtungen der Märtyrer im 19. Jahrhundert dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        32.666513,
+                        0.395687
+                  ]
+            },
+            {
+                  "name": "Sir Apolo Kaggwa's House",
+                  "text": "Dieses historische Gebäude bewahrt das architektonische Erbe des ehemaligen Premierministers von Buganda, Sir Apolo Kaggwa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.629083,
+                        0.463155
+                  ]
+            },
+            {
+                  "name": "Olubiri Lwa Kabaka Bulamu",
+                  "text": "Mit traditionellen architektonischen Entwürfen aus Buganda repräsentiert diese Stätte eine historische königliche Anlage des Kabaka.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610536,
+                        0.442132
+                  ]
+            },
+            {
+                  "name": "Uganda Martyrs' Shrine",
+                  "text": "Dieser monumentale Schrein in der markanten Form einer traditionellen Hütte ist ein wichtiges afrikanisches Pilgerziel.",
+                  "category": "landmark",
+                  "coords": [
+                        32.652267,
+                        0.38746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uganda Matyr's Well",
+                  "text": "Ezt a szent vizű forrást zarándokok tisztelik, akik azért látogatnak el a helyszínre, hogy leróják tiszteletüket a történelmi ugandai vértanúk előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.666429,
+                        0.397275
+                  ]
+            },
+            {
+                  "name": "BRIMS Heritage Resource Center",
+                  "text": "Oktatási múzeumként működő forrásközpont, amely a régió kulturális szövegeit és történelmi műtárgyait archiválja.",
+                  "category": "museum",
+                  "coords": [
+                        32.66532,
+                        0.398316
+                  ]
+            },
+            {
+                  "name": "kiwatule rec park history museum",
+                  "text": "A szabadidőparkban található helyi múzeum történelmi kiállításokat mutat be a szabadtéri szórakoztató létesítmények mellett.",
+                  "category": "museum",
+                  "coords": [
+                        32.631517,
+                        0.374463
+                  ]
+            },
+            {
+                  "name": "Namugongo Matyr's Museum",
+                  "text": "Ez a különleges múzeum erőteljes szobrokkal és diorámákkal dokumentálja a 19. századi vértanúk kivégzését.",
+                  "category": "museum",
+                  "coords": [
+                        32.666513,
+                        0.395687
+                  ]
+            },
+            {
+                  "name": "Sir Apolo Kaggwa's House",
+                  "text": "Ez a történelmi épület Sir Apolo Kaggwa egykori bugandai miniszterelnök építészeti örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        32.629083,
+                        0.463155
+                  ]
+            },
+            {
+                  "name": "Olubiri Lwa Kabaka Bulamu",
+                  "text": "A hagyományos bugandai építészeti dizájnt felvonultató helyszín a Kabaka történelmi királyi udvarházát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610536,
+                        0.442132
+                  ]
+            },
+            {
+                  "name": "Uganda Martyrs' Shrine",
+                  "text": "A jellegzetes hagyományos kunyhó formájú monumentális szentély jelentős afrikai zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        32.652267,
+                        0.38746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uganda Matyr's Well",
+                  "text": "Această sursă de apă sacră este venerată de pelerinii care vizitează locul pentru a-i onora pe martirii istorici din Uganda.",
+                  "category": "landmark",
+                  "coords": [
+                        32.666429,
+                        0.397275
+                  ]
+            },
+            {
+                  "name": "BRIMS Heritage Resource Center",
+                  "text": "Funcționând ca un muzeu educațional, acest centru de resurse arhivează texte culturale și artefacte istorice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.66532,
+                        0.398316
+                  ]
+            },
+            {
+                  "name": "kiwatule rec park history museum",
+                  "text": "Situat într-un parc de agrement, acest muzeu local prezintă expoziții istorice alături de facilități de petrecere a timpului liber în aer liber.",
+                  "category": "museum",
+                  "coords": [
+                        32.631517,
+                        0.374463
+                  ]
+            },
+            {
+                  "name": "Namugongo Matyr's Museum",
+                  "text": "Acest muzeu specializat prezintă sculpturi și diorame puternice care documentează execuțiile martirilor din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        32.666513,
+                        0.395687
+                  ]
+            },
+            {
+                  "name": "Sir Apolo Kaggwa's House",
+                  "text": "Această clădire istorică păstrează moștenirea arhitecturală a fostului prim-ministru din Buganda, Sir Apolo Kaggwa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.629083,
+                        0.463155
+                  ]
+            },
+            {
+                  "name": "Olubiri Lwa Kabaka Bulamu",
+                  "text": "Prezentând modele arhitecturale tradiționale din Buganda, acest sit reprezintă o incintă regală istorică a regelui Kabaka.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610536,
+                        0.442132
+                  ]
+            },
+            {
+                  "name": "Uganda Martyrs' Shrine",
+                  "text": "Proiectat cu o formă distinctivă de colibă tradițională, acest altar monumental este o destinație majoră de pelerinaj african.",
+                  "category": "landmark",
+                  "coords": [
+                        32.652267,
+                        0.38746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uganda Matyr's Well",
+                  "text": "This sacred water source is revered by pilgrims who visit the site to honor the historic Ugandan martyrs.",
+                  "category": "landmark",
+                  "coords": [
+                        32.666429,
+                        0.397275
+                  ]
+            },
+            {
+                  "name": "BRIMS Heritage Resource Center",
+                  "text": "Functioning as an educational museum, this resource center archives cultural texts and historical artifacts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.66532,
+                        0.398316
+                  ]
+            },
+            {
+                  "name": "kiwatule rec park history museum",
+                  "text": "Situated within a recreational park, this local museum exhibits historical displays alongside outdoor leisure facilities.",
+                  "category": "museum",
+                  "coords": [
+                        32.631517,
+                        0.374463
+                  ]
+            },
+            {
+                  "name": "Namugongo Matyr's Museum",
+                  "text": "This specialized museum features powerful sculptures and dioramas documenting the executions of the 19th-century martyrs.",
+                  "category": "museum",
+                  "coords": [
+                        32.666513,
+                        0.395687
+                  ]
+            },
+            {
+                  "name": "Sir Apolo Kaggwa's House",
+                  "text": "This historic building preserves the architectural legacy of the former Buganda Prime Minister, Sir Apolo Kaggwa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.629083,
+                        0.463155
+                  ]
+            },
+            {
+                  "name": "Olubiri Lwa Kabaka Bulamu",
+                  "text": "Featuring traditional Buganda architectural designs, this site represents an historical royal enclosure of the Kabaka.",
+                  "category": "landmark",
+                  "coords": [
+                        32.610536,
+                        0.442132
+                  ]
+            },
+            {
+                  "name": "Uganda Martyrs' Shrine",
+                  "text": "Designed with a distinctive traditional hut shape, this monumental shrine is a major African pilgrimage destination.",
+                  "category": "landmark",
+                  "coords": [
+                        32.652267,
+                        0.38746
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.65, 0.38],
@@ -147,7 +561,88 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "uganda-national-mosque-history-v2",
+    id: "uganda-national-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uganda National Mosque",
+                  "text": "Die Uganda-Nationalmoschee auf dem Kampala-Hügel verfügt über ein hoch aufragendes Minarett, das einen Panoramablick über die Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.568564,
+                        0.3156
+                  ]
+            },
+            {
+                  "name": "Royal Theatre",
+                  "text": "Das Royal Theatre ist ein intimer Veranstaltungsort, der für traditionelle ugandische darstellende Künste und lokale Theaterstücke bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        32.570299,
+                        0.314792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uganda National Mosque",
+                  "text": "A Kampala dombján található Ugandai Nemzeti Mecset egy magasba törő minarettel rendelkezik, amelyből panorámás kilátás nyílik a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        32.568564,
+                        0.3156
+                  ]
+            },
+            {
+                  "name": "Royal Theatre",
+                  "text": "A Royal Theatre egy meghitt előadóhely, amely a hagyományos ugandai előadóművészet és a helyi színdarabok bemutatásáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        32.570299,
+                        0.314792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uganda National Mosque",
+                  "text": "Moscheea Națională din Uganda, situată pe dealul Kampala, are un minaret impunător care oferă vederi panoramice ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.568564,
+                        0.3156
+                  ]
+            },
+            {
+                  "name": "Royal Theatre",
+                  "text": "Teatrul Regal este un loc intim de spectacole, cunoscut pentru prezentarea artelor spectacolului tradiționale din Uganda și a pieselor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.570299,
+                        0.314792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uganda National Mosque",
+                  "text": "The Uganda National Mosque, situated on Kampala Hill, features a soaring minaret offering panoramic views of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        32.568564,
+                        0.3156
+                  ]
+            },
+            {
+                  "name": "Royal Theatre",
+                  "text": "The Royal Theatre is an intimate performance venue known for showcasing traditional Ugandan performing arts and local plays.",
+                  "category": "cultural",
+                  "coords": [
+                        32.570299,
+                        0.314792
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.5683, 0.315],
@@ -195,7 +690,52 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "nyero-rock-paintings-history-v2",
+    id: "nyero-rock-paintings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyero Rock Paintings",
+                  "text": "Eingebettet in Granitfelsunterstände, weist diese antike archäologische Stätte faszinierende geometrische Felszeichnungen von frühen Jägern und Sammlern auf.",
+                  "category": "historical",
+                  "coords": [
+                        33.846227,
+                        1.471701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyero Rock Paintings",
+                  "text": "A gránitsziklák ölelésében található ősi régészeti lelőhely lenyűgöző geometrikus sziklafestményeket rejt a korai vadászó-gyűjtögető népektől.",
+                  "category": "historical",
+                  "coords": [
+                        33.846227,
+                        1.471701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyero Rock Paintings",
+                  "text": "Ascuns în adăposturi de stâncă de granit, acest vechi sit arheologic prezintă picturi rupestre geometrice fascinante ale vânătorilor-culegători timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        33.846227,
+                        1.471701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyero Rock Paintings",
+                  "text": "Nestled in granite rock shelters, this ancient archaeological site features fascinating geometric rock paintings attributed to early hunter-gatherers.",
+                  "category": "historical",
+                  "coords": [
+                        33.846227,
+                        1.471701
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-E",
     coords: [33.8058, 1.4686],
@@ -243,7 +783,88 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-patiko-history-v2",
+    id: "fort-patiko-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lukodi Memorial Massacre",
+                  "text": "Die Gedenkstätte des Lukodi-Massakers ehrt feierlich die Dorfbewohner, die während des brutalen LRA-Aufstands auf tragische Weise ihr Leben verloren.",
+                  "category": "landmark",
+                  "coords": [
+                        32.29884,
+                        2.91446
+                  ]
+            },
+            {
+                  "name": "Burcoro Mascure Monument",
+                  "text": "Das Burcoro Mascure Monument ist ein düsteres historisches Denkmal, das an die unschuldigen Opfer des verheerenden Burcoro-Massakers erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.358856,
+                        2.875836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lukodi Memorial Massacre",
+                  "text": "A Lukodi mészárlás emlékműve ünnepélyesen tiszteleg azon falusiak előtt, akik tragikusan életüket vesztették a brutális LRA felkelés során.",
+                  "category": "landmark",
+                  "coords": [
+                        32.29884,
+                        2.91446
+                  ]
+            },
+            {
+                  "name": "Burcoro Mascure Monument",
+                  "text": "A Burcoro mészárlás emlékműve zord történelmi jelzőként áll, megemlékezve a pusztító burcorói mészárlás ártatlan áldozatairól.",
+                  "category": "landmark",
+                  "coords": [
+                        32.358856,
+                        2.875836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lukodi Memorial Massacre",
+                  "text": "Situl Lukodi Memorial Massacre onorează solemn sătenii care și-au pierdut viața în mod tragic în timpul insurgenței brutale a LRA.",
+                  "category": "landmark",
+                  "coords": [
+                        32.29884,
+                        2.91446
+                  ]
+            },
+            {
+                  "name": "Burcoro Mascure Monument",
+                  "text": "Monumentul Masacrului de la Burcoro este un indicator istoric sumbru care comemorează victimele nevinovate ale devastatorului masacru de la Burcoro.",
+                  "category": "landmark",
+                  "coords": [
+                        32.358856,
+                        2.875836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lukodi Memorial Massacre",
+                  "text": "The Lukodi Memorial Massacre site solemnly honors the villagers who tragically lost their lives during the brutal LRA insurgency.",
+                  "category": "landmark",
+                  "coords": [
+                        32.29884,
+                        2.91446
+                  ]
+            },
+            {
+                  "name": "Burcoro Mascure Monument",
+                  "text": "The Burcoro Mascure Monument stands as a somber historical marker commemorating the innocent victims of the devastating Burcoro massacre.",
+                  "category": "landmark",
+                  "coords": [
+                        32.358856,
+                        2.875836
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-N",
     coords: [32.3166, 2.9238],
@@ -291,7 +912,124 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
     {
-    id: "kabakas-palace-lubiri-history-v2",
+    id: "kabakas-palace-lubiri-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Destroyed Cars",
+                  "text": "Die Stätte der zerstörten Autos auf dem Lubiri-Gelände zeigt verrostete Fahrzeugwracks, die aus historischen militärischen Konflikten stammen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.565657,
+                        0.302189
+                  ]
+            },
+            {
+                  "name": "Prison under Idi Amin",
+                  "text": "Das Gefängnis unter Idi Amin besteht aus düsteren unterirdischen Folterkammern, die in die Mauern des Kabaka-Palastes gebaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        32.564481,
+                        0.300057
+                  ]
+            },
+            {
+                  "name": "Miracle Center Cathedral",
+                  "text": "Die Miracle Center Cathedral ist eine riesige Pfingst-Megakirche, die für ihre große Gemeinde und ihren modernen Baustil bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.560722,
+                        0.302761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Destroyed Cars",
+                  "text": "A Lubiri területén található elpusztult autók helyszíne történelmi katonai konfliktusokból visszamaradt, rozsdásodó járműroncsokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.565657,
+                        0.302189
+                  ]
+            },
+            {
+                  "name": "Prison under Idi Amin",
+                  "text": "Az Idi Amin alatti börtön zord földalatti kínzókamrákból áll, amelyeket a Kabaka palotájának falai közé építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.564481,
+                        0.300057
+                  ]
+            },
+            {
+                  "name": "Miracle Center Cathedral",
+                  "text": "A Miracle Center Cathedral egy hatalmas pünkösdi megatemplom, amely nagy gyülekezetéről és modern építészeti stílusáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        32.560722,
+                        0.302761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Destroyed Cars",
+                  "text": "Situl mașinilor distruse din complexul Lubiri expune epave ruginite de vehicule rămase din conflictele militare istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        32.565657,
+                        0.302189
+                  ]
+            },
+            {
+                  "name": "Prison under Idi Amin",
+                  "text": "Închisoarea de sub Idi Amin este formată din camere de tortură subterane sumbre, construite între zidurile Palatului Kabaka.",
+                  "category": "landmark",
+                  "coords": [
+                        32.564481,
+                        0.300057
+                  ]
+            },
+            {
+                  "name": "Miracle Center Cathedral",
+                  "text": "Miracle Center Cathedral este o megabiserică penticostală enormă, recunoscută pentru congregația sa vastă și stilul arhitectural modern.",
+                  "category": "religious",
+                  "coords": [
+                        32.560722,
+                        0.302761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Destroyed Cars",
+                  "text": "The Destroyed Cars site within the Lubiri compound displays rusted vehicle wreckage left over from historic military conflicts.",
+                  "category": "landmark",
+                  "coords": [
+                        32.565657,
+                        0.302189
+                  ]
+            },
+            {
+                  "name": "Prison under Idi Amin",
+                  "text": "The Prison under Idi Amin consists of grim underground torture chambers built within the walls of the Kabaka's Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        32.564481,
+                        0.300057
+                  ]
+            },
+            {
+                  "name": "Miracle Center Cathedral",
+                  "text": "Miracle Center Cathedral is an enormous Pentecostal megachurch recognized for its vast congregation and modern architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        32.560722,
+                        0.302761
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.5658, 0.3015],
@@ -387,7 +1125,304 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "amabere-ga-nyina-mwiru-history-v2",
+    id: "amabere-ga-nyina-mwiru-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karimbi Royal Tombs",
+                  "text": "Die historischen Begräbnisstätten der regionalen Tooro-Monarchen, umgeben von einem üppigen Naturwald.",
+                  "category": "landmark",
+                  "coords": [
+                        30.245484,
+                        0.634418
+                  ]
+            },
+            {
+                  "name": "Mukonomura town",
+                  "text": "Eine traditionelle ländliche Siedlung, die Einblicke in das tägliche Leben in der Region Amabere bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.254265,
+                        0.661469
+                  ]
+            },
+            {
+                  "name": "Mbuzi centre",
+                  "text": "Ein lokaler Gemeinschaftsknotenpunkt in dieser kulturell reichen Region Ugandas, an dem sich Einheimische versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236873,
+                        0.662934
+                  ]
+            },
+            {
+                  "name": "Kigere kya nyina mwiru",
+                  "text": "Dieser landschaftlich reizvolle Aussichtspunkt ist eng mit der lokalen Folklore um die historische Figur Nyina Mwiru verbunden.",
+                  "category": "natural",
+                  "coords": [
+                        30.234171,
+                        0.678505
+                  ]
+            },
+            {
+                  "name": "Junction to saaka kyeganywa",
+                  "text": "Eine bekannte geografische Kreuzung, die Reisende in Richtung der malerischen Saaka-Kraterseen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        30.23192,
+                        0.680397
+                  ]
+            },
+            {
+                  "name": "Horse riding",
+                  "text": "Eine Reitattraktion, die landschaftlich reizvolle Ausritte durch das historische Gebiet von Amabere anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.233821,
+                        0.683482
+                  ]
+            },
+            {
+                  "name": "Road to buruuj",
+                  "text": "Eine landschaftlich reizvolle Route durch üppige ugandische Vegetation, die zu lokalen Sehenswürdigkeiten führt.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236359,
+                        0.684274
+                  ]
+            },
+            {
+                  "name": "Top of Saaka",
+                  "text": "Ein hochgelegener Aussichtspunkt, der atemberaubende Ausblicke über den ruhigen Saaka-See und die Kraterregion bietet.",
+                  "category": "natural",
+                  "coords": [
+                        30.238556,
+                        0.683614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karimbi Royal Tombs",
+                  "text": "A regionális tooro uralkodók történelmi temetkezési helyei, buja természeti erdővel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        30.245484,
+                        0.634418
+                  ]
+            },
+            {
+                  "name": "Mukonomura town",
+                  "text": "Egy hagyományos vidéki település, amely bepillantást nyújt a mindennapi életbe az Amabere régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.254265,
+                        0.661469
+                  ]
+            },
+            {
+                  "name": "Mbuzi centre",
+                  "text": "Egy helyi közösségi csomópont Uganda ezen kulturálisan gazdag régiójában, ahol a helyiek gyülekeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236873,
+                        0.662934
+                  ]
+            },
+            {
+                  "name": "Kigere kya nyina mwiru",
+                  "text": "Ez a festői kilátó szorosan kötődik a Nyina Mwiru történelmi alakja körüli helyi folklórhoz.",
+                  "category": "natural",
+                  "coords": [
+                        30.234171,
+                        0.678505
+                  ]
+            },
+            {
+                  "name": "Junction to saaka kyeganywa",
+                  "text": "Egy ismert földrajzi kereszteződés, amely az utazókat a festői Saaka-krátertavak felé irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        30.23192,
+                        0.680397
+                  ]
+            },
+            {
+                  "name": "Horse riding",
+                  "text": "Egy lovas attrakció, amely festői lovaglásokat kínál az Amabere történelmi területén keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        30.233821,
+                        0.683482
+                  ]
+            },
+            {
+                  "name": "Road to buruuj",
+                  "text": "Egy festői útvonal a buja ugandai növényzeten keresztül, amely a helyi látnivalókhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236359,
+                        0.684274
+                  ]
+            },
+            {
+                  "name": "Top of Saaka",
+                  "text": "Egy magasan fekvő kilátó, amely lélegzetelállító kilátást nyújt a csendes Saaka-tóra és a krátrerégióra.",
+                  "category": "natural",
+                  "coords": [
+                        30.238556,
+                        0.683614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karimbi Royal Tombs",
+                  "text": "Cimitirele istorice ale monarhilor regionali Tooro, înconjurate de o pădure naturală luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        30.245484,
+                        0.634418
+                  ]
+            },
+            {
+                  "name": "Mukonomura town",
+                  "text": "O așezare rurală tradițională care oferă perspective asupra vieții de zi cu zi în regiunea Amabere.",
+                  "category": "landmark",
+                  "coords": [
+                        30.254265,
+                        0.661469
+                  ]
+            },
+            {
+                  "name": "Mbuzi centre",
+                  "text": "Un nod comunitar local în această regiune bogată cultural din Uganda, unde se adună localnicii.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236873,
+                        0.662934
+                  ]
+            },
+            {
+                  "name": "Kigere kya nyina mwiru",
+                  "text": "Acest punct de belvedere pitoresc este strâns legat de folclorul local din jurul figurii istorice Nyina Mwiru.",
+                  "category": "natural",
+                  "coords": [
+                        30.234171,
+                        0.678505
+                  ]
+            },
+            {
+                  "name": "Junction to saaka kyeganywa",
+                  "text": "O intersecție geografică cunoscută care îndrumă călătorii către pitoreștile lacuri de crater Saaka.",
+                  "category": "landmark",
+                  "coords": [
+                        30.23192,
+                        0.680397
+                  ]
+            },
+            {
+                  "name": "Horse riding",
+                  "text": "O atracție ecvestră care oferă plimbări pitorești cu caii prin zona istorică Amabere.",
+                  "category": "landmark",
+                  "coords": [
+                        30.233821,
+                        0.683482
+                  ]
+            },
+            {
+                  "name": "Road to buruuj",
+                  "text": "Un traseu pitoresc prin vegetația luxuriantă ugandeză care duce către repere locale.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236359,
+                        0.684274
+                  ]
+            },
+            {
+                  "name": "Top of Saaka",
+                  "text": "Un punct de belvedere la mare altitudine care oferă priveliști uluitoare asupra liniștitului Lac Saaka și a regiunii craterelor.",
+                  "category": "natural",
+                  "coords": [
+                        30.238556,
+                        0.683614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karimbi Royal Tombs",
+                  "text": "The historic burial grounds of the regional Tooro monarchs, surrounded by a lush natural forest.",
+                  "category": "landmark",
+                  "coords": [
+                        30.245484,
+                        0.634418
+                  ]
+            },
+            {
+                  "name": "Mukonomura town",
+                  "text": "A traditional rural settlement providing insights into daily life in the Amabere region.",
+                  "category": "landmark",
+                  "coords": [
+                        30.254265,
+                        0.661469
+                  ]
+            },
+            {
+                  "name": "Mbuzi centre",
+                  "text": "A local community hub in this culturally rich region of Uganda where locals gather.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236873,
+                        0.662934
+                  ]
+            },
+            {
+                  "name": "Kigere kya nyina mwiru",
+                  "text": "This scenic viewpoint is closely linked to local folklore surrounding the historical figure of Nyina Mwiru.",
+                  "category": "natural",
+                  "coords": [
+                        30.234171,
+                        0.678505
+                  ]
+            },
+            {
+                  "name": "Junction to saaka kyeganywa",
+                  "text": "A well-known geographic junction that directs travelers towards the scenic Saaka crater lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        30.23192,
+                        0.680397
+                  ]
+            },
+            {
+                  "name": "Horse riding",
+                  "text": "An equestrian attraction offering scenic horseback rides through the historic Amabere area.",
+                  "category": "landmark",
+                  "coords": [
+                        30.233821,
+                        0.683482
+                  ]
+            },
+            {
+                  "name": "Road to buruuj",
+                  "text": "A scenic route through lush Ugandan vegetation leading towards local landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        30.236359,
+                        0.684274
+                  ]
+            },
+            {
+                  "name": "Top of Saaka",
+                  "text": "A high-altitude viewpoint offering breathtaking vistas over the tranquil Lake Saaka and the crater region.",
+                  "category": "natural",
+                  "coords": [
+                        30.238556,
+                        0.683614
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-W",
     coords: [30.25, 0.65],
@@ -435,7 +1470,88 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "karambi-royal-tombs-history-v2",
+    id: "karambi-royal-tombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "KOOGERE COMMUNITY MUSEUM",
+                  "text": "Dieses Gemeindemuseum bewahrt das kulturelle und historische Erbe der Einheimischen rund um die Karambi-Königsgräber.",
+                  "category": "museum",
+                  "coords": [
+                        30.297102,
+                        0.65182
+                  ]
+            },
+            {
+                  "name": "Beauty Garage",
+                  "text": "Eine ungewöhnliche lokale Attraktion, die sich entlang der Straßen in der Nähe der Karambi-Königsgräber befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        30.296975,
+                        0.65921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KOOGERE COMMUNITY MUSEUM",
+                  "text": "Ez a közösségi múzeum a Karambi királyi sírok körüli helyiek kulturális és történelmi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        30.297102,
+                        0.65182
+                  ]
+            },
+            {
+                  "name": "Beauty Garage",
+                  "text": "Egy szokatlan helyi látványosság a Karambi királyi sírok közelében található utak mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        30.296975,
+                        0.65921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KOOGERE COMMUNITY MUSEUM",
+                  "text": "Acest muzeu comunitar păstrează moștenirea culturală și istorică a localnicilor din jurul mormintelor regale din Karambi.",
+                  "category": "museum",
+                  "coords": [
+                        30.297102,
+                        0.65182
+                  ]
+            },
+            {
+                  "name": "Beauty Garage",
+                  "text": "O atracție locală neobișnuită situată de-a lungul drumurilor de lângă mormintele regale din Karambi.",
+                  "category": "landmark",
+                  "coords": [
+                        30.296975,
+                        0.65921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KOOGERE COMMUNITY MUSEUM",
+                  "text": "This community museum preserves the cultural and historical heritage of the locals around the Karambi royal tombs.",
+                  "category": "museum",
+                  "coords": [
+                        30.297102,
+                        0.65182
+                  ]
+            },
+            {
+                  "name": "Beauty Garage",
+                  "text": "An unusual local attraction situated along the roads near the Karambi royal tombs.",
+                  "category": "landmark",
+                  "coords": [
+                        30.296975,
+                        0.65921
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-W",
     coords: [30.2811, 0.6358],
@@ -483,7 +1599,52 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "nakayima-tree-history-v2",
+    id: "nakayima-tree-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nakayima tree",
+                  "text": "Dieser uralte Baum mit massiven Brettwurzeln dient als traditioneller kultureller Schrein, in dem nach Ansicht der Einheimischen der Geist der Prinzessin Nakayima ruht.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3775,
+                        0.573789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nakayima tree",
+                  "text": "Ez a hatalmas támasztógyökerekkel rendelkező ősi fa hagyományos kulturális szentélyként szolgál, amelyről a helyiek úgy tartják, hogy Nakayima hercegnő szellemét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3775,
+                        0.573789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nakayima tree",
+                  "text": "Acest copac străvechi, cu rădăcini masive de contrafort, servește drept altar cultural tradițional, despre care localnicii cred că adăpostește spiritul prințesei Nakayima.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3775,
+                        0.573789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nakayima tree",
+                  "text": "This ancient tree with massive buttress roots serves as a traditional cultural shrine believed by locals to hold the spirit of the princess Nakayima.",
+                  "category": "landmark",
+                  "coords": [
+                        31.3775,
+                        0.573789
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [31.4552, 0.5594],
@@ -531,7 +1692,52 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ssezibwa-falls-cultural-history-v2",
+    id: "ssezibwa-falls-cultural-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ssezibwa Falls Viewpoint",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen ungehinderten Blick auf das kulturell bedeutsame Kaskadenwasser des Flusses Ssezibwa.",
+                  "category": "natural",
+                  "coords": [
+                        32.86189,
+                        0.356413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ssezibwa Falls Viewpoint",
+                  "text": "Ez a festői kilátó zavartalan kilátást nyújt a Ssezibwa folyó kulturális jelentőségű, lépcsőzetes vízeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        32.86189,
+                        0.356413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ssezibwa Falls Viewpoint",
+                  "text": "Acest punct de belvedere pitoresc oferă vedere neobstrucționată asupra apelor în cascadă ale râului Ssezibwa, un loc cu importanță culturală.",
+                  "category": "natural",
+                  "coords": [
+                        32.86189,
+                        0.356413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ssezibwa Falls Viewpoint",
+                  "text": "This scenic overlook provides unobstructed views of the culturally significant cascading waters of the Ssezibwa river.",
+                  "category": "natural",
+                  "coords": [
+                        32.86189,
+                        0.356413
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.8683, 0.3855],
@@ -579,7 +1785,520 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "munyonyo-martyrs-shrine-history-v2",
+    id: "munyonyo-martyrs-shrine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lutembe bay",
+                  "text": "Die Lutembe-Bucht ist ein wichtiges Feuchtgebiet am Viktoriasee, das international für seine große Population an überwinternden Weißflügelseeschwalben bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591338,
+                        0.176862
+                  ]
+            },
+            {
+                  "name": "Gray plover",
+                  "text": "In dieser Gegend von Munyonyo können Vogelbeobachter den Kiebitzregenpfeifer entdecken, einen Zugvogel, der in Feuchtgebieten auf Nahrungssuche geht.",
+                  "category": "landmark",
+                  "coords": [
+                        32.56762,
+                        0.194726
+                  ]
+            },
+            {
+                  "name": "Ziranumbu hill",
+                  "text": "Der Hügel Ziranumbu erhebt sich über die Landschaft von Munyonyo und bietet einen Panoramablick auf den nahegelegenen Viktoriasee.",
+                  "category": "natural",
+                  "coords": [
+                        32.595405,
+                        0.214834
+                  ]
+            },
+            {
+                  "name": "Scopys and Douglas home",
+                  "text": "Ein lokales Wohnhaus und ein Orientierungspunkt in der Gegend von Munyonyo.",
+                  "category": "landmark",
+                  "coords": [
+                        32.547662,
+                        0.215044
+                  ]
+            },
+            {
+                  "name": "Tessys Place",
+                  "text": "Tessys Place ist eine lokale Einrichtung in Munyonyo, die Besuchern in der Nachbarschaft der Martyrs Shrine einen Zwischenstopp bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.546235,
+                        0.213397
+                  ]
+            },
+            {
+                  "name": "Moms dresses",
+                  "text": "Eine kleine lokale Modeattraktion in Munyonyo, die sich auf Kleidung und Textilien konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549914,
+                        0.215244
+                  ]
+            },
+            {
+                  "name": "18th Birthday",
+                  "text": "Ein lokaler Veranstaltungsort oder Treffpunkt in Munyonyo, der möglicherweise nach einem feierlichen Ereignis benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.53698,
+                        0.215245
+                  ]
+            },
+            {
+                  "name": "Noice view :)",
+                  "text": "Ein inoffizieller Aussichtspunkt in Munyonyo, der bei Einheimischen für seine malerische Aussicht auf den See geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        32.569797,
+                        0.22783
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Diese Kunstgalerie in Munyonyo stellt Werke lokaler ugandischer Künstler in der Nähe des Martyrs Shrine aus.",
+                  "category": "museum",
+                  "coords": [
+                        32.564517,
+                        0.22892
+                  ]
+            },
+            {
+                  "name": "KK Resort Beach",
+                  "text": "Das KK Resort Beach bietet Sandstrände und Unterkünfte am Ufer des Viktoriasees in Ggaba.",
+                  "category": "recreational",
+                  "coords": [
+                        32.637078,
+                        0.254454
+                  ]
+            },
+            {
+                  "name": "Kisinsi hill",
+                  "text": "Der Kisinsi-Hügel ist eine markante Erhebung in Munyonyo, von der aus man das weitläufige Gelände rund um den Viktoriasee überblicken kann.",
+                  "category": "natural",
+                  "coords": [
+                        32.655187,
+                        0.222773
+                  ]
+            },
+            {
+                  "name": "One Love Beach",
+                  "text": "One Love Beach in Busabala in der Nähe von Munyonyo gehört dem ugandischen Musiker Bobi Wine und ist ein beliebtes Freizeit- und Veranstaltungszentrum am Viktoriasee.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61961,
+                        0.206311
+                  ]
+            },
+            {
+                  "name": "Supposed to be nice",
+                  "text": "Diese lokale Attraktion befindet sich in der Nähe des historischen Viertels des Munyonyo-Märtyrerschreins.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601614,
+                        0.204391
+                  ]
+            },
+            {
+                  "name": "Speke Resort Munyonyo",
+                  "text": "Dieses im August 2001 eröffnete, bekannte Hotel bietet Resort-Unterkünfte in der Nähe der Schreine von Munyonyo.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62413,
+                        0.237407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lutembe bay",
+                  "text": "A Lutembe-öböl egy fontos vizes élőhely a Viktória-tónál, amely nemzetközileg ismert az itt telelő fehérszárnyú szerkők hatalmas populációjáról.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591338,
+                        0.176862
+                  ]
+            },
+            {
+                  "name": "Gray plover",
+                  "text": "Munyonyo ezen részén a madármegfigyelők megpillanthatják az ezüstlilét, egy vándormadarat, amely a vizes élőhelyeken táplálkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        32.56762,
+                        0.194726
+                  ]
+            },
+            {
+                  "name": "Ziranumbu hill",
+                  "text": "A Ziranumbu-hegy kiemelkedik Munyonyo tájából, és panorámás kilátást nyújt a közeli Viktória-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        32.595405,
+                        0.214834
+                  ]
+            },
+            {
+                  "name": "Scopys and Douglas home",
+                  "text": "Egy helyi lakóépület és tájékozódási pont a Munyonyo környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.547662,
+                        0.215044
+                  ]
+            },
+            {
+                  "name": "Tessys Place",
+                  "text": "A Tessys Place egy helyi létesítmény Munyonyo városában, amely megállót kínál a Mártírok kegyhelyének szomszédságában lévő látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.546235,
+                        0.213397
+                  ]
+            },
+            {
+                  "name": "Moms dresses",
+                  "text": "Egy kis helyi divatlátványosság Munyonyóban, amely a ruházatra és textíliákra fókuszál.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549914,
+                        0.215244
+                  ]
+            },
+            {
+                  "name": "18th Birthday",
+                  "text": "Egy helyi rendezvényhelyszín vagy gyülekezőhely Munyonyóban, amelyet valószínűleg egy ünnepi eseményről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        32.53698,
+                        0.215245
+                  ]
+            },
+            {
+                  "name": "Noice view :)",
+                  "text": "Egy nem hivatalos kilátópont Munyonyóban, amelyet a helyiek a tóra nyíló festői kilátása miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.569797,
+                        0.22783
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Ez a Munyonyóban található művészeti galéria helyi ugandai művészek alkotásait állítja ki a Mártírok kegyhelye közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.564517,
+                        0.22892
+                  ]
+            },
+            {
+                  "name": "KK Resort Beach",
+                  "text": "A KK Resort Beach homokos partszakaszokat és szállást kínál a Viktória-tó partján Ggabában.",
+                  "category": "recreational",
+                  "coords": [
+                        32.637078,
+                        0.254454
+                  ]
+            },
+            {
+                  "name": "Kisinsi hill",
+                  "text": "A Kisinsi-hegy egy kiemelkedő magaslat Munyonyóban, ahonnan áttekinthető a Viktória-tó körüli kiterjedt terület.",
+                  "category": "natural",
+                  "coords": [
+                        32.655187,
+                        0.222773
+                  ]
+            },
+            {
+                  "name": "One Love Beach",
+                  "text": "A Munyonyo melletti Busabalában található, Bobi Wine ugandai zenész tulajdonában lévő One Love Beach egy népszerű szabadidős és rendezvényközpont a Viktória-tónál.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61961,
+                        0.206311
+                  ]
+            },
+            {
+                  "name": "Supposed to be nice",
+                  "text": "Ez a helyi látványosság a történelmi Munyonyo Mártírok Szentélyének közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601614,
+                        0.204391
+                  ]
+            },
+            {
+                  "name": "Speke Resort Munyonyo",
+                  "text": "Az 2001 augusztusában alapított kiemelkedő szálloda üdülőhelyi szállást kínál a munyonyói szentélyek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62413,
+                        0.237407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lutembe bay",
+                  "text": "Golful Lutembe este o zonă umedă importantă pe Lacul Victoria, recunoscută pe plan internațional pentru populația sa mare de chire cu aripi albe care iernează aici.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591338,
+                        0.176862
+                  ]
+            },
+            {
+                  "name": "Gray plover",
+                  "text": "În această zonă din Munyonyo, observatorii de păsări pot zări ploierul argintiu, o pasăre migratoare care se hrănește în zonele umede.",
+                  "category": "landmark",
+                  "coords": [
+                        32.56762,
+                        0.194726
+                  ]
+            },
+            {
+                  "name": "Ziranumbu hill",
+                  "text": "Dealul Ziranumbu se înalță deasupra peisajului din Munyonyo, oferind o vedere panoramică asupra Lacului Victoria din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        32.595405,
+                        0.214834
+                  ]
+            },
+            {
+                  "name": "Scopys and Douglas home",
+                  "text": "O casă rezidențială locală și un punct de reper în zona Munyonyo.",
+                  "category": "landmark",
+                  "coords": [
+                        32.547662,
+                        0.215044
+                  ]
+            },
+            {
+                  "name": "Tessys Place",
+                  "text": "Tessys Place este o locație locală din Munyonyo care oferă un punct de oprire pentru vizitatorii din apropierea Sanctuarului Martirilor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.546235,
+                        0.213397
+                  ]
+            },
+            {
+                  "name": "Moms dresses",
+                  "text": "O mică atracție de modă locală în Munyonyo, axată pe îmbrăcăminte și textile.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549914,
+                        0.215244
+                  ]
+            },
+            {
+                  "name": "18th Birthday",
+                  "text": "O locație sau punct de întâlnire local în Munyonyo, numit probabil după un eveniment festiv.",
+                  "category": "landmark",
+                  "coords": [
+                        32.53698,
+                        0.215245
+                  ]
+            },
+            {
+                  "name": "Noice view :)",
+                  "text": "Un punct de belvedere neoficial din Munyonyo, apreciat de localnici pentru priveliștea pitorească asupra lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        32.569797,
+                        0.22783
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Această galerie de artă din Munyonyo expune lucrări ale artiștilor ugandezi locali, în apropierea Sanctuarului Martirilor.",
+                  "category": "museum",
+                  "coords": [
+                        32.564517,
+                        0.22892
+                  ]
+            },
+            {
+                  "name": "KK Resort Beach",
+                  "text": "KK Resort Beach oferă porțiuni de nisip și cazare pe țărmul Lacului Victoria, în zona Ggaba.",
+                  "category": "recreational",
+                  "coords": [
+                        32.637078,
+                        0.254454
+                  ]
+            },
+            {
+                  "name": "Kisinsi hill",
+                  "text": "Dealul Kisinsi este o culme proeminentă din Munyonyo cu vedere spre terenurile întinse din jurul Lacului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        32.655187,
+                        0.222773
+                  ]
+            },
+            {
+                  "name": "One Love Beach",
+                  "text": "Deținută de muzicianul ugandez Bobi Wine, One Love Beach din Busabala, lângă Munyonyo, este un centru popular de agrement și evenimente pe Lacul Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61961,
+                        0.206311
+                  ]
+            },
+            {
+                  "name": "Supposed to be nice",
+                  "text": "Această atracție locală este situată în apropierea zonei istorice a Altarului Martirilor din Munyonyo.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601614,
+                        0.204391
+                  ]
+            },
+            {
+                  "name": "Speke Resort Munyonyo",
+                  "text": "Înființat în august 2001, acest hotel proeminent oferă cazare de tip resort lângă sanctuarele din Munyonyo.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62413,
+                        0.237407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lutembe bay",
+                  "text": "Lutembe Bay is a major wetland on Lake Victoria, internationally recognized for hosting a massive population of wintering white-winged terns.",
+                  "category": "landmark",
+                  "coords": [
+                        32.591338,
+                        0.176862
+                  ]
+            },
+            {
+                  "name": "Gray plover",
+                  "text": "In this area of Munyonyo, birdwatchers might spot the grey plover, a migratory wader known for foraging in coastal and wetland habitats.",
+                  "category": "landmark",
+                  "coords": [
+                        32.56762,
+                        0.194726
+                  ]
+            },
+            {
+                  "name": "Ziranumbu hill",
+                  "text": "Ziranumbu hill rises above the Munyonyo landscape, offering panoramic viewpoints over the nearby waters of Lake Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        32.595405,
+                        0.214834
+                  ]
+            },
+            {
+                  "name": "Scopys and Douglas home",
+                  "text": "A local residential landmark and attraction point located in the Munyonyo neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        32.547662,
+                        0.215044
+                  ]
+            },
+            {
+                  "name": "Tessys Place",
+                  "text": "Tessys Place is a local spot in Munyonyo offering a stopover for visitors in the neighborhood of the Martyrs Shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        32.546235,
+                        0.213397
+                  ]
+            },
+            {
+                  "name": "Moms dresses",
+                  "text": "A small local fashion spot in Munyonyo focusing on dresses and textiles.",
+                  "category": "landmark",
+                  "coords": [
+                        32.549914,
+                        0.215244
+                  ]
+            },
+            {
+                  "name": "18th Birthday",
+                  "text": "A local gathering place or venue in Munyonyo, likely named for a celebratory event.",
+                  "category": "landmark",
+                  "coords": [
+                        32.53698,
+                        0.215245
+                  ]
+            },
+            {
+                  "name": "Noice view :)",
+                  "text": "An unofficial viewpoint in Munyonyo appreciated by locals for its scenic lakeside vista.",
+                  "category": "landmark",
+                  "coords": [
+                        32.569797,
+                        0.22783
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "This art gallery in Munyonyo exhibits works by local Ugandan artists near the Martyrs Shrine.",
+                  "category": "museum",
+                  "coords": [
+                        32.564517,
+                        0.22892
+                  ]
+            },
+            {
+                  "name": "KK Resort Beach",
+                  "text": "The KK Resort Beach offers sandy waterfront relaxation and accommodations on the shores of Lake Victoria in Ggaba.",
+                  "category": "recreational",
+                  "coords": [
+                        32.637078,
+                        0.254454
+                  ]
+            },
+            {
+                  "name": "Kisinsi hill",
+                  "text": "Kisinsi hill is a prominent elevation in Munyonyo overlooking the expansive terrain around Lake Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        32.655187,
+                        0.222773
+                  ]
+            },
+            {
+                  "name": "One Love Beach",
+                  "text": "Owned by Ugandan musician Bobi Wine, One Love Beach in Busabala near Munyonyo is a popular leisure and events center on Lake Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61961,
+                        0.206311
+                  ]
+            },
+            {
+                  "name": "Supposed to be nice",
+                  "text": "This local attraction is located near the historic Munyonyo Martyrs Shrine area.",
+                  "category": "landmark",
+                  "coords": [
+                        32.601614,
+                        0.204391
+                  ]
+            },
+            {
+                  "name": "Speke Resort Munyonyo",
+                  "text": "Established in August 2001, this prominent hotel offers resort accommodations near the Munyonyo shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        32.62413,
+                        0.237407
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.6166, 0.2333],
@@ -627,7 +2346,52 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-lugard-history-v2",
+    id: "fort-lugard-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Busses to Nairobi",
+                  "text": "Dieser geschäftige Busbahnhof fungiert als zentraler Knotenpunkt für grenzüberschreitende Busse, die von Uganda nach Nairobi reisen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.570482,
+                        0.319299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Busses to Nairobi",
+                  "text": "Ez a nyüzsgő buszpályaudvar az Ugandából Nairobi felé tartó, határon átnyúló buszok központi csomópontjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        32.570482,
+                        0.319299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Busses to Nairobi",
+                  "text": "Această autogară aglomerată acționează ca un nod central pentru autobuzele transfrontaliere care călătoresc din Uganda spre Nairobi.",
+                  "category": "landmark",
+                  "coords": [
+                        32.570482,
+                        0.319299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Busses to Nairobi",
+                  "text": "This bustling coach station acts as a central hub for cross-border buses traveling from Uganda towards Nairobi.",
+                  "category": "landmark",
+                  "coords": [
+                        32.570482,
+                        0.319299
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.5666, 0.3166],
@@ -723,7 +2487,88 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "mparo-tombs-history-v2",
+    id: "mparo-tombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kabalega",
+                  "text": "Kabalega ist eine historische Attraktion in den Mparo Tombs, die mit dem Omukama von Bunyoro verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.382862,
+                        1.427207
+                  ]
+            },
+            {
+                  "name": "Bunyoro Palace",
+                  "text": "Der Bunyoro-Palast ist eine historische Stätte, die das Erbe des Bunyoro-Königreichs in der Nähe von Hoima bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.345177,
+                        1.433014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kabalega",
+                  "text": "Kabalega egy történelmi látványosság az Mparo-síroknál, amely Bunyoro királyához (Omukama) kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        31.382862,
+                        1.427207
+                  ]
+            },
+            {
+                  "name": "Bunyoro Palace",
+                  "text": "A Bunyoro-palota a Bunyoro Királyság örökségét őrző történelmi helyszín Hoima közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        31.345177,
+                        1.433014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kabalega",
+                  "text": "Kabalega este o atracție istorică legată de Omukama de Bunyoro la Mormintele Mparo.",
+                  "category": "landmark",
+                  "coords": [
+                        31.382862,
+                        1.427207
+                  ]
+            },
+            {
+                  "name": "Bunyoro Palace",
+                  "text": "Palatul Bunyoro este un sit istoric ce păstrează moștenirea Regatului Bunyoro lângă Hoima.",
+                  "category": "landmark",
+                  "coords": [
+                        31.345177,
+                        1.433014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kabalega",
+                  "text": "Kabalega is a historic attraction linked to the Omukama of Bunyoro at the Mparo Tombs.",
+                  "category": "landmark",
+                  "coords": [
+                        31.382862,
+                        1.427207
+                  ]
+            },
+            {
+                  "name": "Bunyoro Palace",
+                  "text": "Bunyoro Palace is a historic site preserving the legacy of the Bunyoro Kingdom near Hoima.",
+                  "category": "landmark",
+                  "coords": [
+                        31.345177,
+                        1.433014
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-W",
     coords: [31.3333, 1.4166],
@@ -771,7 +2616,88 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "rubaga-cathedral-history-v2",
+    id: "rubaga-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hill Top Academy",
+                  "text": "Auf einer Anhöhe nahe der Rubaga-Kathedrale gelegen, dient diese Stätte als Bildungsattraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        32.528133,
+                        0.242405
+                  ]
+            },
+            {
+                  "name": "Rubaga Cathedral",
+                  "text": "Diese majestätische katholische Kathedrale thront auf einem der ursprünglichen Hügel Kampalas und dient als Sitz der Erzdiözese.",
+                  "category": "religious",
+                  "coords": [
+                        32.552088,
+                        0.302503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hill Top Academy",
+                  "text": "A Rubaga-katedrális közelében, magaslati fekvésű területen található ez az oktatási látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        32.528133,
+                        0.242405
+                  ]
+            },
+            {
+                  "name": "Rubaga Cathedral",
+                  "text": "Kampala egyik eredeti dombján álló nagyszerű katolikus katedrális az érsekség székhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        32.552088,
+                        0.302503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hill Top Academy",
+                  "text": "Situat pe o poziție înaltă lângă Catedrala Rubaga, acest sit funcționează ca o atracție educațională.",
+                  "category": "landmark",
+                  "coords": [
+                        32.528133,
+                        0.242405
+                  ]
+            },
+            {
+                  "name": "Rubaga Cathedral",
+                  "text": "Așezată în vârful uneia dintre colinele originale ale orașului Kampala, această grandioasă catedrală catolică servește drept sediu al arhidiecezei.",
+                  "category": "religious",
+                  "coords": [
+                        32.552088,
+                        0.302503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hill Top Academy",
+                  "text": "Set on an elevated position near Rubaga Cathedral, this site functions as an educational attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        32.528133,
+                        0.242405
+                  ]
+            },
+            {
+                  "name": "Rubaga Cathedral",
+                  "text": "Sitting atop one of Kampala's original hills, this grand Catholic cathedral serves as the seat of the archdiocese.",
+                  "category": "religious",
+                  "coords": [
+                        32.552088,
+                        0.302503
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.553, 0.3013],
@@ -915,7 +2841,124 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "equator-monument-kayabwe-history-v2",
+    id: "equator-monument-kayabwe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uganda Equator",
+                  "text": "Ein großes kreisförmiges Denkmal an der Autobahn bei Kayabwe markiert die genaue geografische Linie, an der die nördliche und südliche Hemisphäre aufeinandertreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        32.040152,
+                        0.000138
+                  ]
+            },
+            {
+                  "name": "Buwama brick making point",
+                  "text": "Dieser Aussichtspunkt in Buwama bietet Einblicke in die traditionelle Ziegelherstellung der Region.",
+                  "category": "natural",
+                  "coords": [
+                        32.074999,
+                        0.011193
+                  ]
+            },
+            {
+                  "name": "Buwama Crocodile Farm turning",
+                  "text": "Diese Abzweigung führt zur Buwama-Krokodilfarm, einer Einrichtung in der Nähe von Kayabwe, die sich der Aufzucht dieser großen Reptilien widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.079825,
+                        0.038378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uganda Equator",
+                  "text": "Egy nagy kör alakú emlékmű áll a Kayabwe melletti országúton, jelezve azt a pontos földrajzi vonalat, ahol az északi és a déli félteke találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        32.040152,
+                        0.000138
+                  ]
+            },
+            {
+                  "name": "Buwama brick making point",
+                  "text": "Ez a buwamai kilátópont betekintést nyújt a régió hagyományos téglagyártási folyamataiba.",
+                  "category": "natural",
+                  "coords": [
+                        32.074999,
+                        0.011193
+                  ]
+            },
+            {
+                  "name": "Buwama Crocodile Farm turning",
+                  "text": "Ez a letérő a Buwama krokodilfarmhoz vezet, egy Kayabwe melletti létesítményhez, amely ezeknek a nagy hüllőknek a nevelésével foglalkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        32.079825,
+                        0.038378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uganda Equator",
+                  "text": "Un monument circular de mari dimensiuni stă pe autostrada de la Kayabwe, marcând linia geografică exactă unde se întâlnesc emisferele nordică și sudică.",
+                  "category": "landmark",
+                  "coords": [
+                        32.040152,
+                        0.000138
+                  ]
+            },
+            {
+                  "name": "Buwama brick making point",
+                  "text": "Acest punct de belvedere din Buwama oferă o perspectivă asupra procesului tradițional de fabricare a cărămizilor din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        32.074999,
+                        0.011193
+                  ]
+            },
+            {
+                  "name": "Buwama Crocodile Farm turning",
+                  "text": "Această intersecție duce la ferma de crocodili Buwama, o facilitate de lângă Kayabwe dedicată creșterii acestor mari reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        32.079825,
+                        0.038378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uganda Equator",
+                  "text": "A large circular monument stands on the highway at Kayabwe, marking the exact geographical line where the northern and southern hemispheres meet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.040152,
+                        0.000138
+                  ]
+            },
+            {
+                  "name": "Buwama brick making point",
+                  "text": "This viewpoint in Buwama offers a glimpse into the region's traditional brick-making processes.",
+                  "category": "natural",
+                  "coords": [
+                        32.074999,
+                        0.011193
+                  ]
+            },
+            {
+                  "name": "Buwama Crocodile Farm turning",
+                  "text": "This turning leads to the Buwama Crocodile Farm, a facility near Kayabwe dedicated to rearing these large reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        32.079825,
+                        0.038378
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-C",
     coords: [32.0305, -0.0055],
@@ -1011,7 +3054,88 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "speke-monument-jinja-history-v2",
+    id: "speke-monument-jinja-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "John Speke Monument",
+                  "text": "Dieser steinerne Obelisk steht am Westufer des Flusses und erinnert an die Ankunft des Entdeckers John Hanning Speke an der Nilquelle.",
+                  "category": "historical",
+                  "coords": [
+                        33.194339,
+                        0.421999
+                  ]
+            },
+            {
+                  "name": "Nile view - outside the park",
+                  "text": "Etwas außerhalb des offiziellen Denkmals gelegen, bietet dieser öffentliche Aussichtspunkt einen ungehinderten Blick auf das rauschende Wasser des Nils.",
+                  "category": "natural",
+                  "coords": [
+                        33.197421,
+                        0.423859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "John Speke Monument",
+                  "text": "Ez a folyó nyugati partján álló kőobeliszk a felfedező, John Hanning Speke érkezésének állít emléket a Nílus forrásánál.",
+                  "category": "historical",
+                  "coords": [
+                        33.194339,
+                        0.421999
+                  ]
+            },
+            {
+                  "name": "Nile view - outside the park",
+                  "text": "A hivatalos emlékmű területén kívül található nyilvános kilátópont zavartalan kilátást nyújt a Nílus rohanó vizére.",
+                  "category": "natural",
+                  "coords": [
+                        33.197421,
+                        0.423859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "John Speke Monument",
+                  "text": "Acest obelisc de piatră se află pe malul vestic al râului, comemorând sosirea exploratorului John Hanning Speke la izvoarele Nilului.",
+                  "category": "historical",
+                  "coords": [
+                        33.194339,
+                        0.421999
+                  ]
+            },
+            {
+                  "name": "Nile view - outside the park",
+                  "text": "Situat chiar în afara terenului oficial al monumentului, acest punct de observație public oferă o vedere neobstrucționată asupra apelor învolburate ale Nilului.",
+                  "category": "natural",
+                  "coords": [
+                        33.197421,
+                        0.423859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "John Speke Monument",
+                  "text": "This stone obelisk stands on the western bank of the river, commemorating the explorer John Hanning Speke's arrival at the Source of the Nile.",
+                  "category": "historical",
+                  "coords": [
+                        33.194339,
+                        0.421999
+                  ]
+            },
+            {
+                  "name": "Nile view - outside the park",
+                  "text": "Situated just outside the official monument grounds, this public vantage point offers an unobstructed view of the Nile's rushing waters.",
+                  "category": "natural",
+                  "coords": [
+                        33.197421,
+                        0.423859
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-E",
     coords: [33.1936, 0.4283],
@@ -1347,7 +3471,88 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     },
   },
   {
-    id: "nkokonjeru-tombs-history-v2",
+    id: "nkokonjeru-tombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ankole Kingdom Palace",
+                  "text": "Der historische schlossähnliche Komplex, der als traditioneller Sitz des Königshauses von Ankole diente.",
+                  "category": "castle",
+                  "coords": [
+                        30.641183,
+                        -0.610655
+                  ]
+            },
+            {
+                  "name": "EAST AFRICAN REVIVAL MUSEUM",
+                  "text": "Eine Einrichtung, die sich der Bewahrung der Geschichte der christlichen Erweckungsbewegung in Ostafrika widmet.",
+                  "category": "museum",
+                  "coords": [
+                        30.631722,
+                        -0.612416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ankole Kingdom Palace",
+                  "text": "A történelmi kastényszerű komplexum, amely az Ankole királyi család hagyományos székhelyeként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        30.641183,
+                        -0.610655
+                  ]
+            },
+            {
+                  "name": "EAST AFRICAN REVIVAL MUSEUM",
+                  "text": "Egy intézmény, amely a kelet-afrikai keresztény ébredési mozgalom történetének megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        30.631722,
+                        -0.612416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ankole Kingdom Palace",
+                  "text": "Complexul istoric asemănător unui castel care servește drept sediu tradițional al regalității Ankole.",
+                  "category": "castle",
+                  "coords": [
+                        30.641183,
+                        -0.610655
+                  ]
+            },
+            {
+                  "name": "EAST AFRICAN REVIVAL MUSEUM",
+                  "text": "O instituție dedicată păstrării istoriei mișcării de trezire creștină din Africa de Est.",
+                  "category": "museum",
+                  "coords": [
+                        30.631722,
+                        -0.612416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ankole Kingdom Palace",
+                  "text": "The historic castle-like complex serving as the traditional seat of the Ankole royalty.",
+                  "category": "castle",
+                  "coords": [
+                        30.641183,
+                        -0.610655
+                  ]
+            },
+            {
+                  "name": "EAST AFRICAN REVIVAL MUSEUM",
+                  "text": "An institution dedicated to preserving the history of the Christian revival movement in East Africa.",
+                  "category": "museum",
+                  "coords": [
+                        30.631722,
+                        -0.612416
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "UG-W",
     coords: [30.6333, -0.6166],

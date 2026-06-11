@@ -99,7 +99,160 @@ export const poiExtraSenegalReliefV2: POI[] = [
     },
   },
   {
-    id: "niayes-relief-v2",
+    id: "niayes-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Diogal Ngom",
+                  "text": "Dieses skulpturale Denkmal steht als Wahrzeichen und spiegelt das ausgeprägte kulturelle Erbe der lokalen Gemeinschaft wider.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.185476,
+                        14.800845
+                  ]
+            },
+            {
+                  "name": "Village des Tortures",
+                  "text": "In diesem engagierten Naturschutzpark können Besucher die gefährdete afrikanische Spornschildkröte in einem geschützten Lebensraum beobachten und mehr über sie erfahren.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.210366,
+                        14.786479
+                  ]
+            },
+            {
+                  "name": "Centre de protection des tortues du Sénégal",
+                  "text": "Diese wichtige Wildtierrettungseinrichtung züchtet und pflegt Senegals gefährdete Landschildkrötenpopulationen, bevor sie wieder in die Wildnis ausgewildert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.211825,
+                        14.786998
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale botanique de Noflaye",
+                  "text": "Dieses botanische Reservat schützt die einzigartige Vegetation des Niayes-Ökosystems und weist feuchtigkeitsspeichernde Senken auf, in denen eine seltene Küstenflora gedeiht.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213253,
+                        14.788058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Diogal Ngom",
+                  "text": "Ez a szobrászati emlékmű a helyi közösség különleges kulturális örökségét tükröző tiszteletadás.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.185476,
+                        14.800845
+                  ]
+            },
+            {
+                  "name": "Village des Tortures",
+                  "text": "Ez az elkötelezett természetvédelmi park lehetővé teszi a látogatók számára, hogy védett élőhelyen figyeljék meg és ismerjék meg a veszélyeztetett afrikai sarkantyús teknőst.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.210366,
+                        14.786479
+                  ]
+            },
+            {
+                  "name": "Centre de protection des tortues du Sénégal",
+                  "text": "Ez a létfontosságú vadvédelmi létesítmény Szenegál sebezhető szárazfölditeknős-populációit tenyészti és gondozza, mielőtt visszatelepítené őket a vadonba.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.211825,
+                        14.786998
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale botanique de Noflaye",
+                  "text": "Ez a botanikai rezervátum a Niayes ökoszisztéma egyedülálló növényzetét védi, amelynek nedvességmegtartó mélyedései ritka tengerparti flórának adnak otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213253,
+                        14.788058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Diogal Ngom",
+                  "text": "Acest monument sculptural reprezintă un omagiu distinctiv, reflectând moștenirea culturală a comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.185476,
+                        14.800845
+                  ]
+            },
+            {
+                  "name": "Village des Tortures",
+                  "text": "Acest parc dedicat conservării permite vizitatorilor să observe și să afle despre broasca țestoasă cu pinteni africani, aflată pe cale de dispariție, într-un habitat protejat.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.210366,
+                        14.786479
+                  ]
+            },
+            {
+                  "name": "Centre de protection des tortues du Sénégal",
+                  "text": "Această unitate esențială de salvare a vieții sălbatice reproduce și îngrijește populațiile vulnerabile de broaște țestoase de uscat din Senegal înainte de a le reintroduce în sălbăticie.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.211825,
+                        14.786998
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale botanique de Noflaye",
+                  "text": "Această rezervație botanică protejează vegetația unică a ecosistemului Niayes, prezentând depresiuni care rețin umezeala și susțin o floră de coastă rară.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213253,
+                        14.788058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Diogal Ngom",
+                  "text": "This sculptural monument stands as a landmark tribute, reflecting the distinct cultural heritage of the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.185476,
+                        14.800845
+                  ]
+            },
+            {
+                  "name": "Village des Tortures",
+                  "text": "This dedicated conservation park allows visitors to observe and learn about the endangered African spurred tortoise in a protected habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.210366,
+                        14.786479
+                  ]
+            },
+            {
+                  "name": "Centre de protection des tortues du Sénégal",
+                  "text": "This essential wildlife rescue facility breeds and cares for Senegal's vulnerable land tortoise populations before reintroducing them to the wild.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.211825,
+                        14.786998
+                  ]
+            },
+            {
+                  "name": "Réserve spéciale botanique de Noflaye",
+                  "text": "This botanical reserve protects the unique vegetation of the Niayes ecosystem, featuring moisture-retaining depressions that support rare coastal flora.",
+                  "category": "natural",
+                  "coords": [
+                        -17.213253,
+                        14.788058
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SN-DK",
     coords: [-17.2, 14.8],
@@ -147,7 +300,52 @@ export const poiExtraSenegalReliefV2: POI[] = [
     },
   },
   {
-    id: "casamance-tal-v2",
+    id: "casamance-tal-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ferme agroécologique Karamba",
+                  "text": "Die agroökologische Farm Karamba ist eine landwirtschaftliche Attraktion im Casamance-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.157135,
+                        12.542825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ferme agroécologique Karamba",
+                  "text": "A Karamba agroökológiai gazdaság egy mezőgazdasági látványosság a Casamance-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.157135,
+                        12.542825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ferme agroécologique Karamba",
+                  "text": "Ferma agroecologică Karamba este o atracție agricolă cuibărită în valea Casamance.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.157135,
+                        12.542825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agroecological farm Karamba",
+                  "text": "Agroecological farm Karamba is an agricultural attraction nestled in the Casamance valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.157135,
+                        12.542825
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "SN-ZK",
     coords: [-16.2, 12.6],
@@ -1107,7 +1305,52 @@ export const poiExtraSenegalReliefV2: POI[] = [
     },
   },
   {
-    id: "casamance-huegel-v2",
+    id: "casamance-huegel-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tour d'observation des Lamantins",
+                  "text": "Ein erhöhter Aussichtspunkt, der speziell zur Beobachtung von Seekühen in den umliegenden Gewässern errichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -16.558467,
+                        12.632806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tour d'observation des Lamantins",
+                  "text": "Kiemelkedő kilátópont, amelyet kifejezetten a környező vizekben élő lamantinok megfigyelésére építettek.",
+                  "category": "natural",
+                  "coords": [
+                        -16.558467,
+                        12.632806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tour d'observation des Lamantins",
+                  "text": "Un punct de observație ridicat construit special pentru vizionarea lamantinilor în apele din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -16.558467,
+                        12.632806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tour d'observation des Lamantins",
+                  "text": "An elevated observation point specifically constructed for watching manatees in the surrounding waters.",
+                  "category": "natural",
+                  "coords": [
+                        -16.558467,
+                        12.632806
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SN-ZK",
     coords: [-16.5, 12.7],

@@ -435,7 +435,124 @@ export const poiExtraMaliReliefV2: POI[] = [
     },
   },
   {
-    id: "koulouba-szikla-relief-v2",
+    id: "koulouba-szikla-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kati 5",
+                  "text": "Dieser malerische Aussichtspunkt auf dem Relief von Koulouba bietet einen weiten Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            },
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "Dieses Jubiläumsdenkmal erinnert an 50 Jahre Unabhängigkeit und steht markant in der Nähe der Koulouba-Felsformationen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "Dieses Denkmal feiert die Städtepartnerschaft zwischen Puteaux und Kati und symbolisiert die internationale Freundschaft nahe der Koulouba-Felsen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kati 5",
+                  "text": "Ez a Koulouba-domborzaton található festői kilátó csodálatos panorámát nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            },
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "Az 50 éves függetlenséget ünneplő jubileumi emlékmű a Koulouba sziklaalakzatok közelében áll.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "A Puteaux és Kati közötti testvérvárosi kapcsolatot ünneplő emlékmű a nemzetközi barátságot szimbolizálja a Koulouba-sziklák közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kati 5",
+                  "text": "Acest punct de belvedere pitoresc, situat pe relieful Koulouba, oferă vederi ample asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            },
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "Acest monument jubiliar marchează 50 de ani de independență, fiind situat proeminent în apropierea formațiunilor stâncoase Koulouba.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "Acest monument celebrează înfrățirea dintre Puteaux și Kati, simbolizând prietenia internațională lângă stâncile Koulouba.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kati 5",
+                  "text": "This scenic viewpoint situated on the Koulouba relief provides expansive views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            },
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "This golden jubilee monument commemorates 50 years of independence, standing prominently near the Koulouba rock formations.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "This monument celebrates the twin town relationship between Puteaux and Kati, symbolising international friendship near the Koulouba rocks.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748704
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "ML-BKO",
     coords: [-8.0, 12.7],

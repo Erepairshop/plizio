@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraIvorycoastHistoryV2: POI[] = [
   {
-    id: "grand-bassam-historic-town-history-v2",
+    id: "grand-bassam-historic-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cour Royale de Moosou",
+                  "text": "Der traditionelle königliche Hofkomplex, der als historischer und kultureller Sitz des Moosou-Königreichs dient.",
+                  "category": "castle",
+                  "coords": [
+                        -3.723524,
+                        5.220369
+                  ]
+            },
+            {
+                  "name": "Monument Marcel Treiche laplene",
+                  "text": "Ein Gedenkmonument zu Ehren der frühen Erkundungen der Kolonialfigur Marcel Treich-Laplène.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735964,
+                        5.197434
+                  ]
+            },
+            {
+                  "name": "Mairie de Grand-Bassam",
+                  "text": "Das historische städtische Verwaltungsgebäude, das die Angelegenheiten der ehemaligen Kolonialhauptstadt verwaltet.",
+                  "category": "historical",
+                  "coords": [
+                        -3.737233,
+                        5.196989
+                  ]
+            },
+            {
+                  "name": "La Maison Ganamet",
+                  "text": "Ein historisches Kaufmannshaus aus der Kolonialzeit, das das markante architektonische Erbe von Grand-Bassam zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.728159,
+                        5.195483
+                  ]
+            },
+            {
+                  "name": "Embouchure du fleuve Comoë",
+                  "text": "Ein malerischer natürlicher Aussichtspunkt, an dem die fließenden Gewässer des Flusses Comoë auf den Ozean treffen.",
+                  "category": "natural",
+                  "coords": [
+                        -3.722776,
+                        5.189726
+                  ]
+            },
+            {
+                  "name": "Maison des Artistes Plasticiens",
+                  "text": "Ein engagiertes Kreativzentrum zur Unterstützung und Ausstellung der Werke lokaler bildender Künstler und Bildhauer.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.73624,
+                        5.195317
+                  ]
+            },
+            {
+                  "name": "Centre artisanal",
+                  "text": "Ein belebtes Handwerkszentrum, in dem lokale Kunsthandwerker traditionelle handgefertigte Kulturgüter herstellen und verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.734435,
+                        5.19653
+                  ]
+            },
+            {
+                  "name": "Centre de la Culture Jean Baptiste Mockey de Grand-Bassam",
+                  "text": "Eine bedeutende kulturelle Einrichtung, die Aufführungen, Kunstveranstaltungen und Gemeinschaftsaktivitäten in Grand-Bassam beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732036,
+                        5.196179
+                  ]
+            },
+            {
+                  "name": "Maison de l'Art",
+                  "text": "Ein denkmalgeschütztes Museum, das sich der Erhaltung und Ausstellung einer feinen Sammlung lokaler Kunstwerke widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -3.734345,
+                        5.195276
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cour Royale de Moosou",
+                  "text": "A hagyományos királyi udvarkomplexum, amely a Moosou királyság történelmi és kulturális székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -3.723524,
+                        5.220369
+                  ]
+            },
+            {
+                  "name": "Monument Marcel Treiche laplene",
+                  "text": "A gyarmati figura, Marcel Treich-Laplène korai felfedezéseit megörökítő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735964,
+                        5.197434
+                  ]
+            },
+            {
+                  "name": "Mairie de Grand-Bassam",
+                  "text": "A történelmi önkormányzati közigazgatási épület, amely az egykori gyarmati főváros ügyeit intézi.",
+                  "category": "historical",
+                  "coords": [
+                        -3.737233,
+                        5.196989
+                  ]
+            },
+            {
+                  "name": "La Maison Ganamet",
+                  "text": "Történelmi, gyarmati korszakból származó kereskedőház, amely Grand-Bassam jellegzetes építészeti örökségét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.728159,
+                        5.195483
+                  ]
+            },
+            {
+                  "name": "Embouchure du fleuve Comoë",
+                  "text": "Festői természeti kilátó, ahol a Comoë folyó vize találkozik az óceánnal.",
+                  "category": "natural",
+                  "coords": [
+                        -3.722776,
+                        5.189726
+                  ]
+            },
+            {
+                  "name": "Maison des Artistes Plasticiens",
+                  "text": "Dedikált kreatív központ, amely a helyi képzőművészek és szobrászok alkotásait támogatja és állítja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.73624,
+                        5.195317
+                  ]
+            },
+            {
+                  "name": "Centre artisanal",
+                  "text": "Nyüzsgő kézműves központ, ahol a helyi kézművesek hagyományos, kézzel készített kulturális termékeket készítenek és árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.734435,
+                        5.19653
+                  ]
+            },
+            {
+                  "name": "Centre de la Culture Jean Baptiste Mockey de Grand-Bassam",
+                  "text": "Kiemelkedő kulturális létesítmény, amely előadásoknak, művészeti eseményeknek és közösségi tevékenységeknek ad otthont Grand-Bassamban.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732036,
+                        5.196179
+                  ]
+            },
+            {
+                  "name": "Maison de l'Art",
+                  "text": "Műemlékvédelem alatt álló múzeum, amely a helyi művészeti alkotások finom gyűjteményének megőrzésének és bemutatásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -3.734345,
+                        5.195276
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cour Royale de Moosou",
+                  "text": "Complexul curții regale tradiționale care servește drept scaun istoric și cultural al regatului Moosou.",
+                  "category": "castle",
+                  "coords": [
+                        -3.723524,
+                        5.220369
+                  ]
+            },
+            {
+                  "name": "Monument Marcel Treiche laplene",
+                  "text": "Un monument comemorativ care onorează explorările timpurii ale figurii coloniale Marcel Treich-Laplène.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735964,
+                        5.197434
+                  ]
+            },
+            {
+                  "name": "Mairie de Grand-Bassam",
+                  "text": "Clădirea administrativă municipală istorică care gestionează afacerile fostei capitale coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.737233,
+                        5.196989
+                  ]
+            },
+            {
+                  "name": "La Maison Ganamet",
+                  "text": "O casă istorică de negustori din epoca colonială care prezintă moștenirea arhitecturală distinctivă a orașului Grand-Bassam.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.728159,
+                        5.195483
+                  ]
+            },
+            {
+                  "name": "Embouchure du fleuve Comoë",
+                  "text": "Un punct de belvedere natural pitoresc unde apele curgătoare ale râului Comoë se întâlnesc cu oceanul.",
+                  "category": "natural",
+                  "coords": [
+                        -3.722776,
+                        5.189726
+                  ]
+            },
+            {
+                  "name": "Maison des Artistes Plasticiens",
+                  "text": "Un centru creativ dedicat susținerii și expunerii lucrărilor artiștilor vizuali și sculptorilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.73624,
+                        5.195317
+                  ]
+            },
+            {
+                  "name": "Centre artisanal",
+                  "text": "Un centru artizanal plin de viață unde meșteșugarii locali creează și vând bunuri culturale tradiționale realizate manual.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.734435,
+                        5.19653
+                  ]
+            },
+            {
+                  "name": "Centre de la Culture Jean Baptiste Mockey de Grand-Bassam",
+                  "text": "O facilitate culturală proeminentă care găzduiește spectacole, evenimente de artă și activități comunitare în Grand-Bassam.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732036,
+                        5.196179
+                  ]
+            },
+            {
+                  "name": "Maison de l'Art",
+                  "text": "Un muzeu de patrimoniu dedicat conservării și expunerii unei colecții fine de lucrări artistice locale.",
+                  "category": "museum",
+                  "coords": [
+                        -3.734345,
+                        5.195276
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cour Royale de Moosou",
+                  "text": "The traditional royal court complex serving as the historical and cultural seat of the Moosou kingdom.",
+                  "category": "castle",
+                  "coords": [
+                        -3.723524,
+                        5.220369
+                  ]
+            },
+            {
+                  "name": "Monument Marcel Treiche laplene",
+                  "text": "A commemorative monument honoring the early explorations of the colonial figure Marcel Treich-Laplène.",
+                  "category": "historical",
+                  "coords": [
+                        -3.735964,
+                        5.197434
+                  ]
+            },
+            {
+                  "name": "Mairie de Grand-Bassam",
+                  "text": "The historic municipal administrative building managing the affairs of the former colonial capital.",
+                  "category": "historical",
+                  "coords": [
+                        -3.737233,
+                        5.196989
+                  ]
+            },
+            {
+                  "name": "Ganamet House",
+                  "text": "A historic colonial-era merchant house showcasing the distinctive architectural heritage of Grand-Bassam.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.728159,
+                        5.195483
+                  ]
+            },
+            {
+                  "name": "Embouchure du fleuve Comoë",
+                  "text": "A scenic natural viewpoint where the flowing waters of the Comoë River meet the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -3.722776,
+                        5.189726
+                  ]
+            },
+            {
+                  "name": "Maison des Artistes Plasticiens",
+                  "text": "A dedicated creative center supporting and exhibiting the works of local visual artists and sculptors.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.73624,
+                        5.195317
+                  ]
+            },
+            {
+                  "name": "Centre artisanal",
+                  "text": "A bustling crafts center where local artisans create and sell traditional handmade cultural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.734435,
+                        5.19653
+                  ]
+            },
+            {
+                  "name": "Centre de la Culture Jean Baptiste Mockey de Grand-Bassam",
+                  "text": "A prominent cultural facility hosting performances, art events, and community activities in Grand-Bassam.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732036,
+                        5.196179
+                  ]
+            },
+            {
+                  "name": "Maison de l'Art",
+                  "text": "A heritage-listed museum dedicated to preserving and exhibiting a fine collection of local artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        -3.734345,
+                        5.195276
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-16",
     coords: [-3.7333, 5.2],
@@ -39,7 +372,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
     image: "/poi-images/grand-bassam-historic-town-history-v2.webp"},
   {
-    id: "basilica-of-our-lady-of-peace-history-v2",
+    id: "basilica-of-our-lady-of-peace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basilique Notre-Dame de la Paix de Yamoussoukro",
+                  "text": "Diese riesige Basilika wurde von dem Architekten Pierre Fakhoury entworfen und 1990 eingeweiht; sie ist offiziell als die größte christliche Kirche der Welt anerkannt.",
+                  "category": "religious",
+                  "coords": [
+                        -5.296968,
+                        6.81123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basilique Notre-Dame de la Paix de Yamoussoukro",
+                  "text": "A Pierre Fakhoury építész által tervezett és 1990-ben felszentelt hatalmas bazilika hivatalosan is a világ legnagyobb keresztény templomaként van nyilvántartva.",
+                  "category": "religious",
+                  "coords": [
+                        -5.296968,
+                        6.81123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basilique Notre-Dame de la Paix de Yamoussoukro",
+                  "text": "Proiectată de arhitectul Pierre Fakhoury și sfințită în 1990, această bazilică imensă este recunoscută oficial drept cea mai mare biserică creștină din lume.",
+                  "category": "religious",
+                  "coords": [
+                        -5.296968,
+                        6.81123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basilica of Our Lady of Peace of Yamoussoukro",
+                  "text": "Designed by architect Pierre Fakhoury and consecrated in 1990, this massive basilica is officially recognized as the largest Christian church in the world.",
+                  "category": "religious",
+                  "coords": [
+                        -5.296968,
+                        6.81123
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-07",
     coords: [-5.2963, 6.8105],
@@ -110,7 +488,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "assinie-mafia-settlement-history-v2",
+    id: "assinie-mafia-settlement-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National des îles Ehotilé",
+                  "text": "Dieser Nationalpark besteht aus mehreren Flussmündungsinseln und schützt wichtige Meeres- und Mangrovenlebensräume in der Nähe von Assinie Mafia.",
+                  "category": "natural",
+                  "coords": [
+                        -3.295196,
+                        5.168845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National des îles Ehotilé",
+                  "text": "A több tölcsértorkolati szigetből álló nemzeti park létfontosságú tengeri és mangrove élőhelyeket őriz Assinie Mafia közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -3.295196,
+                        5.168845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National des îles Ehotilé",
+                  "text": "Cuprinzând mai multe insule de estuar, acest parc național protejează habitate vitale marine și de mangrove lângă Assinie Mafia.",
+                  "category": "natural",
+                  "coords": [
+                        -3.295196,
+                        5.168845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Îles Ehotilés National Park",
+                  "text": "Comprising several estuarine islands, this national park safeguards vital marine and mangrove habitats near Assinie Mafia.",
+                  "category": "natural",
+                  "coords": [
+                        -3.295196,
+                        5.168845
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-16",
     coords: [-3.2833, 5.1167],
@@ -146,7 +569,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "bingerville-former-capital-history-v2",
+    id: "bingerville-former-capital-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "Dieses üppige Naturschutzgebiet bei Bingerville schützt ein reiches Refugium lokaler Flora und küstennaher Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        -3.915078,
+                        5.352915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "Ez a Bingerville melletti buja természetvédelmi terület a helyi növényvilág és a parti biológiai sokféleség gazdag szentélyét védi.",
+                  "category": "natural",
+                  "coords": [
+                        -3.915078,
+                        5.352915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "Această rezervație naturală luxuriantă din apropiere de Bingerville protejează un sanctuar bogat al florei locale și biodiversității de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.915078,
+                        5.352915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "This lush nature reserve near Bingerville protects a rich sanctuary of local flora and coastal biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -3.915078,
+                        5.352915
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-01",
     coords: [-3.8833, 5.35],
@@ -182,7 +650,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "tiebissou-resistance-history-v2",
+    id: "tiebissou-resistance-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tchewi Group",
+                  "text": "Diese Kunstzentrum-Einrichtung wird vom Tchewi-Kulturkollektiv betrieben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.225085,
+                        7.153642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tchewi Group",
+                  "text": "Ezt a művészeti központi létesítményt a Tchewi kulturális kollektíva üzemelteti.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.225085,
+                        7.153642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tchewi Group",
+                  "text": "Această facilitate a centrului de arte este administrată de colectivul cultural Tchewi.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.225085,
+                        7.153642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tchewi Group",
+                  "text": "This arts centre facility is operated by the Tchewi cultural collective.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.225085,
+                        7.153642
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-07",
     coords: [-5.2, 7.15],
@@ -218,7 +731,88 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "bondoukou-mosques-history-v2",
+    id: "bondoukou-mosques-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hôtel de ville de Bondoukou",
+                  "text": "Das Hôtel de ville de Bondoukou ist das städtische Rathaus, das diese historische ostivorische Stadt verwaltet.",
+                  "category": "historical",
+                  "coords": [
+                        -2.797234,
+                        8.043456
+                  ]
+            },
+            {
+                  "name": "Musée de Bondoukou",
+                  "text": "Das Musée de Bondoukou ist ein Kulturmuseum, das Artefakte aus der historischen „Stadt der tausend Moscheen“ ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.797704,
+                        8.041413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hôtel de ville de Bondoukou",
+                  "text": "A Bondoukoui Városháza az a középület, amely ezt a történelmi kelet-elefántcsontparti várost igazgatja.",
+                  "category": "historical",
+                  "coords": [
+                        -2.797234,
+                        8.043456
+                  ]
+            },
+            {
+                  "name": "Musée de Bondoukou",
+                  "text": "A Bondoukoui Múzeum egy kulturális múzeum, amely a történelmi \"Ezer Mecset Városának\" műtárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -2.797704,
+                        8.041413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hôtel de ville de Bondoukou",
+                  "text": "Primăria din Bondoukou este clădirea municipală care administrează acest oraș istoric din estul Coastei de Fildeș.",
+                  "category": "historical",
+                  "coords": [
+                        -2.797234,
+                        8.043456
+                  ]
+            },
+            {
+                  "name": "Musée de Bondoukou",
+                  "text": "Muzeul din Bondoukou este un muzeu cultural care expune artefacte din istoricul „Oraș al celor o mie de moschei”.",
+                  "category": "museum",
+                  "coords": [
+                        -2.797704,
+                        8.041413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hôtel de ville de Bondoukou",
+                  "text": "Hôtel de ville de Bondoukou is the municipal town hall building administering this historic eastern Ivorian city.",
+                  "category": "historical",
+                  "coords": [
+                        -2.797234,
+                        8.043456
+                  ]
+            },
+            {
+                  "name": "Musée de Bondoukou",
+                  "text": "Musée de Bondoukou is a cultural museum exhibiting artifacts from the historic \"City of a Thousand Mosques.\"",
+                  "category": "museum",
+                  "coords": [
+                        -2.797704,
+                        8.041413
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-08",
     coords: [-2.8, 8.0333],
@@ -254,7 +848,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "bouna-kingdom-history-v2",
+    id: "bouna-kingdom-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolée Colonial de Bromakoté",
+                  "text": "Ein Mausoleum aus der Kolonialzeit, das die Geschichte und das Erbe des Bouna-Königreichs widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -3.030907,
+                        9.320981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolée Colonial de Bromakoté",
+                  "text": "Egy gyarmati kori mauzóleum emlékmű, amely a Bouna Királyság történetét és örökségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -3.030907,
+                        9.320981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolée Colonial de Bromakoté",
+                  "text": "Un monument mausoleu din epoca colonială care reflectă istoria și moștenirea Regatului Bouna.",
+                  "category": "historical",
+                  "coords": [
+                        -3.030907,
+                        9.320981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausolée Colonial de Bromakoté",
+                  "text": "A colonial-era mausoleum monument reflecting the history and heritage of the Bouna Kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        -3.030907,
+                        9.320981
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-08",
     coords: [-3.0, 9.2667],
@@ -290,7 +929,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "odienne-vakaba-toure-history-v2",
+    id: "odienne-vakaba-toure-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "Die Cathédrale Saint-Augustin dient als bedeutendes katholisches Gotteshaus für die religiöse Gemeinde von Odienné.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "A Cathédrale Saint-Augustin fontos katolikus istentiszteleti helyként szolgál Odienné vallási közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "Cathédrale Saint-Augustin servește ca un lăcaș de cult catolic important pentru comunitatea religioasă din Odienné.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "The Cathédrale Saint-Augustin serves as a significant Catholic place of worship for the religious community of Odienné.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-10",
     coords: [-7.5667, 9.5],
@@ -362,7 +1046,124 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "korhogo-gbon-palace-history-v2",
+    id: "korhogo-gbon-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "tisserands traditionnels",
+                  "text": "Besucher können traditionelle Weber bei ihrem komplizierten Handwerk nahe dem Gbon-Palast in Korhogo beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.668241,
+                        9.424692
+                  ]
+            },
+            {
+                  "name": "Mont Korhogo",
+                  "text": "Dieser markante Berggipfel dominiert die Landschaft rund um den historischen Gbon-Palast in Korhogo.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "Dieses Kunstzentrum bewahrt und stellt lokales Senufo-Handwerk nahe dem Gbon-Palast aus.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tisserands traditionnels",
+                  "text": "A látogatók megfigyelhetik a hagyományos takácsokat, amint bonyolult mesterségüket űzik a korhogói Gbon Palota közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.668241,
+                        9.424692
+                  ]
+            },
+            {
+                  "name": "Mont Korhogo",
+                  "text": "Ez a kiemelkedő hegycsúcs uralja a történelmi Gbon Palota körüli tájat Korhogóban.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "Ez a művészeti központ a helyi szenufó kézművességet őrzi és állítja ki a Gbon Palota közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tisserands traditionnels",
+                  "text": "Vizitatorii pot observa țesătorii tradiționali practicându-și meșteșugul complicat în apropierea Palatului Gbon din Korhogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.668241,
+                        9.424692
+                  ]
+            },
+            {
+                  "name": "Mont Korhogo",
+                  "text": "Acest vârf muntos proeminent domină peisajul din jurul istoricului Palat Gbon din Korhogo.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "Acest centru de arte conservă și expune meșteșugurile locale Senufo în apropierea Palatului Gbon.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tisserands traditionnels",
+                  "text": "Visitors can observe traditional weavers practicing their intricate craft near the Gbon Palace in Korhogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.668241,
+                        9.424692
+                  ]
+            },
+            {
+                  "name": "Mont Korhogo",
+                  "text": "This prominent mountain peak dominates the landscape around the historic Gbon Palace in Korhogo.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "This arts center preserves and exhibits local Senufo craftsmanship near the Gbon Palace.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-14",
     coords: [-5.6333, 9.45],
@@ -398,7 +1199,88 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "dabou-fort-faidherbe-history-v2",
+    id: "dabou-fort-faidherbe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Ein historisches Fort aus der Kolonialzeit, das gebaut wurde, um Handelsrouten zu sichern und militärische Präsenz in der Region zu zeigen.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "Ein kulturelles Zentrum, das lokale Künste, künstlerische Darbietungen und Gemeinschaftsveranstaltungen in Dabou fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Történelmi, gyarmati korszakból származó erőd, amelyet a kereskedelmi útvonalak biztosítására építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "Kulturális központ, amely a helyi művészeteket, előadásokat és közösségi eseményeket támogatja Dabouban.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Un fort istoric din epoca colonială construit pentru a securiza rutele comerciale din regiune.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "Un hub cultural care facilitează artele locale, spectacolele artistice și evenimentele comunitare în Dabou.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "A historic colonial-era fort built to secure trade routes and assert military presence in the region.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "A cultural hub facilitating local arts, artistic performances, and community events in Dabou.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-16",
     coords: [-4.3833, 5.3167],
@@ -434,7 +1316,88 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "sassandra-governors-palace-history-v2",
+    id: "sassandra-governors-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison du gouverneur",
+                  "text": "Diese historische Attraktion ist eine ehemalige Gouverneursresidenz aus der Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.077164,
+                        4.95844
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Dieses feierliche steinerne Denkmal dient als Gedenkstätte für die Gefallenen.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082042,
+                        4.954519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison du gouverneur",
+                  "text": "Ez a történelmi látványosság egy egykori gyarmati korszakbeli kormányzói rezidencia.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.077164,
+                        4.95844
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Ez az ünnepélyes kőemlékmű az elesetteknek szentelt emlékhelyként áll.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082042,
+                        4.954519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison du gouverneur",
+                  "text": "Această atracție istorică este o fostă reședință a guvernatorului din perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.077164,
+                        4.95844
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Acest monument solemn de piatră se înalță ca un memorial dedicat celor căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082042,
+                        4.954519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison du gouverneur",
+                  "text": "This historical attraction is a former colonial-era governor's residence.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.077164,
+                        4.95844
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "This solemn stone monument stands as a memorial dedicated to the fallen.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082042,
+                        4.954519
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-03",
     coords: [-6.0833, 4.95],
@@ -650,7 +1613,124 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "bouake-military-post-history-v2",
+    id: "bouake-military-post-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "Dieses historische Denkmal ist der Ehrung des Erbes der Region Gbèkè gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Liberty World",
+                  "text": "Dieser Vergnügungspark bietet Freizeiteinrichtungen und Unterhaltungsattraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047116,
+                        7.594928
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "Dieses handwerkliche Kunstzentrum widmet sich speziell der Ausbildung und Unterstützung behinderter Handwerker.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "Ezt a történelmi emlékművet a Gbèkè régió örökségének tiszteletére állították.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Liberty World",
+                  "text": "Ez a szórakoztató vidámpark szabadidős túrákat és családi szórakoztató látványosságokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047116,
+                        7.594928
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "Ez a kézműves művészeti központ kifejezetten a fogyatékkal élő kézművesek képzésének és támogatásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "Acest monument istoric este dedicat onorării moștenirii regiunii Gbèkè.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Liberty World",
+                  "text": "Acest parc tematic de distracții oferă atracții recreative și de divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047116,
+                        7.594928
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "Acest centru de meșteșuguri artizanale este dedicat în special instruirii și susținerii meșteșugarilor cu dizabilități.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "This historical monument is dedicated to honoring the heritage of the Gbèkè region.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Liberty World",
+                  "text": "This amusement theme park offers recreational rides and family entertainment attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047116,
+                        7.594928
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "This artisanal craft centre is specifically dedicated to training and supporting disabled craftspeople.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-04",
     coords: [-5.0333, 7.6833],
@@ -686,7 +1766,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "touba-fadika-center-history-v2",
+    id: "touba-fadika-center-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bendi",
+                  "text": "Dieser markante Berggipfel erhebt sich steil über das umliegende natürliche Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        -7.63707,
+                        8.220037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bendi",
+                  "text": "Ez a kiemelkedő hegycsúcs meredeken magasodik a környező természetes terep fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -7.63707,
+                        8.220037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bendi",
+                  "text": "Acest vârf de munte proeminent se înalță abrupt deasupra terenului natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -7.63707,
+                        8.220037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bendi",
+                  "text": "This prominent mountain peak rises steeply above the surrounding natural terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -7.63707,
+                        8.220037
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-09",
     coords: [-7.6833, 8.2833],
@@ -794,7 +1919,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "katiola-colonial-history-v2",
+    id: "katiola-colonial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "Die katholische Kathedrale in Katiola zeichnet sich durch ihre bemerkenswerte Kolonialarchitektur aus und dient als Zentrum der örtlichen Diözese.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092266,
+                        8.140761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "A katiolai katolikus katedrálist figyelemre méltó gyarmati építészete jellemzi, és a helyi egyházmegye központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092266,
+                        8.140761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "Catedrala catolică din Katiola se caracterizează prin arhitectura sa notabilă din perioada colonială și servește ca centru al episcopiei locale.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092266,
+                        8.140761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "The Catholic cathedral in Katiola is characterized by its notable colonial-era architecture and serves as the center of the local diocese.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092266,
+                        8.140761
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-04",
     coords: [-5.1, 8.1333],
@@ -830,7 +2000,196 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "daloa-trading-post-history-v2",
+    id: "daloa-trading-post-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "Dieses städtische Kunstzentrum veranstaltet kulturelle Gemeinschaftsevents und lokale Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Place de la solidarité",
+                  "text": "Dieses Denkmal auf einem öffentlichen Platz dient als ausgewiesener Versammlungsort zum Thema Solidarität.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "Diese große Moschee dient als zentraler islamischer Kultort mit traditioneller Minarett-Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "Diese große katholische Kathedrale ist ein markantes religiöses Gebäude, das Christkönig gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44799,
+                        6.883216
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "Dieses administrative Rathausgebäude dient als Hauptsitz der Stadtverwaltung von Daloa.",
+                  "category": "historical",
+                  "coords": [
+                        -6.451479,
+                        6.885968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "Ez a városi művészeti központ közösségi kulturális eseményeknek és helyi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Place de la solidarité",
+                  "text": "Ez a köztéri emlékmű a szolidaritás témája köré épülő dedikált gyülekezőhelyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "Ez a nagy mecset központi iszlám istentiszteleti helyként szolgál hagyományos minaret-építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "Ez a nagy katolikus katedrális egy kiemelkedő vallási épület, amelyet Krisztus Királynak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44799,
+                        6.883216
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "Ez a közigazgatási városháza épülete Daloa önkormányzatának központjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -6.451479,
+                        6.885968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "Acest centru municipal de arte găzduiește evenimente culturale comunitare și spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Place de la solidarité",
+                  "text": "Acest monument din piața publică servește drept spațiu de adunare dedicat temei solidarității.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "Această mare moschee servește ca un lăcaș de cult islamic central cu arhitectură tradițională cu minaret.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "Această mare catedrală catolică este o clădire religioasă proeminentă dedicată lui Hristos Regele.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44799,
+                        6.883216
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "Această clădire administrativă a primăriei servește drept sediu municipal al orașului Daloa.",
+                  "category": "historical",
+                  "coords": [
+                        -6.451479,
+                        6.885968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "This municipal arts centre hosts community cultural events and local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Place de la solidarité",
+                  "text": "This public square monument serves as a dedicated gathering space themed around solidarity.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "This large mosque serves as a central Islamic place of worship with traditional minaret architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "This large Catholic cathedral is a prominent religious building dedicated to Christ the King.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44799,
+                        6.883216
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "This administrative town hall building serves as the municipal headquarters of Daloa.",
+                  "category": "historical",
+                  "coords": [
+                        -6.451479,
+                        6.885968
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-02",
     coords: [-6.45, 6.8833],
@@ -866,7 +2225,88 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "abengourou-indenie-kingdom-history-v2",
+    id: "abengourou-indenie-kingdom-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Bieth",
+                  "text": "Das Musée Bieth ist ein Museum in Abengourou, das sich der Bewahrung der Artefakte und der Geschichte des Indénié-Königreichs widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            },
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "Das Conservatoire National des Arts et Métiers ist ein Museum und eine Bildungseinrichtung in Abengourou, die sich auf traditionelles Handwerk und Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Bieth",
+                  "text": "A Musée Bieth egy abengouroui múzeum, amely az Indénié Királyság műtárgyainak és történelmének megőrzésére épült.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            },
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "A Conservatoire National des Arts et Métiers egy múzeum és oktatási intézmény Abengourouban, amely a hagyományos kézművességre és művészetekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Bieth",
+                  "text": "Muzeul Bieth este un muzeu din Abengourou dedicat conservării artefactelor și istoriei Regatului Indénié.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            },
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "Conservatorul Național de Arte și Meserii este un muzeu și o instituție de învățământ din Abengourou axată pe meșteșugurile și artele tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Bieth",
+                  "text": "Musée Bieth is a museum in Abengourou dedicated to preserving the artifacts and history of the Indénié Kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            },
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "Conservatoire National des Arts et Métiers is a museum and educational institution in Abengourou focused on traditional crafts and arts.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738222
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-05",
     coords: [-3.5, 6.7333],
@@ -902,7 +2342,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "ferkessedougou-historic-town-history-v2",
+    id: "ferkessedougou-historic-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "BAR (le monde arabe)",
+                  "text": "In der historischen Stadt Ferkessédougou gelegen, hebt dieser kulturelle Ort arabische Einflüsse hervor.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BAR (le monde arabe)",
+                  "text": "Ferkessédougou történelmi városában található ez a kulturális helyszín, amely az arab hatásokat emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BAR (le monde arabe)",
+                  "text": "Situat în orașul istoric Ferkessédougou, acest loc cultural evidențiază influențele arabe.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BAR (arabe world)",
+                  "text": "Set within the historic town of Ferkessédougou, this cultural spot highlights Arabic influences.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-14",
     coords: [-5.2, 9.6],
@@ -974,7 +2459,52 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "agboville-abbey-revolt-history-v2",
+    id: "agboville-abbey-revolt-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mon lot",
+                  "text": "Mon lot ist eine lokale Attraktion in der Stadt Agboville, die für den historischen Abbey-Aufstand bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.179068,
+                        5.945896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mon lot",
+                  "text": "A Mon lot egy helyi látványosság Agboville városában, amely a történelmi Abbey-lázadásról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.179068,
+                        5.945896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mon lot",
+                  "text": "Mon lot este o atracție locală situată în orașul Agboville, cunoscut pentru revolta istorică Abbey.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.179068,
+                        5.945896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mon lot",
+                  "text": "Mon lot is a local attraction situated in the town of Agboville, known for the historical Abbey revolt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.179068,
+                        5.945896
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-16",
     coords: [-4.2167, 5.9333],
@@ -1046,7 +2576,88 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     },
   },
   {
-    id: "gagnoa-bete-center-history-v2",
+    id: "gagnoa-bete-center-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "Diese als Kultort dienende Kathedrale ist offiziell der Heiligen Anna gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            },
+            {
+                  "name": "Les moulins blanc",
+                  "text": "Diese markante Windmühlenstruktur zeichnet sich durch ihr weiß gestrichenes Äußeres aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "Ezt a katedrális istentiszteleti helyet hivatalosan Szent Annának szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            },
+            {
+                  "name": "Les moulins blanc",
+                  "text": "Ez a jellegzetes szélmalom szerkezet a fehérre festett külsejéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "Această catedrală lăcaș de cult este dedicată în mod oficial Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            },
+            {
+                  "name": "Les moulins blanc",
+                  "text": "Această structură distinctivă de moară de vânt este notabilă pentru exteriorul său vopsit în alb.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "This cathedral place of worship is formally dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            },
+            {
+                  "name": "Les moulins blanc",
+                  "text": "This distinctive windmill structure is notable for its white-painted exterior.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CI-02",
     coords: [-5.95, 6.1333],

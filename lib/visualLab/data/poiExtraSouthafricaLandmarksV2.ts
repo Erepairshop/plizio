@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthafricaLandmarksV2: POI[] = [
   {
-    id: "fnb-stadium-landmarks-v2",
+    id: "fnb-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nasrec",
+                  "text": "Nasrec ist ein großes Ausstellungs- und Veranstaltungszentrum, das direkt neben dem berühmten FNB-Stadion liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.980321,
+                        -26.242848
+                  ]
+            },
+            {
+                  "name": "Soweto Signboard",
+                  "text": "Das Soweto Signboard bietet einen hervorragenden Fotostandpunkt mit Blick auf das weitläufige, historische Township Soweto.",
+                  "category": "natural",
+                  "coords": [
+                        27.961576,
+                        -26.250247
+                  ]
+            },
+            {
+                  "name": "Painted Cooling Tower",
+                  "text": "Der bemalte Kühlturm ist der farbenfroh gestaltete Überrest eines stillgelegten Kraftwerks, der heute für Extremsportarten wie Bungee-Jumping beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.984303,
+                        -26.237499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nasrec",
+                  "text": "A Nasrec egy nagy kiállítási és rendezvényközpont, amely az ikonikus FNB Stadion mellett található.",
+                  "category": "landmark",
+                  "coords": [
+                        27.980321,
+                        -26.242848
+                  ]
+            },
+            {
+                  "name": "Soweto Signboard",
+                  "text": "A Soweto jelzőtábla nagyszerű fotózási pontot kínál, ahonnan kilátás nyílik a kiterjedt, történelmi Soweto településre.",
+                  "category": "natural",
+                  "coords": [
+                        27.961576,
+                        -26.250247
+                  ]
+            },
+            {
+                  "name": "Painted Cooling Tower",
+                  "text": "A festett hűtőtorony egy használaton kívüli erőmű élénk falfestményekkel díszített maradványa, amely ma az extrém sportok, például a bungee jumping szerelmeseinek népszerű célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        27.984303,
+                        -26.237499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nasrec",
+                  "text": "Nasrec este un centru major de expoziții și evenimente situat adiacent emblematicului stadion FNB.",
+                  "category": "landmark",
+                  "coords": [
+                        27.980321,
+                        -26.242848
+                  ]
+            },
+            {
+                  "name": "Soweto Signboard",
+                  "text": "Panoul Soweto oferă un punct de observație excelent pentru fotografii cu vedere spre vasta și istorica așezare Soweto.",
+                  "category": "natural",
+                  "coords": [
+                        27.961576,
+                        -26.250247
+                  ]
+            },
+            {
+                  "name": "Painted Cooling Tower",
+                  "text": "Turnul de răcire pictat este o rămășiță viu colorată a unei centrale electrice dezafectate, acum populară pentru sporturi extreme precum bungee jumping.",
+                  "category": "landmark",
+                  "coords": [
+                        27.984303,
+                        -26.237499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nasrec",
+                  "text": "Nasrec is a major exhibition and events centre located adjacent to the iconic FNB Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        27.980321,
+                        -26.242848
+                  ]
+            },
+            {
+                  "name": "Soweto Signboard",
+                  "text": "The Soweto Signboard offers a photographic vantage point overlooking the sprawling, historic township of Soweto.",
+                  "category": "natural",
+                  "coords": [
+                        27.961576,
+                        -26.250247
+                  ]
+            },
+            {
+                  "name": "Painted Cooling Tower",
+                  "text": "The Painted Cooling Tower is a brightly muralled remnant of a defunct power station, now popular for extreme sports like bungee jumping.",
+                  "category": "landmark",
+                  "coords": [
+                        27.984303,
+                        -26.237499
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [27.9823, -26.2347],
@@ -63,7 +180,340 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ponte-city-landmarks-v2",
+    id: "ponte-city-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imperial Logistics",
+                  "text": "Dieser Standort stellt einen wichtigen Knotenpunkt für das Supply-Chain-Management und die gewerbliche Transportlogistik dar.",
+                  "category": "landmark",
+                  "coords": [
+                        28.130082,
+                        -26.195202
+                  ]
+            },
+            {
+                  "name": "Air 360 skate park",
+                  "text": "Dieser Themenpark ist mit verschiedenen Rampen und Bowls ausgestattet, die speziell für Skateboarding und BMX-Fahren konzipiert wurden.",
+                  "category": "recreational",
+                  "coords": [
+                        28.118168,
+                        -26.180628
+                  ]
+            },
+            {
+                  "name": "Satyagraha House",
+                  "text": "Dieses Museum in der ehemaligen Residenz von Mahatma Gandhi beleuchtet seine Entwicklung des passiven Widerstands in Südafrika.",
+                  "category": "museum",
+                  "coords": [
+                        28.083644,
+                        -26.155501
+                  ]
+            },
+            {
+                  "name": "Harvey Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet bietet inmitten der städtischen Umgebung eine friedliche Grünfläche zur Erhaltung der lokalen Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        28.106667,
+                        -26.168889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Dieser hoch gelegene Aussichtspunkt bietet einen weiten Panoramablick über die Skyline der umliegenden Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        28.107248,
+                        -26.198312
+                  ]
+            },
+            {
+                  "name": "Alahambra Theatre",
+                  "text": "Dieses traditionelle Theater ist der Ausrichtung verschiedener Bühnenstücke und Veranstaltungen der darstellenden Künste gewidmet.",
+                  "category": "cultural",
+                  "coords": [
+                        28.058499,
+                        -26.194558
+                  ]
+            },
+            {
+                  "name": "Bill Stewart Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet bewahrt ein ruhiges Gebiet mit einheimischer Vegetation und Lebensräumen für Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        28.150841,
+                        -26.182511
+                  ]
+            },
+            {
+                  "name": "Langermann Koppie",
+                  "text": "Dieses Naturschutzgebiet schützt einen markanten Felsrücken, der Teil der natürlichen Topographie von Johannesburg ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.083511,
+                        -26.194433
+                  ]
+            },
+            {
+                  "name": "Victory Theatre",
+                  "text": "Dieses historische Theater für darstellende Künste war Schauplatz zahlreicher bedeutender lokaler und internationaler Bühnenproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.076472,
+                        -26.168265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imperial Logistics",
+                  "text": "Ez a helyszín az ellátási lánc menedzsmentjének és a kereskedelmi szállítási logisztikának jelentős központja.",
+                  "category": "landmark",
+                  "coords": [
+                        28.130082,
+                        -26.195202
+                  ]
+            },
+            {
+                  "name": "Air 360 skate park",
+                  "text": "Ez a vidámpark kifejezetten gördeszkázásra és BMX-ezésre szabott rámpákkal és medencékkel van kialakítva.",
+                  "category": "recreational",
+                  "coords": [
+                        28.118168,
+                        -26.180628
+                  ]
+            },
+            {
+                  "name": "Satyagraha House",
+                  "text": "A Mahatma Gandhi egykori rezidenciájában található múzeum a passzív ellenállás dél-afrikai fejlődését tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        28.083644,
+                        -26.155501
+                  ]
+            },
+            {
+                  "name": "Harvey Nature Reserve",
+                  "text": "Ez a természetvédelmi terület békés zöldfelületet kínál a helyi vadvilág megőrzésére a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        28.106667,
+                        -26.168889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ez a magasan fekvő kilátó széles panorámát nyújt a környező város látképére.",
+                  "category": "natural",
+                  "coords": [
+                        28.107248,
+                        -26.198312
+                  ]
+            },
+            {
+                  "name": "Alahambra Theatre",
+                  "text": "Ez a hagyományos színház különféle színpadi daraboknak és előadóművészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.058499,
+                        -26.194558
+                  ]
+            },
+            {
+                  "name": "Bill Stewart Nature Reserve",
+                  "text": "Ez a természetvédelmi terület az őshonos növényzet és a vadon élő állatok élőhelyeinek egy békés szakaszát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        28.150841,
+                        -26.182511
+                  ]
+            },
+            {
+                  "name": "Langermann Koppie",
+                  "text": "Ez a természetvédelmi terület egy jellegzetes sziklagerincet véd, amely Johannesburg természetes domborzatának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        28.083511,
+                        -26.194433
+                  ]
+            },
+            {
+                  "name": "Victory Theatre",
+                  "text": "Ez a történelmi előadó-művészeti színház számos jelentős hazai és nemzetközi színpadi produkciónak adott otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.076472,
+                        -26.168265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imperial Logistics",
+                  "text": "Acest sit reprezintă un centru important pentru managementul lanțului de aprovizionare și logistica transportului comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        28.130082,
+                        -26.195202
+                  ]
+            },
+            {
+                  "name": "Air 360 skate park",
+                  "text": "Acest parc tematic este conceput cu diverse rampe și cuve adaptate special pentru skateboarding și ciclism BMX.",
+                  "category": "recreational",
+                  "coords": [
+                        28.118168,
+                        -26.180628
+                  ]
+            },
+            {
+                  "name": "Satyagraha House",
+                  "text": "Găzduit în fosta reședință a lui Mahatma Gandhi, acest muzeu explorează dezvoltarea de către acesta a rezistenței pasive în Africa de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        28.083644,
+                        -26.155501
+                  ]
+            },
+            {
+                  "name": "Harvey Nature Reserve",
+                  "text": "Această rezervație naturală oferă un spațiu verde liniștit pentru conservarea faunei sălbatice locale în mijlocul mediului urban.",
+                  "category": "natural",
+                  "coords": [
+                        28.106667,
+                        -26.168889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Acest punct de belvedere înalt oferă vederi panoramice vaste asupra orizontului orașului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        28.107248,
+                        -26.198312
+                  ]
+            },
+            {
+                  "name": "Alahambra Theatre",
+                  "text": "Acest teatru tradițional este dedicat găzduirii unei varietăți de piese de teatru și evenimente de artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        28.058499,
+                        -26.194558
+                  ]
+            },
+            {
+                  "name": "Bill Stewart Nature Reserve",
+                  "text": "Această rezervație naturală păstrează o întindere liniștită de vegetație indigenă și habitate ale faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        28.150841,
+                        -26.182511
+                  ]
+            },
+            {
+                  "name": "Langermann Koppie",
+                  "text": "Această rezervație naturală protejează o creastă stâncoasă distinctivă care face parte din topografia naturală a orașului Johannesburg.",
+                  "category": "natural",
+                  "coords": [
+                        28.083511,
+                        -26.194433
+                  ]
+            },
+            {
+                  "name": "Victory Theatre",
+                  "text": "Acest teatru istoric de arte ale spectacolului a găzduit numeroase producții scenice locale și internaționale semnificative.",
+                  "category": "cultural",
+                  "coords": [
+                        28.076472,
+                        -26.168265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imperial Logistics",
+                  "text": "This site represents a significant hub for supply chain management and commercial transport logistics.",
+                  "category": "landmark",
+                  "coords": [
+                        28.130082,
+                        -26.195202
+                  ]
+            },
+            {
+                  "name": "Air 360 skate park",
+                  "text": "This theme park is designed with various ramps and bowls tailored specifically for skateboarding and BMX biking.",
+                  "category": "recreational",
+                  "coords": [
+                        28.118168,
+                        -26.180628
+                  ]
+            },
+            {
+                  "name": "Satyagraha House",
+                  "text": "Housed in Mahatma Gandhi's former residence, this museum explores his development of passive resistance in South Africa.",
+                  "category": "museum",
+                  "coords": [
+                        28.083644,
+                        -26.155501
+                  ]
+            },
+            {
+                  "name": "Harvey Nature Reserve",
+                  "text": "This nature reserve offers a peaceful green space for local wildlife conservation amidst the urban environment.",
+                  "category": "natural",
+                  "coords": [
+                        28.106667,
+                        -26.168889
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "This elevated viewpoint provides sweeping panoramic vistas over the surrounding city skyline.",
+                  "category": "natural",
+                  "coords": [
+                        28.107248,
+                        -26.198312
+                  ]
+            },
+            {
+                  "name": "Alahambra Theatre",
+                  "text": "This traditional theatre venue is dedicated to hosting a variety of stage plays and performing arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        28.058499,
+                        -26.194558
+                  ]
+            },
+            {
+                  "name": "Bill Stewart Nature Reserve",
+                  "text": "This nature reserve preserves a serene stretch of indigenous vegetation and wildlife habitats.",
+                  "category": "natural",
+                  "coords": [
+                        28.150841,
+                        -26.182511
+                  ]
+            },
+            {
+                  "name": "Langermann Koppie",
+                  "text": "This nature reserve protects a distinctive rocky ridge that forms part of Johannesburg's natural topography.",
+                  "category": "natural",
+                  "coords": [
+                        28.083511,
+                        -26.194433
+                  ]
+            },
+            {
+                  "name": "Victory Theatre",
+                  "text": "This historic performing arts theatre has hosted numerous significant local and international stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        28.076472,
+                        -26.168265
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0578, -26.1901],
@@ -123,7 +573,448 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moses-mabhida-stadium-landmarks-v2",
+    id: "moses-mabhida-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocket Hut Beach",
+                  "text": "Der Rocket Hut Beach ist ein Küstenaussichtspunkt in der Nähe des Moses Mabhida Stadions, der weite Blicke über den Ozean bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.047772,
+                        -29.792642
+                  ]
+            },
+            {
+                  "name": "Beachwood Mangroves Nature Reserve",
+                  "text": "Dieses 76 Hektar große Naturschutzgebiet schützt den größten erhaltenen Mangrovenwald in der Region um Durban.",
+                  "category": "natural",
+                  "coords": [
+                        31.0425,
+                        -29.799722
+                  ]
+            },
+            {
+                  "name": "Skycar",
+                  "text": "Der Skycar ist eine seilbahnartige Attraktion, die Besucher auf den spektakulären Bogen des Moses Mabhida Stadions befördert.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031068,
+                        -29.827321
+                  ]
+            },
+            {
+                  "name": "Glacial striations",
+                  "text": "Diese Gletscherschrammen sind archäologische und geologische Zeugnisse einer alten Eiszeit in der Nähe des Stadions.",
+                  "category": "historical",
+                  "coords": [
+                        31.003476,
+                        -29.815259
+                  ]
+            },
+            {
+                  "name": "Mamba Valley glacial striations",
+                  "text": "Die Gletscherschrammen im Mamba Valley sind markante geologische Rillen im Gestein, die durch jahrtausendealte Gletscherbewegungen entstanden sind.",
+                  "category": "historical",
+                  "coords": [
+                        30.950995,
+                        -29.782324
+                  ]
+            },
+            {
+                  "name": "Moses Mabhida Stadium",
+                  "text": "Das 2009 eröffnete Moses Mabhida Stadion ist ein ikonisches Wahrzeichen mit einem charakteristischen Bogen, das für die Fußball-Weltmeisterschaft erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        31.03037,
+                        -29.828987
+                  ]
+            },
+            {
+                  "name": "Mitchell Park Zoo",
+                  "text": "Der Mitchell Park Zoo ist ein kleiner zoologischer Garten, in dem Besucher exotische Vögel und kleine Säugetiere beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        31.012097,
+                        -29.825142
+                  ]
+            },
+            {
+                  "name": "Jameson Park",
+                  "text": "Der Jameson Park ist ein gepflegter Park, der für seinen herrlichen Rosengarten berühmt ist.",
+                  "category": "park",
+                  "coords": [
+                        31.008743,
+                        -29.827039
+                  ]
+            },
+            {
+                  "name": "Umgeni River Bird Park",
+                  "text": "Der am Ufer des Umgeni gelegene Vogelpark beherbergt eine Vielzahl exotischer und bedrohter Vogelarten in großzügigen Freiflugvolieren.",
+                  "category": "park",
+                  "coords": [
+                        31.017786,
+                        -29.808093
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Pools",
+                  "text": "Die Laguna Beach Pools sind ein familienfreundlicher Wasserpark direkt an der Küste mit verschiedenen Rutschen und Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        31.037337,
+                        -29.820339
+                  ]
+            },
+            {
+                  "name": "Mitchell Park",
+                  "text": "Der Mitchell Park bietet üppige Gärten und schattige Wege rund um den integrierten Zoo, die zu entspannten Spaziergängen einladen.",
+                  "category": "park",
+                  "coords": [
+                        31.011098,
+                        -29.826299
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "Suncoast Beach ist ein lebhafter Sandstrand in der Nähe des Casino-Komplexes, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036654,
+                        -29.834093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocket Hut Beach",
+                  "text": "A Rocket Hut Beach egy tengerparti kilátó a Moses Mabhida Stadion közelében, ahonnan messzire ellátni az óceánon.",
+                  "category": "natural",
+                  "coords": [
+                        31.047772,
+                        -29.792642
+                  ]
+            },
+            {
+                  "name": "Beachwood Mangroves Nature Reserve",
+                  "text": "Ez a 76 hektáros természetvédelmi terület védi Durban régiójának legnagyobb megmaradt mangroveerdőjét.",
+                  "category": "natural",
+                  "coords": [
+                        31.0425,
+                        -29.799722
+                  ]
+            },
+            {
+                  "name": "Skycar",
+                  "text": "A Skycar egy felvonószerű látványosság, amely a látogatókat a Moses Mabhida Stadion látványos boltívének tetejére viszi.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031068,
+                        -29.827321
+                  ]
+            },
+            {
+                  "name": "Glacial striations",
+                  "text": "Ezek a gleccserkarcok egy ősi jégkorszak régészeti és geológiai bizonyítékai a stadion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        31.003476,
+                        -29.815259
+                  ]
+            },
+            {
+                  "name": "Mamba Valley glacial striations",
+                  "text": "A Mamba Valley gleccserkarcai jellegzetes geológiai vájatok a kőzetben, amelyeket az évezredes gleccsermozgások alakítottak ki.",
+                  "category": "historical",
+                  "coords": [
+                        30.950995,
+                        -29.782324
+                  ]
+            },
+            {
+                  "name": "Moses Mabhida Stadium",
+                  "text": "A 2009-ben megnyílt Moses Mabhida Stadion ikonikus látványosság egy jellegzetes boltívvel, melyet a labdarúgó-világbajnokságra építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        31.03037,
+                        -29.828987
+                  ]
+            },
+            {
+                  "name": "Mitchell Park Zoo",
+                  "text": "A Mitchell Park Zoo egy kis állatkert, ahol a látogatók egzotikus madarakat és kisebb emlősöket figyelhetnek meg.",
+                  "category": "recreational",
+                  "coords": [
+                        31.012097,
+                        -29.825142
+                  ]
+            },
+            {
+                  "name": "Jameson Park",
+                  "text": "A Jameson Park egy gondozott park, amely csodálatos rózsakertjéről híres.",
+                  "category": "park",
+                  "coords": [
+                        31.008743,
+                        -29.827039
+                  ]
+            },
+            {
+                  "name": "Umgeni River Bird Park",
+                  "text": "Az Umgeni folyó partján fekvő madárpark számos egzotikus és veszélyeztetett madárfajnak ad otthont tágas röpdékben.",
+                  "category": "park",
+                  "coords": [
+                        31.017786,
+                        -29.808093
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Pools",
+                  "text": "A Laguna Beach Pools egy családbarát vízipark közvetlenül a tengerparton, különböző csúszdákkal és úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        31.037337,
+                        -29.820339
+                  ]
+            },
+            {
+                  "name": "Mitchell Park",
+                  "text": "A Mitchell Park buja kerteket és árnyékos ösvényeket kínál a beépített állatkert körül, melyek nyugodt sétákra csábítanak.",
+                  "category": "park",
+                  "coords": [
+                        31.011098,
+                        -29.826299
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "A Suncoast Beach egy nyüzsgő homokos strand a kaszinókomplexum közelében, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036654,
+                        -29.834093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocket Hut Beach",
+                  "text": "Rocket Hut Beach este un punct de belvedere pe coastă, situat lângă Stadionul Moses Mabhida, oferind vederi largi asupra oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        31.047772,
+                        -29.792642
+                  ]
+            },
+            {
+                  "name": "Beachwood Mangroves Nature Reserve",
+                  "text": "Această rezervație naturală de 76 de hectare protejează cea mai mare pădure de mangrove rămasă în regiunea Durban.",
+                  "category": "natural",
+                  "coords": [
+                        31.0425,
+                        -29.799722
+                  ]
+            },
+            {
+                  "name": "Skycar",
+                  "text": "Skycar este o atracție tip telecabină care transportă vizitatorii pe arcul spectaculos al Stadionului Moses Mabhida.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031068,
+                        -29.827321
+                  ]
+            },
+            {
+                  "name": "Glacial striations",
+                  "text": "Aceste striații glaciare sunt dovezi arheologice și geologice ale unei vechi ere glaciare în apropierea stadionului.",
+                  "category": "historical",
+                  "coords": [
+                        31.003476,
+                        -29.815259
+                  ]
+            },
+            {
+                  "name": "Mamba Valley glacial striations",
+                  "text": "Striațiile glaciare din Valea Mamba sunt caneluri geologice distincte în stâncă, formate prin mișcările milenare ale ghețarilor.",
+                  "category": "historical",
+                  "coords": [
+                        30.950995,
+                        -29.782324
+                  ]
+            },
+            {
+                  "name": "Moses Mabhida Stadium",
+                  "text": "Deschis în 2009, Stadionul Moses Mabhida este un reper emblematic cu un arc caracteristic, construit pentru Cupa Mondială FIFA.",
+                  "category": "landmark",
+                  "coords": [
+                        31.03037,
+                        -29.828987
+                  ]
+            },
+            {
+                  "name": "Mitchell Park Zoo",
+                  "text": "Mitchell Park Zoo este o mică grădină zoologică unde vizitatorii pot admira păsări exotice și mamifere mici.",
+                  "category": "recreational",
+                  "coords": [
+                        31.012097,
+                        -29.825142
+                  ]
+            },
+            {
+                  "name": "Jameson Park",
+                  "text": "Jameson Park este un parc bine îngrijit, renumit pentru superba sa grădină de trandafiri.",
+                  "category": "park",
+                  "coords": [
+                        31.008743,
+                        -29.827039
+                  ]
+            },
+            {
+                  "name": "Umgeni River Bird Park",
+                  "text": "Parcul de păsări situat pe malurile râului Umgeni găzduiește o varietate de specii exotice și pe cale de dispariție în voliere mari.",
+                  "category": "park",
+                  "coords": [
+                        31.017786,
+                        -29.808093
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Pools",
+                  "text": "Laguna Beach Pools este un parc acvatic pentru familii, situat direct pe coastă, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        31.037337,
+                        -29.820339
+                  ]
+            },
+            {
+                  "name": "Mitchell Park",
+                  "text": "Mitchell Park oferă grădini luxuriante și cărări umbrite în jurul grădinii zoologice integrate, perfecte pentru plimbări relaxante.",
+                  "category": "park",
+                  "coords": [
+                        31.011098,
+                        -29.826299
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "Suncoast Beach este o plajă de nisip animată lângă complexul cazinoului, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036654,
+                        -29.834093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocket Hut Beach",
+                  "text": "Rocket Hut Beach is a coastal viewpoint near the Moses Mabhida Stadium offering expansive views across the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        31.047772,
+                        -29.792642
+                  ]
+            },
+            {
+                  "name": "Beachwood Mangroves Nature Reserve",
+                  "text": "This 76-hectare nature reserve protects the largest surviving mangrove forest in the greater Durban region.",
+                  "category": "natural",
+                  "coords": [
+                        31.0425,
+                        -29.799722
+                  ]
+            },
+            {
+                  "name": "Skycar",
+                  "text": "The Skycar is a funicular attraction that transports visitors up the spectacular arch of the Moses Mabhida Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031068,
+                        -29.827321
+                  ]
+            },
+            {
+                  "name": "Glacial striations",
+                  "text": "These glacial striations are archaeological and geological evidence of an ancient ice age near the stadium.",
+                  "category": "historical",
+                  "coords": [
+                        31.003476,
+                        -29.815259
+                  ]
+            },
+            {
+                  "name": "Mamba Valley glacial striations",
+                  "text": "The Mamba Valley glacial striations are prominent geological grooves in the bedrock created by ancient glacial movements.",
+                  "category": "historical",
+                  "coords": [
+                        30.950995,
+                        -29.782324
+                  ]
+            },
+            {
+                  "name": "Moses Mabhida Stadium",
+                  "text": "Opened in 2009, the Moses Mabhida Stadium is an iconic landmark featuring a distinctive arch, built for the FIFA World Cup.",
+                  "category": "landmark",
+                  "coords": [
+                        31.03037,
+                        -29.828987
+                  ]
+            },
+            {
+                  "name": "Mitchell Park Zoo",
+                  "text": "Mitchell Park Zoo is a small zoological garden where visitors can observe exotic birds and small mammals.",
+                  "category": "recreational",
+                  "coords": [
+                        31.012097,
+                        -29.825142
+                  ]
+            },
+            {
+                  "name": "Jameson Park",
+                  "text": "Jameson Park is a well-maintained park famous for its magnificent rose garden.",
+                  "category": "park",
+                  "coords": [
+                        31.008743,
+                        -29.827039
+                  ]
+            },
+            {
+                  "name": "Umgeni River Bird Park",
+                  "text": "Situated on the banks of the Umgeni River, this bird park houses a variety of exotic and endangered species in large walk-through aviaries.",
+                  "category": "park",
+                  "coords": [
+                        31.017786,
+                        -29.808093
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Pools",
+                  "text": "Laguna Beach Pools is a family-friendly coastal water park featuring various slides and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        31.037337,
+                        -29.820339
+                  ]
+            },
+            {
+                  "name": "Mitchell Park",
+                  "text": "Mitchell Park features lush gardens and shaded pathways around the integrated zoo, inviting visitors for relaxing walks.",
+                  "category": "park",
+                  "coords": [
+                        31.011098,
+                        -29.826299
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "Suncoast Beach is a lively sandy beach near the casino complex, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036654,
+                        -29.834093
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-KZN",
     coords: [31.0298, -29.8286],
@@ -183,7 +1074,160 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cape-town-stadium-landmarks-v2",
+    id: "cape-town-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jolly Roger Pirate boat cruises",
+                  "text": "Ein touristisches Kreuzfahrterlebnis an Bord eines maßgefertigten Nachbaus eines klassischen hölzernen Piratensegelschiffs.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412484,
+                        -33.900002
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Ein markanter, 350 Meter hoher Hügel mit flachem Gipfel, der für seinen weiten Blick über den City Bowl und die Atlantikküste bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.403914,
+                        -33.917003
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Signal Hill)",
+                  "text": "Ein großer interaktiver gelber Bilderrahmen, der auf dem Signal Hill aufgestellt wurde, um den ikonischen Tafelberg für Fotos perfekt in Szene zu setzen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.402311,
+                        -33.91817
+                  ]
+            },
+            {
+                  "name": "Sunsetpoint",
+                  "text": "Ein beliebter Aussichtspunkt an den Westhängen des Signal Hill, der besonders häufig besucht wird, um die Sonne unter den atlantischen Horizont sinken zu sehen.",
+                  "category": "natural",
+                  "coords": [
+                        18.398277,
+                        -33.920947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jolly Roger Pirate boat cruises",
+                  "text": "Turisztikai hajókázás egy klasszikus, fából készült kalózhajó egyedi építésű másolatán.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412484,
+                        -33.900002
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Kiemelkedő, 350 méter magas lapos tetejű domb, amely a City Bowlra és az Atlanti-óceán partvidékére nyíló pazar kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.403914,
+                        -33.917003
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Signal Hill)",
+                  "text": "A Signal Hillen elhelyezett nagy interaktív sárga képkeret, amely tökéletesen keretbe foglalja az ikonikus Tábla-hegyet a fotókon.",
+                  "category": "landmark",
+                  "coords": [
+                        18.402311,
+                        -33.91817
+                  ]
+            },
+            {
+                  "name": "Sunsetpoint",
+                  "text": "Népszerű kilátóhely a Signal Hill nyugati lejtőin, amelyet kifejezetten azért látogatnak, hogy végignézzék a napLEMENTÉT az Atlanti-óceán horizontja alá.",
+                  "category": "natural",
+                  "coords": [
+                        18.398277,
+                        -33.920947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jolly Roger Pirate boat cruises",
+                  "text": "O experiență turistică de croazieră la bordul unei replici construite la comandă a unei nave clasice cu vele de pirați din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412484,
+                        -33.900002
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Un deal proeminent cu vârful plat, înalt de 350 de metri, cunoscut pentru priveliștile sale ample asupra City Bowl și a coastei atlantice.",
+                  "category": "natural",
+                  "coords": [
+                        18.403914,
+                        -33.917003
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Signal Hill)",
+                  "text": "O mare ramă foto interactivă galbenă instalată pe Signal Hill pentru a compune perfect fotografii cu emblematicul Munte Table.",
+                  "category": "landmark",
+                  "coords": [
+                        18.402311,
+                        -33.91817
+                  ]
+            },
+            {
+                  "name": "Sunsetpoint",
+                  "text": "O locație populară de vizionare pe versanții vestici ai dealului Signal, frecventată în mod special pentru a privi soarele cum apune sub orizontul atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        18.398277,
+                        -33.920947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jolly Roger Pirate boat cruises",
+                  "text": "A tourist cruise experience aboard a custom-built replica of a classic wooden pirate sailing ship.",
+                  "category": "landmark",
+                  "coords": [
+                        18.412484,
+                        -33.900002
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "A prominent 350-metre-high flat-topped hill known for its sweeping views over the City Bowl and Atlantic Seaboard.",
+                  "category": "natural",
+                  "coords": [
+                        18.403914,
+                        -33.917003
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Signal Hill)",
+                  "text": "A large interactive yellow picture frame installed on Signal Hill to perfectly compose photographs of the iconic Table Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.402311,
+                        -33.91817
+                  ]
+            },
+            {
+                  "name": "Sunsetpoint",
+                  "text": "A popular viewing location on the western slopes of Signal Hill, specifically frequented to watch the sun dip below the Atlantic horizon.",
+                  "category": "natural",
+                  "coords": [
+                        18.398277,
+                        -33.920947
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [18.4069, -33.9034],
@@ -243,7 +1287,376 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "carlton-centre-landmarks-v2",
+    id: "carlton-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "POPART Performing Arts Centre",
+                  "text": "Das unabhängige Kunstzentrum präsentiert innovative und experimentelle darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059452,
+                        -26.204413
+                  ]
+            },
+            {
+                  "name": "Top of Africa",
+                  "text": "Von der verglasten Aussichtsplattform auf dem Wolkenkratzer aus kann man das gesamte Großstadtgebiet überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        28.04702,
+                        -26.205447
+                  ]
+            },
+            {
+                  "name": "Kwa Mai Mai Traditional Market",
+                  "text": "Auf diesem traditionellen Markt bieten Heiler authentische Kräutermedizin und handgemachtes Handwerk an.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059333,
+                        -26.207235
+                  ]
+            },
+            {
+                  "name": "James Hall Museum of Transport",
+                  "text": "Die riesigen Ausstellungshallen beherbergen historische Kutschen, Dampfbusse und alte Straßenbahnen.",
+                  "category": "museum",
+                  "coords": [
+                        28.053512,
+                        -26.23393
+                  ]
+            },
+            {
+                  "name": "Santarama Miniland",
+                  "text": "Der Freizeitpark präsentiert detailgetreue Miniaturmodelle bekannter südafrikanischer Wahrzeichen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053544,
+                        -26.229793
+                  ]
+            },
+            {
+                  "name": "BEC Gallery",
+                  "text": "Die hellen Räumlichkeiten der Galerie fokussieren sich auf aufstrebende afrikanische Gegenwartskünstler.",
+                  "category": "museum",
+                  "coords": [
+                        28.058546,
+                        -26.204454
+                  ]
+            },
+            {
+                  "name": "AGOG Gallery",
+                  "text": "Die mehrstöckige Kunstgalerie vereint moderne Ausstellungen mit einem stilvollen Wein-Lounge-Ambiente.",
+                  "category": "museum",
+                  "coords": [
+                        28.05908,
+                        -26.201632
+                  ]
+            },
+            {
+                  "name": "Gilfillan Park",
+                  "text": "Die von Bäumen gesäumten Rasenflächen des Stadtparks bieten den Anwohnern Raum für Erholung im Freien.",
+                  "category": "park",
+                  "coords": [
+                        28.064785,
+                        -26.206373
+                  ]
+            },
+            {
+                  "name": "Pioneers' Park",
+                  "text": "Der am 26. April 1924 gegründete Park erstreckt sich um den idyllischen Wemmer Pan-See.",
+                  "category": "park",
+                  "coords": [
+                        28.057959,
+                        -26.230727
+                  ]
+            },
+            {
+                  "name": "Museum Of African Design",
+                  "text": "In dem umgebauten Industriegebäude werden avantgardistische Designkonzepte vom gesamten Kontinent präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.059806,
+                        -26.203179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "POPART Performing Arts Centre",
+                  "text": "A független előadó-művészeti központ innovatív és kísérleti színházi produkciókat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059452,
+                        -26.204413
+                  ]
+            },
+            {
+                  "name": "Top of Africa",
+                  "text": "A felhőkarcoló tetején lévő üvegezett kilátóból az egész nagyvárosi terület belátható.",
+                  "category": "natural",
+                  "coords": [
+                        28.04702,
+                        -26.205447
+                  ]
+            },
+            {
+                  "name": "Kwa Mai Mai Traditional Market",
+                  "text": "Ezen a hagyományos piacon a gyógyítók autentikus gyógynövényeket és kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059333,
+                        -26.207235
+                  ]
+            },
+            {
+                  "name": "James Hall Museum of Transport",
+                  "text": "A hatalmas kiállítócsarnokokban történelmi lovaskocsik, gőzhajtású buszok és régi villamosok sorakoznak.",
+                  "category": "museum",
+                  "coords": [
+                        28.053512,
+                        -26.23393
+                  ]
+            },
+            {
+                  "name": "Santarama Miniland",
+                  "text": "A vidámpark híres dél-afrikai nevezetességek részletgazdag, méretarányos miniatűr modelljeit vonultatja fel.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053544,
+                        -26.229793
+                  ]
+            },
+            {
+                  "name": "BEC Gallery",
+                  "text": "A galéria világos termeiben a feltörekvő afrikai kortárs művészek alkotásai kerülnek előtérbe.",
+                  "category": "museum",
+                  "coords": [
+                        28.058546,
+                        -26.204454
+                  ]
+            },
+            {
+                  "name": "AGOG Gallery",
+                  "text": "A többszintes művészeti galéria a modern kiállításokat egy stílusos borozó hangulatával ötvözi.",
+                  "category": "museum",
+                  "coords": [
+                        28.05908,
+                        -26.201632
+                  ]
+            },
+            {
+                  "name": "Gilfillan Park",
+                  "text": "A városi park fákkal szegélyezett pázsitja kiváló helyszínt biztosít a helyiek számára a szabadtéri kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        28.064785,
+                        -26.206373
+                  ]
+            },
+            {
+                  "name": "Pioneers' Park",
+                  "text": "Az 1924. április 26-án alapított park az idilli Wemmer Pan tó körül terül el.",
+                  "category": "park",
+                  "coords": [
+                        28.057959,
+                        -26.230727
+                  ]
+            },
+            {
+                  "name": "Museum Of African Design",
+                  "text": "Az átalakított ipari épületben az egész kontinensről származó avantgárd formatervezési koncepciókat mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        28.059806,
+                        -26.203179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "POPART Performing Arts Centre",
+                  "text": "Acest centru de arte independente prezintă producții inovatoare și experimentale de teatru și performanță.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059452,
+                        -26.204413
+                  ]
+            },
+            {
+                  "name": "Top of Africa",
+                  "text": "De pe platforma de observare vitrată a zgârie-norului se poate admira întreaga zonă metropolitană.",
+                  "category": "natural",
+                  "coords": [
+                        28.04702,
+                        -26.205447
+                  ]
+            },
+            {
+                  "name": "Kwa Mai Mai Traditional Market",
+                  "text": "În această piață tradițională, vindecătorii vând remedii autentice din plante și obiecte de artizanat locale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059333,
+                        -26.207235
+                  ]
+            },
+            {
+                  "name": "James Hall Museum of Transport",
+                  "text": "Halele uriașe de expoziție adăpostesc trăsuri istorice, autobuze cu aburi și tramvaie de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        28.053512,
+                        -26.23393
+                  ]
+            },
+            {
+                  "name": "Santarama Miniland",
+                  "text": "Parcul tematic prezintă modele miniaturale detaliate la scară ale unor repere celebre din Africa de Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053544,
+                        -26.229793
+                  ]
+            },
+            {
+                  "name": "BEC Gallery",
+                  "text": "Spațiile luminoase ale galeriei se concentrează pe promovarea artiștilor africani contemporani emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        28.058546,
+                        -26.204454
+                  ]
+            },
+            {
+                  "name": "AGOG Gallery",
+                  "text": "Această galerie de artă pe mai multe niveluri îmbină expozițiile moderne cu atmosfera elegantă a unui lounge de vinuri.",
+                  "category": "museum",
+                  "coords": [
+                        28.05908,
+                        -26.201632
+                  ]
+            },
+            {
+                  "name": "Gilfillan Park",
+                  "text": "Pajiștile mărginite de copaci ale acestui parc urban oferă localnicilor spațiu pentru recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        28.064785,
+                        -26.206373
+                  ]
+            },
+            {
+                  "name": "Pioneers' Park",
+                  "text": "Înființat pe 26 aprilie 1924, parcul se întinde în jurul idilicului lac Wemmer Pan.",
+                  "category": "park",
+                  "coords": [
+                        28.057959,
+                        -26.230727
+                  ]
+            },
+            {
+                  "name": "Museum Of African Design",
+                  "text": "În clădirea industrială transformată sunt prezentate concepte de design avangardist de pe întreg continentul.",
+                  "category": "museum",
+                  "coords": [
+                        28.059806,
+                        -26.203179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "POPART Performing Arts Centre",
+                  "text": "This independent performing arts centre showcases innovative and experimental theatre and live performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059452,
+                        -26.204413
+                  ]
+            },
+            {
+                  "name": "Top of Africa",
+                  "text": "From the enclosed observation deck atop the skyscraper, visitors can look out over the entire metropolitan expanse.",
+                  "category": "natural",
+                  "coords": [
+                        28.04702,
+                        -26.205447
+                  ]
+            },
+            {
+                  "name": "Kwa Mai Mai Traditional Market",
+                  "text": "At this vibrant traditional market, healers sell authentic herbal medicines and handmade crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        28.059333,
+                        -26.207235
+                  ]
+            },
+            {
+                  "name": "James Hall Museum of Transport",
+                  "text": "The massive exhibition halls contain an impressive array of historic animal-drawn carriages, steam buses, and vintage trams.",
+                  "category": "museum",
+                  "coords": [
+                        28.053512,
+                        -26.23393
+                  ]
+            },
+            {
+                  "name": "Santarama Miniland",
+                  "text": "This theme park features intricate, to-scale miniature models of renowned South African landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053544,
+                        -26.229793
+                  ]
+            },
+            {
+                  "name": "BEC Gallery",
+                  "text": "The well-lit spaces of this gallery focus on promoting emerging contemporary African artists.",
+                  "category": "museum",
+                  "coords": [
+                        28.058546,
+                        -26.204454
+                  ]
+            },
+            {
+                  "name": "AGOG Gallery",
+                  "text": "This multi-level art gallery successfully combines modern exhibitions with a stylish wine lounge atmosphere.",
+                  "category": "museum",
+                  "coords": [
+                        28.05908,
+                        -26.201632
+                  ]
+            },
+            {
+                  "name": "Gilfillan Park",
+                  "text": "The tree-lined lawns of this urban park provide local residents with ample space for outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        28.064785,
+                        -26.206373
+                  ]
+            },
+            {
+                  "name": "Pioneers' Park",
+                  "text": "Established on April 26, 1924, this historic park spreads out around the scenic waters of Wemmer Pan.",
+                  "category": "park",
+                  "coords": [
+                        28.057959,
+                        -26.230727
+                  ]
+            },
+            {
+                  "name": "Museum Of African Design",
+                  "text": "Housed in a converted industrial building, it showcases avant-garde design concepts from across the continent.",
+                  "category": "museum",
+                  "coords": [
+                        28.059806,
+                        -26.203179
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0483, -26.2052],
@@ -303,7 +1716,232 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nelson-mandela-bridge-landmarks-v2",
+    id: "nelson-mandela-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Africa",
+                  "text": "Das in einer ehemaligen Markthalle untergebrachte Museum zeigt faszinierende städtische Kulturausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        28.031241,
+                        -26.201905
+                  ]
+            },
+            {
+                  "name": "The Market Square",
+                  "text": "Der historische Theaterkomplex, der einst ein Markt war, ist heute ein Zentrum für preisgekrönte Bühnenproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.032238,
+                        -26.201357
+                  ]
+            },
+            {
+                  "name": "Wits Art Museum",
+                  "text": "Die Galerieräume präsentieren eine außergewöhnliche Sammlung traditioneller und zeitgenössischer afrikanischer Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        28.032868,
+                        -26.192851
+                  ]
+            },
+            {
+                  "name": "Origins Centre",
+                  "text": "Das interaktive Museum veranschaulicht anhand von Fossilien und Felskunstwerken die Evolution des frühen Menschen.",
+                  "category": "museum",
+                  "coords": [
+                        28.028338,
+                        -26.192982
+                  ]
+            },
+            {
+                  "name": "Johannesburg Planetarium",
+                  "text": "Das Johannesburg Planetarium bietet lehrreiche Astronomieshows und Weltraumausstellungen in der Nähe der Nelson-Mandela-Brücke.",
+                  "category": "museum",
+                  "coords": [
+                        28.028339,
+                        -26.188494
+                  ]
+            },
+            {
+                  "name": "Old Johannesburg Station",
+                  "text": "Die Old Johannesburg Station zeigt die historischen Überreste der frühen Eisenbahninfrastruktur der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        28.033889,
+                        -26.198869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Africa",
+                  "text": "Az egykori piaccsarnokban helyet kapó múzeum a város izgalmas kulturális és társadalmi történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.031241,
+                        -26.201905
+                  ]
+            },
+            {
+                  "name": "The Market Square",
+                  "text": "A történelmi színházi komplexum, amely egykor piac volt, ma díjnyertes színpadi produkciók központja.",
+                  "category": "cultural",
+                  "coords": [
+                        28.032238,
+                        -26.201357
+                  ]
+            },
+            {
+                  "name": "Wits Art Museum",
+                  "text": "A galériaterek a hagyományos és kortárs afrikai művészeti alkotások kivételes gyűjteményét vonultatják fel.",
+                  "category": "museum",
+                  "coords": [
+                        28.032868,
+                        -26.192851
+                  ]
+            },
+            {
+                  "name": "Origins Centre",
+                  "text": "Az interaktív múzeum ősmaradványokon és ősi sziklarajzokon keresztül szemlélteti a korai ember evolúcióját.",
+                  "category": "museum",
+                  "coords": [
+                        28.028338,
+                        -26.192982
+                  ]
+            },
+            {
+                  "name": "Johannesburg Planetarium",
+                  "text": "A Johannesburgi Planetárium oktató csillagászati műsorokat és űrkiállításokat kínál a Nelson Mandela híd területének közelében.",
+                  "category": "museum",
+                  "coords": [
+                        28.028339,
+                        -26.188494
+                  ]
+            },
+            {
+                  "name": "Old Johannesburg Station",
+                  "text": "A régi johannesburgi állomás a város korai vasúti infrastruktúrájának történelmi maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        28.033889,
+                        -26.198869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Africa",
+                  "text": "Găzduit într-o fostă hală a pieței, muzeul prezintă expoziții captivante despre cultura și istoria urbană.",
+                  "category": "museum",
+                  "coords": [
+                        28.031241,
+                        -26.201905
+                  ]
+            },
+            {
+                  "name": "The Market Square",
+                  "text": "Complexul teatral istoric, fostă piață, este astăzi un centru vibrant pentru producții de scenă premiate.",
+                  "category": "cultural",
+                  "coords": [
+                        28.032238,
+                        -26.201357
+                  ]
+            },
+            {
+                  "name": "Wits Art Museum",
+                  "text": "Spațiile galeriei prezintă o colecție excepțională de opere de artă africane tradiționale și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        28.032868,
+                        -26.192851
+                  ]
+            },
+            {
+                  "name": "Origins Centre",
+                  "text": "Muzeul interactiv ilustrează evoluția omului timpuriu prin intermediul fosilelor și al artei rupestre antice.",
+                  "category": "museum",
+                  "coords": [
+                        28.028338,
+                        -26.192982
+                  ]
+            },
+            {
+                  "name": "Johannesburg Planetarium",
+                  "text": "Planetariul din Johannesburg oferă spectacole educaționale de astronomie și expoziții spațiale în apropiere de Podul Nelson Mandela.",
+                  "category": "museum",
+                  "coords": [
+                        28.028339,
+                        -26.188494
+                  ]
+            },
+            {
+                  "name": "Old Johannesburg Station",
+                  "text": "Vechea gară din Johannesburg prezintă rămășițele istorice ale infrastructurii feroviare timpurii a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        28.033889,
+                        -26.198869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Africa",
+                  "text": "Situated within a massive former market hall, this museum exhibits fascinating artifacts of urban culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        28.031241,
+                        -26.201905
+                  ]
+            },
+            {
+                  "name": "The Market Square",
+                  "text": "Formed from a historic marketplace, this theatrical complex is now a premier hub for award-winning stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        28.032238,
+                        -26.201357
+                  ]
+            },
+            {
+                  "name": "Wits Art Museum",
+                  "text": "The gallery spaces exhibit an exceptional institutional collection of both traditional and contemporary African artworks.",
+                  "category": "museum",
+                  "coords": [
+                        28.032868,
+                        -26.192851
+                  ]
+            },
+            {
+                  "name": "Origins Centre",
+                  "text": "This interactive museum utilizes fossils and ancient rock art to extensively detail the evolution of early humanity.",
+                  "category": "museum",
+                  "coords": [
+                        28.028338,
+                        -26.192982
+                  ]
+            },
+            {
+                  "name": "Johannesburg Planetarium",
+                  "text": "The Johannesburg Planetarium offers educational astronomy shows and space exhibits near the Nelson Mandela Bridge area.",
+                  "category": "museum",
+                  "coords": [
+                        28.028339,
+                        -26.188494
+                  ]
+            },
+            {
+                  "name": "Old Johannesburg Station",
+                  "text": "The Old Johannesburg Station features the historical remnants of the city's early railway infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        28.033889,
+                        -26.198869
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0326, -26.1953],
@@ -363,7 +2001,484 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "zeitz-mocaa-landmarks-v2",
+    id: "zeitz-mocaa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "V&A Waterfront",
+                  "text": "Ein belebter historischer Hafenkomplex, der maritimes Erbe, Geschäfte und Restaurants neben in Betrieb befindlichen Docks bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42229,
+                        -33.903269
+                  ]
+            },
+            {
+                  "name": "Granger Bay",
+                  "text": "Eine malerische Küstenbucht, die sich direkt außerhalb des geschäftigen Hafengebiets der V&A Waterfront befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419167,
+                        -33.901667
+                  ]
+            },
+            {
+                  "name": "Cape Medical Museum",
+                  "text": "Ein Museum, das sich der Medizingeschichte des Kaps widmet und im ehemaligen Stadtkrankenhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.414766,
+                        -33.907185
+                  ]
+            },
+            {
+                  "name": "Noon Gun",
+                  "text": "Historische Marinekanonen auf dem Signal Hill, die traditionell jeden Tag um Punkt zwölf Uhr abgefeuert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.411543,
+                        -33.915119
+                  ]
+            },
+            {
+                  "name": "Galloway Theatre",
+                  "text": "Ein intimes Fringe-Theater, das sich in den Räumlichkeiten der Waterfront Theatre School befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.421861,
+                        -33.914334
+                  ]
+            },
+            {
+                  "name": "The Pink Village",
+                  "text": "Eine auffällig rosa gestrichene Touristen-Enklave im Hafenviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416429,
+                        -33.913797
+                  ]
+            },
+            {
+                  "name": "South African Maritime Museum",
+                  "text": "Ein Museum, das Schiffsmodelle und maritime Artefakte ausstellt, die die Seefahrtsgeschichte Südafrikas chronologisch dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        18.420099,
+                        -33.905636
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Silo District)",
+                  "text": "Eine leuchtend gelbe rechteckige Struktur, die speziell im Silo District aufgestellt wurde, um den Tafelberg für Fotos einzurahmen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422262,
+                        -33.908248
+                  ]
+            },
+            {
+                  "name": "Chavonnes Battery Museum",
+                  "text": "Ein historisches Museum, das direkt über den ausgegrabenen archäologischen Ruinen einer Küstenbefestigung der Niederländischen Ostindien-Kompanie aus dem 18. Jahrhundert errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        18.421602,
+                        -33.907114
+                  ]
+            },
+            {
+                  "name": "Cape Town Creative Academy",
+                  "text": "Eine Bildungseinrichtung und Galerie, die sich dem zeitgenössischen Design und der bildenden Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.423376,
+                        -33.90805
+                  ]
+            },
+            {
+                  "name": "Cape Quarter 'The Square'",
+                  "text": "Ein stilvolles Einkaufszentrum mit Innenhof im historischen Viertel De Waterkant.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417813,
+                        -33.915582
+                  ]
+            },
+            {
+                  "name": "Two Oceans Aquarium",
+                  "text": "Ein großes öffentliches Aquarium, das die vielfältige Meeresfauna an der Schnittstelle von Indischem und Atlantischem Ozean zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41748,
+                        -33.908015
+                  ]
+            },
+            {
+                  "name": "The Cape Wheel",
+                  "text": "Ein riesiges Riesenrad an der V&A Waterfront, das einen 360-Grad-Panoramablick auf die Stadt und den Tafelberg bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41929,
+                        -33.902683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "V&A Waterfront",
+                  "text": "Nyüzsgő történelmi kikötőkomplexum, amely a tengerészeti örökség mellett üzleteket és éttermeket is kínál a működő dokkok mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42229,
+                        -33.903269
+                  ]
+            },
+            {
+                  "name": "Granger Bay",
+                  "text": "Festői tengerparti öböl a nyüzsgő V&A Waterfront kikötőterületének közvetlen szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419167,
+                        -33.901667
+                  ]
+            },
+            {
+                  "name": "Cape Medical Museum",
+                  "text": "A Fokföld orvostörténetét bemutató múzeum, amely a volt Városi Kórház épületegyüttesében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        18.414766,
+                        -33.907185
+                  ]
+            },
+            {
+                  "name": "Noon Gun",
+                  "text": "A Signal Hillen található történelmi haditengerészeti ágyúk, amelyeket hagyományosan minden nap pontban tizenkét órakor sütnek el.",
+                  "category": "landmark",
+                  "coords": [
+                        18.411543,
+                        -33.915119
+                  ]
+            },
+            {
+                  "name": "Galloway Theatre",
+                  "text": "Egy meghitt alternatív színház, amely a Waterfront Színművészeti Iskola területén található.",
+                  "category": "cultural",
+                  "coords": [
+                        18.421861,
+                        -33.914334
+                  ]
+            },
+            {
+                  "name": "The Pink Village",
+                  "text": "Jellegzetesen rózsaszínre festett turisztikai enklávé a vízparti negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416429,
+                        -33.913797
+                  ]
+            },
+            {
+                  "name": "South African Maritime Museum",
+                  "text": "Hajómodelleket és tengerészeti leleteket bemutató múzeum, amely Dél-Afrika tengeri történelmét meséli el.",
+                  "category": "museum",
+                  "coords": [
+                        18.420099,
+                        -33.905636
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Silo District)",
+                  "text": "Egy élénksárga téglalap alakú építmény a Silo Districtben, amelyet kifejezetten a Tábla-hegy fotózásának keretezésére helyeztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422262,
+                        -33.908248
+                  ]
+            },
+            {
+                  "name": "Chavonnes Battery Museum",
+                  "text": "Egy történelmi múzeum, amely közvetlenül a Holland Kelet-indiai Társaság egy 18. századi part menti erődítményének feltárt régészeti romjai fölé épült.",
+                  "category": "museum",
+                  "coords": [
+                        18.421602,
+                        -33.907114
+                  ]
+            },
+            {
+                  "name": "Cape Town Creative Academy",
+                  "text": "A kortárs dizájnnak és vizuális művészeteknek szentelt oktatási intézmény és galéria.",
+                  "category": "museum",
+                  "coords": [
+                        18.423376,
+                        -33.90805
+                  ]
+            },
+            {
+                  "name": "Cape Quarter 'The Square'",
+                  "text": "Elegáns udvari bevásárlónegyed a történelmi De Waterkant negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417813,
+                        -33.915582
+                  ]
+            },
+            {
+                  "name": "Two Oceans Aquarium",
+                  "text": "Egy nagy nyilvános akvárium, amely az Indiai- és az Atlanti-óceán találkozásánál található változatos tengeri élővilágot mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41748,
+                        -33.908015
+                  ]
+            },
+            {
+                  "name": "The Cape Wheel",
+                  "text": "Óriáskerék a V&A Waterfrontnál, amely 360 fokos panorámát nyújt a városra és a Tábla-hegyre.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41929,
+                        -33.902683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "V&A Waterfront",
+                  "text": "Un complex portuar istoric plin de viață, cu patrimoniu maritim, magazine și restaurante alături de docuri funcționale.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42229,
+                        -33.903269
+                  ]
+            },
+            {
+                  "name": "Granger Bay",
+                  "text": "Un golf pitoresc de coastă situat chiar în afara zonei pline de viață a portului V&A Waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419167,
+                        -33.901667
+                  ]
+            },
+            {
+                  "name": "Cape Medical Museum",
+                  "text": "Un muzeu dedicat istoriei medicale a Capului, găzduit în fostul complex al Spitalului Orășenesc.",
+                  "category": "museum",
+                  "coords": [
+                        18.414766,
+                        -33.907185
+                  ]
+            },
+            {
+                  "name": "Noon Gun",
+                  "text": "Tunuri navale istorice situate pe Signal Hill, care sunt trase în mod tradițional în fiecare zi exact la ora douăsprezece.",
+                  "category": "landmark",
+                  "coords": [
+                        18.411543,
+                        -33.915119
+                  ]
+            },
+            {
+                  "name": "Galloway Theatre",
+                  "text": "Un teatru intim de avangardă situat în incinta Școlii de Teatru Waterfront.",
+                  "category": "cultural",
+                  "coords": [
+                        18.421861,
+                        -33.914334
+                  ]
+            },
+            {
+                  "name": "The Pink Village",
+                  "text": "O enclavă turistică vopsită distinctiv în roz, situată în cartierul de pe malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416429,
+                        -33.913797
+                  ]
+            },
+            {
+                  "name": "South African Maritime Museum",
+                  "text": "Un muzeu care expune modele de nave și artefacte maritime care cronicizează istoria maritimă a Africii de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        18.420099,
+                        -33.905636
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Silo District)",
+                  "text": "O structură dreptunghiulară de culoare galben strălucitor poziționată special în Districtul Silo pentru a încadra fotografii cu Muntele Table.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422262,
+                        -33.908248
+                  ]
+            },
+            {
+                  "name": "Chavonnes Battery Museum",
+                  "text": "Un muzeu istoric construit direct peste ruinele arheologice excavate ale unei fortificații de coastă din secolul al XVIII-lea a Companiei Olandeze a Indiilor de Est.",
+                  "category": "museum",
+                  "coords": [
+                        18.421602,
+                        -33.907114
+                  ]
+            },
+            {
+                  "name": "Cape Town Creative Academy",
+                  "text": "O instituție de învățământ și o galerie dedicată designului contemporan și artelor vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        18.423376,
+                        -33.90805
+                  ]
+            },
+            {
+                  "name": "Cape Quarter 'The Square'",
+                  "text": "O zonă comercială elegantă cu curte interioară, situată în cartierul istoric De Waterkant.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417813,
+                        -33.915582
+                  ]
+            },
+            {
+                  "name": "Two Oceans Aquarium",
+                  "text": "Un mare acvariu public care prezintă viața marină diversă întâlnită acolo unde oceanele Indian și Atlantic se întâlnesc.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41748,
+                        -33.908015
+                  ]
+            },
+            {
+                  "name": "The Cape Wheel",
+                  "text": "O roată gigant de observație la V&A Waterfront care oferă o vedere panoramică la 360 de grade asupra orașului și a Muntelui Table.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41929,
+                        -33.902683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "V&A Waterfront",
+                  "text": "A bustling historic harbour complex featuring maritime heritage, retail, and dining alongside working docks.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42229,
+                        -33.903269
+                  ]
+            },
+            {
+                  "name": "Granger Bay",
+                  "text": "A scenic coastal bay located just outside the bustling V&A Waterfront harbour area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419167,
+                        -33.901667
+                  ]
+            },
+            {
+                  "name": "Cape Medical Museum",
+                  "text": "A museum dedicated to the medical history of the Cape, housed in the former City Hospital complex.",
+                  "category": "museum",
+                  "coords": [
+                        18.414766,
+                        -33.907185
+                  ]
+            },
+            {
+                  "name": "Noon Gun",
+                  "text": "Historic naval cannons situated on Signal Hill that are traditionally fired every day at exactly twelve o'clock.",
+                  "category": "landmark",
+                  "coords": [
+                        18.411543,
+                        -33.915119
+                  ]
+            },
+            {
+                  "name": "Galloway Theatre",
+                  "text": "An intimate fringe theatre located within the Waterfront Theatre School premises.",
+                  "category": "cultural",
+                  "coords": [
+                        18.421861,
+                        -33.914334
+                  ]
+            },
+            {
+                  "name": "The Pink Village",
+                  "text": "A distinctively pink-painted tourist enclave situated in the waterfront district.",
+                  "category": "landmark",
+                  "coords": [
+                        18.416429,
+                        -33.913797
+                  ]
+            },
+            {
+                  "name": "South African Maritime Museum",
+                  "text": "A museum exhibiting ship models and maritime artifacts that chronicle South Africa's seafaring history.",
+                  "category": "museum",
+                  "coords": [
+                        18.420099,
+                        -33.905636
+                  ]
+            },
+            {
+                  "name": "Table Mountain Yellow Frame (Silo District)",
+                  "text": "A bright yellow rectangular structure specifically positioned in the Silo District to frame photographs of Table Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422262,
+                        -33.908248
+                  ]
+            },
+            {
+                  "name": "Chavonnes Battery Museum",
+                  "text": "A historical museum built directly over the excavated archaeological ruins of an 18th-century Dutch East India Company coastal fortification.",
+                  "category": "museum",
+                  "coords": [
+                        18.421602,
+                        -33.907114
+                  ]
+            },
+            {
+                  "name": "Cape Town Creative Academy",
+                  "text": "An educational institution and gallery space dedicated to contemporary design and visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        18.423376,
+                        -33.90805
+                  ]
+            },
+            {
+                  "name": "Cape Quarter 'The Square'",
+                  "text": "A stylish courtyard shopping precinct situated in the historic De Waterkant neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417813,
+                        -33.915582
+                  ]
+            },
+            {
+                  "name": "Two Oceans Aquarium",
+                  "text": "A large public aquarium showcasing the diverse marine life found where the Indian and Atlantic oceans meet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41748,
+                        -33.908015
+                  ]
+            },
+            {
+                  "name": "Cape Wheel",
+                  "text": "A giant observation wheel at the V&A Waterfront that provides 360-degree panoramic views of the city and Table Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.41929,
+                        -33.902683
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [18.4223, -33.9073],
@@ -423,7 +2538,1060 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "rhodes-memorial-landmarks-v2",
+    id: "rhodes-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Queen's Blockhouse",
+                  "text": "Das Queen's Blockhouse umfasst die Steinruinen einer alten britischen Militärfestung am Berghang.",
+                  "category": "historical",
+                  "coords": [
+                        18.442035,
+                        -33.944535
+                  ]
+            },
+            {
+                  "name": "Woodstock Cave",
+                  "text": "Die Woodstock Cave ist eine große, zugängliche Berghöhle, die einen Panoramablick auf die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.441661,
+                        -33.949571
+                  ]
+            },
+            {
+                  "name": "Observatory War Memorial",
+                  "text": "Das Observatory War Memorial ist ein Bauwerk zum Gedenken an gefallene Soldaten der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        18.469728,
+                        -33.937667
+                  ]
+            },
+            {
+                  "name": "Rhodes Memorial",
+                  "text": "Das Rhodes Memorial ist ein Granitdenkmal am Berghang, das an Cecil John Rhodes erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.458922,
+                        -33.952351
+                  ]
+            },
+            {
+                  "name": "Theatre Arts",
+                  "text": "Theatre Arts ist ein unabhängiger Veranstaltungsort, der lokale Theaterproduktionen und Workshops beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.465932,
+                        -33.937257
+                  ]
+            },
+            {
+                  "name": "Heart of Cape Town Museum",
+                  "text": "Das Heart of Cape Town Museum widmet sich der Geschichte der weltweit ersten erfolgreichen Herztransplantation beim Menschen.",
+                  "category": "museum",
+                  "coords": [
+                        18.461395,
+                        -33.941111
+                  ]
+            },
+            {
+                  "name": "In Memoriam",
+                  "text": "In Memoriam ist ein Denkmal, das historischen Persönlichkeiten der Region Tribut zollt.",
+                  "category": "historical",
+                  "coords": [
+                        18.462193,
+                        -33.957893
+                  ]
+            },
+            {
+                  "name": "Lesley Charnock Gallery and Studio",
+                  "text": "Die Lesley Charnock Gallery and Studio ist ein Raum, der zeitgenössische Gemälde und Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.457469,
+                        -33.969894
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "Der Pulpit Rock ist eine markante geologische Felsformation, die Wanderer an den Berghängen anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        18.435115,
+                        -33.959572
+                  ]
+            },
+            {
+                  "name": "Minor Peak",
+                  "text": "Der Minor Peak ist ein Berggipfel, der erhöhte Wanderwege und malerische Aussichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.440597,
+                        -33.952332
+                  ]
+            },
+            {
+                  "name": "Devils Venster",
+                  "text": "Devils Venster ist eine natürliche Bergattraktion mit einer markanten Felsenfensterformation.",
+                  "category": "landmark",
+                  "coords": [
+                        18.440225,
+                        -33.95462
+                  ]
+            },
+            {
+                  "name": "King's Blockhouse",
+                  "text": "Das King's Blockhouse besteht aus den historischen Ruinen eines strategischen militärischen Aussichtspostens auf dem Berg.",
+                  "category": "historical",
+                  "coords": [
+                        18.450351,
+                        -33.950671
+                  ]
+            },
+            {
+                  "name": "Groote Schuur",
+                  "text": "Groote Schuur ist ein Museum in einem großartigen Anwesen in der Nähe der Rhodes Memorial-Wahrzeichen, das ursprünglich als Residenz der südafrikanischen Premierminister diente.",
+                  "category": "museum",
+                  "coords": [
+                        18.463991,
+                        -33.963727
+                  ]
+            },
+            {
+                  "name": "Irma Stern Museum",
+                  "text": "Das Irma Stern Museum stellt die farbenfrohen Kunstwerke und persönlichen Sammlungen der berühmten südafrikanischen Künstlerin im Bereich der Rhodes Memorial-Wahrzeichen aus.",
+                  "category": "museum",
+                  "coords": [
+                        18.469414,
+                        -33.952814
+                  ]
+            },
+            {
+                  "name": "Choo Choo Park",
+                  "text": "Der Choo Choo Park ist eine familienfreundliche grüne Erholungsfläche in der Nähe der Rhodes Memorial-Wahrzeichen und bietet Rasenflächen und Spielplätze für Kinder.",
+                  "category": "park",
+                  "coords": [
+                        18.483159,
+                        -33.978401
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's ist ein ruhiges Gotteshaus, das der lokalen Gemeinde im Bezirk der Rhodes Memorial-Wahrzeichen dient.",
+                  "category": "religious",
+                  "coords": [
+                        18.469459,
+                        -33.961804
+                  ]
+            },
+            {
+                  "name": "Magnet Theatre",
+                  "text": "Das Magnet Theatre ist ein lebendiger Veranstaltungsort für darstellende Künste in der Nähe der Rhodes Memorial-Wahrzeichen, bekannt für die Entwicklung lokaler physischer Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.467994,
+                        -33.935661
+                  ]
+            },
+            {
+                  "name": "Mowbray Townhall",
+                  "text": "Die Mowbray Townhall ist ein historisches Gebäude aus dem Jahr 1900, das die städtische Architektur im Bereich der Rhodes Memorial-Wahrzeichen bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.470963,
+                        -33.94934
+                  ]
+            },
+            {
+                  "name": "Rondebosch Park",
+                  "text": "Der Rondebosch Park ist ein weitläufiger Stadtpark mit hoch aufragenden Bäumen und Spazierwegen in der Nähe der Rhodes Memorial-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        18.476807,
+                        -33.964508
+                  ]
+            },
+            {
+                  "name": "Baxter Theatre Center",
+                  "text": "Das Baxter Theatre Center ist ein bekannter moderner Theaterkomplex in der Nähe der Rhodes Memorial-Wahrzeichen, der weltweit für seine vielfältigen kulturellen Aufführungen anerkannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        18.470562,
+                        -33.957024
+                  ]
+            },
+            {
+                  "name": "Joseph Stone Theatre",
+                  "text": "Das Joseph Stone Theatre ist ein intimer Veranstaltungsort für lokale Theater- und Musikveranstaltungen im Bereich der Rhodes Memorial-Wahrzeichen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.511243,
+                        -33.961346
+                  ]
+            },
+            {
+                  "name": "Keurboom Park",
+                  "text": "Der Keurboom Park ist ein hundefreundlicher, grüner öffentlicher Park mit weitläufigen Rasenflächen und schattenspendenden Bäumen in der Nähe der Rhodes Memorial-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        18.478108,
+                        -33.972965
+                  ]
+            },
+            {
+                  "name": "Peter Clarke Art Centre",
+                  "text": "Das Peter Clarke Art Centre ist eine Bildungseinrichtung für Kunst, die sich der Förderung visueller Kunstfertigkeiten bei Studenten in der Nähe der Rhodes Memorial-Wahrzeichen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.473379,
+                        -33.974117
+                  ]
+            },
+            {
+                  "name": "De Nieuwe Molen",
+                  "text": "De Nieuwe Molen ist eine historische Windmühle aus dem Jahr 1782 und ein bemerkenswertes landwirtschaftliches Erbe im Bereich der Rhodes Memorial-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.482305,
+                        -33.93256
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Blockhouse",
+                  "text": "Das Prince of Wales Blockhouse umfasst die steinernen Ruinen einer historischen militärischen Festung, die strategisch günstig in der Nähe der Rhodes Memorial-Wahrzeichen liegt.",
+                  "category": "historical",
+                  "coords": [
+                        18.453251,
+                        -33.941943
+                  ]
+            },
+            {
+                  "name": "Museum (Old Pass Court)",
+                  "text": "Das Museum im Old Pass Court bewahrt in seinen historischen Mauern im Bezirk der Rhodes Memorial-Wahrzeichen die lokale Verwaltungsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        18.525988,
+                        -33.944167
+                  ]
+            },
+            {
+                  "name": "Guga S'thebe Cultural Centre",
+                  "text": "Das Guga S'thebe Cultural Centre ist eine lebendige Attraktion, die sich der Stärkung lokaler Gemeinschaften durch Kunst und Erbe in der Nähe der Rhodes Memorial-Wahrzeichen widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.524422,
+                        -33.944208
+                  ]
+            },
+            {
+                  "name": "Mostert's Mill",
+                  "text": "Mostert's Mill ist eine historische Farm-Windmühle in der Nähe der Rhodes Memorial-Wahrzeichen, die als eine der ältesten und ikonischsten erhaltenen Mühlen der Region gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.46619,
+                        -33.952124
+                  ]
+            },
+            {
+                  "name": "Rosebank Theatre",
+                  "text": "Das Rosebank Theatre bietet einen gemütlichen Rahmen für unabhängige darstellende Künste und Gemeindetheater im Bereich der Rhodes Memorial-Wahrzeichen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.474308,
+                        -33.953987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Queen's Blockhouse",
+                  "text": "A Queen's Blockhouse egy régi brit katonai erődítmény kőromjait foglalja magába a hegyoldalban.",
+                  "category": "historical",
+                  "coords": [
+                        18.442035,
+                        -33.944535
+                  ]
+            },
+            {
+                  "name": "Woodstock Cave",
+                  "text": "A Woodstock Cave egy nagy, könnyen megközelíthető hegyi barlang, ahonnan panorámás kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        18.441661,
+                        -33.949571
+                  ]
+            },
+            {
+                  "name": "Observatory War Memorial",
+                  "text": "Az Observatory War Memorial a régió elesett katonáinak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        18.469728,
+                        -33.937667
+                  ]
+            },
+            {
+                  "name": "Rhodes Memorial",
+                  "text": "A Rhodes Memorial egy a hegyoldalban található gránitemlékmű, amely Cecil John Rhodesnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        18.458922,
+                        -33.952351
+                  ]
+            },
+            {
+                  "name": "Theatre Arts",
+                  "text": "A Theatre Arts egy független színházi tér, amely helyi drámai produkcióknak és workshopoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.465932,
+                        -33.937257
+                  ]
+            },
+            {
+                  "name": "Heart of Cape Town Museum",
+                  "text": "A Heart of Cape Town Museum a világ első sikeres emberi szívátültetésének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.461395,
+                        -33.941111
+                  ]
+            },
+            {
+                  "name": "In Memoriam",
+                  "text": "Az In Memoriam egy emlékmű, amely a régió történelmi személyiségei előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        18.462193,
+                        -33.957893
+                  ]
+            },
+            {
+                  "name": "Lesley Charnock Gallery and Studio",
+                  "text": "A Lesley Charnock Gallery and Studio kortárs festményeket és művészeti alkotásokat bemutató tér.",
+                  "category": "museum",
+                  "coords": [
+                        18.457469,
+                        -33.969894
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "A Pulpit Rock egy kiemelkedő geológiai sziklaalakzat, amely a hegyoldalban vonzza a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.435115,
+                        -33.959572
+                  ]
+            },
+            {
+                  "name": "Minor Peak",
+                  "text": "A Minor Peak egy hegycsúcs, amely magaslati túraútvonalakat és festői kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.440597,
+                        -33.952332
+                  ]
+            },
+            {
+                  "name": "Devils Venster",
+                  "text": "A Devils Venster egy természetes hegyi látványosság, amely egy jellegzetes sziklaablakot formáz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.440225,
+                        -33.95462
+                  ]
+            },
+            {
+                  "name": "King's Blockhouse",
+                  "text": "A King's Blockhouse egy stratégiai katonai kilátó történelmi romjaiból áll a hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        18.450351,
+                        -33.950671
+                  ]
+            },
+            {
+                  "name": "Groote Schuur",
+                  "text": "A Groote Schuur egy lenyűgöző birtokon található múzeum a Rhodes-emlékmű közelében, amely eredetileg a dél-afrikai miniszterelnökök rezidenciája volt.",
+                  "category": "museum",
+                  "coords": [
+                        18.463991,
+                        -33.963727
+                  ]
+            },
+            {
+                  "name": "Irma Stern Museum",
+                  "text": "Az Irma Stern Múzeum a neves dél-afrikai művész élénk alkotásait és személyes gyűjteményeit állítja ki a Rhodes-emlékmű területén.",
+                  "category": "museum",
+                  "coords": [
+                        18.469414,
+                        -33.952814
+                  ]
+            },
+            {
+                  "name": "Choo Choo Park",
+                  "text": "A Choo Choo Park egy családbarát füves rekreációs terület a Rhodes-emlékmű környékén, amely játszóterekkel várja a gyerekeket.",
+                  "category": "park",
+                  "coords": [
+                        18.483159,
+                        -33.978401
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "A St Paul's egy békés istentiszteleti hely, amely a helyi közösséget szolgálja a Rhodes-emlékmű negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        18.469459,
+                        -33.961804
+                  ]
+            },
+            {
+                  "name": "Magnet Theatre",
+                  "text": "A Magnet Theatre egy pezsgő előadó-művészeti helyszín a Rhodes-emlékmű környékén, amely helyi fizikai színházi produkciók fejlesztéséről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.467994,
+                        -33.935661
+                  ]
+            },
+            {
+                  "name": "Mowbray Townhall",
+                  "text": "A Mowbray Townhall egy 1900-ban épült örökségvédelmi épület, amely a történelmi polgári építészetet őrzi a Rhodes-emlékmű negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.470963,
+                        -33.94934
+                  ]
+            },
+            {
+                  "name": "Rondebosch Park",
+                  "text": "A Rondebosch Park egy kiterjedt városi park magas fákkal és sétányokkal a Rhodes-emlékmű nevezetességei közelében.",
+                  "category": "park",
+                  "coords": [
+                        18.476807,
+                        -33.964508
+                  ]
+            },
+            {
+                  "name": "Baxter Theatre Center",
+                  "text": "A Baxter Theatre Center egy kiemelkedő modern színházi komplexum a Rhodes-emlékmű közelében, amely a legkülönfélébb kulturális előadások színreviteléről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.470562,
+                        -33.957024
+                  ]
+            },
+            {
+                  "name": "Joseph Stone Theatre",
+                  "text": "A Joseph Stone Theatre egy meghitt előadóhely, amely helyi színházi és zenei eseményeknek ad otthont a Rhodes-emlékmű környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.511243,
+                        -33.961346
+                  ]
+            },
+            {
+                  "name": "Keurboom Park",
+                  "text": "A Keurboom Park egy lombos, kutyabarát közpark, amely hatalmas füves pázsittal és árnyékot adó fákkal várja a látogatókat a Rhodes-emlékmű közelében.",
+                  "category": "park",
+                  "coords": [
+                        18.478108,
+                        -33.972965
+                  ]
+            },
+            {
+                  "name": "Peter Clarke Art Centre",
+                  "text": "A Peter Clarke Art Centre egy oktatási művészeti intézmény, amely a diákok vizuális művészeti készségeinek fejlesztésére összpontosít a Rhodes-emlékmű környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.473379,
+                        -33.974117
+                  ]
+            },
+            {
+                  "name": "De Nieuwe Molen",
+                  "text": "A De Nieuwe Molen egy 1782-ből származó történelmi szélmalom, amely figyelemre méltó mezőgazdasági örökségként áll a Rhodes-emlékmű nevezetességeinek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.482305,
+                        -33.93256
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Blockhouse",
+                  "text": "A Prince of Wales Blockhouse egy történelmi katonai erődítmény kőromja, amely védelmi céllal épült a Rhodes-emlékmű nevezetességei közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.453251,
+                        -33.941943
+                  ]
+            },
+            {
+                  "name": "Museum (Old Pass Court)",
+                  "text": "Az Old Pass Court-i Múzeum a helyi közigazgatási történelmet őrzi történelmi falai között a Rhodes-emlékmű negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        18.525988,
+                        -33.944167
+                  ]
+            },
+            {
+                  "name": "Guga S'thebe Cultural Centre",
+                  "text": "A Guga S'thebe Kulturális Központ egy pezsgő látványosság, amely a helyi közösségek művészeten és örökségen keresztüli megerősítését szolgálja a Rhodes-emlékmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.524422,
+                        -33.944208
+                  ]
+            },
+            {
+                  "name": "Mostert's Mill",
+                  "text": "A Mostert's Mill egy történelmi tanyasi szélmalom a Rhodes-emlékmű közelében, amelyet a régió egyik legrégebbi és legikonikusabb fennmaradt malmaként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        18.46619,
+                        -33.952124
+                  ]
+            },
+            {
+                  "name": "Rosebank Theatre",
+                  "text": "A Rosebank Színház hangulatos környezetet biztosít független előadó-művészeti és közösségi színdarabok számára a Rhodes-emlékmű környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.474308,
+                        -33.953987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Queen's Blockhouse",
+                  "text": "Queen's Blockhouse conține ruinele de piatră ale unei vechi fortificații militare britanice de pe versantul muntelui.",
+                  "category": "historical",
+                  "coords": [
+                        18.442035,
+                        -33.944535
+                  ]
+            },
+            {
+                  "name": "Woodstock Cave",
+                  "text": "Peștera Woodstock este o cavernă montană accesibilă, care oferă vederi panoramice asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        18.441661,
+                        -33.949571
+                  ]
+            },
+            {
+                  "name": "Observatory War Memorial",
+                  "text": "Observatory War Memorial este un monument dedicat soldaților căzuți din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        18.469728,
+                        -33.937667
+                  ]
+            },
+            {
+                  "name": "Rhodes Memorial",
+                  "text": "Rhodes Memorial este o atracție din granit situată pe versanții muntelui, dedicată lui Cecil John Rhodes.",
+                  "category": "landmark",
+                  "coords": [
+                        18.458922,
+                        -33.952351
+                  ]
+            },
+            {
+                  "name": "Theatre Arts",
+                  "text": "Theatre Arts este un spațiu independent ce găzduiește producții teatrale și ateliere locale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.465932,
+                        -33.937257
+                  ]
+            },
+            {
+                  "name": "Heart of Cape Town Museum",
+                  "text": "Muzeul Heart of Cape Town este dedicat istoriei primului transplant de inimă umană reușit din lume.",
+                  "category": "museum",
+                  "coords": [
+                        18.461395,
+                        -33.941111
+                  ]
+            },
+            {
+                  "name": "In Memoriam",
+                  "text": "In Memoriam este o structură monumentală dedicată figurilor istorice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        18.462193,
+                        -33.957893
+                  ]
+            },
+            {
+                  "name": "Lesley Charnock Gallery and Studio",
+                  "text": "Lesley Charnock Gallery and Studio este un spațiu expozițional dedicat picturilor și operelor de artă contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        18.457469,
+                        -33.969894
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "Pulpit Rock este o formațiune geologică naturală proeminentă, care atrage drumeții pe versanții muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        18.435115,
+                        -33.959572
+                  ]
+            },
+            {
+                  "name": "Minor Peak",
+                  "text": "Minor Peak este un vârf montan ce oferă trasee de drumeție la altitudine și priveliști pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        18.440597,
+                        -33.952332
+                  ]
+            },
+            {
+                  "name": "Devils Venster",
+                  "text": "Devils Venster este o atracție montană naturală, caracterizată printr-o formațiune stâncoasă în formă de fereastră.",
+                  "category": "landmark",
+                  "coords": [
+                        18.440225,
+                        -33.95462
+                  ]
+            },
+            {
+                  "name": "King's Blockhouse",
+                  "text": "King's Blockhouse cuprinde ruinele istorice ale unui post de observație militar strategic situat pe munte.",
+                  "category": "historical",
+                  "coords": [
+                        18.450351,
+                        -33.950671
+                  ]
+            },
+            {
+                  "name": "Groote Schuur",
+                  "text": "Groote Schuur este un muzeu situat pe un domeniu grandios lângă reperele Rhodes Memorial, servind inițial ca reședință a prim-miniștrilor sud-africani.",
+                  "category": "museum",
+                  "coords": [
+                        18.463991,
+                        -33.963727
+                  ]
+            },
+            {
+                  "name": "Irma Stern Museum",
+                  "text": "Muzeul Irma Stern expune operele de artă vibrante și colecțiile personale ale renumitei artiste sud-africane în zona reperelor Rhodes Memorial.",
+                  "category": "museum",
+                  "coords": [
+                        18.469414,
+                        -33.952814
+                  ]
+            },
+            {
+                  "name": "Choo Choo Park",
+                  "text": "Choo Choo Park este un spațiu verde de recreere pentru familii, situat lângă reperele Rhodes Memorial, oferind zone cu iarbă și locuri de joacă pentru copii.",
+                  "category": "park",
+                  "coords": [
+                        18.483159,
+                        -33.978401
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's este un lăcaș de cult liniștit care deservește comunitatea locală în cartierul reperelor Rhodes Memorial.",
+                  "category": "religious",
+                  "coords": [
+                        18.469459,
+                        -33.961804
+                  ]
+            },
+            {
+                  "name": "Magnet Theatre",
+                  "text": "Magnet Theatre este o locație vibrantă de arte teatrale în zona reperelor Rhodes Memorial, cunoscută pentru dezvoltarea producțiilor locale de teatru fizic.",
+                  "category": "cultural",
+                  "coords": [
+                        18.467994,
+                        -33.935661
+                  ]
+            },
+            {
+                  "name": "Mowbray Townhall",
+                  "text": "Mowbray Townhall este o clădire de patrimoniu construită în 1900, păstrând arhitectura civică istorică în zona reperelor Rhodes Memorial.",
+                  "category": "landmark",
+                  "coords": [
+                        18.470963,
+                        -33.94934
+                  ]
+            },
+            {
+                  "name": "Rondebosch Park",
+                  "text": "Rondebosch Park este un parc urban extins, cu copaci înalți și alei pentru plimbare, situat lângă reperele Rhodes Memorial.",
+                  "category": "park",
+                  "coords": [
+                        18.476807,
+                        -33.964508
+                  ]
+            },
+            {
+                  "name": "Baxter Theatre Center",
+                  "text": "Baxter Theatre Center este un complex teatral modern proeminent din apropierea reperelor Rhodes Memorial, recunoscut la nivel global pentru punerea în scenă a diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.470562,
+                        -33.957024
+                  ]
+            },
+            {
+                  "name": "Joseph Stone Theatre",
+                  "text": "Joseph Stone Theatre servește ca o locație intimă de spectacole, găzduind evenimente teatrale și muzicale locale în zona reperelor Rhodes Memorial.",
+                  "category": "cultural",
+                  "coords": [
+                        18.511243,
+                        -33.961346
+                  ]
+            },
+            {
+                  "name": "Keurboom Park",
+                  "text": "Keurboom Park este un parc public înfrunzit, prietenos cu câinii, oferind peluze extinse și copaci umbroși lângă reperele Rhodes Memorial.",
+                  "category": "park",
+                  "coords": [
+                        18.478108,
+                        -33.972965
+                  ]
+            },
+            {
+                  "name": "Peter Clarke Art Centre",
+                  "text": "Peter Clarke Art Centre este o facilitate educațională de arte dedicată cultivării abilităților de arte vizuale în rândul studenților din apropierea reperelor Rhodes Memorial.",
+                  "category": "cultural",
+                  "coords": [
+                        18.473379,
+                        -33.974117
+                  ]
+            },
+            {
+                  "name": "De Nieuwe Molen",
+                  "text": "De Nieuwe Molen este o moară de vânt istorică ce datează din 1782, reprezentând o piesă remarcabilă de patrimoniu agricol în zona reperelor Rhodes Memorial.",
+                  "category": "landmark",
+                  "coords": [
+                        18.482305,
+                        -33.93256
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Blockhouse",
+                  "text": "Prince of Wales Blockhouse prezintă ruinele de piatră ale unei fortificații militare istorice situate strategic lângă reperele Rhodes Memorial.",
+                  "category": "historical",
+                  "coords": [
+                        18.453251,
+                        -33.941943
+                  ]
+            },
+            {
+                  "name": "Museum (Old Pass Court)",
+                  "text": "Muzeul din Old Pass Court păstrează istoria administrativă locală între pereții săi istorici din cartierul reperelor Rhodes Memorial.",
+                  "category": "museum",
+                  "coords": [
+                        18.525988,
+                        -33.944167
+                  ]
+            },
+            {
+                  "name": "Guga S'thebe Cultural Centre",
+                  "text": "Centrul Cultural Guga S'thebe este o atracție vibrantă dedicată împuternicirii comunităților locale prin artă și patrimoniu, lângă reperele Rhodes Memorial.",
+                  "category": "landmark",
+                  "coords": [
+                        18.524422,
+                        -33.944208
+                  ]
+            },
+            {
+                  "name": "Mostert's Mill",
+                  "text": "Moara Mostert este o moară de vânt istorică de fermă lângă reperele Rhodes Memorial, recunoscută ca una dintre cele mai vechi și emblematice mori supraviețuitoare din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        18.46619,
+                        -33.952124
+                  ]
+            },
+            {
+                  "name": "Rosebank Theatre",
+                  "text": "Teatrul Rosebank oferă un cadru intim pentru arte teatrale independente și piese comunitare în zona reperelor Rhodes Memorial.",
+                  "category": "cultural",
+                  "coords": [
+                        18.474308,
+                        -33.953987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Queen's Blockhouse",
+                  "text": "The Queen's Blockhouse features the stone ruins of an old British military fortification on the mountain slopes.",
+                  "category": "historical",
+                  "coords": [
+                        18.442035,
+                        -33.944535
+                  ]
+            },
+            {
+                  "name": "Woodstock Cave",
+                  "text": "Woodstock Cave is a large, accessible mountain cavern offering panoramic views of the city below.",
+                  "category": "natural",
+                  "coords": [
+                        18.441661,
+                        -33.949571
+                  ]
+            },
+            {
+                  "name": "Observatory War Memorial",
+                  "text": "The Observatory War Memorial is a commemorative structure honoring fallen local soldiers.",
+                  "category": "landmark",
+                  "coords": [
+                        18.469728,
+                        -33.937667
+                  ]
+            },
+            {
+                  "name": "Rhodes Memorial",
+                  "text": "Rhodes Memorial is a granite attraction built on the mountain slopes in memory of Cecil John Rhodes.",
+                  "category": "landmark",
+                  "coords": [
+                        18.458922,
+                        -33.952351
+                  ]
+            },
+            {
+                  "name": "Theatre Arts",
+                  "text": "Theatre Arts is an independent venue hosting local dramatic productions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        18.465932,
+                        -33.937257
+                  ]
+            },
+            {
+                  "name": "Heart of Cape Town Museum",
+                  "text": "The Heart of Cape Town Museum is dedicated to the history of the world's first successful human heart transplant.",
+                  "category": "museum",
+                  "coords": [
+                        18.461395,
+                        -33.941111
+                  ]
+            },
+            {
+                  "name": "In Memoriam",
+                  "text": "In Memoriam is a monumental structure paying tribute to historical figures of the area.",
+                  "category": "historical",
+                  "coords": [
+                        18.462193,
+                        -33.957893
+                  ]
+            },
+            {
+                  "name": "Lesley Charnock Gallery and Studio",
+                  "text": "The Lesley Charnock Gallery and Studio is a space showcasing contemporary paintings and artworks.",
+                  "category": "museum",
+                  "coords": [
+                        18.457469,
+                        -33.969894
+                  ]
+            },
+            {
+                  "name": "Pulpit Rock",
+                  "text": "Pulpit Rock is a prominent natural geological formation attracting hikers on the mountain slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        18.435115,
+                        -33.959572
+                  ]
+            },
+            {
+                  "name": "Minor Peak",
+                  "text": "Minor Peak is a mountainous summit offering elevated hiking trails and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        18.440597,
+                        -33.952332
+                  ]
+            },
+            {
+                  "name": "Devils Venster",
+                  "text": "Devils Venster is a natural mountain attraction featuring a rugged rocky window formation.",
+                  "category": "landmark",
+                  "coords": [
+                        18.440225,
+                        -33.95462
+                  ]
+            },
+            {
+                  "name": "King's Blockhouse",
+                  "text": "The King's Blockhouse comprises the historic ruins of a strategic military lookout structure on the mountain.",
+                  "category": "historical",
+                  "coords": [
+                        18.450351,
+                        -33.950671
+                  ]
+            },
+            {
+                  "name": "Groote Schuur",
+                  "text": "Groote Schuur is a museum set in a grand estate located near the Rhodes Memorial landmarks, originally the residence of South African Prime Ministers.",
+                  "category": "museum",
+                  "coords": [
+                        18.463991,
+                        -33.963727
+                  ]
+            },
+            {
+                  "name": "Irma Stern Museum",
+                  "text": "The Irma Stern Museum exhibits the vibrant artworks and personal collections of the renowned South African artist within the Rhodes Memorial landmarks area.",
+                  "category": "museum",
+                  "coords": [
+                        18.469414,
+                        -33.952814
+                  ]
+            },
+            {
+                  "name": "Choo Choo Park",
+                  "text": "Choo Choo Park is a family-friendly recreational green space near the Rhodes Memorial landmarks area, offering grassy areas and play spots for children.",
+                  "category": "park",
+                  "coords": [
+                        18.483159,
+                        -33.978401
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's is a serene place of worship serving the local community within the Rhodes Memorial landmarks district.",
+                  "category": "religious",
+                  "coords": [
+                        18.469459,
+                        -33.961804
+                  ]
+            },
+            {
+                  "name": "Magnet Theatre",
+                  "text": "The Magnet Theatre is a vibrant performing arts venue in the Rhodes Memorial landmarks area, known for developing local physical theatre productions.",
+                  "category": "cultural",
+                  "coords": [
+                        18.467994,
+                        -33.935661
+                  ]
+            },
+            {
+                  "name": "Mowbray Townhall",
+                  "text": "Mowbray Townhall is a heritage building constructed in 1900, preserving historic civic architecture within the Rhodes Memorial landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.470963,
+                        -33.94934
+                  ]
+            },
+            {
+                  "name": "Rondebosch Park",
+                  "text": "Rondebosch Park is an expansive urban park featuring towering trees and walking paths situated near the Rhodes Memorial landmarks.",
+                  "category": "park",
+                  "coords": [
+                        18.476807,
+                        -33.964508
+                  ]
+            },
+            {
+                  "name": "Baxter Theatre Center",
+                  "text": "The Baxter Theatre Center is a prominent modern theatre complex near the Rhodes Memorial landmarks, recognized globally for staging diverse cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.470562,
+                        -33.957024
+                  ]
+            },
+            {
+                  "name": "Joseph Stone Theatre",
+                  "text": "The Joseph Stone Theatre serves as an intimate performance venue hosting local theatrical and musical events in the Rhodes Memorial landmarks area.",
+                  "category": "cultural",
+                  "coords": [
+                        18.511243,
+                        -33.961346
+                  ]
+            },
+            {
+                  "name": "Keurboom Park",
+                  "text": "Keurboom Park is a leafy, dog-friendly public park providing expansive grassy lawns and shade trees near the Rhodes Memorial landmarks.",
+                  "category": "park",
+                  "coords": [
+                        18.478108,
+                        -33.972965
+                  ]
+            },
+            {
+                  "name": "Peter Clarke Art Centre",
+                  "text": "The Peter Clarke Art Centre is an educational arts facility dedicated to nurturing visual arts skills among students near the Rhodes Memorial landmarks.",
+                  "category": "cultural",
+                  "coords": [
+                        18.473379,
+                        -33.974117
+                  ]
+            },
+            {
+                  "name": "De Nieuwe Molen",
+                  "text": "De Nieuwe Molen is a historic windmill dating back to 1782, standing as a remarkable piece of agricultural heritage within the Rhodes Memorial landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.482305,
+                        -33.93256
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Blockhouse",
+                  "text": "The Prince of Wales Blockhouse features the stony ruins of a historic military fortification situated defensively near the Rhodes Memorial landmarks.",
+                  "category": "historical",
+                  "coords": [
+                        18.453251,
+                        -33.941943
+                  ]
+            },
+            {
+                  "name": "Museum (Old Pass Court)",
+                  "text": "The Museum in the Old Pass Court preserves local administrative history within its historic walls in the Rhodes Memorial landmarks district.",
+                  "category": "museum",
+                  "coords": [
+                        18.525988,
+                        -33.944167
+                  ]
+            },
+            {
+                  "name": "Guga S'thebe Cultural Centre",
+                  "text": "The Guga S'thebe Cultural Centre is a vibrant attraction dedicated to empowering local communities through art and heritage near the Rhodes Memorial landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        18.524422,
+                        -33.944208
+                  ]
+            },
+            {
+                  "name": "Mostert's Mill",
+                  "text": "Mostert's Mill is a historic farm windmill near the Rhodes Memorial landmarks, recognized as one of the oldest and most iconic surviving mills in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        18.46619,
+                        -33.952124
+                  ]
+            },
+            {
+                  "name": "Rosebank Theatre",
+                  "text": "The Rosebank Theatre offers a cozy setting for independent performing arts and community plays within the Rhodes Memorial landmarks area.",
+                  "category": "cultural",
+                  "coords": [
+                        18.474308,
+                        -33.953987
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [18.4583, -33.9515],
@@ -483,7 +3651,376 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hillbrow-tower-landmarks-v2",
+    id: "hillbrow-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Munro Drive Viewpoint",
+                  "text": "Dieser Aussichtspunkt an den Klippen bietet einen spektakulären Panoramablick über die Baumkronen der nördlichen Vororte.",
+                  "category": "natural",
+                  "coords": [
+                        28.059011,
+                        -26.172129
+                  ]
+            },
+            {
+                  "name": "Little Brenthurst",
+                  "text": "Dieses stattliche Herrenhaus ist von weitläufigen, kunstvoll angelegten Gärten und alten Bäumen umgeben.",
+                  "category": "historical",
+                  "coords": [
+                        28.046474,
+                        -26.169836
+                  ]
+            },
+            {
+                  "name": "Brenhurst",
+                  "text": "Das historische Anwesen zeichnet sich durch seine klassische Architektur und die prächtigen Gartenanlagen aus.",
+                  "category": "historical",
+                  "coords": [
+                        28.045416,
+                        -26.172796
+                  ]
+            },
+            {
+                  "name": "Pro Patria",
+                  "text": "Dieses imposante Denkmal ehrt mit seinen steinernen Inschriften den militärischen Einsatz für das Vaterland.",
+                  "category": "historical",
+                  "coords": [
+                        28.045415,
+                        -26.180446
+                  ]
+            },
+            {
+                  "name": "Hillbrow tower",
+                  "text": "Der massive Telekommunikationsturm prägt mit seiner enormen Höhe die Skyline der Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        28.049276,
+                        -26.186991
+                  ]
+            },
+            {
+                  "name": "Windybrow Theatre",
+                  "text": "Dieses lebendige Theater befindet sich in einem aufwendig restaurierten viktorianischen Herrenhaus.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050805,
+                        -26.19212
+                  ]
+            },
+            {
+                  "name": "Johannesburg Zoo",
+                  "text": "Auf diesem weitläufigen Gelände können Besucher eine Vielzahl afrikanischer und exotischer Tierarten beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        28.037678,
+                        -26.166245
+                  ]
+            },
+            {
+                  "name": "Wits Linder Auditorium",
+                  "text": "Der moderne Konzertsaal auf dem Universitätscampus ist für seine hervorragende Akustik bei klassischen Aufführungen bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        28.042073,
+                        -26.178081
+                  ]
+            },
+            {
+                  "name": "The Wilds Nature Reserve",
+                  "text": "Das städtische Naturschutzgebiet bietet gewundene Pfade durch dichte, einheimische Vegetation an den Hängen.",
+                  "category": "natural",
+                  "coords": [
+                        28.053082,
+                        -26.173313
+                  ]
+            },
+            {
+                  "name": "National Museum of Military History",
+                  "text": "Die umfangreichen Ausstellungsräume präsentieren historische Flugzeuge, Panzer und detaillierte Aufzeichnungen südafrikanischer Konflikte.",
+                  "category": "museum",
+                  "coords": [
+                        28.041902,
+                        -26.163302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Munro Drive Viewpoint",
+                  "text": "Ez a sziklafalon található kilátó látványos panorámát nyújt az északi külvárosok lombkoronái felett.",
+                  "category": "natural",
+                  "coords": [
+                        28.059011,
+                        -26.172129
+                  ]
+            },
+            {
+                  "name": "Little Brenthurst",
+                  "text": "Ezt a tekintélyes kúriát kiterjedt, gondosan megtervezett kertek és ősfák veszik körül.",
+                  "category": "historical",
+                  "coords": [
+                        28.046474,
+                        -26.169836
+                  ]
+            },
+            {
+                  "name": "Brenhurst",
+                  "text": "A történelmi birtok klasszikus építészetével és pompás kertjeivel tűnik ki.",
+                  "category": "historical",
+                  "coords": [
+                        28.045416,
+                        -26.172796
+                  ]
+            },
+            {
+                  "name": "Pro Patria",
+                  "text": "Ez az impozáns emlékmű kőbe vésett felirataival a hazáért tett katonai áldozatok előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        28.045415,
+                        -26.180446
+                  ]
+            },
+            {
+                  "name": "Hillbrow tower",
+                  "text": "A hatalmas telekommunikációs torony lenyűgöző magasságával uralja a város látképét.",
+                  "category": "tower",
+                  "coords": [
+                        28.049276,
+                        -26.186991
+                  ]
+            },
+            {
+                  "name": "Windybrow Theatre",
+                  "text": "Ez a nyüzsgő színház egy gondosan felújított viktoriánus kúriában működik.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050805,
+                        -26.19212
+                  ]
+            },
+            {
+                  "name": "Johannesburg Zoo",
+                  "text": "Ezen a hatalmas területen a látogatók afrikai és egzotikus állatfajok sokaságát figyelhetik meg.",
+                  "category": "recreational",
+                  "coords": [
+                        28.037678,
+                        -26.166245
+                  ]
+            },
+            {
+                  "name": "Wits Linder Auditorium",
+                  "text": "Az egyetemi kampuszon található modern koncertterem kiváló akusztikájáról ismert a klasszikus zenei előadásokon.",
+                  "category": "cultural",
+                  "coords": [
+                        28.042073,
+                        -26.178081
+                  ]
+            },
+            {
+                  "name": "The Wilds Nature Reserve",
+                  "text": "A városi természetvédelmi terület kanyargós ösvényeket kínál a domboldalak sűrű, őshonos növényzetén keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        28.053082,
+                        -26.173313
+                  ]
+            },
+            {
+                  "name": "National Museum of Military History",
+                  "text": "A kiterjedt kiállítótermek történelmi repülőgépeket, tankokat és a dél-afrikai konfliktusok részletes feljegyzéseit mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        28.041902,
+                        -26.163302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Munro Drive Viewpoint",
+                  "text": "Acest punct de belvedere de pe stânci oferă o panoramă spectaculoasă peste coroanele copacilor din suburbiile nordice.",
+                  "category": "natural",
+                  "coords": [
+                        28.059011,
+                        -26.172129
+                  ]
+            },
+            {
+                  "name": "Little Brenthurst",
+                  "text": "Acest conac impunător este înconjurat de grădini extinse, amenajate artistic, și de copaci seculari.",
+                  "category": "historical",
+                  "coords": [
+                        28.046474,
+                        -26.169836
+                  ]
+            },
+            {
+                  "name": "Brenhurst",
+                  "text": "Această proprietate istorică se remarcă prin arhitectura sa clasică și prin grădinile magnifice.",
+                  "category": "historical",
+                  "coords": [
+                        28.045416,
+                        -26.172796
+                  ]
+            },
+            {
+                  "name": "Pro Patria",
+                  "text": "Acest monument impunător onorează, prin inscripțiile sale de piatră, sacrificiul militar pentru patrie.",
+                  "category": "historical",
+                  "coords": [
+                        28.045415,
+                        -26.180446
+                  ]
+            },
+            {
+                  "name": "Hillbrow tower",
+                  "text": "Turnul masiv de telecomunicații domină orizontul orașului prin înălțimea sa impresionantă.",
+                  "category": "tower",
+                  "coords": [
+                        28.049276,
+                        -26.186991
+                  ]
+            },
+            {
+                  "name": "Windybrow Theatre",
+                  "text": "Acest teatru plin de viață funcționează într-un conac victorian restaurat cu grijă.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050805,
+                        -26.19212
+                  ]
+            },
+            {
+                  "name": "Johannesburg Zoo",
+                  "text": "În acest vast parc zoologic, vizitatorii pot observa o mare varietate de specii de animale africane și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        28.037678,
+                        -26.166245
+                  ]
+            },
+            {
+                  "name": "Wits Linder Auditorium",
+                  "text": "Această sală modernă de concerte din campusul universitar este renumită pentru acustica sa excelentă la spectacolele clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        28.042073,
+                        -26.178081
+                  ]
+            },
+            {
+                  "name": "The Wilds Nature Reserve",
+                  "text": "Rezervația naturală urbană oferă cărări șerpuite prin vegetația autohtonă densă de pe versanți.",
+                  "category": "natural",
+                  "coords": [
+                        28.053082,
+                        -26.173313
+                  ]
+            },
+            {
+                  "name": "National Museum of Military History",
+                  "text": "Sălile ample de expoziție prezintă avioane istorice, tancuri și înregistrări detaliate ale conflictelor sud-africane.",
+                  "category": "museum",
+                  "coords": [
+                        28.041902,
+                        -26.163302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Munro Drive Viewpoint",
+                  "text": "This cliffside viewpoint offers a spectacular panoramic vista over the tree canopy of the northern suburbs.",
+                  "category": "natural",
+                  "coords": [
+                        28.059011,
+                        -26.172129
+                  ]
+            },
+            {
+                  "name": "Little Brenthurst",
+                  "text": "This stately manor house is surrounded by extensive, artistically landscaped gardens and mature trees.",
+                  "category": "historical",
+                  "coords": [
+                        28.046474,
+                        -26.169836
+                  ]
+            },
+            {
+                  "name": "Brenhurst",
+                  "text": "This historic manor estate is distinguished by its classic architecture and magnificent landscaped grounds.",
+                  "category": "historical",
+                  "coords": [
+                        28.045416,
+                        -26.172796
+                  ]
+            },
+            {
+                  "name": "Pro Patria",
+                  "text": "This imposing monument with its stone inscriptions honors military sacrifice for the homeland.",
+                  "category": "historical",
+                  "coords": [
+                        28.045415,
+                        -26.180446
+                  ]
+            },
+            {
+                  "name": "Hillbrow tower",
+                  "text": "This massive telecommunications tower dominates the city skyline with its immense height.",
+                  "category": "tower",
+                  "coords": [
+                        28.049276,
+                        -26.186991
+                  ]
+            },
+            {
+                  "name": "Windybrow Theatre",
+                  "text": "This vibrant performing arts theatre is housed within a beautifully restored Victorian manor.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050805,
+                        -26.19212
+                  ]
+            },
+            {
+                  "name": "Johannesburg Zoo",
+                  "text": "This expansive zoological garden houses a diverse array of African and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        28.037678,
+                        -26.166245
+                  ]
+            },
+            {
+                  "name": "Wits Linder Auditorium",
+                  "text": "This modern concert auditorium on the university campus is renowned for its excellent acoustics during classical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.042073,
+                        -26.178081
+                  ]
+            },
+            {
+                  "name": "The Wilds Nature Reserve",
+                  "text": "This municipal nature reserve features winding trails through dense, indigenous hillside vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        28.053082,
+                        -26.173313
+                  ]
+            },
+            {
+                  "name": "National Museum of Military History",
+                  "text": "The extensive exhibition halls display historic aircraft, tanks, and detailed records of South African conflicts.",
+                  "category": "museum",
+                  "coords": [
+                        28.041902,
+                        -26.163302
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0485, -26.1873],
@@ -543,7 +4080,268 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "the-leonardo-landmarks-v2",
+    id: "the-leonardo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Melrose Bird Sanctuary Park",
+                  "text": "Dieses Naturschutzgebiet umfasst ein geschütztes Feuchtgebiet, das speziell für den Vogelschutz in Melrose unterhalten wird.",
+                  "category": "natural",
+                  "coords": [
+                        28.063056,
+                        -26.138889
+                  ]
+            },
+            {
+                  "name": "Katyn Memorial",
+                  "text": "Dieses Museum und die Gedenkstätte ehren das Andenken an die Opfer des Massakers von Katyn.",
+                  "category": "museum",
+                  "coords": [
+                        28.064288,
+                        -26.142444
+                  ]
+            },
+            {
+                  "name": "Theatre on the Square",
+                  "text": "Dieses lebendige Theater am Nelson Mandela Square produziert eine Reihe zeitgenössischer dramatischer Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.055439,
+                        -26.107237
+                  ]
+            },
+            {
+                  "name": "CAPAGO SANDTON",
+                  "text": "Diese Einrichtung dient als offizielles Bearbeitungszentrum für europäische Visumanträge in Sandton.",
+                  "category": "landmark",
+                  "coords": [
+                        28.057738,
+                        -26.111499
+                  ]
+            },
+            {
+                  "name": "Mandela House Alexandra",
+                  "text": "Dieses bescheidene Museum bewahrt den kleinen Raum im Township Alexandra, in dem Nelson Mandela in seiner Jugend lebte.",
+                  "category": "museum",
+                  "coords": [
+                        28.093125,
+                        -26.10468
+                  ]
+            },
+            {
+                  "name": "Great-Park Synagogue",
+                  "text": "Diese prächtige Synagoge ist ein bedeutendes Zentrum des jüdischen Gottesdienstes und des kulturellen Erbes in Johannesburg.",
+                  "category": "religious",
+                  "coords": [
+                        28.061018,
+                        -26.146435
+                  ]
+            },
+            {
+                  "name": "Tethered balloon",
+                  "text": "Diese einzigartige Attraktion befördert Besucher in einem Fesselballon in die Höhe, um die Luftaufnahme des Stadtbildes zu genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.062132,
+                        -26.105049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Melrose Bird Sanctuary Park",
+                  "text": "Ez a természetvédelmi terület egy védett vizes élőhelyet foglal magában, amelyet kifejezetten a madarak védelmére tartanak fenn Melrose-ban.",
+                  "category": "natural",
+                  "coords": [
+                        28.063056,
+                        -26.138889
+                  ]
+            },
+            {
+                  "name": "Katyn Memorial",
+                  "text": "Ez a múzeum és emlékhely a katyni mészárlás áldozatainak emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        28.064288,
+                        -26.142444
+                  ]
+            },
+            {
+                  "name": "Theatre on the Square",
+                  "text": "A Nelson Mandela téren található nyüzsgő színház számos kortárs drámai előadást mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        28.055439,
+                        -26.107237
+                  ]
+            },
+            {
+                  "name": "CAPAGO SANDTON",
+                  "text": "Ez a létesítmény az európai vízumkérelmek hivatalos feldolgozó központjaként szolgál Sandtonban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.057738,
+                        -26.111499
+                  ]
+            },
+            {
+                  "name": "Mandela House Alexandra",
+                  "text": "Ez a szerény múzeum őrzi azt a kis szobát az alexandrai townshipben, ahol Nelson Mandela élt ifjúkorában.",
+                  "category": "museum",
+                  "coords": [
+                        28.093125,
+                        -26.10468
+                  ]
+            },
+            {
+                  "name": "Great-Park Synagogue",
+                  "text": "Ez a nagyszerű zsinagóga a zsidó istentisztelet és kulturális örökség kiemelkedő központja Johannesburgban.",
+                  "category": "religious",
+                  "coords": [
+                        28.061018,
+                        -26.146435
+                  ]
+            },
+            {
+                  "name": "Tethered balloon",
+                  "text": "Ez az egyedülálló látványosság egy lekötött hőlégballonban emeli magasba a látogatókat, hogy élvezhessék a városkép madártávlatát.",
+                  "category": "landmark",
+                  "coords": [
+                        28.062132,
+                        -26.105049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Melrose Bird Sanctuary Park",
+                  "text": "Această rezervație naturală prezintă o zonă umedă protejată menținută special pentru conservarea păsărilor în Melrose.",
+                  "category": "natural",
+                  "coords": [
+                        28.063056,
+                        -26.138889
+                  ]
+            },
+            {
+                  "name": "Katyn Memorial",
+                  "text": "Acest muzeu și sit memorial onorează memoria victimelor masacrului de la Katyn.",
+                  "category": "museum",
+                  "coords": [
+                        28.064288,
+                        -26.142444
+                  ]
+            },
+            {
+                  "name": "Theatre on the Square",
+                  "text": "Situat în Piața Nelson Mandela, acest teatru vibrant produce o gamă largă de spectacole dramatice contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        28.055439,
+                        -26.107237
+                  ]
+            },
+            {
+                  "name": "CAPAGO SANDTON",
+                  "text": "Această atracție servește drept centru oficial de procesare pentru cererile de viză europeană în Sandton.",
+                  "category": "landmark",
+                  "coords": [
+                        28.057738,
+                        -26.111499
+                  ]
+            },
+            {
+                  "name": "Mandela House Alexandra",
+                  "text": "Acest muzeu modest păstrează mica încăpere din cartierul Alexandra în care Nelson Mandela a locuit în tinerețe.",
+                  "category": "museum",
+                  "coords": [
+                        28.093125,
+                        -26.10468
+                  ]
+            },
+            {
+                  "name": "Great-Park Synagogue",
+                  "text": "Această mare sinagogă este un centru proeminent al cultului evreiesc și al patrimoniului cultural în Johannesburg.",
+                  "category": "religious",
+                  "coords": [
+                        28.061018,
+                        -26.146435
+                  ]
+            },
+            {
+                  "name": "Tethered balloon",
+                  "text": "Această atracție unică ridică vizitatorii într-un balon captiv pentru a se bucura de vederi aeriene ale peisajului urban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.062132,
+                        -26.105049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Melrose Bird Sanctuary Park",
+                  "text": "This nature reserve features a protected wetland area specifically maintained for avian conservation in Melrose.",
+                  "category": "natural",
+                  "coords": [
+                        28.063056,
+                        -26.138889
+                  ]
+            },
+            {
+                  "name": "Katyn Memorial",
+                  "text": "This museum and memorial site honors the memory of the victims of the Katyn massacre.",
+                  "category": "museum",
+                  "coords": [
+                        28.064288,
+                        -26.142444
+                  ]
+            },
+            {
+                  "name": "Theatre on the Square",
+                  "text": "Located on Nelson Mandela Square, this vibrant theatre produces an array of contemporary dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.055439,
+                        -26.107237
+                  ]
+            },
+            {
+                  "name": "CAPAGO SANDTON",
+                  "text": "This attraction serves as an official processing center for European visa applications in Sandton.",
+                  "category": "landmark",
+                  "coords": [
+                        28.057738,
+                        -26.111499
+                  ]
+            },
+            {
+                  "name": "Mandela House Alexandra",
+                  "text": "This modest museum preserves the small room in the Alexandra township where Nelson Mandela lived in his youth.",
+                  "category": "museum",
+                  "coords": [
+                        28.093125,
+                        -26.10468
+                  ]
+            },
+            {
+                  "name": "Great-Park Synagogue",
+                  "text": "This grand synagogue is a prominent center of Jewish worship and cultural heritage in Johannesburg.",
+                  "category": "religious",
+                  "coords": [
+                        28.061018,
+                        -26.146435
+                  ]
+            },
+            {
+                  "name": "Tethered balloon",
+                  "text": "This unique attraction elevates visitors in a captive balloon to enjoy aerial views of the cityscape.",
+                  "category": "landmark",
+                  "coords": [
+                        28.062132,
+                        -26.105049
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0558, -26.1086],
@@ -603,7 +4401,412 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bloukrans-bridge-landmarks-v2",
+    id: "bloukrans-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Second Viewpoint",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die dramatische Schlucht in der Nähe der Bloukrans-Brücke.",
+                  "category": "natural",
+                  "coords": [
+                        23.611273,
+                        -33.979647
+                  ]
+            },
+            {
+                  "name": "Andre Hut Viewpoint",
+                  "text": "Ein Aussichtspunkt, der spektakuläre Ausblicke auf die Naturlandschaft rund um die Bloukrans-Brücke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.615589,
+                        -33.978075
+                  ]
+            },
+            {
+                  "name": "3 Boulders Viewpoint",
+                  "text": "Ein felsiger Aussichtspunkt mit Panoramablick über die Schlucht nahe der Bloukrans-Brücke.",
+                  "category": "natural",
+                  "coords": [
+                        23.591752,
+                        -33.982232
+                  ]
+            },
+            {
+                  "name": "Face Adrenalin",
+                  "text": "Ein Extremsportpark, der für den Betrieb des höchsten kommerziellen Brücken-Bungee-Jumps der Welt an der Bloukrans-Brücke bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.647621,
+                        -33.965292
+                  ]
+            },
+            {
+                  "name": "Bakenkop",
+                  "text": "Ein natürlicher Berggipfel, der sich über der Landschaft in der Nähe der Bloukrans-Brücke erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        23.664995,
+                        -33.923594
+                  ]
+            },
+            {
+                  "name": "Lotteringpieke",
+                  "text": "Ein schroffer Berggipfel, der das Gelände rund um die Bloukrans-Brücke prägt.",
+                  "category": "natural",
+                  "coords": [
+                        23.678333,
+                        -33.919444
+                  ]
+            },
+            {
+                  "name": "Swimming Spot",
+                  "text": "Ein natürlicher Badeort in der malerischen Außenanlage nahe der Bloukrans-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        23.655041,
+                        -33.9034
+                  ]
+            },
+            {
+                  "name": "Formosa Nature Reserve",
+                  "text": "Ein geschütztes Naturschutzgebiet, das eine vielfältige Flora und Fauna in der Nähe der Bloukrans-Brücke umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        23.658333,
+                        -33.884444
+                  ]
+            },
+            {
+                  "name": "Benekop",
+                  "text": "Ein erhöhter Berggipfel, der einen herrlichen Blick über die Region der Bloukrans-Brücke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.7025,
+                        -33.8917
+                  ]
+            },
+            {
+                  "name": "Grenadier's Cap",
+                  "text": "Ein markant benannter Berggipfel, der die Landschaft in der Nähe der Bloukrans-Brücke dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        23.7117,
+                        -33.9225
+                  ]
+            },
+            {
+                  "name": "Oakhurst Viewpoint",
+                  "text": "Ein landschaftlich reizvoller Aussichtspunkt mit weitem Blick auf die natürliche Umgebung der Bloukrans-Brücke.",
+                  "category": "natural",
+                  "coords": [
+                        23.737039,
+                        -33.995978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Second Viewpoint",
+                  "text": "Festői kilátópont a Bloukrans híd közelében lévő drámai szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        23.611273,
+                        -33.979647
+                  ]
+            },
+            {
+                  "name": "Andre Hut Viewpoint",
+                  "text": "Látványos kilátást nyújtó megfigyelőpont a Bloukrans híd körüli természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        23.615589,
+                        -33.978075
+                  ]
+            },
+            {
+                  "name": "3 Boulders Viewpoint",
+                  "text": "Sziklás kilátópont, amely panorámás kilátást nyújt a Bloukrans híd közelében lévő szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        23.591752,
+                        -33.982232
+                  ]
+            },
+            {
+                  "name": "Face Adrenalin",
+                  "text": "Extrém sportpark, amely arról híres, hogy a világ legmagasabb kereskedelmi hídi bungee jumpját üzemelteti a Bloukrans hídon.",
+                  "category": "recreational",
+                  "coords": [
+                        23.647621,
+                        -33.965292
+                  ]
+            },
+            {
+                  "name": "Bakenkop",
+                  "text": "Természetes hegycsúcs, amely a Bloukrans híd melletti táj fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        23.664995,
+                        -33.923594
+                  ]
+            },
+            {
+                  "name": "Lotteringpieke",
+                  "text": "Zord hegycsúcs, amely a Bloukrans híd körüli terepet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        23.678333,
+                        -33.919444
+                  ]
+            },
+            {
+                  "name": "Swimming Spot",
+                  "text": "Természetes fürdőhely a Bloukrans híd közelében lévő festői szabadtéri területen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.655041,
+                        -33.9034
+                  ]
+            },
+            {
+                  "name": "Formosa Nature Reserve",
+                  "text": "Védett természetvédelmi terület, amely változatos növény- és állatvilágot foglal magába a Bloukrans híd közelében.",
+                  "category": "natural",
+                  "coords": [
+                        23.658333,
+                        -33.884444
+                  ]
+            },
+            {
+                  "name": "Benekop",
+                  "text": "Magas hegycsúcs, amely lenyűgöző kilátást nyújt a Bloukrans híd régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        23.7025,
+                        -33.8917
+                  ]
+            },
+            {
+                  "name": "Grenadier's Cap",
+                  "text": "Jellegzetes nevű hegycsúcs, amely a Bloukrans híd közeli tájat uralja.",
+                  "category": "natural",
+                  "coords": [
+                        23.7117,
+                        -33.9225
+                  ]
+            },
+            {
+                  "name": "Oakhurst Viewpoint",
+                  "text": "Festői kilátó, amely tágas kilátást nyújt a Bloukrans híd körüli természeti környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        23.737039,
+                        -33.995978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Second Viewpoint",
+                  "text": "Un punct de observație pitoresc cu vedere la defileul impresionant de lângă Podul Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.611273,
+                        -33.979647
+                  ]
+            },
+            {
+                  "name": "Andre Hut Viewpoint",
+                  "text": "Un punct de observație care oferă vederi spectaculoase ale peisajului natural din jurul Podului Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.615589,
+                        -33.978075
+                  ]
+            },
+            {
+                  "name": "3 Boulders Viewpoint",
+                  "text": "Un punct de belvedere stâncos care oferă priveliști panoramice asupra defileului din apropierea Podului Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.591752,
+                        -33.982232
+                  ]
+            },
+            {
+                  "name": "Face Adrenalin",
+                  "text": "Un parc de sporturi extreme faimos pentru operarea celui mai înalt bungee jump comercial de pe un pod din lume la Podul Bloukrans.",
+                  "category": "recreational",
+                  "coords": [
+                        23.647621,
+                        -33.965292
+                  ]
+            },
+            {
+                  "name": "Bakenkop",
+                  "text": "Un vârf de munte natural care se înalță deasupra peisajului din apropierea Podului Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.664995,
+                        -33.923594
+                  ]
+            },
+            {
+                  "name": "Lotteringpieke",
+                  "text": "Un vârf de munte accidentat care caracterizează terenul din jurul Podului Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.678333,
+                        -33.919444
+                  ]
+            },
+            {
+                  "name": "Swimming Spot",
+                  "text": "O locație naturală de înot situată în zona pitorească în aer liber de lângă Podul Bloukrans.",
+                  "category": "landmark",
+                  "coords": [
+                        23.655041,
+                        -33.9034
+                  ]
+            },
+            {
+                  "name": "Formosa Nature Reserve",
+                  "text": "O rezervație naturală protejată care cuprinde o floră și faună diversă lângă Podul Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.658333,
+                        -33.884444
+                  ]
+            },
+            {
+                  "name": "Benekop",
+                  "text": "Un vârf de munte înalt care oferă vederi impunătoare asupra regiunii Podului Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.7025,
+                        -33.8917
+                  ]
+            },
+            {
+                  "name": "Grenadier's Cap",
+                  "text": "Un vârf de munte cu un nume distinctiv care domină peisajul din apropierea Podului Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.7117,
+                        -33.9225
+                  ]
+            },
+            {
+                  "name": "Oakhurst Viewpoint",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști extinse asupra împrejurimilor naturale de lângă Podul Bloukrans.",
+                  "category": "natural",
+                  "coords": [
+                        23.737039,
+                        -33.995978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Second Viewpoint",
+                  "text": "A scenic observation point overlooking the dramatic gorge near the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.611273,
+                        -33.979647
+                  ]
+            },
+            {
+                  "name": "Andre Hut Viewpoint",
+                  "text": "An observation point offering spectacular views of the natural landscape around the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.615589,
+                        -33.978075
+                  ]
+            },
+            {
+                  "name": "3 Boulders Viewpoint",
+                  "text": "A rocky viewpoint providing panoramic vistas over the gorge near the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.591752,
+                        -33.982232
+                  ]
+            },
+            {
+                  "name": "Face Adrenalin",
+                  "text": "An extreme sports park famous for operating the world's highest commercial bridge bungy jump at Bloukrans Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        23.647621,
+                        -33.965292
+                  ]
+            },
+            {
+                  "name": "Bakenkop",
+                  "text": "A natural mountain peak rising above the landscape near the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.664995,
+                        -33.923594
+                  ]
+            },
+            {
+                  "name": "Lotteringpieke",
+                  "text": "A rugged mountain peak characterizing the terrain surrounding the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.678333,
+                        -33.919444
+                  ]
+            },
+            {
+                  "name": "Swimming Spot",
+                  "text": "A natural swimming location situated in the scenic outdoor area near the Bloukrans Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.655041,
+                        -33.9034
+                  ]
+            },
+            {
+                  "name": "Formosa Nature Reserve",
+                  "text": "A protected nature reserve encompassing diverse flora and fauna near the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.658333,
+                        -33.884444
+                  ]
+            },
+            {
+                  "name": "Benekop",
+                  "text": "An elevated mountain peak offering commanding views over the Bloukrans Bridge region.",
+                  "category": "natural",
+                  "coords": [
+                        23.7025,
+                        -33.8917
+                  ]
+            },
+            {
+                  "name": "Grenadier's Cap",
+                  "text": "A distinctively named mountain peak dominating the landscape near the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.7117,
+                        -33.9225
+                  ]
+            },
+            {
+                  "name": "Oakhurst Viewpoint",
+                  "text": "A scenic overlook providing expansive views of the natural surroundings near the Bloukrans Bridge.",
+                  "category": "natural",
+                  "coords": [
+                        23.737039,
+                        -33.995978
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [23.6457, -33.9669],
@@ -663,7 +4866,664 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "taalmonument-landmarks-v2",
+    id: "taalmonument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Purple Windmill Plaasmol Market",
+                  "text": "Ein lebhafter Bauernmarkt in den kapholländischen Winelands, der handwerkliche Kunst, frische lokale Produkte und familienfreundliche Unterhaltung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876506,
+                        -33.823572
+                  ]
+            },
+            {
+                  "name": "Le Bonheur Crocodile Farm",
+                  "text": "Diese einzigartige Attraktion in der Nähe des Taalmonuments ermöglicht es Besuchern, auf geführten Teichtouren Hunderte von Nilkrokodilen sicher zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.945656,
+                        -33.818371
+                  ]
+            },
+            {
+                  "name": "Vrede en Lust Tasting Room",
+                  "text": "Ein malerischer Weinverkostungsraum auf einem historischen Anwesen mit Panoramablick auf die Weinberge der umliegenden kapländischen Winelands.",
+                  "category": "landmark",
+                  "coords": [
+                        18.953508,
+                        -33.83781
+                  ]
+            },
+            {
+                  "name": "Rupert & Rothchild Tasting Centre",
+                  "text": "Ein elegantes Verkostungszentrum in der Nähe des Taalmonuments, wo Besucher exklusive, sorgfältig hergestellte Jahrgangsweine in anspruchsvollem Ambiente probieren können.",
+                  "category": "landmark",
+                  "coords": [
+                        18.947534,
+                        -33.837875
+                  ]
+            },
+            {
+                  "name": "Soetmelksvlei – A family experience by Babylonstoren",
+                  "text": "Dieses von Babylonstoren geschaffene lebendige Museum bietet besuchenden Familien einen fesselnden, interaktiven Einblick in das Farmleben des 19. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        18.93462,
+                        -33.842375
+                  ]
+            },
+            {
+                  "name": "Nederburg Wine Tasting",
+                  "text": "Diese Attraktion befindet sich auf einem der geschichtsträchtigsten Weingüter Südafrikas und bietet kuratierte Verkostungen preisgekrönter Weine aus ihren tiefen Kellern.",
+                  "category": "landmark",
+                  "coords": [
+                        19.003389,
+                        -33.720557
+                  ]
+            },
+            {
+                  "name": "Heemkring Archive",
+                  "text": "Dieses lokale Museum und Archiv in Paarl bewahrt sorgfältig genealogische Dokumente und alte Fotografien auf, die das Pioniererbe der Region detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        18.962397,
+                        -33.740539
+                  ]
+            },
+            {
+                  "name": "Paarl View Point",
+                  "text": "Ein erhöhter Aussichtspunkt auf den Granitfelsen, der einen weiten Panoramablick über die Stadt Paarl und ihre weitläufigen Weinberge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.948612,
+                        -33.741121
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Adventure Park",
+                  "text": "Ein familienfreundlicher Wasserpark in der Nähe des Taalmonuments mit aufregenden Rutschen, Schwimmbädern und umfangreichen Outdoor-Abenteueraktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.876807,
+                        -33.836999
+                  ]
+            },
+            {
+                  "name": "Paarl Museum",
+                  "text": "Dieses Museum ist in einem eleganten historischen kapholländischen Gebäude untergebracht und chronologisiert umfassend die kulturelle, sprachliche und soziale Geschichte des Paarl-Tals.",
+                  "category": "museum",
+                  "coords": [
+                        18.964234,
+                        -33.732386
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Nature Reserve",
+                  "text": "Dieses ruhige Naturschutzgebiet schützt die lebenswichtige einheimische Hangvegetation und bietet ruhige Wanderwege in der Nähe des legendären Taalmonuments.",
+                  "category": "natural",
+                  "coords": [
+                        18.890671,
+                        -33.844961
+                  ]
+            },
+            {
+                  "name": "Spice Route Destination",
+                  "text": "Eine beliebte handwerkliche Attraktion in der Nähe von Paarl mit einer aktiven Craft-Brauerei, Schokoladenverkostungsräumen und Glasbläsereien in einer rustikalen, dorfähnlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        18.919507,
+                        -33.764056
+                  ]
+            },
+            {
+                  "name": "Drakenstein Lion Park",
+                  "text": "Dieses echte Schutzgebiet und der Zoo bieten geretteten, in Gefangenschaft geborenen Löwen in den kapholländischen Winelands ein sicheres, lebenslanges bergiges Zuhause.",
+                  "category": "recreational",
+                  "coords": [
+                        18.911605,
+                        -33.797424
+                  ]
+            },
+            {
+                  "name": "Historium Conference Centre",
+                  "text": "Neben dem Afrikaans Language Monument gelegen, fungiert dieser historische Museumsraum auch als moderner, voll ausgestatteter Konferenzort.",
+                  "category": "museum",
+                  "coords": [
+                        18.963889,
+                        -33.73403
+                  ]
+            },
+            {
+                  "name": "Paarlberg Natuurreservaat",
+                  "text": "Das Naturreservat Paarl Mountain zeichnet sich durch massive Granitfelsen und ein vielfältiges Ökosystem indigener Fynbos-Vegetation aus.",
+                  "category": "natural",
+                  "coords": [
+                        18.931588,
+                        -33.732717
+                  ]
+            },
+            {
+                  "name": "Paarl Bird Sanctuary",
+                  "text": "Das Paarl Bird Sanctuary ist ein geschütztes Feuchtgebiet, das zahlreichen Wasservogelarten einen wichtigen Lebensraum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.980526,
+                        -33.686293
+                  ]
+            },
+            {
+                  "name": "Taalmonumenr Amfiteater",
+                  "text": "Das Taalmonument-Amphitheater ist ein Freilufttheater vor der malerischen, erhöhten Kulisse der Paarl-Berge.",
+                  "category": "cultural",
+                  "coords": [
+                        18.94532,
+                        -33.764695
+                  ]
+            },
+            {
+                  "name": "Afrikaanse Taalmonument",
+                  "text": "Das am 10. Oktober 1975 eröffnete Afrikaanse Sprachdenkmal besteht aus hoch aufragenden Granitobelisken, die die vielfältigen Wurzeln der Sprache darstellen.",
+                  "category": "historical",
+                  "coords": [
+                        18.942524,
+                        -33.765771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Purple Windmill Plaasmol Market",
+                  "text": "Egy nyüzsgő termelői piac a fokföldi borvidéken, amely kézműves termékeket, friss helyi termékeket és vidám családi szórakozást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876506,
+                        -33.823572
+                  ]
+            },
+            {
+                  "name": "Le Bonheur Crocodile Farm",
+                  "text": "Ez az egyedülálló látványosság a Taalmonument közelében lehetővé teszi a látogatók számára, hogy biztonságosan megfigyeljenek több száz fogságban tartott nílusi krokodilt a vezetett tavi túrák során.",
+                  "category": "landmark",
+                  "coords": [
+                        18.945656,
+                        -33.818371
+                  ]
+            },
+            {
+                  "name": "Vrede en Lust Tasting Room",
+                  "text": "Egy festői borbíráló terem egy történelmi birtokon, amely panorámás kilátást nyújt a környező fokföldi borvidék szőlőültetvényeire.",
+                  "category": "landmark",
+                  "coords": [
+                        18.953508,
+                        -33.83781
+                  ]
+            },
+            {
+                  "name": "Rupert & Rothchild Tasting Centre",
+                  "text": "Egy elegáns kóstolóközpont a Taalmonument közelében, ahol a látogatók exkluzív, aprólékosan elkészített évjáratos borokat kóstolhatnak egy kifinomult környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.947534,
+                        -33.837875
+                  ]
+            },
+            {
+                  "name": "Soetmelksvlei – A family experience by Babylonstoren",
+                  "text": "A Babylonstoren által létrehozott élő múzeum magával ragadó, interaktív bepillantást nyújt a 19. századi tanyasi életbe az idelátogató családok számára.",
+                  "category": "museum",
+                  "coords": [
+                        18.93462,
+                        -33.842375
+                  ]
+            },
+            {
+                  "name": "Nederburg Wine Tasting",
+                  "text": "A Dél-Afrika egyik legkiválóbb történelmi birtokán található látványosság válogatott kóstolókat kínál a mély pincéikből származó díjnyertes borokból.",
+                  "category": "landmark",
+                  "coords": [
+                        19.003389,
+                        -33.720557
+                  ]
+            },
+            {
+                  "name": "Heemkring Archive",
+                  "text": "Ez a paarl-i helyi múzeum és levéltár gondosan őrzi a genealógiai dokumentumokat és régi fényképeket, amelyek részletezik a régió úttörő örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        18.962397,
+                        -33.740539
+                  ]
+            },
+            {
+                  "name": "Paarl View Point",
+                  "text": "A gránitsziklákon található magasított, festői kilátó, amely lenyűgöző, panorámás kilátást nyújt Paarl városára és az elterülő szőlőültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        18.948612,
+                        -33.741121
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Adventure Park",
+                  "text": "Családbarát vízipark a Taalmonument közelében, izgalmas csúszdákkal, úszómedencékkel és kiterjedt szabadtéri kalandtevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        18.876807,
+                        -33.836999
+                  ]
+            },
+            {
+                  "name": "Paarl Museum",
+                  "text": "Egy elegáns, történelmi fokföldi holland épületben helyet kapó múzeum átfogóan krónikázza a Paarl-völgy kulturális, nyelvi és társadalmi történetét.",
+                  "category": "museum",
+                  "coords": [
+                        18.964234,
+                        -33.732386
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Nature Reserve",
+                  "text": "Ez a nyugodt természetvédelmi terület megóvja a létfontosságú őshonos domboldali növényzetet, és csendes túraútvonalakat kínál az ikonikus Taalmonument közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.890671,
+                        -33.844961
+                  ]
+            },
+            {
+                  "name": "Spice Route Destination",
+                  "text": "Népszerű kézműves látványosság Paarl közelében, ahol egy aktív kézműves sörfőzde, csokoládékóstoló termek és üvegfúvó stúdiók találhatók rusztikus, faluszerű környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.919507,
+                        -33.764056
+                  ]
+            },
+            {
+                  "name": "Drakenstein Lion Park",
+                  "text": "Ez a valódi menedékhely és állatkert biztonságos, élethosszig tartó hegyvidéki otthont nyújt a kimentett, fogságban született oroszlánoknak a fokföldi borvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        18.911605,
+                        -33.797424
+                  ]
+            },
+            {
+                  "name": "Historium Conference Centre",
+                  "text": "Az afrikaans nyelvi emlékmű szomszédságában található ez a történelmi múzeumi tér, amely egyben modern, teljesen felszerelt konferenciahelyszínként is funkcionál.",
+                  "category": "museum",
+                  "coords": [
+                        18.963889,
+                        -33.73403
+                  ]
+            },
+            {
+                  "name": "Paarlberg Natuurreservaat",
+                  "text": "A Paarl Mountain Természetvédelmi Terület masszív gránitsziklákkal és az őshonos fynbos növényzet változatos ökoszisztémájával rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        18.931588,
+                        -33.732717
+                  ]
+            },
+            {
+                  "name": "Paarl Bird Sanctuary",
+                  "text": "A Paarl Madárrezervátum egy védett vizes élőhely, amely számos vízimadár számára nyújt létfontosságú élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        18.980526,
+                        -33.686293
+                  ]
+            },
+            {
+                  "name": "Taalmonumenr Amfiteater",
+                  "text": "A Taalmonument Amfiteátrum egy szabadtéri előadótér, amely a festői, magasan fekvő Paarl-hegység háttere előtt terül el.",
+                  "category": "cultural",
+                  "coords": [
+                        18.94532,
+                        -33.764695
+                  ]
+            },
+            {
+                  "name": "Afrikaanse Taalmonument",
+                  "text": "Az 1975. október 10-én megnyílt Afrikaans Nyelvi Emlékmű hatalmas gránit obeliszkekkel jelképezi a nyelv sokszínű gyökereit.",
+                  "category": "historical",
+                  "coords": [
+                        18.942524,
+                        -33.765771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Purple Windmill Plaasmol Market",
+                  "text": "O piață agricolă vibrantă în regiunea viticolă a Capului, oferind meșteșuguri artizanale, produse locale proaspete și divertisment plin de viață pentru familii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876506,
+                        -33.823572
+                  ]
+            },
+            {
+                  "name": "Le Bonheur Crocodile Farm",
+                  "text": "Această atracție unică din apropierea Taalmonument permite vizitatorilor să observe în siguranță sute de crocodili de Nil în captivitate în timpul tururilor ghidate pe iaz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.945656,
+                        -33.818371
+                  ]
+            },
+            {
+                  "name": "Vrede en Lust Tasting Room",
+                  "text": "O sală de degustare de vinuri pitorească, situată pe un domeniu istoric, oferind vederi panoramice ale podgoriilor din regiunea viticolă a Capului înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        18.953508,
+                        -33.83781
+                  ]
+            },
+            {
+                  "name": "Rupert & Rothchild Tasting Centre",
+                  "text": "Un centru de degustare elegant lângă Taalmonument, unde vizitatorii pot savura vinuri de epocă exclusive, create meticulos, într-un cadru sofisticat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.947534,
+                        -33.837875
+                  ]
+            },
+            {
+                  "name": "Soetmelksvlei – A family experience by Babylonstoren",
+                  "text": "Acest muzeu viu creat de Babylonstoren oferă o privire imersivă și interactivă asupra vieții fermei din secolul al XIX-lea pentru familiile vizitatoare.",
+                  "category": "museum",
+                  "coords": [
+                        18.93462,
+                        -33.842375
+                  ]
+            },
+            {
+                  "name": "Nederburg Wine Tasting",
+                  "text": "Situată pe unul dintre cele mai istorice domenii din Africa de Sud, această atracție oferă degustări organizate de vinuri premiate din pivnițele lor adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        19.003389,
+                        -33.720557
+                  ]
+            },
+            {
+                  "name": "Heemkring Archive",
+                  "text": "Acest muzeu și arhivă locală din Paarl păstrează cu meticulozitate documente genealogice și fotografii vechi care detaliază moștenirea de pionierat a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.962397,
+                        -33.740539
+                  ]
+            },
+            {
+                  "name": "Paarl View Point",
+                  "text": "Un punct de belvedere pitoresc elevat, situat pe aflorimentele de granit, care oferă priveliști panoramice ample asupra orașului Paarl și a podgoriilor sale extinse.",
+                  "category": "natural",
+                  "coords": [
+                        18.948612,
+                        -33.741121
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Adventure Park",
+                  "text": "Un parc acvatic pentru familii lângă Taalmonument, cu tobogane palpitante, piscine și activități extinse de aventură în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        18.876807,
+                        -33.836999
+                  ]
+            },
+            {
+                  "name": "Paarl Museum",
+                  "text": "Găzduit într-o clădire istorică elegantă, cu arhitectură olandeză de la Cap, acest muzeu prezintă o cronică cuprinzătoare a istoriei culturale, lingvistice și sociale a văii Paarl.",
+                  "category": "museum",
+                  "coords": [
+                        18.964234,
+                        -33.732386
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Nature Reserve",
+                  "text": "Această rezervație naturală senină protejează vegetația indigenă vitală de pe dealuri și oferă trasee de drumeție liniștite în apropierea iconicului Taalmonument.",
+                  "category": "natural",
+                  "coords": [
+                        18.890671,
+                        -33.844961
+                  ]
+            },
+            {
+                  "name": "Spice Route Destination",
+                  "text": "O atracție artizanală populară lângă Paarl, având o fabrică activă de bere artizanală, săli de degustare a ciocolatei și ateliere de sticlărie într-un cadru rustic, asemănător unui sat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.919507,
+                        -33.764056
+                  ]
+            },
+            {
+                  "name": "Drakenstein Lion Park",
+                  "text": "Acest sanctuar și parc zoologic autentic oferă o casă montană sigură pe tot parcursul vieții pentru leii născuți în captivitate salvați în regiunea viticolă a Capului.",
+                  "category": "recreational",
+                  "coords": [
+                        18.911605,
+                        -33.797424
+                  ]
+            },
+            {
+                  "name": "Historium Conference Centre",
+                  "text": "Situat adiacent Monumentului Limbii Afrikaans, acest spațiu istoric de muzeu funcționează, de asemenea, ca o locație modernă și complet echipată pentru conferințe.",
+                  "category": "museum",
+                  "coords": [
+                        18.963889,
+                        -33.73403
+                  ]
+            },
+            {
+                  "name": "Paarlberg Natuurreservaat",
+                  "text": "Rezervația Naturală Paarl Mountain prezintă aflorimente masive de granit și un ecosistem divers de vegetație nativă fynbos.",
+                  "category": "natural",
+                  "coords": [
+                        18.931588,
+                        -33.732717
+                  ]
+            },
+            {
+                  "name": "Paarl Bird Sanctuary",
+                  "text": "Sanctuarul de Păsări Paarl este o zonă umedă protejată, oferind un habitat vital pentru numeroase specii de păsări acvatice.",
+                  "category": "natural",
+                  "coords": [
+                        18.980526,
+                        -33.686293
+                  ]
+            },
+            {
+                  "name": "Taalmonumenr Amfiteater",
+                  "text": "Amfiteatrul Taalmonument este un spațiu de spectacole în aer liber, situat pe fundalul pitoresc și înalt al munților Paarl.",
+                  "category": "cultural",
+                  "coords": [
+                        18.94532,
+                        -33.764695
+                  ]
+            },
+            {
+                  "name": "Afrikaanse Taalmonument",
+                  "text": "Inaugurat pe 10 octombrie 1975, Monumentul Limbii Afrikaans prezintă obeliscuri impunătoare din granit care reprezintă rădăcinile diverse ale limbii.",
+                  "category": "historical",
+                  "coords": [
+                        18.942524,
+                        -33.765771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Purple Windmill Plaasmol Market",
+                  "text": "A vibrant farm market attraction in the Cape winelands offering artisanal crafts, fresh local produce, and lively family entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876506,
+                        -33.823572
+                  ]
+            },
+            {
+                  "name": "Le Bonheur Crocodile Farm",
+                  "text": "This unique attraction near the Taalmonument allows visitors to safely observe hundreds of captive Nile crocodiles during guided pond tours.",
+                  "category": "landmark",
+                  "coords": [
+                        18.945656,
+                        -33.818371
+                  ]
+            },
+            {
+                  "name": "Vrede en Lust Tasting Room",
+                  "text": "A scenic wine tasting room set on a historic estate, offering panoramic vineyard views of the surrounding Cape winelands.",
+                  "category": "landmark",
+                  "coords": [
+                        18.953508,
+                        -33.83781
+                  ]
+            },
+            {
+                  "name": "Rupert & Rothchild Tasting Centre",
+                  "text": "An elegant tasting centre near the Taalmonument where visitors can sample exclusive, meticulously crafted vintage wines in a sophisticated setting.",
+                  "category": "landmark",
+                  "coords": [
+                        18.947534,
+                        -33.837875
+                  ]
+            },
+            {
+                  "name": "Soetmelksvlei – A family experience by Babylonstoren",
+                  "text": "This living museum created by Babylonstoren offers an immersive, interactive look into 19th-century farm life for visiting families.",
+                  "category": "museum",
+                  "coords": [
+                        18.93462,
+                        -33.842375
+                  ]
+            },
+            {
+                  "name": "Nederburg Wine Tasting",
+                  "text": "Situated on one of South Africa's most historic estates, this attraction offers curated tastings of award-winning wines from their deep cellars.",
+                  "category": "landmark",
+                  "coords": [
+                        19.003389,
+                        -33.720557
+                  ]
+            },
+            {
+                  "name": "Heemkring Archive",
+                  "text": "This local museum and archive in Paarl meticulously preserves genealogical documents and old photographs detailing the region's pioneering heritage.",
+                  "category": "museum",
+                  "coords": [
+                        18.962397,
+                        -33.740539
+                  ]
+            },
+            {
+                  "name": "Paarl View Point",
+                  "text": "An elevated scenic viewpoint situated on the granite outcrops that provides sweeping, panoramic vistas over the town of Paarl and its sprawling vineyards.",
+                  "category": "natural",
+                  "coords": [
+                        18.948612,
+                        -33.741121
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Adventure Park",
+                  "text": "A family-friendly water park near the Taalmonument featuring thrilling slides, swimming pools, and extensive outdoor adventure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.876807,
+                        -33.836999
+                  ]
+            },
+            {
+                  "name": "Paarl Museum",
+                  "text": "Housed in an elegant historic Cape Dutch building, this museum comprehensively chronicles the cultural, linguistic, and social history of the Paarl valley.",
+                  "category": "museum",
+                  "coords": [
+                        18.964234,
+                        -33.732386
+                  ]
+            },
+            {
+                  "name": "Wiesenhof Nature Reserve",
+                  "text": "This serene nature reserve protects vital indigenous hillside vegetation and offers tranquil hiking trails near the iconic Taalmonument.",
+                  "category": "natural",
+                  "coords": [
+                        18.890671,
+                        -33.844961
+                  ]
+            },
+            {
+                  "name": "Spice Route Destination",
+                  "text": "A popular artisanal attraction near Paarl featuring an active craft brewery, chocolate tasting rooms, and glassblowing studios in a rustic village-like setting.",
+                  "category": "landmark",
+                  "coords": [
+                        18.919507,
+                        -33.764056
+                  ]
+            },
+            {
+                  "name": "Drakenstein Lion Park",
+                  "text": "This genuine sanctuary and zoo provides a safe, lifelong mountainous home for rescued captive-born lions in the Cape winelands.",
+                  "category": "recreational",
+                  "coords": [
+                        18.911605,
+                        -33.797424
+                  ]
+            },
+            {
+                  "name": "Historium Conference Centre",
+                  "text": "Located adjacent to the Afrikaans Language Monument, this historic museum space also functions as a modern, fully-equipped conference venue.",
+                  "category": "museum",
+                  "coords": [
+                        18.963889,
+                        -33.73403
+                  ]
+            },
+            {
+                  "name": "Paarl Mountain Nature Reserve",
+                  "text": "Paarl Mountain Nature Reserve features massive granite outcrops and a diverse ecosystem of indigenous fynbos vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        18.931588,
+                        -33.732717
+                  ]
+            },
+            {
+                  "name": "Paarl Bird Sanctuary",
+                  "text": "Paarl Bird Sanctuary is a protected wetland area offering vital habitat and birdwatching opportunities for numerous aquatic species.",
+                  "category": "natural",
+                  "coords": [
+                        18.980526,
+                        -33.686293
+                  ]
+            },
+            {
+                  "name": "Taalmonumenr Amfiteater",
+                  "text": "The Taalmonument Amphitheatre is an open-air performance space set against the scenic, elevated backdrop of the Paarl mountains.",
+                  "category": "cultural",
+                  "coords": [
+                        18.94532,
+                        -33.764695
+                  ]
+            },
+            {
+                  "name": "Afrikaans Language Monument",
+                  "text": "Opened on October 10, 1975, the Afrikaans Language Monument features towering granite obelisks representing the diverse roots of the language.",
+                  "category": "historical",
+                  "coords": [
+                        18.942524,
+                        -33.765771
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [18.9388, -33.7667],
@@ -723,7 +5583,556 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "juma-masjid-mosque-landmarks-v2",
+    id: "juma-masjid-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old House Museum",
+                  "text": "Das Old House Museum befindet sich in einem historischen Gebäude, das das Leben der frühen europäischen Siedler in Durban dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "Botanise Tuine ist ein grünes Monumentgelände im botanischen Viertel, das eine Vielzahl einheimischer afrikanischer Pflanzen präsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Bell Tower",
+                  "text": "Der freistehende Bell Tower ist ein architektonisches Monument im Botanischen Garten, das Besucher mit seinem historischen Glockenklang anzieht.",
+                  "category": "historical",
+                  "coords": [
+                        31.007,
+                        -29.846569
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "Dieser verzierte Pavillon dient als schattiger Ruheplatz und historisches Monument inmitten der blühenden Botanischen Gärten.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "Der uMphafa ist ein als Naturdenkmal geschützter Baum, der in den traditionellen Zulu-Glaubensvorstellungen spirituelle Bedeutung hat.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "Dieses Denkmalgebiet um den Currie's Fountain ehrt eine historisch bedeutende Wasserquelle und den angrenzenden kleinen See.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Das Freiluft-Amphitheater bietet eine geschwungene Tribüne, die für kulturelle Darbietungen und städtische Versammlungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Victoria Street Market",
+                  "text": "Dieser pulsierende Markt ist ein Fest für die Sinne, bekannt für seine bunten Gewürzstände, handgefertigten indischen Stoffe und lokales Kunsthandwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        31.014862,
+                        -29.856595
+                  ]
+            },
+            {
+                  "name": "Umkhumbane Museum",
+                  "text": "Das Umkhumbane Museum widmet sich dem Erbe von Cato Manor und beleuchtet die Geschichte der Zwangsumsiedlungen während der Apartheid.",
+                  "category": "museum",
+                  "coords": [
+                        30.967044,
+                        -29.863176
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "Die KZNSA Gallery präsentiert zeitgenössische Kunstwerke südafrikanischer Künstler und beherbergt ein beliebtes Café mit einem schattigen Innenhof.",
+                  "category": "museum",
+                  "coords": [
+                        30.996888,
+                        -29.859948
+                  ]
+            },
+            {
+                  "name": "Palmiet Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet schützt eine malerische Flusstalumgebung in der Nähe der Juma-Moschee.",
+                  "category": "natural",
+                  "coords": [
+                        30.932804,
+                        -29.822528
+                  ]
+            },
+            {
+                  "name": "Roy Couzens Theatre",
+                  "text": "Dieses lokale Theater dient als kultureller Veranstaltungsort im Viertel der Juma-Moschee.",
+                  "category": "cultural",
+                  "coords": [
+                        30.928379,
+                        -29.829763
+                  ]
+            },
+            {
+                  "name": "Pigeon Valley",
+                  "text": "Dieses für seine seltenen Vogelarten bekannte Naturschutzgebiet schützt ein verbliebenes Stück einheimischen Küstenklimaxwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        30.986837,
+                        -29.864083
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "Dieses 1930 eröffnete prominente Gotteshaus ist auch als Juma-Moschee bekannt und weist markante architektonische Elemente auf.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "Diese imposante Kathedrale dient mit ihrem detaillierten neugotischen Baustil als zentrales spirituelles Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        31.015684,
+                        -29.857512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old House Museum",
+                  "text": "Az Old House Museum egy történelmi épületben található, amely a korai európai telepesek durbani életét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "A Botanise Tuine egy zöld műemléki terület a botanikai negyedben, amely a dél-afrikai őshonos növények széles választékát mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Bell Tower",
+                  "text": "A szabadon álló Bell Tower egy építészeti műemlék a botanikus kertben, amely történelmi harangjátékával vonzza a látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        31.007,
+                        -29.846569
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "Ez a díszes pavilon árnyékos pihenőhelyként és történelmi emlékműként szolgál a virágzó botanikus kertek közepén.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "Az uMphafa egy védett fa, mint természeti emlékmű, amely nagy spirituális jelentőséggel bír a zulu hagyományokban.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "Ez az emlékmű a Currie's Fountain körül egy történelmileg jelentős vízforrásnak és a szomszédos kis tónak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "A szabadtéri amfiteátrum ívelt lelátójával kulturális előadások és városi gyülekezetek helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Victoria Street Market",
+                  "text": "Ez a nyüzsgő piac igazi érzéki kavalkád, amely színes fűszeres pultjairól, kézzel készített indiai szöveteiről és helyi kézműves termékeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.014862,
+                        -29.856595
+                  ]
+            },
+            {
+                  "name": "Umkhumbane Museum",
+                  "text": "Az Umkhumbane Museum Cato Manor örökségének szenteli magát, és az apartheid alatti kényszerkitelepítések történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.967044,
+                        -29.863176
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "A KZNSA Galéria dél-afrikai művészek kortárs alkotásait mutatja be, és egy népszerű kávézónak ad otthont árnyékos belső udvarral.",
+                  "category": "museum",
+                  "coords": [
+                        30.996888,
+                        -29.859948
+                  ]
+            },
+            {
+                  "name": "Palmiet Nature Reserve",
+                  "text": "Ez a természetvédelmi terület egy festői folyóvölgyi környezetet véd a Juma mecset közelében.",
+                  "category": "natural",
+                  "coords": [
+                        30.932804,
+                        -29.822528
+                  ]
+            },
+            {
+                  "name": "Roy Couzens Theatre",
+                  "text": "Ez a helyi színház kulturális előadótérként szolgál a Juma mecset negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        30.928379,
+                        -29.829763
+                  ]
+            },
+            {
+                  "name": "Pigeon Valley",
+                  "text": "A ritka madárfajairól ismert természetvédelmi terület az őshonos tengerparti klimaxerdő egy megmaradt foltját védi.",
+                  "category": "natural",
+                  "coords": [
+                        30.986837,
+                        -29.864083
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "Az 1930-ban megnyílt, Juma mecsetként is ismert kiemelkedő istentiszteleti hely jellegzetes építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "Ez az impozáns katedrális részletes neogótikus építészeti stílusával központi spirituális mérföldkőként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        31.015684,
+                        -29.857512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old House Museum",
+                  "text": "Old House Museum este găzduit într-o clădire istorică care documentează viața primilor coloniști europeni din Durban.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "Botanise Tuine este o zonă monumentală verde din cartierul botanic, prezentând o varietate de plante autohtone africane.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Bell Tower",
+                  "text": "Turnul cu clopot de sine stătător este un monument arhitectural în grădina botanică, atrăgând vizitatorii cu sunetul său istoric.",
+                  "category": "historical",
+                  "coords": [
+                        31.007,
+                        -29.846569
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "Acest foișor ornamentat servește ca un loc de odihnă umbrit și un monument istoric în mijlocul grădinilor botanice înflorite.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "Arborele uMphafa este protejat ca monument natural și are o semnificație spirituală profundă în credințele tradiționale Zulu.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "Această zonă monumentală din jurul fântânii Currie onorează o sursă istorică de apă și micul lac adiacent.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amfiteatrul în aer liber are o tribună curbată folosită pentru spectacole culturale și adunări urbane.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Victoria Street Market",
+                  "text": "Această piață vibrantă este o sărbătoare a simțurilor, renumită pentru tarabele sale colorate de condimente, țesături indiene și obiecte de artizanat locale.",
+                  "category": "landmark",
+                  "coords": [
+                        31.014862,
+                        -29.856595
+                  ]
+            },
+            {
+                  "name": "Umkhumbane Museum",
+                  "text": "Muzeul Umkhumbane este dedicat moștenirii Cato Manor și evidențiază istoria relocărilor forțate din timpul apartheidului.",
+                  "category": "museum",
+                  "coords": [
+                        30.967044,
+                        -29.863176
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "Galeria KZNSA prezintă opere de artă contemporană ale artiștilor sud-africani și găzduiește o cafenea populară cu o curte interioară umbrită.",
+                  "category": "museum",
+                  "coords": [
+                        30.996888,
+                        -29.859948
+                  ]
+            },
+            {
+                  "name": "Palmiet Nature Reserve",
+                  "text": "Această rezervație naturală protejează un mediu pitoresc de vale fluvială lângă Moscheea Juma.",
+                  "category": "natural",
+                  "coords": [
+                        30.932804,
+                        -29.822528
+                  ]
+            },
+            {
+                  "name": "Roy Couzens Theatre",
+                  "text": "Acest teatru local servește ca spațiu pentru spectacole culturale în cartierul Moscheii Juma.",
+                  "category": "cultural",
+                  "coords": [
+                        30.928379,
+                        -29.829763
+                  ]
+            },
+            {
+                  "name": "Pigeon Valley",
+                  "text": "Cunoscută pentru speciile sale rare de păsări, această rezervație naturală protejează o porțiune rămasă de pădure indigenă de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        30.986837,
+                        -29.864083
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "Deschis în 1930, acest lăcaș de cult proeminent este cunoscut și sub numele de Moscheea Juma și prezintă elemente arhitecturale distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "Această catedrală impunătoare servește drept punct de reper spiritual central prin stilul său arhitectural neogotic detaliat.",
+                  "category": "religious",
+                  "coords": [
+                        31.015684,
+                        -29.857512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old House Museum",
+                  "text": "The Old House Museum is housed in a historic building documenting the lives of early European settlers in Durban.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "Botanise Tuine is a green monumental area in the botanical district showcasing a variety of indigenous African flora.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Bell Tower",
+                  "text": "The freestanding Bell Tower is an architectural monument in the botanical gardens, attracting visitors with its historic chimes.",
+                  "category": "historical",
+                  "coords": [
+                        31.007,
+                        -29.846569
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "This ornate gazebo serves as a shaded resting place and historical monument amidst the blooming botanical gardens.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "The uMphafa tree is protected as a natural monument and holds deep spiritual significance in traditional Zulu beliefs.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "This monumental area around Currie's Fountain honors a historically significant water source and its adjacent small lake.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "The open-air amphitheater features curved seating used for cultural performances and urban gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Victoria Street Market",
+                  "text": "This vibrant market is a feast for the senses, famous for its colorful spice stalls, handmade Indian fabrics, and local crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        31.014862,
+                        -29.856595
+                  ]
+            },
+            {
+                  "name": "Umkhumbane Museum",
+                  "text": "The Umkhumbane Museum is dedicated to the heritage of Cato Manor, highlighting the history of forced removals during apartheid.",
+                  "category": "museum",
+                  "coords": [
+                        30.967044,
+                        -29.863176
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "The KZNSA Gallery showcases contemporary art by South African artists and houses a popular cafe with a shaded courtyard.",
+                  "category": "museum",
+                  "coords": [
+                        30.996888,
+                        -29.859948
+                  ]
+            },
+            {
+                  "name": "Palmiet Nature Reserve",
+                  "text": "This nature reserve protects a scenic river valley environment near the Juma Mosque.",
+                  "category": "natural",
+                  "coords": [
+                        30.932804,
+                        -29.822528
+                  ]
+            },
+            {
+                  "name": "Roy Couzens Theatre",
+                  "text": "This local theatre serves as a cultural performance space in the Juma Mosque district.",
+                  "category": "cultural",
+                  "coords": [
+                        30.928379,
+                        -29.829763
+                  ]
+            },
+            {
+                  "name": "Pigeon Valley",
+                  "text": "Known for its rare bird species, this nature reserve protects a remnant patch of indigenous coastal climax forest.",
+                  "category": "natural",
+                  "coords": [
+                        30.986837,
+                        -29.864083
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "Opening in 1930, this prominent place of worship is also known as the Juma Mosque and features distinctive architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "This imposing cathedral serves as a central spiritual landmark with its detailed Gothic Revival architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        31.015684,
+                        -29.857512
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-KZN",
     coords: [31.0210, -29.8580],
@@ -783,7 +6192,304 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nizamiye-mosque-landmarks-v2",
+    id: "nizamiye-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ultimate Heli",
+                  "text": "Diese Attraktion operiert von einer hochmodernen Luftfahrtanlage aus und bietet aufregende Hubschrauber-Rundflüge direkt über der Skyline der Metropole.",
+                  "category": "landmark",
+                  "coords": [
+                        28.111148,
+                        -26.026422
+                  ]
+            },
+            {
+                  "name": "Grand Central Water Tower Midrand",
+                  "text": "Dieses hoch aufragende Betonbauwerk, das die Vorstadtlandschaft überragt, ist sofort an seinem markanten, funktionalen umgekehrten Kegeldesign zu erkennen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.138811,
+                        -25.993558
+                  ]
+            },
+            {
+                  "name": "Boulders",
+                  "text": "Dieses geschäftige Handelszentrum ist einzigartig um massive, natürlich vorkommende Granitfelsen herum gebaut und integriert diese in sein strukturelles Design.",
+                  "category": "landmark",
+                  "coords": [
+                        28.126447,
+                        -25.996516
+                  ]
+            },
+            {
+                  "name": "Domicile",
+                  "text": "Dieses Wohn-Wahrzeichen ist bekannt für seine modernen architektonischen Linien und seine Integration in das sich schnell entwickelnde städtische Gefüge des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        28.120962,
+                        -25.964564
+                  ]
+            },
+            {
+                  "name": "Wetland",
+                  "text": "Umgeben von städtischer Bebauung dient dieses sorgfältig erhaltene Sumpfökosystem als wichtiges natürliches Filtersystem und als Zufluchtsort für lokale Wasservögel.",
+                  "category": "landmark",
+                  "coords": [
+                        28.165779,
+                        -25.976496
+                  ]
+            },
+            {
+                  "name": "Gallagher Estate",
+                  "text": "Dieses große Kongresszentrum, das sich über mehrere weitläufige Hallen erstreckt, ist in ganz Afrika dafür bekannt, riesige internationale Fachmessen und Unternehmensausstellungen auszurichten.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129657,
+                        -26.003117
+                  ]
+            },
+            {
+                  "name": "Nizamiye Mosque",
+                  "text": "Dieses atemberaubende architektonische Wunderwerk, das genau der Selimiye-Moschee aus dem 16. Jahrhundert in der Türkei nachempfunden ist, ist die größte islamische Kultstätte der südlichen Hemisphäre.",
+                  "category": "religious",
+                  "coords": [
+                        28.129518,
+                        -26.014502
+                  ]
+            },
+            {
+                  "name": "Lory Park Zoo",
+                  "text": "Dieser kleine Tierpark und Schutzraum ist besonders für seine hautnahen Begegnungen mit Großkatzen und vielfältigen Eulenarten bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152865,
+                        -26.009861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ultimate Heli",
+                  "text": "Ez a legkorszerűbb repülési létesítményből induló látványosság izgalmas, festői helikopteres repüléseket kínál közvetlenül a metropolisz égboltja felett.",
+                  "category": "landmark",
+                  "coords": [
+                        28.111148,
+                        -26.026422
+                  ]
+            },
+            {
+                  "name": "Grand Central Water Tower Midrand",
+                  "text": "A külvárosi táj fölé magasodó, lenyűgöző betonépítményt feltűnő, funkcionális fordított kúp alakú kialakítása teszi azonnal felismerhetővé.",
+                  "category": "landmark",
+                  "coords": [
+                        28.138811,
+                        -25.993558
+                  ]
+            },
+            {
+                  "name": "Boulders",
+                  "text": "Ezt a nyüzsgő kereskedelmi központot egyedülálló módon úgy építették fel, hogy a hatalmas, természetes gránitsziklákat belefoglalták a szerkezeti kialakításába.",
+                  "category": "landmark",
+                  "coords": [
+                        28.126447,
+                        -25.996516
+                  ]
+            },
+            {
+                  "name": "Domicile",
+                  "text": "Ez a lakónegyedi nevezetesség modern építészeti vonalairól és a kerület gyorsan fejlődő városi szövetébe való illeszkedéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.120962,
+                        -25.964564
+                  ]
+            },
+            {
+                  "name": "Wetland",
+                  "text": "A városi beépítettséggel körülvett, gondosan megőrzött mocsaras ökoszisztéma létfontosságú természetes szűrőrendszerként és a helyi vízimadarak menedékeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.165779,
+                        -25.976496
+                  ]
+            },
+            {
+                  "name": "Gallagher Estate",
+                  "text": "A több hatalmas csarnokot átfogó, jelentős kongresszusi központ egész Afrikában híres nagyszabású nemzetközi szakkiállítások és vállalati rendezvények lebonyolításáról.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129657,
+                        -26.003117
+                  ]
+            },
+            {
+                  "name": "Nizamiye Mosque",
+                  "text": "A 16. századi törökországi Szelim-mecset pontos mintájára épült, lélegzetelállító építészeti csoda a déli félteke legnagyobb iszlám imahelye.",
+                  "category": "religious",
+                  "coords": [
+                        28.129518,
+                        -26.014502
+                  ]
+            },
+            {
+                  "name": "Lory Park Zoo",
+                  "text": "Ez a kis állatkert és menedékhely különösen a nagymacskákkal és a változatos bagolyfajokkal való közeli találkozásokról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152865,
+                        -26.009861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ultimate Heli",
+                  "text": "Operând dintr-o facilitate de aviație de ultimă generație, această atracție oferă zboruri panoramice palpitante cu elicopterul direct deasupra orizontului metropolitan.",
+                  "category": "landmark",
+                  "coords": [
+                        28.111148,
+                        -26.026422
+                  ]
+            },
+            {
+                  "name": "Grand Central Water Tower Midrand",
+                  "text": "Dominând peisajul suburban, această structură falnică din beton este imediat recognoscibilă prin designul său izbitor și funcțional în formă de con inversat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.138811,
+                        -25.993558
+                  ]
+            },
+            {
+                  "name": "Boulders",
+                  "text": "Acest hub comercial aglomerat este construit într-un mod unic în jurul unor roci masive de granit, prezente în mod natural, pe care le încorporează în designul său structural.",
+                  "category": "landmark",
+                  "coords": [
+                        28.126447,
+                        -25.996516
+                  ]
+            },
+            {
+                  "name": "Domicile",
+                  "text": "Acest punct de reper rezidențial este remarcat pentru liniile sale arhitecturale moderne și pentru integrarea sa în țesutul urban în plină dezvoltare al districtului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.120962,
+                        -25.964564
+                  ]
+            },
+            {
+                  "name": "Wetland",
+                  "text": "Înconjurat de dezvoltarea urbană, acest ecosistem mlăștinos conservat cu grijă servește ca un sistem crucial de filtrare naturală și un refugiu pentru păsările de apă locale.",
+                  "category": "landmark",
+                  "coords": [
+                        28.165779,
+                        -25.976496
+                  ]
+            },
+            {
+                  "name": "Gallagher Estate",
+                  "text": "Cuprinzând mai multe săli întinse, acest centru major de convenții este renumit în întreaga Africă pentru găzduirea de târguri internaționale masive și expoziții corporative.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129657,
+                        -26.003117
+                  ]
+            },
+            {
+                  "name": "Nizamiye Mosque",
+                  "text": "Modelată cu precizie după Moscheea Selimiye din secolul al XVI-lea din Turcia, această minune arhitecturală uluitoare este cel mai mare lăcaș de cult islamic din emisfera sudică.",
+                  "category": "religious",
+                  "coords": [
+                        28.129518,
+                        -26.014502
+                  ]
+            },
+            {
+                  "name": "Lory Park Zoo",
+                  "text": "Acest mic parc zoologic și sanctuar este cunoscut în special pentru întâlnirile de aproape cu feline mari și diverse specii de bufnițe.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152865,
+                        -26.009861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ultimate Heli",
+                  "text": "Operating from a state-of-the-art aviation facility, this attraction offers thrilling scenic helicopter flights directly over the metropolitan skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        28.111148,
+                        -26.026422
+                  ]
+            },
+            {
+                  "name": "Grand Central Water Tower Midrand",
+                  "text": "Towering above the suburban landscape, this towering concrete structure is immediately recognizable by its striking, functional inverted-cone design.",
+                  "category": "landmark",
+                  "coords": [
+                        28.138811,
+                        -25.993558
+                  ]
+            },
+            {
+                  "name": "Boulders",
+                  "text": "This bustling commercial hub is uniquely built around and incorporates massive, naturally occurring granite rocks into its structural design.",
+                  "category": "landmark",
+                  "coords": [
+                        28.126447,
+                        -25.996516
+                  ]
+            },
+            {
+                  "name": "Domicile",
+                  "text": "This residential landmark is noted for its modern architectural lines and its integration into the rapidly developing urban fabric of the district.",
+                  "category": "landmark",
+                  "coords": [
+                        28.120962,
+                        -25.964564
+                  ]
+            },
+            {
+                  "name": "Wetland",
+                  "text": "Surrounded by urban development, this carefully preserved marshy ecosystem serves as a crucial natural filtration system and a haven for local waterbirds.",
+                  "category": "landmark",
+                  "coords": [
+                        28.165779,
+                        -25.976496
+                  ]
+            },
+            {
+                  "name": "Gallagher Estate",
+                  "text": "Spanning multiple sprawling halls, this major convention center is renowned across Africa for hosting massive international trade shows and corporate exhibitions.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129657,
+                        -26.003117
+                  ]
+            },
+            {
+                  "name": "Nizamiye Mosque",
+                  "text": "Modeled precisely after the 16th-century Selimiye Mosque in Turkey, this breathtaking architectural marvel is the largest Islamic place of worship in the Southern Hemisphere.",
+                  "category": "religious",
+                  "coords": [
+                        28.129518,
+                        -26.014502
+                  ]
+            },
+            {
+                  "name": "Lory Park Zoo",
+                  "text": "This boutique animal park and sanctuary is particularly known for its up-close encounters with big cats and diverse owl species.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152865,
+                        -26.009861
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.1293, -26.0270],
@@ -843,7 +6549,484 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pretoria-city-hall-landmarks-v2",
+    id: "pretoria-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ZK Matthews Great Hall",
+                  "text": "Diese geräumige Halle auf dem UNISA-Campus dient als Hauptveranstaltungsort für akademische Abschlussfeiern und große Sinfoniekonzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        28.197836,
+                        -25.766695
+                  ]
+            },
+            {
+                  "name": "Boma",
+                  "text": "Diese traditionelle Freiluft-Boma bietet Gästen eine authentische, stimmungsvolle Kulisse für gesellige Zusammenkünfte rund um eine knisternde Feuerstelle.",
+                  "category": "cultural",
+                  "coords": [
+                        28.206331,
+                        -25.769766
+                  ]
+            },
+            {
+                  "name": "pop up",
+                  "text": "Diese lebhafte Pop-up-Attraktion bringt temporäre, ständig wechselnde Installationen und saisonale Verkäufer in die städtische Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        28.185138,
+                        -25.758038
+                  ]
+            },
+            {
+                  "name": "Andries Pretorius Statue",
+                  "text": "Dieses aus Bronze gegossene Reiterdenkmal ehrt den Voortrekker-Anführer aus dem 19. Jahrhundert, nach dem die Stadt Pretoria benannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        28.188261,
+                        -25.753102
+                  ]
+            },
+            {
+                  "name": "National Cultural History Museum",
+                  "text": "Dieses umfangreiche Kulturmuseum bewahrt Artefakte auf, die von der Archäologie der Steinzeit über Felszeichnungen der San bis hin zu modernen Dokumenten reichen.",
+                  "category": "museum",
+                  "coords": [
+                        28.184468,
+                        -25.753403
+                  ]
+            },
+            {
+                  "name": "Eugene Maraispark",
+                  "text": "Dieser ruhige Vorstadtpark ist nach dem berühmten südafrikanischen Dichter benannt und bietet schattige Wanderwege und alte einheimische Bäume.",
+                  "category": "park",
+                  "coords": [
+                        28.220128,
+                        -25.778689
+                  ]
+            },
+            {
+                  "name": "Melrose House Museum",
+                  "text": "Diese stattliche viktorianische Villa ist für ihre kunstvollen Buntglasfenster und als historischer Ort bekannt, an dem 1902 der Frieden von Vereeniging unterzeichnet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        28.192535,
+                        -25.755767
+                  ]
+            },
+            {
+                  "name": "Lucusrand Tower",
+                  "text": "Dieser hoch aufragende Mikrowellen-Telekommunikationsmast erhebt sich steil über die Skyline der Stadt und dient als markantes Betonwahrzeichen.",
+                  "category": "tower",
+                  "coords": [
+                        28.205781,
+                        -25.766141
+                  ]
+            },
+            {
+                  "name": "Breytenbach Theatre",
+                  "text": "Dieses intime Theater in einem historischen ehemaligen Krankenhausgebäude ist eine wichtige Ausbildungsbühne für Schauspielstudenten der Universität.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198185,
+                        -25.754128
+                  ]
+            },
+            {
+                  "name": "//Hapo Museum",
+                  "text": "Dieses moderne, 2013 eröffnete und interaktive Museum nutzt seine einzigartige kupferverkleidete Architektur, um die reiche Geschichte des afrikanischen Kontinents chronologisch zu erzählen.",
+                  "category": "museum",
+                  "coords": [
+                        28.188771,
+                        -25.764273
+                  ]
+            },
+            {
+                  "name": "National Museum of Natural History",
+                  "text": "Dieses große Museum ist für seine umfangreiche Sammlung an Präparaten und Paläontologie bekannt und beherbergt den berühmten Plio-Pleistozän-Hominidenschädel „Mrs Ples“.",
+                  "category": "museum",
+                  "coords": [
+                        28.189335,
+                        -25.753031
+                  ]
+            },
+            {
+                  "name": "Burgers Park",
+                  "text": "Diese botanische Oase im viktorianischen Stil ist der älteste Park der Stadt und bietet geometrische Blumenbeete, historische Denkmäler und einen verzierten gusseisernen Musikpavillon.",
+                  "category": "park",
+                  "coords": [
+                        28.192348,
+                        -25.753941
+                  ]
+            },
+            {
+                  "name": "Pretoria City Hall",
+                  "text": "Dieses imposante städtische Verwaltungsgebäude besticht durch seinen halbkulturellen Architekturstil und beherbergt eine beeindruckende Pfeifenorgel im Hauptauditorium.",
+                  "category": "historical",
+                  "coords": [
+                        28.186898,
+                        -25.753199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ZK Matthews Great Hall",
+                  "text": "Az UNISA kampuszán található tágas nagyterem az egyetemi diplomaosztók és a nagyszabású szimfonikus koncertek elsődleges helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        28.197836,
+                        -25.766695
+                  ]
+            },
+            {
+                  "name": "Boma",
+                  "text": "Ez a hagyományos szabadtéri boma autentikus, hangulatos környezetet kínál a ropogó tűzrakóhely körüli társasági összejövetelekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        28.206331,
+                        -25.769766
+                  ]
+            },
+            {
+                  "name": "pop up",
+                  "text": "Ez a nyüzsgő pop-up látványosság ideiglenes, folyamatosan változó installációkat és szezonális árusokat vonultat fel a városi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.185138,
+                        -25.758038
+                  ]
+            },
+            {
+                  "name": "Andries Pretorius Statue",
+                  "text": "Ez a bronzba öntött lovas emlékmű a 19. századi Voortrekker vezető előtt tiszteleg, akiről Pretoria városa a nevét kapta.",
+                  "category": "historical",
+                  "coords": [
+                        28.188261,
+                        -25.753102
+                  ]
+            },
+            {
+                  "name": "National Cultural History Museum",
+                  "text": "Ez a kiterjedt kulturális múzeum a kőkorszaki régészettől és a szan sziklarajzoktól a modern történelmi dokumentumokig őriz tárgyakat.",
+                  "category": "museum",
+                  "coords": [
+                        28.184468,
+                        -25.753403
+                  ]
+            },
+            {
+                  "name": "Eugene Maraispark",
+                  "text": "Az ünnepelt dél-afrikai költőről és természettudósról elnevezett csendes külvárosi park árnyékos sétányokkal és őshonos fákkal várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        28.220128,
+                        -25.778689
+                  ]
+            },
+            {
+                  "name": "Melrose House Museum",
+                  "text": "Ez az impozáns viktoriánus kastély díszes ólomüveg ablakairól és arról az 1902-es történelmi helyszínről ismert, ahol a vereenigingi békét aláírták.",
+                  "category": "museum",
+                  "coords": [
+                        28.192535,
+                        -25.755767
+                  ]
+            },
+            {
+                  "name": "Lucusrand Tower",
+                  "text": "A város látképéből élesen kiemelkedő, hatalmas mikrohullámú távközlési árboc a környező külvárosok kiemelkedő beton tájékozódási pontjaként szolgál.",
+                  "category": "tower",
+                  "coords": [
+                        28.205781,
+                        -25.766141
+                  ]
+            },
+            {
+                  "name": "Breytenbach Theatre",
+                  "text": "A történelmi, egykori kórházépületben helyet kapó meghitt színház az egyetem dráma- és színészszakos hallgatóinak kulcsfontosságú gyakorló színpada.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198185,
+                        -25.754128
+                  ]
+            },
+            {
+                  "name": "//Hapo Museum",
+                  "text": "A 2013-ban megnyílt modern, interaktív múzeum egyedi, rézborítású építészetével kronologikusan meséli el az afrikai kontinens gazdag történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        28.188771,
+                        -25.764273
+                  ]
+            },
+            {
+                  "name": "National Museum of Natural History",
+                  "text": "A taxidermiás és őslénytani gyűjteményéről híres grandiózus múzeum őrzi a híres plio-pleisztocén emberféle koponyát, a „Mrs Ples”-t.",
+                  "category": "museum",
+                  "coords": [
+                        28.189335,
+                        -25.753031
+                  ]
+            },
+            {
+                  "name": "Burgers Park",
+                  "text": "A város legrégebbi parkjaként létrehozott viktoriánus stílusú botanikus menedékhely geometriai virágágyásokkal, történelmi műemlékekkel és díszes öntöttvas zenepavilonnal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        28.192348,
+                        -25.753941
+                  ]
+            },
+            {
+                  "name": "Pretoria City Hall",
+                  "text": "Ez az impozáns önkormányzati igazgatási épület félklasszikus építészeti stílussal büszkélkedhet, fő auditóriumában pedig egy lenyűgöző sípos orgona kapott helyet.",
+                  "category": "historical",
+                  "coords": [
+                        28.186898,
+                        -25.753199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ZK Matthews Great Hall",
+                  "text": "Situată în campusul UNISA, această sală mare și spațioasă servește drept loc principal pentru absolviri academice și concerte simfonice mari.",
+                  "category": "cultural",
+                  "coords": [
+                        28.197836,
+                        -25.766695
+                  ]
+            },
+            {
+                  "name": "Boma",
+                  "text": "Această boma tradițională în aer liber oferă oaspeților un cadru autentic și plin de atmosferă pentru adunări sociale în jurul unui focar.",
+                  "category": "cultural",
+                  "coords": [
+                        28.206331,
+                        -25.769766
+                  ]
+            },
+            {
+                  "name": "pop up",
+                  "text": "Această atracție pop-up vibrantă introduce instalații temporare, mereu în schimbare și vânzători sezonieri în peisajul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.185138,
+                        -25.758038
+                  ]
+            },
+            {
+                  "name": "Andries Pretorius Statue",
+                  "text": "Acest monument ecvestru din bronz îl onorează pe liderul Voortrekker din secolul al XIX-lea după care este numit orașul Pretoria.",
+                  "category": "historical",
+                  "coords": [
+                        28.188261,
+                        -25.753102
+                  ]
+            },
+            {
+                  "name": "National Cultural History Museum",
+                  "text": "Acest vast muzeu cultural păstrează artefacte care variază de la arheologia epocii de piatră și gravurile rupestre San, până la documente istorice moderne.",
+                  "category": "museum",
+                  "coords": [
+                        28.184468,
+                        -25.753403
+                  ]
+            },
+            {
+                  "name": "Eugene Maraispark",
+                  "text": "Numit după celebrul poet și naturalist sud-african, acest parc suburban liniștit are cărări umbrite pentru plimbări și copaci autohtoni maturi.",
+                  "category": "park",
+                  "coords": [
+                        28.220128,
+                        -25.778689
+                  ]
+            },
+            {
+                  "name": "Melrose House Museum",
+                  "text": "Acest impunător conac victorian este celebru pentru ferestrele sale cu vitralii ornamentate și ca loc istoric unde a fost semnat Tratatul de la Vereeniging în 1902.",
+                  "category": "museum",
+                  "coords": [
+                        28.192535,
+                        -25.755767
+                  ]
+            },
+            {
+                  "name": "Lucusrand Tower",
+                  "text": "Ridicându-se brusc deasupra orizontului orașului, acest falnic turn de telecomunicații cu microunde servește ca un reper de beton proeminent pentru suburbiile din jur.",
+                  "category": "tower",
+                  "coords": [
+                        28.205781,
+                        -25.766141
+                  ]
+            },
+            {
+                  "name": "Breytenbach Theatre",
+                  "text": "Găzduit într-o fostă clădire istorică a unui spital, acest teatru intim este o scenă cheie de antrenament pentru studenții universitari la dramă și actorie.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198185,
+                        -25.754128
+                  ]
+            },
+            {
+                  "name": "//Hapo Museum",
+                  "text": "Deschis în 2013, acest muzeu interactiv modern folosește o arhitectură unică placată cu cupru pentru a relata cronologic istoria bogată a continentului african.",
+                  "category": "museum",
+                  "coords": [
+                        28.188771,
+                        -25.764273
+                  ]
+            },
+            {
+                  "name": "National Museum of Natural History",
+                  "text": "Renumit pentru vasta sa colecție de taxidermie și paleontologie, acest muzeu grandios adăpostește celebrul craniu de hominid plio-pleistocen cunoscut sub numele de doamna Ples.",
+                  "category": "museum",
+                  "coords": [
+                        28.189335,
+                        -25.753031
+                  ]
+            },
+            {
+                  "name": "Burgers Park",
+                  "text": "Înființat ca cel mai vechi parc din oraș, acest refugiu botanic în stil victorian prezintă straturi geometrice de flori, monumente istorice și un chioșc muzical ornamentat din fontă.",
+                  "category": "park",
+                  "coords": [
+                        28.192348,
+                        -25.753941
+                  ]
+            },
+            {
+                  "name": "Pretoria City Hall",
+                  "text": "Această impunătoare clădire a administrației municipale se mândrește cu un stil arhitectural semi-clasic și găzduiește o impresionantă orgă cu tuburi în sala principală.",
+                  "category": "historical",
+                  "coords": [
+                        28.186898,
+                        -25.753199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ZK Matthews Great Hall",
+                  "text": "Situated within the UNISA campus, this spacious great hall serves as a primary venue for academic graduations and large symphonic concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        28.197836,
+                        -25.766695
+                  ]
+            },
+            {
+                  "name": "Boma",
+                  "text": "This traditional open-air boma offers guests an authentic atmospheric setting for social gatherings centered around a crackling fire pit.",
+                  "category": "cultural",
+                  "coords": [
+                        28.206331,
+                        -25.769766
+                  ]
+            },
+            {
+                  "name": "pop up",
+                  "text": "This vibrant pop-up attraction introduces temporary, ever-changing installations and seasonal vendors to the urban landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        28.185138,
+                        -25.758038
+                  ]
+            },
+            {
+                  "name": "Andries Pretorius Statue",
+                  "text": "This cast-bronze equestrian monument honors the 19th-century Voortrekker leader after whom the city of Pretoria is named.",
+                  "category": "historical",
+                  "coords": [
+                        28.188261,
+                        -25.753102
+                  ]
+            },
+            {
+                  "name": "National Cultural History Museum",
+                  "text": "This extensive cultural museum preserves artifacts ranging from Stone Age archaeology and San rock engravings to modern historical documents.",
+                  "category": "museum",
+                  "coords": [
+                        28.184468,
+                        -25.753403
+                  ]
+            },
+            {
+                  "name": "Eugene Maraispark",
+                  "text": "Named after the celebrated South African poet and naturalist, this quiet suburban park features shaded walking paths and mature native trees.",
+                  "category": "park",
+                  "coords": [
+                        28.220128,
+                        -25.778689
+                  ]
+            },
+            {
+                  "name": "Melrose House Museum",
+                  "text": "This stately Victorian mansion is celebrated for its ornate stained-glass windows and as the historic site where the 1902 Treaty of Vereeniging was signed.",
+                  "category": "museum",
+                  "coords": [
+                        28.192535,
+                        -25.755767
+                  ]
+            },
+            {
+                  "name": "Lucusrand Tower",
+                  "text": "Rising sharply above the city skyline, this towering microwave telecommunications mast serves as a prominent concrete landmark for the surrounding suburbs.",
+                  "category": "tower",
+                  "coords": [
+                        28.205781,
+                        -25.766141
+                  ]
+            },
+            {
+                  "name": "Breytenbach Theatre",
+                  "text": "Housed in a historic former hospital building, this intimate theatre is a key training stage for university drama and performance students.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198185,
+                        -25.754128
+                  ]
+            },
+            {
+                  "name": "//Hapo Museum",
+                  "text": "Opened in 2013, this modern interactive museum uses unique copper-clad architecture to chronologically recount the rich history of the African continent.",
+                  "category": "museum",
+                  "coords": [
+                        28.188771,
+                        -25.764273
+                  ]
+            },
+            {
+                  "name": "National Museum of Natural History",
+                  "text": "Renowned for its vast collection of taxidermy and paleontology, this grand museum safely houses the famous Plio-Pleistocene hominid skull known as Mrs Ples.",
+                  "category": "museum",
+                  "coords": [
+                        28.189335,
+                        -25.753031
+                  ]
+            },
+            {
+                  "name": "Burgers Park",
+                  "text": "Established as the oldest park in the city, this Victorian-style botanical haven features geometric flower beds, historic monuments, and an ornate cast-iron bandstand.",
+                  "category": "park",
+                  "coords": [
+                        28.192348,
+                        -25.753941
+                  ]
+            },
+            {
+                  "name": "Pretoria City Hall",
+                  "text": "This imposing municipal administration building boasts a semi-classical architectural style and houses an impressive pipe organ within its main auditorium.",
+                  "category": "historical",
+                  "coords": [
+                        28.186898,
+                        -25.753199
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.1875, -25.7533],
@@ -903,7 +7086,952 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cape-town-city-hall-landmarks-v2",
+    id: "cape-town-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Long street",
+                  "text": "Diese berühmte Straße ist bekannt für ihre Gebäude aus der viktorianischen Ära mit markanten schmiedeeisernen Balkonen.",
+                  "category": "historical",
+                  "coords": [
+                        18.419354,
+                        -33.922189
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf die steilen Kopfsteinpflasterstraßen und die farbenfroh bemalten Häuser des historischen Viertels.",
+                  "category": "natural",
+                  "coords": [
+                        18.414202,
+                        -33.918227
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap view",
+                  "text": "Dieser am Fuße des Signal Hill gelegene Ort bietet einen Panoramablick auf die bunten Fassaden der traditionellen Häuser.",
+                  "category": "natural",
+                  "coords": [
+                        18.414956,
+                        -33.920256
+                  ]
+            },
+            {
+                  "name": "Bartolomeu Dias",
+                  "text": "Dieses Denkmal erinnert an den berühmten portugiesischen Entdecker, der historisch das Kap umschiffte.",
+                  "category": "historical",
+                  "coords": [
+                        18.427995,
+                        -33.917524
+                  ]
+            },
+            {
+                  "name": "Museum of Dogs",
+                  "text": "Dieses einzigartige Museum widmet sich vollständig der Geschichte, den Rassen und der kulturellen Bedeutung von Hunden.",
+                  "category": "museum",
+                  "coords": [
+                        18.41588,
+                        -33.926514
+                  ]
+            },
+            {
+                  "name": "Berliner Mauer",
+                  "text": "Diese denkmalgeschützte Attraktion bewahrt ein authentisches Betonsegment der historischen Berliner Mauer.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419474,
+                        -33.9243
+                  ]
+            },
+            {
+                  "name": "Laude Classic Cars",
+                  "text": "Automobilliebhaber können hier eine kuratierte Sammlung aufwendig restaurierter Oldtimer und klassischer Fahrzeuge bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        18.416235,
+                        -33.921334
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Besucher können in diesem interaktiven Museum eine Vielzahl von verblüffenden optischen Täuschungen und visuellen Rätseln erleben.",
+                  "category": "museum",
+                  "coords": [
+                        18.412965,
+                        -33.927553
+                  ]
+            },
+            {
+                  "name": "Company's Garden",
+                  "text": "Dieser historische Park wurde 1652 angelegt und diente ursprünglich als wichtige Versorgungsstation für vorbeifahrende Schiffe.",
+                  "category": "park",
+                  "coords": [
+                        18.417147,
+                        -33.927312
+                  ]
+            },
+            {
+                  "name": "Nationalrat der Provinzen",
+                  "text": "Dieses markante Regierungsgebäude beherbergt das Oberhaus des südafrikanischen Parlaments.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419725,
+                        -33.9258
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap Museum",
+                  "text": "Dieses Kulturmuseum aus dem Jahr 1763 beleuchtet das reiche islamische Erbe der lokalen kapmalaiischen Gemeinde.",
+                  "category": "museum",
+                  "coords": [
+                        18.414885,
+                        -33.921424
+                  ]
+            },
+            {
+                  "name": "Nurul Houda Masjied",
+                  "text": "Diese Moschee dient als wichtiger spiritueller Versammlungsort für die lokale muslimische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        18.413496,
+                        -33.921742
+                  ]
+            },
+            {
+                  "name": "Jumu'a Mosque of Cape Town",
+                  "text": "Diese bedeutende Moschee zeichnet sich durch traditionelle islamische Architekturelemente aus und beherbergt regelmäßige Freitagsgebete.",
+                  "category": "religious",
+                  "coords": [
+                        18.41423,
+                        -33.92799
+                  ]
+            },
+            {
+                  "name": "Coowatool Islam Mosque",
+                  "text": "Diese historische Moschee ist ein fester Bestandteil der lebendigen kapmalaiischen Kultur- und Religionslandschaft.",
+                  "category": "religious",
+                  "coords": [
+                        18.413555,
+                        -33.926268
+                  ]
+            },
+            {
+                  "name": "Nurul Mogammadiah Masjied",
+                  "text": "Diese Moschee, die durch ihr traditionelles Minarett besticht, ist ein engagiertes Zentrum für die lokale islamische Glaubenspraxis.",
+                  "category": "religious",
+                  "coords": [
+                        18.417243,
+                        -33.916937
+                  ]
+            },
+            {
+                  "name": "Old Slave Tree Memorial",
+                  "text": "Dieses feierliche Denkmal markiert die historische Stelle, an der einst versklavte Menschen unter einem Tannenbaum verkauft wurden.",
+                  "category": "historical",
+                  "coords": [
+                        18.421325,
+                        -33.925194
+                  ]
+            },
+            {
+                  "name": "Koopmans-de Wet House",
+                  "text": "Dieses stadthistorische Museum aus dem Jahr 1790 verfügt über eine markante klassizistische Fassade und bewahrt Antiquitäten aus der Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        18.421277,
+                        -33.920951
+                  ]
+            },
+            {
+                  "name": "Auwal Masjid",
+                  "text": "Diese 1794 gegründete Moschee ist die erste und älteste, die jemals in Südafrika errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        18.414954,
+                        -33.922331
+                  ]
+            },
+            {
+                  "name": "Mythological Landscape",
+                  "text": "Dieses faszinierende bildhauerische Denkmal zeigt symbolische Figuren, die von der klassischen Mythologie inspiriert sind.",
+                  "category": "historical",
+                  "coords": [
+                        18.423589,
+                        -33.919399
+                  ]
+            },
+            {
+                  "name": "Two Minutes of Silence and Remembrance",
+                  "text": "Dieses Gedenkmonument ehrt die feierliche tägliche Tradition des Innehaltens und der Reflexion.",
+                  "category": "historical",
+                  "coords": [
+                        18.421894,
+                        -33.92338
+                  ]
+            },
+            {
+                  "name": "Masjid Boorhaanol Islam",
+                  "text": "Diese etablierte Moschee im historischen Viertel Bo-Kaap weist markante islamische Architekturdetails auf.",
+                  "category": "religious",
+                  "coords": [
+                        18.415962,
+                        -33.919934
+                  ]
+            },
+            {
+                  "name": "Jameah Masjid",
+                  "text": "Dieses auch als Queen Victoria Mosque bekannte Gotteshaus aus dem Jahr 1850 hat eine große historische Bedeutung für die örtliche Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        18.416751,
+                        -33.91826
+                  ]
+            },
+            {
+                  "name": "Evangelical Lutheran Church Strand Street",
+                  "text": "Mit ihrer kunstvoll geschnitzten Kanzel von Anton Anreith ist dies eines der ältesten erhaltenen Kirchengebäude der Region.",
+                  "category": "religious",
+                  "coords": [
+                        18.419577,
+                        -33.918961
+                  ]
+            },
+            {
+                  "name": "Palm Tree Mosque",
+                  "text": "Diese 1807 aus einem Wohnhaus umgebaute historische Moschee ist bekannt für die Palmen, die ursprünglich an ihrem Eingang gepflanzt wurden.",
+                  "category": "religious",
+                  "coords": [
+                        18.416831,
+                        -33.924799
+                  ]
+            },
+            {
+                  "name": "South African Sendinggestig Museum",
+                  "text": "Das South African Sendinggestig Museum in Kapstadt bewahrt die Geschichte der frühen christlichen Missionsarbeit in einem historischen Kirchengebäude.",
+                  "category": "museum",
+                  "coords": [
+                        18.420279,
+                        -33.921111
+                  ]
+            },
+            {
+                  "name": "Old Town House Museum",
+                  "text": "Das Old Town House Museum, das ehemalige Burgerwaghuis, ist ein historisches Museum in Kapstadt, das Kunst und Architektur aus der Kolonialzeit zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.419882,
+                        -33.923126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Long street",
+                  "text": "Ez a híres utca a viktoriánus korszakból származó épületeiről és jellegzetes kovácsoltvas erkélyeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        18.419354,
+                        -33.922189
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap",
+                  "text": "Ebből a kilátóból rálátni a történelmi negyed meredek macskaköves utcáira és élénk színűre festett házaira.",
+                  "category": "natural",
+                  "coords": [
+                        18.414202,
+                        -33.918227
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap view",
+                  "text": "A Signal Hill lábánál található helyről panorámás kilátás nyílik a hagyományos házak színes homlokzataira.",
+                  "category": "natural",
+                  "coords": [
+                        18.414956,
+                        -33.920256
+                  ]
+            },
+            {
+                  "name": "Bartolomeu Dias",
+                  "text": "Ez az emlékmű a híres portugál felfedezőnek állít emléket, aki történelmi jelentőségű útján megkerülte a Fokot.",
+                  "category": "historical",
+                  "coords": [
+                        18.427995,
+                        -33.917524
+                  ]
+            },
+            {
+                  "name": "Museum of Dogs",
+                  "text": "Ez az egyedülálló múzeum teljes egészében a kutyák történetének, fajtáinak és kulturális hatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        18.41588,
+                        -33.926514
+                  ]
+            },
+            {
+                  "name": "Berlini fal",
+                  "text": "Ez a műemlékvédelem alatt álló látványosság a történelmi berlini fal egy eredeti betondarabját őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419474,
+                        -33.9243
+                  ]
+            },
+            {
+                  "name": "Laude Classic Cars",
+                  "text": "Az autórajongók itt gyönyörűen felújított veterán és klasszikus autók gondosan összeállított gyűjteményét csodálhatják meg.",
+                  "category": "museum",
+                  "coords": [
+                        18.416235,
+                        -33.921334
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "A látogatók számos észbontó optikai csalódást és vizuális rejtvényt próbálhatnak ki ebben az interaktív múzeumban.",
+                  "category": "museum",
+                  "coords": [
+                        18.412965,
+                        -33.927553
+                  ]
+            },
+            {
+                  "name": "Company's Garden",
+                  "text": "Az 1652-ben alapított történelmi park eredetileg az elhaladó hajók létfontosságú frissítő állomásaként szolgált.",
+                  "category": "park",
+                  "coords": [
+                        18.417147,
+                        -33.927312
+                  ]
+            },
+            {
+                  "name": "National Council of Provinces",
+                  "text": "Ez a kiemelkedő kormányzati épület ad otthont a dél-afrikai parlament felsőházának.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419725,
+                        -33.9258
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap Museum",
+                  "text": "Az 1763-ból származó kulturális múzeum a helyi fokvárosi maláj közösség gazdag iszlám örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.414885,
+                        -33.921424
+                  ]
+            },
+            {
+                  "name": "Nurul Houda Masjied",
+                  "text": "Ez a mecset fontos spirituális gyülekezési helyként szolgál a helyi muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        18.413496,
+                        -33.921742
+                  ]
+            },
+            {
+                  "name": "Jumu'a Mosque of Cape Town",
+                  "text": "Ez a jelentős mecset hagyományos iszlám építészeti elemekkel büszkélkedhet, és rendszeres pénteki imáknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        18.41423,
+                        -33.92799
+                  ]
+            },
+            {
+                  "name": "Coowatool Islam Mosque",
+                  "text": "Ez a történelmi mecset a pezsgő fokvárosi maláj kulturális és vallási élet szerves része.",
+                  "category": "religious",
+                  "coords": [
+                        18.413555,
+                        -33.926268
+                  ]
+            },
+            {
+                  "name": "Nurul Mogammadiah Masjied",
+                  "text": "A hagyományos minaretjével kitűnő mecset a helyi iszlám hitélet egyik elkötelezett központja.",
+                  "category": "religious",
+                  "coords": [
+                        18.417243,
+                        -33.916937
+                  ]
+            },
+            {
+                  "name": "Old Slave Tree Memorial",
+                  "text": "Ez az ünnepélyes emlékmű azt a történelmi helyszínt jelöli, ahol egykor egy fenyőfa alatt rabszolgákat árultak.",
+                  "category": "historical",
+                  "coords": [
+                        18.421325,
+                        -33.925194
+                  ]
+            },
+            {
+                  "name": "Koopmans-de Wet House",
+                  "text": "Az 1790-ből származó, jellegzetes neoklasszikus homlokzatú városi múzeum a gyarmati korból származó régiségeket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        18.421277,
+                        -33.920951
+                  ]
+            },
+            {
+                  "name": "Auwal Masjid",
+                  "text": "Az 1794-ben alapított épület Dél-Afrika legelső és legrégebbi mecsete.",
+                  "category": "religious",
+                  "coords": [
+                        18.414954,
+                        -33.922331
+                  ]
+            },
+            {
+                  "name": "Mythological Landscape",
+                  "text": "Ez a lenyűgöző szobrászati emlékmű a klasszikus mitológia által ihletett szimbolikus alakokat ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        18.423589,
+                        -33.919399
+                  ]
+            },
+            {
+                  "name": "Two Minutes of Silence and Remembrance",
+                  "text": "Ez az emlékmű a megállás és az elmélyülés ünnepélyes mindennapi hagyományának tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        18.421894,
+                        -33.92338
+                  ]
+            },
+            {
+                  "name": "Masjid Boorhaanol Islam",
+                  "text": "A történelmi Bo-Kaap negyedben található, nagy múltú mecset jellegzetes iszlám építészeti részletekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        18.415962,
+                        -33.919934
+                  ]
+            },
+            {
+                  "name": "Jameah Masjid",
+                  "text": "A Queen Victoria mecsetként is ismert, 1850-ből származó imahely jelentős történelmi szálakkal kötődik a helyi közösséghez.",
+                  "category": "religious",
+                  "coords": [
+                        18.416751,
+                        -33.91826
+                  ]
+            },
+            {
+                  "name": "Evangelical Lutheran Church Strand Street",
+                  "text": "Az Anton Anreith által díszesen kifaragott szószékkel rendelkező épület a régió egyik legrégebbi fennmaradt temploma.",
+                  "category": "religious",
+                  "coords": [
+                        18.419577,
+                        -33.918961
+                  ]
+            },
+            {
+                  "name": "Palm Tree Mosque",
+                  "text": "Az 1807-ben lakóházból átalakított történelmi mecset a bejáratánál eredetileg elültetett pálmafáiról híres.",
+                  "category": "religious",
+                  "coords": [
+                        18.416831,
+                        -33.924799
+                  ]
+            },
+            {
+                  "name": "South African Sendinggestig Museum",
+                  "text": "A fokvárosi South African Sendinggestig Múzeum a korai keresztény misszionáriusi munka történetét mutatja be egy történelmi templomépületben.",
+                  "category": "museum",
+                  "coords": [
+                        18.420279,
+                        -33.921111
+                  ]
+            },
+            {
+                  "name": "Old Town House Museum",
+                  "text": "Az Old Town House Múzeum, a korábbi Burgerwaghuis, egy történelmi múzeum Fokvárosban, amely a gyarmati korszak művészetét és építészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.419882,
+                        -33.923126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Long street",
+                  "text": "Această stradă faimoasă este cunoscută pentru clădirile sale din epoca victoriană, cu balcoane distinctive din fier forjat.",
+                  "category": "historical",
+                  "coords": [
+                        18.419354,
+                        -33.922189
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap",
+                  "text": "Acest punct de belvedere oferă o privire de ansamblu asupra străzilor pietruite abrupte și a caselor viu colorate din cartierul istoric.",
+                  "category": "natural",
+                  "coords": [
+                        18.414202,
+                        -33.918227
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap view",
+                  "text": "Situat la poalele dealului Signal, acest loc oferă vederi panoramice asupra fațadelor colorate ale caselor tradiționale.",
+                  "category": "natural",
+                  "coords": [
+                        18.414956,
+                        -33.920256
+                  ]
+            },
+            {
+                  "name": "Bartolomeu Dias",
+                  "text": "Acest monument îl comemorează pe faimosul explorator portughez care a navigat istoric în jurul Capului.",
+                  "category": "historical",
+                  "coords": [
+                        18.427995,
+                        -33.917524
+                  ]
+            },
+            {
+                  "name": "Museum of Dogs",
+                  "text": "Acest muzeu unic este dedicat în întregime istoriei, raselor și impactului cultural al câinilor.",
+                  "category": "museum",
+                  "coords": [
+                        18.41588,
+                        -33.926514
+                  ]
+            },
+            {
+                  "name": "Berlin Wall segment",
+                  "text": "Această atracție de patrimoniu păstrează un segment autentic de beton al istoricului Zid al Berlinului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419474,
+                        -33.9243
+                  ]
+            },
+            {
+                  "name": "Laude Classic Cars",
+                  "text": "Entuziaștii auto pot admira aici o colecție îngrijită de mașini de epocă și clasice restaurate.",
+                  "category": "museum",
+                  "coords": [
+                        18.416235,
+                        -33.921334
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Vizitatorii pot interacționa cu o varietate de iluzii optice și puzzle-uri vizuale uluitoare în acest muzeu interactiv.",
+                  "category": "museum",
+                  "coords": [
+                        18.412965,
+                        -33.927553
+                  ]
+            },
+            {
+                  "name": "Company's Garden",
+                  "text": "Înființat în 1652, acest parc istoric a servit inițial ca o stație vitală de aprovizionare pentru navele aflate în trecere.",
+                  "category": "park",
+                  "coords": [
+                        18.417147,
+                        -33.927312
+                  ]
+            },
+            {
+                  "name": "National Council of Provinces",
+                  "text": "Această importantă clădire guvernamentală găzduiește camera superioară a Parlamentului sud-african.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419725,
+                        -33.9258
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap Museum",
+                  "text": "Datând din 1763, acest muzeu cultural evidențiază bogata moștenire islamică a comunității locale malaeziene din Cape Town.",
+                  "category": "museum",
+                  "coords": [
+                        18.414885,
+                        -33.921424
+                  ]
+            },
+            {
+                  "name": "Nurul Houda Masjied",
+                  "text": "Această moschee servește ca un important loc de adunare spirituală pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        18.413496,
+                        -33.921742
+                  ]
+            },
+            {
+                  "name": "Jumu'a Mosque of Cape Town",
+                  "text": "Această moschee importantă prezintă elemente de arhitectură islamică tradițională și găzduiește rugăciuni comune regulate.",
+                  "category": "religious",
+                  "coords": [
+                        18.41423,
+                        -33.92799
+                  ]
+            },
+            {
+                  "name": "Coowatool Islam Mosque",
+                  "text": "Această moschee istorică este o parte integrantă a peisajului cultural și religios vibrant al comunității malaeziene.",
+                  "category": "religious",
+                  "coords": [
+                        18.413555,
+                        -33.926268
+                  ]
+            },
+            {
+                  "name": "Nurul Mogammadiah Masjied",
+                  "text": "Caracterizată de minaretul său tradițional, această moschee este un centru dedicat cultului islamic local.",
+                  "category": "religious",
+                  "coords": [
+                        18.417243,
+                        -33.916937
+                  ]
+            },
+            {
+                  "name": "Old Slave Tree Memorial",
+                  "text": "Acest monument solemn marchează locul istoric unde oamenii înrobiți erau cândva vânduți sub un brad.",
+                  "category": "historical",
+                  "coords": [
+                        18.421325,
+                        -33.925194
+                  ]
+            },
+            {
+                  "name": "Koopmans-de Wet House",
+                  "text": "Datând din 1790, acest muzeu orășenesc prezintă o fațadă neoclasică impresionantă și păstrează antichități din epoca colonială.",
+                  "category": "museum",
+                  "coords": [
+                        18.421277,
+                        -33.920951
+                  ]
+            },
+            {
+                  "name": "Auwal Masjid",
+                  "text": "Înființată în 1794, aceasta este recunoscută drept prima și cea mai veche moschee construită vreodată în Africa de Sud.",
+                  "category": "religious",
+                  "coords": [
+                        18.414954,
+                        -33.922331
+                  ]
+            },
+            {
+                  "name": "Mythological Landscape",
+                  "text": "Acest monument sculptural intrigant înfățișează figuri simbolice inspirate din mitologia clasică.",
+                  "category": "historical",
+                  "coords": [
+                        18.423589,
+                        -33.919399
+                  ]
+            },
+            {
+                  "name": "Two Minutes of Silence and Remembrance",
+                  "text": "Acest monument comemorativ onorează tradiția solemnă zilnică de a face o pauză pentru reflecție.",
+                  "category": "historical",
+                  "coords": [
+                        18.421894,
+                        -33.92338
+                  ]
+            },
+            {
+                  "name": "Masjid Boorhaanol Islam",
+                  "text": "Situată în cartierul istoric Bo-Kaap, această moschee consacrată prezintă detalii arhitecturale islamice distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        18.415962,
+                        -33.919934
+                  ]
+            },
+            {
+                  "name": "Jameah Masjid",
+                  "text": "Cunoscut și sub numele de Moscheea Reginei Victoria, acest lăcaș de cult din anii 1850 are legături istorice semnificative cu comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        18.416751,
+                        -33.91826
+                  ]
+            },
+            {
+                  "name": "Evangelical Lutheran Church Strand Street",
+                  "text": "Având un amvon sculptat ornamentat de Anton Anreith, aceasta este una dintre cele mai vechi clădiri bisericești care au supraviețuit în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        18.419577,
+                        -33.918961
+                  ]
+            },
+            {
+                  "name": "Palm Tree Mosque",
+                  "text": "Înființată în 1807 prin transformarea unei reședințe, această moschee istorică este remarcabilă pentru palmierii plantați inițial la intrarea sa.",
+                  "category": "religious",
+                  "coords": [
+                        18.416831,
+                        -33.924799
+                  ]
+            },
+            {
+                  "name": "South African Sendinggestig Museum",
+                  "text": "Muzeul South African Sendinggestig din Cape Town păstrează istoria primelor misiuni creștine într-o clădire istorică de biserică.",
+                  "category": "museum",
+                  "coords": [
+                        18.420279,
+                        -33.921111
+                  ]
+            },
+            {
+                  "name": "Old Town House Museum",
+                  "text": "Muzeul Old Town House, fosta Burgerwaghuis, este un muzeu istoric din Cape Town care expune artă și arhitectură din epoca colonială.",
+                  "category": "museum",
+                  "coords": [
+                        18.419882,
+                        -33.923126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Long street",
+                  "text": "Famous for its Victorian-era buildings with distinct wrought-iron balconies, this street is a vibrant historic landmark.",
+                  "category": "historical",
+                  "coords": [
+                        18.419354,
+                        -33.922189
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap",
+                  "text": "This viewpoint overlooks the steeply cobbled streets and vibrant, brightly painted houses of the historic neighbourhood.",
+                  "category": "natural",
+                  "coords": [
+                        18.414202,
+                        -33.918227
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap view",
+                  "text": "Situated at the foot of Signal Hill, this spot provides panoramic views over a vibrant landscape of colorful homes.",
+                  "category": "natural",
+                  "coords": [
+                        18.414956,
+                        -33.920256
+                  ]
+            },
+            {
+                  "name": "Bartolomeu Dias",
+                  "text": "This monument commemorates the famous Portuguese explorer who historically navigated around the Cape.",
+                  "category": "historical",
+                  "coords": [
+                        18.427995,
+                        -33.917524
+                  ]
+            },
+            {
+                  "name": "Museum of Dogs",
+                  "text": "This unique museum is entirely dedicated to the history, breeds, and cultural impact of dogs.",
+                  "category": "museum",
+                  "coords": [
+                        18.41588,
+                        -33.926514
+                  ]
+            },
+            {
+                  "name": "Berlin Wall segment",
+                  "text": "This heritage attraction preserves an authentic concrete segment of the historic Berlin Wall.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419474,
+                        -33.9243
+                  ]
+            },
+            {
+                  "name": "Laude Classic Cars",
+                  "text": "Automotive enthusiasts can admire a curated collection of restored vintage and classic cars here.",
+                  "category": "museum",
+                  "coords": [
+                        18.416235,
+                        -33.921334
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Visitors can interact with a variety of mind-bending optical illusions and visual puzzles at this museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.412965,
+                        -33.927553
+                  ]
+            },
+            {
+                  "name": "Company's Garden",
+                  "text": "Established in 1652, this historic park originally served as a vital refreshment station for passing ships.",
+                  "category": "park",
+                  "coords": [
+                        18.417147,
+                        -33.927312
+                  ]
+            },
+            {
+                  "name": "National Council of Provinces",
+                  "text": "This prominent government attraction serves as the upper house of the South African Parliament.",
+                  "category": "landmark",
+                  "coords": [
+                        18.419725,
+                        -33.9258
+                  ]
+            },
+            {
+                  "name": "Bo-Kaap Museum",
+                  "text": "Dating back to 1763, this cultural museum highlights the rich Islamic heritage of the local Cape Malay community.",
+                  "category": "museum",
+                  "coords": [
+                        18.414885,
+                        -33.921424
+                  ]
+            },
+            {
+                  "name": "Nurul Houda Masjied",
+                  "text": "This mosque serves as an important spiritual gathering place for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        18.413496,
+                        -33.921742
+                  ]
+            },
+            {
+                  "name": "Jumu'a Mosque of Cape Town",
+                  "text": "This prominent mosque features traditional Islamic architectural elements and hosts regular congregational prayers.",
+                  "category": "religious",
+                  "coords": [
+                        18.41423,
+                        -33.92799
+                  ]
+            },
+            {
+                  "name": "Coowatool Islam Mosque",
+                  "text": "This historic mosque is an integral part of the vibrant Cape Malay cultural and religious landscape.",
+                  "category": "religious",
+                  "coords": [
+                        18.413555,
+                        -33.926268
+                  ]
+            },
+            {
+                  "name": "Nurul Mogammadiah Masjied",
+                  "text": "Characterized by its traditional minaret, this mosque is a dedicated center for local Islamic worship.",
+                  "category": "religious",
+                  "coords": [
+                        18.417243,
+                        -33.916937
+                  ]
+            },
+            {
+                  "name": "Old Slave Tree Memorial",
+                  "text": "This solemn monument marks the historical site where enslaved people were once sold under a fir tree.",
+                  "category": "historical",
+                  "coords": [
+                        18.421325,
+                        -33.925194
+                  ]
+            },
+            {
+                  "name": "Koopmans-de Wet House",
+                  "text": "Originating in 1790, this townhouse museum features a striking neoclassical facade and preserves colonial-era antiques.",
+                  "category": "museum",
+                  "coords": [
+                        18.421277,
+                        -33.920951
+                  ]
+            },
+            {
+                  "name": "Auwal Masjid",
+                  "text": "Founded in 1794, this is recognized as the first and oldest mosque ever established in South Africa.",
+                  "category": "religious",
+                  "coords": [
+                        18.414954,
+                        -33.922331
+                  ]
+            },
+            {
+                  "name": "Mythological Landscape",
+                  "text": "This intriguing sculptural monument depicts symbolic figures inspired by classical mythology.",
+                  "category": "historical",
+                  "coords": [
+                        18.423589,
+                        -33.919399
+                  ]
+            },
+            {
+                  "name": "Two Minutes of Silence and Remembrance",
+                  "text": "This memorial monument honors the solemn daily tradition of pausing for reflection.",
+                  "category": "historical",
+                  "coords": [
+                        18.421894,
+                        -33.92338
+                  ]
+            },
+            {
+                  "name": "Masjid Boorhaanol Islam",
+                  "text": "Situated in the historic Bo-Kaap district, this established mosque features distinctive Islamic architectural details.",
+                  "category": "religious",
+                  "coords": [
+                        18.415962,
+                        -33.919934
+                  ]
+            },
+            {
+                  "name": "Jameah Masjid",
+                  "text": "Also known as the Queen Victoria Mosque, this 1850s place of worship boasts significant historical ties to the local community.",
+                  "category": "religious",
+                  "coords": [
+                        18.416751,
+                        -33.91826
+                  ]
+            },
+            {
+                  "name": "Evangelical Lutheran Church Strand Street",
+                  "text": "Featuring an ornate pulpit carved by Anton Anreith, this is one of the oldest surviving church buildings in the region.",
+                  "category": "religious",
+                  "coords": [
+                        18.419577,
+                        -33.918961
+                  ]
+            },
+            {
+                  "name": "Palm Tree Mosque",
+                  "text": "Established in 1807, this historic mosque was converted from a residence and is notable for the palm trees originally planted at its entrance.",
+                  "category": "religious",
+                  "coords": [
+                        18.416831,
+                        -33.924799
+                  ]
+            },
+            {
+                  "name": "South African Sendinggestig Museum",
+                  "text": "The South African Sendinggestig Museum in Cape Town preserves the history of early Christian missionary work in a historic church building.",
+                  "category": "museum",
+                  "coords": [
+                        18.420279,
+                        -33.921111
+                  ]
+            },
+            {
+                  "name": "Old Town House Museum",
+                  "text": "The Old Town House Museum, formerly the Burgerwaghuis, is a historic museum in Cape Town showcasing colonial-era art and architecture.",
+                  "category": "museum",
+                  "coords": [
+                        18.419882,
+                        -33.923126
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [18.4231, -33.9248],
@@ -963,7 +8091,196 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nelson-mandela-bay-stadium-landmarks-v2",
+    id: "nelson-mandela-bay-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Telescope",
+                  "text": "Ein öffentliches Fernrohr in Nelson Mandela Bay, das vergrößerte Ausblicke auf den geschäftigen Küstenhafen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.579588,
+                        -33.954173
+                  ]
+            },
+            {
+                  "name": "Kwaford Primary School",
+                  "text": "Die strukturellen Überreste einer ehemaligen Grundschule in der städtischen Landschaft der Nelson Mandela Bay.",
+                  "category": "historical",
+                  "coords": [
+                        25.584405,
+                        -33.905888
+                  ]
+            },
+            {
+                  "name": "Red Location Museum",
+                  "text": "Ein markantes Museum in Nelson Mandela Bay, das aus Wellblech entworfen wurde, um den Kampf gegen die Apartheid zu ehren.",
+                  "category": "museum",
+                  "coords": [
+                        25.605663,
+                        -33.897631
+                  ]
+            },
+            {
+                  "name": "St Croix Motor Museum",
+                  "text": "Ein privates Museum in Nelson Mandela Bay, das eine sorgfältig restaurierte Sammlung klassischer Oldtimer ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        25.571619,
+                        -33.945659
+                  ]
+            },
+            {
+                  "name": "The Savoy Theatre and Conference Centre",
+                  "text": "Ein traditionsreicher Veranstaltungsort für darstellende Künste in der Nelson Mandela Bay, an dem lokale Theaterproduktionen aufgeführt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        25.585814,
+                        -33.94206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Telescope",
+                  "text": "Egy nyilvános távcső a Nelson Mandela-öbölben, amely nagyított kilátást nyújt a forgalmas tengerparti kikötőre.",
+                  "category": "landmark",
+                  "coords": [
+                        25.579588,
+                        -33.954173
+                  ]
+            },
+            {
+                  "name": "Kwaford Primary School",
+                  "text": "Egykori általános iskola szerkezeti maradványai a Nelson Mandela-öböl városi tájában.",
+                  "category": "historical",
+                  "coords": [
+                        25.584405,
+                        -33.905888
+                  ]
+            },
+            {
+                  "name": "Red Location Museum",
+                  "text": "Egy lenyűgöző múzeum a Nelson Mandela-öbölben, amelyet hullámlemezből terveztek az apartheid elleni küzdelem tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        25.605663,
+                        -33.897631
+                  ]
+            },
+            {
+                  "name": "St Croix Motor Museum",
+                  "text": "Magánmúzeum a Nelson Mandela-öbölben, amely klasszikus és veterán autók gondosan felújított gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.571619,
+                        -33.945659
+                  ]
+            },
+            {
+                  "name": "The Savoy Theatre and Conference Centre",
+                  "text": "Hosszú múltra visszatekintő előadóművészeti helyszín a Nelson Mandela-öbölben, amely helyi színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        25.585814,
+                        -33.94206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Telescope",
+                  "text": "Un telescop public în Nelson Mandela Bay care oferă vederi mărite ale portului de coastă aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        25.579588,
+                        -33.954173
+                  ]
+            },
+            {
+                  "name": "Kwaford Primary School",
+                  "text": "Rămășițele structurale ale unei foste școli primare situate în peisajul urban al Nelson Mandela Bay.",
+                  "category": "historical",
+                  "coords": [
+                        25.584405,
+                        -33.905888
+                  ]
+            },
+            {
+                  "name": "Red Location Museum",
+                  "text": "Un muzeu remarcabil din Nelson Mandela Bay proiectat cu fier ondulat pentru a onora lupta împotriva apartheidului.",
+                  "category": "museum",
+                  "coords": [
+                        25.605663,
+                        -33.897631
+                  ]
+            },
+            {
+                  "name": "St Croix Motor Museum",
+                  "text": "Un muzeu privat din Nelson Mandela Bay care expune o colecție atent restaurată de automobile clasice și de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        25.571619,
+                        -33.945659
+                  ]
+            },
+            {
+                  "name": "The Savoy Theatre and Conference Centre",
+                  "text": "Un loc de desfășurare a artelor spectacolului cu o lungă istorie în Nelson Mandela Bay, care găzduiește producții de teatru locale.",
+                  "category": "cultural",
+                  "coords": [
+                        25.585814,
+                        -33.94206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Telescope",
+                  "text": "A public viewing instrument in Nelson Mandela Bay offering magnified sights of the busy coastal harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.579588,
+                        -33.954173
+                  ]
+            },
+            {
+                  "name": "Kwaford Primary School",
+                  "text": "The structural remnants of a former primary school located within the urban landscape of Nelson Mandela Bay.",
+                  "category": "historical",
+                  "coords": [
+                        25.584405,
+                        -33.905888
+                  ]
+            },
+            {
+                  "name": "Red Location Museum",
+                  "text": "A striking museum in Nelson Mandela Bay designed with corrugated iron to honor the struggle against apartheid.",
+                  "category": "museum",
+                  "coords": [
+                        25.605663,
+                        -33.897631
+                  ]
+            },
+            {
+                  "name": "St Croix Motor Museum",
+                  "text": "A private museum in Nelson Mandela Bay displaying a carefully restored collection of classic and vintage automobiles.",
+                  "category": "museum",
+                  "coords": [
+                        25.571619,
+                        -33.945659
+                  ]
+            },
+            {
+                  "name": "The Savoy Theatre and Conference Centre",
+                  "text": "A long-standing performing arts venue in Nelson Mandela Bay hosting local theatrical productions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        25.585814,
+                        -33.94206
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-EC",
     coords: [25.6025, -33.9375],
@@ -1023,7 +8340,124 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sentech-tower-landmarks-v2",
+    id: "sentech-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sentech Tower",
+                  "text": "Der Sentech Tower, auch als Brixton Tower bekannt, ist eine massive Telekommunikationsstruktur, die die lokale Skyline dominiert.",
+                  "category": "tower",
+                  "coords": [
+                        28.006874,
+                        -26.192383
+                  ]
+            },
+            {
+                  "name": "Lindfield Victorian House Museum",
+                  "text": "Das Lindfield Victorian House Museum lässt Besucher in ein sorgfältig erhaltenes bürgerliches Zuhause aus dem 19. Jahrhundert eintauchen.",
+                  "category": "museum",
+                  "coords": [
+                        28.008153,
+                        -26.185204
+                  ]
+            },
+            {
+                  "name": "Fietas Museum",
+                  "text": "Das Fietas Museum dokumentiert die Geschichte und die Zwangsräumungen der multikulturellen Pageview-Gemeinschaft während der Apartheid.",
+                  "category": "museum",
+                  "coords": [
+                        28.017365,
+                        -26.196692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sentech Tower",
+                  "text": "A Brixton-toronyként is ismert Sentech-torony egy hatalmas távközlési építmény, amely uralja a helyi látképet.",
+                  "category": "tower",
+                  "coords": [
+                        28.006874,
+                        -26.192383
+                  ]
+            },
+            {
+                  "name": "Lindfield Victorian House Museum",
+                  "text": "A Lindfield Viktoriánus Házmúzeum egy aprólékosan megőrzött 19. századi polgári otthonba enged bepillantást.",
+                  "category": "museum",
+                  "coords": [
+                        28.008153,
+                        -26.185204
+                  ]
+            },
+            {
+                  "name": "Fietas Museum",
+                  "text": "A Fietas Múzeum az apartheid alatti multikulturális Pageview közösség történetét és kényszerkitelepítéseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.017365,
+                        -26.196692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sentech Tower",
+                  "text": "Cunoscut și sub numele de Turnul Brixton, Turnul Sentech este o structură masivă de telecomunicații care domină orizontul local.",
+                  "category": "tower",
+                  "coords": [
+                        28.006874,
+                        -26.192383
+                  ]
+            },
+            {
+                  "name": "Lindfield Victorian House Museum",
+                  "text": "Muzeul Casa Victoriană Lindfield scufundă vizitatorii într-o casă burgheză din secolul al XIX-lea, păstrată cu meticulozitate.",
+                  "category": "museum",
+                  "coords": [
+                        28.008153,
+                        -26.185204
+                  ]
+            },
+            {
+                  "name": "Fietas Museum",
+                  "text": "Muzeul Fietas relatează istoria și mutările forțate ale comunității multiculturale Pageview în timpul apartheidului.",
+                  "category": "museum",
+                  "coords": [
+                        28.017365,
+                        -26.196692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sentech Tower",
+                  "text": "Also known as Brixton Tower, the Sentech Tower is a massive telecommunications structure dominating the local skyline.",
+                  "category": "tower",
+                  "coords": [
+                        28.006874,
+                        -26.192383
+                  ]
+            },
+            {
+                  "name": "Lindfield Victorian House Museum",
+                  "text": "The Lindfield Victorian House Museum immerses visitors in a meticulously preserved 19th-century middle-class home.",
+                  "category": "museum",
+                  "coords": [
+                        28.008153,
+                        -26.185204
+                  ]
+            },
+            {
+                  "name": "Fietas Museum",
+                  "text": "The Fietas Museum chronicles the history and forced removals of the multicultural Pageview community under apartheid.",
+                  "category": "museum",
+                  "coords": [
+                        28.017365,
+                        -26.196692
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0069, -26.1925],
@@ -1083,7 +8517,340 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "11-diagonal-street-landmarks-v2",
+    id: "11-diagonal-street-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "langlaagte stamp battery",
+                  "text": "Dieses historische Bergbauartefakt bewahrt ein schweres mechanisches Pochwerk, mit dem während des frühen Witwatersrand-Goldrausches goldhaltiges Erz zerkleinert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        28.038956,
+                        -26.20736
+                  ]
+            },
+            {
+                  "name": "Mining district",
+                  "text": "Dieser Fußgängerbereich im Zentrum von Johannesburg fungiert als weitläufiges Freilichtmuseum, das historische Bergbau-Fördertürme und historische Ausstellungen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        28.036704,
+                        -26.207455
+                  ]
+            },
+            {
+                  "name": "World Of Beer",
+                  "text": "Dieses ehemalige Brauereimuseum im Kulturviertel Newtown bietet interaktive Ausstellungen zur Braugeschichte des südafrikanischen Bieres.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033714,
+                        -26.204271
+                  ]
+            },
+            {
+                  "name": "Gauteng Opera",
+                  "text": "Diese herausragende Theaterstätte in Johannesburg ist den darstellenden Künsten gewidmet und bringt klassische Gesangsdarbietungen sowie zeitgenössische Opern auf die Bühne.",
+                  "category": "cultural",
+                  "coords": [
+                        28.034045,
+                        -26.208694
+                  ]
+            },
+            {
+                  "name": "The Turbine Hall",
+                  "text": "Dieses markante Gebäude im Industrie-Chic war einst ein Kraftwerk aus den 1920er Jahren und wurde wunderschön zu einem erstklassigen Veranstaltungs- und Ausstellungsort restauriert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033732,
+                        -26.203145
+                  ]
+            },
+            {
+                  "name": "Standard Bank Gallery",
+                  "text": "Diese prestigeträchtige Galerie befindet sich in einem großen Unternehmenskomplex und beherbergt wechselnde Ausstellungen bedeutender afrikanischer und internationaler bildender Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        28.040728,
+                        -26.208742
+                  ]
+            },
+            {
+                  "name": "Rathaus von Johannesburg",
+                  "text": "Dieses monumentale edwardianische Gebäude mit seinem markanten Uhrenturm wurde 1914 fertiggestellt und beherbergt die größte Pfeifenorgel der südlichen Hemisphäre.",
+                  "category": "historical",
+                  "coords": [
+                        28.041083,
+                        -26.20443
+                  ]
+            },
+            {
+                  "name": "Beyers Naudé Square",
+                  "text": "Dieser historische öffentliche Platz ist nach einem prominenten Anti-Apartheid-Geistlichen benannt und dient als zentraler ziviler Versammlungsort, flankiert von historischen Stadtgebäuden.",
+                  "category": "park",
+                  "coords": [
+                        28.039446,
+                        -26.204614
+                  ]
+            },
+            {
+                  "name": "Workers Museum",
+                  "text": "Dieses Museum, das in einem originalen Wanderarbeiterlager aus dem Jahr 1913 untergebracht ist, dokumentiert auf bewegende Weise die harten Lebensbedingungen der frühen schwarzen Gemeindearbeiter von Johannesburg.",
+                  "category": "museum",
+                  "coords": [
+                        28.032219,
+                        -26.20315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "langlaagte stamp battery",
+                  "text": "Ez a történelmi bányászati relikvia egy olyan nehéz mechanikus zúzógépet őriz, amelyet a korai Witwatersrand-i aranyláz idején az aranytartalmú érc zúzására használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        28.038956,
+                        -26.20736
+                  ]
+            },
+            {
+                  "name": "Mining district",
+                  "text": "Ez a Johannesburg belvárosában található sétálóutca kiterjedt szabadtéri múzeumként működik, amely régi bányászati aknakastélyokat és örökségvédelmi kiállításokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        28.036704,
+                        -26.207455
+                  ]
+            },
+            {
+                  "name": "World Of Beer",
+                  "text": "A Newtown kulturális negyedben található egykori sörfőzdemúzeum interaktív kiállításokat kínál a dél-afrikai sörkészítés történelméről.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033714,
+                        -26.204271
+                  ]
+            },
+            {
+                  "name": "Gauteng Opera",
+                  "text": "Az előadóművészeteknek szentelt kiemelkedő johannesburgi színházi helyszín klasszikus énekes előadásokat és kortárs operát visz színpadra.",
+                  "category": "cultural",
+                  "coords": [
+                        28.034045,
+                        -26.208694
+                  ]
+            },
+            {
+                  "name": "The Turbine Hall",
+                  "text": "Ez az 1920-as évekbeli egykori erőmű, amely ma egy lenyűgöző ipari eleganciájú épület, gyönyörűen felújítva várja a látogatókat elsőrangú rendezvény- és kiállítótérként.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033732,
+                        -26.203145
+                  ]
+            },
+            {
+                  "name": "Standard Bank Gallery",
+                  "text": "A jelentős vállalati komplexumban található tekintélyes galéria jelentős afrikai és nemzetközi képzőművészeti alkotások időszaki kiállításainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        28.040728,
+                        -26.208742
+                  ]
+            },
+            {
+                  "name": "Johannesburg City Hall",
+                  "text": "Az 1914-ben elkészült, jellegzetes óratoronnyal rendelkező, monumentális Edward-korabeli épület a déli félteke legnagyobb csöves orgonájával büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        28.041083,
+                        -26.20443
+                  ]
+            },
+            {
+                  "name": "Beyers Naudé Square",
+                  "text": "A prominens apartheidellenes lelkészről elnevezett történelmi köztér egy központi polgári találkozóhely, amelyet történelmi városi épületek szegélyeznek.",
+                  "category": "park",
+                  "coords": [
+                        28.039446,
+                        -26.204614
+                  ]
+            },
+            {
+                  "name": "Workers Museum",
+                  "text": "Egy eredeti, 1913-as vándormunkás-szálláson berendezett múzeum meghatóan dokumentálja Johannesburg korai fekete önkormányzati munkásainak zord életkörülményeit.",
+                  "category": "museum",
+                  "coords": [
+                        28.032219,
+                        -26.20315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "langlaagte stamp battery",
+                  "text": "Acest artefact minier istoric conservă o mașină mecanică grea de concasare folosită pentru mărunțirea minereului aurifer în timpul primei goane după aur din Witwatersrand.",
+                  "category": "landmark",
+                  "coords": [
+                        28.038956,
+                        -26.20736
+                  ]
+            },
+            {
+                  "name": "Mining district",
+                  "text": "Această zonă pietonală în aer liber din centrul orașului Johannesburg funcționează ca un muzeu extins, prezentând turnuri de extracție miniere de epocă și expoziții de patrimoniu.",
+                  "category": "historical",
+                  "coords": [
+                        28.036704,
+                        -26.207455
+                  ]
+            },
+            {
+                  "name": "World Of Beer",
+                  "text": "Situat în cartierul cultural Newtown, acest fost muzeu al fabricii de bere oferă exponate interactive despre istoria berăritului sud-african.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033714,
+                        -26.204271
+                  ]
+            },
+            {
+                  "name": "Gauteng Opera",
+                  "text": "Dedicată artelor spectacolului, această proeminentă locație teatrală din Johannesburg aduce pe scenă spectacole vocale clasice și operă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        28.034045,
+                        -26.208694
+                  ]
+            },
+            {
+                  "name": "The Turbine Hall",
+                  "text": "Odinioară o centrală electrică din anii 1920, această clădire remarcabilă în stil industrial-chic a fost frumos restaurată într-un loc de primă clasă pentru evenimente și expoziții.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033732,
+                        -26.203145
+                  ]
+            },
+            {
+                  "name": "Standard Bank Gallery",
+                  "text": "Situată într-un complex corporativ major, această galerie prestigioasă găzduiește expoziții rotative de artă plastică africană și internațională semnificativă.",
+                  "category": "museum",
+                  "coords": [
+                        28.040728,
+                        -26.208742
+                  ]
+            },
+            {
+                  "name": "Johannesburg City Hall",
+                  "text": "Prezentând un turn cu ceas distinctiv, această clădire monumentală în stil edwardian a fost finalizată în 1914 și se mândrește cu cea mai mare orgă cu tuburi din emisfera sudică.",
+                  "category": "historical",
+                  "coords": [
+                        28.041083,
+                        -26.20443
+                  ]
+            },
+            {
+                  "name": "Beyers Naudé Square",
+                  "text": "Numită în onoarea unui proeminent cleric anti-apartheid, această piață publică istorică este un spațiu central de adunare civică, flancată de clădiri istorice ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        28.039446,
+                        -26.204614
+                  ]
+            },
+            {
+                  "name": "Workers Museum",
+                  "text": "Găzduit într-un complex original pentru muncitori migranți din 1913, acest muzeu documentează emoționant condițiile aspre de viață ale primilor muncitori municipali de culoare din Johannesburg.",
+                  "category": "museum",
+                  "coords": [
+                        28.032219,
+                        -26.20315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "langlaagte stamp battery",
+                  "text": "This historical mining artifact preserves a heavy mechanical stamp mill used to crush gold-bearing ore during the early Witwatersrand gold rush.",
+                  "category": "landmark",
+                  "coords": [
+                        28.038956,
+                        -26.20736
+                  ]
+            },
+            {
+                  "name": "Mining District",
+                  "text": "This outdoor pedestrian area in downtown Johannesburg functions as a sprawling museum, showcasing vintage mining headgears and heritage displays.",
+                  "category": "historical",
+                  "coords": [
+                        28.036704,
+                        -26.207455
+                  ]
+            },
+            {
+                  "name": "World Of Beer",
+                  "text": "Located in the Newtown cultural precinct, this former brewery museum offers interactive exhibits on the brewing history of South African beer.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033714,
+                        -26.204271
+                  ]
+            },
+            {
+                  "name": "Gauteng Opera",
+                  "text": "Dedicated to the performing arts, this prominent theatrical venue in Johannesburg brings classical vocal performances and contemporary opera to the stage.",
+                  "category": "cultural",
+                  "coords": [
+                        28.034045,
+                        -26.208694
+                  ]
+            },
+            {
+                  "name": "The Turbine Hall",
+                  "text": "Once a 1920s power station, this striking industrial-chic building has been beautifully restored into a premier events and exhibitions venue.",
+                  "category": "landmark",
+                  "coords": [
+                        28.033732,
+                        -26.203145
+                  ]
+            },
+            {
+                  "name": "Standard Bank Gallery",
+                  "text": "Situated within a major corporate complex, this prestigious gallery hosts rotating exhibitions of significant African and international fine art.",
+                  "category": "museum",
+                  "coords": [
+                        28.040728,
+                        -26.208742
+                  ]
+            },
+            {
+                  "name": "Johannesburg City Hall",
+                  "text": "Featuring a distinctive clock tower, this monumental Edwardian building was completed in 1914 and boasts the largest pipe organ in the Southern Hemisphere.",
+                  "category": "historical",
+                  "coords": [
+                        28.041083,
+                        -26.20443
+                  ]
+            },
+            {
+                  "name": "Beyers Naudé Square",
+                  "text": "Named in honor of a prominent anti-apartheid cleric, this historic public plaza is a central civic gathering space flanked by historic city buildings.",
+                  "category": "park",
+                  "coords": [
+                        28.039446,
+                        -26.204614
+                  ]
+            },
+            {
+                  "name": "Workers Museum",
+                  "text": "Housed in an original 1913 migrant labor compound, this museum movingly documents the harsh living conditions of Johannesburg's early black municipal workers.",
+                  "category": "museum",
+                  "coords": [
+                        28.032219,
+                        -26.20315
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0401, -26.2045],
@@ -1143,7 +8910,160 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "alice-lane-towers-landmarks-v2",
+    id: "alice-lane-towers-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Dieses Museum bietet interaktive, verblüffende Exponate rund um optische Täuschungen und Hologramme.",
+                  "category": "museum",
+                  "coords": [
+                        28.043335,
+                        -26.144571
+                  ]
+            },
+            {
+                  "name": "Driefontein Farm House 1906",
+                  "text": "Die steinernen Überreste dieses verlassenen Bauernhauses zeugen von seiner Errichtung im Jahr 1906.",
+                  "category": "historical",
+                  "coords": [
+                        28.036439,
+                        -26.089911
+                  ]
+            },
+            {
+                  "name": "Outspan Bird Sanctuary",
+                  "text": "In diesem grünen Naturschutzgebiet am Flussufer finden zahlreiche einheimische Vogelarten einen sicheren Rückzugsort.",
+                  "category": "natural",
+                  "coords": [
+                        28.053646,
+                        -26.076203
+                  ]
+            },
+            {
+                  "name": "Illovo Dr Obelisk",
+                  "text": "Dieses steinerne Obelisken-Denkmal markiert einen historischen Orientierungspunkt an der Illovo Drive.",
+                  "category": "historical",
+                  "coords": [
+                        28.047212,
+                        -26.131283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Ez a múzeum interaktív, észbontó kiállításokat kínál, amelyek középpontjában az optikai csalódások és hologramok állnak.",
+                  "category": "museum",
+                  "coords": [
+                        28.043335,
+                        -26.144571
+                  ]
+            },
+            {
+                  "name": "Driefontein Farm House 1906",
+                  "text": "A romos, 1906-ban épült parasztház kőfalai a régió történelmi múltjának mementói.",
+                  "category": "historical",
+                  "coords": [
+                        28.036439,
+                        -26.089911
+                  ]
+            },
+            {
+                  "name": "Outspan Bird Sanctuary",
+                  "text": "A folyóparti zöldellő természetvédelmi terület számos helyi madárfaj számára nyújt biztonságos menedéket.",
+                  "category": "natural",
+                  "coords": [
+                        28.053646,
+                        -26.076203
+                  ]
+            },
+            {
+                  "name": "Illovo Dr Obelisk",
+                  "text": "Ez a kőből emelt obeliszk emlékmű történelmi tájékozódási pontként szolgál az Illovo Drive mentén.",
+                  "category": "historical",
+                  "coords": [
+                        28.047212,
+                        -26.131283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Acest muzeu prezintă exponate interactive, uluitoare, centrate pe iluzii optice și holograme.",
+                  "category": "museum",
+                  "coords": [
+                        28.043335,
+                        -26.144571
+                  ]
+            },
+            {
+                  "name": "Driefontein Farm House 1906",
+                  "text": "Ruinele acestei foste ferme de piatră atestă construcția sa originală din anul 1906.",
+                  "category": "historical",
+                  "coords": [
+                        28.036439,
+                        -26.089911
+                  ]
+            },
+            {
+                  "name": "Outspan Bird Sanctuary",
+                  "text": "Această rezervație naturală înverzită de pe malul râului oferă un refugiu sigur pentru numeroase specii de păsări locale.",
+                  "category": "natural",
+                  "coords": [
+                        28.053646,
+                        -26.076203
+                  ]
+            },
+            {
+                  "name": "Illovo Dr Obelisk",
+                  "text": "Acest monument sub formă de obelisc de piatră marchează un punct istoric de reper pe Illovo Drive.",
+                  "category": "historical",
+                  "coords": [
+                        28.047212,
+                        -26.131283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Illusions",
+                  "text": "This museum features interactive, mind-bending exhibits centered around optical illusions and holograms.",
+                  "category": "museum",
+                  "coords": [
+                        28.043335,
+                        -26.144571
+                  ]
+            },
+            {
+                  "name": "Driefontein Farm House 1906",
+                  "text": "The stone ruins of this former farmhouse date back to its original construction in 1906.",
+                  "category": "historical",
+                  "coords": [
+                        28.036439,
+                        -26.089911
+                  ]
+            },
+            {
+                  "name": "Outspan Bird Sanctuary",
+                  "text": "This leafy riverside nature reserve provides a safe haven for numerous local bird species.",
+                  "category": "natural",
+                  "coords": [
+                        28.053646,
+                        -26.076203
+                  ]
+            },
+            {
+                  "name": "Illovo Dr Obelisk",
+                  "text": "This stone obelisk monument marks a historic waypoint along Illovo Drive.",
+                  "category": "historical",
+                  "coords": [
+                        28.047212,
+                        -26.131283
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.0519, -26.1082],
@@ -1203,7 +9123,124 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "88-on-field-landmarks-v2",
+    id: "88-on-field-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "Diese urbane Attraktion zeigt lebendige Straßenkunst, die dem politischen Erbe von Anton Lembede entlang der Route 88 on Field gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "Dieses Museum, das in einem ehemaligen Gebäude des Native Administration Department untergebracht ist, zeigt die Geschichte des städtischen Lebens und des Apartheidsystems.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "Dieser historische Park aus dem Jahr 1842 bewahrt die Überreste eines Militärlagers, das während des Konflikts zwischen britischen Streitkräften und Buren genutzt wurde.",
+                  "category": "park",
+                  "coords": [
+                        31.025764,
+                        -29.850874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "Ez a városi látványosság élénk utcai művészetet mutat be, amelyet Anton Lembede politikai örökségének szenteltek a 88 on Field útvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "A Native Administration Department egykori épületében található múzeum a városi élet és az apartheid rendszer történetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "Az 1842-ből származó történelmi park egy katonai tábor maradványait őrzi, amelyet a brit erők és a búrok közötti konfliktus során használtak.",
+                  "category": "park",
+                  "coords": [
+                        31.025764,
+                        -29.850874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "Această atracție urbană prezintă artă stradală vibrantă dedicată moștenirii politice a lui Anton Lembede de-a lungul traseului 88 on Field.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "Găzduit într-o fostă clădire a Departamentului de Administrație a Nativelor, acest muzeu expune istoria vieții urbane și a sistemului de apartheid.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "Datând din 1842, acest parc istoric păstrează rămășițele unei tabere militare folosite în timpul conflictului dintre forțele britanice și buri.",
+                  "category": "park",
+                  "coords": [
+                        31.025764,
+                        -29.850874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "This urban attraction showcases vibrant street art dedicated to the political legacy of Anton Lembede along the 88 on Field route.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "Located in a former Native Administration Department building, this museum exhibits the history of urban life and the apartheid system.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "Dating back to 1842, this historic park preserves the remains of a military encampment used during the conflict between British forces and Boers.",
+                  "category": "park",
+                  "coords": [
+                        31.025764,
+                        -29.850874
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-KZN",
     coords: [31.0250, -29.8583],
@@ -1263,7 +9300,556 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "green-point-lighthouse-landmarks-v2",
+    id: "green-point-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bantry Bay",
+                  "text": "Bantry Bay ist eine felsige Küstenbucht, die für ihre windgeschützte Lage in Kapstadt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.377572,
+                        -33.926371
+                  ]
+            },
+            {
+                  "name": "Boat Bay",
+                  "text": "Boat Bay ist eine malerische Bucht entlang der felsigen Atlantikküste von Green Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384532,
+                        -33.916887
+                  ]
+            },
+            {
+                  "name": "Rocklands Bay",
+                  "text": "Rocklands Bay ist eine Bucht am Atlantischen Ozean, die sich in der Nähe der Sea Point Promenade befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.393181,
+                        -33.908154
+                  ]
+            },
+            {
+                  "name": "Three Anchor Bay",
+                  "text": "Three Anchor Bay ist eine kleine Bucht, an der die Vororte Sea Point und Green Point aufeinandertreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.397176,
+                        -33.905826
+                  ]
+            },
+            {
+                  "name": "The \"Blue Train\"",
+                  "text": "Der \"Blue Train\" ist ein beliebter Miniaturzugpark für Kinder nahe dem Leuchtturm von Green Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398886,
+                        -33.902529
+                  ]
+            },
+            {
+                  "name": "Kaskazi Kayaks & Adventure",
+                  "text": "Kaskazi Kayaks & Adventure bietet geführte Kajaktouren entlang der Atlantikküste von Kapstadt an.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398446,
+                        -33.905528
+                  ]
+            },
+            {
+                  "name": "Green Point Lighthouse",
+                  "text": "Der Green Point Lighthouse ist ein markanter rot-weißer Leuchtturm, der am 12. April 1824 in Betrieb genommen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399921,
+                        -33.901422
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Das Labyrinth im Green Point Park ist ein kreisförmiger Weg, der für achtsames Spazieren angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400501,
+                        -33.902525
+                  ]
+            },
+            {
+                  "name": "Saunders Rocks Beach",
+                  "text": "Saunders Rocks Beach ist ein kleiner Sandstrand, der von großen Granitfelsen und Gezeitentümpeln gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        18.377584,
+                        -33.923693
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach an der Sea Point Promenade bietet malerische Ausblicke auf den Sonnenuntergang über dem Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.380728,
+                        -33.920196
+                  ]
+            },
+            {
+                  "name": "Broken Baths Beach",
+                  "text": "Broken Baths Beach ist ein felsiger Küstenabschnitt, der nach den Überresten historischer Meerwasserbäder benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        18.385772,
+                        -33.917146
+                  ]
+            },
+            {
+                  "name": "Queens Beach",
+                  "text": "Queens Beach ist ein geschützter Sandstrand entlang der belebten Sea Point Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        18.378253,
+                        -33.92164
+                  ]
+            },
+            {
+                  "name": "Milton Beach",
+                  "text": "Milton Beach verfügt über einen Gezeitenpool, der sicheres Schwimmen an der rauen Atlantikküste ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        18.386328,
+                        -33.915165
+                  ]
+            },
+            {
+                  "name": "Prom Park",
+                  "text": "Der Prom Park ist eine grüne Erholungsfläche entlang der weitläufigen Sea Point Promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398189,
+                        -33.904143
+                  ]
+            },
+            {
+                  "name": "Green Point Park",
+                  "text": "Der Green Point Park ist eine städtische Oase in der Nähe des Kapstädter Stadions, die für ihre biologische Vielfalt bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        18.402062,
+                        -33.904705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bantry Bay",
+                  "text": "A Bantry Bay egy sziklás tengerparti öböl Fokvárosban, amely szélvédett elhelyezkedéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        18.377572,
+                        -33.926371
+                  ]
+            },
+            {
+                  "name": "Boat Bay",
+                  "text": "A Boat Bay egy festői öböl Green Point sziklás atlanti partvidéke mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384532,
+                        -33.916887
+                  ]
+            },
+            {
+                  "name": "Rocklands Bay",
+                  "text": "A Rocklands Bay egy öböl az Atlanti-óceánnál, a Sea Point sétány közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.393181,
+                        -33.908154
+                  ]
+            },
+            {
+                  "name": "Three Anchor Bay",
+                  "text": "A Three Anchor Bay egy kis öböl, ahol a Sea Point és a Green Point negyedek találkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        18.397176,
+                        -33.905826
+                  ]
+            },
+            {
+                  "name": "The \"Blue Train\"",
+                  "text": "A \"Blue Train\" egy népszerű miniatűr vonatos park gyerekeknek a Green Point világítótorony közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398886,
+                        -33.902529
+                  ]
+            },
+            {
+                  "name": "Kaskazi Kayaks & Adventure",
+                  "text": "A Kaskazi Kayaks & Adventure vezetett kajaktúrákat kínál Fokváros atlanti partvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398446,
+                        -33.905528
+                  ]
+            },
+            {
+                  "name": "Green Point Lighthouse",
+                  "text": "A Green Point világítótorony egy feltűnő piros-fehér építmény, amelyet 1824. április 12-én helyeztek üzembe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399921,
+                        -33.901422
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "A Green Point Parkban található Labyrinth egy körkörös ösvény, amelyet csendes elmélkedésre terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400501,
+                        -33.902525
+                  ]
+            },
+            {
+                  "name": "Saunders Rocks Beach",
+                  "text": "A Saunders Rocks Beach egy kis homokos strand, amelyet nagy gránitsziklák és árapály-medencék szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        18.377584,
+                        -33.923693
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "A Sea Point sétány mentén található Sunset Beach festői kilátást nyújt az Atlanti-óceán felett lemenő napra.",
+                  "category": "recreational",
+                  "coords": [
+                        18.380728,
+                        -33.920196
+                  ]
+            },
+            {
+                  "name": "Broken Baths Beach",
+                  "text": "A Broken Baths Beach egy sziklás partszakasz, amely a történelmi tengervizes fürdők romjairól kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        18.385772,
+                        -33.917146
+                  ]
+            },
+            {
+                  "name": "Queens Beach",
+                  "text": "A Queens Beach egy védett homokos strand a forgalmas Sea Point sétány mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.378253,
+                        -33.92164
+                  ]
+            },
+            {
+                  "name": "Milton Beach",
+                  "text": "A Milton Beach egy árapály-medencével rendelkezik, amely biztonságos úszást kínál a zord atlanti partvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        18.386328,
+                        -33.915165
+                  ]
+            },
+            {
+                  "name": "Prom Park",
+                  "text": "A Prom Park egy zöld rekreációs terület a hosszú Sea Point sétány mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398189,
+                        -33.904143
+                  ]
+            },
+            {
+                  "name": "Green Point Park",
+                  "text": "A Green Point Park egy városi oázis a fokvárosi stadion közelében, amely biológiai sokféleségéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        18.402062,
+                        -33.904705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bantry Bay",
+                  "text": "Bantry Bay este un golf de coastă stâncos, cunoscut pentru poziția sa ferită de vânt din Cape Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.377572,
+                        -33.926371
+                  ]
+            },
+            {
+                  "name": "Boat Bay",
+                  "text": "Boat Bay este un golf pitoresc situat de-a lungul coastei stâncoase atlantice din Green Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384532,
+                        -33.916887
+                  ]
+            },
+            {
+                  "name": "Rocklands Bay",
+                  "text": "Rocklands Bay este un golf la Oceanul Atlantic situat aproape de promenada Sea Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.393181,
+                        -33.908154
+                  ]
+            },
+            {
+                  "name": "Three Anchor Bay",
+                  "text": "Three Anchor Bay este un mic golf unde se întâlnesc suburbiile Sea Point și Green Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.397176,
+                        -33.905826
+                  ]
+            },
+            {
+                  "name": "The \"Blue Train\"",
+                  "text": "„Blue Train” este un parc popular cu un tren în miniatură pentru copii, lângă farul Green Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398886,
+                        -33.902529
+                  ]
+            },
+            {
+                  "name": "Kaskazi Kayaks & Adventure",
+                  "text": "Kaskazi Kayaks & Adventure oferă tururi ghidate cu caiacul de-a lungul coastei atlantice a orașului Cape Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398446,
+                        -33.905528
+                  ]
+            },
+            {
+                  "name": "Green Point Lighthouse",
+                  "text": "Farul Green Point este un far roșu cu alb distinctiv, datând din 12 aprilie 1824.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399921,
+                        -33.901422
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Labirintul din Green Point Park este o alee circulară amenajată pentru plimbări relaxante.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400501,
+                        -33.902525
+                  ]
+            },
+            {
+                  "name": "Saunders Rocks Beach",
+                  "text": "Saunders Rocks Beach este o mică plajă cu nisip, mărginită de stânci mari de granit și bazine de maree.",
+                  "category": "recreational",
+                  "coords": [
+                        18.377584,
+                        -33.923693
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach de pe promenada Sea Point oferă vederi pitorești la apusul soarelui peste Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        18.380728,
+                        -33.920196
+                  ]
+            },
+            {
+                  "name": "Broken Baths Beach",
+                  "text": "Broken Baths Beach este o secțiune de coastă stâncoasă numită după rămășițele băilor istorice cu apă de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.385772,
+                        -33.917146
+                  ]
+            },
+            {
+                  "name": "Queens Beach",
+                  "text": "Queens Beach este o plajă cu nisip adăpostită de-a lungul aglomeratei promenade Sea Point.",
+                  "category": "recreational",
+                  "coords": [
+                        18.378253,
+                        -33.92164
+                  ]
+            },
+            {
+                  "name": "Milton Beach",
+                  "text": "Milton Beach are o piscină cu maree care oferă înot sigur de-a lungul coastei atlantice accidentate.",
+                  "category": "recreational",
+                  "coords": [
+                        18.386328,
+                        -33.915165
+                  ]
+            },
+            {
+                  "name": "Prom Park",
+                  "text": "Prom Park este un spațiu verde de recreere situat de-a lungul lungii promenade Sea Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398189,
+                        -33.904143
+                  ]
+            },
+            {
+                  "name": "Green Point Park",
+                  "text": "Green Point Park este o oază urbană lângă Stadionul din Cape Town, recunoscută pentru biodiversitatea sa.",
+                  "category": "park",
+                  "coords": [
+                        18.402062,
+                        -33.904705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bantry Bay",
+                  "text": "Bantry Bay is a rocky coastal bay known for its wind-free location in Cape Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.377572,
+                        -33.926371
+                  ]
+            },
+            {
+                  "name": "Boat Bay",
+                  "text": "Boat Bay is a scenic bay along the rocky Atlantic coastline of Green Point.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384532,
+                        -33.916887
+                  ]
+            },
+            {
+                  "name": "Rocklands Bay",
+                  "text": "Rocklands Bay is an Atlantic Ocean bay located near the Sea Point Promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        18.393181,
+                        -33.908154
+                  ]
+            },
+            {
+                  "name": "Three Anchor Bay",
+                  "text": "Three Anchor Bay is a small inlet where the Sea Point and Green Point suburbs meet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.397176,
+                        -33.905826
+                  ]
+            },
+            {
+                  "name": "The \"Blue Train\"",
+                  "text": "The \"Blue Train\" is a popular miniature train park for children near the Green Point Lighthouse.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398886,
+                        -33.902529
+                  ]
+            },
+            {
+                  "name": "Kaskazi Kayaks & Adventure",
+                  "text": "Kaskazi Kayaks & Adventure offers guided sea kayaking tours along Cape Town's Atlantic coast.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398446,
+                        -33.905528
+                  ]
+            },
+            {
+                  "name": "Green Point Lighthouse",
+                  "text": "The Green Point Lighthouse is a striking red-and-white structure dating back to April 12, 1824.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399921,
+                        -33.901422
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "The Labyrinth in Green Point Park is a circular path designed for mindful walking.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400501,
+                        -33.902525
+                  ]
+            },
+            {
+                  "name": "Saunders Rocks Beach",
+                  "text": "Saunders Rocks Beach is a small sandy beach fringed by large granite boulders and tidal pools.",
+                  "category": "recreational",
+                  "coords": [
+                        18.377584,
+                        -33.923693
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach along the Sea Point Promenade offers picturesque views of the sun setting over the Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        18.380728,
+                        -33.920196
+                  ]
+            },
+            {
+                  "name": "Broken Baths Beach",
+                  "text": "Broken Baths Beach is a rocky coastline stretch named after the remnants of historical seawater baths.",
+                  "category": "recreational",
+                  "coords": [
+                        18.385772,
+                        -33.917146
+                  ]
+            },
+            {
+                  "name": "Queens Beach",
+                  "text": "Queens Beach is a sheltered sandy beach nestled along the bustling Sea Point Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        18.378253,
+                        -33.92164
+                  ]
+            },
+            {
+                  "name": "Milton Beach",
+                  "text": "Milton Beach features a tidal pool that provides safe swimming along the rugged Atlantic coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        18.386328,
+                        -33.915165
+                  ]
+            },
+            {
+                  "name": "Prom Park",
+                  "text": "Prom Park is a green recreational area located alongside the extensive Sea Point Promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        18.398189,
+                        -33.904143
+                  ]
+            },
+            {
+                  "name": "Green Point Park",
+                  "text": "Green Point Park is an urban oasis near the Cape Town Stadium recognized for its biodiversity garden.",
+                  "category": "park",
+                  "coords": [
+                        18.402062,
+                        -33.904705
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [18.4022, -33.9009],
@@ -1323,7 +9909,124 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cape-columbine-lighthouse-landmarks-v2",
+    id: "cape-columbine-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cape Columbine Lighthouse",
+                  "text": "Dieses funktionierende Seezeichen liegt malerisch zwischen massiven Granitblöcken an der tückischen Westküste.",
+                  "category": "landmark",
+                  "coords": [
+                        17.855534,
+                        -32.827717
+                  ]
+            },
+            {
+                  "name": "Cape Columbine Nature Reserve",
+                  "text": "Dieser 1973 gegründete, unberührte Atlantikküstenstreifen schützt felsige Aufschlüsse und wilde Frühlingsblumen.",
+                  "category": "natural",
+                  "coords": [
+                        17.857133,
+                        -32.828613
+                  ]
+            },
+            {
+                  "name": "Groot Paternoster Private Nature Reserve",
+                  "text": "Dieses 1992 gegründete private Küstenschutzgebiet bewahrt die einheimische Flora und ruhige Sandbuchten.",
+                  "category": "natural",
+                  "coords": [
+                        17.905164,
+                        -32.7512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cape Columbine Lighthouse",
+                  "text": "Ez a működő tengeri jelzőfény hatalmas gránitsziklák között található a veszélyes nyugati parton.",
+                  "category": "landmark",
+                  "coords": [
+                        17.855534,
+                        -32.827717
+                  ]
+            },
+            {
+                  "name": "Cape Columbine Nature Reserve",
+                  "text": "Az 1973-ban alapított, érintetlen atlanti partszakasz sziklás kiemelkedéseket és tavaszi vadvirágokat véd.",
+                  "category": "natural",
+                  "coords": [
+                        17.857133,
+                        -32.828613
+                  ]
+            },
+            {
+                  "name": "Groot Paternoster Private Nature Reserve",
+                  "text": "Az 1992-ben alapított privát tengerparti menedék a helyi növényvilágot és a csendes homokos öblöket őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        17.905164,
+                        -32.7512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cape Columbine Lighthouse",
+                  "text": "Acest far maritim funcțional este situat printre bolovani masivi de granit pe periculoasa coastă de vest.",
+                  "category": "landmark",
+                  "coords": [
+                        17.855534,
+                        -32.827717
+                  ]
+            },
+            {
+                  "name": "Cape Columbine Nature Reserve",
+                  "text": "Înființată în 1973, această fâșie imaculată de coastă atlantică protejează aflorimentele stâncoase și florile sălbatice de primăvară.",
+                  "category": "natural",
+                  "coords": [
+                        17.857133,
+                        -32.828613
+                  ]
+            },
+            {
+                  "name": "Groot Paternoster Private Nature Reserve",
+                  "text": "Înființat în 1992, acest sanctuar privat de coastă conservă flora indigenă și golfurile liniștite de nisip.",
+                  "category": "natural",
+                  "coords": [
+                        17.905164,
+                        -32.7512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Columbine Lighthouse",
+                  "text": "This functioning maritime beacon is famously situated among massive granite boulders on the treacherous west coast.",
+                  "category": "landmark",
+                  "coords": [
+                        17.855534,
+                        -32.827717
+                  ]
+            },
+            {
+                  "name": "Cape Columbine Nature Reserve",
+                  "text": "Founded in 1973, this stretch of pristine Atlantic coastline protects rocky outcrops and spring wild flowers.",
+                  "category": "natural",
+                  "coords": [
+                        17.857133,
+                        -32.828613
+                  ]
+            },
+            {
+                  "name": "Groot Paternoster Private Nature Reserve",
+                  "text": "Established in 1992, this private coastal sanctuary preserves the indigenous flora and quiet sandy coves.",
+                  "category": "natural",
+                  "coords": [
+                        17.905164,
+                        -32.7512
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [17.8525, -32.8277],
@@ -1383,7 +10086,412 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "durban-city-hall-landmarks-v2",
+    id: "durban-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kiss the City",
+                  "text": "Diese farbenfrohe Straßenkunst-Attraktion in der Nähe der Durban City Hall ist ein beliebter Ort für urbane Fotografie.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "Diese öffentliche Kunstinstallation in der Nähe des Rathauses zeigt skulpturale Darstellungen von Elefanten, die das Wildtiererbe der Region widerspiegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "Dieser Küsten-Themenpark bietet ein komplexes maßstabsgetreues Modell der bemerkenswerten Gebäude und Verkehrsnetze der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "Dieses Museum am Hafenrand zeigt ausgemusterte Schlepper und marinehistorische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "Dieses majestätische städtische Gebäude wurde im grandiosen edwardianischen Neobarock-Stil entworfen und beherbergt lokale Regierungsbüros und eine Kunstgalerie.",
+                  "category": "historical",
+                  "coords": [
+                        31.026491,
+                        -29.858517
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "Dieser Sandstrand bietet einen weiten Blick auf den Indischen Ozean und ist ein erstklassiges Ziel zum Surfen und Sonnenbaden in der Nähe des Stadtzentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040691,
+                        -29.855818
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "Dieser markante Theaterkomplex integriert Architektur im Tudor-Stil mit modernen Aufführungsräumen für vielfältige Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027084,
+                        -29.859541
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "Dieses Museum befindet sich in einem der ältesten öffentlichen Gebäude der Stadt und dokumentiert die frühe Kolonialgeschichte und Entwicklung der Siedlung.",
+                  "category": "museum",
+                  "coords": [
+                        31.027581,
+                        -29.858341
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Dieses der Menschenrechtsbildung gewidmete Museum präsentiert feierliche Ausstellungen, die die Gräueltaten des Holocaust und anderer weltweiter Völkermorde detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        31.034027,
+                        -29.849357
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Dieses Freilufttheater inmitten von Küstengärten bietet einen malerischen Veranstaltungsort für öffentliche Aufführungen und Zusammenkünfte.",
+                  "category": "cultural",
+                  "coords": [
+                        31.03551,
+                        -29.846773
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Dieser familienorientierte Themenpark liegt direkt an der Strandpromenade und bietet klassische Fahrgeschäfte und eine malerische Seilbahn.",
+                  "category": "recreational",
+                  "coords": [
+                        31.039052,
+                        -29.854031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiss the City",
+                  "text": "Ez a színes utcai művészeti látványosság a durbani városháza közelében népszerű hely az urbánus fotózáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "A városháza közelében található köztéri művészeti installáció elefántok szobrászati ábrázolásait mutatja be, amelyek a régió vadvilági örökségét tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "Ez a tengerparti vidámpark a város nevezetes épületeinek és közlekedési hálózatainak bonyolult méretarányos modelljét mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "A kikötő szélén található múzeum nyugdíjazott vontatóhajókat és haditengerészeti történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "A grandiózus Edward-kori neobarokk stílusban tervezett fenséges önkormányzati épület a helyi kormányhivataloknak és egy művészeti galériának ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        31.026491,
+                        -29.858517
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "A tágas Indiai-óceánra nyíló kilátást nyújtó homokos tengerpart elsőrangú célpont a szörfözéshez és a napozáshoz a városközpont közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040691,
+                        -29.855818
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "Ez a kiemelkedő színházkomplexum a Tudor-stílusú építészetet modern előadóterekkel ötvözi a változatos színházi produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027084,
+                        -29.859541
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "A város egyik legrégebbi középületében található múzeum a település korai gyarmati történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.027581,
+                        -29.858341
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Az emberi jogi oktatásnak szentelt múzeum ünnepélyes kiállításokat mutat be, amelyek részletezik a holokauszt és más globális népirtások atrocitásait.",
+                  "category": "museum",
+                  "coords": [
+                        31.034027,
+                        -29.849357
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "A tengerparti kertek között fekvő szabadtéri színház festői helyszínt biztosít nyilvános előadások és összejövetelek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        31.03551,
+                        -29.846773
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Közvetlenül a tengerparton található ez a családorientált vidámpark, amely klasszikus karneváli túrákat és festői felvonót kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        31.039052,
+                        -29.854031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiss the City",
+                  "text": "Această atracție colorată de artă stradală de lângă Primăria din Durban oferă un loc popular pentru fotografia urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "Situată lângă Primărie, această instalație de artă publică prezintă reprezentări sculpturale ale elefanților, reflectând moștenirea faunei sălbatice din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "Acest parc tematic de coastă prezintă un model la scară complex al clădirilor notabile și al rețelelor de transport ale orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "Situat de-a lungul marginii portului, acest muzeu expune remorchere retrase din uz și artefacte de istorie navală.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "Proiectată în stilul măreț neobaroc edwardian, această clădire municipală maiestuoasă găzduiește birouri ale administrației locale și o galerie de artă.",
+                  "category": "historical",
+                  "coords": [
+                        31.026491,
+                        -29.858517
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "Oferind vederi întinse asupra Oceanului Indian, această plajă cu nisip pe coastă este o destinație principală pentru surfing și plajă în apropierea centrului orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040691,
+                        -29.855818
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "Acest complex de teatru proeminent integrează arhitectura în stil Tudor cu spații moderne de spectacol pentru diverse producții teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027084,
+                        -29.859541
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "Ocupând una dintre cele mai vechi clădiri publice ale orașului, acest muzeu cronicizează istoria colonială timpurie și dezvoltarea așezării.",
+                  "category": "museum",
+                  "coords": [
+                        31.027581,
+                        -29.858341
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Dedicat educației pentru drepturile omului, acest muzeu prezintă expoziții solemne care detaliază atrocitățile Holocaustului și ale altor genociduri globale.",
+                  "category": "museum",
+                  "coords": [
+                        31.034027,
+                        -29.849357
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Situat în mijlocul grădinilor de coastă, acest teatru în aer liber oferă un loc pitoresc pentru spectacole publice și adunări.",
+                  "category": "cultural",
+                  "coords": [
+                        31.03551,
+                        -29.846773
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Situat direct pe faleza plajei, acest parc tematic orientat spre familie prezintă atracții clasice de carnaval și o telecabină pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        31.039052,
+                        -29.854031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiss the City",
+                  "text": "This colorful street art attraction near Durban City Hall provides a popular spot for urban photography.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "Situated near the City Hall, this public art installation features sculptural representations of elephants reflecting the region's wildlife heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "This coastal theme park features an intricate scale model of the city's notable buildings and transportation networks.",
+                  "category": "recreational",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "Located along the harbor edge, this museum showcases retired tugboats and naval history artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "Designed in the grand Edwardian Neo-Baroque style, this majestic municipal building houses local government offices and an art gallery.",
+                  "category": "historical",
+                  "coords": [
+                        31.026491,
+                        -29.858517
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "Providing expansive Indian Ocean views, this sandy coastal beach is a prime destination for surfing and sunbathing near the city center.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040691,
+                        -29.855818
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "This prominent theatre complex integrates Tudor-style architecture with modern performance spaces for diverse theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027084,
+                        -29.859541
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "Occupying one of the city's oldest public buildings, this museum chronicles the early colonial history and development of the settlement.",
+                  "category": "museum",
+                  "coords": [
+                        31.027581,
+                        -29.858341
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Dedicated to human rights education, this museum presents solemn exhibitions detailing the atrocities of the Holocaust and other global genocides.",
+                  "category": "museum",
+                  "coords": [
+                        31.034027,
+                        -29.849357
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Set amidst coastal gardens, this open-air theatre provides a scenic venue for public performances and gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        31.03551,
+                        -29.846773
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Located directly on the beachfront, this family-oriented theme park features classic carnival rides and a scenic cable car.",
+                  "category": "recreational",
+                  "coords": [
+                        31.039052,
+                        -29.854031
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-KZN",
     coords: [31.0264, -29.8588],
@@ -1443,7 +10551,268 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "the-pearls-of-umhlanga-landmarks-v2",
+    id: "the-pearls-of-umhlanga-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kwazulu-Natal Sharks Board",
+                  "text": "Das Kwazulu-Natal Sharks Board ist eine pädagogische Attraktion, die sich der Meeresforschung und dem Haischutz in Umhlanga widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.072295,
+                        -29.724787
+                  ]
+            },
+            {
+                  "name": "The Barnyard",
+                  "text": "The Barnyard ist ein stimmungsvolles Theater, das lebhafte Live-Unterhaltung in der Nähe der Pearls of Umhlanga bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        31.067559,
+                        -29.723649
+                  ]
+            },
+            {
+                  "name": "Umhlanga Rocks Lighthouse",
+                  "text": "Der Leuchtturm von Umhlanga Rocks ist ein markantes rot-weißes Küstensignal, das Schiffe entlang der Küste von KwaZulu-Natal leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088128,
+                        -29.72856
+                  ]
+            },
+            {
+                  "name": "Whalebone Pier",
+                  "text": "Der Whalebone Pier ist eine architektonisch einzigartige Küstenattraktion in Umhlanga, die dem Skelett eines Wals ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088499,
+                        -29.726426
+                  ]
+            },
+            {
+                  "name": "Umhlanga Lagoon Nature Reserve",
+                  "text": "Das Umhlanga Lagoon Nature Reserve ist ein geschütztes Küstenwaldreservat, das eine unberührte Mündungsumgebung bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        31.092187,
+                        -29.71293
+                  ]
+            },
+            {
+                  "name": "Umdloti Beach Coastal Conservancy",
+                  "text": "Die Umdloti Beach Coastal Conservancy ist ein geschütztes Küstenreservat, das die empfindliche Uferökologie in der Nähe von Umhlanga pflegt.",
+                  "category": "natural",
+                  "coords": [
+                        31.1149,
+                        -29.678041
+                  ]
+            },
+            {
+                  "name": "Durban South Africa Temple",
+                  "text": "Der Durban South Africa Temple ist ein elegantes religiöses Heiligtum mit kunstvoller Architektur in der Nähe von Umhlanga.",
+                  "category": "religious",
+                  "coords": [
+                        31.07426,
+                        -29.708394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwazulu-Natal Sharks Board",
+                  "text": "A Kwazulu-Natal Sharks Board egy oktatási látványosság, amely a tengerkutatásnak és a cápák védelmének szenteli magát Umhlangában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.072295,
+                        -29.724787
+                  ]
+            },
+            {
+                  "name": "The Barnyard",
+                  "text": "A The Barnyard egy hangulatos színház, amely pezsgő élő szórakoztatást kínál a Pearls of Umhlanga közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        31.067559,
+                        -29.723649
+                  ]
+            },
+            {
+                  "name": "Umhlanga Rocks Lighthouse",
+                  "text": "Az Umhlanga Rocks világítótorony egy feltűnő piros-fehér parti jelzőfény, amely a KwaZulu-Natal partvidékén haladó hajókat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088128,
+                        -29.72856
+                  ]
+            },
+            {
+                  "name": "Whalebone Pier",
+                  "text": "A Whalebone Pier egy építészetileg egyedülálló tengerparti látványosság Umhlangában, amely egy bálna csontvázára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088499,
+                        -29.726426
+                  ]
+            },
+            {
+                  "name": "Umhlanga Lagoon Nature Reserve",
+                  "text": "Az Umhlanga Lagoon Természetvédelmi Terület egy védett parti erdei menedék, amely egy érintetlen torkolati környezetet óv.",
+                  "category": "natural",
+                  "coords": [
+                        31.092187,
+                        -29.71293
+                  ]
+            },
+            {
+                  "name": "Umdloti Beach Coastal Conservancy",
+                  "text": "Az Umdloti Beach Coastal Conservancy egy védett partmenti rezervátum, amely az Umhlanga melletti érzékeny partszakasz ökológiáját tartja fenn.",
+                  "category": "natural",
+                  "coords": [
+                        31.1149,
+                        -29.678041
+                  ]
+            },
+            {
+                  "name": "Durban South Africa Temple",
+                  "text": "A durbani dél-afrikai templom egy elegáns vallási szentély, bonyolult építészeti megoldásokkal Umhlanga közelében.",
+                  "category": "religious",
+                  "coords": [
+                        31.07426,
+                        -29.708394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwazulu-Natal Sharks Board",
+                  "text": "Kwazulu-Natal Sharks Board este o atracție educațională dedicată cercetării marine și conservării rechinilor în Umhlanga.",
+                  "category": "landmark",
+                  "coords": [
+                        31.072295,
+                        -29.724787
+                  ]
+            },
+            {
+                  "name": "The Barnyard",
+                  "text": "The Barnyard este un teatru atmosferic care găzduiește spectacole live vibrante în apropiere de Pearls of Umhlanga.",
+                  "category": "cultural",
+                  "coords": [
+                        31.067559,
+                        -29.723649
+                  ]
+            },
+            {
+                  "name": "Umhlanga Rocks Lighthouse",
+                  "text": "Farul Umhlanga Rocks este un far de coastă roșu cu alb care ghidează navele de-a lungul coastei KwaZulu-Natal.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088128,
+                        -29.72856
+                  ]
+            },
+            {
+                  "name": "Whalebone Pier",
+                  "text": "Whalebone Pier este o atracție de coastă cu o arhitectură unică la Umhlanga, semănând cu scheletul unei balene.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088499,
+                        -29.726426
+                  ]
+            },
+            {
+                  "name": "Umhlanga Lagoon Nature Reserve",
+                  "text": "Rezervația Naturală Laguna Umhlanga este un sanctuar forestier de coastă protejat care conservă un mediu estuarin neatins.",
+                  "category": "natural",
+                  "coords": [
+                        31.092187,
+                        -29.71293
+                  ]
+            },
+            {
+                  "name": "Umdloti Beach Coastal Conservancy",
+                  "text": "Umdloti Beach Coastal Conservancy este o rezervație de coastă protejată care menține ecologia delicată a țărmului lângă Umhlanga.",
+                  "category": "natural",
+                  "coords": [
+                        31.1149,
+                        -29.678041
+                  ]
+            },
+            {
+                  "name": "Durban South Africa Temple",
+                  "text": "Templul Durban din Africa de Sud este un sanctuar religios elegant, împodobit cu o arhitectură complexă lângă Umhlanga.",
+                  "category": "religious",
+                  "coords": [
+                        31.07426,
+                        -29.708394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwazulu-Natal Sharks Board",
+                  "text": "The Kwazulu-Natal Sharks Board is an educational attraction dedicated to marine research and shark conservation in Umhlanga.",
+                  "category": "landmark",
+                  "coords": [
+                        31.072295,
+                        -29.724787
+                  ]
+            },
+            {
+                  "name": "The Barnyard",
+                  "text": "The Barnyard is an atmospheric theatre hosting vibrant live entertainment near the Pearls of Umhlanga.",
+                  "category": "cultural",
+                  "coords": [
+                        31.067559,
+                        -29.723649
+                  ]
+            },
+            {
+                  "name": "Umhlanga Rocks Lighthouse",
+                  "text": "Umhlanga Rocks Lighthouse is a striking red-and-white coastal beacon guiding ships along the KwaZulu-Natal coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088128,
+                        -29.72856
+                  ]
+            },
+            {
+                  "name": "Whalebone Pier",
+                  "text": "Whalebone Pier is an architecturally unique coastal attraction resembling a whale's skeleton at Umhlanga.",
+                  "category": "landmark",
+                  "coords": [
+                        31.088499,
+                        -29.726426
+                  ]
+            },
+            {
+                  "name": "Umhlanga Lagoon Nature Reserve",
+                  "text": "Umhlanga Lagoon Nature Reserve is a protected coastal forest sanctuary preserving a pristine estuarine environment.",
+                  "category": "natural",
+                  "coords": [
+                        31.092187,
+                        -29.71293
+                  ]
+            },
+            {
+                  "name": "Umdloti Beach Coastal Conservancy",
+                  "text": "Umdloti Beach Coastal Conservancy is a protected coastal reserve maintaining the delicate shoreline ecology near Umhlanga.",
+                  "category": "natural",
+                  "coords": [
+                        31.1149,
+                        -29.678041
+                  ]
+            },
+            {
+                  "name": "Durban South Africa Temple",
+                  "text": "Durban South Africa Temple is an elegant religious sanctuary adorned with intricate architecture near Umhlanga.",
+                  "category": "religious",
+                  "coords": [
+                        31.07426,
+                        -29.708394
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-KZN",
     coords: [31.0853, -29.7288],
@@ -1503,7 +10872,88 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cape-point-lighthouse-landmarks-v2",
+    id: "cape-point-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kap-Spitze",
+                  "text": "Cape Point ist ein spektakuläres, erhöhtes Vorgebirge, das einen herrlichen Panoramablick auf die turbulenten Meeresströmungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.494981,
+                        -34.355736
+                  ]
+            },
+            {
+                  "name": "Cape Point Lighthouse",
+                  "text": "Der Cape Point Leuchtturm ist ein wichtiges Seezeichen auf den steilen Klippen, das Schiffe vor der tückischen felsigen Halbinselküste warnt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.496903,
+                        -34.356935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cape Point",
+                  "text": "A Cape Point egy látványos, magasan fekvő hegyfok, ahonnan lenyűgöző panoráma nyílik a lenti kavargó óceáni áramlatokra.",
+                  "category": "natural",
+                  "coords": [
+                        18.494981,
+                        -34.355736
+                  ]
+            },
+            {
+                  "name": "Cape Point Lighthouse",
+                  "text": "A Cape Point világítótorony egy létfontosságú tengerészeti jelzőfény a meredek sziklák tetején, amely az áruló sziklás félszigetre figyelmezteti a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.496903,
+                        -34.356935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cape Point",
+                  "text": "Cape Point este un promontoriu înalt și spectaculos, care oferă o panoramă magnifică a curenților oceanici turbulenți care se ciocnesc dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        18.494981,
+                        -34.355736
+                  ]
+            },
+            {
+                  "name": "Cape Point Lighthouse",
+                  "text": "Farul Cape Point este un far maritim vital aflat pe stâncile abrupte pentru a avertiza navele de coasta stâncoasă periculoasă a peninsulei.",
+                  "category": "landmark",
+                  "coords": [
+                        18.496903,
+                        -34.356935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Point",
+                  "text": "Cape Point is a spectacular elevated promontory that provides magnificent panoramic views of the turbulent ocean currents colliding below.",
+                  "category": "natural",
+                  "coords": [
+                        18.494981,
+                        -34.355736
+                  ]
+            },
+            {
+                  "name": "Cape Point Lighthouse",
+                  "text": "The Cape Point Lighthouse is a vital maritime beacon standing atop the sheer cliffs to warn ships of the treacherous rocky peninsula coast.",
+                  "category": "landmark",
+                  "coords": [
+                        18.496903,
+                        -34.356935
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-WC",
     coords: [18.4965, -34.3565],
@@ -1598,7 +11048,124 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       ]
     }, image: "/poi-images/st-georges-cathedral-landmarks-v2.webp"},
   {
-    id: "owl-house-landmarks-v2",
+    id: "owl-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone Folk of Ongeluksloot",
+                  "text": "Eine Ansammlung eigentümlicher, von Menschenhand geschaffener Steinskulpturen in der kargen Halbwüste.",
+                  "category": "landmark",
+                  "coords": [
+                        24.494024,
+                        -31.838636
+                  ]
+            },
+            {
+                  "name": "Owl House Visitor Centre",
+                  "text": "Ein kleines Museum, das den Einstieg in die exzentrische Kunstwelt von Helen Martins und ihren Zement- und Glasskulpturen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        24.553598,
+                        -31.867727
+                  ]
+            },
+            {
+                  "name": "Die Toring",
+                  "text": "Ein markanter Berggipfel, dessen Name \"Der Turm\" seine steil aufragende Form in der kargen Landschaft treffend beschreibt.",
+                  "category": "natural",
+                  "coords": [
+                        24.570777,
+                        -31.898135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Folk of Ongeluksloot",
+                  "text": "Különös, ember alkotta kőszobrok gyűjteménye a kopár félsivatagban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.494024,
+                        -31.838636
+                  ]
+            },
+            {
+                  "name": "Owl House Visitor Centre",
+                  "text": "Kis múzeum, amely bevezetést nyújt Helen Martins és cement- és üvegszobrainak excentrikus művészeti világába.",
+                  "category": "museum",
+                  "coords": [
+                        24.553598,
+                        -31.867727
+                  ]
+            },
+            {
+                  "name": "Die Toring",
+                  "text": "Jellegzetes hegycsúcs, amelynek neve, \"A torony\" találóan írja le meredeken emelkedő alakját a kopár tájban.",
+                  "category": "natural",
+                  "coords": [
+                        24.570777,
+                        -31.898135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Folk of Ongeluksloot",
+                  "text": "O colecție de sculpturi ciudate din piatră, create de om, în semideșertul arid.",
+                  "category": "landmark",
+                  "coords": [
+                        24.494024,
+                        -31.838636
+                  ]
+            },
+            {
+                  "name": "Owl House Visitor Centre",
+                  "text": "Un mic muzeu care oferă o introducere în lumea artei excentrice a lui Helen Martins și în sculpturile ei din ciment și sticlă.",
+                  "category": "museum",
+                  "coords": [
+                        24.553598,
+                        -31.867727
+                  ]
+            },
+            {
+                  "name": "Die Toring",
+                  "text": "Un vârf muntos proeminent al cărui nume, \"Turnul\", descrie perfect forma sa abruptă în peisajul sterp.",
+                  "category": "natural",
+                  "coords": [
+                        24.570777,
+                        -31.898135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Folk of Ongeluksloot",
+                  "text": "A collection of peculiar, man-made stone sculptures set in the barren semi-desert landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        24.494024,
+                        -31.838636
+                  ]
+            },
+            {
+                  "name": "Owl House Visitor Centre",
+                  "text": "A small museum providing an introduction to the eccentric art world of Helen Martins and her cement and glass sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        24.553598,
+                        -31.867727
+                  ]
+            },
+            {
+                  "name": "Die Toring",
+                  "text": "A prominent mountain peak whose name, \"The Tower\", aptly describes its steeply rising shape in the barren landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.570777,
+                        -31.898135
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-EC",
     coords: [24.5516, -31.8672],
@@ -1658,7 +11225,232 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "paul-kruger-statue-landmarks-v2",
+    id: "paul-kruger-statue-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capitol Theatre",
+                  "text": "Dieses ehemalige Theater und Kino in Pretoria zeugt von der Unterhaltungsarchitektur vergangener Jahrzehnte.",
+                  "category": "cultural",
+                  "coords": [
+                        28.187174,
+                        -25.747464
+                  ]
+            },
+            {
+                  "name": "Paul Kruger's Grave",
+                  "text": "An diesem Denkmal ruhen die Überreste des ehemaligen Präsidenten der Südafrikanischen Republik, Paul Kruger.",
+                  "category": "historical",
+                  "coords": [
+                        28.175905,
+                        -25.746839
+                  ]
+            },
+            {
+                  "name": "Wonder Steam Trains",
+                  "text": "Diese historische Dampfzug-Attraktion bietet nostalgische Fahrten in sorgfältig restaurierten Waggons.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163172,
+                        -25.719938
+                  ]
+            },
+            {
+                  "name": "Rovos Rail Museum",
+                  "text": "In diesem Eisenbahnmuseum können Besucher klassische Lokomotiven und die Geschichte der luxuriösen Rovos-Züge erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        28.18666,
+                        -25.718434
+                  ]
+            },
+            {
+                  "name": "Ditsong Museums of South Africa",
+                  "text": "Dieser Verbund südafrikanischer Museen widmet sich dem natur- und kulturhistorischen Erbe des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        28.181874,
+                        -25.746606
+                  ]
+            },
+            {
+                  "name": "De Volkstem Building",
+                  "text": "Das Museumsgebäude war einst der Sitz der historischen afrikaansen Zeitung \"De Volkstem\".",
+                  "category": "museum",
+                  "coords": [
+                        28.186422,
+                        -25.74841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capitol Theatre",
+                  "text": "Ez a pretoriai egykori színház és mozi az elmúlt évtizedek szórakoztatóipari építészetének állít emléket.",
+                  "category": "cultural",
+                  "coords": [
+                        28.187174,
+                        -25.747464
+                  ]
+            },
+            {
+                  "name": "Paul Kruger's Grave",
+                  "text": "Ennél az emlékműnél nyugszanak Paul Krugernak, a Dél-afrikai Köztársaság egykori elnökének földi maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        28.175905,
+                        -25.746839
+                  ]
+            },
+            {
+                  "name": "Wonder Steam Trains",
+                  "text": "Ez a történelmi gőzmozdony-látványosság nosztalgikus utazásokat kínál gondosan felújított vagonokban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163172,
+                        -25.719938
+                  ]
+            },
+            {
+                  "name": "Rovos Rail Museum",
+                  "text": "Ebben a vasúti múzeumban a látogatók klasszikus mozdonyokat és a luxus Rovos vonatok történetét fedezhetik fel.",
+                  "category": "museum",
+                  "coords": [
+                        28.18666,
+                        -25.718434
+                  ]
+            },
+            {
+                  "name": "Ditsong Museums of South Africa",
+                  "text": "A dél-afrikai múzeumok ezen hálózata az ország természeti és kulturális örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.181874,
+                        -25.746606
+                  ]
+            },
+            {
+                  "name": "De Volkstem Building",
+                  "text": "A múzeumépület egykor a „De Volkstem” nevű történelmi afrikaans újság székhelye volt.",
+                  "category": "museum",
+                  "coords": [
+                        28.186422,
+                        -25.74841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capitol Theatre",
+                  "text": "Acest fost teatru și cinematograf din Pretoria este o mărturie a arhitecturii de divertisment din deceniile trecute.",
+                  "category": "cultural",
+                  "coords": [
+                        28.187174,
+                        -25.747464
+                  ]
+            },
+            {
+                  "name": "Paul Kruger's Grave",
+                  "text": "La acest monument se odihnesc rămășițele fostului președinte al Republicii Sud-Africane, Paul Kruger.",
+                  "category": "historical",
+                  "coords": [
+                        28.175905,
+                        -25.746839
+                  ]
+            },
+            {
+                  "name": "Wonder Steam Trains",
+                  "text": "Această atracție cu trenuri cu aburi istorice oferă plimbări nostalgice în vagoane atent restaurate.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163172,
+                        -25.719938
+                  ]
+            },
+            {
+                  "name": "Rovos Rail Museum",
+                  "text": "În acest muzeu feroviar, vizitatorii pot explora locomotive clasice și istoria trenurilor de lux Rovos.",
+                  "category": "museum",
+                  "coords": [
+                        28.18666,
+                        -25.718434
+                  ]
+            },
+            {
+                  "name": "Ditsong Museums of South Africa",
+                  "text": "Această rețea de muzee sud-africane este dedicată patrimoniului natural și cultural al țării.",
+                  "category": "museum",
+                  "coords": [
+                        28.181874,
+                        -25.746606
+                  ]
+            },
+            {
+                  "name": "De Volkstem Building",
+                  "text": "Clădirea muzeului a fost odată sediul ziarului istoric în limba afrikaans „De Volkstem”.",
+                  "category": "museum",
+                  "coords": [
+                        28.186422,
+                        -25.74841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capitol Theatre",
+                  "text": "This former theatre and cinema in Pretoria bears witness to the entertainment architecture of past decades.",
+                  "category": "cultural",
+                  "coords": [
+                        28.187174,
+                        -25.747464
+                  ]
+            },
+            {
+                  "name": "Paul Kruger's Grave",
+                  "text": "This monument marks the final resting place of Paul Kruger, the former President of the South African Republic.",
+                  "category": "historical",
+                  "coords": [
+                        28.175905,
+                        -25.746839
+                  ]
+            },
+            {
+                  "name": "Wonder Steam Trains",
+                  "text": "This historic steam train attraction offers nostalgic rides in carefully restored carriages.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163172,
+                        -25.719938
+                  ]
+            },
+            {
+                  "name": "Rovos Rail Museum",
+                  "text": "At this railway museum, visitors can explore classic locomotives and the history of the luxurious Rovos trains.",
+                  "category": "museum",
+                  "coords": [
+                        28.18666,
+                        -25.718434
+                  ]
+            },
+            {
+                  "name": "Ditsong Museums of South Africa",
+                  "text": "This amalgamation of South African museums is dedicated to the natural and cultural history heritage of the country.",
+                  "category": "museum",
+                  "coords": [
+                        28.181874,
+                        -25.746606
+                  ]
+            },
+            {
+                  "name": "De Volkstem Building",
+                  "text": "The museum building was once the headquarters of the historical Afrikaans newspaper \"De Volkstem\".",
+                  "category": "museum",
+                  "coords": [
+                        28.186422,
+                        -25.74841
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-GT",
     coords: [28.1872, -25.7461],
@@ -1718,7 +11510,844 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "port-elizabeth-city-hall-landmarks-v2",
+    id: "port-elizabeth-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Willows Resort",
+                  "text": "Das Willows Resort in der Nähe von Port Elizabeth ist ein zerklüftetes Strandresort, das Unterkünfte direkt an der felsigen Küste des Indischen Ozeans bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.608188,
+                        -34.044145
+                  ]
+            },
+            {
+                  "name": "Horse Memorial",
+                  "text": "Das Horse Memorial in Port Elizabeth ist ein eindrucksvolles Denkmal für die Tausenden von Pferden, die während des Zweiten Burenkrieges gelitten haben und gestorben sind.",
+                  "category": "historical",
+                  "coords": [
+                        25.608852,
+                        -33.962153
+                  ]
+            },
+            {
+                  "name": "Mannville Open Air Theatre",
+                  "text": "Das Mannville Open Air Theatre ist ein stimmungsvoller Freiluft-Aufführungsort in Port Elizabeth, der traditionell für Shakespeare-Stücke unter dem Sternenhimmel bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        25.605728,
+                        -33.966928
+                  ]
+            },
+            {
+                  "name": "Prester John",
+                  "text": "Das Prester-John-Denkmal in Port Elizabeth ist ein großes Steinkreuz zur Erinnerung an den legendären christlichen König und die frühen portugiesischen Seefahrer, die sein mythisches Reich suchten.",
+                  "category": "historical",
+                  "coords": [
+                        25.623674,
+                        -33.962777
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "Das Little Theatre in Port Elizabeth ist ein intimer Veranstaltungsort im Innenbereich, der sich der Inszenierung von gemeinschaftsorientierten Schauspiel- und Musikaufführungen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        25.620189,
+                        -33.964129
+                  ]
+            },
+            {
+                  "name": "South End Museum",
+                  "text": "Das South End Museum in Port Elizabeth dokumentiert die ergreifende Geschichte und Kultur einer einst lebendigen Gemeinde vor ihrer Zwangsumsiedlung unter den Apartheidgesetzen.",
+                  "category": "museum",
+                  "coords": [
+                        25.62929,
+                        -33.969395
+                  ]
+            },
+            {
+                  "name": "Apple Express Workshop",
+                  "text": "Der Apple Express Workshop in Port Elizabeth ist eine industrielle Attraktion, in der die historischen Schmalspur-Dampflokomotiven der Region erhalten und gewartet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        25.634349,
+                        -33.975509
+                  ]
+            },
+            {
+                  "name": "Donkin Hill Lighthouse",
+                  "text": "Der im Juni 1861 in Betrieb genommene Donkin Hill Lighthouse in Port Elizabeth ist ein historisches maritimes Leuchtfeuer, das einst Schiffe in die Algoa Bay führte.",
+                  "category": "landmark",
+                  "coords": [
+                        25.620615,
+                        -33.962264
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Catholic Cathedral",
+                  "text": "Die katholische Kathedrale Saint Augustine ist ein markantes religiöses Wahrzeichen in Port Elizabeth, das für seine hoch aufragende neugotische Architektur und die auffälligen Buntglasfenster bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.622486,
+                        -33.962847
+                  ]
+            },
+            {
+                  "name": "Masjid Azîez",
+                  "text": "Die im Juli 1901 gegründete Masjid Azîez in Port Elizabeth ist eine grundlegende islamische Kultstätte mit tiefen historischen Wurzeln in der lokalen muslimischen Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        25.628314,
+                        -33.966135
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela University Nature Reserve",
+                  "text": "Das Naturschutzgebiet der Nelson Mandela University in Port Elizabeth umfasst ausgedehnte Gebiete mit einheimischem Küsten-Fynbos, die direkt in die Umgebung eines akademischen Campus integriert sind.",
+                  "category": "natural",
+                  "coords": [
+                        25.649356,
+                        -34.015002
+                  ]
+            },
+            {
+                  "name": "Prince Alfred's Guard Memorial",
+                  "text": "Das Prince Alfred's Guard Memorial in Port Elizabeth ist ein kompliziertes viktorianisches Bauwerk, das an die historischen Feldzüge eines lokalen freiwilligen Militärregiments erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        25.60621,
+                        -33.963908
+                  ]
+            },
+            {
+                  "name": "Saint George's Park",
+                  "text": "Der Saint George's Park in Port Elizabeth ist die älteste öffentliche Grünfläche der Stadt und beherbergt den berühmten, zweitältesten Cricketplatz Südafrikas.",
+                  "category": "park",
+                  "coords": [
+                        25.607223,
+                        -33.96586
+                  ]
+            },
+            {
+                  "name": "South African Airforce Museum",
+                  "text": "Das South African Airforce Museum in Port Elizabeth bietet eine beeindruckende Sammlung alter Militärflugzeuge und Luftfahrtartefakte, die in einer aktiven Flughafenzone untergebracht sind.",
+                  "category": "museum",
+                  "coords": [
+                        25.617891,
+                        -33.98958
+                  ]
+            },
+            {
+                  "name": "E.P.S.A. & C. Arts Hall",
+                  "text": "Die E.P.S.A. & C. Arts Hall in Port Elizabeth dient als lebendiges Kulturzentrum und veranstaltet Ausstellungen und Workshops zur Förderung der lokalen Gemeinschaft der bildenden Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        25.611091,
+                        -33.965072
+                  ]
+            },
+            {
+                  "name": "Pearson Conservatory",
+                  "text": "Das Pearson Conservatory in Port Elizabeth ist ein kunstvolles viktorianisches Gewächshaus im St George's Park, das ursprünglich für den Anbau exotischer Pflanzen gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        25.606065,
+                        -33.965462
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican",
+                  "text": "Die Holy Trinity Anglican Church in Port Elizabeth ist ein traditionelles steinernes Gotteshaus, das der lokalen englischsprachigen Gemeinde seit Generationen dient.",
+                  "category": "religious",
+                  "coords": [
+                        25.616378,
+                        -33.962854
+                  ]
+            },
+            {
+                  "name": "Raleigh Street Synagogue",
+                  "text": "Die Raleigh Street Synagogue in Port Elizabeth besticht durch ihre markante Jugendstilarchitektur und ist ein historisches Zeugnis der frühen jüdischen Gemeinde der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        25.61333,
+                        -33.959103
+                  ]
+            },
+            {
+                  "name": "Campanile",
+                  "text": "Das 1923 errichtete Campanile in Port Elizabeth ist ein hoher freistehender Glockenturm aus Backstein, der die Skyline des Hafens dominiert und an die Ankunft der Siedler von 1820 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625034,
+                        -33.960887
+                  ]
+            },
+            {
+                  "name": "Masjid ul-Akbar",
+                  "text": "Die auf das Jahr 1855 zurückgehende Masjid ul-Akbar in Port Elizabeth ist eine sehr bedeutende Kultstätte, die eine der frühesten islamischen Gemeinden der Region repräsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        25.622909,
+                        -33.960611
+                  ]
+            },
+            {
+                  "name": "No 7 Castle Hill",
+                  "text": "Das No 7 Castle Hill in Port Elizabeth, das als historisches Museum betrieben wird, ist als eines der ältesten erhaltenen Cottages der Siedler von 1820 in der Stadt erhalten geblieben.",
+                  "category": "museum",
+                  "coords": [
+                        25.621568,
+                        -33.963418
+                  ]
+            },
+            {
+                  "name": "Fort Fredrick",
+                  "text": "Das 1799 erbaute Fort Fredrick in Port Elizabeth ist eine historische Steingarnison, die von britischen Streitkräften zur Verteidigung der Mündung des Baakens River errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        25.621393,
+                        -33.966562
+                  ]
+            },
+            {
+                  "name": "Saint Peters Church Ruins",
+                  "text": "Die Ruinen der Saint Peters Church in Port Elizabeth bestehen aus den stimmungsvollen Steinfundamenten und Mauern eines frühen Pfarrgebäudes aus der Kolonialzeit.",
+                  "category": "historical",
+                  "coords": [
+                        25.625808,
+                        -33.966478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Willows Resort",
+                  "text": "A Port Elizabeth közelében található The Willows Resort egy zord partvidéki üdülőközpont, amely közvetlenül az Indiai-óceán sziklás partjainál kínál tengerparti szállást.",
+                  "category": "recreational",
+                  "coords": [
+                        25.608188,
+                        -34.044145
+                  ]
+            },
+            {
+                  "name": "Horse Memorial",
+                  "text": "A Port Elizabeth-i Horse Memorial egy lenyűgöző emlékmű, amelyet a második búr háborúban szenvedett és elpusztult több ezer ló tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        25.608852,
+                        -33.962153
+                  ]
+            },
+            {
+                  "name": "Mannville Open Air Theatre",
+                  "text": "A Mannville Open Air Theatre egy hangulatos szabadtéri előadótér Port Elizabeth-ben, amely hagyományosan a csillagos ég alatti Shakespeare-darabjairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        25.605728,
+                        -33.966928
+                  ]
+            },
+            {
+                  "name": "Prester John",
+                  "text": "A Port Elizabeth-i János pap emlékmű egy nagy kőkereszt, amely a legendás keresztény királynak és a mitikus birodalmát kutató korai portugál tengerészeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        25.623674,
+                        -33.962777
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "A Port Elizabeth-i The Little Theatre egy meghitt beltéri helyszín, amelyet a közösségi vezetésű drámai művészeteknek és zenei előadásoknak szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        25.620189,
+                        -33.964129
+                  ]
+            },
+            {
+                  "name": "South End Museum",
+                  "text": "A Port Elizabeth-i South End Múzeum egy egykor élénk közösség megrendítő történelmét és kultúráját mutatja be az apartheid törvények alatti kényszerkitelepítésük előtt.",
+                  "category": "museum",
+                  "coords": [
+                        25.62929,
+                        -33.969395
+                  ]
+            },
+            {
+                  "name": "Apple Express Workshop",
+                  "text": "A Port Elizabeth-i Apple Express Műhely egy ipari látványosság, ahol a régió történelmi kisvasúti gőzmozdonyait őrzik és tartják karban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.634349,
+                        -33.975509
+                  ]
+            },
+            {
+                  "name": "Donkin Hill Lighthouse",
+                  "text": "Az 1861 júniusában átadott Port Elizabeth-i Donkin Hill világítótorony egy történelmi tengerészeti jelzőfény, amely egykor az Algoa-öbölbe irányította a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        25.620615,
+                        -33.962264
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Catholic Cathedral",
+                  "text": "A Szent Ágoston katolikus katedrális egy kiemelkedő vallási nevezetesség Port Elizabeth-ben, amely magasba törő gótikus stílusú építészetéről és lenyűgöző ólomüveg ablakairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        25.622486,
+                        -33.962847
+                  ]
+            },
+            {
+                  "name": "Masjid Azîez",
+                  "text": "Az 1901 júliusában alapított Port Elizabeth-i Masjid Azîez egy alapvető iszlám istentiszteleti hely, amely mély történelmi gyökerekkel rendelkezik a helyi muszlim közösségben.",
+                  "category": "religious",
+                  "coords": [
+                        25.628314,
+                        -33.966135
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela University Nature Reserve",
+                  "text": "A Port Elizabeth-i Nelson Mandela Egyetem Természetvédelmi Területe kiterjedt őshonos tengerparti fynbos növényzetet foglal magába, amely közvetlenül illeszkedik az egyetemi kampusz környezetébe.",
+                  "category": "natural",
+                  "coords": [
+                        25.649356,
+                        -34.015002
+                  ]
+            },
+            {
+                  "name": "Prince Alfred's Guard Memorial",
+                  "text": "A Port Elizabeth-i Prince Alfred's Guard emlékmű egy bonyolult viktoriánus építmény, amely egy helyi önkéntes katonai ezred történelmi hadjáratainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        25.60621,
+                        -33.963908
+                  ]
+            },
+            {
+                  "name": "Saint George's Park",
+                  "text": "A Port Elizabeth-i Szent György Park a város legrégebbi nyilvános zöldövezete, és híres arról, hogy itt található Dél-Afrika második legrégebbi krikettpályája.",
+                  "category": "park",
+                  "coords": [
+                        25.607223,
+                        -33.96586
+                  ]
+            },
+            {
+                  "name": "South African Airforce Museum",
+                  "text": "A Port Elizabeth-i Dél-Afrikai Légierő Múzeum lenyűgöző régi katonai repülőgép- és repülési műtárgy-gyűjteménnyel rendelkezik, amely egy működő repülőtéri zónában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        25.617891,
+                        -33.98958
+                  ]
+            },
+            {
+                  "name": "E.P.S.A. & C. Arts Hall",
+                  "text": "A Port Elizabeth-i E.P.S.A. & C. Arts Hall pezsgő kulturális központként szolgál, amely kiállításoknak és workshopoknak ad otthont a helyi vizuális művészeti közösség népszerűsítésére.",
+                  "category": "cultural",
+                  "coords": [
+                        25.611091,
+                        -33.965072
+                  ]
+            },
+            {
+                  "name": "Pearson Conservatory",
+                  "text": "A Port Elizabeth-i Pearson Konzervatórium egy díszes viktoriánus üvegház a Szent György Parkban, amelyet eredetileg egzotikus növények termesztésére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.606065,
+                        -33.965462
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican",
+                  "text": "A Port Elizabeth-i Szentháromság Anglikán Templom egy hagyományos kőből épült istentiszteleti hely, amely generációk óta szolgálja a helyi angol nyelvű gyülekezetet.",
+                  "category": "religious",
+                  "coords": [
+                        25.616378,
+                        -33.962854
+                  ]
+            },
+            {
+                  "name": "Raleigh Street Synagogue",
+                  "text": "A Port Elizabeth-i Raleigh utcai zsinagóga feltűnő szecessziós építészettel büszkélkedhet, és a város korai zsidó közösségének történelmi tanúbizonysága.",
+                  "category": "religious",
+                  "coords": [
+                        25.61333,
+                        -33.959103
+                  ]
+            },
+            {
+                  "name": "Campanile",
+                  "text": "Az 1923-ban épült Port Elizabeth-i Campanile egy magas, téglaépítésű harangtorony, amely a kikötő látképét uralja, és az 1820-as telepesek érkezésének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625034,
+                        -33.960887
+                  ]
+            },
+            {
+                  "name": "Masjid ul-Akbar",
+                  "text": "Az 1855-ből származó Port Elizabeth-i Masjid ul-Akbar egy rendkívül jelentős istentiszteleti hely, amely a régió egyik legkorábbi iszlám gyülekezetét képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        25.622909,
+                        -33.960611
+                  ]
+            },
+            {
+                  "name": "No 7 Castle Hill",
+                  "text": "A történelmi múzeumként működő Port Elizabeth-i No 7 Castle Hill a város egyik legrégebbi fennmaradt, az 1820-as telepesek által épített házikójaként van megőrizve.",
+                  "category": "museum",
+                  "coords": [
+                        25.621568,
+                        -33.963418
+                  ]
+            },
+            {
+                  "name": "Fort Fredrick",
+                  "text": "Az 1799-ben épült Port Elizabeth-i Fort Fredrick egy történelmi kőhelyőrség, amelyet a brit erők építettek a Baakens-folyó torkolatának védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        25.621393,
+                        -33.966562
+                  ]
+            },
+            {
+                  "name": "Saint Peters Church Ruins",
+                  "text": "A Port Elizabeth-i Szent Péter-templom romjai egy kora gyarmati korszakbeli plébániaépület hangulatos kőalapjaiból és falaiból állnak.",
+                  "category": "historical",
+                  "coords": [
+                        25.625808,
+                        -33.966478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Willows Resort",
+                  "text": "The Willows Resort, lângă Port Elizabeth, este o stațiune balneară cu aspect accidentat, care oferă cazare pe litoral, chiar pe malul stâncos al Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        25.608188,
+                        -34.044145
+                  ]
+            },
+            {
+                  "name": "Horse Memorial",
+                  "text": "Monumentul Cailor din Port Elizabeth este o operă comemorativă impresionantă, dedicată miilor de cai care au suferit și au murit în timpul celui de-al Doilea Război al Burilor.",
+                  "category": "historical",
+                  "coords": [
+                        25.608852,
+                        -33.962153
+                  ]
+            },
+            {
+                  "name": "Mannville Open Air Theatre",
+                  "text": "Teatrul în aer liber Mannville este un spațiu de spectacol atmosferic din Port Elizabeth, renumit tradițional pentru găzduirea pieselor shakespeariene sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        25.605728,
+                        -33.966928
+                  ]
+            },
+            {
+                  "name": "Prester John",
+                  "text": "Monumentul Preotului Ioan din Port Elizabeth este o cruce mare de piatră care comemorează legendarul rege creștin și primii navigatori portughezi care i-au căutat imperiul mitic.",
+                  "category": "historical",
+                  "coords": [
+                        25.623674,
+                        -33.962777
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "Micul Teatru din Port Elizabeth este un spațiu interior intim dedicat punerii în scenă a artelor dramatice și a spectacolelor muzicale ale comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        25.620189,
+                        -33.964129
+                  ]
+            },
+            {
+                  "name": "South End Museum",
+                  "text": "Muzeul South End din Port Elizabeth relatează istoria și cultura emoționantă a unei comunități odinioară vibrante, înainte de relocarea sa forțată sub legile apartheidului.",
+                  "category": "museum",
+                  "coords": [
+                        25.62929,
+                        -33.969395
+                  ]
+            },
+            {
+                  "name": "Apple Express Workshop",
+                  "text": "Atelierul Apple Express din Port Elizabeth este o atracție industrială unde sunt conservate și întreținute locomotivele istorice cu abur cu ecartament îngust din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        25.634349,
+                        -33.975509
+                  ]
+            },
+            {
+                  "name": "Donkin Hill Lighthouse",
+                  "text": "Datând din iunie 1861, Farul Donkin Hill din Port Elizabeth este un far maritim istoric care odinioară ghida navele în Golful Algoa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.620615,
+                        -33.962264
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Catholic Cathedral",
+                  "text": "Catedrala Catolică Sfântul Augustin este un reper religios proeminent din Port Elizabeth, remarcată pentru arhitectura sa impunătoare în stil gotic și vitraliile spectaculoase.",
+                  "category": "religious",
+                  "coords": [
+                        25.622486,
+                        -33.962847
+                  ]
+            },
+            {
+                  "name": "Masjid Azîez",
+                  "text": "Înființată în iulie 1901, Masjid Azîez din Port Elizabeth este un lăcaș de cult islamic fundamental, cu rădăcini istorice adânci în comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        25.628314,
+                        -33.966135
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela University Nature Reserve",
+                  "text": "Rezervația Naturală a Universității Nelson Mandela din Port Elizabeth se întinde pe suprafețe vaste de fynbos de coastă indigen, integrate direct într-un mediu academic de campus.",
+                  "category": "natural",
+                  "coords": [
+                        25.649356,
+                        -34.015002
+                  ]
+            },
+            {
+                  "name": "Prince Alfred's Guard Memorial",
+                  "text": "Monumentul Gărzii Prințului Alfred din Port Elizabeth este o structură victoriană complexă care comemorează campaniile istorice ale unui regiment militar local de voluntari.",
+                  "category": "historical",
+                  "coords": [
+                        25.60621,
+                        -33.963908
+                  ]
+            },
+            {
+                  "name": "Saint George's Park",
+                  "text": "Parcul Sfântul Gheorghe din Port Elizabeth este cel mai vechi spațiu verde public al orașului și găzduiește celebrul al doilea cel mai vechi teren de crichet din Africa de Sud.",
+                  "category": "park",
+                  "coords": [
+                        25.607223,
+                        -33.96586
+                  ]
+            },
+            {
+                  "name": "South African Airforce Museum",
+                  "text": "Muzeul Forțelor Aeriene Sud-Africane din Port Elizabeth prezintă o colecție impresionantă de avioane militare de epocă și artefacte de aviație găzduite într-o zonă de aeroport funcțional.",
+                  "category": "museum",
+                  "coords": [
+                        25.617891,
+                        -33.98958
+                  ]
+            },
+            {
+                  "name": "E.P.S.A. & C. Arts Hall",
+                  "text": "Sala de Arte E.P.S.A. & C. din Port Elizabeth servește ca un centru cultural vibrant, găzduind expoziții și ateliere care promovează comunitatea locală de arte vizuale.",
+                  "category": "cultural",
+                  "coords": [
+                        25.611091,
+                        -33.965072
+                  ]
+            },
+            {
+                  "name": "Pearson Conservatory",
+                  "text": "Sera Pearson din Port Elizabeth este o seră victoriană ornamentată situată în Parcul Sf. Gheorghe, construită inițial pentru a cultiva plante exotice.",
+                  "category": "landmark",
+                  "coords": [
+                        25.606065,
+                        -33.965462
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican",
+                  "text": "Biserica Anglicană Sfânta Treime din Port Elizabeth este un lăcaș de cult tradițional din piatră care a slujit congregației locale vorbitoare de limbă engleză timp de generații.",
+                  "category": "religious",
+                  "coords": [
+                        25.616378,
+                        -33.962854
+                  ]
+            },
+            {
+                  "name": "Raleigh Street Synagogue",
+                  "text": "Sinagoga de pe strada Raleigh din Port Elizabeth se distinge prin arhitectura sa uimitoare în stil Art Nouveau și stă ca o mărturie istorică a comunității evreiești timpurii a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        25.61333,
+                        -33.959103
+                  ]
+            },
+            {
+                  "name": "Campanile",
+                  "text": "Ridicată în 1923, Campanila din Port Elizabeth este o clopotniță înaltă din cărămidă care domină orizontul portului și comemorează sosirea coloniștilor din 1820.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625034,
+                        -33.960887
+                  ]
+            },
+            {
+                  "name": "Masjid ul-Akbar",
+                  "text": "Datând din 1855, Masjid ul-Akbar din Port Elizabeth este un lăcaș de cult de o importanță deosebită, reprezentând una dintre primele congregații islamice din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        25.622909,
+                        -33.960611
+                  ]
+            },
+            {
+                  "name": "No 7 Castle Hill",
+                  "text": "Funcționând ca muzeu istoric, No 7 Castle Hill din Port Elizabeth este conservată ca una dintre cele mai vechi căsuțe rămase de la coloniștii din 1820 din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        25.621568,
+                        -33.963418
+                  ]
+            },
+            {
+                  "name": "Fort Fredrick",
+                  "text": "Construit în 1799, Fort Fredrick din Port Elizabeth este o garnizoană istorică din piatră, ridicată de forțele britanice pentru a apăra gura râului Baakens.",
+                  "category": "fortress",
+                  "coords": [
+                        25.621393,
+                        -33.966562
+                  ]
+            },
+            {
+                  "name": "Saint Peters Church Ruins",
+                  "text": "Ruinele Bisericii Sfântul Petru din Port Elizabeth constau în fundațiile și pereții atmosferici de piatră ai unei clădiri parohiale de la începutul erei coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        25.625808,
+                        -33.966478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Willows Resort",
+                  "text": "The Willows Resort near Port Elizabeth is a rugged coastal beach resort offering seaside accommodation right against the rocky Indian Ocean shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        25.608188,
+                        -34.044145
+                  ]
+            },
+            {
+                  "name": "Horse Memorial",
+                  "text": "The Horse Memorial in Port Elizabeth is a striking monument dedicated to the thousands of horses that suffered and died during the Second Boer War.",
+                  "category": "historical",
+                  "coords": [
+                        25.608852,
+                        -33.962153
+                  ]
+            },
+            {
+                  "name": "Mannville Open Air Theatre",
+                  "text": "Mannville Open Air Theatre is an atmospheric outdoor performance space in Port Elizabeth, traditionally famous for hosting Shakespearean plays under the stars.",
+                  "category": "cultural",
+                  "coords": [
+                        25.605728,
+                        -33.966928
+                  ]
+            },
+            {
+                  "name": "Prester John",
+                  "text": "The Prester John monument in Port Elizabeth is a large stone cross commemorating the legendary Christian king and the early Portuguese navigators who sought his mythical empire.",
+                  "category": "historical",
+                  "coords": [
+                        25.623674,
+                        -33.962777
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "The Little Theatre in Port Elizabeth is an intimate indoor venue dedicated to staging community-driven dramatic arts and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        25.620189,
+                        -33.964129
+                  ]
+            },
+            {
+                  "name": "South End Museum",
+                  "text": "The South End Museum in Port Elizabeth chronicles the poignant history and culture of a once-vibrant community before its forced relocation under apartheid laws.",
+                  "category": "museum",
+                  "coords": [
+                        25.62929,
+                        -33.969395
+                  ]
+            },
+            {
+                  "name": "Apple Express Workshop",
+                  "text": "The Apple Express Workshop in Port Elizabeth is an industrial attraction where the historic narrow-gauge steam locomotives of the region are preserved and maintained.",
+                  "category": "landmark",
+                  "coords": [
+                        25.634349,
+                        -33.975509
+                  ]
+            },
+            {
+                  "name": "Donkin Hill Lighthouse",
+                  "text": "Commissioned in June 1861, the Donkin Hill Lighthouse in Port Elizabeth is a historic maritime beacon that once guided ships into Algoa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        25.620615,
+                        -33.962264
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Catholic Cathedral",
+                  "text": "Saint Augustine's Catholic Cathedral is a prominent religious landmark in Port Elizabeth, noted for its soaring Gothic-style architecture and striking stained glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        25.622486,
+                        -33.962847
+                  ]
+            },
+            {
+                  "name": "Masjid Azîez",
+                  "text": "Established in July 1901, Masjid Azîez in Port Elizabeth is a foundational Islamic place of worship with deep historic roots in the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        25.628314,
+                        -33.966135
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela University Nature Reserve",
+                  "text": "The Nelson Mandela University Nature Reserve in Port Elizabeth spans vast tracts of indigenous coastal fynbos directly integrated into an academic campus environment.",
+                  "category": "natural",
+                  "coords": [
+                        25.649356,
+                        -34.015002
+                  ]
+            },
+            {
+                  "name": "Prince Alfred's Guard Memorial",
+                  "text": "The Prince Alfred's Guard Memorial in Port Elizabeth is an intricate Victorian structure commemorating a local volunteer military regiment's historical campaigns.",
+                  "category": "historical",
+                  "coords": [
+                        25.60621,
+                        -33.963908
+                  ]
+            },
+            {
+                  "name": "Saint George's Park",
+                  "text": "Saint George's Park in Port Elizabeth is the city's oldest public green space and is famously home to the second oldest cricket ground in South Africa.",
+                  "category": "park",
+                  "coords": [
+                        25.607223,
+                        -33.96586
+                  ]
+            },
+            {
+                  "name": "South African Airforce Museum",
+                  "text": "The South African Airforce Museum in Port Elizabeth features an impressive collection of vintage military aircraft and aviation artifacts housed within a working airport zone.",
+                  "category": "museum",
+                  "coords": [
+                        25.617891,
+                        -33.98958
+                  ]
+            },
+            {
+                  "name": "E.P.S.A. & C. Arts Hall",
+                  "text": "The E.P.S.A. & C. Arts Hall in Port Elizabeth serves as a vibrant cultural center, hosting exhibitions and workshops that promote the local visual arts community.",
+                  "category": "cultural",
+                  "coords": [
+                        25.611091,
+                        -33.965072
+                  ]
+            },
+            {
+                  "name": "Pearson Conservatory",
+                  "text": "The Pearson Conservatory in Port Elizabeth is an ornate Victorian glasshouse located in St George's Park, originally built to cultivate exotic plants.",
+                  "category": "landmark",
+                  "coords": [
+                        25.606065,
+                        -33.965462
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican",
+                  "text": "The Holy Trinity Anglican Church in Port Elizabeth is a traditional stone place of worship that has served the local English-speaking congregation for generations.",
+                  "category": "religious",
+                  "coords": [
+                        25.616378,
+                        -33.962854
+                  ]
+            },
+            {
+                  "name": "Raleigh Street Synagogue",
+                  "text": "The Raleigh Street Synagogue in Port Elizabeth features striking Art Nouveau architecture and stands as a historic testament to the city's early Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        25.61333,
+                        -33.959103
+                  ]
+            },
+            {
+                  "name": "Campanile",
+                  "text": "Erected in 1923, the Campanile in Port Elizabeth is a tall brick bell tower that commands the harbor skyline and commemorates the arrival of the 1820 Settlers.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625034,
+                        -33.960887
+                  ]
+            },
+            {
+                  "name": "Masjid ul-Akbar",
+                  "text": "Dating back to 1855, Masjid ul-Akbar in Port Elizabeth is a highly significant place of worship representing one of the earliest Islamic congregations in the region.",
+                  "category": "religious",
+                  "coords": [
+                        25.622909,
+                        -33.960611
+                  ]
+            },
+            {
+                  "name": "No 7 Castle Hill",
+                  "text": "Operating as a historical museum, No 7 Castle Hill in Port Elizabeth is preserved as one of the oldest surviving 1820 Settler cottages in the city.",
+                  "category": "museum",
+                  "coords": [
+                        25.621568,
+                        -33.963418
+                  ]
+            },
+            {
+                  "name": "Fort Fredrick",
+                  "text": "Constructed in 1799, Fort Fredrick in Port Elizabeth is a historic stone garrison built by British forces to defend the mouth of the Baakens River.",
+                  "category": "fortress",
+                  "coords": [
+                        25.621393,
+                        -33.966562
+                  ]
+            },
+            {
+                  "name": "Saint Peters Church Ruins",
+                  "text": "The Saint Peters Church Ruins in Port Elizabeth consist of the atmospheric stone foundations and walls of an early colonial-era parish building.",
+                  "category": "historical",
+                  "coords": [
+                        25.625808,
+                        -33.966478
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ZA-EC",
     coords: [25.6231, -33.9620],

@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraGambiaHistoryV2: POI[] = [
   {
-    id: "wassu-stone-circles-history-v2",
+    id: "wassu-stone-circles-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wassu Stone Circles Quarry Site",
+                  "text": "Die Abbaustätte der Steinkreise von Wassu ist ein archäologisches Gebiet, in dem alte megalithische Steine gewonnen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -14.859079,
+                        13.695945
+                  ]
+            },
+            {
+                  "name": "Wassu Stone Circles Museum",
+                  "text": "Das Wassu Stone Circles Museum ist eine Einrichtung, die Artefakte der nahegelegenen megalithischen Stätte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -14.873772,
+                        13.691085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wassu Stone Circles Quarry Site",
+                  "text": "A Wassu kőkörök kőfejtője egy régészeti terület, ahonnan az ősi megalitikus köveket bányászták.",
+                  "category": "historical",
+                  "coords": [
+                        -14.859079,
+                        13.695945
+                  ]
+            },
+            {
+                  "name": "Wassu Stone Circles Museum",
+                  "text": "A Wassu Stone Circles Museum a közeli megalitikus helyszín tárgyait kiállító létesítmény.",
+                  "category": "museum",
+                  "coords": [
+                        -14.873772,
+                        13.691085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wassu Stone Circles Quarry Site",
+                  "text": "Wassu Stone Circles Quarry Site este o zonă arheologică de unde au fost extrase vechile pietre megalitice.",
+                  "category": "historical",
+                  "coords": [
+                        -14.859079,
+                        13.695945
+                  ]
+            },
+            {
+                  "name": "Wassu Stone Circles Museum",
+                  "text": "Wassu Stone Circles Museum este o facilitate care expune artefacte din situl megalitic din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        -14.873772,
+                        13.691085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wassu Stone Circles Quarry Site",
+                  "text": "Wassu Stone Circles Quarry Site is an archaeological area where ancient megalithic stones were sourced.",
+                  "category": "historical",
+                  "coords": [
+                        -14.859079,
+                        13.695945
+                  ]
+            },
+            {
+                  "name": "Wassu Stone Circles Museum",
+                  "text": "Wassu Stone Circles Museum is a facility exhibiting artifacts from the nearby megalithic site.",
+                  "category": "museum",
+                  "coords": [
+                        -14.873772,
+                        13.691085
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GM-M",
     coords: [-14.873, 13.691],
@@ -101,7 +182,52 @@ export const poiExtraGambiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "arch-22-history-v2",
+    id: "arch-22-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banjul City Council",
+                  "text": "Das städtische Rathaus fungiert als Verwaltungssitz der lokalen Regierung.",
+                  "category": "historical",
+                  "coords": [
+                        -16.578612,
+                        13.45791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banjul City Council",
+                  "text": "Az önkormányzati városháza a helyi kormányzat adminisztratív központjaként működik.",
+                  "category": "historical",
+                  "coords": [
+                        -16.578612,
+                        13.45791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banjul City Council",
+                  "text": "Primăria municipală funcționează ca sediu administrativ al administrației locale.",
+                  "category": "historical",
+                  "coords": [
+                        -16.578612,
+                        13.45791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banjul City Council",
+                  "text": "The municipal townhall functions as the administrative headquarters for the local government.",
+                  "category": "historical",
+                  "coords": [
+                        -16.578612,
+                        13.45791
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GM-B",
     coords: [-16.579, 13.46],
@@ -293,7 +419,88 @@ export const poiExtraGambiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "san-domingo-ruins-history-v2",
+    id: "san-domingo-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Domingo",
+                  "text": "San Domingo bietet Ruinen aus dem 15. Jahrhundert, die als Kulturerbe anerkannt sind.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Die portugiesische Kapelle birgt denkmalgeschützte religiöse Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Domingo",
+                  "text": "A San Domingo 15. századi romokkal rendelkezik, amelyeket örökségi helyszínként ismertek el.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "A portugál kápolna műemlékvédelem alatt álló vallási romokat tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Domingo",
+                  "text": "San Domingo prezintă ruine din secolul al XV-lea, recunoscute ca sit de patrimoniu.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Capela Portugheză conține ruine religioase clasate ca patrimoniu.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Domingo",
+                  "text": "San Domingo features 15th-century ruins recognized as a heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "The Portuguese Chapel contains heritage-listed religious ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333522
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GM-N",
     coords: [-16.383, 13.333],
@@ -389,7 +596,52 @@ export const poiExtraGambiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "mussa-molloh-tomb-history-v2",
+    id: "mussa-molloh-tomb-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madina Demba Forest Park",
+                  "text": "Der Madina Demba Forest Park ist ein ausgedehntes Waldschutzgebiet, das die natürliche Vegetation der Region bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -14.736777,
+                        13.464968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madina Demba Forest Park",
+                  "text": "A Madina Demba Forest Park egy kiterjedt erdei természetvédelmi terület, amely a régió természetes növényzetét óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -14.736777,
+                        13.464968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madina Demba Forest Park",
+                  "text": "Madina Demba Forest Park este o vastă rezervație naturală forestieră care conservă vegetația nativă a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -14.736777,
+                        13.464968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madina Demba Forest Park",
+                  "text": "Madina Demba Forest Park is an extensive forested nature reserve dedicated to preserving the region's natural vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -14.736777,
+                        13.464968
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GM-M",
     coords: [-14.71, 13.43],
@@ -677,7 +929,52 @@ export const poiExtraGambiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "tanje-village-museum-history-v2",
+    id: "tanje-village-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Franco Inn Arts Center",
+                  "text": "Ein lebendiges Kunstzentrum, das den lokalen kreativen Ausdruck und kulturelle Ausstellungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.77452,
+                        13.344918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Franco Inn Arts Center",
+                  "text": "Nyüzsgő művészeti központ, amely támogatja a helyi kreatív kifejezést és a kulturális kiállításokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.77452,
+                        13.344918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Franco Inn Arts Center",
+                  "text": "Un centru de arte vibrant, care încurajează expresia creativă locală și expozițiile culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.77452,
+                        13.344918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Franco Inn Arts Center",
+                  "text": "A vibrant arts centre fostering local creative expression and cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.77452,
+                        13.344918
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GM-W",
     coords: [-16.78, 13.35],
@@ -725,7 +1022,52 @@ export const poiExtraGambiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "st-joseph-church-banjul-history-v2",
+    id: "st-joseph-church-banjul-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanbi Wetland Complex",
+                  "text": "Dieses ausgedehnte Feuchtgebiet-Naturschutzgebiet bewahrt wichtige Mangrovenökosysteme entlang der Mündung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.584418,
+                        13.450775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanbi Wetland Complex",
+                  "text": "Ez a kiterjedt vizesélőhely-védelmi terület kulcsfontosságú mangrove-ökoszisztémákat őriz a torkolat mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -16.584418,
+                        13.450775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanbi Wetland Complex",
+                  "text": "Această rezervație naturală întinsă de zone umede păstrează ecosisteme cruciale de mangrove de-a lungul estuarului.",
+                  "category": "natural",
+                  "coords": [
+                        -16.584418,
+                        13.450775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanbi Wetland Complex",
+                  "text": "This extensive wetland nature reserve preserves crucial mangrove ecosystems along the estuary.",
+                  "category": "natural",
+                  "coords": [
+                        -16.584418,
+                        13.450775
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GM-B",
     coords: [-16.583, 13.451],
@@ -773,7 +1115,52 @@ export const poiExtraGambiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "vainqueur-ruins-history-v2",
+    id: "vainqueur-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "Dieses denkmalgeschützte Museum befindet sich in einem historischen Handelsgebäude aus der Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        -16.38239,
+                        13.336316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "Ez a műemlékvédelem alatt álló múzeum egy történelmi gyarmati kori kereskedelmi épületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -16.38239,
+                        13.336316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "Acest muzeu de patrimoniu ocupă o clădire istorică de comerț din epoca colonială.",
+                  "category": "museum",
+                  "coords": [
+                        -16.38239,
+                        13.336316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "This heritage-listed museum occupies a historic colonial-era trading building.",
+                  "category": "museum",
+                  "coords": [
+                        -16.38239,
+                        13.336316
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GM-N",
     coords: [-16.38, 13.335],

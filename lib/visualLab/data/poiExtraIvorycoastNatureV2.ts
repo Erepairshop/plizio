@@ -171,7 +171,52 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "lagune-grand-lahou-nature-v2",
+    id: "lagune-grand-lahou-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de Usher Assouan",
+                  "text": "Dieses historische Hausdenkmal bewahrt das lokale architektonische Erbe der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989652,
+                        5.218917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de Usher Assouan",
+                  "text": "Ez a történelmi ház-emlékmű a régió helyi építészeti örökségét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989652,
+                        5.218917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de Usher Assouan",
+                  "text": "Acest monument tip casă istorică păstrează patrimoniul arhitectural local al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989652,
+                        5.218917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de Usher Assouan",
+                  "text": "This historic house monument preserves the local architectural heritage of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989652,
+                        5.218917
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CI-CI",
     coords: [-5.0, 5.2],
@@ -243,7 +288,88 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-poko-nature-v2",
+    id: "mount-poko-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gbegnasso",
+                  "text": "Diese Struktur steht als steinernes Denkmal und dient als bedeutendes lokales Wahrzeichen.",
+                  "category": "historical",
+                  "coords": [
+                        -7.418099,
+                        8.114769
+                  ]
+            },
+            {
+                  "name": "Gan",
+                  "text": "Dieser hochgelegene Berggipfel bietet einen herrlichen Panoramablick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -7.461526,
+                        8.062388
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gbegnasso",
+                  "text": "Ez az építmény kőemlékműként áll, amely jelentős helyi tájékozódási pontként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -7.418099,
+                        8.114769
+                  ]
+            },
+            {
+                  "name": "Gan",
+                  "text": "Ez a magaslati hegycsúcs lenyűgöző panorámát nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -7.461526,
+                        8.062388
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gbegnasso",
+                  "text": "Această structură se înalță ca un monument de piatră servind drept punct de reper local semnificativ.",
+                  "category": "historical",
+                  "coords": [
+                        -7.418099,
+                        8.114769
+                  ]
+            },
+            {
+                  "name": "Gan",
+                  "text": "Acest vârf de munte înalt oferă vederi panoramice impunătoare asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -7.461526,
+                        8.062388
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gbegnasso",
+                  "text": "This structure stands as a stone monument serving as a significant local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -7.418099,
+                        8.114769
+                  ]
+            },
+            {
+                  "name": "Gan",
+                  "text": "This elevated mountain peak offers commanding panoramic views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.461526,
+                        8.062388
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.5, 8.1],
@@ -351,7 +477,52 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-biankouma-nature-v2",
+    id: "mount-biankouma-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Gbia",
+                  "text": "Dieser hochgelegene Berggipfel zeichnet sich durch seine schroffen felsigen Hänge aus.",
+                  "category": "natural",
+                  "coords": [
+                        -7.528642,
+                        7.740627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Gbia",
+                  "text": "Ezt a magashegységi csúcsot zord sziklás lejtői jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        -7.528642,
+                        7.740627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Gbia",
+                  "text": "Acest vârf de munte la mare altitudine este caracterizat de pantele sale stâncoase accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        -7.528642,
+                        7.740627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Gbia",
+                  "text": "This high-altitude mountain peak is characterized by its rugged rocky slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -7.528642,
+                        7.740627
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.6, 7.7],
@@ -423,7 +594,124 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-tonkpi-nature-v2",
+    id: "mount-tonkpi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Tonkpi",
+                  "text": "Dieser markante Berg ist als einer der höchsten Gipfel der Elfenbeinküste bekannt und bietet einen weiten Blick von seinem hohen Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -7.637047,
+                        7.454086
+                  ]
+            },
+            {
+                  "name": "Mont Tonkpeh",
+                  "text": "Dieser aufragende Berggipfel bildet einen wesentlichen Teil des regionalen Waldmassivs.",
+                  "category": "natural",
+                  "coords": [
+                        -7.754896,
+                        7.37058
+                  ]
+            },
+            {
+                  "name": "Mont Glo",
+                  "text": "Der Mount Glo ist ein markanter Gipfel, der sich in der Naturlandschaft nahe der Tonkpi-Berge erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.728592,
+                        7.450558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Tonkpi",
+                  "text": "Ez a kiemelkedő hegy Elefántcsontpart egyik legmagasabb csúcsaként ismert, és lenyűgöző kilátást nyújt magaslati csúcsáról.",
+                  "category": "natural",
+                  "coords": [
+                        -7.637047,
+                        7.454086
+                  ]
+            },
+            {
+                  "name": "Mont Tonkpeh",
+                  "text": "Ez a tornyosuló hegycsúcs a regionális erdős masszívum jelentős részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -7.754896,
+                        7.37058
+                  ]
+            },
+            {
+                  "name": "Mont Glo",
+                  "text": "A Mount Glo egy kiemelkedő hegycsúcs, amely a Tonkpi-hegység közeli természeti tájából emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -7.728592,
+                        7.450558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Tonkpi",
+                  "text": "Acest munte proeminent este cunoscut ca unul dintre cele mai înalte vârfuri din Coasta de Fildeș, oferind vederi panoramice de pe vârful său înalt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.637047,
+                        7.454086
+                  ]
+            },
+            {
+                  "name": "Mont Tonkpeh",
+                  "text": "Acest vârf de munte falnic formează o parte semnificativă a masivului forestier regional.",
+                  "category": "natural",
+                  "coords": [
+                        -7.754896,
+                        7.37058
+                  ]
+            },
+            {
+                  "name": "Mont Glo",
+                  "text": "Muntele Glo este un vârf proeminent care se înalță în peisajul natural din apropierea munților Tonkpi.",
+                  "category": "natural",
+                  "coords": [
+                        -7.728592,
+                        7.450558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Tonkpi",
+                  "text": "This prominent mountain is known as one of the highest peaks in Ivory Coast, offering sweeping views from its elevated summit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.637047,
+                        7.454086
+                  ]
+            },
+            {
+                  "name": "Mont Tonkpeh",
+                  "text": "This towering mountain peak forms a significant part of the regional forested massif.",
+                  "category": "natural",
+                  "coords": [
+                        -7.754896,
+                        7.37058
+                  ]
+            },
+            {
+                  "name": "Mount Glo",
+                  "text": "Mount Glo is a prominent peak rising within the natural landscape near the Tonkpi mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -7.728592,
+                        7.450558
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.7, 7.4],
@@ -567,7 +855,52 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "lagune-abidjan-ouest-nature-v2",
+    id: "lagune-abidjan-ouest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abreby Lac",
+                  "text": "Eine malerische Attraktion am See, die ruhige Ausblicke auf das Wasser und erholsame Naturspaziergänge bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.233567,
+                        5.221507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abreby Lac",
+                  "text": "Festői tóparti látványosság, amely nyugodt kilátást a vízre és pihentető sétákat kínál a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.233567,
+                        5.221507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abreby Lac",
+                  "text": "O atracție pitorească pe malul lacului, care oferă vederi liniștite la apă și plimbări de recreere în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.233567,
+                        5.221507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abreby Lac",
+                  "text": "A scenic lakeside attraction offering tranquil waterside views and recreational nature walks.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.233567,
+                        5.221507
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CI-CI",
     coords: [-4.2, 5.2],
@@ -603,7 +936,52 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-mambl-nature-v2",
+    id: "mount-mambl-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Goulan",
+                  "text": "Der Mount Konan ist ein natürlicher Berggipfel im gebirgigen Gelände in der Nähe des Mount Mambl.",
+                  "category": "natural",
+                  "coords": [
+                        -7.480616,
+                        7.508655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Goulan",
+                  "text": "A Mount Konan egy természetes hegycsúcs, amely a Mount Mambl közeli hegyvidéki terepen emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        -7.480616,
+                        7.508655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Goulan",
+                  "text": "Muntele Konan este un vârf natural care se înalță în terenul muntos din apropiere de Muntele Mambl.",
+                  "category": "natural",
+                  "coords": [
+                        -7.480616,
+                        7.508655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Konan",
+                  "text": "Mount Konan is a natural peak rising in the mountainous terrain near Mount Mambl.",
+                  "category": "natural",
+                  "coords": [
+                        -7.480616,
+                        7.508655
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.5, 7.5],
@@ -819,7 +1197,52 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "lagune-assinie-nature-v2",
+    id: "lagune-assinie-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc national des îles Ehotilé",
+                  "text": "Dieser im Mündungsgebiet gelegene Nationalpark schützt eine Inselgruppe und reiche Mangroven-Ökosysteme innerhalb der Aby-Lagune.",
+                  "category": "natural",
+                  "coords": [
+                        -3.166218,
+                        5.147273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc national des îles Ehotilé",
+                  "text": "Ez a tölcsértorkolati nemzeti park egy szigetcsoportot és gazdag mangrove ökoszisztémákat véd az Aby-lagúnában.",
+                  "category": "natural",
+                  "coords": [
+                        -3.166218,
+                        5.147273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc national des îles Ehotilé",
+                  "text": "Acest parc național de estuar protejează un grup de insule și ecosisteme bogate de mangrove în cadrul Lagunei Aby.",
+                  "category": "natural",
+                  "coords": [
+                        -3.166218,
+                        5.147273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Îles Ehotilés National Park",
+                  "text": "This estuarine national park protects a group of islands and rich mangrove ecosystems within the Aby Lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        -3.166218,
+                        5.147273
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CI-CI",
     coords: [-3.2, 5.1],
@@ -855,7 +1278,88 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     },
   },
   {
-    id: "forest-azagny-nature-v2",
+    id: "forest-azagny-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campement Allemand",
+                  "text": "Diese überwachsenen Ruinen gehören zu einer ehemaligen deutschen Lagerstruktur, die sich in den Wald einfügt.",
+                  "category": "historical",
+                  "coords": [
+                        -4.85302,
+                        5.237025
+                  ]
+            },
+            {
+                  "name": "Parc National d’Azagny",
+                  "text": "Dieser geschützte Nationalpark umfasst vielfältige Feuchtgebiets- und Waldlebensräume.",
+                  "category": "natural",
+                  "coords": [
+                        -4.876653,
+                        5.219443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campement Allemand",
+                  "text": "Ezek a benőtt romok egy egykori német tábor szerkezetéhez tartoznak, amely az erdőben fészkel.",
+                  "category": "historical",
+                  "coords": [
+                        -4.85302,
+                        5.237025
+                  ]
+            },
+            {
+                  "name": "Parc National d’Azagny",
+                  "text": "Ez a védett nemzeti park változatos vizes élőhelyeket és erdei élőhelyeket foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        -4.876653,
+                        5.219443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campement Allemand",
+                  "text": "Aceste ruine năpădite de vegetație aparțin unei foste structuri de tabără germană cuibărite în pădure.",
+                  "category": "historical",
+                  "coords": [
+                        -4.85302,
+                        5.237025
+                  ]
+            },
+            {
+                  "name": "Parc National d’Azagny",
+                  "text": "Acest parc național protejat cuprinde diverse habitate de zone umede și păduri.",
+                  "category": "natural",
+                  "coords": [
+                        -4.876653,
+                        5.219443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Campement Allemand",
+                  "text": "These overgrown ruins belong to a former German camp structure nestled in the forest.",
+                  "category": "historical",
+                  "coords": [
+                        -4.85302,
+                        5.237025
+                  ]
+            },
+            {
+                  "name": "Assagny National Park",
+                  "text": "This protected national park encompasses diverse wetland and forest habitats.",
+                  "category": "natural",
+                  "coords": [
+                        -4.876653,
+                        5.219443
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CI-CI",
     coords: [-4.9, 5.2],

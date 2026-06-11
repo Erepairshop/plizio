@@ -1978,7 +1978,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Schloss Niederleis",
-                  "text": "Ein Wasserschloss in Niederösterreich mit einer langen Geschichte.",
+                  "text": "Schloss in Niederleis, Österreich, erbaut im 16. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         16.395996,
@@ -2043,7 +2043,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Schloss Niederleis",
-                  "text": "Hosszú múltra visszatekintő vízikastély Alsó-Ausztriában.",
+                  "text": "Kastély Niederleisben, Ausztriában, a 16. században épült.",
                   "category": "castle",
                   "coords": [
                         16.395996,
@@ -2108,7 +2108,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Schloss Niederleis",
-                  "text": "Un castel cu apă din Austria Inferioară, cu o istorie îndelungată.",
+                  "text": "Castel în Niederleis, Austria, construit în secolul al XVI-lea.",
                   "category": "castle",
                   "coords": [
                         16.395996,
@@ -2173,7 +2173,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Schloss Niederleis",
-                  "text": "A moated castle in Lower Austria with a long history.",
+                  "text": "Castle in Niederleis, Austria, built in the 16th century.",
                   "category": "castle",
                   "coords": [
                         16.395996,

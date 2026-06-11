@@ -123,7 +123,88 @@ export const poiExtraMozambiqueEconomicV2: POI[] = [
     },
   },
   {
-    id: "mz-port-nacala-economic-v2",
+    id: "mz-port-nacala-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baía de Muananculo",
+                  "text": "Eine weite natürliche Bucht an der mosambikanischen Küste in der Nähe von Nacala, die sich durch ihre tiefen Gewässer auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        40.64993,
+                        -14.499998
+                  ]
+            },
+            {
+                  "name": "Baía de Namalala",
+                  "text": "Ein Meeresarm entlang der tiefen Küste von Nacala, der die lokale marine Artenvielfalt und die Fischerei unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        40.641321,
+                        -14.474389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baía de Muananculo",
+                  "text": "Széles, természetes öböl a mozambiki tengerparton Nacala közelében, amelyet mély vizek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        40.64993,
+                        -14.499998
+                  ]
+            },
+            {
+                  "name": "Baía de Namalala",
+                  "text": "Egy beöböl a mély vizű Nacala partszakaszán, amely támogatja a helyi tengeri biodiverzitást és a halászatot.",
+                  "category": "landmark",
+                  "coords": [
+                        40.641321,
+                        -14.474389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baía de Muananculo",
+                  "text": "O largă baia naturală pe coasta Mozambicului, lângă Nacala, caracterizată de apele sale adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        40.64993,
+                        -14.499998
+                  ]
+            },
+            {
+                  "name": "Baía de Namalala",
+                  "text": "Un golf de-a lungul coastei cu ape adânci din Nacala, care sprijină biodiversitatea marină și pescuitul local.",
+                  "category": "landmark",
+                  "coords": [
+                        40.641321,
+                        -14.474389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baía de Muananculo",
+                  "text": "A wide natural bay on the Mozambican coast near Nacala, characterized by its deep waters.",
+                  "category": "landmark",
+                  "coords": [
+                        40.64993,
+                        -14.499998
+                  ]
+            },
+            {
+                  "name": "Baía de Namalala",
+                  "text": "An inlet along the deep-water Nacala coastline that supports local marine biodiversity and fishing.",
+                  "category": "landmark",
+                  "coords": [
+                        40.641321,
+                        -14.474389
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MZ-N",
     coords: [40.6655, -14.5428],
@@ -183,7 +264,124 @@ export const poiExtraMozambiqueEconomicV2: POI[] = [
     },
   },
   {
-    id: "mz-port-pemba-economic-v2",
+    id: "mz-port-pemba-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baía de Pemba",
+                  "text": "Einer der größten Naturhäfen der Welt mit tiefem, türkisfarbenem Wasser, umgeben von Küstenvegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        40.461389,
+                        -12.9425
+                  ]
+            },
+            {
+                  "name": "Cinema Pemba",
+                  "text": "Ein klassisches lokales Kino und ein kultureller Veranstaltungsort, der die Küstenstadt Pemba bedient.",
+                  "category": "cultural",
+                  "coords": [
+                        40.491289,
+                        -12.96449
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Mepira",
+                  "text": "Ein Navigationsfeuer am Eingang der Bucht von Pemba, das Schiffe sicher in den Hafen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        40.481187,
+                        -12.963645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baía de Pemba",
+                  "text": "A világ egyik legnagyobb természetes kikötője, melynek mély türkizkék vizét parti növényzet övezi.",
+                  "category": "landmark",
+                  "coords": [
+                        40.461389,
+                        -12.9425
+                  ]
+            },
+            {
+                  "name": "Cinema Pemba",
+                  "text": "Klasszikus helyi mozi és kulturális helyszín, amely Pemba tengerparti városát szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        40.491289,
+                        -12.96449
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Mepira",
+                  "text": "Navigációs jelzőfény a Pemba-öböl bejáratánál, amely biztonságosan a kikötőbe vezeti a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        40.481187,
+                        -12.963645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baía de Pemba",
+                  "text": "Unul dintre cele mai mari porturi naturale din lume, cu ape adânci de culoarea turcoazului, înconjurate de vegetație de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        40.461389,
+                        -12.9425
+                  ]
+            },
+            {
+                  "name": "Cinema Pemba",
+                  "text": "Un cinematograf clasic local și un spațiu cultural care deservește orașul de coastă Pemba.",
+                  "category": "cultural",
+                  "coords": [
+                        40.491289,
+                        -12.96449
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Mepira",
+                  "text": "Un far de navigație poziționat la intrarea în Golful Pemba pentru a ghida navele în siguranță spre port.",
+                  "category": "landmark",
+                  "coords": [
+                        40.481187,
+                        -12.963645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baía de Pemba",
+                  "text": "One of the world's largest natural harbors, featuring deep turquoise waters surrounded by coastal vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        40.461389,
+                        -12.9425
+                  ]
+            },
+            {
+                  "name": "Cinema Pemba",
+                  "text": "A classic local movie theater and cultural venue serving the coastal city of Pemba.",
+                  "category": "cultural",
+                  "coords": [
+                        40.491289,
+                        -12.96449
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Mepira",
+                  "text": "A navigational beacon positioned at the entrance of Pemba Bay to guide ships safely to port.",
+                  "category": "landmark",
+                  "coords": [
+                        40.481187,
+                        -12.963645
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MZ-P",
     coords: [40.49, -12.9739],
@@ -483,7 +681,88 @@ export const poiExtraMozambiqueEconomicV2: POI[] = [
     },
   },
   {
-    id: "mz-cahora-bassa-dam-economic-v2",
+    id: "mz-cahora-bassa-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pedra grande",
+                  "text": "Dieser massive natürliche Felsvorsprung steht als markantes geologisches Wahrzeichen in der Nähe der Cahora-Bassa-Talsperre.",
+                  "category": "landmark",
+                  "coords": [
+                        32.750611,
+                        -15.595625
+                  ]
+            },
+            {
+                  "name": "Auditorio do ISPSongo",
+                  "text": "Dieser akademische Theatersaal dient der Studentengemeinschaft des Hochschulinstituts in der Staudammstadt Songo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.738304,
+                        -15.594546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pedra grande",
+                  "text": "Ez a hatalmas természetes sziklakibúvás kiemelkedő geológiai tájékozódási pont a Cahora Bassa-gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.750611,
+                        -15.595625
+                  ]
+            },
+            {
+                  "name": "Auditorio do ISPSongo",
+                  "text": "Ez az akadémiai színházterem a songói gátváros felsőoktatási intézményének hallgatói közösségét szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        32.738304,
+                        -15.594546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pedra grande",
+                  "text": "Acest afloriment masiv de stâncă naturală reprezintă un reper geologic proeminent lângă barajul Cahora Bassa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.750611,
+                        -15.595625
+                  ]
+            },
+            {
+                  "name": "Auditorio do ISPSongo",
+                  "text": "Această sală de teatru academică deservește comunitatea studențească a institutului de învățământ superior din orașul barajului Songo.",
+                  "category": "cultural",
+                  "coords": [
+                        32.738304,
+                        -15.594546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pedra grande",
+                  "text": "This massive natural rock outcrop stands as a prominent geological landmark near the Cahora Bassa dam.",
+                  "category": "landmark",
+                  "coords": [
+                        32.750611,
+                        -15.595625
+                  ]
+            },
+            {
+                  "name": "Auditorio do ISPSongo",
+                  "text": "This academic theatre hall serves the student community of the higher education institute in the Songo dam town.",
+                  "category": "cultural",
+                  "coords": [
+                        32.738304,
+                        -15.594546
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MZ-T",
     coords: [32.7042, -15.5861],
@@ -1143,7 +1422,124 @@ export const poiExtraMozambiqueEconomicV2: POI[] = [
     },
   },
   {
-    id: "mz-nampula-textile-economic-v2",
+    id: "mz-nampula-textile-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu das FPLM",
+                  "text": "Ein Militärmuseum, das die Geschichte der FPLM in der Region Nampula bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        39.257074,
+                        -15.126165
+                  ]
+            },
+            {
+                  "name": "Teatro Militar",
+                  "text": "Ein Militärtheater in Nampula.",
+                  "category": "cultural",
+                  "coords": [
+                        39.25647,
+                        -15.123497
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Etnologia",
+                  "text": "Ein Nationalmuseum, das ethnografische Sammlungen in Nampula ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        39.266516,
+                        -15.118033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu das FPLM",
+                  "text": "A Nampula régióban található katonai múzeum, amely az FPLM történetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        39.257074,
+                        -15.126165
+                  ]
+            },
+            {
+                  "name": "Teatro Militar",
+                  "text": "Nampula városában található katonai színház.",
+                  "category": "cultural",
+                  "coords": [
+                        39.25647,
+                        -15.123497
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Etnologia",
+                  "text": "Néprajzi gyűjteményeket bemutató nemzeti múzeum Nampulában.",
+                  "category": "museum",
+                  "coords": [
+                        39.266516,
+                        -15.118033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu das FPLM",
+                  "text": "Un muzeu militar care conservă istoria FPLM în regiunea Nampula.",
+                  "category": "museum",
+                  "coords": [
+                        39.257074,
+                        -15.126165
+                  ]
+            },
+            {
+                  "name": "Teatro Militar",
+                  "text": "Un teatru militar situat în Nampula.",
+                  "category": "cultural",
+                  "coords": [
+                        39.25647,
+                        -15.123497
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Etnologia",
+                  "text": "Un muzeu național care expune colecții etnografice în Nampula.",
+                  "category": "museum",
+                  "coords": [
+                        39.266516,
+                        -15.118033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu das FPLM",
+                  "text": "A military museum preserving the history of the FPLM in the Nampula region.",
+                  "category": "museum",
+                  "coords": [
+                        39.257074,
+                        -15.126165
+                  ]
+            },
+            {
+                  "name": "Teatro Militar",
+                  "text": "A military theatre venue situated in Nampula.",
+                  "category": "cultural",
+                  "coords": [
+                        39.25647,
+                        -15.123497
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Etnologia",
+                  "text": "A national museum displaying ethnographic collections in Nampula.",
+                  "category": "museum",
+                  "coords": [
+                        39.266516,
+                        -15.118033
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MZ-N",
     coords: [39.2667, -15.1167],
@@ -1383,7 +1779,52 @@ export const poiExtraMozambiqueEconomicV2: POI[] = [
     },
   },
   {
-    id: "mz-ressano-gas-power-economic-v2",
+    id: "mz-ressano-gas-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abandoned Caribou aircraft",
+                  "text": "Dieses rostende verlassene Caribou-Flugzeug liegt als unerwartetes Relikt der Luftfahrt im Buschveld nahe der Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        31.927077,
+                        -25.444475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abandoned Caribou aircraft",
+                  "text": "Ez a rozsdásodó elhagyott Caribou repülőgép váratlan repülési relikviaként hever a határ menti bozótosban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.927077,
+                        -25.444475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abandoned Caribou aircraft",
+                  "text": "Această aeronavă Caribou abandonată și ruginită stă ca o relicvă a aviației neașteptată în bushveld-ul din apropierea graniței.",
+                  "category": "landmark",
+                  "coords": [
+                        31.927077,
+                        -25.444475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abandoned Caribou aircraft",
+                  "text": "This rusting Abandoned Caribou aircraft sits as an unexpected aviation relic in the bushveld near the border.",
+                  "category": "landmark",
+                  "coords": [
+                        31.927077,
+                        -25.444475
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MZ-MPM",
     coords: [31.9833, -25.4333],
@@ -1623,7 +2064,52 @@ export const poiExtraMozambiqueEconomicV2: POI[] = [
     },
   },
   {
-    id: "mz-port-angoche-economic-v2",
+    id: "mz-port-angoche-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Nova",
+                  "text": "Ein Sandstrand an der Küste in der Nähe der Hafenstadt Angoche.",
+                  "category": "recreational",
+                  "coords": [
+                        39.967208,
+                        -16.237769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Nova",
+                  "text": "Homokos tengerparti strand Angoche kikötővárosa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        39.967208,
+                        -16.237769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Nova",
+                  "text": "O plajă de coastă cu nisip, situată în apropierea orașului-port Angoche.",
+                  "category": "recreational",
+                  "coords": [
+                        39.967208,
+                        -16.237769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Nova",
+                  "text": "A sandy coastal beach situated near the port city of Angoche.",
+                  "category": "recreational",
+                  "coords": [
+                        39.967208,
+                        -16.237769
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MZ-N",
     coords: [39.9167, -16.2333],

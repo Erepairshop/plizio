@@ -117,7 +117,52 @@ export const poiExtraCongoEconomicV2: POI[] = [
       fr: ["Point de transbordement important pour les marchandises du nord du pays.", "Point de départ du trafic fluvial vers Bangui et en amont."],
     }, image: "/poi-images/brazzaville-port-economic-v2.webp"},
   {
-    id: "djeno-oil-terminal-economic-v2",
+    id: "djeno-oil-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Colline - Vue sur lac",
+                  "text": "Dieser Aussichtspunkt auf einem Hügel bietet weitreichende Panoramablicke über den nahegelegenen See und die industrielle Küstenlandschaft von Djeno.",
+                  "category": "natural",
+                  "coords": [
+                        11.952802,
+                        -4.902235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colline - Vue sur lac",
+                  "text": "Ez a hegytetőn lévő kilátó széles panorámát kínál a közeli tóra és Djeno part menti ipari tájára.",
+                  "category": "natural",
+                  "coords": [
+                        11.952802,
+                        -4.902235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colline - Vue sur lac",
+                  "text": "Acest punct de belvedere de pe deal oferă panorame vaste asupra lacului din apropiere și a peisajului industrial de coastă din Djeno.",
+                  "category": "natural",
+                  "coords": [
+                        11.952802,
+                        -4.902235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colline - Vue sur lac",
+                  "text": "This hilltop viewpoint offers sweeping panoramas over the nearby lake and the coastal Djeno industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.952802,
+                        -4.902235
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CG-5",
     coords: [11.94, -4.92],
@@ -288,7 +333,412 @@ export const poiExtraCongoEconomicV2: POI[] = [
       fr: ["Exploite les riches gisements de calcaire de la région de la Bouenza.", "A été modernisée ces dernières années pour augmenter sa capacité."],
     }, image: "/poi-images/loutete-cement-plant-economic-v2.webp"},
   {
-    id: "coraf-oil-refinery-economic-v2",
+    id: "coraf-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Play Games",
+                  "text": "Play Games ist ein Indoor-Unterhaltungszentrum, das Besuchern verschiedene elektronische Spielhallen und Vergnügungsautomaten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.847216,
+                        -4.798505
+                  ]
+            },
+            {
+                  "name": "City games jackpot",
+                  "text": "City Games Jackpot ist eine beleuchtete Spielstätte, die Spielautomaten und Unterhaltung im Casino-Stil in der Küstenstadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854809,
+                        -4.79478
+                  ]
+            },
+            {
+                  "name": "Apollo games casino",
+                  "text": "Das Apollo Games Casino ist eine lebhafte Glücksspielattraktion mit Spieltischen und Spielautomaten für die abendliche Freizeitgestaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        11.856146,
+                        -4.794418
+                  ]
+            },
+            {
+                  "name": "Rituel thai",
+                  "text": "Rituel Thai ist eine entspannende Wellness-Attraktion, die traditionelle thailändische Massagetechniken und Spa-Behandlungen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.859982,
+                        -4.796005
+                  ]
+            },
+            {
+                  "name": "Platinium bar",
+                  "text": "Die Platinium Bar ist eine anspruchsvolle Ausgehattraktion, die handgemachte Cocktails und eine moderne Lounge-Atmosphäre bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854467,
+                        -4.799264
+                  ]
+            },
+            {
+                  "name": "Hotel chez Wou",
+                  "text": "Das Hotel Chez Wou ist ein bekannter Gastgewerbebetrieb, der für sein angeschlossenes Restaurant und komfortable Unterkünfte in der Nähe der Raffinerie bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853245,
+                        -4.797444
+                  ]
+            },
+            {
+                  "name": "Cogelo",
+                  "text": "Der Cogelo-Standort dient als beliebter lokaler Treffpunkt für nationale Lotteriespiele und Wettunterhaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        11.851684,
+                        -4.796844
+                  ]
+            },
+            {
+                  "name": "Select club venus",
+                  "text": "Der Select Club Venus ist ein exklusiver Abendtreffpunkt, der eine lebhafte gesellschaftliche Szene und musikalische Unterhaltung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850288,
+                        -4.796623
+                  ]
+            },
+            {
+                  "name": "Rituel Bien Etre Du Maroc",
+                  "text": "Rituel Bien Etre Du Maroc ist eine marokkanisch inspirierte Spa-Attraktion, die traditionelle Hammam-Behandlungen und Therapien mit ätherischen Ölen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850504,
+                        -4.802312
+                  ]
+            },
+            {
+                  "name": "Wharf",
+                  "text": "Die Wharf-Ruinen zeigen die rostenden, von Wellen umspülten Eisenpfeiler eines alten kolonialen Piers, der in den Ozean ragt.",
+                  "category": "historical",
+                  "coords": [
+                        11.849001,
+                        -4.813329
+                  ]
+            },
+            {
+                  "name": "Côte sauvage",
+                  "text": "Die Côte Sauvage ist ein malerischer Strand, der durch seine wilden Atlantikwellen und weiten Abschnitte mit rauem Sand gekennzeichnet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        11.850444,
+                        -4.815667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Play Games",
+                  "text": "A Play Games egy beltéri szórakoztatóközpont, amely különféle elektronikus játéktermeket és játékgépeket kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        11.847216,
+                        -4.798505
+                  ]
+            },
+            {
+                  "name": "City games jackpot",
+                  "text": "A City Games Jackpot egy kivilágított játékterem, amely nyerőgépeket és kaszinó stílusú szórakozást biztosít a tengerparti városban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854809,
+                        -4.79478
+                  ]
+            },
+            {
+                  "name": "Apollo games casino",
+                  "text": "Az Apollo Games Casino egy nyüzsgő fogadási látványosság, amely játékasztalokkal és nyerőgépekkel várja az esti kikapcsolódásra vágyókat.",
+                  "category": "landmark",
+                  "coords": [
+                        11.856146,
+                        -4.794418
+                  ]
+            },
+            {
+                  "name": "Rituel thai",
+                  "text": "A Rituel Thai egy pihentető wellness-látványosság, amely hagyományos thai masszázstechnikákat és fürdőkezeléseket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        11.859982,
+                        -4.796005
+                  ]
+            },
+            {
+                  "name": "Platinium bar",
+                  "text": "A Platinium Bar egy kifinomult éjszakai látványosság, amely kézműves koktélokat és modern lounge hangulatot kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854467,
+                        -4.799264
+                  ]
+            },
+            {
+                  "name": "Hotel chez Wou",
+                  "text": "A Hotel Chez Wou egy kiemelkedő vendéglátóhely, amely a finomító közelében lévő étterméről és kényelmes szállásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853245,
+                        -4.797444
+                  ]
+            },
+            {
+                  "name": "Cogelo",
+                  "text": "A Cogelo helyszíne népszerű helyi központként szolgál a nemzeti lottójátékok és fogadási szórakoztató programok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        11.851684,
+                        -4.796844
+                  ]
+            },
+            {
+                  "name": "Select club venus",
+                  "text": "A Select Club Venus egy exkluzív esti helyszín, amely pezsgő közösségi életet és zenés szórakozást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850288,
+                        -4.796623
+                  ]
+            },
+            {
+                  "name": "Rituel Bien Etre Du Maroc",
+                  "text": "A Rituel Bien Etre Du Maroc egy marokkói ihletésű fürdőlátványosság, amely hagyományos hammam kezeléseket és illóolajos terápiákat nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850504,
+                        -4.802312
+                  ]
+            },
+            {
+                  "name": "Wharf",
+                  "text": "A Wharf romjai egy régi gyarmati móló rozsdásodó, hullámok által vert vasoszlopait mutatják, amelyek az óceánba nyúlnak.",
+                  "category": "historical",
+                  "coords": [
+                        11.849001,
+                        -4.813329
+                  ]
+            },
+            {
+                  "name": "Côte sauvage",
+                  "text": "A Côte Sauvage egy festői strand, amelyet vad atlanti hullámai és hatalmas kiterjedésű, durva homokos részei jellemeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        11.850444,
+                        -4.815667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Play Games",
+                  "text": "Play Games este un centru de divertisment acoperit care oferă diverse arcade electronice și aparate de amuzament pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        11.847216,
+                        -4.798505
+                  ]
+            },
+            {
+                  "name": "City games jackpot",
+                  "text": "City Games Jackpot este o locație de jocuri iluminată care oferă sloturi și divertisment în stil cazino în orașul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854809,
+                        -4.79478
+                  ]
+            },
+            {
+                  "name": "Apollo games casino",
+                  "text": "Apollo Games Casino este o atracție vibrantă pentru pariuri, oferind mese de joc și sloturi pentru agrementul de seară.",
+                  "category": "landmark",
+                  "coords": [
+                        11.856146,
+                        -4.794418
+                  ]
+            },
+            {
+                  "name": "Rituel thai",
+                  "text": "Rituel Thai este o atracție de wellness relaxantă, care oferă tehnici tradiționale de masaj thailandez și tratamente spa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.859982,
+                        -4.796005
+                  ]
+            },
+            {
+                  "name": "Platinium bar",
+                  "text": "Platinium Bar este o atracție sofisticată a vieții de noapte, oferind cocktailuri artizanale și o atmosferă modernă de lounge.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854467,
+                        -4.799264
+                  ]
+            },
+            {
+                  "name": "Hotel chez Wou",
+                  "text": "Hotel Chez Wou este o locație ospitalieră proeminentă, cunoscută pentru restaurantul său atașat și cazările confortabile de lângă zona rafinăriei.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853245,
+                        -4.797444
+                  ]
+            },
+            {
+                  "name": "Cogelo",
+                  "text": "Locația Cogelo servește drept un hub local popular pentru jocurile loteriei naționale și divertismentul de pariuri.",
+                  "category": "landmark",
+                  "coords": [
+                        11.851684,
+                        -4.796844
+                  ]
+            },
+            {
+                  "name": "Select club venus",
+                  "text": "Select Club Venus este o locație exclusivistă de seară, oferind o scenă socială vibrantă și divertisment muzical.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850288,
+                        -4.796623
+                  ]
+            },
+            {
+                  "name": "Rituel Bien Etre Du Maroc",
+                  "text": "Rituel Bien Etre Du Maroc este o atracție spa de inspirație marocană, oferind tratamente tradiționale de hamam și terapii cu uleiuri esențiale.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850504,
+                        -4.802312
+                  ]
+            },
+            {
+                  "name": "Wharf",
+                  "text": "Ruinele Wharf prezintă pilonii de fier ruginiți și bătuți de valuri ai unui vechi debarcader colonial care se întinde în ocean.",
+                  "category": "historical",
+                  "coords": [
+                        11.849001,
+                        -4.813329
+                  ]
+            },
+            {
+                  "name": "Côte sauvage",
+                  "text": "Côte Sauvage este o plajă pitorească caracterizată de valurile sale feroce atlantice și de întinderile vaste de nisip neregulat.",
+                  "category": "recreational",
+                  "coords": [
+                        11.850444,
+                        -4.815667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Play Games",
+                  "text": "Play Games is an indoor entertainment center offering various electronic arcades and amusement machines for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        11.847216,
+                        -4.798505
+                  ]
+            },
+            {
+                  "name": "City games jackpot",
+                  "text": "City Games Jackpot is an illuminated gaming venue providing slots and casino-style entertainment in the coastal city.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854809,
+                        -4.79478
+                  ]
+            },
+            {
+                  "name": "Apollo games casino",
+                  "text": "Apollo Games Casino is a vibrant betting attraction featuring gaming tables and slot machines for evening leisure.",
+                  "category": "landmark",
+                  "coords": [
+                        11.856146,
+                        -4.794418
+                  ]
+            },
+            {
+                  "name": "Rituel thai",
+                  "text": "Rituel Thai is a relaxing wellness attraction offering traditional Thai massage techniques and spa treatments.",
+                  "category": "landmark",
+                  "coords": [
+                        11.859982,
+                        -4.796005
+                  ]
+            },
+            {
+                  "name": "Platinium bar",
+                  "text": "Platinium Bar is a sophisticated nightlife attraction offering crafted cocktails and a modern lounge atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        11.854467,
+                        -4.799264
+                  ]
+            },
+            {
+                  "name": "Hotel chez Wou",
+                  "text": "Hotel Chez Wou is a prominent hospitality venue known for its attached restaurant and comfortable lodgings near the refinery area.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853245,
+                        -4.797444
+                  ]
+            },
+            {
+                  "name": "Cogelo",
+                  "text": "The Cogelo venue serves as a popular local hub for national lottery games and betting entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        11.851684,
+                        -4.796844
+                  ]
+            },
+            {
+                  "name": "Select club venus",
+                  "text": "Select Club Venus is an exclusive evening venue offering a vibrant social scene and musical entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850288,
+                        -4.796623
+                  ]
+            },
+            {
+                  "name": "Rituel Bien Etre Du Maroc",
+                  "text": "Rituel Bien Etre Du Maroc is a Moroccan-inspired spa attraction providing traditional hammam treatments and essential oil therapies.",
+                  "category": "landmark",
+                  "coords": [
+                        11.850504,
+                        -4.802312
+                  ]
+            },
+            {
+                  "name": "Wharf",
+                  "text": "The Wharf ruins feature the rusting, wave-battered iron pylons of an old colonial pier stretching into the ocean.",
+                  "category": "historical",
+                  "coords": [
+                        11.849001,
+                        -4.813329
+                  ]
+            },
+            {
+                  "name": "Côte sauvage",
+                  "text": "The Côte Sauvage is a scenic beach characterized by its fierce Atlantic waves and expansive stretches of rugged sand.",
+                  "category": "recreational",
+                  "coords": [
+                        11.850444,
+                        -4.815667
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CG-16",
     coords: [11.85, -4.80],
@@ -753,7 +1203,52 @@ export const poiExtraCongoEconomicV2: POI[] = [
     },
   },
   {
-    id: "mengo-potash-mine-economic-v2",
+    id: "mengo-potash-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorges",
+                  "text": "Der Aussichtspunkt Gorges blickt auf das raue Gelände nahe den wirtschaftlichen Kali-Abbauzonen von Mengo.",
+                  "category": "natural",
+                  "coords": [
+                        12.047266,
+                        -4.684078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorges",
+                  "text": "A Gorges kilátópont a Mengo gazdasági hamuzsír-bányászati ​​övezetei melletti zord terepre néz.",
+                  "category": "natural",
+                  "coords": [
+                        12.047266,
+                        -4.684078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorges",
+                  "text": "Punctul de belvedere Gorges are vedere spre terenul accidentat de lângă zonele economice de exploatare a potasei din Mengo.",
+                  "category": "natural",
+                  "coords": [
+                        12.047266,
+                        -4.684078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorges",
+                  "text": "The Gorges viewpoint overlooks the rugged terrain near the economic potash mining zones of Mengo.",
+                  "category": "natural",
+                  "coords": [
+                        12.047266,
+                        -4.684078
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CG-5",
     coords: [12.05, -4.65],

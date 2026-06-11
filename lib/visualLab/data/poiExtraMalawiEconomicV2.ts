@@ -48,7 +48,124 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-kayelekera-mine-economic-v2.webp",
   },
   {
-    id: "malawi-mchenga-coal-mine-economic-v2",
+    id: "malawi-mchenga-coal-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chombe peak view point",
+                  "text": "Der Aussichtspunkt Chombe Peak überblickt von seinem erhöhten, windgepeitschten Kammgrat aus tiefe Täler und sanftes Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        34.162977,
+                        -10.631873
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "Die Hot Springs im Gebiet Mchenga sind natürliche Thermalbecken, in denen geothermisch erhitztes Wasser durch den felsigen Boden sprudelt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.190113,
+                        -10.694404
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "Das Chombe Proposed Forest Reserve umfasst einen steil bewaldeten Steilhang, der dem Schutz des lokalen Einzugsgebiets und der einheimischen Flora dienen soll.",
+                  "category": "natural",
+                  "coords": [
+                        34.156047,
+                        -10.644189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chombe peak view point",
+                  "text": "A Chombe-csúcs kilátója a magasan fekvő, szélfútta hegygerincről mély völgyekre és lankás hegyvidékre tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        34.162977,
+                        -10.631873
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "A mchengai régióban található meleg vizű források természetes termálmedencék, ahol geotermikusan felmelegített víz bugyog fel a sziklás talajból.",
+                  "category": "landmark",
+                  "coords": [
+                        34.190113,
+                        -10.694404
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "A javasolt Chombe erdőrezervátum egy meredek, erdős hegyoldalt foglal magában, és célja a helyi vízgyűjtő terület, valamint az őshonos növényvilág védelme.",
+                  "category": "natural",
+                  "coords": [
+                        34.156047,
+                        -10.644189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chombe peak view point",
+                  "text": "Punctul de belvedere al vârfului Chombe are vedere la văi adânci și zone muntoase ondulate din poziția sa ridicată pe creasta bătută de vânt.",
+                  "category": "natural",
+                  "coords": [
+                        34.162977,
+                        -10.631873
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "Izvoarele termale din zona Mchenga sunt bazine termale naturale unde apa încălzită geotermal clocotește prin pământul stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        34.190113,
+                        -10.694404
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "Rezervația forestieră propusă Chombe acoperă un povârniș abrupt împădurit ce are ca scop protejarea zonei de captare locală și a florei indigene.",
+                  "category": "natural",
+                  "coords": [
+                        34.156047,
+                        -10.644189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chombe peak view point",
+                  "text": "Chombe peak view point overlooks deep valleys and rolling highlands from its elevated, windswept ridge position.",
+                  "category": "natural",
+                  "coords": [
+                        34.162977,
+                        -10.631873
+                  ]
+            },
+            {
+                  "name": "Hot Springs",
+                  "text": "Hot Springs in the Mchenga area are natural thermal pools where geothermally heated water bubbles up through the rocky ground.",
+                  "category": "landmark",
+                  "coords": [
+                        34.190113,
+                        -10.694404
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "Chombe Proposed Forest Reserve covers a steeply wooded escarpment aimed at protecting the local catchment area and indigenous flora.",
+                  "category": "natural",
+                  "coords": [
+                        34.156047,
+                        -10.644189
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "mine",
     name: { de: "Mchenga-Kohlebergwerk", hu: "Mchenga szénbánya", ro: "Mina de cărbune Mchenga", en: "Mchenga Coal Mine" },
@@ -228,7 +345,52 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-satemwa-tea-estate-economic-v2.webp",
   },
   {
-    id: "malawi-lujeri-tea-estate-economic-v2",
+    id: "malawi-lujeri-tea-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Crater",
+                  "text": "Der Aussichtspunkt The Crater bietet ein beeindruckendes Panorama über das weitläufige Lujeri Tea Estate und die hoch aufragenden Hänge des Mulanje-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        35.549265,
+                        -16.002074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Crater",
+                  "text": "A The Crater (A Kráter) kilátópontról lélegzetelállító panoráma nyílik a kiterjedt Lujeri Tea Estate ültetvényre és a Mulanje-masszívum tornyosuló lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        35.549265,
+                        -16.002074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Crater",
+                  "text": "Punctul de belvedere The Crater oferă o panoramă uimitoare peste întinsa moșie de ceai Lujeri și pantele falnice ale Masivului Mulanje.",
+                  "category": "natural",
+                  "coords": [
+                        35.549265,
+                        -16.002074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Crater",
+                  "text": "The Crater viewpoint offers an awe-inspiring panorama across the expansive Lujeri Tea Estate and the towering slopes of the Mulanje Massif.",
+                  "category": "natural",
+                  "coords": [
+                        35.549265,
+                        -16.002074
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "industry",
     name: { de: "Teegut Lujeri", hu: "Lujeri teaültetvény", ro: "Plantația de ceai Lujeri", en: "Lujeri Tea Estate" },
@@ -273,7 +435,52 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-lujeri-tea-estate-economic-v2.webp",
   },
   {
-    id: "malawi-makata-industrial-area-economic-v2",
+    id: "malawi-makata-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyambadwe Hill",
+                  "text": "Der Nyambadwe Hill ist ein bemerkenswerter geografischer Gipfel, der sich direkt neben der Wirtschaftszone der Makata Industrial Area erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        35.017723,
+                        -15.7699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyambadwe Hill",
+                  "text": "A Nyambadwe Hill egy figyelemre méltó földrajzi csúcs, amely közvetlenül a Makata Industrial Area gazdasági övezete mellett emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        35.017723,
+                        -15.7699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyambadwe Hill",
+                  "text": "Dealul Nyambadwe este un vârf geografic notabil care se înalță adiacent zonei economice din Aria Industrială Makata.",
+                  "category": "natural",
+                  "coords": [
+                        35.017723,
+                        -15.7699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyambadwe Hill",
+                  "text": "Nyambadwe Hill is a notable geographic peak rising adjacent to the economic zone of the Makata Industrial Area.",
+                  "category": "natural",
+                  "coords": [
+                        35.017723,
+                        -15.7699
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "industry",
     name: { de: "Industriegebiet Makata", hu: "Makata ipari negyed", ro: "Zona industrială Makata", en: "Makata Industrial Area" },
@@ -498,7 +705,124 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-nkula-falls-power-station-economic-v2.webp",
   },
   {
-    id: "malawi-tedzani-power-station-economic-v2",
+    id: "malawi-tedzani-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tedzani Falls",
+                  "text": "Die Tedzani Falls sind Wasserfälle am Shire-Fluss, die für die Stromerzeugung des nahegelegenen Wasserkraftwerks bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        34.778956,
+                        -15.55599
+                  ]
+            },
+            {
+                  "name": "Mchena",
+                  "text": "Mchena ist ein natürlicher Berggipfel, der die Landschaft nahe dem Tedzani-Kraftwerk in Malawi dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        34.800847,
+                        -15.567234
+                  ]
+            },
+            {
+                  "name": "Chiswanthalo",
+                  "text": "Chiswanthalo ist ein hoher Berggipfel, der weite Panoramablicke über die umliegende Landschaft von Malawi bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.809322,
+                        -15.601338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tedzani Falls",
+                  "text": "A Tedzani-vízesés a Shire folyón található, és a közeli vízerőmű áramtermeléséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.778956,
+                        -15.55599
+                  ]
+            },
+            {
+                  "name": "Mchena",
+                  "text": "A Mchena egy természetes hegycsúcs, amely a malawi Tedzani erőmű közelében lévő tájat uralja.",
+                  "category": "natural",
+                  "coords": [
+                        34.800847,
+                        -15.567234
+                  ]
+            },
+            {
+                  "name": "Chiswanthalo",
+                  "text": "A Chiswanthalo egy magas hegycsúcs, ahonnan panorámás kilátás nyílik a környező malawi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        34.809322,
+                        -15.601338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tedzani Falls",
+                  "text": "Cascadele Tedzani de pe râul Shire sunt cunoscute pentru generarea de energie la stația hidroelectrică din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        34.778956,
+                        -15.55599
+                  ]
+            },
+            {
+                  "name": "Mchena",
+                  "text": "Mchena este un vârf montan natural care domină peisajul din apropierea stației electrice Tedzani din Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.800847,
+                        -15.567234
+                  ]
+            },
+            {
+                  "name": "Chiswanthalo",
+                  "text": "Chiswanthalo este un vârf montan înalt care oferă vederi panoramice asupra peisajului malawian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        34.809322,
+                        -15.601338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tedzani Falls",
+                  "text": "Tedzani Falls is a cascading waterfall on the Shire River, known for generating power at the nearby hydroelectric station.",
+                  "category": "landmark",
+                  "coords": [
+                        34.778956,
+                        -15.55599
+                  ]
+            },
+            {
+                  "name": "Mchena",
+                  "text": "Mchena is a natural mountain peak dominating the landscape near the Tedzani power station in Malawi.",
+                  "category": "natural",
+                  "coords": [
+                        34.800847,
+                        -15.567234
+                  ]
+            },
+            {
+                  "name": "Chiswanthalo",
+                  "text": "Chiswanthalo is an elevated mountain peak offering panoramic views over the surrounding Malawian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        34.809322,
+                        -15.601338
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "industry",
     name: { de: "Wasserkraftwerk Tedzani", hu: "Tedzani vízerőmű", ro: "Hidrocentrala Tedzani", en: "Tedzani Power Station" },
@@ -543,7 +867,124 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-tedzani-power-station-economic-v2.webp",
   },
   {
-    id: "malawi-kapichira-power-station-economic-v2",
+    id: "malawi-kapichira-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Booma",
+                  "text": "Der Aussichtspunkt Booma bietet hoch gelegene Blicke auf die industrielle Infrastruktur des Kapichira-Kraftwerks und den umliegenden Shire-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        34.710641,
+                        -15.893225
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "Dieser natürliche View Spot bietet Besuchern einen hervorragenden Aussichtspunkt, um die reißenden Wassermassen des Kapichira-Wasserkraftwerks zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        34.738739,
+                        -15.890784
+                  ]
+            },
+            {
+                  "name": "Hall-Martin Hide",
+                  "text": "Das Hall-Martin Hide ist ein getarnter Unterstand, der zur diskreten Beobachtung der vielfältigen Tierwelt in der Nähe des Kapichira-Kraftwerks dient.",
+                  "category": "natural",
+                  "coords": [
+                        34.744483,
+                        -15.883323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Booma",
+                  "text": "A Booma kilátópontról fentről látható a Kapichira Erőmű ipari infrastruktúrája és az azt körülvevő Shire-folyó.",
+                  "category": "natural",
+                  "coords": [
+                        34.710641,
+                        -15.893225
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "Ez a természetes View Spot tiszta kilátást nyújt a látogatóknak a Kapichira vízerőművet hajtó sebes vizű folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        34.738739,
+                        -15.890784
+                  ]
+            },
+            {
+                  "name": "Hall-Martin Hide",
+                  "text": "A Hall-Martin Hide egy álcázott megfigyelő menedék, amelyet a Kapichira Erőmű közelében élő változatos vadvilág diszkrét megfigyelésére alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        34.744483,
+                        -15.883323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Booma",
+                  "text": "Punctul de belvedere Booma oferă priveliști de la înălțime asupra infrastructurii industriale a Centralei Electrice Kapichira și a râului Shire înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        34.710641,
+                        -15.893225
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "Acest View Spot natural oferă vizitatorilor un punct de observație clar asupra apelor învolburate care alimentează barajul hidroelectric Kapichira.",
+                  "category": "natural",
+                  "coords": [
+                        34.738739,
+                        -15.890784
+                  ]
+            },
+            {
+                  "name": "Hall-Martin Hide",
+                  "text": "Hall-Martin Hide este un adăpost de observare camuflat, conceput pentru a urmări discret fauna diversă din apropierea Centralei Electrice Kapichira.",
+                  "category": "natural",
+                  "coords": [
+                        34.744483,
+                        -15.883323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Booma",
+                  "text": "The Booma viewpoint offers elevated sights over the industrial infrastructure of the Kapichira Power Station and the surrounding Shire River.",
+                  "category": "natural",
+                  "coords": [
+                        34.710641,
+                        -15.893225
+                  ]
+            },
+            {
+                  "name": "View Spot",
+                  "text": "This natural View Spot provides visitors with a clear vantage point to observe the rushing waters powering the Kapichira hydroelectric dam.",
+                  "category": "natural",
+                  "coords": [
+                        34.738739,
+                        -15.890784
+                  ]
+            },
+            {
+                  "name": "Hall-Martin Hide",
+                  "text": "The Hall-Martin Hide is a camouflaged viewing shelter designed for discreetly observing the diverse wildlife near the Kapichira Power Station.",
+                  "category": "natural",
+                  "coords": [
+                        34.744483,
+                        -15.883323
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "industry",
     name: { de: "Wasserkraftwerk Kapichira", hu: "Kapichira vízerőmű", ro: "Hidrocentrala Kapichira", en: "Kapichira Power Station" },
@@ -813,7 +1254,52 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-limbe-leaf-factory-economic-v2.webp",
   },
   {
-    id: "malawi-muloza-border-post-economic-v2",
+    id: "malawi-muloza-border-post-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manene",
+                  "text": "Der Manene-Gipfel, der sich in der Nähe des Grenzpostens erhebt, bildet eine dramatische geografische Grenzmarkierung über der Region Muloza.",
+                  "category": "natural",
+                  "coords": [
+                        35.720665,
+                        -15.977446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manene",
+                  "text": "A határállomás közelében magasodó Manene-csúcs drámai földrajzi határjelzőt képez a Muloza régió felett.",
+                  "category": "natural",
+                  "coords": [
+                        35.720665,
+                        -15.977446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manene",
+                  "text": "Ridicându-se lângă punctul de trecere a frontierei, vârful Manene formează un marcaj geografic dramatic de frontieră deasupra regiunii Muloza.",
+                  "category": "natural",
+                  "coords": [
+                        35.720665,
+                        -15.977446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manene",
+                  "text": "Rising near the border post, the Manene peak forms a dramatic geographical boundary marker over the Muloza region.",
+                  "category": "natural",
+                  "coords": [
+                        35.720665,
+                        -15.977446
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Grenzübergang Muloza", hu: "Muloza határátkelő", ro: "Punctul de frontieră Muloza", en: "Muloza Border Post" },
@@ -948,7 +1434,88 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-dedza-border-post-economic-v2.webp",
   },
   {
-    id: "malawi-mwanza-border-post-economic-v2",
+    id: "malawi-mwanza-border-post-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dzobwe Mountain",
+                  "text": "Der Dzobwe Mountain ist ein bedeutender Gipfel in der Nähe des wirtschaftlichen Zentrums des Grenzübergangs Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        34.46126,
+                        -15.611933
+                  ]
+            },
+            {
+                  "name": "Tsenga",
+                  "text": "Tsenga ist ein schroffer Berggipfel, der sich nahe der geschäftigen Grenzregion von Mwanza in den Himmel reckt.",
+                  "category": "natural",
+                  "coords": [
+                        34.507241,
+                        -15.603615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dzobwe Mountain",
+                  "text": "A Dzobwe Mountain egy jelentős csúcs, amely a mwanza-i határállomás gazdasági központjának közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        34.46126,
+                        -15.611933
+                  ]
+            },
+            {
+                  "name": "Tsenga",
+                  "text": "A Tsenga egy zord hegycsúcs, amely a nyüzsgő mwanza-i határvidék közelében magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        34.507241,
+                        -15.603615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dzobwe Mountain",
+                  "text": "Muntele Dzobwe este un vârf important situat în apropierea centrului economic al punctului de trecere a frontierei Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        34.46126,
+                        -15.611933
+                  ]
+            },
+            {
+                  "name": "Tsenga",
+                  "text": "Tsenga este un vârf muntos accidentat care se înalță lângă regiunea plină de viață a frontierei Mwanza.",
+                  "category": "natural",
+                  "coords": [
+                        34.507241,
+                        -15.603615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dzobwe Mountain",
+                  "text": "Dzobwe Mountain is a significant peak situated near the economic hub of the Mwanza border post.",
+                  "category": "natural",
+                  "coords": [
+                        34.46126,
+                        -15.611933
+                  ]
+            },
+            {
+                  "name": "Tsenga",
+                  "text": "Tsenga is a rugged mountain peak towering near the bustling Mwanza border post region.",
+                  "category": "natural",
+                  "coords": [
+                        34.507241,
+                        -15.603615
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Grenzübergang Mwanza", hu: "Mwanza határátkelő", ro: "Punctul de frontieră Mwanza", en: "Mwanza Border Post" },
@@ -993,7 +1560,52 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-mwanza-border-post-economic-v2.webp",
   },
   {
-    id: "malawi-bakhresa-milling-economic-v2",
+    id: "malawi-bakhresa-milling-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malabvi Mountain",
+                  "text": "Der Malabvi Mountain ist ein markanter topografischer Gipfel in Malawi, der anspruchsvolle Wanderungen und malerische Aussichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.132039,
+                        -15.840316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malabvi Mountain",
+                  "text": "A Malabvi-hegy egy figyelemre méltó domborzati csúcs Malawiban, amely kihívást jelentő túrákat és festői kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        35.132039,
+                        -15.840316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malabvi Mountain",
+                  "text": "Muntele Malabvi este un vârf topografic notabil din Malawi, oferind drumeții provocatoare și priveliști pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        35.132039,
+                        -15.840316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malabvi Mountain",
+                  "text": "Malabvi Mountain is a notable topographical peak in Malawi offering challenging hikes and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        35.132039,
+                        -15.840316
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "factory",
     name: { de: "Bakhresa-Getreidemühle", hu: "Bakhresa malom", ro: "Moara Bakhresa", en: "Bakhresa Grain Milling" },
@@ -1083,7 +1695,52 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-lilongwe-dairy-economic-v2.webp",
   },
   {
-    id: "malawi-matindi-oil-depot-economic-v2",
+    id: "malawi-matindi-oil-depot-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "mizenje",
+                  "text": "Mizenje ist eine markante Burgfestung in der Region Matindi.",
+                  "category": "castle",
+                  "coords": [
+                        35.026692,
+                        -15.671475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "mizenje",
+                  "text": "A Mizenje egy jellegzetes kővár struktúra a Matindi régióban.",
+                  "category": "castle",
+                  "coords": [
+                        35.026692,
+                        -15.671475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "mizenje",
+                  "text": "Mizenje este o structură de castel din piatră situată în apropiere de zona Matindi.",
+                  "category": "castle",
+                  "coords": [
+                        35.026692,
+                        -15.671475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "mizenje",
+                  "text": "Mizenje is a distinctive stone castle structure situated near the Matindi area.",
+                  "category": "castle",
+                  "coords": [
+                        35.026692,
+                        -15.671475
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "industry",
     name: { de: "Öllager Matindi", hu: "Matindi olajtározó", ro: "Depozitul de petrol Matindi", en: "Matindi Oil Depot" },
@@ -1218,7 +1875,52 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-sunbird-business-centre-economic-v2.webp",
   },
   {
-    id: "malawi-illovo-sugar-limbe-economic-v2",
+    id: "malawi-illovo-sugar-limbe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tabacco Auctions Blantyre",
+                  "text": "Die Tabakauktionen in Blantyre stellen eine lebhafte wirtschaftliche Attraktion für Malawis Landwirtschaft dar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.064607,
+                        -15.81193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tabacco Auctions Blantyre",
+                  "text": "A blantyre-i dohányaukciók egy nyüzsgő gazdasági látványosságot képviselnek Malawi mezőgazdaságában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.064607,
+                        -15.81193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tabacco Auctions Blantyre",
+                  "text": "Licitațiile de tutun din Blantyre reprezintă o atracție comercială plină de viață centrală în economia agricolă a statului Malawi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.064607,
+                        -15.81193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tabacco Auctions Blantyre",
+                  "text": "The Tobacco Auctions in Blantyre represent a bustling commercial attraction central to Malawi's agricultural economy.",
+                  "category": "landmark",
+                  "coords": [
+                        35.064607,
+                        -15.81193
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "industry",
     name: { de: "Illovo-Zucker-Hauptsitz", hu: "Illovo Sugar központ", ro: "Sediul Illovo Sugar", en: "Illovo Sugar Limbe" },
@@ -1263,7 +1965,232 @@ export const malawiEconomicV2: POI[] = [
     image: "/poi-images/malawi-illovo-sugar-limbe-economic-v2.webp",
   },
   {
-    id: "malawi-press-corporation-hq-economic-v2",
+    id: "malawi-press-corporation-hq-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capital Kids Play Centre",
+                  "text": "Das Capital Kids Play Centre ist ein Indoor-Spielplatz, der Klettergerüste und Spiele für Kinder in Lilongwe bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.741811,
+                        -13.971748
+                  ]
+            },
+            {
+                  "name": "Dream Land　park and restaurant",
+                  "text": "Der Dream Land Park mit Restaurant verbindet im Freien gelegene Erholungsbereiche mit gastronomischen Einrichtungen in Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750413,
+                        -13.972044
+                  ]
+            },
+            {
+                  "name": "Cross Roads Center",
+                  "text": "Das Cross Roads Center ist ein Gewerbekomplex in Lilongwe mit Einzelhandelsgeschäften, Restaurants und einem zentralen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        33.757272,
+                        -13.975178
+                  ]
+            },
+            {
+                  "name": "Market eatery (Ziboliboli)",
+                  "text": "Das Markt-Lokal Ziboliboli ist ein belebter Essensstand im Herzen von Lilongwe, der für traditionelle malawische Gerichte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        33.768198,
+                        -13.987537
+                  ]
+            },
+            {
+                  "name": "Airtel",
+                  "text": "Die Airtel-Einrichtung dient als Kundendienstzentrum und Telekommunikationsknotenpunkt für Mobilfunknetzbenutzer in Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.770249,
+                        -13.985887
+                  ]
+            },
+            {
+                  "name": "Pirate's Casino",
+                  "text": "Das Pirate's Casino bietet Spielautomaten, Tischspiele und Unterhaltung in einem Veranstaltungsort mit Piraten-Motto in Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.767749,
+                        -13.978461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capital Kids Play Centre",
+                  "text": "A Capital Kids Play Centre egy beltéri játszóház Lilongwe városában, amely mászókákkal és játékokkal várja a gyerekeket.",
+                  "category": "landmark",
+                  "coords": [
+                        33.741811,
+                        -13.971748
+                  ]
+            },
+            {
+                  "name": "Dream Land　park and restaurant",
+                  "text": "A Lilongwe városában található Dream Land park és étterem a szabadtéri rekreációs területeket étkezési lehetőségekkel ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750413,
+                        -13.972044
+                  ]
+            },
+            {
+                  "name": "Cross Roads Center",
+                  "text": "A Cross Roads Center egy kereskedelmi komplexum Lilongwe városában, amely kiskereskedelmi üzletekkel, éttermekkel és egy központi udvarral rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        33.757272,
+                        -13.975178
+                  ]
+            },
+            {
+                  "name": "Market eatery (Ziboliboli)",
+                  "text": "A Ziboliboli piaci étkezde egy nyüzsgő helyi ételstand Lilongwe szívében, amely hagyományos malawi ételeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.768198,
+                        -13.987537
+                  ]
+            },
+            {
+                  "name": "Airtel",
+                  "text": "Az Airtel létesítménye ügyfélszolgálati központként és telekommunikációs csomópontként szolgál a mobilhálózat-használók számára Lilongwe városában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.770249,
+                        -13.985887
+                  ]
+            },
+            {
+                  "name": "Pirate's Casino",
+                  "text": "A Pirate's Casino nyerőgépeket, asztali játékokat és szórakozási lehetőségeket kínál egy kalóz témájú helyszínen Lilongwe városában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.767749,
+                        -13.978461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capital Kids Play Centre",
+                  "text": "Capital Kids Play Centre este un loc de joacă interior care oferă structuri de cățărat și jocuri pentru copii în Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.741811,
+                        -13.971748
+                  ]
+            },
+            {
+                  "name": "Dream Land　park and restaurant",
+                  "text": "Parcul și restaurantul Dream Land combină zonele de recreere în aer liber cu facilități de luat masa în Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750413,
+                        -13.972044
+                  ]
+            },
+            {
+                  "name": "Cross Roads Center",
+                  "text": "Cross Roads Center este un complex comercial din Lilongwe, cu magazine de vânzare cu amănuntul, restaurante și o curte centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        33.757272,
+                        -13.975178
+                  ]
+            },
+            {
+                  "name": "Market eatery (Ziboliboli)",
+                  "text": "Localul din piață Ziboliboli este o tarabă aglomerată de mâncare din inima orașului Lilongwe, cunoscută pentru preparatele tradiționale malawiene.",
+                  "category": "landmark",
+                  "coords": [
+                        33.768198,
+                        -13.987537
+                  ]
+            },
+            {
+                  "name": "Airtel",
+                  "text": "Facilitatea Airtel servește drept centru de servicii pentru clienți și centru de telecomunicații pentru utilizatorii rețelelor mobile din Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.770249,
+                        -13.985887
+                  ]
+            },
+            {
+                  "name": "Pirate's Casino",
+                  "text": "Pirate's Casino oferă aparate de slot, jocuri de masă și divertisment într-o locație cu tematică de pirați din Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.767749,
+                        -13.978461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capital Kids Play Centre",
+                  "text": "Capital Kids Play Centre is an indoor playground offering climbing structures and games for children in Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.741811,
+                        -13.971748
+                  ]
+            },
+            {
+                  "name": "Dream Land　park and restaurant",
+                  "text": "Dream Land park and restaurant combines outdoor recreational areas with dining facilities in Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.750413,
+                        -13.972044
+                  ]
+            },
+            {
+                  "name": "Cross Roads Center",
+                  "text": "Cross Roads Center is a commercial complex in Lilongwe featuring retail stores, eateries, and a central courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        33.757272,
+                        -13.975178
+                  ]
+            },
+            {
+                  "name": "Market eatery (Ziboliboli)",
+                  "text": "Market eatery (Ziboliboli) is a bustling local food stall known for serving traditional Malawian meals in the heart of Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.768198,
+                        -13.987537
+                  ]
+            },
+            {
+                  "name": "Airtel",
+                  "text": "The Airtel facility serves as a customer service center and telecommunications hub for mobile network users in Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.770249,
+                        -13.985887
+                  ]
+            },
+            {
+                  "name": "Pirate's Casino",
+                  "text": "Pirate's Casino offers slot machines, table games, and entertainment in a pirate-themed venue in Lilongwe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.767749,
+                        -13.978461
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "landmark",
     name: { de: "Press Corporation Hauptquartier", hu: "Press Corporation székház", ro: "Sediul Press Corporation", en: "Press Corporation HQ" },

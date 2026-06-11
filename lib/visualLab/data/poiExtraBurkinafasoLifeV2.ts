@@ -75,7 +75,88 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "ferme-experimentale-de-kamboinsin-life-v2",
+    id: "ferme-experimentale-de-kamboinsin-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terrain à acheter",
+                  "text": "Ein bemerkenswertes Grundstück innerhalb des experimentellen Farmgebiets von Kamboinsin.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.51999,
+                        12.45081
+                  ]
+            },
+            {
+                  "name": "Résidence Doudou Traoré",
+                  "text": "Ein Aussichtspunkt in der Nähe der markanten Residenz von Doudou Traoré im Bezirk Kamboinsin.",
+                  "category": "natural",
+                  "coords": [
+                        -1.456548,
+                        12.440368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terrain à acheter",
+                  "text": "Egy figyelemre méltó földterület a Kamboinsin kísérleti farm területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.51999,
+                        12.45081
+                  ]
+            },
+            {
+                  "name": "Résidence Doudou Traoré",
+                  "text": "Egy kilátóhely Doudou Traoré kiemelkedő rezidenciája közelében, a Kamboinsin kerületben.",
+                  "category": "natural",
+                  "coords": [
+                        -1.456548,
+                        12.440368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terrain à acheter",
+                  "text": "Un teren notabil situat în zona fermei experimentale din Kamboinsin.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.51999,
+                        12.45081
+                  ]
+            },
+            {
+                  "name": "Résidence Doudou Traoré",
+                  "text": "Un punct de belvedere situat lângă reședința proeminentă a lui Doudou Traoré din districtul Kamboinsin.",
+                  "category": "natural",
+                  "coords": [
+                        -1.456548,
+                        12.440368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terrain à acheter",
+                  "text": "A notable plot of land set within the experimental farming area of Kamboinsin.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.51999,
+                        12.45081
+                  ]
+            },
+            {
+                  "name": "Résidence Doudou Traoré",
+                  "text": "A vantage point located near the prominent residence of Doudou Traoré in the Kamboinsin district.",
+                  "category": "natural",
+                  "coords": [
+                        -1.456548,
+                        12.440368
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BF-OU",
     coords: [-1.48, 12.43],
@@ -111,7 +192,160 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "parc-ludique-ouaga-life-v2",
+    id: "parc-ludique-ouaga-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point de la Femme",
+                  "text": "Dieser belebte Kreisverkehr zeichnet sich durch ein markantes zentrales Denkmal zu Ehren der Frauen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.506755,
+                        12.367781
+                  ]
+            },
+            {
+                  "name": "Rond-point du Poulet",
+                  "text": "Dieser lokal für sein besonderes Thema bekannte Kreisverkehr verfügt über eine charakteristische Skulptur, die dem Geflügel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.507929,
+                        12.373938
+                  ]
+            },
+            {
+                  "name": "West African Museum Program",
+                  "text": "Dieses institutionelle Zentrum koordiniert und unterstützt die Entwicklung von Museen und den Erhalt des kulturellen Erbes in ganz Westafrika.",
+                  "category": "museum",
+                  "coords": [
+                        -1.511699,
+                        12.36887
+                  ]
+            },
+            {
+                  "name": "Mémorial Thomas Sankara",
+                  "text": "Dieser von dem Architekten Diébédo Francis Kéré entworfene und auf das Jahr 2025 datierte Gedenkkomplex ehrt das Vermächtnis des visionären burkinischen Führers.",
+                  "category": "historical",
+                  "coords": [
+                        -1.507894,
+                        12.376882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point de la Femme",
+                  "text": "Ennek a forgalmas körforgalomnak a közepén egy nők tiszteletére emelt, kiemelkedő emlékmű áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.506755,
+                        12.367781
+                  ]
+            },
+            {
+                  "name": "Rond-point du Poulet",
+                  "text": "A helyiek körében egyedi témájáról ismert körforgalom egy jellegzetes, baromfit ábrázoló szobrot rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.507929,
+                        12.373938
+                  ]
+            },
+            {
+                  "name": "West African Museum Program",
+                  "text": "Ez az intézményi központ koordinálja és támogatja a múzeumok fejlesztését és a kulturális örökség megőrzését Nyugat-Afrikában.",
+                  "category": "museum",
+                  "coords": [
+                        -1.511699,
+                        12.36887
+                  ]
+            },
+            {
+                  "name": "Mémorial Thomas Sankara",
+                  "text": "A Diébédo Francis Kéré építész által tervezett, 2025-ös dátumú emlékmű a látnok burkinai vezető öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -1.507894,
+                        12.376882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point de la Femme",
+                  "text": "Acest sens giratoriu aglomerat găzduiește un monument central proeminent dedicat onorării femeilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.506755,
+                        12.367781
+                  ]
+            },
+            {
+                  "name": "Rond-point du Poulet",
+                  "text": "Cunoscut pe plan local pentru tema sa distinctă, acest sens giratoriu prezintă o sculptură caracteristică dedicată păsărilor de curte.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.507929,
+                        12.373938
+                  ]
+            },
+            {
+                  "name": "West African Museum Program",
+                  "text": "Acest centru instituțional coordonează și sprijină dezvoltarea muzeelor și conservarea patrimoniului cultural din Africa de Vest.",
+                  "category": "museum",
+                  "coords": [
+                        -1.511699,
+                        12.36887
+                  ]
+            },
+            {
+                  "name": "Mémorial Thomas Sankara",
+                  "text": "Proiectat de arhitectul Diébédo Francis Kéré și datat 2025, acest complex memorial onorează moștenirea liderului vizionar burkinabez.",
+                  "category": "historical",
+                  "coords": [
+                        -1.507894,
+                        12.376882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point de la Femme",
+                  "text": "This busy traffic circle features a prominent central monument dedicated to honoring women.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.506755,
+                        12.367781
+                  ]
+            },
+            {
+                  "name": "Rond-point du Poulet",
+                  "text": "Known locally for its distinct theme, this roundabout features a characteristic sculptural tribute to poultry.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.507929,
+                        12.373938
+                  ]
+            },
+            {
+                  "name": "West African Museum Program",
+                  "text": "This institutional center coordinates and supports the development of museums and cultural heritage preservation across West Africa.",
+                  "category": "museum",
+                  "coords": [
+                        -1.511699,
+                        12.36887
+                  ]
+            },
+            {
+                  "name": "Mémorial Thomas Sankara",
+                  "text": "Designed by architect Diébédo Francis Kéré and dated to 2025, this memorial complex honors the legacy of the visionary Burkinabé leader.",
+                  "category": "historical",
+                  "coords": [
+                        -1.507894,
+                        12.376882
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.51, 12.37],
@@ -183,7 +417,88 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "jardin-zoologique-ouaga-life-v2",
+    id: "jardin-zoologique-ouaga-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "chez alain",
+                  "text": "Dieses für seine einladende Atmosphäre bekannte, beliebte lokale Lokal bietet schattige Sitzplätze im Freien und authentische regionale Erfrischungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.513841,
+                        12.332604
+                  ]
+            },
+            {
+                  "name": "Monument aux héros nationaux",
+                  "text": "Dieses im Bezirk Ouaga 2000 dramatisch aufragende, massive Betondenkmal in Form zweier umgedrehter Kalebassen bietet einen Panoramablick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -1.502617,
+                        12.312187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chez alain",
+                  "text": "A barátságos légköréről ismert népszerű helyi létesítmény árnyékos terasszal és autentikus regionális frissítőkkel várja a vendégeket.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.513841,
+                        12.332604
+                  ]
+            },
+            {
+                  "name": "Monument aux héros nationaux",
+                  "text": "Az Ouaga 2000 negyedben drámaian magasodó, két fordított lopótökre emlékeztető masszív beton emlékműből panorámás kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.502617,
+                        12.312187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chez alain",
+                  "text": "Cunoscut pentru atmosfera sa primitoare, acest popular local oferă locuri la umbră în aer liber și băuturi răcoritoare regionale autentice.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.513841,
+                        12.332604
+                  ]
+            },
+            {
+                  "name": "Monument aux héros nationaux",
+                  "text": "Înălțându-se dramatic în cartierul Ouaga 2000, acest monument masiv din beton, având forma a două tărtăcuțe inversate, oferă un punct de belvedere panoramic asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -1.502617,
+                        12.312187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chez alain",
+                  "text": "Known for its welcoming atmosphere, this popular local establishment offers shaded outdoor seating and authentic regional refreshments.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.513841,
+                        12.332604
+                  ]
+            },
+            {
+                  "name": "Monument to National Heroes",
+                  "text": "Ascending dramatically in the Ouaga 2000 district, this massive concrete monument shaped like two inverted calabashes provides a panoramic viewpoint over the city.",
+                  "category": "natural",
+                  "coords": [
+                        -1.502617,
+                        12.312187
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "BF-OU",
     coords: [-1.52, 12.35],
@@ -219,7 +534,88 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "zone-agricole-bobodioulasso-life-v2",
+    id: "zone-agricole-bobodioulasso-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la Femme",
+                  "text": "Ein öffentliches Denkmal zu Ehren der Frauen, das sich in der landwirtschaftlichen Zone von Bobo-Dioulasso befindet.",
+                  "category": "historical",
+                  "coords": [
+                        -4.268255,
+                        11.171817
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Ein lebendiges Kulturzentrum, das dem landwirtschaftlichen Bezirk von Bobo-Dioulasso dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.27814,
+                        11.162356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la Femme",
+                  "text": "A nők tiszteletére emelt köztéri emlékmű, amely Bobo-Dioulasso mezőgazdasági övezetében található.",
+                  "category": "historical",
+                  "coords": [
+                        -4.268255,
+                        11.171817
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Egy nyüzsgő kulturális központ, amely Bobo-Dioulasso mezőgazdasági negyedét szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.27814,
+                        11.162356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la Femme",
+                  "text": "Un monument public care celebrează femeile, situat în zona agricolă din Bobo-Dioulasso.",
+                  "category": "historical",
+                  "coords": [
+                        -4.268255,
+                        11.171817
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Un centru cultural vibrant care deservește districtul agricol din Bobo-Dioulasso.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.27814,
+                        11.162356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la Femme",
+                  "text": "A public monument celebrating women, situated in the agricultural zone of Bobo-Dioulasso.",
+                  "category": "historical",
+                  "coords": [
+                        -4.268255,
+                        11.171817
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "A vibrant cultural hub serving the agricultural district of Bobo-Dioulasso.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.27814,
+                        11.162356
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BF-HO",
     coords: [-4.28, 11.17],
@@ -399,7 +795,124 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "jardin-des-enfants-life-v2",
+    id: "jardin-des-enfants-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buvette",
+                  "text": "Dieser lebhafte Erfrischungsstand bietet schattige Sitzgelegenheiten und kühle Getränke für Besucher, die den Kindergartenbereich erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.532872,
+                        12.350086
+                  ]
+            },
+            {
+                  "name": "tangas art sculpture",
+                  "text": "Dieses kreative Freiluftzentrum präsentiert markante zeitgenössische Metall- und Steinskulpturen von lokalen Künstlern.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.530082,
+                        12.359349
+                  ]
+            },
+            {
+                  "name": "Palais du Mogho Naaba",
+                  "text": "Diese weitläufige traditionelle königliche Anlage dient als Sitz des Mossi-Kaisers und beherbergt eine historische wöchentliche zeremonielle Versammlung.",
+                  "category": "castle",
+                  "coords": [
+                        -1.528662,
+                        12.357858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buvette",
+                  "text": "Ez a nyüzsgő büfé árnyékos ülőhelyekkel és hideg italokkal várja a gyermekkertet felfedező látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.532872,
+                        12.350086
+                  ]
+            },
+            {
+                  "name": "tangas art sculpture",
+                  "text": "Ez a kreatív szabadtéri központ helyi művészek által készített, lenyűgöző kortárs fém- és kőszobrokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.530082,
+                        12.359349
+                  ]
+            },
+            {
+                  "name": "Palais du Mogho Naaba",
+                  "text": "Ez a kiterjedt hagyományos királyi rezidencia a mosszi császár székhelyeként szolgál, és egy történelmi heti szertartásos összejövetelnek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        -1.528662,
+                        12.357858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buvette",
+                  "text": "Acest stand animat de băuturi răcoritoare oferă locuri la umbră și băuturi reci vizitatorilor care explorează zona grădinii copiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.532872,
+                        12.350086
+                  ]
+            },
+            {
+                  "name": "tangas art sculpture",
+                  "text": "Acest centru creativ în aer liber prezintă sculpturi contemporane izbitoare din metal și piatră realizate de artiști locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.530082,
+                        12.359349
+                  ]
+            },
+            {
+                  "name": "Palais du Mogho Naaba",
+                  "text": "Acest complex regal tradițional întins servește drept scaun al împăratului Mossi și găzduiește o adunare ceremonială săptămânală istorică.",
+                  "category": "castle",
+                  "coords": [
+                        -1.528662,
+                        12.357858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buvette",
+                  "text": "This lively refreshment stall provides shaded seating and cold drinks for visitors exploring the children's garden area.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.532872,
+                        12.350086
+                  ]
+            },
+            {
+                  "name": "tangas art sculpture",
+                  "text": "This creative outdoor center features striking contemporary metal and stone sculptures crafted by local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.530082,
+                        12.359349
+                  ]
+            },
+            {
+                  "name": "Palais du Mogho Naaba",
+                  "text": "This sprawling traditional royal compound serves as the seat of the Mossi emperor and hosts a historic weekly ceremonial gathering.",
+                  "category": "castle",
+                  "coords": [
+                        -1.528662,
+                        12.357858
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.53, 12.36],
@@ -759,7 +1272,124 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "centre-equestre-de-ouaga-life-v2",
+    id: "centre-equestre-de-ouaga-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "33 manguiers Boulmiougou",
+                  "text": "Dieser dichte, schattige Hain aus dreiunddreißig Mangobäumen im Sektor Boulmiougou ist ein beliebter Treffpunkt im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58952,
+                        12.340817
+                  ]
+            },
+            {
+                  "name": "CHEZ DEZ",
+                  "text": "Dieser moderne lokale Unterhaltungsort bietet einen lebendigen Rahmen für gesellschaftliche Veranstaltungen und abendliche Treffen in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.570869,
+                        12.33968
+                  ]
+            },
+            {
+                  "name": "Maison des Jeunes et de la Culture du Secteur 16",
+                  "text": "Dieses Jugendzentrum im Sektor 16 verbindet kulturelle Aktivitäten mit Erholungsflächen im Freien und ist ein lebendiger Treffpunkt für einheimische Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53233,
+                        12.32879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "33 manguiers Boulmiougou",
+                  "text": "A Boulmiougou szektorban található, harminchárom mangófából álló sűrű, árnyas liget népszerű szabadtéri gyülekezőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58952,
+                        12.340817
+                  ]
+            },
+            {
+                  "name": "CHEZ DEZ",
+                  "text": "Ez a modern helyi szórakozóhely nyüzsgő beltéri környezetet biztosít a városi társasági események és esti összejövetelek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.570869,
+                        12.33968
+                  ]
+            },
+            {
+                  "name": "Maison des Jeunes et de la Culture du Secteur 16",
+                  "text": "A kulturális tevékenységeket szabadtéri rekreációs terekkel ötvöző 16-os szektorbeli ifjúsági központ nyüzsgő közösségi csomópontként szolgál a helyi családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53233,
+                        12.32879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "33 manguiers Boulmiougou",
+                  "text": "Situat în sectorul Boulmiougou, acest pâlc dens și umbros format din treizeci și trei de arbori de mango oferă un spațiu popular de adunare în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58952,
+                        12.340817
+                  ]
+            },
+            {
+                  "name": "CHEZ DEZ",
+                  "text": "Această locație modernă de divertisment local oferă un cadru interior vibrant pentru evenimente sociale și adunări de seară în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.570869,
+                        12.33968
+                  ]
+            },
+            {
+                  "name": "Maison des Jeunes et de la Culture du Secteur 16",
+                  "text": "Combinând activitățile culturale cu spațiile de recreere în aer liber, acest centru de tineret din Sectorul 16 oferă un centru comunitar animat pentru familiile locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53233,
+                        12.32879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "33 manguiers Boulmiougou",
+                  "text": "Located in the Boulmiougou sector, this dense, shaded grove of thirty-three mango trees provides a popular outdoor gathering space.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58952,
+                        12.340817
+                  ]
+            },
+            {
+                  "name": "DEZ ROOM",
+                  "text": "This modern local entertainment venue offers a vibrant indoor setting for social events and evening gatherings in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.570869,
+                        12.33968
+                  ]
+            },
+            {
+                  "name": "Maison des Jeunes et de la Culture du Secteur 16",
+                  "text": "Combining cultural activities with recreational outdoor spaces, this youth center in Sector 16 provides a lively community hub for local families.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53233,
+                        12.32879
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.55, 12.34],
@@ -867,7 +1497,52 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "parc-de-la-reunification-life-v2",
+    id: "parc-de-la-reunification-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez Awa de yaba tampouy",
+                  "text": "Ein lebhafter lokaler Treffpunkt und eine Attraktion in der Nähe des Parc de la Réunification in Ouagadougou.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.534054,
+                        12.422251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez Awa de yaba tampouy",
+                  "text": "Egy nyüzsgő helyi találkozóhely és látványosság az ouagadougou-i Parc de la Réunification közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.534054,
+                        12.422251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez Awa de yaba tampouy",
+                  "text": "Un loc de întâlnire și o atracție locală vibrantă, situată lângă Parc de la Réunification din Ouagadougou.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.534054,
+                        12.422251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez Awa de yaba tampouy",
+                  "text": "A vibrant local attraction and gathering spot situated near the Parc de la Réunification in Ouagadougou.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.534054,
+                        12.422251
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.52, 12.39],
@@ -903,7 +1578,196 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "ferme-avicole-ouaga-life-v2",
+    id: "ferme-avicole-ouaga-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théatre des enfants Wamdé",
+                  "text": "Ein Theater in Ouagadougou, das sich Aufführungen und kultureller Bildung für Kinder widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.477683,
+                        12.404016
+                  ]
+            },
+            {
+                  "name": "Espace culturel Gambidi",
+                  "text": "Ein bedeutender Kulturraum und ein Theater, das verschiedene darstellende Künste in Ouagadougou beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.474112,
+                        12.381944
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Dieses Nationalmuseum zeigt ethnografische Sammlungen und Artefakte, welche die vielfältigen Kulturen der Region repräsentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473223,
+                        12.375676
+                  ]
+            },
+            {
+                  "name": "Djata",
+                  "text": "Diese Wellnessanlage bietet den Besuchern eine entspannende Dampf- und Saunalandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.439334,
+                        12.407321
+                  ]
+            },
+            {
+                  "name": "résidence Tani Ousseini a Saaba",
+                  "text": "Dieser in der Gegend von Saaba gelegene Aussichtspunkt bietet ein erhöhtes Panorama über das umliegende Wohnviertel.",
+                  "category": "natural",
+                  "coords": [
+                        -1.444828,
+                        12.386784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théatre des enfants Wamdé",
+                  "text": "Egy ouagadougou-i színház, amely gyermekelőadásoknak és kulturális oktatásnak van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.477683,
+                        12.404016
+                  ]
+            },
+            {
+                  "name": "Espace culturel Gambidi",
+                  "text": "Egy kiemelkedő kulturális tér és színház, amely különféle előadóművészeti eseményeknek ad otthont Ouagadougouban.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.474112,
+                        12.381944
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Ez a nemzeti múzeum a régió változatos kultúráit bemutató néprajzi gyűjteményeknek és leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473223,
+                        12.375676
+                  ]
+            },
+            {
+                  "name": "Djata",
+                  "text": "Ez a wellness létesítmény pihentető gőz- és szaunakörnyezetet biztosít a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.439334,
+                        12.407321
+                  ]
+            },
+            {
+                  "name": "résidence Tani Ousseini a Saaba",
+                  "text": "A Saaba negyedben található lakóövezeti kilátópontról panorámás kilátás nyílik a környező utcákra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.444828,
+                        12.386784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théatre des enfants Wamdé",
+                  "text": "Un teatru din Ouagadougou dedicat spectacolelor pentru copii și educației culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.477683,
+                        12.404016
+                  ]
+            },
+            {
+                  "name": "Espace culturel Gambidi",
+                  "text": "Un spațiu cultural și un teatru proeminent, care găzduiește diverse evenimente de arte ale spectacolului în Ouagadougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.474112,
+                        12.381944
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "Acest muzeu național expune colecții etnografice și artefacte care reprezintă diversele culturi ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473223,
+                        12.375676
+                  ]
+            },
+            {
+                  "name": "Djata",
+                  "text": "Această facilitate de wellness oferă un mediu relaxant cu aburi și saună pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.439334,
+                        12.407321
+                  ]
+            },
+            {
+                  "name": "résidence Tani Ousseini a Saaba",
+                  "text": "Situat în zona Saaba, acest punct de belvedere rezidențial oferă panorame la înălțime asupra cartierului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -1.444828,
+                        12.386784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théatre des enfants Wamdé",
+                  "text": "A theater dedicated to children's performances and cultural education in Ouagadougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.477683,
+                        12.404016
+                  ]
+            },
+            {
+                  "name": "Espace culturel Gambidi",
+                  "text": "A prominent cultural space and theater hosting diverse performing arts events in Ouagadougou.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.474112,
+                        12.381944
+                  ]
+            },
+            {
+                  "name": "Musée National",
+                  "text": "This national museum showcases ethnographic collections and artifacts representing the diverse cultures of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473223,
+                        12.375676
+                  ]
+            },
+            {
+                  "name": "Djata",
+                  "text": "This wellness facility provides a relaxing steam and sauna environment for local visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.439334,
+                        12.407321
+                  ]
+            },
+            {
+                  "name": "résidence Tani Ousseini a Saaba",
+                  "text": "Located in the Saaba area, this residential viewpoint offers elevated panoramas over the surrounding neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        -1.444828,
+                        12.386784
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BF-OU",
     coords: [-1.48, 12.4],
@@ -939,7 +1803,268 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     },
   },
   {
-    id: "jardin-botanique-ouaga-life-v2",
+    id: "jardin-botanique-ouaga-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais de Sanem Naaba",
+                  "text": "Diese traditionelle Häuptlingsresidenz zeigt die typische Lehmwandarchitektur und dient als wichtiger Ort für die lokale kulturelle Verwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.543905,
+                        12.360581
+                  ]
+            },
+            {
+                  "name": "Place de la Femme",
+                  "text": "Dieser weitläufige öffentliche Platz wird von einem symbolischen Skulpturendenkmal geprägt, das den gesellschaftlichen Beiträgen der burkinischen Frauen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.555367,
+                        12.359918
+                  ]
+            },
+            {
+                  "name": "Place du 1er Mars",
+                  "text": "Dieser durch einen zentralen Gedenkstein markierte Platz erinnert mit seiner formalen Gestaltung an die historischen Ereignisse des 1. März.",
+                  "category": "historical",
+                  "coords": [
+                        -1.548392,
+                        12.363693
+                  ]
+            },
+            {
+                  "name": "Atelier Theatre Burkinabe",
+                  "text": "Dieser aktive Veranstaltungsort setzt sich für soziales Theater ein und nutzt ein Format mit offener Bühne, um Stücke über das zeitgenössische burkinische Leben zu präsentieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549592,
+                        12.357123
+                  ]
+            },
+            {
+                  "name": "Récréatrales",
+                  "text": "Dieser einzigartige Veranstaltungsort verwandelt die Innenhöfe der Nachbarschaft in Freilichtbühnen und beherbergt eine renommierte panafrikanische Theaterresidenz sowie ein Festival.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.556882,
+                        12.357063
+                  ]
+            },
+            {
+                  "name": "Le Cartel",
+                  "text": "Dieses dynamische Kulturzentrum verfügt über einen eigenen Aufführungsraum, der sich auf moderne dramaturgische Produktionen und künstlerische Ausbildung konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.558112,
+                        12.356895
+                  ]
+            },
+            {
+                  "name": "Palais de Ougodogo Naba",
+                  "text": "Diese von schattigen Bäumen umgebene, historische Häuptlingsresidenz bewahrt die administrativen Bräuche der traditionellen lokalen Führung.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.558654,
+                        12.374228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais de Sanem Naaba",
+                  "text": "Ez a hagyományos főnöki rezidencia a jellegzetes vályogfalú építészetet mutatja be, és a helyi kulturális irányítás fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.543905,
+                        12.360581
+                  ]
+            },
+            {
+                  "name": "Place de la Femme",
+                  "text": "Ennek a tágas köztérnek a középpontjában egy szimbolikus szobor áll, amelyet a burkinai nők társadalmi hozzájárulásának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.555367,
+                        12.359918
+                  ]
+            },
+            {
+                  "name": "Place du 1er Mars",
+                  "text": "A központi emlékkővel jelölt, formális elrendezésű tér a március 1-i történelmi eseményeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -1.548392,
+                        12.363693
+                  ]
+            },
+            {
+                  "name": "Atelier Theatre Burkinabe",
+                  "text": "Ez az aktív előadóhely a szociális színház mellett kardoskodik, és nyitott színpados formátumot használ a kortárs burkinai életről szóló színdarabok bemutatására.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549592,
+                        12.357123
+                  ]
+            },
+            {
+                  "name": "Récréatrales",
+                  "text": "A környékbeli udvarokat szabadtéri színpadokká alakító egyedi helyszín egy híres pánafrikai színházi rezidenciaprogramnak és fesztiválnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.556882,
+                        12.357063
+                  ]
+            },
+            {
+                  "name": "Le Cartel",
+                  "text": "Ez a dinamikus kulturális központ egy dedikált előadótérrel rendelkezik, amely a modern dramaturgiai produkciókra és a művészeti képzésre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.558112,
+                        12.356895
+                  ]
+            },
+            {
+                  "name": "Palais de Ougodogo Naba",
+                  "text": "Az árnyas fákkal körülvett történelmi főnöki rezidencia a hagyományos helyi vezetés adminisztratív szokásait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.558654,
+                        12.374228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais de Sanem Naaba",
+                  "text": "Această reședință tradițională a căpeteniei prezintă arhitectura obișnuită cu pereți de noroi și servește drept loc important pentru guvernanța culturală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.543905,
+                        12.360581
+                  ]
+            },
+            {
+                  "name": "Place de la Femme",
+                  "text": "Această piață publică vastă este dominată de un monument sculptural simbolic dedicat contribuțiilor sociale ale femeilor burkinabeze.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.555367,
+                        12.359918
+                  ]
+            },
+            {
+                  "name": "Place du 1er Mars",
+                  "text": "Marcată de o piatră memorială centrală, această piață cu un aspect formal comemorează evenimentele istorice de la 1 martie.",
+                  "category": "historical",
+                  "coords": [
+                        -1.548392,
+                        12.363693
+                  ]
+            },
+            {
+                  "name": "Atelier Theatre Burkinabe",
+                  "text": "Acest spațiu activ de spectacol susține teatrul social, folosind un format de scenă deschisă pentru a prezenta piese despre viața burkinabeză contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549592,
+                        12.357123
+                  ]
+            },
+            {
+                  "name": "Récréatrales",
+                  "text": "Transformând curțile interioare ale cartierului în scene în aer liber, această locație unică găzduiește o renumită rezidență și un festival de teatru pan-african.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.556882,
+                        12.357063
+                  ]
+            },
+            {
+                  "name": "Le Cartel",
+                  "text": "Acest centru cultural dinamic dispune de un spațiu dedicat spectacolelor, axat pe producții dramaturgice moderne și formare artistică.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.558112,
+                        12.356895
+                  ]
+            },
+            {
+                  "name": "Palais de Ougodogo Naba",
+                  "text": "Înconjurată de copaci umbroși, această reședință istorică de căpetenie păstrează obiceiurile administrative ale conducerii locale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.558654,
+                        12.374228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais de Sanem Naaba",
+                  "text": "This traditional chief's residence showcases customary mud-wall architecture and serves as an important site for local cultural governance.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.543905,
+                        12.360581
+                  ]
+            },
+            {
+                  "name": "Place de la Femme",
+                  "text": "This expansive public square is anchored by a symbolic sculptural monument dedicated to the societal contributions of Burkinabé women.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.555367,
+                        12.359918
+                  ]
+            },
+            {
+                  "name": "Place du 1er Mars",
+                  "text": "Marked by a central memorial stone, this plaza commemorates the historic events of March 1st with a formal layout.",
+                  "category": "historical",
+                  "coords": [
+                        -1.548392,
+                        12.363693
+                  ]
+            },
+            {
+                  "name": "Atelier Theatre Burkinabe",
+                  "text": "This active performance venue champions social theater, utilizing an open-stage format to present plays about contemporary Burkinabé life.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549592,
+                        12.357123
+                  ]
+            },
+            {
+                  "name": "Récréatrales",
+                  "text": "Transforming neighborhood courtyards into open-air stages, this unique venue hosts a renowned pan-African theatrical residency and festival.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.556882,
+                        12.357063
+                  ]
+            },
+            {
+                  "name": "Le Cartel",
+                  "text": "This dynamic cultural center features a dedicated performance space focusing on modern dramaturgical productions and artistic training.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.558112,
+                        12.356895
+                  ]
+            },
+            {
+                  "name": "Palais de Ougodogo Naba",
+                  "text": "Surrounded by shaded trees, this historic chiefly residence preserves the administrative customs of the traditional local leadership.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.558654,
+                        12.374228
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.54, 12.36],

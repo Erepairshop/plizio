@@ -1438,7 +1438,7 @@ export const netherlandsNatureV2: POI[] = [
       "de": [
             {
                   "name": "De Westermolen",
-                  "text": "Eine historische Windmühle in der Nähe des Lauwersmeer-Gebiets.",
+                  "text": "Die 1845 erbaute Windmühle De Westermolen im Lauwersmeer.",
                   "category": "landmark",
                   "coords": [
                         6.196181,
@@ -1485,7 +1485,7 @@ export const netherlandsNatureV2: POI[] = [
       "hu": [
             {
                   "name": "De Westermolen",
-                  "text": "Történelmi szélmalom a Lauwersmeer közelében.",
+                  "text": "A Lauwersmeerben található De Westermolen szélmalom, 1845-ben épült.",
                   "category": "landmark",
                   "coords": [
                         6.196181,
@@ -1532,7 +1532,7 @@ export const netherlandsNatureV2: POI[] = [
       "ro": [
             {
                   "name": "De Westermolen",
-                  "text": "O moară de vânt istorică situată lângă zona Lauwersmeer.",
+                  "text": "Moara de vânt De Westermolen, construită în 1845, în zona Lauwersmeer.",
                   "category": "landmark",
                   "coords": [
                         6.196181,
@@ -1579,7 +1579,7 @@ export const netherlandsNatureV2: POI[] = [
       "en": [
             {
                   "name": "De Westermolen",
-                  "text": "A historic windmill located near the Lauwersmeer area.",
+                  "text": "De Westermolen, a windmill built in 1845, in the Lauwersmeer area.",
                   "category": "landmark",
                   "coords": [
                         6.196181,

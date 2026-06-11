@@ -4417,7 +4417,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "Der kleinste der drei Türme auf dem Monte Titano.",
+                  "text": "Vor 1320 erbauter Turm Torre del Montale in Casole.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -4572,7 +4572,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "A Monte Titano három tornya közül a legkisebb.",
+                  "text": "1320 előtt épült Torre del Montale torony Casole-ban.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -4727,7 +4727,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "Cel mai mic dintre cele trei turnuri de pe Monte Titano.",
+                  "text": "Turnul Torre del Montale construit înainte de 1320 în Casole.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -4882,7 +4882,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "The smallest of the three towers on Monte Titano.",
+                  "text": "Torre del Montale tower built before 1320 in Casole.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -6010,7 +6010,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "Der kleinste der drei Türme auf dem Monte Titano.",
+                  "text": "Vor 1320 erbauter Turm Torre del Montale in Cerbaiola Di Sotto.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -6129,7 +6129,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "A Monte Titano három tornya közül a legkisebb.",
+                  "text": "1320 előtt épült Torre del Montale torony Cerbaiola Di Sotto-ban.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -6248,7 +6248,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "Cel mai mic dintre cele trei turnuri de pe Monte Titano.",
+                  "text": "Turnul Torre del Montale construit înainte de 1320 în Cerbaiola Di Sotto.",
                   "category": "castle",
                   "coords": [
                         12.452474,
@@ -6367,7 +6367,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Torre del Montale",
-                  "text": "The smallest of the three towers on Monte Titano.",
+                  "text": "Torre del Montale tower built before 1320 in Cerbaiola Di Sotto.",
                   "category": "castle",
                   "coords": [
                         12.452474,

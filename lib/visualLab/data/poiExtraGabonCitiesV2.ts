@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraGabonCitiesV2: POI[] = [
   {
-    id: "libreville-cities-v2",
+    id: "libreville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rotary International",
+                  "text": "Rotary International ist ein markantes Denkmal im Stadtgebiet von Libreville.",
+                  "category": "historical",
+                  "coords": [
+                        9.470075,
+                        0.360091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rotary International",
+                  "text": "A Rotary International egy feltűnő városi emlékmű Libreville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        9.470075,
+                        0.360091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rotary International",
+                  "text": "Rotary International este un monument urban situat în orașul Libreville.",
+                  "category": "historical",
+                  "coords": [
+                        9.470075,
+                        0.360091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rotary International",
+                  "text": "Rotary International is an urban monument standing in the city area of Libreville.",
+                  "category": "historical",
+                  "coords": [
+                        9.470075,
+                        0.360091
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GA-1",
     coords: [9.4533, 0.3892],
@@ -131,7 +176,88 @@ export const poiExtraGabonCitiesV2: POI[] = [
     
      image: "/poi-images/lambarene-cities-v2.webp"},
   {
-    id: "oyem-cities-v2",
+    id: "oyem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eglise Protestante de Nfoul",
+                  "text": "Die Eglise Protestante de Nfoul ist eine lokal anerkannte protestantische Kirche mit offiziellem Kulturerbestatus in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        11.577095,
+                        1.560301
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte-Thérèse d'Angone",
+                  "text": "Die Paroisse Sainte-Thérèse d'Angone ist eine historische Pfarrei, die 1955 von Monseigneur Adam gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        11.60896,
+                        1.617596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eglise Protestante de Nfoul",
+                  "text": "Az Eglise Protestante de Nfoul egy helyileg elismert protestáns templom, amely a régióban hivatalos örökségi státusszal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        11.577095,
+                        1.560301
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte-Thérèse d'Angone",
+                  "text": "A Paroisse Sainte-Thérèse d'Angone egy örökségvédelmi plébánia, amelyet 1955-ben alapított Monseigneur Adam.",
+                  "category": "landmark",
+                  "coords": [
+                        11.60896,
+                        1.617596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eglise Protestante de Nfoul",
+                  "text": "Eglise Protestante de Nfoul este o biserică protestantă recunoscută local, cu statut oficial de patrimoniu în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        11.577095,
+                        1.560301
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte-Thérèse d'Angone",
+                  "text": "Paroisse Sainte-Thérèse d'Angone este o atracție parohială de patrimoniu care a fost înființată în 1955 de Monseigneur Adam.",
+                  "category": "landmark",
+                  "coords": [
+                        11.60896,
+                        1.617596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eglise Protestante de Nfoul",
+                  "text": "The Eglise Protestante de Nfoul is a locally recognized Protestant church with official heritage status in the region.",
+                  "category": "religious",
+                  "coords": [
+                        11.577095,
+                        1.560301
+                  ]
+            },
+            {
+                  "name": "Paroisse Sainte-Thérèse d'Angone",
+                  "text": "The Paroisse Sainte-Thérèse d'Angone is a heritage parish attraction that was established in 1955 by Monseigneur Adam.",
+                  "category": "landmark",
+                  "coords": [
+                        11.60896,
+                        1.617596
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GA-9",
     coords: [11.5667, 1.6000],
@@ -162,7 +288,52 @@ export const poiExtraGabonCitiesV2: POI[] = [
     
      image: "/poi-images/oyem-cities-v2.webp"},
   {
-    id: "moanda-cities-v2",
+    id: "moanda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Boudinga",
+                  "text": "Der Mont Boudinga ist ein Aussichtspunkt, der einen erhöhten Blick über die Landschaft rund um Moanda bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.18383,
+                        -1.579439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Boudinga",
+                  "text": "A Mont Boudinga kilátó magaslati panorámát nyújt a Moanda körüli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.18383,
+                        -1.579439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Boudinga",
+                  "text": "Mont Boudinga oferă un punct de belvedere înalt asupra peisajului care înconjoară Moanda.",
+                  "category": "natural",
+                  "coords": [
+                        13.18383,
+                        -1.579439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Boudinga",
+                  "text": "Mont Boudinga provides an elevated viewpoint over the landscape surrounding Moanda.",
+                  "category": "natural",
+                  "coords": [
+                        13.18383,
+                        -1.579439
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GA-2",
     coords: [13.2000, -1.5667],
@@ -197,7 +368,124 @@ export const poiExtraGabonCitiesV2: POI[] = [
       fr: ["Moanda abrite l'un des plus grands gisements de manganèse au monde.", "L'entreprise minière COMILOG y a débuté son exploitation industrielle en 1962.", "La ville est située dans la province du Haut-Ogooué, au sud-est du Gabon.", "Le manganèse de Moanda constitue une part importante des exportations du Gabon.", "Le Transgabonais est essentiel pour le transport du minerai vers la côte.", "L'École des Mines et de la Métallurgie de Moanda a été inaugurée en 2016."],
     }, image: "/poi-images/moanda-cities-v2.webp"},
   {
-    id: "mouila-cities-v2",
+    id: "mouila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le cimetière Magondo",
+                  "text": "Le cimetière Magondo ist ein historischer lokaler Friedhof in der städtischen Umgebung von Mouila.",
+                  "category": "landmark",
+                  "coords": [
+                        11.064373,
+                        -1.867617
+                  ]
+            },
+            {
+                  "name": "Lac Bleu de Mouila",
+                  "text": "Der Lac Bleu de Mouila ist eine natürliche Touristenattraktion, die für ihr auffällig tiefblaues Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.063489,
+                        -1.915193
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Jean l’Apôtre",
+                  "text": "Die Cathedral of Saint John the Apostle in Mouila ist eine bedeutende katholische Bischofskirche in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        11.042808,
+                        -1.873314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le cimetière Magondo",
+                  "text": "A Le cimetière Magondo egy történelmi helyi temető Mouila városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.064373,
+                        -1.867617
+                  ]
+            },
+            {
+                  "name": "Lac Bleu de Mouila",
+                  "text": "A Lac Bleu de Mouila egy természeti látványosság, amely feltűnően mélykék vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.063489,
+                        -1.915193
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Jean l’Apôtre",
+                  "text": "A mouilai Cathedral of Saint John the Apostle egy fontos katolikus püspöki templom a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        11.042808,
+                        -1.873314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le cimetière Magondo",
+                  "text": "Le cimetière Magondo este un cimitir local istoric în mediul urban al orașului Mouila.",
+                  "category": "landmark",
+                  "coords": [
+                        11.064373,
+                        -1.867617
+                  ]
+            },
+            {
+                  "name": "Lac Bleu de Mouila",
+                  "text": "Lac Bleu de Mouila este o atracție naturală renumită pentru apele sale de un albastru intens izbitor.",
+                  "category": "landmark",
+                  "coords": [
+                        11.063489,
+                        -1.915193
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Jean l’Apôtre",
+                  "text": "Cathedral of Saint John the Apostle din Mouila este o importantă biserică episcopală catolică din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        11.042808,
+                        -1.873314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le cimetière Magondo",
+                  "text": "Le cimetière Magondo is a historic local cemetery situated within the urban environment of Mouila.",
+                  "category": "landmark",
+                  "coords": [
+                        11.064373,
+                        -1.867617
+                  ]
+            },
+            {
+                  "name": "Lac Bleu de Mouila",
+                  "text": "Lac Bleu de Mouila is a natural tourist attraction known for its strikingly deep blue waters.",
+                  "category": "landmark",
+                  "coords": [
+                        11.063489,
+                        -1.915193
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint John the Apostle",
+                  "text": "The Cathedral of Saint John the Apostle in Mouila is an important Catholic episcopal church in the region.",
+                  "category": "religious",
+                  "coords": [
+                        11.042808,
+                        -1.873314
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GA-4",
     coords: [11.0500, -1.8667],
@@ -256,7 +544,52 @@ export const poiExtraGabonCitiesV2: POI[] = [
     },
   },
   {
-    id: "koulamoutou-cities-v2",
+    id: "koulamoutou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paroisse Notre-Dame de la Salette",
+                  "text": "Die Paroisse Notre-Dame de la Salette ist eine historische Sehenswürdigkeit, die 1956 von dem Pfarrer Lucien Foucher gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.457061,
+                        -1.131654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paroisse Notre-Dame de la Salette",
+                  "text": "A Paroisse Notre-Dame de la Salette egy örökségvédelmi látványosság, amelyet 1956-ban alapított Lucien Foucher plébános.",
+                  "category": "landmark",
+                  "coords": [
+                        12.457061,
+                        -1.131654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paroisse Notre-Dame de la Salette",
+                  "text": "Paroisse Notre-Dame de la Salette este o atracție de patrimoniu fondată în 1956 de preotul paroh Lucien Foucher.",
+                  "category": "landmark",
+                  "coords": [
+                        12.457061,
+                        -1.131654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paroisse Notre-Dame de la Salette",
+                  "text": "The Paroisse Notre-Dame de la Salette is a heritage attraction founded in 1956 by the parish priest Lucien Foucher.",
+                  "category": "landmark",
+                  "coords": [
+                        12.457061,
+                        -1.131654
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GA-7",
     coords: [12.4833, -1.1333],

@@ -43,7 +43,52 @@ export const poiExtraChadCitiesV2: POI[] = [
     }
   },
   {
-    id: "moundou-cities-v2",
+    id: "moundou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Martin Luther King",
+                  "text": "Das Centre Martin Luther King in Moundou ist ein kulturelles Kunstzentrum, das Veranstaltungen und Ausstellungen organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.068928,
+                        8.559826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Martin Luther King",
+                  "text": "A moundoui Centre Martin Luther King egy kulturális művészeti központ, amely rendezvényeket és kiállításokat szervez.",
+                  "category": "cultural",
+                  "coords": [
+                        16.068928,
+                        8.559826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Martin Luther King",
+                  "text": "Centre Martin Luther King din Moundou este un centru de artă culturală care găzduiește evenimente și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        16.068928,
+                        8.559826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Martin Luther King",
+                  "text": "The Centre Martin Luther King in Moundou is a cultural arts centre that hosts events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        16.068928,
+                        8.559826
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-LO",
     coords: [16.07, 8.56],
@@ -701,7 +746,88 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Célèbre pour ses mines d'or.", "Population ethnique diversifiée."],
     }, image: "/poi-images/pala-cities-v2.webp"},
   {
-    id: "am-timan-cities-v2",
+    id: "am-timan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardin public",
+                  "text": "Dieser öffentliche Garten in am-timan-cities-v2 bietet eine grüne Oase der Erholung mitten im städtischen Treiben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289829,
+                        11.046217
+                  ]
+            },
+            {
+                  "name": "Siège du parti MPS (Mouvement Patriotique du Salut)",
+                  "text": "Dieser Bau in am-timan-cities-v2 dient als monumentaler Hauptsitz der MPS-Partei.",
+                  "category": "historical",
+                  "coords": [
+                        20.279797,
+                        11.033632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin public",
+                  "text": "Ez az am-timan-cities-v2-ben található nyilvános kert egy zöld pihenőövezetet kínál a városi forgatag közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289829,
+                        11.046217
+                  ]
+            },
+            {
+                  "name": "Siège du parti MPS (Mouvement Patriotique du Salut)",
+                  "text": "Ez az am-timan-cities-v2-ben található épület az MPS párt monumentális székházaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        20.279797,
+                        11.033632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardin public",
+                  "text": "Această grădină publică din am-timan-cities-v2 oferă o oază de verdeață pentru relaxare în mijlocul agitației urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289829,
+                        11.046217
+                  ]
+            },
+            {
+                  "name": "Siège du parti MPS (Mouvement Patriotique du Salut)",
+                  "text": "Această clădire din am-timan-cities-v2 servește drept sediu monumental al partidului MPS.",
+                  "category": "historical",
+                  "coords": [
+                        20.279797,
+                        11.033632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin public",
+                  "text": "This public garden in am-timan-cities-v2 provides a green oasis for relaxation amidst the urban bustle.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289829,
+                        11.046217
+                  ]
+            },
+            {
+                  "name": "Siège du parti MPS (Mouvement Patriotique du Salut)",
+                  "text": "This building in am-timan-cities-v2 serves as the monumental headquarters of the MPS party.",
+                  "category": "historical",
+                  "coords": [
+                        20.279797,
+                        11.033632
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-SA",
     coords: [20.28, 11.03],

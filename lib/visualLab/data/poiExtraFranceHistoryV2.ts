@@ -2074,7 +2074,7 @@ export const franceHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Château de Carrouges",
-                  "text": "Ein historisches Schloss und Herrenhaus in der Normandie.",
+                  "text": "Das Château de Carrouges in Carrouges ist ein Schloss aus dem 15. Jahrhundert, Monument historique.",
                   "category": "castle",
                   "coords": [
                         -0.152477,
@@ -2130,7 +2130,7 @@ export const franceHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Château de Carrouges",
-                  "text": "Történelmi várkastély és nemesi lakhely Normandiában.",
+                  "text": "A Carrouges-i Château de Carrouges egy 15. századi kastély, műemlék.",
                   "category": "castle",
                   "coords": [
                         -0.152477,
@@ -2186,7 +2186,7 @@ export const franceHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Château de Carrouges",
-                  "text": "Un castel istoric și reședință nobiliară situată în Normandia.",
+                  "text": "Castelul Château de Carrouges din Carrouges, construit în secolul al XV-lea, monument istoric.",
                   "category": "castle",
                   "coords": [
                         -0.152477,
@@ -2242,7 +2242,7 @@ export const franceHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Château de Carrouges",
-                  "text": "A historic castle and stately home located in Normandy.",
+                  "text": "Château de Carrouges in Carrouges, a 15th-century castle, is a listed historic monument.",
                   "category": "castle",
                   "coords": [
                         -0.152477,

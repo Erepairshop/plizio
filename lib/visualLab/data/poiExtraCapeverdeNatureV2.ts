@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraCapeverdeNatureV2: POI[] = [
   {
-    id: "santo-antao-nature-v2",
+    id: "santo-antao-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belvédère avec vue sur le village de Corda.",
+                  "text": "Dieser Aussichtspunkt in den Bergen von Santo Antão bietet einen weiten Blick auf das tiefer gelegene Dorf Corda.",
+                  "category": "natural",
+                  "coords": [
+                        -25.08032,
+                        17.127138
+                  ]
+            },
+            {
+                  "name": "Gudo de Matinho de Corda",
+                  "text": "Von diesem Aussichtspunkt aus kann man die schroffe Gebirgslandschaft in der Nähe von Corda betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -25.088918,
+                        17.116072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belvédère avec vue sur le village de Corda.",
+                  "text": "Ez a Santo Antão hegyeiben található kilátó széles rálátást biztosít a lent fekvő Corda falura.",
+                  "category": "natural",
+                  "coords": [
+                        -25.08032,
+                        17.127138
+                  ]
+            },
+            {
+                  "name": "Gudo de Matinho de Corda",
+                  "text": "Ebből a kilátóból megtekinthető a Corda környéki zord hegyvidéki táj.",
+                  "category": "natural",
+                  "coords": [
+                        -25.088918,
+                        17.116072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belvédère avec vue sur le village de Corda.",
+                  "text": "Acest punct de belvedere din munții Santo Antão oferă o vedere amplă asupra satului Corda, aflat dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        -25.08032,
+                        17.127138
+                  ]
+            },
+            {
+                  "name": "Gudo de Matinho de Corda",
+                  "text": "Din acest punct de belvedere, vizitatorii pot privi peisajul montan accidentat de lângă Corda.",
+                  "category": "natural",
+                  "coords": [
+                        -25.088918,
+                        17.116072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belvédère avec vue sur le village de Corda.",
+                  "text": "This viewpoint in the mountains of Santo Antão offers a sweeping look at the village of Corda below.",
+                  "category": "natural",
+                  "coords": [
+                        -25.08032,
+                        17.127138
+                  ]
+            },
+            {
+                  "name": "Gudo de Matinho de Corda",
+                  "text": "From this viewpoint, visitors can gaze upon the rugged mountainous terrain near Corda.",
+                  "category": "natural",
+                  "coords": [
+                        -25.088918,
+                        17.116072
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CV-RG",
     coords: [-25.07, 17.07],
@@ -51,7 +132,88 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "sao-vicente-nature-v2",
+    id: "sao-vicente-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aquafun",
+                  "text": "Dieser Freizeit-Wasserpark bietet verschiedene Pools und Rutschen für Familienunterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.958454,
+                        16.842439
+                  ]
+            },
+            {
+                  "name": "Praia Calheta Grande",
+                  "text": "Dieser weitläufige Küstenstrand bietet eine breite Sandfläche am Meeresufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.944386,
+                        16.791885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aquafun",
+                  "text": "Ez a szórakoztató vízi park különféle medencékkel és csúszdákkal várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.958454,
+                        16.842439
+                  ]
+            },
+            {
+                  "name": "Praia Calheta Grande",
+                  "text": "Ez a kiterjedt tengerpart széles homokos sávot kínál az óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.944386,
+                        16.791885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aquafun",
+                  "text": "Acest parc acvatic de agrement oferă diverse piscine și tobogane pentru divertisment în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.958454,
+                        16.842439
+                  ]
+            },
+            {
+                  "name": "Praia Calheta Grande",
+                  "text": "Această plajă de coastă întinsă oferă o vastă zonă de nisip de-a lungul țărmului.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.944386,
+                        16.791885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aquafun",
+                  "text": "This recreational water park features various pools and slides for family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.958454,
+                        16.842439
+                  ]
+            },
+            {
+                  "name": "Praia Calheta Grande",
+                  "text": "This expansive coastal beach offers a broad expanse of sand along the ocean shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.944386,
+                        16.791885
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CV-SV",
     coords: [-24.95, 16.85],
@@ -99,7 +261,52 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "santa-luzia-nature-v2",
+    id: "santa-luzia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Castelo",
+                  "text": "Die Praia do Castelo auf Santa Luzia ist ein unberührter Strand mit feinem Sand, der sich vor der zerklüfteten Küstenlandschaft des Naturschutzgebietes ausbreitet.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.71639,
+                        16.752413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Castelo",
+                  "text": "A Santa Luzián található Praia do Castelo egy érintetlen, finom homokos tengerpart, amely a természetvédelmi terület zord partvidéke előtt terül el.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.71639,
+                        16.752413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Castelo",
+                  "text": "Praia do Castelo de pe Santa Luzia este o plajă neatinsă cu nisip fin, care se întinde în fața coastelor stâncoase ale rezervației naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.71639,
+                        16.752413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Castelo",
+                  "text": "Praia do Castelo on Santa Luzia is a pristine sandy beach that stretches out against the rugged coastline of the island's nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.71639,
+                        16.752413
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CV-SV",
     coords: [-24.75, 16.75],
@@ -147,7 +354,52 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "sao-nicolau-nature-v2",
+    id: "sao-nicolau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buraco Azul",
+                  "text": "Das Buraco Azul auf São Nicolau ist ein tiefes, natürliches Felsenbecken an der Küste, das durch sein magisch leuchtendes, azurblaues Wasser besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buraco Azul",
+                  "text": "A São Nicolau-i Buraco Azul egy mély, természetes sziklamedence a part mentén, amely varázslatos, élénk azúrkék vizéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buraco Azul",
+                  "text": "Buraco Azul de pe insula São Nicolau este un bazin stâncos natural, adânc, renumit pentru apele sale de un albastru azur strălucitor.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buraco Azul",
+                  "text": "The Buraco Azul on São Nicolau is a deep, natural coastal rock pool renowned for its mesmerizing, glowing azure waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CV-RB",
     coords: [-24.30, 16.63],
@@ -291,7 +543,88 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "maio-nature-v2",
+    id: "maio-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural de Barreiro e Figueira",
+                  "text": "Dieses geschützte Naturreservat bewahrt die trockenen Küstenlandschaften der Insel Maio.",
+                  "category": "natural",
+                  "coords": [
+                        -23.148762,
+                        15.141213
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa",
+                  "text": "Dieser Sandstrand bietet eine natürliche Küstenumgebung auf der Insel Maio.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.144637,
+                        15.126296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural de Barreiro e Figueira",
+                  "text": "Ez a védett természetvédelmi terület Maio szigetének száraz part menti tájait óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -23.148762,
+                        15.141213
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa",
+                  "text": "Ez a homokos tengerpart természetes tengerparti környezetet kínál Maio szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.144637,
+                        15.126296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural de Barreiro e Figueira",
+                  "text": "Această rezervație naturală protejată conservă peisajele de coastă aride ale insulei Maio.",
+                  "category": "natural",
+                  "coords": [
+                        -23.148762,
+                        15.141213
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa",
+                  "text": "Această plajă de nisip oferă un mediu de coastă natural pe insula Maio.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.144637,
+                        15.126296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Natural de Barreiro e Figueira",
+                  "text": "This protected nature reserve preserves the arid coastal landscapes of Maio island.",
+                  "category": "natural",
+                  "coords": [
+                        -23.148762,
+                        15.141213
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa",
+                  "text": "This sandy shoreline provides a natural coastal environment on the island of Maio.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.144637,
+                        15.126296
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CV-MA",
     coords: [-23.13, 15.18],
@@ -435,7 +768,88 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "brava-nature-v2",
+    id: "brava-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick auf die Naturlandschaften der Insel Brava bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "Ein Beobachtungspunkt in der natürlichen Umgebung von Brava, der Ausblicke auf die Küste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "A Brava-sziget természeti tájaira nyíló széleskörű kilátást biztosító festői kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "A Brava természeti környezetében található kilátópont, ahonnan a tengerpartra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "Un punct de observare pitoresc care oferă vederi ample asupra peisajelor naturale ale insulei Brava.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "Un punct de observație situat în mediul natural din Brava, oferind panorame de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "A scenic outlook providing sweeping views of Brava island's natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "An observation point set in the natural environment of Brava, offering coastal vistas.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CV-BR",
     coords: [-24.72, 14.87],
@@ -483,7 +897,124 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "pico-do-fogo-nature-v2",
+    id: "pico-do-fogo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crater Pico de Fogo",
+                  "text": "Eine gewaltige, aktive Vulkancaldera, die eine dramatische schwarze Aschenlandschaft und einen hoch aufragenden zentralen Gipfel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.340311,
+                        14.949397
+                  ]
+            },
+            {
+                  "name": "Espigão",
+                  "text": "Ein malerischer Aussichtspunkt in der vulkanischen Naturlandschaft des Pico do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.292825,
+                        14.913518
+                  ]
+            },
+            {
+                  "name": "Naturpark Fogo",
+                  "text": "Ein Nationalpark, der gegründet wurde, um die Landschaften des aktiven Vulkans Fogo zu schützen.",
+                  "category": "natural",
+                  "coords": [
+                        -24.357996,
+                        14.957434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crater Pico de Fogo",
+                  "text": "Hatalmas, aktív vulkáni kaldera, amely drámai fekete hamutájképéről és egy magasba tornyosuló központi csúcsáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.340311,
+                        14.949397
+                  ]
+            },
+            {
+                  "name": "Espigão",
+                  "text": "Festői kilátó a Pico do Fogo vulkanikus természeti táján.",
+                  "category": "natural",
+                  "coords": [
+                        -24.292825,
+                        14.913518
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Fogo",
+                  "text": "A Fogo aktív vulkán tájainak védelmére létrehozott nemzeti park.",
+                  "category": "natural",
+                  "coords": [
+                        -24.357996,
+                        14.957434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crater Pico de Fogo",
+                  "text": "O calderă vulcanică masivă și activă, prezentând un peisaj dramatic din cenușă neagră și un vârf central impunător.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.340311,
+                        14.949397
+                  ]
+            },
+            {
+                  "name": "Espigão",
+                  "text": "Un punct de belvedere panoramic situat în peisajul vulcanic natural de la Pico do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.292825,
+                        14.913518
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Fogo",
+                  "text": "Un parc național înființat pentru a proteja peisajele vulcanului activ Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.357996,
+                        14.957434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crater Pico de Fogo",
+                  "text": "A massive, active volcanic caldera featuring a dramatic black ash landscape and a towering central peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.340311,
+                        14.949397
+                  ]
+            },
+            {
+                  "name": "Espigão",
+                  "text": "A scenic viewpoint located in the natural volcanic landscape of Pico do Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.292825,
+                        14.913518
+                  ]
+            },
+            {
+                  "name": "Fogo Natural Park",
+                  "text": "A national park established to protect the landscapes of the active Fogo volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -24.357996,
+                        14.957434
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SF",
     coords: [-24.35, 14.95],
@@ -531,7 +1062,52 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "topo-de-coroa-nature-v2",
+    id: "topo-de-coroa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jon L'Bino (Bordeira)",
+                  "text": "Der Aussichtspunkt Jon L'Bino bietet einen beeindruckenden Blick auf die rauen Klippen des Topo de Coroa.",
+                  "category": "natural",
+                  "coords": [
+                        -25.231881,
+                        17.0405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jon L'Bino (Bordeira)",
+                  "text": "A Jon L'Bino kilátó lenyűgöző kilátást nyújt a Topo de Coroa zord szikláira.",
+                  "category": "natural",
+                  "coords": [
+                        -25.231881,
+                        17.0405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jon L'Bino (Bordeira)",
+                  "text": "Punctul de belvedere Jon L'Bino oferă o priveliște impresionantă asupra stâncilor aspre din Topo de Coroa.",
+                  "category": "natural",
+                  "coords": [
+                        -25.231881,
+                        17.0405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jon L'Bino (Bordeira)",
+                  "text": "The Jon L'Bino viewpoint provides a striking look at the harsh cliffs of Topo de Coroa.",
+                  "category": "natural",
+                  "coords": [
+                        -25.231881,
+                        17.0405
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-PN",
     coords: [-25.30, 17.03],
@@ -579,7 +1155,232 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "monte-gordo-nature-v2",
+    id: "monte-gordo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro",
+                  "text": "Dieser Aussichtspunkt am Hang des Monte Gordo bietet eine atemberaubende Sicht auf die zerklüfteten, grünen Täler und die dramatischen Berge von São Nicolau.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "Der Miradouro do Monte Cintinha ist ein exponierter Aussichtsplatz, von dem aus man weit über die schroffen Vulkanlandschaften und tiefen Schluchten der Region blicken kann.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Vista Panoramica de Cha de Monte Gordo",
+                  "text": "Diese Panoramasicht enthüllt das fruchtbare Kraterbecken von Chã de Monte Gordo, das einen starken Kontrast zu den steilen, kargen Felswänden der Umgebung bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -24.351934,
+                        16.626484
+                  ]
+            },
+            {
+                  "name": "Rocha Scribida",
+                  "text": "Die Rocha Scribida ist eine geheimnisvolle Felswand auf São Nicolau, in die rätselhafte, uralte Inschriften und Symbole eingraviert sind, deren Ursprung bis heute ungeklärt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.36302,
+                        16.662121
+                  ]
+            },
+            {
+                  "name": "Carbeirinho",
+                  "text": "Das Carbeirinho ist ein spektakuläres, vom Wind und Meer geschliffenes Felsmassiv direkt an der Küste, das zu den sieben Naturwundern der Kapverden zählt.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.426604,
+                        16.6394
+                  ]
+            },
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "Der Parque Natural Monte Gordo ist ein üppiges Schutzgebiet rund um den höchsten Gipfel der Insel, das endemische Drachenbäume und eine reiche Flora im Bergnebel birgt.",
+                  "category": "natural",
+                  "coords": [
+                        -24.352868,
+                        16.625392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro",
+                  "text": "Ez a kilátó a Monte Gordo hegyoldalán lenyűgöző panorámát kínál São Nicolau drámai csúcsaira és meredek, zöldellő völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "A Miradouro do Monte Cintinha egy magasan fekvő kilátópont, ahonnan feltárul a régió zord vulkáni hegyvonulatainak és mély szakadékainak látványa.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Vista Panoramica de Cha de Monte Gordo",
+                  "text": "Ez a panorámás kilátó feltárja a Chã de Monte Gordo termékeny krátermedencéjét, amely éles kontrasztban áll a környező meredek, kopár sziklafalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        -24.351934,
+                        16.626484
+                  ]
+            },
+            {
+                  "name": "Rocha Scribida",
+                  "text": "A Rocha Scribida egy rejtélyes sziklafal São Nicolau szigetén, amelyen olyan ősi feliratok és szimbólumok találhatók, amelyek eredete máig tisztázatlan.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.36302,
+                        16.662121
+                  ]
+            },
+            {
+                  "name": "Carbeirinho",
+                  "text": "A Carbeirinho egy lenyűgöző, a szél és az óceán által simára csiszolt sziklaalakzat a tengerparton, amely a Zöld-foki Köztársaság hét csodájának egyike.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.426604,
+                        16.6394
+                  ]
+            },
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "A Parque Natural Monte Gordo egy zöldellő természetvédelmi terület a sziget legmagasabb csúcsa körül, amely hegyi ködben rejtőző endemikus sárkányfákat őriz.",
+                  "category": "natural",
+                  "coords": [
+                        -24.352868,
+                        16.625392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro",
+                  "text": "Acest punct de belvedere de pe versantul muntelui Monte Gordo oferă o perspectivă uimitoare asupra văilor verzi și abrupte ale insulei São Nicolau.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "Miradouro do Monte Cintinha este un punct de observare la mare altitudine, oferind priveliști impresionante asupra reliefului vulcanic stâncos al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Vista Panoramica de Cha de Monte Gordo",
+                  "text": "Acest punct panoramic dezvăluie depresiunea vulcanică fertilă din Chã de Monte Gordo, contrastând puternic cu pereții stâncoși și abrupți din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -24.351934,
+                        16.626484
+                  ]
+            },
+            {
+                  "name": "Rocha Scribida",
+                  "text": "Rocha Scribida este un perete stâncos misterios de pe São Nicolau, pe care sunt gravate inscripții și simboluri străvechi a căror origine rămâne necunoscută.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.36302,
+                        16.662121
+                  ]
+            },
+            {
+                  "name": "Carbeirinho",
+                  "text": "Carbeirinho este o formațiune stâncoasă spectaculoasă, sculptată lin de vânt și ocean chiar pe coastă, recunoscută drept una dintre cele șapte minuni ale Capului Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.426604,
+                        16.6394
+                  ]
+            },
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "Parcul Natural Monte Gordo este o rezervație verde în jurul celui mai înalt vârf al insulei, protejând arbori dragon endemici și o floră bogată în ceața montană.",
+                  "category": "natural",
+                  "coords": [
+                        -24.352868,
+                        16.625392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro",
+                  "text": "This viewpoint on the slopes of Monte Gordo offers breathtaking panoramas of the rugged, green valleys and dramatic peaks of São Nicolau.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "The Miradouro do Monte Cintinha is an elevated vantage point granting sweeping views across the region's jagged volcanic ridges and deep ravines.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Vista Panoramica de Cha de Monte Gordo",
+                  "text": "This panoramic vista reveals the fertile volcanic basin of Chã de Monte Gordo, standing in stark contrast to the sheer, barren rock walls surrounding it.",
+                  "category": "natural",
+                  "coords": [
+                        -24.351934,
+                        16.626484
+                  ]
+            },
+            {
+                  "name": "Rocha Scribida",
+                  "text": "Rocha Scribida is a mysterious rock face on São Nicolau carved with enigmatic, ancient inscriptions and symbols whose origins remain unknown.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.36302,
+                        16.662121
+                  ]
+            },
+            {
+                  "name": "Carbeirinho",
+                  "text": "Carbeirinho is a spectacular, smoothly sculpted limestone coastal rock formation shaped by wind and sea, recognized as one of the Seven Wonders of Cape Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.426604,
+                        16.6394
+                  ]
+            },
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "Monte Gordo Natural Park is a lush protected area surrounding the island's highest peak, harboring endemic dragon trees and a rich flora nourished by mountain mists.",
+                  "category": "natural",
+                  "coords": [
+                        -24.352868,
+                        16.625392
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-RB",
     coords: [-24.35, 16.62],
@@ -627,7 +1428,232 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "monte-cara-nature-v2",
+    id: "monte-cara-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canhão \"12 Voltas\"",
+                  "text": "Die Attraktion Canhão \"12 Voltas\" ist ein historisches Kanonendenkmal am Fuße des Monte Cara.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.025025,
+                        16.877952
+                  ]
+            },
+            {
+                  "name": "Monte Cara",
+                  "text": "Der Gipfel des Monte Cara ist berühmt für sein Profil, das an ein in den Himmel blickendes menschliches Gesicht erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -25.037255,
+                        16.874125
+                  ]
+            },
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "Der Leuchtturm Farol da D. Amélia steht an der felsigen Küste von São Pedro und markiert die südwestliche Spitze von São Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "Die windige Praia de São Pedro nahe dem Monte Cara ist ein beliebter Küstenabschnitt für Windsurfer.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066093,
+                        16.826919
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "Diese Statue ist der berühmten kapverdischen Morna-Sängerin Cesária Évora gewidmet, die liebevoll \"die barfüßige Diva\" genannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            },
+            {
+                  "name": "Flamengos Beach",
+                  "text": "Der Flamengos Beach ist ein ruhiger Küstenstreifen in der Nähe des Monte Cara.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.044889,
+                        16.806216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canhão \"12 Voltas\"",
+                  "text": "A Canhão \"12 Voltas\" egy történelmi ágyúemlékmű a Monte Cara lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.025025,
+                        16.877952
+                  ]
+            },
+            {
+                  "name": "Monte Cara",
+                  "text": "A Monte Cara csúcsa arról a profiljáról híres, amely egy égre néző emberi arcra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -25.037255,
+                        16.874125
+                  ]
+            },
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "A Farol da D. Amélia világítótorony São Pedro sziklás partján áll, São Vicente délnyugati csücskét jelölve.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "A Monte Cara közelében található szeles Praia de São Pedro a szörfösök kedvelt partszakasza.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066093,
+                        16.826919
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "Ez a szobor a híres zöld-foki-szigeteki morna énekesnőnek, Cesária Évorának állít emléket, akit szeretettel \"mezítlábas dívának\" is neveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            },
+            {
+                  "name": "Flamengos Beach",
+                  "text": "A Flamengos Beach egy csendes partszakasz a Monte Cara közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.044889,
+                        16.806216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canhão \"12 Voltas\"",
+                  "text": "Atracția Canhão \"12 Voltas\" este un monument istoric sub formă de tun de la baza Monte Cara.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.025025,
+                        16.877952
+                  ]
+            },
+            {
+                  "name": "Monte Cara",
+                  "text": "Vârful Monte Cara este faimos pentru profilul său care seamănă cu o față umană privind spre cer.",
+                  "category": "natural",
+                  "coords": [
+                        -25.037255,
+                        16.874125
+                  ]
+            },
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "Farul Farol da D. Amélia stă pe coasta stâncoasă a São Pedro, marcând extremitatea sud-vestică a insulei São Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "Vânturoasa Praia de São Pedro, lângă Monte Cara, este o porțiune de coastă populară pentru windsurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066093,
+                        16.826919
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "Această statuie este dedicată celebrei cântărețe de morna din Capul Verde, Cesária Évora, cunoscută cu afecțiune ca \"diva desculță\".",
+                  "category": "landmark",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            },
+            {
+                  "name": "Flamengos Beach",
+                  "text": "Plaja Flamengos este o fâșie liniștită de coastă în apropiere de Monte Cara.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.044889,
+                        16.806216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canhão \"12 Voltas\"",
+                  "text": "The Canhão \"12 Voltas\" attraction is a historical cannon monument at the base of Monte Cara.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.025025,
+                        16.877952
+                  ]
+            },
+            {
+                  "name": "Monte Cara",
+                  "text": "The peak of Monte Cara is famous for its profile, which resembles a human face looking at the sky.",
+                  "category": "natural",
+                  "coords": [
+                        -25.037255,
+                        16.874125
+                  ]
+            },
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "The Farol da D. Amélia lighthouse stands on the rocky coast of São Pedro, marking the southwestern tip of São Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "The windy Praia de São Pedro near Monte Cara is a popular stretch of coastline for windsurfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066093,
+                        16.826919
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "This statue is dedicated to the famous Cape Verdean morna singer Cesária Évora, affectionately known as the \"barefoot diva\".",
+                  "category": "landmark",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            },
+            {
+                  "name": "Flamengos Beach",
+                  "text": "Flamengos Beach is a quiet stretch of coastline near Monte Cara.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.044889,
+                        16.806216
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-SV",
     coords: [-25.03, 16.88],
@@ -675,7 +1701,196 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "serra-malagueta-nature-v2",
+    id: "serra-malagueta-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Pedroso",
+                  "text": "Ein markanter Berggipfel, der sich in den üppigen, sehr artenreichen Hochlagen der Bergkette Serra Malagueta erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -23.741167,
+                        15.162218
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Ein hochgelegener Aussichtspunkt mit weiten Panoramen auf die dramatischen, tief eingeschnittenen grünen Täler der Insel Santiago.",
+                  "category": "natural",
+                  "coords": [
+                        -23.67846,
+                        15.172448
+                  ]
+            },
+            {
+                  "name": "Parque Natural De Serra Malagueta",
+                  "text": "Eine üppige, geschützte Bergkette, die für ihr weitläufiges Netz an Wanderwegen und seltene, endemische Pflanzenarten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -23.690195,
+                        15.180136
+                  ]
+            },
+            {
+                  "name": "Malagueta",
+                  "text": "Ein dramatischer zentraler Gipfel, der Teil des gebirgigen Rückgrats von Santiago ist und von Wanderern und Naturliebhabern stark frequentiert wird.",
+                  "category": "natural",
+                  "coords": [
+                        -23.672415,
+                        15.179972
+                  ]
+            },
+            {
+                  "name": "Parque Natural Serra Malagueta",
+                  "text": "Ein grüner Nationalpark, der die Hochgebirgsökosysteme, tiefen Schluchten und die vielfältige Vogelwelt von Santiago schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -23.682936,
+                        15.183434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Pedroso",
+                  "text": "A Serra Malagueta hegység buja, nagy biodiverzitású felvidékén emelkedő kiemelkedő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -23.741167,
+                        15.162218
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Magaslati kilátó, amely lenyűgöző panorámát nyújt Santiago szigetének drámai, mélyen bevágott zöld völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -23.67846,
+                        15.172448
+                  ]
+            },
+            {
+                  "name": "Parque Natural De Serra Malagueta",
+                  "text": "Buja, védett hegylánc, amely kiterjedt túraútvonal-hálózatáról és ritka, endemikus növényfajairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -23.690195,
+                        15.180136
+                  ]
+            },
+            {
+                  "name": "Malagueta",
+                  "text": "Drámai központi csúcs, amely Santiago hegyvidéki gerincének részét képezi, és a túrázók és természetbarátok nagyon kedvelik.",
+                  "category": "natural",
+                  "coords": [
+                        -23.672415,
+                        15.179972
+                  ]
+            },
+            {
+                  "name": "Parque Natural Serra Malagueta",
+                  "text": "Zöldellő nemzeti park, amely Santiago magaslati ökoszisztémáit, mély szakadékait és változatos madárvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.682936,
+                        15.183434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Pedroso",
+                  "text": "Un vârf de munte proeminent care se înalță în regiunile muntoase luxuriante și extrem de biodiverse ale lanțului Serra Malagueta.",
+                  "category": "natural",
+                  "coords": [
+                        -23.741167,
+                        15.162218
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Un punct de belvedere la mare altitudine, care oferă panorame ample asupra văilor verzi dramatice și adânc sculptate ale insulei Santiago.",
+                  "category": "natural",
+                  "coords": [
+                        -23.67846,
+                        15.172448
+                  ]
+            },
+            {
+                  "name": "Parque Natural De Serra Malagueta",
+                  "text": "Un lanț muntos luxuriant și protejat, cunoscut pentru rețeaua sa extinsă de trasee de drumeții și specii de plante rare, endemice.",
+                  "category": "natural",
+                  "coords": [
+                        -23.690195,
+                        15.180136
+                  ]
+            },
+            {
+                  "name": "Malagueta",
+                  "text": "Un vârf central dramatic care face parte din coloana vertebrală muntoasă a Santiago, foarte favorizat de excursioniști și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -23.672415,
+                        15.179972
+                  ]
+            },
+            {
+                  "name": "Parque Natural Serra Malagueta",
+                  "text": "Un parc național înverzit care protejează ecosistemele de mare altitudine ale insulei Santiago, râpele adânci și diversitatea de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        -23.682936,
+                        15.183434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Pedroso",
+                  "text": "A prominent mountain peak rising within the lush, highly biodiverse highlands of the Serra Malagueta range.",
+                  "category": "natural",
+                  "coords": [
+                        -23.741167,
+                        15.162218
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "A high-elevation lookout offering sweeping panoramas of Santiago island's dramatic, deeply carved green valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -23.67846,
+                        15.172448
+                  ]
+            },
+            {
+                  "name": "Parque Natural De Serra Malagueta",
+                  "text": "A lush, protected mountain range known for its extensive network of hiking trails and rare, endemic plant species.",
+                  "category": "natural",
+                  "coords": [
+                        -23.690195,
+                        15.180136
+                  ]
+            },
+            {
+                  "name": "Malagueta",
+                  "text": "A dramatic central peak forming part of Santiago's mountainous spine, heavily favored by hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -23.672415,
+                        15.179972
+                  ]
+            },
+            {
+                  "name": "Parque Natural Serra Malagueta",
+                  "text": "A verdant national park protecting Santiago's high-altitude ecosystems, deep ravines, and diverse birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        -23.682936,
+                        15.183434
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-ST",
     coords: [-23.67, 15.17],
@@ -771,7 +1986,52 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "monte-estancia-nature-v2",
+    id: "monte-estancia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Estância",
+                  "text": "Monte Estância ist ein markanter Berggipfel, der sich in der Landschaft bei monte-estancia-nature-v2 erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -22.756589,
+                        16.045904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Estância",
+                  "text": "A Monte Estância egy kiemelkedő hegycsúcs, amely a monte-estancia-nature-v2 melletti tájon emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        -22.756589,
+                        16.045904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Estância",
+                  "text": "Monte Estância este un vârf montan proeminent care se înalță în peisajul de lângă monte-estancia-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.756589,
+                        16.045904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Estância",
+                  "text": "Monte Estância is a prominent mountain peak rising in the landscape near monte-estancia-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.756589,
+                        16.045904
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CV-BV",
     coords: [-22.75, 16.03],
@@ -867,7 +2127,52 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "buracona-blue-eye-nature-v2",
+    id: "buracona-blue-eye-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blue eye",
+                  "text": "Blue eye ist eine markante Naturattraktion, die für ihre leuchtenden Wasserfarben nahe buracona-blue-eye-nature-v2 bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.992199,
+                        16.799259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blue eye",
+                  "text": "A Blue eye egy lenyűgöző természeti látványosság, amely élénk vízi árnyalatairól ismert buracona-blue-eye-nature-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.992199,
+                        16.799259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blue eye",
+                  "text": "Blue eye este o atracție naturală uimitoare, cunoscută pentru nuanțele sale acvatice vibrante, lângă buracona-blue-eye-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.992199,
+                        16.799259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blue eye",
+                  "text": "The Blue eye is a striking natural attraction known for its vibrant aquatic hues near buracona-blue-eye-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.992199,
+                        16.799259
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "CV-SL",
     coords: [-23.00, 16.80],
@@ -915,7 +2220,232 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "santa-maria-beach-nature-v2",
+    id: "santa-maria-beach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "Der Faro Antigo do Sinó ist ein verlassener, steinerner Leuchtturm an der südwestlichen Landspitze von Sal, umgeben von wüstenartiger Küstenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity;Projeto Biodiversidade",
+                  "text": "Diese Schutzstation bewacht in den Sommermonaten die Nester von Unechten Karettschildkröten und bietet Besuchern Einblicke in die Aufzucht der Jungtiere am Sandstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "Dieses kleine lokale Theater nahe der Praia de Santa Maria bietet eine Bühne für kapverdische Musik, Tanz und traditionelle kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Der Splash Water World ist ein farbenfroher Wasserpark auf der Insel Sal, der mit seinen rasanten Rutschen und kühlen Becken eine erfrischende Abwechslung zum Ozean bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922842,
+                        16.591488
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "Das Teatro Vila do Farol ist die abendliche Unterhaltungsbühne eines Resorts, auf der regelmäßig Shows und Animationen für Urlaubsgäste präsentiert werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920655,
+                        16.591387
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "Die Praia de Santa Maria ist ein atemberaubender, acht Kilometer langer weißer Sandstrand, dessen türkisfarbenes Wasser zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.916794,
+                        16.590861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "A Faro Antigo do Sinó egy elhagyatott kő világítótorony Sal délnyugati fokán, amelyet kietlen, sivatagos tengerparti táj vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity;Projeto Biodiversidade",
+                  "text": "Ez a tengerparti keltető nyaranta a cserepesteknősök fészkeit védi, lehetőséget adva a látogatóknak, hogy megismerjék a kikelt fiókák tengerbe bocsátását.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "Ez a kis helyi színház a Praia de Santa Maria közelében a zöld-foki zene, tánc és hagyományos kulturális előadások színtere.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "A Splash Water World egy színes csúszdapark Sal szigetén, amely gyors vízicsúszdákkal és hűsítő medencékkel kínál frissítő szórakozást.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922842,
+                        16.591488
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "A Teatro Vila do Farol egy üdülőhelyi színházterem, ahol esténként szórakoztató műsorokkal és animációs programokkal várják a nyaralókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920655,
+                        16.591387
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "A Praia de Santa Maria egy lenyűgöző, nyolc kilométer hosszú fehér homokos tengerpart, amelynek kristálytiszta türkizkék vize fürdőzésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.916794,
+                        16.590861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "Faro Antigo do Sinó este un far de piatră abandonat, situat pe promontoriul sud-vestic al insulei Sal, înconjurat de o coastă aridă.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity;Projeto Biodiversidade",
+                  "text": "Acest centru de incubație protejează cuiburile de țestoase marine pe timpul verii, educând vizitatorii despre eforturile vitale de conservare pe plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "Acest mic teatru local de lângă plaja Santa Maria găzduiește spectacole de muzică capverdiană, dans și evenimente culturale tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World este un parc acvatic plin de culoare de pe insula Sal, care oferă tobogane rapide și piscine răcoroase ca alternativă la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922842,
+                        16.591488
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "Teatro Vila do Farol este un teatru din cadrul unui complex turistic, oferind o scenă animată pentru spectacole de seară destinate oaspeților.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920655,
+                        16.591387
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "Praia de Santa Maria este o plajă superbă cu nisip alb, lungă de opt kilometri, renumită pentru apele sale turcoaz cristaline, ideale pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.916794,
+                        16.590861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "The Faro Antigo do Sinó is an abandoned stone lighthouse situated on the extreme southwestern point of Sal, surrounded by a harsh, arid coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity - Sea Turtles Conservation Hatchery",
+                  "text": "This conservation hatchery protects loggerhead sea turtle nests during the summer, offering visitors a chance to learn about vital beachside rescue efforts.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "This small local theatre near Santa Maria Beach serves as a vibrant venue for Cape Verdean music, dance, and traditional cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World is a colorful water park on Sal Island, featuring thrilling water slides and cool pools as a refreshing alternative to the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922842,
+                        16.591488
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "The Teatro Vila do Farol is an evening entertainment venue within a resort complex, hosting lively stage shows and animations for holidaymakers.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920655,
+                        16.591387
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "Praia de Santa Maria is a stunning eight-kilometer stretch of white sandy beach, celebrated for its crystal-clear turquoise waters perfect for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.916794,
+                        16.590861
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "CV-SL",
     coords: [-22.91, 16.59],
@@ -1011,7 +2541,412 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "tarrafal-bay-nature-v2",
+    id: "tarrafal-bay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina Natural de Cuba",
+                  "text": "Ein ruhiges natürliches Felsenbecken, das von schwarzen vulkanischen Formationen direkt an der sonnigen Küste von Tarrafal gebildet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.755065,
+                        15.217878
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "Ein historischer gemeinschaftlicher Waschplatz, der das traditionelle, tägliche Landleben der Bewohner in Tarrafal widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Erhaltene historische Latrinenanlagen der berüchtigten ehemaligen Strafkolonie Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "Ein malerischer Küstenaussichtspunkt in der Nähe des Leuchtturms, der weite Ausblicke auf den Atlantischen Ozean bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Moreia",
+                  "text": "Ein nautisches Leuchtfeuer an der zerklüfteten, vulkanischen Nordküste der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.742615,
+                        15.338468
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "Ein markanter vulkanischer Berg, der sich steil an der Nordküste der Insel Santiago erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Ein großer, farbenfroher typografischer Schriftzug mit dem Namen der Stadt, beliebt für Touristenfotos.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Ein sandiger Küstenabschnitt, der für seine rollenden Atlantikwellen bekannt ist und sich ideal zum Surfen eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "King fisher",
+                  "text": "Eine entspannende sandige Bucht, die von der lokalen Fischerkultur geprägt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Ein malerischer, halbmondförmiger Strand, gesäumt von Palmen und dunklem Vulkansand.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.752849,
+                        15.28088
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Ein geschützter sandiger Küstenbereich, der oft von lokalen Fischern genutzt wird, um ihren Tagesfang anzulanden.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754777,
+                        15.279478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina Natural de Cuba",
+                  "text": "Nyugodt természetes sziklamedence, amelyet fekete vulkáni képződmények alakítottak ki közvetlenül a napos Tarrafal partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.755065,
+                        15.217878
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "Történelmi közös mosóterület, amely a tarrafali lakosok hagyományos, mindennapi vidéki életét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "A hírhedt egykori tarrafali büntetőtelep fennmaradt történelmi latrinalétesítményei.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "Festői tengerparti kilátópont a világítótorony közelében, ahonnan lenyűgöző kilátás nyílik az Atlanti-óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Moreia",
+                  "text": "A sziget zord, vulkanikus északi partján található navigációs jelzőfény.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.742615,
+                        15.338468
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "Kiemelkedő vulkáni hegy, amely meredeken emelkedik Santiago szigetének északi partjának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Nagy, színes tipográfiai felirat a város nevével, amely népszerű a turisták fotóin.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Homokos tengerparti szakasz, amely jól ismert az Atlanti-óceán hullámairól, így ideális a szörfözéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "King fisher",
+                  "text": "Pihentető homokos öböl a parton, amelyet a helyi halászati kultúra vesz körül.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Festői, félhold alakú strand, amelyet pálmafák és sötét vulkáni homok szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.752849,
+                        15.28088
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Védett homokos tengerparti terület, amelyet a helyi halászok gyakran használnak a napi zsákmány partra hozására.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754777,
+                        15.279478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina Natural de Cuba",
+                  "text": "O piscină naturală liniștită în stâncă, formată din formațiuni vulcanice negre chiar de-a lungul coastei însorite din Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.755065,
+                        15.217878
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "O zonă comună de spălat istorică, care reflectă viața rurală tradițională și de zi cu zi a locuitorilor din Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Latrine istorice conservate din cadrul fostei colonii penale de la Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "Un punct de belvedere pitoresc pe coastă, lângă far, oferind o vedere vastă asupra Oceanului Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Moreia",
+                  "text": "Un far de navigație situat pe coasta de nord, stâncoasă și vulcanică a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.742615,
+                        15.338468
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "Un munte vulcanic proeminent, care se ridică brusc în apropierea coastei de nord a insulei Santiago.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Un semn tipografic mare și colorat cu numele orașului, popular pentru fotografiile turiștilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "O fâșie de coastă nisipoasă, binecunoscută pentru valurile sale atlantice, ideală pentru surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "King fisher",
+                  "text": "Un golf nisipos relaxant, înconjurat de cultura locală de pescuit.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "O plajă pitorească în formă de semilună, încadrată de palmieri și nisip vulcanic întunecat.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.752849,
+                        15.28088
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "O zonă de coastă nisipoasă și adăpostită, folosită frecvent de pescarii locali pentru a aduce prada zilnică.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754777,
+                        15.279478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina Natural de Cuba",
+                  "text": "A tranquil natural rock pool formed by black volcanic formations right along the sunny Tarrafal coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.755065,
+                        15.217878
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "A historic communal washing area that reflects the traditional, daily rural life of residents in Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Preserved historical latrine facilities at the notorious former Tarrafal penal colony.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "A scenic coastal viewpoint near the lighthouse, offering sweeping views of the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Moreia",
+                  "text": "A navigational beacon situated on the rugged, volcanic northern coast of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.742615,
+                        15.338468
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "A prominent volcanic mountain rising abruptly near the northern coast of Santiago island.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "A large, colorful typographic sign spelling out the city's name, popular for tourist photographs.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "A sandy coastal stretch well known for its rolling Atlantic waves, ideal for surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "King fisher",
+                  "text": "A relaxing sandy cove area on the bay, surrounded by local fishing culture.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "A scenic crescent-shaped beach framed by palm trees and dark volcanic sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.752849,
+                        15.28088
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "A sheltered sandy coastal area frequently used by local fishermen to bring in their daily catch.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754777,
+                        15.279478
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "CV-ST",
     coords: [-23.75, 15.28],
@@ -1107,7 +3042,124 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "pedra-de-lume-salt-lake-nature-v2",
+    id: "pedra-de-lume-salt-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro",
+                  "text": "Der Faro ist eine Küstenleuchtturmstruktur, die in der Nähe von pedra-de-lume-salt-lake-nature-v2 Navigationshilfe bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.884866,
+                        16.76113
+                  ]
+            },
+            {
+                  "name": "Monte Cagarral",
+                  "text": "Der Monte Cagarral ist ein bemerkenswerter Berggipfel, der in der Landschaft nahe pedra-de-lume-salt-lake-nature-v2 hervorsticht.",
+                  "category": "natural",
+                  "coords": [
+                        -22.884501,
+                        16.773629
+                  ]
+            },
+            {
+                  "name": "Farol de Pedra de Lume",
+                  "text": "Der Farol de Pedra de Lume ist ein historischer Leuchtturm, der an der Küste nahe den alten Salinen von Pedra de Lume aufragt.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.889,
+                        16.762669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro",
+                  "text": "A Faro egy parti világítótorony, amely navigációs iránymutatást nyújt pedra-de-lume-salt-lake-nature-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.884866,
+                        16.76113
+                  ]
+            },
+            {
+                  "name": "Monte Cagarral",
+                  "text": "A Monte Cagarral egy figyelemre méltó hegycsúcs, amely kiemelkedik a terepből pedra-de-lume-salt-lake-nature-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -22.884501,
+                        16.773629
+                  ]
+            },
+            {
+                  "name": "Farol de Pedra de Lume",
+                  "text": "A Farol de Pedra de Lume egy világítótorony a szigeten, amely a pedra de lume-i sólepárlókhoz közeli partvidéket őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.889,
+                        16.762669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro",
+                  "text": "Faro este o structură de far de coastă, care oferă ghidare de navigație lângă pedra-de-lume-salt-lake-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.884866,
+                        16.76113
+                  ]
+            },
+            {
+                  "name": "Monte Cagarral",
+                  "text": "Monte Cagarral este un vârf montan notabil care se evidențiază în peisajul din apropierea pedra-de-lume-salt-lake-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.884501,
+                        16.773629
+                  ]
+            },
+            {
+                  "name": "Farol de Pedra de Lume",
+                  "text": "Farol de Pedra de Lume este un far maritim istoric situat pe coasta din apropierea fostelor saline din Pedra de Lume.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.889,
+                        16.762669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro",
+                  "text": "Faro is a coastal lighthouse structure providing navigational guidance near pedra-de-lume-salt-lake-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.884866,
+                        16.76113
+                  ]
+            },
+            {
+                  "name": "Monte Cagarral",
+                  "text": "Monte Cagarral is a notable mountain peak standing out in the terrain near pedra-de-lume-salt-lake-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.884501,
+                        16.773629
+                  ]
+            },
+            {
+                  "name": "Farol de Pedra de Lume",
+                  "text": "Farol de Pedra de Lume is a coastal lighthouse guiding ships near the historic salt pans of Pedra de Lume.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.889,
+                        16.762669
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CV-SL",
     coords: [-22.89, 16.76],
@@ -1155,7 +3207,52 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
     },
   },
   {
-    id: "paul-valley-nature-v2",
+    id: "paul-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antenna",
+                  "text": "Der Aussichtspunkt bei der Antennenanlage bietet ein weites Panorama über das grüne Tal von Paul.",
+                  "category": "natural",
+                  "coords": [
+                        -25.041757,
+                        17.12289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antenna",
+                  "text": "Az antennarendszer melletti kilátópont széles panorámát nyújt a zöld Paul-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -25.041757,
+                        17.12289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antenna",
+                  "text": "Punctul de belvedere de la complexul de antene oferă o panoramă largă asupra văii verzi Paul.",
+                  "category": "natural",
+                  "coords": [
+                        -25.041757,
+                        17.12289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antenna",
+                  "text": "The viewpoint by the antenna array provides a wide panorama over the verdant Paul Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -25.041757,
+                        17.12289
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CV-PA",
     coords: [-25.02, 17.12],

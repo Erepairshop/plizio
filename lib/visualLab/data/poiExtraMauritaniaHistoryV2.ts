@@ -48,7 +48,52 @@ export const mauritaniaHistoryV2: POI[] = [
     image: "/poi-images/mauritania-ouadane-ruins-history-v2.webp",
   },
   {
-    id: "mauritania-chinguetti-mosque-history-v2",
+    id: "mauritania-chinguetti-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oasis",
+                  "text": "Eine erfrischende, von Dattelpalmen beschattete Wüstenoase nahe den historischen Moscheen von Chinguetti.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.399797,
+                        20.376101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oasis",
+                  "text": "Datolyapálmákkal árnyékolt hűsítő sivatagi oázis, Chinguetti történelmi mecsetjei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.399797,
+                        20.376101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oasis",
+                  "text": "O oază revigorantă deșertică, umbrită de curmali, situată lângă moscheile istorice din Chinguetti.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.399797,
+                        20.376101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oasis",
+                  "text": "A refreshing desert oasis shaded by date palms, located near the historic mosques of Chinguetti.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.399797,
+                        20.376101
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "landmark",
     name: { de: "Chinguetti Moschee", hu: "Chinguetti mecset", ro: "Moscheea Chinguetti", en: "Chinguetti Mosque" },
@@ -183,7 +228,52 @@ export const mauritaniaHistoryV2: POI[] = [
     image: "/poi-images/mauritania-oualata-city-history-v2.webp",
   },
   {
-    id: "mauritania-koumbi-saleh-ruins-history-v2",
+    id: "mauritania-koumbi-saleh-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kumbi Saleh",
+                  "text": "Koumbi Saleh ist eine weitläufige archäologische Stätte in Mauretanien, die einst die pulsierende Hauptstadt des mittelalterlichen Ghana-Reiches war.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968699,
+                        15.765688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koumbi Saleh",
+                  "text": "Koumbi Saleh egy kiterjedt mauritániai régészeti lelőhely, amely egykor a középkori Ghánai Birodalom nyüzsgő fővárosa volt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968699,
+                        15.765688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koumbi Saleh",
+                  "text": "Koumbi Saleh este un vast sit arheologic din Mauritania, care a fost odată capitala plină de viață a Imperiului medieval Ghana.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968699,
+                        15.765688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koumbi Saleh",
+                  "text": "Koumbi Saleh is an expansive archaeological site in Mauritania that was once the bustling capital of the medieval Ghana Empire.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968699,
+                        15.765688
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "ruins",
     name: { de: "Koumbi Saleh Ruinen", hu: "Koumbi Saleh romok", ro: "Ruinele Koumbi Saleh", en: "Koumbi Saleh Ruins" },
@@ -453,7 +543,52 @@ export const mauritaniaHistoryV2: POI[] = [
     image: "/poi-images/mauritania-adrar-plateau-sites-history-v2.webp",
   },
   {
-    id: "mauritania-boutilimit-scholar-history-v2",
+    id: "mauritania-boutilimit-scholar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort colonial",
+                  "text": "Dieses Militärfort aus der Kolonialzeit ist ein historisches Bauwerk in Boutilimit.",
+                  "category": "fortress",
+                  "coords": [
+                        -14.703354,
+                        17.548323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort colonial",
+                  "text": "Ez a gyarmati korszakból származó katonai erőd történelmi építményként áll Boutilimitben.",
+                  "category": "fortress",
+                  "coords": [
+                        -14.703354,
+                        17.548323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort colonial",
+                  "text": "Acest fort militar din epoca colonială reprezintă o structură istorică în Boutilimit.",
+                  "category": "fortress",
+                  "coords": [
+                        -14.703354,
+                        17.548323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort colonial",
+                  "text": "This colonial-era military fort stands as a historical structure in the city of Boutilimit.",
+                  "category": "fortress",
+                  "coords": [
+                        -14.703354,
+                        17.548323
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "university",
     name: { de: "Boutilimit Zentrum", hu: "Boutilimit központ", ro: "Centrul Boutilimit", en: "Boutilimit Center" },
@@ -903,7 +1038,196 @@ export const mauritaniaHistoryV2: POI[] = [
     image: "/poi-images/mauritania-oualata-gateway-history-v2.webp",
   },
   {
-    id: "mauritania-medina-nouakchott-history-v2",
+    id: "mauritania-medina-nouakchott-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mini-park",
+                  "text": "Dieser kleine städtische Mini-Park bietet gepflegte Grünflächen mit Bänken als kompakte Erholungsoase in der Medina von Nouakchott.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Die Galerie Zeinart ist ein gut beleuchteter Ausstellungsraum, der zeitgenössische mauretanische Kunstwerke und traditionelles Handwerk an den Wänden präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Nibrech",
+                  "text": "Nibrech ist ein markanter felsiger Berggipfel, der sich deutlich und steil von der relativ flachen mauretanischen Umgebung abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -15.979731,
+                        18.11699
+                  ]
+            },
+            {
+                  "name": "e National de la Mauritanie",
+                  "text": "Das Nationalmuseum von Mauretanien in Nouakchott bewahrt das archäologische und ethnografische Erbe der Nation.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974843,
+                        18.085428
+                  ]
+            },
+            {
+                  "name": "e urbain Turkya Daddah",
+                  "text": "Dieses städtische Museum in Nouakchott bietet Einblicke in die lokale Kultur und Geschichte der Hauptstadt.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977434,
+                        18.094821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mini-park",
+                  "text": "Ez a kis városi minipark ápolt zöldterületeket és padokat kínál, mint egy kompakt rekreációs oázis Nouakchott medinájában.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "A Galerie Zeinart egy jól megvilágított kiállítótér, amely kortárs mauritániai műalkotásokat és hagyományos kézműves termékeket mutat be a falain.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Nibrech",
+                  "text": "A Nibrech egy kiemelkedő sziklás hegycsúcs, amely élesen és meredeken rajzolódik ki a viszonylag sík mauritániai környezetből.",
+                  "category": "natural",
+                  "coords": [
+                        -15.979731,
+                        18.11699
+                  ]
+            },
+            {
+                  "name": "e National de la Mauritanie",
+                  "text": "A nouakchotti Mauritániai Nemzeti Múzeum az ország régészeti és néprajzi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974843,
+                        18.085428
+                  ]
+            },
+            {
+                  "name": "e urbain Turkya Daddah",
+                  "text": "Ez a nouakchotti városi múzeum bepillantást enged a főváros helyi kultúrájába és történelmébe.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977434,
+                        18.094821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mini-park",
+                  "text": "Acest mic mini-parc urban oferă spații verzi îngrijite cu bănci, servind ca o oază compactă de recreere în Medina din Nouakchott.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Galerie Zeinart este un spațiu expozițional bine luminat care prezintă opere de artă mauritane contemporane și meșteșuguri tradiționale pe pereții săi.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Nibrech",
+                  "text": "Nibrech este un vârf montan stâncos proeminent, care se înalță distinct și abrupt față de împrejurimile relativ plate ale Mauritaniei.",
+                  "category": "natural",
+                  "coords": [
+                        -15.979731,
+                        18.11699
+                  ]
+            },
+            {
+                  "name": "e National de la Mauritanie",
+                  "text": "Muzeul Național al Mauritaniei din Nouakchott conservă patrimoniul arheologic și etnografic al națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974843,
+                        18.085428
+                  ]
+            },
+            {
+                  "name": "e urbain Turkya Daddah",
+                  "text": "Acest muzeu urban din Nouakchott oferă o perspectivă asupra culturii și istoriei locale a capitalei.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977434,
+                        18.094821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mini-park",
+                  "text": "This small urban mini-park features planted green spaces and benches, providing a compact recreational oasis in the Medina of Nouakchott.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Galerie Zeinart",
+                  "text": "Galerie Zeinart is a well-lit exhibition space showcasing contemporary Mauritanian artworks and traditional crafts along its walls.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Nibrech",
+                  "text": "Nibrech is a prominent rocky mountain peak rising distinctly and steeply against the relatively flat Mauritanian surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -15.979731,
+                        18.11699
+                  ]
+            },
+            {
+                  "name": "e National de la Mauritanie",
+                  "text": "The National Museum of Mauritania in Nouakchott preserves the nation's archaeological and ethnographic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974843,
+                        18.085428
+                  ]
+            },
+            {
+                  "name": "e urbain Turkya Daddah",
+                  "text": "This urban museum in Nouakchott offers insights into the local culture and history of the capital.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977434,
+                        18.094821
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "landmark",
     name: { de: "Medina Nouakchott", hu: "Medina Nouakchott", ro: "Medina Nouakchott", en: "Medina Nouakchott" },

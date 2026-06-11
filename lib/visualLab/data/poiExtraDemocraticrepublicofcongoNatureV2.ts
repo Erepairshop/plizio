@@ -531,7 +531,124 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     },
   },
   {
-    id: "epulu-river-nature-v2",
+    id: "epulu-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Sida",
+                  "text": "Dieser malerische Berg bietet einen weiten Panoramablick über die üppige Region am Epulu-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        28.573793,
+                        1.363224
+                  ]
+            },
+            {
+                  "name": "Mont Mbia",
+                  "text": "Ein natürliches Bergziel in der Epulu-Region, das bei Abenteurern für seine bewaldeten Wanderwege beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.578991,
+                        1.390066
+                  ]
+            },
+            {
+                  "name": "Zoo d'élevage des Okapis",
+                  "text": "Dieser Erhaltungszoo am Epulu-Fluss widmet sich der Zucht und dem Schutz der seltenen afrikanischen Okapis.",
+                  "category": "recreational",
+                  "coords": [
+                        28.577263,
+                        1.402787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Sida",
+                  "text": "Ez a festői hegy széles panorámát kínál a buja Epulu folyó régiójára.",
+                  "category": "landmark",
+                  "coords": [
+                        28.573793,
+                        1.363224
+                  ]
+            },
+            {
+                  "name": "Mont Mbia",
+                  "text": "Egy természetes hegyi célpont az Epulu régióban, amely az erdős túraútvonalai miatt népszerű a kalandorok körében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.578991,
+                        1.390066
+                  ]
+            },
+            {
+                  "name": "Zoo d'élevage des Okapis",
+                  "text": "Ez az Epulu folyó menti vadaspark a ritka afrikai okapik tenyésztésének és védelmének szenteli magát.",
+                  "category": "recreational",
+                  "coords": [
+                        28.577263,
+                        1.402787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Sida",
+                  "text": "Acest munte pitoresc oferă o vedere panoramică largă asupra regiunii luxuriante a râului Epulu.",
+                  "category": "landmark",
+                  "coords": [
+                        28.573793,
+                        1.363224
+                  ]
+            },
+            {
+                  "name": "Mont Mbia",
+                  "text": "O destinație montană naturală în regiunea Epulu, populară printre aventurieri pentru traseele sale împădurite de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        28.578991,
+                        1.390066
+                  ]
+            },
+            {
+                  "name": "Zoo d'élevage des Okapis",
+                  "text": "Acest parc zoologic de conservare de pe râul Epulu este dedicat reproducerii și protejării ocapilor rari africani.",
+                  "category": "recreational",
+                  "coords": [
+                        28.577263,
+                        1.402787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Sida",
+                  "text": "This scenic mountain offers a wide panoramic view over the lush Epulu river region.",
+                  "category": "landmark",
+                  "coords": [
+                        28.573793,
+                        1.363224
+                  ]
+            },
+            {
+                  "name": "Mont Mbia",
+                  "text": "A natural mountain destination in the Epulu region popular among adventurers for its forested hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        28.578991,
+                        1.390066
+                  ]
+            },
+            {
+                  "name": "Okapi Breeding Station Zoo",
+                  "text": "This conservation zoo by the Epulu River is dedicated to the breeding and protection of the rare African okapis.",
+                  "category": "recreational",
+                  "coords": [
+                        28.577263,
+                        1.402787
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CD-XX",
     coords: [28.6, 1.4],
@@ -946,7 +1063,52 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     },
   },
   {
-    id: "mangengenge-mountain-nature-v2",
+    id: "mangengenge-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Mangengenge",
+                  "text": "Der Mont Mangengenge ist ein 718 Meter hoher Berggipfel unweit von Kinshasa, der oft von Pilgern besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        15.523884,
+                        -4.437473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Mangengenge",
+                  "text": "A Mont Mangengenge egy 718 méter magas hegycsúcs Kinshasa közelében, amelyet gyakran látogatnak zarándokok.",
+                  "category": "natural",
+                  "coords": [
+                        15.523884,
+                        -4.437473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Mangengenge",
+                  "text": "Muntele Mangengenge este un vârf proeminent cu o altitudine de 718 metri, vizitat frecvent de pelerini lângă Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.523884,
+                        -4.437473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Mangengenge",
+                  "text": "Mount Mangengenge is a prominent peak standing at an elevation of 718 meters, often visited by pilgrims near Kinshasa.",
+                  "category": "natural",
+                  "coords": [
+                        15.523884,
+                        -4.437473
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CD-XX",
     coords: [15.5, -4.4],

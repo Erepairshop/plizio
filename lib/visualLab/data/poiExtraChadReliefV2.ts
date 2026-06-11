@@ -153,7 +153,88 @@ export const poiExtraChadReliefV2: POI[] = [
       fr: ["Dunes de sable mouvantes", "Sécheresse extrême"],
     }, image: "/poi-images/mourdi-depression-relief-v2.webp"},
   {
-    id: "tarso-ahon-relief-v2",
+    id: "tarso-ahon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ancient overflow",
+                  "text": "Der Aussichtspunkt des \"ancient overflow\" offenbart die trockenen, ausgewaschenen Grundgesteinsrinnen, durch die einst massive prähistorische Wassermassen durch die vulkanische Landschaft stürzten.",
+                  "category": "natural",
+                  "coords": [
+                        17.031739,
+                        20.457345
+                  ]
+            },
+            {
+                  "name": "canyon",
+                  "text": "Ein hoch gelegener Aussichtspunkt, der einen markanten Blick in eine tiefe Schlucht bietet, die durch das Vulkanplateau des Tarso Ahon gegraben wurde.",
+                  "category": "natural",
+                  "coords": [
+                        16.908921,
+                        20.492805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ancient overflow",
+                  "text": "Az „ancient overflow” kilátópont feltárja azokat a száraz, kimosott alapkőzeti csatornákat, ahol egykor hatalmas, történelem előtti víztömegek zúdultak le a vulkáni tájon keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        17.031739,
+                        20.457345
+                  ]
+            },
+            {
+                  "name": "canyon",
+                  "text": "Magaslati kilátópont, amely lenyűgöző rálátást biztosít a Tarso Ahon vulkáni fennsíkot átszelő mély kanyonra.",
+                  "category": "natural",
+                  "coords": [
+                        16.908921,
+                        20.492805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ancient overflow",
+                  "text": "Punctul de belvedere „ancient overflow” dezvăluie canalele uscate din roca de bază pe unde ape masive preistorice s-au revărsat cândva prin peisajul vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        17.031739,
+                        20.457345
+                  ]
+            },
+            {
+                  "name": "canyon",
+                  "text": "Un punct de belvedere la mare altitudine care oferă o privire impresionantă într-un canion adânc sculptat prin platoul vulcanic Tarso Ahon.",
+                  "category": "natural",
+                  "coords": [
+                        16.908921,
+                        20.492805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ancient overflow",
+                  "text": "The ancient overflow viewpoint reveals the dry, scoured bedrock channels where massive prehistoric waters once cascaded through the volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.031739,
+                        20.457345
+                  ]
+            },
+            {
+                  "name": "canyon",
+                  "text": "A high-altitude viewpoint providing a striking look into a deep canyon carved through the Tarso Ahon volcanic plateau.",
+                  "category": "natural",
+                  "coords": [
+                        16.908921,
+                        20.492805
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TD-TI",
     coords: [17.0, 20.5],

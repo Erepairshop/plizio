@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraAlgeriaReliefV2: POI[] = [
   {
-    id: "hoggar-massif-relief-v2",
+    id: "hoggar-massif-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tinra",
+                  "text": "Dieser Gipfel prägt die majestätische Gebirgslandschaft des Hoggar-Massivs im Süden Algeriens.",
+                  "category": "natural",
+                  "coords": [
+                        5.577874,
+                        23.23723
+                  ]
+            },
+            {
+                  "name": "Aouknet",
+                  "text": "Ein markanter felsiger Gipfel, der sich in den trockenen Weiten des Hoggar-Massivs erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        5.590383,
+                        23.190256
+                  ]
+            },
+            {
+                  "name": "Tamehadjné",
+                  "text": "Dieser entlegene Gipfel ist von der faszinierenden vulkanischen Geologie des Hoggar-Massivs geprägt.",
+                  "category": "natural",
+                  "coords": [
+                        5.562129,
+                        23.209047
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Diese natürliche Höhle bietet Schutz und verborgene Einblicke im rauen Gelände des Hoggar-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        5.537012,
+                        23.238191
+                  ]
+            },
+            {
+                  "name": "Ti-n-Fedfedîten",
+                  "text": "Dieser schroffe Berggipfel trägt zur wilden Schönheit des Hoggar-Massivs bei.",
+                  "category": "natural",
+                  "coords": [
+                        5.504005,
+                        23.216738
+                  ]
+            },
+            {
+                  "name": "Tehareghet",
+                  "text": "Ein dominanter Berggipfel, der sich in der Mondlandschaft des Hoggar-Massivs befindet.",
+                  "category": "natural",
+                  "coords": [
+                        5.443583,
+                        23.237948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tinra",
+                  "text": "Ez a hegycsúcs határozza meg a dél-algériai Hoggar-masszívum fenséges hegyvidéki táját.",
+                  "category": "natural",
+                  "coords": [
+                        5.577874,
+                        23.23723
+                  ]
+            },
+            {
+                  "name": "Aouknet",
+                  "text": "Egy feltűnő sziklás csúcs, amely a Hoggar-masszívum száraz vidékén emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        5.590383,
+                        23.190256
+                  ]
+            },
+            {
+                  "name": "Tamehadjné",
+                  "text": "Ezt a távoli csúcsot a Hoggar-masszívum lenyűgöző vulkáni geológiája jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        5.562129,
+                        23.209047
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Ez a természetes barlang menedéket és rejtett látnivalókat kínál a Hoggar-masszívum zord terepén.",
+                  "category": "landmark",
+                  "coords": [
+                        5.537012,
+                        23.238191
+                  ]
+            },
+            {
+                  "name": "Ti-n-Fedfedîten",
+                  "text": "Ez a zord hegycsúcs hozzájárul a Hoggar-masszívum vad szépségéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.504005,
+                        23.216738
+                  ]
+            },
+            {
+                  "name": "Tehareghet",
+                  "text": "Egy domináns hegycsúcs, amely a Hoggar-masszívum holdbéli táján található.",
+                  "category": "natural",
+                  "coords": [
+                        5.443583,
+                        23.237948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinra",
+                  "text": "Acest vârf de munte modelează peisajul muntos maiestuos al Masivului Hoggar din sudul Algeriei.",
+                  "category": "natural",
+                  "coords": [
+                        5.577874,
+                        23.23723
+                  ]
+            },
+            {
+                  "name": "Aouknet",
+                  "text": "Un vârf stâncos proeminent care se înalță în întinderile aride ale Masivului Hoggar.",
+                  "category": "natural",
+                  "coords": [
+                        5.590383,
+                        23.190256
+                  ]
+            },
+            {
+                  "name": "Tamehadjné",
+                  "text": "Acest vârf izolat este caracterizat de geologia vulcanică fascinantă a Masivului Hoggar.",
+                  "category": "natural",
+                  "coords": [
+                        5.562129,
+                        23.209047
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Această peșteră naturală oferă adăpost și priveliști ascunse în terenul accidentat al Masivului Hoggar.",
+                  "category": "landmark",
+                  "coords": [
+                        5.537012,
+                        23.238191
+                  ]
+            },
+            {
+                  "name": "Ti-n-Fedfedîten",
+                  "text": "Acest vârf de munte accidentat contribuie la frumusețea sălbatică a Masivului Hoggar.",
+                  "category": "natural",
+                  "coords": [
+                        5.504005,
+                        23.216738
+                  ]
+            },
+            {
+                  "name": "Tehareghet",
+                  "text": "Un vârf de munte dominant situat în peisajul lunar al Masivului Hoggar.",
+                  "category": "natural",
+                  "coords": [
+                        5.443583,
+                        23.237948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinra",
+                  "text": "This peak shapes the majestic mountainous landscape of the Hoggar Massif in southern Algeria.",
+                  "category": "natural",
+                  "coords": [
+                        5.577874,
+                        23.23723
+                  ]
+            },
+            {
+                  "name": "Aouknet",
+                  "text": "A prominent rocky peak rising in the arid expanses of the Hoggar Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.590383,
+                        23.190256
+                  ]
+            },
+            {
+                  "name": "Tamehadjné",
+                  "text": "This remote peak is characterized by the fascinating volcanic geology of the Hoggar Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.562129,
+                        23.209047
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "This natural cave offers shelter and hidden sights in the rugged terrain of the Hoggar Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.537012,
+                        23.238191
+                  ]
+            },
+            {
+                  "name": "Ti-n-Fedfedîten",
+                  "text": "This rugged mountain peak contributes to the wild beauty of the Hoggar Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.504005,
+                        23.216738
+                  ]
+            },
+            {
+                  "name": "Tehareghet",
+                  "text": "A dominant mountain peak located in the lunar-like landscape of the Hoggar Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.443583,
+                        23.237948
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DZ-11",
     coords: [5.5, 23.2],
@@ -46,7 +271,52 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
       fr: ["Massif montagneux volcanique dans le Sahara.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/hoggar-massif-relief-v2.webp"},
   {
-    id: "tassili-n-ajjer-relief-v2",
+    id: "tassili-n-ajjer-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Irekam / Rock City",
+                  "text": "Diese natürliche Felsenstadt besteht aus stark erodierten Sandsteintürmen im Tassili n'Ajjer.",
+                  "category": "landmark",
+                  "coords": [
+                        8.533956,
+                        25.459234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Irekam / Rock City",
+                  "text": "Ez a természetes sziklaváros erősen erodált homokkő oszlopokból áll a Tassili n'Ajjerben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.533956,
+                        25.459234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Irekam / Rock City",
+                  "text": "Acest oraș natural de stâncă este format din turnuri de gresie puternic erodate din Tassili n'Ajjer.",
+                  "category": "landmark",
+                  "coords": [
+                        8.533956,
+                        25.459234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Irekam / Rock City",
+                  "text": "This natural rock city is composed of heavily eroded sandstone towers in Tassili n'Ajjer.",
+                  "category": "landmark",
+                  "coords": [
+                        8.533956,
+                        25.459234
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DZ-33",
     coords: [8.5, 25.5],
@@ -89,7 +359,232 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
       fr: ["Un grand plateau dans le Sahara algérien, connu pour ses peintures rupestres.", "Situé sur le territoire de la République Algérienne Démocratique et Populaire.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/tassili-n-ajjer-relief-v2.webp"},
   {
-    id: "djebel-tahat-relief-v2",
+    id: "djebel-tahat-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tâlek",
+                  "text": "Dieser hohe Gipfel befindet sich im bergigen Relief rund um den Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.547334,
+                        23.281414
+                  ]
+            },
+            {
+                  "name": "Serdjat",
+                  "text": "Ein markanter Gipfel in der vulkanischen Berglandschaft nahe dem Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.560273,
+                        23.257769
+                  ]
+            },
+            {
+                  "name": "Jonction avec le mont Tahat",
+                  "text": "Diese Weggabelung markiert eine wichtige Route auf dem Weg zum höchsten Gipfel Algeriens, dem Mount Tahat.",
+                  "category": "landmark",
+                  "coords": [
+                        5.58173,
+                        23.251851
+                  ]
+            },
+            {
+                  "name": "Amdjer",
+                  "text": "Ein zerklüfteter Gipfel, der Teil der anspruchsvollen Landschaft rund um den Mount Tahat ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.452598,
+                        23.255497
+                  ]
+            },
+            {
+                  "name": "Ilamane",
+                  "text": "Einer der markantesten Gipfel in der schroffen Vulkanregion um den Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.516157,
+                        23.253707
+                  ]
+            },
+            {
+                  "name": "Éferi-n-Tehareghet",
+                  "text": "Dieser Wüstengipfel ragt aus dem felsigen Relief nahe dem Mount Tahat hervor.",
+                  "category": "natural",
+                  "coords": [
+                        5.434499,
+                        23.275885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tâlek",
+                  "text": "Ez a magas csúcs a Tahat-hegy körüli hegyvidéki domborzaton található.",
+                  "category": "natural",
+                  "coords": [
+                        5.547334,
+                        23.281414
+                  ]
+            },
+            {
+                  "name": "Serdjat",
+                  "text": "Egy feltűnő csúcs a Tahat-hegy közelében fekvő vulkáni hegyvidéki tájon.",
+                  "category": "natural",
+                  "coords": [
+                        5.560273,
+                        23.257769
+                  ]
+            },
+            {
+                  "name": "Jonction avec le mont Tahat",
+                  "text": "Ez az útelágazás egy fontos útvonalat jelöl Algéria legmagasabb csúcsa, a Tahat-hegy felé vezető úton.",
+                  "category": "landmark",
+                  "coords": [
+                        5.58173,
+                        23.251851
+                  ]
+            },
+            {
+                  "name": "Amdjer",
+                  "text": "Egy zord hegycsúcs, amely a Tahat-hegy körüli kihívást jelentő táj része.",
+                  "category": "natural",
+                  "coords": [
+                        5.452598,
+                        23.255497
+                  ]
+            },
+            {
+                  "name": "Ilamane",
+                  "text": "Az egyik legszembetűnőbb csúcs a Tahat-hegy körüli zord vulkáni régióban.",
+                  "category": "natural",
+                  "coords": [
+                        5.516157,
+                        23.253707
+                  ]
+            },
+            {
+                  "name": "Éferi-n-Tehareghet",
+                  "text": "Ez a sivatagi hegycsúcs a Tahat-hegy közelében lévő sziklás domborzatból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        5.434499,
+                        23.275885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tâlek",
+                  "text": "Acest vârf înalt este situat în relieful muntos din jurul Muntelui Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.547334,
+                        23.281414
+                  ]
+            },
+            {
+                  "name": "Serdjat",
+                  "text": "Un vârf proeminent în peisajul muntos vulcanic din apropierea Muntelui Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.560273,
+                        23.257769
+                  ]
+            },
+            {
+                  "name": "Jonction avec le mont Tahat",
+                  "text": "Această intersecție de trasee marchează o rută importantă pe drumul spre cel mai înalt vârf din Algeria, Muntele Tahat.",
+                  "category": "landmark",
+                  "coords": [
+                        5.58173,
+                        23.251851
+                  ]
+            },
+            {
+                  "name": "Amdjer",
+                  "text": "Un vârf accidentat care face parte din peisajul provocator din jurul Muntelui Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.452598,
+                        23.255497
+                  ]
+            },
+            {
+                  "name": "Ilamane",
+                  "text": "Unul dintre cele mai proeminente vârfuri din regiunea vulcanică accidentată din jurul Muntelui Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.516157,
+                        23.253707
+                  ]
+            },
+            {
+                  "name": "Éferi-n-Tehareghet",
+                  "text": "Acest vârf deșertic se înalță din relieful stâncos din apropierea Muntelui Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.434499,
+                        23.275885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tâlek",
+                  "text": "This high peak is located in the mountainous relief surrounding Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.547334,
+                        23.281414
+                  ]
+            },
+            {
+                  "name": "Serdjat",
+                  "text": "A prominent peak in the volcanic mountain landscape near Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.560273,
+                        23.257769
+                  ]
+            },
+            {
+                  "name": "Junction to Mount Tahat",
+                  "text": "This trail junction marks an important route on the way to Algeria's highest peak, Mount Tahat.",
+                  "category": "landmark",
+                  "coords": [
+                        5.58173,
+                        23.251851
+                  ]
+            },
+            {
+                  "name": "Amdjer",
+                  "text": "A rugged peak that forms part of the challenging landscape around Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.452598,
+                        23.255497
+                  ]
+            },
+            {
+                  "name": "Ilamane",
+                  "text": "One of the most prominent peaks in the rugged volcanic region around Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.516157,
+                        23.253707
+                  ]
+            },
+            {
+                  "name": "Éferi-n-Tehareghet",
+                  "text": "This desert peak rises from the rocky relief near Mount Tahat.",
+                  "category": "natural",
+                  "coords": [
+                        5.434499,
+                        23.275885
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DZ-11",
     coords: [5.5, 23.3],

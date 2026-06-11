@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraGuineabissauHistoryV2: POI[] = [
   {
-    id: "fortaleza-amura-history-v2",
+    id: "fortaleza-amura-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antiga Alfândega",
+                  "text": "Die historischen Ruinen des alten kolonialen Zollhauses in der Nähe der Uferpromenade.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578132,
+                        11.858725
+                  ]
+            },
+            {
+                  "name": "Antiga Casa Gouveia",
+                  "text": "Die bröckelnden Mauern eines einst wichtigen kolonialen Handels- und Wohngebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        -15.579047,
+                        11.858187
+                  ]
+            },
+            {
+                  "name": "Casa Gouveia",
+                  "text": "Das historische Fundament und die stehenden Ruinen eines bemerkenswerten portugiesischen Handelshauses.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580356,
+                        11.857898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antiga Alfândega",
+                  "text": "A régi gyarmati vámház történelmi romjai a vízpart közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578132,
+                        11.858725
+                  ]
+            },
+            {
+                  "name": "Antiga Casa Gouveia",
+                  "text": "Egy egykor fontos kereskedelmi és lakó funkciójú gyarmati épület omladozó falai.",
+                  "category": "historical",
+                  "coords": [
+                        -15.579047,
+                        11.858187
+                  ]
+            },
+            {
+                  "name": "Casa Gouveia",
+                  "text": "Egy figyelemre méltó portugál kereskedőház történelmi alapja és álló romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580356,
+                        11.857898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antiga Alfândega",
+                  "text": "Ruinele istorice ale vechii vămi coloniale din apropierea malului apei.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578132,
+                        11.858725
+                  ]
+            },
+            {
+                  "name": "Antiga Casa Gouveia",
+                  "text": "Zidurile prăbușite ale unei clădiri coloniale comerciale și rezidențiale odată importante.",
+                  "category": "historical",
+                  "coords": [
+                        -15.579047,
+                        11.858187
+                  ]
+            },
+            {
+                  "name": "Casa Gouveia",
+                  "text": "Fundația istorică și ruinele în picioare ale unei case comerciale portugheze notabile.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580356,
+                        11.857898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antiga Alfândega",
+                  "text": "The historical ruins of the old colonial customs house near the waterfront.",
+                  "category": "historical",
+                  "coords": [
+                        -15.578132,
+                        11.858725
+                  ]
+            },
+            {
+                  "name": "Antiga Casa Gouveia",
+                  "text": "The crumbling walls of a once-important commercial and residential colonial building.",
+                  "category": "historical",
+                  "coords": [
+                        -15.579047,
+                        11.858187
+                  ]
+            },
+            {
+                  "name": "Casa Gouveia",
+                  "text": "The historical foundation and standing ruins of a notable Portuguese trading house.",
+                  "category": "historical",
+                  "coords": [
+                        -15.580356,
+                        11.857898
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GW-BS",
     coords: [-15.580, 11.858],
@@ -255,7 +372,52 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
       fr: ["La construction commença en 1935 et fut officiellement inaugurée en 1950.", "La cathédrale est bâtie dans le style néoroman du modernisme portugais.", "Elle est le siège du diocèse catholique romain de Bissau.", "Les deux tours servent de point de repère pour le port.", "La cathédrale abrite une statue de la sainte patronne Nossa Senhora da Candelária.", "Le pape Jean-Paul II a visité la cathédrale lors de son voyage en Afrique en 1990."],
     }, image: "/poi-images/bissau-cathedral-history-v2.webp"},
   {
-    id: "cacheu-fort-history-v2",
+    id: "cacheu-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortaleza Português de Cacheu",
+                  "text": "Fortaleza Português de Cacheu ist ein historisches portugiesisches Fort in Cacheu.",
+                  "category": "castle",
+                  "coords": [
+                        -16.167269,
+                        12.277048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza Português de Cacheu",
+                  "text": "A Fortaleza Português de Cacheu egy történelmi portugál erőd Cacheu városában.",
+                  "category": "castle",
+                  "coords": [
+                        -16.167269,
+                        12.277048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza Português de Cacheu",
+                  "text": "Fortaleza Português de Cacheu este un fort portughez istoric situat în Cacheu.",
+                  "category": "castle",
+                  "coords": [
+                        -16.167269,
+                        12.277048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortaleza Português de Cacheu",
+                  "text": "Fortaleza Português de Cacheu is a historic Portuguese fort situated in Cacheu.",
+                  "category": "castle",
+                  "coords": [
+                        -16.167269,
+                        12.277048
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GW-CA",
     coords: [-16.165, 12.274],
@@ -382,7 +544,340 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
     }
   },
   {
-    id: "bolama-governor-palace-history-v2",
+    id: "bolama-governor-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Ilha das Cobras",
+                  "text": "Der Farol da Ilha das Cobras ist ein Küstenleuchtturm in der Nähe von Bolama.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.477984,
+                        11.638673
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "Das Monumento aos Aviadores Italianos ist ein historisches Denkmal in Bolama zu Ehren italienischer Flieger.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "Casa Pinto zeigt die architektonischen Ruinen eines ehemaligen Gebäudes in der Nähe des Gouverneurspalastes von Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "Die Ruinas de casa comercial sind die Überreste eines historischen Geschäftsgebäudes in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473839,
+                        11.578293
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "Banco Nacional Ultramarino / Hotel de Turismo besteht aus historischen institutionellen Ruinen in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475756,
+                        11.577268
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "Casa da família Nunes Correia sind die baulichen Ruinen eines ehemaligen Familienwohnsitzes in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47541,
+                        11.578769
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "Campo de aviação zeigt die verlassenen Ruinen eines alten Flugplatzes in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586365
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "Casa da Guarda e Prisão enthält die Ruinen eines historischen Wachhauses und Gefängnisses in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47404,
+                        11.576684
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "Ruinas de pavilhão hospitalar - Internamento sind die Überreste eines ehemaligen Krankenhauspavillons in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Ilha das Cobras",
+                  "text": "A Farol da Ilha das Cobras egy tengerparti világítótorony Bolama közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.477984,
+                        11.638673
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "A Monumento aos Aviadores Italianos egy történelmi emlékmű Bolamában, amely az olasz pilóták előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "A Casa Pinto egy egykori épület építészeti romjait mutatja be a bolamai kormányzói palota közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "A Ruinas de casa comercial egy történelmi kereskedelmi épület maradványai Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473839,
+                        11.578293
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "A Banco Nacional Ultramarino / Hotel de Turismo történelmi intézményi romokból áll Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475756,
+                        11.577268
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "A Casa da família Nunes Correia egy egykori családi ház szerkezeti romjai Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47541,
+                        11.578769
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "A Campo de aviação egy régi repülőtér elhagyatott romjait mutatja be Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586365
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "A Casa da Guarda e Prisão egy történelmi őrház és börtön romjait tartalmazza Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47404,
+                        11.576684
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "A Ruinas de pavilhão hospitalar - Internamento egy egykori kórházi fekvőbeteg-pavilon maradványai Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Ilha das Cobras",
+                  "text": "Farol da Ilha das Cobras este o structură a unui far de coastă situată lângă Bolama.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.477984,
+                        11.638673
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "Monumento aos Aviadores Italianos este un monument istoric din Bolama care onorează aviatorii italieni.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "Casa Pinto prezintă ruinele arhitecturale ale unei foste clădiri lângă palatul guvernatorului din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "Ruinas de casa comercial sunt rămășițele unei clădiri comerciale istorice din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473839,
+                        11.578293
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "Banco Nacional Ultramarino / Hotel de Turismo constă din ruine instituționale istorice din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475756,
+                        11.577268
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "Casa da família Nunes Correia sunt ruinele structurale ale unei foste reședințe familiale din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47541,
+                        11.578769
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "Campo de aviação prezintă ruinele abandonate ale unui vechi teren de aviație din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586365
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "Casa da Guarda e Prisão conține ruinele unui corp de gardă istoric și ale unei închisori din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47404,
+                        11.576684
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "Ruinas de pavilhão hospitalar - Internamento sunt rămășițele unui fost pavilion de spital din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Ilha das Cobras",
+                  "text": "Farol da Ilha das Cobras is a coastal lighthouse structure located near Bolama.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.477984,
+                        11.638673
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "Monumento aos Aviadores Italianos is a historical monument in Bolama honoring Italian aviators.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "Casa Pinto features the architectural ruins of a former building near the Bolama governor palace.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "Ruinas de casa comercial are the remnants of a historic commercial building in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473839,
+                        11.578293
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "Banco Nacional Ultramarino / Hotel de Turismo consists of historic institutional ruins in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475756,
+                        11.577268
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "Casa da família Nunes Correia are the structural ruins of a former family residence in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47541,
+                        11.578769
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "Campo de aviação features the abandoned ruins of an old aviation field in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586365
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "Casa da Guarda e Prisão contains the ruins of a historic guardhouse and prison in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47404,
+                        11.576684
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "Ruinas de pavilhão hospitalar - Internamento are the remains of a former hospital inpatient pavilion in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GW-BL",
     coords: [-15.480, 11.579],
@@ -579,7 +1074,52 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
     }
   },
   {
-    id: "cacheu-historic-center-history-v2",
+    id: "cacheu-historic-center-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Memorial da Escravatura e do Tráfico Negreiro de Cacheu",
+                  "text": "Dieses Museum dient als Gedenkstätte für die Geschichte des transatlantischen Sklavenhandels.",
+                  "category": "museum",
+                  "coords": [
+                        -16.165892,
+                        12.27774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Memorial da Escravatura e do Tráfico Negreiro de Cacheu",
+                  "text": "Ez a múzeum a transzatlanti rabszolgakereskedelem történetének szentelt emlékhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -16.165892,
+                        12.27774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memorial da Escravatura e do Tráfico Negreiro de Cacheu",
+                  "text": "Acest muzeu servește drept memorial dedicat istoriei comerțului transatlantic cu sclavi.",
+                  "category": "museum",
+                  "coords": [
+                        -16.165892,
+                        12.27774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial da Escravatura e do Tráfico Negreiro de Cacheu",
+                  "text": "This museum serves as a memorial dedicated to the history of the transatlantic slave trade.",
+                  "category": "museum",
+                  "coords": [
+                        -16.165892,
+                        12.27774
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GW-CA",
     coords: [-16.164, 12.275],

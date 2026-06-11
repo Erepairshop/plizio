@@ -2332,7 +2332,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             },
             {
                   "name": "Akademisches nationales Theater für Oper und Ballett Odessa",
-                  "text": "Das Nationale Akademische Opern- und Ballett-Theater Odessa ist eine Hauptattraktion in Odessa.",
+                  "text": "1887 eröffnetes Opern- und Balletttheater in Odesa.",
                   "category": "landmark",
                   "coords": [
                         30.741252,
@@ -2793,7 +2793,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             },
             {
                   "name": "Odeskyy natsionalnyy akademichnyy teatr opery ta baletu",
-                  "text": "Az Odesszai Nemzeti Akadémiai Opera- és Balettszínház az egyik legfőbb látványosság Odesszában.",
+                  "text": "1887-ben megnyílt opera- és balettszínház Odesszában.",
                   "category": "landmark",
                   "coords": [
                         30.741252,
@@ -3254,7 +3254,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             },
             {
                   "name": "Odeskyy natsionalnyy akademichnyy teatr opery ta baletu",
-                  "text": "Teatrul Național Academic de Operă și Balet din Odesa este o atracție majoră din Odesa.",
+                  "text": "Teatru de operă și balet deschis în 1887 în Odesa.",
                   "category": "landmark",
                   "coords": [
                         30.741252,
@@ -3715,7 +3715,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             },
             {
                   "name": "Odesa National Academic Theatre of Opera and Ballet",
-                  "text": "The Odesa National Academic Theatre of Opera and Ballet is a major attraction in Odessa.",
+                  "text": "Opera and ballet theatre opened in 1887 in Odesa.",
                   "category": "landmark",
                   "coords": [
                         30.741252,
@@ -21940,7 +21940,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Miskyy sad",
-                  "text": "Der Stadtgarten ist ein öffentlicher Park mit Grünflächen in Ismajil.",
+                  "text": "1900 angelegter Stadtgarten in Izmail.",
                   "category": "park",
                   "coords": [
                         28.833336,
@@ -21976,7 +21976,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Pokrovskyy sobor",
-                  "text": "Die Fürbitte-Kathedrale ist ein bedeutendes Gotteshaus in Ismajil.",
+                  "text": "1821 erbaute Kathedrale in Izmail.",
                   "category": "religious",
                   "coords": [
                         28.834237,
@@ -22131,7 +22131,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Miskyy sad",
-                  "text": "A Városkert egy zöldterületet kínáló nyilvános park Izmajilban.",
+                  "text": "1900-ban létesített városi kert Izmailban.",
                   "category": "park",
                   "coords": [
                         28.833336,
@@ -22167,7 +22167,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Pokrovskyy sobor",
-                  "text": "A Közbenjáró-székesegyház egy jelentős istentiszteleti hely Ismajilban.",
+                  "text": "1821-ben épült székesegyház Izmailban.",
                   "category": "religious",
                   "coords": [
                         28.834237,
@@ -22322,7 +22322,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Miskyy sad",
-                  "text": "Grădina Orașului este un parc public ce oferă un spațiu verde în Ismail.",
+                  "text": "Grădină orășenească amenajată în 1900 în Izmail.",
                   "category": "park",
                   "coords": [
                         28.833336,
@@ -22358,7 +22358,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Pokrovskyy sobor",
-                  "text": "Catedrala Acoperământul Maicii Domnului este un lăcaș de cult notabil din Ismail.",
+                  "text": "Catedrală construită în 1821 în Izmail.",
                   "category": "religious",
                   "coords": [
                         28.834237,
@@ -22513,7 +22513,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "City Garden",
-                  "text": "The City Garden is a public park offering a green space in Izmail.",
+                  "text": "City garden established in 1900 in Izmail.",
                   "category": "park",
                   "coords": [
                         28.833336,
@@ -22549,7 +22549,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Intercession Cathedral",
-                  "text": "The Intercession Cathedral is a notable place of worship located in Ismajil.",
+                  "text": "Cathedral built in 1821 in Izmail.",
                   "category": "religious",
                   "coords": [
                         28.834237,
@@ -26037,7 +26037,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Tserkva Blahovishchennya Prechystoi Divy Marii",
-                  "text": "Die Kirche Mariä Verkündigung ist eine anerkannte Kulturerbestätte und eine katholische Kirche in Stryj.",
+                  "text": "1894 erbaute Kirche in Stryi.",
                   "category": "landmark",
                   "coords": [
                         23.861999,
@@ -26165,7 +26165,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Tserkva Blahovishchennya Prechystoi Divy Marii",
-                  "text": "A Gyümölcsoltó Boldogasszony-templom elismert örökségi helyszín és katolikus templom Sztrijben.",
+                  "text": "1894-ben épült templom Stryiben.",
                   "category": "landmark",
                   "coords": [
                         23.861999,
@@ -26293,7 +26293,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Tserkva Blahovishchennya Prechystoi Divy Marii",
-                  "text": "Biserica Buna Vestire a Preasfintei Fecioare Maria este un sit de patrimoniu recunoscut și o biserică catolică în Strîi.",
+                  "text": "Biserică construită în 1894 în Stryi.",
                   "category": "landmark",
                   "coords": [
                         23.861999,
@@ -26421,7 +26421,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Church of the Annunciation of the Most Holy Virgin Mary",
-                  "text": "The Church of the Annunciation of the Most Holy Virgin Mary is a recognized heritage site and Catholic church in Stryj.",
+                  "text": "Church built in 1894 in Stryi.",
                   "category": "landmark",
                   "coords": [
                         23.861999,
@@ -31407,7 +31407,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Apteka-muzey Yohana Zeha",
-                  "text": "Johan Zegs Museum ist eine interessante historische Einrichtung in Boryslaw.",
+                  "text": "Am 27. Januar 2021 eröffnetes Museum in Boryslav.",
                   "category": "museum",
                   "coords": [
                         23.416668,
@@ -31499,7 +31499,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Apteka-muzey Yohana Zeha",
-                  "text": "Johan Zeg Múzeuma egy érdekes történelmi intézmény Boriszlavban.",
+                  "text": "2021. január 27-én megnyílt múzeum Boriszlavban.",
                   "category": "museum",
                   "coords": [
                         23.416668,
@@ -31591,7 +31591,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Apteka-muzey Yohana Zeha",
-                  "text": "Muzeul lui Johan Zeg este o instituție istorică interesantă situată în Boryslaw.",
+                  "text": "Muzeu deschis la 27 ianuarie 2021 în Boryslav.",
                   "category": "museum",
                   "coords": [
                         23.416668,
@@ -31683,7 +31683,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             },
             {
                   "name": "Johan Zeg's Museum",
-                  "text": "Johan Zeg's Museum is an interesting historical institution situated in Boryslaw.",
+                  "text": "Museum opened on 27 January 2021 in Boryslav.",
                   "category": "museum",
                   "coords": [
                         23.416668,
@@ -32591,7 +32591,232 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-vynohradiv-cities-v2", "sights": {"de": [{"name": "Vynohradivskyy istorychnyy muzey", "text": "Das Historische Museum von Wynohradiw präsentiert die regionale Geschichte und Kultur.", "category": "museum", "coords": [23.034018, 48.141284]}, {"name": "Vynohradivskyy zamok", "text": "Die Burg Kankiw ist eine mittelalterliche Festungsruine in Wynohradiw.", "category": "castle", "coords": [23.049991, 48.140913]}, {"name": "Frantsyskanskyy Monastyr", "text": "Das Franziskanerkloster in Wynohradiw ist ein bedeutendes religiöses Architekturdenkmal.", "category": "religious", "coords": [23.034176, 48.139872]}, {"name": "Palats Pereni", "text": "Das Perényi-Schloss ist ein eleganter Adelssitz in Wynohradiw.", "category": "historical", "coords": [23.043852, 48.138753]}, {"name": "Rozariy v dvori zelenhospu", "text": "Dieser Rosengarten in Wynohradiw ist für seine Vielfalt an Rosen bekannt.", "category": "park", "coords": [23.012798, 48.136748]}, {"name": "Vynohradivska miska rada", "text": "Das Rathaus von Wynohradiw ist das administrative Zentrum der Stadt.", "category": "historical", "coords": [23.036396, 48.141214]}], "hu": [{"name": "Vynohradivskyy istorychnyy muzey", "text": "A Nagyszőlősi Történeti Múzeum a régió történelmét és kultúráját mutatja be.", "category": "museum", "coords": [23.034018, 48.141284]}, {"name": "Kankó-vár romjai", "text": "A Kankó-vár egy középkori erődítmény romja Nagyszőlősön.", "category": "castle", "coords": [23.049991, 48.140913]}, {"name": "Frantsyskanskyy Monastyr", "text": "A nagyszőlősi ferences kolostor egy jelentős vallási építészeti emlék.", "category": "religious", "coords": [23.034176, 48.139872]}, {"name": "Perényi-kastély", "text": "A Perényi-kastély egy elegáns nemesi kúria Nagyszőlősön.", "category": "historical", "coords": [23.043852, 48.138753]}, {"name": "Rozariy v dvori zelenhospu", "text": "Ez a nagyszőlősi rózsakert a rózsák sokszínűségéről ismert.", "category": "park", "coords": [23.012798, 48.136748]}, {"name": "Vynohradivska miska rada", "text": "Nagyszőlős városháza a város adminisztratív központja.", "category": "historical", "coords": [23.036396, 48.141214]}], "ro": [{"name": "Vynohradivskyy istorychnyy muzey", "text": "Muzeul de Istorie din Vînohradiv prezintă istoria și cultura regională.", "category": "museum", "coords": [23.034018, 48.141284]}, {"name": "Vynohradivskyy zamok", "text": "Castelul Kankiv este o ruină de fortificație medievală din Vînohradiv.", "category": "castle", "coords": [23.049991, 48.140913]}, {"name": "Frantsyskanskyy Monastyr", "text": "Mănăstirea Franciscană din Vînohradiv este un monument de arhitectură religioasă important.", "category": "religious", "coords": [23.034176, 48.139872]}, {"name": "Palats Pereni", "text": "Palatul Perényi este un conac nobiliar elegant din Vînohradiv.", "category": "historical", "coords": [23.043852, 48.138753]}, {"name": "Rozariy v dvori zelenhospu", "text": "Această grădină de trandafiri din Vînohradiv este cunoscută pentru varietatea sa de trandafiri.", "category": "park", "coords": [23.012798, 48.136748]}, {"name": "Vynohradivska miska rada", "text": "Primăria din Vînohradiv este centrul administrativ al orașului.", "category": "historical", "coords": [23.036396, 48.141214]}], "en": [{"name": "Vynohradivskyy istorychnyy muzey", "text": "The Vynohradiv Historical Museum presents the regional history and culture.", "category": "museum", "coords": [23.034018, 48.141284]}, {"name": "Vynohradivskyy zamok", "text": "Kankiv Castle is a medieval fortification ruin in Vynohradiv.", "category": "castle", "coords": [23.049991, 48.140913]}, {"name": "Frantsyskanskyy Monastyr", "text": "The Franciscan Monastery in Vynohradiv is a significant religious architectural monument.", "category": "religious", "coords": [23.034176, 48.139872]}, {"name": "Palats Pereni", "text": "The Perényi Palace is an elegant noble residence in Vynohradiv.", "category": "historical", "coords": [23.043852, 48.138753]}, {"name": "Rozariy v dvori zelenhospu", "text": "This rosary in Vynohradiv is known for its variety of roses.", "category": "park", "coords": [23.012798, 48.136748]}, {"name": "Vynohradivska miska rada", "text": "Vynohradiv Town Hall is the administrative center of the city.", "category": "historical", "coords": [23.036396, 48.141214]}]},
+    id: "ukraine-vynohradiv-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vynohradivskyy istorychnyy muzey",
+                  "text": "Das Historische Museum von Wynohradiw präsentiert die regionale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        23.034018,
+                        48.141284
+                  ]
+            },
+            {
+                  "name": "Vynohradivskyy zamok",
+                  "text": "Im 14. Jahrhundert erbaute Burg in Vynohradiv.",
+                  "category": "castle",
+                  "coords": [
+                        23.049991,
+                        48.140913
+                  ]
+            },
+            {
+                  "name": "Frantsyskanskyy Monastyr",
+                  "text": "Das Franziskanerkloster in Wynohradiw ist ein bedeutendes religiöses Architekturdenkmal.",
+                  "category": "religious",
+                  "coords": [
+                        23.034176,
+                        48.139872
+                  ]
+            },
+            {
+                  "name": "Palats Pereni",
+                  "text": "Das Perényi-Schloss ist ein eleganter Adelssitz in Wynohradiw.",
+                  "category": "historical",
+                  "coords": [
+                        23.043852,
+                        48.138753
+                  ]
+            },
+            {
+                  "name": "Rozariy v dvori zelenhospu",
+                  "text": "Dieser Rosengarten in Wynohradiw ist für seine Vielfalt an Rosen bekannt.",
+                  "category": "park",
+                  "coords": [
+                        23.012798,
+                        48.136748
+                  ]
+            },
+            {
+                  "name": "Vynohradivska miska rada",
+                  "text": "Das Rathaus von Wynohradiw ist das administrative Zentrum der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        23.036396,
+                        48.141214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vynohradivskyy istorychnyy muzey",
+                  "text": "A Nagyszőlősi Történeti Múzeum a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.034018,
+                        48.141284
+                  ]
+            },
+            {
+                  "name": "Kankó-vár romjai",
+                  "text": "A 14. században épült vár Vynohradivban.",
+                  "category": "castle",
+                  "coords": [
+                        23.049991,
+                        48.140913
+                  ]
+            },
+            {
+                  "name": "Frantsyskanskyy Monastyr",
+                  "text": "A nagyszőlősi ferences kolostor egy jelentős vallási építészeti emlék.",
+                  "category": "religious",
+                  "coords": [
+                        23.034176,
+                        48.139872
+                  ]
+            },
+            {
+                  "name": "Perényi-kastély",
+                  "text": "A Perényi-kastély egy elegáns nemesi kúria Nagyszőlősön.",
+                  "category": "historical",
+                  "coords": [
+                        23.043852,
+                        48.138753
+                  ]
+            },
+            {
+                  "name": "Rozariy v dvori zelenhospu",
+                  "text": "Ez a nagyszőlősi rózsakert a rózsák sokszínűségéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        23.012798,
+                        48.136748
+                  ]
+            },
+            {
+                  "name": "Vynohradivska miska rada",
+                  "text": "Nagyszőlős városháza a város adminisztratív központja.",
+                  "category": "historical",
+                  "coords": [
+                        23.036396,
+                        48.141214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vynohradivskyy istorychnyy muzey",
+                  "text": "Muzeul de Istorie din Vînohradiv prezintă istoria și cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        23.034018,
+                        48.141284
+                  ]
+            },
+            {
+                  "name": "Vynohradivskyy zamok",
+                  "text": "Castel construit în secolul al XIV-lea în Vynohradiv.",
+                  "category": "castle",
+                  "coords": [
+                        23.049991,
+                        48.140913
+                  ]
+            },
+            {
+                  "name": "Frantsyskanskyy Monastyr",
+                  "text": "Mănăstirea Franciscană din Vînohradiv este un monument de arhitectură religioasă important.",
+                  "category": "religious",
+                  "coords": [
+                        23.034176,
+                        48.139872
+                  ]
+            },
+            {
+                  "name": "Palats Pereni",
+                  "text": "Palatul Perényi este un conac nobiliar elegant din Vînohradiv.",
+                  "category": "historical",
+                  "coords": [
+                        23.043852,
+                        48.138753
+                  ]
+            },
+            {
+                  "name": "Rozariy v dvori zelenhospu",
+                  "text": "Această grădină de trandafiri din Vînohradiv este cunoscută pentru varietatea sa de trandafiri.",
+                  "category": "park",
+                  "coords": [
+                        23.012798,
+                        48.136748
+                  ]
+            },
+            {
+                  "name": "Vynohradivska miska rada",
+                  "text": "Primăria din Vînohradiv este centrul administrativ al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        23.036396,
+                        48.141214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vynohradivskyy istorychnyy muzey",
+                  "text": "The Vynohradiv Historical Museum presents the regional history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        23.034018,
+                        48.141284
+                  ]
+            },
+            {
+                  "name": "Vynohradivskyy zamok",
+                  "text": "Castle built in the 14th century in Vynohradiv.",
+                  "category": "castle",
+                  "coords": [
+                        23.049991,
+                        48.140913
+                  ]
+            },
+            {
+                  "name": "Frantsyskanskyy Monastyr",
+                  "text": "The Franciscan Monastery in Vynohradiv is a significant religious architectural monument.",
+                  "category": "religious",
+                  "coords": [
+                        23.034176,
+                        48.139872
+                  ]
+            },
+            {
+                  "name": "Palats Pereni",
+                  "text": "The Perényi Palace is an elegant noble residence in Vynohradiv.",
+                  "category": "historical",
+                  "coords": [
+                        23.043852,
+                        48.138753
+                  ]
+            },
+            {
+                  "name": "Rozariy v dvori zelenhospu",
+                  "text": "This rosary in Vynohradiv is known for its variety of roses.",
+                  "category": "park",
+                  "coords": [
+                        23.012798,
+                        48.136748
+                  ]
+            },
+            {
+                  "name": "Vynohradivska miska rada",
+                  "text": "Vynohradiv Town Hall is the administrative center of the city.",
+                  "category": "historical",
+                  "coords": [
+                        23.036396,
+                        48.141214
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Wynohradiw", hu: "Nagyszőlős", ro: "Vinogradiv", en: "Vynohradiv"},

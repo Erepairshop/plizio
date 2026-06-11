@@ -141,7 +141,88 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     }
   },
   {
-    id: "roca-agua-ize-history-v2",
+    id: "roca-agua-ize-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boca do Inferno",
+                  "text": "Boca do Inferno ist eine dramatische Küstenattraktion, wo Ozeanwellen kraftvoll durch ein enges Blasloch krachen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.726335,
+                        0.213307
+                  ]
+            },
+            {
+                  "name": "Praia Izé",
+                  "text": "Praia Izé ist ein Küstenstrand in der Nähe der historischen Ruinen der Plantage Roça Água Izé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.72538,
+                        0.215799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boca do Inferno",
+                  "text": "A Boca do Inferno egy drámai tengerparti látványosság, ahol az óceán hullámai erőteljesen csapódnak át egy szűk fúvólyukon.",
+                  "category": "landmark",
+                  "coords": [
+                        6.726335,
+                        0.213307
+                  ]
+            },
+            {
+                  "name": "Praia Izé",
+                  "text": "A Praia Izé egy tengerparti strand, amely a Roça Água Izé ültetvény történelmi romjai közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        6.72538,
+                        0.215799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boca do Inferno",
+                  "text": "Boca do Inferno este o atracție de coastă spectaculoasă, unde valurile oceanului se sparg cu putere printr-o gură de evacuare îngustă.",
+                  "category": "landmark",
+                  "coords": [
+                        6.726335,
+                        0.213307
+                  ]
+            },
+            {
+                  "name": "Praia Izé",
+                  "text": "Praia Izé este o plajă de coastă situată în apropierea ruinelor istorice ale plantației Roça Água Izé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.72538,
+                        0.215799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boca do Inferno",
+                  "text": "Boca do Inferno is a dramatic coastal attraction where ocean waves crash powerfully through a narrow blowhole.",
+                  "category": "landmark",
+                  "coords": [
+                        6.726335,
+                        0.213307
+                  ]
+            },
+            {
+                  "name": "Praia Izé",
+                  "text": "Praia Izé is a coastal beach situated near the historic ruins of the Roça Água Izé plantation.",
+                  "category": "recreational",
+                  "coords": [
+                        6.72538,
+                        0.215799
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ST-02",
     coords: [6.729, 0.220],
@@ -279,7 +360,52 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     }
   },
   {
-    id: "roca-infante-d-henrique-history-v2",
+    id: "roca-infante-d-henrique-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho bietet weite Panoramen über das historische Plantagengelände und die üppigen umliegenden Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A Miradouro Terreiro Velho széles panorámát nyújt a történelmi ültetvény területére és a buja környező dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho oferă panorame ample asupra terenurilor istorice ale plantației și a dealurilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho offers sweeping panoramas across the historic plantation grounds and lush surrounding hills.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ST-P",
     coords: [7.423, 1.621],
@@ -969,7 +1095,52 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     }
   },
   {
-    id: "roca-novo-destino-history-v2",
+    id: "roca-novo-destino-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Das Kaffeemuseum ist in einer historischen Plantagenanlage untergebracht und dokumentiert die reiche Geschichte des lokalen Kaffeeanbaus.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "A Kávémúzeum egy történelmi ültetvénykomplexumban kapott helyet, és a helyi kávétermesztés gazdag történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Muzeul Cafelei este găzduit într-un complex istoric de plantații și detaliază istoria bogată a cultivării locale a cafelei.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "The Coffee Museum is housed in a historic plantation complex and details the rich history of local coffee cultivation.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ST-06",
     coords: [6.650, 0.300],
@@ -1107,7 +1278,52 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     }
   },
   {
-    id: "roca-vista-alegre-history-v2",
+    id: "roca-vista-alegre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto ist ein beliebter städtischer Sandstrand in der Nähe der Hauptstadt auf der Insel São Tomé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714187,
+                        0.362256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "A Praia Lagarto egy népszerű városi homokos strand a főváros közelében, São Tomé szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714187,
+                        0.362256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto este o plajă urbană populară cu nisip, situată în apropiere de capitala de pe insula São Tomé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714187,
+                        0.362256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto is a popular urban sandy beach located near the capital city on the island of São Tomé.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714187,
+                        0.362256
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ST-01",
     coords: [6.716, 0.350],

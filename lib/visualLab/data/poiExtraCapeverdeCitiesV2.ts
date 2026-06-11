@@ -2,7 +2,52 @@
 import type { POI } from "./poi";
 
 export const poiExtraCapeverdeCitiesV2: POI[] = [
-  {id: "praia-cities-v2", type: "state-capital", parent: "CV-PR", coords: [-23.5126, 14.9177], name: {de: "Praia", hu: "Praia", ro: "Praia", en: "Praia"},
+  {id: "praia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "Das Auditorio Nacional in Praia ist das größte Theater der Stadt und bietet eine elegante Bühne für kapverdische Musik- und Tanzaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.511997,
+                        14.917485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "A praiai Auditorio Nacional a város legnagyobb színháza, amely elegáns színpadot biztosít a Zöld-foki-szigetek zenei és táncelőadásainak.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.511997,
+                        14.917485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "Auditorio Nacional din Praia este cel mai mare teatru al orașului, oferind o scenă elegantă pentru spectacolele de muzică și dans din Capul Verde.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.511997,
+                        14.917485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "The Auditorio Nacional in Praia is the city's largest theatre, providing an elegant stage for Cape Verdean musical and dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.511997,
+                        14.917485
+                  ]
+            }
+      ]
+}, type: "state-capital", parent: "CV-PR", coords: [-23.5126, 14.9177], name: {de: "Praia", hu: "Praia", ro: "Praia", en: "Praia"},
     image: "/poi-images/praia-cities-v2.webp", description: {de: "Praia ist die Hauptstadt und größte Stadt von Kap Verde, auf der Insel Santiago gelegen.", hu: "Praia a Zöld-foki Köztársaság fovárosa és legnagyobb városa Santiago szigetén.", ro: "Praia este capitala ?i cel mai mare ora? din Capul Verde, situat pe insula Santiago.", en: "Praia is the capital and largest city of Cape Verde, located on Santiago island.", es: "Praia es la capital y la ciudad más grande de Cabo Verde, situada en la isla de Santiago.", pt: "Praia é a capital e maior cidade de Cabo Verde, situada na ilha de Santiago.", fr: "Praia est la capitale et la plus grande ville du Cap-Vert, située sur l'île de Santiago."}, facts: {de: ["Politisches und wirtschaftliches Zentrum des Landes", "Beherbergt den Nelson Mandela International Airport", "Sitz der Regierung und ausländischer Botschaften", "Wichtiger Hafen für den internationalen Handel"], hu: ["Az ország politikai és gazdasági központja", "Itt található a Nelson Mandela nemzetközi repülotér", "A kormány és a külföldi nagykövetségek székhelye", "Fontos kiköto a nemzetközi kereskedelem számára"], ro: ["Centrul politic ?i economic al ?arii", "Gazduiește Aeroportul Internațional Nelson Mandela", "Sediul guvernului ?i al ambasadelor straine", "Port important pentru comer?ul internațional"], en: ["Political and economic center of the country", "Home to the Nelson Mandela International Airport", "Seat of the government and foreign embassies", "Major port for international trade"], es: ["Centro político y económico del país", "Alberga el Aeropuerto Internacional Nelson Mandela", "Sede del gobierno y de embajadas extranjeras", "Puerto importante para el comercio internacional"], pt: ["Centro político e económico do país", "Alberga o Aeroporto Internacional Nelson Mandela", "Sede do governo e de embaixadas estrangeiras", "Porto importante para o comércio internacional"], fr: ["Centre politique et économique du pays", "Abrite l'aéroport international Nelson Mandela", "Siège du gouvernement et des ambassades étrangères", "Port important pour le commerce international"]}, image: "/poi-images/praia-cities-v2.webp",
     descriptionAdvanced: {
       de: "Praia, die lebhafte Hauptstadt der Republik Kap Verde, liegt an der Südküste der Insel Santiago und ist das politische, wirtschaftliche und kulturelle Herz des Archipels. Die Stadt wurde im frühen 17. Jahrhundert gegründet und löste 1858 Ribeira Grande (das heutige Cidade Velha) als Hauptstadt ab, vor allem aufgrund ihrer besseren Verteidigungslage und des Hafens. Das historische Zentrum der Stadt befindet sich auf dem 'Platô', einer vulkanischen Hochebene mit Blick auf den Atlantik, wo sich die meisten Verwaltungsgebäude aus der Kolonialzeit, wie der Präsidentenpalast und das Rathaus, befinden. Praia hat in den letzten Jahrzehnten ein explosives Wachstum erlebt und sich weit über das ursprüngliche Plateau hinaus in moderne Stadtteile wie Achada Santo António und Palmarejo ausgebreitet. Die Wirtschaft wird vom Dienstleistungssektor, dem Hafenbetrieb und der staatlichen Verwaltung dominiert, wobei der internationale Flughafen Nelson Mandela die Stadt mit Afrika, Europa und Amerika verbindet. Kulturell ist Praia ein Schmelztiegel afrikanischer und europäischer Einflüsse, was sich besonders in der Musikszene widerspiegelt; die Stadt ist ein Zentrum für Morna, Funaná und Batuku. Das Quartel de Jaime Mota und die Kathedrale Nossa Senhora da Graça sind wichtige architektonische Zeugen der Vergangenheit. Trotz der Herausforderungen durch schnelle Urbanisierung bietet die Stadt eine hohe Lebensqualität mit lebendigen Märkten wie dem Mercado de Sucupira, wo das tägliche Leben in seiner ganzen Farbenpracht pulsiert. Als Sitz der Regierung und zahlreicher internationaler Organisationen spielt Praia eine Schlüsselrolle in der regionalen Diplomatie Westafrikas. Die demographische Struktur ist geprägt von einer jungen, dynamischen Bevölkerung, die den Übergang Kap Verdes zu einer modernen Dienstleistungsgesellschaft vorantreibt.",
@@ -626,7 +671,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Siège de la municipalité de São Miguel.", "Située sur la côte nord-est de Santiago.", "Les principales sources de revenus sont la pêche et l'agriculture.", "Population d'environ 3 000 personnes.", "Le port est utilisé par de petits bateaux de pêche.", "Entourée de vallées exploitées pour l'agriculture."],
     },
   },
-  {id: "picos-cities-v2", type: "city", parent: "CV-SS", coords: [-23.6333, 15.0833], name: {de: "Picos", hu: "Picos", ro: "Picos", en: "Picos"},
+  {id: "picos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro de Alta Bossa",
+                  "text": "Ein malerischer Aussichtspunkt an der Straße, der einen Panoramablick auf die tief eingeschnittenen, landwirtschaftlichen Täler von Santiago bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -23.625578,
+                        15.074201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro de Alta Bossa",
+                  "text": "Festői útmenti kilátó, ahonnan panorámás kilátás nyílik Santiago mélyen barázdált, mezőgazdasági völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -23.625578,
+                        15.074201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro de Alta Bossa",
+                  "text": "Un punct de belvedere pitoresc de pe marginea drumului, oferind vederi panoramice ale văilor agricole adânc sculptate ale insulei Santiago.",
+                  "category": "natural",
+                  "coords": [
+                        -23.625578,
+                        15.074201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro de Alta Bossa",
+                  "text": "A scenic roadside overlook offering panoramic views of Santiago's deeply carved, agricultural valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -23.625578,
+                        15.074201
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SS", coords: [-23.6333, 15.0833], name: {de: "Picos", hu: "Picos", ro: "Picos", en: "Picos"},
     image: "/poi-images/picos-cities-v2.webp", description: {de: "Picos, auch bekannt als Achada Igreja, ist der Sitz der Gemeinde São Salvador do Mundo.", hu: "Picos, más néven Achada Igreja, São Salvador do Mundo község székhelye.", ro: "Picos, cunoscut ?i sub numele de Achada Igreja, este re?edin?a municipiului São Salvador do Mundo.", en: "Picos, also known as Achada Igreja, is the seat of the São Salvador do Mundo municipality.", es: "Picos, también conocida como Achada Igreja, es la sede del municipio de São Salvador do Mundo.", pt: "Picos, também conhecida como Achada Igreja, é a sede do município de São Salvador do Mundo.", fr: "Picos, également connue sous le nom d'Achada Igreja, est le siège de la municipalité de l'île de São Salvador do Mundo."}, facts: {de: ["Gelegen im gebirgigen Landesinneren von Santiago", "Zentrum einer bedeutenden Agrarregion", "Sitz der lokalen Verwaltung", "Traditionelle Architektur prägt das Stadtbild"], hu: ["Santiago hegyvidéki belsejében található", "Egy jelentos mezogazdasági régió központja", "A helyi közigazgatás székhelye", "A városképet hagyományos építészet jellemzi"], ro: ["Situat în interiorul muntos al insulei Santiago", "Centrul unei regiuni agricole importante", "Sediul administrației locale", "Arhitectura tradiționala caracterizeaza orașul"], en: ["Located in the mountainous interior of Santiago", "Center of an important agricultural region", "Seat of the local administration", "Traditional architecture characterizes the townscape"], es: ["Situada en el interior montañoso de Santiago", "Centro de una importante región agrícola", "Sede de la administración local", "La arquitectura tradicional define el paisaje urbano"], pt: ["Situada no interior montanhoso de Santiago", "Centro de uma importante região agrícola", "Sede da administração local", "A arquitetura tradicional marca a imagem da cidade"], fr: ["Située dans l'arrière-pays montagneux de Santiago", "Centre d'une importante région agricole", "Siège de l'administration locale", "L'architecture traditionnelle marque le paysage urbain"]}, image: "/poi-images/picos-cities-v2.webp",
     descriptionAdvanced: {
       de: "Picos, auch bekannt als Achada Igreja, ist der Verwaltungssitz der Gemeinde São Salvador do Mundo im Landesinneren der Insel Santiago. Die Stadt liegt in einer dramatischen Gebirgslandschaft auf einer Höhe von etwa 400 Metern, umgeben von steilen Gipfeln und tiefen Tälern. Aufgrund seiner zentralen Lage in den Bergen spielt Picos eine wichtige Rolle als landwirtschaftliches Versorgungszentrum für die Region, in der vor allem Grundnahrungsmittel wie Mais und Bohnen unter regenabhängigen Bedingungen angebaut werden. Historisch war die Region ein Rückzugsort für Sklaven, die aus den Küstengebieten flohen, was die lokale Kultur und den starken Gemeinschaftsgeist geprägt hat. Die Architektur von Picos ist schlicht und wird von der zentralen Kirche São Salvador do Mundo dominiert. Die Stadt bietet spektakuläre Ausblicke auf das Umland und ist ein Ausgangspunkt für Wanderungen zum Pico de Antónia, dem höchsten Berg der Insel. Trotz begrenzter Ressourcen bleibt Picos ein wichtiger Knotenpunkt für die ländliche Entwicklung im Herzen Santiagos.",
@@ -3273,6 +3363,33 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         7.371496,
                         1.658931
                   ]
+            },
+            {
+                  "name": "Miradouro para as Fontainhas",
+                  "text": "Dieser Aussichtspunkt bietet einen spektakulären Blick auf das an den Klippen gelegene Dorf Fontainhas in der Nähe von Ponta do Sol.",
+                  "category": "natural",
+                  "coords": [
+                        -25.102124,
+                        17.189739
+                  ]
+            },
+            {
+                  "name": "Farol",
+                  "text": "Der Leuchtturm von Ponta do Sol weist Schiffen den Weg entlang der rauen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.089543,
+                        17.204131
+                  ]
+            },
+            {
+                  "name": "Praia de Copacabana",
+                  "text": "Die Praia de Copacabana in Ponta do Sol ist ein lokaler Küstenabschnitt am Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.091082,
+                        17.204536
+                  ]
             }
       ],
       "hu": [
@@ -3283,6 +3400,33 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         7.371496,
                         1.658931
+                  ]
+            },
+            {
+                  "name": "Miradouro para as Fontainhas",
+                  "text": "Ez a kilátó lenyűgöző kilátást nyújt a sziklákra épült Fontainhas falura Ponta do Sol közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -25.102124,
+                        17.189739
+                  ]
+            },
+            {
+                  "name": "Farol",
+                  "text": "A Ponta do Sol világítótornya utat mutat a hajóknak a zord partvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.089543,
+                        17.204131
+                  ]
+            },
+            {
+                  "name": "Praia de Copacabana",
+                  "text": "A Ponta do Sol-i Praia de Copacabana egy helyi partszakasz az Atlanti-óceánnál.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.091082,
+                        17.204536
                   ]
             }
       ],
@@ -3295,6 +3439,33 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         7.371496,
                         1.658931
                   ]
+            },
+            {
+                  "name": "Miradouro para as Fontainhas",
+                  "text": "Acest punct de belvedere oferă o vedere spectaculoasă asupra satului Fontainhas, așezat pe stânci, în apropiere de Ponta do Sol.",
+                  "category": "natural",
+                  "coords": [
+                        -25.102124,
+                        17.189739
+                  ]
+            },
+            {
+                  "name": "Farol",
+                  "text": "Farul din Ponta do Sol ghidează navele de-a lungul coastei stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.089543,
+                        17.204131
+                  ]
+            },
+            {
+                  "name": "Praia de Copacabana",
+                  "text": "Praia de Copacabana din Ponta do Sol este o porțiune de coastă locală la Oceanul Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.091082,
+                        17.204536
+                  ]
             }
       ],
       "en": [
@@ -3305,6 +3476,33 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         7.371496,
                         1.658931
+                  ]
+            },
+            {
+                  "name": "Miradouro para as Fontainhas",
+                  "text": "This viewpoint provides a spectacular look at the cliffside village of Fontainhas near Ponta do Sol.",
+                  "category": "natural",
+                  "coords": [
+                        -25.102124,
+                        17.189739
+                  ]
+            },
+            {
+                  "name": "Farol",
+                  "text": "The lighthouse at Ponta do Sol guides vessels along the rugged coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.089543,
+                        17.204131
+                  ]
+            },
+            {
+                  "name": "Praia de Copacabana",
+                  "text": "Praia de Copacabana in Ponta do Sol is a local coastal stretch along the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.091082,
+                        17.204536
                   ]
             }
       ]
@@ -3395,7 +3593,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Siège de l'administration municipale de Paul.", "Situé sur l'île de Santo Antão.", "La population est d'environ 1 300 personnes.", "Embouchure de la rivière Ribeira do Paul.", "Connu pour la production de grogue.", "Cœur historique avec des bâtiments coloniaux."],
     },
   },
-  {id: "coculi-cities-v2", type: "city", parent: "CV-RG", coords: [-25.0917, 17.1667], name: {de: "Coculi", hu: "Coculi", ro: "Coculi", en: "Coculi"},
+  {id: "coculi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Delgadim",
+                  "text": "Der Aussichtspunkt Delgadim auf einem schmalen Grat bietet spektakuläre Ausblicke in der Region Coculi.",
+                  "category": "natural",
+                  "coords": [
+                        -25.084793,
+                        17.151007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Delgadim",
+                  "text": "A keskeny hegygerincen található Delgadim kilátó látványos panorámát nyújt Coculi régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -25.084793,
+                        17.151007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Delgadim",
+                  "text": "Punctul de belvedere Delgadim de pe o creastă îngustă oferă vederi spectaculoase în regiunea Coculi.",
+                  "category": "natural",
+                  "coords": [
+                        -25.084793,
+                        17.151007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Delgadim",
+                  "text": "The Delgadim viewpoint on a narrow ridge offers spectacular vistas in the Coculi region.",
+                  "category": "natural",
+                  "coords": [
+                        -25.084793,
+                        17.151007
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-RG", coords: [-25.0917, 17.1667], name: {de: "Coculi", hu: "Coculi", ro: "Coculi", en: "Coculi"},
     image: "/poi-images/coculi-cities-v2.webp", description: {de: "Coculi ist ein bedeutendes landwirtschaftliches Dorf im Inneren von Santo Antão.", hu: "Coculi egy jelentos mezogazdasági falu Santo Antão belsejében.", ro: "Coculi este un sat agricol important din interiorul insulei Santo Antão.", en: "Coculi is a significant agricultural village in the interior of Santo Antão.", es: "Coculi es un importante pueblo agrícola en el interior de Santo Antão.", pt: "Coculi é uma importante aldeia agrícola no interior de Santo Antão.", fr: "Coculi est un village agricole important à l'intérieur de Santo Antão."}, facts: {de: ["Gelegen am Zusammenfluss zweier Täler", "Bekannt für seine fruchtbaren terrassierten Felder", "Beherbergt die markante Kirche Santo António", "Zentrum des Gemüse- und Obstanbaus"], hu: ["Két völgy találkozásánál fekszik", "Termékeny teraszos földjeirol ismert", "Itt található a jellegzetes Santo António templom", "A zöldség- és gyümölcstermesztés központja"], ro: ["Situat la confluen?a a doua vai", "Cunoscut pentru câmpurile sale terasate fertile", "Gazduiește biserica distinctiva Santo António", "Centrul cultivarii legumelor ?i fructelor"], en: ["Located at the confluence of two valleys", "Known for its fertile terraced fields", "Home to the striking Santo António church", "Center of vegetable and fruit cultivation"], es: ["Situado en la confluencia de dos valles", "Conocido por sus fértiles campos en terrazas", "Alberga la distintiva iglesia de Santo António", "Centro del cultivo de hortalizas y frutas"], pt: ["Situado na confluência de dois vales", "Conhecido pelos seus férteis campos em socalcos", "Abriga a distinta igreja de Santo António", "Centro do cultivo de legumes e fruta"], fr: ["Situé au confluent de deux vallées", "Connu pour ses champs fertiles en terrasses", "Abrite l'église distinctive de Santo António", "Centre de la culture maraîchère et fruitière"]}, image: "/poi-images/coculi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Coculi ist ein idyllisches Dorf im Landesinneren der Insel Santo Antão, gelegen im oberen Teil des Ribeira Grande Tals. Der Ort ist eingebettet in eine dramatische Bergkulisse und umgeben von üppiger Vegetation, die durch das ganzjährig fließende Wasser des Flusses begünstigt wird. Coculi ist bekannt für seine traditionelle Steinarchitektur und die terrassierten Felder, auf denen Grundnahrungsmittel wie Mais, Bohnen und Maniok sowie tropische Früchte angebaut werden. Die Dorfkirche, die den heiligen Petrus ehrt, ist ein markanter Mittelpunkt der Gemeinde und zeugt von der tiefen religiösen Verwurzelung der Bewohner. Das Dorf liegt an einer der wichtigsten Verbindungsstraßen, die den Norden der Insel mit dem Hochplateau verbinden, und dient oft als Rastplatz für Reisende. Aufgrund der abgeschiedenen Lage hat sich in Coculi ein sehr authentischer Lebensstil erhalten, der stark von den Zyklen der Landwirtschaft geprägt ist. Für Wanderer bietet die Umgebung zahlreiche Pfade, die durch tief eingeschnittene Täler und über steile Grate zu abgelegenen Weilern führen.",
@@ -4571,7 +4814,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Fait partie des communautés du 'Norte'", "Population d'environ 240 habitants", "Connu pour la production de fromage de chèvre", "Célébration de la fête de São João Baptista en juin", "Façades de maisons richement colorées", "Centre de l'élevage à Boa Vista"],
     },
   },
-  {id: "cabeca-dos-tarrafes-cities-v2", type: "city", parent: "CV-BV", coords: [-22.75, 16.1167], name: {de: "Cabeça dos Tarrafes", hu: "Cabeça dos Tarrafes", ro: "Cabeça dos Tarrafes", en: "Cabeça dos Tarrafes"},
+  {id: "cabeca-dos-tarrafes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odjo d’Mar",
+                  "text": "Odjo d’Mar ist ein malerischer Aussichtspunkt mit weitem Blick auf die Küste nahe cabeca-dos-tarrafes-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.747503,
+                        16.107692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odjo d’Mar",
+                  "text": "Az Odjo d’Mar egy festői kilátó, amely széles tengerparti kilátást nyújt cabeca-dos-tarrafes-cities-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -22.747503,
+                        16.107692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odjo d’Mar",
+                  "text": "Odjo d’Mar este un punct de belvedere pitoresc, care oferă vederi panoramice ale coastei lângă cabeca-dos-tarrafes-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.747503,
+                        16.107692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odjo d’Mar",
+                  "text": "Odjo d’Mar is a scenic viewpoint offering sweeping coastal or landscape vistas near cabeca-dos-tarrafes-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -22.747503,
+                        16.107692
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-BV", coords: [-22.75, 16.1167], name: {de: "Cabeça dos Tarrafes", hu: "Cabeça dos Tarrafes", ro: "Cabeça dos Tarrafes", en: "Cabeça dos Tarrafes"},
     image: "/poi-images/cabeca-dos-tarrafes-cities-v2.webp", description: {de: "Cabeça dos Tarrafes ist das östlichste Dorf der Insel Boa Vista.", hu: "Cabeça dos Tarrafes Boa Vista szigetének legkeletibb faluja.", ro: "Cabeça dos Tarrafes este cel mai estic sat de pe insula Boa Vista.", en: "Cabeça dos Tarrafes is the easternmost village on Boa Vista island.", es: "Cabeça dos Tarrafes es el pueblo más oriental de la isla de Boa Vista.", pt: "Cabeça dos Tarrafes é a aldeia mais oriental da ilha da Boa Vista.", fr: "Cabeça dos Tarrafes est le village le plus oriental de l'île de Boa Vista."}, facts: {de: ["Gelegen in einer abgelegenen, wilden Landschaft", "Traditionelle Landwirtschaft und Viehzucht", "Eingebettet in vulkanische Bergformationen", "Ort der Ruhe und Stille"], hu: ["Egy távoli, vad tájon fekszik", "Hagyományos mezogazdaság és állattenyésztés", "Vulkáni hegyvonulatok közé ékelodve", "A nyugalom és a csend helye"], ro: ["Situat într-un peisaj izolat ?i salbatic", "Agricultura tradiționala ?i creșterea animalelor", "Cuibarit în formațiuni muntoase vulcanice", "Loc de liniște ?i pace"], en: ["Located in a remote, wild landscape", "Traditional agriculture and livestock farming", "Nestled in volcanic mountain formations", "Place of peace and silence"], es: ["Situado en un paisaje remoto y salvaje", "Agricultura y ganadería tradicional", "Inmerso en formaciones montañosas volcánicas", "Lugar de paz y silencio"], pt: ["Situado numa paisagem remota e selvagem", "Agricultura e pecuária tradicional", "Inserido em formações montanhosas vulcânicas", "Local de paz e silêncio"], fr: ["Situé dans un paysage reculé et sauvage", "Agriculture et élevage traditionnels", "Niché dans des formations montagneuses volcaniques", "Lieu de paix et de silence"]}, image: "/poi-images/cabeca-dos-tarrafes-cities-v2.webp",
     descriptionAdvanced: {
       de: "Cabeça dos Tarrafes ist eine abgelegene und authentische Siedlung im äußersten Nordosten von Boa Vista. Das Dorf liegt in einer rauen, halbwüstenartigen Umgebung und bildet zusammen mit Fundo das Figueiras und João Galego die Region Norte. Der Name des Dorfes leitet sich von den Tarrafe-Bäumen ab, einer lokalen Art von Tamarisken, die in den trockenen Tälern der Region gedeihen. Die Lebensweise der Bewohner ist stark von Traditionen geprägt, wobei die Viehzucht, insbesondere von Ziegen und Eseln, sowie die kleinbäuerliche Landwirtschaft im Vordergrund stehen. Die Architektur ist schlicht und funktional, mit Steinhäusern, die dem heißen Klima trotzen. Cabeça dos Tarrafes ist ein Ort der absoluten Ruhe und bietet Besuchern einen Einblick in das traditionelle kapverdische Landleben abseits jeglicher touristischer Infrastruktur. Die Umgebung ist ideal für Wanderungen durch die einsame Hügellandschaft und bietet spektakuläre Ausblicke auf den unberührten Nordatlantik, der nur wenige Kilometer entfernt gegen die felsige Küste brandet.",
@@ -5018,7 +5306,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["L'un des trois villages du 'Norte'", "Population d'environ 120 habitants", "Centre de l'artisanat local", "Rôle important dans les fêtes folkloriques régionales", "Caractérisé par l'élevage paysan", "Préservation des coutumes traditionnelles cap-verdiennes"],
     },
   },
-  {id: "ribeira-brava-cities-v2", type: "city", parent: "CV-RB", coords: [-24.3, 16.6167], name: {de: "Ribeira Brava", hu: "Ribeira Brava", ro: "Ribeira Brava", en: "Ribeira Brava"},
+  {id: "ribeira-brava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antigo Seminário",
+                  "text": "Das Antigo Seminário in Ribeira Brava ist ein beeindruckendes historisches Gebäude, das ehemals als Priesterseminar diente und heute durch seine koloniale Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antigo Seminário",
+                  "text": "A Ribeira Brava-i Antigo Seminário egy lenyűgöző történelmi épület, amely egykor papneveldeként működött, ma pedig gyarmati építészetével nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antigo Seminário",
+                  "text": "Antigo Seminário din Ribeira Brava este o clădire istorică impresionantă, fost seminar teologic, care atrage astăzi prin arhitectura sa colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antigo Seminário",
+                  "text": "The Antigo Seminário in Ribeira Brava is an impressive historical building that formerly served as a seminary, notable today for its colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-RB", coords: [-24.3, 16.6167], name: {de: "Ribeira Brava", hu: "Ribeira Brava", ro: "Ribeira Brava", en: "Ribeira Brava"},
     image: "/poi-images/ribeira-brava-cities-v2.webp", description: {de: "Ribeira Brava ist das historische und administrative Zentrum der Insel São Nicolau.", hu: "Ribeira Brava São Nicolau történelmi és adminisztratív központja.", ro: "Ribeira Brava este centrul istoric ?i administrativ al insulei São Nicolau.", en: "Ribeira Brava is the historical and administrative center of São Nicolau island.", es: "Ribeira Brava es el centro histórico y administrativo de la isla de São Nicolau.", pt: "Ribeira Brava é o centro histórico e administrativo da ilha de São Nicolau.", fr: "Ribeira Brava est le centre historique et administratif de l'île de São Nicolau."}, facts: {de: ["Gelegen in einem tiefen, engen Tal", "Bekannt für seine gut erhaltenen Kolonialbauten", "Wichtiger Ort für Bildung und Kultur", "Beherbergt die Kathedrale von São Nicolau"], hu: ["Egy mély, szuk völgyben fekszik", "Jól megorzött gyarmati épületeirol ismert", "Az oktatás és kultúra fontos helyszíne", "Itt található a São Nicolau-székesegyház"], ro: ["Situat într-o vale adânca ?i îngusta", "Cunoscut pentru cladirile sale coloniale bine conservate", "Loc important pentru educație ?i cultura", "Gazduiește Catedrala din São Nicolau"], en: ["Located in a deep, narrow valley", "Known for its well-preserved colonial buildings", "Important place for education and culture", "Home to the Cathedral of São Nicolau"], es: ["Situada en un valle profundo y estrecho", "Conocida por sus edificios coloniales bien conservados", "Lugar importante para la educación y la cultura", "Alberga la catedral de São Nicolau"], pt: ["Situada num vale profundo e estreito", "Conhecida pelos seus edifícios coloniais bem preservados", "Local importante para a educação e cultura", "Alberga a catedral de São Nicolau"], fr: ["Située dans une vallée profonde et étroite", "Connue pour ses bâtiments coloniaux bien conservés", "Lieu important pour l'éducation et la culture", "Abrite la cathédrale de São Nicolau"]}, image: "/poi-images/ribeira-brava-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ribeira Brava ist der Hauptort der Insel São Nicolau und liegt eingebettet in ein tiefes, enges Tal im Zentrum der Insel. Die Stadt wurde im 17. Jahrhundert gegründet, um die Bewohner vor den ständigen Piratenüberfällen an der Küste zu schützen. Ribeira Brava ist ein bedeutendes kulturelles und religiöses Zentrum der Kapverden und beherbergt das erste Priesterseminar Westafrikas, das im 19. Jahrhundert gegründet wurde und viele Intellektuelle des Archipels hervorbrachte. Die Architektur ist geprägt von kolonialen Gebäuden, gepflasterten Straßen und der imposanten Kirche Nossa Senhora do Rosário. Aufgrund der steilen Topographie ist die Stadt sehr kompakt gebaut, was ihr eine besondere Atmosphäre verleiht. Die Umgebung ist vergleichsweise grün und bietet Möglichkeiten für den Anbau von Zuckerrohr, Bananen und Kaffee in den fruchtbaren Talsohlen. Als administratives Zentrum der Insel vereint Ribeira Brava Geschichte, Bildung und Tradition und bleibt ein wichtiger Bezugspunkt für die kulturelle Identität der Inselbewohner.",

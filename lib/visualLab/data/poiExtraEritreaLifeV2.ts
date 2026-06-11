@@ -38,7 +38,124 @@ export const poiExtraEritreaLifeV2: POI[] = [
       fr: ["Gash-Barka est, avec 33 000 km², la plus grande région administrative de l'Érythrée.", "Aligider était déjà un centre de projets cotonniers coloniaux en 1928.", "La région produit plus de 70 % de la récolte nationale de coton.", "Des canaux d'irrigation acheminent l'eau de la rivière Gash vers les champs.", "La période de récolte se situe généralement entre octobre et janvier.", "Les usines textiles locales d'Asmara transforment le coton brut."],
     }, image: "/poi-images/gash-barka-cotton-life-v2.webp"},
   {
-    id: "asmara-children-park-life-v2",
+    id: "asmara-children-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Francisco",
+                  "text": "Das San-Francisco-Denkmal nahe dem Kinderpark von Asmara bietet ein markantes künstlerisches Wahrzeichen innerhalb der belebten Erholungszonen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        38.929547,
+                        15.326384
+                  ]
+            },
+            {
+                  "name": "titi Internet cafe",
+                  "text": "Das Titi Internetcafé dient als belebter lokaler Treffpunkt, an dem sich Besucher und Einheimische in der lebhaften Umgebung von Asmara vernetzen.",
+                  "category": "landmark",
+                  "coords": [
+                        38.929341,
+                        15.328406
+                  ]
+            },
+            {
+                  "name": "Shida Monument",
+                  "text": "Das Shida-Denkmal in Asmara zeigt ein riesiges Paar Bronzesandalen, das das Schuhwerk der eritreischen Freiheitskämpfer während des Unabhängigkeitskampfes symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        38.930163,
+                        15.331996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Francisco",
+                  "text": "Az asmarai gyermekpark közelében található San Francisco-emlékmű egy feltűnő művészeti tájékozódási pont a város nyüzsgő rekreációs övezeteiben.",
+                  "category": "historical",
+                  "coords": [
+                        38.929547,
+                        15.326384
+                  ]
+            },
+            {
+                  "name": "titi Internet cafe",
+                  "text": "A Titi internetkávézó nyüzsgő helyi központként szolgál, ahol a látogatók és a lakosok találkozhatnak Asmara nyüzsgő környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.929341,
+                        15.328406
+                  ]
+            },
+            {
+                  "name": "Shida Monument",
+                  "text": "Az asmarai Shida-emlékmű egy óriási bronzszandált ábrázol, amely az eritreai szabadságharcosok által a függetlenségi küzdelem során viselt lábbelit szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        38.930163,
+                        15.331996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Francisco",
+                  "text": "Monumentul San Francisco din apropierea parcului pentru copii din Asmara oferă un reper artistic impresionant în zonele de agrement pline de viață ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        38.929547,
+                        15.326384
+                  ]
+            },
+            {
+                  "name": "titi Internet cafe",
+                  "text": "Cafeneaua de internet Titi servește drept un centru local plin de viață unde vizitatorii și rezidenții se conectează în împrejurimile animate din Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.929341,
+                        15.328406
+                  ]
+            },
+            {
+                  "name": "Shida Monument",
+                  "text": "Monumentul Shida din Asmara prezintă o pereche uriașă de sandale de bronz, simbolizând încălțămintea purtată de luptătorii eritreeni pentru libertate în timpul luptei pentru independență.",
+                  "category": "historical",
+                  "coords": [
+                        38.930163,
+                        15.331996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Francisco",
+                  "text": "The San Francisco monument near Asmara's children's park provides a striking artistic landmark within the city's lively recreational zones.",
+                  "category": "historical",
+                  "coords": [
+                        38.929547,
+                        15.326384
+                  ]
+            },
+            {
+                  "name": "titi Internet cafe",
+                  "text": "The Titi Internet cafe serves as a bustling local hub where visitors and residents connect in the lively surroundings of Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.929341,
+                        15.328406
+                  ]
+            },
+            {
+                  "name": "Shida Monument",
+                  "text": "The Shida Monument in Asmara features a giant pair of bronze sandals, symbolizing the footwear worn by Eritrean freedom fighters during the struggle for independence.",
+                  "category": "historical",
+                  "coords": [
+                        38.930163,
+                        15.331996
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ER-MA",
     coords: [38.93, 15.33],
@@ -73,7 +190,88 @@ export const poiExtraEritreaLifeV2: POI[] = [
       fr: ["Le parc est situé au cœur de la capitale Asmara.", "Il propose des attractions telles que des mini-grandes roues et des manèges.", "Le week-end, des milliers de familles visitent souvent l'installation.", "Le parc est un lieu important pour les activités lors des fêtes nationales.", "Il dispose de zones désignées pour les pique-niques et les fêtes.", "L'entrée est bon marché pour permettre l'accès à toutes les couches sociales."],
     }, image: "/poi-images/asmara-children-park-life-v2.webp"},
   {
-    id: "massawa-marine-life-v2",
+    id: "massawa-marine-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soviet IL-76",
+                  "text": "Ein verlassenes sowjetisches Transportflugzeug vom Typ Iljuschin Il-76, das bei Massaua steht.",
+                  "category": "landmark",
+                  "coords": [
+                        39.444974,
+                        15.608662
+                  ]
+            },
+            {
+                  "name": "Northern Red Sea Region Museum",
+                  "text": "Ein Museum, das die Geschichte und die Meeresumwelt der nördlichen Region des Roten Meeres in Massaua zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soviet IL-76",
+                  "text": "Egy elhagyatott szovjet Iljusin Il-76-os szállító repülőgép Masszava közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.444974,
+                        15.608662
+                  ]
+            },
+            {
+                  "name": "Northern Red Sea Region Museum",
+                  "text": "Az Északi Vörös-tengeri Régió történelmét és tengeri környezetét bemutató múzeum Masszavában.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soviet IL-76",
+                  "text": "Un avion de transport sovietic Iliușin Il-76 abandonat lângă Massawa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.444974,
+                        15.608662
+                  ]
+            },
+            {
+                  "name": "Northern Red Sea Region Museum",
+                  "text": "Un muzeu care expune istoria și mediul marin al regiunii nordice a Mării Roșii, situat în Massawa.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soviet IL-76",
+                  "text": "An abandoned Soviet Ilyushin Il-76 transport aircraft resting near Massawa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.444974,
+                        15.608662
+                  ]
+            },
+            {
+                  "name": "Northern Red Sea Region Museum",
+                  "text": "A museum exhibiting the history and marine environment of the Northern Red Sea Region in Massawa.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ER-SK",
     coords: [39.45, 15.60],
@@ -109,7 +307,52 @@ export const poiExtraEritreaLifeV2: POI[] = [
     },
   },
   {
-    id: "keren-sorghum-farms-life-v2",
+    id: "keren-sorghum-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancien fort italien de Dologorodok",
+                  "text": "Die verfallenen Ruinen einer ehemaligen italienischen Militärfestung in der Nähe von Keren.",
+                  "category": "historical",
+                  "coords": [
+                        38.425491,
+                        15.753455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancien fort italien de Dologorodok",
+                  "text": "Egy egykori olasz katonai erőd omladozó romjai Keren közelében.",
+                  "category": "historical",
+                  "coords": [
+                        38.425491,
+                        15.753455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancien fort italien de Dologorodok",
+                  "text": "Ruinele prăbușite ale unui fost fort militar italian de lângă Keren.",
+                  "category": "historical",
+                  "coords": [
+                        38.425491,
+                        15.753455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancien fort italien de Dologorodok",
+                  "text": "The crumbling ruins of a former Italian military fort near Keren.",
+                  "category": "historical",
+                  "coords": [
+                        38.425491,
+                        15.753455
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ER-AN",
     coords: [38.45, 15.78],
@@ -361,7 +604,52 @@ export const poiExtraEritreaLifeV2: POI[] = [
     },
   },
   {
-    id: "hargigo-horticulture-life-v2",
+    id: "hargigo-horticulture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gurgusum Beach",
+                  "text": "Ein beliebter Sandstrand an der Küste, der einen entspannenden Rückzugsort am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        39.451675,
+                        15.674201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gurgusum Beach",
+                  "text": "Népszerű homokos tengerpart, amely pihentető kikapcsolódást nyújt a tenger mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        39.451675,
+                        15.674201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gurgusum Beach",
+                  "text": "O plajă de coastă cu nisip populară, care oferă un refugiu relaxant la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        39.451675,
+                        15.674201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gurgusum Beach",
+                  "text": "A popular sandy coastal beach providing a relaxing seaside retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        39.451675,
+                        15.674201
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ER-SK",
     coords: [39.42, 15.65],
@@ -649,7 +937,52 @@ export const poiExtraEritreaLifeV2: POI[] = [
     },
   },
   {
-    id: "asmara-green-belt-life-v2",
+    id: "asmara-green-belt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "second home",
+                  "text": "Eine lokale Sehenswürdigkeit in der Umgebung des Green Belt Parks von Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.920097,
+                        15.30539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "second home",
+                  "text": "Helyi látványosság Aszmara zöldövezeti parkjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.920097,
+                        15.30539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "second home",
+                  "text": "O atracție locală situată în apropierea centurii verzi a orașului Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.920097,
+                        15.30539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "second home",
+                  "text": "A local attraction situated near the Green Belt park in Asmara.",
+                  "category": "landmark",
+                  "coords": [
+                        38.920097,
+                        15.30539
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "ER-MA",
     coords: [38.92, 15.32],
@@ -685,7 +1018,52 @@ export const poiExtraEritreaLifeV2: POI[] = [
     },
   },
   {
-    id: "ghinda-community-garden-life-v2",
+    id: "ghinda-community-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fonte Acqua Termo Minerale",
+                  "text": "Eine Thermalmineralquelle in der Nähe der Gemeinschaftsgärten von Ghinda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.132851,
+                        15.473401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fonte Acqua Termo Minerale",
+                  "text": "Egy termálvíz-forrás a Ghinda közösségi kertek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.132851,
+                        15.473401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fonte Acqua Termo Minerale",
+                  "text": "Un izvor de apă termală și minerală aflat în zona grădinilor comunitare din Ghinda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.132851,
+                        15.473401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fonte Acqua Termo Minerale",
+                  "text": "A thermal mineral spring located near the community gardens of Ghinda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.132851,
+                        15.473401
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ER-SK",
     coords: [39.09, 15.46],
@@ -937,7 +1315,52 @@ export const poiExtraEritreaLifeV2: POI[] = [
     },
   },
   {
-    id: "asmara-children-center-life-v2",
+    id: "asmara-children-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ርእሰ ኣድባራት ቅድስት ማርያም ቤተ ክርስትያን",
+                  "text": "Ein bedeutendes orthodoxes christliches Gotteshaus, das lokal als Nda Mariam bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        38.94442,
+                        15.339877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ርእሰ ኣድባራት ቅድስት ማርያም ቤተ ክርስትያን",
+                  "text": "Jelentős ortodox keresztény istentiszteleti hely, amelyet helyi nevén Nda Mariamként ismernek.",
+                  "category": "religious",
+                  "coords": [
+                        38.94442,
+                        15.339877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ርእሰ ኣድባራት ቅድስት ማርያም ቤተ ክርስትያን",
+                  "text": "Un important lăcaș de cult creștin-ortodox, cunoscut la nivel local sub numele de Nda Mariam.",
+                  "category": "religious",
+                  "coords": [
+                        38.94442,
+                        15.339877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Mariam",
+                  "text": "A major Orthodox Christian place of worship known locally as Nda Mariam.",
+                  "category": "religious",
+                  "coords": [
+                        38.94442,
+                        15.339877
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ER-MA",
     coords: [38.94, 15.34],

@@ -1317,7 +1317,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Kasteel Hasselbroek",
-                  "text": "Ein klassizistisches Schloss auf dem Hesbaye-Plateau.",
+                  "text": "Das 1620 erbaute Schloss Hasselbroek auf dem Hesbaye-Plateau steht unter Denkmalschutz.",
                   "category": "castle",
                   "coords": [
                         5.209754,
@@ -1391,7 +1391,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Kasteel Hasselbroek",
-                  "text": "Klasszicista stílusú kastély a Hesbaye-fennsíkon.",
+                  "text": "Az 1620-ban épült Kasteel Hasselbroek a Hesbaye-fennsíkon műemlék.",
                   "category": "castle",
                   "coords": [
                         5.209754,
@@ -1465,7 +1465,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Kasteel Hasselbroek",
-                  "text": "Un castel în stil neoclasic situat pe platoul Hesbaye.",
+                  "text": "Castelul Kasteel Hasselbroek de pe Platoul Hesbaye, construit în 1620, este monument istoric.",
                   "category": "castle",
                   "coords": [
                         5.209754,
@@ -1539,7 +1539,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Kasteel Hasselbroek",
-                  "text": "A neoclassical castle located on the Hesbaye Plateau.",
+                  "text": "Dating from 1620, this castle on the Hesbaye Plateau is a protected monument.",
                   "category": "castle",
                   "coords": [
                         5.209754,

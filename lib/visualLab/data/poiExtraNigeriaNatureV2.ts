@@ -129,7 +129,52 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     },
   },
   {
-    id: "chappal-waddi-mountain-nature-v2",
+    id: "chappal-waddi-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chappal Waddi (Nigeria's Highest Point)",
+                  "text": "Mit einer Höhe von 2.419 Metern ist Chappal Waddi der höchste Gipfel Nigerias und bietet atemberaubende Ausblicke über den Gashaka-Gumti-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        11.714733,
+                        7.035738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chappal Waddi (Nigeria's Highest Point)",
+                  "text": "A 2419 méter magas Chappal Waddi Nigéria legmagasabb csúcsa, amely lélegzetelállító kilátást nyújt a Gashaka Gumti Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        11.714733,
+                        7.035738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chappal Waddi (Nigeria's Highest Point)",
+                  "text": "Aflat la o altitudine de 2.419 metri, Chappal Waddi este cel mai înalt vârf din Nigeria, oferind priveliști uluitoare asupra Parcului Național Gashaka Gumti.",
+                  "category": "natural",
+                  "coords": [
+                        11.714733,
+                        7.035738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chappal Waddi (Nigeria's Highest Point)",
+                  "text": "Standing at an elevation of 2,419 metres, Chappal Waddi is Nigeria's highest peak, offering breathtaking views across the Gashaka Gumti National Park.",
+                  "category": "natural",
+                  "coords": [
+                        11.714733,
+                        7.035738
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NG-TA",
     coords: [11.63, 7.03],
@@ -201,7 +246,52 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     },
   },
   {
-    id: "ogun-river-nature-v2",
+    id: "ogun-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iju Ishaga Memorial Arcade",
+                  "text": "Dieser Gedenkgarten erinnert an die Opfer des Absturzes von Dana-Air-Flug 992 im Jahr 2012.",
+                  "category": "park",
+                  "coords": [
+                        3.314035,
+                        6.671853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iju Ishaga Memorial Arcade",
+                  "text": "Ez az emlékkert a 2012-es Dana Air 992-es járatának lezuhanásában elhunyt áldozatoknak állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        3.314035,
+                        6.671853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iju Ishaga Memorial Arcade",
+                  "text": "Această grădină memorială onorează victimele prăbușirii zborului Dana Air 992 din 2012.",
+                  "category": "park",
+                  "coords": [
+                        3.314035,
+                        6.671853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iju Ishaga Memorial Arcade",
+                  "text": "This memorial garden honors the victims of the 2012 Dana Air Flight 992 crash.",
+                  "category": "park",
+                  "coords": [
+                        3.314035,
+                        6.671853
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "NG-OG",
     coords: [3.3, 6.6],
@@ -345,7 +435,88 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     },
   },
   {
-    id: "shere-hills-mountain-nature-v2",
+    id: "shere-hills-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bisichi Bluff",
+                  "text": "Die steile Felsklippe des Bisichi Bluff ist eine markante geologische Formation in den Shere Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        9.016667,
+                        9.783333
+                  ]
+            },
+            {
+                  "name": "Amurum Forest Reserve",
+                  "text": "Das Waldschutzgebiet Amurum dient der Erhaltung lokaler Vogelarten und Ökosysteme in der Region.",
+                  "category": "park",
+                  "coords": [
+                        8.975727,
+                        9.875547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bisichi Bluff",
+                  "text": "A Bisichi Bluff meredek sziklája egy feltűnő geológiai képződmény a Shere-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.016667,
+                        9.783333
+                  ]
+            },
+            {
+                  "name": "Amurum Forest Reserve",
+                  "text": "Az Amurum erdőrezervátum a helyi madárfajok és ökoszisztémák megőrzését szolgálja a régióban.",
+                  "category": "park",
+                  "coords": [
+                        8.975727,
+                        9.875547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bisichi Bluff",
+                  "text": "Stânca abruptă Bisichi Bluff este o formațiune geologică proeminentă în Dealurile Shere.",
+                  "category": "landmark",
+                  "coords": [
+                        9.016667,
+                        9.783333
+                  ]
+            },
+            {
+                  "name": "Amurum Forest Reserve",
+                  "text": "Rezervația forestieră Amurum servește la conservarea speciilor de păsări și a ecosistemelor locale din regiune.",
+                  "category": "park",
+                  "coords": [
+                        8.975727,
+                        9.875547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bisichi Bluff",
+                  "text": "The steep rock cliff of Bisichi Bluff is a prominent geological formation in the Shere Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        9.016667,
+                        9.783333
+                  ]
+            },
+            {
+                  "name": "Amurum Forest Reserve",
+                  "text": "The Amurum Forest Reserve serves to conserve local bird species and ecosystems in the region.",
+                  "category": "park",
+                  "coords": [
+                        8.975727,
+                        9.875547
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NG-PL",
     coords: [9.0, 9.8],
@@ -417,7 +588,52 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     },
   },
   {
-    id: "osun-river-nature-v2",
+    id: "osun-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Natural History",
+                  "text": "Das Museum of Natural History ist eine Bildungseinrichtung, die sich der Erhaltung und Ausstellung lokaler biologischer und geologischer Proben widmet.",
+                  "category": "museum",
+                  "coords": [
+                        4.528614,
+                        7.51653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Natural History",
+                  "text": "A Természettudományi Múzeum egy oktatási intézmény, amely a helyi biológiai és geológiai példányok megőrzésére és bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        4.528614,
+                        7.51653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Natural History",
+                  "text": "Muzeul de Istorie Naturală este o instituție educațională dedicată conservării și expunerii exemplarelor biologice și geologice locale.",
+                  "category": "museum",
+                  "coords": [
+                        4.528614,
+                        7.51653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Natural History",
+                  "text": "The Museum of Natural History is an educational institution dedicated to preserving and displaying local biological and geological specimens.",
+                  "category": "museum",
+                  "coords": [
+                        4.528614,
+                        7.51653
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "NG-OS",
     coords: [4.5, 7.5],
@@ -777,7 +993,52 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     },
   },
   {
-    id: "osun-forest-nature-v2",
+    id: "osun-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alayemore Ido-Osun Palace",
+                  "text": "Diese traditionelle Königsburg in der Osun-Region ist der historische Sitz des Alayemore von Ido-Osun.",
+                  "category": "castle",
+                  "coords": [
+                        4.48159,
+                        7.781053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alayemore Ido-Osun Palace",
+                  "text": "Az Osun régióban található hagyományos királyi kastély az Ido-Osun-i Alayemore történelmi székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        4.48159,
+                        7.781053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alayemore Ido-Osun Palace",
+                  "text": "Amplasat în regiunea Osun, acest castel regal tradițional este sediul istoric al liderului Alayemore din Ido-Osun.",
+                  "category": "castle",
+                  "coords": [
+                        4.48159,
+                        7.781053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alayemore Ido-Osun Palace",
+                  "text": "Nestled in the Osun region, this traditional royal castle is the historic seat of the Alayemore of Ido-Osun.",
+                  "category": "castle",
+                  "coords": [
+                        4.48159,
+                        7.781053
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "NG-OS",
     coords: [4.5, 7.8],

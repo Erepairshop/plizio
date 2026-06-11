@@ -103,7 +103,232 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "dat-el-imad-landmarks-v2",
+    id: "dat-el-imad-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tripoli City Entertainment",
+                  "text": "Ein modernes Unterhaltungszentrum im Viertel Dat El Imad in Tripolis.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167472,
+                        32.887844
+                  ]
+            },
+            {
+                  "name": "Tripoli Theater",
+                  "text": "Eine städtische Bühne im Dat El Imad-Viertel, auf der regelmäßig kulturelle und theatralische Darbietungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170323,
+                        32.886759
+                  ]
+            },
+            {
+                  "name": "FLY Board Libya Beach",
+                  "text": "Ein Küstenabschnitt in Tripolis, der für Wassersportaktivitäten wie Flyboarding bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162372,
+                        32.890136
+                  ]
+            },
+            {
+                  "name": "Beach Tripoli",
+                  "text": "Ein Sandstrand entlang der Küstenlinie von Tripolis, der zur Entspannung am Mittelmeer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162526,
+                        32.891808
+                  ]
+            },
+            {
+                  "name": "Tripoli International Fair",
+                  "text": "Ein weitläufiges Ausstellungsgelände in Tripolis, auf dem bedeutende internationale Handels- und Kulturmessen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170409,
+                        32.889404
+                  ]
+            },
+            {
+                  "name": "SINDIBAD Beach",
+                  "text": "Ein beliebter Badestrand in Tripolis, der nach dem berühmten Seefahrer Sindbad benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.159824,
+                        32.886119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tripoli City Entertainment",
+                  "text": "Egy modern szórakoztató központ a tripoli Dat El Imad negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167472,
+                        32.887844
+                  ]
+            },
+            {
+                  "name": "Tripoli Theater",
+                  "text": "Egy városi színház a Dat El Imad negyedben, amely rendszeres kulturális és színházi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170323,
+                        32.886759
+                  ]
+            },
+            {
+                  "name": "FLY Board Libya Beach",
+                  "text": "Egy partszakasz Tripoliban, amely olyan vízi sportokról ismert, mint a flyboardozás.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162372,
+                        32.890136
+                  ]
+            },
+            {
+                  "name": "Beach Tripoli",
+                  "text": "Egy homokos tengerpart Tripoli partvonala mentén, amely pihenést kínál a Földközi-tenger mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162526,
+                        32.891808
+                  ]
+            },
+            {
+                  "name": "Tripoli International Fair",
+                  "text": "Egy nagy kiállítási terület Tripoliban, ahol jelentős nemzetközi kereskedelmi és kulturális vásárokat rendeznek.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170409,
+                        32.889404
+                  ]
+            },
+            {
+                  "name": "SINDIBAD Beach",
+                  "text": "Egy népszerű tengerpart Tripoliban, amelyet a híres tengerészről, Szindbádról neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        13.159824,
+                        32.886119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tripoli City Entertainment",
+                  "text": "Un centru modern de divertisment situat în cartierul Dat El Imad din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167472,
+                        32.887844
+                  ]
+            },
+            {
+                  "name": "Tripoli Theater",
+                  "text": "Un teatru urban din zona Dat El Imad, care găzduiește spectacole culturale și de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170323,
+                        32.886759
+                  ]
+            },
+            {
+                  "name": "FLY Board Libya Beach",
+                  "text": "O porțiune de plajă din Tripoli cunoscută pentru activități de sporturi nautice, cum ar fi flyboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162372,
+                        32.890136
+                  ]
+            },
+            {
+                  "name": "Beach Tripoli",
+                  "text": "O plajă cu nisip de-a lungul coastei din Tripoli, care invită la relaxare la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162526,
+                        32.891808
+                  ]
+            },
+            {
+                  "name": "Tripoli International Fair",
+                  "text": "Un complex expozițional extins din Tripoli care găzduiește importante târguri comerciale și culturale internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170409,
+                        32.889404
+                  ]
+            },
+            {
+                  "name": "SINDIBAD Beach",
+                  "text": "O plajă populară din Tripoli, numită după faimosul marinar Sinbad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.159824,
+                        32.886119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tripoli City Entertainment",
+                  "text": "A modern entertainment center located in the Dat El Imad district of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167472,
+                        32.887844
+                  ]
+            },
+            {
+                  "name": "Tripoli Theater",
+                  "text": "An urban theater in the Dat El Imad area hosting regular cultural and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170323,
+                        32.886759
+                  ]
+            },
+            {
+                  "name": "FLY Board Libya Beach",
+                  "text": "A stretch of beach in Tripoli known for water sports activities such as flyboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162372,
+                        32.890136
+                  ]
+            },
+            {
+                  "name": "Beach Tripoli",
+                  "text": "A sandy beach along the coastline of Tripoli inviting relaxation by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.162526,
+                        32.891808
+                  ]
+            },
+            {
+                  "name": "Tripoli International Fair",
+                  "text": "An expansive exhibition ground in Tripoli hosting major international trade and cultural fairs.",
+                  "category": "cultural",
+                  "coords": [
+                        13.170409,
+                        32.889404
+                  ]
+            },
+            {
+                  "name": "SINDIBAD Beach",
+                  "text": "A popular beach area in Tripoli named after the famous sailor Sinbad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.159824,
+                        32.886119
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-TQ",
     coords: [13.1720, 32.8935],
@@ -153,7 +378,412 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "jamal-abdul-nasser-mosque-landmarks-v2",
+    id: "jamal-abdul-nasser-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abogama house.",
+                  "text": "Historisches Wohngebäude in unmittelbarer Nähe der bedeutenden Jamal Abdul Nasser Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.233453,
+                        32.906375
+                  ]
+            },
+            {
+                  "name": "Abusita Horse racing course",
+                  "text": "Prominente Reitsportanlage in Tripolis, die als monumentale Rennstrecke für Pferderennen dient.",
+                  "category": "historical",
+                  "coords": [
+                        13.223215,
+                        32.901004
+                  ]
+            },
+            {
+                  "name": "The memorial of the HANI battle",
+                  "text": "Dieses historische Denkmal erinnert an die bedeutende Schlacht von Hani nahe der Jamal Abdul Nasser Moschee.",
+                  "category": "historical",
+                  "coords": [
+                        13.221665,
+                        32.88417
+                  ]
+            },
+            {
+                  "name": "Holy Quran Broadcast channel 107.0 FM",
+                  "text": "Rundfunkstation in Tripolis, die als religiöses Medienzentrum auf 107,0 FM sendet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.206927,
+                        32.894881
+                  ]
+            },
+            {
+                  "name": "Theme Park",
+                  "text": "Städtischer Freizeitpark in Tripolis, der Erholungsräume und Vergnügungsfahrten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.204153,
+                        32.898326
+                  ]
+            },
+            {
+                  "name": "Theme Park Corniche",
+                  "text": "Vergnügungspark an der Küste mit direktem Blick auf die Meerespromenade von Tripolis.",
+                  "category": "recreational",
+                  "coords": [
+                        13.189518,
+                        32.895241
+                  ]
+            },
+            {
+                  "name": "Statue Belle And Spinner",
+                  "text": "Archäologisches Relikt in Tripolis, das eine bemerkenswerte historische Statue präsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        13.186973,
+                        32.892732
+                  ]
+            },
+            {
+                  "name": "Gruosh Factory for Paper",
+                  "text": "Aussichtspunkt mit Blick auf das Industriegelände der etablierten Papierfabrik in Tripolis.",
+                  "category": "natural",
+                  "coords": [
+                        13.284058,
+                        32.868793
+                  ]
+            },
+            {
+                  "name": "Saint Fransiscus Catholic Church",
+                  "text": "Diese katholische Kirche zeugt von der christlichen Präsenz in der libyschen Hauptstadt.",
+                  "category": "religious",
+                  "coords": [
+                        13.194057,
+                        32.891796
+                  ]
+            },
+            {
+                  "name": "Park &Beach MANARA",
+                  "text": "Ein Küstenpark und Sandstrand in Tripolis, der den Stadtbewohnern als Naherholungsgebiet dient.",
+                  "category": "recreational",
+                  "coords": [
+                        13.228405,
+                        32.907242
+                  ]
+            },
+            {
+                  "name": "Libyan Museum",
+                  "text": "Nationalmuseum in Tripolis, das bedeutende Artefakte zur Bewahrung des libyschen Kulturerbes ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.189303,
+                        32.888046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abogama house.",
+                  "text": "Történelmi lakóépület a jelentős Jamal Abdul Nasser mecset közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.233453,
+                        32.906375
+                  ]
+            },
+            {
+                  "name": "Abusita Horse racing course",
+                  "text": "Kiemelkedő lovassport-létesítmény Tripoliban, amely lóversenyek monumentális pályájaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        13.223215,
+                        32.901004
+                  ]
+            },
+            {
+                  "name": "The memorial of the HANI battle",
+                  "text": "Ez a történelmi emlékmű a Hani csata jelentőségére emlékeztet a Jamal Abdul Nasser mecset közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.221665,
+                        32.88417
+                  ]
+            },
+            {
+                  "name": "Holy Quran Broadcast channel 107.0 FM",
+                  "text": "Tripoli rádióállomás, amely vallási médiaközpontként működik a 107,0 FM frekvencián.",
+                  "category": "landmark",
+                  "coords": [
+                        13.206927,
+                        32.894881
+                  ]
+            },
+            {
+                  "name": "Theme Park",
+                  "text": "Városi vidámpark Tripoliban, amely pihenőövezeteket és szórakoztató attrakciókat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.204153,
+                        32.898326
+                  ]
+            },
+            {
+                  "name": "Theme Park Corniche",
+                  "text": "Tengerparti vidámpark közvetlen kilátással Tripoli sétányára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.189518,
+                        32.895241
+                  ]
+            },
+            {
+                  "name": "Statue Belle And Spinner",
+                  "text": "Régészeti emlék Tripoliban, amely egy figyelemre méltó történelmi szobrot mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        13.186973,
+                        32.892732
+                  ]
+            },
+            {
+                  "name": "Gruosh Factory for Paper",
+                  "text": "Kilátópont, amely rálátást nyújt Tripoli egyik bevált papírgyárának ipari területére.",
+                  "category": "natural",
+                  "coords": [
+                        13.284058,
+                        32.868793
+                  ]
+            },
+            {
+                  "name": "Saint Fransiscus Catholic Church",
+                  "text": "Ez a katolikus templom a líbiai főváros keresztény jelenlétéről tanúskodik.",
+                  "category": "religious",
+                  "coords": [
+                        13.194057,
+                        32.891796
+                  ]
+            },
+            {
+                  "name": "Park &Beach MANARA",
+                  "text": "Tengerparti park és homokos strand Tripoliban, amely a városlakók pihenőhelyéül szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.228405,
+                        32.907242
+                  ]
+            },
+            {
+                  "name": "Libyan Museum",
+                  "text": "Tripoli nemzeti múzeuma, amely a líbiai kulturális örökség megőrzését szolgáló jelentős műtárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        13.189303,
+                        32.888046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abogama house.",
+                  "text": "Clădire rezidențială istorică situată în imediata apropiere a importantei moschei Jamal Abdul Nasser.",
+                  "category": "landmark",
+                  "coords": [
+                        13.233453,
+                        32.906375
+                  ]
+            },
+            {
+                  "name": "Abusita Horse racing course",
+                  "text": "Facilitate ecvestră proeminentă în Tripoli, care servește ca o pistă monumentală pentru cursele de cai.",
+                  "category": "historical",
+                  "coords": [
+                        13.223215,
+                        32.901004
+                  ]
+            },
+            {
+                  "name": "The memorial of the HANI battle",
+                  "text": "Acest monument istoric comemorează importanta Bătălie de la Hani, lângă Moscheea Jamal Abdul Nasser.",
+                  "category": "historical",
+                  "coords": [
+                        13.221665,
+                        32.88417
+                  ]
+            },
+            {
+                  "name": "Holy Quran Broadcast channel 107.0 FM",
+                  "text": "Stație de radiodifuziune din Tripoli, servind ca centru media religios pe frecvența 107.0 FM.",
+                  "category": "landmark",
+                  "coords": [
+                        13.206927,
+                        32.894881
+                  ]
+            },
+            {
+                  "name": "Theme Park",
+                  "text": "Parc de distracții urban din Tripoli, oferind spații de recreere și atracții de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        13.204153,
+                        32.898326
+                  ]
+            },
+            {
+                  "name": "Theme Park Corniche",
+                  "text": "Parc de distracții pe coastă cu vedere directă la promenada mării din Tripoli.",
+                  "category": "recreational",
+                  "coords": [
+                        13.189518,
+                        32.895241
+                  ]
+            },
+            {
+                  "name": "Statue Belle And Spinner",
+                  "text": "Rămășiță arheologică din Tripoli care prezintă o statuie istorică remarcabilă.",
+                  "category": "historical",
+                  "coords": [
+                        13.186973,
+                        32.892732
+                  ]
+            },
+            {
+                  "name": "Gruosh Factory for Paper",
+                  "text": "Punct de belvedere cu vedere la zona industrială a unei fabrici de hârtie consacrate din Tripoli.",
+                  "category": "natural",
+                  "coords": [
+                        13.284058,
+                        32.868793
+                  ]
+            },
+            {
+                  "name": "Saint Fransiscus Catholic Church",
+                  "text": "Această biserică catolică este o mărturie a prezenței creștine în capitala libiană.",
+                  "category": "religious",
+                  "coords": [
+                        13.194057,
+                        32.891796
+                  ]
+            },
+            {
+                  "name": "Park &Beach MANARA",
+                  "text": "Un parc de coastă și o plajă cu nisip în Tripoli, servind ca zonă de recreere pentru locuitorii orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        13.228405,
+                        32.907242
+                  ]
+            },
+            {
+                  "name": "Libyan Museum",
+                  "text": "Muzeu național din Tripoli care expune artefacte importante pentru conservarea patrimoniului cultural libian.",
+                  "category": "museum",
+                  "coords": [
+                        13.189303,
+                        32.888046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abogama house.",
+                  "text": "Historic residential building located in close proximity to the prominent Jamal Abdul Nasser Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        13.233453,
+                        32.906375
+                  ]
+            },
+            {
+                  "name": "Abusita Horse racing course",
+                  "text": "Prominent equestrian facility in Tripoli serving as a monumental track for horse racing.",
+                  "category": "historical",
+                  "coords": [
+                        13.223215,
+                        32.901004
+                  ]
+            },
+            {
+                  "name": "The memorial of the HANI battle",
+                  "text": "This historic monument commemorates the significant Battle of Hani near the Jamal Abdul Nasser Mosque.",
+                  "category": "historical",
+                  "coords": [
+                        13.221665,
+                        32.88417
+                  ]
+            },
+            {
+                  "name": "Holy Quran Broadcast channel 107.0 FM",
+                  "text": "Broadcasting station in Tripoli serving as a religious media hub on 107.0 FM.",
+                  "category": "landmark",
+                  "coords": [
+                        13.206927,
+                        32.894881
+                  ]
+            },
+            {
+                  "name": "Theme Park",
+                  "text": "Urban amusement park in Tripoli offering recreational spaces and rides.",
+                  "category": "recreational",
+                  "coords": [
+                        13.204153,
+                        32.898326
+                  ]
+            },
+            {
+                  "name": "Theme Park Corniche",
+                  "text": "Coastal amusement park featuring rides right along the seafront corniche of Tripoli.",
+                  "category": "recreational",
+                  "coords": [
+                        13.189518,
+                        32.895241
+                  ]
+            },
+            {
+                  "name": "Statue Belle And Spinner",
+                  "text": "Archaeological relic in Tripoli showcasing a notable historic sculptural figure.",
+                  "category": "historical",
+                  "coords": [
+                        13.186973,
+                        32.892732
+                  ]
+            },
+            {
+                  "name": "Gruosh Factory for Paper",
+                  "text": "Viewpoint overlooking the industrial grounds of an established paper manufacturing facility in Tripoli.",
+                  "category": "natural",
+                  "coords": [
+                        13.284058,
+                        32.868793
+                  ]
+            },
+            {
+                  "name": "Saint Fransiscus Catholic Church",
+                  "text": "This Catholic church stands as a testament to the Christian presence in the Libyan capital.",
+                  "category": "religious",
+                  "coords": [
+                        13.194057,
+                        32.891796
+                  ]
+            },
+            {
+                  "name": "Park &Beach MANARA",
+                  "text": "A coastal park and sandy beach in Tripoli serving as a local recreation area.",
+                  "category": "recreational",
+                  "coords": [
+                        13.228405,
+                        32.907242
+                  ]
+            },
+            {
+                  "name": "Libyan Museum",
+                  "text": "National museum in Tripoli exhibiting significant artifacts to preserve Libyan cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        13.189303,
+                        32.888046
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-TQ",
     coords: [13.1855, 32.8931],
@@ -253,7 +883,196 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "tripoli-stadium-landmarks-v2",
+    id: "tripoli-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "land",
+                  "text": "Offenes Gelände nahe dem Stadion von Tripolis, das für Freiluftveranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        13.122351,
+                        32.760527
+                  ]
+            },
+            {
+                  "name": "Al Riqata Tourist village",
+                  "text": "Weitläufiger Touristenkomplex mit Unterkünften in der Nähe der Wahrzeichen von Tripolis.",
+                  "category": "landmark",
+                  "coords": [
+                        13.065877,
+                        32.855306
+                  ]
+            },
+            {
+                  "name": "Alnaas",
+                  "text": "Historisches Festungsbauwerk, das in das Stadtbild von Tripolis integriert ist.",
+                  "category": "castle",
+                  "coords": [
+                        13.174609,
+                        32.842851
+                  ]
+            },
+            {
+                  "name": "Neighborhood Villas",
+                  "text": "Aussichtspunkt, der einen Panoramablick auf die traditionelle Villenarchitektur von Tripolis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.232243,
+                        32.805152
+                  ]
+            },
+            {
+                  "name": "old mall",
+                  "text": "Ruinen eines verlassenen Handelszentrums, das in der Nähe des großen Stadions von Tripolis steht.",
+                  "category": "historical",
+                  "coords": [
+                        13.07148,
+                        32.835638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "land",
+                  "text": "Nyílt terep Tripoli stadionja közelében, amelyet szabadtéri rendezvényekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.122351,
+                        32.760527
+                  ]
+            },
+            {
+                  "name": "Al Riqata Tourist village",
+                  "text": "Kiterjedt turisztikai komplexum szálláshelyekkel Tripoli nevezetességeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.065877,
+                        32.855306
+                  ]
+            },
+            {
+                  "name": "Alnaas",
+                  "text": "Történelmi erődítmény, amely Tripoli városképének szerves részét képezi.",
+                  "category": "castle",
+                  "coords": [
+                        13.174609,
+                        32.842851
+                  ]
+            },
+            {
+                  "name": "Neighborhood Villas",
+                  "text": "Kilátó, ahonnan panorámás kilátás nyílik Tripoli hagyományos villáinak építészetére.",
+                  "category": "natural",
+                  "coords": [
+                        13.232243,
+                        32.805152
+                  ]
+            },
+            {
+                  "name": "old mall",
+                  "text": "Egy elhagyott bevásárlóközpont romjai, amely Tripoli nagy stadionja közelében áll.",
+                  "category": "historical",
+                  "coords": [
+                        13.07148,
+                        32.835638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "land",
+                  "text": "Teren deschis în apropierea stadionului din Tripoli, folosit pentru evenimente în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        13.122351,
+                        32.760527
+                  ]
+            },
+            {
+                  "name": "Al Riqata Tourist village",
+                  "text": "Complex turistic extins, cu unități de cazare în apropierea reperelor din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.065877,
+                        32.855306
+                  ]
+            },
+            {
+                  "name": "Alnaas",
+                  "text": "Structură de fortăreață istorică integrată în peisajul urban din Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        13.174609,
+                        32.842851
+                  ]
+            },
+            {
+                  "name": "Neighborhood Villas",
+                  "text": "Punct de belvedere care oferă o vedere panoramică a arhitecturii tradiționale a vilelor din Tripoli.",
+                  "category": "natural",
+                  "coords": [
+                        13.232243,
+                        32.805152
+                  ]
+            },
+            {
+                  "name": "old mall",
+                  "text": "Ruinele unui centru comercial abandonat, situat în apropierea marelui stadion din Tripoli.",
+                  "category": "historical",
+                  "coords": [
+                        13.07148,
+                        32.835638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "land",
+                  "text": "Open terrain near the Tripoli stadium utilized for outdoor events and gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        13.122351,
+                        32.760527
+                  ]
+            },
+            {
+                  "name": "Al Riqata Tourist village",
+                  "text": "Sprawling tourist village complex offering accommodations near Tripoli's landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        13.065877,
+                        32.855306
+                  ]
+            },
+            {
+                  "name": "Alnaas",
+                  "text": "Historic fortress structure integrated into the urban landscape of Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        13.174609,
+                        32.842851
+                  ]
+            },
+            {
+                  "name": "Neighborhood Villas",
+                  "text": "Viewpoint offering panoramic sights of the traditional residential villa architecture of Tripoli.",
+                  "category": "natural",
+                  "coords": [
+                        13.232243,
+                        32.805152
+                  ]
+            },
+            {
+                  "name": "old mall",
+                  "text": "Ruins of an abandoned commercial center standing near the large stadium of Tripoli.",
+                  "category": "historical",
+                  "coords": [
+                        13.07148,
+                        32.835638
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-TQ",
     coords: [13.1444, 32.8464],
@@ -403,7 +1222,124 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "benghazi-lighthouse-landmarks-v2",
+    id: "benghazi-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Euesperides",
+                  "text": "Die Ausgrabungsstätte Euesperides in benghazi-lighthouse-landmarks-v2 bewahrt die Überreste einer griechischen Siedlung aus dem 6. Jahrhundert v. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        20.06366,
+                        32.124642
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Die Area L in Sidi Khiribech ist eine Ausgrabungsstätte im benghazi-lighthouse-landmarks-v2, die Überreste antiker Steinstrukturen freilegt.",
+                  "category": "historical",
+                  "coords": [
+                        20.062394,
+                        32.124365
+                  ]
+            },
+            {
+                  "name": "Binqatou Mosque",
+                  "text": "Die Binqatou Mosque im benghazi-lighthouse-landmarks-v2 zeichnet sich durch ihr markantes Minarett und die islamische Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Euesperides",
+                  "text": "A benghazi-lighthouse-landmarks-v2-ben található Euesperides régészeti lelőhely egy i. e. 6. századi görög település maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        20.06366,
+                        32.124642
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Az Area L in Sidi Khiribech egy ásatási terület benghazi-lighthouse-landmarks-v2-ben, amely ókori kőszerkezetek maradványait hozza felszínre.",
+                  "category": "historical",
+                  "coords": [
+                        20.062394,
+                        32.124365
+                  ]
+            },
+            {
+                  "name": "Binqatou Mosque",
+                  "text": "A benghazi-lighthouse-landmarks-v2-ben található Binqatou Mosque jellegzetes minaretjével és iszlám építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Euesperides",
+                  "text": "Situl arheologic Euesperides din benghazi-lighthouse-landmarks-v2 conservă rămășițele unei așezări grecești ce datează din secolul al VI-lea î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        20.06366,
+                        32.124642
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Area L in Sidi Khiribech este un sit de săpături din benghazi-lighthouse-landmarks-v2, dezvăluind rămășițele unor structuri antice de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        20.062394,
+                        32.124365
+                  ]
+            },
+            {
+                  "name": "Binqatou Mosque",
+                  "text": "Moscheea Binqatou din benghazi-lighthouse-landmarks-v2 se distinge prin minaretul său proeminent și arhitectura islamică.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Euesperides",
+                  "text": "The Euesperides archaeological site in benghazi-lighthouse-landmarks-v2 preserves the excavated remains of an ancient Greek settlement established around the 6th century BC.",
+                  "category": "historical",
+                  "coords": [
+                        20.06366,
+                        32.124642
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Area L in Sidi Khiribech is an archaeological site in benghazi-lighthouse-landmarks-v2 unearthing the remains of ancient stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        20.062394,
+                        32.124365
+                  ]
+            },
+            {
+                  "name": "Binqatou Mosque",
+                  "text": "The Binqatou Mosque in benghazi-lighthouse-landmarks-v2 stands out with its distinct minaret and traditional Islamic architectural design.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120227
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-BA",
     coords: [20.0558, 32.1225],
@@ -453,7 +1389,52 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "al-sahaba-mosque-derna-landmarks-v2",
+    id: "al-sahaba-mosque-derna-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emilea",
+                  "text": "Ein lokales Wahrzeichen und eine Attraktion in der Nähe der Al-Sahaba-Moschee in Derna.",
+                  "category": "landmark",
+                  "coords": [
+                        22.562423,
+                        32.797687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emilea",
+                  "text": "Helyi nevezetesség és látványosság a dernai Al-Sahaba mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.562423,
+                        32.797687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emilea",
+                  "text": "Un punct de reper și o atracție locală situată în apropierea Moscheii Al-Sahaba din Derna.",
+                  "category": "landmark",
+                  "coords": [
+                        22.562423,
+                        32.797687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emilea",
+                  "text": "A local landmark and attraction located in the vicinity of the Al-Sahaba Mosque in Derna.",
+                  "category": "landmark",
+                  "coords": [
+                        22.562423,
+                        32.797687
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-DR",
     coords: [22.6358, 32.7667],
@@ -503,7 +1484,376 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "misrata-central-mosque-landmarks-v2",
+    id: "misrata-central-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Home",
+                  "text": "Diese urbane Sehenswürdigkeit liegt in unmittelbarer Nähe zur architektonisch markanten zentralen Moschee von Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Roundabout",
+                  "text": "Das steinerne Kreisverkehr-Denkmal ist ein zentrales urbanes Wahrzeichen im verkehrsreichen Zentrum von Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Smart Technology Company for Protection and Monitoring Systems",
+                  "text": "Der Aussichtspunkt bei der Smart Technology Company bietet einen Blick auf die modernen Geschäftsviertel von Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Das Historische Museum nahe der Moschee von Misrata bewahrt wichtige Artefakte zur städtischen und islamischen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Gadah roundabout",
+                  "text": "Das Denkmal am Gadah-Kreisverkehr ist ein markantes architektonisches Verkehrszeichen im Straßennetz von Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "Alaman beach",
+                  "text": "Der Alaman-Strand ist ein beliebter, sonniger Sandstreifen an der Mittelmeerküste von Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996992,
+                        32.416092
+                  ]
+            },
+            {
+                  "name": "Tubacabana.Toubah",
+                  "text": "Der Tubacabana Toubah Strand lädt mit seinem weichen Sandufer zum Entspannen am Mittelmeer bei Misrata ein.",
+                  "category": "recreational",
+                  "coords": [
+                        15.037921,
+                        32.41062
+                  ]
+            },
+            {
+                  "name": "youth beach",
+                  "text": "Ein sandiger Strandabschnitt an der Mittelmeerküste von Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022928,
+                        32.412801
+                  ]
+            },
+            {
+                  "name": "Aljazeera beach",
+                  "text": "Der Aljazeera-Strand bietet einen sandigen Zugang zum Meer in Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.012969,
+                        32.415601
+                  ]
+            },
+            {
+                  "name": "wenzreek beach",
+                  "text": "Ein Küstenstrand, der zum Schwimmen und Entspannen in der Gegend von Misrata einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.030458,
+                        32.41172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Home",
+                  "text": "Ez a városi látványosság a miszrátai központi mecset építészeti környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Roundabout",
+                  "text": "Ez a kőből épült körforgalmi emlékmű egy modern városi tájékozódási pont a forgalmas Miszrátában.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Smart Technology Company for Protection and Monitoring Systems",
+                  "text": "A Smart Technology Company épülete közelében lévő kilátópontról Miszráta modern üzleti negyedére nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "A Miszrátai Történeti Múzeum a város és a központi mecset környékének kulturális tárgyi emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Gadah roundabout",
+                  "text": "A Gadah körforgalom emlékműve a miszrátai modern úthálózat egyik felismerhető tájékozódási pontja.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "Alaman beach",
+                  "text": "Az Alaman strand egy napsütötte, kedvelt homokos partszakasz Miszráta mediterrán partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996992,
+                        32.416092
+                  ]
+            },
+            {
+                  "name": "Tubacabana.Toubah",
+                  "text": "A Tubacabana Toubah strand puha homokos partjával a Földközi-tenger mentén kínál kikapcsolódást Miszrátában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.037921,
+                        32.41062
+                  ]
+            },
+            {
+                  "name": "youth beach",
+                  "text": "Egy homokos partszakasz a Földközi-tenger partján, Miszrátában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022928,
+                        32.412801
+                  ]
+            },
+            {
+                  "name": "Aljazeera beach",
+                  "text": "Az Aljazeera strand homokos tengerparti kikapcsolódást kínál Miszrátában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.012969,
+                        32.415601
+                  ]
+            },
+            {
+                  "name": "wenzreek beach",
+                  "text": "Egy tengerparti strand, amely fürdőzésre és pihenésre hív Miszráta térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.030458,
+                        32.41172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Home",
+                  "text": "Această atracție urbană este situată în vecinătatea imediată a moscheii centrale din Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Roundabout",
+                  "text": "Monumentul de piatră din sensul giratoriu este un reper urban central pe străzile aglomerate din Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Smart Technology Company for Protection and Monitoring Systems",
+                  "text": "Punctul de belvedere de lângă Smart Technology Company oferă o panoramă a clădirilor de afaceri din Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Muzeul Istoric din zona centrală a Misratei păstrează artefacte semnificative privind moștenirea urbană locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Gadah roundabout",
+                  "text": "Monumentul din sensul giratoriu Gadah este un punct de reper arhitectural pe bulevardele din Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "Alaman beach",
+                  "text": "Plaja Alaman este o fâșie de nisip însorită situată pe coasta mediteraneană a orașului Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996992,
+                        32.416092
+                  ]
+            },
+            {
+                  "name": "Tubacabana.Toubah",
+                  "text": "Plaja Tubacabana Toubah oferă o zonă cu nisip fin, perfectă pentru relaxare pe țărmul Mării Mediterane din Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.037921,
+                        32.41062
+                  ]
+            },
+            {
+                  "name": "youth beach",
+                  "text": "O fâșie de plajă cu nisip pe coasta Mării Mediterane din Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022928,
+                        32.412801
+                  ]
+            },
+            {
+                  "name": "Aljazeera beach",
+                  "text": "Plaja Aljazeera oferă o zonă de nisip la malul mării în Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.012969,
+                        32.415601
+                  ]
+            },
+            {
+                  "name": "wenzreek beach",
+                  "text": "O plajă de coastă care invită la înot și relaxare în zona Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.030458,
+                        32.41172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Home",
+                  "text": "This urban attraction is located in the immediate neighborhood surrounding the central mosque of Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Roundabout",
+                  "text": "The stone roundabout monument serves as a central urban landmark amidst the busy traffic of Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Smart Technology Company for Protection and Monitoring Systems",
+                  "text": "The viewpoint near the Smart Technology Company offers a look at the modern commercial district of Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "The Historical Museum in central Misrata preserves significant artifacts detailing the city's civic and cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Gadah roundabout",
+                  "text": "The Gadah roundabout monument is a noticeable architectural traffic landmark in the streets of Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "Alaman beach",
+                  "text": "Alaman beach is a popular sunny sandy stretch situated along the Mediterranean coastline of Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996992,
+                        32.416092
+                  ]
+            },
+            {
+                  "name": "Tubacabana.Toubah",
+                  "text": "Tubacabana Toubah is a relaxing sandy beach destination featuring soft sands on the Mediterranean shore near Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.037921,
+                        32.41062
+                  ]
+            },
+            {
+                  "name": "youth beach",
+                  "text": "A sandy stretch of beach on the Mediterranean coast of Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022928,
+                        32.412801
+                  ]
+            },
+            {
+                  "name": "Aljazeera beach",
+                  "text": "Aljazeera beach offers a sandy coastal stretch by the sea in Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.012969,
+                        32.415601
+                  ]
+            },
+            {
+                  "name": "wenzreek beach",
+                  "text": "A coastal beach area inviting for swimming and relaxation in Misrata.",
+                  "category": "recreational",
+                  "coords": [
+                        15.030458,
+                        32.41172
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-MI",
     coords: [15.0883, 32.3789],
@@ -553,7 +1903,124 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "ouagadougou-conference-center-landmarks-v2",
+    id: "ouagadougou-conference-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUMMER AL QADDAFI",
+                  "text": "Ein Aussichtspunkt in Sirte, der in der Nähe des Ouagadougou-Konferenzzentrums liegt.",
+                  "category": "natural",
+                  "coords": [
+                        16.523216,
+                        31.193311
+                  ]
+            },
+            {
+                  "name": "Sirte Theater",
+                  "text": "Ein städtischer Veranstaltungsort für Theatervorführungen und kulturelle Ereignisse in Sirte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572448,
+                        31.202519
+                  ]
+            },
+            {
+                  "name": "Sirte Beach",
+                  "text": "Ein Sandstrand an der Mittelmeerküste bei Sirte, der zum Verweilen am Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568013,
+                        31.211744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUMMER AL QADDAFI",
+                  "text": "Egy kilátópont Szirtében, az Ouagadougou Konferenciaközpont közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.523216,
+                        31.193311
+                  ]
+            },
+            {
+                  "name": "Sirte Theater",
+                  "text": "Színházi előadások és kulturális események városi helyszíne Szirtében.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572448,
+                        31.202519
+                  ]
+            },
+            {
+                  "name": "Sirte Beach",
+                  "text": "Egy homokos tengerpart a Földközi-tenger partján Szirtében, amely pihenésre hív.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568013,
+                        31.211744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUMMER AL QADDAFI",
+                  "text": "Un punct de belvedere în Sirte, situat în apropierea Centrului de Conferințe Ouagadougou.",
+                  "category": "natural",
+                  "coords": [
+                        16.523216,
+                        31.193311
+                  ]
+            },
+            {
+                  "name": "Sirte Theater",
+                  "text": "Un spațiu urban pentru spectacole de teatru și evenimente culturale în Sirte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572448,
+                        31.202519
+                  ]
+            },
+            {
+                  "name": "Sirte Beach",
+                  "text": "O plajă cu nisip pe coasta mediteraneană din Sirte, perfectă pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568013,
+                        31.211744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUMMER AL QADDAFI",
+                  "text": "A viewpoint in Sirte situated near the Ouagadougou Conference Center.",
+                  "category": "natural",
+                  "coords": [
+                        16.523216,
+                        31.193311
+                  ]
+            },
+            {
+                  "name": "Sirte Theater",
+                  "text": "An urban venue for theatrical performances and cultural events located in Sirte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572448,
+                        31.202519
+                  ]
+            },
+            {
+                  "name": "Sirte Beach",
+                  "text": "A sandy beach on the Mediterranean coast of Sirte, inviting for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568013,
+                        31.211744
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-SR",
     coords: [16.5861, 31.1983],
@@ -603,7 +2070,52 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "zawiya-grand-mosque-landmarks-v2",
+    id: "zawiya-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alryhana",
+                  "text": "Alryhana ist eine markante lokale Sehenswürdigkeit im architektonischen Umfeld der Großen Moschee von Zawiya.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alryhana",
+                  "text": "Az Alryhana egy figyelemre méltó helyi látványosság a zawiyai Nagy Mecset építészeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alryhana",
+                  "text": "Alryhana este o atracție locală notabilă situată în peisajul arhitectural al Marii Moschei din Zawiya.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alryhana",
+                  "text": "Alryhana is a notable local attraction situated in the architectural setting of the Grand Mosque of Zawiya.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-ZA",
     coords: [12.7275, 32.7564],
@@ -653,7 +2165,52 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "al-khums-lighthouse-landmarks-v2",
+    id: "al-khums-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lighthouse of Khoms",
+                  "text": "Ein Küstenleuchtturm, der den Schiffsverkehr vor der Küste von Al-Khums sichert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lighthouse of Khoms",
+                  "text": "Egy tengerparti világítótorony, amely a hajóforgalmat irányítja Al-Khums partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lighthouse of Khoms",
+                  "text": "Un far de coastă care asigură traficul maritim în largul coastei Al-Khums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lighthouse of Khoms",
+                  "text": "A coastal lighthouse guiding maritime traffic off the shore of Al-Khums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-MQ",
     coords: [14.2692, 32.6517],
@@ -753,7 +2310,88 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
     {
-    id: "fortezza-margherita-sabha-landmarks-v2",
+    id: "fortezza-margherita-sabha-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Sabha",
+                  "text": "Das Teatro Sabha ist ein Theaterort in der Wüstensiedlung Sabha.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425212,
+                        27.042633
+                  ]
+            },
+            {
+                  "name": "Old Town",
+                  "text": "Die Altstadt beherbergt die Ruinen der ursprünglichen historischen Siedlung in Sabha.",
+                  "category": "historical",
+                  "coords": [
+                        14.41349,
+                        27.0499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Sabha",
+                  "text": "A Teatro Sabha egy színházi helyszín Sabha sivatagi településén.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425212,
+                        27.042633
+                  ]
+            },
+            {
+                  "name": "Old Town",
+                  "text": "Az óvárosban találhatók Sabha eredeti történelmi településének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        14.41349,
+                        27.0499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Sabha",
+                  "text": "Teatro Sabha este o sală de teatru situată în așezarea din deșert Sabha.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425212,
+                        27.042633
+                  ]
+            },
+            {
+                  "name": "Old Town",
+                  "text": "Orașul Vechi prezintă ruinele așezării istorice originale din Sabha.",
+                  "category": "historical",
+                  "coords": [
+                        14.41349,
+                        27.0499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Sabha",
+                  "text": "Teatro Sabha is a theatre venue located in the desert settlement of Sabha.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425212,
+                        27.042633
+                  ]
+            },
+            {
+                  "name": "Old Town",
+                  "text": "The Old Town features the ruins of the original historical settlement in Sabha.",
+                  "category": "historical",
+                  "coords": [
+                        14.41349,
+                        27.0499
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-SB",
     coords: [14.4300, 27.0394],
@@ -803,7 +2441,52 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "sabha-airport-terminal-landmarks-v2",
+    id: "sabha-airport-terminal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sebha Castle",
+                  "text": "Sebha Castle ist eine historische Festung auf einem Hügel, die die Wüstenstadt Sabha überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        14.454312,
+                        27.010354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sebha Castle",
+                  "text": "A Sebha vár egy történelmi hegytetőn álló erőd, amely Sabha sivatagi városára néz.",
+                  "category": "castle",
+                  "coords": [
+                        14.454312,
+                        27.010354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sebha Castle",
+                  "text": "Castelul Sebha este o fortăreață istorică pe un deal, care domină orașul deșertic Sabha.",
+                  "category": "castle",
+                  "coords": [
+                        14.454312,
+                        27.010354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sebha Castle",
+                  "text": "Sebha Castle is a historic hilltop fortress overlooking the desert city of Sabha.",
+                  "category": "castle",
+                  "coords": [
+                        14.454312,
+                        27.010354
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-SB",
     coords: [14.4725, 26.9864],
@@ -853,7 +2536,232 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "al-asmarya-mosque-zliten-landmarks-v2",
+    id: "al-asmarya-mosque-zliten-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "korbt ragaa",
+                  "text": "Eine lokale Sehenswürdigkeit in Zliten in der Nähe der berühmten Al-Asmarya-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        14.591249,
+                        32.484245
+                  ]
+            },
+            {
+                  "name": "Aljihad",
+                  "text": "Eine städtische Attraktion, die die lokale Kultur von Zliten widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622616,
+                        32.392983
+                  ]
+            },
+            {
+                  "name": "Al Mahdi alyassir",
+                  "text": "Eine befestigte, burgartige Anlage mit dem Namen Al Mahdi alyassir in Zliten.",
+                  "category": "castle",
+                  "coords": [
+                        14.619261,
+                        32.396269
+                  ]
+            },
+            {
+                  "name": "Alzeddam",
+                  "text": "Ein Gedenkmonument im Stadtbild von Zliten.",
+                  "category": "historical",
+                  "coords": [
+                        14.57043,
+                        32.473209
+                  ]
+            },
+            {
+                  "name": "Gazalat Museum",
+                  "text": "Das Gazalat-Museum stellt lokale historische und kulturelle Artefakte in Zliten aus.",
+                  "category": "museum",
+                  "coords": [
+                        14.566945,
+                        32.473965
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Ein Veranstaltungsort für Theateraufführungen und kulturelle Ereignisse in Zliten.",
+                  "category": "cultural",
+                  "coords": [
+                        14.568171,
+                        32.476367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "korbt ragaa",
+                  "text": "Egy helyi látványosság Zlitenben, a híres Al-Asmarya mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.591249,
+                        32.484245
+                  ]
+            },
+            {
+                  "name": "Aljihad",
+                  "text": "Egy városi látványosság, amely Zliten helyi kultúráját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622616,
+                        32.392983
+                  ]
+            },
+            {
+                  "name": "Al Mahdi alyassir",
+                  "text": "Egy erődített, kastélyszerű építmény, az Al Mahdi alyassir Zlitenben.",
+                  "category": "castle",
+                  "coords": [
+                        14.619261,
+                        32.396269
+                  ]
+            },
+            {
+                  "name": "Alzeddam",
+                  "text": "Egy emlékmű Zliten városképében.",
+                  "category": "historical",
+                  "coords": [
+                        14.57043,
+                        32.473209
+                  ]
+            },
+            {
+                  "name": "Gazalat Museum",
+                  "text": "A Gazalat Múzeum helyi történelmi és kulturális leleteket állít ki Zlitenben.",
+                  "category": "museum",
+                  "coords": [
+                        14.566945,
+                        32.473965
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Színházi előadások és kulturális események helyszíne Zlitenben.",
+                  "category": "cultural",
+                  "coords": [
+                        14.568171,
+                        32.476367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "korbt ragaa",
+                  "text": "O atracție locală din Zliten, situată în apropierea faimoasei Moschei Al-Asmarya.",
+                  "category": "landmark",
+                  "coords": [
+                        14.591249,
+                        32.484245
+                  ]
+            },
+            {
+                  "name": "Aljihad",
+                  "text": "O atracție urbană care reflectă cultura locală a orașului Zliten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622616,
+                        32.392983
+                  ]
+            },
+            {
+                  "name": "Al Mahdi alyassir",
+                  "text": "O structură fortificată asemănătoare unui castel, denumită Al Mahdi alyassir, în Zliten.",
+                  "category": "castle",
+                  "coords": [
+                        14.619261,
+                        32.396269
+                  ]
+            },
+            {
+                  "name": "Alzeddam",
+                  "text": "Un monument comemorativ în peisajul urban al orașului Zliten.",
+                  "category": "historical",
+                  "coords": [
+                        14.57043,
+                        32.473209
+                  ]
+            },
+            {
+                  "name": "Gazalat Museum",
+                  "text": "Muzeul Gazalat expune artefacte istorice și culturale locale în Zliten.",
+                  "category": "museum",
+                  "coords": [
+                        14.566945,
+                        32.473965
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Un loc de desfășurare a spectacolelor teatrale și a evenimentelor culturale în Zliten.",
+                  "category": "cultural",
+                  "coords": [
+                        14.568171,
+                        32.476367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "korbt ragaa",
+                  "text": "A local point of interest in Zliten, situated near the famous Al-Asmarya Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        14.591249,
+                        32.484245
+                  ]
+            },
+            {
+                  "name": "Aljihad",
+                  "text": "An urban attraction that reflects the local culture of Zliten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622616,
+                        32.392983
+                  ]
+            },
+            {
+                  "name": "Al Mahdi alyassir",
+                  "text": "A fortified castle-like structure named Al Mahdi alyassir in Zliten.",
+                  "category": "castle",
+                  "coords": [
+                        14.619261,
+                        32.396269
+                  ]
+            },
+            {
+                  "name": "Alzeddam",
+                  "text": "A commemorative monument standing in the urban landscape of Zliten.",
+                  "category": "historical",
+                  "coords": [
+                        14.57043,
+                        32.473209
+                  ]
+            },
+            {
+                  "name": "Gazalat Museum",
+                  "text": "The Gazalat Museum exhibits local historical and cultural artifacts in Zliten.",
+                  "category": "museum",
+                  "coords": [
+                        14.566945,
+                        32.473965
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "A venue for theatrical performances and cultural events located in Zliten.",
+                  "category": "cultural",
+                  "coords": [
+                        14.568171,
+                        32.476367
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-MQ",
     coords: [14.5717, 32.4686],
@@ -903,7 +2811,88 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "shahat-grand-mosque-landmarks-v2",
+    id: "shahat-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Der Demetertempel ist eine beeindruckende archäologische Stätte, die die verwitterten Säulen eines antiken griechischen Heiligtums in Kyrene bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Das Theater von Kyrene ist ein monumentales antikes Amphitheater mit halbkreisförmigen Steinsitzreihen inmitten archäologischer Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        21.856245,
+                        32.815616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Temple of Demeter",
+                  "text": "A Démétér-templom egy lenyűgöző régészeti lelőhely, amely egy ókori görög szentély oszlopait mutatja be Kürénében.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "A kürénéi színház egy monumentális ókori amfiteátrum félkör alakú kőülésekkel a kiterjedt régészeti romok között.",
+                  "category": "historical",
+                  "coords": [
+                        21.856245,
+                        32.815616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Templul lui Demeter este un sit arheologic impresionant care adăpostește coloanele erodate ale unui vechi sanctuar grecesc din Cirene.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Teatrul din Cirene este un amfiteatru antic monumental, având trepte de piatră semicirculare, situat în mijlocul ruinelor arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        21.856245,
+                        32.815616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple of Demeter",
+                  "text": "The Temple of Demeter is a profound archaeological site featuring the weathered columns of an ancient Greek sanctuary in Cyrene.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "The Theater of Cyrene is a monumental ancient amphitheater with semicircular stone seating tiers set amidst extensive archaeological ruins.",
+                  "category": "historical",
+                  "coords": [
+                        21.856245,
+                        32.815616
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-JG",
     coords: [21.8544, 32.8122],
@@ -953,7 +2942,196 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "al-baida-grand-mosque-landmarks-v2",
+    id: "al-baida-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Ghariqa Bridge",
+                  "text": "Diese Brücke in Al Bayda dient als markanter Aussichtspunkt über die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "Dove Bridge",
+                  "text": "Dieser lokal als Taubenbrücke bekannte Ort in Al Bayda bietet malerische Ausblicke auf die städtische Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "Um Safsaf Mosque",
+                  "text": "Diese Moschee in Al Bayda ist sowohl als Kultstätte als auch als prominenter lokaler Aussichtspunkt von Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Asklepios, Balagrae",
+                  "text": "Diese archäologische Stätte im antiken Balagrae nahe Al Bayda war ein Heiligtum, das Asklepios, dem Gott der Heilkunst, gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        21.715571,
+                        32.760854
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "Dieses große, burgähnliche Gebäude in Al Bayda wurde historisch als parlamentarischer Versammlungsort genutzt.",
+                  "category": "castle",
+                  "coords": [
+                        21.742122,
+                        32.764838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Ghariqa Bridge",
+                  "text": "Ez az Al Bayda-i híd kiemelkedő kilátópontként szolgál a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "Dove Bridge",
+                  "text": "A helyiek által Galamb-hídként ismert al-bayda-i helyszín festői kilátást nyújt a városi környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "Um Safsaf Mosque",
+                  "text": "Ez az Al Bayda-i mecset istentiszteleti helyként és kiemelkedő helyi kilátópontként is jelentős.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Asklepios, Balagrae",
+                  "text": "Az Al Bayda melletti ókori Balagraéban található régészeti lelőhely Aszklépiosznak, a gyógyítás istenének szentelt szentély volt.",
+                  "category": "historical",
+                  "coords": [
+                        21.715571,
+                        32.760854
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "Ezt a nagy, kastélyszerű épületet Al Baydában történelmileg parlamenti találkozóhelyként használták.",
+                  "category": "castle",
+                  "coords": [
+                        21.742122,
+                        32.764838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Ghariqa Bridge",
+                  "text": "Acest pod din Al Bayda servește drept un punct de observație proeminent asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "Dove Bridge",
+                  "text": "Cunoscut local sub numele de Podul Porumbeilor, acest loc din Al Bayda oferă vederi pitorești asupra mediului urban.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "Um Safsaf Mosque",
+                  "text": "Această moschee din Al Bayda este notabilă atât ca lăcaș de cult, cât și ca un punct de observație local proeminent.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Asklepios, Balagrae",
+                  "text": "Situat în anticul Balagrae, lângă Al Bayda, acest sit arheologic a fost un sanctuar dedicat lui Asklepios, zeul vindecării.",
+                  "category": "historical",
+                  "coords": [
+                        21.715571,
+                        32.760854
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "Această clădire grandioasă asemănătoare unui castel din Al Bayda a fost utilizată istoric ca loc de întâlnire parlamentară.",
+                  "category": "castle",
+                  "coords": [
+                        21.742122,
+                        32.764838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Ghariqa Bridge",
+                  "text": "This bridge in Al Bayda serves as a prominent viewpoint over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "Dove Bridge",
+                  "text": "Known locally as Dove Bridge, this spot in Al Bayda offers scenic views of the urban environment.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "Um Safsaf Mosque",
+                  "text": "This mosque in Al Bayda is notable both as a place of worship and a prominent local viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Asklepios, Balagrae",
+                  "text": "Located in ancient Balagrae near Al Bayda, this archaeological site was a sanctuary dedicated to Asklepios, the god of healing.",
+                  "category": "historical",
+                  "coords": [
+                        21.715571,
+                        32.760854
+                  ]
+            },
+            {
+                  "name": "Parliament",
+                  "text": "This grand castle-like building in Al Bayda was historically utilized as a parliamentary meeting place.",
+                  "category": "castle",
+                  "coords": [
+                        21.742122,
+                        32.764838
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-JG",
     coords: [21.7375, 32.7667],
@@ -1103,7 +3281,52 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "ghadames-grand-mosque-landmarks-v2",
+    id: "ghadames-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ghost Head",
+                  "text": "Ghost Head ist eine einzigartig benannte lokale Sehenswürdigkeit in der Nähe der historischen Wahrzeichen der Großen Moschee von Ghadames.",
+                  "category": "landmark",
+                  "coords": [
+                        9.486471,
+                        30.190719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ghost Head",
+                  "text": "A Ghost Head egy egyedi nevű helyi látványosság, amely a ghadamesi nagymecset történelmi nevezetességei közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        9.486471,
+                        30.190719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ghost Head",
+                  "text": "Ghost Head este o atracție locală cu un nume unic, situată în apropierea reperelor istorice ale Marii Moschei din Ghadames.",
+                  "category": "landmark",
+                  "coords": [
+                        9.486471,
+                        30.190719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghost Head",
+                  "text": "Ghost Head is a uniquely named local attraction positioned near the historic landmarks of the Ghadames Grand Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        9.486471,
+                        30.190719
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-NQ",
     coords: [9.4975, 30.1342],
@@ -1153,7 +3376,376 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "benghazi-university-campus-landmarks-v2",
+    id: "benghazi-university-campus-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Aseel Resort",
+                  "text": "Ein Küstenrefugium, das entspannende Unterkünfte am Strand entlang der Mittelmeerküste von Bengasi bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996248,
+                        32.019642
+                  ]
+            },
+            {
+                  "name": "Ghanfouda Resort",
+                  "text": "Eine Ferienanlage am Meer im westlichen Stadtteil Ganfouda von Bengasi mit Blick auf den Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        20.024117,
+                        32.046832
+                  ]
+            },
+            {
+                  "name": "Nowruz resort",
+                  "text": "Ein mediterraner Küstenrückzugsort, der Freizeitanlagen am Strand und Unterkünfte für Besucher in Bengasi bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021626,
+                        32.048631
+                  ]
+            },
+            {
+                  "name": "ggg",
+                  "text": "Ein lokaler Anziehungspunkt in der Nähe des weitläufigen Universitätsgeländes von Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.046657,
+                        32.049314
+                  ]
+            },
+            {
+                  "name": "Abdo Ismail Place",
+                  "text": "Eine befestigte lokale Struktur, die für ihre robusten architektonischen Elemente im Stadtgebiet von Bengasi bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        20.070003,
+                        32.08051
+                  ]
+            },
+            {
+                  "name": "Mrs. Aisha Architecture of Zahra",
+                  "text": "Ein einzigartiges architektonisches Wahrzeichen, das markante regionale Designelemente in der Nähe der Universität von Bengasi präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.127788,
+                        32.050471
+                  ]
+            },
+            {
+                  "name": "Children's Theater",
+                  "text": "Ein kultureller Veranstaltungsort in Bengasi, der darstellende Künste und interaktive Theaterstücke speziell für ein jüngeres Publikum anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        20.093352,
+                        32.07989
+                  ]
+            },
+            {
+                  "name": "Ganfouda Beach",
+                  "text": "Ein Sandstrand entlang des Mittelmeers, der den Bewohnern und Besuchern im Westen von Bengasi erholsame Ufer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.00201,
+                        32.027567
+                  ]
+            },
+            {
+                  "name": "Tourist City - Nerrose",
+                  "text": "Ein erschlossener Küstenstreifen mit Freizeiteinrichtungen und Strandpromenaden an der Küste von Bengasi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.017791,
+                        32.043234
+                  ]
+            },
+            {
+                  "name": "Tourist village",
+                  "text": "Eine umfassende Strandferienanlage, die mit Unterkünften und Freizeiteinrichtungen am Mittelmeer ausgestattet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.035979,
+                        32.06076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Aseel Resort",
+                  "text": "Tengerparti üdülőhely, amely pihentető szállást kínál Bengázi mediterrán partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996248,
+                        32.019642
+                  ]
+            },
+            {
+                  "name": "Ghanfouda Resort",
+                  "text": "Tengerparti nyaralókomplexum Bengázi nyugati Ganfouda negyedében, ahonnan gyönyörű kilátás nyílik a tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        20.024117,
+                        32.046832
+                  ]
+            },
+            {
+                  "name": "Nowruz resort",
+                  "text": "Mediterrán tengerparti menedék, amely rekreációs strandolási lehetőségeket és szállást nyújt a Bengáziba látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021626,
+                        32.048631
+                  ]
+            },
+            {
+                  "name": "ggg",
+                  "text": "Helyi nevezetesség a bengázi egyetemi kampusz kiterjedt területének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.046657,
+                        32.049314
+                  ]
+            },
+            {
+                  "name": "Abdo Ismail Place",
+                  "text": "Erődített helyi építmény a bengázi városi övezetben, amely masszív építészeti elemeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        20.070003,
+                        32.08051
+                  ]
+            },
+            {
+                  "name": "Mrs. Aisha Architecture of Zahra",
+                  "text": "Egyedülálló építészeti nevezetesség, amely jellegzetes regionális dizájnelemeket mutat be a bengázi egyetem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.127788,
+                        32.050471
+                  ]
+            },
+            {
+                  "name": "Children's Theater",
+                  "text": "Kulturális helyszín Bengáziban, amely kifejezetten a fiatalabb közönségnek szóló előadóművészeti és interaktív daraboknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        20.093352,
+                        32.07989
+                  ]
+            },
+            {
+                  "name": "Ganfouda Beach",
+                  "text": "A Földközi-tenger mentén húzódó homokos partszakasz, amely pihentető környezetet kínál Bengázi nyugati részének lakói és látogatói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        20.00201,
+                        32.027567
+                  ]
+            },
+            {
+                  "name": "Tourist City - Nerrose",
+                  "text": "Fejlett tengerparti övezet, amely rekreációs létesítményekkel és sétányokkal várja a látogatókat a bengázi parton.",
+                  "category": "recreational",
+                  "coords": [
+                        20.017791,
+                        32.043234
+                  ]
+            },
+            {
+                  "name": "Tourist village",
+                  "text": "Komplex tengerparti üdülőfalu, amely szálláshellyel és kényelmi szolgáltatásokkal várja a Földközi-tenger szerelmeseit.",
+                  "category": "recreational",
+                  "coords": [
+                        20.035979,
+                        32.06076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Aseel Resort",
+                  "text": "O destinație de coastă care oferă cazare relaxantă pe plajă de-a lungul țărmurilor mediteraneene din Benghazi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996248,
+                        32.019642
+                  ]
+            },
+            {
+                  "name": "Ghanfouda Resort",
+                  "text": "Un complex de vacanță pe litoral situat în cartierul vestic Ganfouda din Benghazi, cu vedere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        20.024117,
+                        32.046832
+                  ]
+            },
+            {
+                  "name": "Nowruz resort",
+                  "text": "Un refugiu de coastă mediteraneană care oferă facilități de agrement pe plajă și cazare pentru vizitatorii din Benghazi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021626,
+                        32.048631
+                  ]
+            },
+            {
+                  "name": "ggg",
+                  "text": "Un punct de interes local situat în apropierea campusului universitar întins din Benghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.046657,
+                        32.049314
+                  ]
+            },
+            {
+                  "name": "Abdo Ismail Place",
+                  "text": "O structură locală fortificată, cunoscută pentru elementele sale arhitecturale robuste din zona urbană Benghazi.",
+                  "category": "castle",
+                  "coords": [
+                        20.070003,
+                        32.08051
+                  ]
+            },
+            {
+                  "name": "Mrs. Aisha Architecture of Zahra",
+                  "text": "Un punct de reper arhitectural unic, care prezintă elemente de design regional distincte în apropierea universității din Benghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.127788,
+                        32.050471
+                  ]
+            },
+            {
+                  "name": "Children's Theater",
+                  "text": "Un spațiu cultural dedicat găzduirii de arte spectacolului și piese interactive adaptate pentru publicul tânăr din Benghazi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.093352,
+                        32.07989
+                  ]
+            },
+            {
+                  "name": "Ganfouda Beach",
+                  "text": "O întindere de nisip de-a lungul Mării Mediterane, oferind țărmuri relaxante locuitorilor și vizitatorilor din vestul orașului Benghazi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.00201,
+                        32.027567
+                  ]
+            },
+            {
+                  "name": "Tourist City - Nerrose",
+                  "text": "O fâșie de coastă dezvoltată, cu facilități de agrement și promenade pe malul mării din Benghazi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.017791,
+                        32.043234
+                  ]
+            },
+            {
+                  "name": "Tourist village",
+                  "text": "Un complex turistic cuprinzător pe malul mării, dotat cu cazare și facilități de agrement la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        20.035979,
+                        32.06076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Aseel Resort",
+                  "text": "A coastal getaway offering relaxed beachfront accommodations along the Mediterranean shores of Benghazi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996248,
+                        32.019642
+                  ]
+            },
+            {
+                  "name": "Ghanfouda Resort",
+                  "text": "A seaside holiday complex situated in the western Ganfouda district of Benghazi, overlooking the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        20.024117,
+                        32.046832
+                  ]
+            },
+            {
+                  "name": "Nowruz resort",
+                  "text": "A Mediterranean coastal retreat providing recreational beach facilities and lodging for visitors in Benghazi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021626,
+                        32.048631
+                  ]
+            },
+            {
+                  "name": "gggggg",
+                  "text": "A local point of interest situated near the sprawling university campus grounds of Benghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.046657,
+                        32.049314
+                  ]
+            },
+            {
+                  "name": "Abdo Ismail Place",
+                  "text": "A fortified local structure known for its robust architectural elements within the Benghazi urban area.",
+                  "category": "castle",
+                  "coords": [
+                        20.070003,
+                        32.08051
+                  ]
+            },
+            {
+                  "name": "Mrs. Aisha Architecture of Zahra",
+                  "text": "A unique architectural landmark showcasing distinctive regional design elements near the Benghazi university.",
+                  "category": "landmark",
+                  "coords": [
+                        20.127788,
+                        32.050471
+                  ]
+            },
+            {
+                  "name": "Children's Theater",
+                  "text": "A cultural venue dedicated to hosting performing arts and interactive plays tailored for younger audiences in Benghazi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.093352,
+                        32.07989
+                  ]
+            },
+            {
+                  "name": "Ganfouda Beach",
+                  "text": "A sandy stretch along the Mediterranean Sea offering relaxing shores to residents and visitors in western Benghazi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.00201,
+                        32.027567
+                  ]
+            },
+            {
+                  "name": "Tourist City - Nerrose",
+                  "text": "A developed coastal strip featuring recreational facilities and beachfront promenades on the Benghazi shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        20.017791,
+                        32.043234
+                  ]
+            },
+            {
+                  "name": "Tourist village",
+                  "text": "A comprehensive beachfront resort complex equipped with lodging and leisure amenities by the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        20.035979,
+                        32.06076
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-BA",
     coords: [20.0667, 32.0833],
@@ -1253,7 +3845,88 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "tobruk-grand-mosque-landmarks-v2",
+    id: "tobruk-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "bridge's ship",
+                  "text": "Dieser Aussichtspunkt an der Küste von Tobruk bietet einen freien Blick auf den Hafen und historische Schiffswracks.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "the National Museum",
+                  "text": "Das Nationalmuseum von Tobruk präsentiert die regionale Geschichte mit einem starken Schwerpunkt auf Artefakten aus den bedeutenden Schlachten des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bridge's ship",
+                  "text": "Ez a tobruki tengerparti kilátópont tiszta rálátást nyújt a kikötőre és a történelmi hajóroncsokra.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "the National Museum",
+                  "text": "A tobruki Nemzeti Múzeum a regionális történelmet mutatja be, nagy hangsúlyt fektetve a második világháború jelentős csatáinak műtárgyaira.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bridge's ship",
+                  "text": "Acest punct de observație de coastă din Tobruk oferă vederi clare asupra portului și a epavelor maritime istorice.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "the National Museum",
+                  "text": "Muzeul Național din Tobruk prezintă istoria regională, cu un accent puternic pe artefactele din bătăliile semnificative din al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bridge's ship",
+                  "text": "This coastal viewpoint in Tobruk offers clear sights of the harbor and historical maritime wrecks.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "the National Museum",
+                  "text": "Tobruk's National Museum showcases regional history, with a strong focus on artifacts from the significant World War II battles.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-BU",
     coords: [23.9764, 32.0831],
@@ -1303,7 +3976,196 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "misrata-airport-terminal-landmarks-v2",
+    id: "misrata-airport-terminal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nadi misrata lelforosia",
+                  "text": "Ein lokaler Reitsportclub und eine Attraktion in der Nähe des Flughafens von Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.108058,
+                        32.306714
+                  ]
+            },
+            {
+                  "name": "gordabiea moll",
+                  "text": "Ein Einkaufszentrum, das als kommerzieller Treffpunkt in Misrata dient.",
+                  "category": "landmark",
+                  "coords": [
+                        15.099663,
+                        32.325919
+                  ]
+            },
+            {
+                  "name": "Gate",
+                  "text": "Ein strukturelles Tor, das als Aussichtspunkt in der Nähe des Flughafens Misrata fungiert.",
+                  "category": "natural",
+                  "coords": [
+                        15.042478,
+                        32.323179
+                  ]
+            },
+            {
+                  "name": "Elhaif Land",
+                  "text": "Eine an eine Burg erinnernde Anlage in der Region Misrata.",
+                  "category": "castle",
+                  "coords": [
+                        14.999846,
+                        32.310662
+                  ]
+            },
+            {
+                  "name": "Arab Market Roundabout",
+                  "text": "Dieser belebte Kreisverkehr befindet sich in der Nähe des traditionellen arabischen Marktes von Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        14.99052,
+                        32.317307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nadi misrata lelforosia",
+                  "text": "Egy helyi lovasklub és látványosság a miszrátai repülőtér közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.108058,
+                        32.306714
+                  ]
+            },
+            {
+                  "name": "gordabiea moll",
+                  "text": "Egy bevásárlóközpont, amely kereskedelmi találkozóhelyként szolgál Miszrátában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.099663,
+                        32.325919
+                  ]
+            },
+            {
+                  "name": "Gate",
+                  "text": "Egy kapuépítmény, amely kilátópontként szolgál a miszrátai repülőtér közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.042478,
+                        32.323179
+                  ]
+            },
+            {
+                  "name": "Elhaif Land",
+                  "text": "Egy kastélyra emlékeztető építmény Miszráta térségében.",
+                  "category": "castle",
+                  "coords": [
+                        14.999846,
+                        32.310662
+                  ]
+            },
+            {
+                  "name": "Arab Market Roundabout",
+                  "text": "Ez a forgalmas körforgalom Miszráta hagyományos arab piaca közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        14.99052,
+                        32.317307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nadi misrata lelforosia",
+                  "text": "Un club ecvestru local și o atracție situată în apropierea aeroportului din Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.108058,
+                        32.306714
+                  ]
+            },
+            {
+                  "name": "gordabiea moll",
+                  "text": "Un centru comercial care servește drept punct de întâlnire în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.099663,
+                        32.325919
+                  ]
+            },
+            {
+                  "name": "Gate",
+                  "text": "O poartă structurală care funcționează ca un punct de belvedere în apropierea aeroportului Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.042478,
+                        32.323179
+                  ]
+            },
+            {
+                  "name": "Elhaif Land",
+                  "text": "O facilitate asemănătoare unui castel din regiunea Misrata.",
+                  "category": "castle",
+                  "coords": [
+                        14.999846,
+                        32.310662
+                  ]
+            },
+            {
+                  "name": "Arab Market Roundabout",
+                  "text": "Acest sens giratoriu aglomerat se află în apropierea pieței tradiționale arabe din Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        14.99052,
+                        32.317307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nadi misrata lelforosia",
+                  "text": "A local equestrian club and attraction situated near the Misrata airport.",
+                  "category": "landmark",
+                  "coords": [
+                        15.108058,
+                        32.306714
+                  ]
+            },
+            {
+                  "name": "gordabiea moll",
+                  "text": "A shopping mall serving as a commercial gathering place in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.099663,
+                        32.325919
+                  ]
+            },
+            {
+                  "name": "Gate",
+                  "text": "A structural gate acting as a viewpoint in the vicinity of the Misrata airport.",
+                  "category": "natural",
+                  "coords": [
+                        15.042478,
+                        32.323179
+                  ]
+            },
+            {
+                  "name": "Elhaif Land",
+                  "text": "A castle-like facility located in the region of Misrata.",
+                  "category": "castle",
+                  "coords": [
+                        14.999846,
+                        32.310662
+                  ]
+            },
+            {
+                  "name": "Arab Market Roundabout",
+                  "text": "This busy roundabout is located near the traditional Arab market of Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        14.99052,
+                        32.317307
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-MI",
     coords: [15.0594, 32.3275],
@@ -1353,7 +4215,232 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
   },
   {
-    id: "al-kish-square-mosque-landmarks-v2",
+    id: "al-kish-square-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piazza Al kesh",
+                  "text": "Ein bedeutender städtischer Platz in Bengasi, der häufig als Treffpunkt für öffentliche Veranstaltungen und Märkte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "Al Badria Palace",
+                  "text": "Ein kunstvoll verziertes historisches Bauwerk, das als prominentes Überbleibsel von Bengasis königlicher Vergangenheit dient.",
+                  "category": "castle",
+                  "coords": [
+                        20.108505,
+                        32.108327
+                  ]
+            },
+            {
+                  "name": "Laguna Theme Park",
+                  "text": "Ein familienfreundliches Vergnügungsziel mit einer Vielzahl von mechanischen Fahrgeschäften und Unterhaltungsständen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.127129,
+                        32.072065
+                  ]
+            },
+            {
+                  "name": "Al-Watiqa Insurance Company",
+                  "text": "Ein modernes mehrstöckiges Firmengebäude, dessen obere Etagen einen weiten Blick über den Bezirk Al Kish bieten.",
+                  "category": "natural",
+                  "coords": [
+                        20.100887,
+                        32.091655
+                  ]
+            },
+            {
+                  "name": "Al Birka Palace",
+                  "text": "Eine prunkvolle Palastfestung aus der osmanischen Zeit, die das tiefe architektonische Erbe des Viertels Al Birka widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        20.077599,
+                        32.095397
+                  ]
+            },
+            {
+                  "name": "Zoo Bengasi",
+                  "text": "Ein weitläufiger zoologischer Park in Bengasi (Il Bosco), der eine vielfältige Sammlung regionaler und exotischer Wildtiere beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.09664,
+                        32.082822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piazza Al kesh",
+                  "text": "Bengázi jelentős városi tere, amely gyakran szolgál nyilvános események és piacok gyülekezőhelyéül.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "Al Badria Palace",
+                  "text": "Díszes történelmi építészeti alkotás, amely Bengázi királyi múltjának kiemelkedő emlékeként áll.",
+                  "category": "castle",
+                  "coords": [
+                        20.108505,
+                        32.108327
+                  ]
+            },
+            {
+                  "name": "Laguna Theme Park",
+                  "text": "Családbarát vidámpark, amely különféle mechanikus körhintákkal és szórakoztató standokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        20.127129,
+                        32.072065
+                  ]
+            },
+            {
+                  "name": "Al-Watiqa Insurance Company",
+                  "text": "Modern, többszintes irodaépület, amelynek felső szintjeiről kiterjedt kilátás nyílik az Al Kish negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        20.100887,
+                        32.091655
+                  ]
+            },
+            {
+                  "name": "Al Birka Palace",
+                  "text": "Oszmán-kori palotaerőd, amely az Al Birka negyed mélyreható építészeti örökségét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        20.077599,
+                        32.095397
+                  ]
+            },
+            {
+                  "name": "Benghazi Zoo",
+                  "text": "Bengázi kiterjedt állatkertje (Il Bosco), amely számos regionális és egzotikus vadállatnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        20.09664,
+                        32.082822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piazza Al kesh",
+                  "text": "O piață urbană majoră din Benghazi, care servește frecvent ca punct de adunare pentru evenimente publice și piețe.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "Al Badria Palace",
+                  "text": "O structură arhitecturală istorică ornamentată, care stă ca o rămășiță proeminentă a trecutului regal al orașului Benghazi.",
+                  "category": "castle",
+                  "coords": [
+                        20.108505,
+                        32.108327
+                  ]
+            },
+            {
+                  "name": "Laguna Theme Park",
+                  "text": "O destinație de distracție potrivită pentru familii, care oferă o varietate de atracții mecanice și standuri de divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        20.127129,
+                        32.072065
+                  ]
+            },
+            {
+                  "name": "Al-Watiqa Insurance Company",
+                  "text": "O clădire corporativă modernă cu mai multe etaje, ale cărei niveluri superioare oferă vederi extinse asupra cartierului Al Kish.",
+                  "category": "natural",
+                  "coords": [
+                        20.100887,
+                        32.091655
+                  ]
+            },
+            {
+                  "name": "Al Birka Palace",
+                  "text": "O măreață fortăreață palatină din epoca otomană, care reflectă profunda moștenire arhitecturală a cartierului Al Birka.",
+                  "category": "castle",
+                  "coords": [
+                        20.077599,
+                        32.095397
+                  ]
+            },
+            {
+                  "name": "Benghazi Zoo",
+                  "text": "Un parc zoologic vast în Benghazi (Il Bosco), care găzduiește o colecție diversă de animale sălbatice regionale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        20.09664,
+                        32.082822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piazza Al kesh",
+                  "text": "A major urban square in Benghazi that frequently serves as a gathering point for public events and markets.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "Al Badria Palace",
+                  "text": "An ornate historic architectural structure standing as a prominent remnant of Benghazi's regal past.",
+                  "category": "castle",
+                  "coords": [
+                        20.108505,
+                        32.108327
+                  ]
+            },
+            {
+                  "name": "Laguna Theme Park",
+                  "text": "A family-friendly amusement destination featuring a variety of mechanical rides and entertainment stalls.",
+                  "category": "recreational",
+                  "coords": [
+                        20.127129,
+                        32.072065
+                  ]
+            },
+            {
+                  "name": "Al-Watiqa Insurance Company",
+                  "text": "A modern multi-story corporate building whose upper levels provide extensive views over the Al Kish district.",
+                  "category": "natural",
+                  "coords": [
+                        20.100887,
+                        32.091655
+                  ]
+            },
+            {
+                  "name": "Al Birka Palace",
+                  "text": "A grand Ottoman-era palatial fortress that reflects the deep architectural heritage of the Al Birka neighborhood.",
+                  "category": "castle",
+                  "coords": [
+                        20.077599,
+                        32.095397
+                  ]
+            },
+            {
+                  "name": "Benghazi Zoo",
+                  "text": "An expansive zoological park in Benghazi (Il Bosco) home to a diverse collection of regional and exotic wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        20.09664,
+                        32.082822
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LY-BA",
     coords: [20.0767, 32.1008],

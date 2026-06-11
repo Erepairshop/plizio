@@ -161,7 +161,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Lutkovno gledališče Ljubljana",
-                  "text": "Das Puppentheater Ljubljana ist eine der wichtigsten Institutionen für Figurentheater in Slowenien.",
+                  "text": "Ljubljanaer Puppentheater, gegründet 1948.",
                   "category": "cultural",
                   "coords": [
                         14.510096,
@@ -431,7 +431,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šlajmerjev park",
-                  "text": "Der Šlajmer Park ist ein Park in Ljubljana.",
+                  "text": "Šlajmer Park in Ljubljana, entworfen von Architekt Jože Plečnik.",
                   "category": "park",
                   "coords": [
                         14.522977,
@@ -703,7 +703,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Lutkovno gledališče Ljubljana",
-                  "text": "A Ljubljanai Bábszínház Szlovénia egyik legfontosabb bábjátékos intézménye.",
+                  "text": "Ljubljanai Bábszínház, 1948-ban alapították.",
                   "category": "cultural",
                   "coords": [
                         14.510096,
@@ -973,7 +973,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šlajmerjev park",
-                  "text": "A Šlajmer Park egy park Ljubljanában.",
+                  "text": "Šlajmer park Ljubljanában, Jože Plečnik építész tervezte.",
                   "category": "park",
                   "coords": [
                         14.522977,
@@ -1245,7 +1245,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Lutkovno gledališče Ljubljana",
-                  "text": "Teatrul de Păpuși din Ljubljana este o instituție culturală dedicată spectacolelor cu păpuși.",
+                  "text": "Teatrul de Păpuși din Ljubljana, fondat în 1948.",
                   "category": "cultural",
                   "coords": [
                         14.510096,
@@ -1515,7 +1515,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šlajmerjev park",
-                  "text": "Šlajmer Park este un parc din Ljubljana.",
+                  "text": "Parcul Šlajmer din Ljubljana, proiectat de arhitectul Jože Plečnik.",
                   "category": "park",
                   "coords": [
                         14.522977,
@@ -1787,7 +1787,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Ljubljana Puppet Theatre",
-                  "text": "The Ljubljana Puppet Theatre is a premier institution for puppetry performances in Slovenia.",
+                  "text": "Ljubljana Puppet Theatre, founded in 1948.",
                   "category": "cultural",
                   "coords": [
                         14.510096,
@@ -2057,7 +2057,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šlajmer Park",
-                  "text": "Šlajmer Park is a park located in Ljubljana.",
+                  "text": "Šlajmer Park in Ljubljana, designed by architect Jože Plečnik.",
                   "category": "park",
                   "coords": [
                         14.522977,
@@ -4382,7 +4382,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šrotenturn",
-                  "text": "Šrotenturn ist ein Herrenhaus in Kranj.",
+                  "text": "Šrotenturn in Kranj, ein historisches Bauwerk aus dem Jahr 1574.",
                   "category": "historical",
                   "coords": [
                         14.339223,
@@ -4537,7 +4537,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šrotenturn",
-                  "text": "A Šrotenturn egy udvarház Kranjban.",
+                  "text": "Šrotenturn Kranjban, 1574-ből származó történelmi építmény.",
                   "category": "historical",
                   "coords": [
                         14.339223,
@@ -4692,7 +4692,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šrotenturn",
-                  "text": "Šrotenturn este un conac situat în Kranj.",
+                  "text": "Šrotenturn în Kranj, o structură istorică datând din 1574.",
                   "category": "historical",
                   "coords": [
                         14.339223,
@@ -4847,7 +4847,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šrotenturn",
-                  "text": "Šrotenturn is a manor house situated in Kranj.",
+                  "text": "Šrotenturn in Kranj, a historical structure dating from 1574.",
                   "category": "historical",
                   "coords": [
                         14.339223,

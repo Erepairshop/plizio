@@ -67,7 +67,52 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     },
   },
   {
-    id: "pepel-port-economic-v2",
+    id: "pepel-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bunce Island Fortress",
+                  "text": "Die düsteren Ruinen der Bunce Island Fortress in der Region pepel-port-economic-v2 sind die steinernen Überreste eines großen Außenpostens des transatlantischen Sklavenhandels.",
+                  "category": "historical",
+                  "coords": [
+                        -13.039729,
+                        8.57148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bunce Island Fortress",
+                  "text": "A pepel-port-economic-v2 régióban található Bunce-szigeti erőd komor romjai egy jelentős transzatlanti rabszolgakereskedelmi előőrs kőmaradványaiként állnak.",
+                  "category": "historical",
+                  "coords": [
+                        -13.039729,
+                        8.57148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bunce Island Fortress",
+                  "text": "Situate în regiunea pepel-port-economic-v2, ruinele sumbre ale Fortăreței Insulei Bunce stau drept rămășițe de piatră ale unui avanpost major al comerțului transatlantic cu sclavi.",
+                  "category": "historical",
+                  "coords": [
+                        -13.039729,
+                        8.57148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunce Island Fortress",
+                  "text": "Located in the pepel-port-economic-v2 region, the somber ruins of the Bunce Island Fortress stand as stone remnants of a major transatlantic slave trading outpost.",
+                  "category": "historical",
+                  "coords": [
+                        -13.039729,
+                        8.57148
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SL-NW",
     coords: [-13.06, 8.583],
@@ -259,7 +304,52 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     },
   },
   {
-    id: "koidu-mine-economic-v2",
+    id: "koidu-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Resettlement",
+                  "text": "Der Aussichtspunkt Resettlement bietet eine klare Perspektive auf die umgesiedelten Gemeinden in der Nähe der aktiven Koidu-Diamantenmine.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Resettlement",
+                  "text": "A Resettlement kilátó tiszta rálátást nyújt az aktív Koidu gyémántbánya közelében lévő, áttelepített közösségekre.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Resettlement",
+                  "text": "Punctul de belvedere Resettlement oferă o perspectivă clară asupra comunităților relocate în apropierea minei active de diamante Koidu.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Resettlement",
+                  "text": "The Resettlement viewpoint offers a clear perspective over the relocated communities near the active Koidu diamond mine.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SL-E",
     coords: [-10.97, 8.64],
@@ -573,7 +663,52 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     },
   },
   {
-    id: "brewery-wellington-economic-v2",
+    id: "brewery-wellington-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "GUARD STREET CINEMA HALL",
+                  "text": "Im Bezirk brewery-wellington-economic-v2 gelegen, zeigt dieser Theatersaal Filme und bietet bestuhlte Unterhaltung für die lokale Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.196484,
+                        8.465457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GUARD STREET CINEMA HALL",
+                  "text": "A brewery-wellington-economic-v2 negyedben található beltéri moziterem filmeket vetít és ültetett szórakoztató műsorokat rendez a helyi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.196484,
+                        8.465457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GUARD STREET CINEMA HALL",
+                  "text": "Situată în districtul brewery-wellington-economic-v2, această sală de teatru interioară proiectează filme și găzduiește divertisment cu locuri pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.196484,
+                        8.465457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GUARD STREET CINEMA HALL",
+                  "text": "Located in the brewery-wellington-economic-v2 district, this indoor theatre hall screens films and hosts seated entertainment for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.196484,
+                        8.465457
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SL-W",
     coords: [-13.183, 8.462],
@@ -1213,7 +1348,52 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     },
   },
   {
-    id: "baomahun-gold-economic-v2",
+    id: "baomahun-gold-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kangari",
+                  "text": "Kangari ist ein bewaldeter Gipfel in einer Hügelkette mit Blick auf die Goldbauregion Baomahun.",
+                  "category": "natural",
+                  "coords": [
+                        -11.628334,
+                        8.465395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kangari",
+                  "text": "A Kangari egy erdős hegycsúcs egy dombvidéken, amely a Baomahun aranybányászati régióra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -11.628334,
+                        8.465395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kangari",
+                  "text": "Kangari este un vârf împădurit situat într-o zonă deluroasă care domină regiunea minieră auriferă Baomahun.",
+                  "category": "natural",
+                  "coords": [
+                        -11.628334,
+                        8.465395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kangari",
+                  "text": "Kangari is a forested peak situated in a hill range that overlooks the Baomahun gold mining region.",
+                  "category": "natural",
+                  "coords": [
+                        -11.628334,
+                        8.465395
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SL-S",
     coords: [-11.683, 8.417],

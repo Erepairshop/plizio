@@ -1413,7 +1413,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Evangelisch-Lutherische Kirche Kėdainiai",
-                  "text": "Eine evangelisch-lutherische Kirche in Kėdainiai.",
+                  "text": "1629 erbaute evangelisch-lutherische Kirche.",
                   "category": "religious",
                   "coords": [
                         23.970797,
@@ -1514,7 +1514,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Kėdainių evangelikų liuteronų bažnyčia",
-                  "text": "Evangélikus templom Kėdainiaiban.",
+                  "text": "1629-ben épült evangélikus-lutheránus templom.",
                   "category": "religious",
                   "coords": [
                         23.970797,
@@ -1615,7 +1615,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Kėdainių evangelikų liuteronų bažnyčia",
-                  "text": "O biserică evanghelică luterană din Kėdainiai.",
+                  "text": "Biserică evanghelică-luterană construită în 1629.",
                   "category": "religious",
                   "coords": [
                         23.970797,
@@ -1716,7 +1716,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Kėdainių evangelikų liuteronų bažnyčia",
-                  "text": "An Evangelical Lutheran church in Kėdainiai.",
+                  "text": "Evangelical Lutheran church built in 1629.",
                   "category": "religious",
                   "coords": [
                         23.970797,

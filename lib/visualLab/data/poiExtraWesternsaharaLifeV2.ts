@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const westernsaharaLifeV2: POI[] = [
 
   {
-    id: "westernsahara-sabkhat-tichla-life-v2",
+    id: "westernsahara-sabkhat-tichla-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tichla Fort",
+                  "text": "Tichla Fort ist der zerstörte Überrest einer Wüstenfestung in der Westsahara.",
+                  "category": "castle",
+                  "coords": [
+                        -14.966978,
+                        21.599617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tichla Fort",
+                  "text": "A tichlai erőd egy nyugat-szaharai sivatagi erődítmény romos maradványa.",
+                  "category": "castle",
+                  "coords": [
+                        -14.966978,
+                        21.599617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tichla Fort",
+                  "text": "Fortul Tichla este rămășița în ruine a unei fortărețe deșertice situate în Sahara Occidentală.",
+                  "category": "castle",
+                  "coords": [
+                        -14.966978,
+                        21.599617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tichla Fort",
+                  "text": "Tichla Fort is the ruined remnant of a desert fortress located in Western Sahara.",
+                  "category": "castle",
+                  "coords": [
+                        -14.966978,
+                        21.599617
+                  ]
+            }
+      ]
+},
     type: "lake",
     name: { de: "Sabkhat Tichla Salzpfanne", hu: "Sabkhat Tichla sósláp", ro: "Depresiunea salină Sabkhat Tichla", en: "Sabkhat Tichla Salt Pan" },
     coords: [-14.954, 21.613],
@@ -355,7 +400,88 @@ export const westernsaharaLifeV2: POI[] = [
     image: "/poi-images/westernsahara-auserd-wildlife-life-v2.webp",
   },
   {
-    id: "westernsahara-laguna-de-naila-life-v2",
+    id: "westernsahara-laguna-de-naila-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "e Antoine de Saint Exup",
+                  "text": "Dieses Museum ehrt das Leben und die literarischen Werke des berühmten Fliegers Antoine de Saint-Exupéry.",
+                  "category": "museum",
+                  "coords": [
+                        -12.924829,
+                        27.943884
+                  ]
+            },
+            {
+                  "name": "Casa del Mar",
+                  "text": "Diese historischen Fabrikruinen, auch als Dar Al Bahr bekannt, liegen direkt an der felsigen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.930963,
+                        27.946201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "e Antoine de Saint Exup",
+                  "text": "Ez a múzeum a híres pilóta és író, Antoine de Saint-Exupéry élete és irodalmi munkássága előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        -12.924829,
+                        27.943884
+                  ]
+            },
+            {
+                  "name": "Casa del Mar",
+                  "text": "Ezek a Dar Al Bahr néven is ismert történelmi gyárromok közvetlenül a sziklás tengerparton találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.930963,
+                        27.946201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "e Antoine de Saint Exup",
+                  "text": "Acest muzeu onorează viața și operele literare ale faimosului aviator Antoine de Saint-Exupéry.",
+                  "category": "museum",
+                  "coords": [
+                        -12.924829,
+                        27.943884
+                  ]
+            },
+            {
+                  "name": "Casa del Mar",
+                  "text": "Aceste ruine istorice ale fabricii, cunoscute și sub numele de Dar Al Bahr, sunt situate chiar pe coasta stâncoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.930963,
+                        27.946201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antoine de Saint-Exupéry Museum",
+                  "text": "This museum honors the life and literary works of the famous aviator and writer Antoine de Saint-Exupéry.",
+                  "category": "museum",
+                  "coords": [
+                        -12.924829,
+                        27.943884
+                  ]
+            },
+            {
+                  "name": "Mackenzie's Factory",
+                  "text": "These historic factory ruins, also known as Dar Al Bahr, are situated right on the rocky coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.930963,
+                        27.946201
+                  ]
+            }
+      ]
+},
     type: "lake",
     name: { de: "Laguna de Naila", hu: "Laguna de Naila", ro: "Laguna de Naila", en: "Laguna de Naila" },
     coords: [-12.875, 27.915],
@@ -487,7 +613,88 @@ export const westernsaharaLifeV2: POI[] = [
     image: "/poi-images/westernsahara-guelta-de-zoug-life-v2.webp",
   },
   {
-    id: "westernsahara-dakhla-peninsula-life-v2",
+    id: "westernsahara-dakhla-peninsula-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Autruches",
+                  "text": "Diese Attraktion auf der Dakhla-Halbinsel bietet die seltene Gelegenheit, an den Wüstenbedingungen angepasste Strauße aus der Nähe zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.912383,
+                        23.794275
+                  ]
+            },
+            {
+                  "name": "Jacuzzi Souffre",
+                  "text": "Der Jacuzzi Souffre auf der Dakhla-Halbinsel ist eine natürliche, schwefelhaltige Thermalquelle mitten in der kargen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.910542,
+                        23.795951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Autruches",
+                  "text": "Ez a látványosság a Dakhla-félszigeten ritka lehetőséget kínál a sivatagi körülményekhez alkalmazkodott struccok közelről történő megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.912383,
+                        23.794275
+                  ]
+            },
+            {
+                  "name": "Jacuzzi Souffre",
+                  "text": "A Jacuzzi Souffre a Dakhla-félszigeten egy természetes kéntartalmú hőforrás a kopár táj közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.910542,
+                        23.795951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Autruches",
+                  "text": "Această atracție de pe Peninsula Dakhla oferă ocazia rară de a observa de aproape struți adaptați la deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.912383,
+                        23.794275
+                  ]
+            },
+            {
+                  "name": "Jacuzzi Souffre",
+                  "text": "Jacuzzi Souffre de pe Peninsula Dakhla este un izvor termal natural sulfuros situat în mijlocul peisajului arid.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.910542,
+                        23.795951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ostrich",
+                  "text": "This attraction on the Dakhla peninsula offers a rare chance to observe desert-adapted ostriches in their natural environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.912383,
+                        23.794275
+                  ]
+            },
+            {
+                  "name": "Jacuzzi Souffre",
+                  "text": "Jacuzzi Souffre on the Dakhla peninsula is a natural thermal sulfur spring bubbling amid the arid landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.910542,
+                        23.795951
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     name: { de: "Dakhla Halbinsel", hu: "Dakhla-félsziget", ro: "Peninsula Dakhla", en: "Dakhla Peninsula" },
     coords: [-15.89, 23.82],
@@ -663,7 +870,52 @@ export const westernsaharaLifeV2: POI[] = [
     image: "/poi-images/westernsahara-mahbes-park-wildlife-life-v2.webp",
   },
   {
-    id: "westernsahara-oued-sakia-el-hamra-life-v2",
+    id: "westernsahara-oued-sakia-el-hamra-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ville de La",
+                  "text": "Die Ville de La ist eine kleine Siedlung am Rande des ausgetrockneten Flussbetts des Sakia El Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.189649,
+                        27.152586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ville de La",
+                  "text": "A Ville de La egy kis település a kiszáradt Sakia El Hamra folyómeder szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.189649,
+                        27.152586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ville de La",
+                  "text": "Ville de La este o mică așezare situată la marginea albiei uscate a râului Sakia El Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.189649,
+                        27.152586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ville de La",
+                  "text": "Ville de La is a small settlement situated along the edges of the dry Oued Sakia El Hamra riverbed.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.189649,
+                        27.152586
+                  ]
+            }
+      ]
+},
     type: "river",
     name: { de: "Oued Sakia El Hamra", hu: "Oued Sakia El Hamra", ro: "Oued Sakia El Hamra", en: "Oued Sakia El Hamra" },
     coords: [-13.2, 27.15],
@@ -1015,7 +1267,52 @@ export const westernsaharaLifeV2: POI[] = [
     image: "/poi-images/westernsahara-bou-jdour-coastal-life-v2.webp",
   },
   {
-    id: "westernsahara-oued-draa-delta-life-v2",
+    id: "westernsahara-oued-draa-delta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tafnidilt",
+                  "text": "Diese isolierte historische Festung überblickt die trockene Landschaft nahe dem Oued Draa-Delta.",
+                  "category": "fortress",
+                  "coords": [
+                        -10.986087,
+                        28.542804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tafnidilt",
+                  "text": "Ez az elszigetelt történelmi erődítmény az Oued Draa-delta közelében lévő száraz tájra néz.",
+                  "category": "fortress",
+                  "coords": [
+                        -10.986087,
+                        28.542804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tafnidilt",
+                  "text": "Această fortificație istorică izolată are vedere la peisajul arid din apropierea deltei Oued Draa.",
+                  "category": "fortress",
+                  "coords": [
+                        -10.986087,
+                        28.542804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tafnidilt",
+                  "text": "This isolated historic fortification overlooks the arid landscape near the Oued Draa delta.",
+                  "category": "fortress",
+                  "coords": [
+                        -10.986087,
+                        28.542804
+                  ]
+            }
+      ]
+},
     type: "river",
     name: { de: "Oued Draa Mündung", hu: "Oued Draa torkolat", ro: "Gura Oued Draa", en: "Oued Draa Estuary" },
     coords: [-11.0, 28.55],
